@@ -1,0 +1,1325 @@
+# Ley 20/2011, de 21 de julio, del Registro Civil.
+
+- Identificador BOE: `BOE-A-2011-12628`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-12628
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+La importancia del Registro Civil demanda la adopción de un nuevo modelo que se ajuste tanto a los valores consagrados en la Constitución de 1978 como a la realidad actual de la sociedad española.
+Aunque la vigente Ley del Registro Civil, de 8 de junio de 1957, ha dado muestras de su calidad técnica y de su capacidad de adaptación a lo largo de estos años, es innegable que la relevancia de las transformaciones habidas en nuestro país exige un cambio normativo en profundidad que, recogiendo los aspectos más valiosos de la institución registral, la acomode plenamente a la España de hoy, cuya realidad política, social y tecnológica es completamente distinta a la de entonces.
+La Constitución de 1978 sitúa a las personas y a sus derechos en el centro de la acción pública. Y ese inequívoco reconocimiento de la dignidad y la igualdad ha supuesto el progresivo abandono de construcciones jurídicas de épocas pasadas que configuraban el estado civil a partir del estado social, la religión, el sexo, la filiación o el matrimonio.
+Un Registro Civil coherente con la Constitución ha de asumir que las personas –iguales en dignidad y derechos- son su única razón de ser, no sólo desde una perspectiva individual y subjetiva sino también en su dimensión objetiva, como miembros de una comunidad políticamente organizada.
+Por este motivo, la Ley abandona la vieja preocupación por la constatación territorial de los hechos concernientes a las personas, sustituyéndola por un modelo radicalmente distinto que prioriza el historial de cada individuo, liberándolo de cargas administrativas y equilibrando la necesaria protección de su derecho fundamental a la intimidad con el carácter público del Registro Civil.
+En este sentido, la Ley suprime el tradicional sistema de división del Registro Civil en Secciones -nacimientos, matrimonios, defunciones, tutelas y representaciones legales- y crea un registro individual para cada persona a la que desde la primera inscripción que se practique se le asigna un código personal.
+Asimismo, en la presente Ley se incorpora tanto la Convención de los derechos del niño de 20 de noviembre de 1989, ratificada por España el 30 de noviembre de 1990, como la Convención sobre los derechos de las personas con discapacidad, de 13 de diciembre de 2006, ratificada por España el 23 de noviembre de 2007.
+II
+La modernización del Registro Civil también hace pertinente que su llevanza sea asumida por funcionarios públicos distintos de aquellos que integran el poder judicial del Estado, cuyo cometido constitucional es juzgar y ejecutar lo juzgado.
+En efecto, la aplicación al Registro Civil de técnicas organizativas y de gestión de naturaleza administrativa permitirá una mayor uniformidad de criterios y una tramitación más ágil y eficiente de los distintos expedientes, sin merma alguna del derecho de los ciudadanos a una tutela judicial efectiva, pues todos los actos del Registro Civil quedan sujetos a control judicial.
+Esta Ley deslinda con claridad las tradicionales funciones gubernativas y judiciales que por inercia histórica todavía aparecen entremezcladas en el sistema de la Ley de 1957, y aproxima nuestro modelo de Registro Civil al existente en otros países de nuestro entorno, en los que también se ha optado por un órgano o entidad de naturaleza administrativa con el fin de prestar un servicio público de mayor calidad, sin perjuicio de la garantía judicial de los derechos de los ciudadanos.
+Puesto que la materia a la que el funcionamiento del Registro Civil se refiere es el estado civil de las personas y en ciertos aspectos, el derecho de familia, la jurisdicción competente es la civil. No obstante, se exceptúa la nacionalidad por residencia, respecto de la que persisten las razones que aconsejaron trasladar esta materia a la jurisdicción contencioso-administrativa con la entrada en vigor de la Ley 18/1990, de 17 de diciembre, de reforma del Código Civil.
+III
+Esa misma vocación modernizadora hace que en la Ley se diseñe un Registro Civil único para toda España, informatizado y accesible electrónicamente.
+El Registro Civil se configura como una base de datos única que permite compaginar la unidad de la información con la gestión territorializada y la universalidad en el acceso. Este salto conceptual, que implica la superación del Registro físicamente articulado en libros custodiados en oficinas distribuidas por toda España, obliga a un replanteamiento de toda su estructura organizativa, que ahora ha de tener por objetivo principal eximir al ciudadano de la carga de tener que acudir presencialmente a las oficinas del Registro.
+Un Registro Civil electrónico exige una estructura organizativa bien distinta de la actual. Estructura que, además, ha de tener presente a las Comunidades Autónomas.
+A todo ello se dedica el título III de esta Ley, en el que se contempla una organización del Registro Civil mucho más sencilla que la anterior, diferenciándose entre Oficinas Generales, Oficina Central y Oficinas Consulares, dotadas de funciones y competencias propias, aunque dependiendo de la Dirección General de los Registros y del Notariado en tanto que centro superior directivo, consultivo y responsable último del Registro Civil.
+Existirá una Oficina General por cada Comunidad o Ciudad Autónoma y otra más por cada 500.000 habitantes, al frente de la cual se encontrará un Encargado al que se le asignan las funciones de recepción de declaraciones y solicitudes, la tramitación y resolución de expedientes, la práctica de inscripciones y, en su caso, la expedición de certificaciones. A la Oficina Central le corresponde, entre otras funciones, practicar las inscripciones derivadas de resoluciones dictadas por la Dirección General de los Registros y del Notariado en los expedientes que son de su competencia. En cuanto a las Oficinas Consulares, su régimen jurídico no difiere sustancialmente del vigente.
+La unidad de actuación queda garantizada mediante el carácter vinculante de las instrucciones, resoluciones y circulares de la Dirección General de los Registros y del Notariado, así como por el establecimiento de un sistema de recursos que sigue las reglas generales de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con la previsión expresa de un recurso ante la mencionada Dirección General.
+IV
+La Ley concibe el Registro Civil como un registro electrónico, en el que se practican asientos informáticos, que organiza la publicidad y da fe de los hechos y actos del estado civil. Desde esta concepción se incorpora el uso de las nuevas tecnologías y de la firma electrónica.
+El régimen de la publicidad del Registro Civil se articula a partir de dos instrumentos: la certificación electrónica y el acceso de la Administración, en el ejercicio de sus funciones públicas, a la información registral. Este último se concibe como el instrumento preferente de publicidad, de tal forma que sólo en casos excepcionales el ciudadano deberá presentar certificaciones de datos del Registro Civil.
+El carácter electrónico del Registro Civil no significa alterar la garantía de privacidad de los datos contenidos en el mismo. Aunque el Registro Civil está excluido del ámbito de aplicación de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se presta una especial protección a los datos, en tanto contengan información que afecta a la esfera de la intimidad de la persona. Lo relevante es que los datos protegidos sólo pertenecen a su titular y a él corresponde autorizar que sean facilitados a terceros.
+V
+En relación con los aspectos sustantivos de la Ley, merece una mención especial el título VI, relativo a hechos y actos inscribibles. Respecto de la inscripción de nacimiento, se mantienen los criterios generales y se prevé la remisión de los datos del nacido a través de un documento oficial por los responsables de los centros sanitarios. A cada nacido se le abrirá un registro individual y le será asignado un código personal.
+El nombre y apellidos se configura como un elemento de identidad del nacido derivado del derecho de la personalidad y como tal se incorpora a la inscripción de nacimiento. Con el fin de avanzar en la igualdad de género se prescinde de la histórica prevalencia del apellido paterno frente al materno permitiendo que ambos progenitores sean los que decidan el orden de los apellidos. Igualmente se sistematiza y agiliza el procedimiento de cambio de nombres y apellidos y se somete, como regla general, a la competencia del Encargado del Registro Civil. En cuanto a la filiación, se elimina toda referencia a la no matrimonial, con plena equiparación a la matrimonial.
+La instrucción del expediente matrimonial y la celebración del matrimonio compete a los Ayuntamientos, los cuales deberán remitir de oficio la documentación preceptiva al Registro Civil. Los Cónsules autorizarán, celebrarán e inscribirán los matrimonios de españoles en el extranjero. No se modifica la comunicación al Registro Civil de los matrimonios celebrados en forma religiosa.
+De modo similar a la del nacimiento se regula la inscripción de la defunción mediante la remisión del documento oficial, acompañado de parte médico, por los centros sanitarios. Se mantiene el requisito de la práctica previa de la inscripción de fallecimiento para proceder a la inhumación o incineración.
+La descentralización introducida por la Constitución de 1978 está presente, no sólo desde el punto de vista territorial, sino también desde la perspectiva de la distribución de competencias. Así, se contempla el acceso al Registro Civil de actos regulados en algunos Derechos civiles especiales como, por ejemplo, las autotutelas, apoderamientos preventivos o especialidades en materia de régimen económico del matrimonio. Igualmente, se prevé la utilización de las lenguas cooficiales, tanto en la inscripción como en la expedición de certificaciones. Además, la Ley garantiza la adecuada coexistencia de la competencia estatal sobre Registro Civil y las de carácter ejecutivo que corresponden a las Comunidades Autónomas.
+VI
+La normativa de Derecho internacional privado se contiene en el título X de la Ley con una actualización de las soluciones jurídicas influidas por el avance de la legislación europea y la creciente importancia del elemento extranjero con acceso al Registro Civil. La coherencia del modelo exige a este respecto mantener la unidad, dentro de las particularidades inherentes a cada sector.
+Una de las mayores novedades se centra en la inscripción de documentos judiciales extranjeros. De este modo, se permite no sólo la inscripción previo exequátur sino también la posibilidad de que el Encargado del Registro Civil realice la inscripción tras proceder a un reconocimiento incidental.
+La complejidad inherente a las situaciones internacionales justifica que la inscripción de documentos extranjeros judiciales y no judiciales, así como de certificaciones extranjeras, corresponda con carácter exclusivo a la Oficina Central del Registro. La Oficina Central se configura además como la autoridad encargada en materia de cooperación internacional en todas aquellas materias sometidas a la Ley.
+VII
+El articulado se completa con disposiciones adicionales, transitorias y finales, así como con una disposición derogatoria.
+Se deroga la Ley de Registro Civil de 8 de junio de 1957 que, no obstante, seguirá siendo aplicada en tanto quede extinguido el complejo régimen transitorio previsto en la Ley. De este modo se prevé un régimen de incorporación progresiva de los registros individuales y se mantienen temporalmente los efectos que el ordenamiento vigente atribuye al Libro de Familia. Igualmente se derogan expresamente los preceptos del Código civil que resultan incompatibles con las previsiones de la presente Ley.
+En efecto, puesto que se prescindirá del Libro de Familia –que pierde sentido dentro del modelo moderno que se ha configurado en la presente Ley– se ha previsto que en cada registro individual conste una hoja o extracto en la que figuren los datos personales de la vida del individuo. Consecuentemente con este diseño de la hoja individual, y en la búsqueda de una mayor simplicidad y eficiencia del sistema, la Ley distingue entre las inscripciones, las anotaciones registrales y, por último, el asiento de cancelación.
+Se modifica la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, a fin de determinar el órgano judicial y el procedimiento para conocer de los recursos frente a las resoluciones de la Dirección General de los Registros y del Notariado en materia de estado civil. Dichas previsiones no serán de aplicación a los recursos frente a resoluciones relativas a la adquisición de nacionalidad por residencia, cuya regulación y competencia judicial no se modifica.
+La desjudicialización del Registro Civil impone la derogación del artículo 86 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial –que se lleva a cabo a través de Ley Orgánica complementaria–, y de lo previsto en la Ley 38/1998, de 28 de diciembre, de Planta y Demarcación Judicial, respecto a los Registros Civiles.
+La complejidad de la Ley y el cambio radical respecto al modelo anterior aconsejan un extenso plazo de vacatio legis, que se ha fijado en tres años, para permitir la progresiva puesta en marcha del nuevo modelo, evitando disfunciones en el tratamiento de la información registral y la implementación de la nueva estructura organizativa.
+
+## TÍTULO I
+
+El Registro Civil. Disposiciones generales
+
+## CAPÍTULO PRIMERO
+
+Naturaleza, contenido y competencias del Registro Civil
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto la ordenación jurídica del Registro Civil.
+En particular, tiene como finalidad regular la organización, dirección y funcionamiento del Registro Civil, el acceso de los hechos y actos que se hacen constar en el mismo y la publicidad y los efectos que se otorgan a su contenido.
+
+### Artículo 2
+
+Artículo 2. Naturaleza y contenido del Registro Civil.
+1. El Registro Civil es un registro público dependiente del Ministerio de Justicia. Todos los asuntos referentes al Registro Civil están encomendados a la Dirección General de los Registros y del Notariado.
+Los Encargados del Registro Civil deben cumplir las órdenes, instrucciones, resoluciones y circulares del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado.
+2. El Registro Civil tiene por objeto hacer constar oficialmente los hechos y actos que se refieren al estado civil de las personas y aquellos otros que determine la presente Ley.
+3. El contenido del Registro Civil está integrado por el conjunto de registros individuales de las personas físicas y por el resto de las inscripciones que se practiquen en el mismo conforme a lo previsto en la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Elementos definitorios del Registro Civil.
+1. El Registro Civil es único para toda España.
+2. El Registro Civil es electrónico. Los datos serán objeto de tratamiento automatizado y se integrarán en una base de datos única cuya estructura, organización y funcionamiento es competencia del Ministerio de Justicia conforme a la presente Ley y a sus normas de desarrollo.
+3. Serán de aplicación al Registro Civil las medidas de seguridad establecidas en la normativa vigente en materia de protección de datos de carácter personal.
+
+### Artículo 4
+
+Artículo 4. Hechos y actos inscribibles.
+Tienen acceso al Registro Civil los hechos y actos que se refieren a la identidad, estado civil y demás circunstancias de la persona. Son, por tanto, inscribibles:
+1.º El nacimiento.
+2.º La filiación.
+3.º El nombre y los apellidos y sus cambios.
+4.º El sexo y el cambio de sexo.
+5.º La nacionalidad y la vecindad civil.
+6.º La emancipación y el beneficio de la mayor edad.
+7.º El matrimonio. La separación, nulidad y divorcio.
+8.º El régimen económico matrimonial legal o pactado.
+9.º Las relaciones paterno-filiales y sus modificaciones.
+10.º Los poderes y mandatos preventivos, la propuesta de nombramiento de curador y las medidas de apoyo previstas por una persona respecto de sí misma o de sus bienes.
+11.º Las resoluciones judiciales dictadas en procedimientos de provisión de medidas judiciales de apoyo a personas con discapacidad.
+12.º Los actos relativos a la constitución y régimen del patrimonio protegido de las personas con discapacidad.
+13.º La tutela del menor y la defensa judicial del menor emancipado.
+14.º Las declaraciones de concurso de las personas físicas y la intervención o suspensión de sus facultades.
+15.º Las declaraciones de ausencia y fallecimiento.
+16.º La defunción.
+Téngase en cuenta que esta última actualización de los puntos 10 a 16 establecida por el art. 6.1 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "10.º La modificación judicial de la capacidad de las personas, así como la que derive de la declaración de concurso de las personas físicas.
+ 11.º La tutela, la curatela y demás representaciones legales y sus modificaciones.
+ 12.º Los actos relativos a la constitución y régimen del patrimonio protegido de las personas con discapacidad.
+ 13.º La autotutela y los apoderamientos preventivos.
+ 14.º Las declaraciones de ausencia y fallecimiento.
+ 15.º La defunción."
+Se modifican los puntos 10 a 15 y se añade un 16, con efectos desde el 3 de septiembre de 2021, por el art. 6.1 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 5
+
+Artículo 5. Registro individual.
+1. Cada persona tendrá un registro individual en el que constarán los hechos y actos relativos a la identidad, estado civil y demás circunstancias en los términos de la presente Ley.
+2. El registro individual se abrirá con la inscripción de nacimiento o con el primer asiento que se practique.
+3. En dicho registro se inscribirán o anotarán, continuada, sucesiva y cronológicamente, todos los hechos y actos que tengan acceso al Registro Civil.
+
+### Artículo 6
+
+Artículo 6. Código personal.
+A cada registro individual abierto con la primera inscripción que se practique se le asignará un código personal constituido por la secuencia alfanumérica que atribuya el sistema informático vigente para el documento nacional de identidad.
+
+### Artículo 7
+
+Artículo 7. Firma electrónica.
+1. Los Encargados de las Oficinas del Registro Civil dispondrán de firma electrónica reconocida. Mediante dicha firma serán practicados los asientos del Registro Civil y las certificaciones que se expidan de su contenido.
+2. Los ciudadanos podrán acceder a los servicios del Registro Civil mediante firma electrónica, de acuerdo con lo dispuesto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+### Artículo 8
+
+Artículo 8. Comunicación entre las Oficinas del Registro Civil y con las Administraciones Públicas.
+1. Las Oficinas del Registro Civil se comunicarán entre sí a través de medios electrónicos.
+2. Todas las Administraciones y funcionarios públicos, en el ejercicio de sus competencias y bajo su responsabilidad, tendrán acceso a los datos que consten en el Registro Civil único con las excepciones relativas a los datos especialmente protegidos previstas en esta Ley. Dicho acceso se efectuará igualmente mediante procedimientos electrónicos con los requisitos y prescripciones técnicas que sean establecidas dentro del Esquema Nacional de Interoperabilidad y del Esquema Nacional de Seguridad.
+
+### Artículo 9
+
+Artículo 9. Competencias generales del Registro Civil.
+En el Registro Civil constarán los hechos y actos inscribibles que afectan a los españoles y los referidos a extranjeros, acaecidos en territorio español.
+Igualmente, se inscribirán los hechos y actos que hayan tenido lugar fuera de España, cuando las correspondientes inscripciones sean exigidas por el Derecho español.
+
+### Artículo 10
+
+Artículo 10. Reglas de competencia.
+1. La solicitud de inscripción y la práctica de la misma se podrán efectuar en cualquiera de las Oficinas Generales del Registro Civil con independencia del lugar en el que se produzcan los hechos o actos inscribibles. Si se producen en el extranjero, la inscripción se solicitará y, en su caso, se practicará en la Oficina Consular de la circunscripción correspondiente. En este último caso, la inscripción también se podrá solicitar y practicar en cualquiera de las Oficinas Generales.
+2. Los ciudadanos podrán solicitar en cualquiera de las Oficinas Generales o Consulares del Registro Civil o por medios electrónicos el acceso a la información contenida en el mismo a través de los medios de publicidad previstos en esta Ley.
+
+## CAPÍTULO SEGUNDO
+
+Derechos y deberes ante el Registro Civil
+
+### Artículo 11
+
+Artículo 11. Derechos ante el Registro Civil.
+Son derechos de las personas ante el Registro Civil:
+a) El derecho a un nombre y a ser inscrito mediante la apertura de un registro individual y la asignación de un código personal.
+b) El derecho a la inscripción de los hechos y actos que se refieren a su identidad, estado civil y demás circunstancias personales que la Ley prevea.
+c) El derecho a acceder a la información que solicite sobre el contenido del Registro, con las limitaciones previstas en la presente Ley.
+d) El derecho a obtener certificaciones.
+e) El derecho a la intimidad en relación con datos especialmente protegidos sometidos a régimen de publicidad restringida.
+f) El derecho a acceder a los servicios del Registro Civil en cualquiera de las Oficinas Generales o Consulares del Registro Civil.
+g) El derecho a utilizar ante el Registro Civil cualquiera de las lenguas oficiales en el lugar donde radique la Oficina.
+h) El derecho a la igualdad de género y al pleno reconocimiento del principio de igualdad, en todas sus manifestaciones, en materia de Derecho del Registro Civil.
+i) El derecho a promover la inscripción de determinados hechos y actos dirigidos a la protección de los menores, las personas mayores y otras personas respecto de las cuales la inscripción registral supone una particular garantía de sus derechos.
+Téngase en cuenta que esta última actualización de la letra i) establecida por el art. 6.2 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "i) El derecho a promover la inscripción de determinados hechos y actos dirigidos a la protección de los menores, personas con capacidad modificada judicialmente, personas con discapacidad y personas mayores."
+j) El derecho a promover la rectificación o modificación de los asientos registrales en los casos legal o reglamentariamente previstos.
+k) El derecho a interponer recursos en los términos previstos en la presente Ley.
+l) El derecho a acceder a los servicios del Registro Civil con garantía de los principios de accesibilidad universal y diseño para todas las personas.
+Se modifica la letra i), con efectos desde el 3 de septiembre de 2021, por el art. 6.2 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 12
+
+Artículo 12. Deberes ante el Registro Civil.
+Son deberes de las personas ante el Registro Civil:
+a) El deber de promover la práctica de los asientos registrales en los casos previstos en la presente Ley.
+b) El deber de instar la inscripción cuando ésta tenga carácter constitutivo en los casos legalmente previstos.
+c) El deber de comunicar los hechos y actos inscribibles conforme a lo previsto en la presente Ley.
+d) El deber de presentar la documentación necesaria cuando los datos correspondientes no obren en poder de las Administraciones Públicas.
+e) El deber de suministrar datos veraces y exactos en las solicitudes de inscripción o en cumplimiento de los deberes a los que se refieren los números anteriores.
+f) El deber de cooperar en el buen funcionamiento del Registro Civil como servicio público.
+
+## TÍTULO II
+
+Principios de funcionamiento del Registro Civil
+
+### Artículo 13
+
+Artículo 13. Principio de legalidad.
+Los Encargados del Registro Civil comprobarán de oficio la realidad y legalidad de los hechos y actos cuya inscripción se pretende, según resulte de los documentos que los acrediten y certifiquen, examinando en todo caso la legalidad y exactitud de dichos documentos.
+
+### Artículo 14
+
+Artículo 14. Principio de oficialidad.
+Los Encargados del Registro Civil deberán practicar la inscripción oportuna cuando tengan en su poder los títulos necesarios.
+Las personas físicas y jurídicas y los organismos e instituciones públicas que estén obligados a promover las inscripciones facilitarán a los Encargados del Registro Civil los datos e información necesarios para la práctica de aquéllas.
+
+### Artículo 15
+
+Artículo 15. Principio de publicidad.
+1. Los ciudadanos tendrán libre acceso a los datos que figuren en su registro individual.
+2. El Registro Civil es público. Las Administraciones y funcionarios públicos, para el desempeño de sus funciones y bajo su responsabilidad, podrán acceder a los datos contenidos en el Registro Civil.
+3. También podrá obtenerse información registral, por los medios de publicidad previstos en los artículos 80 y siguientes de la presente Ley, cuando se refieran a persona distinta del solicitante, siempre que conste la identidad del solicitante y exista un interés legítimo.
+4. Quedan exceptuados del régimen general de publicidad los datos especialmente protegidos, que estarán sometidos al sistema de acceso restringido al que se refieren los artículos 83 y 84 de la presente Ley.
+
+### Artículo 16
+
+Artículo 16. Presunción de exactitud.
+1. Los Encargados del Registro Civil están obligados a velar por la concordancia entre los datos inscritos y la realidad extrarregistral.
+2. Se presume que los hechos inscritos existen y los actos son válidos y exactos mientras el asiento correspondiente no sea rectificado o cancelado en la forma prevista por la ley.
+3. Cuando se impugnen judicialmente los actos y hechos inscritos en el Registro Civil, deberá instarse la rectificación del asiento correspondiente.
+
+### Artículo 17
+
+Artículo 17. Eficacia probatoria de la inscripción.
+1. La inscripción en el Registro Civil constituye prueba plena de los hechos inscritos.
+2. Sólo en los casos de falta de inscripción o en los que no fuera posible certificar del asiento, se admitirán otros medios de prueba.
+En el primer caso, será requisito indispensable para su admisión la acreditación de que previa o simultáneamente se ha instado la inscripción omitida o la reconstrucción del asiento, y no su mera solicitud.
+
+### Artículo 18
+
+Artículo 18. Eficacia constitutiva de la inscripción en el Registro Civil.
+La inscripción en el Registro Civil sólo tendrá eficacia constitutiva en los casos previstos por la Ley.
+
+### Artículo 19
+
+Artículo 19. Presunción de integridad. Principio de inoponibilidad.
+1. El contenido del Registro Civil se presume íntegro respecto de los hechos y actos inscritos.
+2. En los casos legalmente previstos, los hechos y actos inscribibles conforme a las prescripciones de esta Ley serán oponibles a terceros desde que accedan al Registro Civil.
+
+## TÍTULO III
+
+Estructura y dependencia del Registro Civil
+
+## CAPÍTULO PRIMERO
+
+Oficinas del Registro Civil
+
+### Artículo 20
+
+Artículo 20. Estructura del Registro Civil.
+1. El Registro Civil depende del Ministerio de Justicia y se organiza en:
+1.º Oficina Central.
+2.º Oficinas Generales.
+3.º Oficinas Consulares.
+2. Las inscripciones y demás asientos registrales serán practicados por los Encargados de las Oficinas del Registro Civil.
+Bajo su responsabilidad y en los términos y con los límites que reglamentariamente se determinen, el Encargado podrá delegar funciones en el personal al servicio de la Oficina del Registro Civil.
+3. Los ciudadanos podrán presentar la solicitud y la documentación requerida ante cualquier Oficina del Registro Civil o remitirla electrónicamente. Igualmente, podrán presentar en los Ayuntamientos la solicitud y la documentación necesaria para las actuaciones ante el Registro Civil.
+
+### Artículo 21
+
+Artículo 21. Oficina Central del Registro Civil.
+1. El Ministerio de Justicia designará a los Encargados de la Oficina Central del Registro Civil.
+2. La Oficina Central del Registro Civil desempeña las siguientes funciones:
+1.ª Practicar las inscripciones que se deriven de resoluciones dictadas por la Dirección General de los Registros y del Notariado, referidas a hechos o actos susceptibles de inscripción en el Registro Civil.
+2.ª Practicar la inscripción de los documentos auténticos extranjeros judiciales y extrajudiciales y certificaciones de asientos extendidos en Registros extranjeros.
+3.ª Practicar la inscripción de fallecimiento de las personas de nacionalidad extranjera al servicio de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad, siempre que dicho fallecimiento hubiera ocurrido durante una misión u operación fuera de España y que el sistema registral del Estado donde se produjo el hecho no practicare la pertinente inscripción. Lo anterior será sin perjuicio de trasladar la inscripción realizada al Registro del Estado del cual fuere nacional la persona fallecida.
+4.ª También desempeñará todas aquellas funciones que le sean atribuidas por las leyes.
+3. La Oficina Central es la autoridad encargada en materia de cooperación internacional sobre Registro Civil en los términos previstos por los instrumentos internacionales aplicables en España y la presente Ley.
+
+### Artículo 22
+
+Artículo 22. Oficinas Generales del Registro Civil.
+1. En cada Comunidad Autónoma o ciudad con Estatuto de Autonomía se ubicará al menos una Oficina General del Registro Civil. El Ministerio de Justicia y las Comunidades Autónomas con competencias ejecutivas en la materia podrán crear en sus respectivos ámbitos territoriales, además, una Oficina General del Registro Civil por cada 500.000 habitantes.
+Excepcionalmente, por razón de la singular distribución de la población o por las características del territorio, se podrán crear otras tres Oficinas Generales en cada Comunidad Autónoma.
+En atención a las dificultades de acceso derivadas del carácter insular de sus territorios, Canarias y Baleares contarán en todo caso con al menos una Oficina General del Registro Civil en cada una de las islas en que exista un Registro Civil al entrar en vigor la presente Ley.
+2. Al frente de cada Oficina General del Registro Civil estará un Encargado del Registro Civil, que ejercerá sus funciones bajo la dependencia de la Dirección General de los Registros y del Notariado. Excepcionalmente y por necesidades del servicio, se podrá designar más de un Encargado.
+3. Corresponderá al Ministerio de Justicia y a las Comunidades Autónomas con competencias ejecutivas en la materia designar a los Encargados de las Oficinas Generales del Registro Civil en sus respectivos ámbitos territoriales.
+4. Son funciones de las Oficinas Generales del Registro Civil:
+1.ª Recibir y documentar declaraciones de conocimiento y de voluntad en materias propias de su competencia, así como expedir certificaciones.
+2.ª Recibir por vía electrónica o presencial solicitudes o formularios, así como otros documentos que sirvan de título para practicar un asiento en el Registro Civil.
+3.ª Tramitar y resolver los expedientes de Registro Civil que les atribuya el ordenamiento jurídico.
+4.ª Practicar las inscripciones y demás asientos de su competencia.
+5.ª Expedir certificaciones de los asientos registrales.
+6.ª Cualesquiera otras que determine la Dirección General de los Registros y del Notariado.
+
+### Artículo 23
+
+Artículo 23. Oficinas Consulares del Registro Civil.
+Las Oficinas Consulares del Registro Civil estarán a cargo de los Cónsules de España o, en su caso, de los funcionarios diplomáticos encargados de las Secciones consulares de la Misión Diplomática.
+
+### Artículo 24
+
+Artículo 24. Funciones de las Oficinas Consulares del Registro Civil.
+Son funciones de los Registros Consulares:
+1.ª Inscribir los hechos y actos relativos a españoles acaecidos en su circunscripción consular, así como los documentos extranjeros judiciales y no judiciales y certificaciones de Registros Civiles extranjeros que sirvan de título para practicar la inscripción.
+2.ª Expedir certificaciones de los asientos registrales.
+3.ª Recibir y documentar declaraciones de conocimiento y de voluntad en materias propias de su competencia.
+4.ª Instruir el expediente previo de matrimonio, así como expedir los certificados de capacidad necesarios para su celebración en el extranjero.
+5.ª Comunicar a la Dirección General de los Registros y del Notariado la legislación extranjera vigente en materia vinculada al estado civil de las personas.
+
+## CAPÍTULO SEGUNDO
+
+La Dirección General de los Registros y del Notariado
+
+### Artículo 25
+
+Artículo 25. La Dirección General de los Registros y del Notariado.
+La Dirección General de los Registros y del Notariado es el centro directivo y consultivo del Registro Civil de España.
+
+### Artículo 26
+
+Artículo 26. Funciones de la Dirección General de los Registros y del Notariado en el Registro Civil.
+En materia de Registro Civil, son funciones de la Dirección General de los Registros y del Notariado las siguientes:
+1.ª Promover la elaboración de disposiciones de carácter general.
+2.ª Dictar las instrucciones, resoluciones y circulares que estime procedentes en los asuntos de su competencia, que tendrán carácter vinculante.
+3.ª Supervisar y coordinar el cumplimiento de las normas registrales por el Encargado y demás personal al servicio de las Oficinas del Registro Civil.
+4.ª Resolver los recursos legalmente previstos y atender las consultas que se planteen acerca de la interpretación y ejecución de la legislación en materia de Registro Civil.
+5.ª Resolver los expedientes de su competencia en materia de Registro Civil.
+6.ª Ordenar la planificación estratégica, y coordinar las actuaciones en esta materia con otras Administraciones e instituciones públicas o privadas.
+7.ª Implantar y elaborar programas de calidad del servicio público que presta el Registro Civil.
+8.ª Cualesquiera otras que le atribuyan las leyes.
+
+## TÍTULO IV
+
+Títulos que acceden al Registro Civil. Control de legalidad
+
+## CAPÍTULO PRIMERO
+
+Títulos que acceden al Registro Civil
+
+### Artículo 27
+
+Artículo 27. Documentos auténticos para practicar inscripciones.
+1. El documento auténtico, sea original o testimonio, sea judicial, administrativo, notarial o registral, es título suficiente para inscribir el hecho o acto que accede al Registro Civil.
+También es título suficiente para practicar la inscripción el documento extranjero que cumpla los requisitos establecidos en los artículos 96 y 97 de la presente Ley.
+2. Las resoluciones judiciales firmes son títulos suficientes para inscribir el hecho o acto que constituyen o declaran. Si contradicen hechos inscritos, debe practicarse la rectificación correspondiente.
+3. Los documentos a los que se refieren los dos apartados anteriores podrán presentarse en cualquier soporte, incluido el electrónico, siempre que cumplan los requisitos, formato y eficacia previstos en sus respectivas normas reguladoras.
+4. Los documentos presentados en las Oficinas del Registro Civil y en los Ayuntamientos se custodiarán y conservarán en los términos establecidos por la normativa reguladora de esta materia para las Administraciones Públicas.
+
+### Artículo 28
+
+Artículo 28. Certificaciones de Registros extranjeros.
+Para practicar inscripciones sin expediente, en virtud de certificación de Registro extranjero, será necesario el cumplimiento de los requisitos establecidos en la normativa aplicable para que tenga eficacia en España.
+
+### Artículo 29
+
+Artículo 29. Declaraciones de las personas obligadas.
+1. Las declaraciones en virtud de las cuales hayan de practicarse los asientos se consignarán en acta firmada por el funcionario competente de la Oficina General o Consular y por los declarantes, o bien mediante la cumplimentación del formulario oficialmente aprobado.
+2. La verificación de las declaraciones comprenderá la capacidad e identidad del declarante.
+
+## CAPÍTULO SEGUNDO
+
+Control de legalidad
+
+### Artículo 30
+
+Artículo 30. Control de legalidad de los documentos.
+1. Los obligados a promover la inscripción sólo tendrán que aportar los documentos exigidos por la ley cuando los datos incorporados a los mismos no constaren en el Registro Civil o no pudieran ser facilitados por otras Administraciones o funcionarios públicos.
+2. El Encargado de la Oficina del Registro Civil ante el que se solicita la inscripción deberá controlar la legalidad de las formas extrínsecas del documento, la validez de los actos y la realidad de los hechos contenidos en éste.
+La calificación de las sentencias y resoluciones judiciales recaerá sobre la competencia y clase del procedimiento seguido, formalidades extrínsecas de los documentos presentados y asientos del propio Registro.
+3. Si el Encargado de la Oficina del Registro Civil tuviere fundadas dudas sobre la legalidad de los documentos, sobre la veracidad de los hechos o sobre la exactitud de las declaraciones, realizará antes de extender la inscripción, y en el plazo de diez días, las comprobaciones oportunas.
+Si de la verificación de los documentos y declaraciones efectuadas se dedujera una contradicción esencial entre el Registro y la realidad, el Encargado del Registro Civil lo pondrá en conocimiento del Ministerio Fiscal y lo advertirá a los interesados.
+
+### Artículo 31
+
+Artículo 31. Examen de las solicitudes de inscripción y de las declaraciones.
+En el examen de las solicitudes y de las declaraciones que se formulen, la Oficina Consular o General del Registro Civil verificará la identidad y capacidad de los solicitantes o declarantes y, en su caso, comprobará la autenticidad de la firma.
+
+### Artículo 32
+
+Artículo 32. Constancia de solicitudes y declaraciones efectuadas en las Oficinas del Registro Civil.
+1. Las solicitudes y declaraciones que formulen los ciudadanos a través de cualquiera de los medios previstos en esta Ley ante las Oficinas del Registro Civil quedarán debidamente registradas en la forma que reglamentariamente se determine.
+En todo caso, deberá quedar constancia de la identidad y domicilio del solicitante o declarante, del Documento nacional de identidad o Número de identificación del extranjero, de la fecha en la que se ha formulado la solicitud o declaración, del contenido de ésta y de la actuación del funcionario de la oficina a la que se haya dirigido.
+2. A esta información deberán acceder todas las Oficinas del Registro Civil, que denegarán al interesado la inscripción solicitada o la recepción de la declaración sobre la que el funcionario o funcionarios competentes de una oficina ya se hubiera pronunciado o hubiese sido requerida para hacerlo.
+
+## TÍTULO V
+
+Los asientos registrales
+
+## CAPÍTULO PRIMERO
+
+Competencia para efectuar los asientos
+
+### Artículo 33
+
+Artículo 33. Regla general para la práctica de los asientos.
+1. El Encargado de la Oficina del Registro Civil ante el que se presente el título o se formule la declaración practicará los asientos correspondientes de oficio o dictará resolución denegándolos en el plazo de cinco días. La inscripción de la defunción, no existiendo obstáculo legal, se practicará en el mismo día de la presentación de la documentación. En las Oficinas Consulares del Registro Civil, para las inscripciones referentes a nacionalidad y matrimonio, los asientos se practicarán en el plazo más breve posible.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, el Encargado de la Oficina Central practicará los asientos a los que den lugar las resoluciones dictadas en los expedientes para cuya tramitación y resolución sea competente el Ministerio de Justicia.
+
+### Artículo 34
+
+Artículo 34. Asientos de resoluciones judiciales.
+El secretario judicial del órgano que haya dictado una resolución cuyo contenido deba causar asiento en el Registro Civil por afectar al estado civil de las personas, deberá remitir por medios electrónicos a la Oficina del Registro Civil testimonio de la resolución judicial referida.
+
+### Artículo 35
+
+Artículo 35. Inscripción de documentos notariales.
+Los Notarios, dentro de su ámbito de competencias, remitirán por medios electrónicos a la Oficina General del Registro Civil los documentos públicos que den lugar a asiento en el Registro Civil.
+
+## CAPÍTULO SEGUNDO
+
+Reglas generales para la práctica de asientos
+
+### Artículo 36
+
+Artículo 36. Asientos electrónicos.
+1. En el Registro Civil todos los asientos se extenderán en soporte y formato electrónico. Dichos asientos deberán ajustarse a los modelos aprobados por la Dirección General de los Registros y del Notariado.
+2. En circunstancias excepcionales y cuando no sea posible practicar asientos electrónicos, el asiento podrá efectuarse en soporte papel. En este caso, se trasladará al formato electrónico con la mayor celeridad posible.
+3. Los asientos en el Registro Civil deben archivarse después de su cierre en un registro electrónico de seguridad.
+
+### Artículo 37
+
+Artículo 37. Lenguas oficiales.
+Los ciudadanos que insten la inscripción de un hecho o acto en el Registro Civil, podrán solicitar que la misma se practique en cualquiera de las lenguas oficiales del lugar donde radique la Oficina General del Registro Civil.
+
+## CAPÍTULO TERCERO
+
+Clases de asientos
+
+### Artículo 38
+
+Artículo 38. Clases de asientos.
+Los asientos del Registro Civil son las inscripciones, las anotaciones y las cancelaciones.
+
+### Artículo 39
+
+Artículo 39. Inscripciones.
+1. La inscripción es la modalidad de asiento a través de la cual acceden al Registro Civil los hechos y actos relativos al estado civil de las personas y aquellos otros determinados por esta Ley.
+2. Los efectos de la inscripción son los previstos en los artículos 17 y 18 de la presente Ley.
+
+### Artículo 40
+
+Artículo 40. Anotaciones registrales.
+1. Las anotaciones registrales son la modalidad de asiento que en ningún caso tendrá el valor probatorio que proporciona la inscripción. Tendrán un valor meramente informativo, salvo los casos en que la Ley les atribuya valor de presunción.
+2. Las anotaciones registrales se extenderán a petición del Ministerio Fiscal o de cualquier interesado.
+3. Pueden ser objeto de anotación los siguientes hechos y actos:
+1.º El procedimiento judicial, administrativo o registral en trámite que pueda afectar al contenido del Registro Civil.
+2.º El hecho cuya inscripción no pueda extenderse por no resultar, en alguno de sus extremos, legalmente acreditado.
+3.º Las declaraciones con valor de presunción.
+4.º El hecho o acto relativo a españoles o acaecido en España que afecte a su estado civil, según la ley extranjera.
+5.º La sentencia o resolución extranjera que afecte al estado civil, en tanto no se obtenga el exequátur o el reconocimiento incidental en España.
+6.º La sentencia o resolución canónica cuya ejecución en cuanto a efectos civiles no haya sido decretada aún por el Tribunal correspondiente.
+7.º La desaparición.
+8.º Las actuaciones tutelares y de otras figuras tuitivas previstas en la Ley, en los casos que reglamentariamente se determinen.
+9.º El acogimiento, la guarda administrativa y la guarda de hecho.
+10.º Aquellos otros hechos o actos cuya anotación se prevea en esta u otra ley.
+
+### Artículo 41
+
+Artículo 41. Cancelaciones.
+Los asientos de cancelación privan de eficacia, total o parcial, al asiento registral de cualquier clase por nulidad del propio asiento, por ineficacia o inexistencia del hecho o del acto o por cualquier otra causa establecida por la ley.
+La cancelación se practicará en virtud de título adecuado, ya sea de oficio o a solicitud del interesado.
+
+## CAPÍTULO CUARTO
+
+Promoción de la inscripción y de otros asientos
+
+### Artículo 42
+
+Artículo 42. Personas obligadas a promover la inscripción.
+1. Están obligados a promover sin demora la inscripción:
+1.º Los designados en cada caso por la ley.
+2.º Aquellos a quienes se refiere el hecho inscribible, sus herederos o representantes legales.
+3.º El Ministerio Fiscal en el ejercicio de sus funciones con arreglo a las previsiones de esta Ley.
+2. Las autoridades y funcionarios no comprendidos en el número anterior, a quienes consten por razón de sus cargos los hechos no inscritos, están obligados a comunicarlos al Ministerio Fiscal.
+
+### Artículo 43
+
+Artículo 43. Comunicación de hechos y actos al Registro Civil.
+Las personas obligadas a promover la inscripción deberán comunicar los hechos y actos inscribibles, bien mediante la presentación de los formularios oficiales debidamente cumplimentados, bien mediante su remisión por medios electrónicos en la forma que reglamentariamente se determine, acompañando los documentos acreditativos que en cada caso se establezca.
+También procederá la inscripción a instancia de cualquier persona que presente título suficiente.
+
+## TÍTULO VI
+
+Hechos y actos inscribibles
+
+## CAPÍTULO PRIMERO
+
+Inscripción de nacimiento
+
+## Sección 1
+
+Sección 1.ª Hecho inscribible y personas obligadas a promover la inscripción
+
+### Artículo 44
+
+Artículo 44. Inscripción de nacimiento y filiación.
+1. Son inscribibles los nacimientos de las personas, conforme a lo previsto en el artículo 30 del Código Civil.
+2. La inscripción hace fe del hecho, fecha, hora y lugar del nacimiento, identidad, sexo y, en su caso, filiación del inscrito.
+3. La inscripción de nacimiento se practicará en virtud de declaración formulada en documento oficial debidamente firmado por el o los declarantes, acompañada del parte facultativo. A tal fin, el médico, el enfermero especialista en enfermería obstétrico-ginecológica o el enfermero que asista al nacimiento, dentro o fuera del establecimiento sanitario, comprobará, por cualquiera de los medios admitidos en derecho, la identidad de la madre del recién nacido a los efectos de su inclusión en el parte facultativo. Los progenitores realizarán su declaración mediante la cumplimentación del correspondiente formulario oficial, en el que se contendrán las oportunas advertencias sobre el valor de tal declaración conforme a las normas sobre determinación legal de la filiación.
+En defecto del parte facultativo, deberá aportarse la documentación acreditativa en los términos que reglamentariamente se determinen.
+El Encargado del Registro Civil, una vez recibida y examinada la documentación, practicará inmediatamente la inscripción de nacimiento. Tal inscripción determinará la apertura de un nuevo registro individual, al que se asignará un código personal en los términos previstos en el artículo 6.
+4. La filiación se determinará, a los efectos de la inscripción de nacimiento, de conformidad con lo establecido en las leyes civiles y en la Ley 14/2006, de 26 de mayo, sobre técnicas de reproducción humana asistida.
+Salvo en los casos a que se refiere el artículo 48, en toda inscripción de nacimiento ocurrida en España se hará constar necesariamente la filiación materna, aunque el acceso a la misma será restringido en los supuestos en que la madre por motivos fundados así lo solicite y siempre que renuncie a ejercer los derechos derivados de dicha filiación. En caso de discordancia entre la declaración y el parte facultativo o comprobación reglamentaria, prevalecerá este último.
+La filiación del padre o de la madre no gestante en el momento de la inscripción del hijo, se hará constar:
+a) Cuando conste debidamente acreditado el matrimonio con la madre gestante y resulte conforme con las presunciones de paternidad del marido establecidas en la legislación civil o, aun faltando aquellas y también si la madre estuviere casada con otra mujer, en caso de que concurra el consentimiento de ambos cónyuges, aunque existiera separación legal o de hecho.
+b) Cuando el padre o la madre no gestante manifieste su conformidad a la determinación de tal filiación, siempre que la misma no resulte contraria a las presunciones establecidas en la legislación civil y no existiere controversia. Deberán cumplirse, además, las condiciones previstas en la legislación civil para su validez y eficacia.
+En los supuestos en los que se constate que la madre tiene vínculo matrimonial con persona distinta de la que figura en la declaración o sea de aplicación la presunción prevista en el artículo 116 del Código Civil se practicará la inscripción de nacimiento de forma inmediata solo con la filiación materna y se procederá a la apertura de un expediente registral para la determinación de la filiación paterna.
+5. En los casos de filiación adoptiva se hará constar, conforme a la legislación aplicable, la resolución judicial o administrativa que constituya la adopción, quedando sometida al régimen de publicidad restringida previsto en la presente ley.
+6. El reconocimiento de la filiación no matrimonial con posterioridad a la inscripción de nacimiento podrá hacerse en cualquier tiempo con arreglo a las formas establecidas en la legislación civil aplicable. Si se realizare mediante declaración del padre o madre no gestante ante el encargado del Registro Civil, se requerirá el consentimiento expreso de la madre o persona trans gestante y del representante legal si fuera menor de edad o de la persona a la que se reconoce si fuera mayor. Si se tratare de personas con discapacidad respecto de las cuales se hubiesen establecido medidas de apoyo, se estará a lo que resulte de la resolución judicial que las haya establecido o del documento notarial en el que se hayan previsto o acordado. Para que sea posible la inscripción deberán concurrir, además, los requisitos para la validez o eficacia del reconocimiento exigidos por la legislación civil.
+Podrá inscribirse la filiación mediante expediente aprobado por el Encargado del Registro Civil, siempre que no haya oposición del Ministerio Fiscal o de parte interesada notificada personal y obligatoriamente, si concurre alguna de las siguientes circunstancias:
+1.ª Cuando exista escrito indubitado del padre o de la madre en que expresamente reconozca la filiación.
+2.ª Cuando el hijo se halle en la posesión continua del estado de hijo del padre o de la madre, justificada por actos directos del mismo padre o de su familia.
+3.ª Respecto de la madre o persona trans gestante, siempre que se pruebe cumplidamente el hecho del parto y la identidad del hijo.
+Formulada oposición, la inscripción de la filiación solo podrá obtenerse por el procedimiento regulado en la Ley de Enjuiciamiento Civil.
+7. En los supuestos de controversia y en aquellos otros que la ley determine, para hacer constar la filiación paterna se requerirá previa resolución judicial dictada conforme a las disposiciones previstas en la legislación procesal.
+8. Una vez practicada la inscripción, el Encargado expedirá certificación literal electrónica de la inscripción de nacimiento y la pondrá a disposición del declarante o declarantes.
+Se modifica por la disposición final 11.1 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+ Se modifica el primer párrafo del apartado 7, con efectos desde el 3 de septiembre de 2021, por el art. 6.3 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+ Se modifica por el art. 2.1 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 45
+
+Artículo 45. Obligados a promover la inscripción de nacimiento.
+Están obligados a promover la inscripción de nacimiento:
+1. La dirección de hospitales, clínicas y establecimientos sanitarios.
+2. El personal médico o sanitario que haya atendido el parto, cuando éste haya tenido lugar fuera de establecimiento sanitario.
+3. Los progenitores. No obstante, en caso de renuncia al hijo en el momento del parto, la madre no tendrá esta obligación, que será asumida por la Entidad Pública correspondiente.
+4. El pariente más próximo o, en su defecto, cualquier persona mayor de edad presente en el lugar del alumbramiento al tiempo de producirse.
+Se modifica por el art. 2.2 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 46
+
+Artículo 46. Comunicación del nacimiento por los centros sanitarios.
+La dirección de hospitales, clínicas y establecimientos sanitarios comunicará en el plazo de setenta y dos horas a la Oficina del Registro Civil que corresponda cada uno de los nacimientos que hayan tenido lugar en el centro sanitario, excepto aquellos casos que exijan personarse ante el Encargado del Registro Civil. El personal sanitario que asista al nacimiento deberá adoptar, bajo su responsabilidad, las cautelas necesarias para asegurar la identificación del recién nacido y efectuará las comprobaciones que establezcan de forma indubitada la relación de filiación materna, incluyendo, en su caso, las pruebas biométricas, médicas y analíticas que resulten necesarias para ello conforme a la legislación reguladora de las historias clínicas. En todo caso se tomarán las dos huellas plantares del recién nacido junto a las huellas dactilares de la madre para que figuren en el mismo documento. En la inscripción que del nacimiento se practique en el Registro Civil se hará constar la realización de dichas pruebas y el centro sanitario que inicialmente conserve la información relacionada con las mismas, sin perjuicio del traslado de esta información a los archivos definitivos de la administración correspondiente cuando proceda.
+Cumplidos los requisitos, la comunicación se realizará mediante la remisión electrónica del formulario oficial de declaración debidamente cumplimentado por el centro sanitario y firmado por la persona o personas que tengan la obligación de comunicar el nacimiento, que comprenderá la identificación y nacionalidad de los declarantes, y sus declaraciones relativas al nombre elegido para el recién nacido, el orden de sus apellidos y su filiación paterna. A este formulario se incorporará el parte acreditativo del nacimiento firmado por el facultativo que hubiese asistido al parto. Dicha remisión será realizada por personal del centro sanitario, que usará para ello mecanismos seguros de identificación y firma electrónicos.
+Simultáneamente a la presentación de los citados formularios oficiales, se remitirán al Instituto Nacional de Estadística los datos requeridos a efectos de las competencias asignadas por la Ley a dicho Instituto.
+Los firmantes estarán obligados a acreditar su identidad ante el personal sanitario que hubiere asistido al nacimiento, bajo la responsabilidad del mismo, por los medios admitidos en Derecho.
+Se amplía, durante la vigencia del estado de alarma y hasta tres meses después de su finalización, a cinco días naturales el plazo de 72 horas que el párrafo 1 establece para que la dirección de hospitales, clínicas y establecimientos sanitarios comuniquen a la Oficina del Registro Civil que corresponda cada uno de los nacimientos que hayan tenido lugar en el centro sanitario, según establece la disposición adicional 1.3 del Real Decreto-ley 16/2020, de 28 de abril. Ref. BOE-A-2020-4705#da
+ Se modifica por el art. 2.3 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 47
+
+Artículo 47. Inscripción de nacimiento por declaración de otras personas obligadas.
+1. Respecto de los nacimientos que se hayan producido fuera de establecimiento sanitario, o cuando por cualquier causa no se haya remitido el documento en el plazo y condiciones previstos en el artículo anterior, los obligados a promover la inscripción dispondrán de un plazo de diez días para declarar el nacimiento ante la Oficina del Registro Civil o las Oficinas Consulares de Registro Civil.
+2. La declaración se efectuará presentando el documento oficial debidamente cumplimentado acompañado del certificado médico preceptivo firmado electrónicamente por el facultativo o, en su defecto, del documento acreditativo en los términos que reglamentariamente se determinen.
+3. Para inscribir la declaración, cuando haya transcurrido desde el nacimiento el plazo previsto, se precisará resolución dictada en expediente registral.
+Se modifica por el art. 2.4 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 48
+
+Artículo 48. Menores abandonados y menores no inscritos.
+1. Las entidades públicas de las Comunidades Autónomas competentes en materia de protección de menores deberán promover sin demora la inscripción de menores en situación de desamparo por abandono, sea o no conocida su filiación, así como la inscripción de la tutela administrativa que, en su caso, asuman, sin perjuicio de la anotación de la guarda que deban asumir.
+2. El Ministerio Fiscal promoverá igualmente la inscripción de menores no inscritos.
+
+## Sección 2
+
+Sección 2.ª Contenido de la inscripción de nacimiento
+
+### Artículo 49
+
+Artículo 49. Contenido de la inscripción de nacimiento y atribución de apellidos.
+1. En la inscripción de nacimiento constarán los datos de identidad del nacido consistentes en el nombre que se le impone y los apellidos que le correspondan según su filiación. Constarán asimismo el lugar, fecha y hora del nacimiento y el sexo del nacido.
+2. La filiación determina los apellidos.
+Si la filiación está determinada por ambas líneas, los progenitores acordarán el orden de transmisión de su respectivo primer apellido, antes de la inscripción registral.
+En caso de desacuerdo o cuando no se hayan hecho constar los apellidos en la solicitud de inscripción, el Encargado del Registro Civil requerirá a los progenitores, o a quienes ostenten la representación legal del menor, para que en el plazo máximo de tres días comuniquen el orden de apellidos. Transcurrido dicho plazo sin comunicación expresa, el Encargado acordará el orden de los apellidos atendiendo al interés superior del menor.
+En los supuestos de nacimiento con una sola filiación reconocida, ésta determina los apellidos. El progenitor podrá determinar el orden de los apellidos.
+El orden de los apellidos establecido para la primera inscripción de nacimiento determina el orden para la inscripción de los posteriores nacimientos con idéntica filiación. En esta primera inscripción, cuando así se solicite, podrán constar la preposición «de» y las conjunciones «y» o «i»entre los apellidos, en los términos previstos en el artículo 53 de la presente Ley.
+3. También se incorporará a la inscripción el código personal asignado.
+4. Constarán, además, y siempre que fuera posible, las siguientes circunstancias de los progenitores: nombre y apellidos, Documento Nacional de Identidad o Número de identificación y pasaporte del extranjero, en su caso, lugar y fecha de nacimiento, estado civil, domicilio y nacionalidad, así como cualquier otro dato necesario para el cumplimiento del objeto del Registro Civil al que se refiere el artículo 2 que se haya incluido en los modelos oficialmente aprobados. Si la madre hubiera renunciado a su hijo en el momento del parto el domicilio de la misma estará sujeto al régimen de publicidad restringida, y no figurará a efectos estadísticos.
+5. En el caso de que el parte facultativo indicara la condición intersexual del nacido, los progenitores, de común acuerdo, podrán solicitar que la mención del sexo figure en blanco por el plazo máximo de un año. Transcurrido dicho plazo, la mención al sexo será obligatoria y su inscripción habrá de ser solicitada por los progenitores.
+Se añade el apartado 5 por la disposición final 11.2 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+ Se modifican los apartados 1 y 4 por el art. 2.5 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+ Los apartados 1 y 4 entran en vigor el 15 de octubre de 2015, el apartado 2 entra en vigor el 30 de junio de 2017 y el apartado 3, el 30 de abril de 2021, según establece la disposición final 10 de la presente ley.
+
+### Artículo 50
+
+Artículo 50. Derecho al nombre.
+1. Toda persona tiene derecho a un nombre desde su nacimiento.
+2. Las personas son identificadas por su nombre y apellidos.
+3. El Encargado impondrá un nombre y unos apellidos de uso corriente al nacido cuya filiación sea desconocida. Igualmente impondrá, tras haberles apercibido y transcurrido un plazo de tres días, un nombre de uso corriente cuando los obligados a su fijación no lo señalaren.
+4. A petición del interesado o de su representante legal, el encargado del Registro sustituirá el nombre propio de aquél por su equivalente en cualquiera de las lenguas españolas.
+
+### Artículo 51
+
+Artículo 51. Principio de libre elección del nombre propio.
+El nombre propio será elegido libremente y solo quedará sujeto a las siguientes limitaciones, que se interpretarán restrictivamente:
+1.º No podrán consignarse más de dos nombres simples o uno compuesto.
+2.º No podrán imponerse nombres que sean contrarios a la dignidad de la persona, ni los que hagan confusa la identificación. A efectos de determinar si la identificación resulta confusa no se otorgará relevancia a la correspondencia del nombre con el sexo o la identidad sexual de la persona.
+3.º No podrá imponerse al nacido nombre que ostente uno de sus hermanos o hermanas con idénticos apellidos, a no ser que hubiera fallecido.
+Se modifica por la disposición final 11.3 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+
+### Artículo 52
+
+Artículo 52. Cambio de nombre.
+El Encargado del Registro Civil, mediante procedimiento registral, podrá autorizar el cambio de nombre previa declaración del interesado, que deberá probar el uso habitual del nuevo nombre, y siempre que concurran las demás circunstancias exigidas en la legislación del Registro Civil.
+
+### Artículo 53
+
+Artículo 53. Cambio de apellidos mediante declaración de voluntad.
+El Encargado puede, mediante declaración de voluntad del interesado, autorizar el cambio de apellidos en los casos siguientes:
+1.º La inversión del orden de apellidos.
+2.º La anteposición de la preposición «de» al primer apellido que fuera usualmente nombre propio o empezare por tal, así como las conjunciones «y» o «i» entre los apellidos.
+3.º La acomodación de los apellidos de los hijos mayores de edad o emancipados al cambio de apellidos de los progenitores cuando aquellos expresamente lo consientan.
+4.º La regularización ortográfica de los apellidos a cualquiera de las lenguas oficiales correspondiente al origen o domicilio del interesado y la adecuación gráfica a dichas lenguas de la fonética de apellidos también extranjeros.
+5.º  Cuando sobre la base de una filiación rectificada con posterioridad, el hijo o sus descendientes pretendieran conservar los apellidos que vinieren usando antes de la rectificación. Dicha conservación de apellidos deberá instarse dentro de los dos meses siguientes a la inscripción de la nueva filiación o, en su caso, a la mayoría de edad.
+Se modifica por la disposición final 11.4 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+ Se modifica el punto 4 por el art. único.9 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au
+
+### Artículo 54
+
+Artículo 54. Cambio de apellidos mediante expediente.
+1. El Encargado del Registro puede autorizar el cambio de apellidos, previo expediente instruido en forma reglamentaria.
+2. Son requisitos necesarios de la petición de cambio de apellidos:
+a) Que el apellido en la forma propuesta constituya una situación de hecho, siendo utilizado habitualmente por el interesado.
+b) Que el apellido o apellidos que se tratan de unir o modificar pertenezcan legítimamente al peticionario.
+c) Que los apellidos que resulten del cambio no provengan de la misma línea.
+Podrá formularse oposición fundada únicamente en el incumplimiento de los requisitos exigidos.
+3. Bastará que concurra el requisito del uso habitual del apellido propuesto, sin que se cumplan los requisitos b) y c) del apartado 2, si el apellido o apellidos solicitados correspondieran a quien tuviere acogido al interesado, siempre que aquél o, por haber fallecido, sus herederos, den su consentimiento al cambio. En todo caso se requiere que, por sí o sus representantes legales, asientan al cambio el cónyuge y descendientes del titular del apellido.
+4. No será necesario que concurra el uso habitual del apellido propuesto, bastando que se cumplan el segundo y tercer requisito previstos en el apartado 2, para cambiar o modificar un apellido contrario a la dignidad o que ocasione graves inconvenientes.
+
+### Artículo 55
+
+Artículo 55. Autorización del cambio de apellidos en circunstancias excepcionales.
+Cuando se trate de víctimas de violencia de género o de sus descendientes que vivan o hayan vivido en hogares en los que se haya producido tal situación, así como en aquellos supuestos en los que la urgencia de la situación o las circunstancias excepcionales lo requieran, podrá autorizarse el cambio de apellidos por Orden del Ministerio de Justicia, en los términos fijados reglamentariamente.
+
+### Artículo 56
+
+Artículo 56. Apellidos con elemento extranjero.
+El que adquiere la nacionalidad española conservará los apellidos que ostente en forma distinta de la legal, siempre que así lo declare en el acto de adquirirla o dentro de los dos meses siguientes a la adquisición o a la mayoría de edad, y que los apellidos que se pretenden conservar no resulten contrarios al orden público internacional.
+En caso de ciudadanos españoles que tengan igualmente la nacionalidad de otro Estado miembro de la Unión Europea, los cambios de apellidos voluntarios realizados de conformidad con las reglas relativas a la determinación de apellidos aplicables en este último Estado serán reconocidos en España, salvo cuando dicho cambio sea contrario al orden público español, o bien cuando habiendo sido dicho cambio resultado de una resolución judicial ésta no haya sido reconocida en España.
+
+### Artículo 57
+
+Artículo 57. Reglas comunes al cambio de nombre y apellidos.
+1. El cambio de apellidos alcanza a todas las personas sujetas a la patria potestad y también a los demás descendientes que expresamente lo consientan.
+2. El cambio de nombre y apellidos se inscribirá en el registro individual del interesado. Dicha inscripción tiene carácter constitutivo.
+3. Los cambios señalados en los párrafos anteriores podrán ser solicitados por el propio interesado si es mayor de dieciséis años.
+
+## CAPÍTULO SEGUNDO
+
+Inscripciones relativas al matrimonio
+
+### Artículo 58
+
+Artículo 58. Procedimiento de autorización matrimonial.
+1. El matrimonio en forma civil se celebrará ante el o la Alcalde o Concejal en quien este delegue, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario diplomático o consular Encargado o Encargada del Registro Civil.
+2. La celebración del matrimonio requerirá la previa tramitación o instrucción de un acta o expediente a instancia de los contrayentes para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa, o cualquier otro obstáculo, de acuerdo con lo previsto en el Código Civil. La tramitación del acta competerá al notario del lugar del domicilio de cualquiera de los contrayentes. La instrucción del expediente corresponderá al letrado o letrada de la Administración de Justicia, o encargado o encargada del Registro Civil del domicilio de uno de los contrayentes.
+3. El procedimiento finalizará con una resolución en la que se autorice o deniegue la celebración del matrimonio. La denegación deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento en el que se funda la denegación.
+4. Contra esta resolución cabe recurso ante el encargado o encargada del Registro Civil, cuya resolución se someterá al régimen de recursos ante la Dirección General de Seguridad Jurídica y Fe Pública previsto por esta ley.
+5. El letrado o letrada de la Administración de Justicia, notario o notaria, o encargado o encargada del Registro Civil oirá a ambos contrayentes reservadamente y por separado para cerciorarse de su capacidad y de la inexistencia de cualquier impedimento. Asimismo, se podrán solicitar los informes y practicar las diligencias pertinentes, sean o no propuestas por los requirentes, para acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios para apreciar la validez de su consentimiento y la veracidad del matrimonio.
+El letrado o la letrada de la Administración de Justicia, notario o notaria, encargado encargada del Registro Civil o personal funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.
+De la realización de todas estas actuaciones se dejará constancia en el acta o expediente, archivándose junto con los documentos previos a la inscripción de matrimonio.
+Pasado un año desde la publicación de los anuncios o de las diligencias sustitutorias sin que se haya contraído el matrimonio, no podrá celebrarse este sin nueva publicación o diligencias.
+6. Realizadas las anteriores diligencias, el letrado o letrada de la Administración de Justicia, notario o notaria, encargado o encargada del Registro Civil que haya intervenido finalizará el acta o dictará resolución haciendo constar la concurrencia o no en los contrayentes de los requisitos necesarios para contraer matrimonio, así como la determinación del régimen económico matrimonial que resulte aplicable y, en su caso, la vecindad civil de los contrayentes, entregando copia a estos. La actuación o resolución deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento que concurra.
+7. Si el juicio del letrado o letrada de la Administración de Justicia, notario o notaria, encargado o encargada del Registro Civil fuera desfavorable se procederá al cierre del acta o expediente y los interesados podrán recurrir ante la Dirección General de Seguridad Jurídica y Fe Pública, sometiéndose al régimen de recursos previsto por esta ley.
+8. Resuelto favorablemente el expediente por el letrado o letrada de la Administración de Justicia, el matrimonio se podrá celebrar ante el mismo u otro letrado o letrada de la Administración de Justicia, Alcalde o Concejal en quien este delegue, a elección de los contrayentes. Si se hubiere tramitado por el encargado o la encargada del Registro Civil, el matrimonio deberá celebrarse ante el Alcalde o Concejal en quien este delegue, que designen los contrayentes. Finalmente, si fuera el notario quien hubiera extendido el acta matrimonial, los contrayentes podrán otorgar el consentimiento, a su elección, ante el mismo notario u otro distinto del que hubiera tramitado el acta previa, el Alcalde o Concejal en quien éste delegue. La prestación del consentimiento deberá realizarse en la forma prevista en el Código Civil.
+El matrimonio celebrado ante Alcalde o Concejal en quien este delegue o ante el letrado o letrada de la Administración de Justicia se hará constar en acta; el que se celebre ante notario o notaria constará en escritura pública. En ambos casos deberá ser firmada, además de por aquel ante el que se celebra, por los contrayentes y dos testigos.
+Extendida el acta o autorizada la escritura pública, se entregará a cada uno de los contrayentes copia acreditativa de la celebración del matrimonio y se remitirá por el autorizante, en el mismo día y por medios telemáticos, testimonio o copia autorizada electrónica del documento al Registro Civil para su inscripción, previa calificación del Encargado del Registro Civil.
+9. La celebración del matrimonio fuera de España corresponderá al funcionario consular o diplomático encargado o encargada del Registro Civil en el extranjero. Si uno o los dos contrayentes residieran en el extranjero, la tramitación del expediente previo podrá corresponder al funcionario diplomático o consular encargado o encargada del registro civil competente en la demarcación consular donde residan. El matrimonio así tramitado podrá celebrarse ante el mismo funcionario u otro distinto, o ante el Alcalde o Concejal en quien este delegue, a elección de los contrayentes.
+10. Cuando el matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente o acta previa, si éste fuera necesario, el letrado o letrada de la Administración de Justicia, notario o notaria, o el funcionario o funcionaria Encargado del Registro Civil que lo haya celebrado, antes de realizar las actuaciones que procedan para su inscripción, deberá comprobar si concurren los requisitos legales para su validez, mediante la tramitación del acta o expediente al que se refiere este artículo.
+Si la celebración del matrimonio hubiera sido realizada ante autoridad o persona competente distinta de las indicadas en el párrafo anterior, el acta de aquella se remitirá al encargado o encargada del Registro Civil del lugar de celebración para que proceda a la comprobación de los requisitos de validez, mediante el expediente correspondiente. Efectuada esa comprobación, el encargado o la encargada del Registro Civil procederá a su inscripción.
+11. Si los contrayentes hubieran manifestado su propósito de contraer matrimonio en el extranjero, con arreglo a la forma establecida por la ley del lugar de celebración o en forma religiosa y se exigiera la presentación de un certificado de capacidad matrimonial, lo expedirá el letrado o letrada de la Administración de Justicia, notario o notaria, encargado o encargada del Registro Civil o personal funcionario consular o diplomático del lugar del domicilio de cualquiera de los contrayentes, previo expediente instruido o acta que contenga el juicio del autorizante acreditativo de la capacidad matrimonial de los contrayentes.
+Téngase en cuenta que esta última actualización, establecida por la disposición final 18.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-18, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
+ Redacción anterior:
+ "Artículo 58. Procedimiento de autorización matrimonial.
+ 1. El matrimonio en forma civil se celebrará ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, Secretario judicial, Notario, o funcionario diplomático o consular Encargado del Registro Civil.
+ 2. La celebración del matrimonio requerirá la previa tramitación o instrucción de un acta o expediente a instancia de los contrayentes para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa, o cualquier otro obstáculo, de acuerdo con lo previsto en el Código Civil. La tramitación del acta competerá al Notario del lugar del domicilio de cualquiera de los contrayentes. La instrucción del expediente corresponderá al Secretario judicial o Encargado del Registro Civil del domicilio de uno de los contrayentes.
+ 3. El procedimiento finalizará con una resolución en la que se autorice o deniegue la celebración del matrimonio. La denegación deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento en el que se funda la denegación.
+ 4. Contra esta resolución cabe recurso ante el Encargado del Registro Civil, cuya resolución se someterá al régimen de recursos ante la Dirección General de los Registros y del Notariado previsto por esta Ley.
+ 5. El Letrado de la Administración de Justicia, Notario o Encargado del Registro Civil oirá a ambos contrayentes reservadamente y por separado para cerciorarse de su capacidad y de la inexistencia de cualquier impedimento. Asimismo, se podrán solicitar los informes y practicar las diligencias pertinentes, sean o no propuestas por los requirentes, para acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios para apreciar la validez de su consentimiento y la veracidad del matrimonio.
+ El Letrado de la Administración de Justicia, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.
+ De la realización de todas estas actuaciones se dejará constancia en el acta o expediente, archivándose junto con los documentos previos a la inscripción de matrimonio.
+ Pasado un año desde la publicación de los anuncios o de las diligencias sustitutorias sin que se haya contraído el matrimonio, no podrá celebrarse este sin nueva publicación o diligencias.
+ 6. Realizadas las anteriores diligencias, el Secretario judicial, Notario o Encargado del Registro Civil que haya intervenido finalizará el acta o dictará resolución haciendo constar la concurrencia o no en los contrayentes de los requisitos necesarios para contraer matrimonio, así como la determinación del régimen económico matrimonial que resulte aplicable y, en su caso, la vecindad civil de los contrayentes, entregando copia a éstos. La actuación o resolución deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento que concurra.
+ 7. Si el juicio del Secretario judicial, Notario o Encargado del Registro Civil fuera desfavorable se procederá al cierre del acta o expediente y los interesados podrán recurrir ante la Dirección General de los Registros y del Notariado, sometiéndose al régimen de recursos previsto por esta Ley.
+ 8. Resuelto favorablemente el expediente por el Secretario judicial, el matrimonio se podrá celebrar ante el mismo u otro Secretario judicial, Juez de Paz, Alcalde o Concejal en quien éste delegue, a elección de los contrayentes. Si se hubiere tramitado por el Encargado del Registro Civil, el matrimonio deberá celebrarse ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, que designen los contrayentes. Finalmente, si fuera el Notario quien hubiera extendido el acta matrimonial, los contrayentes podrán otorgar el consentimiento, a su elección, ante el mismo Notario u otro distinto del que hubiera tramitado el acta previa, el Juez de Paz, Alcalde o Concejal en quien éste delegue. La prestación del consentimiento deberá realizarse en la forma prevista en el Código Civil.
+ El matrimonio celebrado ante Juez de Paz, Alcalde o Concejal en quien este delegue o ante el Secretario judicial se hará constar en acta; el que se celebre ante Notario constará en escritura pública. En ambos casos deberá ser firmada, además de por aquel ante el que se celebra, por los contrayentes y dos testigos.
+ Extendida el acta o autorizada la escritura pública, se entregará a cada uno de los contrayentes copia acreditativa de la celebración del matrimonio y se remitirá por el autorizante, en el mismo día y por medios telemáticos, testimonio o copia autorizada electrónica del documento al Registro Civil para su inscripción, previa calificación del Encargado del Registro Civil.
+ 9. La celebración del matrimonio fuera de España corresponderá al funcionario consular o diplomático Encargado del Registro Civil en el extranjero. Si uno o los dos contrayentes residieran en el extranjero, la tramitación del expediente previo podrá corresponder al funcionario diplomático o consular Encargado del registro civil competente en la demarcación consular donde residan. El matrimonio así tramitado podrá celebrarse ante el mismo funcionario u otro distinto, o ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, a elección de los contrayentes.
+ 10. Cuando el matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente o acta previa, si éste fuera necesario, el Secretario judicial, Notario, o el funcionario Encargado del Registro Civil que lo haya celebrado, antes de realizar las actuaciones que procedan para su inscripción, deberá comprobar si concurren los requisitos legales para su validez, mediante la tramitación del acta o expediente al que se refiere este artículo.
+ Si la celebración del matrimonio hubiera sido realizada ante autoridad o persona competente distinta de las indicadas en el párrafo anterior, el acta de aquélla se remitirá al Encargado del Registro Civil del lugar de celebración para que proceda a la comprobación de los requisitos de validez, mediante el expediente correspondiente. Efectuada esa comprobación, el Encargado del Registro Civil procederá a su inscripción.
+ 12 [sic]. Si los contrayentes hubieran manifestado su propósito de contraer matrimonio en el extranjero, con arreglo a la forma establecida por la ley del lugar de celebración o en forma religiosa y se exigiera la presentación de un certificado de capacidad matrimonial, lo expedirá el Secretario judicial, Notario, Encargado del Registro Civil o funcionario consular o diplomático del lugar del domicilio de cualquiera de los contrayentes, previo expediente instruido o acta que contenga el juicio del autorizante acreditativo de la capacidad matrimonial de los contrayentes."
+Se modifica, con efectos de 3 de abril de 2025, por la disposición final 18.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-18
+ Se modifica la rúbrica y el apartado 3 por el art. único.12 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au
+ Se modifica el apartado 5 por la disposición final 4.1 de la Ley 15/2015, de 2 de julio, en la redacción dada por el art. único.3 de la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+ La modificación de este artículo entrará en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil, según establece la disposición final 21.3 de la citada Ley 15/2015.
+ Se modifican los apartados 1, 2, 5 a 10 y 12 por la disposición final 4.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfcuaa.
+ Téngase en cuenta que aunque la disposición literalmente indique que se modifican los apartados 8 a 10 y 12 se entiende que añade estos últimos.
+ La modificación de este artículo entrará en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil, según establece la disposición final 21.3 de la citada Ley 15/2015.
+
+### Artículo 58 bis
+
+Artículo 58 bis. Matrimonio celebrado en forma religiosa.
+1. Para la celebración del matrimonio en la forma religiosa prevista en el Acuerdo entre el Estado español y la Santa Sede sobre Asuntos Jurídicos y en los Acuerdos de cooperación del Estado con las confesiones religiosas se estará a lo dispuesto en los mismos.
+2. En los supuestos de celebración del matrimonio en la forma religiosa prevista por las iglesias, confesiones, comunidades religiosas o federaciones de las mismas que, inscritas en el Registro de Entidades Religiosas, hayan obtenido el reconocimiento de notorio arraigo en España, requerirán la tramitación de un acta o expediente previo de capacidad matrimonial conforme al artículo anterior. Cumplido este trámite, el Secretario judicial, Notario, Encargado del Registro Civil o funcionario diplomático o consular Encargado del Registro Civil que haya intervenido expedirá dos copias del acta o resolución, que incluirá, en su caso, el juicio acreditativo de la capacidad matrimonial de los contrayentes, que éstos deberán entregar al ministro de culto encargado de la celebración del matrimonio.
+El consentimiento deberá prestarse ante un ministro de culto y dos testigos mayores de edad. En estos casos, el consentimiento deberá prestarse antes de que hayan transcurrido seis meses desde la fecha del acta o resolución que contenga el juicio de capacidad matrimonial. A estos efectos se consideran ministros de culto a las personas físicas dedicadas, con carácter estable, a las funciones de culto o asistencia religiosa y que acrediten el cumplimiento de estos requisitos mediante certificación expedida por la iglesia, confesión o comunidad religiosa que haya obtenido el reconocimiento de notorio arraigo en España, con la conformidad de la federación que en su caso hubiera solicitado dicho reconocimiento.
+Una vez celebrado el matrimonio, el oficiante extenderá certificación expresiva de la celebración del mismo, con los requisitos necesarios para su inscripción y las menciones de identidad de los testigos y de las circunstancias del expediente o acta previa que necesariamente incluirán el nombre y apellidos del Secretario judicial, Notario, Encargado del Registro Civil o funcionario diplomático o consular que la hubiera extendido, la fecha y número de protocolo en su caso. Esta certificación se remitirá por medios electrónicos, en la forma que reglamentariamente se determine, junto con la certificación acreditativa de la condición de ministro de culto, dentro del plazo de cinco días al Encargado del Registro Civil competente para su inscripción. Igualmente extenderá en las dos copias del acta o resolución previa de capacidad matrimonial diligencia expresiva de la celebración del matrimonio entregando una a los contrayentes y conservará la otra como acta de la celebración en el archivo del oficiante o de la entidad religiosa a la que representa como ministro de culto.
+Se añade por la disposición final 4.2 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfcuaa.
+ Redactado conforme a la corrección de errores publicada en el BOE núm. 210, de 2 de septiembre de 2015. Ref. BOE-A-2015-9524.
+ Este artículo entrará en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil, según establece la disposición final 21.3 de la citada Ley 15/2015.
+
+### Artículo 59
+
+Artículo 59. Inscripción del matrimonio.
+1. El matrimonio autorizado y celebrado según el procedimiento previsto en el artículo anterior se inscribirá en los registros individuales de los contrayentes.
+2. El matrimonio celebrado ante autoridad extranjera accederá al Registro Civil español mediante la inscripción de la certificación correspondiente, siempre que tenga eficacia con arreglo a lo previsto en la presente Ley.
+3. El matrimonio celebrado en España en forma religiosa accederá al Registro Civil mediante la inscripción de la certificación de la Iglesia o Confesión respectiva conforme a lo previsto en el artículo 63 del Código Civil.
+4. La inscripción hace fe del matrimonio y de la fecha y lugar en que se contrae.
+
+### Artículo 60
+
+Artículo 60. Inscripción del régimen económico del matrimonio.
+1. Junto a la inscripción de matrimonio se inscribirá el régimen económico matrimonial legal o pactado que rija el matrimonio y los pactos, resoluciones judiciales o demás hechos que puedan afectar al mismo.
+Sin perjuicio de lo previsto en el artículo 1333 del Código Civil, en ningún caso el tercero de buena fe resultará perjudicado sino desde la fecha de la inscripción del régimen económico matrimonial o de sus modificaciones.
+2. Se inscribirán las actas por las que se declare la notoriedad del régimen económico matrimonial legal o pactado.
+
+### Artículo 61
+
+Artículo 61. Inscripción de la separación, nulidad y divorcio.
+El secretario judicial del Juzgado o Tribunal que hubiera dictado la resolución judicial firme de separación, nulidad o divorcio deberá remitir por medios electrónicos testimonio de la misma a la Oficina del Registro Civil, la cual practicará de forma inmediata la correspondiente inscripción. Las resoluciones judiciales que resuelvan sobre la nulidad, separación y divorcio podrán ser objeto de anotación hasta que adquieran firmeza.
+Las resoluciones sobre disolución de matrimonio canónico, dictadas por autoridad eclesiástica reconocida, se inscribirán si cumplen los requisitos que prevé el ordenamiento jurídico.
+
+## CAPÍTULO TERCERO
+
+Inscripción de la defunción
+
+### Artículo 62
+
+Artículo 62. Inscripción de la defunción.
+1. La inscripción en el Registro Civil de la defunción es obligatoria. La inscripción hace fe de la muerte de una persona y de la fecha, hora y lugar en que se produce. En la inscripción debe figurar asimismo la identidad del fallecido.
+2. La inscripción de la defunción se practicará en virtud de declaración documentada en el formulario oficial, acompañado del certificado médico de la defunción. En defecto de certificado, cuando éste sea incompleto o si, a juicio del Encargado, debe complementarse la documentación acreditativa del fallecimiento, se requerirá dictamen médico del facultativo.
+3. El funcionario competente, una vez recibida y examinada la documentación, practicará inmediatamente la inscripción y expedirá el certificado de la defunción.
+El Encargado, una vez practicada la inscripción, expedirá la licencia para el entierro o incineración en el plazo que reglamentariamente se establezca.
+4. La inscripción de la defunción cerrará el registro individual. En ningún caso, el código personal podrá volver a ser asignado.
+
+### Artículo 63
+
+Artículo 63. Obligados a promover la inscripción de fallecimiento.
+Están obligados a promover la inscripción de fallecimiento:
+1.º La dirección de hospitales, clínicas y establecimientos sanitarios donde se produzca el fallecimiento.
+2.º El personal médico que certifica el fallecimiento, cuando éste haya tenido lugar fuera del establecimiento sanitario.
+3.º Los parientes del difunto o persona a quien éstos autoricen.
+4.º El director del establecimiento, cualquier habitante de la casa donde se hubiera producido el fallecimiento o, en su caso, la autoridad que corresponda.
+5.º Cualquier persona que tenga conocimiento de un fallecimiento lo comunicará a la autoridad competente, que vendrá obligada a promover la inscripción de la defunción.
+
+### Artículo 64
+
+Artículo 64. Comunicación de la defunción por los centros sanitarios.
+La dirección de hospitales, clínicas y establecimientos sanitarios comunicará a la Oficina del Registro Civil competente y al Instituto Nacional de Estadística cada uno de los fallecimientos que hayan tenido lugar en su centro sanitario. La comunicación se remitirá por medios electrónicos en el plazo que se establezca reglamentariamente mediante el envío del formulario oficial debidamente cumplimentado, acompañado del certificado médico firmado por el facultativo. Dicha remisión será realizada por personal del centro sanitario, que usará para ello mecanismos seguros de identificación y firma electrónicos.
+Se modifica por el art. 2.6 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 65
+
+Artículo 65. Inscripción de la defunción por declaración de los obligados.
+Respecto de los fallecimientos que se hayan producido fuera de establecimiento sanitario, los obligados a promover la inscripción informarán de la defunción a la mayor brevedad posible a la autoridad pública, que la comunicará inmediatamente a la Oficina del Registro Civil.
+
+### Artículo 66
+
+Artículo 66. Certificado médico de defunción.
+En ningún caso podrá efectuarse la inscripción de defunción sin que se haya presentado ante el Registro Civil el certificado médico de defunción. En el certificado, además de las circunstancias necesarias para la práctica de la inscripción, deberán recogerse aquellas que se precisen a los fines del Instituto Nacional de Estadística y, en todo caso, la existencia o no de indicios de muerte violenta y, en su caso, la incoación o no de diligencias judiciales por el fallecimiento si le fueran conocidas o cualquier motivo por el que, a juicio del facultativo, no deba expedirse la licencia de enterramiento.
+Las circunstancias mencionadas en el segundo inciso del párrafo anterior no serán incorporadas a la inscripción de defunción ni serán objeto del régimen de publicidad establecido en esta Ley, siendo su única finalidad la establecida en este artículo.
+Se modifica por el art. 2.7 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Artículo 67
+
+Artículo 67. Supuestos especiales de inscripción de la defunción.
+1. Cuando el cadáver hubiera desaparecido o se hubiera inhumado antes de la inscripción, será necesaria resolución judicial, procedimiento registral u orden de la autoridad judicial en la que se acredite legalmente el fallecimiento.
+2. Si hubiera indicios de muerte violenta o en cualquier caso en que deban incoarse diligencias judiciales, la inscripción de la defunción no supondrá por sí misma la concesión de licencia de enterramiento o incineración. Dicha licencia se expedirá cuando se autorice por el órgano judicial competente.
+
+## CAPÍTULO CUARTO
+
+Otras inscripciones
+
+### Artículo 68
+
+Artículo 68. Inscripción de la nacionalidad y de la vecindad civil.
+1. La adquisición de la nacionalidad española por residencia, carta de naturaleza y opción, así como su recuperación y las declaraciones de voluntad relativas a la vecindad, se inscribirán en el registro individual. Estas inscripciones tendrán carácter constitutivo.
+No podrá inscribirse la nacionalidad española adquirida por cualquiera de las vías que reconoce el ordenamiento jurídico si no se ha efectuado la inscripción previa de nacimiento.
+La inscripción de la pérdida de la nacionalidad tendrá carácter meramente declarativo.
+2. Para efectuar las inscripciones relativas a la nacionalidad y a la vecindad civil será título suficiente aquél a través del cual se haya reconocido la nacionalidad española o la vecindad civil que corresponda.
+
+### Artículo 69
+
+Artículo 69. Presunción de nacionalidad española.
+Sin perjuicio de lo dispuesto en el Código Civil y en tanto no conste la extranjería de los progenitores, se presumen españoles los nacidos en territorio español de progenitores también nacidos en España.
+La misma presunción rige para la vecindad.
+Se modifica por la disposición final 11.5 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+
+### Artículo 70
+
+Artículo 70. Emancipación y beneficio de la mayor edad.
+1. En el registro individual se inscribirán la emancipación y el beneficio de la mayor edad.
+2. La emancipación por concesión de los que ejercen la patria potestad se inscribe en virtud de escritura pública o por comparecencia ante el Encargado.
+3. La emancipación por concesión judicial y el beneficio de la mayor edad se inscriben en virtud de resolución judicial.
+4. La emancipación tácita o por vida independiente podrá inscribirse mediante la acreditación documental de la situación de independencia y el consentimiento de quienes ejercen la patria potestad.
+La concesión de emancipación y la emancipación por vida independiente, así como el beneficio de la mayor edad, no producirán efectos frente a terceros mientras no se inscriban en el Registro Civil.
+
+### Artículo 71
+
+Artículo 71. Inscripción de la patria potestad y sus modificaciones.
+1. Los hechos que afecten a las relaciones paterno-filiales se inscribirán en el registro individual de la persona sujeta a patria potestad y en el de su progenitor o en los de sus progenitores.
+Son inscribibles las resoluciones judiciales que afecten a la titularidad, al ejercicio y a las modificaciones de la patria potestad. En particular, las que se produzcan como consecuencia de la nulidad, separación y divorcio de los progenitores.
+2. También se inscribirá la extinción, privación, suspensión y recuperación de la patria potestad.
+Téngase en cuenta que esta última actualización del apartado 2 establecida por el art. 6.4 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "2. También se inscribirá la extinción, privación, suspensión, prórroga y rehabilitación de la patria potestad."
+3. En idénticos términos se inscribirá todo lo relativo a las figuras similares o asimilables a la patria potestad, que sean de Derecho civil propio de las Comunidades Autónomas.
+Se modifica el apartado 2, con efectos desde el 3 de septiembre de 2021, por el art. 6.4 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 72
+
+Artículo 72. Resolución judicial de provisión de apoyos y declaración del concurso de persona física.
+1. La resolución judicial dictada en un procedimiento de provisión de apoyos, así como la que la deje sin efecto o la modifique, se inscribirán en el registro individual de la persona con discapacidad. La inscripción expresará la extensión y límites de las medidas judiciales de apoyo.
+Asimismo, se inscribirá cualquier otra resolución judicial sobre las medidas de apoyo a personas con discapacidad.
+2. Se inscribirán en el Registro Civil la declaración de concurso, la intervención o, en su caso, la suspensión de las facultades de administración y disposición, así como el nombramiento de los administradores concursales.
+Se modifica el título y el apartado 1, con efectos desde el 3 de septiembre de 2021, por el art. 6.5 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 73
+
+Artículo 73. Oponibilidad de las resoluciones.
+Las resoluciones a que se refiere el artículo anterior solo serán oponibles frente a terceros cuando se hayan practicado las oportunas inscripciones.
+Téngase en cuenta que esta última actualización establecida por el art. 6.6 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Artículo 73. Inscripción de tutela, curatela y sus modificaciones.
+ 1. Se inscribirán en el registro individual de la persona con capacidad modificada judicialmente las resoluciones judiciales en las que se nombre tutor o curador.
+ Asimismo, tendrán acceso al Registro Civil las medidas judiciales sobre guarda o administración y sobre vigilancia o control de dichos cargos tutelares.
+ 2. Dichas resoluciones solo serán oponibles frente a terceros cuando se hayan practicado las oportunas inscripciones."
+Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.6 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 74
+
+Artículo 74. Inscripción de determinadas representaciones legales.
+1. Tienen acceso al registro individual la representación del ausente y la designación de administrador por el Juez en el caso previsto en el artículo 299 bis del Código Civil.
+2. Igualmente, podrá tener acceso al Registro Civil cualquier representación que se otorgue mediante nombramiento especial y comprenda la administración y guarda de un patrimonio.
+
+### Artículo 75
+
+Artículo 75. Inscripción de tutela automática o administrativa.
+Se inscribirá en el registro individual del menor en situación de desamparo la sujeción a la tutela por la entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores por la legislación que resulte aplicable.
+Téngase en cuenta que esta última actualización establecida por el art. 6.7 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Artículo 75. Inscripción de tutela automática o administrativa.
+ Se inscribirá en el registro individual del menor o de la persona con capacidad modificada judicialmente en situación de desamparo, la sujeción a la tutela por la entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores o de las personas con capacidad modificada judicialmente en los términos previstos por la legislación que resulte aplicable."
+Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.7 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 76
+
+Artículo 76. Inscripción de actos relativos al patrimonio protegido de las personas con discapacidad.
+Es inscribible en el registro individual de la persona con discapacidad el documento público o resolución judicial relativos a la constitución y demás circunstancias relativas al patrimonio protegido y a la designación y modificación de administradores de dicho patrimonio.
+
+### Artículo 77
+
+Artículo 77. Inscripción de medidas de apoyo voluntarias.
+Es inscribible en el registro individual del interesado el documento público que contenga las medidas de apoyo previstas por una persona respecto de sí misma o de sus bienes.
+Téngase en cuenta que esta última actualización establecida por el art. 6.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Artículo 77. Inscripción de autotutela y apoderamientos preventivos.
+ Es inscribible en el registro individual del interesado el documento público de constitución de autotutela y el apoderamiento preventivo previstos en la legislación civil."
+Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 78
+
+Artículo 78. Inscripciones de declaración de ausencia y fallecimiento.
+1. Las declaraciones judiciales de ausencia y fallecimiento se inscribirán en el registro individual del declarado ausente o fallecido.
+2. En la inscripción de la declaración de fallecimiento se expresará la fecha a partir de la cual se entiende ocurrida la muerte.
+
+## CAPÍTULO QUINTO
+
+Inscripciones en circunstancias excepcionales
+
+### Artículo 79
+
+Artículo 79. Inscripciones en circunstancias excepcionales.
+Cuando por circunstancias excepcionales imputables al funcionamiento del Registro Civil no sea posible practicar la inscripción, se levantará acta de nacimiento, matrimonio o defunción con los requisitos del asiento correspondiente por las autoridades o funcionarios que señale el Reglamento.
+Dicha acta será título suficiente para proceder a la inscripción del hecho o acto a que se refiere el párrafo anterior con independencia del tiempo transcurrido desde el hecho y sin necesidad de incoar un expediente de inscripción fuera de plazo.
+
+## TÍTULO VII
+
+Publicidad del Registro Civil
+
+## CAPÍTULO PRIMERO
+
+Instrumentos de publicidad registral
+
+### Artículo 80
+
+Artículo 80. Medios de publicidad del Registro Civil.
+1. La publicidad de los datos que constan en el Registro Civil se realizará de las siguientes formas:
+1.ª Mediante el acceso de las Administraciones y funcionarios públicos, en el ejercicio de sus funciones y bajo su responsabilidad, a los datos que consten en el Registro Civil.
+También se podrá tener conocimiento de los datos que constan en el Registro Civil mediante los procedimientos especiales que se acuerden por la Dirección General de los Registros y del Notariado, cuando la información deba ser suministrada de forma periódica y automatizada para el cumplimiento de fines públicos, o cuando sea precisa para comprobar por las entidades de certificación reguladas en la Ley 59/2003, de 19 de diciembre, de firma electrónica, que no se ha producido la extinción de los certificados electrónicos por las causas contempladas en el artículo 8, apartado 1, letra e), de dicha Ley.
+2.ª Mediante certificación.
+2. Las Administraciones y funcionarios públicos en el ejercicio de sus competencias sólo podrán exigir a los ciudadanos la presentación de certificados del Registro Civil cuando los datos objeto del certificado no obren en poder de aquéllas, o cuando fuere imposible su obtención directamente por medios electrónicos.
+3. Lo dispuesto en este artículo se entiende sin perjuicio del régimen de publicidad restringida al que se refieren los artículos 83 y 84 de la presente Ley.
+4. Con carácter excepcional y con fines de investigación familiar, histórica o científica, se podrá autorizar el acceso a la información registral en los términos que reglamentariamente se establezcan.
+
+### Artículo 81
+
+Artículo 81. Expedición de certificaciones.
+1. Son competentes para expedir certificaciones de los datos que consten en los asientos del Registro Civil los Encargados de las Oficinas del Registro Civil.
+2. Las certificaciones se expedirán por medios electrónicos. Excepcionalmente, también se podrán expedir por medios no electrónicos. A petición del interesado, las certificaciones podrán ser bilingües.
+3. Las certificaciones previstas en el apartado anterior se presumen exactas y constituyen prueba plena de los hechos y actos inscritos en el Registro Civil.
+4. Cuando por circunstancias excepcionales la certificación no fuese conforme con los datos que consten en el Registro Civil, se estará a lo que de éste resulte, sin perjuicio de la responsabilidad que proceda.
+
+### Artículo 82
+
+Artículo 82. Clases de certificaciones.
+1. Las certificaciones podrán ser literales o en extracto. Salvo solicitud expresa en sentido contrario, se expedirá certificación en extracto. Si no constara ningún asiento, la certificación será negativa.
+2. Las certificaciones literales comprenderán la totalidad del contenido del asiento o asientos a que se refieran.
+3. Las certificaciones en extracto contendrán los datos que se determinen reglamentariamente.
+
+## CAPÍTULO SEGUNDO
+
+Datos sometidos a régimen de protección especial
+
+### Artículo 83
+
+Artículo 83. Datos con publicidad restringida.
+1. A los efectos de la presente Ley, se considerarán datos especialmente protegidos:
+a) La filiación adoptiva y la desconocida.
+b) La discapacidad y las medidas de apoyo.
+c) Los cambios de apellido autorizados por ser víctima de violencia de género o su descendiente, así como otros cambios de identidad legalmente autorizados.
+d) La rectificación del sexo.
+e) Las causas de privación o suspensión de la patria potestad.
+f) El matrimonio secreto.
+Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. 6.9 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "1. A los efectos de la presente Ley, se considerarán datos especialmente protegidos:
+ a) La filiación adoptiva y la desconocida.
+ b) Los cambios de apellido autorizados por ser víctima de violencia de género o su descendiente, así como otros cambios de identidad legalmente autorizados.
+ c) La rectificación del sexo.
+ d) Las causas de privación o suspensión de la patria potestad.
+ e) El matrimonio secreto."
+2. Estarán sometidos al mismo régimen de protección los documentos archivados por contener los extremos citados en el apartado anterior o que estén incorporados a expedientes que tengan carácter reservado.
+3. Los asientos que contengan información relativa a los datos relacionados en el apartado anterior serán efectuados del modo que reglamentariamente se determine con el fin de que, salvo el propio inscrito, solo se pueda acceder a ellos con la autorización expresada en el artículo siguiente.
+Se modifica el apartado 1, con efectos desde el 3 de septiembre de 2021, por el art. 6.9 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+### Artículo 84
+
+Artículo 84. Acceso a los asientos que contengan datos especialmente protegidos.
+Sólo el inscrito o sus representantes legales, quien ejerza el apoyo y que esté expresamente autorizado, el apoderado preventivo general o el curador en el caso de una persona con discapacidad podrán acceder o autorizar a terceras personas la publicidad de los asientos que contengan datos especialmente protegidos en los términos que reglamentariamente se establezcan. Las Administraciones Públicas y los funcionarios públicos podrán acceder a los datos especialmente protegidos del apartado 1.b) del artículo 83 cuando en el ejercicio de sus funciones deban verificar la existencia o el contenido de medidas de apoyo.
+Téngase en cuenta que esta última actualización del párrafo primero establecida por el art. 6.10 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Sólo el inscrito o sus representantes legales podrán acceder o autorizar a terceras personas la publicidad de los asientos que contengan datos especialmente protegidos en los términos que reglamentariamente se establezcan."
+Si el inscrito ha fallecido, la autorización para acceder a los datos especialmente protegidos sólo podrá efectuarla el Juez de Primera Instancia del domicilio del solicitante, siempre que justifique interés legítimo y razón fundada para pedirlo.
+En el supuesto del párrafo anterior, se presume que ostenta interés legítimo el cónyuge del fallecido, pareja de hecho, ascendientes y descendientes hasta el segundo grado.
+Se modifica el primer párrafo, con efectos desde el 3 de septiembre de 2021, por el art. 6.10 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as-2
+
+## TÍTULO VIII
+
+Régimen de recursos
+
+### Artículo 85
+
+Artículo 85. Recursos contra las decisiones adoptadas por los Encargados de las Oficinas del Registro Civil.
+1. Contra las decisiones adoptadas por los Encargados de las Oficinas Central, Generales y Consulares del Registro Civil en el ámbito de las competencias atribuidas por esta Ley, los interesados sólo podrán interponer recurso ante la Dirección General de los Registros y del Notariado, en el plazo de un mes.
+2. En el caso de denegación de inscripción de sentencias y otras resoluciones judiciales extranjeras cuya competencia corresponde a la Oficina Central del Registro Civil, el interesado sólo podrá instar procedimiento judicial de exequátur.
+
+### Artículo 86
+
+Artículo 86. Presentación del recurso y plazo de resolución.
+1. El recurso se dirigirá a la Dirección General de los Registros y del Notariado y se formulará en los términos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+El interesado podrá presentar el recurso en cualquiera de los lugares previstos para la presentación de escritos y solicitudes haciendo uso de los medios que prevé el ordenamiento jurídico.
+2. La Dirección General resolverá el recurso en el plazo de seis meses siguientes a la recepción del escrito de interposición.
+Transcurrido este plazo sin que la Dirección General de los Registros y del Notariado haya dictado y notificado resolución expresa, se entenderá desestimada la pretensión, quedando expedita la vía jurisdiccional correspondiente.
+
+### Artículo 87
+
+Artículo 87. Órgano jurisdiccional competente.
+1. Las resoluciones y actos de la Dirección General de los Registros y del Notariado podrán ser impugnados ante el Juzgado de Primera Instancia de la capital de provincia del domicilio del recurrente, de conformidad con lo previsto en el artículo 781 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil. En estos procesos será emplazada la citada Dirección General a través de su representación procesal.
+2. Quedan exceptuados del número anterior las resoluciones y actos de la Dirección General de los Registros y del Notariado relativos a la solicitud de nacionalidad por residencia que en aplicación del artículo 22.5 del Código civil se someten a la jurisdicción contencioso-administrativa.
+3. La Dirección General de los Registros y del Notariado podrá impugnar ante el Juzgado de Primera Instancia competente las decisiones adoptadas por los Encargados de las Oficinas por ser las mismas contrarias a la doctrina establecida por el Centro Directivo. En estos procesos serán emplazados los interesados.
+
+## TÍTULO IX
+
+Los procedimientos registrales
+
+## CAPÍTULO PRIMERO
+
+Reglas generales de los procedimientos registrales
+
+### Artículo 88
+
+Artículo 88. Tramitación de los procedimientos registrales.
+1. Los procedimientos registrales serán tramitados y resueltos por el Encargado del Registro Civil de la Oficina donde se pretendiera efectuar el asiento. Los procedimientos de rectificación de asientos se tramitarán por el Encargado de la Oficina que los hubiese practicado.
+2. La tramitación del procedimiento se ajustará a las reglas previstas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común en los términos que reglamentariamente se dispongan. El silencio administrativo en los procedimientos registrales será negativo.
+
+### Artículo 89
+
+Artículo 89. Legitimación para promover los procedimientos registrales.
+Además del Ministerio Fiscal, pueden promover los procedimientos registrales quienes estuvieran obligados a promover la inscripción y cualquier persona que tenga interés en los asientos.
+
+## CAPÍTULO SEGUNDO
+
+Rectificación de los asientos del Registro Civil
+
+### Artículo 90
+
+Artículo 90. Rectificación judicial de los asientos.
+Los asientos están bajo la salvaguarda de los Tribunales y su rectificación se efectuará en virtud de resolución judicial firme de conformidad con lo previsto en el artículo 781 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+### Artículo 91
+
+Artículo 91. Rectificación de los asientos por procedimiento registral.
+1. No obstante lo previsto en el artículo anterior, pueden rectificarse a través de un procedimiento registral:
+a) Las menciones erróneas de los datos que deban constar en la inscripción.
+b) Los errores que proceden de documento público o eclesiástico ulteriormente rectificado.
+c) Las divergencias que se aprecien entre la inscripción y los documentos en cuya virtud se haya practicado.
+2. Las menciones registrales relativas al nombre y sexo de las personas cuando se cumplan los requisitos de la Ley para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, se rectificarán mediante el procedimiento registral previsto en dicha norma. En tales casos, la inscripción tendrá eficacia constitutiva.
+Se modifica el apartado 2 por la disposición final 11.6 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+
+## CAPÍTULO TERCERO
+
+Declaraciones con valor de simple presunción
+
+### Artículo 92
+
+Artículo 92. Declaraciones con valor de simple presunción.
+1. Previo procedimiento registral, puede declararse con valor de simple presunción:
+a) Que no ha ocurrido hecho determinado que pudiera afectar al estado civil.
+b) La nacionalidad, vecindad civil o cualquier estado, si no consta en el Registro Civil.
+c) El domicilio de los apátridas.
+d) La existencia de los hechos mientras por fuerza mayor sea imposible el acceso a la información contenida en el Registro Civil.
+e) El matrimonio cuya celebración conste y que no pueda ser inscrito por no haberse acreditado debidamente los requisitos exigidos para su validez por el Código Civil.
+2. La acreditación de las circunstancias referidas en el apartado anterior se efectuará en los términos que reglamentariamente se determinen.
+
+### Artículo 93
+
+Artículo 93. Carácter, anotación y publicidad de las declaraciones con valor de simple presunción.
+1. Las declaraciones con valor de simple presunción tienen la consideración de una presunción legal iuris tantum.
+2. La anotación de las declaraciones es obligatoria y precisará la fecha a que éstas se refieren.
+3. El testimonio, literal o en extracto, de las declaraciones expresará siempre su valor de simple presunción.
+La publicidad de las anotaciones y declaraciones queda sujeta a las mismas restricciones que la presente Ley prevé para las inscripciones.
+
+## TÍTULO X
+
+Normas de Derecho internacional privado
+
+### Artículo 94
+
+Artículo 94. Primacía del Derecho convencional y de la Unión Europea.
+Las normas del presente Título se aplicarán sin perjuicio de lo que dispongan la normativa de la Unión Europea y los tratados e instrumentos internacionales vigentes en España.
+
+### Artículo 95
+
+Artículo 95. Traducción y legalización.
+1. Los documentos no redactados en una de las lenguas oficiales españolas o escritos en letra antigua o poco inteligible, deberán acompañarse de traducción efectuada por órgano o funcionario competentes. No obstante, si al Encargado del Registro le constare el contenido del documento podrá prescindir de la traducción.
+2. Todo documento expedido por funcionario o autoridad extranjera se presentará con la correspondiente legalización. No obstante, quedan eximidos de legalización los documentos cuya autenticidad le constare al Encargado del Registro y aquéllos que llegaren por vía oficial o por diligencia bastante.
+3. El Encargado que dude de la autenticidad de un documento, realizará las comprobaciones oportunas en el menor tiempo posible.
+
+### Artículo 96
+
+Artículo 96. Resoluciones judiciales extranjeras.
+1. Sólo procederá la inscripción en el Registro Civil español de las sentencias y demás resoluciones judiciales extranjeras que hayan adquirido firmeza. Tratándose de resoluciones de jurisdicción voluntaria, éstas deberán ser definitivas. En el caso de que la resolución carezca de firmeza o de carácter definitivo, únicamente procederá su anotación registral en los términos previstos en el ordinal 5.º del apartado 3 del artículo 40 de la presente Ley.
+2. La inscripción de las resoluciones judiciales extranjeras se podrá instar:
+1.º Previa superación del trámite del exequátur contemplado en la Ley de Enjuiciamiento Civil de 1881. Hasta entonces sólo podrán ser objeto de anotación en los términos previstos en el ordinal 5º del apartado 3 del artículo 40 de la presente Ley.
+2.º Ante el Encargado del Registro Civil, quien procederá a realizarla siempre que verifique:
+a) La regularidad y autenticidad formal de los documentos presentados.
+b) Que el Tribunal de origen hubiera basado su competencia judicial internacional en criterios equivalentes a los contemplados en la legislación española.
+c) Que todas las partes fueron debidamente notificadas y con tiempo suficiente para preparar el procedimiento.
+d) Que la inscripción de la resolución no resulta manifiestamente incompatible con el orden público español.
+El Encargado del Registro Civil deberá notificar su resolución a todos los interesados y afectados por la misma. Contra la resolución del Encargado del Registro Civil los interesados y los afectados podrán solicitar exequátur de la resolución judicial o bien interponer recurso ante la Dirección General de los Registros y del Notariado en los términos previstos en la presente Ley. En ambos casos se procederá a la anotación de la resolución en los términos previstos en el ordinal 5º del apartado 3 del artículo 40, si así se solicita expresamente.
+3. El régimen jurídico contemplado en el presente artículo para las resoluciones judiciales extranjeras será aplicable a las resoluciones pronunciadas por autoridades no judiciales extranjeras en materias cuya competencia corresponda, según el Derecho español, al conocimiento de Jueces y Tribunales.
+
+### Artículo 97
+
+Artículo 97. Documento extranjero extrajudicial.
+Un documento público extranjero no judicial es título para inscribir el hecho o acto de que da fe siempre que cumpla los siguientes requisitos:
+1.º Que el documento ha sido otorgado por autoridad extranjera competente conforme a la legislación de su Estado.
+2.º Que la autoridad extranjera haya intervenido en la confección del documento desarrollando funciones equivalentes a las que desempeñan las autoridades españolas en la materia de que se trate.
+3.º Que el hecho o acto contenido en el documento sea válido conforme al ordenamiento designado por las normas españolas de Derecho internacional privado.
+4.º Que la inscripción del documento extranjero no resulte manifiestamente incompatible con el orden público español.
+
+### Artículo 98
+
+Artículo 98. Certificación de asientos extendidos en Registros extranjeros.
+1. La certificación de asientos extendidos en Registros extranjeros es título para la inscripción en el Registro Civil español siempre que se verifiquen los siguientes requisitos:
+a) Que la certificación ha sido expedida por autoridad extranjera competente conforme a la legislación de su Estado.
+b) Que el Registro extranjero de procedencia tenga, en cuanto a los hechos de que da fe, análogas garantías a las exigidas para la inscripción por la ley española.
+c) Que el hecho o acto contenido en la certificación registral extranjera sea válido conforme al ordenamiento designado por las normas españolas de Derecho internacional privado.
+d) Que la inscripción de la certificación registral extranjera no resulta manifiestamente incompatible con el orden público español.
+2. En el caso de que la certificación constituya mero reflejo registral de una resolución judicial previa, será ésta el título que tenga acceso al Registro. Con tal fin, deberá reconocerse la resolución judicial de acuerdo a alguno de los procedimientos contemplados en el artículo 96 de la presente Ley.
+3. Se completarán por los medios legales o convencionales oportunos los datos y circunstancias que no puedan obtenerse directamente de la certificación extranjera, por no contenerlos o por defectos formales que afecten a la autenticidad o a la realidad de los hechos que incorporan.
+
+### Artículo 99
+
+Artículo 99. Declaración de conocimiento o voluntad.
+1. Los hechos y actos que afecten al estado civil de las personas y cuyo acceso al Registro Civil se realice mediante declaración de conocimiento o voluntad, deberán ajustarse a su correspondiente ordenamiento aplicable, determinado conforme a las normas españolas de Derecho internacional privado.
+2. Sin perjuicio de lo contenido en el número anterior, el acceso al Registro de hechos y actos relativos al estado de las personas a través de declaración de conocimiento o voluntad se llevará a cabo en los casos, formas, procedimientos y modalidades establecidos en esta Ley.
+
+### Artículo 100
+
+Artículo 100. Acreditación del contenido y vigencia de la ley aplicable a los hechos y actos relativos al estado civil.
+1. El contenido y vigencia del Derecho extranjero en relación con la adecuación a éste de un hecho o acto, la observancia de las formas y solemnidades extranjeras y la aptitud y capacidad legal necesarias para el acto, se podrán acreditar, entre otros medios, mediante la aseveración o informe de un Notario o Cónsul español, o de un Diplomático, Cónsul o autoridad competente del país cuya legislación resulte aplicable.
+El Encargado del Registro podrá prescindir de dichos medios cuando conociere suficientemente la legislación extranjera de que se trate.
+2. La falta de acreditación del contenido y vigencia del ordenamiento extranjero supondrá la denegación de la inscripción.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Ubicación y dotación de las Oficinas Generales del Registro Civil.
+El Ministerio de Justicia y las Comunidades Autónomas con competencias ejecutivas en la materia fijarán, en sus respectivos ámbitos territoriales, el emplazamiento de las Oficinas Generales del Registro Civil y determinarán, mediante las Relaciones de Puestos de Trabajo, las dotaciones de personal necesario.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Régimen jurídico de los Encargados de la Oficina Central del Registro Civil y de las Oficinas Generales del Registro Civil.
+1. En la forma y con los requisitos que reglamentariamente se determinen, las plazas de Encargados del Registro Civil se proveerán entre funcionarios de carrera del Subgrupo A1 que tengan la Licenciatura en Derecho o la titulación universitaria que la sustituya y entre secretarios judiciales. La convocatoria y la resolución de los concursos para proveer las plazas de Encargado de las Oficinas Generales del Registro Civil corresponderá, en sus respectivos ámbitos territoriales, al Ministerio de Justicia y a las Comunidades Autónomas con competencias ejecutivas en la materia.
+El Encargado del Registro Civil recibirá la formación específica que determine el Ministerio de Justicia.
+2. El régimen jurídico aplicable a los Encargados del Registro Civil será en todo caso el previsto en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y en sus normas de desarrollo.
+El incumplimiento o la inobservancia de las instrucciones, resoluciones y circulares de la Dirección General de los Registros y del Notariado se considerará falta muy grave de conformidad con lo previsto en la letra i) del apartado 2 del artículo 95 de dicho Estatuto.
+El régimen de sustitución de los Encargados se regulará reglamentariamente.
+Corresponderá al Ministerio de Justicia y a las Comunidades Autónomas con competencias ejecutivas en la materia, en sus respectivos ámbitos territoriales, el nombramiento de los Encargados de las Oficinas Generales del Registro Civil interinos y sustitutos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Expedientes de nacionalidad por residencia.
+Las solicitudes de adquisición de nacionalidad española por residencia se iniciarán y tramitarán por los órganos de la Administración General del Estado que determine el Gobierno mediante Real Decreto.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Constancia en el Registro Civil de los fallecimientos con posterioridad a los seis meses de gestación.
+Figurarán en un archivo del Registro Civil, sin efectos jurídicos, los fallecimientos que se produzcan con posterioridad a los seis meses de gestación y no cumplieran las condiciones previstas en el artículo 30 del Código Civil, pudiendo los progenitores otorgar un nombre.
+Este archivo quedará sometido al régimen de publicidad restringida.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Presentación de solicitud y documentación ante los Juzgados de Paz.
+Los ciudadanos podrán presentar la solicitud y la documentación necesaria para las actuaciones ante el Registro Civil en los Juzgados de Paz.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Uniformidad de los sistemas y aplicaciones informáticas en las Oficinas del Registro Civil.
+Todas las Oficinas del Registro Civil utilizarán los mismos sistemas y aplicaciones informáticas. El Ministerio de Justicia proveerá, tanto en su desarrollo como en su explotación, el conjunto de aplicaciones que soportan la actividad de los procesos operativos que se tramitan en el Registro Civil.
+El Ministerio de Justicia y las Comunidades Autónomas con competencias ejecutivas en la materia establecerán los mecanismos de coordinación necesarios para proporcionar los servicios de acceso a los sistemas del Registro Civil, soporte microinformático, formación y atención a usuarios.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Puesta a disposición de los datos de identificación personal de nacionales y extranjeros.
+Para la adecuada elaboración del código personal al que hace mención el artículo 6 de la presente Ley, así como para su uso en las aplicaciones informáticas en que sea preciso, el Ministerio del Interior pondrá a disposición del Ministerio de Justicia las respectivas secuencias alfanuméricas que atribuya el sistema informático vigente para el documento nacional de identidad y el número de identificación de extranjeros, así como los demás datos personales identificativos que consten en las bases de datos de ambos documentos.
+De igual manera, el Ministerio de Justicia pondrá a disposición del Ministerio del Interior los datos personales identificativos inscritos en el Registro Civil que deban constar en el documento nacional de identidad o número de identificación de extranjeros.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Inscripción de defunción de desaparecidos durante la guerra civil y la dictadura.
+El expediente registral, resuelto favorablemente, será título suficiente para practicar la inscripción de la defunción de las personas desaparecidas durante la Guerra Civil y la represión política inmediatamente posterior, siempre que, de las pruebas aportadas, pueda inferirse razonablemente su fallecimiento, aunque no sean inmediatas a éste. En la valoración de las pruebas se considerará especialmente el tiempo transcurrido, las circunstancias de peligro y la existencia de indicios de persecución o violencia.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Obtención de datos del Instituto Nacional de Estadística.
+Para facilitar la tramitación telemática a los Registros Civiles, el Instituto Nacional de Estadística dará acceso telemático a los datos de domicilio relativos al Padrón municipal que guarden relación con los hechos inscribibles, así como, si fuera necesario para la correcta identificación de los citados hechos, a los datos de identificación que figuren en las inscripciones padronales, sin precisar para todo ello del consentimiento del interesado.
+También se utilizarán los datos padronales para la actualización de la información obrante en las bases de datos de los Registros Civiles, en idénticas condiciones que en el párrafo anterior.
+Se añade por el art. 2.9 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Terminología.
+En las parejas del mismo sexo registral, las referencias hechas a la madre se entenderán hechas a la madre o progenitor gestante y las referencias hechas al padre se entenderán referidas al padre o progenitor no gestante.
+Se añade por la disposición final 11.7 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-11
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Procedimientos en tramitación a la entrada en vigor de la presente Ley.
+A los procedimientos y expedientes iniciados con anterioridad a la entrada en vigor de la presente Ley les será aplicable la Ley de 8 de junio de 1957, del Registro Civil, y las disposiciones dictadas en su desarrollo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Registros individuales.
+El Gobierno adoptará las disposiciones normativas necesarias para la incorporación de los datos digitalizados desde 1950 que constan en la base de datos del Registro Civil a registros individuales.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Libros de Familia.
+A partir de la fecha de entrada en vigor de la presente Ley no se expedirán más Libros de Familia.
+Los Libros de Familia expedidos con anterioridad a la entrada en vigor de la presente Ley seguirán teniendo los efectos previstos en los artículos 8 y 75 de la Ley del Registro Civil de 8 de junio de 1957 y en ellos se seguirán efectuando los asientos previstos en los artículos 36 a 40 del Reglamento de la Ley del Registro Civil aprobado por Decreto de 14 de noviembre de 1958.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Extensión y práctica de asientos.
+Los Encargados de las Oficinas del Registro Civil practicarán en los libros y secciones correspondientes los asientos relativos a nacimientos, matrimonios, defunciones, tutelas y representaciones legales, siempre que los libros referidos no estén digitalizados.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Publicidad formal del Registro Civil no digitalizado.
+1. La publicidad formal de los datos incorporados a libros no digitalizados continuará rigiéndose por lo previsto en la Ley del Registro Civil de 8 de junio de 1957.
+2. No será de aplicación en estos casos lo previsto en el artículo 37 de la presente Ley respecto del uso de las lenguas cooficiales.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Valor histórico de los libros y documentos que obran en los archivos del Registro Civil.
+Los libros y documentos que a la fecha de la entrada en vigor de esta Ley obren en los archivos del Registro Civil se considerarán patrimonio documental con valor histórico en los términos previstos por la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y por consiguiente no podrán ser destruidos.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Oficinas Consulares de Registro Civil.
+Lo dispuesto en esta Ley se aplicará a las Oficinas Consulares de Registro Civil atendiendo a los medios y sistemas informáticos, los canales electrónicos y las condiciones de funcionamiento disponibles.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Régimen transitorio del personal al servicio de la Administración de Justicia destinado en el Registro Civil.
+Hasta tanto se provean los puestos de trabajo de las Oficinas Generales del Registro Civil de acuerdo con las Relaciones de Puestos de Trabajo que apruebe cada Administración competente, el personal funcionario al servicio de la Administración de Justicia que, en el momento de la entrada en vigor de la presente Ley, esté prestando servicios con destino definitivo en los Registros Civiles Únicos, allá donde los hubiere, o tenga asignadas funciones de registro en las oficinas judiciales con funciones de Registro Civil, podrá continuar desarrollando sus funciones respectivas y percibiendo la totalidad de sus retribuciones.
+El personal a que se refiere el párrafo anterior podrá optar a participar en la convocatoria de provisión de puestos de trabajo de las Oficinas Generales del Registro Civil, en la que tendrá derecho preferente por una sola vez, dentro del ámbito territorial del órgano convocante, a obtener destino definitivo. Mientras permanezcan en estas Oficinas del Registro Civil, estarán en la situación de servicio activo según lo previsto en el articulo 507 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y en el artículo 88.3 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y percibirán las retribuciones básicas correspondientes a su Cuerpo y las complementarias asignadas en la Relación de Puestos de Trabajo.
+Los funcionarios que no obtengan destino en las Oficinas Generales del Registro Civil, mediante un proceso de reordenación de efectivos serán destinados a las vacantes de los órganos judiciales o en su caso fiscales, dentro de la misma localidad. En el caso de no haber suficientes plazas vacantes se procederá a la modificación de las plantillas o en su caso de las Relaciones de Puestos de Trabajo.
+Al personal que obtenga destino definitivo en las convocatorias de provisión de los puestos de trabajo de las Oficinas Generales del Registro Civil se le aplicará el régimen estatutario de la Administración pública en la que preste servicios.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Aplicación de la disposición adicional cuarta.
+Lo dispuesto en la disposición adicional cuarta resultará de aplicación a todas aquellas defunciones acaecidas con anterioridad a su entrada en vigor, siempre que así lo soliciten los progenitores en el plazo de dos años desde su publicación en el «Boletín Oficial del Estado».
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Régimen transitorio de los Registros Civiles Exclusivos y de los Encargados del Registro Civil Central.
+Mediante Real Decreto, previo informe del Consejo General del Poder Judicial y previa audiencia de las Comunidades Autónomas afectadas, los actuales Registros Civiles Exclusivos se transformarán en Juzgados de Primera Instancia dentro de la misma sede. Los Encargados de estos Registros Civiles Exclusivos y los secretarios judiciales destinados en los mismos pasarán a ocupar, respectivamente, las plazas de magistrado y secretario judicial de dichos Juzgados de Primera Instancia.
+También mediante Real Decreto, previo informe del Consejo General del Poder Judicial, las plazas de los actuales Encargados del Registro Civil Central se suprimirán, creándose, en el mismo número de plazas suprimidas, plazas de magistrado de la Audiencia Provincial de Madrid. Los Encargados quedarán adscritos a disposición del Presidente del Tribunal Superior de Justicia de Madrid. Mientras permanezcan en esta situación prestarán sus servicios en los puestos que determine la Sala de Gobierno y serán destinados a la primera vacante que se produzca en la Audiencia Provincial de Madrid. Los secretarios judiciales destinados actualmente en el Registro Civil Central quedarán provisionalmente adscritos a disposición del Secretario de Gobierno del Tribunal Superior de Justicia de Madrid en los términos establecidos en el Reglamento Orgánico del Cuerpo de Secretarios Judiciales, siendo destinados a la primera vacante que se produzca en la Audiencia Provincial de Madrid.
+
+### Disposición transitoria décima bis
+
+Disposición transitoria décima bis. Implantación de la Oficina Central y Oficinas Consulares.
+Dictada la resolución de puesta en marcha de la Oficina Central, al amparo de la disposición transitoria cuarta, y hasta la total implantación efectiva de las Oficinas Consulares, la extensión y practica de asientos que se deban realizar conforme a la Ley de 8 de junio de 1957 respecto a los duplicados de las inscripciones consulares, las referencias a Jueces o Magistrados encargados del Registro Civil Central se entenderán hechas a los Letrados de la Administración de Justicia que desempeñen sus funciones como encargados del Registro Civil Central, de conformidad con lo previsto en esta Ley.
+Se añade por la disposición final 8 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#df-8
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Referencias a resoluciones judiciales en los expedientes en tramitación.
+Las menciones existentes en otras normas a autos y providencias que pudieran dictarse en los expedientes que se hallaren en tramitación en los Registros Civiles con arreglo a lo dispuesto en la Ley de 8 de junio de 1957, sobre el Registro Civil, y en el Decreto de 14 de noviembre de 1958, por el que se aprueba el Reglamento de la Ley del Registro Civil, se entenderán referidas a resoluciones del Encargado del Registro Civil.
+Se añade por el art. único.27 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au
+
+### Disposición derogatoria
+
+Disposición derogatoria. Ley de 8 de junio de 1957 del Registro Civil, Ley 38/1988, de 28 de diciembre, de Planta y Demarcación Judicial y Código Civil.
+Quedan derogadas cuantas normas se opongan a lo previsto en la presente Ley y, en particular, las siguientes:
+1.ª Ley de 8 de junio de 1957, del Registro Civil, salvo en lo dispuesto en las disposiciones transitorias tercera, cuarta y quinta de esta Ley.
+2.ª Los números 1 y 2 del artículo 27 de la Ley 38/1988, de 28 de diciembre, de Planta y Demarcación Judicial.
+3.ª Los artículos 325 a 332 del Código Civil.
+
+### Disposición final primera
+
+Disposición final primera. Derecho supletorio.
+En todo lo no previsto en relación con la tramitación administrativa de los expedientes regulados en la presente Ley se aplicará la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición final segunda
+
+Disposición final segunda. Referencias a los Encargados del Registro Civil y a los Alcaldes.
+1. Las referencias que se encuentren en cualquier norma referidas a Jueces o Magistrados encargados del Registro Civil se entenderán hechas al Encargado del Registro Civil, de conformidad con lo previsto en esta Ley.
+2. Las referencias que se encuentren en cualquier norma al juez, jueza, Alcalde, Alcaldesa o personal funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al notario o notaria, encargado o encargada del Registro Civil o personal funcionario diplomático o consular encargado del Registro Civil, para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al Alcalde, Alcaldesa, Concejal o Concejala en quien éste delegue, encargado o encargada del Registro Civil, notario o notaria, o personal funcionario diplomático o consular encargado del Registro Civil, para la celebración ante ellos del matrimonio en forma civil.
+Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 18.2 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-18, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
+ Redacción anterior:
+ "2. Las referencias que se encuentren en cualquier norma al juez, alcalde o funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al notario, Encargado del Registro Civil o funcionario diplomático o consular encargado del Registro Civil, para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al juez de paz, alcalde o concejal en quien éste delegue, Encargado del Registro Civil, notario, o funcionario diplomático o consular encargado del Registro Civil, para la celebración ante ellos del matrimonio en forma civil."
+Se modifica el apartado 2, con efectos de 3 de abril de 2025, por la disposición final 18.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-18
+ Se modifica el apartado 2 por el art. único.30 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au
+ Se modifica el apartado 2 por la disposición final 4.9 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
+ La modificación de este artículo entrará en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil, según establece la disposición final 21.3 de la citada Ley 15/2015.
+
+### Disposición final tercera
+
+Disposición final tercera. Reforma del Código Civil.
+Se modifica el artículo 30 del Código Civil, que queda redactado en los siguientes términos:
+«Artículo 30.
+La personalidad se adquiere en el momento del nacimiento con vida, una vez producido el entero desprendimiento del seno materno.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Reforma de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Se añade un nuevo párrafo 17.º al apartado 1 del artículo 52, se modifica la rúbrica del capítulo V del título I del libro IV y se añade un nuevo artículo 781 bis a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en los siguientes términos:
+Uno. Se añade un nuevo párrafo 17.º al apartado 1 del artículo 52 con la siguiente redacción:
+«17.º En los procesos contra las resoluciones y actos que dicte la Dirección General de los Registros y del Notariado en materia de Registro Civil, a excepción de las solicitudes de nacionalidad por residencia, será competente el Juzgado de Primera Instancia de la capital de provincia del domicilio del recurrente.»
+Dos. Se modifica la rúbrica del capítulo V del título I del libro IV, que pasa a tener la siguiente redacción:
+«De la oposición a las resoluciones administrativas en materia de protección de menores, del procedimiento para determinar la necesidad de asentimiento en la adopción y de la oposición a determinadas resoluciones y actos de la Dirección General de los Registros y del Notariado en materia de Registro Civil.»
+Tres. Se añade un nuevo artículo 781 bis con la siguiente redacción:
+«Artículo 781 bis. Oposición a las resoluciones y actos de la Dirección General de los Registros y del Notariado en materia de Registro Civil.
+1. La oposición a las resoluciones de la Dirección General de los Registros y del Notariado en materia de Registro Civil, a excepción de las dictadas en materia de nacionalidad por residencia, podrá formularse en el plazo de dos meses desde su notificación, sin que sea necesaria la formulación de reclamación administrativa previa.
+2. Quien pretenda oponerse a las resoluciones presentará un escrito inicial en el que sucintamente expresará su pretensión y la resolución a que se opone.
+3. El secretario judicial reclamará a la Dirección General de los Registros y del Notariado un testimonio completo del expediente, que deberá ser aportado en el plazo de veinte días.
+4. Recibido el testimonio del expediente administrativo, el secretario judicial emplazará al actor por veinte días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753.»
+
+### Disposición final quinta
+
+Disposición final quinta. Tasas municipales.
+Se añade un apartado 5 al artículo 20 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, con la siguiente redacción:
+«5. Los Ayuntamientos podrán establecer una tasa por la instrucción y tramitación de los expedientes matrimoniales en forma civil y por la celebración de los mismos.»
+
+### Disposición final quinta bis
+
+Disposición final quinta bis. Aranceles notariales.
+El Gobierno aprobará los aranceles correspondientes a la intervención de los Notarios en la tramitación de las actas matrimoniales previas y por la celebración de matrimonios en forma civil con la autorización de las escrituras públicas correspondientes.
+Se añade por la disposición final 4.11 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfcuaa.
+ Esta disposición entrará en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil, según establece la disposición final 21.3 de la citada Ley 15/2015.
+
+### Disposición final sexta
+
+Disposición final sexta. Adquisición de la nacionalidad española por los nietos de exiliados durante la guerra civil y la dictadura.
+El derecho de opción previsto en la disposición adicional séptima de la Ley 52/2007, de 26 de diciembre, por la que se reconocen y amplían derechos y se establecen medidas en favor de quienes padecieron persecución o violencia durante la guerra civil y la dictadura, podrán también ejercerlo los nietos de las exiliadas españolas que conservaron la nacionalidad española tras haber contraído matrimonio con un extranjero con posterioridad al 5 de agosto de 1954, fecha de entrada en vigor de la Ley de 15 julio de 1954, siempre que no transmitiesen la nacionalidad española a sus hijos, por seguir éstos la del padre, y formalicen su declaración en tal sentido en el plazo de un año desde la entrada en vigor de la presente disposición.
+
+### Disposición final séptima
+
+Disposición final séptima. Competencias ejecutivas de las Comunidades Autónomas en materia de Registro Civil.
+Corresponderá a las Comunidades Autónomas el ejercicio de las competencias ejecutivas en materia de Registro Civil de acuerdo con sus Estatutos de Autonomía y las leyes.
+
+### Disposición final octava
+
+Disposición final octava. Título competencial.
+La presente Ley se dicta al amparo del artículo 149.1.8.ª de la Constitución Española, con excepción de la disposición final cuarta, que lo hace con base en el artículo 149.1.6.ª de la Constitución Española, que atribuye al Estado competencia exclusiva para dictar la legislación procesal.
+
+### Disposición final novena
+
+Disposición final novena. Desarrollo reglamentario.
+Se faculta al Gobierno para dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
+
+### Disposición final décima
+
+Disposición final décima. Entrada en vigor.
+La presente Ley entrará en vigor el 30 de abril de 2021, excepto las disposiciones adicionales séptima y octava y las disposiciones finales tercera y sexta, que entrarán en vigor al día siguiente de su publicación en el “Boletín Oficial del Estado”, y excepto los artículos 49.2 y 53 del mismo texto legal, que entrarán en vigor el día 30 de junio de 2017.
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de la entrada en vigor el 15 de octubre de 2015 de los artículos 44, 45, 46, 47, 49.1 y 4, 64, 66 y 67.3, y la disposición adicional novena, en la redacción dada por el artículo 2 de la Ley 19/2015, de 13 de julio, de medidas de reforma administrativa en el ámbito de la Administración de Justicia y del Registro Civil.
+Asimismo, esta Ley entrará en vigor para las oficinas consulares del Registro Civil el día 1 de octubre de 2020, aplicándose de forma progresiva de conformidad con lo previsto en la disposición transitoria séptima y las disposiciones reglamentarias que se dicten al efecto.
+Hasta la completa entrada en vigor de esta Ley, el Gobierno adoptará las medidas y los cambios normativos necesarios que afecten a la organización y funcionamiento de los Registros Civiles.
+Se modifica por la disposición final 5 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-5
+ Se modifica por la disposición final 2 del Real Decreto-ley 16/2020, de 28 de abril. Ref. BOE-A-2020-4705#df-2
+ Se modifica por la disposición final 1 de la Ley 5/2018, de 11 de junio. Ref. BOE-A-2018-7833
+ Se modifica por la disposición final 4.12 de la Ley 15/2015, de 2 de julio, en la redacción dada por el art. único.4 de la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+ Se modifica por el art. 2.10 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#asegundo.
+ Se modifica por la disposición final 4.12 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
+ Se difiere la entrada en vigor de la presente Ley hasta el 15 de julio de 2015 por la disposición adidional 20 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517#davigesima.
+ Téngase en cuenta que la entrada en vigor ya había sido diferida por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se difiere la entrada en vigor de la presente Ley hasta el 15 de julio de 2015, en la parte que al día de la publicación del Real Decreto-ley 8/2014, de 4 de julio, no hubiera entrado en vigor, por la disposición adicional 19 del citado Real Decreto-ley.Ref. BOE-A-2014-7064.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 21 de julio de 2011.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

@@ -1,0 +1,281 @@
+# Ley 6/1997, de 22 de mayo, de Ferias Comerciales Oficiales de Castilla y León.
+
+- Identificador BOE: `BOE-A-1997-14413`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-14413
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Castilla y León, en su artículo 26.1.11.a, atribuye a la Comunidad de Castilla y León la competencia exclusiva en materia de ferias y mercados interiores, transferencia operada en virtud del Real Decreto 3513/1981, de 18 de diciembre.
+En desarrollo de la misma, se promulgó la Ley 4/1984, de 5 de octubre, de Ordenación Ferial de la Comunidad de Castilla y León.
+La incorporación del Estado Español a la Comunidad Económica Europea y la consecuente vinculación a los términos de su Tratado Constitutivo, configuran una situación sensiblemente distinta, que obliga a una amplia reforma de la norma teniendo presente, en la nueva orientación, el dictamen emitido por la Dirección General de Mercado Interior y Asuntos Industriales de la Comisión de las Comunidades Europeas que expone, puntualmente, los problemas de incompatibilidad existentes entre la normativa estatal y autonómica española con el Derecho Comunitario.
+Tales contravenciones pueden resumirse en restricciones injustificadas, para personas físicas o jurídicas procedentes de los demás Estados miembros de la Unión Europea, a la libertad de organizar ferias y exposiciones, y a participar en ellas, limitaciones en cuanto al origen de los expositores o de los productos expuestos, reserva de denominaciones genéricas y otorgamiento de la autorización con fundamento en criterios discriminatorios.
+Junto a la adecuación señalada, la Ley persigue la potenciación de las instituciones feriales, incrementado su grado de profesionalización, a través de la celebración de certámenes monográficos especializados y de la creación de los comités asesores, como instrumento para prestar asistencia técnica, asesoramiento y coordinación en el ámbito ferial.
+En definitiva, se opta por la creación de un circuito oficial de ferias y salones a las cuales se les exigirá la periodicidad, la no duplicidad, la participación de la Administración y su inclusión en un calendario ferial, así como la ausencia de ánimo de lucro, sin olvidar que cabe la posibilidad de celebración de otras exposiciones, con carácter no oficial, en perfecta coexistencia con éstas, teniendo presente lo dispuesto en el Real Decreto 438/1992, de 30 de abril el cual, al desarrollar la Directiva de 12 de enero de 1967 del Consejo de las Comunidades Europeas, relativa a la libertad de establecimiento y a la libre prestación de servicios, incluye, en su ámbito de aplicación, las actividades dedicadas a la organización de manifestaciones comerciales privadas, con especial mención a la organización de ferias y exposiciones.
+Por último, la Ley pretende superar la dispersión administrativa, unificando, en un registro ubicado de manera exclusiva en una Consejería, la documentación relativa a las instituciones y certámenes feriales oficiales, así como las preceptivas tramitaciones y autorizaciones administrativas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. El objeto de la presente Ley es la regulación de las Ferias Comerciales Oficiales en el territorio de Castilla y León.
+2. Tienen la consideración de Ferias Comerciales Oficiales, las exhibiciones públicas y periódicas, realizadas por una entidad organizadora, que tengan por finalidad difundir el conocimiento de toda clase de bienes y servicios y favorecer su promoción, y que sean reconocidas como oficiales de acuerdo con lo previsto en la presente Ley.
+3. Están expresamente excluidos del ámbito de aplicación de la presente Ley los mercados y concursos de ganado.
+Se modifica por el art. 5.1 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 2
+
+Artículo 2.
+Las denominaciones "Feria", "Feria de Muestras", "Feria Sectorial o Monográfica" y "Salón Sectorial o Monográfico" u otras de naturaleza similar, únicamente podrán ostentar el título de oficial, cuando se trate de manifestaciones feriales de carácter comercial que se celebren y se encuentren reconocidas con arreglo a esta Ley.
+Se modifica por el art. 5.2 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 3
+
+Artículo 3.
+(Suprimido)
+Se suprime por el art. 5.3 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 4
+
+Artículo 4.
+A los efectos de la presente Ley por razón de la oferta exhibida, las Ferias Oficiales que se celebren en Castilla y León se clasifican en:
+a) Ferias Oficiales de Muestras, que son aquellos certámenes feriales en los que se expone toda clase de bienes y servicios.
+b) Salones o Ferias Oficiales Sectoriales o Monográficas, son aquéllos en los que se limita la exposición de bienes y servicios a un sector determinado y sectores complementarios del mismo.
+Se modifica por el art. 5.4 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 5
+
+Artículo 5.
+1. La periodicidad de las Ferias Oficiales no podrá ser inferior a 1 año, ni su duración superior a 10 días naturales y consecutivos.
+2. Los plazos establecidos en el apartado anterior podrán ser modificados por la Consejería competente para el reconocimiento de la feria como oficial cuando concurran circunstancias de especial interés económico o social.
+Se modifica por el art. 5.5 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 6
+
+Artículo 6.
+Todas las Ferias reguladas en la presente Ley deberán obtener el reconocimiento de su condición de oficial por parte de la Consejería competente en materia de ferias.
+El reconocimiento tendrá en cuenta, aparte de las condiciones que se establecen en el capítulo siguiente, las reglas que, sobre clasificación y periodicidad, afectan a las ferias oficiales de acuerdo con lo señalado en los artículos 4 y 5 de la presente Ley.
+Se modifica por el art. 5.6 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+## CAPÍTULO II
+
+Características y reconocimiento de la condición de Feria Comercial Oficial. Procedimiento para el reconocimiento.
+Se modifica por el art. 5.7 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 7
+
+Artículo 7.
+En la celebración de las Ferias Comerciales Oficiales habrán de observarse las siguientes condiciones:
+a) Con carácter general no podrán ocupar espacios, en calidad de expositores, entidades u organizaciones privadas que no tengan carácter comercial, técnico o científico, o cuyas actividades no guarden relación con el certamen de que se trate, salvo que se encuentren integradas en la entidad organizadora. En cualquier caso se garantizará la no discriminación entre las empresas y entes afectados y siempre con adecuación a la clasificación obtenida por la Feria como feria comercial oficial.
+b) No podrán exhibirse otras muestras que las correspondientes a bienes y servicios que constituyan el objeto de la Feria o Exposición, según consta en el reconocimiento de la condición de feria oficial obtenido de acuerdo con la presente Ley.
+c) Deberá constituirse un Comité Organizador para cada feria oficial que, bajo la dependencia directa de la entidad organizadora, sea responsable de su promoción y ejecución.
+d) Deberán celebrarse en un recinto ferial adecuado.
+e) Deberán celebrarse conforme a las condiciones comunicadas para el reconocimiento de la condición de feria comercial oficial.
+f) Deberán disponer de un libro de incidencias y reclamaciones, donde se hagan constar las posibles quejas de los expositores y visitantes, que deberá estar anunciado y a disposición pública dentro del recinto donde se celebre la feria.
+Se modifica por el art. 5.8 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 8
+
+Artículo 8.
+1. Las entidades organizadoras de las ferias comerciales oficiales tendrán personalidad jurídica propia y realizarán la promoción, organización y celebración de aquellas ferias comerciales que hayan obtenido la condición de oficial con arreglo a las disposiciones contenidas en la presente Ley.
+2. Las entidades organizadoras de las ferias comerciales oficiales deberán acreditar que disponen de patrimonio propio u otros medios adecuados que permitan garantizar suficientemente las eventuales responsabilidades que pudieran derivarse de las ferias comerciales oficiales que organicen.
+Se modifica por el art. 5.9 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 9
+
+Artículo 9.
+(Suprimido)
+Se suprime por el art. 5.10 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 10
+
+Artículo 10.
+(Suprimido)
+Se suprime por el art. 5.11 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 11
+
+Artículo 11.
+Para el reconocimiento de la condición de Feria Comercial Oficial, las entidades organizadoras presentarán ante la Consejería competente en materia de ferias una solicitud que contendrá una declaración responsable en la que se incluyan sus datos identificativos y los relativos a las actividades feriales para las que solicitan el reconocimiento de la condición de feria comercial oficial en los términos previstos en la presente Ley, antes del 30 de septiembre del año anterior al de su celebración, que, como mínimo, deberá comprender los siguientes:
+a) Entidad organizadora y documentación acreditativa de su personalidad.
+b) Denominación de la Feria.
+c) Ámbito territorial.
+d) Fechas de celebración.
+e) Lugar de celebración.
+f) Naturaleza de los bienes y servicios objeto de exposición.
+g) Descripción del recinto ferial.
+h) En su caso, precio de las entradas para el público.
+i) En su caso, reglamento del Certamen.
+j) En su caso, autorizaciones preceptivas.
+Se modifica por el art. 5.12 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 12
+
+Artículo 12.
+1. A la vista de la solicitud, en el plazo de dos meses, contados desde el día de su presentación, la Consejería competente en materia de ferias valorará la información aportada por la entidad organizadora en la declaración responsable y en particular:
+a) la capacidad de garantizar las condiciones exigidas en el artículo 7 y, en especial, la disponibilidad de un recinto ferial adecuado
+b) la tradición y consolidación de la feria
+c) el nivel previsto de participación de expositores, profesionales y público.
+d) aquellos otros factores que permitan una evaluación objetiva de la solicitud presentada.
+2. Transcurrido dicho plazo sin haberse producido el reconocimiento de forma expresa, se entenderá estimada la solicitud.
+3. Una vez concedido el reconocimiento como feria comercial oficial, se procederá a su inscripción de oficio en el Registro Oficial de Ferias regulado en el Capítulo siguiente.
+Se modifica por el art. 5.13 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 13
+
+Artículo 13.
+A la vista de los reconocimientos concedidos, la Consejería competente en materia de ferias aprobará y publicará en el "Boletín Oficial de Castilla y León", antes del 31 de diciembre de cada año, el Calendario Anual de Ferias Comerciales Oficiales que se celebren en el año siguiente.
+Se modifica por el art. 5.14 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+## CAPÍTULO III
+
+Registro de Ferias Comerciales Oficiales de Castilla y León
+
+### Artículo 14
+
+Artículo 14.
+1. Con sede en la Consejería competente en materia de ferias, se crea el Registro de Ferias Comerciales Oficiales de Castilla y León, en el que deberán inscribirse las Ferias Comerciales Oficiales reconocidas, con expresión de su denominación, fecha y lugar de celebración, clasificación legal otorgada y entidad organizadora, así como las modificaciones posteriores debidamente aprobadas.
+2. El Registro de Ferias Comerciales Oficiales será público.
+Se modifica por el art. 5.15 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 15
+
+Artículo 15.
+La previa inscripción en el Registro de Ferias Comerciales Oficiales, será requisito inexcusable para acceder a las ayudas que la Junta de Castilla y León otorgue para la celebración de los certámenes y para su inclusión en el Calendario Anual de Ferias Comerciales Oficiales.
+
+### Artículo 16
+
+Artículo 16.
+(Suprimido)
+Se suprime por el art. 5.16 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+## CAPÍTULO IV
+
+Infracciones y sanciones
+
+### Artículo 17
+
+Artículo 17.
+Constituyen infracciones administrativas, en materia de Ferias Comerciales Oficiales, las acciones u omisiones de entidades organizadoras que contravengan lo dispuesto en esta Ley.
+Las infracciones se clasificarán en leves y graves.
+Se modifica por el art. 5.17 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 18
+
+Artículo 18.
+1. Son infracciones leves:
+a) La exhibición de muestras que no se correspondan con los bienes y servicios previamente reconocidos en la condición de feria comercial oficial, de conformidad con su carácter y contenido.
+b) La exclusión de algún expositor, sin el cumplimiento de los requisitos establecidos en la presente Ley.
+c) La no celebración de Ferias comerciales oficiales, salvo que concurran circunstancias especiales debidamente justificadas.
+d) El incumplimiento de los requerimientos realizados por la Consejería en el ejercicio de sus funciones en el ámbito ferial.
+e) Cualquier otra acción y omisión que resulte contraria a la presente Ley, siempre que no constituya infracción grave.
+2. Son infracciones graves:
+a) El uso indebido de las clasificaciones previstas en el artículo 4 de esta Ley.
+b) El incumplimiento de las condiciones establecidas en el artículo 7 de la presente Ley, que no constituya infracción leve.
+c) La reincidencia en la comisión de infracciones leves en un período de un año.
+d) El uso indebido de la denominación de "Feria Comercial Oficial" u "Oficial" para muestras que carezcan de esa condición.
+Se modifica por el art. 5.18 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 19
+
+Artículo 19.
+1. Las infracciones reguladas en la presente Ley prescribirán a los dos años las calificadas de graves, y a los seis meses las calificadas de leves.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+Se modifica el apartado 1 por el art. 5.19 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 20
+
+Artículo 20.
+1. Las infracciones tipificadas en esta Ley serán sancionadas con multa cuya cuantía se establecerá de acuerdo con la siguiente escala:
+a) Infracciones leves, hasta 15.000 euros.
+b) Infracciones graves, desde 15.001 hasta 30.000 euros.
+2. La cuantía de la sanción se graduará teniendo en cuenta la intencionalidad, el número de afectados, la gravedad de los perjuicios ocasionados, los intereses comerciales de la Comunidad Autónoma, el prestigio de las instituciones y la reincidencia.
+Se modifica el apartado 1 por el art. 5.20 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 21
+
+Artículo 21.
+Además de las establecidas en el artículo anterior se podrán imponer las siguientes sanciones accesorias:
+a) En las infracciones leves: La prohibición de acceder a las ayudas de la Junta de Castilla y León durante el plazo de un año, a contar desde que la sanción impuesta devenga firme.
+b) En las infracciones graves: Exclusión del Calendario Anual de Ferias Comerciales Oficiales, durante un período no inferior a un año ni superior a tres, de aquellas Ferias organizadas por la entidad organizadora sancionada, así como la prohibición de acceder a las ayudas de la Junta de Castilla y León por un plazo superior a un año sin que supere los tres, a contar desde que la sanción impuesta devenga firme.
+Se modifica por el art. 5.21 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 22
+
+Artículo 22.
+Serán competentes para la imposición de sanciones:
+a) El Director general, competente en materia de comercio, en las infracciones leves.
+b) El Consejero en las infracciones graves.
+Se suprime la letra c) por el art. 5.22 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 23
+
+Artículo 23.
+1. Las sanciones reguladas en la presente Ley prescribirán a los tres años las impuestas por faltas graves y a los seis meses las impuestas por faltas leves.
+2. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquél en que la resolución devenga firme.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél estuviera paralizado durante más de un mes por causa no imputable al infractor.
+Se modifica el apartado 1 por el art. 5.23 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 24
+
+Artículo 24.
+El procedimiento sancionador aplicable a las infracciones tipificadas en la presente Ley será el establecido en el Reglamento Regulador del Procedimiento Sancionador de la Administración de la Comunidad de Castilla y León.
+
+## CAPÍTULO V
+
+Comité Asesor de Ferias Comerciales Oficiales
+Se suprime por el art. 5.24 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 25
+
+Artículo 25.
+(Suprimido)
+Se suprime por el art. 5.24 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el plazo de seis meses desde la entrada en vigor de la presente Ley, las instituciones feriales actualmente reconocidas deberán adaptar sus Estatutos a las disposiciones de la presente Ley, así como solicitar su inscripción en el Registro de Ferias Comerciales Oficiales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A los procedimientos sancionadores iniciados antes de la entrada en vigor de la presente Ley les será de aplicación la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 4/1984, de 5 de octubre, de Ordenación Ferial de la Comunidad de Castilla y León, todas las normas que la desarrollen y todas aquéllas que se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de nueve meses, la Junta de Castilla y León deberá proceder al desarrollo reglamentario de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se faculta a la Junta de Castilla y León para dictar las disposiciones y adoptar las medidas que precise el desarrollo y ejecución de esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se faculta a la Junta de Castilla y León para actualizar la cuantía de las sanciones establecidas en la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor el día siguiente a su publicación en el «Boletín Oficial de Castilla y León».
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 22 de mayo de 1997.
+JUAN JOSÉ LUCAS JIMÉNEZ,
+Presidente

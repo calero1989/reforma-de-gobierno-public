@@ -1,0 +1,602 @@
+# Ley 1/1991, de 28 de enero, de Estadística de la Comunidad Autónoma de Canarias.
+
+- Identificador BOE: `BOE-A-1991-7214`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-7214
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE CANARIAS
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado, y yo, en nombre del Rey, y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREAMBULO
+I
+El Estatuto de Autonomía de Canarias, en su artículo 29.17, atribuye a la Comunidad Autónoma competencia exclusiva en materia de «Estadística de interés de la Comunidad», reservándole la potestad legislativa, la reglamentaria y la función ejecutiva, que ejercerá respetando lo dispuesto en el artículo 149.1.31 de la Constitución.
+Partiendo de este marco legal y de la naturaleza compleja y especializada de esta materia, que exige para su desarrollo un marco normativo específico y una organización propia, la presente Ley contempla la regulación de la estadística de la Comunidad Autónoma de Canarias de forma que ordene y fomente el desarrollo de esta competencia estatutaria −no regulada hasta el presente− y, como consecuencia, posibilite un mejor conocimiento de la realidad canaria en sus diferentes ámbitos demográficos, sociales, económicos y territoriales, principalmente a través del aporte de información estadística.
+Poseer un conocimiento adecuado de la realidad es un requisito imprescindible para la toma de decisiones, tanto para la Administración Pública como para los ciudadanos e instituciones de todo tipo.
+Asimismo la información estadística es necesaria para comparar los distintos ámbitos territoriales y poder diseñar la política eficaz de reequilibrio en el seno de la Comunidad Autónoma.
+En este sentido, la actividad estadística correctamente desarrollada constituye un instrumento básico para el conocimiento de la realidad socioeconómica, ya que las técnicas estadísticas, por su carácter cuantificador y al mismo tiempo poderosamente sintetizador, son uno de los mejores procedimientos existentes para intentar llegar al conocimiento objetivo y completo de dicha realidad, lo que explica su creciente uso y difusión al poner a disposición de toda la sociedad, y, en particular, de sus instituciones y Organos de gobierno, la información cuantitativa que refleja el estado de la sociedad, tanto de su pasado reciente como del presente y de sus tendencias futuras.
+Sin embargo, la situación de la estadística en Canarias se ha caracterizado tradicionalmente por la carencia de datos, su difícil acceso, dispersión, falta de organización y fiabilidad, cuestiones éstas que han venido siendo reiteradamente planteadas durante largo tiempo y desde diversas instancias, sin que hasta muy recientemente hayan comenzado a ser debidamente atendidas.
+Esta demanda de información se refiere tanto al conocimiento de hechos pasados, más o menos próximos en el tiempo, como a la necesidad de disponer de información adecuada sobre el presente, para que los agentes sociales y económicos, tanto públicos como privados, puedan racionalizar sus decisiones.
+Al mismo tiempo, la información estadística requiere un nivel suficiente y adecuado de desagregación para permitir comparar los distintos ámbitos territoriales, considerando las diferentes instancias existentes en el ámbito de Canarias, sin que ello vaya en detrimento de la comparabilidad de las estadísticas con las de otras instancias superiores mediante la necesaria homologación y coordinación metodológica.
+Todo ello hace necesario regular y desarrollar las competencias en materia estadística atribuidas a la Comunidad Autónoma, de forma que dé respuestas a las cuestiones planteadas. Para ello es preciso considerar fundamentalmente dos aspectos: a) la regulación de la actividad estadística, teniendo en cuenta que la complejidad de las operaciones estadísticas exige que se les dote de un régimen jurídico de funcionamiento adecuado a sus características, y b) la creación del órgano que desarrolle la actividad estadística que, necesariamente, ha de estar especializado en la realización de esta actividad con carácter exclusivo, cuestiones ambas recogidas en la presente Ley.
+II
+La presente Ley se estructura en un título prelimiar y cuatro títulos divididos, a su vez, en un total de cuatro capítulos.
+El título preliminar determina el objeto y ámbito de aplicación de la actividad estadística regulada por esta Ley, así como sus exclusiones, definiendo, además, el contenido de la actividad estadística a que se refiere la Ley.
+El título I crea el Instituto Canario de Estadística, que, bajo la fórmula de Organismo Autónomo, se constituye en el órgano central del sistema estadístico de la Comunidad Autónoma de Canarias, responsabilizándose de la promoción, gestión y coordinación de la actividad estadística pública de la Comunidad Autónoma.
+Esta fórmula, usualmente utilizada por los departamentos de estadística tanto en la Administración Central como en las Comunidades Autónomas y en otros países, es considerada no sólo como la más idónea para el desarrollo de las actividades estadísticas desde el punto de vista funcional y administrativo, sino, además, la que mejor se adapta a la necesaria imparcialidad, objetividad y rigor técnico, alejándola en lo posible de la actividad político-administrativa ordinaria de las Administraciones Públicas, garantizando de este modo el cumplimiento de los principios recogidos en esta Ley que han de regir la actividad estadística para que ésta sea socialmente útil y políticamente neutral.
+Esta opción supone que la responsabilidad en materia estadística se asigne al Instituto Canario de Estadística, evitando así la dispersión de la misma en los distintos departamentos y órganos de la Comunidad Autónoma, lo que permite la coordinación estadística de base y la racionalización de la actividad estadística.
+El título II regula la actividad estadística, considerando dos aspectos básicos de la misma, de una parte, los principios de actuación y las garantías a las que ha de someterse dicha actividad, recogidos en el capítulo I, y de otra parte, el marco de la actuación estadística al que se refiere el capítulo II.
+En relación al capítulo I, que establece los principios y garantías a las que ha de someterse la actividad estadística, destaca el tradicional vínculo que se establece entre la obligación de colaboración para la realización de estadísticas y el consiguiente principio del secreto estadístico para garantizar la reserva de tal colaboración obligatoria, estableciéndose, no obstante, los límites precisos a los que éste ha de proteger, con objeto de evitar que su inadecuada utilización en actividades de carácter no estadístico, cercenen posibilidades de utilización de información, sin contraprestaciones reales en cuanto a protección de garantías y derechos.
+El capítulo II, por su parte, establece la figura de los Planes Estadísticos con objeto de racionalizar la actividad estadística, considerándose, además, los aspectos necesarios para su desarrollo tales como los Programas Estadísticos Anuales.
+Para el desarrollo efectivo de los mismos, además de las disposiciones generales de la Ley, se contienen una serie de normas concretas relativas a la regulación de las estadísticas, que vienen recogidas en la sección segunda de este mismo capítulo, orientadas en su totalidad desde una perspectiva fundamentalmente técnica de la actividad estadística.
+El título III, por su parte, establece y regula la organización estadística de la Comunidad Autónoma Canaria.
+Partiendo de la concepción de la actividad estadística como una actividad compleja a realizar en un sistema compuesto por multitud de elementos que requieren el establecimiento de diversos vínculos y relaciones entre ellos, la Ley establece los elementos que constituyen el sistema estadístico de la Comunidad Autónoma Canaria, que son: El propio Instituto Canario de Estadística, los órganos estadísticos que, en su caso, se constituyan en los Departamentos del Gobierno de Canarias y, en los casos que la Ley determina, las unidades estadísticas de las Entidades locales.
+En lo relativo a las unidades estadísticas departamentales la Ley establece únicamente la posibilidad de constituirlas con objeto de promover el desarrollo de la actividad estadística de interés de la Comunidad autónoma, sin que, con ello, se vaya en detrimento de la actividad estadística de interés departamental que los mismos puedan desarrollar.
+Por último, se abre la posibilidad de crear un órgano consultivo del sistema estadístico con objeto de establecer la coordinación entre los productores de estadísticas, y entre éstos y los usuarios de la misma.
+En cuanto a las Entidades locales, es de destacar que la regulación de la actividad estadística de las mismas se contempla desde el más escrupuloso respeto al principio de la autonomía que rige la actividad de dichos entes, regulándolas únicamente en cuanto que éstas realicen actividad estadística de interés de la Comunidad Autónoma; al mismo tiempo la Ley les ofrece, en todo su contenido, instrumentos y posibilidades para desarrollar la estadística local.
+El título IV, por último, establece el régimen de infracciones y sanciones aplicables por el incumplimiento de las normas y deberes que la Ley impone, dicho régimen se aplica fundamentalmente a los infractores que no tengan la condición de personal al servicio de la Administración, pues a los que reúnan tal condición les será de aplicación preferente el régimen sancionador previsto en la regulación específica respectiva. En lo relativo a la cuantía de las sanciones, y con objeto de establecer una homogeneidad que parece conveniente, se han establecido los mismos niveles que ha establecido la Administración Central del Estado respecto a las estadísticas de su interés.
+Como síntesis de todo el texto de la Ley y del espíritu que la inspira, está presente la voluntad de realizar desde una doble perspectiva: global e integradora de todas las Administraciones Públicas, de una parte, y objetiva y técnicamente rigurosa, desde otra: la actividad estadística que pueda ser útil para el desarrollo de Canarias.
+
+## TÍTULO PRELIMINAR
+
+Objeto y ámbito de aplicación de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. Es objeto de la presente Ley la regulación de la actividad estadística de interés de la Comunidad Autónoma de Canarias, a la que se refiere el artículo 29.17 del Estatuto de Autonomía de Canarias.
+2. La presente Ley es de aplicación a la actividad estadística de interés de la Comunidad Autónoma de Canarias realizada por:
+a) El Gobierno de Canarias y los Departamentos, Organismos, Entes y Empresas dependientes del mismo.
+b) Las Entidades locales de Canarias y los Departamentos, Organismos y Empresas dependientes de las mismas.
+
+### Artículo 2
+
+Artículo 2. Actividad estadística.
+A efectos de la presente Ley, se entiende por actividad estadística pública el conjunto de tareas constituidas por la recopilación u obtención, elaboración, ordenación, almacenamiento, difusión, publicación y cualesquiera otras de similar naturaleza; relativas a los aspectos demográficos, sociales, económicos y territoriales de carácter cuantitativo o cualitativo, referidos a la Comunidad Autónoma de Canarias o a los territorios que la integran.
+
+### Artículo 3
+
+Artículo 3. Exclusiones.
+La presente Ley no será de aplicación en los siguientes casos:
+a) En la actividad estadística para fines estatales a que se refiere el artículo 149.1.31 de la Constitución, tanto si la efectúan directamente los Organos competentes de la Administración Central del Estado como si es efectuada por otras Entidades por encargo o en colaboración con los mismos.
+b) Las encuestas de opinión y los sondeos electorales.
+
+## TÍTULO I
+
+El Instituto Canario de Estadística
+
+### Artículo 4
+
+Artículo 4. Creación y naturaleza.
+1. Se crea el Instituto Canario de Estadística, que se regula por la presente Ley, como un Organismo autónomo de carácter administrativo con personalidad jurídica y patrimonio propios.
+2. El Instituto Canario de Estadística ‒en adelante el Instituto‒, queda adscrito a la Consejería con competencias estatutarias en materia de estadística.
+
+### Artículo 5
+
+Artículo 5. Funciones.
+En materia de estadística de interés de la Comunidad Autónoma de Canarias, a las que se refiere esta Ley, el Instituto ha de constituir, mantener y promover el desarrollo del sistema estadístico de la Comunidad Autónoma de Canarias, impulsando, coordinando, centralizando y organizando la actividad estadística de los diferentes Organos que lo componen; para ello son de su competencia las siguientes funciones:
+a) Elaborar el anteproyecto del Plan Estadístico de Canarias y los Programas Estadísticos Anuales.
+b) Realizar la actividades estadísticas encomendadas al Instituto en el Plan Estadístico de canarias y en los Programas Estadísticos Anuales, así como cualesquiera otras que se le puedan legalmente encomendar.
+c) Promover, dirigir, coordinar y centralizar la actividad estadística de los distintos Organos estadísticos de la Comunidad Autónoma Canaria.
+d) Colaborar, en materia estadística, con las Entidades locales de Canarias, las demás Comunidades Autónomas, la Administración Central, los Organismos supraestatales y con cuantos Organismos o entes, de cualquier naturaleza, se estime conveniente para el desarrollo de la actividad estadística.
+e) Promover la normalización metodológica para la actividad estadística de la Comunidad Autónoma de Canarias y su coordinación con las estadísticas estatales, de las Comunidades Autónomas y de las Comunidades Europeas.
+l) Promover, impulsar y fomentar la investigación estadística, así como la formación y el perfeccionamiento profesional del personal estadístico.
+g) Promover la objeción, conocimiento y difusión de las estadísticas referidas a Canarias, o a cualesquiera de los territorios que le la componen, que contribuya a mejorar el conocimiento de la realidad canaria.
+h) Informar, preceptivamente, todo proyecto que promueva o en el que participe el Gobierno de Canarias y que tenga por objetivo la realización de actividad estadística.
+i) Extender certificaciones de los resultados de las estadísticas incluidas en el Plan Estadístico de Canarias y en los Programas Estadísticos Anuales.
+j) Promover y, en su caso, coordinar, gestionar y centralizar la creación y mantenimiento de bancos de datos de carácter estadístico.
+k) Representar, en su caso, al Gobierno de Canarias en materia estadística.
+l) La creación, prestación y mantenimiento de un servicio de documentación bibliográfico-estadístico de ámbito socio-económico.
+m) Realizar investigaciones para contrastar la objetividad y corrección técnica de la metodología en las actividades estadísticas.
+n) Asimismo corresponden al Instituto cualesquiera otras funciones necesarias para la constitución, mantenimiento y promoción del sistema estadístico de la Comunidad Autónoma de Canarias, así como aquellas otras que le sean legalmente asignadas.
+
+### Artículo 6
+
+Artículo 6. Organización.
+1. El Instituto Canario de Estadística ejercerá, con plena autonomía funcional, las funciones señaladas en el artículo anterior, a través de los órganos y unidades siguientes:
+a) La comisión ejecutiva.
+b) El director.
+c) Las unidades de su estructura central.
+d) Las unidades estadísticas delegadas.
+2. Las normas de desarrollo de la presente ley establecerán la estructura orgánica y, en su caso, los restantes órganos del instituto que procedan.
+Se modifica por el art. 9.1 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 7
+
+Artículo 7. La Comisión Ejecutiva.
+1. La Comisión Ejecutiva es el Organo de participación, coordinación y control del instituto. De la misma formarán parte:
+a) El Presidente, que será, con carácter nato, el Consejero a cuyo Departamento esté adscrito el Instituto.
+b) El Vicepresidente, que será el Director del Instituto.
+c) Los Vocales, que serán uno por Consejería, además del Director general de Planificación, Presupuesto y Gasto Público y del Interventor general.
+d) El Secretario, que será un miembro del Instituto designado por el Director del mismo.
+2. Reglamentariamente se determinarán sus competas y otros extremos necesarios para su funcionamiento.
+Se modifica la letra c) del apartado 1 por la disposición adicional 13 de la Ley 3/1993, de 27 de diciembre. Ref. BOE-A-1994-1665
+
+### Artículo 8
+
+Artículo 8. El Director.
+1. El Director es el órgano superior del Instituto que, bajo la dependencia del Consejero correspondiente, tendrá a su cargo la dirección y gestión del mismo en el ámbito de sus competencias, tendrá rango de Director general y será nombrado y cesado por el Consejo de Gobierno, a propuesta del Consejero del Departamento al que esté adscrito el Instituto.
+2. Reglamentariamente se determinarán sus competencias y otros extremos necesarios para el desempeño de sus funciones.
+
+### Artículo 9
+
+Artículo 9. Sede.
+La sede central del Instituto se fija en la ciudad de Las Palmas de Gran Canaria. Para la mejor prestación de sus servicios y la adecuada realización de sus actividades, podrá disponer la creación de Oficinas Estadísticas en otros ámbitos territoriales de la Comunidad Autónoma de Canarias, con las competencias y funciones que reglamentariamente se determinen.
+
+### Artículo 10
+
+Artículo 10. Recursos.
+1. El Instituto contará para su funcionamiento con los recursos técnicos, de personal y económicos necesarios para el logro de los fines que tiene atribuidos, y en especial los siguientes:
+a) Recursos técnicos: Contará con los medios informáticos propios, necesarios para la realización de las funciones que tiene encomendadas, de forma autónoma y continuada y con garantías para preservar el secreto estadístico.
+b) Personal: Estará constituido por el personal especializado en las materias específicas del Instituto. La selección y regulación del mismo será realizada por el propio Instituto, de conformidad con la legislación aplicable.
+c) Recursos económicos: Que estarán constituidos por:
+Las asignaciones procedentes del presupuesto de la Comunidad Autónoma de Canarias.
+Las asignaciones procedentes de los presupuestos de otras Entidades públicas.
+La aportación de cualquier otro Organismo o Entidad pública o privada.
+Los productos de su patrimonio.
+Los ingresos procedentes de la difusión de sus actividades, de los servicios prestados, de la venta de sus trabajos y publicaciones o de otras actividades de similar naturaleza.
+Cualquier otro recurso que puediera corresponderle o serle atribuido.
+2. El Instituto queda sometido a la Ley de Tasas y Precios Públicos de la Comunidad Autónoma de Canarias.
+
+## TÍTULO II
+
+La regulación de la actividad estadística
+
+## CAPÍTULO I
+
+Principios y garantías de la actividad estadística
+
+## Sección 1
+
+Sección 1.ª Principios rectores
+
+### Artículo 11
+
+Artículo 11. Enumeración.
+La actividad estadística regulada por la presente Ley se regirá y adecuará especialmente a los siguientes principios rectores:
+a) Interés público.
+b) Objetividad y corrección técnica.
+c) Obligatoriedad de la colaboración ciudadana.
+d) Secreto estadístico y respeto a la intimidad.
+e) Publicidad de los resultados.
+
+### Artículo 12
+
+Artículo 12. Principios de interés público.
+La presente Ley regula la actividad estadística desarrollada con motivo de interés público. Corresponderá al Parlamento de Canarias apreciar y calificar el interés público de una estadística mediante la aprobación del Plan Estadístico de Canarias, a que se refiere el artículo 26, sin perjuicio de las facultades reconocidas al Gobierno en el artículo 28 de la presente Ley.
+
+### Artículo 13
+
+Artículo 13. Principio de objetividad y corrección técnica.
+1. La actividad estadística regulada por esta Ley habrá de realizarse conforme a los principios de objetividad y de corrección técnica. Para ello, el Instituto desarrollará y aplicará la metodología y procedimiento de trabajo que garantice la comparación e integración de los datos y resultados estadísticos de los distintos elementos del sistema estadístico de la Comunidad Autónoma de Canarias, a los que se refiere el artículo 37.
+2. En todo caso, para la obtención de datos y la posterior explotación y presentación de los mismos, se empleará como unidad básica territorial de la Comunidad Autónoma de Canarias, a la isla, o también a la comarca si ésta se estableciese en la organización territorial de Canarias.
+3. Corresponde al Instituto velar por el cumplimiento de estos principios y proponer, desarrollar y aplicar los instrumentos necesarios para su consecución.
+
+## Sección 2
+
+Sección 2.ª De la obligatoriedad de la colaboración ciudadana
+
+### Artículo 14
+
+Artículo 14. Principio de la obligación de colaboración ciudadana.
+Gozarán del privilegio de la obligación de colaboración ciudadana las siguientes actividades estadísticas:
+a) Las incluidas en el Plan Estadístico de Canarias a que se refiere el artículo 26 de esta Ley.
+b) Las que hayan sido aprobadas por el Gobierno de Canarias en los supuestos previstos en el artículo 28 de esta Ley.
+c) Las actividades de formación, conservación o actualización de archivos y registros administrativos cuando éstos constituyan fuentes de información estadística, conforme a lo establecido en el artículo 34.
+d) Las previstas en los convenios de cooperación que suscriban, en su caso, el Instituto con los Organismos de estadística de otras Administraciones Públicas.
+
+### Artículo 15
+
+Artículo 15. Ambito de obligación.
+1. La obligación de suministrar información, a la que se refiere el artículo anterior, se extiende a todas las personas, cualesquiera que sea su naturaleza y nacionalidad, que tengan su domicilio o residencia, o ejerzan su actividad en el territorio de la Entidad que realice la actividad estadística.
+2. La obligación de colaboración podrá extenderse a las actividades que se desarrollen fuera del territorio de la Entidad que realice la actividad estadística, siempre que fuera apropiado a las finalidades perseguidas por la estadística y estuviera previsto en las normas reguladoras de la misma.
+3. La misma obligación de suministrar información se extenderá, asimismo, a todas las Administraciones Públicas ubicadas en Canarias, en lo que se refiere a actividades llevadas a cabo dentro de este territorio, sin perjuicio de lo dispuesto en el artículo 149.1.31 de la Constitución Española.
+
+### Artículo 16
+
+Artículo 16. Modalidad de la obligación.
+1. La información ha de ser veraz y deberá ajustarse a las circunstancias exigidas por las normas reguladoras.
+2. Cuando para la realización de la actividad estadística se requieran datos obrantes en cualesquiera Administraciones Públicas, los órganos, autoridades y funcionarios responsables, en cada caso, prestarán la más rápida y ágil colaboración a los servicios estadísticos.
+3. Las normas reguladoras de cada estadística podrán establecer, si procediera, modalidades de compensación por los gastos que se deriven del suministro de la información, cuando tales gastos procedan de la exigencia de soporte informático o cualquier otro sistema de información de especial complejidad técnica, o que obligue a una previa recopilación de datos que en la forma solicitada no se hallen a disposición de la administración ordinaria del informe.
+
+### Artículo 17
+
+Artículo 17. Información al ciudadano.
+Junto a la solicitud de información habrá de hacerse saber a los sujetos informantes de los siguientes extremos:
+a) La naturaleza, características y finalidad de la actividad estadística que se realiza.
+b) La obligatoriedad, en su caso, de colaborar.
+c) Las sanciones que pudieran imponérsele por el incumplimiento de las obligaciones recogidas en esta Ley.
+d) La protección que le dispensa el secreto estadístico.
+
+## Sección 3
+
+Sección 3.ª Del secreto estadístico
+
+### Artículo 18
+
+Artículo 18. Concepto y contenido del secreto estadístico.
+1. A los efectos de la presente Ley se entiende por secreto estadístico la obligación de no divulgar ni comunicar aquel conocimiento que una persona posee como consecuencia de la actividad estadística, así como la obligación de no actuar sobre la base de dicho conocimiento.
+2. Los datos amparados por el deber de secreto estadístico solamente podrán ser conocidos y utilizados por quienes deban emplearlos para la realización de las estadísticas y otras actuaciones de esta naturaleza, previstas en la presente Ley, y exclusivamente para dicha finalidad.
+3. Los datos a los que se refiere el apartado anterior sólo podrán ser consultados cuando lo autorice expresamente, por escrito, los afectados, o cuando hayan transcurrido, al menos, veinticinco años desde su muerte o cincuenta años desde el suministro de la información.
+4. El suministro de datos estadísticos no producirá efecto alguno en otro ámbito diferente al de carácter estadístico.
+
+### Artículo 19
+
+Artículo 19. Datos amparados.
+1. Serán objeto de protección y quedarán amparados por el secreto estadístico la totalidad de datos individuales de comunicación obligatoria.
+2. Se entiende que son datos individuales aquellos que, o bien permitan la identificación directa de los informantes o bien conduzcan por su estructura, contenido o grado de desagregación a la identificación indirecta de los mismos.
+
+### Artículo 20
+
+Artículo 20. Datos no amparados.
+1. No quedarán amparados por el secreto estadístico los directorios que no contengan más datos que las simples listas de establecimientos, Empresas, explotaciones y Organismos o entes de cualquier clase, en cuanto aludan a su denominación, emplazamiento, actividad, producto o servicio, indicador de tamaño y otras características generales.
+2. Asimismo, tampoco lo estarán las relaciones nominales de carácter personal que no contengan más datos que la simple referencia de identificación personal y que hayan sido publicadas o sean de conocimiento público.
+3. Los interesados tendrán derecho de acceso a los datos personales que les conciernan, que figuren en los directorios estadísticos y a obtener, en su caso, la rectificación de los errores que contuvieren.
+
+### Artículo 21
+
+Artículo 21. Protección de la intimidad y datos administrativos.
+1. La actividad estadística regulada por esta Ley se llevará a cabo, en todo caso, con observancia de la normativa vigente en cada momento, en especial la recogida en los artículos 16.2 y 18, apartados 1 y 4 de la Constitución.
+2. Los datos que se deriven de expedientes administrativos, no proporcionados por los administradores como información estadística, gozarán de la confidencialidad que reconozcan, en general, las leyes administrativas.
+
+### Artículo 22
+
+Artículo 22. Sujetos obligados.
+1. Tienen obligación de mantener el secreto estadístico todas las personas, Organismos o Instituciones de cualquier naturaleza que intervengan en el proceso estadístico. Este deber se mantendrá aun después de que las personas obligadas a su cumplimiento concluyan sus actividades profesionales o su vinculación a los servicios estadísticos.
+2. Quienes no estando sometidos al deber de secreto estadístico tuvieren conocimiento de datos amparados por el mismo por incumplimiento del deber de secreto estadístico de los obligados a él, quedarán obligados también a su cumplimiento.
+3. A excepción de la posibilidad de transmisión de información, para la exclusiva finalidad de actividad estadística, entre órganos obligados al mantenimiento del secreto estadístico, dicho deber será operativo respecto a los demás órganos y personas de cada ente a que pertenezca el sujeto obligado.
+
+### Artículo 23
+
+Artículo 23. Renuncia al derecho del secreto estadístico.
+1. El derecho del informante a que la Administración cumpla con el deber secreto estadístico es renunciable mediante manifestación expresa, realizada en documento escrito.
+2. La anterior declaración podrá tener finalidad general o estar limitada a unos usos determiados. En este caso, las personas, Instituciones o entes beneficiarios habrán de mantener el secreto estadístico en relación a otros usos distintos de los autorizados.
+
+### Artículo 24
+
+Artículo 24. Incumplimiento.
+El incumplimiento del deber del secreto estadístico dará lugar a las responsabilidades indemnizatorias de los daños y perjuicios causados, en los términos establecidos en el Ordenamiento Jurídico, sin perjuicio de la Jurisdicción Penal, de la potestad disciplinaria sobre los funcionarios y demás personal público o asimilado a efectos de actividad estadística, y de la potestad sancionadora a que se refiere el título IV de esta Ley.
+
+## Sección 4
+
+Sección 4.ª De la publicidad de los resultados estadísticos
+
+### Artículo 25
+
+Artículo 25. Publicidad de los resultados y certificaciones.
+1. Los resultados correspondientes a las estadísticas oficiales serán públicos. En los supuestos de publicación o difusión del resultado de la actividad estadística, ésta se hará siempre con carácter global, con la máxima celeridad posible, sin referencia a datos individuales, de conformidad con las normas reguladoras del secreto estadístico contenidas en esta Ley.
+2. Cualquier interesado podrá consultar los resultados estadísticos y solicitar certificación sobre los mismos, a cualquier nivel de agregación disponible, siempre que no atente a la protección del secreto estadístico.
+3. Toda estadística, realizada o encargada por el Instituto, tendrá la consideración de documento del Gobierno Canario y, en consecuencia, estará a disposición de los Diputados del Parlamento de Canarias en los términos que establece el Reglamento de la Cámara.
+4. El Instituto podrá facilitar a quien lo solicite otras tabulaciones o elaboraciones estadísticas distintas de las publicadas, si dicha petición reúne las siguientes características:
+a) No contravenir el secreto estadístico.
+b) Reunir las suficientes garantías técnicas.
+c) Pago previo, del precio que se determine, si procediere.
+d) No alterar de manera significativa el normal desenvolvimiento de los servicios estadísticos.
+5. El Instituto es el único Organismo habilitado para el libramiento de certificaciones oficiales respecto a las estadísticas incluidas en el Plan Estadístico de Canarias a que se refiere el artículo 26, o a las realizadas en el supuesto previsto en el artículo 28 de esta Ley, salvo que se prevea otra cosa en las normas reguladoras.
+
+## CAPÍTULO II
+
+El marco de la actuación estadística
+
+## Sección 1
+
+Sección 1.ª Planificación de la actividad estadística
+
+### Artículo 26
+
+Artículo 26. El Plan Estadístico de Canarias.
+1. El Plan Estadístico de Canarias es el instrumento de ordenación y planificación de la actividad estadística pública de la Comunidad Autónoma de Canarias y de las Entidades a las que se refiere el artículo 1 de esta Ley.
+2. El Plan Estadístico de Canarias contendrá, como mínimo:
+a) Las estadísticas que se iniciarán durante su período de vigencia.
+b) El enunciado de sus fines y la descripción general de su contenido.
+c) Los Organismos o Entidades que deban intervenir en su elaboración.
+
+### Artículo 27
+
+Artículo 27. Elaboración, aprobación y seguimiento del Plan Estadístico de Canarias.
+1. Corresponde al Instituto Canario de Estadística la elaboración del proyecto del Plan Estadístico de Canarias.
+2. La aprobación del Plan Estadístico de Canarias se llevará a cabo mediante decreto del Gobierno, publicado en el Boletín Oficial de Canarias. Su vigencia será de cinco años, salvo que el mismo estableciera motivadamente otra duración diferente, quedando prorrogado hasta la entrada en vigor del siguiente, en caso de no haberse aprobado un nuevo plan al término de aquella, con las excepciones establecidas por el propio plan.
+3. El Plan Estadístico de Canarias podrá ser modificado durante su vigencia.
+Se modifica por el art. 9.2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 28
+
+Artículo 28. Estudios estadísticos.
+1. El Instituto Canario de Estadística, a través de sus unidades estadísticas o mediante acuerdo o convenio con las correspondientes consejerías, podrá realizar estudios estadísticos dirigidos al seguimiento y evaluación de planes, programas, proyectos u otros aspectos organizativos o funcionales de interés de dichas consejerías u organismos públicos vinculados o dependientes, que deberán cumplir los principios y normas establecidos en esta ley y en las normas que la desarrollen.
+2. La elaboración de un estudio estadístico requerirá de un informe de inicio, que se comunicará al director del Instituto Canario de Estadística para su planificación, y que contendrá al menos:
+a) Objetivos.
+b) Periodos y ámbitos territoriales de referencia.
+c) El derecho, si procediese, a obtener compensación por los gastos que se deriven del suministro de la información.
+d) La comunicación de datos personales para fines estadísticos.
+3. Cuando tales estudios impliquen petición de información a personas físicas o jurídicas, se requerirá un informe favorable del director del Instituto Canario de Estadística.
+4. En su difusión deberá especificarse su carácter de estudios estadísticos. El Instituto Canario de Estadística dictará normas técnicas necesarias para su difusión. Los resultados de estos estudios en ningún caso podrán adquirir el carácter de oficiales.
+Se modifica por el art. 9.3 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 29
+
+Artículo 29. Los Programas Estadísticos Anuales.
+1. Los Programas Estadísticos Anuales son el instrumento de desarrollo y ejecución del Plan Estadístico de Canarias durante los años de vigencia de éste.
+2. Los Programas Estadísticos Anuales serán aprobados cada año por el Consejero del Departamento al que esté adscrito el Instituto y tendrán una vigencia máxima de un año.
+3. Cada Programa Estadístico Anual incluirá la relación de actividades estadísticas a realizar en el período, determinando, como mínimo, los mismos datos que vienen contenidos en el artículo 31.
+
+## Sección 2
+
+Sección 2.ª Regulación de las estadísticas
+
+### Artículo 30
+
+Artículo 30. Primacía técnico-estadística.
+1. El Instituto dictará y publicará las normas técnicas generales sobre unidades estadísticas y territoriales, su identificación, nomenclatura, definiciones, códigos, clasificación de datos y cualesquiera otras que constribuyan a homogenizar la actividad estadística pública en la Comunidad Autónoma de Canarias. Tales normas serán de obligado cumplimiento para la elaboración de las estadísticas de interés de la Comunidad Autónoma de Canarias.
+2. En el desarrollo de la actividad estadística habrá de considerarse especialmente la estructura insular y la organización territorial adecuada para la obtención de datos y presentación de resultados.
+
+### Artículo 31
+
+Artículo 31. Regulación de las estadísticas.
+1. En relación con cada estadística en concreto, el Director del Instituto aprobará sus normas reguladoras, que habrán de determinar, como mínimo:
+a) Los objetivos.
+b) El ámbito territorial.
+c) La periodicidad.
+d) Los Organismos que han de intervenir en su elaboración, así como el tipo o naturaleza de su intervención.
+e) Los Organismos facultados para reclamar la información cuando ésta sea obligatoria y los sujetos obligados a suministrarla, así como los plazos y formas de esta obligación.
+f) El derecho, si procediese, a obtener compensación por los gastos que se deriven del suministro de la información.
+g) La forma y plazo, en su caso, de difusión del resultado estadístico.
+2. Para que produzca efecto, la norma reguladora de cada estadística habrá de publicarse en el «Boletín Oficial de Canarias».
+
+### Artículo 32
+
+Artículo 32. Peticiones a las Administraciones.
+1. Para la ejecución del Plan Estadístico de Canarias, el Instituto podrá recabar de los Departamentos, Organismos, Entes y Empresas dependientes de la Comunidad Autónoma de Canarias cuantos datos precise.
+2. También podrá recabar estos datos de las Entidades locales, de los Entes públicos regidos por la legislación de Régimen Local y de los Entes privados dependientes de aquéllos. La petición de tales datos podrá originar, en su caso, derecho a la adecuada compensación de los trabajos en la forma que se establezca.
+3. Se constituirá, en el plazo de dos años desde el día siguiente a la publicación de la presente ley, un banco de datos administrativos para fines estadísticos, que se nutrirá prioritariamente de los ficheros administrativos de la Comunidad Autónoma de Canarias, a cuyo fin todos los departamentos deberán remitir al Instituto Canario de Estadística los ficheros administrativos de los que sean titulares y que sean necesarios para el ejercicio de la función estadística.
+Los referidos ficheros deberán adecuarse, para su remisión, a los requisitos técnicos que establezca el instituto.
+El banco de datos administrativos para fines estadísticos deberá facilitar la fusión de los ficheros para fines estadísticos.
+Se añade el apartado 3 por el art. 9.4 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 33
+
+Artículo 33. Aprobación y oficialidad de los resultados.
+1. La aprobación de los resultados estadísticos de las operaciones incluidas en el Plan Estadístico de Canarias corresponde al Instituto, de los mismos se dará cuenta al Gobierno y al Parlamento.
+2. Solo tendrán la consideración de estadísticas oficiales las contenidas en el Plan Estadístico de Canarias o en los programas estadísticos anuales.
+3. El Gobierno de Canarias podrá atribuir valor oficial a las estadísticas a las relaciones que se refiere el apartado anterior, a los fines de su aplicación en las relaciones y situaciones jurídicas respecto a las que la Comunidad Autónoma de Canarias tenga competencias para su regulación, siempre que sus resulpados hayan sido formal y definitivamente aprobados.
+Se modifica el apartado 2 por el art. 9.5 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 34
+
+Artículo 34. Acceso a ficheros de datos.
+1. El Instituto Canario de Estadística tendrá acceso, para la realización de las estadísticas de interés de la Comunidad Autónoma de Canarias, a los ficheros de datos administrativos o estadísticos existentes, como fuentes prioritarias de información.
+2. Los órganos, autoridades y personal público responsables de dichos ficheros de datos prestarán la más rápida y ágil colaboración para la realización de las estadísticas de interés de la Comunidad Autónoma de Canarias.
+3. La formación, conservación y actualización de ficheros administrativos que puedan ser utilizados con finalidad estadística deberán cumplir los requisitos establecidos en las normas técnicas que dicte el Instituto Canario de Estadística.
+4. El Instituto Canario de Estadística establecerá para cada operación estadística las fusiones permitidas de ficheros de datos procedentes de diferentes fuentes.
+5. A los efectos de este artículo se entiende por:
+a) Fichero de datos: todo conjunto organizado de datos sobre una o varias unidades de observación, cualquiera que fuere la forma o modalidad de su creación, almacenamiento, organización o acceso.
+b) Fichero de datos estadísticos: todo fichero de datos producto de la actividad estadística y con fines exclusivamente estadísticos.
+c) Fichero de datos administrativos: todo fichero de datos producto de la actividad administrativa.
+d) Ficheros de datos para fines estadísticos: ficheros de datos estadísticos o administrativos a partir de los cuales se generan otros ficheros de datos estadísticos.
+e) Unidad de observación: persona física o jurídica, hogar u otro tipo de operador al que se refieren los datos.
+Se modifica por el art. 9.6 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 35
+
+Artículo 35. Conservación de la información estadística.
+1. El Instituto Canario de Estadística deberá conservar y custodiar la información obtenida como consecuencia de su actividad estadística, aunque se hayan difundido las estadísticas correspondientes.
+2. La conservación de la información no implicará necesariamente la de los soportes originales de la misma, siempre que su contenido se haya trasladado a soportes informáticos o de otra naturaleza.
+3. Cuando las unidades estadísticas estimen que determinada documentación resulte ya innecesaria para el desarrollo de las operaciones estadísticas, se podrá acordar su destrucción mediante resolución de director.
+Se modifica por el art. 9.7 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 36
+
+Artículo 36. Recepción, envío y depósito de información estadística.
+1. El Instituto Canario de Estadística es el organismo responsable de la solicitud y recepción de ficheros de datos para fines estadísticos, así como de los documentos y metadatos necesarios para su interpretación y uso, que se soliciten para el desarrollo de la actividad estadística de interés de la Comunidad Autónoma de Canarias a las administraciones y organismos del sector público.
+2. Todos los ficheros de datos para fines estadísticos que desde cualquier consejería de la Administración Pública de la Comunidad Autónoma de Canarias, y organismos, entes o empresas dependientes de la misma, se deban remitir a otras administraciones y organismos del sector público se comunicarán al Instituto Canario de Estadística, el cual podrá recabar copia de los mismos.
+3. El Instituto Canario de Estadística es el organismo responsable de centralizar, conservar, ordenar, inventariar y custodiar los ficheros de datos para fines estadísticos, así como, los documentos y metadatos necesarios para su interpretación y uso, que sean de titularidad propia o compartida o de uso permitido para el desarrollo de la actividad estadística de interés de la Comunidad Autónoma de Canarias.
+4. Los ficheros de datos para fines estadísticos, custodiados por el Instituto Canario de Estadística, podrán ser utilizados por cualquier otro organismo estadístico público, bajo las condiciones que se estipulen, respetando la regulación de secreto estadístico establecida en esta ley. Cuando tales datos sean de titularidad de otro organismo, se procederá a solicitar la autorización y licencia de uso a la persona o entidad titular de los datos correspondientes, quedando la utilización supeditada a las mismas.
+Se modifica por el art. 9.8 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+## TÍTULO III
+
+La Organización Estadística de la Comunidad Autónoma de Canarias
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 37
+
+Artículo 37. Elementos del sistema estadístico.
+El sistema estadístico de la Comuniad Autónoma de Canarias está constituido por:
+a) El Instituto, al que se refiere el título I de esta Ley.
+b) (Sin contenido).
+c) En su caso, las unidades estadísticas de las Entidades locales.
+d) El Organo consultivo previsto en el artículo 40 de esta Ley.
+Se deja sin contenido la letra b) por el art. 9.9 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Se modifica la letra b) por el art. 3.1 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Artículo 38
+
+Artículo 38. El Instituto Canario de Estadística y sus unidades de la estructura central y unidades estadísticas delegadas.
+1. Las unidades de la estructura central son unidades administrativas que, bajo la dependencia orgánica y funcional del director, ejecutan las funciones encomendadas al Instituto Canario de Estadística en el artículo 5 de la presente ley.
+2. Las unidades estadísticas delegadas son unidades administrativas a las que, bajo la dependencia orgánica y funcional del Instituto Canario de Estadística, les corresponde desarrollar la actividad estadística que les sea encomendada. Las unidades estadísticas delegadas podrán depender directamente del director o de una de las unidades estadísticas de la estructura central.
+3. Reglamentariamente se determinarán su organización y funciones.
+Se modifica por el art. 9.10 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Se modifica por el art. 3.2 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Artículo 39
+
+Artículo 39. Personal estadístico.
+1. Tendrá la consideración de personal estadístico el personal al servicio de la Administración Pública de la Comunidad Autónoma de Canarias que, cualquiera que sea la naturaleza jurídica de su vínculo y el grupo, subgrupo o categoría profesional al que pertenezca, intervenga en la actividad estadística regulada en la presente ley o tenga acceso a los datos de la misma.
+2. El personal estadístico funcionario tendrá el carácter de agente de la autoridad a los efectos procedentes.
+3. Asimismo, tendrán la condición de personal estadístico quienes intervengan en cualquiera de las fases del proceso estadístico o tengan acceso a datos estadísticos, en virtud de acuerdo, convenio o contrato, los cuales incorporarán un compromiso de confidencialidad.
+Se modifica por el art. 9.11 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+ Se modifica el apartado 1 y se añade el apartado 2 bis por el art. 25 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+ Redactado el apartado 2 bis conforme a la corrección de errores publicada en el BOC núm. 165, de 13 de diciembre de 2002. Ref. BOE-A-2003-325
+
+### Artículo 40
+
+Artículo 40. Organo consultivo.
+1. Se creará el Consejo de Estadística de Canarias como órgano consultivo de coordinación y cooperación de la actividad estadística de la Comunidad Autónoma de Canarias y de las entidades Canarias.
+2. Formarán parte de dicho Consejo cinco miembros elegidos por el Parlamento de Canarias por mayoría de tres quintos de sus miembros, entre personas de reconocido prestigio en el ámbito funcional del Organo. Su mandato tendrá una duración de cinco años a contar desde el momento de efectividad de la elección. Cuando ésta se haya producido como consecuencia de la cobertura de vacantes, el Vocal así elegido limitará su duración a la prevista para su predecesor. La elección será efectiva desde la fecha en que el electo haya tomado posesión de su cargo, una vez publicado el acuerdo del Pleno del Parlamento en el «Boletín Oficial de Canarias».
+3. Reglamentariamente se determinará, en su caso, el resto de los componentes, las funciones y demás extremos necesarios para el funcionarmiento del referido Consejo.
+
+## CAPÍTULO II
+
+Organización y actividad estadística de las Entidades locales
+
+### Artículo 41
+
+Artículo 41. Normativa aplicable.
+1. La actividad estadística de las Entidades locales de la Comunidad Autónoma de Canarias se regirá por las siguientes normas:
+a) Lo establecido en esta Ley y en las normas que la complementen o desarrollen.
+b) Las que se refieran a las estadísticas específicas de las Entidades locales que hubiesen sido dictadas por la Comunidad Autónoma de Canarias o que, aun habiendo sido dictadas por el Estado, sean de aplicación supletoria, en cuanto no estén en contradicción con las normas señaladas en el apartado anterior.
+c) Las que dicten las propias Entidades locales, de acuerdo con sus características y con el procedimiento establecido para cada una de las mismas, que no podrán, en ningún caso, ir contra lo establecido en esta ley.
+2. Las relaciones de cooperación entre la Comunidad Autónoma de Canarias y las Entidades locales, en materia de estadística, se ajustarán a los principios establecidos en esta Ley.
+
+### Artículo 42
+
+Artículo 42. Actividad estadística de las Entidades locales.
+El ejercicio de la competencia, a la que se refiere el artículo anterior, exigirá la constitución en las Entidades locales de unidades especializadas en el desarrollo de la actividad estadística. Reglamentariamente se determinarán las características y requisitos que procedan.
+
+### Artículo 43
+
+Artículo 43. Traslado de resultados al Instituto Canario de Estadística.
+1. En el caso de estadísticas no incluidas en el Plan Estadístico de Canarias o en los Programas Anuales de Estadística, las Entidades locales que las realicen habrán de dar traslado al Instituto de todos los resultados obtenidos en relación a las mismas desde el momento en que se dispongan los resultados y, como máximo, en el plazo del mes siguiente a su obtención.
+2. Asimismo remitirán también al Instituto toda la documentación e información que, en relación a su actividad estadística, sea de interés general o les sea solicitada por el mismo.
+
+## TÍTULO IV
+
+Régimen sancionador
+
+### Artículo 44
+
+Artículo 44. Infracciones.
+Son infracciones administrativas en materia estadística las acciones y omisiones voluntarias contrarias a las disposiciones contenidas en esta Ley, pudiendo ser autores de las mismas tanto los administrados sujetos a la obligación de colaboración estadística como el personal estadístico.
+
+### Artículo 45
+
+Artículo 45. Infracciones administrativas de los administrados.
+Las infracciones cometidas por los administrados podrán ser leves, graves y muy graves.
+1. Se considerarán infracciones leves:
+a) Suministrar información obligatoria a efectos estadísticos fuera del plazo establecido, si existiese requerimiento formal previo del Organo estadístico, siempre que ello no dé lugar a un perjuicio grave.
+b) No proporcionar la información obligatoria requerida, o hacerlo con datos inexactos, incompletos o de forma distinta a la establecida, siempre que los anteriores hechos no den lugar a un perjuicio grave.
+2. Se consideran infracciones graves:
+a) La comisión de una infracción leve cuando el infractor hubiese sido sancionado por otras dos leves dentro del período de dos años.
+b) Las establecidas en las letras a) y b) del apartado anterior cuando se cause un perjuicio grave, siempre que existiese requerimiento formal previo del Organo estadístico y hubiese obligación de facilitarlos.
+3. Se consideran infracciones muy graves:
+a) La reincidencia en la comisión de infracciones graves dentro del período de dos años.
+b) No suministrar la información requerida o suministrar datos falsos, tanto si son de comunicación obligatoria como voluntaria, cuando pueda ser imputada malicia o negligencia grave.
+c) La solicitud u obtención de información estadística mediante la suplantación de la personalidad de cualesquiera de las unidades o personal estadístico amparados por esta Ley o alegar ser agente estadístico para recabar información sin estar inscrito en el correspondiente Registro General.
+
+### Artículo 46
+
+Artículo 46. Aspectos procedimentales.
+1. Las infracciones referidas en el artículo anterior serán objeto de sanción administrativa, previa instrucción del correspondiente expediente sancionador, de conformidad con la Ley de Procedimiento Administrativo, sin perjuicio de la exigencia de las responsabilidades civiles y penales en que incurrieran los infractores.
+2. El Organo competente para la imposición de sanciones por infracciones leves y graves es el Director del Instituto y para las muy graves el Consejero del Departamento al que esté adscrito el Instituto.
+3. Las cuantías de las sanciones podrán ser revisadas por las Leyes anuales de Presupuestos de la Comunidad Autónoma de Canarias.
+4. Con carácter subsidiario podrán ser de aplicación por las Entidades locales las disposiciones del presente título, tanto en lo relativo a las infracciones de los administrados como del personal estadístico, al que se refiere el artículo 50.
+
+### Artículo 47
+
+Artículo 47. Cuantía de las multas.
+1. Serán aplicables las siguientes multas:
+a) Las infracciones leves se sancionarán con multa de hasta 50.000 pesetas.
+b) Las infracciones graves se sancionarán con multa de 50.001 a 500.000 pesetas.
+c) Las infracciones muy graves se sancionarán con multa de 500.001 a 5.000.000 de pesetas.
+2. Aquellas infracciones en las que el infractor haya obtenido un beneficio económico superior al tope máximo indicado en el punto anterior se sancionarán con multa que puede llegar hasta el doble del beneficio obtenido, según se determine reglamentariamente.
+3. En todo caso, para la graduación de las sanciones aplicables se tendrá en cuenta la trascendencia de la infracción, la naturaleza de los daños y perjuicios causados a terceros y a los servicios estadísticos.
+4. Se entenderá por reincidencia la comisión de una infracción análoga a la que motivó la sanción en el plazo de dos años siguientes a la notificación de ésta. En este supuesto se requerirá que la primera resolución sancionadora hubiese adquirido firmeza en vía administrativa.
+
+### Artículo 48
+
+Artículo 48. Prescripción de las infracciones.
+1. Las infracciones leves prescribirán a los seis meses, las graves al año y las muy graves a los dos años.
+2. El plazo de prescripción comenzará a contarse desde el día en que la infracción se hubiese cometido, excepto en las infracciones continuadas, en cuyo caso el inicio del plazo de prescripción comenzará el último día en que se hubiese cometido la infracción.
+3. La prescripción se interrumpirá por la iniciación con conocimiento del interesado, del procedimiento sancionador volviendo a computarse el plazo si el expediente permanece paralizado durante más de tres meses por causa no imputable al presunto infractor.
+
+### Artículo 49
+
+Artículo 49. Responsabilidad del personal estadístico.
+El personal estadístico que preste sus servicios en alguno de los Departamentos, Organismos, Entes o Empresas dependientes del Gobierno de Canarias, o en las Entidades locales y los Organismos, Entes o Empresas de ellos dependientes, incluidas en su ámbito territorial, estará sujeto a la responsabilidad administrativa, civil o penal, regulada en la legislación específica que resulte aplicable en cada caso.
+
+### Artículo 50
+
+Artículo 50. Infracciones administrativas del personal estadístico.
+Las faltas cometidas por el personal estadístico podrán ser leves, graves y muy graves.
+1. Se consideran faltas leves:
+a) La incorrección con las personas sujetas al cumplimiento del principio de obligación de colaboración ciudadana.
+b) El descuido o negligencia en el cumplimiento de las funciones estadísticas.
+c) La falta de comunicación o comunicación incompleta, a los administrados, de las normas que han de observar en la cumplimentación de los cuestionados, o de los documentos de similar naturaleza, y de las sanciones que podrán imponerse por su incumplimiento.
+2. Se consideran faltas graves:
+a) La reincidencia en la comisión de faltas leves.
+b) El incumplimiento de las normas técnicas aprobadas en materia estadística.
+c) El incumplimiento del deber de difusión de los resultados estadísticos.
+d) Negarse a exhibir el documento acreditativo de agente estadístico al informante que lo solicite.
+e) El retraso voluntario en el cumplimiento de su cometido.
+3. Se consideran faltas muy graves:
+a) La reincidencia en la comisión de faltas graves.
+b) Difundir o comunicar a personas no autorizadas datos individualizados amparados por el secreto estadístico.
+c) Comunicar datos a personas no obligadas a mantener el secreto estadístico, de forma que con ello se pueda deducir información confidencial sobre datos personales.
+d) Exigir información para la elaboración de estadísticas sin la existencia de las correspondientes normas reguladoras.
+c) La utilización para finalidades distintas de las propiamente estadísticas de datos personales, obtenidos directamente de los administrados por los servicios estadísticos.
+4. Las faltas leves prescribirán a los seis meses; las graves, a los dos años, y las muy graves, a los tres años.
+El plazo de prescripción comenzará a contarse desde que la falta se hubiese cometido.
+
+### Artículo 51
+
+Artículo 51. Procedimientos y sanciones al personal estadístico.
+Los procedimientos y las sanciones aplicables a las infracciones a que se refiere el artículo anterior se regularán de acuerdo con lo establecido en la legislación específica que en cada caso corresponda.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen de Acuerdo de Organos Colegiados.
+Para lo no expresamente establecido en la presente Ley, se aplicará supletoriamente el Régimen de Acuerdos de Organos Colegiados regulado en el capítulo II del título I de la vigente Ley de Procedimiento Administrativo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Del régimen jurídico.
+En cuanto al régimen de recursos, y para lo no expresamente recogido en la presente Ley, será de aplicación supletoria lo dispuesto en el capítulo IX del título I de la vigente Ley de Entidades Estatales Autónomas.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Habilitación.
+Se habilita al Gobierno para que, previos los informes y negociaciones legalmente procedentes, mediante Acuerdo, proceda a la readscripción de aquellos puestos de trabajo y del personal adscrito a las distintas consejerías y organismos públicos vinculados o dependientes de la Administración Pública de la Comunidad Autónoma de Canarias que venga desempeñando funciones de desarrollo, producción y difusión estadísticas con carácter previo a la entrada en vigor de la presente disposición, al Instituto Canario de Estadística, pasando a formar parte de su relación de puestos de trabajo.
+Se añade por el art. 9.12 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Adecuación de los ficheros de datos administrativos.
+Los ficheros de datos administrativos a que se refiere el apartado 3 del artículo 34 de la presente ley, existentes a la entrada en vigor de la presente disposición, deberán ajustarse a los requisitos establecidos en las normas técnicas que dicte el Instituto Canario de Estadística en un plazo de dos años desde que dichas normas sean aprobadas.
+Se añade por el art. 9.13 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Todos los convenios de contenido estadístico celebrados por la Comunidad Autónoma de Canarias, con cualquier otro Organismo o Ente, con anterioridad a la entrada en vigor de la presente Ley, se seguirán rigiendo por la normativa existente en el momento de su celebración. Su integración en el Plan Estadístico de Canarias se realizará, en todo caso, en los términos que disponga el Gobierno, a propuesta del Instituto.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de cinco meses desde la entrada en vigor de la presente Ley, el Gobierno nombrará al Director del Instituto conforme a lo previsto en el artículo 8.1.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones, de igual o inferior rango, se opongan a lo establecido en la presente Ley, y en particular el Decreto 66/1985, de 15 de marzo, del Gobierno de Canarias.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno de Canarias adoptará cuantas disposiciones sean precisas para la aplicación y desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Por la Consejería de Hacienda y a propuesta de la Consejería de Economía y Comercio, se realizarán las modificaciones presupuestarias pertinentes con objeto de habilitar los créditos necesarios para el cumplimiento de lo previsto en la presente Ley.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto ordeno a todos los ciudadanos a los que sea de aplicación esta Ley cooperar en su cumplimiento, y que los Tribunales y autoridades a los que corresponda la cumplan y hagan cumplir.
+Santa Cruz de Tenerife, 28 de enero de 1991.
+LORENZO OLARTE CULLEN,
+Presidente del Gobierno de Canarias

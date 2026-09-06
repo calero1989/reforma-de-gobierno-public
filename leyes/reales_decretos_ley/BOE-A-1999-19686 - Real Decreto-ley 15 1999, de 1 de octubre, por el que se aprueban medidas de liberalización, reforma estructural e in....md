@@ -1,0 +1,122 @@
+# Real Decreto-ley 15/1999, de 1 de octubre, por el que se aprueban medidas de liberalización, reforma estructural e incremento de la competencia en el sector de hidrocarburos.
+
+- Identificador BOE: `BOE-A-1999-19686`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-19686
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 242, de 9 de octubre de 1999. Ref. BOE-A-1999-20064.
+
+## Preámbulo
+
+Las reformas de carácter estructural estimulan la competencia en los mercados de bienes, servicios y factores productivos y contribuyen a la estabilidad de la economía mediante una mejor asignación de los recursos y una mayor igualdad de oportunidades de los agentes que participan en los mercados.
+Tras la incorporación de España a la tercera fase de la Unión Monetaria Europea, no es posible recurrir al instrumento monetario para moderar la evolución de los precios, por lo que la contención de la inflación debe hacerse a través de otros instrumentos como son la política fiscal y las reformas estructurales.
+En la segunda mitad de 1998 y los primeros meses de 1999, los precios españoles han acelerado su ritmo de crecimiento en relación con los de la UE. Aunque esta evolución se debe principalmente al mayor dinamismo de la demanda interna española, la estabilidad de precios relativos es una variable fundamental para, a medio plazo, garantizar el mantenimiento de la posición competitiva de la industria española.
+Los incrementos en los precios relativos se acaban traduciendo en pérdidas de competividad y, en definitiva, en descensos en el ritmo de actividad y de creación de empleo, sobre todo, en aquellos sectores, como el industrial, más expuestos a la competencia internacional.
+En este sentido, la reciente evolución del índice de precios al consumo (IPC) en nuestro país, aconseja la adopción con carácter urgente de medidas de carácter estructural, económico y fiscal que conduzcan a una mayor liberalización, incrementen la competencia y disminuyan las tensiones inflacionistas.
+En este contexto de creciente liberalización del comercio internacional, los costes de producción se convierten en una variable fundamental, determinante de las condiciones de los intercambios y dirección de los flujos comerciales. Dentro de los costes de producción, los costes energéticos adquieren una especial relevancia por su repercusión sobre la estabilidad de los precios.
+Por lo tanto, teniendo en cuenta la importancia del sector energético en el resto de los sectores productivos y no productivos de la economía nacional y la evolución reciente de las cotizaciones internacionales del crudo, se ha considerado oportuno recurrir al instrumento regulado en el artículo 86 de la Constitución. Las medidas de carácter fiscal y de carácter estructural que se contienen en el presente Real Decreto-ley permitirán una más eficiente respuesta de la oferta a los impulsos de la demanda.
+Dentro de las medidas de contenido económico, la alta variabilidad de las cotizaciones internacionales de materia prima y flete en los mercados internacionales de los gases licuados del petróleo (GLP's), cuyas cotizaciones provienen de fuentes limitadas en número y consecuentemente en volumen de operaciones, que las mismas representan, aconsejan, para aquellos consumos de marcado carácter social, es decir, para el suministro envasado, buscar fórmulas que garanticen una estabilidad en los precios, salvaguardando los intereses de los consumidores y manteniendo el régimen económico vigente. Por la misma razón, se incluye la aplicación de un tipo reducido de IVA y la modificación de la tarifa del Impuesto Especial de Hidrocarburos para el GLP envasado.
+Por lo que se refiere a las medidas de carácter estructural que se contienen en este Real Decreto-ley, las mismas se refieren tanto a la actuación del mayor número de agentes en el mercado de gas natural y gases licuados del petróleo, como a la introducción de medidas de información al consumidor que le facilite una mejor elección en su demanda de carburantes. A su vez, a través de la adopción de medidas que van a posibilitar la aparición de un mayor número de suministradores de productos petrolíferos, tanto en núcleos urbanos, como en determinadas vías de comunicación, se profundiza en una mayor competencia y transparencia en el mercado.
+Las medidas contenidas en este Real Decreto-ley tendrán, en definitiva, una incidencia directa sobre los precios de los carburantes y combustibles al tiempo que reforzarán la competencia en la distribución de estos productos, lo que permitirá un funcionamiento más eficiente de este mercado.
+La necesidad de responder con urgencia a las pérdidas de competividad ocasionadas por los incrementos en los precios relativos, debido a su incidencia negativa sobre la evolución económica y el empleo, junto a las alteraciones que se podrían ocasionar en el mercado, en el supuesto de la tramitación ordinaria de las medidas, que aquí se recogen, justifican este Real Decreto-ley.
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y de los Ministros de Fomento y de Industria y Energía, previa deliberación del Consejo de Ministros en su reunión del día 1 de octubre de 1999, en uso de la autorización concedida en el artículo 86 de la Constitución,
+DISPONGO:
+
+### Artículo 1
+
+Artículo 1. Comercialización de los gases licuados del petróleo envasados.
+1. Al objeto de que se pueda proceder a la comercialización de gases licuados del petróleo envasados en establecimientos comerciales y estaciones de servicio, se autoriza el almacenamiento de envases de gases licuados del petróleo con capacidad unitaria de hasta 15 kilogramos, en dichas instalaciones. La capacidad de almacenamiento en estos supuestos será de 500 Kilogramos como máximo, debiendo cumplir las mencionadas instalaciones, en todo caso, las condiciones técnicas y de seguridad reglamentariamente establecidas para las capacidades citadas.
+2. Se autoriza el transporte de envases que contengan gases licuados del petróleo, de hasta 15 kilogramos de capacidad unitaria, en vehículos de uso particular y con un máximo de dos envases, siempre que se transporten en posición vertical cuando estén llenos y se adopten las medidas adecuadas para evitar su caída. Queda prohibido el estacionamiento de vehículos que contengan envases de gases licuados del petróleo, cualquiera que sea su volumen y carga, en estacionamientos subterráneos.
+
+### Artículo 2
+
+Artículo 2. Comercializadores de gas natural.
+En tanto no se proceda al desarrollo reglamentario del artículo 80 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, la Dirección General de la Energía del Ministerio de Industria y Energía podrá autorizar con carácter provisional a aquellas personas jurídicas que pretendan desarrollar la actividad de comercialización de gas natural en todo el territorio nacional o en más de una Comunidad Autónoma y acrediten la suficiente capacidad legal, técnica y económica.
+Esa autorización provisional se concederá sin perjuicio de la necesidad de obtener la autorización definitiva en el plazo y con los requisitos que se establezcan en el mencionado desarrollo reglamentario.
+
+### Artículo 3
+
+Artículo 3. Modificación de la Ley 37/1992, de 28 de diciembre, reguladora del Impuesto sobre el Valor Añadido.
+Se añade un nuevo apartado al artículo 91.uno.1 de la Ley 37/1992, de 28 de diciembre, reguladora del Impuesto sobre el Valor Añadido.
+«10.º El gas licuado del petróleo envasado.»
+Redactado conforme a la corrección de errores publicada en BOE núm. 242, de 9 de octubre de 1999. Ref. BOE-A-1999-20064.
+
+### Artículo 4
+
+Artículo 4. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+Se modifica el epígrafe 1.8 de la tarifa 1. a del artículo 50 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que queda redactado como sigue:
+«Epígrafe 1.8 GLP destinados a usos distintos a los de carburante: 0 pesetas por tonelada.»
+
+### Artículo 5
+
+Artículo 5. Precios de gases licuados del petróleo envasado.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.g) de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue derogado por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se deroga por la disposición derogatoria única.2.g) del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 6
+
+Artículo 6. Comercialización de gases licuados del petróleo en establecimientos comerciales y estaciones de servicio.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.g) de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Téngase en cuenta que este artículo ya fue derogado por el Real Decreto-ley 8/2014, de 4 de julio.
+ Se deroga por la disposición derogatoria única.2.g) del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+
+### Artículo 7
+
+Artículo 7. Carteles informativos.
+1. En los accesos a las autopistas del Estado en régimen de concesión será obligatoria la colocación de carteles informativos en los que se indique, en todo caso, la distancia a las estaciones de servicio más próximas o a las ubicadas en las áreas de servicio, así como el tipo, precio y marca de los carburantes y combustibles petrolíferos ofrecidos en aquéllas. Será responsabilidad del concesionario de la autopista la instalación, conservación y mantenimiento de dichos carteles, así como la actualización de su información, operaciones que, en todo caso, se harán sin riesgo alguno para la seguridad vial. A tal fin, los titulares de estaciones de servicio deberán informar al concesionario de las variaciones de los precios que se produzcan.
+2. En las proximidades de las estaciones de servicio en las carreteras estatales, y siempre que no se opte por la posibilidad prevista en el párrafo segundo de este apartado, será obligatoria la colocación de carteles informativos en los que se indique, en todo caso, la distancia a las estaciones de servicio más próximas, así como el tipo, precio y marca de los carburantes y combustibles petrolíferos ofrecidos en aquéllas. Será responsabilidad del titular de la estación de servicio donde se ubique el cartel, la instalación, conservación y mantenimiento de dichos carteles, así como la actualización de su información, operaciones que, en todo caso, se harán sin riesgo alguno para la seguridad vial.
+Alternativamente, la obligación de información mediante la instalación de carteles a que se refiere el párrafo anterior se entenderá cumplida mediante la adhesión de los titulares de estaciones de servicio, situadas en carreteras estatales, al sistema de información de precios de carburantes previsto en el artículo 5 del Real Decreto-ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en los Mercados de Bienes y Servicios, de modo que los usuarios accedan, en todo caso, a la información sobre ubicación de sus instalaciones, tipo, precio y marca de los combustibles ofrecidos, a través de la telefonía móvil o de cualquier otro medio telemático.
+3. La ubicación de los carteles mencionados en los apartados 1 y 2 de este artículo se efectuará en las zonas de dominio público o de servidumbre de las autopistas o carreteras, debiendo ser autorizada por la Dirección General de Carreteras. La forma, colores y dimensiones de los carteles informativos se establecerán por el Ministerio de Fomento.
+4. Los titulares de estaciones de servicio a los que hace referencia el apartado 2, deberán notificar la utilización de uno de los dos mecanismos de transmisión de la información previstos a la Dirección General de Carreteras o Administración competente.
+5. Por estaciones de servicio se entenderán todas las instalaciones de distribución de productos petrolíferos a vehículos abiertas al público con carácter general, que figuren en los Registros de instalaciones de distribución al por menor de las Comunidades Autónomas y en el Registro del Ministerio de Economía.
+Se modifica por el art. 103 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 242, de 9 de octubre de 1999. Ref. BOE-A-1999-20064.
+
+### Artículo 8
+
+Artículo 8. Preferencia en la adjudicación de áreas de servicio.
+En los concursos en los que, de acuerdo con la normativa vigente en materia de carreteras estatales, se contemple la concesión de instalaciones de distribución al por menor de productos petrolíferos, incluidas en áreas de servicio, se ponderarán favorablemente las proposiciones que no impliquen suministro en exclusiva con el mismo operador al por mayor u operador del mismo grupo empresarial que el que suministre en exclusiva a las estaciones de servicio inmediatamente anterior y posterior, en el mismo sentido de circulación a la que es objeto del concurso.
+
+### Artículo 9
+
+Artículo 9. Concesión de nuevas estaciones de servicio.
+El Ministerio de Fomento, de oficio o a solicitud de cualquier interesado, cuando la ubicación y las características de las áreas de servicio de las carreteras estatales lo permitan, convocará concursos para el otorgamiento, dentro de la misma área, de concesiones independientes para la construcción y explotación de distintas instalaciones de distribución al por menor de productos petrolíferos.
+
+### Artículo 10
+
+Artículo 10. Modificación de la Ley 25/1998, de 29 de julio, de Carreteras.
+Se da nueva redacción al párrafo segundo del artículo 19.4 de la Ley 25/1988, de 29 de julio, de Carreteras, en los siguientes términos:
+«La adjudicación de las concesiones de áreas de servicio que, en todo caso, se realizará por concurso, comprenderá las siguientes actuaciones:
+a) Determinación de la ubicación del área de servicio, así como de las instalaciones y servicios que incluirá y de los requisitos y condiciones de cada uno de ellos. Corresponderá al Ministro de Fomento o al órgano en quien éste delegue tal determinación, previo informe de la Dirección General de Carreteras, sobre los requisitos técnicos y de seguridad y, en su caso, si se incluyeran estaciones de servicio, del Ministerio de Industria y Energía. Ambos informes serán evacuados en el plazo de quince días, prosiguiendo las actuaciones de no emitirse en dicho plazo.
+El Ministro de Fomento actuará de oficio o a instancia de cualquier interesado que solicite la concesión de la explotación o de la construcción y explotación de un área de servicio o de cualquiera de sus elementos integrantes, incluyendo en su solicitud la documentación acreditativa de su personalidad y una memoria indicativa de la situación y características del área o de la instalación cuya concesión se interese. Tal solicitud será resuelta en el plazo máximo de un mes desde su presentación y sólo podrá ser denegada la continuación del procedimiento si el área de servicio no cumpliera los requisitos técnicos y de seguridad establecidos por la normativa aplicable, haciéndose constar así por resolución motivada. La falta de respuesta expresa, en el citado plazo de un mes, conllevará la necesidad de cumplir el trámite previsto en el párrafo anterior y los demás indicados en los párrafos siguientes.
+b) Información pública por plazo no inferior a veinte días, que se anunciará en el "Boletín Oficial del Estado" y en un diario de amplia circulación en la zona afectada, a fin de que cualquier persona física o jurídica pueda formular las alegaciones o sugerencias que estimen convenientes.
+c) Aprobación por el Ministro de Fomento del pliego de cláusulas administrativas particulares para la ejecución de las obras y la explotación del servicio, con señalamiento expreso de los plazos de iniciación y terminación de las obras y de los efectos de su incumplimiento, así como del plazo de la concesión, canon a satisfacer y garantías técnicas y económicas que deberán presentar los concursantes.
+d) Resolución por el Ministerio de Fomento del expediente de contratación, de conformidad con lo establecido en la legislación de contratos de las Administraciones públicas.»
+
+### Artículo 11
+
+Artículo 11. Planificación en materia de estaciones de servicio.
+1. El Gobierno, de conformidad con lo previsto en el artículo 4 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, procederá a la aprobación de criterios generales para la determinación del número mínimo de instalaciones de suministro de productos petrolíferos al por menor en función de la densidad, distribución y características de la población, de la densidad de circulación de vehículos, así como de aquellos otros parámetros que se estimen precisos.
+Asimismo, se podrán aprobar criterios particulares para aquellas zonas del territorio que los requieran en atención a sus características específicas de población, circulación de vehículos o grado de desarrollo del mercado de distribución al por menor de productos petrolíferos.
+Una vez aprobados estos criterios, cuya elaboración se efectuará con la participación de las Comunidades Autónomas, serán presentados al Congreso de los Diputados.
+2. En el plazo de dos meses desde la aprobación de los criterios a que se refiere el apartado 1 de este artículo, por parte de las Entidades locales en cuyo ámbito territorial aquéllos no se cumplan y, en su caso, por parte de las Comunidades Autónomas en las que estén ubicadas, se procederá, en el ámbito de sus respectivas competencias, a adaptar los instrumentos de ordenación del territorio y a efectuar las actuaciones que resulten necesarias para hacer posible el cumplimiento de los mismos, calificando adecuadamente los terrenos y estableciendo las reservas de suelo necesarias para la ubicación de las nuevas instalaciones.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones, de igual o inferior rango, se opongan a lo dispuesto en el presente Real Decreto-ley.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente Real Decreto-ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 1 de octubre de 1999.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

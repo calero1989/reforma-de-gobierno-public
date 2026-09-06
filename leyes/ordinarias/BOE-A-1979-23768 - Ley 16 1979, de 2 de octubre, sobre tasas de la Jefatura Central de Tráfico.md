@@ -1,0 +1,211 @@
+# Ley 16/1979, de 2 de octubre, sobre tasas de la Jefatura Central de Tráfico.
+
+- Identificador BOE: `BOE-A-1979-23768`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1979-23768
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo 1
+
+Artículo 1.
+Las tasas que se regulan por la presente Ley constituyen tributos de carácter estatal exigibles como contraprestación de los servicios y actividades prestados por el Organismo autónomo Jefatura Central de Tráfico, dependiente del Ministerio del Interior, y se regirán por esta Ley y, en lo no previsto en la misma, por la de Tasas y Exacciones Parafiscales de veintiséis de diciembre de mil novecientos cincuenta y ocho, Ley General Tributaria de veintiocho de diciembre de mil novecientos sesenta y tres, Ley sobre Régimen Jurídico de las Entidades Estatales Autónomas de veintiséis de diciembre de mil novecientos cincuenta y ocho y demás disposiciones concordantes.
+
+### Artículo 2
+
+Artículo 2.
+Ámbito de aplicación.–Las tasas reguladas por la presente Ley se aplicarán en todo el territorio español.
+
+### Artículo 3
+
+Artículo 3.
+Hecho imponible.–Constituye el hecho imponible la realización de las actividades o la prestación de los servicios especificados en las tarifas que figuran en el artículo sexto de la presente Ley.
+
+### Artículo 4
+
+Artículo 4.
+Sujeto pasivo.–Quedan obligados al pago de las tasas las personas naturales o jurídicas a quienes, bien por propia solicitud o en virtud de preceptos legales o reglamentarios, afecten las actividades o servicios que constituyen los hechos imponibles.
+
+### Artículo 5
+
+Artículo 5. Exenciones y bonificaciones
+1. Están exentos del pago de la tasa:
+a) Los miembros, incluyendo el personal técnico-administrativo, de las misiones diplomáticas, de las oficinas consulares y de las organizaciones internacionales con sede u oficina en España, así como sus ascendientes, descendientes y cónyuges, que soliciten la obtención del permiso de conducción español en las condiciones establecidas en el artículo 31 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo. La exención será igualmente aplicable cuando soliciten los permisos de circulación que procedan conforme al grupo I del artículo 6 de la presente Ley, en los casos en que sea procedente la utilización de las placas de matrícula recogidas en el anexo XVIII, apartado I.B. letra a) del Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre.
+b) Los mayores de 70 años que soliciten la prórroga de la vigencia del permiso u otra autorización administrativa para conducir de que sean titulares.
+c) Quienes obtengan autorización para el cambio de matrícula de un vehículo a motor por razones, exclusivamente, de seguridad personal, en los términos que reglamentariamente se determinen.
+d) Quienes soliciten duplicados de las autorizaciones administrativas para conducir o para circular por cambio de domicilio.
+e) Quienes soliciten la baja definitiva de un vehículo por entrega en un establecimiento autorizado para su destrucción.
+f) Quienes soliciten la baja temporal del vehículo por sustracción y la posterior cancelación por aparición del mismo.
+g) La Agencia Estatal de Administración Tributaria y la Tesorería General de la Seguridad Social, cuando soliciten anotaciones y cancelaciones de embargos y precintos en el Registro de Vehículos, así como el Consorcio de Compensación de Seguros cuando solicite datos de dicho Registro.
+2. Aquellos que por razón de sus aptitudes psicofísicas vengan obligados a solicitar la prórroga de vigencia de un permiso u otra autorización administrativa para conducir de que sean titulares con frecuencia mayor a la que normalmente les correspondería tendrán derecho a una bonificación del 80 por 100 de la cuantía de la tasa cuando la prórroga se produzca por períodos iguales o inferiores a un año, reduciéndose la bonificación en 20 puntos porcentuales por cada año adicional. La tasa se abonará en su totalidad a partir de períodos de vigencia superiores a cuatro años. Una vez calculado el importe reducido, se le aplicará el redondeo de cantidades aprobado con carácter general para las tasas de la Jefatura Central de Tráfico con el fin de obtener la cuantía a exigir.
+Se modifica la letra d) y se añade la e) por la disposición final 5.1 de la Ley 11/2007, de 23 de junio. Ref. BOE-A-2007-12352
+ Se suprime la letra e) y se modifica el apartado 2, con efectos a partir del 1 de enero de 2002, por el art. 15.1 y 2 de la Ley 24/2001, de 27 de diciembre.Ref. BOE-A-2001-24965
+ Se modifica, con efectos desde el 1 de enero de 2001, por el art. 9.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se añaden las letras d) y e) al apartado 1 por el art. 15.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica por el art. 25.1 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 6
+
+Artículo 6.
+Cuota tributaria.–Las tasas se exigirán con arreglo a las siguientes tarifa:
+Euros
+ Grupo I. Permisos de circulación:
+ 1. Expedición de permisos de circulación
+ 97,80
+ 2. Expedición de licencias de circulación de ciclomotores y cambios de titularidad de los mismos
+ 27,30
+ 3. Tramitación de solicitud de autorizaciones complementarias de circulación y sus modificaciones previstas en el artículo 14 del Reglamento General de Vehículos: incluido en el importe de la tasa cualquier modificación de la autorización inicial
+ 130,10
+ 4. Permisos y autorizaciones de carácter temporal para traslados y pruebas de vehículos y autorizaciones especiales en razón del vehículo o utilización de la carretera
+ 20,20
+ 5. Cambios de titularidad de permisos de circulación
+ 54,60
+ 6. Cambio de titularidad del permiso de circulación por operaciones de fusión, escisión o aportación no dineraria de ramas de actividad de entidades de sus titulares
+ 9,70
+ Grupo II. Permisos para conducción:
+ 1. Obtención del permiso de conducción de cualquier clase previa realización de exámenes o por canje que requiera la realización de pruebas prácticas de conducción
+ 92,20
+ 2. Obtención de licencias de conducción
+ 43,70
+ 3. Obtención de permisos o licencia de conducción por haber perdido el crédito de puntos o por canje, cuando éste no requiera la realización de pruebas prácticas de conducción, así como la expedición del permiso A tras la superación de la formación exigida sin examen.
+ 28,30
+ Grupo III. Centros de formación y de reconocimiento de conductores:
+ 1. Autorización de apertura y funcionamiento o inscripción de escuelas particulares de conductores o secciones de las mismas, de otros centros de formación, o de centros de reconocimiento de conductores
+ 433,20
+ 2. Modificación de la autorización de funcionamiento por alteración de los elementos personales o materiales de las escuelas particulares de conductores o secciones de las mismas, de otros centros de formación, o de centros de reconocimiento de conductores: con o sin inspección
+ 43,70
+ 3. Expedición de certificados de aptitud para directores y profesores de escuelas particulares de conductores y otras titulaciones cuya expedición esté atribuida a la Dirección General de Tráfico, así como duplicados de los mismos
+ 98,00
+ Grupo IV. Otras tarifas:
+ 1. Anotaciones de cualquier clase en los expedientes, suministro de datos, certificaciones, cotejos, copias auténticas cuando no proceda la expedición de duplicado, desglose de documentos y sellado de cualesquiera placas o libros
+ 8,50
+ 2. Inspección practicada en virtud de precepto reglamentario (con un máximo de dos al año)
+ 78,40
+ 3. Prórroga de vigencia de los permisos de conducción
+ 24,10
+ Si por razón de aptitudes psicofísicas vienen obligados a solicitar la prórroga de vigencia de un permiso o autorización administrativa para conducir, con mayor frecuencia a la que normalmente les correspondería por edad, tendrán derecho a una bonificación que varía en función del tiempo por el que se concede como se enumera a continuación.
+ 3.1 Prórroga de vigencia de permisos u otras autorizaciones para conducir (BTP) hasta 1 año (80 % descuento
+ 4,90
+ 3.2 Prórroga de vigencia de permisos u otras autorizaciones para conducir (BTP) hasta 2 años (60 % descuento)
+ 9,70
+ 3.3 Prórroga de vigencia de permisos u otras autorizaciones para conducir (BTP) hasta 3 años (40 % descuento)
+ 14,50
+ 3.4 Prórroga de vigencia de permisos u otras autorizaciones para conducir (BTP) hasta 4 años (20 % descuento)
+ 19,30
+ 4. Duplicados de permisos y licencias de conducción y de circulación
+ 20,40
+ 5. Otras autorizaciones otorgados por el Organismo
+ 10,30
+ 6. Anotación del resultado de la inspección técnica de vehículos en el Registro de Vehículos de la Jefatura Central de Tráfico, en los casos en que exista obligación reglamentaria de realizar la citada inspección
+ 4,10
+ 7. Prestación de servicios de escolta, control y regulación de la circulación de vehículos que por sus características técnicas o en razón de las cargas que transportan exceden de las masas y dimensiones máximas autorizadas o transitan a velocidades inferiores a las mínimas reglamentariamente establecidas, efectuados por los Agentes de la Agrupación de Tráfico de la Guardia Civil:
+ Tarifa: Euros por hora y agente destinado a la prestación del servicio
+ 33,00
+Se actualizan las cantidades, a partir del 5 de julio de 2018, facilitadas por la Dirección General de Tráfico, calculadas conforme al art. 86.1 de la Ley 6/2018, de 3 de julio Ref. BOE-A-2018-9268#ar-80.
+ Téngase en cuenta que las tasas exigibles por la Jefatura Central de Tráfico se actualizan cada año conforme establece la Ley de Presupuestos Generales del Estado.
+ Se actualizan las cantidades, a partir del 1 de enero de 2015, facilitadas por la Dirección General de Tráfico, calculadas conforme al art. 65.1 de la Ley 36/2014, de 26 de diciembre Ref. BOE-A-2014-13612#a65.
+ Téngase en cuenta que las tasas exigibles por la Jefatura Central de Tráfico se actualizan cada año conforme establece la Ley de Presupuestos Generales del Estado.
+ Se modifica el grupo II.3 por el art. 84 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica, con efectos de 1 de enero de 2009 por el art. 76 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Se modifica el apartado 4 y 4 bis del grupo IV, por la disposición final 5.2 de la Ley 11/2007, de 23 de junio. Ref. BOE-A-2007-12352
+ Se añade el apartado 5.1 al grupo I, por la disposición final 3 de la Ley 25/2006, de 17 de julio. Ref. BOE-A-2006-12915
+ Se añade una nueva tarifa 9 dentro del grupo IV. por el art. 13.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica el texto de la tasa 3 y las tarifas 3.1 y 3.2 del Grupo I, por el art. 15. 3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifica, con efectos a partir del 1 de enero de 2001 por el art. 9.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica el grupo II.1 y 4, el IV.4 y 8 por el art. 25.2 y 3 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se actualiza por el art. único del Real Decreto 572/1992, de 29 de mayo. Ref. BOE-A-1992-13031.
+ Véase el art. 1 sobre la exención del pago de tasas de la Ley 24/1985, de 24 de julio. Ref. BOE-A-1985-16117
+
+### Artículo 7
+
+Artículo 7.
+Devengo.–Se devenga y surge la obligación de pago del tributo en el momento de solicitarse los servicios sujetos a gravamen o, en su defecto, al realizarse la actividad impuesta por precepto legal o reglamentario.
+
+### Artículo 8
+
+Artículo 8.
+Destino.–El producto de las tasas reguladas por la presente Ley se aplicará al presupuesto de ingresos del Organismo autónomo Jefatura Central de Tráfico.
+
+### Artículo 9
+
+Artículo 9.
+Administración.–La gestión directa y efectiva de las tasas objeto de esta Ley estará a cargo del Organismo autónomo Jefatura Central de Tráfico.
+
+### Artículo 10
+
+Artículo 10.
+Liquidación.–La liquidación de las tasas se practicará por las oficinas centrales y provinciales de la Jefatura Central de Tráfico que realicen las actividades o presten los servicios concretos de que se trate, notificándose por escrito al interesado. En los casos en que se establezcan reglamentariamente, se practicará por el procedimiento de declaración liquidación a que se refiere el apartado k) del articulo diez de la Ley General Tributaria.
+
+### Artículo 11
+
+Artículo 11. Recaudación.
+El pago de las tasas se efectuará en metálico o por cualquier otro medio de pago admitido por la normativa aplicable a ingresos públicos.
+El ingreso de lo recaudado se efectuará en la cuenta intervenida del organismo, abierta en el Banco de España o en cualquier otra entidad de crédito, en los términos previstos en el artículo 118 del texto refundido de la Ley General Presupuestaria, y previa autorización de la Dirección General del Tesoro Público y Política Financiera.
+Cuando para el cobro sea preciso utilizar el procedimiento de apremio, éste se ajustará a lo establecido en el Reglamento General de Recaudación.
+Se modifica, con efectos a partir del 1 de enero de 2002, por el art. 15.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Artículo 12
+
+Artículo 12.
+Recursos.–Los actos administrativos resultantes de aplicar los preceptos contenidos en la presente Ley, cuando determinen un derecho o una obligación, serán recurribles en vía económico-administrativa, y en, su caso, ante la jurisdicción contencioso-administrativa.
+
+### Artículo 13
+
+Artículo 13.
+Devoluciones.–Procederá la devolución de las cuotas que se hubieran exigido por la prestación de un servicio o desarrollo de un actividad cuando uno u otra no se realicen por causas imputables a la Administración.
+
+### Artículo 14
+
+Artículo 14. Sustitutos del contribuyente.
+1. No obstante lo previsto en el artículo cuarto de esta Ley, serán sujetos pasivos, como sustitutos del contribuyente, de la tasa por anotación del resultado de la inspección técnica de vehículos, las personas, organismos o estaciones que realicen la inspección.
+Los sujetos pasivos sustitutos repercutirán el importe de la tasa a quienes soliciten los servicios de inspección.
+Por Orden del Ministerio del Interior se establecerá la forma y plazos en que los sujetos pasivos sustitutos deberán liquidar e ingresar el importe de las tasas, no siendo a estos efectos de aplicación lo establecido en el artículo décimo de esta Ley.
+Los resultados de la inspección efectuada se comunicarán a la Jefatura Central de Tráfico que efectuará la anotación correspondiente.
+2. Serán también sujetos pasivos, como sustitutos del contribuyente, de la tasa por anotación de la baja del vehículo, los centros autorizados de recepción y descontaminación que emitan los certificados de destrucción del vehículo al fin de la vida útil del mismo, y en esa condición repercutirán el importe de la tasa a quienes soliciten la destrucción del vehículo.
+Por Orden del Ministerio del Interior se establecerán la forma y plazos en que los sujetos pasivos deberán liquidar e ingresar el importe de las tasas, previas las comprobaciones correspondientes, no siendo a estos efectos de aplicación lo establecido en el artículo décimo de esta Ley.
+Los referidos centros autorizados de recepción y descontaminación comunicarán a la Jefatura Central de Tráfico relación identificativa de los vehículos que hayan sido destruidos, con la periodicidad y procedimiento que se establezcan.
+Se modifica, con efectos desde el 1 de enero de 2003, por el art. 13.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 15.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se añade por el art. 25.4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 15
+
+Artículo 15. Modificación de las cuantías de las tasas.
+1. Sólo podrán modificarse, mediante Ley, el número e identidad de los elementos y criterios de cuantificación sobre la base de los cuales se determinan las cuotas y tipos exigibles.
+2. A los efectos de lo previsto en el apartado anterior, se consideran elementos y criterios de cuantificación del importe exigible los determinados en el artículo 6 de la presente Ley.
+3. La modificación de las cuantías fijas resultantes de la aplicación de los elementos y criterios a que se refieren los apartados anteriores podrán efectuarse mediante Orden ministerial.
+4. Las Órdenes ministeriales que, de conformidad con lo establecido en el anterior apartado de este artículo, modifiquen las cuantías fijas de la tasa, deberán ir acompañadas de una Memoria económico-financiera sobre el coste o valor del recurso o actividad de que se trate y sobre la justificación de la cuantía de la tasa propuesta, la cual deberá ajustarse al principio de equivalencia establecido en el artículo 7 de la Ley 8/1989, de 13 de abril.
+La falta de este requisito determinará la nulidad de pleno derecho de la disposición.
+Se añade, con efectos a partir del 1 de enero de 2002, por el art. 15.5 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Disposición final primera
+
+Disposición final primera.
+Queda subsistente el procedimiento de liquidación de tasas establecido en la Orden de treinta y uno de octubre de mil novecientos setenta y tres en tanto no se modifique reglamentariamente dicho procedimiento.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Quedan derogadas las siguientes disposiciones en la parte que hagan referencia a la creación, regulación o aplicación de las tasas que se regulan por esta Ley:
+– Decreto ciento treinta y dos/mil novecientos sesenta, de cuatro de febrero (Presidencia del Gobierno).
+– Decreto mil trescientos noventa y tres/mil novecientos sesenta y cinco, de veinte de mayo (Presidencia del Gobierno), artículo cuarto.
+– Ley ochenta y cinco/mil novecientos sesenta y siete, de ocho de noviembre.
+– Orden de cuatro de febrero de mil novecientos sesenta y nueve (Ministerio de la Gobernación), articulo séptimo.
+– Orden de diecisiete de marzo de mil novecientos sesenta y nueve (Ministerio de la Gobernación), artículos séptimo y diez.
+– Orden de dieciséis de mayo de mil novecientos sesenta y nueve (Ministerio de la Gobernación).
+– Decreto dos mil cuarenta y seis/mil novecientos setenta y uno, de trece de agosto (Presidencia del Gobierno), artículo sexto.
+– Orden de diecinueve de octubre de mil novecientos setenta y dos (Presidencia del Gobierno), normas segunda y cuarta.
+– Orden de tres de febrero de mil novecientos setenta y seis (Presidencia del Gobierno), articulo séptimo.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a dos de octubre de mil novecientos setenta y nueve.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

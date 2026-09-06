@@ -1,0 +1,216 @@
+# Ley 16/1984, de 20 de marzo, del Estatuto de la Función Interventora.
+
+- Identificador BOE: `BOE-A-1984-9841`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-9841
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que el Cuerpo de Interventores pasa a denominarse Cuerpo de Intervención, según establece la disposición adicional 8.1.a) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33, 2. del Estatuto de Autonomía, promulgo la siguiente Ley del Estatuto de la Función Interventora.
+Esta Ley responde al mandato de la disposición final primera de la Ley de Finanzas Públicas de Cataluña.
+En cumplimiento de este mandato legal, desarrolla el contenido de la función interventora definiendo las funciones, facultades y objetivos bajo el triple aspecto de centro de control interno, centro directivo de la contabilidad pública y centro de control financiero.
+Dadas las especiales características de esta función, adquiere especial importancia el Estatuto de los encargados de ejercerla, hasta el punto de que la misma Ley de Finanzas Públicas de Cataluña reserva el ejercicio de estas competencias a un cuerpo especial que crea en el artículo 72,3. Por ello no puede regularse el Estatuto de la Función Interventora si no se regula al mismo tiempo el Estatuto de los funcionarios que la ejercen, al menos en los principios generales que posteriormente deberán ser desarrollados reglamentariamente.
+Dado que la Ley de Finanzas Públicas de Cataluña opta por el modelo fijado por la Ley General Presupuestaria, la presente configura la función interventora siguiendo asimismo, adaptados a la Generalidad, los principios que en esta materia informan la Ley General Presupuestaria y la normativa reguladora de los Interventores de la Administración del Estado.
+
+### Artículo 1
+
+Artículo 1.
+Todos los actos, documentos y expedientes de la Administración de la Generalidad de los que puedan derivar derechos y obligaciones de contenido económico o movimiento de fondos o de valores, serán intervenidos de acuerdo con lo establecido por la Ley de Finanzas Públicas de Cataluña, la presente Ley y otras disposiciones complementarias.
+
+### Art 2
+
+Art. 2.
+1. El ejercicio de la función interventora corresponde a la Intervención General de la Generalidad, que debe actuar con plena autonomía respecto a los órganos y entidades sujetos a fiscalización y que tiene las siguientes facultades:
+a) Ser el centro de control interno de la Administración de la Generalidad y su sector público, sin perjuicio del control que ejercen el Tribunal de Cuentas y la Sindicatura de Cuentas.
+b) Ser el centro directivo de la contabilidad pública correspondiente a la Administración de la Generalidad y su sector público.
+2. El ejercicio de las funciones de control y contabilidad de acuerdo con la Ley de finanzas públicas de Cataluña corresponde al personal del Cuerpo de Intervención de la Generalidad de Cataluña.
+Se modifica por el art. 51.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 2 por el art. 107.1.a) de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8147 de 4 de junio de 2020. Ref. BOE-A-2020-6424
+
+### Art 3
+
+Art. 3.
+1. Corresponde a la Intervención de la Administración de la Generalidad:
+A. Como centro de control interno:
+a) Fiscalizar todos los actos administrativos que den lugar al reconocimiento y a la liquidación de derechos y obligaciones de contenido económico, o que tengan repercusión financiera o patrimonial en los casos establecidos por las disposiciones vigentes, e intervenir los ingresos y los pagos que se deriven.
+La Intervención debe fiscalizar los expedientes de tramitación ordinaria en el plazo de diez días, o de cuatro si han sido declarados de tramitación urgente.
+En caso de que el expediente haya sido devuelto al órgano gestor para que lo revise o lo enmiende, la Intervención dispone de un nuevo plazo para fiscalizarlo equivalente a la mitad del inicial.
+En el supuesto de que la Intervención pida antecedentes o informes complementarios por escrito sin devolver el expediente, el plazo debe interrumpirse hasta que le sean entregados.
+b) Intervenir y comprobar materialmente el gasto realizado con los caudales públicos, requiriendo, en su caso, la ayuda de funcionarios especializados para la emisión de informes razonados sobre la comprobación material de las obras, suministros, adquisiciones y servicios.
+Esta comprobación debe realizarse de acuerdo con las instrucciones anuales que apruebe la Intervención General a estos efectos, que deben fundamentarse en un análisis de riesgos del ámbito u operaciones a controlar o en una obligación legal, así como en los medios disponibles y el tiempo necesario para realizarla.
+c) Presenciar e intervenir el movimiento de caudales, artículos y efectos en los establecimientos fabriles almacenes y cajas, y comprobar las dotaciones de personal, las existencias en metálico los efectos, artículos y materiales.
+d) Asistir a las licitaciones que se realicen en la contratación de obras, la gestión de servicios públicos, los suministros, los arrendamientos y la adquisición y enajenación de bienes. La asistencia a las mesas de contratación es potestativa y se concreta de acuerdo con los criterios que establezca la Intervención General.
+e) Promover e interponer, en nombre e interés de la Hacienda de la Generalidad, los recursos que correspondan de acuerdo con las disposiciones que regulen las reclamaciones económico-administrativas ante los Tribunales o los Organismos que hayan de resolver aquellas que sean de la competencia de la Generalidad. Asimismo pondrá en conocimiento de las autoridades superiores del Departamento de Economía y Finanzas los actos y las resoluciones que además de incidir en los supuestos legales de revisión se consideren perjudiciales para la Tesorería de la Generalidad.
+f) Las restantes funciones que le confieran las leyes y las disposiciones vigentes.
+B. Como centro directivo de la contabilidad pública:
+a) Dirigir la contabilidad de la Administración de la Generalidad de Cataluña, la centralizada, la descentralizada, la territorial y la institucional.
+b) Examinar, preparar y conformar las cuentas que los órganos de la Administración hayan de rendir al Tribunal de Cuentas y a la Sindicatura de Cuentas.
+c) Informar los expedientes de modificación, de créditos, sin perjuicio de las competencias atribuidas a la Dirección General de Presupuestos y Tesoro.
+d) Ejercer, en relación con la contabilidad de las Empresas públicas, las facultades establecidas por el artículo 79 de la Ley de Finanzas Públicas de Cataluña y, con esa finalidad, dar instrucciones, inspeccionar y requerir las datos y los antecedentes que crea oportuno.
+C. Como centro de control financiero interno:
+a) Ejercer el control financiero en el ámbito territorial de la Administración de la Generalidad.
+b) Dirigir y, en su caso, realizar las auditorías a que se refiere el artículo 75 de la Ley de Finanzas Públicas de Cataluña.
+c) Emitir los informes que requieran los Departamentos, Organismos autónomos y otros Entes relacionados con la actividad financiera de la respectiva competencia de aquellos.
+d) Ejercer el control de eficacia mediante el análisis del costo de funcionamiento y del rendimiento o la utilidad de los servicios o las inversiones respectivas, y del cumplimiento de los programas correspondientes.
+e) Los restantes servicios que, según sus específicas competencias y funciones, tengan asignados o le serán asignados en el futuro.
+2. El reglamento determinará los casos en que el informe de la Intervención tenga carácter suspensivo y la autoridad que deba resolver la discrepancia.
+Se modifican las letras a) y d) del apartado 1.A) por los arts. 34 y 35.1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica la letra b) del apartado 1.A) por el art. 51.2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Art 4
+
+Art. 4.
+Los Interventores de la Administración de la Generalidad, que pertenecerán al Cuerpo Especial a que se refiere el artículo 72, 3, de la Ley de Finanzas Públicas de Cataluña, tendrán a su cargo en el ámbito territorial de la Administración de la Generalidad, las funciones interventoras, contables y de control financiero interno expresadas en el artículo 2 de la presente Ley, y también las derivadas y complementarias del presente artículo.
+
+### Art 5
+
+Art. 5.
+Los Interventores actuarán expresamente en cada caso como delegados del Interventor de la Generalidad y ejercerán sus funciones con absoluta independencia de las autoridades cuya gestión fiscalicen, de acuerdo con la presente Ley, con la Ley de Finanzas Públicas de Cataluña y con las restantes disposiciones que sean aplicables.
+
+### Art 6
+
+Art. 6.
+1. El personal del Cuerpo de Intervención de la Generalidad de Cataluña depende jerárquica y funcionalmente del interventor o interventora general de la Generalidad, el cual asigna los destinos.
+2. El personal del Cuerpo de Intervención de la Generalidad debe ejercer sus funciones con plena autonomía respecto de las autoridades, entidades, unidades y órganos de la Generalidad de su ámbito de actuación, de acuerdo con la normativa correspondiente y las instrucciones de la Intervención General.
+3. El interventor o interventora general, con el fin de cumplir las funciones atribuidas, puede asignar los destinos del personal de la Intervención General.
+Se modifica por el art. 51.3 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Art 7
+
+Art. 7.
+1. El interventor o interventora general de la Generalidad se nombra por decreto del Gobierno, a propuesta de la persona titular del departamento competente en materia de finanzas públicas, y debe pertenecer al Cuerpo de Intervención de la Generalidad de Cataluña que establece esta ley.
+2. El Gobierno debe determinar mediante decreto la estructura, las competencias y las funciones de la Intervención General de la Generalidad.
+3. El interventor o interventora general puede emitir las instrucciones necesarias para el ejercicio de las funciones que tiene asignadas la Intervención General.
+Se modifica por el art. 51.4 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica por el art. 107.2 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifican los apartados 3 y 5 por el art. 170.1 y 2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-81
+
+### Art 8
+
+Art. 8.
+1. El Consejero competente en materia de función publica ejercerá respecto a los funcionarios del Cuerpo de Intervención de la Generalidad de Cataluña las competencias a que se refiere el artículo 12 de la Ley 17/1985, de 23 de julio, de la Función Pública de la Administración de la Generalidad.
+2. El nombramiento de Interventores de la Administración de la Generalidad se realizará previa convocatoria pública y por los sistemas de oposición o concurso-oposición.
+3. Para el acceso al Cuerpo de Intervención de la Generalidad de Cataluña se precisará la posesión del titulo de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
+4. Los Interventores ejercen sus funciones en todo el ámbito de la Administración pública e institucional, incluida la Seguridad Social, de la Generalidad de Cataluña.
+Se modifica por el art. 107.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8147 de 4 de junio de 2020. Ref. BOE-A-2020-6424
+ Se modifica por la disposición adicional 23 de la Ley 20/1990, de 28 de diciembre. Ref. BOE-A-1991-3241.
+
+### Art 9
+
+Art. 9.
+1. Si lo creyere conveniente para el cumplimiento de la función o lo dispusieran las leyes, el Consejo Ejecutivo podrá acordar el acceso al Cuerpo de Intervención de la Generalidad de Cataluña por la vía de concurso de méritos, al que podrán acudir los funcionarios que hayan acreditado experiencia y conocimientos en contabilidad pública y control financiero interno. A estos efectos se entenderá exclusivamente que tienen acreditados los conocimientos y la experiencia para ejercer de Interventores en los servicios transferidos de la Seguridad Social, los funcionarios que pertenezcan al Cuerpo de Intervención de la Seguridad Social, y para el resto de la Administración de la Generalidad los que pertenezcan al Cuerpo de intervención de la Administración Civil del Estado o al Cuerpo de Interventores de la Administración Local.
+2. Se determinarán reglamentariamente el número de plazas que habrán de cubrirse por este sistema y los baremos homogéneos de méritos.
+Se modifica por el art. 107.1.b) de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado conforme a la corrección de errores publicada en el DOGC núm. 8147 de 4 de junio de 2020. Ref. BOE-A-2020-6424
+
+### Art 10
+
+Art. 10.
+1. Se crean, dentro del Cuerpo de Intervención de la Generalidad de Cataluña, la Escala Superior de Intervención y la Escala Técnica de Control y Contabilidad.
+2. Son funciones propias de la Escala Superior de Intervención las siguientes:
+a) Fiscalizar todos los actos administrativos susceptibles de dar lugar al reconocimiento y a la liquidación de derechos y obligaciones de contenido económico, o que tengan repercusión financiera o patrimonial en los casos establecidos por las disposiciones vigentes, e intervenir los ingresos y los pagos que se deriven.
+b) Intervenir y comprobar la inversión de los caudales públicos.
+c) Presenciar e intervenir el movimiento de caudales, de artículos y de efectos en los establecimientos, los almacenes y las cajas, y comprobar las dotaciones de personal, las existencias en metálico, los efectos, los artículos y los materiales.
+d) Asistir a las licitaciones que se realicen en la contratación de obras, la gestión de servicios públicos, los suministros, los arrendamientos y la adquisición y enajenación de bienes.
+e) Promover e interponer, en nombre y en interés de la hacienda de la Generalidad, los recursos que correspondan, de acuerdo con las correspondientes disposiciones.
+f) Dirigir la contabilidad de la Administración de la Generalidad.
+g) Fiscalizar, preparar y conformar las cuentas contables que los órganos de la Administración de la Generalidad deban rendir a los órganos de control externo.
+h) Fiscalizar los expedientes de modificación de créditos.
+i) Ejercer, en relación con la contabilidad de las empresas públicas, las facultades establecidas por el artículo 76 del texto refundido de la Ley de Finanzas Públicas de Cataluña.
+j) Ejercer el control financiero y el control posterior.
+k) Dirigir y, si procede, realizar las auditorías a las que se refiere el artículo 71 del texto refundido de la Ley de finanzas públicas de Cataluña.
+l) Emitir los informes que requieran los departamentos, organismos autónomos y otros entes relacionados con la actividad financiera de las respectivas competencias.
+m) Ejercer el control de eficacia, mediante el análisis del coste de funcionamiento y del rendimiento o la utilidad de los respectivos servicios o inversiones, y del cumplimiento de los correspondientes programas.
+n) Ejercer el control, el seguimiento y la evaluación de la gestión en el ámbito económico y financiero, mediante auditorías de gestión e informes y análisis globales o específicos sobre resultados, riesgos, organización, procedimientos, sistemas y programas.
+o) Las que le atribuya la Ley de finanzas públicas de Cataluña.
+p) Las que deriven de las funciones anteriores o estén relacionadas.
+3. Son funciones propias de la Escala Técnica de Control y Contabilidad, realizando tareas de apoyo a la Escala Superior de Intervención, las siguientes tareas:
+a) Fiscalizar los actos de fiscalización posteriores al de la fiscalización previa de los gastos materiales no inventariables, así como los de carácter periódico y los de trato sucesivo.
+b) Fiscalizar los expedientes de contratación administrativa, subvenciones, transferencias y ayudas.
+c) Fiscalizar la aplicación de los fondos a justificar, tanto los de carácter esporádico como renovables.
+d) Fiscalizar los expedientes de reconocimientos de derechos.
+e) Realizar las actuaciones de análisis y propuesta de los expedientes sometidos a control posterior.
+f) Llevar a cabo la intervención material de los caudales.
+g) Realizar la gestión, análisis y propuesta en las actuaciones de control financiero.
+h) Realizar la gestión, análisis y propuesta en las actuaciones de control de la gestión económica financiera.
+i) Realizar las actuaciones de gestión contable en el marco de las competencias de la Intervención General de la Administración de la Generalidad.
+j) Las que le atribuya por resolución del interventor general de la Administración de la Generalidad.
+k) Las que deriven de las funciones anteriores o estén relacionadas.
+Se añade por el art. 107.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado el apartado 3.a) conforme a la corrección de erratas publicada en el 8135, de 18 de mayo de 2020. Ref. BOE-A-2020-5901
+
+### Art 11
+
+Art. 11.
+1. El acceso a las escalas del Cuerpo de Intervención de la Generalidad de Cataluña, ya sea por el turno libre como por el turno de promoción interna, se realiza mediante concurso oposición, con las pruebas teóricas y prácticas que determine cada convocatoria, y se completa con la superación de un curso de formación de carácter selectivo.
+2. La mitad, como mínimo, de las plazas que se convoquen para acceder a la Escala Superior de Intervención deben ser para el turno de promoción interna y deben reservarse al personal que acredite una antigüedad mínima de cuatro años como funcionario de carrera de la Escala Técnica de Control y Contabilidad. Los procesos selectivos de acceso por el turno de promoción interna pueden establecer exenciones en relación a determinadas pruebas o ejercicios o en relación con la evaluación de las partes del temario que se consideren superadas.
+3. El Gobierno debe establecer por reglamento el contenido y duración de las pruebas selectivas y los cursos selectivos de formación para el acceso a las escalas del Cuerpo de Intervención de la Generalidad de Cataluña, el contenido del temario que debe regir la fase de oposición y las reglas sobre composición y sistema de designación de los tribunales calificadores.
+4. Pueden articularse mecanismos de promoción interna horizontal para acceder a la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña por parte del personal funcionario de carrera del Cuerpo Superior de Administración de la Generalidad de Cataluña que acredite haber prestado servicios durante dos años, como mínimo, en puestos de trabajo de este cuerpo.
+Se modifica el apartado 2 y se añade el 4 por el art. 51.5 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se añade por el art. 107.3 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición transitoria
+
+Los funcionarios adscritos o traspasados que hayan sido nombrados Interventores de la Generalidad por disposición publicada en el «Diari Oficial de la Generalitat de Catalunya» y pertenezcan a los Cuerpos de Interventores enumerados en el artículo 9, 1, quedarán integrados en el Cuerpo de Interventores de la Generalidad con la antigüedad de su nombramiento en la Administración de la Generalidad, y ejercerán las funciones con la diversificación Prevista en el mencionado artículo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los funcionarios adscritos o traspasados que hayan sido nombrados Interventores de la Generalidad por disposición publicada en el «Diari Oficial de la Generalitat de Catalunya» y pertenezcan a los Cuerpos de Interventores enumerados en el artículo 9, 1, quedarán integrados en el Cuerpo de Interventores de la Generalidad con la antigüedad de su nombramiento en la Administración de la Generalidad, y ejercerán las funciones con la diversificación Prevista en el mencionado artículo.
+Se numera como disposición transitoria primera por el art. 51.6 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Su anterior denominación era disposición transitoria.
+
+### Disposición transitoria [sic]
+
+Disposición transitoria [sic]. Régimen de integración del personal funcionario en las escalas del Cuerpo de Intervención de la Generalidad de Cataluña.
+1. El personal funcionario de carrera que, en el momento de la entrada en vigor de la presente disposición transitoria, pertenezca al Cuerpo de Intervención de la Generalidad de Cataluña se integra automáticamente en la Escala Superior de Intervención de este cuerpo.
+2. El personal funcionario de carrera del Cuerpo Superior de Administración de la Generalidad de Cataluña que, en el momento de la entrada en vigor de la presente disposición transitoria, ocupe de forma definitiva un puesto de trabajo adscrito a la Intervención General de la Administración de la Generalidad, y acredite haber prestado servicios durante dos años como mínimo en puestos de trabajo adscritos a dicha Intervención General, puede integrarse en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña, una vez superado un curso selectivo específico de formación regulado por una orden del consejero competente en materia de hacienda. El personal que se integra en la mencionada escala queda en situación de excedencia voluntaria por incompatibilidad respecto al cuerpo de origen.
+3. El personal funcionario que se integre en una de las escalas del Cuerpo de Intervención de la Generalidad de Cataluña, en virtud del apartado 1 o del apartado 2, continúa en el puesto de trabajo que ocupaba antes de la integración, en caso de encontrarse en servicio activo, o bien permanece, en caso contrario, en la misma situación administrativa en la que se encontraba en el cuerpo de origen.
+4. Al personal funcionario que se integre en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña se le deben computar, a los efectos de acreditar la antigüedad mínima exigida para participar en el turno de promoción interna a que se refiere el artículo 11.2, los servicios prestados en puestos de trabajo adscritos a la Intervención General.
+Se añade por el art. 107.4 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen de integración del personal funcionario en las escalas del Cuerpo de Intervención de la Generalidad de Cataluña.
+1. El personal funcionario de carrera que, en el momento de la entrada en vigor de la presente disposición transitoria, pertenezca al Cuerpo de Intervención de la Generalidad de Cataluña se integra automáticamente en la Escala Superior de Intervención de este cuerpo.
+2. El personal funcionario de carrera del Cuerpo Superior de Administración de la Generalidad de Cataluña que, en el momento de la entrada en vigor de la presente disposición transitoria, ocupe de forma definitiva un puesto de trabajo adscrito a la Intervención General de la Administración de la Generalidad, y acredite haber prestado servicios durante dos años como mínimo en puestos de trabajo adscritos a dicha Intervención General, puede integrarse en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña, una vez superado un curso selectivo específico de formación regulado por una orden del consejero competente en materia de hacienda. El personal que se integra en la mencionada escala queda en situación de excedencia voluntaria por incompatibilidad respecto al cuerpo de origen.
+3. El personal funcionario que se integre en una de las escalas del Cuerpo de Intervención de la Generalidad de Cataluña, en virtud del apartado 1 o del apartado 2, continúa en el puesto de trabajo que ocupaba antes de la integración, en caso de encontrarse en servicio activo, o bien permanece, en caso contrario, en la misma situación administrativa en la que se encontraba en el cuerpo de origen.
+4. Al personal funcionario que se integre en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña se le deben computar, a los efectos de acreditar la antigüedad mínima exigida para participar en el turno de promoción interna a que se refiere el artículo 11.2, los servicios prestados en puestos de trabajo adscritos a la Intervención General.
+5. Los puestos vacantes de la escala técnica de control y contabilidad del Cuerpo de Intervención de la Generalidad de Catalunya pueden ser ocupados transitoriamente, por un período de cinco años, por personal de la escala superior de administración general del Cuerpo Superior de Administración, y excepcionalmente, por otros cuerpos.
+Se numera como disposición transitoria segunda y se añade el apartado 5 por el art. 51.7 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Su anterior denominación era disposición transitoria [sic].
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen de integración del personal funcionario en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña.
+1. El personal funcionario de carrera del Cuerpo Superior de Administración de la Generalidad de Cataluña que en el momento de la entrada en vigor de la presente disposición transitoria ocupe de forma definitiva un puesto de trabajo de carácter singular adscrito a la Intervención General de la Administración de la Generalidad y acredite haber prestado servicios en los dos años inmediatamente anteriores a la entrada en vigor de esta disposición en puestos de trabajo de carácter singular adscritos a la Intervención General de la Administración de la Generalidad, puede integrarse en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña una vez superado un curso selectivo específico de formación regulado por una orden del consejero competente en materia de hacienda. El personal que se integra en esta escala queda en situación de excedencia voluntaria por incompatibilidad respecto al cuerpo de origen.
+2. Este proceso de integración es de aplicación, en los mismos términos y condiciones que los establecidos por el apartado 1, salvo el requisito de la ocupación definitiva, al personal que haya adquirido antes de la entrada en vigor de esta disposición transitoria la condición de funcionario de carrera del Cuerpo Superior de Administración de la Generalidad de Cataluña en virtud de una oferta de empleo público para la estabilización del empleo temporal derivada de la Ley 3/2017, de 27 de junio, de presupuestos generales del Estado para el año 2017, de la Ley 6/2018, de 3 de julio, de presupuestos generales del Estado para el año 2018 o de la Ley del Estado 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público.
+3. Lo establecido en los apartados 1 y 2 de esta disposición se entiende referido únicamente a los puestos de trabajo singulares con funciones homogéneas a los puestos de trabajo base de la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña y con nivel de destino igual o superior a estos puestos.
+4. El personal funcionario que se integre en la Escala Técnica de Control y Contabilidad del Cuerpo de Intervención de la Generalidad de Cataluña continúa, en virtud del apartado 1, en el puesto de trabajo que ocupaba antes de la integración si se encuentra en servicio activo, o bien permanece en la misma situación administrativa en la que se encontraba en el cuerpo de origen.
+Se añade por el art. 35.2 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada).
+Se deroga por el art. 170.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-81
+ Se modifica por el art. 1 de la Ley 17/1997, de 24 de diciembre. Ref. BOE-A-1998-2988.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Consejo Ejecutivo, en el plazo de seis meses contados a partir de la entrada en vigor de la presente Ley dictará el Reglamento que la desarrolle.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esa Ley cooperen a su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 20 de marzo de 1984.
+El Consejero de Economía y Finanzas,
+ El Presidente de la Generalidad de Cataluña,
+ JOSEP MARÍA CULLELL I NADAL
+ JORDI PUJOL

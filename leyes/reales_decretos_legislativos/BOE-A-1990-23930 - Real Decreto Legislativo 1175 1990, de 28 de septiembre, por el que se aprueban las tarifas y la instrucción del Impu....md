@@ -1,0 +1,6443 @@
+# Real Decreto Legislativo 1175/1990, de 28 de septiembre, por el que se aprueban las tarifas y la instrucción del Impuesto sobre Actividades Económicas.
+
+- Identificador BOE: `BOE-A-1990-23930`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-23930
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, crea y regula, en sus artículos 79 a 92, el Impuesto sobre Actividades Económicas.
+La cuota tributaria de dicho impuesto se determina a partir de las tarifas del mismo, las cuales, junto con la instrucción para su aplicación, aparecen reguladas en las bases contenidas en el artículo 86 de la citada Ley 39/1988, de 28 de diciembre.
+El presente Real Decreto Legislativo tiene por objeto, pues, el desarrollo de las mencionadas bases y la consiguiente aprobación de las tarifas del Impuesto sobre Actividades Económicas, así como de la instrucción para la aplicación de aquéllas.
+Dichas tarifas no comprenden, sin embargo, la clasificación de las actividades agrícolas, ganaderas, forestales y pesqueras, cuya tributación no se exigirá hasta el 1 de enero de 1992.
+En su virtud, al amparo de lo dispuesto en el artículo 86.1 de la Ley 39/1988, de 28 de diciembre, y en la disposición final cuarta de la Ley 5/1990, de 29 de junio, sobre medidas en materia presupuestaria, financiera y tributaria, previo informe de la Comisión Nacional de Administración Local, de acuerdo con el Consejo de Estado, a propuesta del Ministro de Economía y Hacienda y previa deliberación del Consejo de Ministros en su reunión del día 28 de septiembre de 1990,
+DISPONGO:
+
+### Artículo único
+
+Artículo único.
+Se aprueban las tarifas del Impuesto sobre Actividades Económicas, que se incluyen en el anexo I del presente Real Decreto Legislativo, así como la instrucción para la aplicación de aquéllas, la cual se incluye en el anexo II del mismo.
+
+### Disposición adicional
+
+El recurso permanente para las Cámaras de Comercio, Industria y Navegación, establecido por la base quinta de la Ley de 29 de junio de 1911, y que se ha venido liquidando sobre las cuotas de las licencias fiscales de actividades comerciales e industriales y de profesionales y de artistas, se liquidará, a partir de 1 de enero de 1992, sobre las correlativas cuotas de las tarifas del Impuesto sobre Actividades Económicas. A estos efectos no se tendrá en cuenta el importe del elemento tributario constituido por la superficie de los locales en los que se realicen las actividades gravadas, ni tampoco el correspondiente al coeficiente de incremento, al índice de situación y al recargo provincial, regulados, respectivamente, en los artículos 88, 89 y 124 de la Ley 39/1988, de 28 de diciembre.
+
+### Disposición final
+
+Se autoriza al Gobierno de la Nación para dictar las normas de desarrollo y aplicación de cuanto se establece en este Real Decreto Legislativo.
+
+Dado en Madrid a 28 de septiembre de 1990.
+JUAN CARLOS R.
+El Ministro de Economía y Hacienda,
+CARLOS SOLCHAGA CATALÁN
+
+## ANEXO I
+
+Tarifas
+Téngase en cuenta que en aquellos supuestos en los cuales la cuota de tarifa venga determinada, entre otros, por el elemento tributario "número de obreros", como una cantidad fija a satisfacer por cada obrero, no se aplicará la parte de la cuota correspondiente a dicho elemento tributario, según establece la disposición adicional 4.a) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se incrementan en un 3,5 por 100 las cuotas consignadas en las Tarifas del Impuesto contenidas en este anexo I, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+## SECCIÓN PRIMERA
+
+Actividades empresariales: Ganaderas, mineras, industriales, comerciales y de servicios
+Se modifica por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## DIVISIÓN 0
+
+DIVISIÓN 0. GANADERÍA INDEPENDIENTE
+Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 01
+
+Agrupación 01. Explotación de ganado bovino
+Grupo 011. Explotación extensiva de ganado bovino.
+Cuota de 161 pesetas por cabeza. (0,967629 euro)
+Grupo 012. Explotación intensiva de ganado bovino de leche.
+Cuota de 321 pesetas por cabeza. (1,929249 euro)
+Grupo 013. Explotación intensiva de ganado bovino de cebo.
+Cuota de 161 pesetas por cabeza. (0,967629 euro)
+Nota común a la agrupación 01: Los animales nacidos en la explotación y hasta la edad de seis meses no se computarán en los grupos de esta agrupación, y su rendimiento se considera incluido en el asignado al ganado reproductor.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 02
+
+Agrupación 02. Explotación de ganado ovino y caprino
+Grupo 021. Explotación extensiva de ganado ovino.
+Cuota de 42 pesetas por cabeza. (0,252425 euro)
+Grupo 022. Explotación intensiva de ganado ovino de cría.
+Cuota de 52 pesetas por cabeza reproductora. (0,312526 euro)
+Grupo 023. Explotación intensiva de ganado ovino de cebo.
+Cuota de 26 pesetas por cabeza. (0,156263)
+Grupo 024. Explotación de ganado caprino.
+Cuota de 35 pesetas por cabeza. (0,210354 euro)
+Nota común a la agrupación 02: Los animales nacidos en la explotación y hasta la edad de tres meses no se computarán en los grupos de esta agrupación, y su rendimiento se considera incluido en el asignado al ganado reproductor.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 03
+
+Agrupación 03. Explotación de ganado porcino
+Grupo 031. Explotación extensiva de ganado porcino.
+Cuota de 47 pesetas por cabeza. (0,282476 euro)
+Grupo 032. Explotación intensiva de ganado porcino de cría.
+Cuota de 138 pesetas por cabeza reproductora. (0,829397 euro)
+Grupo 033. Explotación intensiva de ganado porcino de cebo.
+Cuota de 32 pesetas por cabeza. (0,192324 euro)
+Nota común a la agrupación 03: Los animales nacidos en la explotación y hasta la edad de cuatro meses no se computarán en los grupos de esta agrupación, y su rendimiento se considera incluido en el asignado al ganado reproductor.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 04
+
+Agrupación 04. Avicultura
+Grupo 041. Avicultura de puesta
+Epígrafe 041.1. Reproductoras de puesta. Cuota de 4 pesetas por cabeza. (0,024040 euro)
+Epígrafe 041.2. Ponedoras de huevos a partir de los cuatro meses de edad. Cuota de 2 pesetas por cabeza. (0,012020 euro)
+Notas al grupo 041:
+1.ª Las pollitas de puesta hasta cuatro meses de edad no se computarán.
+2.ª El pago de las cuotas de cualesquiera de los epígrafes de este grupo faculta para la incubación y cría o recría de pollitas, siempre que éstas sean destinadas a explotaciones de puesta del propio sujeto pasivo.
+Grupo 042. Avicultura de carne:
+Epígrafe 042.1. Reproductoras de carne. Cuota de 4 pesetas por cabeza. (0,024040 euro)
+Epígrafe 042.2. Pollos y patos para carne. Cuota de 1 peseta por cabeza. (0,006010 euro)
+Epígrafe 042.3. Pavos, faisanes y palmipedas reproductoras. Cuota de 2 pesetas por cabeza. (0,012020 euro)
+Epígrafe 042.4. Pavos, faisanes y palmípedas para carne. Cuota de 3 pesetas por cabeza. (0,018030 euro)
+Epígrafe 042.5. Codornices para carne. Cuota de 1 peseta por cabeza. (0,006010 euro)
+Nota: El pago de las cuotas de cualesquiera de los epígrafes de este grupo faculta para la incubación, siempre que las aves obtenidas sean destinadas a explotaciones del propio sujeto pasivo clasificadas en este grupo.
+Se añade la nota al grupo 042 por el art. 65 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 05
+
+Agrupación 05. Cunicultura:
+Grupo 051. Cunicultura.
+Cuota de 18 pesetas por cabeza reproductora. (0,108182 euro)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 06
+
+Agrupación 06. Otras explotaciones ganaderas NCOP
+Grupo 061. Explotaciones de ganado caballar, mular y asnal.
+Cuota de 104 pesetas por cabeza. (0,625053 euro)
+Grupo 062. Apicultura.
+Cuota de 9 pesetas por colmena. (0,054091 euro)
+Grupo 069. Otras explotaciones ganaderas.
+Cuota de 66,95 euros.
+Nota: este grupo comprende las explotaciones ganaderas no especificadas en esta división, tales como las de sericultura, cría de animales para peletería, cría de caza en cautividad, cría de animales de laboratorio, caracoles, etc.
+Se modifica el grupo 069 por la disposición adicional 4.b) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## Agrupación 07
+
+Agrupación 07. Explotaciones mixtas:
+Grupo 071. Explotaciones mixtas.
+Cuota de la cantidad resultante de sumar las cuotas parciales correspondientes a cada una de las actividades que se ejerzan, con arreglo a lo previsto en los grupos y epígrafes de las Agrupaciones anteriores.
+Nota: Se clasifican en este grupo los sujetos pasivos que ejerzan en una misma explotación más de una de las actividades clasificadas en las agrupaciones 01 a 06 de esta división.
+Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## [Notas comunes]
+
+Notas comunes a la División 0:
+1.ª Si el importe total de las cuotas correspondientes a las actividades clasificadas en esta división, ejercidas en la misma explotación, fuese inferior a 6.000 pesetas, el sujeto pasivo tributará por cuota cero.
+2.ª Cuando la actividad ganadera se ejerza en el régimen denominado «ganadería integrada», las cuotas correspondientes serán satisfechas por el «ganadero integrador» o dueño del ganado.
+3.ª A efectos de esta división se entenderá extensiva a la explotación realizada con disposición total o parcial de una base territorial con aprovechamiento de pastos o prados para alimentar el ganado.
+Se añade por el art. único y anexo I del Real Decreto Legislativo 1259/1991, de 2 de agosto. Ref. BOE-A-1991-19977.
+
+## DIVISIÓN 1
+
+DIVISIÓN 1. ENERGÍA Y AGUA.
+
+### Agrupación 11
+
+Agrupación 11. Extracción, preparación y aglomeración de combustibles sólidos y coquerías.
+Grupo 111. Extracción, preparación y aglomeración de hulla.
+Epígrafe 111.1 Extracción y preparación de hulla, excepto hulla subbituminosa.
+Cuota de:
+Por cada obrero: 378 pesetas. (2,271826 euros)
+Por cada Kw: 637 pesetas. (3,828447 euros)
+Epígrafe 111.2 Extracción y preparación de hulla subbituminosa (lignito negro).
+Cuota de:
+Por cada obrero: 378 pesetas. (2,271826 euros)
+Por cada Kw: 637 pesetas. (3,828447 euros)
+Notas comunes a los epígrafes 111.1 y 111.2:
+1.ª Las explotaciones, concesiones y demasías que sean colindantes o, que sin serlo, formen unidad de explotación, constituyendo un coto minero, se considerarán como una sola explotación o concesión.
+2.ª No estarán sujetas a tributación las explotaciones, concesiones y demasías que no estén realmente en explotación, sino que constituyan reservas del coto minero, aun cuando figuren en el plan anual de labores.
+3.ª Estos epígrafes facultan para la extracción y preparación de otros combustibles minerales sólidos.
+Epígrafe 111.3 Preparación de hulla en factoría independiente o fuera del perímetro de la concesión o explotación minera.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 1.553 pesetas. (9,333718 euros)
+Nota: Este epígrafe faculta para la preparación en factoría independiente de otros combustibles minerales sólidos.
+Epígrafe 111.4 Aglomeración de hulla.
+Cuota de:
+Por cada obrero: 994 pesetas. (5,974060 euros)
+Por cada Kw: 2.360 pesetas. (14,183886 euros)
+Nota: Este epígrafe faculta para la aglomeración de otros combustibles minerales sólidos.
+Grupo 112. Extracción y preparación de antracita.
+Epígrafe 112.1 Extracción y preparación de antracita.
+Cuota de:
+Por cada obrero: 394 pesetas. (2,367988 euros)
+Por cada Kw: 668 pesetas. (4,014761 euros)
+Nota: A este epígrafe le son de aplicación las notas de los epígrafes 111.1 y 111.2.
+Epígrafe 112.2 Preparación de antracita en factoría independiente o fuera del perímetro de la concesión o explotación minera.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 1.553 pesetas. (9,333718 euros)
+Nota: Este epígrafe faculta para la preparación en factoría independiente de otros combustibles minerales sólidos.
+Grupo 113. Extracción y preparación de lignito pardo.
+Epígrafe 113.1 Extracción y preparación de lignito pardo.
+Cuota de:
+Por cada obrero: 394 pesetas. (2,367988 euros)
+Por cada Kw: 668 pesetas. (4,014761 euros)
+Nota: A este epígrafe le son de aplicación las notas de los epígrafes 111.1 y 111.2.
+Epígrafe 113.2 Preparación de lignito pardo en factoría independiente o fuera del perímetro de la concesión o explotación minera.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 1.553 pesetas. (9,333718 euros)
+Nota: Ese epígrafe faculta para la preparación en factoría independiente de otros combustibles minerales sólidos.
+Grupo 114. Fabricación de coque.
+Cuota de:
+Por cada obrero: 906 pesetas. (5,445170 euros)
+Por cada Kw: 1.123 pesetas. (6,749366 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 12
+
+Agrupación 12. Extracción de petróleo y gas natural.
+Grupo 121. Prospección de petróleo y gas natural y trabajos auxiliares de investigación minera.
+Epígrafe 121.1 Trabajos de testificación por diversos procedimientos en sondeos, determinación de las características de las formaciones atravesadas, profundidad y dirección del sondeo, buzamiento y dirección de las formaciones, etc.
+Cuota mínima municipal de: 289.800 pesetas. (1.741,73 euros)
+Cuota provincial de: 869.400 pesetas. (5.225,20 euros)
+Cuota nacional de: 2.587.500 pesetas. (15.551,19 euros)
+Epígrafe 121.2 Trabajos para desviación de sondeos y cimentación de pozos, fracturación o acidificación de rocas y pruebas de producción.
+Cuota:
+Nacional
+ Provincial
+ Mínima municipal
+ Por cada unidad de bombeo so­bre camión
+ 2.484.000
+ (14.929,140673 euros)
+ 828.000
+ (4.976,380224 euros)
+ 274.275
+ (1.648,425949 euros)
+ Por cada mezclador sobre camión
+ 931.500
+ (5.598,427752 euros)
+ 300.150
+ (1.803,937831 euros)
+ 98.325
+ (590,945152 euros)
+ Por cada equipo para prue­bas de producción
+ 82.800
+ (497,638022 euros)
+ 25.875
+ (155,511882 euros)
+ 7.245
+ (43,543327 euros)
+ Por cada equipo para des­viación de sondeos
+ 82.800
+ (497,638022 euros)
+ 25.875
+ (155,511882 euros)
+ 7.245
+ (43,543327 euros)
+Epígrafe 121.3 Trabajos de tomas de medida de presión de fondo de pozos, apertura y cierre de los mismos para realizar aquéllas, medición en superficie de temperatura, presión, caudal, etc., y servicios de cable para conexión entre elementos en pozo y en superficie.
+Cuota:
+Nacional
+ Provincial
+ Mínima municipal
+ Por cada camión o remolque con cable de enlace entre instrumentos de fondo y de superficie
+ 1.138.500
+ (6.842,522808 euros)
+ 362.250
+ (2.177,166348 euros)
+ 113.850
+ (684,252281 euros)
+ Por cada equipo de apertura y cierre de fondo de pozo y bajada de tuberías
+ 465.750
+ (2.799,213876 euros)
+ 144.900
+ (870,866539 euros)
+ 47.610
+ (286,141863 euros)
+ Por cada equipo de separadores y de medida y control de presión y de fluidos en superficie
+ 310.500
+ (1.866,142584 euros)
+ 103.500
+ (622,047528 euros)
+ 35.190
+ (211,496160 euros)
+ Por cada equipo de calentamiento en pozo, tanque de almacenaje y sus accesorios
+ 310.500
+ (1.866,142584 euros)
+ 103.500
+ (622,047528 euros)
+ 35.190
+ (211,496160 euros)
+Epígrafe 121.9 Otras actividades relacionadas con la prospección de petróleo y gas natural y trabajos auxiliares de investigación minera, tales como los de geofísica petrolera, control de geología de sondeos, etc.
+Cuota mínima municipal de: 82.800 pesetas. (497,64 euros)
+Cuota provincial de: 258.750 pesetas. (1.555,12 euros)
+Cuota nacional de: 828.000 pesetas. (4.976,38 euros)
+Grupo 122. Extracción y distribución de crudos de petróleo.
+Epígrafe 122.1 Extracción de crudos de petróleo.
+Cuota de:
+Por cada obrero: 14.594 pesetas. (87,711707 euros)
+Por cada Kw: 10.661 pesetas. (64,073900 euros)
+Epígrafe 122.2 Distribución de crudos de petróleo.
+Cuota mínima municipal de: 517.500 pesetas. (3.110,24 euros)
+Cuota provincial de: 2.070.000 de pesetas. (12.440,95 euros)
+Cuota nacional de: 7.245.000 de pesetas. (43.543,33 euros)
+Nota: Este epígrafe comprende la distribución de petróleo y productos petrolíferos refinados, exclusivamente por oleoducto, así como la instalación de las redes necesarias para su distribución.
+Grupo 123. Extracción, depuración y distribución de gas natural.
+Epígrafe 123.1 Extracción y depuración de gas natural.
+Cuota de:
+Por cada obrero: 14.594 pesetas. (87,711707 euros)
+Por cada Kw: 10.661 pesetas. (64,073900 euros)
+Epígrafe 123.2 Distribución de gas natural.
+Cuota mínima municipal de: 517.500 pesetas. (3.110,24 euros)
+Cuota provincial de: 2.070.000 de pesetas. (12.440,95 euros)
+Cuota nacional de: 7.245.000 de pesetas. (43.543,33 euros)
+Nota: Este epígrafe comprende la distribución de todo tipo de gases naturales, exclusivamente por gasoducto, así como la instalación de las redes necesarias para su distribución.
+Grupo 124. Extracción de pizarras bituminosas.
+Cuota de:
+Por cada obrero: 1.160 pesetas. (6,971740 euros)
+Por cada Kw: 777 pesetas. (4,669864 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 13
+
+Agrupación 13. Refino de petróleo.
+Grupo 130. Refino de petróleo.
+Cuota de: Por cada 1.000 toneladas o fracción anuales de tratamiento de crudos petrolíferos, 9.315 pesetas. (55,984278 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 14
+
+Agrupación 14. Extracción y transformación de minerales radiactivos.
+Grupo 141. Extracción y preparación de minerales radiactivos.
+Cuota de:
+Por cada obrero: 1.160 pesetas. (6,971740 euros)
+Por cada Kw: 777 pesetas. 4,669864 euros)
+Grupo 142. Preparación de minerales radiactivos en factoría independiente o fuera del perímetro de la concesión o explotación minera.
+Cuota de:
+Por cada obrero: 1.936 pesetas. (11,635594 euros)
+Por cada Kw: 1.356 pesetas. (8,149724 euros)
+Grupo 143. Transformación de minerales radiactivos y tratamiento y almacenamiento de residuos radiactivos
+Epígrafe 143.1 Transformación de minerales radiactivos.
+Cuota de:
+– Por cada obrero: 2.516 pesetas. (15,121465 euros)
+– Por cada Kw: 1.750 pesetas. (10,517712 euros)
+Epígrafe 143.2 Tratamiento de residuos radiactivos.
+Cuota de:
+– Por cada obrero: 1.936 pesetas. (11,635594 euros)
+– Por cada Kw: 1.356 pesetas. (8,149724 euros)
+Epígrafe 143.3 Almacenamiento de residuos radiactivos.
+Cuota de: 5.175.000 pesetas. (31.102,38 euros)
+Nota común a los epígrafes 143.2 y 143.3: Estos epígrafes facultan para el desmantelamiento de instalaciones nucleares y para el transporte de los residuos radiactivos.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el Grupo 143 por el art. 75.1.1 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 15
+
+Agrupación 15. Producción, transporte, distribución y comercialización de energía eléctrica, gas, vapor y agua caliente.
+Grupo 151. Producción, transporte, distribución y comercialización de energía eléctrica.
+Epígrafe 151.1: producción de energía hidroeléctrica.
+Cuota de: por cada Kw de potencia de generadores, 120 pesetas. (0,721215 euro)
+Nota: las denominadas centrales de «bombeos» para producción de energía hidroeléctrica tributarán al 50 por 100 de la cuota de este epígrafe.
+Epígrafe 151.2: producción de energía termoeléctrica convencional.
+Cuota de: por cada Kw de potencia en generadores, 70 pesetas. (0,420708 euro)
+Epígrafe 151.3: producción de energía electronuclear.
+Cuota de: por cada Kw de potencia en generadores, 85 pesetas. (0,510860 euro)
+Epígrafe 151.4: producción de energía no especificada en los epígrafes anteriores, abarcando la energía procedente de mareas, energía solar, etc.
+Cuota de: por cada Kw de potencia en generadores, 120 pesetas. (0,721215 euro)
+Nota: no se incluyen en este epígrafe las centrales mixtas, es decir, las que producen diversas clases de energía, que se clasificarán en el epígrafe que corresponda a su actividad principal.
+Epígrafe 151.5: transporte y distribución de energía eléctrica.
+Cuota de: por cada Kw de potencia contratada:
+Cuota mínima municipal: 7 pesetas. (0,042071 euro)
+Cuota provincial: 11 pesetas. (0,066111 euro)
+Cuota nacional: 11 pesetas. (0,066111 euro)
+Notas comunes al grupo 151:
+1.ª Para la determinación de la potencia de los generadores, tratándose de corriente alterna, se tomará el factor de potencia medido en la central, y, en su defecto, el valor coseno de a = 0,8.
+2.ª Tratándose de centrales hidráulicas o térmicas el número de kilovatios sujetos a tributación será la suma de las potencias de los generadores eléctricos sin incluir los de reserva; pero si la potencia que pueden suministrar las turbinas o los motores térmicos es menor, la cuota se fijará de acuerdo con la potencia que pueden producir las turbinas o los motores que accionan los generadores.
+3.ª En las centrales hidroeléctricas que dispongan de una térmica como reserva o adquieran energía de otro fabricante con el mismo fin, coincidiendo esta utilización con períodos de estiaje, avenidas o averías de la hidráulica que signifiquen una disminución en el rendimiento normal de ésta, y siempre que la potencia total utilizada, suma de la de origen hidráulico y reserva, sea igual o inferior a la declarada, la de reserva no se considerará. En el caso de ser superior, la diferencia estará sujeta a tributación.
+4.ª La potencia eléctrica destinada en la central a fuerza motriz no tributará.
+5.ª A los efectos de la aplicación del epígrafe 151.5, los kilovatios contratados se tomarán en el punto de entrega, según contrato, al consumidor final.
+Epígrafe 151.6: Comercialización de energía eléctrica.
+Cuota.
+Cuota mínima municipal de:
+Por cada 1.000 abonados o fracción: 62,20 euros.
+Cuota provincial de:
+Por cada 1.000 abonados o fracción: 137,48 euros.
+Cuota nacional de:
+Por cada 1.000 abonados o fracción: 137,48 euros.
+Grupo 152. Fabricación, distribución y comercialización de gas.
+Epígrafe 152.1. Fabricación y Distribución de Gas.
+Cuota de:
+Por cada Kw: 15,86 euros.
+Nota: Este epígrafe comprende la instalación de redes de distribución del gas.
+Epígrafe 152.2. Comercialización de Gas.
+Cuota.
+Cuota mínima municipal de:
+Por cada 1.000 abonados o fracción: 62,20 euros.
+Cuota provincial de:
+Por cada 1.000 abonados o fracción: 137,48 euros.
+Cuota nacional de:
+Por cada 1.000 abonados o fracción: 137,48 euros.
+Grupo 153. Producción y distribución de vapor y agua caliente.
+Cuota de:
+Por cada obrero: 1.563 pesetas. (9,393819 euros)
+Por cada Kw: 942 pesetas. (5,661534 euros)
+Nota: Este grupo comprende la instalación de redes de distribución de vapor y agua caliente.
+Se modifica por el art. 67.1 a 4 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-9
+ Se modifica el Grupo 151 por la disposición adicional 3 de la Ley 9/1996, de 15 de enero. Ref. BOE-A-1996-1074.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+### Agrupación 16
+
+Agrupación 16. Captación, tratamiento y distribución de agua, y fabricación de hielo.
+Grupo 161. Captación, tratamiento y distribución de agua para núcleos urbanos.
+Epígrafe 161.1. Captación, tratamiento y distribución de agua para núcleos urbanos.
+Cuota mínima municipal de: 26 pesetas (0,156263 euro) por cada 100 metros cúbicos o fracción de agua suministrada en el ejercicio inmediato anterior, según consumos registrados al abonado o consumidor, mediante contador.
+Cuota provincial de: 26 pesetas (0,156263 euro) por cada 100 metros cúbicos o fracción de agua suministrada en el ejercicio inmediato anterior, según consumos registrados al abonado o consumidor, mediante contador.
+Epígrafe 161.2. Captación de agua para su suministro.
+Cuota de: 4 pesetas (0,024040 euro) por cada 100 metros cúbicos o fracción de agua captada en el ejercicio inmediato anterior, según consumos registrados con contador u otro elemento de medida en el punto de salida de la instalación de captación, para su posterior suministro.
+Nota: La captación comprende todas las tareas necesarias para extraer y aducir el agua desde el medio natural o físico hasta su puesta a disposición o entrega para su posterior tratamiento o para su distribución.
+Epígrafe 161.3. Tratamiento de agua para su suministro.
+Cuota de: 4 pesetas (0,024040 euro) por cada 100 metros cúbicos o fracción de agua tratada en el ejercicio inmediato anterior, según consumos registrados con contador u otro elemento de medida en el punto de salida de la planta o estación de tratamiento, para su posterior suministro.
+Nota: El tratamiento comprende todas las tareas y procesos industriales necesarios para que el agua sea sanitariamente permisible o potable para el consumo humano, hasta su puesta a disposición o entrega a la red de distribución.
+Epígrafe 161.4. Distribución de agua para núcleos urbanos.
+Cuota de: 16 pesetas (0,096162 euro) por cada 100 metros cúbicos o fracción de agua suministrada en el ejercicio inmediato anterior, según consumos registrados al abonado o consumidor mediante contador.
+Nota: La distribución comprende todas las tareas y maniobras técnicas necesarias para entregar o poner a disposición del consumidor o abonado el agua suministrada hasta el domicilio o local.
+Nota común a los epígrafes 161.1 y 161.4: Estos epígrafes comprenden la instalación de redes de distribución de agua.
+Grupo 162. Fabricación de hielo para la venta.
+Cuota de:
+Por cada obrero: 301 pesetas. (1,809046 euros)
+Por cada Kw: 301 pesetas. 1,809046 euros)
+Nota: cuando el producto fabricado se destine a suministrar a la flota pesquera o al acondicionamiento de pescado para ser remesado, la cuota correspondiente será el 50 por 100 de la señalada.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica la rúbrica de la Agrupación y el Grupo 161 por el art. 78.1.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+## DIVISIÓN 2
+
+DIVISIÓN 2. EXTRACCIÓN Y TRANSFORMACIÓN DE MINERALES NO ENERGÉTICOS Y PRODUCTOS DERIVADOS. INDUSTRIA QUÍMICA.
+
+### Agrupación 21
+
+Agrupación 21. Extracción y preparación de minerales metálicos.
+Grupo 211. Extracción y preparación de minerales de hierro.
+Epígrafe 211.1 Extracción y preparación de minerales férreos.
+Cuota de:
+Por cada obrero: 448 pesetas. (2,692534 euros)
+Por cada Kw: 422 pesetas. (2,536271 euros)
+Nota: A este epígrafe le son de aplicación las notas 1.ª y 2.ª de los epígrafes 111.1 y 111.2.
+Epígrafe 211.2 Preparación de minerales férreos en factoría independiente o fuera del perímetro de la explotación o concesión minera.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Nota: Este epígrafe comprende las operaciones físicas de concentración del mineral, realizadas en bocamina o en factoría independiente, incluidas las de sinterización, pelletización y similares.
+Grupo 212. Extracción y preparación de minerales metálicos no férreos.
+Epígrafe 212.1 Extracción y preparación de minerales metálicos no férreos.
+Cuota de:
+Por cada obrero: 528 pesetas. (3,173344 euros)
+Por cada Kw: 570 pesetas. (3,425769 euros)
+Nota: A este epígrafe le son de aplicación las notas 1.ª y 2.ª de los epígrafes 111.1 y 111.2.
+Epígrafe 212.2 Preparación de minerales metálicos no férreos en factoría independiente o situada fuera del perímetro de la explotación o concesión minera.
+Cuota de:
+Por cada obrero: 1.015 pesetas. (6,100273 euros)
+Por cada Kw: 1.129 pesetas. (6,785427 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 22
+
+Agrupación 22. Producción y primera transformación de metales.
+Grupo 221. Siderurgia integral.
+Cuota de:
+Por cada obrero: 104 pesetas. (0,625053 euro)
+Por cada Kw: 166 pesetas. (0,997680 euro)
+Nota: Este grupo comprende la obtención de productos siderúrgicos laminados en caliente o en frío, y sus derivados, a partir de mineral de hierro como materia prima, mediante la utilización de hornos altos y acerías al oxígeno.
+Se incluyen en este grupo la obtención de arrabio, las ferroaleaciones de horno alto y las coquerías siderúrgicas que no puedan clasificarse por separado.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 221.1 Productos siderúrgicos primarios o de cabe­cera.
+Epígrafe 221.2 Acero bruto.
+Epígrafe 221.3 Semiproductos.
+Epígrafe 221.4 Productos laminados en caliente.
+Epígrafe 221.5 Productos laminados en frío.
+Epígrafe 221.6 Productos derivados de los anteriores, incluidos los especificados en el grupo 223.
+Epígrafe 221.7 Otros productos y subproductos.
+Grupo 222. Siderurgia no integral.
+Cuota de:
+Por cada obrero: 98 pesetas. (0,588992 euro)
+Por cada Kw: 122 pesetas. (0,733235 euro)
+Nota: Este grupo comprende la obtención de productos siderúrgicos laminados en caliente o en frío, y sus derivados, a partir de chatarra como materia prima, mediante la utilización de acerías eléctricas.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 222.1 Acero bruto.
+Epígrafe 222.2 Semiproductos.
+Epígrafe 222.3 Productos laminados en caliente.
+Epígrafe 222.4 Productos laminados en frío.
+Epígrafe 222.5 Productos derivados de los anteriores, incluidos los especificados en el grupo 223.
+Epígrafe 222.6 Otros productos y subproductos.
+Grupo 223. Fabricación de tubos de acero.
+Cuota de:
+Por cada obrero: 104 pesetas. (0,625053 euro)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este grupo comprende la fabricación de tubos de acero soldado o sin soldar, revestidos o sin revestir; el estirado de tubos de acero o la fabricación de tubos, empalmes, cajas, juntas, etc., de acero para conductores eléctricos.
+Se incluye también en este grupo la laminación en caliente de tubos de acero.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 223.1 Productos tubulares (tubos y perfiles huecos) de acero sin soldadura.
+Epígrafe 223.2 Productos tubulares de acero soldados longitudinalmente.
+Epígrafe 223.3 Productos tubulares de acero soldados helicoidalmente.
+Epígrafe 223.4 Accesorios para tuberías (excepto de fundición).
+Grupo 224. Trefilado, estirado, perfilado, laminado en frío del acero.
+Cuota de:
+Por cada obrero: 104 pesetas. (0,625053 euro)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este grupo comprende el estirado en frío del acero; laminación en frío del fleje de acero; laminación de perfiles por conformación o plegado en frío de productos planos de acero y trefilado del acero.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 224.1 Alambre de acero.
+Epígrafe 224.2 Productos calibrados por estirado.
+Epígrafe 224.3 Productos calibrados por descortezado (tor­neado).
+Epígrafe 224.4 Productos calibrados por rectificado.
+Epígrafe 224.5 Perfiles conformados en frío.
+Epígrafe 224.6 Fleje laminado en frío.
+Epígrafe 224.7 Fleje magnético laminado en frío.
+Epígrafe 224.8 Fleje recubierto.
+Grupo 225. Producción y primera transformación de metales no férreos.
+Epígrafe 225.1 Producción y primera transformación del alu­minio.
+Cuota de:
+Por cada obrero: 135 pesetas. (0,811366 euro)
+Por cada Kw: 373 pesetas. (2,241775 euros)
+Nota: Este epígrafe comprende la obtención de aluminio de primera fusión (a partir de minerales, desperdicios, restos, cenizas y residuos); obtención de aluminio de segunda fusión (por fusión); obtención de aleaciones de aluminio fuera de la siderurgia (aluminotermia), así como la primera transformación del aluminio y sus aleaciones mediante laminación, estirado, trefilado, extrusión, etc.
+Epígrafe 225.2 Producción y primera transformación del cobre.
+Cuota de:
+Por cada obrero: 135 pesetas. (0,811366 euro)
+Por cada Kw: 373 pesetas. (2,241775 euros)
+Nota: Este epígrafe comprende la obtención de cobre bruto a partir de minerales (blister y otros); cobre electrolítico; cobre de afino térmico; cobre de segunda fusión; aleaciones de cobre, así como la primera transformación del cobre y sus aleaciones mediante laminación, estirado, trefilado, extrusión, etc.
+Epígrafe 225.9 Producción y primera transformación de otros metales no férreos n.c.o.p.
+Cuota de:
+Por cada obrero: 135 pesetas. (0,811366 euro)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este epígrafe comprende la producción y primera transformación de metales no férreos, tales como zinc, plomo, estaño, antimonio, bismuto, wolframio, mercurio, oro, plata, etc. Abarca la obtención por primera y segunda fusión, así como la primera transformación mediante laminación, estirado, trefilado, extrusión, etc., y las aleaciones de estos metales.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 23
+
+Agrupación 23. Extracción de minerales no metálicos ni energéticos: Turberas.
+Grupo 231. Extracción de materiales de construcción.
+Epígrafe 231.1 Extracción de sustancias arcillosas.
+Cuota de:
+Por cada obrero: 663 pesetas. (30984710 euros)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este epígrafe comprende la extracción de arcillas, cerámicas y refractarias, margas, caolín y otras sustancias arcillosas, así como la pulverización, trituración, etc., que se realiza simultáneamente con la extracción.
+Epígrafe 231.2 Extracción de rocas y pizarras para la cons­trucción.
+Cuota de:
+Por cada obrero: 663 pesetas. (3,984710)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este epígrafe comprende la extracción de piedra, pizarra, mármoles, piedra caliza, granitos, pórfidos y basaltos, así como el tallado, pulverización, trituración, etc., que se realiza simultáneamente con la extracción.
+Epígrafe 231.3 Extracción de arenas y gravas para la cons­trucción.
+Cuota de:
+Por cada obrero: 663 pesetas. (3,984710 euros)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este epígrafe comprende la extracción de arenas y gravas para la construcción, así como el dragado de guijarros y la pulverización, trituración, etc., que se realiza simultáneamente con la extracción.
+Epígrafe 231.4 Extracción de yeso.
+Cuota de:
+Por cada obrero: 663 pesetas. (3,984710 euros)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este epígrafe comprende la extracción de yeso, así como la pulverización, trituración, etc., que se realiza simultáneamente con la extracción.
+Epígrafe 231.9 Extracción de otros materiales de construcción n.c.o.p.
+Cuota de:
+Por cada obrero: 663 pesetas. (3,984710 euros)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este epígrafe comprende la extracción de materiales de construcción, tales como serpentina, sienita, diabasa, ofita, toba, traquita, fonolita, etc., así como la pulverización, trituración, etc., que se realiza simultáneamente con la extracción.
+Grupo 232. Extracción de sales potásicas, fosfatos y nitratos.
+Epígrafe 232.1 Extracción de sales potásicas.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende la extracción de sales potásicas, tales como kainita, silvinita y otras, así como la trituración, pulverización, etc., que se realiza conjuntamente con la extracción.
+Epígrafe 232.2 Extracción de fosfatos y nitratos.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende la extracción de toda clase de fosfatos (de calcio, alumino-cálcicos, cretas fosfatadas) y de nitratos, así como la trituración, pulverización, etc., de estos minerales que se realiza conjuntamente con la extracción.
+Grupo 233. Extracción de sal común.
+Epígrafe 233.1 Extracción de sal marina.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende la extracción de sal marina, incluida la molienda, cribado y refinado que se realiza conjuntamente con la extracción.
+Epígrafe 233.2 Extracción de sal manantial y sal gema.
+Cuota de:
+Por cada obrero: 828 pesetas. (4.976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende la extracción de sal manantial y sal gema, así como la molienda, cribado y refinado que se realiza conjuntamente con la extracción.
+Grupo 234. Extracción de piritas y azufre.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este grupo comprende la extracción de azufre natural, minerales de azufre, piritas y pirrotitas, así como la molienda, trituración, pulverización, etc., que se realiza conjuntamente con la extracción.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 234.1 Piritas de hierro sin tostar.
+Epígrafe 234.2 Azufre natural.
+Grupo 239. Extracción de otros minerales no metálicos ni energéticos; turberas.
+Epígrafe 239.1 Extracción de fluorita.
+Cuota de:
+Por cada obrero: 828 Pesetas. (4,976380 euros)
+Por cada Kw: 342 Pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende la extracción de fluorita (espato de flúor), así como la molienda, trituración, pulverización, etc., que se realiza conjuntamente con la extracción.
+Epígrafe 239.2 Extracción de turba.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Epígrafe 239.9 Extracción de otros minerales no metálicos ni energéticos n.c.o.p.
+Cuota de:
+Por cada obrero: 994 pesetas. (5,974060 euros)
+Por cada kW: 414 pesetas. (2,488190 euros)
+Nota: Este epígrafe comprende la extracción de turba, de minerales de sodio (thenardita, glauberita), de boro, de bario (baritina), cuarzo, sílice, arenas silíceas no empleadas en la construcción, tierras de trípoli, feldespato, pegmatita, dolomía, magnesita, talco esteatito, sepiolita, asfalto y betunes, gemas, granates, grafito, amianto, mica, ocres, arsénico, litio, estroncio y otros, así como la molienda, trituración, pulverización, etcétera, que se realiza conjuntamente con la extracción.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 239.9 por la disposición adicional 17.7 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+### Agrupación 24
+
+Agrupación 24. Industrias de productos minerales no metálicos.
+Grupo 241. Fabricación de productos de tierras cocidas para la construcción (excepto artículos refractarios).
+Cuota de:
+Por cada obrero: 404 pesetas. (2,428089 euros)
+Por cada Kw: 425 pesetas. (2,554301 euros)
+Nota: Este grupo comprende la fabricación de productos de tierras cocidas para la construcción, no refractarios, tales como ladrillos, tejas y accesorios, baldosas y losetas para solado y revestimiento; tubos y cañerías; cornisas, frisos, bovedillas y otras piezas especiales para la construcción.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los epígrafes siguientes:
+Epígrafe 241.1 Ladrillos, bloques y piezas especiales para for­jados.
+Epígrafe 241.2 Tejas, baldosas y otros materiales de tierras cocidas para la construcción.
+Grupo 242. Fabricación de cementos, cales y yeso.
+Epígrafe 242.1 Fabricación de cementos artificiales.
+Cuota de:
+Por cada obrero: 477 pesetas. (2,866828 euros)
+Por cada Kw: 1.087 pesetas. (6,533002 euros)
+Nota: Este epígrafe comprende la fabricación de clinkers, cementos Portland (corriente, resistente a las aguas selenítosas, siderúrgico, etc.), cemento aluminoso, cemento puzolánico y otros cementos artificiales.
+Epígrafe 242.2 Fabricación de cementos naturales.
+Cuota de:
+Por cada obrero: 477 pesetas. (2,866828 euros)
+Por cada Kw: 694 pesetas. (4,171024 euros)
+Nota: Este epígrafe comprende la fabricación de cementos naturales de todas clases.
+Epígrafe 242.3 Fabricación de cales y yesos.
+Cuota de:
+Por cada obrero: 477 pesetas. (2,866828 euros)
+Por cada Kw: 694 pesetas. (4,171024 euros)
+Nota: Este epígrafe comprende la fabricación de cales vivas, hidráulicas y ordinarias; cales muertas o apagadas; yeso blanco y negro; escayola, tiza, etc.
+Grupo 243. Fabricación de materiales de construcción en hormigón, cemento, yeso, escayola y otros.
+Epígrafe 243.1 Fabricación de hormigones preparados.
+Cuota de:
+Por cada obrero: 2.070 pesetas. (12,440951 euros)
+Por cada Kw: 1.449 pesetas. (8,708665 euros)
+Nota: Este epígrafe comprende la fabricación de hormigón fresco o mezclado, incluido el entregado directamente en las obras por medio de camiones especiales provistos de una hormigonera.
+Epígrafe 243.2 Fabricación de productos en fibrocemento.
+Cuota de:
+Por cada obrero: 673 pesetas. (4,044811 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este epígrafe comprende la fabricación de productos en fibrocemento y amianto cemento, tales como placas, tubos, accesorios para tuberías y otros elementos de construcción.
+Epígrafe 243.3 Fabricación de otros artículos derivados del cemento, excepto pavimentos.
+Cuota de:
+Por cada obrero: 715 pesetas. (4,297237 euros)
+Por cada Kw: 508 pesetas. (3,053141 euros)
+Nota: Este epígrafe comprende la fabricación de elementos para la construcción y obras públicas en hormigones en masa, armados y pretensados, así como artículos en celulosa-cemento y pomez-cemento, con la exclusión de productos derivados del cemento dedicados a la pavimentación.
+Epígrafe 243.4 Fabricación de pavimentos derivados del ce­mento.
+Cuota de:
+Por cada obrero: 606 pesetas. (3,642133 euros)
+Por cada Kw: 440 pesetas. (2,644453 euros)
+Nota: Este epígrafe comprende la fabricación de productos derivados del cemento dedicados a la pavimentación.
+Epígrafe 243.5 Fabricación de artículos derivados del yeso y escayola.
+Cuota de:
+Por cada obrero: 984 pesetas. (5,913959 euros)
+Por cada Kw: 932 pesetas. (5,601433 euros)
+Nota: Este epígrafe comprende la fabricación de elementos de construcción a base de yeso y escayola, tales como planchas, paneles, baldosas, losetas, molduras y similares.
+Grupo 244. Industrias de la piedra natural.
+Cuota de:
+Por cada obrero: 1.123 pesetas. (6,749366 euros)
+Por cada Kw: 1.015 pesetas. (6,100273 euros)
+Nota: Este grupo comprende la marmolistería (decorativa, funeraria), talla de pizarra, piedra de construcción y piedra natural fuera de la cantera, así como la industria de la grava y arena.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los epígrafes siguientes:
+Epígrafe 244.1 Piedra natural triturada y clasificada.
+Epígrafe 244.2 Piedra natural simplemente tallada y aserrada.
+Epígrafe 244.3 Piedra elaborada.
+Grupo 245. Fabricación de abrasivos.
+Cuota de:
+Por cada obrero: 228 pesetas. (1,370308 euros)
+Por cada Kw: 363 pesetas. (2,181674 euros)
+Nota: Este grupo comprende la fabricación de muelas, asperones, piedras de afilar, esmeril, papeles y telas abrasivas, pastas de pulir y otros productos abrasivos de acción mecánica bien sean naturales, artificiales aglomerados o fabricados artificialmente a partir de diamantes naturales o sintéticos, así como la producción de abrasivos sobre soporte.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los epígrafes siguientes:
+Epígrafe 245.1 Muelas y artículos similares para máquinas y piedras para afilar o pulir a mano.
+Epígrafe 245.2 Otros abrasivos.
+Grupo 246. Industria del vidrio.
+Epígrafe 246.1 Fabricación de vidrio plano.
+Cuota de:
+Por cada obrero: 363 pesetas. (2,181674 euros)
+Por cada Kw: 803 pesetas. (4,826127 euros)
+Nota: Este epígrafe comprende la fabricación de vidrio plano estirado y laminado o colado.
+Epígrafe 246.2 Fabricación de vidrio hueco.
+Cuota de:
+Por cada obrero: 363 pesetas. (2,181674 euros)
+Por cada Kw: 942 pesetas. (5,661534 euros)
+Nota: Este epígrafe comprende la fabricación de vidrio hueco por procedimientos automáticos, semiautomáticos o manuales y abarca la fabricación de envases de vidrio; de servi­cio de mesa y otros objetos domésticos de vidrio no prensado; fabricación de vidrio prensado y otras fabricaciones de vidrio hueco.
+Epígrafe 246.3 Fabricación de vidrio técnico.
+Cuota de:
+Por cada obrero: 363 pesetas. (2,181674 euros)
+Por cada Kw: 942 pesetas. (5,661534 euros)
+Nota: Ese epígrafe comprende la fabricación de vidrio para óptica; de relojería; para bombillas, válvulas y lámparas eléctricas (incluidos los tubos y varillas); vidrio de laboratorio graduado, de higiene, de farmacia y para uso médico; vidrio resistente al fuego; objetos en cuarzo y sílice fundidos; tubos, barras, varillas y bolas en vidrio esmaltado; vidrio para ortopedia, etc.
+Epígrafe 246.4 Fabricación de fibra de vidrio.
+Cuota de:
+Por cada obrero: 363 pesetas. (2,181674 euros)
+Por cada Kw: 942 pesetas. (5,661534 euros)
+Nota: Este epígrafe comprende la fabricación de fibra de vidrio (vidrio hilado y centrifugado) textil y no textil, continua y discontinua, incluida la lana de roca o lana de vidrio, así como artículos a base de esta fibra, tales como paneles, colchones, velas y mástiles, tejidos y cintas, mechas e hilos, etc.
+Epígrafe 246.5 Manipulado de vidrio.
+Cuota de:
+Por cada obrero: 2.070 pesetas. (12,440951 euros)
+Por cada Kw: 2.350 pesetas. (14,123784 euros)
+Nota: Este epígrafe comprende el manipulado de vidrio plano (templado, pulido, moteado, grabado, tallado, azogado, plateado, etc.), manipulado de vidrio hueco (tallado, decorado, etc.), manipulado de vidrio al soplete y otros manipulados de vidrio.
+Epígrafe 246.6. Fabricación de fritas y esmaltes cerámicos.
+Cuota de:
+– Por cada obrero: 932 pesetas. (5,601433 euros)
+– Por cada Kw: 1.398 pesetas. (8,402149 euros)
+Grupo 247. Fabricación de productos cerámicos.
+Epígrafe 247.1 Fabricación de artículos refractarios.
+Cuota de:
+Por cada obrero: 1.025 pesetas. (6,160374 euros)
+Por cada Kw: 1.160 pesetas. (6,971740 euros)
+Nota: Este epígrafe comprende la fabricación de artículos refractarios de todas clases (silicosos, aluminosos, de grafito, de carbón, de cromita, de magnesita, de bauxita, dolomiticos), tales como ladrillos, bloques, piezas, etc.
+Epígrafe 247.2 Fabricación de baldosas para pavimentación o revestimiento sin barnizar ni esmaltar.
+Cuota de:
+Por cada obrero: 1.108 pesetas. (6,659214 euros)
+Por cada Kw: 1.698 pesetas. (10,205186 euros)
+Epígrafe 247.3 Fabricación de baldosas para pavimentación o revestimiento barnizadas o esmaltadas.
+Cuota de:
+Por cada obrero: 1.108 pesetas. (6,659214 euros)
+Por cada Kw: 1.698 pesetas. (10,205186 euros)
+Epígrafe 247.4 Fabricación de vajillas, articulos del hogar y objetos de adorno, de material cerámico.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 1.274 pesetas. (7,656894 euros)
+Nota: Este epígrafe comprende la fabricación de objetos de barro (alfarería), loza ordinaria, mayólica y fina, porcelana (blanca o coloreada), gres y otro material cerámico para vajillas, artículos del hogar y objetos de decoración.
+Epígrafe 247.5 Fabricación de aparatos sanitarios de loza, porcelana y gres.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 1.274 pesetas. (7,656894 euros)
+Nota: Este epígrafe comprende la fabricación de aparatos higiénicos y sanitarios de todas clases en gres, loza y porcelana.
+Epígrafe 247.6 Fabricación de aisladores y piezas aislantes de material cerámico para instalaciones eléctricas.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 1.274 pesetas. (7,656894 euros)
+Nota: Este epígrafe comprende la fabricación de aisladores y piezas aislantes de materias cerámicas para líneas eléctricas exteriores aéreas y para instalaciones eléctricas.
+Epígrafe 247.9 Fabricación de otros artículos cerámi­cos n.c.o.p.
+Cuota de:
+Por cada obrero: 828 pesetas. (4,976380 euros)
+Por cada Kw: 1.274 pesetas. (7,656894 euros)
+Nota: Este epígrafe comprende la fabricación de alfarería industrial; porcelana térmica, técnica, de laboratorio, vasijas y recipientes especiales; artesas, cubetas, cántaros y otros recipientes similares y material cerámico para arquitectura y construcción.
+Grupo 249. Industrias de otros productos minerales no metálicos n.c.o.p.
+Cuota de:
+Por cada obrero: 1.108 pesetas. (6,659214 euros)
+Por cada Kw: 1.004 pesetas. (6,034162 euros)
+Nota: Este grupo comprende la fabricación de productos en amianto, grafito, mica, asfalto, etc.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los epígrafes siguientes:
+Epígrafe 249.1 Productos asfálticos.
+Epígrafe 249.2 Productos a base de amianto.
+Epígrafe 249.9 Productos a base de otros minerales no metálicos.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el epígrafe 246.6 por el art. 75.1.2 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 25
+
+Agrupación 25. Industria Química.
+Grupo 251. Fabricación de productos químicos básicos (excepto productos farmacéuticos de base).
+Epígrafe 251.1 Fabricación de productos quimicos orgánicos de origen petroquímico.
+Cuota de:
+Por cada obrero: 1.087 pesetas. (6,533002 euros)
+Por cada Kw: 2.422 pesetas. (14,556513 euros)
+Nota: Este epígrafe comprende la obtención de hidrocarburos y sus derivados, incluidos los monómeros, tales como acetileno, benceno, etileno, butadieno, nitrobuceno, naftaleno, propileno, bromuros y cloruros de etilo, betilo y metilo y otros, así como los derivados halogenados, nitrados y nitrosados de hidrocarburos.
+Epígrafe 251.2 Fabricación de otros productos químicos orgá­nicos.
+Cuota de:
+Por cada obrero: 1.087 pesetas. (6,533002)
+Por cada Kw: 2.422 pesetas. (14,556513 euros)
+Nota: Este epígrafe comprende la obtención de productos de la carboquímica, y otros productos orgánicos de síntesis y no de sintesis, tales como los ácidos orgánicos y sus derivados; alcoholes y sus derivados; aldehídos y cetonas y sus derivados; compuestos nitrogenados (amidas, aminas, nitrilos) y sus derivados; éteres y sus derivados; fenoies y sus derivados; hidratos de carbono y sus derivados, así como la destilación de carbones minerales y sus derivados; (alquitrán, benzol), y la fabricación de betunes asfálticos oxidados.
+Epígrafe 251.3 Fabricación de productos químicos inorgánicos (incluye la fabricación de gases industriales, excepto gases comprimidos).
+Cuota de:
+Por cada obrero: 228 pesetas. (1,370308 euros)
+Por cada Kw: 156 pesetas. (0,937579 euro)
+Nota: Este epígrafe comprende la obtención de ácido sulfúrico y productos derivados (anhídrido sulfuroso y sus derivados, sulfato de cobre, sulfato de aluminio, sulfuro de carbono, sulfato de sodio y sulfuro de sodio, azufres sublimados, refinados y precipitados, etc.); fabricación de gases industriales, en estado líquido o gaseoso (excepto gases comprimidos; se consideran gases comprimidos los gases industriales que, tras ser fabricados en estado líquido o gaseoso, son envasados a una presión superior a 150 bares); electroquímica; obtención de carburo de calcio; obtención de fósforo, calcio, arsénico, cianuro, bromo, yodo; ácidos inorgánicos; bases, hidróxidos y peróxidos; haluros no metálicos; sales y otros productos químicos inorgánicos de base y la obtención de isótopos radioactivos.
+Epígrafe 251.4 Fabricación de primeras materias plás­ticas.
+Cuota de:
+Por cada obrero: 368 pesetas. (2,211725 euros)
+Por cada Kw: 559 pesetas. (3,359658 euros)
+Nota: Este epigrafe comprende la fabricación de materias plásticas en estado bruto bajo forma liquida, en polvo o granulada, tales como fenoplastos, aminoplastos, poliésteres, poliamidas, poliuretanos, siliconas, productos de la polimerización (policloruro de vinilo, poliacetato de vinilo, acrilicos, metacrílicos, etc.), materias plásticas a base de acetato de celulosa y otras materias plásticas.
+Epígrafe 251.5 Fabricación de cauchos y látex sintéticos.
+Cuota de:
+Por cada obrero: 368 pesetas. (2,211725 euros)
+Por cada Kw: 559 pesetas. (3,359658 euros)
+Nota: Este epigrafe comprende la obtención de cauchos y latex sintéticos, tales como caucho-butilo, polibutadieno, polibutadieno-astireno, polibutadieno-acrilonitrilo, policlorobutadieno, latex de caucho sintético, látex de polibutadieno-estireno y otros.
+Epígrafe 251.6 Producción de fibras artificiales y sinté­ticas.
+Cuota de:
+Por cada obrero: 663 pesetas. (3,984710 euros)
+Por cada Kw: 1.449 pesetas. (8,708665 euros)
+Nota: Este epígrafe comprende la producción de fibras artificiales y sintéticas, continuas y discontinuas, obtenidas por polimerización o condensación de monómeros orgánicos o por transformacion química de polímeros orgánicos naturales, tales como el rayón y otras fibras celulósicas, fibras acrilicas, el nylón y otras fibras poliamídicas, de poliester, hilo de polipropileno, etc.
+Epígrafe 251.7 Fabricación de ácido y anhídrido ftálico y maléico y de ácidos isoftálico y tereftálico.
+Cuota de:
+Por cada obrero: 207 pesetas. (1,244095 euros)
+Por cada Kw: 52 pesetas. (0,312526 euros)
+Grupo 252. Fabricación de productos químicos destinados principalmente a la agricultura.
+Epígrafe 252.1 Fabricación de abonos.
+Cuota de:
+Por cada obrero: 311 pesetas. (1,869148 euros)
+Por cada Kw: 870 pesetas. (5,228805 euros)
+Nota: Este epígrafe comprende la fabricación de abonos fosfatados, nitrogenados, potásicos y otros (orgánicos, compuestos y complejos). Se incluyen las fábricas de ácido sulfúrico, fosfórico y nítrico que funcionan conjuntamente con fábricas de abonos y que no puedan clasificarse por separado.
+Epígrafe 252.2 Fabricación de plaguicidas.
+Cuota de:
+Por cada obrero: 5.072 pesetas. (30,483334 euros)
+Por cada Kw: 4.730 pesetas. (28,427873 euros)
+Nota: Este epígrafe comprende la fabricacion de toda clase de plaguicidas de uso agrícola, tales como insecticidas agrícolas a base de productos orgánicos e inorgánicos; formulaciones para espolvoreo y pulverización (clorados, fosforados, carbamatos); formulaciones en granulado; fumigantes; acaricidas; nematicidas; fungicidas y desinfectantes de semillas; herbicidas; molusquicidas, etc; los productos químicos de todas clases utilizados en ganadería, así como los insecticidas y otros productos fitosanitarios de uso doméstico.
+Grupo 253. Fabricación de productos químicos destinados principalmente a la industria.
+Epígrafe 253.1 Fabricación de gases comprimidos y de anhídrido carbónico solidificado (hielo seco).
+Cuota de:
+Por cada obrero: 528 pesetas. (3,173344 euros)
+Por cada Kw: 549 pesetas. (3,299556 euros)
+Nota: Se considera gas comprimido cualquier gas industrial de los fabricados bajo el epígrafe 251.3 envasado a una presión superior a 150 bares.
+Epígrafe 253.2 Fabricación de colorantes y pigmentos.
+Cuota de:
+Por cada obrero: 1.408 pesetas. (8,462250 euros)
+Por cada Kw: 2.029 pesetas. (12,194536 euros)
+Nota: Este epigrafe comprende la obtención de colorantes y pigmentos de origen mineral, de origen orgánico y sintéticos, tales como albayalde, azul de prusia, de ultramar, litopón, minio, nogalina, ocres, bióxido de titanio, óxidos rojos de hierro (naturales y sintéticos), óxidos de zinc y de plomo, colorantes de anilina, purpurinas, etc.
+Epígrafe 253.3 Fabricación de pinturas, barnices y lacas.
+Cuota de:
+Por cada obrero: 3.809 pesetas. (22,892551 euros)
+Por cada Kw: 2.940 pesetas. (17,669756 euros)
+Nota: Este epígrafe comprende la fabricación de pinturas al agua; colores en pasta; colores para dibujo y pintura artistica; pinturas, barnices y lacas a base de derivados celulósicos, a base de resinas naturales, artificiales y sintéticas, o a base de derivados del caucho, aafalto y aceites, así como la fabricación de productos conexos con pinturas, barnices y lacas, tales como masillas de aceite, secativos, quitapinturas, desleidores y otros.
+Epígrafe 253.4 Fabricación de tintas de imprenta.
+Cuota de:
+Por cada obrero: 3.809 pesetas. (22,892551 euros)
+Por cada Kw: 2.940 pesetas. (17,669756 euros)
+Nota: Este epígrafe comprende la fabricación de tintas para artes gráficas, tintas de helio-edición, tintas tipo offset y otras tintas de imprenta.
+Epígrafe 253.5 Tratamiento de aceites y grasas para usos industriales.
+Cuota de:
+Por cada obrero: 2.702 pesetas. (16,239347 euros)
+Por cada Kw: 1.760 pesetas. (10,577813 euros)
+Nota: Este epigrafe comprende el desdoblamiento de aceites y grasas para la obtención de glicerina, estearina, lanolina, oleína, ácidos grasos y productos de base para la fabricación de detergentes, así como la transformación química de grasas industriales (obtención de sulfonados, estearatos, alcoholes grasos y derivados, etc.).
+Epígrafe 253.6 Fabricación de aceites esenciales y de sustancias aromáticas, naturales y sintéticas.
+Cuota de:
+Por cada obrero: 3.519 pesetas. (21,149616 euros)
+Por cada Kw: 3.861 pesetas. (23,205077 euros)
+Nota: Este epígrafe comprende la fabricación de esencias, aceites esenciales y materias primas aromáticas naturales; la destilación de esencias y aromas; obtención de materias primas aromáticas para la industria alimenticia y la fabricación de composiciones a base de perfumes naturales o sintéticos destinados a la perfumería y a la industria alimenticia.
+Epígrafe 253.7 Fabricación de colas y gelatinas y de productos auxiliares para la industria textil, del cuero y del caucho.
+Cuota de:
+Por cada obrero: 1.957 pesetas. (11,761807 euros)
+Por cada Kw: 2.070 pesetas. (12,440951 euros)
+Nota: Este epígrafe comprende la fabricación de colas y gelatinas a base de resinas naturales, celulósicas, de origen animal, de caseína, a base de elastómeros, de plastómeros, etc.; mástics y otros adhesivos y aprestos; curtientes vegetales y sintéticos y otros productos quimicos auxiliares de la curtición; negro de carbono, negro de humo, negro de acetileno; extractos de algas y extractos de otras materias vegetales y animales; preparados lubricantes para los textiles y cueros, etc.
+Epígrafe 253.8 Fabricación de explosivos.
+Cuota de:
+Por cada obrero: 3.437 pesetas. (20,656786 euros)
+Por cada Kw: 3.437 pesetas. (20,656786 euros)
+Nota: Este epígrafe comprende la fabricación de explosivos y polvoras de todas clases, tales como binitrotolueno, dinamitas, nitrocelulosa, nitroglicerina, trilita, tretalita, cápsulas fulminantes, detonadores, mechas y cordones detonantes y toda clase de pólvoras.
+Se incluye también en este epígrafe la fabricación de municiones bélicas.
+Epígrafe 253.9 Fabricación de otros productos químicos de uso industrial n.c.o.p.
+Cuota de:
+Por cada obrero: 1.615 pesetas. (9,706345 euros)
+Por cada Kw: 1.926 pesetas. (11,575493 euros)
+Nota: Este epígrafe comprende la fabricación de otros productos químicos de uso industrial, tales como carbones activos y artificiales, tierras activadas y otros minerales activados (bentonita, tierras de colorantes, etc.); productos químicos para tratar los metales, aceites y agua y de uso mecánico (lubricantes vegetales y mixtos, líquidos para transmisiones hidráulicas y anticongelantes, aditivos para carburantes y lubricantes, decapantes, desincrustantes, depuradores de agua, etc.); abrasivos químicos; productos resinosos naturales y sus derivados, etc.
+Grupo 254. Fabricación de productos farmacéuticos.
+Epígrafe 254.1 Fabricación de productos farmacéuticos de base.
+Cuota de:
+Por cada obrero: 2.754 pesetas. (16,551873 euros)
+Por cada Kw: 2.464 pesetas. (14,808938 euros)
+Nota: Este epígrafe comprende la elaboración de alcaloides, antibióticos, derivados salicilicos, pirazoles, barbitúricos, sulfamidas, vitaminas, hormonas, extractos vegetales medicinales, preparados a base de glándulas y otros para usos opoterápicos, sueros y vacunas y otros productos farmacéuticos de base.
+Epígrafe 254.2 Fabricación de especialidades y otros productos farmacéuticos.
+Cuota de:
+Por cada obrero: 2.277 pesetas. (13,685046 euros)
+Por cada Kw: 1.615 pesetas. (9,706345 euros)
+Nota: Este epígrafe comprende la elaboración de especialidades farmacéuticas para uso de la medicina humana y especialidades farmacéuticas para uso de la medicina veterinaria y correctores de piensos, así como la fabricación de otros productos farmacéuticos (apósitos, gasa esterilizada, catgut, esparadrapo, reactivos para análisis, preparados galénicos, etc.).
+Grupo 255. Fabricación de otros productos químicos destinados principalmente al consumo final.
+Epígrafe 255.1 Fabricación de jabones comunes, detergentes y lejías.
+Cuota de:
+Por cada obrero: 1.863 pesetas. (11,196856 euros)
+Por cada Kw: 2.236 pesetas. (13,438631 euros)
+Nota: Este epígrafe comprende la fabricación de jabón común e industrial, detergentes y lejías.
+Epígrafe 255.2 Fabricación de jabones de tocador y otros productos de perfumería y cosmética.
+Cuota de:
+Por cada obrero: 3.726 pesetas. (22,393711 euros)
+Por cada Kw: 4.347 pesetas. )26,125996 euros)
+Nota: Este epígrafe comprende la fabricación de artículos para el aseo personal (jabones de tocador, baño y afeitado, sales de baño, desodorantes, etc.); colonias, lociones y perfumes; productos de belleza para el cuidado y conservación de la piel; productos para la higiene bucal; productos para el cuidado y conservación del cabello y otros productos de perfumería y cosmética.
+Epígrafe 255.3 Fabricación de derivados de ceras y parafinas.
+Cuota de:
+Por cada obrero: 5.258 pesetas. (31,601216 euros)
+Por cada Kw: 3.178 pesetas. (19,100165 euros)
+Nota: Este epígrafe comprende la preparación de ceras; elaboración de productos para conservación y limpieza de calzado; productos derivados de ceras y parafinas para conservación y cuidado del hogar (encáusticos para suelos y muebles, lustres para metales, etc.); productos derivados de ceras y parafinas para conservación y limpieza de vehiculos; fabricación de velas, bujias y artículos análogos y de otros productos derivados de ceras y parafinas.
+Epígrafe 255.4 Fabricación de material fotográfico sensible.
+Cuota de:
+Por cada obrero: 2.919 pesetas. (17,543543 euros)
+Por cada Kw: 4.223 pesetas. (25,380741 euros)
+Nota: Este epígrafe comprende la fabricación de películas, placas y papeles para uso fotográfico y cinematográfico; papeles para reproducción de planos (heliográficos, azográficos, etc.); fabricación de preparados químicos para laboratorio fotográfico (enfocadores, reveladores, fijadores, rebajadores) y fabricación de otro material fotográfico sensible.
+Epígrafe 255.5 Fabricación de artículos pirotécnicos, cerillas y fósforos.
+Cuota de:
+Por cada obrero: 3.312 pesetas. (19,905521 euros)
+Por cada Kw: 5.289 pesetas. (31,787530 euros)
+Nota: Este epigrafe comprende la fabricación de articulos de pirotecnía, tales como antorchas, artículos fosfóricos, de señales y salvamento, cohetes, tracas, truenos y fuegos artificiales, así como la fabricación de cerillas y fósforos.
+Epígrafe 255.9 Fabricación de otros productos químicos destinados principalmente al consumo final n.c.o.p.
+Cuota de:
+Por cada obrero: 3.312 pesetas. (19,905521 euros)
+Por cada Kw: 5.289 pesetas. (31,787530 euros)
+Nota: Este epígrafe comprende la fabricación de otros productos quimicos principalmente destinados al consumo final, tales como productos químicos de oficina y escritorio (tintas, clisés, papel carbón, etc.); productos de limpieza (limpia-cristales, limpia-metales, quitamanchas, purificadores de ambiente, etc.) y otros.
+Se modifican los epígrafes 251.3 y 253.1 por el art. 74.1 y 2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
+ Se modifica el título del epígrafe 251.7 por el art. 71.1 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 3
+
+DIVISIÓN 3. INDUSTRIAS TRANSFORMADORAS DE LOS METALES. MECÁNICA DE PRECISIÓN.
+
+### Agrupación 31
+
+Agrupación 31. Fabricación de productos metálicos (excepto máquinas y material de transporte).
+Grupo 311. Fundiciones.
+Epígrafe 311.1 Fundición de piezas de hierro y acero.
+Cuota de:
+Por cada obrero: 135 pesetas. (0,811366 euro)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este epígrafe comprende la obtención de toda clase de piezas en fundición de hierro o acero por cualquier procedimiento.
+Epígrafe 311.2 Fundición de piezas de metales no férreos y sus aleaciones.
+Cuota de:
+Por cada obrero: 135 pesetas. (0,811366 euro)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este epígrafe comprende la fundición de piezas de metales no férreos y sus aleaciones, tales como productos de fundición del cobre, de sus aleaciones y de otras aleaciones diversas incluidas las ligeras y ultraligeras, así como la producción de artículos en metales no férreos y sus aleaciones obtenidos por procedimientos de fundición a presión.
+Grupo 312. Forja, estampado, embutición, troquelado, corte y repulsado.
+Cuota de:
+Por cada obrero: 466 pesetas. (2,800716 euros)
+Por cada Kw: 363 pesetas. (2,181674 euros)
+Nota: Este grupo comprende la forja, estampado, corte, troque­lado, repulsado y embutición de metales férreos, no férreos y alea­ciones.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 312.1 Piezas forjadas.
+Epígrafe 312.2 Piezas estampadas o troqueladas.
+Epígrafe 312.3 Piezas embutidas, cortadas o repulsadas.
+Grupo 313. Tratamiento y recubrimiento de los metales.
+Cuota de:
+Por cada obrero: 394 pesetas. (2,367988 euros)
+Por cada Kw: 259 pesetas. (1,556621 euros)
+Nota: Este grupo comprende el recubrimiento o revestimiento de los metales, su tratamiento térmico, así como la decoración y protección decorativa de los mismos. Abarca el recubrimiento por electrolisis, oxidación anódica, fosfatación, revestimiento por inmersión, con pinturas metálicas, esmaltado, laqueado, pulimento, etc.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epigrafes:
+Epigrafe 313.1 Tratamiento de los metales (temple, revenido, etc.).
+Epígrafe 313.2 Recubrimientos metálicos.
+Epígrafe 313.9 Tratamientos de protección de los metales n.c.o.p.
+Grupo 314. Fabricación de productos metálicos estructurales.
+Epígrafe 314.1 Carpintería metálica.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 642 pesetas. (3,858498 euros)
+Nota: Este epígrafe comprende la fabricación de articulos de carpinteria metálica, tales como puertas, ventanas, marcos para puertas y ventanas, bastidores, marquesinas, rejas, ­verjas, balaustradas, muros, tabiques, paneles, cornisas, claraboyas, elementos para calefacción, ventilación, aire acondicionado, desagüe, etc.; asi como la instalación asociada que no pueda clasificarse por separado.
+Epígrafe 314.2 Fabricación de estructuras metálicas.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 642 pesetas. (3,858498 euros)
+Nota: Este epígrafe comprende la fabricación de estructuras metálicas, tales como armazones de edificios, hangares prefabricados, elementos de puentes, pasarelas, pilares, elementos estructurales metálicos, material fijo para vías férreas, desembarcaderos, muelles fijos, exclusas, etc.; así como su instalación asociada que no pueda clasificarse por separado.
+Grupo 315. Construcción de grandes depósitos y calderería gruesa.
+Cuota de:
+Por cada obrero: 870 pesetas. (5,228805 euros)
+Por cada Kw: 642 pesetas. (3,858498 euros)
+Nota: Este grupo comprende la construcción de grandes depósitos para líquidos o gases, tuberías de gran tamaño, secciones de calderas, calderas de vapor (multitubulares, semitubulares y otras), chimeneas, tanques metálicos, así como su instalación asociada si no puede clasificarse por separado de su construcción.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epigrafes:
+Epigrafe 315.1 Grandes calderas.
+Epígrafe 315.2 Grandes depósitos metálicos y otros productos de calderería gruesa.
+Grupo 316. Fabricación de herramientas y artículos acabados en metales, con exclusión de material eléctrico.
+Epígrafe 316.1 Fabricación de herramientas manuales.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epígrafe comprende la fabricación de herramientas manuales agrícolas, hortícolaa y forestales (palas, hoces, guadañas, azadas, sierras, etc.); herramientas manuales de uso doméstico e industrial (martillos, tenazas, llaves inglesas, etc.); herramientas manuales para trabajar la madera y los metales (sierras, hojas de sierra, limas, formones, terrajas, martillos, buriles, etc.); cuchillería industrial; material para herrerías (yunques, forjas, etc.); herramientas manuales para construcción, minería, chapistería, etc.
+Epígrafe 316.2 Fabricación de artículos de ferretería y cerrajería.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epígrafe comprende la fabricación de cuchilleria no industrial; hojas, navajas y máquinas de afeitar y cortar el pelo, no eléctricas; artículos de cerrajeria; artículos de fontanería (excepto válvulas y grifos), de lampistería y hojalatería (excepto envases); artículos de fumistería, de herrería (herrajes de todas clases) y otros artículos de ferretería.
+Epígrafe 316.3 Tornillería y fabricación de articulos derivados del alambre.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epígrafe comprende la fabricación de tornillos, pernos, tuercas, arandelas, remaches, terrajeria, etc.; así como la fabricación de muelles, resortes, ballestas y cadenas, alambre a partir de redondos comprados, electrodos para soldadura de arco, clavazón, telas y mallas metálicas, alambre espinoso, cables (excepto hilos y cables eléctricos), agujas, alfileres y otros artículos metálicos derivados del alambre.
+Epígrafe 316.4 Fabricación de artículos de menaje.
+Cuota de:
+Por cada obrero: 694 pesetas.(4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epigrafe comprende la fabricación de cubertería (excepto de metales preciosos o de metales comunes chapados); batería de cocina, cubos, fregaderos, bañeras, etc., metálicos y utensilios domésticos diversos sin accionamiento energético incorporado (cafeteras, molinillos, neveras, planchas, etc.).
+Epígrafe 316.5 Fabricación de cocinas, calentadores y aparatos domésticos de calefacción, no eléctricos.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epigrafe comprende la fabricación de cocinas, calentadores, estufas, braseros, radiadores y aparatos domésticos de calefacción de todas clases, sin acondicionamiento eléctrico.
+Epígrafe 316.6 Fabricación de mobiliario metálico.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epigrafe comprende la fabricación de camas metálicas, somieres, colchones de muelles, otros muebles metálicos de uso doméstico; de oficina; para terrazas y jardines; para usos sanitarios y de hospitales; fabricación de cajas fuertes; accesorios para restaurantes, tiendas, salones de peluquería (sillones metálicos, mostradores, vitrinas, etc.); cabinas telefónicas, etc., así como la fabricación de piezas y accesorios.
+Epígrafe 316.7 Fabricación de recipientes y envases metálicos.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epígrafe comprende la fabricación de contenedores, envases de chapa de acero, de hojalata, de aluminio, de recipientes especiales para líquidos y gases a presión y de otros recipientes metálicos.
+Epígrafe 316.8 Fabricación de armas ligeras y sus municiones.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epígrafe comprende la fabricación de armas ligeras, de caza, para deportes en general, neumobalísticas, armas blancas, etc, así como la fabricación de sus proyectiles y municiones y la fabricación de equipos, piezas y accesorios para ellas. No se incluye la fabricación de armas de guerra.
+Epígrafe 316.9 Fabricación de otros artículos acabados en metales n.c.o.p.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 528 pesetas. (3,173344 euros)
+Nota: Este epigrafe comprende la fabricación de valvulería y grifería; aparatos metálicos de iluminación, señalización y anuncio cuando la parte eléctrica es accesoria (lámpara, linternas, carteles de anuncio, placas de señalización, etc.); tipos de imprenta y otros articulos metálicos no clasificados anteriormente (objetos de adorno en metales, grapadoras portátiles, campanillas, etc.).
+Grupo 319. Talleres mecánicos independientes.
+Epígrafe 319.1 Mecánica general.
+Cuota de:
+Por cada obrero: 860 pesetas. (5,168704 euros)
+Por cada Kw: 466 pesetas. (2,800716 euros)
+Nota: Este epigrafe comprende la aplicación de diversos procedimientos de transformación de metales mediante máquinas-herramientas, ejecutados por encargo o según planos aportados por empresas de construcción de maquinaria y material mecánico.
+Epígrafe 319.9 Talleres mecánicos n.c.o.p.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada kW: 766 pesetas. (4,603753 euros)
+Nota: Este epígrafe comprende la reparación especializada de material agrícola, así como los talleres de soldadura, herradores-forjadores, etcétera, y todos aquellos talleres independientes no especificados en los grupos anteriores.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 319.9 por la disposición adicional 17.8 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+### Agrupación 32
+
+Agrupación 32. Construcción de maquinaria y equipo mecánico.
+Grupo 321. Construcción de máquinas agrícolas y tractores agrícolas.
+Epígrafe 321.1 Construcción de máquinas agrícolas.
+Cuota de:
+Por cada obrero: 725 pesetas. (4,357338 euros)
+Por cada Kw: 559 pesetas. (3,359658 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria de labranza, siembra, abono y recolección; para el tratamiento de plagas; para el almacenamiento y conservación de cosechas; maquinaria y equipo forestal; de jardinería; máquinas y aparatos de ordeñar; maquinaria para lagares; aparatos y accesorios especiales para explotacíones ganaderas; para avicultura, apicultura, piscicultura, cunicultura, etc., así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 321.2 Construcción de tractores agrícolas.
+Cuota de:
+Por cada obrero: 725 pesetas. (4,357338 euros)
+Por cada Kw: 559 pesetas. (3,359658 euros)
+Nota: Este epígrafe comprende la construcción de motocultores, tractores agrícolas provistos de ruedas y tractores provistos de orugas.
+Grupo 322. Construcción de máquinas para trabajar los metales, la madera y el corcho; útiles, equipos y repuestos para máquinas.
+Epígrafe 322.1 Construcción de máquinas para trabajar los metales.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epigrafe comprende la construcción de maquinaria para el trabajo en frío y en caliente de los metales, tal como maquinaria para laminación y trefilería, para forja, para extrusión; aparatos de soldadura no eléctricos; máquinas-herramientas por arranque de virutas, para deformación y otra maquinaria similar, y la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 322.2 Construcción de máquinas para trabajar la madera y el corcho.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria para aserraderos (descortezadoras, de quitar nudos, desenrolladoras, sierras), para el trabajo general de la madera (alisadoras, perfiladoras, tupís, redondeadoras, líjadoras, prensadoras); para la elaboración de chapa y contrachapeado; para aglomerar fibras, virutas y serrín; para endurecimiento e impregnación; maquinaria para la industria del mueble; para tonelería; para el acabado de embalajes y de otros ar­tículos en madera (zapatos de madera y hormas, cestería y similares, parquet, etc.), así como para la industria del corcho, mím­bre, etc. y la fabricación de equipo, piezas y accesorios para ésta maquinaria.
+Epígrafe 322.3 Fabricación de útiles, equipos, piezas y accesorios para máquinas-herramientas.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epigrafe comprende la fabricación de toda clase de útiles, equipos, piezas y accesorios para máquinas-herramientas, tales como brocas, mandriles, fresas, taladros, calibradoras, etc.
+Grupo 323. Construcción de máquinas para las industrias textiles, del cuero, calzado y vestido.
+Epígrafe 323.1 Construcción de máquinas textiles y sus accesorios.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria para la preparación de fibras textiles, para la fabricación de hilados, para la fabricación de tejidos, para la fabricación de géneros de punto, para el blanqueado, teñido, estampado y acabado de textiles y otra maquinaria textil, así como la fabricación de equipo, piezas y accesorios para ésta maquinaria.
+Epígrafe 323.2 Construcción de máquinas para las industrias del cuero y calzado.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas para la preparación, curtido y elaboración de pieles y cueros (descarnadoras, batanes de mazos o cilindros, raspadoras, cortadoras, máquinas de satinar y granear) y maquinaria para la fabricación y reparación de calzado y otros artículos de cuero y de imitación de cuero, así como la fabricación de equipo, piezas y accesorios para ésta maquinaria.
+Epígrafe 323.3 Fabricación de máquinas de coser.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la fabricación de máquinas de coser y bordar de uso doméstico e industrial, así como la de equipo, piezas y accesorios para las mismas.
+Grupo 324. Construcción de máquinas y aparatos para las industrias alimenticias, químicas, del plástico y del caucho.
+Epígrafe 324.1 Construcción de máquinas para las industrias alimenticias, de bebidas y del tabaco.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas y aparatos para las industrias cárnicas, lácteas, de conservas, oleícolas y de grasas, molinería, panadería, azucarera, del cacao y chocolate, destilación de alcohol, vinícola, cervecera, fabricación y envasado de bebidas, del tabaco, etc., así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 324.2 Construcción de máquinas para la industria química.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas y aparatos para la industria química y refinerías de petróleo (clasificadoras, separadoras, mezcladoras, reactores, etc.), así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 324.3 Construcción de máquinas para las industrias de transformación del caucho y materias plásticas.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas y aparatos para la industria de transformación del plástico (maquinaria de extrusión, inyección, moldeo, etc.), y para la industria de transformación del caucho (maquinaria de elaboración, recauchutado, etc.), así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Grupo 325. Construcción de máquinas y equipo para minería, construcción y obras públicas, siderurgia y fundición y de elevación y manipulación.
+Epígrafe 325.1 Construcción de máquinas y equipo para minería, construcción y obras públicas.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria y equipo para las minas y canteras (maquinaria para sondeo, arranque y extracción; para prospección y extracción petrolífera; para lavado y preparación de minerales; equipos de seguridad y salvamento, etc.) y maquinaria y equipo para la construcción y obras públicas (excavadoras, apisonadoras, maquinaria para compactación y para construcción y conservación de carreteras, hormigoneras, explanadoras, etc.), así como la fabricación de piezas y accesorios para esta maquinaria.
+Epígrafe 325.2 Construcción de máquinas y equipo para las industrias de productos minerales no metálicos.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria y equipo para las industrias del vidrio, cerámica, de la piedra natural, del cemento, cales y yeso y otras industrias de productos minerales no metálicos (maquinaria para triturar, cribar, lavar, pulverizar, mezclar, moler, etc.), así como la fabricación de piezas y accesorios para esta maquinaria.
+Epígrafe 325.3 Construcción de máquinas y equipo para la siderurgia y fundición.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria y equipo para la siderurgia y fundición, tales como convertidores, calderos de colada, lingoteras, maquinaria de colada, trenes de laminación y maquinaria y material de fundición, así como la fabricación de piezas y accesorios para esta maquinaria.
+Epígrafe 325.4 Construcción de maquinaria de elevación y manipulación.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de maquinaria para levantar, izar y trasladar personas o materiales dentro de edificios, minas, establecimientos, estaciones, puertos, aeropuertos, etc., tales como construcción de ascensores, montacargas y escaleras mecánicas; vagonetas y tractores industriales; grúas rodantes, grúas puente y monocarril; transportadores mecánicos (de cinta, rodillos, cadenas, etc.); máquinas apiladoras, basculadores de vagones, etc., así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Se incluye también en este epígrafe la construcción de teleféricos, funiculares y otro equipo de arrastre y remolque a base de cables, así como la fabricación de cabrias, cabestrantes, gatos hidráulicos y neumáticos, etc.
+Grupo 326. Fabricación de órganos de transmisión.
+Epígrafe 326.1 Fabricación de engranajes, cadenas de transmisión y otros órganos de transmisión.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la fabricación de aparatos para cambios de velocidades y accionamiento a velocidad regulable, cajas de velocidades, acoplamientos hidráulicos de velocidad regulable; reductores y multiplicadores de velocidad; embragues, engranajes y trenes de engranaje; transmisiones por cadena y por rueda catalina (incluidas las cadenas para bicicletas); juntas de articulación, incluso las de tipo hidráulico flexible y tipo universal y accesorios de transmisión, tales como árboles de transmisión, volantes, poleas, etc., así como la fabricación de piezas y accesorios para esta maquinaria.
+Epígrafe 326.2 Fabricación de rodamientos.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la fabricación de rodamientos y cojinetes lisos, de bolas, de rodillos, de agujas, etc., así como la fabricación de sus piezas y accesorios.
+Grupo 329. Construcción de otras máquinas y equipo mecánico.
+Epígrafe 329.1 Construcción de máquinas para las industrias del papel, cartón y artes gráficas.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas para producir pasta papelera, papel y cartón (troceadoras, desfibradoras, trituradoras, espesadoras, molinos para pasta, máquinas de tipo Foudrinier y de tipo cilíndrico para fabricar cartón y prebobinadoras, máquinas de enlucir, impregnar, satinar, rayar y rizar papel); máquinas para la elaboración de artículos de papel (para elaborar bolsas, sobres, papel y cartón ondulado, cajas y otros envases de cartón, para moldear artículos de papel, para cortar y perforar el papel, etc.) y maquinaria y equipo de imprenta y encuadernación (linotipia, estereo­tipia, minervas, prensas, rotativas, máquinas litográficas offset, plegadoras, engomadoras, engrapadoras, prensadoras de libros, cosedoras, etc.), así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 329.2 Construcción de máquinas de lavado y limpieza en seco.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas para tintorería, planchado, lavado, secado y limpieza en seco, así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 329.3 Construcción de motores y turbinas (excepto los destinados al transporte).
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de motores y turbinas hidráulicos; máquinas de vapor; turbinas de vapor y gas; motores diesel y semidiesel; motores de aire o gas comprimido, etc., así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 329.4 Construcción de maquinaria para la manipulación de fluidos.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de transmisiones hidráulicas y neumáticas (acumuladores para circuitos oleohidráulicos, multiplicadores de presión, limitadores o reductores de presión y de caudal, elevadores de líquidos, etc.); compresores de aire, gases y máquinas especiales para gases; bombas para líquidos y de vacío; herramientas neumáticas, así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 329.9 Construcción de otras máquinas y equipo mecánico n.c.o.p.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 787 pesetas. (4,729965 euros)
+Nota: Este epígrafe comprende la construcción de máquinas y equipo mecánico no especificados en otros epígrafes, tales como construcción de aparatos eólicos; aparatos frigoríficos no domésticos; maquinaria para acondicionamiento de aire, refrigeración y ventilación; aparatos para pesar (excepto balanzas de precisión); centrifugadoras y equipo filtrante industrial (excepto para industria alimenticia y de bebidas); hornos industriales no eléctricos; maquinaria de acondicionamiento y embalaje (excepto para industrias alimenticia y de bebidas); equipo para la atomización de líquidos o polvos; aparatos automáticos de venta y distribución; máquinas tragaperras; equipo de lavado y engrase para estaciones de servicio de automóviles; material para la lucha contra incendios; construcción de armamento de guerra; maquinaria para relojería, maquinaria para la prestación de servicios de hostelería, así como la fabricación de equipo, piezas y accesorios para esta maquinaria.
+Nota común a la agrupación 32. Los sujetos pasivos matriculados en esta Agrupación podrán, sin pago de cuota adicional alguna, instalar la maquinaria y equipo mecánico que fabriquen, siempre que dicha instalación deba realizarla el propio fabricante.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade la nota común a la agrupación 32 por el art. 75.1.3 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 33
+
+Agrupación 33. Construcción de máquinas de oficina y ordenadores (incluida su instalación).
+Grupo 330. Construcción de máquinas de oficina y ordenadores (incluida su instalación).
+Cuota de:
+Por cada obrero: 1.139 pesetas. (6,845528 euros)
+Por cada Kw: 880 pesetas. (5,288907 euros)
+Nota: Este grupo comprende la construcción de máquinas de escribir, estenotipia y similares; calculadoras, sumadoras, máquinas contables, cajas registradoras y similares; copiadoras y reproductoras de documentos (excepto fotocopiadoras); perforadoras, verificadoras y clasificadoras de fichas; equipos para el proceso electrónico de datos, incluidas su instalación, así como la fabricación de equipo, piezas y accesorios para estas máquinas.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 330.1 Máquinas de oficina y ordenadores.
+Epígrafe 330.2 Instalación de máquinas de oficina y ordena­dores.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 34
+
+Agrupación 34. Construcción de maquinaria y material eléctrico.
+Grupo 341. Fabricación de hilos y cables eléctricos.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de hilos y cables eléctricos (conductores con funda de material aislante, esmaltados, con blindaje o protección especial, cables submarinos y subterráneos, hilos para bobinado, cables especiales para electrónica y alta frecuencia, etc.) y de hilos y cables telefónicos y telegráficos (coaxiales y otros).
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 341.1 Hilos y cables aislados para comunicaciones.
+Epígrafe 341.2 Hilos y cables aislados para el transporte de electricidad.
+Epígrafe 341.3 Hilos y cables aislados para bobinas.
+Epígrafe 341.4 Cordones flexibles e hilos aislados para portalámparas.
+Epígrafe 341.5 Hilos y cables aislados para instalaciones de la construcción.
+Epígrafe 341.9 Otros hilos y cables aislados.
+Grupo 342. Fabricación de material eléctrico de utilización y equipamiento.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de micromotores, motores universales, monofase y otros motores eléctricos; generadores, convertidores, grupos electrógenos; transformadores, rectificadores de corriente; imanes permanentes y dispositivos electromagnéticos; condensadores, conmutadores, dispositivos protectores; equipos eléctricos para vehículos de tracción y transporte; cuadros de distribución, mando, señalización y protección de máquinas, vías de comunicación e instalaciones en general (excepto los electrónicos); dinamos, magnetos, bujías, bobinas de encendido; accesorios eléctricos para automóviles; hornos industriales eléctricos, vehículos industriales eléctricos; herramientas eléctricas, aparatos de soldadura eléctrica, material de galvanoplastia, etc.; así como la fabricación de piezas y accesorios para este material.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 342.1 Máquinas y aparatos para la producción y transformación de la energía eléctrica.
+Epígrafe 342.2 Otro material eléctrico de utilización y equipamiento.
+Grupo 343. Fabricación de pilas y acumuladores.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de pilas y baterías de todo tipo, secas o húmedas, así como la de acumuladores de plomo, alcalinos y otros.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 343.1 Pilas eléctricas.
+Epígrafe 343.2 Acumuladores eléctricos.
+Epígrafe 343.3 Accesorios, partes y piezas sueltas de pilas y acumuladores eléctricos.
+Grupo 344. Fabricación de contadores y aparatos de medida, control y verificación eléctricos.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de contadores de energía eléctrica, transformadores de medida y otros instrumentos y aparatos eléctricos de medida (presión, temperatura, niveles, etc.), control, verificación, regulación o análisis.
+Grupo 345. Fabricación de aparatos electrodomésticos.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de aparatos eléctricos de uso doméstico, tales como cocinas, hornos, batidoras, molinillos, parrillas, cafeteras, exprimidores, abrelatas y otros aparatos auxiliares de cocina; aspiradoras, barredoras y enceradoras; frigoríficos, planchas, afeitadoras, secadoras, ventiladores; trituradoras de desperdicios; lavadoras y lavavajillas; calentadores y estufas eléctricas, mantas eléctricas, etc.; así como la fabricación de piezas y accesorios para estos aparatos.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 345.1 Cocinas, hornos, placas y otros aparatos eléctricos para cocinar.
+Epígrafe 345.2 Refrigeradores y congeladores de uso doméstico.
+Epígrafe 345.3 Lavavajillas, lavadoras y secadoras de ropa, de uso doméstico.
+Epígrafe 345.4 Calentadores eléctricos de agua y aparatos eléctricos para la calefacción de locales.
+Epígrafe 345.5 Ventiladores y acondicionadores de aire de uso doméstico.
+Epígrafe 345.6 Aparatos eléctricos auxiliares de cocina.
+Epígrafe 345.7 Aparatos eléctricos para el cuidado y conservación del hogar.
+Epígrafe 345.8 Otros aparatos electrodomésticos.
+Epígrafe 345.9 Accesorios, partes y piezas sueltas de aparatos electrodomésticos.
+Grupo 346. Fabricación de lámparas y material de alumbrado.
+Cuota de:
+Por cada obrero: 1.232 pesetas. (7,404469 euros)
+Por cada Kw: 984 pesetas. (5,913959 euros)
+Nota: Este grupo comprende la fabricación de bombillas, tubos, proyectores, faros y lámparas de incandescencia, de fluorescencia, de arco, de gas neón, de vapor de mercurio y de sodio, de flash, de luz ultravioleta e infrarroja; fabricación de electrodos y otros productos de carbón y grafito para usos eléctricos, así como la fabricación de otro material de alumbrado y accesorios (tubos aislantes para conducción de cables e hilos eléctricos, aisladores y material aislante excepto de cerámica, vidrio y materias plásticas, bornes, dispositivos de conexión, enchufes, etc.).
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 346.1 Lámparas eléctricas.
+Epígrafe 346.2 Luminarias para alta intensidad de descarga.
+Epígrafe 346.3 Artículos de carbón y grafito para usos eléctricos.
+Epígrafe 346.4 Otro material de alumbrado.
+Epígrafe 346.5 Accesorios, partes y piezas sueltas de lámparas y material de alumbrado.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 35
+
+Agrupación 35. Fabricación de material electrónico (excepto ordenadores).
+Grupo 351. Fabricación de aparatos y equipo de tele­comuni­cación.
+Epígrafe 351.1 Fabricación de aparatos y equipos telefónico y telegráfico.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este epígrafe comprende la construcción de centrales telefónicas y telegráficas, aparatos de transmisión, recepción y terminales telefónicas y telegráficas (incluido télex), teleimpresores, receptores tipográficos, transmisores telegráficos de imágenes y otro material auxiliar, piezas y accesorios telefónicos y telegráficos.
+Epígrafe 351.2 Fabricación de aparatos y equipo de radiocomunicación, radiodifusión y televisión.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este epígrafe comprende la construcción de aparatos y equipo de radiocomunicación, radioguía, radiolocalización y radiosondeo; equipos emisores y transmisores de radiodifusión y televisión y otros equipos y aparatos para comunicaciones inalámbricas, así como la fabricación de piezas y accesorios para estos aparatos.
+Grupo 352. Fabricación de aparatos y equipo electromédico y de uso profesional y científico.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este grupo comprende la construcción de equipo eléctrico y electrónico para diagnóstico, aparatos y equipo para tratamiento de enfermedades, para reemplazar funciones vitales, etc.; aparatos e instrumentos electrónicos de uso profesional y científico, así como la fabricación de piezas y accesorios para estos aparatos.
+Grupo 353. Fabricación de aparatos y equipo electrónico de señalización, control y programación.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este grupo comprende la construcción de aparatos y equipos electrónicos de señalización, enclavamiento y programación para navegación, vías férreas, vías urbanas, carreteras, aeropuertos y rutas aéreas; equipos electrónicos para mando y gobierno automático de instalaciones industria­les, etc.; así como la fabricación de piezas y accesorios para estos aparatos.
+Grupo 354. Fabricación de componentes electrónicos y circuitos integrados.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este grupo comprende la fabricación (independiente de la construcción de aparatos y equipos) de válvulas electrónicas (de emisión, osciladores, etc.), tubos de rayos catódicos, de rayos X y otros tubos electrónicos y de semiconductores, circuitos integrados y otros componentes electrónicos para toda clase de aparatos y equipos.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 354.1 Válvulas y tubos electrónicos y de rayos X.
+Epígrafe 354.2 Otros componentes electrónicos activos.
+Epígrafe 354.3 Componentes electrónicos pasivos.
+Epígrafe 354.4 Accesorios, partes y piezas sueltas de componentes electrónicos y circuitos integrados.
+Grupo 355. Fabricación de aparatos receptores, de registro y reproducción de sonido e imagen, grabación de discos y cintas magnéticas.
+Epígrafe 355.1 Fabricación de receptores de radio y televisión y aparatos de registro y reproducción de sonido e imagen.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este epígrafe comprende la fabricación de receptores de radio y televisión, tocadiscos, magnetófonos, micrófonos, altavoces y otros aparatos de registro y reproducción de sonido e imagen, así como la de equipo, piezas y accesorios para estos aparatos.
+Epígrafe 355.2 Edición de soportes grabados de sonido, de vídeo y de informática.
+Cuota de:
+Por cada obrero: 1.418 pesetas. (8,522352 euros)
+Por cada Kw: 1.149 pesetas. (6,905629 euros)
+Nota: Este epígrafe comprende la grabación y reproducción de soportes grabados de sonido, vídeo e informática.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 36
+
+Agrupación 36. Construcción de vehículos automóviles y sus piezas de repuesto.
+Grupo 361. Construcción y montaje de vehículos automóviles y sus motores.
+Cuota de:
+Por cada obrero: 746 pesetas. (4,483550 euros)
+Por cada Kw: 425 pesetas. (2,554301 euros)
+Nota: Este grupo comprende la construcción de motores para vehículos automóviles y la construcción de automóviles de turismo, camiones, tractocamiones, furgones, autocares, autobuses, trolebuses, vehículos ligeros todo terreno, vehículos automóviles para fines militares (excepto carros de combate y piezas de artillería autopropulsada), ambulancias, coches fúnebres, de bomberos, coches patrulla, coches de carreras, etc., así como la fabricación de sus componentes.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 361.1 Automóviles de turismo.
+Epígrafe 361.2 Autobuses y autocares.
+Epígrafe 361.3 Camiones.
+Epígrafe 361.4 Otros vehículos automóviles.
+Epígrafe 361.5 Motores para vehículos automóviles.
+Epígrafe 361.6 Chasis con motor para vehículos automóviles.
+Epígrafe 361.7 Componentes para vehículos automóviles.
+Grupo 362. Construcción de carrocerías, remolques y vol­quetes.
+Cuota de:
+Por cada obrero: 746 pesetas. (4,483550 euros)
+Por cada Kw: 425 pesetas. (2,554301 euros)
+Nota: Este grupo comprende la construcción de carrocerías para turismos, autobuses, camiones y otros vehículos automóviles; construcción de remolques-vivienda y para acampar, remolques comerciales, para el transporte de cargas especiales y para otros usos, así como la construcción de cajas abiertas para camiones y la de volquetes.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 362.1 Carrocerías para vehículos automóviles y re­molques.
+Epígrafe 362.2 Remolques y volquetes.
+Grupo 363. Fabricación de equipo, componentes, accesorios y piezas de repuesto para vehículos automóviles.
+Cuota de:
+Por cada obrero: 746 pesetas. (4,483550 euros)
+Por cada Kw: 425 pesetas. (2,554301 euros)
+Nota: Este grupo comprende la fabricación de transmisiones, cajas de velocidades, embragues, radiadores, climatizadores, mecanismos de dirección, sistemas de suspensión, puentes traseros completos, filtros, bombas y sistemas de inyección, sistemas de escape, silenciadores, ruedas, frenos, soportes de motor y carrocería, depósitos de carburante y otro equipo, accesorios y piezas de repuesto para vehículos automóviles.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 363.1 Equipo, componentes, accesorios y piezas de repuesto de motores para vehículos automóviles (excepto equipo eléctrico).
+Epígrafe 363.2 Equipo, componentes, accesorios y piezas de repuesto de carrocerías para vehículos automóviles.
+Epígrafe 363.9 Otro equipo, componentes, accesorios y piezas de repuesto para vehículos automóviles (excepto equipo eléctrico).
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 37
+
+Agrupación 37. Construcción naval, reparación y mantenimiento de buques.
+Grupo 371. Construcción naval.
+Cuota de:
+Por cada obrero: 642 pesetas. (3,858498 euros)
+Por cada Kw: 321 pesetas. (1,929249 euros)
+Nota: Este grupo comprende la construcción de trasatlánticos, buques mercantes, de guerra, pesqueros, paquebotes, barcos cisterna, barcos frigoríficos, remolcadores, barcos oceanográficos, barcos de vela, barcos faro, barcos bomba, barcos dragadores, embarcaciones deportivas y de placer, etc.; así como la construcción de motores y turbinas de todas clases para embarcaciones y de otro equipo, maquinaria y accesorios específicos para embarcaciones. Comprende las embarcaciones con casco de acero, madera, aluminio y otros materiales.
+Se incluye también en este grupo la construcción de artefactos flotantes, tales como boyas, depósitos flotantes, diques flotantes, balsas de cualquier tipo, etc.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 371.1 Buques de casco de acero.
+Epígrafe 371.2 Buques y embarcaciones de casco de madera.
+Epígrafe 371.3 Buques y embarcaciones de casco de plástico y otros materiales.
+Epígrafe 371.4 Artefactos flotantes.
+Epígrafe 371.5 Motores, turbinas y otra maquinaria de propulsión para buques y embarcaciones.
+Epígrafe 371.6 Accesorios, partes y piezas sueltas (excep­to estructuras metálicas para construcción naval) de buques, embarcaciones y artefactos flotantes y su maquinaria de propulsión.
+Grupo 372. Reparación y mantenimiento de buques.
+Cuota de:
+Por cada obrero: 642 pesetas. (3,858498 euros)
+Por cada Kw: 321 pesetas. (1,929249 euros)
+Nota: Este grupo comprende la reparación y mantenimiento de embarcaciones de todas clases, así como el desguace de las mismas.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 372.1 Servicios de reparación y mantenimiento de buques, embarcaciones y artefactos flotantes.
+Epígrafe 372.2 Servicios de desguace de buques, embarcaciones y artefactos flotantes.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 38
+
+Agrupación 38. Construcción de otro material de transporte.
+Grupo 381. Construcción, reparación y mantenimiento de material ferroviario.
+Cuota de:
+Por cada obrero: 394 pesetas. (2,367988 euros)
+Por cada Kw: 270 pesetas. (1,622733 euros)
+Nota: Este grupo comprende la construcción de locomotoras de todas clases (de vapor, ténder, eléctricas, diesel, de turbinas de gas y otras); de calderas de vapor, motores y turbinas para locomotoras; automotores, tranvías, autovías; coches de motor para ferrocarriles subterráneos y elevados de servicio rápido, para conservación e inspección de vías férreas, etc.; fabricación de otro material móvil ferroviario, remolques de tranvías, de ferrocarril suburbano, elevado, de servicio rápido, etc. (vagones de mercancías y pasajeros, plataformas, vagones especiales, etc.); así como la reparación y mantenimiento de este material y la fabricación de equipo, piezas y accesorios para el mismo.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 381.1 Material ferroviario.
+Epígrafe 381.2 Servicios de reparación y mantenimiento de material ferroviario.
+Grupo 382. Construcción, reparación y mantenimiento de aeronaves.
+Cuota de:
+Por cada obrero: 1.305 pesetas. (7,843208 euros)
+Por cada Kw: 611 pesetas. (3,672184 euros)
+Nota: Este grupo comprende la construcción de aviones y avionetas, helicópteros y autogiros de todas clases y para todo uso (particular, deportivo, comercial, bélico); aerostatos y globos con barquilla, aeromodelos, planeadores, veleros; naves espaciales y proyectiles balísticos; aerodeslizadores, aeronaves de despegue y aterrizaje vertical, etc.; la construcción de motores de todas clases para aeronaves (de émbolo, turborreactores, termorreactores, turbohélices, etc.); fabricación de células y la de piezas, accesorios y equipo para aeronaves (hélices, rotores, trenes de aterrizaje, etc.), así como la reparación, revisión y mantenimiento de aeronaves.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 382.1 Aeronaves e ingenios aeronáuticos espaciales.
+Epígrafe 382.2 Servicios de reparación, revisión y mantenimiento de aeronaves.
+Grupo 383. Construcción de bicicletas, motocicletas y sus piezas de repuesto.
+Cuota de:
+Por cada obrero: 777 pesetas. (4,669864 euros)
+Por cada Kw: 404 pesetas. (2,428089 euros)
+Nota: Este grupo comprende la construcción y montaje de motocicletas, motonetas, ciclomotores, coches y sillas de inválidos con motor y a pedales, bicicletas, tandems, triciclos y otros velo­cípedos; construcción de motores, engranajes, órganos de transmisión y equipo, piezas y accesorios para este material de transporte (sillines, manillares, sidecares, remolques, cuadros, pedales, frenos, ruedas, etc.).
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 383.1 Motocicletas, «scooters» y ciclomotores.
+Epígrafe 383.2 Bicicletas, triciclos y monociclos (excepto de niño).
+Epígrafe 383.3 Vehículos especiales con mecanismos de propulsión.
+Epígrafe 383.4 Motores para motocicletas, «scooters», ciclomotores y vehículos especiales.
+Epígrafe 383.5 Accesorios, partes y piezas sueltas de bicicletas y motocicletas.
+Grupo 389. Construcción de otro material de transpor­te n.c.o.p.
+Cuota de:
+Por cada obrero: 777 pesetas. (4,669864 euros)
+Por cada Kw: 404 pesetas. (2,428089 euros)
+Nota: Este grupo comprende la construcción de otro material de transporte como cochecitos y sillas de niños, coches y sillas de inválidos sin sistema mecánico de propulsión, vehícu­los y trineos de tracción animal (carros y carretas, simones, tartanas, diligencias, etc.), carretillas y otros vehículos de mano, etc.; así como la fabricación de piezas y accesorios para este material.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 389.1 Remolques agrícolas y vehículos de tracción animal.
+Epígrafe 389.2 Vehículos accionados a mano.
+Epígrafe 389.9 Accesorios, partes y piezas sueltas de otro material de transporte n.c.o.p.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 39
+
+Agrupación 39. Fabricación de instrumentos de precisión, óptica y similares.
+Grupo 391. Fabricación de instrumentos de precisión, medida y control.
+Cuota de:
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
+Por cada Kw: 901 pesetas. (5,415119 euros)
+Nota: Este grupo comprende la fabricación de contadores de gas, agua y otros líquidos (incluidos los contadores para surtidores de carburantes); aparatos de medida, control y regulación (reguladores, indicadores de nivel, densí­metros, etc.); aparatos para la navegación y aeronáutica; la hidrología, la geofísica y meteorología; aparatos de laboratorio; balanzas de precisión; instrumentos de medida dimensional de precisión; aparatos e instrumentos para dibujantes, delineantes y pantógrafos; instrumentos de cálculo; material de enseñanza y demostración (maquetas de anatomía, etc.), así como la fabricación de sus piezas y accesorios.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 391.1 Contadores no eléctricos.
+Epígrafe 391.2 Instrumentos y aparatos para la navegación y aeronáutica.
+Epígrafe 391.3 Instrumentos y aparatos de topografía, meteorología, hidrología y geofísica.
+Epígrafe 391.4 Instrumentos y aparatos de medida, control y regulación de densidad, temperatura, presión, humedad y simi­lares.
+Epígrafe 391.5 Instrumentos y aparatos para ensayos mecánicos de materiales.
+Epígrafe 391.6 Balanzas de precisión y otros instrumentos y aparatos de medida dimensional de precisión.
+Epígrafe 391.7 Otros instrumentos y aparatos de precisión, medida y control.
+Epígrafe 391.8 Accesorios, partes y piezas sueltas de instrumentos y aparatos de precisión, medida y control.
+Grupo 392. Fabricación de material médico-quirúrgico y de aparatos ortopédicos.
+Epígrafe 392.1 Fabricación de material médico-quirúrgico.
+Cuota de:
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
+Por cada Kw: 901 pesetas. (5,415119 euros)
+Nota: Este epígrafe comprende la fabricación de material médico, quirúrgico, odontológico (no eléctrico ni oftalmológico), tales como aparatos no eléctricos de diagnóstico, instrumentos de esterilización, anestesia y reanimación; material y mobiliario quirúrgico, instrumentos especiales para odontología, aparatos para veterinaria, de mecanoterapia, masaje, psicotecnia, etc.; así como la fabricación de piezas y accesorios para este material.
+Epígrafe 392.2 Fabricación de aparatos de prótesis y ortopedia.
+Cuota de:
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
+Por cada Kw: 901 pesetas. (5,415119 euros)
+Nota: Este epígrafe comprende la fabricación de aparatos ortopédicos (corsés, elementos de sujeción) y de prótesis ocular, dental, auditiva; manos, brazos, piernas, etc., artificiales, así como artículos y aparatos para caso de fracturas (muletas, cabestrillos y otros aparatos para fracturas y luxaciones) y la fabricación de piezas y accesorios para estos aparatos.
+Grupo 393. Fabricación de instrumentos ópticos y material fotográfico y cinematográfico.
+Epígrafe 393.1 Instrumentos ópticos y material fotográfico y cinematográfico (excepto monturas para gafas).
+Cuota de:
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
+Por cada Kw: 901 pesetas. (5,415119 euros)
+Nota: Este epígrafe comprende la fabricación de lentes, prismas, espejos, lentes de contacto, gafas (excepto de plástico), prismáticos, anteojos, instrumentos ópticos de precisión, instrumentos oftalmológicos, telescopios y otros aparatos de astronomía (excepto los radioastronómicos), microscopios; máquinas fotográficas, aparatos de flash, fotocopiadoras, tomavistas y otro material fotográfico (pantallas de proyección, filtros cromáticos, trípodes); proyectores y cámaras cinematográficas y otro material cinematográfico, así como la fabricación de piezas y accesorios para estos instrumentos y material.
+Epígrafe 393.2 Fabricación de monturas para gafas (excepto las de plástico).
+Cuota de:
+Por cada obrero: 601 pesetas. (3,612083 euros)
+Por cada Kw: 518 pesetas. (3,113243 euros)
+Grupo 399. Fabricación de relojes y otros instrumentos n.c.o.p.
+Cuota de:
+Por cada obrero: 1.201 pesetas. (7,218155 euros)
+Por cada Kw: 901 pesetas. (5,415119 euros)
+Nota: Este grupo comprende la fabricación de relojes de pulsera, de bolsillo, de pared, de muelle, de pesas, de cuerda, eléctricos, cronómetros, relojes de fichas, fechadores, de vigilante, aparatos de relojería; mecanismos sincronizadores, etc., y la fabricación de otros instrumentos de precisión y similares no especificados en los grupos anteriores.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 399.1 Relojes y cronógrafos de pulsera y bolsillo.
+Epígrafe 399.2 Relojes despertadores.
+Epígrafe 399.3 Relojes de pared y sobremesa.
+Epígrafe 399.4 Relojes de bordo para coches, barcos, aviones, etcétera.
+Epígrafe 399.5 Relojes de torre, fachada, estación y análogos y relojes para unificación horaria.
+Epígrafe 399.6 Aparatos de control, contadores de tiempo y otros instrumentos provistos de mecanismos de relojería.
+Epígrafe 399.7 Máquinas de reloj montadas.
+Epígrafe 399.8 Cajas de relojes.
+Epígrafe 399.9 Accesorios, partes y piezas sueltas de relojes y otros instrumentos n.c.o.p.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 4
+
+DIVISIÓN 4. OTRAS INDUSTRIAS MANUFACTURERAS.
+
+### Agrupación 41
+
+Agrupación 41. Industrias de productos alimenticios y bebidas.
+Grupo 411. Fabricación y envasado de aceite de oliva.
+Epígrafe 411.1 Fabricación y envasado de aceite de oliva.
+Cuota de:
+Por cada obrero: 2.919 pesetas. (17,543543 euros)
+Por cada Kw: 1.667 pesetas. (10,018872 euros)
+Epígrafe 411.2 Fabricación de aceite de oliva.
+Cuota de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.346 pesetas. (8,089623 euros)
+Epígrafe 411.3 Envasado de aceite de oliva.
+Cuota de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.346 pesetas. (8,089623 euros)
+Nota común a este grupo: Este grupo comprende los productos residuales de la extracción de aceite de oliva.
+Grupo 412. Fabricación de aceites y grasas, vegetales y animales (excepto aceite de oliva).
+Epígrafe 412.1 Extracción y envasado de aceites de semillas oleaginosas y de orujo de aceituna.
+Cuota de:
+Por cada obrero: 2.919 pesetas. (17,543543 euros)
+Por cada Kw: 1.667 pesetas. (10,018872 euros)
+Nota: Este epígrafe comprende la extracción por molturación, prensado, disolventes u otros procedimientos de aceites de cacahuete, palma, palmiste, soja, girasol, coco, copra, colza, mostaza, nueces, semillas de sésamo y cáñamo, de linaza, de maíz, orujo de aceituna, etc., así como la producción de sebos vegetales, tortas de aceite y otros residuos de la extracción. También comprende el envasado de los mencionados aceites y residuos.
+Epígrafe 412.2 Obtención y envasado de aceites y grasas de animales marinos.
+Cuota de:
+Por cada obrero: 1.688 pesetas. (10,145084 euros)
+Por cada Kw: 63 pesetas. (0,378638 euro)
+Nota: Este epígrafe comprende la obtención y envasado de aceites y grasas de animales marinos, tales como aceites de hígado y vísceras de bacalao y otros pescados, aceites del cuerpo de los pescados, aceites y grasas de mamíferos acuáticos (ballenas, cachalotes, etc.), así como la obtención de residuos de la extracción de estos aceites y grasas.
+Epígrafe 412.3 Refinado, hidrogenación, envasado y otros tratamientos similares de cuerpos grasos vegetales y animales.
+Cuota de:
+Por cada obrero: 2.919 pesetas. (17,543543 euros)
+Por cada Kw: 1.667 pesetas. (10,018872 euros)
+Nota: Este epígrafe comprende la purificación, refinado, hidrogenación, envasado y demás tratamientos similares de los aceites y grasas vegetales y animales, vayan o no destinados al consumo humano.
+Epígrafe 412.4 Obtención y envasado de margarina y grasas alimenticias similares.
+Cuota de:
+Por cada obrero: 2.919 pesetas. (17,543543 euros)
+Por cada Kw: 1.667 pesetas. (10,018872 euros)
+Nota: Este epígrafe comprende la obtención y envasado de margarinas, mantecas artificiales y otras grasas concretas (para cocinar, mezcladas y texturizadas, etc.).
+Grupo 413. Sacrificio de ganado, preparación y conservas de carne e incubación de aves.
+Epígrafe 413.1 Sacrificio y despiece de ganado en general.
+Cuota de:
+Por cada obrero: 2.050 pesetas. (12,320748 euros)
+Por cada Kw: 1.967 pesetas. (11,821908 euros)
+Nota: Este epígrafe comprende el sacrificio y obtención de carnes y despojos frescos, refrigerados o congelados de ganado bovino, caprino, porcino, ovino y conejos, equino, volatería, caza, etc., en todo tipo de mataderos autorizados.
+Se incluye en este epígrafe la obtención en mataderos de pieles y cueros en sangre o salados, crines, pelos y otros subproductos (plumas, picos, huesos, tripas, vejigas, tendones, sangre, etc.); así como las salas de despiece y de frío anejas a los mataderos. También comprende la obtención y refino de sebos y manteca.
+Epígrafe 413.2 Fabricación de productos cárnicos de todas clases.
+Cuota de:
+Por cada obrero: 2.050 pesetas. (12,320748 euros)
+Por cada Kw: 1.967 pesetas. (11,821908 euros)
+Nota: Este epígrafe comprende la preparación de carnes curadas, saladas, en salmuera y ahumadas de animales terrestres; fabricación de embutidos, fiambres y otras conservas similares; deshidratación y liofilización de carnes; conserva de carnes mediante envasado hermético y esterilización (incluidos los platos preparados cuyo componente mayoritario sea la carne y sus derivados) y la fabricación de extractos, jugos, gelatinas, pastas, harinas y otros preparados y derivados cárnicos.
+Se incluye en este epígrafe la fabricación de plasma.
+Epígrafe 413.3 Salas de despiece autónomas, industrias de aprovechamiento y transformación de subproductos cárnicos para usos industriales y alimentación animal.
+Cuota de:
+Por cada obrero: 2.050 pesetas. (12,320748 euros)
+Por cada Kw: 1.967 pesetas. (11,821908 euros)
+Epígrafe 413.4 Incubación y venta de polluelos recién nacidos, mediante la compra de huevos fértiles.
+Cuota de:
+Por cada 1.000 plazas o fracción del conjunto de las incubadoras instaladas: 9.140 pesetas. (54,932506 euros)
+Nota: Cuando la incubación se realice exclusivamente por cuenta ajena mediante una retribución fija por unidad incubada, la cuota será el 50 por 100 de la señalada en este epígrafe.
+Grupo 414. Industrias lácteas.
+Epígrafe 414.1 Preparación de leche.
+Cuota de:
+Por cada obrero: 3.147 pesetas. (18,913851 euros)
+Por cada Kw: 3.447 pesetas. (20,716887 euros)
+Nota: Este epígrafe comprende la preparación de leche pasteurizada, esterilizada, homogeneizada y similares, así como el envasado de la misma para su distribución.
+Se incluye en este epígrafe la elaboración de nata fresca, leches fermentadas y caseína bruta.
+Epígrafe 414.2 Preparación de leche en conserva.
+Cuota de:
+Por cada obrero: 3.147 pesetas. (18,913851 euros)
+Por cada Kw: 3.447 pesetas. (20,716887 euros)
+Nota: Este epígrafe comprende la preparación de leche condensada, concentrada o evaporada y leche en polvo, así como la elaboración de lactosa, sueros y otros productos a base de leche en conserva.
+Epígrafe 414.3 Fabricación de queso y mantequilla.
+Cuota de:
+Por cada obrero: 3.147 pesetas. (18,913851 euros)
+Por cada Kw: 3.447 pesetas. (20,716887 euros)
+Nota: Este epígrafe comprende la fabricación de mantequilla natural, dulce y salada y la fabricación de quesos de todas clases (duros, semiduros, blandos y fundidos).
+Epígrafe 414.4 Elaboración de helados y similares.
+Cuota de:
+Por cada obrero: 3.147 pesetas. (18,913851 euros)
+Por cada Kw: 3.447 pesetas. (20,716887 euros)
+Nota: Este epígrafe comprende la elaboración, utilizando productos lácteos, de helados, sorbetes y otros productos de leche congelados.
+Grupo 415. Fabricación de jugos y conservas vegetales.
+Cuota de:
+Por cada obrero: 1.739 pesetas. (10,451600 euros)
+Por cada Kw: 1.077 pesetas. (6,472900 euros)
+Nota: Este grupo comprende la conservación de frutas y productos hortícolas mediante envasado hermético y esterilización (incluidos platos preparados cuyo componente básico sean productos hortícolas); fabricación de pulpa y pastas de frutas; preparación de confituras, mermeladas y jaleas; fabricación de extractos y jugos vegetales; aderezo y relleno de aceitunas y fabricación de toda clase de encurtidos y conservación de productos vegetales por deshidratación, congelación y liofilización. Abarca las conservas en vinagre, aceite, salmuera, ácido acético, alcohol, etc., así como la limpieza, clasificación y envase de frutas y otros productos vegetales.
+Se incluye en este grupo la elaboración de pasas y frutas secas.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 415.1 Conservas vegetales.
+Epígrafe 415.2 Extractos, zumos y otros preparados vegetales.
+Epígrafe 415.3 Limpieza, clasificación y envase de frutas y otros productos vegetales.
+Grupo 416. Fabricación de conservas de pescado y otros productos marinos.
+Cuota de:
+Por cada obrero: 694 pesetas. (4,171024 euros)
+Por cada Kw: 373 pesetas. (2,241775 euros)
+Nota: Este grupo comprende la congelación rápida de peces, crustáceos, etc.; conservación mediante envasado y esterilización (en aceite, en escabeche, al natural, en salsas, incluso platos preparados cuyo principal componente sea el pescado); elaboración de salazones y escabeches; secado, ahumado, prensado, etc., de pescados, así como la preparación, conservación y envase de otros productos marinos y de agua dulce (caviar, huevos de esturión, ranas, salmónidos, algas, etc.).
+Se incluye en este grupo la actividad de los barcos-factoría que no se dedican simultáneamente a la pesca.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 416.1 Conservas de pescado y otros productos marinos.
+Epígrafe 416.2 Productos residuales de la preparación y conservación de pescado y otros productos marinos.
+Grupo 417. Fabricación de productos de molinería.
+Epígrafe 417.1 Fabricación de harinas y sémolas.
+Cuota de:
+Por cada obrero: 1.015 pesetas. (6,100273 euros)
+Por cada Kw: 1.688 pesetas. (10,145084 euros)
+Nota: Este epígrafe comprende la fabricación de harinas panificables, industriales y sémolas, así como los residuos de la molienda de los cereales utilizados.
+Epígrafe 417.2 Fabricación de otros productos de molinería.
+Cuota de:
+Por cada obrero: 1.191 pesetas. (7,158054 euros)
+Por cada Kw: 2.019 pesetas. (12,134434 euros)
+Nota: Este epígrafe comprende la fabricación de purés, descascarado, limpieza y satinado del arroz (molinos arroceros) y descascarado, limpieza, monda, etc., de leguminosas, raíces y otros productos secos (incluidos los molinos para descascarar café).
+Grupo 418. Fabricación de pastas alimenticias y productos amiláceos.
+Epígrafe 418.1 Fabricación de pastas alimenticias.
+Cuota de:
+Por cada obrero: 1.977 pesetas. (11,882009 euros)
+Por cada Kw: 1.284 pesetas. (7,716995 euros)
+Nota: Este epígrafe comprende la fabricación de macarrones, tallarines, fideos y otras pastas para sopa, así como la fabricación de pastas cocidas y rellenas.
+Epígrafe 418.2 Fabricación de productos amiláceos.
+Cuota de:
+Por cada obrero: 1.977 pesetas. (11,882009 euros)
+Por cada Kw: 1.284 pesetas. (7,716995 euros)
+Nota: Este epígrafe comprende la fabricación de almidones y féculas de maíz, trigo, arroz y otros cereales; de fécula de patatas y otros tubérculos y vegetales (sagú, mandio­ca, etc.); de glucosa comercial, glucosa pura (dextrosa) y dextrina; almidones y féculas solubles o tostadas y gluten y harina de gluten tostada o sin tostar.
+Grupo 419. Industrias del pan, bollería, pastelería y ga­lletas.
+Epígrafe 419.1 Industria del pan y de la bollería.
+Cuota de:
+Por cada obrero: 1.977 pesetas. (11,882009 euros)
+Por cada Kw: 1.284 pesetas. (7,716995 euros)
+Nota: Este epígrafe comprende la fabricación de pan de todas clases, incluido el de molde, tostado, etc., y de bollería.
+Epígrafe 419.2 Industrias de la bollería, pastelería y galletas.
+Cuota de:
+Por cada obrero: 1.977 pesetas. (11,882009 euros)
+Por cada Kw: 1.284 pesetas. (7,716995 euros)
+Nota: Este epígrafe comprende la elaboración de bollos, galletas, pasteles, tartas, pastas, bizcochos, etc.
+Epígrafe 419.3 Industrias de elaboración de masas fritas.
+Cuota de:
+Por cada obrero: 1.977 pesetas. (11,882009 euros)
+Por cada Kw: 1.284 pesetas. (7,716995 euros)
+Nota: Este epígrafe comprende la elaboración de masas fritas (churros, buñuelos, etc.) y de patatas fritas.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica la nota del epígrafe 419.3 por el art. 75.1.4 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 42
+
+Agrupación 42. Industrias de otros productos alimenticios, bebidas y tabaco.
+Grupo 420. Industria del azúcar.
+Cuota de:
+Por cada obrero: 1.087 pesetas. (6,533002 euros)
+Por cada Kw: 704 pesetas. (4,231125 euros)
+Nota: Este grupo comprende la fabricación de azúcar de remolacha y de azúcar de caña; refinerías de azúcar (producción de azúcar refinada en estado sólido, granulado, en cuadradillos, en polvo, azúcar líquida y jarabes, incluso melazas refinadas), así como la fabricación de mieles de caña.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 420.1 Azúcar y jarabes de azúcar.
+Epígrafe 420.2 Productos residuales de la industria del azúcar.
+Grupo 421. Industria del cacao, chocolate y productos de confitería.
+Epígrafe 421.1 Industria del cacao y chocolate.
+Cuota de:
+Por cada obrero: 1.305 pesetas. (7,843208 euros)
+Por cada Kw: 590 pesetas. (3,545971 euros)
+Nota: Este epígrafe comprende la elaboración de derivados del cacao sin edulcorar (cacao en polvo, manteca de cacao, cobertura amarga y cascarilla de cacao) y elaboración de derivados edulcorados del cacao (cobertura dulce, chocolates, bombones y especialidades).
+Epígrafe 421.2 Elaboración de productos de confitería.
+Cuota de:
+Por cada obrero: 1.377 pesetas. (8,275937 euros)
+Por cada Kw: 1.439 pesetas. (8,648564 euros)
+Nota: Este epígrafe comprende la elaboración de turrones y mazapanes, caramelos, peladillas, goma de mascar y otros productos de confitería (frutas confitadas y acarameladas, esencias, flanes, yemas, etc.).
+Grupo 422. Industrias de productos para la alimentación animal (incluidas las harinas de pescado).
+Epígrafe 422.1 Forrajes deshidratados, melazados, etc., para la alimentación animal.
+Cuota de:
+Por cada obrero: 311 pesetas. (1,869148 euros)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este epígrafe comprende la deshidratación de alfalfa y otros forrajes, así como los secaderos de maíz y otros.
+Epígrafe 422.2 Harinas de pescado y subproductos animales, productos derivados del reciclaje y transformación de residuos alimenticios y otros preparados para la elaboración de piensos.
+Cuota de:
+Por cada obrero: 311 pesetas. (1,869148 euros)
+Por cada Kw: 207 pesetas. (1,244095 euros)
+Nota: Este epígrafe comprende la elaboración de harinas de pescado, de huesos y otras sustancias animales o vegetales para usarlas como alimento o en la preparación de alimentos para animales.
+Epígrafe 422.3 Elaboración de piensos compuestos de cualquier clase, a excepción de los incluidos en el epígrafe 422.4.
+Cuota de:
+Por cada obrero: 1.160 pesetas. (6,971740 euros)
+Por cada Kw: 621 pesetas. (3,732285 euros)
+Epígrafe 422.4. Elaboración de piensos compuestos para perros, gatos y otros animales familiares.
+Cuota de:
+Por cada obrero: 1.449 pesetas. (8,708665 euros)
+Por cada Kw: 777 pesetas. (4,669864 euros)
+Grupo 423. Elaboración de productos alimenticios diversos.
+Epígrafe 423.1 Elaboración de café y té y sucedáneos de café.
+Cuota de:
+Por cada obrero: 2.112 pesetas. (12,693376 euros)
+Por cada Kw: 2.650 pesetas. (15,926821 euros)
+Nota: Este epígrafe comprende el tostado del café, elaboración de cafés solubles, descafeinados, extractos de café y sucedáneos de café (achicorias, etc.), así como la elaboración de té, mate, manzanillas y otras hierbas y especies aromáticas para infusiones.
+Epígrafe 423.2 Elaboración de sopas preparadas, extractos y condimentos.
+Cuota de:
+Por cada obrero: 1.274 pesetas. (7,656894 euros)
+Por cada Kw: 1.594 pesetas. (9,580133 euros)
+Nota: Este epígrafe comprende la elaboración de sopas preparadas, caldos concentrados y otros extractos; elaboración de sal fina de mesa, de pimentón, de azafrán, de mostaza, salsa mahonesa y otras salsas preparadas y otros condimentos, incluidos los vinagres de mesa no vínicos ni de sidra.
+Epígrafe 423.3 Elaboración de productos dietéticos y de régimen.
+Cuota de:
+Por cada obrero: 1.274 pesetas. (7,656894 euros)
+Por cada Kw: 1.594 pesetas. (9,580133 euros)
+Nota: Este epígrafe comprende la elaboración de productos dietéticos, para la alimentación de los bebés y de régimen, tales como leches especiales para bebés o de uso dietético, harinas irradiadas y vitaminadas y otros productos para la alimentación infantil o dietéticos a base de cereales, harinas, féculas, almidones, etc.
+Epígrafe 423.9 Elaboración de otros productos alimenti­cios n.c.o.p.
+Cuota de:
+Por cada obrero: 1.274 pesetas. (7,656894 euros)
+Por cada Kw: 1.594 pesetas. (9,580133 euros)
+Nota: Este epígrafe comprende la elaboración de productos alimenticios no especificados en otros epígrafes, tales como fabricación de levaduras de panificación; recogida de hielo natural; desecación y separación de la clara y yema del huevo; preparación de huevo en polvo; fabricación de helados y sorbetes que no contengan leche; preparación de platos precocinados preparados (no conservados); elaboración de patatas fritas, palomitas de maíz y similares; preparación de productos en polvo para flanes, helados, dulces de cocina, etc.
+Grupo 424. Industrias de alcoholes etílicos de fermentación.
+Epígrafe 424.1 Destilación y rectificación de alcoholes.
+Cuota de:
+Por cada obrero: 2.578 pesetas. (15,494092 euros)
+Por cada Kw: 2.174 pesetas. (13,066003 euros)
+Nota: Este epígrafe comprende la destilación y rectificación de alcohol etílico bruto procedente de la fermentación de productos agrícolas (remolacha, caña, frutas, cereales, etc.).
+Epígrafe 424.2 Obtención de aguardientes naturales.
+Cuota de:
+Por cada obrero: 2.578 pesetas. (15,494092 euros)
+Por cada Kw: 2.174 pesetas. (13,066003 euros)
+Nota: Este epígrafe comprende la destilación de aguardientes llamados naturales, procedentes de la fermentación de productos vegetales, tales como remolacha, caña, frutas, cerea­les, etc.
+Epígrafe 424.3 Obtención de aguardientes compuestos, licores y aperitivos no procedentes de vino.
+Cuota de:
+Por cada obrero: 6.645 pesetas. (39,937254 euros)
+Por cada Kw: 5.403 pesetas. (32,472684 euros)
+Nota: Este epígrafe comprende la obtención de brandy, ron, ginebra, vodka, whisky, anisados, ponches, cordiales y otros aguardientes compuestos, licores y aperitivos, no procedentes de vino, así como el embotellado que se realiza conjuntamente con la obtención.
+Grupo 425. Industria vinícola.
+Epígrafe 425.1 Elaboración y crianza de vinos.
+Cuota de:
+Por cada obrero: 3.188 pesetas. (19,160266 euros)
+Por cada Kw: 2.288 pesetas. (13,751157 euros)
+Notas:
+1.ª Este epígrafe comprende la obtención de mostos (naturales, concentrados, apagados y estériles), elaboración de mistelas, elaboración de vinos de mesa y la crianza y conservación de vinos no espumosos.
+Se incluye en este epígrafe la refrigeración y gasificación de vinos y el embotellado que se realiza conjuntamente con la obtención.
+2.ª Cuando el sujeto pasivo elabore individual y aisladamente el vino con uva de su propia cosecha, la cuota será el 25 por 100 de la señalada en este epígrafe.
+Epígrafe 425.2 Elaboración de vinos espumosos.
+Cuota de:
+Por cada obrero: 3.716 pesetas. (22,333610 euros)
+Por cada Kw: 2.660 pesetas. (15,986922 euros)
+Nota: Este epígrafe comprende la elaboración de cava y otros vinos espumosos naturales, así como el embotellado de los mismos realizado conjuntamente con la obtención.
+Epígrafe 425.3 Elaboración de otros vinos especiales.
+Cuota de:
+Por cada obrero: 3.716 pesetas. (22,333610 euros)
+Por cada Kw: 2.660 pesetas. (15,986922 euros)
+Nota: Este epígrafe comprende la elaboración de vinos especiales, tales como vinos enverados, chacolís, dulces, nobles, generosos, licoroso, quinados, aromatizados, medicinales, vermuts y otros aperitivos a base de vino, así como el embotellado que se realiza conjuntamente con la obtención.
+Epígrafe 425.9 Otras industrias vinícolas n.c.o.p.
+Cuota de:
+Por cada obrero: 2.505 pesetas. (15,055353 euros)
+Por cada Kw: 1.522 pesetas. (9,147404 euros)
+Nota: Este epígrafe comprende la obtención de otros productos de la vinificación, tales como la fabricación de vinagres vínicos y el aprovechamiento de residuos vínicos (granillas, piquetas, orujos, etcétera), así como el embotellado que se realiza conjuntamente con la obtención.
+Grupo 426. Sidrerías.
+Cuota de:
+Por cada obrero: 5.765 pesetas. (34,648348 euros)
+Por cada Kw: 1.884 pesetas. (11,323068 euros)
+Nota: Este grupo comprende la elaboración de sidra natural, sidras espumosas y gasificadas; fabricación de vinagres de sidra y elaboración de bebidas de otras frutas fermentadas (sidra de pera o perada, sake, vino de palma, aguamiel, jengibre, etc.), así como el embotellado que se realiza conjuntamente con la elaboración.
+Cuando el sujeto pasivo elabore individual y aisladamente la sidra con manzanas de su propia cosecha, la cuota será el 25 por ciento de la señalada en este grupo.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 426.1 Sidra y otras bebidas fermentadas similares.
+Epígrafe 426.2 Productos residuales de sidrerías.
+Grupo 427. Fabricación de cerveza y malta cervecera.
+Cuota de:
+Por cada obrero: 1.253 pesetas. (7,530682 euros)
+Por cada Kw: 1.574 pesetas. (9,459931 euros)
+Nota: Este grupo comprende la fabricación de malta cervecera y de bebidas malteadas, tales como cerveza corriente, pálida, negra, fuerte y otras; la obtención de subproductos de la fabricación de cerveza (levadura de cerveza, lúpulo, heces, etc.), así como el embotellado que se realiza conjuntamente con la fabricación de cerveza.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 427.1 Cerveza y malta cervecera.
+Epígrafe 427.2 Subproductos y productos residuales de la fabricación de cerveza.
+Grupo 428. Industria de las aguas minerales, aguas gaseo­sas y otras bebidas analcohólicas.
+Epígrafe 428.1 Preparación y envasado de aguas minerales naturales.
+Cuota de:
+Por cada obrero: 3.726 pesetas. (22,393711 euros)
+Por cada Kw: 4.658 pesetas. (27,995144 euros)
+Nota: Este epígrafe comprende la preparación (gasificación, etc.) y envasado de aguas minerales naturales en las fuentes o manantiales.
+Epígrafe 428.2 Fabricación de aguas gaseosas y otras bebidas analcohólicas.
+Cuota de:
+Por cada obrero: 4.844 pesetas. (29,113026 euros)
+Por cada Kw: 3.954 pesetas. (23,764019 euros)
+Nota: Este epígrafe comprende la fabricación de gaseosas, aguas gaseadas, soda, seltz, etc.; bebidas preparadas con zumos de frutas, a base de extractos vegetales, etc., tales como limonadas, naranjadas, colas, horchatas, así como el embotellado que se realiza conjuntamente con la fabricación.
+Se incluye en este epígrafe la fabricación de productos en polvo, jarabes y concentrados y bases para la fabricación de estas bebidas.
+Grupo 429. Industria del tabaco.
+Epígrafe 429.1 Elaboración de cigarros y cigarrillos y otros productos de tabaco.
+Cuota de:
+Por cada obrero: 4.658 pesetas. (27,995144 euros)
+Por cada Kw: 5.051 pesetas. (30,357121 euros)
+Nota: Este epígrafe comprende la transformación del tabaco a partir de las hojas recolectadas y secadas y abarca el desvene del tabaco, elaboración de picadura, tabaco de pipa, tabaco para mascar, rapé, extractos y esencias de tabaco, etc.
+Epígrafe 429.2 Primera transformación del tabaco sin elaboración de cigarros, cigarrillos, picadura, etc.
+Cuota de:
+Por cada obrero: 808 pesetas. (4,856178 euros)
+Por cada Kw: 290 pesetas. (1,742935 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 422.2 por el art. 72.1.17 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica por el art. 78.1.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 43
+
+Agrupación 43. Industria textil.
+Grupo 431. Industria del algodón y sus mezclas.
+Epígrafe 431.1 Preparación de las fibras de algodón (desmotado, cardado, peinado).
+Cuota de:
+Por cada obrero: 518 pesetas. (3,113243 euros)
+Por cada Kw: 497 pesetas. (2,987030 euros)
+Nota: Este epígrafe comprende la preparación de las fibras de algodón mediante operaciones tales como el desmotado, clasificación, cardado, peinado, etc.
+Epígrafe 431.2 Hilado y retorcido del algodón y sus mezclas.
+Cuota de:
+Por cada obrero: 383 pesetas. (2,301876 euros)
+Por cada Kw: 342 pesetas. (2,055461 euros)
+Nota: Este epígrafe comprende el hilado, retorcido y regularización de hilos del algodón y de sus mezclas con fibras artificiales y otras fibras.
+Epígrafe 431.3 Tejido del algodón y sus mezclas.
+Cuota de:
+Por cada obrero: 311 pesetas. (1,869148 euros)
+Por cada Kw: 922 pesetas. (5,541332 euros)
+Nota: Este epígrafe comprende el tejido del algodón y de sus mezclas con fibras artificiales y otras fibras.
+Grupo 432. Industria de la lana y sus mezclas.
+Epígrafe 432.1 Preparación de las fibras de lana (clasificación, lavado, cardado, peinado).
+Cuota de:
+Por cada obrero: 373 pesetas. (2,241775 euros)
+Por cada Kw: 187 pesetas. (1,123893 euros)
+Nota: Este epígrafe comprende la preparación de las fibras de lana mediante operaciones de clasificación, sorteo, lavado, cardado, carbonizado, peinado, etc.
+Epígrafe 432.2 Hilado y retorcido de la lana y sus mezclas.
+Cuota de:
+Por cada obrero: 1.025 pesetas. (6,160374 euros)
+Por cada Kw: 539 pesetas. (3,239455 euros)
+Nota: Este epígrafe comprende el hilado, retorcido y devanado de la lana y de sus mezclas con fibras artificiales y otras fibras.
+Epígrafe 432.3 Tejido de la lana y de sus mezclas.
+Cuota de:
+Por cada obrero: 963 pesetas. (5,787747 euros)
+Por cada Kw: 1.294 pesetas. (7,777097 euros)
+Nota: Este epígrafe comprende el tejido de la lana y de sus mezclas con fibras artificiales y otras fibras.
+Grupo 433. Industria de la seda natural y sus mezclas y de las fibras artificiales y sintéticas.
+Cuota de:
+Por cada obrero: 487 pesetas. (2,926929 euros)
+Por cada Kw: 1.035 pesetas. (6,220475 euros)
+Nota: Este grupo comprende la preparación de las fibras de seda natural (clasificación, estricado, obtención de la hijuela, etc.), hilado, retorcido, textura, regularización de hilos y tejido de la seda natural y de sus mezclas con otras fibras.
+Se incluyen en este grupo el hilado, regularización de hilos y tejido de las fibras artificiales y sintéticas sin mezclar y el de las mezcladas con fibras de seda.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 433.1 Productos de la industria de la seda natural y sus mezclas.
+Epígrafe 433.2 Preparación, hilado y tejido de las fibras artificiales y sintéticas.
+Grupo 434. Industria de las fibras duras y sus mezclas.
+Cuota de:
+Por cada obrero: 477 pesetas. (2,866828 euros)
+Por cada Kw: 539 pesetas. (3,239455 euros)
+Nota: Este grupo comprende la preparación (clasificación, enriado, agranado, espadado, rastrillado, etc.), hilado, retorcido, regularización de hilos y tejido de las fibras de lino, cáñamo, esparto, ramio, yute, abacá, sisal, pita, coco, etc., y de sus mezclas con otras fibras.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 434.1 Fibras duras preparadas para el hilado.
+Epígrafe 434.2 Subproductos y productos residuales de la preparación de las fibras duras.
+Epígrafe 434.3 Hilados y retorcidos de fibras duras y sus mezclas.
+Epígrafe 434.4 Tejidos de fibras duras y sus mezclas.
+Grupo 435. Fabricación de géneros de punto.
+Epígrafe 435.1 Fabricación de géneros de punto en pieza.
+Cuota de:
+Por cada obrero: 1.356 pesetas. (8,149724 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de géneros de punto en pieza, de algodón, lana, seda, fibras artificiales y sintéticas y otras, para toda clase de prendas.
+Epígrafe 435.2 Fabricación de calcetería.
+Cuota de:
+Por cada obrero: 1.356 pesetas. (8,149724 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de medias (excepto ortopédicas), calcetines y prendas similares de todas clases, para señora, caballero y niños.
+Epígrafe 435.3 Fabricación de prendas interiores y ropa de dormir de punto.
+Cuota de:
+Por cada obrero: 1.356 pesetas. (8,149724 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación a partir de hilo, de prendas interiores, ropa de dormir de punto para señora, caballero y niños, tales como camisetas, slips, corsetería, camisones, batas, pijamas, peleles, etc.
+Epígrafe 435.4 Fabricación de prendas exteriores de punto.
+Cuota de:
+Por cada obrero: 1.356 pesetas. (8,149724 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación a partir de hilos, de prendas exteriores de punto para señora, caballero y niños, tales como jerseys, chaquetas, vestidos, conjuntos, pantalones, camisas, ropa de niño, trajes de baño y deporte, guantes, corbatas, boinas, sombreros, bufandas, etc.
+Grupo 436. Acabado de textiles.
+Cuota de:
+Por cada obrero: 704 pesetas. (4,231125 euros)
+Por cada Kw: 953 pesetas. (5,727645 euros)
+Nota: Este grupo comprende el blanqueado, teñido, estampado, apresto y otros acabados de textiles cuando esta actividad pueda clasificarse por separado de la fabricación de dichos textiles.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 436.1 Textiles blanqueados.
+Epígrafe 436.2 Textiles teñidos.
+Epígrafe 436.3 Textiles estampados.
+Epígrafe 436.9 Textiles aprestados, mercerizados o acabados de otra forma.
+Grupo 437. Fabricación de alfombras y tapices y de tejidos impregnados.
+Epígrafe 437.1 Fabricación de alfombras y tapices.
+Cuota de:
+Por cada obrero: 1.377 pesetas. (8,275937 euros)
+Por cada Kw: 1.315 pesetas. (7,903309 euros)
+Nota: Este epígrafe comprende la fabricación de alfombras, tapices, esteras y otros artículos similares de toda clase de fibras.
+Epígrafe 437.2 Fabricación de tejidos impregnados.
+Cuota de:
+Por cada obrero: 1.377 pesetas. (8,275937 euros)
+Por cada Kw: 1.315 pesetas. (7,903309 euros)
+Nota: Este epígrafe comprende la fabricación de tejidos impregnados a base de aceites secativos (tejidos impermeabilizados, aceitados, barnizados, hules y telas enceradas, etc.); tejidos impregnados a base de derivados de celulosa o resinas sintéticas; linóleo y otros cubresuelos similares (excepto de materias plásticas); tejidos impregnados de cola, de materias amiláceas; tela para pintura, para calco, engomadas, etc.
+Grupo 439. Otras industrias textiles.
+Epígrafe 439.1 Cordelería.
+Cuota de:
+Por cada obrero: 653 pesetas. (3,924609 euros)
+Por cada Kw: 653 pesetas. (3,924609 euros)
+Nota: Este epígrafe comprende la fabricación de calabrotes, maromas, sogas, cordeles, cables, redes, hilos de pescar y otros artículos de cordaje.
+Epígrafe 439.2 Fabricación de fieltros, tules, encajes, pasamanería, etc.
+Cuota de:
+Por cada obrero: 653 pesetas. (3,924609 euros)
+Por cada Kw: 653 pesetas. (3,924609 euros)
+Nota: Este epígrafe comprende la fabricación de fieltro con ganchillo o a presión, tejidos afieltrados; tules, encajes, bordados mecánicos y artículos similares; fabricación de telas no tejidas; tubos, fieltros, cinturones y cinchas de materias textiles; cintas, lazos, trenzas y pasamanería, etc.
+Epígrafe 439.3 Fabricación de textiles con fibras de recuperación.
+Cuota de:
+Por cada obrero: 249 pesetas. (1,496520 euros)
+Por cada Kw: 290 pesetas. (1,742935 euros)
+Nota: Este epígrafe comprende la fabricación de textiles con fibras de recuperación (regenerados y desperdicios) y abarca la preparación de fibras, fabricación de hilados y de tejidos de dichas fibras de recuperación.
+Epígrafe 439.9 Otras industrias textiles n.c.o.p.
+Cuota de:
+Por cada obrero: 1.015 pesetas. (6,100273 euros)
+Por cada Kw: 1.015 pesetas. (6,100273 euros)
+Nota: Este epígrafe comprende la fabricación de otros artícu­los textiles, tales como textiles elásticos, guata, borra, miraguano, crin, entretelas y otras materias para relleno de tapicería y otros usos, etc.
+Nota común a la Agrupación 43. Cuando los sujetos pasivos realicen las actividades comprendidas en esta Agrupación, exclusivamente, para terceros y por encargo, con un número de obreros inferior a 10, la cuota será el 25 por 100 de la asignada a la rúbrica correspondiente; si el número de obreros fuera superior a 9 e inferior a 25, la cuota será el 50 por 100 de la asignada a la rúbrica correspondiente.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se suprime la nota común al Grupo 435 y el párrafo segundo de la nota al Grupo 436 y se añade la nota común a la Agrupación 43 por el art. 75.1.5 y 6 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se añade la nota común al Grupo 435 por el art. 78.1.3 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 44
+
+Agrupación 44. Industria del cuero.
+Grupo 441. Curtición y acabado de cueros y pieles.
+Cuota de:
+Por cada obrero: 2.981 pesetas. (17,916171 euros)
+Por cada Kw: 1.760 pesetas. (10,577813 euros)
+Nota: Este grupo comprende la preparación de cueros y pieles para su curtición; el curtido, adobo, estampado, charolado, teñido, decoloración y acabado de cueros y pieles, así como la fabricación de aglomerados de cuero y cuero sintético.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 441.1 Cueros y pieles no acabadas.
+Epígrafe 441.2 Cueros y pieles acabadas.
+Epígrafe 441.3 Cueros y pieles regeneradas, subproductos y productos residuales de la curtición.
+Grupo 442. Fabricación de artículos de cuero y similares.
+Epígrafe 442.1 Fabricación de artículos de marroquinería y viajes.
+Cuota de:
+Por cada obrero: 4.120 pesetas. (24,761699 euros)
+Por cada Kw: 5.662 pesetas. (34,029305 euros)
+Nota: Este epígrafe comprende la fabricación de bolsos, carteras, cinturones, pitilleras, monederos, estuches, maletas, maletines; bolsas y otros artículos similares de marroquinería y viaje, a base de cuero o sucedáneos de cuero.
+Epígrafe 442.2 Fabricación de guantes de piel.
+Cuota de:
+Por cada obrero: 4.120 pesetas. (24,761699 euros)
+Por cada Kw: 5.662 pesetas. (34,029305 euros)
+Nota: Este epígrafe comprende la fabricación de guantes y mitones de piel para vestir, para protección y guantes especiales para deportes.
+Epígrafe 442.9 Fabricación de otros artículos de cuero n.c.o.p.
+Cuota de:
+Por cada obrero: 3.292 pesetas. (19,785318 euros)
+Por cada Kw: 4.534 pesetas. (27,249889 euros)
+Nota: Este epígrafe comprende la fabricación de artículos de cuero no especificados en otros epígrafes, tales como artícu­los de cuero para usos industriales (correas, tacos, tiratacos, etc.); artículos de guarnicionería (correajes, albardones, sillas de montar, látigos y fustas, etc.); artículos de botería (botas y corambres), talabartería, equipo militar, artículos de deporte, etc.; así como la fabricación de artículos a base de sucedáneos de cuero y repujado.
+Nota común al grupo 442. Los sujetos pasivos matriculados en este grupo que realicen las actividades comprendidas en el mismo con tres obreros como máximo, tributarán al 50 por 100 de la cuota asignada al epígrafe respectivo.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el párrafo último por el art. 72.1.1 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+
+### Agrupación 45
+
+Agrupación 45. Industria del calzado y vestido y otras confecciones textiles.
+Grupo 451. Fabricación en serie de calzado (excepto el de caucho y madera).
+Cuota de:
+Por cada obrero: 1.863 pesetas. (11,196856 euros)
+Por cada Kw: 1.781 pesetas. (10,704026 euros)
+Nota: Este grupo comprende la fabricación en serie de calzado de todas clases (para vestir, de deportes, de trabajo, de ballet, etc.), bien sea de cuero o principalmente de cuero, tela o sucedáneos; alpargatas y zapatillas de todas clases, botas, polainas, etc., así como la fabricación de partes y accesorios de cuero para el calzado.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 451.1 Productos intermedios para la fabricación de calzado y servicios de acabado.
+Epígrafe 451.2 Calzado de calle fabricado en serie.
+Epígrafe 451.3 Zapatillas de casa, calzados especiales, polainas y similares, fabricados en serie.
+Epígrafe 451.4 Recortes y desperdicios de cuero de todas procedencias.
+Grupo 452. Fabricación de calzado de artesanía y a medida (incluido el calzado ortopédico).
+Cuota de:
+Por cada obrero: 2.174 pesetas. (13,066003 euros)
+Por cada Kw: 2.091 pesetas. (12,567163 euros)
+Nota: A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 452.1 Calzado de artesanía y a medida.
+Epígrafe 452.2 Calzado ortopédico.
+Grupo 453. Confección en serie de toda clase de prendas de vestir y sus complementos.
+Cuota de:
+Por cada obrero: 1.760 pesetas. (10,577813 euros)
+Por cada Kw: 1.967 pesetas. (11,821908 euros)
+Notas: 1.ª Este grupo comprende:
+La confección en serie de prendas de vestir exteriores masculinas, tales como abrigos, capas, chaquetones, batas, chaquetas, pantalones, trajes, trajes de baño, confecciones de punto a partir de tejidos, etc.; la confección en serie de prendas de vestir exteriores femeninas, tales como abrigos, capas, chaquetones, batas, blusas, faldas, pantalones, trajes, trajes de baño, vestidos, confecciones de punto a partir de tejidos, etc.; la confección de prendas de vestir infantiles de todas clases.
+La confección en serie de camisas, calzoncillos y similares, pijamas, camisones, combinaciones, bragas, fajas, sujetadores y otros artículos de lencería, incluidas las confecciones de punto a partir de tejidos, etc.
+La confección en serie de prendas de trabajo, uniformes, prendas de cuero y similares, prendas especiales para lluvia cosidas o de plástico soldado, prendas militares y deportivas, sacerdotales y religiosas, de teatro, etc.
+La confección en serie de cascos y bandas para sombreros, sombreros, gorras, tocados y similares.
+La fabricación en serie de paraguas, bastones y sombrillas; corbatas, chales, toquillas, velos, mantillas y pañuelos; cinturones, bolsos y guantes de tela; flores y plumas de moda; tirantes de sujetadores; abanicos, etc.
+La ejecución de trabajos de diseño de modelos y patrones, cosido a máquina, de vainicas, plisados y otras actividades anexas a la industria del vestido no especificadas en otros epígrafes.
+Asimismo, este grupo comprende la confección en serie de sacos de embalar, telas filtro y de bolsas centrífugas.
+2.ª Cuando los sujetos pasivos que realicen las actividades comprendidas en este grupo, exclusivamente para terceros y por encargo, con un número de obreros inferior a diez, la cuota será el 25 por ciento de la asignada al grupo; si el número de obreros fuese superior a nueve e inferior a veinticinco, la cuota será el 50 por ciento de la asignada al grupo.
+Grupo 454. Confección a medida de prendas de vestir y sus complementos.
+Cuota de: 19.148 pesetas. (115,08 euros)
+Nota: Este grupo comprende la confección a medida de prendas de vestir exteriores e interiores para señora, caballero e infantiles (sastrería a medida, talleres de alta costura, modistería a medida, etc.), así como la confección a medida de sombreros y otros accesorios del vestido.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 454.1 Prendas de vestir hechas a medida.
+Epígrafe 454.2 Sombreros y accesorios para el vestido hechos a medida.
+Grupo 455. Confección de otros artículos con materias textiles.
+Epígrafe 455.1 Confección de artículos textiles para el hogar y tapicería.
+Cuota de:
+Por cada obrero: 2.277 pesetas. (13,685046 euros)
+Por cada Kw: 2.505 pesetas. (15,055353 euros)
+Nota: Este epígrafe comprende la confección de artículos textiles de cama, mesa, aseo y similares; colchones de lana, corcho, etc.; tapizado y confección de cortinajes, visillos, etc.
+Epígrafe 455.9 Confección de otros artículos con materias textiles n.c.o.p.
+Cuota de:
+Por cada obrero: 1.760 pesetas. (10,577813 euros)
+Por cada Kw: 1.967 pesetas. (11,821908 euros)
+Nota: Este epígrafe comprende la confección de artículos con materias textiles no especificados en otros epígrafes, tales como artículos de lona (sacos, tiendas, toldos, velas, etc.), estandartes, banderas, ornamentos eclesiásticos, insignias, bordados y otros adornos, paracaídas, algodón hidrófilo, vendas y gasas sin esterilizar, etc.
+Nota al grupo 455: Cuando los sujetos pasivos que realicen las actividades comprendidas en este grupo, exclusivamente para terceros y por encargo, con un número de obreros inferior a diez, la cuota será el 25 por ciento de la que corresponda; si el número de obreros fuese superior a nueve e inferior a veinticinco, la cuota será el 50 por ciento de la que corresponda.
+Grupo 456. Industria de la peletería.
+Epígrafe 456.1 Peletería natural.
+Cuota de:
+Por cada obrero: 11.127 pesetas. (66,874617 euros)
+Por cada Kw: 15.557 pesetas. (93,499453 euros)
+Epígrafe 456.2 Peletería artificial.
+Cuota de:
+Por cada obrero: 8.343 pesetas. (50,142440 euros)
+Por cada Kw: 11.665 pesetas. (70,108062 euros)
+Nota común al grupo 456: Este grupo comprende la confección de prendas de vestir, sombreros, estolas y otros accesorios del vestido, alfombras, mantas y otros artículos a base de pieles finas corrientes y de sucedáneos o imitación de piel (peletería ficticia), así como la transformación especializada de restos de pieles.
+Cuando los sujetos pasivos que realicen las actividades comprendidas en este Grupo, exclusivamente para terceros y por encargo, con un número de obreros inferior a 10, la cuota será el 25 por 100 de la que corresponda; si el número de obreros fuera superior a 9 e inferior a 25, la cuota será el 50 por 100 de la que corresponda.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade una nota al Grupo 456 por el art. 75.1.7 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 46
+
+Agrupación 46. Industrias de la madera, corcho y muebles de madera.
+Grupo 461. Aserrado y preparación industrial de la madera (aserrado, cepillado, pulido, lavado, etc.).
+Cuota de:
+Por cada obrero: 1.926 pesetas. (11,575493 euros)
+Por cada Kw: 673 pesetas. (4,044811 euros)
+Nota: Este grupo comprende el aserrado mecánico de la madera para producir planchas, tablones, tablas, listones, traviesas, etc., así como el cepillado, lavado, pulido, secado, estufado, creosotado y otros tratamientos de la madera.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 461.1 Productos del aserrado y preparación industrial de la madera.
+Epígrafe 461.2 Productos residuales del aserrado y preparación industrial de la madera.
+Grupo 462. Fabricación de productos semielaborados de madera (chapas, tableros, maderas mejoradas, etc.).
+Epígrafe 462.1 Chapas de madera.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Epígrafe 462.2 Maderas chapadas, contrachapadas y tableros celulares.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Epígrafe 462.3 Tableros y paneles de fibras y de partículas.
+Cuota de:
+Por cada obrero: 394 pesetas. (2,367988 euros)
+Por cada Kw: 684 pesetas. (4,110923 euros)
+Epígrafe 462.4 Maderas mejoradas.
+Cuota de:
+Por cada obrero: 1.035 pesetas. (6,220475 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Grupo 463. Fabricación en serie de piezas de carpintería, parquet y estructuras de madera para la construcción.
+Cuota de:
+Por cada obrero: 2.381 pesetas. (14,310098 euros)
+Por cada Kw: 756 pesetas. (4,543652 euros)
+Nota: Este grupo comprende la fabricación o fabricación y colocación conjunta de puertas, ventanas, cercos, marcos, estructuras prefabricadas y otra pieza de madera para la construcción (carpintería de taller), la de parqués; entarimados, moldurería, etc. (carpintería mecánica), así como la fabricación de persianas de madera, mamparas, etc.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 463.1 Puertas y ventanas de madera.
+Epígrafe 463.2 Parqué, entarimado y adoquines de madera.
+Epígrafe 463.3 Otras piezas de carpintería para la construcción.
+Epígrafe 463.4 Elementos estructurales y construcciones prefabricadas de madera.
+Grupo 464. Fabricación de envases y embalajes de madera.
+Cuota de:
+Por cada obrero: 2.381 pesetas. (14,310098 euros)
+Por cada Kw: 756 pesetas. (4,543652 euros)
+Nota: Este grupo comprende la fabricación de cajas, jaulas, cilindros, embalajes, baúles, maletas, cajas-bandejas, bandejas y otros accesorios de madera de todas clases o de paneles de fibras o de partículas, así como la fabricación de barricas y otros envases y piezas de tonelería.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 464.1 Envases y embalajes industriales de madera (excepto tonelería).
+Epígrafe 464.2 Tonelería.
+Epígrafe 464.3 Estuches, baúles, maletas y otros envases de madera.
+Grupo 465. Fabricación de objetos diversos de madera (excepto muebles).
+Cuota de:
+Por cada obrero: 2.381 pesetas. (14,310098 euros)
+Por cada Kw: 756 pesetas. (4,543652 euros)
+Nota: Este grupo comprende la fabricación de molduras y junquillos; marcos para cuadros y espejos, barras redondas y torneadas, mangos para herramientas, escobas, pinceles, etc.; herramientas de madera, calzado totalmente de madera (zuecos, almadreñas, etc.), hormas, tacones, perchas, utensilios domésticos, mondadientes, ar­tículos de adorno, artículos de madera para la industria textil (carretes, husos, etc.) y otras piezas de madera, así como la producción de harina, lana o fibras de madera.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 465.1 Objetos de madera de uso doméstico y deco­rativo.
+Epígrafe 465.2 Herramientas, mangos, monturas y artícu­los similares de madera.
+Epígrafe 465.3 Artículos de madera para la fabricación y conservación del calzado.
+Epígrafe 465.4 Artículos de madera para la industria textil.
+Epígrafe 465.5 Calzado de madera.
+Epígrafe 465.6 Harina y lana de madera.
+Epígrafe 465.9 Otros objetos diversos de madera (excepto muebles) n.c.o.p.
+Grupo 466. Fabricación de productos de corcho.
+Cuota de:
+Por cada obrero: 1.656 pesetas. (9,952760 euros)
+Por cada Kw: 1.274 pesetas. (7,656894 euros)
+Nota: Este grupo comprende la fabricación de productos de corcho, tales como cuadradillos, planchas, discos, granulados, serrín y otros desperdicios de corcho natural; fabricación de aglomerados de corcho para aislamiento y otros usos; de tapones, losetas, tapetes, chalecos y cinturones salvavidas, suelas, flotadores, artículos de fantasía y otros ar­tículos diversos de corcho.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 466.1 Productos de corcho.
+Epígrafe 466.2 Productos residuales de la fabricación de artículos de corcho.
+Grupo 467. Fabricación de artículos de junco y caña, cestería, brochas, cepillos, etc. (excepto muebles).
+Cuota de:
+Por cada obrero: 1.615 pesetas. (9,706345 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este grupo comprende la fabricación de artículos de junco, mimbre, caña, palma, etc.; cestería y otros artículos trenzados; escobas, plumeros, cepillos de todas clases, brochas, pinceles, etc.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 467.1 Artículos de materias trenzables.
+Epígrafe 467.2 Cepillos, brochas, escobas y artículos similares.
+Grupo 468. Industria del mueble de madera.
+Epígrafe 468.1 Fabricación de mobiliario de madera para el hogar.
+Cuota de:
+Por cada obrero: 1.429 pesetas. (8,588463 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este epígrafe comprende la fabricación de mobiliario, principalmente de madera para dormitorio, comedor, cocina, colocación de objetos, muebles por elementos y transformables, para sala de estar, biblioteca y recibidor; sillas, sillones, sofás, etc., tapizados y otros muebles de uso doméstico.
+Epígrafe 468.2 Fabricación de mobiliario de madera escolar y de oficina.
+Cuota de:
+Por cada obrero: 1.429 pesetas. (8,588463 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este epígrafe comprende la fabricación de mobiliario, principalmente de madera para uso escolar y de oficina, tales como escritorios, sillas de oficina, pupitres, mesas, armarios, archivadores, librerías, etc.
+Epígrafe 468.3 Fabricación de muebles diversos de madera, junco, mimbre y caña.
+Cuota de:
+Por cada obrero: 1.429 pesetas. (8,588463 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este epígrafe comprende la fabricación de muebles diversos de madera, junco, mimbre y caña, tales como muebles de jardín, asientos para salones de actos y espectáculos, muebles para iglesia, estrados, muebles y accesorios para comercios y restaurantes, etc.
+Epígrafe 468.4 Fabricación de ataúdes.
+Cuota de:
+Por cada obrero: 1.429 pesetas. (8,588463 euros)
+Por cada Kw: 849 pesetas. (5,102593 euros)
+Nota: Este epígrafe comprende la fabricación de ataúdes y urnas funerarias, principalmente de madera.
+Epígrafe 468.5 Actividades anexas a la industria del mueble (acabado, barnizado, tapizado, dorado, etc.).
+Cuota de:
+Por cada obrero: 1.139 pesetas. (6,845528 euros)
+Por cada Kw: 684 pesetas. (4,110923 euros)
+Nota: Este epígrafe comprende el acabado, barnizado, pintado, lacado, dorado, tapizado, guarnecido y otras operaciones complementarias de la fabricación de muebles de madera.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 47
+
+Agrupación 47. Industria del papel y fabricación de artículos de papel; artes gráficas y edición.
+Grupo 471. Fabricación de pasta papelera.
+Cuota de:
+Por cada obrero: 114 pesetas. (0,685154 euros)
+Por cada Kw: 249 pesetas. (1,496520 euros)
+Nota: Este grupo comprende la fabricación de pasta para papel y cartón por cualquier procedimiento (mecánico, químico y semiquímico) y a partir de cualquier material (madera, trapos, papeles viejos, paja, etc.). Comprende además los productos de pasta previo secado que resulten de la propia máquina de fabricación, sin ningún tipo de manipulación posterior.
+En caso de manipulación o transformación en proceso posterior deberá tributar por el epígrafe 473.2.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 471.1. Pasta papelera.
+Epígrafe 471.2. Subproductos y productos residuales de la fabricación de la pasta papelera.
+Grupo 472. Fabricación de papel y cartón.
+Cuota de:
+Por cada obrero: 114 pesetas. (0,685154 euros)
+Por cada Kw: 249 pesetas. (1,496520 euros)
+Nota: Este grupo comprende la fabricación de papel de periódico, para libros, papel celofán y otros trabajos de imprenta y reproducción, papel de escribir, cartulina, papel y cartón Kraft, papel de seda, higiénico, de fumar, cartón para envases, para hacer cajas, etc., así como papeles encerados, satinados, engomados, estucados, laminados y otros papeles acabados en máquina, inclusive los alvéolos de celulosa moldeada resultante del proceso de secado de la pasta elaborada conforme al epígrafe 471.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 472.1. Papel y cartón.
+Epígrafe 472.2. Productos residuales de la fabricación y transformación del papel y cartón.
+Grupo 473. Transformación de papel y cartón.
+Epígrafe 473.1 Fabricación de cartón ondulado y artículos de cartón ondulado.
+Cuota de:
+Por cada obrero: 1.646 pesetas. (9,892659 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de cartón ondulado y de artículos de cartón ondulado, tales como cajas, materiales de embalaje, rellenos, etc.
+Epígrafe 473.2 Fabricación de otros artículos de envase y embalaje en papel y cartón.
+Cuota de:
+Por cada obrero: 1.646 pesetas. (9,892659 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de bolsas y sacos de papel; cajas plegables, cartonajes y otros artículos de embalaje, acondicionamiento y presentación de cartón; productos de pulpa prensada y moldeada para embalaje, tales como platos, cubiletes, recipientes, envases para huevos, bandejas de alimentos, etc.
+Epígrafe 473.3 Fabricación de artículos de oficina, escritorio, etc., de papel y cartón.
+Cuota de:
+Por cada obrero: 1.646 pesetas. (9,892659 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de papel de cartas, sobres, postales, cintas de papel, fichas, etiquetas y otros artículos de oficina, escritorio y escolares no impresos.
+Se incluye en este epígrafe la fabricación de manipulados de cartón y papel para máquinas electrónicas.
+Epígrafe 473.4 Fabricación de artículos de decoración y de uso doméstico de papel y cartón.
+Cuota de:
+Por cada obrero: 1.543 pesetas. (9,273617 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de papeles pintados y otros artículos de decoración; artículos domésticos, de aseo, de higiene, de lencería de guata de celulosa, etc., de papel, cartón o pasta de papel.
+Epígrafe 473.9 Fabricación de otros manipulados de papel y cartón n.c.o.p.
+Cuota de:
+Por cada obrero: 1.543 pesetas. (9,273617 euros)
+Por cada Kw: 1.853 pesetas. (11,136754 euros)
+Nota: Este epígrafe comprende la fabricación de manipulados de papel y cartón no especificados en otros epígrafes, tales como papeles encerados, satinados, engomados, estucados, laminados y otros papeles acabados fuera de máquina; ovillos y conos para el tejido y la hilatura; tubos y husillos para otras industrias; papel de fumar, etc.
+Grupo 474. Artes gráficas (impresión gráfica).
+Cuota de:
+Por cada obrero: 2.195 pesetas. (13,192216 euros)
+Por cada Kw: 2.039 pesetas. (12,254637 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 474.1 Impresión de textos o imágenes por cualquier procedimiento o sistema.
+Epígrafe 474.2 Impresión de prensa diaria por cualquier procedimiento.
+Epígrafe 474.3 Reproducción de textos o imágenes por proce­dimientos tales como multicopistas, fotocopias por procedimientos fotográficos y electroestáticos, sistemas de reproducción de planos, etc.
+Grupo 475. Actividades anexas a las artes gráficas.
+Cuota de:
+Por cada obrero: 1.884 pesetas. (11,323068 euros)
+Por cada Kw: 1.750 pesetas. (10,517712 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 475.1 Estereotipia, galvanotipia y galvanoplastia, fabricados de goma y caucho, fabricación de rodillos y de otros elementos dedicados a los procesos de impresión.
+Epígrafe 475.2 Composición de textos por cualquier procedimiento.
+Epígrafe 475.3 Reproducción de textos o imágenes destinados a la impresión.
+Epígrafe 475.4 Encuadernación.
+Grupo 476. Edición.
+Epígrafe 476.1 Edición de libros.
+Cuota de: 32.913 pesetas. (197,81 euros)
+Notas:
+1.ª Este epígrafe comprende la edición de libros, guías, catálogos, etc.
+2.ª Cuando la edición de libros sea realizada por el propio autor de la obra, la cuota de este epígrafe será un 75 por ciento de la señalada en el mismo.
+Epígrafe 476.2 Edición de periódicos y revistas.
+Cuota de: 32.913 pesetas. (197,81 euros)
+Nota: Este epígrafe comprende la edición de diarios, periódicos y revistas periódicas (de interés general, especializadas, científicas, et­c.).
+Epígrafe 476.9 Otras ediciones n.c.o.p.
+Cuota de: 32.913 pesetas. (197,81 euros)
+Nota: Este epígrafe comprende las ediciones no especificadas en otros epígrafes, tales como edición de imágenes, grabados, tarjetas postales, etc.; edición de folletos; edición musical impresa o manuscrita y otras ediciones (sellos de correos, calendarios, almanaques, etc.).
+Se modifican las notas a los grupos 471 y 472 por el art. 62.1.5 y 6 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+ Téngase en cuenta para su aplicación el art. 62.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 48
+
+Agrupación 48. Industrias de transformación del caucho y materias plásticas.
+Grupo 481. Transformación del caucho.
+Epígrafe 481.1 Fabricación de cubiertas y cámaras.
+Cuota de:
+Por cada obrero: 787 pesetas. (4,729965 euros)
+Por cada Kw: 1.191 pesetas. (7,158054 euros)
+Nota: Este epígrafe comprende la fabricación de cámaras y cubiertas para automóviles, motocicletas, camiones, autobuses, aeronaves, tractores, vehículos industriales, bicicletas, etcétera.
+Epígrafe 481.2 Recauchutado y reconstrucción de cubiertas.
+Cuota de:
+Por cada obrero: 787 pesetas. (4,729965 euros)
+Por cada Kw: 1.191 pesetas. (7,158054 euros)
+Nota: Este epígrafe comprende el recauchutado y reconstrucción total de cubiertas de todas clases.
+Epígrafe 481.9 Fabricación de otros artículos de caucho n.c.o.p.
+Cuota de:
+Por cada obrero: 787 pesetas. (4,729965 euros)
+Por cada Kw: 1.191 pesetas. (7,158054 euros)
+Nota: Este epígrafe comprende la fabricación de artículos de caucho no especificados en otros epígrafes y abarca la manipulación del caucho natural, la regeneración del caucho, fabricación de correas y tubos, de colas y disoluciones, de alfombras y revestimientos de suelos, de derivados del caucho (ebonita), de calzado, tacones y suelas de caucho, artículos higiénicos y de cirugía, tejidos cauchutados, prendas de vestir, guantes y otros artículos a base de tejido cauchutado soldado o vulcanizado (no cosido), colchones de caucho, lanchas y artículos de deporte, cámping y juguetes, etc.
+Grupo 482. Transformación de materias plásticas.
+Epígrafe 482.1 Fabricación de productos semielaborados de materias plásticas.
+Cuota de:
+Por cada obrero: 777 pesetas. (4,669864 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Nota: Este epígrafe comprende la fabricación de productos semielaborados de materias plásticas, tales como hilos, placas, láminas, tubos, etc.; así como el regenerado de dichas materias plásticas y la fabricación de materias primas celulósicas.
+Epígrafe 482.2 Fabricación de artículos acabados de materias plásticas.
+Cuota de:
+Por cada obrero: 777 pesetas. (4,669864 euros)
+Por cada Kw: 891 pesetas. (5,355018 euros)
+Nota: Este epígrafe comprende la fabricación por moldea­do, extrusión, etc., de artículos acabados en materias plásticas, tales como vajilla, servicio de mesa y otros artículos de cocina y para el hogar; esteras, alfombras, cubresuelosy revestimientos; tripas sintéticas; envases y recipientes; aisladores y material aislante; calzado de material plástico; muebles y suministros industriales; artículos sanitarios, embarcaciones y otros artículos de deporte obtenidos por moldeo o extrusión; monturas de gafas y otro material plástico para óptica, fotografía y cinematografía, etc.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 49
+
+Agrupación 49. Otras industrias manufactureras.
+Grupo 491. Joyería y bisutería.
+Epígrafe 491.1 Joyería.
+Cuota de:
+Por cada obrero: 4.244 pesetas. (25,506954 euros)
+Por cada Kw: 4.554 pesetas. (27,370091 euros)
+Nota: Este epígrafe comprende el trabajo de piedras preciosas, semipreciosas y perlas (corte, tallado, pulido, etc.); acuñación de monedas; fabricación de joyas, orfebrería, cubertería, medallas y condecoraciones de metales preciosos, plata de ley o metales comunes chapados, así como la fabricación de piezas y accesorios de joyería.
+Epígrafe 491.2 Bisutería.
+Cuota de:
+Por cada obrero: 3.002 pesetas. (18,042383 euros)
+Por cada Kw: 1.863 pesetas. (11,196856 euros)
+Nota: Este epígrafe comprende la fabricación de artículos de bisutería, emblemas, distintivos, escarapelas y similares y pequeños objetos de decoración (flores y frutos artificiales, plumas y penachos, etc.).
+Grupo 492. Fabricación de instrumentos de música.
+Cuota de:
+Por cada obrero: 518 pesetas. (3,113243 euros)
+Por cada Kw: 321 pesetas. (1,929249 euros)
+Nota: Este grupo comprende la fabricación de instrumentos de música de teclado y cuerda (pianos, pianolas, clavicordios, etc.), instrumentos de cuerda y arco (violines, violas, guitarras, arpas, etc.); instrumentos musicales electrónicos; órganos de tubo y armonios; instrumentos de viento, de percusión, etc.; así como la fabricación de partes, piezas y accesorios para estos instrumentos.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 492.1 Instrumentos de cuerda de teclado.
+Epígrafe 492.2 Instrumentos de viento de teclado.
+Epígrafe 492.3 Instrumentos de cuerda.
+Epígrafe 492.4 Instrumentos de viento.
+Epígrafe 492.5 Instrumentos de percusión.
+Epígrafe 492.6 Instrumentos musicales electrónicos.
+Epígrafe 492.7 Otros instrumentos musicales.
+Epígrafe 492.8 Partes, piezas sueltas y accesorios de instrumentos musicales.
+Grupo 493. Laboratorios fotográficos y cinematográficos.
+Cuota de:
+Por cada obrero: 1.139 pesetas. (6,845528 euros)
+Por cada Kw: 1.067 pesetas. (6,412799 euros)
+Nota: Este grupo comprende el revelado de películas fotográficas y cinematográficas de forma industrial, así como la tirada de copias y las ampliaciones.
+No se incluyen en este grupo los fotógrafos que revelan ellos mismos sus películas fotográficas, fotografía automática, aérea, industrial, publicitaria y de prensa.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 493.1 Películas y copias cinematográficas reveladas.
+Epígrafe 493.2 Placas, películas fotográficas negativas y diapositivas reveladas.
+Epígrafe 493.3 Copias fotográficas y ampliaciones.
+Grupo 494. Fabricación de juegos, juguetes y artículos de deporte.
+Epígrafe 494.1 Fabricación de juegos, juguetes y artículos de puericultura.
+Cuota de:
+Por cada obrero: 1.367 pesetas. (8,215835 euros)
+Por cada Kw: 1.594 pesetas. (9,580133 euros)
+Nota: Este epígrafe comprende la fabricación de juegos de sociedad y salón, juegos y juguetes para niños, artículos de puericultura (parques, corrales, etc.), y artículos para fiestas y diversiones.
+Epígrafe 494.2 Fabricación de artículos de deporte.
+Cuota de:
+Por cada obrero: 1.367 pesetas. (8,215835 euros)
+Por cada Kw: 1.594 pesetas. (9,580133 euros)
+Nota: Este epígrafe comprende la fabricación de equipos y artículos de deporte para la pesca deportiva, gimnasia, atletismo, tenis, golf, deportes de invierno, fútbol, balonces­to, etc.; así como la fabricación de materiales para parques infantiles.
+Grupo 495. Industrias manufactureras diversas.
+Epígrafe 495.1 Fabricación de artículos de escritorio.
+Cuota de:
+Por cada obrero: 1.832 pesetas. (11,010542 euros)
+Por cada Kw: 1.822 pesetas. (10,950441 euros)
+Nota: Este grupo comprende la fabricación de plumas, bolígrafos, lápices, portaplumas y otros artículos de oficina, escritorio y similares.
+Epígrafe 495.9 Fabricación de otros artículos n.c.o.p.
+Cuota de:
+Por cada obrero: 1.832 pesetas. (11,010542 euros)
+Por cada Kw: 1.822 pesetas. (10,950441 euros)
+Nota: Este epígrafe comprende la fabricación de objetos, tales como artículos religiosos; artículos de marfil, ámbar, hueso, cuerno, nácar, coral, etc.; artículos en cera, parafina, pastas de modelar y similares; artículos para fumador; pantallas para lámparas; estatuas, figurines, maniquíes, etc.; artículos de lujo para adorno; talleres de taxidermia, naturalistas, de disecar, preparaciones anatómicas y otras in­dustrias manufactureras diversas no especificadas anteriormente.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 5
+
+DIVISIÓN 5. CONSTRUCCIÓN.
+
+### Agrupación 50
+
+Agrupación 50. Construcción.
+Grupo 501. Edificación y obra civil.
+Epígrafe 501.1 Construcción completa, reparación y conservación de edificaciones.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 105.570 pesetas. (634,49 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 82.800 pesetas. (497,64 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 64.170 pesetas. (385,67 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En las poblaciones restantes: 28.980 pesetas. (174,17 euros)
+Cuota provincial de: 527.850 pesetas. (3.172,44 euros)
+Cuota nacional de: 2.639.250 pesetas. (15.862,21 euros)
+Epígrafe 501.2 Construcción completa, reparación y conservación de obras civiles.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 263.925 pesetas. (1.586,22 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 207.000 pesetas. (1.244,10 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 163.530 pesetas. (982,84 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 72.450 pesetas. (435,43 euros)
+– En las poblaciones restantes: 64.170 pesetas. (385,67 euros)
+Cuota provincial de: 1.449.000 pesetas. (8.708,67 euros)
+Cuota nacional de: 7.245.000 de pesetas. (43.543,33 euros)
+Epígrafe 501.3 Albañilería y pequeños trabajos de construcción en general.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 52.785 pesetas. (317,24 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.078 pesetas. (102,64 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Cuota provincial de: 289.800 pesetas. (1.741,73 euros)
+Cuota nacional de: 1.449.000 pesetas. (8.708,67 euros)
+Nota: Este epígrafe no autoriza la ejecución de obras con presupuesto superior a 6.000.000 de pesetas (36.060,73 euros) ni superficie en obra nueva o de ampliación que exceda de 600 metros cuadrados. Cuando se ejecute alguna obra en la que uno de estos límites se rebase, tributará por el epígrafe 501.1
+Grupo 502. Consolidación y preparación de terrenos, demoliciones, perforaciones para alumbramiento de aguas, cimentaciones y pavimentaciones.
+Epígrafe 502.1 Demoliciones y derribos en general.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 90.045 pesetas. (541,18 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 69.863 pesetas. (419,89 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 54.855 pesetas. (329,69 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En las poblaciones restantes: 24.840 pesetas. (149,29 euros)
+Cuota provincial de: 494.730 pesetas. (2.973,39 euros)
+Cuota nacional de: 2.473.650 pesetas. (14.866,94 euros)
+Epígrafe 502.2 Consolidación y preparación de terrenos para la construcción de edificaciones, incluidos sistemas de agotamiento y dragados.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 105.570 pesetas. (634,49 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 81.765 pesetas. (491,42 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 64.170 pesetas. (385,67 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 34.155 pesetas. (205,28 euros)
+– En las poblaciones restantes: 28.980 pesetas. (174,17 euros)
+Cuota provincial de: 527.850 pesetas. (3.172,44 euros)
+Cuota nacional de: 2.639.250 pesetas. (15.862,21 euros)
+Epígrafe 502.3 Consolidación y preparación de terrenos para la realización de obras civiles, incluidos sistemas de agotamiento y dragados.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 131.963 pesetas. (793,11 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 103.500 pesetas. (622,05 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 80.213 pesetas. (482,09 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En las poblaciones restantes: 36.225 pesetas. (217,72 euros)
+Cuota provincial de: 724.500 pesetas. (4.354,33 euros)
+Cuota nacional de: 3.622.500 pesetas. (21.771,66 euros)
+Epígrafe 502.4 Cimentaciones y pavimentaciones para la construcción de edificaciones.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 131.963 pesetas. (793,11 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 103.500 pesetas. (622,05 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 80.213 pesetas. (482,09 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En las poblaciones restantes: 36.225 pesetas. (217,72 euros)
+Cuota provincial de: 724.500 pesetas. (4.354,33 euros)
+Cuota nacional de: 3.622.500 pesetas. (21.771,66 euros)
+Epígrafe 502.5 Cimentaciones y pavimentaciones en obras civiles.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 184.748 pesetas. (1.110,36 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 146.453 pesetas. (880,20 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 117.473 pesetas. (706,03 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 55.890 pesetas. (335,91 euros)
+– En las poblaciones restantes: 46.575 pesetas. (279,92 euros)
+Cuota provincial de: 1.014.300 pesetas. (6.096,07 euros)
+Cuota nacional de: 5.071.500 pesetas. (30.480,33 euros)
+Epígrafe 502.6 Perforaciones para alumbramientos de aguas.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 63.135 pesetas. (379,45 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 49.163 pesetas. (295,48 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.813 pesetas. (233,27 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 20.183 pesetas. (121,30 euros)
+– En las poblaciones restantes: 17.595 pesetas. (105,75 euros)
+Cuota provincial de: 341.550 pesetas. (2.052,76 euros)
+Cuota nacional de: 1.707.750 pesetas. (10.263,78 euros)
+Grupo 503. Preparación y montaje de estructuras y cubiertas, postes y torres metálicas, carriles, compuertas, grúas, etc.
+Epígrafe 503.1 Preparación y montaje de estructuras y cubiertas y cubriciones en edificaciones.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 131.963 pesetas. (793,11 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 103.500 pesetas. (622,05 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 80.213 pesetas. (482,09 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En las poblaciones restantes: 36.225 pesetas. (217,72 euros)
+Cuota provincial de: 724.500 pesetas. (4.354,33 euros)
+Cuota nacional de: 3.622.500 pesetas. (21.771,66 euros)
+Epígrafe 503.2 Preparación y montaje de estructuras y cubiertas y cubriciones en obras civiles.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 184.748 pesetas. (1.110,36 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 146.453 pesetas. (880,20 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 117.473 pesetas. (706,03 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 55.890 pesetas. (335,91 euros)
+– En las poblaciones restantes: 46.575 pesetas. (279,92 euros)
+Cuota provincial de: 1.014.300 pesetas. (6.096,07 euros)
+Cuota nacional de: 5.071.500 pesetas. (30.480,33 euros)
+Epígrafe 503.3 Montaje e instalación de estructuras metálicas para transportes, puertos, obras hidráulicas, puentes, postes y torres metálicas, carriles, etc.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 184.748 pesetas. (1.110,36 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 146.453 pesetas. (880,20 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 117.473 pesetas. (706,03 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 55.890 pesetas. (335,91 euros)
+– En las poblaciones restantes: 46.575 pesetas. (279,92 euros)
+Cuota provincial de: 1.014.300 pesetas. (6.096,07 euros)
+Cuota nacional de: 5.071.500 pesetas. (30.480,33 euros)
+Epígrafe 503.4 Elaboración de obra en piedra natural o artificial, o con materiales para la construcción, siempre que no se empleen máquinas movidas mecánicamente ni más de cuatro obreros.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 52.785 pesetas. (317,24 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.883 pesetas. (245,71 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.078 pesetas. (102,64 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Cuota provincial de: 289.800 pesetas. (1.741,73 euros)
+Cuota nacional de: 1.449.000 pesetas. (8.708,67 euros)
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para colocar los trabajos realizados en sus talleres en las distintas obras, siempre que para ello no se empleen más de cuatro obreros. Cuando el número de obreros exceda de esta cifra o cuando se coloquen en obra trabajos realizados en otros talleres se tributara por el epígrafe 503.1.
+Si los sujetos pasivos comprendidos en estos epígrafes integran en sus trabajos hierro, bronce u otros metales semejantes, pagarán además un recargo del 10 por 100 sobre sus cuotas.
+Grupo 504. Instalaciones y montajes.
+Epígrafe 504.1 Instalaciones eléctricas en general. Instalación de redes telegráficas, telefónicas, telefonía sin hilos y televisión. Instalaciones de sistemas de balización de puertos y aeropuertos.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 149.900 pesetas. (870,87 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 114.885 pesetas. (690,47 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 92.115 pesetas. (553,62 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 43.470 pesetas. (261,26 euros)
+– En las poblaciones restantes: 36.225 pesetas. (217,72 euros)
+Cuota provincial de: 641.700 pesetas. (3.856,69 euros)
+Cuota nacional de: 3.198.150 pesetas. (19.221,27 euros)
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de fontanería.
+Epígrafe 504.2 Instalaciones de fontanería.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 70.380 pesetas. (422,99 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 53.820 pesetas. (323,46 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 21.735 pesetas. (130,63 euros)
+– En las poblaciones restantes: 18.630 pesetas. (111,97 euros)
+Cuota provincial de: 310.500 pesetas. (1.866,14 euros)
+Cuota nacional de: 1.552.500 pesetas. (9.330,71 euros)
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de frío, calor y acondicionamiento de aire.
+Epígrafe 504.3 Instalaciones de frío, calor y acondicionamiento de aire.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 70.380 pesetas. (422,99 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 53.820 pesetas. (323,46 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 21.735 pesetas. (130,63 euros)
+– En las poblaciones restantes: 18.630 pesetas. (111,97 euros)
+Cuota provincial de: 310.500 pesetas. (1.866,14 euros)
+Cuota nacional de: 1.552.500 pesetas. (9.330,71 euros)
+Nota: Los sujetos pasivos matriculados en este epígrafe están facultados para efectuar instalaciones de fontanería.
+Nota común a los epígrafes 504.1, 504.2 y 504.3: Los sujetos pasivos matriculados en estos epígrafes que realicen las actividades comprendidas en los mismos con cuatro obreros como máximo tributarán con arreglo a las siguientes cuotas:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 10.350 pesetas. (62,20 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Cuota provincial de: 184.230 pesetas. (1.107,24 euros)
+Cuota nacional de: 921.150 pesetas. (5.536,22 euros)
+Epígrafe 504.4 Instalación de pararrayos y similares.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 10.350 pesetas. (62,20 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Cuota provincial de: 145.935 pesetas. (877,09 euros)
+Cuota nacional de: 729.675 pesetas. (4.385,44 euros)
+Epígrafe 504.5 Montaje e instalación de cocinas de todo tipo y clase, con todos sus accesorios, para todo uso, menos el industrial.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 10.350 pesetas. (62,20 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Cuota provincial de: 145.935 pesetas. (877,09 euros)
+Cuota nacional de: 729.675 pesetas. (4.385,44 euros)
+Epígrafe 504.6 Montaje e instalación de aparatos elevadores de cualquier clase y tipo.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 49.680 pesetas. (298,58 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 38.295 pesetas. (230,16 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Cuota provincial de: 217.350 pesetas. (1.306,30 euros)
+Cuota nacional de: 1.097.100 pesetas. (6.593,70 euros)
+Epígrafe 504.7 Instalaciones telefónicas, telegráficas, telegráficas sin hilos y de televisión, en edificios y construcciones de cualquier clase.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 186.300 pesetas. (1.119,69 euros)
+Cuota nacional de: 912.870 pesetas. (5.486,46 euros)
+Epígrafe 504.8 Montajes metálicos e instalaciones industriales completas, sin vender ni aportar la maquinaria ni los elementos objeto de la instalación o montaje.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 103.500 pesetas. (622,05 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 80.730 pesetas. (485,20 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En las poblaciones restantes: 27.945 pesetas. (167,95 euros)
+Cuota provincial de: 455.400 pesetas. (2.737,01 euros)
+Cuota nacional de: 2.282.175 pesetas. (13.716,15 euros)
+Grupo 505. Acabado de obras.
+Epígrafe 505.1 Revestimientos exteriores e interiores de todas clases y en todo tipo de obras.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.288 pesetas. (1.384,06 euros)
+Cuota nacional de: 1.151.438 pesetas. (6.920,28 euros)
+Epígrafe 505.2 Solados y pavimentos de todas clases y en cualquier tipo de obras.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.288 pesetas. (1.384,06 euros)
+Cuota nacional de: 1.151.438 pesetas. (6.920,28 euros)
+Epígrafe 505.3 Preparación y colocación de solados y pavimentos de madera de cualquier clase.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 10.350 pesetas. (62,20 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Cuota provincial de: 184.230 pesetas. (1.107,24 euros)
+Cuota nacional de: 921.150 pesetas. (5.536,22 euros)
+Nota: Este epígrafe comprende el acuchillado y barnizado de las maderas colocadas.
+Epígrafe 505.4 Colocación de aislamientos fónicos, térmicos y acústicos de cualquier clase y para cualquier tipo de obras; impermea­bilización en todo tipo de edificios y construcciones por cualquier procedimiento.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.288 pesetas. (1.384,06 euros)
+Cuota nacional de: 1.151.438 pesetas. (6.920,28 euros)
+Epígrafe 505.5 Carpintería y cerrajería.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.288 pesetas. (1.384,06 euros)
+Cuota nacional de: 1.151.438 pesetas. (6.920,28 euros)
+Epígrafe 505.6: Pintura de cualquier tipo y clase y revestimientos con papel, tejidos o plásticos y terminación y decoración de edificios y locales.
+Cuota:
+Cuota mínima municipal:
+En poblaciones de más de 500,000 habitantes 41.400 pesetas. (248,82 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.288 pesetas. (1.384,06 euros)
+Cuota nacional de: 1.151.438 pesetas. (6.920,28 euros)
+Epígrafe 505.7. Trabajos en yeso y escayola y decoración de edificios y locales.
+Cuota.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+En poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 230.285 pesetas. (1.384,04 euros)
+Cuota nacional de: 1.151.435 pesetas. (6.920,26 euros)
+Nota común al grupo 505: Los sujetos pasivos matriculados en este grupo que realicen las actividades comprendidas en el mismo con cuatro obreros como máximo tributarán con arreglo a las siguientes cuotas:
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 20.700 pesetas. (121,41 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 8.280 pesetas. (49,76 euros)
+– En las poblaciones restantes: 7.245 pesetas. (43,54 euros)
+Cuota provincial de: 146.970 pesetas. (883,31 euros)
+Cuota nacional de: 736.920 pesetas. (4.428,98 euros)
+Grupo 506. Servicios auxiliares de la construcción y dragados.
+Epígrafe 506.0 Instalación de andamios, cimbras, encofrados, etc., incluso para usos distintos de la construcción.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Cuota provincial de: 182.160 pesetas. (1.094,80 euros)
+Cuota nacional de: 912.870 pesetas. (5.486,46 euros)
+Grupo 507. Construcción, reparación y conservación de toda clase de obras.
+Cuota:
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 331.200 pesetas. (1.990,55 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 272.205 pesetas. (1.635,98 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 212.175 pesetas. (1.275,20 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 99.360 pesetas. (597,17 euros)
+– En las poblaciones restantes: 87.975 pesetas. (528,74 euros)
+Cuota provincial de: 1.842.300 pesetas. (11.072,45 euros)
+Cuota nacional de: 9.211.500 pesetas. (55.362,23 euros)
+Notas:
+1.ª Este grupo faculta para ejercer todas las actividades clasificadas en la división 5. Construcción.
+2.ª Este grupo comprende las operaciones y labores necesarias y propias de la actividad constructora, tales como la explotación de canteras, fabricación de hormigones y de aglomerados asfálticos, siempre que los productos obtenidos se fabriquen en instalaciones que funcionen exclusivamente durante el tiempo de ejecución de la obra y se empleen exclusivamente en las obras que realizan las empresas constructoras.
+3.ª Asimismo, este grupo comprende la construcción de acequias prefabricadas, cuando se realice en talleres a pie de obra, sean modelos correspondientes al proyecto que se realiza, y no constituyan, por tanto, un producto tipificado y normalizado para su utilización en el mercado, y siempre que dichos talleres funcionen únicamente durante el período que abarque las obras de que se trate.
+Grupo 508. Agrupaciones y uniones temporales de empresas.
+Nota: Las agrupaciones y uniones temporales de empresas se darán de alta en la matrícula del impuesto por este grupo, sin pago de cuota alguna. Lo anterior se entiende sin perjuicio de la tributación que corresponda a las empresas integrantes de la agrupación o unión de que se trate.
+Se modifica el epígrafe 505.6 y se añade el 505.7 por el art. 61.1.11 y 12 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+ Téngase en cuenta para su aplicación el art. 61.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica la denominación del epígrafe 505.5 y se añade el 505.6 por el art. 72.1.14 y 15 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica por el art. 75.1.8 a 11 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el epígrafe 503.4 por el art. 78.1.4 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+## DIVISIÓN 6
+
+DIVISIÓN 6. COMERCIO, RESTAURANTES Y HOSPEDAJE, REPARACIONES.
+
+### Agrupación 61
+
+Agrupación 61. Comercio al por mayor.
+Grupo 611. Comercio al por mayor de toda clase de mercancías especificadas en los grupos 612 al 617 y 619.
+Cuota de: 724.500 pesetas. (4.354,33 euros)
+Grupo 612. Comercio al por mayor de materias primas agrarias, productos alimenticios, bebidas y tabacos.
+Epígrafe 612.1 Comercio al por mayor de toda clase de productos alimenticios, bebidas y tabacos especificados en los epígrafes 612.2 a 612.7 y 612.9.
+Cuota de: 162.495 pesetas. (976,61 euros)
+Epígrafe 612.2 Comercio al por mayor de cereales, simientes, plantas, abonos, sustancias fertilizantes, plaguicidas, animales vivos, tabaco en rama, alimentos para el ganado y materias primas marinas (peces vivos, algas, esponjas, conchas, etc.).
+Cuota de: 39.123 pesetas. (235,13 euros)
+Nota: Este epígrafe no comprende el comercio al por mayor del arroz.
+Epígrafe 612.3 Comercio al por mayor de frutas y frutos, verduras, patatas, legumbres frescas y hortalizas.
+Cuota de: 45.540 pesetas. (273,70 euros)
+Nota: Este epígrafe comprende la limpieza, clasificación y envase de los productos que se comercialicen.
+Epígrafe 612.4 Comercio al por mayor de carnes, productos y derivados cárnicos elaborados, huevos, aves y caza.
+Cuota de: 45.540 pesetas. (273,70 euros)
+Epígrafe 612.5 Comercio al por mayor de leche, productos lácteos, miel, aceites y grasas comestibles.
+Cuota de: 50.715 pesetas. (304,80 euros)
+Epígrafe 612.6 Comercio al por mayor de bebidas y tabaco.
+Cuota de: 54.855 pesetas. (329,69 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de alcoholes y bebidas alcohólicas, bebidas refrescantes y aguas de bebida envasadas, así como el comercio al por mayor de productos del tabaco.
+Epígrafe 612.7 Comercio al por mayor de vinos y vinagres del país.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Epígrafe 612.8 Comercio al por mayor de pescados y otros productos de la pesca y de la acuicultura.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de pescados, crustáceos, moluscos, etc.
+Epígrafe 612.9 Comercio al por mayor de otros productos alimenticios, helados de todas clases, etc.
+Cuota de: 49.266 pesetas. (296,09 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de productos alimenticios no especificados en los epígrafes anteriores del grupo «Comercio al por mayor de materias primas agrarias, productos alimenticios, bebidas y tabaco» (612), tales como arroz, harina, legumbres secas, azúcar, conservas, productos de confitería, frutos secos, encurtidos, café, té, cacao, especias, helados de todas clases, etc.
+Grupo 613. Comercio al por mayor de textiles, confección, calzado y artículos de cuero.
+Epígrafe 613.1 Comercio al por mayor de toda clase de productos textiles, de confección, calzado y artículos de cuero especificados en los epígrafes 613.2 al 613.5 y 613.9.
+Cuota de: 175.950 pesetas. (1.057,48 euros)
+Epígrafe 613.2 Comercio al por mayor de tejidos por metros, textiles para el hogar y alfombras.
+Cuota de: 98.325 pesetas. (590,95 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de tejidos por metros, ropa de cama, ropa blanca, tapicería y otros textiles para el hogar, fieltro, linóleum, alfombras y tapices, esteras, etc.
+Epígrafe 613.3 Comercio al por mayor de prendas exteriores de vestir.
+Cuota de: 155.250 pesetas. (933,07 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de prendas exteriores de vestir de señora, caballero e infantiles, incluidas las de trabajo, uniformes y prendas especiales.
+Epígrafe 613.4 Comercio al por mayor de calzado, peletería, artículos de cuero y marroquinería.
+Cuota de: 55.373 pesetas. (332,80 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de calzado, peletería y similares, artículos de cuero, marroquinería, ar­tículos de viaje, guarnicionería y otras manufacturas de piel, cuero y sucedáneos.
+Epígrafe 613.5 Comercio al por mayor de camisería, lencería, mercería y géneros de punto.
+Cuota de: 59.409 pesetas. (357,06 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de camisería, lencería, prendas interiores, mercería, calcetería y otros géneros de punto.
+Epígrafe 613.9 Comercio al por mayor de accesorios del vestido y otros productos textiles n.c.o.p.
+Cuota de: 32.085 pesetas. (192,83 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de accesorios del vestido y otros productos textiles no especificados en los epígrafes anteriores del grupo «Comercio al por mayor de textiles, confección, calzado y artículos de cuero» (613), tales como sombreros y tocados, paraguas, bastones, corbatas y otros artículos de adorno y complementos del vestido.
+Grupo 614. Comercio al por mayor de productos farmacéuticos, de perfumería y para el mantenimiento y funcio­namiento del hogar.
+Epígrafe 614.1 Comercio al por mayor de productos farmacéuticos y medicamentos.
+Cuota de: 182.160 pesetas. (1.094,80 euros)
+Epígrafe 614.2 Comercio al por mayor de productos de perfumería, droguería, higiene y belleza.
+Cuota de: 67.275 pesetas. (404,33 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de productos de perfumería, cosmética, belleza, droguería, pinturas, barnices, lacas, productos de conservación e higiene, etc.
+Epígrafe 614.3 Comercio al por mayor de productos para el mantenimiento y funcionamiento del hogar.
+Cuota de: 50.715 pesetas. (304,80 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de porcelana, cristalería y otros artículos de cerámica y vidrio para el hogar, artículos de madera, corcho y cestería y otros productos para el mantenimiento y funcionamiento del hogar.
+Epígrafe 614.4. Comercio al por mayor de productos zoosanitarios.
+Cuota de: 103.500 pesetas. (622,05 euros).
+Nota: Este epígrafe comprende el comercio al por mayor de medicamentos de uso veterinario, tanto farmacológicos como biológicos, aditivos para incorporar al pienso, correctores vitamínico minerales, plaguicidas de uso ganadero y otros productos propios de la sanidad y explotación ganadera, así como el material necesario para la aplicación de los indicados productos tales como jeringuillas, cánulas y similares, no incluyéndose, en cambio, en el mismo el comercio al por mayor de instrumental quirúrgico de uso veterinario.
+Grupo 615. Comercio al por mayor de artículos de consumo duradero.
+Epígrafe 615.1 Comercio al por mayor de vehículos, motocicletas, bicicletas y sus accesorios.
+Cuota de: 67.275 pesetas. (404,33 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de ve­hículos automóviles, camiones, autocares, remolques, motocicletas, bicicletas, etc.; así como sus repuestos, componentes y accesorios.
+Epígrafe 615.2 Comercio al por mayor de muebles.
+Cuota de: 51.750 pesetas. (311,02 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de muebles de todas clases (de madera, metálicos, etc.) y para todo uso (doméstico, de oficina, escolar, etc.), así como el comercio al por mayor de colchones y somieres.
+Epígrafe 615.3 Comercio al por mayor de aparatos electrodomésticos y ferretería.
+Cuota de: 100.395 pesetas. (603,39 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de aparatos electrodomésticos y sus piezas y accesorios, de artículos de ferretería, trefilería y cable, cerrajería, herrajes, metalistería, tornillería, cadenas y metrología, grifería, cuchillería y sus similares cortantes, herramientas de toda clase, sean o no eléctricas, así como sus accesorios y recambios, maquinaria electro-portátil, instrumentos de metal, material eléctrico y de fontanería, artículos de seguridad, cubertería, artículos de mesa y cocina, siempre que en su fabricación no se empleen metales preciosos, aparatos de uso doméstico, sean o no eléctricos, llaves en bruto y mecanizadas, estanterías, bancos de trabajo y armarios metálicos, utensilios de plástico y materiales para la práctica de bricolage.
+Epígrafe 615.4 Comercio al por mayor de aparatos y materiales radioeléctricos y electrónicos.
+Cuota de: 55.890 pesetas. (335,91 euros)
+Notas:
+1.ª Este epígrafe comprende el comercio al por mayor de aparatos y materiales radioeléctricos y electrónicos; instrumentos musicales, discos, etc., y aparatos eléctricos y electrónicos de uso profesional.
+2.ª Este epígrafe faculta para la venta de accesorios y complementos de los aparatos comprendidos en el mismo, así como su reparación y adaptación.
+Epígrafe 615.5. Comercio al por mayor de obras de arte y antigüedades.
+Cuota de: 62.100 pesetas. (373,23 euros)
+Epígrafe 615.6: Galerías de Arte.
+Cuota de: 63.135 pesetas. (379,45 euros)
+Nota: este epígrafe comprende:
+– La exposición y exhibición de obras de arte y antigüedades, así como el comercio, mayor y menor, la importación y exportación y la intermediación en el comercio, bajo cualquier modalidad, de dichos objetos.
+– La cesión esporádica a terceros, por cualquier título, de los locales de las galerías de arte para ser usados por aquéllos en la realización de actos culturales y análogos.
+– La prestación de servicios culturales clasificados en el epígrafe 966.9 de esta Sección.
+Epígrafe 615.9 Comercio al por mayor de otros artículos de consumo duradero no especificados en los epígrafes anteriores.
+Cuota de: 55.890 pesetas. (335,91 euros)
+Grupo 616. Comercio al por mayor interindustrial de la minería y la química.
+Epígrafe 616.1 Comercio al por mayor de carbón.
+Cuota de: 45.851 pesetas. (275,57 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de carbones, carbón vegetal y coque, así como de los aglomerados de carbón.
+Epígrafe 616.2 Comercio al por mayor de hierro y acero.
+Cuota de: 155.250 pesetas. (933,07 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de hierro y acero en bruto y productos semielaborados.
+Epígrafe 616.3 Comercio al por mayor de minerales.
+Cuota de: 107.640 pesetas. (646,93 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de minerales metálicos y no metálicos (incluidos los productos de cantera).
+Epígrafe 616.4 Comercio al por mayor de metales no férreos en bruto y productos semielaborados.
+Cuota de: 64.170 pesetas. (385,67 euros)
+Epígrafe 616.5 Comercio al por mayor de petróleo y lubricantes.
+Cuota de: 64.170 pesetas. (385,67 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de petróleo crudo y productos procedentes del refino de petróleo (gasolina, aceite ligero, «fuel-oil», lubricantes, gases licuados de petróleo, etc.).
+Epígrafe 616.6 Comercio al por mayor de productos químicos industriales.
+Cuota de: 107.640 pesetas. (646,93 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de fibras artificiales y sintéticas, resinas artificiales, caucho y materias plásticas, tintas de imprenta, colorantes, aceites y grasas industriales, ácidos, álcalis, gases industriales y naturales, hidrocarburos básicos cíclicos, productos intermedios de la fabricación de alquitrán, explosivos, material foto­gráfico sensible y otros productos químicos de base e industriales.
+Epígrafe 616.9 Otro comercio al por mayor interindustrial de la minería y química no especificado en los epígrafes anteriores.
+Cuota de: 103.500 pesetas. (622,05 euros)
+Grupo 617. Otro comercio al por mayor interindustrial (excepto de la minería y de la química).
+Epígrafe 617.1 Comercio al por mayor de fibras textiles brutas y productos semielaborados.
+Cuota de: 74.520 pesetas. (447,87 euros)
+Epígrafe 617.2 Comercio al por mayor de cueros y pieles en bruto.
+Cuota de: 65.205 pesetas. (391,89 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de cueros y pieles en bruto y semi-elaborados, pelos, cerdas, etc. Cuando la actividad consista, exclusivamente, en el comercio al por mayor de pieles de animales adquiridas previamente como subproductos o despojos a los mataderos donde se realiza el sacrificio y despiece de ganado en general, la cuota de este epígrafe será el 50 por 100 de la señalada en el mismo.
+Epígrafe 617.3 Comercio al por mayor de madera y corcho.
+Cuota de: 82.800 pesetas. (497,64 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de madera, madera debastada, listones, tableros y otros productos semielaborados de madera y madera artificial, corcho, resinas y otros productos forestales, así como el comercio al por mayor de carpintería y artículos de madera para la construcción y de tonelería y otros envases y embalajes.
+Epígrafe 617.4 Comercio al por mayor de materiales de construcción, vidrio y artículos de instalación.
+Cuota de: 82.800 pesetas. (497,64 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de cementos, cales, yesos, derivados del cemento, hormigones, etc., de vidrio plano, de artículos de instalación (sanitarios, etc.), carpintería metálica, calderería gruesa, estructuras metálicas, materiales para techados, revestimientos, aislamientos, etc.
+Epígrafe 617.5 Comercio al por mayor de maquinaria para la madera y el metal.
+Cuota de: 68.310 pesetas. (410,55 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de maquinaria para el trabajo de la madera y los metales, así como el de equipo, piezas y accesorios para esta maquinaria.
+Epígrafe 617.6 Comercio al por mayor de maquinaria agrícola.
+Cuota de: 68.310 pesetas. (410,55 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de tractores y otros vehículos agrícolas, máquinas, accesorios y útiles agrícolas y para la ganadería, avicultura, etc.
+Epígrafe 617.7 Comercio al por mayor de maquinaria textil.
+Cuota de: 68.310 pesetas. (410,55 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de maquinaria para la industria textil, del cuero, calzado y vestido (incluidas las máquinas de coser y hacer punto).
+Epígrafe 617.8 Comercio al por mayor de máquinas y material de oficina.
+Cuota de: 54.855 pesetas. (329,69 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de máquinas, equipo y material de oficina, excepto muebles.
+Epígrafe 617.9 Comercio al por mayor interindustrial (excepto minería y química) de otros productos, maquinaria y material n.c.o.p.
+Cuota de: 68.310 pesetas. (410,55 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de productos, maquinaria y material no especificados en los epígrafes anteriores del grupo «Otro comercio al por mayor interindustrial» (616), tales como maquinaria y equipo de uso general (motores, turbinas, maquinaria para manipulación de fluidos, etc.); motores y generadores eléctricos, equipos y material de distribución y transmisión de electricidad, equipo de telecomunicación; maquinaria y equipo de construcción, pavimentación, para yacimientos y minas; maquinaria de imprenta y encuadernación, para la industria alimentaria, papelera, química, etc.; material de transporte y otras máquinas, herramientas y material para la industria, el comercio y la navegación; artículos técnicos de caucho, plástico, etc.; material y maquinaria de elevación y manipulación y suministros diversos para la industria.
+Grupo 618. Comerciales exportadoras y comercio al por mayor en zonas y depósitos francos.
+Epígrafe 618.1 Comerciales exportadoras (exportación de toda clase de mercancías).
+Cuota nacional de: 148.005 pesetas. (889,53 euros)
+Notas:
+1.ª Este epígrafe no faculta para importar mercancías.
+2.ª Sin perjuicio de lo dispuesto en la nota primera, los sujetos pasivos matriculados en este epígrafe podrán importar las mercancías obtenidas como consecuencia del cobro en especie de los productos exportados, así como vender al por mayor dichas mercancías.
+3.ª Este epígrafe no autoriza, en ningún caso, la venta al por mayor de mercancías que no procedan del cobro en especie de los productos exportados.
+Epígrafe 618.2 Comercio al por mayor de toda clase de mercancías, exclusivamente dentro de las zonas y depósitos francos con productos en ellos consignados y que se limite exclusivamente al aprovisionamiento de buques extranjeros y españoles de gran cabotaje y altura, así como al de aeronaves extranjeras y españolas del servicio internacional, ya en forma directa, ya a través de una previa exportación al extranjero.
+Cuota mínima municipal de: 468.855 pesetas. (2.817,88 euros)
+Grupo 619. Otro comercio al por mayor no especificado en los grupos 612 al 618.
+Epígrafe 619.1 Comercio al por mayor de juguetes y ar­tículos de deporte.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de juguetes, incluyendo artículos para parques infantiles, tales como toboganes, columpios, etc., así como juegos de salón y sociedad y artículos de deporte (incluidas las armas blancas y de fuego ligeras y sus municiones).
+Epígrafe 619.2 Comercio al por mayor de aparatos e instrumentos médicos, ortopédicos, ópticos y fotográficos.
+Cuota de: 41.814 pesetas. (251,31 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de aparatos o instrumentos de medicina, cirugía, odontología y veterinaria; ortopédicos, ópticos, fotográficos y cinematográficos.
+Epígrafe 619.3 Comercio al por mayor de metales preciosos, artículos de joyería, bisutería y de relojería.
+Cuota de: 187.439 pesetas. (1.126,53 euros)
+Nota: Los sujetos pasivos que realicen el comercio al por mayor de bisutería ordinaria exclusivamente, entendiendo por tal la que no incorpore metales o piedras preciosas ni perlas, tributarán al 50 por 100 de la cuota anterior. La misma reducción de las cuotas en el 50 por 100 se aplicará al comercio al por mayor de relojería exclusivamente.
+Epígrafe 619.4 Comercio al por mayor de productos de papel y cartón.
+Cuota de: 52.785 pesetas. (317,24 euros)
+Epígrafe 619.5 Comercio al por mayor de artículos de papelería y escritorio, artículos de dibujo y bellas artes.
+Cuota de: 41.814 pesetas. (251,31 euros)
+Epígrafe 619.6 Comercio al por mayor de libros, periódicos y revistas.
+Cuota de: 28.980 pesetas. (174,17 euros)
+Epígrafe 619.7 Comercio al por mayor de instrumentos de precisión, medida y similares.
+Cuota de: 41.814 pesetas. (251,31 euros)
+Epígrafe 619.8. Compraventa de ganado.
+Cuota nacional de: 62.100 pesetas. (373,23 euros)
+Epígrafe 619.9 Comercio al por mayor de otros productos n.c.o.p.
+Cuota de: 110.538 pesetas. (664,35 euros)
+Nota: Este epígrafe comprende el comercio al por mayor de productos no especificados en los epígrafes anteriores del grupo «Otro comercio al por mayor no especificado en los grupos 612 al 618» (619).
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifican los epígrafes 615.3 y 619.3 y se añade el 615.6 por el art. 76.1.1, 2 y 12 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Redactado el epígrafe 615.6 conforme a la corrección de errores publicada en BOE núm. 38, de 14 de febrero de 1995. Ref. BOE-A-1995-3864.
+ Se modifica el epígrafe 612.9 por el art. 72.1.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica por el art. 75.1.12 a 16 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1993. Ref. BOE-A-1993-4117.
+
+### Agrupación 62
+
+Agrupación 62. Recuperación de productos.
+Grupo 621. Comercio al por mayor de chatarra y metales de desecho férreos y no férreos.
+Cuota de: 55.890 pesetas. (335,91 euros)
+Notas:
+1.ª Este grupo comprende el comercio al por mayor de chatarra y otros residuos y desechos de hierro, acero, cobre, latón, aluminio y otros metales, procedentes de máquinas, vehículos y otros materiales en desuso.
+2.ª Cuando los artículos anteriores sean vendidos como maquinaria usada, el sujeto pasivo tributará por el grupo o epígrafe correspondiente a la venta de dicha maquinaria.
+3.ª Este grupo faculta para la venta de elementos no metálicos procedentes de derribos o de desguaces de barcos, automóviles, etc., así como para el propio servicio de desguace.
+Grupo 622. Comercio al por mayor de otros productos de recuperación.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Nota: Este grupo comprende el comercio al por mayor de productos de recuperación no especificados en el grupo anterior, tales como papeles y periódicos usados, desechos de cartón, trapos usados, residuos de vidrio y desechos diversos.
+Grupo 623. Recuperación y comercio de residuos fuera de establecimiento permanente.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Nota: Este grupo comprende a todos aquellos comerciantes recuperadores que ejercen su actividad fuera de establecimiento permanente, vendiendo sus productos a otros recuperadores.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 63
+
+Agrupación 63. Intermediarios del comercio.
+Grupo 631. Intermediarios del comercio.
+Cuota mínima municipal de: 25.875 pesetas. (155,51 euros)
+Cuota provincial de: 62.100 pesetas. (373,23 euros)
+Cuota nacional de: 155.250 pesetas. (933,07 euros)
+Nota: Este grupo comprende las actividades cuyo objeto exclusivo o principal consiste en poner en relación a comprador y vendedor o bien en realizar actos de comercio por cuenta de sus comitentes, en todas las fases de la comercialización de toda clase de productos.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 64
+
+Agrupación 64. Comercio al por menor de productos alimenticios, bebidas y tabacos, realizado en establecimientos permanentes.
+Grupo 641. Comercio al por menor de frutas, verduras, hortalizas y tubérculos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 23.391 pesetas. (140,58 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 14.076 pesetas. (84,60 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 10.971 pesetas. (65,94 euros)
+– En las poblaciones restantes: 9.315 pesetas. (55,98 euros)
+Grupo 642. Comercio al por menor de carnes y despojos; de productos y derivados cárnicos elaborados; de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Epígrafe 642.1 Comercio al por menor de carnes y despojos; de productos y derivados cárnicos elaborados; de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 68.310 pesetas. (410,55 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 54.855 pesetas. (329,69 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En las poblaciones restantes: 16.560 pesetas. (99,53 euros)
+Nota: Este epígrafe faculta para:
+– Realizar todas las actividades recogidas en el grupo 642.
+– Vender al por menor quesos, mantecas y salsas.
+– Sacrificar reses en mataderos autorizados.
+– Elaborar, en el propio establecimiento, productos y derivados cárnicos, que sólo podrán comercializarse en las propias dependencias de venta.
+Epígrafe 642.2 Comercio al por menor, en dependencias de venta de carnicerías-charcuterías, de carnes frescas y congeladas, despojos y toda clase de productos y derivados cárnicos; de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 61.065 pesetas. (367,01 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 48.645 pesetas. (292,36 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Este epígrafe faculta para:
+– Vender al por menor quesos, mantecas y salsas.
+– Sacrificar reses en mataderos autorizados.
+– Elaborar, en el propio establecimiento, productos y derivados cárnicos, que sólo podrán comercializarse en las propias dependencias de venta.
+Epígrafe 642.3 Comercio al por menor, en dependencias de venta de carnicerías-salchicherías, de carnes frescas y congeladas, despojos, productos procedentes de industrias cárnicas y productos cárnicos frescos, crudos, adobados, tocino salado, embutidos de sangre (morcillas) y aquellos otros tradicionales de estas características para los que estén autorizados; así como de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 48.645 pesetas. (292,36 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 39.330 pesetas. (236,38 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 20.700 pesetas. (124,41 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe faculta para:
+– Vender al por menor quesos, mantecas y salsas.
+– Sacrificar reses en mataderos autorizados.
+– Elaborar, en el propio establecimiento, productos y derivados cárnicos frescos, que sólo podrán comercializarse en las propias dependencias de venta.
+Epígrafe 642.4 Comercio al por menor, en carnicerías, de carnes frescas y congeladas, despojos y productos y derivados cárnicos elaborados; así como de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 39.330 pesetas. (236,38 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe faculta para:
+– Vender al por menor quesos, mantecas y salsas.
+– Sacrificar reses en mataderos autorizados.
+Epígrafe 642.5 Comercio al por menor de huevos, aves, conejos de granja, caza y de productos derivados de los mismos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 11.385 pesetas. (68,43 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Epígrafe 642.6 Comercio al por menor, en casquerías, de vísceras y despojos procedentes de animales de abasto, frescos y congelados.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Grupo 643. Comercio al por menor de pescados y otros productos de la pesca y de la acuicultura y de caracoles.
+Epígrafe 643.1 Comercio al por menor de pescados y otros productos de la pesca y de la acuicultura y de caracoles.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe faculta para la venta al por menor de bacalao y otros pescados en salazón.
+Epígrafe 643.2 Comercio al por menor de bacalao y otros pescados en salazón.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Grupo 644. Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos.
+Epígrafe 644.1 Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Nota: Este epígrafe faculta para:
+El comercio al por menor de todo tipo de pan y panes especiales; de productos de pastelería, confitería, bollería y repostería; de obleas y barquillos, caramelos, dulces, turrones, hojaldres, pastas, conservas en dulce, galletas, cacao y chocolate y sus derivados y sucedáneos; de leche, productos lácteos y miel; helados, fiambres, conservas de todas clases; salsas de carnes o pescados, frutas en almíbar, en mermelada o en pasta; infusiones, café y solubles; bebidas embotelladas y con marca; quesos, embutidos y emparedados.
+La fabricación de pan de todas clases y productos de pastelería, bollería, confitería y helados, en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+Degustar los productos en el propio establecimiento acompañados de bebidas refrescantes y solubles.
+Comercializar los artículos en envases de bisutería fina, porcelana o fantasía, así como en otro tipo de envases tales como muñecos de plástico o trapo.
+Epígrafe 644.2 Despachos de pan, panes especiales y bollería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.490 pesetas. (87,09 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe faculta para:
+– El comercio al por menor de pan, panes especiales y bollería, incluyendo la bollería industrial, así como para la venta al por menor de leche y demás productos lácteos.
+– La fabricación de pan de todas clases y productos de bollería en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+Epígrafe 644.3 Comercio al por menor de productos de pastelería, bollería y confitería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.490 pesetas. (87,09 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe faculta para:
+– El comercio al por menor de pan y panes especiales; de productos de pastelería, confitería, bollería y repostería; de obleas y barquillos, caramelos, dulces, turrones, hojaldres, pastas, conservas en dulce, galletas, cacao y chocolate y sus derivados y sucedáneos; de leche, productos lácteos y miel; helados y conservas de todas clases; frutas en almíbar, en mermelada o en pasta; infusiones, café y solubles; bebidas embotelladas y con marca.
+– La fabricación de productos de pastelería, bollería y confitería en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+– Comercializar los artículos en envases de bisutería fina, porcelana o fantasía, así como en otro tipo de envases, tales como muñecos de plástico o trapo.
+Epígrafe 644.4 Comercio al por menor de helados.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 20.700 pesetas. (124,41 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas.(99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Nota: Este epígrafe faculta para:
+– El comercio al por menor de toda clase de helados, incluso tartas heladas y bebidas frías, tales como horchatas, granizados, etc.
+– La fabricación de helados y tartas heladas en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+Epígrafe 644.5 Comercio al por menor de bombones y caramelos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 20.700 pesetas. (124,41 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (74,65 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Este epígrafe faculta para:
+– La fabricación de bombones y caramelos en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+– Comercializar los artículos en envases de bisutería fina, porcelana o fantasía, así como en otro tipo de envases, tales como muñecos de plástico o trapo.
+Epígrafe 644.6 Comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivo, frutos secos, golosinas, preparados de chocolate y bebidas refrescantes.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 9.315 pesetas. (55,98 euros)
+– En las poblaciones restantes: 6.210 pesetas. (37,32 euros)
+Nota: Este epígrafe faculta para la elaboración de los productos de churrería; así como patatas fritas, en el propio establecimiento, siempre que su comercialización se realice en las propias dependencias de venta.
+Grupo 645. Comercio al por menor de vinos y bebidas de todas clases.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.490 pesetas. (87,09 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Grupo 646. Comercio al por menor de labores de tabaco y de artículos de fumador.
+Epígrafe 646.1 Comercio al por menor de labores de tabaco de todas clases y formas en expendedurías generales, especiales e interiores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Nota: Este epígrafe comprende el comercio al por menor de los artículos recogidos en el epígrafe 646.8, papel de fumar y otros objetos de pequeño valor y alto índice de rotación cuya comercialización sea autorizada por el órgano gestor del monopolio con carácter accesorio de la actividad principal, así como para la venta de todo tipo de impresos o documentos cuya distribución sea asignada a las expendedurías.
+Epígrafe 646.2 Comercio al por menor de labores de tabaco de todas clases y formas en extensiones transitorias de expendedurías generales.
+– Hasta treinta días: Cuota de 3.944 pesetas. (23,70 euros)
+– Más de treinta hasta sesenta días: Cuota de 7.898 pesetas. (47,47 euros)
+– Más de sesenta hasta noventa días: Cuota de 11.841 pesetas. (71,17 euros)
+– Más de noventa hasta ciento veinte días: Cuota de 15.795 pesetas. (94,93 euros)
+– Más de ciento veinte hasta ciento cincuenta días: Cuota de 19.738 pesetas. (118,63 euros)
+Epígrafe 646.3 Comercio al por menor de labores de tabaco de todas clases y formas en expendedurías de carácter complementario.
+Cuota de: 10.868 pesetas. (65,32 euros)
+Epígrafe 646.4 Comercio al por menor de labores de tabaco, realizado por establecimientos mercantiles, en régimen de autorizaciones de venta con recargo.
+Cuota de: 4.513 pesetas. (27,12 euros)
+Epígrafe 646.5 Comercio al por menor de labores de tabaco, realizado a través de máquinas automáticas, en régimen de autorizaciones de venta con recargo.
+Cuota mínima municipal: 2.070 pesetas (12,440951 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del estable­cimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 2.070 pesetas (12,440951 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+Epígrafe 646.6 Comercio al por menor de tabacos de todas clases y formas, en localidades donde no esté estancada la venta.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 26.496 pesetas. (159,24 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.872 pesetas. (119,43 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.111 pesetas. (90,82 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Epígrafe 646.7 Comercio al por menor de labores de tabaco realizado por minusválidos físicos titulares de autorizaciones especiales.
+Nota: Los sujetos pasivos de este epígrafe tributarán por cuota cero.
+Epígrafe 646.8 Comercio al por menor de artículos para fumadores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 39.330 pesetas. (236,38 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 31.257 pesetas. (187,86 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.391 pesetas. (140,58 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.113 pesetas. (108,86 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Este epígrafe autoriza para realizar el comercio al menudeo, en pequeñas proporciones, de material de escribir, como carpetas, sobres y pliegos sueltos, plumas, lapiceros, bolígrafos, gomas, lacres, frascos de tinta, libretas, blocs, naipes, estampas y postales, siempre que los artículos mencionados no contengan metales preciosos.
+Notas comunes al grupo 646:
+1.ª Los sujetos pasivos matriculados en este Grupo podrán expender, sin pago de cuota adicional alguna, sellos de correos y efectos timbrados.
+2.ª Quienes no estando matriculados en este Grupo expendan sellos de correos y efectos timbrados, tributarán por esta actividad en régimen de cuota cero.
+Grupo 647. Comercio al por menor de productos alimenticios y bebidas en general.
+Epígrafe 647.1 Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en estable­cimientos con vendedor.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 37.260 pesetas. (223,94 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En las poblaciones restantes: 15.525 pesetas. (93,31 euros)
+Notas:
+1.ª No están comprendidas en este epígrafe las actividades de comercio al por menor de carne y pescado frescos, ni la venta de tabacos.
+2.ª Este epígrafe faculta para el comercio al por menor de jabones y artículos para la limpieza del hogar.
+Epígrafe 647.2 Comercio al por menor de cualquier clase de productos alimenticios y de bebidas, en régimen de autoservicio o mixto en establecimientos cuya sala de ventas tenga una superficie inferior a 120 metros cuadrados.
+Cuota de: 44.505 pesetas. (267,48 euros)
+Epígrafe 647.3 Comercio al por menor de cualquier clase de productos alimenticios y de bebidas, en régimen de autoservicio o mixto en superservicios, denominados así cuando la superficie de su sala de ventas se halle comprendida entre 120 y 399 metros cuadrados.
+Cuota de: 109.710 pesetas. (659,37 euros)
+Epígrafe 647.4 Comercio al por menor de cualquier clase de productos alimenticios y bebidas, en régimen de autoservicio o mixto en supermercados, denominados así cuando la superficie de su sala de ventas sea igual o superior a 400 metros cuadrados.
+Cuota de: 183.195 pesetas. (1.101,02 euros)
+Nota: Este epígrafe faculta para la venta al por menor de los ar­tículos clasificados en los epígrafes 653.3 y 659.4.
+Notas comunes a los epígrafes 647.2, 647.3 y 647.4:
+1.ª No está comprendida en estos epígrafes la venta de tabaco.
+2.ª Estos epígrafes facultan para la venta al por menor y por el mismo sistema de artículos de droguería y perfumería.
+Epígrafe 647.5 Suministro de productos alimenticios y bebidas, excluido el tabaco, a través de máquinas expendedoras.
+Cuota mínima municipal: 1.160 pesetas (6,971740 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del estable­cimiento o local en el cual la máquina esté instalada, siempre que perciba contraprestación por esta actividad.
+Cuota nacional: 1.160 pesetas (6,971740 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifican los epígrafes 644.6 y 646 por el art. 75.1.17 y 18 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el epígrafe 644.1 por el art. 78.8 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 65
+
+Agrupación 65. Comercio al por menor de productos industriales no alimenticios realizado en establecimientos permanentes.
+Grupo 651. Comercio al por menor de productos textiles, confección, calzado, pieles y artículos de cuero.
+Epígrafe 651.1 Comercio al por menor de productos textiles, confecciones para el hogar, alfombras y similares y artículos de tapicería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe faculta para la venta al por menor, como complemento, de artículos de mercería y paquetería clasificados en el epígrafe 651.4 y no alcanza a las facultades de éste.
+Epígrafe 651.2 Comercio al por menor de toda clase de prendas para el vestido y tocado.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 57.960 pesetas. (348,35 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 46.575 pesetas. (279,92 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 35.190 pesetas. (211,50 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En las poblaciones restantes: 15.525 pesetas. (93,31 euros)
+Notas:
+1.ª Este epígrafe faculta para la venta de accesorios de vestido, tales como: abanicos, sombrillas, paraguas, bastones, etc.
+2.ª Asimismo, este epígrafe faculta para la venta al por menor, como complemento, de calzado, artículos de piel y demás clasificados en el epígrafe 651.6.
+3.ª Los sujetos pasivos matriculados en este epígrafe podrán realizar la venta al por menor de bisutería, exclusivamente.
+Epígrafe 651.3 Comercio al por menor de lencería y corsetería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe faculta para la venta al por menor, como complemento, de los artículos de mercería y paquetería clasificados en el epígrafe 651.4 y no alcanza a las facultades de éste.
+Epígrafe 651.4 Comercio al por menor de artículos de mercería y paquetería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Notas:
+1.ª Este epígrafe faculta para la venta al por menor, de prendas de vestir clasificadas en el epígrafe 651.2 satisfaciendo el 25 por ciento de la cuota de dicho epígrafe y no alcanza a las facultades de éste.
+2.ª Asimismo, este epígrafe faculta para la venta al por menor de bisutería, exclusivamente, clasificada en el epígrafe 659.5.
+3.ª Los sujetos pasivos matriculados en este epígrafe podrán realizar la venta de productos de higiene y aseo per­sonal.
+Epígrafe 651.5 Comercio al por menor de prendas especiales.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe comprende el comercio al por menor de prendas de trabajo, uniformes, prendas de cuero y similares, prendas especiales para lluvia cosidas o de plástico soldado, prendas militares y deportivas, sacerdotales y religiosas, de teatro, etc.
+Epígrafe 651.6 Comercio al por menor de calzado, ar­tículos de piel e imitación o productos sustitutivos, cinturones, carteras, bolsos, maletas y artículos de viaje en general.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe faculta para la venta al por menor, como complemento, de prendas de vestir de cuero, ante y napa, clasificadas en el epígrafe 651.2 y no alcanza a las facultades de éste.
+Epígrafe 651.7 Comercio al por menor de confecciones de peletería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas. (373,23 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas. (230,16 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En las poblaciones restantes: 15.525 pesetas. (93,31 euros)
+Nota: Este epígrafe faculta para elaborar confecciones de peletería en el propio establecimiento, así como para realizar arreglos, limpieza y conservación de las confecciones clasificadas en el mismo.
+Asimismo, este epígrafe faculta para la venta al por menor, como complemento, de artículos de piel e imitación o productos sustitutivos, tales como cinturones, carteras, bolsos, etc.
+Grupo 652. Comercio al por menor de medicamentos y de productos farmacéuticos; comercio al por menor de artículos de droguería y limpieza; perfumería y cosméticos de todas clases y de productos químicos en general; comercio al por menor de hierbas y plantas en herbolarios.
+Epígrafe 652.1 Farmacias: Comercio al por menor de medicamentos, productos sanitarios y de higiene personal.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas. (373,23 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas. (230,16 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 27.324 pesetas. (164,22 euros)
+– En las poblaciones restantes: 16.043 pesetas. (96,42 euros)
+Notas:
+1.ª Este epígrafe comprende la elaboración y dispen­sación de medicamentos tanto de uso humano como animal, entendiendo por medicamentos todos aquellos que vengan definidos como tales en la legislación vigente.
+Asimismo, faculta para dispensar productos sanitarios, materiales de cura (esterilizados, no esterilizados, esparadrapos, algodones, al­coholes, material de sutura, celulosas, termómetros, jeringuillas y agujas hipodérmicas), productos sanitarios para incontinencias, productos sanitarios de óptica, bolsas de agua y hielo, artículos higiénicos de goma o plástico, chupetes, biberones, humidificadores, aparatos de ortopedia con fines curativos, preventivos o correctores, material de ostomía, pequeño instrumental médico-quirúrgico de venta normal en farmacias, cosméticos de carácter dermofarmacéutico y productos de higiene personal, plantas medicinales, insecticidas de aplicación directa en personas o animales, alimentos específicos para la infancia, dietéticos y geriátricos, así como todos los utensilios para la aplicación de estos productos, aguas minero-medicinales, así como la toma de medidas físicas (peso, altura y tensión).
+2.ª Este epígrafe no incluye el ejercicio profesional del farmacéutico analista clínico.
+3.ª Los farmacéuticos que ejerzan la modalidad de óptica oftálmica y acústica audiométrica dentro de la oficina de farmacia, están facultados para la venta de aparatos y materiales de carácter sanitario, propios de este ejercicio profesional, abonando el 50 por ciento de la cuota del epígrafe 659.3 de comercio al por menor de óptica.
+Epígrafe 652.2 Comercio al por menor de productos de droguería, perfumería y cosmética, limpieza, pinturas, barnices, disolventes, papeles y otros productos para la decoración y de productos químicos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 45.540 pesetas. (273,70 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Notas:
+1.ª Este epígrafe faculta para la venta al por menor de los productos clasificados en el epígrafe 652.3.
+2.ª Asimismo, comprende la venta al por menor de productos fitosanitarios, de limpieza, químicos, artículos de plástico, artículos de velas y ceras, productos de higiene y aseo personal, jabones y detergentes, pinturas, barnices y disolventes, brochas, rodillos y útiles de pintor, papeles para la decoración, utensilios y materiales para las reparaciones en el hogar, pinturas artísticas (óleo, acuarela, acrílica, etc.), papeles, bastidores, telas sueltas, pincelería, utensilios y productos para la aplicación de pinturas artísticas, pilas y bombillas.
+Epígrafe 652.3 Comercio al por menor de productos de perfumería y cosmética, y de artículos para la higiene y el aseo personal.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Notas:
+1.ª Este epígrafe comprende la venta al por menor de productos cosméticos, químicos para la cosmética, bisutería para el adorno personal que no contenga metales preciosos, artículos de tocador, aparatos eléctricos para la aplicación de perfumería, máquinas de afeitar, secadores de pelo y aparatos cosméticos de masaje y depilación.
+2.ª Los sujetos pasivos podrán realizar demostraciones de productos de cosmética y maquillaje en el propio local de venta.
+Epígrafe 652.4 Comercio al por menor de plantas y hierbas en herbolarios.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Nota: Este epígrafe comprende la venta al por menor de plantas y hierbas en herbolarios (excepto los de venta exclusiva en farmacias) y faculta para el comercio al por menor de preparados dietéticos y de regímenes especiales, alimentos biológicos, macrobióticos y naturales, plantas medicinales y sus preparados, cosméticos naturales, libros informativos sobre los productos anteriores y su aplicación, así como productos afines.
+Grupo 653. Comercio al por menor de artículos para el equipamiento del hogar y la construcción.
+Epígrafe 653.1 Comercio al por menor de muebles (excepto los de oficina).
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Notas:
+1.ª Este epígrafe comprende la venta al por menor de toda clase de muebles (excepto los de oficina y cocina), colchones y somieres.
+Asimismo, comprende la venta al por menor, como complemento, de cuadros, lámparas, pinturas sin firma y otros objetos de decoración del hogar.
+2.ª Los sujetos pasivos matriculados en este epígrafe podrán ejercer la venta al por menor de los productos comprendidos en el epígrafe 651.1, satisfaciendo el 50 por ciento de la cuota asignada al mismo.
+3.ª En los locales en los que se ejerza la actividad clasificada en este epígrafe, la deducción a que se refiere la letra c) de la regla 14.ª1.F) de la Instrucción del impuesto será en todo caso del 20 por 100.
+Epígrafe 653.2 Comercio al por menor de material y aparatos eléctricos, electrónicos, electrodomésticos y otros aparatos de uso doméstico accionados por otro tipo de energía distinta de la eléctrica, así como de muebles de cocina.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 72.450 pesetas. (435,43 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 63.135 pesetas. (379,45 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas. (311,02 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 35.190 pesetas. (211,50 euros)
+– En las poblaciones restantes: 18.630 pesetas. (111,97 euros)
+Notas:
+1.ª Este epígrafe faculta para la instalación y reparación de los aparatos clasificados en el mismo.
+2.ª Cuando el comercio al por menor al que se refiere este epígrafe se circunscriba exclusivamente a objetos de todas clases para instalaciones eléctricas tales como flexibles, llaves, cajetines, conductores aislados, cinta aislante, tubo Bergman y otros análogos, tubos metálicos, lámparas de incandescencia, fluorescencia y neón, así como lámparas y arañas que no contengan bronce u otros metales cincelados, la cuota será el 40 por 100 de la asignada a este epígrafe.
+Epígrafe 653.3 Comercio al por menor de artículos de menaje, ferretería, adorno, regalo o reclamo (incluyendo bisutería y pequeños electrodomésticos).
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 56.925 pesetas. (342,13 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 45.540 pesetas. (273,70 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas. (205,28 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Notas:
+1.ª Este epígrafe comprende el comercio al por menor de artículos de ferretería, trefilería, cerrajería, herrajes, metalistería, tornillería, jardinería, grifería, sanitario, cuchillería y sus similares cortantes, herramientas de todas clases, sean o no eléctricas, así como sus accesorios y recambios, maquinaria electroportátil, instrumentos de metal, artículos para unir, pegar y soldar, material de protección personal, material eléctrico y de fontanería, pintura, artículos y vestuario profesional para la protección personal, artículos de seguridad, lubricantes, aceites de uso industrial y engrasadoras, cubertería, artículos de mesa y cocina, siempre que en su fabricación no se empleen metales preciosos, aparatos de uso doméstico sean o no eléctricos, llaves en bruto y mecanizadas, estanterías, bancos de trabajo y armarios metálicos, pequeña maquinaria a pie de obra, tableros, listones y otros artículos de madera para el mantenimiento y mejora del hogar, materiales envasados para las reparaciones de albañilería, utensilios de plástico y materiales para la práctica del bricolage.
+2.ª Este epígrafe faculta para el duplicado de llaves, así como para la venta de cordelería, efectos navales y gas.
+Epígrafe 653.4 Comercio al por menor de materiales de construcción y de artículos y mobiliario de saneamiento.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para instalar los cristales que vendan.
+Epígrafe 653.5 Comercio al por menor de puertas, ventanas y persianas, molduras y marcos, tarimas y parqué-mosaico, cestería y artículos de corcho.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Epígrafe 653.6. Comercio al por menor de artículos de «bricolaje».
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 53.820 pesetas. (323,46 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Los sujetos pasivos clasificados en este epígrafe están facultados para la venta al por menor de los accesorios y complementos relacionados con esta actividad.
+Epígrafe 653.9 Comercio al por menor de otros artículos para el equipamiento del hogar n.c.o.p.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Grupo 654. Comercio al por menor de vehículos terrestres, aeronaves y embarcaciones y de maquinaria, accesorios y piezas de recambio.
+Epígrafe 654.1 Comercio al por menor de vehículos terrestres.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas.(242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Nota: Este epígrafe faculta para la venta al por menor de lubri­cantes, accesorios, recambios y herramientas para los indicados vehículos.
+Epígrafe 654.2 Comercio al por menor de accesorios y piezas de recambio para vehículos terrestres.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Este epígrafe faculta para la venta al por menor de lubricantes y herramientas para vehículos.
+Epígrafe 654.3 Comercio al por menor de vehículos aéreos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Nota: Este epígrafe faculta para la venta al por menor de lubri­cantes, accesorios, recambios y herramientas para los indicados vehículos.
+Epígrafe 654.4 Comercio al por menor de vehículos fluviales y marítimos de vela o motor y deportivos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 41.400 pesetas. (248,82 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Nota: Este epígrafe faculta para la venta al por menor de lubri­cantes, accesorios, recambios y herramientas para los indicados vehículos.
+Epígrafe 654.5 Comercio al por menor de toda clase de maquinaria (excepto aparatos del hogar, de oficina, médicos, ortopédicos, ópticos y fotográficos).
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Nota: Este epígrafe faculta para la venta al por menor de lubricantes, accesorios, recambios y herramientas para la indicada maquinaria.
+Epígrafe 654.6. Comercio al por menor de cubiertas, bandas o bandajes y cámaras de aire para toda clase de vehículos.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Notas:
+1.ª Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo.
+2.ª Los sujetos pasivos matriculados en este epígrafe podrán, incrementando un 20 por 100 las cuotas correspondientes, realizar el montaje, equilibrado, alineación y reparación de los artículos que comercialicen.
+Grupo 655. Comercio al por menor de combustibles, carburantes y lubricantes.
+Epígrafe 655.1 Comercio al por menor de combustibles de todas clases, excepto gases y carburantes.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 20.700 pesetas. (124,41 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Epígrafe 655.2 Comercio al por menor de gases combustibles de todas clases.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 62.100 pesetas. (373,23 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 38.295 pesetas. (230,16 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En las poblaciones restantes: 15.525 pesetas. (93,31 euros)
+Epígrafe 655.3 Comercio al por menor de carburantes para el surtido de vehículos y aceites y grasas lubricantes.
+Cuota de: 40.365 pesetas. (242,60 euros)
+Grupo 656. Comercio al por menor de bienes usados tales como muebles, prendas y enseres ordinarios de uso doméstico
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 20.700 pesetas. (124,41 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciónes de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Nota: Este Grupo no faculta para el comercio al por menor de bienes tales como artículos de joyería, bisutería y relojería, antigüedades, obras de arte, elementos de transporte, maquinaria y equipamiento industrial y de oficina y material y aparatos electrónicos.
+Grupo 657. Comercio al por menor de instrumentos musicales en general, así como de sus accesorios
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Nota: Este Grupo comprende el comercio al por menor de papel pautado de música y composiciones musicales de todas clases, así como la reparación manual de los instrumentos vendidos.
+Grupo 659. Otro comercio al por menor.
+Epígrafe 659.1. Comercio al por menor de sellos, monedas, medallas conmemorativas, billetes para coleccionistas, obras de arte y antigüedades, minerales sueltos o en colecciones, fósiles, insectos, conchas, plantas y animales disecados.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 32.000 pesetas. (192,32 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 25.000 pesetas. (150,25 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 19.000 pesetas. (114,19 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 15.000 pesetas. (90,15 euros)
+En las poblaciones restantes: 11.000 pesetas. (66,11 euros)
+Nota: Este epígrafe faculta para el comercio al por mayor de los artículos clasificados en el mismo, excepto obras de arte y antigüedades.
+Epígrafe 659.2 Comercio al por menor de muebles de oficina y de máquinas y equipos de oficina.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Epígrafe 659.3 Comercio al por menor de aparatos e instrumentos médicos, ortopédicos, ópticos y fotográficos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 33.120 pesetas. (199,06 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 19.665 pesetas. (118,19 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Los sujetos pasivos clasificados en este epígrafe que vendan material fotográfico están facultados para la recepción de carretes fotográficos y posterior entrega de las correspondientes fotografías reveladas por un laboratorio ajeno.
+Epígrafe 659.4. Comercio al por menor de libros, periódicos, artículos de papelería y escritorio, y artículos de dibujo y bellas artes.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 14.283 pesetas. (85,84 euros)
+En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Notas:
+1.ª Este epígrafe faculta para la venta al por menor de juguetes no mecánicos ni eléctricos ni electrónicos.
+2.ª Se clasifican en este epígrafe los denominados “quioscos de prensa”, entendiendo por tales los establecimientos que tengan como actividad principal el comercio al por menor de prensa y publicaciones periódicas, así como de artículos de venta tradicional en los referidos quioscos, tales como dulces, golosinas, frutos secos, helados, tarjetas de transporte público, para uso telefónico y otras similares, etc.
+Los sujetos pasivos a que se refiere el párrafo anterior, con carácter accesorio y sin pago de cuota adicional alguna, podrán vender al por menor en dichos quioscos publicaciones y colecciones en soportes tales como “cd-rom”, cintas magnetoscópicas y magnetofónicas, “compact-disc”, etc.
+Epígrafe 659.5 Comercio al por menor de artículos de joyería, relojería, platería y bisutería.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 82.800 pesetas. (497,64 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas. (404,33 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas. (311,02 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En las poblaciones restantes: 20.700 pesetas. (124,41 euros)
+Notas:
+1.ª Este epígrafe faculta para reparar, en el propio establecimiento, los artículos que en el mismo se especifican.
+2.ª El comercio al por menor de bisutería exclusivamente, tributará al 50 por 100 de las cuotas anteriores. La misma reducción de las cuotas en el 50 por 100 se aplicará al comercio al por menor de relojería exclusivamente.
+3.ª Este epígrafe faculta para la venta en el propio establecimiento de objetos de cristal, bronce y otros metales, como espejos, arañas, lámparas, candelabros y demás artículos de adorno.
+Epígrafe 659.6 Comercio al por menor de juguetes, ar­tículos de deporte, prendas deportivas de vestido, calzado y tocado, armas, cartuchería y artículos de pirotecnia.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 36.225 pesetas. (217,72 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En las poblaciones restantes: 11.385 pesetas. (68,43 euros)
+Nota: Este epígrafe comprende la venta al por menor de artículos para parques infantiles, tales como toboganes, columpios, etc.
+Epígrafe 659.7 Comercio al por menor de semillas, abonos, flores y plantas y pequeños animales.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.490 pesetas. (87,09 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe faculta para la venta al por menor de toda clase de productos químicos y artículos relacionados con la jardinería, floristería y cuidado de pequeños animales.
+Epígrafe 659.8 Comercio al por menor denominado «sex-shop».
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.805 pesetas. (143,07 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.595 pesetas. (105,75 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Notas:
+1.ª Cuando en estos establecimientos se presten servicios, tales como masajes, saunas, cabinas de proyección, etc., la cuantía de la cuota de este epígrafe se incrementará en un 75 por ciento.
+2.ª Se clasificarán en este epígrafe las prestaciones de los expresados servicios, sin comercio al por menor, en cuyo caso se satisfará una cuota de 30.000 pesetas. (180,30 euros)
+Epígrafe 659.9 Comercio al por menor de otros productos no especificados en esta Agrupación, excepto los que deban clasificarse en el epígrafe 653.9.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 99.360 pesetas. (597,17 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 80.730 pesetas. (485,20 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 43.470 pesetas. (261,26 euros)
+En las poblaciones restantes: 24.840 pesetas. (149,29 euros)
+Nota común a las agrupaciones 64 y 65:
+Cuando los locales en los que se ejerzan las actividades clasificadas en las Agrupaciones 64 y 65 tengan una superficie computable inferior a 50 metros cuadrados, la cuota de los grupos o epígrafes correspondientes será el 50 por 100 de la señalada en cada caso. Cuando dicha superficie computable se encuentre comprendida entre 50 y 70 metros cuadrados la cuota de los grupos o epígrafes correspondientes será el 80 por 100 de la señalada en cada caso.
+Se modifica el epígrafe 659.4 por el art. 68.1.1 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 659.1 y se añade una nota al 659.3 por el art. 61.1.1 y 2 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+ Téngase en cuenta para su aplicación el art. 61.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Se modifica por el art. 76.1.3, 4 y 11 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Se modifica el epígrafe 659.9 por la disposición adicional 17.2 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+ Se modifica por el art. 72.1.3, 4 y 16 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica por el art. 75.1.19 a 24 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el epígrafe 659.5 por el art. 78.1.5 y 6 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 66
+
+Agrupación 66. Comercio mixto o integrado; comercio al por menor fuera de un establecimiento comercial permanente (ambulancia, mercadillos y mercados ocasionales o periódicos); comercio en régimen de expositores en depósito y mediante aparatos automáticos; comercio al por menor por correo y catálogo de productos diversos.
+Grupo 661. Comercio mixto o integrado en grandes su­perficies.
+Epígrafe 661.1 Comercio en grandes almacenes, entendiendo por tales aquellos establecimientos que ofrecen un surtido amplio y, en general, profundo de varias gamas de productos (principalmente artículos para el equipamiento del hogar, confección, calzado, perfumería, alimentación, etc.), presentados en departamentos múltiples; en general con la asistencia de un personal de venta y que ponen además diversos servicios a disposición de los clientes.
+Cuota de:
+Hasta 10.000 m2: 280 pesetas por m2. (1,682834 euros)
+De 10.001 a 20.000 m2: 271 pesetas por m2. (1,628743 euros)
+De 20.001 a 30.000 m2: 235 pesetas por m2. (1,412378 euros)
+De 30.001 a 40.000 m2: 225 pesetas por m2. (1,352277 euros)
+De 40.001 a 50.000 m2: 214 pesetas por m2. (1,286166 euros)
+De 50.001 a 60.000 m2: 188 pesetas por m2. (1,129903 euros)
+De 60.001 a 70.000 m2: 175 pesetas por m2. (1,051771 euros)
+Exceso de 70.000 m2: 75 pesetas por m2. (0,450759 euro)
+Epígrafe 661.2 Comercio en hipermercados, entendiendo por tales aquellos establecimientos que ofrecen principalmente en autoservicio un amplio surtido de productos alimenticios y no alimenticios de gran venta, que disponen, normalmente, de estacionamientos y ponen además diversos servicios a disposición de los clientes.
+Cuota de:
+Hasta 10.000 m2: 233 pesetas por m2. (1,400358 euros)
+De 10.001 a 20.000 m2: 223 pesetas por m2. (1,340257 euros)
+De 20.001 a 30.000 m2: 207 pesetas por m2. (1,244095 euros)
+Exceso de 30.000 m2: 185 pesetas por m2. (1,111872 euros)
+Epígrafe 661.3 Comercio en almacenes populares, entendiendo por tales aquellos establecimientos que ofrecen en secciones múltiples y venden en autoservicio o en preselección un surtido relativamente amplio y poco profundo de bienes de consumo, con una gama de precios baja y un servicio reducido.
+Cuota de:
+Hasta 1.500 m2: 109 pesetas por m2. (0,655103 euro)
+De 1.501 a 3.000 m2: 99 pesetas por m2. (0,595002 euro)
+De 3.001 a 5.000 m2: 88 pesetas por m2. (0,528891 euro)
+Exceso de 5.000 m2: 78 pesetas por m2. (0,468789 euro)
+Epígrafe 661.9. Otro comercio mixto o integrado en grandes superficies, entendiendo por tal el realizado de forma especializada en establecimientos con una superficie útil para la exposición y venta al público igual o superior a los 2.500 m² de productos tales como los relacionados con el bricolaje y el equipamiento del hogar, mobiliario para el hogar y la oficina, artículos electrónicos y electrodomésticos, artículos para el automóvil, artículos para el deporte u otros.
+Cuota de:
+Hasta 10.000 m²: 1,40 euros por m².
+De 10.001 a 20.000 m²: 1,35 euros por m².
+De 20.001 a 30.000 m²: 1,25 euros por m².
+Exceso de 30.000 m²: 1,15 por m².
+Nota: Se entenderá por superficie útil para la exposición y venta al público aquella en la que se exponen artículos para su venta directa, esté cubierta o no y sea utilizable efectivamente por el consumidor.
+Notas comunes a este grupo:
+1.ª Los sujetos pasivos matriculados en este grupo podrán realizar, sin pago de cuota adicional alguna, comercio al por mayor y al por menor, así como todas aquellas otras actividades que les son propias, tales como aparcamiento, cafetería-restaurante, salones de peluquería y belleza, agencia de viajes, confección a medida, montaje y colocación de sus artículos, cámaras frigoríficas, elaboración y preparación de alimentos, etc., así como ceder a terceros el uso de espacios dentro del local, por cualquier título y mediante contraprestación, para la realización de actividades económicas.
+2.ª A efectos del cálculo de las cuotas de este grupo, se computará la superficie íntegra del establecimiento (gran almacén, hipermercado, almacén popular u otra gran superficie), incluyendo las zonas destinadas a oficinas, aparcamiento cubierto, almacenes, etc. Asimismo, se computarán las zonas ocupadas por terceros en virtud de cesión de uso o por cualquier otro título. No se computarán, sin embargo, las superficies descubiertas cualquiera que sea su destino.
+3.ª Quienes en virtud de cesión de uso, o por cualquier otro título, ocupen zonas de los establecimientos de referencia para el ejercicio de actividades económicas, tributarán por la cuota que corresponda en función de la actividad que realicen, sin que a efectos del impuesto tales zonas tengan la consideración de local.
+4.ª No está comprendida en este grupo la venta de tabaco.
+Grupo 662. Comercio mixto o integrado al por menor.
+Epígrafe 662.1 Comercio al por menor de toda clase de artículos en economatos y cooperativas de consumo.
+Cuota de: 108.675 pesetas. (653,15 euros)
+Epígrafe 662.2 Comercio al por menor de toda clase de artículos, incluyendo alimentación y bebidas, en estable­cimientos distintos de los especificados en el grupo 661 y en el epígrafe 662.1.
+Cuota de: 67.275 pesetas. (404,33 euros)
+Nota: Cuando el establecimiento esté ubicado en un municipio con población de derecho inferior a 2.500 habitantes, tributará por una cuota de 6.210 pesetas. (37,32 euros)
+Notas comunes al grupo 662:
+1.ª Cuando los locales en los que se ejerza la actividad clasificada en este Grupo tenga una superficie computable inferior a 50 metros cuadrados, su cuota será el 50 por 100 de la que corresponda. Cuando dicha superficie computable se encuentre comprendida entre 50 y 70 metros cuadrados su cuota será el 80 por 100 de la que corresponda.
+2.ª No está comprendida en este grupo la venta de tabaco.
+Grupo 663. Comercio al por menor fuera de un establecimiento comercial permanente (ambulancia, mercadillos y mercados ocasionales o periódicos).
+Epígrafe 663.1 Comercio al por menor fuera de un establecimiento comercial permanente de productos alimenticios, incluso bebidas y helados.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 21.114 pesetas. (126,90 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 16.974 pesetas. (102,02 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 12.731 pesetas. (76,51 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+– En las poblaciones restantes: 8.487 pesetas. (51,01 euros)
+Cuota provincial de: 52.785 pesetas. (317,24 euros)
+Cuota nacional de: 74.520 pesetas. (447,87 euros)
+Nota: Para aquel comercio al por menor fuera de un establecimiento comercial permanente dedicado exclusivamente al comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivos, frutos secos, golosinas, preparación de chocolate y bebidas refrescantes, se faculta a que pueda elaborar los productos propios de churrería y patatas fritas en la propia instalación o vehículo, siempre que su comercialización se realice en la propia instalación de venta.
+Epígrafe 663.2 Comercio al por menor fuera de un establecimiento comercial permanente de artículos textiles y de confección.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 21.114 pesetas. (126,90 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 16.974 pesetas. (102,02 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 12.731 pesetas. (76,51 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+– En las poblaciones restantes: 8.487 pesetas. (51,01 euros)
+Cuota provincial de: 52.785 pesetas. (317,24 euros)
+Cuota nacional de: 74.520 pesetas. (447,87 euros)
+Epígrafe 663.3 Comercio al por menor fuera de un establecimiento comercial permanente de calzado, pieles y artículos de cuero.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 21.114 pesetas. (126,90 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 16.974 pesetas. (102,02 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 12.731 pesetas. (76,51 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+– En las poblaciones restantes: 8.487 pesetas. (51,01 euros)
+Cuota provincial de: 52.785 pesetas. (317,24 euros)
+Cuota nacional de: 74.520 pesetas. (447,87 euros)
+Epígrafe 663.4 Comercio al por menor fuera de un establecimiento comercial permanente de artículos de droguería y cosméticos y de productos químicos en general.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 21.114 pesetas. (126,90 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 16.974 pesetas. (102,02 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 12.731 pesetas. (76,51 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+– En las poblaciones restantes: 8.487 pesetas. (51,01 euros)
+Cuota provincial de: 52.785 pesetas. (317,24 euros)
+Cuota nacional de: 74.520 pesetas. (447,87 euros)
+Epígrafe 663.9. Comercio al por menor fuera de un establecimiento comercial permanente de otras clases de mercancías n.c.o.p.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 21.114 pesetas. (126,90 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 16.974 pesetas. (102,02 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 12.731 pesetas. (76,51 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+En las poblaciones restantes: 8.487 pesetas. (51,01 euros)
+Cuota provincial de 52.785 pesetas. (317,24 euros)
+Cuota nacional de 74.520 pesetas. (447,87 euros)
+Nota: Los sujetos pasivos que ejerzan su actividad en un solo mercado o feria de carácter discontinuo o de temporada tales como mercados navideños, ferias del libro, etc., y a los solos efectos de esta actividad, tributarán por una cuota mínima municipal de 6.210 pesetas. (37,32 euros)
+Grupo 664. Comercio en régimen de expositores en depósito y mediante aparatos automáticos.
+Epígrafe 664.1. Venta de toda clase de artículos diversos en régimen de expositores en depósito:
+Cuota mínima municipal de 828 pesetas por vitrina. (4,976380 euros)
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local donde esté instalada la vitrina.
+Cuota nacional de:
+Hasta 500 vitrinas: 31.268 pesetas. (187,92 euros)
+Hasta 1.000 vitrinas: 62.535 pesetas. (375,84 euros)
+Hasta 2.000 vitrinas: 93.803 pesetas. (563,77 euros)
+Hasta 4.000 vitrinas: 125.080 pesetas. (751,75 euros)
+Hasta 6.000 vitrinas: 156.348 pesetas. (939,67 euros)
+Hasta 8.000 vitrinas: 187.615 pesetas. (1.127,59 euros)
+Más de 8.000 vitrinas: 218.882 pesetas. (1.315,51 euros)
+Esta cuota la satisfará, exclusivamente, el propietario de las vitrinas.
+Nota: Los titulares de los establecimientos o locales donde estén instaladas las vitrinas incrementarán la cuota correspondiente a la actividad principal que realizan en dichos establecimientos o locales, con el importe de la cuota municipal que resulte asignada a este epígrafe.
+A efectos de la liquidación del Impuesto, el índice municipal previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, sólo se aplicará sobre la parte de la cuota de tarifa incrementada correspondiente a la actividad específica del sujeto pasivo, pero no sobre la parte correspondiente a las vitrinas instaladas en el local.
+Epígrafe 664.2. Puntos de recarga de vehículos eléctricos.
+Cuota mínima municipal de: 13,56 euros por cada punto de recarga.
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el que el punto de recarga esté instalado.
+Cuota nacional de: 13,56 euros por cada punto de recarga.
+Esta cuota la satisfará, exclusivamente, el propietario de los puntos de recarga.
+Epígrafe 664.9: Comercio al por menor de artículos diversos n.c.o.p. mediante aparatos automáticos, excepto alimentación, bebidas y tabaco.
+Cuota mínima municipal de: 2.257 pesetas (13,564843 euros) por aparato automático.
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el que el aparato automático esté instalado.
+Cuota nacional de: 2.257 pesetas (13,564843 euros) por aparato automático.
+Esta cuota la satisfará, exclusivamente, el propietario de los aparatos automáticos.
+Grupo 665. Comercio al por menor por correo o por catálogo de productos diversos.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.257 pesetas. (187,86 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.944 pesetas. (149,92 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.734 pesetas. (112,59 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.973 pesetas. (83,98 euros)
+– En las poblaciones restantes: 10.868 pesetas. (65,32 euros)
+Cuota provincial de: 125.028 pesetas. (751,43 euros)
+Cuota nacional de: 500.112 pesetas. (3.005,73 euros)
+Notas:
+1.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la puesta a disposición de aquél de sus almacenes o depósitos, elementos de transporte y demás instalaciones y servicios propios del comerciante al por mayor, tributarán por este grupo satisfaciendo el 50 por 100 de la cuota correspondiente.
+2.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la prestación de sus locales abiertos al público, recibiendo pedidos, entregando mercancías, devolviendo mercancías, recibiendo el precio de los productos o exhibiendo muestrarios de éstos, así como los catálogos, tributarán por este grupo satisfaciendo el 25 por 100 de la cuota correspondiente. Si el importe de tal tributación fuere inferior a 6.210 pesetas (37,32 euros), el sujeto pasivo tributará por cuota cero.
+Se modifica por el art. 67.5 a 7 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-9
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifican los Grupos 662 y 664 por el art. 76.1.5 y 6 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Se modifica el epígrafe 663.9 por la disposición adicional 17.1 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+ Se añade una nota al epígrafe 663.1 por el art. 72.1.18 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica por el art. 75.1. 25 y 26 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 67
+
+Agrupación 67. Servicio de alimentación.
+Grupo 671. Servicios en restaurantes.
+Epígrafe 671.1 De cinco tenedores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 70.380 pesetas. (422,99 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 56.925 pesetas. (342,13 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 31.464 pesetas. (189,10 euros)
+– En las poblaciones restantes: 18.630 pesetas. (111,97 euros)
+Epígrafe 671.2 De cuatro tenedores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.572 pesetas. (243,84 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 28.980 pesetas. (174,17 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 21.735 pesetas. (130,63 euros)
+– En las poblaciones restantes: 14.283 pesetas. (85,84 euros)
+Epígrafe 671.3 De tres tenedores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.572 pesetas. (243,84 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.396 pesetas. (194,70 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.323 pesetas. (146,18 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.113 pesetas. (108,86 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Epígrafe 671.4 De dos tenedores.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.283 pesetas. (85,84 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Epígrafe 671.5 De un tenedor.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 27.428 pesetas. (164,85 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.834 pesetas. (77,13 euros)
+– En las poblaciones restantes: 9.729 pesetas. (58,47 euros)
+Grupo 672. En cafeterías.
+Epígrafe 672.1 De tres tazas.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 40.572 pesetas. (243,84 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 32.396 pesetas. (194,70 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 24.323 pesetas. (146,18 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.113 pesetas. (108,86 euros)
+– En las poblaciones restantes: 12.420 pesetas. (74,65 euros)
+Epígrafe 672.2 De dos tazas.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 31.050 pesetas. (186,61 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.630 pesetas. (111,97 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 14.283 pesetas. (85,84 euros)
+– En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Epígrafe 672.3 De una taza.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 27.428 pesetas. (164,85 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.834 pesetas. (77,13 euros)
+– En las poblaciones restantes: 9.729 pesetas. (58,47 euros)
+Grupo 673. En cafés y bares, con y sin comida.
+Epígrafe 673.1 De categoría especial.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 70.380 pesetas. (422,99 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 56.925 pesetas. (342,13 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 42.435 pesetas. (255,04 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 31.464 pesetas. (189,10 euros)
+– En las poblaciones restantes: 18.630 pesetas. (111,97 euros)
+Epígrafe 673.2 otros cafés y bares.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 27.428 pesetas. (164,85 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 22.149 pesetas. (133,12 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.834 pesetas. (77,13 euros)
+– En las poblaciones restantes: 9.729 pesetas. (58,47 euros)
+Nota: En este epígrafe se clasificarán las denominadas tabernas.
+Nota común a los grupos 671, 672 y 673: Los sujetos pasivos matriculados en los epígrafes de estos grupos están facultados para vender, en el propio establecimiento, los productos objeto del respectivo servicio.
+Nota común a los grupos 672 y 673: Los sujetos pasivos que presten servicios de cafetería y bar en régimen de concesión en los centros de la tercera edad dependientes de instituciones públicas, satisfarán el 50 por 100 de la cuota correspondiente.
+Grupo 674. Servicios especiales de restaurante, cafetería y café-bar.
+Epígrafe 674.1 Servicio en vehículos de tracción mecánica.
+Cuota nacional de: 25.875 pesetas (155,511882 euros) por cada vehículo.
+Epígrafe 674.2 Servicio en ferrocarriles de cualquier clase.
+Cuota nacional de: 35.190 pesetas (211,496160 euros) por cada coche destinado a tal fin.
+Epígrafe 674.3 Servicio en barcos.
+Cuota nacional de: 35.190 pesetas (211,496160 euros) por cada embarcación.
+Epígrafe 674.4 Servicio en aeronaves.
+Cuota nacional de: 25.875 pesetas (155,511882 euros) por cada aeronave.
+Epígrafe 674.5 Servicios que se presten en sociedades, círculos, casinos, clubes y establecimientos análogos.
+Cuota mínima municipal de:
+– Hasta 100 socios o afiliados: 8.591 pesetas. (51,63 euros)
+– Hasta 500 socios o afiliados: 11.696 pesetas. (70,29 euros)
+– Hasta 1.000 socios o afiliados: 15.629 pesetas. (93,93 euros)
+– Más de 1.000 socios o afiliados: 19.458 pesetas. (116,94 euros)
+Epígrafe 674.6 Servicios establecidos en teatros y demás espectáculos que únicamente permanecen abiertos durante las horas del espectáculo, excepto los bailes y similares.
+Cuota mínima municipal de:
+En población de más de 500.000 habitantes: 21.528 pesetas. (129,39 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 17.388 pesetas. (104,50 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 13.248 pesetas. (79,62 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 9.936 pesetas. (59,72 euros)
+En las poblaciones restantes: 7.452 pesetas. (44,79 euros)
+Epígrafe 674.7. Servicios que se prestan en parques o recintos feriales clasificados en el Epígrafe 989.3 de esta Sección 1.ª de las Tarifas.
+Cuota mínima municipal de: 17.595 pesetas. (105,75 euros)
+Grupo 675. Servicios en quioscos, cajones, barracas u otros locales análogos, situados en mercados o plazas de abastos, al aire libre en la vía pública o jardines.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 21.735 pesetas. (130,63 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 9.315 pesetas. (55,98 euros)
+Nota: Los quioscos y demás establecimientos clasificados en este grupo que permanezcan abiertos al público durante seis meses al año o menos, tributarán por la mitad de la cuota correspondiente.
+Grupo 676. Servicios en chocolaterías, heladerías y horchaterías.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 26.910 pesetas. (161,73 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 21.735 pesetas. (130,63 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En las poblaciones restantes: 9.315 pesetas. (55,98 euros)
+Nota: Cuando los establecimientos clasificados en este epígrafe permanezcan abiertos al público durante seis meses o menos al año, tributarán por la mitad de la cuota correspondiente.
+Grupo 677. Servicios prestados por los establecimientos clasificados en los grupos 671, 672, 673, 681 y 682 de las agrupaciones 67 y 68, realizados fuera de dichos estable­cimientos. Otros servicios de alimentación.
+Epígrafe 677.1 Servicios prestados por los estable­cimientos clasificados en los grupos 671, 672, 673 y 682 de las agrupaciones 67 y 68, realizados fuera de dichos establecimientos.
+Cuota de:
+– Si se prestan dentro del término del municipio donde figure matriculado el establecimiento:
+Cuota de un 10 % de la que corresponda al estable­cimiento por la rúbrica en que figure clasificado.
+– Si se prestan fuera del término del municipio donde figure matriculado el establecimiento, pero dentro del territorio provincial en que dicho municipio radique:
+Cuota de un 20 % de la que corresponda al estable­cimiento por la rúbrica en que figure clasificado.
+– Si se prestan fuera de la provincia en que radique el municipio donde figure matriculado el establecimiento:
+Cuota de un 30 % de la que corresponda al estable­cimiento por la rúbrica en que figure clasificado.
+Epígrafe 677.9 Otros servicios de alimentación propios de la restauración.
+Cuota mínima municipal de:
+– En poblaciones de más de 500.000 habitantes: 50.715 pesetas. (304,80 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 40.365 pesetas. (242,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 30.015 pesetas. (180,39 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 14.490 pesetas. (87,09 euros)
+Nota: Este epígrafe comprende los servicios de alimentación consistentes en la condimentación y venta de alimentos para ser consumidos fuera del lugar de elaboración en raciones o al por mayor, así como cuando los productos elaborados se destinen al servicio de «catering» o de colectividades.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade una nota común a los grupos 672 y 673 por el art. 76.1.7 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Se modifica el epígrafe 674.6 por el art. 72.1.5 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se añade el epígrafe 674.7 por el art. 75.1.27 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifican los epígrafes 673.1 y 2 por el art. 78.1.9 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 68
+
+Agrupación 68. Servicio de hospedaje.
+Grupo 681. Servicio de hospedaje en hoteles y moteles.
+Cuota de:
+Hoteles de cinco estrellas «gran lujo»: 4.140 pesetas/habitación. (24,881901 euros)
+Hoteles de cinco estrellas: 2.898 pesetas/habitación. (17,417331 euros)
+Hoteles de cuatro estrellas: 1.656 pesetas/habitación. (9,952760 euros)
+Hoteles y moteles de tres estrellas: 932 pesetas/habitación. (5,601433 euros)
+Hoteles y moteles de dos estrellas: 725 pesetas/habitación. (4,357338 euros)
+Hoteles y moteles de una estrella: 570 pesetas/habitación. (3,425769 euros)
+Nota: En aquellos hoteles o moteles que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este grupo.
+Grupo 682. Servicio de hospedaje en hostales y pensiones.
+Cuota de:
+Hostales y pensiones de tres estrellas: 725 pesetas/habitación. (4,357338 euros)
+Hostales y pensiones de dos estrellas: 497 pesetas/habitación. (2,987030 euros)
+Hostales y pensiones de una estrella: 414 pesetas/habitación. (2,488190 euros)
+Nota: En aquellos hostales y pensiones que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este grupo.
+Grupo 683. Servicio de hospedaje en fondas y casas de huéspedes.
+Cuota de: 270 pesetas/habitación. (1,622733 euros)
+Grupo 684. Servicio de hospedaje en hoteles-apartamentos.
+Cuota de:
+De cuatro estrellas: 1.656 pesetas/habitación. (9,952760 euros)
+De tres estrellas: 932 pesetas/habitación. (5,601433 euros)
+De dos estrellas: 725 pesetas/habitación. (4,357338 euros)
+De una estrella: 570 pesetas/habitación. (3,425769 euros)
+Nota: En aquellos hoteles-apartamentos que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este grupo.
+Grupo 685. Alojamientos turísticos extrahoteleros.
+Cuota de:
+De cuatro llaves: 1.408 pesetas por alojamiento. (8,462250 euros)
+De tres llaves: 797 pesetas por alojamiento. (4,790066 euros)
+De dos llaves: 621 pesetas por alojamiento. (3,732285 euros)
+De una llave: 497 pesetas por alojamiento. (2,987030 euros)
+Nota: En aquellos alojamientos turísticos extrahoteleros que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este grupo.
+Grupo 686. Explotación de apartamentos privados a través de agencia o empresa organizada.
+Cuota mínima municipal de: 41.400 pesetas. (248,82 euros)
+Cuota provincial de: 103.500 pesetas. (622,05 euros)
+Cuota nacional de: 258.750 pesetas. (1.555,12 euros)
+Grupo 687. Campamentos turísticos en los que se prestan los servicios mínimos de salubridad, como agua potable, lavabos, fregaderos, etc.
+Epígrafe 687.1 Campamentos de lujo.
+Cuota de: 145 pesetas por plaza. (0,871468 euros)
+Epígrafe 687.2 Campamentos de primera clase.
+Cuota de: 94 pesetas por plaza. (0,564951 euro)
+Epígrafe 687.3 Campamentos de segunda clase.
+Cuota de: 63 pesetas por plaza. (0,378638 euro)
+Epígrafe 687.4 Campamentos de tercera clase.
+Cuota de: 52 pesetas por plaza. (0,312526 euro)
+Notas comunes al grupo:
+1.ª En aquellos campamentos turísticos que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este grupo.
+2.ª Cuando los titulares de los campamentos realicen en ellos por sí mismos, y no a través de terceras personas, otras actividades tales como prestación de servicios de café, bar y restaurante, comercio al por menor de artículos de alimentación y bebidas, etc., los sujetos pasivos satisfarán el 25 por ciento de la cuota correspondiente a dichas actividades.
+Nota común a las agrupaciones 67 y 68: Los sujetos pasivos clasificados en las agrupaciones 67 y 68, en cuyos locales tengan instaladas máquinas recreativas y de azar tipo «A» o tipo «B», incrementarán la cuota correspondiente a su actividad específica con la cantidad asignada a cada máquina en el epígrafe 969.4, sin tener que darse de alta por este último.
+A efectos de la liquidación del impuesto, el índice municipal previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, sólo se aplicará sobre la parte de la cuota de Tarifa incrementada correspondiente a la actividad específica del sujeto pasivo, pero no sobre la parte correspondiente a las máquinas instaladas en el local.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el párrafo último por el art. 75.1.50 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+### Agrupación 69
+
+Agrupación 69. Reparaciones.
+Grupo 691. Reparación de artículos eléctricos para el hogar, vehículos automóviles y otros bienes de consumo.
+Epígrafe 691.1 Reparación de artículos eléctricos para el hogar.
+Cuota mínima municipal de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.625 pesetas. (9,766447 euros)
+Cuota provincial de: 25.875 pesetas. (155,51 euros)
+Nota: Este epígrafe comprende la reparación y conservación de aparatos de radio y televisión, de electrodomésticos y de otro material eléctrico de uso doméstico y personal.
+Epígrafe 691.2 Reparación de vehículos automóviles, bicicletas y otros vehículos.
+Cuota de:
+Por cada obrero: 4.689 pesetas. (28,181458 euros)
+Por cada Kw: 2.029 pesetas. (12,194536 euros)
+Nota: Este epígrafe comprende la reparación, revisión y mantenimiento de automóviles, camiones, autobuses, automóviles de usos especiales, remolques, chasis, carrocerías, motocicletas y bicicletas.
+Epígrafe 691.9 Reparación de otros bienes de consumo n.c.o.p.
+Cuota de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.625 pesetas. (9,766447 euros)
+Nota: Este epígrafe comprende la reparación de bienes de consumo no especificados en los epígrafes anteriores de este grupo, tales como reparación de calzado y artículos de cuero y similares, así como la venta en pequeñas cantidades, con aplicación al calzado de betunes, cremas, trencillas, plantillas, calzadores y efectos análogos, suelas y tacones de goma, reparación de relojes, restauración de obras de arte y antigüedades, reparación y conservación de máquinas de escribir, máquinas de coser y hacer punto, aparatos fotográficos y ópticos, instrumentos de música, juguetes, cuchillos, tijeras, paraguas, plumas estilográficas, muebles, etc. Asimismo este epígrafe faculta para el duplicado de llaves.
+Los establecimientos dedicados exclusivamente a la reparación de relojes tributarán al 50 por 100 de las cuotas anteriores.
+Grupo 692. Reparación de maquinaria industrial.
+Cuota de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.625 pesetas. (9,766447 euros)
+Nota: Este grupo comprende la reparación de todo tipo de maquinaria industrial, excepto la reparación de maquinaria expresamente clasificada en alguna de las divisiones de fabricación.
+Grupo 699. Otras reparaciones n.c.o.p.
+Cuota de:
+Por cada obrero: 2.588 pesetas. (15,554193 euros)
+Por cada Kw: 1.625 pesetas. (9,766447 euros)
+Nota: Este grupo comprende cualquier tipo de reparación no clasificado expresamente en las tarifas.
+Se modifica la nota del epígrafe 691.9 por el art. 61.1.3 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+ Téngase en cuenta para su aplicación el art. 61.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 691.9 por el art. 76.1.8 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Se modifica el epígrafe 691.9 por el art. 75.1.28 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+## [Notas comunes]
+
+Notas comunes a la División 6.ª:
+1.ª Cuando en los locales en que se ejerzan actividades clasificadas en esta División, que tributen por cuota municipal, se realicen obras mayores para las que se requiera la obtención de la correspondiente licencia urbanística, y tengan una duración superior a tres meses, siempre que por razón de las mismas permanezcan cerrados los locales, la cuota correspondiente se reducirá en proporción al número de días en que permanezca cerrado el local.
+La reducción a que se refiere el párrafo anterior deberá ser solicitada por el sujeto pasivo al Ayuntamiento respectivo y, en su caso, una vez concedida, aquél deberá solicitar la correspondiente devolución de ingresos indebidos por el importe de la misma ante la entidad que ejerza la función recaudatoria en el municipio de que se trate.
+2.ª Cuando se realicen obras en las vías públicas que tengan una duración superior a tres meses y afecten a los locales en los que se realicen actividades clasificadas en esta División, que tributen por cuota municipal, los sujetos pasivos podrán solicitar al Ayuntamiento correspondiente una reducción de hasta el 80 por 100 de la cuota, el cual concederá en su caso, atendiendo al grado de afectación de los locales por dichas obras. Una vez concedida la reducción el sujeto pasivo podrá solicitar la devolución de ingresos indebidos por el importe de la misma a la entidad que ejerza la función recaudatoria en el municipio de que se trate.
+Se añade por el art. 76.1.9 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+
+## DIVISIÓN 7
+
+DIVISIÓN 7. TRANSPORTE Y COMUNICACIONES.
+
+### Agrupación 71
+
+Agrupación 71. Transporte por ferrocarril.
+Grupo 711. Transporte ferroviario por vía normal.
+Cuota nacional de:
+Por cada kilómetro de vía: 2.743 pesetas. (16,485762 euros)
+Nota: Este grupo comprende el transporte ferroviario por vía de ancho normal (vía española de 1,674m. o europea de 1,435m.) de personas y mercancías.
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 711.1 Transporte ferroviario de viajeros por vía normal.
+Epígrafe 711.2 Transporte ferroviario de mercancías por vía normal.
+Grupo 712. Transporte ferroviario por vía estrecha.
+Cuota provincial de:
+Por cada kilómetro de vía: 2.743 pesetas. (16,485762 euros)
+Nota: Este grupo comprende el transporte ferroviario de personas y mercancías por vía estrecha (vía distinta del ancho español de 1,674 m. o europea de 1,435m.).
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 712.1 Transporte ferroviario de viajeros por vía estrecha.
+Epígrafe 712.2 Transporte ferroviario de mercancías por vía estrecha.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 72
+
+Agrupación 72. Otros transportes terrestres.
+Grupo 721. Transporte de viajeros.
+Epígrafe 721.1 Transporte urbano colectivo.
+Cuota:
+Cuota mínima municipal de:
+Por cada vehículo: 11.282 pesetas. (67,806186 euros)
+Cuota provincial de:
+Por cada vehículo: 22.563 pesetas. (135,606361 euros)
+Nota: Este epígrafe comprende el transporte urbano colectivo en metropolitano, autobús, tranvía, trolebús, etc.; así como los servicios regulares que se establecen para determinadas categorías de personas (obreros, escolares, pasajeros de compañías aéreas, etc.), y que implican la exclusión de otros viajeros.
+Epígrafe 721.2 Transporte por autotaxis.
+Cuota:
+Cuota nacional de:
+Por cada vehículo: 12.420 pesetas. (74,645703 euros)
+Nota: Este epígrafe comprende el transporte de viajeros en automóviles con taxímetros y otros automóviles de alquiler con conductor (taxis, gran turismo), coches de punto, etc.
+Epígrafe 721.3 Transporte de viajeros por carretera.
+Cuota:
+Cuota provincial de:
+– Por cada vehículo con capacidad hasta 20 viajeros: 9.108 pesetas. (54,740182 euros)
+– Cuando excedan de 20 hasta 40 viajeros: 13.673 pesetas. (82,176385 euros)
+– Cuando excedan de 40 viajeros: 18.806 pesetas. (113,026336 euros)
+Cuota nacional de:
+– Por cada vehículo con capacidad hasta 20 viajeros: 19.174 pesetas. (115,238061 euros)
+– Cuando excedan de 20 hasta 40 viajeros: 28.432 pesetas. (170,879762 euros)
+– Cuando excedan de 40 viajeros: 39.486 pesetas. (237,315640 euros)
+Notas:
+1.ª Este epígrafe comprende el transporte regular, discrecional u ocasional de viajeros por carretera (incluso el alquiler de autocares con conductor), así como el transporte mixto de viajeros y mercancías.
+2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquélla en la que el vehículo este dado de alta. Lo anterior no será de aplicación cuando el vehículo disponga de autorización regional expedida por la Comunidad Autónoma no uniprovincial respectiva; en este caso el pago de la cuota provincial faculta para ejercer la actividad en todo el territorio de la Comunidad Autónoma de que se trate.
+3.ª En el cómputo del número de viajeros se incluyen los em­pleados de la empresa.
+4.ª Los vehículos que prestan servicios considerados de débil tráfico o de carácter rural por la vigente legislación de transporte por carretera, satisfarán el 50 por ciento de la cuota.
+Epígrafe 721.4. Transporte sanitario en ambulancias.
+Cuota:
+Cuota nacional de:
+Por cada vehículo: 12.420 pesetas. (74,645703 euros)
+Grupo 722. Transporte de mercancías por carretera.
+Cuota:
+Cuota mínima municipal de:
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 4.451 pesetas. (26,751049 euros)
+– Cuando exceda de una tonelada hasta cuatro: 8.798 pesetas. (52,877045 euros)
+– Cuando exceda de cuatro toneladas hasta diez: 9.833 pesetas. (59,097520 euros)
+– Cuando exceda de diez toneladas por cada vehículo:
+Hasta 10 vehículos: 11.127 pesetas. (66,874617 euros)
+Los 20 vehículos siguientes: 10.350 pesetas. (62,204753 euros)
+Los 30 vehículos siguientes: 9.574 pesetas. (57,540899 euros)
+Los restantes vehículos: 7.763 pesetas. (46,656570 euros)
+Cuota provincial de:
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 10.350 pesetas. (62,204753 euros)
+– Cuando exceda de una tonelada hasta cuatro: 17.595 pesetas. (105,748080 euros)
+– Cuando exceda de cuatro toneladas hasta diez: 19.665 pesetas. (118,189030 euros)
+– Cuando exceda de diez toneladas por cada vehículo:
+Hasta 10 vehículos: 22.253 pesetas. (133,743224 euros)
+Los 20 vehículos siguientes: 20.700 pesetas. (124,409506 euros)
+Los 30 vehículos siguientes: 19.148 pesetas. (115,081798 euros)
+Los restantes vehículos: 15.525 pesetas. (93,307129 euros)
+Cuota nacional de:
+– Por cada vehículo con una capacidad de carga hasta una tonelada: 21.735 pesetas. (130,629981 euros)
+– Cuando exceda de una tonelada hasta cuatro: 36.950 pesetas. (222,073973 euros)
+– Cuando exceda de cuatro toneladas hasta diez: 41.297 pesetas. (248,199969 euros)
+– Cuando exceda de diez toneladas por cada vehículo:
+Hasta 10 vehículos: 46.731 pesetas. (280,858966 euros)
+Los 20 vehículos siguientes: 43.470 pesetas. (261,259962 euros)
+Los 30 vehículos siguientes: 40.210 pesetas. (241,666967 euros)
+Los restantes vehículos: 32.603 pesetas. (195,947976 euros)
+Notas comunes al grupo 722:
+1.ª Este grupo comprende el transporte (regular o no, urbano o interurbano) de mercancías en camiones o vehículos similares, así como los servicios de mudanzas.
+2.ª El pago de la cuota provincial faculta para ejercer la actividad en todas las provincias limítrofes a aquélla en la que el vehículo este dado de alta. Lo anterior no será de aplicación cuando el vehículo disponga de autorización regional expedida por la Comunidad Autónoma no uniprovincial respectiva; en este caso el pago de la cuota provincial faculta para ejercer la actividad en todo el territorio de la Comunidad Autónoma de que se trate.
+Grupo 729. Otros transportes terrestres n.c.o.p.
+Cuota mínima municipal de: 98.325 pesetas. (590,95 euros)
+Nota: Este grupo comprende los transportes terrestres no incluidos en otra parte, tales como transporte por ferrocarril de cremallera, teleféricos, funiculares, etc.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 729.1 Servicios de transportes por ferrocarril de cremallera.
+Epígrafe 729.2 Servicios de transportes por teleféricos y funiculares.
+Epígrafe 729.3 Otros servicios de transportes terrestres n.c.o.p.
+Se añade el epígrafe 721.4 por el art. 67.1.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica la nota 2ª del epígrafe 721.3 y 722 por el art. 78.1.10 y 11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 73
+
+Agrupación 73. Transporte marítimo y por vías navegables interiores.
+Grupo 731. Transporte marítimo internacional (excepto de crudos y gases).
+Epígrafe 731.1 Transporte marítimo internacional de pasajeros.
+Cuota nacional de:
+Por cada buque y plaza del pasaje que tengan señalados los mismos: 539 pesetas. (3,239455 euros)
+Epígrafe 731.2 Transporte marítimo internacional de mercancías.
+Cuota nacional de:
+Por cada buque y tonelada de arqueo, hasta un límite de 2.500 toneladas de arqueo: 83 pesetas. (0,498840 euro)
+Nota común al grupo 731: Cuando en un mismo barco se realice el transporte mixto de viajeros y mercancías se tributará independientemente por cada actividad, deduciendo de la capacidad total de transporte de mercancías la correspondiente al equipaje que reglamentariamente se asigne a cada una de las plazas de que coste la embarcación.
+Grupo 732. Transporte marítimo de crudos y gases.
+Cuota nacional de:
+Por cada buque y tonelada de arqueo, hasta un límite de 2.500 toneladas de arqueo: 83 pesetas. (0,498840 euro)
+Nota al grupo 732: Este grupo comprende el transporte marítimo en largas travesías de cabotaje o por vías navegables interiores, de productos petrolíferos y gases licuados.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 732.1 Transporte marítimo internacional de productos petrolíferos y gases.
+Epígrafe 732.2 Transporte de cabotaje de productos petrolíferos y gases.
+Epígrafe 732.3 Transporte por vías navegables interiores de productos petrolíferos y gases.
+Grupo 733. Transporte de cabotaje y por vías navegables interiores (excepto de crudos y gases).
+Epígrafe 733.1 Transporte de cabotaje y por vías navegables interiores, de viajeros.
+Cuota:
+Cuota mínima municipal de:
+Por cada buque y plaza del pasaje que tengan señalados los mismos: 145 pesetas. (0,871468 euro)
+Cuota provincial de:
+Por cada buque y plaza del pasaje que tengan señalados los mismos: 414 pesetas. (2,488190 euros)
+Cuota nacional de:
+Por cada buque y plaza del pasaje que tengan señalados los mismos: 539 pesetas. (3,239455 euros)
+Epígrafe 733.2 Transporte de cabotaje y por vías navegables interiores de mercancías.
+Cuota:
+Cuota mínima municipal de:
+Por cada barcaza, barco o balsa: 9.315 pesetas. (55,984278 euros)
+Cuota provincial de:
+Por cada barcaza, barco o balsa: 37.260 pesetas. (223,937110 euros)
+Cuota nacional de:
+Por cada barcaza, barco o balsa: 161.460 pesetas. (970,394144 euros)
+Notas comunes a los epígrafes 733.1 y 733.2:
+1.ª Cuando en un mismo barco se realice el transporte mixto de viajeros y de mercancías se tributará independientemente por cada actividad.
+2.ª Las embarcaciones señaladas en los epígrafes 733.3 y 733.4 no tributarán por los epígrafes 733.1 y 733.2.
+Epígrafe 733.3 Servicios de transbordadores, ferry-boats y análogos.
+Cuota:
+Cuota mínima municipal de:
+Por cada embarcación y Tm. de arqueo: 21 pesetas. (0,126213 euro)
+Cuota provincial de:
+Por cada embarcación y Tm. de arqueo: 83 pesetas. (0,498840 euro)
+Cuota nacional de:
+Por cada embarcación y Tm. de arqueo: 187 pesetas. (1,123893 euros)
+Epígrafe 733.4 Transporte marítimo de pasajeros mediante los denominados Jef-Foil y similares.
+Por cada embarcación y plaza de pasaje que tengan señaladas las mismas:
+Cuota mínima municipal de: 145 pesetas. (0,871468 euro)
+Cuota provincial de: 414 pesetas. (2,488190 euros)
+Notas comunes al grupo 733:
+1.ª Este grupo comprende el transporte de cabotaje y por vías navegables interiores (ríos, lagos, canales, etc.) de viajeros, mercancías o transporte mixto, en líneas regulares o en régimen discrecional.
+2.ª El transporte con Canarias se clasificará en los epígrafes que correspondan dentro de este grupo.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 74
+
+Agrupación 74. Transporte aéreo.
+Grupo 741. Transporte aéreo regular.
+Epígrafe 741.1 Transporte aéreo nacional de viajeros (servicios regulares).
+Cuota:
+Cuota provincial de:
+Por cada aeronave y plaza: 1.046 pesetas. (6,286587 euros)
+Cuota nacional de:
+Por cada aeronave y plaza: 3.002 pesetas. (18,042383 euros)
+Epígrafe 741.2 Transporte aéreo nacional de mercancías (servicios regulares).
+Cuota:
+Cuota provincial de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 301 pesetas. (1,809046 euros)
+Cuota nacional de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 621 pesetas. (3,732285 euros)
+Epígrafe 741.3 Transporte aéreo internacional de viajeros (servicios regulares).
+Cuota nacional de:
+Por cada aeronave y plaza: 3.002 pesetas. (18,042383 euros)
+Epígrafe 741.4 Transporte aéreo internacional de mercancías (servicios regulares).
+Cuota nacional de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 621 pesetas. (3,732285 euros)
+Nota común al grupo 741: Cuando en una misma aeronave se realice el transporte mixto de viajeros y mercancías se tributará independientemente por cada actividad, deduciendo de la capacidad total de transporte de mercancías la correspondiente al equipaje que reglamentariamente se asigna a cada una de las plazas de que conste la aeronave.
+Grupo 742. Transporte aéreo no regular.
+Epígrafe 742.1 Transporte aéreo nacional de viajeros (servicios no regulares).
+Cuota:
+Cuota provincial de:
+Por cada aeronave y plaza: 1.046 pesetas. (6,286587 euros)
+Cuota nacional de:
+Por cada aeronave y plaza: 3.002 pesetas. (18,042383 euros)
+Epígrafe 742.2 Transporte aéreo nacional de mercancías (servicios no regulares).
+Cuota:
+Cuota provincial de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 301 pesetas. (1,809046 euros)
+Cuota nacional de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 621 pesetas. (3,732285 euros)
+Epígrafe 742.3 Transporte aéreo internacional de viajeros (servicios no regulares).
+Cuota nacional de:
+Por cada aeronave y plaza: 3.002 pesetas. (18,042383 euros)
+Epígrafe 742.4 Transporte aéreo internacional de mercancías (servicios no regulares).
+Cuota nacional de:
+Por cada 100 kilogramos o fracción de capacidad de transporte de cada aeronave: 621 pesetas. (3,732285 euros)
+Nota común al grupo 742: Cuando en una misma aeronave se realice el transporte mixto de viajeros y mercancías se tributará independientemente por cada actividad, deduciendo de la capacidad total de transporte de mercancías la correspondiente al equipaje que reglamentariamente se asigna a cada una de las plazas de que conste la aeronave.
+Nota común a los grupos 741 y 742: Cuando en una misma aeronave se realicen servicios de tráfico aéreo regular y no regular, se tributará, exclusivamente, por transporte aéreo regular.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 75
+
+Agrupación 75. Actividades anexas a los transportes.
+Grupo 751. Actividades anexas al transporte terrestre.
+Epígrafe 751.1. Guarda y custodia de vehículos en garajes y locales cubiertos.
+Cuota de:
+Hasta un límite de 350 metros cuadrados de superficie dedicada a esta actividad: 39.910 pesetas. (239,86 euros)
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior: 6.624 pesetas. (39,811042 euros)
+Para el cómputo de la superficie dedicada a esta actividad se deducirán todos los accesos, rampas, viales interiores, así como todos los espacios y elementos accesorios.
+Nota: estas cuotas no autorizan a la custodia durante el día de coches que únicamente se guardan algunas horas alternando con los que esencialmente se encierran de noche.
+En caso de que se ejerza esta modalidad de custodia, las cuotas se incrementarán en un 25 por 100.
+Epígrafe 751.2. Guarda y custodia de vehículos en los denominados aparcamientos subterráneos o «parkings».
+Cuota de:
+Hasta un límite de 250 metros cuadrados de superficie dedicada a esta actividad: 33.638 pesetas. (202,17 euros)
+Por cada 50 metros cuadrados o fracción que exceda del límite: 8.280 pesetas. (49,763802 euros)
+Para el cómputo de la superficie dedicada a la actividad se incluirán todos los pisos existentes y se practicarán las deducciones previstas en el epígrafe anterior.
+Epígrafe 751.3. Guarda y custodia de vehículos en solares o terrenos sin edificar.
+Cuota de:
+Hasta un límite de 250 metros cuadrados de superficie total, dedicados a esta actividad: 12.420 pesetas. (74,65 euros)
+Por cada 50 metros cuadrados o fracción que exceda sobre el límite anterior:
+Municipios que tengan una población de derecho superior a 100.000 habitantes: 1.863 pesetas. (11,196856 euros)
+Municipios que tengan una población de derecho igual o inferior a 100.000 habitantes: 932 pesetas. (5,601433 euros)
+Epígrafe 751.4. Explotación de autopistas, carreteras, puentes y túneles de peaje.
+Cuota de:
+Cuota mínima municipal de 7.245 pesetas (43,543327 euros) por kilómetro.
+Cuota provincial de 22.770 pesetas (136,850456 euros) por kilómetro.
+Epígrafe 751.5. Engrase y lavado de vehículos.
+Cuota de:
+Por cada estación de servicio: 31.050 pesetas. (186,614258 euros)
+Epígrafe 751.6. Servicios de carga y descarga de mercancías.
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 36.225 pesetas. (217,72 euros)
+En restantes poblaciones: 20.700 pesetas. (124,41 euros)
+Grupo 752. Actividades anexas al transporte marítimo y por vías navegables interiores.
+Epígrafe 752.1 Servicios de pilotaje y prácticos en puertos.
+Cuota de:
+En puertos de más de 100.000 habitantes: 41.400 pesetas. (248,82 euros)
+En los restantes puertos: 28.980 pesetas. (174,17 euros)
+Epígrafe 752.2 Servicios de transbordo de unos barcos a otros.
+Cuota de:
+En puertos de más de 100.000 habitantes: 36.536 pesetas. (219,59 euros)
+En los restantes puertos: 18.216 pesetas. (109,48 euros)
+Epígrafe 752.3 Servicios de remolque de navíos.
+Cuota de:
+En puertos de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En los restantes puertos: 41.400 pesetas. (248,82 euros)
+Epígrafe 752.4 Servicios de limpieza, desinfección y similares a cargo de personal ajeno al barco.
+Cuota de:
+En puertos de más de 100.000 habitantes: 36.536 pesetas. (219,59 euros)
+En los restantes puertos: 18.216 pesetas. (109,48 euros)
+Epígrafe 752.5 Servicios de salvamento y recuperación de barcos.
+Cuota de:
+En puertos de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En los restantes puertos: 41.400 pesetas. (248,82 euros)
+Epígrafe 752.6 Servicios de carga y descarga de buques.
+Cuota de:
+En puertos de más de 100.000 habitantes: 36.536 pesetas. (219,59 euros)
+En los restantes puertos: 18.216 pesetas. (109,48 euros)
+Epígrafe 752.7 Servicios de explotación y mantenimiento de puertos, canales, diques, etc.
+Cuota de:
+En puertos de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En los restantes puertos: 41.400 pesetas. (248,82 euros)
+Epígrafe 752.8 Servicios de señales marítimas y costeras.
+Cuota de:
+En puertos de más de 100.000 habitantes: 36.536 pesetas. (219,59 euros)
+En los restantes puertos: 18.216 pesetas. (109,48 euros)
+Nota común al grupo 752: Este grupo comprende las actividades indispensables para el transporte marítimo y por vías navegables interiores, tales como el remolque de navíos; el pilotaje y balizado; el atraque, carga y descarga de buques; la explotación y mantenimiento de vías de agua, puertos, espigones, diques, faros, etc.; salvamento de navíos y cargamentos en peligro, etc.
+Grupo 753. Actividades anexas al transporte aéreo.
+Epígrafe 753.1 Terminales de líneas de transporte aéreo en aeropuertos.
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En las restantes poblaciones: 41.400 pesetas. (248,82 euros)
+Epígrafe 753.2 Servicio de control de navegación aérea.
+Cuota nacional de:
+Por cada metro cuadrado de superficie de los locales destinados a tal fin: 161 pesetas. (0,967629 euro)
+Nota: Entre dichos locales se computarán las edificaciones destinadas a centros de control de tráfico aéreo, instalación de radar, torres de control de aeropuertos, equipos de producción de energía eléctrica necesarios para tal fin, centros de transmisión, y otras instalaciones de similar naturaleza.
+Epígrafe 753.3 Servicios de hangares y estacionamiento de aeronaves.
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En restantes poblaciones: 41.400 pesetas. (248,82 euros)
+Epígrafe 753.4 Servicios de remolque, limpieza y mantenimiento de aeronaves.
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 62.100 pesetas. (373,23 euros)
+En las restantes poblaciones: 41.400 pesetas. (248,82 euros)
+Epígrafe 753.5. Explotación integral de aeropuertos.
+Cuota de:
+Cuota mínima municipal de:
+Hasta 2.000 metros cuadrados: 156 pesetas (0,937579 euro) por metro cuadrado.
+De 2.001 a 4.000 metros cuadrados: 83 pesetas (0,498840 euro) por metro cuadrado.
+De 4.001 a 10.000 metros cuadrados: 55 pesetas (0,330557 euro) por metro cuadrado.
+De 10.001 a 25.000 metros cuadrados: 54 pesetas (0,324547 euro) por metro cuadrado.
+De 25.001 a 100.000 metros cuadrados: 52 pesetas (0,312526 euro) por metro cuadrado.
+De 100.001 a 400.000 metros cuadrados: 51 pesetas (0,306516 euro) por metro cuadrado.
+Exceso de 400.000 metros cuadrados: 50 pesetas (0,300506 euro) por metro cuadrado.
+Notas:
+1.ª Los sujetos pasivos matriculados en este epígrafe podrán realizar, sin pago de cuota adicional alguna, los servicios clasificados en los epígrafes de este Grupo, excepto el 753.2, así como el suministro de combustible y lubricantes y retirada de vehículos terrestres, saneamiento vial, limpieza de edificios y locales, depósito y almacenaje, contraincendios y accidentes, telecomunicaciones, etc., e, igualmente, la cesión a terceros del uso de espacios e instalaciones dentro del local, por cualquier título y mediante contraprestación, para la realización, de actividades económicas.
+2.ª A efectos del cálculo de las cuotas de este epígrafe, se computará la superficie íntegra del establecimiento (aeropuerto), incluyendo las zonas destinadas a oficinas, aparcamiento cubierto, almacenes, etc. Asimismo, se computarán las zonas ocupadas por terceros en virtud de cesión de uso o por cualquier otro título. No se computarán, sin embargo. las superficies descubiertas cualquiera que sea su destino, ni tampoco la superficie de los hangares.
+3.ª Quienes, en virtud de cesión de uso, o por cualquier otro título, ocupen zonas de los establecimientos de referencia para el ejercicio de actividades económicas, tributarán por la cuota que corresponda en función de las actividades que realicen, sin que a efectos del impuesto tales zonas tengan la consideración de local, con excepción de la superficie cubierta o descubierta destinada a la actividad de guarda y custodia de vehículos.
+4.ª No están comprendidos en este epígrafe los servicios de alojamiento y restauración, así como tampoco la explotación de aparcamientos.
+Epígrafe 753.9 Otros servicios anexos al transporte aéreo n.c.o.p.
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 41.400 pesetas. (248,82 euros)
+En restantes poblaciones: 20.700 pesetas. (124,41 euros)
+Grupo 754. Depósitos y almacenamiento de mercancías.
+Epígrafe 754.1 Depósitos y almacenes generales.
+Cuota de:
+Por cada almacén o depósito: 72.450 pesetas. (435,433270 euros)
+Epígrafe 754.2 Depósitos y almacenes de vehículos.
+Cuota de:
+Por cada almacén o depósito: 46.575 pesetas. (279,921388 euros)
+Epígrafe 754.3 Silos y otros almacenes de granos.
+Cuota de:
+Por cada almacén o depósito: 46.575 pesetas. (279,921388 euros)
+Epígrafe 754.4 Almacenes frigoríficos.
+Cuota de:
+Por cada almacén o depósito: 51.750 pesetas. (311,023764 euros)
+Epígrafe 754.5 Almacenes y depósitos de líquidos.
+Cuota de:
+Por cada almacén o depósito: 46.575 pesetas. (279,921388 euros)
+Epígrafe 754.6 Guardamuebles.
+Cuota de:
+Por cada almacén o depósito: 22.770 pesetas. (136,850456 euros)
+Epígrafe 754.9 Otros depósitos y almacenes especiales n.c.o.p.
+Cuota de:
+Por cada almacén o depósito: 46.575 pesetas. (279,921388 euros)
+Nota común al grupo 754: Este grupo comprende el depósito y almacenamiento, como servicio independiente, de toda clase de mercancías ajenas (almacenes frigoríficos, guardamuebles, silo, depósitos para líquidos y otros almacenes para mercancías en general, incluido el depósito inactivo de automóviles).
+Grupo 755. Agencias de viajes.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Nota: Este grupo comprende la gestión para el transporte, alojamiento y/o alimentación de los viajeros.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 755.1 Servicios a otras agencias de viajes.
+Epígrafe 755.2 Servicios prestados al público por las agencias de viajes.
+Grupo 756. Actividades auxiliares y complementarias del transporte (intermediarios del transporte).
+Cuota de:
+En poblaciones de más de 100.000 habitantes: 36.536 pe­setas. (219,59 euros)
+En restantes poblaciones: 24.426 pesetas. (146,80 euros)
+Nota al grupo 756: Este grupo comprende las actividades auxiliares y complementarias del transporte, tales como las de las agencias de transporte, transitarios, etc., con excepción de los Agentes de Aduanas que deban clasificarse en la sección 2.ª de estas tarifas.
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 756.1 Agencias de transporte, transitarios.
+Epígrafe 756.2 Consignatarios de buques.
+Epígrafe 756.9 Otros servicios de mediación del transporte.
+Grupo 757. Servicios de mudanzas.
+Cuota de:
+Cuota mínima municipal de:
+– En poblaciones de más de 100.000 habitantes: 22.770 pesetas. (136,85 euros)
+– En las poblaciones restantes: 15.525 pesetas. (93,31 euros)
+Cuota provincial de: 54.855 pesetas. (329,69 euros)
+Cuota nacional de: 76.590 pesetas. (460,32 euros)
+Se modifica el epígrafe 751.1 por el art. 68.1.6 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Se modifican los epígrafes 751.1 y 2 por el art. 67.1.6 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 751.1 por la dispoición adicional 17.3 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+ Se modifica por el art. 75.1.29 a 32 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el grupo 751 por el art. 78.11 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 76
+
+Agrupación 76. Telecomunicaciones.
+Grupo 761. Servicios telefónicos.
+Epígrafe 761.1. Servicio de telefonía fija.
+Cuota:
+Cuota mínima municipal de: Por cada 1.000 abonados o fracción: 62,20 euros.
+Cuota provincial de: Por cada 1.000 abonados o fracción: 137,48 euros.
+Cuota nacional de: Por cada 1.000 abonados o fracción: 137,48 euros.
+Epígrafe 761.2. Servicio de telefonía móvil.
+Cuota nacional de: Por cada 1.000 abonados o fracción: 137,48 euros.
+Nota común al grupo 761: A efectos del cálculo de abonados se considerarán todos los clientes de cada operador de telefonía fija o móvil, respectivamente.
+Grupo 769. Otros servicios de telecomunicación.
+Por cada 1.000 abonados o fracción:
+Cuota nacional de: 35.449 pesetas. (213,052781 euros)
+A efectos meramente informativos, el Sujeto Pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 769.1 Servicios de telecomunicación con ve­hículos móviles, navíos o aparatos de navegación aérea y entre éstos, entre sí.
+Epígrafe 769.2 Servicios de teletransmisión de datos.
+Epígrafe 769.3 Servicios de telecomunicación por medio de satélites artificiales.
+Epígrafe 769.9 Otros servicios privados de telecomunicación n.c.o.p.
+Se modifica el Grupo 761 por el art. 70.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+ Se modifica el Grupo 761 por la disposición adicional 4.c) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Téngase en cuenta para su aplicación la disposición adicional 4.g).
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 8
+
+DIVISIÓN 8. INSTITUCIONES FINANCIERAS, SEGUROS, SERVICIOS PRESTADOS A LAS EMPRESAS Y ALQUILERES.
+
+### Agrupación 81
+
+Agrupación 81. Instituciones financieras.
+Grupo 811. Banca.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o algunas de las operaciones:
+En poblaciones de más de 500.000 habitantes: 347.758 pesetas. (2.090,07 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 269.584 pesetas. (1.620,23 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 191.286 pesetas. (1.149,65 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 74.334 pesetas. (446,76 euros)
+En las poblaciones restantes: 52.034 pesetas. (312,73 euros)
+Grupo 812. Cajas de Ahorro.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o algunas de las operaciones:
+En poblaciones de más de 500.000 habitantes: 347.758 pesetas. (2.090,07 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 269.584 pesetas. (1.620,23 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 191.286 pesetas. (1.149,65 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 74.334 pesetas. (446,76 euros)
+En las poblaciones restantes: 52.034 pesetas. (312,73 euros)
+Nota: Este grupo comprende las entidades de ahorro tales como Confederación Española de Cajas de Ahorro, Cajas de Ahorro, Cajas Rurales, Cooperativas de Crédito, Fundaciones Bancarias y demás entidades análogas.
+Nota común a los grupos 811 y 812: Los sujetos pasivos clasificados en estos grupos podrán desarrollar las actividades siguientes:
+Las de captación de depósitos u otros fondos reembolsables.
+Las de préstamo y crédito, incluyendo crédito al consumo, crédito hipotecario y la financiación de transacciones comerciales.
+Las de «factoring» con o sin recurso.
+Las de arrendamiento financiero.
+Las operaciones de pago, con inclusión, entre otras, de Ios servicios de pago y transferencia.
+La emisión y gestión de medios de pagos, tales como tarjetas de crédito, cheques de viaje o cartas de crédito.
+La concesión de avales y garantías y suscripción de compromisos similares.
+La intermediación en los mercados interbancarios.
+Las operaciones por cuenta propia o de su clientela que tengan por objeto: valores negociables, instrumentos de los mercados monetarios o de cambios, instrumentos financieros a plazo, opciones y futuros financieros y permutas financieras.
+La participación en las emisiones de valores y mediación por cuenta directa o indirecta del emisor en su colocación, y aseguramiento de la suscripción de emisiones.
+El asesoramiento y prestación de servicios a empresas en las siguientes materias: estructura de capital, estrategia empresarial, adquisiciones, fusiones y materias similares.
+La gestión de patrimonios y asesoramiento a sus titulares.
+La actuación, por cuenta de sus titulares, como depositarios de valores representados en forma de títulos o como administradores de valores representados en anotaciones en cuenta.
+La realización de informes comerciales.
+El alquiler de cajas fuertes.
+La intermediación de servicios financieros como los seguros y los fondos de pensiones.
+Los servicios de colaboración con las Administraciones Públicas.
+Los servicios de carácter financiero complementarios o accesorios de las anteriores.
+Asimismo, y por lo que se refiere a las Cajas de Ahorro y demás entidades clasificadas en el grupo 812, la tributación por éste comprende, sin pago de cuota adicional alguna, el ejercicio por dichas Cajas y entidades de las actividades propias de su obra benéfico-social.
+Grupo 819. Otras instituciones financieras.
+Epígrafe 819.1. Instituciones de crédito.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 290.525 pesetas. (1.746,09 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 225.216 pesetas. (1.353,58 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 159.804 pesetas. (960,44 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 62.100 pesetas. (373,23 euros)
+En las poblaciones restantes: 43.470 pesetas. (261,26 euros)
+Nota: Este epígrafe comprende el Instituto de Crédito Oficial y las secciones de crédito de las cooperativas y depósitos agrícolas e industriales.
+Epígrafe 819.2. Establecimientos financieros de crédito.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 207.000 pesetas. (1.244,10 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 162.081 pesetas. (974,13 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 114.723 pesetas. (689,50 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 44.891 pesetas. (269,80 euros)
+En las poblaciones restantes: 32.422 pesetas. (194,86 euros)
+Nota: Este epígrafe comprende a aquellas entidades de crédito cuyas actividades consistan en:
+Facilitar préstamos y créditos, incluyendo crédito al consumo, crédito hipotecario y financiación de transacciones comerciales.
+«Factoring», con o sin recurso y todas las actividades complementarias del mismo recogidas en el epígrafe 819.4 siguiente.
+Arrendamiento financiero y todas las actividades complementarias del mismo recogidas en el epígrafe 819.5 siguiente.
+Emisión y gestión de tarjetas de crédito.
+Concesión de avales y garantías, y suscripción de compromisos similares.
+Epígrafe 819.3. Establecimientos financieros de crédito que realicen la actividad de préstamos y crédito.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 85.905 pesetas. (516,30 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas. (404,33 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 47.610 pesetas. (286,14 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas. (111,97 euros)
+En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Nota: Este epígrafe comprende a aquellas entidades de crédito cuyas actividades consistan en:
+Facilitar préstamos y créditos, incluyendo crédito al consumo, crédito hipotecario y financiación de transacciones comerciales.
+Emisión y gestión de tarjetas de crédito.
+Concesión de avales y garantías, y suscripción de compromisos similares.
+Epígrafe 819.4. Establecimientos financieros de crédito que realicen la actividad de «factoring», con o sin recurso.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 85.905 pesetas. (516,30 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas. (404,33 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 47.610 pesetas. (286,14 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas. (111,97 euros)
+En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Nota: Este epígrafe comprende a aquellas entidades de crédito cuyas actividades consistan en:
+Realización de «factoring», con o sin recurso, así como el ejercicio de las actividades complementarias del mismo, tales como las de investigación y clasificación de la clientela, contabilización de deudores y, en general, cualquier otra actividad que tienda a favorecer la administración, evaluación, seguridad y financiación de los créditos nacidos en el tráfico mercantil nacional o internacional, que les sean cedidos.
+Emisión y gestión de tarjetas de crédito.
+Concesión de avales y garantías, y suscripción de compromisos similares.
+Epígrafe 819.5. Establecimientos financieros de crédito que realicen la actividad de arrendamiento financiero.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 85.905 pesetas. (516,30 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 67.275 pesetas. (404,33 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 47.610 pesetas. (286,14 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 18.630 pesetas. (111,97 euros)
+En las poblaciones restantes: 13.455 pesetas. (80,87 euros)
+Nota: Este epígrafe comprende a aquellas entidades de crédito cuyas actividades consistan en:
+Realización de arrendamiento financiero, con inclusión de las siguientes actividades complementarias:
+1.ª Actividades de mantenimiento y conservación de los bienes cedidos.
+2.ª Concesión de financiación conectada a una operación de arrendamiento financiero, actual o futura.
+3.ª Intermediación y gestión de operaciones de arrendamiento financiero.
+4.ª Actividades de arrendamiento no financiero que podrán complementar o no con una opción de compra.
+5.ª Asesoramiento e informe comerciales.
+Emisión y gestión de tarjetas de crédito.
+Concesión de avales y garantías, y suscripción de compromisos similares.
+Epígrafe 819.6 Entidades de cambio de moneda.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 63.135 pesetas. (379,45 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 48.645 pesetas. (292,36 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas. (205,28 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Epígrafe 819.9. Otras entidades financieras n.c.o.p.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+En poblaciones de más de 500.000 habitantes: 63.135 pesetas. (379,45 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 48.645 pesetas. (292,36 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 34.155 pesetas. (205,28 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 euros)
+En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
+Nota: Este epígrafe comprende las entidades financieras no especificadas en los epígrafes anteriores del Grupo «Otras instituciones financieras» (819), tales como las sociedades de financiación de ventas a plazos, sociedades y fondos de inversión mobiliaria, etc.
+Se modifica la nota del grupo 812 por la disposición final 1 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
+ Se modifica el grupo 819 por el art. 67.1.2 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se modifica por el art. 61.1.4 a 7 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+ Téngase en cuenta para su aplicación el art. 61.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifican los grupos 811 y 812 por la disposición adicional 17.4 y 5 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+### Agrupación 82
+
+Agrupación 82. Seguros.
+Grupo 821. Entidades aseguradoras de vida y capitalización.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+– En poblaciones de más de 500.000 habitantes: 113.850 pesetas. (684,25 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 87.975 pesetas. (528,74 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas. (311,02 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En las poblaciones restantes: 17.595 pesetas. (105,75 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejercen según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 821.1 Seguros de vida.
+Epígrafe 821.2 Seguros de capitalización.
+Epígrafe 821.3 Seguros mixtos de vida y capitalización.
+Grupo 822. Entidades aseguradoras de enfermedad y riesgos diversos.
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones:
+– En poblaciones de más de 500.000 habitantes: 113.850 pesetas. (684,25 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 87.975 pesetas. (528,74 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 51.750 pesetas. (311,02 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En las poblaciones restantes: 17.595 pesetas. (105,75 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce según la clasificación contenida en los epígrafes siguientes:
+Epígrafe 822.1 Seguros de asistencia sanitaria, enfermedad y accidentes (libres).
+Epígrafe 822.2 Seguros de entierro.
+Epígrafe 822.3 Seguros de daños materiales.
+Epígrafe 822.4 Seguros de transportes.
+Epígrafe 822.9 Otros seguros.
+Grupo 823. Otras entidades aseguradoras (montepíos, caja de pensiones, etc.).
+Cuota de:
+Por cada establecimiento o local donde se efectúen todas o alguna de las operaciones indicadas en la nota al grupo:
+– En poblaciones de más de 500.000 habitantes: 56.925 pesetas. (342,13 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 43.470 pesetas. (261,26 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 25.875 pesetas. (155,51 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 15.525 pesetas. (93,31 euros)
+– En poblaciones restantes: 8.280 pesetas. (49,76 euros)
+Nota: Este grupo comprende a las entidades aseguradoras corporativas, ajenas al Régimen Especial de la Seguridad Social, tales como Montepíos Laborales, Cajas de Pensiones, Mutualidades, Montepíos y otras previsoras de funcionarios, de colegios profesionales y de otras asociaciones o corporaciones, entidades que comercialicen fondos de pensiones, y demás entidades análogas.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 83
+
+Agrupación 83. Auxiliares financieros y de seguros. Actividades inmobiliarias.
+Grupo 831. Auxiliares financieros.
+Epígrafe 831.1 Servicios de compra y venta y contratación de valores mobiliarios.
+Cuota de: 657.225 pesetas. (3.950,00 euros)
+Epígrafe 831.2 Servicios financieros de contratación de pro­ductos.
+Cuota de: 136.931 pesetas. (822,97 euros)
+Epígrafe 831.3 Servicios de compensación bancaria.
+Cuota de: 136.931 pesetas. (822,97 euros)
+Epígrafe 831.9 Otros servicios financieros n.c.o.p.
+Cuota de: 136.931 pesetas. (822,97 euros)
+Grupo 832. Auxiliares de seguros.
+Epígrafe 832.1 Agencias de seguros y corredurías de seguros.
+Cuota de: 51.336 pesetas. (308,54 euros)
+Epígrafe 832.2 Servicios de tasación y tarificación de seguros.
+Cuota de: 41.607 pesetas. (250,06 euros)
+Epígrafe 832.9 Otros servicios auxiliares de seguros n.c.o.p.
+Cuota de: 16.250 pesetas. (97,66 euros)
+Grupo 833. Promoción inmobiliaria.
+Epígrafe 833.1 Promoción de terrenos.
+Cuota de:
+Fija: 41.400 pesetas. (248,82 euros)
+Además, por cada metro cuadrado de terreno urbanizado o parcelado vendido: 26 pesetas. (0,156263 euros)
+Nota: Este epígrafe comprende la compra o venta en nombre y por cuenta propia, así como la urbanización, parcelación, etc., de terrenos, todo ello con el fin de venderlos.
+Epígrafe 833.2 Promoción de edificaciones.
+Cuota de:
+Fija: 31.050 pesetas. (186,61 euros)
+Además, por cada metro cuadrado edificado o por edificar vendido:
+En poblaciones de 100.000 o más habitantes: 311 pesetas. (1,869148 euros)
+En las restantes: 135 pesetas. (0,811366 euro)
+Nota: Este epígrafe comprende la compra o venta de edificaciones totales o parciales en nombre y por cuenta propia, construidas directamente o por medio de terceros, todo ello con el fin de venderlas.
+Notas comunes al grupo 833:
+1.ª La parte fija de la cuota de ambos epígrafes se exigirá, en todo caso, con independencia de la venta o no de terrenos o edificaciones. A su vez, la parte de cuota por metro cuadrado se exigirá al formalizarse las enajenaciones, cualquiera que sea la clase de contrato y forma de pago convenida, estando obligado el sujeto pasivo a presentar en la Administración Tributaria competente dentro del primer mes de cada año natural declaración de variación de los metros cuadrados edificados o a edificar, urbanizados o a urbanizar, cuyas enajenaciones hayan tenido lugar durante el año inmediato anterior, sin que sea necesario presentar declaraciones cuando no se hayan efectuado ventas. En el supuesto de cese en el ejercicio de la actividad antes del 1 de enero, la declaración de los metros cuadrados edificados o a edificar, urbanizados o a urbanizar, cuyas enajenaciones hayan tenido lugar durante el año en el que se produce el cese deberá presentarse conjuntamente con la declaración de baja.
+2.ª Cuando las actividades clasificadas en este Grupo tengan por objeto inmuebles sujetos a la legislación de viviendas de protección oficial, la parte de la cuota correspondiente a cada metro cuadrado edificado o por edificar vendido será el 50 por 100 de la que corresponda.
+3.ª Las cuotas de este grupo son independientes de las que puedan corresponder por la actividad de construcción.
+Grupo 834. Servicios relativos a la propiedad inmobiliaria y a la propiedad industrial.
+Cuota de: 51.750 pesetas. (311,02 euros)
+Nota: Este grupo comprende a intermediarios en la compra, venta o arrendamiento de terrenos, así como en la compra, venta, construcción o arrendamiento de inmuebles o partes de inmuebles, no asumiendo riesgos propios y operando por cuenta de terceros. Se clasifican aquí, entre otros, los servicios relativos a la propiedad inmobiliaria, incluyendo la tasación de inmuebles, a la propiedad industrial, las agencias de arrendamiento de fincas, los servicios relacionados con los administradores de fincas, etc., siempre que no deban clasificarse en la sección 2.ª de estas tarifas.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el grupo 833 por el art. 75.1.33 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el grupo 833 por el art. 78.1.13 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 84
+
+Agrupación 84. Servicios prestados a las empresas.
+Grupo 841. Servicios jurídicos.
+Cuota de: 88.803 pesetas. (533,72 euros)
+Grupo 842. Servicios financieros y contables.
+Cuota de: 86.009 pesetas. (516,92 euros)
+Nota: Este grupo comprende la prestación de los servicios, en principio a las empresas y organismos de contabilidad, teneduría de libros, censura de cuentas, auditoría, materia fiscal, económica y financiera y de otros servicios independientes de asesoría fiscal y contable.
+Grupo 843. Servicios técnicos (ingeniería, arquitectura, urbanismo, etc.).
+Epígrafe 843.1 Servicios técnicos de ingeniería.
+Cuota de: 75.555 pesetas. (454,09 euros)
+Epígrafe 843.2 Servicios técnicos de arquitectura y urbanismo.
+Cuota de: 120.060 pesetas. (721,58 euros)
+Epígrafe 843.3 Servicios técnicos de prospecciones y estudios geológicos.
+Cuota de: 48.335 pesetas. (290,50 eurs)
+Epígrafe 843.4 Servicios técnicos de topografía.
+Cuota de: 42.953 pesetas. (258,15 euros)
+Epígrafe 843.5 Servicios técnicos de delineación.
+Cuota de: 42.953 pesetas. (258,15 euros)
+Epígrafe 843.6. Inspección técnica de vehículos.
+Cuota de 48.318 pesetas. (290,40 euros)
+Nota: Este Epígrafe comprende la realización de todas las actividades que señala la normativa administrativa reguladora del servicio público de inspección técnica de vehículos, incluidas las que se realicen en la zona concesional mediante la utilización de estaciones móviles.
+Epígrafe 843.9 Otros servicios técnicos n.c.o.p.
+Cuota de: 44.195 pesetas. (265,62 euros)
+Grupo 844. Servicios de publicidad, relaciones públicas y similares.
+Cuota de:
+Empresas de hasta 10 trabajadores: 30.015 pesetas. (180,39 euros)
+Empresas de 11 a 30 trabajadores: 61.065 pesetas. (367,01 euros)
+Empresas de 31 a 50 trabajadores: 108.675 pesetas. (653,15 euros)
+Empresas de 51 a 100 trabajadores: 221.490 pesetas. (1.331,18 euros)
+Empresas de más de 100 trabajadores: 297.045 pesetas. (1.785,28 euros)
+Nota: Ese grupo comprende la prestación de servicios de publicidad, mediante anuncios, carteles, folletos, películas publicitarias, etc., a través de prensa, radio, televisión, publicidad aérea u otros medios. Se clasifican aquí las agencias o empresas de publicidad, que se dedican a la creación y difusión de anuncios o campañas de información publicitaria, propaganda electoral, comunicación institucional o pública e imagen corporativa, así como las demás empresas de publicidad en sus diferentes modalidades, tales como exclusivistas de medios publicitarios, publicidad exterior, publicidad directa y márketing directo, distribuidoras y centrales de compras, estudios de publicidad, etc. Asimismo, se encuadran en este grupo las empresas dedicadas a las relaciones públicas, promoción de ventas publicitarias, regalos y reclamos publicitarios y, en general, cualquier servicio independiente de publicidad.
+Grupo 845. Explotación electrónica por cuenta de terceros.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Nota: Este grupo comprende la prestación de servicios de estudio y análisis de procesos para su tratamiento mecánico, de programación para equipos electrónicos, de registro de datos en soportes de entrada para ordenadores, así como la venta de programas, el proceso de datos por cuenta de terceros y otros servicios independientes de elaboración de datos y tabulación.
+Grupo 846. Empresas de estudios de mercado.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Nota: Este grupo comprende la realización de estudios de mercado, estudios de opinión, de hábitos de compra y otros servicios independientes de información e investigación comercial.
+Grupo 847. Servicios integrales de Correos y Telecomunicaciones.
+Cuota nacional de 2.000.000 pesetas. (12.020,24 euros)
+Notas:
+1.ª Este grupo comprende la prestación de servicios postales, consistentes en la recogida, admisión, clasificación, tratamiento, curso, transporte, distribución y entrega de envíos de correspondencia y envíos postales en todas su modalidades; los servicios de telegramas, télex, giro postal y telegráfico, así como cualquier otro de naturaleza análoga a los anteriores.
+2.ª Podrá realizarse, sin pago de cuota adicional alguna, la actividad relativa a la emisión y distribución de sellos de correos y demás signos de franqueo.
+Grupo 848. Servicios de oficina flexible, “coworking” y centros de negocios.
+Cuota mínima municipal de: 202 euros.
+Cuota provincial de: 20.000 euros.
+Cuota nacional de: 35.000 euros.
+Nota: Este grupo comprende los servicios prestados por las oficinas flexibles, “coworking” y centros de negocios, que ofrecen a sus clientes (empresas y profesionales) la infraestructura necesaria para desarrollar su actividad: espacios de trabajo, oficinas y salas de reuniones, de formación o de conferencias completamente equipadas, eventos, puestos de trabajo flexibles o fijos, servicio de comunicaciones, videoconferencia y conexión a Internet, oficinas virtuales, gestión de documentaciones y correspondencia, servicios de secretariado, ‘‘catering’’, ofimática, etc.
+Grupo 849. Otros servicios prestados a las empresas n.c.o.p.
+Epígrafe 849.1 Cobros de deudas y confección de fac­turas.
+Cuota de: 34.776 pesetas. (209,01 euros)
+Epígrafe 849.2 Servicios mecanográficos, taquigráficos, de reproducción de escritos, planos y documentos.
+Cuota de: 28.691 pesetas. (172,44 euros)
+Epígrafe 849.3 Servicios de traducción y similares.
+Cuota de: 30.326 pesetas. (182,26 euros)
+Epígrafe 849.4 Servicios de custodia, seguridad y protección.
+Cuota de: 43.056 pesetas. (258,77 euros)
+Epígrafe 849.5 Servicios de mensajería, recadería y reparto y manipulación de correspondencia.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Epígrafe 849.6 Servicios de colocación y suministro de personal.
+Cuota de: 55.683 pesetas. (334,66 euros)
+Epígrafe 849.7 Servicios de gestión administrativa.
+Cuota de: 78.867 pesetas. (474,00 euros)
+Epígrafe 849.8. Multiservicios intensivos en personal.
+Cuota de:
+Cuota mínima municipal de: 1.035.000 de pesetas. (6.220,48 euros)
+Cuota provincial de: 5.175.000 de pesetas. (31.102.38 euros)
+Cuota nacional de: 15.525.000 de pesetas. (93.307,13 euros)
+Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una pluralidad de servicios, consistente, fundamentalmente, en la aportacion del personal adecuado siempre que dichos servicios sean de los clasificados en las agrupaciones 84, 91, 92 y en los Grupos 973, 974, 979, 983 y 989, rúbricas todas ellas de la Sección 1.ª de las Tarifas. No comprende, sin embargo, aquellos supuestos que impliquen la explotación directa de servicios con base inmobiliaria o a través de elementos materiales, tales como vehículos de tracción mecánica, ferrocarriles, buques, aeronaves, máquinas recreativas, etc.
+Epígrafe 849.9 Otros servicios independientes n.c.o.p.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Se añade el Grupo 848 por el art. 70.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+ Se suprime la nota 3ª del epígrafe 847 por el art. 74.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
+ Se modifica el epígrafe 849.5 por el art. 62.1.1 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+ Téngase en cuenta para su aplicación el art. 62.2.
+ Se añade el epígrafe 843.6 por el art. 70.1.1 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Téngase en cuenta para su aplicación el art. 70.3.
+ Se añade el Grupo 847 por el art. 68.1.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el epígrafe 849.5 y se añade el 849.8 por el art. 75.1.34 y 35 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 85
+
+Agrupación 85. Alquiler de bienes muebles.
+Grupo 851. Alquiler de maquinaria y equipo agrícola.
+Cuota de: 27.324 pesetas. (164,22 euros)
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo para la agricultura y ganadería.
+Grupo 852. Alquiler de maquinaria y equipo para la construcción.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo para la construcción y obra civil.
+Grupo 853. Alquiler de maquinaria y equipo contable, de oficina y cálculo electrónico.
+Cuota de: 28.980 pesetas. (174,17 euros)
+Nota: Este Grupo comprende el alquiler de maquinaria y equipo contable, de oficina y cálculo electrónico, sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
+Grupo 854. Alquiler de automóviles sin conductor.
+Epígrafe 854.1. Alquiler de automóviles sin conductor.
+Por cada automóvil:
+Cuota mínima municipal de: 1.191 pesetas. (7,158054 euros)
+Cuota provincial de: 4.140 pesetas. (24,881901 euros)
+Cuota nacional de: 5.175 pesetas. (31,102376 euros)
+Nota: Este epígrafe no incluye el alquiler de vehículos sin conductor en régimen de «renting».
+Epígrafe 854.2. Alquiler de automóviles sin conductor en régimen de «renting».
+Por cada automóvil:
+Cuota mínima municipal de: 1.191 pesetas. (7,158054 euros)
+Cuota provincial de: 4.140 pesetas. (24,881901 euros)
+Cuota nacional de: 5.175 pesetas. (31,102376 euros)
+Grupo 855. Alquiler de otros medios de transporte.
+Epígrafe 855.1. Alquiler de aeronaves de todas clases.
+Por cada aeronave:
+Cuota mínima municipal de: 8.280 pesetas. (49,763802 euros)
+Cuota provincial de: 20.700 pesetas. (124,409506 euros)
+Cuota nacional de: 31.050 pesetas. (186,614258 euros)
+Epígrafe 855.2. Alquiler de embarcaciones.
+Por cada embarcación:
+Cuota mínima municipal de: 4.658 pesetas. (27,995144 euros)
+Cuota provincial de: 12.420 pesetas. (74,645703 euros)
+Cuota nacional de: 18.630 pesetas. (111,968555 euros)
+Epígrafe 855.3. Alquiler de bicicletas.
+Cuota de: 347 pesetas (2,085512 euros) por cada bicicleta.
+Epígrafe 855.9. Alquiler de otros medios de transporte n.c.o.p.
+Por cada medio de transporte:
+Cuota mínima municipal de: 4.140 pesetas. (24,881901 euros)
+Cuota provincial de: 10.350 pesetas. (62,204753 euros)
+Cuota nacional de: 15.525 pesetas. (93,307129 euros)
+Nota común a los Grupos 851, 852 y 855: Cuando el alquiler de los bienes muebles clasificados en dichos Grupos se efectúe con personal permanente las cuotas contenidas en los mismos se incrementarán en un 50 por 100.
+Grupo 856. Alquiler de bienes de consumo.
+Epígrafe 856.1 Alquiler de bienes de consumo.
+Cuota de: 15.215 pesetas. (91,44 euros)
+Nota: Este epígrafe comprende el alquiler, como servicio especializado, de prendas de vestir; de artículos y aparatos para el hogar; de ropa blanca, de cama, de mesa, etc.; el alquiler de material deportivo (lanchas, canoas, bicicletas, patines, etc.) excepto en el caso en que esta actividad esté ligada a la explotación de una instalación deportiva, así como el alquiler de otros bienes de consumo, excepto de pe­lículas de vídeo.
+Epígrafe 856.2 Alquiler de películas de vídeo.
+Cuota de: 35.604 pesetas. (213,98 euros)
+Nota: Este epígrafe faculta para la venta al por menor de películas de vídeo.
+Grupo 857. Alquiler de aparatos de medida.
+Epígrafe 857.1 Alquiler de básculas, balanzas y demás aparatos de pesar y medir, excepto los denominados contadores de medida.
+Cuota mínima municipal de: 6.210 pesetas. (37,32 euros)
+Cuota provincial de: 15.525 pesetas. (93,31 euros)
+Cuota nacional de: 21.735 pesetas. (130,63 euros)
+Epígrafe 857.2 Servicio de pesa a medida sin alquiler del aparato.
+Cuota mínima municipal de: 6.210 pesetas. (37,32 euros)
+Cuota provincial de: 15.525 pesetas. (93,31 euros)
+Cuota nacional de: 21.735 pesetas. (130,63 euros)
+Epígrafe 857.3 Alquiler de contadores para automóviles.
+Por cada 25 aparatos o fracción destinados a tal fin:
+Cuota nacional de: 2.070 pesetas. (12,440951 euros)
+Epígrafe 857.4 Alquiler, lectura y conservación de contadores de energía eléctrica.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 11.385 pesetas. (68,425228 euros)
+Cuota provincial de 11.385 pesetas. (68,425228 euros)
+Cuota nacional de 11.385 pesetas. (68,425228 euros)
+Epígrafe 857.5 Lectura y conservación por un tanto alzado de contadores de energía eléctrica.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 8.280 pesetas. (49,763802 euros)
+Cuota provincial de 8.280 pesetas. (49,763802 euros)
+Cuota nacional de 8.280 pesetas. (49,763802 euros)
+Epígrafe 857.6 Alquiler, lectura y conservación de contadores de gas.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 11.385 pesetas. (68,425228 euros)
+Cuota provincial de 11.385 pesetas. (68,425228 euros)
+Cuota nacional de 11.385 pesetas. (68,425228 euros)
+Epígrafe 857.7 Lectura y conservación por un tanto alzado de contadores de gas.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 8.280 pesetas. (49,763802 euros)
+Cuota provincial de 8.280 pesetas. (49,763802 euros)
+Cuota nacional de 8.280 pesetas. (49,763802 euros)
+Epígrafe 857.8 Alquiler, lectura y conservación de contadores de agua.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 725 pesetas. (4,357338 euros)
+Cuota provincial de 725 pesetas. (4,357338 euros)
+Cuota nacional de 725 pesetas. (4,357338 euros)
+Epígrafe 857.9 Lectura y conservación por un tanto alzado de contadores de agua.
+Por cada 1.000 aparatos o fracción destinados a tal fin:
+Cuota mínima municipal de 518 pesetas. (3,113243 euros)
+Cuota provincial de 518 pesetas. (3,113243 euros)
+Cuota nacional de 518 pesetas. (3,113243 euros)
+Nota común a los epígrafes 857.4 a 857.9: cuando la actividad se ejerza por una empresa distribuidora de energía eléctrica, gas o agua, la cuota será el 50 por 100 de la señalada en el epígrafe que corresponda.
+Grupo 859. Alquiler de otros bienes muebles n.c.o.p. (sin personal permanente).
+Cuota de: 33.120 pesetas. (199,06 euros)
+Nota: Este grupo comprende el alquiler (con o sin opción a compra y como servicio especializado) de bienes muebles no especificados en los grupos anteriores de la agrupación «Alquiler de bienes muebles» (85), tales como maquinaria y equipo para minería y petróleo, para la industria de transformación, máquinas expendedoras de artículos o suministradoras de servicios, maquinaria y equipos hoteleros, etc.; sin que este alquiler incluya los servicios del personal que maneja dicha maquinaria y equipo.
+Se modifica el Grupo 854 por el art. 63.1.1 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+ Téngase en cuenta para su aplicación el art. 63.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica por el art. 75.1.36 a 41 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifican los epígrafes 857.4 y 5 y se añaden el 857.6 a 9 por el art. 78.1.14 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 86
+
+Agrupación 86. Alquiler de bienes inmuebles.
+Grupo 861. Alquiler de bienes inmuebles de naturaleza urbana.
+Epígrafe 861.1: Alquiler de viviendas.
+Cuota nacional de: 0,10 por 100 del valor catastral asignado a las viviendas a efectos del Impuesto sobre Bienes Inmuebles.
+Notas:
+1.ª El presente epígrafe comprende el alquiler, con o sin opción de compra, de toda clase de inmuebles destinados a vivienda.
+2.ª Los sujetos pasivos cuyas cuotas por esta actividad sean inferiores a 100.000 pesetas (601,01 euros) tributarán por cuota cero.
+Epígrafe 861.2: Alquiler de locales industriales y otros alquileres n.c.o.p.
+Cuota nacional de: 0,10 por 100 del valor catastral asignado a los locales industriales y demás bienes comprendidos en este epígrafe a efectos del Impuesto sobre Bienes Inmuebles.
+Notas:
+1.ª El presente epígrafe comprende el arrendamiento de terrenos, locales industriales, de negocios y demás bienes inmuebles de naturaleza urbana no clasificados en el epígrafe anterior.
+2.ª Los sujetos pasivos cuyas cuotas por esta actividad sean inferiores a 100.000 pesetas (601,01 euros) tributarán por cuota cero.
+Grupo 862. Alquiler de bienes inmuebles de naturaleza rústica.
+Cuota nacional de: 0,10 por 100 del valor catastral asignado a los bienes de naturaleza rústica a efectos del Impuesto sobre Bienes Inmuebles.
+Notas:
+1.ª El presente grupo comprende el alquiler con o sin opción de compra de toda clase de bienes inmuebles de naturaleza rústica.
+2.ª Los sujetos pasivos cuyas cuotas por esta actividad sean inferiores a 100.000 pesetas (601,01 euros) tributarán por cuota cero.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica por el art. 76.1.10 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Téngase en cuenta para su aplicación el art. 76.3.
+ Se añade la nota común a la agrupación 86 por la disposición adicional 17.6 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153.
+
+## DIVISIÓN 9
+
+DIVISIÓN 9. OTROS SERVICIOS.
+
+### Agrupación 91
+
+Agrupación 91. Servicios agrícolas, ganaderos, forestales y pesqueros.
+Grupo 911. Servicios agrícolas y ganaderos.
+Cuota:
+Cuota mínima municipal: 9.108 pesetas. (54,74 euros)
+Cuota provincial: 27.428 pesetas. (164,85 euros)
+Cuota nacional: 36.225 pesetas. (217,72 euros)
+Nota: Este grupo comprende la prestación de servicios a la agricultura y ganadería, con o sin maquinaria, por personas o entidades distintas de los titulares de las explotaciones, por cuenta de éstos, y que normalmente se realizan en la misma explotación, tales como servicios de producción de cultivos y ganado, como preparación de la tierra, poda, riego, aplicación de productos sanitarios, inseminación, etc.; servicios de recolección y preparación de cosechas; servicios de plantación y mantenimiento de jardines y parques, y otros servicios agrícolas y ganaderos. Este grupo no comprende la integración de ganado.
+Grupo 912. Servicios forestales y servicios relacionados con la pesca y la acuicultura.
+Cuota:
+Cuota mínima municipal: 9.108 pesetas. (54,74 euros)
+Cuota provincial: 27.428 pesetas. (164,85 euros)
+Cuota nacional: 36.225 pesetas. (217,72 euros)
+Nota: este grupo comprende los servicios forestales prestados por personas o entidades distintas de los titulares de las explotaciones y que normalmente se realizan en la misma explotación, tales como lucha contra plagas, defensa contra incendios, etc., así como los servicios relacionados con la pesca y la acuicultura prestados por personas o entidades distintas de los titulares de las explotaciones.
+Grupo 913. Servicios relacionados con la pesca y la acuicultura.
+(Suprimido)
+Se modifica el Grupo 912 y se suprime el 913 por la disposición adicional 4.d) y e) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Téngase en cuenta para su aplicación la disposición adicional 4.g).
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 92
+
+Agrupación 92. Servicios de saneamiento, limpieza y similares. Servicios contra incendios y similares.
+Grupo 921. Servicios de saneamiento de vías públicas y similares.
+Epígrafe 921.1 Servicios de limpieza de calles, vías públicas y jardines.
+Cuota de: 36.225 pesetas. (217,72 euros)
+Epígrafe 921.2 Servicios de recogida de basuras y desechos.
+Cuota de: 31.361 pesetas. (188,48 euros)
+Epígrafe 921.3 Exterminio de animales dañinos y desinfección de cualquier clase.
+Cuota de: 6.314 pesetas. (37,95 euros)
+Epígrafe 921.4 Servicios de alcantarillado, evacuación y depuración de aguas residuales.
+Cuota de: 36.225 pesetas. (217,72 euros)
+Epígrafe 921.5 Servicios de incineración y eliminación de basuras y desechos.
+Cuota de: 7.866 pesetas. (47,28 euros)
+Epígrafe 921.6 Servicios de protección y acondicionamiento ambiental: Contra ruidos, vibraciones, contaminación, etc.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Epígrafe 921.7 Servicios de protección contra incendios y accidentes.
+Cuota de: 31.361 pesetas. (188,48 euros)
+Epígrafe 921.8 Servicios de administración de cementerios.
+Cuota de: 12.420 pesetas. (74,65 euros)
+Epígrafe 921.9 Otros servicios de saneamiento y similares n.c.o.p.
+Cuota de: 12.420 pesetas. (74,65 euros)
+Grupo 922. Servicios de limpieza.
+Cuota de: 29.808 pesetas. (179,15 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce, según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 922.1 Servicios de limpieza de interiores (edificios, oficinas, establecimientos comerciales, residencias, centros sanitarios y establecimientos industriales).
+Epígrafe 922.2 Servicios especializados de limpiezas (cristales, chimeneas, etc.).
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 93
+
+Agrupación 93. Educación e investigación.
+Grupo 931. Enseñanza reglada.
+Epígrafe 931.1 Guardería y enseñanza de educación infantil, exclusivamente.
+Cuota de: 30.947 pesetas. (186,00 euros)
+Epígrafe 931.2 Enseñanza de Educación Básica: Educación Primaria y/o Educación Secundaria Obligatoria, exclusivamente.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Epígrafe 931.3 Enseñanza de Bachillerato, Orientación Universitaria, Formación Profesional y ciclos formativos de Formación Profesional Específica de Grado Medio y Grado Superior, exclusivamente.
+Cuota de: 36.101 pesetas. (216,97 euros)
+Nota: este epígrafe faculta para impartir Programas de Garantía Social.
+Epígrafe 931.4 Enseñanza de más de una modalidad de las recogidas en los epígrafes anteriores.
+Cuota de: 67.068 pesetas. (403,09 euros)
+Epígrafe 931.5 Enseñanza de Educación Superior.
+Cuota de: 39.920 pesetas. (239,92 euros)
+Notas comunes al Grupo 931:
+1.ª Cuando en el ejercicio de las actividades clasificadas en este Grupo se faciliten a los alumnos libros o artículos de escritorio, la cuota asignada al epígrafe correspondiente se incrementara en un 25 por 100.
+2.ª Cuando en el ejercicio de las actividades clasificadas en este grupo se preste el servicio de media pensión, la cuota asignada al epígrafe correspondiente se incrementara en un 25 por 100.
+3.ª Cuando en el ejercicio de las actividades clasificadas en este grupo se preste el servicio de internado, la cuota asignada al epígrafe correspondiente se incrementará en un 50 por 100. En estos casos no procederá el incremento previsto en la Nota 2.ª anterior.
+Grupo 932. Enseñanza no reglada de formación y perfeccionamiento profesional y educación superior.
+Epígrafe 932.1 Enseñanza de formación y perfeccionamiento profesional, no superior.
+Cuota de: 30.947 pesetas. (186,00 euros)
+Epígrafe 932.2 Enseñanza de formación y perfeccionamiento profesional superior.
+Cuota de: 45.540 pesetas. (273,70 euros)
+Nota común al grupo 932: No tendrán la consideración de actividad de enseñanza, no devengarán cuota alguna por este impuesto, las actividades de formación, tanto ocupacional como continua, financiada exclusivamente por el Instituto Nacional de Empleo o por el Fondo Social Europeo o cofinanciadas, también exclusivamente, por ambos Organismos.
+Grupo 933. Otras actividades de enseñanza.
+Epígrafe 933.1 Enseñanza de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.
+Cuota de: 32.292 pesetas. (194,08 euros)
+Epígrafe 933.2. Promoción de cursos y estudios en el extranjero.
+Cuota de: 36.225 pesetas. (217,72 euros)
+Nota: Este epígrafe comprende la oferta, información y asesoramiento de los cursos y estudios que pueden realizarse en el extranjero, sin que, en ningún caso, autorice a la organización de los desplazamientos de los estudiantes.
+Asimismo, este epígrafe comprende la información y asesoramiento en orden al reconocimiento en España de los cursos realizados en el exterior, así como la presentación ante los órganos competentes de la Administración de solicitudes de homologación o convalidación de los estudios realizados en el extrajere, siempre que los mismos hayan sido promovidos por el sujeto pasivo, sin que, en ningún caso, autorice para la tramitación en general de homologaciones o convalidaciones de títulos.
+Epígrafe 933.9 Otras actividades de enseñanza, tales como idiomas, corte y confección, mecanografía, taquigrafía, preparación de exámenes y oposiciones y simila­res, n.c.o.p.
+Cuota de: 36.225 pesetas. (217,72 euros)
+Grupo 934. Enseñanza fuera de establecimiento permanente.
+Cuota nacional de: 31.050 pesetas. (186,61 euros)
+Grupo 935. Colegios mayores y residencias de estudiantes.
+Epígrafe 935.1 Colegios mayores.
+Cuota de: 31.257 pesetas. (187,86 euros)
+Epígrafe 935.2 Residencia de estudiantes.
+Cuota de: 25.047 pesetas. (150,54 euros)
+Grupo 936. Investigación científica y técnica.
+Cuota de: 62.100 pesetas. (373,23 euros)
+A efectos meramente informativos, el sujeto pasivo declarará las actividades concretas que ejerce, según la clasificación contenida en los siguientes epígrafes:
+Epígrafe 936.1 Investigación en ciencias exactas y naturales.
+Epígrafe 936.2 Investigación en ciencias médicas.
+Epígrafe 936.3 Investigaciones agrarias.
+Epígrafe 936.4 Investigaciones en ciencias sociales, humanidades y jurídicas.
+Epígrafe 936.5 Investigación técnica industrial.
+Epígrafe 936.9 Otras investigaciones científicas y técnicas, n.c.o.p.
+Se modifican los epígrafes 931.2 y 3 por el art. 68.1.3 y 4 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Se añade la nota común al grupo 932 por el art. 67.1.3 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el epígrafe 933.2 por el art. 72.1.6 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se modifica el epígrafe 931.1 por el art. 75.1.42 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se añaden las notas comunes al Grupo 931 por el art. 78.1.15 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 94
+
+Agrupación 94. Sanidad y servicios veterinarios.
+Grupo 941. Hospitales, clínicas y sanatorios de medicina humana.
+Epígrafe 941.1 Hospitales generales.
+Cuota de:
+Por cada cama o instalación para un enfermo: 1.108 pesetas. (6,659214 euros)
+Epígrafe 941.2 Hospitales especializados (quirúrgicos, maternidades, infantiles, psiquiátricos, etc.).
+Cuota de:
+Por cada cama o instalación para un enfermo: 1.481 pesetas. (8,900989 euros)
+Grupo 942. Otros establecimientos sanitarios, balnearios y baños de agua dulce y de mar.
+Epígrafe 942.1 Consultorios médicos, centros de socorro, sanitarios y clínicos de urgencia.
+Cuota de: 89.010 pesetas. (534,96 euros)
+Epígrafe 942.2 Balnearios y baños.
+Cuota de: 45.644 pesetas. (274,33 euros)
+Nota: Este epígrafe comprende los establecimientos, estanques o piscinas donde se suministran aguas minerales o medicinales, así como baños rusos, de vapor, etc.
+Epígrafe 942.9 Otros servicios sanitarios sin internado, no clasificados en este grupo.
+Cuota de: 35.604 pesetas. (213,98 euros)
+Grupo 943. Consultas y clínicas de estomatología y odontología.
+Cuota de: 101.969 pesetas. (612,85 euros)
+Grupo 944. Servicios de naturopatía, acupuntura y otros servicios parasanitarios.
+Cuota de: 85.905 pesetas. (516,30 euros)
+Grupo 945. Consultas y clínicas veterinarias.
+Cuota de: 69.801 pesetas. (419,51 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 95
+
+Agrupación 95. Asistencia y servicios sociales.
+Grupo 951. Asistencia y servicios sociales para niños, jóvenes, disminuidos físicos y ancianos, en centros residenciales.
+Cuota de: 15.215 pesetas. (91,44 euros)
+Nota: Cuando estos establecimientos cobren por los servicios que presten a cada usuario menos de 100.000 pesetas (601,01 euros) anuales, tributarán por cuota cero.
+Grupo 952. Asistencia y servicios sociales para niños, jóvenes, disminuidos físicos y ancianos, en centros no residenciales.
+Cuota de: 9.419 pesetas. (56,61 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 96
+
+Agrupación 96. Servicios recreativos y culturales.
+Grupo 961. Producción y servicios relacionados con la misma de películas cinematográficas (incluso vídeo).
+Epígrafe 961.1 Producción de películas cinematográficas (incluso vídeos).
+Cuota de: 45.540 pesetas. (273,70 euros)
+Nota: Este epígrafe faculta para la venta, reproducción y alquiler de las películas producidas (incluso vídeos), comprendiendo cualquier actividad relacionada con la producción.
+Epígrafe 961.2 Doblaje, sincronización y montaje de películas o cintas cinematográficas (incluso vídeos) siempre que no se efectúe por la propia empresa productora.
+Cuota de: 28.463 pesetas. (171,07 euros)
+Epígrafe 961.3 Decoraciones escénicas para películas o cintas cinematográficas siempre que no se efectúe por la empresa productora.
+Cuota de: 15.215 pesetas. (91,44 euros)
+Grupo 962. Distribución de películas cinematográficas y vídeos.
+Epígrafe 962.1 Distribución y venta de películas cinematográficas, excepto películas en soporte de cinta magnetoscópica.
+Cuota de: 22.770 pesetas. (136,85 euros)
+Nota: Este epígrafe faculta para el alquiler de las películas.
+Epígrafe 962.2 Distribución y venta al por mayor de películas cinematográficas en soporte de cinta magnetoscópica.
+Cuota de: 31.671 pesetas. (190,35 euros)
+Grupo 963. Exhibición de películas cinematográficas y vídeos.
+Epígrafe 963.1. Exhibición de películas cinematográficas y vídeos.
+Cuota de:
+En poblaciones de más de 500.000 habitantes: 229.201 pesetas. (1.377,53 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 178.227 pesetas. (1.071,17 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 154.940 pesetas. (931,21 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 118.818 pesetas. (714,11 euros)
+En las poblaciones restantes: 57.339 pesetas. (344,61 euros)
+Epígrafe 963.2 Exhibición de películas cinematográficas y vídeos al aire libre.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 68.724 pesetas. (413,04 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 53.510 pesetas. (321,60 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 46.472 pesetas. (279,30 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 35.604 pesetas. (213,98 euros)
+– En las poblaciones restantes: 17.181 pesetas. (103,26 euros)
+Nota común a los epígrafes 963.1 y 963.2: Cuando en una misma sala no se dé espectáculo cinematográfico ni otro que lo sustituya más de ciento ochenta y tres días al año, las cuotas correspondientes se reducirán al 50 por 100.
+Epígrafe 963.3 Exhibición de películas cinematográficas y vídeos fuera de establecimiento permanente.
+Cuota nacional de: 36.225 pesetas. (217,72 euros)
+Epígrafe 963.4 Exhibición de películas cinematográficas y vídeos en establecimientos distintos de los especificados en los epígrafes 963.1, 963.2 y 963.3 anteriores.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 34.362 pesetas. (206,52 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 26.703 pesetas. (160,49 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 23.288 pesetas. (139,96 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 17.802 pesetas. (106,99 euros)
+– En las poblaciones restantes: 8.591 pesetas. (51,63 euros)
+Grupo 964. Servicios de radiodifusión, televisión y servicios de enlace y transmisión de señales de televisión.
+Epígrafe 964.1 Servicios de radiodifusión.
+Cuota mínima municipal de: 20.700 pesetas. (124,41 euros)
+Cuota provincial de: 103.500 pesetas. (622,05 euros)
+Cuota nacional de: 776.250 pesetas. (4.665,36 euros)
+Epígrafe 964.2 Servicios de televisión.
+Cuota mínima municipal de: 51.750 pesetas. (311,02 euros)
+Cuota provincial de: 258.750 pesetas. (1.555,12 euros)
+Cuota nacional de: 1.940.625 pesetas. (11.663,39 euros)
+Epígrafe 964.3 Servicios de enlace y transmisión de señales de televisión.
+Cuota mínima municipal de: 38.813 pesetas. (233,27 euros)
+Cuota provincial de: 194.063 pesetas. (1.166,34 euros)
+Cuota nacional de: 1.449.000 pesetas. (8.708,67 euros)
+Grupo 965. Espectáculos (excepto cine y deportes).
+Epígrafe 965.1 Espectáculos en salas y locales (excepto espectáculos taurinos)
+Cuota de:
+Fija: 20.700 pesetas. (124,41 euros)
+Además: Por cada espectáculo celebrado:
+En poblaciones de 100.000 o más habitantes: 932 pesetas. (5,601433 euros)
+En las restantes: 621 pesetas. (3,732285 euros)
+Epígrafe 965.2 Espectáculos al aire libre (excepto espectáculos taurinos).
+Cuota de:
+Fija: 10.350 pesetas. (62,20 euros)
+Además: por cada espectáculo celebrado:
+En poblaciones de 100.000 o más habitantes: 777 pesetas. (4,669864 euros)
+En las restantes: 518 pesetas. (3,113243 euros)
+Epígrafe 965.3 Espectáculos fuera de establecimiento permanente (excepto espectáculos taurinos).
+Cuota mínima municipal de 81.765 pesetas. (491,42 euros)
+Cuota provincial de 308.430 pesetas. (1.853,70 euros)
+Cuota nacional de 410.895 pesetas. (2.469,53 euros)
+Notas:
+1.ª Los sujetos pasivos que ejerzan esta actividad en instalaciones portátiles transportables de uso propio afectas, única y exclusivamente, a la celebración del espectáculo correspondiente, satisfarán el 50 por 100 de la cuotas asignadas a este epígrafe.
+2.ª Los sujetos pasivos a que se refiere la nota anterior, siempre que su aforo no supere 1.000 plazas, satisfarán el 25 por 100 de las cuotas asignadas a este epígrafe.
+Epígrafe 965.4 Empresas de espectáculos.
+Cuota de 38.295 pesetas. (230,16 euros)
+Nota: Las empresas de espectáculos que ejerzan la actividad en locales de su propiedad tributarán con arreglo a los epígrafes 965.1, 965.2 y 965.3, según los casos, y no estarán obligados a satisfacer cuota por este epígrafe.
+Epígrafe 965.5 Espectáculos taurinos.
+Cuota de:
+Fija: 77.625 pesetas. (466,54 euros)
+Además: Por cada espectáculo celebrado:
+En plazas de primera categoría: 124.200 pesetas. (746,457034 euros)
+En plazas de segunda categoría: 82.800 pesetas. (497,638022 euros)
+En plazas de tercera categoría: 62.100 pesetas. (373,228517 euros)
+En plazas de cuarta categoría: 41.400 pesetas. (248,819011 euros)
+Nota común a los epígrafes 965.1, 965.2 y 965.5: La parte fija de la cuota de estos epígrafes se exigirá en todo caso. A su vez, la parte de cuota por espectáculo celebrado se exigirá al celebrarse el mismo, estando obligado el sujeto pasivo a presentar en la administración tributaria competente dentro del primer mes de cada año natural declaración de variación de los espectáculos cuya celebración haya tenido lugar durante el año inmediato anterior.
+En el supuesto de cese en el ejercicio de la actividad antes del 1 de enero, la declaración de los espectáculos cuya celebración haya tenido lugar durante el año en el que se produce el cese, deberá presentarse conjuntamente con la declaración de baja.
+Grupo 966. Bibliotecas, archivos, museos, jardines botánicos y zoológicos.
+Epígrafe 966.1 Bibliotecas y museos.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Epígrafe 966.2 Parques zoológicos, jardines botánicos y simi­lares.
+Cuota de: 22.874 pesetas. (137,48 euros)
+Epígrafe 966.9 Otros servicios culturales n.c.o.p.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Grupo 967. Instalaciones deportivas y escuelas y servicios de perfeccionamiento del deporte.
+Epígrafe 967.1 Instalaciones deportivas.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Epígrafe 967.2 Escuelas y servicios de perfeccionamiento del deporte.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Epígrafe 967.3 Alquiler de artículos para deporte en instalaciones deportivas.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Grupo 968. Espectáculos deportivos.
+Epígrafe 968.1 Instalaciones para la celebración de espectáculos deportivos.
+Cuota de:
+– Por cada instalación con capacidad para más de 100.000 espectadores: 7.245.000 de pesetas. (43.543,326963 euros)
+– Por cada instalación de más de 50.000 hasta 100.000 espectadores: 5.796.000 pesetas. (34.834,661570 euros)
+– Por cada instalación de más de 15.000 hasta 50.000 espectadores: 2.070.000 de pesetas. (12.440,950561 euros)
+– Por cada instalación de más de 5.000 hasta 15.000 espectadores: 310.500 pesetas. (1.866,142584 euros)
+– Por cada instalación hasta 5.000 espectadores: 103.500 pesetas. (622,047528 euros)
+Epígrafe 968.2 Organización de espectáculos deportivos en instalaciones que no sean de la titularidad de los organizadores.
+Cuota de: 82.800 pesetas. (497,64 euros)
+Epígrafe 968.3. Organización de espectáculos deportivos por Federaciones españolas y de ámbito autonómico y clubes no profesionales.
+Cuota:
+Federaciones españolas: Cuota nacional de 20.700 pesetas. (124,41 euros)
+Federaciones de ámbito autonómico: Cuota provincial de 10.350 pesetas. (62,20 euros)
+Clubes no profesionales: Cuota mínima municipal de 5.175 pesetas. (31,10 euros)
+Notas:
+1.ª El pago de la cuota provincial faculta para ejercer la actividad en el ámbito territorial de la Federación de que se trate.
+2.ª La cuota asignada a los clubes no profesionales no faculta a éstos para organizar espectáculos profesionales.
+Grupo 969. Otros servicios recreativos, n.c.o.p.
+Epígrafe 969.1 Salas de baile y discotecas.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 229.636 pesetas. (1.380,14 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 194.166 pesetas. (1.166,96 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 158.666 pesetas. (953,60 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 123.062 pesetas. (739,62 euros)
+– En las poblaciones restantes: 87.561 pesetas. (526,25 euros)
+Nota: Las cuotas anteriores, cuando las salas de baile y discotecas no estén abiertas al público durante al menos ciento ochenta y cuatro días al año, serán las siguientes:
+– Un 25 % cuando los establecimientos permanezcan abiertos menos de 90 días al año.
+– Un 50 % cuando dichos establecimientos permanezcan abiertos menos de 183 días al año.
+Epígrafe 969.2 Casinos de juego.
+Cuota de:
+Por cada mesa: 2.180.124 pesetas. (13.102,809131 euros)
+Epígrafe 969.3 Juego de bingo.
+Cuota de:
+En salas de categoría especial: 1.611.806 pesetas. (9.687,15 euros)
+En salas de primera categoría: 1.044.419 pesetas. (6.277,08 euros)
+En salas de segunda categoría: 522.261 pesetas. (3.138,85 euros)
+En salas de tercera categoría: 174.087 pesetas. (1.046,28 euros)
+Epígrafe 969.4 Máquinas recreativas y de azar.
+– Por cada máquina tipo «A» o recreativa del Reglamento que las regula, con independencia del lugar en que se encuentren funcionando:
+Cuota mínima municipal: 7.659 pesetas (46,031517 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 7.659 pesetas (46,031517 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+– Por cada máquina tipo «B» o recreativa con premio del Reglamento que las regula, con independencia del lugar en que se encuentren funcionando:
+Cuota mínima municipal: 15.525 pesetas (93,307129 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 15.525 pesetas (93,307129 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+– Por cada máquina tipo «C» o de azar del Reglamento que las regula, con independencia del lugar en que se encuentren funcionando:
+Cuota mínima municipal: 90.666 pesetas (544,913635 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 90.666 pesetas (544,913635 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+Epígrafe 969.5 Juegos de billar, ping-pong, bolos y otros.
+Cuota de:
+Por cada mesa o pista:
+– En poblaciones de más de 500.000 habitantes: 4.554 pesetas. (27,370091 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 3.933 pesetas. (23,637806 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 2.588 pesetas. (15,554193 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 1.967 pesetas. (11,821908 euros)
+– En las poblaciones restantes: 1.346 pesetas. (8,089623 euros)
+Epígrafe 969.6 Salones recreativos y de juego.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 32.085 pesetas. (192,83 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 26.703 pesetas. (160,49 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 21.321 pesetas. (128,14 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 18.734 pesetas. (112,59 euros)
+– En las poblaciones restantes: 16.043 pesetas. (96,42 euros)
+Notas:
+1.ª Los establecimientos que tengan instaladas máquinas recreativas y de azar tributarán por éstas con arreglo a lo prevenido en el epígrafe 969.4.
+2.ª Este epígrafe autoriza para realizar las actividades comprendidas en el epígrafe 969.5.
+Epígrafe 969.7. Otras máquinas automáticas.
+Por cada máquina, con independencia del lugar en que se encuentre funcionando:
+Cuota mínima municipal: 725 pesetas (4,357338 euros) por máquina.
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 1.035 pesetas (6,220475 euros) por máquina.
+Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+Nota: Este epígrafe comprende la prestación de servicios a través de máquinas automáticas tales como balancines, caballitos, animales parlantes, etc., así como plastificadoras de documentos, de impresión de tarjetas, etc., e igualmente, básculas, aparatos de medición de peso, altura, tensión arterial, etc.
+Se modifica el epígrafe 963.1 por el art. 67.1.4 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica por el art. 72.1.7, 9 y 10 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se añade el epígrafe 969.7 por el art. 75.1.43 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Se modifica el Grupo 965 por el art. 78.1.16 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 97
+
+Agrupación 97. Servicios personales.
+Grupo 971. Lavanderías, tintorerías y servicios similares.
+Epígrafe 971.1 Tinte, limpieza en seco, lavado y planchado de ropas hechas y de prendas y artículos del hogar usados.
+Cuota de: 26.910 pesetas. (161,73 euros)
+Nota: Los sujetos pasivos clasificados en este epígrafe cuya actividad consista en la recepción y entrega de ropas hechas y de prendas y artículos del hogar usadas para su tinte, limpieza en seco, lavado y planchado, realizándose estas actividades por otras empresas, tributarán al 50 por 100 de la cuota de este epígrafe.
+Epígrafe 971.2 Limpieza y teñido de calzado.
+Cuota de: 16.664 pesetas. (100,15 euros)
+Nota: Este epígrafe autoriza para la venta en pequeñas cantidades, con aplicación al calzado, de betunes, cremas, trencillas, plantillas, calzadores y efectos análogos, suelas y tacones de goma, pudiendo colocar estos últimos artículos en el momento de prestar el servicio de limpieza.
+Epígrafe 971.3 Zurcido y reparación de ropas.
+Cuota de: 12.524 pesetas. (75,27 euros)
+Grupo 972. Salones de peluquería e institutos de belleza.
+Epígrafe 972.1 Servicios de peluquería de señora y caballero.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 24.840 pesetas. (149,29 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 16.560 pesetas. (99,53 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 12.420 pesetas. (74,65 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 8.280 pesetas. (49,76 euros)
+– En las poblaciones restantes: 6.210 pesetas. (37,32 euros)
+Notas:
+1.ª Este epígrafe faculta, sin pago de otra cuota, para hacer pelucas, postizos, añadidos y otras obras de igual clase.
+Asimismo, los sujetos pasivos clasificados en este epígrafe podrán prestar, sin pago de cuota adicional alguna, el servicio de manicura.
+2.ª Los sujetos pasivos que presten servicios de peluquería en hogares o centros de la tercera edad, satisfarán el 50 por 100 de la cuota correspondiente.
+Epígrafe 972.2 Salones e institutos de belleza y gabinetes de estética.
+Cuota de:
+En poblaciones de más de 500.000 habitantes: 48.200 pesetas. (289,69 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 32.100 pesetas. (192,92 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 24.100 pesetas. (144,84 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 16.100 pesetas. (96,76 euros)
+En las poblaciones restantes: 8.000 pesetas. (48,08 euros)
+Nota: Los sujetos pasivos matriculados en este epígrafe que no presten servicios de peluquería satisfarán el 50 por 100 de la cuota correspondiente.
+Grupo 973. Servicios fotográficos, máquinas automáticas fotográficas y servicios de fotocopias.
+Epígrafe 973.1 Servicios fotográficos.
+Cuota de: 28.260 pesetas. (169,85 euros)
+Notas:
+1.ª Este epígrafe comprende la producción de retratos fotográficos, la producción de fotografías comerciales, los servicios de fotografía técnica, los servicios de revelado, impresión y ampliación de fotografías, así como los servicios combinados de vídeo y fotografía.
+2.ª Los sujetos pasivos clasificados en este epígrafe quedan facultados para la recepción de carretes fotográficos y posterior entrega de las correspondientes fotografías reveladas por un laboratorio ajeno.
+3.ª Los sujetos pasivos clasificados en este epígrafe podrán, incrementando un 25 por 100 la cuota señalada al mismo, realizar, con carácter accesorio, la venta de pequeño material fotográfico, como carretes, pilas, portafotos, álbumes y máquinas compactas.
+Epígrafe 973.2 Máquinas automáticas, sin operador, para fotografías de personas y para copia de documentos.
+Cuota mínima municipal: 10.350 pesetas (62,204753 euros) por máquina. Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el cual la máquina esté instalada.
+Cuota nacional: 15.525 pesetas (93,307129 euros) por máquina. Esta cuota la satisfará, exclusivamente, el propietario de las máquinas.
+Epígrafe 973.3 Servicios de copias de documentos con máquinas fotocopiadoras.
+Cuota de:
+Por cada máquina: 22.046 pesetas. (132,199129 euros)
+Grupo 974. Agencias de prestación de servicios domés­ticos.
+Cuota de: 20.700 pesetas. (124,41 euros)
+Grupo 975. Servicios de enmarcación.
+Cuota mínima municipal de:
+En poblaciones de más de 500.000 habitantes: 41.710 pesetas. (250,68 euros)
+En poblaciones de más de 100.000 a 500.000 habitantes: 33.586 pesetas. (201,86 euros)
+En poblaciones de más de 40.000 a 100.000 habitantes: 25.564 pesetas. (153,64 euros)
+En poblaciones de más de 10.000 a 40.000 habitantes: 19.768 pesetas. (118,81 euros)
+En las poblaciones restantes: 14.800 pesetas. (88,95 euros)
+Notas:
+1.ª Este Grupo comprende el diseño, asesoramiento y creación de todo tipo de marcos, así como la venta de los mismos y sus accesorios.
+2.ª Este Grupo faculta para la manipulación y ensamblaje por sí mismos o por terceros de los marcos y sus accesorios, siempre que su comercialización se realice en las propias dependencias de venta.
+3.ª Los sujetos pasivos clasificados en este Grupo podrán, incrementando un 25 por 100 la cuota reseñada al mismo, realizar, con carácter accesorio, la venta de productos y material enmarcable de escaso valor, tales como cuadros, láminas, litografías, grabados, cristales, espejos y otros análogos
+Grupo 979. Otros servicios personales n.c.o.p.
+Epígrafe 979.1 Servicios de pompas fúnebres.
+Cuota de:
+– En poblaciones de más de 500.000 habitantes: 36.526 pesetas. (219,53 euros)
+– En poblaciones de más de 100.000 a 500.000 habitantes: 27.428 pesetas. (164,85 euros)
+– En poblaciones de más de 40.000 a 100.000 habitantes: 18.216 pesetas. (109,48 euros)
+– En poblaciones de más de 10.000 a 40.000 habitantes: 13.662 pesetas. (82,11 euros)
+– En las poblaciones restantes: 9.108 pesetas. (54,74 euros)
+Epígrafe 979.2 Adorno de templos y otros locales.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Epígrafe 979.3 Agencias matrimoniales y otros servicios de relaciones sociales.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Epígrafe 979.4 Adiestramiento de animales y otros servicios de atenciones a animales domésticos.
+Cuota de: 30.429 pesetas. (182,88 euros)
+Epígrafe 979.9 Otros servicios personales n.c.o.p.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Se añade el Grupo 975 por el art. 70.1.2 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Téngase en cuenta para su aplicación el art. 70.3.
+ Redactado conforme la corrección de errores publicada en BOE núm. 70, de 22 de marzo de 2000.Ref. BOE-A-2000-5478.
+ Se modifica por el art. 61.1.8 a 10 de la Ley 12/1996, de 30 de diciembre. Ref. BOE-A-1996-29116.
+ Téngase en cuenta para su aplicación el art. 61.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade la nota 2ª al epígrafe 972.1 por el art. 72.1.8 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se añade el párrafo último al epígrafe 972.1 por el art. 75.1.51 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 98
+
+Agrupación 98. Parques de recreo, ferias y otros servicios relacionados con el espectáculo. Organización de congresos. Parques o recintos feriales.
+Grupo 981. Jardines, parques de recreo o de atracciones y acuáticos y pistas de patinaje.
+Epígrafe 981.1 Curiosidades, bien naturales o artificiales, en parques, castillos, grutas, cuevas, etc.
+Cuota de: 72.450 pesetas. (435,43 euros)
+Epígrafe 981.2 Jardines de recreo en los que la entrada es por precio.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Epígrafe 981.3 Parques de atracciones, incluidos los acuáticos y análogos, de carácter estable.
+Cuota de:
+Por cada atracción: 9.108 pesetas. (54,740182 euros)
+Nota: En aquellos parques de atracciones que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este epígrafe.
+Grupo 982. Tómbolas, espectáculos y juegos, así como comercio al por menor y servicios de restauración, propios de ferias y verbenas, organización y celebración de apuestas deportivas, loterías y otros juegos.
+Epígrafe 982.1. Tómbolas y tarifas autorizadas en establecimiento permanente.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Epígrafe 982.2. Tómbolas y rifas autorizadas, fuera de establecimiento permanente.
+Cuota mínima municipal de: 15.525 pesetas. (93,31 euros)
+Cuota provincial de: 38.813 pesetas. (233,27 euros)
+Cuota nacional de: 91.287 pesetas. (548,65 euros)
+Epígrafe 982.3. Exposición de figuras de cera en establecimiento permanente.
+Cuota de: 10.350 pesetas. (62,20 euros)
+Epígrafe 982.4. Otras atracciones, comercio al por menor y servicios de restauración propios de ferias y verbenas, fuera de establecimiento permanente.
+Por cada atracción, punto de venta o instalación en la que se preste el servicio de restauración:
+Cuota mínima municipal de: 6.210 pesetas. (37,322852 euros)
+Cuota provincial de: 18.630 pesetas. (111,968555 euros)
+Cuota nacional de: 31.050 pesetas. (186,614258 euros)
+Nota: En este epígrafe se matricularán los sujetos pasivos que realicen las actividades reseñadas en la rúbrica, ejercitándolas, en régimen de ambulancia, en ferias y verbenas de carácter no permanente.
+Epígrafe 982.5. Organización y celebración de Apuestas Deportivas, Loterías y otros juegos.
+Cuota mínima municipal de: 80.813 pesetas. (485,70 euros)
+Cuota provincial de: 202.032 pesetas. (1.214,24 euros)
+Cuota nacional de: 414.000 pesetas. (2.488,19 euros)
+Grupo 983. Agencias de colocación de artistas.
+Cuota de: 82.800 pesetas. (497,64 euros)
+Grupo 989. Otras actividades relacionadas con el espectáculo y el turismo. Organización de congresos. Parques o recintos feriales.
+Epígrafe 989.1 Expedición de billetes de espectáculos públicos.
+Cuota de: 15.525 pesetas. (93,31 euros)
+Epígrafe 989.2 Servicios de organización de congresos, asambleas y similares.
+Cuota de: 28.670 pesetas. (172,31 euros)
+Epígrafe 989.3. Parques o recintos feriales.
+Cuota mínima municipal de: 103.500 pesetas. (622,05 euros)
+Notas:
+1.ª Este epígrafe comprende todos los servicios necesarios para la explotación de parques o recintos feriales, excepto los clasificados en el epígrafe 674.7 de esta sección
+2.ª Las personas o Entidades que utilicen los parques o recintos feriales para la exposición, comercialización, muestra o información de sus productos o actividades, en las casetas o «stand» que compongan aquellos parques o recintos, no deberán satisfacer cuota adicional alguna siempre que figuren debidamente matriculados en el Impuesto sobre Actividades Económicas por su respectiva actividad.
+3.ª Para el cálculo del elemento tributario superficie se imputará a los sujetos pasivos clasificados en este epígrafe la superficie correspondiente al parque o recinto ferial en su conjunto, excepto la ocupada por los servicios clasificados en el epígrafe 674.7 de esta Sección, la cual se imputará a los titulares de dichos servicios.
+Se añade un nota al epígrafe 981.3, con efectos desde el 1 de enero de 2013, por el art. 15.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica por el art. 75.1.44 a 47 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1993. Ref. BOE-A-1993-4117.
+
+### Agrupación 99
+
+Agrupación 99. Servicios no clasificados en otras rú­bricas.
+Grupo 991. Prestación de servicios por sociedades de desarrollo industrial regional.
+Cuota provincial de: 30.429 pesetas. (182,88 euros)
+Grupo 999. Otros servicios n.c.o.p.
+Cuota de: 30.429 pesetas. (182,88 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## [Notas comunes a la Sección Primera]
+
+Nota común 1.ª a la sección primera:
+De conformidad con lo dispuesto en la base Cuarta del artículo 86.1 de la Ley 39/1988, de 28 de diciembre, las cuotas consignadas en esta sección se completarán con la cantidad que resulte de aplicar el elemento tributario constituido por la superficie de los locales en los que se realicen las actividades empresariales, en los términos previstos en la regla 14.ª 1.F), de la Instrucción.
+Nota común 2.ª a la sección primera:
+(Derogada)
+Se deroga la nota común 2ª por la disposición derogatoria única.1.b) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se añade la nota común 2.ª por el art. 21.3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+## SECCIÓN SEGUNDA
+
+ACTIVIDADES PROFESIONALES
+
+## DIVISIÓN 0
+
+DIVISIÓN 0. PROFESIONALES RELACIONADOS CON LA AGRICULTURA, GANADERÍA, CAZA, SILVICULTURA Y PESCA.
+
+### Agrupación 01
+
+Agrupación 01. Doctores y Licenciados en Ciencias Biológicas, Ingenieros Agrónomos y de Montes.
+Grupo 011. Doctores y Licenciados en Ciencias Bioló­gicas.
+Cuota de: 22.253 pesetas. (133,74 euros)
+Grupo 012. Ingenieros Agrónomos y de Montes.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Grupo 013. Veterinarios.
+Cuota de: 34.880 pesetas. (209,63 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 02
+
+Agrupación 02. Ingenieros Técnicos Agrícolas y Forestales, Técnicos en Biología, Agronomía y Silvicultura y otros técnicos similares.
+Grupo 021. Técnicos en Biología, Agronomía y Silvicultura.
+Cuota de: 19.665 pesetas. (118,19 euros)
+Grupo 022. Ingenieros Técnicos Agrícolas e Ingenieros Técnicos Forestales.
+Cuota de: 21.942 pesetas. (131,87 euros)
+Grupo 023. Ingenieros Técnicos Topógrafos.
+Cuota de: 22.563 pesetas. (135,61 euros)
+Grupo 024. Auxiliares y Ayudantes en Veterinaria (Sexadores de pollos, Castradores, etc.).
+Cuota de: 20.907 pesetas. (125,65 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 09
+
+Agrupación 09. Otros profesionales relacionados con la agricultura, ganadería, caza, silvicultura y pesca, n.c.o.p.
+Grupo 099. Otros profesionales relacionados con la agricultura, ganadería, caza, silvicultura y pesca, n.c.o.p.
+Cuota de: 21.735 pesetas. (130,63 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 1
+
+DIVISIÓN 1. PROFESIONALES RELACIONADOS CON LAS ACTIVIDADES PROPIAS DE LA ENERGÍA, AGUA, MINERÍA Y DE LA INDUSTRIA QUÍMICA.
+
+### Agrupación 11
+
+Agrupación 11. Doctores y Licenciados en Ciencias Físicas, en Ciencias Geofísicas y en Ciencias Geológicas, Ingenieros de Minas.
+Grupo 111. Doctores y Licenciados en Ciencias Físicas, Doctores y Licenciados en Ciencias Geofísicas y Doctores y Licenciados en Ciencias Geológicas.
+Cuota de: 24.219 pesetas. (145,56 euros)
+Grupo 112. Ingenieros de Minas.
+Cuota de: 35.190 pesetas. (211,50 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 12
+
+Agrupación 12. Doctores y Licenciados en Ciencias Químicas.
+Grupo 121. Doctores y Licenciados en Ciencias Quí­micas.
+Cuota de: 22.770 pesetas. (136,85 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 13
+
+Agrupación 13. Ingenieros Técnicos de Minas, Facultativos y Peritos.
+Grupo 131. Ingenieros Técnicos de Minas, Facultativos y Peritos.
+Cuota de: 26.393 pesetas. (158,63 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 19
+
+Agrupación 19. Otros profesionales relacionados con las actividades propias de la energía, agua, minería e industria química, n.c.o.p.
+Grupo 199. Otros profesionales relacionados con las actividades propias de la energía, agua, minería e industria química, n.c.o.p.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 2
+
+DIVISIÓN 2. PROFESIONALES RELACIONADOS CON LAS INDUSTRIAS DE LA AERONÁUTICA, DE LA TELECOMUNICACIÓN Y DE LA MECÁNICA DE PRECISIÓN.
+
+### Agrupación 21
+
+Agrupación 21. Ingenieros Aeronáuticos y Navales, Ingenieros de Telecomunicación e Ingenieros de Armamento y Construcción y similares.
+Grupo 211. Ingenieros Aeronáuticos.
+Cuota de: 43.470 pesetas. (261,26 euros)
+Grupo 212. Ingenieros Navales.
+Cuota de: 36.846 pesetas. (221,45 euros)
+Grupo 213. Ingenieros de Telecomunicación.
+Cuota de: 45.230 pesetas. (271,84 euros)
+Grupo 214. Ingenieros de Armamento y Construcción, de Armas Navales y Electromecánicos del ICAI.
+Cuota de: 42.435 pesetas. (255,04 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 22
+
+Agrupación 22. Ingenieros Técnicos y Ayudantes de la Aeronáutica y Ayudantes de Ingenieros de Armamento y Construcción y similares.
+Grupo 221. Ingenieros Técnicos Aeronáuticos, Ayudantes y Peritos.
+Cuota de: 23.805 pesetas. (143,07 euros)
+Grupo 222. Ingenieros Técnicos de Telecomunicación, Ayudantes y Peritos.
+Cuota de: 25.565 pesetas. (153,65 euros)
+Grupo 223. Ayudantes de Ingenieros de Armamento y Construcción, de Armas Navales e Ingenieros técnicos Electromecánicos del ICAI.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Grupo 224. Dibujantes técnicos.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Grupo 225. Técnicos en Telecomunicación.
+Cuota de: 22.149 pesetas. (133,12 euros)
+Grupo 226. Técnicos en Sonido.
+Cuota de: 22.149 pesetas. (133,12 euros)
+Grupo 227. Técnicos en Iluminación.
+Cuota de: 22.149 pesetas. (133,12 euros)
+Grupo 228. Ingenieros Técnicos Navales, Ayudantes y Peritos.
+Cuota de: 22.770 pesetas. (136,85 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el Grupo 228 por el art. 72.1. 13 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+
+### Agrupación 29
+
+Agrupación 29. Otros profesionales relacionados con las industrias de la aeronáutica, de la telecomunicación y de la mecánica de precisión, n.c.o.p.
+Grupo 299. Otros profesionales relacionados con las industrias de la aeronáutica, de la telecomunicación y de la mecánica de precisión, n.c.o.p.
+Cuota de: 22.563 pesetas. (135,61 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 3
+
+DIVISIÓN 3. PROFESIONALES RELACIONADOS CON OTRAS INDUSTRIAS MANUFACTURERAS.
+
+### Agrupación 31
+
+Agrupación 31. Ingenieros Industriales y Textiles.
+Grupo 311. Ingenieros Industriales y Textiles.
+Cuota de: 38.295 pesetas. (230,16 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 32
+
+Agrupación 32. Ingenieros Técnicos Industriales y Textiles y Técnicos en Artes Gráficas.
+Grupo 321. Ingenieros Técnicos Industriales y Textiles, Ayudantes y Peritos.
+Cuota de: 20.700 pesetas. (124,41 euros)
+Grupo 322. Técnicos en Artes Gráficas.
+Cuota de: 21.218 pesetas. (127,52 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 39
+
+Agrupación 39. Otros profesionales relacionados con otras industrias manufactureras, n.c.o.p.
+Grupo 399. Otros profesionales relacionados con otras industrias manufactureras, n.c.o.p.
+Cuota de: 22.563 pesetas. (135,61 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 4
+
+DIVISIÓN 4. PROFESIONALES RELACIONADOS CON LA CONSTRUCCIÓN.
+
+### Agrupación 41
+
+Agrupación 41. Arquitectos e Ingenieros Superiores de Caminos, Canales y Puertos.
+Grupo 411. Arquitectos.
+Cuota de: 48.645 pesetas. (292,36 euros)
+Grupo 412. Ingenieros de Caminos, Canales y Puertos.
+Cuota de: 47.921 pesetas. (288,01 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 42
+
+Agrupación 42. Arquitectos Técnicos e Ingenieros Técnicos en la Construcción.
+Grupo 421. Arquitectos Técnicos y Aparejadores.
+Cuota de: 33.120 pesetas. (199,06 euros)
+Grupo 422. Ingenieros Técnicos de Obras Públicas, Ayudantes y Peritos.
+Cuota de: 23.598 pesetas. (141,83 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 43
+
+Agrupación 43. Delineantes y decoradores.
+Grupo 431. Delineantes.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Grupo 432. Decoradores-Diseñadores de interiores.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 44
+
+Agrupación 44. Técnicos Superiores en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas.
+Grupo 441. Técnicos Superiores en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Se añade por el art. 70.1.3 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Téngase en cuenta para su aplicación el art. 70.3.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 45
+
+Agrupación 45. Ingenieros en geodesia y cartografía.
+Grupo 451. Ingenieros en geodesia y cartografía.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Se añade por el art. 63.1.2 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+ Téngase en cuenta para su aplicación el art. 63.3.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 49
+
+Agrupación 49. Otros profesionales relacionados con la construcción, n.c.o.p.
+Grupo 499. Otros profesionales relacionados con la construcción, n.c.o.p.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 5
+
+DIVISIÓN 5. PROFESIONALES RELACIONADOS CON EL COMERCIO Y LA HOSTELERÍA.
+
+### Agrupación 51
+
+Agrupación 51. Agentes Comerciales.
+Grupo 511. Agentes Comerciales.
+Cuota de: 30.015 pesetas. (180,39 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 52
+
+Agrupación 52. Técnicos en hostelería.
+Grupo 521. Técnicos en hostelería.
+Cuota de: 30.015 pesetas. (180,39 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 59
+
+Agrupación 59. Otros profesionales relacionados con el comercio y la hostelería, n.c.o.p.
+Grupo 599. Otros profesionales relacionados con el comercio y la hostelería, n.c.o.p.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 6
+
+DIVISIÓN 6. PROFESIONALES RELACIONADOS CON EL TRANSPORTE Y LAS COMUNICACIONES.
+
+### Agrupación 61
+
+Agrupación 61. Gestores o intermediarios en las operaciones de transporte y conductores de vehículos terrestres.
+Grupo 611. Agentes de ferrocarriles.
+Cuota de: 25.461 pesetas. (153,02 euros)
+Grupo 612. Conductores de vehículos terrestres.
+Cuota de: 16.767 pesetas. (100,77 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 69
+
+Agrupación 69. Otros profesionales relacionados con el transporte y las comunicaciones, n.c.o.p.
+Grupo 699. Otros profesionales relacionados con el transporte y las comunicaciones, n.c.o.p.
+Cuota de: 36.018 pesetas. (216,47 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 7
+
+DIVISIÓN 7. PROFESIONALES RELACIONADOS CON LAS ACTIVIDADES FINANCIERAS, JURÍDICAS, DE SEGUROS Y DE ALQUILERES.
+
+### Agrupación 71
+
+Agrupación 71. Profesionales relacionados con los seguros.
+Grupo 711. Actuarios de seguros.
+Cuota de: 39.330 pesetas. (236,38 euros)
+Grupo 712. Agentes y corredores de seguros.
+Cuota de: 24.840 pesetas. (149,29 euros)
+Se modifica por el art. 63.1.3 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+ Téngase en cuenta para su aplicación el art. 63.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 72
+
+Agrupación 72. Gestores de asuntos públicos y privados.
+Grupo 721. Agentes colegiados de la propiedad industrial y de la propiedad inmobiliaria.
+Cuota de: 31.775 pesetas. (190,97 euros)
+Grupo 722. Gestores administrativos.
+Cuota de: 39.848 pesetas. (239,49 euros)
+Nota: Los gestores administrativos podrán gestionar ex­pedientes de clases pasivas, siempre que estén autorizados para ello.
+Grupo 723. Administradores de fincas.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Grupo 724. Intermediarios en la promoción de edificaciones.
+Cuota de: 43.263 pesetas. (260,02 euros)
+Grupo 725. Habilitados de Clases Pasivas.
+Cuota de: 29.498 pesetas. (177,29 euros)
+Grupo 726. Graduados Sociales.
+Cuota de: 39.641 pesetas. (238,25 euros)
+Grupo 727. Agentes o intermediarios en facilitar préstamos.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Grupo 728. Agentes de Aduanas.
+Cuota de: 28.980 pesetas. (174,17 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 73
+
+Agrupación 73. Profesionales del Derecho.
+Grupo 731. Abogados.
+Cuota de: 44.402 pesetas. (266,86 euros)
+Grupo 732. Procuradores.
+Cuota de: 35.501 pesetas. (213,37 euros)
+Grupo 733. Notarios.
+Cuota de: 124.200 pesetas. (746,46 euros)
+Nota: Los sujetos pasivos matriculados en este Grupo podrán disponer, sin pago de cuota adicional alguna, de despachos auxiliares ubicados en los distintos Municipios de sus circunscripciones territoriales, cuando dispongan para ello de la autorización prevista en la legislación notarial.
+Grupo 734. Registradores.
+Cuota de: 124.200 pesetas. (746,46 euros)
+Se añade una nota al epígrafe 733 por el art. 62.1.2 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+ Téngase en cuenta para su aplicación el art. 62.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 74
+
+Agrupación 74. Profesionales de la Economía y de las Finanzas, Especialistas en Inversiones y Mercados y otros técnicos similares.
+Grupo 741. Economistas.
+Cuota de: 43.056 pesetas. (258,77 euros)
+Grupo 742. Intendentes y Profesores Mercantiles.
+Cuota de: 43.056 pesetas. (258,77 euros)
+Grupo 743. Peritos Mercantiles.
+Cuota de: 25.875 pesetas. (155,51 euros)
+Grupo 744. Diplomados en Ciencias Empresariales.
+Cuota de: 33.948 pesetas. (204,03 euros)
+Grupo 745. Corredores de comercio colegiados.
+(Suprimido)
+Grupo 746. Corredores de comercio libres.
+Cuota de: 68.310 pesetas. (410,55 euros)
+Grupo 747. Auditores de cuentas y Censores jurados de cuentas.
+Cuota de: 33.948 pesetas. (204,03 euros)
+Nota: No tendrán que satisfacer la cuota correspondiente a este Grupo ni darse de alta en el mismo los profesionales que, dados de alta en otros Grupos de esta Sección, estén facultados, por su Estatuto Profesional o reglamentación reguladora del ejercicio de su actividad, para el ejercicio de la actividad de auditoría de cuentas.
+Grupo 748. Administradores de la cartera de valores.
+Cuota de: 40.779 pesetas. (245,09 euros)
+Grupo 749. Corredores intérpretes y Corredores marítimos.
+Cuota de: 39.020 pesetas. (234,51 euros)
+Se suprime el Grupo 745 y se añade una nota al 747 por el art. 62.1.3 y 4 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
+ Téngase en cuenta para su aplicación el art. 62.2.
+ Se añade la nota al Grupo 745 por el art. 68.1.5 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 75
+
+Agrupación 75. Profesionales de la Publicidad.
+Grupo 751. Profesionales de la Publicidad, relaciones públicas y similares.
+Cuota de: 24.530 pesetas. (147,43 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 76
+
+Agrupación 76. Profesionales de la Informática y de las Ciencias Exactas.
+Grupo 761. Doctores y Licenciados en Ciencias Exactas y Estadísticas.
+Cuota de: 25.565 pesetas. (153,65 euros)
+Grupo 762. Doctores, licenciados e ingenieros en informática.
+Cuota de: 25.461 pesetas. (153,02 euros)
+Grupo 763. Programadores y Analistas de Informática.
+Cuota de: 19.044 pesetas. (114,46 euros)
+Grupo 764. Diplomados en Informática.
+Cuota de: 20.700 pesetas. (124,41 euros)
+Grupo 765. Grabadores, Informáticos y otros profesionales auxiliares del tratamiento electrónico de datos.
+Cuota de: 19.044 pesetas. (114,46 euros)
+Se modifica el Grupo 762 por el art. 63.1.4 de la Ley 13/2000, de 28 de diciembre. Ref. BOE-A-2000-24265.
+ Téngase en cuenta para su aplicación el art. 63.2.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el Grupo 765 por el art. 78.1.17 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 77
+
+Agrupación 77. Profesionales de actividades diversas.
+Grupo 771. Agentes cobradores de facturas, de efectos comerciales, de préstamos y derechos de todas clases.
+Cuota de: 17.388 pesetas. (104,50 euros)
+Grupo 772. Estenotipistas, Mecanógrafos, Taquígrafos y otros profesionales administrativos.
+Cuota de: 19.148 pesetas. (115,08 euros)
+Grupo 773. Detectives privados y profesionales que prestan servicios de vigilancia, protección y seguridad.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Grupo 774. Traductores e Intérpretes.
+Cuota de: 20.286 pesetas. (121,92 euros)
+Grupo 775. Doctores y Licenciados en Filosofía y Letras.
+Cuota de: 21.528 pesetas. (129,39 euros)
+Grupo 776. Doctores y Licenciados en Ciencias Políticas y Sociales, Psicólogos, Antropólogos, Historiadores y simi­lares.
+Cuota de: 23.288 pesetas. (139,96 euros)
+Grupo 777. Especialistas en asuntos de personal y orientación y análisis profesional.
+Cuota de: 27.945 pesetas. (167,95 euros)
+Grupo 778. Diplomados en Biblioteconomía y Documentación
+Cuota de 17.595 pesetas. (105,75 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se añade el Grupo 778 por el art. 78.1.18 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 79
+
+Agrupación 79. Otros profesionales relacionados con las actividades financieras, jurídicas, de seguros y de alquileres, n.c.o.p.
+Grupo 799. Otros profesionales relacionados con las actividades financieras, jurídicas, de seguros y de alquileres, n.c.o.p.
+Cuota de: 33.638 pesetas. (202,17 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## DIVISIÓN 8
+
+DIVISIÓN 8. PROFESIONALES RELACIONADOS CON OTROS SERVICIOS.
+
+### Agrupación 81
+
+Agrupación 81. Profesionales que prestan servicios de limpieza.
+Grupo 811. Profesionales que prestan servicios de limpieza.
+Cuota de: 7.245 pesetas. (43,54 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 82
+
+Agrupación 82. Profesionales de la enseñanza.
+Grupo 821. Personal docente de Enseñanza Superior.
+Cuota de: 19.976 pesetas. (120,06 euros)
+Grupo 822. Personal docente de Enseñanza Media.
+Cuota de: 18.009 pesetas. (108,24 euros)
+Grupo 823. Personal docente de Enseñanza General Básica y Preescolar.
+Cuota de: 16.767 pesetas. (100,77 euros)
+Grupo 824. Profesores de formación y perfeccio­namiento profesional.
+Cuota de: 22.770 pesetas. (136,85 euros)
+Grupo 825. Profesores de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.
+Cuota de: 16.146 pesetas. (97,04 euros)
+Grupo 826. Personal docente de enseñanzas diversas, tales como Educación Física y Deportes, Idiomas, Mecanografía, preparación de exámenes y oposiciones y similares.
+Cuota de: 18.009 pesetas. (108,24 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 83
+
+Agrupación 83. Profesionales de la Sanidad.
+Grupo 831. Médicos de Medicina General.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Grupo 832. Médicos Especialistas (excluidos Estomatólogos y Odontólogos).
+Cuota de: 48.645 pesetas. (292,36 euros)
+Grupo 833. Estomatólogos.
+Cuota de: 57.960 pesetas. (348,35 euros)
+Grupo 834. Odontólogos.
+Cuota de: 46.575 pesetas. (279,92 euros)
+Grupo 835. Farmacéuticos.
+Cuota de: 30.533 pesetas. (183,51 euros)
+Grupo 836. Ayudantes Técnicos Sanitarios y Fisoterapéutas.
+Cuota de: 20.390 pesetas. (122,55 euros)
+Grupo 837. Protésicos e Higienistas dentales.
+Cuota de: 24.840 pesetas. (149,29 euros)
+Grupo 838. Ópticos-Optometristas y Podólogos.
+Cuota de: 18.837 pesetas. (113,21 euros)
+Grupo 839. Masajistas, Bromatólogos, Dietistas y Auxiliares de enfermería.
+Cuota de: 15.525 pesetas. (93,31 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el Grupo 836 por el art. 75.1.48 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Agrupación 84
+
+Agrupación 84. Profesionales relacionados con actividades parasanitarias.
+Grupo 841. Naturópatas, Acupuntores y otros profesionales parasanitarios.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 85
+
+Agrupación 85. Profesionales relacionados con el espectáculo.
+Grupo 851. Representantes técnicos del espectáculo.
+Cuota de: 42.435 pesetas. (255,04 euros)
+Grupo 852. Apoderados y representantes taurinos.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Grupo 853. Agentes de colocación de artistas.
+Cuota de: 41.400 pesetas. (248,82 euros)
+Grupo 854. Expertos en organización de congresos, asambleas y similares.
+Cuota de: 25.254 pesetas. (151,78 euros)
+Grupo 855. Agentes y Corredores de apuestas en los espectáculos.
+Cuota de: 24.323 pesetas. (146,18 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 86
+
+Agrupación 86. Profesiones liberales, artísticas, literarias y culturales.
+Grupo 861. Pintores, Escultores, Ceramistas, Artesanos, Grabadores, Artistas Falleros y artistas similares.
+Cuota de: 115 euros.
+Grupo 862. Restauradores de obras de arte.
+Cuota de: 20.700 pesetas. (124,41 euros)
+Grupo 863. Periodistas y otros profesionales de la información y la comunicación.
+Cuota de: 115 euros.
+Nota: Los sujetos pasivos clasificados en este grupo están facultados para la obtención, tratamiento, interpretación y difusión de informaciones o contenidos a través de cualquier medio escrito, oral, visual, digital o gráfico, así como para el asesoramiento y ejecución de planes de comunicación institucional o corporativa.
+Grupo 864. Escritores y guionistas.
+Cuota de: 115 euros.
+Grupo 869. Otros profesionales relacionados con las actividades artísticas y culturales no clasificadas en la sección tercera.
+Cuota de: 115 euros.
+Se deja sin efecto la modificación del grupo 861 por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica el grupo 861, con efectos de 1 de enero de 2025, por el art. 12 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica por el art. 70.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+ Se añade el grupo 863 por el art. 62 de la Ley 22/2021, de 28 de diciembre, con efectos para los períodos impositivos que se inicien a partir de la entrada en vigor de esta Ley. Ref. BOE-A-2021-21653#a6-4
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 87
+
+Agrupación 87. Profesionales relacionados con loterías, apuestas y demás juegos de suerte, envite y azar.
+Grupo 871. Expendedores oficiales de loterías, apuestas deportivas y otros juegos, incluidos en la red comercial del Organismo Nacional de Loterías y Apuestas del Estado (excluidos los clasificados en el grupo 855).
+Cuota de: 35.397 pesetas. (212,74 euros)
+Nota: Los sujetos pasivos clasificados en este grupo están facultados para la distribución y venta de cualesquiera otras loterías distintas de las del Organismo Nacional de Loterías y Apuestas del Estado, siempre que estén autorizados.
+Grupo 872. Expendedores oficiales de loterías, apuestas deportivas y otros juegos, pertenecientes a otros Organismos distintos del Organismo Nacional de Loterías y Apuestas del Estado.
+Cuota de: 30.326 pesetas. (182,26 euros)
+Nota: Los sujetos pasivos clasificados en este grupo están facultados para la distribución y venta de la lotería del Organismo Nacional de Loterías y Apuestas del Estado, siempre que estén autorizados.
+Grupo 873. Expendedores no oficiales autorizados para la recepción de apuestas deportivas, de otros juegos y de loterías di­versas.
+Cuota de: 19.665 pesetas. (118,19 euros)
+Nota: Aquellos expendedores que realicen su actividad en establecimientos tales como bares, comercios, etc., cuya actividad principal no sea la recepción de Apuestas Deportivas, Juegos y Loterías, incrementarán la cuota correspondiente a su actividad principal con una cantidad igual al 10 por 100 de la cuota asignada a este Grupo 873.
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica la nota del grupo 873 por el art. 78.1.7 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Agrupación 88
+
+Agrupación 88. Profesionales diversos.
+Grupo 881. Astrólogos y similares.
+Cuota de: 19.044 pesetas. (114,46 euros)
+Grupo 882. Guías de turismo.
+Cuota de: 21.011 pesetas. (126,28 euros)
+Grupo 883. Guías intérpretes de turismo.
+Cuota de: 31.257 pesetas. (187,86 euros)
+Grupo 884. Peritos tasadores de seguros, alhajas, géneros y efectos.
+Cuota de: 27.738 pesetas. (166,71 euros)
+Grupo 885. Liquidadores y Comisarios de averías.
+Cuota de: 35.190 pesetas. (211,50 euros)
+Grupo 886. Cronometradores.
+Cuota de: 19.976 pesetas. (120,06 euros)
+Grupo 887. Maquilladores y Esteticistas.
+Cuota de: 17.906 pesetas. (107,62 euros)
+Grupo 888. Grafólogos
+Cuota de: 19.044 pesetas. (114,46 euros)
+Grupo 889. Guías de montaña. .
+Cuota de: 126 euros.
+Se añade el Grupo 889 por el art. 70.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifican los Grupos 881 y 888 por el art. 72.1.11 y 12 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se suprime el Grupo 888 por el art. 75.1.49 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+### Agrupación 89
+
+Agrupación 89. Otros profesionales relacionados con los servicios a que se refiere esta división.
+Grupo 899. Otros profesionales relacionados con los servicios a que se refiere esta división.
+Cuota de: 19.044 pesetas. (114,46 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## [Notas comunes a la Sección Segunda]
+
+Notas comunes a la sección segunda:
+1.ª (Derogada)
+2.ª De conformidad con lo dispuesto en la base cuarta del artículo 86.1 de la Ley 39/1988, de 28 de diciembre, las cuotas consignadas en esta sección se completarán con la cantidad que resulte de aplicar el elemento tributario constituido por la superficie de los locales en los que se realicen las actividades profesionales, en los términos previstos en la Regla 14.ª1.F), de la Instrucción.
+3.ª Los servicios derivados de actividades clasificadas en esta Sección, que se presten exclusivamente y sin mediar contraprestación alguna, a fundaciones y entidades sin fines lucrativos a que se refiere la Ley 30/1994, de 24 de noviembre, de Fundaciones y de Incentivos Fiscales a la Participación Privada en Actividades de Interés General, tributarán por cuota cero.
+Se deroga la nota 1ª por la disposición derogatoria única.1.c) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se añade la nota 3ª por el art. 70.1.4 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Téngase en cuenta para su aplicación el art. 70.3.
+
+## SECCIÓN TERCERA
+
+ACTIVIDADES ARTÍSTICAS
+
+### Agrupación 01
+
+Agrupación 01. Actividades relacionadas con el cine, el teatro y el circo.
+Grupo 011. Directores de cine y teatro.
+Cuota de: 40.365 pesetas. (242,60 euros)
+Nota: Se encuentran también comprendidos en este grupo los directores artísticos y de escena.
+Grupo 012. Ayudantes de dirección.
+Cuota de: 20.183 pesetas. (121,30 euros)
+Grupo 013. Actores de cine y teatro.
+Cuota de: 30.015 pesetas. (180,39 euros)
+Nota: En este grupo se incluyen los actores, protagonistas o no, así como los actores de variedades y de doblaje.
+Grupo 014. Extras especializados, dobles, comparsas y meritorios.
+Cuota de: 17.595 pesetas. (105,75 euros)
+Grupo 015. Operadores de cámaras de cine, de televisión y vídeo.
+Cuota de: 20.493 pesetas. (123,17 euros)
+Grupo 016. Humoristas, caricatos, excéntricos, charlistas, recitadores, ilusionistas, etc.
+Cuota de: 18.837 pesetas. (113,21 euros)
+Grupo 017. Apuntadores y regidores.
+Cuota de: 16.974 pesetas. (102,02 euros)
+Grupo 018. Artistas de circo.
+Cuota de: 19.665 pesetas. (118,19 euros)
+Grupo 019. Otras actividades relacionadas con el cine, el teatro y el circo, n.c.o.p.
+Cuota de: 16.560 pesetas. (99,53 euros)
+Se modifica el grupo 016 por el art. 67.1.5 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.3.
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 02
+
+Agrupación 02. Actividades relacionadas con el baile.
+Grupo 021. Directores coreográficos.
+Cuota de: 34.673 pesetas. (208,39 euros)
+Grupo 022. Bailarines.
+Cuota de: 21.735 pesetas. (130,63 euros)
+Grupo 029. Otras actividades relacionadas con el baile, n.c.o.p.
+Cuota de: 16.560 pesetas. (99,53 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 03
+
+Agrupación 03. Actividades relacionadas con la música.
+Grupo 031. Maestros y Directores de música.
+Cuota de: 28.980 pesetas. (174,17 euros)
+Grupo 032. Intérpretes de instrumentos musicales.
+Cuota de: 21.735 pesetas. (130,63 euros)
+Grupo 033. Cantantes.
+Cuota de: 26.910 pesetas. (161,73 euros)
+Grupo 034. Compositores, letristas, arreglistas y adaptadores musicales.
+Cuota de: 100 euros.
+Grupo 039. Otras actividades relacionadas con la música, n.c.o.p.
+Cuota de: 16.560 pesetas. (99,53 euros)
+Se añade el Grupo 034 por el art. 70.5 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+ Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 04
+
+Agrupación 04. Actividades relacionadas con el deporte.
+Grupo 041. Jugadores y entrenadores de fútbol.
+Cuota de: 31.050 pesetas. (186,61 euros)
+Grupo 042. Jugadores, entrenadores y preparadores de tenis y de golf.
+Cuota de: 21.735 pesetas. (130,63 euros)
+Grupo 043. Pilotos, entrenadores y preparadores de motociclismo y automovilismo.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Grupo 044. Boxeadores, entrenadores y preparadores de boxeo.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Grupo 045. Jugadores, entrenadores y preparadores de baloncesto.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Grupo 046. Corredores, entrenadores y preparadores de ciclismo.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Grupo 047. Jugadores, entrenadores y preparadores de balonmano, voleibol, pelota y otros deportistas de la hípica, lucha, etc.
+Cuota de: 18.423 pesetas. (110,72 euros)
+Grupo 048. Árbitros de espectáculos deportivos.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Grupo 049. Otras actividades relacionadas con el deporte, n.c.o.p.
+Cuota de: 16.560 pesetas. (99,53 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Agrupación 05
+
+Agrupación 05. Actividades relacionadas con espectáculos taurinos.
+Grupo 051. Matadores de toros.
+Cuota de: 54.855 pesetas. (329,69 euros)
+Grupo 052. Rejoneadores.
+Cuota de: 30.015 pesetas. (180,39 euros)
+Grupo 053. Subalternos.
+Cuota de: 20.700 pesetas. (124,41 euros)
+Grupo 054. Jefes de cuadrillas cómicas y similares.
+Cuota de: 24.840 pesetas. (149,29 euros)
+Grupo 055. Otro personal de cuadrillas cómicas y simi­lares.
+Cuota de: 16.560 pesetas. (99,53 euros)
+Grupo 059. Otras actividades relacionadas con espec­táculos taurinos, n.c.o.p.
+Cuota de: 18.630 pesetas. (111,97 euros)
+Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+## ANEXO II
+
+Instrucción
+
+## CAPÍTULO PRIMERO
+
+Disposición general
+
+### Regla 1
+
+Regla 1.ª Contenido de las Tarifas
+Las Tarifas del Impuesto sobre Actividades Económicas comprenden:
+a) La descripción y contenido de las distintas actividades económicas, clasificadas en actividades empresariales, profesionales y artísticas.
+b) Las cuotas correspondientes a cada actividad, determinadas mediante la aplicación de los correspondientes elementos tributarios regulados en las Tarifas y en la presente Instrucción.
+
+## CAPÍTULO SEGUNDO
+
+Régimen de las actividades
+
+### Regla 2
+
+Regla 2.ª Ejercicio de las actividades gravadas
+El mero ejercicio de cualquier actividad económica especificada en las tarifas, así como el mero ejercicio de cualquier otra actividad de carácter empresarial, profesional o artístico no especificada en aquéllas, dará lugar a la obligación de presentar la correspondiente declaración de alta y de contribuir por este impuesto, salvo que en la presente Instrucción se disponga otra cosa.
+
+### Regla 3
+
+Regla 3.ª Concepto de las Actividades Económicas
+1. Tienen la consideración de actividades económicas cualesquiera actividades de carácter empresarial, profesional o artístico. A estos efectos se considera que una actividad se ejerce con carácter empresarial, profesional o artístico, cuando suponga la ordenación por cuenta propia de medios de producción y de recursos humanos o de uno de ambos, con la finalidad de intervenir en la producción o distribución de bienes o servicios.
+2. Tienen la consideración de actividades empresariales, a efectos de este Impuesto, las mineras, industriales, comerciales y de servicios, clasificadas en la sección 1.ª de las Ta­rifas.
+3. Tienen la consideración de actividades profesionales las clasificadas en la Sección 2.ª de las Tarifas, siempre que se ejerzan por personas físicas. Cuando una persona jurídica o una Entidad de las previstas en el artículo 33 de la Ley General Tributaria ejerza una actividad clasificada en la sección 2.ª de las Tarifas, deberá matricularse y tributar por la actividad correlativa o análoga de la Sección 1.ª de aquéllas.
+4. Tienen la consideración de actividades artísticas las clasificadas en la Sección 3.ª de las Tarifas.
+5. No tienen la consideración de actividad económica la utilización de medios de transporte propios ni la de reparación en talleres propios, siempre que a través de unos y otros no se presten servicios a terceros.
+
+### Regla 4
+
+Regla 4.ª Facultades
+1. Con carácter general, el pago de la cuota correspondiente a una actividad faculta, exclusivamente, para el ejercicio de esa actividad, salvo que en la Ley reguladora de este Impuesto, en las Tarifas o en la presente Instrucción se disponga otra cosa.
+2. No obstante lo anterior:
+A) El pago de las cuotas correspondientes al ejercicio de actividades mineras e industriales, clasificadas en las Divisiones 1 a 4 de la Sección 1.ª de las Tarifas, faculta para la venta al por mayor y al por menor, así como para la explotación de las materias, productos, subproductos y residuos, obtenidos como consecuencia de tales actividades.
+Asimismo, el pago de las cuotas a que se refiere el párrafo primero de esta letra faculta para la adquisición, tanto en territorio nacional como en el extranjero, de las materias primas necesarias para el desarrollo de las actividades correspondientes, siempre que las referidas materias primas se integren en el proceso productivo propio.
+Tratándose de actividades industriales, el pago de las cuotas correspondientes faculta para la extracción de las materias primas, siempre que estas materias primas se integren en el proceso productivo propio y tanto la actividad de extracción como la industrial se realicen dentro del mismo término municipal.
+Para el ejercicio de las actividades a que se refiere la presente letra, así como para el desarrollo de las facultades que en la misma se regulan, los sujetos pasivos podrán disponer de almacenes o depósitos cerrados al público. En todo caso, la superficie de los referidos almacenes o depósitos se compu­tará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+B) El pago de las cuotas correspondientes al ejercicio de actividades de construcción, clasificadas en la División 5 de la Sección 1.ª de las Tarifas, faculta para la adquisición, tanto en territorio nacional como en el extranjero, de las materias primas y de los artículos necesarios para el desarrollo de la actividad correspondiente.
+Para el ejercicio de las actividades a que se refiere la presente letra, así como para el desarrollo de las facultades que en la misma se regulan, los sujetos pasivos podrán disponer de almacenes o depósitos cerrados al público. En todo caso, la superficie de los referidos almacenes o depósitos se compu­tará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+C) El pago de las cuotas correspondientes al ejercicio de actividades de comercio al por mayor faculta para la venta al por menor, así como para la importación y exportación de las materias o productos objeto de aquéllas.
+A efectos del Impuesto sobre Actividades Económicas, se considera comercio al por mayor el realizado con:
+a) Los establecimientos y almacenes dedicados a la reventa para su surtido.
+b) Toda clase de empresas industriales, en relación con los elementos que deban ser integrados en sus procesos productivos, cualquiera que sea la forma que adopte el contrato. A estos efectos, se considerarán como tales empresas las que se dedican a producir, transformar o preparar alguna materia o producto con fines industriales.
+c) Las Fuerzas Armadas y la Marina Mercante, en todo caso.
+No obstante, el régimen de facultades de los sujetos pasivos clasificados en el epígrafe 618.1 será el establecido en las notas al referido epígrafe.
+Asimismo, para que el comercio se considere al por mayor bastará con que se ejecuten transacciones o remisiones, aunque sea sin disponer de almacén o establecimiento, o que se conserven las mercancías en poder de los proveedores o en almacén ajeno en calidad de depósito a la orden y voluntad del depositante.
+D) El pago de las cuotas correspondientes al ejercicio de actividades de comercio al por menor faculta para la importación de las materias o productos objeto de aquéllas.
+A efectos del Impuesto sobre Actividades Económicas se considera comercio al por menor el efectuado para el uso o consumo directo. Igual consideración tendrá el que con el mismo destino se realice sin almacén o establecimiento, siendo suficiente que se efectúen las transacciones o que se conserven las mercancías en poder de los proveedores, o en almacén ajeno en calidad de depósito a la orden y voluntad del depositante.
+Para el ejercicio de las actividades a las que se refiere la presente letra, así como para el desarrollo de las facultades que en la misma se regulan, los sujetos pasivos podrán disponer de almacenes o depósitos cerrados al público. En todo caso, la superficie de los referidos almacenes o depósitos se computará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+E) El pago de las cuotas correspondientes al ejercicio de actividades de prestación de servicios, en general, faculta para la adquisición, tanto en territorio nacional como en el extranjero, de las materias o productos necesarios para el ejercicio de aquéllas.
+Para el ejercicio de las actividades y facultades a que se refiere el párrafo anterior, los sujetos pasivos podrán disponer de almacenes o depósitos, cerrados al público. En todo caso, la superficie de los referidos almacenes o depósitos se compu­tará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+F) Los sujetos pasivos por prestación de servicios de hospedaje, podrán prestar, sin pago de cuota adicional alguna, servi­cios complementarios, tales como salones de peluquería y belleza, limpieza de ropa y calzado, garaje e instalaciones deportivas, cambio de moneda, venta de periódicos y postales, alquiler de instalaciones y elementos deportivos, etc., siempre que los mismos se exploten directamente por aquéllos y se destinen a uso exclusivo de los clientes del establecimiento. No obstante, se computará la superficie de los locales en los que se presten los referidos servicios a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+Cuando los servicios complementarios a que se refiere el párrafo anterior se presten al público en general, los sujetos pasivos deberán satisfacer el 50 por 100 de la cuota correspondiente a cada uno de ellos, aunque los exploten directamente.
+Cuando tales servicios complementarios se presten por personas o Entidades distintas del titular de la explotación hotelera, dichas personas o Entidades satisfarán el 100 por 100 de las cuotas correspondientes a los mismos, con independencia de que dichos servicios se presten con carácter exclusivo a los clientes del establecimiento hotelero, o al público en general.
+G) El pago de las cuotas correspondientes a las actividades de transporte faculta para la prestación de servicios auxiliares, tales como reserva de plazas y venta anticipada de billetes, servicios combinados de enlaces, facturación y despacho de mercancías, servicios de reclamaciones, etc.
+La superficie de los locales en que se presten los referidos servicios se computará a efectos de lo dispuesto en la letra F) del apartado 1 de la Regla 14.ª
+H) Cuando una misma zona portuaria se extienda sobre más de un término municipal, los sujetos pasivos que ejerzan en dicha zona actividades relacionadas con el tráfico portuario tributarán por cuota mínima municipal a aquel Ayuntamiento de los situados en la referida zona portuaria en el que radique su establecimiento principal, pudiendo ejercer la actividad, sin pago adicional de cuota alguna, en los restantes Municipios de la zona portuaria.
+Además, el pago de la cuota correspondiente a la actividad de consignación de buques faculta para realizar operaciones de carga y descarga del buque consignado, y a realizar las operaciones propias de la actividad naviera, dentro de los límites del apoderamiento cuando se asuma la representación de la empresa naviera.
+Si el consignatario de buques fuese al mismo tiempo consignatario o destinatario de las mercancías, estará obligado a tributar por la actividad de comercio que corresponda.
+I) El pago de las cuotas correspondientes a la prestación de servi­cios recreativos en discotecas y salas de baile faculta para el suministro de bebidas en dichos locales.
+J) Sin perjuicio de lo dispuesto en el apartado 4 de esta regla, cualquiera de las rúbricas de las Tarifas faculta a los sujetos pasivos para prestar a sus clientes, por cuenta de las entidades financieras cuya actividad esté clasificada en los grupos 811 y 812 de la sección primera de las Tarifas, el servicio combinado de retirada de efectivo y pago por los bienes o servicios adquiridos (servicio de “cashback”).
+3. A efectos del Impuesto sobre Actividades Económicas, la expresión «almacenes y depósitos» incluye los almacenes frigoríficos.
+4. El hecho de figurar inscrito en la Matrícula o de satisfacer el Impuesto sobre Actividades Económicas no legitima el ejercicio de una actividad si para ello se exige en las disposiciones vigentes el cumplimiento de otros requisitos.
+Se añade la letra J) al apartado 2 por el art. 74.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
+ Se modifica el apartado 2.A) por el art. 75.2 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+ Téngase en cuenta para su aplicación el art. 75.3.
+
+### Regla 5
+
+Regla 5.ª Lugar de realización de las actividades
+1. El Impuesto sobre Actividades Económicas grava el mero ejercicio en territorio nacional de actividades empresariales, profesionales y artísticas, se ejerzan o no en local determinado.
+2. El lugar de realización de las actividades empresariales será el siguiente:
+A) Cuando las actividades se ejerzan en local determinado, el lugar de realización de las mismas será el término municipal en el que el local esté situado.
+A estos efectos, se entiende que se ejercen en local determinado las actividades siguientes:
+a) Las actividades industriales, en general.
+b) Las actividades comerciales, en general, siempre que el sujeto pasivo disponga de establecimiento.
+c) Las actividades de prestación de servicios, en general, siempre que los mismos se presten efectivamente desde un establecimiento. A estos efectos, se considera que no se prestan en un establecimiento aquellos servicios en cuya prestación intervengan elementos materiales, tales como vehículos de tracción mecánica, ferrocarriles, barcos, aeronaves, autopistas, máquinas recreativas, contadores de agua, gas y electricidad, y aquellos otros que estén clasificados en las Tarifas como servicios que se prestan fuera de establecimiento permanente.
+Todas las actuaciones que lleven a cabo los titulares de las actividades a que se refiere esta letra A) se entienden realizadas en los locales correspondientes.
+B) Cuando las actividades no se ejerzan en local determinado, el lugar de realización de las mismas será el término municipal correspondiente, según las normas contenidas en esta letra.
+A estos efectos, se entiende que no se ejercen en local determinado las actividades siguientes:
+a) Las actividades mineras y las extractivas, en general, incluyendo la captación de agua; estas actividades se ejercen en el término municipal en el que radique el respectivo ya­cimiento o explotación.
+b) La actividad de producción de energía eléctrica; esta actividad se ejerce en el término municipal en el que radique la respectiva central.
+c) Las actividades de transporte y distribución de energía eléctrica, así como las de distribución de crudos de petróleo, gas natural, gas ciudad y vapor; estas actividades se ejercen en el término municipal cuyo vuelo, suelo o subsuelo esté ocupado por las respectivas redes de suministro, oleoductos, gasoductos, etc.
+Las actividades de distribución y tratamiento de agua para núcleos urbanos; estas actividades se ejercen en el término municipal en el que se distribuya el agua o estén situadas las plantas o instalaciones de tratamiento de la misma.
+d) Las actividades de construcción; estas actividades se ejercen en el término municipal en el que se realicen las ejecuciones de obra y las instalaciones y montajes.
+e) Las actividades de comercio, realizadas por sujetos pasivos que carezcan de establecimiento; estas actividades se ejercen en el término municipal en el que se celebren las operaciones correspondientes. De igual modo, se entiende que la actividad de venta por correo o catálogo se ejerce en el término municipal al que se destinen las mercancías objeto de tal comercio.
+f) Las actividades de prestación de servicios, cuando los mismos no se presten efectivamente desde un estable­cimiento. A estos efectos se considera que no se prestan desde un establecimiento aquellos servicios en cuya prestación intervengan elementos materiales, tales como vehículos de tracción mecánica, ferrocarriles, barcos, aeronaves, autopistas, máquinas recreativas, contadores de agua, gas y electricidad, y aquellos otros que estén clasificados en las Tarifas como servicios que se prestan fuera de establecimiento permanente; estas actividades se ejercen en el término municipal en el que se presten efectivamente los respectivos servicios.
+Tratándose de la actividad de alquiler o venta de bienes inmuebles, el lugar de realización de aquélla será el término municipal en el que radiquen los bienes objeto de la misma. Los sujetos pasivos por la actividad de alquiler de bienes inmuebles satisfarán:
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a vivienda, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza urbana destinados a locales industriales y otros alquileres, acumulando, a tal fin, los valores catastrales correspondientes a todos ellos; y,
+Una sola cuota por la totalidad de los bienes inmuebles de naturaleza rústica acumulando, a tal fin, los valores catastrales correspondientes a todos ellos.
+3. El lugar de realización de las actividades profesionales será:
+a) Cuando las actividades se ejerzan en local determinado, el término municipal en el que dicho local radique.
+b) Cuando la actividad no se realice en local determinado, el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
+4. El lugar de realización de las actividades artísticas será el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.
+Se modifica el párrafo segundo del apartado 2.B).f) por el art. 76.2.1 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+ Se modifica el apartado 2.B).c) por el art. 78.2.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Regla 6
+
+Regla 6.ª Concepto de local en el que se ejercen las actividades
+1. A los efectos del Impuesto sobre Actividades Eco­nómicas, se consideran locales las edificaciones, construcciones e instalaciones, así como las superficies, cubiertas o sin cubrir, abiertas o no al público, que se utilicen para cualesquiera actividades empresariales o profesionales.
+No tienen, sin embargo, la consideración de locales a efectos de este Impuesto:
+a) Las explotaciones en las que se ejerzan las actividades mineras. Cuando dentro del perímetro de la explotación minera, el sujeto pasivo realice actividades de preparación, u otras a que le faculten las Tarifas del Impuesto, las construcciones o instalaciones en las que las mismas se ejerzan, sí tendrán la consideración de locales.
+b) Las explotaciones en las que se ejerzan las actividades de extracción de petróleo, gas natural y captación de agua.
+c) Las centrales de producción de energía eléctrica.
+d) Las redes de suministro, oleoductos, gasoductos, etc., donde se ejercen las actividades de transporte y distribución de energía eléctrica (incluyendo las estaciones de transformación), así como las de distribución de crudos de petróleo, gas natural, gas ciudad y vapor. Tampoco tendrán la consideración de local las redes de suministro y demás instalaciones afectas a la distribución de agua a núcleos urbanos, ni las plantas e instalaciones de tratamiento de la misma.
+e) Las obras, instalaciones y montajes objeto de la actividad de construcción, incluyendo oficinas, barracones y demás construcciones temporales sitas a pie de obra y que se utilicen exclusivamente durante el tiempo de ejecución de la obra, instalación o montaje.
+f) Los inmuebles en los que se instalen los contadores de agua, gas y electricidad objeto de alquiler, lectura y conservación, a los solos efectos de dichas actividades y sin perjuicio de la consideración que puedan tener aquéllos a efectos de otras actividades.
+g) Los inmuebles en los que se instalen máquinas o aparatos automáticos, expositores en depósito, máquinas recreativas y similares, a los solos efectos de las actividades que se prestan o realizan a través de los referidos elementos, y sin perjuicio de la consideración que aquellos inmuebles puedan tener a efectos de otras actividades.
+h) Los bienes inmuebles, tanto de naturaleza rústica como urbana, objeto de las actividades de alquiler y venta de dichos bienes. Tampoco tendrán la consideración de locales las oficinas de información instaladas en los bienes inmuebles objeto de promoción inmobiliaria.
+i) Las autopistas, carreteras, puentes y túneles de peaje, cuya explotación constituya actividad gravada por el impuesto.
+j) Las pistas de aterrizaje, hangares y los puertos, excepto las construcciones.
+En consecuencia, las instalaciones especificadas en las letras anteriores, no se considerarán a efectos del elemento tributario de superficie regulado en la Regla 14.1.F) de la presente instrucción, ni tampoco a efectos del índice previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre.
+2. En particular, y a efectos de lo previsto en el apartado 2.A) de la Regla 5.ª de esta Instrucción, se consideran locales separados:
+a) Los que lo estuvieren por calles, caminos o paredes continuas, sin hueco de paso en éstas.
+b) Los situados en un mismo edificio o edificios contiguos que tengan puertas diferentes para el servicio del público y se hallen divididos en cualquier forma perceptible, aun cuando para su dueño se comuniquen interiormente.
+c) Los departamentos o secciones de un local único, cuando estando divididos en forma perceptible puedan ser fácilmente aislados y en ellos se ejerza distinta actividad.
+d) Los pisos de un edificio, tengan o no comunicación interior, salvo cuando en ellos se ejerza la misma actividad por un solo titular.
+e) Los puestos, cajones y compartimentos en las ferias, mercados o exposiciones permanentes, siempre que se hallen aislados o independientes para la colocación y venta de los géneros, aunque existan entradas y salidas comunes a todos ellos.
+La Administración tributaria podrá considerar también la existencia de locales separados cuando en un local único se ejerzan actividades que sean objeto por su titular de administración o contabilidad distinta.
+Cuando se trate de fabricantes que efectúen las fases de fabricación de un determinado producto en instalaciones no situadas dentro de un mismo recinto, pero que integren una unidad de explotación, se considerará el conjunto de todas como un solo local, siempre que dichas fases no constituyan por si actividad que tenga señalada en las Tarifas tributación independiente. Este criterio de unidad de local se aplicará también en aquellos casos en los que las instalaciones de un establecimiento de hospedaje, o deportivas, no estén ubicadas en el mismo recinto.
+3. Cuando un bien se destine conjuntamente a vivienda y al ejercicio de una actividad gravada, sólo tendrá la consideración de local a efectos del impuesto, la parte del bien en la que, efectivamente, se ejerza la actividad de que se trate.
+Se modifican los apartados 1 y 2 por el art. 78.2.2 a 4 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Regla 7
+
+Regla 7.ª Simultaneidad en el ejercicio de actividades de fabricación
+Cuando se ejerzan simultáneamente por un mismo sujeto pasivo distintas actividades de fabricación gravadas, incluidas en el mismo proceso de fabricación que el producto principal, bien por tratarse de la preparación u obtención de primeras materias o bien de productos intermedios, se satisfará la cuota más elevada de las que correspondan a dichas actividades, más el 50 % de las restantes, siempre que los referidos productos intermedios no sean objeto de venta. Si los productos intermedios fuesen objeto de venta, el sujeto pasivo satisfará el importe íntegro de todas las cuotas.
+A efectos de lo previsto en el párrafo anterior, se consideran productos intermedios, aquellos que pudiendo ser vendidos tal como se obtienen, por posibilidad del mercado, vienen a ser utilizados, sin embargo, totalmente como primera materia para una transformación ulterior en el mismo proceso.
+Lo dispuesto en el párrafo primero de esta Regla no es aplicable:
+a) Cuando se trate de producciones no incluidas en un mismo proceso de fabricación.
+b) Cuando se fabriquen productos diversos clasificados en el mismo epígrafe.
+c) Cuando los productos, aunque se integren en un mismo proceso, se fabriquen en locales distintos, pertenezcan o no al mismo sujeto pasivo.
+
+### Regla 8
+
+Regla 8.ª Tributación de las actividades no especificadas en las Tarifas
+Las actividades empresariales, profesionales y artísticas, no especificadas en las Tarifas, se clasificarán, provisionalmente, en el grupo o epígrafe dedicado a las actividades no clasificadas en otras partes (n.c.o.p.), a las que por su naturaleza se asemejen y tributarán por la cuota correspondiente al referido grupo o epígrafe de que se trate.
+Si la clasificación prevista en el párrafo anterior no fuera posible, las actividades no especificadas en las Tarifas se clasificarán, provisionalmente, en el grupo o epígrafe corres­pondiente a la actividad a la que por su naturaleza más se asemejen y tributarán por la cuota asignada a ésta.
+
+## CAPÍTULO TERCERO
+
+Régimen de las Cuotas
+
+### Regla 9
+
+Regla 9.ª Clases de cuotas
+Las cuotas contenidas en las Tarifas se clasifican en:
+a) Cuotas mínimas municipales,
+b) Cuotas provinciales, y
+c) Cuotas nacionales.
+
+### Regla 10
+
+Regla 10.ª Cuotas mínimas municipales
+1. Son cuotas mínimas municipales, las que con tal denominación aparecen específicamente señaladas en las Tarifas, sumando, en su caso, el elemento superficie de los locales en los que se realicen las actividades gravadas, así como cualesquiera otras que no tengan la calificación expresa, en las referidas Tarifas, de cuotas provinciales o nacionales.
+Igual consideración de cuotas mínimas municipales tendrán aquéllas que, por aplicación de lo dispuesto en la Regla 14.ª1.F), su importe está intagrado, exclusivamente, por el valor del elemento tributario de superficie.
+2. El pago de las cuotas mínimas municipales faculta para el ejercicio de las actividades correspondientes en el término municipal en el que aquél tenga lugar, de conformidad con lo previsto en la Regla 5.ª de esta Instrucción.
+3. Si una misma actividad se ejerce en varios locales, el sujeto pasivo estará obligado a satisfacer tantas cuotas mínimas municipales, incrementadas, en su caso, con los coeficientes previstos en los artículos 88 y 89 de la Ley 39/1988, cuantos locales en los que ejerza la actividad. Si en un mismo local se ejercen varias actividades, se satisfarán tantas cuotas mínimas municipales cuantas actividades se realicen, aunque el titular de éstas sea la misma persona o Entidad.
+4. Las actuaciones que realicen los profesionales fuera del término municipal en el que radique el local en el que ejerzan su actividad, no darán lugar al pago de ninguna otra cuota, ni mínima municipal ni provincial ni nacional.
+5. Los profesionales que no ejerzan su actividad en local determinado y los artistas satisfarán la cuota correspondiente al lugar en el que realicen sus actividades, pudiendo llevar a cabo, fuera del mismo, cuantas actuaciones sean propias de dichas actividades.
+
+### Regla 11
+
+Regla 11.ª Cuotas provinciales
+1. Son cuotas provinciales las que con tal denominación aparecen expresamente señaladas en las Tarifas.
+2. El pago de las cuotas provinciales faculta para el ejercicio de las actividades correspondientes en el ámbito territorial de la Provincia de que se trate, sin necesidad de satisfacer cuota mínima municipal alguna.
+3. Los sujetos pasivos que ejerzan en una isla de los archipiélagos canario o balear actividades que tengan asignada cuota provincial, y cuando tributen por dicha cuota, satisfarán únicamente el 50 por 100 del importe de la cuota provincial asignada a la actividad de que se trate.
+Se añade el apartado 3 por el art. 76.2.2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967.
+
+### Regla 12
+
+Regla 12.ª Cuotas nacionales
+1. Son cuotas nacionales las que con tal denominación aparecen expresamente señaladas en las Tarifas.
+2. El pago de las cuotas nacionales faculta para el ejercicio de las actividades correspondientes en todo el territorio nacional, sin necesidad de satisfacer cuota mínima municipal o provincial alguna.
+
+### Regla 13
+
+Regla 13.ª Tributación por cuota mínima municipal provincial o nacional
+Cuando la actividad de que se trate tenga asignada más de una de las clases de cuotas a que se refiere la Regla 9.ª, el sujeto pasivo podrá optar por el pago de cualquiera de ellas, con las facultades reseñadas en las Reglas 10.ª, 11.ª y 12.ª, respectivamente.
+
+### Regla 14
+
+Regla 14.ª Elementos tributarios
+1. A efectos de lo previsto en la Regla 1.ª b), se consideran elementos tributarios aquellos módulos indiciarios de la actividad, configurados por las Tarifas, o por la presente Regla, para la determinación de las cuotas. A continuación se exponen los principales elementos tributarios:
+A) Potencia instalada.
+Se considera potencia instalada tributable la resultante de la suma de las potencias nominales, según las normas tipificadas, de los elementos energéticos afectos al equipo industrial, de naturaleza eléctrica o mecánica.
+No serán, por tanto, computables las potencias de los elementos dedicados a calefacción, iluminación, acondicionamiento de aire, instalaciones anticontaminantes, ascensores de personal, servicios sociales, sanitarios y, en general, todos aquellos que no estén directamente afectos a la producción, incluyendo los destinados a transformación y rectificación de energía eléctrica.
+Tampoco se considerarán a estos efectos los hornos y calderas que funcionen a base de combustibles sólidos, líquidos o gaseosos, ni los hornos y calderas eléctricos.
+La potencia fiscal en función de la cual se obtendrán las cuotas de la industria será el resultado matemático de reducir a kilovatios la totalidad de la potencia instalada computable, utilizando, en su caso, la equivalencia 1 CV = 0,736 kW.
+La potencia instalada en bancos de pruebas, plataformas de ensayo y similares se computará por el 10 por 100 de la potencia real instalada.
+Los equipos de reserva de las instalaciones fabriles no constituyen elemento tributario cuando se declaren como tales a la Administración tributaria.
+B) Número de obreros.
+Se considera número de obreros el que constituya la plantilla total de profesionales de oficio, especialistas y peones afectos directamente a la producción objeto de la empresa.
+No se computarán, por tanto, en dicho número, a título enunciativo y no exhaustivo, al personal directivo, técnico administrativo, comercial, de reparto, conductores, vigilantes, ordenanzas, aprendices y pinches, con un límite máximo para estas dos últimas categorías del 15 por 100 del total de obreros computables.
+Cuando existan obreros que trabajen en la fábrica y otros en su domicilio por cuenta de aquélla, el cómputo se establecerá para estos últimos mediante equivalencia con obreros de plantilla. A estos efectos se calculará un suplemento igual al cociente entero por defecto que resulte de dividir el valor económico incorporado correspondiente a la mano de obra aplicada a domicilio por el jornal unitario anual medio ponderado de la especialidad de que se trate, incluidas las cantidades complementarias que legalmente pudieran corresponderle.
+Los obreros eventuales se computarán también por equivalencia con los fijos, tomando el cociente entero por defecto que resulte de dividir la suma de las jornadas trabajadas por ellos, por el total de días laborables al año.
+C) Turnos de trabajo diarios.
+Las cuotas del Impuesto facultan para el ejercicio de la actividad, cualesquiera que sean el número de turnos de trabajo.
+D) Población de derecho.
+La población de derecho del municipio está constituida por el total de los residentes inscritos en el Padrón Municipal de Habitantes, presentes y ausentes. La condición de residentes se adquiere en el momento de realizar tal inscripción.
+E) Aforo de locales de espectáculos.
+La capacidad de la sala o recinto donde se celebran los espectáculos se fijará mediante el cómputo de las localidades de que conste cuando estén numeradas.
+En los espectáculos dotados de asientos corridos o localidades de pie distribuidas por filas, sin numerar, se estimará un asiento o localidad por cada 50 centímetros de longitud.
+F) Superficie de los locales.
+a) A efectos de la aplicación del elemento superficie a que se refiere la nota común de la Sección 1.ª y la segunda nota común de la Sección 2.ª de las Tarifas, se entiende por locales en los que se ejercen las actividades gravadas los definidos como tales en la Regla 6.ª de la presente Instrucción.
+b) A tal fin, se tomará como superficie de los locales la total comprendida dentro del polígono de los mismos, expresada en metros cuadrados y, en su caso, por la suma de la de todas sus plantas.
+No obstante lo previsto en el párrafo anterior, sólo se tomará como superficie:
+1.º El 20 por 100 de la superficie no construida o descubierta y que se dedique a depósitos de materias primas o de productos de cualquier clase, secaderos al aire libre, depósitos de agua y, en general, a cualquier aspecto de la actividad de que se trate. No obstante lo anterior, tratándose de instalaciones deportivas directamente afectas a actividades gravadas, o a algún aspecto de éstas, sólo se computará el 5 por 100 de su superficie, excepto la ocupada por gradas, graderíos y demás instalaciones permanentes destinadas a la ubicación del público asistente a los espectáculos deportivos, de la cual se computará el 20 por 100.
+En consecuencia, no se computará, a ningún efecto, la superficie no construida o descubierta en la que no se realice directamente la actividad de que se trate, o algún aspecto de ésta, tal como la destinada a viales, jardines, zonas de seguridad, aparcamientos, etc.
+2.º El 40 por ciento de la superficie utilizada para actividades de temporada mediante la ocupación de la vía pública con puestos y similares.
+En aquellas actividades para las que las Tarifas prevean una reducción en la cuota correspondiente a su epígrafe o grupo mediante la aplicación de un porcentaje sobre la misma, por permanecer abierto el establecimiento durante un periodo inferior al año, dicho porcentaje será de aplicación también a la superficie de los locales.
+3.º El 10 por 100 de la superficie cubierta o construida de toda clase de instalaciones deportivas y locales dedicados a espectáculos cinematográficos, teatrales y análogos, excepto la ocupada por gradas, graderíos y asientos y demás instalaciones permanentes destinadas a la ubicación del público asistente a los espectáculos deportivos, cinematográficos, teatrales y análogos de la cual se computará el 50 por 100.
+4.º El 50 por 100 de la superficie de los locales destinados a la enseñanza en todos sus grados, cuando la actividad no esté exenta.
+5.º El 55 por 100 de la superficie de los almacenes y depósitos de todas clases.
+6.º El 55 por 100 de la superficie de los aparcamientos cubiertos.
+c) Del número total de metros cuadrados que resulte de aplicar las normas contenidas en la letra b) anterior, se deducirá, en todo caso, el 5 por 100 en concepto de zonas destinadas a huecos, comedores de empresa, ascensores, escaleras y demás elementos no directamente afectos a la actividad gravada.
+Tratándose de la actividad de hospedaje, la deducción a que se refiere el párrafo anterior será del 40 por ciento, si bien dicha deducción se aplicará, exclusivamente, sobre el número total de metros cuadrados de superficie construida destinada directamente a la referida actividad principal de hospedaje.
+d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros:
+1.º Cuadro I: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades clasificadas en las Divisiones 1 a 6 y 9 de la Sección 1.ª de las Tarifas, y en la Sección 2.ª de las mismas.
+(Pesetas por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de500.000habitantes
+ De 100.001 a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000 hbts.
+ De 0 a 500 m2
+ 120
+ 84
+ 55
+ 34
+ 17
+ 7
+ De 500,1 a 3.000 m2
+ 93
+ 65
+ 42
+ 25
+ 13
+ 6
+ De 3.000,1 a 6.000 m2
+ 74
+ 52
+ 35
+ 21
+ 11
+ 5
+ De 6.000,1 a 10.000 m2
+ 64
+ 45
+ 29
+ 18
+ 10
+ 5
+ Exceso de 10.000 m2
+ 55
+ 39
+ 25
+ 15
+ 8
+ 4
+(Euros por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de500.000habitantes
+ De 100.001 a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000 hbts.
+ De 0 a 500 m2
+ 0,721215
+ 0,504850
+ 0,330557
+ 0,204344
+ 0,102172
+ 0,042071
+ De 500,1 a 3.000 m2
+ 0,558941
+ 0,390658
+ 0,252425
+ 0,150253
+ 0,078132
+ 0,036061
+ De 3.000,1 a 6.000 m2
+ 0,444749
+ 0,312526
+ 0,210354
+ 0,126213
+ 0,066111
+ 0,030051
+ De 6.000,1 a 10.000 m2
+ 0,384648
+ 0,270455
+ 0,174294
+ 0,108182
+ 0,060101
+ 0,030051
+ Exceso de 10.000 m2
+ 0,330557
+ 0,234395
+ 0,150253
+ 0,090152
+ 0,048081
+ 0,024040
+2.º Cuadro II: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de transporte y comunicaciones clasificadas en la División 7 de la Sección 1.ª de las Tarifas.
+(Pesetas por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de 500.000 habitantes
+ De 100.001 a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000hbts.
+ De 0 a 500 m2
+ 90
+ 63
+ 41
+ 24
+ 13
+ 6
+ De 500,1 a 3.000 m2
+ 69
+ 48
+ 32
+ 19
+ 10
+ 5
+ De 3.000,1 a 6.000 m2
+ 56
+ 40
+ 26
+ 16
+ 9
+ 4
+ De 6.000,1 a 10.000 m2
+ 48
+ 34
+ 22
+ 14
+ 8
+ 4
+ Exceso de 10.000 m2
+ 43
+ 31
+ 20
+ 12
+ 7
+ 3
+(Euros por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de 500.000 habitantes
+ De 100.001 a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000hbts.
+ De 0 a 500 m2
+ 0,540911
+ 0,378638
+ 0,246415
+ 0,144243
+ 0,078132
+ 0,036061
+ De 500,1 a 3.000 m2
+ 0,414698
+ 0,288486
+ 0,192324
+ 0,114192
+ 0,060101
+ 0,030051
+ De 3.000,1 a 6.000 m2
+ 0,336567
+ 0,240405
+ 0,156263
+ 0,096162
+ 0,054091
+ 0,024040
+ De 6.000,1 a 10.000 m2
+ 0,288486
+ 0,204344
+ 0,132223
+ 0,084142
+ 0,048081
+ 0,024040
+ Exceso de 10.000 m2
+ 0,258435
+ 0,186314
+ 0,120202
+ 0,072121
+ 0,042071
+ 0,018030
+3.º Cuadro III: Este cuadro se aplicará para calcular el valor de la superficie de los locales en los que se ejerzan las actividades de instituciones financieras, seguros, servicios prestados a las empresas y alquileres clasificados en la División 8 de la Sección 1.ª de las Tarifas.
+(Pesetas por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de 500.000 habitantes
+ De 100.001a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000hbts.
+ De 0 a 500 m2
+ 284
+ 199
+ 130
+ 78
+ 40
+ 16
+ De 500,1 a 3.000 m2
+ 218
+ 153
+ 100
+ 61
+ 31
+ 13
+ De 3.000,1 a 6.000 m2
+ 174
+ 123
+ 80
+ 48
+ 24
+ 10
+ 6.000,1 a 10.000 m2
+ 149
+ 104
+ 68
+ 41
+ 21
+ 9
+ Exceso de 10.000 m2
+ 128
+ 90
+ 58
+ 36
+ 18
+ 8
+(Euros por metro cuadrado)
+Superficie del local
+ Población de derecho
+ Más de 500.000 habitantes
+ De 100.001a 500.000 hbts.
+ De 50.001 a 100.000 hbts.
+ De 20.001 a 50.000 hbts.
+ De 5.001 a 20.000 hbts.
+ Menos de 5.000hbts.
+ De 0 a 500 m2
+ 1,706874
+ 1,196014
+ 0,781316
+ 0,468789
+ 0,240405
+ 0,096162
+ De 500,1 a 3.000 m2
+ 1,310206
+ 0,919549
+ 0,601012
+ 0,366617
+ 0,186314
+ 0,078132
+ De 3.000,1 a 6.000 m2
+ 1,045761
+ 0,739245
+ 0,480810
+ 0,288486
+ 0,144243
+ 0,060101
+ 6.000,1 a 10.000 m2
+ 0,895508
+ 0,625053
+ 0,408688
+ 0,246415
+ 0,126213
+ 0,054091
+ Exceso de 10.000 m2
+ 0,769295
+ 0,540911
+ 0,348587
+ 0,216364
+ 0,108182
+ 0,048081
+El importe total del valor del elemento superficie será el resultante de sumar, en su caso, los valores parciales correspondientes a cada tramo de superficie del local, calculándose dichos valores parciales mediante la multiplicación del número de metros cuadrados a computar en cada tramo por el número de pesetas asignadas a los mismos en función de la población de derecho del Municipio en el que esté situado el local.
+e) El importe total del valor del elemento superficie, resultante de la aplicación de los cuadros contenidos en la letra d) anterior, se ponderará mediante la aplicación del coeficiente corrector que corresponda según el siguiente cuadro, en función del tipo de actividad que ejerza el sujeto pasivo y el importe de la cuota que resulte para éste de la aplicación de las Tarifas antes de considerar el elemento superficie:
+Coeficientes correctores a aplicar según cuantía de la cuota y naturaleza de la actividad
+Tramos de cuota
+ Sección 1.ª: Divisiones 1 a 7 y 9.
+ Sección 2.ª
+ Sección 1.ª: División 8
+ De 6.210 a 103.500 pts.
+ 1,0
+ 0,5
+ De 103.501 a 207.000 pts.
+ 1,5
+ 0,5
+ De 207.001 a 517.500 pts.
+ 2,0
+ 1,0
+ De 517.501 a 1.035.000 pts.
+ 2,5
+ 1,5
+ Más de 1.035.000 pts.
+ 3,0
+ 2,0
+Tramos de cuota
+ Euros
+ Sección 1.ª: Divisiones 1 a 7 y 9.
+ Sección 2.ª
+ Sección 1.ª: División 8
+ De 37,32 a 622,05
+ 1,0
+ 0,5
+ De 622,06 a 1.244,10
+ 1,5
+ 0,5
+ De 1.244,11 a 3.110,24
+ 2,0
+ 1,0
+ De 3.110,25 a 6.220,48
+ 2,5
+ 1,5
+ Más de 6.220,48
+ 3,0
+ 2,0
+f) Cuando en un mismo local se ejerza más de una actividad, por el mismo sujeto pasivo o por sujetos pasivos distintos, se imputará a cada una de ellas la superficie utilizada directamente, más la parte proporcional que corresponda del resto del local ocupada en común. Cuando lo anterior no fuere posible, se imputará a cada actividad el número de metros cuadrados que resulte de dividir la superficie total del local entre el número de dichas actividades.
+g) Para calcular las cuotas provinciales y nacionales se tomará en cuenta, en todo caso, el valor del elemento superficie de todos los locales directa o indirectamente afectos a la actividad de que se trate.
+Para calcular dicho valor se agregarán todos los metros cuadrados de superficie computable según las normas contenidas en las letras a), b) y c) anteriores, y se aplicará el cuadro siguiente:
+Cuotas provinciales y nacionales
+De 0 a 500 m2
+ 389 pesetas (2,337937 euros)
+ De 500,1 a 3.000 m2
+ 285 pesetas (1,712884 euros)
+ De 3.000,1 a 6.000 m2
+ 233 pesetas (1,400358 euros)
+ De 6.000,1 a 10.000 m2
+ 192 pesetas (1,153943 euros)
+ Exceso de 10.000 m2
+ 166 pesetas (0,997680 euro)
+h)Los locales en los que los sujetos pasivos por cuota mínima municipal no ejerzan directamente sus actividades respectivas, tales como centros de dirección, oficinas administrativas, centros de cálculo, almacenes o depósitos para los que se esté facultado, etc., tributarán cada uno de ellos por una cuota mínima de las previstas en el párrafo segundo de apartado 1 de la Regla 10.ª Dicha cuota mínima estará integrada, exclusivamente, por el importe que resulte de aplicar el cuadro que corresponda de los contenidos en la letra d) anterior, sin que proceda ponderar dicho importe por aplicación del coeficiente resultante del cuadro contenido en la letra e).
+i) Cuando se tribute por cuota mínima municipal, en Municipios en los que no estuviere establecido el Impuesto Municipal sobre la Radicación a 31 de diciembre de 1991, la parte de la cuota correspondiente al elemento tributario superficie de los locales se reducirá aplicando los siguientes porcentajes:
+a) Durante 1992, el 80 % de reducción.
+b) Durante 1993, el 60 % de reducción.
+c) Durante 1994, el 40 % de reducción.
+d) Durante 1995, el 20 % de reducción.
+j) El elemento tributario regulado en esta letra F), no se aplicará en la determinación de aquellas cuotas para cuyo cálculo las tarifas del impuesto hayan tenido en cuenta expresamente, como elemento tributario, la superficie de los locales, computada en metros cuadrados, en los que se ejercen las actividades correspondientes.
+En consecuencia con lo anterior, la mención a los metros cuadrados contenida en la descripción de determinadas rúbricas de las tarifas, tal y como sucede por ejemplo en el caso de los Epígrafes 647.2, 647.3 y 647.4 de la Sección 1.ª de las tarifas, se entiende realizada, exclusivamente, a efectos de la definición y clasificación de las actividades contenidas en las mismas, sin que, en ningún caso, deba considerarse la expresada mención a los metros cuadrados como elemento tributario configurador de la cuota correspondiente, no siendo en estos casos de aplicación lo dispuesto en el párrafo anterior.
+2. Normas generales de aplicación de los elementos tributarios.
+Las oscilaciones en más o en menos no superiores al 20 por 100 de los elementos tributarios, no alterarán la cuantía de las cuotas por las que se venga tributando. Cuando las oscilaciones de referencia fuesen superiores al porcentaje indicado, las mismas tendrán la consideración de variaciones a efectos de lo dispuesto en el párrafo segundo del artículo 91.2 de la Ley 39/1988, de 28 de diciembre.
+Tratándose del elemento tributario constituido por el número de obreros, y en relación a las oscilaciones en más de su número, las Ordenanzas fiscales podrán aumentar el límite máximo del 20 por 100 a que se refiere el párrafo primero de este apartado hasta el 50 por 100.
+3. Sectores declarados en crisis.
+Para los sectores declarados en crisis para los que se apruebe la reconversión de sus planes de trabajo, se modifica su tributación por el Impuesto, con objeto de atemperarla a su nuevo ritmo de funcionamiento, para lo cual se seguirán las siguientes normas en la determinación de sus elementos tributarios:
+a) El número de obreros sujetos a la cuota de tarifa se obtendrá multiplicando el número realmente existente de ellos en plantilla por el cociente de dividir las horas efectivamente trabajadas de un año por las que resultarían de una jornada normal de trabajo en igual período de tiempo.
+b) En cuanto a los kilovatios de potencia instalada sujetos a tributar se sustituyen por los kilovatios de potencia media «consumida», obtenida al dividir el consumo anual kilovatios-hora por las horas efectivamente trabajadas.
+c) A los efectos de aplicar las letras anteriores se tomarán los datos referentes al ejercicio anterior como base del cálculo para determinar los elementos tributarios a regir durante un determinado año.
+4. Paralización de industrias.
+Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
+No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+5. Actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año.
+En las actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año, la presentación de la declaración de baja en la actividad será incompatible con la aplicación de las reducciones en la cuota previstas para tales supuestos en las Tarifas y en el apartado 1.F).b).2.º de la presente regla.
+Se modifica la letra A) del apartado 1 por el art. 43 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a4-5
+ Se deja sin efecto la modificación del apartado 1.A) por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
+ Se modifica el apartado 1.A) por el art. 23 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a2-5
+ Se modifica el apartado 1.F).b).2 y se añade el apartado 5, con efectos desde el 1 de enero de 2013, por el art. 15.2 y 3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Véase, a efectos de la determinación del elemento tributario "superficie de los locales", la disposición adicional 4.f) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+ Se modifica el apartado 1.F).j) por el art. 70.2 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785.
+ Téngase en cuenta para su aplicación el art. 70.3.
+ Se modifica el apartado 2 por el art. 21.4 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155. y el apartado 1.F).e) por el art. 68.2 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154.
+ Redactado el apartado 1.F).e) conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373.
+ Se modifica el apartado 1.F).b).3 por el art. 67.2.1.1 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Se incrementan en un 3,5 por 100 los valores consignados en el apartado 1.F.d) y g) por el art. 26.1.b) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Se modifica el apartado 1.F).b).1 y 3 por el art. 72.2 de la Ley 21/1993, de 29 de diciembre. Ref. BOE-A-1993-31087.
+ Se suprime el párrafo segundo del apartado 1.F).h) por el art. 78.2.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+
+### Regla 15
+
+Regla 15.ª Tributación por cuota cero
+1. Cuando de la aplicación de las Tarifas resulte cuota cero, los sujetos pasivos no satisfarán cantidad alguna por el impuesto ni estarán obligados a formular declaración alguna.
+2. La Administración del Estado podrá declarar la tributación por cuota cero de aquellas actividades o modalidades de las mismas que, por su escaso rendimiento económico, no deban satisfacer cantidad alguna por el impuesto. En estos casos, los sujetos pasivos tampoco estarán obligados a formular declaración alguna.
+3. No obstante lo dispuesto en los apartados anteriores, las agrupaciones y uniones temporales de empresas clasificadas en el Grupo 508 de la Sección 1.ª de las Tarifas deberán darse de alta en la Matrícula.
+
+### Regla 16
+
+Regla 16.ª Importe mínimo de las cuotas
+Salvo lo previsto en la Regla anterior, el importe mínimo de las cuotas será de 6.210 pesetas. (37,32 euros)
+Se modifica por el art. 26.1.c) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+ Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+### Regla 17
+
+Regla 17.ª Exacción y distribución de cuotas
+Uno. Exacción y distribución de cuotas mínimas municipales.
+1. La exacción de las cuotas mínimas municipales se llevará a cabo por el Ayuntamiento en cuyo término municipal tenga lugar la realización de las respectivas actividades.
+2. Cuando los locales o las instalaciones que no tienen consideración de tal a que se refiere el párrafo segundo de la regla 6.ª, 1 de la presente Instrucción, radiquen en más de un término municipal, la cuota correspondiente será exigida por el Ayuntamiento en el que radique la mayor parte de aquéllos, sin perjuicio de la obligación de aquél de distribuir entre todos los demás el importe de dicha cuota, en proporción a la superficie que en cada término municipal ocupe la instalación o local de que se trate, en los términos siguientes:
+A) En concreto, será objeto de distribución el importe de la cuota municipal de tarifa, el cual no incluye la cantidad que resulte de aplicar, en su caso, el coeficiente único, el índice de situación o el recargo provincial, regulados respectivamente, en los artículos 88, 89 y 124 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+B) Se considerarán municipios afectados aquellos en los que radique parte de la instalación o local en el que se desarrolle la actividad correspondiente a la cuota objeto de distribución.
+C) Con carácter general, las cuotas a que se refiere la letra A) anterior se distribuirán en proporción a la superficie que en cada término municipal ocupe la instalación o local de que se trate. A estos efectos se tomará como superficie de los locales o instalaciones la total comprendida dentro del polígono de las mismas, expresada en metros cuadrados y, en su caso, por la suma de todas sus plantas.
+D) En particular, y tratándose de centrales hidráulicas de producción de energía eléctrica, las cuotas correspondientes definidas en la letra A) anterior, se distribuirán con arreglo a los criterios siguientes:
+a) El 50 por 100 de su importe entre los municipios en cuyo término radiquen las instalaciones de la central, sin incluir el embalse, en proporción a la superficie que en cada uno de ellos ocupen dichas instalaciones. A estos efectos se entenderá por superficie la definida en la letra C) anterior.
+b) El 50 por 100 restante, entre los municipios sobre cuyo término se extienda el embalse, en proporción a la superficie que en cada uno de ellos ocupe dicho embalse.
+3. Tratándose de la actividad de producción de energía eléctrica en centrales nucleares, la cuota correspondiente se exigirá por el Ayuntamiento en el que radique la central, o por aquel en el que radique la mayor parte de ella. En ambos casos, dicha cuota será distribuida entre todos los municipios afectados por la central, aunque en los mismos no radiquen instalaciones o edificios afectos a la misma en los términos siguientes:
+A) En concreto, será objeto de distribución el importe de la cuota municipal de tarifa, el cual no incluye la cantidad que resulte de aplicar, en su caso, el coeficiente único o el recargo provincial, regulados, respectivamente, en los artículos 88, y 124 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+B) Se considerarán municipios afectados por una central nuclear aquéllos en cuyo término respectivo radique el todo o una parte de las instalaciones de la misma, así como aquellos otros en los que no concurriendo la circunstancia anterior, tengan parte o todo su término municipal en un área circular de 10 kilómetros de radio con centro en la instalación.
+C) Las cuotas a que se refiere la letra A) anterior se distribuirán con arreglo a los criterios siguientes:
+a) El 66 por 100 en función de la ubicación de las instalaciones, con arreglo a los porcentajes siguientes:
+El 66 por 100 en función de la superficie de cada término municipal comprendida en la zona bajo el control del explotador definida administrativamente.
+El 34 por 100 en función de la superficie de cada término municipal en la que se ubiquen instalaciones especiales, tales como parques de distribución eléctrica y embalses artificiales de refrigeración, que se encuentren fuera de la zona bajo control del explotador.
+b) El 34 por ciento restante en función de la ubicación en el área circular de diez kilómetros de radio con centro en la instalación nuclear, y con arreglo a los porcentajes siguientes:
+El 50 por ciento en función de la superficie de cada término municipal comprendida en el área circular de referencia.
+El 50 por ciento en función de la población de derecho de cada municipio comprendida en el área circular. A estos efectos se entenderá por población de derecho la definida en la Regla 14.ª 1.D) de esta Instrucción.
+4. Las cuotas municipales correspondientes a actividades que se desarrollen en zonas portuarias que se extiendan sobre más de un término municipal serán distribuidas por el Ayuntamiento exactor entre todos los municipios sobre los que se extienda la zona portuaria de que se trate en los términos siguientes:
+A) En concreto, será objeto de distribución el importe de la cuota municipal de tarifa, el cual no incluye la cantidad que resulte de aplicar, en su caso, el coeficiente único, el índice de situación o el recargo provincial, regulados, respectivamente, en los artículos 88, 89 y 124 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+B) Se considerarán municipios afectados aquellos ocupados en parte o en todo por la zona portuaria de que se trate.
+C) Las cuotas a que se refiere la letra A) anterior se distribuirán en proporción a la superficie del término municipal ocupada por la zona portuaria.
+5. Para la distribución de las cuotas municipales a que se refiere este apartado uno se aplicarán las siguientes reglas:
+A) La distribución se realizará por acuerdo del Presidente de la Corporación Municipal exactora del impuesto o, en su caso, por el órgano competente de la entidad que tenga atribuida la gestión recaudatoria en el municipio exactor.
+B) Para la adopción del acuerdo de distribución de cuotas, se podrá recabar de los sujetos pasivos, de los municipios afectados y de cualesquiera otras personas o entidades cuanta información y documentación sea precisa en orden a tal adopción, siempre y cuando dicha información y documentación no resulte de las declaraciones de alta, variación y baja que deben presentar los sujetos pasivos de conformidad con lo establecido en los artículos 5, 6 y 7 del Real Decreto 243/1995, de 17 de febrero, por el que se dictan normas para la gestión del Impuesto sobre Actividades Económicas y se regula la delegación de competencias en materia de gestión censal de dicho impuesto.
+C) En el acuerdo de distribución se harán constar expresamente todos los elementos, criterios y circunstancias que sirvan de fundamento a la distribución objeto del mismo.
+D) El acuerdo de distribución será notificado a los municipios afectados dentro del plazo de los quince días hábiles siguientes a la fecha de su adopción.
+E) La distribución de las cuotas se hará efectiva en los plazos siguientes:
+a) El importe recaudado por recibo en período voluntario dentro de los dos meses siguientes a aquél en que finalice dicho período de recaudación en el municipio exactor de las cuotas. A este importe se sumará el de las cantidades, pendientes de distribución, recaudadas hasta la fecha de finalización de dicho período voluntario, como consecuencia de declaraciones de alta, de inclusiones de oficio, de actuaciones de comprobación e investigación y de actuaciones en vía de apremio.
+b) Las cantidades recaudadas en el semestre natural inmediatamente posterior al mes en que finalice el período voluntario a que se refiere el párrafo a) anterior, como consecuencia de declaraciones de alta, inclusiones de oficio, actuaciones de comprobación e investigación y actuaciones en vía de apremio, dentro de los dos meses siguientes al referido semestre.
+Dos. Exacción y distribución de cuotas provinciales.
+1. La exacción de las cuotas provinciales se llevará a cabo por la Delegación Provincial de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial tenga lugar la realización de las actividades correspondientes.
+2. El importe de dichas cuotas será distribuido por la Delegación de la Agencia Estatal exactora entre todos los municipios de la provincia y la Diputación Provincial correspondiente, en los términos siguientes:
+A) De dicho importe el 80 por 100 corresponderá a los municipios enclavados en la demarcación provincial, y el 20 por 100 restante a la Diputación Provincial respectiva.
+B) A su vez, el 80 por 100 de la recaudación a que se refiere el apartado anterior, se distribuirá entre los municipios de la provincia con arreglo a los criterios siguientes:
+a) Una tercera parte en función de la población de derecho del municipio, entendida ésta en los términos señalados en la regla 14.ª, 1, D) de la presente Instrucción.
+b) Una tercera parte en función del número de sujetos pasivos por cuota municipal que consten en la matrícula de cada municipio correspondiente al año de que se trate.
+c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en la matrícula de cada municipio correspondiente al año de que se trate. Por consiguiente, no se computará el importe que, en su caso, resulte por aplicación del coeficiente único, del índice de la situación o del recargo provincial, regulados, respectivamente, en los artículos 88, 89 y 124 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.
+C) La distribución de cuotas a que se refiere este apartado dos.2 se realizará por acuerdo del Delegado provincial de la Agencia Estatal de Administración Tributaria, en los siguientes plazos:
+a) El importe recaudado por recibo en período voluntario dentro de los tres meses siguientes a aquel en que finalice dicho período de recaudación. A este importe se sumará el de las cantidades, pendientes de distribución, recaudadas hasta la fecha de finalización de dicho período voluntario, como consecuencia de declaraciones de alta, de inclusiones de oficio, de actuaciones de comprobación e investigación y de actuaciones en vía de apremio.
+b) Las cantidades recaudadas en el semestre natural inmediatamente posterior al mes en que finalice el período voluntario a que se refiere el párrafo a) anterior, como consecuencia de declaraciones de alta, inclusiones de oficio, actuaciones de comprobación e investigación y actuaciones en vía de apremio, dentro de los tres meses siguientes al referido semestre. En estos casos se tomará como matrícula válida a efectos de aplicar los criterios de distribución, la vigente al finalizar el período de seis meses a que se refiere esta letra.
+Tres. Exacción y distribución de cuotas nacionales.
+1. La exacción de las cuotas nacionales se llevará a cabo por la Delegación Provincial de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial tenga su domicilio fiscal el sujeto pasivo.
+2. El importe de las cuotas nacionales se distribuirá entre todos los municipios y las Diputaciones Provinciales de territorio común en los términos siguientes:
+A) De dicho importe, excluido el correspondiente a las cuotas de los servicios de telefonía móvil, el 80 por 100 corresponderá a los municipios y el 20 por 100 restante a las Diputaciones Provinciales.
+B) El 20 por 100 de la recaudación a que se refiere el apartado anterior se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
+a) Una tercera parte en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere el párrafo a) de la letra B) del apartado dos.2 anterior.
+b) Una tercera parte en función del número de sujetos pasivos por cuota municipal resultante de la suma de todos los que consten en las matrículas de los municipios de la provincia correspondientes al año de que se trate.
+c) Una tercera parte en función del importe total de las cuotas de tarifa municipales consignadas en las matrículas de los municipios de la provincia correspondientes al año de que se trate.
+Por consiguiente, no se computará el importe que, en su caso, resulte de aplicar el coeficiente o el recargo provincial, regulados, respectivamente, en los artículos 88 y 124 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
+C) El 80 por 100 de la recaudación a que se refiere la letra A) anterior de este apartado tres.2 se distribuirá entre los municipios con arreglo a los mismos criterios y términos que los establecidos en los párrafos a), b) y c) de la letra B) del apartado dos.2 anterior de esta regla.
+D) Las cuotas correspondientes a los servicios de telefonía móvil se distribuirán con arreglo a los siguientes criterios:
+a) El 20 por 100 de la recaudación se distribuirá entre las Diputaciones Provinciales con arreglo a los criterios siguientes:
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR T 10 w) instaladas en los municipios integrados en cada demarcación provincial y que cuenten con la licencia municipal correspondiente.
+La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho de la provincia, entendida ésta como la suma de la población de derecho de todos los municipios integrados en la demarcación provincial, según la definición a que se refiere el párrafo a) de la letra B) del apartado dos.2 anterior.
+b) El 80 por 100 restante se distribuirá entre los municipios con arreglo a los siguientes criterios:
+La parte de cuota nacional correspondiente al elemento tributario antenas, en función del número de éstas con potencia radiada aparente superior a 10 vatios (PAR T 10 w) instaladas en los respectivos términos municipales y que cuenten con la licencia municipal correspondiente.
+La parte de cuota nacional correspondiente al elemento tributario abonados, en función de la población de derecho del municipio, entendida ésta en los términos señalados en la regla 14.1.D) de la presente Instrucción.
+E) La distribución de cuotas a que se refiere este apartado tres se realizará por acuerdo del Director general de Fondos Comunitarios y Financiación Territorial del Ministerio de Hacienda, en los plazos y términos previstos en la letra C) del apartado dos.2 anterior de esta regla.
+Cuatro. Rectificación de distribuciones realizadas y devolución de ingresos indebidos.
+1. Cuando por cualquier circunstancia proceda la rectificación de un acuerdo de distribución de cuotas del Impuesto sobre Actividades Económicas, tal rectificación deberá revestir, en todo caso, la forma de acuerdo en los mismos términos que los previstos en los apartados precedentes de esta regla.
+Cuando del acuerdo de rectificación resultasen diferencias en más o en menos respecto de las cantidades efectivamente distribuidas en virtud del acuerdo rectificado, tales cantidades serán compensadas en el siguiente, o sucesivos, acuerdos de distribución.
+2. Cuando, por cualquier circunstancia, proceda la devolución al sujeto pasivo de un ingreso indebido, dicha devolución deberá practicarse por la entidad que corresponda según lo dispuesto en el Real Decreto 1163/1990, de 21 de septiembre, por el que se regula el procedimiento para la realización de devolución de ingresos indebidos de naturaleza tributaria.
+Si la cantidad indebidamente ingresada y devuelta hubiera sido objeto de distribución, su importe se restará de la cantidad que deba ser distribuida posteriormente a los municipios o Diputaciones Provinciales que hubiesen participado del ingreso indebido.
+Cuando lo previsto en el párrafo anterior no fuere posible, la entidad que haya hecho efectiva la devolución podrá dirigirse a los municipios o Diputaciones Provinciales que hubieran participado del ingreso indebido, en orden a obtener el reintegro de la parte correspondiente a cada uno de ellos.
+Cinco. Entidades asimiladas a las Diputaciones Provinciales.
+1. Las cuotas provinciales y nacionales serán distribuidas, también, entre las Comunidades Autónomas uniprovinciales y los Cabildos y Consejos Insulares, en los mismos términos que los previstos en la presente regla para las Diputaciones Provinciales.
+2. Las cuotas nacionales serán distribuidas, también, entre las Ciudades de Ceuta y Melilla, las cuales participarán en aquéllas, además de como municipios, como Diputaciones Provinciales.
+Seis. Fundamentación de los acuerdos de distribución de cuotas provinciales.
+Los acuerdos de distribución de cuotas que adopten los Delegados provinciales de la Agencia Estatal de Administración Tributaria, con arreglo a lo dispuesto en la letra C) del apartado dos.2 de esta regla, deberán fundarse en la información que suministre, a tal fin, la Dirección General de Fondos Comunitarios y Financiación Territorial del Ministerio de Hacienda.
+Siete. Ejecución de los acuerdos de distribución de cuotas.
+Los acuerdos de distribución de cuotas provinciales y nacionales, a que se refieren los apartados dos.2 y tres.2 de esta regla, una vez adoptados en los plazos señalados en dichos preceptos, serán ejecutados por la Dirección General de Fondos Comunitarios y Financiación Territorial.
+Ocho. Ambito de aplicación.
+1. Lo dispuesto en la presente regla será de aplicación a la distribución de:
+a) Las cuotas municipales señaladas en su apartado uno, cuando el municipio exactor de las mismas esté situado en territorio común. En ningún caso tendrán la consideración de municipios afectados los que, pudiendo serlo con arreglo a lo dispuesto en dicho apartado uno estén situados en territorio foral vasco o navarro.
+b) Las cuotas provinciales correspondientes a actividades que se ejerzan en provincias de territorio común.
+c) Las cuotas nacionales correspondientes a sujetos pasivos que tengan su domicilio fiscal en territorio común.
+2. La presente regla se aplicará sin perjuicio de los regímenes fiscales especiales vigentes en los territorios forales del País Vasco y Navarra.
+Se modifica el apartado 1.3.C).b) por el art. 71.2 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.
+ Se modifican los apartados 3, 6 y 7 por la disposición adicional 4.h) e i) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
+ Se modifica por el art. 67.2.1.2 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
+ Téngase en cuenta para su aplicación el art. 67.2.2.
+ Se modifica por el art. 78.2.6 a 8 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.

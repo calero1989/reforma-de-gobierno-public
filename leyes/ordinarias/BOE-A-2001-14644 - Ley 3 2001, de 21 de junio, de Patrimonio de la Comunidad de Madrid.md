@@ -1,0 +1,860 @@
+# Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2001-14644`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-14644
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+I
+El patrimonio de la Comunidad de Madrid constituye uno de los recursos esenciales, junto con los financieros y humanos, para el cumplimiento de los fines que la Comunidad de Madrid, a través del Estatuto de Autonomía, tiene encomendados y para la ejecución de las políticas públicas que al Gobierno corresponde, en orden a la consecución de esos fines.
+La Ley 7/1986, de 23 de julio, del Patrimonio de la Comunidad de Madrid vino a dar cumplimiento y desarrollo a la previsión contenida en el Estatuto de Autonomía de la Comunidad de Madrid, que reserva a una Ley de la Asamblea la regulación del régimen jurídico del patrimonio de la Comunidad, su administración, defensa y conservación, en el marco de la legislación básica del Estado (artículo 52.2).
+La indicada Ley fue aprobada tres años después de constituirse la Comunidad de Madrid y, junto a la Ley de Gobierno y Administración, la Ley Reguladora de la Administración Institucional, la Ley Reguladora de la Hacienda y la Ley de la Función Pública, constituye uno de los pilares esenciales en el proceso de autogobierno de la Comunidad de Madrid, estableciéndose el régimen jurídico de los bienes y derechos de su patrimonio, soporte básico para la prestación de los servicios públicos y para el ejercicio de las competencias que la Comunidad de Madrid ha asumido.
+El aumento de competencias de la Comunidad de Madrid y la necesidad de actualizar y regularizar el Patrimonio como consecuencia del proceso de transferencias, exige disponer de un instrumento normativo nuevo que agilice la tramitación de los procedimientos patrimoniales.
+II
+La Constitución atribuye al Estado competencias exclusivas en materia de la legislación civil, artículo 149.1.8.ª (el libro segundo, título I, capítulo III, del Código Civil, establece los conceptos fundamentales de los bienes de dominio público y patrimoniales), de las bases del régimen jurídico de las Administraciones Públicas y sobre contratos y concesiones administrativas (artículo 149.1.18..ª), que actúan como límites a la competencia que la Comunidad de Madrid ostenta para la regulación, mediante ley, del régimen jurídico de su patrimonio.
+En el marco de esa normativa básica, la presente Ley tiene por objeto regular el régimen jurídico de los bienes y derechos de dominio público o demaniales, y de los demás bienes de dominio privado o patrimoniales, que integran el patrimonio de la Comunidad de Madrid.
+Se parte, por tanto, de un concepto amplio de patrimonio que engloba a todos los bienes y derechos cuya titularidad corresponda a la Administración Autonómica.
+Los bienes y derechos que integran el patrimonio de esta Administración se clasifican en las dos categorías tradicionales: bienes de dominio público o demaniales, y bienes de dominio privado o patrimoniales, categorías a las que corresponde un régimen jurídico diferente derivado de la afectación o no de esos bienes a un uso o servicio público. En este sentido, la Ley se estructura en cuatro Capítulos, el Primero recoge las disposiciones generales o comunes a todos los bienes o derechos con independencia de su pertenencia a una categoría u otra; el Segundo establece el régimen jurídico de los bienes de dominio público; el Tercero, el régimen jurídico de los bienes de dominio privado; y el Cuarto contiene el régimen patrimonial de los Organismos Autónomos, Entidades de Derecho público y demás Entes Públicos.
+Desde un punto de vista subjetivo, el patrimonio de la Comunidad de Madrid engloba el conjunto de bienes y derechos cuya titularidad corresponda, tanto a la Administración General, como a la Administración Institucional. De este modo, quedan fuera del concepto los bienes cuya titularidad corresponda a la Asamblea de Madrid. Por otro lado, el concepto de Administración Institucional, de acuerdo con lo previsto en la Ley 1/1984, de 19 de enero, Reguladora de la misma, integra a los Organismos Autónomos, Entes y Empresas públicas, si bien, quedan fuera del concepto de patrimonio, a los efectos de esta ley, los bienes y derechos cuya titularidad corresponda a las Empresas públicas constituidas como sociedades mercantiles, sin perjuicio de lo establecido en la legislación vigente sobre el patrimonio de las sociedades pertenecientes al Ente Público «Radio Televisión Madrid».
+Por lo que respecta a los patrimonios de las Universidades, ha de considerarse que constituyen verdaderos patrimonios separados del patrimonio propio de la Comunidad de Madrid, aunque la administración y disposición de esos bienes y derechos debe ajustarse, conforme a lo dispuesto en el artículo 53.3 de la Ley de Reforma Universitaria, «a las normas generales que rijan en esta materia», es decir, a la normativa básica estatal y a la normativa de desarrollo dictada por la Comunidad de Madrid.
+Las propiedades administrativas especiales se regirán por su legislación específica y, supletoriamente, por lo dispuesto en esta Ley y sus disposiciones de desarrollo.
+De este modo, el patrimonio de la Comunidad de Madrid regulado en esta Ley aparece integrado por el conjunto de bienes y derechos, de dominio público o patrimonial, cuya titularidad corresponde a la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.
+Se diferencia de la Hacienda, que engloba el conjunto de derechos y obligaciones de contenido económico.
+Esta concepción unitaria del patrimonio no impide el establecimiento de un sistema de gestión patrimonial diferenciado. Es decir, la Ley asigna a las diferentes Consejerías, Organismos Autónomos y Entidades competencias para la gestión y administración de los bienes y derechos que utilicen para el cumplimiento de sus fines, correspondiendo a la Consejería de Presidencia y Hacienda el ejercicio de las funciones dominicales sobre todo el patrimonio de la Comunidad, sin perjuicio de las que correspondan a la Asamblea o al Gobierno, o a otros órganos de la Comunidad, por razones de legalidad u oportunidad, en materia de promoción pública de la vivienda, suelo, radiotelevisión, propiedades administrativas especiales, etcétera.
+III
+La Ley define el dominio público atendiendo al criterio determinante de la vinculación directa, afectación, de los bienes o derechos reales a un uso general o servicio público, o bien cuando una norma con rango de ley así lo haya determinado expresamente, es decir, por su vinculación a un fin que no puede ser calificado de uso o servicio público, pero cuya relevancia puede justificar la integración, mediante ley, del bien en el demanio.
+Son bienes patrimoniales los que no se hallen afectados a un uso general o servicio público, así como aquellos otros que por su propia naturaleza no admiten la calificación de demaniales, como, los derechos de arrendamiento, las acciones y participaciones en sociedades mercantiles y otros valores.
+A fin de llevar un control de todos los bienes y derechos que integran el patrimonio de la Comunidad de Madrid, y de determinar con exactitud las magnitudes de la gestión patrimonial, la Ley regula, por un lado, el Inventario General de Bienes y Derechos, y por otro, prevé el seguimiento de la gestión patrimonial a través de una Contabilidad Patrimonial que se llevará por la Consejería de Presidencia y Hacienda.
+En relación a las prerrogativas, protección y defensa del patrimonio, se reconoce la inalienabilidad, imprescriptibilidad e inembargabilidad de los bienes de dominio público, se establece la prohibición de dictar providencia de embargo o de despachar mandamiento de ejecución contra los bienes y derechos del patrimonio de la Administración Autonómica, sin perjuicio de lo previsto sobre esta materia en la legislación reguladora de la Hacienda. Respecto del privilegio de la inembargablidad, se ha seguido el criterio mantenido por el Tribunal Constitucional en la Sentencia 166/1998, de modo que aquél se predica tanto de los bienes demaniales como de los patrimoniales materialmente afectados a un uso o servicio público. Asimismo, se regulan las prerrogativas de recuperación posesoria, investigación, inspección y deslinde, y se atribuye a la Consejería de Presidencia y Hacienda la competencia para la inscripción en los correspondientes Registros a nombre de la Comunidad de Madrid; no obstante, la inscripción en el Registro de la Propiedad Industrial e Intelectual de las propiedades y derechos incorporales corresponderá a las Consejerías competentes por razón de la materia.
+Como medida de protección del patrimonio, se reconoce a toda persona natural o jurídica que, por cualquier título, tenga a su cargo la posesión, gestión o administración de bienes o derechos del patrimonio de la Comunidad de Madrid, la obligación de custodiarlos, conservarlos y, en su caso, explotarlos racionalmente, así como de responder ante la Administración de los daños y perjuicios eventualmente causados, tipificándose para ello las correspondientes infracciones y sanciones.
+IV
+El capítulo II regula el régimen de los bienes de dominio público, dividido en dos secciones; la primera contiene las reglas de la afectación, desafectación y adscripción, atribuyéndose, con carácter general, al Consejero de Presidencia y Hacienda la competencia para disponer las mismas; y la segunda regula el régimen de utilización particular de los bienes de dominio público cuando no resulte contraria al interés general.
+Respecto a la utilización del dominio público, la Ley distingue entre el uso general y el privativo del mismo, diferenciando, en este último caso, entre el uso privativo con instalaciones u obras no permanentes, sujeto a autorización previa, y el uso privativo con instalaciones y obras permanentes, que requiere de la correspondiente concesión administrativa. Asimismo, la Ley sujeta a autorización administrativa el uso y aprovechamiento de bienes de dominio público que no impida el de otros, si concurren circunstancias singulares de peligrosidad, intensidad de uso, escasez del bien u otras semejantes.
+V
+El capítulo III contiene el régimen jurídico de los bienes de dominio privado o patrimoniales y se estructura en diez secciones que se refieren, respectivamente, a los negocios jurídicos patrimoniales, a la adquisición de bienes y derechos, adjudicación, arrendamientos, adquisición de acciones, participaciones del capi tal social y otros valores, adquisición de propiedades incorporales, enajenación a título oneroso de bienes y derechos, cesiones gratuitas, prescripción y explotación.
+La sección segunda contiene las reglas generales sobre la adquisición de bienes y derechos por la Comunidad de Madrid, reconociéndose, en primer lugar, en aplicación del artículo 35 del Estatuto de Autonomía, la plena capacidad de aquélla para adquirir bienes y derechos por cualquiera de los medios establecidos en el Ordenamiento jurídico, así como para ejercitar las acciones y recursos que procedan en defensa de su patrimonio.
+Como regla general, los bienes y derechos adquiridos se integrarán en el dominio privado, sin perjuicio de su posterior afectación al dominio público, si bien, cuando la adquisición de los bienes y derechos se efectúe para su destino a un uso o servicio público y así se haga constar expresamente en el acuerdo de adquisición, no se requerirá acuerdo expreso de afectación. En todo caso, la adquisición mediante expropiación forzosa lleva implícita la afectación a los fines que fueron determinantes de la declaración de utilidad pública o interés social.
+La adquisición de bienes y derechos a título gratuito se autorizará por el Consejero de Presidencia y Hacienda, si bien la adquisición de bienes muebles, que no sean títulos valores, por legado o donación, en favor de la Comunidad de Madrid se aprobará por el titular de la Consejería a la que vayan destinados.
+La adquisición a título oneroso de bienes inmuebles y derechos inmobiliarios será acordada por el Consejero de Presidencia y Hacienda mediante el procedimiento de concurso, como regla general, y excepcionalmente, cuando concurra alguna de las circunstancias tasadas en la Ley, mediante adquisición directa. Corresponderá a los órganos de contratación la adquisición de los bienes muebles necesarios para los servicios públicos de su competencia.
+Para la enajenación de bienes inmuebles y derechos inmobiliarios, la Ley exige la previa declaración de alienabilidad que será acordada por el Consejero de Presidencia y Hacienda, así como la depuración de la situación física y jurídica de los mismos y, en su caso, la inscripción en el Registro de la Propiedad.
+La enajenación de bienes inmuebles se efectuará con carácter general mediante subasta, salvo que concurra alguno de los supuestos tasados en la Ley, en los cuales el Gobierno, a propuesta del Consejero de Presidencia y Hacienda y previa tasación pericial, podrá autorizar la enajenación directa. Cuando el valor del bien no supere 300.000 euros esa competencia corresponderá al Consejero de Presidencia y Hacienda.
+VI
+El capítulo IV precisa el régimen jurídico del patrimonio de los organismos autónomos, entidades de derecho público y demás entes públicos, estableciendo un denominador común aplicable a todos los entes con forma pública de personificación, que no determina un régimen diferenciado, sino sólo concreta una serie de especialidades respecto del general.
+La Ley recoge la clasificación tradicional, que diferencia entre bienes propios y adscritos. En relación a los primeros, como consecuencia del principio de autonomía y descentralización, la Ley reconoce a esas entidades plena capacidad para adquirir a título oneroso o gratuito, poseer y arrendar bienes y derechos de cualquier clase, que se incorporarán al patrimonio de la Comunidad de Madrid cuando los mismos resulten innecesarios para el cumplimiento de sus fines, salvo que la norma de creación disponga lo contrario.
+En todo caso, esas entidades podrán enajenar los bienes adquiridos por ellas mismas, cuando dichas enajenaciones formen parte de sus operaciones estatutarias y constituyan el objeto directo de sus actividades.
+Tanto la enajenación como la adquisición de bienes inmuebles o muebles por dichas entidades habrá de efectuarse conforme a los requisitos y principios previstos en esta Ley.
+La afectación de bienes y derechos patrimoniales propios a los fines o servicios públicos que presten esos entes institucionales será acordada por el Consejero de Presidencia y Hacienda, a propuesta del Consejo de Administración, entendiéndose implícita la afectación a dichos fines en los supuestos previstos en esta Ley.
+Los bienes y derechos adscritos a los referidos entes institucionales conservarán su calificación jurídica originaria y únicamente podrán ser utilizados para el cumplimiento de sus fines. Sobre dichos bienes esas entidades ejercerán los derechos y prerrogativas relativas al dominio público legalmente establecidas, a efectos de su conservación, administración y defensa.
+VII
+La Ley introduce modificaciones en la Ley reguladora de la Administración Institucional, la Ley reguladora de la Hacienda y la Ley de Tasas y Precios Públicos, con el fin de adecuar los conceptos aquí definidos y de salvar lagunas y colisiones normativas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+## Sección 1
+
+Sección 1.ª Objeto, concepto y régimen jurídico
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley regula el régimen jurídico de los bienes y derechos que integran el patrimonio de la Comunidad de Madrid.
+
+### Artículo 2
+
+Artículo 2. Patrimonio de la Comunidad de Madrid.
+1. El patrimonio de la Comunidad de Madrid está constituido por todos los bienes y derechos que le pertenezcan por cualquier título de adquisición.
+2. Tendrán la consideración de patrimonio de la Comunidad de Madrid todos los bienes y derechos de la Administración de la misma, sus organismos autónomos, entidades de derecho público y demás entes públicos sujetos al derecho público o privado.
+3. Los bienes y derechos de las sociedades mercantiles de la Comunidad de Madrid no quedarán sujetos a las disposiciones de la presente Ley.
+4. La Asamblea de Madrid dispone de patrimonio propio y separado, correspondiéndole el pleno ejercicio de todas las funciones dominicales y de representación sobre los bienes y derechos de los que sea titular, así como la administración y gestión de los bienes y derechos del Patrimonio de la Comunidad de Madrid que le sean adscritos.
+5. La presente Ley será de aplicación a los bienes y derechos pertenecientes a las Universidades de competencia de la Comunidad de Madrid, de conformidad con lo dispuesto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria.
+Se modifica el apartado 3 por la disposición final 1 de la Ley 8/2015, de 28 de diciembre. Ref. BOE-A-2016-2871#dfprimera.
+
+### Artículo 3
+
+Artículo 3. Clasificación.
+Los bienes y derechos que integran el patrimonio de la Comunidad de Madrid se clasifican en demaniales o de dominio público y patrimoniales o de dominio privado.
+
+### Artículo 4
+
+Artículo 4. Dominio público.
+Son de dominio público los bienes y derechos reales afectos al uso general o servicio público y aquéllos a los que una Ley otorgue expresamente ese carácter.
+También tendrán la consideración de bienes de dominio público los bienes inmuebles de la Comunidad Madrid en los que se alojen sus órganos o instituciones.
+
+### Artículo 5
+
+Artículo 5. Dominio privado.
+Son de dominio privado:
+a) Los bienes y derechos que no se hallen destinados al uso general o servicio público.
+b) Los derechos de arrendamiento.
+c) Los derechos de propiedad incorporal, sin perjuicio de que la utilización de los mismos quede destinada al uso general o servicio público, en cuyo caso adquirirán la condición de demaniales.
+d) Las acciones y participaciones de sociedades mercantiles y otros títulos valores.
+e) Los derechos derivados de la titularidad de los bienes de dominio privado.
+
+### Artículo 6
+
+Artículo 6. Régimen jurídico.
+1. El patrimonio de la Comunidad de Madrid se regirá por la legislación básica del Estado, por la presente Ley, por los reglamentos que la desarrollen, por las demás normas de Derecho público que resulten de aplicación y, en su defecto, por las normas de Derecho privado civil o mercantil.
+2. Las propiedades administrativas especiales se regirán por su legislación específica, y supletoriamente por lo dispuesto en esta Ley y sus disposiciones de desarrollo.
+
+### Artículo 7
+
+Artículo 7. Funciones dominicales.
+1. El ejercicio de las funciones dominicales sobre el patrimonio de la Comunidad de Madrid, así como su representación extrajudicial, corresponde a la Consejería de Presidencia y Hacienda, salvo que esta Ley disponga expresamente otra cosa o cuando estén atribuidas, por cualquier otra norma con rango de ley, al Gobierno de la Comunidad de Madrid o a cualquier otro órgano de la Comunidad de Madrid.
+Sin perjuicio de lo dispuesto en el párrafo anterior, corresponden a las diferentes Consejerías, organismos autónomos, entidades de derecho público y demás entes públicos las funciones y responsabilidades de administración, gestión y conservación respecto de los bienes y derechos demaniales y patrimoniales adscritos.
+2. La gestión de los bienes y derechos incluidos en el Inventario General regulado en el artículo siguiente será objeto de seguimiento a través de una Contabilidad Patrimonial que se llevará a cabo por la Consejería de Presidencia y Hacienda.
+3. La expresada Consejería podrá estar representada en todos los organismos y entidades que utilicen bienes o derechos de la Administración de la Comunidad de Madrid.
+4. La representación y defensa en juicio del patrimonio de la Comunidad de Madrid será asumida por los Servicios Jurídicos de la Comunidad de Madrid según su normativa específica.
+
+### Artículo 8
+
+Artículo 8. Inventario General de Bienes y Derechos.
+1. El Inventario General de Bienes y Derechos de la Comunidad de Madrid comprende todos los bienes y derechos que integran su patrimonio, conforme a lo dispuesto en esta Ley, con excepción de los bienes muebles fungibles y de los que reglamentariamente se determinen.
+Corresponde a la Consejería de Presidencia y Hacienda la adopción de los criterios y directrices para la formación, actualización y valoración del Inventario General de Bienes y Derechos.
+2. Corresponden igualmente a la Consejería de Presidencia y Hacienda las competencias en la formación, actualización y valoración del Inventario de los bienes inmuebles de la Administración de la Comunidad de Madrid y de los adscritos a organismos autónomos, entidades de derecho público y demás entes públicos.
+3. Las competencias en la formación, actualización y valoración del Inventario de las acciones y participaciones en el capital de sociedades mercantiles y otros títulos valores serán ejercidas por la Consejería de Presidencia y Hacienda.
+4. Las Consejerías, a través de sus Secretarías Generales Técnicas, ejercerán las competencias en la formación, actualización y valoración del Inventario de los bienes muebles y derechos de propiedad incorporal que hayan adquirido, conforme a los criterios de elaboración del Inventario General, en el que se incluyen, y colaborarán en la formación y actualización del mismo en cuanto a los demás bienes y derechos en él comprendidos.
+5. Los organismos autónomos, entidades de derecho público y demás entes públicos de la Comunidad de Madrid elaborarán el Inventario del patrimonio de que sean titulares y serán competentes en su mantenimiento, todo ello, según las directrices de la Consejería de Presidencia y Hacienda, y de conformidad con la normativa específica que, en su caso les afecte, y colaborarán en la formación y actualización del Inventario General, en lo que respecta a los bienes inmuebles que tengan adscritos. Aquellos Inventarios se incorporarán como anexos al Inventario General de Bienes y Derechos de la Comunidad de Madrid.
+
+## Sección 2
+
+Sección 2.ª Prerrogativas, protección y defensa del patrimonio
+
+### Artículo 9
+
+Artículo 9. Principios del dominio público.
+Los bienes y derechos de dominio público de la Comunidad de Madrid son inalienables, imprescriptibles e inembargables.
+
+### Artículo 10
+
+Artículo 10. Inembargabilidad, gravamen, transacciones y arbitraje.
+1. Ningún Tribunal ni Autoridad administrativa podrá dictar providencia de embargo ni despachar mandamiento de ejecución contra los bienes y derechos demaniales del patrimonio de la Comunidad, ni contra aquellos bienes y derechos patrimoniales materialmente afectados a un uso o servicio público.
+2. Sólo se podrán gravar los bienes o derechos del dominio privado de la Comunidad de Madrid con los requisitos exigidos para su enajenación.
+3. Las transacciones respecto a bienes o derechos del dominio privado, así como el sometimiento a arbitraje de las controversias o litigios sobre los mismos, se aprobarán por Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda, y a iniciativa de la Consejería, Organismo o Entidad interesados.
+
+### Artículo 11
+
+Artículo 11. Recuperación posesoria.
+1. La Comunidad de Madrid podrá recuperar por sí misma, en cualquier momento, la posesión indebidamente perdida de los bienes y derechos de dominio público pertenecientes al patrimonio de la misma.
+2. También podrá recuperar, del mismo modo, los bienes de dominio privado, en el plazo de un año, contado a partir del día siguiente a aquél en que se hubiere producido la usurpación. Pasado ese tiempo, deberá acudir a la jurisdicción ordinaria, ejercitando la acción correspondiente.
+3. Esta prerrogativa de recuperación de los bienes que componen el Patrimonio la ostentarán:
+a) Las Consejerías y Organismos Autónomos respecto a los bienes de dominio público y privado.
+b) Las Entidades de Derecho público y demás Entes Públicos respecto a los bienes de dominio público.
+No obstante, la Consejería de Hacienda podrá iniciar o continuar el procedimiento de recuperación posesoria a solicitud motivada de las Consejerías y Organismos Autónomos para los bienes de dominio público y privado y de las Entidades de Derecho público y demás Entes Públicos para sus bienes demaniales.
+Toda pérdida indebida de bienes y derechos del Patrimonio de la Comunidad, así como las acciones llevadas a cabo para su recuperación, deberán ser notificadas a la Dirección General de Patrimonio en un plazo no superior a tres meses a contar desde que se haya producido la usurpación o se haya tenido conocimiento de la misma.
+4. La Comunidad de Madrid, en el ejercicio de la prerrogativa de recuperación de la posesión de sus bienes, indebidamente perdida, tendrá la facultad de requerir a los usurpadores o perturbadores para que cesen en su actuación. A tal fin, se podrá solicitar el concurso y los servicios de los agentes de la autoridad, dirigiéndose para ello al Órgano competente.
+5. No se admitirán actuaciones interdictales contra la Comunidad de Madrid siempre que ésta se haya ajustado al procedimiento legalmente establecido.
+6. La Comunidad de Madrid podrá recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros. Para el ejercicio de esta potestad de desahucio será necesaria la previa declaración de extinción o caducidad del título que otorgaba el derecho de utilización de los bienes de dominio público.
+7. En el ejercicio de las prerrogativas de recuperación posesoria y desahucio administrativo, cuando exista resistencia al desalojo, se procederá en la forma prevista en el capítulo V del título VI de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Para la ejecución forzosa podrá solicitarse el auxilio de las Fuerzas y Cuerpos de Seguridad, o imponerse multas coercitivas de hasta un 5 por 100 del valor de los bienes ocupados, reiteradas por períodos de 8 días, hasta que se produzca el desalojo.
+Para la imposición de multas coercitivas, si no constara una tasación actualizada de los bienes ocupados, se podrá tomar como valor de referencia el que conste en el correspondiente inventario, o bien el valor catastral, si fuera superior.
+8. Serán de cuenta del ocupante todos los gastos que ocasione el desalojo, incluido, el de los daños y perjuicios que se produzcan en los bienes usurpados, pudiendo hacerse efectivo su importe por la vía de apremio.
+Se añaden los apartados 7 y 8 por el art. 8 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+ Se modifica el apartado 3 y se añade el apartado 6 por el art. 9.1 y 2 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
+
+### Artículo 12
+
+Artículo 12. Potestad de investigación e inspección.
+1. La Consejería de Presidencia y Hacienda tiene la facultad de investigar e inspeccionar la situación de los bienes y derechos que formen o puedan formar parte del patrimonio de la Comunidad de Madrid, a fin de determinar, cuando no le conste, la titularidad de ésta sobre los mismos, así como los usos a que son destinados.
+2. El ejercicio de la acción investigadora puede acordarse de oficio o a solicitud de los ciudadanos. En este último caso, se dará traslado al denunciante del acuerdo adoptado.
+3. Todas las personas físicas o jurídicas, públicas o privadas, están obligadas a colaborar a los fines señalados en este precepto.
+La falta de colaboración, o el entorpecimiento de la acción investigadora, serán sancionados conforme a lo previsto en esta Ley.
+4. Las autoridades, funcionarios y demás personas que, por razón de su cargo o cualquier tipo de relación dependiente de la Comunidad de Madrid, tuvieran noticia de la existencia de una confusión de titularidades en que la misma pueda ser parte, de ocupación ilegítima, o de cualquier otra actuación que pudiera lesionar sus intereses, están obligados a ponerlo en conocimiento de la Dirección General de Patrimonio.
+
+### Artículo 13
+
+Artículo 13. Potestad de deslinde.
+1. La Comunidad de Madrid podrá deslindar los inmuebles de dominio público o patrimoniales, mediante el procedimiento administrativo correspondiente, oídos todos los interesados.
+2. Iniciado el procedimiento de deslinde, no podrá instarse procedimiento judicial con igual pretensión, ni se admitirán actuaciones interdictales sobre el estado posesorio de las fincas a que se refiera el deslinde, mientras éste no se lleve a cabo.
+3. El procedimiento de deslinde podrá iniciarse de oficio o a instancia de los propietarios de terrenos que linden con fincas de la Comunidad de Madrid.
+La aprobación del deslinde corresponde al Consejero de Presidencia y Hacienda, cuya resolución será ejecutiva y sólo podrá ser impugnada en vía contencioso administrativa por infracción del procedimiento, sin perjuicio de que cuantos se estimen lesionados en sus derechos puedan hacerlos valer ante la jurisdicción ordinaria.
+4. Una vez que sea firme el acuerdo de aprobación del deslinde, se procederá al amojonamiento, con intervención de los interesados.
+5. Si la finca a la que se refiere el deslinde se hallare inscrita en el Registro de la Propiedad, se inscribirá también el deslinde administrativo debidamente aprobado. En caso contrario, se procederá a la inmatriculación de aquélla.
+
+### Artículo 14
+
+Artículo 14. Otorgamiento de escrituras públicas y formalización de inscripciones registrales.
+1. Corresponde a la Consejería de Presidencia y Hacienda el otorgamiento de escrituras públicas y la formalización de inscripciones en el Registro de la Propiedad de los bienes inmuebles y derechos inscribibles de que sea titular la Comunidad de Madrid, de conformidad con lo dispuesto en la legislación hipotecaria.
+Esta misma competencia corresponderá a los organismos autónomos, entidades de derecho público y demás entes públicos respecto de sus propios bienes inmuebles y derechos inscribibles.
+2. La inscripción en el Registro de la Propiedad Industrial e Intelectual de las propiedades y derechos incorporales corresponderá a las Consejerías, organismos autónomos, entidades de derecho público y demás entes públicos competentes por razón de la materia.
+
+### Artículo 15
+
+Artículo 15. Contratos de obras en inmuebles de la Comunidad de Madrid.
+En los contratos de obras realizadas en inmuebles en los que ostente la Comunidad de Madrid titularidades jurídicas, previamente a la adjudicación de aquéllos, será expedido por la Dirección General de Patrimonio un certificado en el que se acredite que los inmuebles correspondientes se hallan comprendidos en el Inventario General de Bienes y Derechos.
+A la terminación de las obras, será remitida el acta de recepción o documento equivalente, a la Dirección General de Patrimonio por la Intervención General, en aquellos supuestos en que asista a la recepción un representante de la misma. En el supuesto en que no exista designación por la Intervención General, la remisión corresponderá al órgano competente en la tramitación del expediente de contratación.
+Se exceptúan de lo dispuesto en los párrafos anteriores los contratos de obras que se realicen en propiedades administrativas especiales y en los inmuebles que componen el patrimonio del suelo y de la promoción pública de la vivienda.
+
+## Sección 3
+
+Sección 3.ª Seguros
+
+### Artículo 16
+
+Artículo 16. Aseguramiento de bienes.
+1. Los bienes muebles e inmuebles se podrán asegurar mediante la póliza correspondiente cuando, previa valoración y estudio económico, se considere conveniente y así lo acuerde la Consejería, organismo autónomo, entidad de derecho público o ente público interesados.
+2. Si el seguro afectase a bienes inmuebles, será preciso informe previo de la Consejería de Presidencia y Hacienda, salvo cuando se tratara de seguros obligatorios.
+
+## Sección 4
+
+Sección 4.ª Rendimientos patrimoniales
+
+### Artículo 17
+
+Artículo 17. Rendimientos del patrimonio y custodia de valores.
+Los rendimientos del patrimonio de la Comunidad de Madrid y el producto de las enajenaciones de bienes y derechos de dominio privado se ingresarán en la Tesorería General o, en su caso, en la Tesorería de los organismos autónomos, entidades de derecho público y demás entes públicos, conforme a lo dispuesto en su normativa específica.
+Los títulos valores y los ingresos de Derecho privado, herencias, legados y donaciones se custodiarán y administrarán por las citadas Tesorerías.
+
+## Sección 5
+
+Sección 5.ª Responsabilidades y sanciones
+
+### Artículo 18
+
+Artículo 18. Deber de gestión, conservación y colaboración.
+1. Toda persona natural o jurídica, pública o privada que, por cualquier título, tenga a su cargo la posesión, gestión o administración de bienes o derechos del patrimonio de la Comunidad de Madrid, está obligada a su custodia, conservación y, en su caso, explotación racional, y responderá ante la misma de los daños y perjuicios por ella causados.
+2. Los ciudadanos deberán colaborar con la Comunidad de Madrid en la investigación, defensa y protección de los bienes y derechos de su patrimonio.
+
+### Artículo 19
+
+Artículo 19. Infracciones y sanciones.
+1. Las personas físicas o jurídicas públicas o privadas que, por dolo o negligencia, causen daños en los bienes o derechos de la Comunidad de Madrid o los usurparen de cualquier forma, incurrirán en infracción administrativa grave.
+La infracción será sancionada con una multa, cuyo importe se establecerá entre el valor del perjuicio ocasionado o de lo usurpado y el doble del mencionado valor.
+2. Si la persona a que se refiere el apartado anterior tuviere encomendada, por cualquier título, la posesión, gestión o administración de dichos bienes, el importe de la multa podrá ascender hasta el triple del valor de lo usurpado o de los daños ocasionados.
+3. En los mismos supuestos, las personas ligadas a la Comunidad de Madrid por una relación funcionarial, laboral o profesional, y que tengan a su cargo la gestión de los bienes o derechos a que se refiere esta ley, serán sancionadas con una multa, cuyo importe podrá ascender al cuádruplo del valor de lo usurpado o de los daños causados, sin perjuicio de otras sanciones procedentes en aplicación de la legislación sobre la función pública.
+4. Con independencia de esas sanciones, los causantes del daño o usurpación estarán obligados a reparar el daño y restituir lo que hubieren sustraído.
+5. El incumplimiento de los deberes descritos en el apartado 2 del artículo anterior, así como lo previsto en el apartado 3 del artículo 12, constituirá una infracción leve que podrá ser sancionado con multa no superior a 499.158 pesetas (3.000 euros).
+6. Para graduar la multa, se atenderá a la entidad económica del daño o de la usurpación, a la reiteración por parte de la persona responsable y al grado de culpabilidad del infractor.
+
+### Artículo 20
+
+Artículo 20. Procedimiento sancionador y prescripción.
+1. La determinación del importe de los daños, la imposición de sanciones y la exigencia de las responsabilidades previstas en el artículo anterior se acordará y ejecutará en vía administrativa, conforme al procedimiento sancionador de la Comunidad de Madrid.
+2. Dicha responsabilidad será independiente de la que pueda exigirse en vía jurisdiccional civil o penal.
+3. Las infracciones y sanciones graves y leves previstas en el artículo anterior prescribirán a los dos años y al año, respectivamente, a contar, en cada caso, desde el día en que la infracción se hubiera cometido o desde que la sanción adquiera firmeza.
+
+## CAPÍTULO II
+
+Régimen de los bienes de dominio público
+
+## Sección 1
+
+Sección 1.ª Afectación, desafectación, adscripción y mutaciones demaniales
+
+### Artículo 21
+
+Artículo 21. Afectación.
+1. La condición de bien o derecho real de dominio público del patrimonio de la Comunidad de Madrid se adquiere por su afectación expresa o tácita a un uso general o a la prestación de un servicio público propio de la misma.
+2. Es competencia del Consejero de Presidencia y Hacienda, salvo lo previsto expresamente en esta Ley, la afectación de los bienes integrantes del patrimonio de la Comunidad de Madrid al uso general o a los servicios públicos.
+3. La afectación tácita vendrá determinada por los propios fines de uso o servicio público a los que esté destinado el bien.
+4. Tendrán también la consideración de bienes de dominio público, sin necesidad de acto formal de afectación, los bienes destinados al uso o servicio público que se adquieran por usucapión.
+5. En las adquisiciones, la afectación se entenderá implícita cuando se haga constar el uso o servicio público al que se destina el bien adquirido.
+
+### Artículo 22
+
+Artículo 22. Afectación por expropiación.
+1. Los bienes y derechos adquiridos por la Comunidad de Madrid mediante expropiación forzosa se entienden afectos a los fines que fueron determinantes de la declaración de utilidad pública o, en su caso, del interés social, sin necesidad de ningún otro requisito.
+Una vez concluido el expediente de expropiación, la Consejería competente dará cuenta a la Consejería de Presidencia y Hacienda de la adquisición realizada.
+2. Desaparecida la afectación, los bienes y derechos expropiados pasarán a ser patrimoniales, sin perjuicio, en su caso, del derecho de reversión.
+
+### Artículo 23
+
+Artículo 23. Desafectación.
+1. Los bienes y derechos demaniales que no fuesen necesarios para el cumplimiento de los fines determinantes de su afectación perderán su naturaleza demanial y adquirirán la condición de patrimoniales mediante el expediente oportuno de desafectación, que se iniciará por la Consejería o el Consejo de Administración del organismo o entidad de derecho público o ente público que corresponda, o por la Consejería de Presidencia y Hacienda, en su caso, y cuya resolución corresponderá al titular de ésta.
+2. En los casos de deslinde de dominio público, los terrenos sobrantes se integrarán en el dominio privado de la Comunidad de Madrid, sin necesidad de tramitar expediente de desafectación.
+3. Los acuerdos de enajenación y cesión gratuita de bienes muebles llevarán implícita la desafectación de los mismos.
+
+### Artículo 24
+
+Artículo 24. Adscripción y transferencia de titularidad.
+1. Corresponde al titular de la Consejería de Hacienda disponer la adscripción de los bienes inmuebles y derechos sobre los mismos, que llevará implícita, en su caso, la afectación al dominio público.
+Las consejerías, organismos autónomos, entidades de derecho público y demás entes públicos podrán solicitar de la Consejería de Hacienda la adscripción de bienes inmuebles y derechos sobre los mismos, para el cumplimiento de sus fines y la gestión de los servicios de su competencia.
+2. En las adquisiciones de bienes inmuebles y derechos sobre los mismos, la adscripción se entenderá implícita cuando se haga constar la consejería, organismo autónomo, entidad de derecho público o ente público al que se destine el bien o derecho adquirido.
+3. Los bienes muebles se entienden adscritos implícitamente a las consejerías, organismos autónomos, entidades de derecho público y demás entes públicos que los hubieran adquirido.
+El cambio de adscripción de los bienes muebles se realizará por las propias consejerías, organismos autónomos, entidades de derecho público y demás entes públicos interesados en el mismo.
+Para ello se formalizará por las partes las correspondientes actas de entrega y recepción, que perfeccionarán el cambio de destino de los bienes de que se trate, y constituirán título suficiente para las respectivas altas y bajas en los inventarios de bienes muebles.
+4. La adscripción transfiere las facultades de uso, administración, conservación y defensa no reservados por la presente Ley a otros órganos, pero nunca su titularidad.
+5. El Gobierno, a propuesta del titular de la Consejería de Hacienda, podrá transferir la titularidad de los bienes y derechos reales de dominio público, de la Administración de la Comunidad de Madrid a sus organismos autónomos, entidades de derecho público y demás entes públicos, cuando resulte necesario para el cumplimiento de sus objetivos. En estos casos, cuando los bienes dejen de ser necesarios para los fines de esas entidades, revertirá a la Administración de la Comunidad de Madrid la titularidad de los mismos.
+6. Cuando resulte necesario para el cumplimiento de sus fines, las administraciones territoriales de la Comunidad de Madrid podrán afectar bienes y derechos demaniales a un uso o servicio público competencia de dicha administración autonómica y transferirle la titularidad. Si el bien o derecho no fuera destinado al uso o servicio público o dejara de destinarse posteriormente, revertirá a la Administración transmitente, integrándose en su patrimonio con todas sus pertenencias y accesiones.
+La Comunidad de Madrid podrá afectar bienes y derechos demaniales de su titularidad a otras administraciones para su dedicación a un uso o servicio público de su competencia, sin transferencia de la titularidad.
+La competencia para aceptar y conceder mutaciones demaniales corresponderá al titular de la Consejería de Hacienda.
+Se modifica por el art. 9.1 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se añade el apartado 6 por el art. 9.3 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
+
+### Artículo 25
+
+Artículo 25. Desadscripción y mutación en el fin.
+Cuando los bienes o derechos demaniales adscritos dejen de ser necesarios a la Consejería, organismo autónomo, entidad de derecho público o ente público, o se produjera cualquier tipo de mutación en su fin, aquéllos deberán dar conocimiento a la Consejería de Presidencia y Hacienda, para que ésta acuerde la desadscripción, la desafectación o nueva afectación o adscripción del bien de que se trate.
+
+### Artículo 26
+
+Artículo 26. Discrepancias en la afectación o adscripción.
+Cuando las Consejerías, organismos autónomos, entidades de derecho público o entes públicos discrepen entre sí o con la Consejería de Presidencia y Hacienda, acerca de la afectación, desafectación, adscripción o desadscripción o cambio de destino de un bien o bienes determinados del patrimonio de la Comunidad de Madrid, la resolución correspondiente será de la competencia del Gobierno, a propuesta del Consejero de Presidencia y Hacienda, previa audiencia de aquéllos.
+
+### Artículo 27
+
+Artículo 27. Sucesión de órganos y organismos.
+La sucesión entre órganos y organismos públicos, en los supuestos de creación, supresión o reforma de Consejerías, organismos autónomos, entidades de derecho público y demás entes públicos de la Comunidad de Madrid, en virtud de norma legal o reglamentaria, determina la subrogación automática de los derechos, facultades y obligaciones sobre los bienes y, no supone, en su caso, novación de las causas determinantes de la integración demanial de los bienes o derechos, que continuarán con el mismo régimen, salvo que en el expediente que lo motive se disponga otra cosa.
+
+## Sección 2
+
+Sección 2.ª Utilización de los bienes demaniales y su explotación
+
+### Artículo 28
+
+Artículo 28. Destino de los bienes demaniales y su explotación.
+1. El destino propio del dominio público es su utilización para el uso general o para la prestación de servicios públicos.
+2. Sin perjuicio de lo previsto en el párrafo anterior, los bienes demaniales podrán ser objeto de otras utilizaciones cuando no resulten contrarias a los intereses generales a los que sirven.
+3. En la utilización de los bienes afectados a los servicios públicos deben observarse las reglas propias de los mismos, así como las instrucciones dictadas por las autoridades responsables de su funcionamiento.
+
+### Artículo 29
+
+Artículo 29. Uso de los bienes demaniales: clases.
+El dominio público es susceptible de los siguientes usos:
+a) Uso común general.
+b) Uso común especial.
+c) Uso privativo con instalaciones u obras no permanentes.
+d) Uso privativo con instalaciones u obras permanentes.
+
+### Artículo 30
+
+Artículo 30. Uso común general.
+El uso común general de los bienes de dominio público no está sujeto a autorización, correspondiendo a todos los ciudadanos, sin más límites que los siguientes:
+a) La posibilidad del ejercicio del mismo derecho por los demás ciudadanos.
+b) El respeto a la naturaleza del bien.
+c) Los que imponga el Ordenamiento jurídico por razón de su conservación o adscripción, o por motivos de orden público.
+
+### Artículo 31
+
+Artículo 31. Uso común especial.
+La utilización y aprovechamiento de los bienes de dominio público por personas o entidades determinadas, de forma que no impida el de otras, si concurren circunstancias singulares de peligrosidad, intensidad de uso, escasez del bien u otras semejantes, requerirá autorización previa de la Consejería, organismo autónomo o ente público a la que estén adscritos, o los venga utilizando.
+Dicha autorización devengará la tasa que corresponda de conformidad con la legislación de Tasas de la Comunidad de Madrid.
+
+### Artículo 32
+
+Artículo 32. Uso privativo con instalaciones u obras no permanentes.
+1. La utilización y aprovechamiento de los bienes de dominio público por personas o por entidades que implique la limitación o la exclusión de otras requerirá autorización de ocupación temporal, si no supone la realización de obras de carácter permanente o instalaciones fijas.
+Estas autorizaciones serán otorgadas por la Consejería a la que estén adscritos o venga utilizando los bienes de que se trate, podrán ser revocadas por causa de interés público, sin que el interesado tenga derecho a indemnización alguna.
+2. Si hubiese varios solicitantes de la autorización de ocupación temporal, se observarán las reglas de publicidad y concurrencia, resolviéndose previa licitación.
+3. Las autorizaciones se otorgarán para una finalidad concreta, y con una duración determinada, inferior a 30 años. El uso privativo regulado en el presente artículo devengará la Tasa que corresponda de conformidad con la legislación sobre Tasas de la Comunidad de Madrid.
+
+### Artículo 33
+
+Artículo 33. Uso privativo con instalaciones u obras de carácter permanente.
+1. La utilización y aprovechamiento de los bienes de dominio público prevista en el artículo anterior que requiera la realización de obras de carácter permanente o instalaciones fijas, será otorgada por el titular de la consejería a la que estén adscritos mediante concesión administrativa y por un tiempo limitado que no podrá exceder, incluidas las prórrogas, de setenta y cinco años, salvo que la legislación especial señale un plazo distinto.
+Si hubiese varios solicitantes de la concesión, se observarán las reglas de publicidad y concurrencia, resolviéndose previa licitación.
+2. Las concesiones se otorgarán para una finalidad concreta.
+El uso privativo regulado en el presente artículo devengará la Tasa que corresponda de conformidad con la legislación sobre Tasas de la Comunidad de Madrid.
+3. La Comunidad de Madrid podrá revocar las concesiones antes de su vencimiento, si lo justificaran circunstancias sobrevenidas de interés público. El concesionario deberá ser resarcido de los daños que se le hayan causado.
+4. Son causas de extinción de las concesiones:
+a) El transcurso del plazo y, cuando proceda, de sus prórrogas.
+b) La renuncia del concesionario a su derecho.
+c) La desaparición del bien público sobre el cual hayan sido otorgadas.
+d) La desafectación del bien. En este caso se estará a lo dispuesto en el artículo 35.
+e) La revocación de la relación concesional. En este caso se tendrá en cuenta lo dispuesto en el apartado anterior.
+f) Cualquier otra causa admitida en Derecho.
+Se modifica el apartado 1 por el art. 9.2 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 34
+
+Artículo 34. Concesiones y autorizaciones demaniales.
+1. Las Consejerías, previo informe favorable de la Consejería de Presidencia y Hacienda, determinarán las condiciones generales que habrán de regir para cada clase de concesiones y autorizaciones sobre el dominio público, en las que se incluirá necesariamente el plazo de duración. Será también preceptivo el informe de la Consejería de Presidencia y Hacienda cuando la Consejería otorgante estime conveniente establecer modificaciones a las condiciones generales aprobadas.
+2. Los autorizados y concesionarios podrán establecer los pactos y condiciones que tengan por conveniente, siempre que no sean contrarios al interés público, al Ordenamiento jurídico, o a los principios de buena administración.
+Los concesionarios de dominio público deberán ostentar plena capacidad de obrar y no estar incursos en las prohibiciones de contratar de la legislación de Contratos de las Administraciones Públicas.
+3. De las concesiones y autorizaciones otorgadas se dará cuenta a la Consejería de Presidencia y Hacienda a efectos de su inclusión en el Inventario General de Bienes y Derechos.
+4. A las concesiones y autorizaciones de dominio público previstas en la legislación de carreteras, transportes, urbanismo y otras normas específicas, y a aquellas concesiones de servicios públicos que requieran ocupaciones de dominio público les será de aplicación con carácter subsidiario las disposiciones de esta Ley.
+5. El otorgamiento de concesiones sobre bienes de dominio público se efectuará en régimen de concurrencia. No obstante, podrá aprobarse el otorgamiento directo en los supuestos previstos en el artículo 137.4 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, cuando se den circunstancias excepcionales, debidamente justificadas, o en otros supuestos establecidos en las Leyes. Una vez otorgada la concesión deberá formalizarse en documento administrativo, que será título suficiente para su inscripción en el Registro de la Propiedad.
+Las autorizaciones se otorgarán directamente a los peticionarios que reúnan las condiciones requeridas, salvo si, por cualquier circunstancia, se encontrase limitado su número, en cuyo caso lo serán en régimen de concurrencia, y si ello no fuere procedente, por no tener que valorarse condiciones especiales en los solicitantes, mediante sorteo, si otra cosa no se hubiese establecido en las condiciones por las que se rigen.
+Se añade el párrafo 5 por el art. 9.4 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
+
+### Artículo 35
+
+Artículo 35. Pérdida de la condición demanial.
+1. Cuando los bienes de dominio público sobre los que exista una concesión o autorización pierdan ese carácter y adquieran la condición de patrimoniales, se tendrán en cuenta las siguientes reglas:
+a) Los titulares de concesiones y autorizaciones deberán ser oídos en el expediente de desafectación.
+b) Los derechos y obligaciones de los beneficiarios subsistirán en las mismas condiciones mientras dure el plazo concedido.
+c) El órgano que adoptó el acuerdo de concesión o autorización irá declarando la caducidad de aquéllas a medida que vayan venciendo los plazos.
+d) Se procederá de igual forma, sin esperar al vencimiento de los plazos, cuando la Comunidad se hubiera reservado la facultad de libre revocación.
+2. Podrá acordarse, mediante expediente motivado, la expropiación de los derechos, si se estimase que su mantenimiento durante el término de su vigencia legal perjudica el ulterior destino de los bienes o les hiciera desmerecer considerablemente en el caso de acordar su enajenación.
+
+### Artículo 36
+
+Artículo 36. Adquisición preferente.
+Siempre que se acuerde la enajenación de los bienes a los que se refiere el artículo anterior, los titulares de los derechos vigentes sobre ellos que resulten de concesiones o autorizaciones otorgadas cuando los bienes eran de dominio público tendrán la facultad potestativa de adquirirlos con preferencia a toda otra persona.
+
+### Artículo 37
+
+Artículo 37. Concesión de servicio público y demanial.
+1. Cuando para la prestación en régimen de concesión de un servicio público de la Comunidad de Madrid sea necesario el uso común especial o el uso privativo de un determinado bien de dominio público de la misma, la concesión o autorización se entenderá implícita en la del servicio público.
+De la adjudicación de los correspondientes contratos se dará cuenta a la Consejería de Presidencia y Hacienda a efectos de su inclusión en el Inventario General de Bienes y Derechos.
+2. El plazo máximo de las autorizaciones y concesiones demaniales, incluidas las prórrogas, no podrá exceder de setenta y cinco años, salvo que se establezca otro menor en las normas especiales que sean de aplicación.
+3. Si la Comunidad de Madrid estimase conveniente hacer reserva de la facultad de libre rescate de la concesión o autorización, deberá establecerlo previamente en la convocatoria o en las condiciones previas al otorgamiento, determinando al mismo tiempo la forma y condiciones del rescate.
+Se modifica el apartado 2 por el art. 9.5 de la Ley 2/2004, de 31 de mayo. Ref. BOE-A-2004-12575.
+
+## CAPÍTULO III
+
+Régimen de los bienes de dominio privado
+
+## Sección 1
+
+Sección 1.ª Negocios jurídicos patrimoniales
+
+### Artículo 38
+
+Artículo 38. Libertad de pactos, competencia y capacidad para contratar.
+1. La Comunidad de Madrid podrá concertar los contratos, pactos y condiciones que tenga por conveniente, siempre que no sean contrarios al interés público, al Ordenamiento jurídico o a los principios de buena administración, y deberá cumplirlos a tenor de los mismos.
+En particular, la Comunidad de Madrid, sus Organismos Autónomos, Entidades de Derecho Público y demás Entes Públicos podrán concertar con cualquier persona física o jurídica, incluidas las Empresas Públicas de la Comunidad de Madrid, todo tipo de negocios jurídicos patrimoniales, típicos, atípicos, mixtos o complejos, en los que se podrán contemplar cualesquiera cláusulas válidas en Derecho.
+Los negocios jurídicos patrimoniales podrán tener por objeto bienes futuros, estar sujetos a plazo, condición y modo y contener prestaciones accesorias y derechos de garantía.
+En su preparación y adjudicación, los negocios jurídicos patrimoniales atípicos, mixtos o complejos se tramitarán en expediente único y se regirán por las normas correspondientes al negocio que constituya su objeto principal.
+2. Con carácter general, la competencia para acordar contratos patrimoniales corresponderá al Consejero de Presidencia y Hacienda, si tuvieran por objeto bienes inmuebles o títulos valores o a los titulares de las Consejerías interesadas, si tuvieran por objeto bienes muebles o propiedades incorporales, sin perjuicio de lo dispuesto en esta Ley.
+3. Podrán celebrar contratos patrimoniales con la Comunidad de Madrid las personas físicas o jurídicas con plena capacidad de obrar.
+Se añaden los 3 últimos párrafos al apartado 1 por el art. 12.1 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+## Sección 2
+
+Sección 2.ª Adquisición de bienes y derechos
+
+### Artículo 39
+
+Artículo 39. Adquisición de bienes y derechos.
+1. La Comunidad de Madrid podrá adquirir bienes y derechos por cualquier título jurídico.
+2. Los bienes y derechos adquiridos se integrarán en el dominio privado, sin perjuicio de su afectación al uso general o al servicio público.
+La adscripción, desadscripción y mutaciones en el fin de los bienes patrimoniales y la transferencia de titularidad de éstos a los organismos autónomos, entidades de derecho público y demás entes públicos se regirán por las normas establecidas en los artículos 24 a 27 de la presente Ley.
+
+### Artículo 40
+
+Artículo 40. Adquisición a título gratuito.
+1. La adquisición de bienes y derechos a título gratuito en favor de la Comunidad de Madrid se acordará por el Consejero de Presidencia y Hacienda cuando comprenda bienes inmuebles o títulos valores. En el supuesto de que comprenda únicamente otros bienes muebles se acordará por el titular de la Consejería o, en su caso, por el Consejo de Administración del organismo autónomo, entidad de derecho público o ente público a que se destinen.
+2. Las adquisiciones de bienes y derechos a título gratuito o lucrativo se aceptarán siempre que el valor global de las cargas o gravámenes no excedan del valor intrínseco de aquéllos.
+3. Las herencias se aceptarán a beneficio de inventario por el Gobierno de la Comunidad de Madrid.
+
+### Artículo 41
+
+Artículo 41. Adquisición a título oneroso.
+1. Salvo en el caso de expropiación forzosa y en los supuestos en que la Comunidad de Madrid goce de un derecho de adquisición preferente, las adquisiciones a título oneroso se efectuarán con carácter general mediante concurso público, en la forma que reglamentariamente se determine, y mediante adquisición directa cuando se dé alguno de los supuestos previstos en esta ley.
+2. En el concurso, la adjudicación recaerá en el licitador que, en su conjunto, haga la proposición más ventajosa, teniendo en cuenta los criterios que se hayan establecido en los pliegos, sin atender exclusivamente al precio de la misma y sin perjuicio del derecho de la Administración a declararlo desierto.
+
+### Artículo 42
+
+Artículo 42. Adquisición de bienes inmuebles y derechos inmobiliarios a título oneroso.
+1. La adquisición a título oneroso de bienes inmuebles y derechos sobre los mismos que la Comunidad de Madrid necesite para el cumplimiento de sus fines y la gestión de sus intereses será acordada por el Consejero de Presidencia y Hacienda, a propuesta de la Consejería interesada.
+2. El Consejero de Presidencia y Hacienda podrá exceptuar el concurso y autorizar excepcionalmente la adquisición directa de bienes inmuebles y derechos inmobiliarios, a propuesta de la Consejería interesada, previo informe de la Dirección General de Patrimonio, cuando concurra alguna de las siguientes circunstancias:
+a) Reconocida urgencia de la adquisición a efectuar.
+b) Escasez de la oferta en el mercado inmobiliario de la localidad o entorno donde estén situados los inmuebles.
+c) Peculiaridad del servicio o de la necesidad que deba ser satisfecha.
+d) Precio del bien o derecho a adquirir inferior a 49.915.800 pesetas (300.000 euros).
+e) Singularidad del bien o derecho que se pretenda adquirir.
+3. Sin perjuicio de lo dispuesto en el apartado 3 del artículo 57
+de la Ley Reguladora de la Hacienda de la Comunidad de Madrid, por Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda, podrá diferirse el pago en cualquier modo de adquisición a título oneroso de la propiedad de bienes inmuebles en que se pacten garantías hipotecarias, censales, enfitéuticas o de otra naturaleza. En tales casos, no procederán los límites en las anualidades y porcentajes de los gastos plurianuales. Los inmuebles así adquiridos tendrán carácter patrimonial hasta que sea cancelado el gravamen constituido.
+4. La Comunidad de Madrid podrá adquirir a título oneroso bienes inmuebles como licitadora en procedimientos de subasta.
+5. Se dará cuenta a la Asamblea de Madrid de todas las adquisiciones a que se refiere el apartado 3 del presente artículo, así como de todas las demás cuyo importe sea superior a 499.158.000 pesetas (3.000.000 euros).
+
+### Artículo 43
+
+Artículo 43. Afectación, adscripción y conservación de los bienes inmuebles y derechos adquiridos.
+1. Una vez adquiridos los inmuebles y derechos sobre los mismos por cualquiera de los procedimientos indicados, la Consejería de Presidencia y Hacienda procederá a realizar los trámites necesarios para la afectación, y adscripción, en su caso, así como a su inclusión en el Inventario General de Bienes y Derechos y a su inscripción en el Registro de la Propiedad.
+2. Corresponderá a la Dirección General de Patrimonio la adopción de las medidas necesarias para la conservación de los bienes expresados, hasta que sean adscritos a la Consejería correspondiente.
+
+### Artículo 44
+
+Artículo 44. Adquisición de bienes muebles a título oneroso.
+La adquisición a título oneroso de los bienes muebles necesarios para el ejercicio de las competencias y la prestación de los servicios públicos de la Comunidad de Madrid se acordará por los órganos de contratación y se someterá a la legislación de Contratos de las Administraciones Públicas respecto del contrato de suministro.
+
+## Sección 3
+
+Sección 3.ª Adjudicación de bienes o derechos
+
+### Artículo 45
+
+Artículo 45. Adjudicación y dación en pago de bienes o derechos mediante resolución judicial o administrativa.
+1. Toda resolución judicial o administrativa, por la que se adjudiquen o cedan en pago de obligaciones bienes o derechos de cualquier clase a la Comunidad de Madrid, será comunicada a la Consejería de Presidencia y Hacienda.
+2. La Dirección General de Patrimonio, previa la identificación de los bienes o derechos, la depuración de su situación jurídica y su valoración, incluirá los mismos en el Inventario General de Bienes y Derechos.
+
+## Sección 4
+
+Sección 4.ª Arrendamientos de bienes
+
+### Artículo 46
+
+Artículo 46. Arrendamiento de bienes.
+1. Le corresponde al titular de la consejería que ostente las competencias en materia de Hacienda, a propuesta de la consejería interesada, acordar y resolver los arrendamientos de bienes inmuebles que la Comunidad de Madrid precise para el cumplimiento de sus fines y para la gestión de sus propios intereses.
+En los organismos autónomos, entidades de derecho público y demás entes públicos esta competencia le corresponderá al órgano que determinen sus estatutos o norma de creación o, en su defecto, a su órgano de contratación, previo informe de la consejería que ostente las competencias en materia de Hacienda.
+En los supuestos de arrendamientos con opción de compra, arrendamientos financieros y demás contratos mixtos de bienes inmuebles, tanto de arrendamiento y adquisición, como de enajenación y arrendamiento, se aplicará lo dispuesto en materia de adquisiciones en el artículo 42 y en materia de enajenaciones en el artículo 50 de esta ley.
+Los contratos de arrendamiento financiero y contratos mixtos, a que se refiere el párrafo precedente, se reputarán contratos de arrendamiento, a los efectos previstos en materia de gastos plurianuales en el artículo 55 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+2. Se acordarán y resolverán por el titular de la Consejería interesada los siguientes contratos de arrendamiento:
+a) Los contratos de arrendamiento que quedan fuera del ámbito de aplicación de la Ley de Arrendamientos Urbanos. La tramitación de estos contratos requerirá el previo informe de la Dirección General de Patrimonio.
+b) Los arrendamientos de espacios o locales para la celebración de ferias, certámenes, jornadas o impartición de acciones formativas.
+c) Los contratos menores a los que se refiere el apartado 4 de este artículo.
+3. Procederá la contratación directa cuando concurra alguna de las circunstancias previstas en el artículo 42 de esta ley.
+4. Tendrán la consideración de contrato menor los arrendamientos de inmuebles cuya renta no exceda de 30.000 euros por toda la duración pactada, que no podrá ser superior a tres meses, incluidas posibles prórrogas.
+En estos casos la tramitación del expediente sólo exigirá la aprobación del gasto y la incorporación al mismo de la factura correspondiente que reúna los requisitos reglamentariamente establecidos.
+5. Concertado el arrendamiento del inmueble y, en su caso, adscrito el derecho arrendaticio a la Consejería, Organismo o Entidad que haya de utilizarlo, corresponderá a éstos adoptar cuantas medidas sean necesarias para mantener el bien en condiciones de servir en todo momento al fin a que se destina.
+6. Cuando la Consejería, Organismo o Entidad que ocupa el inmueble arrendado deje de necesitarlo lo comunicará a la Consejería de Presidencia y Hacienda a fin de que ésta haga el ofrecimiento a otras Consejerías, al efecto de que se lleve a cabo el cambio de destino de la finca arrendada o, en su caso, se proceda a la resolución del contrato.
+7. Los arrendamientos con y sin opción de compra y los arrendamientos financieros de bienes muebles se regirán por lo dispuesto en la legislación de Contratos de las Administraciones Públicas, y les serán de aplicación las normas referentes a la adquisición onerosa de bienes muebles contenidas en el artículo 44 de la presente Ley.
+8. La Comunidad de Madrid podrá también arrendar inmuebles propiedad de cualquier Empresa Pública de la propia Comunidad, en términos y condiciones de mercado, para atender los fines o intereses indicados en el primer párrafo del apartado 1 del presente artículo. El contrato de arrendamiento contendrá las previsiones pertinentes para dar cumplimiento a lo dispuesto en el apartado 5 del presente artículo. Si la Empresa Pública arrendadora hubiese de constituir o pactar garantías reales o de otro tipo sobre el inmueble o sobre el contrato de arrendamiento, a favor de terceros financiadores, la Consejería de Hacienda podrá tomar razón de las mismas al objeto de asegurar la compatibilidad entre la eficacia de dichas garantías y la continuidad del arrendamiento de que se trate.
+Se modifica el apartado 1 por el art. 6 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se modifica por el art. 4 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+ Se modifican los apartados 2 y 4 por el art. 7.1 y 2 de la Ley 7/2005, de 23 de diciembre. Ref. BOE-A-2006-3668.
+ Se añade el apartado 8 por el art. 12.2 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+## Sección 5
+
+Sección 5.ª Adquisición a título oneroso de acciones, participaciones y valores
+
+### Artículo 47
+
+Artículo 47. Adquisición de acciones, participaciones y valores.
+1. La constitución de sociedades mercantiles en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos se autorizará de conformidad con lo dispuesto en la Ley de Administración Institucional.
+Asimismo, los actos que impliquen la adquisición de la posición mayoritaria en el capital de sociedades mercantiles se autorizarán de acuerdo con lo establecido en la mencionada Ley.
+2. En los demás casos, la adquisición a título oneroso, con aportación dineraria o no dineraria, cualquiera que sea su importe, por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos, de acciones y participaciones del capital de sociedades mercantiles, se autorizará por el Gobierno, a propuesta del titular de la Consejería de Presidencia y Hacienda, y previa solicitud de la Consejería, organismo o entidad interesados.
+3. El ejercicio de los derechos inherentes a la condición de socio corresponderá a la Consejería, organismo autónomo, entidad de derecho público o ente público a que estuvieran adscritas las correspondientes acciones y participaciones del capital social.
+4. La adquisición a título oneroso por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos de otros valores distintos de los anteriores así como de títulos representativos de derechos de crédito se autorizará por el Consejero de Presidencia y Hacienda.
+5. En el caso de aportaciones no dinerarias efectuadas por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos, a sociedades mercantiles con forma de sociedad anónima cuyo capital sea en su totalidad de titularidad, directa o indirecta, de los mismos, será de aplicación lo establecido en el artículo 182 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+Se añade el apartado 5 por el art. 7.3 de la Ley 7/2005, de 23 de diciembre. Ref. BOE-A-2006-3668.
+
+## Sección 6
+
+Sección 6.ª Adquisición de derechos de propiedad incorporal
+
+### Artículo 48
+
+Artículo 48. Adquisición de derechos de propiedad incorporal.
+La adquisición de derechos de propiedad intelectual e industrial, regulada en sus leyes especiales, será acordada por la Consejería o el Consejo de Administración del organismo o entidad de derecho público o ente público, en su caso, competentes por razón de la materia, y comunicada a la Consejería de Presidencia y Hacienda.
+
+## Sección 7
+
+Sección 7.ª Enajenación a título oneroso de bienes y derechos
+
+### Artículo 49
+
+Artículo 49. Enajenación de bienes y derechos a título oneroso.
+1. Los bienes y derechos que constituyen el dominio privado de la Comunidad de Madrid, cuando no sean necesarios para el ejercicio de sus funciones, podrán ser enajenados.
+2. La enajenación de esos bienes y derechos se efectuará mediante subasta o concurso, salvo que en la presente Ley se establezca otra cosa.
+La subasta versará sobre un tipo expresado en dinero con adjudicación al licitador que oferte el precio más alto.
+3. Podrán enajenarse bienes litigiosos del Patrimonio de la Comunidad de Madrid siempre que en la venta se observen las siguientes condiciones:
+a) En el caso de venta por concurso o por subasta, en el pliego de bases se hará mención expresa y detallada del objeto, partes y referencia del litigio concreto que afecta al bien y deberá preverse la plena asunción, por quien resulta adjudicatario, de los riesgos y consecuencias que se deriven del litigio.
+b) En los supuestos legalmente previstos de venta directa deberá constar en el expediente documentación acreditativa de que el adquirente conoce el objeto y el alcance del litigio y que conoce y asume las consecuencias y riesgos derivados de tal litigio.
+En ambos casos, la asunción por el adquirente de las consecuencias y riesgos derivados del litigio figurará necesariamente en la escritura pública en que se formalice la enajenación.
+4. Si el litigio se plantease una vez iniciado el procedimiento de enajenación y este se encontrase en una fase en la que no fuera posible el cumplimiento de lo establecido en el apartado anterior, se retrotraerán las actuaciones hasta la fase que permita el cumplimiento de lo indicado en los citados números.
+5. El bien se considerará litigioso desde que el órgano competente para la enajenación tenga constancia formal del ejercicio, ante la jurisdicción que proceda, de la acción correspondiente y de su contenido.
+Se modifica por el art. 9.3 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 50
+
+Artículo 50. Enajenación de bienes inmuebles y derechos inmobiliarios.
+1. Para enajenar bienes inmuebles, constituir derechos de superficie y otros derechos inmobiliarios y enajenarlos será requisito necesario la previa declaración de alienabilidad acordada por el Consejero de Presidencia y Hacienda.
+2. Serán competentes para acordar la enajenación de bienes inmuebles y constituir y enajenar derechos inmobiliarios, el Consejero de Presidencia y Hacienda, si el valor de aquéllos, fijado por tasación pericial, es inferior a 499.158.000 pesetas (3.000.000 euros), y el Gobierno, a propuesta del Consejero de Presidencia y Hacienda, en los demás casos.
+En los respectivos acuerdos de enajenación, y sin perjuicio del establecimiento de otros pactos, podrá autorizarse la celebración de contratos de arrendamiento, o de arrendamiento financiero de los bienes inmuebles enajenados, cuando se considere procedente que temporalmente sigan siendo utilizados por los servicios administrativos. En todo caso, los citados acuerdos deberán ser adoptados previo informe de las Direcciones Generales de Patrimonio y Presupuestos.
+3. Antes de iniciarse los trámites conducentes a la enajenación de un bien inmueble o derecho inmobiliario se procederá a depurar la situación física y jurídica del mismo, debiéndose inscribir en el Registro de la Propiedad, si no lo estuviese.
+4. La enajenación de los bienes inmuebles y derechos inmobiliarios se realizará, previa tasación pericial, mediante concurso o subasta pública. No obstante, el órgano competente podrá acordar la enajenación directa, cuando el valor del bien o derecho fuera inferior a 300.000 euros, el concurso o la subasta quedaren desiertos, existieran derechos de adquisición preferente a favor de terceros o, por razones excepcionales debidamente justificadas en el expediente, resultara más aconsejable para los intereses patrimoniales de la Comunidad de Madrid.
+5. De las enajenaciones de bienes inmuebles, cuyo importe sea superior a 49.915.800 pesetas (300.000 euros) se dará cuenta a la Asamblea de Madrid.
+6. Para tomar parte en procedimientos de enajenación de bienes inmuebles y derechos inmobiliarios mediante subasta o concurso, el Pliego de condiciones o documento equivalente podrá exigir una garantía de hasta un 25 por 100 del tipo de licitación.
+La garantía, que en ningún caso otorgará derecho alguno a la venta, responderá del mantenimiento de las proposiciones presentadas por los licitadores hasta la adjudicación y de la proposición del adjudicatario hasta el otorgamiento de la escritura pública de compraventa.
+Se añade apartado 6 por el art. 7 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Se modifica el apartado 4 por el art. 9.4 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 51
+
+Artículo 51. Enajenación de bienes muebles.
+1. La enajenación de los bienes muebles, cuando no sean necesarios para el ejercicio de las funciones públicas, se acordará por el titular de la consejería a la que estén adscritos, previa tasación pericial, mediante concurso o subasta pública. Si el importe de la tasación superara la cifra de 1.000.000 de euros la competencia para acordar la enajenación será del Gobierno, previo informe de la Consejería de Hacienda.
+Si se tratara de bienes muebles incluidos en el Inventario General de Bienes y Derechos, deberán darse de baja en el mismo.
+2. Podrá acordarse la enajenación directa cuando el valor de los bienes fuera inferior a 4.991.580 pesetas (30.000 euros), o cuando realizada la subasta quedare desierta.
+Se modifica el apartado 1 por el art. 9.5 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 52
+
+Artículo 52. Enajenación de acciones, participaciones y valores.
+1. La disolución de sociedades mercantiles en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos se autorizará de conformidad con lo dispuesto en la Ley de Administración Institucional.
+Asimismo, los actos que impliquen la pérdida de la posición mayoritaria, directa o indirecta, en el capital de sociedades mercantiles se autorizarán de acuerdo con lo establecido en la mencionada Ley.
+2. En los demás casos, la enajenación de acciones y participaciones del capital de sociedades mercantiles se autorizará por Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda, y previa solicitud de la Consejería, organismo autónomo, entidad de derecho público o ente público interesados.
+3. La enajenación de otros valores y de títulos representativos de derechos de crédito se autorizará por el Consejero de Presidencia y Hacienda.
+4. La enajenación de acciones, participaciones y valores se realizará en bolsa, si se cotizan en la misma. En otro caso, y previa tasación pericial, se realizará por concurso o pública subasta, salvo que el Gobierno, a propuesta del titular de la Consejería de Hacienda, acuerde su enajenación directa.
+Se modifica el apartado 4 por el art. 9.6 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+### Artículo 53
+
+Artículo 53. Enajenación de derechos de propiedad incorporal.
+La enajenación de derechos de propiedad intelectual e industrial, regulada por sus leyes especiales, será acordada por la Consejería o el Consejo de Administración del organismo o entidad de derecho público o ente público, en su caso, competentes por razón de la materia, previo informe de la Consejería de Presidencia y Hacienda.
+
+### Artículo 54
+
+Artículo 54. Permuta de bienes y derechos.
+1. Los bienes muebles, inmuebles y derechos patrimoniales podrán ser objeto de permuta por otros, previa tasación pericial y justificación de su conveniencia. El acuerdo de permuta llevará implícita la declaración de alienabilidad.
+2. Si se autorizase la permuta y hubiere diferencia de valoración entre ambos bienes o derechos, se procederá a su compensación en metálico.
+3. No obstante, y sin perjuicio de lo dispuesto en la legislación de expropiación forzosa sobre el pago del justiprecio en especie, por motivos de interés público debidamente acreditados, podrá excluirse la compensación en metálico en las permutas con otras Administraciones públicas, siempre que la diferencia de valor entre los bienes y derechos permutados no exceda del 50 por 100.
+4. La competencia para autorizar la permuta corresponderá al Órgano que sea competente para la enajenación.
+
+## Sección 8
+
+Sección 8.ª Cesiones gratuitas
+
+### Artículo 55
+
+Artículo 55. Cesiones gratuitas de propiedad de bienes inmuebles.
+1. La propiedad de los bienes inmuebles de dominio privado de la Comunidad de Madrid, cuya afectación o explotación no se juzgue previsible, podrá ser cedida gratuitamente a otras Administraciones públicas, para fines de utilidad pública o interés social, mediante Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda.
+2. En el acuerdo de cesión, que se publicará en el «Boletín Oficial de la Comunidad de Madrid», se expresará la finalidad a la que se destinarán los bienes cedidos, así como sus condiciones.
+3. Si los bienes cedidos no fueren aplicados al fin previsto dentro del plazo establecido en el acuerdo de cesión, o dejaren de ser destinados al mismo con posterioridad, la cesión se considerará resuelta, revertiendo los bienes a la Comunidad de Madrid, la cual tendrá derecho a percibir, previa tasación pericial, el valor de los daños y perjuicios y el detrimento que hubieren experimentado.
+4. Las cesiones gratuitas de propiedad se formalizarán en escritura pública y se inscribirán en el Registro de la Propiedad.
+
+### Artículo 56
+
+Artículo 56. Cesiones gratuitas de uso de bienes inmuebles y derechos reales inmobiliarios.
+1. El uso de los bienes inmuebles y derechos reales inmobiliarios patrimoniales de la Comunidad de Madrid, cuya afectación o explotación no se juzgue previsible, podrá ser cedido gratuitamente por el Consejero de Presidencia y Hacienda, por un plazo máximo de treinta años, para fines de utilidad pública o interés social.
+2. Las cesiones de uso a favor de otras Administraciones públicas y de corporaciones, asociaciones y fundaciones sin ánimo lucro se considerarán de utilidad pública o interés social.
+3. Son de aplicación a estas cesiones de uso las prescripciones contenidas en los apartados 2 y 3 del artículo anterior.
+4. Los derechos y obligaciones de los cesionarios de uso se regirán, salvo que se establezca otra cosa, por las disposiciones del Código Civil relativas al uso y supletoriamente al usufructo.
+
+### Artículo 57
+
+Artículo 57. Cesiones gratuitas de derechos de superficie y otros derechos reales sobre bienes inmuebles.
+1. La Comunidad de Madrid, mediante Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda, podrá constituir y ceder a título gratuito derechos de superficie y otros derechos reales sobre inmuebles patrimoniales, cuya afectación o explotación no se juzgue previsible, a favor de otras Administraciones públicas y de corporaciones, asociaciones y fundaciones sin ánimo de lucro, para fines de utilidad pública o interés social.
+2. Estas cesiones se regirán por lo establecido en los apartados 2, 3 y 4 del artículo 55 de la presente Ley.
+
+### Artículo 58
+
+Artículo 58. Cesiones en precario de bienes inmuebles y derechos reales inmobiliarios.
+Los bienes inmuebles y derechos reales inmobiliarios patrimoniales, que no convenga enajenar y no sean susceptibles de aprovechamiento rentable, podrán ser cedidos en precario por el Consejero de Presidencia y Hacienda a otras Administraciones públicas y a corporaciones, asociaciones y fundaciones sin ánimo de lucro.
+
+### Artículo 59
+
+Artículo 59. Cesiones gratuitas de bienes muebles y derechos incorporales.
+1. La propiedad o el uso de los bienes muebles y derechos incorporales, cuya afectación o explotación no se juzgue previsible, podrán ser cedidos gratuitamente por la Consejería, el Consejo de Administración del organismo, entidad de derecho público o ente público, en su caso, que los hayan adquirido, a otras Administraciones públicas y a corporaciones, asociaciones y fundaciones sin ánimo de lucro que realicen su actividad en el ámbito territorial de la Comunidad de Madrid, para fines de utilidad pública o interés social.
+2. Es de aplicación a estas cesiones lo dispuesto en el apartado 3 del artículo 55.
+
+## Sección 9
+
+Sección 9.ª Prescripción
+
+### Artículo 60
+
+Artículo 60. Prescripción de los derechos sobre bienes patrimoniales.
+Los derechos sobre los bienes de dominio privado prescriben a favor y en contra de la Comunidad de Madrid con arreglo a lo establecido en el Derecho privado.
+
+## Sección 10
+
+Sección 10.ª Explotación de bienes patrimoniales
+
+### Artículo 61
+
+Artículo 61. Explotación de los bienes patrimoniales.
+1. Los bienes inmuebles y derechos inmobiliarios patrimoniales de naturaleza urbana que no convenga enajenar y sean susceptibles de aprovechamiento rentable deben ser explotados, bien directamente, o por medio de un organismo autónomo, entidad de derecho público o ente público, o por particulares mediante contrato.
+Dicha explotación será acordada por la Consejería de Presidencia y Hacienda.
+La explotación de bienes inmuebles adscritos a varias Consejerías, organismos o entidades deberá ser acordada por el Gobierno, a propuesta del Consejero de Presidencia y Hacienda.
+La explotación de bienes inmuebles y derechos patrimoniales de naturaleza rústica será acordada por la Consejería o el Consejo de Administración del organismo o entidad a que estén adscritos, previo informe de la Consejería de Presidencia y Hacienda.
+La explotación de bienes muebles y propiedades incorporales corresponderá a la Consejería o al Consejo de Administración del organismo o entidad que los tenga adscritos.
+2. Si la Consejería competente acordase que la explotación de los bienes inmuebles y derechos inmobiliarios patrimoniales se llevase directamente o por medio de un organismo autónomo, entidad de derecho público o ente público, fijará sus requisitos y, en su caso, se tomarán las medidas necesarias para la entrega del bien y vigilancia del exacto cumplimiento de las condiciones que hubieren sido acordadas.
+
+### Artículo 62
+
+Artículo 62. Explotación mediante contrato.
+1. Si se dispusiera que la explotación de los bienes se realice por particulares mediante contrato, se celebrará éste por el procedimiento de concurso, que será convocado y resuelto por el órgano competente a que se refiere el artículo anterior.
+2. No obstante, la explotación podrá ser contratada directamente cuando concurra alguno de los siguientes supuestos debidamente acreditado en el expediente:
+a) Existan motivos de interés público.
+b) La contraprestación económica a percibir por la Comunidad de Madrid sea inferior a 4.991.580 pesetas (30.000 euros) anuales.
+c) El concurso haya quedado desierto.
+d) No sea posible promover la concurrencia en la oferta.
+3. Están facultados para contratar con la Administración la explotación de bienes patrimoniales las personas físicas y jurídicas con plena capacidad de obrar y que no se encuentren incursas en ninguna de las causas de prohibición previstas en la legislación de contratos de las Administraciones públicas.
+
+### Artículo 63
+
+Artículo 63. Prórroga y subrogación de la explotación.
+1. A petición del adjudicatario podrá prorrogarse el contrato al término del plazo convenido, si el resultado de la explotación hiciera aconsejable esta medida.
+La prórroga ha de solicitarse antes del vencimiento del plazo contractual y podrá otorgarse por un tiempo no superior al de la mitad del inicial.
+2. La subrogación de cualquier persona natural o jurídica en los derechos y obligaciones del adjudicatario requerirá también aprobación del órgano competente.
+3. En todo caso, ha de tenerse presente lo dispuesto por la legislación civil y la especial en materia de arrendamientos.
+
+## CAPÍTULO IV
+
+Régimen jurídico especial en organismos autónomos, entidades de derecho público y demás entes públicos
+
+### Artículo 64
+
+Artículo 64. Patrimonio propio y adscrito.
+1. Los organismos autónomos, entidades de derecho público y entes públicos, además de ostentar la titularidad sobre su patrimonio propio, podrán tener adscritos bienes del Patrimonio de la Comunidad de Madrid, conforme a lo dispuesto en la presente Ley. Asimismo, el Gobierno, a propuesta del Consejero de Presidencia y Hacienda, podrá transferir a dichos organismos y entidades la titularidad de bienes patrimoniales y de dominio público en las condiciones previstas en el artículo 24 y en el apartado 2 del artículo 39.
+2. Corresponde a la Consejería de Presidencia y Hacienda velar por la aplicación del fin o destino de los bienes adscritos o transferidos, promover y acordar, en su caso, la desadscripción o reversión de los mismos.
+
+### Artículo 65
+
+Artículo 65. Adquisición de bienes.
+1. Estos organismos y entidades tienen plena capacidad para adquirir bienes y derechos por cualquiera de los medios establecidos por el ordenamiento jurídico, así como para ejercitar las prerrogativas previstas en esta Ley y las demás acciones y recursos que procedan en defensa de su patrimonio, y les corresponden las funciones y responsabilidades de administración, gestión y conservación de sus bienes propios y adscritos.
+2. Las competencias atribuidas en esta Ley al titular de la Consejería de Presidencia y Hacienda para la adquisición a título oneroso de cualquier titularidad sobre bienes inmuebles corresponden al Consejo de Administración del organismo o entidad, que las ejercerá, previo informe favorable de la Consejería de Presidencia y Hacienda, conforme a lo previsto en el capítulo III.
+
+### Artículo 66
+
+Artículo 66. Integración en el Patrimonio, explotación y enajenación de bienes.
+1. Estos organismos y entidades podrán enajenar los bienes y derechos adquiridos por ellos mismos, siempre que dichas enajenaciones formen parte de sus operaciones estatutarias y constituyan el objeto directo de sus actividades.
+2. Los bienes inmuebles propios de los citados organismos y entidades que sean innecesarios para el cumplimiento de sus fines se incorporarán al Patrimonio de la Administración de la Comunidad de Madrid, salvo que la norma de creación disponga lo contrario.
+3. El acuerdo de incorporación de bienes inmuebles al Patrimonio de la Administración de la Comunidad de Madrid se adoptará por el Consejo de Administración del organismo o entidad, previo informe de la Consejería de Presidencia y Hacienda, que se entenderá favorable, transcurrido el plazo de un mes desde la recepción de la pertinente solicitud.
+4. Los bienes inmuebles propios de las entidades a que se refiere este artículo que se incorporen al Patrimonio de la Administración de la Comunidad de Madrid serán inscritos en el Registro de la Propiedad a su nombre de conformidad con la legislación hipotecaria.
+5. La explotación de los bienes patrimoniales propios y su enajenación, cuando no proceda su incorporación al Patrimonio de la Administración de la Comunidad de Madrid, se regirán por las reglas del capítulo III. La competencia para adoptar los acuerdos de explotación y enajenación corresponde al Consejo de Administración del organismo o entidad, previo informe de la Consejería de Presidencia y Hacienda cuando tuvieran por objeto bienes inmuebles, siendo necesaria la aprobación del Gobierno en la enajenación de los mismos, cuando su valor supere el límite establecido en el apartado 2 del artículo 50.
+
+### Artículo 67
+
+Artículo 67. Bienes demaniales.
+1. La afectación de bienes y derechos propios a los fines o servicios públicos que presten los organismos autónomos o las entidades de derecho público y demás entes públicos será acordada por el Consejero de Presidencia y Hacienda, a propuesta del Consejo de Administración, entendiéndose implícita la afectación a dichos fines en los supuestos y en las condiciones establecidas en esta Ley.
+2. Los bienes de los organismos autónomos, entidades de derecho público y demás entes públicos afectados a un uso o servicio público se incorporarán a su dominio privado en el caso de que se acuerde su desafectación de acuerdo con lo previsto en esta Ley.
+Los bienes contemplados en el presente artículo se regirán por lo dispuesto en el capítulo II de esta Ley, sin perjuicio de lo establecido en el presente capítulo.
+3. Las concesiones y autorizaciones sobre el dominio público de los bienes propios y adscritos del organismo o entidad de derecho público o ente público se otorgarán por su Consejo de Administración, previo informe de la Consejería de Presidencia y Hacienda, siendo de aplicación las normas establecidas en esta Ley para los bienes de dominio público de la Comunidad.
+
+### Artículo 68
+
+Artículo 68. Extinción del organismo.
+El patrimonio de los organismos autónomos, entidades de derecho público y demás entes públicos extinguidos se integrará en el Patrimonio de la Administración de la Comunidad de Madrid, debiéndose proceder a las inscripciones registrales procedentes de conformidad con la legislación hipotecaria.
+
+### Artículo 69
+
+Artículo 69. Inventario e inscripción.
+1. Los organismos y entidades a que se refiere este capítulo formarán y mantendrán actualizado su inventario de bienes y derechos conforme a las reglas previstas en el artículo 8 de la presente Ley.
+2. Los Notarios y Registradores de la Propiedad harán constar en las escrituras públicas e inscripciones registrales que autoricen que el organismo o entidad a cuyo favor se escritura e inscribe el inmueble o derecho correspondiente dependen de la Comunidad de Madrid.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Patrimonio de suelo y vivienda.
+1. El Patrimonio Público del Suelo se regirá por su normativa específica y subsidiariamente por las disposiciones de esta Ley.
+2. La Consejería competente por razón de la materia ejercitará las facultades atribuidas en esta Ley a la Consejería de Presidencia y Hacienda en relación con el patrimonio del suelo afecto a actuaciones urbanísticas y el de la promoción pública de la vivienda, sin perjuicio de las que correspondan al Organismo Autónomo Instituto de la Vivienda de Madrid de acuerdo con su normativa específica.
+Las adquisiciones, explotación de bienes patrimoniales y enajenaciones realizadas por el Instituto de la Vivienda de Madrid que formen parte de sus operaciones estatutarias y constituyan el objeto directo de sus actividades no precisarán la declaración de alienabilidad ni los informes previos a que se refieren el apartado 1 del artículo 50 y los artículos 65 y 66 de la presente Ley.
+En lugar del certificado regulado en el artículo 15 de la presente Ley, en los expedientes de contratación de obras del Instituto de la Vivienda de Madrid el propio Organismo expedirá un certificado que permita acreditar su disponibilidad del terreno.
+Los convenios que celebre el Instituto de la Vivienda de Madrid que formen parte de sus operaciones estatutarias y constituyan el objeto directo de sus actividades no precisarán el informe a que se refiere la disposición adicional sexta de esta Ley.
+3. El Gobierno regulará por Decreto, a propuesta del titular de la Consejería competente en materia de suelo y vivienda, previo informe de la Consejería de Presidencia y Hacienda, los procedimientos para el ejercicio de las competencias a que se refiere el apartado anterior.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Patrimonio del Canal de Isabel II.
+En materia de patrimonio, el Canal de Isabel II se regirá, en primer lugar, por su normativa específica y subsidiariamente por lo previsto en esta Ley y sus disposiciones de desarrollo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Patrimonio afecto al Instituto de Realojamiento e Integración Social.
+El patrimonio afecto al realojamiento de familias y demás fines sociales propios del Instituto de Realojamiento e Integración Social (IRIS) se regirá por su normativa específica y subsidiariamente por lo previsto en esta Ley y sus disposiciones de desarrollo.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Propiedades administrativas especiales y patrimonio histórico.
+1. Las Consejerías competentes en la gestión y administración de carreteras, ferrocarriles, montes, vías pecuarias y demás propiedades administrativas especiales ejercerán, con relación a las expresadas propiedades, las competencias atribuidas en esta Ley a la Consejería de Presidencia y Hacienda, sin perjuicio de lo establecido en su legislación específica.
+2. La Consejería competente en materia de patrimonio histórico ejercerá las competencias que corresponden a la Comunidad de Madrid en relación con el citado patrimonio, sin perjuicio de las atribuidas en esta Ley a la Consejería de Presidencia y Hacienda cuando afecten a bienes inmuebles o derechos sobre los mismos.
+3. El Gobierno regulará por Decreto, a propuesta de la Consejería competente en materia de carreteras, ferrocarriles, montes, vías pecuarias y demás propiedades administrativas especiales y patrimonio histórico, previo informe de la Consejería de Presidencia y Hacienda, los procedimientos para el ejercicio de las competencias a que se refiere esta disposición.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Especialidades respecto del Inventario General de Bienes y Derechos.
+1. Los bienes que componen el patrimonio del suelo y de la promoción pública de la vivienda que hayan sido adquiridos con el propósito de devolverlos al tráfico jurídico patrimonial quedarán excluidos del Inventario General de Bienes y Derechos, al igual que las carreteras, ferrocarriles, montes, vías pecuarias y demás propiedades administrativas especiales, sin perjuicio de su control por las Consejerías competentes y lo dispuesto en la normativa específica que los afecte.
+2. No obstante, la Consejería de Presidencia y Hacienda podrá acordar en cualquier momento la inclusión en el Inventario General de Bienes y Derechos de la Comunidad de Madrid de los bienes que no estén obligatoriamente incluidos en el mismo.
+3. Corresponderá a la Consejería competente en materia de patrimonio histórico la formalización del inventario de los bienes y derechos de la Comunidad de Madrid que ostenten tal naturaleza, sin perjuicio de su inclusión en el Inventario General de Bienes y Derechos.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Convenios en materia patrimonial.
+La Consejería de Presidencia y Hacienda deberá informar, previamente a su suscripción, los convenios que afectan a bienes inmuebles y derechos sobre los mismos de que sea o pueda ser titular la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.
+Los convenios urbanísticos y los que afectan a propiedades administrativas especiales se regirán por su normativa específica.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Modificación parcial de la Ley 1/1984, de 19 de enero, Reguladora de la Administración Institucional de la Comunidad de Madrid.
+Se modifican los artículos de la Ley 1/1984, de 19 de enero, de Administración Institucional de la Comunidad de Madrid que a continuación se relacionan:
+Uno. Se modifica el artículo 2, apartado 2, c) 1), que queda redactado con el siguiente tenor literal:
+«1. Las sociedades mercantiles en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.»
+Dos. Se modifica el artículo 15, apartado 1, a) y b), que queda redactado conforme al siguiente tenor literal:
+«a) Los derechos y obligaciones cuya titularidad les corresponde.
+b) Los productos y rendimientos de su patrimonio.»
+Tres. Se modifica el título del capítulo II del título III, que queda redactado de la siguiente forma:
+«CAPÍTULO II
+De las empresas públicas constituidas como sociedades mercantiles»
+Cuatro. Se modifica el artículo 64, que queda redactado con el siguiente tenor literal:
+«Artículo 64.
+1. La constitución y disolución de sociedades mercantiles en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos se autorizará por Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda.
+2. Todos los actos que impliquen la adquisición o pérdida de la participación mayoritaria, directa o indirecta, en el capital de sociedades mercantiles, por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos, se autorizarán por Acuerdo del Gobierno, a propuesta del Consejero de Presidencia y Hacienda.
+3. El Acuerdo de autorización, a que se refieren los apartados anteriores deberá ser comunicado a la Asamblea de Madrid y publicado en el ‘‘Boletín Oficial de la Comunidad de Madrid’’.
+4. Deberán ser comunicadas a la Consejería de Presidencia y Hacienda, para su conocimiento, e informe, en su caso, previo a su aprobación por la Junta General, las propuestas de acuerdos de aumento y reducción del capital y las demás que impliquen la modificación de estatutos sociales de sociedades mercantiles, en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y otros entes públicos.»
+Cinco. Se modifica el artículo 65, que queda redactado de la siguiente forma:
+«Artículo 65.
+1. El Gobierno designará al órgano que represente a la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público o entes públicos en el otorgamiento de la escritura social y formalización de su inscripción registral y, en su caso, a los administradores de la sociedad a constituir.
+2. Las sociedades anónimas en que la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público o entes públicos ostenten una participación del 100 por 100 en el capital deberán constituirse por el procedimiento de fundación simultánea.»
+Seis. Se modifica el artículo 66, que queda redactado conforme al siguiente tenor literal:
+«Artículo 66.
+1. Compete al Gobierno la propuesta de nombramiento de los miembros del Consejo de Administración, que proporcionalmente correspondan a la Comunidad de Madrid, de las sociedades anónimas en cuyo capital sea mayoritaria la participación de la misma.
+2. En las sociedades anónimas, en cuyo capital sea mayoritaria la participación de organismos autónomos, entidades de derecho público y entes públicos de la Comunidad de Madrid, la propuesta de nombramiento de los miembros referidos que proporcionalmente les correspondan compete al Consejo de Administración del organismo o entidad.»
+Siete. Se modifica el artículo 67, que queda redactado de la siguiente forma:
+«Artículo 67.
+La Junta General de las sociedades mercantiles, en que la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público o entes públicos ostenten una participación del 100 por 100 en el capital, estará constituida, respectivamente, por el Gobierno o por el Consejo de Administración del Organismo o Entidad.»
+
+### Disposición adicional octava
+
+Disposición adicional octava. Modificación parcial de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+Se modifican los artículos de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid que a continuación se relacionan:
+Uno. Se modifica el artículo 2, apartado 1, que queda redactado con el siguiente tenor literal:
+«1. La Hacienda de la Comunidad de Madrid, a los efectos de esta Ley, está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde a la Comunidad de Madrid, sus organismos autónomos, empresas públicas y demás entes públicos.»
+Dos. Se modifica el artículo 5, que queda redactado en los siguientes términos:
+«Artículo 5.
+1. Son empresas públicas de la Comunidad de Madrid, a efectos de esta Ley:
+a) Las sociedades mercantiles en cuyo capital sea mayoritaria la participación, directa o indirecta, de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.
+b) Las entidades de derecho público con personalidad jurídica propia que en virtud de Ley hayan de ajustar sus actividades al ordenamiento jurídico privado.
+2. Las empresas públicas se regirán por las normas de Derecho mercantil, civil o laboral, salvo en las materias en que le sea de aplicación la presente Ley o cualquier otra aprobada por la Asamblea de Madrid, en lo no regulado por la misma.
+3. La gestión de las empresas públicas de la Comunidad de Madrid se coordinará con la Administración de la Hacienda de la misma en los términos previstos en esta Ley.»
+Tres. Se modifica el título del capítulo I del Título I, que queda redactado de la siguiente forma:
+«CAPÍTULO I
+Los derechos de la Hacienda de la Comunidad de Madrid»
+Cuatro. Se modifica el artículo 57, en los siguientes términos:
+«Artículo 57.
+1. Con cargo a los créditos del estado de gastos de cada presupuesto sólo podrán contraerse obligaciones derivadas de adquisiciones, obras, servicios, y demás prestaciones o gastos en general que se realicen en el año natural del propio ejercicio presupuestario.
+2. No obstante lo dispuesto en el apartado anterior, se aplicarán a los créditos del presupuesto vigente, en el momento de la expedición de las órdenes de pago, las obligaciones siguientes:
+a) Las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los Presupuestos Generales de la Comunidad de Madrid.
+b) Las derivadas de compromisos de gastos adquiridos y contabilizados en ejercicios anteriores.
+En aquellos casos en que no exista crédito adecuado en el ejercicio corriente, la Consejería de Presidencia y Hacienda podrá determinar, a iniciativa de la Consejería correspondiente, los créditos que habrán de transferirse para el pago de estas obligaciones.
+3. Por Acuerdo de Gobierno a propuesta del Consejero de Presidencia y Hacienda, podrá establecerse el pago aplazado en la compraventa de bienes inmuebles adquiridos por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos, cualquiera que sea el importe de la adquisición y el desembolso inicial, pudiéndose distribuir el resto de acuerdo con las limitaciones previstas para anualidades y porcentajes de compromiso en el artículo 55 de la presente Ley, todo ello sin perjuicio de lo dispuesto en el apartado 3 del artículo 42 de la Ley del Patrimonio de la Comunidad de Madrid.
+Con carácter excepcional, por Acuerdo del Gobierno, a solicitud de la Consejería, organismo o entidad interesados, y a propuesta del Consejero de Presidencia y Hacienda, previo informe de la Dirección General de Patrimonio, podrá establecerse el pago aplazado en los contratos de suministro de bienes muebles de carácter inventariable cuyo precio sea superior a 249.579.000 pesetas (1.500.000 euros) dentro de las limitaciones temporales y porcentuales reguladas en el artículo 55.»
+Cinco. Se añade un apartado 4 al artículo 69, con la siguiente redacción:
+«4. Sin perjuicio de las atribuciones establecidas en los apartados anteriores, cuando el Gobierno de la Comunidad de Madrid hubiera atribuido a una Consejería u Organismo Autónomo la gestión centralizada de bienes y servicios, para su adqui sición o arrendamiento, serán esa Consejería u organismo los competentes para realizar los actos y operaciones de autorización y disposición del gasto respecto de los contratos cuya forma de adjudicación sea distinta a la de concurso para la adopción de tipo, salvo en el caso de que la autorización para realizar esos gastos y operaciones sea competencia del Gobierno de la Comunidad de Madrid, de acuerdo con lo establecido en el apartado 1 de este artículo.»
+
+### Disposición adicional novena
+
+Disposición adicional novena. Modificación de los artículos 219 y 221 de la Ley 27/1997, de 26 de diciembre, de Tasas y Precios Públicos de la Comunidad de Madrid.
+Uno. Se modifica el artículo 219 de la Ley 27/1997, de 26 de diciembre, de Tasas y Precios Públicos de la Comunidad de Madrid, que queda redactado en los términos siguientes:
+«Artículo 219. Hecho imponible.
+1. Constituye el hecho imponible de la tasa, siempre que no estén tipificados específicamente en otras tasas, la utilización privativa o el aprovechamiento especial de los bienes de dominio público de la Comunidad de Madrid, que se hagan por concesiones, autorizaciones u otra forma de adjudicación por parte de los órganos competentes de la Administración autonómica.
+2. No se exigirá el pago de la tasa cuando la utilización privativa o aprovechamiento especial de bienes de dominio público no lleve aparejada una utilidad económica para el concesionario, persona autorizada o adjudicatario o, aun existiendo dicha utilidad, la utilización o aprovechamiento comporte condiciones o contraprestaciones para el beneficiario que anulen o hagan irrelevante aquélla.
+En tales casos, se harán constar dichas circunstancias en los pliegos de condiciones o clausulado de la concesión, autorización o adjudicación.»
+Dos. Se modifica el artículo 221 de la Ley 27/1997, de 26 de diciembre, de Tasas y Precios Públicos de la Comunidad de Madrid, de acuerdo con el siguiente tenor literal:
+«Artículo 221. Tarifas.
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+Tarifa 176. 1. Ocupación o aprovechamiento de bienes de dominio público.
+1. En los casos de utilización privativa de bienes de dominio público la base de la tasa será el valor del terreno y, en su caso, de las instalaciones ocupadas tomando como referencia el valor de mercado de los terrenos contiguos o la utilidad derivada de los bienes ocupados.
+2. En los casos de aprovechamientos especiales de bienes de dominio público, la base de la tasa tomará como referencia la utilidad que reporte el aprovechamiento.
+Cuando se utilicen procedimientos de licitación pública la base de la tasa a que se refieren los apartados anteriores vendrá determinada por el valor económico de la proposición sobre la que recaiga la concesión, autorización o adjudicación; de no concurrir tales procedimientos, la base se determinará por el órgano que conceda, autorice o adjudique la utilización privativa o el aprovechamiento especial de que se trate.
+3. Cuando en los pliegos de condiciones o clausulado de la concesión, autorización o adjudicación se impusieren determinadas obligaciones o contraprestaciones al beneficiario que minoraran la utilidad económica para el mismo, la base de la tasa habrá de ser reducida en la misma proporción, sin perjuicio de lo previsto en el apartado 2 del artículo 219.
+4. El tipo de gravamen anual será del 5 por 100 y del 100 por 100, respectivamente, sobre el valor de la base resultante en los casos previstos en los puntos 1 y 2 de este artículo.»
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Los procedimientos administrativos en materia patrimonial iniciados con anterioridad a la entrada en vigor de esta Ley se regirán por la norma aplicable en cada momento.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Quedan derogadas todas las normas de igual o inferior rango, en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Quedan expresamente derogados: la Ley 7/1986, de 23 de julio, del Patrimonio de la Comunidad de Madrid; los artículos 59, 60 y 61 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid; los artículos 21 y 22, de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, y el artículo 52 de la Ley 17/2000, de Presupuestos Generales de la Comunidad de Madrid para 2001.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno a dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor dos meses después de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo también publicada en el «Boletín Oficial del Estado».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 21 de junio de 2001.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

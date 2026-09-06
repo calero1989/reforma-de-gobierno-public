@@ -1,0 +1,61 @@
+# Ley 4/2007, 17 de septiembre, de homologación de retribuciones de los miembros del Gobierno y Altos Cargos de la Comunidad Autónoma y del Parlamento de La Rioja con los de la Administración General del Estado.
+
+- Identificador BOE: `BOE-A-2007-17498`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-17498
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con el que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+Cumplido ya el 25 aniversario de la aprobación del Estatuto de Autonomía de La Rioja y plenamente consolidada la Administración Autonómica, la Comunidad Autónoma de La Rioja carece de una regulación normativa sobre el sistema retributivo de los Miembros del Gobierno, de los Altos Cargos de su Administración y del Parlamento de La Rioja.
+Varias comunidades autónomas han regulado ya este aspecto homologando las retribuciones de sus Gobiernos y Altos Cargos a las de distintos cargos del Gobierno de la Nación, ya sea a través de sus respectivas leyes de presupuestos o mediante la aprobación de leyes específicas.
+La presente norma pretende abordar dicho sistema retributivo al objeto de alcanzar un sistema que garantice la transparencia, objetividad y seguridad jurídica, necesarias en el ámbito de lo público.
+Con esos objetivos, esta Ley homologa las retribuciones del Presidente de la Comunidad Autónoma de La Rioja con las de Secretario de Estado del Gobierno de la Nación.
+En consonancia con las retribuciones del Presidente, las correspondientes al Vicepresidente o Vicepresidentes, en su caso, Consejeros, Secretarios Generales Técnicos, Directores Generales y asimilados y Subdirectores Generales, quedan referenciadas a las del Presidente de la Comunidad, en función de una serie de porcentajes que se irán disminuyendo.
+Por último, esta Ley también aborda las retribuciones del Presidente del Parlamento de La Rioja, los Portavoces de los Grupos Parlamentarios y los Diputados con dedicación exclusiva, así como las indemnizaciones de los diputados de manera que también en este ámbito se profundiza en seguridad jurídica y estabilidad para los parlamentarios y transparencia para la sociedad riojana.
+
+### Artículo Único
+
+Artículo Único.
+1. Se autoriza al Gobierno de La Rioja a homologar las retribuciones de los Altos Cargos de la Comunidad Autónoma con las que se devengan en el ámbito de la Administración General del Estado de acuerdo con las siguientes normas:
+a) La homologación se producirá partiendo de la equivalencia entre Presidente y Secretario de Estado, de modo que las retribuciones de aquél se homologarán a las de éste.
+b) La homologación se producirá sumando los distintos conceptos retributivos que se devenguen de acuerdo con lo previsto en la Ley de Presupuestos Generales del Estado excepto el complemento de productividad.
+c) A partir de la homologación anterior, las retribuciones de los demás Altos Cargos se establecerán disminuyendo dicha cifra de acuerdo con los siguientes porcentajes:
+Vicepresidente: 4 %.
+Consejero: 8 %.
+Viceconsejero: 12 %.
+Secretario General Técnico: 12 %.
+Director General o Alto Cargo con el mismo rango reconocido: 16 %.
+Subdirector General: 20 %.
+d) La cantidad resultante englobará la retribución anual del Alto Cargo sin que pueda generarse otra retribución por cualquier otro concepto, sin perjuicio de lo dispuesto en cuanto las retribuciones por antigüedad en la Ley de Presupuestos Generales de la Comunidad Autónoma de La Rioja para cada ejercicio.
+2. Se autoriza al Parlamento de La Rioja a fijar las retribuciones e indemnizaciones de sus miembros de acuerdo con las siguientes normas:
+a) La asignación retributiva básica del presidente del Parlamento se establecerá disminuyendo la asignación retributiva del presidente del Gobierno de La Rioja en un 28%. La cantidad resultante englobará la indemnización anual por gastos a la que se refiere el apartado d) siguiente.
+b) Las retribuciones de los portavoces de los grupos parlamentarios se establecerán disminuyendo la asignación retributiva del presidente del Gobierno de La Rioja en un 28%.
+c) Las retribuciones de los demás diputados con dedicación exclusiva se establecerá disminuyendo un 10 % las de los portavoces.
+d) Los diputados percibirán como máximo una indemnización anual por gastos derivados del ejercicio de la función parlamentaria que se establecerán tomando como referencia la retribución del presidente del Parlamento según los siguientes porcentajes que, en ningún caso, serán acumulativos:
+1.º Miembro Mesa Parlamento 27%.
+2.º Portavoz grupo parlamentario 20%.
+3.º Presidente comisión y portavoz adjunto 16%.
+4.º Vicepresidente y secretario comisión 15%.
+5.º Diputado 14%.
+Se modifica la letra c) del apartado 1 por el art. 6 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica el apartado 2 por el art. 18 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Disposición Adicional
+
+Disposición Adicional.
+La presente Ley surtirá efectos económicos desde el día 1 de septiembre de 2007.
+
+### Disposición Final
+
+Disposición Final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de La Rioja».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+Logroño, 17 de septiembre de 2007.–El Presidente, Pedro Sanz Alonso.

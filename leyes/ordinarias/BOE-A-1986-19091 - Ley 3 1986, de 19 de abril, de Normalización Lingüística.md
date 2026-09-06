@@ -1,0 +1,429 @@
+# Ley 3/1986, de 19 de abril, de Normalización Lingüística.
+
+- Identificador BOE: `BOE-A-1986-19091`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-19091
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOIB núm. 16, de 30 de mayo de 1986. Ref. BOIB-i-1986-90255
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+Las islas Baleares se incorporan al área lingüística catalana con la conquista de Mallorca por el Rey Jaime I (1229), Ibiza y Formentera por el Arzobispo de Tarragona, Guillem de Montgrí (1235) y Menorca por el Rey Alfonso «El Liberal» (1287).
+Desde entonces, el catalán es la lengua propia de las islas Baleares y ha sido siempre el instrumento con el cual los isleños han realizado sus máximas aportaciones a la cultura universal, y el vehículo que ha hecho posible la articulación del genio de nuestro pueblo, de manera que su huella quedase marcada de forma imborrable en el legado cultural de los pueblos de Occidente.
+Desde el siglo XIII, la lengua catalana, al lado del latín para determinados usos, se convierte en la lengua de la cancillería y en la de la administración en general, así como de la predicación y de otras actividades públicas y formales; y también es la lengua usada por el pueblo como instrumento de intercomunicación social.
+En el siglo XVIII, los Decretos de Nueva Planta anulan los órganos de autogobierno de la Corona de Aragón y la lengua catalana empieza a sufrir un proceso de marginación creciente en los diversos ámbitos de uso público y formal. Así, en 1768, por una Pragmática de Carlos III, la lengua catalana es desterrada de la mayor parte de la documentación oficial, civil y eclesiástica; y diversos textos legales proscriben, hacia la mitad del siglo XIX, el uso de nuestra lengua en la enseñanza. En el siglo XX, aparte del breve paréntesis de la Segunda República, el catalán sufre una marginación, todavía más acentuada, tanto en la escuela como en los medios de comunicación y, también, en el uso oficial y público en general que culmina durante la dictadura franquista. Finalmente, la generalización de los modernos medios de comunicación, sobre todo radio y televisión, en los cuales quedaba excluido el catalán, ha hecho que nuestra lengua llegase a correr peligro de desaparición si no se enderezaba el rumbo.
+Asimismo, es preciso tener en cuenta la llegada, en tiempos recientes, de un número considerable de inmigrantes de otras áreas lingüísticas, a los que nuestra sociedad no ha podido ofrecer los instrumentos que pudieran facilitarles su normal integración.
+Por todo eso es por lo que nuestra lengua, que ha sido y sigue siendo vehículo de una cultura universal, se encuentra, actualmente, en una situación de desvalimiento. Consecuencias de esta situación son: Un exceso de barbarismos en la lengua hablada popularmente, el desconocimiento de las formas de expresión culta tradicional, la generalización de ciertos perjuicios lingüísticos y de diversas actitudes de infravaloración hacia el propio idioma.
+Con el restablecimiento de la democracia, la Constitución y el Estatuto de Autonomía de las islas Baleares han establecido un marco legal que permite iniciar un proceso de recobramiento y de promoción de la lengua propia de las islas Baleares que pueda aligerar parcialmente la situación actual.
+La Constitución española, en su artículo 3, dice que «el castellano es la lengua oficial del Estado», la cual «todos los españoles tienen el deber de conocer y el derecho de usar», que «las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus estatutos» y que «da riqueza de las diferentes modalidades lingüísticas de España es un patrimonio cultural que ha de ser objeto de especial respeto y protección.»
+La Ley Orgánica 2/1983, de 25 de febrero, del Estatuto de Autonomía para las Islas Baleares, en su artículo 3, establece que la lengua propia de la Comunidad Autónoma es la catalana, cooficial con la castellana, y señala el derecho que tienen todos los ciudadanos a conocerla y usarla sin que nadie pueda ser discriminado por causa del idioma.
+Por otra parte, el artículo 10.21 atribuye a la Comunidad Autónoma la competencia exclusiva en materia de «fomento de la cultura, de la investigación y de la enseñanza de la lengua de la Comunidad Autónoma». Y, en el artículo 14, encarga a los poderes públicos la normalización lingüística, atribuye a la Comunidad Autónoma la competencia exclusiva para la enseñanza de la lengua catalana «... en armonía con los planes de estudios estatales ...» y señala, además, que «las modalidades insulares de la lengua catalana serán objeto de estudio y protección, sin perjuicio de la unidad del idioma.»
+El Real Decreto 2193/1979, de 7 de septiembre, desarrollado por la Orden de 25 de octubre de 1979, inició el camino para la incorporación de la lengua y la cultura de la Comunidad Autónoma al sistema educativo de las islas Baleares, durante la etapa preautonómica hasta la promulgación del Estatuto de Autonomía, cuya aprobación da por finalizado el período de provisionalidad al constituirse Baleares como Comunidad Autónoma, de conformidad con lo que determina el artículo 1.° de la Ley Orgánica 2/1983, de 25 de febrero.
+La lengua catalana y la lengua castellana son ambas lenguas oficiales de la Comunidad Autónoma, con el mismo rango, si bien de naturaleza diferente: La oficialidad de la lengua catalana, propia de las islas Baleares, se basa en un Estatuto de Territorialidad, con el propósito de mantener la primacía de cada lengua en su territorio histórico. La oficialidad del castellano, establecida por la Constitución en todo el Estado, se basa en un Estatuto personal, a fin de amparar los derechos lingüísticos de los ciudadanos, aunque su lengua no sea la propia del territorio.
+De acuerdo, pues, con esta marco legal, la Comunidad Autónoma tiene el derecho y el deber de acabar con la situación de anormalidad sociolingüística y se compromete a regular el uso de la lengua catalana como lengua propia de las islas Baleares, y del castellano como lengua oficial de todo el Estado. Por ello, deberá garantizar los derechos lingüísticos y hará posible que todos conozcan las dos lenguas, precisamente para poder hacer efectivos aquellos derechos.
+También es preciso comprometer a todos los ciudadanos de las islas Baleares, cualquiera que sea su lengua habitual, en la salvaguardia y extensión de la lengua catalana en una situación social en a que todos los ciudadanos conozcan las dos lenguas y asuman la defensa y normalización de la catalana, porque es un componente esencial de la identidad nacional de los pueblos de las islas Baleares.
+La Comunidad Autónoma tiene, en suma, como objetivos, llevar a cabo las acciones pertinentes de orden institucional para que el catalán, como vehículo de expresión moderno, plurifuncional, claro, flexible y autónomo, y como principal símbolo de nuestra identidad como pueblo, vuelva a ser el elemento cohesionador del genio isleño y ocupe el lugar que le corresponda en calidad de la lengua propia de las islas Baleares, Por todo ello, ha de estar presente en los diversos ámbitos de uso oficial de la Administración, en los medios de comunicación de masas, de la escuela y de la vida social en general, con el correspondiente respeto a las modalidades lingüísticas propias de la tradición literaria autóctona, pero sin perjuicio de la unidad de la lengua catalana.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+1. La presente Ley tiene por objeto desarrollar el artículo 3 del Estatuto de Autonomía, en lo que respecta a la normalización de la lengua catalana, como propia de las islas Baleares en todos los ámbitos, y garantizar el uso del catalán y del castellano como idiomas oficiales de esta Comunidad Autónoma.
+2. Son, por lo tanto, objetivos de la Ley:
+a) Hacer efectivo el uso progresivo y normal de la lengua catalana en el ámbito oficial y administrativo.
+b) Asegurar el conocimiento y el uso progresivo del catalán como lengua vehicular en el ámbito de la enseñanza.
+c) Fomentar el uso de la lengua catalana en todos los medios de comunicación social.
+d) Crear la conciencia social sobre la importancia del conocimiento y del uso de la lengua catalana por todos los ciudadanos.
+Se modifica la letra a) del apartado 2 por el art. único.1 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se modifica la letra a) del apartado 2 por la disposición final 1.1 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 2
+
+Artículo 2.
+1. El catalán es la lengua propia de las islas Baleares y todos tienen el derecho de conocer y usarla.
+2. Este derecho implica poder dirigirse en catalán, oralmente o por escrito, a la Administración, a los Organismos públicos y a las Empresas públicas y privadas. También, implica poder expresarse en catalán en cualquier reunión y desarrollar en esta lengua las actividades profesionales, laborales, políticas, sindicales, religiosas y artísticas; así como recibir la enseñanza en catalán y también la información en todos los medios de comunicación social.
+3. Las manifestaciones en lengua catalana de forma oral o escrita, pública o privada, produce plenos efectos jurídicos y del ejercicio de este derecho no puede derivar ningún requerimiento de traducción ni ninguna exigencia dilatoria o discriminatoria.
+4. Nadie podrá ser discriminado por razón de la lengua oficial que use.
+5. Las modalidades insulares de la lengua catalana serán objeto de estudio y protección, sin perjuicio de la unidad del idioma.
+
+### Artículo 3
+
+Artículo 3.
+Las personas jurídicas del ámbito territorial de las islas Baleares se han de atener, también, a los puntos que establece el artículo anterior.
+
+### Artículo 4
+
+Artículo 4.
+Los poderes públicos han de adoptar las medidas necesarias para hacer efectivos la promoción, el conocimiento y el uso normal de la lengua catalana.
+
+### Artículo 5
+
+Artículo 5.
+1. Los ciudadanos pueden dirigirse a los Jueces y Tribunales a fin de obtener la protección judicial en relación al derecho de usar cualquiera de las dos lenguas oficiales, de acuerdo con la legislación vigente.
+2. (Anulado).
+Se declara la inconstitucionalidad y nulidad del apartado 2 por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 2 por Auto del TC de 22 de enero de 1987. Ref. BOE-A-1987-2715
+ Se suspende la vigencia y aplicación del apartado 2, desde el 14 de agosto de 1986, por providencia de TC DE 29 de agosto de 1986, que admite a trámite el recurso de inconstitucionalidad nº 955/1986. Ref. BOE-A-1986-23964
+
+## TÍTULO I
+
+Del uso oficial
+
+### Artículo 6
+
+Artículo 6.
+1. El catalán, como lengua propia de la comunidad autónoma de las Illes Balears, lo es también del Gobierno autónomo, del Parlamento y de los consejos insulares y, en general, de la administración pública, de la administración local y de las corporaciones e instituciones públicas dependientes de la comunidad autónoma.
+2. El catalán y el castellano son lenguas oficiales en la Comunidad Autónoma de las islas Baleares y han de ser usadas preceptivamente por la Administración según la forma regulada por la Ley.
+Se modifica el apartado 1 por el art. único.2 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se modifica el apartado 1 por la disposición final 1.2 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 7
+
+Artículo 7.
+1. Las Leyes aprobadas por el Parlamento de la Comunidad Autónoma, los Decretos legislativos, las disposiciones normativas y las Resoluciones oficiales de la Administración Pública, han de publicarse en lengua catalana y en lengua castellana en el «Butlletí Oficial de la Comunitat Autónoma de les Illes Balears».
+En caso de interpretación dudosa, el texto catalán será el auténtico.
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado 1, último párrafo por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+2. Respecto de la lengua, la documentación derivada de las actividades administrativas, los avisos, los formularios y los impresos de las Entidades públicas citadas redactados en lengua catalana tienen validez oficial y plena eficacia jurídica.
+Se declara la inconstitucionalidad y nulidad del apartado 1, último párrafo por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1, último párrafo por Auto del TC de 22 de enero de 1987. Ref. BOE-A-1987-2715
+ Se suspende la vigencia y aplicación del apartado 1, último párrafo, desde el 14 de agosto de 1986, por providencia de TC DE 29 de agosto de 1986, que admite a trámite el recurso de inconstitucionalidad nº 955/1986. Ref. BOE-A-1986-23964
+
+### Artículo 8
+
+Artículo 8.
+1. Los ciudadanos tienen derecho a usar la lengua catalana, oralmente o por escrito, en sus relaciones con la administración pública en el ámbito territorial de la comunidad autónoma.
+2. Las copias o certificaciones expedidas por las entidades públicas de la comunidad autónoma han de expedirse en catalán, excepto en el caso de que el interesado o la persona o la entidad que las requieren soliciten su versión castellana.
+3. En las Illes Balears las actuaciones administrativas son válidas y producen plenos efectos cualquiera que sea la lengua oficial usada.
+Se modifica por el art. único.3 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se deja sin contenido el apartado 2 por la disposición final 1.3 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 9
+
+Artículo 9.
+1. El Gobierno de la comunidad autónoma de las Illes Balears ha de regular, mediante disposiciones reglamentarias, el uso normal de la lengua catalana, oralmente o por escrito, en las actividades administrativas de los órganos de su competencia.
+2. El Gobierno de la comunidad autónoma de las Illes Balears ha de promover la normalización de la lengua catalana, oralmente o por escrito, en los registros públicos no dependientes de la comunidad autónoma.
+3. Los consejos insulares y las corporaciones locales han de regular el uso de la lengua catalana en el ámbito de su competencia de acuerdo con los principios y las normas de esta ley.
+Se añade por el art. único.4 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se deja sin contenido por la disposición final 1.4 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 10
+
+Artículo 10.
+1. (Derogado).
+2. (Derogado).
+3. Los documentos públicos otorgados en las islas Balears se han de redactar en la lengua oficial escogida por el otorgante, o, si hay más de un otorgante, se hará en el idioma que éstos acordasen.
+En caso de discrepancia, los documentos se redactarán en las dos lenguas.
+Las copias se expedirán en la lengua utilizada en la matriz.
+4. Los poderes públicos que actúen en la Comunidad Autónoma han de asegurar que todos los documentos impresos o modelos oficiales utilizados en la Administración Pública, y a disposición de los ciudadanos, estén escritos en catalán y en castellano.
+Se derogan los apartados 1 y 2 por la disposición derogatoria única.d) de la Ley 3/2003, de 26 de marzo. Ref. BOE-A-2003-8438#ddunica
+ Se declara la desestimación del recurso en relación con el apartado 1, párrafo segundo, por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1, párrafo segundo por Auto del TC de 22 de enero de 1987. Ref. BOE-A-1987-2715
+ Se suspende la vigencia y aplicación del apartado 1, párrafo segundo, desde el 14 de agosto de 1986, por providencia de TC DE 29 de agosto de 1986, que admite a trámite el recurso de inconstitucionalidad nº 955/1986. Ref. BOE-A-1986-23964
+
+### Artículo 11
+
+Artículo 11.
+1. En el ámbito territorial de la Comunidad Autónoma de las islas Baleares, todos los ciudadanos tienen el derecho de poder dirigirse a la Administración de Justicia en la lengua oficial que estimen conveniente usar, sin que se les pueda exigir ninguna clase de traducción. Por otra parte, este hecho no puede representar retraso en la tramitación de sus pretensiones.
+2. En relación con la lengua, todas las actuaciones, documentos, escritos, realizados o redactados en catalán son totalmente válidos y eficaces ante los Tribunales y los Jueces de las islas Baleares.
+En todo caso, los interesados tienen derecho a ser informados en la lengua que elijan.
+3. El Govern de la Comunidad Autónoma ha de promover, de acuerdo con los órganos correspondientes, la progresiva normalización del uso de la lengua catalana en la Administración de Justicia de las islas Baleares.
+
+### Artículo 12
+
+Artículo 12.
+1. En lo que respecta a la inscripción de los documentos en los Registros públicos de la Comunidad Autónoma, los asientos han de hacerse en la lengua oficial en que se haya declarado, otorgado o redactado el documento, o en la que se haga la manifestación. Si el documento es bilingüe, se inscribirá en la lengua oficial que indique la persona que lo presente en el Registro. En todo caso, los asientos se han de preactivar en la lengua solicitada por el interesado o por los interesados de común acuerdo.
+2. A efectos de expedición de certificaciones, por parte de los funcionarios de dichos Registros, ha de garantizare la traducción de cualquiera de las lenguas oficiales de la Comunidad Autónoma, de acuerdo con la voluntad de quien haga la petición.
+
+### Artículo 13
+
+Artículo 13.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+ Se mantiene la suspensión de la vigencia y aplicación de este artículo por Auto del TC de 22 de enero de 1987. Ref. BOE-A-1987-2715
+ Se suspende la vigencia y aplicación de este artículo, desde el 14 de agosto de 1986, por providencia de TC DE 29 de agosto de 1986, que admite a trámite el recurso de inconstitucionalidad nº 955/1986. Ref. BOE-A-1986-23964
+
+### Artículo 14
+
+Artículo 14.
+1. Los topónimos de las Illes Balears tienen como única forma oficial la catalana.
+2. Corresponde al Gobierno de la comunidad autónoma o a los consejos insulares, de acuerdo con el asesoramiento de la Universidad de las Illes Balears, determinar los nombres oficiales de los municipios, territorios, núcleos de población, vías de comunicación interurbanas en general y topónimos de la comunidad autónoma. Los nombres de las vías urbanas han de ser determinados por los ayuntamientos correspondientes, también de acuerdo con el citado asesoramiento, dando preferencia a la toponimia popular tradicional y a los elementos culturales autóctonos.
+3. Estas denominaciones son las legales a todos los efectos y la rotulación ha de concordar con ellas. El Gobierno de la comunidad autónoma ha de reglamentar la normalización de la rotulación pública, respetando, en todos los casos, las normas internacionales que el Estado haya suscrito.
+Se modifica por el art. único.5 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se modifica por la disposición final 1.5 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 15
+
+Artículo 15.
+1. La rotulación pública se hará en lengua catalana, acompañada, si hiciera falta, de signos gráficos que faciliten su comprensión a los no catalanoparlantes. La rotulación en catalán y en castellano se utilizará cuando así lo aconsejen las circunstancias sociolingüísticas.
+2. En todos los rótulos, indicaciones y escritos en general, bilingües, la primera visión ha de ser la catalana, como lengua propia de las islas Baleares, y la segunda, la castellana.
+3. En todos los servicios de transporte público, los impresos, los avisos, las comunicaciones, al servicio público, han de hacerse en lengua catalana y en lengua castellana.
+
+### Artículo 16
+
+Artículo 16.
+1. A fin de hacer efectivos los derechos reconocidos en el articulado de la presente ley, los poderes públicos han de promover las medidas correspondientes de cara a la progresiva capacitación del personal de la administración pública y de los entes que integran el sector público de las Illes Balears, en el uso de la lengua catalana.
+2. En las pruebas selectivas que se realicen para el acceso a las plazas de la Administración en el ámbito territorial de las islas Baleares ha de tenerse en cuenta, entre otros méritos, el nivel de conocimiento de las dos lenguas oficiales, cuya ponderación determinará la Administración para cada nivel profesional.
+Se modifica el apartado 1 por el art. único.6 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se modifica el apartado 1 por la disposición final 1.6 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+## TÍTULO II
+
+De la enseñanza
+
+### Artículo 17
+
+Artículo 17.
+El catalán, como lengua propia de las islas Baleares, es oficial en todos los niveles educativos.
+
+### Artículo 18
+
+Artículo 18.
+1. Los alumnos tienen derecho a recibir la primera enseñanza en su lengua, sea la catalana o la castellana.
+2. A tal efecto, el Govern ha de arbitrar las medidas pertinentes para hacer efectivo este derecho. En todo caso, los padres o los tutores pueden ejercer, en nombre de sus hijos, este derecho, instando a las autoridades competentes para que sea aplicado adecuadamente.
+
+### Artículo 19
+
+Artículo 19.
+1. La lengua y literatura catalanas, con especial atención a las aportaciones de las islas Baleares, han de ser enseñadas obligatoriamente en todos los niveles, grados y modalidades de la enseñanza no universitaria. Debe garantizarse el cumplimiento de esta disposición en todos los Centros docentes.
+2. La dedicación horaria, en los programas educativos, referida a la enseñanza de la lengua y literatura catalanas, estará en armonía con los planes de estudios estatales y será, como mínimo, igual a la destinada al estudio de la lengua y literatura castellanas.
+3. Los Centros privados subvencionados con fondos públicos que impartan enseñanzas reguladas, tomando como base una lengua no oficial en la Comunidad Autónoma deben impartir corno asignaturas obligatorias fas lenguas catalana y la castellana, sin perjuicio de la normativa que corresponde al Estado dictar en esta materia, de acuerdo con lo que prevé el artículo 12.2 de la Ley Orgánica del Derecho a la Educación.
+
+### Artículo 20
+
+Artículo 20.
+1. El Govern ha de adoptar las disposiciones necesarias encaminadas a garantizar que los escolares de las islas Baleares, cualquiera que sea su lengua habitual al iniciar la enseñanza, puedan utilizar normal y correctamente catalán y el castellano, al final del periodo de escolaridad obligatoria.
+2. (Anulado).
+Se declara la inconstitucionalidad y nulidad del apartado 2 por Sentencia del TC 123/1988, de 23 de junio. Ref. BOE-T-1988-17529
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 2 por Auto del TC de 22 de enero de 1987. Ref. BOE-A-1987-2715
+ Se suspende la vigencia y aplicación del apartado 2, desde el 14 de agosto de 1986, por providencia de TC DE 29 de agosto de 1986, que admite a trámite el recurso de inconstitucionalidad nº 955/1986. Ref. BOE-A-1986-23964
+
+### Artículo 21
+
+Artículo 21.
+Los planes de estudios han de adecuarse a los objetivos propuestos en el presente título.
+
+### Artículo 22
+
+Artículo 22.
+1. El Govern de la Comunidad Autónoma, a fin de hacer efectivo el derecho a la enseñanza en lengua catalana, debe establecer los medios necesarios encaminados a hacer realidad el uso normal de este idioma como vehículo usual en el ámbito de la enseñanza en todos los Centros docentes.
+2. La Administración debe tomar las medidas oportunas para que la lengua catalana sea utilizada progresivamente en todos los Centros de enseñanza, a fin de garantizar su uso como vehículo de expresión normal, tanto en las actuaciones internas como en las externas y en las actuaciones y documentos administrativos.
+3. La Administración debe poner los medios necesarios para garantizar que los alumnos no sean separados en Centros diferentes por razones de lengua.
+
+### Artículo 23
+
+Artículo 23.
+1. Los planes de estudios de las Escuelas Universitarias de Formación del Profesorado de EGB y de otros Centros de formación, perfeccionamiento y especialización del Profesorado, han de ser elaborados de manera que los alumnos de estos Centros adquieran la competencia y capacitación lingüísticas necesarias para impartir clases en catalán y hacer efectivos los derechos reconocidos en la presente Ley.
+2. Dada la oficialidad de las dos lenguas, catalana y castellana, los Profesores que impartan la enseñanza en el ámbito territorial de las islas Baleares deben de poseer el dominio oral y escrito de los dos idiomas oficiales necesario en cada caso para las funciones educativas y docentes que deben realizar.
+3. Los Profesores que a partir de la entrada en vigor de la presente Ley no tengan un conocimiento suficiente de la lengua catalana serán capacitados progresivamente mediante los correspondientes cursos de reciclaje, cuyo cómputo horario será tenido en cuenta a efectos de jornada laboral en periodo no lectivo.
+4. La Administración Autonómica ha de procurar que en la reglamentación del acceso del Profesorado a la función docente se establezca el sistema adecuado para que todos los Profesores de nuevo ingreso posean las competencias lingüísticas fijadas en el presente artículo.
+
+### Artículo 24
+
+Artículo 24.
+1. El catalán, como lengua propia de la Comunidad Autónoma, ha de ser materia obligatoria en los Programas de Educación Permanente de los adultos.
+2. Igualmente, en las enseñanzas especializadas, en cuyos programas se enseñe lengua, ha de incluirse de manera obligatoria la enseñanza de lengua catalana.
+3. En los Centros de enseñanza especializados dependientes del Govern de la Comunidad Autónoma, donde no se imparta la materia de lengua, deben ofrecerse cursos adicionales de lengua catalana a los alumnos que tengan un conocimiento insuficiente de ésta.
+4. Los Centros de educación especial para alumnos con deficiencias psíquicas o sensoriales, en el aprendizaje se ha de usar como lengua instrumental aquella que, teniendo en cuenta las circunstancias familiares de cada alumno, contribuya mejor a su desarrollo.
+
+### Artículo 25
+
+Artículo 25.
+1. Los Profesores y alumnos en los Centros de enseñanza superior tienen derecho a usar oralmente o por escrito la lengua oficial de su preferencia.
+2. El Govern de la Comunidad Autónoma y la autoridades universitarias tienen el compromiso de asegurar, a través de cursos y de otros medios, la comprensión y el uso de la lengua catalana, oral y escrita, por parte de Profesores y alumnos en la enseñanza universitaria.
+
+### Artículo 26
+
+Artículo 26.
+El Govern de la Comunidad Autónoma ha de promover la elaboración del material didáctico necesario para hacer posible la enseñanza, de y en la lengua catalana, y a ello dedicará las partidas presupuestarias correspondientes.
+
+## TÍTULO III
+
+De los medios de comunicación social
+
+### Artículo 27
+
+Artículo 27.
+El Govern de la Comunidad Autónoma ha de promover el conocimiento y el desarrollo de la lengua y cultura catalanas, especialmente desde la perspectiva de las islas Baleares, en todos los medio de comunicación social.
+
+### Artículo 28
+
+Artículo 28.
+1. El catalán, ha de ser la lengua usual en emisoras de radio y televisión y en otros medios de comunicación social de titularidad de la Administración Autónoma o sometidos a su gestión.
+2. El Govern de la Comunidad Autónoma ha de impulsar la normalización de la lengua catalana en las emisoras de radio y canales de televisión estatales o privados, con el fin de promover el uso del catalán como lengua propia de las islas Baleares.
+
+### Artículo 29
+
+Artículo 29.
+1. El Govern de la Comunidad Autónoma garantiza el derecho de los ciudadanos a ser informados por los medios de comunicación social tanto en lengua castellana como en lengua catalana.
+2. Los ciudadanos tienen derecho a utilizar el catalán, oralmente o por escrito, en condiciones de igualdad con el castellano, en todos los medios de comunicación social de las islas Baleares.
+
+### Artículo 30
+
+Artículo 30.
+1. El Govern de la Comunidad Autónoma ha de llevar una política de colaboración, en materia de radio y televisión, son otras Comunidades Autónomas que tengan el catalán como lengua propia.
+2. En cualquier caso, el Govern de la Comunidad Autónoma hará las gestiones necesarias para facilitar a los ciudadanos de las islas Baleares la recepción de las emisiones de televisión en lengua catalana dependientes de otras Comunidades Autónomas.
+3. Asimismo, promoverá la normalización lingüística en los Centros emisores de RTVE en Baleares, con el fin de asegurar una presencia adecuada del catalán como lengua propia de las islas Baleares.
+
+### Artículo 31
+
+Artículo 31.
+1. El Govern de la Comunidad Autónoma potenciará la producción y exhibición de películas realizadas, dobladas o subtituladas en catalán de otros medios audiovisuales y ediciones fonográficas en lengua catalana.
+2. Igualmente, ha de estimular y fomentar con medidas adecuadas las representaciones teatrales, espectáculos y otras manifestaciones culturales en catalán.
+3. Asimismo, ha de contribuir al fomento del libro y de otras publicaciones en lengua castellana con medidas que potencien su producción editorial y su difusión.
+4. A tales efectos, el Govern promoverá una política de colaboración con las instituciones de otras Comunidades Autónomas, especialmente las de lengua catalana.
+
+### Artículo 32
+
+Artículo 32.
+1. Los poderes públicos de la Comunidad Autónoma apoyarán económicamente a los medios de comunicación que usen la lengua catalana de forma habitual.
+2. Las medidas de apoyo económico y material que adopte el Govern de la Comunidad Autónoma de las islas Baleares para fomentar los medios de comunicación que usen la lengua propia de las islas Baleares deben aplicarse con criterios objetivos y sin discriminaciones dentro de las previsiones presupuestarias.
+
+## TÍTULO IV
+
+De la función normalizadora de los poderes públicos
+
+### Artículo 33
+
+Artículo 33.
+Los poderes públicos de la Comunidad Autónoma adoptarán las medidas pertinentes y proveerán de los medios necesarios para el conocimiento y el uso de la lengua catalana en todos los ámbitos y actividades de la vida social.
+
+### Artículo 34
+
+Artículo 34.
+1. El Gobierno de la comunidad autónoma asegurará el uso de la lengua catalana en todas las funciones y actividades de tipo administrativo que realicen las instituciones y los organismos que de él dependen.
+2. Igualmente, deben proceder los consejos insulares y las corporaciones locales, de acuerdo con las disposiciones de la presente ley.
+3. Las bases de convocatoria para la provisión de plazas en la administración de la comunidad autónoma y en las corporaciones locales incluirán una referencia expresa al conocimiento de la lengua catalana.
+Se modifica por el art. único.7 de la Ley 1/2016, de 3 de febrero. Ref. BOE-A-2016-2635
+ Se dejan sin contenido los apartados 1 y 2 y se modifica el apartado 3 por la disposición final 1.7 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 35
+
+Artículo 35.
+1. El Govern de la Comunidad Autónoma garantizará la enseñanza de la lengua catalana a los funcionarios y otros empleados públicos al servicio de la Administración Autónoma. La misma obligación corresponderá a los Consells Insulares y a las Corporaciones Locales en su ámbito competencial.
+2. Igualmente, se ha de propiciar la enseñanza de la lengua catalana para los funcionarios dependientes de la Administración Central en los términos convenidos con ésta.
+
+### Artículo 36
+
+Artículo 36.
+1. El Govern de la Comunidad Autónoma ha de promover la enseñanza de la lengua catalana para adultos.
+
+### Artículo 37
+
+Artículo 37.
+1. Los poderes públicos de la Comunidad Autónoma han de fomentar el uso de la lengua catalana en la publicidad.
+2. Asimismo, se ha de impulsar el uso ambiental del catalán y, de manera especial, la rotulación en lengua catalana en todo tipo de Entidades sociales, culturales, mercantiles y recreativas.
+
+### Artículo 38
+
+Artículo 38.
+1. El Govern de la Comunidad Autónoma y las Corporaciones Locales pueden exceptuar o bonificar, en lo que respecta a obligaciones fiscales, aquellos actos y manifestaciones relacionados con el fomento, divulgación y extensión de la lengua y cultura catalanas, propias de las islas Baleares.
+2. El Govern, de acuerdo con las Corporaciones Locales interesadas, ha de crear Centros especialmente dedicados, en todo o en parte, a fomentar el conocimiento, uso y divulgación de la lengua catalana y de la cultura de las islas Baleares. Asimismo, podrá subvencionar fundaciones y cuantas otras Entidades tengan tal finalidad.
+
+### Artículo 39
+
+Artículo 39.
+El Govern de la Comunidad Autónoma asumirá la planificación, organización, coordinación y supervisión del proceso de normalización de la lengua catalana y ha de informar anualmente al Parlamento de las Islas Baleares sobre su evolución. Con este fin debe crear y poner en funcionamiento un servicio que tenga por objeto las funciones señaladas, sin perjuicio de las atribuciones reconocidas en la disposición adicional segunda del Estatuto de Autonomía a la Universidad de las Islas Baleares.
+
+### Artículo 40
+
+Artículo 40.
+1. El Govern de la Comunidad Autónoma ha de establecer un plan, con el asesoramiento de la Universidad, para que la población tome conciencia de la importancia y utilidad de la normalización de la lengua catalana y de la conservación, y fomento y transmisión de la cultura propia de las islas Baleares.
+2. Igualmente, debe realizarse una encuesta sobre la situación actual de la lengua catalana en las islas Baleares, con relación al conocimiento y al uso por parte de los ciudadanos de esta lengua y debe promoverse la elaboración de un mapa sociolingüístico de las islas Baleares.
+3. La encuesta y el mapa, han de ser revisados periódicamente, con el fin de adecuar a la realidad la acción reguladora y ejecutiva de la política lingüística, y, al mismo tiempo, con el fin de valorar la incidencia de la planificación en el progresivo conocimiento de la lengua catalana.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Govern de la Comunidad Autónoma ha de promover, de acuerdo con los órganos competentes, la normalización del uso de la lengua catalana en la Administración periférica del Estado, en la Administración de Justicia, en los Registros, en las Empresas públicas y semipúblicas y en cualquier ámbito administrativo no dependiente del Govern de la Comunidad Autónoma.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+De acuerdo con la disposición adicional segunda del Estatuto de Autonomía, siendo la lengua catalana también patrimonio de otras Comunidades Autónomas, a parte de los vínculos que se puedan establecer entre las instituciones de las Comunidades citadas, la Comunidad Autónoma de las Islas Baleares podrá solicitar al Gobierno de la Nación y a las Cortes Generales los Convenios de cooperación y la relación que se consideren oportunos para salvaguardar el patrimonio lingüístico común, así como efectuar la comunicación cultural entre las Comunidades señaladas anteriormente.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Asimismo, de acuerdo con la disposición adicional segunda del Estatuto de Autonomía, la institución oficial consultiva para todo lo que haga referencia a la lengua catalana será la Universidad de las Islas Baleares podrá participar en una institución dirigida a salvaguardar la unidad lingüística, institución que estará formada, de acuerdo con la Ley del Estado, en colaboración con otras Comunidades Autónomas que reconozcan la cooficialidad de la lengua catalana y decidan formar parte de la misma.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+De manera excepcional, en caso de residencia transitoria en las islas Baleares, los padres o tutores podrán solicitar que sus hijos tutelados queden excluidos de la enseñanza de la lengua y la literatura catalanas. Los alumnos mayores de edad también podrán solicitar dicha exención. En todo caso, únicamente pueden solicitar la exención de esta materia cuando el tiempo transcurrido de residencia más el tiempo previsto no sea superior a tres años. La exención tendrá validez para un curso escolar, pero podrá renovarse hasta un máximo de tres cursos. Reglamentariamente se determinará el procedimiento de exención.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+En todos los Centros docentes, donde sea necesario, se establecerán tres clases dedicadas a la enseñanza de la lengua catalana, a fin de facilitar la adaptación a la enseñanza de los alumnos procedentes de fuera de la Comunidad lingüística catalana.
+Estas clases de acogida se impartirán fuera del horario escolar y no pueden sustituir la obligación de cursar asignatura en el nivel que les corresponda.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Los Profesores procedentes de otras Comunidades Autónomas del Estado español que no posean un nivel suficiente de comprensión oral y escrito de la lengua catalana, estarán obligados a superar las pruebas de los dos primeros niveles de reciclaje en un período de tres años, contados a partir de su toma de posesión.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Los Profesores que estén prestando sus servicios en Centros docentes ubicado en el territorio de la Comunidad Autónoma en el momento de la publicación de esta Ley, dispondrán de un período de tres años, contados a partir de la promulgación de la misma, para obtener la evaluación satisfactoria en los dos primeros cursos de reciclaje.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Los límites temporales expresados en las disposiciones adicionales sexta y séptima podrán ser ampliados mediante decreto aprobado por el Consejo de Gobierno.
+Se modifica por la disposición adicional 9 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el ámbito de la Administración, en lo que respecta al uso de la lengua catalana, el período de adaptación de los Servicios y Organismos, que dispone la presente Ley, no puede exceder de tres años en el caso del Govern de la Comunidad Autónoma, de los Consells Insulares, de la Administración Local y de otras Entidades públicas dependientes del Govern de la Comunidad Autónoma.
+En cuanto a la Administración del Estado en la Comunidad Autónoma de las Islas Baleares, así como en la Administración de Justicia, el Govern de la Comunidad Autónoma ha de promover acuerdos con los Organismos competentes a fin de fijar períodos de adaptación similares.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Todos los rótulos indicadores, a los que se refiere el artículo 14, y que no están escritos en catalán, o lo están incorrectamente, han de ser escritos correctamente en esta lengua en un plazo máximo de tres años.
+No obstante, además de la nueva rotulación, podrán conservarse los rótulos o indicadores antiguos que tengan un valor histórico-artístico relevante.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En los planes de estudio del Profesorado de EGB tiene que haber, como obligatorias, las asignaturas necesarias para que, en la expedición del título, se garanticen los conocimientos suficientes de lengua y literatura catalanas, desde la perspectiva de las islas Baleares, con el fin de poderlas impartir en los Centros de enseñanza situados en el ámbito territorial de la Comunidad Autónoma, en un plazo máximo de cuatro años.
+Hasta que los Centros de formación de Profesorado hayan elaborado sus planes de estudios de manera que garantice que sus titulares tengan los conocimientos de catalán necesarios para poder impartir clase en los Centros de enseñanza situados en el ámbito territorial de las islas Baleares, el Govern de la Comunidad Autónoma pondrá los medios necesarios para asegurar el citado nivel de conocimientos del catalán a todos los alumnos que cursen estudios en dichos Centros.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Mientras no hayan conseguido las finalidades señaladas en el artículo primero, el Govern de la Comunidad Autónoma, los Consell Insulares y las Corporaciones Locales consignarán en sus respectivos presupuestos las partidas correspondientes que permitan llevar a cabo las actuaciones contenidas en la presente Ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+A efectos de la aplicación del título II de esta Ley, así como de las normas que la desarrollan, la Consellería de Educación y Cultura, mientras no se transfieran funciones y servicios en materia educativa, establecerá los correspondientes Convenios de cooperación.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan total o parcialmente a lo que dispone la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Govern de la Comunidad Autónoma para que adopte las disposiciones reglamentarias que precise la aplicación y el desarrollo de lo que dispone la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Butlletí Oficial de la Comunitat Autónoma de les Illes Balears».
+
+### [firma]
+
+En Palma de Mallorca, 29 de abril de 1986.
+FRANCISCO GILET GIRART,
+ GABRIEL CAÑELLAS FONS,
+ El Conseller de Educación y Cultura
+ Presidente de la Comunidad de las Islas Baleares

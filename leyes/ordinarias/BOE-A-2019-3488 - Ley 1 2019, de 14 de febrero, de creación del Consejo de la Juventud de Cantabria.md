@@ -1,0 +1,436 @@
+# Ley 1/2019, de 14 de febrero, de creación del Consejo de la Juventud de Cantabria.
+
+- Identificador BOE: `BOE-A-2019-3488`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2019-3488
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 1/2019, de 14 de febrero, de creación del Consejo de la Juventud de Cantabria.
+PREÁMBULO
+Dentro de los principios rectores de la política social y económica recogidos en el capítulo III del título I de la Constitución Española, el artículo 48 establece que los poderes públicos promoverán las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural.
+Desde un punto de vista competencial, el artículo 24, apartado 22, del Estatuto de Autonomía para Cantabria, atribuye a la Comunidad Autónoma de Cantabria la competencia exclusiva en materia de política juvenil, y mediante Real Decreto 2416/1982, de 24 de julio, se traspasaron a la Comunidad Autónoma diversas competencias en materia de juventud.
+Las políticas de juventud deben favorecer la participación activa de los y las jóvenes en la sociedad, siendo fundamental tener en cuenta sus necesidades, expectativas y opiniones en todos aquellos ámbitos de actuación pública que les afectan directamente como son, entre otros, la educación, el empleo, la vivienda, la cultura, el deporte y la educación en el tiempo libre.
+Las asociaciones constituyen un instrumento de integración en la sociedad y de participación en los asuntos públicos, y por ello desempeñan un papel fundamental en los diversos ámbitos de la actividad social. De esta forma, las asociaciones juveniles son el cauce a través del cual la juventud cántabra puede desarrollar colectivamente actividades de su interés y, al mismo tiempo, trasladar a los poderes públicos sus demandas para que sean consideradas por éstos a la hora de definir y desarrollar las distintas políticas sectoriales.
+Para fomentar el asociacionismo juvenil, contribuir a su mejor desenvolvimiento y otorgarle la visibilidad que merece su papel en la sociedad, se considera imprescindible recuperar la existencia del Consejo de la Juventud de Cantabria, como instrumento de participación de los y las jóvenes en el diseño de las políticas públicas en materia de Juventud, del cual se carece desde su supresión en virtud de la Ley de Cantabria 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria.
+El Consejo de la Juventud de Cantabria había sido creado mediante la Ley de Cantabria 3/1985, de 17 de mayo, con los fines básicos de defender los intereses y derechos de la juventud y ofrecer un cauce de participación en el desarrollo político, social, económico y cultural de Cantabria. Ese marco normativo inicial fue posteriormente modificado mediante la Ley de Cantabria 4/2001, de 15 de octubre, si bien mantuvo en lo esencial su configuración como entidad de derecho público con personalidad jurídica propia, plena capacidad de obrar y autonomía para el cumplimiento de sus fines.
+Gracias a ello, el Consejo de la Juventud de Cantabria pudo desarrollar eficazmente su función de representación de las organizaciones y entidades juveniles de Cantabria durante veintisiete años, hasta su supresión en el año 2012.
+Como medio de interlocución de las asociaciones juveniles con el Gobierno de Cantabria y de participación de estos colectivos en el desarrollo social, laboral y económico de la Comunidad Autónoma, la disposición adicional decimosexta de la citada Ley de Cantabria 2/2012, de 30 de mayo, creó un órgano colegiado de carácter consultivo denominado Comisión de Participación de Jóvenes; ahora bien, dado que no se aprobó la norma reglamentaria que determinase su composición, organización y bases de funcionamiento, dicha Comisión no llegó siquiera a constituirse, por lo que desde la aprobación de esa ley se carece de ese imprescindible instrumento a través del cual se canalicen las demandas de las entidades juveniles de Cantabria y de la juventud a la que representa.
+Con el fin de dar solución a esta situación, por medio de la presente Ley se crea este Consejo como entidad de derecho público responsable de canalizar la participación de la juventud de Cantabria, a través de las entidades asociativas juveniles y los consejos de la juventud comarcales o locales, en la definición de las políticas públicas que afecten a sus derechos e intereses, contribuyendo así a hacer efectivo el mandato contenido en el artículo 48 de la Constitución Española.
+
+## TÍTULO I
+
+El Consejo de la Juventud de Cantabria
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza y régimen jurídico.
+1. El Consejo de la Juventud de Cantabria es una corporación pública sectorial de base privada, con personalidad jurídica propia, plena capacidad de obrar y autonomía para el cumplimiento de sus fines.
+2. El Consejo de la Juventud se regirá por las normas de derecho privado, y en particular por aquellas que regulen el funcionamiento de las asociaciones, con las especificidades previstas en la presente Ley y su normativa de desarrollo, así como por aquellas otras disposiciones legales o reglamentarias que le resulten de aplicación en atención a su naturaleza. En el ejercicio de las funciones públicas que le hayan sido atribuidas o delegadas se regirá por las normas de derecho público aplicables en cada caso.
+3. El Consejo de la Juventud de Cantabria es el máximo organismo de representación de las organizaciones juveniles de Cantabria en todos los ámbitos y de interlocución y colaboración en materia de juventud con la Comunidad Autónoma de Cantabria y sus organismos y entidades de derecho público vinculadas o dependientes.
+4. El Consejo de la Juventud de Cantabria se relacionará principalmente con la Administración de la Comunidad Autónoma de Cantabria a través de la Consejería competente en materia de juventud, sin menoscabo de las relaciones que pueda mantener con otros departamentos de la Administración de Comunidad Autónoma de Cantabria sobre todas aquellas cuestiones que puedan afectar a la población juvenil cántabra.
+5. En ningún caso el Consejo de la Juventud de Cantabria podrá realizar actividades que entren dentro de la esfera de actuación de la Administración de la Comunidad Autónoma de Cantabria ni hacer manifiesta competencia a las organizaciones juveniles existentes.
+Se modifica por el art. 20.1 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 2
+
+Artículo 2. Fines.
+Los fines del Consejo de la Juventud de Cantabria son:
+a) Promover la participación política, social, económica y cultural de la juventud cántabra.
+b) Difundir entre la juventud los valores de libertad, igualdad, justicia, sostenibilidad, paz y solidaridad, y promover activamente la igualdad efectiva entre mujeres y hombres y la defensa de los derechos humanos.
+c) Defender y representar los derechos e intereses de la juventud de Cantabria ante instituciones públicas y privadas.
+d) Fomentar el asociacionismo juvenil, estimulando la creación de nuevas organizaciones juveniles y prestando apoyo a las existentes.
+e) Conocer y fomentar la identidad, cultura y tradiciones cántabras entre la juventud.
+f) Promover la cooperación juvenil interregional e internacional, dentro del ámbito de actuación propio del Consejo.
+g) Promover las políticas de empleo y emprendimiento para los jóvenes cántabros.
+h) Aquellos otros relacionados con la juventud que se determinen reglamentariamente.
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Para el cumplimiento de sus fines, el Consejo de la Juventud de Cantabria podrá desarrollar las siguientes funciones:
+a) Actuar como interlocutor con las Administraciones públicas y cualesquiera otras entidades públicas o privadas al objeto de defender los derechos de la juventud, trasladar sus iniciativas y promover la adopción de medidas que den soluciones a las específicas necesidades y demandas de la población joven, incidiendo así en el diseño y desarrollo de las políticas públicas de juventud.
+b) Colaborar con las Administraciones públicas, por iniciativa propia o a petición de éstas, mediante la realización de estudios e informes y la presentación de cualesquiera iniciativas relacionadas con la juventud. A tal efecto, el Consejo de la Juventud de Cantabria podrá solicitar a la administración competente la información necesaria para el desarrollo de dichas funciones.
+c) Recabar de la Administración autonómica los informes que estime necesarios relacionados con la juventud y el movimiento asociativo juvenil.
+d) Ser informado por la Administración de la Comunidad Autónoma de Cantabria de las subvenciones concedidas a entidades locales y a entidades sin ánimo de lucro para la realización de actividades juveniles y de promoción del asociacionismo juvenil.
+e) Ser informado, con carácter previo a su aprobación, de cuantas disposiciones normativas elaboren las Instituciones y Administraciones públicas de Cantabria que afecten a los derechos e intereses de la juventud, al objeto de poder formular las propuestas que se consideren oportunas.
+f) Participar en los órganos administrativos que la Administración de la Comunidad Autónoma de Cantabria determine, por afectar su actuación a los derechos e intereses de la población joven.
+g) Promover la relación con cualesquiera organizaciones y entidades juveniles en todos sus ámbitos de actuación, así como con el colectivo juvenil cántabro, creando cauces de participación juvenil.
+h) Establecer relaciones con otros Consejos de la Juventud y entidades análogas y representar a la juventud cántabra en el Consejo de la Juventud de España, siempre y cuando así se prevea en la normativa estatal reguladora de dicha entidad.
+i) Fomentar la igualdad de oportunidades entre la juventud que habita en el medio rural y urbano, así como la inclusión de las minorías juveniles.
+j) Contribuir al desarrollo del ocio educativo y activo de la juventud.
+k) Generar y potenciar actuaciones de carácter innovador destinadas a la promoción y servicios a la juventud.
+l) Informar y asesorar a la juventud cántabra en todos los ámbitos de su interés.
+m) Promover iniciativas que aseguren la participación activa de la juventud cántabra en las decisiones y medidas que le afecte.
+n) Aquellas otras relacionadas con la juventud que se determinen reglamentariamente.
+2. Funciones públicas atribuidas en la presente Ley y sometidas a las normas de derecho público aplicables. De acuerdo a lo previsto en el artículo 1.2 de la presente Ley, y sin perjuicio de todas aquellas funciones públicas atribuidas que tuviesen por su naturaleza tal carácter, se considerarán incluidas entre estas, las siguientes:
+a) El ejercicio por el Consejo de la Juventud de Cantabria de las facultades relativas al acceso y pérdida de la condición de sus miembros, contempladas en el capítulo II del Título I de esta Ley.
+b) El régimen de organización y funcionamiento de los órganos del Consejo de la Juventud de Cantabria, contemplado en el capítulo III del título I de esta Ley.
+c) La tramitación y resolución de los recursos relativos a actos de naturaleza administrativa, conforme a lo previsto en los apartados 1 y 2 del artículo 26 del capítulo V, de esta Ley.
+Se modifica por el art. 20.3 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## CAPÍTULO II
+
+Composición
+
+### Artículo 4
+
+Artículo 4. Miembros de pleno derecho.
+1. Podrán ser miembros de pleno derecho del Consejo de la Juventud de Cantabria:
+a) Las siguientes entidades u órganos, siempre y cuando estén legalmente constituidas, desarrollen total o parcialmente sus actividades en Cantabria y se hallen inscritas en el Registro de Asociaciones Juveniles y Entidades Prestadoras de Servicios a la Juventud de Cantabria:
+1.º Las asociaciones de jóvenes, así como las federaciones o confederaciones constituidas por aquellas, que cuenten con un número mínimo de treinta socios. El número de socios quedará reducido a quince para aquellas asociaciones juveniles que tengan su domicilio social dentro del medio rural, de conformidad con las definiciones contenidas en la normativa reguladora de desarrollo sostenible del medio rural. La incorporación de una federación o confederación excluirá la de sus miembros por separado.
+2.º Las secciones juveniles de asociaciones de cualquier ámbito que cumplan los siguientes requisitos:
+– Que exista reconocimiento estatutario de autonomía funcional, organizativa y gobierno propio para los asuntos específicamente juveniles.
+– Que los socios de la sección juvenil lo sean de modo voluntario, por acto expreso de afiliación, y se identifiquen como tales.
+– Que la sección juvenil tenga un número mínimo de treinta socios.
+3.º Las entidades prestadoras de servicios a la juventud que cuenten con organización e implantación propia en un mínimo de cinco municipios de Cantabria y presenten servicios al menos a quinientos jóvenes.
+b) Las secciones juveniles de partidos políticos y sindicatos con implantación en Cantabria que cuenten con un número mínimo de treinta socios.
+c) Los consejos territoriales de la Juventud que cumplan los requisitos del artículo 28 de la presente Ley.
+2. El Consejo de la Juventud de Cantabria, a través de su Reglamento de régimen interno, podrá incrementar o reducir el número mínimo de socios juveniles y/o la implantación territorial mínima requeridos, previo acuerdo de la Asamblea General, tal como se especifica en el artículo 10 de la presente Ley.
+
+### Artículo 5
+
+Artículo 5. Miembros observadores.
+Podrán ser miembros observadores del Consejo de la Juventud de Cantabria, con voz y sin voto, aquellas entidades juveniles que, sin reunir todos los requisitos exigidos para disfrutar de la condición de miembro de pleno derecho, desarrollen una labor en el ámbito juvenil que justifique su participación en esta entidad.
+El Consejo de la Juventud de Cantabria, a través de su Reglamento de Régimen Interno, determinará los requisitos exigidos para obtener la condición de miembro observador del Consejo de la Juventud, así como el procedimiento a seguir a tal efecto. Igualmente podrá regular la participación de la juventud no asociada.
+
+### Artículo 6
+
+Artículo 6. Documentación necesaria para el acceso.
+1. Las entidades que, cumpliendo los requisitos exigidos a tal efecto, quieran incorporarse al Consejo de la Juventud de Cantabria, deberán presentar la correspondiente solicitud ante la Comisión Permanente, especificando si pretenden hacerlo como miembros de pleno derecho o miembros observadores, y acompañando la siguiente documentación:
+a) Certificado expedido por la Secretaría de la entidad solicitante acreditativo del número total de socios en el caso de asociaciones juveniles, y del número de socios juveniles en el caso de asociaciones de cualquier otro ámbito que cuenten con sección juvenil.
+Las Entidades Prestadoras de Servicios a la Juventud y los Consejos Territoriales de la Juventud estarán exonerados de presentar este documento.
+b) Certificado expedido por la Secretaría de la entidad solicitante acreditativo del número y ubicación de las sedes.
+c) Declaración responsable de estar al corriente en el cumplimiento de pago de sus obligaciones tributarias y frente a la Seguridad Social, formulada por el representante legal de la entidad solicitante.
+d) Declaración responsable formulada por el representante legal de la entidad solicitante, en la que conste que sus actividades se ajustan a los valores superiores de libertad, justicia, igualdad y pluralismo político proclamados en la Constitución, así como al respeto de los Derechos Humanos.
+e) Certificado del Registro de Asociaciones Juveniles y Entidades Prestadoras de Servicios a la Juventud de Cantabria, acreditativo de la inscripción registral de la entidad solicitante, o autorización expresa para que la Comisión Permanente del Consejo de la Juventud de Cantabria pueda recabarlo ante la Consejería competente en materia de Juventud.
+Los Consejos Territoriales de la Juventud estarán exonerados de presentar este documento.
+f) Memoria de actividades de la entidad solicitante correspondiente al año anterior a aquel en que se solicita la admisión.
+2. La Comisión Permanente está obligada a admitir a las entidades solicitantes que cumplan los requisitos exigidos a tal efecto y a dictar resolución expresa en el plazo máximo de dos meses. Las entidades se entenderán admitidas por el transcurso de dicho plazo desde la presentación en la debida forma de los documentos establecidos en el apartado anterior sin que se haya dictado y notificado resolución expresa.
+3. El Consejo de la Juventud de Cantabria, a través de su Reglamento de Régimen Interno, establecerá los mecanismos de control necesarios para verificar periódicamente que sus miembros siguen cumpliendo los requisitos exigidos para disfrutar de tal condición.
+
+### Artículo 7
+
+Artículo 7. Pérdida de la condición de miembro.
+1. Se perderá la condición de miembro del Consejo de la Juventud de Cantabria por las siguientes causas:
+a) Por disolución conforme a Derecho de la entidad miembro.
+b) Por decisión de la entidad miembro adoptada por órgano competente.
+c) Por inasistencia a dos Asambleas Generales Ordinarias consecutivas.
+d) Por cancelación de la inscripción de la entidad miembro en el Registro de Asociaciones Juveniles y Entidades Prestadoras de Servicios a la Juventud de Cantabria. Esta causa no será aplicable a los Consejos Territoriales de la Juventud.
+e) Por incumplimiento sobrevenido de algún otro de los requisitos exigidos para la admisión.
+f) Por realizar actuaciones contrarias a los valores constitucionales, que atenten contra los Derechos Humanos o la normal convivencia de la juventud, y en general por incumplir de forma grave y reiterada sus obligaciones como miembro del Consejo.
+2. Las causas de pérdida de la condición de miembro de las letras a), b), c) y d) del apartado anterior operarán de forma automática, mientras que las señaladas en las letras e) y f) exigirán acuerdo expreso y motivado de la Comisión de Portavoces, previa instrucción de un expediente por la Comisión de Garantías en el que deberá darse audiencia del interesado.
+
+## CAPÍTULO III
+
+Organización y funcionamiento
+
+## Sección 1
+
+Sección 1.ª Tipos de órganos
+
+### Artículo 8
+
+Artículo 8. Órganos de gobierno.
+1. Los órganos pluripersonales de gobierno del Consejo de la Juventud de Cantabria son:
+a) La Asamblea General.
+b) La Comisión de Portavoces.
+c) La Comisión Permanente.
+d) La Comisión de Garantías.
+2. Los órganos unipersonales de gobierno del Consejo de la Juventud de Cantabria son:
+a) El Presidente.
+b) El Vicepresidente.
+c) El Secretario.
+d) El Tesorero.
+
+## Sección 2
+
+Sección 2.ª Órganos de gobierno
+
+### Artículo 9
+
+Artículo 9. Régimen jurídico aplicable a los órganos de gobierno.
+1. Los órganos de gobierno del Consejo de la Juventud de Cantabria se regirán por lo establecido en esta ley y en su normativa de desarrollo, por el Reglamento de Régimen Interno que apruebe la Asamblea General y, supletoriamente, por lo dispuesto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la Ley de Cantabria 5/2018, de Régimen Jurídico del Gobierno de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria.
+2. Los órganos pluripersonales de gobierno del Consejo de la Juventud de Cantabria se considerarán válidamente constituidos cuando asistan, al menos, la mitad de sus miembros, incluidos Presidente y Secretario o quienes les sustituyan en el ejercicio de sus funciones.
+3. Los acuerdos de los diferentes órganos pluripersonales de gobierno serán adoptados por mayoría simple, salvo en los supuestos en los que legal o reglamentariamente se exija una mayoría cualificada.
+4. Los miembros de los órganos de gobierno del Consejo de la Juventud de Cantabria, o las demás personas que obren en su nombre y representación, responderán ante el Consejo de la Juventud de Cantabria, ante los miembros de pleno derecho de éste y ante terceros por los daños causados y las deudas contraídas por actos dolosos, culposos o negligentes.
+Los miembros de los órganos de gobierno del Consejo de la Juventud de Cantabria, o las demás personas que obren en su nombre y representación, responderán civil y administrativamente por los actos y omisiones realizados en el ejercicio de sus funciones, y por los acuerdos que hubiesen votado, frente a terceros, al Consejo de la Juventud de Cantabria y a los miembros de pleno derecho.
+Cuando la responsabilidad no pueda ser imputada a ningún miembro o titular de los órganos de gobierno del Consejo de la Juventud de Cantabria, responderán todos solidariamente por los actos y omisiones a los que se refiere este apartado, a menos que puedan acreditar que no han participado en su aprobación y ejecución o que expresamente se opusieron a ellas.
+5. El Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria completará el régimen de funcionamiento de sus órganos de gobierno, de acuerdo con las previsiones contenidas en esta Ley.
+Se modifica por el art. 20.2 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 10
+
+Artículo 10. Asamblea General.
+1. La Asamblea General es el máximo órgano de participación del Consejo de la Juventud de Cantabria y está constituido por los representantes de todas las entidades que ostentan la condición de miembros.
+2. Las reglas para determinar el número de representantes que corresponderá a cada una de las entidades miembro de pleno derecho se fijarán reglamentariamente, sobre la base de su nivel de implantación y representatividad en la Comunidad Autónoma de Cantabria. Cada uno de los representantes tendrá un voto, que será indelegable.
+En todo caso, el reglamento garantizará la presencia de mujeres en los órganos del Consejo de la Juventud de conformidad con lo dispuesto en la normativa vigente en materia de igualdad. Por ello, cuando se nombren dos representantes, estos deberán ser paritarios y, de ser más de dos, respetarán el principio de presencia equilibrada de mujeres y hombres.
+3. Los miembros observadores tendrán un representante y un representante suplente cada uno, con voz y sin voto.
+4. La Asamblea General tendrá las siguientes funciones:
+a) Decidir las líneas generales de actuación del Consejo de la Juventud de Cantabria y aprobar, en su caso, las propuestas que a tal fin emanen de otros órganos o de alguna entidad miembro.
+b) Aprobar el programa anual de trabajo y la memoria anual de las actividades realizadas, a propuesta de la Comisión Permanente.
+c) Aprobar las cuentas anuales, el presupuesto anual y la liquidación de cuentas del ejercicio anterior, a propuesta de la Comisión Permanente.
+d) Elegir, de entre sus miembros, al Presidente, Vicepresidente, Tesorero y Secretario del Consejo de la Juventud de Cantabria, así como a los vocales de la Comisión Permanente, y acordar motivadamente su destitución cuando incumplan las obligaciones propias del cargo, previa audiencia del interesado.
+e) Aprobar o modificar el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+f) Tomar conocimiento de los informes emitidos por la Comisión Permanente.
+g) Tomar conocimiento de la adquisición y pérdida de la condición de miembros del Consejo de la Juventud de Cantabria.
+h) Aprobar los principios bajos los cuáles podrán solicitarse y recibirse subvenciones, donaciones y legados, así como otras aportaciones en especie, procedentes de personas y entidades privadas.
+i) Cualesquiera otras que correspondan al Consejo de la Juventud de Cantabria y no estén atribuidas expresamente a otros órganos del mismo.
+5. La Asamblea General se reunirá, con carácter ordinario, una vez al año; y de forma extraordinaria cuando así lo solicite la Comisión Permanente o una tercera parte de las entidades miembros del Consejo de la Juventud de Cantabria.
+Se modifican las letras c), h) y se añade la i) al apartado 4 por el art. 20.4 y 5 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 11
+
+Artículo 11. Comisión de Portavoces.
+1. La Comisión de Portavoces es el órgano de seguimiento y control entre Asambleas y está integrado por los miembros de la Comisión Permanente y un representante de cada una de las entidades miembros.
+2. Todos los representantes de las entidades miembros de la Comisión de Portavoces tienen voz y voto, ponderándose el correspondiente al representante de cada entidad miembro en función de la representatividad de ésta en la Asamblea General.
+3. Son funciones de la Comisión de Portavoces:
+a) Crear y suprimir Comisiones de Trabajo, de acuerdo con lo que prevea el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+b) Analizar los informes y propuestas de la Comisión Permanente y formular las precisiones que se consideren oportunas.
+c) Cualesquiera otras que le atribuya el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+4. La Comisión de Portavoces se reunirá con carácter ordinario con una periodicidad semestral y, en todo caso, en los quince días anteriores a la fecha prevista para cada reunión de la Asamblea General; y de forma extraordinaria cuando así lo solicite la Comisión Permanente o una tercera parte de las entidades miembros del Consejo de la Juventud de Cantabria.
+
+### Artículo 12
+
+Artículo 12. Comisión Permanente.
+1. La Comisión Permanente es el órgano rector y ejecutivo del Consejo de la Juventud de Cantabria y está integrado por el Presidente, el Vicepresidente, el Tesorero, el Secretario y por un número de vocales entre tres y cinco, siempre en número impar, que serán elegidos por la Asamblea General conforme al procedimiento que se determine en el reglamento de régimen interno del Consejo.
+2. El mandato de los miembros de la Comisión Permanente será de dos años, pudiendo ser reelegidos por una sola vez. Los miembros de la Comisión Permanente no podrán ocupar otro puesto de responsabilidad, simultáneamente, dentro de cualquiera de los órganos del Consejo de la Juventud.
+3. Todos los miembros de la Comisión Permanente ostentan voz y voto.
+4. Las funciones de la Comisión Permanente son las siguientes:
+a) Proponer a la Asamblea General las líneas generales de actuación del Consejo de la Juventud de Cantabria.
+b) Proponer a la Asamblea General el programa anual de trabajo y la memoria anual de las actividades realizadas.
+c) Formular las cuentas anuales que se someterán a la aprobación de la Asamblea General, así como proponer a la Asamblea General el proyecto de presupuesto anual del Consejo de la Juventud de Cantabria y la liquidación de las cuentas del ejercicio anterior.
+d) Aprobar y comprometer los gastos propios, reconocer las obligaciones e interesar del Tesorero su pago.
+e) Actuar como órgano de contratación del Consejo de la Juventud de Cantabria y adoptar los acuerdos relativos a la adquisición, enajenación o gravamen de los bienes y derechos que integren el patrimonio del Consejo de la Juventud de Cantabria, de acuerdo con lo previsto en el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+f) Ejecutar los acuerdos adoptados por la Asamblea General.
+g) Emitir informes sobre cualesquiera cuestiones que afecten a la juventud cántabra, por iniciativa propia o a petición de la Administración autonómica.
+h) Instruir los procedimientos para acordar la pérdida de la condición de miembro del Consejo de la Juventud de Cantabria, por las causas definidas en las letras e) y f) del artículo 7.1.
+i) Coordinar las Comisiones de Trabajo.
+j) Promover la creación de Consejos de la Juventud en el ámbito local y su posterior incorporación al Consejo de la Juventud de Cantabria.
+k) Fomentar la relación del Consejo de la Juventud de Cantabria con otras entidades análogas de ámbito autonómico, nacional e internacional.
+5. La Comisión Permanente se reunirá con carácter ordinario con una periodicidad trimestral, y de forma extraordinaria cuando así lo solicite su Presidente o la mitad más uno de sus miembros.
+Se modifican las letras c) y e) del apartado 4 por el art. 20.6 y 7 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 13
+
+Artículo 13. La Comisión de Garantías.
+1. La Comisión de Garantías es el órgano responsable de velar por el cumplimiento del Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria, de preservar los derechos de las entidades que lo integran y de vigilar el cumplimiento de los deberes de las mismas, así como de mediar en los conflictos que pudieran surgir.
+2. La Comisión de Garantías estará compuesta por un máximo de cinco personas, siempre en número impar, que serán elegidas por la Asamblea General de entre el total de delegados conforme a lo que establezca el Reglamento de Régimen Interno del Consejo.
+3. Los trabajos de la Comisión de Garantías podrán ser iniciados a instancia de la Asamblea General o de la Comisión Permanente.
+Se suprime el apartado 4 por el art. 20.7 bis de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 14
+
+Artículo 14. Participación de terceros en las reuniones de los órganos de gobierno pluripersonales.
+1. En las reuniones de los órganos de gobierno pluripersonales del Consejo de la Juventud de Cantabria podrá participar, con voz y sin voto, un representante de la Consejería competente en materia de Juventud.
+2. Podrán igualmente participar en las reuniones de dichos órganos, con voz y sin voto, profesionales especialmente cualificados en la materia sobre la que verse alguno de los puntos del orden del día, al objeto de prestar asesoramiento a los miembros del órgano. Para ello, la entidad interesada deberá proponerlo de forma expresa y motivada con una antelación mínima de diez días.
+
+## Sección 3
+
+Sección 3.ª Órganos unipersonales
+
+### Artículo 15
+
+Artículo 15. Presidente.
+El Presidente del Consejo de la Juventud de Cantabria tiene las siguientes funciones:
+a) Representar al Consejo de la Juventud de Cantabria.
+b) Convocar y presidir las reuniones de la Asamblea General, la Comisión de Portavoces y la Comisión Permanente.
+c) Ejecutar los acuerdos de la Comisión Permanente y coordinar su funcionamiento interno.
+d) Aquellas otras que le sean otorgadas por el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+
+### Artículo 16
+
+Artículo 16. Vicepresidente.
+El Vicepresidente asiste al Presidente en el ejercicio de sus funciones y le sustituye en caso de vacante, ausencia, enfermedad u otra causa legal.
+
+### Artículo 17
+
+Artículo 17. Secretario.
+El Secretario del Consejo de la Juventud de Cantabria tiene las siguientes funciones:
+a) Garantizar el cumplimiento de las reglas de constitución y adopción de acuerdos de los órganos de gobierno.
+b) Levantar acta de las reuniones de los órganos de gobierno y suscribirlas, con el visto bueno del Presidente, una vez hayan sido aprobadas por éstos.
+c) Certificar los acuerdos adoptados por los órganos de gobierno.
+d) Recibir las solicitudes y comunicaciones dirigidas al Consejo de la Juventud de Cantabria y dar cuenta de las mismas al Presidente.
+e) Custodiar el libro registro de miembros y el libro de actas de cada órgano de gobierno.
+f) Aquellas otras que le sean otorgadas por el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+
+### Artículo 18
+
+Artículo 18. Tesorero.
+El Tesorero del Consejo de la Juventud de Cantabria tiene las siguientes funciones:
+a) Redactar el borrador de cuentas anuales, de presupuesto anual y de la liquidación de las cuentas de cada ejercicio, que la Comisión Permanente ha de someter a la aprobación de la Asamblea General.
+b) Custodiar y administrar el patrimonio y los recursos económicos del Consejo de la Juventud de Cantabria.
+c) Llevar el estado de cuentas y custodiar los libros de contabilidad.
+d) Aquellas otras que le sean otorgadas por el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria..
+Se modifica la letra a) por el art. 20.8 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## CAPÍTULO IV
+
+Régimen económico, presupuestario y de personal
+Se modifica por el art. 20.9 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## Sección 1ª
+
+Sección 1.ª Régimen económico y presupuestario
+Se añade por el art. 20.10 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 19
+
+Artículo 19. Recursos Económicos.
+1. El Consejo de la Juventud de Cantabria podrá contar con los siguientes recursos económicos:
+a) La subvenciones nominativas o transferencias que, en su caso, figuren consignadas en los Presupuestos Generales de la Comunidad Autónoma de Cantabria.
+b) Las subvenciones o ayudas públicas que pueda percibir.
+c) Los rendimientos procedentes de los bienes y derechos integrantes de su patrimonio.
+d) Los rendimientos que puedan generar las actividades propias del Consejo.
+e) Las cuotas y aportaciones de sus miembros que se determinen en el Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria.
+f) Las subvenciones, donaciones y legados, así como otras aportaciones en especie, que pueda recibir de personas y entidades privadas, de acuerdo a los principios que establezca la Asamblea General.
+g) Cualquier otro recurso que le pueda ser atribuido.
+2. La Consejería competente en materia de Juventud, prestará el apoyo necesario para que el Consejo de la Juventud de Cantabria cuente con los medios materiales, técnicos, económicos y humanos necesarios para el cumplimiento de sus fines.
+Se modifica por el art. 20.11 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 20
+
+Artículo 20. Régimen patrimonial.
+1. La gestión, administración y explotación de los bienes y derechos del Consejo de la Juventud de Cantabria corresponderán a este.
+2. El Consejo de la Juventud de Cantabria podrá adquirir para el cumplimiento de su fin toda clase de bienes por cualquiera de los modos admitidos en Derecho.
+Se modifica por el art. 20.12 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 21
+
+Artículo 21. Régimen presupuestario y de gestión económico-financiera y de contabilidad.
+1. El régimen presupuestario, de gestión económico-financiera y de contabilidad, será el establecido en el ordenamiento jurídico privado, sin perjuicio de las especialidades previstas en la presente Ley y las que se establezcan en el Reglamento de Régimen Interno. Al Consejo de la Juventud de Cantabria no le resultará aplicable lo dispuesto en la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+2. El Consejo de la Juventud de Cantabria está obligado a aprobar anualmente el presupuesto para el siguiente ejercicio, del que informará a la Dirección General competente en materia de Juventud.
+3. El presupuesto del Consejo de la Juventud de Cantabria deberá prever necesariamente aquellas partidas que sean imprescindibles para garantizar la autonomía y eficacia del Consejo en el ejercicio de las funciones que la presente ley le atribuye, de acuerdo con los recursos económicos con los que cuente.
+4. El presupuesto del Consejo de la Juventud deberá ir ordenado por partidas desglosadas cuya cuantía responda a las prioridades marcadas por el Consejo.
+5. Anualmente el Consejo de la Juventud de Cantabria aprobará la liquidación de cuentas del ejercicio anterior, de la que informará a la Dirección General competente en materia de juventud.
+Se modifica por el art. 20.13 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 22
+
+Artículo 22. Límites a la asunción de compromisos de gasto.
+1. La asunción de compromisos de gasto por importe igual o superior a 10.000 euros requerirá, en todo caso, mayoría de representantes de la Asamblea General.
+2. En los términos en que, en su caso, determine el Reglamento de Régimen de Interno, los titulares de los órganos unipersonales y los miembros de los órganos de gobierno y comisiones de trabajo del Consejo de la Juventud de Cantabria podrán percibir remuneración por el ejercicio de sus funciones y/o las indemnizaciones que por razón del servicio les correspondan por participar como representantes del Consejo de la Juventud en foros autonómicos, nacionales o internacionales.
+Se modifica por el art. 20.14 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 23
+
+Artículo 23. Régimen de Contratación.
+Con carácter general el régimen de contratación del Consejo de la Juventud de Cantabria se regirá por lo dispuesto en la legislación aplicable al ordenamiento jurídico privado, sin perjuicio de las disposiciones emanadas de la Ley 38/2003, de 17 de noviembre, General de subvenciones.
+El Consejo de la Juventud de Cantabria se considerará poder adjudicador, a los efectos previstos en la Ley 9/2017, de Contratos del Sector Público, en el supuesto previsto en el artículo 3.d) de la referida Ley. En dicho supuesto, la Consejería con la que se relacione conforme a lo previsto en el artículo 1.4 de la presente Ley proveerá de los medios y apoyo técnico necesario para que el Consejo de la Juventud pueda dar debido cumplimiento a las obligaciones propias del poder adjudicador.
+Se modifica por el art. 20.15 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 24
+
+Artículo 24. Contabilidad.
+1. El Consejo de la Juventud de Cantabria seguirá las previsiones del Plan General de Contabilidad privado o norma que le sustituya, incluyendo las previsiones de las normas de adaptación del referido Plan a las entidades sin fines lucrativos.
+2. El Consejo de la Juventud de Cantabria deberá formular sus cuentas anuales de acuerdo con los principios contables que le son de aplicación en el plazo máximo de tres meses desde el cierre del ejercicio económico, sometiendo las cuentas para su aprobación por la Asamblea General en el primer semestre de cada año y remitiéndolas a la Dirección General competente en materia de juventud.
+Se modifica por el art. 20.16 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 25
+
+Artículo 25. Control de la gestión económica-financiera.
+Sin perjuicio de la aplicación del régimen de control que establezcan las leyes, el Reglamento de Régimen Interno del Consejo de la Juventud podrá contemplar el establecimiento de procedimientos adicionales de control de la gestión económico financiera, así como los supuestos en los que el Consejo de la Juventud se someta a auditoría voluntaria.
+Se modifica por el art. 11 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifica por el art. 20.17 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## Sección 2ª
+
+Sección 2.ª Régimen de personal
+Se añade por el art. 20.18 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 25 bis
+
+Artículo 25 bis. Régimen de personal del Consejo de la Juventud de Cantabria.
+1. El personal contratado al servicio del Consejo de la Juventud de Cantabria se sujetará al Estatuto de los Trabajadores y demás normativa laboral aplicable.
+2. El Reglamento de Régimen Interno establecerá los procedimientos de contratación de personal que, en su caso, haya de seguir el Consejo de la Juventud de Cantabria, y que serán acordes a los principios de igualdad, mérito y capacidad, garantizándose, a su vez, la publicidad de las convocatorias y las bases; la transparencia; la imparcialidad y profesionalidad de los miembros de los órganos de selección; la independencia y discrecionalidad técnica en la actuación de los órganos de selección; la adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar; y la agilidad, sin perjuicio de la objetividad, en los procesos de selección.
+Se añade por el art. 20.18 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## CAPÍTULO V
+
+Régimen de recursos
+
+### Artículo 26
+
+Artículo 26. Impugnación de actos de naturaleza administrativa.
+1. Los actos sujetos a derecho administrativo dictados por la Asamblea General del Consejo de la Juventud de Cantabria y los órganos plenarios de los Consejos Territoriales de la Juventud agotan la vía administrativa, por lo que frente a ellos podrá interponerse, potestativamente, recurso de reposición ante el mismo órgano que los dictó, o directamente recurso contencioso-administrativo con arreglo a la Ley reguladora de la Jurisdicción Contencioso-Administrativa.
+2. Los actos sujetos a derecho administrativo emanados de los demás órganos de los Consejos regulados en la presente Ley no agotan la vía administrativa, por lo que con carácter general serán recurribles en alzada ante los órganos plenarios de los respectivos Consejos.
+3. Las actuaciones del Consejo de la Juventud de Cantabria en otros ámbitos y, especialmente, las de carácter mercantil, civil y laboral se dilucidarán ante los Juzgados y Tribunales competentes.
+Se modifica el apartado 3 por el art. 20.19 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## CAPÍTULO VI
+
+Disolución
+
+### Artículo 27
+
+Artículo 27. Disolución.
+La disolución del Consejo de la Juventud de Cantabria se acordará, en su caso, mediante Ley del Parlamento de Cantabria.
+Se modifica por el art. 20.20 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+## TÍTULO II
+
+Los Consejos Territoriales de la Juventud
+
+### Artículo 28
+
+Artículo 28. Los Consejos Territoriales de la Juventud.
+1. Los Consejos Territoriales de la Juventud son los máximos órganos de representación de las organizaciones y entidades juveniles de cada municipio o comarca, según corresponda, constituyéndose en entidades corporativas de base privada, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. Su creación por la Entidad Local interesada deberá realizarse con arreglo a lo previsto en la legislación de régimen local, en la presente ley y su normativa de desarrollo.
+2. Los Consejos Territoriales de la Juventud tendrán como fin principal la defensa de los derechos e intereses de los y las jóvenes residentes en su ámbito territorial, ofreciéndoles a tal efecto un cauce de participación en el desarrollo político, económico, social y cultural.
+3. Los Consejos Territoriales de la Juventud se relacionarán con la Administración a la que estén adscritos, con carácter prioritario, a través de los órganos que tengan atribuidas las competencias en materia de Juventud.
+4. Solamente podrá existir un Consejo Territorial de la Juventud por cada municipio o, en su caso, comarca.
+5. El régimen jurídico de los Consejos Territoriales de la Juventud se ajustará a lo establecido para el Consejo de la Juventud de Cantabria.
+Se modifica el apartado 1 y se añade el 5 por el art. 20.21 y 22 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Disposición adicional primera
+
+Disposición adicional primera. Aplicación de la Ley de Cantabria 1/2018, de Transparencia de la Actividad Pública.
+A los efectos del artículo 4.1.e) de la Ley de Cantabria 1/2018, de 21 de marzo, de Transparencia de la Actividad Pública, el Consejo de la Juventud de Cantabria se considerará «entidad asimilable», siendo sujeto obligado, y resultándole aplicable la Ley, en relación con sus actividades sujetas al Derecho administrativo.
+Se añade por el art. 20.23 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Comisión Gestora.
+1. Tras la entrada en vigor de la presente Ley, la Consejería competente en materia de Juventud publicará un anuncio en el Boletín Oficial de Cantabria otorgando un plazo de quince días hábiles para la inscripción de aquellas entidades que, reuniendo los requisitos exigidos en el artículo 4.1 y estando al corriente de sus obligaciones con la Hacienda pública, estatal y autonómica, y ante la Tesorería General de la Seguridad Social, estén interesadas en formar parte de la Comisión Gestora.
+2. La Consejería competente en materia de Juventud seleccionará cinco entidades que, cumpliendo los citados requisitos, disfruten de mayor representatividad y/o implantación territorial en Cantabria, para que constituyan la Comisión Gestora. A tal efecto, la Administración podrá requerir a los interesados la acreditación del cumplimiento de los requisitos exigidos o cualquier otro dato que estime necesario para fundamentar su decisión. Cada entidad contará con un único representante en la Comisión Gestora.
+3. La Comisión Gestora designará entre sus miembros un Presidente y un Secretario, que igualmente desempeñarán tales funciones en la primera Asamblea General que se celebre.
+4. La Comisión Gestora tendrá las siguientes funciones:
+a) Gestión y resolución de las solicitudes de incorporación al Consejo de la Juventud de Cantabria que se formulen antes de la convocatoria de la primera Asamblea General.
+b) Convocatoria de la primera Asamblea General, de acuerdo con lo previsto en la siguiente disposición transitoria.
+c) Elaboración de la propuesta del Reglamento de Régimen Interno del Consejo de la Juventud de Cantabria para su presentación en la primera Asamblea General.
+5. La Comisión Gestora quedará disuelta tras la elección, en la primera Asamblea General, de la Comisión Permanente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Celebración de la primera Asamblea General.
+1. Tras la entrada en vigor de la presente Ley, la Consejería competente en materia de Juventud publicará un anuncio en el Boletín Oficial de Cantabria otorgando un plazo de cuarenta y cinco días hábiles, para la inscripción de aquellas entidades que, reuniendo los requisitos exigidos en el artículo 4.1 y estando al corriente de sus obligaciones con la Hacienda pública, estatal y autonómica, y ante la Tesorería General de la Seguridad Social, estén interesadas en adquirir la condición de miembro de pleno derecho del Consejo de la Juventud de Cantabria, y participar en la primera Asamblea General.
+2. La Comisión Gestora comprobará el cumplimiento de los requisitos exigidos en el artículo 4.1 por parte de las entidades solicitantes en el plazo máximo de quince días, a contar desde la finalización del plazo establecido en el apartado anterior, y aprobará una lista provisional de entidades admitidas y excluidas, debidamente motivada. Dicha lista se trasladará a la Consejería competente en materia de Juventud para su publicación en el Boletín Oficial de Cantabria, concediéndose un plazo de quince días para que las entidades interesadas puedan formular las alegaciones y aportar los documentos que consideren procedentes.
+En el supuesto de que la Comisión Gestora entendiera que todas las entidades solicitantes cumplen los requisitos exigidos para adquirir la condición de miembro de pleno derecho del Consejo de la Juventud de Cantabria, podrá prescindirse del trámite de audiencia y elevarse a definitiva la lista de entidades admitidas, con arreglo a lo señalado en el apartado siguiente.
+3. La Comisión Gestora analizará las alegaciones que hubieran podido formularse y aprobará la lista definitiva de entidades admitidas y excluidas, debidamente motivada, en la que se incluirá el número de representantes que corresponderán a cada entidad admitida en la primera Asamblea General, de acuerdo con el siguiente baremo:
+a) Las asociaciones de jóvenes, así como las federaciones o confederaciones constituidas por aquéllas, y las secciones juveniles de partidos políticos y sindicatos o de asociaciones de cualquier ámbito:
+– De 30 a 49 socios: 1 delegado.
+– De 50 a 99 socios: 2 delegados.
+– A partir de 100 socios: 3 delegados.
+b) Las entidades prestadoras de servicios a la juventud:
+– Prestan servicio de 250 a 500 jóvenes: 1 delegado.
+– Prestan servicio a más de 500 jóvenes: 2 delegados.
+c) Los Consejos Territoriales de la Juventud: 1 delegado.
+4. La lista definitiva de admitidos y excluidos aprobada por la Comisión Gestora se trasladará a la Consejería competente en materia de Juventud al objeto de su publicación oficial en el «Boletín Oficial de Cantabria», y frente a la misma podrá interponerse recurso de alzada ante el titular de la citada Consejería en el plazo de un mes a partir del día siguiente a aquel en que tenga lugar su publicación.
+5. La lista definitiva de entidades admitidas y excluidas incluirá igualmente la fecha, hora y lugar de la primera Asamblea General, que en todo caso deberá celebrarse transcurrido un plazo mínimo de dos meses desde la aprobación de aquélla por la Comisión Gestora.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la disposición adicional decimosexta de la Ley de Cantabria 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria, y cualesquiera otras normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Cantabria».
+Palacio del Gobierno de Cantabria, 14 de febrero de 2019.–El Presidente de la Comunidad Autónoma de Cantabria, Miguel Ángel Revilla Roíz.

@@ -1,0 +1,383 @@
+# Ley 8/2022, de 27 de diciembre, de Ciencia, Tecnología e Innovación de Cantabria.
+
+- Identificador BOE: `BOE-A-2023-3294`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2023-3294
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de error publicada en BOCT núm. 12, de 18 de enero de 2023. Ref. BOCT-c-2023-90012
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 8/2022, de 27 de diciembre, de Ciencia, Tecnología e Innovación de Cantabria.
+PREÁMBULO
+I
+La ciencia, entendida como el conjunto de conocimientos ordenado de forma sistemática y estructurada, se basa en la investigación como medio para la generación de dichos saberes. La generación de nuevo conocimiento se sostiene, por tanto, en el diseño, planificación y ejecución de la actividad investigadora. El desarrollo tecnológico y la innovación constituyen factores clave para la prosperidad de las sociedades modernas de todo el mundo, dando así respuesta a los grandes retos globales de la humanidad.
+La vinculación entre la inversión en la generación de conocimiento y la inversión por un lado con el desarrollo económico y social de las regiones del mundo por otro queda patente en la principal referencia de planificación a nivel global, como es la Agenda 2030. En particular, la Agenda de Actuación de Addis Abeba de la Agenda 2030, ya destaca que las estrategias de Ciencia y Tecnología deben ser elementos integrales de las estrategias de Desarrollo Sostenible, para ayudar a reforzar el intercambio de conocimientos y la necesaria colaboración entre instituciones.
+Esta misma idea queda recogida en la estrategia adoptada por la Unión Europea dentro del Espacio Europeo de Investigación, que fija con claridad cuatro objetivos: priorizar el conocimiento en las inversiones y reformas, mejorar el acceso a la excelencia, trasladar los resultados de la investigación a la economía y profundizar en el citado espacio. En coherencia con ello, el presupuesto a largo plazo aprobado por la Unión Europea para el periodo 2021-2027 y el plan de recuperación a gran escala «Next Generation EU» refuerzan la apuesta actual por el conocimiento como instrumento para alcanzar una Unión Europea moderna y más sostenible, promover una recuperación inclusiva y lograr una mayor justicia social.
+A nivel país, España también ha renovado esa misma apuesta en su estrategia específica, la Estrategia Española de Ciencia, Tecnología e Innovación 2021-2027 diseñada para facilitar la articulación con las políticas de la Unión Europea. Para ello se establecen compromisos en lo referente a recursos económicos, recursos humanos y organización del sistema, de tal forma que la inversión pública aumente de forma gradual y sostenible.
+En este contexto europeo y nacional, la Comunidad Autónoma de Cantabria tiene el reto de consolidar su apuesta por la generación de conocimiento y la innovación, tanto en los aspectos relativos a su marco normativo, como de financiación estable, aspecto en el que debe dar un salto cualitativo en la década actual con el objetivo básico de converger con los objetivos de financiación establecidos en España. Por ello, la Comunidad Autónoma de Cantabria procurará medidas encaminadas para alcanzar la convergencia con los valores estatales establecidos. Para ello, resulta clave reforzar en este marco, la cultura de la cooperación y la colaboración dentro del Sistema de Ciencia, Tecnología e Innovación de Cantabria (SCTIC) y el tejido productivo en el ámbito autonómico. En esta misma línea, la baja ratio que presenta el porcentaje de personal dedicado a la investigación y el desarrollo frente al total de población empleada no sólo en la Comunidad Autónoma de Cantabria sino en el conjunto de la nación española, sugiere que es necesario promover una política activa de atracción y retención de talento. De esta forma sería posible no sólo alcanzar la convergencia con respecto a la evolución en el conjunto de la Unión Europea, sino evitar la fuga de talento fuera de nuestras fronteras y atraer a expertas y expertos internacionales o nacionales de los distintos ámbitos de la ciencia, la tecnología y la innovación.
+II
+El artículo 44.2 de la Constitución Española establece que corresponde a los poderes públicos promover la ciencia y la investigación científica y técnica en beneficio del interés general.
+En lo referente a la distribución de competencias entre el Estado y las Comunidades Autónomas en este ámbito, el artículo 149.1.15.ª de la Constitución Española atribuye al Estado la competencia exclusiva sobre el fomento y coordinación general de la investigación científica y técnica, mientras que su artículo 148.1.17.ª dispone que las Comunidades Autónomas podrán asumir competencias en materia de fomento de la investigación.
+Al amparo de dichos mandatos constitucionales, se promulgó la Ley 13/1986, de 14 de abril, de Fomento y Coordinación de la Investigación Científica y Técnica. Posteriormente, la mencionada norma fue derogada a través de la Disposición derogatoria de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, a su vez sustituida por la Ley 17/2022, de 5 de septiembre, que constituye el marco legal vigente para el fomento de la investigación científica y técnica y sus instrumentos de coordinación general.
+El actual instrumento de referencia para la consolidación y el reforzamiento del Sistema de Ciencia, Tecnología e Innovación de España es la Estrategia Española de Ciencia, Tecnología e Innovación 2021-2027 cuyo diseño se orienta a la coherencia de las políticas estatales y europeas de investigación, desarrollo e innovación. En este sentido, la estrategia dispone de un conjunto de elementos para la promoción de acciones coordinadas de planificación y programación a nivel nacional y autonómico.
+De igual forma, no se ha de olvidar el marco jurídico nacional que regula el Sistema Universitario, íntimamente vinculado a los objetivos y fines que ha de perseguir la presente ley, reflejado en la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades vigente.
+Por su parte, el Estatuto de Autonomía para Cantabria, aprobado mediante la Ley Orgánica 8/1981, de 30 de diciembre, determina en su artículo 24.19 que la Comunidad Autónoma tiene competencia exclusiva en materia de investigación científica y técnica, en coordinación con la general del Estado. Así mismo, su artículo 28.3 dispone que la Comunidad Autónoma fomentará la investigación en todos los niveles y grados, modalidades y especialidades, de la enseñanza. Por último, su artículo 24.14 establece como competencia exclusiva de la Comunidad Autónoma de Cantabria, la planificación de la actividad económica y fomento del desarrollo de Cantabria, dentro de los objetivos marcados por la política económica del Estado y del sector público económico de la Comunidad.
+En el ámbito regional, la investigación y la ciencia cuenta con un ecosistema consolidado que esta ley pretende impulsar y ampliar. Entre las figuras más destacadas cabe resaltar a la Universidad de Cantabria y los institutos o entidades vinculadas a ella, además de los institutos o entidades vinculadas al Hospital Universitario Marqués de Valdecilla, que desde el sector público vienen impulsando la investigación, la innovación, los avances tecnológicos y la transferencia en Cantabria.
+En el ámbito regional de la innovación, la dilatada trayectoria de la Sociedad para el Desarrollo Regional de Cantabria (SODERCAN) hace de ésta un agente clave de la promoción empresarial, y un ejemplo de gestión eficiente y competencia técnica e integradora del compromiso del Gobierno de Cantabria y los agentes económicos y sociales para favorecer el desarrollo sostenible de las empresas regionales. Su misión es la de promover y contribuir activamente a la creación de un entorno socio-empresarial que favorezca las inversiones en el tejido empresarial y desarrolle la innovación y la mejora competitiva, generando valor social y medio ambiental en las empresas, administración y sociedad cántabra.
+Por otro lado, hay que tener en consideración singularidades sectoriales como la referente a la investigación agraria. Mediante el Real Decreto 3417/1983, de 28 de diciembre se traspasaron funciones y servicios del Estado a la Comunidad Autónoma de Cantabria en materia de investigación agraria, correspondiendo en la actualidad a la Dirección General de Desarrollo Rural las competencias en investigación, divulgación, formación y capacitación agraria, de acuerdo al Decreto 106/2019, de 23 de julio, por el que se modifica parcialmente la Estructura Orgánica Básica de las Consejerías del Gobierno de Cantabria.
+En el mismo sentido, cabe significar las especialidades existentes en materia de investigación sanitaria en el ámbito de la Comunidad Autónoma, en los términos previstos en el artículo 93 de la Ley de Cantabria 7/2002, de 10 de diciembre, de Ordenación Sanitaria de Cantabria, que regula «la Investigación en el Sistema Autonómico de Salud».
+Por todo ello, la Comunidad Autónoma de Cantabria, en coherencia con el marco estatal definido en la Ley 17/2022, de 5 de septiembre, por la que se modifica la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, sumando su apuesta inequívoca por la alineación con las políticas europeas en investigación, desarrollo e innovación, ha decidido dotarse de un marco legal que regule de manera integral el Sistema de Ciencia, Tecnología, Innovación y Transferencia del Conocimiento de Cantabria, aportando garantías de futuro a los agentes de dicho sistema en los planos de gobernanza, financiación y talento. De esta forma se conecta con los marcos normativos y de planificación vigentes y futuros en España, la Unión Europea y la Organización de las Naciones Unidas en beneficio de la sociedad de la Comunidad Autónoma de Cantabria en particular y de toda la sociedad en general. Igualmente, este marco incorpora de forma explícita la perspectiva de género y la inclusión social como principios básicos irrenunciables.
+III
+Esta Ley, en su parte dispositiva, cuenta con siete capítulos e incluye dos disposiciones adicionales, una disposición transitoria, una disposición derogatoria y tres disposiciones finales.
+El capítulo primero establece las disposiciones generales de la Ley, recogiendo su objeto, fines, ámbito de aplicación, objetivos y principios, con los que se persigue una mejora en todos los aspectos relativos a la ciencia, la tecnología, y la innovación, a saber: la ordenación del Sistema de Ciencia, Tecnología e Innovación de Cantabria, y la definición de los agentes que lo integran; la creación de un nuevo marco de gobernanza; la definición de una estrategia plurianual; la mejora de la financiación pública; la atracción y retención de talento bajo condiciones laborales competitivas; y la perspectiva de género y la inclusión social.
+El capítulo segundo regula el Sistema de Ciencia, Tecnología e Innovación de Cantabria, definiendo a los agentes del mismo, sus derechos y obligaciones, los principios de actuación, así como su proceso de registro y acreditación. Se ordenan por tanto los agentes que integran el Sistema de Ciencia, Tecnología e Innovación de Cantabria, orientando el conjunto del mismo para dar respuesta a los retos de la sociedad y el tejido productivo de la Comunidad Autónoma de Cantabria. Se establecen los requisitos para obtener la acreditación como agentes, se reconocen los derechos y se fijan las obligaciones de estos. La actuación de todos los agentes debe estar presidida por los principios de buen gobierno, cooperación, transparencia e igualdad de género. Se crea el Registro de Agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria y se establece la obligación de mantener una relación actualizada de sus integrantes.
+El capítulo tercero recoge la financiación del Sistema de Ciencia, Tecnología e Innovación de Cantabria. Esta Ley, a fin de asegurar y estabilizar la financiación acíclica del Sistema de Ciencia, Tecnología e Innovación de Cantabria, y el desarrollo de las diferentes medidas contempladas en la misma, incorpora un mandato en orden a que en los Presupuestos Generales de Gasto de la Comunidad Autónoma de Cantabria de cada ejercicio se asignen recursos suficientes, los cuales deberán incrementarse anualmente hasta alcanzar los objetivos de financiación pública establecidos en esta Ley. A fin de asegurar el seguimiento de esta senda de consolidación de los recursos públicos destinados a la investigación, el desarrollo y la innovación, se recoge de forma explícita un valor Objetivo Vinculante en cada anualidad del periodo 2023-2027.
+El capítulo cuarto define la gobernanza del Sistema de Ciencia, Tecnología e Innovación de Cantabria, definiendo sus órganos competentes. Se crea el Consejo de Política Científica, Tecnológica y de Innovación de Cantabria (CPCTIC) responsable de la planificación, coordinación, seguimiento y evaluación del Sistema de Ciencia, Tecnología e Innovación de Cantabria, el cual que integra las consejerías competentes en materia de ciencia, tecnología e innovación del Gobierno de Cantabria. Junto al Consejo de Política Científica, Tecnológica y de Innovación de Cantabria, la gobernanza se completa con dos entidades: Sociedad para el Desarrollo Regional de Cantabria y la Fundación de Investigación y Transferencia de Cantabria (FITC), siendo esta última creada a través de la presente Ley.
+El capítulo quinto recoge los artículos relativos a la atracción y retención de talento investigador y tecnólogo con garantías de competitividad laboral.
+El capítulo sexto regula la planificación en el ámbito del Sistema de Ciencia, Tecnología e Innovación de Cantabria, a través de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria (EPCTIC). La Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria se configura como instrumento fundamental de planificación y coordinación en estas materias en la Comunidad Autónoma de Cantabria. El marco conceptual será la estrategia nacional en vigor, así como otras que puedan ser definidas por el Gobierno de España y la Unión Europea en periodos posteriores. Como elemento fundamental para la orientación de las acciones resulta imprescindible el alineamiento con la Agenda 2030 y la consecución de los Objetivos de Desarrollo Sostenible. La presente Ley determina los contenidos mínimos que debe contemplar la Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria, entre ellos las áreas estratégicas prioritarias. El Consejo de Gobierno de Cantabria, a propuesta del CPCTI, aprobará la Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria y su elaboración se encargará a la Fundación de Investigación y Transferencia de Cantabria y a Sociedad para el Desarrollo Regional de Cantabria.
+Por último, el capítulo séptimo recoge las disposiciones relativas a la igualdad de género y a la inclusión social en el ámbito de la ciencia, la tecnología y la innovación, procurando la igualdad efectiva dentro de los órganos de gobierno y dirección de los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria como un valor intrínseco.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y fines.
+1. La presente Ley tiene por objeto, conforme a la normativa estatal y europea de aplicación, establecer un marco estable de ordenación y financiación del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+2. Son fines de esta Ley:
+a) Impulsar de forma significativa la investigación científica y técnica, como factor esencial para desarrollar la competitividad y el bienestar social de la Comunidad Autónoma de Cantabria, mediante la creación de un entorno económico, social, medioambiental, cultural e institucional favorable al conocimiento y a la innovación.
+b) Contribuir a la formación continua, la cualificación y la potenciación de las capacidades de todo el personal que participa en el Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+c) Fomentar la innovación de forma efectiva en todos los sectores y en la sociedad, mediante la creación de entornos económicos e institucionales favorables a la innovación que estimulen la productividad y mejoren la competitividad en beneficio del bienestar social, la salud y las condiciones de vida de las personas.
+d) Mejorar la coordinación y eficacia de las políticas públicas vinculadas a la investigación, al desarrollo y a la innovación, dentro de un nuevo marco de gobernanza, que garantice la preservación de la ciencia, la tecnología y la innovación, como bienes públicos al servicio de la ciudadanía por parte del Gobierno de Cantabria.
+e) Potenciar de las capacidades de los recursos humanos del Sistema de Ciencia, Tecnología e Innovación de Cantabria, a través de la atracción y retención de talento bajo condiciones laborales competitivas.
+f) Desarrollar de una estrategia plurianual.
+g) Promover la igualdad, la inclusión social y la perspectiva de género en el ámbito de la ciencia, la tecnología y la innovación.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+El ámbito de aplicación de esta Ley es el correspondiente al ejercicio de las competencias de la Comunidad Autónoma de Cantabria en materia de ciencia, tecnología e innovación.
+
+### Artículo 3
+
+Artículo 3. Objetivos.
+Los objetivos de la presente Ley son los siguientes:
+a) Identificar y dar visibilidad a los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, cuya actividad fundamental se centre en la ciencia, la tecnología y en la innovación en la Comunidad Autónoma de Cantabria.
+b) Reforzar y dotar con los recursos económicos necesarios para su desarrollo a los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, mejorando sus niveles de estabilidad y predictibilidad de forma no cíclica, permitiendo la planificación de las actividades de ciencia, tecnología e innovación. Se contará para ello con los recursos existentes en los diferentes niveles de la administración, autonómica, estatal y europea.
+c) Potenciar el desarrollo, el impulso y la difusión de la ciencia, la tecnología, y la innovación a las personas usuarias finales, tanto públicas como privadas, en la Comunidad Autónoma de Cantabria.
+d) Contribuir a la formación continua, la cualificación y la mejora de las condiciones laborales y las capacidades del personal vinculado a la investigación, el desarrollo y la innovación.
+e) Fomentar la transferencia de conocimiento y tecnología.
+f) Fomentar la implicación de la ciudadanía en el desarrollo de la ciencia.
+g) Fomentar el dialogo sobre la carrera y la movilidad profesional del personal investigador, tecnólogo, técnico de apoyo de la investigación y de gestión de la investigación y de la tecnología.
+
+### Artículo 4
+
+Artículo 4. Principios.
+Son principios de esta Ley los siguientes:
+a) La rendición de cuentas y la transparencia en el uso de los recursos públicos, de forma que se garantice en todo momento el mejor aprovechamiento posible de los mismos.
+b) La coordinación y la cooperación entre las consejerías del Gobierno de Cantabria, la Administración General del Estado, entidades del sector público, organismos de la Unión Europea y otros agentes públicos y privados en un entorno de internacionalización de la ciencia, la tecnología y la innovación.
+c) La revisión y actualización periódica de las políticas, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como en su impacto en la productividad, la competitividad y la solución de las necesidades de la sociedad cántabra.
+d) El respeto a la libertad de investigación y el cumplimiento de las normas de buenas prácticas en investigación, velando siempre por el respeto a los principios éticos inherentes y universales y a la dignidad de las personas.
+e) La relevancia de la divulgación científica y técnica al conjunto de la sociedad para poder poner de manifiesto el papel transcendental de la investigación, el desarrollo y la innovación en el bienestar de las sociedades modernas.
+f) La igualdad de oportunidades evitando toda clase de discriminación.
+
+## CAPÍTULO II
+
+Agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria
+
+### Artículo 5
+
+Artículo 5. Agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+1. A los efectos de lo dispuesto en la presente Ley, tendrán la consideración de agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, las entidades públicas o privadas domiciliadas en Cantabria, o que cuenten con centros, unidades o sucursales con sede en este territorio siempre que participen activamente, de forma directa o indirecta, en los procesos de diseño, planificación, gestión, ejecución, administración, apoyo, promoción o desarrollo de la ciencia, la tecnología y la innovación en el ámbito de esta Comunidad Autónoma.
+2. En concreto, podrán ser agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria los siguientes:
+a) Universidades y centros universitarios.
+b) Institutos de investigación legalmente constituidos.
+c) Centros tecnológicos legalmente constituidos, intermediarios de investigación y transferencia de conocimiento, siempre que, de hecho, realicen actividades objeto de esta ley.
+d) Entidades de derecho público y privado pertenecientes al sector público de la Comunidad Autónoma de Cantabria, que tengan entre sus fines la investigación, el desarrollo y la innovación.
+e) Entidades de derecho público y privado pertenecientes al sector público estatal, que tengan entre sus fines la investigación, el desarrollo y la innovación, incluyendo los Organismos Públicos de Investigación de la Administración General del Estado, los consorcios y fundaciones participadas por las administraciones públicas.
+f) Empresas con personalidad jurídica propia constituidas legalmente en España bajo cualquier forma jurídica y con, al menos, un centro de trabajo en la Comunidad Autónoma de Cantabria.
+g) Parques científico-tecnológicos, entendidos como organizaciones públicas o privadas orientadas a la transferencia de conocimiento.
+3. A los efectos de la difusión y la divulgación de la ciencia, la transferencia del conocimiento, la tecnología y la innovación podrán ser agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria los siguientes:
+a) Entidades sin ánimo de lucro que realicen actividades destinadas a fomentar las relaciones cooperativas en ciencia, tecnología e innovación entre el personal investigador y las entidades públicas y privadas.
+b) Entidades sin ánimo de lucro que realicen actividades de difusión y divulgación de la ciencia, la tecnología y la innovación dirigidas a la sociedad en general, en tanto en cuanto colaboren con otros agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+4. Los agentes del sistema podrán contar con la participación estratégica de otras entidades públicas o privadas previo acuerdo, convenio o instrumento de similar naturaleza en proyectos, programas o iniciativas promovidas por el Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+
+### Artículo 6
+
+Artículo 6. Registro de agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+El Gobierno de Cantabria constituirá un registro público de agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, dependiente de la consejería competente en materia de ciencia, investigación y transferencia de conocimiento.
+
+### Artículo 7
+
+Artículo 7. Acreditación y requisitos de los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+1. La inscripción se realizará a instancia de la entidad interesada.
+2. La inscripción efectiva en el Registro supone la acreditación como agente del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+3. Reglamentariamente se regularán el funcionamiento y régimen jurídico del Registro descrito en el artículo 6, la composición de la comisión encargada de gestionar las solicitudes de inscripción, que estará formada por personal funcionario de las consejerías implicadas, así como los requisitos para la acreditación, entre los que los agentes del Sistema deberán cumplir los siguientes:
+a) Estar legalmente constituidos y tener personalidad jurídica propia.
+b) Tener su domicilio social o contar con centros, unidades o sucursales asentadas o con sede en la Comunidad Autónoma de Cantabria, en cuyo caso, serán estos centros, unidades o sucursales quienes habrán de desarrollar las correspondientes actividades de investigación, tecnológicas o de innovación.
+c) Que su actividad o parte de ella esté dirigida a la investigación científica o al desarrollo de la tecnología, transferencia de conocimiento o innovación, sin perjuicio de lo previsto en el artículo 5.3 de este texto legal a los efectos de difusión.
+d) Cuando se trate de entidades de las enunciadas en el artículo 5.2.a), para la incorporación al registro bastará con que la entidad acredite su condición conforme a la legislación vigente.
+e) En los demás supuestos previstos en el artículo 5.2, para la incorporación al registro, la entidad deberá acreditar, entre otros requisitos, la inversión mínima destinada a investigación que se determine reglamentariamente.
+4. La acreditación como agente del Sistema podrá ser exigida como requisito preceptivo para poder acceder a los programas y convocatorias que se promuevan en aplicación de esta Ley.
+5. Aquellas entidades que deseen desistir como agentes del Sistema, deberán solicitar su baja en el Registro de acuerdo con el procedimiento reglamentariamente previsto. Del mismo modo, aquellas entidades que, con posterioridad a su acreditación dejen de cumplir con los requisitos de acreditación y otras condiciones exigidas, causarán baja en el Registro.
+
+### Artículo 8
+
+Artículo 8. Derechos y obligaciones de los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+1. Los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria disfrutarán de los siguientes derechos:
+a) Derecho a participar en los programas y convocatorias en los que específicamente se determine como requisito la propia condición de agente acreditado.
+b) Derecho a poder hacer uso de las infraestructuras de investigación, desarrollo e innovación de todos los agentes del Sistema, conforme a las condiciones que se definan en los convenios y acuerdos específicos correspondientes.
+c) Derecho a obtener la correspondiente acreditación certificativa de su condición.
+d) Al reconocimiento público institucional que le otorga ser agente acreditado, mediante su inclusión en el registro regulado en el artículo 6 de esta Ley.
+2. Los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria deberán:
+a) Promover la colaboración necesaria con otros agentes para optimizar los resultados de los programas en los que participen.
+b) Facilitar el uso a otros agentes de las infraestructuras de investigación, desarrollo e innovación disponibles, de conformidad con los convenios o acuerdos correspondientes a celebrar y previo acuerdo expreso entre las partes.
+c) Informar a la Administración de la Comunidad Autónoma de Cantabria de los cambios sustanciales que se produzcan en sus estatutos y órganos de gobierno, así como justificar, según las correspondientes convocatorias, de las actividades realizadas en el desarrollo y ejecución de las mismas, siempre que se trate de actividades financiadas con fondos procedentes de los Presupuestos Generales de la Comunidad Autónoma de Cantabria.
+
+### Artículo 9
+
+Artículo 9. Principios del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+El Sistema de Ciencia, Tecnología e Innovación de Cantabria se rige por los siguientes principios:
+a) Contribución a un desarrollo sostenible que posibilite un progreso social, armónico y justo de la Comunidad Autónoma de Cantabria, sustentado a partir de los grandes retos sociales y económicos a los que la ciencia ha de dar respuesta.
+b) Alineación con los Objetivos de Desarrollo Sostenible dentro de la Agenda 2030 o cualesquiera otros de análoga naturaleza.
+c) Universalidad en el acceso abierto al conocimiento básico y aprovechamiento compartido de éste cuando resulta de la financiación pública.
+d) Participación activa de la sociedad cántabra en el ámbito de la ciencia, la tecnología y la innovación.
+e) Eficacia, eficiencia, calidad, transparencia, evaluación de resultados y rendición de cuentas.
+f) Representatividad de las diferentes áreas en las que se estructura el conocimiento científico y técnico.
+g) Complementariedad de las actuaciones con los programas estatales, europeos e internacionales.
+h) Proyección e internacionalización de la investigación, el desarrollo y la innovación generada en la Comunidad Autónoma de Cantabria.
+i) Coordinación, colaboración y cooperación entre todos los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+j) Consideración de la investigación, el desarrollo y la innovación como un activo inmaterial de carácter estratégico.
+k) Orientación de la actividad investigadora a la obtención de resultados y a la actividad de transferencia de conocimiento.
+
+## CAPÍTULO III
+
+Financiación del Sistema de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria
+
+### Artículo 10
+
+Artículo 10. Financiación.
+Las actuaciones en ciencia, tecnología e innovación, incluyendo las previstas en la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria (EPCTIC), se financiarán con cargo a:
+a) Fondos públicos, a través de los Presupuestos Generales de la Comunidad Autónoma de Cantabria, de los programas y planes de la Administración General del Estado, y de los programas y planes de la Unión Europea.
+b) Fondos privados, mediante aportaciones o inversiones de entidades de naturaleza privada a proyectos estratégicos compartidos en investigación, desarrollo e innovación, así como cualesquiera otras aportaciones de carácter privado que puedan realizarse.
+
+### Artículo 11
+
+Artículo 11. Objetivos de financiación pública de la investigación, el desarrollo y la innovación.
+1. Para la promoción y fomento en los ámbitos previstos en esta Ley, el Gobierno de Cantabria en la elaboración de sus Presupuestos Generales, incrementará anualmente de forma regular las cantidades correspondientes a la materia objeto de esta Ley, con el objetivo último de converger con aquellos valores que establezcan las estrategias y marcos nacionales.
+2. El citado incremento de las cantidades se calculará de conformidad con lo previsto en la disposición adicional primera de la presente Ley, y constituirá un objetivo legalmente vinculante.
+
+### Artículo 12
+
+Artículo 12. Financiación privada de la investigación, el desarrollo y la innovación.
+1. El Gobierno de Cantabria podrá promover y participar en proyectos de colaboración público-privada.
+2. El Gobierno de Cantabria podrá colaborar con iniciativas de financiación privada en proyectos relevantes o estratégicos de investigación, desarrollo e innovación que se ejecuten como:
+a) Acciones de fomento y promoción de la función de mecenazgo en las actividades, proyectos y estrategias del Sistema de Ciencia, Tecnología e Innovación de Cantabria, conforme a lo previsto en la legislación vigente, que podrán consistir en donaciones, convenios de colaboración empresarial o programas de apoyo a acontecimientos de excepcional interés público, entre otros.
+b) Acciones de fomento y promoción de la microfinanciación en las actividades y proyectos del Sistema de Ciencia, Tecnología e Innovación de Cantabria, conforme a lo previsto en la legislación vigente, orientadas a la participación económica de las personas físicas en proyectos científicos-tecnológicos, así como punto de encuentro y de participación entre la comunidad investigadora y la sociedad.
+c) Actuaciones encaminadas a favorecer inversiones en áreas y sectores estratégicos mediante un impulso a la cultura de inversión en capital riesgo y obtención de beneficios a largo plazo.
+d) Acciones orientadas a conseguir una mayor implicación del sistema financiero en acciones de apoyo y financiación de la ciencia, la tecnología y la innovación.
+e) Cualquier otra fórmula de financiación privada en proyectos relevantes o estratégicos de la ciencia, la tecnología y la innovación, en los que pudieran converger los intereses y sinergias público-privadas.
+
+## CAPÍTULO IV
+
+Gobernanza del Sistema de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria
+
+### Artículo 13
+
+Artículo 13. Órganos del Sistema de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+Sin perjuicio de las competencias que tienen atribuidas las diferentes consejerías en sus respectivos ámbitos sectoriales, son órganos del Sistema de Ciencia, Tecnología e Innovación de Cantabria:
+a) El Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria (CPCTIC) que integra las consejerías competentes en materia de ciencia, tecnología e innovación del Gobierno de Cantabria.
+b)(Derogada)
+c) La Sociedad para el Desarrollo Regional de Cantabria (SODERCAN).
+Se deroga la letra b) por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 14
+
+Artículo 14. Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria.
+1. Se crea el Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria como órgano colegiado de la Administración de la Comunidad Autónoma de Cantabria para abordar la planificación, coordinación, seguimiento y evaluación del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+2. El Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria estará integrado por:
+a) la persona que ostente la presidencia del Gobierno de Cantabria, que detentará la presidencia.
+b) la persona que ostente la consejería con competencias en ciencia e investigación del Gobierno de Cantabria, que detentará la vicepresidencia.
+c) las personas que ostenten otras consejerías con competencias en las materias de ciencia, tecnología o innovación quienes podrán delegar, en su caso, en quien ostente una Dirección General dependiente de su consejería.
+d) (Derogada)
+e) la persona que ostente la dirección de la Sociedad para el Desarrollo Regional de Cantabria.
+La secretaría del Consejo recaerá en un funcionario o funcionaria que posea la licenciatura grado o título superior equivalente en Derecho, de cualesquiera de las direcciones generales con representación en el Consejo.
+3. Son funciones del Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria las siguientes:
+a) La planificación, coordinación, seguimiento y evaluación de las políticas de ciencia, tecnología e innovación que se desarrollen en el ámbito de la Comunidad Autónoma de Cantabria y las actuaciones asociadas a esas políticas.
+b) La coordinación con las políticas estatales y europeas en materia de ciencia, tecnología e innovación.
+c) La promoción y el impulso de la ciencia, tecnología e innovación.
+d) La propuesta de aprobación al Consejo de Gobierno de Cantabria de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria y sus revisiones, así como de cualquier otro documento estratégico dentro del ámbito de aplicación de la presente Ley.
+e) El fomento de la cooperación con los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria en materia de ciencia, transferencia del conocimiento, tecnología e innovación.
+f) Asegurar la adecuada y correcta coordinación, eficiencia y eficacia de los otros órganos del Sistema de Ciencia, Tecnología e Innovación de Cantabria.
+g) Promover la participación de entidades privadas en el ámbito de la ciencia, la tecnología y la innovación.
+h) La supervisión del cumplimiento de las medidas que a favor de la igualdad de género y la inclusión social se recogen en la presente Ley.
+i) La supervisión del cumplimiento de los principios éticos de la investigación científica y técnica.
+j) La promoción, sensibilización y difusión de la ciencia, la transferencia del conocimiento, la tecnología y la innovación en toda la sociedad de la Comunidad Autónoma de Cantabria.
+k) La preservación del patrimonio científico y tecnológico de la Comunidad Autónoma de Cantabria.
+l) Todas aquellas otras que le sean atribuidas legal o reglamentariamente por el ordenamiento jurídico.
+4. El Gobierno de Cantabria regulará el funcionamiento y régimen jurídico del Consejo de Política Científica, Tecnológica y de Innovación de la Comunidad Autónoma de Cantabria mediante una orden en la que participarán las diferentes consejerías con competencias en materia de investigación, desarrollo e innovación.
+Se deroga la letra d) del apartado 2 por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 15
+
+Artículo 15. Fundación de Investigación y Transferencia de Cantabria.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 16
+
+Artículo 16. Sociedad para el Desarrollo Regional de Cantabria.
+En el ámbito de aplicación de esta Ley, la Sociedad para el Desarrollo Regional de Cantabria asume los objetivos recogidos en sus estatutos sociales.
+
+## CAPÍTULO V
+
+Medidas para la atracción y retención de talento investigador y tecnólogo en la Comunidad Autónoma de Cantabria
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 17
+
+Artículo 17. Contratos de personal investigador vinculados a la Fundación de Investigación y Transferencia de Cantabria o a la Sociedad para el Desarrollo Regional de Cantabria.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 18
+
+Artículo 18. Convocatorias de programas de investigación y tecnología.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Artículo 19
+
+Artículo 19. Cómputo de la masa salarial del personal investigador y tecnólogo.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+## CAPÍTULO VI
+
+Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria
+
+### Artículo 20
+
+Artículo 20. Definición y vigencia de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+1. La Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria es el principal instrumento estratégico del Gobierno de Cantabria en materia de ciencia, tecnología e innovación. Entre los contenidos de la misma estarán los objetivos para el mejor desarrollo de la ciencia, la tecnología y la innovación en la Comunidad Autónoma de Cantabria, las áreas estratégicas prioritarias a definir, y los mecanismos de elaboración, aprobación, ejecución, seguimiento y valoración. La Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria integrará las estrategias o programas sectoriales de las diferentes consejerías competentes en materia de ciencia, tecnología e innovación.
+2. La Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria tendrá una vigencia de siete años y se entenderá prorrogada automáticamente hasta la aprobación de la siguiente. Cada dos años, la Estrategia Plurianual se someterá a un proceso de revisión, similar al descrito en el artículo 24.
+
+### Artículo 21
+
+Artículo 21. Objetivos de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+La Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria tendrá como objetivos:
+a) Servir como instrumento a los fines de esta Ley para fomentar la investigación científica, la tecnología y la innovación apoyando la cooperación, la internalización, la innovación, la divulgación y la atracción y retención de talento, para así potenciar la competitividad de los agentes del Sistema y el bienestar social en un entorno económico, social, cultural e institucional favorable al conocimiento y a la tecnología.
+b) Fomentar la colaboración de los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria con el tejido productivo de la Comunidad Autónoma de Cantabria.
+c) Promover la transferencia de conocimiento.
+d) Diseñar estrategias y programas, así como sistemas de indicadores que permitan a los agentes del Sistema mejorar en la consecución de sus objetivos científicos, tecnológicos o de innovación.
+e) Realizar recomendaciones para que la Comunidad Autónoma de Cantabria mejore su competitividad y proyección científica y tecnológica, de forma que pueda afrontar con solvencia futuros retos.
+f) Integrar el principio de igualdad de oportunidades y de inclusión social como elementos transversales en la ciencia, la tecnología y la innovación.
+
+### Artículo 22
+
+Artículo 22. Contenidos de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+La Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria recogerá los siguientes contenidos mínimos:
+a) Diagnóstico y análisis de la situación de partida de la ciencia, la tecnología y la innovación en la Comunidad Autónoma de Cantabria, y de su relación correspondiente a nivel estatal, europeo e internacional, incluyendo una descripción de los agentes del Sistema, las áreas de ciencia, tecnología e innovación existentes, los recursos humanos y el equipamiento e infraestructuras disponibles.
+b) Definición de los objetivos específicos a partir de los objetivos generales, y las áreas prioritarias estratégicas para el periodo correspondiente.
+c) Impacto esperado desde el punto de vista de género, social, ambiental y económico, así como de todos los aspectos derivados del cumplimiento de la legislación cántabra en materia de Igualdad efectiva entre mujeres y hombres y de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria, para el periodo correspondiente a través de indicadores cuantitativos y cuantificables.
+
+### Artículo 23
+
+Artículo 23. Definición de áreas estratégicas prioritarias de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+Las áreas estratégicas prioritarias se alinearán con la programación de las estrategias nacionales y europeas vigentes. Las áreas estratégicas prioritarias serán propuestas por el Consejo Asesor de Ciencia, Tecnología e Innovación de Cantabria y deberán garantizar la coherencia en el conjunto de las actuaciones autonómicas en materia de ciencia, tecnología e innovación. A tal fin se podrán tomar en consideración cuestiones de interés estratégico de organismos representativos de la Comunidad Autónoma de Cantabria.
+
+### Artículo 24
+
+Artículo 24. Elaboración, aprobación, ejecución, seguimiento y evaluación de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+1. La Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria se elaborará de forma conjunta por las direcciones generales con competencias en materia de ciencia, investigación, tecnología e innovación del Gobierno de Cantabria y la Sociedad para el Desarrollo Regional de Cantabria, y estará sujeta a las disposiciones sobre transparencia y participación ciudadana en la planificación de las políticas públicas.
+2. Mediante acuerdo del Consejo de Gobierno de Cantabria, a propuesta del Consejo de Política Científica, Tecnológica y de Innovación de Cantabria, será aprobada la Estrategia Plurianual de Ciencia, Tecnología e Innovación de Cantabria. Tras su aprobación, se procederá a su publicación en el portal electrónico del Gobierno de Cantabria, www.cantabria.es, de conformidad con lo previsto en la normativa vigente en materia de transparencia, y estará a disposición de la ciudadanía para su consulta.
+3. El Consejo de Política Científica será el responsable de velar por la correcta ejecución de la Estrategia Plurianual conforme a los indicadores cuantitativos y cuantificables previstos en la propia Estrategia Plurianual. A la finalización de su periodo de vigencia, se realizará un informe de evaluación que será publicado en el Portal de Transparencia del Gobierno de Cantabria.
+Se modifica el apartado 1 por el art. 99 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a9-11
+
+## CAPÍTULO VII
+
+Igualdad de género e inclusión social en el ámbito de la ciencia, la tecnología y la innovación
+
+### Artículo 25
+
+Artículo 25. Composición de órganos.
+En la composición de los órganos de gobernanza del Sistema de Ciencia, Tecnología e Innovación de Cantabria recogidos en esta Ley, así como en la de los órganos de dirección de los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, de asesoramiento, así como tribunales y órganos de selección y evaluación, se procurará la presencia equilibrada de mujeres y hombres, en cumplimiento de lo dispuesto en la normativa vigente en materia de igualdad efectiva de mujeres y hombres.
+
+### Artículo 26
+
+Artículo 26. Actuaciones y consideraciones para la implantación efectiva de la perspectiva de género.
+Con el fin de garantizar la implantación efectiva de la perspectiva de género se atenderá a las siguientes actuaciones y consideraciones, sin perjuicio de lo dispuesto en el resto de normativa aplicable en materia de igualdad:
+a) La Estrategia plurianual incorporará la perspectiva de género, fomentando la presencia equilibrada de mujeres y hombres en todos los ámbitos y niveles, e integrando la dimensión de género en el contenido y en la selección de los proyectos de investigación, desarrollo e innovación.
+b) Se fomentará la participación de mujeres en el ámbito de la ciencia, la tecnología y la innovación mediante ayudas específicas o medidas de acción positiva.
+c) Se fomentarán medidas de conciliación de la vida laboral, familiar y personal para favorecer la promoción profesional y curricular de todo el personal.
+d) Se incluirá sistemáticamente la variable sexo en las estadísticas, encuestas, registro y recogida de datos que se lleven a cabo.
+e) Se valorarán especialmente aquellos proyectos que estén liderados por mujeres en aquellas ramas de la investigación en las que estén infrarrepresentadas y/o tengan en los equipos de investigación una representación equilibrada de mujeres y hombres.
+f) Se fomentará la formación en los sesgos de género en los procesos en la selección y evaluación.
+g) Se implementarán protocolos de acoso sexual o por razón de sexo y se realizarán campañas de comunicación para el conocimiento de toda la comunidad científica.
+h) En las actividades que realicen los agentes del Sistema de Ciencia, Tecnología e Innovación de Cantabria, cuando resulte de aplicación, se promoverán los estudios, que contribuyan a la comprensión de las cuestiones relacionadas con la construcción social de la desigualdad entre mujeres y hombres, prestando especial atención a las situaciones de múltiple discriminación, así como la adopción de medidas para estimular la presencia equilibrada de mujeres y hombres.
+i) La recogida, el tratamiento y la difusión de los datos estadísticos se realizará teniendo en cuenta la desagregación por sexo, incluyendo indicadores de presencia y productividad.
+j) El Gobierno de Cantabria promoverá acciones tendentes a potenciar la elección de grados y másteres universitarios por parte de aquellas personas cuyo sexo sea minoritario entre el alumnado existente. Asimismo, realizará actuaciones específicas para favorecer el incremento del número de mujeres en las diversas etapas, niveles y actividades de investigación y transferencia de conocimiento, especialmente en los ámbitos en los que siguen infrarrepresentadas.
+k) Se promoverá un plan autonómico de vocaciones científicas y tecnológicas que ayude a reducir la brecha de género que persiste en la ciencia y la tecnología.
+
+### Artículo 27
+
+Artículo 27. Consideraciones para la implantación efectiva de la inclusión social.
+1. Se garantizará la igualdad de trato, sin discriminación por razón de género, orientación sexual, identidad sexual, identidad de género o expresión de género, conforme a lo previsto legalmente.
+2. Se promoverá que toda la comunidad científica y tecnológica sea un espacio inclusivo sin que se permita la discriminación contra ninguna persona o colectivo. Se prestará especial atención a la eliminación de barreras y condiciones de accesibilidad para las personas con diversidad funcional.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Objetivos de financiación pública de la investigación, el desarrollo y la innovación.
+1. Para el cálculo del objetivo de financiación pública de la investigación, el desarrollo y la innovación a que hace referencia el artículo 11 de la presente Ley se define como Objetivo Vinculante (V_OBJVIN) el porcentaje que supone la suma de todos los programas de gasto incluidos en el grupo 46 «Investigación, desarrollo e innovación», con respecto al Presupuesto General de Gastos de la Comunidad Autónoma de Cantabria, sin tener en cuenta en dicho cálculo el valor de las operaciones financieras.
+2. Los valores del Objetivo Vinculante anual durante el periodo 2023-2027 deberán ser:
+V_(OBJVIN-2023) = 1,66 %
+V_(OBJVIN-2024) = 2,00 %
+V_(OBJVIN-2025) = 2,33 %
+V_(OBJVIN-2026) = 2,66 %
+V_(OBJVIN-2027) = 3,00 %
+3. Para los ejercicios presupuestarios posteriores a 2027, este Objetivo Vinculante deberá actualizarse reflejándose cada año en la correspondiente Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria, teniendo como referencia los valores que establezcan las estrategias y objetivos nacionales.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Consideración específica de la investigación agraria y sanitaria en el ámbito de aplicación de la Ley.
+En atención a las singularidades competenciales y sectoriales en los ámbitos de la investigación agraria y sanitaria, se desarrollarán las actuaciones necesarias para asegurar la correcta consideración específica de dichas ramas de la investigación en los órganos de gobernanza, medidas y elementos de planificación previstos en esta Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Comienzo de actividades de la Fundación de Investigación y Transferencia de Cantabria.
+(Derogada)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Periodo transitorio de la Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria.
+Con el objetivo de converger con la Estrategia Española de Ciencia, Tecnología e Innovación 2021-2027, la primera Estrategia Plurianual de Ciencia, Tecnología e Innovación de la Comunidad Autónoma de Cantabria que se apruebe ajustará su periodo de vigencia al que se comprende entre los años 2023-2027, pudiendo revisarse en periodos de doce meses.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria.
+(Derogada)
+Se deroga por la disposición derogatoria única.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#dd
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo normativo.
+Se autoriza al Gobierno de Cantabria y a las consejerías competentes a dictar las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de Cantabria».
+
+Palacio del Gobierno de Cantabria, 27 de diciembre de 2022.–El Presidente de la Comunidad Autónoma de Cantabria, Miguel Ángel Revilla Roiz.

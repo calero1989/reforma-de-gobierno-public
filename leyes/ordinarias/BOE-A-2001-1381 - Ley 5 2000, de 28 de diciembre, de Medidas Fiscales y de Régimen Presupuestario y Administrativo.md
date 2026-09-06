@@ -1,0 +1,229 @@
+# Ley 5/2000, de 28 de diciembre, de Medidas Fiscales y de Régimen Presupuestario y Administrativo.
+
+- Identificador BOE: `BOE-A-2001-1381`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-1381
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOG núm. 29, de 9 de febrero de 2001. Ref. BOE-A-2001-4492
+
+## Preámbulo
+
+Como viene siendo habitual durante los últimos años, la Ley de Presupuestos se complementa con una norma de igual rango y de tramitación paralela que recoge un conjunto de disposiciones destinadas con diferentes grados de implicación a facilitar la consecución de objetivos que forman parte de la política económica de la Xunta de Galicia, dotándolas de un carácter marcádamente instrumental en relación con la ejecución de los programas presupuestarios y en otros casos con la dirección de esa política desarrollada a través de la acción de gobierno.
+Aunque se orientan hacia una misma finalidad, las medidas contempladas en la presente Ley están situadas en diferentes ámbitos sectoriales de actuación. Utilizando las competencias normativas existentes en materia de tributos cedidos, se incluyen disposiciones de carácter fiscal. Diversas modificaciones que afectan al texto refundido de la Ley de Régimen Financiero y Presupuestario se recogen en el apartado dedicado a las normas presupuestarias. Y distintas referencias que inciden en las áreas administrativa y de gestión ocupan el espacio reservado a las disposiciones adicionales.
+En el título I de la Ley, referente a las normas tributarias, y con la finalidad de mejorar el tratamiento fiscal de la natalidad, se actualizan en porcentajes que representan desde el 20 hasta el 50 por 100 los importes de las deducciones que en los casos de nacimiento o adopción de hijos —equiparados plenamente a estos efectos— pueden efectuarse sobre el tramo autonómico del Impuesto sobre la Renta de las Personas Físicas, mientras que las deducciones derivadas de la posesión del título de familia numerosa se incrementan uniformemente en cuantía equivalente, al 50 por 100 sobre el año anterior. En otro sentido, son igualmente actualizadas las tarifas correspondientes a la tasa fiscal que recae sobre el juego de máquinas recreativas y de azar.
+Dentro del ámbito que corresponde al título II, la necesidad de perfeccionar el tratamiento normativo de diferentes aspectos que afectan al desarrollo de la gestión presupuestaria hace aconsejable introducir diversas modificaciones en el texto refundido de la Ley de Régimen Financiero y Presupuestario.
+Entre los cambios efectuados figura la variación de las anualidades que pueden comprometerse en los expedientes de gasto plurianual derivados de contratos de servicios y la supresión de la referencia a los contratos de trabajos específicos y no habituales, determinándose igualmente el número de años a que pueden extenderse los contratos de consultoría y servicios que los sustituyen. Todo ello para adaptarse a las modificaciones introducidas en la Ley de Contratos de las Administraciones Públicas, que establece en dos años, con carácter de normativa básica, la duración máxima de ese tipo de contratos.
+La posibilidad de generar crédito en el ejercicio siguiente, cuando el ingreso corresponda a fondos de la Unión Europea o de la Administración General del Estado aunque no se destinen a la cofinanciación de gastos, y por otra parte la extensión a las obligaciones derivadas de sentencias judiciales de la posibilidad de que sean aplicadas a créditos del presupuesto vigente en cada momento, son también contempladas en este título.
+Por último, y por lo que respecta a las disposiciones adicionales, merece destacarse la creación, dentro del ámbito de la Administración Institucional, de la Agencia Gallega de Desarrollo Rural, que se ocupará del fomento y coordinación del desarrollo de las áreas rurales gallegas y de la gestión de los recursos destinados anualmente por la Comunidad Autónoma, a través de la Ley de Presupuestos, a esa finalidad. Sus actuaciones irán orientadas a la procura de la mejora de vida en el medio rural, paliando de esa forma el creciente proceso de despoblación que afecta sobre todo a la Galicia interior.
+Igualmente en esta parte de la Ley se recoge la creación de la Escala de Profesores del INEF de Galicia, como paso previo para regularizar el régimen de impartición de esos estudios en las condiciones previstas para las enseñanzas universitarias, se declara la utilidad pública de las obras de mejora del abastecimiento y saneamiento de aguas, de acondicionamiento de cauces fluviales y de aprovechamientos hidráulicos destinados a la producción de energía eléctrica, realizadas por el Organismo Autónomo Aguas de Galicia ; se establece el régimen jurídico que corresponde a las fundaciones públicas sanitarias, y se amplía durante un año más la vigencia de alguna de las disposiciones que ya figuraban recogidas el año anterior.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.o del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, Reguladora de la Xunta y de su Presidente, promulgo en nombre del Rey, la Ley de Medidas Fiscales y de Régimen Presupuestario y Administrativo.
+
+## TÍTULO I
+
+Normas tributarias
+
+## CAPÍTULO I
+
+Impuestos directos
+
+### Artículo 1
+
+Artículo 1. Impuesto sobre la Renta de las Personas Físicas.
+Uno. En ejercicio de las competencias atribuidas por la Ley 32/1997, de 4 de agosto, de modificación del Régimen de Cesión Tributaria del Estado a la Comunidad Autónoma de Galicia, y de acuerdo con lo dispuesto en la letra b) del punto 1.o del apartado uno del artículo 13 de la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos del Estado a las Comunidades Autónomas y de Medidas Fiscales Complementarias, se aprueban las siguientes deducciones de la cuota íntegra autonómica del Impuesto sobre la Renta de las Personas Físicas:
+a) Por nacimiento y adopción de hijos:
+Por cada hijo nacido o adoptado en el período impositivo que conviva con el contribuyente en la fecha de devengo del Impuesto:
+20.000 pesetas, cuando se trate del primero.
+30.000 pesetas, cuando se trate del segundo.
+40.000 pesetas, cuando se trate del tercero.
+50.000 pesetas, cuando se trate del cuarto.
+60.000 pesetas, cuando se trate del quinto y sucesivos.
+Cuando los hijos nacidos o adoptados en el período impositivo convivan con ambos progenitores, la deducción que corresponda se practicará por partes iguales en la declaración de cada uno.
+En caso de nacimientos múltiples la deducción que corresponde a cada hijo se incrementará en 10.000 pesetas.
+b) Por familia numerosa:
+El contribuyente que posea el título de familia numerosa en la fecha de devengo del Impuesto podrá deducir las siguientes cantidades:
+30.000 pesetas, cuando se trate de familia numerosa de primera categoría.
+45.000 pesetas, cuando se trate de familia numerosa de segunda categoría.
+60.000 pesetas, cuando se trate de familia numerosa de la categoría de honor.
+Las condiciones necesarias para la consideración de familia numerosa y su clasificación por categorías se determinarán con arreglo a lo establecido en la Ley 25/1971, de 19 de junio, de Protección a las Familias Numerosas, según las modificaciones introducidas por la disposición final cuarta de la Ley 42/1994, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, y por la Ley 8/1998, de 14 abril, de Ampliación del Concepto de Familia Numerosa.
+Esta deducción se practicará por el contribuyente con quien convivan los restantes miembros de la familia numerosa. Cuando éstos convivan con más de un contribuyente, el importe de la deducción se prorrateará por partes iguales en la declaración de cada uno de ellos.
+c) Por cuidado de hijos menores:
+Aquellos contribuyentes que por motivos de trabajo, ya sea éste por cuenta propia o ajena, tengan que dejar a sus hijos menores al cuidado de una persona que tenga la condición de empleada de hogar podrán deducir 30.000 pesetas, siempre y cuando se cumplan los siguientes requisitos:
+1. Que en la fecha de devengo del Impuesto los hijos convivan con el contribuyente y tengan tres o menos años de edad.
+2. Que ambos padres trabajen fuera del domicilio familiar.
+3. Que la persona empleada de hogar esté dada de alta en el Régimen Especial de Empleados de Hogar de la Seguridad Social, siendo cualquiera de los progenitores el que figure como empleador.
+4. Que la suma de la base liquidable general y de la base liquidable especial no exceda de 2.500.000 pesetas en tributación individual y de 4.000.000 de pesetas en tributación conjunta.
+Cuando, cumpliendo estos requisitos, dos contribuyentes tengan derecho a la aplicación de esta deducción, su importe se prorrateará a partes iguales en la declaración de cada uno de ellos.
+Dos. La práctica de las deducciones a que se refiere el punto anterior quedará condicionada a la justificación documental adecuada y suficiente del presupuesto de hecho y de los requisitos que determinan su aplicabilidad.
+
+## CAPÍTULO II
+
+Tasas
+
+### Artículo 2
+
+Artículo 2. Tasa Fiscal sobre el Juego.
+Se modifican las tarifas recogidas en el número 2 del apartado dos del artículo 3 de la Ley 2/1998, de 8 de abril, de Medidas Tributarias, de Régimen Presupuestario, Función Pública, Patrimonio, Organización y Gestión, que quedan como sigue:
+«2. Máquinas recreativas y de azar.
+A) Máquinas tipo B o recreativas con premio.
+a) Cuota anual: 520.000 pesetas.
+b) Cuando se trata de máquinas o aparatos automáticos tipo «B» en que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por otros jugadores, serán de aplicación las siguientes cuotas:
+Máquinas o aparatos de dos jugadores: Dos cuotas de acuerdo con lo previsto en la letra a) anterior.
+Máquinas o aparatos de tres o más jugadores: 1.061.200 pesetas, más el resultado de multiplicar por 2.580 el producto del número de jugadores por el precio autorizado para la partida.
+b) Máquinas tipo «C» o de azar.
+Cuota anual: 759.100 pesetas.
+Las cuotas establecidas para las máquinas recreativas y de azar serán de aplicación para los supuestos de modificación del precio máximo previstos en el párrafo cuatro del artículo 3 del Real Decreto Ley 16/1997, de 25 de febrero.»
+Redactado conforme a la corrección de errores publicada en el DOG núm. 29, de 9 de febrero de 2001. Ref. BOE-A-2001-4492
+
+## TÍTULO II
+
+Normas de régimen presupuestario
+
+### Artículo 3
+
+Artículo 3. Gastos plurianuales.
+Modificación del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre.
+Se modifica el punto 3 del artículo 58 del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Real Decreto Legislativo 1/1999, de 7 de octubre, que quedará redactado de la siguiente forma:
+«3. El número de ejercicios a que pueden aplicarse los gastos incluidos en las letras a), b), f) y g) y los gastos en bienes de la letra c) del número 1 no podrá ser superior a cuatro, quedando reducido a dos años en los contratos de consultoría y asistencia y en los de servicios.
+El gasto que en estos casos se comprometa con cargo a ejercicios futuros no podrá exceder del resultado de aplicar al crédito inicial, a nivel de concepto, los siguientes porcentajes: En el ejercicio inmediato siguiente el 70 por 100, en el segundo ejercicio el 60 por 100 y en los ejercicios tercero y cuarto el 50 por 100. Tampoco podrá ser inferior al 10 por 100 del importe total del expediente de gasto, en ninguno de los años a que se extienda su ejecución material, salvo, en su caso, en el último ejercicio.
+El total de los importes comprometidos con cargo a ejercicios futuros en el conjunto de los conceptos que define un nivel de vinculación no podrá superar los porcentajes anteriormente indicados, calculados sobre el crédito inicial de ese conjunto de conceptos.»
+
+### Artículo 4
+
+Artículo 4. Regulación de obligaciones.
+Modificación del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre.
+Se modifica el punto 2 del artículo 60 del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre, que quedará redactado de la siguiente manera:
+«2. Sin embargo, se aplicarán a los créditos del presupuesto vigente en el momento de la expedición de órdenes de pago las siguientes obligaciones:
+a) Las que resulten del reconocimiento y liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los Presupuestos Generales de la Comunidad Autónoma.
+b) Las derivadas de compromisos de gastos debidamente adquiridos en ejercicios anteriores.
+c) Las que tengan su origen en sentencias judiciales.
+En aquellos casos en que no exista crédito adecuado en el ejercicio corriente, a iniciativa de la Consejería correspondiente, el Consejero de Economía y Hacienda podrá determinar los créditos a los cuales habrá de imputarse el pago de estas obligaciones.»
+
+### Artículo 5
+
+Artículo 5. Limitaciones a las transferencias de crédito.
+Modificación del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre.
+Se modifica el punto 3 del artículo 68 del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre, que quedará redactado como sigue:
+«3. Las anteriores limitaciones no afectarán a las transferencias de créditos que se refieran al programa de imprevistos y funciones no clasificadas, ni serán de aplicación cuando se trate de créditos modificados como consecuencia de reorganizaciones administrativas, de acuerdos de transferencias de servicios o que amparen gastos financiados exclusivamente o cofinanciados con transferencias finalistas del Estado o con fondos de la Unión Europea.»
+
+### Artículo 6
+
+Artículo 6. Generación de crédito.
+Modificación del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre.
+Se modifica el punto 3 del artículo 69 del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre, que quedará redactado de la siguiente forma:
+«3. Las generaciones de crédito se efectuarán en el mismo ejercicio en que se ha producido el ingreso, salvo cuando tenga lugar en el último trimestre del año o cuando se trate de fondos procedentes de la Unión Europea o de la Administración Central del Estado, casos en que podrá generarse crédito en el ejercicio siguiente, siempre que se justifique la imposibilidad de tener tramitada la generación en el mismo ejercicio en que se ha producido el ingreso. En este caso, el límite a que se refiere el punto anterior se entenderá referido al presupuesto de origen.»
+
+### Artículo 7
+
+Artículo 7. Intervención limitada.
+Modificación del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Decreto Legislativo 1/1999, de 7 de octubre.
+Se modifica el punto 1 del artículo 97 del texto refundido de la Ley de Régimen Financiero y Presupuestario, aprobado por Real Decreto Legislativo 1/1999, de 7 de octubre, que quedará redactado en los siguientes términos:
+«1. No estarán sometidos a intervención previa:
+a) Los gastos de obras y de adquisición de bienes y servicios por importe inferior al que en su caso se establezca en la Ley de Presupuestos de cada ejercicio.
+b) Los gastos de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato de que se deriven, o sus modificaciones, así como aquellos otros gastos que de acuerdo con la normativa vigente se hagan efectivos a través del sistema de anticipos de caja fija.
+c) La autorización y disposición de las subvenciones que figuren en los presupuestos con asignación nominativa.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Servicio Gallego de Salud. Personal.
+Corresponde al Servicio Gallego de Salud la autorización de las modificaciones, dentro de cada centro de gestión, de las plantillas de personal estatutario, de personal MIR y de cualquier otro tipo de personal de instituciones sanitarias dependientes del organismo no incluidas en las relaciones de puestos de trabajo, siempre que la modificación acordada no suponga un incremento de los créditos del artículo correspondiente de dicho centro.
+En idénticas condiciones corresponde al Servicio Gallego de Salud la autorización de la modificación prevista en el párrafo anterior de las plantillas de personal funcionario sanitario pertenecientes a las clases de Médicos, Practicantes y Matronas titulares.
+En todo caso, se dará cuenta a la Consellería de Economía y Hacienda una vez tramitada la correspondiente modificación.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Profesores de Cuerpos Docentes.
+Sin perjuicio de lo establecido con carácter general en el artículo 68, punto 5, de la Ley 4/1988, de 26 de mayo, de la Función Pública de Galicia, y en atención a las peculiaridades del personal docente, reconocidas por el artículo 1, punto 2, de la referida Ley, y con carácter de transitoriedad durante el período de implantación de la reforma educativa prevista por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, los Profesores de los Cuerpos Docentes previstos en el ámbito de gestión de la Consellería de Educación y Ordenación Universitaria podrán percibir hasta el total de sus retribuciones tanto básicas como complementarias cuando sean autorizados para el disfrute de licencias por estudios durante el curso escolar, en los supuestos, términos, plazos y condiciones que determine la Consellería de Educación y Ordenación Universitaria, con el informe favorable de las Consellerías de Economía y Hacienda y de la Presidencia y Administración Pública.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Declaración de utilidad pública.
+Uno. A los efectos previstos en el artículo 9 de la Ley de Expropiación Forzosa, de 16 de diciembre de 1954, se declaran de utilidad pública las obras del Organismo Autónomo Aguas de Galicia necesarias para la mejora del abastecimiento y saneamiento de aguas y las destinadas a la solución de problemas de riadas e inundaciones y al acondicionamiento de cauces fluviales, así como las constitutivas de aprovechamientos hidráulicos otorgados con destino a la producción de energía eléctrica.
+Dos. La declaración genérica de utilidad pública que se desprende del punto anterior habrá de ser objeto de reconocimiento en cada caso concreto por acuerdo del Consello de la Xunta.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Enajenación de suelo empresarial por el Instituto Gallego de la Vivienda y Suelo.
+Se autoriza al Instituto Gallego de la Vivienda y Suelo, en los supuestos de enajenación de terrenos destinados a la creación de suelo industrial o de parcelas o parques empresariales terminados que se realicen a favor de las sociedades públicas mayoritariamente participadas por dicho organismo, para que la enajenación pueda efectuarse con pago aplazado no superior a diez años y sin repercusión de intereses.
+Las sociedades públicas referidas ofrecerán como mínimo esas mismas condiciones a los adquirentes finales de las parcelas, sin perjuicio del régimen de garantías que deberá constituirse en favor de aquéllas.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Creación de la Escala de Profesores del INEF de Galicia.
+(Derogada).
+Se deroga por la disposición derogatoria única.1.h) de la Ley 2/2015, de 29 de abril. Ref. BOE-A-2015-5677#ddprimera
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Creación de la Agencia Gallega de Desarrollo Rural.
+Uno. Se crea la Agencia Gallega de Desarrollo Rural como un ente de derecho público, con personalidad jurídica propia, que adecua su actividad al derecho privado.
+Este ente será el instrumento básico de actuación de la Xunta de Galicia en el fomento y coordinación del desarrollo del territorio rural gallego para mejorar las condiciones de vida y evitar el despoblamiento de ese territorio, impulsará la creación y ampliación de explotaciones agrarias y ganaderas en cuanto que actividades productivas relevantes en el medio rural gallego, mediante la promoción y gestión, y posibilitará la creación y ampliación de explotaciones agrarias y ganaderas, en cuanto que actividades productivas relevantes en el medio rural gallego, mediante la gestión del Banco de Tierras de Galicia.
+Asimismo, este ente será el órgano competente en materia de desarrollo comarcal, que ejercerá como instrumento básico de actuación de la Xunta de Galicia para el diseño, aplicación, coordinación y seguimiento del Plan de desarrollo comarcal, y que se encargará a su vez de la tarea de dinamización comarcal a través de los centros de desarrollo comarcal dependientes de la Xunta de Galicia.
+Este ente se adscribe a la consejería competente en materia de desarrollo rural.
+Dos. Las funciones de la agencia serán:
+a) Elaborar estrategias y planes integrados de valorización del medio rural, que coordinen actuaciones de diversa naturaleza y cuenten con la participación de los agentes socioeconómicos públicos y privados.
+b) Difundir y realizar el seguimiento de las políticas de desarrollo rural aplicables en cada momento.
+c) Impulsar la formulación y aplicación a nivel comarcal de estrategias de desarrollo rural integrado, en especial mediante la dinamización y coordinación de los grupos de desarrollo rural encargados de su ejecución.
+d) Articular proyectos de desarrollo rural con carácter piloto e innovador, dirigidos al reforzamiento de la base productiva de las áreas rurales, a la valorización de sus recursos y a la mejora de la calidad de vida de sus habitantes.
+e) Promover y favorecer la cooperación entre los agentes públicos y privados cuyas actuaciones incidan directa o indirectamente en el desarrollo de las zonas rurales.
+f) Contribuir al reforzamiento del tejido social y a la mejora de la capacidad organizativa de las áreas rurales.
+g) Gestionar las medidas y actuaciones que se le encomienden en el marco de la programación 2007-2013 de los fondos agrarios de desarrollo rural.
+h) Aplicar otras medidas y actuaciones que tengan por objeto, en particular, la dinamización del tejido productivo y la fijación de población en las áreas rurales, realizando las actuaciones precisas para promover la igualdad efectiva de mujeres y hombres, en aplicación del artículo 30 de la Ley 7/2004, de 16 de julio, para la igualdad de mujeres y hombres, de los artículos 31.3º y 38.3º de la Ley 2/2007, de 28 de marzo, del trabajo en igualdad de las mujeres de Galicia, y del artículo 30 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+i) La dinamización comarcal, a través de los centros de desarrollo comarcal dependientes de la Xunta de Galicia.
+j) Gestionar las medidas y actuaciones que se le encomienden en el marco de la programación de los fondos agrarios de desarrollo rural.
+k) Gestionar y aplicar las medidas contenidas en los programas de desarrollo rural sostenible, en el marco de la aplicación de la Ley 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural, o de la norma que la sustituya, sin perjuicio de las competencias que en esta materia tengan otros órganos de la Administración autonómica.
+l) La gestión de los bienes y de los derechos incorporados al Banco de Tierras de Galicia.
+m) La realización de la función de servicio de transmisión mediante arrendamiento con respecto a los terrenos rústicos procedentes de explotaciones en las que cesase anticipadamente la persona titular, sin ser cedidas a terceras personas.
+Tres. La Agencia ajustará su actividad al ordenamiento jurídico privado salvo cuando ejercite potestades administrativas. En este supuesto estará sometida a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a las demás normas administrativas de aplicación general.
+En sus actividades de contratación se le aplicará el texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio.
+Asimismo, se le aplicará la Ley 10/1996, de 5 de noviembre, de Actuación de Entes y Empresas en las que tiene participación mayoritaria la Xunta de Galicia, en materia de personal y contratación.
+Cuatro. Los órganos de gobierno de la Agencia serán el Consejo de Dirección, el Presidente, el Vicepresidente y el Director general. Podrá crearse un Consejo Asesor.
+El Consejo de Dirección estará compuesto por un número impar de miembros, con un máximo de trece.
+Del mismo han de formar parte, entre otros, representantes de la Administración Autonómica con responsabilidades en las Áreas de Economía, Política Territorial, Comarcas, Agricultura, Industria, Medio Ambiente, Turismo, Pesca y Empleo. El nombramiento y cese de sus miembros corresponderá al Consello de la Xunta de Galicia a propuesta del Conselleiro de Economía y Hacienda.
+Estará presidido por el Presidente o, en su defecto, por el Vicepresidente de la Agencia.
+El Presidente de la Agencia será, por razón de su cargo, el Conselleiro de Economía y Hacienda.
+El Vicepresidente será nombrado por el Consejo de Dirección, de entre sus miembros, a propuesta del Presidente.
+El Director general será nombrado y cesado por el Consejo de Dirección, a propuesta de su Presidente, y su cargo será incompatible con cualquier otra actividad pública o privada en los términos previstos en la legislación.
+Cinco. El personal de la Agencia podrá ser contratado en régimen de derecho laboral o ser funcionario, o asimilado, al servicio de la Administración de la Xunta de Galicia adscrito a la Agencia.
+Pertenecer al Consejo de Dirección no generará derechos laborales.
+Seis. Los recursos de la agencia serán:
+a) Las consignaciones presupuestarias que le sean asignadas cada año para el desarrollo del medio rural en los presupuestos generales de la Comunidad Autónoma de Galicia.
+b) Los recursos procedentes del Fondo Europeo Agrícola de Desarrollo Rural (Feader) y otros fondos comunitarios, en cuanto proceda su consignación.
+c) Las subvenciones y aportaciones de entidades e instituciones públicas o privadas, así como de particulares.
+d) Cualquier otro recurso que se le pueda atribuir.
+Se modifican los apartados 1 y 2 por la disposición final 3.1 y 2 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546
+ Se modifican los apartados 2 y 6 por el art. 2.1 y 2 de la Ley 12/2008, de 3 de diciembre. Ref. BOE-A-2009-806
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Fundaciones públicas sanitarias.
+Uno. Las fundaciones sanitarias constituidas por la Comunidad Autónoma se transformarán, en el plazo máximo de seis meses desde la entrada en vigor de la presente Ley, en fundaciones de titularidad y naturaleza pública.
+Dos. La modificación de estas fundaciones y de sus correspondientes estatutos, así como la creación, modificación y extinción de nuevas fundaciones sanitarias, serán aprobadas por Decreto del Consello de la Xunta, a propuesta del Conselleiro de Sanidad y Servicios Sociales. El Decreto establecerá la estructura orgánica y el régimen de funcionamiento de las fundaciones, así como la definición de los objetivos que haya de alcanzar la entidad y de los recursos humanos, financieros y materiales precisos para su funcionamiento.
+Tres. El régimen de contratación respetará, en todo caso, los principios de publicidad y concurrencia, y se regirá por las previsiones contenidas al respecto en la legislación de contratos de las Administraciones Públicas.
+Cuatro. La relación jurídica del personal al servicio de las fundaciones sanitarias será de carácter laboral, siéndoles de aplicación lo dispuesto en la Ley 10/1996, de 5 de noviembre, de Actuación de Entes y Empresas participadas en las que tiene participación mayoritaria la Xunta de Galicia.
+Cinco. Las fundaciones públicas sanitarias dispondrán de su propio patrimonio y podrán tener bienes adscritos por la Administración de la Comunidad Autónoma.
+Seis. Los recursos económicos de las fundaciones públicas sanitarias tendrán la consideración de ingresos de derecho público.
+Siete. En materia financiera, presupuestaria y de control, las fundaciones públicas sanitarias se regirán por lo previsto para las sociedades públicas autonómicas en el Decreto Legislativo 1/1999, por el que se aprueba el texto refundido de la Ley de Régimen Financiero y Presupuestario de Galicia.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Fondo de Cooperación Local.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 14/2010, de 27 de diciembre. Ref. BOE-A-2011-2545
+
+### Disposición final primera
+
+Disposición final primera. Preceptos de vigencia temporal.
+Las disposiciones adicionales primera, segunda y cuarta tendrán vigencia exclusiva para el año 2001.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor de la Ley y desarrollo reglamentario.
+Se autoriza al Consello de la Xunta para dictar las disposiciones necesarias para el desarrollo y ejecución de lo dispuesto en la presente Ley, que entrará en vigor el día 1 de enero del año 2001.
+Santiago de Compostela, 28 de diciembre de 2000.
+
+### [firma]
+
+MANUEL FRAGA IRIBARNE,
+Presidente

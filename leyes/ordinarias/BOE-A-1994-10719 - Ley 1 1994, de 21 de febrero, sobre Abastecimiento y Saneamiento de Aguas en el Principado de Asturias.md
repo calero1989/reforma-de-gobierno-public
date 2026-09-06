@@ -1,0 +1,662 @@
+# Ley 1/1994, de 21 de febrero, sobre Abastecimiento y Saneamiento de Aguas en el Principado de Asturias.
+
+- Identificador BOE: `BOE-A-1994-10719`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-10719
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta general del Principado de Asturias ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente Ley sobre abastecimiento y saneamiento de aguas en el Principado de Asturias.
+LEY 1/1994, DE 21 DE FEBRERO, SOBRE ABASTECIMIENTO Y SANEAMIENTO DE AGUAS EN EL PRINCIPADO DE ASTURIAS
+PREÁMBULO
+I. Competencia legislativa del Principado
+La Constitución ha impuesto a los poderes públicos del deber inexcusable de velar por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de vida y defender y restaurar el medio ambiente. Este mandato constitucional cobra especial relieve respecto del agua, tanto por su carácter de recurso escaso que debe satisfacer muy distintas necesidades y que es preciso utilizar con principios de economía y eficacia, cuanto por su incidencia en un aspecto fundamental que determina la calidad de vida, como es el de la disponibilidad de agua potable para el abastecimiento humano y el consiguiente tratamiento en su vertido del agua utilizada en el consumo doméstico e industrial. En este último aspecto, el término municipal, que tradicionalmente ha sido la base en la que se centraron las competencias sobre aprovechamientos hidráulicos urbanos, no permite, como regla general, la utilización racional y coordinada del recurso. De ahí que se haya hecho precisa la búsqueda de espacios geográficos más amplios que el municipal para la realización de obras, tanto de captación, embalse y tratamiento de las aguas que han de ser distribuidas por las redes municipales, como de depuración y vertido de las residuales. Igualmente, la obligada racionalidad en la utilización del recurso ha impuesto con carácter necesario la planificación de los distintos usos y la coordinación de la explotación de los diferentes aprovechamientos.
+El Estatuto de Autonomía de Asturias atribuye al Principado la competencia respecto de los proyectos, construcción y explotación de los aprovechamientos hidráulicos, así como sobre las obras públicas de interés regional, la ordenación del territorio y la protección del medio ambiente. A su vez, la Ley Orgánica 9/1992, de 23 de diciembre de transferencia de competencias a Comunidades Autónomas que accedieron a la autonomía por la vía del artículo 143, transfiere al Principado de Asturias, en su artículo 2.a) la competencia exclusiva sobre la materia de «ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad Autónoma». Se trata, en este caso, de títulos competenciales que habilitan a la Junta general para ordenar la intervención de la Administración del Principado y de las administraciones locales en el abastecimiento y saneamiento de aguas, desde las perspectivas antes enunciadas de la planificación y coordinación de las actuaciones públicas. Una ordenación que se asienta en el principio de cuidadoso respeto de las competencias que la Ley Reguladora de las Bases del Régimen Local asigna al municipio o concejo, así como el deber que impone a la provincia –en Asturias al Principado– de coordinar los servicios municipales para garantizar su prestación integral y adecuada.
+Por otra parte, el artículo 44 del Estatuto de Autonomía para Asturias dispone que la Hacienda del Principado de Asturias está integrada, entre otros recursos, por los tributos propios que podrá establecer y exigir de acuerdo con la Constitución y las leyes.
+II. Estructura de la Ley
+El título I de la Ley regula el abastecimiento y saneamiento en el Principado. Es ésta una regulación que se efectúa partiendo de la delimitación de las competencias que en la materia ostentan las administraciones locales y la del Principado: en el primer caso, según lo establecido en la Ley Reguladora de las Bases del Régimen Local; en el caso del Principado, centradas en la función planificadora y coordinadora de las actuaciones públicas, conforme prevé el artículo 59 de la misma ley.
+Además, se estima que la coordinación de las actuaciones públicas debe resultar de las directrices establecidas en la planificación. Por ello, la Ley regula los procedimientos para llevar a la práctica los planes directores, encomendando al Consejo de Gobierno la aprobación de los programas para su ejecución, en el que se deben concretar, espacial y territorialmente, las infraestructuras hidráulicas a realizar, la Administración pública encargada, en cada caso, de su ejecución, y el modo de financiarlas. Asimismo, se establece la obligada participación de los entes locales en el proceso de aprobación de los planes directores y de sus programas de ejecución, y la concreción en éste de las aportaciones del Presupuesto del Principado para la financiación de las obras que, por ser de titularidad municipal, corren a cargo de la Administración local.
+Por otra parte, se concreta en la zona central de Asturias la ordenación que con carácter general se realiza en todo el territorio del Principado de Asturias, y ello en razón de las especiales características de la misma que ya en su día han dado lugar a la constitución de un consorcio para ejercer las distintas funciones de las administraciones consorciadas en orden al abastecimiento y saneamiento.
+En el título II y al amparo de lo previsto en los artículos 44.1 del Estatuito y 4.1, b), de la Ley Orgánica 8/1980, de 22 de septiembre, de financiación de las Comunidades Autónomas, se crea un impuesto sobre las afecciones ambientales del uso del agua, como tributo propio de la Hacienda del Principado de Asturias, afectado a la financiación de los gastos de inversión en obras e instalaciones de depuración de aguas residuales, así como a los de explotación y mantenimiento de las mismas.
+El impuesto creado se inspira en los principios constitucionales de igualdad, generalidad, solidaridad y suficiencia financiera, partiendo de la consideración de que, si bien existen diferencias en cuanto a las dotaciones y necesidades de los concejos y áreas determinadas del territorio de la Comunidad Autónoma, no obstante el problema de la degradación de la calidad de las aguas y del medio ambiente en general es un problema que afecta a todos por igual y exige la adopción de medidas de carácter general eficaces para su corrección.
+Finalmente, el título III establece y regula la Junta de Saneamiento, organismo autónomo que cumple funciones básicas en la aplicación de lo dispuesto por la Ley de cuyo Consejo de Administración forman parte representante de la Administración del Principado y de los Ayuntamientos.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+## TÍTULO I
+
+Abastecimiento y saneamiento de aguas en el Principado de Asturias
+
+## CAPÍTULO I
+
+Objeto de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley tiene por objeto la regulación de los aspectos esenciales de las funciones que en materia de abastecimiento de agua y saneamiento correspondan al Principado de Asturias y a los concejos en el ámbito territorial de la Comunidad Autónoma para una actuación planificada y coordinada, de modo especial en la zona central de Asturias, así como el establecimento y regulación de un impuesto sobre las afecciones ambientales del uso del agua para la financiación de gastos de gestión, explotación y mantenimiento de las instalaciones de depuración de las aguas residuales y, en su caso, de las obras de construcción de las mismas.
+2. El abastecimiento incluye los servicios de aducción y de distribución. El primero comprende las funciones de captación y alumbramiento, embalse, conducciones por arterias o tuberías primarias, así como su tratamiento inicial. El segundo, el depósito, el tratamiento secundario y su reparto de agua hasta las acometidas particulares.
+3. El saneamiento incluye los servicios del alcantarillado y depuración. El primero comprende las funciones de recogida de aguas residuales y pluviales y su evacuación a los colectores interceptores generales o puntos de recogida para su tratamiento. El segundo el transporte, depuración y vertido final a los medios receptores.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+## CAPÍTULO II
+
+Disposiciones generales
+
+### Artículo 2
+
+Artículo 2. Competencias del Principado de Asturias.
+1. En su ámbito territorial, corresponde a la Administración del Principado:
+a) La planificación general, que deberá contener la formulación de los esquemas de infraestructuras, estableciendo, en todo caso, los diferentes ámbitos temporales y espaciales en relación con la actuaciones que recoja y los niveles mínimos de prestación de servicios y calidad exigibles, así como el procedimiento a seguir para la adopción de las medidas que permitan afrontar situaciones especiales en supuestos de urgencia o necesidad, con los recursos disponibles. Esta planificación se hará a través de planes directores de obras y de gestión.
+b) La programación, la ejecución de las infraestructuras calificadas en el plan director de obras como de interés de la Comunidad Autónoma que promueva directamente y la gestión de los servicios de su titularidad.
+c) La colaboración con las entidades locales en la planificación, en la ejecución y en la gestión de obras y servicios de la competencia de las mismas.
+d) La aprobación de los planes y proyectos incluidos en el programa de ejecución del plan director que, en relación a los servicios municipales de saneamiento y abastecimiento, formulen los distintos Ayuntamientos y pretendan la financiación de la Comunidad Autónoma.
+e) La aprobación del régimen de financiación de las inversiones previstas en el programa de ejecución del plan director de obras.
+f) El control de la calidad de la aguas y de los vertidos en las redes cuya titularidad corresponda a la Administración del Principado.
+g) El control de la eficacia del proceso de tratamiento en las instalaciones de depuración financiadas total o parcialmente por el Principado de Asturias.
+h) La supervisión de la calidad de las aguas en las redes de distribución.
+i) La prestación de servicios de aducción y depuración que sean titularidad de la Comunidad Autónoma.
+2. El Gobierno del Principado podrá establecer mediante Decreto tarifas mínimas orientativas para los servicios de abastecimiento y alcantarillado y podrá vincular la financiación de obras que beneficien a dichos servicios al establecimiento de acuerdos mediante los cuales los Ayuntamientos se acojan a dichas tarifas.
+
+### Artículo 3
+
+Artículo 3. Competencia de los concejos.
+1. De acuerdo con la normativa vigente, corresponde a los concejos como competencias propias, con sujeción a la planificación general establecida por el Principado de Asturias, prestar por sí mismos o asociados, los servicios de distribución de agua y alcantarillado. Asimismo prestan los servicios de aducción y depuración cuando éstos son de su titularidad.
+2. En el marco de la planificación general establecida por el Principado y de acuerdo con sus competencias, corresponde a los Ayuntamientos:
+a) Aprobar los proyectos y realizar y gestionar las obras y los servicios definidos en el plan director de obras como de ámbito municipal.
+b) Redactar y aprobar inicial y provisionalmente los proyectos de obras y de explotación de los servicios municipales, cuya aprobación definitiva corresponda a la Administración del Principado, de conformidad con los programas de ejecución del plan director de obras.
+c) Realizar y gestionar de forma asociada con las restantes entidades locales afectadas, obras y servicios de ámbito territorial superior al de un término municipal.
+d) Aprobar las tarifas de los servicios de su competencia.
+e) Controlar los vertidos a la red municipal de alcantarillado.
+3. Los entes locales podrán ejecutar las obras de infraestructura y gestionar los servicios de su competencia en la materia objeto de la presente Ley por cualquiera de los modos establecidos en la legislación reguladora del régimen local.
+
+### Artículo 4
+
+Artículo 4. Relaciones interadministrativas.
+1. Las relaciones interadministrativas que surjan del ejercicio de las competencias municipales y de las del Principado, se ajustarán a los principios de información mutua, colaboración y coordinación.
+2. La Administración del Principado, a través de los planes directores y de sus programas de ejecución, coordina la actividad de entidades locales mediante la definición concreta de los intereses regionales y locales, con fijación de los objetivos y la determinación de las prioridades de la acción pública. En la tramitación de los planes directores y de sus programas de ejecución se garantizará la participación de las entidades locales afectadas.
+3. Para el cumplimiento de las obligaciones previstas en esta Ley, la Administración del Principado facilitará a las entidades locales asistencia técnica en el marco de los planes directores y de los programas para su ejecución. Asimismo, promoverá la constitución de consorcios que, para la prestación de los servicios de abastecimiento y saneamiento, podrán acordar la forma de gestión más adecuada en cada caso.
+4. Cuando las entidades locales no cumplan la obligación de prestar los servicios de abastecimiento y saneamiento o de ejecutar las obras de infraestructura de carácter municipal que les correspondan de acuerdo con los planes directores, la Administracion del Pricipado formulará requerimiento al efecto y en caso de no ser atendido se actuará conforme a lo previsto en el artículo 60 de la Ley 7/1985, reguladora de las bases del régimen local.
+
+## CAPÍTULO III
+
+Planificación hidráulica
+
+### Artículo 5
+
+Artículo 5. Planes directores.
+1. El plan director de obras a que se refiere el artículo 2.1,a) de la presente Ley, recogerá justificadamente las infraestructuras que en materia hidráulica deberán realizarse en Asturias, tanto de nueva planta como de mejora de las existentes o de interrelación entre ellas, para asegurar con la mayor garantía posible la prestación de los servicios.
+2. El plan director de gestión al que se refiere el precepto indicado en el apartado anterior, establecerá los niveles mínimos de prestación de los servicios y de calidad exigibles. Contendrá, asimismo, respecto a los sistemas de abastecimiento declarados de interés de la Comunidad Autónoma, las medidas que aseguren una actuación coordinada de las distintas administraciones competentes en el ciclo del agua para garantizar el suministro de agua en casos de urgencia y necesidad, a consecuencia de sequía, desabastecimiento de poblaciones por averías, contaminación de las fuentes de alimentación o cualquier otra situación catastrófica, determinando para cada caso los puntos de la red desde los que se efectuarán los suministros, sustituyendo total o parcialmente los caudales de cada concejo afectado por otros de origen diferente. Determinará igualmente las compensaciones que procedan a los titulares de los recursos que se utilicen en favor de otros usuarios. Especificará, asimismo, las instalaciones y servicios concretos cuya gestión será financiable con cargo al impuesto sobre las afecciones ambientales del uso del agua regulado por la presente Ley.
+3. Los planes directores serán aprobados por acuerdo del Consejo de Gobierno. Reglamentariamente se determinará el procedimiento de elaboración de los planes garantizándose en todo caso la participación de las entidades locales afectadas y siendo preceptivo un período de información pública.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+### Artículo 6
+
+Artículo 6. Obras de infraestructura.
+1. El Consejo de Gobierno del Principado, en desarrollo del plan director de obras y de acuerdo, en su caso, con los Ayuntamientos afectados, aprobará, con la periodicidad establecida en el mismo, programas de ejecución de obras e instalaciones de infraestructuras hidráulicas. En dichos programas se concretarán, temporal y territorialmente: Las obras e instalaciones de implantación o conservación de captaciones y mejora de recursos superficiales y subterráneos; las de embalse, conducción, tratamiento y depósito y distribución por medio de redes secundarias; las de saneamiento y depuración de vertidos urbanos e industriales.
+2. Los programas de ejecución deberán contener:
+a) Las obras de interés de la Comunidad Autónoma o municipal a realizar en los ejercicios presupuestarios que comprenda el programa, para alcanzar los objetivos fijados por los planes directores.
+b) La concreción de la Administración pública encargada, en cada caso, de la ejecución de las obras.
+c) La evaluación económica de las inversiones a realizar en cada ejercicio.
+d) La financiación de las inversiones.
+3. Los costes de inversión y financieros de las obras y actuaciones contenidas en los programas de ejecución serán financiados por la Administración a quien corresponda su realización. No obstante, las obras de ámbito municipal o supramunicipal podrán contar con la aportación de la Administración del Principado y de los concejos afectados primando en la definición de prioridades las obras de interés supramunicipal.
+4. Serán de titularidad de los concejos las obras e instalaciones realizadas por éstos aunque hayan sido financiadas con aportaciones del Principado de Asturias, sin perjuicio de lo dispuesto en el artículo 8 de la presente Ley.
+
+### Artículo 7
+
+Artículo 7. Aprobación de proyectos.
+La aprobación por la Consejería competente de los proyectos de infraestructuras hidráulicas llevará implícita la declaración de utilidad pública y la necesidad de urgente ocupación de los bienes y derechos afectados, a efectos de expropiación forzosa y ocupación temporal, así como para la imposición de servidumbres. Esta declaración se extenderá a los bienes y derechos comprendidos en el replanteo definitivo de las obras y en las modificaciones de proyectos y obras complementarias que, en su caso, puedan aprobarse posteriormente.
+Se modifica por la disposición final 3 de la Ley 1/2023, de 15 de marzo. Ref. BOE-A-2023-10347#df-3
+
+## CAPÍTULO IV
+
+De los servicios de abastecimiento y saneamiento en la zona central de Asturias
+
+### Artículo 8
+
+Artículo 8. Sistemas de interés del Principado de Asturias.
+1. En la zona central de Asturias se declara de interés de la Comunidad Autónoma el sistema hidráulico de aducción susceptible de gestión integrada que se describe en el anexo I de la presente Ley. Se declaran, asimismo, de interés del Principado de Asturias, los sistemas de depuración descritos en el anexo II de la presente Ley.
+2. Las obras que en materia de aducción y depuración se realicen para la ampliación de dicho sistema en la zona central de Asturias, serán de interés del Principado.
+
+### Artículo 9
+
+Artículo 9. Planes directores de la zona central.
+1. La Administración del Principado redactarará un plan director de obras y un plan director de gestión específicos para la zona central.
+2. El plan director de gestión de la zona central contendrá las disposiciones precisas para la coordinación de las instalaciones de los servicios de aducción y depuración del sistema hidráulico integrado que obligarán directamente a las entidades titulares de los mismos y, en su caso, a las que haya sido encomendada su gestión o explotación.
+3. El plan director de obras de la zona central establecerá los puntos y condiciones de conexión de las redes municipales de distribución a las del sistema de aducción integrado, así como los puntos y condiciones de conexión de las redes del alcantarillado con las de los sistemas de depuración.
+
+## TÍTULO II
+
+Canon de saneamiento
+Artículos 10 a 21.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210.
+
+### Artículo 10
+
+Artículo 10. Creación.
+1. Se crea, como tributo propio de la Hacienda del Principado de Asturias, un canon de saneamiento. Este canon se aplicará en todo el territorio de la Comunidad Autónoma.
+2. La recaudación del canon de saneamiento quedará afectada íntegramente a la financiación de:
+a) Gastos de explotación, mantenimiento y gestión de las obras e instalaciones de depuración de aguas residuales definidas en esta ley o consideradas en los planes directores como de interés regional.
+b) Gastos de inversión en las obras e instalaciones referidas en la letra a) anterior.
+3. Los recursos obtenidos a través del canon de saneamiento deberán ser objeto de contabilidad separada por la Junta de Saneamiento. El Principado de Asturias podrá fiscalizar dicha contabilidad, así como la ejecución de las obras financiadas con estos recursos.
+4. El pago de intereses y la amortización de créditos para la financiación de las inversiones a que se refiere la letra b) del punto 2 anterior podrán garantizarse a cargo de la recaudación que se obtenga con el canon de saneamiento.
+5. El canon de saneamiento es incompatible con la imposición de tasas, precios públicos, así como de contribuciones especiales y otros tributos de carácter autonómico o local, destinados a la financiación de los gastos a que se refieren los apartados anteriores.
+El canon de saneamiento es compatible con cualquier otra exacción que pueda recaer sobre el agua, siempre que no grave el mismo hecho imponible.
+6. En el caso de las obras de depuración que en los planes directores no sean consideradas de interés regional, se articularán las medidas previstas en la disposición adicional primera para evitar la doble imposición.
+Se modifica por el art. 12.1 de la Ley autonómica 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+
+### Artículo 11
+
+Artículo 11. Hecho imponible.
+1. Constituye hecho imponible del canon cualquier consumo potencial o real del agua de toda procedencia, por razón de la contaminación que pueda producir su vertido directo o a través de las redes de alcantarillado. En el hecho imponible quedan expresamente incluidas las captaciones de agua para su uso en procesos industriales, aunque no tengan carácter consuntivo o lo tengan parcialmente.
+2. No están sujetas a esta exacción los consumos correspondientes a los siguientes usos:
+a) El suministro en alta a otros servicios públicos de distribución de agua potable.
+b) La utilización del agua que hagan las entidades públicas para la alimentación de fuentes públicas, bocas de riego y de extinción de incendios.
+3. Disfrutarán de exención del canon de saneamiento los consumos correspondientes a los siguientes usos:
+a) La utilización que hagan los agricultores de agua para regadío, en los términos que reglamentariamente se establezca, cuando no produzcan contaminación por abonos, pesticidas o materias orgánicas que afecten a las aguas superficiales o subterráneas.
+b) La utilización de agua consumida en la actividad ganadera, cuando dispongan de instalaciones adecuadas y no genere vertidos a la red de alcantarillado, en los términos que se determinen reglamentariamente.
+c) La utilización de agua consumida por los centros ictiogénicos e ictiológicos definidos en los artículos 31 y 32 de la Ley del Principado de Asturias 6/2002, de 18 de junio, sobre protección de los sistemas acuáticos y de regulación de la pesca en aguas continentales.
+Se añade la letra c) al apartado 3 por el art. 5.1 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se modifica el apartado 2 y se añade el 3 por el art. 6.1 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 12
+
+Artículo 12. Medidas compensatorias y recargos.
+Se podrán establecer medidas compensatorias para los contribuyentes en situación de necesidad económica. Se podrán establecer recargos en los casos de consumos domésticos abusivos y desproporcionados de agua.
+
+### Artículo 13
+
+Artículo 13. Usos domésticos, industriales, agrícolas y ganaderos.
+1. A los efectos previstos en la presente ley, se entenderán por usos domésticos los consumos de agua realizados en viviendas que den lugar a aguas residuales generadas principalmente por el metabolismo humano y por las actividades domésticas.
+2. A los mismos efectos, se considerarán usos industriales los consumos de agua realizados para efectuar cualquier actividad comercial o industrial.
+3. Por último se considerarán usos agrícolas y ganaderos los consumos de agua realizados para efectuar las actividades agrícolas y ganaderas en los términos establecidos en la clasificación nacional de actividades económicas.
+Se modifica por el art. 50.1 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+
+### Artículo 14
+
+Artículo 14. Devengo.
+El canon se devengará, con carácter general, en el momento de producirse el suministro de agua a través de las redes generales, o bien en el momento de su uso o consumo en las captaciones propias.
+
+### Artículo 15
+
+Artículo 15. Sujetos pasivos.
+1. Son sujetos pasivos del canon, en concepto de contribuyentes, las personas físicas o jurídicas, así como las entidades sin personalidad jurídica a las que se refiere el art. 33 de la Ley 260/1963, de 28 de diciembre, General Tributaria que utilicen o consuman agua, tanto si ésta es suministrada por una entidad gestora del servicio, como si se refiere al abastecimiento que por medios propios o concesionales, y por sí mismo, realice el usuario mediante captaciones de aguas superficiales o subterráneas.
+2. Tendrán la consideración de sustitutos del contribuyente las entidades suministradoras de cualquier naturaleza que, mediante redes o instalaciones de titularidad pública o privada, realicen un abastecimiento en baja de agua, se ampare o no esta actividad en un título de prestación de servicio, en aquellos supuestos en que resulten obligados a facturar el canon de saneamiento.
+A estos efectos, quedarán obligadas a cobrar de los usuarios el canon de saneamiento mediante su repercusión en factura, debiendo cumplir con las obligaciones formales y materiales que la presente Ley y sus normas de desarrollo les imponen. No obstante, no quedan obligadas al cumplimiento de las obligaciones materiales que la presente Ley les impone con respecto a los importes repercutidos en sus abonados y no satisfechos por éstos.
+En los supuestos de exención previstos en la presente Ley, el sustituto del contribuyente quedará exonerado de la obligación de repercutir a aquellos usuarios que resulten exentos. La Junta de Saneamiento comunicará a los sustitutos de los contribuyentes las exenciones particulares concedidas, que tendrán efecto a partir de la siguiente facturación que proceda efectuar tras la comunicación.
+Se modifica el apartado 2 por el art. 7.1 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se modifica por el art. 6.2 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16
+
+Artículo 16. Base imponible en función del consumo de agua.
+1. Constituye la base imponible del canon, con carácter general, el volumen de agua consumido o estimado, expresado en metros cúbicos.
+2. En las captaciones superficiales o subterráneas se presumirá el uso o consumo, salvo prueba fehaciente en contrario, por la mera existencia de autorización o concesión administrativa de aprovechamiento o por la existencia de instalaciones fijas que permitan la captación, caso de no existir autorización previa, con independencia de poner los hechos en conocimiento de la Administración competente.
+Se modifica por el art. 6.3 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Determinación de la base imponible en función del consumo de agua.
+1. La base imponible en los casos de abastecimiento a través de redes generales será coincidente con el volumen de los suministros medidos por contador u otros procedimientos de medida admitidos como válidos por la Administración competente, de acuerdo con lo recogido en cada contrato de suministro.
+2. En los supuestos de captaciones subterráneas para usos domésticos, industriales, agrícolas o ganaderos que no tengan en funcionamiento dispositivos de aforo directo de caudales de suministro, el consumo mensual a efectos de la aplicación del canon, quedará determinado por la cantidad que resulte de dividir entre doce el total otorgado en la autorización o concesión administrativa del aprovechamiento. En el caso de que la autorización o concesión administrativa no señale el volumen total autorizado, el consumo mensual se estimará en función de la potencia nominal del grupo elevador mediante la fórmula que se describe en el anexo III de esta ley.
+3. En los supuestos de captaciones superficiales para usos domésticos, industriales, agrícolas o ganaderos, cuyo consumo no esté o no pueda ser medido por contador, el consumo mensual será equivalente al resultado de dividir entre doce el volumen en metros cúbicos correspondiente al máximo anual fijado en la referida autorización o concesión.
+4. En el caso de recogida de aguas pluviales, para usos domésticos, industriales, agrícolas o ganaderos, el consumo mensual será equivalente al resultado de dividir entre doce el volumen en metros cúbicos correspondiente al doble del volumen de los depósitos de recogida.
+5. La base imponible en el caso de suministros para usos domésticos, industriales, agrícolas o ganaderos, mediante contrato de aforo y cuando no pueda ser medido el volumen de agua utilizada en el período considerado, se evaluará aplicando la fórmula que se describe en el anexo IV de la presente ley.
+6. En los supuestos contemplados en los apartados 2 y 3 del presente artículo, podrá exigirse, mediante resolución individual motivada, la instalación de dispositivos de aforamiento continuo del caudal, a efectos de determinar la base imponible, sobre la base de la existencia de disparidad manifiesta entre el resultado del consumo obtenido de acuerdo con el máximo fijado en la correspondiente autorización o concesión y el que razonablemente quepa imputar al tipo de actividad desarrollada por el sujeto pasivo.
+Se modifica por el art. 50.2 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se añade el apartado 6 por el art. 7.2 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se añade por el art. 6.4 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 tercero
+
+Artículo 16 tercero. Diferencias entre caudal consumido y el vertido en usos industriales.
+1. En el supuesto de procesos industriales que realicen consumos anuales superiores a 22.000 metros cúbicos de agua que impliquen la incorporación ostensible de agua a los productos fabricados o la existencia de una evaporación importante, la base imponible se determinará en función del volumen de agua efectivamente vertido, siempre que la diferencia entre el consumo anual y el caudal vertido sea superior al 40 por 100 del consumo anual.
+2. La aplicación del sistema mencionado deberá solicitarse por los sujetos pasivos en la forma y plazos que reglamentariamente se establezca. A tal efecto, los sujetos pasivos quedan obligados, por sí y a su cargo, a la adecuación de los desagües y a la instalación y mantenimiento de dispositivos de medida del caudal vertido, tanto para valorar la solicitud como, caso de resolución favorable, para la medición futura de los vertidos.
+Se añade por el art. 6.5 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 cuarto
+
+Artículo 16 cuarto. Determinación de la base imponible en función de la carga contaminante.
+1. En el caso de usos industriales que supongan la realización de vertidos con cargas contaminantes específicas, la base imponible consistirá en la contaminación efectivamente producida o estimada, expresada en metros cúbicos de agua vertida, mediante medición directa o mediante estimación objetiva, en los términos que establecen los siguientes apartados.
+2. Podrán solicitar la determinación de la base imponible en función de la carga contaminante:
+a) Las actividades industriales con un consumo anual inferior a 22.000 m3en cuya autorización de vertido se establezca la existencia de instalaciones propias de tratamiento de las aguas residuales.
+b) Las actividades industriales con consumos anuales iguales o superiores a 22.000 m3/año que cuenten con autorización de vertido en vigor.
+3. La Administración podrá exigir de oficio la determinación de la base imponible en función de la carga contaminante, cuando la cuota tributaria así determinada supere a la que se obtendría por aplicación del régimen general en función del consumo de agua.
+Se modifica por el art. 5.2 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se añade por el art. 6.6 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 quinto
+
+Artículo 16 quinto. Medición directa de la carga contaminante.
+1. La base imponible se determinará, en el caso de usos industriales que supongan la realización de vertidos con cargas contaminantes específicas, en general, mediante la medición directa de la contaminación basada en el análisis de una o varias muestras, que podrá realizarse por la Junta de Saneamiento de oficio o a petición de los sujetos pasivos, en razón del consumo de agua realizado o de la carga contaminante vertida.
+A tal efecto, los sujetos pasivos quedan obligados, por sí y a su cargo, a instalar y mantener dispositivos de aforamiento continuo del caudal vertido que permitan la toma de muestras y la instalación de los instrumentos que sean precisos, tanto para valorar la solicitud como, caso de resolución favorable, para la medición futura de los vertidos y de la carga contaminante.
+En general, los gastos generados por la implantación de sistemas de medida, toma de muestras y análisis correspondientes a las mediciones para la determinación del agua vertida y la contaminación efectivamente producida, serán por cuenta de los sujetos pasivos afectados.
+No obstante, en los supuestos en que la Administración actúe de oficio, ésta se hará cargo de los gastos ocasionados por la toma y análisis de muestras, cuando exista diferencia positiva entre el último tipo de gravamen aplicable al sujeto pasivo y el que resulte tras la realización de los nuevos análisis.
+2. Reglamentariamente se determinarán los valores de consumo y de carga contaminante, la forma, requisitos y plazos que deben reunir las solicitudes, así como los métodos de toma y análisis de muestras. De igual forma, podrán establecerse periodos máximos o mínimos de permanencia del resultado de los análisis efectuados y de la periodicidad con que puedan éstos efectuarse en los supuestos en que proceda esta forma de determinación de la base imponible.
+Se añade por el art. 6.7 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 sexto
+
+Artículo 16 sexto. Estimación objetiva de la carga contaminante.
+La base imponible se determinará mediante estimación objetiva de la carga contaminante, en la forma que reglamentariamente se establezca, en razón de:
+a) Los vertidos producidos por grupos de actividades o establecimientos similares en función del consumo de materias primas o de la producción de fabricados de cada instalación industrial.
+b) Los datos que figuren en la autorización de vertido o los reflejados en la documentación técnica de la actividad industrial contenida en los correspondientes expedientes administrativos.
+Se añade por el art. 6.8 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 16 séptimo
+
+Artículo 16 séptimo. Determinación del consumo de agua.
+1. Para la determinación del consumo de agua en el caso de suministros a través de redes generales, deberá procederse a la instalación de contadores u otros mecanismos de medida directa del volumen real de agua efectivamente consumido. Tales contadores o mecanismos de medición del consumo deberán ser admitidos como válidos por la Administración competente.
+2. En tanto en cuanto no se proceda a la instalación de los dispositivos de medición indicados en el apartado anterior, el consumo estimado se evaluará de la siguiente manera, sin perjuicio de las facultades de comprobación por parte de la Administración:
+a) Para los usuarios domésticos se estimará un consumo por abonado a efectos del canon de saneamiento de 8 m3/mes.
+b) Para los usuarios industriales, agrícolas y ganaderos, se estimará un consumo por abonado a efectos del canon de saneamiento de 20 m3/mes.
+3. En los suministros a través de redes generales cuando puntualmente se produzcan incidencias técnicas relacionadas con el funcionamiento o medición de los contadores, a efectos de liquidación del canon de saneamiento se aplicará lo establecido en las Ordenanzas Municipales del ayuntamiento correspondiente.
+Se modifica el apartado 2 por el art. 50.3 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica por el art. 5.3 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se añade por el art. 6.9 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 17
+
+Artículo 17. Tipo de gravamen y cuota tributaria.
+1. La cuota tributaria estará compuesta por una parte fija más otra variable en función del consumo o de la carga contaminante del vertido.
+2. La cuota tributaria para los consumos domésticos será la que resulte de agregar:
+a) Una cuota fija de 3 euros por abonado y mes. No obstante, en los supuestos en los que el suministro de agua se efectúe y facture a comunidades de propietarios u otras entidades similares formadas por una pluralidad de propietarios de diversas viviendas o establecimientos, tendrán la condición de abonados a efectos de la determinación de la cuota fija, cada una de las viviendas o establecimientos que la integren, además de la propia comunidad o entidad si ésta dispone de al menos un punto de suministro.
+b) Una cuota variable que será la resultante de aplicar la siguiente tarifa proporcional sobre la base imponible que corresponda en cada caso en los términos que establecen los artículos 16, 16 bis y 16 séptimo.
+Consumo mensual (m3/mes)
+ Tipo de gravamen (€/m3)
+ Hasta 15,000 m3
+ 0,3993
+ Entre 15,001 y 25,000 m3
+ 0,4792
+ Más de 25,000 m3
+ 0,5590
+En los supuestos en los que el suministro de agua se efectúe y facture a comunidades de propietarios u otras entidades similares formadas por una pluralidad de propietarios de diversas viviendas o establecimientos, a efectos de la determinación del tipo de gravamen aplicable se tendrá en cuenta el consumo mensual que resulte de dividir el total suministrado mensualmente a la comunidad o entidad, entre el número de viviendas o establecimientos que la integren, además de la propia comunidad si ésta dispone de al menos un punto de suministro.
+3. La cuota tributaria para los consumos industriales, agrícolas y ganaderos será la que resulte de agregar:
+a) Una cuota fija que resultará de aplicar el siguiente baremo en función del volumen anual consumido:
+Consumo anual (m³/año)
+ Cuota fija (€/mes)
+ Hasta 200,000
+ 5
+ De 200,001 a 500,000
+ 10
+ De 500,001 a 1.000,000
+ 20
+ De 1.000,001 a 5.000,000
+ 40
+ De 5.000,001 a 22.000,000
+ 80
+ De 22.000,001 a 100.000,000
+ 160
+ De 100.000,001 a 500.000,000
+ 320
+ De 500.000,001 a 1.000.000,000
+ 640
+ A partir de 1.000.000,000
+ 1.280
+A efectos de determinación de la cuota fija se tomará el consumo anual correspondiente al ejercicio inmediatamente anterior a aquél que se liquide.
+En los supuestos en los que el suministro de agua se efectúe y facture a comunidades de propietarios u otras entidades similares formadas por una pluralidad de establecimientos, tendrán la condición de abonados a efectos de la determinación de la cuota fija, cada uno de los establecimientos que la integren, además de la propia comunidad o entidad si ésta dispone de al menos un punto de suministro.
+En el ejercicio de puesta en funcionamiento de nuevas instalaciones industriales, agrícolas o ganaderas se aplicará la cuota fija correspondiente a un consumo de hasta 200 m³. En el siguiente ejercicio para la determinación del consumo anual se tomará el resultante de multiplicar por doce el consumo mensual medio registrado en los meses de funcionamiento de la actividad.
+No obstante, en el caso de nuevas actividades industriales, agrícolas o ganaderas que deban contar con autorización de vertido de aguas residuales, tanto por estar comprendidas en los supuestos establecidos en la Disposición Transitoria Primera de la Ley del Principado de Asturias 5/2002, de 3 de junio, sobre vertidos de aguas residuales industriales a los sistemas públicos de saneamiento, como por realizar el vertido de sus aguas residuales al dominio público hidráulico o al dominio público marítimo-terrestre, para la determinación de la cuota fija en el primer año natural de funcionamiento, se considerará un consumo anual igual al volumen anual de vertido autorizado.
+b) Una cuota variable definida en los siguientes términos:
+b.1) Sin perjuicio de lo establecido en las sucesivas letras, la cuota variable será la resultante de aplicar un tipo de gravamen de 0,5990 euros/m³ sobre la base imponible que corresponda en cada caso en los términos que establecen los artículos 16, 16 bis, 16 tercero y 16 séptimo.
+b.2) La cuota variable será la resultante de aplicar un tipo de gravamen de 0,00006 euros/m³ sobre la base imponible que corresponda en cada caso en los términos que establecen los artículos 16, 16 bis y 16 séptimo, en los siguientes supuestos:
+b.2.1) En el caso de vertidos de aguas de refrigeración al dominio público hidráulico o al dominio marítimo terrestre, en los que la calidad de las aguas vertidas no sea inferior a las aguas captadas, con excepción del incremento térmico.
+b.2.2) En los vertidos de instalaciones de acuicultura y de las aguas de drenaje de mina al dominio público hidráulico o al dominio público marítimo-terrestre, siempre que se cumpla con las condiciones establecidas en la correspondiente autorización de vertido.
+b.2.3) En las aguas utilizadas para la producción de energía hidroeléctrica o fuerza motriz.
+b.2.4) En las aguas para riego de instalaciones deportivas con suministro independiente.
+b.3) En los supuestos contemplados en los artículos 16 cuarto, quinto y sexto de la presente ley, la cuota variable será la que resulte de aplicar un tipo de gravamen que se establecerá individualmente para cada contribuyente aplicando la fórmula polinómica que se describe en el anexo V de la presente ley.
+4. En aquellos casos en que un contribuyente lleve a cabo diversos tipos de consumo y no tenga instalados mecanismos de aforo en razón de los distintos usos o por las circunstancias que se den en el caso de que no sea posible su distinción, se aplicará el tipo de gravamen más elevado.
+Se modifica por el art. 50.4 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica por el art. 5.4 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se modifica el apartado 2.a) por el art. 8.1 de la Ley autonómica 5/2010, de 9 de julio. Ref. BOE-A-2010-14629.
+ Se modifica el apartado 2.a) por el art. 4.1 de la Ley autonómica 4/2009, de 29 de diciembre. Ref. BOE-A-2010-3375.
+ Se modifica el apartado 2.a) por el art. 12.2 de la Ley autonómica 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+ Se modifica el apartado 2.a) por el art. 10.1 de la Ley autonómica 3/2008, de 13 de junio. Ref. BOE-A-2008-13590.
+ Se modifica el apartado 2.a) por el art. 11.1 de la Ley autonómica 11/2006, de 27 de diciembre. Ref. BOE-A-2007-5591.
+ Se modifica el apartado 2.a) por el art. 9.1 de la Ley autonómica 7/2005 de 29 de diciembre. Ref. BOE-A-2006-6252.
+ Se modifica el apartado 2.a) por el art. 12.1 de la Ley autonómica 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
+ Se modifica el apartado 2.a) por el art. 21.1 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+ Se modifica el apartado 2 por el art. 20.1 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
+ Se modifica por el art. 6.10 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 18
+
+Artículo 18. Obligación de pago.
+1. En los supuestos de abastecimiento de agua a través de entidades suministradoras, la obligación de pago coincidirá con los plazos de liquidación e ingreso que corresponda a las tasas de suministro de agua, efectuándose la facturación y recaudación del canon por las entidades suministradoras. Se establecerá en esos casos un premio de cobranza y por confección de recibos.
+Vendrán referidos al canon de saneamiento el acto de aprobación del documento que faculta para el cobro de los derechos derivados del servicio de abastecimiento de agua y el anuncio de cobranza. La notificación para el ingreso del canon de saneamiento en período voluntario podrá llevarse a cabo mediante publicación colectiva.
+Las mencionadas entidades procederán a ingresar a favor de la Junta de Saneamiento, mediante autoliquidación, las cantidades percibidas por el canon, en la forma y plazo que reglamentariamente se establezcan.
+Las entidades suministradoras, en la forma y cuantía que reglamentariamente se establezca y, en todo caso, con separación de otros conceptos, podrán detraer de las autoliquidaciones que deban realizar, de acuerdo con esta Ley y con las normas que la desarrollen, los importes correspondientes en concepto de premio de cobranza y por confección de recibos, sin perjuicio de la comprobación administrativa posterior.
+2. Las entidades suministradoras quedan obligadas al pago de las cantidades correspondientes al canon que no hayan repercutido a sus abonados o que, habiéndolo repercutido y percibido, no hayan declarado e ingresado en favor de la Junta de Saneamiento, todo ello sin perjuicio de la sanción que pudiera corresponder.
+En los supuestos en que las entidades suministradoras no facturen total o parcialmente las tasas de suministro de agua a los abonados, si en el mes de abril siguiente al ejercicio de devengo no se hubiera procedido a autoliquidar el canon de saneamiento, la Administración podrá de oficio liquidar el impuesto a la entidad suministradora en base a la información censal que está obligada a suministrar. En caso de que dicho censo no se encuentre disponible, la liquidación se realizará en base al suministro en alta o captación realizada por la entidad suministradora. No obstante, cuando la ausencia de facturación sea parcial y no esté disponible el censo, la cuota que resulte a partir del suministro en alta o captaciones propias, se prorrateará en función del número de habitantes afectados.
+3. En los casos de abastecimiento de agua por medios propios o de determinación de base por carga contaminante, la obligación de pago se realizará mediante autoliquidación en la forma y plazos que reglamentariamente se establezcan.
+Se modifica el apartado 1 por el art. 50.5 de la ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica el apartado 2 por el art. 5.5 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se modifica el apartado 2 por el art. 7.3 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se modifica por el art. 6.11 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 19
+
+Artículo 19. Obligaciones formales.
+Las entidades suministradoras deberán reflejar el importe del canon regulado en esta Ley, así como el perceptor del mismo en los recibos que éstas emitan para su cobro, diferenciándolo claramente de las cuantías correspondientes a tasas de abastecimiento, y, en su caso, de cualquier otro concepto, indicando al menos la base imponible, el tipo de gravamen correspondiente y la cuota tributaria.
+La Administración del Principado de Asturias podrá aprobar a tal finalidad un modelo normalizado de recibo.
+Anualmente deberán remitir a la Administración del Principado de Asturias un listado detallado de contribuyentes, en el que figure para cada abonado, el consumo o vertido realizado, el tipo aplicado y la cuota resultante, así como en su caso, la condición de sujetos exentos. Dicha información deberá remitirse en el mes de marzo de cada año con respecto al ejercicio previo utilizando el modelo oficial aprobado a tal efecto. El incumplimiento de la obligación de suministro de información constituirá infracción en los términos que establece la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifica por el art. 50.6 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica por el art. 5.6 de la Ley autonómica 13//2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se modifica por el art. 7.4 de la Ley autonómica14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se modifica por el art. 6.12 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Artículo 20
+
+Artículo 20. Régimen jurídico.
+La gestión, inspección y recaudación del canon de saneamiento se efectuarán con arreglo a lo dispuesto en esta Ley, en sus normas de desarrollo, en la Ley General Tributaria, y en la restante normativa del Principado de Asturias en materia de gestión, inspección y recaudación de sus ingresos de Derecho Público.
+Se modifica por el art. 6.13 de la Ley autonómica 4/2000, de 30 de diciembre.Ref. BOE-A-2001-3992.
+
+### Artículo 21
+
+Artículo 21. Infracciones y sanciones.
+1. Las infracciones tributarias serán calificadas y sancionadas de acuerdo con lo dispuesto en la Ley general tributaria y demás disposiciones complementarias o concordantes, que regulan la potestad sancionadora de la Administración Pública en materia tributaria.
+2. En particular, la falta de instalación de dispositivos de aforamiento continuo del caudal para el cálculo de la base imponible, en los supuestos que sea exigido de acuerdo con esta Ley o su normativa de desarrollo, constituirá infracción simple sancionable con multa de 300 a 1.800 euros.
+Se modifica por el art. 7.5 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+
+## TÍTULO III
+
+Junta de Saneamiento
+
+### Artículo 22
+
+Artículo 22. Creación.
+Se crea la Junta de Saneamiento como organismo autónomo adscrito a la Consejería competente en la materia, con personalidad jurídica propia e independiente, plena capacidad de obrar, patrimonio propio y autonomía funcional para el cumplimiento de las funciones que la presente Ley le asigna.
+
+### Artículo 23
+
+Artículo 23. Régimen jurídico.
+La Junta de Saneamiento se rige, en cuanto a su organización y funcionamiento, por lo dispuesto en la presente Ley y, supletoriamente, en las restantes leyes del Principado de Asturias que le sean de aplicación y en la legislación reguladora del régimen de entidades estatales autónomas.
+
+### Artículo 24
+
+Artículo 24. Funciones.
+Corresponde a la Junta de Saneamiento el ejercicio de las siguientes funciones en el marco de las competencias de la Comunidad Autónoma:
+a) La promoción, orientación, coordinación e información de las actuaciones concernientes a la planificación, ejecución y explotación de las infraestructuras de aguas residuales, estaciones depuradoras y emisarios submarinos, así como de los sistemas de reutilización de las aguas depuradas.
+b) (Derogado).
+c) La distribución de los ingresos procedentes del impuesto, fijando las asignaciones que correspondan a las entidades responsables de la explotación y mantenimiento de las estaciones de depuración de aguas residuales.
+d) El establecimiento de los objetivos de calidad de los efluentes de cada una de las estaciones depuradoras de aguas residuales, así como de los beneficios económicos a otorgar a las entidades responsables de su gestión en función del logro de tales objetivos.
+e) Informar preceptivamente, antes de su aprobación por el Consejo de Gobierno, los planes directores de obras en lo referente a obras de depuración.
+f) Elaborar el anteproyecto de presupuesto anual del organismo.
+Se deroga el apartado b) y se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establecen respectivamente las disposiciones derogatoria única y adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera.
+
+### Artículo 25
+
+Artículo 25. Estructura.
+La Junta de Saneamiento se estructura en los siguientes órganos de administración y gobierno:
+a) El Consejo de Administración.
+b) El Director.
+
+### Artículo 26
+
+Artículo 26. Consejo de Administración.
+1. El Consejo de Administración se compondrá de los siguientes miembros:
+Presidente: El Consejero titular de la Consejería competente en la materia de abastecimiento y saneamiento o persona en quien delegue.
+Vocales: Un representante de las Consejerías de Hacienda, Economía y Planificación; de Medio Rural y Pesca y de Medio Ambiente y Urbanismo, designados por los respectivos titulares de las mismas.
+Dos representantes de los concejos y uno de las entidades asociativas de éstos prestadoras de servicios de abastecimiento y saneamiento.
+Secretario: Un funcionario de la Consejería competente en la materia designado por el titular de la misma. El Secretario actuará con voz y sin voto y le corresponderá levantar acta de las reuniones del Consejo, expedir certificaciones de los acuerdos que se adopten y conservar los libros oficiales.
+Cuando el orden del día de la reunión del Consejo de Administración incluya la consideración específica de asuntos que afecten a un concejo, se convocará al Alcalde correspondiente. El Alcalde, acompañado de la persona que designe podrá asistir solamente a la deliberación del asunto para el que haya sido convocado y tomar parte en la misma con voz pero sin voto.
+2. Corresponde al Consejo de Administración:
+a) Proponer los planes de actuación del organismo.
+b) Elevar, por medio del titular de la Consejería competente en la materia de abastecimiento y saneamiento, el anteproyecto de presupuestos del organismo.
+c) Informar los planes directores de obras en lo referente a obras de depuración.
+d) Distribuir los ingresos provenientes de la exacción del impuesto sobre las afecciones ambientales del uso del agua, fijando las asignaciones a abonar a las entidades responsables de la ejecución de las obras o de la prestación de los servicios. La atribución de recursos se podrá hacer por autocompensación cuando la entidad que realice la obra o preste el servicio sea aquella que actúe como recaudadora del impuesto. En todo caso, el Consejo de Administración podrá comprobar si la inversión de las cantidades asignadas se destina a los fines previstos.
+e) Conocer e informar la memoria anual del organismo.
+f) Todas aquellas funciones necesarias para el cumplimiento de los fines del organismo no atribuidas expresamente a otros órganos.
+3. El régimen de funcionamiento del Consejo de Administración se determinará reglamentariamente, estándose, en su defecto, a lo determinado en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. El Consejo de Administración contará con la asistencia de una Comisión de participación que informará sobre los asuntos que aquél le someta y, en particular, sobre el anteproyecto de presupuesto anual del organismo, distribución del impuesto sobre las afecciones ambientales del uso del agua y programa anual de actuación. La composición y funcionamiento de la Comisión de participación se determinará reglamentariamente y en ella deberán estar representados, además del Principado de Asturias, los Ayuntamientos y los agentes sociales y económicos.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+### Artículo 27
+
+Artículo 27. Director.
+1. El Director de la Junta de Saneamiento será nombrado y separado libremente por el Consejo de Administración del organismo.
+2. Corresponde al Director:
+a) Dirigir el funcionamiento del organismo bajo las directrices del Consejo de Administración y ejecutar los acuerdos adoptados por éste.
+b) Ejercer la jefatura del personal del organismo.
+c) Preparar y presentar al Consejo de Administración las propuestas correspondientes sobre los asuntos que a éste corresponda decidir o pronunciarse.
+d) Cualesquiera otras funciones que el Consejo de Administración le encomiende o le delegue.
+
+### Artículo 28
+
+Artículo 28. Servicios administrativos.
+Para el desarrollo de sus funciones la Junta de Saneamiento contará con la estructura administrativa suficiente, a cuyo efecto por el Consejo de Administración se elaborará el proyecto de plantilla y la relación de puestos de trabajo correspondiente para su aprobación por los órganos competentes de la Administración del Principado.
+
+### Artículo 29
+
+Artículo 29. Patrimonio e ingresos.
+La Junta de Saneamiento gozará de patrimonio propio afecto al cumplimiento de sus fines y se nutrirá de los siguientes bienes e ingresos:
+a) Bienes y derechos que le sean afectados por la Comunidad Autónoma.
+b) Ingresos procedentes de la exacción del impuesto sobre las afecciones ambientales del uso del agua.
+c) Aportaciones del Principado a través de los créditos consignados en sus presupuestos, así como transferencias de cualesquiera otros organismos públicos.
+d) Recursos procedentes de donaciones o cualesquiera otras aportaciones voluntarias de entidades públicas o privadas o de particulares.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+A los concejos y demás entidades públicas que presten el servicio de depuración de aguas residuales en la forma y bajo las condiciones que reglamentariamente apruebe el Consejo de Gobierno se les pagará por los costes de explotación, mantenimiento y conservación que soporten, y por los de inversiones en los casos a que hace referencia el artículo 10.3.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Principado de Asturias podrá establecer acuerdos con la Confederación Hidrográfica del Norte para adecuar la aplicación del canon de vertido regulado en la Ley 29/1985, de 2 de agosto, de Aguas, en los ámbitos que pudieran verse afectados por el régimen económico financiero establecidos en esta Ley, a fin de evitar la duplicidad impositiva.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Se compensará a los concejos que hayan realizado obras de depuración de aguas residuales a las que se afecta el impuesto regulado por la presente Ley siempre que cumplan los siguientes requisitos:
+a) Haber sido iniciadas al amparo de convenios de saneamiento suscritos por el Principado de Asturias o que correspondan a sistemas generales de saneamiento.
+b) Haber estado en ejecución a la entrada en vigor de esta Ley o haberse iniciado en el período comprendido entre dicha entrada en vigor y el 31 de diciembre de 2000.
+c) Haber sido financiadas por los respectivos concejos con cargo a aquellos créditos de sus presupuestos que no tuvieran su origen en transferencias percibidas con idéntico fin. A efectos de determinación del importe del pago no se considerarán las posibles devaluaciones o amortizaciones en las instalaciones originadas por el transcurso del tiempo.
+2. Las compensaciones se harán efectivas por la Junta de Saneamiento con cargo a los ingresos procedentes del impuesto sobre las afecciones ambientales del uso del agua en un periodo máximo de quince años. Dichas compensaciones podrán ser revisadas, en concepto de aplazamiento de pago, de acuerdo con el índice de precios al consumo.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera.
+ Se modifica por el art. 2 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La Administración del Principado promoverá que el uso por las entidades públicas de la alimentación de fuentes ornamentales, bocas de riego y extinción de incendios, así como el riego de parques, jardines y zonas verdes de instalaciones deportivas tenga lugar con agua reutilizada, tras el correspondiente proceso de depuración.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+La Administración del Principado de Asturias extremará las medidas de control para evitar la realización de vertidos en las redes de saneamiento que pudieran interferir en la depuración posterior de las aguas residuales.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210.
+ Se modifica por el art. 6.14 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+ Se añade por el art. 6 de la Ley autonómica 18/1999, de 31 de diciembre. Ref. BOE-A-2000-3764.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley autonómica 18/1999, de 31 de diciembre. Ref. BOE-A-2000-3764.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El tipo de gravamen aplicable para la exacción del impuesto sobre las afecciones ambientales del uso del agua en el presente ejercicio será el siguiente:
+Usos domésticos, 30 pesetas/metro cúbico, consumido o equivalente estimado.
+Usos industriales, 36 pesetas/metro cúbico, consumido y equivalente estimado.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las tarifas de cualesquiera tributos establecidos genéricamente por las entidades locales radicadas en el territorio del Principado de Asturias sobre los servicios de saneamiento deberán ser revisadas a la fecha de aplicación del impuesto para suprimir, en su caso, la incidencia que sobre las mismas pudiera tener la prestación del servicio de depuración, cuya compensación será efectuada en la forma determinada en la disposición adicional primera de la presente Ley.
+Se sustituye la referencia al "canon de saneamiento" por "impuesto sobre las afecciones ambientales del uso del agua" según establece la disposición adicional 1 de la Ley 1/2014, de 14 de abril. Ref. BOE-A-2014-6210#daprimera
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Los planes y programas de infraestructuras hidráulicas a que hace referencia la presente Ley tomarán como uno de sus objetivos el cumplimiento antes del año 2005 de las exigencias en materia de tratamiento de aguas residuales urbanas contenidas en la directiva 91/271/CEE.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+El Gobierno del Principado analizará la conveniencia de instalar generadores de ozono en los sistemas de tratamiento de agua de consumo de los que sea titular.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica por el art. 9.2 de la Ley autonómica 7/2005, de 29 de diciembre. Ref. BOE-A-2006-6252.
+ Se modifica por el art. 12.2 de la Ley autonómica 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
+ Se modifica por el art. 21.2 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+ Se modifica por el art. 20.2 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
+ Se modifica por el art. 7.6 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se modifica por el art. 6.15 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Industrias que tributen por la modalidad de carga contaminante.
+1. Las industrias con resolución de carga contaminante en vigor a fecha 31 de diciembre de 2010 deberán aportar la información necesaria para la determinación de los tipos de gravamen según modelo aprobado a tal efecto, en el plazo de tres meses desde el 1 de enero de 2011.
+En el supuesto de inactividad de la industria, el plazo de tres meses se contará a partir del momento en que la actividad se reinicie.
+2. En tanto en cuanto no se dicte resolución de carga contaminante por la que se establezca el tipo de gravamen aplicable, para determinar la cuota variable se aplicarán los tipos vigentes a 31 de diciembre de 2010, teniendo las cuotas ingresadas el carácter de entregas a cuenta.
+Una vez dictada la resolución de carga contaminante, el contribuyente deberá ingresar la diferencia entre las entregas a cuenta y las cuotas correspondientes a la aplicación de los tipos de gravamen definitivos, junto con la autoliquidación correspondiente al trimestre en que se dicte la correspondiente resolución.
+Se añade por el art. 5.7 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de Gobierno del Principado de Asturias para aprobar por Decreto las disposiciones reglamentarias que se juzguen necesarias para el desarrollo y aplicación de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+A través de la ley de presupuestos generales del Principado de Asturias de cada ejercicio podrán modificarse las cuantías correspondientes a consumos mínimos y los tipos de gravamen establecidos en los artículos 16 séptimo y 17 de la presente Ley.
+Se modifica por el art. 6.19 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+## ANEXO I
+
+Dispositivo de abastecimiento de agua a la zona central de Asturias con base en los embalses de Tanes y Rioseco.
+Dispositivo de aprovechamiento y conducción de las aguas de los manantiales de la sierra del Aramo y del embalse de los Alfilorios.
+Conducción de los manantiales de la «Fuentona de los Arrudos» y «Perancho».
+Conducción a La Lleda, estación de bombeo e impulsión del río Magdalena y estación depuradora de La Lleda.
+Dispositivo de aprovechamiento del río Aller y estación depuradora de Levinco.
+
+## ANEXO II
+
+Grandes colectores de cuenca, estaciones depuradoras y vertido final de las aguas residuales de la cuenca del Nalón entre Pola de Laviana y Trubia.
+Grandes colectores de cuenca, estaciones de tratamiento y vertido final de las aguas residuales de las cuencas de los ríos Nora y Noreña, desde Lieres a Llanera, englobando Pola de Siero, Noreña, El Berrón, Colloto, Oviedo, Lugones, Silvota y Posada de Llanera.
+Grandes colectores de cuenca, estaciones, depuradoras y vertido final de las aguas residuales de la cuenca de la ría de Avilés y de las cuencas próximas trasvasables.
+Grandes colectores de cuenca, bombeos a dichos colectores, estaciones depuradoras y vertidos finales de las aguas residuales de la comarca de Gijón.
+
+## ANEXO III
+
+Q = [37500 . P/ (h + 20)]
+Donde:
+"Q", es el consumo mensual facturable en metros cúbicos.
+"P", es la potencia nominal del grupo o grupos de elevadores expresada en Kilovatios.
+"h", es la profundidad dinámica media del acuífero en la zona considerada, expresada en metros.
+Se añade por el art. 6.16 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+## ANEXO IV
+
+V = I / M
+Donde:
+"V", es el volumen de agua estimado, expresado en metros cúbicos.
+"I", es el importe satisfecho como precio del agua, expresado en pesetas.
+"M", es el precio medio ponderado según las tarifas vigentes del agua suministrada por la entidad en las provisiones medidas por contadores en el concejo, y correspondiente al mismo tipo de uso, expresado en pesetas por metro cúbico.
+Se añade por el art. 6.17 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+## ANEXO V
+
+1. El tipo de gravamen a que se refiere el apartado b.3), letra b), punto 3, artículo 17 de esta ley, será el que resulte de aplicar la siguiente fórmula:
+T = a + (b.SS) + (c.DQO) + (d.NTK) + (e.Pt) + (f.Cond) + (g.∆t) + (h.MP) + (i.Ecotox)
+donde:
+''T'' es el tipo de gravamen expresado en €/m3.
+''SS'', la concentración media del vertido en sólidos en suspensión, expresada en kg/ m3.
+''DQO'', la concentración media del vertido en demanda química de oxígeno, expresada en kg/ m3.
+''NTK'', la concentración media del vertido en nitrógeno total kjeldhal, expresada en kg/m3.
+''Pt'', la concentración media del vertido en fósforo total, expresada en kg/ m3.
+''Cond'', la conductividad media del vertido a 20 ºC, expresada en S/cm.
+''∆t'', el incremento de temperatura medio del vertido, expresado en ºC.
+''MP'' la concentración de metales pesados del vertido, expresada en Unidades de Metales Pesados (UMP), calculadas según la fórmula:
+UMP = 100.Cd + 2.Cu + 6. Ni + 3.Pb +1.Zn +120 Hg+ 2Cr
+donde:
+''Cd'': concentración media del vertido en cadmio, expresada en mg/l.
+''Cu'': concentración media del vertido en cobre, expresada en mg/l.
+''Ni'': concentración media del vertido en níquel, expresada en mg/l.
+''Pb'': concentración media del vertido en plomo, expresada en mg/l.
+''Zn'': concentración media del vertido en zinc, expresada en mg/l.
+''Hg'': concentración media del vertido en mercurio, expresada en mg/l.
+''Cr'': concentración media del vertido en cromo, expresa a en mg/l.
+''Ecotox'' la ecotoxicidad media del vertido según el método fotobacterium expresada en equitox.
+''a'', el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido en función del medio receptor del mismo. El coeficiente ''a'' tomará los siguientes valores:
+''asps'' En caso de vertidos al sistema público de saneamiento: 0,12 €/m3.
+''adph'' En caso de vertido al Dominio Público Hidráulico: 0,04 €/m3.
+En caso de vertido al Dominio Público Marítimo Terrestre:
+''amtr'' en aguas de transición: 0,04 €/m3.
+''amco'' en aguas costeras: 0,02 €/m3.
+''b'', el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,4673 €/kg.
+''c'', el coeficiente que indica el precio por unidad de contaminación en DQO. Su valor es de 0,4154 €/kg.
+''d'', el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 2,3814 €/kg.
+''e'', el coeficiente que indica el precio por unidad de contaminación en Pt. Su valor es de 4,3416 €/kg.
+''f'', el coeficiente que indica el precio por unidad de contaminación en Cond. Su valor es de 0,5247 €/(S/cm.) m3.
+''g'', el coeficiente que indica el precio por unidad de contaminación en ∆t. Su valor es de 0,0040 € /ºC m3.
+''h'', el coeficiente que indica el precio por unidad de contaminación en MP. Su valor 0,0239 €/UMP. m3.
+''i'', el coeficiente que indica el precio por unidad de contaminación en Ecotox. Su valor es de 0,0072 €/equitox. m3.
+2. En la determinación de la carga contaminante por incremento de temperatura ''g.∆t'' deberán aplicarse los siguientes criterios:
+a) En el caso de vertidos a sistemas públicos de saneamiento el incremento de temperatura ''∆t'' corresponderá a la temperatura del vertido menos veinte grados centígrados, no pudiendo tomar nunca valores negativos.
+b) En el caso de vertidos al medio, el valor del incremento de temperatura ''∆t'' corresponderá al aumento de temperatura de las aguas receptoras tras la zona de dispersión, no pudiendo tomar nunca valores negativos.
+3. En la determinación de la carga contaminante por conductividad ''f.Cond'' deberán aplicarse los siguientes criterios:
+a) En el caso de vertidos a las aguas costeras, no se aplicará el término de la conductividad, es decir, el coeficiente ''f'' tomará valor cero.
+b) En el caso de vertidos a colectores o emisarios públicos que conduzcan las aguas residuales industriales a un vertido final en aguas costeras, sin que sean tratadas en una estación depuradora de aguas residuales pública, no se aplicará el término de la conductividad, es decir, el coeficiente ''f'' tomará valor cero.
+c) Sin perjuicio de lo establecido en las letras a) y b) anteriores, en el caso de aguas que no se viertan al sistema público de saneamiento y procedan de una captación propia, el valor de la conductividad que se introducirá en la fórmula para la determinación del tipo de gravamen ''Cond'' será el del incremento de conductividad de las aguas vertidas respecto de las captadas. La cifra resultante no podrá en ningún caso tomar valores negativos.
+4. La cuantificación de SS, DQO, NTK, Pt, Cond, ∆t, MP y Ecotox se realizará mediante el análisis de muestras, en la misma forma y procedimiento establecidos en el apartado 1 del artículo 16 quinto de esta Ley. La resolución que deba dictarse incluirá la cuantificación de los conceptos mencionados.
+En el caso de que el contribuyente disponga de sistemas propios de depuración de aguas residuales, la medición de los parámetros descritos en la fórmula se realizará para el efluente de la instalación de depuración.
+En los supuestos contemplados en el artículo 16 sexto de la presente Ley, Estimación objetiva de la carga contaminante, el tipo tributario se establecerá por aplicación de los valores establecidos en este anexo a los estimados en concepto de SS, DQO, NTK, Pt, Cond, ∆t, MP y Ecotox por grupos de actividad, establecimientos similares o datos que consten en las autorizaciones de vertidos, en la forma y cuantía que reglamentariamente se establezcan.
+5. El tipo de gravamen aplicable a los vertidos efectuados al mar abierto a través de un emisario submarino de titularidad de uso de la industria vertiente (Tes), será el resultado de multiplicar el tipo de gravamen que resulte de la fórmula polinómica descrita en el presente anexo (T) por un coeficiente reductor Kes, cuyo valor dependerá de la distancia entre la costa y el lugar en que se produzca en vertido.
+Es decir:
+Tes = Kes × T
+Siendo:
+Parámetro
+ Coeficiente
+ Distancia a la costa
+ Kes
+ 1
+ Hasta 500 m.
+ 0,6
+ Entre 501 y 800 m.
+ 0,3
+ Entre 801 y 1.200 m.
+ 0,15
+ Más de 1.200 m.
+Para la aplicación del coeficiente reductor, el vertido al mar deberá contar con autorización en vigor, siendo el titular de la misma la industria a la que se aplica la reducción y se realizará únicamente a través de un emisario submarino que cumpla lo dispuesto en la Orden de 13 de julio de 1993, del Ministerio de Obras Públicas y Transportes, por la que se aprueba la Instrucción para el proyecto de conducciones de vertidos desde tierra al mar. Asimismo, los resultados del Programa de Vigilancia y Control del Vertido deberán indicar una buena conservación estructural del emisario y un funcionamiento acorde con su dimensionamiento.
+Se modifica por el art. 5.8 de la Ley autonómica 13/2010, de 28 de diciembre. Ref. BOE-A-2011-4296.
+ Se modifica por el art. 8.2 de la Ley autonómica 5/2010, de 9 de julio. Ref. BOE-A-2010-14629.
+ Se modifica por el art. 4.2 de la Ley autonómica 4/2009, de 29 de diciembre. Ref. BOE-A-2010-3375.
+ Se modifica por el art. 12.3 de la Ley autonómica 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+ Se modifica por el art. 10.2 de la Ley autonómica 3/2008, de 13 de junio. Ref. BOE-A-2008-13590.
+ Se modifica por el art. 11.2 de la Ley autonómica 11/2006, de 27 de diciembre. Ref. BOE-A-2007-5591.
+ Se modifica por el art. 9.3 de la ley autonómica 7/2005, de 29 de diciembre. Ref. BOE-A-2006-6252.
+ Se modifica por el art. 12.3 de la Ley autonómica 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
+ Se modifica por el art. 21.3 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+ Se modifica por el art. 20.3 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
+ Se modifica por el art. 7.7 de la ley autonómica14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+ Se añade por el art. 6.18 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y autoridades que la guarden y la hagan guardar.
+Oviedo, 21 de febrero de 1994.
+ANTONIO TREVÍN LOMBÁN,
+Presidente del Principado.

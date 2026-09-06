@@ -1,0 +1,287 @@
+# Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León.
+
+- Identificador BOE: `BOE-A-2002-9245`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-9245
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+El artículo 24 del Estatuto de Autonomía de Castilla y León, a partir de la reforma producida por la Ley Orgánica 4/1999, de 8 de enero, prevé el Consejo Consultivo como el superior órgano consultivo de la Comunidad Autónoma, estableciendo que una Ley de las Cortes regulará su composición y competencias.
+A cumplir estas previsiones, y hacer posible la puesta en funcionamiento de este órgano consultivo, se dirigen las previsiones de la presente Ley.
+Su título I define la naturaleza del Consejo Consultivo, el marco jurídico y fundamento del ejercicio de sus funciones, así como los criterios generales de su actuación.
+El título II regula las competencias del Consejo Consultivo, distinguiendo y detallando los supuestos en que deberá ser consultado preceptivamente por la Administración, el régimen de las consultas facultativas, y el particular de las consultas de las Corporaciones locales.
+El título III establece la organización y funcionamiento del Consejo, el Estatuto y funciones de sus distintos órganos, la previsión de sus medios personales y materiales, así como la regulación marco del instrumento en que se materializa la función consultiva, esto es, los dictámenes del Consejo Consultivo.
+
+## TÍTULO I
+
+Naturaleza, régimen jurídico y criterios generales de actuación
+
+### Artículo 1
+
+Artículo 1. Naturaleza.
+1. El Consejo Consultivo de Castilla y León es el superior órgano consultivo de la Comunidad Autónoma de Castilla y León.
+2. El Consejo Consultivo ejerce sus funciones con autonomía orgánica y funcional con el fin de garantizar la objetividad e independencia de las mismas.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. El Consejo Consultivo velará, en el ejercicio de sus funciones, por la observancia de la Constitución, del Estatuto de Autonomía de Castilla y León y de todo el ordenamiento jurídico. Sus dictámenes se fundamentarán en derecho, sin que puedan extenderse a valoraciones de oportunidad o conveniencia, salvo que así le sea expresamente solicitado por la autoridad consultante.
+2. El Consejo Consultivo podrá elaborar, a solicitud de la Junta de Castilla y León, los estudios, informes, propuestas o dictámenes sobre asuntos relacionados con el cumplimiento y desarrollo del Estatuto de Autonomía. Igualmente la Junta de Castilla y León le podrá encomendar la elaboración de propuestas legislativas para lo que atenderá a los objetivos, criterios y límites señalados por ésta. Así mismo, el Consejo podrá realizar los estudios, informes o memorias que juzgue oportuno para el mejor desempeño de sus funciones.
+Se modifica el apartado 2 por el art. 4.1 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifica por el art. 2.1 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Artículo 3
+
+Artículo 3. Criterios generales de actuación.
+1. La consulta al Consejo Consultivo será preceptiva cuando así se establezca en las leyes, y facultativa en los demás casos.
+2. Los dictámenes del Consejo Consultivo no son vinculantes, salvo en los casos que así se establezca en las respectivas leyes.
+3. Los asuntos dictaminados por el Consejo Consultivo no podrán ser remitidos para su informe posterior a ningún otro órgano o institución de la Comunidad Autónoma.
+
+## TÍTULO II
+
+Competencias
+
+### Artículo 4
+
+Artículo 4. Consultas preceptivas.
+1. El Consejo Consultivo deberá ser consultado por la Administración en los siguientes asuntos:
+a) Anteproyectos de reforma del Estatuto de Autonomía elaborados por la Junta de Castilla y León y las proposiciones de reforma estatutaria que afecten a la protección y desarrollo de los derechos y deberes de los castellanos y leoneses con carácter previo a su toma en consideración.
+b) Proyectos de legislación delegada.
+c) Anteproyectos de ley, excepto los anteproyectos de ley de presupuestos anuales de la Comunidad de Castilla y León.
+d) Proyectos de reglamentos o disposiciones de carácter general que se dicten en ejecución de las leyes, así como sus modificaciones, excepto aquellos que sean de carácter meramente organizativo.
+e) Recursos de inconstitucionalidad y conflictos de competencia con carácter previo a su interposición por la Junta de Castilla y León, sin que sea preciso esperar a la emisión del informe para acudir ante el Tribunal Constitucional.
+f) Acuerdos de cooperación con otras Comunidades Autónomas que requieran autorización de las Cortes Generales de acuerdo con lo previsto en la Constitución.
+g) Acuerdos de colaboración dirigidos a llevar a cabo acciones de proyección exterior de la Comunidad, previstos en el artículo 67 del Estatuto de Autonomía, cuya firma corresponda al Presidente de la Junta de Castilla y León.
+h) Transacciones judiciales o extrajudiciales sobre los derechos de contenido económico de la Junta de Castilla y León cuya cuantía exceda de 500.000 €, así como el sometimiento a arbitraje de las cuestiones que se susciten respecto a los mismos.
+i) Expedientes tramitados por la Administración de la Comunidad de Castilla y León y por las Administraciones Locales que versen sobre las siguientes materias:
+1.º Reclamaciones de responsabilidad patrimonial cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 6.000 € en el ámbito de la Administración autonómica y 3.000 € en el ámbito de otras administraciones públicas.
+2.º Revisión de oficio de los actos administrativos y recursos extraordinarios de revisión.
+3.º Aprobación de pliegos de cláusulas administrativas generales, interpretación, nulidad y resolución de los contratos administrativos, y modificaciones de los mismos, en los supuestos establecidos por la legislación reguladora de los contratos del sector público.
+4.º Interpretación, nulidad y extinción de concesiones administrativas cuando se formule oposición por parte del concesionario y, en todo caso, cuando así lo dispongan las normas aplicables.
+5.º Creación o supresión de municipios, así como la alteración de los términos municipales y en los demás supuestos previstos en la legislación sobre régimen local.
+6.º Modificación de los planes urbanísticos cuando tengan por objeto una diferente zonificación o uso urbanístico de las zonas verdes o de los espacios libres previstos.
+j) En todos los demás casos en que por precepto expreso de una ley se establezca la obligación de consulta.
+2. Las consultas preceptivas a que se refiere el apartado anterior serán recabadas por el Presidente de la Junta de Castilla y León, el Consejero competente por razón de la materia o por el órgano correspondiente de las Entidades Locales.
+Se modifican las letras c) y d) del apartado 1 por el art. 7 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+ Se modifica por el art. 4.2 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifica el supuesto 1 del apartado 1 h) por el art. 2.2 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+ Se deroga el supuesto 5 del apartado 1 h) por la disposición derogatoria.d) de la Ley 4/2008, de 15 de septiembre. Ref. BOE-A-2008-16156.
+
+### Artículo 5
+
+Artículo 5. Consultas facultativas.
+1. El Presidente de la Junta de Castilla y León y la Presidencia de las Cortes de Castilla y León podrán recabar el dictamen del Consejo Consultivo en aquellos asuntos o expedientes no incluidos en el artículo anterior que por su especial trascendencia o repercusión lo requieran.
+Especialmente podrá ser consultado, cuando las Cortes de Castilla y León lo consideren oportuno, sobre las proposiciones de reforma del Estatuto de Autonomía.
+2. Salvo los supuestos expresamente previstos en esta ley, no podrá ser objeto de consulta ningún asunto que estuviera en tramitación en las Cortes de Castilla y León, salvo por acuerdo unánime de la Mesa de las Cortes oída la Junta de Portavoces.
+3. Podrán igualmente solicitar dictámenes los Rectores de las Universidades Públicas de Castilla y León en asuntos con especial trascendencia para las mismas apreciada por el propio Consejo.
+Se modifica por el art. 4.3 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 6
+
+Artículo 6. Consultas facultativas de las Corporaciones Locales.
+Las Corporaciones Locales de Castilla y León podrán formular directamente consulta facultativa al Consejo Consultivo, cuando así lo acuerde el pleno de las Corporaciones Locales en aquellos asuntos o expedientes que por su especial trascendencia o repercusión, apreciada por el Consejo, lo requieran.
+Se modifica por el art. 4.4 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+## TÍTULO III
+
+Organización y funcionamiento
+
+### Artículo 7
+
+Artículo 7. Composición.
+1. El Consejo Consultivo está compuesto por Consejeros electivos y natos.
+2. Los Consejeros electivos serán tres y se designarán por las Cortes de Castilla y León en votación conjunta de los candidatos que corresponda presentar a los Grupos Parlamentarios en proporción al número de Procuradores integrado en cada uno de ellos. Los candidatos se entenderán designados si alcanzan el voto favorable de los tres quintos de la Cámara en primera votación o de la mayoría absoluta en segunda votación, si fuere necesaria.
+3. Los Consejeros electivos del Consejo Consultivo deberán ser licenciados en Derecho con más de diez años de dedicación a función o actividad profesional de contenido jurídico, y gozar de la condición de ciudadano de Castilla y León. Excepcionalmente, el Reglamento Orgánico podrá contemplar la posibilidad de acceso a la condición de Consejero de otros titulados superiores que, aun no siendo licenciados en Derecho, acrediten una reconocida competencia en relación con las funciones del Consejo.
+4. Son Consejeros natos del Consejo Consultivo los ex Presidentes de la Junta de Castilla y León que, habiendo accedido a dicha responsabilidad al comienzo de una legislatura autonómica, gocen de la condición de ciudadanos de Castilla y León.
+El plazo para su incorporación al Consejo será de un año desde la fecha del cese como Presidente de la Junta de Castilla y León. Dentro de ese plazo, deberán notificar su disposición a integrarse en el Consejo y formular la declaración de no estar incursos en causa de incompatibilidad. El plazo de incorporación se interrumpirá, a petición del interesado, en el caso de que éste accediera a un cargo público.
+El mandato de los miembros natos será, con carácter general, ininterrumpido hasta los setenta años.
+Si ostentando la condición de Consejero se accediera a un cargo público, previa comunicación y acreditación de tal circunstancia por parte del interesado, el mandato quedará en suspenso, pudiéndose incorporar en el plazo máximo de tres meses desde la fecha del cese en el cargo público.
+5. Los Consejeros electivos serán nombrados por un periodo de cuatro años desde la fecha de su designación. Finalizado su mandato, y sin perjuicio de su posible reelección, los Consejeros electivos continuarán en el ejercicio de sus funciones hasta que se produzca la designación del Consejero que les sustituya.
+Se modifica el apartado 5 por el art. 4.5 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifican los apartados 2 y 4 por el art. 2.3 y 4 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+ Se deroga el apartado 6 y se modifica el apartado 4 por la disposición derogatoria y la disposición adicional.1 de la Ley 12/2005, de 27 de diciembre. Ref. BOE-A-2006-569#da.
+
+### Artículo 8
+
+Artículo 8. Presidente del Consejo Consultivo.
+1. El Presidente del Consejo Consultivo será nombrado por las Cortes de Castilla y León por mayoría absoluta, a propuesta del Pleno del Consejo de entre sus miembros electivos. En caso de vacante o ausencia del Presidente, ejercerá sus funciones el Consejero electivo más antiguo, y si concurriesen varios de la misma antigüedad, el de mayor edad entre los de dicha condición.
+2. El mandato del Presidente tendrá la misma duración que el de los Consejeros. El Presidente solo podrá ser reelegido para un segundo mandato.
+3. El Presidente perderá su condición por la finalización de su mandato, por renuncia a su cargo de Presidente formulada ante el Presidente de las Cortes de Castilla y León o por la pérdida de la condición de miembro del Consejo. En los dos primeros casos continuará en el ejercicio de sus funciones hasta el nombramiento y toma de posesión del nuevo Presidente.
+La sustitución en el cargo de Presidente, cuando no se produzca como consecuencia de la renovación de los miembros del Consejo, será por el tiempo que reste hasta su renovación. Este periodo de tiempo no se tendrá en cuenta a los efectos del límite previsto en el apartado 2 de este artículo.
+Se modifica por el art. 4.6 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 9
+
+Artículo 9. Funciones del Presidente del Consejo Consultivo.
+Corresponderá al Presidente del Consejo Consultivo:
+a) Ostentar la representación del Consejo.
+b) Autorizar con su firma los dictámenes emitidos por el Consejo.
+c) Presidir, convocar y fijar el orden del día de las sesiones.
+d) Organizar y dirigir los servicios generales del Consejo.
+e) Presentar la memoria anual ante la Comisión correspondiente de las Cortes de Castilla y León.
+f) Aquellas otras funciones que se le atribuyan en la presente ley y en el reglamento de organización y funcionamiento del Consejo.
+Se modifica por el art. 4.7 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 10
+
+Artículo 10. Nombramiento.
+1. El Presidente de las Cortes acreditará con su firma los nombramientos del Presidente y de los Consejeros, que se publicarán en el Boletín Oficial de Castilla y León. Tomarán posesión de sus cargos en un acto con prestación de juramento o promesa.
+2. Los miembros del Consejo Consultivo estarán obligados a asistir a todas las reuniones a las que sean convocados para tomar parte en la deliberación de los asuntos, y a realizar los estudios, ponencias y trabajos que les correspondan por turno de reparto. Deberán guardar secreto de las deliberaciones y actuaciones.
+Se modifica el apartado 1 por el art. 4.8 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 11
+
+Artículo 11. Incompatibilidades y régimen retributivo.
+1. La condición de miembro del Consejo Consultivo de Castilla y León es incompatible, en todo caso, con:
+a) Cualquier cargo político o mandato representativo en el Estado, Comunidades Autónomas, Entes Locales, Unión Europea u Organismos Internacionales o puesto o cargo asimilado en el sector público de cualquiera de dichas instancias.
+b) El ejercicio de funciones directivas o ejecutivas en los partidos políticos, sindicatos o asociaciones empresariales.
+c) El ejercicio, directamente o a través de terceras personas, de cargos en empresas o sociedades dedicadas a actividades que sean objeto de contratación por parte de las Administraciones Públicas o subvencionadas por éstas, concesionarias de las mismas, arrendatarias o administradoras de monopolios o con participación del sector público.
+2. Los miembros del Consejo Consultivo podrán optar entre desempeñar sus funciones en régimen de dedicación exclusiva o parcial, debiendo garantizar en todo caso la plena disponibilidad para cumplir sus deberes con puntualidad y eficacia, así como su imparcialidad e independencia en el cumplimiento de sus funciones públicas.
+El Presidente del Consejo Consultivo de Castilla y León desempeñará su cargo con dedicación exclusiva. Solo podrá desempeñar sus funciones en régimen de dedicación parcial previa autorización del Pleno del Consejo Consultivo.
+3. Los miembros del Consejo Consultivo en régimen de dedicación exclusiva no podrán ejercer, ni por sí mismos ni mediante sustitución, ninguna otra actividad profesional, mercantil, industrial o laboral, pública o privada, por cuenta propia o ajena retribuida mediante sueldo, arancel, honorarios, comisión o de cualquier otra forma, que no sea la administración de su propio patrimonio. No obstante, serán compatibles las actividades de producción y creación literaria, artística, científica, técnica o investigadora, y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente a congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo o de prestación de servicios o supongan un menoscabo del estricto cumplimiento de sus deberes.
+4. El régimen de incompatibilidades de los miembros del Consejo Consultivo con dedicación parcial será el que les corresponda por razón de su otro cargo o actividad, y en todo caso dentro de los límites fijados en el apartado 1 de este artículo.
+5. Los Consejeros electivos que incurran en incompatibilidad apreciada por las Cortes de Castilla y León serán cesados. En el caso de los Consejeros natos, apreciada la incompatibilidad por el Pleno del Consejo Consultivo, ésta llevará aparejada la suspensión de su condición de miembro del mismo hasta que dicha incompatibilidad desaparezca.
+6. El Presidente del Consejo Consultivo que desempeñe sus funciones en régimen de dedicación exclusiva percibirá las retribuciones que se fijen anualmente en la Ley de Presupuestos de la Comunidad de Castilla y León, sin que, en ningún caso, puedan superar las establecidas para el Presidente de la Junta de Castilla y León. En el caso de no ejercer su actividad en régimen de exclusividad, percibirá las dietas e indemnizaciones que en su reglamento de organización y funcionamiento se establezcan, teniendo como límite, en cómputo anual, la tercera parte de las retribuciones fijadas en los Presupuestos de la Comunidad para el desempeño del cargo en régimen de dedicación exclusiva.
+7. Las retribuciones de los Consejeros del Consejo Consultivo en régimen de dedicación exclusiva serán las que se fijen anualmente en la Ley de Presupuestos de la Comunidad de Castilla y León, sin que, en ningún caso, puedan superar las establecidas para los Consejeros de la Junta de Castilla y León. En el caso de no ejercer su actividad en régimen de exclusividad, percibirán las dietas e indemnizaciones que en su reglamento de organización y funcionamiento se establezcan, teniendo como límite, en cómputo anual, la tercera parte de las retribuciones fijadas en los Presupuestos de la Comunidad para el desempeño del cargo de Consejero en régimen de dedicación exclusiva.
+8. Los miembros del Consejo Consultivo deberán abstenerse o podrán ser recusados cuando concurra alguna de las causas previstas en las normas reguladoras del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en todo caso se abstendrán de dictaminar sobre cualquier acto o expediente en que hayan intervenido
+Se modifica por el art. 4.9 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifica el apartado 3 por el art. 2.5 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Artículo 12
+
+Artículo 12. Pérdida de la condición de Consejero.
+1. Los miembros del Consejo Consultivo perderán su condición por las siguientes causas:
+1.º Por fallecimiento.
+2.º Por renuncia.
+3.º Por extinción del mandato al expirar el plazo, sin perjuicio de su posible reelección.
+4.º Por incapacidad declarada por decisión judicial firme.
+5.º Por la pérdida de la condición política de ciudadano de Castilla y León.
+6.º Por inhabilitación para el ejercicio de los derechos políticos declarada por decisión judicial firme.
+7.º Por condena, en sentencia firme, a causa de delito.
+8.º Por incumplimiento de las obligaciones del cargo apreciado por las Cortes de Castilla y León.
+9.º Por incompatibilidad sobrevenida apreciada por las Cortes de Castilla y León en los términos previstos por el artículo anterior.
+2. Si se produjese alguno de los supuestos previstos en los números 1.º a 5.º, ambos inclusive, del apartado anterior, el Presidente del Consejo lo comunicará al Presidente de las Cortes de Castilla y León para que por éste se proceda a la formalización del cese del Consejero y a la puesta en marcha del procedimiento regulado en el apartado 3 de este artículo.
+Corresponde al Pleno del Consejo Consultivo decidir, por mayoría absoluta, el cese de sus miembros en los supuestos previstos en las causas 6.ª y 7.ª del apartado anterior, atendiendo a la gravedad de los hechos y, en su caso, a la naturaleza de la pena impuesta. Una vez comunicada tal decisión al Presidente de las Cortes de Castilla y León, éste procederá a la formalización del cese del Consejero y a la puesta en marcha del procedimiento para su sustitución regulado en el apartado 3 de este artículo.
+La pérdida de la condición de miembro del Consejo por el incumplimiento de las obligaciones del cargo o por incompatibilidad sobrevenida será declarada por el Pleno de las Cortes de Castilla y León, por mayoría de tres quintos, en sesión convocada al efecto, a la que el Consejero afectado podrá asistir y hacer uso de la palabra antes de la votación. La iniciativa para el debate corresponderá al Presidente de las Cortes, a dos Grupos Parlamentarios o a una quinta parte de los Procuradores.
+3. En el caso de producirse vacantes, se cubrirán por el sistema previsto en la presente ley para la elección de Consejeros y por el tiempo de mandato que le quedara al sustituido.
+Se modifican los apartados 2 y 3 por el art. 4.10 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifica el supuesto 9 del apartado 1 por el art. 2.6 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Artículo 13
+
+Artículo 13. Reglamento de organización y funcionamiento.
+El Pleno del Consejo Consultivo elaborará el proyecto de reglamento de organización y funcionamiento del mismo que será aprobado por la Mesa de las Cortes de Castilla y León siempre que se ajuste a lo establecido en la ley.
+Se modifica por el art. 4.11 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 14
+
+Artículo 14. Medios materiales y personales.
+1. El Consejo Consultivo dispondrá de los medios materiales y personales necesarios de acuerdo con las previsiones contenidas al efecto en el Presupuesto de las Cortes de Castilla y León.
+2. Anualmente, el Pleno del Consejo elaborará un anteproyecto de Presupuesto, que será remitido a la Mesa de las Cortes de Castilla y León para su aprobación, si procede, e incorporación a la sección de las Cortes de Castilla y León de los Presupuestos Generales de la Comunidad Autónoma.
+3. La plantilla de personal del Consejo Consultivo será remitida a la Mesa de las Cortes de Castilla y León, para su aprobación, si procede. En la plantilla se determinarán los puestos de trabajo a desempeñar por el personal a su servicio y contendrá los datos exigidos en la legislación de la función pública de la Comunidad de Castilla y León.
+4. El personal al servicio del Consejo Consultivo tendrá la condición de funcionario, laboral o eventual. Al personal funcionario le resultará de aplicación el régimen general de los funcionarios de carrera de la Administración de la Comunidad de Castilla y León. Al personal eventual y laboral le será aplicable dicho régimen jurídico en lo que sea adecuado a su condición.
+5. Los puestos de trabajo del Consejo, reservados a personal funcionario, se cubrirán, preferentemente por concurso, entre funcionarios de los cuerpos o escalas equivalentes de la Administración de Castilla y León o de cualquier otra Administración Pública, Entidad, Institución u Organismo Público.
+6. La convocatoria y resolución de los procedimientos de selección y provisión de puestos de trabajo, así como la extinción de la relación de servicios, corresponderá al Pleno del Consejo.
+7. Los conceptos y cuantías retributivas del personal al servicio del Consejo serán los que se establezcan anualmente para el personal al servicio de la Administración de la Comunidad.
+Se modifica por el art. 4.12 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 15
+
+Artículo 15. Elaboración de los dictámenes.
+Para la confección de las ponencias de dictamen, los Consejeros tendrán el auxilio del personal técnico del Consejo. Los letrados del Consejo desarrollarán las funciones de estudio, preparación y redacción de aquellas que se les encomienden. No obstante, la responsabilidad corresponderá íntegra y exclusivamente a los miembros del Consejo.
+
+### Artículo 16
+
+Artículo 16. Aprobación de los dictámenes.
+1. Los acuerdos del Consejo Consultivo se adoptarán por mayoría absoluta de votos de los asistentes. En caso de empate, decidirá el Presidente con su voto de calidad.
+2. Quienes discrepen del acuerdo mayoritario podrán formular voto particular por escrito que se incorporará al dictamen.
+
+### Artículo 17
+
+Artículo 17. Plazos de los dictámenes.
+1. El Consejo deberá emitir su dictamen en el plazo de veinte días desde la recepción del expediente.
+2. No obstante, el órgano solicitante, podrá instar la reducción de este plazo siempre y cuando justifique la urgencia. La reducción será acordada por el Presidente del Consejo Consultivo, en cuyo caso el plazo no podrá ser inferior a diez días.
+3. En caso de necesidad apreciada por el Presidente del Consejo Consultivo, éste podrá acordar la ampliación del plazo ordinario en veinte días, salvo en los casos en que se haya solicitado la reducción de conformidad con el apartado anterior.
+4. El incumplimiento de los plazos establecidos en los apartados anteriores dará lugar a la exigencia de responsabilidad en los términos que establezca el Reglamento orgánico.
+Se modifica por el art. 4.13 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 18
+
+Artículo 18. Documentación.
+1. A la petición de dictamen deberá acompañarse toda la documentación correspondiente a la cuestión planteada.
+2. Si el Consejo Consultivo estimase incompleto el expediente, podrá solicitar que se complete con cuantos antecedentes e informes estime necesarios. En este supuesto, quedará en suspenso el plazo para la emisión del dictamen hasta la recepción de los documentos solicitados.
+3. El Consejo puede invitar a informar ante él, por escrito u oralmente, a las organizaciones o personas con competencia técnica en las cuestiones relacionadas con los asuntos sometidos a consulta.
+
+### Artículo 19
+
+Artículo 19. Pleno del Consejo.
+1. El Consejo Consultivo de Castilla y León actuará en Pleno y en Secciones.
+2. Corresponde al Pleno emitir dictamen sobre los asuntos comprendidos en los apartados a), b), c) y e) del artículo 4.1 de la presente Ley, y a las Secciones sobre los restantes.
+3. En caso de dictámenes facultativos, la competencia se atribuirá a la Sección correspondiente por razón de la materia. No obstante, cuando la importancia del asunto lo requiera y así lo solicite el órgano consultante, el Presidente del Consejo podrá determinar que el dictamen se emita por el Pleno.
+4. Corresponde igualmente al Pleno la aprobación de la Memoria Anual del Consejo Consultivo.
+Se añade el apartado 4 por el art. 4.14 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 20
+
+Artículo 20. Secciones del Consejo.
+1. El Consejo Consultivo de Castilla y León, salvo para los asuntos que son competencia del Pleno, funcionará a través de Secciones.
+2. El Reglamento Orgánico determinará el número de Secciones, los Consejeros que las integran, y la distribución de los asuntos entre las mismas, procurando la homogeneidad de las materias atribuidas a cada una.
+3. Cada Sección estará presidida por un Consejero con la asistencia de un letrado.
+
+### Artículo 21
+
+Artículo 21. Funciones de secretaría.
+1. Las funciones de secretaría del Pleno y de las Secciones serán ejercidas por quien designe el Presidente, de entre el personal al servicio del Consejo.
+2. Sus funciones son:
+a) Asistir a las reuniones, con voz pero sin voto.
+b) Efectuar la convocatoria de las sesiones por orden del Presidente, así como las citaciones a los miembros.
+c) Recibir los escritos y documentos de los que debe conocer el Pleno o las secciones, así como los actos de comunicación entre este y sus miembros.
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+f) Ordenar y custodiar la documentación del Pleno y las secciones.
+g) Cuantas otras funciones sean inherentes a su condición.
+3. El desempeño de estas funciones no conllevará la percepción de retribuciones, dietas o indemnizaciones.
+Se añade por el art. 4.15 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las disposiciones y resoluciones sobre asuntos en los que sea preceptivo el dictamen del Consejo Consultivo de Castilla y León, expresarán la fórmula «... de acuerdo con el dictamen del Consejo Consultivo de Castilla y León» cuando se dicten conforme al dictamen de aquél, o la fórmula «... oído el Consejo Consultivo de Castilla y León» en caso contrario.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+A los efectos de la presente Ley se considerarán Presidentes de la Comunidad Autónoma aquellos que hubiesen resultado investidos desde la primera legislatura de las Cortes de Castilla y León.
+El plazo de un año para la incorporación al Consejo Consultivo no será de aplicación a quienes hayan ostentado la Presidencia de la Junta de Castilla y León con anterioridad a la entrada en vigor de esta Ley.
+Se modifica por la disposición adicional.2 de la Ley 12/2005, de 27 de diciembre. Ref. BOE-A-2006-569#da.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el plazo máximo de seis meses desde la entrada en vigor de esta Ley, serán designados los Consejeros del Consejo Consultivo de Castilla y León, por el procedimiento y con los requisitos establecidos en la misma.
+
+### Disposición final primera
+
+Disposición final primera.
+En defecto de normas específicas de desarrollo de la presente Ley, y en todo lo que sea compatible con la misma, serán de aplicación al procedimiento de elección por las Cortes de Castilla y León de los Consejeros a los que se refiere el artículo 7.2 las disposiciones procedimentales establecidas en la Ley 7/1987, de 8 de mayo, por la que se regula el procedimiento de designación de Senadores representantes de la Comunidad de Castilla y León.
+Se modifica por el art. 2.7 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Suprimida)
+Se suprime por el art. 4.16 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta Ley entrará en vigor a los veinte días desde su publicación en el «Boletín Oficial de Castilla y León».
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 9 de abril de 2002.
+JUAN VICENTE HERRERA CAMPO,
+Presidente

@@ -1,0 +1,276 @@
+# Ley 1/1996, de 5 de marzo, de regulación de las actividades feriales de Galicia.
+
+- Identificador BOE: `BOE-A-1996-10313`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-10313
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+De conformidad con lo establecido en el artículo 27.16.º del Estatuto de Autonomía para Galicia, corresponde a la Comunidad Autónoma la competencia exclusiva en materia de ferias y mercados interiores.
+En su virtud, y dada la importancia de las actividades feriales como elemento dinamizador de la economía gallega y medio de promoción de sus productos, su evolución a lo largo del tiempo y la necesaria aplicación en el marco de la Unión Europea de los principios de libre concurrencia, libre prestación de servicios y libertad de establecimiento, se hace necesario que la Comunidad Autónoma dicte una nueva normativa en la materia con el fin esencial de alcanzar unos servicios feriales que se correspondan con la demanda existente y al mismo tiempo garantizar la eficacia práctica, en nuestra Comunidad, de aquellos principios.
+La presente Ley, estructurada en seis capítulos, una disposición transitoria, una adicional, una derogatoria y una final, establece el marco normativo para que el conjunto de actividades que constituye su ámbito de aplicación sea conforme a la realidad actual y contribuya de esta forma a la ampliación de los intercambios comerciales mediante el acercamiento entre la oferta y la demanda.
+La Ley define las actividades feriales que se incluyen en su ámbito de aplicación diferenciando entre actividades de carácter oficial, para la condición de las cuales su adquisición está sujeta al cumplimiento de requisitos específicos fijados en la propia Ley, y actividades de carácter privado, respecto de las cuales su realización puede llevarse a cabo por cualquier persona física o jurídica, con la única limitación de la necesaria autorización administrativa previa.
+Asimismo, se fijan las actividades excluidas de su ámbito bien en razón de su carácter tradicional (mercados destinados a las transacciones de ganado, productos agrícolas y pesqueros y otros de uso y consumo corriente), de la naturaleza de los productos objeto de la misma (exposiciones dirigidas a productos culturales, científicos, educacionales y artísticos), del objeto principal de su finalidad (realización de ventas directas con retirada de mercancías durante su celebración) o de su sujeción a la normativa específica (actividades promocionales desarrolladas por establecimientos comerciales).
+Por otro lado, la Ley señala como requisito necesario para la realización de cualquier actividad incluida en su ámbito de aplicación la autorización previa de la Administración, pudiendo establecer ésta, como condición para su concesión, la prestación de una fianza.
+Finalmente, se recoge el Registro Oficial de Actividades Feriales y se regula el régimen sancionador dirigido a garantizar el cumplimiento de las prescripciones legales.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Junta y de su Presidente, promulgo, en nombre del Rey, la Ley de Regulación de las Actividades Feriales de Galicia.
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley tiene por objeto la regulación de las actividades feriales que se celebren en Galicia, con excepción de las que señala el artículo siguiente.
+2. (Derogado)
+Se deroga el apartado 2 por la disposición derogatoria única.c) de la Ley 13/2010, de 17 de diciembre. Ref. BOE-A-2011-1649#ddunica.
+
+### Artículo 2
+
+Artículo 2. Ámbito.
+Quedan excluidas del ámbito de esta Ley:
+a) Las ferias o mercados dedicados fundamentalmente a las transacciones de ganado, productos agrarios y pesqueros y otros de uso o consumo corriente, con independencia de su periodicidad.
+En cualquier caso, los certámenes ganaderos están sometidos a la vigente legislación específica sobre ganadería y sanidad animal.
+b) Las ferias que, con independencia de su periodicidad, se dirijan al público en general y cuyo objeto sea la venta directa con retirada de mercancías durante su celebración.
+c) Las actividades de carácter promocional organizadas por los establecimientos comerciales, con independencia de su duración.
+d) Las exposiciones cuyo objeto sea la exhibición, con o sin venta, de productos de la cultura, la ciencia, la educación y el arte.
+
+## CAPÍTULO II
+
+Concepto y clasificación
+Se modifica por la disposición final 3 de la Ley 13/2010, de 17 de diciembre. Ref. BOE-A-2011-1649#dftercera.
+
+### Artículo 3
+
+Artículo 3. Concepto y clasificación.
+1. Se consideran actividades feriales, a los efectos de la presente ley, las manifestaciones comerciales que tienen por objeto la exposición, difusión y promoción comercial de bienes y/o servicios, fomentar contactos e intercambios comerciales y acercar la oferta de los distintos sectores de la actividad económica a la demanda, siempre que tengan una duración limitada en el tiempo y reúnan a una pluralidad de expositores.
+En virtud de las características de la oferta exhibida, podrá practicarse la venta directa con retirada de mercancía, previa autorización expresa de la dirección general competente en materia de comercio.
+2. Las actividades feriales se clasifican en:
+a) En razón a su periodicidad: en ferias de carácter periódico y exposiciones de carácter no periódico.
+b) En razón a la oferta exhibida: en multisectoriales, aquellas ferias o exposiciones en las que se exhiba una oferta representativa de distintos sectores de la actividad económica, y en monográficas o salones, respecto a las cuales la oferta se refiera a un único sector.
+3. Tanto en las ferias como en las exposiciones pueden admitirse pedidos y perfeccionarse contratos de compraventa.
+Se modifica por la disposición final 3 de la Ley 13/2010, de 17 de diciembre. Ref. BOE-A-2011-1649#dftercera.
+
+## CAPÍTULO III
+
+Actividades feriales oficiales de Galicia
+
+### Artículo 4
+
+Artículo 4. Calificación.
+1. La Junta de Galicia podrá otorgar a las ferias la calificación de oficial.
+2. El otorgamiento de la calificación de oficial exigirá la concurrencia, como mínimo, de las características siguientes:
+a) Que estén organizadas por persona jurídica.
+b) Que se celebren en instalaciones permanentes dotadas de los servicios convenientes para este tipo de actividades.
+c) Que cuenten con un número mínimo de expositores y metros cuadrados de superficie de exposición que reglamentariamente se determine.
+d) Que su ámbito de influencia sea igual o superior al de la Comunidad Autónoma de Galicia.
+e) Que dispongan de un Reglamento de participación de los expositores.
+
+### Artículo 5
+
+Artículo 5. Reglamento de participación.
+El Reglamento de participación de los expositores citado en el artículo 4.º e) de esta Ley tendrá, como mínimo, el siguiente contenido:
+a) Derechos y obligaciones de los expositores.
+b) Criterios que establezcan un orden de prioridad en lo relativo a las solicitudes de participación.
+c) Procedimiento relacionado con las distintas cuestiones que se planteen entre los participantes y regulación de un órgano de carácter arbitral, que será el encargado de dirimir dichas cuestiones.
+
+### Artículo 6
+
+Artículo 6. Comité organizador.
+La organización de ferias oficiales exigirá la constitución de un comité organizador, en el que estará representada la entidad organizadora, la Administración autonómica, el Ayuntamiento en donde haya de celebrarse y la Cámara de Comercio, Industria y Navegación de la correspondiente demarcación.
+
+### Artículo 7
+
+Artículo 7. Presupuestos.
+Las entidades organizadoras de las ferias oficiales presentarán anualmente a la Consejería competente en materia de comercio los respectivos presupuestos y las correspondientes liquidaciones. También presentarán la memoria anual de las actividades realizadas.
+
+### Artículo 8
+
+Artículo 8. Calendario de ferias oficiales.
+La Consejería competente en materia de comercio publicará anualmente el calendario de ferias oficiales de Galicia.
+
+## CAPÍTULO IV
+
+Régimen de comunicación previa de las actividades feriales
+Se modifica por el art. 13.1 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 9
+
+Artículo 9. Comunicación previa en materia de actividades feriales.
+1. La celebración de ferias o exposiciones, excepto las ferias mercado de ámbito exclusivamente local, serán objeto de una comunicación previa a la consejería competente en materia de comercio. Las finalidades de esta comunicación son coordinar las ferias o exposiciones, para su difusión y promoción, y garantizar un correcto desarrollo de las mismas.
+La Administración autonómica ejercerá facultades de coordinación para evitar duplicidades de ferias y exposiciones oficiales.
+2. La celebración de ferias mercado de ámbito territorial de influencia exclusivamente local se comunicará previamente al ayuntamiento en cuyo término municipal pretenda realizarse. Los ayuntamientos habrán de trasladar las comunicaciones recibidas a la consejería competente en materia de comercio para su incorporación al Registro Oficial de Actividades Feriales de Galicia.
+Se modifica por el art. 13.1 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 10
+
+Artículo 10. Presentación de la comunicación.
+1. A los efectos señalados en el artículo anterior, la persona organizadora presentará la comunicación con una antelación mínima de dos meses a la fecha en que pretenda realizar la actividad.
+2. La comunicación de la celebración de ferias se actualizará, en su caso, con periodicidad anual.
+3. Cualquier modificación en las condiciones reflejadas en la comunicación habrá de ser notificada a la consejería competente en materia de comercio.
+Se modifica por el art. 13.1 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 11
+
+Artículo 11. Requisitos.
+Las personas organizadoras de la actividad ferial harán constar en la comunicación previa los datos de su identificación y los siguientes:
+a) La denominación, ámbito territorial, duración, fecha y lugar de celebración.
+b) Los productos a que se dirige y la previsión de participantes.
+c) Las características del espacio físico en que va a desarrollarse la actividad, así como los servicios de que dispone.
+d) La realización o no de venta directa.
+e) Aquellas circunstancias que, en su caso, se determinen reglamentariamente.
+Se modifica por el art. 13.1 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 12
+
+Artículo 12. Obligaciones.
+Son obligaciones de la persona organizadora de la actividad ferial:
+a) Presentar la comunicación previa en los términos previstos en la presente ley y normas que la desarrollen.
+b) Prestar la garantía que, en su caso, establezca la administración.
+c) Celebrar la actividad ferial de conformidad con las condiciones reflejadas en la comunicación previa y lo preceptuado en la presente ley y disposiciones que la desarrollen.
+d) Responsabilizarse del cumplimiento de las prescripciones establecidas en la presente ley y disposiciones que la desarrollen y, en general, de la normativa vigente, así como de la seguridad de las personas, productos, instalaciones industriales y medio ambiente.
+e) Prestar la colaboración que le sea requerida por la consejería competente en materia de comercio o por los ayuntamientos en el ámbito de sus respectivas competencias, al objeto de garantizar el cumplimiento de la presente ley y disposiciones que la desarrollen, así como de las condiciones establecidas en la comunicación efectuada.
+Se modifica por el art. 13.1 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+## CAPÍTULO V
+
+Registro Oficial de Actividades Feriales de Galicia
+Se modifica por el art. 13.2 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 13
+
+Artículo 13. Registro Oficial de Actividades Feriales de Galicia.
+1. La consejería competente en materia de comercio llevará un registro oficial de actividades feriales de Galicia en el que se inscribirán de oficio las actividades feriales comunicadas.
+2. En el registro se harán constar los datos de identificación de las personas organizadoras y de las actividades feriales comunicadas, las condiciones que se especifiquen en las respectivas comunicaciones previas y las posibles sanciones que se impongan por las infracciones previstas en el capítulo VI.
+3. Cualquier modificación de los datos relativos a las actividades feriales inscritas habrá de ser comunicada a la consejería competente en materia de comercio.
+4. Los datos que figuren en el registro tendrán carácter público, de acuerdo con los procedimientos de acceso y difusión que se establezcan reglamentariamente.
+5. Las normas de organización y funcionamiento del registro se establecerán reglamentariamente.
+Se modifica por el art. 13.2 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+## CAPÍTULO VI
+
+Régimen sancionador
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 14
+
+Artículo 14. Infracciones.
+1. Las infracciones a lo dispuesto en la presente ley y disposiciones que la desarrollen serán calificadas como leves, graves y muy graves.
+2. Son infracciones leves:
+a) La falta de comunicación al registro de los datos relativos a las actividades feriales inscritas en el mismo.
+b) Las infracciones a lo establecido en esta ley que no puedan ser calificadas como graves o muy graves.
+3. Son infracciones graves:
+a) La realización de actividades feriales sin la comunicación previa prevista en la presente ley.
+b) La reincidencia en la comisión de infracciones leves en el periodo de un año.
+4. Son infracciones muy graves:
+a) El uso indebido de la denominación «feria oficial» en ferias no reconocidas como tales.
+b) Cualquier infracción a lo establecido en la presente ley cuando de la misma se deriven alteraciones del orden público o un notable perjuicio para el interés general.
+c) La reincidencia en la comisión de infracciones graves en el periodo de dos años.
+5. A efectos de lo dispuesto en los apartados 3.b) y 4.c) de este artículo, se entenderá que existe reincidencia cuando, en el periodo indicado, se cometa más de una infracción de la misma naturaleza y así haya sido declarado por resolución firme.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+## CAPÍTULO V
+
+Registro Oficial de Actividades Feriales
+
+### Artículo 15
+
+Artículo 15. Sanciones.
+1. Las sanciones que se impongan por las infracciones tipificadas en la presente ley serán:
+a) En el caso de infracciones leves, multa de hasta 3.000 euros.
+b) En el caso de infracciones graves, multa de 3.001 hasta 30.000 euros.
+c) En el caso de infracciones muy graves, multa de 30.001 hasta 100.000 euros.
+2. En todo caso, para la graduación de las sanciones se tendrán en cuenta la trascendencia social de la infracción, la intencionalidad a efectos económicos producidos y la reincidencia.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+## CAPÍTULO VI
+
+Régimen sancionador
+
+### Artículo 16
+
+Artículo 16. Prescripción.
+1. Las infracciones previstas en la presente ley prescribirán a los seis meses si son leves, a los dos años si son graves y a los cinco años si son muy graves.
+2. El plazo de prescripción de las infracciones comenzará a contar al día siguiente al de su comisión o a partir de su finalización si se trata de una infracción continuada. El plazo de prescripción se interrumpirá en el momento en que se inicie, con conocimiento de la persona infractora, el procedimiento sancionador, volviendo a iniciarse el cómputo cuando el procedimiento termine sin sanción o se paralice por causa no imputable a la persona infractora.
+3. Las sanciones previstas en la presente ley prescribirán al año si son leves, a los dos años si son graves y a los tres años si son muy graves.
+4. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se imponga la sanción. El plazo se interrumpirá con la iniciación, con conocimiento de la persona infractora, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquel está paralizado durante más de un mes por causa no imputable a ella.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 17
+
+Artículo 17. Procedimiento sancionador.
+1. El procedimiento para la imposición de las sanciones se ajustará a lo establecido en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y normas que la desarrollen.
+2. El órgano competente para la resolución del expediente sancionador, a propuesta de la jefatura territorial competente para la incoación, podrá acordar la suspensión de la realización de una actividad ferial en caso de incumplimiento de las obligaciones y prescripciones de la presente ley y de las disposiciones que la desarrollen.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 18
+
+Artículo 18. Incoación.
+Los órganos con competencias para incoar los procedimientos sancionadores por infracción de lo dispuesto en la presente ley son las jefaturas de los departamentos territoriales de la consejería competente en materia de comercio.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 19
+
+Artículo 19. Órganos competentes.
+Los órganos competentes para imponer las sanciones establecidas en la presente ley serán:
+a) La persona titular del departamento territorial correspondiente, para las derivadas de faltas leves. Cuando la infracción afecte al ámbito territorial de más de un departamento, será competente la persona titular de la dirección general competente en materia de comercio interior.
+b) La persona titular de la consejería competente en materia de comercio interior, para las derivadas de faltas graves.
+c) El Consello de la Xunta, para las derivadas de faltas muy graves.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 20
+
+Artículo 20. Recursos.
+Contra las resoluciones dictadas en cumplimiento de lo establecido en la presente ley podrán interponerse los recursos correspondientes, de conformidad con lo establecido en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+Se modifica por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Artículo 21
+
+Artículo 21. Órganos competentes.
+Los órganos competentes para imponer las sanciones establecidas en esta Ley serán:
+a) El Director general competente para las derivadas de faltas leves.
+b) El Consejero competente en la materia para las derivadas de faltas graves.
+c) El Consejo de la Junta de Galicia para las derivadas de faltas muy graves.
+
+### Artículo 22
+
+Artículo 22. Medidas complementarias.
+El Consejo de la Junta de Galicia podrá acordar el cierre de los establecimientos, instalaciones o servicios en donde se realicen actividades feriales que no cuenten con las autorizaciones preceptivas.
+
+### Artículo 23
+
+Artículo 23. Recursos.
+Contra las resoluciones dictadas en cumplimiento de lo establecido en esta Ley podrán interponerse los recursos correspondientes, de conformidad con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículos 21 a 23
+
+Artículos 21 a 23.
+(Suprimidos)
+Se suprimen por el art. 13.3 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
+
+### Disposición adicional
+
+Disposición adicional.
+Se autoriza al Consejo de la Junta de Galicia para actualizar el importe de las sanciones establecidas en esta Ley.
+
+### Disposición transitoria
+
+Disposición transitoria.
+En el plazo de los seis meses siguientes a la entrada en vigor de esta Ley, las instituciones feriales existentes se adaptarán a las disposiciones de la misma.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados el título IV (De los certámenes feriales) de la Ley 10/1988, de 20 de julio, de Ordenación del Comercio Interior de Galicia; el Decreto 296/1985, de 14 de noviembre, regulador de los certámenes feriales de Galicia, y cuantas otras disposiciones de igual o inferior rango se opongan a esta Ley.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Consejo de la Junta para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta Ley.
+
+Santiago de Compostela, 5 de marzo de 1996.
+MANUEL FRAGA IRIBARNE,
+Presidente

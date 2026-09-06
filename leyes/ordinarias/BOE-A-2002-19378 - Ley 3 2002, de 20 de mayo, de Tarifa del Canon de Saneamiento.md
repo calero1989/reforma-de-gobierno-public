@@ -1,0 +1,935 @@
+# Ley 3/2002, de 20 de mayo, de Tarifa del Canon de Saneamiento.
+
+- Identificador BOE: `BOE-A-2002-19378`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-19378
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 3/2002, de 20 de mayo, de Tarifa del Canon de Saneamiento.
+Por consiguiente, al amparo del artículo 30.dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+PREÁMBULO
+La Ley 3/2000, de 12 de julio, de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia e Implantación del Canon de Saneamiento, establece el canon de saneamiento con naturaleza de ingreso de derecho público de la Hacienda Pública Regional cuya recaudación se destinará exclusivamente a la realización de los fines recogidos en ella y, expresamente, a aquellos relacionados con la financiación de los gastos de gestión, explotación y conservación de las instalaciones públicas de saneamiento y depuración, y, en su caso, también con los de las obras de construcción de dichas infraestructuras que pudieran corresponderle.
+La Ley establece la modalidad de la tarifa, en cuanto a su estructura binomia, con una parte fija y otra parte variable, así como su diferente valor según los usos domésticos o no domésticos del agua consumida.
+Posteriormente, la disposición adicional tercera de la Ley 7/2000, de 29 de diciembre, dispuso que la cuantía de la primeras tarifas del canon de saneamiento, así como la fecha de inicio de su exacción, se establecerían mediante una Ley.
+Esta disposición establece, asimismo, que dicha Ley debe incluir la relación completa de las aglomeraciones urbanas con indicación de aquellas en las que sea de aplicación la bonificación establecida por la disposición adicional cuarta de la Ley 3/2000, de 12 de julio.
+
+### Artículo único
+
+Artículo único.
+Las determinaciones a que se refiere la disposición adicional tercera de la Ley 3/2000, de Saneamiento y Depuración de Aguas residuales de la Región de Murcia, son las siguientes:
+a) Fecha de inicio de la exacción del canon de saneamiento. La fecha de inicio para la exacción del canon de saneamiento será la del 1 de julio de 2002.
+b) Tarifas del Canon de Saneamiento.
+Las tarifas del Canon de Saneamiento serán las siguientes:
+1. Usos Domésticos:
+Cuota de Servicio: 36 euros/abonado/año.
+Cuota de Consumo: 0,30 euros/m3.
+En aquellos casos en que una sola acometida sea utilizada para el suministro de una comunidad de vecinos, agrupación de viviendas, u otros usos colectivos, se aplicará una cuota de servicio por cada abonado y vivienda aplicándose, cuando este extremo no sea conocido, la siguiente tabla para deducir el número equivalente de abonados servidos a los efectos del cálculo de la cuota de servicio:
+Diámetro Nominal del Contador (mm) (*)
+ 13
+ 15
+ 20
+ 25
+ 30
+ 40
+ 50
+ 65
+ 80
+ 100
+ 125
+ >125
+ N.º de abonados asignados
+ 1
+ 3
+ 6
+ 10
+ 16
+ 25
+ 50
+ 85
+ 100
+ 200
+ 300
+ 400
+(*) Para valores intermedios de diámetros nominales se tomará el valor inferior correspondiente.
+2. Usos No Domésticos:
+Cuota de Servicio: 42 euros/fuente de suministro/año.
+Cuota de Consumo: 0,42 euros/m3.
+Se aplicará una cuota de servicio anual por cada fuente de suministro de agua.
+3. A los efectos establecidos en el artículo 26.2 de la Ley 3/2000, de 12 de julio, los componentes de la tarifa podrán ser incrementados o disminuidos en función del coeficiente corrector y del coeficiente de volumen que se establezcan reglamentariamente por aplicación de los resultados de la declaración de carga contaminante prevista en el artículo 26.3 de la misma ley. El coeficiente corrector no podrá ser inferior a 0.50 ni superior a 8. El valor del coeficiente de volumen se fijará entre 0.1 y 1. En casos excepcionales, y en virtud de un expediente aprobado al efecto por el Consejo de Gobierno, se podrá establecer un coeficiente corrector superior o inferior.
+4. El volumen máximo a tener en cuenta en la deducción indicada en el artículo 26.5 de la Ley 3/2000, de 12 de julio, será el correspondiente asignado en la autorización en vigor del vertido a que se refiere el artículo 101 del Real Decreto Legislativo 1/2001, por el que se aprueba el texto refundido de la Ley de Aguas, o, en su caso, el artículo 57 de la Ley 22/1988, de Costas. No se practicará esta deducción mientras el sujeto pasivo no demuestre haber obtenido de la Administración competente la preceptiva autorización del vertido.
+5. Se establece una bonificación del 50% sobre el importe del canon de saneamiento aplicable a aquellos vertidos que se realicen a redes públicas de alcantarillado de aguas no residuales procedentes de actividades de achique o desagüe de sótanos. Esta bonificación no será aplicable durante la fase de construcción de viviendas o sótanos ni a vertidos causados por sistemas de refrigeración de circuito abierto.
+Para la aplicación de la bonificación será necesario que el contribuyente acredite que dispone de aparatos medidores de volumen de vertido a la red de alcantarillado.
+6. Se establece una deducción del 20% sobre el importe del canon de saneamiento aplicable para los usos no domésticos por depuración adecuada en origen. Para la aplicación de esta deducción el local o establecimiento de que se trate, deberá cumplir los siguientes requisitos:
+– El valor del coeficiente corrector vigente contenido en su régimen tributario aplicable será igual o inferior a 1.5.
+– Disponer de aparatos medidores de volumen en todas las fuentes de suministro y en los puntos de vertido.
+– Disponer de pretratamiento y de tratamiento biológico con capacidad de depuración suficiente para el máximo caudal en punta de campaña.
+– Un periodo continuado de 12 meses en el que los resultados analíticos obtenidos en cualquiera de los controles puntuales que realice ESAMUR como comprobación de la medición vigente, no demuestren el incumplimiento de la normativa en materia de vertidos al alcantarillado.
+– El sujeto pasivo deberá estar al corriente en sus obligaciones tributarias, tanto en el ámbito estatal como autonómico, así como ante la Seguridad Social.
+Se perderá el derecho a la deducción desde el momento en que se verifique el incumplimiento de alguno de los requisitos que dan derecho a su obtención.
+7. Se aplicará el máximo coeficiente corrector vigente a aquellos vertidos en los que alguno de los siguientes parámetros de contaminación supere, en dos controles puntuales consecutivos separados al menos por quince días y en el período de un año, los siguientes valores:
+Sólidos en Suspensión (SS) 2.000 mg/l
+Demanda Química de Oxígeno (DQO) 4.400 mg/l
+Demanda Biológica de Oxígeno (DBO5) 2.600 mg/l
+Nitrógeno total kjeldahl (NTK) 200 mg/l
+Fósforo total (P) 50 mg/l
+Sales solubles (SOL) 20.000 µS/cm
+Se habilita al Consejo de Gobierno de la Región de Murcia para que, por vía reglamentaria, pueda incorporar o suprimir parámetros de contaminación en la relación que figura en el apartado anterior, así como para modificar los valores máximos que se establecen en la misma.
+c) Relación completa de aglomeraciones urbanas sujetas al canon de saneamiento con indicación de aquellas en las que es de aplicación la bonificación prevista en la disposición adicional cuarta de la Ley 3/2000, de Saneamiento y Depuración de Aguas Residuales de Murcia.
+[sic] La relación completa de aglomeraciones urbanas sujetas al canon de saneamiento con indicación de aquellas en las que es de aplicación la bonificación prevista en la disposición adicional cuarta de la Ley 3/2000, de Saneamiento y Depuración de Aguas Residuales de Murcia, es la que se incluye en el anexo de esta Ley.
+Se modifican los apartados b).1 y 2 por el art. 58 de la Ley 1/2017, de 9 de enero. Ref. BOE-A-2017-2229.
+ Se añaden los apartados 6 y 7 a la letra b) por el art. 2 del Decreto-ley 4/2014, de 30 de diciembre. Ref. BORM-s-2014-90484.
+ Se modifica la letra b) por el art. 2 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752.
+ Se modifica la letra b) por el art. 4 de la Ley 14/2012, de 27 de diciembre. Ref. BOE-A-2013-1927.
+ Se modifica la letra b) por el art. 52 de la Ley 6/2011, de 26 de diciembre. Ref. BOE-A-2012-2269.
+ Se modifica la letra b) por el art. 1 de la Ley 3/2010, de 27 de diciembre. Ref. BOE-A-2011-10362.
+ Se modifica la letra b) por el art. 7 de la Ley 11/2007, de 27 de diciembre. Ref. BOE-A-2008-12587.
+ Se modifica la letra b) por el art. 55.1 de la Ley 9/2005, de 29 de diciembre. Ref. BOE-A-2006-9966.
+ Redactado conforme a la corrección de errores publicada en el BOMU núm. 16, de 20 de enero de 2006.
+ Se modifica la letra b) por la disposición adicional 11 de la Ley 10/2003, de 23 de diciembre. Ref. BOE-A-2004-3752.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+Murcia, 20 de mayo de 2002.
+RAMÓN LUIS VALCÁRCEL SISO,
+Presidente
+
+## ANEXO
+
+Relación completa de aglomeraciones urbanas con indicación de la bonificación aplicada en la cuota del canon de saneamiento prevista en la disposición adicional cuarta de la Ley 3/2000, de Saneamiento y Depuración de Aguas Residuales
+Municipio
+ Aglomeraciones urbanas
+ Cuota del canon de saneamiento
+ –
+ Porcentaje
+ Abanilla
+ Abanilla
+ 100
+ Mahoya
+ 50
+ Barinas
+ 50
+ Mascisvenda
+ 50
+ Cantón (El)
+ 50
+ Cañada de la Leña
+ 50
+ Partidor (El)
+ 50
+ Abarán
+ Abarán
+ 100
+ Estación Férrea (1)
+ 50
+ Virgen del Oro
+ 100
+ San José Artesano
+ 50
+ Águilas
+ Águilas
+ 100
+ Geraneos (Los)
+ 50
+ Arejos (Los)
+ 50
+ Todosol
+ 50
+ Urbanización Casica Verde
+ 50
+ Rincón de la Casa Grande
+ 50
+ Collados Zieschang
+ 50
+ Tébar
+ 50
+ Gallegos (Los)
+ 50
+ Collados Weiss
+ 50
+ Cuesta de Gos
+ 50
+ Barranco de los Asensios
+ 50
+ Canteras (Las)
+ 50
+ Cope
+ 50
+ Albudeite
+ Albudeite
+ 50
+ Cruz (La)
+ 50
+ Alcantarilla
+ Alcantarilla
+ 100
+ Aledo
+ Aledo
+ 50
+ Canales (Las)
+ 50
+ Montysol de Espuña
+ 50
+ Nonihay
+ 50
+ Alguazas
+ Alguazas
+ 100
+ Pullas (Las)
+ 50
+ Alhamade Murcia
+ Alhama de Murcia
+ 100
+ Pueblo Nuevo
+ 50
+ Berro (El)
+ 50
+ Venta Aledo (La)
+ 50
+ Muñoces (Los)
+ 50
+ Cabilas (Las)
+ 50
+ Casas del Aljibe (Las)
+ 50
+ Ventorrillos (Los)
+ 50
+ Pavos (Los)
+ 50
+ Flotas de Butrón (Las)
+ 50
+ Casas Nuevas de la Costera
+ 50
+ Molata (La)
+ 50
+ Archena
+ Archena
+ 100
+ Algaida
+ 100
+ Baños (Los)
+ 100
+ Beniel
+ Beniel
+ 100
+ Mojón (El)
+ 100
+ Zeneta (2)
+ 100
+ Brazal de Álamos
+ 50
+ Brazal de la Raja
+ 50
+ Brazal Nuevo
+ 50
+ Brazal de la Cruza
+ 50
+ Brazal de Pollos
+ 50
+ Blanca
+ Blanca
+ 100
+ Barrio del Café
+ 100
+ Carretera Estación
+ 100
+ Estación Férrea (3)
+ 50
+ Alto Palomo
+ 100
+ Runes
+ 100
+ Bullas
+ Bullas
+ 100
+ Copa (La)
+ 50
+ Calasparra
+ Calasparra
+ 100
+ Valentín (4)
+ 50
+ Milicianos Altos
+ 50
+ Milicianos (Los)
+ 50
+ Reposaderas (Las)
+ 50
+ Reolid (El)
+ 50
+ Marines (Los)
+ 50
+ Madriles (Los)
+ 50
+ Barriada Estación
+ 50
+ Campos del Río
+ Campos del Río
+ 50
+ Rodeo 1.º Núcleo Dos
+ 50
+ Rodeo 1.º Núcleo Uno
+ 50
+ Caravaca del Río
+ Caravaca del Río
+ 50
+ Archivel
+ 50
+ Barranda
+ 50
+ Encarnación (La)
+ 50
+ Noguericas
+ 50
+ Royos (Los)
+ 50
+ Moralejo (El)
+ 50
+ Benablón
+ 50
+ Moral (El)
+ 50
+ Hornico (El)
+ 50
+ Arrabal
+ 50
+ Casicas
+ 50
+ Cabezuela
+ 50
+ Vereda 50 por 100
+ 50
+ Entredicho (El) 50 por 100
+ 50
+ Junquera (La) 50 por 100
+ 50
+ Retamalejo 50 por 100
+ 50
+ Cartagena
+ Cartagena
+ 100
+ Algar (El)
+ 100
+ Mar Menor (Sur) (5)
+ 100
+ Mar de Cristal
+ 100
+ Aljorra (La)
+ 50
+ Alumbres
+ 100
+ Beal
+ 100
+ Atamaría
+ 100
+ Belones (Los)
+ 100
+ Nietos (Los)
+ 100
+ Cala Flores
+ 100
+ Nietos Viejos (los)
+ 100
+ Islas Menores
+ 100
+ Albujón
+ 50
+ Miranda
+ 50
+ Palma (La)
+ 50
+ Puebla (La)
+ 50
+ Isla Plana
+ 50
+ Escombreras
+ 50
+ Pozo Los Palos
+ 50
+ Cuesta Blanca de Arriba
+ 50
+ Beatos (Los) 50 por 100
+ 50
+ Camachos (Los) 50 por 100
+ 50
+ Borricen
+ 50
+ Perín
+ 50
+ Central Términa 50 por 100
+ 50
+ Puertos de Santa Bárbara
+ 50
+ Casas (Las)
+ 50
+ Cuesta Blanca de Abajo
+ 50
+ Urbanización Roche Alto
+ 50
+ San Isidro
+ 50
+ Chapineta (La)
+ 50
+ Guía (La)
+ 50
+ Magdalena (La)
+ 50
+ Palmero (El)
+ 50
+ Madriles (Los)
+ 50
+ Galifa (La)
+ 50
+ Azohía (La)
+ 50
+ Rosiques (Los)
+ 50
+ Roses (Los)
+ 50
+ Mojón (El) 50 por 100
+ 50
+ Urbanización San Ginés
+ 50
+ Vereda de Roche
+ 50
+ Sánchez (Los)
+ 50
+ Ermita Santa Bárbara
+ 50
+ Portús (El)
+ 50
+ Lomas (Las)
+ 50
+ Molinos Gallegos
+ 50
+ Jorqueras (Los)
+ 50
+ Esparragueral
+ 50
+ Navarros (Los)
+ 50
+ Cala Reona
+ 50
+ Cehegín
+ Cehegín
+ 100
+ Valentín (6)
+ 50
+ Canara
+ 50
+ Cabezo (El)
+ 50
+ Chaparral
+ 100
+ Cortijos de los Guapos
+ 50
+ Cañada de Canara
+ 50
+ Campillo de los Jiménez
+ 50
+ Pila (La)
+ 50
+ Algezares
+ 50
+ Virgen de la Peña
+ 50
+ Escobar
+ 50
+ Arroyo Hurtado
+ 50
+ Ceutí
+ Ceutí-Lorqui (7)
+ 100
+ Cieza
+ Cieza
+ 100
+ Fuente Ascoy
+ 50
+ Ascoy
+ 50
+ Fortuna
+ Fortuna
+ 100
+ Garapacha (La)
+ 50
+ Baños (Los)
+ 50
+ Gineta (La)
+ 50
+ Fuente Blanca
+ 50
+ Casicas (Las)
+ 50
+ Matanza (La)
+ 50
+ Capres
+ 50
+ Rambla Salada
+ 50
+ Peña Zafra de Arriba
+ 50
+ Peña Zafra de Abajo
+ 50
+ Periquitos (Los)
+ 50
+ Reloj (El)
+ 50
+ Casica (La)
+ 50
+ Fuente Álamo
+ Fuente Álamo
+ 100
+ Balsapintada
+ 100
+ Cuevas de Reyllo
+ 100
+ Cánovas
+ 100
+ Almagros (Los)
+ 100
+ Paganes (Los)
+ 100
+ Pinilla (La)
+ 50
+ Palas (Las)
+ 50
+ Loma (La)
+ 50
+ Escobar (El)
+ 50
+ Campillo de Arriba
+ 50
+ Vivancos (Los)
+ 50
+ Espinar (El)
+ 50
+ Campillo de Abajo
+ 50
+ Jumilla
+ Jumilla
+ 100
+ Estacada (La)
+ 100
+ Cañada del Trigo
+ 100
+ Alquería (La)
+ 100
+ Fuente del Pino
+ 100
+ Torre del Rico
+ 100
+ Zarza (La)
+ 50
+ Cebolletas (Casas)
+ 50
+ Conejo (Casas)
+ 50
+ Cañas (Casas de las)
+ 50
+ Peña Roja
+ 50
+ Puerto (Casas del)
+ 50
+ Casas de Díaz
+ 5
+ Santa Ana
+ 50
+ Charco de la Peña
+ 50
+ Barahonda Vieja
+ 50
+ Librilla
+ Librilla
+ 100
+ Lorca
+ Lorca (La Hoya)
+ 100
+ La Paca
+ 100
+ Zarcilla de Ramos
+ 100
+ Almendricos
+ 50
+ Zarzadilla de Totana
+ 50
+ Puente Pasico
+ 50
+ Coy
+ 50
+ Parroquia de la Fuensanta
+ 50
+ Campana (La)
+ 50
+ Puente Botero
+ 50
+ Avilés
+ 50
+ Curas (Los)
+ 50
+ Consejero (El)
+ 50
+ Iglesia de Morata
+ 50
+ Ermita del Ramonete
+ 50
+ Guirreta (La)
+ 50
+ Purias (Centro)
+ 50
+ Doña Inés
+ 50
+ Ermita de Santa Gertrudis
+ 50
+ Terreras (Las)
+ 50
+ Escarihuela (La)
+ 50
+ Porvenir (El)
+ 50
+ Estanco Serafín
+ 50
+ Jopos (Los)
+ 50
+ Ugéjar
+ 50
+ Camino de Carraclaca
+ 50
+ Canales (Las)
+ 50
+ Kilómetro 15
+ 50
+ Rincón (El)
+ 50
+ Cuesta de la Escarihuela
+ 50
+ Puerto Muriel
+ 50
+ Librilleras (Las)
+ 50
+ Campo López
+ 50
+ Puntas de Calnegre
+ 50
+ Torrealvilla
+ 50
+ Cantal (El)
+ 50
+ Pardo (El)
+ 50
+ Cautivos (Los)
+ 50
+ Zúñiga
+ 50
+ Altritar
+ 50
+ Villaespesa
+ 50
+ Feli
+ 50
+ Norias (Las)
+ 50
+ Henares
+ 50
+ Pantano de Puentes
+ 50
+ Pozo de la Higuera
+ 50
+ Reverte
+ 50
+ Venta Ceferino
+ 50
+ Lorqui
+ Ceutí-Lorqui (8)
+ 100
+ Anchosa (La)
+ 50
+ Mazarrón
+ Mazarrón
+ 100
+ Cañada de Gallego
+ 50
+ Majada (La)
+ 50
+ Cañadas del Romero (Las)
+ 50
+ Calar (El)
+ 50
+ Gañuelas
+ 50
+ Cañavates (Los)
+ 50
+ Estrecho (El)
+ 50
+ Atalaya (La)
+ 50
+ Cazadores (Los)
+ 50
+ Lorentes (Los)
+ 50
+ Balsicas (Las)
+ 50
+ Rusticana
+ 50
+ Molina de Segura
+ Molina de Segura (Ermita)
+ 100
+ Alcayna (La)
+ 100
+ Conejos (Los)
+ 100
+ Altorreal
+ 100
+ Fenazar
+ 100
+ Ribera de Arriba
+ 100
+ Torrealta
+ 100
+ Llano (El)
+ 100
+ Ribera de Abajo
+ 100
+ Rellano (El)
+ 50
+ Valientes (Los)
+ 50
+ Estación de Archena
+ 50
+ Toscas-Chorrico
+ 50
+ Pino (El)
+ 50
+ Casa Ros
+ 50
+ Finca Maximino
+ 50
+ Finca Señorita
+ 50
+ Casa del Cura
+ 50
+ Moratalla
+ Moratalla
+ 50
+ Tercia (La)
+ 50
+ Sabinar (El)
+ 50
+ Cañada de la Cruz
+ 50
+ Otos
+ 50
+ Calar de la Santa
+ 50
+ Mazuza
+ 50
+ Odres (Los)
+ 50
+ Villar (El)
+ 50
+ Benízar
+ 50
+ Casa Requena
+ 50
+ Inazares
+ 50
+ Casicas de San Juan
+ 50
+ Risca (La)
+ 50
+ Molino (El)
+ 50
+ Salmerón
+ 50
+ Casas de Aledo
+ 50
+ Cobo (El)
+ 50
+ Mula
+ Mula
+ 100
+ Fuente Librilla
+ 50
+ Yéchar
+ 50
+ Puebla de Mula (La)
+ 50
+ Casas Nuevas
+ 50
+ Baños (Los)
+ 50
+ Niño (El)
+ 50
+ Murcia
+ Murcia Este
+ 100
+ Zeneta (9)
+ 100
+ Raal (El)
+ 100
+ Barqueros
+ 100
+ Corvera
+ 100
+ Martínez del Puerto (Los)
+ 100
+ Sucina
+ 100
+ Valladolises
+ 100
+ Avileses
+ 100
+ Cabezo de la Plata
+ 100
+ Lobosillo
+ 100
+ Tercia (La)
+ 100
+ Baños y Mendigo
+ 100
+ Murta (La)
+ 100
+ Nuestra Señora de la Fuensanta
+ 50
+ Molino de la Vereda
+ 50
+ Casa Blanca
+ 50
+ San Antonio el Pobre
+ 50
+ Teatinos (Los)
+ 50
+ Ojós
+ Ojós
+ 50
+ Pliego
+ Pliego
+ 100
+ Puerto Lumbreras
+ Puerto Lumbreras
+ 100
+ Estación
+ 50
+ Goñar
+ 50
+ Ricote
+ Ricote
+ 50
+ San Javier
+ San Javier
+ 100
+ Mar Menor (Sur) (10)
+ 100
+ Lugarico (El)
+ 50
+ Sáez (Los)
+ 50
+ Llerena (Lo)
+ 50
+ Romero (Lo)
+ 50
+ San Pedro del Pinatar
+ San Pedro del Pinatar
+ 100
+ Romero (Lo)
+ 50
+ Salinas (Las)
+ 50
+ Gómez (Los)
+ 50
+ Torre-Pacheco
+ Torre-Pacheco
+ 100
+ Roldán
+ 50
+ Balsicas
+ 50
+ Dolores
+ 50
+ Jimenado
+ 100
+ Santa Rosalía
+ 100
+ San Cayetano
+ 50
+ Torres de Cotillas (Las)
+ Torres de Cotillas (Las)
+ 100
+ Media Legua (La)
+ 50
+ Coto (El)
+ 50
+ Totana
+ Totana
+ 100
+ Charca (La)
+ 50
+ Lomas de Abajo
+ 50
+ Lomas de Arriba
+ 50
+ Tuelas (Los)
+ 50
+ Cantareros (Los)
+ 50
+ López (Los)
+ 50
+ Guardianes (Los)
+ 50
+ Ventas (Las)
+ 50
+ Venta la Rata
+ 50
+ Serranos (los)
+ 50
+ Ulea
+ Ulea
+ 100
+ Unión (La)
+ Unión (La)
+ 100
+ Portmán
+ 100
+ Roche
+ 100
+ Paredes (Los)
+ 100
+ Huertas (Los)
+ 100
+ Topares (Los)
+ 50
+ Lazareto (El)
+ 50
+ Oliveras (Las)
+ 50
+ Villanueva del Río Segura
+ Villanueva del Río Segura
+ 100
+ Virgen del Carmen
+ 100
+ Yecla
+ Yecla
+ 100
+ Raspay
+ 100
+ Santomera
+ Santomera (Sur)
+ 100
+ Santomera (Norte)
+ 100
+ Siscar
+ 100
+ Alcázares (Los)
+ Alcázares (Los)
+ 100
+( 1) Esta aglomeración tiene adscrito además un núcleo del municipio de Blanca.
+( 2) Esta aglomeración tiene adscritos además un núcleo del municipio de Murcia.
+( 3) Esta aglomeración tiene adscritos además núcleos del municipio de Abarán.
+( 4) Esta Aglomeración tiene adscritos además un núcleo del municipio de Cehegín.
+( 5) Esta aglomeración tiene adscritos además un núcleo del municipio de San Javier.
+( 6) Esta aglomeración tiene adscritos además un núcleo del municipio de Calasparra.
+( 7) Esta aglomeración tiene adscritos además núcleos del municipio de Lorquí.
+( 8) Esta aglomeración tiene adscritos además núcleos del municipio de Ceutí.
+( 9) Esta aglomeración tiene adscritos además un núcleo del municipio de Beniel.
+(10) Esta aglomeración tiene adscritos además núcleos del municipio de Cartagena.

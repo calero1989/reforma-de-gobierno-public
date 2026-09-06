@@ -1,0 +1,211 @@
+# Ley 21/1990, de 19 de diciembre, para adaptar el Derecho español a la Directiva 88/357/CEE, sobre libertad de servicios en seguros distintos al de vida, y de actualización de la legislación de seguros privados.
+
+- Identificador BOE: `BOE-A-1990-30736`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-30736
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La implantación de la libertad de prestación de servicios de seguros distintos al de vida en la Comunidad Económica Europea ha de llevarse a cabo en los Estados miembros por imperativo de la Directiva 88/357/CEE, adoptada el 22 de junio de 1988.
+Transponer al Derecho español esta norma comunitaria requiere la modificación de tres conjuntos de disposiciones internas. En primer lugar, hay que adaptar la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado, que es, ciertamente, la norma legal a que en mayor grado afecta la implantación de dicha libertad de servicios. En la mencionada Ley 33/1984 es necesario recoger, a su vez, dos tipos de modificaciones que la Directiva exige y que demuestran su complejidad técnica. El Derecho comunitario en materia de establecimiento de aseguradores en Estados miembros distintos a los de su domicilio social se ve alterado en ciertos aspectos como consecuencia de la implantación de la libertad de servicios. Tal es el caso de la disciplina referente a las cesiones de cartera, encuadrada en la legislación sobre control de establecimientos aseguradores, pero que, en un mercado comunitario inmerso en la libertad de servicios, resulta inexcusable revisar; es necesario prever la posibilidad de que las cesiones se operen entre establecimientos radicados en Estados distintos y que, además, incluyan contratos sobre riesgos en un tercer Estado miembro.
+La normativa de control ha de introducir igualmente las especialidades propias de los llamados «grandes riesgos», y que justifican los períodos transitorios que a España se reconocen en la Directiva 88/357/CEE. Este tipo de riesgos se sitúa bajo un control administrativo que en algunos aspectos, y por imperativo de dicha norma comunitaria, queda flexibilizado en atención al especial carácter de los tomadores.
+Pero el mayor número de modificaciones sobre la Ley 33/1984, de 2 de agosto, viene impuesto por la implantación de la libertad de servicios, que exige la extensión, en lo procedente, del régimen de control administrativo hasta ahora limitado a los aseguradores estableci­dos en España, a los que operan en ella desde el resto de la Comunidad Económica Europea. La Ley de Ordenación del Seguro Privado ha de ampliar su ámbito en un doble sentido: En cuanto a las operaciones a ella sometidas, porque su ordenación pasa a referirse también a otras -hasta ahora ilegales- concertadas sobre riesgos en España con asegura­dores no establecidos en nuestro país. Y desde un punto de vista subjetivo, en cuanto a los empresarios que quedan sujetos al control de las autoridades españolas, que no son ya exclusivamente los nacionales y las delegaciones de los extranjeros, sino también, en cierta medida, los que operen en España desde otros Estados de la Comunidad.
+Es evidente, en consecuencia, que un considerable número de artículos de la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado, han de adaptarse a la nueva situación, de forma que sean de aplicación a las operaciones propias de la misma y empresarios que las practiquen. Es, además, indispensable, regular específicamente los seguros realizados en libertad de servicios, para lo cual se ha habilitado un nuevo Capítulo de la Ley, seguido de otro más, dedicado al coaseguro comunitario.
+Finalmente, se ha de determinar legalmente la moneda en que son exigibles los compromisos del asegurador frente al asegurado. Estas normas se incorporan en una nueva Disposición Adicional de la Ley 33/1984, de 2 de agosto.
+Hay también otro tipo de disposiciones legales que es necesario modificar para cumplir las exigencias de la Directiva 88/357/CEE. Impone ésta que las partes del contrato de seguro puedan optar en determinados casos por el Derecho contractual aplicable a la póliza de entre las posibilidades que la norma regula. Ello requiere la traslación de dichas posibilidades de opción a la Ley 50/1980, de 8 de octubre, de contrato de seguro, dotándola, además, de unas reglas de Derecho Internacional Privado que, en lo sucesivo, se hacen indispensables.
+El concepto de grandes riesgos tiene relevancia en el Derecho contractual. Si en ellos el tomador no requiere una tutela especial por parte de la Ley ni de las autoridades administrativas, y habida cuenta de la nueva escala de concurrencia en que el mercado asegurador ha de desenvolverse a partir de ahora, es conveniente dotar a dicho mercado, en lo referente a los grandes riesgos, de una mayor libertad de contratación, situando el principio de autonomía de la voluntad en lugar preferente, tal como el legislador español reconoció al seguro marítimo al no derogar los artículos 737 y siguientes del Código de Comercio, con motivo de la promulgación de la Ley 50/1980, de 8 de octubre.
+Finalmente, se hace también preciso dotar de un nuevo Estatuto Legal al Consorcio de Compensación de Seguros que ya venía exigido en cuanto a su naturaleza jurídica por la modificación operada por el Real Decreto Legislativo 1255/1986, de 6 de junio, en los apartados 2 y 3 del artículo 4.º de la Ley 33/1984 para adaptarla a los compromisos derivados del Tratado de Adhesión de España a la Comunidad Económica Europea, y que se hace inexcusable al exigir dicho Tratado la pérdida del carácter monopolístico en la principal de sus funciones, cual es la vinculada a los riesgos extraordinarios.
+La presente Ley sigue básicamente la técnica de modificar las ya existentes, consistiendo sus normas en otros tantos mandatos para cambiar o añadir las disposiciones correspondientes en las Leyes 33/1984, de 2 de agosto, y 50/1980, de 8 de octubre, y dotar al Consorcio de Compensación de Seguros de una norma única con rango de Ley, todo ello con el fin de evitar la dispersión normativa y consiguientes dificultades de interpretación.
+Esta Ley contiene otras modificaciones más sobre la de Ordenación del Seguro Privado, que obedecen a la transposición de la Directiva 87/343/CEE, de 22 de junio de 1987, sobre los seguros de crédito y de caución, que exige elevar el fondo de garantía en el primero de ellos, a la también transposición de la Directiva 87/344/CEE, de 22 de junio, sobre coordinación de las disposiciones legales, reglamentarias y administrativas relativas al seguro de defensa jurídica, a la recepción de la doctrina del Tribunal Constitucional en su Sentencia 86/1989, de 11 de mayo, y a la necesidad de modificar determinados artículos de la Ley 33/1984 para adecuarlos a la experiencia adquirida a partir de la publicación de la misma.
+Las modificaciones introducidas en la Ley 33/1984, de 2 de agosto, las novedades introducidas en materia sancionadora por la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito y la experiencia acumulada en materia de control de la mediación profesional en el ámbito del seguro privado hacen aconsejable introducir determinadas modificaciones en el Texto refundido de la Ley reguladora de la Producción de Seguros Privados aprobado por Real Decreto Legislativo 1347/1985, de 1 de agosto.
+Por ello, y además de las Disposiciones Adicionales, Transitorias, Derogatoria y Finales, se estructura en seis artículos, referidos sucesivamente a las modificaciones de la Ley 33/1984, el primero; a las adiciones a la Ley 33/1984, el segundo; a la modificación de la Ley 50/1980, en cuanto a la introducción de las normas de Derecho Internacional Privado, el tercero; al Estatuto Legal del Consorcio de Compensación de Seguros, el cuarto; a las modificaciones de la Ley reguladora de la Producción de Seguros Privados, el quinto; y, finalmente, a la introducción del contrato de seguro de defensa jurídica en la Ley 50/1980, el sexto.
+
+### Artículo primero
+
+Artículo primero.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Artículo segundo
+
+Artículo segundo.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Artículo tercero
+
+Artículo tercero.
+Se modifican los artículos 10 párrafo primero, párrafo primero del 28 y 44, párrafo segundo del 48 y causa 3.ª del 52 de la Ley 50/1980, de 8 de octubre, de Contrato de Seguro, y se añade el Título IV, regulador de las Normas de Derecho Internacional Privado.
+Uno. Se añade al párrafo primero del artículo 10 el siguiente inciso:
+«Artículo 10, párrafo primero «in fine»:
+Quedará exonerado de tal deber si el asegurador no le somete cuestionario o cuando, aun sometiéndoselo, se trate de circunstancias que puedan influir en la valoración del riesgo y que no estén comprendi­das en él.»
+Dos. El párrafo primero del artículo 28 se redacta:
+«Artículo 28, párrafo primero:
+No obstante lo dispuesto en el artículo veintiséis, las partes, de común acuerdo, podrán fijar en la póliza o con posterioridad a la celebración del contrato el valor del interés asegurado que habrá de tenerse en cuenta para el cálculo de la indemnización.»
+Tres.(Derogado)
+Cuatro. El párrafo segundo del artículo 48 queda redactado del siguiente modo:
+«Artículo 48, párrafo segundo:
+El asegurador no estará obligado a indemnizar los daños provocados por el incendio cuando éste se origine por dolo o culpa grave del asegurado.»
+Cinco. La causa 3.ª del artículo 52 queda redactada como sigue:
+«Artículo 52, causa 3.ª:
+Cuando la sustracción se produzca con ocasión de siniestros derivados de riesgos extraordinarios.»
+Seis. Se añade un nuevo Título con el siguiente contenido:
+«TITULO IV
+Normas de Derecho Internacional Privado
+Artículo 107.
+1. La ley española sobre el contrato de seguro será de aplicación al de seguro contra daños, en los siguientes casos:
+a) Cuando se refiera a riesgos que estén situados en territorio español y el tomador del seguro tenga en él su residencia habitual, si se trata de persona física, o su domicilio social o sede de dirección efectiva de negocios, si se trata de persona jurídica.
+b) Cuando el contrato se concluya en cumplimiento de una obligación de asegurarse impuesta por la ley española.
+2. Fuera de los casos previstos en el número anterior, regirán las siguientes normas para determinar la ley aplicable al contrato de seguro contra daños:
+a) Cuando se refiera a riesgos que estén situados en territorio español y el tomador del seguro no tenga en él su residencia habitual, domicilio social o sede de dirección efectiva de negocios, las partes podrán elegir entre la aplicación de la ley española o la ley del Estado en que el tomador del seguro tenga dicha residencia, domicilio social o dirección efectiva.
+b) Cuando el tomador del seguro sea un empresario o un profesio­nal y el contrato cubra riesgos relativos, a sus actividades realizadas en distintos Estados de la Comunidad Económica Europea, las partes podrán elegir entre la ley de cualquiera de los Estados en que los riesgos estén situados o la de aquel en que el tomador tenga su residencia, domicilio social o dirección efectiva de negocios.
+c) Cuando la garantía de los riesgos que estén situados en territorio español se limite a los siniestros que puedan ocurrir en un Estado miembro distinto de España, las partes pueden elegir la ley de dicho Estado.
+3. A los efectos de lo previsto en los números precedentes, la situación territorial de los riesgos se determinará conforme a lo previsto en la Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado.
+4. La elección por las partes de ley aplicable, cuando sea posible, deberá expresarse en el contrato o desprenderse claramente de su contenido. Si faltare la elección, el contrato se regirá por la ley del Estado de entre los contemplados en este número con el que presente una relación más estrecha. Sin embargo, si una parte del contrato fuera separable del resto del mismo y presentara una relación más estrecha con algún otro Estado de los contemplados en este número, podrá, excepcionalmente, aplicarse a esta parte del contrato la ley de ese Estado. Se presumirá que existe relación más estrecha con el Estado miembro en el que se sitúe el riesgo.
+5. Lo dispuesto en los números precedentes se entenderá sin perjuicio de las disposiciones de orden público contenidas en la ley española, cualquiera que sea la ley aplicable al contrato de seguro de daños. Sin embargo, si el contrato cubre riesgos situados en varios Estados miembros de la Comunidad Económica Europea, se considerará que existen varios contratos a los efectos de lo previsto en este número, y que corresponden cada uno de ellos únicamente a un Estado.
+Artículo 108.
+Lo dispuesto en el artículo precedente será de aplicación a los seguros de personas distintos al seguro sobre la vida.
+Artículo 109.
+En lo no previsto en el artículo 107 se aplicarán al contrato de seguro las normas generales de Derecho Internacional Privado en materia de obligaciones contractuales.»
+Se deroga el apartado 3 por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Artículo cuarto
+
+Artículo cuarto.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+ Se modifican los arts. 6.1 y 23.4 del estatuto por el art. 4 de la Ley 34/2003, de 4 de noviembre. Ref. BOE-A-2003-20330.
+ Se modifica el art. 13 bis del estatuto por la disposición final 26 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+ Se modifica el estatuto por el art. 11.3, 34 y disposición derogatoria única f) de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807.
+ Se declara la vigencia del art. 24.2 del estatuto por la disposición derogatoria única.2.27 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752.
+ Se modifica el estatuto por la disposición adicional 9 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Artículo quinto
+
+Artículo quinto.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Artículo sexto
+
+Artículo sexto.
+La Sección Novena («Reaseguro») del Título II de la Ley 50/1980, de 8 de octubre, de Contrato de Seguro pasará a ser la Sección Décima. Inmediatamente antes se introducirá una nueva Sección Novena, que tendrá el siguiente contenido:
+«Seccion novena. Seguro de Defensa Juridica
+Artículo 76, a):
+Por el seguro de defensa jurídica, el asegurador se obliga, dentro de los límites establecidos en la Ley y en el contrato, a hacerse cargo de los gastos en que pueda incurrir el asegurado como consecuencia de su intervención en un procedimiento administrativo, judicial o arbitral, y a prestarle los servicios de asistencia jurídica judicial y extrajudicial derivados de la cobertura del seguro.
+Artículo 76, b):
+Quedan excluidos de la cobertura del seguro de defensa jurídica el pago de multas y la indemnización de cualquier gasto originado por sanciones impuestas al asegurado por las autoridades administrativas o judiciales.
+Artículo 76, c):
+El seguro de defensa jurídica deberá ser objeto de un contrato independiente.
+El contrato, no obstante, podrá incluirse en capitulo aparte dentro de una póliza única, en cuyo caso habrán de especificarse el contenido de la defensa jurídica garantizada y la prima que le corresponde.
+Artículo 76, d):
+El asegurado tendrá derecho a elegir libremente el Procurador y Abogado que hayan de representarle y defenderle en cualquier clase de procedimiento.
+El asegurado tendrá, asimismo, derecho a la libre elección de Abogado y Procurador en los casos en que se presente conflicto de intereses entre las partes del contrato.
+El Abogado y Procurador designados por el asegurado no estarán sujetos, en ningún caso, a las instrucciones del asegurador.
+Artículo 76, e):
+El asegurado tendrá derecho a someter a arbitraje cualquier diferen­cia que pueda surgir entre él y el asegurador sobre el contrato de seguro.
+La designación de árbitros no podrá hacerse antes de que surja la cuestión disputada.
+Artículo 76, f):
+La póliza del contrato de seguro de defensa jurídica habrá de recoger expresamente los derechos reconocidos al asegurado por los dos artícu­los anteriores.
+En caso de conflicto de intereses o de desavenencia sobre el modo de tratar una cuestión litigiosa, el asegurador deberá informar inmediata­mente al asegurado de la facultad que le compete de ejercitar los derechos a que se refieren los dos artículos anteriores.
+Artículo 76, g):
+Los preceptos contenidos en esta Sección no serán de aplicación:
+1.º A la defensa jurídica realizada por el asegurador de la responsa­bilidad civil de conformidad con lo previsto en el artículo 74.
+2.º A la defensa jurídica realizada por el asegurador de la asistencia en viaje.
+En este caso, la no aplicación de las normas de esta Sección quedará subordinada a que la actividad de defensa jurídica se ejerza en un Estado distinto del de la residencia habitual del asegurado; a que dicha actividad se halle contemplada en un contrato que tenga por objeto única y exclusivamente la asistencia a personas que se encuentren en dificultades con motivo de desplazamientos o de ausencias de su lugar de residencia habitual, y a que en el contrato se indique claramente que no se trata de un seguro de defensa jurídica, sino de una cobertura accesoria a la de asistencia en viaje.
+3.º A la defensa jurídica que tenga por objeto litigios o riesgos que surjan o tengan relación con el uso de buques o embarcaciones marítimas.»
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El artículo 58 de la Ley 25/1964, de 29 de abril, reguladora de la Energía Nuclear, queda redactado en los siguientes términos:
+«La responsabilidad civil derivada de accidente nuclear podrá cubrirse por las Entidades aseguradoras inscritas en el Registro Especial de la Dirección General de Seguros para la práctica de seguros sobre la responsabilidad civil y que dispongan de pólizas, bases técnicas y tarifas de primas al respecto que reúnan las condiciones legales. El Consorcio de Compensación de Seguros participará en la cobertura de dichos riesgos en el caso de que no se alcance por el conjunto de dichas Entidades el límite mínimo de la responsabilidad civil prevista en esta Ley, asumiendo la diferencia hasta el límite indicado, así como reasegurando en la forma y cuantía que determine el Ministerio de Economía y Hacienda.»
+Se declara vigente por la disposición derogatoria única.2.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Derogada)
+Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 8/2004, de 29 de octubre. Ref. BOE-A-2004-18911.
+ Se deroga el inciso destacado por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+A la entrada en vigor de la disposición en la que el Ministro de Economía y Hacienda de cumplimiento a lo dispuesto en el número 2 del artículo 1.º de la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación, en su redacción dada por la Disposición Adicional Octava, uno, de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990, la Administración del Estado se subrogará como reasegura­dora en el lugar del Consorcio de Compensación de Seguros en los contratos para la cobertura de los riesgos comerciales en el Seguro de Crédito a la Exportación, en los que este último sea reasegurador de «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima». Operada la subrogación, el Consorcio de Compensación de Seguros pasará a desempeñar en tales contratos las mismas funciones que realiza en el Seguro de Crédito a la Exportación por cuenta del Estado.
+Se declara vigente por la disposición derogatoria única.2.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Uno.(Derogado)
+Dos. (Derogado)
+Se deroga el apartado 1 por la disposición derogatoria única.1.a) del Real Decreto Legislativo 7/2004, de 29 de octubre. Ref. BOE-A-2004-18910.
+ Se deroga el apartado 2 por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley, y, en particular:
+1. La Ley de 16 de diciembre de 1954 por la que se crea el Organismo Autónomo Consorcio de Compensación de Seguros.
+2. El Decreto-ley 18/1964, de 3 de octubre, regulador del Fondo Nacional de Garantía de Riesgos de la Circulación.
+3. Los artículos 59, 60, 61 y 62 de la Ley 25/1964, de 29 de abril, Reguladora de la Energía Nuclear.
+4. La Disposición Adicional Primera de la Ley 87/1978, de 28 de diciembre, sobre Seguro Agrario Combinado.
+5. Los artículos 19, 24, 25, 28, 29 y la Disposición Transitoria Cuarta de la Ley 81/1968, de 5 de diciembre, sobre Incendios Foresta­les.
+6. El artículo 13 de la Ley 122/1962, de 24 de diciembre, sobre uso y circulación de vehículos de motor, conforme a la redacción dada al mismo por el texto refundido aprobado por Decreto 632/1968, de 21 de marzo. y la Disposición Final Tercera del Real Decreto Legislativo 1301/1986, de 28 de junio, por el que se adapta el texto refundido de la Ley de Uso y Circulación de Vehículos de Motor al ordenamiento jurídico comunitario.
+
+### Disposición final primera
+
+Disposición final primera.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262.
+
+Por tanto,
+Mando a lodos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 19 de diciembre de 1990.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

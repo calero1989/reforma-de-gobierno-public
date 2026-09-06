@@ -1,0 +1,434 @@
+# Ley 1/1998, de 2 de marzo, de Fundaciones de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1998-19581`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-19581
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOCM núm. 125, de 28 de mayo de 1998 y núm. 245, de 15 de octubre de 1998. Ref. BOE-A-1998-26929.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+1
+La Ley Orgánica 10/1994, de 24 de marzo, de Reforma del Estatuto de Autonomía de la Comunidad de Madrid, atribuyó a ésta la plenitud de la función legislativa en materia de fundaciones que desarrollasen principalmente sus funciones en la Comunidad Autónoma. Dicha competencia, tras la citada reforma, se contempla en el artículo 26, apartado 24, de la Ley Orgánica 3/1983, de 25 de febrero, de su Estatuto de Autonomía.
+Con posterioridad a la asunción de esta competencia por la Comunidad de Madrid, se promulgó la Ley estatal 30/1994, de 24 de noviembre, de Fundaciones y de Incentivos Fiscales a la Participación Privada en Actividades de Interés General, cuya disposición final primera, «Aplicación de la Ley», relaciona cuatro grupos de preceptos de la misma de aplicación en todo el Estado, al amparo del artículo 149.1.1.ª, 6.ª, 8.ª y 14.ª de la Constitución.
+Con estricto respeto a este marco constitucional, estatutario y legal, la presente Ley pretende regular las fundaciones de competencia de la Comunidad de Madrid con la finalidad de potenciar la creación de estas entidades, su desarrollo y su adscripción al ámbito de la misma, y por tanto, la consecución en su territorio de los fines de interés general que constituyen el objeto fundacional, la Comunidad de Madrid entiende que debe estimularse la iniciativa privada en la realización de actividades de interés general, prestando apoyo y cobertura al protagonismo que la sociedad reclama y ejerce a través de una variada gama de entidades sin ánimo de lucro, a cuyo efecto se flexibiliza, en los aspectos que más adelante se relacionan, su régimen jurídico.
+2
+Los aspectos más destacados de la Ley son los siguientes:
+Se prohíbe la finalidad de beneficio familiar de las funciones en coherencia con el fin de interés general que las mismas deben perseguir.
+En lo relativo a la capacidad de las personas jurídico-públicas para la constitución de fundaciones sujetas a la presente Ley, se establecen determinadas condiciones, con el fin de evitar que, a través de las mismas, tales personas escapen de los controles ordinarios de la actividad administrativa. Asimismo se establecen determinadas cautelas dirigidas a evitar la confusión del patrimonio y el régimen jurídico de las fundaciones creadas por las personas jurídico-públicas con los propios de tales personas.
+Se opta por la obligatoriedad del Patronato colegiado de al menos tres miembros. Por otra parte, se admite que por los patronos natos menores de edad actúe en su nombre su representante legal, con el fin de salvaguardar la voluntad de los fundadores en esta materia. Por último, se regula con la flexibilidad el ejercicio del cargo de patrono, permitiendo las delegaciones de voto siempre que se cumplan determinados requisitos.
+En materia de disposición de los bienes de las fundaciones, se ha optado por un régimen flexible consistente en la mera comunicación al Protectorado de tales negocios para su control a posteriori, en lugar del control «ex ante» por el Protectorado a través de la exigencia de autorización previa.
+Se crea el Consejo de Fundaciones de la Comunidad de Madrid en cuya composición, aparte de las Consejerías competentes en materia de Protectorado o Registro, se da entrada a las fundaciones de competencia de la Comunidad de Madrid. Sus funciones se centran en el asesoramiento y dictamen sobre las normas que haya de dictar la Comunidad de Madrid en materia de fundaciones, y la propuesta de actuaciones para la promoción, apoyo y fomento de tales fundaciones.
+Las disposiciones adicionales tienen por objeto: La primera, dar efectividad al ejercicio de las competencias de la Comunidad de Madrid en materia de fundaciones; las disposiciones segunda y tercera, a la regulación de determinadas situaciones peculiares que afectan a fundaciones o entes de tipología fundacional de titularidad de la Comunidad de Madrid, y la cuarta prevé el futuro marco de incentivación fiscal de todas las modalidades de participación privada en actividades de interés general en el ámbito territorial autonómico.
+La disposición transitoria prevé el plazo de adaptación a las disposiciones de la presente Ley.
+Las disposiciones finales, por último, regulan la entrada en vigor de la Ley y facultan al Consejo de Gobierno para su desarrollo reglamentario posterior.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+La presente Ley tiene por objeto la regulación de las fundaciones de competencia de la Comunidad de Madrid, por desarrollar principalmente sus funciones en su territorio.
+
+### Artículo 2
+
+Artículo 2. Normas rectoras.
+Las fundaciones objeto de la presente Ley se regirán por la voluntad de su fundador, por sus estatutos y, en todo caso, al amparo de lo previsto en el artículo 149.1 de la Constitución, por los preceptos de la legislación estatal de fundaciones que sean de aplicación general así como por la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Fines y beneficiarios.
+1. Las fundaciones deberán beneficiar a colectividades genéricas de personas y perseguir fines de interés general: Cívicos, educativos, culturales, de acción social, científicos, deportivos, sanitarios, de cooperación para el desarrollo, de defensa del medio ambiente, de apoyo a un modelo de desarrollo sostenible o fomento de la economía o la investigación, de promoción del voluntariado y respaldo a la igualdad de oportunidades entre hombres y mujeres o cualesquiera otros de naturaleza análoga.
+2. No podrán constituirse fundaciones con la finalidad de destinar sus prestaciones al cónyuge o parientes del fundador hasta el cuarto grado inclusive de consanguinidad o afinidad, o bien a quienes guarden idénticos lazos familiares o de parentesco con los patronos, directivos y administradores de las mismas. No obstante, tales familiares o parientes podrán ser beneficiarios de dichas prestaciones siempre que formen parte de las colectividades genéricas de personas destinatarias de la finalidad fundacional. En este caso los fundadores, patronos, directivos y administradores de los mismos se abstendrán de conocer en los procesos o decisiones previstas en el párrafo anterior, siendo nulas de pleno derecho las adjudicaciones o rentas con infracción de la presente disposición.
+3. Se exceptúa la aplicación de la prohibición señalada en el apartado anterior en el supuesto de que la fundación tenga como finalidad exclusiva o principal la conservación y/o gestión de los bienes del patrimonio histórico español, siempre que se cumplan las exigencias de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+
+### Artículo 4
+
+Artículo 4. Domicilio.
+1. Deberán estar domiciliadas en la Comunidad de Madrid las fundaciones que desarrollen principalmente sus actividades dentro de su territorio.
+2. Las fundaciones tendrán su domicilio social en el municipio donde se encuentre la sede de su órgano de gobierno.
+
+### Artículo 5
+
+Artículo 5. Dotación.
+1. La dotación estará constituida por el conjunto de bienes y derechos de cualquier clase que se afecten por el fundador o fundadores al cumplimiento de los fines fundacionales en el momento de la constitución, así como los que, con posterioridad a dicho acto se reciban con tal carácter, o, en su caso, se afecten como dotación por acuerdo del Patronato.
+2. La cuantía de la dotación habrá de fijarse en pesetas, tanto si consiste en dinero como si se tratase de aportaciones no dinerarias. En este segundo caso habrán de incluirse en la escritura correspondiente los criterios de valoración aplicados y su adecuada justificación.
+3. La realidad de las aportaciones se acreditará ante el Notario actuante.
+4. La aportación de la dotación podrá realizarse en forma sucesiva, en cuyo caso el desembolso inicial no será menor al 25 por 100 de la cuantía establecida. El resto deberá hacerse efectivo dentro del plazo de cinco años desde la constitución de la fundación, o en plazo no superior a diez años si su desembolso se asegura, desde el momento de la aportación, por cualquiera de los medios admitidos en derecho.
+5. El régimen establecido en el apartado anterior se aplicará asimismo a la dotación que consista en aportaciones realizadas por terceros.
+
+### Artículo 6
+
+Artículo 6. Informe del Protectorado previo a la inscripción constitutiva.
+1. La inscripción en el Registro de Fundaciones de la Comunidad de Madrid de las fundaciones objeto de la presente Ley requerirá preceptivamente informe favorable del Protectorado en cuanto a la persecución de fines de interés generalyaladeterminación de la suficiencia de la dotación.
+2. El plazo para emitir dicho informe será de tres meses. Si en dicho plazo no se hubiera producido el citado informe, se entenderá como informe positivo a los efectos registrables.
+
+### Artículo 7
+
+Artículo 7. Personalidad jurídica.
+Las fundaciones tendrán personalidad jurídica desde la inscripción de la escritura pública de su constitución en el Registro de Fundaciones de la Comunidad de Madrid.
+
+### Artículo 8
+
+Artículo 8. Acto fundacional mortis causa.
+En el acto fundacional mortis causa el fundador podrá otorgar por sí mismo la escritura pública o designar a las personas que hubieran de otorgarla. En caso de que el fundador se hubiese limitado a establecer su voluntad de crear una fundación y disponer de los bienes de la dotación, la escritura pública en la que se contengan los demás requisitos exigidos por esta Ley se otorgarán por la persona o personas a quienes en derecho corresponda la ejecución del testamento u otra disposición mortis causa, según la legislación civil aplicable.
+
+## TÍTULO I
+
+Normas especiales aplicables a las personas jurídico-públicas
+
+### Artículo 9
+
+Artículo 9. Capacidad para fundar.
+1. La capacidad para fundar se regirá por los preceptos de la legislación de fundaciones que sean de aplicación general al amparo de lo dispuesto en el artículo 149.1 de la Constitución.
+2. El ejercicio de esta competencia por la Comunidad de Madrid deberá ser autorizada por Decreto del Consejo de Gobierno, que determinará las condiciones que deba cumplir la creación de la persona jurídica fundacional.
+3. (Anulado).
+Se declara inconstitucional y nulo el apartado 3, por Sentencia del TC 120/2011, de 6 de julio. Ref. BOE-A-2011-13310.
+ Se suspende la vigencia y aplicación del apartado 3, desde el 9 de junio de 1998 para las partes en el proceso y desde el 25 de junio de 1998 para los terceros, por providencia del TC de 16 de junio de 1998, que admite a trámite el recurso de inconstitucionalidad 2564/1998. Ref. BOE-A-1998-15058.
+
+### Artículo 10
+
+Artículo 10. Responsabilidad de las fundaciones constituidas por personas jurídico-públicas.
+1. La dotación y el patrimonio de las fundaciones sujetas a la presente Ley y creadas por personas jurídico-públicas responden de las obligaciones de aquéllas en los términos del Derecho privado, y es incomunicable con el patrimonio de tales fundadoras.
+2. Se aplicará al personal dependiente de las fundaciones señaladas en el apartado anterior el mismo régimen jurídico previsto para las fundaciones constituidas por personas físicas o jurídicas privadas.
+3. Lo dispuesto en el apartado anterior se entiende sin perjuicio de que las fundaciones participadas mayoritariamente por la Administración de la Comunidad de Madrid o sus organismos públicos o demás entidades del sector público de la Comunidad de Madrid que tengan como fin u objeto social actividades de investigación científica y técnica o innovación se configuran como organismos de investigación públicos de la Comunidad de Madrid, pudiendo contratar personal investigador de acuerdo con las modalidades que al efecto aprueben las leyes estatales.
+Se añade el apartado 3 por el art. 15 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+
+## TÍTULO II
+
+Gobierno de las fundaciones
+
+### Artículo 11
+
+Artículo 11. Patronato.
+1. En toda fundación deberá existir, con la denominación de Patronato, un órgano de gobierno y representación de la misma.
+2. Corresponde al Patronato cumplir los fines fundacionales y administrar los bienes y derechos que integran el patrimonio de la fundación, manteniendo plenamente el rendimiento y utilidad de los mismos.
+
+### Artículo 12
+
+Artículo 12. Patronos.
+1. El Patronato estará constituido por un mínimo de tres miembros.
+2. Será Presidente del Patronato el miembro del mismo cuya designación como tal se haya previsto en la escritura de constitución o en los estatutos. A falta de esta previsión el Presidente será elegido por acuerdo de los patronos.
+3. El cargo de Secretario, cuando exista, podrá recaer en una persona que no sea miembro del Patronato, en cuyo caso tendrá voz pero no voto, en las reuniones de los órganos colegiados de la fundación, de conformidad con sus respectivos Estatutos.
+4. Podrán ser miembros del Patronato las personas físicas que tengan plena capacidad de obrar y no estén inhabilitadas para el ejercicio de cargos públicos. No obstante, cuando haya de ser miembro nato una persona sin tal capacidad, actuará en su nombre su representante legal. Las personas jurídicas podrán formar parte del Patronato, en cuyo caso deberán designar a la persona natural que las represente.
+5. Los patronos entrarán a ejercer sus funciones después de haber aceptado expresamente el cargo en documento público, en documento privado con firma notarialmente legitimada, por comparecencia personal ante el encargado del Registro de Fundaciones de la Comunidad de Madrid, o por cualquier motivo válido en derecho que deje constancia fidedigna.
+6. Los patronos ejercerán su cargo gratuitamente. Tendrán, no obstante, derecho a ser reembolsados de los gastos debidamente justificados que el desempeño de su función les ocasione.
+No obstante lo establecido en el párrafo anterior, y salvo que el fundador hubiese dispuesto lo contrario, el Patronato podrá fijar una retribución adecuada a aquellos patronos que presten a la fundación servicios distintos de los que implica el desempeño de las funciones que les corresponden como miembros del Patronato, previa autorización del Protectorado.
+7. El cargo de patrono, en caso de recaer en persona física, se ejercerá personalmente. No obstante lo anterior, los patronos podrán conferirse entre sí delegaciones de voto, por escrito y para una sesión específica del Patronato, en los supuestos de imposibilidad de asistencia a la misma.
+En el supuesto de patronos llamados a ejercer esa función por razón de su cargo, podrá actuar en su nombre la persona a la que corresponda su sustitución o aquella en la que se delegue expresamente.
+8. La sustitución de patronos, su suspensión y cese se inscribirán en el Registro de Fundaciones de la Comunidad de Madrid.
+Se modifica el apartado 6 por el art. 15.1 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 13
+
+Artículo 13. Delegación y apoderamientos.
+1. El Patronato podrá delegar sus facultades en uno o más de sus miembros, o en Comisiones específicas o previstas en los estatutos, salvo prohibición estatutaria. No podrán, sin embargo, ser objeto de delegación la aprobación de los presupuestos y cuentas de la fundación, ni los actos que requieran autorización del Protectorado.
+2. El Patronato podrá nombrar apoderados generales o especiales, en el marco de la legislación básica del Estado en materia de fundaciones, salvo prohibición estatutaria.
+3. En caso de delegación conjunta de facultades en dos o más miembros del Patronato, o de apoderamiento en dos o más personas, sus funciones y responsabilidad podrán ser mancomunadas o solidarias.
+4. Las delegaciones, los apoderamientos generales y su revocación deberán inscribirse en el Registro de Fundaciones de la Comunidad de Madrid.
+
+## TÍTULO III
+
+Patrimonio de las fundaciones
+
+### Artículo 14
+
+Artículo 14. Administración y disposición del patrimonio.
+La administración y disposición del patrimonio corresponderá al Patronato en la forma establecida en los estatutos y con sujeción a los preceptos de la legislación estatal en materia de fundaciones que sean de aplicación general al amparo de lo dispuesto en el artículo 149.1 de la Constitución y a la presente Ley.
+
+### Artículo 15
+
+Artículo 15. Titularidad de bienes y derechos.
+Las fundaciones deberán figurar como titulares de todos los bienes y derechos que integran su patrimonio, los cuales se harán constar en su inventario, y se inscribirán, en su caso, en los Registros correspondientes.
+
+### Artículo 16
+
+Artículo 16. Enajenación y gravamen.
+1. La enajenación o gravamen, compromiso en árbitros de equidad o transacción de los bienes y derechos integrantes de la dotación fundacional, o vinculados directamente al cumplimiento de los fines fundacionales o que, representen un valor superior al 20 por 100 del activo de la fundación que resulte del último balance anual, se comunicarán al Protectorado en el plazo de un mes a contar desde su formalización.
+2. (Derogado).
+3. El Protectorado exigirá y controlará el cumplimiento de las cargas impuestas sobre bienes para la realización de los fines de interés general.
+4. Los actos comprendidos en este artículo se harán constar en el Registro de Fundaciones. El Protectorado podrá exigir que se acrediten las condiciones y circunstancias concurrentes y, en su caso, ejercer las acciones de responsabilidad que corresponda contra los miembros de los órganos de gobierno.
+Se deroga el apartado 2 por la disposición derogatoria 2 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766.
+
+### Artículo 17
+
+Artículo 17. Herencias y donaciones.
+1. La aceptación de legados o donaciones con cargas que puedan desnaturalizar el fin fundacional requerirá la previa autorización del Protectorado.
+2. No se podrán repudiar herencias o legados ni dejar de aceptar donaciones sin la previa autorización del Protectorado o, en defecto de ésta, sin la aprobación judicial con audiencia del Ministerio público.
+Se declara inconstitucional y nulo el inciso destacado del apartado 2, por Sentencia del TC 341/2005, de 21 de diciembre. Ref. BOE-T-2006-837.
+Se declara inconstitucional y nulo el inciso destacado del apartado 2, por Sentencia del TC 341/2005, de 21 de diciembre. Ref. BOE-T-2006-837.
+
+## TÍTULO IV
+
+Funcionamiento y actividad de las fundaciones
+
+### Artículo 18
+
+Artículo 18. Principios de actuación.
+Las fundaciones están obligadas a:
+a) Dar información suficiente de sus fines y actividades para que sean conocidos por sus potenciales beneficiarios y demás interesados.
+b) Destinar efectivamente el patrimonio y sus rentas, de acuerdo con la presente Ley, y los estatutos de la fundación a los fines fundacionales establecidos.
+c) Actuar con criterios de imparcialidad y no discriminación en la determinación de los beneficiarios.
+
+### Artículo 19
+
+Artículo 19. Actividades económicas.
+1. Las fundaciones podrán desarrollar actividades económicas cuyo objeto esté relacionado con los fines fundacionales o sean complementarias o accesorias de las mismas, con sometimiento a las normas reguladoras de la defensa de la competencia.
+Además, podrán intervenir en cualesquiera actividades económicas a través de su participación en sociedades, con arreglo a lo previsto en los siguientes apartados.
+2. Las fundaciones podrán participar en sociedades mercantiles en las que no se responda personalmente de las deudas sociales. Cuando esta participación sea mayoritaria deberán dar cuenta al Protectorado en cuanto dicha circunstancia se produzca.
+3. Si la fundación recibiera por cualquier título, bien como parte de la dotación inicial, bien en un momento posterior, alguna participación en sociedades en las que deba responder personalmente de las deudas sociales, deberá enajenar dicha participación, salvo que, en el plazo máximo de un año, se produzca la transformación de tales sociedades en otras en las que quede limitada la responsabilidad de la fundación.
+Se modifica por el art. 15.2 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 20
+
+Artículo 20. Obtención de ingresos.
+Las fundaciones podrán obtener ingresos por sus actividades siempre que ello no implique una limitación injustificada del ámbito de sus posibles beneficiarios.
+
+### Artículo 21
+
+Artículo 21. Contabilidad, Auditoría y Plan de Actuación.
+1. Las fundaciones deberán llevar una contabilidad ordenada y adecuada a su actividad, que permita un seguimiento cronológico de las operaciones realizadas. Para ello llevarán necesariamente un Libro Diario y un Libro de Inventarios y Cuentas Anuales.
+2. El Presidente, o la persona que, conforme a los Estatutos de la fundación, o al acuerdo adoptado por sus órganos de gobierno corresponda, formulará las cuentas anuales, que deberán ser aprobadas en el plazo máximo de seis meses desde el cierre del ejercicio por el Patronato de la fundación.
+Las cuentas anuales, que comprenden el balance, la cuenta de resultados y la memoria, forman una unidad, deben ser redactadas con claridad y mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la fundación.
+La memoria, además de completar, ampliar y comentar la información contenida en el balance y en la cuenta de resultados, incluirá las actividades fundacionales, los cambios en sus órganos de gobierno, dirección y representación, así como el grado de cumplimiento del plan de actuación, indicando los recursos empleados, su procedencia y el número de beneficiarios en cada una de las distintas actuaciones realizadas, los convenios que, en su caso, se hayan llevado a cabo con otras entidades para estos fines, y el grado de cumplimiento de las reglas establecidas en el artículo 22 de la presente Ley.
+Las actividades fundacionales figurarán detalladas con los requisitos que reglamentariamente se establezcan. Igualmente, se incorporará a la memoria un inventario de los elementos patrimoniales, cuyo contenido se desarrollará reglamentariamente.
+3. Las fundaciones podrán formular sus cuentas anuales en los modelos abreviados cuando cumplan las circunstancias establecidas al respecto para las sociedades mercantiles. La referencia al importe neto de la cifra anual de negocios, establecida en la legislación mercantil, se entenderá realizada al importe del volumen anual de ingresos por la actividad propia, más, si procede, la cifra de negocios de su actividad mercantil.
+4. Reglamentariamente se desarrollará un modelo de llevanza simplificado de la contabilidad, que podrá ser aplicado por las fundaciones en las que, al cierre del ejercicio, se cumplan, al menos, dos de las siguientes circunstancias:
+a) Que el total de las partidas del activo no supere 150.000 euros. A estos efectos, se entenderá por total activo el total que figura en el modelo de balance.
+b) Que el importe del volumen anual de ingresos por la actividad propia, más, en su caso, el de la cifra de negocios de su actividad mercantil, sea inferior a 150.000 euros.
+c) Que el número medio de trabajadores empleados durante el ejercicio no sea superior a cinco.
+5. Existe obligación de someter a auditoría externa las cuentas anuales de todas las fundaciones en las que, a fecha de cierre del ejercicio, concurran al menos dos de las circunstancias siguientes:
+a) Que el total de las partidas del activo supere 2.400.000 euros.
+b) Que el importe neto de su volumen anual de ingresos por la actividad propia, más, en su caso, el de la cifra de negocios de su actividad mercantil sea superior a 2.400.000 euros.
+c) Que el número medio de trabajadores empleados durante el ejercicio sea superior a 50.
+La auditoría se contratará y realizará de acuerdo con lo previsto en la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, disponiendo los auditores de un plazo mínimo de un mes, a partir del momento en que les fueran entregadas las cuentas anuales formuladas, para realizar el informe de auditoría. El régimen de nombramiento y revocación de los auditores se establecerá reglamentariamente.
+6. En relación con las circunstancias señaladas en los apartados 3, 4 y 5 anteriores, éstas se aplicarán, teniendo en cuenta lo siguiente:
+a) Cuando una fundación, en la fecha de cierre del ejercicio, pase a cumplir dos de las citadas circunstancias, o bien cese de cumplirlas, tal situación únicamente producirá efectos en cuanto a lo señalado si se repite durante dos ejercicios consecutivos.
+b) En el primer ejercicio económico desde su constitución o fusión, las fundaciones cumplirán lo dispuesto en los apartados anteriormente mencionados si reúnen, al cierre de dicho ejercicio, al menos dos de las tres circunstancias que se señalan.
+7. Las cuentas anuales se aprobarán por el Patronato de la fundación y se presentarán al Protectorado dentro de los diez días hábiles siguientes a su aprobación. En su caso, se acompañarán del informe de auditoría. El Protectorado, una vez examinadas y comprobada su adecuación a la normativa vigente, procederá a depositarlas en el Registro de Fundaciones. Cualquier persona podrá obtener información de los documentos depositados.
+8. El Patronato elaborará y remitirá al Protectorado, en los últimos tres meses de cada ejercicio, un plan de actuación, en el que queden reflejados los objetivos y las actividades que se prevea desarrollar durante el ejercicio siguiente.
+9. Cuando se realicen actividades económicas, la contabilidad de las fundaciones se ajustará a lo dispuesto en el Código de Comercio, debiendo formular cuentas anuales consolidadas cuando la fundación se encuentre en cualquiera de los supuestos allí previstos para la sociedad dominante.
+En cualquier caso, se deberá incorporar información detallada en un apartado específico de la memoria, indicando los distintos elementos patrimoniales afectos a la actividad mercantil.
+Se modifica por el art. 15.3 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 22
+
+Artículo 22. Destino de rentas e ingresos.
+1. A la realización de los fines fundacionales deberá ser destinado, al menos, el 70 por 100 de los resultados de las explotaciones económicas que se desarrollen y de los ingresos que se obtengan por cualquier otro concepto, deducidos los gastos realizados, para la obtención de tales resultados o ingresos, debiendo destinar el resto a incrementar bien la dotación o bien las reservas según acuerdo del Patronato. Los gastos realizados para la obtención de tales ingresos podrán estar integrados, en su caso, por la parte proporcional de los gastos por servicios exteriores, de los gastos de personal, de otros gastos de gestión, de los gastos financieros y de los tributos, en cuanto que contribuyan a la obtención de los ingresos, excluyendo de este cálculo los gastos realizados para el cumplimiento de los fines estatutarios. El plazo para el cumplimiento de esta obligación será el comprendido entre el inicio del ejercicio en que se hayan obtenido los respectivos resultados e ingresos y los cuatro años siguientes al cierre de dicho ejercicio.
+En el cálculo de los ingresos no se incluirán las aportaciones o donaciones recibidas en concepto de dotación patrimonial en el momento de la constitución o en un momento posterior, ni los ingresos obtenidos en la transmisión onerosa de bienes inmuebles en los que la entidad desarrolle la actividad propia de su objeto o finalidad específica, siempre que el importe de la citada transmisión se reinvierta en bienes inmuebles en los que concurra dicha circunstancia.
+2. Se entiende por gastos de administración los directamente ocasionados por la administración de los bienes y derechos que integran el patrimonio de la fundación, y aquellos otros de los que los patronos tienen legalmente derecho a resarcirse de acuerdo con el artículo 12.6. Reglamentariamente se determinará la proporción máxima de dichos gastos.
+Los gastos de administración se especificarán debidamente en el apartado correspondiente de la memoria, diferenciando los reembolsados a los patronos y los abonados directamente por la fundación, sin perjuicio de su inclusión en las cuentas correspondientes.
+Se modifica por el art. 15.4 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 23
+
+Artículo 23. Autocontratación.
+Los patronos podrán contratar con la fundación, ya sea en nombre propio o de un tercero, previa autorización del Protectorado.
+
+## TÍTULO V
+
+Modificación, fusión y extinción de las fundaciones
+
+### Artículo 24
+
+Artículo 24. Modificación de los estatutos.
+1. La modificación o nueva redacción de los estatutos acordada por el Patronato, deberá ser comunicada al Protectorado, quien podrá oponerse por razones de legalidad y mediante acuerdo motivado, en el plazo máximo de tres meses a contar desde la notificación al mismo del correspondiente acuerdo del Patronato.
+2. Dicha modificación o nueva redacción de los Estatutos deberán ser formalizada en escritura pública e inscrita en el Registro de Fundación de la Comunidad de Madrid una vez notificada a la fundación por el Protectorado la no oposición, o transcurrido dicho plazo sin haberse pronunciado expresamente el Protectorado.
+3. (Anulado).
+Se declara inconstitucional y nulo el apartado 3, por Sentencia del TC 341/2005, de 21 de diciembre. Ref. BOE-T-2006-837.
+
+### Artículo 25
+
+Artículo 25. Fusión.
+1. El Patronato de las fundaciones, podrá acordar su fusión con otra u otras fundaciones, siempre que resulte conveniente en interés de todas ellas. La fusión requerirá el acuerdo de los Patronatos de las fundaciones interesadas, al que podrá oponerse el Protectorado por razones de legalidad por acuerdo motivado en el plazo de tres meses a contar desde la notificación de dichos acuerdos.
+2. La fusión se inscribirá en el Registro de Fundaciones de la Comunidad de Madrid.
+
+### Artículo 26
+
+Artículo 26. Extinción.
+El acuerdo o resolución judicial de extinción de las fundaciones deberá ser inscrito en el Registro de Fundaciones de la Comunidad de Madrid.
+
+### Artículo 27
+
+Artículo 27. Liquidación.
+1. El procedimiento de liquidación tras la extinción de las fundaciones, excepto en caso de fusión, se realizará por el Patronato bajo el control del Protectorado.
+2. A los bienes y derechos resultantes de la liquidación de una fundación extinguida se les dará el destino previsto por el fundador.
+Se declara la constitucionalidad del apartado 2, interpretado en los términos del fj. 7, por Sentencia del TC 341/2005, de 21 de diciembre de 2005. Ref. BOE-T-2006-837.
+3. En el supuesto de que el fundador no haya previsto este destino, el mismo será decidido, en primer término, por el Patronato, cuando tenga reconocida por el fundador esta facultad. A falta de ésta, corresponderá al Protectorado cumplir ese cometido.
+4. En los supuestos del apartado anterior tales bienes se destinarán, en todo caso, a las fundaciones, entidades no lucrativas privadas o entidades públicas que persigan fines de interés general, que desarrollen principalmente sus actividades en la Comunidad de Madrid, y que tengan afectados sus bienes, incluso en el supuesto de su disolución, a la consecución de tales fines.
+Se declara la constitucionalidad del apartado 2, interpretado en los términos del fj. 7, por Sentencia del TC 341/2005, de 21 de diciembre de 2005. Ref. BOE-T-2006-837.
+
+## TÍTULO VI
+
+El Protectorado y el Registro de Fundaciones de la Comunidad de Madrid
+
+### Artículo 28
+
+Artículo 28. Protectorado.
+1. El Protectorado es el órgano administrativo de asesoramiento, apoyo técnico y control de las fundaciones, que facilitará y promoverá el recto ejercicio del derecho de fundación y asegurará la legalidad de su constitución y funcionamiento.
+2. Al Protectorado le corresponden las siguientes funciones:
+a) Velar por el efectivo cumplimiento de los fines fundacionales de acuerdo con la voluntad del fundador y teniendo en cuenta la consecución del interés general.
+b) Asesorar a las fundaciones que se encuentren en trámite de constitución o ya inscritas, en cualquier asunto que se refiera a su régimen jurídico o económico, o a las actividades a realizar en cumplimiento de sus fines.
+c) Difundir la existencia y actividades de las fundaciones.
+d) Verificar si los recursos económicos de la fundación han sido aplicados a los fines fundacionales, pudiendo solicitar del Patronato la información que a tal efecto resulte necesaria, así como, en su caso, el informe pericial oportuno en los términos que reglamentariamente se establezca.
+e) Realizar el informe que establece el artículo 6 de esta Ley, pudiendo a tal fin el Protectorado exigir a la fundación la aportación de la documentación que precise.
+f) Cuantas otras funciones se establezcan en la legislación estatal de fundaciones que sea de aplicación general al amparo de lo previsto en el artículo 149.1 de la Constitución, en la presente Ley y en las demás que resulten de aplicación.
+3. El Protectorado se ejercerá por la Comunidad de Madrid, a través de las Consejerías que reglamentariamente se determine.
+4. En el ámbito de cada Consejería la titularidad del Protectorado corresponde al Consejero, sin perjuicio de la posibilidad de desconcentración de dicha titularidad o delegación del ejercicio de la competencia.
+Se modifica el apartado 2 por el art. 15.5 a 7 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 29
+
+Artículo 29. Autorizaciones.
+El plazo para resolver sobre la concesión de las autorizaciones previstas en la presente Ley, será de tres meses. Transcurrido dicho plazo sin que haya recaído resolución expresa, se podrán entender estimadas las solicitudes de autorización. El plazo para resolver se interrumpirá cuando la solicitud no reúna los requisitos necesarios o no se presente debidamente documentada y el Protectorado así lo estime mediante acto motivado que notificará al Patronato. El plazo comenzará a contar de nuevo desde el momento en que tales defectos u omisiones se hayan subsanado.
+
+### Artículo 30
+
+Artículo 30. Intervención temporal.
+La resolución judicial que decrete la intervención temporal de las fundaciones se inscribirá en el Registro de Fundaciones de la Comunidad de Madrid.
+
+### Artículo 31
+
+Artículo 31. Registro de Fundaciones de la Comunidad de Madrid.
+1. El Registro de Fundaciones de la Comunidad de Madrid, a cuyo cargo estará el funcionario encargado del Registro designado al efecto, dependerá de la Consejería a quien se asigne reglamentariamente, y tendrá por objeto la inscripción de dichas fundaciones, y de los actos que sean inscribibles conforme a los preceptos de la legislación estatal de fundaciones que sean de aplicación general al amparo de lo previsto en el artículo 149.1 de la Constitución, a la presente Ley y a las demás que resulten de aplicación.
+2. Las inscripciones deberán efectuarse en el plazo que reglamentariamente se determine.
+3. El Registro de Fundaciones será público. La publicidad se hará efectiva por certificación del contenido de los asientos expedida por el responsable del Registro, o por simple nota informativa o copia de los asientos.
+4. Los actos sujetos a inscripción y no inscritos no perjudicarán a terceros de buena fe. La buena fe del tercero se presume en tanto no se pruebe que conocía el acto sujeto a inscripción y no inscrito.
+5. La estructura y funcionamiento del Registro de Fundaciones de la Comunidad de Madrid se determinarán reglamentariamente.
+
+### Artículo 32
+
+Artículo 32. Cooperación entre Protectorado y Registro de Fundaciones de la Comunidad de Madrid.
+1. El Registro de Fundaciones de la Comunidad de Madrid comunicará al Protectorado todas las inscripciones que realice, pudiendo solicitar previamente información al mismo.
+2. El Protectorado y el Registro de Fundaciones de la Comunidad de Madrid se remitirán la información mutua que se soliciten.
+
+## TÍTULO VII
+
+Consejo de Fundaciones de la Comunidad de Madrid
+
+### Artículo 33
+
+Artículo 33. Creación.
+(Derogado)
+Se deroga por la disposición derogatoria única.h) de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629#dd.
+
+### Artículo 34
+
+Artículo 34. Funciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.h) de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629#dd.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. La Comunidad de Madrid, podrá requerir del Registro de Fundaciones de competencia estatal, y en tanto éste no se haya constituido, de los Protectorados estatales, la documentación e información relativa a las fundaciones domiciliadas en el territorio de la Comunidad de Madrid, al objeto de determinar su ámbito territorial de actividad.
+2. (Anulado).
+Se declara inconstitucional y nulo el apartado 2, por Sentencia del TC 120/2011, de 6 de julio. Ref. BOE-A-2011-13310.
+ Se suspende la vigencia y aplicación de los apartados 1, inciso final, y 2, desde el 9 de junio de 1998 para las partes en el proceso y desde el 25 de junio de 1998 para los terceros, por providencia del TC de 16 de junio de 1998, que admite a trámite el recurso de inconstitucionalidad 2564/1998. Ref. BOE-A-1998-15058.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. En el plazo de tres años, a contar desde la entrada en vigor de la presente Ley, por Decreto del Gobierno de la Comunidad de Madrid, se procederá a regularizar la situación de los entes de tipología fundacional cuya dirección, gestión o representación corresponda a la Comunidad de Madrid y de las fundaciones que se encuentren en los mismos supuestos, existentes a la entrada en vigor de la Ley 1/1998, de 2 de marzo, de Fundaciones de la Comunidad de Madrid.
+2. La regularización podrá consistir en su absorción e integración total o parcial en la Comunidad de Madrid o en cualquiera de sus entidades, en la absorción e integración total o parcial en otras entidades, en la transformación de entidades de otro tipo, en la extinción o en la adaptación a las disposiciones de la legislación estatal de fundaciones que sean de aplicación general, al amparo de lo previsto en el artículo 149.1 de la Constitución y de la Ley 1/1998, de 2 de marzo, de Fundaciones de la Comunidad de Madrid.
+3. La Comunidad de Madrid o, en su caso, sus Entidades o los terceros adquirentes, quedarán subrogados, a todos los efectos (y sin solución de continuidad), en todos los derechos, relaciones, acciones y obligaciones de tales entes de tipología fundacional o fundaciones.
+Se modifica por el art. 23 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Respecto de los entes transferidos de titularidad pública que tengan el carácter de fundaciones privadas o entes de tipología fundacional, el Consejo de Gobierno de la Comunidad de Madrid, mediante decreto, podrá optar bien por efectuar cualquiera de las operaciones señaladas en la disposición adicional anterior, en cuyo caso regirá asimismo la subrogación legal contemplada en la disposición adicional anterior, bien por mantener su peculiar carácter.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Sin perjuicio de los incentivos fiscales a la participación privada en actividades de interés general cuya regulación corresponde al Estado, la Comunidad de Madrid podrá, en el marco de la normativa estatal sobre cesión de tributos a las Comunidades Autónomas, y de las leyes estatales específicas de cesión de tributos a la misma, establecer nuevos incentivos fiscales a dicha participación, mediante norma con rango de Ley, bien se encause a través de fundaciones o asociaciones de utilidad pública que desarrollen principalmente sus actividades en la Comunidad de Madrid, bien a través de otras modalidades de asignación patrimonial a fines de interés general desarrollados en dicho ámbito territorial, bien a través de otras actividades o programas de mecenazgo, patrocinio o colaboración empresarial.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Las fundaciones preexistentes de competencia autonómica constituidas a fe y conciencia estarán sujetas a los preceptos de la presente Ley, salvo aquellos cuya aplicación suponga, en virtud de lo dispuesto expresamente por el fundador, el cumplimiento de una condición resolutoria que implique la extinción de la fundación.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+La legalización de los Libros de las fundaciones de competencia de la Comunidad de Madrid, que corresponde al Registro de Fundaciones, se llevará a cabo por el mismo, con independencia de que las mismas realicen o no actividades económicas.
+Se añade por el art. 15.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Serán de aplicación obligatoria a las fundaciones de competencia de la Comunidad de Madrid las normas de adaptación del Plan General de Contabilidad a las entidades sin fines lucrativos, así como las actualizaciones del mismo vigentes en cada momento, sin perjuicio de las especialidades que pueda establecer la Comunidad de Madrid.
+Se añade por el art. 15.9 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Fundaciones de carácter especial.
+Las Fundaciones de carácter especial a las que se refiere el artículo 6 del Real Decreto‑ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros, que se constituyan como consecuencia de la transformación de una Caja de Ahorros domiciliada en la Comunidad de Madrid, y las reguladas en el artículo 74.2 de la Ley 4/2003, de 11 de marzo, de Cajas de Ahorros de la Comunidad de Madrid, se regirán por lo dispuesto en la presente Ley con las especialidades establecidas en la Ley 4/2003, de 11 de marzo, y demás normativa aplicable, debiendo adaptar sus estatutos a lo dispuesto en las citadas normas y las que se dicten en desarrollo de las mismas.
+Se añade por la disposición final 1 de la Ley 1/2011, de 14 de enero. Ref. BOE-A-2011-11179.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las fundaciones que sean competencia de la Comunidad de Madrid deberán, en su caso, adaptar sus estatutos a las disposiciones de la presente Ley en el plazo de dos años a contar desde su entrada en vigor, o desde el momento en que la Comunidad de Madrid devenga competente.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las fundaciones que sean competencia de la Comunidad de Madrid deberán, en su caso, adaptar sus estatutos a las disposiciones de la presente Ley en el plazo de dos años a contar desde su entrada en vigor, o desde el momento en que la Comunidad de Madrid devenga competente.
+Se numera por el art. 15.10 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Su anterior denominación era disposición transitoria.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta tanto se produzca el desarrollo reglamentario del Plan de Actuación, las fundaciones de competencia de la Comunidad de Madrid seguirán presentando el presupuesto en el plazo de los tres meses anteriores al inicio del correspondiente ejercicio, y su liquidación junto con las cuentas anuales. Las fundaciones, que por ley estén obligadas a auditarse, utilizarán los modelos contenidos en el Real Decreto 776/1998, de 30 de abril, por el que se aprueban las normas de adaptación del Plan General de Contabilidad a las entidades sin fines lucrativos y las normas de información presupuestaria de dichas entidades.
+Se añade por el art. 15.10 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta tanto se produzca el desarrollo reglamentario de los preceptos de esta Ley, será de aplicación la normativa reglamentaria del Estado en todas aquellas materias que sean de competencia exclusiva de la Comunidad de Madrid.
+Se añade por el art. 15.11 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Lo dispuesto en el artículo 12, apartado 6, párrafo 2.º y en los artículos 21 y 22, en la redacción dada por la presente Ley, será de aplicación a las fundaciones que rindan cuentas con posterioridad a la entrada en vigor de esta Ley, respecto de los ejercicios contables que se inicien a partir de 1 de enero de 2003, sin perjuicio de lo dispuesto en la disposición transitoria segunda. Las restantes disposiciones entrarán en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+Se añade por el art. 15.12 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Hasta tanto se dote de medios adecuados al Registro de Fundaciones, la legalización de los Libros de las fundaciones de competencia de la Comunidad de Madrid se seguirá realizando por el Protectorado correspondiente.
+Se añade por el art. 15.13 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+2. Queda derogado expresamente el artículo 4.2 del Decreto autonómico 26/1996, de 29 de febrero, por el que se crea el Registro de Fundaciones de la Comunidad de Madrid.
+3. Queda derogado el Decreto 40/1999, de 11 de marzo, por el que se determinan las normas contables y de información presupuestaria aplicables a las fundaciones de competencia de la Comunidad de Madrid.
+Se añade el apartado 3 por el art. 15.14 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno de la Comunidad de Madrid para dictar cuantas normas reglamentarias sean precisas para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiendo asimismo publicarse en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 2 de marzo de 1998.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

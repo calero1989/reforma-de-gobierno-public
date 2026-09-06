@@ -1,0 +1,1066 @@
+# Ley 14/2010, de 3 de diciembre, de espectáculos públicos, actividades recreativas y establecimientos públicos.
+
+- Identificador BOE: `BOE-A-2010-20014`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-20014
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+I
+De acuerdo con la distribución de competencias prevista en la Constitución Española, corresponde a la Generalitat la atribución exclusiva en materia de espectáculos. Una facultad que fue recogida en el artículo 31.30 del Estatuto de Autonomía de la Comunitat Valenciana, aprobado por la Ley Orgánica 5/1982, de 1 de julio, y que, en la actualidad, contempla el artículo 49.1.30.ª de la Ley Orgánica 1/2006, de 10 de abril, de reforma de aquélla. En este marco, la transferencia material de dicha competencia tuvo lugar en virtud del Real Decreto 1040/1985, de 25 de mayo.
+La primera norma con rango de ley que reguló este ámbito fue la Ley 2/1991, de 18 de febrero, de la Generalitat, de Espectáculos, Establecimientos Públicos y Actividades Recreativas, una ordenación que estuvo vigente durante más de una década y que fue objeto de un amplio y diverso desarrollo reglamentario.
+Sin perjuicio de ello, y a pesar de las bondades que este régimen supuso, el dinamismo y el desarrollo implícitos que el sector servicios conlleva obligaron a promulgar una nueva ley destinada a completar y adaptar una regulación que el paso del tiempo había dejado obsoleta. Fruto de esta necesidad fue la entrada en vigor de la Ley 4/2003, de 26 de febrero, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos, una ley fundamentada sobre tres pilares básicos:
+1. Seguridad de personas y bienes como principio esencial que justifica toda la ordenación prevista en dicha norma.
+2. Régimen de autorización administrativa para la realización de espectáculos públicos, actividades recreativas y la apertura de establecimientos públicos.
+3. Un régimen sancionador eficaz destinado a procurar que la comisión de una infracción no resultare más ventajosa que el cumplimiento de las disposiciones legales vigentes.
+Esta normativa ha contribuido, sin duda, a favorecer una evolución positiva del sector servicios en la Comunitat Valenciana, coadyuvando a asentar un ámbito que, ahora mismo, ha pasado a ser uno de los grandes referentes en cuanto a productividad, rendimiento económico y creación de riqueza.
+II
+En este marco, resulta obvio, no obstante, que el sector que nos ocupa requiere y necesita de una regulación práctica y moderna que sea acorde con las necesidades cambiantes que toda sociedad presenta. Una regulación que fomente y promueva la iniciativa particular sin perder de vista, básicamente, la necesidad de velar por el interés general representado, en todo caso, por el principio de seguridad como piedra angular del modelo.
+Esta es la razón fundamental que justifica la Directiva 2006/123/CE, de 12 de diciembre, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior. Una Directiva que ha sido objeto de transposición al ordenamiento español en virtud de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, y que supone, para la Comunitat Valenciana, la necesidad de un cambio de ordenación dado el carácter básico de dicha norma.
+La Ley 17/2009, de 23 de noviembre, parte de una serie de premisas a tener en cuenta. Entre las más destacadas hay que señalar la libertad de establecimiento para el ejercicio de una actividad de servicios, la prelación de un régimen de comunicación o de declaración responsable ante el, hasta la fecha preferente, régimen de autorización administrativa, la apuesta por la simplificación procedimental y la facilitación de trámites al interesado, así como, de igual modo, la materialización de una política de calidad en la prestación de aquéllos.
+Todas estas premisas encuentran su acomodo en la presente ley, una norma que deroga la anterior Ley 4/2003, de 26 de febrero, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos,y que implica no sólo una interiorización de los principios planteados por la ley estatal, adaptándolos al sector servicios en su vertiente del ocio, sino, asimismo, una manifestación de la propia experiencia derivada de la aplicación de dicha Ley 4/2003, así como la asimilación de las inquietudes manifestadas por el propio sector, cuya evolución resulta innegable.
+En este sentido, el protagonismo de esta ley es para el ciudadano, para el interesado o, más técnicamente, para el titular o prestador, quien ostenta la facultad para dirigirse directamente a la administración competente, manifestando su deseo de ejercer una actividad empresarial. En contrapartida, la administración está obligada a facilitar las expectativas emprendedoras de las personas, a dotar de fluidez al procedimiento y a minimizar las trabas que puedan condicionar, en exceso, la apertura de un establecimiento público o la organización de un espectáculo o actividad recreativa.
+La novedad fundamental de esta ley es el cambio del procedimiento general para la realización de un espectáculo público y/o actividad recreativa así como, correlativamente, para la apertura de un establecimiento público.
+En este sentido, se procede a la sustitución (que no supresión) del, hasta ahora preponderante, régimen de autorización administrativa, por un modelo basado en la declaración responsable del titular o prestador. De hecho, este último pasa a ser el régimen general para la apertura de establecimientos públicos, quedando el régimen de autorización sólo para supuestos específicos en los que, objetivamente, puede darse una mayor situación de riesgo.
+No obstante ello, el principio de seguridad, entendido siempre como factor clave en este marco, hace que la administración no pueda, ni deba, quedar al margen de los procedimientos regulados en esta ley. Así, la labor de verificación y comprobación de las manifestaciones del interesado hacen que los órganos administrativos hayan de intervenir, aunque sea sólo de modo somero y, en todo caso, sometidos a límites destinados a no coartar la libre iniciativa de aquél.
+El resto de la regulación, una vez fijados los fundamentos troncales, discurre en la misma dirección: mayor autonomía para el titular o prestador, reducción de la intervención administrativa y exigencia del mantenimiento de las condiciones de seguridad y calidad para los espectáculos, actividades y establecimientos incluidos en el ámbito de aplicación de la ley.
+III
+En cuanto a la estructura formal de la presente ley, ésta se compone de 61 artículos agrupados en cinco títulos. Asimismo, cuanto con cuatro disposiciones adicionales, cinco disposiciones transitorias, una disposición derogatoria, dos disposiciones finales y un anexo donde se establece, sin carácter limitativo, el Catálogo de espectáculos públicos, actividades recreativas y establecimientos públicos.
+El título I está dedicado a las disposiciones generales. En él se identifican los conceptos esenciales a los que se dedica la regulación contemplada en la norma y que supone, en este ámbito, una adaptación a las definiciones previstas en la Ley 17/2009, de 23 de noviembre. De igual modo, se determinan las tres categorías que conforman el ámbito material de la norma, esto es, espectáculos públicos, actividades recreativas y establecimientos públicos.
+Asimismo, se prevén las exclusiones a la ley, los espectáculos y actividades prohibidos, las condiciones técnicas generales que deben ser observadas en virtud del mantenimiento de la seguridad, así como, finalmente, los principios de cooperación y colaboración administrativa.
+El título II contempla el régimen de apertura de los establecimientos públicos y de la celebración de espectáculos públicos y actividades recreativas. En este sentido, dicho título abre con un artículo en el que, ya desde el principio, se determina de manera evidente cuál va a ser el nuevo modelo general para la apertura u organización de aquéllos, y cuál el excepcional. De este modo, se define qué es declaración responsable de acuerdo con los criterios asumidos de la normativa básica estatal, y se configura este concepto como el pórtico para disposiciones posteriores.
+Seguidamente, este título se ordena en cuatro capítulos. El primero de ellos regula la distribución de competencias entre la Generalitat y los ayuntamientos en el marco que nos ocupa.
+Por su parte, el capítulo II constituye, como se ha indicado más arriba, la ordenación troncal que caracteriza y condiciona toda la regulación prevista en la ley. En este sentido, se establece el procedimiento general de apertura de los establecimientos públicos mediante declaración responsable, agilizando al máximo los trámites administrativos y procurando, en todo caso, que la puesta en funcionamiento de éstos no se retrase más allá de un mes desde la presentación de la documentación exigible.
+Como excepción se prevé, asimismo, otro procedimiento de apertura mediante autorización administrativa para aquellos establecimientos donde, por cuestiones de aforo o por sus condiciones intrínsecas, exista una especial situación de riesgo.
+Entre las consecuencias más notables derivadas de estos procedimientos destaca la desaparición de las licencias de actividad y de funcionamiento tal y como hasta ahora se conocían. De este modo aparece, únicamente, el título formal de licencia de apertura como título acreditativo del cumplimiento de la legalidad, lográndose, asimismo, una homogeneidad nominativa, así como una vuelta a los orígenes en cuanto a la calificación de esta licencia se refiere.
+De otro lado, este capítulo contempla, entre otros aspectos, el cambio de titularidad sin más trámite que una declaración formal ante el ayuntamiento, el régimen de compatibilidad de actividades cuando se pretendan efectuar en un establecimiento dos o más de aquéllas consideradas como incompatibles, la consideración de las actividades accesorias, la especialidad de las licencias excepcionales, el contenido de las licencias de apertura y su suficiencia como elemento informativo del establecimiento, así como, de igual modo, las licencias para instalaciones eventuales, portátiles o desmontables.
+El tercer capítulo, dedicado a otros requisitos y disposiciones, trata sobre la obligatoriedad del seguro de responsabilidad civil, la diferenciación entre ambientación y amenización musical, los carteles informativos que complementan el contenido de la licencia de apertura, el régimen de las terrazas, la apuesta por la calidad como elemento indispensable, la agilización de los trámites de información al ciudadano mediante un servicio de ventanilla única y el Registro de empresas y establecimientos.
+Por último, el capítulo IV se ocupa de los espectáculos y actividades extraordinarios, singulares o excepcionales, distinguiendo entre los que no implican situación de riesgo y los que sí lo entrañan. Para los primeros bastará con una declaración responsable para su realización, requiriéndose, para los citados en segundo término, una autorización administrativa.
+El título III regula la organización y desarrollo de los espectáculos públicos y actividades recreativas. Ordenado en dos capítulos, el primero de ellos trata sobre el ámbito subjetivo de la ley, esto es, de los titulares y prestadores, destinatarios, artistas y ejecutantes, así como de sus derechos y obligaciones. En este sentido, se hace especial hincapié en la necesidad de exigir entre las obligaciones de los destinatarios la participación en buenas condiciones en los espectáculos con evidente riesgo como es el caso de los festejos de bous al carrer. Una inclusión motivada por el evidente riesgo existente en este tipo de celebraciones y que, en determinadas circunstancias, es susceptible de agravamiento por una conducta inadecuada de aquéllos.
+El capítulo II, referido a otras disposiciones para el desarrollo del espectáculo o actividad, regula la reserva y derecho de admisión, las normas de protección a los menores, el horario de los establecimientos, espectáculos y actividades, la publicidad de éstos, así como el régimen de las entradas y su venta.
+El título IV aborda la ordenación del régimen de vigilancia e inspección y el régimen sancionador.
+En sus dos capítulos se mantiene la normativa hasta la fecha vigente, si bien adaptándola, cuando así proceda, a los postulados de la nueva ley. Es el caso de la dualidad de las actas inspectoras, distinguiéndose entre las derivadas de inspecciones efectuadas por las Fuerzas y Cuerpos de Seguridad o las levantadas por técnicos de la administración local y/o autonómica. Asimismo, se procede a la incorporación de las infracciones graves y muy graves a añadir a las hasta ahora previstas en virtud de las condiciones establecidas en los procedimientos y requisitos existentes. Es el caso de la participación de personas que no estén en condiciones físicas o psíquicas en festejos de bous al carrer, en correlación con la nueva obligación sectorial incluida en el precepto regulador de las obligaciones de los destinatarios.
+Por su parte, el título V hace referencia a los órganos consultivos de las administraciones públicas en este marco. Es el caso de la Comisión de Espectáculos Públicos y Actividades Recreativas de la Comunitat Valenciana, cuyo régimen y requisitos se desarrollarán por vía reglamentaria.
+De igual modo, se dispone en la disposición adicional cuarta de la ley la consideración como responsable, en los términos del artículo 48 del texto positivo, del participante en los festejos de bous al carrer cuando de su conducta se derive una actuación manifiesta de infracción administrativa. En este marco, la asunción de costes económicos será otra de las consecuencias de ese comportamiento contrario a la normativa vigente.
+Por último, además del resto de disposiciones adicionales, y de las disposiciones transitorias, derogatoria y finales, la ley prevé un anexo donde se recoge el Catálogo de espectáculos públicos, actividades recreativas y establecimientos públicos que, sin carácter exhaustivo, concreta el ámbito de aplicación a que se refiere la misma.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+1. La presente ley tiene por objeto, en el marco de las competencias de la Generalitat, regular los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos que se desarrollen o ubiquen en su territorio, con independencia de que los titulares o prestadores sean entidades públicas, personas físicas o jurídicas, tengan o no finalidad lucrativa, se realicen en instalaciones fijas, portátiles o desmontables, así como de modo habitual o esporádico.
+A los efectos de la presente ley, se entenderá por titular o prestador la persona física con la nacionalidad de cualquier Estado miembro, o residente legal en España, o cualquier persona jurídica o entidad constituida de conformidad con la legislación de un Estado miembro, cuya sede social o centro de actividad principal se encuentre dentro de la Unión Europea que, con ánimo de lucro o sin él, realice u organice un espectáculo público o una actividad recreativa o una actividad sociocultural o efectúe la explotación de un establecimiento público.
+Por su parte, se considerará como destinatario a los clientes, usuarios o público de los espectáculos públicos, actividades recreativas y establecimientos públicos.
+En función de lo dispuesto en esta ley, se entenderá por:
+a) Espectáculos Públicos: aquellos acontecimientos que congregan a un público que acude con el objeto de presenciar una representación, actuación, exhibición o proyección que le es ofrecida por una empresa, artistas o ejecutantes que intervengan por cuenta de ésta.
+b) Actividades recreativas: aquellas que congregan a un público que acude con el objeto principal de participar en la actividad o recibir los servicios que les son ofrecidos por la empresa con fines de ocio, entretenimiento y diversión.
+c) Actividades socioculturales: aquellas susceptibles de congregar a diferentes públicos que acuden con la finalidad de presenciar o participar en actividades sociales y culturales, y diferentes expresiones artísticas que pueden incluir representaciones con la intervención de artistas o ejecutantes.
+d) Establecimientos públicos: locales en los que se realizan los espectáculos públicos, las actividades recreativas y las actividades socioculturales, sin perjuicio de que estos espectáculos y actividades puedan ser desarrollados en instalaciones portátiles, desmontables o en la vía pública.
+2. Todas estas actividades, así como las relativas a espectáculos taurinos o deportivos, a establecimientos turísticos o a los propios de establecimientos y actividades de juego, se regirán por su normativa específica, cuando ésta exista. En todo lo no previsto en ella, será de aplicación supletoria la presente ley.
+3. En el catálogo del anexo de esta ley se clasifican, sin carácter exhaustivo, los espectáculos públicos, actividades recreativas y actividades socioculturales, así como los establecimientos públicos en los que aquellos se celebren y realicen.
+Se modifican los apartados 1 y 3 por el art. 3 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 2
+
+Artículo 2. Exclusiones.
+Sin perjuicio de cumplir con la normativa vigente en materia de seguridad ciudadana, se excluyen del ámbito de aplicación de la presente ley los actos privados que no estén abiertos a la pública concurrencia.
+
+### Artículo 3
+
+Artículo 3. Prohibiciones.
+Quedan prohibidos los espectáculos y actividades recreativas siguientes:
+1. Los que sean constitutivos de delito.
+2. Los que inciten o fomenten la violencia, el racismo, la xenofobia y cualquier otra forma de discriminación o que atenten contra la dignidad humana.
+3. Los que impliquen crueldad o maltrato para los animales, puedan ocasionarles sufrimiento o hacerles objeto de tratamientos antinaturales.
+4. Los festejos taurinos tradicionales de la Comunitat Valenciana que no se realicen de conformidad con su normativa específica.
+Se modifica por el art. 26 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+### Artículo 4
+
+Artículo 4. Condiciones técnicas generales.
+1. Los espectáculos públicos, actividades recreativas y establecimientos públicos deberán reunir las condiciones necesarias de seguridad, salubridad e higiene para evitar molestias al público asistente y a terceros y, especialmente, cumplir con aquellas que establece la normativa aplicable a las actividades molestas, insalubres, nocivas y peligrosas.
+2. Las anteriores condiciones deberán comprender, entre otras, las siguientes materias:
+a) Seguridad para el público asistente, trabajadores, ejecutantes y bienes.
+b) Condiciones de solidez de las estructuras y de funcionamiento de las instalaciones.
+c) Condiciones y garantías de las instalaciones eléctricas, especialmente luz y sonido, en locales de pública concurrencia.
+d) Prevención y protección de incendios y otros riesgos inherentes a la actividad, facilitando la accesibilidad de los medios de auxilio externos.
+e) Condiciones de salubridad, higiene y acústica, determinando expresamente las condiciones de insonorización de los locales necesaria para evitar molestias a terceros.
+f) Protección del medio ambiente urbano y natural.
+g) Condiciones de accesibilidad y goce para las personas con diversidad funcional de acuerdo con lo dispuesto en la normativa sobre accesibilidad y supresión de barreras arquitectónicas, y que posibiliten el disfrute real del espectáculo por parte de aquéllas. En este sentido, se realizarán las adaptaciones precisas en los locales e instalaciones en el plazo que reglamentariamente se establezca, de acuerdo con la citada ley.
+h) Plan de emergencia según las normas de autoprotección en vigor.
+3. Todos estos extremos podrán ser acreditados, si el interesado así lo considera oportuno, mediante la intervención de un organismo de certificación administrativa de los regulados en la Ley 8/2012, de 23 de noviembre, de la Generalitat por la que se regulan los organismos de certificación administrativa (OCA). En tal caso, el ciudadano interesado tendrá que aportar junto con su solicitud los informes, actas o dictámenes que el procedimiento requiera, emitidos por dichos OCA que acrediten todos y cada uno de los extremos que se han mencionado en el párrafo anterior. Todo ello, sin perjuicio de las potestades de comprobación e inspección propias de la administración, realizadas por los técnicos de la conselleria competente por razón de materia o por los técnicos municipales.
+Se añade el apartado 3 por el art. 113 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifican los apartados 1 y 2.c) y g) por el art. 4 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 5
+
+Artículo 5. Cooperación y colaboración administrativa.
+1. Las distintas administraciones públicas, en el ejercicio de sus propias competencias y de conformidad con lo previsto en la legislación vigente, se facilitarán la información que precisen en materia de espectáculos públicos, actividades recreativas y actividades socioculturales, y se prestarán recíprocamente la cooperación y asistencia activa que pudieran recabarse entre sí sobre tales materias.
+2. Los órganos de las administraciones autonómica y local, en el marco de sus respectivas competencias y de acuerdo con los principios de eficacia, coordinación, colaboración y lealtad institucional, velarán por la observancia de la normativa de espectáculos públicos, actividades recreativas y actividades socioculturales por medio de las siguientes funciones:
+a) Inspección de los establecimientos públicos.
+b) Control de la celebración de los espectáculos, actividades recreativas y actividades socioculturales y, en su caso, prohibición y suspensión de estos.
+c) Sanción de las infracciones tipificadas en la presente ley.
+3. Los ayuntamientos podrán solicitar la colaboración y el apoyo técnico que precisen de la Generalitat para la ejecución y desarrollo de lo previsto en esta ley. A estos efectos, se podrán suscribir los oportunos convenios de colaboración entre ambas administraciones.
+4. Cuando no se hayan suscrito los convenios a que se refiere el apartado anterior, los ayuntamientos que acrediten dificultades debidamente motivadas para llevar a cabo las funciones que la presente ley les atribuye podrán solicitar de la Generalitat que las asuma directamente.
+Se modifican los apartados 1 y 2 por el art. 5 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## TÍTULO II
+
+De la apertura de establecimientos públicos y de la realización de espectáculos públicos, actividades recreativas y actividades socioculturales
+Se modifica por el art. 6 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 6
+
+Artículo 6. De la declaración responsable y de la autorización.
+1. La celebración de espectáculos públicos, actividades recreativas y actividades socioculturales y la apertura de establecimientos públicos a que se refiere la presente ley requerirán la presentación de una declaración responsable por parte del interesado o, en su caso, de autorización administrativa, cuando proceda, con el cumplimiento de los trámites y requisitos a los que se refieren los capítulos II, III y IV de este título.
+A los efectos de esta ley, se considerará como declaración responsable el documento suscrito por un titular o prestador en el que manifiesta, bajo su exclusiva responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para la organización de un espectáculo público, actividad recreativa y actividades socioculturales y/o para la apertura de un establecimiento público; que dispone de la documentación que así lo acredita, y que se compromete a mantener su cumplimiento durante la vigencia de aquellos.
+2. La declaración responsable, efectuada de acuerdo con lo establecido en esta ley, habilitará, de acuerdo con los requisitos procedimentales previstos, para el ejercicio de los espectáculos públicos, actividades recreativas y actividades socioculturales indicados en ella y para la apertura de establecimientos públicos.
+Para la realización de otro u otros distintos a los manifestados se requerirá una nueva declaración responsable.
+Se modifica por el art. 7 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 6 bis
+
+Artículo 6 bis. Procedimiento único.
+1. El procedimiento para la apertura de los establecimientos públicos en los que se celebren espectáculos públicos y/o actividades recreativas o socioculturales será el regulado en la presente ley de acuerdo con lo dispuesto en los artículos 9 y 10.
+2. No obstante, los informes y certificaciones incluidos en dicho procedimiento, así como los controles, informes y régimen sancionador determinados en las distintas normativas sectoriales relacionados con aquél, serán, en todo caso, competencia de los órganos administrativos que los tengan atribuidos como propios por la normativa sectorial correspondiente.
+Se modifica el apartado 1 por el art. 8 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Se añade por la disposición final 2 de la Ley 8/2012, de 23 de noviembre. Ref. BOE-A-2012-14979#dfsegunda.
+ Téngase en cuenta que ya había sido añadida por el Decreto-ley 4/2012, de 29 de junio
+ Se añade por la disposición final 2 del Decreto-ley 4/2012, de 29 de junio. Ref. DOCV-r-2012-90010.
+
+## CAPÍTULO I
+
+De las competencias de las administraciones públicas
+
+### Artículo 7
+
+Artículo 7. Autorizaciones competencia de la Administración autonómica.
+1. Corresponde a la Generalitat, por medio de sus órganos con atribuciones en materia de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos, la competencia sobre los siguientes espectáculos y actividades:
+a) Los espectáculos públicos o actividades recreativas o deportivas cuya realización se efectúe o su desarrollo discurra por más de un término municipal de la Comunitat Valenciana.
+b) Los espectáculos con animales. Se entenderán por tales aquellos en los que los mismos sean parte esencial o indispensable para su realización, salvo que para su celebración se requiera la utilización de la vía pública o se realicen en espacios abiertos.
+c) Los espectáculos taurinos y los festejos taurinos tradicionales (bous al carrer), que se regirán por su normativa específica.
+d) Los espectáculos públicos, actividades recreativas y actividades socioculturales de carácter extraordinario, entendiendo por tales aquellos que sean distintos de los indicados en la licencia referida a un establecimiento público, de acuerdo con lo regulado en el catálogo del anexo de esta ley para cada tipo de actividad.
+e) Aquellos que se desprendan de esta ley y de la normativa de desarrollo de la misma y así quede reglamentariamente determinado.
+2. A los efectos de esta ley se entenderá que un espectáculo o actividad se realiza en vía pública cuando tenga lugar en las calles, plazas, caminos o sitios donde pueda transitar o circular el público.
+Asimismo, se entenderá que un espectáculo o actividad se realiza en espacio abierto cuando tenga lugar en parques, jardines, solares, explanadas u otros lugares equivalentes, públicos o privados, patrimoniales o demaniales, delimitados o no por vallados, paredes o similares sean estos eventuales o fijos. Se incluirán en este concepto las superficies de la zona marítimo-terrestre, incluyendo las zonas portuarias, cuando así corresponda según las indicadas características.
+Se modifica el apartado 1 por el art. 9 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Se modifica por el art. 26 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+### Artículo 8
+
+Artículo 8. Autorizaciones competencia de los ayuntamientos.
+Corresponde a los ayuntamientos, por medio de sus órganos con atribuciones en materia de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos, la competencia sobre los siguientes espectáculos y actividades:
+1. Las actividades recreativas, socioculturales o deportivas cuyo desarrollo discurra dentro de su término municipal.
+2. Los espectáculos públicos, actividades recreativas y actividades socioculturales que se realicen en el municipio con motivo de la celebración de las fiestas locales y/o patronales, así como ciclos de especial interés cultural o turístico, requieran o no la utilización de vía pública.
+Se entenderán por ciclos de especial interés cultural o turístico, las actividades o espectáculos que se desarrollen a lo largo del tiempo durante días, consecutivos o no, semanas y/o meses, que cuenten con una programación sucesiva de eventos que conformen su contenido o bien, asimismo, de uno solo cuya duración exceda del carácter ocasional o particular propio de los espectáculos o actividades extraordinarios.
+Se considera que un evento excede del carácter ocasional o particular cuando su duración sea superior a cinco días consecutivos. En caso de celebración en días no consecutivos, se considerará ciclo cuando la programación sea de más de tres días dentro de un período de una semana natural.
+3. Los espectáculos públicos, actividades recreativas y actividades socioculturales, con o sin animales, que para su celebración requieran la utilización de vía pública.
+4. Los espectáculos públicos y actividades recreativas que se efectúen en espacios abiertos salvo las excepciones que se prevean en legislación sectorial.
+5. Los espectáculos públicos y actividades recreativas que, contemplados en la normativa de espectáculos públicos, se efectúen en establecimientos o recintos cuya licencia sea distinta a la regulada por dicha normativa. Se incluirán en este apartado las licencias comerciales, urbanísticas y cualesquiera otras previstas en el ordenamiento jurídico.
+6. El otorgamiento de la licencia de apertura, de acuerdo con los procedimientos previstos en esta ley.
+7. Aquéllos que se desprendan de esta ley y de la normativa de desarrollo de la misma y así quede reglamentariamente determinado.
+La realización de los espectáculos y actividades a que se refiere este artículo precisará, en todo caso, la suscripción por los organizadores de un contrato de seguro de responsabilidad civil por daños al público asistente y a terceros de acuerdo con lo regulado en la presente ley y en la cuantía determinada reglamentariamente.
+Se modifica el apartado 2 por el art. 200 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 10 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Se modifica por el art. 26 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+## CAPÍTULO II
+
+Procedimiento para la apertura de establecimientos públicos
+
+### Artículo 9
+
+Artículo 9. Procedimiento de apertura mediante declaración responsable.
+1. Para desarrollar cualquiera de las actividades contempladas en el ámbito de aplicación de la presente ley será necesaria la presentación, ante el ayuntamiento del municipio de que se trate, de una declaración responsable en la que, al menos, se indique la identidad del titular o prestador, la ubicación física del establecimiento público, la actividad recreativa, la actividad sociocultural o el espectáculo público ofertado y manifieste, bajo su exclusiva responsabilidad, que se cumple con todos los requisitos técnicos y administrativos previstos en la normativa vigente para proceder a la apertura del local.
+2. Junto a la declaración responsable citada en al apartado anterior se deberá aportar, como mínimo, la siguiente documentación:
+a) Proyecto de obra y actividad conforme a la normativa vigente firmado por técnico competente y visado, si así procediere, por colegio profesional.
+b) En su caso, copia de la declaración de impacto ambiental o de la resolución sobre la innecesariedad de sometimiento del proyecto a evaluación de impacto ambiental, si la actividad se corresponde con alguno de los proyectos sometidos a evaluación ambiental.
+c) Asimismo, en el supuesto de la ejecución de obras, se presentará certificado final de obras e instalaciones ejecutadas, firmados por técnico competente y visados, en su caso, por el colegio oficial correspondiente, acreditativo de la realización de las mismas conforme a la licencia. En el supuesto de que la implantación de la actividad no requiera la ejecución de ningún tipo de obras, se acompañará el proyecto o, en su caso, la memoria técnica de la actividad correspondiente.
+d) Certificado expedido por una entidad que disponga de la calificación de organismo de certificación administrativa (OCA) por el que se acredite el cumplimiento de todos y cada uno de los requisitos técnicos y administrativos exigidos por la normativa en vigor para la apertura del establecimiento público.
+Los organismos de certificación administrativa (OCA) deberán cumplir con las condiciones y requisitos establecidos en la Ley 8/2012, de la Generalitat, que regula los organismos de certificación administrativa, o en la norma que en un futuro pueda sustituirla.
+Alternativamente, un certificado emitido por un técnico u órgano competente y visado, si así procede, por el colegio profesional, en el que se acredite el cumplimiento de los requisitos establecidos en la normativa vigente para la realización del espectáculo público o actividad recreativa de que se trate.
+e) Certificado que acredite la suscripción de un contrato de seguro, en los términos indicados en la presente ley.
+f) Copia del resguardo por el que se certifica el abono de las tasas municipales correspondientes.
+3. El ayuntamiento, una vez recibida la declaración responsable y la documentación anexa indicada, procederá a registrar de entrada dicha recepción en el mismo día en que ello se produzca, entregando copia al interesado. Asimismo, dispondrá la publicación de la información básica relativa a ubicación, destino y características del establecimiento, así como la identificación del solicitante, conforme a los principios de publicidad activa.
+4. Si la documentación incluyera el certificado de un organismo de certificación administrativa (OCA) referido en el punto d del apartado 2, la apertura del establecimiento podrá realizarse de manera inmediata. Sin perjuicio de ello, el ayuntamiento podrá proceder en cualquier momento a realizar una inspección.
+En el caso que se realice esta inspección, si se comprueba en ese momento o en otro posterior la inexactitud o falsedad de cualquier dato, manifestación o documento de carácter esencial presentado o que no se ajusta a la normativa en vigor, el ayuntamiento podrá decretar la imposibilidad de continuar con el ejercicio de la actividad, sin perjuicio de las responsabilidades penales, civiles o administrativas en que hubieren incurrido el promotor, titular o prestador de la misma, técnico redactor y, en su caso, el organismo de certificación administrativa (OCA).
+Asimismo, la resolución del ayuntamiento que declare tales circunstancias podrá determinar la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un plazo de tres meses.
+A los efectos de esta ley, se considerará como dato, manifestación, o documento de carácter esencial tanto la declaración responsable como la documentación anexa a que se refiere el apartado 2 de este artículo.
+5. En el caso de que no se presente un certificado emitido por un organismo de certificación administrativa (OCA), el ayuntamiento inspeccionará el establecimiento para acreditar la adecuación de este y de la actividad al proyecto presentado por el titular o prestador, en el término máximo de un mes desde la fecha de registro de entrada de la declaración responsable. En este sentido, una vez realizada la visita de comprobación y verificado el cumplimiento de los extremos anteriores, el ayuntamiento expedirá el acta de comprobación favorable, validando la declaración responsable presentada, que permitirá la apertura del establecimiento de manera inmediata.
+Si la visita de comprobación no tuviera lugar en el plazo citado, el titular o prestador podrá, así mismo, bajo su responsabilidad, abrir el establecimiento, previa comunicación al órgano correspondiente.
+Esta apertura no exime al consistorio de efectuar la visita de comprobación. En este caso, si se detectara una inexactitud o falsedad de carácter esencial, el ayuntamiento podrá decretar la imposibilidad de continuar con el ejercicio de la actividad, sin perjuicio de las responsabilidades penales, civiles o administrativas en que hubieren incurrido el promotor, titular o prestador de la misma, técnico redactor y, en su caso, el organismo de certificación administrativa (OCA).
+Asimismo, la resolución del ayuntamiento que declare tales circunstancias podrá determinar la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un plazo de tres meses.
+6. Los municipios que, por sus circunstancias, no dispongan de equipo técnico suficiente para efectuar la visita de comprobación prevista deberán, en virtud de lo indicado en el artículo 5 de esta ley, acogerse al régimen de cooperación y colaboración administrativa con otras entidades locales o con la administración autonómica para este cometido.
+7. Reglamentariamente se podrá establecer un procedimiento especial para los establecimientos que se ubiquen dentro del ámbito de actividades declaradas expresamente de interés general, o celebradas en el marco de acontecimientos considerados como tales.
+Se modifica por el art. 11 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Se modifica por la disposición final 1 de la Ley 2/2012, de 14 de junio. Ref. BOE-A-2012-9062#dfprimera.
+ Téngase en cuenta para su aplicación lo previsto en el art. 5 de la citada Ley 2/2012, de 14 de junio. Ref. BOE-A-2012-9062#a5.
+ Se modifica por la disposición final 1 del Decreto-ley 2/2012, de 13 de enero. Ref. DOCV-r-2012-90009.
+
+### Artículo 10
+
+Artículo 10. Procedimiento de apertura mediante autorización administrativa.
+1. Sin perjuicio de lo regulado en el precepto anterior, para la apertura de establecimientos públicos con aforo superior a 1.000 personas o en aquellos en que así se indique expresamente en esta ley, se seguirá el procedimiento previsto en este artículo.
+2. La persona titular o prestadora cuyo establecimiento se halle en el supuesto de este artículo presentará ante el ayuntamiento de la localidad correspondiente el proyecto elaborado por el personal técnico competente y, si así procediere de acuerdo con la normativa en vigor, visado por colegio profesional. Cuando sea necesaria la realización de obras, la tramitación de la licencia de apertura y la de obras se efectuará conjuntamente. El ayuntamiento, de acuerdo con el proyecto presentado, emitirá los informes oportunos donde se haga constar que el mismo se ajusta a:
+a) La normativa en materia de planes de ordenación urbana y demás normas de competencia municipal.
+b) La normativa sobre actividades con incidencia ambiental.
+c) La normativa sobre instalaciones en locales de pública concurrencia.
+d) La normativa contra la contaminación acústica.
+e) La normativa en materia de espectáculos públicos, actividades recreativas, socioculturales y establecimientos públicos.
+f) La normativa en materia de accesibilidad.
+Una vez emitidos, el ayuntamiento remitirá el proyecto de actividad, junto con la documentación anexa que establezca el reglamento de esta ley, a los órganos competentes de la Generalitat en materia de Espectáculos y, cuando proceda, en materia de intervención ambiental, con el objeto de que se evacuen los informes referentes al cumplimiento de las condiciones generales técnicas a las que se refiere el artículo 4 de esta ley.
+Estos informes serán vinculantes cuando sean desfavorables o cuando establezcan condiciones de obligado cumplimiento de acuerdo con la normativa técnica en vigor. No obstante, se entenderán favorables cuando el ayuntamiento no haya recibido comunicación expresa en el plazo de un mes desde la recepción del expediente por el órgano autonómico. Las consecuencias de la emisión de informe fuera de plazo se determinarán por vía reglamentaria.
+Una vez recibido el informe, el ayuntamiento comunicará a la persona interesada, mediante resolución expresa, los requisitos o condicionamientos técnicos a cumplir para el posterior otorgamiento de la licencia de apertura.
+Cuando dicha persona interesada considere que ha cumplido con las obligaciones exigidas, lo comunicará formalmente al ayuntamiento, quien, previo registro de entrada de tal comunicación girará visita de comprobación en el plazo de un mes.
+Si el resultado de la visita de comprobación es conforme con los requisitos y condiciones exigidos, el ayuntamiento otorgará licencia de apertura, denegándola en caso contrario.
+En el supuesto de que el ayuntamiento no girase la referida visita en el plazo indicado, la persona interesada bajo su responsabilidad, previa notificación al consistorio podrá abrir el establecimiento público.
+No obstante, no será necesario girar visita de comprobación cuando la persona interesada aporte ante el ayuntamiento certificación favorable de un organismo de certificación administrativa (OCA). En este supuesto, el interesado podrá proceder a la apertura del establecimiento con carácter provisional, previa comunicación a aquel, quien otorgará licencia de apertura con los efectos permanentes que de ello se deriven.
+El procedimiento a que se refiere el presente apartado no podrá exceder de tres meses, a contar desde la presentación del proyecto por la persona titular o prestadora en el ayuntamiento hasta el otorgamiento de la licencia de apertura.
+3. No obstante lo previsto en el apartado anterior, la persona interesada podrá presentar junto al proyecto de actividad un informe elaborado por un OCA en el que queden constatados los términos referidos en el apartado precedente, así como, igualmente, su adecuación a las condiciones generales técnicas previstas en el artículo 4 de esta ley y, en su caso, a lo previsto en la Ley 6/2014, de 25 de julio, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana.
+Este informe emitido por el OCA, de acuerdo con lo establecido en el artículo 4.3 de esta ley, cuando sea favorable, tendrá la misma validez y efectos que los informes técnicos emitidos por los servicios municipales o los evacuados por el órgano técnico de la Generalitat sin que sea necesaria la emisión de informe por parte de los mismos. En todo caso, no obstante, se atenderá a lo dispuesto en el artículo 2.2 de la Ley 8/2012, de 23 de noviembre, por la que se regulan los organismos de certificación administrativa.
+Una vez recibido el informe del OCA, el ayuntamiento comunicará a la persona interesada, mediante resolución expresa, los requisitos o condicionamientos técnicos a cumplir para el posterior otorgamiento de la licencia de apertura.
+Cuando dicha persona interesada considere que ha cumplido con las obligaciones exigidas en la resolución señalada en el párrafo anterior, lo comunicará formalmente al ayuntamiento, quien en su caso otorgará la licencia de apertura. La comunicación deberá ir acompañada de certificado de OCA acreditativo del cumplimiento de los requisitos y condiciones necesarios para tal apertura, así como el documento-resumen referido en la Ley 8/2012, de 23 de noviembre.
+Se modifica por el art. 201 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 2 por el art. 114 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifican los apartados 1 y 2 por el art. 12 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 11
+
+Artículo 11. Modificaciones sustanciales.
+Será necesaria una nueva licencia para modificar la clase de actividad, proceder a un cambio de emplazamiento o para realizar una reforma sustancial de los locales, establecimientos e instalaciones.
+Se entenderá por modificación sustancial todo cambio o alteración que, previsto reglamentariamente, implique una reforma que afecte a la seguridad, salubridad o peligrosidad del establecimiento.
+
+### Artículo 12
+
+Artículo 12. Cambio de titularidad.
+1. Cualquier cambio en la titularidad de un establecimiento público precisará de declaración formal ante el ayuntamiento de la localidad en el que aquél se ubique, sin que sea necesario el otorgamiento de nueva licencia municipal. Dicho cambio de titularidad deberá comunicarse en el plazo de un mes desde que se hubiera formalizado por cualquier medio de los admitidos en derecho.
+2. La notificación del cambio de titularidad deberá estar suscrita por el transmitente y por el adquirente del establecimiento. Caso contrario, dicha comunicación no tendrá validez para el ayuntamiento, respondiendo ambos solidariamente por el incumplimiento de esta obligación.
+3. Una vez declarado el cambio de titularidad, la administración municipal lo comunicará al órgano autonómico competente en la materia para su conocimiento y efectos.
+
+### Artículo 13
+
+Artículo 13. Compatibilidad de actividades.
+1. Se considerarán actividades compatibles, a los efectos de esta ley, aquellas que sean equivalentes en cuanto a horario, dotaciones o público que pueda acceder a las mismas.
+En el caso de que un establecimiento se dedicara a varias actividades compatibles definidas por separado en el Catálogo del anexo, se deberán hacer constar en la licencia de apertura cada una de ellas. De igual modo, si el local o recinto contara con varios espacios de uso diferenciados, deberá expresarse el aforo respectivo correspondiente a cada uno de los mismos.
+2. El titular o prestador que desee efectuar dos o más actividades que difieran en cuanto a horario, dotaciones o público deberá solicitar oportuna autorización de compatibilidad de la conselleria competente en materia de espectáculos. Dicha autorización establecerá las condiciones y requisitos necesarios para la posterior apertura del establecimiento.
+El procedimiento por el que se otorga la compatibilidad se regulará reglamentariamente.
+3. No será aplicable lo que dispone este artículo cuando en un establecimiento público se efectúen actividades complementarias o accesorias de la actividad principal, siempre que, en virtud de esto, aquellas no suponen una desnaturalización o desvirtualización. En este sentido, se considerarán actividades complementarias o accesorias aquellas que implican una actuación en directo destinada a la animación o a la amenización de los clientes, usuarios o público.
+Las actividades citadas podrán consistir en o incluir actuaciones musicales, siempre y cuando el prestador cuente con un título habilitante para la actividad principal que incorpore ambientación musical y en el desarrollo de las actividades complementarias o accesorias y se respeten las limitaciones acústicas impuestas por dicho título habilitante así como la normativa acústica vigente.
+Se modifica el apartado 3 por el art. 13 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 14
+
+Artículo 14. Licencias excepcionales.
+1. Excepcionalmente, y por motivos de interés publico acreditados en el expediente, los ayuntamientos podrán otorgar licencias de apertura, previo informe favorable del órgano autonómico competente en materia de espectáculos, en edificios inscritos en el Inventario General del Patrimonio Cultural Valenciano o en los catálogos de edificios protegidos que así figuren en el planeamiento municipal, cuyas características arquitectónicas no permitan el pleno cumplimiento de las condiciones técnicas establecidas con carácter general, siempre que quede garantizada la seguridad y salubridad del edificio y la comodidad de las personas y se disponga del seguro exigido por la presente ley.
+2. Con independencia de lo anterior, se tendrán en cuenta las autorizaciones, informes y comunicaciones exigibles en virtud de lo dispuesto en la Ley reguladora del patrimonio cultural valenciano.
+3. La tramitación de las licencias a que se refiere este precepto se efectuará de acuerdo con el procedimiento previsto en el artículo 10 de esta ley.
+
+### Artículo 15
+
+Artículo 15. Contenido de las licencias de apertura.
+1. En la resolución del otorgamiento de la licencia de apertura se harán constar, en los dos idiomas oficiales en la Comunitat Valenciana, al menos, los siguientes datos:
+a) Nombre, razón social, número de identificación y domicilio de los titulares o prestadores del espectáculo público, actividad recreativa, actividad sociocultural o establecimiento público.
+b) Emplazamiento y denominación del establecimiento.
+c) Aforo máximo del establecimiento.
+d) Actividad o espectáculo declarado o, en su caso, autorizado según lo dispuesto en el Catálogo del anexo.
+e) Los demás requisitos y condiciones consideradas esenciales en función de la tipología del establecimiento.
+2. La licencia de apertura otorgada por el ayuntamiento será suficiente para acreditar la actividad, condiciones y características del establecimiento público, sin que sea necesaria la exhibición de un cartel específico para ello. A estos efectos, la licencia se expondrá en un lugar visible y fácilmente accesible.
+3. En cuanto a la publicidad del resto de requisitos y condiciones exigidas en esta ley, se atenderá a lo dispuesto en la regulación de los carteles informativos.
+Se modifica el apartado 1.a) por el art. 14 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 16
+
+Artículo 16. Revocación y caducidad de la licencia.
+1. La licencia sólo será efectiva en las condiciones y para las actividades que expresamente se determinen.
+Determinará la revocación de la licencia, previo procedimiento con audiencia al interesado, el incumplimiento de los requisitos o condiciones en virtud de los cuales se otorgó aquélla, así como, en particular, la no realización de las inspecciones periódicas obligatorias o, en su caso, la falta de adaptación a las novedades introducidas por normas posteriores en los plazos previstos para ello.
+Este procedimiento se sobreseerá si el interesado subsana la irregularidad que motivó la apertura del mismo. No obstante, podrá no tenerse en cuenta dicho sobreseimiento caso de reiteración o reincidencia en el incumplimiento por parte de aquél.
+2. La inactividad durante un periodo ininterrumpido de seis meses podrá determinar la caducidad de la licencia, que será declarada, en todo caso, previa audiencia del interesado y de manera motivada.
+No obstante, cuando el desarrollo normal del espectáculo o actividad suponga periodos de interrupción iguales o superiores a los seis meses, el plazo de inactividad determinante de la caducidad será de doce a dieciocho meses. Este plazo se fijará en la resolución de otorgamiento de la licencia de apertura.
+
+### Artículo 17
+
+Artículo 17. Licencias de apertura para instalaciones eventuales, portátiles o desmontables.
+1. Precisarán de declaración responsable ante el ayuntamiento correspondiente las actividades recreativas, actividades socioculturales o espectáculos públicos que, por su naturaleza, requieran la utilización de instalaciones o estructuras eventuales, portátiles o desmontables de carácter no permanente.
+2. Asimismo, precisarán de dicha declaración, los espectáculos y actividades que con carácter temporal pretendan desarrollarse en instalaciones portátiles o desmontables.
+3. Para la realización de lo previsto en los apartados anteriores deberán cumplirse las condiciones técnicas establecidas en el artículo 4 de esta ley, así como la disponibilidad del seguro obligatorio en términos análogos a lo indicado para instalaciones fijas.
+4. Corresponderá a los ayuntamientos comprobar la adecuación entre lo declarado por los interesados y el cumplimiento de lo dispuesto en este artículo, a los efectos de otorgar la licencia de apertura. Se exceptúa el caso en el que a la declaración responsable y documentación anexa se acompañe certificado de Organismo de Certificación Administrativa (OCA), en cuyo supuesto se podrá iniciar directamente la actividad.
+5. Los ayuntamientos podrán exigir la constitución de una fianza, en la cuantía que se fije reglamentariamente, con el fin de que los titulares o prestadores respondan de las posibles responsabilidades que pudieren derivarse. En este caso, la fianza será devuelta, previa solicitud, a los interesados cuando cesen en la actividad para la que se otorgó la licencia y tras la comprobación de la no existencia de denuncias fundadas, actuaciones previas abiertas, procedimientos sancionadores en trámite o sanciones pendientes de ejecución.
+Se modifica el apartado 1 por el art. 15 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## CAPÍTULO III
+
+Otros requisitos y disposiciones
+
+### Artículo 18
+
+Artículo 18. Seguros.
+1. Los titulares o prestadores que realicen espectáculos públicos, actividades recreativas y actividades socioculturales o abran establecimientos públicos, deberán suscribir un contrato de seguro que cubra la responsabilidad civil por daños al público asistente y a terceros. En todo caso, cuando la actividad autorizada se celebre en un local o establecimiento público o instalación, este seguro deberá incluir, además, el riesgo de incendio, daños al público asistente o a terceros derivados de las condiciones del local o de la instalación, así como los daños al personal que preste sus servicios en estos. La cuantía del seguro se determinará reglamentariamente.
+2. Con independencia de la modalidad contractual que se adopte para suscribir el seguro previsto en este artículo, los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos deberán estar cubiertos en la cuantía mínima exigida por la norma reglamentaria de manera individualizada para cada local.
+Se modifica por el art. 16 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 19
+
+Artículo 19. Ambientación y amenización musical.
+1. El titular o prestador del establecimiento que vaya a instalar o a tener ambientación musical por cualquier medio, deberá hacerlo constar expresamente en la declaración responsable que presente el titular o prestador en el ayuntamiento.
+Se excepciona de este requisito a los establecimientos públicos que, de acuerdo con lo establecido en el Catálogo del anexo de esta ley, deban de tener ambientación musical en función de su tipología y actividad. La instalación o tenencia de ambientación musical deberá ser compatible con lo dispuesto en la legislación vigente sobre contaminación acústica, con las ordenanzas municipales sobre la materia y con los acuerdos plenarios adoptados en las demarcaciones de zonas acústicamente saturadas, si los hubiere.
+2. Si el establecimiento posee ambientación musical, o la emisión de música fuera su actividad principal, ya sea por medios humanos o mecánicos, deberá constar específicamente en la licencia el límite máximo de dB(A) permitido de acuerdo con lo dispuesto en la normativa vigente en materia de contaminación acústica.
+3. Los establecimientos que, de acuerdo con lo indicado en el Catálogo del anexo de esta ley, no incluyan la ambientación musical como parte de su actividad principal, podrán, como actividad accesoria y siempre que no se altere la naturaleza de aquellos, incorporar elementos destinados a la amenización musical, siempre y cuando el equipo instalado no permita, por sus propios medios, superar un nivel de presión acústica superior a los máximos previstos para niveles de recepción externa según la normativa vigente en la materia minorados en 5 dB(A). En este sentido, deberá acreditarse técnicamente el cumplimiento de los valores máximos de recepción tanto en el interior como en el exterior de aquellos.
+
+### Artículo 20
+
+Artículo 20. Carteles informativos.
+1. Los establecimientos públicos que establezcan limite de edad para el acceso a los mismos, condiciones particulares de admisión, normas particulares o instrucciones de uso, limitaciones de consumo de tabaco, venta de alcohol y tabaco así como otras cuestiones equivalentes, deberán informar de estas cuestiones mediante la exposición de uno o varios carteles indicativos ubicados, en todo caso, en lugar visible y fácilmente legible desde el exterior.
+2. También requerirán de cartel o carteles informativos el horario de apertura y cierre, la existencia de hojas de reclamaciones y los datos identificativos del establecimiento a efectos de reclamaciones o peticiones de información.
+3. Las características de estos carteles se determinarán por norma reglamentaria.
+
+### Artículo 21
+
+Artículo 21. Terrazas.
+1. Los establecimientos que deseen disponer de terrazas o instalaciones al aire libre o en la vía pública, anexas al establecimiento principal, deberán obtener el correspondiente permiso municipal, que podrá limitar el horario de uso de estas instalaciones y, en todo caso, la práctica de cualquier actividad que suponga molestias para los vecinos.
+2. No se podrán solicitar ni conceder licencias o autorizaciones para este tipo de instalaciones accesorias sin que previamente se haya obtenido la licencia de apertura del establecimiento. No obstante, aunque no se haya formalizado dicha licencia por el ayuntamiento, el titular o prestador podrá solicitar la ubicación de tales instalaciones si se ostenta el derecho a abrir el local de acuerdo con lo dispuesto en esta ley.
+
+### Artículo 22
+
+Artículo 22. Calidad de los servicios.
+1. Los titulares o prestadores podrán elaborar una Carta de Calidad para su espectáculo, actividad o establecimiento público, donde se recojan, con el carácter de mínimo, los condicionamientos y garantías que aquéllos deben cumplir de acuerdo con los derechos de los clientes, usuarios o público asistente a obtener una prestación óptima.
+En este sentido, se cumplirá con este requisito cuando se produzca la participación en cartas o etiquetas de calidad elaboradas por organizaciones empresariales o profesionales, cualquiera que sea su ámbito territorial de actuación.
+2. La Carta de Calidad será expuesta en un lugar de fácil visibilidad y legibilidad.
+
+### Artículo 23
+
+Artículo 23. Información al ciudadano.
+1. Los titulares o prestadores tendrán derecho a obtener de las administraciones competentes la oportuna información sobre la viabilidad y requisitos de las licencias y autorizaciones en función de las actividades que pretendan realizar.
+A tal efecto, se constituirá un servicio de ventanilla única en cuya virtud, de manera electrónica y a distancia, el interesado pueda obtener la información sobre los procedimientos necesarios para el acceso a una actividad prevista en esta ley así como para la realización de los trámites preceptivos para ello.
+2. Las administraciones públicas podrán solicitar información sobre la existencia de procedimientos sancionadores en trámite o de sanciones pendientes de ejecución. Dicha solicitud y su contestación deberán respetar lo dispuesto en la normativa reguladora de protección de datos.
+
+### Artículo 24
+
+Artículo 24. Registro de empresas y establecimientos.
+1. En la conselleria competente en materia de espectáculos públicos existirá un registro de empresas y establecimientos destinados a la realización de espectáculos públicos y actividades recreativas y socioculturales.
+2. A tal fin, los ayuntamientos deberán remitir a la conselleria, en el plazo de diez días a partir de su concesión, copia de las licencias y demás autorizaciones, así como las modificaciones y alteraciones que se produzcan al respecto.
+Reglamentariamente se determinará la información que deberán facilitar las entidades locales y empresas para su inscripción en dicho registro.
+Se modifica el apartado 1 por el art. 17 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## CAPÍTULO IV
+
+De los espectáculos y actividades extraordinarios, singulares o excepcionales
+
+### Artículo 25
+
+Artículo 25. Espectáculos y actividades extraordinarios.
+1. Los espectáculos y actividades extraordinarios que se pretendan realizar con carácter ocasional o particular en un establecimiento público, siempre que no supongan una modificación de las condiciones técnicas generales citadas en el artículo 4 de esta ley y, en especial, una alteración de la seguridad del local o recinto, un aumento de aforo sobre el inicialmente previsto o una instalación de escenarios o tinglados, serán objeto de declaración responsable ante el órgano competente de la Generalitat a efectos informativos.
+2. Por su parte, los espectáculos y actividades extraordinarios que conlleven una modificación de las condiciones técnicas generales, una alteración de la seguridad, un aumento de aforo sobre el previsto o impliquen la instalación de escenarios o tinglados, serán objeto de solicitud ante el órgano competente de la Generalitat a efectos de pertinente autorización.
+La documentación anexa que debe acompañar a la solicitud y el plazo de presentación, así como el resto de requisitos de procedimiento exigibles, se determinarán por vía reglamentaria.
+3. El número de espectáculos o actividades extraordinarios que pueden efectuar los establecimientos abiertos a la pública concurrencia será de doce anuales. El número podrá ser incrementado por razones de interés turístico o análogo debidamente justificadas.
+Se añade el apartado 3 por el art. 202 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 26
+
+Artículo 26. Espectáculos y actividades singulares o excepcionales.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+## TÍTULO III
+
+Organización y desarrollo de los espectáculos públicos, actividades recreativas y actividades socioculturales
+Se modifica por el art. 18 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## CAPÍTULO I
+
+Ámbito subjetivo
+
+### Artículo 27
+
+Artículo 27. De los titulares o prestadores.
+1. Se entenderá que es titular o prestador la persona física o jurídica que efectúe la declaración responsable o, en su caso, quien realice la solicitud de autorización, así como quien efectúe los trámites previstos en esta ley para la celebración de un espectáculo público o actividad recreativa o actividad sociocultural.
+2. En defecto de lo previsto en el apartado anterior, se entenderá que es titular o prestador quien convoque o dé a conocer la celebración de un espectáculo público o actividad recreativa o actividad sociocultural o, en su caso, quien obtenga o reciba ingresos por venta de entradas para los mismos.
+3. Cuando se trate de personas jurídicas, habrán de estar constituidas legalmente e inscritas en los registros públicos correspondientes, siendo, en otro caso, titulares y responsables, a los efectos de la presente ley, de forma directa y solidaria, sus administradores y socios.
+Se modifican los apartados 1 y 2 por el art. 19 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 28
+
+Artículo 28. Domicilio a los efectos de notificaciones.
+En defecto del que expresamente se haya señalado como domicilio a los efectos de notificaciones, tendrá tal carácter el que figure en la declaración responsable presentada o, en su caso, el del establecimiento en que se desarrolle el espectáculo o actividad.
+
+### Artículo 29
+
+Artículo 29. Obligaciones de los titulares o prestadores.
+Los titulares o prestadores estarán obligados solidariamente a:
+1. Adoptar las medidas de seguridad y salubridad previstas con carácter general o especificadas en la licencia o, en su caso, autorización, manteniendo en todo momento los establecimientos e instalaciones en perfecto estado de funcionamiento.
+2. Realizar las inspecciones periódicas que sean obligatorias de acuerdo con la normativa vigente.
+3. Permitir y facilitar las inspecciones que acuerden las autoridades competentes.
+4. Poner a disposición de los destinatarios de los servicios un número de teléfono, dirección postal, número de fax o dirección de correo electrónico a los efectos de recibir reclamaciones o peticiones de información.
+5. Tener hojas de reclamaciones a disposición de los usuarios, público o destinatarios de los servicios así como de los servicios de inspección.
+6. Disponer en lugar visible al publico y perfectamente legible la siguiente información:
+a) Número de teléfono, dirección postal, número de fax o dirección de correo electrónico a efectos de reclamaciones o peticiones de información.
+b) Existencia de hojas de reclamaciones
+c) Cartel de horario de apertura y cierre
+d) Copia de la licencia municipal de apertura
+e) En su caso:
+1.º Observar las medidas previstas en esta ley en cuanto a la entrada de menores a espectáculos de música en vivo y otros de cariz cultural, así como las limitaciones de entrada y/o prohibición de consumo de alcohol y tabaco, de conformidad con la legislación vigente.
+2.º Condiciones de admisión.
+3.º Normas particulares o instrucciones para el normal desarrollo del espectáculo o actividad.
+7. Permitir la entrada del público, salvo en aquellos supuestos establecidos legal y reglamentariamente.
+8. Comunicar a las administraciones competentes las modificaciones que se produzcan en relación con la identidad y domicilio de los representantes del titular de la actividad, en el plazo de quince días a partir de que se produzcan.
+9. Realizar el espectáculo o actividad de acuerdo con las condiciones ofertadas, salvo caso de fuerza mayor.
+10. Establecer un servicio de admisión y, cuando proceda, un servicio específico de admisión y de vigilancia en los supuestos señalados reglamentariamente.
+11. Informar las variaciones de orden, fecha o contenido del espectáculo o actividad a realizar, en los lugares en que habitualmente se fije la propaganda y en los despachos de localidades.
+12. Adecuar los establecimientos públicos a las necesidades de las personas discapacitadas, de acuerdo con la normativa vigente.
+13. Concertar y mantener vigente el oportuno contrato de seguro en los términos que se determine reglamentariamente.
+14. Devolver el importe total de las entradas antes la suspensión sin causa justificada de un espectáculo público, actividad recreativa o actividad sociocultural.
+15. Cumplir todas las obligaciones que además de las anteriormente señaladas, imponga la normativa aplicable en esta materia.
+Se renumera el apartado 14 como 15 y se añade el 14 por el art. 203 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica el apartado 6 por el art. 20 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 30
+
+Artículo 30. Artistas o ejecutantes.
+1. Se consideran artistas o ejecutantes, a los efectos de la presente ley, a aquellas personas que intervengan o presenten el espectáculo ante el público, para su recreo y entretenimiento, independientemente de que lo hagan con o sin derecho a retribución.
+2. Los artistas tendrán la obligación de:
+a) Realizar su actuación conforme las normas que la regulen en cada caso.
+b) Guardar el debido respeto al público.
+3. La intervención de artistas menores de edad estará sometida a las condiciones y permisos que establezca la normativa laboral y de protección del menor.
+
+### Artículo 31
+
+Artículo 31. Derechos de los destinatarios.
+El destinatario tiene derecho a:
+1. Que la empresa respete los términos contractuales derivados de la adquisición de las correspondientes localidades.
+2. Que la empresa le facilite el número de teléfono, dirección postal, número de fax o dirección de correo electrónico así como las hojas de reclamaciones para hacer constar en las mismas la reclamación o petición que estime pertinente.
+3. Ser informado a la entrada sobre las condiciones de admisión.
+4. No recibir un trato desconsiderado ni discriminatorio.
+5. A la devolución del importe total de las entradas ante la suspensión sin causa justificada de un espectáculo público, actividad recreativa o actividad sociocultural.
+Se añade el apartado 5 por el art. 204 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 32
+
+Artículo 32. Obligaciones de los destinatarios.
+1. El destinatario deberá:
+a) Ocupar sus localidades o permanecer en las zonas que se señalen en cada caso para el público, clientes o usuarios, sin invadir las áreas destinadas a otros fines.
+b) Abstenerse de portar armas u otros objetos que puedan usarse como tales, así como exhibir símbolos, prendas u objetos que inciten a la violencia o supongan apología de actividades contrarias a los derechos fundamentales reconocidos en la Constitución y, en especial, que inciten al racismo, a la xenofobia y/o a la discriminación sexual o por orientación sexual.
+c) Respetar la prohibición de fumar en los establecimientos cerrados destinados a espectáculos y actividades recreativas de acuerdo con la normativa en vigor.
+d) Cumplir los requisitos o normas de acceso y admisión establecidas con carácter general por la empresa y dados a conocer mediante carteles visibles colocados en los lugares de acceso.
+e) Abstenerse de acceder al escenario o lugar de actuación de ejecutantes o artistas, salvo que este previsto en el desarrollo del propio espectáculo.
+f) Cumplir las instrucciones y normas particulares establecidas por la empresa para el desarrollo del espectáculo o actividad.
+g) Respetar el horario de cierre.
+h) Guardar la debida compostura y evitar acciones que puedan crear situaciones de peligro o incomodidad al público en general y al personal de la empresa o dificultar el desarrollo del espectáculo o actividad.
+i) No participar en los festejos taurinos tradicionales (bous al carrer) cuando no se esté en las debidas condiciones físicas o psíquicas. Quedará incluido en este supuesto la manifiesta falta o disminución de la capacidad física o psíquica ocasionada por la ingestión de alcohol u de otro tipo de sustancias tóxicas.
+2. El titular o prestador podrá adoptar sus propias medidas preventivas para, en el marco de los derechos constitucionales, asegurar el correcto desarrollo del espectáculo público, actividad recreativa o actividad sociocultural o el uso del servicio en los términos establecidos en la presente ley. Cuando se observe el incumplimiento de las prohibiciones y limitaciones expuestas, podrá solicitar el auxilio de los agentes de la autoridad, quienes dispondrán, en su caso, el desalojo de los infractores, sin perjuicio de las acciones legales que correspondan.
+Se modifican los apartados 1.b) y 2 por el art. 21 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## CAPÍTULO II
+
+Otras disposiciones para el desarrollo del espectáculo o actividad
+
+### Artículo 33
+
+Artículo 33. Reserva y derecho de admisión.
+1. A los efectos de esta ley, se entenderá por reserva de admisión la facultad de los titulares o prestadores de impedir el acceso y permanencia en un establecimiento público motivado, en todo caso, por razones objetivas que puedan impedir el normal desarrollo del espectáculo o actividad o supongan la vulneración de la normativa vigente.
+En este marco, los titulares o prestadores deberán impedir el acceso a personas que manifiesten comportamientos violentos, puedan producir molestias a otros espectadores o usuarios, o bien dificulten el normal desarrollo del espectáculo o actividad.
+2. Se entenderá por derecho de admisión, a los efectos de esta ley, la facultad de los titulares o prestadores para determinar las condiciones de acceso y permanencia en un establecimiento público de acuerdo con los límites fijados por la normativa en vigor.
+Las condiciones de admisión, cuando difieran de las reglamentariamente autorizadas, deberán ser visadas y aprobadas por el órgano competente en materia de espectáculos de la Generalitat y figurar de forma fácilmente legible en lugar visible a la entrada, así como, en su caso, en las taquillas y en todos los puntos de venta de entradas o localidades de los establecimientos públicos. También deberán figurar las condiciones de admisión, de forma fácilmente legible, en la publicidad o propaganda del espectáculo, actividad recreativa o actividad sociocultural de que se trate, así como en las localidades o entradas, siempre que ello fuera posible.
+3. Del mismo modo, los titulares o prestadores podrán establecer instrucciones o normas particulares para el normal desarrollo del espectáculo o actividad. El régimen de estas será equivalente al previsto para las condiciones de admisión.
+4. Todos los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos contarán con un servicio de admisión destinado a verificar la reserva y el derecho previstos en este artículo.
+5. Los titulares o prestadores deberán establecer un servicio específico de admisión en aquellos espectáculos públicos, actividades recreativas y establecimientos públicos que se prevean reglamentariamente.
+6. El ejercicio del derecho de admisión no podrá implicar ningún tipo de discriminación de acuerdo con lo dispuesto en el artículo 14 de la Constitución española.
+Se modifican los apartados 2 y 4 por el art. 22 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 34
+
+Artículo 34. Protección del menor.
+1. Los menores de edad, sin perjuicio de las limitaciones establecidas en las disposiciones específicas que así lo prevean, estarán sujetos a las siguientes restricciones de acceso y permanencia en espectáculos públicos, actividades recreativas y establecimientos públicos:
+a) Queda prohibida la entrada y permanencia de los menores de dieciocho años en casinos de juego, salas de bingo y salones de juego que dispongan de máquinas con premios en metálico tipo B o C, de acuerdo con lo establecido en la Ley reguladora del juego de la Comunitat Valenciana.
+b) Queda prohibida la entrada y permanencia de los menores de dieciocho años en establecimientos donde se efectúen, exhiban o realicen actividades no calificadas para menores, o se acceda, por cualquier tipo de medio, a material o información no apto para los mismos.
+c) Los y las menores de dieciséis años podrán acceder a salas de conciertos y espectáculos de música en directo siempre que se contemplen las medidas de seguridad adecuadas, con la autorización del padre o madre o tutor/a legal, así como la normativa por lo que respecta a la protección de los menores.
+Los y las menores de catorce años deberán ir acompañados del padre y/o madre, tutor o tutora legal.
+La entrada y permanencia de los menores en espectáculos y actividades de cualquier tipo, incluidos los musicales, y en establecimientos públicos donde tengan lugar acontecimientos de este cariz, estarán determinadas por el derecho de admisión del organizador o titular en función del contenido del espectáculo ofrecido.
+Cuando acabe la actuación, las personas menores de edad no podrán permanecer en el establecimiento.
+d) Con excepción de lo indicado en el apartado anterior, queda prohibida la entrada y permanencia de menores de dieciséis años en salas de fiesta, discotecas, salas de baile y pubs cuando estos establecimientos realicen su actividad ordinaria o habitual prevista en la licencia.
+Se excluirá también de esta limitación a los establecimientos que organicen sesiones para menores de edad, en las que se permitirá la entrada y permanencia de mayores de catorce años y menores de dieciocho. Los requisitos de estas sesiones se regularán reglamentariamente.
+e) Las demás prohibiciones o restricciones previstas en la normativa reguladora de la protección integral de la infancia y adolescencia.
+2. A los menores de dieciocho años que accedan a establecimientos de espectáculos, actividades recreativas y actividades socioculturales no se les podrá vender, suministrar ni permitir el consumo de bebidas alcohólicas.
+En cuanto al tabaco, se estará a lo dispuesto en la legislación vigente en materia de drogodependencia y trastornos adictivos.
+3. La publicidad de establecimientos, espectáculos, actividades recreativas y actividades socioculturales deberá respetar los principios y normas contenidas en la normativa vigente en materia de publicidad no sexista, drogodependencia y trastornos adictivos. Queda prohibida cualquier forma de promoción o publicidad que incite a los menores de manera directa o indirecta al consumo de bebidas alcohólicas o tabaco mediante la promesa de regalos, bonificaciones o cualquier otra ventaja de naturaleza análoga, o que implique discriminación sexual.
+4. Asimismo, la publicidad de establecimientos, espectáculos, actividades recreativas y actividades socioculturales destinada a menores de edad no podrá referirse ni contener, directa o indirectamente, mensajes ni referencias que no sean aptas ni estén calificadas para los mismos.
+5. Sin perjuicio de lo dispuesto en los apartados anteriores, y en particular de lo previsto en el apartado 1.b, se permitirá el acceso y permanencia de menores de edad en espectáculos públicos y actividades recreativas de carácter deportivo reglado, incluidos aquellos que impliquen contacto físico entre los participantes, siempre que se cumplan las siguientes condiciones:
+a) Que los menores de dieciséis años accedan acompañados de su padre, madre, tutor o tutora legal, o persona adulta expresamente autorizada por estos.
+b) Que los menores de edad entre dieciséis y dieciocho años cuenten con autorización escrita de su padre, madre, tutor o tutora legal.
+c) Que la organización del espectáculo o actividad establezca y aplique medidas específicas de derecho de admisión relativas al control de acceso y permanencia de los menores en el establecimiento, garantizando en todo caso su seguridad y protección.
+d) Que se respeten las limitaciones relativas al consumo de alcohol y tabaco para los menores de edad de acuerdo con la normativa sectorial vigente.
+En todo caso, la organización deberá informar de las condiciones de admisión del evento en toda la publicidad del mismo y proceder a su difusión a través de los canales de divulgación que se empleen.
+Se modifica por el art. 44.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el apartado 1 por el art. 37 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifica por el art. 23 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 35
+
+Artículo 35. Horario.
+1. El horario general de apertura y cierre de los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos referidos en la presente ley se determinará, con carácter anual, por orden de la conselleria competente de la Generalitat, oída la Comisión de Espectáculos Públicos y Actividades Recreativas de la Comunitat Valenciana.
+2. La orden de horarios anual deberá establecer además la siguiente previsión:
+a) Los supuestos en que los municipios, atendiendo a las peculiaridades de las poblaciones, condiciones de insonorización, afluencia turística o duración de los espectáculos, pueden autorizar ampliaciones de horario.
+b) Los supuestos en que la conselleria con competencia en la materia puede establecer ampliaciones al horario general de los establecimientos que, por su ubicación, atiendan las necesidades de usuarios y trabajadores nocturnos.
+c) Los supuestos en los que la conselleria competente y las corporaciones locales pueden establecer reducciones al horario general.
+d) La antelación con que los locales y establecimientos deberán estar abiertos antes de que den comienzo los espectáculos.
+3. Lo establecido en los apartados anteriores se entiende sin perjuicio de las disposiciones legales vigentes en materia de contaminación ambiental y acústica.
+4. Sin perjuicio de las disposiciones legales existentes en materia de contaminación ambiental y acústica, los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos, de acuerdo con los epígrafes del catálogo del anexo a la citada Ley 14/2010, de 3 de diciembre, podrán ejercer su actividad dentro de los horarios de apertura y cierre establecidos para cada uno de ellos en los siguientes apartados:
+Grupo B. Apertura: 12.00 horas; cierre: 04.00 horas.
+Cafés teatro.
+Cafés concierto.
+Cafés cantante.
+Pubs y karaokes.
+Se modifica el apartado 2.a) y se añade el 4 por los arts. 208 y 209 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican los apartados 1 y 2.a) por el art. 24 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 36
+
+Artículo 36. Publicidad.
+1. La publicidad que se realice para la celebración de espectáculos públicos, actividades recreativas o actividades socioculturales deberá contener la siguiente información de interés para el público y, al menos, la siguiente:
+a) Clase de espectáculo o actividad.
+b) Fecha, horario y lugar de las actuaciones, precios de las entradas y lugares de venta.
+c) Denominación y domicilio social de la empresa promotora.
+d) En su caso, precio de las entradas y lugares de venta, así como las condiciones de admisión o normas particulares o instrucciones para el normal desarrollo del espectáculo.
+2. Las empresas de publicidad o de artes gráficas que intervengan en la confección de publicidad deberán justificar ante la administración, cuando sean requeridas para ello, los datos identificativos de las empresas contratantes.
+3. La publicidad y promoción de los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos no podrá incluir contenidos ni referencias que contravengan el principio de igualdad constitucional y, muy especialmente, aquellos cuya realización y difusión suponga una discriminación de carácter sexista o por razón de género.
+Se modifican los apartados 1 y 3 por el art. 25 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 37
+
+Artículo 37. Entradas.
+Las entradas que expidan los organizadores de espectáculos públicos, actividades recreativas y actividades socioculturales deberán contener como mínimo, la siguiente información:
+1. Número de orden.
+2. Identificación de la empresa y domicilio.
+3. Espectáculo o actividad.
+4. Lugar, fecha y hora de celebración, o fecha de expedición de la entrada.
+5. Clase de localidad y número, en sesiones numeradas.
+Se modifica el primer párrrafo por el art. 26 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 38
+
+Artículo 38. Venta de entradas.
+1. Los organizadores de espectáculos públicos, actividades recreativas y actividades socioculturales deberán despachar directamente al público, al menos, el setenta por ciento de cada clase de localidades.
+2. En los supuestos de venta por abonos o cuando se trate de espectáculos organizados por clubes o asociaciones, el porcentaje a que se refiere el número anterior se determinará en relación con las localidades no incluidas en abonos o con las no reservadas previamente a los socios.
+3. (Suprimido).
+4. Los organizadores habilitarán cuantas expendedurías sean necesarias, en relación con el número de localidades, para su rápido despacho al público y para evitar aglomeraciones. Las expendedurías deberán estar abiertas el tiempo necesario antes del comienzo del espectáculo.
+5. La venta comisionada podrá ser autorizada por el órgano al que corresponda el otorgamiento de la licencia o autorización, previa acreditación de la cesión por la empresa organizadora, que hará referencia a la numeración de las entradas cedidas. La venta se efectuará en establecimientos que cuenten con licencia municipal.
+6. Queda prohibida la venta y la reventa ambulante, así como la venta encubierta de entradas. En estos supuestos, y sin perjuicio de la iniciación del oportuno procedimiento sancionador, se procederá, como medida cautelar, a la inmediata retirada de las entradas.
+7. Reglamentariamente se determinarán las condiciones en que procederá la venta telemática de entradas.
+Se suprime el apartado 3 por el art. 125 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 1 por el art. 27 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+## TÍTULO IV
+
+Vigilancia e inspección y régimen sancionador
+
+## CAPÍTULO I
+
+Vigilancia e inspección
+
+### Artículo 39
+
+Artículo 39. Facultades administrativas.
+Los órganos de las administraciones públicas, en el ámbito de sus respectivas competencias, velarán por la observancia de la legislación reguladora de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos. En este ámbito gozarán de las siguientes facultades:
+1. Inspección de establecimientos e instalaciones.
+2. Control de la celebración de espectáculos y actividades recreativas.
+3. Prohibición, suspensión, clausura y adopción de las medidas de seguridad que se consideren necesarias.
+4. La adopción de las oportunas medidas cautelares y la sanción de las infracciones tipificadas en la presente ley.
+Se modifica el primer párrafo por el art. 28 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 40
+
+Artículo 40. Actividad inspectora y de control.
+1. Sin perjuicio de las competencias reservadas al Estado, las actividades inspectoras y de control sobre el cumplimiento de lo previsto en la presente ley serán efectuadas por funcionarios debidamente acreditados de la Comunidad Autónoma o de las corporaciones municipales. Dichos funcionarios tendrán, en el ejercicio de sus funciones, el carácter de agentes de la autoridad, y sus declaraciones gozarán de presunción de veracidad, salvo prueba en contrario.
+2. Los titulares o responsables de los establecimientos públicos y los prestadores, organizadores y promotores de espectáculos públicos, actividades recreativas y actividades socioculturales, o sus representantes y encargados, estarán obligados a permitir, en cualquier momento, el libre acceso a los funcionarios debidamente acreditados cuando se efectúen las inspecciones previstas en esta ley. Asimismo, deberán prestar la colaboración necesaria que les sea solicitada en relación con las inspecciones de que sean objeto.
+Los funcionarios actuantes procurarán, en el desempeño de su labor, no alterar el normal funcionamiento del espectáculo, actividad o establecimiento público.
+3. La administración autonómica, de conformidad con los acuerdos de colaboración que en su caso se establezcan, podrá, por conducto de la Delegación del Gobierno en la Comunitat Valenciana y de las subdelegaciones en las provincias, cursar instrucciones a las Fuerzas y Cuerpos de Seguridad del Estado dependientes de su autoridad, en relación con su participación en las tareas de inspección y control de espectáculos públicos y actividades recreativas.
+Del mismo modo, por medio de las corporaciones municipales respectivas, se podrán cursar instrucciones para la coordinación de actividades y unificación de criterios de inspección y vigilancia.
+Se modifica el apartado 2 por el art. 29 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 41
+
+Artículo 41. Actas.
+1. Los resultados de cada actuación inspectora se reflejarán en un acta, cuya primera copia se entregará al interesado o persona ante quien se actúe. Éste podrá hacer constar su conformidad u observaciones respecto de su contenido. El otro ejemplar del acta será remitido al órgano competente para, en función de la naturaleza de la inspección, bien iniciar el oportuno procedimiento sancionador, bien proceder a la adopción de las medidas técnicas pertinentes.
+2. Las actas firmadas por los funcionarios acreditados, y de acuerdo con las formalidades exigidas, gozarán de la presunción de veracidad en cuanto a los hechos comprendidos en ellas, salvo prueba en contrario.
+
+### Artículo 42
+
+Artículo 42. Subsanación.
+1. Verificada por la actuación inspectora la existencia de irregularidades, si éstas no afectan a la seguridad de personas o bienes o a las condiciones de insonorización que garanticen el derecho al descanso de los vecinos, se podrá conceder al interesado un plazo adecuado suficiente para su subsanación.
+2. En el caso de que no proceda la subsanación, o no se hubiera cumplido la misma en el plazo concedido, se elevará el acta al órgano competente para la incoación del oportuno procedimiento sancionador.
+
+### Artículo 43
+
+Artículo 43. Medidas provisionales en supuestos de urgencia.
+1. Los órganos competentes de la administración de la Generalitat o de los ayuntamientos, cuando concurra alguno de los supuestos de urgencia o protección provisional de los intereses implicados, previstos en el artículo 44 de esta ley, y antes de iniciar el preceptivo procedimiento sancionador, podrán adoptar alguna de las medidas provisionales siguientes:
+a) La suspensión de la licencia o autorización de la actividad.
+b) Suspensión o prohibición del espectáculo público, la actividad recreativa o sociocultural.
+c) Clausura del local o establecimiento.
+d) Decomiso de los bienes relacionados con el espectáculo o actividad.
+e) Retirada de las entradas de la reventa o venta ambulante.
+2. Dichas medidas provisionales serán acordadas mediante resolución motivada, previa audiencia del interesado por un plazo de diez días. En caso de urgencia, debidamente justificada, el plazo de audiencia quedará reducido a dos días. No obstante, cuando se aprecie peligro inminente para la seguridad de las personas, podrán adoptarse las medidas provisionales sin necesidad de la citada audiencia previa.
+3. Estas medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del preceptivo procedimiento sancionador, que deberá efectuarse en el plazo de quince días desde su adopción, y que, asimismo, podrá ser objeto del recurso administrativo que proceda. En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento sancionador en dicho plazo, o cuando el acuerdo de iniciación no contenga pronunciamiento expreso acerca de las mismas.
+Se modifica el apartado 1.b) por el art. 30 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 44
+
+Artículo 44. Supuestos de adopción de medidas provisionales.
+La Generalitat o los ayuntamientos podrán adoptar las medidas provisionales a que se refiere el artículo anterior, antes de iniciar el preceptivo procedimiento sancionador, cuando concurra alguno de los siguientes supuestos de urgencia:
+1. Cuando se celebren espectáculos públicos, actividades recreativas y actividades socioculturales prohibidos por su naturaleza en el artículo 3 de la presente ley. La autoridad que acuerde la adopción de la medida provisional de prohibición o suspensión, por ser constitutivos de delito, lo pondrá en conocimiento del órgano jurisdiccional competente o del Ministerio Fiscal.
+2. Cuando en el desarrollo de los mismos se produzca o se prevea que pueden producirse alteraciones del orden público con peligro para las personas y bienes.
+3. Cuando exista riesgo grave o peligro inminente para la seguridad de personas o bienes, o cuando se incumplan gravemente las condiciones sanitarias y de higiene.
+4. Cuando se celebren en locales o establecimientos que carezcan de las licencias necesarias.
+5. Cuando carezcan de las autorizaciones preceptivas.
+6. Cuando se carezca del seguro exigido por el artículo 18 de la presente ley.
+Se modifica el apartado 1 por el art. 31 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 45
+
+Artículo 45. Autoridades competentes.
+1. Serán autoridades competentes para adoptar las medidas previstas en los artículos 43 y 44 las que lo sean para el otorgamiento de la licencia o, en su caso, autorización.
+2. No obstante, los órganos competentes de la Generalitat en materia de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos podrán adoptar las citadas medidas en caso de inhibición, previo requerimiento a la entidad local o por razones de urgencia que así lo justifiquen. En este último caso, dichas medidas deberán ser puestas en conocimiento del ayuntamiento respectivo.
+3. Igualmente, y por razones de urgencia, las autoridades municipales podrán acordar las referidas medidas.
+4. Lo dispuesto en los apartados precedentes se entenderá sin perjuicio de la facultad de la administración del Estado de suspender o prohibir espectáculos, manifestaciones deportivas, actividades recreativas o actividades socioculturales, así como clausurar locales y establecimientos por razones graves de seguridad pública.
+Se modifican los apartados 2 y 4 por el art. 32 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 45 bis
+
+Artículo 45 bis.
+La Generalitat, en el ámbito de sus competencias, podrá adoptar las medidas de prohibición, suspensión, clausura y las medidas de seguridad que se consideren necesarias referidas en el punto 3 del artículo 39 de esta ley. Será órgano competente para su adopción el titular de la conselleria con atribuciones en materia de espectáculos previo procedimiento incoado al efecto en el que se garantice la audiencia a los interesados. No obstante, se podrán adoptar tales medidas sin necesidad de audiencia cuando se aprecie peligro inminente para la seguridad de las personas.
+Se añade por el art. 106 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253.
+
+## CAPÍTULO II
+
+Régimen sancionador
+
+### Artículo 46
+
+Artículo 46. Principios generales.
+El ejercicio de la potestad sancionadora, en el ámbito de la presente ley, se regirá por lo dispuesto en el título IX de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999, de 13 de enero, y por Ley 25/2009, de 22 de diciembre, así como por lo previsto en la presente ley y el resto de la normativa de desarrollo.
+
+### Artículo 47
+
+Artículo 47. Infracciones.
+1. Constituyen infracciones en materia de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos las acciones u omisiones tipificadas en la presente ley, sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudieran derivarse de ellas.
+2. Las infracciones administrativas en este ámbito se clasifican en leves, graves y muy graves.
+Se modifica el apartado 1 por el art. 33 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 48
+
+Artículo 48. Responsables.
+1. Serán responsables de las infracciones administrativas previstas en esta ley las personas físicas o jurídicas que incurran en las acciones u omisiones tipificadas en la misma.
+2. Los titulares o poseedores de los establecimientos públicos así como los prestadores, organizadores o promotores de espectáculos públicos, actividades recreativas o socioculturales y los titulares de los instrumentos de intervención ambiental (OCA), serán responsables solidarios de las infracciones administrativas reguladas en la presente ley cometidas por quienes intervengan en el espectáculo o actividad, y por quienes estén bajo su dependencia, cuando incumplan el deber de prevenir la infracción.
+3. Los citados prestadores o titulares serán responsables solidarios cuando, por acción u omisión, permitan o toleren la comisión de infracciones por parte de los destinatarios.
+4. Cuando exista una pluralidad de responsables a título individual y no fuera posible determinar el grado de participación de cada uno en la realización de la infracción, responderán todos ellos de forma solidaria.
+Se modifica el apartado 2 por el art. 34 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 49
+
+Artículo 49. Procedimiento.
+Las infracciones en materia de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos serán objeto de las sanciones administrativas correspondientes, previa instrucción del oportuno procedimiento tramitado con arreglo a lo establecido en el capítulo I del título IV de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o norma legal que la sustituya.
+Se modifica por el art. 35 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 50
+
+Artículo 50. Infracciones leves.
+Se considerarán infracciones leves:
+1. La no comunicación del cambio de titularidad a que se refiere el artículo 12 de la presente ley.
+2. La falta de limpieza en aseos y servicios.
+3. La falta del cartel indicativo de la existencia de hojas de reclamaciones, la falta de las mismas o la negativa a facilitarlas.
+4. La falta del cartel indicativo sobre el número de teléfono, dirección postal, número de fax o dirección de correo electrónico o la negativa a facilitar tales datos al destinatario de los servicios.
+5. La falta de respeto de los espectadores, asistentes o usuarios, a los artistas o actuantes.
+6. El mal estado de los locales o instalaciones que produzca incomodidad manifiesta.
+7. El acceso del público al escenario o lugar de actuación durante la celebración del espectáculo, salvo que esté previsto en su realización, cuando no suponga un riesgo para la seguridad de las personas y bienes.
+8. La no exposición de la licencia o autorización en lugar visible.
+9. La falta de cartel en lugar claramente visible que prohiba la entrada de menores, cuando proceda.
+10. La falta del cartel donde conste el horario de apertura y cierre del establecimiento.
+11. La realización de espectáculos, actividades recreativas o actividades socioculturales sin la previa presentación de carteles o programa, cuando sea necesaria.
+12. La utilización de indicadores o rótulos que indujeran a error, en cuanto a la actividad para la que está autorizado.
+13. Cualquier incumplimiento a lo establecido en la presente ley y a las previsiones reglamentarias a las que se remita, en relación con la exigencia de la realización de determinadas actuaciones ante la administración competente, plazos, condiciones o requisitos para el desarrollo de la actividad o del espectáculo, no tipificados como infracciones muy graves o graves.
+Se modifica el apartado 11 por el art. 36 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 51
+
+Artículo 51. Infracciones graves.
+Se considerarán infracciones graves:
+1. La celebración de espectáculos públicos, actividades recreativas o actividades socioculturales o la apertura de establecimientos públicos sin la correspondiente licencia o autorización.
+2. Realizar modificaciones sustanciales en los establecimientos o instalaciones cuando dichas modificaciones presupongan el otorgamiento de una nueva licencia, certificado de OCA o la presentación de la oportuna declaración responsable ante el órgano competente.
+3. La dedicación de los establecimientos e instalaciones a actividades distintas de las indicadas en la licencia, declaración responsable o documento certificado por el organismo de certificación administrativa (OCA).
+4. La instalación, dentro de los establecimientos o instalaciones de cualquier clase de puestos de venta o la ejecución de actividades recreativas o actividades socioculturales, sin seguir el procedimiento administrativo previsto para ello o cuando, habiéndose seguido, la realización o el desarrollo de tales actividades se efectúe al margen de las condiciones y requisitos normativamente establecidos.
+5. La explosión de petardos, tracas o luces de bengala, en la celebración de espectáculos o actividades, fuera de las ocasiones prevenidas o sin las precauciones necesarias.
+6. El exceso de aforo permitido, cuando no suponga un grave riesgo para la seguridad de personas y bienes.
+7. El incumplimiento de las condiciones de seguridad y sanidad establecidas en la normativa vigente y en las licencias o autorizaciones.
+8. El mal estado en las instalaciones o servicios que no supongan un grave riesgo para la salud o seguridad del público o actuantes.
+9. El ejercicio del derecho de admisión de forma arbitraria, discriminatoria o abusiva o cuando se vulnere lo previsto en el artículo 14 de la Constitución española.
+10. No establecer un servicio específico de admisión cuando se esté obligado a ello de acuerdo con la normativa vigente, o contratar, para este cometido, a personas que no hayan obtenido la correspondiente acreditación de acuerdo con lo previsto en la normativa vigente.
+11. El incumplimiento de las medidas o servicios de vigilancia cuando sean obligatorios, de acuerdo con lo previsto en la normativa en vigor.
+12. La venta o suministro de bebidas alcohólicas a menores de 18 años, así como permitir su consumo en establecimiento público.
+13. La venta o suministro de tabaco a menores de 18 años.
+14. La admisión o participación de menores en espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos donde tengan prohibida su entrada, permanencia o intervención.
+14.1. La admisión de menores de 16 años a salas de conciertos y espectáculos de música en directo cuando no se cumplan las medidas de seguridad adecuadas, sin la autorización del padre, madre, tutor o tutora legal, o no se dé cumplimiento a la normativa en lo referente a la protección del menor.
+14.2. La admisión o participación de menores en espectáculos públicos, actividades recreativas y establecimientos donde tengan prohibida su entrada, permanencia o intervención.
+15. El incumplimiento por parte de los establecimientos públicos que celebren sesiones para menores, de los requisitos relativos a horarios, publicidad y prohibiciones en materia de alcohol o tabaco, así como la dedicación del local a actividades distintas a dichas sesiones en el mismo o en diferente horario programado para ellas.
+16. La publicidad y promoción de los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos que contravengan lo dispuesto en esta ley y, en especial, lo indicado en el artículo 34.
+17. La suspensión o alteración del contenido de los espectáculos públicos, actividades, recreativas o actividades socioculturales sin causa justificada.
+18. El incumplimiento del horario de apertura y cierre.
+19. La información, promoción o publicidad que pueda inducir a engaño o confusión en la capacidad electiva del público.
+20. El acceso del público al escenario o lugar de actuación durante la celebración del espectáculo, salvo que esté previsto en la realización del mismo, cuando ello suponga un riesgo para la seguridad de las personas y bienes.
+21. Las alteraciones del orden que perturben el normal desarrollo del espectáculo o puedan producir situaciones de riesgo para el público, así como su permisividad.
+22. La negativa a actuar por parte del artista sin causa justificada.
+23. La falta de respeto o provocación intencionada del artista hacia el público con riesgo de alterar el orden.
+24. Portar armas dentro de los establecimientos públicos sin la correspondiente autorización, u otros objetos que puedan usarse como tales.
+25. La reventa de entradas no autorizada, la venta encubierta y el incumplimiento de las condiciones establecidas para su ejercicio.
+26. Permitir el acceso a los espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos de personas que exhiban prendas, símbolos u objetos que inciten a realizar actividades contrarias a los derechos fundamentales reconocidos en la Constitución española y, en especial, que promuevan la violencia, la xenofobia o la discriminación de cualquier tipo.
+27. El arrendamiento o cesión de establecimientos públicos para la celebración de espectáculos, actividades recreativas o actividades socioculturales sin que reúnan las medidas de seguridad exigidas por la legislación vigente.
+28. El incumplimiento de la obligación de tener suscritos los contratos de seguro exigidos en la presente ley.
+29. El incumplimiento de las condiciones que garanticen la accesibilidad de las personas con discapacidad a los espectáculos públicos, actividades recreativas o actividades socioculturales y establecimientos públicos.
+30. La utilización de medios sonoros o audiovisuales en los establecimientos públicos cuando no esté contemplado en la declaración responsable o en la licencia concedida.
+31. La participación en festejos taurinos tradicionales (bous al carrer) de personas que muestren falta de condiciones físicas o psíquicas. Se incluirá en este supuesto la manifiesta falta o disminución de las referidas condiciones provocada por motivo de ingestión de alcohol o de sustancias tóxicas.
+32. La celebración de espectáculos públicos, actividades recreativas o actividades socioculturales, o la apertura de establecimientos públicos, sin haber presentado ante el ayuntamiento la declaración responsable y toda o parte de la documentación exigida en el artículo 9 de esta ley, o iniciar la actividad antes de que transcurra el plazo de un mes desde la presentación de la declaración responsable.
+33. La celebración de espectáculos públicos actividades recreativas, actividades socioculturales o la apertura de establecimientos públicos en contra o sin contar con el certificado emitido por un organismo de certificación administrativa (OCA), de acuerdo con lo indicado en esta ley.
+34. Prestar o efectuar actividades en contra o modificando las condiciones establecidas en la licencia de apertura, declaración responsable o certificación del OCA, cuando no supongan, en este último caso, una modificación sustancial.
+Se modifica por el art. 37 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Se modifican los apartados 1 y 2 por el art. 167 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236.
+ Se modifican los apartados 2, 3 y se añaden los apartados 32 a 34 por la disposición final 1 de la Ley 8/2012, de 23 de noviembre. Ref. BOE-A-2012-14979#dfprimera.
+ Se modifican los apartados 2, 3 y se añaden los apartados 32 a 34 por la disposición final 1 del Decreto-ley 4/2012, de 29 de junio. Ref. DOCV-r-2012-90010.
+
+### Artículo 52
+
+Artículo 52. Infracciones muy graves.
+Se consideran infracciones muy graves:
+1. Permitir o tolerar actividades o acciones penalmente ilícitas o ilegales, especialmente en relación con el consumo o tráfico de drogas.
+2. La realización de espectáculos públicos, actividades recreativas o actividades socioculturales sin las preceptivas licencias o autorizaciones cuando se deriven situaciones de grave riesgo para las personas o bienes.
+3. El incumplimiento de las medidas de seguridad establecidas en la normativa vigente, o exigidas en la licencia, autorización e inspecciones, cuando ello suponga un grave riesgo para las personas o bienes.
+4. La superación del aforo máximo autorizado, cuando suponga un grave riesgo para la seguridad de las personas o bienes.
+5. El incumplimiento de las resoluciones administrativas de prohibición de espectáculos públicos, actividades recreativas o actividades socioculturales.
+6. La reapertura de establecimientos afectados por resolución firme en vía administrativa de clausura o suspensión, mientras perdure la vigencia de tales medidas.
+7. La celebración de los espectáculos y actividades expresamente prohibidos en el artículo 3 de la presente ley.
+8. El incumplimiento de las medidas de evacuación de las personas en los establecimientos públicos que disminuyan gravemente el grado de seguridad exigible para las personas y bienes.
+9. Negar el acceso al establecimiento o recinto a los agentes de la autoridad o funcionarios inspectores que se encuentren en el ejercicio de su cargo, así como la negativa a colaborar con los mismos en el ejercicio de sus funciones.
+10. Obtener la correspondiente licencia de apertura o autorización mediante la aportación de documentos o datos no conformes con la realidad.
+11. La apertura de establecimientos públicos una vez comprobada la falsedad de los datos, manifestaciones o documentos de carácter esencial presentados al ayuntamiento de acuerdo con lo establecido en los artículos 9 y 10 de esta ley.
+Se modifican los apartados 2 y 5 por el art. 38 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 53
+
+Artículo 53. Prescripción y caducidad.
+1. Las infracciones tipificadas en la presente ley como leves prescribirán en el plazo de un año, las tipificadas como graves en el de dos años y las tipificadas como muy graves en el de tres años.
+2. El plazo de prescripción comenzará a contarse desde el día de la comisión del hecho. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de la finalización de la actividad o la del último acto en que la infracción se consume.
+3. Interrumpirá la prescripción, la iniciación, con conocimiento del interesado, del procedimiento sancionador, reiniciándose el plazo de prescripción si dicho procedimiento estuviera paralizado durante más de un mes por causa no imputable a la persona presuntamente responsable, de conformidad con lo establecido en la legislación de régimen jurídico del sector público.
+4. El procedimiento sancionador deberá ser resuelto y notificarse la resolución que proceda a la persona interesada, en el plazo máximo de un año, desde su iniciación, salvo que se dé alguna de las circunstancias establecidas para la suspensión del plazo máximo para resolver en la legislación de procedimiento administrativo común de las administraciones públicas.
+Una vez vencido este plazo, se producirá la caducidad del procedimiento, de acuerdo con lo establecido en dicha legislación.
+Se modifican los apartados 1, 3 y 4 por el art. 126 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 54
+
+Artículo 54. Sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o multa de hasta 600 euros.
+2. Las infracciones graves podrán ser sancionadas, alternativa o acumulativamente, con:
+a) Multa de 601 a 30.000 euros y acumulativamente hasta 300.000 euros.
+b) Suspensión o prohibición de la actividad por un período máximo de seis meses.
+c) Clausura del local o establecimiento por un período máximo de seis meses.
+d) Inhabilitación para la organización o promoción de espectáculos públicos, actividades recreativas o actividades socioculturales por un periodo máximo de seis meses.
+3. Las infracciones muy graves podrán ser sancionadas, alternativa o acumulativamente, con:
+a) Multa de 30.001 a 60.000 euros y acumulativamente hasta 600.000 euros.
+b) Clausura del local o establecimiento por un período máximo de tres años y acumulativamente hasta diez años.
+c) La suspensión o prohibición de la actividad hasta tres años y acumulativamente hasta diez años.
+d) Inhabilitación para la organización o promoción de espectáculos públicos, actividades recreativas o actividades socioculturales hasta tres años y, acumulativamente, hasta diez años.
+Se modifican los apartados 2.d) y 3.d) por el art. 39 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 55
+
+Artículo 55. Graduación de las sanciones.
+1. Las sanciones deberán guardar la necesaria proporcionalidad con la gravedad de los hechos constitutivos de la infracción. La graduación de estas atenderá los siguientes criterios:
+a) La transcendencia social de la infracción.
+b) La negligencia o intencionalidad del infractor.
+c) La naturaleza y cuantía de los perjuicios ocasionados.
+d) La existencia de reiteración y reincidencia. Se entenderá por reiteración, la comisión de más de una infracción de distinta naturaleza en el término de un año cuando así haya sido declarado por resolución que ponga fin a la vía administrativa. Por su parte, se entenderá por reincidencia la comisión de más de un infracción de la misma naturaleza en el término de un año cuando así haya sido declarado por resolución que ponga fin a la vía administrativa.
+e) La situación de predominio del infractor en el mercado.
+f) La conducta observada por el infractor en orden al cumplimiento de las disposiciones legales.
+2. Para la aplicación de los criterios en la graduación de las sanciones y respetando los límites establecidos en el artículo anterior, el órgano competente para sancionar deberá ponderar, en todo caso, que la comisión de la infracción no resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas.
+3. La imposición acumulativa de sanciones en los términos previstos en los apartados 2 y 3 del artículo anterior podrá acordarse en aquellos supuestos que impliquen grave alteración de la seguridad, o contravengan las disposiciones en materia de protección de menores.
+
+### Artículo 56
+
+Artículo 56. Competencia para sancionar.
+1. La competencia para incoar, instruir y resolver los procedimientos sancionadores por infracciones leves corresponderá a los ayuntamientos.
+2. En los otros casos, la competencia para incoar, instruir y resolver los expedientes sancionadores corresponderá a la administración autonómica, siendo órgano competente para imponer la sanción:
+a) El titular de la dirección general competente en materia de espectáculos, cuando se trate de cualquier sanción por infracciones graves y en las muy graves cuando se proponga la imposición de multas hasta 300.500 euros y cualquiera de las sanciones accesorias previstas en esta ley.
+b) El conseller competente por razón de la materia, cuando se trate de infracciones muy graves y se proponga la imposición de multas de 300.501 a 600.000 euros y cualquiera de las sanciones accesorias previstas en esta ley.
+3. Sin perjuicio de lo previsto en los apartados anteriores, y en las condiciones previstas en la normativa reguladora de las bases de régimen local, los órganos competentes de la Generalitat asumirán la competencia de incoación, instrucción y resolución de los procedimientos sancionadores, cuya competencia corresponda a los municipios, en el supuesto de la falta de actuación de éstos ante la denuncia presentada por los ciudadanos y una vez instados a actuar por los órganos competentes de la Comunidad Autónoma.
+4. De conformidad con lo previsto en la normativa reguladora de las bases de régimen local, los órganos competentes de la administración municipal remitirán a los de la administración autonómica copia o, en su caso, extracto comprensivo de los procedimientos sancionadores que inicien sobre la materia sujeta a la presente ley, dentro de los diez días siguientes a la fecha de adopción del acuerdo de iniciación.
+Igualmente, los órganos autonómicos remitirán a los de la administración municipal, en las mismas condiciones establecidas en el apartado anterior, copia o extracto comprensivo de los procedimientos sancionadores que inicien sobre la materia sometida a la presente ley.
+5. Las sanciones impuestas por resoluciones que pongan fin a la vía administrativa serán inmediatamente ejecutivas. No obstante, el órgano competente podrá acordar la suspensión de su ejecución cuando se interponga un recurso administrativo y se aprecie que concurre, en este sentido, lo previsto en la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o en la norma legal que, en un futuro, la sustituya.
+6. Cuando en una denuncia o acta se reflejen varias infracciones, la competencia se atribuirá al órgano que tenga potestad respecto de la infracción de naturaleza más grave.
+7. De conformidad con lo preceptuado en la legislación reguladora del régimen local, la competencia para incoar, instruir y resolver los procedimientos sancionadores por infracciones graves y muy graves, así como, si procede, para la revisión en vía administrativa de los actos derivados de dichos procedimientos sancionadores, podrá ser objeto de delegación a los ayuntamientos que así lo soliciten y cumplan los requisitos generales exigibles en aquella legislación para obtener la delegación.
+Se modifica el apartado 7 por el art. 37 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifican los apartados 2 y 5 y se añade el 7 por el art. 40 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Artículo 57
+
+Artículo 57. Delitos e infracciones administrativas.
+1. Cuando, con ocasión de la incoación de un procedimiento sancionador, se aprecien indicios de que determinados hechos pueden ser constitutivos de delito o falta, el órgano administrativo competente lo pondrá en conocimiento de la jurisdicción penal o del Ministerio Fiscal, absteniéndose de seguir el procedimiento mientras la autoridad judicial no se pronuncie al respecto.
+2. De no haberse estimado la existencia de delito o falta, el órgano administrativo competente continuará el procedimiento administrativo. En este sentido, dicho procedimiento quedará interrumpido, durante el tiempo que duren las diligencias penales, a los efectos del plazo previsto para la conclusión de aquél.
+3. La tramitación de las diligencias penales interrumpirá los plazos de prescripción de la infracción.
+4. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente en los casos en que se aprecie identidad de sujeto, hechos y fundamento.
+5. En ningún caso se impondrá más de una sanción por los mismos hechos. No obstante, deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+
+### Artículo 58
+
+Artículo 58. Prescripción de sanciones.
+1. Prescribirán en el plazo de un año las sanciones impuestas por infracciones leves a la presente ley, a los dos años las impuestas por infracciones graves y a los tres años las impuestas por infracciones muy graves.
+2. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se imponen, de conformidad con lo dispuesto en el artículo 132.3 de la Ley 30/1992, de 26 de noviembre.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél estuviera paralizado durante más de un mes por causa no imputable al infractor.
+
+### Artículo 59
+
+Artículo 59. Medidas provisionales durante la instrucción del procedimiento sancionador.
+1. Sin perjuicio de lo dispuesto en el artículo 44 de esta ley, iniciado el procedimiento sancionador por la presunta comisión de infracciones graves y muy graves, la autoridad competente podrá acordar mediante resolución motivada, las medidas provisionales imprescindibles para el normal desarrollo del procedimiento, asegurar el cumplimiento de la sanción que pudiera imponerse y evitar la comisión de nuevas infracciones.
+2. Las medidas deberán ser proporcionadas a la naturaleza y gravedad de las infracciones cometidas, pudiendo consistir en alguna de las previstas en el artículo 43 de esta ley, o cualquier otra que asegure la eficacia de la resolución que pudiera recaer.
+3. Las medidas provisionales podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción. En todo caso se extinguirán con la resolución que ponga fin al procedimiento sancionador correspondiente.
+4. Estas medidas provisionales serán acordadas mediante resolución motivada previa audiencia del interesado por un plazo de diez días. En caso de urgencia, debidamente motivada, el plazo de audiencia quedará reducido a dos días.
+
+### Artículo 60
+
+Artículo 60. Publicidad de las sanciones.
+La autoridad que resuelva el procedimiento podrá acordar, por razones de ejemplaridad, la publicación en los medios de comunicación social y en el Diari Oficial de la Comunitat Valenciana de las sanciones firmes en vía administrativa que se impongan al amparo de esta ley.
+
+## TÍTULO V
+
+De los órganos consultivos
+
+### Artículo 61
+
+Artículo 61. Comisión de Espectáculos Públicos, Actividades Recreativas y Actividades Socioculturales de la Comunitat Valenciana.
+1. La Comisión de Espectáculos Públicos, Actividades Recreativas y Actividades Socioculturales de la Comunitat Valenciana es un órgano consultivo de estudio, coordinación y asesoramiento de las administraciones autonómica y local en las cuestiones reguladas por esta ley. Esta comisión estará adscrita a la conselleria competente en materia de espectáculos.
+2. La comisión tendrá como principales funciones las siguientes:
+a) Informe de las disposiciones de carácter general específicas que hayan de dictarse en desarrollo de la presente ley. Se exceptuarán de dicho informe aquéllas cuyo contenido sea específico de otros órganos consultivos por razón de la materia.
+b) Formulación de mociones, propuestas e informes sobre interpretación, aplicación y modificación de las disposiciones que regulan los espectáculos públicos y las actividades recreativas.
+c) Elaboración de recomendaciones para mejorar la actuación de la Generalitat y de la administración local en la materia objeto de la presente ley.
+d) Emisión de informe sobre los horarios de espectáculos públicos, actividades recreativas y establecimientos públicos regulados en esta ley.
+Estas atribuciones serán desarrolladas reglamentariamente.
+3. La estructura, funcionamiento y composición de la Comisión de Espectáculos Públicos y Actividades Recreativas de la Comunitat Valenciana se determinará reglamentariamente.
+Se modifica la letra a) del apartado 2 por el art. 44.2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica el título y el apartado 1 por el art. 41 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición adicional primera
+
+Disposición adicional primera. Actualización de las cuantías de las sanciones económicas por infracciones a la ley.
+La cuantía de las sanciones económicas previstas en la presente ley podrá actualizarse reglamentariamente por el Consell, en función de las variaciones del índice de precios al consumo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos declarados de interés general.
+El Consell, a propuesta del conseller competente, podrá acordar que determinados espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos sean declarados de interés general, comunitario o local en las condiciones y con las excepciones que se determinen. En todo caso, tales eventos y establecimientos deberán respetar la normativa vigente en materia de seguridad y de protección contra la contaminación acústica así como los demás requisitos y condiciones que aseguren una adecuada solidez y protección para personas y bienes, que quedaran debidamente expresados en el decreto de autorización.
+Se deja sin contenido y se renumera la anterior disposición tercera como segunda con la redacción dada por el art. 42 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Responsabilidad del participante no apto en festejos taurinos tradicionales (bous al carrer).
+Las personas que participen en los festejos taurinos tradicionales (bous al carrer) sin las condiciones físicas o psíquicas exigidas, de acuerdo con lo establecido en esta ley y normativa de desarrollo, asumirán el coste económico de los daños y perjuicios que de su comportamiento se derivase respecto de sí mismo, otros participantes, público, terceras personas y bienes.
+Esta asunción de costes económicos del participante se entenderá en el marco del cumplimiento por los organizadores de sus correspondientes obligaciones y, de igual modo, sin perjuicio de la incoación del oportuno expediente administrativo sancionador al referido participante como responsable de la infracción.
+Se renumera como disposición adicional 3 por el art. 43 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Su anterior numeración era disposición adicional 4.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen jurídico de protección de datos.
+1. El tratamiento de datos personales que se realice en cumplimiento de esta norma se ajustará a lo que se dispone en el régimen jurídico europeo y estatal en materia de protección de datos de carácter personal.
+2. Los datos personales que las personas proporcionen a la administración en el ejercicio de los derechos garantizados en la presente norma serán utilizados con las finalidades y los limites previstos en esta.
+3. En el ejercicio de la función inspectora, cuando los datos personales no se obtengan directamente de la persona interesada, y de conformidad con el apartado 5 del artículo 14 del Reglamento (UE) 2016/679, no será necesario cumplir con las obligaciones del deber de informar regulado en el citado artículo, en la medida que la comunicación de esta información pudiera imposibilitar u obstaculizar gravemente el logro de los objetivos de tal función.
+Se añade por el art. 205 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se deja sin contenido por el art. 43 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Derogada)
+Se deroga por el art. único de la la Ley 7/2019, de 24 de octubre. Ref. BOE-A-2019-16521
+ Se añade por el art. 12 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Normativa técnica de aplicación.
+En la aplicación de los criterios técnicos a los que alude la presente ley y, en particular, en lo que atañe fundamentalmente a la materialización de las condiciones técnicas generales, se observará la regulación prevista en el Código Técnico de la Edificación aprobado por el Real Decreto 314/2006, de 17 de marzo, y normativa de desarrollo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Expedientes sancionadores en trámite.
+Los expedientes sancionadores incoados con anterioridad a la entrada en vigor de la presente ley seguirán tramitándose conforme a la normativa anterior, sin perjuicio de su aplicación en aquellos supuestos en que resultase más favorable.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Procedimientos para la celebración de espectáculos públicos y actividades recreativas y socioculturales y para la apertura de establecimientos públicos.
+Los procedimientos iniciados al amparo de lo establecido con anterioridad a la modificación de esta ley se tramitarán y resolverán por la normativa vigente en el momento de la presentación de la declaración o solicitud. No obstante, el interesado podrá dejar sin efecto su declaración o desistir de su solicitud antes de que se dicte resolución para optar por la regulación prevista en la presente modificación.
+Se modifica por el art. 44 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen transitorio sobre condiciones de establecimientos e instalaciones.
+Las normas reglamentarias que se dicten en desarrollo de esta ley sobre condiciones de establecimientos e instalaciones podrán prever un régimen transitorio para la realización de las adaptaciones correspondientes.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Los establecimientos públicos cuya licencia de funcionamiento contemple alguna de las figuras modificadas en el catálogo del anexo de esta ley, mantendrán su vigencia de acuerdo con lo establecido en la normativa en cuya virtud se otorgaron. No obstante, el titular u prestador del servicio podrá adaptar la denominación a la legislación en vigor, no siendo este cambio constitutivo de modificación sustancial de acuerdo con lo establecido en esta ley. A estos efectos, será suficiente la comunicación al ayuntamiento de esta circunstancia.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+(Derogada)
+Se deroga por el art. único de la la Ley 7/2019, de 24 de octubre. Ref. BOE-A-2019-16521
+ Se añade por la disposición final única de la Ley 2/2018, de 16 de febrero. Ref. BOE-A-2018-3439
+
+### Disposición transitoria sexta bis
+
+Disposición transitoria sexta bis.
+Los establecimientos públicos cuyas actividades se adapten a la tipología de las actividades encuadrables como salas socioculturales y salas de artes escénicas en la presente ley y su catálogo anexo, dispondrán de un período temporal de tres años para solicitar la adecuación de su actual título habilitante para el desarrollo de su actividad a esta nueva denominación.
+Se añade por el art. 45 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+ Redactada conforme a la corrección de errores publicada en BOE núm. 139 de 8 de junio de 2018. Ref. BOE-A-2018-7641
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Desde la entrada en vigor de esta ley, el órgano competente en materia medioambiental deberá adaptar su normativa, en el plazo de un año, al efecto de coordinar la regulación sobre protección contra la contaminación acústica con la que se deriva de la presente norma.
+Se añade por el art. 46 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+La modificación de los artículos 4 y 10 operadas en la presente ley se podrá aplicar a los expedientes ya iniciados con anterioridad a su entrada en vigor siempre partiendo del estado procedimental del expediente en cuestión. Para ello, el interesado dispondrá de un plazo de seis meses desde la entrada en vigor de la presente modificación para la aportación del informe del OCA. La aportación de dicho informe producirá los efectos previstos en el artículo 10 de esta ley.
+Se añade por el art. 115 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Regularización de establecimientos públicos.
+Los establecimientos de titularidad pública, incluidos en el catálogo del anexo de esta ley, que dispusieren de licencia urbanística en el momento de la entrada en vigor de la presente disposición, así como en aquellos otros casos que hayan sido objeto de modificaciones en su estructura o instalaciones, por motivos de interés público, deberán ser objeto de regularización antes del 1 de enero del 2030, salvo en lo ya autorizado por licencia urbanística.
+En estos casos, se deberá presentar ante el órgano competente la solicitud de informe y documentación necesaria para su regularización conforme al procedimiento y normativa vigente en el momento de la solicitud.
+Se añade por el art. 206 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación de normas.
+Queda derogada la Ley 4/2003, de 26 de febrero, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos, así como todas las normas de igual o inferior rango que se opongan a lo dispuesto en la presente ley.
+[Sic]Se declaran vigentes los preceptos de la Ley 14/2010 que no han sido modificados por la presente ley y el reglamento de desarrollo aprobado por el Decreto 143/2015, de 11 de septiembre, del Consell, en lo que no se oponga a la misma.
+Se modifica el segundo párrafo por el art. 46 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición final primera
+
+Disposición final primera. Habilitación para el desarrollo reglamentario.
+Se faculta al Consell para desarrollar reglamentariamente las prescripciones contenidas en esta ley y, en particular, para aprobar un texto refundido de la Ley 14/2010 y para adaptar el reglamento aprobado por el Decreto 143/2015 a las modificaciones ahora introducidas en el plazo de seis meses desde la aprobación de la ley.
+La conselleria competente en materia de espectáculos públicos deberá promover la creación y puesta en funcionamiento del registro autonómico de empresas y establecimientos destinados a la realización de espectáculos públicos, actividades recreativas y socioculturales, en el plazo máximo de un año desde la entrada en vigor de esta ley.
+Lo previsto en esta ley respecto a las denominadas actividades socioculturales no se aplicará a las condiciones y tipología de las sedes festeras tradicionales situadas en los municipios de la Comunitat Valenciana, las cuales continuarán rigiéndose por la regulación específica dictada por la Generalitat en esta materia.
+Se modifica por el art. 47 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana.
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 3 de diciembre de 2010.– El President de la Generalitat, Francisco Camps Ortiz.
+
+## ANEXO
+
+Catálogo de espectáculos públicos, actividades recreativas, actividades socioculturales y establecimientos públicos
+1. Espectáculos públicos.
+Los espectáculos públicos se clasifican en:
+1.1 Espectáculos cinematográficos.
+Tienen por objeto la proyección en una pantalla de películas cinematográficas. Podrán disponer de servicio de cafetería. Las exhibiciones se realizarán en:
+1.1.1 Cines. Locales cerrados y cubiertos, acondicionados especialmente para su uso. Dispondrán de patio de butacas.
+1.1.2 Cines de verano. Recintos cerrados y descubiertos acondicionados especialmente para su uso. Deberán disponer de asientos fijos o móviles.
+1.1.3 Autocines. Recintos cerrados y descubiertos, donde los espectadores se sitúan preferentemente en el interior de su vehículo para el visionado de la película.
+1.2 Espectáculos teatrales y musicales.
+Tienen por objeto la representación de obras teatrales y espectáculos musicales en directo, sin perjuicio de que las obras teatrales puedan ir acompañadas de música instrumental o vocal, interpretada por los mismos actores o por persona o personas distintas, bien sea en directo o grabada previamente. Podrán disponer de servicio de cafetería. Se pueden desarrollar en:
+1.2.1 Teatros. Locales cerrados dotados de escenario, caja escénica y camerinos, donde los espectadores se sientan preferentemente en patio de butacas.
+1.2.2 Anfiteatros. Recintos cerrados y descubiertos donde los espectadores se sitúan preferentemente en gradas. Estarán dotados de escenario y camerinos.
+1.2.3 Auditorios. Recintos acondicionados especialmente para ofrecer actuaciones musicales, debiendo disponer de escenario y camerinos.
+1.2.4 Salas multifuncionales. Recintos acondicionados especialmente para ofrecer actuaciones musicales, teatrales y/o proyecciones cinematográficas. Deberán disponer de escenario, camerinos y servicio de guardarropía.
+1.2.5 Cafés teatro, cafés concierto, cafés cantantes. Establecimientos en los que se desarrollan actuaciones musicales, teatrales o de variedades en directo, sin pista de baile para el público, pudiendo o no disponer de escenarios y camerinos, y en lo que se ofrece, preferentemente, servicio de bebidas.
+1.2.6 Salas de artes escénicas. Locales cerrados especialmente adaptados para albergar en sala única o salas separadas la realización de actividades culturales y diferentes expresiones artísticas que pueden incluir representaciones con la intervención de artistas o ejecutantes, incluida la representación de obras teatrales y espectáculos musicales, acompañados o no de música en directo o grabada previamente con las limitaciones acústicas impuestas por su título habilitante y el resto de normativa acústica de aplicación. Podrán disponer o no de escenario donde los espectadores se sitúen preferentemente en graderías, y la distribución de estas y de la zona de escenario podrá ser flexible en función de la actividad concreta a realizar. Dispondrán de camerino y pueden disponer de servicio de bar y cafetería.
+1.2.7 Sala de conciertos. Locales que, debidamente insonorizados de acuerdo con la normativa sectorial, están destinados a la organización y celebración de actuaciones musicales en directo y, en su caso, otras actividades culturales. El público podrá estar sentado o de pie. Dispondrán de escenario y de camerino o vestuario para los actuantes. Podrán disponer de servicio de bar o cafetería vinculado a la actividad principal.
+1.3 Espectáculos taurinos.
+Tienen por objeto la lidia de toros, novillos o becerros por profesionales taurinos debidamente inscritos en el registro oficial correspondiente, o, en su caso, por personas aficionadas. Se regirán por su normativa específica y se efectuarán en:
+1.3.1 Plazas de toros fijas o permanentes.
+1.3.2 Plazas de toros no permanentes.
+1.3.3 Plazas de toros portátiles.
+1.4 Espectáculos circenses.
+Consistentes en la realización de espectáculos de habilidad y de riesgo, en los que pueden intervenir animales. Se desarrollarán en:
+1.4.1 Circos. Instalaciones fijas o portátiles, con graderíos para los espectadores.
+2. Actividades recreativas y socioculturales.
+Las actividades recreativas se clasifican en:
+2.1 Actividades culturales.
+Su objeto es la realización de actividades culturales, intelectuales y artísticas. Se realizarán en:
+2.1.1 Salas de conferencias. Locales preparados para reunir a un público que asiste a actividades de tipo cultural, como disertaciones, mesas redondas, congresos y debates, disponiendo de asientos fijos con o sin entarimado.
+2.1.2 Museos y salas de exposiciones. Locales destinados a la exhibición y presentación al público de pintura, escultura, fotografía, libros o cualquier otro tipo de objeto mueble.
+2.1.3 Salas polivalentes. Locales sin asientos fijos donde se pueden realizar actividades de características distintas pero con un fundamento común, como son las reuniones sociales, culturales o festivas.
+2.1.4. Salas socioculturales. Locales especialmente adaptados para albergar en espacios separados, sin asientos fijos, la realización de actividades sociales y culturales y diferentes expresiones artísticas que pueden incluir representaciones con la intervención de artistas o ejecutantes. Podrán ofrecer actuaciones musicales en directo y otras de cariz cultural en horario diurno bajo las condiciones y limitaciones derivadas de la normativa acústica aplicable y las respectivas ordenanzas municipales. Pueden disponer de servicio de bar y cafetería.
+2.2 Actividades taurinas.
+2.2.1 Tentaderos. Instalaciones fijas con o sin graderíos para espectadores, especialmente destinadas a probar o tentar reses bravas.
+2.2.2 Escuelas taurinas. Instalaciones fijas dedicadas a impartir enseñanzas taurinas a los alumnos.
+2.3 Actividades deportivas.
+Actividades consistentes en la realización de pruebas, competiciones y la práctica de cualquier deporte, bien sean realizadas por deportistas profesionales, aficionados, o con carácter público o privado. Se realizarán en:
+2.3.1 Campos de deporte, estadios. Recintos no cubiertos o cubiertos total o parcialmente, con gradas para el público, para la práctica de uno o más deportes.
+2.3.2 Pabellones deportivos. Recintos cubiertos, destinados a actividades físico-deportivas que impliquen la práctica de algún deporte, podrán disponer o no de gradas.
+2.3.3 Instalaciones deportivas. Recintos cerrados y descubiertos acondicionados para realizar prácticas deportivas, sin que la asistencia de público sea su finalidad principal.
+2.3.4 Gimnasios. Locales provistos de aparatos e instalaciones adecuados para practicar gimnasia y otros deportes.
+2.3.5 Piscinas de uso colectivo. Recintos cerrados, cubiertos o no, constituidos por uno o más vasos y cuyo uso principal sea el recreativo o de ocio (baño o natación). Podrán ser utilizadas por el público en general o por comunidades privadas donde la capacidad del conjunto de sus vasos suponga un aforo igual o superior a 100 personas. Podrán disponer de instalaciones accesorias como bar o restaurante.
+2.3.6 Piscinas de competición. Instalaciones cubiertas o no, con gradas para el público, que constan de uno o varios vasos y cuyo uso principal sea el de practicar deportes acuáticos.
+2.3.7 Boleras y billares. Instalaciones destinadas al desarrollo de estas actividades con independencia de que se efectúen con carácter deportivo o de ocio. Podrán disponer de servicio de cafetería para sus usuarios.
+2.4 Actividades feriales y parques de atracciones.
+Instalaciones fijas o portátiles en las que se ofrecen atracciones para el uso del público, pudiendo disponer de elementos mecánicos, tales como carruseles, norias, montaña rusa, etcétera, junto a servicios complementarios. Podrán ser:
+2.4.1 Parques de atracciones.
+2.4.2 Parques temáticos.
+2.4.3 Ferias.
+2.4.4 Parques Acuáticos. Recinto acotado, con control de acceso de público, constituido por diversas instalaciones o atracciones acuáticas, susceptibles de ser utilizadas por el público en contacto con el agua, pudiendo disponer de cafeterías o restaurantes.
+2.4.5 Establecimientos de juegos de estrategias con armas simuladas. Recintos destinados a la realización de juegos entre contrincantes mediante armas con munición inofensiva para las personas. Podrá realizarse en recintos cerrados y cubiertos o en espacios abiertos y acotados, debiendo disponer en cualquier caso de vestuarios y aseos.
+2.5 Establecimientos infantiles.
+Establecimientos dedicados al ocio infantil, de forma habitual y profesional, dotados de juegos infantiles, pudiendo disponer de servicio de cafetería para los usuarios de los mismos.
+2.5.1 Ludotecas.
+2.6. Actividades recreativas y de azar.
+Establecimientos en los que se arriesgan cantidades de dinero en función del resultado de un acontecimiento futuro e incierto. Estarán sujetos a la normativa vigente en materia de juego. Se clasifican, según su modalidad en:
+2.6.1 Casinos de juego.
+2.6.2 Salas de bingo.
+2.6.3 Salones recreativos de máquinas de azar, tipo B.
+2.6.4 Salones recreativos de máquinas de azar, tipo A.
+2.6.5 Salones de juego.
+2.6.6 Tómbolas y similares.
+2.6.7 Salones cíber y similares.
+2.7 Actividades de ocio y entretenimiento.
+2.7.1 Salas de fiestas. Establecimientos especialmente preparados para ofrecer desde un escenario actuaciones de variedades o musicales fundamentalmente en directo. Dispondrán de pistas de baile para el público y este seguirá las actuaciones desde lugares distribuidos alrededor de la pista de baile o del escenario, pudiendo ofrecer servicio de cocina. Dispondrán de guardarropía y camerinos.
+2.7.2 Discotecas. Establecimientos especialmente preparados en los que, además de servir bebidas, se disponga de una o más pistas de baile para el público, pudiendo ofrecer actuaciones musicales en directo. Dispondrán de guardarropía.
+2.7.3 Salas de baile. Locales preparados en los que, además de servirse bebidas, dispongan de una pista de baile, pudiendo ofrecer actuaciones musicales en directo. Dispondrán de escenario, camerinos y guardarropía, y, en su caso, de zonas de mesas y sillas para el descanso y consumo de los clientes.
+Se considera pista de baile, a los efectos de este catálogo, el espacio especialmente delimitado y destinado a tal fin, desprovisto de obstáculos constructivos o de mobiliario y de dimensiones suficientes como para circunscribir en él un círculo de diámetro mínimo de siete metros.
+2.7.4 Pubs. Establecimientos dedicados preferentemente al servicio de bebidas. Pueden disponer de ambientación musical exclusivamente por medios mecánicos. Podrán disponer de servicio de karaoke.
+2.7.5 Ciber-café. Establecimientos dedicados al servicio de bebidas y dotados de equipos informáticos individuales o en red conectados a internet.
+Queda prohibida la entrada a los menores de 18 años cuando en ellos se sirvan bebidas alcohólicas, así como cuando las conexiones a las redes informáticas de internet no tengan ningún tipo de limitación referida a la edad del usuario.
+2.7.6 Establecimiento de exhibiciones de contenido erótico. Establecimientos especialmente preparados para exhibir películas de contenido erótico por cualquier medio mecánico o para ofrecer actuaciones en directo donde el espectador se ubica en cabinas individuales o sistema similar.
+Los locales relacionados en los epígrafes 2.7.4, 2.8.1., 2.8.2., 2.8.3, 2.8.4 y 2.8.5 que cuenten con ambientación musical inherente o declarada en su título habilitante conforme a lo dispuesto en el artículo 19 de esta ley, podrán ofrecer actuaciones musicales en directo exclusivamente en horario diurno bajo las condiciones y limitaciones derivadas de la normativa acústica aplicable y las respectivas ordenanzas municipales.
+Los establecimientos indicados en los epígrafes 1.2.5, 2.1.4, 2.7.1, 2.7.2 y 2.7.3 podrán programar y organizar conciertos y otras actividades culturales de acuerdo con lo que se prevé en el epígrafe 1.2.7. El aforo será el previsto en su licencia de apertura.
+2.8. Actividades hosteleras y de restauración.
+A efectos de este catálogo son actividades de hostelería y restauración las que tienen por objeto la prestación de servicio de bebidas y comida elaborada para su consumo en el interior de los locales. Se realizarán en:
+2.8.1 Salones de banquetes. Establecimientos destinados a servir a los clientes, comidas y bebidas, a precio concertado, para ser consumidas en fecha y hora predeterminadas, en servicio de mesas en el mismo local. Pueden realizar actividades de baile posterior a la comida, siempre que reúnan las debidas condiciones de seguridad e insonorización.
+2.8.2 Restaurantes. Establecimientos destinados específicamente a servir comidas al público en comedores, cualesquiera que sea su denominación (asadores, casa de comidas, pizzerías, hamburgueserías).
+2.8.3 Café, bar. Establecimientos dedicados a expedir bebidas para ser consumidas en su interior, tanto en barra como en mesas. Podrán servir tapas, bocadillos, raciones, etc., siempre que su consumo se realice en las mismas condiciones que el de las bebidas.
+2.8.4 Cafeterías. Establecimientos destinados para que el público pueda consumir bebidas o comidas indistintamente en barra o en mesas.
+2.8.5 Establecimientos públicos ubicados en zona marítimo-terrestre. Establecimientos en los que, previa licencia o autorización administrativa concedida por el ayuntamiento de acuerdo con la normativa de costas y demás regulación sectorial, se realicen las actividades propias de los mismos como servicio de comidas o bebidas.
+2.8.6 Salón-lounge. Establecimientos destinados al servicio de bebidas y, en su caso, comidas para ser consumidos en barra o en mesas. Podrán contar con sistema de reproducción para amenización musical y con servicio de cocina en relación con su objeto.
+2.8.7 Horchaterías. Establecimientos dedicados principalmente a la elaboración y/o venta de horchata, así como de otros productos tales como fartons, zumos granizados, helados, leche merengada y equivalentes, para ser consumidos en mesas bien en el interior del local, bien en terrazas.
+3. Exhibición de animales.
+Los establecimientos donde se exhiben animales se clasificarán en.
+3.1 Parques zoológicos. Recintos acotados en los que se guardan o exhiben animales en estado de libertad o en instalaciones cerradas.
+3.2 Acuarios. Lugares cerrados donde se exhiben reptiles y fauna acuática, disponiendo de instalaciones con agua.
+3.3 Safari-park.
+4. Festejos y celebraciones populares.
+4.1 Bous al carrer. Festejos taurinos tradicionales consistentes, en general, en la suelta en establecimientos cerrados o en la vía pública de reses para fomento o recreo de la afición sin que lleven aparejada su lidia. Se regularán por su normativa específica.
+4.2 Recintos taurinos. Instalación cerrada de carácter preferentemente eventual, con la adecuada solidez y seguridad, destinada de manera exclusiva a la realización de festejos taurinos tradicionales (bous al carrer). Se regularán por su normativa específica.
+4.3 Fiestas populares. Actividades que se celebran, generalmente, al aire libre, con motivo de las fiestas patronales o celebraciones populares, con actuaciones musicales, bailes, tenderetes, fuegos artificiales, hostelería y restauración.
+Se añade el epígrafe 2.8.7 por el art. 44.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifican los epígrafes 1.2.5 y 2.7.4 por el art. 207 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade el epígrafe 1.2.7 y se modifica el epígrafe 2.7 por los arts. 116 y 117 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica por el art. 48 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395

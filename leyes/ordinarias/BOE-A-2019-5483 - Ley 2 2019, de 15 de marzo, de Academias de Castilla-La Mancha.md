@@ -1,0 +1,101 @@
+# Ley 2/2019, de 15 de marzo, de Academias de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2019-5483`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2019-5483
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española, en su artículo 44, determina que los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho, y promoverán la ciencia y la investigación científica y técnica en beneficio del interés general. Así, el artículo 149, apartado 1.15, asigna al Estado la competencia exclusiva en el fomento y coordinación general de la investigación científica y técnica, mientras que el artículo 148, apartado 1.17, faculta a las Comunidades Autónomas la asunción de competencias para el fomento de la cultura y la investigación.
+Por otra parte, el Estatuto de Autonomía de Castilla-La Mancha establece en su artículo 31, apartados 1.17.ª y 1.28.ª, que la Junta de Comunidades asume competencias exclusivas en el fomento de la cultura y la investigación, sin perjuicio de lo dispuesto en el apartado 2 del artículo 149 de la Constitución, prestando especial atención a las distintas modalidades culturales de carácter regional, así como en materia de procedimiento administrativo derivado de las especialidades de la organización propia.
+Corresponde por tanto a las Comunidades Autónomas el desarrollo de un marco jurídico necesario e imprescindible para coordinar y tutelar a las distintas academias científicas, artísticas y literarias que existan o puedan radicarse en sus territorios.
+Las academias gozan de autonomía organizativa, de personalidad jurídica propia y de plena capacidad para el desarrollo de sus funciones y actividades, si bien, por su carácter público, precisan de la intervención de la Administración para su creación, al tiempo que ejercen funciones delegadas de las Administraciones Públicas, por el carácter asesor de las mismas.
+Las academias se encargan de promover y desarrollar el estudio y la investigación en diferentes campos del saber y de difundir estos conocimientos a la sociedad, con independencia y objetividad; de ahí que ejerzan también una labor de transmisión y promoción de la cultura.
+En consecuencia, las academias realizan una labor pública que beneficia al conjunto de la sociedad. He aquí la necesidad del desarrollo de esta ley, entendiéndose ésta no sólo como un ejercicio de atribución de las competencias de la Comunidad Autónoma, sino también como una medida de fomento y de apoyo a estas instituciones.
+Con esta ley, en definitiva, se pretende regular la creación de nuevas academias como instrumento de participación de la sociedad civil en la vida cultural de Castilla-La Mancha, favorecer la permanencia de las creadas hasta ahora y fomentar sus actividades, por la importancia que el estudio, la investigación, la difusión y promoción de la cultura y del conocimiento en los campos de las artes, las letras, las ciencias y otros campos del saber tiene en la mejora de nuestra sociedad.
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. El objeto de esta ley es la regulación de las academias científicas, artísticas y literarias de la Comunidad Autónoma de Castilla-La Mancha.
+2. Esta ley es de aplicación a las academias que tengan su domicilio social y desarrollen su actividad corporativa principal en el ámbito territorial de Castilla-La Mancha, sin perjuicio de que puedan realizar otras actividades relacionadas con sus fines fuera del ámbito de la Comunidad Autónoma.
+
+### Artículo 2
+
+Artículo 2. Naturaleza y fines.
+1. A los efectos de esta ley, las academias son corporaciones de derecho público, con personalidad jurídica propia y con capacidad y autonomía para el desarrollo de sus funciones; su finalidad principal es el estudio, la investigación, la difusión y promoción de la cultura y del conocimiento en los campos de las artes, las ciencias, las letras y cualquier ámbito del saber, así como colaboración con la Administración como instituciones consultivas.
+2. Fuera del ámbito de Castilla-La Mancha las academias creadas conforme a las disposiciones de esta ley tendrán la naturaleza que la legislación del Estado les atribuya.
+
+### Artículo 3
+
+Artículo 3.  Procedimiento de creación.
+1. La creación de las academias se realiza por acuerdo del Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha.
+2. El procedimiento se iniciará de oficio, mediante resolución del órgano competente en materia de cultura, en su caso, previa propuesta de la consejería competente por razón de la materia, o a instancia de las personas interesadas que acrediten competencia intelectual, académica y profesional en el correspondiente ámbito de conocimiento o de instituciones y entidades sin ánimo de lucro que desarrollen una actividad relevante en dicho ámbito.
+3. Las personas interesadas en la creación de una academia conforme a lo previsto en el apartado anterior, podrán presentar una solicitud dirigida a la consejería competente en materia de cultura, en la que se designará un representante a los efectos de notificaciones, y a la que se acompañará la siguiente documentación:
+a) Curriculum vitaede los promotores, que deberán ser, como mínimo, diez personas que acrediten competencia intelectual, académica o profesional en el correspondiente ámbito de conocimiento.
+b) Memoria justificativa de la creación de la academia.
+c) Proyecto de estatutos.
+d) Documentos que acrediten la disponibilidad de los medios y recursos destinados al desarrollo de la actividad de la corporación.
+4. Una vez adoptada la resolución de inicio del procedimiento, el órgano instructor del procedimiento solicitará los informes siguientes:
+a) Informe preceptivo a las distintas consejerías cuya competencia abarque el ámbito de conocimiento al que se dedicará la academia.
+b) Informe preceptivo de las universidades de ámbito o implantación regional.
+c) Informe preceptivo y vinculante de órgano directivo o de apoyo competente en materia de cultura.
+5. En caso de que el inicio del procedimiento se hubiera producido a instancia de persona interesada, una vez emitidos los informes previstos en el apartado anterior, se pondrá de manifiesto el expediente a la persona solicitante para que, en el plazo de quince días, alegue lo que estime conveniente a su derecho.
+Así mismo, se someterá el expediente al trámite de información pública conforme a lo establecido en el artículo 83 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+6. A la vista de los informes solicitados, de las alegaciones formuladas por la persona interesada y de las alegaciones efectuadas en el trámite de información pública, el órgano instructor formulará la correspondiente propuesta, bien para su aprobación por acuerdo del Consejo de Gobierno, o bien para su desestimación, debiendo estar, en este caso, el acto motivado, y ello se notificará a las personas interesadas, correspondiendo a la consejería competente en materia de cultura la resolución del procedimiento.
+7. El plazo para resolver y notificar el procedimiento será de seis meses. Una vez transcurrido este plazo sin que se haya publicado el acuerdo del Consejo de Gobierno de Castilla-La Mancha de creación de la academia, las personas interesadas que hubieran comparecido en el procedimiento podrán entender desestimadas sus pretensiones por silencio administrativo.
+8. El acuerdo del Consejo de Gobierno de creación especificará expresamente la aprobación de los estatutos y la consejería de la Administración regional a la que corresponda el fomento o impulso de las funciones de cada academia, así como las cuestiones administrativas inherentes a estas academias.
+9. El acuerdo del Consejo de Gobierno de creación se publicará en el «Diario Oficial de Castilla-La Mancha», momento a partir del cual las academias gozarán de personalidad jurídica y capacidad de obrar para el cumplimiento de sus fines.
+Se modifica por la disposición final 1.1 de la Ley 1/2025, de 17 de enero. Ref. BOE-A-2025-11205
+
+### Artículo 4
+
+Artículo 4. Régimen estatutario.
+1. Las academias se rigen por sus estatutos, que deberán contener como mínimo su denominación, domicilio social, objetivos, funciones, organización corporativa y composición, sistema de ingreso y derechos y deberes de sus miembros, régimen de vacantes, así como los medios institucionales y económicos que para su funcionamiento dispongan.
+2. Una vez aprobados los estatutos podrán ser elevados a escritura pública.
+
+### Artículo 5
+
+Artículo 5. Registro.
+1. Se crea el Registro de Academias, adscrito a la Consejería competente en materia de cultura, con el carácter de registro administrativo público.
+2. La inscripción en el Registro de Academias de su constitución se realizará de oficio por la consejería competente en materia de cultura con las nuevas academias constituidas conforme el artículo 3.
+3. En el Registro de Academias se inscribirán, además, los actos de extinción de las academias, sus estatutos, órganos de gobierno y dirección y cualquier modificación que se produzca. Dicha inscripción se realizará de oficio, por iniciativa propia o a instancia de las academias interesadas realizada en el plazo de los tres meses siguientes al de la fecha del acto correspondiente.
+Se modifica el apartado 3 por la disposición final 1.2 de la Ley 1/2025, de 17 de enero. Ref. BOE-A-2025-11205
+
+### Artículo 6
+
+Artículo 6. Uso de la denominación de academias.
+1. La denominación de academias sólo podrá ser utilizada por aquellas que consten inscritas en el registro creado al efecto.
+2. No se reconocerá más de una academia en cada campo del saber ni con la misma denominación. En caso de plantearse cualquier posible conflicto de intereses, se contará con la opinión de las legalmente constituidas.
+3. Las academias reconocidas y registradas en Castilla-La Mancha contarán con la ayuda del Gobierno Regional para garantizar el cumplimiento de sus fines.
+
+### Artículo 7
+
+Artículo 7. Funciones de las academias.
+Son funciones de las academias, además de las que estén atribuidas en sus estatutos, las siguientes:
+a) Promover y desarrollar el estudio, la investigación y la difusión de conocimientos de su campo de saber.
+b) Asesorar y colaborar con las Administraciones Públicas de la Comunidad Autónoma de Castilla-La Mancha en las materias propias de su finalidad institucional, en los términos previstos en el ordenamiento jurídico y en sus estatutos.
+c) Emitir los informes que les sean requeridos por las Administraciones Públicas sobre las materias de su ámbito de actuación.
+d) Formar parte de los órganos consultivos de la Administración Regional en los términos establecidos legal o reglamentariamente.
+e) Relacionarse con otras academias de cualquier ámbito territorial, así como con instituciones, entidades y corporaciones relacionadas con su campo del saber.
+
+### Disposición transitoria
+
+Disposición transitoria. Plazo de inscripción.
+1. En el plazo de seis meses, a contar desde el día siguiente a la entrada en vigor de esta ley, las academias válidamente constituidas con anterioridad a la entrada en vigor de la presente ley que tengan su domicilio social y desarrollen su actividad corporativa principal en el ámbito territorial de Castilla-La Mancha, habrán de solicitar su inscripción en el Registro de Academias.
+2. Transcurrido el plazo previsto en el apartado anterior, las academias a que se refiere el mismo que no cumplan la obligación de inscripción no podrán gozar de los derechos y beneficios contemplados en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación.
+Se faculta al Consejo de Gobierno de Castilla-La Mancha para que adopte las medidas necesarias y dicte las disposiciones adecuadas para el desarrollo, eficacia y ejecución de esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Castilla-La Mancha».
+Toledo, 15 de marzo de 2019.–El Presidente, Emiliano García-Page Sánchez.

@@ -1,0 +1,341 @@
+# Ley 19/2001, de 4 de diciembre, del Instituto Aragonés de la Juventud.
+
+- Identificador BOE: `BOE-A-2002-1996`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-1996
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en el artículo 20.1 del Estatuto de Autonomía.
+PREÁMBULO
+La Constitución Española establece en su artículo 48 que los poderes públicos promoverán las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural, correspondiendo a la Comunidad Autónoma de Aragón, en virtud de lo dispuesto en el artículo 35.1.26.ª del Estatuto de Autonomía, la competencia exclusiva en materia de juventud.
+La Comunidad Autónoma de Aragón ha asumido así este mandato constitucional, habiéndose hecho efectiva la transferencia de las correspondientes funciones y servicios a la Diputación General de Aragón mediante los Reales Decretos 2514/1982, de 12 de agosto; 4120/1982, de 29 de diciembre; 917/1984, de 8 de febrero, y 302/1998, de 27 de febrero, entre otros.
+El ejercicio por la Administración de las competencias en materia de juventud supone la prestación de una serie de servicios basados en las necesidades de este colectivo, servicios que abarcan desde la puesta en marcha de los mecanismos que faciliten el acceso de los jóvenes al mercado laboral, a una vivienda digna o a la formación continua hasta la creación de equipamientos, el fomento del asociacionismo juvenil o la gestión de albergues, residencias o campamentos juveniles.
+La amplitud y variedad de competencias en materia de juventud ejercidas por la Administración de la Comunidad Autónoma exigen una gestión dinámica y ágil, una política integral que, teniendo en cuenta las experiencias previas derivadas del Plan Aragón Joven, permita fundamentalmente la participación directa de la juventud en la vida colectiva, y en la que las técnicas de cooperación, colaboración y coordinación con las actividades realizadas por otros agentes públicos adquieran un papel muy destacado.
+Por ello, la creación del Instituto Aragonés de la Juventud como organismo autónomo persigue promover esta participación libre y eficaz de los jóvenes en el desarrollo político, social, económico y cultural; favorecer su autonomía personal e inserción social; conseguir la superación de las desigualdades sociales y la mejora de su calidad de vida, con especial atención a las políticas de empleo y vivienda, así como procurar el aprovechamiento óptimo de los recursos públicos destinados a la juventud.
+La estructura y contenido de la presente Ley sigue las prescripciones del Decreto Legislativo 2/2001, de 3 de julio, por el que se aprueba el texto refundido de la Ley de Administración de la Comunidad Autónoma de Aragón, regulando así la naturaleza y régimen jurídico del Instituto, sus fines y funciones básicas, sus órganos de dirección y las competencias de los mismos, su organización, su personal, su régimen patrimonial, presupuestario y de contratación, y estableciendo normas relativas a los actos administrativos del Instituto y al régimen de recursos contra los mismos.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Creación, naturaleza y régimen jurídico.
+1. Se crea el Instituto Aragonés de la Juventud, con el carácter de organismo autónomo, adscrito al Departamento competente en materia de servicios sociales.
+2. El Instituto Aragonés de la Juventud tiene personalidad jurídica propia y plena capacidad de obrar, y dispone para el cumplimiento de sus fines de patrimonio propio y de los recursos humanos, financieros y materiales necesarios.
+3. El Instituto Aragonés de la Juventud se rige por lo establecido en esta Ley, sus normas de desarrollo y demás disposiciones que sean de aplicación.
+Se modifica el apartado 1 por el art. 41.1 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 2
+
+Artículo 2. Fines.
+Son fines del Instituto Aragonés de la Juventud:
+a) El desarrollo y ejecución de las líneas de actuación del Gobierno de Aragón dirigidas a promover la participación libre y eficaz de los jóvenes en el desarrollo político, social, económico y cultural.
+b) El favorecimiento de la autonomía personal y de la inserción social de la juventud.
+c) La superación de las desigualdades sociales, desarrollando valores basados en el respeto a la diferencia y en la lucha contra posturas racistas y sexistas, e integrando a los jóvenes inmigrantes.
+d) La mejora de la calidad de vida a través de políticas activas de fomento del empleo y de acceso a una vivienda digna.
+e) El aprovechamiento óptimo de los recursos públicos destinados a la juventud.
+f) La coordinación de las actividades de las instituciones públicas y privadas en materia de juventud.
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Corresponden al Instituto Aragonés de la Juventud, con carácter general, las funciones siguientes:
+a) Planificar, programar y coordinar la política para la juventud del Gobierno de Aragón.
+b) Realizar, promover y divulgar estudios sobre la situación de la juventud aragonesa y su incorporación a la vida social, económica, cultural y política.
+c) Promover la defensa de los derechos de los jóvenes.
+d) Favorecer la autonomía personal y la inserción social de la juventud, incidiendo especialmente en el ámbito laboral, a través de políticas activas de fomento de empleo, y en el de la sanidad y la vivienda, contribuyendo a la superación de desigualdades sociales y atendiendo a la mejora de la calidad de vida de los jóvenes.
+e) Potenciar la promoción sociocultural de la juventud, con especial atención a la cultura y lenguas aragonesas, favoreciendo las iniciativas y actividades de creación cultural y artística entre los jóvenes mediante la promoción de medidas de apoyo a la producción y a la existencia de circuitos de exhibición cultural para los mismos.
+f) Prestar una atención especial a la eliminación de la discriminación y a la promoción de la igualdad de oportunidades entre mujeres y hombres.
+g) Contribuir con todas las Administraciones y entidades públicas y privadas al desarrollo de las políticas integrales de juventud.
+h) Fomentar las relaciones institucionales y la cooperación con los organismos encargados de las políticas de juventud en la Administración General del Estado, con otras Comunidades Autónomas y con otros organismos en el ámbito internacional.
+i) Promover la actividad asociativa y la participación juvenil, en coordinación con el Consejo de la Juventud de Aragón.
+j) Crear y mantener actualizado el censo de asociaciones juveniles de la Comunidad Autónoma de Aragón.
+k) Apoyar, material y económicamente, el desarrollo de las iniciativas y proyectos de la juventud aragonesa.
+l) Facilitar a los jóvenes la información, la documentación y el asesoramiento precisos para desarrollar sus iniciativas y ejercitar sus derechos.
+m) Potenciar el desarrollo de las actividades de tiempo libre, el turismo y los intercambios internacionales de los jóvenes, especialmente en relación con los programas de la Unión Europea.
+n) Promover y ordenar la formación de técnicos y de animadores juveniles en el marco asociativo y del voluntariado, así como el apoyo a las estructuras formativas que, desde las Administraciones locales y la iniciativa social sin ánimo de lucro, impartan este tipo de servicios.
+ñ) Fomentar y apoyar el voluntariado social en la juventud.
+o) Regular y promocionar la formación del voluntariado juvenil, principalmente a través de Escuelas de Animadores en el Tiempo Libre.
+p) Promover y ordenar las instalaciones al servicio de la juventud en la Comunidad Autónoma de Aragón, así como planificar, gestionar, crear y mantener los albergues, residencias, campamentos e instalaciones de juventud del Gobierno de Aragón.
+q) Facilitar a las asociaciones juveniles y a las escuelas de animadores en el tiempo libre inscritas en los registros correspondientes el uso de espacios e instalaciones para el desarrollo de sus actividades y acciones formativas.
+r) Promover la integración social y laboral de los jóvenes inmigrantes con presencia en la Comunidad Autónoma de Aragón.
+s) Apoyar la participación e iniciativas de los jóvenes aragoneses relacionadas con la cooperación y solidaridad internacional, la defensa de los derechos humanos y la cultura de la paz.
+t) Cualesquiera otras funciones que, en materia de juventud, correspondan a la Comunidad Autónoma de Aragón y sean atribuidas a este Instituto por el Gobierno de Aragón.
+2. El Instituto Aragonés de la Juventud coordinará las actuaciones de los distintos Departamentos del Gobierno de Aragón dirigidas preferentemente a la juventud.
+3. Para el desarrollo de sus funciones, el Instituto Aragonés de la Juventud diseñará planes de actuación, y apoyará y promoverá aquellos que estén basados en la participación de los jóvenes, en la colaboración interinstitucional y en la iniciativa social solidaria con la juventud.
+
+### Artículo 4
+
+Artículo 4. Principios de organización y funcionamiento.
+En su organización y funcionamiento, así como en el ejercicio de sus competencias, el Instituto Aragonés de la Juventud se ajustará a los siguientes principios:
+a) Desconcentración y descentralización funcional y territorial de actividades.
+b) Economía y adecuada asignación de los medios a los fines institucionales.
+c) Autonomía de gestión y organización de los centros y servicios juveniles.
+d) Eficacia en el cumplimiento de sus objetivos institucionales.
+e) Eficiencia en la gestión de los recursos.
+f) Transparencia y publicidad en la actuación administrativa.
+g) Respeto de los principios de igualdad de oportunidades y no discriminación.
+h) Colaboración y coordinación con el Consejo de la Juventud de Aragón, así como con el resto de organismos y Administraciones públicas.
+i) Evaluación continua de la calidad de los servicios y prestaciones realizados a los jóvenes.
+j) Apuesta decidida por el fomento del empleo estable y de calidad para los jóvenes.
+
+### Artículo 5
+
+Artículo 5. Competencias del Gobierno de Aragón.
+Corresponden al Gobierno de Aragón las siguientes competencias:
+a) Establecer las directrices de la acción de gobierno en materia de juventud.
+b) Nombrar al Director Gerente del Instituto a propuesta del Consejero competente en materia de servicios sociales.
+c) Aprobar los Estatutos del Instituto, en los que se regulará, entre otros aspectos, su estructura organizativa, de acuerdo con lo previsto en la presente Ley.
+d) Aprobar disposiciones de carácter general en relación con el Instituto.
+e) Aprobar el proyecto de presupuesto del Instituto Aragonés de la Juventud, que se integrará en el proyecto de presupuestos de la Comunidad Autónoma de Aragón.
+f) Aprobar los precios de los servicios de carácter no gratuito prestados por el Instituto.
+g) Incorporar las necesidades de personal del Instituto a la oferta pública de empleo correspondiente.
+h) Cualesquiera otras que le atribuya la legislación vigente.
+Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 6
+
+Artículo 6. Atribuciones del Departamento competente en materia de servicios sociales.
+Corresponden al Departamento competente en materia de servicios sociales las siguientes atribuciones:
+a) La fijación de las directrices generales de actuación del Instituto Aragonés de la Juventud.
+b) La elaboración y, en caso de habilitación específica mediante ley o reglamento, aprobación de disposiciones de carácter general.
+c) La aprobación del anteproyecto de presupuesto del Instituto.
+d) La aprobación de la propuesta anual de necesidades de personal para su elevación al Gobierno de Aragón.
+e) La aprobación de la memoria anual de actividades del Instituto.
+f) La celebración de convenios y acuerdos de colaboración con instituciones públicas y privadas, previa autorización por el Gobierno de Aragón.
+g) Cuantas otras le vengan atribuidas por el ordenamiento vigente.
+Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 7
+
+Artículo 7. Competencias del Instituto Aragonés de la Juventud.
+Son competencias del Instituto Aragonés de la Juventud las siguientes:
+a) La prestación de los servicios y la gestión de los centros e instalaciones juveniles que sean de titularidad de la Comunidad Autónoma de Aragón.
+b) La puesta en marcha de programas y servicios en materia de juventud, de acuerdo con las directrices generales de actuación del Instituto.
+c) La gestión de convenios y acuerdos de colaboración, subvenciones y prestaciones económicas que correspondan.
+d) La elaboración del anteproyecto de presupuesto del Instituto, su ejecución y liquidación, así como las propuestas de modificación de crédito, con sujeción a la Ley de Presupuestos vigente en cada ejercicio y en la legislación sobre hacienda de la Comunidad Autónoma de Aragón.
+e) La gestión de la contabilidad del Instituto, con sujeción al régimen de contabilidad pública, en los términos previstos por la legislación sobre hacienda de la Comunidad Autónoma de Aragón.
+f) La gestión de la cuenta de tesorería del Instituto, en el ejercicio de las funciones establecidas en la legislación sobre hacienda de la Comunidad Autónoma de Aragón.
+g) Cuantas otras funciones que, correspondiendo al Gobierno de Aragón en materia de juventud, le sean expresamente atribuidas.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 8
+
+Artículo 8. Estructura orgánica.
+El Instituto Aragonés de la Juventud se estructura en los siguientes órganos de dirección:
+a) La Dirección Gerencia.
+b) El Consejo de Dirección.
+c) La Secretaría General del Instituto.
+Se modifica por la disposición final 1.1 de la Ley 12/2023, de 30 de marzo. Ref. BOE-A-2023-10877
+ Se modifica por la disposición final 1.1 de la Ley 6/2015, de 25 de marzo. Ref. BOE-A-2015-5330#df
+
+### Artículo 9
+
+Artículo 9. El Consejo de Dirección.
+1. El Consejo de Dirección del Instituto Aragonés de la Juventud estará integrado por los siguientes miembros:
+a) Presidente: el Director o Directora Gerente, quien tendrá voto de calidad.
+b) Vicepresidente: la persona que ocupe la titularidad de la Secretaría General del Instituto.
+c) Vocales:
+– El/la Jefe/a o Jefes/as de Servicio del Instituto Aragonés de la Juventud.
+– El/la Jefe/a o Jefes/as de Sección del Instituto Aragonés de la Juventud.
+– El/la director/a de las residencias adscritas al Instituto Aragonés de la Juventud.
+d) Secretario: realizará las funciones de Secretario, con voz, pero sin voto, un funcionario del Instituto, nombrado por el Director o la Directora Gerente.
+2. Corresponden al Consejo de Dirección las siguientes funciones:
+a) Elaborar y proponer las líneas generales de actuación del Instituto.
+b) Informar el Plan anual de actuación.
+c) Conocer e informar el anteproyecto de presupuesto del Instituto, así como las modificaciones presupuestarias que se planteen en su ejecución.
+d) Controlar y evaluar la gestión del Instituto.
+e) Conocer las iniciativas adoptadas por los distintos departamentos del Gobierno de Aragón que afecten directamente a los jóvenes.
+f) Conocer e informar la propuesta anual de necesidades de personal del Instituto.
+g) Conocer y controlar el desarrollo de planes y programas específicos que se establezcan.
+h) Proponer cuantas medidas considere adecuadas para el mejor funcionamiento del Instituto.
+i) Aportar, en el portal de datos abiertos del Gobierno de Aragón, en formatos abiertos y reutilizables, todos los datos que la normativa permita relacionados con estas funciones.
+j) Elaborar un informe anual que refleje el nivel de cumplimiento del Plan anual de actuación del Instituto, incluyendo las potencialidades y carencias del mismo. Dicho informe será publicado en el portal de transparencia del Gobierno de Aragón.
+3. El Consejo de Dirección se reunirá, de forma ordinaria, cuatro veces al año. Asimismo, podrá reunirse con carácter extraordinario a iniciativa del Presidente o de la mayoría de sus miembros.
+Se añade por la disposición final 1.2 de la Ley 12/2023, de 30 de marzo. Ref. BOE-A-2023-10877
+ Se deroga por la disposición derogatoria única.1.b) de la Ley 6/2015, de 25 de marzo. Ref. BOE-A-2015-5330#dd
+ Se modifica la letra c) del apartado 1 por el art. 55 de la Ley 12/2004, de 29 de diciembre. Ref. BOE-A-2005-2729
+ Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 10
+
+Artículo 10. El Director Gerente.
+1. La Dirección Gerencia del Instituto Aragonés de la Juventud ejerce la representación legal del mismo y dirige, coordina, planifica y controla las actividades del Instituto, de acuerdo con las directrices del Gobierno de Aragón.
+Corresponden a la Dirección Gerencia del Instituto Aragonés de la Juventud las siguientes competencias:
+a) Aprobar sus normas de régimen interno.
+b) Elaborar y proponer las líneas generales de actuación del Instituto.
+c) Elaborar los planes estratégicos.
+d) Desarrollar y ejecutar los planes y programas específicos que se establezcan.
+e) Conocer las iniciativas adoptadas por los distintos departamentos del Gobierno de Aragón que afecten directamente a los jóvenes.
+f) Elaborar el anteproyecto de presupuesto del Instituto y proponer las modificaciones presupuestarias que se planteen en su ejecución.
+g) Elaborar la propuesta anual de necesidades de personal del Instituto.
+h) Proponer cuantas medidas considere adecuadas para el mejor funcionamiento del Instituto.
+i) Ejercer el control y la evaluación interna de la organización y del desarrollo de las actividades del Instituto.
+j) Autorizar los gastos, efectuar las disposiciones, contraer obligaciones y ordenar pagos, dentro de los límites fijados por la normativa vigente en materia presupuestaria, sin perjuicio de las delegaciones que efectúe en otros órganos inferiores.
+k) Ejercer la potestad sancionadora atribuida al Instituto y resolver las reclamaciones previas.
+l) Interponer recursos administrativos en nombre del Instituto Aragonés de la Juventud y proponer el ejercicio de acciones ante los órganos judiciales, con sujeción a las instrucciones que señale el Gobierno de Aragón.
+2. El director gerente tendrá rango de director general y será nombrado y separado libremente de su cargo por el Gobierno de Aragón, a propuesta del Consejero competente en materia de juventud.
+Se modifica por la disposición final 1.2 de la Ley 6/2015, de 25 de marzo. Ref. BOE-A-2015-5330#df
+ Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 11
+
+Artículo 11. Estructura orgánica básica.
+1. El Instituto Aragonés de la Juventud se estructurará en varias unidades orgánicas, que se determinarán en sus Estatutos.
+2. Como órgano de apoyo a dichas unidades orgánicas, se crea la Secretaría General del Instituto, que ejercerá respecto del organismo las funciones que la legislación general asigna a los secretarios generales técnicos de los departamentos, así como las establecidas en el artículo 11 del Decreto 208/1999, de 17 de noviembre, del Gobierno de Aragón, por el que se distribuyen las competencias en materia de personal entre los diferentes órganos de la Administración de la Comunidad Autónoma de Aragón, según se determine reglamentariamente.
+3. Los Estatutos del Instituto Aragonés de la Juventud podrán prever la constitución de comisiones de trabajo de carácter sectorial para la elaboración de propuestas que permitan el mejor desarrollo de sus funciones, garantizando la participación de todos los sectores sociales implicados en la materia.
+Se modifican los apartados 2 y 3 por la disposición final 1.3 y 4 de la Ley 6/2015, de 25 de marzo. Ref. BOE-A-2015-5330#df
+
+### Artículo 12
+
+Artículo 12. Organización territorial.
+El Instituto Aragonés de la Juventud se dotará de una estructura y organización periférica basada en la delimitación comarcal de Aragón.
+
+## CAPÍTULO III
+
+Personal
+
+### Artículo 13
+
+Artículo 13. Recursos humanos.
+1. Integran los efectivos de personal del Instituto
+Aragonés de la Juventud:
+a) El personal adscrito al Departamento competente en materia de Cultura y Turismo, cualquiera que sea su naturaleza, que realice funciones en áreas cuya gestión corresponda al Instituto Aragonés de la Juventud.
+b) El personal de la Administración de la Comunidad Autónoma que se incorpore al Instituto.
+2. El régimen jurídico del personal funcionario adscrito al Instituto será el establecido en la legislación sobre ordenación de la función pública de la Comunidad Autónoma de Aragón. El personal laboral se regirá por la legislación laboral común y por el convenio colectivo del personal laboral de la Diputación General de Aragón.
+
+## CAPÍTULO IV
+
+Régimen económico-financiero
+
+### Artículo 14
+
+Artículo 14. Recursos económicos.
+Constituyen los recursos económicos del Instituto Aragonés de la Juventud:
+a) Los que le sean asignados con cargo a los presupuestos de la Comunidad Autónoma de Aragón.
+b) Los productos y rentas de toda índole procedentes de sus bienes y derechos.
+c) Los ingresos ordinarios y extraordinarios que legalmente esté autorizado a percibir.
+d) Las subvenciones, legados y aportaciones voluntarias de entidades y particulares.
+e) Los créditos que se transfieran conjuntamente con servicios procedentes de otras Administraciones públicas.
+
+### Artículo 15
+
+Artículo 15. Patrimonio.
+1. Se adscriben al Instituto Aragonés de la Juventud los siguientes bienes y derechos:
+a) Aquellos cuya titularidad corresponda a la Comunidad Autónoma de Aragón y estén afectos a los servicios del Instituto.
+b) Los bienes y derechos de toda clase afectos a la gestión de los servicios del Instituto transferidos a la Comunidad Autónoma.
+c) Cualesquiera otros bienes y derechos que adquiera o reciba por cualquier título, o se le afecten mediante convenio.
+2. Será aplicable a los bienes y derechos adscritos al Instituto la legislación sobre hacienda y patrimonio de la Comunidad Autónoma de Aragón.
+3. Las obras que deba realizar el Instituto Aragonés de la Juventud para el cumplimiento de sus finalidades específicas se considerarán de utilidad pública a efectos de expropiación forzosa.
+
+### Artículo 16
+
+Artículo 16. Presupuesto.
+El presupuesto del Instituto Aragonés de la Juventud se incluirá en los presupuestos de la Comunidad Autónoma de Aragón, y su procedimiento de elaboración, aprobación, ejecución, modificación y liquidación, así como estructura, se regirá por lo establecido en las leyes de presupuestos de la Comunidad Autónoma de Aragón, en la legislación sobre hacienda y en las demás normas de aplicación en materia presupuestaria.
+
+### Artículo 17
+
+Artículo 17. Intervención.
+1. Se crea la Intervención delegada del Instituto Aragonés de la Juventud, que dependerá orgánica y funcionalmente de la Intervención General de la Comunidad Autónoma de Aragón.
+2. La Intervención delegada del Instituto Aragonés de la Juventud tendrá las siguientes funciones:
+a) El control de todos los actos del Instituto que den lugar al reconocimiento de derechos y obligaciones de contenido económico, así como de los ingresos y pagos que de ellos se deriven, y la recaudación, inversión o aplicación en general de los caudales públicos, con el fin de asegurar que la administración de sus recursos se ajusta a las disposiciones aplicables en cada caso en la Comunidad Autónoma de Aragón.
+b) La gestión de la contabilidad pública del Instituto.
+c) La emisión de informes cuando sea preceptivo.
+d) La intervención y comprobación material de las inversiones y de la aplicación de las subvenciones y convenios.
+e) La realización de las auditorías y controles financieros que, en el ámbito del Instituto, le sean encomendados por el Interventor general.
+f) La representación de la Intervención General en las mesas de contratación.
+3. El ejercicio de la función interventora que el apartado segundo de este artículo asigna a la Intervención delegada del Instituto comprenderá las actuaciones y competencias que la legislación sobre hacienda de la Comunidad Autónoma atribuye a dicha función.
+
+### Artículo 18
+
+Artículo 18. Tesorería.
+1. La Tesorería del Instituto Aragonés de la Juventud estará sometida al régimen de intervención y contabilidad pública. En ella se unificarán todos los recursos financieros que se destinen para el cumplimiento de sus fines, y tendrá a su cargo la custodia de los fondos, valores, créditos y atenciones generales de dicho Instituto.
+2. La Tesorería del Instituto Aragonés de la Juventud, previa autorización del Consejero competente en materia de Economía, Hacienda y Empleo, podrá abrir y utilizar en las entidades de crédito y ahorro las cuentas necesarias para el funcionamiento de los servicios, atendiendo a la especial naturaleza de sus operaciones y al lugar en que hayan de realizarse.
+
+## CAPÍTULO V
+
+Régimen jurídico
+
+### Artículo 19
+
+Artículo 19. Actos y recursos administrativos.
+1. El régimen jurídico de los actos emanados del Instituto Aragonés de la Juventud será el establecido en la presente Ley y en la normativa específica de la Comunidad Autónoma de Aragón, sin perjuicio de la aplicación de las normas sobre el procedimiento común a todas las Administraciones públicas.
+2. Los actos y resoluciones del Instituto sujetos al Derecho administrativo no agotarán la vía administrativa y serán susceptibles de recurso de alzada ante el titular del Departamento competente en materia de servicios sociales.
+Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 20
+
+Artículo 20. Régimen de contratación.
+1. El Director Gerente del Instituto Aragonés de la Juventud será el órgano de contratación del organismo autónomo, rigiéndose por lo dispuesto en la legislación sobre contratos de las Administraciones públicas.
+2. Para la celebración de contratos cuya cuantía sea superior a trescientos mil quinientos seis euros y cinco céntimos, será necesaria la previa autorización del consejero competente en materia de juventud.
+Se modifica el apartado 2 por la disposición final 1.5 de la Ley 6/2015, de 25 de marzo. Ref. BOE-A-2015-5330#df
+ Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición adicional primera
+
+Disposición adicional primera. Subrogación de derechos y obligaciones.
+El Instituto Aragonés de la Juventud se subroga en todos los derechos y obligaciones contraídos por la Diputación General de Aragón en relación con los medios que se le transfieran.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adscripción de centros de la juventud.
+Los centros de juventud se adscribirán al Instituto Aragonés de la Juventud mediante Decreto del Gobierno de Aragón.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Constitución del Consejo Rector.
+El Consejo Rector se constituirá en el plazo máximo de tres meses desde la entrada en vigor de la presente
+Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación de la estructura orgánica del Departamento de Cultura y Turismo.
+Asumidas por el Instituto Aragonés de la Juventud las funciones establecidas en la presente Ley, el Departamento de Cultura y Turismo ajustará su estructura y organización a las funciones que le correspondan.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Registro de Asociaciones.
+El Departamento competente en materia de servicios sociales revisará anualmente la relación de asociaciones juveniles inscritas en el Registro de Asociaciones de la Comunidad Autónoma de Aragón.
+Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Competencias de la Dirección General de Juventud y Deporte.
+El Gobierno de Aragón atribuirá al Instituto Aragonés de la Juventud las funciones en materia de juventud ejercidas por entidades adscritas a la Dirección General de Juventud y Deporte del Departamento de Cultura y Turismo.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas las disposiciones del Decreto 202/1999, de 2 de noviembre, por el que se aprueba la estructura orgánica del Departamento de Cultura y Turismo, en cuanto se opongan a lo establecido en la presente Ley.
+2. Asimismo, quedan derogadas cuantas normas de igual o inferior rango resulten incompatibles con lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Estatutos del Instituto Aragonés de la Juventud.
+En el plazo de seis meses a partir de la entrada en vigor de esta Ley, el Gobierno de Aragón, a propuesta conjunta de los Consejeros competentes en materia de servicios sociales y de Economía, Hacienda y Empleo, aprobará los Estatutos del Instituto Aragonés de la Juventud.
+Se modifica por el art. 41.2 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación de desarrollo reglamentario.
+Se autoriza al Gobierno de Aragón para dictar las disposiciones necesarias y adoptar las medidas pertinentes para el desarrollo y aplicación de la presente
+Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Aragón».
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 4 de diciembre de 2001.
+MARCELINO IGLESIAS RICOU
+Presidente

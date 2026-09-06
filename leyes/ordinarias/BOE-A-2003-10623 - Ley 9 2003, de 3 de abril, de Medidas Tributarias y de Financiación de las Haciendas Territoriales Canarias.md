@@ -1,0 +1,242 @@
+# Ley 9/2003, de 3 de abril, de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias.
+
+- Identificador BOE: `BOE-A-2003-10623`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10623
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 9/2003, de 3 de abril, de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias.
+EXPOSICIÓN DE MOTIVOS
+En el marco de los principios estatutarios y legales de colaboración entre las administraciones canarias, la presente Ley tiene como finalidad crear las condiciones que hagan efectiva la estabilidad de las haciendas territoriales canarias mediante el establecimiento de una serie de medidas tributarias y de financiación, que les permita la planificación a largo plazo con mayor certidumbre y seguridad.
+Elemento esencial para la consecución del objetivo de estabilidad lo constituye el régimen de distribución de recursos de las figuras tributarias del Régimen Económico-Fiscal de Canarias que corresponden a las administraciones canarias. Este régimen se regula en el Capítulo primero, mediante la determinación expresa del concepto «Bloque de Financiación Canario», y de los criterios de distribución, lo que le otorga la seguridad jurídica necesaria para dicho objetivo.
+El Bloque de Financiación Canario, o base de reparto, se conforma por los rendimientos anuales del Impuesto General Indirecto Canario (IGIC), del Arbitrio sobre Importaciones y Entrega de Mercancías en las Islas Canarias (AIEM) y el rendimiento anual del Impuesto Especial sobre Determinados Medios de Transportes, que se considera a efectos de una más equitativa distribución de los recursos.
+Para la distribución se fija un porcentaje único de distribución entre las corporaciones territoriales canarias y el Gobierno de Canarias. El cálculo del porcentaje de distribución es el producto de la distribución y aportación de la Comunidad Autónoma en el año 2001 a las entidades locales canarias sobre el total de los recursos.
+Las aportaciones y distribución se refirieron al Impuesto General Indirecto Canario, al Arbitrio sobre la Producción e Importación en las Islas Canarias (APIC), y a la compensación por el descreste del APIC. Al importe anterior se le añade un ajuste, consistente en consolidar aquellos importes asignados a la subida de tipos del IGIC y recogidos en el acuerdo entre el Gobierno de Canarias y los cabildos insulares sobre compensación por el descreste del APIC para el ejercicio 2001 y que, excepcionalmente, no se obtuvieron en dicho ejercicio.
+Con ello se pone fin a los sistemas transitorios propios de la situación actual caracterizada por la inestabilidad de las haciendas territoriales canarias que suponía la adopción en las leyes de Presupuestos de la Comunidad Autónoma de complejos mecanismos de compensación financiera de procesos de desarme y posterior pérdida de figuras tributarias que desvirtúan determinadas normas y producen dificultades de interpretación.
+Atendiendo a la misma finalidad, en el marco de las competencias de colaboración financiera interadministrativa, se crea el Fondo Insular para Inversiones, como instrumento que contribuye a la planificación y coordinación a largo plazo entre las administraciones canarias para concentrar los esfuerzos inversores en aquellos sectores que constituyen una prioridad común, mediante la aprobación de planes y programas sectoriales.
+Un elemento adicional en relación con la finalidad de la Ley viene determinado por el problema que, para las mismas, suponen las normas estatales de régimen local sobre padrones municipales, al establecer los efectos de la revisión anual de las mismas en fecha muy posterior a la fecha de referencia y con criterios no claros sobre la aplicación sobre el año de obtención de los recursos.
+Ante ello la presente Ley, en uso de la competencia prevista en el artículo 30.32 del Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 10/1982, de 10 de agosto, y modificado por Ley Orgánica 4/1996, de 30 de diciembre, y en la reserva de Ley del artículo 59 g) del mismo, se establece como dato poblacional, a efectos de la distribución de los recursos del REF, el de los padrones aprobados para el año de referencia.
+Al propio tiempo, parece conveniente adaptarlo a la legislación de régimen local vigente en materia de padrón municipal y sustituir la revisión quinquenal por revisiones anuales.
+En uso de la misma competencia estatutaria, se establece un mecanismo de actualización de las Cartas Municipales o de Bases vigentes de distribución de los recursos del REF, que proviniendo algunas de ellas de mediados del siglo pasado se consideran inadecuadas a la realidad actual, y se suprime el 5 por 100 de la recaudación de los recursos del REF atribuido a las mancomunidades y que actualmente reciben los cabildos, que se destina al Fondo Insular para Inversiones.
+Las modificaciones citadas sobre población, bases de distribución y financiación del Fondo Insular, acaban por determinar la necesidad de establecer, por razones de seguridad jurídica, un texto único en materia de distribución de recursos derivados del REF con el fin de evitar las interpretaciones que podrían suscitar la presencia de una norma estatal y otra autonómica en la materia, incorporando el contenido de aquélla habida cuenta de su correcta formulación y la experiencia de su aplicación, por lo que parece lógico dar continuidad a la misma en la presente Ley.
+Otra de las medidas de la presente Ley en aras de lograr la estabilidad es la introducción del principio de corresponsabilidad fiscal, dotando a los cabildos insulares de una capacidad tributaria propia, que se concreta en la posibilidad de fijar el tipo de la exacción fiscal sobre la gasolina y el gasóleo de automoción, todo ello dentro de unas bandas inicialmente fijadas, al propio tiempo que se mejora la técnica del tributo.
+En el mismo sentido, la ampliación de competencias y funciones transferidas a los cabildos insulares determina la necesidad de establecer, al amparo de lo dispuesto en el artículo 23.4 del Estatuto, un sistema de actualización de la financiación del coste de las mismas dotado de mayor equidad financiera, tomando como referencia de la actualización en gastos corrientes la que recibe del Estado la Comunidad Autónoma a través del Fondo de Suficiencia, mientras que la financiación de gastos de capital su evolución es paralela a los gastos de la misma naturaleza en la Comunidad Autónoma.
+Finalmente parece adecuado a la finalidad de esta Ley el reconocimiento expreso del principio de lealtad institucional mediante el compromiso del Gobierno de Canarias de establecer los mecanismos precisos para evaluar los impactos que sobre las haciendas locales canarias pueda tener en el futuro la legislación sectorial o institucional de la Comunidad Autónoma, así como la garantía de que los ayuntamientos no pueden recibir menos que lo obtenido con cargo al ejercicio de 2002.
+
+## CAPÍTULO PRELIMINAR
+
+Objeto de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto la regulación del régimen de distribución de recursos derivados del Régimen Económico-Fiscal de Canarias, y como complementarios al mismo, la creación del Fondo Insular para Inversiones, la corresponsabilidad fiscal en la exacción fiscal sobre la gasolina y el gasóleo de automoción y la financiación de las competencias transferidas de la Comunidad Autónoma a los cabildos insulares.
+
+## CAPÍTULO I
+
+Distribución de los recursos financieros derivados del régimen económico y fiscal de Canarias
+
+### Artículo 2
+
+Artículo 2. Bloque de Financiación Canario.
+1. Para el cálculo de la distribución de la recaudación de los tributos derivados del Régimen Económico y Fiscal de Canarias que anualmente serán objeto de distribución entre la Comunidad Autónoma y los cabildos y ayuntamientos canarios se determina el Bloque de Financiación Canario, que estará conformado por:
+a) La recaudación líquida de las deudas tributarias del Impuesto General Indirecto Canario y el Arbitrio sobre Importaciones y Entrega de Mercancías en las Islas Canarias.
+b) La recaudación de las sanciones por las infracciones tributarias derivadas de la aplicación de los impuestos citados en la letra anterior.
+c) El rendimiento derivado del Impuesto Especial sobre Determinados Medios de Transportes.
+2. En la recaudación líquida a que se refiere la letra a) del número anterior no se integrará la recaudación líquida del Impuesto General Indirecto Canario obtenida por la importación y entrega interior de las labores del tabaco rubio y de sucedáneos del tabaco en la diferencia entre el tipo impositivo del 20 por 100 y el tipo impositivo aplicable a las citadas operaciones, que se atribuirá íntegramente a la Comunidad Autónoma de Canarias.
+Se modifica por la disposición final 1.1 de la Ley 6/2008, de 23 de diciembre. Ref. BOE-A-2009-2512
+
+### Artículo 3
+
+Artículo 3. Costes de gestión.
+1. El Bloque de Financiación será minorado por una cantidad equivalente a la que se asigne a la Comunidad Autónoma en concepto de gastos de gestión conforme se establece en los apartados siguientes.
+2. Con cargo a la recaudación de los tributos objeto de distribución y gestionados por la Agencia Tributaria Canaria se financiarán los gastos de funcionamiento e inversión necesarios para la gestión de los mismos.
+3. La cuantía de los gastos de funcionamiento e inversión, a partir de la entrega a cuenta de la anualidad 2024, se establece en el setenta por ciento del presupuesto inicial de gastos de la Agencia Tributaria Canaria en los capítulos 1 "Gastos de personal", 2 "Gastos corrientes en bienes y servicios" y 6 "Inversiones reales".
+4. La cuantía de los gastos de funcionamiento e inversión, a partir de la liquidación del año 2023, a practicar en 2024, se establece en el setenta por ciento de las obligaciones reconocidas de la Agencia Tributaria Canaria en los capítulos 1 "Gastos de personal", 2 "Gastos corrientes en bienes y servicios" y 6 "Inversiones reales".
+5. Sin perjuicio de lo establecido en los apartados anteriores, en el marco de la Subcomisión de Política Fiscal y Financiera se podrán aprobar planes especiales de gestión tributaria que impliquen incrementos en la financiación de los gastos de funcionamiento e inversión regulados en este artículo.
+Los citados incrementos se aprobarán por el consejero competente en materia de hacienda, a propuesta de la Subcomisión de Política Fiscal y Financiera.
+Se modifican los apartados 2, 3, 4, y el actual 4 pasa a ser 5 por la disposición final 11 de la Ley 7/2023, de 27 de diciembre. Ref. BOE-A-2024-10011
+ Se modifica el apartado 3 por la disposición final 3 de la Ley 3/2016, de 29 de diciembre. Ref. BOE-A-2017-6861
+
+### Artículo 4
+
+Artículo 4. Distribución entre Comunidad Autónoma de Canarias y cabildos insulares y ayuntamientos canarios.
+1. Para la determinación de las cantidades a distribuir se fijan los siguientes porcentajes de distribución:
+a) Para los cabildos insulares y ayuntamientos conjuntamente, el 58%.
+b) Para la Comunidad Autónoma de Canarias el 42%.
+2. La distribución del Bloque de Financiación Canario entre la Comunidad Autónoma de Canarias y las haciendas locales se realizará por la Comunidad Autónoma conforme a los cálculos establecidos en los artículos anteriores, aplicando los porcentajes fijados en el apartado 1 de este artículo, y según el procedimiento que establezca el titular del departamento competente en materia de hacienda.
+
+### Artículo 5
+
+Artículo 5. Distribución entre las islas.
+La distribución de la cantidad que corresponde a las islas de acuerdo con lo establecido en este capítulo se efectuará por la Comunidad Autónoma de Canarias de la siguiente forma:
+1. A los cabildos insulares un cinco por ciento con destino al Fondo Insular para Inversiones.
+2. La cantidad restante, una vez detraído el importe establecido en el apartado 1 de este artículo:
+a) El ochenta y siete y medio por ciento, en forma directamente proporcional a la población.
+b) El dos por ciento, en forma directamente proporcional a la superficie.
+c) El diez y medio por ciento, en atención al hecho insular, distribuyéndose un uno y medio por ciento a cada isla.
+3. A los efectos de este artículo, se utilizarán los siguientes datos:
+a) Para la variable población, las cifras anuales de las revisiones de los padrones municipales de habitantes aprobados para el año a que se refieran los ingresos objeto de distribución.
+b) Para la variable superficie, las cifras publicadas por el Instituto Geográfico Nacional.
+
+### Artículo 6
+
+Artículo 6. Distribución entre los cabildos insulares y ayuntamientos de cada isla.
+1. Del uno y medio por ciento correspondiente a cada isla conforme a lo establecido en el apartado 2 c) del artículo 5 anterior participará el cabildo de la respectiva isla en un cincuenta por ciento, y el resto lo distribuirá entre los ayuntamientos de la isla conforme se establece en el apartado siguiente.
+2. La distribución de los recursos se efectuará en cada isla por el cabildo insular. Éste se reservará un sesenta por ciento, y el resto lo distribuirá y librará a los ayuntamientos de la isla respectiva. Tal libramiento deberá producirse en el plazo máximo de quince días a partir de la recepción de los fondos.
+3. Antes del 30 de abril de 2004 los ayuntamientos y el cabildo de la isla respectiva elevarán propuesta al Gobierno de Canarias para que mediante decreto proceda a la modificación de las bases que han de regir la distribución intermunicipal de los recursos en la isla.
+La distribución a que se refiere el párrafo anterior se adoptará por acuerdo conjunto del cabildo y, al menos, la mitad de los ayuntamientos de la isla respectiva, siempre que en el acuerdo adoptado formen parte todos los municipios que representen cada uno de ellos, al menos el 10 por ciento de la población insular.
+4. Si en el plazo establecido en el número anterior no se hubiera llegado a un acuerdo, y si oídos posteriormente la federación de municipios más representativa de Canarias y los cabildos insulares tampoco se llegara a un acuerdo, quedará establecido un sistema de reparto basado en la aplicación de los mismos criterios que para la distribución de los recursos entre las islas están previstos en el artículo 5 apartados 2 y 3. A estos efectos la distribución prevista en la letra c) del apartado 2 del artículo 5 anterior se realizará en partes iguales entre los ayuntamientos de la isla.
+5. Con independencia de si se alcanza acuerdo sobre distribución intermunicipal, y siempre que lo que corresponda de la recaudación a esa isla supere lo obtenido en el año 2002, el nuevo sistema deberá garantizar que en cada año, ningún ayuntamiento de la isla respectiva reciba menos recursos que los que recibió definitivamente con arreglo al ejercicio 2002. A tal efecto, esta garantía opera conforme se indica en el párrafo siguiente.
+Si existe uno o varios ayuntamientos que por aplicación de los nuevos criterios de reparto intermunicipal dentro de su respectiva isla le correspondiera menos que lo obtenido en el año 2002, a pesar de haberle correspondido más recursos a los ayuntamientos y al cabildo de esa isla, en primer lugar se garantizará a estos ayuntamientos una cantidad igual a lo percibido en el año 2002. Del importe total a distribuir en la isla se minorará la cantidad distribuida en concepto de garantía, procediéndose al reparto de la totalidad del resto entre los demás ayuntamientos conforme al nuevo criterio que se establezca de distribución entre los ayuntamientos de una misma isla.
+Por otra parte, si lo que correspondiese al conjunto de ayuntamientos de una misma isla fuese inferior a lo que les correspondió en el año 2002 a pesar de que el importe global asignado al cabildo y a los ayuntamientos de esa isla para ese año fuese superior a lo registrado en el 2002, con cargo al cincuenta por ciento atribuido al cabildo insular de la respectiva isla a que se refiere el artículo 6.1 se garantizará un importe igual a lo que les correspondió en el ejercicio 2002.
+Se modifica el primer párrafo del apartado 3 por la disposición adicional 21 de la Ley 22/2003, de 30 de diciembre. Ref. BOE-A-2004-2228
+
+## CAPÍTULO II
+
+Fondo Insular para Inversiones
+
+### Artículo 7
+
+Artículo 7. Creación del Fondo, dotación y distribución.
+1. Se crea el Fondo Insular para Inversiones, que tiene por objeto financiar los planes y programas sectoriales en vigor establecidos en las leyes y cuantos otros se establezcan por las mismas.
+2. El Fondo está dotado conforme a lo previsto en el artículo 5, apartado 1 de esta Ley.
+3. La distribución del Fondo Insular entre las diversas islas será la que se establezca por acuerdo entre los cabildos. Si a 31 de diciembre de 2003 no se hubiera alcanzado un acuerdo sobre el sistema de distribución, el Fondo se distribuirá, con efecto 1 de enero de 2003, con los mismos criterios que los establecidos en los apartados 2 y 3 del artículo 5 de esta Ley.
+
+## CAPÍTULO III
+
+Otras disposiciones
+
+### Artículo 8
+
+Artículo 8. Modificación de la exacción fiscal sobre la gasolina.
+Se modifica la disposición adicional quinta del Decreto Legislativo 1/1994, de 29 de julio, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias, quedando redactada de la siguiente manera:
+«Quinta. Exacción fiscal sobre la gasolina y el gasóleo de automoción.
+ 1. Hecho imponible: constituirá el hecho imponible de la exacción la entrega onerosa de la gasolina y el gasóleo de automoción por parte de los titulares de instalaciones de venta al público de estos productos.
+ 2. Sujeto pasivo: será contribuyente el titular de la instalación de venta al público de gasolina y de gasóleo de automoción. Es sustituto del contribuyente el empresario que realice la entrega de la gasolina o el gasóleo de automoción al titular de la instalación de venta al público de los citados productos.
+ 3. Devengo: la exacción se devengará en el momento de la puesta a disposición de la gasolina o gasóleo de automoción por parte del titular de la instalación de venta al público de estos productos.
+ 4. Tarifas: la exacción se fija en la cantidad de 0,0079 euros por litro de gasolina y 0 euros por litro de gasóleo de automoción.
+ No obstante lo dispuesto en el párrafo anterior, cada cabildo insular podrá fijar una tarifa diferente, cuyo importe estará comprendido entre 0 y 0,02 euros por litro de gasolina y gasóleo de automoción.
+ 5. Gestión y desarrollo reglamentario: la gestión, inspección, recaudación y revisión de la presente exacción corresponderá en cada una de las Islas Canarias al cabildo insular respectivo. La resolución de las reclamaciones económico-administrativas interpuestas contra los actos dictados en vía de gestión, recaudación e inspección, así como la tramitación y resolución de los procedimientos especiales de revisión, previstos en la Sección 1.ª del Capítulo VIII del Título III de la Ley 230/1963, de 28 de diciembre, General Tributaria, corresponderá a los órganos de la Comunidad Autónoma de Canarias que tengan atribuidas las funciones respectivas, con excepción de la revisión a la que se refieren los artículos 155 y 156 de la citada norma, que se llevará a cabo por los órganos competentes de los cabildos insulares.
+ Corresponderá a los cabildos insulares dictar las normas necesarias para la gestión de la presente exacción.
+ 6. Recaudación y destino: corresponderá a cada cabildo insular la exacción que se devengue en la isla respectiva y se ingresará, en el plazo y la forma que reglamentariamente se determine, por el sustituto del contribuyente a que se refiere el apartado 2 anterior. Dicho importe se destinará por cada uno de los cabildos insulares a la reparación y conservación de la red insular de carreteras correspondiente y políticas de transporte terrestre.»
+
+### Artículo 9
+
+Artículo 9. Financiación de competencias transferidas.
+1. El importe provisional de los créditos presupuestarios destinados a financiar el ejercicio de las competencias transferidas y delegadas que se hayan asumido por los cabildos insulares en cada año será el resultado de aplicar sobre el importe provisional del ejercicio anterior el porcentaje de variación que resulte de la suma de las entregas a cuenta que corresponden a la Comunidad Autónoma canaria procedentes del sistema de financiación autonómico y las previsiones iniciales de ingresos de los tributos cedidos no sujetos a liquidación, respecto a esas mismas cantidades del ejercicio anterior.
+2. La financiación establecida en el punto anterior será objeto de liquidación para su elevación a definitiva, y se determinará en el ejercicio en el que se determine la liquidación de los recursos del sistema de financiación autonómico correspondiente a la Comunidad Autónoma de Canarias.
+2.1 El importe definitivo de la financiación de las competencias transferidas y delegadas a los cabildos insulares en cada año será el resultado de aplicar sobre el importe definitivo del ejercicio anterior, el porcentaje de variación que resulte de la suma de las cantidades definitivas correspondientes a la Comunidad Autónoma de Canarias procedentes del sistema de financiación autonómico, determinada en la liquidación de dichos recursos, y la recaudación líquida de los ejercicios cerrados y corriente de los tributos cedidos no sujetos a liquidación respecto a esas mismas cantidades del ejercicio anterior.
+2.2 El saldo de la liquidación será la diferencia entre el importe definitivo calculado de conformidad con el punto 2.1 y las entregas a cuenta realizadas durante el ejercicio correspondiente de conformidad con el punto 1. El abono a los cabildos o la devolución por parte de los mismos del saldo de la liquidación se realizará en los mismos términos y condiciones que se realice la liquidación que corresponda a Canarias de los recursos del sistema de financiación autonómico.
+3. Mediante orden de la persona titular del departamento competente en materia de hacienda se desarrollará lo dispuesto en el presente artículo.
+Se modifica por la disposición final 5.1 de la Ley 11/2014, de 26 de diciembre. Ref. BOE-A-2015-1113
+ Se modifica por la disposición final 1.2 de la Ley 6/2008, de 23 de diciembre. Ref. BOE-A-2009-2512
+
+### Artículo 10
+
+Artículo 10. Lealtad institucional.
+De conformidad con el principio de lealtad institucional, el Gobierno de Canarias evaluará el impacto que pueda suponer la legislación sectorial o institucional de la Comunidad Autónoma de Canarias en las haciendas locales canarias, y se tendrá en cuenta a efectos de su corrección.
+
+### Disposición adicional única
+
+Disposición adicional única.
+La atribución de cualquier nueva competencia transferida o delegada deberá ir acompañada de su correspondiente financiación.
+Se añade por la disposición final 5.3 de la Ley 11/2014, de 26 de diciembre. Ref. BOE-A-2015-1113
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Tributos del Régimen Económico-Fiscal suprimidos.
+La recaudación obtenida de los tributos integrados en el Régimen Económico y Fiscal de Canarias ya suprimidos se distribuirá conforme a las reglas vigentes antes de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Normas de gestión de la exacción fiscal sobre la gasolina y gasóleo de automoción.
+Hasta en tanto no se dicten por los cabildos insulares las normas precisas para la gestión de la exacción fiscal sobre la gasolina y gasóleo de automoción seguirán aplicándose las vigentes para la exacción fiscal sobre la gasolina antes de la entrada en vigor de la presente Ley, en lo que no se opongan a la misma.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Bases intermunicipales de distribución de los recursos del Régimen Económico Fiscal.
+Hasta tanto no se cumpla lo previsto en los supuestos del artículo 6, apartados 3 ó 4, continuarán aplicándose las Cartas Municipales o bases de distribución vigentes a la entrada en vigor de esta Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El Gobierno de Canarias, con cargo a sus fondos, garantizará a todas las islas una asignación equivalente a la que vinieran percibiendo en el ejercicio que finaliza el 31 de diciembre de 2002 en concepto de los recursos a que esta Ley hace referencia, estableciendo a tales efectos los mecanismos compensatorios correspondientes.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Porcentajes transitorios de distribución entre la Comunidad Autónoma de Canarias y cabildos insulares y ayuntamientos canarios.
+1) Hasta el año 2016 los porcentajes de distribución entre la Comunidad Autónoma de Canarias y los cabildos insulares y ayuntamientos canarios establecidos en el artículo 4 no se aplicarán.
+2) Para la determinación de las cantidades a distribuir, se fijan los porcentajes de distribución siguientes para 2014:
+a) Para los cabildos insulares y ayuntamientos conjuntamente, el 53%.
+b) Para la Comunidad Autónoma de Canarias, el 47%.
+3) Para la determinación de las cantidades a distribuir se fijan los porcentajes de distribución siguientes para 2015:
+a) Para los cabildos insulares y ayuntamientos conjuntamente, el 56%.
+b) Para la Comunidad Autónoma de Canarias, el 44%
+Se modifica por el art. 1 de la Ley 5/2013, de 26 de diciembre. Ref. BOE-A-2014-1290
+ Se añade por la disposición final 1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+El criterio de actualización de los créditos presupuestarios destinados a financiar las competencias transferidas y delegadas previsto en el artículo 9 de esta ley se aplicará a partir de 2016 inclusive, siendo este el primer ejercicio que será objeto de liquidación. Dicho criterio de actualización se aplicará sobre la base inicial de los créditos consignados para esta finalidad en la sección 20 de los Presupuestos Generales de la Comunidad Autónoma de Canarias para 2015.
+Se añade por la disposición final 5.2 de la Ley 11/2014, de 26 de diciembre. Ref. BOE-A-2015-1113
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+1. A las entregas a cuenta de 2019 que resultan de aplicar el criterio de actualización previsto en el artículo 9 de esta ley, se adicionará la cantidad de 21.917.474,36 euros con el siguiente desglose:
+Cabildo I. de El Hierro.
+ 757.958,67
+ Cabildo I. de Fuerteventura.
+ 1.138.948,02
+ Cabildo I. de Gran Canaria.
+ 7.647.856,86
+ Cabildo I. de Lanzarote.
+ 980.631,54
+ Cabildo I. de La Gomera.
+ 914.111,31
+ Cabildo I. de La Palma.
+ 2.361.064,13
+ Cabildo I. de Tenerife.
+ 8.116.903,83
+ Total.
+ 21.917.474,36
+2. La actualización de las entregas a cuenta de 2020 y posteriores se realizará sobre la base de 2019 resultante de aplicar lo indicado en el apartado 1 de esta disposición.
+3. Al importe definitivo de 2019 que resulta de aplicar el criterio de actualización previsto en el artículo 9 se adicionará la cantidad de 21.917.474,36 euros con el desglose indicado en el apartado 1 de esta disposición.
+4. El importe definitivo de 2020 y posteriores se actualizará sobre la base de 2019 resultante de aplicar lo indicado en el apartado 3 de esta disposición.
+5. Lo indicado en los apartados anteriores de esta disposición queda condicionado al cumplimiento de los siguientes requisitos:
+a) La existencia de crédito adecuado y suficiente en la sección 20, programa 942A «Transferencias a cabildos traspaso de competencias» del estado de gastos en las Leyes de Presupuestos Generales de la Comunidad Autónoma de Canarias.
+b) La sostenibilidad del gasto en los planes presupuestarios a medio plazo de la Comunidad Autónoma de Canarias, sin que se ponga en peligro el cumplimiento de los objetivos de estabilidad, regla de gasto y deuda pública.
+c) La aceptación expresa por parte del Gobierno de Canarias y cada cabildo insular.
+Se añade por la disposición final 14 de la Ley 7/2018, de 28 de diciembre. Ref. BOE-A-2019-860
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+A la entrada en vigor de la presente Ley quedarán derogadas cuantas disposiciones, legales o reglamentarias, se opongan a lo establecido en la misma.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo normativo de la Ley.
+Se autoriza al Gobierno para que, a propuesta de los consejeros competentes en materia de hacienda y en materia de régimen local, en el ámbito de sus respectivas competencias, dicte las normas que fueren precisas para el desarrollo y ejecución de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno de Canarias, a los cinco años de la entrada en vigor de la presente Ley, procederá a una evaluación sobre las consecuencias de su aplicación dando conocimiento del resultado al Parlamento de Canarias.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor de la Ley.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias, excepto los artículos 2, 3, 4, 5, 6, 7 y 9, y las disposiciones transitorias primera y tercera, que lo harán con efectos de 1 de enero de 2003.
+
+### [firma]
+
+Por tanto mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Santa Cruz de Tenerife, 3 de abril de 2003.
+ROMÁN RODRÍGUEZ RODRÍGUEZ,
+Presidente.

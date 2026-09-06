@@ -1,0 +1,306 @@
+# Ley 13/1988, de 28 de octubre, de Consejos Escolares de Euskadi.
+
+- Identificador BOE: `BOE-A-2012-3818`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3818
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOPV núm. 243, de 28 de diciembre de 1988. Ref. BOPV-p-2012-90271
+
+### [firma]
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 13/1988, de 28 de octubre, de Consejos Escolares de Euskadi. Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 16 de noviembre de 1988.–El Vicepresidente, Ramón Jaúregui Atondo.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+De acuerdo con el artículo 27.5 de la Constitución, los poderes públicos garantizan el derecho a la educación, mediante una programación general de la enseñanza, con participación efectiva de todos los sectores afectados; este precepto constitucional es recogido en forma prácticamente literal en el artículo 27.1 de la Ley Orgánica del Derecho a la Educación, cuyo título II sienta los principios generales en esta materia.
+Por su parte, el Estatuto de Autonomía para el País Vasco, impone a los poderes públicos el mandato de facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social del País Vasco.
+Con el propósito de dar cumplimiento al mismo, y en ejercicio de la competencia que en materia de enseñanza reconoce a favor de la Comunidad Autónoma del País Vasco el artículo 16 del Estatuto de Autonomía, la presente Ley tiene por objeto crear unos órganos colegiados que permitan encauzar la participación social en la programación general de la Enseñanza: los Consejos Escolares de Euskadi.
+Esta participación en el sistema educativo es una necesidad ineludible en una sociedad democrática como la de nuestros días, hondamente sentida, además, por los sectores afectados, de acuerdo con la expresión constitucional.
+Por medio de los Consejos Escolares regulados en la presente Ley se evitará la dispersión y la falta de eficacia de la intervención de cada uno de estos sectores o estamentos, que, en lugar de participar y ser consultados de forma independiente, con el consiguiente desconocimiento de los criterios de los demás, contarán con una vía institucional válida y que aportará el necesario equilibrio dinámico e íntima relación en el binomio sociedad-proceso educativo.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La Comunidad Autónoma Vasca garantizará a todos los sectores sociales afectados en el ámbito de la enseñanza no universitaria el ejercicio efectivo del derecho a la participación en la programación general de la enseñanza, de acuerdo con lo que se establece en la presente Ley.
+
+### Artículo 2
+
+Artículo 2.
+Los poderes públicos de la Comunidad Autónoma del País Vasco garantizarán a través de la programación general de la enseñanza el derecho a la educación y a la libertad de enseñanza mediante la planificación de sus actuaciones en la materia, dirigidas a la satisfacción de las necesidades educativas de los ciudadanos.
+
+### Artículo 3
+
+Artículo 3.
+La programación general de la enseñanza se orientará fundamentalmente al logro de los siguientes objetivos:
+a) Garantizar la efectividad del derecho a la educación ordenada al pleno desarrollo de la personalidad.
+b) Asegurar la cobertura de las necesidades educativas de los ciudadanos mediante una adecuada oferta de puestos escolares.
+c) Potenciar el sistema escolar como instrumento de compensación de las desigualdades sociales e individuales de todo tipo.
+d) Mejorar la calidad de la enseñanza.
+e) Fomentar la investigación, difusión y conocimiento de la historia y cultura vasca.
+f) Impulsar la normalización y uso del euskera en el ámbito educativo.
+g) Coordinar e incorporar las ofertas formativas que desde la sociedad se dirijan a la comunidad educativa.
+h) Impulsar la integración plena de los centros escolares en su entorno geográfico, socioeconómico y cultural.
+Para el cumplimiento de estos objetivos se impulsará la participación de los distintos sectores de la comunidad escolar a través de las organizaciones que los representen.
+
+### Artículo 4
+
+Artículo 4.
+La programación general de la enseñanza comprenderá, al menos, los siguientes aspectos:
+a) Definición de las necesidades prioritarias en materia educativa.
+b) Determinación de los recursos necesarios de acuerdo con la planificación económica.
+c) Criterios básicos para la definición de las necesidades prioritarias en materia educativa, y objetivos básicos de actuación en relación con los mismos para el periodo que se considere.
+d) Determinación de la estructura básica de la circunscripción escolar, así como la creación, modificación o supresión de cada una de ellas.
+e) Criterios básicos por los que se vaya a regir la planificación de puestos escolares y programación de puestos escolares de nueva creación, concretando las zonas y municipios donde estos puestos deban crearse.
+f) Programación de las actuaciones para la conservación, mejora y modernización de las instalaciones y equipamiento escolar.
+g) Programación de las actuaciones referidas al logro de la igualdad de oportunidades en la enseñanza, incluidas las compensatorias y las que tengan por objeto favorecer la integración educativa.
+h) Programación de las actuaciones referidas a la financiación con fondos públicos de los centros concertados.
+i) Determinación de las necesidades en materia de recursos humanos y de las actuaciones referentes a la formación y perfeccionamiento de los mismos. Determinación de los recursos que correspondan por unidad escolar.
+Se modifica por la disposición adicional 6 del Decreto Legislativo 2/2023, de 21 de septiembre. Ref. BOE-A-2023-23217#da-7
+ Se modifica por la disposición adicional 6 de la Ley 1/1993, de 19 de febrero. Ref. BOE-A-2012-2008
+
+### Artículo 5
+
+Artículo 5.
+El Gobierno elaborará anualmente un plan de asignación de recursos materiales y humanos para la satisfacción de las necesidades educativas, teniendo en cuenta la oferta global de centros existentes.
+
+### Artículo 6
+
+Artículo 6.
+Los órganos de consulta, participación y asesoramiento en la programación general de la enseñanza no universitaria son:
+a) El Consejo Escolar de Euskadi.
+b) Los consejos territoriales.
+c) Los consejos escolares de circunscripción.
+d) Los consejos escolares municipales.
+Se modifica por la disposición adicional 6 del Decreto Legislativo 2/2023, de 21 de septiembre. Ref. BOE-A-2023-23217#da-7
+ Se modifica por la disposición adicional 6 de la Ley 1/1993, de 19 de febrero. Ref. BOE-A-2012-2008
+
+## TÍTULO I
+
+Del Consejo Escolar de Euskadi
+
+### Artículo 7
+
+Artículo 7.
+El Consejo Escolar de Euskadi es el órgano superior de participación de los sectores sociales implicados en la programación general de la enseñanza no universitaria y de consulta y asesoramiento respecto de los proyectos de Ley, disposiciones generales y reglamentos que hayan de ser propuestos o dictados por el Gobierno Vasco, en los aspectos a que se refiere la presente Ley.
+
+### Artículo 8
+
+Artículo 8.
+El Consejo Escolar de Euskadi estará integrado por el Presidente, el Vicepresidente, los Consejeros y el Secretario.
+
+### Artículo 9
+
+Artículo 9.
+El Presidente será nombrado por el Consejero de Educación, Universidades e Investigación de entre los miembros del Consejo. Asimismo nombrará un Vicepresidente que suplirá a aquél en caso de vacante, ausencia o enfermedad y ejercerá las facultades que le delegue el Presidente.
+
+### Artículo 10
+
+Artículo 10.
+Serán miembros del Consejo Escolar de Euskadi:
+– Seis profesores o profesoras de enseñanza no universitaria de Euskadi, a propuesta de las asociaciones y sindicatos de profesores, en función de su representatividad.
+– Seis padres o madres de alumnos de enseñanza no universitaria de Euskadi, cuya designación corresponderá a las confederaciones o federaciones de padres de alumnos, en función de su representatividad.
+– Seis alumnos o alumnas de enseñanza no universitaria de Euskadi, a propuesta de las confederaciones o federaciones, asociaciones y agrupaciones de alumnos, en función de su representatividad.
+– Dos representantes del personal de administración y servicios, a propuesta de sus organizaciones sindicales en función de su representatividad.
+– Dos titulares de centros docentes privados, a propuesta de sus organizaciones, en función de su representatividad.
+– Un o una representante de la Universidad del País Vasco, perteneciente a una de las facultades de Educación, designado por el Consejo de Gobierno de la UPV/EHU.
+– Tres representantes de los sindicatos de trabajadores y tres de las organizaciones patronales, en función a su representatividad en el ámbito de la Comunidad Autónoma del País Vasco.
+– Cuatro representantes de la Administración educativa, por designación del consejero o la consejera que ostente la responsabilidad en materia de educación.
+– Cuatro personalidades de reconocido prestigio en el ámbito de la educación, designadas por el consejero o la consejera que ostente la responsabilidad en materia de educación.
+– Seis representantes de la Administración local a propuesta de las asociaciones o federaciones de municipios de Euskadi en función de su representatividad, y garantizando en todo caso la presencia de, al menos, un o una representante por cada territorio histórico.
+– Un o una representante del Consejo de la Juventud de Euskadi.
+– Un o una representante de las cooperativas de enseñanza, perteneciente a la federación de cooperativas de enseñanza mayoritaria.
+– Una persona en representación de las asociaciones de directores y directoras de centros públicos no universitarios de la Comunidad Autónoma del País Vasco.
+– Una persona representante de la unidad administrativa para la igualdad del departamento competente en educación.
+Para valorar la representatividad de las asociaciones, corporaciones y agrupaciones a que se refiere este artículo, se atenderá únicamente a su presencia en el ámbito de la Comunidad Autónoma del País Vasco.
+Se añade un inciso por la disposición final 7.1 de la Ley 1/2022, de 3 de marzo. Ref. BOE-A-2022-4849
+ Se modifica por el art. 1 de la Ley 3/2018, de 28 de junio. Ref. BOE-A-2018-11065
+
+### Artículo 11
+
+Artículo 11.
+Reglamentariamente se establecerá la distribución de los representantes previstos en los tres primeros apartados del artículo anterior a fin de garantizar la participación proporcional de los distintos niveles y redes de enseñanza pública y privada.
+
+### Artículo 12
+
+Artículo 12.
+Los miembros del Consejo Escolar de Euskadi serán nombrados por el Consejero de Educación, Universidades e Investigación previa remisión, en su caso, de las propuestas a que hace referencia el artículo 10.
+
+### Artículo 13
+
+Artículo 13.
+El Consejo contará con un Secretario que asumirá también la responsabilidad de la Secretaría Técnica. Será nombrado por el Consejero de Educación, Universidades e Investigación de entre el personal adscrito a su Departamento.
+
+### Artículo 14
+
+Artículo 14.
+El Consejo Escolar de Euskadi deberá ser preceptivamente consultado sobre los siguientes asuntos:
+a) Programación general de la enseñanza.
+b) Anteproyectos de leyes y proyectos de disposiciones generales que afecten directamente al ejercicio efectivo del derecho a la educación, a la libertad de enseñanza y al cumplimiento de las obligaciones que a los poderes públicos impone el artículo 27 de la Constitución.
+c) Los criterios básicos sobre la creación, supresión y modificación de plazas escolares.
+d) Normas generales sobre equipamiento y construcciones escolares.
+e) Normas generales que regulen los diseños curriculares base de la Comunidad Autónoma del País Vasco.
+f) Los planes de renovación y experimentación de programas y orientaciones pedagógicas.
+g) Definición de los objetivos lingüísticos correspondientes a los distintos modelos en cada nivel de enseñanza, así como los criterios básicos que determinen la planificación de la oferta de los diferentes modelos lingüísticos.
+h) Criterios básicos que inspiran las acciones compensatorias y las de integración educativa.
+i) Objetivos básicos en relación a la educación de las personas adultas.
+j) La definición de los objetivos básicos y de los criterios de coordinación a los que han de responder las ofertas formativas complementarias que desde la sociedad se dirijan a la comunidad educativa.
+k) Criterios básicos de la política de personal referidos a necesidades en materia de recursos humanos, formación y perfeccionamiento de los mismos. Criterios básicos para la racionalización y pleno aprovechamiento de los demás recursos del sistema educativo.
+l) Criterios básicos que inspiran las actuaciones en materia de igualdad de oportunidades y las acciones compensatorias y de integración educativa.
+Se modifica por la disposición adicional 6 del Decreto Legislativo 2/2023, de 21 de septiembre. Ref. BOE-A-2023-23217#da-7
+ Se modifica por la disposición adicional 6 de la Ley 1/1993, de 19 de febrero. Ref. BOE-A-2012-2008
+
+### Artículo 15
+
+Artículo 15.
+El Consejo Escolar de Euskadi, a iniciativa propia podrá elevar al Departamento de Educación, Universidades e Investigación propuestas en relación con los asuntos detallados en el artículo anterior y sobre cualesquiera otros relacionados con la enseñanza en el ámbito de la Comunidad Autónoma del País Vasco.
+Asimismo, emitirá informe sobre cualquier otro tema relacionado con aspectos de la enseñanza que el Departamento de Educación, Universidades e Investigación le someta a consulta.
+
+### Artículo 16
+
+Artículo 16.
+El Consejo Escolar de Euskadi deberá elaborar con carácter anual una memoria sobre sus actividades y un informe sobre la situación de la enseñanza en la Comunidad Autónoma de Euskadi.
+
+### Artículo 17
+
+Artículo 17.
+El Pleno del Consejo Escolar de Euskadi se reunirá con carácter preceptivo una vez al año, para la aprobación del informe anual sobre la situación del sistema educativo vasco, e igualmente cuantas veces deba informar preceptivamente de acuerdo con la presente Ley o sea consultado por el Departamento de Educación, Universidades e Investigación en asuntos de su competencia. Se reunirá también siempre que lo solicite un tercio de sus miembros.
+
+## TÍTULO II
+
+De los Consejos Escolares Territoriales
+
+### Artículo 18
+
+Artículo 18.
+1. Los consejos escolares territoriales son los órganos de participación de los sectores afectados en la programación general de la enseñanza en el ámbito de los territorios históricos, así como en la adopción de las decisiones y acuerdos a los que se refiere la presente ley.
+2. Reglamentariamente se regularán los consejos escolares de circunscripción, que serán los órganos de consulta y participación de los sectores afectados en la programación general de la enseñanza no universitaria en el ámbito de la circunscripción escolar. La composición de los consejos escolares de circunscripción respetará los criterios de participación que determinan la composición del Consejo Escolar de Euskadi.
+Los consejos escolares de circunscripción deberán ser consultados preceptivamente sobre las materias que especifica el artículo 4 de esta ley, en lo que se refiere a las decisiones que se adopten sobre ellas en el ámbito de la circunscripción.
+Se modifica por la disposición adicional 6 del Decreto Legislativo 2/2023, de 21 de septiembre. Ref. BOE-A-2023-23217#da-7
+ Se modifica por la disposición adicional 6 de la Ley 1/1993, de 19 de febrero. Ref. BOE-A-2012-2008
+
+### Artículo 19
+
+Artículo 19.
+Los Consejos Escolares Territoriales se constituirán en cada Territorio Histórico y estarán integrados por el Presidente, el Vicepresidente, los Consejeros y el Secretario.
+
+### Artículo 20
+
+Artículo 20.
+Los Presidentes y los Vicepresidentes serán nombrados por el Consejero de Educación, Universidades e Investigación, a propuesta del Delegado Territorial de Educación del correspondiente Territorio Histórico de entre los miembros de los respectivos Consejos.
+
+### Artículo 21
+
+Artículo 21.
+Los Secretarios de los Consejos Escolares Territoriales serán nombrados por el Consejero de Educación, Universidades e Investigación a propuesta de los respectivos Delegados Territoriales de Educación de entre el personal adscrito al Departamento.
+
+### Artículo 22
+
+Artículo 22.
+Serán miembros del consejo escolar de cada territorio histórico:
+– Tres profesores o profesoras de enseñanza no universitaria del territorio histórico.
+– Tres padres o madres de alumnos de enseñanza no universitaria del territorio histórico.
+– Tres alumnos o alumnas de enseñanza no universitaria del territorio histórico.
+– Una persona en representación del personal de administración y servicios.
+– Un o una titular de centros docentes privados.
+– Una persona en representación de los sindicatos de trabajadores y otra de las organizaciones patronales en función de su representatividad.
+– Dos representantes de ayuntamientos del territorio histórico.
+– Una persona en representación de la Diputación Foral.
+– Dos representantes de la Administración educativa.
+– Una persona en representación de las cooperativas de enseñanza del territorio histórico, perteneciente a la federación de cooperativas de enseñanza mayoritaria.
+– Una persona en representación de las asociaciones de directores y directoras de centros públicos no universitarios de la Comunidad Autónoma del País Vasco.
+Se modifica por el art. 2 de la Ley 3/2018, de 28 de junio. Ref. BOE-A-2018-11065
+
+### Artículo 23
+
+Artículo 23.
+Los representantes previstos en el artículo anterior serán propuestos conforme a los criterios establecidos por la presente Ley para la elección de los miembros del Consejo Escolar de Euskadi referidos al ámbito de los Territorios Históricos.
+
+### Artículo 24
+
+Artículo 24.
+Los Consejos Escolares Territoriales serán consultados preceptivamente sobre:
+– La determinación de los objetivos, prioridades y recursos de las acciones compensatorias.
+– La determinación de los objetivos, prioridades y recursos destinados a los planes de iniciación profesional.
+– La propuesta de determinación de redes de transporte escolar, servicios de comedor escolar y distribución de las ayudas para los mismos.
+– La programación de actividades complementarias en el ámbito del Territorio Histórico.
+– La constitución de patronatos, consorcios e instituciones de educación cuyo ámbito sea el Territorio Histórico o en los que participe la Diputación Foral.
+
+### Artículo 25
+
+Artículo 25.
+El Pleno del Consejo Territorial se reunirá con carácter preceptivo una vez al año, para la aprobación del informe anual sobre la situación del sistema educativo del Territorio Histórico, e igualmente cuantas veces deba preceptivamente informar de acuerdo con la presente Ley, o sea consultado por el Departamento de Educación, Universidades e Investigación en asuntos de su competencia. Se reunirá también siempre que lo solicite un tercio de sus miembros.
+
+### Artículo 26
+
+Artículo 26.
+1. Los Consejos Escolares Territoriales podrán elevar a los Órganos Territoriales de la Administración educativa, propuestas en relación con cualquier asunto educativo que sean competentes para resolver.
+2. Asimismo, podrán elevar al Consejo Escolar de Euskadi propuestas en relación con cualquier asunto que afecte al ámbito del Territorio Histórico y que aquél sea competente para informar o proponer según lo dispuesto en la presente Ley.
+3. Los Consejos Escolares Territoriales elaborarán un informe anual sobre la situación educativa en su ámbito territorial, que será elevado a los Órganos Territoriales de la Administración Educativa y al Consejo Escolar de Euskadi.
+
+## TÍTULO III
+
+De los Consejos Escolares Municipales
+
+### Artículo 27
+
+Artículo 27.
+1. Los Consejos Escolares Municipales son los organismos de consulta y participación de los sectores afectados en la programación de la enseñanza no universitaria dentro del ámbito municipal.
+2. En los Municipios donde existan como mínimo dos centros escolares de E.G.B. financiados con fondos públicos, se constituirá un Consejo Escolar Municipal. En los demás casos su constitución será potestativa.
+
+### Artículo 28
+
+Artículo 28.
+Los Consejos Escolares Municipales estarán presididos por el Alcalde del Ayuntamiento o Concejal en quien delegue.
+Los Ayuntamientos determinarán el número de miembros de los Consejos Escolares de sus Municipios, que no podrá ser inferior a nueve ni superior a cuarenta, así como la participación en el mismo de los distintos sectores sociales, de forma que los profesores, alumnos, padres de alumnos y personal de administración y servicios alcancen conjuntamente una representación de al menos el sesenta y cinco por ciento de los miembros del Consejo.
+En el treinta y cinco por ciento restante se garantizará la participación de la representación de los directores de los centros públicos y de los titulares de los centros privados financiados con fondos públicos.
+La Administración Educativa podrá designar en cualquier momento un representante con voz pero sin voto para los Consejos Escolares Municipales.
+Los ayuntamientos podrán acordar en cualquier momento la participación con voz pero sin voto de representantes de sus órganos de igualdad para los consejos escolares municipales, a fin de que impulsen medidas para promover la igualdad de mujeres y hombres en el ámbito educativo.
+Se añade el párrafo final por la disposición final 7.2 de la Ley 1/2022, de 3 de marzo. Ref. BOE-A-2022-4849
+ Redactado conforme a la corrección de errores publicada en BOPV núm. 243, de 28 de diciembre de 1988. Ref. BOPV-p-2012-90271
+
+### Artículo 29
+
+Artículo 29.
+El Consejo Escolar Municipal será consultado preceptivamente en las siguientes materias:
+– Propuestas de creación, supresión y sustitución de plazas escolares en el ámbito municipal, así como las de renovación de los centros escolares.
+– Actuaciones municipales que afecten al funcionamiento de los centros escolares en materia de limpieza, conservación, mantenimiento, reforma de instalaciones, etc.
+– Actuaciones y disposiciones municipales relativas a la enseñanza con incidencia en materias como educación especial, escolarización infantil, formación permanente de adultos, actividades complementarias y extraescolares, enseñanza no reglada.
+– Coordinación e incorporación de las ofertas formativas que desde la sociedad se dirijan a la comunidad educativa.
+– Localización de las necesidades educativas, distribución territorial de la oferta y determinación de criterios para la distribución de los alumnos a efectos de escolarización.
+– Plan de actuación en materia de educación compensatoria.
+– La constitución de patronatos, consorcios e instituciones de educación cuyo ámbito sea el municipio o en los que participe el Ayuntamiento.
+– Cualesquiera otras que le sean sometidas por las autoridades educativas y/o por la autoridad municipal.
+
+### Artículo 30
+
+Artículo 30.
+1. Los Consejos Escolares Municipales podrán elevar al Ayuntamiento respectivo propuestas en relación con cualquier asunto en materia educativa para cuya resolución sean competentes los Municipios.
+2. Asimismo, podrá elevar al Consejo Escolar Territorial correspondiente, propuestas en relación con cualquier asunto educativo que afecte al ámbito municipal respectivo y que aquél sea competente para informar o proponer según lo dispuesto en la presente Ley.
+3. Los Consejos Escolares Municipales elaborarán un informe anual sobre la situación educativa en su ámbito territorial y sobre la situación de mantenimiento y conservación de los edificios escolares propiedad del Municipio que será elevado al Ayuntamiento y al Consejo Escolar del Territorio Histórico correspondiente.
+
+### Disposición común
+
+Disposición común.
+1. El mandato de los Consejos Escolares tendrá una duración de cuatro años.
+2. Los miembros de los Consejos Escolares que lo sean en virtud de la representación que ostentan perderán la condición de tales en el momento de cesar como representantes de sus colectivos.
+3. Los Consejos Escolares elaborarán sus reglamentos de funcionamiento siguiendo las normas establecidas por esta Ley.
+4. En el ejercicio de sus funciones los Consejos Escolares podrán solicitar información a la Administración educativa y a la municipal.
+5. Las Administraciones Públicas prestarán a los Consejos Escolares los medios materiales y financieros, así como los recursos humanos suficientes a fin de que puedan desarrollar las funciones establecidas en la presente Ley.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Una vez expirado el plazo que establezca mediante Ley el Parlamento Vasco para la transformación de las Ikastolas en centros públicos, la representación específica de sus titulares prevista en la presente Ley desaparecerá a todos los efectos.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno para que dicte las disposiciones precisas para el desarrollo y aplicación de la presente Ley.

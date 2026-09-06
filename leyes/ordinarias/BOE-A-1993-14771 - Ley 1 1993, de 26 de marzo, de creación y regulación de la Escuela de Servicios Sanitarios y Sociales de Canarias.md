@@ -1,0 +1,197 @@
+# Ley 1/1993, de 26 de marzo, de creación y regulación de la Escuela de Servicios Sanitarios y Sociales de Canarias.
+
+- Identificador BOE: `BOE-A-1993-14771`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-14771
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREAMBULO
+La Comunidad Autónoma de Canarias ostenta competencias de desarrollo legislativo y de ejecución en materia de Sanidad e Higiene de conformidad con el artículo 32.7 del Estatuto de Autonomía de Canarias y de Servicios Sociales según el artículo 29.7 de ese Estatuto. Las Administraciones Públicas Canarias y, en particular, las de los servicios sanitarios y de salud y de los servicios sociales, han llevado a cabo tareas de formación de su personal mediante la actuación directa e inmediata de las unidades administrativas y de los centros directivos correspondientes.
+Por la presente Ley, tales tareas de formación del personal se encomiendan a un instituto con personalidad y autonomía propia y con separación de la organización administrativa. Este instituto, denominado Escuela de Servicios Sanitarios y Sociales de Canarias, será instrumento de la Administración autonómica para la formación permanente y continua del personal que haya de desempeñar los servicios de que se trata. Además se le atribuyen funciones de apoyo a la Administración Pública y se hace posible que la Escuela coopere con otras Administraciones y entidades, singularmente las Universidades, para el desarrollo de actividades conjuntas. Por último, se impone a la Escuela la obligación de concertar sus actividades con el Instituto Canario de Administración Pública cuando participe en actuaciones de selección de personal u otras sobre las que tenga competencias el ICAP.
+Decidida la creación de un ente público con personalidad propia, la Ley opta por atribuirle la condición de los que ajustan su actividad al ordenamiento jurídico privado por entender que dadas las características de este ente se cumplen mejor los principios de eficacia, economía y máxima proximidad a los ciudadanos, del artículo 21.2 del Estatuto de Autonomía de Canarias.
+La Escuela de Servicios Sanitarios y Sociales de Canarias, se crea con la específica y exclusiva finalidad de promover la preparación y calidad de! trabajo de los profesionales de la salud y los asuntos sociales. Con ello, el legislador autonómico concede prioridad a la cualificación de estos profesionales, para la mejor prestación de los servicios de que son responsables.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Articulo 1.
+1. Se crea la Escuela de Servicios Sanitarios y Sociales de Canarias como entidad de Derecho Público de las previstas en el artículo 5 1.b) de la Ley Territorial 7/1984, de 11 de diciembre, de la Hacienda, Pública de la Comunidad Autónoma de Canarias, con personalidad jurídica propia y plena capacidad, autonomía orgánica y funcional para el cumplimiento de sus fines, y sujeta, en su actuación, al ordenamiento jurídico privado.
+2. Es objeto de la Escuela:
+a) La formación de personal para la gestión y la administración de los servicios sanitarios y sociales, así como de promoción de la salud en el ámbito de la Comunidad Autónoma de Canarias.
+b) La planificación, promoción y desarrollo, en su caso, y evaluación de los programas de investigación dirigidos a actividades sociosanitarias para la Comunidad Canaria, así como la difusión de los resultados derivados de los programas de investigación.
+3. La Escuela de Servicios Sanitarios y Sociales de Canarias deberá contar con una estructura territorial permanente que permita que sus actividades de formación sean accesibles para los interesados de toda la Comunidad Autónoma.
+4. El Gobierno decidirá la adscripción de la Escuela de Servicios Sanitarios y Sociales de Canarias a la Consejería competente en materia de sanidad o de asunto sociales.
+5. La Sede de la Escuela se ubicará en la isla en la que radiquen los servicios centrales de la Consejería a la que se adscriba.
+
+### Artículo 2
+
+Artículo 2.
+En materia de formación, la Escuela de Servicios Sanitarios y Sociales de Canarias desarrollará las siguientes funciones y actividades:
+a) La elaboración y ejecución de los planes y programas de formación, reciclaje y perfeccionamiento de los profesionales de la salud, de la gestión y administración sanitaria y de los servicios sanitarios y sociales directamente dependientes de las Administraciones Públicas Canarias o vinculados a ellas.
+b) El fomento y la colaboración con las Administraciones e Instituciones competentes, según la legislación sectorial vigente, en la formación especializad, en salud pública dirigida a personal no dependiente de las Administraciones Publicas Canarias, así como a la enseñanza y docencia pregraduada, postgraduada y continuada de los profesionales de la salud y de los servicio sanitarios y sociales. Estas actividades se llevarán a cabo en todo caso, en el ámbito, término y condiciones que se establezcan en los acuerdos o convenios de colaboración que a dicho fin se concierten por la Escuela de Servicios Sanitarios y Sociales de Cananas con la Administraciones e Instituciones competentes en la materia.
+
+### Artículo 3
+
+Artículo 3.
+En materia de investigación, corresponde a la Escuela de Servicios Sanitarios y Sociales de Canarias el desarrollo de las funciones y actividades siguientes:
+a) La promoción y ejecución de actividades investigadoras en relación con los problemas y necesidades sociosanitarias de la población canaria, en particular en aquellas áreas marcadamente deficitarias,
+b) La creación de un fondo bibliográfico y documental especializado.
+c) La dirección y gestión de los fondos de investigación especializados que se establezcan por el Gobierno de Canarias
+b) La colaboración con las Instituciones públicas y privadas, y especialmente con las Universidades canarias, para el desarrollo de proyectos y programas mixtos de investigación y de documentación científica y técnica, en los términos y condiciones que se establezcan mediante los correspondientes acuerdos o convenios de cooperación.
+
+### Artículo 4
+
+Artículo 4.
+1. La Escuela de Servicios Sanitarios y Sociales de Canarias actuará en coordinación con el Instituto Canario de Administración Pública en las actividades de selección, formación y perfeccionamiento que realice.
+2. En el ámbito de las funciones de formación y perfeccionamiento mencionadas en el artículo 2, apartado a), la Escuela de Servicios Sanitarios y Sociales de Canarias podrá expedir diplomas, certificados o documentos acreditativos de los estudios realizados y de la capacitación obtenida, los cuales tendrán carácter oficial y acreditarán méritos en los procedimientos de provisión de puestos de trabajo, de acuerdo con lo que se establezca en las correspondientes convocatorias.
+
+## CAPITULO II
+
+Órganos de representación y gobierno
+
+### Artículo 5
+
+Artículo 5.
+Son órganos de representación y gobierno de la Escuela de Servicios Sanitarios y Sociales de Canarias el Consejo de Administración y la Secretaría General.
+Se modifica por el art. 5.1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+### Artículo 6
+
+Artículo 6.
+1. El Consejo de Administración estará formado por el Presidente, que será el titular de la Consejería a la que se adscriba la Escuela, y por el número de vocales que se determine reglamentariamente, que no será, en ningún caso, inferior a siete ni superior a doce.
+2. La designación de los vocales deberá recaer entre titulares de centros directivos de la Administración Pública Canaria directamente relacionados con las funciones de la Escuela de Servicios Sanitarios y Sociales de Canarias y, en particular, de las Consejerías competentes en materia de sanidad, asuntos sociales, educación, cultura, deportes, trabajo y función pública, en la forma que se establezca reglamentariamente.
+
+### Artículo 7
+
+Artículo 7.
+1. El Consejo de Administración es el órgano superior de dirección, de planificación general y de programación de las actividades y los recursos de la Escuela de Servicios Sanitarios y Sociales de Canarias.
+2. El Consejo de Administración, a través de su Presidente, ostenta la representación superior de la Escuela de Servicios Sanitarios y Sociales de Canarias, sin perjuicio de las delegaciones que pueda hacer a otros órganos del propio ente.
+
+### Artículo 8
+
+Artículo 8.
+Se deja sin contenido por el art. 5.2 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+### Artículo 9
+
+Artículo 9.
+1. La Escuela de Servicios Sanitarios y Sociales de Canarias tendrá un secretario o secretaria, que ostentará la condición de funcionario o funcionaria de carrera, perteneciente al Cuerpo Superior de Administradores Generales (Escala de Administradores Generales o Administradores Financieros y Tributarios) en posesión de la licenciatura o grado en Derecho, o al Cuerpo Superior Facultativo, Escala de Letrados, quien actuará con voz pero sin voto.
+2. El nombramiento, que se realizará a través de un procedimiento de libre designación, el cese, así como su sustitución temporal en supuesto de vacante ya sea definitiva o temporal, corresponderá a la persona titular de la consejería a la que esté adscrita la escuela.
+3. El secretario o secretaria tendrá las funciones que le asigne el reglamento orgánico y, en todo caso, las siguientes funciones:
+a) El asesoramiento jurídico al consejo de administración y al director.
+b) El desempeño de la gestión y administración ordinarias.
+c) La gestión de personal y el impulso y coordinación de los servicios.
+d) Tramitación de expedientes de contratos de obras, servicios y suministros, así como, en su caso, de inversiones.
+e) La custodia de los documentos, libros y archivos de la escuela.
+f) Las funciones de contabilidad de la escuela.
+g) La Secretaría del consejo de administración sin derecho a voto.
+h) Las demás funciones que le atribuya el ordenamiento jurídico o se le encomienden por el consejo de administración y por el director o directora.
+Se modifica por la disposición final 9 de la Ley 11/2015, de 29 de diciembre. Ref. BOE-A-2016-1607
+ Se modifica el apartado 2 por el art. 5.3 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+## CAPITULO III
+
+Personal
+
+### Artículo 10
+
+Artículo 10.
+1. El personal de la Escuela de Servicios Sanitarios y Sociales de Canarias se regirá por las normas de Derecho Laboral.
+2. La persona titular de la Secretaría General de la Escuela estará sujeta al régimen de incompatibilidades previsto en la legislación vigente.
+3. La persona funcionaria designada como titular de la Secretaría General de la Escuela pasará a la situación administrativa de servicios especiales.
+Se modifica por el art. 5.4 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+## CAPITULO IV
+
+Régimen patrimonial
+
+### Artículo 11
+
+Artículo 11.
+El patrimonio de la Escuela de Servicios Sanitarios y Sociales de Canarias estará constituido por:
+a) Los bienes y derechos que adquiera por cualquiera de los medios admitidos en derecho.
+b) Los bienes que le adscriba la Comunidad Autónoma u otras Administraciones Publicas o Instituciones privadas para el cumplimiento de sus fines, asumiendo la gestión de los mismos.
+
+### Artículo 12
+
+Artículo 12.
+La expropiación forzosa de inmuebles para obras y servicios de la Escuela de Servicios Sanitarios y Sociales de Canarias se declara de utilidad pública.
+
+## CAPITULO V
+
+Régimen económico y financiero
+
+### Artículo 13
+
+Artículo 13. Constituirán los recursos de la Escuela de Servicios Sanitarios y Sociales de Canarias:.
+a) Los recursos procedentes de su patrimonio.
+b) Los créditos que con destino a la Escuela se consignen en los Presupuestos Generales de la Comunidad Autónoma.
+c) Las subvenciones que se le concedan.
+d) Las aportaciones derivadas de los convenios o acuerdos de colaboración que se formalicen con otras Administraciones Públicas de carácter territorial o institucional o con entidades privadas.
+e) Los ingresos generados por el ejercicio de las actividades o por la prestación de los servicios, así como cuantos otros le sean atribuidos.
+f) Las aportaciones voluntarias o donaciones que puedan otorgar a su favor personas físicas o jurídicas.
+g) Cualesquiera otros recursos económicos, ordinarios o extraordinarios, que le sean legalmente atribuidos.
+
+### Artículo 14
+
+Artículo 14.
+La Escuela de Servicios Sanitarios y Sociales de Canarias ajustará sus actuaciones de carácter económico, financiero y presupuestario al régimen especial derivado de su peculiar naturaleza jurídica, según resulta del artículo 1 de esta Ley.
+
+### Artículo 15
+
+Artículo 15.
+1. La Escuela elaborará anualmente un programa de actuación, inversiones y financiación.
+2. El programa al que se refiere el número anterior responderá a las previsiones plurianuales oportunamente elaboradas, con expresión de los objetivos a alcanzar, su cuantificación y los recursos necesarios.
+3. La estructura básica del programa de actuación, inversiones y financiación se establecerá por la Consejería competente en materia de hacienda, a propuesta de la Consejería a la que esté adscrita la Escuela, y se desarrollará por esta última de acuerdo a sus características y necesidades.
+4. A los fines previstos en el apartado anterior, antes del 1 de agosto de cada año, se remitirá el anteproyecto del programa de actuación, inversiones y financiación correspondiente al ejercicio siguiente. Al programa se acompañará un estudio sobre localización de inversiones reales y financieras, su incidencia en la economía regional y la generación de empleo, así como una Memoria de las modificaciones sustanciales que presente con relación al vigente.
+5. A propuesta conjunta de las Consejerías referidas en el apartado 3 del presente artículo el programa se someterá al acuerdo del Gobierno de Canarias, se publicará en el «Boletín Oficial de Canarias» y de sus principios inspiradores se dará cuenta al Parlamento.
+
+### Artículo 16
+
+Artículo 16.
+1. El control de carácter financiero se ejercerá por la Intervención General de la Comunidad Autónoma de Canarias mediante comprobaciones periódica o procedimientos de auditorías, sin perjuicio de las medidas adicionales de fiscalización que la Consejería a la que esté adscrita la Escuela pueda establecer para el conocimiento de la situación y desarrollo de su actividad.
+2. El control de eficacia se ejercerá por la Consejería, de Economía y Hacienda, a través de la Intervención General, conjuntamente con la Consejería a la que esté adscrita la Escuela, mediante análisis del coste de funcionamiento y del rendimiento o utilidad de los respectivos servicios, así como del cumplimiento de los objetivos de los correspondientes programas.
+
+### Artículo 17
+
+Artículo 17.
+La contabilidad se ajustará a lo establecido en la legislación presupuestaria para las empresas públicas de la Comunidad Autónoma de Canarias y demás entes del sector público.
+
+### Artículo 18
+
+Artículo 18.
+La Escuela de Servicios Sanitarios y Sociales de Canarias se extinguirá por Ley, pasando su patrimonio a la Comunidad Autónoma de Canarias.
+
+### Disposición adicional
+
+Disposición adicional.
+El Consejo Regional de la Salud y el Consejo General de Servicios Sociales de Canarias conocerán e informarán, en los términos de la normativa que los regula, de los planes, programas y memorias de actuación de la Escuela, en el ámbito de sus respectivas competencias.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Canarias».
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Gobierno para dictar las disposiciones necesarias en desarrollo de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se autoriza al Gobierno, previas las modificaciones presupuestarias precisas para aprobar el presupuesto de gastos de la Escuela de Servicios Sanitario y Sociales de Canarias para el ejercicio de 1993, sin que el mismo pueda suponer un incremento del gasto público consolidado. De tal aprobación se deberá dar cuenta al Parlamento.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponde la cumplan y hagan cumplir.
+Las Palmas de Gran Canaria, 26 de marzo de 1993.
+JERONIMO SAAVEDRA ACEVEDO,
+Presidente del Gobierno

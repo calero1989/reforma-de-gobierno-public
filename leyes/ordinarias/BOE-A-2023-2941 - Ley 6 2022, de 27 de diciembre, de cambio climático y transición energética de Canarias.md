@@ -1,0 +1,1480 @@
+# Ley 6/2022, de 27 de diciembre, de cambio climático y transición energética de Canarias.
+
+- Identificador BOE: `BOE-A-2023-2941`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2023-2941
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la Ley 6/2022, de 27 de diciembre, de Cambio Climático y Transición Energética de Canarias.
+EXPOSICIÓN DE MOTIVOS
+I
+El cambio climático es un fenómeno ampliamente estudiado por la comunidad científica en todo el mundo y, desde luego, en el archipiélago canario. Gracias a ese trabajo disponemos de evidencias que son indudables y, lo que es más importante, los modelos explicativos constituyen el fundamento a partir de los cuales los poderes públicos, las organizaciones privadas y toda la ciudadanía debe actuar.
+En este momento sabemos que el cambio climático se está produciendo a una escala jamás registrada en la historia del planeta, como consecuencia de las emisiones de gases de efecto invernadero, y que ya está entrando en una fase irreversible, causando progresivos y graves impactos sobre poblaciones humanas y territorios de todo el planeta. Buena prueba de este hecho es que en el año 2019 se ha registrado un máximo histórico en el Observatorio de Izaña de cuatrocientas dieciséis partes por millón, un valor que no se constataba desde hace tres millones de años en los registros fósiles y nos sitúa por encima del peor de los escenarios previstos por el informe especial (octubre 2018) del Panel Intergubernamental sobre Cambio Climático de las Naciones Unidas (IPCC), correspondiente a la concentración representativa 8.5 (RCP 8.5), lo que supondrá un incremento medio de las temperaturas superior a 4.º C de aquí al año 2100, la desaparición de los hielos continentales a partir del año 2070 o un aumento del nivel medio de los mares de 0,63 metros.
+Sabemos, además, que el cambio climático se debe, en gran medida, a las acciones humanas, de ahí que la comunidad científica haya propuesto que nuestra época sea conocida como Antropoceno. Esto significa que la humanidad está alterando gravemente las condiciones de habitabilidad del planeta y que necesitamos cambiar nuestra forma de vida si queremos que el planeta Tierra sobreviva. Debemos ser conscientes de que nuestras acciones tienen consecuencias y de que somos corresponsables de esas consecuencias, aunque sea cierto que no todas las personas lo somos en la misma medida. No obstante, y por encima de cualquier discrepancia sobre la atribución de responsabilidades, debemos ser conscientes de que estamos al borde del punto de no retorno frente al cambio climático.
+El cambio climático genera ya serias afecciones sobre la salud humana, los sectores productivos, los recursos naturales y la conservación de la biodiversidad y de los territorios marinos y terrestres, y también aumenta la frecuencia e intensidad de los fenómenos meteorológicos adversos en los cincos continentes. Las olas de calor y de frío, sequías, precipitaciones extremas, inundaciones y eventos climáticos como huracanes y tormentas tropicales se incrementan cada año en todo el planeta afectando la vida de millones de seres humanos y su imprescindible acceso a los recursos alimentarios e hídricos más básicos.
+Algunos ejemplos de lo que está ocurriendo empiezan a ser tristes noticias y lo seguirán siendo en el futuro si no ponemos remedio y empezamos a actuar. El calentamiento global provoca y provocará exponencialmente inestabilidades sociopolíticas, generando desplazamientos de millones de personas desde todos los continentes, especialmente África, Asia y Latinoamérica, e impactando en países desarrollados al incrementarse, también exponencialmente, los fenómenos migratorios. Las hambrunas y la pobreza, la desertización, la devastación de territorios y el incremento del nivel del mar a causa de las alteraciones climáticas del planeta tienen y tendrán, por tanto, consecuencias negativas para las poblaciones de estas amplias regiones y también para Norteamérica y Europa, y por supuesto para España y para Canarias, uno de los territorios más vulnerables al conjunto de estos impactos.
+No reaccionar ante la crisis ecológica y civilizatoria supondría la muerte de millones de personas, además de la extinción irreemplazable de especies imprescindibles para la vida en la Tierra, dadas las complejas interrelaciones ecosistémicas.
+Las evidencias disponibles demuestran que el calentamiento global también se manifiesta en Canarias alterando algunas de las condiciones de habitabilidad del archipiélago que, hasta este momento, considerábamos inalterables. Por ejemplo, el régimen de los alisios o las temperaturas en tierra y mar que evitan que tengamos las mismas condiciones climáticas que el vecino Sáhara. Existen evidencias científicas que señalan alteración en las condiciones climáticas de nuestra región en términos de cambios en el régimen de vientos y tropicalización de nuestros mares.
+El incremento de las temperaturas influye con el paso del tiempo en una desregulación en los ciclos vitales de los seres vivos, degradando sus hábitats naturales y poniendo en serio peligro su existencia. A esto hay que añadir que crece la probabilidad de que ocurran fenómenos tormentosos de origen tropical, la agudización de los fenómenos meteorológicos extremos como las olas de calor, pero también precipitaciones más irregulares y escasas en el tiempo, y en ocasiones intensas. Además, se ha constatado científicamente la acidificación oceánica en Canarias, así como variaciones en la salinidad.
+Todos estos cambios tienen consecuencias claras y evidentes en los ecosistemas terrestres y marinos, alteraciones en los patrones productivos agrarios, incremento de las tasas de mortalidad, mayor vulnerabilidad de todo tipo de infraestructuras, en particular, costeras, energéticas, de transporte y comunicaciones, etc., con efectos directos en el sistema socioeconómico del archipiélago.
+Canarias, por otro lado, alberga más de la mitad de las especies endémicas de España, que se ven amenazadas por la penetración de especies tropicales, la aparición de nuevas enfermedades o la mayor frecuencia de incendios forestales fuera de las temporadas de verano, que están provocando una disminución preocupante de múltiples especies de flora y fauna.
+En nuestras islas se han datado en los últimos años más de treinta nuevas especies de aves tropicales que están originando un desplazamiento de nuestras aves nativas, pero también se constata la presencia y expansión de otras especies invasoras que alteran la biodiversidad marina y terrestre de Canarias, afectando a sectores primarios como la agricultura, la pesca e incluso la salud de las personas.
+La agricultura se está viendo especialmente afectada por el aumento e intensidad de las sequías, así como por episodios de temperaturas extremas, la escasez de agua de riego de calidad o la aparición de nuevas plagas propias de zonas tropicales. Es posible que la tropicalización de nuestro clima perjudique a cultivos tradicionales canarios en favor de otros de corte tropical.
+En este contexto, Canarias protagoniza un escenario especialmente relevante sobre el que es urgente intervenir por dos motivos esenciales: a) los impactos del calentamiento global, que afectan y afectarán gravemente a los territorios insulares y costeros de todo el planeta y, b), el elevado nivel de emisiones de gases de efecto invernadero (en adelante GEI) registradas en el archipiélago.
+El conocimiento científico nos proporciona hechos probados y modelos explicativos y gracias a ellos sabemos con claridad hacia dónde debemos orientar nuestras acciones y qué cambios debemos introducir en las políticas públicas y en los comportamientos privados.
+El cambio climático, concebido como el proceso en el que se produce un cambio de clima debido directa o indirectamente a la actividad humana que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima, observada durante períodos de tiempo siempre comparables, se pretende mitigar por medio de la acción climática, entendida como cualquier política, plan, programa o medida cuya intención sea reducir los gases de efecto invernadero, construir y generar resiliencia y adaptación al cambio climático, y financiados esos objetivos mediante un sistema de gobernanza climática.
+Para tratar de reducir un calentamiento global descontrolado y limitar sus efectos, es imperativo promover cuantos esfuerzos sean necesarios para disminuir las emisiones de CO2 y GEI. Sin embargo, las acciones impulsadas por la comunidad internacional para rebajar efectivamente las causas antropogénicas de esta amenaza no son suficientes. Los compromisos de reducción de emisiones de GEI adquiridos por los países que integran la Convención Marco de las Naciones Unidas para el Cambio Climático no son vinculantes y, de continuar en este estadio de emisiones, la mayoría de los países del mundo no podrán cumplir los protocolos del Acuerdo de París 2015 («Conferencia de las Partes de la Convención Marco de Naciones Unidas sobre el Cambio Climático», COP21) para evitar que la temperatura del planeta no supere los 2 °C en 2100.
+El IPCC, en su informe publicado en otoño del 2018, señala que aún es posible alcanzar el objetivo marcado si administraciones públicas, sectores productivos, comunidades científicas y población civil emprenden acciones coordinadas y efectivas.
+Las emisiones de GEI en la Unión Europea se redujeron un 21,9 % en veintisiete años, entre 1990 y 2017, mientras las de España, en ese mismo periodo, aumentaron un 17,9 %. Esta ratio se incrementó un 10 % de 2016 a 2017.
+Creemos que todos los gobiernos, nacionales, regionales y locales, tienen el deber de reconocer la gravedad de esta amenaza y adoptar compromisos vinculantes y efectivos para reducir sus causas e impactos. Este no es un problema meramente tecnológico o ambiental, sino de orden político que afecta de manera transversal a todos los sectores de la sociedad y a las generaciones futuras, conforme reconoce la Declaración Universal de los Derechos Humanos de las Generaciones Futuras (La Laguna, 25 y 26 de febrero de 1994).
+En este sentido, Canarias está convencida de la realidad de la crisis climática y asume la gravedad de la situación. Por eso considera que admitir las evidencias científicas, así como el camino de la reducción de las emisiones propuesto es la única forma de proteger la existencia de un futuro para nuestras islas. La ciudadanía debe entender la urgencia e irreversibilidad de esta lucha y las administraciones públicas canarias tienen que desempeñar un papel clave en la formación, educación e información sobre el necesario freno a las emisiones y realizar una vital adaptación a las consecuencias del incremento de la temperatura global. Esta no es una lucha de nadie contra nadie, sino que es una lucha de toda la humanidad por la supervivencia de la Tierra tal y como la conocemos. En nuestro caso, se trata, ante todo, de una lucha por nuestra tierra tal y como la hemos vivido y tal y como la hemos soñado.
+En Canarias, de acuerdo con las evidencias científicas disponibles, reconocemos que el planeta, así como los seres vivos y los ecosistemas, se encuentran en grave peligro y prueba de ello son los recientes informes sobre el estado de la biodiversidad de la Plataforma Intergubernamental de Biodiversidad y Servicios Ecosistémicos (Ipbes), un organismo dependiente de las Naciones Unidas, alertando de un rumbo que lleva a la extinción de una gran parte de los ecosistemas terrestres. Un millón de especies están amenazadas por la actividad humana.
+El presente texto supone, por encima de todo, un verdadero proceso de educación, formación y concienciación a toda la población sobre la verdad de la crisis ecológica y la necesidad de avanzar hacia un nuevo estilo de vida, así como hacia formas de producción y de consumo responsables. Pero supone, también, asumir el cumplimiento de compromisos políticos reales y vinculantes, mucho más ambiciosos que los actuales, con la consiguiente asignación de recursos para hacer frente a esta crisis y transformar una amenaza en una oportunidad. Supone, por lo tanto, pasar a la acción con el instrumento más potente del que podamos disponer, un texto legal que con rango de ley genera un conjunto de obligaciones y deberes de acción climática que supondrán un antes y un después en el compromiso de estas islas en la lucha contra el cambio climático.
+Somos conscientes de que necesitamos definir una estrategia vinculante capaz de garantizar las reducciones de gases de efecto invernadero anuales necesarios; abandonar los combustibles fósiles; impulsar un modelo de desarrollo basado en la economía circular, verde y azul; avanzar hacia una producción energética cien por cien renovable y distribuida; mejorar especialmente la gestión hídrica y de residuos; y reducir a cero las emisiones netas de carbono lo antes posible, de manera urgente y prioritaria, en línea con las indicaciones del informe IPCC para limitar el aumento de la temperatura global a 1,5 °C. En suma, desarrollar cuantas acciones sean necesarias para asegurar la seguridad y el bienestar social, llevar a cabo acciones para asegurar la conservación de nuestros ecosistemas e invertir en educación para que dispongamos de una sociedad dotada del conocimiento necesario para implementar el desarrollo de forma sostenible. Esta ley pretende redirigir todos los recursos disponibles para afrontar la crisis climática con los problemas asociados que conlleva, y su máxima prioridad no es otra que proteger a las personas, sus bienes, los sectores productivos, las infraestructuras y el territorio que habitamos. La descarbonización de la economía debe llevarse a cabo pensando siempre en todos los sectores de la sociedad, especialmente en los más vulnerables.
+Cobra así especial transcendencia la necesidad de que la transición ecológica, de la que esta ley es su primer paso, sea inclusiva, para que nadie se quede atrás a la hora de afrontar los retos climáticos.
+Por su posición geográfica, que lo hace dependiente de las comunicaciones aéreas y marítimas, el régimen de vientos y las corrientes marinas que condicionan su clima y el carácter insular de su territorio, que determina la existencia de microclimas en las diferentes islas, el archipiélago canario está especialmente expuesto a los efectos adversos de la perturbación causada en el clima de la Tierra. Esta exposición se concreta –por destacar solo lo más importante–, no solo en el riesgo de erosión del suelo fértil sobre todo en la vertiente sur de las islas montañosas no favorecida por el régimen de los vientos alisios, de daños por caudales crecidos como consecuencia de lluvias torrenciales y afectación de las playas y las costas por fenómenos marítimos adversos. Las consecuencias de estos efectos climatológicos son especialmente graves por el peso que en la economía de las islas tienen sectores especialmente sensibles a ellos como la agricultura y el turismo.
+Así, el Gobierno de Canarias, en sesión celebrada el 30 de agosto de 2019 declara la situación de emergencia climática en la comunidad autónoma, decisión que fue ratificada y ampliada por unanimidad en el Parlamento de Canarias en su sesión de 20 de enero de 2020.
+II
+Esta ley canaria de cambio climático y transición energética nace desde el deber y la responsabilidad de tener que contribuir de forma real en esta lucha global desde un ámbito local. Reconocemos la labor realizada en los últimos años tanto por algunos cabildos como ayuntamientos para implantar el «Pacto de los Alcaldes» a través de los planes de Acción para la Energía Sostenible y el Clima (Paces), el mayor movimiento mundial de ciudades y municipios por la acción local en clima y energía. Consecuente con este compromiso, la gran mayoría de las administraciones locales canarias se han adherido al mismo y un número importante de ellas han elaborado los planes de acción para lograr, entre otros objetivos europeos, la reducción de los gases de efecto invernadero en un 40 % para 2030 y la adopción de un enfoque común para el impulso de la mitigación y la adaptación al cambio climático. En este sentido, se hace necesaria una estrategia compartida por Gobierno de Canarias, cabildos y municipios.
+En cualquier caso, la preocupación por la problemática del cambio climático en Canarias no es inédita. La singular situación del archipiélago en la Unión Europea, reconocida expresamente en el artículo 349 del Tratado de Funcionamiento de la Unión Europea, ha justificado que particularmente durante la última década se hayan impulsado diferentes líneas de actuación dirigidas a aprovechar las ventajas que ofrecen las regiones ultraperiféricas (RUP) como consecuencia, principalmente, de su excepcional localización geográfica. En este sentido, el «Memorándum para una estrategia renovada en favor de la Ultraperiferia. Prioridades y objetivos del régimen de integración de las RUP en la Unión Europea», suscrito en mayo de 2010, destacaba entre los desafíos que debían afrontar las RUP los problemas energéticos y el cambio climático. El memorándum llamaba la atención sobre la necesidad de «reforzar la capacidad de resistencia de las economías ultraperiféricas a los riesgos climáticos, insistiendo tanto en la reducción de sus efectos como en la adaptación y la capacidad de respuesta de estas regiones a las catástrofes. Ello incluye la adaptación de las políticas comunitarias para intentar superar el aislamiento de las RUP y reducir los efectos de su dependencia de energías fósiles». No obstante, el mismo documento citado permite constatar cómo las RUP, los Estados a los que pertenecen y la propia Unión Europea coinciden en subrayar la necesidad de aprovechar las potencialidades que estos territorios ofrecen al conjunto de la Unión Europea y del planeta.
+Para fortalecer todas las acciones que se vienen desarrollando, se hace imprescindible y urgente complementarlas con la presente ley. Una acción climática audaz de desarrollo sostenible consolidará beneficios económicos en términos de nuevos empleos, de ahorro económico, de oportunidades de mercado, de innovación y, esencialmente, de seguridad y bienestar de la población canaria.
+Es claro que la Comunidad Autónoma de Canarias no puede eludir su esfuerzo en la consecución de los objetivos no solo de mitigación y adaptación al cambio climático, sino al proceso de transición hacia una sociedad que, abandonando la perspectiva exclusivamente antropocéntrica, logre vivir en verdadero equilibrio con la naturaleza, desarrollando sus actividades con recurso mínimo, si no cero, a los combustibles fósiles y sin emisión a la atmósfera, por tanto, de gases de efecto invernadero. Esta ley pretende poner en marcha y articular su contribución a tales fines.
+Como recientemente ha puesto de manifiesto el Tribunal Constitucional (STC 87/2019, de 20 de junio de 2019, FJ-4), en la Constitución española no existe «ningún título competencial específico relativo a la lucha contra el cambio climático» y solo los estatutos de autonomía de última generación han integrado nítidamente esta materia en el ámbito de sus competencias, entre ellos el de Canarias. En este sentido, el nuevo Estatuto de Autonomía del archipiélago, aprobado en virtud de la Ley Orgánica 1/2018, de 5 de noviembre, refleja la preocupación por el cambio climático incluyendo entre los principios rectores que deben dirigir la actuación de los poderes públicos, la protección efectiva de los recursos naturales estratégicos básicos de Canarias, especialmente el agua y los recursos energéticos, asegurando su control público por las administraciones canarias; la preservación y mejora de la calidad medioambiental y la biodiversidad del archipiélago como patrimonio común para mitigar los efectos del cambio climático; y el ahorro energético y la promoción de las energías renovables, en especial en lo que se refiere a la política de transportes y comunicaciones, como expresamente establecen los apartados 14, 15 y 16 del artículo 37. Además, desde la perspectiva de las competencias autonómicas en materia de medio ambiente, el artículo 153.1 ñ) del Estatuto de Autonomía de Canarias (EAC) señala que corresponde a la comunidad autónoma la competencia de desarrollo legislativo y de ejecución de la legislación estatal en materia de medio ambiente, que comprende, en todo caso, las medidas que, en el ámbito de sus competencias, puedan adoptarse para la lucha contra el cambio climático. Además incide, para preceptos concretos, en otros títulos competenciales, como pueden ser los de transportes (artículo 160 EAC), turismo (artículo 129 EAC), agricultura y ganadería (artículo 130 EAC), industria (artículo 124 EAC), comercio (artículo 126 EAC), recursos hídricos (artículo 152 EAC), ordenación del litoral (artículo 157 EAC), urbanismo y vivienda (artículo 158 EAC), montes y gestión forestal (artículo 130 EAC), salud (artículo 141 EAC), servicios sociales (artículo 142 EAC), emergencias y protección civil (artículo 149 EAC), educación (artículo 133 EAC), investigación (artículo 135 EAC), energía (artículo 163 EAC) y economía (artículo 165 y ss.), que Canarias ha de ejercer con respecto a la competencia estatal para establecer las bases y llevar a cabo la coordinación de la planificación general de la actividad económica (artículo 149.1.13.ª CE), así como para determinar las bases del régimen energético (artículo 149.1.25.ª CE) y por último la competencia exclusiva para establecer la organización y el régimen de funcionamiento de su Administración, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª CE (artículo 104 EAC).
+Esta ley recoge y se inspira en la doctrina emanada de la Convención Marco de las Naciones Unidas sobre el Cambio Climático de 1992, el Protocolo de Kioto de 1997, el Acuerdo de París de 2015 ratificado por la Unión Europea en octubre de 2016 y por España, publicado en el BOE n.º 28, de 2 de febrero de 2017, todo el acervo de normas y declaraciones de la Unión Europea sobre acción por el clima y transición justa, entre las que han de destacarse los artículos 11 y 191.1 del Tratado de Funcionamiento de la Unión Europea; el Reglamento (UE) 2018/1999 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, que ha fijado la gobernanza de la Unión de la Energía y de la Acción por el Clima la Directiva (UE) 2018/410 del Parlamento Europeo y del Consejo, de 14 de marzo de 2018, por la que se modifica la Directiva 2003/87/CE para intensificar las reducciones de emisiones de forma eficaz en relación con los costes y facilitar las inversiones en tecnologías hipocarbónicas, así como la Decisión (UE) 2015/1814; el Reglamento (UE) 2018/842 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, sobre reducciones anuales vinculantes de las emisiones de gases de efecto invernadero por parte de los Estados miembros entre 2021 y 2030 que contribuyan a la acción por el clima, con objeto de cumplir los compromisos contraídos en el marco del Acuerdo de París, y por el que se modifica el Reglamento (UE) n.º 525/2013; el Reglamento (UE) 2019/631 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, por el que se establecen normas de comportamiento en materia de emisiones de CO2.de los turismos nuevos y de los vehículos comerciales ligeros nuevos, y por el que se derogan los Reglamentos (CE) n.º 443/2009 y (UE) n.º 510/2011; la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables; así como la Directiva (UE) 2018/2002 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, por la que se modifica la Directiva 2012/27/UE relativa a la eficiencia energética. Dentro del marco de la regulación del mercado interior de la electricidad, la Directiva (UE) 2019/944 del Parlamento Europeo y del Consejo, de 5 de junio de 2019, sobre normas comunes para el mercado interior de la electricidad y por la que se modifica la Directiva 2012/27/UE, y el Reglamento (UE) 2019/943 del Parlamento Europeo y el Consejo, de 5 de junio de 2019, relativo al mercado interior de la electricidad. También son relevantes, en lo que hace al marco de financiación, el Reglamento (UE) 2019/2088 del Parlamento Europeo y del Consejo, de 27 de noviembre de 2019, sobre la divulgación de información relativa a la sostenibilidad en el sector de los servicios financieros, y el Reglamento del Parlamento Europeo y del Consejo, sobre el establecimiento de un marco para facilitar inversiones sostenibles. Por último, en especial el Pacto Verde Europeo (Green Deal) presentado el 11 de diciembre de 2019 y se ha tenido en cuenta, en su redacción y tramitación, la Ley básica estatal 7/2021, de 20 de mayo, de Cambio Climático y Transición Energética (BOE n.º 121, de 21 de mayo).
+III
+Esta ley se estructura en noventa y tres artículos distribuidos en un título preliminar, cinco títulos, cuatro disposiciones adicionales, cinco disposiciones transitorias, una disposición derogatoria y nueve disposiciones finales.
+El título preliminar contiene las disposiciones generales de la ley, relativas al objeto, ámbito de aplicación, finalidades, definiciones, así como la responsabilidad y colaboración en la acción climática que alcanza de forma compartida al sector público y al conjunto de entidades sociales y económicas del archipiélago.
+De igual modo, contiene los principios generales que deberán informar las medidas implementadas en esta ley, a través de los cuales se promueve, entre otros, la participación y la conciencia ciudadana y la priorización de la producción de energía renovable y su almacenamiento; la igualdad entre mujeres y hombres; la protección de colectivos vulnerables, con especial consideración a la infancia y a los mayores, la resiliencia, la justicia climática y la transición justa.
+En el título I, organización administrativa y ámbito competencial, se definen y regulan los principales organismos de la gobernanza para la acción climática, entre los que se encuentran:
+La Comisión Interadministrativa de Acción Climática, Energía y Agua como órgano colegiado adscrito a la consejería con competencia en materia de cambio climático, cuya función será la coordinación y colaboración entre los diferentes departamentos del Gobierno en la aplicación y seguimiento de lo dispuesto en la presente ley.
+La Agencia Canaria de Acción Climática, Energía y Agua, como entidad de naturaleza pública con personalidad jurídica y autonomía administrativa y económica encargada de las acciones de mitigación, adaptación, gobernanza y comunicación reguladas en esta ley. Entre sus funciones se encuentra la elaboración de la Estrategia Canaria de Acción Climática, de la que dependerán los planes de acción climática y transición energética; la elaboración de la Estrategia Canaria de Transición Justa y Justicia Climática y la gestión del Registro Canario de Huella de Carbono.
+En el título II, planificación de la acción climática, se regulan los instrumentos de planificación que deberán amparar las medidas necesarias a implementar en la acción climática, bajo el paraguas de la legislación europea y la legislación básica estatal:
+La Estrategia Canaria de Acción Climática, como instrumento marco de planificación regional de Canarias, que se desarrollará a través del Plan Canario de Acción Climática, los planes de acción insulares y municipales para el clima y la energía y el Plan de Transición Energética de Canarias y que tiene por objeto establecer a largo plazo la contribución de Canarias en el cumplimiento de los compromisos en materia de acción climática.
+La Estrategia Canaria de Transición Justa y Justicia Climática, como instrumento regional de adaptación al nuevo modelo económico y social resultante de la transición ecológica cuyo objeto consiste en la identificación de áreas, sectores, colectivos o territorios que resulten sensiblemente afectados en términos de vulnerabilidad, teniendo en todo momento presente el principio de justicia climática y las situaciones de pobreza energética.
+El título III, integración del cambio climático en las políticas administrativas, territoriales y sectoriales, está dividido en seis capítulos.
+El capítulo I aborda la ordenación del territorio, urbanismo y vivienda, haciendo palpable el principio de transversalidad de la ley en estas materias, lo que se manifiesta, entre otras obligaciones, en la de incorporar la perspectiva climática en los instrumentos de ordenación ambiental, de ordenación de los recursos naturales, territorial y urbanística.
+El capítulo II regula la política presupuestaria y de contratación pública. Introduce el deber de incorporar la perspectiva climática en materia presupuestaria en el proyecto de ley de presupuestos generales de la Comunidad Autónoma de Canarias. También se establece en este capítulo un indicador del 2 % de inversión anual del PIB regional como objetivo a dedicar a medidas de acción climática en el conjunto de la economía canaria. En el ámbito de la contratación pública, se recoge el deber de incluir en los pliegos de cláusulas administrativas y prescripciones técnicas particulares de los contratos de adquisición de servicios, suministros y de ejecución de obras, criterios de adjudicación, condiciones especiales de ejecución y cláusulas que contribuyan a alcanzar los objetivos en materia de acción climática establecidos en esta ley, así como medidas concretas destinadas a combatir el cambio climático en vehículos del sector público; organización de eventos, actos públicos y servicios de hostelería, adquiridos por las administraciones públicas.
+En el capítulo III, emisiones de gases de efecto invernadero, se regula el Registro Canario de Huella de Carbono como instrumento autonómico para el desarrollo de las disposiciones relativas a la reducción o absorción de emisiones de gases.
+El capítulo IV, políticas energéticas, se divide en cuatro secciones: la sección 1.ª, dedicada a las disposiciones generales; la sección 2.ª, relativa a la eficiencia energética; la sección 3.ª, sobre energías renovables; y la sección 4.ª, referida a los biocombustibles. En la sección 2.ª se plasma el papel proactivo del sector público en materia de promoción de la eficiencia energética en sus edificios, instalaciones y servicios, asumiendo los compromisos, salvo las excepciones previstas en la ley, de renovar anualmente al menos el 5 % de la superficie edificada y climatizada de su parque inmobiliario. Asimismo, todos los edificios de las administraciones públicas u ocupados por estas deberán contar con planes de gestión energética al objeto de acreditar el cumplimiento de la normativa en materia de eficiencia energética. A su vez, estos planes de eficiencia energética deberán estar armonizados con el Libro del Edificio. La sección 3.ª se dedica a las energías renovables. Dentro del marco estatutario de Canarias se introducen medidas destinadas a fomentar un modelo energético seguro, sostenible, eficiente, de calidad, descarbonizado, con una oferta energética diversificada de origen renovable, abandonando las energías fósiles y fomentando el autoconsumo. En concreto se incluyen medidas como el deber de las administraciones públicas de Canarias y los entes de su sector público institucional de sustituir, antes de 2030, las instalaciones actuales de distribución de energía térmica por las que utilicen fuentes de energía primaria de origen renovable, así como la fijación de los criterios y los plazos para proceder a la sustitución o cierre de los grupos de generación térmicos de origen fósil existentes a través del Plan de Transición Energética de Canarias de conformidad con los objetivos de reducción de emisiones establecidos en los instrumentos que desarrollen la planificación de acción climática. Finalmente, en la sección 4.ª se fomenta la generación de biocombustibles.
+El capítulo V, políticas de transporte y movilidad sostenible, se divide en tres secciones. En la sección 1.ª, movilidad sostenible, se fomenta el transporte y la movilidad sostenible a través de planes y proyectos destinados a potenciar modelos de transporte público y colectivo, vehículo compartido, eléctrico o no motorizado en detrimento del uso del vehículo de combustión interna privado mediante la adopción de, entre otras medidas: la reserva de plaza para uso exclusivo de vehículos de bajas o nulas emisiones en las vías y aparcamientos públicos; el mandato directo a los grandes centros de trabajo de incorporar planes de movilidad sostenible –que deberán aprobarse en un plazo máximo de dos años desde la aprobación de la Estrategia Canaria de Acción Climática– y a las universidades de fomentar el transporte público mediante planes de escalonamiento horario. En la sección 2.ª, vehículos con emisiones contaminantes directas nulas, se establece la obligación para las administraciones públicas de sustituir sus vehículos de combustión interna en un plazo de diez años desde la entrada en vigor de la ley y para las empresas de alquiler de vehículos de contar con flotas con emisiones contaminantes directas nulas en un plazo máximo de quince años. También se obliga a las administraciones públicas a implementar una red de puntos de recarga para vehículos eléctricos en un plazo máximo de cinco años. Por último, la sección 3.ª introduce la perspectiva climática en el transporte marítimo y puertos de titularidad autonómica.
+El capítulo VI, otras políticas sectoriales, está dividido en doce secciones en las que se introducen medidas específicas de aplicación transversal en las áreas de turismo; agricultura y ganadería; pesca y acuicultura; industria y comercio; recursos hídricos; calidad del cielo y alumbrado público; protección de la biodiversidad y recursos naturales; montes y gestión forestal; gestión de residuos; salud y servicios sociales, atención de emergencias y protección civil. En el área de turismo, en concreto, la ley busca fomentar el turismo verde, estableciendo que las instalaciones hoteleras y extrahoteleras y los complejos turísticos deberán elaborar un plan de transición energética encaminado a minimizar la huella de carbono y deberán también inscribirse en el Registro Canario de Huella de Carbono.
+El título IV, instrumentos de actuación social para la gobernanza climática, se encuentra dividido en tres capítulos. En el capítulo I, transparencia, participación ciudadana y evaluación, se regulan una serie de medidas encaminadas a facilitar el acceso de los ciudadanos a la información relativa a las políticas climáticas y se establecen mecanismos de control de la información por parte de la Agencia Canaria de Acción Climática, Energía y Agua. El capítulo II introduce las medidas de fomento para la transición ecológica y la acción climática, a través de programas de ayuda y campañas de formación, sensibilización y comunicación para la acción climática que fomenten el cumplimiento de los objetivos de esta ley. Por último, el capítulo III está dedicado a la cooperación al desarrollo, educación, formación e investigación. En el ámbito de la educación, este capítulo coloca la acción climática y la transición ecológica como eje vertebrador de los decretos de desarrollo curricular en las materias vinculadas al cambio climático y de manera transversal en los demás currículos. Además, se fomenta la formación del profesorado en materia de acción climática y se promueven convenios de colaboración con las universidades públicas para fomentar la formación, la investigación, el desarrollo y la innovación en materia de acción climática y transición energética, así como con las empresas y colegios profesionales para favorecer la reconversión o adaptación de puestos de trabajo vinculados a sistemas energéticos tradicionales.
+El título V, régimen sancionador, se divide en dos capítulos: el primero, dedicado a las disposiciones generales; y el segundo, en el que se contiene el catálogo de infracciones y sanciones. El régimen sancionador se plantea, en general, como un instrumento a activar solo cuando hayan fracasado los intentos de reorientar las conductas irregulares y siempre que estas no estén ya previstas en otros sectores del ordenamiento jurídico. Clasifica las infracciones en muy graves, graves y leves y establece un sistema de graduación de sanciones en relación con el principio de proporcionalidad entre el hecho constitutivo de la infracción y la sanción aplicada teniendo en cuenta, entre otros criterios, la intencionalidad, el beneficio obtenido o la reparación espontánea del daño provocado. Las sanciones pecuniarias que se imponen por las infracciones tipificadas en la ley van desde multas de 600 euros hasta multas de 600.000 euros Además, la ley también recoge otro tipo de sanciones como son la clausura de actividades o instalaciones productoras de energía de emisiones de gases de efecto invernadero, la inmovilización de vehículos o de maquinaria o la suspensión del derecho a obtener subvenciones o ayudas públicas.
+La ley consta de cuatro disposiciones adicionales. La primera establece los plazos para la elaboración y la aprobación de los instrumentos de planificación frente al cambio climático, así como las consecuencias de su incumplimiento; la segunda se refiere a la evaluación del grado de cumplimiento de la ley y del logro de los objetivos previstos; la tercera establece la posibilidad de limitación del uso de vehículo privado en centros educativos; y la cuarta fija el mandato de adaptación de los planes en materia de emergencias y protección civil.
+Asimismo, la ley cuenta con tres disposiciones transitorias. La primera establece los requisitos de eficiencia energética para la adquisición de productos, servicios y edificios por las administraciones públicas de Canarias; la segunda atribuye a la consejería responsable en materia de cambio climático las competencias que la ley le otorgue a la Agencia Canaria de Acción Climática, Energía y Agua hasta su entrada en funcionamiento; y la tercera se refiere a que se mantendrán las actuaciones que se lleven a cabo por la consejería competente en materia de cambio climático y el Gobierno de Canarias para la elaboración, tramitación, aprobación y publicación de la Estrategia Canaria de Acción Climática, la Estrategia Canaria de Transición Justa y Justicia Climática, el Plan Canario de Acción Climática y el Plan de Transición Energética de Canarias.
+La disposición derogatoria suprime el artículo 25 (Observatorio del Paisaje) de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, y deroga el Decreto 35/2019, de 1 de abril, por el que se aprueba el Reglamento de Organización y Funcionamiento del Observatorio del Paisaje (órgano que se suprime por no haber tenido actividad alguna desde su creación, y por un criterio de optimización de instituciones). Asimismo, en la citada disposición se contiene la acostumbrada disposición de la derogación de cualquier disposición legal o reglamentaria que se oponga a lo dispuesto en la ley.
+Por último, se recogen ocho disposiciones finales. La primera, que prevé el plazo de constitución de la Agencia Canaria de Acción Climática, Energía y Agua; la segunda, que establece el plazo y contenido de las directrices de ordenación del litoral; la tercera establece el mandato de instaurar normas adecuadas para simplificar y agilizar la ejecución de los proyectos de energías renovables y su conexión a las redes energéticas; la cuarta se refiere al sistema de contabilidad medioambiental; la quinta prevé el establecimiento de una política fiscal para alcanzar los objetivos de la ley; la sexta la incorporación, en las normas reguladoras de las subvenciones, de indicadores para la efectiva consecución de los objetivos de la ley y, por extensión, de los Objetivos de Desarrollo Sostenible; la séptima habilita para el desarrollo reglamentario; y la octava fija el momento de entrada en vigor, que será a los tres meses de su publicación en el «Boletín Oficial de Canarias».
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular las medidas encaminadas a la mitigación y adaptación al cambio climático, así como garantizar la transición energética y la acción por el clima, alcanzando la neutralidad en carbono y la reducción de gases de efecto invernadero, mediante el esfuerzo colectivo y la aplicación de medidas coordinadas y eficaces desde todos los sectores públicos y privados, orientadas hacia la sostenibilidad; todo ello en desarrollo de la legislación básica del Estado y en virtud de las competencias asumidas por el Estatuto de Autonomía de Canarias.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+Esta ley y las medidas adoptadas en su desarrollo y para su ejecución son de aplicación a todos los poderes públicos de la Comunidad Autónoma de Canarias, las personas físicas y jurídicas, sean del sector público o privado, y a las actividades que se desarrollen en el ámbito espacial de la Comunidad Autónoma de Canarias.
+
+### Artículo 3
+
+Artículo 3. Finalidades.
+1. La presente ley tiene las siguientes finalidades:
+a) Desarrollo e implementación del conjunto de medidas de transición ecológica y energética y de acción climática que garanticen un balance neutro de emisiones de gases de efecto invernadero en las islas, teniendo presente el hecho insular y la situación ultraperiférica de Canarias.
+b) La eliminación progresiva de los combustibles fósiles.
+c) El establecimiento de un modelo energético basado en el uso racional de la energía, el incremento planificado y ordenado de las energías renovables y su capacidad de gestión a través del almacenamiento energético y la gestión de la demanda en todos los sectores de la economía de Canarias.
+d) La mitigación y adaptación a los efectos del cambio climático para la reducción de la vulnerabilidad de las personas y sus bienes, los recursos naturales, las infraestructuras, los servicios públicos y los ecosistemas terrestres, costeros y marinos.
+e) El fomento de la resiliencia de los sectores sociales y económicos frente a los efectos del cambio climático.
+f) La promoción de la educación, la formación, la innovación, la investigación, el desarrollo, la competitividad, la transferencia tecnológica, así como la difusión del conocimiento en materia de mitigación, adaptación y gobernanza de la acción climática.
+g) La integración de la salud pública y del bienestar social en las políticas de acción climática como mecanismo para la prevención y gestión de riesgos.
+h) El apoyo al fomento, mejora y perdurabilidad de las infraestructuras verdes.
+2. Las finalidades enumeradas en el apartado anterior deberán cumplirse en el contexto de un proceso de transición justa.
+Se modifica el apartado 1 por el art. único.1 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 4
+
+Artículo 4. Definiciones.
+A los efectos previstos en esta ley, los conceptos utilizados tienen el significado y el alcance siguiente:
+1. Absorción de CO2: la captación de dióxido de carbono (CO2) de la atmósfera por parte de sumideros naturales o artificiales.
+2. Acción climática: la adopción de medidas para combatir el cambio climático y sus efectos.
+3. Adaptación al cambio climático: proceso de ajuste al clima real o proyectado y sus efectos, con el fin de moderar o evitar los daños producidos por el cambio climático o aprovechar las oportunidades beneficiosas que genere.
+4. Almacenamiento de energía: todo procedimiento por el que, en el sistema eléctrico, se consiga:
+a) Diferir el uso final de electricidad a un momento posterior al de generación.
+b) Convertir energía eléctrica en una forma de energía que se pueda almacenar.
+c) Almacenar esa energía para su subsiguiente reconversión en energía eléctrica o su uso como otro vector energético.
+5. Áreas prioritarias para la adaptación al cambio climático: territorios concretos del archipiélago cuya vulnerabilidad hace necesario ejecutar acciones en materia de adaptación al cambio climático por parte de las Administraciones públicas canarias para disminuir los riesgos derivados del mismo.
+6. Bunkering marítimo: procedimiento mediante el cual se suministra combustible a un buque en un puerto determinado.
+7. Cambio climático: alteración climática atribuible directa o indirectamente a la actividad humana que modifica la composición de la atmósfera global y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables.
+8. Compensación de emisiones: captación o merma de una determinada cantidad equivalente de CO2 que procede de los proyectos de absorción de CO2 o de los proyectos de reducciones de emisiones realizados por terceras personas.
+9. Desarrollo sostenible: desarrollo que satisface las necesidades del presente sin comprometer la capacidad de las futuras generaciones, garantizando el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social.
+10. Descarbonización: proceso mediante el cual los países u otras entidades tratan de lograr una economía con bajas emisiones de carbono o mediante el cual las personas tratan de reducir su consumo de carbono.
+11. Eficiencia energética: medidas tendentes a mejorar resultados en el suministro energético empleando la menor cantidad posible de recursos, esto es, reducir el consumo de cualquier tipo de energía primaria, y con ello, los posibles impactos ambientales asociados a ella. La optimización del consumo energético se obtendrá mediante procesos de producción más eficaces y reduciendo las pérdidas de energía. Este tipo de medidas constituyen un criterio de obligada observancia en la planificación e inversión en materia de energía.
+12. Emisiones: emisiones de gases de efecto invernadero y gases contaminantes de la atmósfera.
+13. Emisiones difusas: emisiones de gases de efecto invernadero correspondientes a sectores y actividades no sujetas al comercio de derechos de emisiones.
+14. Emisiones no difusas: emisiones de gases de efecto invernadero correspondientes a sectores y actividades sujetas al comercio de derechos de emisiones regulado por la Ley estatal 1/2005, del 9 de marzo; o norma que la sustituya.
+15. Evaluación mediata: evaluación del beneficio ambiental que el objeto de un plan, programa o proyecto puede tener sobre el cambio climático, en atención a los efectos de mitigación o adaptación que dicha actuación pueda conllevar y al margen de los efectos que el mismo pueda tener sobre los valores ambientales presentes en el lugar de implantación, y que deberá ser tenido en cuenta en el análisis global que se declare por el órgano ambiental.
+16. Gases de efecto invernadero (GEI): Gases que absorben y emiten radiación dentro del rango infrarrojo, cuya proliferación por actividades humanas, en particular, la quema de combustibles fósiles causa el efecto invernadero y, en consecuencia, la agravación del cambio climático.
+17. Gobernanza: modelo de acción de gobierno basado en la interacción y coordinación entre distintos actores institucionales, económicos y sociales que busca alcanzar acuerdos y corresponsabilidad para el logro de metas acordadas de interés público, mediante fórmulas de gobierno abierto: transparencia, participación y colaboración.
+18. Grandes centros generadores de movilidad: los que se definan en la normativa sectorial. En todo caso tendrán dicha consideración:
+a) Establecimientos comerciales con superficie útil superior a 5.000 metros cuadrados.
+b) Edificios de oficinas con superficie superior a 10.000 metros cuadrados.
+c) Instalaciones deportivas, culturales y de ocio con aforos superiores a 5.000 personas.
+d) Edificios, centros de trabajo y complejos donde trabajan más de 500 personas.
+e) Establecimientos de alojamiento turístico con capacidad superior a 1.000 plazas.
+19. Huella de carbono: la cuantificación de las emisiones de gases de efecto invernadero que son liberadas a la atmósfera por efecto directo o indirecto de la actividad que lleva a cabo una organización, un individuo o a causa de la prestación de un servicio o provisión de un producto.
+20. I+D+i+C: Investigación, desarrollo e innovación y competitividad.
+21. Infraestructura verde: red de espacios naturales, seminaturales, corredores ecológicos y otros elementos ambientales, diseñada y gestionada para ofrecer una amplia gama de servicios ecosistémicos. Incluye espacios verdes y otros elementos físicos en áreas terrestres y marinas.
+22. Instalaciones de distribución de energía térmica: aquellos sistemas de calefacción o de refrigeración constituidos por generadores térmicos y por redes de distribución que permitan evacuar su energía mediante canalizaciones hasta los consumidores finales, sin perjuicio de las actividades reguladas como monopolio natural en las legislaciones sectoriales de electricidad y de hidrocarburos, que quedarán excluidas de las previsiones de este precepto.
+23. Justicia climática: garantía de los derechos de las personas más vulnerables y de la equidad en las cargas e impactos del cambio climático, así como en los beneficios de la transición ecológica de forma imparcial entre el general de la población.
+24. Mitigación del cambio climático: conjunto de objetivos, planes y acciones de cualquier tipo tendentes a reducir el impacto que la actividad humana tiene sobre la alteración del sistema climático global. Su ámbito principal de acción es la reducción de la emisión de gases de efecto invernadero teniendo en cuenta, entre otros ámbitos de acción, sin limitarse a ellos, la alimentación, la planificación del transporte o la reforestación.
+25. Movilidad compartida: todo servicio consistente en el uso de un vehículo compartido como un automóvil, una motocicleta, una bicicleta, un patinete u otro modo de transporte que otorga acceso de corto plazo y según las necesidades del usuario, por medio, por ejemplo, de tarifas en distintas modalidades de sharingy de alquiler de los vehículos.
+26. Neutralidad climática: la idea de que las emisiones netas de gases de efecto invernadero se equilibren y sean iguales (o menores) a las que se eliminan a través de la absorción natural del planeta.
+27. Pérgola fotovoltaica: estructura arquitectónica diseñada para proporcionar sombra y protección mientras genera electricidad a partir de la energía solar fotovoltaica ubicada en su parte superior.
+28. Perspectiva climática: la consideración del impacto directo e indirecto de planes, programas, proyectos o iniciativas sobre el consumo energético, las emisiones de gases o la vulnerabilidad al cambio climático.
+29. Pobreza energética: incapacidad de un hogar familiar de abonar servicios de la energía suficiente para la satisfacción de sus necesidades domésticas y/o cuando se ve obligado a destinar una parte excesiva de sus ingresos a pagar la factura energética de su vivienda. Supone una combinación de ingresos bajos de las personas integrantes de las familias y de otras unidades de convivencia, precio de la energía doméstica en aumento y deficientes niveles de eficiencia energética de las viviendas.
+30. Producto (relacionado con la energía): todo bien cuya utilización tiene una incidencia en el consumo de energía.
+31. Productos de proximidad: principio de producción alimentaria de cercanía, extendiéndose a otros productos y servicios. Hace referencia a un indicador de distancia entre el lugar de producción o reciclado y el lugar de consumo, que coincide con el ámbito territorial de las islas Canarias, para reducir la contaminación en el transporte y reforzar la economía local.
+32. Regiones ultraperiféricas: conforme el artículo 349 del Tratado de Funcionamiento de la Unión Europea, son aquellas regiones que forman parte de la Unión Europea caracterizadas por su gran lejanía, insularidad, reducida superficie, relieve, clima adverso y dependencia económica de un reducido número de productos, factores cuya persistencia y combinación perjudican gravemente su desarrollo. Para las que el Consejo adoptará medidas específicas orientadas, en particular, a fijar las condiciones para la aplicación de los tratados en dichas regiones, incluidas las políticas comunes.
+33. Resiliencia: capacidad de un sistema socioecológico de afrontar un suceso o perturbación desfavorables, respondiendo o reorganizándose de modo que mantenga su función esencial, su identidad y su estructura y conservando al mismo tiempo la capacidad de adaptación, aprendizaje y transformación.
+34. Servicios ambientales o ecosistémicos: aquellos beneficios que un ecosistema aporta a la sociedad y que mejoran la salud, la economía y la calidad de vida de las personas.
+35. Sumidero de carbono: sistema o proceso por el cual se extrae CO2de la atmósfera y se almacena en un depósito natural o artificial, contribuyendo a minimizar la cantidad de carbono en el aire. Actualmente, los océanos y las formaciones vegetales son los principales sumideros, pues gracias al proceso de la fotosíntesis se produce el secuestro de carbono.
+36. Transición justa: modelo de cambio social y energético vinculado al cambio climático que tiene en cuenta la equitativa redistribución de los costes y cargas derivadas del mismo.
+37. UE ETS: régimen de comercio de derechos de emisión de la Unión Europea.
+38. Zonas de aceleración de energías renovables: son áreas geográficas terrestres designadas por las Administraciones públicas canarias para promover y facilitar el desarrollo de proyectos de energía renovable. Estas áreas se seleccionan en función del potencial de recursos renovables disponibles, la infraestructura existente, la proximidad a la red eléctrica, la prioridad sobre superficies artificiales, y las consideraciones ambientales y sociales. En concreto, se excluyen dentro de su ámbito de delimitación, superficies integrantes de la Red Natura 2000 y los espacios naturales protegidos, previstos en los capítulos II y III del título II de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, o norma que la sustituya.
+Se modifica por el art. único.2 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 5
+
+Artículo 5. Responsabilidad y colaboración en la acción climática.
+1. En virtud de las prescripciones contenidas en la presente ley, todas las administraciones públicas, el resto del sector público y el conjunto de las entidades sociales y económicas del archipiélago asumen una responsabilidad compartida en relación con la acción climática. En aplicación de este principio, todas las personas están obligadas a colaborar en las políticas públicas referentes a la acción climática y en la reducción de emisiones de gases de efecto invernadero en el marco de la legislación estatal básica y de los instrumentos de planificación previstos en esta ley.
+2. (Suprimido)
+Se suprime el apartado 2 por el art. único.3 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 6
+
+Artículo 6. Principios generales.
+El diseño y la implementación de las medidas que se adopten conforme a esta ley deberán responder a los principios reconocidos en el derecho internacional, comunitario, de la Unión Europea y estatal de aplicación en materia de acción climática, así como, en particular, a los principios siguientes:
+1. Prevención en la toma de decisiones que afectan al medio ambiente y a la ciudadanía, así como a los riesgos y daños derivados de acontecimientos naturales inducidos por el cambio climático.
+2. Evaluación y seguimiento de los objetivos y contribuciones de esta ley, teniendo presente el hecho insular y la situación ultraperiférica de Canarias.
+3. Promoción de la participación y la conciencia ciudadana, así como de la responsabilidad compartida de todos los agentes sociales y económicos en las acciones de mitigación y adaptación al cambio climático y, en concreto, en la erradicación de la pobreza energética.
+4. Promoción e implementación de las buenas prácticas de las entidades públicas, agentes económicos y sociales.
+5. Transparencia, consulta y acceso a la información.
+6. Fomento de la eficiencia y seguridad energéticas.
+7. Priorización de la producción de energía renovable, almacenamiento y autoconsumo.
+8. Fomento y planificación de la movilidad sostenible.
+9. Colaboración pública y privada para alcanzar los objetivos de esta ley.
+10. Cooperación, colaboración y coordinación entre las Administraciones públicas.
+11. Igualdad entre mujeres y hombres.
+12. Protección de colectivos vulnerables, con especial consideración a la infancia y a las personas mayores.
+13. Utilización de las mejores tecnologías disponibles en cada momento a precios razonables.
+14. Resiliencia.
+15. Protección y promoción de la salud pública.
+16. Precaución.
+17. No regresión.
+18. Justicia climática y transición justa.
+19. Fomento de la eficiencia y seguridad hídrica.
+Se modifica por el art. único.4 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO I
+
+Organización administrativa y ámbito competencial
+
+### Artículo 7
+
+Artículo 7. La gobernanza para la acción climática.
+(Suprimido)
+Se suprime por el art. único.5 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 8
+
+Artículo 8. Funciones de las administraciones públicas de Canarias.
+1. Las administraciones públicas de Canarias y su sector público institucional ejercerán las funciones previstas en esta ley con arreglo a la distribución de competencias y funciones recogidas en la normativa que les sea de aplicación.
+2. Las administraciones públicas de Canarias y su sector público institucional integrarán la acción climática en el ejercicio de sus funciones, tanto desde la perspectiva de la mitigación como de la adaptación.
+3. El Gobierno de Canarias velará, mediante la aplicación de los mecanismos de colaboración adecuados, por el desarrollo de los objetivos de la presente ley.
+
+### Artículo 9
+
+Artículo 9. Funciones del Gobierno de Canarias.
+Corresponde al Gobierno de Canarias, a propuesta de la Consejería competente en materia de cambio climático:
+1. La planificación de las políticas de acción climática dirigida a la mitigación de gases de efecto invernadero de todos los sectores generadores y la adaptación a los impactos del cambio climático sobre los sistemas naturales, los sectores socioeconómicos, los territorios y la población, así como a fortalecer el sistema de gobernanza en los distintos niveles territoriales e intersectoriales. Establecerá objetivos al respecto, que se podrán actualizar según las circunstancias concurrentes.
+2. La cooperación y asistencia técnica y jurídica a cabildos insulares y ayuntamientos, previa solicitud de la Administración afectada, para el ejercicio por éstos de sus competencias en materia de cambio climático y, de modo especial, con medios materiales y económicos para la elaboración de los planes que les competen.
+3. La subrogación en las competencias de elaboración y tramitación de los Planes Insulares de Acción Climática, tras la comprobación por la misma de la inacción o retraso injustificado del cabildo en la elaboración de su Plan Insular de Acción Climática, y previo requerimiento a la administración insular por plazo de dos meses, siempre que el cabildo insular correspondiente no haya solicitado la cooperación y asistencia prevista en el apartado segundo de este artículo. Transcurrido dicho plazo, si se mantiene la inactividad, el titular de la Consejería competente en materia de cambio climático acordará la subrogación en el ejercicio de estas competencias atribuidas al cabildo.
+Se modifica por el art. único.6 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 10
+
+Artículo 10. La Comisión Canaria de Acción Climática y Energía.
+1. Se crea la Comisión Canaria de Acción Climática y Energía como órgano colegiado adscrito a la Consejería competente en materia de cambio climático, cuya función será la coordinación y colaboración entre las diferentes Consejerías del Gobierno en la aplicación y seguimiento de lo dispuesto en la presente ley.
+2. La comisión estará compuesta por al menos un titular de centro directivo de cada Consejería del Gobierno de Canarias y por quien ostente la dirección de la Oficina Canaria de Acción Climática. Estará presidida por la persona titular de la Consejería competente en materia de cambio climático, o persona en quien delegue.
+3. La dirección del Comité de Persona Expertas para el estudio del cambio climático de Canarias y fomento de la economía circular y azul asistirá a las reuniones de esta Comisión con voz, pero sin voto.
+4. Sus miembros se reunirán, de forma ordinaria, con periodicidad anual en el mes de septiembre. De forma extraordinaria, se reunirán por convocatoria de su presidente, bien por iniciativa propia, bien a solicitud de, al menos, tres quintos de sus miembros, salvo que su reglamento interno establezca otra cosa.
+5. Corresponderá a la comisión:
+a) Coordinar la actuación de la Administración de la Comunidad Autónoma y sus entes instrumentales en la lucha contra el cambio climático.
+b) Informar cada dos años al Parlamento de Canarias de la incidencia ambiental, económica y social de las medidas de acción climática implementadas.
+c) Formular propuestas al Gobierno de Canarias de medidas de mitigación y adaptación que pueden desarrollarse en las distintas Consejerías.
+d) Estudiar y debatir, a solicitud del titular de la Consejería competente en materia de cambio climático, las propuestas de proyectos de reglamentos relacionados con los objetivos de esta ley cuando su aplicación afecte a más de una Consejería.
+Estas funciones se entenderán sin perjuicio de lo establecido en el artículo 23.3 de la presente ley y el reglamento interno de la Comisión.
+Se modifica por el art. único.7 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 11
+
+Artículo 11. La Oficina Canaria de Acción Climática.
+1. Se crea la Oficina Canaria de Acción Climática como área de la Consejería competente en materia de cambio climático encargada de las acciones de mitigación, adaptación, gobernanza y comunicación reguladas en esta ley, correspondiendo su dirección al personal designado conforme al artículo 13 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, o norma que la sustituya.
+2. En concreto, le corresponderá:
+a) Elaborar el Plan Canario de Adaptación Climática, en coordinación con el resto de los departamentos de la Administración pública de la Comunidad Autónoma de Canarias.
+b) Supervisar los planes de adaptación al cambio climático de las empresas y organismos públicos que ostenten la titularidad de infraestructuras críticas en Canarias, tales como las infraestructuras energéticas, de agua, puertos, entre otras; así como su cumplimiento.
+c) Implementar los procedimientos y las metodologías adoptados internacionalmente dirigidos a:
+1. Realizar los inventarios de emisiones y las proyecciones en esta materia, a través de un registro que disponga de una metodología digital, sencilla e intuitiva que facilite su uso.
+2. Diseñar los escenarios climáticos en Canarias para varios horizontes temporales.
+3. Evaluar la vulnerabilidad y los riesgos a consecuencia del cambio climático en Canarias, con el fin de identificar los ámbitos de acción prioritaria para la mitigación y adaptación al cambio climático.
+4. Definir los indicadores cuantitativos y cualitativos adaptación al cambio climático, gobernanza e impacto en la economía y establecer su seguimiento.
+d) Tramitar las autorizaciones de emisión de gases de efecto invernadero a las actividades sujetas a la normativa sobre el comercio de derechos de emisión de gases de efecto invernadero y valorar los informes verificados correspondientes a dichas emisiones.
+e) Tramitar las autorizaciones de exclusión del régimen del comercio de derechos de emisión de gases de efecto invernadero en los casos normativamente establecidos.
+f) Gestionar el Registro Canario de la Huella de Carbono.
+g) Crear y mantener actualizado el inventario de las emisiones de gases de efecto invernadero del conjunto de las actividades socioeconómicas que se desarrollan en Canarias.
+h) Realizar las auditorías que verifiquen el cumplimiento de la obligación recogida en el apartado anterior.
+i) Ejercer funciones técnicas y de gestión del secretariado de los órganos colegiados en materia de cambio climático de la Comunidad Autónoma, en concreto de la Comisión Canaria de Acción Climática y Energía, y del Comité de Personas Expertas para el estudio del cambio climático de Canarias y fomento de la economía circular y azul.
+j) Asesorar a empresas, autónomos y sociedad civil en materia de acción climática. Además, la Oficina podrá asesorar en el desarrollo de acciones climáticas a las distintas Administraciones públicas de Canarias que así lo precisen, así como asistir en su implementación.
+k) Asesorar a los distintos órganos de la Administración de la Comunidad Autónoma de Canarias, así como Cabildos y entidades locales en materia de adaptación al cambio climático.
+l) Mantener las comunicaciones pertinentes con la Oficina Española de Cambio Climático, otras administraciones públicas estatales y autonómicas, organizaciones no gubernamentales, instituciones y entidades públicas y privadas y demás agentes sociales para colaborar en iniciativas relacionadas con la lucha frente al cambio climático.
+m) La elaboración de indicadores y el desarrollo de sistemas de información en colaboración con el Instituto Canario de Estadística; así como la formulación, con carácter trienal, de un diagnóstico ambiental de Canarias.
+n) La emisión de informes o propuestas en materia de sostenibilidad y lucha contra el cambio climático, en relación con proyectos, planes y programas a desarrollar en Canarias y que tengan incidencia en dichas materias, realizados a iniciativa propia o a propuesta del Gobierno de Canarias.
+o) La promoción de la ejecución de obras relativas a la adaptación al cambio climático, así como de la redacción de los correspondientes proyectos, pudiendo realizarse en colaboración con otras Administraciones públicas.
+p) La promoción de medidas de fomento en materia de acción climática, armonizando y canalizando todos los recursos, subvenciones y ayudas orientadas a la lucha contra el cambio climático del departamento competente en materia de cambio climático.
+Se modifica por el art. único.8 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 12
+
+Artículo 12. Funciones de los cabildos insulares.
+En el marco de las competencias y de las funciones atribuidas por el Estatuto de Autonomía y la legislación aplicable, son atribuciones de los cabildos insulares en materia de acción climática:
+a) Elaborar, tramitar y aprobar los Planes Insulares de Acción Climática, en el marco de las determinaciones del Plan Integrado de Energía y Clima y del Plan Canario de Adaptación Climática, los cuales especificarán medidas de adaptación a las variaciones climáticas en los correspondientes territorios insulares.
+b) Elaborar los Planes de Movilidad Urbana Sostenible conforme a las estipulaciones del artículo 14.3 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, y del artículo 13.3 y disposición adicional única del Real Decreto 1052/2022, de 27 de diciembre, por el que se regulan las zonas de bajas emisiones, o normas que las sustituyan. Dicha elaboración respetará las competencias que, en materia de movilidad, tienen atribuidos por ley, los municipios dentro de su término municipal.
+Estos planes recogerán las zonas de bajas emisiones determinadas por los municipios de más de 50.000 habitantes y contendrán medidas que favorezcan el transporte activo-saludable, el transporte público y la movilidad eléctrica compartida.
+Los Planes de Movilidad Urbana Sostenible estarán incorporados en los Planes Insulares de Acción Climática.
+c) Cooperar con los ayuntamientos en el ejercicio de competencias que les son propias, incluyendo asistencia técnica, información, asesoramiento, realización de estudios, formación y apoyo tecnológico para el cumplimiento de la presente ley. La cooperación y la asistencia serán voluntarias, previa solicitud del ayuntamiento interesado y de conformidad con los términos que se acuerden.
+d) Subrogarse en la competencia municipal para la elaboración, tramitación y aprobación de los Planes de Acción para el Clima y la Energía Sostenible en caso de inactividad de los ayuntamientos, en los términos previstos en la legislación de régimen local. Transcurrido el término estipulado legalmente, la subrogación se llevará a cabo previa audiencia al ayuntamiento por plazo de dos meses, retomando y activando las actuaciones en el estado en que se encuentren.
+e) Las demás que les atribuya esta ley.
+Se modifica por el art. único.9 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 13
+
+Artículo 13. Funciones de los ayuntamientos.
+1. En el marco de sus competencias, es función de los ayuntamientos en materia de acción climática la elaboración, tramitación y aprobación de los Planes de Acción para el Clima y la Energía Sostenible, en el marco de las determinaciones del Plan Integrado de Energía y Clima de Canarias y el Plan Canario de Adaptación Climática, así como las demás que les atribuya esta ley.
+2. En caso de que exista entidad de gestión territorial supramunicipal o mancomunidad de municipios, ésta podrá elaborar estos planes teniendo en cuenta el conjunto de municipios que integran la entidad de gestión o mancomunidad.
+Se modifica por el art. único.10 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO II
+
+Planificación de la acción climática
+
+## CAPÍTULO I
+
+Instrumentos de planificación
+Se añade por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 14
+
+Artículo 14. Instrumentos de planificación.
+1. La planificación en materia de acción climática se llevará a cabo a través del Plan Integrado de Energía y Clima de Canarias (PIECan) y el Plan Canario de Adaptación Climática (PCAC). Constituyen los instrumentos marco de planificación regional en materia de acción climática de la Comunidad Autónoma de Canarias, los cuales tendrá en consideración los principios de transición justa y justicia climática.
+2. Bajo los criterios y directrices de los instrumentos de planificación del apartado primero, se desarrollarán los siguientes instrumentos:
+a) Planes Insulares de Acción Climática (PIAC).
+b) Planes de Acción para el Clima y la Energía Sostenible (PACES).
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 15
+
+Artículo 15. Plan Integrado de Energía y Clima de Canarias (PIECan).
+1. El Plan Integrado de Energía y Clima de Canarias (PIECan) tiene por objeto establecer, a largo plazo, el conjunto de medidas de mitigación en que se concretará la contribución de Canarias al cumplimiento de los compromisos en materia de acción climática.
+2. El PIECan establecerá objetivos y medidas, como mínimo, en las siguientes materias:
+a) Reducción de emisiones de gases de efecto invernadero y mejora en la captación de carbono (sumideros de carbono), estableciendo objetivos quinquenales.
+b) Mejora de la eficiencia, almacenamiento y suministro energético, garantizando su seguridad y calidad, reduciendo al mismo tiempo el consumo de energía en el conjunto del archipiélago.
+c) Implantación de energías de origen renovable en el conjunto del archipiélago, tanto en fase de generación como de consumo final.
+d) Movilidad sostenible.
+También dispondrá de un sistema de indicadores para su evaluación y seguimiento e identificará necesidades de investigación, innovación, desarrollo y competitividad en materia de acción climática.
+3. El PIECan tendrá una vigencia indefinida. No obstante, deberá revisarse cada diez años a partir de su publicación. Sin perjuicio de lo anterior, dicho plan podrá ser revisado cada cinco años para actualizar los escenarios y objetivos, o como consecuencia de cambios normativos directos que afecten a este plan.
+4. El PIECan será elaborado por la Consejería competente en materia de energía y mitigación con la colaboración de los centros directivos competentes en materia de movilidad, y su procedimiento de aprobación deberá respetar en todo caso las siguientes reglas, que podrán ser desarrolladas y completadas reglamentariamente:
+a) Cuando esté ultimada su elaboración, deberá someterse a información pública por un plazo mínimo de cuarenta y cinco días hábiles, sujetándose, en su caso, a la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya.
+b) Su aprobación definitiva corresponderá al Gobierno de Canarias por Decreto.
+c) Se procederá a su publicación íntegra en el “Boletín Oficial de Canarias”.
+5. Una vez publicada en el “Boletín Oficial de Canarias”, las determinaciones de este plan serán de obligado cumplimiento.
+6. El PIECan prevalecerá sobre cualquier otro instrumento de ordenación general de los recursos naturales y del territorio, territorial o urbanístico, en las materias objeto de este plan, y sin perjuicio de la prevalencia de los planes de ordenación de los recursos naturales.
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 16
+
+Artículo 16. Plan Canario de Adaptación Climática (PCAC).
+1. El Plan Canario de Adaptación Climática (PCAC) tiene por objeto establecer, a largo plazo, el conjunto de medidas de adaptación en que se concretará la contribución de Canarias al cumplimiento de los compromisos en materia de acción climática.
+2. El PCAC tendrá, al menos, el siguiente contenido:
+a) La elaboración de los escenarios climáticos presentes y futuros del archipiélago.
+b) La identificación y evaluación de los impactos y los riesgos previsibles en función de estos escenarios.
+c) La evaluación de la vulnerabilidad de los recursos naturales, del territorio, infraestructuras y de la población frente a los impactos y riesgos identificados, teniendo en cuenta la adaptación de los colectivos sociales y sectores económicos más vulnerables a dichos impactos y a la transición ecológica.
+d) Medidas específicas de adaptación a los impactos y riesgos detectados, incluyendo propuestas de acción para minimizar las vulnerabilidades socioeconómicas detectadas.
+e) Mecanismos para garantizar la gobernanza.
+f) Sistema de indicadores para su evaluación y seguimiento.
+3. El PCAC tendrá una vigencia indefinida. No obstante, deberá revisarse cada diez años a partir de su publicación. Sin perjuicio de lo anterior, dicho plan podrá ser revisado cada cinco años para actualizar los escenarios y objetivos.
+4. El procedimiento de aprobación de este plan deberá respetar en todo caso las siguientes reglas, que podrán ser desarrolladas y completadas reglamentariamente:
+a) Cuando esté ultimada su elaboración, deberá someterse a información pública por un plazo mínimo de cuarenta y cinco días hábiles, sujetándose, en su caso, a la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya.
+b) Su aprobación definitiva corresponderá al Gobierno de Canarias por Decreto.
+c) Se procederá a su publicación íntegra en el “Boletín Oficial de Canarias”.
+5. Una vez publicada en el “Boletín Oficial de Canarias”, las determinaciones de este plan serán de obligado cumplimiento.
+6. El PCAC prevalecerá sobre cualquier otro instrumento de ordenación general de los recursos naturales y del territorio, territorial o urbanístico, en las materias objeto de este plan, y sin perjuicio de la prevalencia de los planes de ordenación de los recursos naturales.
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 17
+
+Artículo 17. Planes Insulares de Acción Climática (PIAC).
+1. En el marco de las directrices establecidas en el PIECan y el PCAC, cada cabildo de Canarias deberá desarrollar su propio Plan Insular de Acción Climática (PIAC), que aborde las medidas de mitigación y, en especial, de adaptación que sean necesarias, en su ámbito competencial, para la consecución de los objetivos y el desarrollo de las directrices fijadas.
+Los Planes Insulares de Acción Climática incluirán las medidas de movilidad urbana sostenible que han de recoger los planes previstos en el artículo 14.3 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, respecto al territorio de municipios de hasta 50.000 habitantes.
+2. El conjunto de las medidas propuestas deberá acompañarse de su cronograma de implantación y ejecución. Este cronograma deberá estar justificado en función del orden de prioridad de las medidas, así como del resultado del estudio económico y financiero de cada una de ellas, de forma que garantice su previsión financiera y presupuestaria.
+3. Previa justificación de su necesidad en relación con los objetivos de la presente ley, los Planes Insulares de Acción Climática podrán disponer medidas sobre las materias objeto del plan, de aplicación directa e inmediata, que impliquen la modificación o derogación de otras normas de carácter insular o municipal que dificulten su efectividad.
+4. El procedimiento de aprobación de los Planes Insulares de Acción Climática deberá respetar en todo caso las siguientes reglas, que podrán ser desarrolladas y completadas reglamentariamente:
+a) Su tramitación se acompasará a la tramitación del procedimiento instrumental de evaluación ambiental estratégica, conforme a la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya.
+b) Cuando esté ultimada su elaboración, deberá someterse a información pública por un plazo mínimo de cuarenta y cinco días hábiles.
+c) Los departamentos autonómicos con competencia en materia de medio ambiente, acción climática, energía e industria, así como los ayuntamientos de la isla deberán ser consultados preceptivamente de forma simultánea a los periodos de información pública que se celebren, sin perjuicio de la oportunidad de consulta al resto de departamentos autonómicos y otras Administraciones públicas.
+5. Una vez aprobado por el pleno del Cabildo correspondiente, el Plan Insular de Acción Climática, el acuerdo de aprobación definitiva se publicará en el “Boletín Oficial de Canarias” y dicho acuerdo y la normativa en el boletín oficial de la provincia correspondiente, y sus determinaciones serán de obligado cumplimiento para todas las personas, tanto públicas como privadas.
+6. Los Planes Insulares de Acción Climática tendrán una vigencia de diez años a partir de su publicación, pudiendo ser prorrogados por el pleno de la corporación insular correspondiente. Sin perjuicio de lo anterior, dichos planes podrán ser revisados cada cinco años para actualizar los escenarios y objetivos.
+7. Los Planes Insulares de Acción Climática prevalecerán sobre cualquier otro instrumento de ordenación general de los recursos naturales y del territorio, territorial o urbanístico, en las materias objeto de este plan, y sin perjuicio de la prevalencia de los planes de ordenación de los recursos naturales.
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 18
+
+Artículo 18. Planes de Acción para el Clima y la Energía Sostenible (PACES).
+1. En el marco de las directrices establecidas en el PIECan y el PCAC, cada ayuntamiento de Canarias deberá desarrollar su propio Plan de Acción para el Clima y la Energía Sostenible (PACES), que aborde las medidas de mitigación y, en especial, de adaptación que sean necesarias, en su ámbito competencial, para la consecución de los objetivos y el desarrollo de las directrices fijadas.
+En el caso de los municipios que, en cumplimiento del artículo 14.3 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, o norma que la sustituya, deban adoptar planes de movilidad urbana sostenible, los PACES incluirán las medidas establecidas en aquellos.
+2. El conjunto de las medidas propuestas deberá acompañarse de su cronograma de implantación y ejecución. Este cronograma deberá estar justificado en función del orden de prioridad de las medidas, así como del resultado del estudio económico y financiero de cada una de ellas de forma que garantice su previsión financiera y presupuestaria.
+3. Previa justificación de su necesidad en relación con los objetivos de la presente ley, los PACES podrán disponer medidas, de aplicación directa e inmediata, que impliquen la modificación o derogación de otras normas de carácter municipal que dificulten su efectividad.
+4. Los PACES se aprobarán de acuerdo con la metodología adoptada en el ámbito de la Unión Europea.
+Estos planes tendrán el siguiente contenido mínimo:
+a) El análisis y la evaluación de emisiones de gases de efecto invernadero.
+b) La identificación y la caracterización de los elementos vulnerables.
+c) Los objetivos y las estrategias para la mitigación y la adaptación al cambio climático, incluyendo las posibles modificaciones del planeamiento urbanístico y las ordenanzas municipales que resulten adecuadas a los mismos.
+d) La selección y clasificación de aquellos espacios ya urbanizados u ocupados por infraestructuras y servicios que ofrezcan mayor potencialidad para situar o compartir superficies susceptibles de utilización para infraestructuras de energías renovables.
+e) Las acciones de sensibilización y formación.
+f) Las reglas para la evaluación y seguimiento del plan.
+5. Una vez aprobado por el pleno de la corporación local correspondiente, el acuerdo de aprobación definitiva se publicará en el “Boletín Oficial de Canarias” y dicho acuerdo y la normativa en el boletín oficial de la provincia correspondiente, y sus determinaciones serán de obligado cumplimiento.
+6. Los PACES tendrán una vigencia de diez años a partir de su publicación, pudiendo ser prorrogados por el pleno de la corporación local correspondiente. Sin perjuicio de lo anterior, dichos planes podrán ser revisados cada cinco años para actualizar los escenarios y objetivos.
+7. El PACES prevalecerá sobre cualquier otro plan urbanístico en las materias objeto de este plan.
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO II
+
+Proyectos de Acción Climática
+Se añade por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 19
+
+Artículo 19. Proyectos de Acción Climática.
+1. Los Proyectos de Acción Climática tienen por objeto legitimar obras de interés general en materia de lucha contra el cambio climático en las áreas prioritarias para la adaptación al cambio climático, cuya delimitación se realizará por dicho Proyecto.
+2. El Proyecto de Acción Climática, de iniciativa del departamento de la Administración pública de la Comunidad Autónoma de Canarias competente en materia de cambio climático, que declarará su interés general y la prioridad de su implantación en el área correspondiente, se someterá a consulta, por plazo mínimo de un mes, del Cabildo Insular respectivo y del Ayuntamiento o Ayuntamientos en cuyo término o términos se pretenda ejecutar el mismo, así como de los órganos de la Administración General del Estado o sus organismos adscritos que resulten afectados en sus competencias.
+Se sujetará, en su caso, a evaluación de impacto ambiental, en los términos de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, o norma que la sustituya.
+3. Si las Administraciones de Canarias mencionadas en el apartado anterior hubieran manifestado la conformidad del proyecto a la legalidad ambiental, territorial y urbanística, dentro del plazo concedido, o hubieran dejado transcurrir tal plazo sin pronunciamiento alguno al respecto, se entenderá legitimada la ejecución de los actos de construcción, edificación y uso del suelo incluidos en los proyectos de acción climática.
+En el caso de que dichas Administraciones manifestaran su oposición fundada al proyecto dentro del plazo concedido, la resolución motivada de la discrepancia, legitimando en su caso su ejecución, corresponderá al Gobierno de Canarias, a propuesta del departamento de la Administración pública de la Comunidad Autónoma de Canarias competente en materia de cambio climático. En caso de que no exista oposición su aprobación corresponderá al mencionado departamento.
+4. Respecto a los órganos de la Administración General del Estado o sus organismos adscritos que resulten afectados en sus competencias, se estará, en su caso, a lo dispuesto en la legislación básica estatal aplicable.
+5. Los instrumentos de ordenación afectados asumirán los proyectos de acción climática con ocasión de su primera modificación, si la modificación tiene por objeto el territorio donde se ubica el proyecto.
+Se modifica por el art. único.11 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO III
+
+Integración del cambio climático en las políticas administrativas territoriales y sectoriales
+
+## CAPÍTULO I
+
+Ordenación del territorio, urbanismo y vivienda
+
+### Artículo 20
+
+Artículo 20. Perspectiva climática en los instrumentos de ordenación ambiental, de los recursos naturales, territorial, urbanística y sectorial.
+1. En los procedimientos de aprobación de los instrumentos de ordenación ambiental, de ordenación de los recursos naturales, territorial, urbanística y sectorial que promuevan o aprueben las Administraciones públicas de Canarias en esta materia, se deberá incorporar la perspectiva climática, especialmente en la evaluación ambiental estratégica, de conformidad con lo dispuesto en la presente ley, en el PIECan y el PCAC.
+2. Asimismo, deberán contener un diagnóstico territorial, ambiental y económico, con especial referencia a los recursos naturales, a la población, con atención particular a la igualdad de género y el bienestar de las familias, el planeamiento vigente y la situación socioeconómica.
+3. Los instrumentos de ordenación ambiental, de los recursos naturales, territorial y urbanística de ámbito municipal o superior, así como los sectoriales sometidos preceptivamente al procedimiento de evaluación ambiental estratégica, deberán tener en cuenta los aspectos relacionados con los efectos del cambio climático y las causas que lo motivan, en especial el aumento de densidades urbanas, conservación de masas forestales, conservación de suelos y limitación de crecimientos urbanos.
+A tal efecto, las memorias de dichos instrumentos deberán relacionar y justificar las medidas adoptadas con arreglo al párrafo anterior.
+4. Las administraciones públicas de Canarias competentes:
+a) Impulsarán la incorporación de principios bioclimáticos y de eficiencia energética en el diseño urbano y arquitectónico, la densidad urbanística adecuada, la minimización de la artificialización del suelo, el aumento de zonas permeables e infraestructuras verdes y la concentración de la población en áreas dotadas de todos los servicios de modo que se minimicen los desplazamientos, y se cuente con una red eficaz y de bajas emisiones de transporte público.
+b) Favorecerán la consideración, en la redacción y actualización del planeamiento urbanístico, de los impactos asociados al cambio climático, tales como las inundaciones, las lluvias puntuales y escorrentías por cauces naturales intervenidos por el hombre, el ascenso del nivel del mar, las olas de calor y la pérdida de biodiversidad.
+c) Velarán por que las dependencias y los servicios de las administraciones públicas, especialmente los de carácter educativo, sanitario, social, cultural y deportivo, sean fácilmente accesibles desde las redes de transporte público.
+Se modifica el apartado 1 por el art. único.12 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 21
+
+Artículo 21. Modificación del modelo territorial y urbanístico.
+1. Las administraciones públicas de Canarias promoverán un cambio de modelo territorial y urbanístico dirigido a la consecución de los objetivos establecidos en la presente ley. A tales efectos, los correspondientes instrumentos de ordenación ambiental, de los recursos naturales, territorial y urbanística deberán motivar las concretas determinaciones de ordenación que se dirijan a la satisfacción de tales objetivos.
+2. Las determinaciones de ordenación de las nuevas áreas residenciales que se propongan en los diferentes instrumentos de ordenación deberán responder al principio de máxima autosuficiencia energética.
+3. Igualmente, los instrumentos de ordenación ambiental, de los recursos naturales, territorial y urbanística deberán:
+a) Desarrollar modelos compactos de ocupación del territorio y unos usos más eficientes e intensivos de terrenos ya urbanizados.
+b) Garantizar, en las actuaciones de transformación de nueva urbanización, una provisión energética con fuentes de energía renovables, de forma que se garantice la máxima autosuficiencia.
+c) En los instrumentos de nueva redacción, en las modificaciones sustanciales plenas de los mismos y en las actuaciones de transformación de nueva urbanización, sin perjuicio del cumplimiento del estándar previsto en la legislación urbanística, se tendrá en consideración el desarrollo de soluciones basadas en la naturaleza, en particular:
+1) La aplicación de una superficie mínima de 10 metros cuadrados de zona verde por habitante, dentro de los cuales podrán computar, de forma justificada, la dotación de 5 metros cuadrados de espacios libres por habitante o plaza alojativa del artículo 137.2 de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, y las reservas de espacios libres previstas en el artículo 138.1 de la citada ley, siempre que se destinen a zonas verdes.
+2) La previsión de un árbol, palmera o arbusto que proporcione sombra por cada tres habitantes.
+Se modifica la letra c) del apartado 3 por el art. 1.1 del Decreto-ley 1/2026, de 26 de enero. Ref. BOE-A-2026-8593
+ Se modifica el apartado 3 por el art. único.13 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 22
+
+Artículo 22. Arquitectura y vivienda.
+1. Las Administraciones públicas de Canarias promoverán políticas que reorienten las actividades de construcción y edificación hacia la consecución de los objetivos de eficiencia energética en el sector. Entre estas políticas, deberán impulsar:
+a) La introducción de criterios bioclimáticos en el diseño, la proyección y la construcción de las nuevas edificaciones.
+b) La incentivación de soluciones constructivas de alta eficiencia energética.
+c) La previsión de puntos de recarga de vehículos eléctricos en las nuevas edificaciones suficientes para la dotación de aparcamientos, así como su introducción en las existentes.
+2. En concreto, la Administración de la Comunidad Autónoma de Canarias deberá:
+a) Promover la consecución de la máxima certificación energética posible en su parque público de viviendas que será, al menos, certificación B.
+b) Colaborar con los propietarios de viviendas sometidas a algún régimen público de protección para hacer efectivo el cumplimiento de los objetivos previstos en esta ley.
+c) Contemplar las medidas señaladas en el presente artículo en los correspondientes planes de vivienda.
+3. Las Administraciones públicas Canarias deberán crear incentivos para alcanzar la máxima eficiencia energética posible de edificaciones de promoción o titularidad pública o privada.
+Se modifica por el art. único.14 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO II
+
+Medidas en materia presupuestaria y de contratación pública
+
+### Artículo 23
+
+Artículo 23. Disposiciones generales en materia presupuestaria.
+1. Se deberá incorporar la perspectiva climática en el proyecto de ley de presupuestos generales de la Comunidad Autónoma de Canarias. A tal efecto, los departamentos del Gobierno valorarán en las correspondientes memorias el impacto de los respectivos programas presupuestarios en los objetivos marcados por esta ley para la acción climática.
+2. Las administraciones públicas de Canarias y su sector público institucional destinarán en sus presupuestos los programas necesarios para materializar la acción climática.
+Se establece como objetivo a alcanzar en 2025 un indicador del 2 % de inversión anual del PIB de Canarias dedicado a medidas de acción climática en el conjunto de la economía canaria, entendiendo como tal la aportación del conjunto del sector público y del sector privado, de acuerdo con la evaluación de impacto económico correspondiente. Desde la perspectiva económica, la Administración canaria deberá priorizar en sus presupuestos los proyectos que ofrezcan un mayor potencial y vincularlos con el cambio climático y la transición energética, siendo los principales ámbitos sobre los que impactarán en las energías renovables, el transporte, la ordenación del uso del suelo, la eficiencia energética de edificios y viviendas, los residuos sólidos e infraestructura natural, en evitación de desastres naturales. Todo ello lleva aparejado repercusiones en el gasto, en el ámbito tributario, financiero, de estructura organizativa y recursos humanos.
+3. La Comisión Canaria de Acción Climática y Energía propondrá anualmente el porcentaje de presupuesto que cada uno de los departamentos de la Administración pública de la Comunidad Autónoma de Canarias y los entes de su sector público institucional autonómico deberán destinar a la acción climática para la consecución de los objetivos de esta ley. Las decisiones que se adopten en este ámbito deberán sustentarse en el conocimiento científico y técnico disponible en la materia y la valoración económica, social y ambiental de los riesgos y de las medidas propuestas con criterios de coste-efectividad.
+Se modifica el apartado 3 por el art. único.15 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 24
+
+Artículo 24. Disposiciones generales de contratación.
+1. Las Administraciones públicas de Canarias y las entidades de su sector público institucional incorporarán, de conformidad con el artículo 126.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y el artículo 31.1 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, o normas que las sustituyan, como prescripciones técnicas particulares en los pliegos de contratación, criterios de reducción de emisiones y de huella de carbono dirigidos específicamente a la lucha contra el cambio climático.
+2. Las Administraciones públicas de Canarias y los entes de su sector público institucional podrán requerir la inscripción de los licitadores en registros oficiales de la huella de carbono como medio de acreditación en relación con la solvencia técnica de carácter medioambiental, en los términos previstos en el artículo 94 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, o norma que la sustituya. No obstante, los órganos de contratación deberán aceptar otros certificados o pruebas de medidas equivalentes de gestión medioambiental.
+3. Los órganos de contratación de las Administraciones públicas de Canarias y los entes de su sector público institucional establecerán, en los pliegos de cláusulas administrativas particulares, la preferencia de la adjudicación de los contratos para las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica, tengan la Marca de Excelencia Canaria de Eficiencia Energética y Acción Climática, siempre que dichas proposiciones igualen en sus términos a las más ventajosas, desde el punto de vista de criterios objetivos que sirvan de base para la adjudicación.
+Se modifica por el art. único.16 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 25
+
+Artículo 25. Contratación en materia de redacción de proyectos y ejecución de obras públicas.
+1. Las administraciones públicas de Canarias y los entes de su sector público institucional deberán incluir en los pliegos de las licitaciones destinadas a contratos de redacción de proyectos y ejecución de obras públicas las siguientes prescripciones:
+a) En los contratos de redacción de proyectos de obra:
+1.º Tanto si se trata de proyectos de reforma como de ejecución de obra, se incluirán condiciones o requisitos que garanticen niveles máximos de autosuficiencia energética posible de la obra una vez entre en servicio. Para ello se atenderá de forma singular a los requisitos bioclimáticos, siempre que estén vinculados al objeto del contrato en los términos establecidos en el artículo 145.6 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público, y de acuerdo con el artículo 31 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, o normas que las sustituyan.
+2.º Los proyectos maximizarán el potencial de producción energética de los espacios públicos utilizados en la construcción de obras, así como el almacenamiento de energía.
+3.º Empleo de materiales y técnicas de construcción sostenibles para la ejecución de la obra o instalación objeto de proyecto.
+4.º En los proyectos técnicos será de obligado cumplimiento el aporte de la siguiente documentación, siempre y cuando la naturaleza del proyecto así lo requiera:
+Ficha de la aplicación informática facilitada por el ministerio competente en materia de vivienda y edificación.
+Certificado de eficiencia energética.
+Estudio de gestión de residuos.
+b) (Suprimida)
+2. Las anteriores prescripciones también se aplicarán a los proyectos y obras realizadas de forma directa por las administraciones públicas de Canarias y los entes del sector público institucional o por los medios propios personificados de estas.
+Se modifica el subapartado 1º de la letra a) y se suprime la b) del apartado 1 por el art. único.17 y 18 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 26
+
+Artículo 26. Arrendamiento o adquisición de inmuebles.
+1. Las administraciones públicas de Canarias y los entes del sector público institucional, para valorar la oferta económica más ventajosa de arrendamiento o la adquisición de inmuebles, incluirán necesariamente la cuantificación económica del consumo energético correspondiente a su calificación energética. A tal efecto, los pliegos especificarán la forma de cálculo de dicho criterio, que siempre irá referido a la vida útil del inmueble o el periodo de alquiler.
+2. Si la referida cuantificación económica del consumo energético deducida de la clasificación del inmueble no alcanzase los niveles óptimos de eficiencia, deberá exigirse en el pliego el aporte de un informe sobre la viabilidad técnica del inmueble para la implementación de soluciones constructivas, empleo de materiales y recursos tecnológicos dirigidos a la optimización de las condiciones ambientales, mejor adaptación bioclimática y el ahorro energético.
+
+### Artículo 27
+
+Artículo 27. Vehículos del sector público.
+1. A partir de la entrada en vigor de la presente ley las administraciones públicas de Canarias y su sector público institucional únicamente podrán licitar la adquisición o el arrendamiento de turismos, motocicletas, furgones y furgonetas cuyo sistema de propulsión no utilice combustibles fósiles.
+2. No será de aplicación lo dispuesto en el apartado anterior a los vehículos que en función del uso al que estén destinados no puedan cumplir con dicha obligación. Deberá incorporarse la correspondiente justificación técnica en el expediente de contratación.
+3. Los edificios o instalaciones públicas de los que sea titular o arrendatario el sector público autonómico, insular o local deberán incorporar en los estacionamientos de su parque móvil el espacio y los suficientes medios y dispositivos para la carga y suministro de energía de naturaleza no fósil.
+Se modifica el apartado 3 por el art. único.19 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 28
+
+Artículo 28. Organización de eventos, actos públicos y servicios de hostelería.
+1. La licitación de contratos para la organización de eventos y actos públicos de carácter social, cultural, deportivo o de naturaleza similar que lleven a cabo las administraciones públicas de Canarias y los entes del sector público institucional incorporarán en los correspondientes pliegos los criterios de sostenibilidad y de reducción de emisiones y residuos asociados a los mismos. Para aquellos envases que no dispongan de alternativa por seguridad alimentaria, sanitaria o por la propia naturaleza del evento se dispondrá de recogida selectiva de los residuos de envases por parte de los organizadores de los eventos de conformidad con lo que se establezca en las ordenanzas de las entidades locales y los planes de gestión de residuos para la prestación de servicios en la organización de eventos, actos públicos y servicios de hostelería.
+2. En los contratos de servicios de hostelería, catering y restauración, así como en los contratos de suministros de carácter alimentario, en especial en centros educativos y de salud, se impulsarán criterios de adjudicación que incidan en el origen ecológico, la frescura de los productos y procesos productivos, los desperdicios alimentarios, así como en la eficiencia energética y las menores emisiones en su transporte.
+3. Para aquellos envases que no dispongan de alternativa por seguridad alimentaria, sanitaria o por la propia naturaleza del evento se dispondrá su recogida selectiva por parte de los organizadores de los eventos a través de los medios que proporcionan los sistemas integrales de gestión dentro de los planes de gestión de residuos para la prestación de servicios en la organización de eventos, actos públicos y servicios de hostelería.
+4. Para garantizar una correcta gestión de los residuos generados, las entidades locales incluirán en las ordenanzas municipales relativas a instalaciones eventuales, actividades, ferias, romerías, festivales y eventos en general, criterios relativos a la responsabilidad de sus titulares en lo referente a la separación selectiva, garantizando que las diferentes fracciones de residuos se separen en origen y se recojan selectivamente.
+Se modifica el apartado 2 por el art. único.20 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 29
+
+Artículo 29. Origen renovable del consumo eléctrico.
+1. Las administraciones públicas de Canarias y los entes del sector público institucional garantizarán que los contratos de suministro eléctrico que estas liciten a partir de la entrada en vigor de la presente ley sean de energía certificada de origen renovable.
+2. También preverán la sustitución progresiva de los equipamientos ubicados en edificios del sector público no estatal que utilicen energías fósiles por otros que funcionen con energías de origen renovable, en los plazos que se determinen en los instrumentos de planificación de acción climática previstos en esta ley.
+Se modifica el apartado 2 por el art. único.21 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 30
+
+Artículo 30. Rendimiento energético de productos, servicios y edificios a adquirir por las administraciones públicas.
+1. Las administraciones públicas de Canarias y su sector público institucional solamente podrán adquirir productos, servicios y edificios que tengan un alto rendimiento energético, en la medida en que ello sea coherente con la rentabilidad, la viabilidad económica, la sostenibilidad en un sentido más amplio, la idoneidad técnica, así como una competencia suficiente.
+2. En los casos en los que por localización estratégica para la potenciación de áreas de concentración administrativa, un determinado inmueble no reúna todos los requisitos de prestación de alto rendimiento energético, deberá incorporarse un informe justificativo de la necesidad y conveniencia de dicha localización, acompañado de otro informe sobre la viabilidad técnica del inmueble para la implementación de soluciones constructivas y recursos tecnológicos orientados a la optimización de las condiciones ambientales y eficiencia energética.
+3. Excepcionalmente, y teniendo en cuenta la realidad edificatoria existente en Canarias y el cumplimiento del Código Técnico de la Edificación, se permitirá adquirir inmuebles que por razones de interés cultural, patrimonial, arquitectónico o singular sean de interés para la comunidad autónoma, aunque no cumplan con los requisitos anteriormente señalados. En este supuesto, se podrán señalar criterios de moderación del precio de adquisición teniendo en cuenta los costes necesarios para dotar al inmueble de la eficiencia energética establecida en el Código Técnico de la Edificación e indicando igualmente las razones por las que, debido a la singularidad del inmueble, sea inviable el cumplimiento total de los requisitos de eficiencia energética.
+4. Reglamentariamente se podrán establecer otros requisitos adicionales de eficiencia energética para la adquisición de productos, servicios y edificios por las administraciones públicas de Canarias.
+
+## CAPÍTULO III
+
+Emisiones de gases de efecto invernadero
+
+### Artículo 31
+
+Artículo 31. Emisiones no difusas.
+Las empresas que desarrollen total o parcialmente su actividad en Canarias, y cuyas instalaciones radiquen en su territorio, que estén sometidas al régimen de comercio de emisiones de gases estarán obligadas a:
+a) Cumplir las obligaciones derivadas del Registro Canario de la Huella de Carbono.
+b) No obstante lo anterior, las empresas podrán compensar sus emisiones a través del establecimiento en suelo canario de sumideros naturales de dióxido de carbono, tanto en el ámbito territorial como en el urbano, y a través de otros proyectos de captación adaptándose a las mejores tecnologías disponibles en cada momento.
+Estas obligaciones no serán exigibles sin perjuicio de a las actividades relacionadas con la aviación, de conformidad con las competencias estatales exclusivas en materia de control del tránsito aéreo, tráfico y transporte aéreo.
+Se modifica por el art. único.22 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 32
+
+Artículo 32. Compensación de emisiones difusas.
+El Gobierno de Canarias establecerá mecanismos de compensación de emisiones para aquellas empresas no sujetas al régimen de comercio de emisiones mediante la participación o aportación en proyectos de absorción de CO2, tales como la adecuada recuperación, protección o gestión de ecosistemas, garantizando la conservación, restauración y fomento de los sumideros naturales, así como sus funciones de absorción y retención de dióxido de carbono.
+
+### Artículo 33
+
+Artículo 33. Registro Canario de la Huella de Carbono.
+1. Se crea el Registro Canario de la Huella de Carbono como instrumento autonómico para el desarrollo de las disposiciones relativas a la reducción de emisiones de gases. Reglamentariamente, se determinarán las funciones, la organización y el funcionamiento del registro, cuya estructura y funciones deberán coordinarse con las previstas en la normativa estatal para el registro de la huella de carbono del Estado.
+2. Cualquier persona física o jurídica puede inscribirse voluntariamente en el Registro Canario de la Huella de Carbono, a efectos de lo previsto en el apartado anterior, sin perjuicio de la obligatoriedad para determinados sujetos establecida en otros preceptos de esta ley y aquellos otros que se determine reglamentariamente.
+3. Las Administraciones públicas de Canarias y su sector público institucional deberán inscribir sus emisiones en el Registro Canario de la Huella de Carbono.
+4. La inscripción de las emisiones de las medianas y grandes empresas que ejerzan su actividad en Canarias, así como de titulares de toda explotación turística alojativa será preceptiva.
+5. La inscripción en el Registro Canario de la Huella de Carbono se realizará en los términos que reglamentariamente se determine, haciendo constar los siguientes datos:
+a) Los cálculos anuales de huella de carbono asociados a las instalaciones situadas en Canarias.
+b) Los datos relativos a los planes de reducción de emisiones que deban ejecutarse en Canarias.
+c) Los proyectos de absorción de dióxido de carbono asociados al mecanismo voluntario de compensación de emisiones.
+6. En el caso del sector agrícola, los titulares de explotaciones agrícolas y ganaderas que se inscriban en el Registro Canario de la Huella de Carbono, podrán hacerlo individualmente o a través de las organizaciones de productores o asociaciones de éstas, reconocidas para un mismo cultivo o actividad ganadera. En este caso harán constar los datos contemplados en el apartado 5 de este artículo a nivel sectorial, dentro del ámbito de actuación de cada una de ellas, indicando la contribución individual de cada uno de los productores o asociados.
+7. La inscripción en el registro autonómico, tanto por los sujetos obligados como por los que de forma voluntaria deseen inscribirse, será gratuita.
+Se modifica por el art. único.23 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO IV
+
+Políticas energéticas
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 34
+
+Artículo 34. Actuación en materia energética.
+1. Las políticas energéticas se orientarán al cumplimiento de las políticas de acción climática establecidas por el Estado y la Unión Europea.
+2. El Gobierno de Canarias promoverá la coordinación con el Estado en las actuaciones en materia de política energética para favorecer la descarbonización del sistema energético canario.
+3. El Gobierno de Canarias impulsará mecanismos de coordinación con las administraciones locales y el sector público institucional autonómico y local, en materia de política energética, especialmente en lo relativo a la implantación de las infraestructuras energéticas.
+4. El PIECan promoverá el desarrollo de un modelo energético sostenible, basado en la eficiencia energética y las energías renovables e impulsado por la innovación, investigación y desarrollo a nivel local,identificando las acciones que contribuirán a la descarbonización de la economía insular con horizonte 2040, así como a promover la descarbonización en el transporte interinsular.
+Se modifica el apartado 4 por el art. único.24 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª Eficiencia energética
+
+### Artículo 35
+
+Artículo 35. Fomento y gestión de la eficiencia energética.
+1. Todas las administraciones públicas de Canarias deberán aplicar el principio de «primero, la eficiencia energética» en sus decisiones de planificación, estrategia e inversión en materia de energía. Asimismo, promoverán la difusión del citado principio en el sector privado.
+2. Las administraciones públicas de Canarias, en el ámbito de sus competencias, impulsarán y contribuirán al ahorro y la eficiencia energética en los distintos sectores de actividad consumidores de energía.
+3. El PIECan establecerá los objetivos de ahorro energético y de eficiencia energética, así como las líneas de actuación en consonancia con lo dispuesto en esta ley.
+Se modifica el apartado 3 por el art. único.25 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 36
+
+Artículo 36. Renovación de edificios del sector público.
+1. Las administraciones públicas de Canarias y su sector público institucional deberán renovar anualmente, al menos, el 5 % de la superficie edificada y climatizada del parque inmobiliario que tenga en propiedad, contribuyendo, de esta manera, al cumplimiento del objetivo de mejora de la eficiencia energética fijado a nivel estatal.
+2. Este 5 % se calculará sobre la superficie total de los edificios con una superficie de más de doscientos cincuenta metros cuadrados que tengan en propiedad, que no cumplan los requisitos de rendimiento energético mínimo establecidos normativamente.
+3. Para aquellos edificios con calefacción y/o sistema de refrigeración, cuya superficie útil total sea de más de doscientos cincuenta metros cuadrados, se detallará en los inventarios de bienes de las administraciones públicas de Canarias y su sector público institucional, al menos la superficie en metros cuadrados y el rendimiento energético de cada edificio o los datos pertinentes sobre energía, a los efectos de lo dispuesto en el apartado 1 del presente artículo. Lo anterior no será de aplicación a los edificios exentos en virtud de lo dispuesto en el apartado 2 de este artículo.
+4. El PIECan establecerá los indicadores necesarios para hacer el seguimiento de la renovación a la que hace referencia el apartado 1 del presente artículo.
+Además del criterio de aplicación de la exigencia de renovación sobre, al menos, el 5 % de la superficie edificada y climatizada, se tendrá en cuenta como criterio adicional el ajuste de la parte del inmueble a renovar, la ratio entre el consumo energético por metro cuadrado teórico, deducido de su clasificación energética, y el consumo energético real por metro cuadrado de la superficie a renovar. La renovación de la eficiencia energética de edificios públicos de las Administraciones públicas de Canarias será completa en 2040.
+5. Dichas actuaciones en materia de renovación periódica del edificio deberán contemplarse y registrarse en el Libro del Edificio, en cuyo cronograma de operaciones estarán específicamente señaladas aquellas actuaciones previstas o realizadas en materia de optimización de la eficiencia energética y mejora de las condiciones ambientales.
+Se modifica el apartado 4 por el art. único.26 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 37
+
+Artículo 37. Planes de eficiencia energética en edificios públicos.
+1. Todos los edificios que pertenezcan o estén ocupados por las Administraciones públicas de Canarias y su sector público institucional y todos aquellos en los que se presten servicios públicos que sean de titularidad de las Administraciones públicas de Canarias deberán contar con planes de gestión energética, con el objetivo de acreditar el cumplimiento de la normativa vigente en materia de eficiencia energética.
+2. Los planes de eficiencia energética incluirán la calificación del edificio en su conjunto y la calificación energética de las correspondientes instalaciones térmicas. También deberán contener medidas de ahorro, de eficiencia energética y de generación renovable y deberán permitir un seguimiento anual del cumplimiento de la normativa vigente en materia de eficiencia energética y de generación renovable, así como del consumo energético de las edificaciones.
+3. Reglamentariamente se determinarán el contenido y la periodicidad de los planes, los términos de su comunicación al órgano competente en materia de energía, el régimen de evaluación de resultados y el distintivo que acredite su cumplimiento y vigencia.
+Los planes de eficiencia energética deberán estar armonizados con el Libro del Edificio.
+4. Las personas obligadas deberán exhibir el distintivo del plan de eficiencia energética en un lugar destacado y visible del inmueble.
+5. No será exigible el plan de gestión cuando se presente a la consejería del Gobierno de Canarias competente en materia de energía la documentación completa de la auditoría de eficiencia energética prevista en la norma básica estatal. Igualmente, en relación con las edificaciones y las instalaciones incluidas en la auditoría, no será exigible dicho plan cuando la misma acredite el cumplimiento de la normativa vigente en materia de eficiencia energética, sin perjuicio de la obligación de exhibir el correspondiente distintivo.
+Se modifica el apartado 1 por el art. único.27 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 38
+
+Artículo 38. Eficiencia energética y rehabilitación de edificios.
+1. El Gobierno de Canarias promoverá y facilitará el uso eficiente de la energía, la gestión de la demanda y el uso de energía procedente de fuentes renovables en el ámbito de la edificación.
+2. A los efectos de lo previsto en este artículo, se considerarán medidas de eficiencia energética las conducentes a instalar y/o renovar equipos y sistemas digitales que faciliten la gestión de la demanda y/o oferta de energía, contribuyan a disminuir desplazamientos y/o a facilitar la accesibilidad y la movilidad.
+3. El Gobierno de Canarias apoyará la introducción de las energías renovables en la rehabilitación de viviendas fomentando el autoconsumo, las instalaciones de pequeña potencia, la calefacción y refrigeración cero emisiones mediante:
+a) La simplificación de los procedimientos administrativos.
+b) El establecimiento de incentivos para que los propietarios con pisos en régimen de alquiler instalen autoconsumo en sus viviendas.
+c) La regulación de los derechos de los consumidores a convertirse en autoconsumidores, a vender la energía a valor de mercado y a la instalación de sistemas de almacenamiento.
+d) Establecimiento de medidas ejemplarizantes desde la Administración en materia de autoconsumo.
+4. El Gobierno de Canarias establecerá un sistema de información que permita el acceso a datos reales de consumo, a fin de favorecer la concurrencia competitiva y los modelos de negocio que permitan el máximo desarrollo de soluciones de ahorro y eficiencia energética.
+
+## Sección 3
+
+Sección 3.ª Energías renovables
+
+### Artículo 39
+
+Artículo 39. Priorización de las energías renovables.
+1. Las administraciones públicas de Canarias y su sector público institucional velarán por el desarrollo de un modelo energético sostenible, basado en la autosuficiencia energética y la optimización del potencial energético instalable, promoviendo para ello la implantación de las infraestructuras e instalaciones necesarias para que las islas puedan disponer de una oferta energética diversificada de origen renovable, que aproveche al máximo sus recursos autóctonos, garantizando un suministro seguro, sostenible, eficiente, de calidad y descarbonizado.
+2. En los instrumentos de ordenación ambiental, de ordenación de los recursos naturales, territorial, urbanística y sectorial se priorizará, sobre aquellas que se basen en combustibles fósiles, la instalación de infraestructuras de energía renovable y aquellas necesarias para su integración y evacuación, favoreciendo su implantación en instalaciones e infraestructuras existentes.
+3. En todas las edificaciones e instalaciones, de titularidad de las Administraciones públicas de Canarias, se implantará progresivamente el consumo de energía renovable. Será obligatorio en las nuevas instalaciones y de cumplimiento progresivo en las ya construidas, conforme a lo dispuesto en el PIECan.
+Se modifica el apartado 3 por el art. único.28 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 40
+
+Artículo 40. Abandono de energías de origen fósil por parte de las administraciones públicas de Canarias.
+1. Todas las instalaciones de las administraciones públicas de Canarias y su sector público institucional tendrán que dotarse de equipos de producción eléctrica de fuentes renovables, que garanticen como mínimo la respuesta a sus demandas energéticas ordinarias, antes del 2030.
+2. Aquellos centros de trabajo de las administraciones públicas de Canarias y su sector público institucional que, en el momento de la entrada en vigor de esta ley posean contratos de suministros eléctricos que, por sus condiciones, les impidan cumplir el punto anterior, no podrán ser renovados ni prorrogados cuando finalice dicho contrato.
+3. En todo caso, los equipos de producción de energía renovable que, por razones técnicas, estén imposibilitados para cubrir la totalidad de la demanda energética de la instalación en la que se ubiquen deberán maximizar la capacidad de producción que tecnológicamente sea posible, o contratar energía que provenga de fuente renovable.
+4. Solamente se permitirá el consumo de energía eléctrica de origen fósil para aquellos equipos o sistemas que deban entrar en funcionamiento en situaciones de emergencia.
+
+### Artículo 41
+
+Artículo 41. Autoconsumo de energía eléctrica.
+1. Las administraciones públicas de Canarias y su sector público institucional fomentarán todas las figuras jurídicas que promuevan el autoconsumo energético, agregadores de demanda, comunidades energéticas y comunidades de renovables, de acuerdo con la normativa europea y española, así como los nuevos agentes que puedan crearse en el futuro.
+2. La Administración pública de la comunidad autónoma colaborará con los distintos agentes del sector para el desarrollo del potencial de la producción distribuida o concentrada, almacenamiento, gestión de vehículos y distribución, generando un mercado eléctrico competitivo.
+3. Los titulares de las instalaciones de generación de todas las modalidades de autoconsumo de energía eléctrica deberán proporcionar información sobre sus instalaciones y sobre los procesos de intercambio energético que promuevan, mediante los procesos de digitalización que establezca la Administración.
+
+### Artículo 42
+
+Artículo 42. Instalaciones de distribución de energía térmica de las administraciones públicas de Canarias.
+1. Las administraciones públicas canarias y su sector público institucional deberán sustituir las instalaciones actuales de distribución de energía térmica por aquellas que utilicen fuentes de energía primaria de origen renovable o energía residual antes del 2030.
+2. A partir de la entrada en vigor de esta ley, las nuevas instalaciones de distribución de energía térmica de la Administración pública de la Comunidad Autónoma de Canarias y su sector público institucional utilizarán fuentes de energía primaria de origen renovable o energía residual.
+
+### Artículo 43
+
+Artículo 43. Integración en el sistema eléctrico de las energías renovables.
+La producción de energía eléctrica mediante energías renovables se apoyará en la instalación de sistemas y equipos de almacenamiento energético y, en particular, en los sistemas de hidrobombeo, con la finalidad de asegurar la calidad del suministro y minimizar el desarrollo de nueva red necesaria para su integración.
+Se modifica por el art. único.29 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 44
+
+Artículo 44. Adecuación de las redes de transporte y distribución de energía eléctrica.
+1. En el marco de las competencias atribuidas a la Comunidad Autónoma de Canarias, las propuestas que se efectúen para el desarrollo de las redes de transporte de energía eléctrica deberán prever la maximización de la penetración renovable en los sistemas eléctricos canarios, proponiendo la integración de las infraestructuras necesarias para permitir la evacuación e integración en el sistema eléctrico de energías renovables, tanto en tierra como en el medio marino.
+2. Las actuaciones que se realicen en virtud del apartado anterior se llevarán a cabo respetando la definición de las zonas de desarrollo prioritario establecidas en los instrumentos de planificación.
+3. Quienes sean titulares de las redes de transporte y distribución de energía eléctrica que operan en Canarias, en las condiciones que reglamentariamente se definan, deberán proporcionar información técnica sobre sus instalaciones, en particular sobre líneas, subestaciones y centros de transformación, con el fin de permitir la evaluación de la viabilidad de los emplazamientos para instalaciones de generación renovable.
+4. Quienes sean titulares de las instalaciones de producción autorizadas por la Comunidad Autónoma de Canarias, en las condiciones que reglamentariamente se definan, deberán proporcionar información sobre los aspectos técnicos y de producción de sus instalaciones.
+
+### Artículo 45
+
+Artículo 45. Reducción de la generación eléctrica con combustibles de origen fósil.
+1. De conformidad con los objetivos de reducción de emisiones fijados en el PIECan, se establecerá, en su caso y dentro de su competencia, los criterios para proceder al cierre de los grupos de generación térmicos de origen fósil existentes, dentro del procedimiento legalmente establecido para ello en la normativa estatal.
+2. Excepcionalmente, la autorización de nuevos grupos de generación con combustible de origen fósil, así como la renovación o ampliación temporal de autorizaciones ya concedidas o la autorización de medidas que permitan la continuidad del funcionamiento de las centrales donde se ubiquen, quedará condicionada a la garantía del suministro y siempre en función de que la demanda de energía eléctrica no pueda ser cubierta con generación de origen renovable en el momento de la autorización.
+3. El Gobierno de Canarias, de acuerdo con el principio de transición justa establecido en esta ley y en el marco de la Estrategia Canaria de Transición Justa y Justicia Climática, podrá adoptar las medidas de colaboración y cooperación necesarias con las administraciones públicas competentes y las empresas afectadas para llevar a término las actuaciones previstas en este artículo.
+Se modifica el apartado 1 por el art. único.30 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 4
+
+Sección 4.ª Biocombustibles
+
+### Artículo 46
+
+Artículo 46. Producción de biocombustibles.
+1. Las administraciones públicas de Canarias y su sector público fomentarán la generación de biocombustibles, priorizando los de segunda generación y superiores, para el consumo en instalaciones, infraestructuras, vehículos y maquinarias que demanden combustibles fósiles.
+2. Las administraciones públicas de Canarias y su sector público institucional darán preferencia al uso de biocombustibles en las instalaciones, infraestructuras, vehículos y maquinarias de su titularidad o que presten servicio a las mismas frente al uso de combustibles fósiles.
+
+## CAPÍTULO V
+
+Políticas de transporte y movilidad sostenible
+
+## Sección 1
+
+Sección 1.ª Movilidad sostenible
+
+### Artículo 47
+
+Artículo 47. Medidas en relación con el transporte y la movilidad sostenible.
+1. Las administraciones públicas de Canarias promoverán la movilidad sostenible y, de manera especial:
+a) Los planes y proyectos orientados a potenciar un modelo de transporte público y colectivo que reduzca el uso del vehículo privado e impulse otras formas de transporte sostenible sin emisiones de gases de efecto invernadero.
+b) Los sistemas de gestión de la movilidad basados en criterios de eficiencia energética, reducción de emisiones y racionalización del uso del vehículo privado y la promoción del uso de vehículo compartido.
+c) Se adoptarán, respecto al parque móvil de Canarias, medidas de apoyo a los usuarios orientadas a reducir paulatinamente y conforme a la normativa de la Unión Europea, la densidad de vehículos privados que emitan emisiones directas de CO2.
+d) La movilidad no motorizada, especialmente en los centros urbanos. Se fomentarán modelos de movilidad en bicicletas y vehículos análogos y las entidades deberán incluir en sus planes de movilidad sostenible objetivos de incremento en su uso en el conjunto del reparto modal, así como el aumento de espacios dedicados a carriles de uso exclusivo para las bicicletas y vehículos análogos y zonas peatonalizadas.
+e) La movilidad compartida e inteligente.
+f) La movilidad no contaminante y la sustitución o reconversión de vehículos por otros con bajas o nulas emisiones.
+g) La gratuidad de las zonas de aparcamiento reguladas en superficie para los vehículos que no sean de combustión interna hasta que estos sean el 80 % del total del parque móvil.
+2. En los planes de movilidad y transporte que se elaboren por las administraciones públicas de Canarias se incorporarán, en todo caso, indicadores de contaminación atmosférica y de emisiones de gases de efecto invernadero, vulnerabilidad de las infraestructuras, así como objetivos para su reducción y medidas específicas para cumplir estos objetivos. Igualmente incorporarán las directrices fijadas en la estrategia europea a favor de la movilidad de bajas emisiones.
+3. Los estudios de movilidad municipal e insular previstos en la legislación de transporte, incluirán planes de movilidad urbana sostenible que fomenten la conservación de la biodiversidad, la economía circular o el consumo responsable.
+
+### Artículo 48
+
+Artículo 48. Movilidad sostenible en los grandes centros generadores de movilidad.
+1. Los grandes centros generadores de movilidad públicos y privados deberán introducir planes de movilidad sostenible para sus trabajadores, clientes y usuarios. Dicho instrumento deberá ser elaborado y coordinado en su aplicación por quien tenga encargada la gestión del centro. Si no existiera, las funciones de coordinación serán asumidas por el ayuntamiento en el que se ubiquen. En caso de situarse en más de un municipio o que sean centros de competencia insular, estas funciones serán asumidas por el cabildo insular que corresponda.
+2. En todo caso, los costes derivados de la aplicación del plan serán asumidos por quien tenga encargada la gestión del centro de movilidad o, en caso de no existir, la persona propietaria de los propios establecimientos, edificios o instalaciones que lo forman.
+3. Dichos planes deberán estar elaborados en un plazo máximo de dos años en los términos de la disposición transitoria tercera de la presente ley, determinando el contenido mínimo de los mismos el anexo II a que se refiere aquella disposición transitoria. Estos planes serán remitidos en forma de comunicación al centro directivo competente en materia de movilidad.
+4. Los planes de movilidad sostenible deberán determinar el calendario para la implantación de forma obligatoria de puntos de recarga para las plazas de aparcamiento que gestionen los grandes centros generadores de movilidad, en el marco y con arreglo a los plazos previstos por la normativa básica estatal.
+Se modifica el apartado 3 por el art. único.31 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 49
+
+Artículo 49. Movilidad sostenible en centros de educación.
+1. Los responsables de los centros de educación tienen que fomentar el transporte público en detrimento del uso del vehículo privado para el traslado de los escolares y población universitaria a los centros educativos.
+2. Las universidades públicas y privadas de Canarias deberán establecer planes de escalonamiento horario del comienzo y terminación de las actividades que permitan reducir la intensidad del tráfico generado por aquellas actividades.
+3. Dichos planes deberán estar elaborados en un plazo máximo de dos años en los términos de la disposición transitoria tercera de la presente ley, determinando el contenido mínimo de los mismos el anexo II a que se refiere aquella disposición transitoria. Estos planes serán remitidos en forma de comunicación al centro directivo competente en materia de movilidad.
+Se modifica el apartado 3 por el art. único.32 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 50
+
+Artículo 50. Reservas de aparcamiento.
+1. Las administraciones públicas de Canarias reservarán plazas para uso exclusivo de vehículos de bajas o nulas emisiones en las vías públicas y en los aparcamientos públicos cualquiera que sea su forma de gestión. A este efecto adoptarán las medidas necesarias cuando la gestión sea indirecta, para que las entidades que exploten los aparcamientos hagan efectiva la pertinente reserva.
+2. Los aparcamientos de titularidad privada abiertos al uso público, cuando dispongan de más plazas de las que se determinen en el PIECan, deberán reservar para uso exclusivo de vehículos de bajas o nulas emisiones directas un porcentaje adecuado y suficiente de aquellas, que se incrementará progresivamente, en los términos que establezca la Consejería competente en materia de energía mediante orden.
+Se modifica el apartado 2 por el art. único.33 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 51
+
+Artículo 51. Transición energética en el transporte de mercancías por carretera.
+1. Las empresas de transporte de mercancías por carretera deberán adoptar las medidas necesarias para la progresiva sustitución de los vehículos más contaminantes por aquellos que utilicen tecnologías de impulsión más limpias que las tradicionales.
+2. A estos efectos, las empresas de transporte de mercancías por carretera con una flota superior a lo que se determine en el PIECan deberán elaborar, en el plazo que señale el citado instrumento, un plan de transición energética para la progresiva sustitución de los vehículos, con el objetivo de alcanzar las cero emisiones en el año 2040, siempre que existan en el mercado los vehículos requeridos con las prestaciones tecnológicas adecuadas. El contenido mínimo de dichos planes estará definido por el PIECan.
+3. Además de la renovación de la flota, los planes empresariales de transición a que se refiere el apartado anterior deberán contemplar un apartado de buenas prácticas en el transporte encaminadas a la reducción de emisiones, tales como la formación en conducción eficiente, la mejora en la gestión de las cargas y la reducción de los desplazamientos en vacío.
+Se modifica el apartado 2 por el art. único.34 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª Vehículos con emisiones contaminantes directas nulas
+
+### Artículo 52
+
+Artículo 52. Plazos para la transición energética de parques móviles y flotas de vehículos.
+1. Las Administraciones públicas y los entes del sector público institucional deberán sustituir sus vehículos de combustión interna por vehículos con emisiones contaminantes directas nulas antes de 2035, siempre que exista en el mercado los vehículos requeridos con las prestaciones adecuadas, de conformidad con el Reglamento (UE) 2023/851 del Parlamento Europeo y del Consejo, de 19 de abril de 2023, o norma que lo sustituya.
+2. Las empresas de alquiler de vehículos, así como las empresas de transporte público deberán contar exclusivamente con flotas con emisiones contaminantes directas nulas antes de 2035, siempre que exista en el mercado los vehículos requeridos con las prestaciones adecuadas, de conformidad con el Reglamento (UE) 2023/851 del Parlamento Europeo y del Consejo, de 19 de abril de 2023, o norma que lo sustituya.
+Se modifica por el art. único.35 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 53
+
+Artículo 53. Infraestructuras de carga de vehículos con emisiones contaminantes directas nulas.
+1. Las administraciones públicas de Canarias:
+a) Planificarán de manera coordinada e implementarán, para el cumplimiento de los objetivos fijados en esta ley:
+1.º Una red adecuada y suficiente de puntos de recarga para vehículos eléctricos en las vías públicas, que deberá estar operativa en el plazo máximo de cinco años.
+2.º Una red de puntos de repostaje de combustibles alternativos de origen no fósil, cuya combustión no produzca la emisión de gases de efectos invernadero.
+b) Fomentarán el establecimiento de puntos de recarga eléctrica en las comunidades de propiedad horizontal, viviendas unifamiliares con garaje y estacionamientos privados de empresas así como toda clase de entidades privadas.
+2. Para garantizar la capacidad suficiente para satisfacer la demanda adicional derivada de la transición hacia los vehículos eléctricos, el departamento competente en materia de energía del Gobierno de Canarias deberá incluir las previsiones necesarias al efecto en su propia planificación energética.
+3. Todos los edificios de nueva construcción de titularidad de las Administraciones públicas canarias contarán con puntos de recarga de vehículos eléctricos en todas las plazas de aparcamiento destinadas a vehículos oficiales propios de esa administración. En el resto de las plazas se dotarán según la normativa sectorial.
+Se modifica el apartado 3 por el art. único.36 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 3
+
+Sección 3.ª Transporte marítimo y puertos de titularidad autonómica
+
+### Artículo 54
+
+Artículo 54. Transporte marítimo y puertos.
+1. Por parte del organismo autonómico competente, se potenciará el cumplimiento de los mismos fines que la presente ley establece para los transportes terrestres respecto de los buques y embarcaciones que atraquen en los puertos de titularidad autonómica.
+2. El Gobierno de Canarias adoptará medidas para la reducción paulatina de las emisiones generadas por el consumo de combustibles fósiles de los barcos y sus dispositivos auxiliares, cuando estén atracados en los puertos en los que tenga competencias.
+3. Igualmente, se tomarán medidas para la mitigación de los efectos derivados de la descarga por los buques de agua de sentina, agua de lastre, aguas residuales u otro tipo de vertidos en las aguas canarias.
+4. El Gobierno de Canarias podrá concertar con el Estado el desarrollo de servicios de bunkering marítimo, de conformidad con la normativa reguladora correspondiente.
+5. El ente público Puertos Canarios realizará un control de la entrada, en los puertos de titularidad autonómica, de barcos que utilicen combustibles fósiles altamente contaminantes y no tengan instalados sistemas de filtros de partículas y catalizadores de óxidos de nitrógeno, pudiendo recabar la información necesaria al respecto, a los efectos de su inscripción en el Registro Canario de Huella de Carbono.
+6. Las disposiciones contenidas en este artículo se entenderán sin perjuicio de las competencias del Estado y, especialmente, de las relativas a puertos de interés general y marina mercante, de conformidad con lo dispuesto en el artículo 149.1.20.a de la Constitución, así como en el Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, y el resto de normativa estatal aplicable, así como la Jurisprudencia constitucional de aplicación.
+Se añade el apartado 6 por el art. único.37 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO VI
+
+Otras políticas sectoriales
+
+## Sección 1
+
+Sección 1.ª Análisis de impacto de las actividades
+
+### Artículo 55
+
+Artículo 55. Principios generales de otras políticas sectoriales.
+1. Los promotores, públicos y privados, de planes y programas de nueva redacción, o modificaciones plenas de los mismos o relativos a actuaciones de transformación de nueva urbanización, y proyectos de competencia de la Comunidad Autónoma de Canarias en los ámbitos de agricultura, ganadería, gestión forestal, pesca, energía, transporte, gestión de residuos, gestión de recursos hídricos, ocupación del dominio público marítimo-terrestre, utilización del medio marino, turismo, ordenación del territorio urbano y rural, o de los usos del suelo, y asimismo, quienes promuevan los proyectos constructivos de nuevas infraestructuras de puertos, aeropuertos, transporte terrestre y ferroviario, energía, residuos y agua, deberán incorporar en el marco de la evaluación ambiental estratégica de planes y en el marco de la evaluación de impacto ambiental de proyectos lo siguiente:
+a) El análisis de la vulnerabilidad frente a los impactos del cambio climático de acuerdo con el estado del conocimiento científico, evaluando al menos, en el caso de nuevas infraestructuras, el impacto en ellas del incremento de la frecuencia e intensidad de fenómenos meteorológicos extremos y, en su caso, según la tipología de infraestructura, de la falta de suministros, así como, cuando así resulte del análisis efectuado, las pertinentes medidas de adaptación a los impactos del cambio climático, su seguimiento y monitorización.
+b) La evaluación de sus emisiones de gases de efecto invernadero, incluido su impacto sobre el stockde carbono y la capacidad de evacuación del territorio afectado. Esta evaluación debe recoger, para cada una de las alternativas consideradas, una estimación de las emisiones de gases de efecto invernadero. En el caso de los proyectos constructivos de nuevas infraestructuras, esta evaluación debe tener en cuenta tanto la fase de construcción como la de explotación.
+c) La inclusión de un objetivo de reducción de emisiones de gases de efecto invernadero respecto de un año base de referencia solo será preceptiva en aquellos casos en el que los planes, programas o proyectos puedan tener un efecto significativo en el total de las emisiones a escala autonómica.
+d) Una evaluación inmediata sobre los valores ambientales concurrentes y una evaluación mediata sobre el beneficio que el objeto de dicho plan, programa o proyecto puede tener sobre el cambio climático, integrando ambas perspectivas en el análisis global que se declare.
+Todo ello sin perjuicio de las competencias atribuidas al Estado, conforme a lo estipulado en el artículo 149.1.23.ª de la Constitución; el artículo 11 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental; y el resto de normativa estatal que sea de aplicación.
+2. Las Administraciones públicas canarias y su sector público institucional adoptarán medidas dirigidas a reducir progresivamente las emisiones de gases de efecto invernadero y a aumentar la resiliencia ante los impactos ligados al cambio climático de los siguientes sectores:
+a) Turismo.
+b) Agricultura y ganadería.
+c) Pesca y acuicultura.
+d) Industria y comercio.
+e) Recursos hídricos.
+f) Litoral.
+g) Calidad del cielo y alumbrado público.
+h) Biodiversidad y patrimonio natural.
+i) Montes y gestión forestal.
+j) Residuos.
+k) Salud y servicios sociales.
+l) Atención de emergencias y protección civil.
+m) Ordenación del territorio y urbanismo.
+De forma simultánea a la promoción de medidas de mitigación y adaptación con el fin de asegurar la sostenibilidad de los referidos sectores, las Administraciones públicas canarias impulsarán acciones encaminadas a aumentar la capacidad de captación de CO2 de los sumideros de carbono radicados en el archipiélago.
+3. Las actividades de instalaciones hoteleras y extrahoteleras, de explotaciones agrícolas y ganaderas, pesqueras y de acuicultura, industriales y de comercio, y vinculadas a la gestión de los recursos hídricos que tengan la consideración de grandes y medianas empresas, conforme al PIECan, deberán elaborar un plan de transición energética dirigido a minimizar la huella de carbono que generan y articular las medidas necesarias para que esta sea cero o negativa.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª Turismo
+
+### Artículo 56
+
+Artículo 56. Turismo.
+Las políticas aplicables por las Administraciones públicas de Canarias en materia de turismo serán:
+a) El fomento de un modelo turístico que evalúe y reduzca el impacto de esa actividad en el cambio climático.
+b) El tratamiento integral de la sostenibilidad del sector turístico, incluidos los recursos, productos y destinos.
+c) El fomento de las actividades de proximidad en su cadena de suministros.
+d) La sensibilización e información tanto a los trabajadores del sector como a los turistas sobre el uso sostenible de los recursos.
+e) El fomento de certificaciones ambientales para las actividades y los establecimientos turísticos.
+f) El impulso de medidas que fomenten la rehabilitación energética, la reducción del consumo de energía y agua y el incremento de la aportación de energías renovables en las instalaciones y actividades turísticas.
+g) La coordinación de campañas promocionales del producto turístico canario con los planes de sensibilización y campañas contemplados en el artículo 63.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 3
+
+Sección 3.ª Agricultura y ganadería
+
+### Artículo 57
+
+Artículo 57. Agricultura y ganadería.
+Las políticas aplicables por las Administraciones públicas de Canarias en materia de agricultura y ganadería serán:
+a) La evaluación de los riesgos para dichos sectores, las actividades y el territorio derivado del cambio climático, así como las medidas identificadas para su reducción y las oportunidades que pueden aparecer para el sector.
+b) El impulso a través de los programas de apoyo al sector para que las explotaciones agrícolas y ganaderas favorezcan en su actividad la reducción de emisiones y la resiliencia del territorio.
+c) El fomento de medidas que eviten la degradación de los suelos y faciliten el almacenamiento de carbono en los suelos mediante una mejora de la gestión de la materia orgánica e incentivos de técnicas agrarias sostenibles.
+d) Incorporar a la planificación del riego agrícola los impactos observados y proyectados del cambio climático en Canarias, con especial atención al riesgo de una garantía insuficiente en la disponibilidad de agua para riego, y el fomento de la implantación de instalaciones de regadío que comporten un aprovechamiento del agua más eficiente y racional con la máxima eficiencia energética, de acuerdo con la planificación hidrológica, agrícola y alimentaria.
+e) El reforzamiento del conocimiento en el sector para avanzar en la reducción de emisiones, la adaptación de especies más eficientes y la conservación de la biodiversidad, incluyendo la biodiversidad agraria, por medio de la elaboración de un mapa de vulnerabilidades de los cultivos y las especies animales de interés productivo más susceptibles de sufrir los impactos climáticos previstos e incidiendo especialmente en aquellas que se encuentre en peligro de erosión genética.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 58
+
+Artículo 58. Pesca y acuicultura.
+Las políticas aplicables por las Administraciones públicas de Canarias en materia de pesca y acuicultura serán:
+a) El fomento de medidas para el restablecimiento, conservación y gestión de modo sostenible de los ecosistemas marinos y litorales para frenar los efectos del cambio climático, así como las actuaciones para evitar la destrucción, la sobreexplotación, la contaminación de hábitats y las demás presiones antropogénicas.
+b) El fomento de las modalidades de pesca y acuicultura de bajo impacto ambiental.
+c) La ampliación de la sensibilización y la concienciación ciudadana para mejorar la comprensión pública sobre el estado del mar y los impactos que sufre.
+d) Incorporar a la planificación los impactos observados y previstos del cambio climático en Canarias, con especial atención al riesgo de una intensificación de los fenómenos meteorológicos extremos, el aumento de la temperatura y nivel del mar y la acidificación de los ecosistemas marinos.
+e) Establecer y gestionar eficazmente una red de reservas marinas protegidas con el fin de restaurar la pérdida de biodiversidad y mejorar la resiliencia de los ecosistemas marinos.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 59
+
+Artículo 59. Industria y comercio.
+Las políticas aplicables por las Administraciones públicas de Canarias en materia de industria y comercio serán:
+a) El fomento de certificaciones ambientales para las actividades que desarrollen.
+b) El fomento de la investigación en el desarrollo de nuevas técnicas industriales para el aprovechamiento de materias primas secundarias y la mejora en eficiencia de materiales que favorezcan la optimización del consumo de agua de los procesos productivos.
+c) El fomento, estableciendo criterios de selección positiva para el acceso a la financiación pública, de los proyectos y soluciones técnicas basadas en la generación de sumideros de carbono en establecimientos y áreas industriales.
+d) El apoyo y el impulso a la investigación y el desarrollo tecnológico que contribuyan a poner en el mercado alternativas técnicas que den respuesta a las necesidades de la actividad industrial de manera sostenible y de aprovechamiento más intensivo de otras alternativas de suministro.
+e) El estímulo de la demanda de mejores productos y tecnologías de producción asociados al etiquetado ecológico y energético, mediante la mejora del rendimiento medioambiental global de los productos a lo largo de todo su ciclo de vida.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 4
+
+Sección 4.ª Pesca y acuicultura
+
+### Artículo 60
+
+Artículo 60. Recursos hídricos.
+La ordenación del dominio público hidráulico se realizará mediante los planes hidrológicos que contemplarán:
+a) La anticipación a los impactos previsibles del cambio climático, tales como sequías, inundaciones o ascenso del nivel del mar, identificando y analizando el nivel de exposición y la vulnerabilidad de las actividades socioeconómicas y las masas de agua.
+b) Fomentar que las instalaciones de depuración y de producción industrial de agua mediante la desalinización de agua de mar o de agua salobre sean lo más eficientes posible y en especial estén abastecidas, ya sea de manera directa o indirecta, por energías de origen renovable. Asimismo, establecer en la planificación hidráulica sinergias y economías de escala de las infraestructuras hidráulicas de desalinización.
+c) Propiciar el uso de microturbinas en redes de abastecimiento y saneamiento municipales y privadas que permita la generación de energía eléctrica.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 5
+
+Sección 5.ª Industria y comercio
+
+### Artículo 61
+
+Artículo 61. Salud y servicios sociales.
+1. Las medidas que adopten las Administraciones públicas de Canarias y los entes de sus respectivos sectores públicos en materia de salud pública deberán tener como objetivo la disminución de la vulnerabilidad de la población a los efectos del cambio climático y, en particular, incluirán:
+a) La identificación y evaluación de los riesgos y de la vulnerabilidad de la población a los efectos del cambio climático.
+b) La identificación de los impactos previsibles del cambio climático en la salud de la población a la luz de las vulnerabilidades y de su capacidad de adaptación, mediante análisis de las principales opciones adaptativas.
+c) El fortalecimiento de las intervenciones de salud pública existentes en materia de prevención y protección de la salud y que se irán adaptando a los efectos del impacto del cambio climático: sistemas de vigilancia de las enfermedades transmisibles, vigilancia de la calidad del agua y del aire, vigilancia entomológica, seguridad alimentaria y sistemas de alerta temprana –olas de calor y los episodios de intrusiones saharianas– respaldadas por una financiación e infraestructuras adecuadas para asegurar que el sector salud esté preparado para reaccionar a los desafíos del cambio climático.
+d) El establecimiento de un sistema de información que permita evaluar las consecuencias del cambio climático sobre la salud.
+e) El fortalecimiento de los sistemas de salud pública y mejora de su capacidad de respuesta ante el impacto de los efectos en la salud del cambio climático y evitar la saturación de los servicios de salud.
+f) El aumento de la información, concienciación y participación ciudadana en las actividades relacionadas con el cambio climático y las implicaciones para la salud humana.
+2. Los departamentos del Gobierno de Canarias responsables en materia de salud y de derechos sociales deben elaborar y aprobar planes especiales de protección de la población ante los efectos del cambio climático.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 6
+
+Sección 6.ª Recursos hídricos
+
+### Artículo 62
+
+Artículo 62. Atención de emergencias y protección civil.
+1. Con el objetivo de reducir la vulnerabilidad ante fenómenos extremos, el Gobierno de Canarias deberá articular los mecanismos de colaboración, cooperación y coordinación precisos con las corporaciones locales canarias, con el objeto de promover la planificación de las medidas necesarias, incluidas las de alerta temprana, para garantizar la continuidad de los servicios esenciales y, en particular, de la gestión integral del agua, el suministro de energía y telecomunicaciones, la gestión de residuos, el transporte público, el suministro de bienes básicos y la atención primaria de salud.
+2. Los titulares de infraestructuras críticas deberán elaborar y ejecutar planes de adaptación sobre las mismas para proteger los mecanismo y activos de infraestructura que son esenciales para el funcionamiento del sistema socioeconómico canario, garantizando la operatividad de infraestructuras de energía, agua, transporte, comunicaciones y salud ante riesgos previsibles de cambio climático, debiendo notificar a la Oficina Canaria de Acción Climática y al departamento competente en materia de protección civil de la elaboración de tales planes.
+Este precepto no será de aplicación sobre infraestructuras del sector público estatal, las cuales se ajustarán a lo estipulado en la Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas, o norma que la sustituya.
+Se modifica por el art. único.38 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO IV
+
+Instrumentos de actuación social para la gobernanza climática
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO I
+
+Transparencia, participación y sensibilización
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 63
+
+Artículo 63. Transparencia, participación y sensibilización.
+1. La gobernanza climática, como modelo de organización, implica la coordinación y colaboración de diferentes actores, tanto de instituciones públicas como privadas, con el fin de asentar medidas de transición ecológica y energética en Canarias. En este proceso, en el que se involucran entidades públicas autonómicas, entidades públicas locales, el sector privado empresarial, el tercer sector y la ciudadanía en general, será preciso asentar los correspondientes portales web que garanticen la transparencia de toda la información actualizada sobre las medidas de acción climática que se acometan en el territorio, para lo cual la Oficina Canaria de Acción Climática deberá garantizar el correcto funcionamiento y accesibilidad de los medios técnicos telemáticos correspondientes.
+2. La Oficina Canaria de Acción Climática desarrollará un plan de divulgación para fomentar el cumplimiento de los objetivos de esta ley, así como de los Objetivos de Desarrollo Sostenible. Este plan debe servir de marco para impulsar programas, medios y recursos de las Administraciones públicas, las empresas, los agentes sociales y el tercer sector, orientados hacia un mayor grado de consecución de los objetivos de sensibilización y transición ecológica de todos los sectores sociales y económicos.
+3. Las Administraciones públicas canarias y los entes de su sector público institucional, en colaboración con el sector privado, fomentarán la participación de todos los sectores sociales y ámbitos territoriales, promoviendo planes integrales y redes de participación en el seguimiento de los objetivos y en el desarrollo de iniciativas, de acuerdo con las finalidades de esta ley. Con la participación ciudadana se garantizará que las medidas adoptadas sean inclusivas y beneficien a todas las partes de la sociedad.
+Las Administraciones públicas canarias y los entes de su sector público institucional deberán remitir a la Oficina Canaria de Acción Climática, en el plazo de un mes, los datos sobre los balances de mitigación y adaptación al cambio climático que esta les requiera.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 7
+
+Sección 7.ª Calidad del cielo y alumbrado público
+
+### Artículo 64
+
+Artículo 64. Participación local en proyectos de generación renovable.
+1. Las Administraciones públicas de Canarias impulsarán e incentivarán la participación local en el desarrollo de proyectos de energía renovable, y promoverán la capacitación de la ciudadanía, las comunidades de energía renovable locales y otras entidades de la sociedad civil para fomentar su participación en el desarrollo y la gestión de los sistemas de energía renovable.
+2. A los efectos de esta ley, se considerarán proyectos de generación renovable con participación local aquellos en los que el promotor acredite que se ha ofrecido fehacientemente la posibilidad de participar en, al menos, el 20 % del proyecto, a aquellas personas físicas o jurídicas, radicadas en la isla en que se va a situar la instalación, sea en uno de sus municipios, incluido el respectivo Ayuntamiento, sea el Cabildo insular, siguiendo el orden de prelación en la participación del proyecto que reglamentariamente se establezca.
+En caso de que se devengue el canon previsto en el artículo 38 de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, la oferta de participación al Ayuntamiento donde se pretende situar la instalación podrá equivaler al importe del referido canon. Esta posibilidad, opcional, deberá ser propuesta por la persona promotora y requerirá, en todo caso, la previa aceptación del ayuntamiento, en cuyo defecto deberá abonarse el canon.
+3. También se considerarán proyectos de generación renovable con participación local los promovidos por entidades que tengan la consideración de comunidades ciudadanas de energía o comunidades de energías renovables de acuerdo con la normativa estatal y de la Unión Europea.
+4. La oferta de participación local prevista en el apartado 2 del presente artículo será obligatoria siempre que el proyecto de generación renovable esté ubicado en el suelo y tenga una potencia superior a 2 MW.
+5. El promotor deberá acreditar, con anterioridad al trámite de información pública, que ha presentado la correspondiente oferta de participación local, sin perjuicio del cumplimiento de los requisitos a que se refiere el siguiente apartado.
+6. Por Decreto del Gobierno de Canarias, a propuesta de la Consejería competente en materia de energía, se regularán los criterios y requisitos para la participación local en el desarrollo de proyectos de energía renovable.
+Se modifican los apartados 2, 4 y 5 por el art. 1.2 del Decreto-ley 1/2026, de 26 de enero. Ref. BOE-A-2026-8593
+ Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO II
+
+Educación, formación e investigación
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 8
+
+Sección 8.ª Protección de la biodiversidad y recursos naturales
+
+### Artículo 65
+
+Artículo 65. Enseñanza no universitaria.
+1. El Gobierno de Canarias, en materia de enseñanza no universitaria:
+a) Introducirá como eje vertebrador la acción climática y la transición ecológica en los decretos de desarrollo curricular de las distintas áreas, materias o ámbitos vinculados a dichos contenidos y, de forma transversal, en el resto de los currículos, de conformidad con los fines y principios que inspiran la presente ley.
+b) Desarrollará medidas y acciones que fomenten los conocimientos y habilidades necesarias en toda la comunidad educativa, a propósito de la promoción de la acción climática y la transición ecológica.
+2. Los departamentos del Gobierno de Canarias competentes en materia de educación y acción climática coordinarán las actuaciones pertinentes para la formación y cualificación del profesorado en cualquiera de los niveles.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 9
+
+Sección 9.ª Montes y gestión forestal
+
+### Artículo 66
+
+Artículo 66. Enseñanza universitaria.
+1. Las Administraciones públicas canarias y su sector público institucional promoverán, junto con las universidades públicas de Canarias, convenios para fomentar la formación técnica y científica orientada al estudio, investigación o análisis sobre el clima, los efectos del cambio climático sobre los ecosistemas terrestres y marinos y especies clave, la eficiencia energética, las energías renovables, la mitigación y la adaptación al cambio climático, así como los instrumentos jurídicos, económicos y sociales para avanzar en la acción climática y la transición ecológica; y para la localización de los Objetivos de Desarrollo Sostenible.
+2. El Gobierno de Canarias promoverá la formación continua, dirigida a todos los docentes universitarios, en todos los ámbitos que son objeto de regulación por la presente ley.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 10
+
+Sección 10.ª Gestión de residuos
+
+### Artículo 67
+
+Artículo 67. Reconversión ocupacional.
+El Gobierno de Canarias promoverá políticas activas de empleo para favorecer la reconversión de aquellos puestos de trabajo asociados a sistemas energéticos intensivos en emisiones y de alta huella ecológica en otros vinculados a la transición ecológica, así como la incorporación del diálogo social a la hora de establecer calendarios y medidas con impacto sobre la ocupación.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 11
+
+Sección 11.ª Salud y servicios sociales
+
+### Artículo 68
+
+Artículo 68. Promoción de investigación, desarrollo e innovación y competitividad.
+La Oficina Canaria de Acción Climática promoverá el desarrollo de un sistema integrado por todos los actores de Canarias de I+D+i+C en materia de cambio climático que impulse y coordine la captación de todo tipo de recursos para consolidar en Canarias nuevos sectores económicos dirigidos hacia la diversificación de su economía.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 12
+
+Sección 12.ª Atención de emergencias y protección civil
+
+### Artículo 69
+
+Artículo 69. Educación y capacitación frente al cambio climático y la transición hacia una economía descarbonizada.
+1. Las diferentes etapas del sistema educativo no universitario contribuirán a desarrollar en los alumnos las competencias claves para adquirir un conocimiento científico sobre las respuestas frente al cambio climático, las energías renovables, la eficiencia energética y la economía circular, capacitarse para una actividad técnica y profesional baja en carbono, desarrollar hábitos de resiliencia frente al cambio del clima y asumir la responsabilidad personal y social.
+2. Con el fin de impulsar el empleo en los sectores productivos dentro de la llamada economía verde y circular en expansión, las oportunidades que ofrece la innovación tecnológica y potenciar la recualificación de los trabajadores de los sectores vulnerables o en reconversión, el Gobierno de Canarias aprobará un plan formativo verde que tendrá, entre otros, los siguientes objetivos:
+a) La identificación de los sectores claves que ofrecen mayores oportunidades de crecimiento y empleo en el marco de la transición hacia un modelo de desarrollo bajo en carbono.
+b) La identificación de las competencias y capacidades necesarias para favorecer la empleabilidad futura en los sectores motores de crecimiento, de cara a su inclusión en los currículos de la enseñanza obligatoria, bachillerato y formación profesional.
+Asimismo, se posibilitará la orientación en este sentido de las enseñanzas universitarias.
+c) La previsión de acciones formativas dirigidas a los trabajadores en el proceso de transición hacia modelos bajos en carbono.
+d) Los incentivos a las empresas para que faciliten a sus trabajadores una formación adecuada.
+e) Los recursos financieros necesarios para llevar a cabo las actuaciones contempladas en el plan.
+Se modifica por el art. único.39 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO IV
+
+Instrumentos de actuación social para la gobernanza climática
+
+## CAPÍTULO I
+
+Transparencia, participación ciudadana y evaluación
+
+## TÍTULO V
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+## Sección 1
+
+Sección 1.ª Competencias de prevención, inspección y sanción
+
+### Artículo 70
+
+Artículo 70. Funciones de prevención, inspección y protección de la legalidad.
+1. (Suprimido)
+2. Corresponderá a la consejería competente en materia de cambio climático:
+a) Orientar la actuación de las administraciones públicas, de las empresas y de la ciudadanía en general en la consecución de los objetivos de las políticas climáticas.
+b) Prestar asesoramiento para el cumplimiento de los deberes jurídicos establecidos en esta ley y en la normativa que la desarrolle.
+c) Controlar y verificar el cumplimiento de la legislación vigente en materia de cambio climático, así como el ejercicio de la función inspectora.
+d) Formalizar las actuaciones que permitan la adopción de medidas cautelares y la iniciación de procedimientos sancionadores.
+3. Corresponderá a los organismos de control autorizados el ejercicio de las atribuciones enunciadas en las letras b) y c) del apartado anterior, cuando les sean encomendadas por el departamento competente en materia de cambio climático, en los términos de la legislación vigente.
+4. Cuando de una actuación inspectora resulte la posible existencia de infracciones que afecten a las competencias sancionadoras de otros órganos o administraciones públicas, el departamento competente en materia de cambio climático pondrá en su conocimiento las actas expedidas y, en su caso, los informes complementarios de los que disponga.
+Se modifica con el contenido del anterior art. 79, al que se suprime el apartado 1, por el art. único.40 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO II
+
+Medidas de fomento para la transición ecológica y la acción climática
+
+### Artículo 71
+
+Artículo 71. Servicios de inspección.
+1. El ejercicio de la función inspectora corresponderá a personal funcionario de la consejería competente en materia de cambio climático, debidamente habilitado, que ostentará a estos efectos la condición de autoridad pública.
+2. En el ejercicio de la función inspectora el personal funcionario podrá ejercer las siguientes facultades:
+a) Acceder a los inmuebles, a los establecimientos y a las instalaciones consumidoras o generadoras de energía, contando, en caso de que tengan la consideración de domicilio y restantes lugares cuyo acceso requiera el consentimiento de su titular, con la correspondiente autorización judicial.
+b) Requerir motivadamente la comparecencia, en las dependencias administrativas, de la persona titular o de las personas responsables del establecimiento o la instalación, o de su representante, así como del personal técnico que haya participado en la instalación, el mantenimiento o el control de equipos y aparatos.
+c) Requerir la aportación de documentación e información que se estime necesaria para el cumplimiento de las funciones inspectoras.
+d) Practicar cualquier diligencia de investigación, control del funcionamiento o prueba necesaria para verificar el cumplimiento de la normativa aplicable.
+3. En el ejercicio de la función inspectora los funcionarios podrán ser asistidos por Organismos de Control acreditados, en relación con las facultades contenidas en la letra c) del apartado anterior. Los Organismos de Control son aquellas personas físicas o jurídicas que teniendo capacidad de obrar y disponiendo de los medios técnicos, materiales y humanos e imparcialidad e independencia necesarias, pueden verificar el cumplimiento de las condiciones y requisitos previstos en esta ley.
+Por Decreto del Consejo de Gobierno se establecerán los requisitos y condiciones exigibles a estos organismos y, en particular, sus requisitos de independencia. Asimismo, dichos organismos deberán cumplir las disposiciones técnicas que se dicten con carácter estatal a fin de su reconocimiento en el ámbito de la Unión Europea.
+La valoración técnica del cumplimiento de los requisitos y condiciones mencionados en el párrafo anterior se realizará por una entidad nacional de acreditación, al objeto de verificar y certificar su competencia técnica en la realización de sus actividades, sin perjuicio de la competencia administrativa para comprobar el cumplimiento de los requisitos administrativos requeridos.
+Los Organismos de Control vendrán obligados, como requisito previo al inicio de la actividad, a suscribir pólizas de seguro, avales u otras garantías financieras equivalentes, que cubran los riesgos de su responsabilidad en la cuantía que se establezca reglamentariamente.
+El régimen de habilitación para el acceso y ejercicio de la actividad de los Organismos de Control consistirá en una declaración responsable ante el órgano de la Consejería competente en materia de cambio climático que se determine reglamentariamente, con acreditación previa de la competencia técnica del organismo de control por una entidad nacional de acreditación.
+La declaración responsable habilitará al organismo de control para desarrollar la actividad para la que ha sido acreditado en el territorio autonómico por tiempo indefinido.
+Los certificados emitidos por los Organismos de Control en el ejercicio de sus actividades tendrán validez y eficacia en el territorio autonómico.
+Se modifica con el contenido del anterior art. 80, al que se modifican los apartados 2 y 3, por el art. único.41 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 72
+
+Artículo 72. Inspección por organismos de control.
+1. De acuerdo con la legislación vigente, los organismos de control autorizados por la Administración llevarán a cabo funciones de inspección cuando lo solicite el departamento competente en materia de cambio climático o las personas o entidades interesadas.
+2. Las personas o entidades titulares o responsables de actividades e instalaciones consumidoras o generadoras de energía estarán obligadas a permitir al personal de los organismos de control el acceso a sus instalaciones y a facilitarles la información y la documentación necesarias para cumplir su tarea.
+3. En el plazo máximo de un mes, los organismos de control enviarán al departamento competente en materia de cambio climático el resultado de sus actuaciones reflejado en los correspondientes informes.
+4. Cuando dichos informes pongan de manifiesto deficiencias o incumplimientos de la normativa vigente, el departamento competente en materia de cambio climático ordenará la práctica de inspecciones por parte de sus servicios, y, en su caso, la subsanación o reparación de las deficiencias o incumplimientos detectados.
+5. Reglamentariamente, se regularán la autorización, el régimen de funcionamiento y el registro de los organismos de control autorizados en materia de eficiencia energética y cambio climático.
+Se modifica con el contenido del anterior art. 81, por el art. único.42 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## CAPÍTULO III
+
+Cooperación al desarrollo, educación, formación e investigación
+
+### Artículo 73
+
+Artículo 73. Inspecciones de eficiencia energética.
+1. Con el fin de comprobar el cumplimiento de las exigencias de eficiencia energética, el departamento competente en materia de energía planificará la realización de inspecciones iniciales y periódicas de las instalaciones consumidoras o generadoras de energía en los términos establecidos en la reglamentación estatal específica.
+2. Las inspecciones dejarán constancia del grado de cumplimiento de la normativa vigente en relación con la clasificación y la calificación de la instalación.
+3. La Consejería competente en materia de energía podrá aprobar planes de inspección según las circunstancias concurrentes y objetivos perseguidos.
+Se modifica con el contenido del anterior art. 82, al que se modifica el apartado 1 y se añade el 3, por el art. único.43 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 74
+
+Artículo 74. Competencias sancionadoras.
+Corresponderá al Departamento competente en materia de cambio climático la iniciación, instrucción y resolución de los procedimientos sancionadores por la comisión de las infracciones previstas en esta ley, debiendo garantizarse la debida separación entre órgano instructor y órgano sancionador, así como de los procedimientos de imposición de medidas correctoras cuando la infracción sea imputable a las Administraciones públicas de Canarias.
+Se modifica con el contenido del anterior art. 83, al que se da nueva redacción, por el art. único.44 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª De la responsabilidad
+
+### Artículo 75
+
+Artículo 75. Personas responsables.
+1. Son responsables de las infracciones reguladas en este título las personas físicas y jurídicas que las realicen por acción u omisión.
+2. Cuando la infracción sea imputable a las Administraciones públicas de Canarias, se instruirá un procedimiento encaminado a la imposición de las medidas correctoras que procedan.
+Se modifica con el contenido del anterior art. 84, al que se modifica el apartado 2, por el art. único.45 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 76
+
+Artículo 76. Efectos del reconocimiento voluntario de responsabilidad.
+1. La persona que reconozca voluntariamente la comisión de los hechos y que haga efectivo el importe de la correspondiente multa antes de que se dicte resolución sancionadora se beneficiará de una reducción del 50 % de la misma.
+2. En caso de pago anticipado de la multa de acuerdo con el apartado anterior, se dictará la resolución finalizadora del procedimiento sin necesidad de evacuar ningún otro trámite.
+3. El reconocimiento voluntario de la responsabilidad y la aplicación de lo dispuesto en este artículo implican la renuncia de la persona responsable al ejercicio de cualquier acción en la vía administrativa.
+Se modifica con el contenido del anterior art. 85, por el art. único.46 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 3
+
+Sección 3.ª Prescripción de infracciones y sanciones
+
+### Artículo 77
+
+Artículo 77. Prescripción.
+Las infracciones y sanciones previstas en el presente título prescribirán en los siguientes plazos:
+a) Cinco años, en los casos de infracciones y sanciones muy graves.
+b) Cuatro años, en los casos de infracciones y sanciones graves.
+c) Tres años, en los casos de infracciones y sanciones leves.
+Los plazos de prescripción de las infracciones computarán a partir de la comisión de la infracción o a partir del cese de la conducta infractora en el caso de infracciones continuadas o permanentes.
+Se modifica con el contenido del anterior art. 86, al que se da nueva redacción, por el art. único.47 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 4
+
+Sección 4.ª Del procedimiento sancionador
+
+### Artículo 78
+
+Artículo 78. Especialidades del procedimiento administrativo sancionador.
+1. La potestad sancionadora por la comisión de las infracciones previstas en esta ley se ejercerá siguiendo el procedimiento establecido al efecto por la legislación básica del procedimiento administrativo común de las administraciones públicas y con las especialidades contenidas en los siguientes apartados.
+2. Cuando el inicio del procedimiento sancionador derive del previo ejercicio de la función inspectora, todas las actuaciones realizadas deberán formar parte del mismo expediente y relacionarse sucintamente en el acuerdo de inicio que se notifique al presunto responsable.
+3. Cuando la apertura de expediente derive de una petición razonada de otros órganos o de una denuncia, los servicios de inspección podrán realizar actuaciones previas orientadas a precisar todos los elementos necesarios para motivar el posterior inicio del procedimiento sancionador. Todas estas actuaciones previas deberán formar parte del mismo expediente que el procedimiento sancionador y deberán relacionarse sucintamente en el acuerdo de inicio que se notifique a la persona presuntamente responsable.
+4. Las medidas provisionales que puedan adoptarse antes del inicio del procedimiento deberán sustentarse en una mínima y precisa labor instructora que permita valorar los requisitos establecidos en la legislación básica del procedimiento administrativo común de las administraciones públicas.
+5. La resolución del procedimiento sancionador deberá ser notificada dentro del plazo de un año desde la incoación del procedimiento. El incumplimiento de este plazo determinará la caducidad del procedimiento, que deberá ser notificada a todas las personas que consten en este como interesadas.
+Se modifica con el contenido del anterior art. 87, por el art. único.48 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## TÍTULO V
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+## Sección 1
+
+Sección 1.ª Competencias de prevención, inspección y sanción
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+
+## Sección 1
+
+Sección 1.ª De las infracciones
+
+### Artículo 79
+
+Artículo 79. Concepto de infracción.
+Constituyen infracciones administrativas en materia de cambio climático las acciones u omisiones tipificadas como tales en la presente ley y que se califican como leves, graves y muy graves.
+Se modifica con el contenido del anterior art. 88, por el art. único.48 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 80
+
+Artículo 80. Infracciones muy graves.
+Se considerarán infracciones muy graves:
+1. El incumplimiento de las obligaciones contenidas en cualesquiera de los instrumentos de planificación previstos en la presente ley, siempre que este incumplimiento genere un riesgo o daño a las personas, los bienes o al medio ambiente.
+2. (Suprimido)
+3. Las inspecciones, las pruebas o los ensayos efectuados por los organismos de control autorizados que reflejen de manera deliberadamente incompleta o con resultados falsos o inexactos los hechos constatados en cumplimiento de sus funciones en materia de cambio climático.
+4. (Suprimido)
+5. (Suprimido)
+6. La expedición de certificados, informes, actas, memorias o proyectos técnicos, o cualquier otra documentación que están obligadas a elaborar o presentar las personas sujetas privadas en los términos de la presente ley, cuando, de forma deliberada, su contenido no refleje la realidad o contenga datos falsos.
+7. La reincidencia en la comisión de una infracción grave por la que se hubiera sido sancionado en el plazo de los dos años anteriores a su comisión.
+Se modifica con el contenido del anterior art. 89, al que se modifica el apartado 1 y se suprimen los apartados 2, 4 y 5, por el art. único.49 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 81
+
+Artículo 81. Infracciones graves.
+Se considerarán infracciones graves:
+1. El incumplimiento de obligaciones específicas que hayan establecido, para las personas obligadas, cualesquiera de los instrumentos de planificación previstos en la presente ley, cuando dicho incumplimiento no genere un riesgo o daño a las personas, los bienes o al medio ambiente.
+2. El incumplimiento de los requisitos o condiciones exigidos para la concesión de las autorizaciones de emisión de gases de efecto invernadero a las actividades sujetas a la normativa sobre comercio de derechos de emisión de gases de efecto invernadero por parte de la Consejería competente en materia de cambio climático.
+3. La falta de colaboración, cuando sea expresamente requerida, por la Oficina Canaria de Acción Climática o las Administraciones públicas canarias en el ejercicio de las competencias que tienen atribuidas en virtud de la presente ley; así como por los servicios públicos de inspección o los organismos de control autorizados.
+4. La obstrucción o la negativa a suministrar datos o facilitar las funciones de información, vigilancia o inspección que practique la Administración de la comunidad autónoma.
+5. La circulación de vehículos contaminantes en la comunidad autónoma en contravención de lo que dispone la presente ley o la normativa que la desarrolle.
+6. El incumplimiento de las obligaciones establecidas en el artículo 31 de esta ley para las grandes y medianas empresas que desarrollen total o parcialmente su actividad en Canarias y se encuentren sometidas al régimen de comercio de emisiones de gases.
+7. El incumplimiento de las obligaciones que contemplen los planes de eficiencia energética para edificios de las Administraciones públicas canarias, planes previstos en el artículo 37.
+8. El incumplimiento por parte de los grandes centros generadores de movilidad de las obligaciones relativas a los planes de movilidad sostenible para su personal, sus clientes o usuarios, previstas en el artículo 48 de esta ley.
+9. El incumplimiento de la obligación del establecimiento de reservas de aparcamientos previstas en el artículo 50 de esta ley.
+10. La falta de elaboración de un plan de transición energética por parte de las empresas grandes y medianas de transporte de mercancías por carretera, así como el incumplimiento del contenido del mencionado plan contemplado en el artículo 51.
+11. El incumplimiento de la obligación de sustitución de vehículos de combustión interna por vehículos eléctricos o con emisiones contaminantes directas nulas prevista en el artículo 52 de esta ley.
+12. El incumplimiento por parte de las grandes y medianas empresas de instalaciones hoteleras y extrahoteleras turísticos de la obligación de elaborar el plan de transición energética contemplado en el artículo 55.3 de esta ley.
+13. La reincidencia en la comisión de una infracción leve por la que hubiera sido sancionado por acto firme en vía administrativa en el plazo de los dos años anteriores a su comisión.
+Se modifica con el contenido del anterior art. 90, al que se da nueva redacción, por el art. único.50 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 82
+
+Artículo 82. Infracciones leves.
+Se considerarán infracciones leves:
+1. La falsedad de los datos inscritos en el Registro Canario de la Huella de Carbono.
+2. El incumplimiento de los requisitos previstos en el artículo 25 en relación con los proyectos, las instalaciones y las edificaciones que se liciten a partir de la entrada en vigor de esta ley.
+3. La falta de exhibición del distintivo del plan de eficiencia energética en un lugar destacado y visible del inmueble por parte de las personas sujetas obligadas a ello.
+4. El uso ineficiente de instalaciones o aparatos de energía cuando se hayan desatendido los requerimientos de los servicios públicos de inspección.
+5. El incumplimiento de cualquier obligación prevista en esta ley o en su normativa de desarrollo que no esté tipificada como infracción grave o muy grave.
+Se modifica con el contenido del anterior art. 91, por el art. único.51 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª De las sanciones
+
+### Artículo 83
+
+Artículo 83. Sanciones.
+1. La comisión de las infracciones tipificadas en los artículos anteriores dará lugar a la imposición de las siguientes sanciones:
+a) En el caso de la comisión de una infracción leve, multa de 600 a 6.000 euros.
+b) En el caso de la comisión de una infracción grave, multa de 6.001 hasta 150.000 euros
+c) En el caso de la comisión de una infracción muy grave, multa de 150.001 hasta 600.000 euros.
+2. Asimismo, atendiendo a las características de los hechos o a su repercusión en la ejecución de las actuaciones de acción climática, se podrá imponer, además de multa, alguna de las siguientes sanciones accesorias:
+a) La publicación en el «Boletín Oficial de Canarias» de la identidad de la persona infractora y de la sanción impuesta.
+b) El cierre de la actividad o la instalación productora de energía o de emisiones de gases de efecto invernadero, por un periodo de uno a tres años en caso de infracciones muy graves y por un periodo inferior a un año en el resto de casos.
+c) La inmovilización de vehículos o de maquinaria por un periodo no superior a un año.
+d) Imposibilidad de obtención de préstamos, subvenciones o ayudas públicas en materia de medioambiente, durante un periodo de dos años, cuando la persona responsable de la infracción hubiere sido sancionada con carácter firme por una infracción grave en materia medioambiental en los cuatro años inmediatamente anteriores a la comisión de la infracción a esta ley. El plazo de la sanción accesoria será de cuatro años cuando la sanción firme previa respondiere a infracciones muy graves.
+Se modifica con el contenido del anterior art. 92, por el art. único.51 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+## Sección 2
+
+Sección 2.ª De la responsabilidad
+
+### Artículo 84
+
+Artículo 84. Graduación de sanciones.
+Para la determinación de las correspondientes sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, con consideración de los siguientes criterios como atenuantes o agravantes para la graduación de la sanción:
+a) La existencia de intencionalidad.
+b) El beneficio ilícito obtenido.
+c) La reiteración por comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa.
+d) La magnitud de la diferencia entre los datos facilitados por parte de las personas físicas o jurídicas titulares de instalaciones y los reales.
+e) La adopción de medidas correctoras por parte de la persona o entidad infractora con anterioridad a la incoación del procedimiento sancionador.
+f) La reparación espontánea por parte de la persona o entidad infractora del daño causado.
+Se modifica con el contenido del anterior art. 93, por el art. único.51 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Artículo 85
+
+Artículo 85. Efectos del reconocimiento voluntario de responsabilidad.
+1. La persona que reconozca voluntariamente la comisión de los hechos y que haga efectivo el importe de la correspondiente multa antes de que se dicte resolución sancionadora se beneficiará de una reducción del 50 % de la misma.
+2. En caso de pago anticipado de la multa de acuerdo con el apartado anterior, se dictará la resolución finalizadora del procedimiento sin necesidad de evacuar ningún otro trámite.
+3. El reconocimiento voluntario de la responsabilidad y la aplicación de lo dispuesto en este artículo implican la renuncia de la persona responsable al ejercicio de cualquier acción en la vía administrativa.
+
+## Sección 3
+
+Sección 3.ª Prescripción de infracciones y sanciones
+
+### Artículo 86
+
+Artículo 86. Prescripción.
+1. Las infracciones previstas en el presente título prescribirán en los siguientes plazos, computados a partir de la comisión de la infracción o a partir del cese de la conducta infractora en el caso de infracciones continuadas o permanentes:
+a) Cuatro años, en los casos de infracciones muy graves.
+b) Tres años, en los casos de infracciones graves.
+c) Dos años, en los casos de infracciones leves.
+2. Las sanciones impuestas por infracciones muy graves prescriben a los tres años; las impuestas por infracciones graves, a los dos años; y las impuestas por infracciones leves, al año.
+
+## Sección 4
+
+Sección 4.ª Del procedimiento sancionador
+
+### Artículo 87
+
+Artículo 87. Especialidades del procedimiento administrativo sancionador.
+1. La potestad sancionadora por la comisión de las infracciones previstas en esta ley se ejercerá siguiendo el procedimiento establecido al efecto por la legislación básica del procedimiento administrativo común de las administraciones públicas y con las especialidades contenidas en los siguientes apartados.
+2. Cuando el inicio del procedimiento sancionador derive del previo ejercicio de la función inspectora, todas las actuaciones realizadas deberán formar parte del mismo expediente y relacionarse sucintamente en el acuerdo de inicio que se notifique al presunto responsable.
+3. Cuando la apertura de expediente derive de una petición razonada de otros órganos o de una denuncia, los servicios de inspección podrán realizar actuaciones previas orientadas a precisar todos los elementos necesarios para motivar el posterior inicio del procedimiento sancionador. Todas estas actuaciones previas deberán formar parte del mismo expediente que el procedimiento sancionador y deberán relacionarse sucintamente en el acuerdo de inicio que se notifique a la persona presuntamente responsable.
+4. Las medidas provisionales que puedan adoptarse antes del inicio del procedimiento deberán sustentarse en una mínima y precisa labor instructora que permita valorar los requisitos establecidos en la legislación básica del procedimiento administrativo común de las administraciones públicas.
+5. La resolución del procedimiento sancionador deberá ser notificada dentro del plazo de un año desde la incoación del procedimiento. El incumplimiento de este plazo determinará la caducidad del procedimiento, que deberá ser notificada a todas las personas que consten en este como interesadas.
+
+## CAPÍTULO II
+
+Infracciones y sanciones
+
+## Sección 1
+
+Sección 1.ª De las infracciones
+
+### Artículo 88
+
+Artículo 88. Concepto de infracción.
+Constituyen infracciones administrativas en materia de cambio climático las acciones u omisiones tipificadas como tales en la presente ley y que se califican como leves, graves y muy graves.
+
+### Artículo 89
+
+Artículo 89. Infracciones muy graves.
+Se considerarán infracciones muy graves:
+1. El incumplimiento de las obligaciones contenidas en cualesquiera de los instrumentos de planificación previstos en la presente ley, siempre que este incumplimiento genere un riesgo o daño grave a las personas, los bienes o al medio ambiente.
+2. El incumplimiento de las obligaciones que contemplen los planes de eficiencia energética.
+3. Las inspecciones, las pruebas o los ensayos efectuados por los organismos de control autorizados que reflejen de manera deliberadamente incompleta o con resultados falsos o inexactos los hechos constatados en cumplimiento de sus funciones en materia de cambio climático.
+4. La falta de elaboración de un plan de transición energética por parte de las empresas de transporte de mercancías por carretera con una flota superior a los que se determine en la Estrategia Canaria de Acción Climática; así como el incumplimiento del contenido del mencionado plan.
+5. El incumplimiento por parte de las personas titulares de las instalaciones hoteleras y extrahoteleras y de los equipamientos turísticos complementarios de la obligación de elaborar el plan de transición energética previsto en el artículo 56.2 de esta ley.
+6. La expedición de certificados, informes, actas, memorias o proyectos técnicos, o cualquier otra documentación que están obligadas a elaborar o presentar las personas sujetas privadas en los términos de la presente ley, cuando, de forma deliberada, su contenido no refleje la realidad o contenga datos falsos.
+7. La reincidencia en la comisión de una infracción grave por la que se hubiera sido sancionado en el plazo de los dos años anteriores a su comisión.
+
+### Artículo 90
+
+Artículo 90. Infracciones graves.
+Se considerarán infracciones graves:
+1. El incumplimiento de obligaciones específicas que hayan establecido, para las personas obligadas, cualesquiera de los instrumentos de planificación previstos en la presente ley, cuando dicho incumplimiento no genere un riesgo o daño grave a las personas, los bienes o al medio ambiente.
+2. El incumplimiento de los requisitos o condiciones exigidos para la concesión de las autorizaciones de emisión de gases de efecto invernadero a las actividades sujetas a la normativa sobre comercio de derechos de emisión de gases de efecto invernadero por parte de la consejería competente en materia de cambio climático.
+3. La falta de colaboración, cuando sea expresamente requerida, por la Agencia Canaria de Acción Climática, Energía y Agua o las administraciones públicas canarias en el ejercicio de las competencias que tienen atribuidas en virtud de la presente ley; así como con los servicios públicos de inspección o los organismos de control autorizados.
+4. La obstrucción o la negativa a suministrar datos o facilitar las funciones de información, vigilancia o inspección que practique la Administración de la comunidad autónoma.
+5. El incumplimiento por parte de las entidades o personas promotoras de planes, programas o proyectos sujetos a evaluación ambiental de incorporar a la documentación de carácter ambiental la información detallada o datos suficientes sobre los aspectos previstos en el artículo 20.3 de la ley.
+6. La circulación de vehículos contaminantes en la comunidad autónoma en contravención de lo que dispone la presente ley o la normativa que la desarrolle.
+7. El incumplimiento de las obligaciones establecidas en el artículo 31 de esta ley para las grandes y medianas empresas que desarrollen total o parcialmente su actividad en Canarias y se encuentren sometidas al régimen de comercio de emisiones de gases.
+8. El incumplimiento por parte de los grandes centros generadores de movilidad de las obligaciones relativas a los planes de movilidad sostenible para su personal, sus clientes o usuarios previstas en el artículo 48 de esta ley.
+9. El incumplimiento de la obligación del establecimiento de reservas de aparcamientos previstas en el artículo 50 de esta ley.
+10. El incumplimiento de la obligación de sustitución de vehículos de combustión interna por vehículos eléctricos o con emisiones contaminantes directas nulas prevista en el artículo 52 de esta ley.
+11. La reincidencia en la comisión de una infracción leve por la que se hubiera sido sancionado en el plazo de los dos años anteriores a la comisión de la misma.
+
+### Artículo 91
+
+Artículo 91. Infracciones leves.
+Se considerarán infracciones leves:
+1. La falsedad de los datos inscritos en el Registro Canario de la Huella de Carbono.
+2. El incumplimiento de los requisitos previstos en el artículo 25 en relación con los proyectos, las instalaciones y las edificaciones que se liciten a partir de la entrada en vigor de esta ley.
+3. La falta de exhibición del distintivo del plan de eficiencia energética en un lugar destacado y visible del inmueble por parte de las personas sujetas obligadas a ello.
+4. El uso ineficiente de instalaciones o aparatos de energía cuando se hayan desatendido los requerimientos de los servicios públicos de inspección.
+5. El incumplimiento de cualquier obligación prevista en esta ley o en su normativa de desarrollo que no esté tipificada como infracción grave o muy grave.
+
+## Sección 2
+
+Sección 2.ª De las sanciones
+
+### Artículo 92
+
+Artículo 92. Sanciones.
+1. La comisión de las infracciones tipificadas en los artículos anteriores dará lugar a la imposición de las siguientes sanciones:
+a) En el caso de la comisión de una infracción leve, multa de 600 a 6.000 euros.
+b) En el caso de la comisión de una infracción grave, multa de 6.001 hasta 150.000 euros
+c) En el caso de la comisión de una infracción muy grave, multa de 150.001 hasta 600.000 euros.
+2. Asimismo, atendiendo a las características de los hechos o a su repercusión en la ejecución de las actuaciones de acción climática, se podrá imponer, además de multa, alguna de las siguientes sanciones accesorias:
+a) La publicación en el «Boletín Oficial de Canarias» de la identidad de la persona infractora y de la sanción impuesta.
+b) El cierre de la actividad o la instalación productora de energía o de emisiones de gases de efecto invernadero, por un periodo de uno a tres años en caso de infracciones muy graves y por un periodo inferior a un año en el resto de casos.
+c) La inmovilización de vehículos o de maquinaria por un periodo no superior a un año.
+d) Imposibilidad de obtención de préstamos, subvenciones o ayudas públicas en materia de medioambiente, durante un periodo de dos años, cuando la persona responsable de la infracción hubiere sido sancionada con carácter firme por una infracción grave en materia medioambiental en los cuatro años inmediatamente anteriores a la comisión de la infracción a esta ley. El plazo de la sanción accesoria será de cuatro años cuando la sanción firme previa respondiere a infracciones muy graves.
+
+### Artículo 93
+
+Artículo 93. Graduación de sanciones.
+Para la determinación de las correspondientes sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, con consideración de los siguientes criterios como atenuantes o agravantes para la graduación de la sanción:
+a) La existencia de intencionalidad.
+b) El beneficio ilícito obtenido.
+c) La reiteración por comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa.
+d) La magnitud de la diferencia entre los datos facilitados por parte de las personas físicas o jurídicas titulares de instalaciones y los reales.
+e) La adopción de medidas correctoras por parte de la persona o entidad infractora con anterioridad a la incoación del procedimiento sancionador.
+f) La reparación espontánea por parte de la persona o entidad infractora del daño causado.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Plazos para la aprobación de la planificación frente al cambio climático y consecuencias de su incumplimiento.
+(Suprimida)
+Se suprime por el art. único.52 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Evaluación del grado de cumplimiento de la ley y del logro de los objetivos previstos.
+Cada dos años desde la entrada en vigor de la presente ley, el Gobierno de Canarias remitirá al Parlamento, para su debate, una comunicación acompañada de una memoria explicativa del grado de cumplimiento de los objetivos previstos en esta ley, así como de los efectos observables en los balances de mitigación y adaptación al cambio climático de Canarias, basados en los escenarios del PIECan y el PCAC.
+Se modifica por el art. único.53 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Limitación del uso del vehículo privado en centros educativos.
+1. (Suprimido)
+2. Las administraciones públicas competentes, en el caso de concentración de vehículos en centros educativos adoptarán medidas de ordenación para garantizar la movilidad sostenible.
+Se suprime el apartado 1 por el art. único.54 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Adaptación de los planes de emergencia y protección civil.
+El departamento competente del Gobierno de Canarias en materia de protección civil, en los plazos que se establezcan en el PCAC, deberá:
+a) Incluir en los planes de emergencia y de protección civil vigentes las modificaciones que procedan como consecuencia del incremento de la intensidad y la frecuencia de los fenómenos meteorológicos extremos.
+b) Incorporar los riesgos derivados del cambio climático en los planes de contingencia.
+c) Desarrollar, en el marco del PCAC, un sistema de alerta temprana específico para fenómenos meteorológicos adversos para las ocho islas Canarias y las áreas marinas adyacentes.
+Se modifica por el art. único.55 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Requisitos de eficiencia energética para la adquisición de productos, servicios y edificios por las administraciones públicas de Canarias.
+En ausencia de la reglamentación a la que hace referencia el apartado 4 del artículo 30, las administraciones públicas de Canarias observarán los requisitos de eficiencia energética para la adquisición de bienes, servicios y edificios por las administraciones públicas integradas en el sector público estatal establecidos en la Ley 15/2014, de 16 de septiembre, de racionalización del sector público y otras medidas de reforma administrativa, o en su caso la norma que la sustituya.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Funciones de la Agencia Canaria de Acción Climática, Energía y Agua.
+(Suprimida)
+Se suprime por el art. único.56 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Mantenimiento de actuaciones.
+1. La Estrategia Canaria de Acción Climática mantendrá su vigencia y obligatoriedad entre tanto no entre en vigor el PIECan y el PCAC, con excepción de su anexo II, que seguirá vigente con relación a lo estipulado en los artículos 48 y 49 de esta ley.
+2. Se mantendrán cuantas actuaciones se lleven a cabo por la Consejería competente en materia de cambio climático y el Gobierno de Canarias para la elaboración, tramitación, aprobación y publicación del Plan Canario de Acción Climática.
+El Plan Canario de Acción Climática en tramitación podrá aprobarse como Plan Canario de Adaptación Climática (PCAC) siempre que tenga el contenido mínimo previsto en el artículo 16.2 de esta ley, circunstancia que se acreditará en virtud de informe emitido por la unidad administrativa responsable de su elaboración.
+En caso de que el Plan Canario de Acción Climática en tramitación contenga objetivos o medidas del Plan Integrado de Energía y Clima de Canarias (PIECan) previstas en el artículo 15.2 de esta ley, se entenderá que dicho contenido, una vez aprobado como PCAC, equivale a la aprobación parcial del PIECan. A tal efecto, dicho contenido deberá estar delimitado en una unidad separada del resto y denominada “PIECan”. En la formulación, tramitación y aprobación del PIECan se integrará, en su caso, el contenido recogido en el PCAC.
+3. Las actuaciones llevadas a cabo por las administraciones locales de la Comunidad Autónoma de Canarias con anterioridad a la entrada en vigor del PIECan y el PCAC para elaborar, tramitar, aprobar o publicar los PIAC y los PACES o instrumentos equivalentes podrán culminarse conforme a las normas aplicables en la fecha del acuerdo de inicio de los mismos.
+Se modifica el apartados 2 por el art. 1.3 del Decreto-ley 1/2026, de 26 de enero. Ref. BOE-A-2026-8593
+ Se modifica por el art. único.57 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Medidas en materia de aguas y de gestión de residuos.
+Las Administraciones públicas de Canarias competentes establecerán un paquete de medidas de impacto como ámbito de actuación prioritaria al objeto de dar solución a los incumplimientos ambientales en materia de aguas y de gestión de residuos.
+Se modifica por el art. único.58 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Instrumentos de ordenación en trámite.
+1. Los instrumentos de ordenación ambiental, de los recursos naturales, territorial, urbanística y sectorial que hayan iniciado su tramitación antes de la entrada en vigor de la presente ley podrán continuar su tramitación conforme a la normativa anterior hasta su aprobación definitiva.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa
+1. Quedan derogados el artículo 25 de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, y el Decreto 35/2019, de 1 de abril, por el que se aprueba el Reglamento de Organización y Funcionamiento del Observatorio del Paisaje.
+2. Asimismo, queda derogada cualquier disposición legal o reglamentaria que se oponga a lo establecido en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación al apartado tercero de la disposición adicional decimoquinta de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias.
+El apartado 3 de la disposición adicional decimoquinta quedará redactado en la forma siguiente:
+«3. Transcurridos diez años desde la entrada en vigor de esta ley sin que la ordenación urbanística municipal se hubiera adaptado a la misma, los suelos afectados por la suspensión quedan reclasificados como suelo rústico común.»
+
+### Disposición final segunda
+
+Disposición final segunda. Constitución de la Agencia Canaria de Acción Climática, Energía y Agua.
+(Suprimida)
+Se suprime por el art. único.59 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final tercera
+
+Disposición final tercera. Directrices de ordenación del litoral.
+1. En el plazo máximo de cinco años a partir de la entrada en vigor de la presente ley, se formularán y aprobarán unas directrices de ordenación del litoral, destinadas a:
+a) La liberación de usos en la franja litoral mediante la minimización de la presión urbana y de otros usos intensivos, la regeneración y recuperación de los ecosistemas costeros y del paisaje natural, así como de las distintas infraestructuras.
+b) Bajo los principios de precaución, prevención de impactos y riesgos, adaptación de los hábitats costeros a las nuevas condiciones climáticas, fomento de la infraestructura verde costera y garantía de conservación para la continuidad sostenible del sector turístico como motor de la economía canaria, las directrices de ordenación del litoral establecerán criterios para el logro de tales objetivos a fin de reducir los riesgos sobre la población y potenciar el fortalecimiento y adaptación de los ecosistemas costeros. Las directrices de ordenación del litoral se adecuarán a lo dispuesto para las directrices de ordenación en la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, o norma que la sustituya; y respetarán la normativa que confiere competencias al Estado y, especialmente, las relativas a puertos de interés general y marina mercante, de conformidad con lo dispuesto en el artículo 149.1.20.a de la Constitución y en el Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, o norma que la sustituya.
+2. En el marco de las directrices de ordenación del litoral y de las instrucciones técnicas de planeamiento, los instrumentos que lleven a cabo la ordenación urbanística del litoral realizarán un estudio específico de la zona de servidumbre del dominio público marítimo-terrestre; de las áreas de influencia para minimizar riesgos, hacer efectiva las servidumbres y aparcamientos, lograr la pervivencia de las especies y hábitats, tales como barrancos, saladares, áreas de inundación o zonas dunares y, cuando se apreciara necesario, en la zona de influencia de 500 metros, para facilitar las operaciones urbanísticas necesarias para dar cumplimiento a los objetivos de dichas directrices.
+Se modifica el apartado 1 por el art. único.60 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final cuarta
+
+Disposición final cuarta. Simplificación de la tramitación de instalaciones de generación renovable.
+Las administraciones públicas de Canarias, en el ámbito de sus respectivas competencias, deberán establecer las normas adecuadas para simplificar y agilizar la ejecución de los proyectos de energías renovables y su conexión a las redes energéticas, así como aquellas instalaciones de la red de transporte necesarias para la integración en el sistema eléctrico de estas energías.
+
+### Disposición final quinta
+
+Disposición final quinta. Sistema de contabilidad medioambiental.
+El Gobierno de Canarias, mediante decreto, definirá un sistema de contabilidad medioambiental que permita evaluar los efectos de las acciones en términos de mejora de los servicios ambientales y de balance de los recursos naturales de Canarias, procurando mitigar los efectos adversos del cambio climático.
+
+### Disposición final sexta
+
+Disposición final sexta. Fiscalidad medioambiental.
+La Comunidad Autónoma de Canarias, en el ámbito de sus competencias, establecerá, en el marco presupuestario, la política fiscal que tenga como finalidad alcanzar los objetivos de la ley, promoviendo incentivos fiscales a las personas físicas y jurídicas que colaboren en la lucha contra el cambio climático o en la adaptación al mismo.
+Se modifica por el art. único.61 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final séptima
+
+Disposición final séptima. Ayudas y subvenciones.
+El Gobierno de Canarias promoverá la inversión privada con carácter específico, destinada a la transición de las empresas ubicadas en Canarias mediante el establecimiento de una línea de subvenciones.
+
+### Disposición final octava
+
+Disposición final octava. Habilitación para el desarrollo reglamentario.
+Se habilita al Gobierno de Canarias para el desarrollo reglamentario de la presente ley, sin perjuicio de las habilitaciones normativas que en la misma se contienen en favor de las personas titulares de las consejerías competentes.
+
+### Disposición final octava bis
+
+Disposición final octava bis. Marca de Excelencia Canaria de Eficiencia Energética y Acción Climática.
+En el plazo de dos años a partir de su constitución, la Oficina Canaria de Acción Climática presentará al Departamento competente en materia de transición ecológica un proyecto de reglamento por el que se regulen los criterios para la obtención, el control de la ejecución y la renovación de la Marca de Excelencia Canaria de Eficiencia Energética y Acción Climática.
+Se añade por el art. único.62 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final octava ter
+
+Disposición final octava ter. Modelos normalizados relativos a las actuaciones recogidas en la disposición adicional octava de la Ley 11/1997, de 2 de diciembre, de regulación del sector eléctrico canario.
+La Consejería competente en materia de energía formulará y publicará modelos normalizados de comunicación previa sobre las actuaciones siguientes:
+1. Acometidas de baja tensión.
+2. Redes de distribución de energía eléctrica en baja tensión.
+3. Redes de distribución de energía eléctrica en media tensión.
+Se añade por el art. único.63 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final octava quater
+
+Disposición final octava quater. Red Canaria de Acción Climática.
+1. Se crea la Red Canaria de Acción Climática, que permitirá establecer un marco permanente y estable de cogobernanza en materia de acción climática, para facilitar el diseño y seguimiento de las políticas en materia de cambio climático, en el que estarán representados, la Administración Pública de la Comunidad Autónoma de Canarias, los Cabildos Insulares y los Ayuntamientos de Canarias.
+2. Corresponden a la Red Canaria de Acción Climática las funciones de conocer las políticas de lucha frente al cambio climático y el estado de la Comunidad Autónoma en esta materia, así como la de formular recomendaciones en relación con planes, programas y líneas de actuación.
+3. Reglamentariamente se regulará su composición y régimen de funcionamiento.
+Se añade por el art. único.64 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición final novena
+
+Disposición final novena. Entrada en vigor.
+La presente ley entrará en vigor a los tres meses de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto, ordeno a la ciudadanía y a las autoridades que la cumplan y la hagan cumplir.
+Canarias, 27 de diciembre de 2022.–El Presidente, Ángel Víctor Torres Pérez.

@@ -1,0 +1,441 @@
+# Ley 8/2008, de 10 de julio, de financiación de las infraestructuras de gestión de los residuos y de los cánones sobre la disposición del desperdicio de los residuos.
+
+- Identificador BOE: `BOE-A-2008-13350`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-13350
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 8/2008, de 10 de julio, de financiación de las infraestructuras de gestión de los residuos y de los cánones sobre la disposición del desperdicio de los residuos.
+PREÁMBULO
+La Ley 16/2003, de 13 de junio, de financiación de las infraestructuras de tratamiento de residuos y del canon sobre la deposición de residuos regula el régimen de cooperación económica entre los entes locales y la Generalidad para la implantación de infraestructuras de gestión de residuos municipales, de acuerdo con lo establecido por el programa de gestión de residuos municipales de Cataluña.
+Asimismo, la Ley 16/2003 creó el canon que grava la destinación de los residuos municipales a instalaciones de depósito controlado, tanto de titularidad pública como privada, situadas en Cataluña.
+Este gravamen, que se configura como un impuesto ecológico, se ajusta a las últimas tendencias políticas de fiscalidad ambiental en el ámbito europeo, las cuales se han mostrado como un instrumento eficaz para el fomento de la minimización y la valorización de los residuos.
+Hay que priorizar la minimización y la valorización de los residuos y dar un impulso eficaz a las operaciones de recogida selectiva, separación, reciclaje y reutilización de los residuos, de modo que permitan el aprovechamiento de la utilidad de los residuos como recurso.
+Así, es conveniente ampliar el objeto de regulación del canon y hacerlo extensivo a las operaciones de incineración de los residuos municipales y a la deposición controlada de los residuos de la construcción.
+Se crean, también, dos nuevos tipos de cánones específicos sobre la deposición controlada y la incineración de residuos municipales procedentes de los entes locales que, al cabo de un año de la entrada en vigor de la presente ley, no hayan iniciado el desarrollo de la recogida selectiva de la fracción orgánica, de acuerdo con el proyecto de desarrollo aprobado por la Agencia de Residuos de Cataluña, siempre y cuando el ámbito territorial en el que se encuentre adscrito el sujeto pasivo disponga de las instalaciones correspondientes de tratamiento de la fracción orgánica recogida selectivamente establecidas por el programa de gestión de residuos municipales de Cataluña.
+Estos nuevos tipos de canon contribuyen a disminuir el desequilibrio existente entre los municipios que han desplegado la recogida selectiva de la fracción orgánica y los municipios que no lo han hecho, teniendo en cuenta que el tratamiento de la fracción resto de estos últimos causa un impacto mayor en el territorio, tanto desde el punto de vista ambiental como económico, y por otro lado implica un mayor dimensionamiento o un acortamiento de la vida útil de las instalaciones de disposición final del desperdicio.
+Asimismo, estos nuevos tipos contribuirán a un despliegue eficaz de la recogida selectiva de la fracción orgánica y, por tanto, al cumplimiento de los objetivos establecidos por la política de la Unión Europea en materia de gestión de residuos municipales, que obligan a una reducción progresiva de la entrada de residuos municipales biodegradables en depósito controlado.
+Los cánones creados por la presente ley se ajustan a los programas de gestión de residuos, que establecen la necesidad de utilizar determinadas figuras tributarias como vía para la consecución de los objetivos de la Ley 6/1993, de 15 de julio, reguladora de los residuos, incentivando un comportamiento más respetuoso hacia el medio ambiente e impulsando medidas de minimización y de valorización material de los residuos.
+Los recursos obtenidos de la recaudación de los cánones se integrarán en el fondo de gestión de residuos, pero con juntas de gobierno diferenciadas –una para los residuos municipales y otra para los residuos de la construcción–, que llevarán a cabo las funciones de planificación, decisión y gestión del destino de estos recursos, en el marco de los correspondientes programas de gestión de residuos de Cataluña.
+Por otra parte, se ha considerado que había que revisar el régimen de cooperación económica entre la Generalidad y los entes locales, establecido por la Ley 16/2003, para ajustar esta cooperación no solamente a lo establecido por el programa de gestión de residuos municipales de Cataluña, sino también al plan territorial sectorial de infraestructuras de gestión de residuos municipales.
+Dicho plan se desarrolla, por una parte, para dar cumplimiento a lo establecido por la Directiva 2006/12/CE, de residuos, que determina que debe planificarse la gestión de los residuos en el sentido de incluir unos criterios de localización precisos para las instalaciones de gestión y, por otra parte, para dotar de coherencia la planificación de las instalaciones de gestión de los residuos y el encaje de esta planificación en la planificación urbanística.
+La financiación de las instalaciones establecidas por el plan territorial sectorial debe concretarse en el plan financiero que se establezca en el marco de un contrato-programa entre la Agencia de Residuos de Cataluña y el Gobierno.
+Por último, para garantizar la armonización de las disposiciones normativas relativas a la reglamentación de la financiación de las infraestructuras de gestión de los residuos y de los cánones sobre la disposición del desperdicio de los residuos se ha considerado oportuno refundir en un solo texto las disposiciones de la Ley 16/2003 y la nueva regulación de los cánones sobre la incineración de residuos municipales y sobre la deposición controlada de los residuos de la construcción. En este sentido, la presente ley incluye una disposición derogatoria de la Ley 16/2003.
+La presente ley se dicta en el marco de las competencias relativas a la gestión de los residuos establecidas por el artículo 144 del Estatuto de autonomía, de acuerdo con los antecedentes expuestos y en ejercicio del poder tributario, según los artículos 133.2 y 157.1.b) de la Constitución y el artículo 203 del Estatuto de autonomía.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular la financiación de las infraestructuras de gestión de residuos municipales, establecer el régimen jurídico del Fondo de gestión de residuos creado por la Ley 6/1993, de 15 de julio, reguladora de los residuos, y regular los cánones que gravan la disposición del desperdicio de los residuos municipales, la deposición de residuos industriales y la deposición de residuos de la construcción.
+Se modifica por el art. 1.1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 2
+
+Artículo 2. Financiación de las infraestructuras.
+La Generalidad asume la financiación de las inversiones que figuran en el Plan territorial sectorial de infraestructuras de gestión de residuos municipales, en la cuantía y forma que determine el mismo Plan, y que debe ser aprobado por el Gobierno.
+Se modifica por el art. 1.2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 3
+
+Artículo 3. Creación de los cánones.
+1. Se crean los cánones que gravan la destinación de los residuos municipales a la disposición del desperdicio mediante depósito controlado e incineración, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+2. Se crea el canon que grava la destinación de los residuos industriales a depósito controlado, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+3. Se crea el canon que grava la destinación de los residuos de la construcción a la disposición del desperdicio mediante depósito controlado, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+Se modifica por el art. 2 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+## CAPÍTULO II
+
+Fondos de gestión de residuos
+
+### Artículo 4
+
+Artículo 4. Régimen jurídico de aplicación.
+1. El fondo de gestión de residuos, creado por la Ley 6/1993, se rige por la presente ley y por las disposiciones que la desarrollan.
+2. El fondo de gestión de residuos se adscribe a la Agencia de Residuos de Cataluña.
+
+### Artículo 5
+
+Artículo 5. Finalidad y recursos económicos del fondo de gestión de residuos.
+1. El fondo de gestión de residuos se destina a financiar las operaciones de gestión de los residuos, en el marco de los programas específicos de gestión de residuos y de acuerdo con el plan territorial sectorial de infraestructuras de gestión de residuos municipales, así como las operaciones de gestión de residuos de envases que realicen los entes locales, de acuerdo con lo establecido por la Ley del Estado 11/1997, de 24 de abril, de envases y residuos de envases, y el programa general de residuos de Cataluña.
+2. El fondo de gestión de residuos se integra de forma diferenciada en el presupuesto de la Agencia de Residuos de Cataluña.
+3. El fondo de gestión de residuos se provee de los siguientes recursos:
+a) Las aportaciones del presupuesto de la Generalidad.
+b) Las asignaciones que correspondan a la Generalidad procedentes de la imposición por las administraciones públicas de gravámenes sobre residuos.
+c) Los ingresos derivados de los cánones sobre la disposición del desperdicio de residuos.
+d) Las subvenciones y ayudas otorgadas por otros entes.
+e) El importe recaudado de las sanciones impuestas por la Administración de la Generalidad como consecuencia de infracciones de la normativa sobre residuos, una vez deducidos los gastos de gestión.
+f) Las donaciones, herencias, aportaciones y ayudas que los particulares, las empresas o instituciones destinen específicamente al fondo.
+g) Los remanentes procedentes de economías en la contratación, de revocaciones o de renuncias en los procedimientos de otorgamiento de ayudas o subvenciones a los entes locales financiadas con el fondo, u otros restos, incluidos los provenientes de los sistemas que se establezcan para la gestión de residuos municipales, ya sean del mismo ejercicio o de ejercicios anteriores.
+h) Las aportaciones provenientes de los sistemas que se establecen para la gestión de los residuos de envases o de otros sistemas de gestión de residuos que se desarrollen.
+i) Las aportaciones específicas del Estado.
+j) Cualquier otra aportación destinada a financiar operaciones de gestión de residuos municipales.
+4. Las actuaciones referidas a la gestión de residuos municipales que se realicen con cargo al fondo deben ajustarse al programa de gestión de residuos municipales de Cataluña. Estas actuaciones, que deben destinarse a satisfacer las necesidades de los entes locales en materia de residuos municipales, deben llevarse a cabo en función de las disponibilidades presupuestarias y de conformidad con lo establecido por el artículo 2.
+4 bis. Las actuaciones referidas a la gestión de los residuos industriales que se lleven a cabo con cargo al Fondo deben ajustarse al Programa general de gestión de residuos.
+5. Las actuaciones referidas a la gestión de residuos de la construcción que realicen con cargo al fondo deben ajustarse al programa de gestión de residuos de la construcción en Cataluña, de acuerdo con la legislación vigente.
+6. La recaudación del impuesto y las asignaciones que correspondan a la Generalidad procedentes de la imposición por las administraciones públicas de gravámenes sobre residuos deben destinarse en exclusiva a medidas e inversiones relacionadas con mejoras en la gestión de residuos y, preferentemente, a:
+a) Impulso de la economía circular.
+b) Inversiones para la mejora, la ampliación, el mantenimiento y la construcción de infraestructuras de gestión de residuos, y de los medios para la recogida separada, incluyendo investigación, desarrollo e innovación, de acuerdo con los instrumentos de planificación.
+c) Gastos de planificación, seguimiento y control de la producción y gestión de residuos, especialmente los de competencia municipal.
+d) Gastos de la gestión del mismo impuesto.
+Se añade el apartado 6 por el art. 70.1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se añade el apartado 4 bis por el art. 3 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+
+### Artículo 6
+
+Artículo 6. Administración del fondo de gestión de residuos y creación de las juntas de gobierno.
+1. El fondo de gestión de residuos es administrado por las juntas de gobierno creadas por la presente ley.
+2. Se crea la Junta de Gobierno para los Residuos Municipales, que debe administrar los recursos procedentes de los cánones sobre la disposición del desperdicio de los residuos municipales, así como los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas y las actuaciones derivadas del Fondo de gestión de residuos, con la siguiente composición:
+a) El presidente o presidenta, que es designado por el presidente o presidenta de la Agencia de Residuos de Cataluña.
+b) Dos vocales designados por la Agencia de Residuos de Cataluña.
+c) Tres vocales en representación de los entes locales, designados de la siguiente forma: uno por la Entidad Metropolitana de Servicios Hidráulicos y del Tratamiento de Residuos, otro por la Asociación Catalana de Municipios y Comarcas y otro por la Federación de Municipios de Cataluña.
+d) El secretario o secretaria, designado por la Agencia de Residuos de Cataluña, con voz y sin voto.
+3. Se crea la Junta de Gobierno para los Residuos de la Construcción, que debe administrar los recursos procedentes del canon sobre la deposición controlada de los residuos de la construcción, así como los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas y las actuaciones derivadas del Fondo de gestión de residuos, con la siguiente composición:
+a) El presidente o presidenta, que es designado por el presidente o presidenta de la Agencia de Residuos de Cataluña.
+b) Tres vocales designados por la Agencia de Residuos de Cataluña.
+c) Cuatro vocales designados por la Confederación Catalana de la Construcción.
+d) El secretario o secretaria, designado por la Agencia de Residuos de Cataluña, con voz y sin voto.
+4. Las juntas de gobierno del fondo de gestión de residuos se rigen por las disposiciones de la presente ley y, con carácter supletorio, por la Ley 13/1989, de 14 de diciembre, de organización, procedimiento y régimen jurídico de la Administración de la Generalidad de Cataluña.
+5. Corresponde a cada junta de gobierno planificar, decidir y gestionar el destino de los recursos disponibles en el marco de los correspondientes programas de gestión de residuos de Cataluña y de acuerdo con las disposiciones específicas de aplicación.
+6. El quórum de constitución de cada junta de gobierno es el de la mayoría absoluta de sus miembros.
+7. Los acuerdos de las juntas de gobierno se adoptan por mayoría de los asistentes. En caso de empate, el voto de calidad de la presidencia dirime el resultado de las votaciones.
+8. Los vocales pueden delegar su representación en caso de que no puedan asistir a las reuniones de las juntas de gobierno.
+9. Las juntas de gobierno deben acordar, antes del 30 de septiembre de cada año, los criterios que determinen la distribución de los recursos procedentes de los cánones, así como los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas, previa presentación al Consejo de Dirección de la Agencia de Residuos de Cataluña. Para la determinación de estos criterios deben tenerse en cuenta los modelos de gestión de residuos establecidos por los programas de gestión de residuos y por el Plan territorial sectorial de infraestructuras de gestión de residuos municipales.
+10. La distribución de los fondos procedentes de los cánones sobre la disposición del desperdicio de los residuos municipales y de los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas, debe ajustarse a los siguientes criterios:
+a) Se deben tener en cuenta los flujos de residuos municipales que no se destinen a deposición controlada ni a valorización energética, que deben ponderarse de acuerdo con los criterios que establezca la Junta de Gobierno para los residuos municipales.
+b) El cincuenta por ciento de los fondos, como mínimo, debe destinarse al tratamiento de la fracción orgánica recogida selectivamente, incluidos los tratamientos que reducen la cantidad o mejoran la calidad del rechazo de los residuos destinados a la disposición del rechazo, en especial en cuanto a la reducción de la fracción orgánica contenida en la fracción resto, y la financiación de las infraestructuras previstas en el Plan territorial sectorial de infraestructuras de gestión de residuos municipales; el resto de los recursos debe destinarse a la recogida selectiva en origen de la materia orgánica, a la recogida selectiva y el reciclaje de otras fracciones de residuos, a otras formas de valorización material y a la promoción de campañas de sensibilización, divulgación y educación ambiental, y debe garantizarse que, en todo caso, el 2 % de los fondos se destinen a acciones de infraestructura verde y de mejora ambiental territorial. Los recursos destinados a acciones de infraestructura verde y de mejora ambiental territorial deben traspasarse trimestralmente, una vez cerrado el plazo de recaudación, a la dirección general competente en políticas ambientales, que es la encargada de realizar su gestión y distribución de manera concertada con las administraciones locales de ámbito municipal o metropolitano cuyo territorio resulte directa o indirectamente afectado por la implantación o el funcionamiento de las infraestructuras de gestión de residuos.
+11. La distribución de los fondos procedentes del canon sobre la deposición controlada de los residuos de la construcción y de los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas debe destinarse a las actuaciones de prevención y a las operaciones de valorización y optimización de la gestión de los residuos de la construcción, y también a la promoción y a la búsqueda de aplicaciones de los materiales recuperados, de acuerdo con las directrices aprobadas por la Junta de Gobierno de los Residuos de la Construcción, y debe garantizarse que, en todo caso, el 2 % de los fondos se destinen a acciones de infraestructura verde y de mejora ambiental territorial y que las acciones para favorecer la prevención y la valorización tengan, por este orden, carácter prioritario. Los recursos destinados a acciones de infraestructura verde y de mejora ambiental territorial deben traspasarse trimestralmente, una vez cerrado el plazo de recaudación, a la dirección general competente en políticas ambientales, que es la encargada de realizar su gestión y distribución de manera concertada con las administraciones locales de ámbito municipal o metropolitano cuyo territorio resulte directa o indirectamente afectado por la implantación o el funcionamiento de las infraestructuras de gestión de residuos.
+11 bis. La distribución de los fondos procedentes de los cánones sobre la disposición del desecho de los residuos industriales y de los importes y asignaciones provenientes de impuestos y gravámenes sobre residuos procedentes de otras administraciones públicas debe destinarse a las actuaciones de estudios de prevención y nuevas tecnologías para el tratamiento de residuos (máximo 10 %), a las actuaciones de ejecución subsidiaria de gestión de residuos abandonados hechas por la Agencia de Residuos de Cataluña y a otras actividades relacionadas con los residuos industriales (máximo 40 %); el resto debe destinarse a actuaciones de prevención, y debe garantizarse que en todo caso el 2 % de los fondos se destine a acciones de infraestructura verde y de mejora ambiental territorial, con la condición de que las cantidades no utilizadas en un ejercicio o recuperadas posteriormente se acumulan en los siguientes ejercicios. Los recursos destinados a acciones de infraestructura verde y de mejora ambiental territorial deben traspasarse trimestralmente, una vez cerrado el plazo de recaudación, a la dirección general competente en políticas ambientales, que es la encargada de realizar su gestión y distribución de manera concertada con las administraciones locales de ámbito municipal o metropolitano cuyo territorio resulte directa o indirectamente afectado por la implantación o el funcionamiento de las infraestructuras de gestión de residuos.
+12. La distribución de los fondos procedentes de los recursos a que hace referencia el artículo 5.3 que no consisten en los recursos obtenidos de la recaudación de los cánones debe ser decidida por el Consejo de Dirección de la Agencia de Residuos de Cataluña.
+Se modifica por el art. 70.2 a 7 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica el apartado 10.b) por el art. 1.1 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Redactado conforme a la corrección de erratas publicada en DOGC núm. 8135, de 18 de mayo de 2020. Ref. BOE-A-2020-5901
+ Se modifica el apartado 10.b) por el art. 1.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+ Se añade el apartado 11 bis por el art. 4 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999
+
+### Artículo 7
+
+Artículo 7. Beneficiarios del fondo de gestión de residuos.
+1. En el ámbito de los residuos municipales, son beneficiarios del fondo de gestión de residuos los entes locales municipales y supramunicipales, las demás entidades competentes y los consorcios constituidos para la prestación de servicios y para efectuar inversiones destinadas a la gestión de residuos municipales.
+2. En cuanto a otras categorías de residuos, son beneficiarios del fondo de gestión de residuos las personas físicas o jurídicas que llevan a cabo las acciones de prevención y las operaciones de valorización material de los residuos en el marco de los correspondientes programas de gestión de residuos.
+
+## CAPÍTULO III
+
+Cánones sobre la disposición del desperdicio de los residuos
+
+## Sección I
+
+Sección I. Cánones sobre la disposición del desperdicio de los residuos municipales
+
+### Artículo 8
+
+Artículo 8. Ámbito de aplicación y finalidad.
+1. Los cánones sobre la disposición del desperdicio de los residuos municipales se aplican a los residuos que tienen la consideración de municipales de acuerdo con la legislación vigente y que se destinan a deposición controlada o a incineración.
+2. Los cánones sobre la deposición controlada y la incineración de los residuos municipales son instrumentos económicos que contribuyen a la financiación del coste que comporta la implantación de la gestión sostenible de los residuos municipales.
+
+### Artículo 9
+
+Artículo 9. Naturaleza y afectación.
+Los cánones sobre la deposición controlada y la incineración de los residuos municipales son impuestos ecológicos que quedan afectados al fondo de gestión de residuos.
+
+### Artículo 10
+
+Artículo 10. Destino.
+El importe de los cánones sobre la deposición controlada y la incineración de los residuos municipales deben destinarse a optimizar la gestión de los residuos municipales, de acuerdo con los criterios establecidos por el artículo 6.10.
+
+### Artículo 11
+
+Artículo 11. Hecho imponible.
+1. Constituye el hecho imponible del canon sobre la deposición controlada de los residuos municipales la destinación de estos residuos a las instalaciones de deposición controlada de los residuos, tanto de titularidad pública como privada.
+2. Constituye el hecho imponible del canon sobre la incineración de los residuos municipales la incineración de estos residuos en instalaciones de incineración, tanto de titularidad pública como privada.
+
+### Artículo 12
+
+Artículo 12. Sujetos pasivos.
+1. Son sujetos pasivos en concepto de contribuyentes los entes locales titulares del servicio de gestión de residuos municipales y, en su caso, los que tienen la competencia delegada de los mismos, de acuerdo con la legislación de régimen local, con independencia de la modalidad de gestión del servicio.
+2. Son sujetos pasivos en concepto de contribuyentes los productores de residuos municipales que no son objeto del servicio municipal de recogida.
+3. Son sujetos pasivos sustitutos de los contribuyentes a los que se refieren los apartados 1 y 2, y están obligados a cumplir las obligaciones materiales y formales establecidas por la presente ley, las personas titulares de las instalaciones de disposición del desperdicio de los residuos municipales.
+
+### Artículo 13
+
+Artículo 13. Devengo.
+1. El canon sobre la deposición controlada de los residuos municipales se devenga en el momento en que el poseedor o poseedora de los residuos los entrega al depósito controlado y quien tiene la titularidad de la instalación los acepta.
+2. El canon sobre la incineración de los residuos municipales se devenga en el momento en el que quien tiene la titularidad de la instalación acepta los residuos del poseedor o poseedora y los destina a la incineración.
+
+### Artículo 14
+
+Artículo 14. Base imponible.
+1. La base imponible está constituida por la cantidad de residuos expresada en toneladas que se destinan a deposición controlada o a incineración.
+2. La base imponible se determina por el régimen de estimación directa, con carácter preferente, mediante la aplicación de sistemas de peso homologados, y subsidiariamente, solo en el caso de que no se pueda aplicar este sistema, por la vía de estimación indirecta.
+3. Para determinar la base imponible por la vía de estimación indirecta, la Administración puede tener en cuenta cualquier dato, circunstancia o antecedente del sujeto pasivo indicativo del tonelaje de residuos destinados a la deposición controlada o a la incineración.
+
+### Artículo 15
+
+Artículo 15. Tipo de gravamen.
+1. Se fija el tipo de gravamen de 71,60 euros por tonelada de desperdicio de residuos municipales destinados a depósito controlado.
+2. Se fija el tipo de gravamen de 35,80 euros por tonelada de desperdicio de residuos municipales que se incinera.
+Se modifica por el art. 1.4 y 5 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica por el art. 1.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+ Se modifica por el art. 1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica por el art. 6 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se modifica por el art. 1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+ Se modifica por el art. 2 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+### Artículo 16
+
+Artículo 16. Cuota íntegra.
+La cuota tributaria es el resultado de aplicar a la base imponible el tipo de gravamen aplicable en cada caso, de acuerdo con el artículo 15.
+
+## Sección I bis
+
+Sección I bis. Canon sobre la deposición controlada de residuos industriales
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Redactado conforme a la corrección de errores publicada en DOGC núm. 6565, de 19 de febrero de 2014.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Ámbito de aplicación y finalidad.
+1. Se crean los cánones que gravan la destinación de los residuos municipales a la disposición del desperdicio mediante depósito controlado e incineración, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+2. Se crea el canon que grava la destinación de los residuos industriales a depósito controlado, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+3. Se crea el canon que grava la destinación de los residuos de la construcción a la disposición del desperdicio mediante depósito controlado, en instalaciones tanto de titularidad pública como privada situadas en Cataluña.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 ter
+
+Artículo 16 ter. Naturaleza y afectación.
+El canon sobre la deposición controlada de los residuos industriales es un impuesto ecológico que queda afectado al Fondo de gestión de residuos.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 quáter
+
+Artículo 16 quáter. Destinación.
+El importe del canon sobre la deposición controlada de residuos industriales debe destinarse a optimizar la gestión de estos residuos, de acuerdo con las actuaciones establecidas en el artículo 6.11 bis.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 quinquies
+
+Artículo 16 quinquies. Hecho imponible.
+Constituye el hecho imponible del canon sobre la deposición controlada de los residuos industriales la destinación de estos residuos a la deposición controlada, en instalaciones tanto de titularidad pública como privada.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 sexies
+
+Artículo 16 sexies. Sujetos pasivos.
+1. Son sujetos pasivos en concepto de contribuyentes las personas físicas o jurídicas, públicas o privadas, que son consideradas, de acuerdo con la normativa vigente, productoras de los residuos industriales.
+2. Son sujetos pasivos sustitutos de los contribuyentes a los que se refiere el apartado 1, y están obligados a cumplir las obligaciones materiales y formales establecidas en la presente ley, las personas físicas o jurídicas titulares de las instalaciones de depósito controlado, tanto públicas como privadas.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 septies
+
+Artículo 16 septies. Acreditación.
+El canon sobre la deposición controlada de residuos industriales se acredita en el momento en que el poseedor o poseedora de los residuos industriales los libra al depósito controlado y quien tiene la titularidad del depósito los acepta.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 octies
+
+Artículo 16 octies. Base imponible.
+1. La base imponible está constituida por la cantidad de residuos industriales expresada en toneladas que se destina a la deposición.
+2. La base imponible se determina por el régimen de estimación directa, con carácter preferente, mediante la aplicación de sistemas de peso o volumen homologados, y subsidiariamente, solo en el caso de que no se pueda aplicar este sistema, por la vía de estimación indirecta.
+3. Para determinar la base imponible por la vía de estimación indirecta, la Administración puede tener en cuenta cualquier dato, circunstancia o antecedente del sujeto pasivo indicativo del tonelaje de residuos industriales destinados a deposición.
+Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 novies
+
+Artículo 16 novies. Tipo de gravamen.
+Se fija el tipo de gravamen general en la cantidad de 15,80 euros por tonelada de residuos industriales destinados a deposición controlada.
+Véase sobre reducción del tipo de gravamen, durante el periodo comprendido entre el 1 de abril y el 31 de mayo de 2020, el art. 3 del Decreto-ley 11/2020, de 9 de abril. Ref. BOE-A-2020-5648#a3
+ Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 decies
+
+Artículo 16 decies. Cuota íntegra.
+1. La cuota tributaria es el resultado de aplicar a la base imponible el tipo de gravamen aplicable, de acuerdo con el artículo 16 novies.
+2. Se prevé una bonificación del 40% de la cuota por los residuos generados en el municipio de Flix, para los sujetos pasivos que dispongan de proyectos de transformación sectorial o de reindustrialización del municipio de Flix aprobados por el departamento competente en materia de industria, siempre que consideren el mantenimiento o la nueva implantación de actividad industrial, así como el mantenimiento o la creación de empleo, en los términos establecidos por el Acuerdo del Consejo de Ministros del 1 de diciembre de 2017, por el cual se considera de interés general el proyecto de reindustrialización en el municipio de Flix.
+Se modifica por el art. 1 del Decreto-ley 12/2019, de 9 de julio. Ref. DOGC-f-2019-90518
+ Se añade por el art. 5 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 16 undecies 
+
+Artículo 16 undecies. Exenciones.
+Quedan exentos del canon sobre la disposición de residuos, la Administración General del Estado, la Generalidad de Cataluña y las corporaciones locales, así como sus organismos y los que dependen de la misma, cuando lleven a cabo el hecho imponible del canon con motivo de actuaciones de remediación, recuperación y descontaminación de espacios degradados y suelos contaminados, declaradas de interés general por ley y que comporten actuaciones subsidiarias por parte de la Administración, ya sea de forma directa o indirecta.
+Se añade por el art. 1.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+
+## Sección II
+
+Sección II. Canon sobre la deposición controlada de los residuos de la construcción
+Téngase en cuenta que queda suspendida, desde el 31 de enero de 2014 hasta el 31 de diciembre de 2015, la aplicación de este canon según establece la disposición adicional 1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+Se suspende desde el 31 de enero de 2014 hasta el 31 de diciembre de 2015 la aplicación de este canon por la disposición adicional 1 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+ Se suspende durante dos años la aplicación de este canon por la disposición adicional 1 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+
+### Artículo 17
+
+Artículo 17. Ámbito de aplicación y finalidad.
+1. El canon sobre la deposición controlada de los residuos de la construcción se aplica a los residuos que, de acuerdo con la legislación específica vigente, tienen esta consideración y están destinados a depósitos controlados.
+2. El canon sobre la deposición controlada de los residuos de la construcción es un instrumento económico que contribuye a la financiación de las actuaciones establecidas por el artículo 6.11.
+3. No se consideran residuos destinados a la deposición controlada las tierras o los materiales procedentes de la excavación que deban ser reutilizados como relleno para otra obra autorizada.
+Se deroga el apartado 4 por el art. 1.4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+ Se modifica el apartado 4 por el art. 55 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+
+### Artículo 18
+
+Artículo 18. Naturaleza y afectación.
+El canon sobre la deposición controlada de los residuos de la construcción es un impuesto ecológico que queda afectado al fondo de gestión de residuos.
+
+### Artículo 19
+
+Artículo 19. Destinación.
+El importe del canon sobre la deposición controlada de los residuos de la construcción debe destinarse a optimizar la gestión de estos residuos, de acuerdo con las actuaciones establecidas por el artículo 6.11.
+
+### Artículo 20
+
+Artículo 20. Hecho imponible.
+Constituye el hecho imponible del canon sobre la deposición controlada de los residuos de la construcción el destino de estos residuos a la deposición controlada, en instalaciones tanto de titularidad pública como privada.
+
+### Artículo 21
+
+Artículo 21. Sujetos pasivos.
+1. Son sujetos pasivos en concepto de contribuyentes las personas físicas o jurídicas, públicas o privadas, que son consideradas, de acuerdo con la normativa sectorial vigente, productoras de los residuos de la construcción.
+2. Son sujetos pasivos sustitutos de los contribuyentes a los que se refiere el apartado 1, y están obligados a cumplir las obligaciones materiales y formales establecidas por la presente ley, las personas físicas o jurídicas titulares de las instalaciones de depósito controlado, tanto públicas como privadas.
+
+### Artículo 22
+
+Artículo 22. Devengo.
+El canon sobre la deposición controlada de los residuos de la construcción se devenga en el momento en que el poseedor o poseedora de los residuos de la construcción los libra al depósito controlado y quien tiene la titularidad del depósito los acepta.
+
+### Artículo 23
+
+Artículo 23. Base imponible.
+1. La base imponible está constituida por la cantidad de residuos de la construcción expresada en toneladas que se destinan a la deposición.
+2. La base imponible se determina por el régimen de estimación directa, con carácter preferente, mediante la aplicación de sistemas de peso o volumen homologados, y subsidiariamente, solo en caso de que no se pueda aplicar este sistema, por la vía de estimación indirecta.
+3. Para determinar la base imponible por la vía de estimación indirecta, la Administración puede tener en cuenta cualquier dato, circunstancia o antecedente del sujeto pasivo indicativo del tonelaje de residuos de la construcción destinados a la deposición.
+
+### Artículo 24
+
+Artículo 24. Tipos de gravamen.
+Se fija el tipo de gravamen general en la cantidad de tres euros por tonelada de residuos de la construcción destinados a la deposición controlada.
+Véase sobre reducción del tipo de gravamen, durante el periodo comprendido entre el 1 de abril y el 31 de mayo de 2020, el art. 3 del Decreto-ley 11/2020, de 9 de abril. Ref. BOE-A-2020-5648#a3
+
+### Artículo 25
+
+Artículo 25. Cuota íntegra.
+La cuota tributaria es el resultado de aplicar a la base imponible el tipo de gravamen aplicable, de acuerdo con el artículo 24.
+
+## Sección III
+
+Sección III. Gestión de los cánones
+
+### Artículo 26
+
+Artículo 26. Gestión.
+1. El período de liquidación de los cánones debe coincidir con el trimestre natural.
+2. Los sujetos pasivos deben presentar una autoliquidación durante los veinte primeros días naturales del mes siguiente al período de liquidación trimestral correspondiente, en el lugar y del modo que apruebe la Agencia de Residuos de Cataluña.
+3. La deuda tributaria debe determinarse a partir de los datos contenidos en el libro registro de entradas de residuos o a partir del tonelaje facturado trimestralmente.
+4. La falta de presentación de la autoliquidación determina que la Administración de oficio gire la liquidación provisional que corresponda, de acuerdo con lo establecido por la Ley del Estado 58/2003, de 17 de diciembre, general tributaria.
+5. La gestión, comprobación, inspección y revisión de los actos derivados de la aplicación de los cánones, salvo la reclamación económico-administrativa, corresponden a la Agencia de Residuos de Cataluña.
+
+### Artículo 27
+
+Artículo 27. Infracciones y sanciones.
+El régimen de infracciones y sanciones aplicable a la gestión de los cánones sobre la deposición controlada y la incineración de residuos municipales, sobre la deposición controlada de los residuos industriales y sobre la deposición controlada de los residuos de la construcción es el vigente para el resto de tributos de la Generalidad.
+Se modifica por el art. 7 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Normativa general de aplicación.
+En todo lo que no regula la presente ley es de aplicación la normativa general relativa a los tributos de la Generalidad.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Incremento de los tipos de gravamen.
+1. Los tipos de gravamen regulados por la presente ley pueden ser incrementados anualmente mediante la ley de presupuestos.
+2. Los tipos de gravamen del canon sobre la deposición controlada e incineración de residuos municipales regulado por el artículo 15 se alcanza gradualmente, en el plazo de cuatro años, de acuerdo con la siguiente tabla:
+Año de aplicación
+ Tipo de gravamen por deposición
+ Tipo de gravamen por incineración
+ 2020
+ 47,10 euros/tonelada
+ 23,60 euros/tonelada
+ 2021
+ 53,10 euros/tonelada
+ 26,50 euros/tonelada
+ 2022
+ 59,10 euros/tonelada
+ 29,60 euros/tonelada
+ 2023
+ 65,30 euros/tonelada
+ 32,70 euros/tonelada
+ 2024
+ 71,60 euros/tonelada
+ 35,80 euros/tonelada
+A partir de 2018, a las instalaciones de incineración de residuos que no dispongan de la acreditación de eficiencia energética (R1) definida por la Directiva 2008/98/CE, del Parlamento Europeo y del Consejo, de 19 de noviembre, sobre residuos, les es aplicable el tipo de gravamen por deposición.
+Se modifica el apartado 2 por el art. 1.6 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+ Se modifica por el art. 1.5 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Canon sobre la deposición controlada de residuos industriales.
+El tipo de gravamen del canon sobre la deposición controlada de residuos industriales regulado por el artículo 16 novies se alcanza gradualmente, en el plazo de cuatro años, de acuerdo con la siguiente tabla:
+Año de aplicación
+ Tipo de gravamen
+ 2014
+ 3,95 euros
+ 2015
+ 7,90 euros
+ 2016
+ 11,85 euros
+ 2017
+ 15,80 euros
+No obstante, las industrias o los sectores industriales que presenten un acuerdo voluntario con la Generalidad para impulsar la valorización de sus residuos durante el ejercicio de 2014 están exentas del canon desde la fecha de firma del acuerdo hasta la fecha de finalización del mismo.
+Téngase en cuenta que se prorroga para el ejercicio 2015 el plazo indicado en el último párrafo, según establece la disposición final 2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+Se prorroga para el ejercicio 2015 el plazo indicado en el último párrafo por la disposición final 2 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se añade por el art. 8 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Devolución del canon sobre la disposición de residuos.
+Las personas que se encuentren en el supuesto del artículo 16 undecies y que hayan satisfecho el canon sobre la disposición de residuos antes de la entrada en vigor de la presente disposición adicional tienen derecho a la devolución de las cantidades satisfechas, en los siguientes términos:
+a) La devolución se efectúa a instancia de parte y siempre y cuando se acredite fehacientemente que se ha satisfecho el canon.
+b) La solicitud puede presentarse en el plazo de un mes a contar desde la entrada en vigor de la presente disposición adicional.
+c) El plazo para devolver los importes pagados por este concepto es de dos meses a contar desde la presentación de la solicitud.
+d) El derecho a la devolución solamente produce interés una vez transcurrido el plazo establecido por la letra c.
+Se añade por el art. 1.6 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Exigibilidad de los gravámenes establecidos por los artículos 15.3 y 24.
+Los tipos de gravamen establecidos por los artículos 15.3 y 24 son exigibles el primer trimestre natural del año del ejercicio presupuestario posterior a la fecha de entrada en vigor de la presente ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Exigibilidad de los gravámenes establecidos por los artículos 15.2 y 15.4.
+Los tipos de gravamen establecidos por los artículos 15.2 y 15.4 son exigibles el primer trimestre natural del año del ejercicio presupuestario posterior al del año en que se cumplan las condiciones de aplicación establecidas por dichos artículos.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen transitorio para el canon sobre la deposición controlada de los residuos de la construcción.
+El tipo de gravamen establecido por el artículo 24 se fija en la cantidad de un euro y medio por tonelada de residuos de la construcción destinados a la deposición controlada hasta el 31 de diciembre de 2017.
+Se añade por el art. 1.7 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353 #a1
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se deroga la Ley 16/2003, de 13 de junio, de financiación de las infraestructuras de tratamiento de residuos y del canon sobre la deposición de residuos.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Gobierno y al consejero del departamento competente en materia de medio ambiente para desarrollar y ejecutar las disposiciones de la presente ley.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 10 de julio de 2008.
+El Presidente,
+ El Consejero de Medio Ambiente y Vivienda,
+ José Montilla i Aguilera
+ Francesc Baltasar i Albesa

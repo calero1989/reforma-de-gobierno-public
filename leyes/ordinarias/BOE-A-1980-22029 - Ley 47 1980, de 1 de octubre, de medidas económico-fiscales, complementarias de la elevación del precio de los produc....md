@@ -1,0 +1,91 @@
+# Ley 47/1980, de 1 de octubre, de medidas económico-fiscales, complementarias de la elevación del precio de los productos petrolíferos.
+
+- Identificador BOE: `BOE-A-1980-22029`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-22029
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 275, de 15 de noviembre de 1980. Ref. BOE-A-1980-25001.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+(Derogado)
+Se deroga por la disposición final.1 del Real Decreto Legislativo 875/1981, de 27 de marzo. Ref. BOE-A-1981-11204.
+
+### Artículo segundo
+
+Artículo segundo.
+Uno. Con efectos desde el uno de enero de mil novecientos ochenta se suprime el gravamen sobre tenencia y disfrute de automóviles regulado en el artículo treinta y cinco del texto refundido de la Ley del Impuesto sobre el Lujo, sin perjuicio de la compensación que proceda a las Corporaciones Locales, que se hará efectiva mediante subvención del Estado a los Ayuntamientos con cargo a los Presupuestos Generales del Estado.
+Dos. Dicha subvención será de una cuantía igual a la suma del noventa por ciento de la recaudación obtenida por dicha modalidad impositiva en mil novecientos setenta y nueve, más la totalidad del importe recaudado en el referido mil novecientos setenta y nueve por Patente Nacional de Automóviles, y se distribuirá entre los Ayuntamientos según los criterios establecidos en el artículo ciento veintitrés del Real Decreto tres mil doscientos cincuenta/mil novecientos setenta y seis, de treinta de diciembre.
+
+### Artículo tercero
+
+Artículo tercero.
+La participación creada por el artículo ocho del Real Decreto-ley once/mil novecientos setenta y nueve, de veinte de julio, a favor de los Ayuntamientos, sobre el Impuesto Especial sobre el Petróleo, sus Derivados y Similares, en cuanto grava las ventas o entregas de gasolinas para la automoción, incluidas en la tarifa cuarta epígrafe sexto, b), dos, de la Ley treinta/mil novecientos setenta y nueve, de treinta de noviembre, será del cuatro coma cuatrocientos setenta y cuatro por ciento sobre el precio de venta al público, incluidos impuestos, a partir de la fecha de elevación de los precios del petróleo y sus derivados, acordada por Orden ministerial de siete de enero de mil novecientos ochenta.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Uno. Con efectos desde el siete de enero de mil novecientos ochenta se crea una exacción reguladora de precios en el ámbito territorial de Canarias, Ceuta y Melilla, sobre las gasolinas de automoción, por cuantía absoluta igual a la participación en el Impuesto Especial sobre el Petróleo, sus Derivados y Similares, reconocida, en cada momento, a favor de los Ayuntamientos situados en el área del Monopolio de Petróleos.
+Dos. Esta exacción, referida a Ceuta y Melilla, se ingresará en el Fondo Nacional de Cooperación Municipal.
+Tres. El Gobierno, previo el informe a que se refiere la disposición adicional tercera de la Constitución Española, regulará la forma y los criterios de distribución de esta exacción entre los Ayuntamientos de las islas Canarias.
+Queda derogada, con efectos de 11 de febrero de 1983, la exacción reguladora de precios en el ámbito territorial de Canarias, sobre las gasolinas de automoción, por el art. único del Real Decreto-ley 14/1984, de 19 de diciembre. Ref. BOE-A-1984-27960
+ Queda derogada la exacción reguladora de precios en el ámbito territorial de Canarias, Ceuta y Melilla, sobre las gasolinas de automoción, por el art. 1 del Real Decreto-ley 1/1983, de 9 de febrero. Ref. BOE-A-1983-4625:
+ Téngase en cuenta que la Sentencia del TC 35/1984, de 13 de marzo. Ref. BOE-T-1984-8179, declara la inconstitucionalidad y nulidad del citado Real Decreto-ley 1/1983, de 9 de febrero, en todo lo que se refiere a las Islas Canarias, por el que se deroga la exacción sobre el precio de las gasolinas de automoción.
+Se deroga, con efectos de 11 de febrero de 1983, la exacción reguladora de precios en el ámbito territorial de Canarias, sobre las gasolinas de automoción, por el art. único del Real Decreto-ley 14/1984, de 19 de diciembre. Ref. BOE-A-1984-27960
+ Se deroga la exacción reguladora de precios en el ámbito territorial de Canarias, Ceuta y Melilla, sobre las gasolinas de automoción, por el art. 1 del Real Decreto-ley 1/1983, de 9 de febrero. Ref. BOE-A-1983-4625
+ Téngase en cuenta que la Sentencia del TC 35/1984, de 13 de marzo. Ref. BOE-T-1984-8179, declara la inconstitucionalidad y nulidad del citado Real Decreto-ley 1/1983, de 9 de febrero, en todo lo que se refiere a las Islas Canarias, por el que se deroga la exacción sobre el precio de las gasolinas de automoción.
+
+### Artículo quinto
+
+Artículo quinto.
+Se conceden los siguientes créditos extraordinarios en los Presupuestos Generales del Estado para mil novecientos ochenta.
+Primero. Sección veinte: «Ministerio de Industria y Energía»; Servicio cero uno, «Ministerio, Subsecretaría y Servicios Generales»; artículo cuarenta y seis, «A Empresas comerciales, industriales o financieras»:
+Ocho mil setecientos millones de pesetas al concepto cuatrocientos sesenta y dos (nuevo); «Para subvencionar la producción de fertilizantes para el consumo interior. El Ministerio de Industria y Energía, previo informe de los Ministerios de Agricultura y de Hacienda, establecerá los criterios y procedimientos de aplicación de la subvención, de forma que no se rebase el crédito concedido».
+Segundo. En la Sección treinta y uno, «Gastos de diversos Ministerios»; Sección cero tres, «Corporaciones Locales»:
+a) Dos mil millones de pesetas al concepto cuatrocientos treinta y siete (nuevo), «Subvención compensadora de la supresión de gravamen sobre tenencia y disfrute de automóviles». Este crédito será ampliable hasta la cifra de la efectiva recaudación a que se refiere el artículo anterior.
+b) Dos mil seiscientos treinta y cinco millones de pesetas. Suplemento de crédito al concepto cuatrocientos treinta y cinco, «Para abono al fondo de compensación de la participación en carburantes establecida en el artículo octavo del Real Decreto-ley once/mil novecientos setenta y nueve, de veinte de julio».
+c) Seis millones de pesetas al concepto cuatrocientos treinta y ocho (nuevo), «Para satisfacer a los Ayuntamientos de Canarias, Ceuta y Melilla su participación en la exacción creada en el artículo cuarto de este Real Decreto-ley. Este crédito será ampliable hasta el importe efectivo de la recaudación que se obtenga».
+Tercero. La financiación de estos créditos extraordinarios se efectuará:
+a) Mediante anulación de tres mil setecientos millones de pesetas en el concepto cuatrocientos sesenta y uno punto uno, de la Sección veinte, «Ministerio de Industria y Energía»; Servicio cero uno.
+b) Mediante los mayores recursos aplicables al presupuesto de ingresos derivados de esta norma.
+c) Mediante anticipos de Tesorería del Banco de España por el resto.
+
+### Artículo sexto
+
+Artículo sexto.
+Con cargo a la renta de petróleos se subvencionará la bombona de butano de doce coma cinco kilogramos para consumo exclusivamente doméstico, hasta un importe máximo de trece mil quinientos millones de pesetas durante el ejercicio de mil novecientos ochenta. La aplicación y control de esta subvención se realizará por la Delegación del Gobierno en el Monopolio de Petróleos.
+Redactado conforme a la corrección de errores publicada en BOE núm. 275, de 15 de noviembre de 1980. Ref. BOE-A-1980-25001.
+
+### Disposición transitoria
+
+El importe del aumento del gravamen en dos pesetas litro de carburante, establecido por el artículo octavo del Real Decreto-ley once/mil novecientos setenta y nueve, de veinte de julio, en el Impuesto Estatal sobre el Lujo que grava la venta de gasolina carburante, traducido en una correlativa participación de igual cuantía a dicho aumento, en favor de los Ayuntamientos, que en las islas Canarias se entiende referido al Arbitrio Insular sobre el Lujo, establecido por el artículo veinticuatro de la Ley treinta/mil novecientos setenta y dos, de veintidós de julio, se distribuirá directamente por la Junta de Canarias a los Ayuntamientos Canarios, de acuerdo con los criterios que se establezcan en el artículo cuarto, tres, anterior.
+
+## Disposiciones finales
+
+DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+Se autoriza al Gobierno, a propuesta del Ministerio de Hacienda, para que proceda a efectuar una mera refundición de las disposiciones vigentes de los tributos afectados por esta Ley.
+
+### Segunda
+
+Segunda.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial del Estado» y simultáneamente quedará derogado el Real Decreto-ley dos/mil novecientos ochenta de once de enero.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a uno de octubre de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

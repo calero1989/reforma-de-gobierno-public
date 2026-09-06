@@ -1,0 +1,613 @@
+# Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal.
+
+- Identificador BOE: `BOE-A-2006-9958`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-9958
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución en su artículo 20 garantiza valores de pluralismo, veracidad y accesibilidad con el fin de contribuir a la formación de una opinión pública informada y prevé la regulación por ley de la organización y el control parlamentario de los medios de comunicación social dependientes del Estado.
+La actividad de los medios de comunicación de titularidad pública ha de regirse por un criterio de servicio público, lo que delimita su organización y financiación, los controles a los que quedan sujetos, así como los contenidos de sus emisiones y las garantías del derecho de acceso.
+El fin de la presente Ley es, por una parte, dotar a la radio y a la televisión de titularidad estatal de un régimen jurídico que garantice su independencia, neutralidad y objetividad y que establezca estructuras organizativas y un modelo de financiación que les permita cumplir su tarea de servicio público con eficacia, calidad y reconocimiento público. Por otra, refuerza la intervención del Parlamento y prevé la supervisión de su actividad por una autoridad audiovisual independiente.
+La Ley recoge las principales propuestas del informe elaborado por el Consejo para la reforma de los medios de comunicación de titularidad del Estado creado por el Real Decreto 744/2004, de 23 de abril. Asume la necesidad de una reforma, para elevar las exigencias de neutralidad, transparencia y calidad; superar una regulación insuficiente y anticuada; y establecer un mecanismo de financiación estable y sostenido para adecuarse a los principios comunitarios de proporcionalidad y transparencia en la gestión del servicio público de radio y televisión, evitando un proceso de financiación de déficit corrientes mediante el recurso al endeudamiento.
+La reforma resulta inevitable en un contexto de desarrollo tecnológico, la aparición de nuevos operadores públicos autonómicos y privados, la difusión de estos servicios mediante el satélite y el cable, su coexistencia con los servicios de la Sociedad de la Información y la evolución hacia sistemas de transmisión digital.
+La Ley desarrolla los siguientes principios básicos inspirados en las propuestas del informe del Consejo para la reforma de los medios de comunicación de titularidad del Estado.
+En primer lugar, mantiene la titularidad pública de la radio y la televisión estatales.
+En segundo lugar, refuerza y garantiza su independencia, mediante un estatuto y órganos de control adecuados. Esta última tarea se confía a las Cortes Generales y a un organismo supervisor que se configura como autoridad independiente que actúa con autonomía respecto de las Administraciones públicas.
+En tercer lugar, confirma su carácter de servicio público, con el objetivo de conciliar la rentabilidad social que debe inspirar su actividad, con la necesidad de dirigirse a la más amplia audiencia en su programación, atendiendo asimismo a fines sociales, educativos e integradores.
+En cuarto lugar, establece un sistema que garantice una gestión económica ordenada y viable, basada en una financiación mixta, con una subvención pública dentro de los límites marcados por las normas y los criterios de transparencia y proporcionalidad que establece la Unión Europea y unos ingresos derivados de su actividad comercial sujetos a principios de mercado. Asimismo, se establece la posibilidad de incorporar reglas adicionales sobre las limitaciones de emisiones publicitarias a las previstas para los operadores privados de televisión, a concretar en los contratos-programa.
+La Ley define la función del servicio público estatal de televisión y radio, con una programación de calidad y el fomento de la producción española y europea, que incorpora la oferta de servicios conexos e interactivos. Encomienda dicha función a la Corporación RTVE y a sus sociedades filiales encargadas de la prestación directa del servicio público.
+La Ley prevé otras garantías de independencia para los profesionales de los medios públicos, como el Consejo de Informativos, órgano de participación de los profesionales para asegurar la neutralidad y la objetividad de los contenidos informativos. Asimismo, establece un Consejo Asesor que encauce la participación de los grupos sociales significativos.
+La Ley crea la Corporación RTVE, una sociedad mercantil estatal dotada de especial autonomía, sujeta en lo esencial a la legislación reguladora de las sociedades anónimas y cuyo capital social será íntegramente estatal. La Corporación dispone de dos sociedades filiales mercantiles encargadas de la prestación directa del servicio público: la Sociedad Mercantil Estatal Televisión Española, en el ámbito de los servicios de televisión, conexos e interactivos; y la Sociedad Mercantil Estatal Radio Nacional de España, en el ámbito de los servicios de radio, conexos e interactivos.
+La organización de la Corporación se rige por la regulación societaria y las especialidades que recoge la presente Ley. Sus bienes y derechos serán en todo caso de dominio privado o patrimoniales y su personal se regirá por relaciones laborales, comunes o especiales, sujetas a los derechos y deberes contenidos en el Estatuto de los Trabajadores.
+Su gestión corresponde a un Consejo de Administración integrado por doce miembros de designación parlamentaria: cuatro por el Senado y ocho por el Congreso, de los cuales dos serán propuestos por las centrales sindicales más representativas a nivel estatal y con representación en la Corporación y en sus sociedades. Los miembros del Consejo de Administración deberán contar con suficiente cualificación y experiencia para un desempeño profesional de sus responsabilidades; su mandato será de seis años, salvo en su primera formación, con renovaciones trienales por mitades; quedan sometidos al régimen mercantil, con determinadas especialidades que detalla la presente Ley; y a reglas especiales de responsabilidad, comprendida la posibilidad del cese del Consejo en caso de gestión económica gravemente perjudicial para la Corporación.
+Asimismo el Congreso, de entre los consejeros designados, designará al Presidente de la Corporación y del Consejo de Administración, el cual desempeñará la dirección ejecutiva ordinaria de la misma, actuando conforme a los criterios, objetivos generales o instrucciones que establezca el referido Consejo.
+La Ley establece los principios que deben regir la producción y programación de sus contenidos, comprendida la garantía del derecho de acceso de los grupos sociales y políticos significativos.
+Para el cumplimiento de la misión de servicio público se establecen los siguientes instrumentos: un mandato-marco que aprobarán las Cortes concretando los objetivos generales de dicha función de servicio público, con una vigencia de nueve años; un contrato-programa trienal, que suscribirán el Gobierno y la Corporación RTVE fijando los objetivos específicos a desarrollar en el ejercicio de la función de servicio público y los medios presupuestarios para atender dichas necesidades, previo informe de la autoridad audiovisual y una vez informadas las Cortes Generales; un sistema de contabilidad analítica, que garantice la transparencia financiera y permita determinar el coste neto de las obligaciones de servicio público impuestas; y un control económico-financiero a cargo de la Intervención General de la Administración del Estado y del Tribunal de Cuentas.
+El contrato-programa, en particular, determinará las aportaciones anuales con cargo a los Presupuestos Generales del Estado para cada ejercicio; el modo de adaptar los objetivos acordados a las variaciones del entorno económico; los efectos derivados de posibles incumplimientos; y el control de su ejecución y de los resultados derivados de su aplicación.
+Por último, para preservar la continuidad del servicio público estatal de radio y televisión, la Ley establece un régimen transitorio hasta la disolución del Ente Público RTVE y la entrada en funcionamiento de la Corporación RTVE y de sus sociedades prestadoras del servicio público de radio y televisión.
+
+## TÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto regular el servicio público de radio y de televisión de titularidad del Estado y establecer el régimen jurídico de las entidades a las que se encomienda la prestación de dichos servicios públicos.
+
+### Artículo 2
+
+Artículo 2. Servicio público de radio y televisión del Estado.
+1. El servicio público de radio y televisión de titularidad del Estado es un servicio esencial para la comunidad y la cohesión de las sociedades democráticas que tiene por objeto la producción, edición y difusión de un conjunto de canales de radio y televisión con programaciones diversas y equilibradas para todo tipo de público, cubriendo todos los géneros y destinadas a satisfacer necesidades de información, cultura, educación y entretenimiento de la sociedad española; difundir su identidad y diversidad culturales; impulsar la sociedad de la información; promover el pluralismo, la participación y los demás valores constitucionales, garantizando el acceso de los grupos sociales y políticos significativos.
+2. La función de servicio público comprende la producción de contenidos y la edición y difusión de canales generalistas y temáticos, en abierto o codificados, en el ámbito nacional e internacional, así como la oferta de servicios conexos o interactivos, orientados a los fines mencionados en el apartado anterior.
+3. Sus servicios de difusión de radio y televisión tendrán por objetivo alcanzar una cobertura universal, entendiendo por tal la mayor cobertura posible dentro del territorio nacional.
+
+### Artículo 3
+
+Artículo 3. Encomienda del servicio público de radio y televisión.
+1. Se atribuye a la Corporación de Radio y Televisión Española, S. A., Corporación RTVE, la gestión del servicio público de radio y televisión en los términos que se definen en esta Ley.
+2. En el ejercicio de su función de servicio público, la Corporación RTVE deberá:
+a) Promover el conocimiento y difusión de los principios constitucionales y los valores cívicos.
+b) Garantizar la información objetiva, veraz y plural, que se deberá ajustar plenamente al criterio de independencia profesional y al pluralismo político, social e ideológico presente en nuestra sociedad, así como a la norma de distinguir y separar, de forma perceptible, la información de la opinión.
+c) Facilitar el debate democrático y la libre expresión de opiniones.
+d) Promover la participación democrática mediante el ejercicio del derecho de acceso.
+e) Promover la cohesión territorial, la pluralidad y la diversidad lingüística y cultural de España.
+f) Impulsar el intercambio de la información y el conocimiento mutuo entre los ciudadanos de los Estados miembros de la Unión Europea como espacio común de convivencia.
+g) Editar y difundir canales radiofónicos y de televisión de cobertura internacional que coadyuven a la proyección hacia el exterior de las lenguas y culturas españolas y a la adecuada atención a los ciudadanos españoles residentes o desplazados en el extranjero.
+h) Ofrecer acceso a los distintos géneros de programación y a los acontecimientos institucionales, sociales, culturales y deportivos, dirigidos a todos los sectores de la audiencia, prestando atención a aquellos temas de especial interés público.
+i) Promover la difusión y conocimiento de las producciones culturales españolas, particularmente las audiovisuales.
+j) Apoyar la integración social de las minorías y atender a grupos sociales con necesidades específicas.
+k) Fomentar la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación entre ellos.
+l) Promover el conocimiento de las artes, la ciencia, la historia y la cultura.
+m) Difundir el conocimiento de los derechos de los consumidores y usuarios, así como desarrollar procedimientos que garanticen el derecho de réplica.
+n) Fomentar la producción de contenidos audiovisuales europeos y en lenguas originarias españolas y promover la creación digital y multimedia, como contribución al desarrollo de las industrias culturales españolas y europeas.
+o) Velar por la conservación de los archivos históricos audiovisuales.
+p) Tener por objetivo atender a la más amplia audiencia, asegurando la máxima continuidad y cobertura geográfica y social, con el compromiso de ofrecer calidad, diversidad, innovación y exigencia ética.
+q) Promoción de los valores de la paz.
+r) La promoción del conocimiento, la salvaguarda y el respeto de los valores ecológicos y de protección del medio ambiente.
+s) Preservar los derechos de los menores.
+3. Forma parte de la función de servicio público de radio y televisión contribuir al desarrollo de la Sociedad de la Información. Para ello participarán en el progreso tecnológico, utilizando las diferentes tecnologías y vías de difusión, y desarrollarán nuevos servicios conexos o interactivos, susceptibles de enriquecer o completar su oferta de programación, y de acercar las diferentes Administraciones Públicas a los ciudadanos. Igualmente se promoverán medidas que eviten cualquier forma de discriminación por causa de discapacidad.
+4. El conjunto de las producciones y emisiones de radio y televisión efectuadas por la Corporación RTVE deberá cumplir con las obligaciones integradas en la función de servicio público definida en la presente Ley.
+5. La Corporación dispondrá de los medios para la integración de su servicio dentro de los planes de emergencia y catástrofes que se establezcan por los diferentes ámbitos territoriales.
+Se modifican los apartados 1 y 4 por la disposición final 2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 4
+
+Artículo 4. Mandato-marco a la Corporación RTVE.
+Las Cortes Generales aprobarán mandatos-marco a la Corporación RTVE en los que se concretarán los objetivos generales de la función de servicio público que tiene encomendados. La propuesta de mandato-marco se elevará al Pleno del Congreso de los Diputados, junto con las propuestas de modificación a la misma que, en su caso, formulen los grupos parlamentarios, para su aprobación o rechazo, por mayoría absoluta. La propuesta resultante se someterá al pronunciamiento del Pleno Senado, que podrá aprobarla, vetarla o enmendarla por mayoría absoluta, en el plazo de 20 días. Posteriormente el Congreso habrá de pronunciarse, en su caso, sobre el veto o las enmiendas del Senado, que aceptará o rechazará definitivamente por mayoría absoluta, en el plazo de 20 días.
+Los mandatos-marco tendrán una vigencia de ocho años prorrogable. Los objetivos aprobados en el mandato-marco serán desarrollados cada cuatro años en los contratos-programa acordados por el Gobierno con la Corporación RTVE.
+Se modifica por el art. único.1 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica por la disposición final 3.1 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-3
+
+## TÍTULO II
+
+La Corporación de Radio y Televisión Española
+
+## CAPÍTULO I
+
+Naturaleza y régimen jurídico
+
+### Artículo 5
+
+Artículo 5. Naturaleza jurídica.
+1. La Corporación de Radio y Televisión Española es una sociedad mercantil estatal con especial autonomía, prevista en el apartado 3 de la disposición adicional duodécima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, dotada de personalidad jurídica y plena capacidad.
+2. La Corporación RTVE tendrá la forma de sociedad anónima, cuyo capital social será de titularidad íntegramente estatal.
+3. La Corporación RTVE gozará de autonomía en su gestión y actuará con independencia funcional respecto del Gobierno y de la Administración General del Estado.
+
+### Artículo 6
+
+Artículo 6. Régimen jurídico.
+1. La Corporación RTVE se regirá en primer lugar por la presente Ley y sus estatutos sociales; en segundo lugar por la legislación audiovisual y por las normas reguladoras de las sociedades mercantiles estatales en lo que le sea de aplicación, y, en defecto de la anterior normativa, por la legislación mercantil.
+2. Los estatutos sociales de la Corporación RTVE se ajustarán a lo dispuesto en esta Ley; en su defecto, a la legislación especial que le sea aplicable, y, a falta de normas especiales, a la legislación mercantil. Los estatutos sociales de la Corporación RTVE y sus modificaciones serán aprobados por su Junta general de accionistas previo acuerdo favorable del Consejo de Ministros y se inscribirán en el Registro Mercantil.
+3. Las funciones que se atribuyen a la Corporación RTVE, se entenderán sin perjuicio de las atribuidas en esta Ley al Gobierno, a las Cortes Generales, o a la autoridad audiovisual y de las que en período electoral desempeñe la Administración electoral.
+
+### Artículo 7
+
+Artículo 7. Estructura de la Corporación RTVE.
+1. (Sin contenido)
+2. La Corporación RTVE podrá constituir o participar en el capital de toda clase de entidades que adopten la forma de sociedad mercantil y cuyo objeto social esté vinculado con las actividades y funciones de aquélla, incluidas las de servicio público. La adquisición o pérdida de la participación mayoritaria, directa o indirecta, de la Corporación RTVE en el capital social de dichas sociedades requerirá la previa autorización del Consejo de Ministros.
+3. La Corporación RTVE incluirá en su objeto social además de las actividades necesarias para el ejercicio de sus funciones de servicio público, cualesquiera otras relacionadas con la radiodifusión, y entre ellas, las de formación e investigación audiovisual.
+4. La Corporación RTVE contará con la estructura territorial necesaria para atender la adecuada prestación de sus funciones de servicio público, proveer de contenidos regionalizados a la realidad estatal, contribuir al desarrollo de la cohesión interterritorial, atendiendo el hecho insular y las condiciones de regiones ultraperiféricas.
+Las desconexiones se harán en la lengua propia de las CC.AA.
+5. La Corporación RTVE no podrá ceder a terceros la producción y edición de los programas informativos y de aquellos que expresamente determine el mandado marco.
+6. La Corporación RTVE podrá crear fundaciones para coadyuvar a las actividades relacionadas con su objeto social, así como con las funciones de servicio público encomendadas.
+Se deja sin contenido el apartado 1, se modifica el apartado 2, se suprime el párrafo 2 del apartado 3 y se modifica el apartado 5 por la disposición final 2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+ Se modifica el párrafo 2 del apartado 3 por la disposición final 1.1 de la Ley 8/2009, de 28 de Agosto. Ref. BOE-A-2009-13988
+
+### Artículo 8
+
+Artículo 8. Cooperación.
+Para la mejor consecución de las funciones de servicio público encomendadas, la Corporación RTVE podrá celebrar convenios de colaboración con otras entidades de servicio público de radio, de televisión y de noticias. Asimismo podrá suscribir convenios u otros acuerdos con las Administraciones públicas y sus organismos y con otras entidades nacionales o internacionales.
+
+## CAPÍTULO II
+
+Organización de la Corporación RTVE
+
+### Artículo 9
+
+Artículo 9. Órganos de la Corporación.
+1. La organización de la Corporación RTVE se regirá de conformidad con lo dispuesto en la legislación mercantil para las sociedades anónimas, con las especialidades establecidas en la presente Ley.
+2. La administración y gobierno de la Corporación RTVE corresponderá al Consejo de Administración, que desarrollará sus funciones de dirección ejecutiva ordinaria a través de su Presidente, que presidirá la Corporación RTVE.
+3. Para el mejor cumplimiento de las funciones públicas encomendadas, la Corporación RTVE constituirá un Consejo Asesor y Consejos de Informativos. Asimismo, se podrán crear por el Consejo de Administración otros órganos de participación o asesoramiento que se estimen necesarios, de acuerdo con lo establecido en esta Ley y en sus estatutos.
+
+## Sección I
+
+Sección I. Consejo de Administración
+
+### Artículo 10
+
+Artículo 10. Composición.
+1. El Consejo de Administración de la Corporación RTVE estará compuesto por quince miembros, todos ellos personas con suficiente cualificación y experiencia profesional, respetando el principio de presencia equilibrada de mujeres y hombres en su composición, tal y como establece la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres y la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres.
+2. Los acuerdos del Consejo de Administración se adoptarán por mayoría de sus miembros, salvo en los supuestos en que se exija mayoría cualificada por la presente Ley o por los estatutos sociales.
+Se modifica el apartado 1 por el art. único.2 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica el apartado 1 por el art. único.1 de la Ley 5/2017, de 29 de septiembre. Ref. BOE-A-2017-11091
+ Se modifica el apartado 1 por el art. 1.1 del Real Decreto-ley 15/2012, de 20 de abril. Ref. BOE-A-2012-5338.
+ Téngase en cuenta que se declara la inconstitucionalidad y nulidad del art. 1.1 del Real Decreto-ley 15/2012 por Sentencia del TC 150/2017, de 21 de diciembre. Ref. BOE-A-2018-612
+
+### Artículo 11
+
+Artículo 11. Elección.
+1. Los miembros del Consejo de Administración serán elegidos por las Cortes Generales, a razón de once por el Congreso de los Diputados y cuatro por el Senado.
+2. Los candidatos serán propuestos por los grupos parlamentarios en cada una de las Cámaras.
+Las personas propuestas deberán comparecer previamente en audiencia pública en las correspondientes Comisiones de Nombramientos del Congreso de los Diputados y del Senado, en la forma que reglamentariamente se determine, con el fin de que ambas Cámaras puedan informarse de su idoneidad para el cargo.
+La elección se llevará a cabo por el Pleno de cada Cámara por mayoría de dos tercios.
+De no alcanzarse dicha mayoría de dos tercios en cualquiera de las dos Cámaras, trascurridas cuarenta y ocho horas se someterá a votación la elección de las personas cuya idoneidad se hubiese apreciado, requiriéndose en esta segunda vuelta la mayoría absoluta para la elección.
+3. El Congreso de los Diputados designará, de entre los consejeros electos con los que se constituya el Consejo de Administración, de acuerdo con lo previsto en el artículo 12, a la persona que desempeñará la presidencia de la Corporación RTVE y del Consejo. Tal designación requerirá una mayoría de dos tercios de la Cámara.
+De no alcanzarse la mayoría de dos tercios, esa misma propuesta se someterá a una nueva votación cuarenta y ocho horas después de la anterior, requiriéndose la mayoría absoluta para la elección en esta segunda vuelta.
+4. Si de acuerdo con las mayorías anteriormente previstas las Cámaras no hubieran procedido a la elección de los consejeros que le correspondan, o a la elección de la persona titular de la presidencia, el Gobierno propondrá el nombramiento de un Administrador Provisional Único para la Corporación, cuya elección se someterá a la votación del Pleno del Congreso de los Diputados. La elección de dicho administrador requerirá la obtención de la mayoría de dos tercios en primera votación y, de no obtenerse, de mayoría absoluta en una segunda vuelta, transcurridas cuarenta y ocho horas desde la primera. El Administrador Provisional Único tendrá un mandato máximo de tres meses, que será prorrogable si en este periodo no se hubiera procedido a la elección de los consejeros que corresponda o, en su caso, a la elección de la persona titular de la Presidencia.
+El administrador provisional único se encargará de la administración y representación de la Corporación hasta que se produzcan los nombramientos de los consejeros y de la presidencia de acuerdo con el procedimiento anteriormente previsto. En el ejercicio de sus funciones, ostentará las competencias que la presente ley atribuye al Consejo de Administración y a la presidencia.
+Se modifica por el art. único.3 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica por el art. único.2 de la Ley 5/2017, de 29 de septiembre. Ref. BOE-A-2017-11091
+ Se modifican los apartados 1,3,4 y se suprime el 2 por el art. 1.2 a 5 del Real Decreto-ley 15/2012, de 20 de abril. Ref. BOE-A-2012-5338.
+ Téngase en cuenta que se declara la inconstitucionalidad y nulidad del art. 1.2 y 3 y el inciso "de entre los nueve consejeros electos" del 5 del Real Decreto-ley 15/2012 por Sentencia del TC 150/2017, de 21 de diciembre. Ref. BOE-A-2018-612
+ Se modifica el apartado 2 por la disposición final 2.7 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 12
+
+Artículo 12. Mandato.
+1. El mandato de los consejeros será de seis años contados desde su nombramiento pudiendo ser reelegidos en la primera renovación, pero no en las sucesivas. La renovación se realizará de acuerdo con el procedimiento previsto en esta ley, por otro mandato más. Concluido el mandato, los consejeros cesantes continuarán en funciones hasta el nombramiento de sus sucesores, en los términos previstos en el apartado cuarto de este artículo.
+2. Si durante el periodo de sus respectivos mandatos se produjera el cese de alguno de los miembros del Consejo de Administración, las personas designadas para sustituirles lo serán por el tiempo que reste del mandato de su antecesor. Las vacantes deberán ser cubiertas por las Cámaras a propuesta de los grupos parlamentarios.
+3. El Consejo de Administración se renovará en su totalidad cada seis años.
+Expirado el mandato de los consejeros, o habiéndose producido alguna vacante por cualquiera de las causas de cese recogidas en la presente ley, el procedimiento de elección previsto en el artículo once se iniciará en el plazo de los quince días siguientes al que tuvo lugar el fin del mandato o el cese. Las respectivas presidencias del Congreso de los Diputados y del Senado deberán adoptar las medidas necesarias para que la renovación se produzca en plazo.
+4. Si alguna de las dos Cámaras no hubiera efectuado en el plazo legalmente previsto la designación de los consejeros que le correspondan, el Consejo de Administración se renovará parcialmente, quedando constituido exclusivamente con los nuevos consejeros designados, siempre que se haya alcanzado la renovación de, al menos, los dos tercios del órgano.
+5. El nombramiento de consejeros con posterioridad a la expiración del plazo concedido legalmente para su designación no supondrá, en ningún caso, la ampliación de la duración de su cargo más allá de los seis años de mandato para el que hubieren sido designados.
+Se modifica por el art. único.4 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica el apartado 2 por el art. único.3 de la Ley 5/2017, de 29 de septiembre. Ref. BOE-A-2017-11091
+ Se modifica el apartado 2 por el art. 1.6 del Real Decreto-ley 15/2012, de 20 de abril. Ref. BOE-A-2012-5338.
+
+### Artículo 13
+
+Artículo 13. Cese.
+1. Los consejeros cesarán en su cargo por:
+a) Renuncia expresa notificada fehacientemente a la Corporación RTVE.
+b) Expiración del término de su mandato.
+c) Separación aprobada por el Congreso de los Diputados por mayoría de dos tercios, a propuesta del Consejo de Administración, por causa de incapacidad permanente para el ejercicio del cargo, condena firme por cualquier delito doloso, incompatibilidad sobrevenida, o por acuerdo motivado. La formulación de la propuesta por el Consejo de Administración requerirá una mayoría de dos tercios de sus miembros y exigirá la previa instrucción de un expediente.
+d) Decisión del Congreso de los Diputados por mayoría de dos tercios de sus miembros.
+2. Todos los miembros del Consejo de Administración cesarán en el caso de:
+a) Que concurra causa de reducción obligatoria del capital social por pérdidas de conformidad con lo establecido en el Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas.
+b) Que como consecuencia de pérdidas quede reducido el patrimonio a una cantidad inferior a la mitad del capital social.
+c) Que de la liquidación del presupuesto anual de la corporación RTVE se constate la concurrencia de las siguientes circunstancias:
+i. Un empeoramiento del resultado presupuestado con una desviación igual o superior al 10% de la compensación aprobada por la prestación del servicio público.
+ii. La existencia de una desviación presupuestaria por exceso igual o superior al 10 % de las cifras aprobadas para el total de las dotaciones tanto del presupuesto de explotación como del presupuesto de capital, excluidos del cómputo del primero los impuestos y los resultados, y del segundo la variación del capital circulante.
+En los supuestos de cese del Consejo de Administración previstos en este apartado, la Junta general de accionistas designará un administrador único que se hará cargo de la gestión ordinaria de la Corporación RTVE hasta el momento de la constitución de un nuevo Consejo de Administración elegido por las Cortes Generales.
+
+### Artículo 14
+
+Artículo 14. Cualificación y experiencia profesional.
+A los efectos de lo previsto en el artículo 10, se presumirá que poseen cualificación y experiencia profesional suficiente para el desempeño del cargo de consejero, las personas con formación superior o de reconocida competencia que hayan desempeñado durante un plazo no inferior a cinco años funciones de administración, alta dirección, control o asesoramiento, o funciones de similar responsabilidad, en entidades públicas o privadas o de relevantes méritos en el ámbito de la comunicación, experiencia profesional, docente o investigadora.
+
+### Artículo 15
+
+Artículo 15. Estatuto personal de los miembros del Consejo de Administración.
+1. Los miembros del Consejo de Administración estarán sujetos al régimen de incompatibilidades establecido en la legislación mercantil para los administradores, siendo en todo caso incompatibles con el mandato parlamentario. Todos los miembros del Consejo de Administración, así como la persona titular de la presidencia, tendrán dedicación exclusiva y estarán sujetos al régimen de incompatibilidades de los altos cargos de la Administración General del Estado.
+2. Los miembros del Consejo de Administración no podrán tener intereses directos o indirectos en las empresas audiovisuales, discográficas, de cine, de video, de prensa, de publicidad, de informática, de telecomunicaciones, de servicios de la sociedad de la información o cualquier otro tipo de entidades relacionadas con el suministro, dotación de material o programas a la Corporación RTVE y sus filiales. En todo caso los deberes de lealtad establecidos en la legislación de sociedades mercantiles para los administradores se extenderán respecto a las anteriores empresas.
+3. Los miembros del Consejo de Administración tendrán la condición de cuentadantes a los efectos previstos en la legislación del Tribunal de Cuentas.
+4. Quien ostente la presidencia de la Corporación RTVE y el resto de los miembros del Consejo de Administración percibirán, por su dedicación exclusiva, las retribuciones fijadas de acuerdo con el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+Las indemnizaciones, en su caso, por dietas de alojamiento y manutención y gastos de viaje de los miembros del Consejo de Administración y de la presidencia de la Corporación RTVE se regirán por el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+5. Los miembros del Consejo de Administración ejercerán su cargo con sujeción a los deberes de diligente administración, fidelidad, lealtad, secreto y responsabilidad establecidos en la legislación mercantil. Asimismo ajustarán su actuación a los principios de legalidad, objetividad y buen gobierno.
+6. En el ejercicio de sus funciones los consejeros actuarán con absoluta independencia, sin que puedan recibir instrucciones, directrices o cualquier clase de indicación imperativa del Gobierno ni de la Administración General del Estado u otras instituciones o entidades.
+Se modifican los apartados 1 y 4 por el art. único.5 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifican los apartados 1 y 4 por el art. 1.7 y 8 del Real Decreto-ley 15/2012, de 20 de abril. Ref. BOE-A-2012-5338.
+
+### Artículo 16
+
+Artículo 16. Competencias y funciones.
+1. El Consejo de Administración de la Corporación RTVE se constituirá en Junta general universal de las sociedades prestadoras del servicio público cuando fuera necesaria la intervención de dicho órgano en cada una de ellas y podrá ejercer todas las competencias que la Ley de Sociedades Anónimas atribuye a dicho órgano social. La administración de las sociedades prestadoras corresponderá a un administrador único designado por la Junta general de cada sociedad.
+2. El Consejo de Administración de la Corporación RTVE será el responsable del cumplimiento de los objetivos generales fijados a la Corporación, del cumplimiento de los principios de programación que se establezcan para la misma y de la buena administración y gobierno de la Corporación.
+3. Los estatutos sociales de la Corporación RTVE desarrollarán el funcionamiento interno del Consejo de Administración y las facultades que la presente Ley atribuye a su Presidente.
+El Consejo de Administración no podrá delegar con carácter permanente ninguna de sus facultades.
+4. El Consejo de Administración de la Corporación RTVE tendrá entre sus competencias las siguientes:
+a) La representación y administración de la Corporación RTVE y la dirección estratégica de su Grupo empresarial.
+b) Supervisar la labor de la dirección de la Corporación RTVE y de sus sociedades filiales.
+c) Desarrollar los principios generales en materia de producción, programación y comercialización en la radio y televisión estatales.
+d) Aprobar las directrices básicas en materia de personal.
+e) Promover, en su caso, ante la Junta de accionistas el ejercicio de la acción social de responsabilidad contra los administradores, así como sobre su transacción y renuncia. A estos efectos convocará a la Junta general de accionistas para que autorice con carácter previo su ejercicio. En todo caso este acuerdo no implicará por sí solo la destitución del administrador.
+f) Aprobar el reglamento interno y demás normas de funcionamiento del propio Consejo de Administración por mayoría de dos tercios y aprobar los procedimientos internos de funcionamiento de la Corporación RTVE y autorizar los de sus filiales.
+g) Aprobar aquellos contratos, convenios, acuerdos o negocios jurídicos que, estando sometidos a la aplicación de la Ley de Contratos del Sector Público, el propio Consejo de Administración determine que han de ser de su competencia por razón de su cuantía. Esta cuantía no podrá ser inferior, en ningún caso, a dos millones de euros anuales. El resto de los contratos, convenios, acuerdos o negocios jurídicos de la Corporación RTVE serán aprobados por la persona que desempeñe la presidencia.
+h) Aprobar el informe anual sobre la gestión de la Corporación RTVE y sus filiales y sobre el cumplimiento de las misiones de servicio público encomendadas, suscribir el contrato programa con el Gobierno y las demás obligaciones de carácter económico-financiero asumidas por la Corporación RTVE en razón de su carácter público.
+i) Formular las cuentas anuales del ejercicio y proponer la aplicación de resultados.
+j) Aprobar el proyecto de los presupuestos anuales de explotación y capital de la Corporación RTVE y los de las sociedades participadas, directa o indirectamente, de forma mayoritaria, así como formular el programa de actuación plurianual de la Corporación RTVE y de las sociedades antes citadas en los términos establecidos en la Ley General Presupuestaria.
+k) Desarrollar, a propuesta de la persona que ostente la Presidencia, el procedimiento interno aplicable por la Corporación RTVE para el ejercicio del derecho de acceso reconocido en el artículo 20.3 de la Constitución.
+l) Aprobar a propuesta de la persona que ostente la presidencia, cualesquiera informes que la Corporación RTVE deba elevar a las Cortes Generales, a la autoridad audiovisual y, en su caso, al Gobierno.
+m) Aprobar la creación, composición y funciones de los órganos destinados a garantizar el control interno y la independencia profesional de los servicios informativos, así como la participación de la sociedad civil para aquellos aspectos relacionados con la prestación del servicio público radiotelevisivo.
+n) Proponer el cese de un consejero al Congreso de los Diputados en los casos previstos en el artículo 13.1.c) de esta Ley.
+Se modifica el apartado 4 por el art. único.6 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica el apartado 4.d) y o) por la disposición final 2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+ Se modifica el apartado 4.f) por la disposición final 1.2 de la Ley 8/2009, de 28 de agosto. Ref. BOE-A-2009-13988
+
+### Artículo 17
+
+Artículo 17. El Presidente del Consejo de Administración y de la Corporación RTVE.
+1. El Consejo de Administración de la Corporación nombrará como Presidente al consejero designado para tal cargo por el Congreso de los Diputados de conformidad con lo dispuesto en el artículo 11.4.
+Sin perjuicio de las especialidades que se establezcan, al Presidente le será aplicable el estatuto personal previsto en esta Ley para los consejeros. El cese del Presidente se regirá por lo dispuesto en el artículo 13.
+2. El Presidente del Consejo de Administración asumirá la representación institucional del Consejo y de la Corporación RTVE, además de las atribuciones que le confieran la presente ley y los estatutos sociales.
+3. El Presidente convocará las reuniones del Consejo de Administración de conformidad con lo previsto en los estatutos sociales y tendrá voto dirimente en caso de empate.
+
+### Artículo 18
+
+Artículo 18. El Secretario del Consejo de Administración.
+1. El Consejo de Administración tendrá un Secretario no consejero, licenciado en derecho, que actuará con voz, pero sin voto.
+2. La designación y el cese del Secretario corresponderá al Consejo de Administración, así como su sustitución temporal en supuestos de vacante, ausencia o enfermedad de conformidad con lo previsto en los estatutos sociales.
+3. El Secretario tendrá las funciones que le asignen los estatutos sociales y, en todo caso, las de levantar acta de las reuniones del Consejo de Administración, certificar sus acuerdos y asesorar al Consejo en derecho.
+
+## Sección II
+
+Sección II. Funciones del Presidente de la Corporación RTVE
+
+### Artículo 19
+
+Artículo 19. Carácter ejecutivo de sus funciones.
+El Presidente ostentará con carácter permanente las funciones de administración y representación que le confieren la presente ley y los estatutos sociales de la Corporación RTVE y actuará en ellas bajo la vigilancia del Consejo de Administración.
+
+### Artículo 20
+
+Artículo 20. Competencia y funciones.
+1. El Presidente desempeñará la dirección ejecutiva ordinaria de la Corporación RTVE, que ejercerá con arreglo a los criterios, objetivos generales o instrucciones que establezca el Consejo de Administración. Asimismo ostentará la representación legal de la Corporación RTVE para la realización de cuantos actos sean necesarios en el desempeño de esa dirección ejecutiva ordinaria, pudiendo celebrar con terceros en el marco de sus atribuciones cuantos actos, contratos y negocios jurídicos sean necesarios para la realización del objeto social y la conclusión de los objetivos generales de la Corporación.
+2. Sin perjuicio de lo anterior, la persona que ostente la presidencia de la Corporación RTVE tendrá entre sus competencias las siguientes:
+a) Ejecutar y hacer cumplir los acuerdos del Consejo de Administración.
+b) Nombrar y cesar al equipo directivo de la Corporación RTVE.
+c) Aprobar la organización básica de la Corporación RTVE y sus modificaciones.
+d) Aprobar todos los contratos, convenios, acuerdos y negocios jurídicos no incluidos en el artículo 16.4 g) de esta ley.
+e) Preparar la formulación de las cuentas anuales de cada ejercicio económico de conformidad con la legislación mercantil.
+f) Elaborar el anteproyecto de presupuesto de explotación y capital de la Corporación RTVE.
+g) Elaborar el informe anual sobre la gestión de la Corporación RTVE y sus filiales y sobre el cumplimiento de las misiones de servicio público encomendadas, el contrato programa con el Estado y las demás obligaciones de carácter económico-financiero previstas en el artículo 129.3 de la Ley General Presupuestaria asumidas por la Corporación RTVE en razón de su carácter público.
+h) Ejecutar las directrices generales de actuación de la Corporación RTVE aprobadas por el Consejo de Administración, así como ejecutar los principios que dicho órgano apruebe sobre producción, actividad comercial y programación en la radio y televisión estatales.
+i) Aprobar y celebrar los actos, contratos y negocios jurídicos en las materias y cuantías que acuerde el Consejo de Administración conforme a lo previsto en el artículo 16.4 g).
+j) Dirigir y coordinar las actividades de los órganos directivos de la Corporación RTVE de conformidad con las directrices del Consejo.
+k) Conferir y revocar poderes.
+l) Proponer al Consejo de Administración el nombramiento y cese, en Junta general, de administradores de las sociedades filiales.
+m) La jefatura superior del personal y de los servicios de la Corporación RTVE bajo las directrices básicas que en esta materia establezca el Consejo de Administración.
+n) Será el responsable de los ficheros automatizados de la Corporación RTVE y velará por el cumplimiento de la legislación de protección de los datos personales.
+Se modifica el apartado 2 por el art. único.7 del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+ Se modifica el apartado 2.e) por la disposición final 1.3 de la Ley 8/2009, de 28 de agosto. Ref. BOE-A-2009-13988
+ Las referencias a las competencias en materia de publicidad que se contienen en el apartado 2 c) se entenderán referidas a las autopromociones y a la publicidad institucional, según la disposición final 1.5.
+
+### Artículo 21
+
+Artículo 21. De la delegación de otras funciones y competencias.
+El Consejo de Administración podrá delegar de modo permanente en el Presidente cualesquiera otras funciones del Consejo de Administración, lo que requerirá la mayoría de dos tercios de sus componentes. Serán indelegables las competencias señaladas en los apartados b), m), n), o), q) y r) del artículo 16.4.
+
+### Artículo 22
+
+Artículo 22. Prohibición de ser nombrado administrador único tras cese forzoso.
+No podrá ser nombrado como administrador único en el caso previsto en el artículo 13.2 de esta Ley, el Presidente que deba cesar en el cargo como consecuencia de concurrir cualquiera de las causas de cese forzoso previstas en el mismo.
+
+## Sección III
+
+Sección III. Otros órganos
+
+### Artículo 23
+
+Artículo 23. El Consejo Asesor.
+1. El Consejo Asesor es el órgano de participación de la sociedad en la Corporación RTVE.
+2. El Consejo Asesor estará compuesto por un total de dieciséis miembros, designados de la siguiente forma:
+a) Tres consejeros por el Consejo Económico y Social.
+b) Dos consejeros por el Consejo de Consumidores y Usuarios.
+c) Un consejero por el Ministerio de Asuntos Exteriores.
+d) Un consejero por el Consejo de la Juventud de España.
+e) Un consejero por el Instituto de la Mujer.
+f) Un consejero por las entidades representativas de las personas con discapacidad.
+g) Un consejero por el Consejo General de la Emigración.
+h) Un consejero por la Academia de las Artes y las Ciencias Televisivas.
+i) Un consejero por la Academia de las Artes Cinematográficas.
+j) Un consejero designado por el Consejo de Coordinación Universitaria entre expertos del mundo académico en materias de Ciencias Sociales y Comunicación.
+k) Un consejero designado por las entidades representativas de los anunciantes.
+l) Un consejero por las entidades representativas de periodistas de ámbito estatal.
+m) Un consejero designado de común acuerdo por todos los sindicatos con implantación en la Corporación RTVE.
+3. Son competencias del Consejo Asesor las siguientes:
+a) Asesorar al Consejo de Administración de la Corporación RTVE en las orientaciones generales de la programación.
+b) Informar sobre los criterios y normas que garanticen el derecho de acceso de los grupos sociales significativos en función de su relevancia social, representatividad y ámbito de actuación.
+c) Informar sobre la propuesta de los contratos-programa con el Estado y de las líneas de programación, así como en el establecimiento de las normas de admisión de publicidad.
+d) Informar a petición del Consejo de Administración sobre cualesquiera asuntos que se sometan a su consideración.
+4. El Consejo Asesor será convocado por el Consejo de Administración, al menos cada tres meses, así como cuando sea preceptivo su pronunciamiento.
+5. La condición de miembro del Consejo Asesor no exigirá dedicación exclusiva ni dará derecho a remuneración.
+Se modifica el apartado 2 por el art. 1.9 y 10 del Real Decreto-ley 15/2012, de 20 de abril. Ref. BOE-A-2012-5338.
+ Las referencias a las competencias en materia de publicidad que se contienen en el apartado 3 c) se entenderán referidas a las autopromociones y a la publicidad institucional, según la disposición final 1. 5. Ref. BOE-A-2009-13988
+
+### Artículo 24
+
+Artículo 24. Los Consejos de Informativos.
+1. Los Consejos de Informativos son los órganos internos de participación de los profesionales de la información de la Corporación RTVE para velar por su independencia y la objetividad y veracidad de los contenidos informativos difundidos.
+2. Son funciones de los Consejos de Informativos:
+a) Velar por la independencia de los profesionales de la información ante la dirección de cada sociedad.
+b) Promover la independencia editorial de la Corporación RTVE, de acuerdo con lo previsto en la legislación general audiovisual y en esta Ley en lo referido a sus funciones de servicio público.
+c) Informar sobre la línea editorial y la programación informativa, así como participar en la elaboración de los libros de estilo.
+d) Informar con carácter no vinculante las propuestas de nombramiento de los directores de los servicios informativos de la Corporación RTVE.
+3. Las normas de organización y funcionamiento de los Consejos de Informativos se aprobarán de acuerdo con los profesionales de la información de la Corporación RTVE, por el Consejo de Administración.
+4. La elección de los miembros de los Consejos de Informativos se hará cumpliendo el principio de representación paritaria entre mujeres y hombres, de forma que aquellos incluyan como mínimo un cuarenta por cierto de cada uno de los sexos.
+Se añade el apartado 4 por el art. 12 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#ad-2
+ Se modifican los apartados 1 y 2 d) por la disposición final 2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+## CAPÍTULO III
+
+Prestación del servicio público radiotelevisivo y programación
+
+### Artículo 25
+
+Artículo 25. Principios de producción y programación.
+1. La producción y programación de la Corporación RTVE deberá ajustarse al cumplimiento de sus funciones de servicio público.
+2. El contrato-programa, de acuerdo con las líneas estratégicas del mandato marco establecerá los objetivos y obligaciones específicas que deben cumplir los diferentes canales de radio y televisión, y servicios conexos e interactivos así como sus programaciones.
+3. La programación del servicio público encomendado a la Corporación RTVE deberá atender especialmente a los colectivos sociales que requieran una atención específica hacia sus necesidades y demandas, como la infancia y la juventud. Esta tarea de servicio público debe extenderse a cuestiones de relevancia para la mayoría de la población o para determinados colectivos, al tiempo que se evitará cualquier forma de discriminación por causa de discapacidad.
+Se modifica el apartado 1 por la disposición final 1.12 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 26
+
+Artículo 26. Programación en procesos electorales.
+Durante los procesos electorales será de aplicación la legislación electoral. El órgano de comunicación con la Administración electoral será el Consejo de Administración de la Corporación RTVE a través de su Presidente.
+
+### Artículo 27
+
+Artículo 27. Declaraciones y comunicaciones oficiales de interés público.
+El Gobierno podrá hacer que se programen y difundan declaraciones o comunicaciones oficiales de interés público, con indicación de su origen.
+
+### Artículo 28
+
+Artículo 28. Pluralismo y derecho de acceso.
+1. La Corporación RTVE asegurará en su programación la expresión de la pluralidad social, ideológica, política y cultural de la sociedad española.
+2. El derecho de acceso a través de la Corporación RTVE se aplicará:
+a) De manera global, mediante la participación de los grupos sociales y políticos significativos, como fuentes y portadores de información y opinión, en el conjunto de la programación de RTVE.
+b) De manera directa, mediante espacios específicos en la radio y la televisión con formatos diversos, tiempos y horarios, fijados por el Consejo de Administración de la Corporación oído el Consejo Asesor y conforme a lo establecido en la legislación general audiovisual.
+3. La Corporación RTVE garantizará la disponibilidad de los medios técnicos y humanos necesarios para la realización de los espacios para el ejercicio del derecho de acceso.
+4. El Consejo de Administración de la Corporación RTVE aprobará las directrices para el ejercicio del derecho de acceso, previo informe favorable de la autoridad audiovisual.
+Se modifica el apartado 3 por la disposición final 2.13 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+## CAPÍTULO IV
+
+Régimen económico
+
+### Artículo 29
+
+Artículo 29. Patrimonio.
+1. La Corporación RTVE tendrá un patrimonio propio. Los bienes y derechos de la Corporación RTVE serán en todo caso de dominio privado o patrimoniales.
+2. La gestión, administración, explotación y disposición de los bienes y derechos que integran el patrimonio de la Corporación RTVE se regirá por lo dispuesto en esta Ley sobre el mismo y, en su defecto, por el ordenamiento privado.
+Se modifica por la disposición final 2.14 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 30
+
+Artículo 30. Principios y régimen de contratación.
+1. La Corporación RTVE, así como las sociedades en las que participe mayoritariamente, directa o indirectamente, en su capital social, ajustarán su actividad contractual a los principios de publicidad y concurrencia, salvo que la naturaleza de la operación a realizar sea incompatible con esos principios.
+2. Sin perjuicio de lo anterior, la actividad contractual de la Corporación RTVE se regirá por el ordenamiento jurídico privado.
+3. Los servicios prestados, en su caso, por la Corporación RTVE a sus sociedades filiales estarán remunerados de forma adecuada según criterios de mercado, debiendo la Corporación RTVE establecer cuentas separadas a tal efecto.
+Se modifican los apartados 2 y 3 por la disposición final 2.15 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 31
+
+Artículo 31. Recurso al endeudamiento.
+La Corporación RTVE, y cualesquiera otras sociedades en las que posea, directa o indirectamente, la mayoría del capital social, sólo podrán recurrir al endeudamiento para la financiación de sus inversiones en inmovilizado material e inmaterial, para la cobertura de consignaciones, depósitos, pagos, garantías y otras medidas impuestas en procedimientos judiciales, administrativos y económico-administrativos, y para atender desfases temporales de tesorería.
+Los límites de tal endeudamiento quedarán fijados, para cada ejercicio, en los correspondientes contratos-programa.
+Se modifica por la disposición final 15 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-15
+ Se modifica el párrafo 1 por la disposición final 2 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 32
+
+Artículo 32. Contrato-programa con el Estado.
+1. El contrato-programa será suscrito por el Gobierno y la Corporación RTVE y determinará al menos los siguientes extremos:
+a) Los objetivos específicos a desarrollar por la Corporación en el ejercicio de la función de servicio público encomendada por el Estado para un período de cuatro años prorrogable.
+b) Las aportaciones con cargo a los Presupuestos Generales del Estado destinadas a la prestación del servicio público de radio y televisión.
+c) Los medios a emplear para adaptar los objetivos acordados a las variaciones del entorno económico, garantizando siempre el cumplimiento del mandato marco.
+d) Los efectos que han de derivarse del incumplimiento de los compromisos acordados.
+e) El control de la ejecución del contrato-programa y de los resultados derivados de su aplicación.
+2. El contrato-programa deberá incorporar restricciones adicionales a las establecidas con carácter general en la Ley 25/1994, de 12 de julio, para la emisión de publicidad televisiva.
+3. La autoridad audiovisual deberá emitir un informe al Gobierno sobre el proyecto de contrato-programa, en relación con todas aquellas cuestiones relativas a su ámbito de competencia.
+4. Las Cortes Generales deberán ser informadas por el Gobierno, de forma previa a su aprobación, sobre el contenido del contrato-programa. Asimismo deberán ser informadas de su ejecución y resultados anualmente.
+Se modifica el apartado 1.a) por la disposición final 3.2 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#df-3
+
+### Artículo 33
+
+Artículo 33. Compensación por servicio público.
+Las compensaciones por el cumplimiento de las obligaciones de servicio público se consignarán en los Presupuestos Generales del Estado. Estas compensaciones tendrán carácter anual y no podrán superar el coste neto del servicio público prestado en el correspondiente ejercicio presupuestario. A estos efectos, se considera coste neto la diferencia entre los costes totales y sus otros ingresos distintos de las compensaciones.
+Si al cierre de un ejercicio se constata que la compensación supera el coste neto incurrido en tal periodo, el montante en exceso se destinará a dotar el fondo de reserva en los términos establecidos en el artículo 8 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación RTVE y el remanente, si lo hubiere, minorará las cantidades asignadas en los Presupuestos Generales del Estado para el ejercicio siguiente a aquel en que se haya producido tal exceso.
+Se modifica el párrafo 1 por la disposición final 1.17 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+ Se modifica el párrafo 2 por la disposición final 1.4 de la Ley 8/2009, de 28 de agosto. Ref. BOE-A-2009-13988
+
+### Artículo 33 bis
+
+Artículo 33 bis. Compensación de desviaciones en el coste neto del servicio público por circunstancias sobrevenidas.
+(Sin efecto)
+Se deja sin efecto la adición de este artículo por Resolución de 14 de julio de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 16/2026, de 16 de junio, que lo añadía. Ref. BOE-A-2026-15454
+ Se añade por el art. único del Real Decreto-ley 16/2026, de 16 de junio. Ref. BOE-A-2026-13107
+
+### Artículo 34
+
+Artículo 34. Presupuestos.
+1. La Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria elaborará un presupuesto de explotación que detallará los recursos y dotaciones anuales correspondientes. Asimismo, formarán un presupuesto de capital con el mismo detalle. Los presupuestos de explotación y de capital de la Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria se integrarán en los Presupuestos Generales del Estado.
+2. Los presupuestos de explotación y de capital de la Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria estarán constituidos por una previsión de la cuenta de resultados y del cuadro de financiación del correspondiente ejercicio. Como anexo a dichos presupuestos se acompañará una previsión del balance de la entidad, así como la documentación complementaria que determine el Ministerio de Economía y Hacienda.
+3. La Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria remitirán los estados financieros señalados en el apartado anterior referidos, además de al ejercicio relativo al proyecto de Presupuestos Generales del Estado, a la liquidación del último ejercicio cerrado y al avance de la liquidación del ejercicio corriente.
+4. Junto con los presupuestos de explotación y de capital, la Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria remitirán una memoria explicativa de su contenido, de la ejecución del ejercicio anterior y de la previsión de la ejecución del ejercicio corriente.
+5. El presupuesto de la Corporación RTVE y de las sociedades en las que posea, directa o indirectamente, la mayoría del capital social, se ajustarán a lo previsto para las sociedades mercantiles estatales en la Ley General Presupuestaria sin perjuicio de las singularidades previstas en esta Ley.
+6. El régimen de variaciones presupuestarias de la Corporación RTVE y sus sociedades y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria filiales se ajustará a lo establecido en la Ley General Presupuestaria.
+
+### Artículo 35
+
+Artículo 35. Programa de actuación plurianual.
+1. La Corporación RTVE y las sociedades en las que posea, directa o indirectamente, la mayoría del capital social formularán, asimismo, anualmente sus correspondientes programas de actuación plurianual.
+2. El programa de actuación plurianual estará integrado por los estados financieros y documentación exigida por la Ley General Presupuestaria y reflejará los datos económico-financieros previstos para el ejercicio relativo al proyecto de Presupuestos Generales del Estado y a los dos ejercicios inmediatamente siguientes, según el contrato-programa conforme a las líneas estratégicas y objetivos definidos para la Corporación RTVE.
+Se modifica el apartado 2 por la disposición final 2. 18 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 36
+
+Artículo 36. Presupuesto consolidado.
+Sin perjuicio de lo establecido anteriormente, la Corporación RTVE presentará además sus presupuestos de explotación y de capital y sus programas de actuación plurianual de forma consolidada con las sociedades en las que posea, directa o indirectamente, la mayoría del capital social de acuerdo con los procedimientos y trámites establecidos por la Ley General Presupuestaria.
+
+### Artículo 37
+
+Artículo 37. Contabilidad y auditoría externa.
+1. Las cuentas anuales de la Corporación RTVE y las de las sociedades en las que participe, directa o indirectamente, de forma mayoritaria se regirán por los principios y normas de contabilidad recogidos en el Plan General de Contabilidad de la Empresa española, así como en sus adaptaciones y en las disposiciones que lo desarrollan.
+2. Las cuentas anuales de la Corporación RTVE y las de las sociedades en las que participe, directa o indirectamente, de forma mayoritaria deberán de ser revisadas por auditores de cuentas, de acuerdo con lo dispuesto en la legislación mercantil.
+3. La Intervención General de la Administración del Estado ejercerá las funciones de control previstas en el Título VI de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para las sociedades mercantiles estatales. En particular, llevará a cabo la revisión del informe anual relativo a la gestión de la Corporación RTVE y a la gestión de las sociedades en las que participe, directa o indirectamente, de forma mayoritaria, así como de los informes sobre cumplimiento de las misiones de servicio público encomendadas, el contrato programa con el Estado y las demás obligaciones de carácter económico-financiero asumidas por la Corporación RTVE en razón de su carácter público.
+4. En todo caso las cuentas anuales serán formuladas por el Consejo de Administración y serán sometidas, junto con la propuesta de distribución de los resultados, a la aprobación de la Junta general de accionistas de conformidad con lo previsto en la legislación mercantil. Una vez aprobadas las cuentas anuales se remitirán a las Cortes Generales para su conocimiento.
+5. La Corporación RTVE deberá llevar un sistema de contabilidad analítica que permita presentar cuentas separadas de las actividades de servicio público y del resto de actividades que realice, con objeto de determinar el coste neto a que se refiere el artículo 33 de esta Ley.
+Se modifica el apartado 5 por la disposición final 2. 19 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+## CAPÍTULO V
+
+Régimen de personal
+
+### Artículo 38
+
+Artículo 38. Régimen de personal.
+1. El Presidente de la Corporación RTVE estará vinculado con la Corporación RTVE por una relación mercantil sin perjuicio de las especialidades establecidas en esta Ley.
+Estará sujeto a una relación laboral especial aquel personal directivo de la Corporación cuyas funciones reúnan los requisitos exigidos por el ordenamiento para que su contrato sea calificado como de alta dirección.
+2. El personal de alta dirección a que se refiere el apartado anterior estará sujeto al mismo régimen de incompatibilidades previsto en el artículo 15 de esta Ley, para los consejeros de la Corporación RTVE.
+Se modifica el párrafo 2 del apartado 1 y el apartado 2 por la disposición final 2. 20 y 2. 21 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+## CAPÍTULO VI
+
+Control externo
+
+### Artículo 39
+
+Artículo 39. Control por el Parlamento.
+Las Cortes Generales ejercerán el control parlamentario sobre la actuación de la Corporación y sus sociedades, velando especialmente por el cumplimiento de las funciones de servicio público encomendadas.
+A tal efecto, la Corporación RTVE remitirá con carácter anual a las Cortes Generales un informe referido a la ejecución del contrato-programa y del mandato-marco y una memoria sobre el cumplimiento de la función de servicio público encomendada, referido al conjunto de sus actividades, programaciones, servicios y emisiones.
+
+### Artículo 40
+
+Artículo 40. La Corporación RTVE y la autoridad audiovisual.
+1. Corresponde a la autoridad audiovisual la supervisión del cumplimiento de la misión de servicio público de radio y televisión por parte de la Corporación RTVE, para lo que podrá adoptar las recomendaciones o resoluciones que prevea su regulación.
+2. La autoridad audiovisual podrá requerir a la Corporación RTVE y a sus sociedades los datos e informes necesarios para el ejercicio de sus funciones. La información así obtenida será confidencial y no podrá ser utilizada para fines distintos a los propios de sus competencias.
+
+### Artículo 41
+
+Artículo 41. Del control por el Tribunal de Cuentas.
+Corresponde al Tribunal de Cuentas el control externo de la Corporación RTVE y el de las sociedades en que participe, directa o indirectamente, de forma mayoritaria, en los términos establecidos en su ley orgánica y en las demás leyes que regulan su competencia.
+
+## CAPÍTULO VII
+
+De la fusión, escisión y disolución social
+
+### Artículo 42
+
+Artículo 42. Operaciones de fusión, escisión y extinción.
+Las operaciones de fusión, escisión o extinción de la Corporación RTVE y cada una de las sociedades participadas, directa o indirectamente, de forma mayoritaria requerirán la previa autorización del Consejo de Ministros. Asimismo se requerirá dicha autorización previa para la disolución de las mismas por las causas enumeradas en los apartados 1, 3, 6 y 7 del artículo 260.1 del Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas.
+Se modifica por la disposición final 2. 22 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292
+
+### Artículo 43
+
+Artículo 43. Transparencia y atención al ciudadano.
+La Corporación de Radio Televisión Española queda sujeta a las obligaciones contenidas en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+Se añade por el art. único.4 de la Ley 5/2017, de 29 de septiembre. Ref. BOE-A-2017-11091
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la disposición adicional duodécima de la LOFAGE. Corporación RTVE Sociedad Mercantil Estatal para la prestación de servicio público.
+Se adiciona un apartado 3 a la disposición adicional duodécima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con la siguiente redacción:
+«3. La Corporación de Radio y Televisión Española, como sociedad anónima estatal dotada de especial autonomía respecto de la Administración General del Estado, se regirá en primer lugar por su Ley reguladora y sus estatutos sociales; en segundo lugar por su legislación sectorial y por las normas reguladoras de las sociedades mercantiles estatales en lo que le sean de aplicación, y, en defecto de la anterior normativa, por el ordenamiento privado.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Desafectación del dominio público y atribución del patrimonio adscrito.
+1. Quedan desafectados del domino público los bienes y derechos que a la entrada en vigor de esta Ley integran el patrimonio propio del Ente Público RTVE y el de las sociedades TVE, S. A., y RNE, S. A. Tales bienes y derechos tendrán la consideración de patrimoniales del Ente Público RTVE o de las sociedades TVE, S. A., o RNE, S. A., respectivamente.
+2. Mediante el Acuerdo del Consejo de Ministros que autorice la constitución de la Corporación RTVE, quedará desafectado y desadscrito el patrimonio titularidad de la Administración General del Estado adscrito, en el momento de entrada en vigor de esta Ley, al Ente Público RTVE y a TVE, S. A., y RNE, S. A.
+En dicho Acuerdo se incluirá una relación de los bienes inmuebles de titularidad de la Administración General del Estado que deban permanecer en su patrimonio. Los bienes y derechos no incluidos en esta relación quedarán incorporados, con la consideración de patrimoniales, al patrimonio propio del Ente Público RTVE.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Constitución del Consejo Asesor y de los Consejos de Informativos.
+Los Consejos previstos en la Sección tercera del capítulo segundo del título segundo de la presente Ley, deberán crearse en el plazo de seis meses a contar desde la constitución del Consejo de Administración de la Corporación RTVE.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Derecho de Acceso.
+Las directrices previstas en el artículo 28 de esta Ley deberán ser aprobadas por el Consejo de Administración de la Corporación RTVE en el plazo de seis meses a contar desde el momento de constitución del Consejo de Administración.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Conducta comercial.
+El Consejo de Administración de la Corporación RTVE adoptará unas directrices de conducta comercial para ésta y para sus sociedades filiales, que serán públicas, y elevará con carácter anual un informe a la autoridad audiovisual sobre el cumplimiento de las mismas.
+Corresponderá a la autoridad audiovisual el control externo del cumplimiento de las directrices de conducta comercial de la Corporación RTVE y de sus sociedades filiales.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. De la constitución e inicio de la actividad ordinaria de la Corporación RTVE y las sociedades prestadoras del servicio público.
+1. (Derogado)
+2. (Derogado)
+3. El régimen fiscal especial establecido en el capítulo VIII del título VII del Real Decreto Legislativo 4/2004, de 5 de marzo, que aprueba el texto refundido de la Ley del Impuesto sobre Sociedades, será aplicable a la operación de aportación de los activos y pasivos por las sociedades TVE, S. A., y RNE, S. A., a las nuevas entidades.
+4. Todas las transmisiones patrimoniales, operaciones societarias y actos derivados, directa o indirectamente de la aplicación de estas disposiciones transitorias e, incluso, las aportaciones de fondos o ampliaciones de capital, que se ejecuten para la constitución y para el comienzo de la actividad de la Corporación RTVE y las sociedades prestadoras del servicio público, estarán exentos de cualquier tributo estatal, autonómico o local, sin que proceda, en este último caso, la compensación a que se refiere el artículo 9.2 del Real Decreto Legislativo 2/2004, de 5 de marzo, que aprueba el texto refundido de la Ley reguladora de las Haciendas Locales. Igualmente todas las transmisiones, operaciones y actos antes mencionados gozarán de exención del pago de cualesquiera aranceles y honorarios profesionales devengados por la intervención de fedatarios públicos y de Registradores de la Propiedad y Mercantiles.
+Se derogan los apartados 1 y 2 por la disposición derogatoria única del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. De la sucesión legal del Ente RTVE, las sociedades TVE, S. A., y RNE, S. A.
+1. La Corporación RTVE y las sociedades prestadoras del servicio público sucederán al Ente Público RTVE y a las sociedades TVE, S. A., y RNE, S. A., únicamente en los bienes, contratos y en general derechos y obligaciones objeto de la cesión de activos y pasivos a la que se refiere la disposición anterior. A este fin la Corporación RTVE y las sociedades prestadoras del servicio público quedarán subrogadas, respectivamente, en la misma posición jurídica que ostentaban las entidades cesionarias respecto de los bienes, derechos y obligaciones que les sean objeto de cesión a cada una de ellas.
+En el supuesto de inmuebles arrendados, y a los efectos previstos en el artículo 32 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, las transferencias que se puedan realizar no se reputarán cesiones de los contratos de arrendamiento en vigor, ni los arrendadores tendrán derecho a ninguna clase de elevación de renta en razón de las mismas.
+2. La Corporación RTVE y las sociedades prestadoras del servicio público, respectivamente, se subrogarán en la misma posición jurídica que ostentaba el Ente Público RTVE y las sociedades TVE, S. A., y RNE, S. A., en las relaciones jurídicas, derechos y obligaciones de naturaleza laboral, convencional o extraconvencional, y de Seguridad Social de los trabajadores que se incorporen a las nuevas entidades. Se respetarán en todo caso la categoría profesional, la antigüedad y los derechos económicos adquiridos por el personal mencionado, así como sus derechos sociales.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. De la constitución efectiva de la Corporación RTVE y las sociedades prestadoras del servicio público y de su administración provisional.
+(Derogada)
+Se deroga por la disposición derogatoria única del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Primer mandato de los miembros del Consejo de Administración.
+(Derogada)
+Se deroga por la disposición derogatoria única del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. De la disolución, liquidación y extinción del Ente Público RTVE y las sociedades TVE, S. A., y RNE, S. A.
+1. Se acuerda la disolución del Ente Público RTVE y la de las sociedades TVE, S. A., y RNE, S. A., que se llevará a cabo en la forma establecida en estas disposiciones transitorias.
+2. El Ente Público RTVE y las sociedades TVE, S. A., y RNE, S. A., entrarán en estado de disolución-liquidación al día siguiente del otorgamiento por dichas entidades de la escritura de aportación de los activos y pasivos que se transfieran a la Corporación RTVE y a sus sociedades prestadoras, Sociedad Mercantil Estatal Televisión Española y Sociedad Mercantil Estatal Radio Nacional de España, respectivamente.
+El Ente Público RTVE en liquidación deberá proceder a la conclusión ordenada de cuantas relaciones jurídicas estén pendientes a la fecha de entrar en estado de disolución, así como a la liquidación, enajenación y extinción, según proceda, de los bienes, derechos y obligaciones que integren el patrimonio del Ente Público.
+En todo caso el Gobierno deberá proveer al Ente Público en liquidación y a sus sociedades de los fondos y recursos económicos necesarios para que se puedan desarrollar de manera ordenada el mencionado proceso de liquidación patrimonial y cumplir regularmente con todas las obligaciones contraídas exigibles.
+3. En esa misma fecha quedará suprimido el Consejo de Administración del Ente Público RTVE y la Dirección General del mismo. En su lugar se constituirá un Consejo de Liquidación del Ente, integrado por cinco miembros que serán nombrados y cesados por la Sociedad Estatal de Participaciones Industriales, que asumirá la gestión, dirección y representación del Ente Público en liquidación. Asimismo este Consejo procederá a la disolución y liquidación mercantil de las sociedades TVE, S. A., y RNE, S. A., designando un liquidador para cada una de ellas.
+4. Durante su liquidación y hasta su total extinción el Ente Público RTVE y la de las sociedades TVE, S. A., y RNE, S. A., conservarán su personalidad jurídica.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+En el plazo de seis meses a partir de la constitución de la nueva Corporación de RTVE, el Consejo de Administración deberá elaborar un Reglamento del Derecho de Acceso que establezca las condiciones de solicitud, con respuesta obligatoria a las peticiones correspondientes.
+El Consejo Audiovisual informará la propuesta de este Reglamento y, una vez aprobado, su cumplimiento anual, actuando asimismo como instancia superior en caso de desacuerdo.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Se deroga la Ley 4/1980, de 10 de enero, por la que se aprueba el Estatuto de la Radio y la Televisión. No obstante dicha Ley seguirá siendo de aplicación a los efectos previstos en la Ley 46/1983, de 26 de diciembre, reguladora del Tercer Canal de Televisión, y en la Ley 10/1988, de 3 de mayo, de Televisión Privada.
+2. Asimismo, quedan derogadas cuantas otras disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+El Gobierno, a propuesta del Ministerio de la Presidencia, dictará las disposiciones necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 5 de junio de 2006.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

@@ -1,0 +1,218 @@
+# Ley 5/1988, de 17 de octubre, de «Iniciativa Legislativa Popular y de los Ayuntamientos».
+
+- Identificador BOE: `BOE-A-1988-25431`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-25431
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA A TODOS LOS QUE LA PRESENTE VIEREN,
+Sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución establece como forma política del Estado español la Monarquía Parlamentaria, y por consiguiente opta con claridad por una democracia representativa. La participación de los ciudadanos en la vida política, económica, cultural y social es el pilar básico y fundamental de este sistema representativo y democrático. Y así, este principio general aparece recogido en el artículo 23.1 de la Constitución cuando afirma que «los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal», imponiendo a los poderes públicos la obligación de facilitar esta participación. La participación popular encuentra su máxima expresión en las distintas elecciones a que el pueblo es llamado para designar sus representantes a nivel estatal, autonómico o municipal. Pero al mismo tiempo, y siguiendo en esto las modernas tendencias del derecho comparado, los constituyentes españoles dieron acogida a otras figuras de participación ciudadana como el referéndum consultivo.
+En la misma línea, el artículo 87.3 de la Constitución Española remite a una Ley Orgánica la regulación de las condiciones y requisitos para ejercitar la Iniciativa Legislativa Popular, estableciendo unas limitaciones que, en todo caso, deberá respetar el legislador ordinario.
+En cumplimiento del mandato constitucional, la Ley Orgánica 3/1984, de 26 de marzo, regula la Iniciativa Legislativa Popular y establece el marco jurídico adecuado para ello. Por ello, definido y precisado por las Cortes Generales ese marco jurídico general, parece necesario que el Parlamento de Andalucía regule tan importante materia favorecedora de la participación ciudadana en temas capitales de nuestra vida comunitaria.
+El Estatuto de Autonomía para Andalucía, inspirado en los mismos principios constitucionales antes indicados, contiene en su artículo 10 una declaración programática de objetivos básicos de la Comunidad, entre los que se encuentra el fomento de la calidad democrática mediante la facilitación de la participación de todos los andaluces en la vida política, económica, cultural y social.
+Este principio general se concreta posteriormente en la norma recogida en el artículo 33.2 del Estatuto.
+La presente Ley tiene por objeto desarrollar el precepto estatutario, inspirándose para ello en dos criterios básicos, la necesidad de facilitar la participación ciudadana y de los Entes locales en la función legislativa, y fomentar una política institucional plenamente participativa.
+El título primero aparece dividido en tres capítulos: El primero recoge las disposiciones generales aplicables a las dos formas de Iniciativa Legislativa; el segundo y el tercero regulan, de forma concreta y específica, la Iniciativa Legislativa Popular y de los Ayuntamientos, respectivamente. El título segundo está dedicado a la tramitación parlamentaria. La regulación trata de cohonestar la claridad y seguridad del procedimiento, evitando eventuales contradicciones o vaguedades, facilitando de este modo la participación ciudadana.
+Se modifica el párrafo 4º por el art. 3 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+## TÍTULO PRIMERO
+
+## CAPÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Podrán ejercer la iniciativa legislativa prevista en el artículo 111.2 del Estatuto de Autonomía para Andalucía, conforme a lo dispuesto en la presente Ley:
+1. Los ciudadanos que gozando de la condición política de andaluces, conforme a lo dispuesto en el artículo 5.1 del Estatuto de Autonomía, sean mayores de edad y se encuentren inscritos en el Censo Electoral.
+2. Los Ayuntamientos comprendidos en el territorio de la Comunidad Autónoma de Andalucía.
+Se modifica por el art. 3 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+ Se modifica el apartado 1 por la disposición final 1 de la Ley autonómica 8/2006, de 24 de octubre. Ref. BOE-A-2006-20850.
+
+### Artículo 2
+
+Artículo 2.
+La iniciativa legislativa popular y de los ayuntamientos se ejercerá mediante la presentación ante la Mesa del Parlamento de una Proposición de Ley suscrita:
+a) Por las firmas de, al menos, 40.000 ciudadanos que reúnan los requisitos prescritos en el artículo anterior y que se encuentren inscritos en el censo electoral vigente el día de presentación de la iniciativa ante la Mesa del Parlamento.
+b) Por acuerdo, adoptado por mayoría absoluta, de los Plenos de veinticinco ayuntamientos de nuestra Comunidad, o de diez cuando estos representen al menos globalmente a 40.000 electores, de acuerdo con el censo autonómico andaluz vigente el día de presentación de la iniciativa ante la Mesa del Parlamento.
+Se modifica por el art. 1 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Artículo 3
+
+Artículo 3.
+Están excluidas de la Iniciativa Legislativa regulada en esta Ley las siguientes materias:
+1. Aquellas que no sean de la competencia legislativa de la Comunidad Autónoma.
+2. Las de naturaleza tributaria.
+3. La planificación económica de la Comunidad Autónoma.
+4. Las mencionadas en los artículos 187 y 190 del Estatuto de Autonomía.
+5. Las relativas a la organización de las instituciones de autogobierno.
+Se modifica por el art. 3 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Artículo 4
+
+Artículo 4.
+1. Corresponde a la Mesa del Parlamento admitir o no a trámite las Iniciativas Legislativas presentadas por los ciudadanos o los Ayuntamientos a que se refiere el artículo 1.º
+2. Son causas de inadmisión las siguientes:
+a) Que el texto de la proposición tenga por objeto algunas de las materias excluidas por el artículo anterior.
+b) Que el texto carezca de unidad sustantiva o verse sobre distintas materias carentes de homogeneidad entre sí.
+c) Que tenga por objeto un proyecto o proposición de Ley que se encuentre en tramitación parlamentaria.
+d) Que la proposición sea reproducción de otra igual presentada durante la misma legislatura.
+3. De no haberse cumplido los requisitos exigidos en la presente Ley, y tratándose de defecto subsanable, la Mesa del Parlamento lo comunicará a los promotores para que procedan, en su caso, a la subsanación en el plazo de un mes a partir de la notificación efectuada al efecto.
+4. La resolución de la Mesa del Parlamento se notificará a los promotores y se publicará de acuerdo con lo que al efecto disponga el Reglamento de la Cámara.
+
+### Artículo 5
+
+Artículo 5.
+1. Contra la resolución de la Mesa del Parlamento de no admitir la Proposición de Ley, los promotores podrán interponer recurso de amparo ante el Tribunal Constitucional, de conformidad con el artículo 42 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.
+2. Si el Tribunal decidiera que la Proposición no incurre en alguna de las causas de inadmisión previstas en el apartado 2 del artículo anterior, el procedimiento seguirá su curso.
+3. Si el Tribunal decidiera que la irregularidad afecta a determinados preceptos de la proposición, la Mesa del Parlamento lo comunicará a los promotores, a fin de que éstos, en el plazo de un mes, manifiesten si desean retirar la iniciativa o mantenerla, una vez efectuadas las modificaciones correspondientes.
+
+## CAPÍTULO II
+
+De la Iniciativa Legislativa Popular
+
+### Artículo 6
+
+Artículo 6.
+1. La iniciativa legislativa popular se ejerce mediante la presentación de Proposiciones de Ley suscritas por las firmas de, al menos, 40.000 electores andaluces, autenticadas en la forma que previene la presente Ley.
+2. Al escrito de presentación de la proposición deberá acompañarse:
+a) El texto articulado de la Proposición de Ley, precedido de una exposición de motivos.
+b) Un documento en el que se detallen las razones que aconsejan, a juicio de los firmantes, la tramitación y aprobación por el Parlamento de la Proposición de Ley.
+c) La relación de los miembros que componen la Comisión promotora de la iniciativa, con expresión de los datos personales de los mismos.
+Se modifica el apartado 1 por el art. 1 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Artículo 7
+
+Artículo 7.
+El procedimiento se iniciará mediante la presentación ante la Mesa del Parlamento, a través del registro general del mismo, de la documentación exigida en el artículo anterior.
+Si la iniciativa se presentara fuera de los períodos de sesión parlamentaria, los plazos empezarán a computarse en el período siguiente a la presentación de la documentación.
+
+### Artículo 8
+
+Artículo 8.
+La Mesa del Parlamento examinará la documentación presentada y resolverá en el plazo de quince días hábiles sobre su admisión, de acuerdo con lo previsto en los artículos 3.º y 4.º de esta Ley.
+
+### Artículo 9
+
+Artículo 9.
+1. Admitida la Proposición, la Mesa del Parlamento lo comunicará a la Junta Electoral de Andalucía, que garantizará la regularidad del procedimiento de recogida de firmas.
+2. La Junta Electoral de Andalucía notificará a la Comisión Promotora la admisión de la Proposición, al objeto de que proceda a la recogida de las firmas requeridas.
+3. El procedimiento de recogida de firmas deberá finalizar con la entrega a la Junta Electoral de Andalucía de las firmas recogidas, en el plazo de seis meses a contar desde la notificación a que se refiere el apartado anterior. Este plazo podrá ser prorrogado en dos meses cuando concurran razones objetivas debidamente justificadas, cuya apreciación corresponde a la Mesa del Parlamento.
+Agotado el plazo, y en su caso la prórroga, sin que se haya hecho entrega de las firmas recogidas, caducará la iniciativa.
+3 bis. Reglamentariamente se establecerán los requisitos necesarios para que el procedimiento de recogida de firmas pueda realizarse a través del sistema de firma electrónica.
+Se modifica el apartado 3 y se añade el 3 bis por el art. 1 y 2 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Artículo 10
+
+Artículo 10.
+1. Recibida la notificación de admisión de la proposición, la Comisión Promotora presentará ante la Junta Electoral de Andalucía los pliegos necesarios para la recogida de firmas. Estos pliegos reproducirán el texto íntegro de la proposición y se unirán a las hojas destinadas a recoger firmas, de modo que no puedan ser separados, sellándose y numerándose de acuerdo con lo dispuesto en el apartado siguiente.
+2. Recibidos los pliegos por la Junta Electoral de Andalucía, ésta, dentro de las cuarenta y ocho horas siguientes, los sellará, numerará y devolverá a la Comisión Promotora.
+
+### Artículo 11
+
+Artículo 11.
+1. Junto a la firma del elector se indicará su nombre y apellidos, número del documento nacional de identidad y municipio en cuyas listas electorales esté inscrito.
+2. La firma deberá ser autenticada por Notario, Secretario Judicial o el Secretario del Ayuntamiento en cuyo censo electoral se halle inscrito el firmante.
+La autenticación deberá indicar la fecha, y podrá ser colectiva pliego a pliego. En este caso, junto a la fecha, deberá consignarse el número de firmas contenidas en el pliego.
+
+### Artículo 12
+
+Artículo 12.
+1. Las firmas podrán también ser autenticadas por fedatarios especiales designados por la comisión promotora.
+2. Podrán adquirir la condición de fedatarios especiales los andaluces que, en plena posesión de sus derechos civiles y políticos, juren o prometan ante la Junta Electoral Autonómica dar fe de la autenticidad de las firmas de los signatarios de la Proposición de Ley.
+
+### Artículo 13
+
+Artículo 13.
+1. Los pliegos que contengan las firmas recogidas, a cada uno de los cuales se acompañará certificado que acredite la inscripción de los firmantes en el Censo Electoral como mayores de edad, serán enviados a la Junta Electoral de Andalucía, para su comprobación y recuento inicial.
+2. La Comisión Promotora podrá recabar en todo momento de la Junta Electoral de Andalucía la información que estime pertinente respecto del número de firmas recogidas.
+
+### Artículo 14
+
+Artículo 14.
+1. Las firmas que no reúnan los requisitos exigidos en esta Ley se declararán inválidas y no serán computadas.
+2. Comprobado el cumplimiento de los requisitos exigidos para la válida presentación de la proposición, la Junta Electoral de Andalucía elevará, en el plazo de un mes, al Parlamento certificación acreditativa del número de firmas válidas, procediendo luego a destruir los pliegos de firmas que obren en su poder.
+
+## CAPÍTULO III
+
+De la Iniciativa Legislativa de los Ayuntamientos
+
+### Artículo 15
+
+Artículo 15.
+1. La Iniciativa Legislativa de los Ayuntamientos requerirá acuerdo favorable adoptado por la mayoría absoluta del Pleno de las Corporaciones Interesadas.
+2. Los Ayuntamientos promotores de la iniciativa constituirán una Comisión compuesta por un miembro de cada Corporación, elegidos a tal fin por los Plenos de las respectivas Corporaciones.
+3. Los miembros de la Comisión Promotora sólo podrán ser sustituidos por suplentes designados al efecto.
+
+### Artículo 16
+
+Artículo 16.
+El escrito de presentación, firmado por los miembros de la Comisión, deberá contener:
+a) El texto articulado de la proposición de Ley, precedido de una exposición de motivos.
+b) Una Memoria en la que se detallan las razones y los fundamentos que aconsejen, a juicio de los proponentes, la tramitación y aprobación por el Parlamento de Andalucía de la proposición de Ley.
+c) Una certificación, expedida por el Secretario de cada Corporación, acreditativa del acuerdo adoptado al efecto por mayoría absoluta de los miembros de la Corporación, y el texto íntegro de la proposición de Ley.
+d) Certificación expedida por el Instituto Nacional de Estadística u Organismo que le sustituya, por la que se acredite el número de electores censados en cada Ayuntamiento proponente.
+
+### Artículo 17
+
+Artículo 17.
+El procedimiento se iniciará mediante la presentación ante la Mesa del Parlamento, a través del registro general del mismo, de la documentación exigida en el artículo anterior.
+Si la iniciativa se presentara fuera de los períodos de sesión parlamentaria, los plazos empezarán a computarse en el período siguiente a la presentación de la documentación.
+
+## TÍTULO II
+
+De la tramitación Parlamentaria
+
+### Artículo 18
+
+Artículo 18.
+1. Recibida la documentación exigida para cada procedimiento, la Mesa del Parlamento se pronunciará en el plazo de quince días sobre su admisibilidad, de acuerdo con lo previsto en los artículos 3.º y 4.º de esta Ley.
+2. Admitida la proposición de Ley por la Mesa, el procedimiento de su tramitación se regulará con lo establecido en el artículo 123 del Reglamento del Parlamento de Andalucía.
+3. Cuando se trate de una proposición de Ley de iniciativa de los Ayuntamientos, una vez acordada la admisión por la Mesa del Parlamento, se dará cuenta a los Ayuntamientos de Andalucía, con remisión del texto íntegro, para que en el plazo de dos meses presenten cuantas alegaciones estimen oportunas. Las alegaciones presentadas serán sistematizadas por la Mesa del Parlamento y se notificarán a los Grupos Parlamentarios antes del Pleno en que debe someterse la toma en consideración de la proposición de Ley.
+
+### Artículo19
+
+Artículo 19.
+La Iniciativa Legislativa Popular o de los Ayuntamientos que estuviera en tramitación en el Parlamento de Andalucía, al disolverse éste no decaerá, debiendo incorporarse la iniciativa para su tramitación cuando se constituya de nuevo. No obstante, podrá retrotraerse al trámite que determine la Mesa de la Cámara, sin que sea preciso en ningún caso acreditar de nuevo el cumplimiento de los requisitos previstos en el artículo 2.º
+
+### Artículo 20
+
+Artículo 20.
+1. La Comunidad Autónoma, con cargo a los presupuestos del Parlamento, resarcirá a la Comisión promotora o a los Entes locales interesados de los gastos realizados en la difusión de la proposición y la recogida de firmas cuando alcance su tramitación parlamentaria.
+2. Los gastos deberán ser justificados en forma por los promotores de la iniciativa. La compensación económica no excederá, en ningún caso, de 30.050,60 euros. Esta cantidad será revisada cada dos años por el Parlamento de Andalucía.
+Se modifica por el art. 4 de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Disposición adicional
+
+Disposición adicional.
+En el supuesto de que en el ejercicio de la Iniciativa Legislativa Popular y de los Ayuntamientos se originen gastos no presupuestados, se habilitarán por el Parlamento los fondos necesarios.
+
+### Disposición final primera
+
+Disposición final primera.
+Las modificaciones realizadas en la presente Ley que afecten a la composición y funcionamiento del Parlamento de Andalucía darán lugar a la adecuación normativa del Reglamento de la Cámara. En particular se determinará el procedimiento para articular la participación de las personas promotoras de las Iniciativas Legislativas Populares en la presentación y defensa en el Pleno de la Cámara y en el seguimiento de los debates, en la forma que reglamentariamente se establezca, para que resulte equivalente a la de diputados y diputadas en las Proposiciones de Ley, así como su participación en la oportuna Comisión parlamentaria.
+Se modifica por la disposición final de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones pertinentes para el desarrollo y cumplimiento de esta Ley.
+Se renumera por la disposición final de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+ Su anterior numeración era disposición final 1.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+Se renumera por la disposición final de la Ley autonómica 8/2011, de 5 de diciembre. Ref. BOE-A-2011-20372.
+ Su anterior numeración era disposición final 2.
+
+Sevilla, 17 de octubre de 1988.
+JOSÉ RODRÍGUEZ DE LA BORBOLLA CAMOYÁN
+Presidente de la Junta de Andalucía

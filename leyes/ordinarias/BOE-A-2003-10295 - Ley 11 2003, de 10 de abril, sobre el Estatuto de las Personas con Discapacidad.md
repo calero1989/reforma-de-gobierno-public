@@ -1,0 +1,910 @@
+# Ley 11/2003, de 10 de abril, sobre el Estatuto de las Personas con Discapacidad.
+
+- Identificador BOE: `BOE-A-2003-10295`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10295
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en DOGV núm. 4486, de 24 de abril de 2003. Ref. DOGV-r-2003-90254
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+Numerosas son las declaraciones que desde el ámbito internacional se han formulado con el fin de garantizar que las personas con discapacidad disfruten de los mismos derechos que el resto de la ciudadanía. También en el ámbito de la unión europea. La carta social europea y distintas recomendaciones, resoluciones y programas, han tratado de concienciar a los gobiernos sobre los graves problemas sociales, económicos, educativos, sanitarios y de accesibilidad a la vivienda y al empleo que afectan a las personas con discapacidad.
+La Constitución española, en su artículo 9.2 impone a los poderes públicos el deber de promover las condiciones para que la libertad y la igualdad del individuo y los grupos en que se integran sean reales y efectivas, de remover los obstáculos que impidan o dificulten su plenitud y de facilitar la participación de toda la ciudadanía en la vida política, económica, cultural y social. Asimismo, el artículo 49 de la carta magna obliga a los poderes públicos a realizar una política de previsión, tratamiento, rehabilitación e inclusión de las personas con deficiencias físicas, sensoriales y psíquicas a las que prestarán la atención especializada que requieran y ampararán el disfrute de los mismos derechos que el resto de la ciudadanía.
+II
+La Ley 13/1982, de 7 de abril, sobre Integración Social de los Minusválidos, fue la primera ley de carácter social del Estado destinada a las personas con discapacidad tras la aprobación de la Constitución, pero los años transcurridos desde su entrada en vigor, así como su cercanía en el tiempo con la aprobación del Estatuto de Autonomía de la Comunidad Valenciana, cuando todavía era incipiente el desarrollo de las competencias autonómicas, hace conveniente, de acuerdo con el marco competencial propio de la Generalidad Valenciana, la aprobación de una ley específica destinada a regular el régimen jurídico específico aplicable a las personas con discapacidad.
+Esta ley consagra un auténtico estatuto de las personas con discapacidad, recogiendo a dichos efectos, no sólo los principios rectores de la actuación de la Administración de la Generalidad Valenciana en orden a la prevención, tratamiento e inclusión de las personas con discapacidad, sino el reconocimiento de auténticos derechos subjetivos a las mismas, exigibles, en las condiciones reguladas en la presente ley, frente a la Administración de la Generalidad Valenciana o sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación de hacienda pública valenciana. Entre los principios generales que rigen la actuación de las Administraciones Públicas en relación con las personas con discapacidad, merecen destacarse por su importancia, los de autonomía, participación, el principio de inclusión y el de responsabilidad pública, mediante el cual la Generalitat procurará paulativamente aumentar la dotación económica presupuestaria para alcanzar la plena realización de los principios que vienen recogidos en esta ley, y en especial, para que las personas con discapacidad puedan disfrutar del principio de igualdad de oportunidades.
+En este sentido, la ley aborda un enfoque integral del estatuto jurídico de las personas con discapacidad, incorporando la idea de que el ejercicio de los derechos debe ser efectivo para todas las personas, supliendo las carencias y necesidades de los grupos sociales más vulnerables. Se incorpora así, a las políticas sociales valencianas, el concepto de «desarrollo humano», recogido en el Informe 2000 del Programa de Naciones Unidas para el Desarrollo y en el Informe del Club de Roma sobre Desarrollo Humano y Discapacidad.
+La presente ley también determina las atribuciones más importantes de los distintos departamentos de la Administración de la Generalidad Valenciana en relación con las personas con discapacidad, e incide, entre otros aspectos, en la tipología de recursos específicos de acción social destinados a las personas con discapacidad, y en el régimen de las infracciones y sanciones que pueden imponerse en esta materia.
+Con este enfoque global que realiza la ley se pretende, básicamente, la consecución de dos objetivos: por un lado, conseguir que cualquier ciudadano pueda, fácilmente, tener un conocimiento de los derechos más importantes que asisten a las personas con discapacidad, y, por otro lado, orientar la actuación de la Administración Pública de la Generalidad Valenciana para dar una respuesta adecuada y coordinada a las necesidades de las personas con discapacidad, con la finalidad última de mejorar sus condiciones de vida y conseguir su inclusión sociolaboral.
+En este sentido, para facilitar la tarea de interpretación de la norma, la ley deroga expresamente el artículo 21 de la Ley 5/1997, de 25 de junio, de la Generalidad Valenciana, por la que se regula el Sistema de Servicios Sociales en el Ámbito de la Comunidad Valenciana, dedicado a las personas con discapacidad, si bien prevé, transitoriamente, el mantenimiento de la tipología de los recursos para personas con discapacidad previstos en dicha norma legal, hasta que se produzca el correspondiente desarrollo reglamentario de estos aspectos. No obstante, en cuanto a la accesibilidad y eliminación de barreras, existiendo un tratamiento completo de las mismas en la Ley 1/1998, de 5 de mayo, de Accesibilidad y Supresión de Barreras Arquitectónicas, Urbanísticas y de la Comunicación, no se ha considerado oportuno modificar dicha norma, remitiéndose la presente ley a la misma en cuanto a la regulación de tales cuestiones.
+III
+Asumiendo la clasificación internacional del funcionamiento, de la discapacidad y de la salud, aprobada en el mayo de 2001, por la Organización Mundial de la Salud, en la que se tomó la decisión de reemplazar los conceptos «deficiencia», «discapacidad» y «minusvalía», esta Ley ha optado por utilizar el término «discapacidad» como un término genérico, inclusivo y respetuoso con las personas que tienen limitaciones en la actividad y restricciones en la participación.
+Asimismo, resulta imprescindible que este estatuto recoja las directrices de la Convención internacional sobre los derechos de las personas con discapacidad, aprobada el 13 de diciembre de 2006 por la Asamblea General de las Naciones Unidas (ONU), ratificada por España el 3 de diciembre de 2007 y en vigor desde el 3 de mayo de 2008.
+La convención supone la consagración del nuevo enfoque de derechos de las personas con discapacidad, erigiéndose en el primer tratado de derechos humanos del siglo XXI. Y, así, representa un auténtico punto de inflexión en la historia de los derechos de las personas con discapacidad e incluso en la historia del tratamiento de la discapacidad, expresando, sin ambages, la obligación de los estados de abordar la discapacidad desde el modelo biopsicosocial y desde un enfoque de derechos humanos.
+El mandato de la convención y dicho cambio de concepción global cristalizaron en la Ley 26/2011, de 1 de agosto, cuya disposición final segunda emplazaba al legislador estatal a una labor de refundición, regularizando, aclarando y armonizando la Ley 13/1982, de 7 de abril, de integración social de las personas con discapacidad (originariamente, «minusválidos»), la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, y la Ley 49/2007, de 26 de diciembre, por la que se establece el régimen de infracciones y sanciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad. Fruto de tal labor, se publicó en el «BOE» de 3 de diciembre de 2013, el Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social.
+La convención de la ONU es una apuesta por una sociedad inclusiva, en la que la diversidad ocupa un lugar central y no es sino consecuencia del nuevo enfoque de derechos ya que este está irremediablemente unido a la inclusión.
+IV
+La presente ley está inspirada en la idea de que los poderes públicos deben llevar a cabo medidas preventivas dirigidas a impedir que se produzca un deterioro físico, sensorial o psíquico de las personas, así como a evitar que ese deterioro cause una discapacidad, y a que, en los casos en los que no pueda evitarse la discapacidad, intentar mejorar las potencialidades de las personas, favorecer la interacción entre la persona afectada y su entorno con la eliminación de obstáculos y la facilitación de ayudas de distinto tipo.
+Respecto a la prevención la presente ley incluye diferentes tipos de acción, como el diagnóstico o la estimulación precoz de la discapacidad, las campañas de vacunación contra las enfermedades transmisibles, las campañas de sensibilización de la sociedad en general o la adaptación de los lugares de trabajo dirigidas a la población en general. En cuanto a la rehabilitación, como proceso encaminado a lograr que las personas con discapacidad estén en condiciones de alcanzar y mantener un estado funcional óptimo, de manera que cuenten con medios para modificar su propia vida y ser más independientes, la ley les reconoce el derecho a la asistencia sanitaria, así como a la rehabilitación integral.
+V
+La presente ley establece un régimen jurídico aplicable a las personas que acrediten la superación de un determinado grado de discapacidad, mediante la regulación de derechos y obligaciones tendentes a la inclusión de las mismas en la vida social, laboral y cultural, promoviendo su autosuficiencia e independencia con los soportes y ayudas necesarios por parte de los poderes públicos. Además, tomando en consideración la diversidad de tipos de discapacidad que pueden tiene, que las personas con discapacidad no forman un grupo homogéneo, así como la necesidad de un tratamiento específico y adaptado a las necesidades de éstos, reconoce derechos específicos para determinados grupos de personas con discapacidad, como por ejemplo para las personas con discapacidad con movilidad reducida o con discapacidad sensorial o que necesiten apoyo generalizado.
+Entre los derechos que se reconocen en esta ley merecen destacarse: el derecho de las personas con discapacidad sensorial para que se eliminen los obstáculos que les impiden recibir información de la Administración de la Generalidad Valenciana en condiciones de igualdad con el resto de los ciudadanos, estableciendo procedimientos accesibles, que faciliten la información en braille, lengua de signos y/o otros sistemas alternativos de comunicación que fueran necesarios; el derecho de las personas con movilidad reducida a poder realizar en su propio domicilio la presentación de documentos, alegaciones, toma de declaración, o audiencia y vista del expediente; así como, el derecho de cualquier persona al diagnóstico precoz y a la prevención de la discapacidad desde el inicio del embarazo.
+Por último señalar que en el procedimiento de elaboración de la presente ley, han sido consultadas las asociaciones o entidades que representan a las personas directamente afectadas por la ejecución de la norma, igualmente, ha informado el Consejo Valenciano de Bienestar Social y las diferentes Consellerias, con competencias sobre la materia objeto de la regulación proyectada, cuyas sugerencias han sido incorporadas en su mayor parte.
+Se modifica el apartado III por el art. 112 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifican los apartados I, II, III y V por los arts. 1, 2 y la disposición adicional de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## TÍTULO I
+
+Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación de la ley.
+1. Constituye el objeto de la presente ley la regulación de la actuación de las administraciones públicas de la Comunitat Valenciana, por medio de una acción coordinada, dirigida a la atención, promoción y protección de los derechos y libertades fundamentales, el bienestar y calidad de vida de las personas con discapacidad, posibilitando su autonomía, habilitación, o en su caso, rehabilitación así como su participación e inclusión plenas y efectivas en la sociedad, con el fin de asegurar el derecho a la igualdad y dignidad reconocido por la Constitución española y demás derechos protegidos por la Convención sobre los derechos de las personas con discapacidad, hecha en Nueva York el 13 de diciembre de 2006. Todo ello en el marco específico previsto en el Estatuto de autonomía de la Comunitat Valenciana, en la Ley de la Generalitat Valenciana por la que se regula el sistema de servicios sociales y la coordinación requerida por la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia, y demás disposiciones de aplicación.
+2. Será de aplicación a todas las actuaciones y servicios que, en el ámbito de las personas con discapacidad y dentro del territorio de la Comunitat Valenciana, lleven a cabo la administración de la Generalitat, o sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, así como las corporaciones locales de la Comunitat Valenciana, y las demás entidades públicas y privadas que colaboren con ellas.
+3. Asimismo, se establece la ordenación y tipología de centros y servicios de acción social destinados a las personas con discapacidad y la fijación del correspondiente régimen de infracciones y sanciones.
+Se modifica por el art. 3 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de la presente Ley, se entiende por:
+1. Personas con discapacidad, aquellas que por su diversidad física, mental, intelectual, cognitiva o sensorial, previsiblemente de carácter permanente, en la interacción con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad en igualdad de condiciones con los demás.
+2. Además de lo establecido en el apartado anterior, y a todos los efectos, tendrán la consideración de personas con discapacidad aquellas a quienes se les haya reconocido un grado de discapacidad igual o superior al 33 %. Se considerará que presentan una discapacidad en grado igual o superior al 33 % los pensionistas de la seguridad social que tengan reconocida una pensión de incapacidad permanente en el grado de total, absoluta o gran invalidez, y los pensionistas de clases pasivas que tengan reconocida una pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.
+3. Personas con discapacidad que presentan movilidad reducida: aquellas personas que, de forma permanente o temporal, tienen limitada la capacidad de movimiento. El reconocimiento se fijará a través de la aplicación del baremo que se establezca con carácter general para esta función.
+4. Personas con discapacidad con necesidades de apoyo generalizado: aquellas personas que, como consecuencia de su discapacidad, necesitan atención o ayuda de otra u otras personas para hacer las actividades básicas de la vida diaria. La concurrencia de esta necesidad se entenderá acreditada cuando se obtenga cualquier grado de dependencia, de acuerdo con el baremo establecido con carácter general por la normativa estatal para este fin.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 4 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 3
+
+Artículo 3. Reconocimiento y titulares de derechos.
+1. Serán titulares de los derechos:
+a) Las personas con discapacidad y nacionalidad española que tengan o adquieran su vecindad administrativa en cualquier municipio de la Comunitat Valenciana.
+b) Los extranjeros que teniendo discapacidad, residan legalmente, temporal o permanentemente, en España conforme a la legislación de extranjería, y tengan o adquieran su vecindad administrativa en cualquier municipio de la Comunidad Valenciana.
+2. No obstante, cualquier extranjero que tenga discapacidad será titular de los derechos mencionados en los artículos 31 y 32 y usuario de los servicios recogidos en el artículo 34 de esta ley.
+3. El disfrute de los derechos reconocidos en esta ley a las personas con discapacidad, con movilidad reducida o con necesidad de apoyo generalizado por motivo de su discapacidad, requerirá de la correspondiente acreditación de tales circunstancias, mediante resolución de los órganos administrativos que tengan atribuida la competencia para la valoración y calificación de las discapacidades.
+Se sustituye el término "discapacidad o diversidad funcional" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por los arts. 1 y 5 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## TÍTULO II
+
+De las actuaciones de la Administración de la Generalitat en materia de personas con discapacidad
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+### Artículo 4
+
+Artículo 4. Principios generales.
+La administración de la Generalitat, sus entidades autónomas y empresas, adoptarán las medidas tendentes a promover, proteger y asegurar el goce pleno y en condiciones de igualdad de todos los derechos humanos y libertades fundamentales por todas las personas con discapacidad y velará por el respeto de su dignidad inherente rigiéndose en sus actuaciones, de acuerdo con la Convención de la ONU de derechos de las personas con discapacidad, por los principios siguientes:
+1. El respeto a la dignidad inherente y la libertad de tomar sus propias decisiones.
+2. La autonomía individual y la promoción de la vida independiente, favoreciendo la permanencia en su entorno habitual de convivencia, con la asistencia personal necesaria para cada persona y situación.
+3. La igualdad de trato y no discriminación.
+4. La participación e inclusión plenas y efectivas en la sociedad y el diálogo civil.
+5. El respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humana.
+6. La igualdad de oportunidades.
+7. La accesibilidad universal.
+8. La igualdad entre mujer y hombre, sin perjuicio del impulso de medidas de discriminación positiva para mujeres y niñas con discapacidad, sujetas a múltiples formas de discriminación.
+9. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad.
+10. La transversalidad de las políticas, programas y actuaciones impulsadas por la Generalitat en el ámbito social y económico.
+11. La responsabilidad pública en la dotación de los medios y recursos necesarios para alcanzar la plena realización de los principios enumerados en el presente artículo.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 6 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+ Se modifica por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 5
+
+Artículo 5. De las competencias de la Generalitat.
+Corresponden a la Administración de la Generalitat, por medio de la Conselleria competente en materia de atención a las personas con discapacidad, entre otras, las siguientes actuaciones:
+a) Aprobar un Plan Integral de Actuación para las personas con discapacidad de la Comunidad Valenciana, de carácter cuatrienal con dotación presupuestaria propia, que tendrá como objetivos orientar, consolidar y establecer prioridades en las actuaciones e inversiones públicas y privadas en la materia objeto de esta ley.
+b) Investigar, formar, sensibilizar y difundir en la realidad que presenta el sector social de las personas con discapacidad, prestando especial atención a sus características específicas y necesidades.
+c) Disponer y organizar la recogida de datos estadísticos elaborando censos específicos de personas con discapacidad y disponer asimismo la recogida de datos específicos de la demanda de servicios existente y los recursos disponibles, así como identificar nuevas necesidades, todo ello conforme con lo dispuesto en la legislación estatal de protección de datos de carácter personal.
+d) Establecer los criterios de calidad que han de cumplir todos los centros y servicios que actúen en el ámbito de las personas con discapacidad, con el fin de garantizar las condiciones en que éstos son atendidos. Asimismo, también será competencia de la Generalitat el establecimiento de mecanismos de supervisión y control de la citada calidad en la actividad de los centros y en la prestación de los servicios generalizados que reciben las personas con discapacidad, sean éstos de titularidad pública, de entidades sin ánimo de lucro o de la iniciativa privada.
+e) Asesorar y apoyar, técnica y económicamente, a las entidades locales y organizaciones y asociaciones públicas y privadas, especialmente las de iniciativa social sin ánimo de lucro, que se decidan a colaborar en la creación, gestión, promoción y desarrollo de planes y programas de promoción de las personas con discapacidad; en la creación y gestión de los centros y en la prestación de los servicios regulados por la presente ley. Con este fin, dentro del respeto a la normativa vigente en la materia, se promoverá el establecimiento de los convenios de colaboración y la celebración de conciertos regulados en los artículos 50 y siguientes de la presente ley, que se estimen convenientes para el cumplimiento adecuado de los objetivos previstos legalmente.
+f) Coordinar las actuaciones de las distintas Administraciones Públicas, sin perjuicio del respeto a su ámbito específico de competencias, y de la iniciativa social sin ánimo de lucro y privada, a fin de racionalizar y optimizar el uso de los recursos disponibles.
+
+### Artículo 6
+
+Artículo 6. Derechos frente a la Administración de la Generalitat, o sus entidades autónomas y sus entidades de Derecho Público sujetas a derecho privado.
+Las personas con discapacidad, en sus relaciones con la administración de la Generalitat o sus entidades autónomas y sus entidades de derecho público sujetas a derecho privado, gozarán de los derechos que les otorgan la presente ley y demás normas que les sean de aplicación, y, en especial, tendrán los siguientes derechos:
+1. A igual protección legal y a beneficiarse de la ley sin discriminación alguna.
+2. Al reconocimiento de su personalidad jurídica y capacidad jurídica en igualdad de condiciones en todos los aspectos de la vida.
+3. Al acceso a la justicia en igualdad de condiciones y la garantía de sus derechos en todo tipo de procesos, especialmente en el ámbito del proceso penal, así como en el penitenciario.
+4. A los ajustes razonables, entendiendo por tales las modificaciones adecuadas que no impongan una carga desproporcionada o indebida, para garantizar el goce o ejercicio de todos los derechos humanos y libertades fundamentales.
+5. A recibir un trato personalizado e individualizado y a acceder en condiciones de igualdad con el resto de los ciudadanos a los servicios públicos.
+6. A disponer de una imagen social ajustada, normalizada, respetuosa e inclusiva de las personas con discapacidad, en tanto que manifestación enriquecedora de la diversidad humana.
+7. A la libertad de expresión y opinión y al acceso y uso eficaz, en igualdad de condiciones, a la información, la comunicación y el conocimiento a través de las TIC.
+8. Al reconocimiento y protección por parte de los poderes públicos de la lengua de signos como parte de la identidad de las personas de la comunidad lingüística que la utilicen así como de la diversidad y riqueza lingüística y cultural de la sociedad valenciana.
+El ejercicio de los derechos de las personas con discapacidad se realizará de acuerdo con el principio de libertad en la toma de decisiones; para ello, la información y consentimiento deberán efectuarse en formatos accesibles y comprensibles. En particular, se intentará facilitar la información en braille, lengua de signos, estenotipia u otros sistemas alternativos de comunicación.
+En todo caso, se deberán tener en cuenta las circunstancias personales, su capacidad para tomar la concreta decisión y asegurar el apoyo conveniente si es necesario.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade el apartado 8 por el art. 51 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifica por el art. 7 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 7
+
+Artículo 7. Cumplimiento de la normativa sobre inclusión laboral de personas con discapacidad, a efectos de la concesión de ayudas o subvenciones de la Generalitat.
+1. La Administración de la Generalitat, así como sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, exigirán la acreditación del cumplimiento de la normativa sobre inclusión laboral de personas con discapacidad, o en su caso, la exención de dicha obligación, a aquellos empresarios, personas físicas o jurídicas, que soliciten subvenciones o ayudas económicas de la Generalitat.
+2. La acreditación de dicho cumplimiento, o en su caso, la exención de dicha obligación, se realizará mediante declaración responsable del solicitante, sin perjuicio de las facultades de la Generalidad Valenciana de comprobación de la validez de dicha declaración en cualquier momento, así como de la imposición de las sanciones que pudieran corresponder.
+3. Sin la acreditación, o en su caso, exención regulados en este artículo, no podrá concederse ayudas o subvenciones.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 8
+
+Artículo 8. Preferencia en la concesión de subvenciones y ayudas económicas.
+La Administración de la Generalitat, sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, en las correspondientes órdenes de convocatoria de ayudas económicas y subvenciones destinadas a empresas, deberá establecer la preferencia en la adjudicación, en caso de empate de las mejores proposiciones en la puntuación final obtenida por los solicitantes, de aquellas empresas que acrediten ocupar un porcentaje de trabajadores discapacitados superior respecto a la plantilla de la empresa con anterioridad a la publicación de la norma por la que se regulen las ayudas o subvenciones.
+Cuando no sea posible la incorporación de trabajadores discapacitados a las empresas solicitantes, por la imposibilidad de que los servicios de empleo públicos competentes, o las agencias de colocación, puedan atender la oferta de empleo después de haber efectuado todas las gestiones de intermediación necesarias para dar respuesta a los requerimientos de la misma y concluirla con resultado negativo, la adjudicación se efectuará a la empresa que acredite un incremento en las cuotas previstas en la normativa vigente para las medidas alternativas a la contratación de trabajadores discapacitados.
+
+### Artículo 9
+
+Artículo 9. Preferencia en la contratación administrativa.
+1. En los pliegos de cláusulas administrativas particulares de los contratos de la Administración de la Generalitat, de sus entidades autónomas y sus entidades de derecho público sujetas a derecho privado, deberá recogerse como criterio preferencial en la adjudicación de los mismos que, en caso de empate de las mejores proposiciones en la puntuación final obtenida por los licitadores, la adjudicación se efectuará a la empresa que acredite tener en su plantilla, en el momento de presentar sus proposiciones, un porcentaje mayor de trabajadores discapacitados con anterioridad a la publicación del contrato.
+Cuando no sea posible la incorporación de trabajadores discapacitados a la empresas licitadoras, por la imposibilidad de que los servicios de empleo públicos competentes, o las agencias de colocación, puedan atender la oferta de empleo después de haber efectuado todas las gestiones de intermediación necesarias para dar respuesta a los requerimientos de la misma y concluirla con resultado negativo, la adjudicación se efectuará a la empresa que acredite un incremento de las cuotas previstas en la normativa vigente para las medidas alternativas a la contratación de trabajadores discapacitados.
+2. Igualmente, en los supuestos de adquisición de productos y servicios tecnológicos de información y comunicación, dichos pliegos recogerán como criterio preferencial en la adjudicación de los mismos que, en caso de empate de las mejores proposiciones en la puntuación final obtenida por los licitadores, la adjudicación se efectuará a la empresa que acredite que los mencionados productos y servicios son accesibles para las personas con discapacidad.
+
+### Artículo 10
+
+Artículo 10. Flexibilidad de horarios laborales en la Administración Pública de la Generalidad Valenciana, sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana.
+1. El personal al servicio de la Generalitat, de sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, que tenga a su cargo alguna persona dependiente por motivo de discapacidad, tendrá derecho a la flexibilización del horario laboral hasta un máximo de dos horas diarias, pudiendo disfrutarlas, exclusivamente, en los periodos comprendidos entre las 8 y las 10 horas, entre las 13 y las 15 horas y entre las 16 y las 19 horas, debiendo recuperar dichas horas, dentro del horario de trabajo semanal.
+2. El disfrute de este derecho exigirá la autorización de la Conselleria con competencias en materia de función pública o de los jefes de personal de sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana en los que preste sus servicios este personal. Podrá limitarse el disfrute de este derecho cuando por las especiales características del servicio a desempeñar la ausencia del puesto de trabajo pueda ocasionar graves trastornos al servicio público, lo que deberá acreditarse mediante resolución motivada.
+
+### Artículo 11
+
+Artículo 11. Fomento de la flexibilidad de horarios laborales en las empresas.
+La Administración de la Generalitat, a través del departamento competente en materia de empleo, adoptará medidas de fomento de la flexibilidad de los horarios laborales de los trabajadores y trabajadoras con discapacidad, así como de los trabajadores y trabajadoras que tengan a su cargo alguna persona dependiente por motivo de discapacidad, convocando al efecto ayudas para que las empresas adopten este tipo de iniciativas.
+
+### Artículo 12
+
+Artículo 12. Información.
+1. Las Administraciones Públicas Valencianas, para permitir el conocimiento de los derechos reconocidos en la presente ley, y demás normativa que redunde en beneficio de las personas con discapacidad, facilitará información accesible a cualquiera que la solicite.
+En concreto, deberán prestar información sobre los recursos existentes en la Comunidad Valenciana destinados a las personas con discapacidad, ya sean de carácter educativo, laboral o social o cualquiera otros.
+2. La información que se facilite a los ciudadanos en ningún caso podrá entrañar una interpretación normativa, ni consideración jurídica o económica, sino una simple determinación de conceptos, información de opciones legales o colaboración en la cumplimentación de impresos o solicitudes.
+
+### Artículo 13
+
+Artículo 13. Control y calidad de las medidas normativas vigentes que afectan a las personas con discapacidad.
+La Administración de la Generalitat, a través del departamento correspondiente en función de la materia, establecerá mecanismos de supervisión y control de calidad del cumplimiento de las medidas normativas vigentes que afecten a las personas con discapacidad.
+
+## CAPÍTULO II
+
+Sanidad
+
+### Artículo 14
+
+Artículo 14. Actuaciones en materia de protección a la salud.
+La conselleria u organismo de la Generalitat con competencias en materia de sanidad, de acuerdo con lo dispuesto en los artículos siguientes, velarán por el efectivo disfrute del derecho de las personas con discapacidad a la protección de la salud, incluyendo la prevención de la enfermedad y la protección, promoción y recuperación de la salud, sin discriminación por motivo o por razón de discapacidad, prestando especial atención a la salud mental, a la salud sexual y reproductiva y, por su incidencia en la pluridiscapacidad, a la salud cerebral, siendo los encargados de llevar a cabo las políticas en materia de prevención y de adoptar las medidas necesarias para garantizar la asistencia sanitaria y la habilitación y rehabilitación integral de las personas con discapacidad.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 8 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 15
+
+Artículo 15. Prevención de las discapacidades y de su evolución.
+1. La prevención de patologías que puedan originar discapacidades y la atención a su evolución constituye un derecho de todo ciudadano y ciudadana y de la sociedad en su conjunto y formará parte de las obligaciones prioritarias de la administración en el campo de la salud pública y de los servicios sociales.
+La política de prevención tendrá por objeto evitar y reducir al máximo la aparición de nuevas discapacidades psíquicas, físicas o sensoriales, así como su impacto negativo y su intensificación y atenderá, en todo caso, a la diversidad de las personas, dando un tratamiento diferenciado según las necesidades específicas de cada persona.
+2. Con el fin de llevar a cabo la política de prevención de la discapacidad, la Generalitat, adoptará las siguientes medidas:
+a) Proporcionará los servicios de salud adecuados dirigidos a unas prontas detección e intervención, cuando proceda.
+b) Fomentará la orientación en materia de salud sexual y reproductiva y el asesoramiento genético a los grupos de riesgo.
+c) Fomentará el desarrollo de las capacidades individuales de las personas con discapacidad a cualquier edad y desde la aparición de la discapacidad.
+d) Realizará campañas de vacunación contra las enfermedades que generen riesgos de discapacidad a las personas.
+e) Realizará campañas de prevención, orientación y asesoramiento de las patologías sobrevenidas.
+f) Los profesionales de la salud que presten atención a las personas con discapacidad lo harán con la misma calidad que a las demás personas sobre la base de un consentimiento libre e informado, entre otras formas, mediante la sensibilización respecto de los derechos humanos, la dignidad, la autonomía y las necesidades específicas a través de la capacitación y la promulgación de normas éticas para la atención de la salud en los ámbitos público y privado.
+g) Promoverá y garantizará, especialmente en el caso de la infancia, que se implementen los avances científicos, los instrumentos y los recursos tecnológicos que aumenten las capacidades de las personas con discapacidad de carácter físico, mental, intelectual, cognitivo o sensorial, de manera que se consiga la mayor autonomía posible.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade la letra g) al apartado 2 por el art. 51 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+ Se modifica por el art. 9 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 16
+
+Artículo 16. Asistencia sanitaria.
+La Administración pública de la Generalitat prestará, de conformidad con el régimen de seguridad social aplicable, la prevención, asistencia y prestaciones sanitarias, farmacéuticas y, en su caso, los tratamientos dietoterápicos complejos, para la correcta atención a las personas con discapacidad, cuando ello sea necesario para su desarrollo físico, psíquico y sensorial.
+Se crearán unidades de referencia multidisciplinares, atendiendo a criterios geográficos y de prevalencia, para los tipos de discapacidad que precisen diagnóstico, tratamiento y seguimiento durante toda la vida de la persona con discapacidad, existiendo una relación continuada de los profesionales con la persona con discapacidad y sus familiares.
+Se suprime el párrafo segundo por el art. 160 de la Ley 10/2012, de 21 de diciembre. Ref. BOE-A-2013-663
+
+### Artículo 17
+
+Artículo 17. Habilitación y rehabilitación.
+1. La administración de la Generalitat llevará a cabo las actuaciones necesarias tendentes a garantizar a las personas con discapacidad la habilitación y la rehabilitación integral necesarias para mejorar, mantener o compensar su estado físico, psíquico o sensorial.
+A este efecto, se entiende por rehabilitación el proceso orientado a la recuperación, el mantenimiento o la adquisición de una función o una habilitación perdida, reducida o no adquirida, teniendo por objeto la prestación de servicios y ayudas técnicas dirigidas a la consecución de la recuperación de las personas con discapacidad, la minoración de las secuelas resultantes y el desarrollo de las capacidades de que dispone la persona con discapacidad, para que pueda alcanzar y mantener la máxima independencia y la inclusión y la participación plena en todos los aspectos de la vida.
+2. Cuando se estime conveniente, este proceso de rehabilitación exigirá un tratamiento continuado, permanente y especializado.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 10 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO III
+
+Educación
+
+### Artículo 18
+
+Artículo 18. Actuaciones en materia educativa.
+1. La conselleria u organismo de la Generalitat con competencias en materia de educación y formación, de acuerdo con lo dispuesto en los artículos siguientes y sin perjuicio de lo dispuesto en la normativa específica, velarán por el efectivo disfrute del derecho de las personas con discapacidad a una educación pública, inclusiva y de calidad, así como a la formación a lo largo de la vida, sin discriminación por motivo o por razón de tal circunstancia y sobre la base de la igualdad de oportunidades, siendo los encargados de garantizar una política de fomento que asegure el proceso educativo adecuado, la adopción de ajustes razonables en función de las necesidades individuales y facilite las medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo el desarrollo académico y social, de conformidad con el objetivo de la plena inclusión.
+2. A fin de contribuir a hacer efectivo este derecho, adoptarán las medidas pertinentes para emplear a maestros y maestras, incluidos también aquellos con discapacidad, y para formar a profesionales y personal que trabajen en todos los niveles educativos. Esa formación incluirá la toma de conciencia sobre la discapacidad y el uso de modos, medios y formatos de comunicación aumentativos y alternativos apropiados, y de técnicas y materiales educativos para apoyar a las personas con discapacidad.
+Se sustituye el término "discapacidad o diversidad funcional" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 11 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 19
+
+Artículo 19. Medidas de actuación en materia educativa.
+La Administración de la Generalitat, llevará a cabo las siguientes actuaciones en materia de educación:
+a) Si tras la aplicación de los criterios prioritarios recogidos en la legislación básica estatal en cuanto al acceso de los centros mantenidos con fondos públicos, se produjeran empates en la puntuación obtenida por los solicitantes, se dará preferencia a la escolarización de los alumnos discapacitados en centros que cuenten con los soportes necesarios para cubrir sus necesidades específicas, en la modalidad educativa más adecuada a su discapacidad. La misma preferencia se dará a los alumnos con padres con discapacidad igual o superior al 33%. Únicamente en aquellos supuestos en los que las necesidades de los alumnos discapacitados no puedan ser satisfechas en un centro ordinario, la Administración de la Generalitat procederá a su escolarización en unidades o en centros específicos de educación especial.
+b) Cuando tras la aplicación de los criterios prioritarios recogidos en la legislación básica estatal en cuanto al acceso de los centros mantenidos con fondos públicos, se produjeran empates en la puntuación obtenida por los solicitantes, se dará preferencia para ocupar puestos escolares de enseñanza postobligatoria, en los centros de Bachillerato y Formación Profesional, a los alumnos con necesidades educativas especiales que hayan obtenido el título de graduado en educación secundaria obligatoria. La Generalidad Valenciana adoptará las medidas tendentes a garantizar que estos centros dispongan de los medios personales y materiales necesarios, así como a que se efectúen las adaptaciones curriculares pertinentes.
+c) En lo referente a estudios universitarios, promoverá la adaptación de determinadas materias o prácticas para atender a las necesidades de los alumnos con discapacidad, siempre que con tales adaptaciones no se impida alcanzar un desarrollo suficiente de los objetivos generales previstos para estos estudios.
+d) Realizará convocatorias específicas de becas o ayudas para desplazamiento, residencia y manutención de los alumnos con discapacidad que cursen enseñanzas, cuando las necesidades así lo exijan.
+e) Dará prioridad en el otorgamiento de subvenciones a los titulares de los centros que garanticen los derechos a que se refiere el artículo siguiente.
+f) Se facilitará la puesta en marcha de opciones educativas tendentes a conseguir el desarrollo integral del alumnado con discapacidad.
+g) La administración de la Generalitat dotará a los centros educativos sostenidos con fondos públicos, a todos los niveles, de los recursos necesarios, humanos y materiales, para atender las necesidades del alumnado con discapacidad. La escolarización en centros de educación especial o unidades sustitutorias de los mismos solo se llevará a cabo cuando, excepcionalmente, sus necesidades no puedan ser atendidas en los centros ordinarios y tomando en consideración la opinión de los padres y tutores legales. Se garantizará la accesibilidad universal en todas las instalaciones educativas.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica la letra g) por el art. 12 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 20
+
+Artículo 20. Derechos de los las personas con discapacidad en materia educativa.
+En cualquiera de las etapas educativas, obligatorias y no obligatorias, en Centros de titularidad pública o concertados por la Administración de la Generalitat, a las personas con discapacidad comprendidas en el ámbito de aplicación de esta ley se garantizarán los siguientes derechos:
+1. Derecho a la atención educativa específica que, por sus necesidades especiales, requieran.
+2. Derecho a la atención temprana de las necesidades educativas de apoyo específico de los alumnos y alumnas que presenten discapacidad o pluridiscapacidad.
+3. Derecho a la evaluación psicopedagógica continua de su proceso educativo, garantizando a las familias de los alumnos y alumnas información completa y en formato accesible sobre la misma.
+4. Derecho a la utilización de medios técnicos, didácticos y nuevas tecnologías, así como otros recursos y opciones educativas que faciliten su aprendizaje.
+Se modifican los apartados 2 y 3 por el art. 13 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO III BIS
+
+Del acceso a la justicia
+Se añade por el art. 14 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 20 bis
+
+Artículo 20 bis. Medidas específicas.
+Las medidas específicas para garantizar la efectividad de los principios de igualdad de oportunidades, no discriminación y accesibilidad universal se aplicarán, además de a los derechos regulados en el presente título, en el ámbito de la administración de justicia.
+Se añade por el art. 14 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 20 ter
+
+Artículo 20 ter. Garantía para la igualdad de condiciones.
+La Generalitat, en el uso de las competencias que ostenta en esta materia y sin perjuicio de las obligaciones internacionalmente asumidas por el Estado, asegurará que las personas con discapacidad tengan acceso a la justicia en igualdad de condiciones con las demás así como la garantía de sus derechos en todos los órdenes jurisdiccionales, favoreciendo dentro de dicho ámbito competencial la adopción de medidas tales como la puesta a disposición de intérpretes de lengua de signos u otro sistema de comunicación no verbal y, siempre que resulte necesario, la traducción de documentación a un formato accesible, a fin de facilitar el desempeño de las funciones efectivas de esas personas como participantes directos e indirectos, incluida la declaración como testigos, en todos los procedimientos judiciales, con inclusión de la etapa de investigación y otras etapas preliminares de cualquier proceso.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 14 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO IV
+
+De la inserción laboral
+Se modifica por el art. 15 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 21
+
+Artículo 21. Objetivos.
+La conselleria o el organismo de la Generalitat con competencias en materia de empleo y formación profesional o continua, de acuerdo con los artículos siguientes, velarán por el disfrute efectivo del derecho de las personas con discapacidad al trabajo libremente elegido o aceptado en un mercado y un entorno laborales que sean abiertos, inclusivos y accesibles a las personas con discapacidad, sobre la base de la no discriminación y la igualdad de trato y oportunidades, no solo en la ocupación sino en la formación y la promoción profesionales y en las condiciones de trabajo, y serán los encargados de promover y llevar a efecto políticas de inserción e inclusión de las personas con discapacidad, prioritariamente en el sistema ordinario o, en su defecto, en el sistema productivo, mediante la fórmula de la ocupación protegida, la finalidad de las cuales será aumentar las tasas de actividad y de empleo e inserción laboral de las personas con discapacidad, como también mejorar la calidad de la ocupación y dignificar sus condiciones de trabajo.
+Igualmente, especial atención se dedicará a la orientación, intermediación y apoyo para la formación profesional, para el autoempleo y para la búsqueda, obtención, mantenimiento del empleo y retorno al mismo.
+Se sustituye el término "diversidad funcional" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 16 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## Sección 1
+
+Sección 1.ª Formación profesional
+
+### Artículo 22
+
+Artículo 22. Formación profesional.
+1. Se fomentará la programación y organización de cursos de formación profesional, ocupacional y continua, en módulos adaptados, con recursos técnicos y personales adecuados, en función del tipo de discapacidad del alumnado, dirigidos a aquellos alumnos discapacitados cuyas características individuales les impidan el acceso a los programas ordinarios de formación profesional.
+2. Se potenciará igualmente el desarrollo de prácticas profesionales en centros de trabajo.
+
+### Artículo 23
+
+Artículo 23. Prioridad y reserva de plazas en los cursos de formación profesional.
+1. Se priorizará la concesión de ayudas a todos los cursos y acciones de formación profesional vayan dirigidos a las personas con discapacidad.
+2. En los cursos de formación profesional organizados por la Administración de la Generalitat, se reservará un 3% del número de plazas para personas con discapacidad, debiendo garantizarse como mínimo, independientemente del número de plazas convocadas, la reserva de una plaza para personas con discapacidad.
+
+### Artículo 24
+
+Artículo 24. Criterios de formación profesional.
+Periódicamente se desarrollarán los criterios a seguir en orden a la programación y promoción de la formación profesional de las personas con discapacidad, con el fin de garantizar una formación adecuada a sus características, incluyendo en dicha programación cuantas medidas sean necesarias para que el desarrollo tecnológico suponga más independencia de este colectivo.
+
+## Sección 2
+
+Sección 2.ª Inserción Laboral
+
+### Artículo 25
+
+Artículo 25. Medidas de fomento para la inserción laboral de las personas con discapacidad.
+1. La Generalitat llevará a cabo una política de fomento del empleo tendente a facilitar la inserción laboral de las personas con discapacidad y su permanencia en el mercado ordinario de trabajo, desarrollando para ello los diferentes instrumentos de inserción laboral, ayudas económicas y técnicas necesarias para que las personas con discapacidad no se vean excluidas del acceso al mercado laboral. La conselleria u organismo de la Generalitat competente en materia de empleo, evaluará de forma permanente las posibilidades de inserción en el mercado laboral de las personas con discapacidad, fomentando la inserción laboral.
+2. Para la inserción de las personas con discapacidad en el mercado ordinario de trabajo se promocionarán aquellos programas dirigidos a la contratación de personas con discapacidad, a la posibilidad de constituirse en trabajadores autónomos o la de integrarse en empresas de economía social, la reinserción de trabajadores discapacitados y los que vayan destinados a la adaptación de puestos de trabajo.
+3. En las ofertas de empleo público, la Generalitat reservará en las convocatorias anuales un cupo de plazas no inferior al 7% o a aquel porcentaje y sus cuotas específicas que se establezcan en la Ley de ordenación de la función pública valenciana, para ser cubiertas por personas con discapacidad, atendiendo a la definición legal de las mismas contenida en el artículo 4.2 del Real decreto legislativo 1/2013, de 29 de noviembre, de modo que se alcance, como mínimo, el 2% o porcentaje superior que establezca la normativa específica, de los efectivos totales de la administración pública valenciana.
+4. En las pruebas de acceso al empleo público de la Generalitat, se garantizará el cumplimiento de la normativa en materia de adaptabilidad y se adoptarán las medidas indispensables para garantizar la igualdad de oportunidades.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por los arts. 1 y 17 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+ Se modifica el apartado 3 por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 26
+
+Artículo 26. Centros Especiales de Empleo.
+Se fomentará el empleo estable de los trabajadores con discapacidad en los Centros Especiales de Empleo mediante ayudas dirigidas a la creación, mantenimiento e incremento del empleo en el mismo, así como ayudas destinadas a facilitar el transporte a dichos centros cuando la mayoría de sus trabajadores sean personas con discapacidad con movilidad reducida o personas con discapacidad psíquica.
+
+### Artículo 27
+
+Artículo 27. Empleo con apoyo y enclaves laborales.
+También se potenciarán experiencias singulares que supongan la creación de puestos de trabajo ordinario destinados a las personas con discapacidad con necesidad de apoyo generalizado, a través de acciones basadas en el empleo con apoyo y enclaves laborales. Tales medidas se fundamentarán, entre otras, en acciones de acompañamiento laboral o mediador laboral de acuerdo a las necesidades de cada colectivo de personas con discapacidad, como forma de garantizar el éxito de la inserción y mantenimiento de una persona con discapacidad en el empleo ordinario.
+
+### Artículo 27 bis
+
+Artículo 27 bis. Empleo público.
+La conselleria u organismo de la Generalitat con competencias en materia de administración pública promoverán y adoptarán las medidas necesarias para el acceso de las personas con discapacidad al empleo público y su permanencia en él, sobre la base de no discriminación y la igualdad de trato y oportunidades. El acceso al empleo público y las vicisitudes en su desempeño, se regirán por lo dispuesto en la normativa específica reguladora de la materia.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 18 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO V
+
+Inclusión Social
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 28
+
+Artículo 28. Centros de Valoración y Orientación.
+1. Los centros de valoración y orientación de discapacidades se configuran como la estructura física y funcional de carácter público en el ámbito de la Comunidad Valenciana destinada a la valoración y calificación de la discapacidad, y determinación de su tipo y grado, así como las necesidades, aptitudes y posibilidades de recuperación de la persona con discapacidad.
+2. En el desarrollo de sus funciones, los centros de valoración y orientación realizarán un seguimiento periódico de las personas con discapacidad, revisando, en su caso, la valoración de la discapacidad si se produjera una variación en las circunstancias de la persona.
+
+### Artículo 29
+
+Artículo 29. Actuaciones en materia de políticas de protección social.
+1. La conselleria o el organismo de la Generalitat competente en materia de igualdad y políticas inclusivas, como también ayuntamientos u organismos municipales en el ámbito de sus competencias, de acuerdo con lo dispuesto en los artículos siguientes, velarán por el efectivo disfrute del derecho de las personas con discapacidad y sus familias a la protección social y a gozar de ese derecho sin discriminación alguna por motivos de discapacidad, en particular, a disfrutar de unos servicios y prestaciones sociales que atiendan con garantías de suficiencia y sostenibilidad sus necesidades, dirigidos al desarrollo de su personalidad y su inclusión en la comunidad, preservando su dignidad e incrementando su calidad de vida.
+2. La prestación de los servicios sociales respetará al máximo la permanencia de las personas con discapacidad en su medio familiar y en su entorno geográfico, cultural y social teniendo en cuenta las barreras específicas de quienes habiten en zonas rurales, sin perjuicio de garantizar el acceso a otra tipología de recursos cuando resulte necesario o más idóneo, teniendo en cuenta el ejercicio del derecho de la persona a decidir libremente.
+3. Especial atención tendrá la incorporación de una perspectiva de género en todas las acciones destinadas a promover el pleno goce de los derechos humanos y libertades, reconociendo que los niños y niñas con discapacidad están expuestos a un riesgo mayor, dentro y fuera del hogar, de violencia, abandono, trato denigrante, malos tratos o explotación.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 19 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## Sección 1
+
+Sección 1.ª Centros y servicios
+
+### Artículo 30
+
+Artículo 30. Tipología de centros y servicios.
+1. Los servicios de acción social dirigidos a personas con discapacidad responderán a las siguientes finalidades:
+a) Información, orientación y asesoramiento técnico a las personas con discapacidad y familiares, o en su caso, representantes legales.
+b) Asistencia domiciliaria.
+c) Ocio y tiempo libre.
+d) Teleasistencia o telealarma.
+e) Respiro familiar.
+2. Los centros de acción social para las personas con discapacidad se clasifican en:
+a) Centros de atención diurna.
+b) Residencias y viviendas tuteladas, que prestarán una atención continuada las 24 horas del día.
+3. Reglamentariamente, se regulará la tipología de cada uno de los servicios y centros, así como, sus características y condiciones de acceso teniendo en cuenta los distintos tipos de discapacidad. Con la finalidad de dar una adecuada satisfacción a las necesidades que puedan surgir, también podrán establecerse reglamentariamente nuevos tipos de centros y servicios, así como las condiciones que regirán en su prestación o para su acceso.
+
+### Artículo 31
+
+Artículo 31. Información, Orientación y Asesoramiento.
+1. Sin perjuicio de lo que disponga la normativa general sobre Servicios Sociales, y constituyendo el nivel primario de atención a las personas con discapacidad, las Administraciones Públicas de la Comunidad Valenciana prestarán con carácter personalizado, información, orientación y asesoramiento técnico a las personas con discapacidad o a sus representantes legales sobre los derechos de las personas con discapacidad, el ejercicio de los mismos, los deberes que le incumben y los recursos disponibles destinados a su atención y a la promoción de su bienestar social.
+2. Dichas actuaciones tendrán carácter gratuito y se prestarán, preferentemente, por equipos multidisciplinares en Centros Sociales.
+3. La información que se facilite a los ciudadanos en ningún caso podrá entrañar una interpretación normativa, ni consideración jurídica o económica, sino una simple determinación de conceptos, información de opciones legales o colaboración en la cumplimentación de impresos o solicitudes.
+
+### Artículo 32
+
+Artículo 32. Atención domiciliaria y servicios de apoyo personal.
+Cuando la situación individual o familiar de la persona con discapacidad sea de especial necesidad, las Entidades Locales de la Comunidad Valenciana efectuarán prestaciones personalizadas asistenciales gratuitas de carácter doméstico, psicológico, de mediación para garantía de la autodeterminación, rehabilitador, social, educativo y laboral que estando dirigidas a facilitar la permanencia de la persona en su núcleo familiar o convivencial, sirvan de apoyo a las personas con discapacidad, familias o personas encargadas de su cuidado.
+Estos servicios de apoyo personal se articularán en un programa o servicio de intervención para el mantenimiento de las personas con discapacidad y con problemas de salud mental en su domicilio o entorno social, en coordinación con el sistema sanitario y los equipos profesionales de servicios sociales de atención primaria de carácter básico, para valorar las necesidades y la provisión de los servicios.
+Se sustituye el término "diversidad funcional" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 62 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-4
+
+### Artículo 33
+
+Artículo 33. Programas de ocio y tiempo libre.
+Las entidades locales en su ámbito territorial, la conselleria u organismo competente en materia de acción social de la Generalidad Valenciana y, en su caso, las asociaciones o entidades privadas sin ánimo de lucro, promoverán la realización de programas de ocio y tiempo libre que, destinados a personas con discapacidad, fomenten su inclusión social y su desarrollo personal.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 34
+
+Artículo 34. Servicios de teleasistencia y telealarma.
+Las entidades locales en su ámbito territorial, la conselleria u organismo competente en materia de acción social de la Generalidad Valenciana y, en su caso, las asociaciones o entidades sin ánimo de lucro, promoverán servicios de teleasistencia y telealarma que, mediante líneas telefónicas o cualquier otro sistema de comunicación a distancia, permitan que una persona dependiente por motivo de discapacidad esté en contacto permanente con un equipo de apoyo que, en caso urgencia o necesidad, adopte las medidas oportunas para una adecuada asistencia puntual.
+
+### Artículo 35
+
+Artículo 35. Servicios de respiro familiar.
+Las entidades locales en su ámbito territorial, la conselleria u organismo competente en materia de acción social de la Generalidad Valenciana y, en su caso, las asociaciones o entidades privadas sin ánimo de lucro, promoverán servicios de respiro familiar que, mediante un recurso de estancias cortas al que puedan acudir personas con discapacidad, permitirá a las familias o tutores, solucionar situaciones de urgencia o estrés familiar.
+
+### Artículo 36
+
+Artículo 36. Prestaciones económicas individualizadas.
+1. La Administración de la Generalitat podrá establecer ayudas económicas de carácter personal dirigidas a las personas con discapacidad que obedezcan a las siguientes finalidades:
+a) Ayudas para el desarrollo personal, que podrán articularse a través de distintas modalidades: ayudas técnicas, ayudas para la eliminación de barreras arquitectónicas y de la comunicación, ayudas para facilitar el desplazamiento de las personas con movilidad reducida, y cuantas otras favorezcan su inclusión social.
+b) Ayudas de atención institucionalizada, cuando se agoten otros recursos alternativos.
+c) Otras ayudas que puedan establecerse en el futuro para la inclusión social o, en general, para el bienestar social de las personas con discapacidad.
+2. (Suprimido)
+Se suprime el apartado 2 por la disposición final 6 del Decreto-ley 12/2025, de 22 de julio. Ref. DOGV-r-2025-90191
+ Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 37
+
+Artículo 37. Centros de atención diurna o ambulatoria.
+1. Los centros de atención diurna son recursos destinados a la atención social de las personas con discapacidad, mediante un equipo multidisciplinar, en los que se prestan servicios en determinadas horas del día, con el objetivo común de potenciar las capacidades y autonomía de las personas con discapacidad, fomentando la interacción en su entorno familiar y social, evitando con ello internamientos innecesarios y no deseados.
+2. De acuerdo con su finalidad concreta, los centros de atención diurna o ambulatoria podrán ser:
+a) Centros de Atención Temprana: son recursos destinados a la prevención e intervención en niños y niñas con alteraciones o trastornos de desarrollo o riesgo de padecerlos por causas de origen prenatal, perinatal o postnatal, con edades comprendidas entre los 0 a 6 años, siempre que no estén atendidos con otros recursos sociales, sanitarios o educativos.
+La atención global que brindan estos centros se encuentra encaminada a potenciar y desarrollar al máximo sus capacidades, mediante programas sistemáticos y secuenciados que abarcan todas las áreas del desarrollo infantil. Su actuación se coordinará con el sistema sanitario y educativo.
+b) Centros Ocupacionales: son recursos dirigidos a proporcionar a personas con discapacidad ocupación terapéutica para su ajuste personal, técnicas profesionales para su inclusión laboral y habilidades sociales para su inclusión social.
+c) Centros de Rehabilitación e Inclusión Social para Enfermos Mentales Crónicos (CRIS): dirigidos a enfermos mentales crónicos con un deterioro significativo de sus capacidades funcionales, en los que se llevará a cabo programas de trabajo adecuados a las características, necesidades y situación concreta de los usuarios.
+d) Centros-Día: destinados a personas con discapacidad con gran deterioro de sus capacidades funcionales, requieren apoyos generalizados para acceder y utilizar recursos sociales, educativos y laborales, a través de programas que desarrollen las capacidades globales de las personas atendidas, procurando su mayor autonomía e inclusión social.
+3. Los centros de atención diurna podrán ser de titularidad de la Administración de la Generalidad Valenciana y, en su caso, de las Entidades Locales, así como, de entidades y asociaciones promovidas por la iniciativa privada o por los propios afectados.
+4. Las Entidades Locales y las entidades privadas que pretendan gestionar un centro de atención diurna deberán recabar con carácter previo la correspondiente autorización administrativa prevista en la presente ley.
+Se modifica el título y el apartado 2.a) por el art. 62 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-4
+ Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+ Se modifica la letra a) del apartado 2 por la disposición adicional 2.3 de la Ley 12/2008, de 3 de julio. Ref. BOE-A-2008-14050#da-2
+
+### Artículo 38
+
+Artículo 38. Residencias.
+1. Las residencias son recursos de vivienda destinados a las personas con discapacidad que precisen de una atención integral, continuada, personal y multidisciplinar, que no puede ser llevada a cabo en su medio familiar por sus condicionamientos personales o familiares.
+2. Las residencias no deberán configurarse como instituciones cerradas, sino que deberán coordinarse con el resto de recursos a los que tienen acceso las personas con discapacidad, como centros de atención diurna, atención sanitaria, etc.
+3. La tipología de centros residenciales, así como sus características y condiciones de acceso, se desarrollarán reglamentariamente teniendo en cuenta los distintos tipos de discapacidad.
+4. Las residencias podrán ser de titularidad de la Administración de la Generalidad Valenciana. También podrán ser titulares las Entidades Locales, o las entidades y asociaciones promovidas por la iniciativa privada o por los propios afectados, en cuyo caso deberán reunir los requisitos previstos en la presente ley y recabar la correspondiente autorización administrativa.
+
+### Artículo 39
+
+Artículo 39. Viviendas tuteladas.
+1. Las viviendas tuteladas son hogares funcionales de dimensiones reducidas en los que conviven de forma estable en el tiempo, pequeños grupos de personas con necesidad de apoyo intermitente o limitado, y en régimen parcialmente autogestionado.
+2. La tipología de las viviendas tuteladas, así como sus características y condiciones de acceso, se desarrollarán reglamentariamente teniendo en cuenta los distintos tipos de discapacidad.
+3. Las viviendas tuteladas podrán ser de titularidad de la Administración de la Generalidad Valenciana. También podrán ser titulares las Entidades Locales, o las entidades y asociaciones promovidas por la iniciativa privada o por los propios afectados, en cuyo caso deberán reunir los requisitos previstos en la presente ley y recabar la correspondiente autorización administrativa.
+
+## Sección 2
+
+Sección 2.ª Derechos de los usuarios y familiares
+
+### Artículo 40
+
+Artículo 40. Derechos de las personas con discapacidad usuarias de los centros de atención diurna y de residencias para personas con discapacidad.
+Los personas con discapacidad que sean usuarias de centro de atención diurna o de residencias para personas con discapacidad, con independencia de la titularidad de estos centros, tendrán los siguientes derechos:
+a) A ser informados, participar y ser oídos, por sí o a través de sus representantes, en las actividades y en las decisiones que afecten a la atención que reciben en dichos centros.
+b) A mantener relaciones interpersonales, y a recibir visitas, siendo obligación de la dirección de los centros el promover y facilitar las relaciones periódicas con sus familiares y amigos.
+c) A recibir un trato digno, tanto del personal del centro como de otros usuarios.
+d) A una estancia en condiciones de seguridad e higiene.
+e) Al secreto profesional de los datos de su expediente de acuerdo con lo establecido en la normativa sobre protección de datos personales.
+f) A la atención individualizada que demande sus necesidades específicas mediante un tratamiento multidisciplinar.
+g) A la intimidad y privacidad, con el límite de las exigencias derivadas de la protección de su vida, salud y seguridad.
+h) A la asistencia integral en residencias para personas con discapacidad con necesidad de apoyo generalizado y a tener asignado un médico de atención primaria.
+Se entiende por asistencia integral la atención sanitaria, psicológica, formativa, recreativa y socio-familiar similar tendente a conseguir su bienestar y un adecuado desarrollo personal.
+i) A recibir en los centros para personas con discapacidad, las mismas prestaciones sociales, que el resto de los ciudadanos reciben en su domicilio.
+j) A recibir en las residencias para personas con discapacidad, las mismas prestaciones sanitarias, que el resto de los ciudadanos reciben en su domicilio.
+k) A formular reclamaciones y quejas sobre la asistencia que recibe.
+A este fin, el titular de cada Centro deberá adoptar las medidas adecuadas para establecer un sistema interno de recepción, seguimiento y resolución de las quejas y reclamaciones que pudiera presentar el usuario del Centro, por sí o a través de su representante.
+l) A la continuidad en la prestación de los servicios en las condiciones establecidas legalmente o convenidas.
+m) A la información sobre la evolución de su discapacidad, así como sobre los servicios que se prestan en el centro y los derechos que le asisten.
+o) A cesar en la utilización de los servicios o en la permanencia en el centro por propia voluntad o a instancia de sus representantes, sin perjuicio de los supuestos en los que la permanencia en el centro esté sometida a decisión judicial.
+p) A una programación del tiempo de ocio adecuada a sus capacidades y que redunde en su desarrollo personal.
+q) Al disfrute secuencializado de la plaza en los recursos más idóneos a las características de la persona con discapacidad, según su proceso individual de rehabilitación e inclusión, dentro de los recursos previstos en la presente ley.
+Los órganos administrativos y las Administraciones Públicas establecerán los mecanismos adecuados de colaboración y coordinación para velar por los derechos reconocidos en esta ley a las personas con discapacidad, padres y familiares.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 41
+
+Artículo 41. Derechos de los padres y familiares.
+Los padres de las personas con discapacidad, usuarias de centros, o los que tengan atribuida la tutela y, en su defecto, los guardadores de hecho de las personas con discapacidad, tendrán los siguientes derechos:
+a) A visitar al hijo o tutelado usuario del centro.
+b) A formular reclamaciones y quejas sobre la asistencia que recibe el usuario del centro.
+c) A la información sobre la evolución de la discapacidad del usuario del centro, la atención individualizada que acorde a sus necesidades específicas recibe, así como, los servicios que se prestan en el mismo.
+d) A formar parte e intervenir en los órganos de participación del centro.
+e) A la orientación psicológica y técnica como apoyo en el proceso de intervención.
+
+### Artículo 42
+
+Artículo 42. Obligaciones de las personas con discapacidad usuarias de centros de atención diurna o residencias para personas con discapacidad.
+Los personas con discapacidad que sean usuarias de centro de atención diurna o de residencia para personas con discapacidad, con independencia de la titularidad de estos centros, y en atención al tipo de discapacidad que presentan, tendrán las siguientes obligaciones:
+a) Respetar las normas generales de convivencia y los derechos del resto de usuarios.
+b) Observar una conducta basada en el respeto mutuo, la tolerancia y la colaboración.
+c) Facilitar y respetar el trabajo del personal de los centros.
+d) Abonar el importe de las liquidaciones de las estancias y los precios de los servicios que reciba como usuario de los centros.
+e) Respetar y cuidar las instalaciones del centro.
+f) Observar las condiciones acordadas para su estancia en el centro.
+g) Asistir a las citas propuestas por los profesionales del centro para recibir las indicaciones terapéuticas o la información pertinente para el aprovechamiento del recurso utilizado.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## Sección 3
+
+Sección 3.ª Recursos tutelares
+
+### Artículo 43
+
+Artículo 43. Instituciones de protección y apoyo a personas afectadas por un proceso de incapacitación o con incapacidad declarada judicialmente.
+La administración de la Generalitat apoyará y dinamizará, en coordinación con la autoridad judicial, la atención a las personas afectadas por un proceso de incapacitación o con incapacidad declarada total o parcialmente, promoviendo entidades sociales sin ánimo de lucro que puedan desempeñar, cuando proceda, la tutela o curatela de aquellas, o asumir otras figuras de protección y apoyo de acuerdo con lo previsto en el Código civil.
+Se modifica por el art. 20 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+ Se modifica por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+## Sección 4
+
+Sección 4.ª Sensibilización social
+
+### Artículo 44
+
+Artículo 44. Campañas de sensibilización.
+La Administración de la Generalitat llevará a cabo en los medios de comunicación social o en otros soportes, campañas de sensibilización de la sociedad en la prevención de las discapacidades, respeto de los derechos de las personas con discapacidad y solidaridad con los mismos, ofreciendo una visión positiva de las personas con discapacidad como sujetos activos de la sociedad, al objeto de que ésta, en su conjunto, colabore en su total inclusión.
+En dichas campañas se prestará especial atención al fomento del voluntariado social en la realización de actividades contempladas en la presente ley y al refuerzo de la presencia de la mujer con discapacidad en el seno de la sociedad.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## Sección 5
+
+Sección 5.ª Participación de la iniciativa social
+
+### Artículo 45
+
+Artículo 45. Participación de la iniciativa social.
+1. La Administración de la Generalitat y las Entidades Locales de la Comunidad Valenciana ampararán la iniciativa privada sin ánimo de lucro, colaborando en el desarrollo de estas actividades mediante asesoramiento técnico, coordinación, planificación y apoyo económico. Especial atención recibirán las instituciones, fundaciones y asociaciones sin ánimo de lucro, promovidas por las propias personas con discapacidad, sus familiares o sus representantes legales.
+2. En el marco que establece la legislación vigente en materia de voluntariado, la Administración de la Generalitat fomentará la participación de ciudadanos y ciudadanas que de forma solidaria y altruista quieran colaborar en la realización de actividades prestacionales contempladas en la presente ley.
+3. Será requisito imprescindible para poder percibir ayudas de la Generalitat Valenciana destinadas al funcionamiento de los centros, que, en éstos, se constituyan órganos colegiados con participación de la dirección del centro, de su personal y de los propios usuarios y/o familiares o tutores, según las características de la discapacidad.
+
+## Sección 6
+
+Sección 6.ª Participación de la iniciativa privada
+
+### Artículo 46
+
+Artículo 46. Participación de la iniciativa privada.
+1. La iniciativa privada, en los términos y condiciones a que se refiere esta ley y su normativa de desarrollo, podrá colaborar con los poderes públicos, y con las entidades sin ánimo de lucro, con carácter complementario, en la prestación de los servicios a que se refiere la presente ley.
+2. Cuando los centros de titularidad pública no fueren suficientes o adecuados para atender las demandas de la sociedad valenciana, la Administración de la Generalitat, en colaboración con la iniciativa privada, mediante los medios que más se adecuen a la satisfacción de las necesidades existentes, promoverá la creación de nuevas plazas que permitan el cumplimiento de los objetivos perseguidos por la presente ley.
+3. Será requisito imprescindible para poder percibir ayudas de la Generalidad Valenciana destinadas al funcionamiento de los centros, que, en estos, se constituyan órganos colegiados con participación de la dirección del centro, de su personal y de los propios usuarios y/o familiares o tutores, según las características de la discapacidad.
+
+## Sección 7
+
+Sección 7.ª Financiación de los centros y servicios
+
+### Artículo 47
+
+Artículo 47. Disposiciones generales.
+1. La Generalidad Valenciana consignará en sus presupuestos anuales los créditos necesarios para financiar los servicios y centros contemplados en la presente ley.
+2. Asimismo, consignará los créditos necesarios para contribuir al desarrollo y mejora de las actuaciones que efectuadas por las Entidades Locales redunden en beneficio de las personas con discapacidad.
+En estos supuestos será requisito necesario para la percepción de fondos públicos de la Generalidad Valenciana el que la Entidad Local correspondiente acredite, mediante certificado del Secretario o Interventor municipal, la existencia de créditos en sus Presupuestos que tengan por finalidad la consecución de los objetivos perseguidos por esta ley.
+3. Anualmente, las leyes de Presupuestos contemplarán créditos destinados al sostenimiento de los centros de las personas con discapacidad que se desarrollen por entidades sin ánimo de lucro.
+Para ser perceptor de dichos fondos, el plan de actuación o el servicio que se pretenda efectuar deberá obtener la aprobación del órgano competente de la Administración de la Generalidad Valenciana en el sector de personas con discapacidad.
+
+### Artículo 48
+
+Artículo 48. Financiación de los centros de titularidad de la Generalidad Valenciana.
+1. Al objeto de optimizar los recursos públicos, la estancia, en centros para personas con discapacidad de titularidad de la Administración de la Generalitat, de sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, será cofinanciada con los usuarios de los mismos, en atención a su capacidad económica. En el caso de menores, se atenderá a la capacidad económica de sus padres.
+2. La utilización de los centros de la Administración de la Generalidad Valenciana, de sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana, devengará el derecho de la misma a exigir un precio público a cada usuario, el cual no podrá superar el coste efectivo de su estancia. Dichos precios se establecerán conforme a la legislación de precios públicos de la Generalidad Valenciana.
+
+### Artículo 49
+
+Artículo 49. Aportación del usuario.
+1. La cuantía del precio público que deba efectuar el usuario de los centros públicos de la Generalitat estará en función de su capacidad económica y en el caso de menores se atenderá a la capacidad económica de sus padres, siendo dichas aportaciones revisadas y actualizadas por parte de la Administración periódicamente.
+2. Así mismo, la Administración de la Generalidad Valenciana garantizará a las personas con discapacidad sin recursos económicos propios, su asistencia gratuita en los centros que más se adecuen a sus necesidades.
+3. La gestión y liquidación del precio público que se devengue por la utilización de centros de titularidad de la Generalidad Valenciana se efectuará por la Conselleria u organismo competente en materia de personas con discapacidad.
+
+## Sección 8
+
+Sección 8.ª De los conciertos
+Se deroga por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículos 50 a 57
+
+(Derogados).
+Se derogan por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 50
+
+Artículo 50. Concierto de plazas.
+1. Al objeto de satisfacer las necesidades de plazas en los centros de atención a personas con discapacidad, la Conselleria con competencias en materia de integración social de discapacitados podrá concertar plazas de centros de titularidad privada con aquellas entidades que, habiendo sido previamente autorizadas con carácter definitivo, acrediten experiencia en la gestión de Centros de atención a personas con discapacidad y garanticen la calidad adecuada en la prestación de los servicios.
+2. El Gobierno Valenciano establecerá las normas básicas a que deban someterse los conciertos. En dicha regulación se establecerán las fórmulas regladas que garanticen una justa distribución de los fondos por medio de convocatoria pública para el establecimiento de los oportunos conciertos, en las que el régimen de libramientos se ajustará a lo previsto en la legislación de hacienda pública valenciana y normativa concordante.
+
+### Artículo 51
+
+Artículo 51. Sobre la definición de Centro Concertado.
+A los efectos de lo regulado en esta ley, tendrán la consideración de Centros Concertados aquellos centros de atención a personas con discapacidad que sean beneficiarios de fondos públicos y que cumplan los requisitos recogidos en la presente sección.
+
+### Artículo 52
+
+Artículo 52. Concierto de programas.
+1. La Generalitat establecerá, con las entidades sin ánimo de lucro, conciertos plurianuales de programación en función del interés social de éstos. El Consell de la Generalitat establecerá las normas básicas a que deban someterse estos conciertos.
+2. Sólo serán susceptibles de conciertos los programas que sean compatibles con carácter plurianual de los mismos.
+Redactado conforme a la corrección de errores publicada en DOGV núm. 4486, de 24 de abril de 2003. Ref. DOGV-r-2003-90254
+
+### Artículo 53
+
+Artículo 53. Sobre los conciertos.
+1. Los conciertos que se celebren con centros de atención a personas con discapacidad se regirán por lo previsto en esta ley, normativa de desarrollo y en la Ley de Contratos de las Administraciones Públicas.
+2. Tendrán preferencia para acogerse al régimen de conciertos las entidades sin ánimo de lucro que, con anterioridad a la promulgación de la presente ley, fueran beneficiarias de subvenciones de la Generalitat para el mantenimiento de Centros de atención a personas con discapacidad
+
+### Artículo 54
+
+Artículo 54. Sobre cuantías y plazos de los conciertos.
+1. Los conciertos tendrán carácter plurianual a fin de posibilitar un marco estable, a medio plazo, para la financiación de los Centros acogidos a este sistema. Al finalizar este plazo podrán ser renovados, sin perjuicio de su posible extinción prematura por causa de incumplimiento grave o cualesquiera otras causas que se fijen reglamentariamente.
+2. La cuantía global anual de los fondos públicos destinados al sostenimiento de los Centros Concertados se establecerá en los Presupuestos de la Generalitat.
+
+### Artículo 55
+
+Artículo 55. Sobre normas para la cobertura de plazas en Centros Concertados.
+La cobertura de plazas en Centros Concertados se ajustará al régimen establecido para los Centros públicos en esta ley en lo que se refiere al sistema de ingresos, reglamento de régimen interior, sometimiento al régimen de precios públicos, participación de los usuarios en su organización y aquellos otros que se determinen reglamentariamente.
+
+### Artículo 56
+
+Artículo 56. Sobre la extinción de conciertos.
+1. Los conciertos podrán extinguirse antes de su finalización mediante resolución por incumplimiento grave.
+2. El incumplimiento no grave dará lugar al apercibimiento por parte de la Administración. Caso de que el incumplimiento no grave fuese reiterativo, no se procederá a la renovación del concierto.
+3. En los supuestos de extinción del concierto con anterioridad a su vencimiento natural, la Administración adoptará las medidas necesarias para procurar la continuidad en la atención a los usuarios.
+4. Si el incumplimiento hubiera conllevado la percepción indebida de fondos públicos por parte del titular del Centro, la resolución de éste conllevará la devolución de las mismas.
+
+### Artículo 57
+
+Artículo 57. Sobre las causas de incumplimiento.
+En el reglamento de los Centros Concertados se determinarán las causas de incumplimiento de los conciertos, su graduación y efectos.
+
+## Sección 9
+
+Sección 9.ª Registro y autorización de entidades, centros y servicios
+
+### Artículo 58
+
+Artículo 58. De los registros.
+1. Aquellas entidades o personas físicas que lleven a cabo su actividad en la Comunidad Valenciana en el ámbito de acción social, mediante actuaciones dirigidas a personas con discapacidad, deberán inscribirse en el Registro de Titulares, de Centros y Servicios que a tal efecto se constituya.
+2. Igualmente se procederá a inscribir cada centro o servicio, una vez autorizado su funcionamiento.
+3. Reglamentariamente se regulará el funcionamiento y organización de dichos registros, impulsándose la creación de registros descentralizados y la conexión informática entre todos ellos.
+
+### Artículo 59
+
+Artículo 59. De la autorización administrativa de funcionamiento.
+La Administración de la Generalitat, sin perjuicio de las preceptivas licencias municipales, autorizará el funcionamiento de los centros y servicios de acción social que tengan como destinatarios a personas con discapacidad, siempre y cuando cumplan los requisitos establecidos reglamentariamente y, en cualquier caso, los siguientes:
+a) Que el centro o servicio se ubique o funcione en el ámbito territorial de la Comunidad Valenciana.
+b) Que el titular solicitante de autorización sea persona física o jurídica y esté inscrito en el registro previsto en el artículo anterior.
+c) Que en el funcionamiento del centro o servicio se garantice la participación de los usuarios y/o familiares o tutores, según las características de la discapacidad, y su organización sea de carácter democrático, a tal fin el reglamento de régimen interior recogerá dichas formas de participación.
+d) Que el centro o servicio cuente con los recursos humanos y medios materiales u organización adecuados.
+e) Que el centro de publicidad a su sistema de ingresos y los precios de cada uno de sus servicios, debiendo poner a disposición de los usuarios, familiares o representantes, el reglamento de régimen interior. A tal fin cada centro redactará y someterá a la aprobación administrativa del órgano competente para otorgar la autorización de funcionamiento, un reglamento de régimen interior en el que se recogerá como mínimo de forma concreta los derechos y deberes de las personas usuarias reconocidos en la presente ley, el sistema de ingresos, las tarifas de precios, los horarios de atención a los usuarios y familiares, las formas de participación previstas en el apartado c) del presente artículo y cuantas otras cuestiones se establezcan reglamentariamente en la tipología de centros.
+f) Que el centro o servicio se coordine con la Administración Pública de la Generalidad Valenciana competente en materia de inclusión social de personas con discapacidad y se someta a los requerimientos de la función inspectora.
+g) Que el centro cumpla las condiciones físicas, sanitarias y arquitectónicas adecuadas para su funcionamiento, en especial la eliminación de barreras arquitectónicas, urbanísticas y de la comunicación.
+h) Que la ubicación del centro garantice el fácil acceso a los servicios comunitarios y de transporte.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 60
+
+Artículo 60. Procedimiento de Registro y Autorización.
+1. La inscripción en el registro de Registro de Titulares, de Centros y Servicios, de las personas físicas o jurídicas titulares de centros y/o servicios que lleven a cabo su actividad en la Comunidad Valenciana en el ámbito de la acción social mediante actuaciones dirigidas a personas con discapacidad, se efectuará previa incoación del correspondiente procedimiento administrativo que se iniciará a solicitud de persona interesada.
+En análogos términos se procederá en los supuestos de autorización para el funcionamiento de los Centros y Servicios de acción social que tengan como destinatarios a personas con discapacidad
+2. El plazo para resolver y notificar la resolución será el que se fije reglamentariamente. En el supuesto de que transcurrido dicho plazo no se le notificara al interesado resolución expresa, deberá entenderse desestimada la solicitud.
+3. Reglamentariamente se desarrollará el procedimiento administrativo para el Registro de titulares o de centros y/o servicios que lleven a cabo su actividad en la Comunidad Valenciana en el ámbito de la acción social a personas con discapacidad, y el procedimiento de autorización de estos últimos.
+
+### Artículo 61
+
+Artículo 61. De la autorización provisional.
+Se podrá conceder una autorización provisional a un centro o servicio siempre que la falta de requisitos y condiciones no afecten a la seguridad y protección de los usuarios y sean considerados como dispensables para su funcionamiento. La autorización provisional establecerá las deficiencias observadas y el término máximo de vigencia de la misma para proceder al cumplimiento.
+
+### Artículo 62
+
+Artículo 62. De la autorización definitiva.
+Para obtener la autorización definitiva deberán acreditarse todos y cada uno de los requisitos establecidos reglamentariamente y, en especial, la obtención de la correspondiente licencia municipal de apertura.
+
+### Artículo 63
+
+Artículo 63. Sobre sanciones por no tener autorización.
+Sin la autorización, provisional o definitiva, ningún centro o servicio podrá entrar en funcionamiento, pudiendo sancionarse la conducta contraria conforme al Título III de esta ley, además de acordarse el oportuno cierre del establecimiento o centro y el cese de la actividad o servicio.
+
+### Artículo 64
+
+Artículo 64. De la modificación de las condiciones.
+Deberá comunicarse a la conselleria u organismo competente en materia de inclusión social de personas con discapacidad de la Generalidad Valenciana, cualquier circunstancia que implique una alteración de las condiciones que sirvieron de base para la resolución de la autorización administrativa, por si procediera su modificación o dejación sin efectos, la cual podrá llevarse a cabo de oficio a consecuencia de inspección o denuncia.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 65
+
+Artículo 65. De la competencia para las autorizaciones de funcionamiento.
+La competencia para dictar las resoluciones de autorizaciones de centros y servicios destinados a personas con discapacidad corresponderá a la conselleria u organismo competente en materia de inclusión social de personas con discapacidad de la Generalidad Valenciana.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO VI
+
+Transportes
+
+### Artículo 66
+
+Artículo 66. Reducción del precio de los billetes.
+Las personas con discapacidad con necesidad de apoyo generalizado, con residencia en la Comunidad Valenciana, disfrutarán de una reducción en el precio de los billetes de los transportes interurbanos de viajeros de uso público colectivo gestionados por la Administración de la Generalitat, sus entidades autónomas y las empresas de la Generalitat contempladas en la legislación pública valenciana o empresas concesionarias, en todos los trayectos con principio y fin en el ámbito de la Comunidad Valenciana.
+Igualmente, la Administración de la Generalitat y entidades dependientes, procurarán garantizar el acceso al transporte público y la información sobre el citado transporte a las personas con discapacidad.
+
+## CAPÍTULO VII
+
+Accesibilidad y eliminación de barreras
+
+### Artículo 67
+
+Artículo 67. Accesibilidad y eliminación de barreras
+1. La Generalitat desarrollará una política de promoción, desarrollo e implantación de los derechos que en materia de accesibilidad y supresión de barreras arquitectónicas, urbanísticas y de la comunicación vienen reconocidas a las personas con discapacidad por la legislación vigente en la materia. En especial, la Administración de la Generalitat fomentará el acceso de las personas con discapacidad a las nuevas tecnologías y la sociedad de la información.
+2. La Administración de la Generalitat, a través de la Conselleria con competencias en materia de inclusión social de discapacitados, velará para que el diseño de los programas y actividades desarrolladas en la Comunidad Valenciana sea un diseño para todos, garantizando la participación en éstos de las personas con discapacidad.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO VIII
+
+Actividades culturales y deportivas
+
+### Artículo 68
+
+Artículo 68. Actividades culturales.
+Las entidades locales en el ámbito de sus respectivas competencias, la conselleria u organismo competente en materia de cultura y/o en materia de acción social de la Generalidad Valenciana y, en su caso, las asociaciones o entidades privadas sin ánimo de lucro, promoverán la realización de programas culturales que fomenten la inclusión social de las personas con discapacidad y su desarrollo personal.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 69
+
+Artículo 69. Actividades deportivas.
+Las entidades locales en el ámbito de sus respectivas competencias, la conselleria u organismo competente en materia deportiva y/o en materia de acción social de la Generalidad Valenciana y, en su caso, las asociaciones o entidades privadas sin ánimo de lucro, promoverán la realización de programas deportivos que fomenten la inclusión social de las personas con discapacidad y su desarrollo personal.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 70
+
+Artículo 70. Inclusión en los ámbitos social y cultural.
+La Generalidad Valenciana velará por el cumplimiento de las normas de accesibilidad y supresión de barreras arquitectónicas, urbanísticas y de la comunicación, facilitando la inclusión de las personas con discapacidad en los ámbitos social y cultural, en cuantos actos de carácter público de su competencia se celebren en el ámbito de la Comunidad Valenciana.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO IX
+
+De la participación en la vida política y pública
+Se añade por el art. 21 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 70 bis
+
+Artículo 70 bis. Garantías de la participación en la vida política y ciudadana.
+La conselleria u organismo de la Generalitat competente en materia de participación ciudadana promoverán activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la toma de decisiones de los asuntos públicos, sin discriminación y en igualdad de condiciones con las demás y, asimismo, fomentará su participación.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 21 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## CAPÍTULO X
+
+De los ajustes razonables
+Se añade por el art. 22 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 70 ter
+
+Artículo 70 ter.
+Las garantías contenidas en los capítulos anteriores se entenderán sin perjuicio del derecho que asiste a las personas con discapacidad de exigir la adopción de ajustes razonables.
+Se sustituye el término "discapacidad o diversidad funcional" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 22 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 70 quáter
+
+Artículo 70 quáter.
+Por ajustes razonables se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+Se sustituye el término "diversidad funcional o discapacidad" por "discapacidad" según establece el art. 111 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se añade por el art. 22 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+## TÍTULO III
+
+Infracciones y Sanciones
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este Título ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 71
+
+Artículo 71. Infracciones administrativas.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 72
+
+Artículo 72. Infracciones leves.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 73
+
+Artículo 73. Infracciones graves.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se añade la letra a bis) al apartado 1 por el art. 23 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 74
+
+Artículo 74. Infracciones muy graves.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifican las letras a) y e) por los arts. 1 y 24 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 75
+
+Artículo 75. Sujetos responsables.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se añade la letra d) al apartado 1 por el art. 25 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 76
+
+Artículo 76. Sanciones.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 77
+
+Artículo 77. Procedimiento sancionador.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Artículo 78
+
+Artículo 78. Órganos competentes.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+ Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+
+### Artículo 79
+
+Artículo 79. Recursos.
+(Suprimido)
+Se suprime por el art. 64.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Téngase en cuenta que este artículo ya fue suprimido por el Decreto-ley 14/2025, de 26 de diciembre.
+ Se suprime por el art. 51 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Disposición adicional
+
+Disposición adicional única. Terminología.
+De conformidad con el artículo 49 de la Constitución y lo dispuesto en el artículo 4 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y su inclusión social, la terminología legal correcta es la de “personas con discapacidad”.
+En su virtud, todas las disposiciones normativas, resoluciones, actos o comunicaciones de la Generalitat, deberán utilizar los términos “persona con discapacidad” o “personas con discapacidad”.
+En las disposiciones normativas o resoluciones ya aprobadas o dictadas con anterioridad, cuando conste el término “diversidad funcional” debe entenderse referido a “discapacidad”.
+Se modifica por el art. 113 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El régimen jurídico de las autorizaciones e inscripciones de centros y servicios de acción social se regirá por el Decreto 91/2002, de 30 de mayo, del Gobierno Valenciano sobre Registro de los Titulares de Actividades de Acción Social, y de Registro y Autorización de Funcionamiento de los Servicios y Centros de Atención Social, en la Comunidad Valenciana, y su normativa de desarrollo, o por las normas que las sustituyan.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta que se desarrolle reglamentariamente la tipología de centros de atención diurna y residencias para personas con discapacidad, continuarán vigentes los artículos 31 y 32 de la Ley 5/1997, de 25 de junio, por la que se regula el Sistema de Servicios Sociales en el ámbito de la Generalidad Valenciana.
+Igualmente, hasta que se produzca dicho desarrollo reglamentario de la tipología de centros de atención diurna y residencias para personas con discapacidad, se regirán por las siguientes normas:
+a) Orden de 9 de abril de 1990 de la Consellería de Trabajo y Seguridad Social, por la que se desarrolla el Decreto 40/1990, de 26 de febrero, del Consell, sobre Registro, Autorización y Acreditación de los Servicios Sociales en la Comunidad Valenciana, o normas que les sustituyan.
+b) El Decreto 132/1996, de 4 de julio, del Consell, por el que se asignan competencias en materia de enfermos mentales, así como por la Orden de 3 de febrero de 1997 de la Conselleria de Trabajo y Asuntos Sociales, por la que se modifica la Orden de 9 de abril de 1990, con el fin de atender a los nuevos servicios que se vayan a prestar a los enfermos mentales crónicos en la Comunidad Valenciana, en su redacción dada por la Corrección de Errores publicada el 24 de febrero de 1997, o normas que les sustituyan.
+c) La Orden de 21 de septiembre de 2001, de la Conselleria de Bienestar Social, por la que se regulan las condiciones y requisitos de funcionamiento de los Centros de Estimulación Precoz, o norma que le sustituya.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Sin perjuicio de lo dispuesto en la presente ley, el régimen jurídico de los conciertos de centros de atención a personas con discapacidad se regirá por el reglamento que regula las normas a las que deben someterse los conciertos a realizar por la Administración de la Generalitat con los centros de iniciativa social de titularidad privada, aprobado por Decreto 51/1999, de 30 de marzo, del Gobierno Valenciano, normativa de desarrollo o por las normas que las sustituyan.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En el plazo de dos años a contar desde la entrada en vigor de esta norma, la Conselleria con competencias en materia de acción social, deberá aprobar el Plan Integral de Actuación para las personas con discapacidad de la Comunidad Valenciana, con dotación presupuestaria propia, a que hace referencia el artículo 5 apartado a) de esta ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+(Derogada)
+Se deroga por la disposición derogatoria única b) de la la disposición transitoria 5, por Ley 8/2024, de 30 de diciembre. Ref. BOE-A-2025-717#dd
+ Se añade por el art. 45 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Disposición derogatoria
+
+Disposición derogatoria única. Normativa que se deroga.
+1. Queda derogado el artículo 21 de Ley 5/1997, de 25 de junio, por la que se regula el sistema de servicios sociales en el ámbito de la Generalitat Valenciana.
+2. Quedan derogados los artículos 50, 51, 52, 53, 54, 55, 56 y 57, de la sección 8.ª (De los conciertos) del capítulo V (Inclusión social) del título II de la presente ley.
+Se modifica por el art. 1 de la Ley 9/2018, de 24 de abril. Ref. BOE-A-2018-6403
+ Se modifica por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno Valenciano para que dicte las normas necesarias para el desarrollo y ejecución de la ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 10 de abril de 2003.
+JOSÉ LUIS OLIVAS MARTÍNEZ,
+Presidente

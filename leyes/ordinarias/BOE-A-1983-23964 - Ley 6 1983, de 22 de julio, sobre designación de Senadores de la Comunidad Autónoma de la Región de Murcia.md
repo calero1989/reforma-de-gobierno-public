@@ -1,0 +1,79 @@
+# Ley 6/1983, de 22 de julio, sobre designación de Senadores de la Comunidad Autónoma de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1983-23964`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-23964
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Aprobada por la Asamblea Regional de Murcia la Ley 6/1985, de fecha 22 de julio, publicada en el «Boletín Oficial de la Región de Murcia» número 158 de 22 de julio de 1983, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 6/1983, de 22 de julio, sobre designación de Senadores de la Comunidad Autónoma de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.2 del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+Con la plena entrada en vigor del Estatuto de Autonomía y celebradas las primeras elecciones conforme a lo dispuesto en el mismo, resulta conveniente proceder a su desarrollo para completar progresivamente sus previsiones, dotando a la Comunidad Autónoma de la Región de Murcia de todo aquello que la configura como tal.
+El artículo 23.2 del Estatuto de Autonomía atribuye a la Asamblea Regional la competencia de designar los Senadores a que se refiere el artículo 89.5 de la Constitución, estableciendo que ello se hará con arreglo a lo que establezca una Ley de la propia Asamblea.
+La Ley establece un sistema de designación que garantiza la proporcionalidad –para el supuesto de elección de más de un Senador– entre los diversos Grupos Parlamentarios, así como la competencia del Pleno a los efectos de aquélla, las condiciones de elegibilidad e inelegibilidad, procedimiento de elección, supuestos para el cese y provisión de vacantes y, en fin, regula las atribuciones de los mismos en cuanto a la propia Asamblea que los designa y a otros extremos.
+Con esta Ley se da pleno cumplimiento, además, a las previsiones constitucionales contenidas en el precepto antes recogido de nuestra Norma Fundamental, con lo que la Comunidad Autónoma viene a completar así la plena eficacia y vigencia de aquél –en la medida que a la Región de Murcia corresponde–, contribuyendo igualmente a reafirmar la configuración del Senado en su carácter o cualidad de «Cámara de representación territorial» que la Constitución le asigna.
+Creado el instrumento, es ya tarea de los Parlamentarios Regionales designar a quienes reúnan las mejores cualidades para responder al desempeño de la alta misión que se les confía por aquéllos que representan directamente los ciudadanos de la Región de Murcia, y, en definitiva, por estos mismos.
+
+### Artículo 1
+
+La designación de los Senadores en representación de la Comunidad Autónoma de la Región de Murcia, a los que se refiere el artículo 23, apartado dos, del Estatuto de Autonomía de la Región, se efectuará por el Pleno de la Asamblea Regional, mediante el procedimiento que establece la presente Ley, en el plazo de treinta días, a partir de la fecha de su constitución en cada legislatura.
+Se modifica por el art. único de la Ley 6/1987, de 29 de septiembre. Ref. BOE-A-1988-3171.
+
+### Artículo 2
+
+Podrán ser elegidos como Senadores representantes de la Comunidad Autónoma los candidatos propuestos que están en pleno uso de sus derechos políticos y sean murcianos conforme al artículo 6 del Estatuto de Autonomía de la Región de Murcia.
+
+### Artículo 3
+
+Serán causas inelegibilidad e incompatibilidad, además de las establecidas en la Constitución Española, y en las leyes electorales generales, específicas que determinen las leyes de la Asamblea Regional de la Comunidad Autónoma.
+
+### Artículo 4
+
+1. Convocado el Pleno en cuyo orden del día figure la designación de Senadores, los Grupos Parlamentarios podrán proponer candidatos hasta el comienzo de la sesión correspondiente.
+2. La propuesta de candidatos deberá efectuarse mediante escrito firmado por el Portavoz de cada Grupo y dirigido a la Mesa de la Asamblea Regional. Con dicho escrito se acompañará una declaración de los candidatos aceptando su nominación.
+Se modifica por el art. único de la Ley 6/1987, de 29 de septiembre. Ref. BOE-A-1988-3171.
+
+### Artículo 5
+
+1. El Senador o Senadores se elegirán simultáneamente mediante votación secreta. Cada Diputado escribirá, sólo un nombre en la papeleta, resultando elegidos por orden sucesiva, hasta el número total de Senadores a elegir, los que obtengan mayor número de votos.
+2. En caso de empate, resultará elegido el candidato que fuera apoyado por el Grupo Parlamentario que tenga el mayor número de escaños en la Asamblea.
+3. Efectuada la elección de los Senadores, el Presidente de la Asamblea Regional dará cuenta a la Cámara de su resultado.
+
+### Artículo 6
+
+1. Los Senadores cesarán en los supuestos previstos en el ordenamiento jurídico y, en todo caso, cesarán una vez que, en la siguiente legislatura, sean designados los nuevos Senadores representantes de la Comunidad Autónoma.
+2. En el supuesto de que la pérdida de la condición de Senador se produjera por la conclusión de la Legislatura del Senado, la Asamblea Regional reiterará en su nombramiento a los Senadores ya elegidos, conforme a lo dispuesto en el artículo 5.º de esta Ley. a tales efectos, la Mesa de la Cámara les hará entrega de nuevas credenciales.
+Se modifica por el art. único de la Ley 6/1987, de 29 de septiembre. Ref. BOE-A-1988-3171.
+
+### Artículo 7
+
+Las vacantes de Senadores que se produjeran durante una misma legislatura, serán cubiertas con arreglo al procedimiento establecido en esta Ley por los candidatos de los Grupos a que pertenecieran los Senadores cesantes.
+
+### Artículo 8
+
+El Senador o Senadores designados conforme a la presente Ley en representación de la Comunidad Autónoma, podrán asistir a los Plenos de la Asamblea Regional.
+No tendrán voto, si no fueren Diputados Regionales, pero tendrán voz en los términos que establezca el Reglamento de la Asamblea.
+
+### Artículo 9
+
+Durante la celebración del Pleno siguiente a la designación, la Asamblea Regional recibirá a los Senadores electos, que serán proclamados Senadores de la Comunidad Autónoma de la Región de Murcia.
+La Mesa de la Cámara hará entrega a los proclamados electos de las pertinentes credenciales.
+El Presidente de la Asamblea dará cuenta de esta designación al Presidente del Senado.
+Se modifica por el art. único de la Ley 6/1987, de 29 de septiembre. Ref. BOE-A-1988-3171.
+
+### Artículo 10
+
+La Mesa de la Asamblea, oída la Junta da Portavoces, fijará conforme al texto constitucional el número de Senadores que corresponda elegir.
+
+### DISPOSICIÓN FINAL
+
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Región».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y autoridades que corresponda que la hagan cumplir.
+Murcia, 22 de julio de 1963.
+El Presidente,
+ANDRÉS HERNÁNDEZ ROS

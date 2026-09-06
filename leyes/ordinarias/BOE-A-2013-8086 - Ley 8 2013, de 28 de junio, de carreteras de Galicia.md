@@ -1,0 +1,1100 @@
+# Ley 8/2013, de 28 de junio, de carreteras de Galicia.
+
+- Identificador BOE: `BOE-A-2013-8086`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2013-8086
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+PREÁMBULO
+1
+La Constitución española, en su artículo 148.1.5.º, establece que las comunidades autónomas pueden asumir competencias en materia de carreteras cuando su itinerario se desarrolle íntegramente en el territorio de éstas.
+El Estatuto de autonomía de Galicia, en su artículo 27.8, atribuye a la Comunidad Autónoma la competencia exclusiva en materia de carreteras no incorporadas a la red del Estado cuando su itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma.
+Los medios necesarios para el ejercicio de la competencia en materia de carreteras asumida en virtud del Estatuto de autonomía fueron transferidos por el Real Decreto 3317/1982, de 24 de julio. Por Decreto 156/1982, de 15 de diciembre, se procedió a la asunción y a la asignación de las transferencias.
+La Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, vino a determinar el régimen vigente sobre la materia, derogando la Ley 6/1983, de 22 de junio, de limitaciones de la propiedad en las carreteras no estatales de Galicia, mediante una ley que ofrecía nuevas herramientas para superar problemas, satisfacer necesidades y, al mismo tiempo, salvaguardar y garantizar los intereses generales de la Comunidad Autónoma.
+Aquella Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, reguló los distintos aspectos del servicio viario por medio de normas que respondían tanto a las exigencias técnicas de su tiempo como a las demandas de la ciudadanía y a la realidad de las peculiaridades de la Comunidad Autónoma y de sus características de distribución de la población, dispersa en pequeños núcleos muy numerosos. Actualizó también las definiciones de las carreteras y estableció una nueva clasificación y una nueva denominación de sus categorías.
+En lo que se refería a planes, estudios de planificación y proyectos, estableció la necesaria coordinación con los instrumentos de planeamiento urbanístico.
+Los preceptos reguladores del uso, explotación y defensa de la carretera se orientaron directamente tanto a potenciar y mejorar los variados servicios exigidos por las crecientes necesidades del tránsito público como a proteger y conservar el patrimonio viario, que debe ser objeto de cuidadosa y esmerada atención, empleando y aplicando estrictamente los procedimientos que contenía la ley para sancionar las infracciones de ésta.
+Por último, actualizó el especial régimen jurídico regulador de las denominadas redes arteriales y travesías, de acuerdo a las circunstancias peculiares de las carreteras y tramos de éstas que discurren por suelo urbano.
+Transcurridos más de dieciocho años desde su entrada en vigor, la Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, se ha mostrado como una herramienta eficaz para el desarrollo de una red de carreteras más segura y de mayor capacidad, para lo cual se construyeron nuevas e importantes vías de alta capacidad y acondicionaron y mejoraron las carreteras convencionales, al tiempo que ha posibilitado ordenar de manera razonablemente satisfactoria los usos permitidos en su área de influencia.
+Sin embargo, los continuos avances técnicos en el campo de la ingeniería de carreteras, así como la necesidad de recurrir a innovadores instrumentos para financiar la ejecución de las infraestructuras, han hecho necesarias varias modificaciones puntuales en el texto original de la ley, que provocaron ligeros desajustes en su estructura.
+Asimismo, algunas de las determinaciones previstas en la Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, no llegaron a ser aplicadas en la práctica, mientras que la falta de precisión en algunos otros aspectos ha obligado, de manera excesiva, a la aplicación supletoria de la normativa estatal sobre la materia (en particular, del Reglamento general de carreteras, aprobado por Real Decreto 1812/1994, de 2 de septiembre).
+En el ámbito de las carreteras autonómicas, la creación de la Agencia Gallega de Infraestructuras a través del Decreto 173/2011, de 4 de agosto, por el que se aprueba su estatuto, en virtud de la autorización prevista en la disposición adicional cuarta de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia, hace necesario adaptar el texto legislativo a un esquema de funcionamiento en el que la gestión ordinaria de la red de carreteras pueda ser asumida por entes públicos de esta naturaleza, siempre que estén basados en principios de eficacia, eficiencia y funcionalidad, tanto en el caso de la administración autonómica como en el de las entidades locales, sin que, en ningún caso, este esquema sea obligatorio.
+Los cambios legislativos en otros aspectos sectoriales o básicos, acaecidos desde la entrada en vigor de la Ley 4/1994, de 14 de septiembre, como es el caso de las legislaciones de contratación pública, ordenación del territorio, urbanismo y evaluación ambiental, tanto de planes y programas como de proyectos, aconsejan también una adaptación a aquéllas de la legislación en materia de carreteras.
+Además, la aparición en los últimos años de importantes problemas ambientales de carácter mundial, como es el caso del cambio climático, requieren que la planificación sectorial en materia de carreteras tenga en cuenta su incidencia sobre el medio ambiente y la calidad de vida, para permitir un desarrollo sostenible que asegure la capacidad actual y futura de los recursos naturales.
+Los aspectos expuestos en los párrafos anteriores aconsejan proceder a una actualización del régimen vigente en materia de carreteras que aborde estos aspectos e incorpore las novedades técnicas y normativas más actuales sobre la materia. Es por eso que se considera oportuno renovar la legislación autonómica en materia de carreteras y adaptarla a las más avanzadas prácticas legislativas que se han puesto en práctica en otras comunidades autónomas en los últimos tiempos.
+2
+Entre los objetivos que se pretende conseguir, destacan los siguientes:
+a) Homogeneizar el tratamiento de las carreteras no incorporadas a la red del Estado con itinerario comprendido íntegramente en el territorio de la Comunidad Autónoma, y dotar de mayor autonomía a las entidades locales pero manteniendo en la administración autonómica la competencia de coordinación en materia de planificación de carreteras, por su relación con la ordenación del territorio.
+b) Armonizar el procedimiento de aprobación de planes, estudios y proyectos en materia de carreteras, integrándolo con las legislaciones, sectoriales o básicas, concurrentes en materia de medio ambiente, ordenación del territorio, contratación y expropiaciones, al tiempo que se mejore y simplifique la coordinación con el planeamiento urbanístico y se garantice la participación de la ciudadanía y del resto de administraciones en los procesos de planificación y diseño, a través de los trámites de información pública en materia de carreteras e informe de las administraciones afectadas.
+c) Renovar la clasificación de las carreteras, con la adopción del concepto de «vía para automóviles» para el caso de las carreteras de calzada única y doble sentido de circulación (con o sin previsión de futura duplicación de calzada), sin accesos directos y que están especialmente proyectadas para la exclusiva circulación de ese tipo de vehículos, para superar y refundir de esa manera los conceptos de «vía rápida» y «corredor», de forma coherente con lo previsto en la legislación estatal en materia de tráfico.
+d) Regular de manera más detallada los catálogos de carreteras y los inventarios de travesías, como instrumentos públicos que sirven para identificar las carreteras y travesías de las redes de titularidad de la Comunidad Autónoma y de las entidades locales de Galicia.
+e) Agilizar la tramitación de los expedientes para la construcción de las carreteras, estableciendo que la aprobación de los estudios y proyectos implique su declaración de utilidad pública y la necesidad de urgente ocupación de los terrenos y bienes necesarios.
+f) Ampliar los métodos para la construcción de carreteras, dentro del marco que establece la legislación de contratos públicos, y para su financiación, y regular de manera más clara los distintos instrumentos posibles, especialmente los derivados de los recursos generados por la explotación de las carreteras.
+g) Optimizar el empleo de los recursos públicos permitiendo, por ejemplo, expropiar sólo los terrenos como suelo en situación rural, dejándoles a las personas propietarias expropiadas la titularidad de sus aprovechamientos urbanísticos, u optar por reponer los bienes y servicios afectados, en lugar de indemnizar a las personas propietarias por su pérdida.
+h) Redefinir el sistema de protección del dominio público viario, con la armonización de la definición y de las dimensiones de sus zonas de protección (dotando a la zona de servidumbre de unas dimensiones más acordes a su función y armonizando la definición de la línea límite de edificación con otras leyes autonómicas, por referencia a una línea física) con los usos autorizables y prohibidos en ellas y con la regulación de manera más detallada y clara, siguiendo el esquema del procedimiento administrativo común, de la tramitación de las autorizaciones y de sus condiciones generales.
+i) Actualizar las medidas de protección de la legalidad viaria con que cuenta la administración titular de la carretera, al tiempo que se armonice el régimen de imposición de sanciones, aclarando el procedimiento que se debe seguir, racionalizando la tipificación de las infracciones y detallando sus circunstancias agravantes y atenuantes.
+j) Racionalizar el reparto de los elementos determinantes para el ejercicio de las competencias, y deslindar de forma clara los que corresponden ineludiblemente a la administración titular de la carretera de los que pueden ser atribuidos al organismo gestor al que, en su caso, aquélla le encomiende la gestión de la red de su titularidad y, en todo caso, de los que atribuye la legislación reguladora de las bases del régimen local al ayuntamiento por el que discurra la carretera.
+Con la adopción en la presente ley de las medidas necesarias para conseguir estos objetivos, se pretende actualizar y modernizar la legislación autonómica en materia de carreteras y, al tiempo, desarrollar de manera completa e innovadora todos los aspectos que en ellas inciden, así como ofrecer soluciones eficaces a las necesidades detectadas en el tiempo transcurrido desde la entrada en vigor de la actual Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, y habida cuenta la experiencia acumulada en la materia.
+Con la presente ley se procura lograr la máxima eficacia en su aplicación y, en ese sentido, buscará ser un instrumento útil, que ayude realmente a la adecuada gestión de las redes de carreteras autonómicas y locales y que redunde en una mejor prestación del servicio público viario y en una mayor satisfacción de la ciudadanía usuaria.
+3
+Esta ley se estructura en cinco títulos, tres disposiciones adicionales, tres transitorias, una derogatoria y tres finales.
+El título I, que consta de diez artículos (del 1 al 10, ambos inclusive), está dedicado a determinar el objeto y finalidad de la ley, que trasciende el clásico ámbito de la carretera para referirse al más amplio de dominio público viario. De este modo se pretende integrar un doble aspecto: la carretera y el resto de elementos que aparecen conexos a ella y al específico régimen jurídico que se aplica a esta compleja realidad. Todo ello sin dejar de lado que, aún hoy en día, la propia carretera continúa siendo el elemento determinante, a través de su titularidad, de la responsabilidad del denominado servicio público viario y de las facultades y prerrogativas que acompañan al ejercicio de esa titularidad. En este sentido, la titularidad que se reconoce a las distintas administraciones territoriales sobre las carreteras aparece vinculada a su inclusión en sus respectivos catálogos de carreteras, que se configuran de esa manera como los instrumentos públicos que sirven para identificar e inventariar las carreteras de su titularidad. El concepto, las partes fundamentales y las clases de carreteras, junto con los elementos funcionales integrados en el dominio público viario, conforman el resto del título I, en el que destaca la definición y clasificación de las carreteras, en la que se incluyen las vías para automóviles, que refunden los conceptos de vía rápida y corredor empleados anteriormente. También en este título se introducen los conceptos de tramos urbanos y travesías, que tendrán especial repercusión en el resto de la ley, y se prevén las circunstancias para la conversión de las travesías urbanas en vías urbanas, momento en el que su administración titular se las deberá entregar al ayuntamiento por el que discurran.
+El título II consta de trece artículos (del 11 al 24) y regula la planificación y proyección de las carreteras, con la intención de ofrecer mecanismos de trabajo ágiles y flexibles en cada caso, al tiempo que garanticen los debidos niveles de seguridad jurídica, coordinación entre administraciones, participación ciudadana y calidad en la puesta en servicio de las carreteras. Su capítulo I (artículos 11 a 14) se dedica de manera completa al Plan director de carreteras de Galicia y a los planes sectoriales de carreteras, que se instauran como los instrumentos técnicos y jurídicos de planificación sectorial de carreteras, con la consideración de instrumentos de ordenación del territorio. En el capítulo II (artículos 15 a 22) se prevén los documentos técnicos (estudios informativos, anteproyectos, proyectos de trazado y proyectos de construcción) para la ejecución de carreteras, y se determinan los aspectos fundamentales de su contenido y del procedimiento para su tramitación, siendo susceptibles ambos aspectos de un desarrollo reglamentario más completo. Por último, se dedica el capítulo III (artículos 23 y 24) a la coordinación entre administraciones y entre los planeamientos urbanístico y viario, aspecto fundamental para la correcta articulación de cualquier red de carreteras, especialmente en el entorno urbano. También se establece la necesidad de coordinar la planificación en materia de carreteras que lleven a cabo las distintas administraciones públicas con competencias en la materia, así como la preeminencia de la Administración general de la Comunidad Autónoma de Galicia como coordinadora de los planes de carreteras de las entidades locales, en su papel de administración competente en materia de ordenación del territorio.
+El título III (artículos 25 a 36) se refiere a la construcción y financiación de las actuaciones y a la explotación del dominio público viario. En el capítulo I (artículos 25 a 29), que se refiere a la construcción de las carreteras, se amplían los métodos posibles, dentro del marco que establece la legislación de contratos públicos. En el capítulo II (artículos 30 a 32), dedicado a la financiación de las actuaciones, se regulan de manera más clara los distintos instrumentos existentes, especialmente los derivados de los recursos generados por la explotación de las carreteras. En ambos casos se trata de obtener una mayor eficacia en la asignación de recursos y diversificar las fuentes para su obtención, a fin de garantizar un servicio público viario de calidad. El capítulo III (artículos 33 a 36), reservado a la explotación, mantiene el método de gestión directa y gratuita para la ciudadanía usuaria como preferente, aunque abre la posibilidad de emplear otras posibles formas de gestión, de entre las previstas en la legislación de contratos públicos.
+En el título IV (artículos 37 a 59) se dispone el régimen de protección del dominio público viario, para lo cual se establece el tradicional sistema de limitaciones a las propiedades contiguas y de control de usos mediante autorizaciones administrativas. Así, en el capítulo I (artículos 37 a 42) se establecen y se delimitan las zonas de dominio público y de protección (zonas de servidumbre y afección) de la carretera y la línea límite de edificación. En el capítulo II (artículos 43 a 46) se regulan los usos permitidos en cada una de las zonas anteriores. El capítulo III (artículos 47 a 53) se dedica a las autorizaciones, y regula tanto sus condiciones generales (en su sección 1.ª, artículos 47 a 51) como las específicas en casos como el de los accesos o el de la publicidad (en la sección 2.ª, artículos 52 y 53). En lo que se refiere al régimen de competencias, cabe destacar el establecido en los tramos urbanos de las carreteras, en los que se tiene presente en todo momento el propósito de mejorar la gestión de estos ámbitos en los que distintas administraciones públicas comparten responsabilidades. Por último, el capítulo IV (artículos 54 a 59) recoge de manera integral las medidas de protección de la legalidad viaria, con las que se pretende conseguir una más ágil respuesta de las administraciones ante la eventual comisión de infracciones viarias.
+El título V (artículos 60 a 76) recoge el régimen sancionador. El capítulo I (artículos 60 a 65) tipifica las infracciones viarias, que se han homogeneizado y clasificado en función no sólo de su naturaleza, sino también del lugar de la comisión de la infracción con respecto a la carretera y a la posibilidad de obtener autorización para la actuación realizada. El capítulo II (artículos 66 a 70) establece las correspondientes sanciones para las infracciones anteriores y el capítulo III (artículos 71 a 76) regula el procedimiento administrativo sancionador que se dispone para la garantía de los ciudadanos.
+Por último, el texto finaliza con las disposiciones adicionales, transitorias, derogatorias y finales. Merecen especial atención las tres disposiciones adicionales, que regulan, entre otros aspectos, el régimen de usos permitidos en edificaciones, instalaciones y cierres preexistentes a la entrada en vigor de la presente ley, independientemente de su situación con respecto a la carretera, la posibilidad de que organismos gestores, distintos de la administración titular de las carreteras, asuman la gestión de la red de carreteras, en su totalidad o parcialmente, y, por último, la habilitación al Consejo de la Xunta de Galicia para la actualización del importe de las sanciones previstas en la ley. Las tres disposiciones transitorias regulan el régimen al que se deben acoger los procedimientos en curso, las autorizaciones demaniales otorgadas y la normativa técnica de aplicación supletoria. La disposición derogatoria única se refiere a la Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, y las tres disposiciones finales hacen referencia al título competencial al amparo del que se dicta la ley, a la habilitación de la Xunta de Galicia para su desarrollo reglamentario y a su entrada en vigor.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13º.2 del Estatuto de Galicia y con el artículo 24º de la Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidencia, promulgo, en nombre del Rey, la Ley de carreteras de Galicia.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular el dominio público viario de las redes de carreteras de titularidad de la Comunidad Autónoma de Galicia o de las entidades locales de su ámbito territorial, y establecer los procesos de planificación, proyección, construcción, financiación, explotación, uso y protección de aquél y los mecanismos que permitan coordinar la actuación de sus distintas administraciones titulares.
+
+### Artículo 2
+
+Artículo 2. Dominio público viario.
+El dominio público viario regulado en la presente ley estará constituido por:
+a) Las carreteras de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia.
+b) Los terrenos ocupados por los elementos funcionales de dichas carreteras, así como las construcciones e instalaciones existentes en ellos.
+c) Las zonas de dominio público adyacentes a las carreteras de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia y a sus elementos funcionales.
+
+### Artículo 3
+
+Artículo 3. Concepto de carreteras.
+1. Son carreteras las vías de dominio y uso públicos proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.
+2. A los efectos de la presente ley, no tendrán la consideración de carreteras, ni se incluirán, por lo tanto, en las redes de la Comunidad Autónoma o de las entidades locales:
+a) Las vías urbanas, entendidas como las que componen la red interior de comunicaciones de una población, excepto las travesías y los tramos urbanos de las carreteras.
+b) Los caminos públicos o privados, entre los que se incluyen los caminos de servicio, vecinales, agrícolas, forestales o pecuarios.
+
+### Artículo 4
+
+Artículo 4. Clases de carreteras.
+1. Las carreteras se clasifican, en atención a sus características técnicas, en autopistas, autovías, vías para automóviles y carreteras convencionales.
+2. Autopistas son las carreteras que están especialmente proyectadas, construidas y señalizadas como tales para la exclusiva circulación de vehículos automóviles y reúnen las siguientes características:
+a) Constan de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares y con carácter temporal, por una franja de terreno no destinada a la circulación o, en casos excepcionales, por otros medios.
+b) No cruzan ni son cruzadas al mismo nivel por otra vía de comunicación o servidumbre de paso, pasos de peatones, vías ciclistas, línea de ferrocarril u otra infraestructura.
+c) Las propiedades colindantes no tienen acceso directo a ellas.
+d) Están valladas, en ambas márgenes, en toda su longitud.
+3. Autovías son las carreteras que están especialmente proyectadas, construidas y señalizadas como tales y reúnen las siguientes características:
+a) Constan de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares y con carácter temporal, por una franja de terreno no destinada a la circulación o por otros medios.
+b) No cruzan ni son cruzadas al mismo nivel por otra vía de comunicación o servidumbre de paso, pasos de peatones, vías ciclistas, línea de ferrocarril u otra infraestructura.
+c) Las propiedades colindantes no tienen acceso directo a ellas, excepto en el caso excepcional de que se autorice la conexión de vías de servicio a las calzadas principales, para llevar a cabo una reordenación de accesos o por otras razones de interés público.
+d) Están valladas, en ambas márgenes, en toda su longitud.
+4. Vías para automóviles son las carreteras reservadas a la exclusiva circulación de vehículos automóviles y que reúnen las siguientes características:
+a) Constan de una única calzada, y pueden estar proyectadas con previsión de su futura duplicación.
+b) No cruzan ni son cruzadas al mismo nivel por otra vía de comunicación o servidumbre de paso, pasos de peatones, vías ciclistas, línea de ferrocarril u otra infraestructura, salvo las excepciones que se establezcan reglamentariamente
+c) Las propiedades colindantes no tienen acceso directo a ellas, salvo en el caso excepcional de que se autorice la conexión de vías de servicio a la calzada principal, para llevar a cabo una reordenación de accesos o por otras razones de interés público.
+d) Están valladas, en ambas márgenes, en toda su longitud.
+5. Carreteras convencionales son las que no reúnen las características de las autopistas, autovías o vías para automóviles.
+
+### Artículo 5
+
+Artículo 5. Explanación, calzada y arcén.
+1. La explanación de una carretera o de sus elementos funcionales asociados es la superficie comprendida entre las dos líneas longitudinales exteriores de aquélla. La arista exterior de la explanación, en cada uno de los márgenes de la carretera, es la intersección del talud de desmonte o del terraplén con el terreno natural.
+2. Calzada es la parte pavimentada de la explanación, compuesta por uno o varios carriles y destinada a la circulación de vehículos automóviles, de:
+a) La carretera.
+b) Los elementos funcionales.
+3. Arcén es la franja longitudinal pavimentada, contigua a la calzada, no destinada al uso de vehículos automóviles salvo en circunstancias excepcionales.
+Se modifica el apartado 2 por el art. único.1 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 6
+
+Artículo 6. Elementos funcionales de las carreteras.
+1. Son elementos funcionales de las carreteras las zonas permanentemente afectas a su conservación, a la explotación del servicio público viario o a otros fines auxiliares o complementarios.
+2. Tendrán la consideración de elementos funcionales:
+a) Aquellas infraestructuras complementarias constituidas por espacios e instalaciones destinadas a ordenar, mejorar o regularizar el sistema general de transportes y comunicaciones, tales como centros operativos de conservación y explotación, zonas de estacionamiento, paradas de autobuses, áreas de servicio, áreas de descanso, zonas de auxilio y atención médica de urgencia, estaciones y centros de control, lugares de inspección y pesaje de vehículos, estaciones de aforo, aparcamientos disuasorios y cualesquiera otros semejantes.
+b) Los espacios longitudinales, sensiblemente paralelos a las carreteras, respecto de las que tienen un carácter secundario por servir a las propiedades y edificios colindantes, tales como las vías y caminos de servicio, o estar destinados a la circulación de peatones y vehículos terrestres de tracción humana, como las aceras, las sendas peatonales y los carriles para la circulación de bicicletas.
+c) Tramos antiguos de carreteras generados como resultado de la ejecución de una variante de trazado de la carretera original y que dispongan de calzada y conexión con la red viaria.
+Se añade la letra c) al apartado 2 por el art. 20.1 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 7
+
+Artículo 7. Tramos urbanos.
+A los efectos de la presente ley, se considera tramo urbano de una carretera aquel que discurre por suelo clasificado por el correspondiente instrumento de planeamiento urbanístico como urbano o de núcleo rural cuando, en este último caso, cuente con alineaciones marcadas en el citado instrumento y aquél hubiese sido sometido a informe favorable, conforme a la presente ley, por la administración titular de la carretera.
+
+### Artículo 8
+
+Artículo 8. Travesías.
+1. A efectos de esta ley, se considera travesía el tramo de una carretera que discurre a través de un núcleo de población, en los términos establecidos reglamentariamente.
+2. Las travesías de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia, o tramos de ellas, adquirirán la condición de vías urbanas cuando su tráfico sea mayoritariamente urbano y no resulten necesarias para mantener la continuidad y la coherencia de las redes de carreteras, en los términos establecidos reglamentariamente.
+3. Las travesías de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia que adquieran la condición de vías urbanas se entregarán al ayuntamiento por el que estas discurran, siguiendo los procedimientos de cambio de titularidad previstos en esta ley.
+Se modifica por el art. 26.1 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 1 por el art. único.2 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 9
+
+Artículo 9. Titularidad de las carreteras.
+1. La titularidad de las carreteras objeto de esta ley le corresponde a la Comunidad Autónoma o a las entidades locales de Galicia.
+2. La administración titular de la carretera es responsable del servicio público viario, así como del debido ejercicio de las facultades y prerrogativas que le reconoce la presente ley.
+3. Las carreteras de titularidad de la Comunidad Autónoma componen la red autonómica de carreteras de Galicia, mientras que las de titularidad de las respectivas entidades locales componen sus correspondientes redes de carreteras.
+4. Los cambios de titularidad de carreteras o de tramos de éstas, cuando no se trate de travesías urbanas o tramos de éstas que estén incluidos en el inventario de travesías de su administración titular, deberán ser aprobados por decreto de la Xunta de Galicia, a propuesta de la consejería competente en materia de carreteras y previo acuerdo entre las administraciones afectadas.
+5. Los cambios de titularidad de las travesías urbanas o de tramos de éstas que estén incluidos en el inventario de travesías de su administración titular, cuando adquieran la consideración de vías urbanas, se realicen a favor del ayuntamiento por el que éstos discurran y exista acuerdo entre éste y la administración titular de la carretera, podrán ser aprobados por la consejería competente en materia de carreteras. En el resto de los casos, deberán ser aprobados, de manera motivada, por decreto de la Xunta de Galicia, a propuesta de la citada consejería.
+6. Las resoluciones o los decretos por los que se aprueben los cambios de titularidad de las carreteras objeto de esta ley deberán ser publicados en el Diario Oficial de Galicia y serán efectivos al día siguiente de su publicación en aquél.
+En caso de que una de las administraciones afectadas sea la Administración general del Estado, se aplicará la regulación sobre cambio de titularidad prevista en la normativa estatal en materia de carreteras.
+7. Los cambios de titularidad podrán comprender carreteras, tramos de éstas, elementos funcionales y/o espacios de la zona de dominio público adyacente.
+Se modifican los apartados 1 y 6 por el art. único.3 y 4 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 10
+
+Artículo 10. Catálogos de carreteras e inventarios de travesías.
+1. Los catálogos de carreteras son los instrumentos públicos que sirven para identificar, inventariar, clasificar y, en su caso, categorizar funcionalmente las carreteras de las redes de cada administración titular.
+2. Los inventarios de travesías son los instrumentos públicos que sirven para identificar e inventariar las travesías existentes en las redes de carreteras de cada administración titular.
+3. El Consejo de la Xunta de Galicia, a propuesta de la consejería competente en materia de carreteras, aprobará por decreto el Catálogo de la red autonómica de carreteras de Galicia y su inventario de travesías, así como sus respectivas modificaciones posteriores. La actualización del Catálogo de la red autonómica de carreteras de Galicia y de su inventario de travesías se realizará por orden de la consejería competente en materia de carreteras.
+4. Las entidades locales aprobarán los catálogos de las carreteras de su titularidad y los inventarios de travesías correspondientes, así como las respectivas modificaciones y actualizaciones posteriores.
+5. La aprobación de los inventarios de travesías por parte de los órganos competentes de sus respectivas administraciones titulares implicará la autorización por parte de aquéllos para que los cambios de titularidad de las travesías urbanas o de tramos de éstas que estén incluidos en los citados inventarios –cuando adquieran la consideración de vías urbanas, se realicen a favor del ayuntamiento por el que discurran y exista acuerdo entre éste y la administración titular de la carretera– puedan ser aprobados por la consejería competente en materia de carreteras.
+6. Tendrán la consideración de modificación de los catálogos de carreteras y de los inventarios de travesías:
+a) El cambio de titularidad de carreteras, travesías o tramos de éstas, según los procedimientos de la presente ley.
+b) La construcción de nuevas carreteras o de nuevos tramos de las carreteras existentes.
+c) La adquisición o pérdida de la condición de carretera de una vía pública.
+d) La consideración como travesía de un tramo de carretera, cuando no se hubiese tramitado un expediente al respecto para su reconocimiento.
+e) El cambio de categoría funcional de carreteras, cuando no se haya tramitado un expediente al respecto.
+f) El resto de supuestos previstos reglamentariamente.
+7. Tendrán la consideración de actualización de los catálogos de carreteras y de los inventarios de travesías:
+a) El cambio de titularidad de travesías urbanas o de tramos de éstas que estuviesen incluidos en el inventario de travesías de su administración titular, cuando pueda ser aprobado por la consejería competente en materia de carreteras.
+b) La variación de trazado en carreteras existentes.
+c) La variación de los datos que identifican las carreteras o travesías contenidas en ellos.
+d) El cambio de categoría funcional de una carretera, cuando se haya tramitado un expediente al respecto.
+e) El resto de supuestos previstos reglamentariamente.
+Se modifican los apartados 1, 6 y 7 por el art. 20.2 a 5 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifican los apartados 6 y 7 por el art. único.5 a 8 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+## TÍTULO II
+
+Planificación y proyección
+
+## CAPÍTULO I
+
+Planificación
+
+### Artículo 11
+
+Artículo 11. Planificación en materia de carreteras.
+1. La planificación en materia de carreteras de Galicia se realizará a través de los siguientes instrumentos:
+a) Plan director de carreteras de Galicia.
+b) Planes sectoriales de carreteras.
+2. Los instrumentos de planificación en materia de carreteras deberán coordinarse con la estrategia nacional de seguridad vial y con los planes de seguridad vial que la desarrollen en la Comunidad Autónoma de Galicia.
+
+### Artículo 12
+
+Artículo 12. Plan director de carreteras de Galicia.
+1. El Plan director de carreteras de Galicia es el instrumento técnico y jurídico de planificación plurianual de las actuaciones en materia de carreteras de las distintas administraciones, referido a la totalidad del ámbito territorial de la Comunidad Autónoma de Galicia. El Plan director de carreteras de Galicia determina, conjuntamente y de acuerdo al régimen de competencias vigente, las administraciones responsables de la ejecución de cada actuación y, en su caso, los criterios para establecer los necesarios acuerdos o convenios entre las administraciones que deban proceder a su desarrollo conjunto.
+2. El Plan director de carreteras de Galicia, una vez aprobado por el Consejo de la Xunta de Galicia, tiene la consideración de plan sectorial, según lo dispuesto en la legislación autonómica de ordenación del territorio.
+3. Las determinaciones del Plan director de carreteras de Galicia tendrán la eficacia que sea congruente con su finalidad, y expresarán de forma clara e inequívoca el alcance con el que deberán operar.
+A ese respecto, el Plan director de carreteras de Galicia podrá contener:
+a) Determinaciones de aplicación directa, que prevalecerán sobre los instrumentos de ordenación urbanística. En esos casos, el Plan director de carreteras de Galicia precisará los aspectos concretos en los que prevalecerá sobre aquellos.
+b) Determinaciones vinculantes, que implicarán la necesidad de modificar los instrumentos de ordenación urbanística vigentes. En esos casos, dichos instrumentos de ordenación urbanística vigentes deberán adaptarse a esas determinaciones en el plazo de un año desde la fecha de la aprobación del Plan director de carreteras de Galicia, o con ocasión de su primera modificación o revisión, en caso de que sea anterior, salvo en caso de que el propio Plan director de carreteras de Galicia precise un momento o unos plazos diferentes para llevar a cabo la adaptación a dichas determinaciones.
+c) Determinaciones pendientes de desarrollo, que no modificarán directamente los instrumentos de ordenación urbanística vigentes. En esos casos, cuando las obras o actuaciones previstas en el Plan director de carreteras de Galicia exijan una modificación de las determinaciones de los instrumentos de ordenación urbanística vigentes, se procederá, una vez definida la obra o actuación de que se trate a nivel de plan sectorial, estudio o proyecto aprobado definitivamente, a la adaptación de dichos instrumentos de ordenación urbanística, según las determinaciones que se establezcan en esos documentos.
+Se modifican los apartados 2 y 3 por el art. 26.2 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 13
+
+Artículo 13. Planes sectoriales de carreteras.
+1. Los planes sectoriales de carreteras son los instrumentos técnicos y jurídicos de desarrollo del Plan director de carreteras de Galicia, en un determinado ámbito territorial inferior al de la totalidad del territorio de la Comunidad Autónoma de Galicia o en relación con la red de carreteras de titularidad de una determinada administración.
+2. Los planes sectoriales de carreteras tendrán la consideración de plan sectorial, de acuerdo con lo dispuesto en la legislación autonómica de ordenación del territorio.
+3. Los planes sectoriales de carreteras prevalecerán sobre la ordenación urbanística en los aspectos relativos al sistema viario y de comunicaciones.
+A estos efectos, podrán contener:
+a) Determinaciones de aplicación directa, que prevalecerán sobre los instrumentos de ordenación urbanística. En esos casos, el plan sectorial de carreteras precisará los aspectos concretos en los que prevalecerá sobre aquellos.
+b) Determinaciones vinculantes, que implicarán la necesidad de modificar los instrumentos de ordenación urbanística vigentes. En esos casos, dichos instrumentos de ordenación urbanística vigentes deberán adaptarse a esas determinaciones en el plazo de un año desde la fecha de la aprobación del plan sectorial de carreteras, o con ocasión de su primera modificación o revisión, en caso de que sea anterior, salvo en el caso de que el propio plan sectorial de carreteras precise un momento o unos plazos diferentes para llevar a cabo la adaptación a dichas determinaciones.
+c) Determinaciones pendientes de desarrollo, que no modificarán directamente los instrumentos de ordenación urbanística vigentes. En esos casos, cuando las obras o actuaciones previstas en el plan sectorial de carreteras exijan una modificación de las determinaciones de los instrumentos de ordenación urbanística vigentes, se procederá, una vez definida la obra o actuación de que se trate a nivel de estudio o proyecto aprobado definitivamente, a la adaptación de dichos instrumentos de ordenación urbanística, de acuerdo con las determinaciones que se establezcan en esos documentos.
+Se modifica por el art. 26.3 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 14
+
+Artículo 14. Contenido y tramitación.
+1. El contenido del Plan director de carreteras de Galicia y de los planes sectoriales de carreteras se establecerá reglamentariamente e incluirá lo que la legislación autonómica de ordenación del territorio les exige a los instrumentos de su naturaleza, lo necesario para la tramitación del procedimiento de evaluación ambiental de planes y programas y un estudio de evaluación de impacto de seguridad vial.
+2. El procedimiento para la tramitación del Plan director de carreteras de Galicia y de los planes sectoriales de carreteras se establecerá reglamentariamente.
+Para la tramitación del Plan director de carreteras de Galicia y de los planes sectoriales de carreteras no será necesaria la notificación individual a todas las personas titulares catastrales de los terrenos afectados.
+El procedimiento se realizará de forma simultánea con el de evaluación ambiental de planes y programas, establecido por la legislación básica sobre la materia.
+3. Producida la aprobación definitiva del Plan director de carreteras de Galicia por parte del Consejo de la Xunta, se remitirá al Parlamento de Galicia para su examen.
+Se modifica el apartado 2 por el art. 26.4 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+## CAPÍTULO II
+
+Estudios y proyectos
+
+### Artículo 15
+
+Artículo 15. Tipología de los estudios y proyectos.
+Para construir nuevas carreteras o modificar las existentes, se deberán redactar los estudios y los proyectos correspondientes, de acuerdo con la tipología siguiente:
+a) El estudio informativo, que consiste en el análisis de los datos necesarios para definir y valorar, en líneas generales, las diferentes alternativas a un problema viario determinado y proponer la solución más idónea para éste.
+b) El anteproyecto, que consiste en el estudio a escala adecuada de la solución óptima y de las soluciones constructivas que sea necesario emplear.
+c) El proyecto de trazado, que consiste en la determinación de los principales aspectos geométricos de la actuación y en la definición concreta de los bienes y los derechos afectados.
+d) El proyecto de construcción, que consiste en el desarrollo completo de la solución óptima, con el detalle suficiente para hacer factible su construcción y posterior explotación.
+
+### Artículo 16
+
+Artículo 16. Necesidad de estudios y proyectos.
+1. Se deberán elaborar estudios informativos cuando sea preceptivo el sometimiento de la actuación a los trámites de información pública en materia de carreteras e informe de las administraciones afectadas, según lo previsto en la presente ley. No obstante, cuando las circunstancias concurrentes aconsejen que la función del estudio informativo sea asumida por un anteproyecto, proyecto de trazado o proyecto de construcción, se podrá elaborar uno de éstos en lugar de aquél.
+2. Se deberán elaborar anteproyectos cuando así sea exigido por la legislación de contratos del sector público.
+3. Se deberán elaborar proyectos de construcción para la licitación de contratos de obras de carreteras, excepto en el caso de contratos que, como parte de la prestación, comprendan también la redacción del correspondiente proyecto y en el de obras de emergencia o de conservación ordinaria.
+
+### Artículo 17
+
+Artículo 17. Documentación y contenido.
+El contenido de los estudios y proyectos a que hace referencia este capítulo se establecerá reglamentariamente e incluirá los documentos exigidos para los de su naturaleza por la legislación sobre contratos del sector público, evaluación de impacto ambiental, ordenación del territorio, expropiación forzosa, seguridad vial, seguridad y salud en el trabajo y demás materias transversales o sectoriales con incidencia sobre la actuación.
+
+### Artículo 18
+
+Artículo 18. Redacción.
+1. En la medida en que no contravenga la normativa técnica básica, la consejería competente en materia de carreteras podrá dictar normas e instrucciones complementarias relativas a la ejecución de obras de carreteras de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia.
+2. Todos los estudios y proyectos a que hace referencia este capítulo se redactarán según la normativa técnica básica de interés general establecida por la Administración general del Estado y según las normas e instrucciones complementarias dictadas por la consejería competente en materia de carreteras.
+3. La redacción de los estudios y proyectos podrá realizarse directamente por el órgano competente de la administración promotora de la actuación, o bien a través de contrato, encomienda o convenio, de conformidad con las disposiciones vigentes.
+4. Los estudios y proyectos deben ser redactados bajo la dirección o inspección y la supervisión del órgano competente de la administración promotora de la actuación y serán suscritos por profesional técnico competente.
+5. La orden de inicio de los trabajos de redacción de estudios y proyectos que se van a elaborar con medios propios, la adjudicación a terceros del contrato para su redacción o la formalización del correspondiente convenio o encomienda para la realización de aquéllos implicará la declaración de utilidad pública, de la necesidad de ocupación, con carácter temporal, de los terrenos necesarios para la ejecución de los trabajos de reconocimiento técnico, geológicos, geotécnicos, arqueológicos y cualesquiera otros que fueren precisos para su redacción, y de la urgencia de la ocupación, siempre que se hubiese formulado, y se hubiese tramitado conforme a la legislación de expropiación forzosa, la relación concreta e individualizada de los bienes y derechos que es necesario ocupar y, en general, se hubiesen cumplido los requisitos previos que exige aquélla.
+
+### Artículo 19
+
+Artículo 19. Aprobación provisional.
+Previo informe técnico sobre los objetivos, contenido del documento y procedimiento, los estudios y proyectos que deban someterse a los trámites de información pública e informe de las administraciones afectadas serán aprobados de forma provisional por el órgano competente de la administración promotora de la actuación.
+Tan sólo a los efectos de la ocupación temporal de los terrenos para la toma de datos y realización de prospecciones necesarias para la elaboración de proyectos, la aprobación provisional de los proyectos o la definitiva de los estudios informativos implicará la declaración de utilidad pública y la urgente necesidad de ocupación temporal de dichos terrenos.
+Se modifica por el art. 21.1 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 20
+
+Artículo 20. Informes sectoriales.
+En el procedimiento de elaboración de estudios y proyectos se recabarán los informes exigidos por la normativa sectorial de aplicación.
+En los supuestos de actuaciones sobre tramos urbanos que afecten a terrenos situados fuera de la zona de dominio público, se remitirá además el proyecto al ayuntamiento correspondiente para que en el plazo de un mes emita informe sobre él. En caso de que éste no se emita en el plazo señalado, se entenderá que no existe objeción alguna al proyecto presentado.
+
+### Artículo 21
+
+Artículo 21. Información pública e informe de las administraciones afectadas.
+1. Será preceptivo el sometimiento de los estudios informativos, o, en su caso, de los anteproyectos o proyectos que asuman su función según lo previsto en la presente ley, a los trámites de información pública en materia de carreteras y de informe de las administraciones afectadas cuando concurra alguna de las siguientes circunstancias:
+a) Construcción de nuevas carreteras o tramos de éstas que no se hubiesen previsto en el planeamiento urbanístico municipal.
+b) Modificaciones sustanciales de carreteras existentes que afecten de manera significativa al planeamiento urbanístico municipal, entendiendo que existe afección significativa en los siguientes supuestos:
+1.º En el caso de tramos urbanos, cuando las obras se ejecuten fuera de los terrenos de dominio público viario o de los comprendidos entre éste y las alineaciones marcadas en el correspondiente instrumento de planeamiento urbanístico.
+2.º En el caso de tramos no urbanos de carreteras que atraviesen suelo no clasificado como rústico por el correspondiente instrumento de planeamiento urbanístico, cuando las obras se ejecuten fuera de los terrenos de dominio público viario o de los comprendidos entre éste y la línea límite de edificación.
+2. El trámite de información pública en materia de carreteras se llevará a cabo durante un plazo mínimo de treinta días hábiles, ampliable a juicio de la administración promotora de la actuación, mediante un anuncio que se publicará en el «Diario Oficial de Galicia», en los tablones de anuncios de los ayuntamientos afectados y, como mínimo, en dos medios de comunicación de entre los de más difusión en el ámbito de la actuación. La documentación que compone el estudio informativo, o el anteproyecto o proyecto que asuma su función, estará a disposición de la ciudadanía en la sede central de la administración promotora de la actuación, en la sede territorial de ésta que abarque el ámbito de la actuación, en su caso, y en los ayuntamientos afectados. Las alegaciones presentadas en este procedimiento deberán versar sobre la concepción global del trazado de las distintas alternativas analizadas.
+3. Simultáneamente, los estudios y proyectos sometidos al trámite de información pública en materia de carreteras a los que se refieren los puntos anteriores también se someterán al informe, en materia de carreteras, de las administraciones territoriales afectadas por el ámbito de la actuación para que, en un plazo de treinta días hábiles, ampliable a juicio de la administración promotora de la actuación, examinen si el trazado propuesto es el más adecuado para sus intereses e informen sobre ese aspecto. Transcurrido ese plazo sin que las administraciones consultadas hubiesen emitido el citado informe, se entenderá que muestran su conformidad con el trazado propuesto.
+4. Transcurridos los plazos de los trámites de información pública e informe de las administraciones afectadas y recibidas las alegaciones e informes presentados, se dará respuesta motivada a las alegaciones formuladas. El informe resultante se pondrá a disposición de las personas interesadas y se les notificará a las administraciones a las que se les hubiese dado trámite de informe y a los particulares que hubiesen presentado alegaciones. Finalmente, se resolverá también sobre la aprobación del expediente de información pública.
+
+### Artículo 22
+
+Artículo 22. Aprobación definitiva.
+1. Los estudios y proyectos serán aprobados de manera definitiva, cuando no tengan que ser posteriormente sometidos a los trámites de información pública e informe de las administraciones afectadas, por el órgano competente de la administración promotora de la actuación, previa emisión del preceptivo informe de supervisión.
+2. En el caso de estudios o proyectos sometidos a los trámites de información pública e informe de las administraciones afectadas, una vez emitido el informe sobre las alegaciones presentadas, el órgano competente de la administración promotora de la actuación debe adoptar la correspondiente resolución, que puede ser de aprobación definitiva de todo el ámbito del estudio o proyecto o bien sólo de una parte de éste. La resolución también puede dejar sin efecto la tramitación del estudio o proyecto o parte de éste, o bien puede acordar la suspensión, total o parcial, de su tramitación.
+En la resolución se pueden introducir las prescripciones de carácter técnico, social, territorial y de protección ambiental y patrimonial que se consideren necesarias, para tener en cuenta en los proyectos que desarrollen posteriormente el estudio o proyecto o, cuando aquéllas sean significativas, en un nuevo estudio o proyecto que sea sometido a la misma tramitación que el original.
+3. En caso de que el informe de alguna de las administraciones a las que se les hubiese dado trámite de informe preceptivo en materia de carreteras expresare de manera motivada su falta de conformidad con el trazado propuesto en el estudio o proyecto, el expediente se elevará al Consejo de la Xunta de Galicia, que será el competente para emitir la resolución de aprobación definitiva del estudio o proyecto, previo informe de la consejería de la Xunta de Galicia competente en materia de carreteras.
+4. La aprobación definitiva de los estudios informativos, así como de los anteproyectos o proyectos que asuman su función, cuando no estén incluidos en el Plan director de carreteras de Galicia, en el plan sectorial de carreteras de la administración promotora ni en el planeamiento urbanístico municipal, le corresponderá al Consejo de la Xunta de Galicia, previo informe de la consejería de la Xunta de Galicia competente en materia de carreteras en el caso de actuaciones promovidas por las entidades locales.
+5. La aprobación definitiva de los anteproyectos, proyectos de trazado o proyectos de construcción implicará la declaración de utilidad pública, la necesidad de ocupación de los bienes y de adquisición de los derechos necesarios para la ejecución de las obras, de los depósitos de los materiales sobrantes, de los préstamos necesarios para ejecutarlas y para la reposición de servicios afectados, siempre que vengan previstos en su proyecto, así como para el replanteo del proyecto y las modificaciones de este que, en su caso, se pudieren aprobar posteriormente, y la urgencia de la ocupación, todo ello a los efectos de expropiación, ocupación temporal o imposición o modificación de servidumbres.
+6. Una vez aprobados definitivamente los anteproyectos, proyectos de trazado o proyectos de construcción, las limitaciones a la propiedad y a la titularidad de otros derechos establecidos en la presente ley serán efectivas con respecto a los terrenos a los que afecte la actuación correspondiente.
+Se modifica el apartado 5 por el art. 21.2 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se modifica el apartado 5 por el art. único.9 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+## CAPÍTULO III
+
+Coordinación
+
+### Artículo 23
+
+Artículo 23. Coordinación con el planeamiento urbanístico.
+1. Los estudios y proyectos sometidos a los trámites de información pública en materia de carreteras e informe de las administraciones afectadas, una vez aprobados definitivamente, tienen la consideración de proyectos de interés autonómico, de acuerdo con lo dispuesto en la legislación autonómica de ordenación del territorio, sin que sea precisa una declaración previa de interés autonómico por parte del Consejo de la Xunta de Galicia.
+Las determinaciones contenidas en los estudios y proyectos de carreteras que tengan la consideración de proyectos de interés autonómico tendrán fuerza vinculante para las administraciones públicas y para los particulares y prevalecerán sobre las determinaciones de planeamiento urbanístico vigente. Las entidades locales en las que se asienten las infraestructuras objeto del estudio o proyecto de carreteras deberán adaptar su planeamiento urbanístico a lo contenido en aquel, para lo cual se establecerán en él las determinaciones del planeamiento urbanístico que deben ser modificadas como consecuencia de su aprobación, en el plazo de un año desde esa fecha y, en todo caso, en su primera modificación o revisión, salvo en el caso de que el propio estudio o proyecto de carreteras precise un momento o unos plazos diferentes para llevar a cabo la adaptación de dichas determinaciones.
+2. En los supuestos de redacción, revisión o modificación de instrumentos de planeamiento que afecten a las carreteras existentes o a las actuaciones previstas en los planes de carreteras vigentes, el ayuntamiento remitirá, con posterioridad a su aprobación inicial, el correspondiente documento a las administraciones titulares de las carreteras afectadas para que lo informen. El informe tendrá carácter vinculante y deberá ser emitido en el plazo de tres meses; transcurrido este, se entenderá favorable. En caso de ser desfavorable, el informe indicará expresamente, en su caso, las normas vulneradas.
+3. En los tramos urbanos de las carreteras, el instrumento de planeamiento urbanístico determinará la alineación de edificación, que podrá fijarse, de manera motivada, a una distancia inferior a la que prevé la presente ley con carácter general para la línea límite de edificación de las carreteras, valorando la existencia de edificaciones continuadas preexistentes, así como la concurrencia de razones técnicas, socioeconómicas o de orografía del terreno que puedan aconsejar la reducción.
+4. Cuando, con motivo de la redacción, revisión o modificación de instrumentos de planeamiento pasen a clasificarse como urbanizables terrenos adyacentes a las carreteras, se destinarán al sistema general viario, incluyéndolos como parte del sector de suelo urbanizable, los terrenos comprendidos entre la línea exterior de la zona de dominio público y la línea límite de edificación.
+En el instrumento de planeamiento se preverá la obtención de esos terrenos por parte de la administración titular de la carretera mediante cesión obligatoria u ocupación directa, en los términos previstos en la legislación autonómica en materia de ordenación urbanística.
+Se modifica el apartado 1 por el art. 26.5 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 2 por el art. 42 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606
+
+### Artículo 23 bis
+
+Artículo 23 bis. Coordinación con la ordenación del territorio.
+La realización, dentro del objeto y ámbito delimitado por el Plan director de carreteras de Galicia o por los planes sectoriales de carreteras, de actuaciones derivadas de estudios o proyectos en materia de carreteras que no vengan previstas en aquellos no requerirá la previa modificación de dichos planes, cuando la aprobación de esos estudios o proyectos sea realizada por el Consejo de la Xunta de Galicia.
+Se añade por el art. 26.6 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 24
+
+Artículo 24. Coordinación con otras administraciones.
+1. El Plan director de carreteras y los planes sectoriales de carreteras autonómicos y de las entidades locales de Galicia deberán coordinarse entre sí y con el Plan de carreteras del Estado en cuanto se refiere a sus mutuas incidencias, para garantizar la unidad del sistema de comunicaciones y armonizar los intereses públicos afectados.
+2. Le corresponde a la consejería de la Xunta de Galicia competente en materia de carreteras fijar las directrices que rijan los planes sectoriales de carreteras de las entidades locales de Galicia y supervisar su ejecución, a fin de coordinar la planificación y garantizar la coherencia y funcionalidad del sistema viario de la Comunidad Autónoma.
+
+## TÍTULO III
+
+Construcción, financiación y explotación
+
+## CAPÍTULO I
+
+Construcción
+
+### Artículo 25
+
+Artículo 25. Modalidades de ejecución de las obras.
+La ejecución de las obras de carreteras podrá ser realizada directamente por el órgano competente de la administración promotora de la actuación o bien a través de contrato, encomienda o convenio, de conformidad con las disposiciones vigentes.
+
+### Artículo 26
+
+Artículo 26. Dirección e inspección de las obras.
+Las obras de carreteras serán ejecutadas bajo la dirección o inspección de la administración promotora de la actuación.
+
+### Artículo 27
+
+Artículo 27. Actuaciones de interés general.
+Las obras de carreteras promovidas por la Administración autonómica o por las entidades locales de Galicia, incluidas todas las actuaciones necesarias para su ejecución, así como las realizadas en las zonas donde se sitúen sus elementos funcionales, en el resto de la zona de dominio público o en la zona de servidumbre, constituyen actuaciones de interés general y, por lo tanto, no están sometidas a licencia o a cualquier otro acto de control preventivo municipal previsto en la legislación reguladora de las bases del régimen local. A los efectos de lo previsto en este artículo, se entienden como necesarias para la ejecución de las obras las actuaciones derivadas de la necesidad de reponer los servicios afectados independientemente de su titularidad.
+La ejecución de dichas obras, siempre que se realice de acuerdo con los proyectos aprobados, únicamente podrá ser suspendida por la propia administración promotora o por la autoridad judicial.
+Se modifica por el art. 21.2 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 28
+
+Artículo 28. Expropiaciones.
+1. Las expropiaciones u ocupaciones temporales de bienes y derechos y la imposición o modificación de servidumbres, en su caso, necesarias para la ejecución de obras de carreteras a las que se refiere la presente ley se efectuarán de acuerdo a lo establecido en la legislación vigente en materia de expropiación forzosa.
+2. La administración titular se subrogará en la posición jurídica de la persona expropiada a efectos de su derecho al aprovechamiento urbanístico que les corresponda a los terrenos expropiados.
+3. No obstante, cuando se trate de expropiar terrenos en situación urbanizada, la administración titular podrá convenir, libremente y por mutuo acuerdo con la persona expropiada, que ésta reciba una indemnización equivalente al valor que tendrían los terrenos en caso de encontrarse en situación rural, y dejando el aprovechamiento urbanístico, o el derecho a él, en posesión de la persona expropiada, siempre que sea posible conforme a la legislación y al planeamiento urbanístico.
+4. El expediente de expropiación se iniciará con la orden de inicio, que deberá venir precedida por la correspondiente retención de crédito.
+Se añade el apartado 4 por el art. 26.1 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 3 por el art. único.10 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 29
+
+Artículo 29. Reposición de servicios y bienes afectados.
+1. En caso de que deban ser expropiados servicios o bienes afectados por la ejecución de las obras, la administración promotora podrá optar, en sustitución de la expropiación, por su reposición.
+La titularidad de estos servicios y bienes repuestos, así como las responsabilidades derivadas de su funcionamiento, mantenimiento, conservación y explotación, corresponderá a la persona que sea su titular originaria, sin perjuicio de la comprobación de su finalización y estado y de la formalización de su entrega, y con efectos desde la fecha que se indique en la notificación que a tal efecto realice la administración promotora.
+En caso de que la administración promotora opte por la reposición de los servicios o bienes que resulten afectados por las obras de carreteras, las personas titulares están obligadas a facilitar que las obras de reposición puedan iniciarse en el plazo que, considerando las circunstancias concurrentes, les sea notificado en cada caso.
+2. Las personas titulares de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras están obligadas a su retirada o modificación total y efectiva en el plazo máximo de seis meses a partir de la notificación de la solicitud de la administración promotora.
+El coste de la retirada o modificación será fijado contradictoriamente entre las partes, excepto cuando los bienes o instalaciones se encuentren situados en la zona de dominio público viario, en virtud de una autorización otorgada en condiciones de precariedad. En ese caso, la autorización podrá ser revocada unilateralmente por el órgano que la otorgó en cualquier momento por razones de interés público, sin generar derecho a indemnización, cuando sea necesario por motivo de cualquier obra que vaya a realizar en la carretera la administración titular de esta, quedando en ese caso obligada la persona titular de la autorización a retirar por su cuenta los bienes o instalaciones afectados.
+3. Transcurrido el plazo máximo para la retirada o modificación total y efectiva de los bienes o instalaciones afectados sin que esta haya sido realizada por parte de la persona titular de los mismos, la administración promotora podrá proceder de forma subsidiaria a la realización de las modificaciones de los bienes o instalaciones afectados, sin perjuicio de las sanciones y responsabilidades que resulten procedentes.
+4. Cuando la reposición de los bienes o instalaciones se pretenda ejecutar en la zona de dominio público de la carretera o en sus zonas de protección, estará sujeta al deber de obtener la correspondiente autorización previa según lo previsto en esta ley. En el caso de las reposiciones ejecutadas por la administración promotora, dicha autorización podrá ser tramitada directamente por esta, a nombre de la persona titular del servicio, y estará exenta del pago de las tasas correspondientes a su tramitación.
+Se modifica por el art. 80.1 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+## CAPÍTULO II
+
+Financiación
+
+### Artículo 30
+
+Artículo 30. Financiación de las actuaciones.
+1. La financiación de las actuaciones llevadas a cabo en las carreteras reguladas por la presente ley podrá realizarse por una o varias de las siguientes modalidades:
+a) Mediante las consignaciones que a tal fin se incluyan en los presupuestos de la administración titular.
+b) Mediante contratos para la construcción y/o explotación de las carreteras en régimen de concesión de obra pública. Se financiarán en ese caso mediante los recursos propios de las sociedades concesionarias, los ajenos que éstas movilicen, las subvenciones u otro tipo de aportación económica por parte de la administración concedente y, en su caso, las aportaciones de otras administraciones públicas distintas de la concedente y la financiación que pudiese provenir de otros organismos nacionales o internacionales.
+c) Mediante procedimientos de colaboración con otras administraciones públicas, sociedades o entes públicos, con otros organismos locales, nacionales, comunitarios o internacionales, o con particulares.
+d) Mediante los recursos generados por la explotación de las carreteras.
+e) Mediante el establecimiento de contribuciones especiales.
+f) Mediante cualquier otro mecanismo previsto en esta ley o en la normativa urbanística, patrimonial o de contratación administrativa.
+2. En los tramos de las carreteras donde se establezca un pago de peaje o tasa por su uso, la administración titular podrá establecer medidas o procedimientos compensatorios que vengan a reducir o a anular el pago directo por la persona usuaria.
+Se modifica el apartado 1.f) por el art. único.11 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 31
+
+Artículo 31. Recursos generados por la explotación de las carreteras.
+Las carreteras reguladas por la presente ley podrán generar recursos económicos a favor de la administración titular de la red conforme a lo siguiente:
+a) Mediante el establecimiento de tasas creadas de acuerdo a la normativa tributaria.
+b) Mediante la enajenación de propiedades y terrenos de carácter patrimonial que formen parte de la red de carreteras.
+c) Mediante la enajenación del aprovechamiento urbanístico de los terrenos que conforman el dominio público viario o de otros terrenos de carácter patrimonial que formen parten de la red de carreteras.
+d) Por la recaudación de las indemnizaciones por daños, procedimientos de ejecución subsidiaria, multas coercitivas y sanciones derivadas de las infracciones cometidas en aplicación de la presente ley.
+
+### Artículo 32
+
+Artículo 32. Contribuciones especiales.
+1. Podrán imponerse contribuciones especiales cuando de la ejecución de las obras que se realicen para la construcción de carreteras, vías de servicio o accesos resulte la obtención por personas físicas y jurídicas de un beneficio especial, aunque éste no pueda fijarse en una cantidad concreta. El aumento del valor de determinadas fincas a causa de la ejecución de las obras tendrá a estos efectos la consideración de beneficio especial.
+2. Serán sujetos pasivos de estas contribuciones especiales aquéllos que se beneficien de modo directo con las carreteras o accesos que se ejecuten y, especialmente, las personas titulares de las fincas y establecimientos contiguos y las de las urbanizaciones que resulten mejoradas en su comunicación.
+3. Las contribuciones especiales se devengarán en el momento de la recepción de las obras o, en su defecto, en el de su puesta en servicio.
+4. La base imponible estará constituida por el coste total de las obras, incluidos, en su caso, todos los costes adicionales inherentes a su ejecución y, en particular, el coste de las expropiaciones que deban realizarse.
+5. La base liquidable se determinará por el siguiente porcentaje de la base imponible:
+a) Con carácter general, hasta el 25 %.
+b) En vías de servicio, hasta el 50 %.
+c) En los accesos de uso particular a fincas, establecimientos, instalaciones, explotaciones o urbanizaciones, hasta el 90 %.
+6. Para obtener la cuota tributaria, la base liquidable de las contribuciones especiales se repartirá entre los sujetos pasivos estableciendo un tipo de gravamen para cada uno de ellos que atienda a aquellos criterios objetivos que, según la naturaleza de las obras, construcciones o circunstancias que concurran en aquéllos, se determinen de entre los siguientes:
+a) Superficie de las fincas, establecimientos, instalaciones, explotaciones o urbanizaciones beneficiadas.
+b) Situación, proximidad y accesos a la carretera de las fincas, establecimientos, instalaciones, explotaciones o urbanizaciones.
+c) Bases imponibles en las contribuciones territoriales de las fincas beneficiadas.
+d) Aquellas otras que se determinen en el documento regulador de la contribución especial, en atención a las circunstancias particulares que concurran en la actuación.
+7. El establecimiento de contribuciones especiales en los supuestos a que se refiere la presente ley le corresponde a la administración promotora de la actuación según lo dispuesto en la normativa de aplicación en cada caso.
+
+## CAPÍTULO III
+
+Explotación
+
+### Artículo 33
+
+Artículo 33. Concepto de explotación.
+1. La explotación del dominio público viario comprende las operaciones de conservación y mantenimiento, así como todas las acciones encaminadas a su defensa, mejor uso y aprovechamiento.
+2. La conservación y mantenimiento del dominio público viario comprende las actividades necesarias para preservar el estado de sus bienes y mantener la vialidad de la red de carreteras.
+3. La defensa del dominio público viario comprende las acciones dirigidas a protegerlo y evitar las actividades que lo perjudiquen o menoscaben, así como a mantener la funcionalidad y seguridad vial de la red de carreteras.
+4. El mejor uso y aprovechamiento del dominio público viario se refiere a las actuaciones encaminadas a facilitar su empleo en las mejores condiciones de seguridad y comodidad. Comprenderá, a estos efectos, las intervenciones en materia de información y señalización y la ordenación de accesos y usos de las zonas de protección.
+5. La administración titular de la carretera es la única competente para su señalización permanente. Se debe considerar ilegal, a todos los efectos, toda señalización establecida por cualquier otra persona o entidad sin previa autorización de aquélla.
+6. La administración titular de la carretera podrá convenir con los ayuntamientos en los que se sitúe una travesía lo que estimen procedente en orden a mejorar la explotación e integración urbana de aquélla.
+7. Les corresponderá a los ayuntamientos la conservación y mantenimiento de todos los elementos que, estando situados en el dominio público viario, no formen parte de la carretera ni de sus elementos funcionales y les sirvan a aquéllos para ejercer sus competencias propias.
+8. En la medida en que no contravenga la normativa técnica básica, la consejería competente en materia de carreteras podrá dictar normas e instrucciones complementarias relativas a la explotación de las carreteras de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia.
+Las normas e instrucciones que se dicten tendrán en cuenta las particularidades de la Comunidad Autónoma de Galicia, y compatibilizarán la realización de actividades económicas en el entorno de las carreteras con la necesaria protección del dominio público viario y de la seguridad vial.
+Se añade el apartado 8 por el art. único.12 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 34
+
+Artículo 34. Modos de explotación.
+1. La administración titular de la red, como regla general, gestionará y explotará directamente el dominio público viario, incluidas sus travesías, cuya utilización será gratuita para las personas usuarias salvo que se establezca una tasa por su uso.
+2. El dominio público viario también podrá ser explotado a través de cualquiera de los sistemas de gestión previstos en la legislación de contratos del sector público.
+3. La administración titular de la red podrá crear entidades al objeto de gestionar la explotación del dominio público viario.
+
+### Artículo 35
+
+Artículo 35. Dirección e inspección de la explotación.
+La explotación del dominio público viario se realizará bajo la dirección o inspección de la administración titular de la red.
+
+### Artículo 36
+
+Artículo 36. Limitaciones a la circulación.
+La administración titular de la red de carreteras, en el ámbito de sus competencias, podrá imponer de manera motivada limitaciones temporales o permanentes a la circulación en ciertos tramos de aquélla, así como para determinados tipos de vehículos, en los supuestos previstos en la normativa en materia de circulación.
+
+## TÍTULO IV
+
+Protección del dominio público viario
+
+## CAPÍTULO I
+
+Delimitación de zonas
+
+### Artículo 37
+
+Artículo 37. Zona de dominio público.
+1. La zona de dominio público está integrada por los terrenos ocupados por todos los elementos del dominio público viario adquiridos por título legítimo por la administración titular.
+2. La zona de dominio público adyacente es la parte de la zona de dominio público formada por los terrenos adyacentes a las carreteras y a sus elementos funcionales, adquiridos por título legítimo por la administración titular pero no ocupados directamente por la explanación de las carreteras o por la de sus elementos funcionales. A estos efectos la distancia entre la arista exterior de la explanación correspondiente a las calzadas y elementos funcionales previstos y el límite exterior de la zona de dominio público adyacente, medida horizontal y ortogonalmente desde la primera, no podrá ser superior a:
+a) Quince metros en el caso de autovías, autopistas y vías para automóviles.
+b) Diez metros en el caso de carreteras convencionales y elementos funcionales.
+3. En aquellos tramos de carretera en los que existan túneles, puentes, viaductos, estructuras u obras similares, se adquirirán y pasarán a formar parte de la zona de dominio público adyacente, como regla general, los terrenos comprendidos entre la proyección vertical de las líneas exteriores de delimitación de las obras sobre el terreno.
+En todo caso, cuando menos, se adquirirá y pasará a formar parte de la zona de dominio público adyacente el terreno ocupado por los soportes y cimentaciones de las estructuras u obras similares y una franja de terreno de tres metros alrededor de ellos.
+
+### Artículo 38
+
+Artículo 38. Zonas de protección de la carretera y línea límite de edificación.
+1. Para la protección del dominio público viario y la debida prestación del servicio público viario, además de la zona de dominio público, se establecen las zonas de protección de la carretera denominadas de servidumbre y de afección, así como el trazado de la línea límite de edificación.
+2. A efectos del régimen jurídico de protección del dominio público viario, los ramales de enlace y las vías de giro de intersecciones tendrán la consideración de carreteras convencionales.
+3. Cuando por la cercanía de las calzadas, enlaces y otros supuestos, las zonas de dominio público, de servidumbre o de afección se superpongan entre ellas, prevalecerá en todo caso el régimen establecido para la zona de dominio público sobre la de servidumbre y el de ésta sobre la de afección, cualquiera que sea la carretera o elemento funcional determinante.
+4. En los tramos urbanos de las carreteras no se establecen ni zonas de protección de la carretera ni línea límite de edificación.
+5. Las personas propietarias de los terrenos, construcciones, establecimientos, instalaciones u otros bienes situados en las zonas de protección de las carreteras y las titulares de las actividades que se desarrollen en aquéllos están obligadas a conservarlos en las debidas condiciones de limpieza y seguridad para que no afecten al adecuado funcionamiento del servicio público viario, y deberán ejecutar las obras y actuaciones necesarias para mantenerlos en las debidas condiciones. Serán responsables de los daños y perjuicios causados por el incumplimiento de esta obligación.
+
+### Artículo 39
+
+Artículo 39. Delimitación de la zona de servidumbre.
+1. La zona de servidumbre está formada por dos franjas de terreno, una a cada lado de la carretera, delimitadas interiormente por las líneas exteriores de la zona de dominio público y exteriormente por dos líneas paralelas a dichos límites y medidas horizontal y ortogonalmente desde ellos, a una distancia de:
+a) Diez metros en el caso de autopistas, autovías y vías para automóviles.
+b) Dos metros en el caso de carreteras convencionales y elementos funcionales.
+2. En caso de que existan túneles, puentes, viaductos, estructuras u obras similares, los terrenos comprendidos entre la proyección ortogonal de las líneas exteriores de delimitación de las obras sobre el terreno que no formen parte de la zona de dominio público formarán parte de la zona de servidumbre.
+
+### Artículo 40
+
+Artículo 40. Delimitación de la zona de afección.
+La zona de afección está formada por dos franjas de terreno, una a cada orilla de la carretera, delimitadas interiormente por las líneas exteriores de la zona de servidumbre y exteriormente por dos líneas paralelas a ellas y medidas horizontal y ortogonalmente desde las líneas exteriores de la zona de dominio público, a una distancia de:
+a) Cien metros en el caso de autopistas, autovías y vías para automóviles.
+b) Treinta metros en el caso de carreteras convencionales y elementos funcionales.
+Se modifica por el art. 20.6 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 41
+
+Artículo 41. Delimitación de la línea límite de edificación.
+1. La línea límite de edificación está situada a ambas orillas de la carretera con un trazado que discurre paralelo a las líneas exteriores de delimitación de las calzadas a una distancia, medida horizontal y ortogonalmente a aquellas, de:
+a) 50 metros en el caso de autopistas, autovías y vías para automóviles.
+b) 15 metros en el caso de carreteras convencionales. En caso de que una administración tenga aprobado el catálogo de su red y en el mismo se categoricen funcionalmente las carreteras en red estructurante, red complementaria y red local, según lo establecido en el Decreto 66/2016, de 26 de mayo, por el que se aprueba el Reglamento de carreteras de Galicia, la línea límite de edificación estará situada a 15 metros en el caso de las carreteras de la red estructurante y de la red complementaria y a 7 metros para las carreteras de la red local.
+c) En los elementos funcionales de la carretera, la línea de edificación estará situada a 7 metros de la línea exterior de delimitación de la calzada del elemento funcional. En el supuesto de que la línea límite de edificación del elemento funcional quedase incluida dentro de la línea límite de edificación establecida por la propia carretera, será esta última la que prevalezca.
+2. En el supuesto de que las distancias establecidas en el punto anterior queden incluidas dentro de la zona de dominio público o de la zona de servidumbre, la línea límite de edificación se establecerá en la línea límite exterior de la zona de servidumbre.
+3. La administración titular de la red de carreteras podrá excepcionalmente tramitar un expediente de reducción de las distancias señaladas en este artículo, fuera de los tramos urbanos, siempre que quede garantizada la ordenación de las márgenes de la carretera, el adecuado control de sus accesos y la seguridad vial, cuando en una carretera, o en tramos concretos de ella, las características del lugar hagan extraordinariamente dificultoso respetar las distancias señaladas.
+Serán trámites preceptivos en la tramitación del expediente la emisión de un informe vinculante por parte de la consejería competente en materia de carreteras y la de un informe del ayuntamiento por el que discurra la carretera o tramo. La resolución del expediente se publicará en el Diario Oficial de Galicia.
+Se modifica el apartado 1 por el art. 15.1 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-15
+
+### Artículo 42
+
+Artículo 42. Derechos preexistentes e indemnizaciones.
+1. El establecimiento y la delimitación de las zonas de protección y de la línea límite de edificación, tanto de las carreteras existentes como de las nuevas que se construyan, así como las limitaciones señaladas en esta ley y el régimen de usos que se regula en ella, no alteran la situación de propiedad preexistente de los terrenos que afecta ni la titularidad de los derechos de terceros sobre ellos. Tampoco genera derecho a ninguna indemnización para las personas titulares de los derechos sobre los terrenos afectados.
+2. La ocupación de los terrenos de la zona de servidumbre para el emplazamiento de instalaciones o la realización de actividades públicas vinculadas con la construcción o mantenimiento de la carretera y, en general, cuando lo requiera el servicio público viario dará lugar a indemnización por los daños y perjuicios causados por su empleo.
+Se modifica el apartado 1 por el art. 80.2 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+## CAPÍTULO II
+
+Régimen de usos
+Se modifica el título por el art. 80.3 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica por el art. 21.4 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Sección 1
+
+Sección 1.ª Clasificación de los usos
+Se añade por el art. 80.4 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+### Artículo 42 bis
+
+Artículo 42 bis. Clasificación de los usos.
+En la zona de dominio público de las carreteras y en sus zonas de protección, se establece el siguiente régimen de usos:
+a) Usos que requieren de un título habilitante.
+1.° Usos autorizables.
+2.° Usos sujetos a declaración responsable.
+b) Usos permitidos sin título habilitante.
+c) Usos prohibidos.
+Se añade por el art. 80.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+## Sección 2
+
+Sección 2.ª Usos que requieren de un título habilitante
+Se añade por el art. 80.6 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+## Subsección 1
+
+Subsección 1.ª Usos autorizables
+Se añade por el art. 80.7 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+### Artículo 43
+
+Artículo 43. Usos autorizables en la zona de dominio público.
+1. En la explanación de la carretera y en la de sus elementos funcionales sólo se podrán autorizar los siguientes usos:
+a) Cruces subterráneos o aéreos que sean imprescindibles para dar continuidad a las redes e infraestructuras de servicios públicos o para conectarse a ellos.
+b) Pasos inferiores o superiores.
+c) Obras de acceso a la propia carretera.
+d) Excepcionalmente, apoyos de redes e infraestructuras aéreas de servicios públicos cuando sean empleados de manera compartida con la red de alumbrado público fuera de sus tramos urbanos y siempre que no se trate de apoyos de redes eléctricas de alta tensión.
+Asimismo, reposición de apoyos de redes e infraestructuras aéreas de servicios públicos afectados por obras en la carretera, en caso de que estas obras sean promovidas por la administración titular de la carretera.
+e) Excepcionalmente, conducciones subterráneas longitudinales correspondientes a redes e infraestructuras de servicios públicos, cuando se justifique debidamente que, por las condiciones extremadamente dificultosas de la orografía del terreno, o por su condición urbana, no existe otra solución técnicamente viable y se sitúen, preferentemente, fuera de la calzada y, cuando sea posible, también de sus arcenes.
+f) Los elementos, obras, actuaciones e instalaciones necesarios para que las administraciones públicas puedan ejercer sus competencias, cuando por su naturaleza o funcionalidad no puedan tener otro emplazamiento.
+g) Las instalaciones provisionales, con un plazo fijado, asociadas a actividades de interés, de uso o de acceso público, o para la realización de actividades relacionadas con la conservación o construcción de instalaciones industriales o de edificaciones, así como las obras, instalaciones y usos provisionales de interés particular en terrenos afectados por anteproyectos, proyectos de trazado y proyectos de construcción aprobados definitivamente y cuyas obras no se hayan iniciado.
+2. En la zona de dominio público adyacente sólo se podrán autorizar los siguientes usos:
+a) Usos autorizables en la explanación de la carretera y en la de sus elementos funcionales.
+b) Conducciones subterráneas longitudinales correspondientes a redes e infraestructuras de servicios públicos.
+c) Excepcionalmente, apoyos de redes e infraestructuras aéreas de servicios públicos, cuando por las condiciones orográficas del terreno resulte técnicamente inviable retirarlos a mayor distancia o sean los apoyos extremos del vano de cruce aéreo sobre la plataforma, fuera de sus tramos urbanos y siempre que no se trate de apoyos de redes eléctricas de alta tensión.
+d) La instalación de un único apoyo perteneciente a una red o infraestructura aérea de servicios públicos para cada paso de la red aérea a canalización subterránea, y de subterránea a aérea.
+e) Aquellas otras obras, instalaciones o actividades de interés público que no perjudiquen la integridad de la carretera, la seguridad vial o su adecuada explotación.
+3. En ningún caso se autorizarán obras, instalaciones o cualesquiera otras actividades en la zona de dominio público que perjudiquen la integridad de la carretera, la seguridad vial o su adecuada explotación.
+Se añade la letra e) al apartado 2 por el art. 80.8 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifican los apartados 1 y 2 por el art. 20.7 a 10 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica el apartado 1.g) por la disposición final 11.3 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-11
+ Se modifican los apartados 1 y 2 por el art. único.13 a 16 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 44
+
+Artículo 44. Usos autorizables en la zona de servidumbre.
+1. En la zona de servidumbre de las carreteras sólo se podrán autorizar los siguientes usos:
+a) Usos autorizables en la zona de dominio público adyacente.
+b) Cultivos y otras labores agrícolas que modifiquen la topografía del terreno sobre el cual se realicen.
+c) Plantación de arbolado.
+d) Cierres completamente diáfanos, sobre piquetes sin cimentación de obra de fábrica.
+e) Movimientos de tierra y explanaciones.
+f) Excepcionalmente, viales, aparcamientos, isletas y zonas ajardinadas de uso público.
+g) Parcelaciones y segregaciones.
+2. En ningún caso se autorizarán obras, instalaciones o cualesquiera otras actividades en la zona de servidumbre que perjudiquen la integridad de la carretera, la seguridad vial o su adecuada explotación.
+Se modifica la letra c) del apartado 1 por el art. 60.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica la letra b) y se añade la g) al apartado 1 por el art. 80.9 y 10 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica la letra d) del apartado 1 por el art. 20.11 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 45
+
+Artículo 45. Usos autorizables en la zona de afección.
+En la zona de afección se podrán autorizar todos aquellos usos que no perjudiquen la integridad de la carretera, la seguridad vial o su adecuada explotación, con las excepciones establecidas en la presente ley en la parte de la zona de afección comprendida entre la carretera y la línea límite de edificación.
+
+## Subsección 2
+
+Subsección 2.ª Usos sujetos a declaración responsable
+Se añade por el art. 80.11 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+### Artículo 45 bis
+
+Artículo 45 bis. Usos sujetos a declaración responsable en la zona de servidumbre y en la zona de afección.
+1. Son usos sujetos a declaración responsable, siempre y cuando se lleven a cabo en la zona de servidumbre o en la zona de afección de la carretera:
+a) Las obras menores de conservación y mantenimiento de las edificaciones, instalaciones y cierres.
+b) Las talas de arbolado.
+c) Aquellos otros que se determinen reglamentariamente.
+2. Se consideran obras menores de conservación y mantenimiento de edificaciones, instalaciones y cierres los siguientes trabajos, siempre que sean de escasa complejidad y entidad técnica o económica y que no produzcan cambio de uso ni incremento de volumen edificado por encima o por debajo de la rasante, ni que afecten a la estructura o a la cimentación:
+a) El pintado y la impermeabilización de fachadas.
+b) El cambio de ventanas.
+c) La sustitución de tejados.
+d) Cualquier otra actuación de mera conservación y mantenimiento de edificaciones, instalaciones y cierres.
+3. No estarán sujetos a declaración responsable los usos que requieran la ocupación de la zona de dominio público con cualquier elemento auxiliar, tales como andamios, grúas o cualquier otro. En esos casos será necesario obtener la correspondiente autorización.
+4. Los usos y actividades a que se refiere este artículo no podrán, en ningún caso, perjudicar la integridad de la carretera, la seguridad vial o su adecuada explotación. Reglamentariamente se desarrollarán el resto de condiciones en que, en cada caso, deban llevarse a cabo.
+5. Para los usos sujetos a declaración responsable, la administración titular podrá aprobar un condicionado general para su ejecución, que deberá respetar las condiciones que, en cada caso, se desarrollen reglamentariamente.
+Los condicionados generales a que se refiere este artículo serán publicados por las respectivas administraciones titulares en el "Diario Oficial de Galicia", en el caso de las carreteras de titularidad de la Comunidad Autónoma, o en el boletín oficial de la provincia correspondiente, en el caso de las carreteras de titularidad de las entidades locales de Galicia.
+Se modifica la letra b) y añade la c) al apartado 1 por el art. 60.2 y 3 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifican los apartados 1 y 3 y se añaden los apartados 4 y 5 por el art. 80.12 a 14 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se añade por el art. 21.5 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Sección 3
+
+Sección 3.ª Usos permitidos sin título habilitante
+Se añade por el art. 80.15 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+### Artículo 45 ter
+
+Artículo 45 ter. Usos permitidos en la zona de servidumbre y en la zona de afección.
+1. A los efectos de esta ley, se consideran permitidos en la zona de servidumbre y en la zona de afección y, por lo tanto, no se encuentran sometidos al régimen de autorización previa ni de declaración responsable en materia de carreteras, los siguientes usos y actividades:
+a) Cultivos y otras labores agrícolas cuando no modifiquen la topografía del terreno sobre el cual se realicen.
+b) Aquellos otros que se establezcan reglamentariamente.
+2. No estarán permitidos los usos que requieran la ocupación de la zona de dominio público con cualquier elemento auxiliar, tales como andamios, grúas o cualquier otro. En esos casos será necesario obtener la correspondiente autorización.
+3. Los usos y las actividades a que se refiere este artículo no podrán, en ningún caso, perjudicar la integridad de la carretera, la seguridad vial o su adecuada explotación. Reglamentariamente se desarrollarán el resto de condiciones en que, en cada caso, deban llevarse a cabo.
+Se añade por el art. 80.16 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+## Sección 4
+
+Sección 4.ª Usos prohibidos
+Se añade por el art. 80.17 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+
+### Artículo 46
+
+Artículo 46. Usos prohibidos.
+1. En la zona de dominio público de la carretera y en sus zonas de protección están prohibidas todas aquellas obras, instalaciones o cualquier otra actividad que perjudiquen la integridad de la carretera, la seguridad vial o su adecuada explotación.
+También están prohibidos todos aquellos usos que, según lo establecido en esta ley, no se encuentran sometidos al régimen de autorización previa ni de declaración responsable en materia de carreteras y, al mismo tiempo, no se consideran usos permitidos sin título habilitante.
+En particular, entre la carretera y la línea límite de edificación se prohíbe cualquier tipo de construcción de nueva planta, por encima o por debajo de la rasante del terreno, los cierres no diáfanos o de fábrica, así como la instalación, excepto cruces, de los apoyos de las redes e infraestructuras aéreas de servicios públicos, con las excepciones establecidas en esta ley o en su reglamento, en el caso de elementos que no tengan carácter edificatorio.
+2. El régimen establecido en esta ley no modificará, en ningún caso, lo dispuesto en la normativa urbanística para los edificios fuera de ordenación.
+Se modifica por el art. 80.18 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica el primer párrafo por el art. único.17 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+## CAPÍTULO III
+
+Títulos habilitantes
+Se modifica el título por el art. 80.19 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica por el art. 21.6 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Sección 1
+
+Sección 1.ª Condiciones generales
+
+### Artículo 47
+
+Artículo 47. Régimen general y competencia.
+1. La ejecución de obras e instalaciones o la realización de cualquier otra actividad en la zona de dominio público de la carretera o en sus zonas de protección deberá sujetarse al régimen de usos establecido en esta ley, que implica el cumplimiento de lo dispuesto en materia de títulos habilitantes.
+El título habilitante será la autorización previa o la declaración responsable, según proceda. No se requerirá título habilitante alguno en el caso de usos expresamente permitidos en la presente ley.
+2. La competencia para autorizar la ejecución de obras, instalaciones o la realización de cualquier otra actividad en la zona de dominio público de la carretera o en sus zonas de protección, así como para realizar las actividades de comprobación de aquellas y de las sujetas a declaración responsable, en lo que a la legislación sectorial en materia de carreteras se refiere, corresponde a la administración titular de la carretera. Se exceptúan de lo dispuesto en este número las talas de arbolado realizadas en la zona de servidumbre y de afección, que estarán sujetas a declaración responsable, que se presentará ante el órgano competente en materia forestal, de acuerdo con lo dispuesto en el artículo 92 bis.3.f) de la Ley 7/2012, de 28 de junio, de montes de Galicia.
+3. En el otorgamiento de títulos habilitantes se impondrán las condiciones necesarias para evitar daños y perjuicios a la carretera, a las zonas de protección, a sus elementos funcionales, a la seguridad de la circulación viaria o a la adecuada explotación de la carretera.
+4. Los títulos habilitantes a que se refiere este precepto son independientes y se entienden sin perjuicio de otras licencias, autorizaciones o declaraciones responsables que sean necesarias para la ejecución de las obras, instalaciones o actividades de que se trate.
+5. Se considera que los accesos a la carretera o a sus elementos funcionales afectan directamente a sus calzadas y, en consecuencia, siempre requerirán de autorización, cuyo otorgamiento corresponde, en todos los casos, a la administración titular de la carretera, incluso cuando se realicen en sus tramos urbanos.
+Del mismo modo, a consecuencia de su relación con dichos accesos a las carreteras, las parcelaciones y segregaciones de todas las parcelas colindantes con las carreteras requerirán la autorización de la administración titular de la carretera, incluso en los tramos urbanos.
+Se modifica el apartado 2 por el art. 60.4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por el art. 80.20 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se añade el apartado 5 por el art. 26.7 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 2 por el art. 20.12 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. 21.7 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se modifica el apartado 2 por el art. 15.2 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-15
+ Se modifica el apartado 2 por la disposición final 11.1 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-11
+
+### Artículo 48
+
+Artículo 48. Tramitación.
+1. Los procedimientos de otorgamiento de autorizaciones se iniciarán a solicitud de la persona interesada y se tramitarán según lo dispuesto en la legislación en materia de procedimiento administrativo, excepto en lo expresamente regulado en la presente ley o en su reglamento.
+2. La resolución deberá notificarse en el plazo de seis meses a contar desde el día siguiente al de la entrada de la solicitud en el registro del órgano competente para su tramitación. El transcurso de dicho plazo sin que se hubiese practicado la notificación de la resolución permitirá a la persona interesada entender desestimada su pretensión por silencio administrativo.
+3. Con carácter previo a la solicitud de autorización, las personas interesadas podrán consultar al órgano al que le corresponda otorgar la autorización sobre la viabilidad de la actuación pretendida, así como obtener información y orientación acerca de los requisitos técnicos y jurídicos que las disposiciones vigentes le impongan.
+4. En el caso de los usos sujetos a declaración responsable, esta deberá dirigirse a la Administración titular de la carretera y en ella la persona interesada declarará, bajo su responsabilidad, que cumple los requisitos establecidos en la normativa vigente para obtener el reconocimiento del derecho o facultad, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento. Los requisitos mencionados deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable. La Administración podrá requerir en cualquier momento que se adjunte la documentación que acredite el cumplimiento de los mencionados requisitos y la persona interesada deberá aportarla.
+La declaración responsable deberá presentarse con una antelación mínima de quince días al inicio de las obras, según el modelo normalizado que apruebe la Administración titular de la carretera. La actuación deberá ejecutarse en el plazo máximo de un año desde la presentación de la declaración.
+Se añade el apartado 4 por el art. 21.8 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se modifica el apartado 2 por el art. único.18 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 49
+
+Artículo 49. Efectos de la autorización.
+1. Las autorizaciones se otorgarán a reserva de las demás licencias y autorizaciones necesarias, sin perjuicio de terceros y dejando a salvo los derechos preexistentes sobre los terrenos o bienes. No supondrán en ningún caso la cesión del dominio público, ni la asunción por la administración titular de responsabilidad alguna respecto de la persona titular de la autorización o de terceros.
+2. Las actuaciones podrán ser inspeccionadas en todo momento por el personal de la administración titular de la carretera.
+3. Finalizadas las obras o instalaciones para las que se disponga de título habilitante, la administración titular de la carretera comprobará su terminación, su estado y su conformidad con los términos del correspondiente título habilitante. En su caso, se harán constar las objeciones de manera pormenorizada y se concederá un plazo proporcionado para su corrección.
+Será preceptivo el levantamiento de un acta de terminación en el caso de todas las obras o instalaciones llevadas a cabo en la zona de dominio público. En los demás supuestos, solo será exigible cuando la administración titular de la carretera condicione, en el título habilitante, el uso de las obras o instalaciones a su levantamiento. Si no se establece tal condición, el levantamiento del acta podrá ser sustituido por los mecanismos de comprobación que se establezcan reglamentariamente.
+En los casos en que esta sea exigible, el acta de terminación implicará el permiso de uso de las obras o instalaciones cuya conformidad se acredite.
+El acta de terminación de las obras o instalaciones será elaborada por la administración titular de la carretera, en los casos en que sea exigible, y será puesta a disposición de la persona titular, quien podrá manifestar lo que considere oportuno, en su caso.
+4. Con carácter general, las autorizaciones para la realización de obras, instalaciones o actividades en la zona de dominio público se otorgarán por un plazo máximo de diez años, y podrán concederse, previa solicitud de la persona interesada, hasta dos prórrogas por períodos de igual duración. Antes de que haya transcurrido el plazo de la autorización, incluidas las prórrogas, en su caso, la persona titular podrá solicitar una nueva autorización.
+A estos efectos, se considera que las autorizaciones de acceso para la incorporación de vehículos a la carretera y las autorizaciones de las acometidas para la conexión a las redes e infraestructuras de servicios públicos se refieren a actividades realizadas desde fuera del dominio público viario, independientemente de los elementos que se sitúen en el mismo, por lo que, en ambos casos, no estarán sometidas a las limitaciones establecidas en el párrafo anterior.
+5. Las autorizaciones otorgadas para la realización de obras, instalaciones o actividades en la zona de dominio público podrán ser revocadas unilateralmente por el órgano que las otorgó en cualquier momento por razones de interés público, sin generar derecho a indemnización, cuando sea necesario por motivo de cualquier obra que vaya a realizar en la carretera la administración titular de ésta, y quedará obligada la persona solicitante a retirar a su costa los elementos instalados.
+6. Las autorizaciones otorgadas para la realización de obras, instalaciones o actividades en la zona de dominio público excluyen el abono a la persona interesada de cualquier indemnización por razón de los daños y perjuicios ocasionados por la explotación y uso de la carretera, incluidos los causados por el tráfico o por cualquier obra que se realice en la carretera por la administración titular de ésta, incluidas las de conservación. En ese caso, la reposición de las obras y elementos amparados por la autorización será a costa de la persona interesada.
+Se modifica el apartado 3 por el art. 80.21 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica el apartado 4 por el art. 26.2 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifican los apartados 2 y 3 por el art. 26.8 y 9 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 4 por el art. único.19 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 50
+
+Artículo 50. Modificación o suspensión de autorizaciones.
+1. La administración titular de la carretera podrá, en cualquier momento, modificar o suspender temporal o definitivamente la autorización en los casos siguientes:
+a) Cuando la actuación produzca daños en el dominio público viario.
+b) Por incumplimiento de las condiciones de la autorización.
+c) Por poner en riesgo la seguridad vial.
+d) Cuando se alteren los supuestos determinantes de su otorgamiento.
+e) Cuando resulte incompatible con normas aprobadas con posterioridad.
+2. El procedimiento para modificar o suspender la autorización se iniciará de oficio o a instancia de parte, y será instruido por la administración titular de la carretera. En todo caso, antes de elevar la propuesta de resolución, se les dará audiencia a las personas interesadas con el fin de que puedan formular cuantas alegaciones convengan a sus derechos.
+Se añade la letra e) al apartado 1 por el art. único.20 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 51
+
+Artículo 51. Garantías.
+1. La realización de cualquier actuación en el dominio público viario podrá requerir la constitución por las personas interesadas de la correspondiente garantía por una cuantía que será determinada por la administración titular de la carretera.
+2. El plazo de garantía será de un (1) año como máximo desde la fecha del acta de conformidad, en su caso. La garantía será independiente de las tasas que, con carácter general, se devenguen por la tramitación del expediente de la autorización y sin perjuicio de las responsabilidades en que se haya podido incurrir por el incumplimiento de las condiciones establecidas en aquella.
+3. En el supuesto de que las personas interesadas ocasionaren daños o perjuicios al dominio público viario, la administración titular de la carretera incautará la garantía en la cuantía equivalente a dichos daños y perjuicios. En todo caso, la persona interesada deberá indemnizar a la administración titular por los daños y perjuicios que excedan del importe de la cuantía incautada.
+4. Si la obra se deteriora o arruina con posterioridad a la expiración del plazo de garantía por vicios ocultos de la construcción, la persona titular de la autorización responderá de los daños y perjuicios ocasionados durante el plazo de veinte años a contar desde la fecha del acta de conformidad.
+Se modifica el apartado 2 por el art. 20.13 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+## Sección 2
+
+Sección 2.ª Condiciones particulares
+
+### Artículo 52
+
+Artículo 52. Accesos, parcelaciones y segregaciones.
+1. La administración titular de la red podrá limitar y ordenar los accesos a las carreteras y establecer, con carácter obligatorio, los lugares y las condiciones en que tales accesos se puedan construir, atendiendo a la normativa vigente y aplicando criterios de intensidad de tráfico, de seguridad viaria y de funcionalidad y explotación de la carretera. En todo caso, será prioritario el empleo de accesos existentes.
+2. Se incorporarán al dominio público viario los elementos del nuevo acceso que se sitúen sobre la zona de dominio público.
+También se incorporarán al dominio público viario los enlaces, intersecciones, glorietas, pasos inferiores y superiores, vías de servicio, elementos de cambio de velocidad y aquellas otras ampliaciones de la plataforma de la carretera o vía de servicio original que se ejecuten como parte del proyecto del acceso, así como todos los terrenos sobre los que se sitúen todos esos elementos, aun en caso de que pertenezcan o sean adquiridos por la persona solicitante de la autorización para ejecutar el acceso.
+La cesión de los elementos y terrenos se formalizará mediante la firma de un documento a tal efecto. La firma de dicho documento de formalización de la cesión será requisito previo para la celebración del acto en el que se documentará la terminación de las obras del acceso, su estado y su conformidad con los términos de la autorización.
+3. Las autorizaciones referidas a las parcelaciones y segregaciones de parcelas colindantes con las carreteras, cuando se pretendan llevar a cabo fuera del suelo urbano consolidado, solo se emitirán en sentido favorable en aquellos casos en los que esas actuaciones no impliquen un incremento del número de accesos a la carretera, en los términos establecidos reglamentariamente.
+Pola su parte, las autorizaciones referidas a las parcelaciones y segregaciones de parcelas colindantes con las carreteras, cuando se pretenden llevar a cabo en el suelo urbano consolidado, solo se emitirán en sentido favorable en aquellos casos en los que todas las nuevas parcelas generadas puedan resolver su acceso a través de otras vías de circulación o bien cumplan las condiciones para que sus accesos puedan ser autorizados por la administración titular de la carretera.
+Se modifica por el art. 26.10 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 53
+
+Artículo 53. Publicidad.
+1. Fuera de los tramos urbanos, queda prohibida la colocación, fija o provisional, de carteles u otros elementos publicitarios que sean visibles desde la zona de dominio público de la carretera, sin que esta prohibición pueda dar derecho a indemnización.
+2. En los tramos urbanos la disposición de publicidad estará sometida a las ordenanzas municipales, y deberá situarse fuera de la zona de dominio público y no afectar ni interferir en la señalización, alumbrado o balizamiento de la carretera.
+3. A los efectos de la presente ley no tienen la consideración de publicidad:
+a) Los carteles informativos instalados o autorizados por la administración titular de la carretera. A estos efectos, se consideran carteles informativos:
+1.º Las señales y carteles de circulación, y sus paneles complementarios.
+2.º La señalización turística oficial de lugares, parajes y paisajes de interés natural o cultural.
+3.º Los que señalicen instalaciones de carácter público vinculadas al sistema de transporte.
+4.º Los que se refieran a actividades u obras que afecten a la carretera o informen sobre el estado de la vía y demás circunstancias relacionadas con el tráfico.
+5.º Los que informen de la estación de servicio más próxima y sobre los precios de los productos energéticos en aquélla y en las inmediatamente posteriores.
+b) Los rótulos de los establecimientos mercantiles o industriales que sean indicativos de su actividad, siempre que se cumplan, simultáneamente, las siguientes condiciones:
+1.º Que se sitúen en los edificios o terrenos en que aquellos desarrollen su actividad.
+2.º Que se sitúen más separados de la carretera que la línea límite de edificación y a una distancia de la calzada no inferior a su altura.
+En el caso de edificaciones preexistentes entre la calzada y la línea límite de edificación, se admitirán también aquellos casos en los que se justifique que no se pueden instalar rótulos más separados de la carretera que la línea límite de edificación, no se disponga ya de otro rótulo visible desde la calzada y se trate de rótulos pintados o instalados en la propia edificación, sin volar sobre la zona de dominio público.
+3.º Que no incluyan comunicación adicional tendente a promover la contratación de bienes o servicios.
+c) Los anuncios de espectáculos, celebraciones o pruebas culturales, deportivas o similares, debidamente autorizados y que se desarrollen en la propia carretera, siempre que su celebración sea ocasional, no se coloquen, en ningún caso, en los soportes de la señalización vertical de la carretera o interfiriendo con ella y sean retirados por la persona titular de la autorización inmediatamente después de finalizar el acontecimiento anunciado.
+d) Los rótulos que figuren sobre los vehículos automóviles y que se refieran exclusivamente a la actividad de las personas que los empleen, o a la carga que transporten, siempre que no empleen sustancias reflectoras, colores o composiciones que puedan inducir a la confusión con señales de tráfico o circulación o que puedan obstaculizar el tráfico rodado.
+Se modifica la letra b) del apartado 3 por el art. 26.11 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 3 por el art. único.21 a 23 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+## CAPÍTULO IV
+
+Medidas de protección de la legalidad viaria
+
+### Artículo 54
+
+Artículo 54. Régimen general y competencia.
+La competencia para la ejecución de las medidas de protección de la legalidad viaria previstas en este capítulo corresponde a la administración titular de la carretera, que podrá requerir el auxilio de la fuerza pública cuando resulte necesario para su ejecución.
+Se modifica por el art. 20.14 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 55
+
+Artículo 55. Medidas de protección.
+1. La administración competente podrá disponer, sin más trámites, en resolución motivada, la inmediata paralización de las obras y la suspensión de los usos no permitidos y de aquellos que no dispongan del título habilitante para su realización o que no se ajusten a las condiciones establecidas o, en su caso, declaradas en él.
+2. La Administración titular de la carretera tendrá la facultad de comprobar la veracidad y exactitud de los datos consignados en la declaración responsable, disponiendo a estos efectos las oportunas tareas de inspección.
+La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a la declaración responsable, o la no presentación ante la administración titular de la carretera de la declaración responsable o de la documentación que sea, en su caso, requerida para acreditar el cumplimiento de lo declarado, determinará la imposibilidad de continuar con la ejecución de la actuación desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penitenciarias, civiles o administrativas a que hubiere lugar. La resolución que declare tales circunstancias podrá determinar la obligación de la persona interesada de restituir la situación jurídica al punto anterior al inicio de la actuación correspondiente, previa la tramitación de un expediente de reposición de la legalidad viaria.
+3. La administración competente podrá instar, mediante la oportuna notificación, a las empresas suministradoras de servicios públicos a que procedan a suspender en el plazo de siete días naturales el suministro del servicio correspondiente a las obras o a los usos en los que se hubiese dispuesto su paralización o suspensión. La suspensión del suministro sólo se podrá levantar una vez que se haya procedido a la legalización de las obras o del uso o posteriormente a la notificación en tal sentido de la administración competente a las empresas suministradoras.
+4. La administración competente podrá precintar las obras o instalaciones y ordenar a la persona responsable de la actuación, de la obra o del uso, la retirada, en el plazo de dos días naturales, de la maquinaria y de los materiales acopiados. Si incumpliese la obligación de retirada, esta podrá ser realizada, sin más trámites, por la administración competente, a cuenta de aquella.
+5. Si las actuaciones no permitidas, que no dispongan del título habilitante para su realización o que no se ajusten a las condiciones establecidas o, en su caso, declaradas en él, suponen un riesgo grave para la seguridad vial, la administración competente podrá adoptar, a costa de la persona responsable y sin más trámites, las medidas que considere oportunas para garantizar la seguridad de la circulación.
+6. En la resolución de paralización o suspensión, se ordenará la incoación de un expediente de reposición de la legalidad viaria que, una vez instruido y previa audiencia a la persona responsable, resolverá sobre la posible legalización de las obras o de los usos.
+7. En el caso de apreciarse que podrían ser legalizables, se instará a la persona responsable para que, en el plazo de siete días naturales, solicite la legalización de la actuación.
+Si la persona responsable no solicita la legalización en dicho plazo o cuando la actuación no fuere legalizable, la administración competente podrá acordar en resolución motivada la demolición de las obras y la suspensión definitiva de los usos y el restablecimiento de la realidad física alterada, y requerirá a la persona responsable que proceda a su cumplimiento en el plazo que se le conceda, que debe ser proporcional a las circunstancias de la actuación que haya que realizar.
+Transcurrido el plazo sin que la persona responsable haya atendido al requerimiento, la administración competente procederá, sin más trámites, a la ejecución subsidiaria por cuenta de aquella.
+Se modifican los apartados 1 y 5 por el art. 80.22 y 23 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica por el art. 21.9 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 56
+
+Artículo 56. Retirada de objetos o elementos abandonados.
+La administración competente retirará, sin más trámites y a costa de la persona responsable, todos los objetos o elementos abandonados, instalados o depositados en el dominio público viario que menoscaben la seguridad vial u obstaculicen el normal uso y explotación de la carretera.
+
+### Artículo 57
+
+Artículo 57. Obras ruinosas.
+Cuando una obra o instalación ubicada entre la carretera y la línea límite de edificación alcance un estado ruinoso que pueda provocar daños a la carretera o constituir un peligro para la circulación, la administración competente adoptará las medidas necesarias, e instará al ayuntamiento en el que se encuentre la obra o instalación a incoar un expediente de declaración de ruina y la subsiguiente demolición, en su caso.
+
+### Artículo 58
+
+Artículo 58. Daños y perjuicios causados al dominio público viario.
+1. La administración titular de la carretera procederá, sin más trámites y con cargo a la persona causante, a la ejecución de las medidas necesarias para la reparación de los daños producidos al dominio público viario y a la restitución de la realidad física alterada en él, cuando supongan un riesgo grave para la seguridad vial.
+2. La persona causante de los daños deberá abonarle a la administración titular de la carretera la indemnización por los daños y perjuicios ocasionados, en el plazo que, a tal efecto, se le conceda.
+Asimismo, la administración titular de la carretera podrá exigirle a la persona causante de los daños el resarcimiento de los gastos que suponga su intervención para el auxilio público mediante personal, ya sea a través de medios propios o contratados, medios de señalización o balizamiento, la custodia de vehículos o cargas y la retirada de restos en caso de accidente o avería.
+En caso de que un asegurador asumiese el riesgo derivado de la responsabilidad civil de la persona causante de los daños, la administración titular de la carretera podrá requerirle directamente a aquel el pago de la indemnización por los daños y perjuicios causados al dominio público viario y por el resto de gastos a los que se refiere el párrafo anterior.
+3. El plazo de prescripción de la exigencia de la obligación de reparar los daños y perjuicios causados y de indemnizar por los daños no reparables y por los perjuicios causados será de tres años, a contar desde el día siguiente a aquel en que se hubiesen producido aquéllos.
+Interrumpirá la prescripción la iniciación, con el conocimiento de la persona interesada, del procedimiento de declaración de responsabilidad por daños y perjuicios, y volverá a transcurrir el plazo si aquél estuviere paralizado durante más de un mes por causa no imputable a la persona infractora.
+Se modifica el apartado 2 por el art. 26.12 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 2 y se añade el 3 por el art. único.24 y 25 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 59
+
+Artículo 59. Compatibilidad de actuaciones.
+1. Las medidas de protección de la legalidad viaria recogidas en este capítulo, incluidas expresamente las indemnizaciones por motivo de los daños y perjuicios causados al dominio público viario, se adoptarán sin perjuicio de las sanciones y responsabilidades que resulten procedentes y podrán ordenarse y ejecutarse tanto independientemente como dentro del procedimiento de sanción previsto en esta ley.
+2. El plazo máximo para dictar y notificar la resolución que ponga fin a los expedientes de protección de la legalidad viaria será de un año, a contar a partir de la fecha en la que se incoaron aquéllos, tanto en caso de que se tramiten independientemente como dentro del procedimiento de sanción previsto en esta ley. En su caso, podrá tramitarse la ampliación de este plazo máximo según el procedimiento establecido en la legislación en materia de procedimiento administrativo. El cumplimiento del plazo máximo sin que se notifique la resolución producirá la caducidad del procedimiento. No obstante, podrá incoarse un nuevo expediente de protección de la legalidad viaria cuando las exigencias de las correspondientes obligaciones no hubiesen prescrito conforme a lo establecido en esta ley. A estos efectos, conservarán su validez los actos de trámite previos a la instrucción del expediente caducado y se nombrará a una persona distinta como instructora de éste.
+Se modifica por el art. único.26 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+## TÍTULO V
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 60
+
+Artículo 60. Infracciones viarias.
+Tienen la consideración de infracciones administrativas viarias las acciones que vulneren las prescripciones contenidas en la presente ley, de acuerdo con la tipificación que se establece en ésta.
+
+### Artículo 61
+
+Artículo 61. Tipificación de las infracciones.
+1. Son infracciones leves:
+a) Realizar obras, instalaciones, usos o actuaciones en las zonas de protección de la carretera llevados a cabo sin las autorizaciones requeridas, sin la previa declaración responsable en los casos en que proceda o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas o las especificadas en la declaración responsable respecto de los usos sujetos a este régimen, cuando puedan ser objeto de legalización posterior en su totalidad.
+b) Colocar, verter, arrojar o abandonar en los elementos funcionales o en la zona de dominio público adyacente objetos, elementos o materiales de cualquier naturaleza, siempre que no pongan en peligro a las personas usuarias de la carretera.
+c) (Suprimido).
+2. Son infracciones graves:
+a) Realizar obras, instalaciones, usos o actuaciones no permitidos en las zonas de protección de la carretera o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas o las especificadas en la declaración responsable respecto de los usos sujetos a este régimen, cuando, en estos últimos casos, no fuere posible su legalización posterior.
+b) Realizar obras, instalaciones, usos o actuaciones en la zona de dominio público de la carretera llevadas a cabo sin las autorizaciones requeridas o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas, cuando puedan ser objeto de legalización posterior en su totalidad.
+c) Colocar, verter, arrojar o abandonar en los elementos funcionales o en la zona de dominio público adyacente objetos, elementos o materiales de cualquier naturaleza, cuando pongan en peligro a las personas usuarias de la carretera.
+d) Colocar, verter, arrojar o abandonar en la explanación de la carretera, pero fuera de la calzada y de los arcenes, objetos, elementos o materiales de cualquier naturaleza, siempre que no pongan en peligro a las personas usuarias de la carretera.
+e) Deteriorar intencionadamente cualquier elemento de la carretera directamente relacionado con la ordenación, orientación, señalización y seguridad de la circulación, o modificar sus características o situación, cuando no se impidiese que el elemento de que se trate siga prestando su función. Se entenderá incluida en esta infracción la realización de pintadas, grafitis o incisiones de cualquier tipo.
+f) Destruir, deteriorar, alterar o modificar intencionadamente cualquier obra o instalación de la carretera o de sus elementos funcionales, cuando no se afectase a la carretera o los arcenes. Se entenderán incluidos en esta infracción la realización de pintadas, grafitis o incisiones o cualquier otro acto que cause daños, deteriore o menoscabe su ornato.
+g) Establecer en las zonas de protección instalaciones de cualquier naturaleza o realizar actividades que resulten peligrosas, incómodas o insalubres para las personas usuarias de la carretera, sin adoptar las medidas pertinentes para evitarlo.
+h) Establecer accesos o modificar los usos o características de los existentes sin las autorizaciones requeridas o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas, cuando puedan ser objeto de legalización posterior en su totalidad.
+3. Son infracciones muy graves:
+a) Realizar obras, instalaciones, usos o actuaciones no permitidas en la zona de dominio público de la carretera o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas cuando, en este último caso, no fuere posible su legalización posterior.
+b) Colocar, verter, arrojar o abandonar en la explanación de la carretera, pero fuera de la calzada y de los arcenes, objetos, elementos o materiales de cualquier naturaleza, cuando pongan en peligro a las personas usuarias de la carretera.
+c) Colocar, verter, lanzar o abandonar en la calzada o en los arcenes de la carretera objetos, elementos o materiales de cualquier naturaleza.
+d) Substraer o, intencionadamente, destruir o deteriorar cualquier elemento de la carretera directamente relacionado con la ordenación, orientación, señalización y seguridad de la circulación o modificar sus características o situación, cuando se impida que el elemento de que se trate siga prestando su función.
+e) Destruir, deteriorar, alterar o modificar intencionadamente cualquier obra o instalación de la carretera o de sus elementos funcionales, cuando se afecte a la calzada o a los arcenes.
+f) Establecer cualquier clase de publicidad visible desde la zona de dominio público de la carretera.
+g) Incumplir el plazo máximo para la retirada o modificación total y efectiva de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras, sin que la retirada o modificación haya sido realizada por parte de su persona titular ni haya existido acuerdo con la administración promotora para su ejecución por esta.
+h) Establecer accesos o modificar los usos o características de los existentes de manera no permitida o incumpliendo alguna de las prescripciones impuestas en las autorizaciones otorgadas cuando, en este último caso, no sea posible su legalización posterior.
+Se añade la letra h) a los apartados 2 y 3 por el art. 60.5 y 6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se añade la letra g) al apartado 3 por el art. 80.24 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifican los apartados 1.a) y 2.a) por el art. 21.10 y 11 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se modifica el apartado 2.e) y f) por el art. 15.3 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-15
+ Se modifican los apartados 1 y 3 por el art. único.27 y 28 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 62
+
+Artículo 62. Concurrencia de infracciones.
+Cuando de la comisión de una infracción se derive necesariamente la comisión de otra o de otras, deberá imponerse únicamente la sanción correspondiente a la infracción más grave cometida.
+
+### Artículo 63
+
+Artículo 63. Responsabilidad.
+1. Serán responsables de la infracción las personas físicas o jurídicas siguientes:
+a) El promotor de la actividad y, en su caso, la persona que la ejecuta, el/la técnico/a director/a de aquélla y la persona propietaria del terreno en el que se realiza.
+b) En caso de incumplimiento de las condiciones de una autorización administrativa o de una declaración responsable respecto de los usos sujetos a este régimen, la persona titular de la autorización o la persona declarante, respectivamente.
+c) En el caso del incumplimiento del plazo máximo para la retirada o modificación total y efectiva de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras, la persona titular del servicio.
+2. En los supuestos en que aparezcan varias personas responsables de la actuación, responderán todas ellas de forma solidaria de la sanción que se imponga, de la reparación de los daños, de la indemnización por los daños no reparables y los perjuicios causados y del restablecimiento de la realidad física alterada.
+3. Si las infracciones son imputables a una persona jurídica, podrán ser consideradas como responsables subsidiarias las personas físicas que integran sus órganos rectores o de dirección, excepto que hubiesen discrepado de las decisiones que llevaron a la comisión de la infracción, y así se acredite debidamente.
+Se añade la letra c) al apartado 1 por el art. 80.25 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica el apartados 1.b) por el art. 21.12 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se añade el apartado 3 por el art. único.29 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 64
+
+Artículo 64. Obligación de reparación, indemnización y restitución.
+1. Sin perjuicio de la sanción que se imponga, la persona o las personas responsables de una infracción de las previstas en esta ley tienen la obligación de reparar los daños, de indemnizar por los daños no reparables y por los perjuicios que hayan sido causados por la infracción y de proceder a restituir y reponer las cosas a su estado anterior.
+2. En el caso del incumplimiento del plazo máximo para la retirada o modificación total y efectiva de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras, la obligación de reparación implica, para las personas responsables de la infracción, la obligación de proceder a dicha retirada o modificación.
+3. La obligación de reparación, restitución y reposición de las cosas a su estado anterior se les exigirá a las personas responsables de la infracción en cualquier momento, independientemente de la eventual prescripción de esta o de las sanciones que se deriven de la misma.
+4. En caso de que la administración titular de la carretera considere urgente dicha reparación, restitución o reposición, se procederá a su ejecución con cargo a la persona infractora, sin necesidad de requerimiento ni audiencia previa, y sin perjuicio de la liquidación definitiva previa audiencia al efecto.
+Se modifica por el art. 80.26 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifica el segundo párrafo por el art. único.30 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 65
+
+Artículo 65. Prescripción de las infracciones.
+1. El plazo de prescripción de las infracciones será de seis años para las muy graves, cuatro años para las graves y dos años para las leves.
+2. El cómputo del plazo de prescripción se iniciará en la fecha en que se hubiese cometido la infracción o, en el caso de actividades continuadas, en la fecha de su cese. En caso de que la actividad constitutiva de infracción no se pueda conocer por falta de manifestación de signos externos, el plazo se computará a partir de cuando éstos sean manifiestamente perceptibles.
+Interrumpirá la prescripción la iniciación, con el conocimiento de la persona interesada, del procedimiento sancionador, y volverá a transcurrir el plazo si aquél hubiese estado paralizado durante más de un mes por causa no imputable a la presunta persona responsable.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 66
+
+Artículo 66. Sanciones.
+1. Las infracciones previstas en la presente ley se sancionarán con las siguientes multas:
+a) Las infracciones leves, con multa de 250 a 2.500 euros.
+b) Las infracciones graves, con multa de 2.501 a 10.000 euros.
+c) Las infracciones muy graves, con multa de 10.001 a 250.000 euros.
+2. Cuando el beneficio económico obtenido con la comisión de la infracción viaria sea superior a la sanción que le corresponda, ésta se incrementará en la cuantía equivalente al beneficio económico obtenido por la persona infractora.
+3. La sanción correspondiente a la infracción cometida podrá reducirse hasta en un 90 % de su valor, en función de los daños al dominio público viario y la disminución de la seguridad viaria producida, si la persona responsable acata, en su caso, la resolución de paralización o suspensión y procede a la demolición de las obras, la suspensión definitiva de los usos y el restablecimiento de la realidad física alterada antes de la resolución del expediente de sanción.
+Se modifica el apartado 3 por la disposición final 11.2 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-11
+ Se añade el apartado 3 por el art. único.31 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 67
+
+Artículo 67. Gradación.
+1. Para la gradación de las sanciones se tendrán en cuenta las siguientes circunstancias:
+a) Agravantes:
+1.º La naturaleza de los daños y los perjuicios producidos.
+2.º El riesgo generado.
+3.º La intencionalidad de la persona causante o responsable.
+4.º La acumulación de ilícitos en un mismo hecho.
+5.º La reincidencia, por la comisión en el término de un año de más de una infracción viaria, cuando así hubiese sido declarado por resolución firme.
+6.º La dificultad técnica o coste económico de la reposición de la realidad física alterada y de la reparación de los daños y perjuicios causados.
+7.º El alcance en la perturbación de la prestación del servicio público viario
+8.º El incumplimiento de las medidas de protección de la legalidad viaria ordenadas.
+b) Atenuantes:
+1.º El reconocimiento de los hechos y de su responsabilidad por parte de la persona responsable de la actuación.
+2.º La disminución, por parte de la persona responsable de la actuación, de los daños y perjuicios causados antes de la iniciación del expediente de sanción.
+3.º La reposición, por parte de la persona responsable de la actuación, de la realidad física alterada antes de la resolución por la que se impone la sanción.
+2. El importe de las multas se determinará teniendo en cuenta las circunstancias de gradación concurrentes.
+
+### Artículo 68
+
+Artículo 68. Multas coercitivas.
+1. Cuando la resolución de un expediente de reposición de la legalidad viaria o la de un procedimiento para la imposición de sanciones, incluidos los supuestos de prescripción, le impusiese a la persona responsable la obligación de reparación o de restitución y reposición de las cosas a su estado anterior y esta no cumpliese el plazo fijado en aquella o en un requerimiento posterior, una vez transcurrido dicho plazo podrán imponérsele multas coercitivas, conforme a lo establecido en la legislación en materia de procedimiento administrativo.
+También se podrán imponer multas coercitivas, sin que hubiese recaído resolución del correspondiente expediente de sanción, en el caso del incumplimiento del plazo máximo para la retirada o modificación total y efectiva de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras. En este caso, las multas coercitivas podrán imponerse, con carácter mensual, desde el momento en que se incumpla dicho plazo y hasta que se realice la retirada o modificación total y efectiva, y su cuantía se acumulará, en su caso, a la de la sanción correspondiente que se imponga en la resolución del expediente de sanción.
+2. Las multas coercitivas podrán tener naturaleza periódica, hasta que se lleve a cabo la reparación o la restitución y reposición de las cosas a su estado anterior.
+En el caso del incumplimiento del plazo máximo para la retirada o modificación total y efectiva de bienes o instalaciones para la prestación de servicios de interés general que impidan o entorpezcan la ejecución de las obras de carreteras, la cuantía mensual de las multas coercitivas será de hasta el 10 % del presupuesto de ejecución material de las unidades de obra afectadas.
+Cuando las multas coercitivas vengan derivadas de un procedimiento para la imposición de sanciones, incluidos los supuestos de prescripción, su cuantía mensual será de hasta el 10 % de la sanción máxima correspondiente a la infracción cometida.
+En el resto de los casos, la cuantía de las multas coercitivas será de entre 100 y 1.000 euros. En el caso de multas coercitivas periódicas, ese valor será el de su máxima cuantía mensual.
+Para la gradación de las multas coercitivas se tendrán en cuenta las mismas circunstancias establecidas en esta ley para la gradación de las sanciones.
+Se modifican los apartados 1 y 2 por el art. 80.27 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-2
+ Se modifican los apartados 1 y 2 por el art. único.32 y 33 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 69
+
+Artículo 69. Concurrencia de sanciones.
+1. No podrán sancionarse los hechos que hubiesen sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+2. Las sanciones administrativas que se impongan a las distintas personas responsables como consecuencia de una infracción viaria tienen carácter independiente.
+3. Sin perjuicio de que su responsabilidad pueda apreciarse en un mismo procedimiento administrativo, las personas responsables de dos o más hechos constitutivos de infracción viaria serán sancionadas conforme a lo previsto en la presente ley por cada una de las acciones cometidas.
+
+### Artículo 70
+
+Artículo 70. Prescripción de las sanciones.
+1. El plazo de prescripción de las sanciones será de tres años para las correspondientes a infracciones muy graves, dos años para las correspondientes a infracciones graves y un año para las correspondientes a infracciones leves.
+2. El cómputo del plazo de prescripción se contará desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se imponga la sanción.
+Interrumpirá la prescripción la iniciación, con el conocimiento de la persona interesada, del procedimiento de ejecución, y volverá a transcurrir el plazo si aquel hubiese estado paralizado durante más de un mes por causa no imputable a la persona infractora.
+
+## CAPÍTULO III
+
+Procedimiento
+
+### Artículo 71
+
+Artículo 71. Procedimiento y competencia.
+1. El procedimiento para la imposición de sanciones por infracciones viarias se ajustará a lo establecido en la presente ley y, de forma supletoria, en la normativa reguladora del procedimiento administrativo común, en sus disposiciones de desarrollo y en la normativa autonómica de aplicación.
+2. Le corresponde a la administración titular de la carretera en la que se hubiese cometido la infracción la potestad sancionadora en materia de carreteras así como la potestad para la imposición de:
+a) La obligación de la reparación de los daños, la indemnización por los daños no reparables y los perjuicios causados y la restitución de la realidad física alterada.
+b) Multas coercitivas.
+c) El resto de medidas de protección de la legalidad viaria.
+3. El ejercicio de las potestades a las que se hace referencia en el punto anterior les corresponde a los órganos administrativos a los que la Administración les atribuya expresamente la competencia para la iniciación, instrucción y resolución de los expedientes correspondientes, por disposición de rango legal o reglamentario.
+Se modifica el apartado 3 por el art. único.34 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 72
+
+Artículo 72. Acción pública.
+Será pública la acción para exigir la observancia de lo establecido en la presente ley.
+
+### Artículo 73
+
+Artículo 73. Condición de autoridad.
+1. El personal funcionario adscrito a las funciones de explotación de las carreteras tendrá la condición de agentes de la autoridad cuando se encuentre en el ejercicio de dichas funciones.
+2. Los hechos constatados por el personal funcionario al que se le reconoce la condición de autoridad, y que se formalicen en documento público observando los requisitos legales pertinentes, tendrán valor probatorio sin perjuicio de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar las personas administradas.
+Se modifica el apartado 1 por el art. único.35 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Artículo 74
+
+Artículo 74. Conductas constitutivas de delito o falta.
+1. En cualquier momento del procedimiento sancionador, si el órgano competente estima que los hechos también podrían ser constitutivos de ilícito penal, se lo comunicará al Ministerio Fiscal solicitándole testimonio sobre las actuaciones practicadas respecto de la comunicación.
+En estos supuestos, así como cuando el órgano competente tenga conocimiento de que se desarrolla un proceso penal sobre los mismos hechos, solicitará del órgano judicial comunicación sobre las actuaciones adoptadas.
+2. Recibida la comunicación, y en caso de que se estime que existe identidad de sujeto, hecho y fundamento entre la infracción administrativa y la infracción penal que pudiere corresponder, el órgano competente para la resolución del procedimiento acordará su suspensión hasta que recaiga resolución judicial.
+3. El desarrollo de un proceso penal no excluye la posibilidad de que la administración titular de la carretera ejercite las medidas de protección de la legalidad viaria previstas en el capítulo IV del título IV de la presente ley.
+4. La sanción penal excluirá la imposición de sanción administrativa, pero no la obligación de reponer la realidad física alterada.
+5. De no estimarse la existencia de delito o falta, la administración titular de la carretera podrá proseguir o, en su caso, iniciar el expediente de sanción que, en todo caso, deberá respetar los hechos declarados probados por resolución judicial penal firme.
+
+### Artículo 75
+
+Artículo 75. Vía administrativa de apremio.
+Podrán exigirse por la vía administrativa de apremio los importes correspondientes a las multas. También se podrá emplear este procedimiento para exigir los importes correspondientes a las indemnizaciones por los daños no reparables y los perjuicios causados, así como los derivados de los gastos por la ejecución subsidiaria de la reparación de los daños causados o de la restitución de la realidad física alterada. En estos últimos casos, el importe se determinará en función del coste que para la administración supongan las citadas reparación o restitución.
+
+### Artículo 76
+
+Artículo 76. Caducidad del procedimiento.
+El plazo máximo para dictar y notificar la resolución que ponga fin al procedimiento será de un año, contado a partir de la fecha en que se incoó el expediente de sanción. En su caso, se podrá tramitar la ampliación de este plazo máximo según el procedimiento establecido en la legislación en materia de procedimiento administrativo.
+El cumplimiento del plazo máximo sin que se notifique la resolución producirá la caducidad del procedimiento. No obstante, podrá incoarse un nuevo expediente de sanción cuando los hechos constitutivos de la infracción no hubiesen prescrito conforme a lo establecido en la presente ley. A estos efectos, conservarán su validez los actos de trámite previos a la instrucción del expediente caducado y se nombrará a una persona distinta como instructora de éste.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Edificaciones, instalaciones y cierres preexistentes.
+1. En las edificaciones, instalaciones y cierres preexistentes en la zona comprendida entre la línea exterior de delimitación de la calzada de la carretera y la línea límite de edificación podrán ser autorizadas, o quedarán sujetas al régimen de declaración responsable en los casos previstos en esta ley, en lo que a la legislación sectorial en materia de carreteras se refiere, y siempre que quede garantizada la seguridad viaria en la carretera y en sus accesos y no se produzca cambio de uso ni incremento de volumen edificado, por encima o por debajo de la rasante del terreno:
+a) Con carácter general, las obras de mantenimiento, conservación y rehabilitación.
+b) Excepcionalmente, obras de rehabilitación estructural, en aquellos supuestos de interés público o social así calificados.
+2. Las edificaciones, instalaciones y cierres preexistentes que se vean afectados por obras de reforma de la carretera y que cuenten con autorización, siempre que les sea exigible, podrán ser repuestos, en el plazo máximo de tres años desde la fecha de finalización contractual de la obra que los afectó, por la persona propietaria o por la administración titular de la actuación, con las mismas características que tuviesen y, en todo caso, fuera de la zona de dominio público.
+Se modifica por el art. 26.13 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se modifica el apartado 1 por el art. 21.13 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Organismos gestores.
+1. Las administraciones titulares de las redes de carreteras podrán disponer de organismos autónomos o agencias públicas que asuman la gestión de la red de carreteras en su totalidad, de carreteras individuales, de conjuntos de carreteras o tramos de éstas, de sus elementos funcionales y/o de las actuaciones que en cada caso se realicen, y que actuarán como organismos gestores de aquéllas.
+2. En la normativa de desarrollo que regule el funcionamiento del organismo gestor, la administración titular podrá atribuirle a aquél las competencias que en esta ley le corresponden a la administración titular, para el ejercicio efectivo de las funciones relacionadas con el ámbito de gestión que le haya sido encomendado.
+No podrán ser atribuidas al organismo gestor, aparte de las competencias que en la presente ley se le atribuyen expresamente al Consejo de la Xunta de Galicia o a la consejería de la Xunta de Galicia competente en materia de carreteras, las siguientes:
+a) Aquellas competencias que se le atribuyan reglamentariamente a la administración titular de la red en el procedimiento de tramitación de los planes sectoriales de carreteras y de sus modificaciones.
+b) Acordar con otras administraciones cambios en la titularidad de las carreteras.
+c) Resolver los expedientes de información pública en materia de carreteras e informe de las administraciones afectadas.
+d) Aprobar definitivamente los estudios informativos o, en su caso, los anteproyectos o proyectos que asuman su función según lo previsto en la presente ley.
+e) Emitir informe sobre las propuestas de redacción, revisión o modificación de instrumentos de planeamiento que afecten a las carreteras existentes o a actuaciones previstas en los planes de carreteras vigentes.
+f) Establecer medidas o procedimientos compensatorios que, en los tramos de las carreteras donde se establezca un pago de peaje o tasa por su uso, vengan a reducir o anular el pago directo por las personas usuarias.
+g) Aprobar el establecimiento de contribuciones especiales.
+h) Aprobar la reducción excepcional de las distancias establecidas con carácter general para la línea límite de edificación.
+3. Los recursos generados por la explotación de las carreteras y las contribuciones especiales, según se definen en la presente ley, contribuirán a la financiación del correspondiente organismo gestor, en caso de que exista.
+Se modifica el apartado 2 por el art. único.36 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Actualización de importes.
+La cuantía de las multas y de las multas coercitivas previstas en esta ley podrá ser actualizada mediante decreto del Consejo de la Xunta de Galicia, según la evolución del índice de precios de consumo en la Comunidad Autónoma de Galicia.
+Se modifica por el art. único.37 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Previsión de retribuciones en especie.
+En caso de que las administraciones titulares celebren contratos administrativos especiales cuyo objeto tenga relación con la planificación, proyección, ejecución o explotación de las carreteras que son objeto de esta ley, su retribución podrá hacerse mediante la entrega de contraprestaciones distintas del precio, a efectos de lo establecido en la legislación de contratos del sector público.
+Se añade por el art. único.38 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Efectos de la declaración de obras de emergencia de carreteras.
+1. La declaración de obras de emergencia de carreteras implicará la declaración de utilidad pública, la necesidad de ocupación de los bienes y de adquisición de los derechos necesarios para la ejecución de las obras, de los depósitos de los materiales sobrantes, de los préstamos necesarios para ejecutarlas y para la reposición de servicios afectados, así como para el replanteo de la actuación y las modificaciones de esta que, en su caso, se pudieran aprobar posteriormente, y la urgencia de la ocupación, todo ello a los efectos de expropiación, ocupación temporal o imposición o modificación de servidumbres, que se llevarán a cabo en todo caso de acuerdo con lo establecido en la legislación estatal para estos supuestos.
+2. A los efectos de lo previsto en el apartado anterior, la declaración de obra de emergencia de carreteras deberá incluir, entre los documentos que componen el expediente, la relación concreta e individualizada, en la que se describan, en todos los aspectos materiales y jurídicos, los terrenos, bienes, servidumbres y demás derechos reales que se considere necesario ocupar para la realización de aquellos trabajos, con la identificación de sus personas titulares, así como la representación gráfica de la delimitación de las ocupaciones necesarias.
+3. A los efectos de esta disposición, se considerarán obras de emergencias los supuestos en los que la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos o de situaciones que supongan grave peligro.
+Se añade por el art. 27 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente ley.
+1. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente ley se regirán por lo dispuesto en la normativa anterior, con la excepción de los procedimientos sancionadores, a los que será de aplicación la norma más favorable para las presuntas personas infractoras.
+2. Cuando los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente ley dieren lugar a recursos económicos por la explotación de las carreteras, análogos a los previstos en ésta, éstos contribuirán a la financiación del correspondiente organismo gestor, en caso de que exista, y, en su defecto, de la administración titular.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Autorizaciones demaniales otorgadas con anterioridad a la entrada en vigor de la presente ley.
+A las autorizaciones otorgadas con anterioridad a la entrada en vigor de esta ley para la realización de obras, instalaciones o actividades en la zona de dominio público, excepto las de accesos, cuando no indiquen su plazo máximo, les será aplicable la duración máxima prevista en esta ley, para lo que se dictará la correspondiente resolución administrativa, previa solicitud de la persona titular. El plazo máximo para presentar esta solicitud termina el 31 de diciembre de 2016. Una vez transcurrido este plazo sin que se hubiese presentado dicha solicitud, la autorización se considerará caducada a cualquier efecto.
+Se modifica por el art. único.39 de la Ley 6/2015, de 13 de agosto. Ref. BOE-A-2015-10201
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Normativa de aplicación supletoria.
+En aquellos aspectos que no se regulen por la normativa técnica básica de interés general establecida por la Administración general del Estado y en los que por parte de la consejería competente en materia de carreteras no se hubiesen dictado normas o instrucciones complementarias relativas a la ejecución de obras de carreteras de titularidad de la Comunidad Autónoma o de las entidades locales de Galicia, serán de aplicación las aprobadas por el Ministerio de Fomento para las carreteras de la red de carreteras del Estado, en lo que no se opongan a la presente ley o a su reglamento.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Tramos urbanos en planeamiento no adaptado.
+En los suelos incluidos en el ámbito de los núcleos rurales, delimitados, al amparo de la Ley 11/1985, de 22 de agosto, de adaptación de la del suelo a Galicia, en planes urbanísticos aprobados definitivamente con anterioridad a la entrada en vigor de la Ley 2/2016, de 10 de febrero, del suelo de Galicia, y no adaptados a la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, independientemente de su clasificación como suelo urbano, a efectos de esta ley, los tramos de carreteras que discurran por estos suelos tendrán la consideración de tramo urbano cuando se cumplan las condiciones que para el suelo de núcleo rural se establecen en el artículo 7.
+Se añade por el art. 20.15 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Reposición de edificaciones, instalaciones y cierres preexistentes.
+En relación con lo previsto en el apartado 2 de la disposición adicional primera de la Ley 8/2013, de 28 de junio, de carreteras de Galicia, en el caso de edificaciones, instalaciones y cierres preexistentes que se vean afectados por obras de reforma de la carretera que hayan sido finalizadas contractualmente con anterioridad a la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas, y que cuenten con autorización, siempre que les fuese exigible, podrán ser repuestos, por la persona propietaria, con las mismas características que tuviesen y, en todo caso, fuera de la zona de dominio público, en el plazo máximo de tres años desde la entrada en vigor de la Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas.
+Se añade por el art. 26.14 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Redactado conforme a la corrección de errores publicada en el DOG núm. 33, de 17 de febrero de 2022. Ref. DOG-g-2022-90043
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Cláusula derogatoria.
+Queda derogada la Ley 4/1994, de 14 de septiembre, de carreteras de Galicia, y cuantas disposiciones de igual o inferior rango se opongan a la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+La presente ley se dicta al amparo de lo dispuesto en el artículo 148.1.5.º de la Constitución española, que establece que las comunidades autónomas pueden asumir competencias en materia de carreteras cuando su itinerario se desarrolle íntegramente en el territorio de éstas, y del artículo 27.8 del Estatuto de autonomía de Galicia, que le reserva a la Comunidad Autónoma la competencia exclusiva en materia de carreteras no incorporadas a la red del Estado y cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación para el desarrollo reglamentario.
+Se habilita a la Xunta de Galicia para el desarrollo reglamentario de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor a los tres meses de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 28 de junio de 2013.–El Presidente, Alberto Núñez Feijóo.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que la cuantía de las multas previstas en esta ley podrá ser actualizada mediante decreto del Consejo de la Xunta de Galicia, publicado únicamente en el "Diario Oficial de Galicia", teniendo en cuenta la evolución del índice de precios al consumo en la Comunidad Autónoma de Galicia, según establece la disposición adicional 3.

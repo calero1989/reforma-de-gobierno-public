@@ -1,0 +1,128 @@
+# Real Decreto-ley 7/2000, de 23 de junio, de Medidas Urgentes en el Sector de las Telecomunicaciones.
+
+- Identificador BOE: `BOE-A-2000-11837`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-11837
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12138.
+
+## Preámbulo
+
+La liberalización económica constituye un eje principal de la política económica desarrollada por el Gobierno dirigida a crear un entorno más favorable para que los agentes productivos se vean incentivados a invertir y contribuir así al desarrollo económico de todo el país. Este incremento de la demanda requiere a su vez la consecución de una oferta productiva flexible que se acomode a los cambios sin crear tensiones en la estabilidad de precios. La búsqueda de un mayor nivel de crecimiento sostenible debe proceder de un uso más activo de los instrumentos de reforma estructural, como los que se plantean en esta norma.
+Adicionalmente, el peso cualitativo y cuantitativo de los sectores afectados por las medidas contenidas en este Real Decreto-ley garantizan un impacto positivo y duradero de las mismas en una doble vertiente. Por el lado de la producción, el carácter de servicios intermedios de las telecomunicaciones contribuirá a disminuir los costes empresariales y, en último término a mejorar la competitividad de nuestra industria. Por el lado de los consumidores y usuarios, el aumento del número de operadores, así como la mayor variedad y calidad de los productos ofrecidos por los mismos contribuirán a elevar el nivel de bienestar de toda la población española. Mención especial requieren las medidas destinadas a impulsar el uso de Internet. Estas iniciativas, que amplían las oportunidades de acceso de todos los ciudadanos al ámbito de la Sociedad de la Información, ofrecen una oportunidad única para que el conjunto de los ciudadanos españoles se incorpore a las nuevas tecnologías y el país en su conjunto afronte la era digital desde una posición de partida privilegiada.
+La liberalización impulsada desde la Comisión Europea en el ámbito de las telecomunicaciones exige incorporar a nuestro ordenamiento las recientes orientaciones comunitarias, algunas de las cuales, como ocurre con la apertura del bucle local de abonado, deben regularse con urgencia.
+Las medidas que se desarrollan en el capítulo I persiguen incidir a corto plazo en la reducción del coste de las llamadas metropolitanas, el de mayor impacto para las economías domésticas. Por un lado, se establecen programas de tarifas para las llamadas metropolitanas y, por otro, se prevén las modificaciones necesarias para que todos los operadores puedan competir en igualdad de oportunidades. A medio plazo, el desarrollo de la selección de operador para llamadas metropolitanas, así como la apertura del bucle del abonado, completarán la instauración de la libre competencia en el ámbito de la telefonía local. En el caso de las comunicaciones dirigidas a Internet, se establece una tarifa plana que pretende impulsar el uso de Internet por los ciudadanos españoles y el fomento del desarrollo de nuevas iniciativas y servicios en el mercado de la Sociedad de Información. La garantía de que esta medida se verá acompañada de la superación de determinados obstáculos que estaban impidiendo el desarrollo de un mayor grado de competencia y de innovación en el acceso a Internet contribuye a crear las condiciones adecuadas y perdurables en el tiempo para un acceso a Internet más barato y rápido para el conjunto de los usuarios.
+Adicionalmente, se incrementan las exigencias de información y transparencia para los operadores telefónicos dominantes en materia de costes. En materia de telefonía móvil se analizarán, antes del 31 de octubre del año 2000, las distintas alternativas para ampliar el número actual de operadores e intensificar la competencia.
+Estas medidas de carácter urgente se completarán próximamente por el Ministerio de Ciencia y Tecnología, mediante propuestas de desarrollo reglamentario y actuaciones que abarcarán, entre otras materias, las relativas al uso compartido de infraestructuras y acceso de los operadores al dominio público y privado, evaluación de conformidad y puesta en el mercado de equipos y aparatos de telecomunicación, y la regulación del uso del dominio público radioeléctrico. Asimismo, llevará a cabo las actuaciones y elaborará los correspondientes planes para alcanzar el objetivo de la iniciativa «Europa, una Sociedad de la Información para todos», adoptada en el Consejo Europeo extraordinario de Lisboa.
+Finalmente en el capítulo II, en el ámbito de la inspección técnica de vehículos, se recogen medidas dirigidas a liberalizar la actividad.
+En la adopción de estas medidas, que se integran en el conjunto más amplio de las que adopta el Gobierno, concurren, por la naturaleza y finalidad de las mismas, la circunstancia de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución para la utilización del Real Decreto-ley, requisito imprescindible como ha recordado por otra parte la jurisprudencia constitucional.
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía y el Ministro de Ciencia y Tecnología, previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2000, y en uso de la autorización concedida por el artículo 86 de la Constitución,
+D I S P O N G O :
+Redactado conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12138.
+
+## CAPÍTULO I
+
+Telecomunicaciones
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+
+### Artículo 1
+
+Artículo 1. Contabilidad de costes.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+
+### Artículo 2
+
+Artículo 2. Apertura del bucle del abonado.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+ Se modifica por el art. 108 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12138.
+
+### Artículo 3
+
+Artículo 3. Selección de operador para llamadas metropolitanas.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+
+### Artículo 4
+
+Artículo 4. Modificación de las tarifas telefónicas.
+(Derogado)
+Se deroga por la disposición derogatoria.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+ Se deroga el párrafo quinto del apartado 3 por la disposición derogatoria única.1.c) de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se modifica el párrafo quinto del apartado 3 por el art. 87 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12138.
+
+### Artículo 5
+
+Artículo 5. Impulso de la competencia en telefonía móvil.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+
+### Artículo 6
+
+Artículo 6. Modificación de la Oferta de Interconexión de Referencia.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 32/2003, de 3 de noviembre. Ref. BOE-A-2003-20253.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12138.
+
+## CAPÍTULO II
+
+Inspección Técnica de Vehículos
+
+### Artículo 7
+
+Artículo 7. Prestación de los servicios de Inspección Técnica de Vehículos.
+1. Las inspecciones técnicas que, de acuerdo con lo dispuesto en el Reglamento General de Vehículos y en las demás normas aplicables, deban hacerse en los vehículos, se realizarán en Estaciones de Inspección Técnica de Vehículos.
+2. La ejecución material de las inspecciones podrá efectuarse por las Comunidades Autónomas o Administración competente directamente o a través de sociedades de economía mixta en cuyo capital participen, o por particulares. Salvo en el caso en que la ejecución se lleve a cabo directamente por las Comunidades Autónomas o Administración competente, será requisito imprescindible para acceder a la actividad de inspección de vehículos la obtención previa de una autorización, cuyo otorgamiento corresponderá a las Comunidades Autónomas o Administración competente.
+La autorización deberá otorgarse siempre que el titular acredite que la instalación en la que proyecta realizar los servicios de inspección cumple los requisitos técnicos que a tal efecto se determinen reglamentariamente en el plazo de cuatro meses desde la entrada en vigor del presente Real Decreto-ley.
+Téngase en cuenta que el fallo de la Sentencia del TC 332/2005, de 15 de diciembre, Ref. BOE-T-2006-414. declara:
+ a) Que el art. 7.2 del Real Decreto-ley vulnera las competencias autonómicas en materia de industria al imponer la autorización administrativa como título habilitante para que los particulares puedan participar en la prestación del servicio de ITV.
+ b) Que la remisión reglamentaria contenida en la última frase del art. 7.2 en relación con la determinación de los requisitos técnicos que deben cumplir las instalaciones de ITV debe entenderse dirigida a la Administración General del Estado, sin perjuicio de que las Comunidades Autónomas con competencia exclusiva en materia de industria puedan dictar disposiciones complementarias de las del Estado, siempre que no violen los mandatos o impidan alcanzar los fines perseguidos por la legislación estatal.
+3. El incumplimiento de las condiciones técnicas que deben reunir las instalaciones constituirá una infracción muy grave que será sancionada con multa de hasta 5.000.000 de pesetas. Además, cuando la comisión de la infracción menoscabe gravemente la calidad de los servicios de inspección o cuando el incumplimiento se produzca de forma reiterada o dilatada en el tiempo, podrá imponerse la sanción de revocación de la autorización habilitante para el ejercicio de la actividad de inspección de vehículos, en cuyo caso, una vez iniciado el expediente, podrá ésta suspenderse provisionalmente.
+La competencia para instruir los expedientes sancionadores e imponer las sanciones corresponderá a los órganos competentes de las Comunidades Autónomas o Administración competente en cada caso.
+Las infracciones a las que se refiere este párrafo prescribirán al año ; las sanciones prescribirán igualmente en el plazo de un año.
+Reglamentariamente podrá actualizarse la cuantía de la multa prevista en el presente párrafo.
+Véase la Sentencia del TC 332/2005, de 15 de diciembre. Ref. BOE-T-2006-414. en cuanto declara que el apartado 2 vulnera las competencias autonómicas en materia de industria y en cuanto a la interpretación de la remisión reglamentaria contenida en la última frase del citado apartado.
+
+### Artículo 8
+
+Artículo 8. Modificación del Real Decreto 1987/1985, de 24 de septiembre, sobre normas básicas de instalación y funcionamiento de las Estaciones de Inspección Técnica de Vehículos.
+1. Se suprime la referencia que se contiene en el artículo 3 respecto a los talleres de reparación.
+2. Se modifica el artículo 13 que queda redactado del siguiente modo:
+«Las tarifas máximas de inspección y su actualización periódica serán establecidas por las Comunidades Autónomas.»
+3. Reglamentariamente se podrá modificar lo dispuesto en el presente artículo.
+
+### Disposición transitoria
+
+Disposición transitoria. Régimen de las concesiones y autorizaciones de prestación de servicios de Inspección Técnica de Vehículos subsistentes en el momento de la entrada en vigor del presente Real Decreto-ley.
+Las concesiones otorgadas conforme al Real Decreto 1987/1985, de 24 de septiembre, y las autorizaciones concedidas conforme al Real Decreto 3273/1981, de 30 de octubre, subsistentes en el momento de la entrada en vigor del presente Real Decreto-ley, seguirán habilitando a sus titulares para realizar los servicios de inspección de vehículos sin que sea preceptiva en estos casos la autorización previa a la que se refiere el artículo 7 del presente Real Decreto-ley.
+No obstante, en ambos casos, las Estaciones estarán obligadas a cumplir los requisitos técnicos exigibles con carácter general a todo tipo de instalaciones siéndoles de aplicación el régimen sancionador previsto en dicho precepto.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas otras disposiciones de igual o inferior rango al del presente Real Decreto-ley se opongan a lo dispuesto en él.
+
+### Disposición final primera
+
+Disposición final primera. Facultad de desarrollo.
+Se habilita al Gobierno para desarrollar reglamentariamente lo dispuesto en el presente Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Títulos competenciales.
+Las disposiciones del presente Real Decreto-ley tienen el carácter de disposiciones de aplicación general dictadas al amparo del artículo 149.1.13.a y 21.a de la Constitución.
+
+### Disposición final tercera
+
+Disposición final tercera.
+El presente Real Decreto-ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de junio de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

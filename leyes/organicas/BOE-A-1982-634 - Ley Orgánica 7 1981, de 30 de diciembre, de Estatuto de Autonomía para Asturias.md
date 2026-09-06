@@ -1,0 +1,711 @@
+# Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias.
+
+- Identificador BOE: `BOE-A-1982-634`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-634
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta ley pasa a denominarse "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía del Principado de Asturias", según establece el art. único.1 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+## TITULO PRELIMINAR
+
+Se añade por el art. único.2 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo primero
+
+Artículo 1.
+Uno. Asturias se constituye en Comunidad Autónoma de acuerdo con la Constitución y el presente Estatuto que es su norma institucional básica.
+Dos. La Comunidad Autónoma, comunidad histórica constituida en el ejercicio del derecho al autogobierno amparado por la Constitución, se denomina Principado de Asturias.
+Se modifica el apartado 2 por el art. único.3 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo segundo
+
+Artículo 2.
+El territorio del Principado de Asturias es el de los concejos comprendidos dentro de los límites actuales de la provincia de Asturias, para cuya modificación se estará a lo dispuesto en el artículo 56 de este Estatuto.
+Se modifica por el art. único.4 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo tercero
+
+Artículo 3.
+Uno. La bandera del Principado de Asturias es la tradicional con la Cruz de la Victoria en amarillo sobre fondo azul.
+Dos. El Principado de Asturias tiene escudo propio y establecerá su himno por Ley del Principado.
+
+### Artículo cuarto
+
+Artículo 4.
+1. El bable gozará de protección. Se promoverá su uso, su difusión en los medios de comunicación y su enseñanza, respetando en todo caso las variantes locales y la voluntariedad en su aprendizaje.
+2. Una ley del Principado regulará la protección, uso y promoción del bable.
+Se modifica por el art. único.5 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo quinto
+
+Artículo 5.
+La sede de las instituciones del principado de Asturias es la ciudad de Oviedo, sin perjuicio de que por Ley del Principado se establezca alguno de sus organismos, servicios o dependencias en otro lugar del territorio.
+
+### Artículo sexto
+
+Artículo 6.
+Uno. El Principado de Asturias se organiza territorialmente en municipios, que recibirán la denominación tradicional de Concejos y en Comarcas.
+Dos. Se reconocerá personalidad jurídica a la parroquia rural como forma tradicional de convivencia y asentamiento de la población asturiana.
+Tres. Podrán crearse Áreas Metropolitanas.
+
+### Artículo séptimo
+
+Artículo 7.
+Uno. A los efectos del presente Estatuto gozan de la condición política de asturianos los ciudadanos españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualesquiera de los Concejos de Asturias.
+Dos. Como asturianos, gozan de los derechos políticos definidos en este Estatuto los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Asturias y acrediten esta condición en el correspondiente Consulado de España. Gozarán también de estos derechos, si así lo solicitan, sus descendientes inscritos como españoles en la forma que determine la ley del Estado.
+
+### Artículo octavo
+
+Artículo 8.
+Las comunidades asturianas asentadas fuera de Asturias podrán solicitar como tales, el reconocimiento de su asturianía, entendida como el derecho a colaborar y compartir la vida social y cultural de Asturias. Una ley del Principado de Asturias regulará, sin perjuicio de las competencias del Estado, el alcance y contenido de dicho reconocimiento, que en ningún caso implicará la concesión de derechos políticos.
+El Principado de Asturias podrá solicitar del Estado que para facilitar lo dispuesto anteriormente, celebre los oportunos Tratados o Convenios Internacionales con los Estados donde existan dichas comunidades.
+
+### Artículo noveno
+
+Artículo 9.
+Uno. Los derechos y deberes fundamentales de los asturianos, son los establecidos en la Constitución.
+Dos. Las instituciones de la Comunidad Autónoma de Asturias, dentro del marco de sus competencias, velarán especialmente por:
+a) Garantizar el adecuado ejercicio de los derechos y deberes fundamentales de cuantos residen en el territorio del Principado.
+b) Impulsar una política tendente a la mejora de las condiciones de vida y trabajo.
+c) Adoptar aquellas medidas que tiendan a fomentar el incremento del empleo y la estabilidad económica.
+d) Procurar la adopción de medidas dirigidas a promover las condiciones y a remover los obstáculos, para que la libertad y la igualdad del individuo y de los grupos en que se integra, sean efectivas y reales.
+e) Facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social de Asturias.
+
+## TITULO I
+
+De las competencias del Principado de Asturias
+
+### Artículo diez
+
+Artículo 10.
+1. El Principado de Asturias tiene la competencia exclusiva en las materias que a continuación se señalan:
+1. Organización, régimen y funcionamiento de sus instituciones de autogobierno.
+2. Alteración de los términos y denominaciones de los concejos comprendidos en su territorio, así como la creación de organizaciones de ámbito inferior y superior a los mismos, en los términos establecidos en el artículo 6 de este Estatuto.
+3. Ordenación del territorio y del litoral, urbanismo y vivienda.
+4. Obras públicas que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.
+5. Los ferrocarriles, carreteras y caminos cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma, y en los mismos términos el transporte terrestre, fluvial, por cable o tubería.
+6. El transporte marítimo exclusivamente entre puertos o puntos de la Comunidad Autónoma sin conexión con puertos o puntos de otros ámbitos territoriales.
+7. Centros de contratación y terminales de carga en materia de transportes.
+8. Establecimiento de bolsas de valores y establecimiento y regulación de centros de contratación de mercaderías, conforme a la legislación mercantil.
+9. Puertos de refugio, puertos, aeropuertos y helipuertos que no sean de interés general del Estado.
+10. Agricultura, ganadería e industria agroalimentaria, de acuerdo con la ordenación general de la economía.
+11. Tratamiento especial de las zonas de montaña.
+12. Proyectos, construcción y explotación de los aprovechamientos hidráulicos, incluidos los hidroeléctricos, canales y regadíos de interés para la Región. Aguas minerales y termales. Aguas subterráneas cuando discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+Ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran íntegramente por el ámbito territorial de la Comunidad Autónoma.
+13. Pesca en aguas interiores, fluviales y lacustres, marisqueo, acuicultura, alguicultura, así como el desarrollo de cualquier otra forma de cultivo industrial. Caza. Protección de los ecosistemas en los que se desarrollan dichas actividades.
+14. Comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de la competencia. Ferias y mercados interiores. Denominación de origen, en colaboración con el Estado.
+15. Planificación de la actividad económica y fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica general. Creación y gestión de un sector público de la Comunidad Autónoma.
+16. Artesanía.
+17. Museos, archivos, bibliotecas, hemerotecas, servicios de Bellas Artes y demás centros de depósito cultural o colecciones de naturaleza análoga y conservatorios de música de interés del Principado de Asturias, que no sean de titularidad estatal.
+18. Patrimonio cultural, histórico, arqueológico, incluida la arqueología industrial, monumental, arquitectónico, científico y artístico de interés para el Principado de Asturias.
+19. Investigación, sin perjuicio de lo dispuesto en el artículo 149.1.15.ª de la Constitución. Academias con domicilio social en el Principado de Asturias.
+20. Cultura, con especial atención a la promoción de sus manifestaciones autóctonas y a la enseñanza de la cultura asturiana, todo ello sin perjuicio de lo dispuesto en el artículo 149.2 de la Constitución.
+21. Fomento y protección del bable en sus diversas variantes que, como modalidades lingüísticas, se utilizan en el territorio del Principado de Asturias.
+22. Turismo.
+23. Deporte y ocio.
+24. Asistencia y bienestar social. Desarrollo comunitario. Actuaciones de reinserción social.
+25. Protección y tutela de menores, sin perjuicio de lo dispuesto en el artículo 149.1.6.ª y 8.ª de la Constitución.
+26. Casinos, juegos y apuestas con exclusión de las apuestas mutuas deportivo-benéficas.
+27. Cooperativas y entidades asimilables, mutuas no integradas en el sistema de Seguridad Social, sin perjuicio de lo dispuesto en el artículo 149.1.6. a de la Constitución.
+28. Espectáculos públicos.
+29. Estadísticas para los fines de la Comunidad Autónoma, en coordinación con la general del Estado y con la de las demás Comunidades Autónomas.
+30. Fundaciones que desarrollen principalmente sus actividades en el Principado de Asturias.
+31. Industria, sin perjuicio de lo que determinen las disposiciones del Estado en el ejercicio de sus competencias por razones de seguridad, sanitarias o de interés militar y las relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. El ejercicio de la competencia se realizará de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y 149.1.11. ª y 13. ª de la Constitución.
+32. Instalaciones de producción, distribución y transporte de cualesquiera energías y fluidos energéticos, cuando su transporte no salga de Asturias o su aprovechamiento no afecte a otra Comunidad Autónoma. Todo ello sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución.
+33. Procedimiento administrativo derivado de las especialidades del derecho sustantivo y de la organización propia de la Comunidad Autónoma.
+34. Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con el artículo 149.1.1.ª ,6.ª y 8.ª de la Constitución.
+35. Servicio meteorológico de la Comunidad Autónoma.
+36. Cajas de Ahorro e instituciones de crédito cooperativo público y territorial, en el marco de la ordenación general de la economía y de acuerdo con las disposiciones que en uso de sus facultades dicte el Estado.
+2. En el ejercicio de estas competencias corresponderá al Principado de Asturias la potestad legislativa, la potestad reglamentaria y la función ejecutiva, que ejercerá respetando, en todo caso, lo dispuesto en la Constitución.
+Se modifica el apartado 1 por el art. único.6 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica por el art. único.1 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+ Redactado conforme a la corrección de errores publicada en BOE núm. 90, de 15 de abril de 1994. Ref. BOE-A-1994-8492
+
+### Artículo once
+
+Artículo 11.
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde al Principado de Asturias el desarrollo legislativo y la ejecución en las siguientes materias:
+1. Montes, aprovechamientos y servicios forestales, vías pecuarias, pastos y espacios naturales protegidos.
+2. Sanidad e higiene.
+3. Coordinación hospitalaria en general, incluida la de la Seguridad Social.
+4. Ordenación farmacéutica.
+5. Protección del medio ambiente, incluidos los vertidos industriales y contaminantes en ríos, lagos y aguas interiores y normas adicionales de protección del medio ambiente.
+6. Régimen minero y energético.
+7. Ordenación del sector pesquero.
+8. Defensa del consumidor y del usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y la coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+9. Corporaciones de Derecho público representativas de intereses económicos y profesionales. Ejercicio de las profesiones tituladas.
+10. Régimen local.
+11. Sistema de consultas populares en el ámbito del Principado de Asturias, de conformidad con lo que disponga la Ley a que se refiere el artículo 92.3 de la Constitución y demás leyes del Estado, correspondiendo a éste la autorización de su convocatoria.
+Se modifica por el art. único.7 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica por el art. único.2 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+ Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 57, de 8 de marzo de 1995. Ref. BOE-A-1995-5916
+
+### Artículo doce
+
+Artículo 12.
+Corresponde al Principado de Asturias la ejecución de la legislación del Estado, en los términos que en la misma se establezca, sobre las siguientes materias:
+1. Ejecución, dentro de su ámbito territorial, de los tratados internacionales en lo que afectan a las materias propias de las competencias del Principado de Asturias.
+2. Asociaciones.
+3. Ferias internacionales.
+4. Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social. INSERSO. La determinación de las prestaciones del sistema, los requisitos para establecer las condiciones del beneficiario y la financiación se efectuará de acuerdo con las normas establecidas por el Estado en el ejercicio de sus competencias de conformidad con lo dispuesto en el número 17 del apartado 1 del artículo 149 de la Constitución.
+5. Museos, archivos, bibliotecas, hemerotecas y colecciones de naturaleza análoga de titularidad estatal cuya gestión no se reserve la Administración del Estado. Los términos de la gestión serán fijados mediante convenios.
+6. Pesas y medidas. Contraste de metales.
+7. Planes establecidos por el Estado para la implantación o reestructuración de sectores económicos.
+8. Productos farmacéuticos.
+9. Propiedad intelectual e industrial.
+10. Laboral. De conformidad con el número 7 del apartado 1 del artículo 149 de la Constitución, corresponde al Estado la competencia sobre la legislación laboral y la alta inspección. Quedan reservadas al Estado todas las competencias en materia de migraciones interiores y exteriores, fondos de ámbito nacional y de empleo sin perjuicio de lo que establezcan las normas del Estado sobre estas materias.
+11. Protección civil. Salvamento marítimo.
+12. Puertos, aeropuertos y helipuertos de interés general cuando el Estado no se reserve su gestión directa.
+13. Gestión de la asistencia sanitaria de la Seguridad Social, de acuerdo con lo previsto en el número 17 del apartado 1 del artículo 149 de la Constitución, reservándose el Estado la alta inspección conducente al cumplimiento de la función a que se refiere este precepto.
+14. Crédito, banca y seguros, de acuerdo con las previsiones de las reglas 6, 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+15. Transporte de mercancías y viajeros que tengan su origen y destino en el territorio del Principado de Asturias, sin perjuicio de la ejecución directa que se reserve el Estado.
+Se modifica por el art. único.8 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica por el art. único.3 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+
+### Artículo trece
+
+Artículo 13.
+De conformidad con las leyes del Estado, el Consejo de Gobierno nombrará a los notarios y registradores de la propiedad y mercantiles, así como a los corredores de comercio y participará en la fijación de las demarcaciones correspondientes.
+Se modifica por el art. único.10 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica por el art. único.4 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+
+### Artículo catorce
+
+Artículo 14.
+1. La Junta General del Principado de Asturias podrá ejercer la iniciativa legislativa prevista en el artículo 87.2 de la Constitución para la aprobación por el Estado de las leyes previstas en el artículo 150.1 y 2 de la Constitución.
+2. En cualquier caso, el Principado de Asturias podrá asumir las demás competencias que la legislación del Estado reserve a las Comunidades Autónomas.
+Se modifica por el art. único.11 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo quince
+
+Artículo 15.
+1. Todas las competencias mencionadas en los artículos anteriores y en los demás del presente Estatuto se entenderán referidas al territorio del Principado de Asturias.
+2. En el ejercicio de sus competencias, el Principado de Asturias gozará de las potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
+a) La presunción de legitimidad y la ejecutoriedad de sus actos, así como los poderes de ejecución forzosa y revisión en vía administrativa.
+b) La potestad de expropiación, incluida la declaración de urgente ocupación de los bienes afectados y el ejercicio de las restantes competencias de la legislación expropiatoria atribuidas a la Administración del Estado cuando se trate de materias de competencia de la Comunidad Autónoma.
+c) La potestad de sanción dentro de los límites que establezca el ordenamiento jurídico.
+d) La facultad de utilización del procedimiento de apremio.
+e) La inembargabilidad de sus bienes y derechos, así como los privilegios de prelación, preferencia y demás, reconocidos a la Hacienda pública para el cobro de sus créditos, sin perjuicio de los que correspondan en esta materia a la Hacienda del Estado y en igualdad de derechos con las demás Comunidades Autónomas.
+f) La exención de toda obligación de garantía o caución ante cualquier organismo administrativo o Tribunal jurisdiccional.
+No se admitirán interdictos contra las actuaciones del Principado en materias de su competencia, realizadas de acuerdo con el procedimiento legal.
+3. En el ejercicio de la competencia prevista en el artículo 10.1.1 del presente Estatuto y de acuerdo con la legislación del Estado, corresponde a la Comunidad Autónoma, entre otras materias, el establecimiento del régimen estatutario de sus funcionarios, el régimen jurídico-administrativo derivado de las competencias asumidas, la regulación de los bienes de dominio público y patrimoniales cuya titularidad corresponda a la Comunidad Autónoma, así como las servidumbres públicas en materia de su competencia y la regulación de los contratos y concesiones administrativas en el ámbito del Principado de Asturias.
+Se modifica el apartado 3 por el art. único.11 bis de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo dieciséis
+
+Artículo 16.
+El Principado de Asturias impulsará la conservación y compilación del derecho consuetudinario asturiano.
+Se modifica por el art. único.12 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo diecisiete
+
+Artículo 17.
+1. En materia de medios audiovisuales de comunicación social del Estado, el Principado de Asturias ejercerá todas las potestades y competencias que le correspondan, en los términos y casos establecidos en la legislación básica del Estado.
+2. Igualmente le corresponde, en el marco de las normas básicas del Estado, el desarrollo legislativo y la ejecución del régimen de prensa y, en general, de todos los medios de comunicación social.
+3. En los términos establecidos en los párrafos anteriores de este artículo, la Comunidad Autónoma podrá regular, crear y mantener su propia televisión, radio y prensa y, en general, todos los medios de comunicación social para el cumplimiento de sus fines.
+Se modifica por el art. único.13 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo dieciocho
+
+Artículo 18.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que, conforme al apartado 1 del artículo 81 de la misma, lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la alta inspección para su cumplimiento y garantía.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+3. En el ejercicio de estas competencias, la Comunidad Autónoma fomentará la investigación, especialmente la referida a materias o aspectos peculiares del Principado de Asturias, y a la creación de centros universitarios en la Comunidad Autónoma.
+Se añade el apartado 3 por el art. único.14 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica por el art. único.5 de la Ley Orgánica 1/1994, de 24 de marzo. Ref. BOE-A-1994-6940
+
+### Artículo diecinueve
+
+Artículo 19.
+Uno. En los términos y número que establezca la legislación general del Estado, el Principado de Asturias propondrá las personas que hayan de formar parte de los órganos de administración de aquellas Empresas públicas de titularidad estatal implantadas en Asturias que dicha legislación determine.
+Dos. El Principado de Asturias podrá elaborar y remitir al Gobierno cualesquiera informes, estudios o propuestas relativos a la gestión de dichas Empresas o a su incidencia en la socioeconomía de la Comunidad Autónoma. Dichos informes, estudios o propuestas darán lugar a resolución motivada del Gobierno o de los organismos o Entidades titulares de la participación de las Empresas.
+Se modifica el apartado 2 por el art. único.15 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veinte
+
+Artículo 20.
+1. Corresponde a la Comunidad Autónoma del Principado de Asturias la vigilancia y protección de los edificios e instalaciones de la propia Comunidad y la coordinación de las policías locales asturianas, sin perjuicio de su dependencia de las autoridades municipales.
+2. Para el ejercicio de la competencia prevista en el apartado anterior, la Comunidad Autónoma podrá convenir con el Estado la adscripción de unidades del Cuerpo Nacional de Policía en los términos y para el ejercicio de las funciones previstas en la Ley Orgánica referida en el artículo 149.1.29.ª de la Constitución.
+Se modifica por el art. único.17 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veintiuno
+
+Artículo 21.
+Uno. El Principado de Asturias podrá celebrar convenios con otras Comunidades Autónomas para la gestión y prestación de servicios propios de la exclusiva competencia de las mismas. La celebración de los citados convenios, antes de su entrada en vigor, deberá ser comunicada a las Cortes Generales. Si las Cortes Generales, o algunas de las Cámaras, manifestaran reparos en el plazo de treinta días a partir de la recepción de la comunicación, el convenio deberá seguir el trámite previsto en el párrafo siguiente. Si transcurrido dicho plazo no se hubiesen manifestado reparos al convenio, entrará en vigor.
+Dos. La Comunidad Autónoma podrá establecer también acuerdos de cooperación con otras Comunidades Autónomas, previa autorización de las Cortes Generales.
+
+## TITULO II
+
+De los órganos institucionales del Principado de Asturias
+
+### Artículo veintidós
+
+Artículo 22.
+Los órganos institucionales del Principado de Asturias son la Junta General, el Consejo de Gobierno y el Presidente.
+
+## CAPITULO I
+
+De la Junta General del Principado de Asturias
+
+### Artículo veintitrés
+
+Artículo 23.
+Uno. La Junta General del Principado de Asturias representa al pueblo asturiano, ejerce la potestad legislativa, aprueba los presupuestos, orienta y controla la acción del Consejo de Gobierno y ejerce las restantes competencias que le confiere la Constitución, este Estatuto y demás normas del ordenamiento jurídico.
+Dos. La Junta General es inviolable.
+Se suprime el apartado 2 y se reordena el apartado 3 como 2 por el art. único.18 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veinticuatro
+
+Artículo 24.
+Compete también a la Junta General:
+Uno. Elegir de entre sus miembros al Presidente del Principado de Asturias.
+Dos. Designar los Senadores a que se refiere el artículo sesenta y nueve coma cinco, de la Constitución, con arreglo a lo que establezca una ley de la Junta, que asegurará, en todo caso, la adecuada representación proporcional.
+Tres. Ejercitar la iniciativa legislativa según lo dispuesto en la Constitución.
+Cuatro. Fijar las previsiones de índole política, social y económica que, de acuerdo con el artículo ciento treinta y uno coma dos, de la Constitución, haya de suministrar el principado de Asturias al Gobierno para la elaboración de los proyectos de planificación.
+Cinco. Ejercer las competencias atribuidas por el artículo10.1.2, al Principado de Asturias en lo relativo a la alteración de los términos y denominaciones de los Concejos, así como las facultades en relación a la creación de organizaciones territoriales en los términos establecidos en dicho artículo.
+Seis. Regular la delegación de competencias administrativas del Principado en uno o varios municipios o en las organizaciones territoriales a que se hace referencia en el artículo sexto.
+Siete. Autorizar al Consejo de Gobierno la prestación del consentimiento para obligarse en los convenios y acuerdos del Principado de Asturias con otras Comunidades Autónomas, así como supervisar su ejecución. El Consejo de Gobierno dará cuenta a la Junta General del resto de los convenios y acuerdos que obliguen al Principado.
+Ocho. Establecer tributos. Autorizar el recurso al crédito.
+Nueve. Aprobar el programa del Consejo de Gobierno y exigir su responsabilidad política en la forma que determine una Ley de la Junta.
+Diez. Examinar y aprobar la Cuenta General del Principado, sin perjuicio de lo dispuesto en los artículos 35 ter y 55 de este Estatuto.
+Once. Interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+Doce. Recibir la información que ha de remitirle el Consejo de Gobierno sobre tratados y convenios internacionales en cuanto se refieran a materias de particular interés para el Principado de Asturias, emitiendo su parecer sobre los mismos.
+Se modifican los apartados 5, 7 y 10 y se añade el apartado 12 por el art. único.19 a 22 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veinticuatro bis
+
+Artículo 24 bis.
+1. La Junta General podrá delegar en el Consejo de Gobierno la potestad de dictar normas con rango de ley.
+2. Las disposiciones del Consejo de Gobierno que contengan legislación delegada recibirán el título de Decretos legislativos.
+3. No podrá delegarse la aprobación de la Ley de Presupuestos ni la de normas con rango de ley para las que este Estatuto, las leyes o el Reglamento de la Junta General requieran mayorías cualificadas.
+4. La delegación legislativa habrá de otorgarse al Consejo de Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio. La delegación se agota por el uso que de ella haga el Consejo de Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse concedida de modo implícito o por tiempo indeterminado. Tampoco podrá permitir la subdelegación a autoridades distintas del propio Consejo de Gobierno.
+5. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.
+6. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio. Las leyes de bases no podrán en ningún caso autorizar su propia modificación ni facultar para dictar normas con carácter retroactivo.
+7. La autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único o si se incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
+8. Cuando una proposición de ley o una enmienda fuere contraria a la delegación legislativa en vigor, el Consejo de Gobierno está facultado para oponerse a su tramitación. En tal supuesto, podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.
+9. Sin perjuicio del control jurisdiccional, el Reglamento de la Junta General y las leyes de delegación podrán establecer fórmulas adicionales de control.
+Se añade por el art. único.23 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veinticinco
+
+Artículo 25.
+1. La Junta General es elegida por un período de cuatro años mediante sufragio universal, libre, igual, directo y secreto, con aplicación de un sistema de representación proporcional.
+2. Por ley del Principado, cuya aprobación y reforma requiere el voto de la mayoría absoluta de la Junta General, se fijará el número de miembros, entre 35 y 45, sus causas de inelegibilidad e incompatibilidad y las demás circunstancias del procedimiento electoral.
+3. El Presidente del Principado, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Cámara, con anticipación al término natural de la legislatura.
+La disolución se acordará por Decreto, en el que se convocarán a su vez elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
+El Presidente no podrá acordar la disolución de la Cámara durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación, ni cuando se encuentre en tramitación una moción de censura. Tampoco podrá acordar la disolución antes de que transcurra el plazo de un año desde la última disolución por este procedimiento.
+En ningún supuesto podrá el Presidente disolver la Cámara cuando se encuentre convocado un proceso electoral estatal.
+En todo caso, la nueva Cámara que resulte de la convocatoria electoral tendrá un mandato limitado por el término natural de la legislatura originaria.
+4. Las elecciones serán convocadas por el Presidente del Principado en los términos previstos en la Ley de Régimen Electoral General, de manera que se celebren el cuarto domingo de mayo de cada cuatro años, sin perjuicio de lo que dispongan las Cortes Generales, con el fin exclusivo de coordinar el calendario de las diversas consultas electorales.
+5. La Junta General electa será convocada por el Presidente del Principado cesante, dentro de los quince días siguientes a la celebración de las elecciones.
+Se modifica por el art. único.24 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se modifica el apartado 3 por el art. único de la Ley Orgánica 3/1991, de 13 de marzo. Ref. BOE-A-1991-6819
+ Redactado el apartado 3 conforme a la corrección de erratas publicada en BOE núm. 65, de 16 de marzo de 1991. Ref. BOE-A-1991-7041
+
+### Artículo veintiséis
+
+Artículo 26.
+Los miembros de la Junta General del Principado:
+Uno. No están vinculados por mandato imperativo.
+Dos. Gozarán, aún después de haber cesado en su mandato de inviolabilidad por las opiniones manifestadas en actos parlamentarios y por los votos emitidos en el ejercicio de su cargo. Durante su mandato no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de Asturias, sino en caso de flagrante delito, correspondiendo decidir en todo caso sobre su inculpación, prisión, procesamiento y juicio al Tribunal Superior de Justicia de la Comunidad Autónoma. Fuera de dicho territorio la responsabilidad penal será exigible, en los mismos términos, ante la Sala de lo Penal del Tribunal Supremo.
+Tres. Tienen derecho a formular preguntas, interpelaciones y mociones en los términos en que el Reglamento determine. También les asiste el derecho a obtener de las autoridades de la Comunidad Autónoma la información precisa para el desarrollo de sus funciones.
+Cuatro. Por el ejercicio de su cargo representativo, los Diputados de la Junta General percibirán retribuciones. Las modalidades de las asignaciones serán fijadas de acuerdo con lo que prevea el Reglamento de la Cámara.
+Se modifica el apartado 4 por el art. único.25 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veintisiete
+
+Artículo 27.
+Uno. La Junta General se reunirá anualmente en dos períodos de sesiones, comprendidos entre septiembre y diciembre el primero, y entre febrero y junio el segundo.
+Dos. A petición del Consejo de Gobierno, de la Diputación Permanente o de la cuarta parte de los miembros de la Junta, ésta podrá reunirse en sesión extraordinaria, que se clausurará al agotar el orden del día determinado para el que fue convocada.
+Tres. Las sesiones plenarias de la Junta son públicas, salvo en los casos previstos en el Reglamento.
+Cuatro. Para la deliberación y adopción de acuerdos, la Junta ha de estar reunida reglamentariamente y con asistencia de la mayoría de sus miembros. Los acuerdos se adoptan por mayoría de los presentes si el Estatuto, las Leyes o el Reglamento no exigen otras mayorías más cualificadas.
+Cinco. El voto es personal y no delegable.
+Se modifica el apartado 1 por el art. único.26 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veintiocho
+
+Artículo 28.
+Uno. La Junta General aprueba su Presupuesto y el estatuto de su personal, y establece su propio Reglamento, en el que se contendrá, además, el estatuto de sus miembros. La aprobación del Reglamento y su reforma precisarán el voto favorable de la mayoría absoluta.
+Dos. La Junta, en su primera sesión, elige su Presidente y demás componentes de la Mesa, que no podrán ser en ningún caso miembros del Consejo de Gobierno ni Presidente del mismo.
+Se modifica el apartado 1 por el art. único.27 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo veintinueve
+
+Artículo 29.
+Uno. La Junta General del Principado funciona en Pleno y en Comisiones.
+Dos. Las Comisiones son permanentes y, en su caso, especiales o de investigación.
+Tres. Mientras la Junta General del Principado no esté reunida o cuando hubiere expirado su mandato, habrá una Diputación Permanente, cuyo procedimiento de elección, composición y funciones regulará el Reglamento.
+
+### Artículo treinta
+
+Artículo 30.
+Los componentes de la Junta se constituyen en Grupos, cuyas condiciones de formación, organización y funciones fijará el Reglamento. Todo miembro de la Cámara deberá estar adscrito a un Grupo y se garantizará la presencia de cada uno de éstos en las Comisiones y Diputación Permanente en proporción a su importancia numérica.
+
+### Artículo treinta y uno
+
+Artículo 31.
+1. La iniciativa para el ejercicio de la potestad legislativa reconocida en el artículo 23 de este Estatuto corresponde a los miembros de la Junta General y al Consejo de Gobierno. Por ley del Principado se regulará la iniciativa de los Ayuntamientos y la iniciativa popular para las materias que sean competencia exclusiva de la Comunidad Autónoma.
+2. Las leyes aprobadas por la Junta General serán promulgadas, en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el "Boletín Oficial del Principado de Asturias", en el plazo de quince días desde su aprobación, y en el "Boletín Oficial del Estado". Los Reglamentos serán publicados por orden del Presidente del Principado, dentro del mismo plazo, en el "Boletín Oficial del Principado de Asturias".
+Se modifica por el art. único.28 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## CAPITULO II
+
+Del Presidente del Principado de Asturias
+
+### Artículo treinta y dos
+
+Artículo 32.
+Uno. El Presidente del Principado de Asturias será elegido por la Junta General de entre sus miembros y nombrado por el Rey.
+La elección se hará por mayoría absoluta de los miembros de la Junta en primera convocatoria, y por mayoría simple en las posteriores, debiendo mediar entre cada convocatoria al menos cuarenta y ocho horas.
+Si transcurrido el plazo de dos meses a partir de la constitución de la Junta ningún candidato hubiera sido elegido, la Junta General electa quedará disuelta, procediéndose a la convocatoria de nuevas elecciones. El mandato de la nueva Junta durará en todo caso hasta la fecha en que debiera concluir el de la primera.
+Dos. El Presidente del Principado de Asturias es el del Consejo de Gobierno, cuya actividad dirige, coordina la administración de la Comunidad Autónoma, designa y separa a los consejeros y ostenta la suprema representación del Principado y la ordinaria del Estado en Asturias.
+Tres. El Presidente del Principado de Asturias responde políticamente ante la Junta General.
+Cuatro. Una ley del Principado, aprobada por el voto favorable de la mayoría absoluta, determinará el estatuto personal, el procedimiento de elección y cese y las atribuciones del Presidente.
+Se modifica el apartado 4 por el art. único.29 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## CAPITULO III
+
+Del Consejo de Gobierno
+
+### Artículo treinta y tres
+
+Artículo 33.
+Uno. El Consejo de Gobierno es el órgano colegiado que dirige la política de la Comunidad Autónoma y al que corresponden las funciones ejecutiva y administrativa y el ejercicio de la potestad reglamentaria.
+Dos. Por ley del Principado, aprobada por mayoría absoluta, se regularán las atribuciones del Consejo de Gobierno, así como el Estatuto, forma de nombramiento y cese de sus componentes.
+Tres. Una ley de la Junta regulará al régimen de publicación de las normas y publicidad de las disposiciones y actos emanados del Consejo de Gobierno y de la Administración del Principado de Asturias.
+Cuatro. El Consejo de Gobierno será informado de los convenios y tratados internacionales que puedan afectar a materias de su específico interés.
+Se modifican los apartados 1 y 2, se suprime el apartado 3 y se añade el apartado 4 por el art. único.30 a .33 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+ Se interpreta que el antiguo apartado 4 pasa a ser el actual apartado 3.
+
+### Artículo treinta y cuatro
+
+Artículo 34.
+Uno. El Consejo de Gobierno responde políticamente ante la Junta General de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión.
+Dos. Una ley de la Junta, aprobada por el voto favorable de la mayoría de sus miembros, regulará la responsabilidad establecida en el número anterior y, en general, las relaciones entre dicha Junta y el Consejo.
+Se suprime el apartado 3 por el art. único.34 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo treinta y cinco
+
+Artículo 35.
+Uno. El Presidente del Consejo de Gobierno previa deliberación del mismo puede plantear ante la Junta General la cuestión de confianza sobre su programa o sobre una declaración de política general en el marco de las competencias que se atribuyen al Principado en este Estatuto. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los miembros de la Junta.
+Dos. La Junta General puede exigir la responsabilidad política del Consejo de Gobierno mediante la adopción por mayoría absoluta de la moción de censura. Esta habrá de ser propuesta al menos por un quince por ciento de los miembros de la Junta y habrá de incluir un candidato a Presidente del Principado de Asturias. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas. Si la moción de censura no fuese aprobada por la Junta General, sus signatarios no podrán presentar otras mientras no transcurra un año desde aquélla dentro de la misma legislatura.
+Tres. Si la Junta General negara su confianza, el Presidente del Principado presentará su dimisión ante la misma, cuyo Presidente convocará en el plazo máximo de quince días la sesión plenaria para la elección de nuevo Presidente del Principado de acuerdo con el procedimiento del artículo treinta y dos coma uno sin que en ningún caso suponga la disolución de la Junta General.
+Cuatro. Si la Junta General adoptara una moción de censura, el Presidente del Principado presentará su dimisión ante la misma y el candidato incluido en aquélla se entenderá investido de la confianza de la Junta. El Rey le nombrará Presidente del Principado.
+Cinco. El Presidente del Principado no podrá plantear la cuestión de confianza mientras esté en trámite una moción de censura.
+Seis. El Consejo de Gobierno cesante continuará en sus funciones hasta la toma de posesión del nuevo Consejo.
+
+### Artículo treinta y cinco bis
+
+Artículo 35 bis.
+1. La responsabilidad penal del Presidente del Principado y de los miembros del Consejo de Gobierno será exigible ante el Tribunal Superior de Justicia del Principado de Asturias por los actos cometidos en el territorio del Principado. Fuera de éste, la responsabilidad penal será exigible ante la Sala de lo Penal del Tribunal Supremo.
+2. Ante los mismos Tribunales respectivamente será exigible la responsabilidad civil en que dichas personas hubieren incurrido con ocasión del ejercicio de sus cargos.
+Se añade por el art. único.35 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## TITULO II BIS
+
+De los órganos auxiliares del Principado de Asturias.
+Se añade por el art. único.36 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo treinta y cinco ter.
+
+Artículo 35 ter.
+1. Se crea la Sindicatura de Cuentas del Principado de Asturias. Por ley del Principado se regulará su composición y funciones.
+2. Dependerá directamente de la Junta General del Principado y ejercerá sus funciones por delegación de ella en el examen y comprobación de la Cuenta General del Principado.
+Se añade por el art. único.37 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo treinta y cinco quater.
+
+Artículo 35 quater.
+Se crea el Consejo Consultivo del Principado de Asturias como superior órgano de consulta de la Comunidad Autónoma. Por ley del Principado se regularán su composición y competencias.
+Se añade por el art. único.38 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## TITULO III
+
+De la Administración de Justicia
+
+### Artículo treinta y seis
+
+Artículo 36.
+El Tribunal Superior de Justicia del Principado de Asturias, en el que se integrará la actual Audiencia Territorial de Oviedo, es el órgano jurisdiccional en el que culminará la organización judicial en su ámbito territorial y ante el que se agotarán las sucesivas instancias procesales, en los términos del artículo ciento cincuenta y dos de la Constitución y de acuerdo con el presente Estatuto y la Ley Orgánica del Poder Judicial.
+Se modifica por el art. único.39 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo treinta y siete
+
+Artículo 37.
+Uno. La competencia de los órganos jurisdiccionales en Asturias se extiende:
+a) En el orden civil a todas las instancias y grados, con excepción de los recursos de casación y revisión.
+b) En el orden penal y social, a todas las instancias y grados, con excepción de los recursos de casación y revisión.
+c) En el orden contencioso-administrativo, a los recursos que se deduzcan contra los actos y disposiciones de las Administraciones públicas, en los términos que establezca la Ley Orgánica del Poder Judicial.
+d) A las cuestiones de competencia entre órganos judiciales en Asturias.
+Dos. En las restantes materias se podrán interponer, cuando proceda, ante el Tribunal Supremo el recurso de casación o el que corresponda según las leyes del Estado y, en su caso, el de revisión. El Tribunal Supremo resolverá también las cuestiones de competencia entre los Tribunales de Asturias y los del resto de España.
+
+### Artículo treinta y ocho
+
+Artículo 38.
+Uno. El Presidente del Tribunal Superior de Justicia del Principado de Asturias será nombrado por el Rey a propuesta del Consejo General del Poder Judicial. El Presidente del Principado de Asturias ordenará la publicación de dicho nombramiento en el «Boletín Oficial del Principado de Asturias».
+Dos. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia de Asturias se efectuará en la forma prevista en la Ley Orgánica del Poder Judicial.
+Se modifica por el art. único.40 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo treinta y nueve
+
+Artículo 39.
+A instancia del Principado, el órgano competente convocará los concursos y oposiciones para cubrir las plazas vacantes en Asturias de Magistrados, Jueces, Secretarios Judiciales y restante personal al servicio de la Administración de Justicia, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+
+### Artículo cuarenta
+
+Artículo 40.
+(Suprimido)
+Se suprime por el art. único.41 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cuarenta y uno
+
+Artículo 41.
+En relación a la Administración de Justicia, exceptuada la militar, corresponde al Principado:
+Uno. Ejercer todas las facultades que la Ley Orgánica del Poder Judicial reconozca o atribuya al Gobierno del Estado.
+Dos. Fijar la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en Asturias y la localización de su capitalidad.
+Se modifica el apartado 1 por el art. único.42 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## TITULO IV
+
+Hacienda y economía
+
+### Artículo cuarenta y dos
+
+Artículo 42.
+El Principado de Asturias, dentro de los principios de coordinación con las Haciendas estatal y local y de solidaridad entre todos los españoles, tiene autonomía financiera, dominio público y patrimonio propio, de acuerdo con la Constitución, el presente Estatuto y la Ley Orgánica de Financiación de las Comunidades Autónomas.
+
+### Artículo cuarenta y tres
+
+Artículo 43.
+Uno. Son bienes del Principado de Asturias:
+a) Los pertenecientes al Ente Preautonómico y a la Diputación Provincial.
+b) Los bienes que estuvieren afectos a servicios traspasados al Principado.
+c) Los que adquiriere por cualquier título jurídico válido.
+Dos. El Principado tiene plena capacidad para adquirir, administrar y enajenar los bienes que integran su patrimonio.
+Tres. El régimen jurídico de los bienes patrimoniales y de dominio público del Principado deberán regularse por una ley de la Junta General, en los términos del presente Estatuto.
+
+### Artículo cuarenta y cuatro
+
+Artículo 44.
+La Hacienda del Principado de Asturias está constituida por:
+1. Los rendimientos procedentes de los tributos propios.
+2. Los rendimientos de los impuestos cedidos por el Estado especificados en la disposición adicional.
+3. Los recargos sobre impuestos estatales.
+4. Un porcentaje de participación en los ingresos del Estado
+5. En su caso, los ingresos procedentes del Fondo de Compensación Interterritorial y de otros Fondos para el desarrollo regional.
+6. Otras asignaciones con cargo a los Presupuestos del Estado.
+7. La emisión de Deuda y el recurso al crédito.
+8. Los rendimientos procedentes de su patrimonio.
+9. Ingresos de derecho privado.
+10. Multas y sanciones impuestas en el ámbito de sus competencias.
+10 bis. Cualquier otro tipo de ingresos que la legislación prevea en el marco del artículo 157 de la Constitución.
+Se añade el apartado 10 bis por el art. único.43 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cuarenta y cinco
+
+Artículo 45.
+Uno. La gestión, liquidación, recaudación e inspección de sus propios tributos, así como el conocimiento de las reclamaciones relativas a ellos corresponderá al Principado, el cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
+Dos. En el caso de impuestos cedidos, el Principado asumirá por delegación del Estado la gestión, liquidación, recaudación, inspección y revisión, en su caso, de los mismos sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la ley que fije el alcance y condiciones de la cesión.
+Tres. La gestión, liquidación, recaudación, inspección y revisión, en su caso, de los demás impuestos del Estado recaudados en Asturias corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que el Principado pueda recibir de éste y de la colaboración que pueda establecerse especialmente cuando así lo exija la naturaleza del tributo.
+
+### Artículo cuarenta y seis
+
+Artículo 46.
+Se regularán necesariamente mediante ley de la Junta General las siguientes materias:
+Uno. El establecimiento, la modificación y supresión de sus impuestos propios, tasas y contribuciones especiales.
+Dos. El establecimiento y la modificación y supresión de los recargos sobre los impuestos del Estado.
+Tres. El régimen general presupuestario del Principado.
+
+### Artículo cuarenta y siete
+
+Artículo 47.
+Uno. Corresponde al Consejo de Gobierno la elaboración del Presupuesto del Principado y a la Junta General su examen, enmienda, aprobación y control.
+Dos. El Consejo de Gobierno presentará el proyecto de presupuesto a la Junta antes del último trimestre del año.
+Tres. El presupuesto tendrá carácter anual e incluirá la totalidad de los gastos e ingresos del Principado y de los organismos e instituciones de él dependientes.
+Cuatro. Si la Ley del Presupuesto no se aprobara antes del primer día del ejercicio económico correspondiente, se considerará prorrogado el Presupuesto del ejercicio anterior hasta la aprobación del nuevo.
+Se suprime el apartado 5 por el art. único.44 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cuarenta y ocho
+
+Artículo 48.
+Uno. El Principado de Asturias, autorizado por una Ley de la Junta General y para financiar gastos de inversión, podrá concertar operaciones de crédito o emitir Deuda Pública representada en títulos valores o en otros documentos.
+Dos. El volumen y características de estas operaciones se adecuarán también a las normas generales del Estado.
+Tres. Los títulos emitidos tendrán la consideración de Fondos Públicos, a todos los efectos.
+Cuatro. El Principado de Asturias podrá realizar operaciones de crédito por plazo no superior a un año, con objeto de cubrir sus necesidades transitorias de tesorería.
+Cinco. Lo dispuesto en los apartados anteriores se hará de acuerdo con lo establecido al respecto en la Ley Orgánica de Financiación de las Comunidades Autónomas.
+
+### Artículo cuarenta y nueve
+
+Artículo 49.
+Uno. El Principado de Asturias, de acuerdo con las disposiciones del Estado, impulsará el establecimiento de instituciones públicas de crédito y ahorro territoriales y podrá adoptar las medidas que considere necesarias para garantizar su funcionalidad y posibilitar la captación y afirmación del ahorro regional.
+Dos. El Principado de Asturias queda facultado para crear entidades que fomenten la plena ocupación y desarrollo económico y social, en el marco de sus competencias. Asimismo, podrá constituir empresas públicas como medio de ejecución de las funciones que sean de su competencia, según lo establecido en el presente Estatuto.
+
+### Artículo cincuenta
+
+Artículo 50.
+El Principado de Asturias promoverá los objetivos establecidos en los artículos 129.2 y 130.1 de la Constitución.
+Se modifica por el art. único.45 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cincuenta y uno
+
+Artículo 51.
+El Principado de Asturias gozará del tratamiento fiscal que la ley establezca para el Estado.
+
+### Artículo cincuenta y uno bis
+
+Artículo 51 bis.
+Corresponde al Principado de Asturias la tutela financiera de las Corporaciones Locales sin perjuicio de la autonomía que les garantiza el artículo 140 de la Constitución y en el marco de lo dispuesto en los artículos 142 y 149.1.18.ª de la misma.
+Se añade por el art. único.46 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## TITULO V
+
+Del control sobre la actividad de los órganos del Principado
+
+### Artículo cincuenta y dos
+
+Artículo 52.
+Las Leyes del Principado solamente se someterán al control de constitucionalidad que ejerce el Tribunal Constitucional.
+
+### Artículo cincuenta y tres
+
+Artículo 53.
+(Suprimido)
+Se suprime por el art. único.47 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cincuenta y cuatro
+
+Artículo 54.
+Los actos y disposiciones de la Administración del Principado están sometidos al control de la jurisdicción contencioso-administrativa.
+Se modifica por el art. único.48 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Artículo cincuenta y cinco
+
+Artículo 55.
+1. El control económico y presupuestario del Principado de Asturias se ejercerá por la Sindicatura de Cuentas del Principado, sin perjuicio de las funciones del Tribunal de Cuentas del Reino.
+2. El informe de la Sindicatura de Cuentas del Principado será remitido a la Junta General para su tramitación de acuerdo con lo que prevea el Reglamento de la Cámara.
+Se modifica por el art. único.49 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+## TITULO VI
+
+De la reforma del Estatuto
+
+### Artículo cincuenta y seis
+
+Artículo 56.
+La reforma de este Estatuto se ajustará al siguiente procedimiento:
+Uno. La iniciativa corresponderá a una cuarta parte de los miembros de la Junta General, a dos tercios de los municipios asturianos o al Consejo de Gobierno, así como al Gobierno y a las Cortes Generales del Estado.
+Dos. El proyecto de reforma será aprobado por la Junta General del Principado por mayoría de tres quintos de sus miembros y sometido ulteriormente a la aprobación de las Cortes Generales como Ley Orgánica.
+
+### Artículo cincuenta y seis bis
+
+Artículo 56 bis.
+Cuando la reforma de este Estatuto tenga únicamente por objeto la ampliación de competencias en materias que no estén constitucionalmente reservadas al Estado, la iniciativa será la prevista en el artículo anterior, y el proyecto de reforma deberá ser aprobado por la mayoría absoluta de los miembros de la Junta General, antes de su ulterior aprobación por las Cortes Generales como Ley Orgánica.
+Se añade por el art. único.50 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición adicional
+
+Disposición adicional.
+1. Se cede a la Comunidad Autónoma del Principado de Asturias el rendimiento de los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+e) Los Tributos sobre el Juego.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
+m) El Impuesto Especial sobre la Electricidad.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+Dos. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, siendo tramitado por el Gobierno como proyecto de ley ordinaria.
+Tres. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere la disposición transitoria tercera con sujeción a los criterios establecidos en el artículo diez, apartado cuatro, de la Ley Orgánica ocho/mil novecientos ochenta, de veintidós de septiembre, de Financiación de las Comunidades Autónomas. El Gobierno tramitará el acuerdo de la Comisión como proyecto de ley, en el plazo de seis meses a partir de la constitución de la primera Junta General del Principado.
+Se modifica el apartado 1 por el art. 1 de la Ley 19/2010, de 16 de julio. Ref. BOE-A-2010-11413
+ Esta modificación surte efectos desde el 1 de enero de 2009, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 20/2002, de 1 de julio. Ref. BOE-A-2002-12999
+ Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 26/1997, de 4 de agosto. Ref. BOE-A-1997-17576
+ Esta modificación surte efectos desde el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Suprimida)
+Se suprime por el art. único.51 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Suprimida)
+Se suprime por el art. único.52 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Suprimida)
+Se suprime por el art. único.53 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+El traspaso de los servicios inherentes a las competencias que según el presente Estatuto corresponden al Principado se hará de acuerdo con las bases siguientes:
+Uno. En el término máximo de un mes desde el nombramiento del Presidente por el Rey quedarán designados los vocales de una Comisión Mixta encargada de inventariar los bienes y derechos del Estado que deban ser objeto de traspaso al Principado, de concretar los servicios y funcionarios que deban traspasarse y de proceder a la adaptación, si es preciso, de los que pasen a la competencia del Principado.
+Dos. La Comisión Mixta estará integrada paritariamente por vocales designados por el Gobierno de la nación y por el Consejo de Gobierno y ella misma establecerá sus normas de funcionamiento.
+Los acuerdos de la Comisión Mixta adoptarán la forma de propuesta al Gobierno de la nación, que los aprobará mediante decreto figurando aquéllos como anejos al mismo, y serán publicados simultáneamente en el «Boletín Oficial del Estado» y en el «Boletín Oficial del Principado», adquiriendo vigencia a partir de esta publicación
+Tres. La Comisión Mixta establecerá los calendarios y plazos para el traspaso de cada servicio. En todo caso, la referida Comisión deberá determinar en un plazo de dos años, desde la fecha de su constitución, el término en que habrá de completarse el traspaso de todos los servicios que correspondan al Principado, de acuerdo con este Estatuto.
+Cuatro. Para preparar los traspasos y para verificarlos por bloques orgánicos de naturaleza homogénea, la Comisión Mixta de transferencias estará asistida por Comisiones sectoriales, de ámbito nacional, agrupadas por materias, cuyo cometido fundamental será determinar con la representación de la Administración del Estado los traspasos de medios personales, financieros y materiales que deba recibir la Comunidad Autónoma.
+Las Comisiones sectoriales trasladarán sus propuestas de acuerdo a la Comisión Mixta, que las habrá de ratificar.
+Cinco. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles del Estado al Principado la certificación por la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados. Esta certificación deberá contener los requisitos exigidos por la Ley Hipotecaria.
+El cambio de titularidad en los contratos de arrendamiento de locales para oficinas públicas de los servicios que se transfieran no dará derecho al arrendador a extinguir o renovar el contrato.
+Seis. El Principado asumirá con carácter definitivo y automático y sin solución de continuidad, los servicios que hayan sido traspasados el Consejo Regional de Asturias. En relación a las competencias cuyo traspaso esté en curso de ejecución se continuará su tramitación de acuerdo con los términos establecidos por el correspondiente decreto de traspaso. Tanto en uno como en otro caso las transferencias realizadas se adaptarán, si fuera preciso, a los términos del presente Estatuto.
+Se modifica el apartado 1 y se suprime el apartado 7 por el art. único.54 y .55 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Mientras no se dicten las disposiciones que permitan la financiación de los servicios transferidos correspondientes a competencias propias del Principado, el Estado contribuirá a su sostenimiento partiendo de una cantidad igual al coste efectivo del servicio en el momento de la transferencia, actualizándola de acuerdo con las circunstancias.
+Para garantizar esta financiación, la Comisión Mixta paritaria Estado-Principado determinará en cada momento su alcance.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Serán respetados todos los derechos adquiridos de cualquier orden o naturaleza que en los momentos de las diversas transferencias tengan los funcionarios y personal adscritos a los servicios estatales o a los de otras instituciones públicas objeto de dichas transferencias.
+Se modifica por el art. único.56 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Hasta tanto se promulgue la legislación del Estado a que hace referencia el artículo diecinueve coma uno, de este Estatuto, el Principado de Asturias propondrá, de entre personas de reconocida capacidad para el cargo, tres de los miembros de cada uno de los Consejos de Administración de las Empresa pública «Hunosa».
+Dicha propuesta será formulada por la Junta General del Principado dentro de los treinta días siguientes a su constitución. Cada uno de los miembros de ésta podrá votar, como máximo, a dos candidatos propuestos.
+Se modifica por el art. único.57 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+(Suprimida)
+Se suprime por el art. único.58 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+(Suprimida)
+Se suprime por el art. único.59 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Baqueira Beret a treinta de diciembre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Leopoldo Calvo-Sotelo y Bustelo.

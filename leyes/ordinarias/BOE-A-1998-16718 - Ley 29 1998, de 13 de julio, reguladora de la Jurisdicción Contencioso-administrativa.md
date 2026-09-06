@@ -1,0 +1,2364 @@
+# Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+
+- Identificador BOE: `BOE-A-1998-16718`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que, las referencias realizadas en esta ley a los Juzgados de Primera Instancia e Instrucción, de Primera Instancia, de lo Mercantil, de Instrucción, de Violencia sobre la Mujer, de lo Penal, de Menores, de Vigilancia Penitenciaria, de lo Contencioso-Administrativo, de lo Social se entenderán referidas a las Secciones del orden jurisdiccional correspondiente de los Tribunales de Instancia; y la misma consideración tendrán las referencias a los Juzgados Centrales respecto de las correspondientes Secciones del Tribunal Central de Instancia, según establece la disposición adicional primera de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#da
+A partir del 1 de octubre de 2015, todas las referencias a Secretarios judiciales deberán entenderse hechas a Letrados de la Administración de Justicia, según establece la disposición adicional primera de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I. Justificación de la reforma
+La Jurisdicción Contencioso-administrativa es una pieza capital de nuestro Estado de Derecho. Desde que fue instaurada en nuestro suelo por las Leyes de 2 de abril y 6 de julio de 1845, y a lo largo de muchas vicisitudes, ha dado sobrada muestra de sus virtualidades.
+Sobre todo desde que la Ley de 27 de diciembre de 1956 la dotó de las características que hoy tiene y de las atribuciones imprescindibles para asumir la misión que le corresponde de controlar la legalidad de la actividad administrativa, garantizando los derechos e intereses legítimos de los ciudadanos frente a las extralimitaciones de la Administración.
+Dicha Ley, en efecto, universalmente apreciada por los principios en los que se inspira y por la excelencia de su técnica, que combina a la perfección rigor y sencillez, acertó a generalizar el control judicial de la actuación administrativa, aunque con algunas excepciones notorias que imponía el régimen político bajo el que fue aprobada. Ratificó con énfasis el carácter judicial del orden contencioso-administrativo, ya establecido por la legislación precedente, preocupándose por la especialización de sus Magistrados. Y dio luz a un procedimiento simple y en teoría ágil, coherente con su propósito de lograr una justicia eficaz y ajena a interpretaciones y prácticas formalistas que pudieran enervar su buen fin. De esta manera, la Ley de la Jurisdicción Contencioso-administrativa de 1956 abrió una vía necesaria, aunque no suficiente, para colmar las numerosas lagunas y limitaciones históricas de nuestro Estado de Derecho, oportunidad que fue adecuadamente aprovechada por una jurisprudencia innovadora, alentada por el espectacular desarrollo que ha experimentado la doctrina española del Derecho Administrativo.
+Sin embargo, las cuatro décadas transcurridas desde que aquella Ley se aprobó han traído consigo numerosos y trascendentales cambios, en el ordenamiento jurídico, en las instituciones político-administrativas y en la sociedad. Estos cambios exigen, para alcanzar los mismos fines institucionales, soluciones necesariamente nuevas, pues, no obstante la versatilidad de buena parte de su articulado, la Ley de 1956 no está ajustada a la evolución del ordenamiento y a las demandas que la sociedad dirige a la Administración de Justicia.
+Ante todo, hay que tener en cuenta el impacto producido por la Constitución de 1978. Si bien algunos de los principios en que ésta se funda son los mismos que inspiraron la reforma jurisdiccional de 1956 y que fue deduciendo la jurisprudencia elaborada a su amparo, es evidente que las consecuencias que el texto constitucional depara en punto al control judicial de la actividad administrativa son muy superiores. Sólo a raíz de la Constitución de 1978 se garantizan en nuestro país plenamente los postulados del Estado de Derecho y, entre ellos, el derecho de toda persona a la tutela judicial efectiva de sus derechos e intereses legítimos, el sometimiento de la Administración pública a la ley y al derecho y el control de la potestad reglamentaria y de la legalidad de la actuación administrativa por los Tribunales. La proclamación de estos derechos y principios en la Constitución y su eficacia jurídica directa han producido la derogación implícita de aquellos preceptos de la Ley Jurisdiccional que establecían limitaciones en el acceso a los recursos o en su eficacia carentes de justificación en un sistema democrático. Pero el alcance de este efecto derogatorio en relación a algunos extremos de la Ley de 1956 ha seguido siendo objeto de polémica, lo que hacía muy conveniente una clarificación legal. Además, la jurisprudencia, tanto constitucional como contencioso-administrativa, ha extraído de los principios y preceptos constitucionales otras muchas reglas, que imponen determinadas interpretaciones de dicha Ley, o incluso sostienen potestades y actuaciones judiciales no contempladas expresamente en su texto. Por último, la influencia de la Constitución en el régimen de la Jurisdicción Contencioso-administrativa no se reduce a lo que disponen los artículos 9.1, 24, 103.1 y 106.1. De manera más o menos mediata, la organización, el ámbito y extensión material y el funcionamiento de este orden jurisdiccional se ve afectado por otras muchas disposiciones constitucionales, tanto las que regulan principios sustantivos y derechos fundamentales, como las que diseñan la estructura de nuestra Monarquía parlamentaria y la organización territorial del Estado. Como el resto del ordenamiento, también el régimen legal de la Jurisdicción Contencioso-administrativa debe adecuarse por entero a la letra y al espíritu de la Constitución.
+Por otra parte, durante los últimos lustros la sociedad y la Administración españolas han experimentado enormes transformaciones. La primera es hoy incomparablemente más desarrollada, más libre y plural, emancipada y consciente de sus derechos que hace cuarenta años. Mientras, la Administración reducida, centralizada y jerarquizada de antaño se ha convertido en una organización extensa y compleja, dotada de funciones múltiples y considerables recursos, descentralizada territorial y funcionalmente. Al hilo de estas transformaciones han variado en buena medida y se han diversificado las formas jurídicas de la organización administrativa, los fines, el contenido y las formas de la actividad de la Administración, los derechos que las personas y los grupos sociales ostentan frente a ella y, en definitiva, el sistema de relaciones regido por el Derecho Administrativo.
+Todos estos cambios repercuten de una u otra forma sobre la Jurisdicción Contencioso-administrativa.
+Concebida en origen como jurisdicción especializada en la resolución de un limitado número de conflictos jurídicos, ha sufrido hasta la saturación el extraordinario incremento de la litigiosidad entre ciudadanos y Administraciones y de éstas entre sí que se ha producido en los últimos tiempos. En este aspecto los problemas son comunes a los que los sistemas de control judicial de la Administración están soportando en otros muchos países.
+Pero además, el instrumental jurídico que en el nuestro se otorga a la Jurisdicción para el cumplimiento de sus fines ha quedado relativamente desfasado. En particular, para someter a control jurídico las actividades materiales y la inactividad de la Administración, pero también para hacer ejecutar con prontitud las propias decisiones judiciales y para adoptar medidas cautelares que aseguren la eficacia del proceso. De ahí que, pese al aumento de los efectivos de la Jurisdicción, pese al esfuerzo creativo de la jurisprudencia, pese al desarrollo de la justicia cautelar y a otros remedios parciales, la Jurisdicción Contencioso-administrativa esté atravesando un período crítico ante el que es preciso reaccionar mediante las oportunas reformas.
+Algunas de ellas, ciertamente, ya han venido afrontándose por el legislador en diferentes textos, más lejanos o recientes. De hecho, las normas que han modificado o que complementan en algún aspecto el régimen de la Jurisdicción son ya tan numerosas y dispersas que justificarían de por sí una refundición.
+La reforma que ahora se aborda, que toma como base los trabajos parlamentarios realizados durante la anterior Legislatura -en los que se alcanzó un estimable grado de consenso en muchos aspectos-, va bastante más allá. De un lado tiene en cuenta esas modificaciones parciales o indirectas, pero no sólo para incorporarlas a un texto único, sino también para corregir aquellos de sus elementos que la práctica judicial o la crítica doctrinal han revelado inapropiados o susceptibles de mejora. De otro lado, pretende completar la adecuación del régimen jurídico del recurso contencioso-administrativo a los valores y principios constitucionales, tomando en consideración las aportaciones de la jurisprudencia del Tribunal Constitucional y del Tribunal Supremo, la nueva organización del Estado y la evolución de la doctrina jurídica. Por último, persigue dotar a la Jurisdicción Contencioso-administrativa de los instrumentos necesarios para el ejercicio de su función, a la vista de las circunstancias en que hoy en día se enmarca.
+Desde este último punto de vista, la reforma compagina las medidas que garantizan la plenitud material de la tutela judicial en el orden contencioso-administrativo y el criterio favorable al ejercicio de las acciones y recursos y a la defensa de las partes, sin concesión alguna a tentaciones formalistas, con las que tienen por finalidad agilizar la resolución de los litigios. La preocupación por conseguir un equilibrio entre las garantías, tanto de los derechos e intereses públicos y privados en juego como del acierto y calidad de las decisiones judiciales, con la celeridad de los procesos y la efectividad de lo juzgado constituye uno de los ejes de la reforma. Pues es evidente que una justicia tardía o la meramente cautelar no satisfacen el derecho que reconoce el artículo 24.1 de la Constitución.
+Bien es verdad que lograr una justicia ágil y de calidad no depende solamente de una reforma legal. También es cierto que el control de la legalidad de las actividades administrativas puede y debe ejercerse asimismo por otras vías complementarias de la judicial, que sería necesario perfeccionar para evitar la proliferación de recursos innecesarios y para ofrecer fórmulas poco costosas y rápidas de resolución de numerosos conflictos. Pero, en cualquier caso, el régimen legal de la Jurisdicción Contencioso-administrativa, insustituible en su doble función garantizadora y creadora de jurisprudencia, debe adaptarse a las condiciones del momento para hacer posible aquel objetivo.
+En virtud de estas premisas, la reforma es a la vez continuista y profundamente renovadora. Continuista porque mantiene la naturaleza estrictamente judicial que la Jurisdicción Contencioso-administrativa ya tenía en la legislación anterior y que la Constitución ha venido a consolidar definitivamente; porque mantiene asimismo el carácter de juicio entre partes que el recurso contencioso-administrativo tiene y su doble finalidad de garantía individual y control del sometimiento de la Administración al derecho, y porque se ha querido conservar, conscientemente, todo aquello que en la práctica ha funcionado bien, de conformidad con los imperativos constitucionales.
+No obstante, la trascendencia y amplitud de las transformaciones a las que la institución debe acomodarse hacían inevitable una revisión general de su régimen jurídico, imposible de abordar mediante simples retoques de la legislación anterior. Además, la reforma no sólo pretende responder a los retos de nuestro tiempo, sino que, en la medida de lo posible y con la necesaria prudencia, mira al futuro e introduce aquí y allá preceptos y cláusulas generales que a la doctrina y a la jurisprudencia corresponde dotar de contenido preciso, con el fin de perfeccionar el funcionamiento de la Jurisdicción.
+II. Ámbito y extensión de la Jurisdicción Contencioso-administrativa
+Fiel al propósito de no alterar más de lo necesario la sistemática de la Ley anterior, el nuevo texto legal comienza definiendo el ámbito propio, el alcance y los límites de la Jurisdicción Contencioso-administrativa.
+Respetando la tradición y de conformidad con el artículo 106.1 de la Constitución, se le asigna el control de la potestad reglamentaria y de la legalidad de la actuación administrativa sujeta a Derecho Administrativo. Sin embargo, la Ley incorpora a la definición del ámbito de la Jurisdicción ciertas novedades, en parte obligadas y todas ellas trascendentales.
+En primer lugar, era necesario actualizar el concepto de Administración pública válido a los efectos de la Ley, en atención a los cambios organizativos que se han venido produciendo y en conexión con lo que disponen otras Leyes. También era imprescindible confirmar en ésta la sujeción al enjuiciamiento de la Jurisdicción Contencioso-administrativa de actos y disposiciones emanados de otros órganos públicos que no forman parte de la Administración, cuando dichos actos y disposiciones tienen, por su contenido y efectos, una naturaleza materialmente administrativa. Sin intención de inmiscuirse en ningún debate dogmático, que no es tarea del legislador, la Ley atiende a un problema práctico, consistente en asegurar la tutela judicial de quienes resulten afectados en sus derechos o intereses por dichos actos y disposiciones, en casi todo semejantes a los que emanan de las Administraciones públicas.
+En segundo término, es evidente que a la altura de nuestro tiempo histórico el ámbito material de la Jurisdicción quedaría muy incompleto si aquélla se limitara a enjuiciar las pretensiones que se deduzcan en relación con las disposiciones de rango inferior a la Ley y con los actos y contratos administrativos en sentido estricto.
+Lo que realmente importa y lo que justifica la existencia de la propia Jurisdicción Contencioso-administrativa es asegurar, en beneficio de los interesados y del interés general, el exacto sometimiento de la Administración al derecho en todas las actuaciones que realiza en su condición de poder público y en uso de las prerrogativas que como tal le corresponde. No toda la actuación administrativa, como es notorio, se expresa a través de reglamentos, actos administrativos o contratos públicos, sino que la actividad prestacional, las actividades negociables de diverso tipo, las actuaciones materiales, las inactividades u omisiones de actuaciones debidas expresan también la voluntad de la Administración, que ha de estar sometida en todo caso al imperio de la ley. La imposibilidad legal de controlar mediante los recursos contencioso-administrativos estas otras manifestaciones de la acción administrativa, desde hace tiempo criticada, resulta ya injustificable, tanto a la luz de los principios constitucionales como en virtud de la crecida importancia cuantitativa y cualitativa de tales manifestaciones.
+Por eso la nueva Ley somete a control de la Jurisdicción la actividad de la Administración pública de cualquier clase que esté sujeta al Derecho Administrativo, articulando para ello las acciones procesales oportunas.
+En esta línea, la Ley precisa la competencia del orden jurisdiccional contencioso-administrativo para conocer de las cuestiones que se susciten en relación no sólo con los contratos administrativos, sino también con los actos separables de preparación y adjudicación de los demás contratos sujetos a la legislación de contratos de las Administraciones públicas. Se trata, en definitiva, de adecuar la vía contencioso-administrativa a la legislación de contratos, evitando que la pura y simple aplicación del Derecho privado en actuaciones directamente conectadas a fines de utilidad pública se realice, cualquiera que sean las razones que la determinen, en infracción de los principios generales que han de regir, por imperativo constitucional y del Derecho comunitario europeo, el comportamiento contractual de los sujetos públicos. La garantía de la necesaria observancia de tales principios, muy distintos de los que rigen la contratación puramente privada, debe corresponder, como es natural, a la Jurisdicción Contencioso-administrativa.
+Algo parecido debe decirse de las cuestiones que se susciten en relación con la responsabilidad patrimonial de la Administración pública. Los principios de su peculiar régimen jurídico, que tiene cobertura constitucional, son de naturaleza pública y hoy en día la Ley impone que en todo caso la responsabilidad se exija a través de un mismo tipo de procedimiento administrativo. Por eso parece muy conveniente unificar la competencia para conocer de este tipo de asuntos en la Jurisdicción Contencioso-administrativa, evitando la dispersión de acciones que actualmente existe y garantizando la uniformidad jurisprudencial, salvo, como es lógico, en aquellos casos en que la responsabilidad derive de la comisión de una infracción penal.
+La delimitación del ámbito material de la Jurisdicción lleva también a precisar algunas exclusiones. La nueva Ley respeta en tal sentido la atribución de ciertas competencias relacionadas con la actividad administrativa a otros órdenes jurisdiccionales que establecen otras Leyes, en su mayor parte por razones pragmáticas, y tiene en cuenta lo dispuesto por la más reciente legislación sobre los conflictos jurisdiccionales y de atribuciones. En cambio, la Ley no recoge ya, entre estas exclusiones, la relativa a los llamados actos políticos del Gobierno, a que se refería la Ley de 1956.
+Sobre este último aspecto conviene hacer alguna precisión. La Ley parte del principio de sometimiento pleno de los poderes públicos al ordenamiento jurídico, verdadera cláusula regia del Estado de Derecho. Semejante principio es incompatible con el reconocimiento de cualquier categoría genérica de actos de autoridad -llámense actos políticos, de Gobierno, o de dirección política excluida «per se» del control jurisdiccional. Sería ciertamente un contrasentido que una Ley que pretende adecuar el régimen legal de la Jurisdicción Contencioso-administrativa a la letra y al espíritu de la Constitución, llevase a cabo la introducción de toda una esfera de actuación gubernamental inmune al derecho. En realidad, el propio concepto de «acto político» se halla hoy en franca retirada en el Derecho público europeo. Los intentos encaminados a mantenerlo, ya sea delimitando genéricamente un ámbito en la actuación del poder ejecutivo regido sólo por el Derecho Constitucional, y exento del control de la Jurisdicción Contencioso-administrativa, ya sea estableciendo una lista de supuestos excluidos del control judicial, resultan inadmisibles en un Estado de Derecho.
+Por el contrario, y por si alguna duda pudiera caber al respecto, la Ley señala -en términos positivos una serie de aspectos sobre los que en todo caso siempre será posible el control judicial, por amplia que sea la discrecionalidad de la resolución gubernamental: los derechos fundamentales, los elementos reglados del acto y la determinación de las indemnizaciones procedentes.
+III. Los órganos de la Jurisdicción y sus competencias
+Dado que, como se ha expuesto, la Jurisdicción Contencioso-administrativa se enfrenta a un gravísimo problema por la avalancha creciente de recursos, es obvio que la reforma de sus aspectos organizativos debía considerarse prioritaria.
+La novedad más importante en este capítulo consiste en la regulación de las competencias de los Juzgados de lo Contencioso-administrativo. La creación de estos órganos judiciales, que previó la Ley Orgánica del Poder Judicial, fue recibida en su día con división de opiniones.
+Si, por un lado, parecía imprescindible descongestionar a los Tribunales de lo Contencioso-administrativo de un buen número de asuntos, por otro surgieron dudas acerca de la idoneidad de los Juzgados, órganos unipersonales, para afrontar el ejercicio de las competencias que habrían de corresponderles en virtud de la cláusula general establecida en la citada Ley Orgánica.
+Ciertamente, la complejidad técnica de muchos de los asuntos y la trascendencia política de otros que habrían de enjuiciar a tenor de dicha cláusula ha dado origen a una larga controversia, que era necesario resolver para implantar definitivamente los Juzgados.
+La presente reforma aborda el problema con decisión y con cautela a la vez. Define la competencia de los Juzgados mediante un sistema de lista tasada. En la elaboración de esta lista se ha tenido en cuenta la conveniencia de atribuir a estos órganos unipersonales un conjunto de competencias relativamente uniformes y de menor trascendencia económica y social, pero que cubren un elevado porcentaje de los recursos que cotidianamente se interponen ante los órganos de la Jurisdicción. De esta manera es posible aportar remedio a la saturación que soportan los Tribunales Superiores de Justicia, que se verán descargados de buen número de pleitos, aunque conservan la competencia para juzgar en primera instancia los más importantes «a priori» y toda la variedad de los que se incluyen en la cláusula residual, que ahora se traslada a su ámbito competencial.
+Por su parte, los Juzgados obtienen un conjunto de competencias que pueden razonablemente ejercer y que parecen suficientes para consolidar la experiencia. Nada impide, antes al contrario, que tras un primer período de rodaje la lista de competencias se revise a la vista de esa experiencia. De todas formas, es evidente que el éxito de la reforma depende más que nada de la pronta y adecuada selección y formación de los titulares de los Juzgados.
+No termina aquí la reforma en cuanto a órganos unipersonales. Se regulan también las competencias de los Juzgados Centrales de lo Contencioso-administrativo, con jurisdicción en toda España, para contribuir a paliar la sobrecarga de trabajo de órganos jurisdiccionales actualmente muy saturados.
+IV. Las partes
+La regulación de las partes que se contenía en la Ley de 27 de diciembre de 1956, fundada en un criterio sustancialmente individualista con ciertos ribetes corporativos, ha quedado hace tiempo superada y ha venido siendo corregida por otras normas posteriores, además de reinterpretada por la jurisprudencia en un sentido muy distinto al que originariamente tenía. La nueva Ley se limita a recoger las sucesivas modificaciones, clarificando algunos puntos todavía oscuros y sistematizando los preceptos de la manera más sencilla posible. Lo que se pretende es que nadie, persona física o jurídica, privada o pública, que tenga capacidad jurídica suficiente y sea titular de un interés legítimo que tutelar, concepto comprensivo de los derechos subjetivos pero más amplio, pueda verse privado del acceso a la justicia.
+Sobre esta base, que ya se deduce de la Constitución, las novedades de la Ley tienen un carácter esencialmente técnico. Las más significativas se incorporan en los preceptos que regulan la legitimación. En cuanto a la activa, se han reducido a sistema todas las normas generales o especiales que pueden considerarse vigentes y conformes con el criterio elegido. El enunciado de supuestos da idea, en cualquier caso, de la evolución que ha experimentado el recurso contencioso-administrativo, hoy en día instrumento útil para una pluralidad de fines: la defensa del interés personal, la de los intereses colectivos y cualesquiera otros legítimos, incluidos los de naturaleza política, mecanismo de control de legalidad de las Administraciones inferiores, instrumento de defensa de su autonomía, cauce para la defensa de derechos y libertades encomendados a ciertas instituciones públicas y para la del interés objetivo de la ley en los supuestos legales de acción popular, entre otros.
+Por lo que se refiere a la legitimación pasiva, el criterio de fondo es el mismo y conduce a simplificar las reglas anteriores. En particular, carece de sentido mantener la figura del coadyuvante, cuando ninguna diferencia hay ya entre la legitimación por derecho subjetivo y por interés legítimo. En cambio, ha parecido necesario precisar un poco más qué Administración tiene carácter de demandada en caso de impugnación de actos sujetos a fiscalización previa y, sobre todo, atribuir también este carácter, en caso de impugnación indirecta de una disposición general, a la Administración autora de la misma, aunque no lo sea de la actuación directamente recurrida.
+Esta previsión viene a dar cauce procesal al interés de cada Administración en defender en todo caso la legalidad de las normas que aprueba y constituye una de las especialidades de los recursos que versan sobre la conformidad a derecho de disposiciones generales, que se desgranan a lo largo de todo el articulado.
+En cuanto a la representación y defensa, se distingue entre órganos colegiados y unipersonales. En los primeros, procurador y abogado son obligatorios; en los segundos, el procurador es potestativo y el abogado obligatorio. Los funcionarios públicos podrán comparecer por sí mismos en cuestiones de personal que no impliquen separación de empleados públicos inamovibles.
+Por lo que atañe a la representación y defensa de las Administraciones públicas y órganos constitucionales, la Ley se remite a lo que disponen la Ley Orgánica del Poder Judicial y la Ley de Asistencia Jurídica al Estado e Instituciones Públicas para todo tipo de procesos, así como a las normas que sobre la materia y en el marco de sus competencias hayan dictado las Comunidades Autónomas, pues no hay en los contencioso-administrativos ninguna peculiaridad que merezca recogerse en norma con rango de ley.
+V. Objeto del recurso
+Los escasos preceptos incluidos en los dos primeros capítulos del Título III contienen algunas de las innovaciones más importantes que la Ley introduce en nuestro sistema de control judicial de la Administración. Se trata nada menos que de superar la tradicional y restringida concepción del recurso contencioso-administrativo como una revisión judicial de actos administrativos previos, es decir, como un recurso al acto, y de abrir definitivamente las puertas para obtener justicia frente a cualquier comportamiento ilícito de la Administración.
+Pero al mismo tiempo, es necesario diferenciar las pretensiones que pueden deducirse en cada caso, pues es evidente que la diversidad de actuaciones y omisiones que pueden ser objeto del recurso no permiten seguir configurando éste como una acción procesal uniforme.
+Sin merma de sus características comunes, empezando por el «nomen iuris», el recurso admite modulaciones de relieve en función del objeto sobre el que recae.
+Cohonestar los elementos comunes y los diferenciales en un esquema simple y flexible es otro de los objetivos de la reforma.
+Por razón de su objeto se establecen cuatro modalidades de recurso: el tradicional dirigido contra actos administrativos, ya sean expresos o presuntos; el que, de manera directa o indirecta, versa sobre la legalidad de alguna disposición general, que precisa de algunas reglas especiales; el recurso contra la inactividad de la Administración y el que se interpone contra actuaciones materiales constitutivas de vía de hecho.
+Del recurso contra actos, el mejor modelado en el período precedente, poco hay que renovar. La Ley, no obstante, depura el ordenamiento anterior de algunas normas limitativas que carecen de justificación, aunque mantiene la inadmisibilidad del recurso contra actos confirmatorios de otros firmes y consentidos. Esta última regla se apoya en elementales razones de seguridad jurídica, que no sólo deben tenerse en cuenta en favor del perjudicado por un acto administrativo, sino también en favor del interés general y de quienes puedan resultar individual o colectivamente beneficiados o amparados por él. Por lo demás, el relativo sacrificio del acceso a la tutela judicial que se mantiene por dicha causa resulta hoy menos gravoso que antaño, si se tiene en cuenta la reciente ampliación de los plazos del recurso administrativo ordinario, la falta de eficacia que la legislación en vigor atribuye, sin límite temporal alguno, a las notificaciones defectuosas e inclusive la ampliación de las facultades de revisión de oficio. Conservar esa excepción es una opción razonable y equilibrada.
+En cambio, ha parecido necesario destacar en el texto de la Ley las peculiaridades de los recursos en que se enjuicia la conformidad a derecho de las disposiciones generales, hasta ahora no suficientemente consideradas.
+En realidad, los efectos que tienen estos tipos de recurso y, en particular, la declaración de ilegalidad de una disposición general por cualquier vía que se produzca, no pueden compararse, en términos generales, con los del recurso contra actos. La diferencia asume cada vez mayor relieve en la práctica, si se tiene en cuenta la extensión y relevancia que en el polifacético Estado moderno ha asumido la producción reglamentaria.
+La nueva Ley asegura las más amplias posibilidades de someter a control judicial la legalidad de las disposiciones generales, preservando los que se han dado en llamar recursos directo e indirecto y eliminando todo rastro de las limitaciones para recurrir que estableció la legislación anterior. Ahora bien, al mismo tiempo procura que la impugnación de las disposiciones generales se tramite con celeridad y que aboque siempre a una decisión judicial clara y única, de efectos generales, con el fin de evitar innecesarios vacíos normativos y situaciones de inseguridad o interinidad en torno a la validez y vigencia de las normas. Este criterio se plasma, entre otras muchas reglas de detalle, en el tratamiento procesal que se da al denominado recurso indirecto.
+Hasta ahora ha existido una cierta confusión en la teoría jurídica y en la práctica judicial sobre los efectos de esta clase de recurso, cuando la norma que aplica el acto impugnado es considerada contraria a derecho.
+Y, lo que es más grave, el carácter difuso de este tipo de control ha generado situaciones de inseguridad jurídica y desigualdad manifiesta, pues según el criterio de cada órgano judicial y a falta de una instancia unificadora, que no siempre existe, determinadas disposiciones se aplican en unos casos o ámbitos y se inaplican en otros.
+La solución pasa por unificar la decisión judicial sobre la legalidad de las disposiciones generales en un solo órgano, el que en cada caso es competente para conocer del recurso directo contra ellas, dotando siempre a esa decisión de efectos «erga omnes». De ahí que, cuando sea ese mismo órgano el que conoce de un recurso indirecto, la Ley disponga que declarará la validez o nulidad de la disposición general. Para cuando el órgano competente en un recurso de este tipo sea otro distinto del que puede conocer del recurso directo contra la disposición de que se trate, la Ley introduce la cuestión de ilegalidad.
+La regulación de este procedimiento ha tenido en cuenta la experiencia de la cuestión de inconstitucionalidad prevista por el artículo 163 de la Constitución y se inspira parcialmente en su mecánica; las analogías acaban aquí. La cuestión de ilegalidad no tiene otro significado que el de un remedio técnico tendente a reforzar la seguridad jurídica, que no impide el enjuiciamiento de las normas por el Juez o Tribunal competente para decidir sobre la legalidad del acto aplicativo del reglamento cuya ilegalidad se aduce, pero que pretende alcanzar una decisión unitaria a todo eventual pronunciamiento indirecto sobre su validez.
+Largamente reclamado por la doctrina jurídica, la Ley crea un recurso contra la inactividad de la Administración, que tiene precedentes en otros ordenamientos europeos. El recurso se dirige a obtener de la Administración, mediante la correspondiente sentencia de condena, una prestación material debida o la adopción de un acto expreso en procedimientos iniciados de oficio, allí donde no juega el mecanismo del silencio administrativo. De esta manera se otorga un instrumento jurídico al ciudadano para combatir la pasividad y las dilaciones administrativas. Claro está que este remedio no permite a los órganos judiciales sustituir a la Administración en aspectos de su actividad no prefigurados por el derecho, incluida la discrecionalidad en el «quando» de una decisión o de una actuación material, ni les faculta para traducir en mandatos precisos las genéricas e indeterminadas habilitaciones u obligaciones legales de creación de servicios o realización de actividades, pues en tal caso estarían invadiendo las funciones propias de aquélla. De ahí que la Ley se refiera siempre a prestaciones concretas y actos que tengan un plazo legal para su adopción y de ahí que la eventual sentencia de condena haya de ordenar estrictamente el cumplimiento de las obligaciones administrativas en los concretos términos en que estén establecidas. El recurso contencioso-administrativo, por su naturaleza, no puede poner remedio a todos los casos de indolencia, lentitud e ineficacia administrativas, sino tan sólo garantizar el exacto cumplimiento de la legalidad.
+Otra novedad destacable es el recurso contra las actuaciones materiales en vía de hecho. Mediante este recurso se pueden combatir aquellas actuaciones materiales de la Administración que carecen de la necesaria cobertura jurídica y lesionan derechos e intereses legítimos de cualquier clase. La acción tiene una naturaleza declarativa y de condena y a la vez, en cierto modo, interdictal, a cuyo efecto no puede dejar de relacionarse con la regulación de las medidas cautelares. Por razón de la materia, la competencia del orden jurisdiccional contencioso-administrativo para conocer de estos recursos se explica sobradamente.
+En el caso del recurso contra la inactividad de la Administración, la Ley establece una reclamación previa en sede administrativa; en el del recurso contra la vía de hecho, un requerimiento previo de carácter potestativo, asimismo en sede administrativa. Pero eso no convierte a estos recursos en procesos contra la desestimación, en su caso por silencio, de tales reclamaciones o requerimientos. Ni, como se ha dicho, estas nuevas acciones se atienen al tradicional carácter revisor del recurso contencioso-administrativo, ni puede considerarse que la falta de estimación, total o parcial, de la reclamación o el requerimiento constituyan auténticos actos administrativos, expresos o presuntos. Lo que se persigue es sencillamente dar a la Administración la oportunidad de resolver el conflicto y de evitar la intervención judicial.
+En caso contrario, lo que se impugna sin más trámites es, directamente, la inactividad o actuación material correspondiente, cuyas circunstancias delimitan el objeto material del proceso.
+El resto de los preceptos del Título III se ciñe a introducir algunas mejoras técnicas. La preocupación por agilizar la tramitación de las causas es dominante y, en particular, explica la regla que permite al Juez o Tribunal suspender la tramitación de los recursos masivos que tengan idéntico objeto y resolver con carácter preferente uno o varios de ellos. De esta manera se puede eludir la reiteración de trámites, pues los efectos de la primera o primeras sentencias resultantes podrían aplicarse a los demás casos en vía de ejecución o, eventualmente, podrían inducir al desistimiento de otros recursos.
+VI. El procedimiento
+1. La regulación del procedimiento contencioso-administrativo ordinario se basa en el esquema de la legislación anterior. Sin embargo, las modificaciones son muy numerosas, pues, por una parte, se han tenido muy en cuenta la experiencia práctica y las aportaciones doctrinales y, por otra, se han establecido normas especiales para diferentes tipos de recursos, que no precisan de un procedimiento especial. Basado en principios comunes y en un mismo esquema procesal, la Ley arbitra un procedimiento dúctil, que ofrece respuestas parcialmente distintas para cada supuesto. En todo momento se ha buscado conciliar las garantías de eficacia y celeridad del proceso con las de defensa de las partes.
+Constituye una novedad importante la introducción de un procedimiento abreviado para determinadas materias de cuantía determinada limitada, basado en el principio de oralidad.
+Las garantías que la Ley establece para lograr la pronta y completa remisión del expediente administrativo al órgano judicial han sido reformadas con la intención de poner definitivamente coto a prácticas administrativas injustificables y demasiado extendidas, que alargan la tramitación de muchas causas. Incompatibles con los deberes que la Administración tiene para con los ciudadanos y con el de colaboración con la Administración de Justicia, es necesario que dichas prácticas queden desterradas para siempre.
+En la línea de procurar la rápida resolución de los procesos, la Ley arbitra varias facultades en manos de las partes o del órgano judicial, tales como la posibilidad de iniciar el recurso mediante demanda en algunos casos, la de solicitar que se falle sin necesidad de prueba, vista o conclusiones o la de llevar a cabo un intento de conciliación. Del criterio de los Jueces y Magistrados y de la colaboración de las partes dependerá que estas medidas alcancen sus fines.
+Por lo que se refiere a la sentencia, la Ley sigue de cerca la regulación anterior. En particular, se mantiene la referencia de la conformidad o disconformidad de la disposición, actuación o acto genéricamente al derecho, al ordenamiento jurídico, por entender -en frase de la exposición de motivos de la Ley de1956 que reconducirla simplemente a las leyes equivale a olvidar que lo jurídico no se encierra y circunscribe a las disposiciones escritas, sino que se extiende a los principios y a la normatividad inmanente en la naturaleza de las instituciones. Añade, no obstante, algunas prescripciones sobre el contenido y efectos de algunos fallos estimatorios: los que condenen a la Administración a hacer algo, los que estimen pretensiones de resarcimiento de daños y perjuicios, los que anulen disposiciones generales y los que versen sobre actuaciones discrecionales.
+En relación con estos últimos, la Ley recuerda la naturaleza de control en derecho que tiene el recurso contencioso-administrativo y de ahí que precise que no pueden los Jueces y Tribunales determinar el contenido discrecional de los actos que anulen. Como es lógico, esta regla no pretende coartar en absoluto la potestad de los órganos judiciales para extender su control de los actos discrecionales hasta donde lo exija el sometimiento de la Administración al derecho, es decir mediante el enjuiciamiento de los elementos reglados de dichos actos y la garantía de los límites jurídicos de la discrecionalidad.
+2. Por lo que se refiere a los recursos contra las resoluciones judiciales, la Ley se atiene en general a los que dispuso la reciente Ley 10/1992, de 30 de abril, de Medidas Urgentes de Reforma Procesal. Pero introduce algunos cambios necesarios, motivados unos por la creación de los Juzgados de lo Contencioso-administrativo, que conduce a reimplantar los recursos de apelación contra sus resoluciones, y otros por la experiencia, breve pero significativa, derivada de aquella última reforma procesal.
+El nuevo recurso de apelación ordinario contra las sentencias de los Juzgados no tiene, sin embargo, carácter universal. No siendo la doble instancia en todo tipo de procesos una exigencia constitucional, ha parecido conveniente descargar a los Tribunales Superiores de Justicia de conocer también en segunda instancia de los asuntos de menor entidad, para resolver el agobio que hoy padecen. Sin embargo, la apelación procede siempre que el asunto no ha sido resuelto en cuanto al fondo, en garantía del contenido normal del derecho a la tutela judicial efectiva, así como en el procedimiento para la protección de los derechos fundamentales, en los litigios entre Administraciones y cuando se resuelve la impugnación indirecta de disposiciones generales, por la mayor trascendencia que «a priori» tienen todos estos asuntos.
+La Ley eleva sustancialmente la cuantía de los que tienen acceso a la casación ordinaria y en menor medida la de los que pueden acceder a la casación para unificación de doctrina. Aunque rigurosa, la medida es necesaria a la vista de la experiencia de los últimos años, pues las cuantías fijadas por la Ley 10/1992 no han permitido reducir la abrumadora carga de trabajo que pesa sobre la Sala de lo Contencioso-administrativo del Tribunal Supremo. Si bien las nuevas reglas eliminan la posibilidad de doble instancia en muchos supuestos, la alternativa sería consentir el agravamiento progresivo de aquella carga, ya hoy muy superior a lo que sería razonable. Los efectos de tal situación son mucho más perniciosos, pues se corre el riesgo de alargar la resolución de los recursos pendientes ante el Tribunal Supremo hasta extremos totalmente incompatibles con el derecho a una justicia efectiva. Por otro lado, no es posible aumentar sustancialmente el número de Secciones y Magistrados del Alto Tribunal, que ha de poder atender a su importantísima función objetiva de fijar la doctrina jurisprudencial.
+Se regulan dos modalidades de recurso para la unificación de doctrina, cuyo conocimiento corresponderá, respectivamente, al Tribunal Supremo y a los Tribunales Superiores de Justicia.
+Se ha considerado oportuno mantener el recurso de casación en interés de la Ley, que se adapta a la creación de los Juzgados de lo Contencioso-administrativo y que, junto al tradicional recurso de revisión, cierra el sistema de impugnaciones en este orden jurisdiccional.
+3. La Ley ha realizado un importante esfuerzo para incrementar las garantías de ejecución de las sentencias, desde siempre una de las zonas grises de nuestro sistema contencioso-administrativo. El punto de partida reside en la imperiosa obligación de cumplir las resoluciones judiciales y colaborar en la ejecución de lo resuelto, que la Constitución prescribe, y en la potestad de los órganos judiciales de hacer ejecutar lo juzgado, que la propia Constitución les atribuye. Prescripciones que entroncan directamente con el derecho a la tutela judicial efectiva, ya que, como viene señalando la jurisprudencia, ese derecho no se satisface mediante una justicia meramente teórica, sino que conlleva el derecho a la ejecución puntual de lo fallado en sus propios términos. La negativa, expresa o implícita, a cumplir una resolución judicial constituye un atentado a la Constitución frente al que no caben excusas.
+La Ley Orgánica del Poder Judicial, que eliminó la potestad gubernativa de suspensión e inejecución de sentencias, abrió paso, en cambio, a la expropiación de los derechos reconocidos por éstas frente a la Administración. Sin embargo, no especificó las causas de utilidad pública e interés social que habrían de legitimar el ejercicio de esta potestad expropiatoria. La Ley atiende a esta necesidad, concretando tres supuestos muy determinados, entre los que debe destacarse el de la preservación del libre ejercicio de los derechos fundamentales y libertades públicas.
+A salvo lo anterior, la Ley regula la forma de ejecutar las sentencias que condenan a la Administración al pago de cantidad, sin eliminar la prerrogativa de inembargabilidad de los bienes y derechos de la Hacienda Pública, ya que dicha modificación no puede abordarse aisladamente en la Ley Jurisdiccional, sino -en su caso a través de una nueva regulación, completa y sistemática, del estatuto jurídico de los bienes públicos. Pero compensa al interesado económicamente frente a cualquier retraso injustificado; previene frente a las ejecuciones aparentes, declarando la nulidad de pleno derecho de los actos contrarios a los pronunciamientos y estableciendo una forma rápida para anularlos, y especifica las formas posibles de ejecución forzosa de las sentencias que condenan a la Administración a realizar una actividad o dictar un acto y otorga a los órganos judiciales potestades sancionadoras para lograr la efectividad de lo mandado, aparte las consecuencias que se deduzcan en el ámbito penal.
+Dos novedades importantes completan este capítulo de la Ley. La primera se refiere a la posibilidad de extender los efectos de una sentencia firme en materia de personal y en materia tributaria a personas distintas de las partes que se encuentren en situación idéntica. Aun regulada con la necesaria cautela, la apertura puede ahorrar la reiteración de múltiples procesos innecesarios contra los llamados actos en masa. La segunda consiste en otorgar al acuerdo de conciliación judicial la misma fuerza que a la sentencia a efectos de ejecución forzosa, lo que refuerza el interés de la Ley por esta forma de terminación del procedimiento.
+4. De los recursos especiales se ha suprimido el de personal, aunque subsisten algunas especialidades relativas a esta materia a lo largo del articulado. Se trae al texto de la Ley Jurisdiccional la regulación del proceso especial en materia de derechos fundamentales, con el mismo carácter preferente y urgente que ya tiene y con importantes variaciones sobre la normativa vigente, cuyo carácter restrictivo ha conducido, en la práctica, a un importante deterioro de esta vía procesal. La más relevante novedad es el tratamiento del objeto del recurso -y, por tanto, de la sentencia de acuerdo con el fundamento común de los procesos contencioso-administrativos, esto es, contemplando la lesión de los derechos susceptibles de amparo desde la perspectiva de la conformidad de la actuación administrativa con el ordenamiento jurídico. La Ley pretende superar, por tanto, la rígida distinción entre legalidad ordinaria y derechos fundamentales, por entender que la protección del derecho fundamental o libertad pública no será factible, en muchos casos, si no se tiene en cuenta el desarrollo legal de los mismos.
+El procedimiento de la cuestión de ilegalidad, que se inicia de oficio, aúna la garantía de defensa de las partes con la celeridad que le es inherente.
+Por último, el procedimiento en caso de suspensión administrativa previa de acuerdos se adapta a los supuestos legales de suspensión previstos en la legislación vigente, al tiempo que establece las reglas que permiten su rápida tramitación.
+5. De las disposiciones comunes sobresale la regulación de las medidas cautelares. El espectacular desarrollo de estas medidas en la jurisprudencia y la práctica procesal de los últimos años ha llegado a desbordar las moderadas previsiones de la legislación anterior, certificando su antigüedad en este punto. La nueva Ley actualiza considerablemente la regulación de la materia, amplía los tipos de medidas cautelares posibles y determina los criterios que han de servir de guía a su adopción.
+Se parte de la base de que la justicia cautelar forma parte del derecho a la tutela efectiva, tal como tiene declarado la jurisprudencia más reciente, por lo que la adopción de medidas provisionales que permitan asegurar el resultado del proceso no debe contemplarse como una excepción, sino como facultad que el órgano judicial puede ejercitar siempre que resulte necesario.
+La Ley aborda esta cuestión mediante una regulación común a todas las medidas cautelares, cualquiera que sea su naturaleza. El criterio para su adopción consiste en que la ejecución del acto o la aplicación de la disposición pueden hacer perder la finalidad del recurso, pero siempre sobre la base de una ponderación suficientemente motivada de todos los intereses en conflicto.
+Además, teniendo en cuenta la experiencia de los últimos años y la mayor amplitud que hoy tiene el objeto del recurso contencioso-administrativo, la suspensión de la disposición o acto recurrido no puede constituir ya la única medida cautelar posible. La Ley introduce en consecuencia la posibilidad de adoptar cualquier medida cautelar, incluso las de carácter positivo. No existen para ello especiales restricciones, dado el fundamento común a todas las medidas cautelares. Corresponderá al Juez o Tribunal determinar las que, según las circunstancias, fuesen necesarias. Se regulan medidas «inaudita parte debitoris» -con comparecencia posterior sobre el levantamiento, mantenimiento o modificación de la medida adoptada-, así como medidas previas a la interposición del recurso en los supuestos de inactividad o vía de hecho.
+
+## TÍTULO I
+
+Del orden jurisdiccional contencioso-administrativo
+
+## CAPÍTULO I
+
+Ámbito
+
+### Artículo 1
+
+Artículo 1.
+1. Los Juzgados y Tribunales del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con la actuación de las Administraciones públicas sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la Ley y con los Decretos legislativos cuando excedan los límites de la delegación.
+2. Se entenderá a estos efectos por Administraciones públicas:
+a) La Administración General del Estado.
+b) Las Administraciones de las Comunidades Autónomas.
+c) Las Entidades que integran la Administración local.
+d) Las Entidades de Derecho público que sean dependientes o estén vinculadas al Estado, las Comunidades Autónomas o las Entidades locales.
+3. Conocerán también de las pretensiones que se deduzcan en relación con:
+a) Los actos y disposiciones en materia de personal, administración y gestión patrimonial sujetos al derecho público adoptados por los órganos competentes del Congreso de los Diputados, del Senado, del Tribunal Constitucional, del Tribunal de Cuentas y del Defensor del Pueblo, así como de las Asambleas Legislativas de las Comunidades Autónomas y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo.
+b) Los actos y disposiciones del Consejo General del Poder Judicial y la actividad administrativa de los órganos de gobierno de los Juzgados y Tribunales, en los términos de la Ley Orgánica del Poder Judicial.
+c) La actuación de la Administración electoral, en los términos previstos en la Ley Orgánica del Régimen Electoral General.
+
+### Artículo 2
+
+Artículo 2.
+El orden jurisdiccional contencioso-administrativo conocerá de las cuestiones que se susciten en relación con:
+a) La protección jurisdiccional de los derechos fundamentales, los elementos reglados y la determinación de las indemnizaciones que fueran procedentes, todo ello en relación con los actos del Gobierno o de los Consejos de Gobierno de las Comunidades Autónomas, cualquiera que fuese la naturaleza de dichos actos.
+b) Los contratos administrativos y los actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación de las Administraciones públicas.
+c) Los actos y disposiciones de las Corporaciones de Derecho público, adoptados en el ejercicio de funciones públicas.
+d) Los actos administrativos de control o fiscalización dictados por la Administración concedente, respecto de los dictados por los concesionarios de los servicios públicos que impliquen el ejercicio de potestades administrativas conferidas a los mismos, así como los actos de los propios concesionarios cuando puedan ser recurridos directamente ante este orden jurisdiccional de conformidad con la legislación sectorial correspondiente.
+e) La responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, no pudiendo ser demandadas aquellas por este motivo ante los órdenes jurisdiccionales civil o social, aun cuando en la producción del daño concurran con particulares o cuenten con un seguro de responsabilidad.
+f) Las restantes materias que le atribuya expresamente una Ley.
+Se modifica la letra e) por la disposición adicional 14.1 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 3
+
+Artículo 3.
+No corresponden al orden jurisdiccional contencioso-administrativo:
+a) Las cuestiones expresamente atribuidas a los órdenes jurisdiccionales civil, penal y social, aunque estén relacionadas con la actividad de la Administración pública.
+b) El recurso contencioso-disciplinario militar.
+c) Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración pública y los conflictos de atribuciones entre órganos de una misma Administración.
+d) Los recursos directos o indirectos que se interpongan contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya, que corresponderán, en exclusiva, al Tribunal Constitucional en los términos establecidos por la disposición adicional quinta de su Ley Orgánica.
+Se añade la letra d) por la disposición adicional única de la Ley Orgánica 1/2010, de 19 de febrero. Ref. BOE-A-2010-2739.
+
+### Artículo 4
+
+Artículo 4.
+1. La competencia del orden jurisdiccional contencioso-administrativo se extiende al conocimiento y decisión de las cuestiones prejudiciales e incidentales no pertenecientes al orden administrativo, directamente relacionadas con un recurso contencioso-administrativo, salvo las de carácter constitucional y penal y lo dispuesto en los Tratados internacionales.
+2. La decisión que se pronuncie no producirá efectos fuera del proceso en que se dicte y no vinculará al orden jurisdiccional correspondiente.
+
+### Artículo 5
+
+Artículo 5.
+1. La Jurisdicción Contencioso-administrativa es improrrogable.
+2. Los órganos de este orden jurisdiccional apreciarán de oficio la falta de jurisdicción y resolverán sobre la misma, previa audiencia de las partes y del Ministerio Fiscal por plazo común de diez días.
+3. En el supuesto previsto en el apartado anterior, si la nueva demanda que se formule ante el juzgado o tribunal competente del orden jurisdiccional indicado en la referida resolución se presenta en el plazo de un mes desde que fuera notificada, se entenderá presentada en la fecha en que se inició el plazo para interponer el recurso contencioso-administrativo, si se hubiere formulado éste siguiendo las indicaciones de la notificación del acto o ésta fuese defectuosa. Al objeto de acreditar tales extremos la parte interesada podrá solicitar testimonio de los particulares necesarios al órgano judicial que haya dictado la resolución a que se refiere el apartado anterior.
+Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.1 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. En todo caso, esta declaración será fundada y se efectuará indicando siempre el concreto orden jurisdiccional que se estime competente. Si la parte demandante se personare ante el mismo en el plazo de un mes desde la notificación de la resolución que declare la falta de jurisdicción, se entenderá haberlo efectuado en la fecha en que se inició el plazo para interponer el recurso contencioso-administrativo, si hubiere formulado éste siguiendo las indicaciones de la notificación del acto o ésta fuese defectuosa."
+Se modifica el apartado 3 por el art. 102.1 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+## CAPÍTULO II
+
+Órganos y competencias
+
+### Artículo 6
+
+Artículo 6.
+El orden jurisdiccional contencioso-administrativo se halla integrado por los siguientes órganos:
+a) Juzgados de lo Contencioso-administrativo.
+b) Juzgados Centrales de lo Contencioso-administrativo.
+c) Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia.
+d) Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+e) Sala de lo Contencioso-administrativo del Tribunal Supremo.
+
+### Artículo 7
+
+Artículo 7.
+1. Los órganos del orden jurisdiccional contencioso-administrativo que fueren competentes para conocer de un asunto lo serán también para todas sus incidencias y para hacer ejecutar las sentencias que dictaren en los términos señalados en el artículo 103.1.
+2. La competencia de los Juzgados y Salas de lo Contencioso-administrativo no será prorrogable y deberá ser apreciada por los mismos, incluso de oficio, previa audiencia de las partes y del Ministerio Fiscal por plazo común de diez días.
+3. La declaración de incompetencia adoptará la forma de auto y deberá efectuarse antes de la sentencia, remitiéndose las actuaciones al órgano de la jurisdicción que se estime competente para que ante él siga el curso del proceso, con emplazamiento a las partes para que en el plazo de diez días comparezcan ante el mismo. Si la competencia pudiera corresponder a un tribunal superior en grado, se acompañará una exposición razonada, estándose a lo que resuelva éste.
+Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.2 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. La declaración de incompetencia adoptará la forma de auto y deberá efectuarse antes de la sentencia, remitiéndose las actuaciones al órgano de la Jurisdicción que se estime competente para que ante él siga el curso del proceso. Si la competencia pudiera corresponder a un Tribunal superior en grado, se acompañará una exposición razonada, estándose a lo que resuelva éste."
+Se modifica el apartado 3 por el art. 102.2 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+### Artículo 8
+
+Artículo 8.
+1. Los Juzgados de lo Contencioso-administrativo conocerán, en única o primera instancia según lo dispuesto en esta ley, de los recursos que se deduzcan frente a los actos de las entidades locales o de las entidades y corporaciones dependientes o vinculadas a las mismas, excluidas las impugnaciones de cualquier clase de instrumentos de planeamiento urbanístico.
+2. Conocerán, asimismo, en única o primera instancia de los recursos que se deduzcan frente a los actos administrativos de la Administración de las comunidades autónomas, salvo cuando procedan del respectivo Consejo de Gobierno, cuando tengan por objeto:
+a) Cuestiones de personal, salvo que se refieran al nacimiento o extinción de la relación de servicio de funcionarios públicos de carrera.
+b) Las sanciones administrativas que consistan en multas no superiores a 60.000 euros y en ceses de actividades o privación de ejercicio de derechos que no excedan de seis meses.
+c) Las reclamaciones por responsabilidad patrimonial cuya cuantía no exceda de 30.050 euros.
+3. Conocerán en única o primera instancia de los recursos que se deduzcan frente a disposiciones y actos de la Administración periférica del Estado y de las comunidades autónomas, contra los actos de los organismos, entes, entidades o corporaciones de derecho público, cuya competencia no se extienda a todo el territorio nacional y contra las resoluciones de los órganos superiores cuando confirmen íntegramente los dictados por aquéllos en vía de recurso, fiscalización o tutela.
+Se exceptúan los actos de cuantía superior a 60.000 euros dictados por la Administración periférica del Estado y los organismos públicos estatales cuya competencia no se extienda a todo el territorio nacional, o cuando se dicten en ejercicio de sus competencias sobre dominio público, obras públicas del Estado, expropiación forzosa y propiedades especiales.
+4. Conocerán, igualmente, de todas las resoluciones que se dicten en materia de extranjería por la Administración periférica del Estado o por los órganos competentes de las Comunidades Autónomas.
+5. Corresponde conocer a los Juzgados de las impugnaciones contra actos de las Juntas Electorales de Zona y de las formuladas en materia de proclamación de candidaturas y candidatos efectuada por cualquiera de las Juntas Electorales, en los términos previstos en la legislación electoral.
+6. Conocerán también los Juzgados de lo Contencioso-administrativo de las autorizaciones para la entrada en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular, siempre que ello proceda para la ejecución forzosa de actos de la administración pública, salvo que se trate de la ejecución de medidas de protección de menores acordadas por la Entidad Pública competente en la materia.
+Asimismo, corresponderá a los Juzgados de lo Contencioso-administrativo la autorización o ratificación judicial de las medidas adoptadas con arreglo a la legislación sanitaria que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción de derechos fundamentales cuando dichas medidas estén plasmadas en actos administrativos singulares que afecten únicamente a uno o varios particulares concretos e identificados de manera individualizada.
+Además, los Juzgados de lo Contencioso-administrativo conocerán de las autorizaciones para la entrada e inspección de domicilios, locales, terrenos y medios de transporte que haya sido acordada por la Comisión Nacional de los Mercados y la Competencia, cuando, requiriendo dicho acceso e inspección el consentimiento de su titular, este se oponga a ello o exista riesgo de tal oposición.
+Los Juzgados de lo Contencioso-administrativo conocerán también de las autorizaciones para la entrada en domicilios y otros lugares constitucionalmente protegidos, que haya sido acordada por la Administración Tributaria en el marco de una actuación o procedimiento de aplicación de los tributos aún con carácter previo a su inicio formal cuando, requiriendo dicho acceso el consentimiento de su titular, este se oponga a ello o exista riesgo de tal oposición.
+Se modifica el apartado 6 por el art. 12 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-2
+ Se modifica el apartado 6 por la disposición final 2.1 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-2
+ Se modifica el apartado 6 por la disposición final 1 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470.
+ Se modifica el apartado 4 por el art. 3.1 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica el apartado 6 por la disposición adicional 7.1 de la Ley 15/2007, de 3 de julio. Ref. BOE-A-2007-12946.
+ Se modifica por la disposición adicional 14.2 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+ Se añade un segundo párrafo al apartado 5 por la disposición final 14.1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo 9
+
+Artículo 9.
+1. Los Juzgados Centrales de lo Contencioso-administrativo conocerán de los recursos que se deduzcan frente a los actos administrativos que tengan por objeto:
+a) En primera o única instancia en las materias de personal cuando se trate de actos dictados por Ministros y Secretarios de Estado, salvo que confirmen en vía de recurso, fiscalización o tutela, actos dictados por órganos inferiores, o se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera, o a las materias recogidas en el artículo 11.1.a) sobre personal militar.
+b) En única o primera instancia contra los actos de los órganos centrales de la Administración General del Estado en los supuestos previstos en el apartado 2.b) del artículo 8.
+c) En primera o única instancia de los recursos contencioso-administrativos que se interpongan contra las disposiciones generales y contra los actos emanados de los organismos públicos con personalidad jurídica propia y entidades pertenecientes al sector público estatal con competencia en todo el territorio nacional, sin perjuicio de lo dispuesto en el párrafo i) del apartado 1 del artículo 10.
+d) En primera o única instancia, de los recursos contra las resoluciones dictadas por los Ministros y Secretarios de Estado en materia de responsabilidad patrimonial cuando lo reclamado no exceda de 30.050 euros.
+e) En primera instancia, de las resoluciones que acuerden la inadmisión de las peticiones de asilo político.
+f) En única o primera instancia, de las resoluciones que, en vía de fiscalización, sean dictadas por el Comité Español de Disciplina Deportiva en materia de disciplina deportiva.
+Téngase en cuenta que el Comité de Disciplina Deportiva queda suprimido y que todas sus funciones pasan a corresponder al Tribunal Administrativo del Deporte, según se establece en la disposición adicional 4 de la Ley Orgánica 3/2013, de 20, de junio. Ref. BOE-A-2013-6732.
+2. Corresponderá a los Juzgados Centrales de lo Contencioso-Administrativo, la autorización a que se refiere el artículo 8.2 de la Ley 34/2002 así como autorizar la ejecución de los actos adoptados por la Sección Segunda de la Comisión de Propiedad Intelectual para que se interrumpa la prestación de servicios de la sociedad de la información o para que se retiren contenidos que vulneren la propiedad intelectual, en aplicación de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la información y de Comercio Electrónico.
+3. Igualmente conocerán los Juzgados Centrales de lo Contencioso Administrativo del procedimiento previsto en el artículo 12 bis de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos.
+Se añade el apartado 3 por la disposición final 2.1 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+ Se añade el apartado 2 y se numera el anterior como 1 por la disposición final 43.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se añade la letra f) por la disposición final 2.1 de la Ley Orgánica 7/2006, de 21 de noviembre. Ref. BOE-A-2006-20263.
+ Se modifica por la disposición adicional 14.3 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 10
+
+Artículo 10. Competencias de las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+1. Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia conocerán en única instancia de los recursos que se deduzcan en relación con:
+a) Los actos de las Entidades locales y de las Administraciones de las Comunidades Autónomas, cuyo conocimiento no esté atribuido a los Juzgados de lo Contencioso-Administrativo.
+b) Las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades locales.
+c) Los actos y disposiciones de los órganos de gobierno de las asambleas legislativas de las Comunidades Autónomas, y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, en materia de personal, administración y gestión patrimonial.
+d) Los actos y resoluciones dictados por los Tribunales Económico-Administrativos Regionales y Locales que pongan fin a la vía económico-administrativa.
+e) Las resoluciones dictadas por el Tribunal Económico-Administrativo Central en materia de tributos cedidos.
+f) Los actos y disposiciones de las Juntas Electorales Provinciales y de Comunidades Autónomas, así como los recursos contencioso-electorales contra acuerdos de las Juntas Electorales sobre proclamación de electos y elección y proclamación de Presidentes de Corporaciones locales, en los términos de la legislación electoral.
+g) Los convenios entre Administraciones públicas cuyas competencias se ejerzan en el ámbito territorial de la correspondiente Comunidad Autónoma.
+h) La prohibición o la propuesta de modificación de reuniones previstas en la Ley Orgánica 9/1983, de 15 de julio, Reguladora del Derecho de Reunión.
+i) Los actos y resoluciones dictados por órganos de la Administración General del Estado cuya competencia se extienda a todo el territorio nacional y cuyo nivel orgánico sea inferior al de Ministro o Secretario de Estado en materias de personal, propiedades especiales y expropiación forzosa.
+j) Los actos y resoluciones de los órganos de las Comunidades Autónomas competentes para la aplicación de la Ley de Defensa de la Competencia.
+k) Las resoluciones dictadas por el órgano competente para la resolución de recursos en materia de contratación previsto en el artículo 311 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, en relación con los contratos incluidos en el ámbito competencial de las Comunidades Autónomas o de las Corporaciones locales.
+l) Las resoluciones dictadas por los Tribunales Administrativos Territoriales de Recursos Contractuales.
+m) Los actos y disposiciones dictados por las autoridades independientes autonómicas u órganos competentes de las comunidades autónomas referidos en la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.
+n) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a la competencia de otros órganos de este orden jurisdiccional.
+2. Conocerán, en segunda instancia, de las apelaciones promovidas contra sentencias y autos dictados por los Juzgados de lo Contencioso-administrativo, y de los correspondientes recursos de queja.
+3. También les corresponde, con arreglo a lo establecido en esta Ley, el conocimiento de los recursos de revisión contra las sentencias firmes de los Juzgados de lo Contencioso-administrativo.
+4. Conocerán de las cuestiones de competencia entre los Juzgados de lo Contencioso-administrativo con sede en la Comunidad Autónoma.
+5. Conocerán del recurso de casación para la unificación de doctrina previsto en el artículo 99.
+6. Conocerán del recurso de casación en interés de la ley previsto en el artículo 101.
+7. Conocerán de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva.
+8. (Anulado)
+Se modifica la letra m) del apartado 1 y se añade la n) por la disposición final 2.1 de la Ley 2/2023, de 20 de febrero. Ref. BOE-A-2023-4513#df-2
+ Se declara la inconstitucionalidad y nulidad del apartado 8, en la redacción dada por la disposición final 2.2 de la Ley 3/2020, de 18 de septiembre, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
+ Se modifica por la disposición final 2.2 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-2
+ Se añade el apartado 7 por la disposición final 6.1 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-6
+ Se renumera la letra K) como m) y se añaden las nuevas letras k) y l) al apartado 1 por el art. 3.1 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+ Se modifica el apartado 1 por la disposición adicional 7.2 de la Ley 15/2007, de 3 de julio. Ref. BOE-A-2007-12946.
+
+### Artículo 11
+
+Artículo 11.
+1. La Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá en única instancia:
+a) De los recursos que se deduzcan en relación con las disposiciones generales y los actos de los Ministros, aun cuando se adopten previo informe o acuerdo del Consejo de Ministros o de las Comisiones Delegadas del Gobierno, y de los Secretarios de Estado, en general y en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera. Asimismo, conocerá de los recursos contra los actos de cualesquiera órganos centrales del Ministerio de Defensa referidos a ascensos, orden y antigüedad en el escalafón y destinos.
+Téngase en cuenta que esta última actualización de la letra a) del apartado 1, establecida por el art. 21.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
+ Redacción anterior:
+ "a) De los recursos que se deduzcan en relación con las disposiciones generales y los actos de los Ministros y de los Secretarios de Estado en general y en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera. Asimismo conocerá de los recursos contra los actos de cualesquiera órganos centrales del Ministerio de Defensa referidos a ascensos, orden y antigüedad en el escalafonamiento y destinos."
+b) De los recursos contra los actos de los Ministros y Secretarios de Estado cuando rectifiquen en vía de recurso o en procedimiento de fiscalización o de tutela los dictados por órganos o entes distintos con competencia en todo el territorio nacional.
+c) De los recursos en relación con los convenios entre Administraciones públicas no atribuidos a los Tribunales Superiores de Justicia.
+d) De los actos de naturaleza económico-administrativa dictados por el Ministro de Economía y Hacienda y por el Tribunal Económico-Administrativo Central, con excepción de lo dispuesto en el artículo 10.1.e).
+e) De los recursos contra los actos dictados por la Comisión de Vigilancia de Actividades de Financiación del Terrorismo, y de la autorización de prórroga de los plazos de las medidas de dicha Comisión, conforme a lo previsto en la Ley de Prevención y Bloqueo de la Financiación del Terrorismo.
+f) Las resoluciones dictadas por el Tribunal Administrativo Central de Recursos Contractuales, con excepción de lo dispuesto en el artículo 10.1.k).
+g) De los recursos contra los actos del Banco de España, de la Comisión Nacional del Mercado de Valores y del FROB adoptados conforme a lo previsto en la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión.
+h) De los recursos interpuestos por la Comisión Nacional de los Mercados y de la Competencia en defensa de la unidad de mercado.
+i) (Anulado)
+2. Conocerá, en segunda instancia, de las apelaciones contra autos y sentencias dictados por los Juzgados Centrales de lo Contencioso-administrativo y de los correspondientes recursos de queja.
+3. Conocerá de los recursos de revisión contra sentencias firmes dictadas por los Juzgados Centrales de lo Contencioso-administrativo.
+4. También conocerá de las cuestiones de competencia que se puedan plantear entre los Juzgados Centrales de lo Contencioso-administrativo.
+5. Conocerá de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por la Agencia Española de Protección de Datos.
+Se modifica la letra a) del apartado 1, con efectos desde el 3 de abril de 2025, por el art. 21.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3
+ Téngase en cuenta, respecto de la aplicación del apartado 1.a), la disposición transitoria 9.5 de la citada Ley Orgánica.
+ Se declara la inconstitucionalidad y nulidad del apartado 1.i), en la redacción dada por la disposición final 2.3 de la Ley 3/2020, de 18 de septiembre, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
+ Se modifica el apartado 1 por la disposición final 2.3 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-2
+ Se añade el apartado 5 por la disposición final 6.2 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-6
+ Se modifica la letra g) del apartado 1 por la disposición final 3 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dftercera.
+ Se añade la letra h) al apartado 1 por la disposición final 1.1 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+ Se añade la letra g) al apartado 1 por la disposición final 5 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Téngase en cuenta que la letra g) ya había sido añadida por el Real Decreto-ley 24/2012, de 31 de agosto.
+ Se añade la letra g) al apartado 1 por la disposición final 5 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 221, de 13 de septiembre de 2012. Ref. BOE-A-2012-11523.
+ Se añade la letra f) al apartado 1 por el art.3.2 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+ Se añade la letra e) al apartado 1 por el art. 2 de la Ley Orgánica 4/2003, de 21 de mayo. Ref. BOE-A-2003-10287.
+
+### Artículo 12
+
+Artículo 12.
+1. La Sala de lo Contencioso-administrativo del Tribunal Supremo conocerá en única instancia de los recursos que se deduzcan en relación con:
+a) Los actos y disposiciones del Consejo de Ministros y de las Comisiones Delegadas del Gobierno.
+b) Los actos y disposiciones del Consejo General del Poder Judicial y del Fiscal General del Estado.
+c) Los actos y disposiciones en materia de personal, administración y gestión patrimonial adoptados por los órganos competentes del Congreso de los Diputados, del Senado, del Tribunal Constitucional, del Tribunal de Cuentas y del Defensor del Pueblo.
+2. Conocerá también de:
+a) Los recursos de casación de cualquier modalidad, en los términos establecidos por esta Ley, y los correspondientes recursos de queja.
+b) Los recursos de casación y revisión contra las resoluciones dictadas por el Tribunal de Cuentas, con arreglo a lo establecido en su Ley de Funcionamiento.
+c) Los recursos de revisión contra sentencias firmes dictadas por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia, de la Audiencia Nacional y del Tribunal Supremo, salvo lo dispuesto en el artículo 61.1.1º de la Ley Orgánica del Poder Judicial.
+3. Asimismo conocerá de:
+a) Los recursos que se deduzcan en relación con los actos y disposiciones de la Junta Electoral Central, así como los recursos contencioso-electorales que se deduzcan contra los acuerdos sobre proclamación de electos en los términos previstos en la legislación electoral.
+b) Los recursos deducidos contra actos de las Juntas Electorales adoptados en el procedimiento para elección de miembros de las Salas de Gobierno de los Tribunales, en los términos de la Ley Orgánica del Poder Judicial.
+4. Conocerá de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por el Consejo General del Poder Judicial.
+Se modifica la letra b) del apartado 1 por la disposición final 4 de la Ley 16/2022, de 5 de septiembre. Ref. BOE-A-2022-14580#df-4
+ Se añade el apartado 4 por la disposición final 6.3 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-6
+
+### Artículo 13
+
+Artículo 13.
+Para aplicar las reglas de distribución de competencia contenidas en los artículos anteriores, se tendrán en cuenta los siguientes criterios:
+a) Las referencias que se hacen a la Administración del Estado, Comunidades Autónomas y Entidades locales comprenden a las Entidades y Corporaciones dependientes o vinculadas a cada una de ellas.
+b) La competencia atribuida a los Juzgados y Tribunales para el conocimiento de recursos contra actos administrativos incluye la relativa a la inactividad y a las actuaciones constitutivas de vía de hecho.
+c) Salvo disposición expresa en contrario, la atribución de competencia por razón de la materia prevalece sobre la efectuada en razón del órgano administrativo autor del acto.
+
+## CAPÍTULO III
+
+Competencia territorial de los Juzgados y Tribunales
+
+### Artículo 14
+
+Artículo 14.
+1. La competencia territorial de los Juzgados y de los Tribunales Superiores de Justicia se determinará conforme a las siguientes reglas:
+Primera. Con carácter general, será competente el órgano jurisdiccional en cuya circunscripción tenga su sede el órgano que hubiere dictado la disposición o el acto originario impugnado.
+Segunda. Cuando el recurso tenga por objeto actos de las Administraciones públicas en materia de responsabilidad patrimonial, personal, propiedades especiales y sanciones será competente, a elección del demandante, el juzgado o el tribunal en cuya circunscripción tenga aquél su domicilio o se halle la sede del órgano autor del acto originario impugnado.
+Cuando el recurso tenga por objeto actos de las Administraciones de las Comunidades Autónomas o de las entidades de la Administración Local, la elección a que se refiere esta regla segunda se entenderá limitada a la circunscripción del Tribunal Superior de Justicia en que tenga su sede el órgano que hubiere dictado el acto originario impugnado.
+Tercera. La competencia corresponderá al órgano jurisdiccional en cuya circunscripción radiquen los inmuebles afectados cuando se impugnen planes de ordenación urbana y actuaciones urbanísticas, expropiatorias y, en general, las que comporten intervención administrativa en la propiedad privada.
+2. Cuando el acto originario impugnado afectase a una pluralidad de destinatarios y fueran diversos los Juzgados o Tribunales competentes según las reglas anteriores, la competencia vendrá atribuida al órgano jurisdiccional en cuya circunscripción tenga su sede el órgano que hubiere dictado el acto originario impugnado.
+Se modifica el apartado 1, segunda regla por el art. 3.2 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se añade el párrafo segundo a la regla segunda del apartado 1 por el art. 14.1 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO IV
+
+Constitución y actuación de las Salas de lo Contencioso-administrativo
+
+### Artículo 15
+
+Artículo 15.
+1. La Sala de lo Contencioso-administrativo del Tribunal Supremo actuará dividida en Secciones, cuyo Presidente será el que lo fuere de la Sala o el Magistrado más antiguo de los que integren la Sección, salvo en el supuesto previsto en el artículo 96.6 en el que la Sección a que se refiere será presidida por el Presidente del Tribunal Supremo.
+2. Para la vista o deliberación y fallo será necesaria la concurrencia del que presida y de los Magistrados siguientes:
+a) Todos los que componen la Sección para decidir los recursos de casación y revisión.
+b) Cuatro en los demás casos.
+3. Para el despacho ordinario será suficiente la concurrencia del que presida y dos Magistrados.
+
+### Artículo 16
+
+Artículo 16.
+1. La Sala de lo Contencioso-administrativo de la Audiencia Nacional se compondrá de las Secciones que aconseje el número de asuntos, cuyo Presidente será el que lo fuere de la Sala o el Magistrado más antiguo de los integrantes de la Sección.
+2. Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia, cuando el número de sus miembros exceda de cinco, actuarán divididas en Secciones, cuyo Presidente será el que lo fuere de la Sala o el Magistrado más antiguo de los que integren la Sección.
+3. Para la vista o deliberación y fallo, y despacho ordinario, será suficiente la concurrencia del que presida y dos Magistrados.
+4. La resolución de los recursos de casación en interés de la ley, de casación para la unificación de doctrina y de revisión se encomendará a una Sección de la Sala de lo Contencioso-administrativo que tenga su sede en el Tribunal Superior de Justicia compuesta por el Presidente de dicha Sala que la presidirá, por el Presidente o Presidentes de las demás Salas de lo Contencioso administrativo y, en su caso, de las Secciones de las mismas, en número no superior a dos; y por los Magistrados de la referida Sala o Salas que fueran necesarios para completar un total de cinco miembros.
+Si la Sala o Salas de lo Contencioso-administrativo tuviesen más de una Sección, la Sala de Gobierno del Tribunal Superior de Justicia establecerá para cada año judicial el turno con arreglo al cual los Presidentes de Sección ocuparán los puestos de la regulada en este apartado. También lo establecerá entre todos los Magistrados que presten servicio en la Sala o Salas.
+
+## CAPÍTULO V
+
+Distribución de asuntos
+
+### Artículo 17
+
+Artículo 17.
+1. La distribución de asuntos entre las diversas Salas de un mismo Tribunal, o entre las diversas Secciones de una misma Sala, será acordada por la Sala de Gobierno del respectivo Tribunal, teniendo en cuenta la naturaleza y homogeneidad de la materia a que se refieren los recursos.
+2. Idéntico criterio se tendrá en cuenta para la distribución de asuntos entre los diversos Juzgados de lo Contencioso-administrativo de una misma población. La aprobación corresponderá a la Sala de Gobierno del Tribunal Superior de Justicia, a propuesta de la Junta de Jueces de este orden jurisdiccional.
+3. Los acuerdos sobre distribución de asuntos se adoptarán cada dos años y se comunicarán al Consejo General del Poder Judicial al solo efecto de su publicación, antes de la apertura de Tribunales, en el «Boletín Oficial del Estado» o en el de la Comunidad Autónoma, según corresponda.
+En caso de resultar alterada la competencia de los distintos Juzgados con sede en un mismo partido judicial, de las diversas Salas de un mismo Tribunal o de las diversas Secciones de una Sala por razón de una nueva distribución de asuntos, de los procesos en tramitación continuará conociendo y fallará el órgano jurisdiccional que resultare competente al tiempo de la interposición del recurso, según los acuerdos entonces vigentes.
+
+## TÍTULO II
+
+Las partes
+
+## CAPÍTULO I
+
+Capacidad procesal
+
+### Artículo 18
+
+Artículo 18.
+Tienen capacidad procesal ante el orden jurisdiccional contencioso-administrativo, además de las personas que la ostenten con arreglo a la Ley de Enjuiciamiento Civil, los menores de edad para la defensa de aquellos de sus derechos e intereses legítimos cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela.
+Los grupos de afectados, uniones sin personalidad o patrimonios independientes o autónomos, entidades todas ellas aptas para ser titulares de derechos y obligaciones al margen de su integración en las estructuras formales de las personas jurídicas, también tendrán capacidad procesal ante el orden jurisdiccional contencioso-administrativo cuando la Ley así lo declare expresamente.
+
+## CAPÍTULO II
+
+Legitimación
+
+### Artículo 19
+
+Artículo 19.
+1. Están legitimados ante el orden jurisdiccional contencioso-administrativo:
+a) Las personas físicas o jurídicas que ostenten un derecho o interés legítimo.
+b) Las corporaciones, asociaciones, sindicatos y grupos y entidades a que se refiere el artículo 18 que resulten afectados o estén legalmente habilitados para la defensa de los derechos e intereses legítimos colectivos.
+c) La Administración del Estado, cuando ostente un derecho o interés legítimo, para impugnar los actos y disposiciones de la Administración de las Comunidades Autónomas y de los Organismos públicos vinculados a éstas, así como los de las Entidades locales, de conformidad con lo dispuesto en la legislación de régimen local, y los de cualquier otra entidad pública no sometida a su fiscalización.
+d) La Administración de las Comunidades Autónomas, para impugnar los actos y disposiciones que afecten al ámbito de su autonomía, emanados de la Administración del Estado y de cualquier otra Administración u Organismo público, así como los de las Entidades locales, de conformidad con lo dispuesto en la legislación de régimen local.
+e) Las Entidades locales territoriales, para impugnar los actos y disposiciones que afecten al ámbito de su autonomía, emanados de las Administraciones del Estado y de las Comunidades Autónomas, así como los de Organismos públicos con personalidad jurídica propia vinculados a una y otras o los de otras Entidades locales.
+f) El Ministerio Fiscal para intervenir en los procesos que determine la Ley.
+g) Las Entidades de Derecho público con personalidad jurídica propia vinculadas o dependientes de cualquiera de las Administraciones públicas para impugnar los actos o disposiciones que afecten al ámbito de sus fines.
+h) Cualquier ciudadano, en ejercicio de la acción popular, en los casos expresamente previstos por las Leyes.
+i) Para la defensa del derecho a la igualdad de trato y no discriminación e intolerancia, además de las personas afectadas y siempre con su autorización, estará también legitimada la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, así como, en relación con las personas afiliadas o asociadas a los mismos, los partidos políticos, los sindicatos, las asociaciones profesionales de trabajadores autónomos, las organizaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación.
+Cuando las personas afectadas sean una pluralidad indeterminada o de difícil determinación, la legitimación para instar acciones judiciales en defensa de derechos o intereses difusos corresponderá a la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, a los partidos políticos, los sindicatos y las asociaciones profesionales de trabajadores autónomos más representativos, así como a las organizaciones de personas consumidoras y usuarias de ámbito estatal, y a las organizaciones, de ámbito estatal o del ámbito territorial en el que se produce la situación de discriminación, que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación, sin perjuicio en todo caso de la legitimación individual de aquellas personas afectadas que estuviesen determinadas.
+La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso discriminatorio.
+j) Para la defensa de los derechos e intereses de las personas víctimas de discriminación por orientación e identidad sexual, expresión de género o características sexuales, además de las personas afectadas y siempre que cuenten con su autorización expresa, estarán también legitimados los partidos políticos, las organizaciones sindicales, las organizaciones empresariales, las asociaciones profesionales de personas trabajadoras autónomas, las asociaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos de las personas lesbianas, gais, bisexuales, trans e intersexuales o de sus familias, de acuerdo con lo establecido en la Ley para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
+Cuando las personas afectadas sean una pluralidad indeterminada o de difícil determinación, la legitimación para demandar en juicio la defensa de estos intereses difusos corresponderá exclusivamente a los organismos públicos con competencia en la materia, a los partidos políticos, las organizaciones sindicales, las organizaciones empresariales, las asociaciones profesionales de personas trabajadoras autónomas, las asociaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos de las personas lesbianas, gais, bisexuales, trans e intersexuales o de sus familias.
+La persona acosada será la única legitimada en los litigios sobre acoso discriminatorio por razón de orientación e identidad sexual, expresión de género o características sexuales.
+k) Los sindicatos estarán también legitimados para actuar, en nombre interés del personal funcionario y estatutario afiliado a ellos que así lo autorice, en defensa de sus derechos individuales, recayendo sobre dichos afiliados los efectos de aquella actuación.
+Téngase en cuenta que la letra k), añadida al apartado 1 por el art. 21.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+2. La Administración autora de un acto está legitimada para impugnarlo ante este orden jurisdiccional, previa su declaración de lesividad para el interés público en los términos establecidos por la Ley.
+3. El ejercicio de acciones por los vecinos en nombre e interés de las Entidades locales se rige por lo dispuesto en la legislación de régimen local.
+4. Las Administraciones públicas y los particulares podrán interponer recurso contencioso-administrativo contra las decisiones adoptadas por los órganos administrativos a los que corresponde resolver los recursos especiales y las reclamaciones en materia de contratación a que se refiere la legislación de Contratos del Sector Público sin necesidad, en el primer caso, de declaración de lesividad.
+5. Tendrán legitimación para recurrir ante el orden jurisdiccional contencioso-administrativo las resoluciones del Tribunal Administrativo del Deporte que se dicten en asuntos de disciplina deportiva en materia de dopaje, todas las personas mencionadas en el artículo 40.4 de la Ley Orgánica de Protección de la Salud del Deportista y Lucha contra el Dopaje en la Actividad Deportiva.
+Se añade la letra k) al apartado 1, con efectos desde el 3 de abril de 2025, por el art. 21.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3
+ Se añade la letra j) del apartado 1 por la disposición final 4.1 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-4
+ Se modifica la letra i) del apartado 1 por la disposición final 3.1 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-3
+ Se añade el apartado 5 por la disposición final 5 de la Ley Orgánica 3/2013, de 20 de junio. Ref. BOE-A-2013-6732.
+ Se añade el apartado 4 por el art. 3.3 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+ Se añade la letra i) al apartado 1 por la disposición adicional 6.1 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
+### Artículo 20
+
+Artículo 20.
+No pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública:
+a) Los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente.
+b) Los particulares cuando obren por delegación o como meros agentes o mandatarios de ella.
+c) Las Entidades de Derecho público que sean dependientes o estén vinculadas al Estado, las Comunidades Autónomas o las Entidades locales, respecto de la actividad de la Administración de la que dependan. Se exceptúan aquellos a los que por Ley se haya dotado de un estatuto específico de autonomía respecto de dicha Administración.
+
+### Artículo 21
+
+Artículo 21.
+1. Se considera parte demandada:
+a) Las Administraciones públicas o cualesquiera de los órganos mencionados en el artículo 1.3 contra cuya actividad se dirija el recurso.
+b) Las personas o entidades cuyos derechos o intereses legítimos pudieran quedar afectados por la estimación de las pretensiones del demandante.
+c) Las aseguradoras de las Administraciones públicas, que siempre serán parte codemandada junto con la Administración a quien aseguren.
+2. A efectos de lo dispuesto en el párrafo a) del apartado anterior, cuando se trate de Organismos o Corporaciones públicos sujetos a fiscalización de una Administración territorial, se entiende por Administración demandada:
+a) El Organismo o Corporación autores del acto o disposición fiscalizados, si el resultado de la fiscalización es aprobatorio.
+b) La que ejerza la fiscalización, si mediante ella no se aprueba íntegramente el acto o disposición.
+3. En los recursos contra las decisiones adoptadas por los órganos administrativos a los que corresponde resolver los recursos especiales y las reclamaciones en materia de contratación a que se refiere la legislación de Contratos del Sector Público los citados órganos no tendrán la consideración de parte demandada, siéndolo las personas o Administraciones favorecidas por el acto objeto del recurso, o que se personen en tal concepto, conforme a lo dispuesto en el artículo 49.
+4. Si el demandante fundara sus pretensiones en la ilegalidad de una disposición general, se considerará también parte demandada a la Administración autora de la misma, aunque no proceda de ella la actuación recurrida.
+Se renumera el apartado 3 como 4 y se añade un nuevo apartado 3 por el art. 3.4 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+ Se modifica el apartado 1 por la disposición adicional 14.4 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 22
+
+Artículo 22.
+Si la legitimación de las partes derivare de alguna relación jurídica transmisible, el causahabiente podrá suceder en cualquier estado del proceso a la persona que inicialmente hubiere actuado como parte.
+
+## CAPÍTULO III
+
+Representación y defensa de las partes
+
+### Artículo 23
+
+Artículo 23.
+1. En sus actuaciones ante órganos unipersonales, las partes podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado.
+Cuando las partes confieran su representación al Abogado, será a éste a quien se notifiquen las actuaciones.
+2. En sus actuaciones ante órganos colegiados, las partes deberán conferir su representación a un Procurador y ser asistidas por Abogado.
+3. Podrán, no obstante, comparecer por sí mismos los funcionarios públicos en defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles.
+En este caso, estarán obligados al empleo de los sistemas electrónicos existentes, tanto para la remisión de escritos, iniciadores o no, y demás documentos, como para la recepción de notificaciones, de forma tal que esté garantizada su autenticidad y quede constancia fehaciente de la remisión y la recepción íntegras, así como de la fecha en que éstas se hicieren.
+4. En todo caso, la representación prevista en este artículo podrá conferirse electrónicamente a través de los medios establecidos para ello.
+Téngase en cuenta que la modificación de este apartado 3 y el apartado 4, añadido por el art. 102.3 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. Podrán, no obstante, comparecer por sí mismos los funcionarios públicos en defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles."
+Se modifica el apartado 3 y se añade el 4 por el art. 102.3 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se añade el apartado 3 por la disposición final 4 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dfcuaa.
+ Se deroga el apartado 3 por la disposición final 2 de la Ley 10/2012, de 20 de noviembre. Ref. BOE-A-2012-14301.
+
+### Artículo 24
+
+Artículo 24.
+La representación y defensa de las Administraciones públicas y de los órganos constitucionales se rige por lo dispuesto en la Ley Orgánica del Poder Judicial y en la Ley de Asistencia Jurídica al Estado e Instituciones Públicas, así como en las normas que sobre la materia y en el marco de sus competencias hayan dictado las Comunidades Autónomas.
+
+## TÍTULO III
+
+Objeto del recurso contencioso-administrativo
+
+## CAPÍTULO I
+
+Actividad administrativa impugnable
+
+### Artículo 25
+
+Artículo 25.
+1. El recurso contencioso-administrativo es admisible en relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración pública que pongan fin a la vía administrativa, ya sean definitivos o de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos o intereses legítimos.
+2. También es admisible el recurso contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho, en los términos establecidos en esta Ley.
+
+### Artículo 26
+
+Artículo 26.
+1. Además de la impugnación directa de las disposiciones de carácter general, también es admisible la de los actos que se produzcan en aplicación de las mismas, fundada en que tales disposiciones no son conformes a Derecho.
+2. La falta de impugnación directa de una disposición general o la desestimación del recurso que frente a ella se hubiera interpuesto no impiden la impugnación de los actos de aplicación con fundamento en lo dispuesto en el apartado anterior.
+
+### Artículo 27
+
+Artículo 27.
+1. Cuando un Juez o Tribunal de lo Contencioso-administrativo hubiere dictado sentencia firme estimatoria por considerar ilegal el contenido de la disposición general aplicada, deberá plantear la cuestión de ilegalidad ante el Tribunal competente para conocer del recurso directo contra la disposición, salvo lo dispuesto en los dos apartados siguientes.
+2. Cuando el Juez o Tribunal competente para conocer de un recurso contra un acto fundado en la invalidez de una disposición general lo fuere también para conocer del recurso directo contra ésta, la sentencia declarará la validez o nulidad de la disposición general.
+3. Sin necesidad de plantear cuestión de ilegalidad, el Tribunal Supremo anulará cualquier disposición general cuando, en cualquier grado, conozca de un recurso contra un acto fundado en la ilegalidad de aquella norma.
+
+### Artículo 28
+
+Artículo 28.
+No es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma.
+
+### Artículo 29
+
+Artículo 29.
+1. Cuando la Administración, en virtud de una disposición general que no precise de actos de aplicación o en virtud de un acto, contrato o convenio administrativo, esté obligada a realizar una prestación concreta en favor de una o varias personas determinadas, quienes tuvieran derecho a ella pueden reclamar de la Administración el cumplimiento de dicha obligación. Si en el plazo de tres meses desde la fecha de la reclamación, la Administración no hubiera dado cumplimiento a lo solicitado o no hubiera llegado a un acuerdo con los interesados, éstos pueden deducir recurso contencioso-administrativo contra la inactividad de la Administración.
+2. Cuando la Administración no ejecute sus actos firmes podrán los afectados solicitar su ejecución, y si ésta no se produce en el plazo de un mes desde tal petición, podrán los solicitantes formular recurso contencioso-administrativo, que se tramitará por el procedimiento abreviado regulado en el artículo 78.
+
+### Artículo 30
+
+Artículo 30.
+En caso de vía de hecho, el interesado podrá formular requerimiento a la Administración actuante, intimando su cesación. Si dicha intimación no hubiere sido formulada o no fuere atendida dentro de los diez días siguientes a la presentación del requerimiento, podrá deducir directamente recurso contencioso-administrativo.
+
+## CAPÍTULO II
+
+Pretensiones de las partes
+
+### Artículo 31
+
+Artículo 31.
+1. El demandante podrá pretender la declaración de no ser conformes a Derecho y, en su caso, la anulación de los actos y disposiciones susceptibles de impugnación según el capítulo precedente.
+2. También podrá pretender el reconocimiento de una situación jurídica individualizada y la adopción de las medidas adecuadas para el pleno restablecimiento de la misma, entre ellas la indemnización de los daños y perjuicios, cuando proceda.
+
+### Artículo 32
+
+Artículo 32.
+1. Cuando el recurso se dirija contra la inactividad de la Administración pública, conforme a lo dispuesto en el artículo 29, el demandante podrá pretender del órgano jurisdiccional que condene a la Administración al cumplimiento de sus obligaciones en los concretos términos en que estén establecidas.
+2. Si el recurso tiene por objeto una actuación material constitutiva de vía de hecho, el demandante podrá pretender que se declare contraria a Derecho, que se ordene el cese de dicha actuación y que se adopten, en su caso, las demás medidas previstas en el artículo 31.2.
+
+### Artículo 33
+
+Artículo 33.
+1. Los órganos del orden jurisdiccional contencioso-administrativo juzgarán dentro del límite de las pretensiones formuladas por las partes y de los motivos que fundamenten el recurso y la oposición.
+2. Si el Juez o Tribunal, al dictar sentencia, estimare que la cuestión sometida a su conocimiento pudiera no haber sido apreciada debidamente por las partes, por existir en apariencia otros motivos susceptibles de fundar el recurso o la oposición, lo someterá a aquéllas mediante providencia en que, advirtiendo que no se prejuzga el fallo definitivo, los expondrá y concederá a los interesados un plazo común de diez días para que formulen las alegaciones que estimen oportunas, con suspensión del plazo para pronunciar el fallo. Contra la expresada providencia no cabrá recurso alguno.
+3. Esto mismo se observará si, impugnados directamente determinados preceptos de una disposición general, el Tribunal entendiera necesario extender el enjuiciamiento a otros de la misma disposición por razones de conexión o consecuencia con los preceptos recurridos.
+
+## CAPÍTULO III
+
+Acumulación
+
+### Artículo 34
+
+Artículo 34.
+1. Serán acumulables en un proceso las pretensiones que se deduzcan en relación con un mismo acto, disposición o actuación.
+2. Lo serán también las que se refieran a varios actos, disposiciones o actuaciones cuando unos sean reproducción, confirmación o ejecución de otros o exista entre ellos cualquier otra conexión directa.
+
+### Artículo 35
+
+Artículo 35.
+1. El actor podrá acumular en su demanda cuantas pretensiones reúnan los requisitos señalados en el artículo anterior.
+2. Si el Letrado de la Administración de Justicia no estimare pertinente la acumulación, dará cuenta al Tribunal, quien, en su caso, ordenará a la parte que interponga por separado los recursos en el plazo de treinta días. Si no lo efectuare, el Juez tendrá por caducado aquel recurso respecto del cual no se hubiere dado cumplimiento a lo ordenado.
+Se modifican las referencias a " Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
+ Se modifica el apartado 2 por el art. 14.2 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 36
+
+Artículo 36.
+1. Si antes de la sentencia se dictare o se tuviere conocimiento de la existencia de algún acto, disposición o actuación que guarde con el que sea objeto del recurso en tramitación la relación prevista en el artículo 34, el demandante podrá solicitar, dentro del plazo que señala el artículo 46, la ampliación del recurso a aquel acto administrativo, disposición o actuación.
+2. De esta petición, que producirá la suspensión del curso del procedimiento, el letrado o letrada de la Administración de Justicia dará traslado a las partes para que presenten alegaciones en el plazo común de cinco días. No obstante lo anterior, se mantendrán los señalamientos ya acordados, siempre que la decisión sobre la ampliación se produzca antes de la celebración de aquellos actos y no interfiera en los derechos de las partes ni en el interés de terceros.
+Téngase en cuenta que la modificación de este apartado 2, establecida por el art. 102.4 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "2. De esta petición, que producirá la suspensión del curso del procedimiento, el Letrado de la Administración de Justicia dará traslado a las partes para que presenten alegaciones en el plazo común de cinco días."
+3. Si el órgano jurisdiccional accediere a la ampliación, continuará la suspensión de la tramitación del proceso en tanto no se alcance respecto de aquélla el mismo estado que tuviere el procedimiento inicial.
+4. Será asimismo aplicable lo dispuesto en el apartado 1 de este artículo cuando en los recursos contencioso-administrativos interpuestos contra actos presuntos la Administración dictare durante su tramitación resolución expresa respecto de la pretensión inicialmente deducida. En tal caso podrá el recurrente desistir del recurso interpuesto con fundamento en la aceptación de la resolución expresa que se hubiere dictado o solicitar la ampliación a la resolución expresa. Una vez producido el desistimiento del recurso inicialmente interpuesto, el plazo para recurrir la resolución expresa, que será de dos meses, se contará desde el día siguiente al de la notificación de la misma.
+Se modifica el apartado 2 por el art. 102.4 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican las referencias a " Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
+ Se modifica el apartado 2 por el art. 14.3 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 37
+
+Artículo 37.
+1. Interpuestos varios recursos contencioso-administrativos con ocasión de actos, disposiciones o actuaciones en los que concurra alguna de las circunstancias señaladas en el artículo 34, el órgano jurisdiccional podrá en cualquier momento procesal, previa audiencia de las partes por plazo común de cinco días, acordar la acumulación de oficio o a instancia de alguna de ellas.
+2. Cuando ante un juez o tribunal estuviera pendiente una pluralidad de recursos con idéntico objeto, el órgano jurisdiccional, si no se hubiesen acumulado, tramitará uno o varios con carácter preferente previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás, en el estado en que se encuentren, hasta que se dicte sentencia en los primeros.
+En caso de que esa pluralidad de recursos con idéntico objeto pudiera, a su vez, agruparse por categorías o grupos que planteen una controversia sustancialmente análoga, el órgano jurisdiccional, si no se hubieran acumulado, tramitará uno o varios de cada grupo o categoría con carácter preferente, previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás en el estado en que se encuentren hasta que se dicte sentencia en los tramitados preferentemente para cada grupo o categoría.
+Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 224.1 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "2. Cuando ante un Juez o Tribunal estuviera pendiente una pluralidad de recursos con idéntico objeto, el órgano jurisdiccional, si no se hubiesen acumulado, deberá tramitar uno o varios con carácter preferente previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás hasta que se dicte sentencia en los primeros."
+3. Una vez firme, el Secretario judicial llevará testimonio de la sentencia a los recursos suspendidos y la notificará a los recurrentes afectados por la suspensión a fin de que en el plazo de cinco días puedan interesar la extensión de sus efectos en los términos previstos en el artículo 111, la continuación del procedimiento o bien desistir del recurso.
+Se modifica el apartado 2 por el art. 224.1 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Véase la disposición transitoria 10, en cuanto a la aplicación de esta modificación.
+ Se modifican los apartados 2 y 3 por el art. 14.4 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica por la disposición adicional 14.5 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 38
+
+Artículo 38.
+1. La Administración comunicará al Tribunal, al remitirle el expediente administrativo, si tiene conocimiento de la existencia de otros recursos contencioso-administrativos en los que puedan concurrir los supuestos de acumulación que previene el presente capítulo.
+2. El Secretario judicial pondrá en conocimiento del Juez o Tribunal los procesos que se tramiten en la Oficina judicial en los que puedan concurrir los supuestos de acumulación que previene el presente Capítulo.
+Se modifica el apartado 2 por el art. 14.5 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 39
+
+Artículo 39.
+Contra las resoluciones sobre acumulación, ampliación y tramitación preferente solo se dará recurso de reposición.
+Téngase en cuenta que la modificación de este artículo, establecida por el art. 102.5 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "Contra las resoluciones sobre acumulación, ampliación y tramitación preferente sólo se dará recurso de súplica"
+Se modifica por el art. 102.5 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+## CAPÍTULO IV
+
+Cuantía del recurso
+
+### Artículo 40
+
+Artículo 40.
+1. El Secretario judicial fijará la cuantía del recurso contencioso-administrativo una vez formulados los escritos de demanda y contestación, en los que las partes podrán exponer, por medio de otrosí, su parecer al respecto.
+2. Cuando así no se hiciere, el Secretario judicial requerirá al demandante para que fije la cuantía, concediéndole al efecto un plazo no superior a diez días, transcurrido el cual sin haberlo realizado se estará a la que fije el Secretario judicial, previa audiencia del demandado.
+3. Cuando el demandado no estuviere de acuerdo con la cuantía fijada por el demandante, lo expondrá por escrito dentro del término de diez días, resolviendo el Secretario judicial lo procedente. En este caso el Juez o Tribunal, en la sentencia, resolverá definitivamente la cuestión.
+4. La parte perjudicada por la resolución prevista en el apartado anterior podrá fundar el recurso de queja en la indebida determinación de la cuantía si por causa de ésta no se tuviere por preparado el recurso de casación o no se admitiera el recurso de casación para la unificación de doctrina o el de apelación.
+Se modifica por el art. 14.6 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 41
+
+Artículo 41.
+1. La cuantía del recurso contencioso-administrativo vendrá determinada por el valor económico de la pretensión objeto del mismo.
+2. Cuando existan varios demandantes, se atenderá al valor económico de la pretensión deducida por cada uno de ellos, y no a la suma de todos.
+3. En los supuestos de acumulación o de ampliación, la cuantía vendrá determinada por la suma del valor económico de las pretensiones objeto de aquéllas, pero no comunicará a las de cuantía inferior la posibilidad de casación o apelación.
+
+### Artículo 42
+
+Artículo 42.
+1. Para fijar el valor económico de la pretensión se tendrán en cuenta las normas de la legislación procesal civil, con las especialidades siguientes:
+a) Cuando el demandante solicite solamente la anulación del acto, se atenderá al contenido económico del mismo, para lo cual se tendrá en cuenta el débito principal, pero no los recargos, las costas ni cualquier otra clase de responsabilidad, salvo que cualquiera de éstos fuera de importe superior a aquél.
+b) Cuando el demandante solicite, además de la anulación, el reconocimiento de una situación jurídica individualizada, o cuando solicite el cumplimiento de una obligación administrativa, la cuantía vendrá determinada:
+Primero. Por el valor económico total del objeto de la reclamación, si la Administración pública hubiere denegado totalmente, en vía administrativa, las pretensiones del demandante.
+Segundo. Por la diferencia de la cuantía entre el objeto de la reclamación y el del acto que motivó el recurso, si la Administración hubiera reconocido parcialmente, en vía administrativa, las pretensiones del demandante.
+2. Se reputarán de cuantía indeterminada los recursos dirigidos a impugnar directamente las disposiciones generales, incluidos los instrumentos normativos de planeamiento urbanístico, los que se refieran a los funcionarios públicos cuando no versen sobre derechos o sanciones susceptibles de valoración económica, así como aquéllos en los que junto a pretensiones evaluables económicamente se acumulen otras no susceptibles de tal valoración.
+También se reputarán de cuantía indeterminada los recursos interpuestos contra actos, en materia de Seguridad Social, que tengan por objeto la inscripción de empresas, formalización de la protección frente a riesgos profesionales, tarifación, cobertura de la prestación de incapacidad temporal, afiliación, alta, baja y variaciones de datos de trabajadores.
+Se modifica el apartado 2 por el art. 14.7 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## TÍTULO IV
+
+Procedimiento contencioso-administrativo
+
+## CAPÍTULO I
+
+Procedimiento en primera o única instancia
+
+### SECCIÓN 1
+
+Sección 1.ª Diligencias preliminares
+
+### Artículo 43
+
+Artículo 43.
+Cuando la propia Administración autora de algún acto pretenda demandar su anulación ante la Jurisdicción Contencioso-administrativa deberá, previamente, declararlo lesivo para el interés público.
+
+### Artículo 44
+
+Artículo 44.
+1. En los litigios entre Administraciones públicas no cabrá interponer recurso en vía administrativa. No obstante, cuando una Administración interponga recurso contencioso-administrativo contra otra, podrá requerirla previamente para que derogue la disposición, anule o revoque el acto, haga cesar o modifique la actuación material, o inicie la actividad a que esté obligada.
+Cuando la Administración contratante, el contratista o terceros pretendan recurrir las decisiones adoptadas por los órganos administrativos a los que corresponde resolver los recursos especiales y las reclamaciones en materia de contratación a que se refiere la legislación de Contratos del Sector Público interpondrán el recurso directamente y sin necesidad de previo requerimiento o recurso administrativo.
+2. El requerimiento deberá dirigirse al órgano competente mediante escrito razonado que concretará la disposición, acto, actuación o inactividad, y deberá producirse en el plazo de dos meses contados desde la publicación de la norma o desde que la Administración requirente hubiera conocido o podido conocer el acto, actuación o inactividad.
+3. El requerimiento se entenderá rechazado si, dentro del mes siguiente a su recepción, el requerido no lo contestara.
+4. Queda a salvo lo dispuesto sobre esta materia en la legislación de régimen local.
+Se añade un párrafo al apartado 1 por el art. 3.5 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+
+### SECCIÓN 2
+
+Sección 2.ª Interposición del recurso y reclamación del expediente
+
+### Artículo 45
+
+Artículo 45.
+1. El recurso contencioso-administrativo se iniciará por un escrito reducido a citar la disposición, acto, inactividad o actuación constitutiva de vía de hecho que se impugne y a solicitar que se tenga por interpuesto el recurso, salvo cuando esta Ley disponga otra cosa.
+2. A este escrito se acompañará:
+a) El documento que acredite la representación del compareciente, salvo si figurase unido a las actuaciones de otro recurso pendiente ante el mismo Juzgado o Tribunal, en cuyo caso podrá solicitarse que se expida certificación para su unión a los autos.
+b) El documento o documentos que acrediten la legitimación del actor cuando la ostente por habérsela transmitido otro por herencia o por cualquier otro título.
+c) La copia o traslado de la disposición o del acto expreso que se recurran, o indicación del expediente en que haya recaído el acto o el periódico oficial en que la disposición se haya publicado. Si el objeto del recurso fuera la inactividad de la Administración o una vía de hecho, se mencionará el órgano o dependencia al que se atribuya una u otra, en su caso, el expediente en que tuvieran origen, o cualesquiera otros datos que sirvan para identificar suficientemente el objeto del recurso.
+d) El documento o documentos que acrediten el cumplimiento de los requisitos exigidos para entablar acciones las personas jurídicas con arreglo a las normas o estatutos que les sean de aplicación, salvo que se hubieran incorporado o insertado en lo pertinente dentro del cuerpo del documento mencionado en la letra a) de este mismo apartado.
+e) En los casos en que el recurso se haya interpuesto por un sindicato que actúe en nombre e interés del personal funcionario y estatutario conforme dispone la letra k) del artículo 19.1, el documento o documentos que acrediten la afiliación de dicho personal y la existencia de comunicación por el sindicato al afiliado de la voluntad de iniciar el proceso, así como la autorización expresa del afiliado al sindicato para dicha iniciación.
+Téngase en cuenta que la letra e), añadida al apartado 2 por el art. 21.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+3. El Secretario judicial examinará de oficio la validez de la comparecencia tan pronto como se haya presentado el escrito de interposición. Si estima que es válida, admitirá a trámite el recurso. Si con el escrito de interposición no se acompañan los documentos expresados en el apartado anterior o los presentados son incompletos y, en general, siempre que el Secretario judicial estime que no concurren los requisitos exigidos por esta Ley para la validez de la comparecencia, requerirá inmediatamente la subsanación de los mismos, señalando un plazo de diez días para que el recurrente pueda llevarla a efecto y, si no lo hiciere, el Juez o Tribunal se pronunciará sobre el archivo de las actuaciones.
+4. El recurso de lesividad se iniciará por demanda formulada con arreglo al artículo 56.1, que fijará con precisión la persona o personas demandadas y su sede o domicilio si constara. A esta demanda se acompañarán en todo caso la declaración de lesividad, el expediente administrativo y, si procede, los documentos de las letras a) y d) del apartado 2 de este artículo.
+5. El recurso dirigido contra una disposición general, acto, inactividad o vía de hecho en que no existan terceros interesados podrá iniciarse también mediante demanda en que se concretará la disposición, acto o conducta impugnados y se razonará su disconformidad a Derecho. Con la demanda se acompañarán los documentos que procedan de los previstos en el apartado 2 de este artículo.
+Se añade la letra e) al apartado 2, con efectos desde el 3 de abril de 2025, por el art. 21.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3
+ Se modifica el apartado 3 por el art. 14.8 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 46
+
+Artículo 46.
+1. El plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso. Si no lo fuera, el plazo será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.
+2. En los supuestos previstos en el artículo 29, los dos meses se contarán a partir del día siguiente al vencimiento de los plazos señalados en dicho artículo.
+3. Si el recurso contencioso-administrativo se dirigiera contra una actuación en vía de hecho, el plazo para interponer el recurso será de diez días a contar desde el día siguiente a la terminación del plazo establecido en el artículo 30. Si no hubiere requerimiento, el plazo será de veinte días desde el día en que se inició la actuación administrativa en vía de hecho.
+4. El plazo para interponer el recurso contencioso-administrativo se contará desde el día siguiente a aquel en que se notifique la resolución expresa del recurso potestativo de reposición o en que éste deba entenderse presuntamente desestimado.
+5. El plazo para interponer recurso de lesividad será de dos meses a contar desde el día siguiente a la fecha de la declaración de lesividad.
+6. En los litigios entre Administraciones, el plazo para interponer recurso contencioso-administrativo será de dos meses, salvo que por Ley se establezca otra cosa. Cuando hubiera precedido el requerimiento regulado en los tres primeros apartados del artículo 44, el plazo se contará desde el día siguiente a aquel en que se reciba la comunicación del acuerdo expreso o se entienda presuntamente rechazado.
+
+### Artículo 47
+
+Artículo 47.
+1. Una vez cumplido lo dispuesto en el artículo 45.3, el letrado de la Administración de Justicia en el siguiente día hábil acordará, si lo solicita el recurrente, que se anuncie la interposición del recurso y remitirá el oficio electrónicamente para su publicación por el órgano competente, sin perjuicio de que sea costeada por el recurrente, en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. El letrado de la Administración de Justicia podrá también acordar de oficio la publicación, si lo estima conveniente.
+Téngase en cuenta que la modificación de este apartado 1, establecida por el art. 102.6 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "1. Una vez cumplido lo dispuesto en el artículo 45.3, el Secretario judicial en el siguiente día hábil acordará, si lo solicita el recurrente, que se anuncie la interposición del recurso y remitirá el oficio para su publicación por el órgano competente, sin perjuicio de que sea costeada por el recurrente, en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. El Secretario judicial podrá también acordar de oficio la publicación, si lo estima conveniente."
+2. Si se hubiera iniciado el recurso mediante demanda en los supuestos previstos por el artículo 45.5 y éste se dirige contra una disposición general, deberá procederse a la publicación del anuncio de interposición de aquél, en el que se concederán quince días para la personación de quienes tengan interés legítimo en sostener la conformidad a Derecho de la disposición, acto o conducta impugnados. Transcurrido este plazo, el Secretario judicial procederá a dar traslado de la demanda y de los documentos que la acompañen para que sea contestada primero por la Administración y luego por los demás demandados que se hubieran personado.
+Se modifica el apartado 1 por el art. 102.6 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por el art. 14.9 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 48
+
+Artículo 48.
+1. El letrado o letrada de la Administración de Justicia, al acordar lo previsto en el apartado 1 del artículo anterior, o mediante diligencia si la publicación no fuere necesaria, requerirá a la Administración que le remita el expediente administrativo, ordenándole que practique los emplazamientos previstos en el artículo 49. El expediente se reclamará al órgano autor de la disposición o acto impugnado o a aquél al que se impute la inactividad o vía de hecho.
+2. No se reclamará el expediente en el caso del apartado 2 del artículo anterior, sin perjuicio de la facultad otorgada por el apartado 5 de este artículo 48.
+3. El expediente deberá ser remitido en el plazo improrrogable de veinte días, a contar desde que la comunicación judicial tenga entrada en el registro general del órgano requerido. La entrada se pondrá en conocimiento del órgano jurisdiccional.
+4. El expediente se enviará completo, en soporte electrónico, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga. Al remitir el expediente, la Administración deberá identificar al órgano responsable del cumplimiento de la resolución judicial.
+Si el expediente fuera reclamado por varios juzgados o tribunales, la Administración enviará copias en soporte electrónico del mismo, que deberán reunir los requisitos anteriormente expresados.
+5. Cuando el recurso contra la disposición se hubiere iniciado por demanda, el tribunal podrá recabar de oficio o a petición del actor el expediente de elaboración, que se remitirá en soporte electrónico. Recibido el expediente, el letrado o letrada de la Administración de Justicia lo entregará a las partes por cinco días para que formulen alegaciones.
+6. Se excluirán del expediente, mediante resolución motivada, los documentos clasificados como secreto oficial, haciéndolo constar así en el índice de documentos y en el lugar del expediente donde se encontraran los documentos excluidos.
+7. Transcurrido el plazo de remisión del expediente sin haberse recibido completo, se reiterará la reclamación y, si no se enviara en el término de diez días contados como dispone el apartado 3, tras constatarse su responsabilidad, previo apercibimiento del letrado o letrada de la Administración de Justicia notificado personalmente para formulación de alegaciones, el juez, la jueza o el tribunal impondrán una multa coercitiva de trescientos a mil doscientos euros a la autoridad o empleado responsable. La multa será reiterada cada veinte días, hasta el cumplimiento de lo requerido.
+De darse la causa de imposibilidad de determinación individualizada de la autoridad o empleado responsable, la Administración será la responsable del pago de la multa sin perjuicio de que se repercuta contra el responsable.
+8. Contra los autos en los que se acuerde la imposición de multas a las que se refiere el apartado anterior podrá interponerse recurso de reposición en los términos previstos en el artículo 79.
+9. Si no se hubieran satisfecho voluntariamente, las multas firmes se harán efectivas por vía judicial de apremio.
+10. Impuestas las tres primeras multas coercitivas sin lograr que se remita el expediente completo, el Juez o Tribunal pondrá los hechos en conocimiento del Ministerio Fiscal, sin perjuicio de seguir imponiendo nuevas multas. El requerimiento cuya desatención pueda dar lugar a la tercera multa coercitiva contendrá el oportuno apercibimiento.
+11. La Administración remitirá el expediente electrónicamente, utilizando, a tal efecto, los sistemas de interoperabilidad que resulten aplicables, al objeto de que el expediente administrativo en soporte electrónico así remitido quede automáticamente integrado en los sistemas de gestión procesal correspondientes.
+Téngase en cuenta que la modificación de estos apartados 1, 4, 5, 7, 8 y el nuevo apartado 11, añadido por el art. 102.7 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "Artículo 48.
+ 1. El Secretario judicial, al acordar lo previsto en el apartado 1 del artículo anterior, o mediante diligencia si la publicación no fuere necesaria, requerirá a la Administración que le remita el expediente administrativo, ordenándole que practique los emplazamientos previstos en el artículo 49. El expediente se reclamará al órgano autor de la disposición o acto impugnado o a aquél al que se impute la inactividad o vía de hecho. Se hará siempre una copia autentificada de los expedientes tramitados en grados o fases anteriores, antes de devolverlos a su oficina de procedencia.
+ 2...
+ 3...
+ 4. El expediente, original o copiado, se enviará completo, foliado y, en su caso, autentificado, acompañado de un índice, asimismo autentificado, de los documentos que contenga. La Administración conservará siempre el original o una copia autentificada de los expedientes que envíe. Si el expediente fuera reclamado por diversos Juzgados o Tribunales, la Administración enviará copias autentificadas del original o de la copia que conserve.
+ 5. Cuando el recurso contra la disposición se hubiere iniciado por demanda, el Tribunal podrá recabar de oficio o a petición del actor el expediente de elaboración. Recibido el expediente, el Secretario judicial lo pondrá de manifiesto a las partes por cinco días para que formulen alegaciones.
+ 6...
+ 7. Transcurrido el plazo de remisión del expediente sin haberse recibido completo, se reiterará la reclamación y, si no se enviara en el término de diez días contados como dispone el apartado 3, tras constatarse su responsabilidad, previo apercibimiento del Secretario judicial notificado personalmente para formulación de alegaciones, el Juez o Tribunal impondrá una multa coercitiva de trescientos a mil doscientos euros a la autoridad o empleado responsable. La multa será reiterada cada veinte días, hasta el cumplimiento de lo requerido.
+ De darse la causa de imposibilidad de determinación individualizada de la autoridad o empleado responsable, la Administración será la responsable del pago de la multa sin perjuicio de que se repercuta contra el responsable.
+ 8. Contra los autos en los que se acuerde la imposición de multas a las que se refiere el apartado anterior podrá interponerse recurso de súplica(*) en los términos previstos en el artículo 79.
+ 9...
+ 10..."
+Se modifican los apartados 1, 4, 5, 7, 8 y se añade el 11 por el art. 102.7 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 1, 5 y 7 por el art. 14.10 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifican los apartados 7 y 8 por el art. 86.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### SECCIÓN 3
+
+Sección 3.ª Emplazamiento de los demandados y admisión del recurso
+
+### Artículo 49
+
+Artículo 49.
+1. La resolución por la que se acuerde remitir el expediente se notificará en los cinco días siguientes a su adopción, a cuantos aparezcan como interesados en él, emplazándoles para que puedan personarse como demandados en el plazo de nueve días. La notificación se practicará con arreglo a lo dispuesto en la Ley que regule el procedimiento administrativo común.
+En los recursos contra las decisiones adoptadas por los órganos administrativos a los que corresponde resolver los recursos especiales y las reclamaciones en materia de contratación a que se refiere la legislación de Contratos del Sector Público se emplazará como parte demandada a las personas, distintas del recurrente, que hubieren comparecido en el recurso administrativo, para que puedan personarse como demandados en el plazo de nueve días.
+2. Hechas las notificaciones, se enviará el expediente al Juzgado o Tribunal, incorporando la justificación del emplazamiento o emplazamientos efectuados, salvo que no hubieran podido practicarse dentro del plazo fijado para la remisión del expediente, en cuyo caso éste se enviará sin demora, y la justificación de los emplazamientos una vez se ultimen.
+3. Recibido el expediente, el letrado o letrada de la Administración de Justicia, a la vista del resultado de las actuaciones administrativas y del contenido del escrito de interposición y documentos anejos, comprobará que se han efectuado las debidas notificaciones para emplazamiento y, si advirtiere que son incompletas, ordenará a la Administración que se practiquen las necesarias para asegurar la defensa de los interesados que sean identificables.
+4. Cuando no hubiera sido posible emplazar a algún interesado en el domicilio que conste, el letrado o letrada de la Administración de Justicia mandará insertar el correspondiente edicto en el Tablón Edictal Judicial Único. Los emplazados por edictos podrán personarse hasta el momento en que hubiere de dárseles traslado para contestar a la demanda.
+Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.8 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. Recibido el expediente, el Secretario judicial, a la vista del resultado de las actuaciones administrativas y del contenido del escrito de interposición y documentos anejos, comprobará que se han efectuado las debidas notificaciones para emplazamiento y, si advirtiere que son incompletas, ordenará a la Administración que se practiquen las necesarias para asegurar la defensa de los interesados que sean identificables.
+ 4. Cuando no hubiera sido posible emplazar a algún interesado en el domicilio que conste, el Secretario judicial mandará insertar el correspondiente edicto en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. Los emplazados por edictos podrán personarse hasta el momento en que hubiere de dárseles traslado para contestar a la demanda."
+5. En el supuesto previsto en el artículo 47.2 se estará a lo que en él se dispone.
+6. El emplazamiento de los demandados en el recurso de lesividad se efectuará personalmente por plazo de nueve días.
+Se modifican los apartados 3 y 4 por el art. 102.8 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se añade un párrafo al apartado 1 por el art. 3.6 de la Ley 34/2010, de 5 de agosto. Ref. BOE-A-2010-12765.
+ Se modifican los apartados 3 y 4 por el art. 14.11 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 50
+
+Artículo 50.
+1. El emplazamiento de la Administración se entenderá efectuado por la reclamación del expediente.
+2. Las Administraciones públicas se entenderán personadas por el envío del expediente.
+3. Los demandados legalmente emplazados podrán personarse en autos dentro del plazo concedido. Si lo hicieren posteriormente, se les tendrá por parte para los trámites no precluidos. Si no se personaren oportunamente continuará el procedimiento por sus trámites, sin que haya lugar a practicarles, en estrados o en cualquier otra forma, notificaciones de clase alguna.
+
+### Artículo 51
+
+Artículo 51.
+1. El Juzgado o Sala, tras el examen del expediente administrativo, declarará no haber lugar a la admisión del recurso cuando constare de modo inequívoco y manifiesto:
+a) La falta de jurisdicción o la incompetencia del Juzgado o Tribunal.
+b) La falta de legitimación del recurrente.
+c) Haberse interpuesto el recurso contra actividad no susceptible de impugnación.
+d) Haber caducado el plazo de interposición del recurso.
+2. El Juzgado o Sala podrá inadmitir el recurso cuando se hubieran desestimado en el fondo otros recursos sustancialmente iguales por sentencia firme, mencionando, en este último caso, la resolución o resoluciones desestimatorias.
+3. Cuando se impugne una actuación material constitutiva de vía de hecho, el Juzgado o Sala podrá también inadmitir el recurso si fuera evidente que la actuación administrativa se ha producido dentro de la competencia y en conformidad con las reglas del procedimiento legalmente establecido.
+Asimismo, cuando se impugne la no realización por la Administración de las obligaciones a que se refiere el artículo 29, el recurso se inadmitirá si fuera evidente la ausencia de obligación concreta de la Administración respecto de los recurrentes.
+4. El Juzgado o la Sala, antes de pronunciarse sobre la inadmisión del recurso, hará saber a las partes el motivo en que pudiera fundarse para que, en el plazo común de diez días, aleguen lo que estimen procedente y acompañen los documentos a que hubiera lugar.
+5. Contra el auto que declare la inadmisión podrán interponerse los recursos previstos en esta Ley. El auto de admisión no será recurrible pero no impedirá oponer cualquier motivo de inadmisibilidad en momento procesal posterior.
+6. Declarada la inadmisión al amparo de lo establecido en el párrafo a) del apartado 1 de este artículo, se estará a lo que determinan los artículos 5.3 y 7.3.
+Se modifica el inciso primero del apartado 1 por el art. 14.12 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 4
+
+Sección 4.ª Demanda y contestación
+
+### Artículo 52
+
+Artículo 52.
+1. Recibido el expediente administrativo en soporte electrónico en el juzgado o tribunal y comprobados, y en su caso completados, los emplazamientos, por el letrado o letrada de la Administración de Justicia se acordará su incorporación a los autos en ese mismo soporte y su entrega al recurrente para que se deduzca la demanda en el plazo de veinte días, salvo que concurra alguno de los supuestos del artículo 51, en cuyo caso dará cuenta al tribunal para que resuelva lo que proceda. Cuando los recurrentes fuesen varios, y aunque no actuasen bajo una misma dirección, la demanda se formulará simultáneamente por todos ellos. La entrega del expediente a las partes se efectuará mediante su remisión por vía telemática al tiempo de notificar la resolución en que así se disponga o a través del punto de acceso electrónico al expediente judicial.
+Téngase en cuenta que la modificación de este apartado 1, establecida por el art. 102.9 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ 1. Recibido el expediente administrativo en el Juzgado o Tribunal y comprobados, y en su caso completados, los emplazamientos, por el Secretario judicial se acordará que se entregue al recurrente para que se deduzca la demanda en el plazo de veinte días, salvo que concurra alguno de los supuestos del artículo 51, en cuyo caso dará cuenta al Tribunal para que resuelva lo que proceda. Cuando los recurrentes fuesen varios, y aunque no actuasen bajo una misma dirección, la demanda se formulará simultáneamente por todos ellos. La entrega del expediente se efectuará en original o copia.
+2. Si la demanda no se hubiere presentado dentro del plazo, el Juzgado o Sala, de oficio, declarará por auto la caducidad del recurso. No obstante, se admitirá el escrito de demanda, y producirá sus efectos legales, si se presentare dentro del día en que se notifique el auto.
+Se modifica el apartado 1 por el art. 102.9 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 1 por el art. 14.13 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 53
+
+Artículo 53.
+1. Transcurrido el término para la remisión del expediente administrativo sin que éste hubiera sido enviado, la parte recurrente podrá pedir, por sí o a iniciativa del Secretario judicial, que se le conceda plazo para formalizar la demanda.
+2. Si después de que la parte demandante hubiera usado del derecho establecido en el apartado anterior se recibiera el expediente, el Secretario judicial pondrá éste de manifiesto a las partes demandantes y, en su caso, demandadas por plazo común de diez días para que puedan efectuar las alegaciones complementarias que estimen oportunas.
+Se modifica por el art. 14.14 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 54
+
+Artículo 54.
+1. Presentada la demanda, el Secretario judicial dará traslado de la misma, con entrega del expediente administrativo, a las partes demandadas que hubieran comparecido, para que la contesten en el plazo de veinte días. Si la demanda se hubiere formalizado sin haberse recibido el expediente administrativo, emplazará a la Administración demandada para contestar, apercibiéndola de que no se admitirá la contestación si no va acompañada de dicho expediente.
+2. Si el defensor de la Administración demandada estima que la disposición o actuación administrativa recurrida pudiera no ajustarse a Derecho, podrá solicitar la suspensión del procedimiento por un plazo de veinte días para comunicar su parecer razonado a aquélla. El Secretario judicial, previa audiencia del demandante, acordará lo procedente.
+3. La contestación se formulará primero por la Administración demandada. Cuando hubieren de hacerlo, además de la Administración, otros demandados, y aunque no actuaren bajo una misma dirección, la contestación se formulará simultáneamente por todos ellos. En todos los casos la entrega del expediente se efectuará mediante su remisión por vía telemática al tiempo de notificar la resolución en que así se disponga o a través del punto de acceso electrónico al expediente judicial.
+Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.10 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. La contestación se formulará primero por la Administración demandada. Cuando hubieren de hacerlo, además de la Administración, otros demandados, y aunque no actuaren bajo una misma dirección, la contestación se formulará simultáneamente por todos ellos. En este caso no habrá lugar a la entrega del expediente administrativo, que será puesto de manifiesto en la Oficina judicial, pero sí de la copia del mismo, con los gastos a cargo de estos demandados."
+4. Si la Administración demandada fuere una entidad local y no se hubiere personado en el proceso pese a haber sido emplazada, se le dará no obstante traslado de la demanda para que, en el plazo de veinte días, pueda designar representante en juicio o comunicar al órgano judicial, por escrito, los fundamentos por los que estimare improcedente la pretensión del actor.
+Se modifica el apartado 3 por el art. 102.10 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por el art. 14.15 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 55
+
+Artículo 55.
+1. Si las partes estimasen que el expediente administrativo no está completo, podrán solicitar, dentro del plazo para formular la demanda o la contestación, que se reclamen los antecedentes para completarlo. A estos efectos se entenderá que el expediente administrativo está integrado por los documentos y demás actuaciones que lo conforman según lo dispuesto en el artículo 70 de la Ley 39/2015, de 1 de octubre. Los documentos o elementos de prueba que formen parte de un expediente administrativo distinto no podrán solicitarse a través del trámite previsto en el presente artículo.
+2. La solicitud a que se refiere el apartado anterior suspenderá el curso del plazo correspondiente.
+3. El letrado o letrada de la Administración de Justicia resolverá lo pertinente en el plazo de tres días.
+Si acepta la solicitud y esta se hubiera formulado dentro de los diez primeros días del plazo para formular la demanda o la contestación, el plazo se reiniciará una vez el expediente completo remitido por la Administración se haya puesto a disposición de la parte solicitante. Si rechazara la solicitud o si, aun aceptándola, esta se hubiera presentado una vez transcurridos los diez primeros días antes referidos, el cómputo del plazo simplemente se reanudará, salvo que, en este último caso, el letrado o letrada de la Administración de Justicia considere oportuno que el plazo se reinicie atendido el volumen o la importancia para la causa de los documentos añadidos.
+En ningún caso el plazo se reiniciará cuando la solicitud de complemento la hubiera formulado la Administración demandada.
+La Administración, al remitir de nuevo el expediente, deberá indicar en el índice a que se refiere el artículo 48.4 los documentos que se han adicionado.
+Téngase en cuenta que la modificación de los apartados 1 y 3, establecida por el art. 102.11 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ 1. Si las partes estimasen que el expediente administrativo no está completo, podrán solicitar, dentro del plazo para formular la demanda o la contestación, que se reclamen los antecedentes para completarlo.
+ 2...
+ 3. El Secretario judicial resolverá lo pertinente en el plazo de tres días. La Administración, al remitir de nuevo el expediente, deberá indicar en el índice a que se refiere el artículo 48.4 los documentos que se han adicionado.
+Se modifican los apartados 1 y 3 por el art. 102.11 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 3 por el art. 14.16 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 56
+
+Artículo 56.
+1. En los escritos de demanda y de contestación se consignarán con la debida separación los hechos, los fundamentos de Derecho y las pretensiones que se deduzcan, en justificación de las cuales podrán alegarse cuantos motivos procedan, hayan sido o no planteados ante la Administración.
+2. El Secretario judicial examinará de oficio la demanda y requerirá que se subsanen las faltas de que adolezca en plazo no superior a diez días. Realizada la subsanación, admitirá la demanda. En otro caso, dará cuenta al Juez para que resuelva lo que proceda sobre su admisión.
+3. Con la demanda y la contestación las partes acompañarán los documentos en que directamente funden su derecho, y si no obraren en su poder, designarán el archivo, oficina, protocolo o persona en cuyo poder se encuentren.
+4. Después de la demanda y contestación no se admitirán a las partes más documentos que los que se hallen en alguno de los casos previstos para el proceso civil. No obstante, el demandante podrá aportar, además, los documentos que tengan por objeto desvirtuar alegaciones contenidas en las contestaciones a la demanda y que pongan de manifiesto disconformidad en los hechos, antes de la citación de vista o conclusiones.
+5. Presentados los escritos de demanda y contestación, si un juzgado o tribunal, en cualquier momento anterior a dictar sentencia, tuviese conocimiento, por cualquier medio, de que la Sala de lo Contencioso-administrativo del Tribunal Supremo ha admitido un recurso de casación que presenta una identidad jurídica sustancial con la cuestión debatida en el recurso del que está conociendo, oirá a las partes personadas por el plazo común de diez días sobre su posible suspensión, adjuntándoles copia del referido auto.
+Una vez presentadas las alegaciones o transcurrido el plazo, si el juzgado o tribunal apreciase una identidad jurídica sustancial y que la resolución que se dicte en casación puede resultar relevante para resolver el procedimiento, acordará la suspensión hasta que se dicte resolución firme en el recurso de casación. Contra el auto que resuelva sobre la suspensión no cabrá recurso alguno.
+El auto que acuerde la suspensión se remitirá a la Sección de Enjuiciamiento de la Sala de lo Contencioso-administrativo del Tribunal Supremo indicada en el auto de admisión, que, a su vez, remitirá testimonio de la sentencia que recaiga en el recurso de casación al juzgado o tribunal remitente.
+Recibido el testimonio de la sentencia del recurso de casación, el juzgado o tribunal alzará la suspensión y dará un nuevo trámite de audiencia a las partes personadas, por plazo común de diez días, a fin de que aleguen sobre la incidencia que dicho pronunciamiento tiene para resolver el recurso. Evacuado el traslado o transcurrido el plazo conferido, se continuará la tramitación del procedimiento en el momento en que se encontrare antes de la suspensión, salvo que las partes desistan del recurso o se allanen, en cuyo caso el juzgado o tribunal resolverá lo procedente.
+Téngase en cuenta que el apartado 5, añadido por el art. 224.2 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
+Se añade el apartado 5 por el art. 224.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Véase la disposición transitoria 10, en cuanto a la aplicación de esta modificación.
+ Se modifica el apartado 2 por el art. 14.17 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 57
+
+Artículo 57.
+El Secretario judicial declarará concluso el pleito, sin más trámite, para sentencia una vez contestada la demanda, salvo que el Juez o Tribunal haga uso de la facultad que le atribuye el artículo 61 en los siguientes supuestos:
+1.º Si el actor pide por otrosí en su demanda que el recurso se falle sin necesidad de recibimiento a prueba ni tampoco de vista o conclusiones y la parte demandada no se opone.
+2.º Si en los escritos de demanda y contestación no se solicita el recibimiento a prueba ni los trámites de vista o conclusiones, salvo que el Juez o Tribunal, excepcionalmente, atendida la índole del asunto, acuerde la celebración de vista o la formulación de conclusiones escritas.
+En los dos supuestos anteriores, si el demandado solicita la inadmisión del recurso, se dará traslado al demandante para que en el plazo de cinco días formule las alegaciones que estime procedentes sobre la posible causa de inadmisión, y seguidamente se declarará concluso el pleito.
+Se modifica por el art. 14.18 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 5
+
+Sección 5.ª Alegaciones previas
+
+### Artículo 58
+
+Artículo 58.
+1. Las partes demandadas podrán alegar, dentro de los primeros cinco días del plazo para contestar la demanda, los motivos que pudieren determinar la incompetencia del órgano jurisdiccional o la inadmisibilidad del recurso con arreglo a lo dispuesto en el artículo 69, sin perjuicio de que tales motivos, salvo la incompetencia del órgano jurisdiccional, puedan ser alegados en la contestación, incluso si hubiesen sido desestimados como alegación previa.
+2. Para hacer uso de este trámite la Administración demandada habrá de acompañar el expediente administrativo si no lo hubiera remitido antes.
+
+### Artículo 59
+
+Artículo 59.
+1. Del escrito formulando alegaciones previas el Secretario judicial dará traslado por cinco días al actor, el cual podrá subsanar el defecto, si procediera, en el plazo de diez días.
+2. Evacuado el traslado, se seguirá la tramitación prevista para los incidentes.
+3. El auto desestimatorio de las alegaciones previas no será susceptible de recurso y dispondrá que se conteste la demanda en el plazo que reste.
+4. El auto estimatorio de las alegaciones previas declarará la inadmisibilidad del recurso. Si se hubiere declarado la falta de jurisdicción o de competencia, se estará a lo que determinan los artículos 5.3y 7.3.
+Téngase en cuenta que la modificación del apartado 4, establecida por el art. 102.12 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "4. El auto estimatorio de las alegaciones previas declarará la inadmisibilidad del recurso y, una vez firme, el Secretario judicial ordenará la devolución del expediente administrativo a la oficina de donde procediere. Si se hubiere declarado la falta de jurisdicción o de competencia, se estará a lo que determinan los artículos 5.º 3 y 7.º 3."
+Se modifica el apartado 4 por el art. 102.12 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 1 y 4 por el art. 14.19 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 6
+
+Sección 6.ª Prueba
+
+### Artículo 60
+
+Artículo 60.
+1. Solamente se podrá pedir el recibimiento del proceso a prueba por medio de otrosí, en los escritos de demanda y contestación y en los de alegaciones complementarias. En dichos escritos deberán expresarse en forma ordenada los puntos de hecho sobre los que haya de versar la prueba y los medios de prueba que se propongan.
+2. Si de la contestación a la demanda resultaran nuevos hechos de trascendencia para la resolución del pleito, el recurrente podrá pedir el recibimiento a prueba y expresar los medios de prueba que se propongan dentro de los cinco días siguientes a aquel en que se haya dado traslado de la misma, sin perjuicio de que pueda hacer uso de su derecho a aportar documentos conforme a lo dispuesto en el apartado 4 del artículo 56.
+3. Se recibirá el proceso a prueba cuando exista disconformidad en los hechos y éstos fueran de trascendencia, a juicio del órgano jurisdiccional, para la resolución del pleito. Si el objeto del recurso fuera una sanción administrativa o disciplinaria, el proceso se recibirá siempre a prueba cuando exista disconformidad en los hechos.
+4. La prueba se desarrollará con arreglo a las normas generales establecidas para el proceso civil, siendo el plazo para practicarla de treinta días. No obstante, se podrán aportar al proceso las pruebas practicadas fuera de este plazo por causas no imputables a la parte que las propuso.
+5. Las Salas podrán delegar en uno de sus Magistrados o en un Juzgado de lo Contencioso-administrativo la práctica de todas o algunas de las diligencias probatorias, y el representante en autos de la Administración podrá, a su vez, delegar en un funcionario público de la misma la facultad de intervenir en la práctica de pruebas.
+6. En el acto de emisión de la prueba pericial, el Juez otorgará, a petición de cualquiera de las partes, un plazo no superior a cinco días para que las partes puedan solicitar aclaraciones al dictamen emitido.
+7. De acuerdo con las leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, orientación e identidad sexual, expresión de género o características sexuales y aporte indicios fundados sobre su existencia, corresponderá a la parte demandada la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.
+A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, de oficio o a instancia de parte, podrá recabar informe o dictamen de los organismos públicos competentes.
+8. La presentación de documentos en el curso de actos judiciales o procesales celebrados por videoconferencia se ajustará a lo establecido por la Ley que regule el uso de las tecnologías en la Administración de Justicia.
+Téngase en cuenta que este apartado 8, añadido por el art. 102.13 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+Se añade el apartado 8 por el art. 102.13 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 7 por la disposición final 4.2 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-4
+ Se modifica el apartado 7 por la disposición final 3.2 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-3
+ Se modifican los apartados 1, 2 y 4 por el art. 3.3 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifican los apartados 2 y 6 por el art. 14.20 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se añade el apartado 7 por la disposición adicional 6.2 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
+### Artículo 61
+
+Artículo 61.
+1. El Juez o Tribunal podrá acordar de oficio el recibimiento a prueba y disponer la práctica de cuantas estime pertinentes para la más acertada decisión del asunto.
+2. Finalizado el período de prueba, y hasta que el pleito sea declarado concluso para sentencia, el órgano jurisdiccional podrá también acordar la práctica de cualquier diligencia de prueba que estimare necesaria.
+3. Las partes tendrán intervención en las pruebas que se practiquen al amparo de lo previsto en los dos apartados anteriores.
+4. Si el Juez o Tribunal hiciere uso de su facultad de acordar de oficio la práctica de una prueba, y las partes carecieran de oportunidad para alegar sobre ello en la vista o en el escrito de conclusiones, el Secretario judicial pondrá de manifiesto el resultado de la prueba a las partes, las cuales podrán, en el plazo de cinco días, alegar cuanto estimen conveniente acerca de su alcance e importancia.
+5. El Juez podrá acordar de oficio, previa audiencia a las partes, o bien a instancia de las mismas la extensión de los efectos de las pruebas periciales a los procedimientos conexos. A los efectos de la aplicación de las normas sobre costas procesales en relación al coste de estas pruebas se entenderá que son partes todos los intervinientes en los procesos sobre los cuales se haya acordado la extensión de sus efectos, prorrateándose su coste entre los obligados en dichos procesos al pago de las costas.
+Se modifica el apartado 4 por el art. 14.21 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 7
+
+Sección 7.ª Vista y conclusiones
+
+### Artículo 62
+
+Artículo 62.
+1. Salvo que en esta Ley se disponga otra cosa, las partes podrán solicitar que se celebre vista, que se presenten conclusiones o que el pleito sea declarado concluso, sin más trámites, para sentencia.
+2. Dicha solicitud habrá de formularse por medio de otrosí en los escritos de demanda o contestación o por escrito presentado en el plazo de cinco días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba.
+3. El Secretario judicial proveerá según lo que coincidentemente hayan solicitado las partes. En otro caso, sólo acordará la celebración de vista o la formulación de conclusiones escritas cuando lo solicite el demandante o cuando, habiéndose practicado prueba, lo solicite cualquiera de las partes; todo ello sin perjuicio de lo dispuesto en el apartado 4 del artículo 61.
+4. Si las partes no hubieran formulado solicitud alguna el Juez o Tribunal, excepcionalmente, atendida la índole del asunto, podrá acordar la celebración de vista o la formulación de conclusiones escritas.
+Se modifican los apartados 2 y 3 por el art. 14.22 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 63
+
+Artículo 63.
+1. Si se acordara la celebración de vista, el Secretario judicial señalará la fecha de la audiencia por riguroso orden de antigüedad de los asuntos, excepto los referentes a materias que por prescripción de la ley o por acuerdo motivado del órgano jurisdiccional, fundado en circunstancias excepcionales, deban tener preferencia, los cuales, estando conclusos, podrán ser antepuestos a los demás cuyo señalamiento aún no se hubiera hecho. En el señalamiento de las vistas el Secretario judicial atenderá asimismo a los criterios establecidos en el artículo 182 de la Ley de Enjuiciamiento Civil.
+2. En el acto de la vista, se dará la palabra a las partes por su orden para que de forma sucinta expongan sus alegaciones. El Juez o el Presidente de la Sala, por sí o a través del Magistrado ponente, podrá invitar a los defensores de las partes, antes o después de los informes orales, a que concreten los hechos y puntualicen, aclaren o rectifiquen cuanto sea preciso para delimitar el objeto de debate.
+3. El desarrollo de las sesiones del juicio oral y resto de actuaciones orales se documentarán conforme a lo preceptuado en los artículos 146 y 147 de la Ley de Enjuiciamiento Civil. La oficina judicial deberá asegurar la correcta incorporación de la grabación al expediente judicial electrónico. Si los sistemas no proveen expediente judicial electrónico, el letrado de la Administración de Justicia deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir a su costa copia o, en su caso, acceso electrónico de las grabaciones originales.
+4. Siempre que se cuente con los medios tecnológicos necesarios, estos garantizarán la autenticidad e integridad de lo grabado o reproducido. A tal efecto, el letrado de la Administración de Justicia hará uso de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del letrado de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el letrado de la Administración de Justicia atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen. En estos casos, el letrado de la Administración de Justicia extenderá acta sucinta en los términos previstos en el apartado siguiente.
+Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.14 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. El desarrollo de la vista se registrará en soporte apto para la grabación y reproducción del sonido y de la imagen. El Secretario judicial deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia de las grabaciones originales.
+ 4. Siempre que se cuente con los medios tecnológicos necesarios, el Secretario judicial garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica reconocida u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del Secretario judicial, salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente el Secretario judicial lo considere necesario, atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen, supuesto en el cual el Secretario judicial extenderá acta sucinta en los términos previstos en el apartado siguiente."
+5. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar, el Secretario judicial deberá consignar en el acta los siguientes extremos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; alegaciones de las partes; resoluciones que adopte el Juez o Tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte. A este acta se incorporarán los soportes de la grabación de las sesiones.
+6. Cuando los medios de registro previstos en este artículo no se pudiesen utilizar por cualquier causa, el Secretario judicial extenderá acta de cada sesión, recogiendo en ella, con la extensión y detalle necesarios, las alegaciones de las partes, las incidencias y reclamaciones producidas y las resoluciones adoptadas.
+7. El acta prevista en los apartados 5 y 6 de este artículo, se extenderá por procedimientos informáticos, sin que pueda ser manuscrita más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos. En estos casos, al terminar la sesión el Secretario judicial leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. Este acta se firmará por el Secretario judicial tras el Juez o Presidente, las partes, sus representantes o defensores y los peritos, en su caso.
+Se modifican los apartados 3 y 4 por el art. 102.14 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por el art. 14.23 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 64
+
+Artículo 64.
+1. Cuando se acuerde el trámite de conclusiones, las partes presentarán unas alegaciones sucintas acerca de los hechos, la prueba practicada y los fundamentos jurídicos en que apoyen sus pretensiones.
+2. El plazo para formular el escrito será de diez días sucesivos para los demandantes y demandados, siendo simultáneo para cada uno de estos grupos de partes si en alguno de ellos hubiere comparecido más de una persona y no actuaran unidos bajo una misma representación.
+3. El señalamiento de día para votación y fallo se ajustará al orden expresado en el apartado 1 del artículo anterior.
+4. Celebrada la vista o presentadas las conclusiones, el Juez o Tribunal declarará que el pleito ha quedado concluso para sentencia, salvo que haga uso de la facultad a que se refiere el apartado 2 del artículo 61, en cuyo caso dicha declaración se hará inmediatamente después de que finalice la práctica de la diligencia o diligencias de prueba acordadas.
+
+### Artículo 65
+
+Artículo 65.
+1. En el acto de la vista o en el escrito de conclusiones no podrán plantearse cuestiones que no hayan sido suscitadas en los escritos de demanda y contestación.
+2. Cuando el Juez o Tribunal juzgue oportuno que en el acto de la vista o en las conclusiones se traten motivos relevantes para el fallo y distintos de los alegados, lo pondrá en conocimiento de las partes mediante providencia, dándoles plazo de diez días para ser oídas sobre ello. Contra esta providencia no cabrá recurso alguno.
+3. En el acto de la vista, o en el escrito de conclusiones, el demandante podrá solicitar que la sentencia formule pronunciamiento concreto sobre la existencia y cuantía de los daños y perjuicios de cuyo resarcimiento se trate, si constasen ya probados en autos.
+
+### Artículo 66
+
+Artículo 66.
+Los recursos directos contra disposiciones generales gozarán de preferencia y, una vez conclusos, serán antepuestos para su votación y fallo a cualquier otro recurso contencioso-administrativo, sea cual fuere su instancia o grado, salvo el proceso especial de protección de derechos fundamentales.
+
+### SECCIÓN 8
+
+Sección 8.ª Sentencia
+
+### Artículo 67
+
+Artículo 67.
+1. La sentencia se dictará en el plazo de diez días desde que el pleito haya sido declarado concluso y decidirá todas las cuestiones controvertidas en el proceso.
+2. Cuando el Juez o Tribunal apreciase que la sentencia no podrá dictarse dentro del plazo indicado, lo razonará debidamente y señalará una fecha posterior concreta en la que se dictará la misma, notificándolo a las partes.
+
+### Artículo 68
+
+Artículo 68.
+1. La sentencia pronunciará alguno de los fallos siguientes:
+a) Inadmisibilidad del recurso contencioso-administrativo.
+b) Estimación o desestimación del recurso contencioso-administrativo.
+2. La sentencia contendrá además el pronunciamiento que corresponda respecto de las costas.
+
+### Artículo 69
+
+Artículo 69.
+La sentencia declarará la inadmisibilidad del recurso o de alguna de las pretensiones en los casos siguientes:
+a) Que el Juzgado o Tribunal Contencioso-administrativo carezca de jurisdicción.
+b) Que se hubiera interpuesto por persona incapaz, no debidamente representada o no legitimada.
+c) Que tuviera por objeto disposiciones, actos o actuaciones no susceptibles de impugnación.
+d) Que recayera sobre cosa juzgada o existiera litispendencia.
+e) Que se hubiera presentado el escrito inicial del recurso fuera del plazo establecido.
+
+### Artículo 70
+
+Artículo 70.
+1. La sentencia desestimará el recurso cuando se ajusten a Derecho la disposición, acto o actuación impugnados.
+2. La sentencia estimará el recurso contencioso-administrativo cuando la disposición, la actuación o el acto incurrieran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.
+Se entiende por desviación de poder el ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento jurídico.
+
+### Artículo 71
+
+Artículo 71.
+1. Cuando la sentencia estimase el recurso contencioso-administrativo:
+a) Declarará no ser conforme a Derecho y, en su caso, anulará total o parcialmente la disposición o acto recurrido o dispondrá que cese o se modifique la actuación impugnada.
+b) Si se hubiese pretendido el reconocimiento y restablecimiento de una situación jurídica individualizada, reconocerá dicha situación jurídica y adoptará cuantas medidas sean necesarias para el pleno restablecimiento de la misma.
+c) Si la medida consistiera en la emisión de un acto o en la práctica de una actuación jurídicamente obligatoria, la sentencia podrá establecer plazo para que se cumpla el fallo.
+d) Si fuera estimada una pretensión de resarcir daños y perjuicios, se declarará en todo caso el derecho a la reparación, señalando asimismo quién viene obligado a indemnizar. La sentencia fijará también la cuantía de la indemnización cuando lo pida expresamente el demandante y consten probados en autos elementos suficientes para ello. En otro caso, se establecerán las bases para la determinación de la cuantía, cuya definitiva concreción quedará diferida al período de ejecución de sentencia.
+2. Los órganos jurisdiccionales no podrán determinar la forma en que han de quedar redactados los preceptos de una disposición general en sustitución de los que anularen ni podrán determinar el contenido discrecional de los actos anulados.
+
+### Artículo 72
+
+Artículo 72.
+1. La sentencia que declare la inadmisibilidad o desestimación del recurso contencioso-administrativo sólo producirá efectos entre las partes.
+2. La anulación de una disposición o acto producirá efectos para todas las personas afectadas. Las sentencias firmes que anulen una disposición general tendrán efectos generales desde el día en que sea publicado su fallo y preceptos anulados en el mismo periódico oficial en que lo hubiera sido la disposición anulada. También se publicarán las sentencias firmes que anulen un acto administrativo que afecte a una pluralidad indeterminada de personas.
+3. La estimación de pretensiones de reconocimiento o restablecimiento de una situación jurídica individualizada sólo producirá efectos entre las partes. No obstante, tales efectos podrán extenderse a terceros en los términos previstos en los artículos 110 y 111.
+
+### Artículo 73
+
+Artículo 73.
+Las sentencias firmes que anulen un precepto de una disposición general no afectarán por sí mismas a la eficacia de las sentencias o actos administrativos firmes que lo hayan aplicado antes de que la anulación alcanzara efectos generales, salvo en el caso de que la anulación del precepto supusiera la exclusión o la reducción de las sanciones aún no ejecutadas completamente.
+
+### SECCIÓN 9
+
+Sección 9.ª Otros modos de terminación del procedimiento
+
+### Artículo 74
+
+Artículo 74.
+1. El recurrente podrá desistir del recurso en cualquier momento anterior a la sentencia.
+2. Para que el desistimiento del representante en juicio produzca efectos será necesario que lo ratifique el recurrente o que esté autorizado para ello. Si desistiere la Administración pública, habrá de presentarse testimonio del acuerdo adoptado por el órgano competente con arreglo a los requisitos exigidos por las leyes o reglamentos respectivos.
+3. El letrado o letrada de la Administración de Justicia dará traslado a las demás partes, y en los supuestos de acción popular al Ministerio Fiscal, por plazo común de cinco días. Si prestaren su conformidad al desistimiento o no se opusieren a él, dictará decreto en el que declarará terminado el procedimiento, ordenando el archivo de los autos.
+4. En otro caso, o cuando apreciare daño para el interés público, dará cuenta al Juez o Tribunal para que resuelva lo que proceda.
+5. Si fueren varios los recurrentes, el procedimiento continuará respecto de aquellos que no hubieren desistido.
+6. El desistimiento no implicará necesariamente la condena en costas.
+7. Cuando se hubiera desistido del recurso porque la Administración demandada hubiera reconocido totalmente en vía administrativa las pretensiones del demandante, y después la Administración dictase un nuevo acto total o parcialmente revocatorio del reconocimiento, el actor podrá pedir que continúe el procedimiento en el estado en que se encontrase, extendiéndose al acto revocatorio. Si el Juez o Tribunal lo estimase conveniente, concederá a las partes un plazo común de diez días para que formulen por escrito alegaciones complementarias sobre la revocación.
+8. Desistido un recurso de apelación o de casación, el letrado o la letrada de la Administración de Justicia sin más trámites declarará terminado el procedimiento por decreto, ordenando el archivo de los autos y la devolución de las actuaciones recibidas al órgano jurisdiccional de procedencia.
+Téngase en cuenta que esta última actualización del apartado 8, establecida por el art. 21.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "8. Desistido un recurso de apelación o de casación, el Secretario judicial sin más trámites declarará terminado el procedimiento por decreto, ordenando el archivo de los autos y la devolución de las actuaciones recibidas al órgano jurisdiccional de procedencia."
+Se modifica el apartado 8, con efectos desde el 3 de abril de 2025, por el art. 21.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3
+ Se modifica el apartado 3 por el art. 102.15 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 3, 4 y 8 por el art. 14.24 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 75
+
+Artículo 75.
+1. Los demandados podrán allanarse cumpliendo los requisitos exigidos en el apartado 2 del artículo anterior.
+2. Producido el allanamiento, el Juez o Tribunal, sin más trámites, dictará sentencia de conformidad con las pretensiones del demandante, salvo si ello supusiere infracción manifiesta del ordenamiento jurídico, en cuyo caso el órgano jurisdiccional comunicará a las partes los motivos que pudieran oponerse a la estimación de las pretensiones y las oirá por plazo común de diez días, dictando luego la sentencia que estime ajustada a Derecho.
+3. Si fueren varios los demandados, el procedimiento seguirá respecto de aquellos que no se hubiesen allanado.
+
+### Artículo 76
+
+Artículo 76.
+1. Si interpuesto recurso contencioso-administrativo la Administración demandada reconociese totalmente en vía administrativa las pretensiones del demandante, cualquiera de las partes podrá ponerlo en conocimiento del Juez o Tribunal, cuando la Administración no lo hiciera.
+2. El letrado o letrada de la Administración de Justicia mandará oír a las partes por plazo común de cinco días y, previa comprobación de lo alegado, el juez, la jueza o el tribunal dictarán auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico. En este último caso dictará sentencia ajustada a Derecho.
+Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.16 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "2. El Secretario judicial mandará oír a las partes por plazo común de cinco días y, previa comprobación de lo alegado, el Juez o Tribunal dictará auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso y la devolución del expediente administrativo, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico. En este último caso dictará sentencia ajustada a Derecho."
+Se modifica el apartado 2 por el art. 102.16 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 2 por el art. 14.25 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 77
+
+Artículo 77.
+1. En los procedimientos en primera o única instancia, el Juez o Tribunal, de oficio o a solicitud de parte, una vez formuladas la demanda y la contestación, podrá someter a la consideración de las partes el reconocimiento de hechos o documentos, así como la posibilidad de alcanzar un acuerdo que ponga fin a la controversia, cuando el juicio se promueva sobre materias susceptibles de transacción y, en particular, cuando verse sobre estimación de cantidad.
+Los representantes de las Administraciones públicas demandadas necesitarán la autorización oportuna para llevar a efecto la transacción, con arreglo a las normas que regulan la disposición de la acción por parte de los mismos.
+2. El intento de conciliación no suspenderá el curso de las actuaciones salvo que todas las partes personadas lo solicitasen y podrá producirse en cualquier momento anterior al día en que el pleito haya sido declarado concluso para sentencia.
+3. Si las partes llegaran a un acuerdo que implique la desaparición de la controversia, el Juez o Tribunal dictará auto declarando terminado el procedimiento, siempre que lo acordado no fuera manifiestamente contrario al ordenamiento jurídico ni lesivo del interés público o de terceros.
+4. En todo caso, las actuaciones previstas en este artículo podrán llevarse a cabo por medios electrónicos.
+Téngase en cuenta que el apartado 4, añadido por el art. 102.17 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+Se añade el apartado 4 por el art. 102.17 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+## CAPÍTULO II
+
+Procedimiento abreviado
+
+### Artículo 78
+
+Artículo 78.
+1. Los Juzgados de lo Contencioso-Administrativo y, en su caso, los Juzgados Centrales de lo Contencioso-Administrativo de este Orden Jurisdiccional conocen, por el procedimiento abreviado, de los asuntos de su competencia que se susciten sobre cuestiones de personal al servicio de las Administraciones Públicas, sobre extranjería y sobre inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 30.000 euros.
+2. El recurso se iniciará por demanda, a la que se acompañará el documento o documentos en que el actor funde su derecho y aquellos previstos en el artículo 45.2.
+3. Presentada la demanda, el letrado o la letrada de la Administración de Justicia, apreciada la jurisdicción y competencia objetiva del Tribunal, admitirá la demanda. En otro caso, dará cuenta a éste para que resuelva lo que proceda.
+Admitida la demanda, el letrado o la letrada de la Administración de Justicia acordará su traslado a la persona demandada, citando a las partes para la celebración de vista, con indicación de día y hora, y requerirá a la Administración demandada que remita el expediente administrativo en soporte electrónico, con al menos quince días de antelación del término señalado para la vista. Si en la demanda se solicitasen diligencias de preparación de la prueba a practicar en juicio, el letrado o la letrada de la Administración de Justicia acordará lo que corresponda para posibilitar su práctica, sin perjuicio de lo que el juez o tribunal decida sobre su admisión o inadmisión en el acto del juicio. En el señalamiento de las vistas atenderá a los criterios establecidos en el artículo 182 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+No obstante, si el actor pide por otrosí en su demanda que el recurso se falle sin necesidad de recibimiento a prueba ni tampoco de vista, el letrado o la letrada de la Administración de Justicia dará traslado de la misma a las partes demandadas para que la contesten en el plazo de veinte días, con el apercibimiento a que se refiere el apartado 1 del artículo 54. Una vez contestada la demanda, el letrado o la letrada de la Administración de Justicia procederán de acuerdo con lo dispuesto en el artículo 57, declarando concluso el pleito, salvo que el juez o la jueza hagan uso de la facultad que le atribuye el artículo 61.
+Dentro de los diez primeros días del plazo para contestar la demanda, las partes demandadas podrán solicitar que se celebre la vista, argumentando a tal fin en qué hechos existe disconformidad y qué medios de prueba, distintos de los ya obrantes en actuaciones, habrían de ser practicados para despejar esa disconformidad. El juez o la jueza decidirá sobre dicha solicitud mediante auto.
+El auto que acuerde la celebración de vista no será recurrible y, tras su notificación, el letrado o la letrada de la Administración de Justicia citarán a las partes al acto conforme a lo previsto en el párrafo segundo de este apartado.
+El auto que rechace la celebración de vista dispondrá, además, que se conteste la demanda en el plazo que reste y contra el mismo podrá interponerse recurso de reposición. Presentada la contestación se abrirá un trámite de conclusiones, por plazo de cinco días sucesivos, si la parte actora lo hubiese solicitado en su demanda.
+4. Recibido el expediente administrativo, el letrado o la letrada de la Administración de Justicia lo entregarán al actor y a las personas interesadas que se hubieren personado para que puedan hacer alegaciones en el acto de la vista.
+Téngase en cuenta que esta última actualización de los apartados 3 y 4, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "3. Presentada la demanda, el Secretario judicial, apreciada la jurisdicción y competencia objetiva del Tribunal, admitirá la demanda. En otro caso, dará cuenta a éste para que resuelva lo que proceda.
+ Admitida la demanda, el Secretario judicial acordará su traslado al demandado, citando a las partes para la celebración de vista, con indicación de día y hora, y requerirá a la Administración demandada que remita el expediente administrativo con al menos quince días de antelación del término señalado para la vista. En el señalamiento de las vistas atenderá a los criterios establecidos en el artículo 182 de la Ley de Enjuiciamiento Civil.
+ No obstante, si el actor pide por otrosí en su demanda que el recurso se falle sin necesidad de recibimiento a prueba ni tampoco de vista, el Secretario judicial dará traslado de la misma a las partes demandadas para que la contesten en el plazo de veinte días, con el apercibimiento a que se refiere el apartado primero del artículo 54. Las partes demandadas podrán, dentro de los diez primeros días del plazo para contestar a la demanda, solicitar la celebración de la vista. En dicho caso el Secretario judicial citará a las partes al acto conforme a lo previsto en el párrafo anterior. En caso contrario, el Secretario judicial procederá de acuerdo con lo dispuesto en el artículo 57, declarando concluso el pleito sin más trámite una vez contestada la demanda, salvo que el Juez haga uso de la facultad que le atribuye el artículo 61.
+ 4. Recibido el expediente administrativo, el Secretario judicial lo remitirá al actor y a los interesados que se hubieren personado para que puedan hacer alegaciones en el acto de la vista."
+5. Comparecidas las partes, o alguna de ellas, el Juez declarará abierta la vista.
+Si las partes no comparecieren o lo hiciere sólo el demandado, el Juez o Tribunal tendrá al actor por desistido del recurso y le condenará en costas, y si compareciere sólo el actor, acordará que prosiga la vista en ausencia del demandado.
+6. La vista comenzará con exposición por el demandante de los fundamentos de lo que pida o ratificación de los expuestos en la demanda.
+7. Acto seguido, el demandado podrá formular las alegaciones que a su derecho convengan, comenzando, en su caso, por las cuestiones relativas a la jurisdicción, a la competencia objetiva y territorial y a cualquier otro hecho o circunstancia que pueda obstar a la válida prosecución y término del proceso mediante sentencia sobre el fondo.
+8. Oído el demandante sobre estas cuestiones, el Juez resolverá lo que proceda, y si mandase proseguir el juicio, el demandado podrá pedir que conste en acta su disconformidad. Lo mismo podrá hacer el demandante si el Juez, al resolver sobre alguna de dichas cuestiones, declinara el conocimiento del asunto en favor de otro Juzgado o Tribunal o entendiese que debe declarar la inadmisibilidad del recurso.
+9. Si en sus alegaciones el demandado hubiese impugnado la adecuación del procedimiento por razón de la cuantía, el Juez, antes de practicarse la prueba o, en su caso, las conclusiones, exhortará a las partes a ponerse de acuerdo sobre tal extremo. Si no se alcanzare el acuerdo, decidirá el Juez, que dará al proceso el curso procedimental que corresponda según la cuantía que él determine. Frente a la decisión del Juez no se dará recurso alguno.
+10. Si no se suscitasen las cuestiones procesales a que se refieren los apartados anteriores o si, habiéndose suscitado, se resolviese por el Juez la continuación del juicio, se dará la palabra a las partes para fijar con claridad los hechos en que fundamenten sus pretensiones. Si no hubiere conformidad sobre ellos, se propondrán las pruebas y, una vez admitidas las que no sean impertinentes o inútiles, se practicarán seguidamente.
+11. Cuando de las alegaciones de las partes se desprenda la conformidad de todos los demandados con las pretensiones del actor, el carácter meramente jurídico de la controversia, la ausencia de proposición de la prueba o la inadmisibilidad de toda la prueba propuesta, y las partes no deseasen formular conclusiones, el Juez apreciará tal circunstancia en el acto y, si ninguna parte se opusiere, dictará sentencia sin más dilación. .
+Formulada oposición, el Juez resolverá estimándola, en cuyo caso proseguirá la vista conforme a lo reglado en los apartados siguientes, o desestimándola en la misma sentencia que dicte conforme a lo previsto en el párrafo anterior, antes de resolver sobre el fondo, como especial pronunciamiento.
+12. Los medios de prueba se practicarán en los juicios abreviados, en cuanto no sea incompatible con sus trámites, del modo previsto para el juicio ordinario.
+13. Las preguntas para la prueba de interrogatorio de parte se propondrán verbalmente, sin admisión de pliegos.
+14. No se admitirán escritos de preguntas y repreguntas para la prueba testifical. Cuando el número de testigos fuese excesivo y, a criterio del órgano judicial, sus manifestaciones pudieran constituir inútil reiteración del testimonio sobre hechos suficientemente esclarecidos, aquél podrá limitarlos discrecionalmente.
+15. Los testigos no podrán ser tachados y, únicamente en conclusiones, las partes podrán hacer las observaciones que sean oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.
+16. En la práctica de la prueba pericial no serán de aplicación las reglas generales sobre insaculación de peritos.
+17. Contra las resoluciones del Juez sobre denegación de pruebas o sobre admisión de las que se denunciaran como obtenidas con violación de derechos fundamentales, las partes podrán interponer en el acto recurso de súplica(*), que se sustanciará y resolverá seguidamente.
+18. Si el juez o la jueza estimase que alguna prueba relevante no puede practicarse en la vista, sin mala fe por parte de quien tuviera la carga de aportarla, la suspenderá, señalando el letrado o la letrada de la Administración de Justicia competente, en el acto y sin necesidad de nueva notificación, el lugar, día y hora en que deba reanudarse. Si no hubiera asistido a la vista, el letrado o la letrada de la Administración de Justicia efectuarán nuevo señalamiento en el día hábil siguiente a aquel en que se hubiera acordado la suspensión.
+Téngase en cuenta que esta última actualización del apartado 18, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "18. Si el Juez estimase que alguna prueba relevante no puede practicarse en la vista, sin mala fe por parte de quien tuviera la carga de aportarla, la suspenderá, señalando el Secretario judicial competente, en el acto y sin necesidad de nueva notificación, el lugar, día y hora en que deba reanudarse."
+19. Tras la práctica de la prueba, si la hubiere, y, en su caso, de las conclusiones, oídos los Letrados, las personas que sean parte en los asuntos podrán, con la venia del Juez, exponer de palabra lo que crean oportuno para su defensa a la conclusión de la vista, antes de darla por terminada.
+20. El juez o la jueza dictarán sentencia en el plazo de diez días desde la celebración de la vista. No obstante, la sentencia se podrá dictar oralmente al concluir dicho acto con los requisitos de forma y consecuencias previstas en los apartados 3 y 4 del artículo 210 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y pronunciando su fallo de acuerdo con lo dispuesto en los artículos 68 a 71 de la presente ley.
+Téngase en cuenta que esta última actualización del apartado 20, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "20. El Juez dictará sentencia en el plazo de diez días desde la celebración de la vista."
+21. La vista se documentará en la forma establecida en los apartados 3 y 4 del artículo 63.
+22. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar deberán consignarse en el acta los siguientes extremos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; alegaciones de las partes; resoluciones que adopte el juez, la jueza o el tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte. A esta acta se incorporarán los soportes de la grabación de las sesiones.
+Cuando no se pudiesen utilizar los medios de registro por cualquier causa, el letrado o letrada de la Administración de Justicia extenderá acta de cada sesión, en la que se hará constar:
+a) Lugar, fecha, juez o jueza que preside el acto, partes comparecientes, representantes, en su caso, y defensores que las asisten.
+b) Breve resumen de las alegaciones de las partes, medios de prueba propuestos por ellas, declaración expresa de su pertinencia o impertinencia, razones de la denegación y protesta, en su caso.
+c) En cuanto a las pruebas admitidas y practicadas:
+1.º Resumen suficiente de las de interrogatorio de parte y testifical.
+2.º Relación circunstanciada de los documentos presentados, o datos suficientes que permitan identificarlos, en el caso de que su excesivo número haga desaconsejable la citada relación.
+3.º Relación de las incidencias planteadas en el juicio respecto a la prueba documental.
+4.º Resumen suficiente de los informes periciales, así como también de la resolución del juez o la jueza en torno a las propuestas de recusación de los peritos.
+5.º Resumen de las declaraciones realizadas en la vista.
+d) Conclusiones y peticiones concretas formuladas por las partes; en caso de que fueran de condena a cantidad, ésta deberá recogerse en el acta.
+e) Declaración hecha por el juez o la jueza de conclusión de los autos, mandando traerlos a la vista para sentencia.
+Las actas previstas en este apartado se extenderán por procedimientos informáticos, sin que puedan ser manuscritas más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos. En estos casos, al terminar la sesión el letrado o letrada de la Administración de Justicia leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. Esta acta se firmará por el letrado o letrada de la Administración de Justicia tras el juez, la jueza o el presidente o la presidenta, las partes, sus representantes o defensores y los peritos, en su caso.
+Téngase en cuenta que esta última actualización del apartado 22, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "22. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar deberán consignarse en el acta los siguientes extremos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; alegaciones de las partes; resoluciones que adopte el Juez o Tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte. A este acta se incorporarán los soportes de la grabación de las sesiones.
+ Cuando no se pudiesen utilizar los medios de registro por cualquier causa, el Secretario judicial extenderá acta de cada sesión, en la que se hará constar:
+ a) Lugar, fecha, Juez que preside el acto, partes comparecientes, representantes, en su caso, y defensores que las asisten.
+ b) Breve resumen de las alegaciones de las partes, medios de prueba propuestos por ellas, declaración expresa de su pertinencia o impertinencia, razones de la denegación y protesta, en su caso.
+ c) En cuanto a las pruebas admitidas y practicadas:
+ 1.º Resumen suficiente de las de interrogatorio de parte y testifical.
+ 2.º Relación circunstanciada de los documentos presentados, o datos suficientes que permitan identificarlos, en el caso de que su excesivo número haga desaconsejable la citada relación.
+ 3.º Relación de las incidencias planteadas en el juicio respecto a la prueba documental.
+ 4.º Resumen suficiente de los informes periciales, así como también de la resolución del Juez en torno a las propuestas de recusación de los peritos.
+ 5.º Resumen de las declaraciones realizadas en la vista.
+ d) Conclusiones y peticiones concretas formuladas por las partes; en caso de que fueran de condena a cantidad, ésta deberá recogerse en el acta.
+ e) Declaración hecha por el Juez de conclusión de los autos, mandando traerlos a la vista para sentencia.
+ Las actas previstas en este apartado se extenderán por procedimientos informáticos, sin que puedan ser manuscritas más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos. En estos casos, al terminar la sesión el Secretario judicial leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. Este acta se firmará por el Secretario judicial tras el Juez o Presidente, las partes, sus representantes o defensores y los peritos, en su caso."
+23. El procedimiento abreviado, en lo no dispuesto en este capítulo, se regirá por las normas generales de la presente Ley.
+(*) La referencia al "recurso de súplica" se entiende hecha al "recurso de reposición" según establece la disposición adicional 8 de la presente ley, añadida por el art. 14.67 de la Ley 13/2009, de 3 de noviembre.
+Se modifican los apartados 3, 4, 18, 20 y 22, con efectos desde el 3 de abril de 2025, por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-3
+ Téngase en cuenta, respecto de la aplicación del apartado 20, la disposición transitoria 9.6 de la citada Ley Orgánica.
+ Se modifica el apartado 1 y se añade el párrafo tercero al apartado 3 por el art. 3.4 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifican los apartados 3, 4, 5, 13, 18, 21 y 22 por el art. 14.26 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica el apartado 1 por la disposición final 2.2 de la Ley Orgánica 7/2006, de 21 de noviembre. Ref. BOE-A-2006-20263.
+ Se modifica el apartado 1 por la disposición adicional 14.6 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+## CAPÍTULO III
+
+Recursos contra resoluciones procesales
+Se modifica la rúbrica por el art. 14.27 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 1
+
+Sección 1.ª Recursos contra providencias y autos
+
+### Artículo 79
+
+Artículo 79.
+1. Contra las providencias y los autos no susceptibles de apelación o casación podrá interponerse recurso de reposición, sin perjuicio del cual se llevará a efecto la resolución impugnada, salvo que el órgano jurisdiccional, de oficio o a instancia de parte, acuerde lo contrario.
+2. No es admisible el recurso de reposición contra las resoluciones expresamente exceptuadas del mismo en esta Ley, ni contra los autos que resuelvan los recursos de reposición y los de aclaración.
+3. El recurso de reposición se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
+4. Interpuesto el recurso en tiempo y forma, el Secretario judicial dará traslado de las copias del escrito a las demás partes, por término común de cinco días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el órgano jurisdiccional resolverá por auto dentro del tercer día.
+Téngase en cuenta que la modificación de los apartados 1 y 3, establecida por el art. 102.18 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "1. Contra las providencias y los autos no susceptibles de apelación o casación podrá interponerse recurso de súplica(*), sin perjuicio del cual se llevará a efecto la resolución impugnada, salvo que el órgano jurisdiccional, de oficio o a instancia de parte, acuerde lo contrario.
+ 2...
+ 3. El recurso de súplica se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
+ 4..."
+Se modifican los apartados 1 y 3 por el art. 102.18 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 2 y 4 y se suprime el apartado 5 por el art. 14.28 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 80
+
+Artículo 80.
+1. Son apelables en un solo efecto los autos dictados por los Juzgados de lo Contencioso-administrativo y los Juzgados Centrales de lo Contencioso-administrativo, en procesos de los que conozcan en primera instancia, en los siguientes casos:
+a) Los que pongan término a la pieza separada de medidas cautelares.
+b) Los recaídos en ejecución de sentencia.
+c) Los que declaren la inadmisión del recurso contencioso-administrativo o hagan imposible su continuación.
+d) Los recaídos sobre las autorizaciones previstas en el artículo 8.6 y en los artículos 9.2 y 122 bis.
+e) Los recaídos en aplicación de los artículos 83 y 84.
+2. La apelación de los autos dictados por los Juzgados de lo Contencioso-Administrativo y los Juzgados Centrales de lo Contencioso-Administrativo en los supuestos de los artículos 110 y 111, se regirá por el mismo régimen de admisión de la apelación que corresponda a la sentencia cuya extensión se pretende.
+3. La tramitación de los recursos de apelación interpuestos contra los autos de los Juzgados de lo Contencioso-administrativo y los Juzgados Centrales de lo Contencioso-administrativo se ajustará a lo establecido en la sección 2ª de este capítulo.
+Se modifica el apartado 1.d) por la disposición final 43.6 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 2 por la disposición adicional 14.7 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### SECCIÓN 2
+
+Sección 2.ª Recurso ordinario de apelación
+
+### Artículo 81
+
+Artículo 81.
+1. Las sentencias de los Juzgados de lo Contencioso-administrativo y de los Juzgados Centrales de lo Contencioso-administrativo serán susceptibles de recurso de apelación, salvo que se hubieran dictado en los asuntos siguientes:
+a) Aquellos cuya cuantía no exceda de 30.000 euros.
+b) Los relativos a materia electoral comprendidos en el artículo 8.º 4.
+2. Serán siempre susceptibles de apelación las sentencias siguientes:
+a) Las que declaren la inadmisibilidad del recurso en el caso de la letra a) del apartado anterior.
+b) Las dictadas en el procedimiento para la protección de los derechos fundamentales de la persona.
+c) Las que resuelvan litigios entre Administraciones públicas.
+d) Las que resuelvan impugnaciones indirectas de disposiciones generales.
+e) Las que, con independencia de la cuantía del procedimiento, sean susceptibles de extensión de efectos.
+Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.19 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "2. Serán siempre susceptibles de apelación las sentencias siguientes:
+ a) Las que declaren la inadmisibilidad del recurso en el caso de la letra a) del apartado anterior.
+ b) Las dictadas en el procedimiento para la protección de los derechos fundamentales de la persona.
+ c) Las que resuelvan litigios entre Administraciones públicas.
+ d) Las que resuelvan impugnaciones indirectas de disposiciones generales."
+Se modifica el apartado 2 por el art. 102.19 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 1.a) por el art. 3.5 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica el apartado 1 por el art. 14.29 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 82
+
+Artículo 82.
+El recurso de apelación podrá interponerse por quienes, según esta Ley, se hallen legitimados como parte demandante o demandada.
+
+### Artículo 83
+
+Artículo 83.
+1. El recurso de apelación contra las sentencias es admisible en ambos efectos, salvo en los casos en que la presente Ley disponga otra cosa.
+2. No obstante lo dispuesto en el apartado anterior, el Juez, en cualquier momento, a instancia de la parte interesada, podrá adoptar las medidas cautelares que sean pertinentes para asegurar, en su caso, la ejecución de la sentencia atendiendo a los criterios establecidos en el capítulo II del Título VI.
+
+### Artículo 84
+
+Artículo 84.
+1. La interposición de un recurso de apelación no impedirá la ejecución provisional de la sentencia recurrida.
+Las partes favorecidas por la sentencia podrán instar su ejecución provisional. Cuando de ésta pudieran derivarse perjuicios de cualquier naturaleza, podrán acordarse las medidas que sean adecuadas para evitar o paliar dichos perjuicios. Igualmente podrá exigirse la prestación de caución o garantía para responder de aquéllos. En este caso no podrá llevarse a cabo la ejecución provisional hasta que la caución o la medida acordada esté constituida y acreditada en autos.
+2. La constitución de la caución se ajustará a lo establecido en el artículo 133.2.
+3. No se acordará la ejecución provisional cuando la misma sea susceptible de producir situaciones irreversibles o perjuicios de imposible reparación.
+4. Previa audiencia de las demás partes por plazo común de cinco días, el Juez resolverá sobre la ejecución provisional en el término de los cinco días siguientes.
+5. Cuando quien inste la ejecución provisional sea una Administración pública, quedará exenta de la prestación de caución.
+Se modifica el apartado 4 por el art. 14.30 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 85
+
+Artículo 85.
+1. El recurso de apelación se interpondrá ante el Juzgado que hubiere dictado la sentencia que se apele, dentro de los quince días siguientes al de su notificación, mediante escrito razonado que deberá contener las alegaciones en que se fundamente el recurso. Transcurrido el plazo de quince días sin haberse interpuesto el recurso de apelación, el Secretario judicial declarará la firmeza de la sentencia.
+2. Si el escrito presentado cumple los requisitos previstos en el apartado anterior y se refiere a una sentencia susceptible de apelación, el Secretario judicial dictará resolución admitiendo el recurso, contra la que no cabrá recurso alguno, y dará traslado del mismo a las demás partes para que, en el plazo común de quince días, puedan formalizar su oposición. En otro caso, lo pondrá en conocimiento del Juez que, si lo estima oportuno, denegará la admisión por medio de auto, contra el que podrá interponerse recurso de queja, que se sustanciará en la forma establecida en la Ley de Enjuiciamiento Civil.
+3. En los escritos de interposición del recurso y de oposición al mismo las partes podrán pedir el recibimiento a prueba para la práctica de las que hubieran sido denegadas o no hubieran sido debidamente practicadas en primera instancia por causas que no les sean imputables.
+4. En el escrito de oposición, la parte apelada, si entendiera admitida indebidamente la apelación, deberá hacerlo constar, en cuyo caso el letrado o letrada de la Administración de Justicia dará vista a la apelante, por cinco días, de esta alegación. También podrá el apelado, en el mismo escrito, impugnar la sentencia apelada en lo que le resulte desfavorable, razonando los puntos en que crea que le es perjudicial la sentencia, y en este caso el letrado o letrada de la Administración de Justicia dará traslado al apelante del escrito de oposición por plazo de diez días, al solo efecto de que pueda oponerse a la impugnación.
+Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.20 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "3. En los escritos de interposición del recurso y de oposición al mismo las partes podrán pedir el recibimiento a prueba para la práctica de las que hubieran sido denegadas o no hubieran sido debidamente practicadas en primera instancia por causas que no les sean imputables. En dichos escritos, los funcionarios públicos, en los procesos a que se refiere el artículo 23.3, designarán un domicilio para notificaciones en la sede de la Sala de lo Contencioso-administrativo competente.
+ 4. En el escrito de oposición, la parte apelada, si entendiera admitida indebidamente la apelación, deberá hacerlo constar, en cuyo caso el Secretario judicial dará vista a la apelante, por cinco días, de esta alegación. También podrá el apelado, en el mismo escrito, adherirse a la apelación, razonando los puntos en que crea que le es perjudicial la sentencia, y en este caso el Secretario dará traslado al apelante del escrito de oposición por plazo de diez días, al solo efecto de que pueda oponerse a la adhesión."
+5. Transcurridos los plazos a que se refieren los apartados 2 y 4 anteriores, el Juzgado elevará los autos y el expediente administrativo, en unión de los escritos presentados, ordenándose el emplazamiento de las partes para su comparecencia en el plazo de treinta días ante la Sala de lo Contencioso-administrativo competente, que resolverá, en su caso, lo que proceda sobre la discutida admisión del recurso o sobre el recibimiento a prueba.
+6. Cuando la Sala estime procedente la prueba solicitada, su práctica tendrá lugar con citación de las partes.
+7. Las partes, en los escritos de interposición y de oposición al recurso, podrán solicitar que se celebre vista, que se presenten conclusiones o que el pleito sea declarado concluso, sin más trámites, para sentencia.
+8. El Secretario judicial acordará la celebración de vista, en cuyo caso hará el oportuno señalamiento, o la presentación de conclusiones si lo hubieren solicitado todas las partes o si se hubiere practicado prueba. La Sala también podrá acordar que se celebre vista, que señalará el secretario, o que se presenten conclusiones escritas cuando lo estimare necesario, atendida la índole del asunto. Será de aplicación a estos trámites lo dispuesto en los artículos 63 a 65.
+Celebrada la vista o presentadas las conclusiones, el Secretario judicial declarará que el pleito ha quedado concluso para sentencia.
+9. La Sala dictará sentencia en el plazo de diez días desde la declaración de que el pleito está concluso para sentencia.
+10. Cuando la Sala revoque en apelación la sentencia impugnada que hubiere declarado la inadmisibilidad del recurso contencioso-administrativo, resolverá al mismo tiempo sobre el fondo del asunto.
+Se modifican los apartados 3 y 4 por el art. 102.20 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 1, 2, 4, 5 y 8 por el art. 14.31 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 3
+
+Sección 3.ª Recurso de casación
+
+### Artículo 86
+
+Artículo 86.
+1. Las sentencias dictadas en única instancia por los Juzgados de lo Contencioso-administrativo y las dictadas en única instancia o en apelación por la Sala de lo Contencioso-administrativo de la Audiencia Nacional y por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia serán susceptibles de recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo.
+En el caso de las sentencias dictadas en única instancia por los Juzgados de lo Contencioso-administrativo, únicamente serán susceptibles de recurso las sentencias que contengan doctrina que se reputa gravemente dañosa para los intereses generales y sean susceptibles de extensión de efectos.
+2. Se exceptúan de lo establecido en el apartado anterior las sentencias dictadas en el procedimiento para la protección del derecho fundamental de reunión y en los procesos contencioso-electorales.
+3. Las sentencias que, siendo susceptibles de casación, hayan sido dictadas por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia sólo serán recurribles ante la Sala de lo Contencioso-administrativo del Tribunal Supremo si el recurso pretende fundarse en infracción de normas de Derecho estatal o de la Unión Europea que sea relevante y determinante del fallo impugnado, siempre que hubieran sido invocadas oportunamente en el proceso o consideradas por la Sala sentenciadora.
+Cuando el recurso se fundare en infracción de normas emanadas de la Comunidad Autónoma será competente una Sección de la Sala de lo Contencioso-administrativo que tenga su sede en el Tribunal Superior de Justicia compuesta por el Presidente de dicha Sala, que la presidirá, por el Presidente o Presidentes de las demás Salas de lo Contencioso-administrativo y, en su caso, de las Secciones de las mismas, en número no superior a dos, y por los Magistrados de la referida Sala o Salas que fueran necesarios para completar un total de cinco miembros.
+Si la Sala o Salas de lo Contencioso-administrativo tuviesen más de una Sección, la Sala de Gobierno del Tribunal Superior de Justicia establecerá para cada año judicial el turno con arreglo al cual los Presidentes de Sección ocuparán los puestos de la regulada en este apartado. También lo establecerá entre todos los Magistrados que presten servicio en la Sala o Salas.
+4. Las resoluciones del Tribunal de Cuentas en materia de responsabilidad contable serán susceptibles de recurso de casación en los casos establecidos en su Ley de Funcionamiento.
+Téngase en cuenta que esta última actualización establecida por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Las sentencias dictadas en única instancia por la Sala de lo Contencioso-administrativo de la Audiencia Nacional y por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia serán susceptibles de recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo.
+ 2. Se exceptúan de lo establecido en el apartado anterior:
+ a) Las sentencias que se refieran a cuestiones de personal al servicio de las Administraciones públicas, salvo que afecten al nacimiento o a la extinción de la relación de servicio de funcionarios de carrera.
+ b) Las recaídas, cualquiera que fuere la materia, en asuntos cuya cuantía no exceda de 600.000 euros, excepto cuando se trate del procedimiento especial para la defensa de los derechos fundamentales, en cuyo caso procederá el recurso cualquiera que sea la cuantía del asunto litigioso.
+ c) Las dictadas en el procedimiento para la protección del derecho fundamental de reunión a que se refiere el artículo 122.
+ d) Las dictadas en materia electoral.
+ 3. Cabrá en todo caso recurso de casación contra las sentencias de la Audiencia Nacional y de los Tribunales Superiores de Justicia que declaren nula o conforme a Derecho una disposición de carácter general.
+ 4. Las sentencias que, siendo susceptibles de casación por aplicación de los apartados precedentes, hayan sido dictadas por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia sólo serán recurribles en casación si el recurso pretende fundarse en infracción de normas de Derecho estatal o comunitario europeo que sea relevante y determinante del fallo recurrido, siempre que hubieran sido invocadas oportunamente en el proceso o consideradas por la Sala sentenciadora.
+ 5. Las resoluciones del Tribunal de Cuentas en materia de responsabilidad contable serán susceptibles de recurso de casación en los casos establecidos en su Ley de Funcionamiento."
+Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 2.b) por el art. 3.6 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica la letra b) del apartado 2 por el art. 14.32 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 87
+
+Artículo 87.
+1. También son susceptibles de recurso de casación los siguientes autos dictados por la Sala de lo Contencioso-administrativo de la Audiencia Nacional y por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia, con la misma excepción e igual límite dispuestos en los apartados 2 y 3 del artículo anterior:
+a) Los que declaren la inadmisión del recurso contencioso-administrativo o hagan imposible su continuación.
+b) Los que pongan término a la pieza separada de suspensión o de otras medidas cautelares.
+c) Los recaídos en ejecución de sentencia, siempre que resuelvan cuestiones no decididas, directa o indirectamente, en aquélla o que contradigan los términos del fallo que se ejecuta.
+d) Los dictados en el caso previsto en el artículo 91.
+e) Los dictados en aplicación de los artículos 110 y 111.
+1 bis. Serán susceptibles de recurso de casación, en todo caso, los autos dictados en aplicación del artículo 10.8 y del artículo 11.1.i) de esta ley.
+2. Para que pueda prepararse el recurso de casación en los casos previstos en el apartado 1, es requisito necesario interponer previamente el recurso de reposición. Sin embargo, no será requisito necesario interponer previamente recurso de reposición en los recursos de casación contra los autos a que se refiere el apartado 1 bis.
+Se añade el apartado 1 bis y se modifica el apartado 2 por el art. 15.1 y 2 del Real Decreto-ley 8/2021, de 4 de mayo. Ref. BOE-A-2021-7351#a1-7
+ Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 3 por la disposición final 14.2 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo 87 bis
+
+Artículo 87 bis.
+1. Sin perjuicio de lo dispuesto en el artículo 93.3, el recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo se limitará a las cuestiones de derecho, con exclusión de las cuestiones de hecho.
+2. Las pretensiones del recurso de casación deberán tener por objeto la anulación, total o parcial, de la sentencia o auto impugnado y, en su caso, la devolución de los autos al Tribunal de instancia o la resolución del litigio por la Sala de lo Contencioso-administrativo del Tribunal Supremo dentro de los términos en que apareciese planteado el debate.
+3. La Sala de Gobierno del Tribunal Supremo podrá determinar, mediante acuerdo que se publicará en el “Boletín Oficial del Estado”, la extensión máxima y otras condiciones extrínsecas, incluidas las relativas a su presentación por medios telemáticos, de los escritos de interposición y de oposición de los recursos de casación.
+Téngase en cuenta que este artículo añadido por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+Se añade por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 87 ter
+
+Artículo 87 ter.
+1. El recurso de casación contra autos dictados en aplicación del artículo 10.8 y del artículo 11.1.i) de esta ley, se iniciará mediante escrito presentado ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo en el que las partes comparecerán e interpondrán directamente el recurso de casación.
+2. La parte recurrente, el mismo día en que interponga el recurso, habrá de presentar escrito ante la Sala de instancia poniendo en su conocimiento el hecho de la interposición, debiendo dicha Sala, en el día siguiente hábil a esa comunicación, remitir el testimonio de las actuaciones seguidas en el procedimiento en que se dictó el auto recurrido a la Sala de lo Contencioso-administrativo del Tribunal Supremo.
+3. El escrito de comparecencia e interposición habrá de presentarse en el plazo de tres días hábiles contados desde la fecha de notificación del auto impugnado y, con acompañamiento de testimonio de dicho auto, expondrá los requisitos de procedimiento, señalando la cuestión de interés casacional sobre la que se interesa se fije doctrina y las pretensiones relativas al enjuiciamiento del auto recurrido.
+4. Si el objeto de la autorización o ratificación hubiera sido una medida adoptada por una autoridad sanitaria de ámbito distinto al estatal en cumplimiento de actuaciones coordinadas en salud pública declaradas por el Ministerio de Sanidad, en su caso previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, también ostentará legitimación activa en el presente recurso la Administración General del Estado.
+5. Cuando las circunstancias del caso lo hagan necesario y, en todo caso, cuando la demora en la resolución pueda causar perjuicios irreversibles, las partes podrán solicitar en el escrito de interposición que se habiliten los días inhábiles para la tramitación y resolución del recurso de casación. Contra la decisión que deniegue la habilitación solicitada no cabrá recurso.
+6. Presentado el escrito será turnado de inmediato a la Sección competente para la tramitación y decisión, que lo tramitará preferentemente, dando traslado al Ministerio Fiscal y a las partes para que comparezcan y formulen alegaciones por plazo común de tres días.
+7. Transcurrido el plazo de alegaciones, y sin que resulte de aplicación lo previsto en el artículo 128.1 de la presente ley sobre la declaración de caducidad, la Sección competente para la tramitación y decisión fijará doctrina y resolverá sobre las cuestiones y pretensiones planteadas, en el plazo de los cinco días siguientes.
+8. Se aplicarán a todos los escritos los requisitos de extensión máxima y normas de estilo establecidas por la Sala en cumplimiento de lo dispuesto en el artículo 87 bis.3 de la presente ley.
+Se añade por el art. 15.3 del Real Decreto-ley 8/2021, de 4 de mayo. Ref. BOE-A-2021-7351#a1-7
+
+### Artículo 88
+
+Artículo 88.
+1. El recurso de casación podrá ser admitido a trámite cuando, invocada una concreta infracción del ordenamiento jurídico, tanto procesal como sustantiva, o de la jurisprudencia, la Sala de lo Contencioso-Administrativo del Tribunal Supremo estime que el recurso presenta interés casacional objetivo para la formación de jurisprudencia.
+2. El Tribunal de casación podrá apreciar que existe interés casacional objetivo, motivándolo expresamente en el auto de admisión, cuando, entre otras circunstancias, la resolución que se impugna:
+a) Fije, ante cuestiones sustancialmente iguales, una interpretación de las normas de Derecho estatal o de la Unión Europea en las que se fundamenta el fallo contradictoria con la que otros órganos jurisdiccionales hayan establecido.
+b) Siente una doctrina sobre dichas normas que pueda ser gravemente dañosa para los intereses generales.
+c) Afecte a un gran número de situaciones, bien en sí misma o por trascender del caso objeto del proceso.
+d) Resuelva un debate que haya versado sobre la validez constitucional de una norma con rango de ley, sin que la improcedencia de plantear la pertinente cuestión de inconstitucionalidad aparezca suficientemente esclarecida.
+e) Interprete y aplique aparentemente con error y como fundamento de su decisión una doctrina constitucional.
+f)  Interprete y aplique el Derecho de la Unión Europea en contradicción aparente con la jurisprudencia del Tribunal de Justicia o en supuestos en que aun pueda ser exigible la intervención de éste a título prejudicial.
+g) Resuelva un proceso en que se impugnó, directa o indirectamente, una disposición de carácter general.
+h) Resuelva un proceso en que lo impugnado fue un convenio celebrado entre Administraciones públicas.
+i) Haya sido dictada en el procedimiento especial de protección de derechos fundamentales.
+3. Se presumirá que existe interés casacional objetivo:
+a) Cuando en la resolución impugnada se hayan aplicado normas en las que se sustente la razón de decidir sobre las que no exista jurisprudencia.
+b) Cuando dicha resolución se aparte de la jurisprudencia existente de modo deliberado por considerarla errónea o de modo inmotivado pese a haber sido citada en el debate o ser doctrina asentada.
+Téngase en cuenta que esta actualización de la letra b) del apartado 3, establecida por el art. 224.3 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "b) Cuando dicha resolución se aparte deliberadamente de la jurisprudencia existente al considerarla errónea."
+c) Cuando la sentencia recurrida declare nula una disposición de carácter general, salvo que esta, con toda evidencia, carezca de trascendencia suficiente.
+d) Cuando resuelva recursos contra actos o disposiciones de los organismos reguladores o de supervisión o agencias estatales cuyo enjuiciamiento corresponde a la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+e) Cuando resuelva recursos contra actos o disposiciones de los Gobiernos o Consejos de Gobierno de las Comunidades Autónomas.
+No obstante, en los supuestos referidos en las letras a), d) y e) el recurso podrá inadmitirse por auto motivado cuando el Tribunal aprecie que el asunto carece manifiestamente de interés casacional objetivo para la formación de jurisprudencia.
+Se modifica la letra b) del apartado 3 por el art. 224.3 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 89
+
+Artículo 89.
+1. El recurso de casación se preparará ante la Sala de instancia en el plazo de treinta días, contados desde el siguiente al de la notificación de la resolución que se recurre, estando legitimados para ello quienes hayan sido parte en el proceso, o debieran haberlo sido.
+2. El escrito de preparación deberá, en apartados separados que se encabezarán con un epígrafe expresivo de aquello de lo que tratan:
+a) Acreditar el cumplimiento de los requisitos reglados en orden al plazo, la legitimación y la recurribilidad de la resolución que se impugna.
+b) Identificar con precisión las normas o la jurisprudencia que se consideran infringidas, justificando que fueron alegadas en el proceso, o tomadas en consideración por la Sala de instancia, o que ésta hubiera debido observarlas aun sin ser alegadas.
+c) Acreditar, si la infracción imputada lo es de normas o de jurisprudencia relativas a los actos o garantías procesales que produjo indefensión, que se pidió la subsanación de la falta o transgresión en la instancia, de haber existido momento procesal oportuno para ello.
+d) Justificar que la o las infracciones imputadas han sido relevantes y determinantes de la decisión adoptada en la resolución que se pretende recurrir.
+e) Justificar, en el caso de que ésta hubiera sido dictada por la Sala de lo Contencioso-administrativo de un Tribunal Superior de Justicia, que la norma supuestamente infringida forma parte del Derecho estatal o del de la Unión Europea.
+f) Especialmente, fundamentar con singular referencia al caso, que concurren alguno o algunos de los supuestos que, con arreglo a los apartados 2 y 3 del artículo anterior, permiten apreciar el interés casacional objetivo y la conveniencia de un pronunciamiento de la Sala de lo Contencioso-administrativo del Tribunal Supremo.
+3. Si el escrito de preparación no se presentara en el plazo de treinta días, la sentencia o auto quedará firme, declarándolo así el Letrado de la Administración de Justicia mediante decreto. Contra esta decisión sólo cabrá el recurso directo de revisión regulado en el artículo 102 bis de esta Ley.
+4. Si, aun presentado en plazo, no cumpliera los requisitos que impone el apartado 2 de este artículo, la Sala de instancia, mediante auto motivado, tendrá por no preparado el recurso de casación, denegando el emplazamiento de las partes y la remisión de las actuaciones al Tribunal Supremo. Contra este auto únicamente podrá interponerse recurso de queja, que se sustanciará en la forma establecida por la Ley de Enjuiciamiento Civil.
+5. Si se cumplieran los requisitos exigidos por el apartado 2, dicha Sala, mediante auto en el que se motivará suficientemente su concurrencia, tendrá por preparado el recurso de casación, ordenando el emplazamiento de las partes para su comparecencia dentro del plazo de quince días ante la Sala de lo Contencioso-administrativo del Tribunal Supremo, así como la remisión a ésta de los autos originales y del expediente administrativo. Y, si lo entiende oportuno, emitirá opinión sucinta y fundada sobre el interés objetivo del recurso para la formación de jurisprudencia, que unirá al oficio de remisión.
+Téngase en cuenta que esta actualización del apartado 5, establecida por el art. 224.4 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "5. Si se cumplieran los requisitos exigidos por el apartado 2, dicha Sala, mediante auto en el que se motivará suficientemente su concurrencia, tendrá por preparado el recurso de casación, ordenando el emplazamiento de las partes para su comparecencia dentro del plazo de treinta días ante la Sala de lo Contencioso-administrativo del Tribunal Supremo, así como la remisión a ésta de los autos originales y del expediente administrativo Y, si lo entiende oportuno, emitirá opinión sucinta y fundada sobre el interés objetivo del recurso para la formación de jurisprudencia, que unirá al oficio de remisión."
+6. Contra el auto en que se tenga por preparado el recurso de casación, la parte recurrida no podrá interponer recurso alguno, pero podrá oponerse a su admisión al tiempo de comparecer ante el Tribunal Supremo, si lo hiciere dentro del término del emplazamiento.
+Se modifica el apartado 5 por el art. 224.4 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 4 por el art. 14.33 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 90
+
+Artículo 90.
+1. Recibidos los autos originales y el expediente administrativo, la Sección de la Sala de lo Contencioso-administrativo del Tribunal Supremo a que se refiere el apartado siguiente podrá acordar, excepcionalmente y sólo si las características del asunto lo aconsejan, oír a las partes personadas por plazo común de veinte días acerca de si el recurso presenta interés casacional objetivo para la formación de jurisprudencia.
+2. La admisión o inadmisión a trámite del recurso será decidida por una Sección de la Sala de lo Contencioso-administrativo del Tribunal Supremo integrada por el Presidente de la Sala y por al menos un Magistrado de cada una de sus restantes Secciones. Con excepción del Presidente de la Sala, dicha composición se renovará por mitad transcurrido un año desde la fecha de su primera constitución y en lo sucesivo cada seis meses, mediante acuerdo de la Sala de Gobierno del Tribunal Supremo que determinará sus integrantes para cada uno de los citados periodos y que se publicará en la página web del Poder Judicial.
+3. La resolución sobre la admisión o inadmisión del recurso adoptará la siguiente forma:
+a) En los supuestos del apartado 2 del artículo 88, en los que ha de apreciarse la existencia de interés casacional objetivo para la formación de jurisprudencia, la resolución adoptará la forma de providencia sucintamente motivada, si decide la inadmisión, y de auto, si acuerda la admisión a trámite. No obstante, si el órgano que dictó la resolución recurrida hubiera emitido en el trámite que prevé el artículo 89.5 opinión que, además de fundada, sea favorable a la admisión del recurso, la inadmisión se acordará por auto motivado.
+b) En los supuestos del apartado 3 del artículo 88, en los que se presume la existencia de interés casacional objetivo, la inadmisión se acordará por auto motivado en el que se justificará que concurren las salvedades que en aquél se establecen.
+Téngase en cuenta que esta actualización del apartado 1 y de la letra a) del apartado 3, establecida por el art. 224.5 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "1. Recibidos los autos originales y el expediente administrativo, la Sección de la Sala de lo Contencioso-administrativo del Tribunal Supremo a que se refiere el apartado siguiente podrá acordar, excepcionalmente y sólo si las características del asunto lo aconsejan, oír a las partes personadas por plazo común de treinta días acerca de si el recurso presenta interés casacional objetivo para la formación de jurisprudencia."
+ "3. La resolución sobre la admisión o inadmisión del recurso adoptará la siguiente forma:
+ a) En los supuestos del apartado 2 del artículo 88, en los que ha de apreciarse la existencia de interés casacional objetivo para la formación de jurisprudencia, la resolución adoptará la forma de providencia, si decide la inadmisión, y de auto, si acuerda la admisión a trámite. No obstante, si el órgano que dictó la resolución recurrida hubiera emitido en el trámite que prevé el artículo 89.5 opinión que, además de fundada, sea favorable a la admisión del recurso, la inadmisión se acordará por auto motivado."
+4. Los autos de admisión precisarán la cuestión o cuestiones en las que se entiende que existe interés casacional objetivo e identificarán la norma o normas jurídicas que en principio serán objeto de interpretación, sin perjuicio de que la sentencia haya de extenderse a otras si así lo exigiere el debate finalmente trabado en el recurso. Las providencias de inadmisión únicamente indicarán si en el recurso de casación concurre una de estas circunstancias:
+a) ausencia de los requisitos reglados de plazo, legitimación o recurribilidad de la resolución impugnada;
+b) incumplimiento de cualquiera de las exigencias que el artículo 89.2 impone para el escrito de preparación;
+c) no ser relevante y determinante del fallo ninguna de las infracciones denunciadas; o
+d) carencia en el recurso de interés casacional objetivo para la formación de jurisprudencia.
+5. Contra las providencias y los autos de admisión o inadmisión no cabrá recurso alguno.
+6. El Letrado de la Administración de Justicia de Sala comunicará inmediatamente a la Sala de instancia la decisión adoptada y, si es de inadmisión, le devolverá las actuaciones procesales y el expediente administrativo recibidos.
+7. Los autos de admisión del recurso de casación se publicarán en la página web del Tribunal Supremo. Con periodicidad semestral, su Sala de lo Contencioso-administrativo hará público, en la mencionada página web y en el «Boletín Oficial del Estado», el listado de recursos de casación admitidos a trámite, con mención sucinta de la norma o normas que serán objeto de interpretación y de la programación para su resolución.
+8. La inadmisión a trámite del recurso de casación comportará la imposición de las costas a la parte recurrente, pudiendo tal imposición ser limitada a una parte de ellas o hasta una cifra máxima.
+Se modifica el apartado 1 y la letra a) del apartado 3 por el art. 224.5 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica por el art.14.34 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 91
+
+Artículo 91.
+1. La preparación del recurso de casación no impedirá la ejecución provisional de la sentencia recurrida.
+Las partes favorecidas por la sentencia podrán instar su ejecución provisional. Cuando de ésta pudieran derivarse perjuicios de cualquier naturaleza, podrán acordarse las medidas que sean adecuadas para evitar o paliar dichos perjuicios. Igualmente podrá exigirse la presentación de caución o garantía para responder de aquéllos. No podrá llevarse a efecto la ejecución provisional hasta que la caución o la medida acordada esté constituida y acreditada en autos.
+2. La constitución de la caución se ajustará a lo establecido en el artículo 133.2 de esta Ley.
+3. El Tribunal de instancia denegará la ejecución provisional cuando pueda crear situaciones irreversibles o causar perjuicios de difícil reparación.
+4. Cuando se tenga por preparado un recurso de casación, el Letrado de la Administración de Justicia dejara testimonio bastante de los autos y de la resolución recurrida a los efectos previstos en este artículo.
+Téngase en cuenta que esta última actualización establecida por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. La preparación del recurso de casación no impedirá la ejecución provisional de la sentencia recurrida.
+ Las partes favorecidas por la sentencia podrán instar su ejecución provisional. Cuando de ésta pudieran derivarse perjuicios de cualquier naturaleza, podrán acordarse las medidas que sean adecuadas para evitar o paliar dichos perjuicios. Igualmente podrá exigirse la presentación de caución o garantía para responder de aquéllos. No podrá llevarse a efecto la ejecución provisional hasta que la caución o la medida acordada esté constituida y acreditada en autos.
+ 2. La constitución de la caución se ajustará a lo establecido en el artículo 133.2.
+ 3. El Juez o Tribunal denegará la ejecución provisional cuando pueda crear situaciones irreversibles o causar perjuicios de difícil reparación.
+ 4. Cuando se tenga por preparado un recurso de casación, el Secretario judicial dejará testimonio bastante de los autos y de la resolución recurrida a los efectos previstos en este artículo."
+Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 3 y 4 por el art. 14.35 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 92
+
+Artículo 92.
+1. Admitido el recurso, el letrado de la Administración de Justicia de la Sección de Admisión de la Sala de lo Contencioso-administrativo del Tribunal Supremo dictará diligencia de ordenación en la que dispondrá remitir las actuaciones a la Sección de dicha Sala competente para su tramitación y decisión y en la que hará saber a la parte recurrente que dispone de un plazo de treinta días, a contar desde la notificación de aquélla, para presentar en la Secretaría de esa Sección competente el escrito de interposición del recurso de casación. Durante este plazo, las actuaciones procesales y el expediente administrativo estarán de manifiesto en la Oficina judicial o por medios electrónicos.
+2. Transcurrido dicho plazo sin presentar el escrito de interposición, el Letrado de la Administración de Justicia declarará desierto el recurso, ordenando la devolución de las actuaciones recibidas a la Sala de que procedieran. Contra tal declaración sólo podrán interponerse los recursos que prevé el artículo 102 bis de esta Ley.
+3. El escrito de interposición deberá, en apartados separados que se encabezarán con un epígrafe expresivo de aquello de lo que tratan:
+a) Exponer razonadamente por qué han sido infringidas las normas o la jurisprudencia que como tales se identificaron en el escrito de preparación, sin poder extenderse a otra u otras no consideradas entonces, debiendo analizar, y no sólo citar, las sentencias del Tribunal Supremo que a juicio de la parte son expresivas de aquella jurisprudencia, para justificar su aplicabilidad al caso; y
+b) Precisar el sentido de las pretensiones que la parte deduce y de los pronunciamientos que solicita.
+4. Si el escrito de interposición no cumpliera lo exigido en el apartado anterior, la Sección de la Sala de lo Contencioso-administrativo del Tribunal Supremo competente para la resolución del recurso acordará oír a la parte recurrente sobre el incumplimiento detectado y, sin más trámites, dictará sentencia inadmitiéndolo si entendiera tras la audiencia que el incumplimiento fue cierto. En ella, impondrá a dicha parte las costas causadas, pudiendo tal imposición ser limitada a una parte de ellas o hasta una cifra máxima.
+5. En otro caso, acordará dar traslado del escrito de interposición a la parte o partes recurridas y personadas para que puedan oponerse al recurso en el plazo común de treinta días. Durante este plazo estarán de manifiesto las actuaciones procesales y el expediente administrativo en la Oficina judicial o por medios electrónicos. En el escrito de oposición no podrá pretenderse la inadmisión del recurso.
+6. Transcurrido dicho plazo, háyanse presentado o no los escritos de oposición, la Sección competente para la decisión del recurso, de oficio o a petición de cualquiera de las partes formulada por otrosí en los escritos de interposición u oposición, acordará la celebración de vista pública salvo que entendiera que la índole del asunto la hace innecesaria, en cuyo caso declarará que el recurso queda concluso y pendiente de votación y fallo. El señalamiento del día en que haya de celebrarse la vista o en que haya de tener lugar el acto de votación y fallo respetará la programación que, atendiendo prioritariamente al criterio de mayor antigüedad del recurso, se haya podido establecer.
+7. Cuando la índole del asunto lo aconsejara, el Presidente de la Sala de lo Contencioso-administrativo del Tribunal Supremo, de oficio o a petición de la mayoría de los Magistrados de la Sección antes indicada, podrá acordar que los actos de vista pública o de votación y fallo tengan lugar ante el Pleno de la Sala.
+8. La Sección competente, o el Pleno de la Sala en el caso previsto en el apartado anterior, dictará sentencia en el plazo de diez días desde que termine la deliberación para votación y fallo.
+Téngase en cuenta que la modificación de los apartados 1 y 5, establecida por el art. 102.21 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "1. Admitido el recurso, el Letrado de la Administración de Justicia de la Sección de Admisión de la Sala de lo Contencioso-administrativo del Tribunal Supremo dictará diligencia de ordenación en la que dispondrá remitir las actuaciones a la Sección de dicha Sala competente para su tramitación y decisión y en la que hará saber a la parte recurrente que dispone de un plazo de treinta días, a contar desde la notificación de aquélla, para presentar en la Secretaría de esa Sección competente el escrito de interposición del recurso de casación. Durante este plazo, las actuaciones procesales y el expediente administrativo estarán de manifiesto en la Oficina judicial.
+ ...
+ "5. En otro caso, acordará dar traslado del escrito de interposición a la parte o partes recurridas y personadas para que puedan oponerse al recurso en el plazo común de treinta días. Durante este plazo estarán de manifiesto las actuaciones procesales y el expediente administrativo en la Oficina judicial. En el escrito de oposición no podrá pretenderse la inadmisión del recurso."
+ ...
+Se modifican los apartados 1 y 5 por el art. 102.21 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 2 y 4 por el art. 14.36 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 93
+
+Artículo 93.
+1. La sentencia fijará la interpretación de aquellas normas estatales o la que tenga por establecida o clara de las de la Unión Europea sobre las que, en el auto de admisión a trámite, se consideró necesario el pronunciamiento del Tribunal Supremo. Y, con arreglo a ella y a las restantes normas que fueran aplicables, resolverá las cuestiones y pretensiones deducidas en el proceso, anulando la sentencia o auto recurrido, en todo o en parte, o confirmándolos. Podrá asimismo, cuando justifique su necesidad, ordenar la retroacción de actuaciones a un momento determinado del procedimiento de instancia para que siga el curso ordenado por la ley hasta su culminación.
+2. Si apreciara que el orden jurisdiccional contencioso-administrativo no es competente para el conocimiento de aquellas pretensiones, o que no lo era el órgano judicial de instancia, anulará la resolución recurrida e indicará, en el primer caso, el concreto orden jurisdiccional que se estima competente, con los efectos que prevé el artículo 5.3 de esta Ley, o remitirá, en el segundo, las actuaciones al órgano judicial que hubiera debido conocer de ellas.
+3. En la resolución de la concreta controversia jurídica que es objeto del proceso, el Tribunal Supremo podrá integrar en los hechos admitidos como probados por la Sala de instancia aquellos que, habiendo sido omitidos por ésta, estén suficientemente justificados según las actuaciones y cuya toma en consideración resulte necesaria para apreciar la infracción alegada de las normas del ordenamiento jurídico o de la jurisprudencia, incluso la desviación de poder.
+4. La sentencia que se dicte en el momento procesal a que se refiere el apartado 8 del artículo anterior, resolverá sobre las costas de la instancia conforme a lo establecido en el artículo 139.1 de esta ley y dispondrá, en cuanto a las del recurso de casación, que cada parte abone las causadas a su instancia y las comunes por mitad. No obstante, podrá imponer las del recurso de casación a una sola de ellas cuando la sentencia aprecie, y así lo motive, que ha actuado con mala fe o temeridad; imposición que podrá limitar a una parte de ellas o hasta una cifra máxima.
+Téngase en cuenta que esta última actualización establecida por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Interpuesto el recurso de casación, el Secretario judicial pasará las actuaciones al Magistrado ponente para que se instruya y someta a la deliberación de la Sala lo que haya de resolverse sobre la admisión o inadmisión del recurso interpuesto.
+ 2. La Sala dictará auto de inadmisión en los siguientes casos:
+ a) Si, no obstante haberse tenido por preparado el recurso, se apreciare en este trámite que no se han observado los requisitos exigidos o que la resolución impugnada no es susceptible de recurso de casaciónª estos efectos, la Sala podrá rectificar fundadamente la cuantía inicialmente fijada, de oficio o a instancia de la parte recurrida, si ésta lo solicita dentro del término del emplazamiento.
+ b) Si el motivo o motivos invocados en el escrito de interposición del recurso no se encuentran comprendidos entre los que se relacionan en el artículo 88; si no se citan las normas o la jurisprudencia que se reputan infringidas; si las citas hechas no guardan relación alguna con las cuestiones debatidas; o si, siendo necesario haber pedido la subsanación de la falta, no hay constancia de que se haya hecho.
+ c) Si se hubieren desestimado en el fondo otros recursos sustancialmente iguales.
+ d) Si el recurso carece manifiestamente de fundamento.
+ e) En los asuntos de cuantía indeterminada que no se refieran a la impugnación directa o indirecta de una disposición general, si el recurso estuviese fundado en el motivo del artículo 88.1. d) y se apreciase que el asunto carece de interés casacional por no afectar a un gran número de situaciones o no poseer el suficiente contenido de generalidad.
+ 3. La Sala, antes de resolver, pondrá de manifiesto sucintamente la posible causa de inadmisión del recurso a las partes personadas por plazo de diez días para que formulen las alegaciones que estimen procedentes.
+ 4. Si la Sala considera que concurre alguna de las causas de inadmisión, dictará auto motivado declarando la inadmisión del recurso y la firmeza de la resolución recurrida. Si la inadmisión no fuera de todos los motivos aducidos, dictará también auto motivado, continuando la tramitación del recurso respecto de los motivos no afectados por el auto de inadmisión parcial. Para declarar la inadmisión del recurso por cualquiera de las causas previstas en las letras c), d) y e) del apartado 2, será necesario que el auto se dicte por unanimidad.
+ 5. La inadmisión del recurso, cuando sea total, comportará la imposición de las costas al recurrente, salvo si lo es exclusivamente por la causa prevista en la letra e) del apartado 2.
+ 6. Contra los autos a que se refiere este artículo no se dará recurso alguno."
+Se modifica por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 1 por el art. 14.37 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 94
+
+Artículo 94.
+1. Cuando por la Sección de admisión de la Sala de lo Contencioso-administrativo del Tribunal Supremo se constate la existencia de un gran número de recursos que susciten una cuestión jurídica sustancialmente igual, podrá acordar la admisión de uno o varios de ellos, cuando cumplan las exigencias impuestas en el artículo 89.2 y presenten interés casacional objetivo, para su tramitación y resolución preferente, suspendiendo el trámite de admisión de los demás hasta que se dicte sentencia en el primero o primeros.
+2. Una vez dictada sentencia de fondo se llevará testimonio de esta a los recursos suspendidos y se notificará a los interesados afectados por la suspensión, dándoles un plazo de alegaciones de diez días a fin de que puedan interesar la continuación del trámite de su recurso de casación, o bien desistir del mismo. En caso de que interesen la continuación valorarán la incidencia que la sentencia de fondo dictada por el Tribunal Supremo tiene sobre su recurso.
+3. Efectuadas dichas alegaciones y cuando no se hubiera producido el desistimiento, si la sentencia impugnada en casación resulta coincidente, en su fallo y razón de decidir, con lo resuelto por la sentencia o sentencias del Tribunal Supremo, se inadmitirán por providencia los recursos de casación pendientes.
+Por el contrario, si la sentencia impugnada en casación no resulta coincidente, en su fallo y razón de decidir, con lo resuelto por la sentencia o sentencias del Tribunal Supremo, se dictará auto de admisión y se remitirá el conocimiento del asunto a la Sección correspondiente, siempre que el escrito de preparación cumpla las exigencias impuestas en el artículo 89.2 y presente interés casacional objetivo.
+4. Remitidas las actuaciones, la Sección resolverá si continua con la tramitación prevista en el artículo 92 o si dicta sentencia sin más trámite, remitiéndose a lo acordado en la sentencia de referencia y adoptando los demás pronunciamientos que considere necesarios.
+Téngase en cuenta que esta actualización, establecida por el art. 224.6 del Real Decreto-ley 5/2023, de 28 de junio, Ref. BOE-A-2023-15135#a2-36, entra en vigor el 29 de julio de 2023, según establece su disposición final 9. Anteriormente se encontraba suprimido.
+Se modifica por el art. 224.6 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-36
+ Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
+ Véase la disposición transitoria 10.3, en cuanto a la aplicación de esta modificación.
+ Se suprime por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 1 y 2 por el art. 14.38 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 95
+
+Artículo 95.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. La sentencia que resuelva el recurso de casación podrá declarar su inadmisibilidad si concurre alguno de los motivos previstos en el artículo 93.2.
+ 2. Si se estimare el recurso por todos o alguno de los motivos aducidos, la Sala, en una sola sentencia, casando la recurrida, resolverá conforme a Derecho, teniendo en cuenta lo siguiente:
+ a) De estimarse por el motivo del artículo 88.1.a), se anulará la sentencia o resolución recurrida, indicándose el concreto orden jurisdiccional que se estima competente o se resolverá el asunto, según corresponda. En el primer caso, será aplicable lo dispuesto en el artículo 5.3.
+ b) De estimarse por el motivo del artículo 88.1.b), se remitirán las actuaciones al órgano jurisdiccional competente para que resuelva, o se repondrán al estado y momento exigidos por el procedimiento adecuado para la sustanciación de las mismas, salvo que, por la aplicación de sus normas específicas, dicho procedimiento adecuado no pueda seguirse.
+ c) De estimarse la existencia de las infracciones procesales mencionadas en el motivo del artículo 88.1.c), se mandarán reponer las actuaciones al estado y momento en que se hubiera incurrido en la falta, salvo si la infracción consistiera en vulneración de las normas reguladoras de la sentencia, en cuyo caso se estará a lo dispuesto en la siguiente letra d).
+ d) En los demás casos, la Sala resolverá lo que corresponda dentro de los términos en que apareciera planteado el debate.
+ 3. En la sentencia que declare haber lugar al recurso, la Sala resolverá en cuanto a las costas de la instancia conforme a lo establecido en el artículo 139."
+Se suprime por la disposición final 3.1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### SECCIÓN 4
+
+Sección 4.ª Recursos de casación para la unificación de doctrina
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio.Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 96
+
+Artículo 96.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Podrá interponerse recurso de casación para la unificación de doctrina contra las sentencias dictadas en única instancia por las Salas de lo Contenciosoadministrativo del Tribunal Supremo, Audiencia Nacional y Tribunales Superiores de Justicia cuando, respecto a los mismos litigantes u otros diferentes en idéntica situación y, en mérito a hechos, fundamentos y pretensiones sustancialmente iguales, se hubiere llegado a pronunciamientos distintos.
+ 2. También son recurribles por este mismo concepto las sentencias de la Audiencia Nacional y de los Tribunales Superiores de Justicia dictadas en única instancia cuando la contradicción se produzca con sentencias del Tribunal Supremo en las mismas circunstancias señaladas en el apartado anterior.
+ 3. Sólo serán susceptibles de recurso de casación para la unificación de doctrina aquellas sentencias que no sean recurribles en casación con arreglo a lo establecido en la letra b) del artículo 86.2, siempre que la cuantía litigiosa sea superior a 30.000 euros.
+ 4. En ningún caso serán recurribles las sentencias a que se refiere el artículo 86.2.a), c) y d), ni las que quedan excluidas del recurso de casación en el artículo 86.4.
+ 5. Del recurso de casación para la unificación de doctrina previsto en este artículo conocerá, dentro de la Sala de lo Contencioso-administrativo del Tribunal Supremo, la Sección que corresponda de acuerdo con las reglas generales de organización de la misma Sala.
+ 6. Ello no obstante, cuando se trate de sentencias dictadas en única instancia por el Tribunal Supremo, del recurso conocerá una Sección compuesta por el Presidente del Tribunal Supremo, el de la Sala de lo Contencioso-administrativo y cinco Magistrados de esta misma Sala, que serán los dos más antiguos y los tres más modernos.
+ 7. De este recurso conocerá la Sección a que se refiere el apartado anterior cuando la sentencia del Tribunal Supremo que se cite como infringida provenga, y se haga constar así por el recurrente en el escrito de preparación, de una Sección distinta de aquélla a la que corresponda conocer de acuerdo con lo dispuesto en el apartado 5 de este artículo."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 3 por el art. 3.7 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica el apartado 3 por el art. 14.39 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 97
+
+Artículo 97.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. El recurso de casación para la unificación de doctrina se interpondrá directamente ante la Sala sentenciadora en el plazo de treinta días, contados desde el siguiente a la notificación de la sentencia, mediante escrito razonado que deberá contener relación precisa y circunstanciada de las identidades determinantes de la contradicción alegada y la infracción legal que se imputa a la sentencia recurrida.
+ 2. A este escrito se acompañará certificación de la sentencia o sentencias alegadas con mención de su firmeza o, en su defecto, copia simple de su texto y justificación documental de haberse solicitado aquélla, en cuyo caso el Secretario judicial la reclamará de oficio. Si la sentencia ha sido publicada conforme a lo dispuesto en el artículo 72.2, bastará con indicar el periódico oficial en el que aparezca publicada.
+ 3. Si el escrito de interposición cumple los requisitos previstos en los apartados anteriores y se refiere a una sentencia susceptible de casación para la unificación de la doctrina, el Secretario judicial admitirá el recurso. En otro caso, dará cuenta a la Sala para que resuelva lo que proceda.
+ Admitido el recurso, el Secretario judicial dará traslado del mismo, con entrega de copia, a la parte o partes recurridas para que formalicen por escrito su oposición en el plazo de treinta días, quedando entretanto de manifiesto las actuaciones en la Oficina judicial. El traslado del recurso a la parte o partes recurridas exigirá, en su caso, que previamente se haya traído a los autos la certificación reclamada.
+ 4. Si no se admitiese el recurso se dictará auto motivado, pero antes de resolver la Sala pondrá de manifiesto sucintamente la posible causa de inadmisión a las partes, en el plazo común de cinco días, para que formulen las alegaciones que estimen procedentes. Contra el auto de inadmisión podrá interponerse recurso de queja, que se sustanciará con arreglo a lo establecido en la Ley de Enjuiciamiento Civil.
+ 5. En los escritos de interposición del recurso y de oposición al mismo podrán las partes pedir la celebración de vista.
+ 6. Presentado el escrito o escritos de oposición al recurso, o transcurrido el plazo para ello, la Sala sentenciadora elevará los autos y el expediente administrativo a la Sala de lo Contencioso-administrativo del Tribunal Supremo, ordenándose el emplazamiento de las partes para su comparecencia en el plazo de treinta días.
+ 7. La sustanciación y resolución del recurso de casación para la unificación de doctrina, en todo lo no previsto en los artículos anteriores, se acomodará a lo establecido en la Sección anterior en cuanto resulte aplicable."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 2 a 4 y 6 por el art. 14.40 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 98
+
+Artículo 98.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Los pronunciamientos del Tribunal Supremo al resolver los recursos de casación para la unificación de doctrina en ningún caso afectarán a las situaciones jurídicas creadas por las sentencias precedentes a la impugnada.
+ 2. Si la sentencia declara que ha lugar al recurso, casará la impugnada y resolverá el debate planteado con pronunciamientos ajustados a Derecho, modificando las declaraciones efectuadas y las situaciones creadas por la sentencia recurrida."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 99
+
+Artículo 99.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Son susceptibles de recurso de casación para la unificación de doctrina las sentencias de las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia, si existen varias de estas Salas o la Sala o Salas tienen varias Secciones, cuando, respecto de los mismos litigantes u otros diferentes en idéntica situación y, en mérito a hechos, fundamentos y pretensiones sustancialmente iguales, se hubiere llegado a pronunciamientos distintos. Este recurso sólo podrá fundarse en infracción de normas emanadas de la Comunidad Autónoma.
+ 2. Este recurso únicamente procederá contra sentencias que no sean susceptibles de recurso de casación o de recurso de casación para la unificación de doctrina por aplicación exclusiva de lo previsto en el artículo 86.4 y cuando la cuantía litigiosa supere los 30.000 euros.
+ 3. Del recurso de casación para la unificación de doctrina conocerá una Sección de la Sala de lo Contencioso-administrativo que tenga su sede en el Tribunal Superior de Justicia compuesta por el Presidente de dicha Sala, que la presidirá, por el Presidente o Presidentes de las demás Salas de lo Contencioso-administrativo y, en su caso, de las Secciones de las mismas, en número no superior a dos, y por los Magistrados de la referida Sala o Salas que fueran necesarios para completar un total de cinco miembros.
+ Si la Sala o Salas de lo Contencioso-administrativo tuviesen más de una Sección, la Sala de Gobierno del Tribunal Superior de Justicia establecerá para cada año judicial el turno con arreglo al cual los Presidentes de Sección ocuparán los puestos de la regulada en este apartado. También lo establecerá entre todos los Magistrados que presten servicio en la Sala o Salas.
+ 4. En lo referente a plazos, procedimiento para la sustanciación de este recurso y efectos de la sentencia regirá lo establecido en los artículos 97 y 98 con las adaptaciones necesarias."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 2 por el art. 3.8 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica el apartado 2 por el art. 14.41 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 5
+
+Sección 5.ª Recursos de casación en interés de la Ley
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio.Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 100
+
+Artículo 100.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Las sentencias dictadas en única instancia por los Jueces de lo Contencioso-administrativo y las pronunciadas por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia y de la Audiencia Nacional, que no sean susceptibles de los recursos de casación a que se refieren las dos Secciones anteriores, podrán ser impugnadas por la Administración pública territorial que tenga interés legítimo en el asunto y por las Entidades o Corporaciones que ostenten la representación y defensa de intereses de carácter general o corporativo y tuviesen interés legítimo en el asunto, por el Ministerio Fiscal y por la Administración General del Estado, en interés de la Ley, mediante un recurso de casación, cuando estimen gravemente dañosa para el interés general y errónea la resolución dictada.
+ 2. Únicamente podrá enjuiciarse a través de este recurso la correcta interpretación y aplicación de normas emanadas del Estado que hayan sido determinantes del fallo recurrido.
+ 3. El recurso se interpondrá en el plazo de tres meses, directamente ante la Sala de lo Contencioso-administrativo del Tribunal Supremo, mediante escrito razonado en el que se fijará la doctrina legal que se postule, acompañando copia certificada de la sentencia impugnada en la que deberá constar la fecha de su notificación. Si no se cumplen estos requisitos o el recurso fuera extemporáneo, la Sala ordenará de plano su archivo.
+ 4. Interpuesto el recurso en tiempo y forma, el Secretario judicial del Tribunal Supremo reclamará los autos originales al órgano jurisdiccional sentenciador y mandará emplazar a cuantos hubiesen sido parte en los mismos, para que en el plazo de quince días comparezcan en el recurso.
+ 5. Del escrito de interposición del recurso el Secretario dará traslado, con entrega de copia, a las partes personadas para que en el plazo de treinta días formulen las alegaciones que estimen procedentes, poniéndoles entretanto de manifiesto las actuaciones en la Oficina judicial. Este traslado se entenderá siempre con el defensor de la Administración cuando no fuere recurrente.
+ 6. Transcurrido el plazo de alegaciones, háyanse o no presentado escritos, y previa audiencia del Ministerio Fiscal por plazo de diez días, el Tribunal Supremo dictará sentenciaª la tramitación y resolución de estos recursos se dará carácter preferente.
+ 7. La sentencia que se dicte respetará, en todo caso, la situación jurídica particular derivada de la sentencia recurrida y, cuando fuere estimatoria, fijará en el fallo la doctrina legal. En este caso, se publicará en el «Boletín Oficial del Estado», y a partir de su inserción en él vinculará a todos los Jueces y Tribunales inferiores en grado de este orden jurisdiccional."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 3 a 5 por el art. 14.42 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 101
+
+Artículo 101.
+(Suprimido)
+Téngase en cuenta que este artículo suprimido por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 22 de julio de 2016, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Las sentencias dictadas en única instancia por los Jueces de lo Contencioso-administrativo contra las que no se puede interponer el recurso previsto en el artículo anterior podrán ser impugnadas por la Administración pública territorial que tenga interés legítimo en el asunto y por las Entidades o Corporaciones que ostenten la representación y defensa de intereses de carácter general o corporativo y tuviesen interés legítimo en el asunto, por el Ministerio Fiscal y por la Administración de la Comunidad Autónoma, en interés de la Ley, mediante un recurso de casación, cuando estimen gravemente dañosa para el interés general y errónea la resolución dictada.
+ 2. Únicamente podrá enjuiciarse a través de este recurso la correcta interpretación y aplicación de normas emanadas de la Comunidad Autónoma que hayan sido determinantes del fallo recurrido.
+ 3. De este recurso de casación en interés de la Ley conocerá la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia y, cuando cuente con más de una, la Sección de la Sala que tenga su sede en dicho Tribunal a que se refiere el artículo 99.3.
+ 4. En lo referente a plazos, procedimiento para la sustanciación de este recurso y efectos de la sentencia regirá lo establecido en el artículo anterior con las adaptaciones necesarias. La publicación de la sentencia, en su caso, tendrá lugar en el «Boletín Oficial» de la Comunidad Autónoma y a partir de su inserción en él vinculará a todos los Jueces de lo Contencioso-administrativo con sede en el territorio a que extiende su jurisdicción el Tribunal Superior de Justicia."
+Se suprime por la disposición final 3.2 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### SECCIÓN 6
+
+Sección 6.ª De la revisión de sentencias
+Se modifica la rúbrica por el art. 14.43 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 102
+
+Artículo 102.
+1. Habrá lugar a la revisión de una sentencia firme:
+a) Si después de pronunciada se recobraren documentos decisivos, no aportados por causa de fuerza mayor o por obra de la parte en cuyo favor se hubiere dictado.
+b) Si hubiere recaído en virtud de documentos que, al tiempo de dictarse aquélla, ignoraba una de las partes haber sido reconocidos y declarados falsos o cuya falsedad se reconociese o declarase después.
+c) Si habiéndose dictado en virtud de prueba testifical, los testigos hubieren sido condenados por falso testimonio dado en las declaraciones que sirvieron de fundamento a la sentencia.
+d) Si se hubiere dictado sentencia en virtud de cohecho, prevaricación, violencia u otra maquinación fraudulenta.
+2. Asimismo se podrá interponer recurso de revisión contra una resolución judicial firme cuando el Tribunal Europeo de Derechos Humanos haya declarado que dicha resolución ha sido dictada en violación de alguno de los derechos reconocidos en el Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales y sus Protocolos, siempre que la violación, por su naturaleza y gravedad, entrañe efectos que persistan y no puedan cesar de ningún otro modo que no sea mediante esta revisión, sin que la misma pueda perjudicar los derechos adquiridos de buena fe por terceras personas.
+3. En lo referente a legitimación, plazos, procedimiento y efectos de las sentencias dictadas en este procedimiento de revisión, regirán las disposiciones de la Ley de Enjuiciamiento Civil. No obstante, sólo habrá lugar a la celebración de vista cuando lo pidan todas las partes o la Sala lo estime necesario.
+4. La revisión en materia de responsabilidad contable procederá en los casos establecidos en la Ley de Funcionamiento del Tribunal de Cuentas.
+Téngase en cuenta que esta última actualización establecida por la disposición final 3.3 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
+ Redacción anterior:
+ "1. Habrá lugar a la revisión de una sentencia firme:
+ a) Si después de pronunciada se recobraren documentos decisivos, no aportados por causa de fuerza mayor o por obra de la parte en cuyo favor se hubiere dictado.
+ b) Si hubiere recaído en virtud de documentos que, al tiempo de dictarse aquélla, ignoraba una de las partes haber sido reconocidos y declarados falsos o cuya falsedad se reconociese o declarase después.
+ c) Si habiéndose dictado en virtud de prueba testifical, los testigos hubieren sido condenados por falso testimonio dado en las declaraciones que sirvieron de fundamento a la sentencia.
+ d) Si se hubiere dictado sentencia en virtud de cohecho, prevaricación, violencia u otra maquinación fraudulenta.
+ 2. En lo referente a plazos, procedimiento y efectos de las sentencias dictadas en este procedimiento de revisión, regirán las disposiciones de la Ley de Enjuiciamiento Civil. No obstante, sólo habrá lugar a la celebración de vista cuando lo pidan todas las partes o la Sala lo estime necesario.
+ 3. La revisión en materia de responsabilidad contable procederá en los casos establecidos en la Ley de Funcionamiento del Tribunal de Cuentas."
+Se modifica por la disposición final 3.3 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifican los apartados 2 y 3 por el art. 14.44 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### SECCIÓN 7
+
+Sección 7.ª Recursos contra las resoluciones del Secretario judicial
+Se añade por el art. 14.45 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 102 bis
+
+Artículo 102 bis.
+1. Contra las diligencias de ordenación y decretos no definitivos del Secretario judicial cabrá recurso de reposición ante el Secretario que dictó la resolución recurrida, excepto en los casos en que la Ley prevea recurso directo de revisión.
+El recurso de reposición se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
+Si no se cumplieran los requisitos establecidos en el párrafo anterior, se inadmitirá mediante decreto directamente recurrible en revisión.
+Interpuesto el recurso en tiempo y forma, el Secretario judicial dará traslado de las copias del escrito a las demás partes, por término común de tres días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Secretario judicial resolverá mediante decreto dentro del tercer día.
+2. Cabrá recurso de revisión ante el juez, la jueza o el tribunal contra el decreto resolutivo de la reposición y recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dichos recursos carecerán de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
+Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
+Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.22 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "2. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva.
+ Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
+ Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea."
+ Téngase en cuenta que se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
+3. El recurso de revisión deberá interponerse en el plazo de cinco días mediante escrito en el que deberá citarse la infracción en que la resolución hubiera incurrido.
+Cumplidos los anteriores requisitos, el Secretario judicial, mediante diligencia de ordenación, admitirá el recurso, concediendo a las demás partes personadas un plazo común de cinco días para impugnarlo, si lo estiman conveniente.
+Si no se cumplieran los requisitos de admisibilidad del recurso, el Juzgado o Tribunal lo inadmitirá mediante providencia.
+Transcurrido el plazo para impugnación, háyanse presentado o no escritos, el Juzgado o Tribunal resolverá sin más trámites, mediante auto, en un plazo de cinco días.
+Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
+4. Contra el auto dictado resolviendo el recurso de revisión únicamente cabrá recurso de apelación y de casación en los supuestos previstos en los artículos 80 y 87 de esta Ley, respectivamente.
+Se modifica el apartado 2 por el art. 102.22 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
+ Se añade por el art. 14.45 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO IV
+
+Ejecución de sentencias y demás títulos ejecutivos
+Téngase en cuenta que la modificación de la rúbrica, establecida por el art. 102.23 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "Ejecución de sentencias"
+Se modifica por el art. 102.23 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+### Artículo 103
+
+Artículo 103.
+1. La potestad de hacer ejecutar las sentencias y demás títulos ejecutivos adoptados en el proceso corresponde exclusivamente a los juzgados y tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia.
+Téngase en cuenta que la modificación del apartado 1, establecida por el art. 102.24 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "1. La potestad de hacer ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a los Juzgados y Tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia."
+2. Las partes están obligadas a cumplir las sentencias en la forma y términos que en éstas se consignen.
+3. Todas las personas y entidades públicas y privadas están obligadas a prestar la colaboración requerida por los Jueces y Tribunales de lo Contencioso-administrativo para la debida y completa ejecución de lo resuelto.
+4. Serán nulos de pleno derecho los actos y disposiciones contrarios a los pronunciamientos de las sentencias, que se dicten con la finalidad de eludir su cumplimiento.
+5. El órgano jurisdiccional a quien corresponda la ejecución de la sentencia declarará, a instancia de parte, la nulidad de los actos y disposiciones a que se refiere el apartado anterior, por los trámites previstos en los apartados 2 y 3 del artículo 109, salvo que careciese de competencia para ello conforme a lo dispuesto en esta Ley.
+Se modifica el apartado 1 por el art. 102.24 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+### Artículo 104
+
+Artículo 104.
+1. Luego que sea firme una sentencia, el letrado o letrada de la Administración de Justicia lo comunicará en el plazo de diez días al órgano previamente identificado como responsable de su cumplimiento, a fin de que, recibida la comunicación, la lleve a puro y debido efecto y practique lo que exija el cumplimiento de las declaraciones contenidas en el fallo.
+Téngase en cuenta que la modificación del apartado 1, establecida por el art. 102.25 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "1. Luego que sea firme una sentencia, el Secretario judicial lo comunicará en el plazo de diez días al órgano que hubiera realizado la actividad objeto del recurso, a fin de que, recibida la comunicación, la lleve a puro y debido efecto y practique lo que exija el cumplimiento de las declaraciones contenidas en el fallo, y en el mismo plazo indique el órgano responsable del cumplimiento de aquél."
+2. Transcurridos dos meses a partir de la comunicación de la sentencia o el plazo fijado en ésta para el cumplimiento del fallo conforme al artículo 71.1.c), cualquiera de las partes y personas afectadas podrá instar su ejecución forzosa.
+3. Atendiendo a la naturaleza de lo reclamado y a la efectividad de la sentencia, ésta podrá fijar un plazo inferior para el cumplimiento, cuando lo dispuesto en el apartado anterior lo haga ineficaz o cause grave perjuicio.
+Se modifica el apartado 1 por el art. 102.25 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por el art. 3.9 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se modifica el apartado 1 por el art. 14.46 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 105
+
+Artículo 105.
+1. No podrá suspenderse el cumplimiento ni declararse la inejecución total o parcial del fallo.
+2. Si concurriesen causas de imposibilidad material o legal de ejecutar una sentencia, el órgano obligado a su cumplimiento lo manifestará a la autoridad judicial a través del representante procesal de la Administración, dentro del plazo previsto en el apartado segundo del artículo anterior, a fin de que, con audiencia de las partes y de quienes considere interesados, el Juez o Tribunal aprecie la concurrencia o no de dichas causas y adopte las medidas necesarias que aseguren la mayor efectividad de la ejecutoria, fijando en su caso la indemnización que proceda por la parte en que no pueda ser objeto de cumplimiento pleno.
+3. Son causas de utilidad pública o de interés social para expropiar los derechos o intereses legítimos reconocidos frente a la Administración en una sentencia firme el peligro cierto de alteración grave del libre ejercicio de los derechos y libertades de los ciudadanos, el temor fundado de guerra o el quebranto de la integridad del territorio nacional. La declaración de la concurrencia de alguna de las causas citadas se hará por el Gobierno de la Nación; podrá también efectuarse por el Consejo de Gobierno de la Comunidad Autónoma cuando se trate de peligro cierto de alteración grave del libre ejercicio de los derechos y libertades de los ciudadanos y el acto, actividad o disposición impugnados proviniera de los órganos de la Administración de dicha Comunidad o de las Entidades locales de su territorio, así como de las Entidades de Derecho público y Corporaciones dependientes de una y otras.
+La declaración de concurrencia de alguna de las causas mencionadas en el párrafo anterior habrá de efectuarse dentro de los dos meses siguientes a la comunicación de la sentencia. El Juez o Tribunal a quien competa la ejecución señalará, por el trámite de los incidentes, la correspondiente indemnización y, si la causa alegada fuera la de peligro cierto de alteración grave del libre ejercicio de los derechos y libertades de los ciudadanos, apreciará, además, la concurrencia de dicho motivo.
+
+### Artículo 106
+
+Artículo 106.
+1. Cuando la Administración fuere condenada al pago de cantidad líquida, el órgano encargado de su cumplimiento acordará el pago con cargo al crédito correspondiente de su presupuesto que tendrá siempre la consideración de ampliable. Si para el pago fuese necesario realizar una modificación presupuestaria, deberá concluirse el procedimiento correspondiente dentro de los tres meses siguientes al día de notificación de la resolución judicial.
+2. A la cantidad a que se refiere el apartado anterior se añadirá el interés legal del dinero, calculado desde la fecha de notificación de la sentencia dictada en única o primera instancia.
+3. No obstante lo dispuesto en el artículo 104.2, transcurridos tres meses desde que la sentencia firme sea comunicada al órgano que deba cumplirla, se podrá instar la ejecución forzosa. En este supuesto, la autoridad judicial, oído el órgano encargado de hacerla efectiva, podrá incrementar en dos puntos el interés legal a devengar, siempre que apreciase falta de diligencia en el cumplimiento.
+4. Si la Administración condenada al pago de cantidad estimase que el cumplimiento de la sentencia habría de producir trastorno grave a su Hacienda, lo pondrá en conocimiento del Juez o Tribunal acompañado de una propuesta razonada para que, oídas las partes, se resuelva sobre el modo de ejecutar la sentencia en la forma que sea menos gravosa para aquélla.
+5. Lo dispuesto en los apartados anteriores será de aplicación asimismo a los supuestos en que se lleve a efecto la ejecución provisional de las sentencias conforme a esta Ley.
+6. Cualquiera de las partes podrá solicitar que la cantidad a satisfacer se compense con créditos que la Administración ostente contra el recurrente.
+
+### Artículo 107
+
+Artículo 107.
+1. Si la sentencia firme anulase total o parcialmente el acto impugnado, el Secretario judicial dispondrá, a instancia de parte, la inscripción del fallo en los registros públicos a que hubiere tenido acceso el acto anulado, así como su publicación en los periódicos oficiales o privados, si concurriere causa bastante para ello, a costa de la parte ejecutada. Cuando la publicación sea en periódicos privados, se deberá acreditar ante el órgano jurisdiccional un interés público que lo justifique.
+2. Si la sentencia anulara total o parcialmente una disposición general o un acto administrativo que afecte a una pluralidad indeterminada de personas, el Secretario del órgano judicial ordenará su publicación en diario oficial en el plazo de diez días a contar desde la firmeza de la sentencia.
+Se modifica por el art. 14.47 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 108
+
+Artículo 108.
+1. Si la sentencia condenare a la Administración a realizar una determinada actividad o a dictar un acto, el Juez o Tribunal podrá, en caso de incumplimiento:
+a) Ejecutar la sentencia a través de sus propios medios o requiriendo la colaboración de las autoridades y agentes de la Administración condenada o, en su defecto, de otras Administraciones públicas, con observancia de los procedimientos establecidos al efecto.
+b) Adoptar las medidas necesarias para que el fallo adquiera la eficacia que, en su caso, sería inherente al acto omitido, entre las que se incluye la ejecución subsidiaria con cargo a la Administración condenada.
+2. Si la Administración realizare alguna actividad que contraviniera los pronunciamientos del fallo, el Juez o Tribunal, a instancia de los interesados, procederá a reponer la situación al estado exigido por el fallo y determinará los daños y perjuicios que ocasionare el incumplimiento.
+3. El Juez o Tribunal, en los casos en que, además de declarar contraria a la normativa la construcción de un inmueble, ordene motivadamente la demolición del mismo y la reposición a su estado originario de la realidad física alterada, exigirá, como condición previa a la demolición, y salvo que una situación de peligro inminente lo impidiera, la prestación de garantías suficientes para responder del pago de las indemnizaciones debidas a terceros de buena fe.
+Téngase en cuenta que este apartado 3 añadido por la disposición final 3.4 de la Ley Orgánica 7/2015, de 21 de julio Ref. BOE-A-2015-8167#dftercera. entra en vigor el 1 de octubre de 2015, según determina su disposición final 10.
+Se añade el apartado 3 por la disposición final 3.4 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+
+### Artículo 109
+
+Artículo 109.
+1. La Administración pública, las demás partes procesales y las personas afectadas por el fallo, mientras no conste en autos la total ejecución de la sentencia, podrán promover incidente para decidir, sin contrariar el contenido del fallo, cuantas cuestiones se planteen en la ejecución y especialmente las siguientes:
+a) Órgano administrativo que ha de responsabilizarse de realizar las actuaciones.
+b) Plazo máximo para su cumplimiento, en atención a las circunstancias que concurran.
+c) Medios con que ha de llevarse a efecto y procedimiento a seguir.
+2. Del escrito planteando la cuestión incidental el Secretario judicial dará traslado a las partes para que, en plazo común que no excederá de veinte días, aleguen lo que estimen procedente.
+3. Evacuado el traslado o transcurrido el plazo a que se refiere el apartado anterior, el Juez o Tribunal dictará auto, en el plazo de diez días, decidiendo la cuestión planteada.
+Se modifica el apartado 2 por el art. 14.48 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 110
+
+Artículo 110.
+1. En materia tributaria, de personal al servicio de la Administración pública y de unidad de mercado, los efectos de una sentencia firme que hubiera reconocido una situación jurídica individualizada a favor de una o varias personas podrán extenderse a otras, en ejecución de la sentencia, cuando concurran las siguientes circunstancias:
+a) Que los interesados se encuentren en idéntica situación jurídica que los favorecidos por el fallo.
+b) Que el juez o tribunal sentenciador fuera también competente, por razón del territorio, para conocer de sus pretensiones de reconocimiento de dicha situación individualizada.
+c) Que soliciten la extensión de los efectos de la sentencia en el plazo de un año desde la última notificación de ésta a quienes fueron parte en el proceso. Si se hubiere interpuesto recurso en interés de ley o de revisión, este plazo se contará desde la última notificación de la resolución que ponga fin a éste.
+2. La solicitud deberá dirigirse directamente al órgano jurisdiccional competente que hubiera dictado la resolución de la que se pretende que se extiendan los efectos.
+3. La petición al órgano jurisdiccional se formulará en escrito razonado al que deberá acompañarse el documento o documentos que acrediten la identidad de situaciones o la no concurrencia de alguna de las circunstancias del apartado 5 de este artículo.
+4. Antes de resolver, en los veinte días siguientes, el Secretario judicial recabará de la Administración los antecedentes que estime oportunos y, en todo caso, un informe detallado sobre la viabilidad de la extensión solicitada, poniendo de manifiesto el resultado de esas actuaciones a las partes para que aleguen por plazo común de cinco días, con emplazamiento en su caso de los interesados directamente afectados por los efectos de la extensión. Una vez evacuado el trámite, el Juez o Tribunal resolverá sin más por medio de auto, en el que no podrá reconocerse una situación jurídica distinta a la definida en la sentencia firme de que se trate.
+5. El incidente se desestimará, en todo caso, cuando concurra alguna de las siguientes circunstancias:
+a) Si existiera cosa juzgada.
+b) Cuando la doctrina determinante del fallo cuya extensión se postule fuere contraria a la jurisprudencia del Tribunal Supremo o a la doctrina sentada por los Tribunales Superiores de Justicia en el recurso a que se refiere el artículo 99.
+c) Si para el interesado se hubiere dictado resolución que, habiendo causado estado en vía administrativa, fuere consentida y firme por no haber promovido recurso contencioso-administrativo.
+6. Si se encuentra pendiente un recurso de revisión o un recurso de casación en interés de la ley, quedará en suspenso la decisión del incidente hasta que se resuelva el citado recurso.
+7. El régimen de recurso del auto dictado se ajustará a las reglas generales previstas en el artículo 80.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+ Se modifica el apartado 4 por el art. 14.49 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica por la disposición adicional 14.8 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Artículo 111
+
+Artículo 111.
+Cuando se hubiere acordado suspender la tramitación de uno o más recursos con arreglo a lo previsto en el artículo 37.2, una vez declarada la firmeza de la sentencia dictada en el pleito que se hubiere tramitado con carácter preferente, el Secretario judicial requerirá a los recurrentes afectados por la suspensión para que en el plazo de cinco días interesen la extensión de los efectos de la sentencia o la continuación del pleito suspendido, o bien manifiesten si desisten del recurso.
+Si se solicitase la extensión de los efectos de aquella sentencia, el Juez o Tribunal la acordará, salvo que concurra la circunstancia prevista en el artículo 110.5.b) o alguna de las causas de inadmisibilidad del recurso contempladas en el artículo 69 de esta Ley.
+Se modifica por el art. 14.50 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 112
+
+Artículo 112.
+Transcurridos los plazos señalados para el total cumplimiento del fallo, el juez o tribunal adoptará, previa audiencia de las partes, las medidas necesarias para lograr la efectividad de lo mandado.
+Singularmente, acreditada su responsabilidad, previo apercibimiento del Secretario judicial notificado personalmente para formulación de alegaciones, el Juez o la Sala podrán:
+a) Imponer multas coercitivas de ciento cincuenta a mil quinientos euros a las autoridades, funcionarios o agentes que incumplan los requerimientos del Juzgado o de la Sala, así como reiterar estas multas hasta la completa ejecución del fallo judicial, sin perjuicio de otras responsabilidades patrimoniales a que hubiere lugar. A la imposición de estas multas les será aplicable lo previsto en el artículo 48.
+b) Deducir el oportuno testimonio de particulares para exigir la responsabilidad penal que pudiera corresponder.
+Se modifica el párrafo segundo por el art. 14.51 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica por el art. 86.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 113
+
+Artículo 113.
+1. Transcurrido el plazo de ejecución que se hubiere fijado en el acuerdo a que se refiere el artículo 77.3, cualquiera de las partes podrá instar su ejecución forzosa.
+2. Si no se hubiere fijado plazo para el cumplimiento de las obligaciones derivadas del acuerdo, la parte perjudicada podrá requerir a la otra su cumplimiento y transcurridos dos meses podrá proceder a instar su ejecución forzosa.
+
+## TÍTULO V
+
+Procedimientos especiales
+
+## CAPÍTULO I
+
+Procedimiento para la protección de los derechos fundamentales de la persona
+
+### Artículo 114
+
+Artículo 114.
+1. El procedimiento de amparo judicial de las libertades y derechos, previsto en el artículo 53.2 de la Constitución española, se regirá, en el orden contencioso-administrativo, por lo dispuesto en este capítulo y, en lo no previsto en él, por las normas generales de la presente Ley.
+2. Podrán hacerse valer en este proceso las pretensiones a que se refieren los artículos 31 y 32, siempre que tengan como finalidad la de restablecer o preservar los derechos o libertades por razón de los cuales el recurso hubiere sido formulado.
+3. A todos los efectos, la tramitación de estos recursos tendrá carácter preferente.
+
+### Artículo 115
+
+Artículo 115.
+1. El plazo para interponer este recurso será de diez días, que se computarán, según los casos, desde el día siguiente al de notificación del acto, publicación de la disposición impugnada, requerimiento para el cese de la vía de hecho, o transcurso del plazo fijado para la resolución, sin más trámites. Cuando la lesión del derecho fundamental tuviera su origen en la inactividad administrativa, o se hubiera interpuesto potestativamente un recurso administrativo, o, tratándose de una actuación en vía de hecho, no se hubiera formulado requerimiento, el plazo de diez días se iniciará transcurridos veinte días desde la reclamación, la presentación del recurso o el inicio de la actuación administrativa en vía de hecho, respectivamente.
+2. En el escrito de interposición se expresará con precisión y claridad el derecho o derechos cuya tutela se pretende y, de manera concisa, los argumentos sustanciales que den fundamento al recurso.
+
+### Artículo 116
+
+Artículo 116.
+1. En el mismo día de la presentación del recurso o en el siguiente, el letrado o letrada de la Administración de Justicia requerirá con carácter urgente al órgano administrativo correspondiente, acompañando copia del escrito de interposición, para que en el plazo máximo de cinco días a contar desde la recepción del requerimiento remita el expediente administrativo en soporte electrónico, acompañado de los informes y datos que estime procedentes, que también se enviarán en soporte electrónico, y con apercibimiento de cuanto se establece en el artículo 48.
+2. Al remitir el expediente, el órgano administrativo lo comunicará a todos los que aparezcan como interesados en el mismo, acompañando copia del escrito de interposición y emplazándoles para que puedan comparecer como demandados ante el Juzgado o Sala en el plazo de cinco días.
+3. La Administración, con el envío del expediente, y los demás demandados, al comparecer, podrán solicitar razonadamente la inadmisión del recurso y la celebración de la comparecencia a que se refiere el artículo 117.2.
+4. La falta de envío del expediente administrativo dentro del plazo previsto en el apartado anterior no suspenderá el curso de los autos.
+5. Cuando el expediente administrativo se recibiese en el juzgado o Sala una vez transcurrido el plazo establecido en el apartado 1, el letrado o letrada de la Administración de Justicia lo entregará a las partes por plazo de cuarenta y ocho horas, en el que podrán hacer alegaciones, y sin alteración del curso del procedimiento.
+Téngase en cuenta que la modificación de los apartados 1 y 5, establecida por el art. 102.26 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.Redacción anterior:"1. En el mismo día de la presentación del recurso o en el siguiente, el Secretario judicial requerirá con carácter urgente al órgano administrativo correspondiente, acompañando copia del escrito de interposición, para que en el plazo máximo de cinco días a contar desde la recepción del requerimiento remita el expediente acompañado de los informes y datos que estime procedentes, con apercibimiento de cuanto se establece en el artículo 48."
+... "5. Cuando el expediente administrativo se recibiese en el Juzgado o Sala una vez transcurrido el plazo establecido en el apartado 1 de este artículo, el Secretario judicial lo pondrá de manifiesto a las partes por plazo de cuarenta y ocho horas, en el que podrán hacer alegaciones, y sin alteración del curso del procedimiento."
+Se modifican los apartados 1 y 5 por el art. 102.26 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 1 y 5 por el art. 14.52 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 117
+
+Artículo 117.
+1. Recibido el expediente o transcurrido el plazo para su remisión y, en su caso, el del emplazamiento a los demás interesados, el Secretario judicial, dentro del siguiente día, dictará decreto mandando seguir las actuaciones. Si estima que no procede la admisión, dará cuenta al Tribunal quien, en su caso, comunicará a las partes el motivo en que pudiera fundarse la inadmisión del procedimiento.
+2. En el supuesto de posibles motivos de inadmisión del procedimiento, el Secretario judicial convocará a las partes y al Ministerio Fiscal a una comparecencia, que habrá de tener lugar antes de transcurrir cinco días, en la que se les oirá sobre la procedencia de dar al recurso la tramitación prevista en este capítulo.
+3. En el siguiente día, el órgano jurisdiccional dictará auto mandando proseguir las actuaciones por este trámite o acordando su inadmisión por inadecuación del procedimiento.
+Se modifican los apartados 1 y 2 por el art. 14.53 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 118
+
+Artículo 118.
+Acordada la prosecución del procedimiento especial de este capítulo, el Secretario judicial pondrá de manifiesto al recurrente el expediente y demás actuaciones para que en el plazo improrrogable de ocho días pueda formalizar la demanda y acompañar los documentos.
+Se modifica por el art. 14.54 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 119
+
+Artículo 119.
+Formalizada la demanda, el letrado o letrada de la Administración de Justicia dará traslado de la misma, con entrega del expediente administrativo, al Ministerio Fiscal y a las partes demandadas para que presenten sus alegaciones en el plazo común e improrrogable de ocho días y acompañen los documentos que estimen oportunos.
+Téngase en cuenta que esta última modificación, establecida por el art. 102.27 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "Formalizada la demanda, el Secretario judicial dará traslado de la misma al Ministerio Fiscal y a las partes demandadas para que, a la vista del expediente, presenten sus alegaciones en el plazo común e improrrogable de ocho días y acompañen los documentos que estimen oportunos."
+Se modifica por el art. 102.27 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por el art. 14.55 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 120
+
+Artículo 120.
+Evacuado el trámite de alegaciones o transcurrido el plazo para efectuarlas, el órgano jurisdiccional decidirá en el siguiente día sobre el recibimiento a prueba, con arreglo a las normas generales establecidas en la presente Ley, y sin perjuicio de lo dispuesto en el artículo 57. El período probatorio no será en ningún caso superior a veinte días comunes para su proposición y práctica.
+
+### Artículo 121
+
+Artículo 121.
+1. Conclusas las actuaciones, el órgano jurisdiccional dictará sentencia en el plazo de cinco días.
+2. La sentencia estimará el recurso cuando la disposición, la actuación o el acto incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder, y como consecuencia de la misma vulneren un derecho de los susceptibles de amparo.
+3. Contra las sentencias de los Juzgados de lo Contencioso-administrativo procederá siempre la apelación en un solo efecto.
+
+### Artículo 122
+
+Artículo 122.
+1. En el caso de prohibición o de propuesta de modificación de reuniones previstas en la Ley Orgánica Reguladora del Derecho de Reunión que no sean aceptadas por los promotores, éstos podrán interponer recurso contencioso-administrativo ante el Tribunal competente. El recurso se interpondrá dentro de las cuarenta y ocho horas siguientes a la notificación de la prohibición o modificación, trasladándose por los promotores copia debidamente registrada del escrito del recurso a la autoridad gubernativa, con el objeto de que ésta remita inmediatamente el expediente.
+2. El letrado o letrada de la Administración de Justicia, en el plazo improrrogable de cuatro días, y haciendo entrega del expediente si se hubiera recibido, convocará al representante legal de la Administración, al Ministerio Fiscal y a los recurrentes o a la persona que éstos designen como representante a una audiencia en la que el tribunal, de manera contradictoria, oirá a todos los personados y resolverá sin ulterior recurso.
+En cuanto se refiere a la grabación de la audiencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
+Téngase en cuenta que esta última modificación, establecida por el art. 102.28 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "2. El Secretario judicial, en el plazo improrrogable de cuatro días, y poniendo de manifiesto el expediente si se hubiera recibido, convocará al representante legal de la Administración, al Ministerio Fiscal y a los recurrentes o a la persona que éstos designen como representante a una audiencia en la que el Tribunal, de manera contradictoria, oirá a todos los personados y resolverá sin ulterior recurso.
+ En cuanto se refiere a la grabación de la audiencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63."
+3. La decisión que se adopte únicamente podrá mantener o revocar la prohibición o las modificaciones propuestas.
+Se modifica el apartado 2 por el art. 102.28 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 2 por el art. 14.56 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 122 bis
+
+Artículo 122 bis.
+1. El procedimiento para obtener la autorización judicial a que se refiere el artículo 8.2 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, se iniciará con la solicitud de los órganos competentes en la que se expondrán las razones que justifican la petición acompañada de los documentos que sean procedentes a estos efectos. El Juzgado, en el plazo de 24 horas siguientes a la petición y, previa audiencia del Ministerio Fiscal, dictará resolución autorizando la solicitud efectuada siempre que no resulte afectado el artículo 18 apartados 1 y 3 de la Constitución.
+2. La ejecución de las medidas para que se interrumpa la prestación de servicios de la sociedad de la información o para que se retiren contenidos que vulneren la propiedad intelectual, adoptadas por la Sección Segunda de la Comisión de Propiedad Intelectual en aplicación de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la información y de Comercio Electrónico, requerirá de autorización judicial previa de conformidad con lo establecido en los párrafos siguientes.
+Acordada la medida por la Comisión, solicitará del Juzgado competente la autorización para su ejecución, referida a la posible afectación a los derechos y libertades garantizados en el artículo 20 de la Constitución. La solicitud habrá de ir acompañada del expediente administrativo.
+En el plazo improrrogable de dos días siguientes a la recepción de la notificación de la resolución de la Comisión y poniendo de manifiesto el expediente, el Juzgado dará traslado de la resolución de la Comisión al representante legal de la Administración, al del Ministerio Fiscal y a los titulares de los derechos y libertades afectados o a la persona que éstos designen como representante para que puedan efectuar alegaciones escritas por plazo común de cinco días.
+Si de las alegaciones escritas efectuadas resultaran nuevos hechos de trascendencia para la resolución, el Juez, atendida la índole del asunto, podrá acordar la celebración de vista oral o, en caso contrario, si de las alegaciones escritas efectuadas no resultaran nuevos hechos de trascendencia para la resolución, el Juez resolverá en el plazo improrrogable de dos días mediante auto. La decisión que se adopte únicamente podrá autorizar o denegar la ejecución de la medida.
+Se modifica el apartado 2 por la disposición final 10 del Real Decreto-ley 17/2020, de 5 de mayo. Ref. BOE-A-2020-4832, en la redacción dada por el art. 11.9 de la Ley 14/2021, de 11 de octubre. Ref. BOE-A-2021-16477#ad-2
+ Se añade por la disposición final 43.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 122 ter
+
+Artículo 122 ter. Procedimiento de autorización judicial de conformidad de una decisión de la Comisión Europea en materia de transferencia internacional de datos.
+1. El procedimiento para obtener la autorización judicial a que se refiere la disposición adicional quinta de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, se iniciará con la solicitud de la autoridad de protección de datos dirigida al Tribunal competente para que se pronuncie acerca de la conformidad de una decisión de la Comisión Europea en materia de transferencia internacional de datos con el Derecho de la Unión Europea. La solicitud irá acompañada de copia del expediente que se encontrase pendiente de resolución ante la autoridad de protección de datos.
+2. Serán partes en el procedimiento, además de la autoridad de protección de datos, quienes lo fueran en el procedimiento tramitado ante ella y, en todo caso, la Comisión Europea.
+3. El acuerdo de admisión o inadmisión a trámite del procedimiento confirmará, modificará o levantará la suspensión del procedimiento por posible vulneración de la normativa de protección de datos tramitado ante la autoridad de protección de datos, del que trae causa este procedimiento de autorización judicial.
+4. Admitida a trámite la solicitud, el Tribunal competente lo notificará a la autoridad de protección de datos a fin de que dé traslado a quienes interviniesen en el procedimiento tramitado ante la misma para que se personen en el plazo de tres días. Igualmente, se dará traslado a la Comisión Europea a los mismos efectos.
+5. Concluido el plazo mencionado en la letra anterior, se dará traslado de la solicitud de autorización a las partes personadas a fin de que en el plazo de diez días aleguen lo que estimen procedente, pudiendo solicitar en ese momento la práctica de las pruebas que estimen necesarias.
+6. Transcurrido el período de prueba, si alguna de las partes lo hubiese solicitado y el órgano jurisdiccional lo estimase pertinente, se celebrará una vista. El Tribunal podrá decidir el alcance de las cuestiones sobre las que las partes deberán centrar sus alegaciones en dicha vista.
+7. Finalizados los trámites mencionados en los tres apartados anteriores, el Tribunal competente adoptará en el plazo de diez días una de estas decisiones:
+a) Si considerase que la decisión de la Comisión Europea es conforme al Derecho de la Unión Europea, dictará sentencia declarándolo así y denegando la autorización solicitada.
+b) En caso de considerar que la decisión es contraria al Derecho de la Unión Europea, dictará auto de planteamiento de cuestión prejudicial de validez de la citada decisión ante el Tribunal de Justicia de la Unión Europea, en los términos del artículo 267 del Tratado de Funcionamiento de la Unión Europea.
+La autorización solamente podrá ser concedida si la decisión de la Comisión Europea cuestionada fuera declarada inválida por el Tribunal de Justicia de la Unión Europea.
+8. El régimen de recursos será el previsto en esta ley.
+Se añade por la disposición final 6.4 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-6
+
+### Artículo 122 quater
+
+Artículo 122 quater. Autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción de derechos fundamentales.
+En la tramitación de las autorizaciones o ratificaciones a que se refieren los artículos 8.6, segundo párrafo, 10.8 y 11.1.i) de la presente ley será parte el Ministerio fiscal. Esta tramitación tendrá siempre carácter preferente y deberá resolverse por auto en un plazo máximo de tres días naturales.
+Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado en negrita, en la redacción dada por la disposición final 2.4 de la Ley 3/2020, de 18 de septiembre, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
+Se declara la inconstitucionalidad y nulidad del inciso destacado en negrita, en la redacción dada por la disposición final 2.4 de la Ley 3/2020, de 18 de septiembre, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
+ Se modifica por el art. 15.4 del Real Decreto-ley 8/2021, de 4 de mayo. Ref. BOE-A-2021-7351#a1-7
+ Se añade por la disposición final 2.4 de la Ley 3/2020, de 18 de septiembre. Ref. BOE-A-2020-10923#df-2
+
+## CAPÍTULO II
+
+Cuestión de ilegalidad
+
+### Artículo 123
+
+Artículo 123.
+1. El Juez o Tribunal planteará, mediante auto, la cuestión de ilegalidad prevista en el artículo 27.1 dentro de los cinco días siguientes a que conste en las actuaciones la firmeza de la sentencia. La cuestión habrá de ceñirse exclusivamente a aquel o aquellos preceptos reglamentarios cuya declaración de ilegalidad haya servido de base para la estimación de la demanda. Contra el auto de planteamiento no se dará recurso alguno.
+2. En este auto se acordará emplazar a las partes para que, en el plazo de quince días, puedan comparecer y formular alegaciones ante el Tribunal competente para fallar la cuestión. Transcurrido este plazo, no se admitirá la personación.
+
+### Artículo 124
+
+Artículo 124.
+1. Planteada la cuestión, el Secretario judicial remitirá urgentemente, junto con la certificación del auto de planteamiento, copia testimoniada de los autos principales y del expediente administrativo.
+2. Acordará igualmente la publicación del auto de planteamiento de la cuestión en el mismo periódico oficial en que lo hubiera sido la disposición cuestionada.
+Se modifica por el art. 14.57 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 125
+
+Artículo 125.
+1. Con el escrito de personación y alegaciones podrá acompañarse la documentación que se estime oportuna para enjuiciar la legalidad de la disposición cuestionada.
+2. Terminado el plazo de personación y alegaciones, el Secretario judicial declarará concluso el procedimiento. La sentencia se dictará en los diez días siguientes a dicha declaración. No obstante, podrá el Tribunal rechazar, en trámite de admisión, mediante auto y sin necesidad de audiencia de las partes, la cuestión de ilegalidad cuando faltaren las condiciones procesales.
+3. El plazo para dictar sentencia quedará interrumpido si, para mejor proveer, el Tribunal acordara reclamar el expediente de elaboración de la disposición cuestionada o practicar alguna prueba de oficio. En estos casos el Secretario judicial acordará oír a las partes por plazo común de cinco días sobre el expediente o el resultado de la prueba.
+Se modifican los apartados 2 y 3 por el art. 14.58 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 126
+
+Artículo 126.
+1. La sentencia estimará o desestimará parcial o totalmente la cuestión, salvo que faltare algún requisito procesal insubsanable, caso en que la declarará inadmisible.
+2. Se aplicará a la cuestión de ilegalidad lo dispuesto para el recurso directo contra disposiciones generales en los artículos 33.3, 66, 70, 71.1.a), 71.2, 72.2 y 73.
+Se publicarán también las sentencias firmes que desestimen la cuestión.
+3. Firme la sentencia que resuelva la cuestión de ilegalidad, por el Secretario judicial se comunicará al Juez o Tribunal que la planteó.
+4. Cuando la cuestión de ilegalidad sea de especial trascendencia para el desarrollo de otros procedimientos, será objeto de tramitación y resolución preferente.
+5. La sentencia que resuelva la cuestión de ilegalidad no afectará a la situación jurídica concreta derivada de la sentencia dictada por el Juez o Tribunal que planteó aquélla.
+Se modifica el apartado 3 por el art. 14.59 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO III
+
+Procedimiento en los casos de suspensión administrativa previa de acuerdos
+
+### Artículo 127
+
+Artículo 127.
+1. En los casos en que, conforme a las Leyes, la suspensión administrativa de actos o acuerdos de Corporaciones o Entidades públicas deba ir seguida de la impugnación o traslado de aquéllos ante la Jurisdicción Contencioso-administrativa, se procederá conforme a lo dispuesto en este precepto.
+2. En el plazo de los diez días siguientes a la fecha en que se hubiera dictado el acto de suspensión o en el que la Ley establezca, deberá interponerse el recurso contencioso-administrativo mediante escrito fundado, o darse traslado directo del acuerdo suspendido al órgano jurisdiccional, según proceda, acompañando en todo caso copia del citado acto de suspensión.
+3. Interpuesto el recurso o trasladado el acuerdo suspendido, el letrado o letrada de la Administración de Justicia requerirá a la corporación o entidad que lo hubiera dictado para que en el plazo de diez días remita el expediente administrativo en soporte electrónico, alegue lo que estime conveniente en defensa de aquél y notifique a cuantos tuvieran interés legítimo en su mantenimiento o anulación la existencia del procedimiento, a efectos de su comparecencia ante el órgano jurisdiccional en el plazo de diez días.
+4. Recibido el expediente administrativo, el letrado o letrada de la Administración de Justicia lo entregará junto con las actuaciones a los comparecidos en el procedimiento, convocándolos para la celebración de la vista, que se celebrará como mínimo a los diez días de la entrega del expediente.
+Téngase en cuenta que esta modificación de los apartados 3 y 4, establecida por el art. 102.29 del Real Decreto-ley 6/2023, de 19 de diciembre Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ 3. Interpuesto el recurso o trasladado el acuerdo suspendido, el Secretario judicial requerirá a la corporación o entidad que lo hubiera dictado para que en el plazo de diez días remita el expediente administrativo, alegue lo que estime conveniente en defensa de aquél y notifique a cuantos tuvieran interés legítimo en su mantenimiento o anulación la existencia del procedimiento, a efectos de su comparecencia ante el órgano jurisdiccional en el plazo de diez días.
+ 4. Recibido el expediente administrativo, el Secretario judicial lo pondrá de manifiesto junto con las actuaciones a los comparecidos en el procedimiento, convocándolos para la celebración de la vista, que se celebrará como mínimo a los diez días de la puesta de manifiesto del expediente.
+5. El órgano jurisdiccional podrá, motivadamente, sustituir el trámite de vista por el de alegaciones escritas, que se presentarán en el plazo común de los diez días siguientes a la notificación del auto en que así se acuerde. Podrá también abrir un período de prueba, para mejor proveer, por plazo no superior a quince días.
+6. Celebrada la vista o deducidas las alegaciones a que se refieren los apartados anteriores, se dictará sentencia por la que se anule o confirme el acto o acuerdo objeto del recurso, disponiendo lo que proceda en cuanto a la suspensión.
+Se modifican los apartados 3 y 4 por el art. 102.29 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifican los apartados 3 y 4 por el art. 14.60 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO IV
+
+Procedimiento para la garantía de la unidad de mercado
+Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+
+### Artículo 127 bis
+
+Artículo 127 bis.
+1. Cuando la Comisión Nacional de los Mercados y la Competencia considere que una disposición, acto, actuación, inactividad o vía de hecho procedente de cualquier Administración pública sea contraria a la libertad de establecimiento o de circulación en los términos previstos en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado, podrá presentar el recurso contencioso-administrativo regulado en este Capítulo.
+2. El plazo para interponer el recurso contencioso-administrativo para la garantía de la unidad de mercado será de dos meses conforme a lo previsto en los apartados 1 a 3 del artículo 46. Cuando el recurso se interponga a solicitud de un operador económico el plazo de dos meses se computará desde la presentación de la solicitud ante la Comisión Nacional de los Mercados y la Competencia.
+Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 85, de 8 de abril de 2014. Ref. BOE-A-2014-3716.
+
+### Artículo 127 ter
+
+Artículo 127 ter.
+1. En el mismo día de la interposición del recurso por la Comisión Nacional de los Mercados y la Competencia en garantía de la unidad de mercado o en el siguiente, el Secretario judicial requerirá con carácter urgente al órgano administrativo correspondiente, acompañando copia del escrito de interposición, para que en el plazo máximo de cinco días a contar desde la recepción del requerimiento remita el expediente acompañado de los informes y datos que se soliciten en el recurso, con apercibimiento de cuanto se establece en el artículo 48.
+2. La falta de envío del expediente administrativo dentro del plazo previsto en el apartado anterior no suspenderá el curso de los autos.
+3. El Secretario judicial pondrá de manifiesto al recurrente el expediente y demás actuaciones para que en el plazo improrrogable de diez días pueda formalizar la demanda y acompañar los documentos oportunos. Si el expediente administrativo se recibiese una vez formalizada la demanda, se concederá un trámite adicional de alegaciones a las partes.
+4. Formalizada la demanda, el Secretario judicial dará traslado de la misma a las partes demandadas para que, a la vista del expediente, presenten contestación en el plazo común e improrrogable de diez días y acompañen los documentos que estimen oportunos.
+5. Evacuado el trámite de contestación, el órgano jurisdiccional decidirá en el siguiente día sobre el recibimiento a prueba, con arreglo a las normas generales establecidas en la presente Ley, y sin perjuicio de lo dispuesto en el artículo 57. El período de práctica de prueba no será en ningún caso superior a veinte días.
+6. Conclusas las actuaciones, el órgano jurisdiccional dictará sentencia en el plazo de cinco días. La sentencia estimará el recurso cuando la disposición, la actuación o el acto incurrieran en cualquier infracción del ordenamiento jurídico que afecte a la libertad de establecimiento o de circulación, incluida la desviación de poder.
+Conforme a lo dispuesto en el artículo 71, la sentencia que estime el recurso implicará la corrección de la conducta infractora, así como el resarcimiento de los daños y perjuicios, incluido el lucro cesante, que dicha conducta haya causado.
+El órgano jurisdiccional podrá convocar a las partes a una comparecencia con la finalidad de dictar su sentencia de viva voz, exponiendo verbalmente los razonamientos en que sustente su decisión, resolviendo sobre los motivos que fundamenten el recurso y la oposición y pronunciando su fallo, de acuerdo con lo dispuesto en los artículos 68 a 71.
+La no comparecencia de todas o alguna de las partes no impedirá el dictado de la sentencia de viva voz.
+En cuanto se refiere a la grabación de la comparecencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
+Caso de haberse dictado la Sentencia de forma oral, el Secretario judicial expedirá certificación que recoja todos los pronunciamientos del fallo, con expresa indicación de su firmeza y de la actuación administrativa a que se refiera. Dicha certificación será expedida en el plazo máximo de cinco días, notificándose a las partes.
+La anterior certificación se registrará e incorporará al Libro de Sentencias del órgano judicial. El soporte videográfico de la comparecencia quedará unido al procedimiento.
+7. Durante la tramitación del procedimiento, podrá solicitar su intervención, como parte recurrente, cualquier operador económico que tuviere interés directo en la anulación del acto, actuación o disposición impugnada y no la hubiera recurrido de forma independiente.
+La solicitud del operador se resolverá por medio de auto, previa audiencia de las partes personadas, en el plazo común de cinco días.
+Admitida la intervención, no se retrotraerán las actuaciones, pero el interviniente será considerado parte en el proceso a todos los efectos y podrá defender las pretensiones formuladas o las que el propio interviniente formule, si tuviere oportunidad procesal para ello.
+El interviniente podrá utilizar los recursos que procedan contra las resoluciones que estime perjudiciales para su interés, aunque las consienta la Comisión Nacional de los Mercados y la Competencia o las demás partes personadas.
+8. La Sala de lo Contencioso-Administrativo de la Audiencia Nacional acordará la acumulación al promovido por la Comisión Nacional de los Mercados y la Competencia de todo procedimiento que, iniciado por un operador económico ante el mismo u otro órgano jurisdiccional, se dirija frente a la misma disposición o actuación y se funde en la vulneración de la libertad de establecimiento o de circulación conforme a lo previsto en esta Ley.
+9. A todos los efectos, la tramitación de estos recursos tendrá carácter preferente.
+10. El procedimiento para la garantía de la unidad de mercado, en lo no dispuesto en este Capítulo, se regirá por las normas generales de la presente Ley.
+Se modifica el apartado 6 por el art. 7.1 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a7
+ Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+
+### Artículo 127 quáter
+
+Artículo 127 quáter.
+1. La Comisión Nacional de los Mercados y la Competencia podrá solicitar en su escrito de interposición la suspensión de la disposición, acto o resolución impugnados, así como cualquier otra medida cautelar que asegure la efectividad de la sentencia. La solicitud de esta suspensión tendrá carácter excepcional y solo será solicitada en caso de entender que es imprescindible por la especial relevancia del supuesto para la libertad de establecimiento y circulación.
+2. Solicitada la suspensión de la disposición, acto o resolución impugnados, la misma se tramitará en la forma prevista en el capítulo II del título VI, una vez admitido el recurso y sin exigencia de afianzamiento de los posibles perjuicios de cualquiera naturaleza que pudieran derivarse. La Administración cuya actuación se haya recurrido podrá solicitar el levantamiento de la suspensión durante el plazo de tres meses desde su adopción, siempre que acredite que de su mantenimiento pudiera seguirse una perturbación grave de los intereses generales o de tercero que el tribunal ponderará en forma circunstanciada.
+3. La solicitud de cualquier otra medida cautelar se tramitará en la forma prevista en el Capítulo II del Título VI.
+Se modifican los apartados 1 y 2 por el art. 7.2 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a7
+ Se declara inconstitucional y nulo el apartado 2, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio de 2017. Ref. BOE-A-2017-8464
+ Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.
+
+## CAPÍTULO V
+
+Procedimiento para la declaración judicial de extinción de partidos políticos
+Se añade por la disposición final 2.2 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+### Artículo 127 quinquies
+
+Artículo 127 quinquies.
+1. El procedimiento para la declaración judicial de extinción de un partido político se regirá por lo dispuesto en el artículo 78, con las siguientes especialidades:
+a) En la demanda, deberá especificarse en cuál o cuáles de los motivos recogidos en el artículo 12 bis.1 de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos, se fundamenta la petición de declaración judicial de extinción.
+b) El plazo de dos meses para la presentación de la demanda se contará a partir del día siguiente al vencimiento del plazo señalado en el artículo 12 bis.2 de la misma ley.
+c) Cuando la sentencia declare la extinción del partido, será notificada al registro para que éste proceda a la cancelación de la inscripción.
+2. El Ministerio Fiscal será parte del proceso.
+Se añade por la disposición final 2.2 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
+
+## TÍTULO VI
+
+Disposiciones comunes a los Títulos IV y V
+
+## CAPÍTULO I
+
+Plazos
+
+### Artículo 128
+
+Artículo 128.
+1. Los plazos son improrrogables, y una vez transcurridos el Secretario judicial correspondiente tendrá por caducado el derecho y por perdido el trámite que hubiere dejado de utilizarse. No obstante, se admitirá el escrito que proceda, y producirá sus efectos legales, si se presentare dentro del día en que se notifique la resolución, salvo cuando se trate de plazos para preparar o interponer recursos.
+2. Durante el mes de agosto no correrá el plazo para interponer el recurso contencioso-administrativo ni ningún otro plazo de los previstos en esta Ley salvo para el procedimiento para la protección de los derechos fundamentales en el que el mes de agosto tendrá carácter de hábil.
+3. En casos de urgencia, o cuando las circunstancias del caso lo hagan necesario, las partes podrán solicitar al órgano jurisdiccional que habilite los días inhábiles en el procedimiento para la protección de los derechos fundamentales o en el incidente de suspensión o de adopción de otras medidas cautelares. El Juez o Tribunal oirá a las demás partes y resolverá por auto en el plazo de tres días, acordando en todo caso la habilitación cuando su denegación pudiera causar perjuicios irreversibles.
+Se modifica el apartado 1 por el art. 14.61 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO II
+
+Medidas cautelares
+
+### Artículo 129
+
+Artículo 129.
+1. Los interesados podrán solicitar en cualquier estado del proceso la adopción de cuantas medidas aseguren la efectividad de la sentencia.
+2. Si se impugnare una disposición general, y se solicitare la suspensión de la vigencia de los preceptos impugnados, la petición deberá efectuarse en el escrito de interposición o en el de demanda.
+
+### Artículo 130
+
+Artículo 130.
+1. Previa valoración circunstanciada de todos los intereses en conflicto, la medida cautelar podrá acordarse únicamente cuando la ejecución del acto o la aplicación de la disposición pudieran hacer perder su finalidad legítima al recurso.
+2. La medida cautelar podrá denegarse cuando de ésta pudiera seguirse perturbación grave de los intereses generales o de tercero que el Juez o Tribunal ponderará en forma circunstanciada.
+
+### Artículo 131
+
+Artículo 131.
+El incidente cautelar se sustanciará en pieza separada, con audiencia de la parte contraria, que ordenará el Secretario judicial por plazo que no excederá de diez días, y será resuelto por auto dentro de los cinco días siguientes. Si la Administración demandada no hubiere aún comparecido, la audiencia se entenderá con el órgano autor de la actividad impugnada.
+Se modifica por el art. 14.62 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 132
+
+Artículo 132.
+1. Las medidas cautelares estarán en vigor hasta que recaiga sentencia firme que ponga fin al procedimiento en el que se hayan acordado, o hasta que éste finalice por cualquiera de las causas previstas en esta Ley. No obstante, podrán ser modificadas o revocadas durante el curso del procedimiento si cambiaran las circunstancias en virtud de las cuales se hubieran adoptado.
+2. No podrán modificarse o revocarse las medidas cautelares en razón de los distintos avances que se vayan haciendo durante el proceso respecto al análisis de las cuestiones formales o de fondo que configuran el debate, y, tampoco, en razón de la modificación de los criterios de valoración que el Juez o Tribunal aplicó a los hechos al decidir el incidente cautelar.
+
+### Artículo 133
+
+Artículo 133.
+1. Cuando de la medida cautelar pudieran derivarse perjuicios de cualquier naturaleza, podrán acordarse las medidas que sean adecuadas para evitar o paliar dichos perjuicios. Igualmente podrá exigirse la presentación de caución o garantía suficiente para responder de aquéllos.
+2. La caución o garantía podrá constituirse en cualquiera de las formas admitidas en Derecho. La medida cautelar acordada no se llevará a efecto hasta que la caución o garantía esté constituida y acreditada en autos, o hasta que conste el cumplimiento de las medidas acordadas para evitar o paliar los perjuicios a que se refiere el apartado precedente.
+3. Levantada la medida por sentencia o por cualquier otra causa, la Administración, o la persona que pretendiere tener derecho a indemnización de los daños sufridos, podrá solicitar ésta ante el propio órgano jurisdiccional por el trámite de los incidentes, dentro del año siguiente a la fecha del alzamiento. Si no se formulase la solicitud dentro de dicho plazo, se renunciase a la misma o no se acreditase el derecho, se cancelará la garantía constituida.
+
+### Artículo 134
+
+Artículo 134.
+1. El auto que acuerde la medida se comunicará al órgano administrativo correspondiente, el cual dispondrá su inmediato cumplimiento, siendo de aplicación lo dispuesto en el capítulo IV del Título IV, salvo el artículo 104.2.
+2. La suspensión de la vigencia de disposiciones de carácter general será publicada con arreglo a lo dispuesto en el artículo 107.2. Lo mismo se observará cuando la suspensión se refiera a un acto administrativo que afecte a una pluralidad indeterminada de personas.
+
+### Artículo 135
+
+Artículo 135.
+1. Cuando los interesados alegaran la concurrencia de circunstancias de especial urgencia en el caso, el juez o tribunal sin oír a la parte contraria, en el plazo de dos días podrá mediante auto:
+a) Apreciar las circunstancias de especial urgencia y adoptar o denegar la medida, conforme al artículo 130. Contra este auto no se dará recurso alguno. En la misma resolución el órgano judicial dará audiencia a la parte contraria para que en el plazo de tres días alegue lo que estime procedente o bien convocará a las partes a una comparecencia que habrá de celebrarse dentro de los tres días siguientes a la adopción de la medida. Recibidas las alegaciones o transcurrido el plazo en su caso o bien celebrada la comparecencia, el juez o tribunal dictará auto sobre el levantamiento, mantenimiento o modificación de la medida adoptada, el cual será recurrible conforme a las reglas generales.
+En cuanto se refiere a la grabación de la comparecencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
+b) No apreciar las circunstancias de especial urgencia y ordenar la tramitación del incidente cautelar conforme al artículo 131, durante la cual los interesados no podrán solicitar nuevamente medida alguna al amparo del presente artículo.
+2. En los supuestos que tengan relación con actuaciones de la Administración en materia de extranjería, asilo político y condición de refugiado que impliquen retorno y el afectado sea un menor de edad, el órgano jurisdiccional oirá al Ministerio Fiscal con carácter previo a dictar el auto al que hace referencia el apartado primero de este artículo.
+Se modifica por el art. 3.10 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+ Se añade un párrafo segundo por el art. 14.63 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 136
+
+Artículo 136.
+1. En los supuestos de los artículos 29 y 30, la medida cautelar se adoptará salvo que se aprecie con evidencia que no se dan las situaciones previstas en dichos artículos o la medida ocasione una perturbación grave de los intereses generales o de tercero, que el Juez ponderará en forma circunstanciada.
+2. En los supuestos del apartado anterior, las medidas también podrán solicitarse antes de la interposición del recurso, tramitándose conforme a lo dispuesto en el artículo precedente. En tal caso el interesado habrá de pedir su ratificación al interponer el recurso, lo que habrá de hacerse inexcusablemente en el plazo de diez días a contar desde la notificación de la adopción de las medidas cautelares. En los tres días siguientes, el Secretario judicial convocará la comparecencia a la que hace referencia el artículo anterior.
+De no interponerse el recurso, quedarán automáticamente sin efecto las medidas acordadas, debiendo el solicitante indemnizar de los daños y perjuicios que la medida cautelar haya producido.
+Se modifica el apartado 2 por el art. 14.64 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO III
+
+Incidentes e invalidez de actos procesales
+
+### Artículo 137
+
+Artículo 137.
+Todas las cuestiones incidentales que se susciten en el proceso, se sustanciarán en pieza separada y sin suspender el curso de los autos.
+
+### Artículo 138
+
+Artículo 138.
+1. Cuando se alegue que alguno de los actos de las partes no reúne los requisitos establecidos por la presente Ley, la que se halle en tal supuesto podrá subsanar el defecto u oponer lo que estime pertinente dentro de los diez días siguientes al de la notificación del escrito que contenga la alegación.
+2. Cuando el Juzgado o Tribunal de oficio aprecie la existencia de algún defecto subsanable, el Secretario judicial dictará diligencia de ordenación en que lo reseñe y otorgue el mencionado plazo para la subsanación, con suspensión, en su caso, del fijado para dictar sentencia.
+3. Sólo cuando el defecto sea insubsanable o no se subsane debidamente en plazo, podrá ser decidido el recurso con fundamento en tal defecto.
+Se modifica el apartado 2 por el art. 14.65 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO IV
+
+Costas procesales
+
+### Artículo 139
+
+Artículo 139.
+1. En primera o única instancia, el órgano jurisdiccional, al dictar sentencia o al resolver por auto los recursos o incidentes que ante el mismo se promovieren, impondrá las costas a la parte que haya visto rechazadas todas sus pretensiones, salvo que aprecie y así lo razone, que el caso presentaba serias dudas de hecho o de derecho.
+En los supuestos de estimación o desestimación parcial de las pretensiones, cada parte abonará las costas causadas a su instancia y las comunes por mitad, salvo que el órgano jurisdiccional, razonándolo debidamente, las imponga a una de ellas por haber sostenido su acción o interpuesto el recurso con mala fe o temeridad.
+2. En los recursos se impondrán las costas al recurrente si se desestima totalmente el recurso, salvo que el órgano jurisdiccional, razonándolo debidamente, aprecie la concurrencia de circunstancias que justifiquen su no imposición.
+3. En el recurso de casación se impondrán las costas de conformidad con lo previsto en el artículo 93.4.
+4. En primera o única instancia, la parte condenada en costas estará obligada a pagar una cantidad total que no exceda de la tercera parte de la cuantía del proceso, por cada uno de los favorecidos por esa condena; a estos solos efectos, las pretensiones de cuantía indeterminada se valorarán en 18.000 euros, salvo que, por razón de la complejidad del asunto, el tribunal disponga razonadamente otra cosa.
+En los recursos, y sin perjuicio de lo previsto en el apartado anterior, la imposición de costas podrá ser a la totalidad, a una parte de éstas o hasta una cifra máxima.
+Téngase en cuenta que esta modificación del apartado 4, establecida por el art. 102.30 del Real Decreto-ley 6/2023, de 19 de diciembre Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "4. La imposición de las costas podrá ser a la totalidad, a una parte de éstas o hasta una cifra máxima."
+5. Para la exacción de las costas impuestas a particulares, la Administración acreedora utilizará el procedimiento de apremio, en defecto de pago voluntario.
+6. En ningún caso se impondrán las costas al Ministerio Fiscal.
+7. Las costas causadas en los autos serán reguladas y tasadas según lo dispuesto en la Ley de Enjuiciamiento Civil.
+Se modifica el apartado 4 por el art. 102.30 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica por la disposición final 3.5 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#dftercera.
+ Se modifica el apartado 1 por el art. 3.11 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Territorios Históricos y Comisión Arbitral del País Vasco.
+1. En la Comunidad Autónoma del País Vasco, la referencia del apartado 2 del artículo 1 de esta Ley incluye las Diputaciones Forales y la Administración Institucional de ellas dependiente. Asimismo, la referencia del apartado 3, letra a), del artículo 1 incluye los actos y disposiciones en materia de personal y gestión patrimonial sujetos al derecho público adoptados por los órganos competentes de las Juntas Generales de los Territorios Históricos.
+2. No corresponde a la Jurisdicción Contencioso-administrativa el conocimiento de las decisiones o resoluciones dictadas por la Comisión Arbitral a que se refiere el artículo 39 del Estatuto de Autonomía del País Vasco.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Actualización de cuantías.
+El Gobierno queda autorizado para actualizar cada cinco años las cuantías señaladas en esta Ley, previo informe del Consejo General del Poder Judicial y del Consejo de Estado.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Registro de sentencias.
+1. Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia, de la Audiencia Nacional y del Tribunal Supremo remitirán al Consejo General del Poder Judicial, dentro de los diez días siguientes a su firma, testimonio de las sentencias dictadas en los procesos de que conozcan.
+2. El Consejo General del Poder Judicial constituirá, con dichas sentencias, un Registro, cuyas certificaciones harán fe en todo tipo de procesos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Recursos contra determinados actos, resoluciones y disposiciones.
+Serán recurribles:
+1. Los actos administrativos no susceptibles de recurso ordinario dictados por el Banco de España y las resoluciones del Ministro de Economía y Hacienda que resuelvan recursos ordinarios contra actos dictados por el Banco de España, así como las disposiciones dictadas por la citada entidad, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional de conformidad con lo dispuesto en la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.
+2. Los actos administrativos no susceptibles de recurso ordinario dictados por la Comisión Nacional del Mercado de Valores y las resoluciones del Ministro de Economía y Hacienda que resuelvan recursos ordinarios contra actos dictados por la Comisión Nacional del Mercado de Valores, así como las disposiciones dictadas por la citada entidad, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+3. Las resoluciones y actos del Presidente y del Consejo de la Comisión Nacional de la Competencia, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+4. Las resoluciones de la Junta Arbitral regulada por la Ley Orgánica 3/1996, de 27 de diciembre, de Modificación parcial de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I., y Secciones Primera y Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso- Administrativo de la Audiencia Nacional.
+Téngase en cuenta que esta modificación del apartado 5, establecida por el art. 102.31 del Real Decreto-ley 6/2023, de 19 de diciembre Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+ Redacción anterior:
+ "5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I. y Sección Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional."
+6. Las resoluciones del Ministro de Economía y Competitividad que resuelvan recursos de alzada contra actos dictados por el Instituto de Contabilidad y Auditoría de Cuentas, así como las resoluciones de carácter normativo dictadas por el Instituto de Contabilidad y Auditoría de Cuentas directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+7. Las resoluciones del Consejo Gestor del Fondo de apoyo a la solvencia de empresas estratégicas directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+Se modifica el apartado 5 por el art. 102.31 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+ Se modifica el apartado 5 por la disposición final 2.2 de la Ley 2/2023, de 20 de febrero. Ref. BOE-A-2023-4513#df-2
+ Se añade el apartado 7 por la disposición final 2 del Real Decreto-ley 25/2020, de 3 de julio. Ref. BOE-A-2020-7311#df-2
+ Se añade el apartado 6 por la disposición final 3 de la Ley 22/2015, de 20 de julio. Ref. BOE-A-2015-8147#dftercera.
+ Se deroga el apartado 7 y se modifica el apartado 5 por la disposición derogatoria y la disposición final 2, respectivamente, de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
+ Se modifica el apartado 5 por la disposición final 2 del Real Decreto-ley 11/2011, de 26 de agosto. Ref. BOE-A-2011-14221.
+ Se modifica el apartado 5 y se suprime el 6 por la disposición final 43.8 y 9 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifican los apartados 5 y 7 por el art. 14.66 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica el apartado 3 por la disposición adicional 7.3 de la Ley 15/2007, de 3 de julio. Ref. BOE-A-2007-12946.
+ Se modifica el apartado 6 por la disposición adicional 7 de la Ley 41/1999, de 12 de noviembre. Ref. BOE-A-1999-21980.
+ Téngase en cuenta que el legislador incorpora un apartado 6, por lo que hemos interpretado que reenumera el anterior 6 como 7.
+ Se añade el apartado 6 por la disposición adicional 24.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Modificación del Texto Refundido de la Ley de Procedimiento Laboral.
+El artículo 3 del Texto Refundido de la Ley de Procedimiento Laboral, aprobado por Real Decreto Legislativo 2/1995, de 7 de abril, quedará redactado como sigue:
+"1. No conocerán los Órganos Jurisdiccionales del Orden Social:
+a) De la tutela de los derechos de libertad sindical y del derecho a huelga relativa a los funcionarios públicos y al personal al que se refiere el artículo 1.3.a) del texto refundido de la Ley del Estatuto de los Trabajadores.
+b) De las resoluciones dictadas por la Tesorería General de la Seguridad Social en materia de gestión recaudatoria o, en su caso, por las Entidades Gestoras en el supuesto de cuotas de recaudación conjunta, así como de las relativas a las actas de liquidación y de infracción.
+c) De las pretensiones que versen sobre la impugnación de las disposiciones generales y actos de las Administraciones Públicas sujetos al Derecho Administrativo en materia laboral, salvo los que se expresan en el apartado siguiente.
+2. Los Órganos Jurisdiccionales del Orden Social conocerán de las pretensiones sobre:
+a) Las resoluciones administrativas relativas a la imposición de cualesquiera sanciones por todo tipo de infracciones de orden social, con las excepciones previstas en la letra b) del apartado 1 de este artículo.
+b) Las resoluciones administrativas relativas a regulación de empleo y actuación administrativa en materia de traslados colectivos.
+3. En el plazo de nueve meses desde la entrada en vigor de esta Ley, el Gobierno remitirá a las Cortes Generales un Proyecto de Ley para incorporar a la Ley de Procedimiento Laboral las modalidades y especialidades procesales correspondientes a los supuestos del anterior número 2. Dicha Ley determinará la fecha de entrada en vigor de la atribución a la Jurisdicción del Orden Social de las materias comprendidas en el número 2 de este artículo."
+Se modifica por la disposición adicional 24.2 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Modificación del texto articulado de la Ley de Bases sobre el procedimiento económico-administrativo.
+El artículo 40 del texto articulado de la Ley de Bases 39/1980, de 5 de julio, sobre el procedimiento económico-administrativo, aprobado por Real Decreto legislativo 2795/1980, de 12 de diciembre, queda redactado como sigue:
+«1. Las resoluciones del Ministro de Economía y Hacienda y del Tribunal Económico-Administrativo Central serán recurribles por vía contencioso-administrativa ante la Audiencia Nacional, salvo las resoluciones dictadas por el Tribunal Económico-Administrativo Central en materia de tributos cedidos, que serán recurribles ante el Tribunal Superior de Justicia competente.
+2. Las resoluciones dictadas por los Tribunales Económico-Administrativos Regionales y Locales que pongan fin a la vía económico-administrativa serán recurribles ante el Tribunal Superior de Justicia competente.»
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Los juzgados y tribunales del orden contencioso-administrativo también conocerán de las cuestiones que se promuevan entre Sociedad Estatal Correos y Telégrafos, S.A., y los empleados de ésta que conserven la condición de funcionarios y presten servicios en la misma, en los mismos términos en que conocen las cuestiones que se plantean entre los organismos públicos y su personal funcionario, atendiendo a la naturaleza específica de esta relación.
+Se añade por la disposición adicional 14.9 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Referencias al recurso de súplica.
+Las referencias en el articulado de esta Ley al recurso de súplica se entenderán hechas al recurso de reposición.
+Se añade por el art. 14.67 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Incidencia de las competencias de la Unión Europea en el proceso contencioso-administrativo tributario.
+1. De conformidad con lo dispuesto en el artículo 1 de esta Ley, cuando el recurso contencioso-administrativo tenga por objeto un acto administrativo que, relativo a una deuda aduanera, esté vinculado a una decisión adoptada por las instituciones de la Unión Europea, la revisión no podrá extenderse al contenido de dicha decisión.
+De no proceder la anulación del acto administrativo recurrido en base al resto de alegaciones del demandante, en el supuesto de que la normativa de la Unión Europea haga depender la no contracción a posteriori, la condonación o la devolución de la deuda aduanera de una Decisión de la Comisión Europea, y el acto objeto de recurso haya sido dictado sin someter dicha cuestión a la Comisión, el órgano jurisdiccional deberá pronunciarse sobre si, conforme a lo dispuesto en la normativa de la Unión Europea, procede tal sometimiento. Si el órgano jurisdiccional entiende que dicho sometimiento es procedente, suspenderá el procedimiento e instará a la Administración Tributaria para que someta el asunto a la Comisión en el plazo máximo de dos meses.
+2. Cuando el acto relativo a la liquidación de una deuda aduanera objeto de recurso, haya sido sometido a una decisión de las instituciones de la Unión Europea que haya de pronunciarse sobre la no contracción a posteriori, la devolución o la condonación de dicha deuda, se suspenderá el curso de los autos desde que esa circunstancia se ponga en conocimiento del órgano jurisdiccional y hasta que sea firme la resolución adoptada por dichas instituciones.
+Igualmente procederá la suspensión del curso de los autos, exclusivamente respecto de los elementos de la obligación tributaria que sean objeto del procedimiento amistoso, desde que se inicie el procedimiento amistoso en materia de imposición directa a que se refiere la disposición adicional primera del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por Real Decreto Legislativo 5/2004, de 5 de marzo, hasta que finalice dicho procedimiento amistoso.
+En los procedimientos tramitados al amparo del Convenio 90/436/CEE y en los casos en los que la existencia de sanciones excluya el acceso a la fase arbitral del procedimiento amistoso, lo establecido en el párrafo anterior no será de aplicación cuando se haya interpuesto cualquier recurso en vía contencioso-administrativa contra las sanciones.
+Se modifica el apartado 2 por el art. 218 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-30
+ Téngase en cuenta que lo dispuesto en la nueva redacción otorgada por este Real Decreto-ley al tercer párrafo del apartado 2, será de aplicación a los procedimientos amistosos iniciados a partir del 12 de octubre de 2015, según establece su disposición transitoria 8.1.
+ Se añade por la disposición final 3.1 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#dftercera.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Delitos contra la Hacienda pública.
+De conformidad con lo dispuesto en el artículo 3.a) de esta Ley, no corresponde al orden jurisdiccional contencioso-administrativo conocer de las pretensiones que se deduzcan respecto de las actuaciones tributarias vinculadas a delitos contra la Hacienda Pública que se dicten al amparo del Título VI de la Ley 58/2003, de 17 de diciembre, General Tributaria, salvo lo previsto en los artículos 256 y 258.3 de la misma.
+Una vez iniciado el correspondiente proceso penal por delito contra la Hacienda Pública, tampoco corresponderá al orden jurisdiccional contencioso-administrativo conocer de las pretensiones que se deduzcan respecto de las medidas cautelares adoptadas al amparo del artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se añade por la disposición final 3.2 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#dftercera.
+
+### Disposición adicional decimoprimera
+
+Disposición adicional decimoprimera. Referencias al expediente administrativo contenidas en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+Todas las referencias al expediente administrativo contenidas en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, se entenderán hechas al expediente administrativo en soporte electrónico.
+Téngase en cuenta que esta disposición, añadida por el art. 102.32 del Real Decreto-ley 6/2023, de 19 de diciembre Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+Se añade por el art. 102.32 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+ Esta disposición entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Asuntos de la competencia de los Juzgados de lo Contencioso-administrativo.
+1. Los procesos pendientes ante las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia cuya competencia corresponda, conforme a esta Ley, a los Juzgados de lo Contencioso-administrativo, continuarán tramitándose ante dichas Salas hasta su conclusión.
+2. En tanto no entren en funcionamiento los Juzgados de lo Contencioso-administrativo, las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia ejercerán competencia para conocer de los procesos que, conforme a esta Ley, se hayan atribuido a los Juzgados. En estos casos, el régimen de recursos será el establecido en esta Ley para las sentencias dictadas en segunda instancia por las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Procedimiento ordinario.
+1. Los recursos contencioso-administrativos interpuestos con anterioridad a la entrada en vigor de esta Ley continuarán sustanciándose conforme a las normas que regían a la fecha de su iniciación.
+2. No obstante, cuando el plazo para dictar sentencia en tales procesos se hubiere iniciado con posterioridad a la entrada en vigor de esta Ley, se hará aplicación en la sentencia de lo dispuesto en la sección 8ª del capítulo I del Título IV. Si hubiera de aplicarse un precepto que supusiera innovación, se otorgará a las partes un plazo común extraordinario de diez días para oírlas sobre ello.
+3. Serán asimismo aplicables las reglas de la sección 9ª del capítulo I del Título IV a todos los recursos contencioso-administrativos en que no se hubiese dictado sentencia a la entrada en vigor de esta Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Recursos de casación.
+1. El régimen de los distintos recursos de casación regulados en esta Ley será de plena aplicación a las resoluciones de las Salas de lo Contencioso-administrativo de la Audiencia Nacional y de los Tribunales Superiores de Justicia que se dicten con posterioridad a su entrada en vigor y a las de fecha anterior cuando al producirse aquélla no hubieren transcurrido los plazos establecidos en la normativa precedente para preparar o interponer el recurso de casación que procediera. En este último caso, el plazo para preparar o interponer el recurso de casación que corresponda con arreglo a esta Ley se contará desde la fecha de su entrada en vigor.
+2. Los recursos de casación preparados con anterioridad a la entrada en vigor de esta Ley se regirán por la legislación anterior.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Ejecución de sentencias.
+La ejecución de las sentencias firmes dictadas después de la entrada en vigor de esta Ley se llevará a cabo según lo dispuesto en ella. Las dictadas con anterioridad de las que no constare en autos su total ejecución se ejecutarán en lo pendiente con arreglo a la misma.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procedimiento especial para la protección de los derechos fundamentales de la persona.
+Los recursos interpuestos en materia de protección de los derechos fundamentales de la persona con anterioridad a la entrada en vigor de esta Ley continuarán sustanciándose por las normas que regían a la fecha de su iniciación.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Cuestión de ilegalidad.
+La cuestión de ilegalidad sólo podrá plantearse en todos los procedimientos cuya sentencia adquiera firmeza desde la entrada en vigor de esta Ley.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Procedimiento especial en materia de suspensión administrativa de acuerdos.
+El régimen del procedimiento especial en los casos de suspensión administrativa de acuerdos regulado en el artículo 127 será de aplicación a las impugnaciones y traslados de actos suspendidos que tengan lugar con posterioridad a su entrada en vigor, aunque dichos actos hubieran sido dictados antes de esa fecha.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Medidas cautelares.
+En los procedimientos pendientes a la entrada en vigor de esta Ley podrán solicitarse y acordarse las medidas cautelares previstas en el capítulo II del Título VI.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Costas procesales.
+El régimen de costas procesales establecido en esta Ley será aplicable a los procesos y a los recursos que se inicien o promuevan con posterioridad a su entrada en vigor.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera. Cláusula general de derogación.
+Quedan derogadas todas las normas de igual o inferior rango en lo que se opongan a la presente Ley.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda. Derogación de normas.
+Quedan derogadas las siguientes disposiciones:
+a) La Ley reguladora de la Jurisdicción Contencioso-administrativa, de 27 de diciembre de 1956.
+b) Los artículos 114 y 249 de la Ley 118/1973, de 12 de enero, texto refundido de la Ley de Reforma y Desarrollo Agrario.
+c) Los artículos 6, 7, 8, 9 y 10 de la Ley 62/1978, de 26 de diciembre, de Protección Jurisdiccional de los Derechos Fundamentales de la Persona.
+d) El apartado 3 del artículo 110 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición final primera
+
+Disposición final primera. Supletoriedad de la Ley de Enjuiciamiento Civil.
+En lo no previsto por esta Ley, regirá como supletoria la de Enjuiciamiento Civil.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo de la Ley.
+Se autoriza al Gobierno a dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sean necesarias. En concreto, en el plazo de un año a partir de la entrada en vigor de esta Ley, el Gobierno, a propuesta del Consejo General del Poder Judicial, regulará la organización y régimen de acceso al Registro previsto en la disposición adicional tercera. Al mismo tiempo, el Gobierno elaborará los programas necesarios para la instauración de los órganos unipersonales de lo contencioso-administrativo en el período comprendido entre 1998 y 2000, correspondiendo al Consejo General del Poder Judicial y al Ministerio de Justicia o, en su caso, al órgano competente de la Comunidad Autónoma el desarrollo y ejecución, dentro del ámbito de sus respectivas competencias.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los cinco meses de su publicación en el Boletín Oficial del Estado, sin perjuicio de lo establecido en la Disposición Adicional Quinta.
+Se modifica por la disposición adicional 24.3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 13 de julio de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

@@ -1,0 +1,109 @@
+# Ley 16/1983, de 24 de octubre, de creación del Organismo Autónomo Instituto de la Mujer.
+
+- Identificador BOE: `BOE-A-1983-28126`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-28126
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+El organismo autónomo Instituto de la Mujer y para la Igualdad de Oportunidades cambia su denominación por la de «Instituto de las Mujeres», según establece la disposición final 4.1 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero. Naturaleza y régimen jurídico.
+1. Se crea el Instituto de las Mujeres, como organismo autónomo de los previstos en la sección 2.ª del capítulo III, del título II, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al Ministerio de Igualdad.
+2. De conformidad con la disposición adicional vigésima octava de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Instituto de las Mujeres es el organismo competente en el Reino de España a efectos de lo dispuesto en el artículo 20 de la Directiva 2006/54/CE del Parlamento Europeo y del Consejo de 5 de julio de 2006, relativa a la aplicación del principio de igualdad de oportunidades e igualdad de trato entre hombres y mujeres en asuntos de empleo y ocupación (refundición) y en el artículo 12 de la Directiva 2004/113/CE, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
+Asimismo, es el organismo de fomento de la igualdad de acuerdo a lo previsto en el artículo 11 de la Directiva 2010/41/UE del Parlamento Europeo y del Consejo, de 7 de julio de 2010, sobre la aplicación del principio de igualdad de trato entre hombres y mujeres que ejercen una actividad autónoma, y por la que se deroga la Directiva 86/613/CEEE del Consejo.
+3. El Instituto de las Mujeres se rige por lo dispuesto en la presente Ley, en la Sección 2.ª del capítulo III, del título II, de la Ley 40/2015, de 1 de octubre, y en el resto de normas que le sean de aplicación.
+Se modifica por la disposición final 4.2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+ Se modifica por el art. 17.2 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo segundo
+
+Artículo segundo. Fines.
+El Instituto de las Mujeres tiene como finalidad primordial la promoción y el fomento de las condiciones que posibiliten la libertad, la igualdad real y efectiva entre mujeres y hombres y la participación de las mujeres en la vida política, civil, laboral, económica, social y cultural, así como la prevención y eliminación de toda clase de discriminación de las personas por razón de sexo.
+Se modifica por la disposición final 4.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+ Se modifica por el art. 17.3 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo segundo bis
+
+Artículo segundo bis.
+(Suprimido)
+Se suprime por el art. 17.6 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+ Se añade por la disposición adicional 27 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo tercero
+
+Artículo tercero. Funciones.
+Para el cumplimiento de sus fines, el Instituto de las Mujeres desarrollará, en el ámbito de las competencias del Estado, las siguientes funciones:
+a) Impulsar y desarrollar la aplicación transversal del principio de igualdad de trato y de oportunidades entre mujeres y hombres, así como elaborar, en cooperación con otros Departamentos, los informes de aplicación de las Directivas de la Unión Europea, en las que el Instituto es el Organismo de fomento de la igualdad.
+b) Recibir y canalizar en el orden administrativo las quejas formuladas en casos concretos de discriminación de hecho o de derecho por razón de sexo, asistiendo de manera independiente a las víctimas de discriminación por este motivo para que tramiten sus reclamaciones.
+c) Promover las medidas dirigidas a la asistencia y protección de las víctimas de discriminación por razón de sexo, sin perjuicio de las competencias asumidas por otros órganos.
+d) Recopilar información y documentación relativa a la igualdad de género; elaborar informes, estudios y recomendaciones sobre las mujeres en España y sobre materias que afecten a la igualdad de género, en particular sobre las políticas públicas de igualdad de oportunidades, tanto en el ámbito nacional como internacional; y, su difusión e intercambio con departamentos ministeriales y entes públicos o privados, de ámbito internacional, nacional, autonómico o local.
+e) Realizar análisis estadísticos, elaborar indicadores y mantener las bases de datos estadísticas en las materias que afecten a la igualdad de trato y de oportunidades entre mujeres y hombres; y, su difusión e intercambio con otros entes públicos o privados, de ámbito internacional, nacional, autonómico o local competentes en esta materia. Asimismo, el intercambio de información con organismos europeos equivalentes.
+f) Realizar cuantas actividades favorezcan la participación de las mujeres en la actividad económica y en el mercado de trabajo, de acuerdo con lo establecido en la Ley Orgánica 3/2007, de 22 de marzo, sin perjuicio de las competencias atribuidas a otros Departamentos.
+g) Prevenir y combatir el sexismo y los estereotipos de género, en sus distintas manifestaciones y en los diferentes ámbitos de la vida, en particular en espacios públicos, internet, publicidad, medios de comunicación, ámbito laboral, sector público y en el ámbito de la justicia, la educación, el deporte y la cultura.
+h) Velar por el tratamiento no sexista de la imagen de las mujeres en la publicidad, los medios de comunicación, internet o cualquier otra forma de promoción y difusión educativa, cultural o recreativa, y atender a las quejas concretas en estos campos, a través del Observatorio de Imagen de las Mujeres.
+i) Fomentar las relaciones en el ámbito de sus competencias con organizaciones no gubernamentales de ámbito estatal, así como con entes estatales, autonómicos y locales, públicos o privados y establecer la vinculación del Instituto con Organismos Internacionales dedicados a materias afines, en particular con los organismos europeos equivalentes y con el Instituto Europeo de Igualdad de Género.
+j) Elaborar, coordinar y hacer el seguimiento y evaluación del Plan Estratégico de Igualdad de Oportunidades. De la misma manera, elaborar el Informe Periódico, contemplados en los artículos 17 y 18 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en colaboración con los Departamentos ministeriales, y especialmente con las Unidades de Igualdad de dichos Departamentos.
+k) Formular iniciativas y actividades de sensibilización social, información, formación y participación, así como realizar cuantas actividades sean requeridas para el logro de las finalidades expuestas, con arreglo a la normativa de aplicación.
+l) Ejercer cualquier otra de las funciones atribuidas por la normativa vigente.
+Se modifica por la disposición final 4.4 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+ Se modifica por el art. 17.4 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo cuarto
+
+Artículo cuarto. Dirección y coordinación.
+La persona titular de la Dirección del Instituto de la Mujer y para la Igualdad de Oportunidades, ejercerá la dirección y coordinación de las funciones encomendadas al organismo. Su nombramiento se realizará mediante real decreto, a propuesta de la persona titular del Ministerio al que esté adscrito.
+Se modifica por el art. 17.5 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo quinto
+
+Artículo quinto. Financiación.
+Para el cumplimiento de sus fines, el Instituto de la Mujer y para la Igualdad de Oportunidades dispondrá de los siguientes recursos económicos:
+a) Las transferencias y demás asignaciones que figuren en los Presupuestos Generales del Estado.
+b) Las donaciones, legados, subvenciones y cualquier otra ayuda económica que pueda obtener y que válidamente acepte.
+c) Los bienes y valores que constituyen su patrimonio.
+d) Los productos y rentas de dicho patrimonio.
+e) Los beneficios que, en su caso, pueda obtener de la actividad que sea propia del Instituto.
+f) Cualquier otro recurso que pueda serle atribuido.
+Se modifica por el art. 17.7 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+ Su anterior numeración era art. 7.
+
+### Artículo sexto
+
+Artículo sexto.
+La persona titular del Instituto de las Mujeres, que tendrá rango de Director General, será nombrada por el Consejo de Ministros a propuesta de la persona titular del Ministerio de Igualdad.
+Se añade por la disposición final 4.5 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+ Se suprime por el art. 17.6 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Artículo séptimo
+
+Artículo séptimo.
+(Sin contenido)
+Se deja sin contenido por el art. 17.7 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley, así como para modificar por Real Decreto la adscripción del Instituto de las Mujeres.
+Se modifica por la disposición final 4.6 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-5
+
+### Disposición final segunda
+
+Disposición final segunda.
+Queda suprimida la Subdirección General de la Mujer, cuyas funciones serán asumidas por el Instituto de la Mujer.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 24 de octubre de 1983.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Felipe González Márquez.

@@ -1,0 +1,277 @@
+# Ley 3/2001, de 28 de mayo, reguladora del consentimiento informado y de la historia clínica de los pacientes.
+
+- Identificador BOE: `BOE-A-2001-12770`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-12770
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El cambio de cultura jurídica en la relación médico-paciente, evidenciado en la afirmación del principio de autonomía de la persona, supuso dejar al margen una relación caracterizada por un sentido paternalista y regida por el principio de beneficencia, para alcanzar una nueva situación, acorde con los tiempos, en la que el paciente y sus derechos se configuren como los protagonistas.
+En este sentido, el paciente se convirtió en un usuario de los servicios sanitarios, hecho que se aprecia con nitidez en los artículos 9 y 10 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+Así, el primero de esos artículos habla de usuarios de los servicios del sistema sanitario, mientras que el segundo, entre los derechos de los ciudadanos con respecto a las distintas administraciones públicas, recoge de forma extensa el derecho a la información –fundamentalmente en los apartados 2, 4, 5 y 6 del artículo 10.
+La información al paciente viene a constituir el eje fundamental en el que articular un verdadero consentimiento. El consentimiento informado sería el último eslabón de ese derecho a la información de los usuarios, prestar el consentimiento después de haber obtenido la información precisa y suficiente. El titular del derecho a la información es el propio paciente, único legitimado, en principio, para consentir.
+En la presente Ley, y específicamente en su título II, se regula en la Comunidad Autónoma de Galicia, tanto para los centros sanitarios públicos como privados, y dentro del marco competencial y básico perfilado por la Constitución española, por la Ley General de Sanidad y demás normativa concordante, el consentimiento informado entendido como el derecho del paciente a obtener información y explicación adecuadas de la naturaleza de su enfermedad y del balance entre los efectos de la misma y los riesgos y beneficios de los procedimientos terapéuticos recomendados, para, a continuación, solicitarle su aprobación para ser sometido a esos procedimientos.
+En consecuencia, se pretende hacer efectivo un derecho ya existente del paciente a ser dueño de su destino.
+El articulado de la presente Ley establece y regula el consentimiento informado no sólo fijando su concepto y ámbito, sino, además, señalando quién tiene que dar esa información a quién, cómo y cuándo tiene que darse, la extensión de esa información, el contenido del documento formulario y las excepciones y límites de consentimiento informado.
+En el título III de la presente Ley se regula la historia clínica. La Ley 14/1986, de 25 de abril, General de Sanidad, reconoce en su artículo 10.11 el derecho de todos «a que quede constancia por escrito de todo su proceso» y en el artículo 61 reglamenta la historia clínico-sanitaria, estableciendo la unidad de ésta, dentro de los límites de cada institución asistencial y las bases del derecho de acceso a ella, que debe coexistir con las garantías de la confidencialidad de la misma.
+En la misma línea, el Real Decreto 63/1995, de 20 de enero, sobre ordenación de prestaciones sanitarias del sistema nacional de salud, reconoce la historia clínica con una prestación sanitaria, englobándola dentro de la modalidad de los servicios de información y documentación sanitaria.
+La obligación de la existencia de historias clínicas viene recogida, asimismo, en muy diversas normas y en distintas materias –hemodonación, medicina nuclear, reglamento penitenciario, salud dental, salud laboral, entre otras.
+De conformidad con todo lo anterior, la historia clínica viene a configurarse como un conjunto de documentos de carácter jurídico-asistencial que posibilita el derecho de los ciudadanos a la disponibilidad de la información contenida en las historias clínicas y su adecuada utilización en su asistencia sanitaria.
+Asimismo, y al objeto de garantizar el cumplimiento de una previsión de carácter legal, se considera adecuado y oportuno que el contenido de esta norma sea de aplicación a todo tipo de asistencia sanitaria, ya sea pública o privada.
+En el marco de los preceptos constitucionales que reconocen el derecho a la protección de la salud (artículo 43) y garantizan el derecho a la intimidad personal y familiar y a la propia imagen (artículo 18), y al amparo de lo dispuesto en el artículo 33.1 del Estatuto de Autonomía de Galicia, según el cual corresponde a la Comunidad Autónoma el desarrollo legislativo y la ejecución de la legislación básica del Estado en materia de sanidad interior, se promulga esta norma con la que se pretende el establecimiento de los criterios mínimos que faciliten la armonización de los diversos formatos que surgieron a partir de las normas sectoriales promulgadas para atender a aspectos específicos de la asistencia sanitaria, echándose en falta un marco común.
+En la presente Ley se regulan los soportes documentales de la historia clínica, la exigencia de historias clínicas en los ámbitos de atención especializada y primaria, el contenido y requisitos mínimos a los que se debe atender, tanto en el aspecto material como formal, y la propiedad, custodia y acceso, asegurando que con el obligado respeto a las exigencias de confidencialidad y secreto, y sin menoscabo de las mismas, se garantice el derecho del paciente a la información contenida en las historias clínicas y su uso por el personal sanitario o para unos fines específicos que, siempre con las debidas cautelas, justifican el acceso por parte del personal autorizado.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2 del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su Presidente, promulgo, en nombre de Rey, la Ley reguladora del consentimiento informado y de la historia clínica de los pacientes.
+
+## TÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente ley tiene por objeto regular el consentimiento informado de los pacientes así como su historia clínica, garantizando el acceso de aquéllos a la información contenida en la misma.
+2. Los pacientes tendrán los derechos y obligaciones previstos en la presente ley; en la Ley 4/1986, de 25 de abril, general de sanidad; en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, y demás disposiciones que sean de aplicación.
+Se modifica por el art. único.1 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de aplicación a todo tipo de asistencia sanitaria que se preste en la Comunidad Autónoma de Galicia en los centros y establecimientos sanitarios públicos o privados, sean o no concertados con el Servicio Gallego de Salud.
+
+## TÍTULO II
+
+Del consentimiento informado
+
+### Artículo 3
+
+Artículo 3. Definición.
+1. A los efectos de la presente ley, se entiende por consentimiento informado el prestado libre y voluntariamente por el afectado para toda actuación en el ámbito de su salud y una vez que, recibida la información adecuada, hubiera valorado las opciones propias del caso. El consentimiento será verbal, por regla general, y se prestará por escrito en los casos de intervención quirúrgica, procedimientos diagnósticos y terapéuticos invasores, y, en general, en la aplicación de procedimientos que supongan riesgos o inconvenientes de notoria y previsible repercusión negativa sobre la salud del paciente.
+2. La prestación del consentimiento informado es un derecho del paciente y su obtención un deber del médico.
+3. El paciente tiene derecho a decidir libremente, tras recibir la información adecuada, entre las opciones clínicas disponibles. Asimismo, tiene derecho a negarse al tratamiento, salvo en los casos determinados en la ley. Su negativa al tratamiento constará por escrito.
+Se modifica por el art. único.2 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 4
+
+Artículo 4. Prestación del consentimiento.
+El consentimiento deberá recabarse por el médico designado por el centro sanitario para la atención del paciente o por el que practique la intervención diagnóstica o terapéutica del propio paciente.
+El paciente tendrá también derecho a que se tome en consideración su voluntad, expresada con anticipación ante el personal facultativo del centro sanitario cuando no se encuentre en situación de manifestarla en el momento de la intervención y conste por escrito debidamente firmada.
+
+### Artículo 5
+
+Artículo 5. Instrucciones previas.
+1. Por el documento de instrucciones previas, una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad, a fin de que ésta sea cumplida en el momento en que llegue a situaciones en las que por las circunstancias no sea capaz de expresarla personalmente, sobre los cuidados y el tratamiento de su salud, o, una vez llegado el fallecimiento, sobre el destino de su cuerpo o de los órganos del mismo. El otorgante del documento puede designar, además un representante para que, llegado el caso, sirva como interlocutor suyo con el médico o el equipo sanitario para procurar el cumplimiento de las instrucciones previas.
+2. Tendrá que haber constancia fehaciente de que este documento está otorgado en las condiciones expuestas en el apartado anterior. A estos efectos, la declaración de instrucciones previas deberá formalizarse mediante alguno de los procedimientos siguientes:
+a) Ante Notario. En este supuesto no será necesaria la presencia de testigos.
+b) Ante tres testigos mayores de edad y con plena capacidad de obrar, de los cuales dos, como mínimo, no podrán tener relación de parentesco hasta el segundo grado ni estar vinculados por relación patrimonial con el otorgante.
+3. No serán aplicadas las instrucciones previas contrarias al ordenamiento jurídico, a la «lex artis», ni las que no se correspondan con el supuesto de hecho que el interesado tenga previsto en el momento de manifestarlas. En la historia clínica del paciente quedará constancia razonada de las anotaciones relacionadas con estas previsiones.
+4. Cuando existan voluntades anticipadas, la persona que las otorga, sus familiares o su representante harán llegar el documento que las contenga al centro sanitario donde la persona esté hospitalizada. Este documento de voluntades anticipadas será incorporado a la historia clínica del paciente.
+5. Las instrucciones previas podrán revocarse libremente en cualquier momento dejando constancia por escrito.
+6. A fin de garantizar la eficacia, en el ámbito de la Comunidad Autónoma, de las instrucciones previas manifestadas por los pacientes, y formalizadas documentalmente, con arreglo a lo dispuesto en este artículo, se creará un Registro Autonómico de Instrucciones Previas, adscrito a la Consellería de Sanidad, que se regirá por las normas que reglamentariamente se determinen.
+Se modifican los apartados 1 a 4 y se añaden el 5 y 6 por el art. único.3 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 6
+
+Artículo 6. Otorgamiento del consentimiento por sustitución.
+1. Son situaciones de otorgamiento del consentimiento por sustitución las siguientes:
+a) Cuando el paciente esté circunstancialmente incapacitado para tomar decisiones, por criterio del médico responsable de la asistencia, el derecho corresponderá a sus familiares o a las personas vinculadas de hecho a él.
+En caso de familiares, se dará preferencia al cónyuge o, en su caso, a quien tenga la condición legal de pareja de hecho. En su defecto, a los familiares de grado más próximo y dentro del mismo grado a los que ejerzan de cuidadores o, a falta de éstos, a los de mayor edad.
+b) Cuando el paciente sea un incapacitado legal, el derecho corresponde a su representante legal, que habrá de acreditar de forma clara e inequívoca, en virtud de la correspondiente sentencia de incapacitación, que está legalmente habilitado para tomar decisiones que afecten a la persona del incapaz.
+Asimismo, cuando a criterio del médico responsable, el incapacitado reúne suficientes condiciones de madurez, le facilitará la información adecuada a su capacidad. La opinión de éste será tomada en consideración como un factor que será tanto más determinante en función de su capacidad.
+c) Cuando el paciente menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención, en este caso, el consentimiento lo dará el representante legal del menor después de haber escuchado su opinión si tiene doce años cumplidos. Cuando se trate menores no incapaces ni incapacitados, pero emancipados o con dieciséis años cumplidos, no cabe prestar el consentimiento por sustitución. Sin embargo, en caso de actuación de grave riesgo, según el criterio del facultativo, los padres serán informados y su opinión será tenida en cuenta para la toma de la decisión correspondiente.
+d) En caso de que la decisión del representante legal sea contraria a los intereses del menor o incapacitado, habrán de ponerse los hechos en conocimiento de la autoridad competente en virtud de lo dispuesto en la legislación civil.
+2. La interrupción voluntaria del embarazo, la práctica de ensayos clínicos y la práctica de técnicas de reproducción humana asistida se rigen por lo establecido con carácter general sobre la mayoría de edad y por las disposiciones especiales de aplicación.
+3. La representación del consentimiento por sustitución será adecuada a las circunstancias y proporcionada a las necesidades que es preciso atender, siempre a favor del paciente y con respeto a su dignidad personal. El paciente participará en la medida de lo posible en la toma de decisiones a lo largo de su proceso sanitario.
+Se modifica por el art. único.4 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 7
+
+Artículo 7. Restricción de la información en interés del paciente.
+El derecho a la información sanitaria de los pacientes puede limitarse por la existencia acreditada de un estado de necesidad terapéutica. Se entiende por tal la facultad del médico para actuar profesionalmente sin informar antes al paciente, cuando por razones objetivas el conocimiento de su propia situación puede perjudicar su salud de modo grave. Llegado este caso, el médico dejará constancia razonada de las circunstancias en la historia clínica y comunicará su decisión a las personas vinculadas al paciente por razones familiares o de hecho, con arreglo a lo establecido en el apartado 1.a) del artículo 6 de la presente ley.
+Se modifica por el art. único.5 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 8
+
+Artículo 8. Características de la información previa al consentimiento.
+1. El titular del derecho a la información es el paciente. También serán informadas las personas vinculadas a él, por razones familiares o de hecho, en la medida en que el paciente lo permita de forma expresa o tácita.
+2. La información será verdadera, comprensible, adecuada a las necesidades del paciente, continuada, razonable y suficiente.
+3. La información se facilitará con la antelación suficiente para que el paciente pueda reflexionar y decidir libremente.
+4. La información será objetiva, específica y adecuada al procedimiento, evitando los aspectos alarmistas que puedan incidir negativamente en el paciente.
+5. La información deberá incluir:
+Identificación y descripción del procedimiento.
+Objetivo del mismo.
+Beneficios que se esperan alcanzar.
+Alternativas razonables a dicho procedimiento.
+Consecuencias previsibles de su realización.
+Consecuencias de la no realización del procedimiento.
+Riesgos frecuentes.
+Riesgos poco frecuentes, cuando sean de especial gravedad y estén asociados al procedimiento de acuerdo con el estado de la ciencia.
+Riesgos personalizados de acuerdo con la situación clínica del paciente.
+Contraindicaciones.
+Se modifican los apartados 1, 2 y 5 por el art. único.6 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 9
+
+Artículo 9. Responsabilidad de la información previa al consentimiento.
+El médico responsable del paciente le garantiza el cumplimiento de su derecho a la información. Los profesionales que lo atiendan durante el proceso asistencial o que le apliquen una técnica o un procedimiento concreto también serán responsables de informarlo.
+Se modifica por el art. único.7 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 10
+
+Artículo 10. Contenido del documento formulario.
+1. El documento de consentimiento informado, además de la información del procedimiento diagnóstico o terapéutico a que se refiere el artículo anterior, y sin perjuicio de la posibilidad de adjuntar anexos y otros datos de carácter general, habrá de contener los siguientes datos mínimos:
+Identificación del centro.
+Identificación del procedimiento.
+Identificación del paciente, representante legal, familiar o allegado que presta el consentimiento.
+Identificación del médico que informa.
+Consentimiento del paciente o del familiar, allegado o representante legal que autoriza.
+Declaración del paciente de que conoce que el consentimiento puede ser revocado en cualquier momento sin expresión de la causa de la revocación.
+Lugar y fecha.
+Firmas del médico, paciente, familiar, representante legal o persona a él allegada.
+2. En el documento de consentimiento informado quedará constancia de que el paciente o la persona destinataria de la información recibe una copia de dicho documento y de que comprendió adecuadamente la información.
+Se modifica el apartado 1 por el art. único.8 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 11
+
+Artículo 11. Excepción y límites del consentimiento informado.
+1. La renuncia del paciente a recibir información está limitada por el interés de la salud del propio paciente, de terceros, de la colectividad y de las exigencias terapéuticas del caso. Cuando el paciente manifieste expresamente su deseo de no ser informado, se respetará su voluntad haciendo constar su renuncia documentalmente, sin perjuicio de obtener el consentimiento previo para la intervención.
+2. Los facultativos podrán llevar a cabo las intervenciones clínicas indispensables a favor de la salud del paciente, sin necesidad de contar con su consentimiento, en los siguientes casos:
+a) Cuando existe riesgo para la salud pública a causa de razones sanitarias establecidas por la ley y así se declare expresamente por acuerdo del delegado provincial de la Consellería de Sanidad o del director general de Salud Pública si afectara a más de una provincia. En todo caso, una vez adoptadas las medidas pertinentes, de conformidad con lo establecido en la Ley orgánica 3/1986, de 14 de abril, de medidas especiales en materia de salud pública, se comunicarán a la autoridad judicial en el plazo máximo de veinticuatro horas siempre que dispongan el internamiento obligatorio de personas.
+b) Cuando existe riesgo inmediato grave para la integridad física y psíquica del paciente y no es posible obtener la autorización, consultando, cuando las circunstancias lo permitan, a sus familiares o a las personas vinculadas de hecho a él.
+Se modifica por el art. único.9 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 12
+
+Artículo 12. Comisión de Consentimiento Informado.
+1. A los efectos previstos en la presente Ley, se constituirá, dependiendo de la Consejería de Sanidad y Servicios Sociales, la Comisión de Consentimiento Informado, a la que corresponderán las siguientes funciones:
+a) Revisión, actualización y publicación periódica de una guía de formularios de referencia recomendados de consentimiento informado.
+b) Conocimiento de la implantación de los formularios de referencia de consentimiento informado.
+c) Prestación del asesoramiento necesario a los órganos de la Consejería de Sanidad y Servicios Sociales y del Servicio Gallego de Salud en las materias relacionadas con sus funciones.
+d) Valoración, selección y expurgación de la documentación clínica.
+e) Todas aquellas que le atribuyan normas de carácter legal o reglamentario.
+2. La composición de la Comisión de Consentimiento Informado será determinada por Decreto de la Junta de Galicia.
+3. La Comisión de Consentimiento Informado se reunirá, al menos, dos veces al año y siempre que la convoque su Presidente.
+Corresponde a la propia Comisión la elaboración y aprobación de su reglamento de funcionamiento interno, rigiéndose, en todo lo no previsto en él, por lo dispuesto en el capítulo II del título I de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, relativo a los órganos colegiados.
+
+## TÍTULO III
+
+De la historia clínica
+
+### Artículo 13
+
+Artículo 13. Definición.
+La historia clínica es el conjunto de documentos en los que se contienen los datos, las valoraciones y las informaciones de cualquier tipo sobre la situación y la evolución clínica de los pacientes a lo largo de su proceso asistencial, así como la identificación de los médicos y demás profesionales que intervinieron en éste.
+Se modifica por el art. único.10 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 14
+
+Artículo 14. Soporte.
+En la historia clínica podrán ser usados cualquiera de los soportes documentales adecuados para su utilización, siempre y cuando garanticen su autenticidad, integridad, seguridad y conservación.
+En todo caso, el uso de dichos soportes se atendrá a lo dispuesto en la normativa sobre tratamiento automatizado de datos de carácter personal.
+
+### Artículo 15
+
+Artículo 15. Ámbito territorial.
+La historia clínica deberá ser única por paciente, al menos en cada complejo hospitalario, hospital o centro sanitario.
+Dicha historia clínica acumulará toda la información clínica generada en cada episodio asistencial e integrará los diferentes episodios del paciente.
+
+### Artículo 16
+
+Artículo 16. Contenido.
+La historia clínica contendrá suficiente información para identificar al paciente y documentar su proceso de atención sanitaria. A tal efecto, incluirá, al menos:
+a) Datos suficientes para la adecuada identificación del paciente.
+b) Médico o profesional responsable.
+c) Datos que identifiquen el proceso de atención sanitaria.
+d) Datos relativos al proceso, que incluirán, como mínimo:
+1. Anamnesis y exploración física.
+2. Órdenes médicas.
+3. Hoja de evolución y de planificación de cuidados de enfermería.
+4. Evolución clínica.
+5. Informe sobre los procedimientos diagnósticos o terapéuticos e interconsultas realizadas.
+6. Informe de alta del episodio de atención u hoja de problemas en atención primaria.
+7. Documento de consentimiento informado.
+8. Documento firmado de alta voluntaria.
+Se modifica por el art. único.11 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 17
+
+Artículo 17. Requisitos.
+1. La elaboración de la historia clínica, en los aspectos relacionados con la asistencia directa al paciente, será responsabilidad de los profesionales que intervienen en la misma.
+2. Las historias clínicas deberán ser claramente legibles, evitándose, en lo posible, la utilización de símbolos y abreviaturas, y estarán normalizadas en cuanto a su estructura lógica, de conformidad con lo que se disponga reglamentariamente. Cualquier información incorporada a la historia clínica habrá de ser datada y firmada de manera que se identifique claramente el personal que la realice.
+Se modifica por el art. único.12 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 18
+
+Artículo 18. Propiedad y custodia.
+1. Las historias clínicas son documentos confidenciales propiedad de la Administración sanitaria o entidad titular del centro sanitario cuando el médico trabaje por cuenta y bajo la dependencia de una institución sanitaria. En caso contrario, la propiedad corresponde al médico que realiza la atención sanitaria.
+2. La entidad o facultativo propietario es responsable de la custodia de las historias clínicas y habrá de adoptar todas las medidas precisas para garantizar la confidencialidad de los datos o de la información contenida en las mismas.
+Asimismo, toda persona que en el ejercicio de sus funciones o competencias tenga conocimiento de los datos e informaciones contenidas en la historia clínica tendrá la obligación de reserva y sigilo respecto de los mismos.
+
+### Artículo 19
+
+Artículo 19. Acceso.
+1. El paciente tiene el derecho de acceso a la documentación de la historia clínica y a obtener copia de los datos que figuran en la misma. Los centros sanitarios regularán el procedimiento que garantice la observancia de estos derechos. Este derecho de acceso podrá ejercitarse por representación debidamente acreditada.
+2. En los supuestos de procedimientos administrativos de exigencia de responsabilidad patrimonial o en las denuncias previas a la formalización de un litigio sobre la asistencia sanitaria se permitirá que el paciente tenga acceso directo a la historia clínica, en la forma y con los requisitos que se regulen legal o reglamentariamente.
+También tendrán acceso a la historia clínica los órganos competentes para tramitar y resolver los procedimientos de responsabilidad patrimonial por el funcionamiento de la Administración sanitaria, así como la inspección sanitaria en el ejercicio de sus funciones.
+3. El acceso a la historia clínica con fines judiciales, epidemiológicos, de salud pública, de investigación o de docencia se rige por lo dispuesto en la Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, en la Ley 14/1986, de 25 de abril, general de sanidad, y demás normas de aplicación en cada caso. El acceso a la historia clínica con estos fines obliga a preservar los datos de identificación personal del paciente, separados de los de carácter clínico-asistencial, de modo que como regla general quede asegurado el anonimato, salvo que el propio paciente hubiera dado su consentimiento para no separarlos. Se exceptúan los supuestos de investigación de la autoridad judicial en los que se considere imprescindible la unificación de los datos identificativos con los clínico-asistenciales, en los cuales se estará a lo que dispongan los jueces y tribunales en el proceso correspondiente. El acceso a los datos y documentos de la historia clínica queda limitado estrictamente a los fines específicos en cada caso.
+4. El derecho al acceso del paciente a la documentación de la historia clínica no puede ejercitarse en perjuicio del derecho de terceras personas a la confidencialidad de los datos que constan en ella recogidos en interés terapéutico del paciente, ni en perjuicio del derecho de los profesionales participantes en su elaboración, los cuales pueden oponer al derecho de acceso la reserva de sus anotaciones subjetivas.
+5. El acceso por otras personas distintas al paciente a la información contenida en la historia clínica habrá de estar justificado por la atención sanitaria del mismo.
+En todo caso, el personal de administración y gestión de los centros sanitarios sólo puede acceder a los datos de la historia clínica relacionados con sus propias funciones.
+6. Los centros sanitarios y los facultativos de ejercicio individual sólo facilitarán el acceso a la historia clínica de los pacientes fallecidos a las personas vinculadas a él, por razones familiares o de hecho, salvo que el fallecido lo hubiera prohibido expresamente y así se acredite.
+En cualquier caso, el acceso de un tercero a la historia clínica motivado por un riesgo para su salud se limitará a los datos pertinentes. No se facilitará información que afecte a la intimidad del fallecido ni a las anotaciones subjetivas de los profesionales, ni que perjudiquen a terceros.
+Cualquier otra razón de carácter excepcional habrá de responder a un interés legítimo susceptible de protección y estar convenientemente motivada.
+7. El personal sanitario debidamente acreditado que ejerza funciones de inspección, evaluación, acreditación y planificación tiene acceso a las historias clínicas en el cumplimiento de sus funciones de comprobación de la calidad de la asistencia, del respeto de los derechos del paciente o de cualquier otra obligación del centro en relación con los pacientes y usuarios o la propia Administración sanitaria.
+8. En todos los casos quedará plenamente garantizado el derecho del paciente a su intimidad personal y familiar, por lo que el personal que acceda a esta información guardará el correspondiente secreto profesional.
+Se modifica por el art. único.13 de la Ley 3/2005, de 7 de marzo. Ref. BOE-A-2005-6226.
+
+### Artículo 20
+
+Artículo 20. Conservación.
+1. La historia clínica habrá de conservarse en condiciones que garanticen la preservación de la información asistencial que contiene, aunque no se mantenga en el soporte original en el cual se ha generado, con las cautelas que se establezcan reglamentariamente para evitar la manipulación de datos cuando no se mantenga dicho soporte original.
+2. Se conservará indefinidamente la siguiente información:
+Informes de alta.
+Hojas de consentimiento informado.
+Hojas de alta voluntaria.
+Informes quirúrgicos y/o registro de parto.
+Informes de anestesia.
+Informes de exploraciones complementarias.
+Informes de necropsia.
+Hoja de evolución y de planificación de cuidados de enfermería.
+Otros informes médicos Cualquier otra información que se considere relevante a efectos asistenciales, preventivos, epidemiológicos o de investigación.
+La información de aquellas historias clínicas cuya conservación sea procedente por razones judiciales.
+3. El resto de la información se conservará, como mínimo, hasta que transcurran cinco años desde la última asistencia prestada al paciente o desde su fallecimiento.
+
+### Artículo 21
+
+Artículo 21. Régimen sancionador.
+Sin perjuicio de las exigencias que se pudiesen derivar en los ámbitos de la responsabilidad civil y penal, o de la responsabilidad profesional o estatutaria, en su caso, será de aplicación a las infracciones a lo dispuesto en la presente normativa el régimen sancionador previsto en el capítulo VI del título I de la Ley 14/1986, de 25 de abril, General de Sanidad, y en el título VII de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Administración sanitaria realizará las inspecciones oportunas a los efectos de garantizar y comprobar que los centros e instituciones sanitarias y el personal a su servicio cumplen las obligaciones establecidas en la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La Consejería de Sanidad y Servicios Sociales procederá a agilizar los procedimientos de aprobación de los formularios de referencia de consentimiento informado para que puedan ser utilizados progresivamente en los centros asistenciales del Servicio Gallego de Salud y en los centros concertados con éste.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El Servicio Gallego de Salud adoptará las medidas adecuadas tendentes a la informatización progresiva de las historias clínicas, garantizando la integración de la información relativa a cada paciente con independencia del soporte en que se encuentre.
+
+### Disposición final primera
+
+Disposición final primera.
+La Consejería de Sanidad y Servicios Sociales dictará las disposiciones necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley entrará en vigor al mes siguiente al de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 28 de mayo de 2001.
+MANUEL FRAGA IRIBARNE,
+Presidente

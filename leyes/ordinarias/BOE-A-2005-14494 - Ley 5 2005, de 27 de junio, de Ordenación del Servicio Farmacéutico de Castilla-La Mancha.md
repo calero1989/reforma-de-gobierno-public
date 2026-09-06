@@ -1,0 +1,1125 @@
+# Ley 5/2005, de 27 de junio, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2005-14494`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-14494
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+De acuerdo con lo dispuesto en el artículo 32.4 del Estatuto de Autonomía de Castilla-La Mancha, la Junta de Comunidades tiene competencias de desarrollo legislativo y ejecución en materia de ordenación farmacéutica.
+En ejercicio de las competencias en materia de ordenación farmacéutica, la Ley 4/1996, de 26 de diciembre, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha, pretende una regularización global de todos los ámbitos donde se presta la asistencia farmacéutica, consciente de su importancia en el marco del derecho a la salud y a la asistencia sanitaria, en aras de mejorar su calidad y conseguir un uso racional del medicamento, dentro de la legislación básica de la Ley General de Sanidad y de la Ley del Medicamento.
+En esta Ley se recoge la voluntad política del Gobierno Regional de acercar al ciudadano un servicio que es básico, considerándolo además universal, público, cercano, cómodo y de calidad, adecuado a sus intereses y demandas.
+Las necesidades surgidas por el devenir de los acontecimientos han obligado a realizar en la citada Ley las correspondientes modificaciones.
+La reforma por la Ley 4/1998, de 9 de junio, incidió en los objetivos de la del 1996, asegurando su prestación con las debidas garantías y permitiendo el acceso de nuevos profesionales a las oficinas de farmacia, debiendo garantizarse dicho acceso bajo las condiciones de concurrencia y publicidad y en base a los principios de igualdad de oportunidades, mérito y capacidad.
+Una segunda reforma fue introducida por la Ley 10/2000, de 26 de diciembre, realizada con el fin de profundizar en el acercamiento de los servicios farmacéuticos a los ciudadanos de Castilla-La Mancha, posibilitando la apertura de oficinas de farmacia en áreas geográficas delimitadas en núcleos de población con una concentración de población de más de 1.000 habitantes contados a partir de 500 metros de la oficina de farmacia más próxima.
+La Sentencia del Tribunal Constitucional 109/2003, de 5 de junio, incide sustancialmente en la regulación del sector farmacéutico al reconocer el derecho a la transmisión de las oficinas de farmacia y a constituir cotitularidades.
+Esta sentencia, las reformas arriba expuestas y la necesidad de realizar una serie de precisiones técnicas han hecho aconsejable la redacción de una nueva ley con la misma estructura y espíritu de la original 4/1996, de 26 de diciembre, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha, con el objetivo último de garantizar la eficacia y seguridad jurídica óptimas en su aplicación, así como los derechos y libertades de los ciudadanos, optándose por una asistencia farmacéutica de calidad, accesible a la ciudadanía, con la participación activa del profesional farmacéutico y su implicación para lograr un uso racional del medicamento.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Ámbito y definiciones
+
+### Artículo 1
+
+Artículo 1. Ámbito.
+1. La presente Ley regula, en el ámbito de las competencias de la Comunidad Autónoma de Castilla-La Mancha, la asistencia farmacéutica prestada a los ciudadanos a través de los establecimientos y servicios siguientes:
+a) Oficinas de farmacia.
+b) Botiquines.
+c) Servicios de farmacia de estructuras de atención primaria y centros de salud.
+d) Servicios de farmacia hospitalarios y depósitos de medicamentos.
+e) Servicios de farmacia y depósitos de medicamentos en los centros sociosanitarios.
+f) Depósitos de medicamentos en otros centros, servicios y establecimientos sanitarios, así como en los centros penitenciarios.
+2. Asimismo se regulan en la presente Ley:
+a) Entidades de distribución.
+b) Establecimientos autorizados para la dispensación de medicamentos veterinarios.
+Se modifica el apartado 2.a) por el art. único.1 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de esta Ley se entenderá por:
+a) «Dispensación»: Toda entrega de medicamentos al público efectuada, en el ejercicio de sus funciones, por un farmacéutico o bajo su responsabilidad, en oficina de farmacia, botiquín, servicio de farmacia o depósito de medicamentos, previa prescripción por un facultativo autorizado o bajo su criterio profesional en los casos que esté autorizado.
+b) «Oficina de farmacia»: El establecimiento sanitario privado de interés público autorizado, en el que bajo la dirección de uno o varios farmacéuticos se llevan a cabo las funciones que se describen en el artículo 19 de esta Ley.
+c) «Botiquín»: El establecimiento sanitario dependiente de una oficina de farmacia y autorizado en las condiciones que se determinen por Ley.
+d) «Servicio de farmacia de atención primaria»: La unidad de asistencia farmacéutica dotada de medios materiales y humanos, dentro de la estructura de atención primaria, debidamente autorizada, en la que los farmacéuticos adscritos desarrollan las funciones que tienen asignadas en el artículo 44 de la presente Ley.
+e) «Servicio de farmacia de los centros hospitalarios»: La unidad, dentro del hospital, dotada de medios materiales y humanos, debidamente autorizada, en la que los farmacéuticos especialistas adscritos desarrollan las funciones que tienen asignadas en el artículo 49 de la presente Ley.
+f) «Depósito de medicamentos»: La unidad de asistencia farmacéutica dependiente de una oficina de farmacia o servicio de farmacia, ubicada fuera de su espacio físico, en la que se conservan y dispensan medicamentos a pacientes atendidos en el centro en el que está situada.
+g) «Asistencia farmacéutica»: El conjunto de actuaciones realizadas por el farmacéutico encaminadas a asegurar la correcta prestación farmacéutica y uso racional del medicamento, en todos los niveles del sistema sanitario, mediante los establecimientos y servicios farmacéuticos encargados de su custodia, conservación y dispensación, conforme a lo establecido en esta Ley, en el artículo 103 de la Ley 14/1986, de 25 de abril, General de Sanidad y en la Ley 25/1990, de 20 de diciembre, del Medicamento.
+h) «Consejo farmacéutico»: Las recomendaciones técnicas y sanitarias impartidas por un profesional farmacéutico, en la consulta farmacéutica del establecimiento de asistencia donde ejerce su actividad profesional, garantizando la confidencialidad tanto del paciente como de la información recibida e impartida al mismo.
+i) «Centro sociosanitario»: Todo aquel centro público o privado que atienda a sectores de población tales como ancianos, personas con discapacidad, enfermos mentales, y cualesquiera otros cuyas condiciones de salud requieran, además de las atenciones sociales que les presta el centro, determinada asistencia sanitaria.
+j) Indicación farmacéutica: El servicio que es prestado ante la demanda de un paciente o usuario que llega a la farmacia sin saber qué medicamento no sujeto a prescripción debe adquirir y solicita al farmacéutico el remedio más adecuado para un problema de salud concreto.
+k) Seguimiento farmacoterapéutico: El servicio realizado por un profesional sanitario que tiene como objetivo la detección de problemas relacionados con medicamentos para la prevención y resolución de resultados negativos asociados a la medicación.
+l) Depósitos de medicamentos en planta: Depósitos que utiliza el servicio de farmacia del centro como ayuda para la distribución de los medicamentos en el mismo.
+Se añaden las letras j) a l) por el art. único.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## CAPÍTULO II
+
+Autorizaciones
+
+### Artículo 3
+
+Artículo 3. Autorizaciones administrativas.
+1. Los establecimientos y servicios para la asistencia farmacéutica relacionados en el artículo 1 de esta Ley están sujetos a autorización administrativa previa a su instalación, funcionamiento, modificación, si procede, traslado o cierre. Las oficinas de farmacia están sujetas además a autorización administrativa de transmisión.
+2. Quedan excluidos de esta obligación los depósitos de medicamentos de planta de los centros hospitalarios.
+3. La Consejería competente en materia de Sanidad es el órgano competente para el conocimiento, tramitación y resolución de los expedientes de autorización a que se refiere el número 1 de este artículo.
+4. Los procedimientos de autorización se ajustarán a lo dispuesto en esta Ley, las normas generales de procedimiento administrativo y a lo que reglamentariamente se establezca.
+5. Previamente a la concesión de la autorización de funcionamiento, modificación y transmisión, se realizará visita de inspección por el órgano competente, para comprobar que se cumplen todos los requisitos establecidos, levantándose la correspondiente acta de inspección.
+6. Se podrá proceder a la suspensión o revocación de las autorizaciones concedidas a un establecimiento o servicio de los indicados en el artículo 1, cuando no reúna los requisitos establecidos en la presente Ley, sin que en ningún caso tenga la consideración de sanción.
+7. La decisión de suspensión o revocación de la autorización, previa audiencia al interesado, deberá motivarse de forma precisa y se notificará al mismo indicando los recursos que procedan, órgano ante el que hubieran de presentarse y los plazos para interponerlos.
+
+### Artículo 4
+
+Artículo 4. Obligaciones generales.
+1. Los titulares de los establecimientos y servicios regulados por esta Ley están obligados a suministrar o dispensar los medicamentos que se les soliciten en las condiciones legal o reglamentariamente establecidas.
+2. Igualmente deberán elaborar y comunicar a la Administración sanitaria la información y estadísticas sanitarias que le demande.
+3. Los establecimientos y servicios regulados por la presente Ley están sujetos a:
+a) Registro y catalogación.
+b) Evaluación, inspección y control.
+
+### Artículo 5
+
+Artículo 5. Condiciones de dispensación.
+1. La dispensación sólo podrá realizarse en los establecimientos autorizados para ello por esta ley y en las condiciones que se establecen en la misma, en la Ley General de Sanidad, Ley del Medicamento y disposiciones que las desarrollen.
+2. La dispensación de medicamentos se realizará por un farmacéutico o bajo su supervisión.
+3. La dispensación de medicamentos de uso veterinario debe realizarse en los establecimientos que determina el artículo 74 de esta ley, mediante los correspondientes servicios farmacéuticos.
+4. En la dispensación de medicamentos entre los establecimientos autorizados y el público, se prohíbe la intermediación con ánimo de lucro de terceras personas, entidades o empresas.
+5. En relación a la venta indirecta, ambulante o a domicilio, se estará a lo dispuesto en la legislación del Estado sobre productos farmacéuticos.
+6. Excepcionalmente, a las personas usuarias que residan en zonas escasamente pobladas o en riesgo de despoblación podrán dispensárseles los medicamentos y productos sanitarios, con entrega informada de los mismos en su domicilio y con cumplimiento de las garantías en materia de dispensación de medicamentos y productos sanitarios impuestas por la normativa de aplicación, por una oficina de farmacia de la zona farmacéutica, debiendo quedar garantizada la intervención directa del farmacéutico de la oficina de farmacia en la dispensación para realizar el preceptivo y previo asesoramiento personalizado conforme lo previsto en los artículos 19.4 y 86.1 del Real Decreto Legislativo 1/2015.
+En todo caso, en los supuestos contemplados en el párrafo anterior, se deberán cumplir estrictamente las garantías sobre la calidad y control sanitario para cualquiera de estas entregas, para lo cual se incorporarán los métodos o sistemas de control necesarios, así como, deberá quedar garantizada la responsabilidad directa del farmacéutico dispensador sobre el transporte y entrega del medicamento, asegurando que no sufre ninguna alteración ni merma de su calidad.
+7. Igualmente, el servicio de farmacia hospitalaria correspondiente podrá realizar la entrega informada en el lugar de residencia de las personas usuarias, y con cumplimiento de las garantías en materia de dispensación de medicamentos y productos sanitarios impuestas por la normativa de aplicación, de aquellos medicamentos cuya dispensación esté restringida únicamente al ámbito hospitalario de acuerdo con la normativa estatal vigente, entrega en la cual podrán colaborar las oficinas de farmacia de la zona.
+Este procedimiento solo podrá aplicarse con carácter excepcional en las zonas escasamente pobladas o en riesgo de despoblación, así como en otros supuestos que se determinen, en aras a favorecer la continuidad asistencial y evitar el desplazamiento del paciente al hospital.
+8. Asimismo, en los mismos términos y supuestos contemplados en los apartados 6 y 7 de este artículo, dichos pacientes y usuarios podrán recibir en su domicilio la asistencia farmacéutica que precisen de la oficina de farmacia, incluyendo la relacionada con el seguimiento fármaco-terapéutico, adherencia a los tratamientos con sistemas personalizados de dosificación (SPD), reacciones adversas y las actuaciones propias de los programas que se concierten con las Administraciones competentes.
+Se modifica por la disposición final 3 de la Ley 2/2021, de 7 de mayo. Ref. BOE-A-2021-11513#df-3
+
+### Artículo 6
+
+Artículo 6. Condiciones de funcionamiento.
+1. Los establecimientos y servicios regulados por esta Ley deberán:
+a) Disponer del espacio, distribución funcional, equipamiento material y recursos humanos necesarios para asegurar una correcta asistencia farmacéutica.
+b) Funcionar bajo la responsabilidad técnica de un farmacéutico.
+c) Mantener los registros que se establecen en esta Ley y aquellos otros que se determinen reglamentariamente.
+2. Las condiciones de funcionamiento necesarias de los establecimientos y servicios regulados por esta Ley se desarrollarán reglamentariamente.
+
+### Artículo 7
+
+Artículo 7. Publicidad.
+1. Los mensajes publicitarios de los medicamentos se regirán por lo dispuesto en la legislación del Estado.
+2. La Consejería competente en materia de sanidad velará para que la información, promoción y publicidad de medicamentos y productos sanitarios y en particular la venta por internet se ajusten a lo establecido en la normativa vigente.
+Se modifica el apartado 2 por el art. único.3 y el 1 por la disposición adicional única.1 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## CAPÍTULO III
+
+Actuaciones
+
+## Sección 1
+
+Sección 1.ª Actuaciones de la administración sanitaria
+
+### Artículo 8
+
+Artículo 8. Garantía de la asistencia.
+Corresponde a la Administración de la Junta de Comunidades de Castilla-La Mancha garantizar la asistencia farmacéutica dentro de su ámbito territorial.
+
+### Artículo 9
+
+Artículo 9. Principios de actuación.
+Las actuaciones de la Administración sanitaria en materia de asistencia farmacéutica se guiarán por los principios de proximidad geográfica al ciudadano, calidad del servicio, seguridad, así como los de eficacia, celeridad, economía y flexibilidad.
+
+### Artículo 10
+
+Artículo 10. Actuaciones de la Administración sanitaria.
+1. La Administración sanitaria promoverá las siguientes actuaciones generales:
+a) La realización de estudios fármaco-epidemiológicos y de utilización de medicamentos, mediante el desarrollo de un sistema organizado de recogida y aprovechamiento de la información sobre prescripción y dispensación de medicamentos, disponibles para todos los profesionales sanitarios en las condiciones que se establezcan.
+b) El establecimiento de programas de formación continuada para los profesionales farmacéuticos.
+c) El fomento de programas para garantizar el uso racional de los medicamentos, de valoración científica de su empleo y de información farmacoterapéutica para los profesionales sanitarios, así como la elaboración de un programa para garantizar el uso seguro de los medicamentos.
+d) La participación de profesionales farmacéuticos en las actuaciones e iniciativas sanitarias de la Administración directamente relacionadas con el medicamento.
+e) El fomento de la participación sistemática de los establecimientos y servicios de asistencia farmacéutica en los programas generales de educación sanitaria, promoción de la salud, prevención de la enfermedad y detección de problemas de salud y calidad de la asistencia farmacéutica y uso racional del medicamento.
+2. Son actuaciones específicas de la Administración sanitaria: el desarrollo de programas específicos de colaboración con estos establecimientos y servicios en materia de prevención y tratamiento de drogodependencias, alcoholismo, detección y prevención de incompatibilidades medicamentosas en pacientes polimedicados, SIDA, programas de planificación familiar, programas de cumplimiento de tratamientos, programas de asistencia farmacéutica en hospitalización domiciliaria, programas de farmacovigilancia y aquellos otros que pudieran establecerse.
+3. Las anteriores actuaciones podrán ser desarrolladas en colaboración con los Colegios Oficiales de Farmacéuticos o el Consejo de Colegios Oficiales de Farmacéuticos de Castilla-La Mancha mediante los oportunos acuerdos.
+4. Se crea la Comisión Regional del Uso Racional del Medicamento, con el fin de servir de ámbito de coordinación de la política farmacéutica de la Consejería competente en materia de sanidad. Reglamentariamente se determinará su composición y funciones.
+Se modifica el apartado 1.c) y se añade el 4 por el art. único.4 y 5 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 11
+
+Artículo 11. Acreditación de establecimientos y servicios farmacéuticos.
+1. Se establecerá reglamentariamente un sistema de acreditación sanitaria de los establecimientos y servicios farmacéuticos en base a los siguientes principios:
+Participación voluntaria de los establecimientos.
+Determinación de estándares de calidad con participación tanto de la Administración sanitaria como de los profesionales farmacéuticos.
+Revisión periódica de los estándares y de las acreditaciones concedidas.
+Existencia de varios niveles de acreditación.
+2. Los establecimientos y servicios farmacéuticos acreditados gozarán de los beneficios e incentivos de carácter sanitario que reglamentariamente se establezcan.
+
+## Sección 2
+
+Sección 2.ª Actuaciones de los Profesionales Farmacéuticos
+
+### Artículo 12
+
+Artículo 12. Actuación coordinada.
+Los profesionales de los establecimientos y servicios farmacéuticos indicados en el artículo 1 deberán actuar coordinadamente entre ellos y con el resto del Sistema de Salud de Castilla-La Mancha, con el fin de garantizar una correcta asistencia farmacéutica y un uso racional del medicamento. La coordinación será llevada a cabo por la Administración sanitaria.
+
+### Artículo 13
+
+Artículo 13. Colaboración.
+Los profesionales farmacéuticos colaborarán en los programas que promueva la Administración sanitaria sobre garantía de calidad de la asistencia farmacéutica, garantía de calidad de la atención sanitaria en general, promoción y protección de la salud, prevención de la enfermedad, educación sanitaria y uso racional del medicamento; entre estos programas figurarán los generales y específicos del artículo 10 de esta Ley establecidos por la Administración, en las condiciones que reglamentariamente se determinen.
+
+### Artículo 14
+
+Artículo 14. Consejo farmacéutico.
+Los profesionales farmacéuticos darán consejo farmacéutico a los pacientes que lo soliciten. Para ello destinarán en su establecimiento un espacio independiente dedicado a consulta farmacéutica. Reglamentariamente se establecerán los requisitos básicos de la consulta farmacéutica.
+El consejo farmacéutico en ningún caso implicará diagnóstico clínico.
+
+### Artículo 15
+
+Artículo 15. Historia farmacoterapéutica.
+Para un mejor cumplimiento de sus actividades sanitarias los establecimientos de asistencia farmacéutica podrán elaborar historias farmacoterapéuticas de usuarios en las condiciones básicas que se establezcan. El farmacéutico, como profesional sanitario, es el responsable de su contenido y confidencialidad. Los derechos del usuario respecto de la historia farmacoterapéutica serán los mismos que los regulados por la normativa vigente respecto de la historia clínica.
+
+## CAPÍTULO IV
+
+Derechos y deberes
+
+### Artículo 16
+
+Artículo 16. Derechos y deberes de los ciudadanos.
+1. Además de los reconocidos para la asistencia sanitaria en general y farmacéutica en particular por la normativa vigente, son derechos de los ciudadanos en materia de asistencia farmacéutica los siguientes:
+a) La asistencia farmacéutica continuada.
+b) Obtener los medicamentos y productos sanitarios necesarios para promover, conservar o restablecer su salud, en los términos legalmente establecidos.
+c) Solicitar en horario de apertura al público la asistencia directa del farmacéutico.
+d) Recibir consejo farmacéutico con garantía de privacidad, confidencialidad y gratuidad en relación con los medicamentos y productos sanitarios, así como con las funciones que el farmacéutico realiza previstas en el artículo 19.1.
+e) Obtener consejo farmacéutico con claridad y por escrito si así lo solicitan.
+f) Conocer quien les atiende y su nivel profesional.
+g) Conocer y tener acceso a los datos contenidos en su historia farmacoterapéutica.
+2. En relación con la prestación farmacéutica, los ciudadanos tendrán los deberes establecidos por la normativa vigente.
+Se modifica el apartado 1 por el art. único.6 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 17
+
+Artículo 17. Objeción de conciencia.
+1. La Administración sanitaria garantizará el derecho a la objeción de conciencia del profesional farmacéutico.
+2. No obstante, la Consejería de Sanidad adoptará las medidas que sean necesarias para que el ejercicio de este derecho no limite ni condicione el derecho a la salud de los ciudadanos.
+
+## TÍTULO II
+
+La asistencia farmacéutica en el nivel de la atención primaria
+
+## CAPÍTULO I
+
+La oficina de farmacia
+
+### Artículo 18
+
+Artículo 18. Asistencia farmacéutica continuada.
+1. La asistencia farmacéutica que se presta a los ciudadanos por las oficinas de farmacia debe serlo de manera continuada.
+2. Las oficinas de farmacia permanecerán abiertas al público al menos durante el horario mínimo que se determine por la Administración sanitaria.
+Las oficinas de farmacia podrán ampliar el horario mínimo establecido en el párrafo anterior, previa comunicación a la Administración sanitaria y de acuerdo con los módulos que reglamentariamente se determinen. Este horario ampliado tendrá la consideración de horario obligatorio durante su vigencia.
+3. Fuera de dicho horario mínimo la asistencia farmacéutica se garantizará en régimen de urgencia atendido por un sistema de turnos, establecidos por la Administración sanitaria.
+4. La información sobre el servicio farmacéutico de urgencia figurará en cada oficina de farmacia y en aquellos otros lugares que determine la Administración.
+5. Las oficinas de farmacia podrán cerrar temporalmente durante el período vacacional y por asuntos particulares, previa comunicación a la Administración sanitaria, respetando las necesidades de asistencia farmacéutica y los turnos vacacionales autorizados. Corresponde a la Administración sanitaria la autorización de los turnos vacacionales.
+6. La Administración sanitaria, oídos los Colegios Oficiales de Farmacéuticos, podrá autorizar por razones excepcionales el cierre temporal de las oficinas de farmacia por un período máximo de 2 años, siempre que con las que permanezcan abiertas se satisfagan las necesidades de asistencia farmacéutica.
+Se modifican los apartados 2 y 5 por el art. único.7 y 8 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 19
+
+Artículo 19. Funciones.
+1. En las oficinas de farmacia se llevarán a cabo las siguientes funciones por un farmacéutico o bajo su dirección:
+a) La adquisición, conservación, custodia y dispensación de medicamentos y productos sanitarios y de aquellos otros utensilios y productos de carácter sanitario que se utilicen para la aplicación de los anteriores, o de utilización o carácter tradicionalmente farmacéutico.
+b) La elaboración y dispensación de fórmulas magistrales y preparados oficinales de acuerdo con lo establecido por la normativa vigente.
+c) La información, instrucción y consejo farmacéutico a los usuarios en relación con los tratamientos prescritos.
+d) La indicación farmacéutica en relación con los medicamentos que no precisan prescripción médica.
+e) La vigilancia de efectos adversos y errores de medicación, así como la notificación de sospechas de reacciones adversas.
+f) La colaboración con el equipo sanitario en el seguimiento de los tratamientos farmacoterapéuticos.
+g) La colaboración con el servicio de salud en los programas asistenciales para grupos específicos de pacientes.
+h) La colaboración en los programas sanitarios que promueva la Administración sanitaria y, en concreto, en los establecidos en el artículo 10.
+i) La actuación coordinada a nivel de las áreas y zonas básicas de salud, así como la colaboración con la atención especializada para garantizar un uso racional del medicamento.
+j) La elaboración de historias farmacoterapéuticas de los usuarios.
+k) El control de recetas dispensadas y custodia de las mismas durante el tiempo que establezca la normativa estatal vigente sobre esta materia, así como de otros documentos sanitarios.
+2. En las oficinas de farmacia se podrán llevar a cabo, además, las siguientes funciones:
+a) La venta a distancia al público, a través de sitios web, de medicamentos de uso humano no sujetos a prescripción médica, para aquellas oficinas de farmacia cuyo titular lo comunique previamente y cumpla los requisitos establecidos por la legislación específica.
+b) La realización de actuaciones específicas orientadas a mejorar el cumplimiento terapéutico y, en particular, la elaboración y administración de sistemas personalizados de dosificación.
+c) Otras funciones profesionales o sanitarias que tradicionalmente o por estar contempladas en normas específicas pueda desarrollar el farmacéutico titular o el adjunto, de acuerdo con su titulación y especialidad.
+Se modifica por el art. único.9 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 20
+
+Artículo 20. Titularidad.
+1. Sólo los farmacéuticos podrán ser titulares y propietarios de las oficinas de farmacia. Los farmacéuticos titulares serán responsables del ejercicio de las funciones descritas en el artículo 19 y del cumplimiento de todas las demás obligaciones y requisitos legales de las oficinas de farmacia.
+2. Cada farmacéutico sólo podrá ser titular o cotitular de una única oficina de farmacia. No se podrán constituir cotitularidades con un porcentaje de participación, para cada titular, inferior al 25 % del total de la misma.
+3. En el caso de que exista cotitularidad, los cotitulares responderán solidariamente de las obligaciones y deberes que les impone esta Ley.
+4. Excepcionalmente, los titulares de oficina de farmacia de localidades en las que solo exista una, durante los períodos de ausencia por vacaciones, por estudios o por asuntos particulares de duración inferior a 15 días, podrán designar como sustituto a otro titular de una oficina de farmacia próxima que se hará cargo de prestar el servicio en horario restringido en los términos que se pacten por escrito entre ambos, comunicándolo previamente a la Administración sanitaria.
+Se modifica por el art. único.10 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 21
+
+Artículo 21. Autorizaciones administrativas.
+1. Las oficinas de farmacia estarán sujetas a las siguientes autorizaciones administrativas:
+a) De instalación.
+b) De funcionamiento.
+c) De transmisión.
+d) De traslado.
+e) De modificación.
+f) De cierre, temporal o definitivo, excepto en los casos contemplados en el artículo 18.5.
+2. Las autorizaciones administrativas de las oficinas de farmacia en Castilla-La Mancha tendrán las siguientes características:
+a) Serán personales al farmacéutico o farmacéuticos autorizados.
+b) Serán transmisibles conforme al artículo 23 de la presente Ley.
+c) Caducarán por cualquiera de las siguientes causas que afecten al titular de la oficina de farmacia: renuncia del mismo, jubilación, fallecimiento, inhabilitación absoluta o especial para el ejercicio de la profesión declarada por sentencia firme, suspensión definitiva de funciones, incapacitación laboral permanente, total o absoluta, declaración judicial de ausencia o incompatibilidad legal de su titular, cumplir 75 años de edad, así como por conseguir otra autorización de funcionamiento de una farmacia en otro núcleo de población.
+3. En los casos de cotitularidad el procedimiento de caducidad afectará únicamente al titular incurso en dicha causa.
+Se modifica el apartado 1.f) por el art. único.11 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 22
+
+Artículo 22. Procedimiento de autorización de nuevas oficinas de farmacia.
+1. El procedimiento para autorizar nuevas oficinas de farmacia se ajustará a lo dispuesto en el presente artículo, a las normas generales de procedimiento administrativo y a lo que se establezca reglamentariamente sobre esta materia.
+2. El procedimiento de adjudicación de nuevas oficinas de farmacia se realizará periódicamente, de la forma que reglamentariamente se establezca, de oficio por la Consejería competente en materia de sanidad, mediante concurso público, en el que podrán participar los farmacéuticos que reúnan los requisitos establecidos en esta ley y demás normas de desarrollo.
+3. La convocatoria indicará expresamente la zona farmacéutica, el municipio, núcleo de población y, en su caso, área geográfica en los que se ubicarán las nuevas oficinas de farmacia.
+4. Si un farmacéutico titular de una oficina de farmacia en la Comunidad Autónoma de Castilla-La Mancha obtuviese la autorización de una nueva oficina de farmacia, la autorización anterior podrá quedar incorporada a convocatorias posteriores.
+5. La Consejería competente en materia de sanidad aprobará el baremo de méritos, oídos los Colegios Oficiales de Farmacéuticos y las asociaciones de farmacéuticos legalmente constituidas y registradas en Castilla-La Mancha. Dicho baremo tendrá en cuenta, al menos, los méritos académicos, la formación posgraduada relacionada con la profesión y la experiencia profesional. Se valorará como mérito específico el ejercicio profesional en núcleos de población de menos de 750 habitantes y en núcleos de población entre 750 y 1.500 habitantes.
+6. La obtención de una autorización de instalación de una oficina de farmacia agotará los méritos de experiencia profesional y de formación post-graduada relacionados con la profesión que tuviera el interesado antes del concurso en el que obtuvo la autorización.
+7. En ningún caso pueden participar en el procedimiento de instalación de una nueva oficina de farmacia los farmacéuticos que tengan instalada otra en el mismo núcleo de población en el cual se solicita la nueva instalación, así como aquellos farmacéuticos que hayan transmitido su titularidad o cotitularidad sobre una oficina de farmacia en un plazo inferior a cinco años respecto a la fecha de publicación de la convocatoria de concurso.
+8. El farmacéutico que habiendo obtenido una autorización de instalación de una oficina de farmacia, no obtenga por causa imputable al mismo la autorización de funcionamiento, no podrá solicitar una nueva oficina de farmacia durante el plazo de 6 años desde aquella autorización.
+9. Ningún titular de oficina de farmacia podrá optar a la titularidad de otra hasta transcurridos 6 años desde la fecha en que le fue concedida la última autorización de funcionamiento o transmisión de la oficina de farmacia de la que es titular, sin que se tengan en consideración las concedidas por traslado ni por modificación de instalaciones. Este plazo será de tres años para oficinas de farmacia autorizadas en núcleos de población de menos de 750 habitantes.
+10. La resolución de autorización de funcionamiento de una nueva oficina de farmacia a favor de un farmacéutico titular de otra oficina de farmacia determinará la caducidad de la autorización de funcionamiento y la pérdida del derecho de transmisión de esta última, que se acreditará mediante la oportuna certificación de la Autoridad sanitaria competente. No obstante, para asegurar que la población a la que dicho farmacéutico venía prestando asistencia farmacéutica no queda desatendida, la autorización de funcionamiento de la nueva oficina de farmacia quedará condicionada a que la Administración autorice un botiquín en el núcleo de población donde, hasta ese momento, hubiese estado abierta la anterior oficina de farmacia.
+En los supuestos de cotitularidad, la caducidad de la autorización afectará al cotitular que hubiese obtenido una nueva autorización de apertura de farmacia; no así al resto de cotitulares, que continuarán con el ejercicio de aquella.
+11. Sin perjuicio de lo establecido en la legislación básica, reglamentariamente se establecerán las medidas cautelares conducentes a evitar que se obstaculice el procedimiento de autorización de nuevas oficinas de farmacia o la apertura de las ya autorizadas.
+12. Las oficinas de farmacia no se podrán transmitir desde el momento en que su titular o cotitular haya presentado solicitud de autorización de instalación de nuevas oficinas de farmacia. Esta limitación se mantendrá en tanto no se agote la vía administrativa en la resolución del expediente de apertura y, en su caso, se extenderá hasta que no se resuelva con carácter definitivo en la vía jurisdiccional.
+En el caso de cotitularidad, las limitaciones señaladas sólo afectarán al farmacéutico cotitular que haya solicitado participar en el procedimiento de instalación de una nueva oficina de farmacia.
+13. En el caso de que el adjudicatario fuese titular de una oficina de farmacia radicada fuera de Castilla-La Mancha, deberá acreditar haber renunciado de forma voluntaria a los derechos de transmisión o cesión que le otorga la autorización concedida por otra Comunidad Autónoma. En caso contrario, el farmacéutico adjudicatario perderá la nueva autorización concedida y pasará la misma al siguiente farmacéutico concursante.
+Se modifica por el art. único.12 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 23
+
+Artículo 23. Transmisión de las oficinas de farmacia.
+1. Las oficinas de farmacia serán transmisibles inter vivos a otro u otros farmacéuticos siempre que las mismas hayan permanecido abiertas al público y se haya mantenido la misma titularidad o cotitularidad durante el plazo de 3 años, a contar desde la fecha en que se produjo su apertura o desde que tuvo lugar el cambio de titularidad o cotitularidad en caso de transmisión. La limitación de 3 años se refiere exclusivamente a la autorización administrativa.
+2. En las transmisiones de oficina de farmacia en régimen de cotitularidad, cuando un titular enajene su parte a cualquier tercero ajeno a la cotitularidad, se podrá ejercitar por el resto de los farmacéuticos cotitulares el derecho de retracto legal que otorga la legislación civil.
+3. No estarán sujetos a lo dispuesto en la presente Ley la cesión, traspaso o venta para otros usos de los locales y demás enseres, los cuales quedarán sometidos al régimen jurídico que les sea de aplicación.
+4. En los supuestos de fallecimiento, incapacitación laboral permanente, total o absoluta, y declaración judicial de ausencia previstos en el apartado c) del punto 2 del artículo 21, los interesados o, en su caso, sus herederos dispondrán de un plazo máximo de un año para transmitir la oficina de farmacia, que podrá prorrogarse por un plazo máximo de 6 meses en casos justificados. Hasta que se produzca la transmisión, deberá haber al frente de la oficina de farmacia un regente, salvo en el supuesto de cotitularidad en el que el nombramiento de regente tendrá carácter voluntario.
+En estos casos no será exigible el plazo establecido en el apartado primero de este artículo.
+5. En el supuesto de que concurra en alguno de los cotitulares alguna de las causas de caducidad previstas en el apartado c) del punto 2 del artículo 21 sin que se hubiese procedido a transmitir su cotitularidad en el plazo máximo establecido o no la pueda transmitir, la parte de su titularidad pasará al otro u otros cotitulares, en éste último caso en la misma proporción que tuvieran éstos.
+La relación sobre los elementos materiales de la farmacia entre el cotitular cuya autorización ha caducado o sus herederos y el cotitular o cotitulares que permanecen se regirá por el derecho privado.
+6. La transmisión inter vivos y mortis causa requerirá autorización administrativa previa, conforme a lo que reglamentariamente se establezca.
+El plazo para resolver las solicitudes de transmisión será de 2 meses. En el supuesto de que éstas no sean resueltas dentro del referido plazo se entenderán desestimadas.
+Se modifica el apartado 1 por el art. único.13 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 24
+
+Artículo 24. Traslados.
+1. Traslados voluntarios. El titular de una oficina de farmacia sólo podrá solicitar el traslado voluntario de su oficina dentro del mismo núcleo de población donde se encontraba ubicada y siempre que el nuevo emplazamiento cumpla los requisitos establecidos. En cualquier caso supondrá la clausura de los primitivos locales.
+El solicitante podrá condicionar la clausura del anterior local a la obtención en firme de la autorización de apertura de la nueva instalación.
+2. Traslados forzosos. Cuando el traslado sea forzoso, por razones que inhabiliten el local o el edificio donde se encuentre ubicada la oficina de farmacia, el farmacéutico titular podrá conservar en suspenso la autorización y volver a instalarse, si es posible, en los mismos locales una vez reconstruidos.
+3. Se determinarán reglamentariamente las demás condiciones que sean de aplicación para los traslados.
+
+### Artículo 25
+
+Artículo 25. Presencia y actuación profesional.
+1. La presencia y la actuación profesional del o de los farmacéuticos titulares es requisito indispensable para desarrollar las funciones descritas en el artículo 19. Su actuación profesional se ajustará a lo dispuesto en esta ley y en la normativa estatal vigente.
+2. Las oficinas de farmacia deben garantizar la presencia continuada del o de los farmacéuticos adscritos al establecimiento durante el horario de apertura al público, excepto en los supuestos previstos en los artículos 29.3 y 31.1.
+3. El farmacéutico y cuantos presten sus servicios en la oficina de farmacia irán provistos de la pertinente identificación profesional, que será claramente visible por el usuario de la oficina de farmacia.
+Se modifica por el art. único.14 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 26
+
+Artículo 26. Recursos humanos.
+Además del farmacéutico titular se establecen las siguientes figuras:
+a) Farmacéutico regente: tendrá la consideración de farmacéutico regente el farmacéutico no titular nombrado para los casos que se determinan en la presente Ley y asumirá las mismas funciones y responsabilidades que el farmacéutico titular.
+b) Farmacéutico sustituto: es el que ejerce su actividad, en lugar del titular o regente, en una oficina de farmacia en los casos que se determinan en la presente Ley y asumirá las mismas funciones y responsabilidades del farmacéutico titular.
+c) Farmacéutico adjunto: es el que ejerce conjuntamente con el farmacéutico titular, regente o sustituto, su actividad profesional en la oficina de farmacia de la que no es titular.
+d) Personal auxiliar: es el que ejerce sus funciones en colaboración con los profesionales farmacéuticos y bajo su supervisión.
+
+### Artículo 27
+
+Artículo 27. Farmacéutico regente.
+1. Caducada la autorización de la Administración en los términos previstos en el artículo 21.2 de la presente Ley, deberá procederse a la designación de un farmacéutico regente para que la oficina de farmacia pueda seguir prestando la asistencia farmacéutica.
+2. Si en el momento del fallecimiento del farmacéutico titular de una oficina de farmacia su cónyuge o alguno de sus hijos que tuviera la cualidad de heredero, estuviese matriculado en alguna facultad de farmacia y manifestase su voluntad de adquirir la titularidad de la oficina de farmacia del causante una vez finalizados sus estudios, podrá autorizarse la continuidad de la actividad de dicha oficina de farmacia, mediante el nombramiento de un farmacéutico regente, siempre y cuando los herederos hubieran comunicado a la Administración sanitaria su voluntad de trasmitírsela al cónyuge o hijos citados.
+El nombramiento del regente previsto en el párrafo anterior no podrá ser superior en un año al número de años que faltara para finalizar los estudios de licenciatura en farmacia desde el año en que se produjera el fallecimiento. En el supuesto de que transcurriera el plazo anteriormente descrito, o se perdieran dos cursos consecutivamente o tres de forma alternativa, se deberá proceder a su transmisión conforme a lo previsto en esta Ley, o al cierre en un plazo máximo de un mes.
+3. La solicitud de designación de regente deberá formularse por los interesados en el plazo de 10 días desde que se produzca el agotamiento de la autorización administrativa.
+4. Corresponde a la Administración sanitaria autorizar la designación del farmacéutico regente a que se refiere el punto anterior.
+5. Hasta tanto la Administración resuelva la solicitud de designación de regente, se podrá mantener abierta la oficina de farmacia atendida por un farmacéutico sustituto.
+Se suprime el apartado 6 por el art. único.15 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 28
+
+Artículo 28. Farmacéutico sustituto.
+1. Se procederá a nombrar un farmacéutico sustituto cuando el titular haya de ausentarse por ausencia justificada, ejercicio de cargo público, vacaciones, asuntos particulares o estudios relacionados con su profesión.
+También se nombrará un farmacéutico sustituto en los supuestos de desaparición del farmacéutico titular hasta la declaración judicial de ausencia; momento a partir del cual se nombrará un regente conforme a lo dispuesto en el artículo 23.4.
+2. El farmacéutico titular o, en su defecto, su representante legal, designará al farmacéutico sustituto presentando ante la Administración sanitaria la declaración responsable de que éste cumple los requisitos legalmente establecidos.
+Se modifica por el art. único.16 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 29
+
+Artículo 29. Farmacéuticos adjuntos.
+1. Atendiendo al volumen de actividad de la oficina de farmacia y su régimen de horario, el farmacéutico titular dispondrá de un número mínimo de farmacéuticos adjuntos que han de prestar servicio en la misma conforme a los criterios que reglamentariamente se determinen por la Administración sanitaria.
+2. Será obligatoria la incorporación de un farmacéutico adjunto cuando el titular de la oficina de farmacia cumpla la edad de 70 años, excepto en el supuesto de cotitularidad, en el que no será obligatoria esta incorporación siempre que el otro o alguno de los otros cotitulares no hayan alcanzado la referida edad.
+3. Los farmacéuticos adjuntos podrán sustituir al titular, regente o sustituto cuando éstos tengan que ausentarse de la oficina de farmacia en el desempeño de las funciones que tienen encomendadas.
+4. Los farmacéuticos adjuntos sólo podrán realizar las funciones previstas en los párrafos a), b), c), d), e), f), g), h) y j) del apartado 1 y las del apartado 2 del artículo 19.
+Se añaden los apartados 3 y 4 por el art. único.17 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 30
+
+Artículo 30. Personal auxiliar.
+1. En el desempeño de las funciones que no requieran la titulación específica, los farmacéuticos podrán ser ayudados por el personal auxiliar que consideren necesario, para el ejercicio de las funciones que les están reconocidas.
+2. Con independencia de la titulación que corresponda al personal auxiliar de la oficina de farmacia, los farmacéuticos titulares, regentes o sustitutos se responsabilizarán de la formación de los mismos.
+
+### Artículo 31
+
+Artículo 31. Ausencias justificadas.
+1. Son ausencias justificadas las debidas al cumplimiento de deberes profesionales inexcusables, o deberes o situaciones asimismo inexcusables de carácter personal o público del farmacéutico, que le impiden su presencia física en la farmacia, así como el ejercicio de cargos directivos o de representación directamente relacionados con su profesión.
+2. Cuando sea previsible que una obligación inexcusable provoque la ausencia del farmacéutico titular o regente, éstos deberán nombrar un sustituto para todo el período de ausencia. El titular deberá comunicar a la Administración sanitaria las ausencias superiores a un día.
+3. En las oficinas de farmacia que no tengan farmacéutico adjunto, el farmacéutico está obligado a nombrar un sustituto para todo el período de ausencia.
+Se modifica el apartado 1 por el art. único.18 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 32
+
+Artículo 32. Abandono de funciones.
+Se produce abandono de funciones por la ausencia injustificada del titular, regente, sustituto o adjunto de la oficina de farmacia donde ejerce.
+
+### Artículo 33
+
+Artículo 33. Registros y controles de las oficinas de farmacia.
+Las oficinas de farmacia deberán mantener los siguientes registros y controles:
+A) Registros:
+a) De adquisición y dispensación de medicamentos y sustancias estupefacientes.
+b) De dispensación de psicotropos y medicamentos sometidos a especial control médico.
+c) De fórmulas magistrales y preparados oficinales.
+Estos registros voluntariamente podrán realizarse mediante la utilización de métodos informáticos en las condiciones que se determinen reglamentariamente.
+B) Controles:
+a) De caducidad, no pudiendo encontrarse en las estanterías medicamentos o productos caducados.
+b) Control de temperatura para los productos termolábiles.
+c) Control de recetas dispensadas.
+
+### Artículo 34
+
+Artículo 34. Venta exclusiva en farmacia.
+1. Sólo podrán ser productos de venta exclusiva en farmacia los expresamente autorizados para tal fin, conforme a la legislación del Estado sobre productos farmacéuticos.
+2. En los establecimientos de asistencia farmacéutica no se podrá vender ningún producto o aparato que, sin tener la calificación de medicamento, efecto y accesorio o producto sanitario, se presente por el fabricante como destinado a curar, paliar o prevenir enfermedades o síntomas de éstas.
+
+### Artículo 35
+
+Artículo 35. Requisitos de los locales.
+1. Los locales e instalaciones de las oficinas de farmacia reunirán las condiciones higiénico-sanitarias precisas para prestar una asistencia farmacéutica correcta.
+2. Las oficinas de farmacia tendrán acceso directo, libre y permanente a la vía pública sin barreras arquitectónicas.
+3. Las oficinas de farmacia dispondrán de una superficie útil mínima de 60 metros cuadrados y con, al menos, las siguientes zonas o áreas funcionales:
+a) Zona de dispensación y atención al usuario.
+b) Zona de recepción, revisión y almacenamiento de medicamentos y productos sanitarios.
+c) Zona de análisis y elaboración de fórmulas magistrales y preparados oficinales.
+d) Zona de atención personalizada.
+e) Aseo.
+4. Reglamentariamente se determinarán los requisitos técnicos, materiales y utillaje, así como la distribución de la superficie de que han de disponer las oficinas de farmacia.
+5. En las fachadas de las oficinas de farmacia y en su acceso principal figurará de forma bien visible la palabra «farmacia» o «botica».
+Se modifica el apartado 3.e) por el art. único.19 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 36
+
+Artículo 36. Criterios de planificación.
+1. El Consejo de Gobierno efectuará la planificación farmacéutica de Castilla-La Mancha tomando como marco de referencia las zonas básicas de salud que podrán ser agrupadas o divididas en función de criterios de densidad y dispersión de la población y de sus necesidades sanitarias.
+2. En todos los núcleos de población de Castilla-La Mancha podrá existir al menos una oficina de farmacia, siendo su número máximo de una por cada 1.900 habitantes. Podrá establecerse una nueva oficina de farmacia siempre que el resto de población resultante de dividir los habitantes del núcleo de población por 1.900 supere los 1.600 habitantes.
+3. A los efectos de esta Ley se entiende por núcleo de población a un conjunto, independiente o aislado, de al menos diez edificaciones que estén formando calles o plazas y que esté reconocido como tal en el Mapa farmacéutico de Castilla-La Mancha.
+4. La distancia entre oficinas de farmacia no podrá ser inferior a 250 metros.
+5. El establecimiento de una oficina de farmacia, sea por razón de nueva instalación o traslado, no podrá hacerse a una distancia inferior a 250 metros de cualquier centro sanitario, en funcionamiento o en fase de proyecto, de financiación pública o concertado, que reglamentariamente se determinen, excepto en los núcleos de población donde sólo pueda existir una oficina de farmacia.
+6. No obstante, las distancias previstas en los apartados 4 y 5 de este artículo no podrán ser inferiores a 150 metros para los núcleos de población de menos de 5.000 habitantes.
+7. Para lograr un mayor acercamiento del servicio farmacéutico a la población, la Administración podrá delimitar áreas geográficas del núcleo de población donde han de ubicarse las nuevas oficinas de farmacia, conforme a lo que se establezca reglamentariamente.
+Se modifica el apartado 2 por el art. único.20 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 37
+
+Artículo 37. Referencias.
+1. Todas las referencias a habitantes de esta Ley, se entienden a la población que conste en el padrón municipal vigente en el momento de presentarse la solicitud.
+2. Todas las referencias a distancias se refieren al camino vial de uso público más corto.
+3. Reglamentariamente se determinará el procedimiento para la medición de distancias entre oficinas de farmacia y entre éstas y los centros a que se refiere el artículo 36.4 y 5 de la presente Ley.
+
+## CAPÍTULO II
+
+Los botiquines farmacéuticos
+
+### Artículo 38
+
+Artículo 38. Disposición General.
+Podrá autorizarse el establecimiento de botiquines en aquellos núcleos de población que no cuenten con una oficina de farmacia. En caso de que se instale una oficina de farmacia el botiquín deberá ser automáticamente clausurado.
+
+### Artículo 39
+
+Artículo 39. Provisión de botiquines.
+1. Los botiquines serán adscritos preferentemente a la oficina de farmacia del núcleo de población con menor número de habitantes de la misma zona farmacéutica, realizando su farmacéutico titular, su regente, su sustituto o su adjunto, las tareas de custodia, conservación y dispensación de los medicamentos y productos sanitarios, durante el horario establecido.
+2. En el caso de renuncia del titular de la oficina de farmacia del núcleo de población con menor número de habitantes de la misma zona farmacéutica, reglamentariamente se establecerá el orden de prioridades para su adscripción a otra oficina de farmacia.
+3. Así mismo, se establecerá reglamentariamente el número máximo de botiquines a atender desde una oficina de farmacia y el periodo máximo de vinculación.
+Se modifica por el art. único.21 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 40
+
+Artículo 40. Solicitudes.
+1. El procedimiento para la autorización de un botiquín se puede iniciar:
+a) A solicitud del farmacéutico titular o farmacéuticos titulares de una oficina de farmacia.
+b) A petición del alcalde del municipio en que se encuentra radicado el núcleo de población donde se pretende instalar el botiquín.
+c) De oficio por la Administración sanitaria.
+2. El establecimiento será facilitado por quien inicie el expediente, o, en su caso, por el farmacéutico titular al que se le adjudique la autorización de apertura del mismo.
+
+### Artículo 41
+
+Artículo 41. Requisitos de los establecimientos.
+El lugar donde se ubique será apropiado a su finalidad, contará con acceso libre, directo y permanente a la vía pública, sin barreras arquitectónicas y dispondrá de un letrero bien visible en el exterior con el horario y días de apertura, la dirección de la oficina de farmacia que lo surte así como el nombre del titular de la misma. No podrá desarrollarse en el establecimiento destinado a botiquín, ninguna actividad comercial o de otra índole diferente a la relacionada con la dispensación de medicamentos o productos sanitarios.
+
+### Artículo 42
+
+Artículo 42. Horario.
+1. Dependiendo de las características y necesidades del núcleo de población en que se encuentre instalado el botiquín, la Administración sanitaria determinará el horario que debe permanecer abierto al público.
+2. Los botiquines no intervendrán en los turnos de guardia, los servicios de urgencia y las vacaciones de las oficinas de farmacia.
+
+## CAPÍTULO III
+
+Los servicios farmacéuticos de atención primaria
+
+### Artículo 43
+
+Artículo 43. Disposiciones generales.
+1. La asistencia farmacéutica en los centros de salud y estructuras de atención primaria se llevará a cabo a través de los servicios de farmacia de atención primaria.
+2. Cada área sanitaria contará como mínimo con un servicio de farmacia de atención primaria para las funciones que le son propias.
+3. En todos los centros de salud o estructuras de atención primaria del área donde no se ubique el servicio de farmacia, se autoriza la existencia de depósitos de medicamentos dependientes del mismo, de conformidad con la legislación básica.
+4. Cuando en un área sanitaria exista más de un servicio de farmacia de atención primaria se establecerá la dependencia funcional de cada depósito de medicamentos con respecto a uno de ellos.
+5. Reglamentariamente se establecerán los requisitos materiales y condiciones técnicas con que habrán de contar los servicios de farmacia de atención primaria.
+
+### Artículo 44
+
+Artículo 44. Funciones.
+Son funciones de los servicios farmacéuticos de atención primaria:
+a) Asumir la responsabilidad técnica de la adquisición, custodia, conservación y suministro de medicamentos a los depósitos dependientes de ellos, así como de la dispensación de medicamentos para su aplicación dentro del servicio o de las estructuras de atención primaria del sistema público de salud para su aplicación dentro de dichas instituciones o para las que exijan una particular vigilancia, supervisión o control del equipo multidisciplinario de atención a la salud.
+b) Preparar fórmulas magistrales o preparados oficinales para su aplicación dentro de las estructuras de atención primaria y centros de salud, en las mismas condiciones que la legislación vigente exija para las oficinas de farmacia.
+c) Establecer un sistema eficaz y seguro de suministro, custodia y distribución de medicamentos en los depósitos.
+d) Formar parte de las comisiones de su área de salud en las que puedan ser útiles sus conocimientos.
+e) Promover la elaboración, actualización y difusión de la guía farmacoterapéutica de su área de salud.
+f) Informar sobre medicamentos a los profesionales sanitarios del área.
+g) Educar sanitariamente sobre medicamentos.
+h) Colaborar con las oficinas y servicios de farmacia de su área.
+i) Realizar análisis sobre utilización de medicamentos de su área.
+j) Colaborar con el sistema de farmacovigilancia en la detección de los efectos adversos de los medicamentos.
+k) Promover el uso racional de medicamentos en su servicio y área sanitaria.
+l) Promover o colaborar en los programas que se establezcan en su área sanitaria en relación con el uso racional del medicamento.
+m) Colaborar en los programas que promueva la Administración sanitaria y en general los establecidos en el artículo 10 de esta Ley.
+n) Colaborar con los equipos de atención primaria en la elaboración y ejecución de programas sanitarios y en la elaboración y seguimiento de protocolos de tratamiento.
+ñ) Participar en los programas de investigación y ensayos clínicos.
+o) Cualesquiera otras que reglamentariamente se establezcan.
+
+### Artículo 45
+
+Artículo 45. Autorizaciones administrativas.
+Los servicios farmacéuticos de atención primaria estarán sujetos a las siguientes autorizaciones administrativas:
+a) De instalación.
+b) De funcionamiento.
+c) De traslado.
+d) De modificación.
+e) De cierre.
+
+### Artículo 46
+
+Artículo 46. Recursos humanos.
+1. El servicio de farmacia de atención primaria estará para su funcionamiento bajo la responsabilidad directa de un farmacéutico, cuya presencia y actuación profesional es necesaria para el desarrollo de las funciones previstas en el artículo 44.
+2. Atendiendo al volumen de actividad profesional del servicio de farmacia de atención primaria se reglamentará la necesidad de farmacéuticos adicionales además del farmacéutico responsable, así como de personal auxiliar.
+
+### Artículo 47
+
+Artículo 47. Registros y controles.
+1. Además de otros registros legalmente establecidos, los servicios farmacéuticos deberán mantener en el ejercicio de sus funciones los siguientes:
+De adquisición y dispensación de medicamentos y sustancias estupefacientes.
+De dispensación de psicotropos y medicamentos sometidos a especial control médico.
+De fórmulas magistrales y preparados oficinales.
+Los anteriores registros podrán realizarse mediante la utilización de medios informáticos.
+2. Asimismo los servicios farmacéuticos deberán llevar los siguientes controles:
+De caducidad.
+De temperatura para los medicamentos y productos termolábiles.
+
+## TÍTULO III
+
+La asistencia farmacéutica en los centros hospitalarios
+
+## CAPÍTULO I
+
+Los servicios de farmacia de los centros hospitalarios
+
+### Artículo 48
+
+Artículo 48. La asistencia farmacéutica en los centros hospitalarios.
+1. Todos los centros hospitalarios deberán organizar la asistencia farmacéutica a través de un servicio de farmacia o un depósito de medicamentos. En el ámbito de los centros hospitalarios y de los depósitos de medicamentos ubicados fuera del mismo pero dependientes del servicio de farmacia hospitalario, los farmacéuticos desarrollarán las funciones que les encomienda la presente ley, prestando un servicio integrado en las otras actividades de la atención hospitalaria. Estas unidades tienen una dependencia directa de la dirección asistencial del centro.
+2. Los centros hospitalarios que tengan 100 o más camas deberán contar con un servicio de farmacia hospitalario propio. No obstante, la Consejería competente podrá establecer acuerdos o convenios con centros hospitalarios, eximiendo a estos centros hospitalarios que suscriban el acuerdo o convenio cuando dispongan de un depósito de medicamentos, en lugar de un servicio de farmacia, siempre que esté vinculado a un servicio de farmacia del hospital de la red pública que sea de referencia en el área de salud o zona sanitaria de influencia correspondiente.
+3. Los centros hospitalarios de menos de 100 camas que no dispongan de servicios de farmacia propio deberán contar con un depósito de medicamentos, en las condiciones previstas en el artículo 53.1.
+Se modifica por el art. único.22 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 49
+
+Artículo 49. Funciones.
+Las funciones que desarrolla el servicio de farmacia son las siguientes:
+a) Asumir la responsabilidad técnica de la adquisición, calidad, conservación correcta, cobertura de las necesidades, custodia y dispensación dentro del centro de los medicamentos y de los productos sanitarios de uso habitual farmacéutico y de aquellos otros que exijan especial vigilancia, supervisión y control por parte del equipo multidisciplinario de atención a la salud.
+b) Elaborar y dispensar fórmulas magistrales y preparados oficinales, de acuerdo con los controles de calidad que se establezcan, para su aplicación en el centro.
+c) Establecer un sistema eficaz y seguro de distribución de medicamentos a pacientes en el centro con la implantación de medidas que garanticen su correcta administración y controlar los medicamentos almacenados en los depósitos de planta.
+d) Custodiar y dispensar los productos en fase de investigación clínica.
+e) Velar por el cumplimiento de la legislación sobre estupefacientes y psicotropos o cualquier medicamento que requiera un especial control.
+f) Formar parte de las comisiones hospitalarias en que puedan ser útiles sus conocimientos para la selección y evaluación científica de los medicamentos y de su empleo.
+g) Participar activamente en la elaboración del formulario de medicamentos y de los protocolos de utilización de medicamentos y en actividades de farmacocinética clínica.
+h) Establecer un servicio de información de medicamentos para todo el personal del hospital, un sistema de farmacovigilancia intrahospitalario y servir de cauce para la comunicación de las reacciones adversas a los medicamentos detectados en el hospital.
+i) Llevar a cabo actividades educativas sobre cuestiones de su competencia dirigidas al personal sanitario del hospital y a los pacientes.
+j) Ejecutar trabajos de investigación propios o en colaboración con otras unidades o servicios y participar en los ensayos clínicos con medicamentos.
+k) Colaborar con las estructuras de atención primaria y especializada de la zona en el desarrollo de las funciones señaladas en el artículo 87 de la Ley del Medicamento y particularmente colaborar con las oficinas y servicios de farmacia.
+l) Garantizar y asumir la responsabilidad técnica de la elaboración, calidad, conservación correcta, cobertura de las necesidades, custodia y distribución de los preparados para nutrición artificial (enteral o parenteral).
+m) Colaborar con el área de dietética.
+n) Preparar citostáticos.
+ñ) Promover el uso racional del medicamento en su servicio y hospital.
+o) Aquellas otras que reglamentariamente se establezcan.
+
+### Artículo 50
+
+Artículo 50. Autorizaciones administrativas.
+Los servicios de farmacia de los centros hospitalarios estarán sujetos a las siguientes autorizaciones administrativas:
+a) De instalación.
+b) De funcionamiento.
+c) De traslado.
+d) De modificación.
+e) De cierre.
+
+### Artículo 51
+
+Artículo 51. Recursos humanos.
+1. El responsable del servicio de farmacia hospitalaria será un farmacéutico especialista en farmacia hospitalaria, y bajo su responsabilidad se desarrollarán las funciones previstas en el artículo 49.
+2. En función del tipo de centro y del volumen de actividad que en el mismo se desarrolle, se establecerá reglamentariamente la necesidad de farmacéuticos adjuntos especialistas en farmacia hospitalaria, así como de personal técnico y auxiliar.
+
+### Artículo 52
+
+Artículo 52. Condiciones de funcionamiento del servicio.
+Mientras el servicio de farmacia permanezca abierto contará con la presencia de, al menos, un farmacéutico especialista en farmacia hospitalaria. No obstante, la organización y el régimen de funcionamiento de los servicios de farmacia deberá permitir la disponibilidad de los medicamentos durante las 24 horas del día.
+
+## CAPÍTULO II
+
+Los depósitos de medicamentos de los centros hospitalarios
+
+### Artículo 53
+
+Artículo 53. Vinculación de los depósitos de medicamentos.
+1. Los depósitos de medicamentos de los centros hospitalarios públicos menores de 100 camas estarán vinculados a un servicio de farmacia público del área de salud y, en el supuesto de que se trate de un hospital de menos de 100 camas del sector privado, estará vinculado a una oficina de farmacia establecida en la misma zona farmacéutica o a un servicio de farmacia hospitalaria del área de salud.
+2. Los depósitos de medicamentos de planta estarán bajo la responsabilidad técnica de un farmacéutico del servicio de farmacia del hospital designado por el responsable del mismo y su creación, ubicación, modificación o cierre, así como su distribución espacial es responsabilidad del servicio de farmacia, debiendo cumplir además lo establecido para los estupefacientes y termolábiles en el artículo 60.
+Se modifica por el art. único.23 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 54
+
+Artículo 54. Funciones de los depósitos de medicamentos.
+1. Los depósitos de medicamentos deberán desarrollar, como mínimo, las siguientes funciones:
+a) Garantizar la correcta conservación, custodia y dispensación de medicamentos para su aplicación dentro del centro hospitalario así como de otros productos o sustancias que exijan especial vigilancia, supervisión y control para su aplicación en el centro o para las que exijan una particular vigilancia, supervisión o control del equipo multidisciplinario de atención a la salud.
+b) Establecer un sistema eficaz y seguro de distribución de los medicamentos en el centro, con la implantación de medidas que garanticen su correcta administración.
+c) Informar al personal del centro y a los propios pacientes en materia de medicamentos, así como realizar estudios sistemáticos de utilización de los medicamentos.
+d) Colaborar en el establecimiento de un sistema de vigilancia y control del uso individualizado de los medicamentos en el centro, a fin de detectar sus posibles efectos adversos y notificarlos al Sistema de Farmacovigilancia.
+e) Formar parte de las comisiones de farmacia y terapéutica y de los comités éticos de investigación clínica y colaborar con las demás comisiones del centro.
+2. El farmacéutico que atiende el depósito se responsabilizará conjuntamente con el titular de la oficina de farmacia o, si procede, con el Jefe de Servicio de Farmacia al cual el depósito esté vinculado, de la existencia y el movimiento de medicamentos, de manera que queden cubiertas las necesidades del centro.
+Se modifican las refencias indicadas conforme a la disposición adicional única.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 55
+
+Artículo 55. Condiciones de funcionamiento de los depósitos de medicamentos.
+1. Los depósitos de los medicamentos estarán bajo la responsabilidad de un farmacéutico y bajo cuya presencia y actuación profesional se desarrollarán, durante el tiempo de funcionamiento del depósito, las funciones previstas en esta Ley. Asimismo estarán sujetos a las autorizaciones administrativas de instalación, de funcionamiento, de traslado, de modificación y de cierre.
+2. Reglamentariamente, y en función de las características concurrentes en los centros hospitalarios, se determinará el tiempo mínimo de funcionamiento de estos depósitos, sin perjuicio de que el régimen de funcionamiento del centro deba permitir la disponibilidad de los medicamentos durante las 24 horas del día.
+Se modifican las refencias indicadas conforme a la disposición adicional única.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## CAPÍTULO III
+
+Requisitos mínimos de los servicios de farmacia y depósitos de medicamentos
+Se modifica el título conforme a la disposición adicional única.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 56
+
+Artículo 56. Localización.
+Tanto los servicios de farmacia como los depósitos de medicamentos deberán disponer de una localización adecuada, situados en la zona limpia del hospital con fácil comunicación con las unidades de hospitalización y el resto de los servicios del hospital. Asimismo, deberá contemplarse para su ubicación la proximidad y disponibilidad de sistemas verticales de comunicación.
+
+### Artículo 57
+
+Artículo 57. Superficie.
+Reglamentariamente se determinará la superficie de los servicios y depósitos de medicamentos. Será la adecuada para desarrollar las diferentes funciones que tienen encomendadas y estará en relación con el número de camas, tipo de hospital, proximidad a los centros de aprovisionamiento y otras circunstancias.
+
+### Artículo 58
+
+Artículo 58. Áreas funcionales de los servicios de farmacia.
+1. Los servicios de farmacia contarán como mínimo con las siguientes áreas convenientemente separadas:
+a) Almacenes generales y especiales para estupefacientes, termolábiles, gases de uso médico y sanitario, radiofármacos y otras.
+b) De administración o de gestión.
+c) De información del medicamento: biblioteca y centro de información del medicamento.
+d) Área estéril independiente para preparar mezclas intravenosas.
+e) De farmacotecnia.
+f) De dispensación.
+g) De reenvasado.
+2. Todas las áreas del servicio deberán formar un conjunto funcional.
+
+### Artículo 59
+
+Artículo 59. Áreas de los depósitos de medicamentos.
+1. Los depósitos de medicamentos contarán como mínimo con las siguientes áreas convenientemente separadas:
+a) Almacenes generales y especiales para estupefacientes, termolábiles, gases de uso médico y sanitario, radiofármacos, si hubiera, y otras.
+b) De dispensación.
+c) De administración o gestión.
+d) De información del medicamento.
+2. Todas las áreas del depósito deberán formar un conjunto funcional.
+Se modifican las refencias indicadas conforme a la disposición adicional única.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 60
+
+Artículo 60. Almacenamiento de estupefacientes y termolábiles.
+1. En los servicios de farmacia y depósitos de medicamentos habrá un armario de seguridad o caja fuerte donde se almacenarán, con garantía de seguridad y control, los medicamentos, materias primas y preparados de uso farmacéutico que por la legislación vigente tengan la consideración de estupefacientes, o bien materias primas que tengan la consideración legal de psicotrópicas.
+2. También dispondrán de frigorífico donde se conservarán los medicamentos, materias primas y preparados de uso farmacéutico que, por su característica de termolabilidad, lo precisen. Dispondrá de un termómetro de máximas y mínimas o bien de otro sistema de control de temperatura.
+Se modifican las referencias indicadas conforme a la disposición adicional única.1 y 2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 61
+
+Artículo 61. Registros y controles.
+1. Los servicios de farmacia y depósitos de medicamentos llevarán los siguientes registros, independientemente de los que reglamentariamente se puedan establecer:
+a) De adquisición y dispensación de medicamentos.
+b) De medicamentos de especial control.
+c) De medicamentos dispensados a pacientes externos.
+d) De fórmulas magistrales y preparados oficinales elaborados en el servicio de farmacia.
+e) De soluciones antisépticas y desinfectantes elaboradas en el servicio de farmacia.
+f) De medicamentos en ensayo clínico.
+g) De estupefacientes y psicotropos.
+h) De las revisiones de depósitos de planta.
+2. Asimismo los servicios de farmacia y depósitos de medicamentos llevarán los siguientes controles:
+a) De caducidades.
+b) Diario de temperatura de los frigoríficos para la conservación de medicamentos y productos termolábiles.
+Se modifican las refencias indicadas conforme a la disposición adicional única.2 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## TÍTULO IV
+
+La asistencia farmacéutica en centros sociosanitarios, otros centros sanitarios y centros penitenciarios
+
+## CAPÍTULO I
+
+Los servicios y depósitos de medicamentos en centros sociosanitarios
+
+### Artículo 62
+
+Artículo 62. Disposiciones Generales.
+1. La asistencia farmacéutica en centros sociosanitarios deberá garantizarse y se llevará a cabo a través de los servicios de farmacia y los depósitos de medicamentos.
+2. Los centros sociosanitarios que dispongan de 100 camas o más tendrán un servicio de farmacia propio.
+No obstante, estos centros podrán tener un depósito de medicamentos, en lugar de un servicio de farmacia, siempre que esté vinculado a un servicio de farmacia de la red pública del área de salud o zona sanitaria de influencia correspondiente, mediante acuerdos o convenios que establezcan con la Consejería competente para la prestación farmacéutica de esta Comunidad Autónoma.
+3. Los centros sociosanitarios de menos de 100 camas que no dispongan de un servicio de farmacia contarán con un depósito de medicamentos, en las condiciones previstas en el artículo 53.1.
+Excepcionalmente y por motivos de planificación farmacéutica o de asistencia farmacoterapéutica justificados, podrá autorizarse por parte de la autoridad de ordenación farmacéutica la vinculación a una zona farmacéutica adyacente.
+4. Estos servicios de farmacia y depósitos de medicamentos están sujetos a las autorizaciones establecidas en el artículo 3.1. Reglamentariamente se establecerá el procedimiento de vinculación, el número máximo de depósitos a atender desde una oficina de farmacia y el periodo máximo de vinculación, así como el régimen de asistencia farmacéutica, las funciones del farmacéutico responsable y los requisitos técnico-sanitarios para su autorización.
+Se modifica por el art. único.24 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## CAPÍTULO II
+
+Los depósitos de medicamentos en otros centros, servicios o establecimientos sanitarios
+
+### Artículo 63
+
+Artículo 63. Disposiciones Generales.
+1. Se determinará reglamentariamente la existencia de un depósito de medicamentos en los centros, servicios y establecimientos sanitarios donde se lleven a cabo tratamientos específicos para determinados tipos de pacientes, si las características de los mismos o las necesidades asistenciales lo exigen.
+2. Estos depósitos están sujetos a las autorizaciones establecidas en el artículo 3.1 de la presente Ley.
+
+## CAPÍTULO III
+
+Los depósitos de medicamentos en los centros penitenciarios
+
+### Artículo 64
+
+Artículo 64. Disposiciones Generales.
+1. La atención farmacéutica en los centros penitenciarios ubicados en el territorio de la Comunidad Autónoma de Castilla-La Mancha, se prestará a través de los depósitos de medicamentos, bajo la supervisión y control de un farmacéutico.
+2. A los efectos previstos en el apartado anterior y en lo no regulado en su reglamentación específica, los depósitos de medicamentos de los centros penitenciarios tendrán la consideración de depósitos de medicamentos hospitalarios.
+3. Estos depósitos están sujetos a las autorizaciones establecidas en el artículo 3.1 de la presente Ley.
+
+## TÍTULO V
+
+Entidades de distribución
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 65
+
+Artículo 65. Disposiciones Generales.
+1. Las entidades de distribución de medicamentos de uso humano son:
+a) Los almacenes mayoristas de distribución.
+b) Los almacenes por contrato.
+c) Los almacenes de medicamentos bajo control o vigilancia aduanera.
+2. La función prioritaria y esencial de la actividad de distribución de medicamentos es el abastecimiento a las oficinas de farmacia y servicios de farmacia legalmente autorizados en el territorio nacional. Tanto los almacenes mayoristas como los laboratorios titulares de comercialización de medicamentos deberán garantizar, dentro de los límites de su responsabilidad y en los plazos de entrega acordados, un abastecimiento adecuado y continuado de los medicamentos, de modo que estén cubiertas las necesidades de los pacientes.
+Las entidades de distribución de medicamentos de uso humano que realicen distribución a oficinas de farmacia establecerán procedimientos con el fin de garantizar el abastecimiento continuado de los medicamentos, en los que se incluirá cómo se llevará a cabo la distribución en caso de urgencia.
+3. El acceso mediante vehículo de reparto a las oficinas de farmacia ubicadas en zonas urbanas con limitaciones a la circulación podrán tener una consideración excepcional en la normativa local de circulación y estacionamiento, en los términos que en su caso se regulen en la ordenanza municipal correspondiente.
+4. Los laboratorios farmacéuticos fabricantes o importadores que realicen actividades de distribución de los medicamentos incluidos en el ámbito de su autorización no precisarán de autorización como entidad de distribución, si bien deberán cumplir las buenas prácticas de distribución que les sean de aplicación.
+5. En los casos en los que se detecten problemas de suministro de medicamentos cuyo desabastecimiento pueda tener repercusión asistencial, debido a que su falta genere una laguna terapéutica o implique una modificación de la prescripción, la Consejería competente en materia de sanidad y la Agencia Española de Medicamentos y Productos Sanitarios adoptarán las medidas que se consideren necesarias en el ámbito de sus competencias.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 66
+
+Artículo 66. Autorizaciones administrativas.
+1. Los almacenes mayoristas de distribución y los almacenes por contrato que dispongan de ubicación física en Castilla-La Mancha, independientemente de que realice sus actividades en esta Comunidad Autónoma, estarán sujetos a las autorizaciones administrativas establecidas en el artículo 3.1. Sin perjuicio de las competencias de supervisión que corresponden a la autoridad sanitaria autonómica, la autorización de los almacenes de medicamentos bajo control o vigilancia aduanera corresponde a la Agencia Española de Medicamentos y Productos Sanitarios.
+2. La autorización de los almacenes mayoristas de distribución y los almacenes por contrato no incluye la autorización para la dispensación de medicamentos al público, a excepción de la venta directa de determinados medicamentos a profesionales de la medicina, odontología, veterinaria y podología para el ejercicio de su actividad profesional, de acuerdo con los requisitos establecidos por la normativa estatal.
+3. Los cambios de titularidad de los almacenes mayoristas de distribución y de los almacenes por contrato se notificarán a la Administración sanitaria en el plazo de 10 días, contado a partir del día siguiente a aquél en que se produzcan los mismos.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 67
+
+Artículo 67. Recursos humanos.
+1. Las entidades de distribución deberán disponer en cada instalación de un director técnico farmacéutico, que deberá estar en posesión de un título universitario oficial de Licenciado en Farmacia o de Grado en Farmacia y poseer una adecuada formación y experiencia en las buenas prácticas de distribución.
+2. Se podrán nombrar uno o más directores técnicos suplentes, con los mismos requisitos que el titular, al que sustituirán en su ausencia.
+3. En almacenes mayoristas que dispongan además de autorización como almacén por contrato, el director técnico será único y responsable de ambas actividades.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 68
+
+Artículo 68. Funciones del director técnico.
+1. El director técnico de las entidades de distribución tiene encomendadas las siguientes funciones:
+a) Asegurar el funcionamiento de un sistema de garantía de calidad y disponer de los procedimientos necesarios para el correcto desarrollo de sus actividades.
+b) Verificar la legalidad de sus proveedores de medicamentos, así como de los clientes a los que los suministra.
+c) Controlar el correcto cumplimiento de su procedimiento de retirada de los medicamentos, que deberá garantizar la ejecución efectiva y con la urgencia adecuada de cualquier orden de retirada, así como el control en la correcta aplicación de cualquier otra medida cautelar que ordene la autoridad sanitaria competente.
+d) Estar informado de las reclamaciones que se reciban, supervisar su adecuada investigación y adoptar las medidas que procedan en cada caso.
+e) Supervisar el cumplimiento de la legislación especial sobre estupefacientes, psicótropos y demás medicamentos sometidos a especial control.
+f) Evaluar y aprobar, en su caso, que las devoluciones de medicamentos que se produzcan vuelvan a las existencias, tras verificar que se corresponden con medicamentos suministrados previamente a la entidad que las devuelve.
+g) Servir de interlocutor con las autoridades sanitarias y colaborar con ellas en la ejecución de las medidas que procedan.
+h) Guardar y custodiar toda la documentación técnica relativa a la autorización del establecimiento de distribución, así como la establecida en las buenas prácticas de distribución.
+i) Cualquier otra que imponga la normativa vigente o las buenas prácticas de distribución establecidas en la Unión Europea.
+2. Además de las responsabilidades civiles, penales o de otro tipo en que pudiera incurrir, el director técnico podrá ser sancionado previa instrucción del oportuno expediente administrativo.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 69
+
+Artículo 69. Locales.
+1. Las instalaciones de las entidades de distribución contempladas en este Título reunirán las condiciones necesarias para que quede garantizada la correcta conservación y distribución de todos los medicamentos, sustancias, productos sanitarios y demás productos farmacéuticos de autorizada distribución a través de este canal.
+2. Sin perjuicio de los requisitos mínimos fijados con carácter básico por el Estado, se podrán establecer reglamentariamente otros requisitos técnicos y materiales con que deben contar las entidades de distribución.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 70
+
+Artículo 70. Existencias.
+Las entidades de distribución habrán de disponer en todo momento de unas existencias mínimas de medicamentos que sean adecuadas para el abastecimiento de los centros y establecimientos a los que provean de modo habitual y que permitan garantizar la continuidad de la distribución.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 71
+
+Artículo 71. Buenas prácticas de distribución.
+1. Las entidades de distribución y los laboratorios farmacéuticos que realicen distribución directa deberán cumplir las buenas prácticas de distribución de medicamentos de la Unión Europea.
+2. Para su funcionamiento las entidades de distribución deberán disponer, además de la autorización correspondiente, de un certificado de cumplimiento de buenas prácticas de distribución en vigor, emitido por la Consejería competente en materia de sanidad.
+Se modifica por el art. único.25 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## TÍTULO VI
+
+Los establecimientos autorizados para la dispensación de medicamentos veterinarios
+
+### Artículo 72
+
+Artículo 72. Disposiciones generales.
+1. Nadie podrá poseer o tener bajo su control con fines industriales o comerciales, medicamentos veterinarios o sustancias anabolizantes, antiinfecciosas, antiparasitarias, antiinflamatorias, hormonales o psicotrópicas o cualquier medicamento que constituya un riesgo para la salud, que puedan utilizarse como medicamento veterinario, a menos que tenga autorización expresa de la Consejería de Sanidad previo informe favorable de la Consejería competente en materia de agricultura.
+2. Queda prohibida la elaboración, fabricación, importación, exportación, distribución, comercialización, prescripción, dispensación y utilización de productos o preparados que se presenten con características de medicamentos veterinarios y no estén legalmente reconocidos como tales.
+
+### Artículo 73
+
+Artículo 73. Medicamentos veterinarios.
+Tendrán el tratamiento legal de medicamentos veterinarios, a efectos de la aplicación de la presente Ley, todos aquellos reconocidos como tales en la legislación del Estado.
+
+### Artículo 74
+
+Artículo 74. Establecimientos de dispensación.
+1. Los establecimientos autorizados para la dispensación de medicamentos veterinarios en Castilla-La Mancha son:
+a) Las oficinas de farmacia.
+b) Las entidades o agrupaciones ganaderas.
+c) Los establecimientos detallistas.
+d) Los botiquines de urgencia para provisión de medicamentos veterinarios, por razones de urgencia o lejanía, en la forma que reglamentariamente se determine.
+Estos establecimientos estarán siempre bajo la responsabilidad y el control de sus respectivos servicios farmacéuticos.
+Reglamentariamente se establecerá el control de la adquisición y cesión de medicamentos por los profesionales veterinarios. Estas actividades no implicarán actividad comercial, para los casos de urgencia, lejanía o cuando por imposición legal la aplicación tenga que ser efectuada personalmente por el facultativo o bajo su directa dirección y control.
+2. Los almacenes mayoristas de medicamentos veterinarios y los depósitos reguladores de los laboratorios fabricantes de medicamentos veterinarios no podrán realizar venta directa al público, siendo su finalidad el suministro de estos medicamentos a otros almacenes mayoristas de medicamentos veterinarios y a los establecimientos legalmente autorizados para la dispensación al público.
+3. En todos los casos la dispensación de los medicamentos veterinarios se realizará en los envases originales intactos.
+Se modifica el apartado 2 por el art. único.26 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 75
+
+Artículo 75. Autorizaciones administrativas.
+Las entidades o agrupaciones ganaderas y los establecimientos detallistas dispensadores de medicamentos veterinarios estarán sujetos a las siguientes autorizaciones administrativas:
+a) De instalación.
+b) De funcionamiento.
+c) De traslado.
+d) De modificación.
+e) De cierre.
+
+### Artículo 76
+
+Artículo 76. Farmacéutico responsable.
+Serán funciones de los farmacéuticos responsables de las agrupaciones ganaderas y establecimientos detallistas las siguientes:
+a) Garantizar el cumplimiento de las disposiciones sanitarias referidas a la dispensación de los medicamentos veterinarios.
+b) Cuidar que se cumplan las debidas condiciones de almacenaje y transporte, en especial de aquellos medicamentos de especial conservación.
+c) Garantizar y responsabilizarse del origen legítimo de los medicamentos bajo su custodia.
+d) Supervisar el cumplimiento de la legislación especial sobre estupefacientes y psicótropos y exigir la adopción de las medidas adecuadas.
+e) Sellado y custodia de las recetas dispensadas, debiendo conservarse a disposición de las autoridades sanitarias durante al menos cinco años, siguiendo idéntico proceder con los justificantes de pedidos de las industrias de piensos que preparen premezclas medicamentosas o productos intermedios.
+f) Colaborar en los programas zoosanitarios que requieran de sus servicios profesionales.
+Se modifica por el art. único.27 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 77
+
+Artículo 77. Oficinas de farmacia.
+1. Sólo las oficinas de farmacia legalmente establecidas están autorizadas para la elaboración y dispensación de fórmulas magistrales y de preparados o fórmulas oficinales cuyo destino será un determinado animal o explotación ganadera que figure en la correspondiente prescripción dando cumplimiento a cuanto se refiere a este tipo de dispensación.
+2. Cuando por causa legítima no se disponga del medicamento veterinario de marca o denominación prescrito, el farmacéutico podrá sustituirlo en las mismas condiciones en que está autorizado para hacerlo en los casos de medicamentos de uso humano.
+3. Las oficinas de farmacia reseñarán en el libro recetario aquellos medicamentos de uso humano que sean objeto de una prescripción veterinaria especial.
+
+### Artículo 78
+
+Artículo 78. Entidades o agrupaciones ganaderas.
+Para poder dispensar medicamentos veterinarios, las agrupaciones ganaderas tendrán que cumplir los requisitos siguientes:
+a) Contar con servicio farmacéutico propio, tantos como centros de dispensación, aun cuando éstos sean subsidiarios, que estarán bajo la responsabilidad directa de un farmacéutico. El farmacéutico podrá ser responsable de más de un servicio farmacéutico, con un máximo de 6 establecimientos, en las condiciones que reglamentariamente se establezcan.
+b) Disponer de locales capaces, equipados y acondicionados para el correcto almacenaje, con los medios que reglamentariamente se exijan para garantizar la perfecta conservación de los medicamentos veterinarios.
+c) Estar identificados con la leyenda «productos zoosanitarios».
+d) Almacenar los medicamentos veterinarios y aditivos para alimentación animal que figuren en las listas positivas, siempre en los envases originales intactos y adecuadamente identificados, de forma separada de cualquier otro producto que se venda en el establecimiento.
+e) Garantizar la conservación en condiciones idóneas y en especial el mantenimiento de la cadena del frío en toda la red de distribución, mediante procedimientos normalizados.
+f) Controlar periódicamente las caducidades, no pudiendo coexistir almacenados medicamentos de venta junto a los caducados.
+g) Dispensar medicamentos veterinarios sometidos a dispensación con receta, solamente contra la presentación de la misma.
+h) Llevar a cabo un programa zoosanitario perfectamente definido que esté aprobado por la Consejería competente en materia de agricultura y en el caso de uso de estupefacientes o psicotropos se ajustará a lo establecido en los convenios internacionales y a la normativa especial sobre dichos productos.
+i) Suministrar, previa prescripción, medicamentos veterinarios exclusivamente a sus socios.
+j) Contar con servicios veterinarios propios responsables del desarrollo de los programas en que se basa la existencia de la entidad o agrupación ganadera.
+Se modifica la letra a) por el art. único.28 y la letra f) conforme a la disposición adicional única.1 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+### Artículo 79
+
+Artículo 79. Establecimientos detallistas.
+Para poder dispensar medicamentos veterinarios los establecimientos detallistas cumplirán los requisitos siguientes:
+a) Contar con servicio farmacéutico propio, tantos como centros de dispensación, aun cuando éstos sean subsidiarios, que estarán bajo la responsabilidad directa de un farmacéutico. El farmacéutico podrá ser responsable de más de un servicio farmacéutico, con un máximo de tres establecimientos, en las condiciones que reglamentariamente se establezcan.
+b) Disponer de locales capaces, equipados y acondicionados para el correcto almacenaje, con los medios que reglamentariamente se exijan para garantizar la perfecta conservación de los medicamentos veterinarios.
+c) Estar identificados con la leyenda «productos zoosanitarios».
+d) Almacenar los medicamentos veterinarios y aditivos para alimentación animal que figuren en las listas positivas, siempre en los envases originales intactos y adecuadamente identificados, de forma separada de cualquier otro producto que se venda en el establecimiento.
+e) Garantizar la conservación en condiciones idóneas y en especial el mantenimiento de la cadena del frío en toda la red de distribución, mediante procedimientos normalizados.
+f) Controlar periódicamente las caducidades, no pudiendo coexistir almacenados medicamentos de venta junto a los caducados.
+g) Dispensar medicamentos veterinarios sometidos a dispensación con receta, solamente contra la presentación de la misma.
+Se modifica la letra f) conforme a la disposición adicional única.1 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## TÍTULO VII
+
+Régimen de incompatibilidades
+
+### Artículo 80
+
+Artículo 80. Disposiciones generales.
+1. Sin perjuicio de las incompatibilidades vigentes con carácter general el ejercicio profesional del farmacéutico en los establecimientos y servicios descritos en el artículo 1 de esta Ley es incompatible:
+a) Entre sí y con el resto de los establecimientos y servicios, excepto para los botiquines y depósitos de medicamentos. Esta incompatibilidad no será de aplicación a los farmacéuticos contratados a tiempo parcial y en los casos previstos en el artículo 20.4.
+b) Con el ejercicio clínico de la medicina, de la odontología, de la veterinaria y de otras profesiones sanitarias con facultad para prescribir o indicar la dispensación de los medicamentos.
+c) Con cualquier actividad laboral no contemplada en esta Ley pero que impida la presencia física del farmacéutico en el horario ordinario o en los turnos de servicio de urgencia establecidos en cada caso.
+d) Con cualquier clase de interés económico directo en los laboratorios farmacéuticos.
+e) Con cualquier actividad laboral en empresas relacionadas con la elaboración de medicamentos o productos sanitarios.
+2. El desempeño de la función pública será incompatible con la titularidad de la oficina de farmacia y con el ejercicio privado de las actividades en los establecimientos y servicios del artículo 1 de esta Ley, en la forma que determine la legislación específica.
+3. Sin perjuicio de las incompatibilidades establecidas en los apartados anteriores, se deberán cumplir las garantías de independencia previstas en el artículo 3 de la Ley 29/2006, de 26 de julio.
+Se modifican las letras a) y b) y se añade el 3 por el art. único.29 y 30 de la Ley 2/2015, de 19 de febrero. Ref. BOE-A-2015-6876
+
+## TÍTULO VIII
+
+Régimen sancionador
+
+### Artículo 81
+
+Artículo 81. Responsabilidad administrativa.
+Quienes cometan alguna infracción administrativa prevista en la presente Ley serán sancionados de conformidad con lo dispuesto en el presente Título, sin perjuicio de las responsabilidades penales, civiles o de otro orden que puedan concurrir.
+
+### Artículo 82
+
+Artículo 82. Responsabilidad penal.
+1. En los supuestos en que las infracciones previstas en esta Ley puedan ser constitutivas de delito, la Administración pasará el tanto de culpa a la jurisdicción competente y se abstendrá de continuar la instrucción del procedimiento sancionador mientras la autoridad judicial resuelve lo procedente.
+2. De no estimarse la existencia de delito, la Administración continuará el expediente sancionador tomando como base los hechos que la autoridad judicial haya considerado probados.
+3. Las medidas administrativas que hubieran sido adoptadas para salvaguardar la salud y seguridad de las personas se mantendrán hasta que el juez competente se pronuncie sobre las mismas.
+
+### Artículo 83
+
+Artículo 83. Concurrencia de sanciones.
+En ningún caso se impondrá una doble sanción administrativa por los mismos sujetos, hechos y en función de los mismos intereses públicos protegidos, si bien deberán exigirse las demás responsabilidades que se deduzcan de otros hechos o infracciones concurrentes.
+
+### Artículo 84
+
+Artículo 84. Tipificación.
+Son constitutivas de infracción administrativa las acciones u omisiones tipificadas en los tres artículos siguientes, con las especificaciones, en su caso, que establezca la normativa de desarrollo de la presente Ley.
+
+### Artículo 85
+
+Artículo 85. Calificación de infracciones leves.
+Se calificarán como infracciones leves:
+a) Incurrir en irregularidad al aportar a la Administración sanitaria la información que sea obligatorio facilitar de acuerdo con la normativa vigente.
+b) Incumplir el deber de colaborar con la Administración sanitaria en las tareas de información sobre la evaluación y control de los medicamentos.
+c) Incumplir los horarios establecidos.
+d) Cometer los profesionales farmacéuticos irregularidades en la observación de la normativa sanitaria vigente que no produzcan efectos negativos directos para la salud pública.
+e) La negligencia del profesional sanitario que haga posible que el personal auxiliar, bajo su responsabilidad directa, cometa las mismas irregularidades previstas en el apartado anterior.
+f) Incumplir los requisitos, condiciones, obligaciones o prohibiciones establecidos en la presente Ley, cuando este incumplimiento no deba ser calificado como falta grave o muy grave en aplicación de los artículos siguientes.
+g) Negarse injustificadamente a proporcionar productos de venta exclusiva en farmacia cuando no se deriven perjuicios directos para la salud de las personas.
+h) Dirigir a los usuarios o pacientes a una oficina de farmacia determinada, sin llegar a limitar su derecho de libre elección de oficina de farmacia.
+i) Carecer de los libros registro de carácter sanitario de llevanza obligatoria o cumplimentarlos incorrectamente.
+
+### Artículo 86
+
+Artículo 86. Infracciones graves.
+Se calificarán como infracciones graves:
+a) La distribución o dispensación de medicamentos por personas físicas o jurídicas o establecimientos de asistencia farmacéutica que no cuenten con la preceptiva autorización.
+b) No aportar a la Administración sanitaria la información que, de acuerdo con la normativa vigente, sea obligatorio facilitar.
+c) Mantener en funcionamiento un establecimiento o servicio de asistencia farmacéutica sin autorización o sin la presencia y actuación profesional de un farmacéutico.
+d) Mantener en funcionamiento un hospital o un centro sociosanitario carente de servicio de farmacia o, en su caso, depósito de medicamentos, siempre que esté obligado a disponer de alguno de ellos.
+e) Incumplir las funciones de las que, de acuerdo con la presente Ley, son responsables los titulares de los establecimientos y servicios de asistencia farmacéutica.
+f) Desarrollar actividades propias del establecimiento o servicio sin disponer de los recursos humanos y técnicos que, de acuerdo con la presente Ley y la normativa que la desarrolle, sean necesarios.
+g) Negarse injustificadamente a dispensar medicamentos cuando se deriven perjuicios para la salud de las personas o dispensarlos incumpliendo lo dispuesto en la normativa vigente.
+h) Negarse injustificadamente a proporcionar productos sanitarios o productos de venta exclusiva en farmacia cuando se deriven perjuicios directos para la salud de las personas.
+i) Adquirir, conservar o dispensar medicamentos sin observar las condiciones exigidas.
+j) Elaborar alguna fórmula magistral o preparado oficinal con incumplimiento de los procedimientos y controles de calidad reglamentariamente exigibles.
+k) Informar, promocionar o dar publicidad de medicamentos incumpliendo los requisitos exigidos por la normativa vigente.
+l) Incumplir los servicios de urgencia.
+m) Incumplir los deberes de farmacovigilancia exigidos por la normativa vigente.
+n) Incurrir en las incompatibilidades dispuestas por la presente Ley.
+ñ) Limitar, mediante cualquier actuación, el derecho de los usuarios a la libre elección de oficina de farmacia.
+o) Vulnerar el derecho de los pacientes y usuarios a la confidencialidad de su historia farmacoterapéutica.
+p) Intermediar con ánimo de lucro entre la dispensación por la oficina de farmacia y el público.
+q) El abandono de funciones por el titular, regente, sustituto o adjunto de la oficina de farmacia o por los responsables de otros establecimientos y servicios regulados por esta Ley.
+r) Exhibir al público la identificación de farmacéutico en oficina de farmacia o servicio de farmacia sin estar en posesión del título de licenciado en farmacia.
+s) El incumplimiento de las medidas adoptadas en virtud del artículo 8 de esta Ley por la Administración tendentes a garantizar la asistencia farmacéutica.
+t) Reincidir en la comisión de infracciones leves en los seis últimos meses cuando hayan sido sancionadas mediante resolución firme.
+
+### Artículo 87
+
+Artículo 87. Infracciones muy graves.
+Se calificarán como infracciones muy graves:
+a) La dispensación o distribución de productos que se presenten como medicamentos sin estar legalmente reconocidos.
+b) La preparación o dispensación como medicamento de remedios secretos.
+c) Incumplir de forma continuada los requerimientos que formule la autoridad sanitaria.
+d) Obstruir la labor de los servicios de control e inspección de farmacia.
+e) Ejercer como farmacéutico en los establecimientos y servicios contemplados en esta Ley sin estar en posesión del título correspondiente.
+f) No prestar auxilio farmacéutico en cualquier circunstancia o situación en que exista riesgo para la vida de una persona.
+g) Cualquier acción u omisión encaminada a provocar o que provoque un desabastecimiento grave de medicamentos a la población de Castilla-La Mancha.
+h) La coacción, amenaza o desacato a las autoridades sanitarias, relacionada con la asistencia farmacéutica.
+i) Acceder a la titularidad de una oficina de farmacia sin ser farmacéutico, o siéndolo, acceder a la titularidad de más de una de farmacia.
+j) Reincidir en la comisión de infracciones graves en los últimos cinco años cuando hayan sido sancionados mediante resolución firme.
+
+### Artículo 88
+
+Artículo 88. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas con las multas siguientes:
+A) Por infracciones leves:
+a) En grado mínimo: multa de hasta 600 euros.
+b) En grado medio: multa de 601 euros hasta 1.800 euros.
+c) En grado máximo: multa de 1.801 euros hasta 3.000 euros.
+B) Por infracciones graves:
+a) En grado mínimo: multa de 3.001 euros hasta 6.000 euros.
+b) En grado medio: multa de 6.001 euros hasta 10.500 euros.
+c) En grado máximo: multa de 10.501 euros hasta 15.000 euros.
+C) Por infracciones muy graves:
+a) En grado mínimo: multa de 15.001 euros hasta 120.000 euros.
+b) En grado medio: multa de 120.001 euros hasta 350.000 euros.
+c) En grado máximo: multa de 350.001 euros hasta 600.000 euros.
+2. Los anteriores límites se podrán superar en el supuesto de que la sanción resulte más beneficiosa para el infractor que el cumplimiento de las normas infringidas, hasta un límite del doble del beneficio ilícito obtenido.
+3. Las infracciones calificadas como muy graves podrán, además, ser sancionadas con el cierre temporal del establecimiento o servicio o inhabilitación para el ejercicio de la profesión por un período de uno a 5 años.
+El cierre temporal a que hace referencia el punto anterior no será de aplicación para los núcleos con farmacia única en los que se nombrará regente según lo establecido en el artículo 27.6 de la presente Ley.
+4. Previa instrucción del oportuno procedimiento sancionador, se procederá al cierre definitivo de la oficina de farmacia en los siguientes casos:
+a) Cuando el titular de la misma fuera condenado por sentencia firme que conlleve la inhabilitación para el ejercicio de su profesión.
+b) Cuando su titular lo sea de más de una oficina de farmacia. En este caso, la sanción se extenderá a todas las oficinas de farmacia de las que sea titular.
+c) Cuando se acceda a la titularidad sin ser farmacéutico.
+Téngase en cuenta que el Consejo de Gobierno podrá, mediante disposición publicada únicamente en el "Diario Oficial de Castilla-La Mancha", actualizar las cuantía de las multas previstas en la presente norma, según se establece en la disposición final primera.
+
+### Artículo 89
+
+Artículo 89. Prohibición de amortización.
+En todo caso, las oficinas de farmacia cerradas por resolución firme serán adjudicadas a otro farmacéutico por el procedimiento general, sin que pueda procederse a la amortización de farmacias por esta vía siempre que se cumplan los criterios de planificación establecidos en esta Ley.
+
+### Artículo 90
+
+Artículo 90. Órganos sancionadores competentes.
+1. El Consejo de Gobierno de la Junta de Comunidades de Castilla-La Mancha es el órgano competente para imponer sanciones superiores a 60.000 euros o que impliquen cierre temporal o definitivo del establecimiento por infracciones muy graves.
+2. Reglamentariamente se establecerán los órganos competentes para imponer las sanciones no previstas en el apartado anterior.
+
+### Artículo 91
+
+Artículo 91. Graduación.
+1. Las sanciones señaladas para las infracciones previstas en esta Ley serán graduadas en los niveles de mínimo, medio y máximo en función de la concurrencia de las siguientes circunstancias:
+a) Las generales establecidas por las leyes de procedimiento administrativo.
+b) El grado de negligencia.
+c) El grado de connivencia y fraude.
+d) El incumplimiento de advertencias previas.
+e) La cifra de negocios del establecimiento correspondiente.
+f) El perjuicio causado y el número de personas afectadas.
+g) Los beneficios obtenidos con la infracción.
+h) La permanencia o transitoriedad de los riesgos.
+i) La concurrencia con otras infracciones sanitarias o el haber servido para facilitar o encubrir su comisión.
+2. En todo caso se guardará la debida adecuación proporcional entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada.
+
+### Artículo 92
+
+Artículo 92. Prescripción de infracciones.
+1. Las infracciones tipificadas en la presente Ley y calificadas como leves prescribirán al año, las calificadas como graves a los dos años y las calificadas como muy graves a los cinco años.
+2. El plazo de prescripción de las infracciones comenzará el día en que se hubieran cometido y se interrumpirá con la iniciación, con conocimiento del interesado, del procedimiento sancionador.
+
+### Artículo 93
+
+Artículo 93. Prescripción de sanciones.
+1. Las sanciones impuestas por la comisión de infracciones administrativas previstas en la presente Ley prescribirán al año las impuestas por faltas leves, a los dos años las impuestas por faltas graves, y a los tres años las impuestas por faltas muy graves.
+2. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+3. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al presunto infractor.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Los Colegios Oficiales de Farmacéuticos y Veterinarios vendrán obligados a colaborar con la Administración en todos aquellos asuntos para los que se les requiera, de acuerdo con sus competencias.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La causa de caducidad de la autorización de una oficina de farmacia por cumplir su titular 75 años de edad, prevista en el artículo 21.2.c) de esta Ley, no será de aplicación a quienes a la entrada en vigor de la misma tengan cumplidos 75 años de edad.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los requisitos acerca del espacio destinado a consulta farmacéutica en las oficinas de farmacia abiertas con anterioridad a la entrada en vigor de la Ley 4/1996, de 26 de diciembre, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha, no serán exigibles en tanto no se trasladen.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+A los procedimientos de autorización iniciados antes de la entrada en vigor de esta Ley, le será de aplicación hasta su resolución la Ley anterior.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las oficinas de farmacia cuya apertura se autorice en ejecución de sentencias durante el desarrollo de un concurso para instalación de oficinas de farmacia no afectarán al número de oficinas de farmacia convocadas para ese concurso.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+La adscripción a las oficinas de farmacia de los botiquines existentes a la entrada en vigor de la Ley 4/1996, de 26 de diciembre, se mantendrá en la misma situación, mientras los botiquines no se cierren, con independencia de que se produzca cambio de titularidad de las oficinas de farmacia a las que estuviesen adscritos.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las solicitudes de transmisión de oficinas de farmacia o de constitución de cotitularidades, presentadas antes de la entrada en vigor de esta Ley, serán tramitadas y resueltas de acuerdo con lo dispuesto en la misma.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los farmacéuticos titulares de oficinas de farmacia que a la entrada en vigor de la presente Ley tengan cumplidos 73 y 74 años deberán proceder a la transmisión de su oficina de farmacia en el plazo máximo de tres años, contado a partir de la entrada en vigor de la misma.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Los farmacéuticos que a la entrada en vigor de esta Ley sean titulares de una oficina de farmacia obtenida en virtud de los concursos convocados en 1998 y 2001 y cuya autorización caduque por cumplir 75 años de edad antes de que haya transcurrido el plazo previsto en su artículo 23.1, podrán transmitirla en el momento de la caducidad sin tener en cuenta dicho plazo.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Los titulares de oficinas de farmacia que a la entrada en vigor de esta Ley tengan cumplidos 70 años deberán incorporar un farmacéutico adjunto a su farmacia, en el plazo máximo de 3 meses a partir de la entrada en vigor de la misma, excepto en el supuesto de cotitularidad siempre que el otro o alguno de los otros cotitulares no tenga dicha edad.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Las solicitudes de traslados de oficinas de farmacia presentadas con anterioridad a la entrada en vigor de esta Ley se resolverán de acuerdo con la normativa vigente en el momento de su presentación.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+Hasta tanto se desarrolle reglamentariamente lo dispuesto en la presente Ley, será de aplicación, en aquello que no contradiga a ésta, el Decreto 7/2005, de 18 de enero, de requisitos, personal y autorizaciones de las oficinas de farmacia y botiquines, que será aplicable a los procedimientos iniciados en base al Decreto 65/1998, de 16 de junio, que no hubieran sido resueltos con carácter firme a la entrada en vigor del citado Decreto 7/2005, de 18 de enero.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 4/1996, de 26 de diciembre, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha. Asimismo quedan derogadas la Ley 4/1998, de 9 de junio, y la Ley 10/2000, de 26 de diciembre, de modificación ambas de la citada Ley 4/1996, de 26 de diciembre.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de Gobierno para que reglamentariamente actualice la cuantía de las multas previstas en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al mes de su publicación en el Diario Oficial de Castilla-La Mancha.
+
+### [firma]
+
+Toledo, 27 de junio de 2005.
+JOSÉ MARÍA BARREDA FONTES,
+Presidente

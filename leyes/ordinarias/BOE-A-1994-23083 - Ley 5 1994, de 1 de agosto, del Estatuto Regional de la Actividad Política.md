@@ -1,0 +1,298 @@
+# Ley 5/1994, de 1 de agosto, del Estatuto Regional de la Actividad Política.
+
+- Identificador BOE: `BOE-A-1994-23083`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-23083
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 5/1994, de 1 de agosto, del Estatuto Regional de la Actividad Política.
+Por consiguiente, al amparo del artículo 30.2, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I
+Todo sistema democrático está basado en relaciones de confianza entre los ciudadanos y las personas que ejercen la actividad pública. Originariamente la confianza se expresa a través de las urnas. En los procesos electorales, la sociedad decide a qué personas y a qué equipos encarga la gestión de los asuntos públicos. A partir de ese momento, se confía en que las instituciones públicas van a funcionar con eficacia y en que las personas que las dirigen van a actuar con lealtad a los intereses generales, anteponiendo siempre el bien común al de personas o grupos próximos al político.
+El mantenimiento de este sutil sistema de confianza exige una permanente atención y un meticuloso cuidado. Por un lado, la actividad pública ha de ser siempre transparente. Ni las instituciones ni los políticos han de ocultar nada a la opinión pública, no sólo de su gestión estrictamente pública, sino también de aquellos aspectos de su vida privada que de algún modo pudieran relacionarse con el deber general de lealtad a los intereses de la sociedad. Es preciso que en todo momento los ciudadanos sean conscientes de que cuentan con mecanismos adecuados para conocer que los políticos en quienes confían permanecen fieles a sus deberes públicos. Además, por otro lado, es imprescindible que se cumpla otro requisito de fondo: La lealtad a los intereses generales. No basta con los aspectos formales. No basta con que la actividad pública sea transparente. Se ha de generalizar también la convicción de que el cimiento de esta actividad es el cumplimiento de su deber de lealtad a los intereses generales de la sociedad. Y que la perseverancia en esta línea permitirá afirmar que es honrado el comportamiento público, mientras que el apartamiento de esta exigencia dará lugar a conductas calificables de corruptas.
+Se trata, pues, de dos requisitos, la transparencia y la lealtad, absolutamente inexcusables, hasta tal punto que su incumplimiento, en un primer momento significaría la quiebra o el menoscabo de la confianza básica que debe existir entre sociedad y políticos, y, en un segundo momento, si llegara a producirse escándalo social, el daño podría ser todavía mayor, por una parte, el desprestigio de toda actividad política, por otra, el de las propias instituciones.
+Ninguna Ley puede impedir que en la actividad política se produzcan conductas reprochables. Pero el ordenamiento jurídico ha de proporcionar a los ciudadanos la certeza de que, en caso de producirse, ninguna quedará sin sanción, igualmente, se hace necesario que los altos cargos y los diputados cuenten con mecanismos parlamentarios para defenderse, ante la opinión pública, de acusaciones infundadas. Por ello, es preciso intentar una regulación global de la actividad política, en la que se definan los deberes generales, se establezcan los mecanismos de garantía de su cumplimiento y se prevean las reacciones políticas y jurídicas adecuadas.
+En este sentido, la presente Ley se inspira en otras normas, estatales y regionales, que han ido regulando aspectos concretos de las incompatibilidades de los altos cargos y de diputados, inelegibilidades, registros de intereses y de bienes, prohibiciones... Sin embargo, con esta Ley se ha intentado dar un paso más, abordando no una regulación parcial y fraccionada, sino global y unitaria de la cuestión, que constituya un planteamiento sistemático y un punto de referencia fundamental para la valoración de las conductas políticas. De ahí la denominación adoptada de «Estatuto Regional de la Actividad Política».
+II
+En el título preliminar se definen los deberes básicos de las personas que asumen responsabilidades públicas. Se concibe la actividad política como una conducta humana sujeta al deber de lealtad a los intereses generales, así como a los valores constitucionales de legalidad, objetividad y eficacia, que han de estar presentes en todo servicio público.
+También se delimita al ámbito subjetivo de la Ley. Se trata de una norma regional que, por tanto, no puede extenderse más que a los que prestan sus servicios en la Comunidad Autónoma. Se ha respetado tanto la normativa básica del Estado como el principio de autonomía municipal. Y asimismo, la privacidad de instituciones que son eminentemente sociales, aunque la presencia en ellas de intereses públicos no deja de tener importancia. Se espera, sin embargo, que el paso dado en esta Ley señale un camino por el que puedan discurrir las decisiones de otras entidades públicas o privadas.
+III
+El título I define los deberes de la actividad política del diputado regional. Sistemáticamente se ha optado por un tratamiento diferenciado entre el diputado y el alto cargo de la Comunidad Autónoma. La razón es muy sencilla: Al diputado no le es exigible una plena dedicación al servicio público, pues no cobra una retribución fija; al alto cargo, sí.
+Tras una remisión a la legislación electoral, se establecen dos técnicas para garantizar el deber de lealtad a los intereses generales, por un lado, el parlamentario debe comunicar a la Mesa que tiene intereses en el tema a debatir, por otro, no debe mantener relaciones con la Administración Regional de las que pudieran derivarse intereses personales, o de personas a él próximas.
+IV
+El título II se refiere a los deberes de la actividad política del alto cargo. Se intenta garantizar su dedicación absoluta al servicio público, el deber de objetividad y respeto al principio de igualdad, para lo que se articulan las técnicas de la abstención y la recusación, de cierta tradición en el ordenamiento jurídico español, y, asimismo, la incompatibilidad de sus retribuciones con cualquier otra que proceda de presupuestos públicos.
+V
+El título III redunda en el problema de las garantías del cumplimiento de los deberes de la actividad pública. Se ha intentado evitar que la Ley quedase limitada a declaraciones solemnes y grandilocuentes. Se ha buscado que los deberes se cumplan, que se sepa en todo momento cuándo se cumplen y cuándo se incumplen, y que ante toda la sociedad no quede sin sanción el incumplimiento.
+Para ello, se establece la obligatoriedad de unas declaraciones de actividades, intereses y bienes, que se custodiarán, en sendos registros, por el Consejo de Gobierno, los de los altos cargos, y por la Asamblea Regional, las de los diputados, pero que en ambos casos serán públicos y sujetos a control parlamentario. La Ley hace expresa referencia a los principios de publicidad material y formal que han de presidir el funcionamiento de estos registros, y a las funciones de control y valoración parlamentaria que efectuará la Comisión del Estatuto del Diputado y de la actividad política, cuya configuración competencia! supone un reforzamiento de los mecanismos parlamentarios de control.
+VI
+El título IV, en fin, regula las sanciones aplicables en caso de incumplimiento. Se diferencia la responsabilidad política exigible en la Asamblea Regional, la responsabilidad penal, ante los órganos judiciales de este orden, y la responsabilidad civil, que vendrá encaminada a indemnizar los daños y perjuicios causados a los intereses generales por las conductas irregulares. Se ha intentado dejar claro que quien se lucre indebidamente a su paso por la política, además de que su conducta será conocida por toda la sociedad, deberá devolver a las arcas públicas todo aquello en lo que mejoró de fortuna.
+VII
+Por lo demás, el contenido de la Ley implicaba la introducción de algunas modificaciones en el Reglamento de la Asamblea Regional, fundamentalmente en la regulación de los derechos y deberes de los diputados y la denominación, composición y funcionamiento de la Comisión del Estatuto del Diputado y de la actividad política.
+VIII
+Se ha querido, en fin, que la Ley entre en vigor inmediatamente, y que se aplique a los actuales altos cargos y diputados, sin esperar a que comience una nueva legislatura. La importancia de la materia y el no apreciar razones para demorar la vigencia han aconsejado esta decisión.
+
+## TÍTULO PRELIMINAR
+
+Objetivos y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Deberes de la actividad política.
+Las diputadas y diputados regionales, así como los altos cargos ejercerán su actividad política de servicio público con lealtad al interés general de la ciudadanía de la Región de Murcia, integridad, objetividad, transparencia y eficacia. El incumplimiento de estos deberes será sancionado en la forma establecida en esta ley.
+Se modifica por el art. único.1 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+
+### Artículo 2
+
+Artículo 2. Ámbito subjetivo: El concepto de alto cargo.
+1. A los efectos de esta ley se consideran altos cargos los miembros del Consejo de Gobierno y todos aquellos titulares de cargos de la Administración pública regional o de los organismos públicos vinculados o dependientes de aquella que, por implicar especial confianza y responsabilidad, sean calificados como tales por ley, reglamentariamente o en la disposición que otorgue su nombramiento.
+2. En todo caso, esta ley se aplicará a la actividad pública de los siguientes altos cargos:
+a) El Presidente de la Comunidad Autónoma.
+b) El Vicepresidente, si lo hubiera, y los consejeros.
+c) Los secretarios generales, secretarios autonómicos, los directores generales y asimilados a los mismos.
+d) El Secretario General de la Presidencia y el Jefe del Gabinete de la misma.
+e) Los presidentes, directores y asimilados de los organismos públicos regionales.
+f) Los directores de los gabinetes de los consejeros.
+3. Estará sometido al régimen de dedicación e incompatibilidad de los altos cargos el personal eventual de la Función Pública regional con categoría de jefe de servicio o superior, así como los titulares de cargos en virtud de un contrato de alta dirección.
+4. Los funcionarios de la Administración regional que ocupen puestos de trabajo provistos por el sistema de libre designación se regirán en cuanto a sus derechos, deberes e incompatibilidades por la legislación funcionarial. El Consejero competente en materia de Función Pública remitirá, de forma periódica a la Comisión del Estatuto del Diputado y de la actividad política, relación detallada de todos y cada uno de los funcionarios que ocupen estos puestos de libre designación, de los expedientes de compatibilidad que promovieran, de las resoluciones que en los mismos se dicten, de las abstenciones y recusaciones que se planteasen en los procedimientos en que intervengan, y cualquier otra incidencia que fuera solicitada por la referida Comisión.
+Se modifican los apartados 1 y 2 por la disposición adicional 2 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-14442
+ Se deroga el apartado 5 por la disposición derogatoria de la Ley 3/1998 de 1 de julio . Ref. BOE-A-1999-4972
+
+## TÍTULO I
+
+De los deberes de la actividad política del diputado regional
+
+### Artículo 3
+
+Artículo 3. Inelegibilidad, incompatibilidad y retribución.
+1. A los diputados regionales les serán de aplicación los casos de inelegibilidad y de incompatibilidad establecidos en la legislación electoral y los que en esta Ley se establecen.
+2. Las diputadas y diputados regionales percibirán una asignación económica suficiente, que les permita cumplir eficaz y dignamente su función. Dichas retribuciones serán públicas y deberán ser fijadas de acuerdo con la normativa aplicable en cada caso y dentro de los límites previstos en el presupuesto que les resulte aplicable.
+Se modifica el apartado 2 por el art. único.2 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+
+### Artículo 4
+
+Artículo 4. Lealtad a los intereses generales.
+1. Los diputados no podrán hacer uso ni invocar su condición de parlamentarios para el ejercicio de cualquier actividad mercantil, industrial o profesional.
+2. Los disputados que se ocupen directamente, en el marco de su profesión, o en el de una actividad remunerada, o que sea de interés para sí mismo, o para sus parientes por afinidad o por consanguinidad hasta el segundo grado, o hubiere intervenido o prevea que va a intervenir en sus actividades privadas, en cuestiones objeto de debate en el Pleno o en una Comisión, lo manifestarán con anterioridad a su intervención al Presidente de la Mesa respectiva.
+
+### Artículo 5
+
+Artículo 5. Compatibilidades.
+Las diputadas y diputados regionales que desempeñen su cargo en régimen de dedicación exclusiva, no podrán compatibilizar su actividad con el ejercicio por si o mediante sustitución o apoderamiento, de cualquier puesto, cargo, representación, profesión o actividad retribuida de carácter público o privado, por cuenta propia o ajena.
+Asimismo, será incompatible con la percepción de pensión de jubilación o retiro por Derechos Pasivos, o por cualquier régimen de Seguridad Social público y obligatorio.
+Se modifica por el art. único.3 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+
+### Artículo 6
+
+Artículo 6. Deber de abstención.
+No obstante lo dispuesto en el artículo anterior, el diputado regional, durante su mandato representativo, deberá abstenerse de realizar ante la Administración regional, sus organismos públicos y sus empresas, cualquier actividad de gestión o dirección encaminada a obtener para sí o para sus parientes, por consanguinidad o afinidad, hasta el segundo grado, o para las empresas en las que tuvieran participación, cualquier subvención o aval, o prestación de un servicio público que especialmente les afectara o beneficiase, o una actividad de reordenación territorial o urbanística que incrementara el valor de sus bienes o derechos.
+Se exceptúan las subvenciones o avales cuya concesión derive de la aplicación reglada de lo dispuesto en una norma de carácter general.
+
+### Artículo 7
+
+Artículo 7. Otros deberes de abstención.
+Los diputados regionales, durante su mandato representativo, y durante un periodo de dos años posterior al cese de su mandato, deberán abstenerse de ejercer la actividad de contratista de obras, servicios, asistencia o suministros, individualmente o a través de una sociedad de la que sea propietario o copropietario, con la Administración regional, organismos autónomos y empresas públicas regionales, así como desempeñar cargos que lleven aparejadas funciones de dirección, representación o asesoramiento en empresas que ejerzan estas actividades.
+Su participación en el capital de estas empresas se hará constar expresamente en el Registro de Actividades de la Asamblea Regional.
+Se modifica por el art. único.4 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+
+### Artículo 8
+
+Artículo 8. Prohibición de asesorar.
+Durante su mandato, los diputados regionales no podrán asesorar profesionalmente a la Administración regional, mediase o no retribución por ello, salvo que excepcionalmente lo autorizase la Comisión del Estatuto del Diputado y de la actividad política.
+
+## TÍTULO II
+
+De los deberes de la actividad política del alto cargo
+
+### Artículo 9
+
+Artículo 9. El deber de eficacia. Incompatibilidades.
+1. Para el cumplimiento del deber de eficacia, el ejercicio de la actividad de los altos cargos se desarrollará en régimen de dedicación absoluta y excluyente. Por tanto, con carácter general, esta dedicación será incompatible:
+a) Con el desempeño por sí o mediante sustitución o apoderamiento, de cualquier otro puesto, cargo, representación, profesión o actividad, sean de carácter público o privado, por cuenta propia o ajena. Asimismo, tampoco podrán percibir cualquier otra remuneración con cargo a los presupuestos de las administraciones públicas o entidades vinculadas o dependientes de las mismas, ni cualquier otra percepción que directa o indirectamente provenga de una actividad privada. Se exceptúa de lo anterior la administración de su patrimonio familiar, que podrán efectuar, directamente, o por medio de otra persona.
+b) Con la condición de miembro de la Asamblea Regional de Murcia, de las asambleas legislativas de otras comunidades autónomas, de corporaciones locales, de diputado o senador en las Cortes Generales o de diputado del Parlamento Europeo. No obstante, el Presidente de la Comunidad Autónoma habrá de ser diputado regional y podrá ostentar la condición de senador. El Vicepresidente y los consejeros podrán ser diputados regionales.
+c) Con el ejercicio de cargos electivos en colegios, cámaras o entidades que tengan atribuidas funciones públicas. Se exceptúa de esta incompatibilidad el desempeño de cargos representativos en instituciones o entes de carácter benéfico-social o protocolario sin remuneración alguna.
+2. Como excepción, la dedicación será compatible:
+a) Con el desempeño de aquellos cargos que les correspondan con carácter institucional o para los que fueran designados por su propia condición de altos cargos.
+b) Con el desarrollo de misiones temporales de representación en organizaciones o conferencias, nacionales o internacionales.
+c) Con la condición de presidente, secretario o miembro de órganos colegiados de las administraciones públicas, cuando deban realizar dichas funciones por razón de su cargo.
+d) Con la representación de la Administración pública regional en los órganos directivos o consejos de administración de los organismos públicos o sociedades mercantiles en cuyo capital tenga participación mayoritaria, directa o indirectamente, cualquier Administración pública. No obstante, no se podrá pertenecer a más de dos consejos de administración de dichos organismos, empresas o entidades, salvo cuando concurran razones que lo justifiquen y así se declare expresamente por el Consejo de Gobierno, sin que se perciba, en este caso, cantidad alguna en concepto de asistencia, por la pertenencia a un tercer y sucesivos consejos de administración.
+e) Con el desempeño de cargos representativos, sin retribución, en partidos políticos.
+Se modifica por la disposición adicional 2 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-14442
+
+### Artículo 10
+
+Artículo 10. Deber de objetividad. Incompatibilidades.
+1. El ejercicio de un alto cargo es incompatible, en particular, con las actividades privadas siguientes:
+a) El desempeño, por sí o por persona interpuesta, de cargos de todo orden, funciones de dirección o de representación, así como de asesoramiento y mediación de empresas o sociedades concesionarias, contratistas de obras, servicios o suministros, arrendatarias o administradoras de monopolios, o con participación o ayudas del sector público, cualquiera que sea la configuración jurídica de aquéllas.
+b) La titularidad individual o compartida de conciertos de prestación continuada o esporádica de servicios, cualquiera que sea la naturaleza de éstos en favor de las administraciones públicas.
+c) La gestión, defensa, dirección o asesoramiento de asuntos particulares ajenos, cuando por la índole de las operaciones o de los asuntos, competa a las administraciones públicas su resolución, o resulte implicada en ellos la realización de algún fin o servicio público.
+d) El ejercicio, por sí o por persona interpuesta, de cargos que lleven anejas funciones de dirección, representación o asesoramiento de toda clase de sociedades mercantiles y civiles, y consorcios de fin lucrativo, aunque unos y otros no realicen fines y servicios públicos ni tengan relaciones contractuales con las administraciones, organismos o empresas públicas.
+e) El ejercicio por sí, por persona interpuesta o mediante sustitución, de la profesión a la que, por razón de sus títulos o aptitudes, pudiera dedicarse, salvo que se trate de actividades culturales o científicas efectuadas de forma no continuada.
+f) Con la realización de estudios, informes, memorias, investigaciones, creaciones literarias, artísticas o similares, cuando sean retribuidos con cargo a fondos de las administraciones públicas o de organismos y de entidades dependientes de ellas.
+2. La incompatibilidad a que se alude en el número anterior implica la suspensión en el ejercicio de las actividades previstas en el mismo, por todo el tiempo que se ejerza la función de alto cargo.
+
+### Artículo 11
+
+Artículo 11. El deber de objetividad y respeto al principio de igualdad, la abstención y la inhibición.
+1. Para el cumplimiento del deber de objetividad y de respecto al principio de igualdad, el alto cargo tiene la obligación de abstenerse de intervenir:
+a) Durante su mandato, en todos aquellos asuntos que en su actividad privada anterior hubiera gestionado, dirigido o asesorado, o que interesen directa o indirectamente a él mismo o a sus parientes, por consanguinidad o afinidad, hasta el segundo grado, o a empresas en que él o sus parientes tuviesen participación, o intereses, o hubieran asesorado o asesoren.
+b)Durante los dos años siguientes a su cese, para la realización de actividades privadas relacionadas con asuntos sobre los que hubiera adoptado decisión expresa en el ejercicio de su cargo, ni para la celebración de contratos de asistencia técnica, servicios o similares con la Administración pública regional o sus organismos públicos.
+A tal efecto, deberá dirigir al Registro de Actividades, Intereses y Bienes correspondiente, dentro del plazo de tres meses, tras la publicación del cese, una comunicación sobre la actividad privada que vaya a realizar, con posterioridad al desempeño de su cargo. Reglamentariamente se desarrollará el alcance y contenido de la citada comunicación.
+c) En todos los procedimientos de selección de personal o de promoción interna de funcionarios en los que participen sus familiares hasta el cuarto grado de consanguinidad o segundo de afinidad, o las personas que, como cargo de confianza o puesto de libre designación, trabajen o hayan trabajado en la unidad administrativa que dirijan, así como en los supuestos contemplados en la Ley 30/1992, de 26 de diciembre, respecto a la abstención y recusación.
+2. Si el alto cargo no se abstuviera, el Consejo de Gobierno, de oficio, o a instancia de parte interesada, y previa audiencia del alto cargo, podrá ordenarle que se inhiba. De este procedimiento, y de las declaraciones de abstención a que se refiere el párrafo anterior, se dará cuenta inmediata a la Comisión del Estatuto del Diputado y de la actividad política.
+3. En ningún momento, ni siquiera después de dejar de serlo, el alto cargo podrá usar en su provecho, o transmitir a otro para que la use, la información que haya obtenido con ocasión del ejercicio de su actividad política.
+Se modifica el apartado 1.b) por la disposición adicional 2 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-14442
+
+### Artículo 12
+
+Artículo 12. Remuneraciones.
+1. Los altos cargos de la Administración Regional no podrán percibir más de una remuneración con cargo a los presupuestos de las Administraciones Públicas y de los organismos y empresas de ellos dependientes. Tampoco podrán optar por retribuciones de otras actividades, puestos o profesiones incompatibles. Su retribución será la que presupuestariamente se establezca para ese puesto de alto cargo; todo ello sin perjuicio de las dietas, indemnizaciones y asistencias que en cada caso le correspondan en aquellos órganos colegiados de los que forma parte por el puesto que desempeñan o que fueran expresa y legalmente compatibles.
+2. Tampoco podrán percibirse pensiones de derechos pasivos o de cualquier régimen de la Seguridad Social, público y obligatorio, quedando la percepción en suspenso durante el ejercicio del cargo, recuperándose automáticamente al cesar en el mismo.
+3. La Intervención de la Administración Regional no autorizará las nóminas o libramientos en que se infrinja este artículo, y comunicará la situación e incompatibilidad del alto cargo a la Administración Pública. Asamblea o Corporación de donde proceda la persona que ocupa el alto cargo, a los efectos oportunos.
+
+## TÍTULO III
+
+De las garantías del cumplimiento de sus deberes por los diputados y altos cargos: Declaraciones y registro de intereses
+
+### Artículo 13
+
+Artículo 13. Declaraciones.
+Las personas a que se refiere esta Ley formularán las siguientes declaraciones:
+1. De actividades:
+Declaración de todas aquellas actividades que, con arreglo a esta Ley, puedan constituir causa de incompatibilidad, o de que no se ejerce ninguna actividad considerada incompatible, y de las que puedan ser de ejercicio compatible.
+2. De intereses:
+Declaración relativa a cualesquiera actividades que proporcionen o puedan proporcionar ingresos económicos, y en la que se consignarán los siguientes extremos:
+a) La participación del interesado, cónyuge o, en su caso, persona vinculada por análoga relación de convivencia afectiva, e hijos menores de edad, en el capital de todo tipo de empresas y sociedades.
+b) Las empresas o sociedades que hayan dirigido, administrado o asesorado el declarante o su cónyuge o persona vinculada por análoga relación de convivencia afectiva.
+c) Las actividades desarrolladas, en representación de la Administración Regional, en órganos colegiados o de dirección de organismos y empresas de capital público.
+3. De bienes:
+Declaración que describirá el patrimonio del interesado, y que deberá, al menos, recoger:
+a) Los bienes, derechos y obligaciones patrimoniales que posean.
+b) Los valores y activos financieros negociables.
+c) Las participaciones societarias.
+d) El objeto social de las sociedades de cualquier clase en la que tengan intereses el alto cargo, su cónyuge, sea cual sea el régimen económico matrimonial o persona que conviva en análoga relación de afectividad.
+e) Las sociedades participadas por aquellas otras que sean objeto de declaración según el apartado d) con señalamiento de sus respectivos objetos sociales.
+A esta declaración se podrá acompañar la documentación acreditativa de los extremos declarados que considere oportuno el alto cargo. Dicha documentación se presentará en el Registro correspondiente como documentación complementaria, rigiéndose el acceso a la misma por su normativa específica.
+4. Declaraciones tributarias.
+Los altos cargos aportarán junto con las declaraciones iniciales y las del cese, una copia de la última declaración tributaria correspondiente al impuesto sobre la Renta de las Personas Físicas y al impuesto sobre el patrimonio que, en su caso, haya tenido la obligación de presentar el declarante ante la Administración Tributaria. También se podrá aportar, voluntariamente, la declaración de su cónyuge o persona con quien conviva en análoga relación de afectividad referida a esos tributos. Dichas declaraciones se depositarán en el Registro como información complementaria, rigiéndose el acceso a las mismas por su normativa específica.
+5. Las personas a que se refiere esta ley, aportarán anualmente certificación de la Administración Tributaria en la que acrediten estar al corriente del cumplimiento de sus obligaciones con la Hacienda pública.
+Se modifica el apartado 3 y se añade el 4 y el 5 por el art. único.5 a 8 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+ Se modifica el apartado 3 por la disposición adicional 2 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-14442
+
+### Artículo 14
+
+Artículo 14. Plazos y declaraciones complementarias.
+1. Las mencionadas declaraciones se formularán en el plazo de los dos meses siguientes a la fecha de toma de posesión y dentro del mes siguiente a la pérdida del cargo de que se trate y, en su caso, a la fecha en que se produzca cualquier modificación de las circunstancias de hecho, entendiéndose por tales cualquier variación en la situación patrimonial de los declarantes por la adquisición o transmisión de bienes o derechos, y cualquier alteración en las actividades declaradas.
+2. En los plazos que en el apartado anterior se establecen, los diputados y los altos cargos estarán obligados a formular declaración con expresa indicación de sus familiares que hasta el segundo grado de consanguinidad o afinidad ocupen puestos en la Administración regional.
+
+### Artículo 15
+
+Artículo 15. Régimen de publicidad de los Registros de Actividades, Intereses y Bienes.
+1. Dependiendo de la Presidencia de la Cámara existirá en la Asamblea Regional un Registro de Intereses en el que se inscribirán las declaraciones de los diputados regionales.
+La Asamblea Regional decidirá la organización, funcionamiento y publicidad material y formal de este Registro. En todo caso, en una sección aparte, se conservarán las informaciones remitidas por el Consejo de Gobierno sobre las declaraciones y demás circunstancias de los altos cargos.
+2. El Registro de Intereses de los altos cargos será gestionado por el Consejo de Gobierno. Su organización, funcionamiento y sistema de publicidad material y formal se determinará reglamentariamente.
+3. El contenido de los Registros de Actividades e Intereses tendrá carácter público, rigiéndose por lo establecido en la normativa de Protección de Datos de Carácter Personal y por el artículo 37.6 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; por la presente Ley y por las correspondientes normas de desarrollo.
+4. El contenido del Registro de Bienes tiene carácter reservado y sólo puede accederse al mismo, previa presentación de solicitud en la que se especifiquen aquellos datos del alto cargo de los que se desea tener constancia, siempre que exista autorización expresa y escrita del declarante y, en su caso, de su cónyuge o persona vinculada por análoga relación de convivencia afectiva e hijos. Podrán, sin embargo, acceder, al Registro de Bienes de los Altos Cargos:
+a) La Asamblea Regional.
+b) Los órganos judiciales, para la instrucción o resolución de los procesos que requieran el conocimiento de los datos que obren en el Registro, de conformidad con lo dispuesto en las leyes procesales.
+c) El Ministerio Fiscal, cuando realice actuaciones de investigación en el ejercicio de sus funciones, que requieran el conocimiento de datos que obran en el Registro.
+d) El Defensor del Pueblo, en los términos de su Ley Orgánica.
+5. Los registros establecidos en esta Ley se instalarán en un sistema de gestión documental que garantice la inalterabilidad y permanencia de sus datos, así como la alta seguridad en el acceso y uso de los mismos.
+6. El personal que preste servicio en estos registros o intervenga en los expedientes a los que se refiere esta Ley, tiene el deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su trabajo. Se añade al Estatuto de la Actividad Política una disposición adicional única del siguiente tenor:
+De acuerdo con lo establecido en los artículos 31.5 y 32.4 del Estatuto de Autonomía, se requiere mayoría absoluta de los miembros de la Asamblea para la modificación de los preceptos contenidos en esta Ley, en cuanto se refieran al Estatuto Personal del Presidente y de los miembros del Consejo de Gobierno.
+Se modifica el título, el apartado 3 y se añaden los apartados 4 a 6 por la disposición adicional 2 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-14442
+
+### Artículo 16
+
+Artículo 16. Expedientes.
+1. Las declaraciones de cada cargo conllevarán la apertura de un expediente, al que se incorporarán los documentos necesarios para su resolución, la cual deberá producirse dentro del plazo de un mes a partir de la presentación de las declaraciones, o de las comunicaciones, en que, de modo obligatorio, se haga constar cualquier alteración que se produzca respecto a las anteriormente formuladas.
+2. La Comisión del Estatuto del Diputado y de la actividad política, encargada de tramitar los expedientes relativos a los diputados regionales, podrá elevar al Pleno de la Cámara sus propuestas sobre incompatibilidad y todas aquellas que considere, necesarias para el cumplimiento de sus funciones.
+3. La situación de incompatibilidad en que puedan hallarse los altos cargos de la Administración Regional, será declarada por el propio Consejo de Gobierno, a propuesta del Consejero competente por razón de la materia.
+
+### Artículo 17
+
+Artículo 17. Control parlamentario.
+1. El Consejo de Gobierno remitirá a la Comisión Parlamentaria del Estatuto del Diputado y de la actividad política, las declaraciones iniciales y complementarias formuladas por los altos cargos, los expedientes de compatibilidad que éstos promovieran, los nombramientos que los mismos efectuasen de personal eventual, los contratos de alta dirección que autorizasen y la relación de sus familiares, que hasta el segundo grado de consanguinidad o afinidad, ocupen puestos en la Administración Regional.
+2. Previa audiencia del interesado, la Comisión del Estatuto del Diputado y de la actividad política, por propia iniciativa, o a solicitud de aquél, podrá elevar periódicamente informe al Pleno de la Cámara, con las observaciones, recomendaciones y propuestas que estimara precisas.
+
+## TÍTULO IV
+
+Del incumplimiento de los deberes: Reacción política jurídica
+
+### Artículo 18
+
+Artículo 18. Infracciones.
+1. Se inscribirán en los correspondientes Registros de Intereses las infracciones de lo dispuesto en la presente Ley.
+2. En particular, se consideran infracciones el incumplimiento:
+a) De los deberes de abstención.
+b) De las normas sobre incompatibilidad.
+c) De cualquiera de los deberes previstos en la presente Ley.
+3. Lo dispuesto en el presente artículo se entenderá siempre sin perjuicio de la exigencia de las demás responsabilidades a que hubiere lugar. En concreto, si las infracciones pudieran ser constitutivas de delito, la Administración pasará el tanto de culpa al órgano jurisdiccional competente, y se abstendrá de seguir el procedimiento, mientras por la autoridad judicial no se dicte resolución, poniendo fin al proceso penal. De no estimarse la existencia de delito, la Administración continuará el expediente a partir de los hechos que los Tribunales de Justicia hayan considerado probados.
+
+### Artículo 19
+
+Artículo 19. De las sanciones a los diputados.
+Los diputados que incumplieren los deberes de lealtad con los intereses generales, objetividad, eficacia y respeto al principio de igualdad, así como los que incumplieren el régimen de incompatibilidades y deber de abstención, podrán ser sancionados en la forma que establece el Reglamento de la Cámara.
+Si la Comisión del Estatuto del Diputado y de la Actividad Política apreciase en la conducta del diputado indicios racionales de delito o falta, propondrá al Pleno que acuerde pasar el tanto de culpa a los tribunales de justicia. En todo caso, instará del Consejo de Gobierno a que promueva la revisión de los actos y contratos en los que indebidamente hubiere intervenido el diputado y que exija la responsabilidad penal o la indemnización de daños y perjuicios a que hubiere lugar, de acuerdo con la legislación correspondiente.
+Se modifica por el art. único 9 de la Ley 19/2015, de 16 de diciembre. Ref. BOE-A-2016-312
+
+### Artículo 20
+
+Artículo 20. De las sanciones a los altos cargos y otras medidas.
+Si un alto cargo incumpliese los deberes configurados en esta Ley, la Comisión del Estatuto del Diputado y de la actividad política, podrá proponer al Pleno de la Asamblea:
+1. Que inste al Consejo de Gobierno a que cese al alto cargo. Si se tratara del Presidente de la Comunidad Autónoma, el informe de la Comisión declarará su incompetencia para pronunciarse sobre el asunto.
+2. Que inste al Consejo de Gobierno a que promueva la revisión del acto o contrato en que hubiere intervenido el alto cargo.
+3. Que inste al Consejo de Gobierno a que ejerza, en nombre de la Comunidad Autónoma, las acciones civiles pertinentes para la indemnización de los daños y perjuicios que con las omisiones, actos o contratos en cuestión se hubieren causado.
+4. Que se pase el tanto de culpa a los Tribunales ordinarios, si hubiere indicios racionales de delito o falta.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las empresas o sociedades que participen en cualquier tipo de contratación pública, de ámbito regional, de obras, servicios, y suministros deberán acreditar, mediante la oportuna certificación expedida por su órgano de dirección o representación competente, que no forma parte de los órganos de gobierno o administración persona alguna de aquellas a que se refiere esta Ley.
+Se modifica por el art. 11 de la Ley 11/1998 de 28 de diciembre . Ref. BOE-A-1999-9308
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los preceptos contenidos en el articulado de esta Ley se entenderán sin perjuicio de las incompatibilidades más rigurosas establecidas en otras normas legales para determinados altos cargos, de acuerdo con la especial naturaleza de su función.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se faculta al Consejo de Gobierno para dictar las disposiciones y adoptar las medidas que requiera la ejecución de la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se introduce en la Ley 7/1988, de 6 de octubre, de Órganos Rectores de las Cajas de Ahorro de la Región de Murcia, un nuevo artículo con el siguiente texto:
+«Artículo 7 bis.
+Los Estatutos y Reglamentos de las Cajas de Ahorros instituirán mecanismos de control para el cumplimiento de las prescripciones sobre incompatibilidad previstas en su normativa, estableciendo un sistema de declaraciones de actividades y bienes de los miembros de los órganos de gobierno de estas entidades, en especial los formados por quienes tengan encomendadas las funciones de dirección, administración, gestión financiera y el control de las mismas.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las personas que ocupen en la actualidad algunos de los cargos a que hace referencia esta Ley, presentarán, en el plazo de dos meses, desde la entrada en vigor de la misma, las declaraciones señaladas en su artículo 13.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Aquellos diputados y altos cargos que hubieren presentado las referidas declaraciones no vendrán obligados a presentarlas de nuevo, salvo que no figuren en las mismas las modificaciones introducidas por la presente Ley, o exista alguna variación en los datos consignados en su anterior declaración.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+Murcia, 1 de agosto de 1994.−La Presidenta, María Antonia Martínez García.

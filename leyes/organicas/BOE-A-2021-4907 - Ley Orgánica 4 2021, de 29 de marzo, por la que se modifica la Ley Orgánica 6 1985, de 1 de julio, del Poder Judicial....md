@@ -1,0 +1,73 @@
+# Ley Orgánica 4/2021, de 29 de marzo, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para el establecimiento del régimen jurídico aplicable al Consejo General del Poder Judicial en funciones.
+
+- Identificador BOE: `BOE-A-2021-4907`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2021-4907
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+FELIPE VI
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:
+PREÁMBULO
+I
+Esta norma tiene por objeto establecer el régimen jurídico aplicable al Consejo General del Poder Judicial cuando la composición del mismo no se renueve en el plazo establecido por la Constitución, abocando al órgano constitucional a continuar en funciones hasta su renovación.
+La duración del mandato de los Vocales del Consejo se determina de forma clara e inequívoca en la Constitución Española, estableciéndose en su artículo 122.3 que el «Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo que lo Presidirá, y por veinte miembros nombrados por el Rey por un periodo de cinco años».
+Del mismo modo, en el artículo 570.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, se hace referencia a la situación resultante de la finalización del plazo sin que hayan sido designados nuevos Vocales, señalándose que «si ninguna de las dos Cámaras hubiere efectuado en el plazo legalmente previsto la designación de los Vocales que les corresponda, el Consejo saliente continuará en funciones hasta la toma de posesión del nuevo, no pudiendo procederse, hasta entonces, a la elección de nuevo Presidente del Consejo General del Poder Judicial».
+Es evidente que la superación del plazo máximo de mandato sin que se haya producido la debida renovación sitúa al Consejo General del Poder Judicial en una situación extraordinaria, cuyo régimen jurídico no puede ser el mismo que el aplicable al periodo normal de funcionamiento. Muestra de tal diferencia es la terminología utilizada en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para denominar al Consejo que supera su mandato, que pasa a ser «saliente» y, por tanto, a continuar exclusivamente «en funciones». Pese a ello y a diferencia de lo que sucede con otros órganos constitucionales como el Gobierno o las Cortes Generales, los cuales cuentan con una exhaustiva regulación sobre cómo han de operar cuando se encuentran en funciones o disueltas, respectivamente, en el caso del Consejo General del Poder Judicial no existe previsión alguna sobre la materia más allá del mencionado artículo de la Ley Orgánica 6/1985.
+Esta laguna jurídica constituye sin duda un déficit en el diseño constitucional del Estado que debe ser corregido. Partiendo de que lo deseable será siempre que la renovación del Consejo General del Poder Judicial se produzca de manera inmediata a la finalización de su mandato, debe, no obstante, preverse un régimen jurídico completo y adecuado para cuando tal circunstancia no se dé. La existencia de una normativa apropiada para estos casos supone una garantía básica para el correcto funcionamiento de la Administración de Justicia, así como un medio para favorecer la renovación, pero, sobre todo, resulta fundamental de cara a salvaguardar la legitimidad del órgano.
+No debe olvidarse que, en tanto máximo órgano de gobierno del Poder Judicial, el Consejo General del Poder Judicial es una pieza clave en el diseño institucional propio de nuestro Estado de Derecho. Y lo es, no solo por garantizar la independencia de quienes ejercen la potestad jurisdiccional, sino también por aportar legitimidad democrática al tercer poder del Estado.
+De lo anteriormente expuesto se colige la necesidad de limitar las decisiones adoptadas por un Consejo saliente, cuyos miembros han excedido el periodo constitucional de mandato. Así, facultades como la de proponer el nombramiento del Presidente del Tribunal Supremo, de los Presidentes de las Audiencias, de los Tribunales Superiores de Justicia y la Audiencia Nacional, de los Presidentes de Sala y los Magistrados del Tribunal Supremo o de los Magistrados del Tribunal Constitucional, deben quedar excluidas del ámbito competencial del Consejo cuando este se encuentra en funciones. Estas lógicas limitaciones, derivadas del carácter excepcional de la no renovación en plazo, también deben establecerse en relación con el nombramiento de los Directores de la Escuela Judicial y del Centro de Documentación Judicial, así como del Vicepresidente del Tribunal Supremo, el Promotor de la Acción Disciplinaria, el Director del Gabinete Técnico del Consejo General del Poder Judicial y el Jefe de la Inspección de Tribunales.
+Por el contrario, aquellas facultades que resultan necesarias para garantizar el normal funcionamiento del órgano y no impliquen una injerencia en las legítimas atribuciones del Consejo entrante son expresamente recogidas en el régimen jurídico del que la presente norma dota al Consejo en funciones. Se garantiza de esta manera que no se produzca una parálisis en su funcionamiento.
+Al no tratarse de un órgano jurisdiccional, que no podría ver paralizada su actividad ni dejar en suspenso ninguna de sus atribuciones, resulta posible separar las facultades del Consejo General del Poder Judicial en funciones que resultan indispensables para el gobierno y buen funcionamiento de juzgados y tribunales de aquellas otras que, por el contrario, conforman un haz de competencias y atribuciones que legítimamente han de corresponder al Consejo entrante o renovado y no al saliente.
+
+### Artículo único
+
+Artículo único. Modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+Se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en los siguientes términos:
+Uno. Se introduce un nuevo artículo 570 bis con la siguiente redacción:
+«Artículo 570 bis.
+1. Cuando, por no haberse producido su renovación en el plazo legalmente previsto, el Consejo General del Poder Judicial entre en funciones según lo previsto en el apartado 2 del artículo 570, la actividad del mismo se limitará a la realización de las siguientes atribuciones:
+1.ª Ser oído por el Gobierno antes del nombramiento del Fiscal General del Estado.
+2.ª Participar, en los términos legalmente previstos, en la selección de Jueces y Magistrados.
+3.ª Resolver lo que proceda en materia de formación y perfeccionamiento, provisión de destinos, ascensos reglados, situaciones administrativas y régimen disciplinario de Jueces y Magistrados.
+4.ª Ejercer la alta inspección de Tribunales, así como la supervisión y coordinación de la actividad inspectora ordinaria de los Presidentes y Salas de Gobierno de los Tribunales.
+5.ª Cuidar de la publicación oficial de las sentencias y demás resoluciones que se determinen del Tribunal Supremo y del resto de órganos judiciales.
+6.ª Garantizar el funcionamiento y actualizar los programas formativos de la Escuela Judicial.
+7.ª Ejercer la potestad reglamentaria en las siguientes materias:
+a) Publicidad de las actuaciones judiciales.
+b) Publicación y reutilización de las resoluciones judiciales.
+c) Habilitación de días y horas, así como fijación de horas de audiencia pública.
+d) Constitución de los órganos judiciales fuera de su sede.
+e) Régimen de guardias de los órganos jurisdiccionales.
+f) Organización y gestión de la actuación de los órganos judiciales españoles en materia de cooperación jurisdiccional interna e internacional.
+g) Condiciones accesorias para el ejercicio de los derechos y deberes que conforman el estatuto de Jueces y Magistrados, así como el régimen jurídico de las Asociaciones judiciales, sin que tal desarrollo reglamentario pueda suponer innovación o alteración alguna de la regulación legal.
+8.ª Aprobar la relación de puestos de trabajo del personal funcionario a su servicio.
+9.ª Colaborar con la Autoridad de Control en materia de protección de datos en el ámbito de la Administración de Justicia.
+10.ª Recibir quejas de los ciudadanos en materias relacionadas con la Administración de Justicia.
+11.ª Elaborar y ejecutar su propio presupuesto, en los términos previstos en la presente Ley Orgánica.
+12.ª Proponer, previa justificación de la necesidad, las medidas de refuerzo que sean precisas en concretos órganos judiciales.
+13.ª Emitir informe en los expedientes de responsabilidad patrimonial por anormal funcionamiento de la Administración de Justicia.
+14.ª Recopilar y actualizar los Principios de Ética Judicial y proceder a su divulgación, así como a su promoción con otras entidades y organizaciones judiciales, nacionales o internacionales.
+15.ª Elaborar los informes sobre los anteproyectos de ley y disposiciones generales que en virtud de lo dispuesto en el artículo 561 le correspondan.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, el Consejo en funciones podrá realizar aquellas otras actuaciones que sean indispensables para garantizar el funcionamiento ordinario del órgano.»
+Dos. Se introduce un nuevo artículo 598 bis con la siguiente redacción:
+«Artículo 598 bis.
+Cuando el Consejo General del Poder Judicial se encuentre en funciones, según lo previsto en el artículo 570.2, su Presidencia no podrá acordar el cese del Secretario General ni del Vicesecretario General del Consejo General del Poder Judicial.»
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
+Madrid, 29 de marzo de 2021.
+FELIPE R.
+El Presidente del Gobierno,
+PEDRO SÁNCHEZ PÉREZ-CASTEJÓN

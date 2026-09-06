@@ -1,0 +1,1073 @@
+# Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+
+- Identificador BOE: `BOE-A-1996-1069`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
+EXPOSICIÓN DE MOTIVOS
+1
+La Constitución Española de 1978 al enumerar, en el capítulo III del Título I, los principios rectores de la política social y económica, hace mención en primer lugar a la obligación de los Poderes Públicos de asegurar la protección social, económica y jurídica de la familia y dentro de ésta, con carácter singular, la de los menores.
+Esta preocupación por dotar al menor de un adecuado marco jurídico de protección trasciende también de diversos Tratados Internacionales ratificados en los últimos años por España y, muy especialmente, de la Convención de Derechos del Niño, de Naciones Unidas, de 20 de noviembre de 1989, ratificada por España el 30 de noviembre de 1990, que marca el inicio de una nueva filosofía en relación con el menor, basada en un mayor reconocimiento del papel que éste desempeña en la sociedad y en la exigencia de un mayor protagonismo para el mismo.
+Esta necesidad ha sido compartida por otras instancias internacionales, como el Parlamento Europeo que, a través de la Resolución A 3-0172/92, aprobó la Carta Europea de los Derechos del Niño.
+Consecuente con el mandato constitucional y con la tendencia general apuntada, se ha llevado a cabo, en los últimos años, un importante proceso de renovación de nuestro ordenamiento jurídico en materia de menores.
+Primero fue la Ley 11/1981, de 13 de mayo, de modificación de la Filiación, Patria Potestad y Régimen Económico del Matrimonio, que suprimió la distinción entre filiación legítima e ilegítima, equiparó al padre y a la madre a efectos del ejercicio de la patria potestad e introdujo la investigación de la paternidad.
+Después se han promulgado, entre otras, las Leyes 13/1983, de 24 de octubre, sobre la tutela; la Ley 21/1987, de 11 de noviembre, por la que se modifican determinados artículos del Código Civil y de la Ley de Enjuiciamiento Civil en materia de adopción; la Ley Orgánica 5/1988, de 9 de junio, sobre exhibicionismo y provocación sexual en relación con los menores; la Ley Orgánica 4/1992, de 5 de junio, sobre reforma de la Ley reguladora de la competencia y el procedimiento de los Juzgados de Menores; y la Ley 25/1994, de 12 de julio, por la que se incorpora al ordenamiento jurídico español la Directiva 89/552/CEE, sobre la coordinación de disposiciones legales reglamentarias y administrativas de los Estados miembros relativas al ejercicio de actividades de radiodifusión televisiva.
+De las Leyes citadas, la 21/1987, de 11 de noviembre, es la que, sin duda, ha introducido cambios más sustanciales en el ámbito de la protección del menor.
+A raíz de la misma, el anticuado concepto de abandono fue sustituido por la institución del desamparo, cambio que ha dado lugar a una considerable agilización de los procedimientos de protección del menor al permitir la asunción automática, por parte de la entidad pública competente, de la tutela de aquél en los supuestos de desprotección grave del mismo.
+Asimismo, introdujo la consideración de la adopción como un elemento de plena integración familiar, la configuración del acogimiento familiar como una nueva institución de protección del menor, la generalización del interés superior del menor como principio inspirador de todas las actuaciones relacionadas con aquél, tanto administrativas como judiciales; y el incremento de las facultades del Ministerio Fiscal en relación con los menores, así como de sus correlativas obligaciones.
+No obstante, y pese al indudable avance que esta Ley supuso y a las importantes innovaciones que introdujo, su aplicación ha ido poniendo de manifiesto determinadas lagunas, a la vez que el tiempo transcurrido desde su promulgación ha hecho surgir nuevas necesidades y demandas en la sociedad.
+Numerosas instituciones, tanto públicas como privadas -las dos Cámaras Parlamentarias, el Defensor del Pueblo, el Fiscal General del Estado y diversas asociaciones relacionadas con los menores-, se han hecho eco de estas demandas, trasladando al Gobierno la necesidad de adecuar el ordenamiento a la realidad de nuestra sociedad actual.
+2
+La presente Ley pretende ser la primera respuesta a estas demandas, abordando una reforma en profundidad de las tradicionales instituciones de protección del menor reguladas en el Código Civil.
+En este sentido -y aunque el núcleo central de la Ley lo constituye, como no podía ser de otra forma, la modificación de los correspondientes preceptos del citado Código-, su contenido trasciende los límites de éste para construir un amplio marco jurídico de protección que vincula a todos los Poderes Públicos, a las instituciones específicamente relacionadas con los menores, a los padres y familiares y a los ciudadanos en general.
+Las transformaciones sociales y culturales operadas en nuestra sociedad han provocado un cambio en el status social del niño y como consecuencia de ello se ha dado un nuevo enfoque a la construcción del edificio de los derechos humanos de la infancia.
+Este enfoque reformula la estructura del derecho a la protección de la infancia vigente en España y en la mayoría de los países desarrollados desde finales del siglo XX, y consiste fundamentalmente en el reconocimiento pleno de la titularidad de derechos en los menores de edad y de una capacidad progresiva para ejercerlos.
+El desarrollo legislativo postconstitucional refleja esta tendencia, introduciendo la condición de sujeto de derechos a las personas menores de edad. Así, el concepto «ser escuchado si tuviere suficiente juicio» se ha ido trasladando a todo el ordenamiento jurídico en todas aquellas cuestiones que le afectan. Este concepto introduce la dimensión del desarrollo evolutivo en el ejercicio directo de sus derechos.
+Las limitaciones que pudieran derivarse del hecho evolutivo deben interpretarse de forma restrictiva. Más aún, esas limitaciones deben centrarse más en los procedimientos, de tal manera que se adoptarán aquéllos que sean más adecuados a la edad del sujeto.
+El ordenamiento jurídico, y esta Ley en particular, va reflejando progresivamente una concepción de las personas menores de edad como sujetos activos, participativos y creativos, con capacidad de modificar su propio medio personal y social; de participar en la búsqueda y satisfacción de sus necesidades y en la satisfacción de las necesidades de los demás.
+El conocimiento científico actual nos permite concluir que no existe una diferencia tajante entre las necesidades de protección y las necesidades relacionadas con la autonomía del sujeto, sino que la mejor forma de garantizar social y jurídicamente la protección a la infancia es promover su autonomía como sujetos. De esta manera podrán ir construyendo progresivamente una percepción de control acerca de su situación personal y de su proyección de futuro. Este es el punto crítico de todos los sistemas de protección a la infancia en la actualidad. Y, por lo tanto, es el reto para todos los ordenamientos jurídicos y los dispositivos de promoción y protección de las personas menores de edad. Esta es la concepción del sujeto sobre la que descansa la presente Ley: las necesidades de los menores como eje de sus derechos y de su protección.
+El Título I comienza enunciando un reconocimiento general de derechos contenidos en los Tratados Internacionales de los que España es parte, que además deben ser utilizados como mecanismo de interpretación de las distintas normas de aplicación a las personas menores de edad.
+Por otra parte, del conjunto de derechos de los menores, se ha observado la necesidad de matizar algunos de ellos, combinando, por una parte, la posibilidad de su ejercicio con la necesaria protección que, por razón de la edad, los menores merecen.
+Así, con el fin de reforzar los mecanismos de garantía previstos en la Ley Orgánica 1/1982, de 5 de mayo, de Protección Civil del Derecho al Honor, a la Intimidad Personal y Familiar y a la Propia Imagen, se prohíbe la difusión de datos o imágenes referidos a menores de edad en los medios de comunicación cuando sea contrario a su interés, incluso cuando conste el consentimiento del menor. Con ello se pretende proteger al menor, que puede ser objeto de manipulación incluso por sus propios representantes legales o grupos en que se mueve. Completa esta modificación la legitimación activa al Ministerio Fiscal.
+El derecho a la participación de los menores también se ha recogido expresamente en el articulado, con referencia al derecho a formar parte de asociaciones y a promover asociaciones infantiles y juveniles, con ciertos requisitos, que se completa con el derecho a participar en reuniones públicas y manifestaciones pacíficas, estableciéndose el requisito de la autorización de los padres, tutores o guardadores.
+La Ley regula los principios generales de actuación frente a situaciones de desprotección social, incluyendo la obligación de la entidad pública de investigar los hechos que conozca para corregir la situación mediante la intervención de los Servicios Sociales o, en su caso, asumiendo la tutela del menor por ministerio de la ley.
+De igual modo, se establece la obligación de toda persona que detecte una situación de riesgo o posible desamparo de un menor, de prestarle auxilio inmediato y de comunicar el hecho a la autoridad o sus agentes más próximos. Con carácter específico se prevé, asimismo, el deber de los ciudadanos de comunicar a las autoridades públicas competentes la ausencia del menor, de forma habitual o sin justificación, del centro escolar.
+De innovadora se puede calificar la distinción, dentro de las situaciones de desprotección social del menor, entre situaciones de riesgo y de desamparo que dan lugar a un grado distinto de intervención de la entidad pública. Mientras en las situaciones de riesgo, caracterizadas por la existencia de un perjuicio para el menor que no alcanza la gravedad suficiente para justificar su separación del núcleo familiar, la citada intervención se limita a intentar eliminar, dentro de la institución familiar, los factores de riesgo, en las situaciones de desamparo, donde la gravedad de los hechos aconseja la extracción del menor de la familia, aquélla se concreta en la asunción por la entidad pública de la tutela del menor y la consiguiente suspensión de la patria potestad o tutela ordinaria.
+Subyace a lo largo de la Ley una preocupación basada en la experiencia extraída de la aplicación de la Ley 21/1987, por agilizar y clarificar los trámites de los procedimientos administrativos y judiciales que afectan al menor, con la finalidad de que éste no quede indefenso o desprotegido en ningún momento.
+Esta es la razón por la que, además de establecerse como principio general, el de que toda actuación habrá de tener fundamentalmente en cuenta el interés del menor y no interferir en su vida escolar, social o laboral, se determina que las resoluciones que aprecien la existencia de la situación de desamparo deberán notificarse a los padres, tutores y guardadores, en un plazo de cuarenta y ocho horas, informándoles, asimismo, y, a ser posible, de forma presencial y de modo claro y comprensible, de las causas que dieron lugar a la intervención de la Administración y de los posibles efectos de la decisión adoptada.
+Respecto a las medidas que los Jueces pueden adoptar para evitar situaciones perjudiciales para los hijos, que contempla actualmente el Código Civil en el artículo 158, se amplían a todos los menores, y a situaciones que exceden del ámbito de las relaciones paterno-filiales, haciéndose extensivas a las derivadas de la tutela y de la guarda, y se establece la posibilidad de que el Juez las adopte con carácter cautelar al inicio o en el curso de cualquier proceso civil o penal.
+En definitiva, se trata de consagrar un principio de agilidad e inmediatez en todos los procedimientos tanto administrativos como judiciales que afectan a menores para evitar perjuicios innecesarios que puedan derivar de la rigidez de aquéllos.
+Mención especial merece el acogimiento familiar, figura que introdujo la Ley 21/1987. Este puede constituirse por la entidad pública competente cuando concurre el consentimiento de los padres. En otro caso, debe dirigirse al Juez para que sea éste quien constituya el acogimiento. La aplicación de este precepto ha obligado, hasta ahora, a las entidades públicas a internar a los menores en algún centro, incluso en aquellos casos en los que la familia extensa ha manifestado su intención de acoger al menor, por no contar con la voluntad de los padres con el consiguiente perjuicio psicológico y emocional que ello lleva consigo para los niños, que se ven privados innecesariamente de la permanencia en un ambiente familiar.
+Para remediar esta situación, la presente Ley recoge la posibilidad de que la entidad pública pueda acordar en interés del menor un acogimiento provisional en familia. Este podrá ser acordado por la entidad pública cuando los padres no consientan o se opongan al acogimiento, y subsistirá mientras se tramita el necesario expediente, en tanto no se produzca resolución judicial. De esta manera, se facilita la constitución del acogimiento de aquellos niños sobre los que sus padres han mostrado el máximo desinterés.
+Hasta ahora, la legislación concebía el acogimiento como una situación temporal y por tanto la regulación del mismo no hacía distinciones respecto a las distintas circunstancias en que podía encontrarse el menor, dando siempre a la familia acogedora una autonomía limitada en cuanto al cuidado del menor.
+Una reflexión que actualmente se está haciendo en muchos países es si las instituciones jurídicas de protección de menores dan respuesta a la diversidad de situaciones de desprotección en la que éstos se encuentran. La respuesta es que tanto la diversificación de instituciones jurídicas como la flexibilización de las prácticas profesionales, son indispensables para mejorar cualitativamente los sistemas de protección a la infancia. Esta Ley opta en esta dirección, flexibilizando la acogida familiar y adecuando el marco de relaciones entre los acogedores y el menor acogido en función de la estabilidad de la acogida.
+Atendiendo a la finalidad del mismo, se recogen tres tipos de acogimiento. Junto al acogimiento simple, cuando se dan las condiciones de temporalidad, en las que es relativamente previsible el retorno del menor a su familia, se introduce la posibilidad de constituirlo con carácter permanente, en aquellos casos en los que la edad u otras circunstancias del menor o su familia aconsejan dotarlo de una mayor estabilidad, ampliando la autonomía de la familia acogedora respecto a las funciones derivadas del cuidado del menor, mediante la atribución por el Juez de aquellas facultades de la tutela que faciliten el desempeño de sus responsabilidades. También se recoge expresamente la modalidad del acogimiento preadoptivo que en la Ley 21/1987 aparecía únicamente en la exposición de motivos, y que también existe en otras legislaciones. Esta Ley prevé la posibilidad de establecer un período preadoptivo, a través de la formalización de un acogimiento con esta finalidad, bien sea porque la entidad pública eleve la propuesta de adopción de un menor o cuando considere necesario establecer un período de adaptación del menor a la familia antes de elevar al Juez dicha propuesta.
+Con ello, se subsanan las insuficiencias de que adolecía el artículo 173.1 del Código Civil diferenciando entre los distintos tipos de acogimiento en función de que la situación de la familia pueda mejorar y que el retorno del menor no implique riesgos para éste, que las circunstancias aconsejen que se constituya con carácter permanente, o que convenga constituirlo con carácter preadoptivo. También se contemplan los extremos que deben recogerse en el documento de formalización que el Código Civil exige.
+En materia de adopción, la Ley introduce la exigencia del requisito de idoneidad de los adoptantes, que habrá de ser apreciado por la entidad pública, si es ésta la que formula la propuesta, o directamente por el Juez, en otro caso. Este requisito, si bien no estaba expresamente establecido en nuestro derecho positivo, su exigencia aparece explícitamente en la Convención de los Derechos del Niño y en el Convenio de La Haya sobre protección de menores y cooperación en materia de adopción internacional y se tenía en cuenta en la práctica en los procedimientos de selección de familias adoptantes.
+La Ley aborda la regulación de la adopción internacional. En los últimos años se ha producido un aumento considerable de las adopciones de niños extranjeros por parte de adoptantes españoles. En el momento de la elaboración de la Ley 21/1987 no era un fenómeno tan extendido y no había suficiente perspectiva para abordarlo en dicha reforma. La Ley diferencia las funciones que han de ejercer directamente las entidades públicas de aquellas funciones de mediación que puedan delegar en agencias privadas que gocen de la correspondiente acreditación. Asimismo, establece las condiciones y requisitos para la acreditación de estas agencias, entre los que es de destacar la ausencia de fin de lucro por parte de las mismas.
+Además se modifica el artículo 9.5 del Código Civil estableciendo la necesidad de la idoneidad de los adoptantes para la eficacia en nuestro país de las adopciones constituidas en el extranjero, dando de esta manera cumplimiento al compromiso adquirido en el momento de la ratificación de la Convención de Derechos del Niño de Naciones Unidas que obliga a los Estados Parte a velar porque los niños o niñas que sean adoptados en otro país gocen de los mismos derechos que los nacionales en la adopción.
+Finalmente, se abordan también en la presente Ley algunos aspectos de la tutela, desarrollando aquellos artículos del Código Civil que requieren matizaciones cuando afecten a menores de edad. Así, la tutela de un menor de edad debe tender, cuando sea posible, a la integración del menor en la familia del tutor. Además se introduce como causa de remoción la existencia de graves y reiterados problemas de convivencia y se da en este procedimiento audiencia al menor.
+En todo el texto aparece reforzada la intervención del Ministerio Fiscal, siguiendo la tendencia iniciada con la Ley 21/1987, ampliando los cauces de actuación de esta institución, a la que, por su propio Estatuto, corresponde la representación de los menores e incapaces que carezcan de representación legal.
+Otra cuestión que se aborda en la Ley es el internamiento del menor en centro psiquiátrico y que con el objetivo de que se realice con las máximas garantías por tratarse de un menor de edad, se somete a la autorización judicial previa y a las reglas del artículo 211 del Código Civil, con informe preceptivo del Ministerio Fiscal, equiparando, a estos efectos, el menor al presunto incapaz y no considerando válido el consentimiento de sus padres para que el internamiento se considere voluntario, excepción hecha del internamiento de urgencia.
+3
+La Ley pretende ser respetuosa con el reparto constitucional y estatutario de competencias entre Estado y Comunidades Autónomas.
+En este sentido, la Ley regula aspectos relativos a la legislación civil y procesal y a la Administración de Justicia, para los que goza de habilitación constitucional específica en los apartados 5.º, 6.º y 8.º del artículo 149.1.
+No obstante, se dejan a salvo, en una disposición final específica, las competencias de las Comunidades Autónomas que dispongan de Derecho Civil, Foral o especial propio, para las que la Ley se declara subsidiaria respecto de las disposiciones específicas vigentes en aquéllas.
+Asimismo, cuando se hace referencia a competencias de carácter administrativo, se especifica que las mismas corresponden a las Comunidades Autónomas y a las ciudades de Ceuta y Melilla, de conformidad con el reparto constitucional de competencias y las asumidas por aquéllas en sus respectivos Estatutos.
+4
+Por último se incorpora a la Ley la modificación de una serie de artículos del Código Civil con el fin de depurar los desajustes gramaticales y de contenido producidos por las sucesivas reformas parciales operadas en el Código.
+Al margen de otras reformas que tan sólo afectaron tangencialmente a la institución de la tutela, la Ley 13/1983, de 24 de octubre, modificó el Título X del Libro I del Código Civil, rubricado «De la tutela, de la curatela y de la guarda de los menores o incapacitados» y mejoró el régimen de la tutela ordinaria que ya contemplaba el Código Civil. Asimismo, la Ley 21/1987, de 11 de noviembre, dio una nueva redacción a los artículos que regulan la tutela asumida por ministerio de la ley por las entidades públicas y cuya reforma ahora se aborda.
+La coexistencia de estas dos vertientes de la institución de la tutela demanda una armonía interna en el Código Civil que la Sección Primera, de Derecho Privado, de la Comisión General de Codificación ha cubierto a través de la modificación de los artículos citados que, tras la reforma de 1983, ya resultaban incoherentes o de compleja aplicación práctica.
+De este modo, y dado que la Ley tiene como objetivo básico la protección de los menores de edad a través de la tutela administrativa se ha incorporado la modificación de otros artículos en su gran mayoría conexos con esta materia.
+
+## TÍTULO I
+
+De los derechos y deberes de los menores
+Se modifica la rúbrica por el art. 1.1 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+## CAPÍTULO I
+
+Ámbito e interés superior del menor
+Se modifica la rúbrica por el art. 1.1 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 1
+
+Artículo 1. Ambito de aplicación.
+La presente Ley y sus disposiciones de desarrollo son de aplicación a los menores de dieciocho años que se encuentren en territorio español, salvo que en virtud de la ley que les sea aplicable hayan alcanzado anteriormente la mayoría de edad.
+
+### Artículo 2
+
+Artículo 2. Interés superior del menor.
+1. Todo menor tiene derecho a que su interés superior sea valorado y considerado como primordial en todas las acciones y decisiones que le conciernan, tanto en el ámbito público como privado. En la aplicación de la presente ley y demás normas que le afecten, así como en las medidas concernientes a los menores que adopten las instituciones, públicas o privadas, los Tribunales, o los órganos legislativos primará el interés superior de los mismos sobre cualquier otro interés legítimo que pudiera concurrir.
+Las limitaciones a la capacidad de obrar de los menores se interpretarán de forma restrictiva y, en todo caso, siempre en el interés superior del menor.
+2. A efectos de la interpretación y aplicación en cada caso del interés superior del menor, se tendrán en cuenta los siguientes criterios generales, sin perjuicio de los establecidos en la legislación específica aplicable, así como de aquellos otros que puedan estimarse adecuados atendiendo a las circunstancias concretas del supuesto:
+a) La protección del derecho a la vida, supervivencia y desarrollo del menor y la satisfacción de sus necesidades básicas, tanto materiales, físicas y educativas como emocionales y afectivas.
+b) La consideración de los deseos, sentimientos y opiniones del menor, así como su derecho a participar progresivamente, en función de su edad, madurez, desarrollo y evolución personal, en el proceso de determinación de su interés superior.
+c) La conveniencia de que su vida y desarrollo tenga lugar en un entorno familiar adecuado y libre de violencia. Se priorizará la permanencia en su familia de origen y se preservará el mantenimiento de sus relaciones familiares, siempre que sea posible y positivo para el menor. En caso de acordarse una medida de protección, se priorizará el acogimiento familiar frente al residencial. Cuando el menor hubiera sido separado de su núcleo familiar, se valorarán las posibilidades y conveniencia de su retorno, teniendo en cuenta la evolución de la familia desde que se adoptó la medida protectora y primando siempre el interés y las necesidades del menor sobre las de la familia.
+d) La preservación de la identidad, cultura, religión, convicciones, orientación e identidad sexual o idioma del menor, así como la no discriminación del mismo por éstas o cualesquiera otras condiciones, incluida la discapacidad, garantizando el desarrollo armónico de su personalidad.
+3. Estos criterios se ponderarán teniendo en cuenta los siguientes elementos generales:
+a) La edad y madurez del menor.
+b) La necesidad de garantizar su igualdad y no discriminación por su especial vulnerabilidad, ya sea por la carencia de entorno familiar, sufrir maltrato, su discapacidad, su orientación e identidad sexual, su condición de refugiado, solicitante de asilo o protección subsidiaria, su pertenencia a una minoría étnica, o cualquier otra característica o circunstancia relevante.
+c) El irreversible efecto del transcurso del tiempo en su desarrollo.
+d) La necesidad de estabilidad de las soluciones que se adopten para promover la efectiva integración y desarrollo del menor en la sociedad, así como de minimizar los riesgos que cualquier cambio de situación material o emocional pueda ocasionar en su personalidad y desarrollo futuro.
+e) La preparación del tránsito a la edad adulta e independiente, de acuerdo con sus capacidades y circunstancias personales.
+f) Aquellos otros elementos de ponderación que, en el supuesto concreto, sean considerados pertinentes y respeten los derechos de los menores.
+Los anteriores elementos deberán ser valorados conjuntamente, conforme a los principios de necesidad y proporcionalidad, de forma que la medida que se adopte en el interés superior del menor no restrinja o limite más derechos que los que ampara.
+4. En caso de concurrir cualquier otro interés legítimo junto al interés superior del menor deberán priorizarse las medidas que, respondiendo a este interés, respeten también los otros intereses legítimos presentes.
+En caso de que no puedan respetarse todos los intereses legítimos concurrentes, deberá primar el interés superior del menor sobre cualquier otro interés legítimo que pudiera concurrir.
+Las decisiones y medidas adoptadas en interés superior del menor deberán valorar en todo caso los derechos fundamentales de otras personas que pudieran verse afectados.
+5. Toda resolución de cualquier orden jurisdiccional y toda medida en el interés superior de la persona menor de edad deberá ser adoptada respetando las debidas garantías del proceso y, en particular:
+a) Los derechos del menor a ser informado, oído y escuchado, y a participar en el proceso de acuerdo con la normativa vigente.
+b) La intervención en el proceso de profesionales cualificados o expertos. En caso necesario, estos profesionales han de contar con la formación suficiente para determinar las específicas necesidades de los niños con discapacidad. En las decisiones especialmente relevantes que afecten al menor se contará con el informe colegiado de un grupo técnico y multidisciplinar especializado en los ámbitos adecuados.
+c) La participación de progenitores, tutores o representantes legales del menor o de un defensor judicial si hubiera conflicto de interés o discrepancia con ellos y del Ministerio Fiscal en el proceso en defensa de sus intereses. Se presumirá que existe un conflicto de interés cuando la opinión de la persona menor de edad sea contraria a la medida que se adopte sobre ella o suponga una restricción de sus derechos.
+d) La adopción de una decisión que incluya en su motivación los criterios utilizados, los elementos aplicados al ponderar los criterios entre sí y con otros intereses presentes y futuros, y las garantías procesales respetadas.
+e) La existencia de recursos que permitan revisar la decisión adoptada que no haya considerado el interés superior del menor como primordial o en el caso en que el propio desarrollo del menor o cambios significativos en las circunstancias que motivaron dicha decisión hagan necesario revisarla. Los menores gozarán del derecho a la asistencia jurídica gratuita en los casos legalmente previstos.
+Se modifica el primer párrafo y la letra c) del apartado 5 por la disposición final 8.1 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se modifica por el art. 1.2 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+## CAPÍTULO II
+
+Derechos del menor
+
+### Artículo 3
+
+Artículo 3. Referencia a Instrumentos Internacionales.
+Los menores gozarán de los derechos que les reconoce la Constitución y los Tratados Internacionales de los que España sea parte, especialmente la Convención de Derechos del Niño de Naciones Unidas y la Convención de Derechos de las Personas con Discapacidad, y de los demás derechos garantizados en el ordenamiento jurídico, sin discriminación alguna por razón de nacimiento, nacionalidad, raza, sexo, discapacidad o enfermedad, religión, lengua, cultura, opinión o cualquier otra circunstancia personal, familiar o social.
+La presente ley, sus normas de desarrollo y demás disposiciones legales relativas a las personas menores de edad, se interpretarán de conformidad con los Tratados Internacionales de los que España sea parte y, especialmente, de acuerdo con la Convención de los Derechos del Niño de Naciones Unidas y la Convención de Derechos de las Personas con Discapacidad.
+Los poderes públicos garantizarán el respeto de los derechos de los menores y adecuarán sus actuaciones a la presente ley y a la mencionada normativa internacional.
+Se modifica por el art. 1.3 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 4
+
+Artículo 4. Derecho al honor, a la intimidad y a la propia imagen.
+1. Los menores tienen derecho al honor, a la intimidad personal y familiar y a la propia imagen. Este derecho comprende también la inviolabilidad del domicilio familiar y de la correspondencia, así como del secreto de las comunicaciones.
+2. La difusión de información o la utilización de imágenes o nombre de los menores en los medios de comunicación que puedan implicar una intromisión ilegítima en su intimidad, honra o reputación, o que sea contraria a sus intereses, determinará la intervención del Ministerio Fiscal, que instará de inmediato las medidas cautelares y de protección previstas en la Ley y solicitará las indemnizaciones que correspondan por los perjuicios causados.
+3. Se considera intromisión ilegítima en el derecho al honor, a la intimidad personal y familiar y a la propia imagen del menor, cualquier utilización de su imagen o su nombre en los medios de comunicación que pueda implicar menoscabo de su honra o reputación, o que sea contraria a sus intereses incluso si consta el consentimiento del menor o de sus representantes legales.
+4. Sin perjuicio de las acciones de las que sean titulares los representantes legales del menor, corresponde en todo caso al Ministerio Fiscal su ejercicio, que podrá actuar de oficio o a instancia del propio menor o de cualquier persona interesada, física, jurídica o entidad pública.
+5. Los padres o tutores y los poderes públicos respetarán estos derechos y los protegerán frente a posibles ataques de terceros.
+
+### Artículo 5
+
+Artículo 5. Derecho a la información.
+1. Los menores tienen derecho a buscar, recibir y utilizar la información adecuada a su desarrollo. Se prestará especial atención a la alfabetización digital y mediática, de forma adaptada a cada etapa evolutiva, que permita a los menores actuar en línea con seguridad y responsabilidad y, en particular, identificar situaciones de riesgo derivadas de la utilización de las nuevas tecnologías de la información y la comunicación así como las herramientas y estrategias para afrontar dichos riesgos y protegerse de ellos.
+2. Los padres o tutores y los poderes públicos velarán porque la información que reciban los menores sea veraz, plural y respetuosa con los principios constitucionales.
+3. Las Administraciones Públicas incentivarán la producción y difusión de materiales informativos y otros destinados a los menores, que respeten los criterios enunciados, al mismo tiempo que facilitarán el acceso de los menores a los servicios de información, documentación, bibliotecas y demás servicios culturales incluyendo una adecuada sensibilización sobre la oferta legal de ocio y cultura en Internet y sobre la defensa de los derechos de propiedad intelectual.
+En particular, velarán porque los medios de comunicación en sus mensajes dirigidos a menores promuevan los valores de igualdad, solidaridad, diversidad y respeto a los demás, eviten imágenes de violencia, explotación en las relaciones interpersonales, o que reflejen un trato degradante o sexista, o un trato discriminatorio hacia las personas con discapacidad. En el ámbito de la autorregulación, las autoridades y organismos competentes impulsarán entre los medios de comunicación, la generación y supervisión del cumplimiento de códigos de conducta destinados a salvaguardar la promoción de los valores anteriormente descritos, limitando el acceso a imágenes y contenidos digitales lesivos para los menores, a tenor de lo contemplado en los códigos de autorregulación de contenidos aprobados. Se garantizará la accesibilidad, con los ajustes razonables precisos, de dichos materiales y servicios, incluidos los de tipo tecnológico, para los menores con discapacidad.
+Los poderes públicos y los prestadores fomentarán el disfrute pleno de la comunicación audiovisual para los menores con discapacidad y el uso de buenas prácticas que evite cualquier discriminación o repercusión negativa hacia dichas personas.
+4. Para garantizar que la publicidad o mensajes dirigidos a menores o emitidos en la programación dirigida a éstos, no les perjudique moral o físicamente, podrá ser regulada por normas especiales.
+5. Sin perjuicio de otros sujetos legitimados, corresponde en todo caso al Ministerio Fiscal y a las Administraciones públicas competentes en materia de protección de menores el ejercicio de las acciones de cese y rectificación de publicidad ilícita.
+Se modifican los apartados 1 y 3 por el art. 1.2 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 6
+
+Artículo 6. Libertad ideológica.
+1. El menor tiene derecho a la libertad de ideología, conciencia y religión.
+2. El ejercicio de los derechos dimanantes de esta libertad tiene únicamente las limitaciones prescritas por la Ley y el respeto de los derechos y libertades fundamentales de los demás.
+3. Los padres o tutores tienen el derecho y el deber de cooperar para que el menor ejerza esta libertad de modo que contribuya a su desarrollo integral.
+
+### Artículo 7
+
+Artículo 7. Derecho de participación, asociación y reunión.
+1. Los menores tienen derecho a participar plenamente en la vida social, cultural, artística y recreativa de su entorno, así como a una incorporación progresiva a la ciudadanía activa.
+Los poderes públicos promoverán la constitución de órganos de participación de los menores y de las organizaciones sociales de infancia y adolescencia.
+Se garantizará la accesibilidad de los entornos y la provisión de ajustes razonables para que los menores con discapacidad puedan desarrollar su vida social, cultural, artística y recreativa.
+2. Los menores tienen el derecho de asociación que, en especial, comprende:
+a) El derecho a formar parte de asociaciones y organizaciones juveniles de los partidos políticos y sindicatos, de acuerdo con la Ley y los Estatutos.
+b) El derecho a promover asociaciones infantiles y juveniles e inscribirlas de conformidad con la Ley. Los menores podrán formar parte de los órganos directivos de estas asociaciones.
+Para que las asociaciones infantiles y juveniles puedan obligarse civilmente, deberán haber nombrado, de acuerdo con sus Estatutos, un representante legal con plena capacidad.
+Cuando la pertenencia de un menor o de sus padres a una asociación impida o perjudique al desarrollo integral del menor, cualquier interesado, persona física o jurídica, o entidad pública, podrá dirigirse al Ministerio Fiscal para que promueva las medidas jurídicas de protección que estime necesarias.
+3. Los menores tienen derecho a participar en reuniones públicas y manifestaciones pacíficas, convocadas en los términos establecidos por la Ley.
+En iguales términos, tienen también derecho a promoverlas y convocarlas con el consentimiento expreso de sus padres, tutores o guardadores.
+Se modifica el apartado 1 por el art. 1.3 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 8
+
+Artículo 8. Derecho a la libertad de expresión.
+1. Los menores gozan del derecho a la libertad de expresión en los términos constitucionalmente previstos. Esta libertad de expresión tiene también su límite en la protección de la intimidad y la imagen del propio menor recogida en el artículo 4 de esta Ley.
+2. En especial, el derecho a la libertad de expresión de los menores se extiende:
+a) A la publicación y difusión de sus opiniones.
+b) A la edición y producción de medios de difusión.
+c) Al acceso a las ayudas que las Administraciones públicas establezcan con tal fin.
+3. El ejercicio de este derecho podrá estar sujeto a las restricciones que prevea la Ley para garantizar el respeto de los derechos de los demás o la protección de la seguridad, salud, moral u orden público.
+
+### Artículo 9
+
+Artículo 9. Derecho a ser oído y escuchado.
+1. El menor tiene derecho a ser oído y escuchado sin discriminación alguna por edad, discapacidad o cualquier otra circunstancia, tanto en el ámbito familiar como en cualquier procedimiento administrativo, judicial o de mediación en que esté afectado y que conduzca a una decisión que incida en su esfera personal, familiar o social, teniéndose debidamente en cuenta sus opiniones, en función de su edad y madurez. Para ello, el menor deberá recibir la información que le permita el ejercicio de este derecho en un lenguaje comprensible, en formatos accesibles y adaptados a sus circunstancias.
+En los procedimientos judiciales o administrativos, las comparecencias o audiencias del menor tendrán carácter preferente, y se realizarán de forma adecuada a su situación y desarrollo evolutivo, con la asistencia, si fuera necesario, de profesionales cualificados o expertos, cuidando preservar su intimidad y utilizando un lenguaje que sea comprensible para él, en formatos accesibles y adaptados a sus circunstancias informándole tanto de lo que se le pregunta como de las consecuencias de su opinión, con pleno respeto a todas las garantías del procedimiento.
+2. Se garantizará que el menor, cuando tenga suficiente madurez, pueda ejercitar este derecho por sí mismo o a través de la persona que designe para que le represente. La madurez habrá de valorarse por personal especializado, teniendo en cuenta tanto el desarrollo evolutivo del menor como su capacidad para comprender y evaluar el asunto concreto a tratar en cada caso. Se considera, en todo caso, que tiene suficiente madurez cuando tenga doce años cumplidos.
+Para garantizar que el menor pueda ejercitar este derecho por sí mismo será asistido, en su caso, por intérpretes. El menor podrá expresar su opinión verbalmente o a través de formas no verbales de comunicación.
+No obstante, cuando ello no sea posible o no convenga al interés del menor se podrá conocer la opinión del menor por medio de sus representantes legales, siempre que no tengan intereses contrapuestos a los suyos, o a través de otras personas que, por su profesión o relación de especial confianza con él, puedan transmitirla objetivamente.
+3. Siempre que en vía administrativa o judicial se deniegue la comparecencia o audiencia de los menores directamente o por medio de persona que le represente, la resolución será motivada en el interés superior del menor y comunicada al Ministerio Fiscal, al menor y, en su caso, a su representante, indicando explícitamente los recursos existentes contra tal decisión. En las resoluciones sobre el fondo habrá de hacerse constar, en su caso, el resultado de la audiencia al menor, así como su valoración.
+Se modifica por el art. 1.4 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+## CAPÍTULO III
+
+Deberes del menor
+Se añade por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 9 bis
+
+Artículo 9 bis. Deberes de los menores.
+1. Los menores, de acuerdo a su edad y madurez, deberán asumir y cumplir los deberes, obligaciones y responsabilidades inherentes o consecuentes a la titularidad y al ejercicio de los derechos que tienen reconocidos en todos los ámbitos de la vida, tanto familiar, escolar como social.
+2. Los poderes públicos promoverán la realización de acciones dirigidas a fomentar el conocimiento y cumplimiento de los deberes y responsabilidades de los menores en condiciones de igualdad, no discriminación y accesibilidad universal.
+Se añade por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 9 ter
+
+Artículo 9 ter. Deberes relativos al ámbito familiar.
+1. Los menores deben participar en la vida familiar respetando a sus progenitores y hermanos así como a otros familiares.
+2. Los menores deben participar y corresponsabilizarse en el cuidado del hogar y en la realización de las tareas domésticas de acuerdo con su edad, con su nivel de autonomía personal y capacidad, y con independencia de su sexo.
+Se añade por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 9 quáter
+
+Artículo 9 quáter. Deberes relativos al ámbito escolar.
+1. Los menores deben respetar las normas de convivencia de los centros educativos, estudiar durante las etapas de enseñanza obligatoria y tener una actitud positiva de aprendizaje durante todo el proceso formativo.
+2. Los menores tienen que respetar a los profesores y otros empleados de los centros escolares, así como al resto de sus compañeros, evitando situaciones de conflicto y acoso escolar en cualquiera de sus formas, incluyendo el ciberacoso.
+3. A través del sistema educativo se implantará el conocimiento que los menores deben tener de sus derechos y deberes como ciudadanos, incluyendo entre los mismos aquellos que se generen como consecuencia de la utilización en el entorno docente de las Tecnologías de la Información y Comunicación.
+Se añade por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 9 quinquies
+
+Artículo 9 quinquies. Deberes relativos al ámbito social.
+1. Los menores deben respetar a las personas con las que se relacionan y al entorno en el que se desenvuelven.
+2. Los deberes sociales incluyen, en particular:
+a) Respetar la dignidad, integridad e intimidad de todas las personas con las que se relacionen con independencia de su edad, nacionalidad, origen racial o étnico, religión, sexo, orientación e identidad sexual, discapacidad, características físicas o sociales o pertenencia a determinados grupos sociales, o cualquier otra circunstancia personal o social.
+b) Respetar las leyes y normas que les sean aplicables y los derechos y libertades fundamentales de las otras personas, así como asumir una actitud responsable y constructiva en la sociedad.
+c) Conservar y hacer un buen uso de los recursos e instalaciones y equipamientos públicos o privados, mobiliario urbano y cualesquiera otros en los que desarrollen su actividad.
+d) Respetar y conocer el medio ambiente y los animales, y colaborar en su conservación dentro de un desarrollo sostenible.
+Se añade por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+## CAPÍTULO IV
+
+Medidas y principios rectores de la acción administrativa
+Se renumera por el art. 1.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 10
+
+Artículo 10. Medidas para facilitar el ejercicio de los derechos.
+1. Los menores tienen derecho a recibir de las Administraciones Públicas, o a través de sus entidades colaboradoras, la información en formato accesible y asistencia adecuada para el efectivo ejercicio de sus derechos, así como a que se garantice su respeto.
+2. Para la defensa y garantía de sus derechos el menor puede:
+a) Solicitar la protección y tutela de la entidad pública competente.
+b) Poner en conocimiento del Ministerio Fiscal las situaciones que considere que atentan contra sus derechos con el fin de que éste promueva las acciones oportunas.
+c) Plantear sus quejas ante el Defensor del Pueblo o ante las instituciones autonómicas homólogas. A tal fin, uno de los Adjuntos del Defensor del Pueblo se hará cargo de modo permanente de los asuntos relacionados con los menores facilitándoles el acceso a mecanismos adecuados y adaptados a sus necesidades y garantizándoles la confidencialidad.
+d) Solicitar los recursos sociales disponibles de las Administraciones públicas.
+e) Solicitar asistencia legal y el nombramiento de un defensor judicial, en su caso, para emprender las acciones judiciales y administrativas necesarias encaminadas a la protección y defensa de sus derechos e intereses. En todo caso el Ministerio Fiscal podrá actuar en defensa de los derechos de los menores.
+f) Presentar denuncias individuales al Comité de Derechos del Niño, en los términos de la Convención sobre los Derechos del Niño y de la normativa que la desarrolle.
+3. Los menores extranjeros que se encuentren en España tienen derecho a la educación, asistencia sanitaria y servicios y prestaciones sociales básicas, en las mismas condiciones que los menores españoles. Las Administraciones Públicas velarán por los grupos especialmente vulnerables como los menores extranjeros no acompañados, los que presenten necesidades de protección internacional, los menores con discapacidad y los que sean víctimas de abusos sexuales, explotación sexual, pornografía infantil, de trata o de tráfico de seres humanos, garantizando el cumplimiento de los derechos previstos en la ley.
+Los poderes públicos, en el diseño y elaboración de las políticas públicas, tendrán como objetivo lograr la plena integración de los menores extranjeros en la sociedad española, mientras permanezcan en el territorio del Estado español, en los términos establecidos en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+4. Cuando la Entidad Pública asuma la tutela de un menor extranjero que se encuentre en España, la Administración General del Estado le facilitará, si no la tuviere, a la mayor celeridad, y junto con la presentación del certificado de tutela expedido por dicha Entidad Pública, la documentación acreditativa de su situación y la autorización de residencia, una vez que haya quedado acreditada la imposibilidad de retorno con su familia o al país de origen, y según lo dispuesto en la normativa vigente en materia de extranjería e inmigración.
+5. Respecto de los menores tutelados o guardados por las Entidades Públicas, el reconocimiento de su condición de asegurado en relación con la asistencia sanitaria se realizará de oficio, previa presentación de la certificación de su tutela o guarda expedida por la Entidad Pública, durante el periodo de duración de las mismas.
+Se modifican los apartados 1 a 4 y se añade el apartado 5 por el art. 1.5 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+ Se modifica la letra c) y se añade la e) al apartado 2 por el art. 1.5 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 11
+
+Artículo 11. Principios rectores de la acción administrativa.
+1. Las Administraciones Públicas facilitarán a los menores la asistencia adecuada para el ejercicio de sus derechos, incluyendo los recursos de apoyo que precisen.
+Las Administraciones Públicas, en los ámbitos que les son propios, articularán políticas integrales encaminadas al desarrollo de la infancia y la adolescencia y, de modo especial, las referidas a los derechos enumerados en esta ley. Los menores tendrán derecho a acceder a tales servicios por sí mismos o a través de sus progenitores, tutores, guardadores o acogedores, quienes a su vez tendrán el deber de utilizarlos en interés de los menores.
+Se impulsarán políticas compensatorias dirigidas a corregir las desigualdades sociales. En todo caso, el contenido esencial de los derechos del menor no podrá quedar afectado por falta de recursos sociales básicos. Se garantizará a los menores con discapacidad y a sus familias los servicios sociales especializados que su discapacidad precise.
+Las Administraciones Públicas deberán tener en cuenta las necesidades de los menores al ejercer sus competencias, especialmente en materia de control sobre productos alimenticios, consumo, vivienda, educación, sanidad, servicios sociales, cultura, deporte, espectáculos, medios de comunicación, transportes, tiempo libre, juego, espacios libres y nuevas tecnologías (TICs).
+Las Administraciones Públicas tendrán particularmente en consideración la adecuada regulación y supervisión de aquellos espacios, centros y servicios en los que permanezcan habitualmente menores, en lo que se refiere a sus condiciones físico-ambientales, higiénico-sanitarias, de accesibilidad y diseño universal y de recursos humanos, así como a sus proyectos educativos inclusivos, a la participación de los menores y a las demás condiciones que contribuyan a asegurar sus derechos.
+2. Serán principios rectores de la actuación de los poderes públicos en relación con los menores:
+a) La supremacía de su interés superior.
+b) El mantenimiento en su familia de origen, salvo que no sea conveniente para su interés, en cuyo caso se garantizará la adopción de medidas de protección familiares y estables priorizando, en estos supuestos, el acogimiento familiar frente al institucional.
+c) Su integración familiar y social.
+d) La prevención y la detección precoz de todas aquellas situaciones que puedan perjudicar su desarrollo personal.
+e) La sensibilización de la población ante situaciones de desprotección.
+f) El carácter educativo de todas las medidas que se adopten.
+g) La promoción de la participación, voluntariado y solidaridad social.
+h) La objetividad, imparcialidad y seguridad jurídica en la actuación protectora, garantizando el carácter colegiado e interdisciplinar en la adopción de medidas que les afecten.
+i) La protección contra toda forma de violencia, incluido el maltrato físico o psicológico, los castigos físicos humillantes y denigrantes, el descuido o trato negligente, la explotación, la realizada a través de las nuevas tecnologías, los abusos sexuales, la corrupción, la violencia de género o en el ámbito familiar, sanitario, social o educativo, incluyendo el acoso escolar, así como la trata y el tráfico de seres humanos, la mutilación genital femenina y cualquier otra forma de abuso.
+j) La igualdad de oportunidades y no discriminación por cualquier circunstancia.
+k) La accesibilidad universal de los menores con discapacidad y los ajustes razonables, así como su inclusión y participación plenas y efectivas.
+l) El libre desarrollo de su personalidad conforme a su orientación e identidad sexual.
+m)  El respeto y la valoración de la diversidad étnica y cultural.
+3. Los poderes públicos desarrollarán actuaciones encaminadas a la sensibilización, prevención, detección, notificación, asistencia y protección de cualquier forma de violencia contra la infancia y la adolescencia mediante procedimientos que aseguren la coordinación y la colaboración entre las distintas Administraciones, entidades colaboradoras y servicios competentes, tanto públicos como privados, para garantizar una actuación integral.
+4. Las Entidades Públicas dispondrán de programas y recursos destinados al apoyo y orientación de quienes, estando en acogimiento, alcancen la mayoría de edad y queden fuera del sistema de protección, con especial atención a los que presentan discapacidad.
+Se modifica por el art. 1.6 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+## TÍTULO II
+
+Actuaciones en situación de desprotección social del menor e instituciones de protección de menores
+
+## CAPÍTULO I
+
+Actuaciones en situaciones de desprotección social del menor
+
+### Artículo 12
+
+Artículo 12. Actuaciones de protección.
+1. La protección de los menores por los poderes públicos se realizará mediante la prevención, detección y reparación de situaciones de riesgo, con el establecimiento de los servicios y recursos adecuados para tal fin, el ejercicio de la guarda y, en los casos de declaración de desamparo, la asunción de la tutela por ministerio de la ley. En las actuaciones de protección deberán primar, en todo caso, las medidas familiares frente a las residenciales, las estables frente a las temporales y las consensuadas frente a las impuestas.
+2. Los poderes públicos velarán para que los progenitores, tutores, guardadores o acogedores, desarrollen adecuadamente sus responsabilidades y les facilitarán servicios accesibles de prevención, asesoramiento y acompañamiento en todas las áreas que afectan al desarrollo de los menores.
+3. Cuando los menores se encuentren bajo la patria potestad, tutela, guarda o acogimiento de una víctima de violencia de género o doméstica, las actuaciones de los poderes públicos estarán encaminadas a garantizar el apoyo necesario para procurar la permanencia de los menores, con independencia de su edad, con aquella, así como su protección, atención especializada y recuperación.
+4. Cuando no pueda ser establecida la mayoría de edad de una persona, será considerada menor de edad a los efectos de lo previsto en esta ley, en tanto se determina su edad. A tal efecto, el Fiscal deberá realizar un juicio de proporcionalidad que pondere adecuadamente las razones por las que se considera que el pasaporte o documento equivalente de identidad presentado, en su caso, no es fiable. La realización de pruebas médicas para la determinación de la edad de los menores se someterá al principio de celeridad, exigirá el previo consentimiento informado del afectado y se llevará a cabo con respeto a su dignidad y sin que suponga un riesgo para su salud, no pudiendo aplicarse indiscriminadamente. No podrán realizarse, en ningún caso, desnudos integrales, exploraciones genitales u otras pruebas médicas especialmente invasivas.
+Asimismo, una vez adoptada la medida de guarda o tutela respecto a personas menores de edad que hayan llegado solas a España, las Entidades Públicas comunicarán la adopción de dicha medida al Ministerio del Interior, a efectos de inscripción en el Registro Estatal correspondiente.
+5. Las Entidades Públicas garantizarán los derechos reconocidos en esta ley a las personas menores de edad desde el momento que accede por primera vez a un recurso de protección y proporcionarán una atención inmediata integral y adecuada a sus necesidades, evitando la prolongación de las medidas de carácter provisional y de la estancia en los recursos de primera acogida.
+6. Cualquier medida de protección no permanente que se adopte respecto de menores de tres años se revisará cada tres meses, y respecto de mayores de esa edad se revisará cada seis meses. En los acogimientos permanentes la revisión tendrá lugar el primer año cada seis meses y, a partir del segundo año, cada doce meses.
+7. Además, de las distintas funciones atribuidas por ley, la Entidad Pública remitirá al Ministerio Fiscal informe justificativo de la situación de un determinado menor cuando este se haya encontrado en acogimiento residencial o acogimiento familiar temporal durante un periodo superior a dos años, debiendo justificar la Entidad Pública las causas por las que no se ha adoptado una medida protectora de carácter más estable en ese intervalo,
+8. Los poderes públicos garantizarán los derechos y obligaciones de los menores con discapacidad en lo que respecta a su custodia, tutela, guarda, adopción o instituciones similares, velando al máximo por el interés superior del menor. Asimismo, garantizarán que los menores con discapacidad tengan los mismos derechos respecto a la vida en familia. Para hacer efectivos estos derechos y a fin de prevenir su ocultación, abandono, negligencia o segregación velarán porque se proporcione con anticipación información, servicios y apoyo generales a los menores con discapacidad y a sus familias.
+Se modifica por la disposición final 8.2 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se modifica por el art. 1.7 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 13
+
+Artículo 13. Obligaciones de los ciudadanos y deber de reserva.
+1. Toda persona o autoridad, especialmente aquellas que por su profesión, oficio o actividad detecten una situación de riesgo o posible desamparo de una persona menor de edad, lo comunicarán a la autoridad o sus agentes más próximos, sin perjuicio de prestarle el auxilio inmediato que precise.
+2. Cualquier persona o autoridad que tenga conocimiento de que un menor no está escolarizado o no asiste al centro escolar de forma habitual y sin justificación, durante el período obligatorio, deberá ponerlo en conocimiento de las autoridades públicas competentes, que adoptarán las medidas necesarias para su escolarización.
+3. Las autoridades y las personas que por su profesión o función conozcan el caso actuarán con la debida reserva.
+En las actuaciones se evitará toda interferencia innecesaria en la vida del menor.
+Se modifica el apartado 1 y se suprimen los apartados 4 y 5 por la disposición final 8.3 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se modifica el apartado 1 y se añaden los apartados 4 y 5 por el art. 1.8 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 14
+
+Artículo 14. Atención inmediata.
+Las autoridades y servicios públicos tendrán la obligación de prestar la atención inmediata que precise cualquier menor, de actuar si corresponde a su ámbito de competencias o de dar traslado en otro caso al órgano competente y de poner los hechos en conocimiento de los representantes legales del menor o, cuando sea necesario, de la Entidad Pública y del Ministerio Fiscal.
+La Entidad Pública podrá asumir, en cumplimiento de la obligación de prestar la atención inmediata, la guarda provisional de un menor prevista en el artículo 172.4 del Código Civil, que será comunicada al Ministerio Fiscal, procediendo simultáneamente a practicar las diligencias precisas para identificar al menor, investigar sus circunstancias y constatar, en su caso, la situación real de desamparo.
+Se modifica por el art. 1.9 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 14 bis
+
+Artículo 14 bis. Actuaciones en casos de urgencia.
+1. Cuando la urgencia del caso lo requiera, sin perjuicio de la guarda provisional a la que se refiere el artículo anterior y el artículo 172.4 del Código Civil, la actuación de los servicios sociales será inmediata.
+2. La atención en casos de urgencia a que se refiere este artículo no está sujeta a requisitos procedimentales ni de forma, y se entiende en todo caso sin perjuicio del deber de prestar a las personas menores de edad el auxilio inmediato que precisen.
+Se añade por la disposición final 8.4 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+
+### Artículo 15
+
+Artículo 15. Principio de colaboración.
+En toda intervención se procurará contar con la colaboración del menor y su familia y no interferir en su vida escolar, social o laboral.
+
+### Artículo 16
+
+Artículo 16. Evaluación de la situación.
+Las entidades públicas competentes en materia de protección de menores estarán obligadas a verificar la situación denunciada y a adoptar las medidas necesarias para resolverla en función del resultado de aquella actuación.
+
+### Artículo 17
+
+Artículo 17. Actuaciones en situaciones de riesgo.
+1. Se considerará situación de riesgo aquella en la que, a causa de circunstancias, carencias o conflictos familiares, sociales o educativos, la persona menor de edad se vea perjudicada en su desarrollo personal, familiar, social o educativo, en su bienestar o en sus derechos de forma que, sin alcanzar la entidad, intensidad o persistencia que fundamentarían su declaración de situación de desamparo y la asunción de la tutela por ministerio de la ley, sea precisa la intervención de la administración pública competente, para eliminar, reducir o compensar las dificultades o inadaptación que le afectan y evitar su desamparo y exclusión social, sin tener que ser separado de su entorno familiar.
+2. Serán considerados como indicadores de riesgo, entre otros:
+a) La falta de atención física o psíquica del niño, niña o adolescente por parte de los progenitores, o por las personas que ejerzan la tutela, guarda, o acogimiento, que comporte un perjuicio leve para la salud física o emocional del niño, niña o adolescente cuando se estime, por la naturaleza o por la repetición de los episodios, la posibilidad de su persistencia o el agravamiento de sus efectos.
+b) La negligencia en el cuidado de las personas menores de edad y la falta de seguimiento médico por parte de los progenitores, o por las personas que ejerzan la tutela, guarda o acogimiento.
+c) La existencia de un hermano o hermana declarado en situación de riesgo o desamparo, salvo que las circunstancias familiares hayan cambiado de forma evidente.
+d) La utilización, por parte de los progenitores, o de quienes ejerzan funciones de tutela, guarda o acogimiento, del castigo habitual y desproporcionado y de pautas de corrección violentas que, sin constituir un episodio severo o un patrón crónico de violencia, perjudiquen su desarrollo.
+e) La evolución negativa de los programas de intervención seguidos con la familia y la obstrucción a su desarrollo o puesta en marcha.
+f) Las prácticas discriminatorias, por parte de los responsables parentales, contra los niños, niñas y adolescentes que conlleven un perjuicio para su bienestar y su salud mental y física, en particular:
+1.º Las actitudes discriminatorias que por razón de género, edad o discapacidad puedan aumentar las posibilidades de confinamiento en el hogar, la falta de acceso a la educación, las escasas oportunidades de ocio, la falta de acceso al arte y a la vida cultural, así como cualquier otra circunstancia que por razón de género, edad o discapacidad, les impidan disfrutar de sus derechos en igualdad.
+2.º La no aceptación de la orientación sexual, identidad de género o las características sexuales de la persona menor de edad.
+g) El riesgo de sufrir ablación, mutilación genital femenina o cualquier otra forma de violencia en el caso de niñas y adolescentes basadas en el género, las promesas o acuerdos de matrimonio forzado.
+h) La identificación de las madres como víctimas de trata.
+i) Las niñas y adolescentes víctimas de violencia de género en los términos establecidos en el artículo 1.1 de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género.
+j) Los ingresos múltiples de personas menores de edad en distintos hospitales con síntomas recurrentes, inexplicables y/o que no se confirman diagnósticamente.
+k) El consumo habitual de drogas tóxicas o bebidas alcohólicas por las personas menores de edad.
+l) La exposición de la persona menor de edad a cualquier situación de violencia doméstica o de género.
+m) Cualquier otra circunstancia que implique violencia sobre las personas menores de edad que, en caso de persistir, pueda evolucionar y derivar en el desamparo del niño, niña o adolescente.
+3. La intervención en la situación de riesgo corresponde a la administración pública competente conforme a lo dispuesto en la legislación estatal y autonómica aplicable, en coordinación con los centros escolares y servicios sociales y sanitarios y, en su caso, con las entidades colaboradoras del respectivo ámbito territorial o cualesquiera otras.
+4. La valoración de la situación de riesgo conllevará la elaboración y puesta en marcha de un proyecto de intervención social y educativo familiar que deberá recoger los objetivos, actuaciones, recursos y previsión de plazos, promoviendo los factores de protección del menor y manteniendo a éste en su medio familiar. Se procurará la participación de los progenitores, tutores, guardadores o acogedores en la elaboración del proyecto. En cualquier caso, será oída y tenida en cuenta la opinión de éstos en el intento de consensuar el proyecto, que deberá ser firmado por las partes, para lo que se les comunicará de manera comprensible y en formato accesible. También se comunicará y consultará con el menor si tiene suficiente madurez y, en todo caso, a partir de los doce años.
+5. Los progenitores, tutores, guardadores o acogedores, dentro de sus respectivas funciones, colaborarán activamente, según su capacidad, en la ejecución de las medidas indicadas en el referido proyecto. La omisión de la colaboración prevista en el mismo dará lugar a la declaración de la situación de riesgo del menor.
+6. La situación de riesgo será declarada por la administración pública competente conforme a lo dispuesto en la legislación estatal y autonómica aplicable mediante una resolución administrativa motivada, previa audiencia a los progenitores, tutores, guardadores o acogedores y del menor si tiene suficiente madurez y, en todo caso, a partir de los doce años. La resolución administrativa incluirá las medidas tendentes a corregir la situación de riesgo del menor, incluidas las atinentes a los deberes al respecto de los progenitores, tutores, guardadores o acogedores. Frente a la resolución administrativa que declare la situación de riesgo del menor, se podrá interponer recurso conforme a la Ley de Enjuiciamiento Civil.
+7. Cuando la administración pública competente esté desarrollando una intervención ante una situación de riesgo de un menor y tenga noticia de que va a ser trasladado al ámbito de otra entidad territorial, la administración pública de origen lo pondrá en conocimiento de la de destino al efecto de que, si procede, ésta continúe la intervención que se venía realizando, con remisión de la información y documentación necesaria. Si la administración pública de origen desconociera el lugar de destino, podrá solicitar el auxilio de las Fuerzas y Cuerpos de Seguridad a fin de que procedan a su averiguación. Una vez conocida la localización del menor, se pondrá en conocimiento de la Entidad Pública competente en dicho territorio, que continuará la intervención.
+8. En los supuestos en que la administración pública competente para apreciar e intervenir en la situación de riesgo estime que existe una situación de desprotección que puede requerir la separación del menor de su ámbito familiar o cuando, concluido el período previsto en el proyecto de intervención o Convenio, no se hayan conseguido cambios en el desempeño de los deberes de guarda que garanticen que el menor cuenta con la necesaria asistencia moral o material, lo pondrá en conocimiento de la Entidad Pública a fin de que valore la procedencia de declarar la situación de desamparo, comunicándolo al Ministerio Fiscal.
+Cuando la Entidad Pública considere que no procede declarar la situación de desamparo, pese a la propuesta en tal sentido formulada por la administración pública competente para apreciar la situación de riesgo, lo pondrá en conocimiento de la administración pública que haya intervenido en la situación de riesgo y del Ministerio Fiscal. Este último hará una supervisión de la situación del menor, pudiendo para ello recabar la colaboración de los centros escolares y los servicios sociales, sanitarios o cualesquiera otros.
+9. La administración pública competente para intervenir en la situación de riesgo adoptará, en colaboración con los servicios de salud correspondientes, las medidas adecuadas de prevención, intervención y seguimiento, de las situaciones de posible riesgo prenatal, a los efectos de evitar con posterioridad una eventual declaración de situación de riesgo o desamparo del recién nacido. A tales efectos, se entenderá por situación de riesgo prenatal la falta de cuidado físico de la mujer gestante o el consumo abusivo de sustancias con potencial adictivo, así como cualquier otra acción propia de la mujer o de terceros tolerada por ésta, que perjudique el normal desarrollo o pueda provocar enfermedades o anomalías físicas, mentales o sensoriales al recién nacido. Los servicios de salud y el personal sanitario deberán notificar esta situación a la administración pública competente, así como al Ministerio Fiscal. Tras el nacimiento se mantendrá la intervención con el menor y su unidad familiar para que, si fuera necesario, se declare la situación de riesgo o desamparo del menor para su adecuada protección.
+10. La negativa de los progenitores, tutores, guardadores o acogedores a prestar el consentimiento respecto de los tratamientos médicos necesarios para salvaguardar la vida o integridad física o psíquica de un menor constituye una situación de riesgo. En tales casos, las autoridades sanitarias, pondrán inmediatamente en conocimiento de la autoridad judicial, directamente o a través del Ministerio Fiscal, tales situaciones a los efectos de que se adopte la decisión correspondiente en salvaguarda del mejor interés del menor.
+Se modifican los apartados 1 y 2 por la disposición final 8.5 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se modifica por el art. 1.10 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 17 bis
+
+Artículo 17 bis. Personas menores de catorce años en conflicto con la ley.
+Las personas a las que se refiere el artículo 3 de la Ley Orgánica 5/2000, de 12 de enero, de responsabilidad penal de los menores serán incluidas en un plan de seguimiento que valore su situación socio-familiar diseñado y realizado por los servicios sociales competentes de cada comunidad autónoma.
+Si el acto violento pudiera ser constitutivo de un delito contra la libertad o indemnidad sexual o de violencia de género, el plan de seguimiento deberá incluir un módulo formativo en igualdad de género.
+Se modifican los apartados 1 y 2 por la disposición final 8.5 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se modifica por el art. 1.10 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 18
+
+Artículo 18. Actuaciones en situación de desamparo.
+1. Cuando la Entidad Pública constate que el menor se encuentra en situación de desamparo, actuará en la forma prevista en el artículo 172 y siguientes del Código Civil, asumiendo la tutela de aquél por ministerio de la ley, adoptando las oportunas medidas de protección y poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez que acordó la tutela ordinaria.
+2. De acuerdo con lo establecido en el artículo 172 y siguientes del Código Civil, se considerará situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
+La situación de pobreza de los progenitores, tutores o guardadores no podrá ser tenida en cuenta para la valoración de la situación de desamparo. Asimismo, en ningún caso se separará a un menor de sus progenitores en razón de una discapacidad del menor, de ambos progenitores o de uno de ellos.
+Se considerará un indicador de desamparo, entre otros, el tener un hermano declarado en tal situación, salvo que las circunstancias familiares hayan cambiado de forma evidente.
+En particular se entenderá que existe situación de desamparo cuando se dé alguna o algunas de las siguientes circunstancias con la suficiente gravedad que, valoradas y ponderadas conforme a los principios de necesidad y proporcionalidad, supongan una amenaza para la integridad física o mental del menor:
+a) El abandono del menor, bien porque falten las personas a las que por ley corresponde el ejercicio de la guarda, o bien porque éstas no quieran o no puedan ejercerla.
+b) El transcurso del plazo de guarda voluntaria, bien cuando sus responsables legales se encuentren en condiciones de hacerse cargo de la guarda del menor y no quieran asumirla, o bien cuando, deseando asumirla, no estén en condiciones para hacerlo, salvo los casos excepcionales en los que la guarda voluntaria pueda ser prorrogada más allá del plazo de dos años.
+c) El riesgo para la vida, salud e integridad física del menor. En particular cuando se produzcan malos tratos físicos graves, abusos sexuales o negligencia grave en el cumplimiento de las obligaciones alimentarias y de salud por parte de las personas de la unidad familiar o de terceros con consentimiento de aquellas; también cuando el menor sea identificado como víctima de trata de seres humanos y haya un conflicto de intereses con los progenitores, tutores y guardadores; o cuando exista un consumo reiterado de sustancias con potencial adictivo o la ejecución de otro tipo de conductas adictivas de manera reiterada por parte del menor con el conocimiento, consentimiento o la tolerancia de los progenitores, tutores o guardadores. Se entiende que existe tal consentimiento o tolerancia cuando no se hayan realizado los esfuerzos necesarios para paliar estas conductas, como la solicitud de asesoramiento o el no haber colaborado suficientemente con el tratamiento, una vez conocidas las mismas. También se entiende que existe desamparo cuando se produzcan perjuicios graves al recién nacido causados por maltrato prenatal.
+d) El riesgo para la salud mental del menor, su integridad moral y el desarrollo de su personalidad debido al maltrato psicológico continuado o a la falta de atención grave y crónica de sus necesidades afectivas o educativas por parte de progenitores, tutores o guardadores. Cuando esta falta de atención esté condicionada por un trastorno mental grave, por un consumo habitual de sustancias con potencial adictivo o por otras conductas adictivas habituales, se valorará como un indicador de desamparo la ausencia de tratamiento por parte de progenitores, tutores o guardadores o la falta de colaboración suficiente durante el mismo.
+e) El incumplimiento o el imposible o inadecuado ejercicio de los deberes de guarda como consecuencia del grave deterioro del entorno o de las condiciones de vida familiares, cuando den lugar a circunstancias o comportamientos que perjudiquen el desarrollo del menor o su salud mental.
+f) La inducción a la mendicidad, delincuencia o prostitución, o cualquier otra explotación del menor de similar naturaleza o gravedad.
+g) La ausencia de escolarización o falta de asistencia reiterada y no justificada adecuadamente al centro educativo y la permisividad continuada o la inducción al absentismo escolar durante las etapas de escolarización obligatoria.
+h) Cualquier otra situación gravemente perjudicial para el menor que traiga causa del incumplimiento o del imposible o inadecuado ejercicio de la patria potestad, la tutela o la guarda, cuyas consecuencias no puedan ser evitadas mientras permanezca en su entorno de convivencia.
+3. Cada Entidad Pública designará al órgano que ejercerá la tutela de acuerdo con sus estructuras orgánicas de funcionamiento.
+4. En caso de traslado permanente de residencia de un menor sujeto a una medida de protección desde la Comunidad Autónoma que la adoptó a otra distinta, corresponde a ésta asumir aquella medida o adoptar la que proceda en un plazo máximo de tres meses desde que esta última sea informada por la primera de dicho traslado. No obstante lo anterior, cuando la familia de origen del menor permanezca en la Comunidad Autónoma de origen y sea previsible una reintegración familiar a corto o medio plazo, se mantendrá la medida adoptada y la Entidad Pública del lugar de residencia del menor colaborará en el seguimiento de la evolución de éste. Tampoco será necesaria la adopción de nuevas medidas de protección en los casos de traslado temporal de un menor a un centro residencial ubicado en otra Comunidad Autónoma o cuando se establezca un acogimiento con familia residente en ella, con el acuerdo de ambas Comunidades Autónomas.
+5. En los supuestos en los que se detecte una situación de posible desprotección de un menor de nacionalidad española que se encuentre fuera del territorio nacional, para su protección en España será competente la Entidad Pública correspondiente a la Comunidad Autónoma en la que residan los progenitores o tutores del menor. En su defecto, será competente la Entidad Pública correspondiente a la Comunidad Autónoma con la cual el menor o sus familiares tuvieren mayores vínculos. Cuando, conforme a tales criterios, no pudiere determinarse la competencia, será competente la Entidad Pública de la Comunidad Autónoma en la que el menor o sus familiares hubieran tenido su última residencia habitual.
+En todo caso, cuando el menor que se encuentra fuera de España hubiera sido objeto de una medida de protección previamente a su desplazamiento, será competente la Entidad Pública que ostente su guarda o tutela.
+Los posibles conflictos de competencia que pudieran originarse habrán de resolverse conforme a los principios de celeridad y de interés superior del menor, evitando dilaciones en la toma de decisiones que pudieran generar perjuicios al mismo.
+La Administración General del Estado se encargará del traslado del menor a España. La Comunidad Autónoma que corresponda asumirá la competencia desde el momento en que el menor se encuentre en España.
+6. En los supuestos en que las medidas de protección adoptadas en un Estado extranjero deban cumplirse en España, se atenderá, en primer lugar, a lo previsto en el Reglamento (CE) n.º 2201/2003 del Consejo, de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de las resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000, o norma europea que lo sustituya. En los casos no regulados por la normativa europea, se estará a los Tratados y Convenios internacionales en vigor para España y, en especial, al Convenio relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños, hecho en La Haya el 19 de octubre de 1996, o Convenio que lo sustituya. En defecto de toda normativa internacional, se estará a las normas españolas de producción interna sobre eficacia en España de medidas de protección de menores.
+Se modifica por el art. 1.11 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 19
+
+Artículo 19. Guarda de menores.
+1. Además de la guarda de los menores tutelados por encontrarse en situación de desamparo, la Entidad Pública deberá asumir la guarda en los términos previstos en el artículo 172 bis del Código Civil, cuando los progenitores o tutores no puedan cuidar de un menor por circunstancias graves y transitorias o cuando así lo acuerde el Juez en los casos en que legalmente proceda.
+2. La guarda voluntaria tendrá una duración máxima de dos años, salvo que el interés superior del menor aconseje, excepcionalmente, la prórroga de la medida por la previsible reintegración familiar en un plazo breve de tiempo.
+En estos supuestos de guarda voluntaria será necesario el compromiso de la familia de someterse, en su caso, a la intervención profesional.
+Se modifica por el art. 1.12 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 19 bis
+
+Artículo 19 bis. Disposiciones comunes a la guarda y tutela.
+1. Cuando la Entidad Pública asuma la tutela o guarda del menor elaborará un plan individualizado de protección que establecerá los objetivos, la previsión y el plazo de las medidas de intervención a adoptar con su familia de origen, incluido, en su caso, el programa de reintegración familiar.
+En el caso de tratarse de un menor con discapacidad, la Entidad Pública garantizará la continuidad de los apoyos que viniera recibiendo o la adopción de otros más adecuados para sus necesidades.
+2. Cuando del pronóstico se derive la posibilidad de retorno a la familia de origen, la Entidad Pública aplicará el programa de reintegración familiar, todo ello sin perjuicio de lo dispuesto en la normativa relativa a los menores extranjeros no acompañados.
+3. Para acordar el retorno del menor desamparado a su familia de origen será imprescindible que se haya comprobado una evolución positiva de la misma, objetivamente suficiente para restablecer la convivencia familiar, que se hayan mantenido los vínculos, que concurra el propósito de desempeñar las responsabilidades parentales adecuadamente y que se constate que el retorno con ella no supone riesgos relevantes para el menor a través del correspondiente informe técnico. En los casos de acogimiento familiar, deberá ponderarse, en la toma de decisión sobre el retorno, el tiempo transcurrido y la integración en la familia de acogida y su entorno, así como el desarrollo de vínculos afectivos con la misma.
+4. Cuando se proceda a la reunificación familiar, la Entidad Pública realizará un seguimiento posterior de apoyo a la familia del menor.
+5. En el caso de los menores extranjeros no acompañados, se procurará la búsqueda de su familia y el restablecimiento de la convivencia familiar, iniciando el procedimiento correspondiente, siempre que se estime que dicha medida responde a su interés superior y no coloque al menor o a su familia en una situación que ponga en riesgo su seguridad.
+6. Las menores y las jóvenes sujetas a medidas de protección que estén embarazadas, recibirán el asesoramiento y el apoyo adecuados a su situación. En el plan individual de protección se contemplará esta circunstancia, así como la protección del recién nacido.
+Se añade por el art. 1.13 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 20
+
+Artículo 20. Acogimiento familiar.
+1. Cuando no sea posible la permanencia en el entorno familiar de origen, el acogimiento familiar, de acuerdo con su finalidad y con independencia del procedimiento en que se acuerde, revestirá las modalidades establecidas en el Código Civil y, en razón de la vinculación del menor con la familia acogedora, podrá tener lugar, de acuerdo al interés superior del menor, en la propia familia extensa del menor o en familia ajena.
+El acogimiento familiar podrá ser especializado, entendiendo por tal el que se desarrolla en una familia en la que alguna o algunas de las personas que integran la unidad familiar dispone de cualificación, experiencia o formación específica para desempeñar esta función respecto de menores con necesidades o circunstancias especiales, pudiendo percibir por ello una compensación.
+El acogimiento especializado podrá ser de dedicación exclusiva cuando así se determine por la Entidad Pública por razón de las necesidades y circunstancias especiales del menor en situación de ser acogido, percibiendo en tal caso la persona o personas designadas como acogedoras una compensación en atención a dicha dedicación.
+2. El acogimiento familiar se formalizará por resolución de la Entidad Pública que tenga la tutela o la guarda, previa valoración de la adecuación de la familia para el acogimiento. En esta valoración se tendrá en cuenta su situación familiar y aptitud educadora, su capacidad para atender adecuadamente las necesidades de toda índole del menor o menores de que se trate, la congruencia entre su motivación y la naturaleza y finalidad del acogimiento según su modalidad, así como la disposición a facilitar el cumplimiento de los objetivos del plan individual de atención y, si lo hubiera, del programa de reintegración familiar, propiciando la relación del menor con su familia de procedencia. El régimen de visitas podrá tener lugar en los puntos de encuentro familiar habilitados, cuando así lo aconseje el interés superior del menor y el derecho a la privacidad de las familias de procedencia y acogedora. Cuando el tipo de acogimiento así lo aconseje, se valorará la adecuación de la edad de los acogedores con la del menor acogido, así como la relación previa entre ellos, priorizando, salvo que el interés del menor aconseje otra cosa, a las personas que, perteneciendo a su familia extensa, reúnan condiciones adecuadas para el acogimiento.
+3. A la resolución de formalización del acogimiento familiar a que se refiere el apartado anterior, acordada conforme a los términos previstos en el Código Civil, se acompañará un documento anexo que incluirá los siguientes extremos:
+a) La identidad del acogedor o acogedores y del acogido.
+b) Los consentimientos y audiencias necesarias.
+c) La modalidad del acogimiento, duración prevista para el mismo, así como su carácter de acogimiento en familia extensa o en familia ajena en razón de la vinculación del menor con la familia o persona acogedora.
+d) Los derechos y deberes de cada una de las partes, y en particular:
+1.º El régimen de visitas, estancia, relación o comunicación, en los supuestos de declaración de desamparo, por parte de la familia de origen, que podrá modificarse por la Entidad Pública en atención al interés superior del menor.
+2.º El sistema de cobertura por parte de la Entidad Pública de los daños que sufra el menor o de los que pueda causar a terceros.
+3.º La asunción por parte de los acogedores de los gastos de manutención, educación y atención socio-sanitaria.
+e) El contenido del seguimiento que, en función de la finalidad del acogimiento, vaya a realizar la Entidad Pública y el compromiso de colaboración con dicho seguimiento por parte de la familia acogedora.
+f) En el caso de menores con discapacidad, los recursos de apoyo que precisa.
+g) La compensación económica, apoyos técnicos y otro tipo de ayudas que, en su caso, vayan a recibir los acogedores.
+h) El plazo en el cual la medida vaya a ser revisada.
+La resolución y el documento anexo se remitirán al Ministerio Fiscal en el plazo máximo de un mes.
+Se modifica el apartado 1 por la disposición final 8.7 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Téngase en cuenta, sobre Seguridad Social de las personas previstas en el apartado 1, la disposición adicional 9 de la citada Ley.
+ Se modifica por el art. 1.14 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 20 bis
+
+Artículo 20 bis. Derechos y deberes de los acogedores familiares.
+1. Los acogedores familiares tendrán derecho a:
+a) Recibir información acerca de la naturaleza y efectos del acogimiento, así como preparación previa, seguimiento y apoyo técnico especializado durante y al término del mismo. En el caso de menores con discapacidad, los acogedores tendrán derecho a orientación, acompañamiento y apoyo adaptados a la discapacidad del menor.
+b) Ser oídos por la Entidad Pública antes de que ésta adopte cualquier resolución que afecte al menor, especialmente antes de modificar o suspender temporalmente el régimen de visitas o de relación o comunicación con la familia de origen.
+c) Ser informados del plan individual de protección así como de las medidas de protección relacionadas con el acogimiento que se adopten respecto al menor acogido, de las revisiones periódicas y a obtener información del expediente de protección del menor que les resulte necesaria para el ejercicio de sus funciones, a excepción de aquellas cuestiones relacionadas con el derecho a la intimidad de terceros y a la protección de datos de carácter personal.
+d) Ser parte en todos los procesos de oposición a las medidas de protección y a la declaración de situación de desamparo del menor acogido y en todos los procesos de oposición relacionados con la medida de acogimiento familiar permanente con funciones de tutela que tenga formalizada.
+e) Cooperar con la Entidad Pública en los planes de actuación y seguimiento establecidos para el acogimiento.
+f) Disponer de la documentación identificativa, sanitaria y educativa del menor que acogen.
+g) Ejercer todos los derechos inherentes a la guarda.
+h) Ser respetados por el menor acogido.
+i) Recabar el auxilio de la Entidad Pública en el ejercicio de sus funciones.
+j) Realizar viajes con el menor siempre que se informe a la Entidad Pública y no exista oposición de ésta.
+k) Percibir una compensación económica y otro tipo de ayuda que se hubiera estipulado, en su caso.
+l) Facilitar al menor acogido las mismas condiciones que a los hijos biológicos o adoptados, a fin de hacer uso de derechos u obligaciones familiares durante el tiempo que el menor conviva con ellos.
+m)  Relacionarse con el menor al cesar el acogimiento, si la Entidad Pública entiende que conviniere a su interés superior y lo consintieren la familia de origen o, en su caso, la familia adoptiva o de acogimiento permanente, y el menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años.
+n) Ser protegidos sus datos personales respecto de la familia de origen, de acuerdo con la legislación vigente.
+ñ) Formular formalmente quejas o sugerencias ante la Entidad Pública que deberán ser tramitadas en un plazo inferior a los 30 días y, en caso de solicitar audiencia, ser escuchado con anterioridad a dicho plazo.
+o) La familia acogedora tendrá los mismos derechos que la Administración reconoce al resto de unidades familiares.
+2. Los acogedores familiares tendrán los siguientes deberes:
+a) Velar por el bienestar y el interés superior del menor, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral en un entorno afectivo. En el caso de menor con discapacidad, deberá continuar prestando los apoyos especializados que viniera recibiendo o adoptar otros más adecuados a sus necesidades.
+b) Oír al menor siempre antes de tomar decisiones que le afecten, si tuviere suficiente madurez y, en todo caso, si fuera mayor de 12 años, sin exclusión alguna por discapacidad, y a transmitir a la Entidad Pública las peticiones que éste pueda realizar dentro de su madurez.
+c) Asegurar la plena participación del menor en la vida de familia.
+d) Informar a la Entidad Pública de cualquier hecho de trascendencia en relación con el menor.
+e) Respetar y facilitar las relaciones con la familia de origen del menor, en la medida de las posibilidades de los acogedores familiares, en el marco del régimen de visitas establecido a favor de aquella y la reintegración familiar, en su caso.
+f) Colaborar activamente con las Entidades Públicas en el desarrollo de la intervención individualizada con el menor y seguimiento de la medida, observando las indicaciones y orientaciones de la misma.
+g) Respetar la confidencialidad de los datos relativos a los antecedentes personales y familiares del menor.
+h) Comunicar a la Entidad Publica cualquier cambio en la situación familiar relativo a los datos y circunstancias que se tomaron en consideración como base para el acogimiento.
+i) Garantizar el derecho a la intimidad y a la identidad de los menores acogidos y el respeto a su propia imagen, así como velar por el cumplimiento de sus derechos fundamentales.
+j) Participar en las acciones formativas que se propongan.
+k) Colaborar en el tránsito de la medida de protección del menor a la reintegración a su entorno de origen, la adopción, u otra modalidad de acogimiento, o al entorno que se establezca tras la adopción de una medida de protección más estable.
+l) Los acogedores familiares tendrán las mismas obligaciones respecto del menor acogido que aquellos que la ley establece para los titulares de la patria potestad.
+Se añade por el art. 1.15 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 20 ter
+
+Artículo 20 ter. Tramitación de las solicitudes de acogimiento transfronterizo de personas menores de edad en España remitidas por un Estado miembro de la Unión Europea o por un Estado parte del Convenio de La Haya de 1996.
+1. El Ministerio de Justicia, en su calidad de Autoridad Central Española, será la autoridad competente para recibir las solicitudes de acogimiento transfronterizo de personas menores de edad procedentes de un Estado miembro de la Unión Europea o de un Estado parte del Convenio de La Haya de 1996. Dichas solicitudes deberán ser remitidas por la Autoridad Central del Estado requirente al objeto de obtener la preceptiva autorización de las autoridades españolas competentes con carácter previo a que se pueda producir el acogimiento.
+2. Las solicitudes de acogimiento deberán realizarse por escrito y acompañarse de los documentos que la Autoridad Central española requiera para valorar la idoneidad de la medida en beneficio de la persona menor de edad y la aptitud del establecimiento o familia para llevar a cabo dicho acogimiento. En todo caso, además de la requerida por la normativa internacional aplicable, deberá aportarse un informe sobre el niño, niña o adolescente, los motivos de su propuesta de acogimiento, la modalidad de acogimiento, la duración del mismo y cómo se prevé hacer seguimiento de la medida.
+3. Recibida la solicitud de acogimiento transfronterizo, la Autoridad Central española comprobará que la solicitud reúne el contenido y los requisitos según lo previsto en el apartado anterior y la transmitirá a la Administración autonómica competente para su aprobación.
+4. La Administración autonómica competente, una vez evaluada la solicitud, remitirá su decisión a la Autoridad Central española que la hará llegar a la Autoridad Central del Estado requirente. Únicamente en caso de ser favorable, las autoridades competentes de dicho Estado dictarán una resolución que ordene el acogimiento en España, notificarán a todas las partes interesadas y solicitarán su reconocimiento y ejecución en España directamente ante el Juzgado o Tribunal español territorialmente competente.
+5. El plazo máximo para la tramitación y respuesta de la solicitud será de tres meses.
+6. Las solicitudes de acogimiento y sus documentos adjuntos deberán acompañarse de una traducción legalizada en español.
+Se añade por la disposición final 8.8 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+
+### Artículo 20 quater 
+
+Artículo 20 quater. Motivos de denegación de las solicitudes de acogimiento transfronterizo de personas menores de edad en España.
+1. La Autoridad Central española rechazará las solicitudes de acogimiento transfronterizo cuando:
+a) El objeto o finalidad de la solicitud de acogimiento no garantice el interés superior de la persona menor de edad para lo cual se tendrá especialmente en cuenta la existencia de vínculos con España.
+b) La solicitud no reúna los requisitos exigidos para su tramitación. En este caso, se devolverá a la Autoridad Central requirente indicando los motivos concretos de la devolución con el fin de que pueda subsanarlos.
+c) Se solicite el desplazamiento de una persona menor de edad incursa en un procedimiento penal o sancionador o que haya sido condenada o sancionada por la comisión de cualquier ilícito penal o administrativo.
+d) No se haya respetado el derecho fundamental de la persona menor de edad a ser oída y escuchada, así como a mantener contactos con sus progenitores o representantes legales, salvo si ello es contrario a su superior interés.
+Se añade por la disposición final 8.9 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+
+### Artículo 20 quinquies
+
+Artículo 20 quinquies. Del procedimiento para la transmisión de las solicitudes de acogimiento transfronterizo de personas menores de edad desde España a otro Estado miembro de la Unión Europea o a un Estado parte del Convenio de La Haya de 1996.
+1. Las solicitudes de acogimiento transfronterizo que soliciten las Autoridades competentes en materia de protección de personas menores de edad se remitirán por escrito a la Autoridad Central española, que las transmitirá a las autoridades competentes del Estado miembro requerido para su tramitación.
+2. La tramitación y aprobación de dichas solicitudes se regirá por el Derecho Nacional del Estado miembro requerido.
+3. La Autoridad Central española remitirá la decisión del acogimiento requerido a la Autoridad solicitante.
+4. Las solicitudes de acogimiento y los documentos adjuntos que se dirijan a una autoridad extranjera deberán acompañarse de una traducción a una lengua oficial del Estado requerido o aceptada por este.
+Se añade por la disposición final 8.10 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+
+### Artículo 21
+
+Artículo 21. Acogimiento residencial.
+1. En relación con los menores en acogimiento residencial, las Entidades Públicas y los servicios y centros donde se encuentren deberán actuar conforme a los principios rectores de esta ley, con pleno respeto a los derechos de los menores acogidos, y tendrán las siguientes obligaciones básicas:
+a) Asegurarán la cobertura de las necesidades de la vida cotidiana y garantizarán los derechos de los menores adaptando su proyecto general a las características personales de cada menor, mediante un proyecto socio-educativo individual, que persiga el bienestar del menor, su desarrollo físico, psicológico, social y educativo en el marco del plan individualizado de protección que defina la Entidad Pública.
+b) Contarán con el plan individual de protección de cada menor que establezca claramente la finalidad del ingreso, los objetivos a conseguir y el plazo para su consecución, en el cual se preverá la preparación del menor, tanto a la llegada como a la salida del centro.
+c) Adoptarán todas sus decisiones en relación con el acogimiento residencial de los menores en interés de los mismos.
+d) Fomentarán la convivencia y la relación entre hermanos siempre que ello redunde en interés de los menores y procurarán la estabilidad residencial de los menores, así como que el acogimiento tenga lugar preferentemente en un centro ubicado en la provincia de origen del menor.
+e) Promoverán la relación y colaboración familiar, programándose, al efecto, los recursos necesarios para posibilitar el retorno a su familia de origen, si se considera que ese es el interés del menor.
+f) Potenciarán la educación integral e inclusiva de los menores, con especial consideración a las necesidades de los menores con discapacidad, y velarán por su preparación para la vida plena, de manera especial su escolarización y formación.
+En el caso de los menores de dieciséis a dieciocho años uno de los objetivos prioritarios será la preparación para la vida independiente, la orientación e inserción laboral.
+g) Poseerán una normativa interna de funcionamiento y convivencia que responda a las necesidades educativas y de protección, y tendrán recogido un procedimiento de formulación de quejas y reclamaciones.
+h) Administrarán los medicamentos que, en su caso, precisen los menores bajo prescripción y seguimiento médico, de acuerdo con la praxis profesional sanitaria. A estos efectos se llevará un registro con la historia médica de cada uno de los menores.
+i) Revisarán periódicamente el plan individual de protección con el objeto de valorar la adecuación del recurso residencial a las circunstancias personales del menor.
+j) Potenciarán las salidas de los menores en fines de semana y períodos vacacionales con sus familias de origen o, cuando ello no fuese posible o procedente, con familias alternativas.
+k) Promoverán la integración normalizada de los menores en los servicios y actividades de ocio, culturales y educativas que transcurran en el entorno comunitario en el que se encuentran.
+l) Establecerán los necesarios mecanismos de coordinación con los servicios sociales especializados para el seguimiento y ajuste de las medidas de protección.
+m)  Velarán por la preparación para la vida independiente, promoviendo la participación en las decisiones que le afecten, incluida la propia gestión del centro, la autonomía y la asunción progresiva de responsabilidades.
+n) Establecerán medidas educativas y de supervisión que garanticen la protección de los datos personales del menor al acceder a las tecnologías de la información y de la comunicación y a las redes sociales.
+2. Todos los centros de acogimiento residencial que presten servicios dirigidos a menores en el ámbito de la protección deberán estar siempre habilitados administrativamente por la Entidad Pública, debiendo respetar el régimen de habilitación lo dispuesto en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado. Además, deberán existir estándares de calidad y accesibilidad por cada tipo de servicio.
+La Entidad Pública regulará el régimen de funcionamiento de los centros de acogimiento residencial e inscribirá en el registro correspondiente a las entidades de acuerdo con sus disposiciones, prestando especial atención a la seguridad, sanidad, accesibilidad para personas con discapacidad, número, ratio y cualificación profesional de su personal, proyecto educativo, participación de los menores en su funcionamiento interno y demás condiciones que contribuyan a asegurar sus derechos.
+Asimismo, la Entidad Pública promoverá modelos de acogimiento residencial con núcleos reducidos de menores que convivan en condiciones similares a las familiares.
+3. Con el fin de favorecer que la vida del menor se desarrolle en un entorno familiar, prevalecerá la medida de acogimiento familiar sobre la de acogimiento residencial para cualquier menor, especialmente para menores de seis años. No se acordará el acogimiento residencial para menores de tres años salvo en supuestos de imposibilidad, debidamente acreditada, de adoptar en ese momento la medida de acogimiento familiar o cuando esta medida no convenga al interés superior del menor. Esta limitación para acordar el acogimiento residencial se aplicará también a los menores de seis años en el plazo más breve posible. En todo caso, y con carácter general, el acogimiento residencial de estos menores no tendrá una duración superior a tres meses.
+4. A los efectos de asegurar la protección de los derechos de los menores, la Entidad Pública deberá realizar la inspección y supervisión de los centros y servicios semestralmente y siempre que así lo exijan las circunstancias.
+5. Asimismo, el Ministerio Fiscal deberá ejercer la vigilancia sobre las decisiones de acogimiento residencial que se adopten, así como la inspección sobre todos los servicios y centros de acogimiento residencial, analizando, entre otros, los Proyectos Educativos Individualizados, el Proyecto Educativo del Centro y el Reglamento Interno.
+6. La administración pública competente podrá adoptar las medidas adecuadas para garantizar la convivencia del centro, actuando sobre aquellas conductas con medidas de carácter educativo, que no podrán atentar, en ningún caso, contra la dignidad de los menores. En casos graves de perturbación de la convivencia, podrán limitarse las salidas del centro de acogida. Estas medidas deberán ejercerse de forma inmediata y proporcional a la conducta de los menores, teniendo en cuenta las circunstancias personales de éstos, su actitud y los resultados derivados de su comportamiento.
+7. De aquellas medidas que se impusieran por conductas o actitudes que fueren atentatorias contra la convivencia en el ámbito residencial, se dará cuenta inmediata a los progenitores, tutores o representantes legales del menor y al Ministerio Fiscal.
+Se modifica por el art. 1.16 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 21 bis
+
+Artículo 21 bis. Derechos de los menores acogidos.
+1. El menor acogido, con independencia de la modalidad de acogimiento en que se encuentre, tendrá derecho a:
+a) Ser oído en los términos del artículo 9 y, en su caso, ser parte en el proceso de oposición a las medidas de protección y declaración en situación de desamparo de acuerdo con la normativa aplicable, y en función de su edad y madurez. Para ello tiene derecho a ser informado y notificado de todas las resoluciones de formalización y cese del acogimiento.
+b) Ser reconocido beneficiario del derecho de asistencia jurídica gratuita cuando se encuentre en situación de desamparo.
+c) Dirigirse directamente a la Entidad Pública y ser informado de cualquier hecho trascendente relativo al acogimiento.
+d) Relacionarse con su familia de origen en el marco del régimen de visitas, relación y comunicación establecido por la Entidad Pública.
+e) Conocer progresivamente su realidad socio-familiar y sus circunstancias para facilitar la asunción de las mismas.
+f) Recibir con la suficiente anticipación la información, los servicios y los apoyos generales que sean necesarios para hacer efectivos los derechos de los menores con discapacidad.
+g) Poner en conocimiento del Ministerio Fiscal las reclamaciones o quejas que considere, sobre las circunstancias de su acogimiento.
+h) Recibir el apoyo educativo y psicoterapéutico por parte de la Entidad Pública, para superar trastornos psicosociales de origen, medida esta aplicable tanto en acogimiento residencial, como en acogimiento familiar.
+i) Recibir el apoyo educativo y psicoterapéutico que sea necesario.
+j) Acceder a su expediente y conocer los datos sobre sus orígenes y parientes biológicos, una vez alcanzada la mayoría de edad.
+2. En los supuestos de acogimiento familiar, tiene, además, los siguientes derechos:
+a) Participar plenamente en la vida familiar del acogedor.
+b) Mantener relación con la familia de acogida tras el cese del acogimiento si la Entidad Pública entiende que conviniere a su interés superior y siempre que lo consintieren el menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años, la familia de acogida y la de origen o, en su caso, la familia adoptiva o de acogimiento permanente.
+c) Solicitar información o pedir, por sí mismo si tuviera suficiente madurez, el cese del acogimiento familiar.
+3. En los supuestos de acogimiento residencial, tiene, además, los siguientes derechos:
+a) Respeto a la privacidad y a conservar sus pertenencias personales siempre que no sean inadecuadas para el contexto educativo.
+b) Participar en la elaboración de la programación de actividades del centro y en el desarrollo de las mismas.
+c) Ser escuchado en caso de queja y ser informado de todos los sistemas de atención y reclamación que tienen a su alcance, incluido el derecho de audiencia en la Entidad Pública.
+Se añade por el art. 1.17 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 21 ter
+
+Artículo 21 ter. Medidas para garantizar la convivencia y la seguridad en los centros de protección a la infancia y la adolescencia.
+1. Las medidas adoptadas para garantizar la convivencia y la seguridad en los centros de protección a la infancia y la adolescencia, consistirán en medidas de carácter preventivo y de desescalada, pudiéndose también adoptar excepcionalmente y como último recurso, medidas de contención física del menor.
+Se prohíbe la contención mecánica, consistente en la sujeción de una persona menor de edad o a una cama articulada o a un objeto fijo o anclado a las instalaciones o a objetos muebles.
+2. Toda medida que se aplique en un centro de protección a la infancia y la adolescencia para garantizar la convivencia y seguridad se regirá por los principios de legalidad, necesidad, individualización, proporcionalidad, idoneidad, graduación, transparencia y buen gobierno.
+Asimismo, la ejecución de las medidas de contención se regirá por los principios rectores de excepcionalidad, mínima intensidad posible y tiempo estrictamente necesario, y se llevarán a cabo con el respeto debido a la dignidad, a la privacidad y a los derechos de la persona menor de edad.
+3. Las medidas de desescalada y de contención deberán aplicarse por personal especializado con formación en materia de derechos de la infancia y la adolescencia, así como en resolución de conflictos y técnicas de sujeción personal.
+4. Las medidas de desescalada consistirán en todas aquellas técnicas verbales de gestión emocional conducentes a la reducción de la tensión u hostilidad del menor que se encuentre en estado de alteración y/o agitación con inminente y grave peligro para su vida e integridad o para la de otras personas.
+5. Las medidas de contención física podrán consistir en la interposición entre el menor y la persona u objeto que se encuentra en peligro, la restricción física de espacios o movimientos y, en última instancia, bajo un estricto protocolo, la inmovilización física del menor por personal especializado del centro.
+Como medida excepcional y únicamente aplicable en centros de protección de menores con trastornos de conducta, la medida de contención física podrá consistir en la sujeción de las muñecas del menor con equipos homologados, que se aplicará con las garantías previstas en el artículo 28 de esta ley.
+6. Las medidas de contención aplicadas en los centros de protección a la infancia y la adolescencia deberán ser comunicadas con carácter inmediato a la Entidad Pública y al Ministerio Fiscal. Asimismo, se anotarán en el Libro Registro de Incidencias, que será supervisado por parte de la dirección del centro y en el expediente individualizado del menor, que debe mantenerse actualizado.
+La aplicación de medidas de contención requerirá, en todos los casos en que se hiciera uso de la fuerza, la exploración física del menor por facultativo médico en el plazo máximo de 48 horas, extendiéndose el correspondiente parte médico.
+7. Las medidas de contención no podrán aplicarse a personas menores de catorce años, a las menores gestantes, a las menores hasta seis meses después de la terminación del embarazo, a las madres lactantes, a las personas que tengan hijos e hijas consigo, ni a quienes se encuentren convalecientes por enfermedad grave, salvo que de la actuación de aquellos pudiera derivarse un inminente y grave peligro para su vida e integridad o para la de otras personas.
+Corresponde al Director del Centro o persona en la que este haya delegado, la adopción de decisiones sobre las medidas de contención física consistentes en la restricción de espacios y movimientos o la inmovilización del menor, que deberán ser motivadas y habrán de notificarse con carácter inmediato a la Entidad Pública y al Ministerio Fiscal.
+Se añade por la disposición final 8.11 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+
+### Artículo 22
+
+Artículo 22. Información a los familiares.
+La entidad pública que tenga menores bajo su guarda o tutela deberá informar a los padres, tutores o guardadores sobre la situación de aquéllos cuando no exista resolución judicial que lo prohíba.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Programas de preparación para la vida independiente.
+Las Entidades Públicas ofrecerán programas de preparación para la vida independiente dirigidos a los jóvenes que estén bajo una medida de protección, particularmente en acogimiento residencial o en situación de especial vulnerabilidad, desde dos años antes de su mayoría de edad, una vez cumplida esta, siempre que lo necesiten, con el compromiso de participación activa y aprovechamiento por parte de los mismos. Los programas deberán propiciar seguimiento socioeducativo, alojamiento, inserción socio-laboral, apoyo psicológico y ayudas económicas.
+Se añade por el art. 1.18 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 22 ter
+
+Artículo 22 ter. Sistema de información sobre la protección a la infancia y a la adolescencia.
+Las Comunidades Autónomas y la Administración General del Estado establecerán un sistema de información compartido que permita el conocimiento uniforme de la situación de la protección a la infancia y a la adolescencia en España, y de ofrecimientos para el acogimiento y la adopción, con datos desagregados por género y discapacidad, tanto a efectos de seguimiento de las medidas concretas de protección de menores como a efectos estadísticos. A estos mismos efectos se desarrollará el Registro Unificado de Maltrato Infantil.
+Se añade por el art. 1.19 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 22 quáter
+
+Artículo 22 quáter. Tratamiento de datos de carácter personal.
+1. Para el cumplimiento de las finalidades previstas en el capítulo I del título II de esta ley, las Administraciones Públicas competentes podrán proceder, sin el consentimiento del interesado, a la recogida y tratamiento de los datos que resulten necesarios para valorar la situación del menor, incluyendo tanto los relativos al mismo como los relacionados con su entorno familiar o social.
+Los profesionales, las Entidades Públicas y privadas y, en general, cualquier persona facilitarán a las Administraciones Públicas los informes y antecedentes sobre los menores, sus progenitores, tutores, guardadores o acogedores, que les sean requeridos por ser necesarios para este fin, sin precisar del consentimiento del afectado.
+2. Las entidades a las que se refiere el artículo 13 podrán tratar sin consentimiento del interesado la información que resulte imprescindible para el cumplimiento de las obligaciones establecidas en dicho precepto con la única finalidad de poner dichos datos en conocimiento de las Administraciones Públicas competentes o del Ministerio Fiscal.
+3. Los datos recabados por las Administraciones Públicas podrán utilizarse única y exclusivamente para la adopción de las medidas de protección establecidas en la presente ley, atendiendo en todo caso a la garantía del interés superior del menor y sólo podrán ser comunicados a las Administraciones Públicas que hubieran de adoptar las resoluciones correspondientes, al Ministerio Fiscal y a los órganos judiciales.
+4. Los datos podrán ser igualmente cedidos sin consentimiento del interesado al Ministerio Fiscal, que los tratará para el ejercicio de las funciones establecidas en esta ley y en la normativa que le es aplicable.
+5. En todo caso, el tratamiento de los mencionados datos quedará sometido a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y sus disposición de desarrollo, siendo exigible la implantación de las medidas de seguridad de nivel alto previstas en dicha normativa.
+Se añade por el art. 1.20 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+### Artículo 22 quinquies
+
+Artículo 22 quinquies. Impacto de las normas en la infancia y en la adolescencia.
+Las memorias del análisis de impacto normativo que deben acompañar a los anteproyectos de ley y a los proyectos de reglamentos incluirán el impacto de la normativa en la infancia y en la adolescencia.
+Se añade por el art. 1.21 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+## CAPÍTULO II
+
+De la tutela
+
+### Artículo 23
+
+Artículo 23. Indices de tutelas.
+Para el ejercicio de la función de vigilancia atribuida al Ministerio Fiscal en el Código Civil respecto de la tutela asumida por la Entidad Pública por ministerio de la ley, se llevará en cada Fiscalía un Índice de Tutelas de Menores.
+Se modifica por el art. 1.22 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#aprimero.
+
+## CAPÍTULO III
+
+De la adopción
+
+### Artículo 24
+
+Artículo 24. Adopción de menores.
+La adopción nacional e internacional se ajustará a lo establecido por la legislación civil aplicable.
+Se modifica por el art. 1.23 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#primero.
+
+## CAPÍTULO IV
+
+Centros de protección específicos de menores con problemas de conducta
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 25
+
+Artículo 25. Acogimiento residencial en centros de protección específicos de menores con problemas de conducta.
+1. Se someterán a las disposiciones previstas en este capítulo, los ingresos, actuaciones e intervenciones en centros de protección específicos de menores con problemas de conducta dependientes de las Entidades Públicas o de entidades privadas colaboradoras de aquellas, en los que esté prevista la utilización de medidas de seguridad y de restricción de libertades o derechos fundamentales.
+Estos centros, sometidos a estándares internacionales y a control de calidad, estarán destinados al acogimiento residencial de menores que estén en situación de guarda o tutela de la Entidad Pública, diagnosticados con problemas de conducta, que presenten conductas disruptivas o di-sociales recurrentes, transgresoras de las normas sociales y los derechos de terceros, cuando además así esté justificado por sus necesidades de protección y determinado por una valoración psicosocial especializada.
+2. El acogimiento residencial en estos centros se realizará exclusivamente cuando no sea posible la intervención a través de otras medidas de protección, y tendrá como finalidad proporcionar al menor un marco adecuado para su educación, la normalización de su conducta, su reintegración familiar cuando sea posible, y el libre y armónico desarrollo de su personalidad, en un contexto estructurado y con programas específicos en el marco de un proyecto educativo. Así pues, el ingreso del menor en estos centros y las medidas de seguridad que se apliquen en el mismo se utilizarán como último recurso y tendrán siempre carácter educativo.
+3. En los supuestos de guarda voluntaria prevista en el artículo 19, será necesario el compromiso de la familia a someterse a la intervención profesional.
+4. Estos centros dispondrán de una ratio adecuada entre el número de menores y el personal destinado a su atención para garantizar un tratamiento individualizado a cada menor.
+5. En el caso de menores con discapacidad, se continuará con los apoyos especializados que vinieran recibiendo o se adoptarán otros más adecuados, incorporando en todo caso medidas de accesibilidad en los centros de ingreso y en las actuaciones que se lleven a cabo.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+ Se deroga por la disposición derogatoria única de la Ley 54/2007, de 28 de diciembre. Ref. BOE-A-2007-22438.
+
+### Artículo 26
+
+Artículo 26. Ingreso en centros de protección específicos de menores con problemas de conducta.
+1. La Entidad Pública que ostente la tutela o guarda de un menor, y el Ministerio Fiscal, estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta. Esta solicitud de ingreso estará motivada y fundamentada en informes psicosociales emitidos previamente por personal especializado en protección de menores.
+2. No podrán ser ingresados en estos centros los menores que presenten enfermedades o trastornos mentales que requieran un tratamiento específico por parte de los servicios competentes en materia de salud mental o de atención a las personas con discapacidad.
+3. Para el ingreso de un menor en estos centros será necesario que la Entidad Pública o el Ministerio Fiscal recaben previamente la correspondiente autorización judicial, garantizando, en todo caso, el derecho del menor a ser oído según lo establecido en el artículo 9. Dicha autorización se otorgará tras la tramitación del procedimiento regulado en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y deberá pronunciarse sobre la posibilidad de aplicarles medidas de seguridad, así como de limitarles temporalmente el régimen de visitas, de comunicaciones y de salidas que pudieran adoptarse.
+No obstante, si razones de urgencia, convenientemente motivadas, hicieren necesaria la inmediata adopción del ingreso, la Entidad Pública o el Ministerio Fiscal podrá acordarlo previamente a la autorización judicial, debiendo comunicarlo al Juzgado competente lo antes posible y, en todo caso, dentro del plazo de veinticuatro horas, a los efectos de que se proceda a la preceptiva ratificación del mismo para lo que deberá aportar la información de que disponga y justificante del ingreso inmediato. El Juzgado resolverá en el plazo máximo de setenta y dos horas desde que reciba la comunicación, dejándose de inmediato sin efecto el ingreso en caso de que no lo autorice.
+4. Los menores recibirán a su ingreso en el centro, información escrita sobre sus derechos y deberes, las normas de funcionamiento del centro, las cuestiones de organización general, el régimen educativo, el régimen disciplinario y los medios para formular peticiones, quejas y recursos. Dicha información se transmitirá de forma que se garantice su comprensión en atención a la edad y a las circunstancias del menor.
+5. Los menores no permanecerán en el centro más tiempo del estrictamente necesario para atender a sus necesidades específicas. El cese será acordado por el órgano judicial que esté conociendo del ingreso, de oficio o a propuesta de la Entidad Pública o del Ministerio Fiscal. Esta propuesta estará fundamentada en un informe psicosocial.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 27
+
+Artículo 27. Medidas de seguridad.
+1. Las medidas de seguridad podrán consistir en la contención del menor, en su aislamiento provisional o en registros personales y materiales. Las medidas de seguridad solo podrán utilizarse fracasadas las medidas preventivas y de desescalada, que tendrán carácter prioritario.
+2. Las medidas de seguridad deberán aplicarse por personal especializado y con formación en materia de derechos de la infancia y la adolescencia, resolución de conflictos y técnicas de sujeción. Este personal solo podrá usar medidas de seguridad con los menores como último recurso, en casos de intentos de fuga, resistencia activa que suponga una alteración grave de la convivencia o una vulneración grave a los derechos de otros menores o riesgo directo de autolesión, de lesiones a otros o daños graves a las instalaciones.
+3. Corresponde al Director del Centro o persona en la que este haya delegado, la adopción de decisiones sobre las medidas de seguridad, que deberán ser motivadas y habrán de notificarse con carácter inmediato a la Entidad Pública y al Ministerio Fiscal y podrán ser recurridas por el menor, el Ministerio Fiscal y la Entidad Pública, ante el órgano judicial que esté conociendo del ingreso, el cual resolverá tras recabar informe del centro y previa audiencia del menor y del Ministerio Fiscal.
+4. Las medidas de seguridad aplicadas deberán registrarse en el Libro Registro de Incidencias, que será supervisado por parte de la dirección del centro.
+Se modifica por la disposición final 8.12 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 28
+
+Artículo 28. Medidas de contención.
+1. Las medidas de contención se adoptarán en atención a las circunstancias en presencia y en la forma en que se establece en los apartados siguientes del presente artículo.
+2. El personal de los centros únicamente podrá utilizar medidas de contención previo intento de restauración de la convivencia y de la seguridad a través de medidas de desescalada.
+3. La contención física solo podrá consistir en la interposición entre el menor y la persona o el objeto que se encuentra en peligro, la restricción física de espacios y movimientos y, en última instancia, bajo un estricto protocolo, la inmovilización física por personal especializado del centro.
+En los centros de protección específicos de menores con problemas de conducta, será admisible únicamente y con carácter excepcional la sujeción de las muñecas del menor con equipos homologados, siempre y cuando se realice bajo un estricto protocolo y no sea posible evitar por otros medios la puesta en grave riesgo de la vida o la integridad física del menor o de terceros. Esta medida excepcional solo podrá aplicarse por el tiempo mínimo imprescindible, que no podrá ser superior a una hora. Durante este tiempo, la persona menor de edad estará acompañada presencialmente y de forma continua, o supervisada de manera permanente, por un educador u otro profesional del equipo educativo o técnico del centro.
+La aplicación de esta medida se comunicará de manera inmediata a la Entidad Pública, al Ministerio Fiscal y al órgano judicial que esté conociendo del ingreso.
+4. La contención mecánica está prohibida en los términos establecidos en el art. 21 ter de esta Ley.
+Se modifica por la disposición final 8.13 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 29
+
+Artículo 29. Aislamiento del menor.
+1. El aislamiento provisional de un menor mediante su permanencia en un espacio adecuado del que se impida su salida solo podrá utilizarse en prevención de actos violentos, autolesiones, lesiones a otros menores residentes en el centro, al personal del mismo o a terceros, así como de daños graves a sus instalaciones. Se aplicará puntualmente en el momento en el que sea preciso y en ningún caso como medida disciplinaria.
+2. El aislamiento no podrá exceder de tres horas consecutivas sin perjuicio del derecho al descanso del menor. Durante el periodo de tiempo en que el menor permanezca en aislamiento estará acompañado presencialmente y de forma continua o supervisado de manera permanente por un educador u otro profesional del equipo educativo o técnico del centro.
+Se modifica por la disposición final 8.14 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 30
+
+Artículo 30. Registros personales y materiales.
+1. Los registros personales y materiales se llevarán a cabo con el respeto debido a la dignidad, privacidad y a los derechos fundamentales de la persona, con el fin de evitar situaciones de riesgo producidas por la introducción o salida del centro de objetos, instrumentos o sustancias que por sí mismos o por su uso inadecuado pueden resultar peligrosos o perjudiciales.
+Se utilizarán preferentemente medios electrónicos.
+2. El registro personal y cacheo del menor se efectuará por el personal indispensable que requerirá, al menos dos profesionales del centro del mismo sexo que el menor. Cuando implique alguna exposición corporal esta será parcial, se realizará en lugar adecuado, sin la presencia de otros menores y preservando en todo lo posible la intimidad del menor.
+3. El personal del centro podrá realizar el registro de las pertenencias del menor, pudiendo retirarle aquellos objetos que se encuentren en su posesión que pudieran ser de ilícita procedencia, resultar dañinos para sí, para otros o para las instalaciones del centro o que no estén autorizados para menores de edad. Los registros materiales se deberán comunicar previamente al menor siempre que no pudieran efectuarse en su presencia.
+Se modifica por la disposición final 8.15 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-8
+ Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 31
+
+Artículo 31. Régimen disciplinario.
+1. El régimen disciplinario en estos centros se fundará siempre en el proyecto socio-educativo del centro y en el individualizado de cada menor, al cual se informará del mismo.
+2. El procedimiento disciplinario será el último recurso a utilizar, dando prioridad a los sistemas restaurativos de resolución de conflictos e interacción educativa. No podrán establecerse restricciones de igual o mayor entidad que las previstas en la legislación reguladora de la responsabilidad penal de los menores.
+3. En ningún caso podrán utilizarse las medidas contenidas en los artículos 27 a 30 con fines disciplinarios.
+4. La regulación autonómica sobre régimen disciplinario deberá ser suficiente y adecuada a los principios de la Constitución, de esta ley y del título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, garantizando al menor la asistencia legal de un abogado independiente, respetando en todo momento la dignidad y los derechos de los menores y sin que en ningún caso se les pueda privar de los mismos.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 32
+
+Artículo 32. Supervisión y control.
+Con independencia de las inspecciones de los centros que puedan efectuar el Defensor del Pueblo, las instituciones autonómicas equivalentes y el Ministerio Fiscal, la medida de ingreso del menor en el centro de protección específico deberá revisarse al menos trimestralmente por la Entidad Pública, debiendo remitir al órgano judicial competente que autorizó el ingreso y al Ministerio Fiscal, con esa periodicidad, el oportuno informe motivado de seguimiento que incluya las entradas del Libro de Registro de Incidencias.
+A los efectos de las inspecciones e informes a los que se refiere el párrafo anterior, el Libro de Registro de Incidencias deberá respetar, respecto a los cesionarios de datos, la adopción de las medidas de seguridad de nivel medio establecidas en la legislación vigente en materia de protección de datos de carácter personal.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 33
+
+Artículo 33. Administración de medicamentos.
+1. La administración de medicamentos a los menores, cuando sea necesario para su salud, deberá tener lugar de acuerdo con la praxis profesional sanitaria, respetando las disposiciones sobre consentimiento informado, y en los términos y condiciones previstas en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+2. En todo caso, deberá ser un facultativo médico autorizado quien recete medicamentos sujetos a prescripción médica y realice el seguimiento de su correcta administración y de la evolución del tratamiento. A estos efectos se llevará un registro con la historia médica de cada uno de los menores.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 34
+
+Artículo 34. Régimen de visitas y permisos de salida.
+1. Las visitas de familiares y otras personas allegadas sólo podrán ser restringidas o suspendidas en interés del menor por el Director del centro, de manera motivada, cuando su tratamiento educativo lo aconseje y conforme a los términos recogidos en la autorización judicial de ingreso.
+El derecho de visitas no podrá ser restringido por la aplicación de medidas disciplinarias.
+2. El Director del centro de protección específico de menores con problemas de conducta podrá restringir o suprimir las salidas de las personas ingresadas en el mismo, siempre en interés del menor y de manera motivada, cuando su tratamiento educativo lo aconseje, conforme a los términos recogidos en la autorización judicial de ingreso.
+3. Las medidas limitativas del régimen de visitas y de los permisos de salida deberán ser notificadas a las personas interesadas, al menor y al Ministerio Fiscal de acuerdo con la legislación aplicable.
+Dichas medidas podrán ser recurridas por el Ministerio Fiscal y por el menor al que se garantizará asistencia legal de abogado independiente, ante el órgano judicial que esté conociendo el ingreso, el cual resolverá tras recabar informe del centro y previa audiencia de las personas interesadas, del menor y del Ministerio Fiscal.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Artículo 35
+
+Artículo 35. Régimen de comunicaciones del menor.
+1. Los menores ingresados en los centros tendrán derecho a remitir quejas de forma confidencial al Ministerio Fiscal, a la autoridad judicial competente y al Defensor del Pueblo o ante las instituciones autonómicas homólogas. Este derecho no podrá ser restringido por la aplicación de medidas disciplinarias.
+2. Las comunicaciones del menor con familiares y otras personas allegadas serán libres y secretas.
+Sólo podrán ser restringidas o suspendidas por el Director del centro en interés del menor, de manera motivada, cuando su tratamiento educativo lo aconseje y conforme a los términos recogidos en la autorización judicial de ingreso. La restricción o suspensión del derecho a mantener comunicaciones o del secreto de las mismas deberá ser adoptada de acuerdo con la legislación aplicable y notificada a las personas interesadas, al menor y al Ministerio Fiscal, quienes podrán recurrirla ante el órgano jurisdiccional que autorizó el ingreso, el cual resolverá tras recabar informe del centro y previa audiencia de las personas interesadas, del menor y del Ministerio Fiscal.
+Se añade por el art. 1.6 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se aplicarán las normas de la jurisdicción voluntaria a las actuaciones que se sigan:
+1.º Para adoptar las medidas previstas en el artículo 158 del Código Civil.
+2.º Contra las resoluciones que declaren el desamparo y la asunción de la tutela por ministerio de la Ley y la idoneidad de los solicitantes de adopción.
+3.º Para cualesquiera otras reclamaciones frente a resoluciones de las entidades públicas que surjan con motivo del ejercicio de sus funciones en materia de tutela o guarda de menores.
+En el indicado procedimiento, los recursos se admitirán, en todo caso en un solo efecto.
+Quedará siempre a salvo el ejercicio de las acciones en la vía judicial ordinaria.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Para la inscripción en el Registro español de las adopciones constituidas en el extranjero, el encargado del Registro apreciará la concurrencia de los requisitos del artículo 9.5 del Código Civil.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Con excepción de las declaraciones de incapacitación y de prodigalidad, las demás actuaciones judiciales previstas en los Títulos IX y X del Libro I del Código Civil se ajustarán al procedimiento previsto para la jurisdicción voluntaria, con las siguientes particularidades:
+1.ª Tanto el Juez como el Ministerio Fiscal actuarán de oficio en interés del menor o incapaz, adoptando y proponiendo las medidas, diligencias y pruebas que estimen oportunas. Suplirán la pasividad de los particulares y les asesorarán sobre sus derechos y sobre el modo de subsanar los defectos de sus solicitudes.
+2.ª No será necesaria la intervención de Abogado ni de Procurador.
+3.ª La oposición de algún interesado se ventilará en el mismo procedimiento, sin convertirlo en contencioso.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley se regirán por la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogado el Decreto de 2 de julio de 1948 por el que se aprueba el texto refundido de la Legislación sobre Protección de Menores y cuantas normas se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+El artículo 9.4 del Código Civil, tendrá la siguiente redacción:
+«El carácter y contenido de la filiación, incluida la adoptiva y las relaciones paterno-filiales, se regirán por la Ley personal del hijo y si no pudiera determinarse ésta, se estará a la de la residencia habitual del hijo.»
+
+### Disposición final segunda
+
+Disposición final segunda.
+El artículo 9.5 del Código Civil, párrafos tercero, cuarto y quinto, tendrá la siguiente redacción:
+«Para la constitución de la adopción, los Cónsules españoles tendrán las mismas atribuciones que el Juez, siempre que el adoptante sea español y el adoptando esté domiciliado en la demarcación consular. La propuesta previa será formulada por la entidad pública correspondiente al último lugar de residencia del adoptante en España. Si el adoptante no tuvo residencia en España en los dos últimos años, no será necesaria propuesta previa, pero el Cónsul recabará de las autoridades del lugar de residencia de aquél informes suficientes para valorar su idoneidad.
+En la adopción constituida por la competente autoridad extranjera, la Ley del adoptando regirá en cuanto a capacidad y consentimientos necesarios. Los consentimientos exigidos por tal Ley podrán prestarse ante una autoridad del país en que se inició la constitución o, posteriormente, ante cualquier otra autoridad competente. En su caso, para la adopción de un español será necesario el consentimiento de la entidad pública correspondiente a la última residencia del adoptando en España.
+No será reconocida en España como adopción la constituida en el extranjero por adoptante español, si los efectos de aquélla no se corresponden con los previstos por la legislación española. Tampoco lo será, mientras la entidad pública competente no haya declarado la idoneidad del adoptante, si éste fuera español y estuviera domiciliado en España al tiempo de la adopción.»
+
+### Disposición final tercera
+
+Disposición final tercera.
+El artículo 149 del Código Civil, tendrá la siguiente redacción:
+«El obligado a prestar alimentos podrá, a su elección, satisfacerlos, o pagando la pensión que se fije, o recibiendo y manteniendo en su propia casa al que tiene derecho a ellos.
+Esta elección no será posible en cuanto contradiga la situación de convivencia determinada para el alimentista por las normas aplicables o por resolución judicial. También podrá ser rechazada cuando concurra justa causa o perjudique el interés del alimentista menor de edad.»
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+El artículo 158 del Código Civil tendrá la siguiente redacción:
+«El Juez, de oficio o a instancia del propio hijo, de cualquier pariente o del Ministerio Fiscal, dictará:
+1.º Las medidas convenientes para asegurar la prestación de alimentos y proveer a las futuras necesidades del hijo, en caso de incumplimiento de este deber, por sus padres.
+2.º Las disposiciones apropiadas a fin de evitar a los hijos perturbaciones dañosas en los casos de cambio de titular de la potestad de guarda.
+3.º En general, las demás disposiciones que considere oportunas, a fin de apartar al menor de un peligro o de evitarle perjuicios.
+Todas estas medidas podrán adoptarse dentro de cualquier proceso civil o penal o bien en un procedimiento de jurisdicción voluntaria.»
+
+### Disposición final quinta
+
+Disposición final quinta.
+El artículo 172 del Código Civil queda redactado como sigue:
+«1. La entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores, cuando constate que un menor se encuentra en situación de desamparo, tiene por ministerio de la Ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniéndolo en conocimiento del Ministerio Fiscal, y notificando en legal forma a los padres, tutores o guardadores, en un plazo de cuarenta y ocho horas. Siempre que sea posible, en el momento de la notificación se les informará de forma presencial y de modo claro y comprensible de las causas que dieron lugar a la intervención de la Administración y de los posibles efectos de la decisión adoptada.
+Se considera como situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
+La asunción de la tutela atribuida a la entidad pública lleva consigo la suspensión de la patria potestad o de la tutela ordinaria. No obstante, serán válidos los actos de contenido patrimonial que realicen los padres o tutores en representación del menor y que sean beneficiosos para él.
+2. Cuando los padres o tutores, por circunstancias graves, no puedan cuidar al menor, podrán solicitar de la entidad pública competente que ésta asuma su guarda durante el tiempo necesario.
+La entrega de la guarda se hará constar por escrito dejando constancia de que los padres o tutores han sido informados de las responsabilidades que siguen manteniendo respecto del hijo, así como de la forma en que dicha guarda va a ejercerse por la Administración.
+Cualquier variación posterior de la forma de ejercicio será fundamentada y comunicada a aquéllos y al Ministerio Fiscal.
+Asimismo, se asumirá la guarda por la entidad pública cuando así lo acuerde el Juez en los casos en que legalmente proceda.
+3. La guarda asumida a solicitud de los padres o tutores o como función de la tutela por ministerio de la Ley, se realizará mediante el acogimiento familiar o el acogimiento residencial. El acogimiento familiar se ejercerá por la persona o personas que determine la entidad pública. El acogimiento residencial se ejercerá por el Director del centro donde sea acogido el menor.
+4. Se buscará siempre el interés del menor y se procurará, cuando no sea contrario a ese interés, su reinserción en la propia familia y que la guarda de los hermanos se confíe a una misma institución o persona.
+5. Si surgieren problemas graves de convivencia entre el menor y la persona o personas a quien hubiere sido confiado en guarda, aquél o persona interesada podrá solicitar la remoción de ésta.
+6. Las resoluciones que aprecien el desamparo y declaren la asunción de la tutela por ministerio de la Ley serán recurribles ante la jurisdicción civil sin necesidad de reclamación administrativa previa.»
+
+### Disposición final sexta
+
+Disposición final sexta.
+El artículo 173 del Código Civil tendrá la siguiente redacción:
+«1. El acogimiento familiar produce la plena participación del menor en la vida de familia e impone a quien lo recibe las obligaciones de velar por él, tenerlo en su compañía, alimentarlo, educarlo y procurarle una formación integral. Este acogimiento se podrá ejercer por la persona o personas que sustituyan al núcleo familiar del menor o por responsable del hogar funcional.
+2. El acogimiento se formalizará por escrito, con el consentimiento de la entidad pública, tenga o no la tutela o la guarda, de las personas que reciban al menor y de éste si tuviera doce años cumplidos. Cuando fueran conocidos los padres que no estuvieran privados de la patria potestad, o el tutor, será necesario también que presten o hayan prestado su consentimiento, salvo que se trate de un acogimiento familiar provisional a que hace referencia el apartado 3 de este artículo.
+El documento de formalización del acogimiento familiar, a que se refiere el párrafo anterior, incluirá los siguientes extremos:
+1.º Los consentimientos necesarios.
+2.º Modalidad del acogimiento y duración prevista para el mismo.
+3.º Los derechos y deberes de cada una de las partes, y en particular:
+a) La periodicidad de las visitas por parte de la familia del menor acogido.
+b) El sistema de cobertura por parte de la entidad pública o de otros responsables civiles de los daños que sufra el menor o de los que pueda causar a terceros.
+c) La asunción de los gastos de manutención, educación y atención sanitaria.
+4.º El contenido del seguimiento que, en función de la finalidad del acogimiento, vaya a realizar la entidad pública, y el compromiso de colaboración de la familia acogedora al mismo.
+5.º La compensación económica que, en su caso, vayan a recibir los acogedores.
+6.º Si los acogedores actúan con carácter profesionalizado o si el acogimiento se realiza en un hogar funcional, se señalará expresamente.
+7.º Informe de los servicios de atención a menores.
+Dicho documento se remitirá al Ministerio Fiscal.
+3. Si los padres o el tutor no consienten o se oponen al mismo, el acogimiento sólo podrá ser acordado por el Juez, en interés del menor, conforme a los trámites de la Ley de Enjuiciamiento Civil. La propuesta de la entidad pública contendrá los mismos extremos referidos en el número anterior.
+No obstante, la entidad pública podrá acordar en interés del menor, un acogimiento familiar provisional, que subsistirá hasta tanto se produzca resolución judicial.
+La entidad pública, una vez realizadas las diligencias oportunas, y concluido el expediente, deberá presentar la propuesta al Juez de manera inmediata y, en todo caso, en el plazo máximo de quince días.
+4. El acogimiento del menor cesará:
+1.º Por decisión judicial.
+2.º Por decisión de las personas que lo tienen acogido, previa comunicación de éstas a la entidad pública.
+3.º A petición del tutor o de los padres que tengan la patria potestad y reclamen su compañía.
+4.º Por decisión de la entidad pública que tenga la tutela o guarda del menor, cuando lo considere necesario para salvaguardar el interés de éste oídos los acogedores.
+Será precisa resolución judicial de cesación cuando el acogimiento haya sido dispuesto por el Juez.
+5. Todas las actuaciones de formalización y cesación del acogimiento se practicarán con la obligada reserva.»
+
+### Disposición final séptima
+
+Disposición final séptima.
+Se introduce en el Código Civil un nuevo artículo con el número 173 bis, con la siguiente redacción:
+«Artículo 173 bis.
+El acogimiento familiar, podrá adoptar las siguientes modalidades atendiendo a su finalidad:
+1.º Acogimiento familiar simple, que tendrá carácter transitorio, bien porque de la situación del menor se prevea la reinserción de éste en su propia familia bien en tanto se adopte una medida de protección que revista un carácter más estable.
+2.º Acogimiento familiar permanente, cuando la edad u otras circunstancias del menor y su familia así lo aconsejen y así lo informen los servicios de atención al menor. En tal supuesto, la entidad pública podrá solicitar del Juez que atribuya a los acogedores aquellas facultades de la tutela que faciliten el desempeño de sus responsabilidades, atendiendo en todo caso al interés superior del menor.
+3.º Acogimiento familiar preadoptivo, que se formalizará por la entidad pública cuando ésta eleve la propuesta de adopción del menor, informada por los servicios de atención al menor, ante la autoridad judicial, siempre que los acogedores reúnan los requisitos necesarios para adoptar, hayan sido seleccionados y hayan prestado ante la entidad pública su consentimiento a la adopción, y se encuentre el menor en situación jurídica adecuada para su adopción.
+La entidad pública podrá formalizar, asimismo, un acogimiento familiar preadoptivo cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor a la familia. Este período será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.»
+
+### Disposición final octava
+
+Disposición final octava.
+El artículo 174.2 del Código Civil queda redactado como sigue:
+«2. A tal fin, la entidad pública le dará noticia inmediata de los nuevos ingresos de menores y le remitirá copia de las resoluciones administrativas y de los escritos de formalización relativos a la constitución, variación y cesación de las tutelas, guardas y acogimientos. Igualmente le dará cuenta de cualquier novedad de interés en las circunstancias del menor.
+El Fiscal habrá de comprobar, al menos semestralmente, la situación del menor, y promoverá ante el Juez las medidas de protección que estime necesarias.»
+
+### Disposición final novena
+
+Disposición final novena.
+El artículo 175.1 del Código Civil queda redactado como sigue:
+«1. La adopción requiere que el adoptante sea mayor de veinticinco años. En la adopción por ambos cónyuges basta que uno de ellos haya alcanzado dicha edad. En todo caso, el adoptante habrá de tener, por lo menos, catorce años más que el adoptado.»
+
+### Disposición final décima
+
+Disposición final décima.
+El artículo 176 del Código Civil quedará redactado como sigue:
+«1. La adopción se constituye por resolución judicial, que tendrá en cuenta siempre el interés del adoptando y la idoneidad del adoptante o adoptantes para el ejercicio de la patria potestad.
+2. Para iniciar el expediente de adopción es necesaria la propuesta previa de la entidad pública a favor del adoptante o adoptantes que dicha entidad pública haya declarado idóneos para el ejercicio de la patria potestad. La declaración de idoneidad podrá ser previa a la propuesta.
+No obstante, no se requiere propuesta cuando en el adoptando concurra alguna de las circunstancias siguientes:
+1.ª Ser huérfano y pariente del adoptante en tercer grado por consanguinidad o afinidad.
+2.ª Ser hijo del consorte del adoptante.
+3.ª Llevar más de un año acogido legalmente bajo la medida de un acogimiento preadoptivo o haber estado bajo su tutela por el mismo tiempo.
+4.ª Ser mayor de edad o menor emancipado.
+3. En los tres primeros supuestos del apartado anterior podrá constituirse la adopción, aunque el adoptante hubiere fallecido, si éste hubiese prestado ya ante el Juez su consentimiento. Los efectos de la resolución judicial en este caso se retrotraerán a la fecha de prestación de tal consentimiento.»
+
+### Disposición final undécima
+
+Disposición final undécima.
+El artículo 177 del Código Civil quedará redactado como sigue:
+«1. Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptantes y el adoptando mayor de doce años.
+2. Deberán asentir a la adopción en la forma establecida en la Ley de Enjuiciamiento Civil:
+1.º El cónyuge del adoptante, salvo que medie separación legal por sentencia firme o separación de hecho por mutuo acuerdo que conste fehacientemente.
+2.º Los padres del adoptando que no se hallare emancipado, a menos que estuvieran privados de la patria potestad por sentencia firme o incursos en causa legal para tal privación. Esta situación sólo podrá apreciarse en procedimiento judicial contradictorio, el cual podrá tramitarse como dispone el artículo 1.827 de la Ley de Enjuiciamiento Civil.
+No será necesario el asentimiento cuando los que deban prestarlo se encuentren imposibilitados para ello, imposibilidad que se apreciará motivadamente en la resolución judicial que constituya la adopción.
+El asentimiento de la madre no podrá prestarse hasta que hayan transcurrido treinta días desde el parto.
+3. Deberán ser simplemente oídos por el Juez:
+1.º Los padres que no hayan sido privados de la patria potestad, cuando su asentimiento no sea necesario para la adopción.
+2.º El tutor y, en su caso, el guardador o guardadores.
+3.º El adoptando menor de doce años, si tuviere suficiente juicio.
+4.º La entidad pública, a fin de apreciar la idoneidad del adoptante, cuando el adoptando lleve más de un año acogido legalmente por aquél.»
+
+### Disposición final duodécima
+
+Disposición final duodécima.
+El primer párrafo del artículo 211 del Código Civil tendrá la siguiente redacción:
+«El internamiento por razón de trastorno psíquico, de una persona que no esté en condiciones de decidirlo por sí, aunque esté sometida a la patria potestad, requerirá autorización judicial. Esta será previa al internamiento, salvo que razones de urgencia hiciesen necesaria la inmediata adopción de la medida, de la que se dará cuenta cuanto antes al Juez y, en todo caso, dentro del plazo de veinticuatro horas. El internamiento de menores, se realizará en todo caso en un establecimiento de salud mental adecuado a su edad, previo informe de los servicios de asistencia al menor.»
+Se declara inconstitucional, con el efecto establecido en el fundamento jurídico 6, por Sentencia del TC 131/2010, de 2 de diciembre. Ref. BOE-A-2011-273.
+
+### Disposición final decimotercera
+
+Disposición final decimotercera.
+El artículo 216 del Código Civil tendrá un segundo párrafo con la siguiente redacción:
+«Las medidas y disposiciones previstas en el artículo 158 de este Código podrán ser acordadas también por el Juez, de oficio o a instancia de cualquier interesado, en todos los supuestos de tutela o guarda, de hecho o de derecho, de menores e incapaces, en cuanto lo requiera el interés de éstos.»
+
+### Disposición final decimocuarta
+
+Disposición final decimocuarta.
+El artículo 234 del Código Civil tendrá un último párrafo con la siguiente redacción:
+«Se considera beneficiosa para el menor la integración en la vida de familia del tutor.»
+
+### Disposición final decimoquinta
+
+Disposición final decimoquinta.
+El artículo 247 del Código Civil tendrá la siguiente redacción:
+«Serán removidos de la tutela los que después de deferida incurran en causa legal de inhabilidad, o se conduzcan mal en el desempeño de la tutela, por incumplimiento de los deberes propios del cargo o por notoria ineptitud de su ejercicio, o cuando surgieran problemas de convivencia graves y continuados.»
+
+### Disposición final decimosexta
+
+Disposición final decimosexta.
+El artículo 248 del Código Civil tendrá la siguiente redacción:
+«El Juez, de oficio o a solicitud del Ministerio Fiscal, del tutelado o de otra persona interesada, decretará la remoción del tutor, previa audiencia de éste si, citado, compareciere. Asimismo, se dará audiencia al tutelado si tuviere suficiente juicio.»
+
+### Disposición final decimoséptima
+
+Disposición final decimoséptima.
+Se añade un segundo párrafo al artículo 260 del Código Civil con la siguiente redacción:
+«No obstante, la entidad pública que asuma la tutela de un menor por ministerio de la Ley o la desempeñe por resolución judicial no precisará prestar fianza.»
+
+### Disposición final decimoctava
+
+Disposición final decimoctava.
+1. Los artículos del Código Civil que se relacionan a continuación quedarán redactados como sigue:
+Párrafo segundo del artículo 166:
+«Los padres deberán recabar autorización judicial para repudiar la herencia o legado deferidos al hijo. Si el Juez denegase la autorización, la herencia sólo podrá ser aceptada a beneficio de inventario.»
+Párrafo segundo del artículo 185:
+«Serán aplicables a los representantes dativos del ausente, en cuanto se adapten a su especial representación, los preceptos que regulan el ejercicio de la tutela y las causas de inhabilidad, remoción y excusa de los tutores.»
+Artículo 271:
+«El tutor necesita autorización judicial:
+1.º Para internar al tutelado en un establecimiento de salud mental o de educación o formación especial.
+2.º Para enajenar o gravar bienes inmuebles, establecimientos mercantiles o industriales, objetos preciosos y valores mobiliarios de los menores o incapacitados, o celebrar contratos o realizar actos que tengan carácter dispositivo y sean susceptibles de inscripción. Se exceptúa la venta del derecho de suscripción preferente de acciones.
+3.º Para renunciar derechos, así como transigir o someter a arbitraje cuestiones en que el tutelado estuviese interesado.
+4.º Para aceptar sin beneficio de inventario cualquier herencia, o para repudiar ésta o las liberalidades.
+5.º Para hacer gastos extraordinarios en los bienes.
+6.º Para entablar demanda en nombre de los sujetos a tutela, salvo en los asuntos urgentes o de escasa cuantía.
+7.º Para ceder bienes en arrendamiento por tiempo superior a seis años.
+8.º Para dar y tomar dinero a préstamo.
+9.º Para disponer a título gratuito de bienes o derechos del tutelado.
+10. Para ceder a terceros los créditos que el tutelado tenga contra él, o adquirir a título oneroso los créditos de terceros contra el tutelado.»
+Artículo 272:
+«No necesitarán autorización judicial la partición de herencia ni la división de cosa común realizadas por el tutor, pero una vez practicadas requerirán aprobación judicial.»
+Artículo 273:
+«Antes de autorizar o aprobar cualquiera de los actos comprendidos en los dos artículos anteriores, el Juez oirá al Ministerio Fiscal y al tutelado, si fuese mayor de doce años o lo considera oportuno, y recabará los informes que le sean solicitados o estime pertinentes.»
+Artículo 300:
+«El Juez, en procedimiento de jurisdicción voluntaria, de oficio o a petición del Ministerio Fiscal, del propio menor o de cualquier persona capaz de comparecer en juicio, nombrará defensor a quien estime más idóneo para el cargo.»
+Artículo 753:
+«Tampoco surtirá efecto la disposición testamentaria en favor de quien sea tutor o curador del testador, salvo cuando se haya hecho después de aprobadas definitivamente las cuentas o, en el caso en que no tuviese que rendirse éstas, después de la extinción de la tutela o curatela.
+Serán, sin embargo, válidas las disposiciones hechas en favor del tutor o curador que sea ascendiente, descendiente, hermano, hermana o cónyuge del testador.»
+Artículo 996:
+«Si la sentencia de incapacitación por enfermedades o deficiencias físicas o psíquicas no dispusiere otra cosa, el sometido a curatela podrá, asistido del curador, aceptar la herencia pura y simplemente o a beneficio de inventario.»
+Párrafo tercero del artículo 1.057:
+«Lo dispuesto en este artículo y en el anterior se observará aunque entre los coherederos haya alguno sometido a patria potestad o tutela, o a curatela por prodigalidad o por enfermedades o deficiencias físicas o psíquicas; pero el contador partidor deberá en estos casos inventariar los bienes de la herencia, con citación de los representantes legales o curadores de dichas personas.»
+Artículo 1.329:
+«El menor no emancipado que con arreglo a la Ley pueda casarse podrá otorgar capitulaciones, pero necesitará el concurso y consentimiento de sus padres o tutor, salvo que se limite a pactar el régimen de separación o el de participación.»
+Artículo 1.330:
+«El incapacitado judicialmente sólo podrá otorgar capitulaciones matrimoniales con la asistencia de sus padres, tutor o curador.»
+Número 1.º del artículo 1.459:
+«Los que desempeñen algún cargo tutelar, los bienes de la persona o personas que estén bajo su guarda o protección.»
+Número 3.º del artículo 1.700:
+«Por muerte, insolvencia, incapacitación o declaración de prodigalidad de cualquiera de los socios, y en el caso previsto en el artículo 1.699.»
+Número 3.º del artículo 1.732:
+«Por muerte, incapacitación, declaración de prodigalidad, quiebra o insolvencia del mandante o del mandatario.»
+2. Quedan modificados los siguientes artículos del Código Civil:
+En los artículos 108, 823 y 980 quedan suprimidas, respectivamente, las palabras «plena», «plena» y «plenamente».
+En los artículos 323 y 324 se sustituyen, respectivamente, las palabras «tutor» y «tutores» por «curador» y «curadores».
+Queda suprimido el párrafo tercero del artículo 163.
+En el primer párrafo del artículo 171 se eliminan las palabras «no se constituirá la tutela, sino que».
+Al final del último párrafo de este mismo artículo 171 se agrega la frase «o curatela, según proceda».
+El número 1.º del artículo 234 se sustituye por el siguiente:
+«Al cónyuge que conviva con el tutelado.»
+En el artículo 852 se sustituye «y 5.º» por «, 5.º y 6.º».
+En el artículo 855 se sustituye «y 6.º» por «, 5.º y 6.º»; «169» por «170», y se suprime su último párrafo.
+Queda suprimido el párrafo segundo del artículo 992 y en el tercero, que pasará a ser segundo, se elimina la palabra «también».
+Se agrega un segundo párrafo al artículo 1.060 del siguiente tenor:
+«El defensor judicial designado para representar a un menor o incapacitado en una partición, deberá obtener la aprobación del Juez, si éste no hubiera dispuesto otra cosa al hacer el nombramiento.»
+El número 2.º del artículo 1.263 queda sustituido por el siguiente:
+«Los incapacitados.»
+En el número 1.º del artículo 1.291 las palabras «sin autorización judicial» sustituyen a «sin autorización del consejo de familia».
+En el artículo 1.338 se sustituyen las palabras «El menor» por «El menor no emancipado».
+En el número 1.º del artículo 1.393 se sustituyen las palabras «declarado ausente» por «declarado pródigo, ausente».
+
+### Disposición final decimonovena
+
+Disposición final decimonovena.
+La Ley de Enjuiciamiento Civil quedará modificada en el siguiente sentido:
+1. Los actuales artículos 1.910 a 1.918 de la Ley de Enjuiciamiento Civil pasarán a integrar la Sección Tercera del Título IV del Libro III, titulada «Medidas provisionales en relación con los hijos de familia».
+2. La Sección Segunda del Título IV del Libro III, se denominará «Medidas relativas al retorno de menores en los supuestos de sustracción internacional» y comprenderá los artículos 1.901 a 1.909, ambos inclusive, con el siguiente contenido:
+«Artículo 1901
+En los supuestos en que, siendo aplicable un convenio internacional, se pretenda la restitución de un menor que hubiera sido objeto de un traslado o retención ilícita, se procederá de acuerdo con lo previsto en esta Sección.
+Artículo 1902
+Será competente el Juez de Primera Instancia en cuya demarcación judicial se halle el menor que ha sido objeto de un traslado o retención ilícitos.
+Podrá promover el procedimiento la persona, institución u organismo que tenga atribuido el derecho de custodia del menor, la autoridad central española encargada del cumplimiento de las obligaciones impuestas por el correspondiente convenio y, en representación de ésta, la persona que designe dicha autoridad.
+Las actuaciones se practicarán con intervención del Ministerio Fiscal y los interesados podrán actuar bajo la dirección de Abogado.
+La tramitación del procedimiento tendrá carácter preferente y deberá realizarse en el plazo de seis semanas desde la fecha en que se hubiere solicitado ante el Juez la restitución del menor.
+Artículo 1903
+A petición de quien promueva el procedimiento o del Ministerio Fiscal, el Juez podrá adoptar la medida provisional de custodia del menor prevista en la Sección siguiente de esta Ley y cualquier otra medida de aseguramiento que estime pertinente.
+Artículo 1904
+Promovido el expediente mediante la solicitud a la que se acompañará la documentación requerida por el correspondiente convenio internacional, el Juez dictará, en el plazo de veinticuatro horas, resolución en la que se requerirá a la persona que ha sustraído o retiene al menor, con los apercibimientos legales, para que en la fecha que se determine, que no podrá exceder de los tres días siguientes, comparezca en el juzgado con el menor y manifieste:
+a) Si accede voluntariamente a la restitución del menor a la persona, institución y organismo que es titular del derecho de custodia; o, en otro caso,
+b) Si se opone a la restitución por existir alguna de las causas establecidas en el correspondiente convenio cuyo texto se acompañará al requerimiento.
+Artículo 1905
+Si no compareciese el requerido, el Juez dispondrá a continuación del procedimiento de su rebeldía citando a los interesados y al Ministerio Fiscal a una comparecencia que tendrá lugar en plazo no superior a los cinco días siguientes y decretará las medidas provisionales que juzgue pertinentes en relación con el menor.
+En la comparecencia se oirá al solicitante y al Ministerio Fiscal y en su caso y separadamente, al menor sobre su restitución. El Juez resolverá por auto dentro de los dos días siguientes a contar desde la fecha de la comparecencia, si procede o no la restitución, teniendo en cuenta el interés del menor y los términos del correspondiente convenio.
+Artículo 1906
+Si compareciese el requerido y accediere a la restitución voluntaria del menor, se levantará acta, acordando el Juez, mediante auto, la conclusión del procedimiento y la entrega del menor a la persona, institución y organismo titular del derecho de custodia, así como lo procedente en cuanto a costas y gastos.
+Artículo 1907
+Si en la primera comparecencia el requerido formulase oposición a la restitución del menor, al amparo de las causas establecidas en el correspondiente convenio, no será de aplicación lo dispuesto en el artículo 1.817 de esta Ley, ventilándose la oposición ante el mismo Juez por los trámites del juicio verbal. A este fin:
+a) En el mismo acto de comparecencia serán citados todos los interesados y el Ministerio Fiscal, para que expongan lo que estimen procedente y, en su caso, se practiquen las pruebas, en ulterior comparecencia, que se celebrará de conformidad con lo dispuesto en el artículo 730 y concordantes de esta Ley dentro del plazo improrrogable de los cinco días a contar desde la primera.
+b) Asimismo, tras la primera comparecencia el Juez oirá, en su caso, separadamente al menor sobre su restitución y podrá recabar los informes que estime pertinentes.
+Artículo 1908
+Celebrada la comparecencia y, en su caso, practicadas las pruebas pertinentes dentro de los seis días posteriores, el Juez dictará auto dentro de los tres días siguientes, resolviendo, en interés del menor y en los términos del convenio, si procede o no su restitución. Contra dicho auto sólo cabrá recurso de apelación en un solo efecto, que deberá resolverse en el improrrogable plazo de veinte días.
+Artículo 1909
+Si el Juez resolviese la restitución del menor, en el auto se establecerá que la persona que trasladó o retuvo al menor abone las costas del procedimiento así como los gastos en que haya incurrido el solicitante, incluídos los del viaje y los que ocasione la restitución del menor al Estado de su residencia habitual con anterioridad a la sustracción, que se harán efectivos por los trámites previstos en el artículo 928 y concordantes de esta Ley.
+En los demás supuestos, se declararán de oficio las costas del procedimiento.»
+
+### Disposición final vigésima
+
+Disposición final vigésima.
+El Ministerio Fiscal velará para que, incoado un procedimiento sobre reclamación frente a las resoluciones de las entidades públicas que surjan con motivo del ejercicio de sus funciones en materia de tutela o de guarda, se resuelvan en el mismo expediente todas las acciones e incidencias que afecten a un mismo menor. A tal efecto, promoverá ante los órganos jurisdiccionales las actuaciones oportunas previstas en la legislación procesal.
+
+### Disposición final vigésima primera
+
+Disposición final vigésima primera.
+1. El artículo 5, en sus apartados 3 y 4; el artículo 7 en su apartado 1; el artículo 8, en su apartado 2 letra c); el artículo 10, en sus apartados 1 y 2 letras a), b) y d); los artículos 11, 12, 13, 15, 16, 17, 18 en su apartado 2, 21 en sus apartados 1, 2 y 3, y el artículo 22, son legislación supletoria de la que dicten las Comunidades Autónomas con competencia en materia de asistencia social.
+2. El artículo 10, en su apartado 3, el artículo 21, en su apartado 4, el artículo 23, las disposiciones adicionales primera, segunda y tercera, la disposición transitoria única y las disposiciones finales decimonovena y vigésima, se dictan al amparo del artículo 149.1.2.ª, 5.ª y 6.ª de la Constitución.
+3. Los restantes preceptos no orgánicos de la Ley, así como las revisiones al Código Civil contenidas en la misma, se dictan al amparo del artículo 149.1.8.ª de la Constitución y se aplicarán sin perjuicio de la normativa que dicten las Comunidades Autónomas con competencia en materia de Derecho Civil, Foral o Especial.
+
+### Disposición final vigésima segunda
+
+Disposición final vigésima segunda.
+Las entidades públicas mencionadas en esta Ley son las designadas por las Comunidades Autónomas y las ciudades de Ceuta y Melilla, de acuerdo con sus respectivas normas de organización.
+
+### Disposición final vigésima tercera
+
+Disposición final vigésima tercera.
+Tienen carácter de ley ordinaria los artículos 1; 5, apartados 3 y 4; 7, apartado 1; 8, apartado 2, párrafo c; 9 bis; 9 ter; 9 quáter; 9 quinquies; 10, apartados 1, 2, párrafos a, b, d y f, 3, 4 y 5; 11, 12, 13, 14, 15, 16, 17, 18, 19, 19 bis, 20, 20 bis, 21, 21 bis, 22, 22 bis, 22 ter, 22 quáter, 22 quinquies, 23 y 24; las disposiciones adicionales primera, segunda y tercera; la disposición transitoria; la disposición derogatoria, y las disposiciones finales primera a vigésima segunda y vigésima cuarta.
+Los preceptos relacionados en el párrafo anterior se aplicarán según lo previsto en la disposición final vigésima primera.
+Se modifica por el art. 1.7 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#aprimero.
+ Se declara inconstitucional y nula por Sentencia del TC 131/2010, de 2 de diciembre. Ref. BOE-A-2011-273.
+
+### Disposición final vigésima cuarta
+
+Disposición final vigésima cuarta.
+La presente Ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 15 de enero de 1996.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

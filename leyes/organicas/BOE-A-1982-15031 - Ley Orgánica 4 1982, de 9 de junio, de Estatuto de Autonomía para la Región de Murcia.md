@@ -1,0 +1,694 @@
+# Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía para la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1982-15031`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-15031
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+PREAMBULO
+La Región de Murcia, entidad histórica perfectamente definida dentro de España, haciendo uso del derecho a la autonomía que la Constitución reconoce y en base a las decisiones de sus Ayuntamientos y del Consejo Regional Preautonómico, libre y democráticamente expresadas, manifiesta su voluntad de constituirse en Comunidad Autónoma, de acuerdo con lo dispuesto en el artículo ciento cuarenta y tres de la Constitución y con el presente Estatuto, que es su norma institucional básica.
+El Estatuto es la expresión de la identidad de la Región de Murcia y define sus instituciones, competencias y recursos, con la convicción de que las Comunidades Autónomas bajo el principio de solidaridad, contribuyen a reforzar la unidad de España.
+El pueblo de la Región de Murcia proclama como valores superiores de su vida colectiva la libertad, la justicia y la igualdad y manifiesta su voluntad de avanzar por una vía de progreso que asegure una digna calidad de vida para todos los que viven y trabajan en la Región.
+La Región de Murcia, en el pleno respeto a los derechos fundamentales y las libertades públicas, impulsará el desarrollo de las distintas comarcas de la Región sobre la base de unas relaciones armónicas que permitan terminar con los desequilibrios regionales internos.
+Para hacer realidad el derecho de la Región de Murcia al autogobierno, la Asamblea de Parlamentarios y Diputados Provinciales de la Región de Murcia, previsto en el artículo ciento cuarenta y seis de la Constitución, propone, y las Cortes Generales aprueban, el presente Estatuto.
+
+## TITULO PRELIMINAR
+
+### Artículo primero
+
+Artículo 1.
+Uno. La provincia de Murcia, como expresión de su entidad regional histórica, dentro de la indisoluble unidad de España, se constituye en Comunidad Autónoma, para acceder a su autogobierno, de acuerdo con la Constitución y el presente Estatuto, que es su norma institucional básica.
+Dos. La Comunidad Autónoma, que se denomina Región de Murcia, asume el Gobierno y la Administración autónomos de la provincia de Murcia.
+
+### Artículo segundo
+
+Artículo 2.
+Los poderes de la Comunidad Autónoma emanan de la Constitución, del presente Estatuto y del pueblo.
+
+### Artículo tercero
+
+Artículo 3.
+1. El territorio de la Región es el de los municipios comprendidos dentro de los límites de la provincia de Murcia.
+2. La Comunidad Autónoma de Murcia se organiza territorialmente en municipios y comarcas.
+Los municipios gozan de plena personalidad jurídica y autonomía para la gestión de los intereses que les son propios.
+Las comarcas gozan también de plena personalidad jurídica, así como de autonomía para el cumplimiento de los fines que les sean atribuidos por la Ley.
+3. Los municipios podrán agruparse, con carácter voluntario, para la ejecución de obras y la gestión de servicios comunes, de acuerdo con la legislación que dicte la Comunidad Autónoma.
+4. Por ley de la Asamblea Regional se podrán crear áreas metropolitanas y regular las entidades de ámbito territorial inferior al municipio.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo cuarto
+
+Artículo 4.
+Uno. La bandera de la Región de Murcia es rectangular y contiene cuatro castillos almenados en oro, en el ángulo superior izquierdo distribuidos de dos en dos, y siete coronas reales en el ángulo inferior derecho, dispuestas en cuatro filas, con uno, tres, dos y un elementos, respectivamente; todo ello sobre fondo rojo carmesí o cartagena.
+Dos. El escudo tendrá los mismos símbolos y distribución que la bandera, con la corona Real.
+Tres. La Comunidad Autónoma tendrá himno propio que será aprobado por Ley de la Asamblea Regional.
+
+### Artículo quinto
+
+Artículo 5.
+La capitalidad de la Región se establece en la ciudad de Murcia, que será sede de sus órganos institucionales, con excepción de la Asamblea Regional, que la tendrá en la ciudad de Cartagena.
+
+### Artículo sexto
+
+Artículo 6.
+Uno. A los efectos del presente Estatuto, gozan de la condición política de murcianos los españoles que, de acuerdo con las Leyes del Estado, tengan vecindad administrativa en cualquiera de los municipios de la Región de Murcia.
+Dos. Los españoles residentes en el extranjero gozarán de la misma condición si hubiesen tenido su última vecindad en la Región y acrediten esta condición en el correspondiente Consulado de España.
+Tres. De igual condición gozaran sus descendientes inscritos como españoles si así lo solicitan, en la forma que determine la legislación del Estado.
+
+### Artículo séptimo
+
+Artículo 7.
+Uno. La Región prestará especial atención a los emigrantes murcianos, sin perjuicio de lo establecido en la Constitución y las Leyes del Estado.
+Dos. Las comunidades murcianas asentadas fuera de la Región podrán solicitar, como tales, el reconocimiento de su condición, entendida como el derecho a colaborar y compartir la vida social y cultural de la misma. Una Ley de la Asamblea Regional regulará, sin perjuicio de las competencias del Estado, el alcance y contenido de dicho reconocimiento, que en ningún caso implicará la concesión de derechos políticos.
+
+### Artículo octavo
+
+Artículo 8.
+La Comunidad Autónoma prestará especial atención al derecho consuetudinario de la Región, con particular referencia a los tribunales consuetudinarios y tradicionales en materia de aguas, y protegerá y fomentará las peculiaridades culturales, así como el acervo de costumbres y tradiciones populares de la misma, respetando en todo caso las variantes locales y comarcales.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo noveno
+
+Artículo 9.
+Uno. Los derechos y deberes fundamentales de los murcianos son los establecidos en la Constitución para los españoles.
+Dos. La Comunidad Autónoma, en el ámbito de su competencia y a través de sus órganos, velará por:
+a) Garantizar el adecuado ejercicio de los derechos fundamentales y libertades públicas de cuantos residen en la Región, así como la observancia de sus deberes.
+b) Promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean efectivas y reales, removiendo los obstáculos que impidan o dificulten su plenitud.
+c) Adoptar las medidas que promuevan la inversión y fomenten el progreso económico y social, facilitando el empleo, especialmente en el medio rural, y la mejora de las condiciones de trabajo.
+d) Impulsar el desarrollo cultural y mejorar la calidad de la vida.
+e) Facilitar la participación de todos los murcianos en la vida política, económica, cultural y social de la Región.
+f) Promover la solidaridad entre los municipios y comarcas de la Región y de ésta con las demás Comunidades Autónomas de España, utilizando para ello cuantos medios le concede la Constitución, el presente Estatuto y las Leyes.
+
+## TITULO I
+
+De las competencias de la Comunidad Autónoma de la Región de Murcia
+
+### Artículo diez
+
+Artículo 10.
+Uno. Corresponde a la Comunidad Autónoma de Murcia la competencia exclusiva en las siguientes materias:
+1. Organización, régimen jurídico y funcionamiento de sus instituciones de autogobierno.
+2. Ordenación del territorio y del litoral, urbanismo y vivienda.
+3. Obras públicas de interés para la Región dentro de su propio territorio y que no sean de interés general del Estado ni afecten a otra Comunidad Autónoma.
+4. Ferrocarriles, carreteras y caminos cuyo itinerario discurra íntegramente en el territorio de la Región de Murcia, y en los mismos términos, el transporte desarrollado por estos medios, por cable y tubería. Transporte marítimo entre puertos o puntos de la Comunidad Autónoma, sin conexión con puertos o puntos de otros ámbitos territoriales. Centros de contratación y terminales de carga en materia de transporte.
+5. Puertos, aeropuertos y helipuertos que no tengan la calificación de interés general, en los términos del artículo 149.1.20 de la Constitución.
+6. Agricultura, ganadería e industrias agroalimentarias, de acuerdo con la ordenación general de la economía.
+7. Proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés para la Comunidad Autónoma, cuando el cauce integral de las aguas se halle dentro de su territorio. Aguas minerales y termales.
+8. Ordenación y concesión de recursos y aprovechamientos hidráulicos, aguas superficiales y subterráneas cuando discurran o se hallen íntegramente en el ámbito territorial de la Comunidad Autónoma.
+9. Pesca en aguas interiores, marisqueo, acuicultura y alguicultura, así como el desarrollo de cualquier otra forma de cultivo industrial. Caza y pesca fluvial. Protección de los ecosistemas en los que se desarrollan dichas actividades.
+10. Ferias y mercados interiores.
+11. Planificación de la actividad económica y fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional, así como la creación y gestión de un sector público regional propio de la Comunidad Autónoma.
+12. Artesanía.
+13. Museos, archivos, bibliotecas, hemerotecas, conservatorios de música y danza, centros dramáticos, de bellas artes y demás centros de depósito cultural o colecciones de análoga naturaleza, de interés para la Región, que no sean de titularidad estatal.
+14. Patrimonio cultural, histórico, arqueológico, monumental, artístico, paisajístico y científico de interés para la Región.
+15. Fomento de la cultura y de la investigación científica y técnica en coordinación con el Estado, especialmente en materias de interés para la Región de Murcia.
+16. Promoción, fomento y ordenación del turismo en su ámbito territorial.
+17. Promoción del deporte y de la adecuada utilización del ocio.
+18. Asistencia y bienestar social. Desarrollo comunitario. Política infantil y de la tercera edad. Instituciones de protección y tutela de menores, respetando, en todo caso, la legislación civil, penal y penitenciaria. Promoción e integración de los discapacitados, emigrantes y demás grupos sociales necesitados de especial protección, incluida la creación de centros de protección, reinserción y rehabilitación.
+19. Política juvenil conforme a lo establecido en el artículo 48 de la Constitución.
+20. Promoción de la mujer.
+21. Vigilancia y protección de sus edificios e instalaciones, así como la coordinación y demás facultades en relación con las policías locales, sin perjuicio de su dependencia jerárquica de la autoridad municipal.
+22. Casinos, juegos y apuestas excepto las apuestas y loterías del Estado.
+23. Cooperativas y entidades asimilables, mutuas no integradas en el sistema de Seguridad Social, respetando la legislación mercantil.
+24. Espectáculos públicos.
+25. Estadística para fines no estatales.
+26. Fundaciones que desarrollen principalmente sus funciones en la Comunidad Autónoma.
+27. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear. El ejercicio de la competencia se desarrollará de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y números 11 y 13 del apartado 1 del artículo 149 de la Constitución.
+28. Instalaciones de producción, distribución y transporte de energía, cuando el transporte no salga de su territorio y su aprovechamiento no afecte a otra Comunidad Autónoma. Todo ello sin perjuicio de lo establecido en los números 22 y 25 del apartado 1 del artículo 149 de la Constitución.
+29. Procedimiento administrativo derivado de las especialidades de la organización propia.
+30. Publicidad, sin perjuicio de las normas dictadas por el Estado para sectores y medios específicos, de acuerdo con los números 1, 6 y 8 del apartado 1 del artículo 149 de la Constitución.
+31. Servicio meteorológico de la Comunidad Autónoma.
+32. Instituciones de crédito cooperativo, público y territorial y cajas de ahorro, en el marco de la ordenación de la economía y de acuerdo con las disposiciones que en uso de sus facultades dicte el Estado.
+33. Denominaciones de origen y otras indicaciones de procedencia.
+34. Comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre la defensa de la competencia. Establecimiento de bolsas de valores y establecimiento y regulación de otros centros de contratación de mercancías, conforme a la legislación mercantil.
+35. Régimen de las zonas de montaña.
+Dos. En el ejercicio de estas competencias corresponderá a la Región la potestad legislativa, la potestad reglamentaria y la función ejecutiva, que ejercerá respetando, en todo caso, lo dispuesto en la Constitución.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+ Se modifica por el art. único.1 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
+
+### Artículo once
+
+Artículo 11.
+En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad Autónoma el desarrollo legislativo y la ejecución en las siguientes materias:
+1. Sanidad, higiene, ordenación farmacéutica y coordinación hospitalaria en general, incluida la de la Seguridad Social, sin perjuicio de lo dispuesto en el número 16 del artículo 149.1 de la Constitución.
+2. Montes, aprovechamientos forestales, vías pecuarias, pastos y espacios naturales protegidos.
+3. Protección del medio ambiente. Normas adicionales de protección.
+4. Régimen minero y energético.
+5. Prensa, radio, televisión y otros medios de comunicación social, en el marco de las normas básicas que el Estado establezca de acuerdo con el número 27 del apartado uno del artículo 149 de la Constitución.
+6. Ordenación del sector pesquero.
+7. Defensa del consumidor y usuario de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.
+8. Sistema de consultas populares en el ámbito de la Región de Murcia, de conformidad con lo que disponga la Ley a que se refiere el artículo 92.3 de la Constitución y demás leyes del Estado, correspondiendo a éste la autorización de su convocatoria.
+9. Régimen local.
+10. Colegios Profesionales y ejercicio de las profesiones tituladas, Cámaras Agrarias, de Comercio, Industria y Navegación, Cofradías de Pescadores y demás corporaciones de derecho público representativas de intereses económicos y profesionales.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+ Se modifica por el art. único.2 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
+
+### Artículo doce
+
+Artículo 12.
+Uno. Corresponde a la Región de Murcia, en los términos que establezcan las leyes y las normas reglamentarias que en desarrollo de su legislación dicte el Estado, la función ejecutiva en las siguientes materias:
+1. Asociaciones.
+2. Ferias internacionales.
+3. Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social INSERSO. La determinación de las prestaciones del sistema, los requisitos para establecer la condición de beneficiario y la financiación se efectuarán de acuerdo con las normas establecidas por el Estado en el ejercicio de sus competencias, de conformidad con lo dispuesto en el número 17 del apartado uno del artículo 149 de la Constitución.
+4. Gestión de la asistencia sanitaria de la Seguridad Social, de acuerdo con lo previsto en el número 17 del apartado 1 del artículo 149 de la Constitución, reservándose al Estado la alta inspección conducente al cumplimiento de la función a la que se refiere este precepto.
+5. Gestión de museos, archivos y bibliotecas de titularidad estatal, que no se reserve el Estado. Los términos de la gestión serán fijados mediante convenios.
+6. Pesas y medidas. Contraste de metales.
+7. Productos farmacéuticos.
+8. Propiedad industrial.
+9. Propiedad intelectual.
+10. Laboral. De conformidad con el número 7 del apartado uno del artículo 149 de la Constitución, corresponde al Estado la competencia sobre legislación laboral y la alta inspección. Quedan reservadas al Estado todas las competencias en materia de migraciones interiores y exteriores, fondos de ámbito nacional y de empleo, sin perjuicio de lo que establezcan las normas del Estado sobre estas materias.
+11. Salvamento marítimo.
+Dos. Los notarios, registradores de la propiedad y mercantiles, y corredores de comercio, serán nombrados por el Consejo de Gobierno, de conformidad con las leyes del Estado.
+La Comunidad Autónoma participará en la fijación de las demarcaciones correspondientes a las notarías y a los registros de la propiedad y mercantiles en Murcia, así como en las correspondientes a los corredores de comercio, de acuerdo con lo previsto en las leyes generales del Estado.
+Tres. Corresponde también a la Región la ejecución, dentro de su territorio, de los tratados internacionales y de los actos normativos de las organizaciones internacionales en lo que afecte a materia de su competencia.
+El Consejo de Gobierno de la Región será informado por el Gobierno del Estado de los tratados internacionales que interesen a esas mismas materias.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+ Se modifica por el art. único.3 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
+
+### Artículo trece
+
+Artículo 13.
+1. Transcurridos los cinco años previstos en el apartado 2 del artículo 148 de la Constitución, previo acuerdo de la Asamblea Regional, adoptado por mayoría absoluta, la Comunidad Autónoma podrá ampliar el ámbito de sus competencias en materias que no estén atribuidas en exclusiva al Estado, o que sólo estén atribuidas las bases o principios. El acuerdo de asumir las nuevas competencias se someterá a las Cortes Generales para su aprobación mediante Ley Orgánica.
+2. Asimismo, podrá asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del artículo 150 de la Constitución.
+En cualquier caso, la Comunidad Autónoma de Murcia podrá asumir las demás competencias que la legislación del Estado reserve a las Comunidades Autónomas.
+Se modifica por el art. único.4 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
+
+### Artículo catorce
+
+Artículo 14.
+En materia de medios audiovisuales de comunicación social del Estado, la Comunidad Autónoma ejercerá todas las potestades y competencias que le correspondan en los términos y casos establecidos en la Ley reguladora del Estatuto Jurídico de Radio y Televisión.
+
+### Artículo quince
+
+Artículo 15.
+Uno. Todas las competencias mencionadas en los artículos anteriores y en los demás del presente Estatuto se entenderán referidas al territorio de la Región de Murcia.
+Dos. La Comunidad Autónoma acomodará, en su caso, sus disposiciones normativas a los principios contenidos en las Leyes estatales a que se refiere el artículo ciento cincuenta, tres, de la Constitución.
+Tres. En el ejercicio de sus competencias, la Comunidad Autónoma gozará de las potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
+a) La presunción de legitimidad y la ejecutividad u obligado cumplimiento de sus actos, así como los poderes de ejecución forzosa y revisión, en vía administrativa.
+b) La potestad de expropiación. Los poderes de investigación, deslinde y recuperación de oficio de sus bienes.
+c) La potestad de sanción dentro de los límites que establezca el ordenamiento jurídico.
+d) La facultad de utilización del procedimiento de apremio.
+e) La inembargabilidad de sus bienes y derechos, así como toda clase de privilegios reconocidos a la Hacienda Pública estatal para el cobro de sus créditos, sin perjuicio de los que correspondan en esta materia a la Hacienda del Estado y en igualdad de derechos con las demás Comunidades Autónomas.
+f) La excepción de toda obligación de garantía o caución ante cualquier organismo administrativo o Tribunal jurisdiccional.
+No se admitirán interdictos contra las actuaciones de la Región en materias de su competencia, realizadas de acuerdo con el procedimiento legal.
+Cuatro. El Derecho estatal, en todo caso, es supletorio de las normas de la Comunidad Autónoma.
+
+### Artículo dieciséis
+
+Artículo 16.
+1. Corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la alta inspección para su cumplimiento y garantía.
+2. Para garantizar una prestación homogénea y eficaz del servicio público de la educación que permita corregir las desigualdades o desequilibrios que puedan producirse, la Comunidad Autónoma facilitará a la Administración del Estado la información que ésta le solicite sobre el funcionamiento del sistema educativo en sus aspectos cualitativos y cuantitativos, y colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional.
+Se modifica por el art. único.5 de la Ley Orgánica 4/1994, de 24 de marzo. Ref. BOE-A-1994-6943
+
+### Artículo diecisiete
+
+Artículo 17.
+1. En los términos que establezca la legislación en materia de empresas públicas, la Región de Murcia propondrá al Gobierno las personas que hayan de formar parte de los órganos de administración de aquellas empresas públicas implantadas en su territorio.
+2. La Comunidad Autónoma podrá elaborar y remitir al Gobierno cualesquiera informes, estudios o propuestas relativos a la gestión de dichas empresas o a su incidencia socioeconómica en la Región. Dichos informes, estudios o propuestas darán lugar a la resolución motivada del Gobierno o de los organismos o entidades titulares de la participación de las empresas.
+3. Corresponde a la Región de Murcia la ejecución en su territorio de los planes establecidos por el Estado para la implantación o reestructuración de los sectores económicos. La Región participará en la gestión del sector público estatal en los casos y actividades que procedan.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo dieciocho
+
+Artículo 18.
+Uno. Se entenderán asumidas por la Comunidad Autónoma todas las competencias, medios, recursos y servicios que, de acuerdo con la legislación del Estado, corresponden a las Diputaciones provinciales y aquéllas que en el futuro les puedan ser atribuidas.
+Dos. Los órganos de representación y gobierno de la Diputación Provincial establecidos por la Legislación de Régimen Local quedan sustituidos en la provincia de Murcia por los propios de la Comunidad Autónoma en los términos de este Estatuto.
+Tres. La Asamblea Regional, mediante Ley, determinará la distribución de estas competencias entre los distintos órganos de la Comunidad Autónoma y las condiciones para su cesión o delegación en las entidades territoriales a que hace referencia el artículo tercero de este Estatuto.
+
+### Artículo diecinueve
+
+Artículo 19.
+1. La Región de Murcia podrá establecer acuerdos de cooperación con otras Comunidades Autónomas previa autorización de las Cortes Generales.
+2. No obstante lo dispuesto en el número anterior y sin más requisitos que la previa comunicación a las Cortes, la Región podrá celebrar convenios con otras Comunidades para la gestión y prestación de servicios que le son propios. Estos convenios podrán crear entes y sociedades de gestión susceptibles de asociar a otras entidades públicas y privadas interesadas.
+En los treinta días siguientes a la recepción de la comunicación, cualquiera de las Cámaras podrá instar a que por razón de su contenido el convenio siga el trámite de autorización previsto en el artículo 145.2, segundo inciso, de la Constitución.
+3. Transcurridos treinta días desde la recepción de la comunicación por las Cortes sin que ninguna de las Cámaras haya objetado la conclusión del convenio o, en todo caso, luego de obtenida la autorización de las Cortes, se procederá a la publicación de aquél en el "Boletín Oficial de la Región de Murcia" y en el "Boletín Oficial del Estado" entrando en vigor a tenor de lo que el mismo disponga.
+4. Para el ejercicio de la competencia de vigilancia y protección de sus edificios e instalaciones prevista en el artículo 10, uno, 21, del Estatuto, la Comunidad Autónoma podrá convenir con el Estado la adscripción de una Unidad del Cuerpo Nacional de Policía en los términos y para el ejercicio de las funciones previstas en la Ley Orgánica aludida en el número 29 del apartado 1 del artículo 149 de la Constitución.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+## TITULO II
+
+De Los órganos institucionales
+
+## CAPITULO I
+
+De los órganos de la Comunidad Autónoma
+
+### Artículo veinte
+
+Artículo 20.
+Los órganos institucionales de la Región de Murcia son:
+- La Asamblea Regional.
+- El Presidente.
+- El Consejo de Gobierno.
+
+## CAPITULO II
+
+De la Asamblea Regional
+
+### Artículo veintiuno
+
+Artículo 21.
+Uno. La Asamblea Regional representa al pueblo de la Región de Murcia.
+Dos. La Asamblea Regional es inviolable.
+
+### Artículo veintidós
+
+Artículo 22.
+La Asamblea Regional ostenta la potestad legislativa y, en el ejercicio de sus funciones, le corresponde: Aprobar los presupuestos; impulsar, orientar y controlar la acción del Consejo de Gobierno y del Presidente, y en general, el ejercicio de las competencias que le confieren la Constitución, este Estatuto y demás normas del ordenamiento jurídico.
+
+### Artículo veintitrés
+
+Artículo 23.
+Compete a la Asamblea Regional:
+1.º Elegir de entre sus miembros al Presidente de la Comunidad Autónoma.
+2.º Designar para cada legislatura de la Asamblea Regional, los senadores a que se refiere el artículo 69.5 de la Constitución, con arreglo a lo que establezca una ley de la Asamblea, que asegurará en todo caso la adecuada representación proporcional.
+3.º Solicitar del Gobierno la formulación de proyectos de ley y presentar ante el Congreso de los Diputados proposiciones de ley en los términos previstos en el artículo 87.2 de la Constitución.
+4.º Fijar las previsiones de índole política, económica y social que, de acuerdo con el artículo 131.2 de la Constitución, haya de suministrar la Comunidad Autónoma al Gobierno para la elaboración de los proyectos de planificación económica general.
+5.º Ejercer las competencias atribuidas por el presente Estatuto a la Región, en relación con la supresión y alteración de los términos y denominaciones de los municipios y la creación de otras entidades territoriales.
+6.º Regular la delegación de competencias administrativas de la Región en uno o varios municipios o en las entidades territoriales a que hace referencia el artículo 3 de este Estatuto.
+7.º Autorizar la prestación del consentimiento para obligarse por los convenios y demás acuerdos de cooperación en que la Comunidad Autónoma sea parte, así como supervisar su ejecución.
+8.º Establecer y exigir tributos según lo previsto en el artículo 133.2 de la Constitución. Autorizar la solicitud y concertación de créditos.
+9.º Aprobar el programa del Consejo de Gobierno y exigir, en su caso, responsabilidad política en la forma que determine una ley de la Asamblea.
+10.º Examinar y aprobar la Cuenta General de la Comunidad Autónoma.
+11.º Interponer el recurso de inconstitucionalidad, contra leyes, disposiciones o actos con fuerza de ley del Estado que puedan afectar al ámbito de Autonomía para la Región, de acuerdo con lo dispuesto en la Constitución y en la Ley Orgánica del Tribunal Constitucional.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo veinticuatro
+
+Artículo 24.
+1. La Asamblea Regional estará constituida por diputados elegidos por un período de cuatro años mediante sufragio universal, libre, igual, directo y secreto. El sistema electoral será proporcional.
+2. La Asamblea Regional fijará por ley el número de sus miembros, que no será inferior a cuarenta y cinco ni superior a cincuenta y cinco diputados regionales; las causas de inelegibilidad e incompatibilidad, la circunscripción o circunscripciones y el procedimiento electoral, así como los requisitos para la convocatoria y celebración de elecciones.
+3. Las elecciones serán convocadas por el Presidente de la Comunidad Autónoma en los términos previstos en la Ley que regula el Régimen Electoral General, de manera que se realicen el cuarto domingo de mayo cada cuatro años, sin perjuicio de lo que dispongan las Cortes Generales, con el fin exclusivo de coordinar el calendario de las diversas consultas electorales.
+4. La Asamblea electa será convocada por el Presidente cesante de la Comunidad Autónoma, dentro de los treinta días siguientes al de celebración de las elecciones.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+ Se modifica el apartado 3 por el art. único.1 de la Ley Orgánica 1/1991, de 13 de marzo. Ref. BOE-A-1991-6817
+
+### Artículo veinticinco
+
+Artículo 25.
+Los diputados regionales:
+1. No están sujetos a mandato imperativo.
+2. Gozarán, aun después de haber cesado en su mandato, de inviolabilidad por los votos y opiniones que emitan en el ejercicio de sus funciones, que se entienden asumidos, a estos efectos, desde el acto de su proclamación.
+3. Tienen derecho a formular preguntas, interpelaciones y mociones en los términos que el Reglamento determine. También les asiste el derecho a obtener de las autoridades públicas la información precisa para el desarrollo de sus funciones, salvo que se trate de actuaciones o materias en que el funcionario se halle obligado por ley a guardar secreto.
+Se modifica por el art. único.1 de la Ley Orgánica 1/2021, de 15 de febrero. Ref. BOE-A-2021-2313
+ Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo veintiséis
+
+Artículo 26.
+1. La Asamblea Regional se reunirá en dos períodos ordinarios de sesiones, comprendidos entre septiembre y diciembre el primero, y febrero y junio el segundo.
+2. A petición del Consejo de Gobierno, de la Diputación Permanente de la Asamblea Regional o de la cuarta parte de los Diputados Regionales, la Asamblea deberá reunirse en sesión extraordinaria que se clausurará al agotar el orden del día para el que fue convocada.
+3. Las sesiones plenarias de la Asamblea son públicas, salvo en los casos previstos en el Reglamento.
+4. Para la deliberación y adopción de acuerdos la Asamblea ha de estar reunida reglamentariamente y con asistencia de la mayoría de sus miembros. Los acuerdos se adoptarán por mayoría simple, salvo que el Estatuto, las leyes o el Reglamento exijan otras mayorías.
+5. El voto es personal e indelegable.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo veintisiete
+
+Artículo 27.
+1. La Asamblea Regional, en el ejercicio de su autonomía, establece su propio Reglamento, aprueba su presupuesto y regula el Estatuto de sus miembros y el régimen de su personal. La aprobación del Reglamento y su reforma precisan el voto final favorable de la mayoría de los miembros de la Asamblea.
+2. La Asamblea Regional elegirá de entre sus miembros a su Presidente y a los demás componentes de la Mesa, que en ningún caso podrán ser miembros del Consejo de Gobierno. El Reglamento regulará la composición, régimen y funcionamiento de la Mesa.
+3. La Asamblea Regional podrá ser disuelta en el supuesto de no elegirse Presidente de la Comunidad Autónoma en el plazo de dos meses, de acuerdo con lo dispuesto en el artículo 31.1 de este Estatuto.
+4. Además, el Presidente, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea Regional con anticipación al término natural de la legislatura. La disolución se acordará por Decreto, en el que se convocarán, a su vez, elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
+El Presidente no podrá acordar la disolución de la Asamblea durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación, ni cuando se encuentre en tramitación una moción de censura.
+Tampoco podrá acordar la disolución antes de que transcurra el plazo de un año desde la última disolución por este procedimiento.
+En ningún supuesto podrá el Presidente disolver la Asamblea cuando se encuentre convocado un proceso electoral estatal.
+5. En todo caso la nueva Cámara que resulte de las convocatorias electorales previstas en los apartados 3 y 4 tendrá un mandato limitado por el término natural de la legislatura originaria.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo veintiocho
+
+Artículo 28.
+Uno. La Asamblea Regional funciona en Pleno y en Comisiones.
+Dos. Las Comisiones son permanentes y, en su caso, especiales o de investigación.
+Tres. Una Diputación Permanente, elegida de entre sus miembros por la Asamblea Regional, asumirá las funciones de ésta cuando no esté reunida o haya expirado su mandato. El Reglamento determinará su composición, régimen y funcionamiento.
+
+### Artículo veintinueve
+
+Artículo 29.
+Los Diputados regionales se constituyen en grupos, cuyas condiciones de formación y funciones fijará el Reglamento. Todo miembro de la Cámara deberá estar adscrito a un grupo y se garantizará la presencia de cada uno de estos en las Comisiones y Diputación Permanente en proporción a su importancia numérica.
+
+### Artículo treinta
+
+Artículo 30.
+1. La iniciativa para el ejercicio de las potestades reconocidas en el artículo 23 corresponde a los miembros de la Asamblea y al Consejo de Gobierno. Por ley de la Asamblea se regulará la iniciativa de los municipios y de las comarcas a través de sus órganos colegiados representativos, así como la iniciativa popular, de acuerdo con lo que disponga la legislación del Estado.
+2. Las leyes aprobadas por la Asamblea serán promulgadas en el plazo de quince días desde su aprobación, en nombre del Rey, por el Presidente de la Comunidad Autónoma, que dispondrá su inmediata publicación en el "Boletín Oficial de la Región de Murcia". Para su publicación en el "Boletín Oficial del Estado" se estará a lo que dispongan las leyes generales. A efectos de su vigencia regirá la fecha de publicación en el "Boletín Oficial de la Región de Murcia".
+3. En caso de extraordinaria y urgente necesidad, el Consejo de Gobierno podrá dictar disposiciones legislativas provisionales en forma de decreto-ley. No podrán ser objeto de decreto-ley la regulación de los derechos previstos en el presente Estatuto, el régimen electoral, las instituciones de la Región de Murcia, ni el presupuesto de la Comunidad Autónoma.
+En el plazo improrrogable de treinta días desde su promulgación, los decretos-leyes deberán ser convalidados o derogados por la Asamblea Regional después de un debate y votación de totalidad.
+Sin perjuicio de su convalidación, la Asamblea Regional podrá tramitar los decretos-leyes como proyectos de ley adoptando el acuerdo correspondiente dentro del plazo establecido en el párrafo anterior.
+Se modifica por el art. único de la Ley Orgánica 7/2013, de 28 de noviembre. Ref. BOE-A-2013-12481.
+
+## CAPITULO III
+
+Del Presidente de la Comunidad Autónoma
+
+### Artículo treinta y uno
+
+Artículo 31.
+Uno. El Presidente de la Comunidad Autónoma es elegido por la Asamblea Regional de entre sus miembros y nombrado por el Rey.
+La elección será por mayoría absoluta de los miembros de la Asamblea en primera convocatoria, y por mayoría simple en las posteriores, debiendo mediar entre cada una de ellas al menos, cuarenta y ocho horas.
+Si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiera obtenido la confianza el Presidente de la Asamblea la disolverá, convocando nuevas elecciones de acuerdo con la normativa electoral aplicable.
+Dos. Al Presidente, que lo es también del Consejo de Gobierno, corresponde la suprema representación de la Región de Murcia y la ordinaria del Estado en su territorio.
+Tres. El Presidente dirige y coordina la acción del Consejo de Gobierno y responde políticamente ante la Asamblea Regional.
+Cuatro. El Presidente podrá delegar temporalmente funciones ejecutivas en uno de los Consejeros.
+Cinco. Una Ley de la Asamblea, aprobada por el voto favorable de la mayoría de sus miembros, desarrollará el procedimiento de elección del Presidente del Consejo de Gobierno, así como su Estatuto personal y el procedimiento para exigir la responsabilidad política a que se refiere el apartado tercero de este artículo.
+Seis. El Presidente cesa al finalizar el período para el que fue elegida la Asamblea Regional; también cesa por perdida de la confianza otorgada, o por censura de aquella, en los términos previstos en el capítulo siguiente así como por dimisión, fallecimiento y condena penal, que lleve aparejada la inhabilitación para cargos públicos.
+
+## CAPITULO IV
+
+Del Consejo de Gobierno
+
+### Artículo treinta y dos
+
+Artículo 32.
+1. El Consejo de gobierno es el órgano colegiado que dirige la política regional, correspondiéndole la función ejecutiva, el gobierno y administración de la Región y el ejercicio de la potestad reglamentaria en materias no reservadas por el Estatuto a la competencia normativa de la Asamblea Regional.
+El Consejo de Gobierno está facultado para interponer recurso de inconstitucionalidad de acuerdo con lo previsto en el artículo 162.1, a), de la Constitución, y el artículo 32.2 de la Ley Orgánica del Tribunal Constitucional, así como para suscitar los conflictos de competencia que opongan a la Región con el Estado o con otras Comunidades Autónomas de acuerdo con lo dispuesto en el artículo 161.1, c), de la Constitución, y en los artículos 59 y siguientes de la Ley Orgánica del Tribunal Constitucional.
+2. El Consejo de Gobierno está compuesto por el Presidente, el Vicepresidente, en su caso, y los Consejeros, que el Presidente nombra y separa libremente.
+3. El Consejo de Gobierno actuará siempre con absoluto respeto a los principios de legalidad y jerarquía normativa. Sus disposiciones y resoluciones serán objeto de publicación en el "Boletín Oficial de la Región de Murcia".
+4. En lo no previsto en este Estatuto, una ley de la Asamblea, aprobada con el voto favorable de la mayoría de sus miembros, regulará la organización y las atribuciones del Consejo de Gobierno, así como el Estatuto Personal de sus miembros.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo treinta y tres
+
+Artículo 33.
+1. El Consejo de Gobierno responde políticamente ante la Asamblea de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su gestión.
+En lo no previsto en el Estatuto una Ley de la Asamblea, aprobada con el voto favorable de la mayoría de sus miembros, regulará esta responsabilidad y, en general, las relaciones entre ambos órganos.
+2. El Consejo de Gobierno cesará en los mismos casos que su Presidente.
+3. El Presidente del Consejo de Gobierno, previa deliberación de éste, puede plantear ante la Asamblea Regional la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados regionales.
+Si la Asamblea Regional no otorgara su confianza, el Presidente del Consejo de Gobierno presentará su dimisión ante la misma y el Presidente de la Asamblea convocará, en el plazo máximo de quince días, una sesión plenaria para la elección de nuevo Presidente de la Comunidad, de acuerdo con el procedimiento establecido en el artículo treinta y uno de este Estatuto, sin que en ningún caso ello suponga la disolución de la Asamblea Regional.
+4. La Asamblea puede exigir la responsabilidad política del Consejo de Gobierno y de su Presidente, mediante la adopción, por mayoría absoluta de sus miembros, de una moción de censura.
+La moción de censura deberá ser propuesta por el quince por ciento, al menos, de los Diputados regionales, habrá de incluir un candidato a la Presidencia del Consejo de Gobierno y no podrá ser votada hasta que transcurran cinco días desde su presentación, pudiendo, en los dos primeros días de dicho plazo, presentarse mociones alternativas. Si la moción de censura no fuese aprobada, ninguno de los signatarios podrá presentar otra en el plazo de un año desde aquella, dentro de la misma legislatura.
+5. El Presidente del Consejo de Gobierno no podrá plantear la cuestión de confianza mientras esté en trámite una moción de censura.
+6. El Consejo de Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Consejo.
+Se modifica por el art. único.2 de la Ley Orgánica 1/2021, de 15 de febrero. Ref. BOE-A-2021-2313
+
+## TITULO III
+
+De la Administración de Justicia
+
+### Artículo treinta y cuatro
+
+Artículo 34.
+Uno. En los términos establecidos en el presente Estatuto y en las Leyes Orgánicas del Consejo General del Poder Judicial y del Poder Judicial, la organización judicial en la Región comprenderá los diversos Juzgados y Tribunales establecidos en su territorio, la Audiencia Territorial, en su caso, y el Tribunal Superior de Justicia con sede en Murcia.
+Dos. El Tribunal Superior de Justicia, que tomará el nombre de la Región de Murcia, es el órgano jurisdiccional en el que culminará la organización judicial en su ámbito territorial y ante el que se agotarán las sucesivas instancias procesales en los términos del artículo ciento veintitrés de la Constitución y de acuerdo con el presente Estatuto.
+
+### Artículo treinta y cinco
+
+Artículo 35.
+Uno. La competencia de los órganos jurisdiccionales en la Región se extiende:
+a) En el orden civil, a todas las instancias y grados, incluidos los recursos de casación y de revisión en las materias de Derecho consuetudinario murciano.
+b) En el orden penal y social, a todas las instancias y grados, con excepción de los recursos de revisión y casación.
+c) En el orden contencioso-administrativo, a los recursos que se deduzcan contra los actos y disposiciones de las Administraciones públicas, en los términos que establezca la Ley Orgánica del Poder Judicial.
+d) A las cuestiones de competencias subjetivas, objetivas y por razón del territorio y las jurisdiccionales en su caso.
+Dos. Corresponderá al Tribunal Supremo conocer, en la forma prevenida por la Ley Orgánica del Poder Judicial, de los conflictos de competencia y jurisdicción entre los Jueces y Tribunales de la Región de Murcia y los del resto de España.
+
+### Artículo treinta y seis
+
+Artículo 36.
+Uno. El Presidente del Tribunal Superior de Justicia de la Región de Murcia será nombrado por el Rey a propuesta del Consejo General del Poder Judicial. El Presidente de la Comunidad Autónoma dispondrá la publicación de dicho nombramiento en el «Boletín Oficial de la Región de Murcia».
+Dos. El nombramiento de los Magistrados, Jueces y Secretarios del Tribunal Superior de Justicia de la Región de Murcia se efectuará en la forma prevista en las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial.
+
+### Artículo treinta y siete
+
+Artículo 37.
+A instancia de la Comunidad Autónoma, el órgano competente, conforme a las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial, convocará los concursos y oposiciones para cubrir las plazas vacantes en la Comunidad Autónoma de Magistrados, Jueces, Secretarios judiciales y restante personal al servicio de la Administración de Justicia.
+
+### Artículo treinta y ocho
+
+Artículo 38.
+Corresponde al Estado, de conformidad con las Leyes, la organización y funcionamiento del Ministerio Fiscal.
+
+### Artículo treinta y nueve
+
+Artículo 39.
+En relación con la Administración de Justicia, exceptuada la militar, corresponde a la Comunidad Autónoma:
+Uno. Ejercer todas las facultades que las Leyes Orgánicas del Poder Judicial y del Consejo General del Poder Judicial reconozcan o atribuyan al Gobierno del Estado.
+Dos. Fijar, en su caso, la delimitación de las demarcaciones territoriales de los órganos jurisdiccionales en la Región y la localización de su capitalidad, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial.
+
+## TITULO IV
+
+Hacienda y economía
+
+### Artículo cuarenta
+
+Artículo 40.
+La Región de Murcia tiene autonomía financiera, dominio público y patrimonio propio de acuerdo con la Constitución, este Estatuto y los principios de coordinación orgánica y funcional con las Administraciones Estatal y Local, así como de solidaridad entre todos los españoles.
+
+### Artículo cuarenta y uno
+
+Artículo 41.
+Uno. El patrimonio de la Comunidad Autónoma de Murcia se compone de:
+a) Los bienes, derechos y acciones pertenecientes al Ente Preautonómico y a la Diputación Provincial.
+b) Los bienes que estuvieran afectos a servicios traspasados a la Comunidad Autónoma.
+c) Los bienes que adquiera por cualquier título jurídico válido.
+Dos. La Comunidad Autónoma tiene plena capacidad para adquirir, administrar y disponer de los bienes que integren su patrimonio.
+Tres. El régimen jurídico de los bienes patrimoniales y de dominio público de la Región deberá regularse por una Ley de la Asamblea en los términos del presente Estatuto y en el marco de la legislación básica del Estado.
+
+### Artículo cuarenta y dos
+
+Artículo 42.
+La Hacienda de la Comunidad Autónoma está constituida por:
+a) Los ingresos procedentes de su patrimonio y demás de Derecho privado.
+b) Los ingresos procedentes de sus propios impuestos, tasas y contribuciones especiales.
+c) Los ingresos procedentes de los tributos que sean cedidos total o parcialmente por el Estado.
+d) Los recargos que pudieran establecerse sobre los impuestos del Estado.
+e) Las participaciones en los ingresos del Estado.
+f) El producto de las operaciones de crédito y de las emisiones de Deuda.
+g) El producto de las multas y sanciones en el ámbito de su competencia.
+h) Las asignaciones que se puedan establecer en los Presupuestos Generales del Estado.
+i) Las transferencias del Fondo de Compensación Interterritorial para la inversión en el territorio de la Región.
+j) Cualesquiera otros ingresos públicos o privados.
+
+### Artículo cuarenta y tres
+
+Artículo 43.
+Uno. Corresponde a la Comunidad Autónoma:
+a) La administración de los tributos propios, en sus fases de gestión, liquidación, recaudación e inspección, pudiendo solicitar de la Administración Tributaria del Estado la colaboración que precise para el mejor cumplimiento de estas funciones.
+b) Por delegación del Estado, la administración de los tributos cedidos por éste en la forma y límite que señale el acto de cesión.
+Dos. En los demás casos, dicha administración corresponderá al Estado, sin perjuicio de la delegación que la Región pueda recibir de éste y de la colaboración que pueda establecerse, especialmente cuando las necesidades y circunstancias así lo aconsejen.
+Tres. El Consejo de Gobierno podrá colaborar con las Corporaciones municipales para la recaudación de los tributos propios de éstas, sin perjuicio de la gestión, liquidación e inspección que corresponde a tales entidades.
+
+### Artículo cuarenta y cuatro
+
+Artículo 44.
+Uno. El conocimiento de las reclamaciones interpuestas contra los actos dictados en materia tributaria, corresponderá:
+a) Cuando se trate de tributos propios de la Comunidad Autónoma, a sus propios órganos económico-administrativos.
+b) Cuando se trate de tributos cedidos y de recargos establecidos sobre tributos del Estado, a los órganos económico-administrativos del mismo.
+Dos. Las resoluciones de los órganos económico-administrativos de la Comunidad Autónoma podrán ser objeto de recurso contencioso-administrativo, en los términos establecidos por la normativa reguladora de esta jurisdicción.
+
+### Artículo cuarenta y cinco
+
+Artículo 45.
+Se regularán necesariamente mediante Ley de la Asamblea Regional las siguientes materias:
+Uno. El establecimiento, modificación y supresión de sus propios impuestos, tasas y contribuciones especiales, así como de los elementos directamente determinantes de la deuda tributaria, inclusive exenciones y bonificaciones que les afecten.
+Dos. El establecimiento, modificación y supresión de los recargos sobre los impuestos del Estado.
+
+### Artículo cuarenta y seis
+
+Artículo 46.
+1. Corresponde al Consejo de Gobierno la elaboración del Presupuesto de la Comunidad Autónoma y a la Asamblea Regional su examen, enmienda, aprobación y control.
+2. El Presupuesto tendrá carácter anual, ajustando su periodicidad a la de los Presupuestos del Estado y será presentado por el Consejo de Gobierno a la Asamblea con una antelación mínima de dos meses a la fecha de inicio del correspondiente ejercicio.
+3. En él se incluirán la totalidad de los gastos e ingresos de los organismos y entidades integrantes de la Comunidad Autónoma, consignándose igualmente el importe de los beneficios fiscales que afecten a tributos correspondientes a ésta.
+4. El Presupuesto de la Comunidad Autónoma será elaborado con criterios homogéneos, de forma que sea posible su consolidación con los Presupuestos Generales del Estado.
+5. Si la Ley de Presupuestos Generales de la Comunidad Autónoma no fuera aprobada antes del primer día del ejercicio económico correspondiente, quedará automáticamente prorrogada la del ejercicio anterior hasta la aprobación del nuevo.
+Se modifica por el art. único de la Ley Orgánica 1/1998, de 15 de junio. Ref. BOE-A-1998-14061
+
+### Artículo cuarenta y siete
+
+Artículo 47.
+Uno. El Consejo de Gobierno, autorizado por una Ley de la Asamblea, podrá emitir Deuda Pública y concertar otras operaciones de crédito para financiar gastos de inversión por un plazo superior a un año.
+Dos. Asimismo, el Consejo de Gobierno podrá realizar operaciones de crédito por plazo no superior a un año, con objeto de cubrir necesidades transitorias de Tesorería.
+Tres. Las operaciones de crédito a que se refieren los números anteriores se ajustarán a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas y demás normas generales del Estado.
+Cuatro. Los títulos emitidos tendrán la consideración de fondos públicos a todos los efectos.
+
+### Artículo cuarenta y ocho
+
+Artículo 48.
+Uno. La Comunidad Autónoma, de acuerdo con la legislación del Estado, impulsará el establecimiento y desarrollo de Instituciones públicas de crédito y ahorro territoriales, adoptando las medidas que considere necesarias para garantizar su funcionamiento y posibilitar la captación y asignación del ahorro regional.
+De igual manera, y dentro de sus competencias, procurará que la organización y la distribución de la inversión que tales Entidades realicen se adapten a los principios de proporcionalidad y solidaridad comarcales.
+Dos. La Comunidad Autónoma de Murcia podrá constituir Empresas públicas como medio de la ejecución de las funciones que son de su competencia, según lo establecido en el presente Estatuto. Asimismo podrá participar en las de economía mixta, directa o indirectamente.
+
+### Artículo cuarenta y nueve
+
+Artículo 49.
+La Comunidad Autónoma, como poder público y en el marco de sus competencias:
+a) Atenderá a la modernización y desarrollo de todos los sectores económicos y, en particular, de la agricultura, de la ganadería, de la pesca y de la artesanía, a fin de equiparar el nivel de vida de todos los ciudadanos de la Región.
+b) Promoverá las diversas formas de participación en la empresa y fomentará, mediante una legislación adecuada, las cooperativas y demás modalidades asociativas. También adoptará las medidas que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.
+
+### Artículo cincuenta
+
+Artículo 50.
+La Región de Murcia gozará del tratamiento fiscal que la Ley establezca para el Estado.
+
+## TITULO V
+
+Del régimen jurídico
+
+## CAPITULO I
+
+De la Administración Pública Regional
+
+### Artículo cincuenta y uno
+
+Artículo 51.
+Uno. Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración Pública, dentro de los principios generales y normas básicas del Estado.
+Dos. La organización de la Administración Pública de la Región responderá a los principios de legalidad, eficacia, economía, jerarquía y coordinación, así como a los de descentralización y desconcentración.
+En aplicación de estos principios, los organismos, servicios o dependencias regionales podrán establecerse en los lugares más adecuados del territorio.
+Tres. La Administración Regional posee personalidad jurídica y plena capacidad de obrar para el cumplimiento de sus fines.
+
+### Artículo cincuenta y dos
+
+Artículo 52.
+El régimen jurídico de la Administración Pública Regional y de sus funcionarios será regulado mediante Ley de la Asamblea de conformidad con la legislación básica del Estado.
+
+## CAPITULO II
+
+Del control sobre la actividad de los órganos de la Comunidad Autónoma
+
+### Artículo cincuenta y tres
+
+Artículo 53.
+Uno. Las Leyes, actos y disposiciones normativas con fuerza de Ley de la Comunidad Autónoma, así como el Reglamento de la Asamblea Regional, solamente se someterán al control del Tribunal Constitucional.
+Dos. La actividad de la Administración Autónoma y sus normas reglamentarias estarán sometidas al control de la jurisdicción contencioso-administrativa.
+Tres. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de las medidas de control que puedan establecerse en virtud de lo previsto en los números uno y dos del artículo ciento cincuenta de la Constitución.
+
+### Artículo cincuenta y cuatro
+
+Artículo 54.
+El control económico y presupuestario de la Región se ejercerá por el Tribunal de Cuentas del Estado, y sus investigaciones y actuaciones podrán producirse tanto a iniciativa de los órganos regionales como del Consejo Auditor del Tribunal de Cuentas, todo ello sin perjuicio de las facultades que corresponden a la Asamblea Regional.
+El informe del Tribunal de Cuentas será remitido a la Asamblea Regional y a las Cortes Generales.
+
+## TITULO VI
+
+De la reforma del Estatuto
+
+### Artículo cincuenta y cinco
+
+Artículo 55.
+La reforma de este Estatuto se ajustará al siguiente procedimiento:
+Uno. La iniciativa corresponderá a una cuarta parte de los miembros de la Asamblea Regional, a una tercera parte de municipios cuya población represente, al menos, la mayoría del censo electoral de la región y al Consejo de Gobierno, así como al Gobierno y a las Cortes Generales.
+Dos. El proyecto de reforma será aprobado por la Asamblea Regional por mayoría de tres quintos de sus miembros y sometido ulteriormente a la aprobación de las Cortes Generales como Ley Orgánica.
+Tres. La modificación del Estatuto que implique la asunción de nuevas competencias sólo exigirá su aprobación por la mayoría absoluta de la Asamblea Regional, observándose en lo demás lo previsto en este artículo, así como el plazo de cinco años establecido en el artículo ciento cuarenta y ocho, dos, de la Constitución.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Uno. Se cede a la Comunidad Autónoma de la Región de Murcia el rendimiento de los siguientes tributos:
+a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
+b) Impuesto sobre el Patrimonio.
+c) Impuesto sobre Sucesiones y Donaciones.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+e) Los Tributos sobre el Juego.
+f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
+g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
+h) El Impuesto Especial sobre el Vino y Bebidas Fermentadas, con carácter parcial, en el porcentaje del 58 por ciento.
+i) El Impuesto Especial sobre Productos Intermedios, con carácter parcial, en el porcentaje del 58 por ciento.
+j) El Impuesto Especial sobre el Alcohol y Bebidas Derivadas, con carácter parcial, en el porcentaje del 58 por ciento.
+k) El Impuesto Especial sobre Hidrocarburos, con carácter parcial, en el porcentaje del 58 por ciento.
+l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en el porcentaje del 58 por ciento.
+m) El Impuesto Especial sobre la Electricidad.
+n) El Impuesto Especial sobre Determinados Medios de Transporte.
+ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+La eventual supresión o modificación por el Estado de alguno de los tributos antes señalados implicará la extinción o modificación de la cesión.
+Dos. El alcance y condiciones de la cesión se establecerá por la Comisión Mixta a la que se refiere la disposición transitoria quinta que, en todo caso, los referirá a bienes, valores o rendimientos sitos u obtenidos en la Región de Murcia. El Gobierno no tramitará el acuerdo de la Comisión como proyecto de Ley, en el plazo de seis meses a partir de la aprobación por las Cortes del presente Estatuto.
+Tres. En tanto no estén en vigor los impuestos referidos en los epígrafes a) y c) del apartado uno de esta disposición, se ceden a la Comunidad Autónoma los siguientes impuestos:
+Primero. En sustitución del impuesto reseñado en el epígrafe a), el actual Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas.
+Segundo. En tanto no entre en vigor el impuesto reseñado en la letra c), el actual Impuesto General sobre Sucesiones.
+Cuatro. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma siendo tramitada por el Gobierno como proyecto de Ley ordinaria. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
+Se modifica el apartado 1 por el art. 1 de la Ley 22/2010, de 16 de julio. Ref. BOE-A-2010-11416
+ Esta modificación surte efectos desde el 1 de enero de 2009, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 23/2002, de 1 de julio. Ref. BOE-A-2002-13002
+ Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.
+ Se modifica el apartado 1 por el art. 1 de la Ley 34/1997, de 4 de agosto. Ref. BOE-A-1997-17584
+ Esta modificación surte efectos desde el 1 de enero de 1997, según establece la disposición final única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Cualquier alteración de los límites territoriales de la Región de Murcia se hará mediante reforma de este Estatuto y aprobación de las Cortes Generales, por Ley Orgánica, de conformidad con la Constitución y las Leyes.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Uno. Las primeras elecciones a la Asamblea Regional tendrán lugar entre el uno de febrero y el treinta y uno de mayo de mil novecientos ochenta y tres.
+El Consejo de Gobierno de la Región, previo acuerdo con el Gobierno de la Nación, convocará las elecciones en la fecha que conjuntamente se establezca.
+Dos. En tanto una Ley regional no regule el procedimiento para las elecciones a la Asamblea Regional, ésta será elegida de acuerdo con las siguientes normas:
+a) Para las primeras elecciones se adoptarán las siguientes circunscripciones electorales, que se constituyen por reunión de los municipios que se indican:
+Uno. Lorca, Águilas, Puerto Lumbreras, Totana, Alhama, Librilla, Aledo y Mazarrón
+Dos. Cartagena, La Unión, Fuente Álamo, Torre Pacheco, San Javier y San Pedro del Pinatar.
+Tres. Murcia, Alcantarilla, Beniel, Molina, Alguazas, Las Torres de Cotillas, Lorquí, Ceutí, Cieza, Abarán, Blanca, Archena, Ricote, Ulea, Villanueva, Ojos, Fortuna, Abanilla y Santomera.
+Cuatro. Caravaca, Cehegín, Calasparra, Moratalla, Bullas, Pliego, Mula, Albudeite y Campos del Río.
+Cinco. Jumilla y Yecla.
+b) La Asamblea estará integrada por un número de miembros que no será inferior a treinta y cinco ni superior a cuarenta y cinco Diputados regionales, de los cuales cada circunscripción elegirá uno fijo y otro más por cada veinticinco mil habitantes o fracción superior a la mitad de dicho número.
+c) Los Diputados serán elegidos por sufragio universal, igual, directo y secreto de los mayores de dieciocho años. La atribución de escaños a cada lista se hará atendiendo a criterios de representación proporcional por aplicación del sistema D' Hont.
+d) Para el acceso a la Asamblea Regional se requerirá la obtención de, al menos, un cinco por ciento de los votos válidos emitidos a nivel regional.
+e) En todo aquello que no esté previsto en la presente disposición, serán de aplicación las normas vigentes para las elecciones legislativas al Congreso de los Diputados de las Cortes Generales. Asimismo será de aplicación, de forma supletoria, el número siete del artículo once de la Ley treinta y nueve/mil novecientos setenta y ocho, de diecisiete de julio, de Elecciones Locales.
+Tres. El decimoquinto día a partir de la proclamación de los resultados provisionales de las elecciones, o en el siguiente hábil, si aquel no lo fuere, se constituirá la Asamblea Regional presidida por una Mesa integrada por un Presidente, el de mayor edad, y dos Secretarios, los de menor edad de sus componentes, y procederá a elegir mediante voto limitado la Mesa compuesta de un Presidente dos Vicepresidentes y dos Secretarios, de forma análoga a la establecida para el Congreso de los Diputados.
+Cuatro. La Asamblea Regional en su segunda sesión, que se celebrará el decimoquinto día posterior al final de la sesión constitutiva, o en el siguiente hábil si aquel no lo fuere, elegirá Presidente de la Comunidad Autónoma con arreglo al siguiente procedimiento:
+a) El Presidente de la Asamblea Regional proclamará candidatos a aquellos que con una antelación mínima de veinticuatro horas hubiesen sido presentados como tales ante la Mesa por, al menos, cinco miembros de la Asamblea Regional.
+b) Los candidatos a la Presidencia expondrán sucesivamente su programa político y solicitarán la confianza de la Asamblea.
+c) Resultara elegido Presidente el que obtenga la confianza de la Asamblea, de acuerdo con el sistema de elección previsto en el artículo treinta y uno de este Estatuto.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Uno. En tanto no se celebren las primeras elecciones a la Asamblea Regional, ésta quedará constituida provisionalmente por los miembros del actual Consejo Regional de Murcia.
+Dos. Dentro de los treinta días siguientes a la entrada en vigor de este Estatuto se procederá a la constitución de la Asamblea Regional provisional, con la composición prevista en el número anterior, mediante convocatoria a sus miembros efectuada por el Presidente del actual Consejo Regional de Murcia. En esta primera sesión constitutiva de la Asamblea Regional provisional se procederá a la elección de Presidente y Mesa de la misma y a la elección de Presidente de la Comunidad Autónoma, en la forma prescrita, respectivamente, en los números tres y cuatro de la disposición transitoria primera.
+Tres. La Asamblea Regional provisional así constituida tendrá todas las competencias que este Estatuto atribuye a la Asamblea Regional, excepto el ejercicio de la potestad legislativa. En todo caso, la Asamblea Regional provisional podrá dictar aquellas disposiciones necesarias para el funcionamiento de las Instituciones de la Comunidad Autónoma.
+Cuatro. Una vez constituida la Asamblea Regional provisional, elegido el Presidente de la Comunidad Autónoma y nombrado el Consejo de Gobierno, la Diputación Provincial de Murcia quedará disuelta y asumida por la Comunidad Autónoma, cesando en sus funciones el Presidente de la Diputación y demás Diputados provinciales.
+Cinco. La publicación en el «Boletín Oficial del Estado» del nombramiento del Presidente por el Rey llevará consigo la extinción del Ente Preautonómico.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Uno. El Presidente de la Comunidad Autónoma, elegido conforme a la disposición transitoria segunda, nombrará a los miembros del Consejo de Gobierno provisional.
+Dos. Corresponde a este Consejo de Gobierno las siguientes competencias:
+a) La que el presente Estatuto atribuye al Consejo de Gobierno.
+b) Las que de acuerdo con la legislación general del Estado corresponden a la Diputación Provincial.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Serán respetados los derechos adquiridos de cualquier orden o naturaleza que correspondan a los funcionarios y demás personal adscrito a la Administración del Estado, Diputación Provincial y Organismos e Instituciones públicas que, por razón de las transferencias de servicios a la Comunidad Autónoma, hayan de depender de ésta en el futuro. La Comunidad Autónoma quedará subrogada en la titularidad de los contratos sometidos al Derecho Administrativo y Laboral.
+Los funcionarios de los Cuerpos Nacionales de Administración Local que se encuentran destinados en la Diputación Provincial pasarán a la Administración Regional, en la que desempeñarán puestos de análogo rango al de los que actualmente ocupan en aquélla, con las funciones que se les asignen por los órganos competentes de la Comunidad Autónoma.
+Los funcionarios a que se refieren los dos párrafos anteriores serán respetados en todos sus derechos adquiridos de cualquier orden y naturaleza, incluso el de participar en los concursos de traslado que convoque la Administración del Estado en igualdad de condiciones con los restantes miembros de su Cuerpo, pudiendo ejercer de esta manera su derecho permanente de opción que corresponde a los funcionarios.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+El traspaso de los servicios inherentes a las competencias que según el presente Estatuto corresponden a la Comunidad Autónoma de Murcia, se hará de acuerdo con las bases siguientes:
+Uno. En el término máximo de un mes desde el nombramiento del Presidente del Consejo por el Rey, se nombrará una Comisión Mixta encargada de inventariar los bienes y derechos del Estado que deban ser objeto de transferencia a la Comunidad Autónoma, de concretar los servicios y funcionarios que deban ser transferidos y de proceder a la adaptación, si es preciso, de los que pasen a la competencia de la Comunidad Autónoma.
+Dos. La Comisión Mixta estará integrada paritariamente por Vocales designados por el Gobierno y por el Consejo de Gobierno, y ella misma establecerá sus normas de funcionamiento.
+Los acuerdos de la Comisión Mixta adoptarán la forma de propuesta al Gobierno, que los aprobará mediante Decreto, figurando aquellos como anejos al mismo, y serán publicados simultáneamente en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Región de Murcia», adquiriendo vigencia a partir de esta publicación.
+Tres. En el plazo máximo de un año, la Comisión Mixta establecerá el calendario para el traspaso de la totalidad de los servicios que deban transferirse de acuerdo con este Estatuto.
+Cuatro. Para preparar los traspasos y para verificarlos por bloques orgánicos de naturaleza homogénea la Comisión Mixta de transferencias estará asistida por Comisiones sectoriales, de ámbito nacional, agrupadas por materias, cuyo cometido fundamental será determinar con la representación de la Administración del Estado los traspasos de medios personales, financieros y materiales que deba recibir la Comunidad Autónoma.
+Las Comisiones sectoriales trasladarán sus propuestas de acuerdo a la Comisión Mixta, que las habrá de ratificar.
+Cinco. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles del Estado a la Comunidad Autónoma la certificación por la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados. Esta certificación deberá contener los requisitos exigidos por la Ley Hipotecaria.
+El cambio de titularidad en los contratos de arrendamiento de locales para oficinas públicas de los servicios que se transfieran no dará derecho al arrendador a extinguir ni modificar los elementos objetivos del contrato.
+Seis. La Comunidad Autónoma asumirá con carácter definitivo y automático, y sin solución de continuidad, los servicios que hayan sido traspasados al Ente Preautonómico. En relación con las competencias cuyo traspaso esté en curso de ejecución, se continuará su tramitación de acuerdo con los términos establecidos por el correspondiente Decreto de traspaso.
+Tanto en uno como en otro caso, las transferencias realizadas se adaptarán, si fuera preciso, al presente Estatuto.
+Siete. La Comisión Mixta creada de acuerdo con el Real Decreto de veintinueve de septiembre de mil novecientos setenta y ocho, o cualquiera otra establecida posteriormente para las transferencias a la Comunidad Autónoma de la Región de Murcia, se considerará disuelta cuando se constituya la Comisión Mixta requerida en el apartado uno de esta disposición transitoria.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Mientras no se dicten las disposiciones que permitan la financiación de los servicios transferidos correspondientes a competencias propias de la Comunidad Autónoma, el Estado contribuirá a su sostenimiento partiendo de una cantidad igual al coste efectivo del servicio en el momento de la transferencia, actualizándola de acuerdo con la evolución de las circunstancias.
+Para garantizar está financiación, la Comisión Mixta paritaria Estado-Comunidad Autónoma determinará en cada momento su alcance.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Hasta que no entre en vigor el Impuesto sobre el Valor Añadido, se considerará como impuesto que puede ser cedido el de lujo que se recaude en destino.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a nueve de junio de mil novecientos ochenta y dos.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

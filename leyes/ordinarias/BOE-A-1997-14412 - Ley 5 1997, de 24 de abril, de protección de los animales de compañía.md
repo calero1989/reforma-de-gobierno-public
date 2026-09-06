@@ -1,0 +1,474 @@
+# Ley 5/1997, de 24 de abril, de protección de los animales de compañía.
+
+- Identificador BOE: `BOE-A-1997-14412`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-14412
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOCL núm. 104, de 3 de junio de 1997, núm. 119, de 24 de junio de 1997 y núm. 32, de 17 de febrero de 1998.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La creciente sensibilidad social en torno al respeto, la protección y la defensa de todos los seres vivos, en general, y de los animales más próximos al hombre, en particular, ha ido haciendo necesario incorporar esos principios a una legislación actualizada y en concordancia con los principios inspiradores de los Convenios Internacionales y la normativa de la Unión Europea, en la materia.
+La Comunidad Autónoma, respondiendo a esa demanda, ha procedido a la aprobación de la presente Ley en la que se pretende incorporar no sólo las medidas que garanticen una saludable relación de los animales con el hombre en el aspecto higiénico sanitario, sino también una eficaz protección de los animales en sí mismos, evitándoseles los tratos degradantes, crueles o simplemente abusivos, por parte del hombre.
+En este último sentido, era necesario la regulación de los espectáculos en los que intervienen animales estableciéndose, como principio, la estricta prohibición de los mismos, y recogiendo alguna excepción que, en todo caso, necesitará de una previa regulación administrativa. Mención específica merece, por su novedad, el mandato de la Ley al Ejecutivo para que éste reglamente la práctica de los espectáculos taurinos tradicionales.
+La Ley va dirigida fundamentalmente, aunque no de manera exclusiva, a la protección de los denominados animales de compañía, cuya mera tenencia va a comportar obligaciones para su propietario o poseedor. El conocimiento de éstas es el primer elemento para que, quienes lo pretendan, valoren y sopesen la decisión que comporta ocuparse de un animal de compañía.
+La implantación de un censo -en principio sólo obligatorio para determinados animales de compañía, pero extensible a otros- se convierte en elemento esencial para la eficacia de la Ley.
+Precisamente es este tema uno de los que mejor evidencia, como principio inspirador de la Ley, la voluntad del legislador de existencia de una coordinación general de la Administración de la Comunidad Autónoma y de las Administraciones Locales en la materia, cuestión plasmada también de manera muy constatable en el régimen sancionador. Naturalmente, sin perjuicio del papel que en este tema vienen desarrollando las asociaciones dedicadas a la protección de los animales, que se ve reconocido al ser las mismas incorporadas al texto legislativo para colaborar con las Administraciones competentes.
+Asimismo, la Ley manifiesta una especial preocupación por todos los aspectos relacionados con el comercio, en sentido amplio, de dichos animales, así como por la regulación del abandono de los mismos, como un fenómeno preferentemente de carácter urbano.
+Como último y necesario aspecto, la Ley se ocupa del régimen sancionador, garante del cumplimiento de las obligaciones que la propia Ley impone.
+La Ley, finalmente se estructura en cinco títulos, tres disposiciones adicionales, una transitoria y dos finales.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Del objeto y ámbito de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto establecer las medidas necesarias para garantizar la protección de los animales de compañía.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de esta ley se entenderá por:
+a) animales de compañía: aquellos animales que viven con las personas, principalmente en el hogar, con fines fundamentalmente de compañía, ocio, educativo o social, independientemente de su especie.
+A los efectos de esta ley se incluyen todos los perros y gatos, independientemente del fin para el que se destinan o el lugar en el que habiten, y los équidos utilizados con fines de ocio o deportivo, siempre que su tenencia no tenga como destino su consumo o el aprovechamiento de sus producciones, o no se lleve a cabo, en general, con fines comerciales o lucrativos.
+b) animales de producción: aquellos animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, mantenidos, cebados o criados para la producción de alimentos o productos de origen animal, para cualquier uso industrial, o con fines comerciales y lucrativos, siempre y cuando a lo largo de su vida se les destine única y exclusivamente a estos fines.
+c) fauna silvestre: el conjunto de especies, subespecies, población e individuos animales que viven y se reproducen de forma natural en estado silvestre, con independencia de su carácter autóctono o alóctono y de la posibilidad de su aprovechamiento cinegético.
+No se entenderán como fauna silvestre los animales de dichas especies que se mantengan como animales de compañía o como animales de producción.
+d) animales abandonados: aquellos animales de compañía que pudiendo estar o no identificado su origen o propietario, circulen por la vía pública sin acompañamiento de persona alguna y del cual no se haya denunciado su pérdida o sustracción, o aquél que no sea retirado del centro de recogida por su propietario o persona autorizada en los plazos establecidos en esta ley.
+e) animales perdidos o extraviados: aquellos animales de compañía que estando identificados o sin identificar, vagan sin destino y sin control, circulando por la vía pública sin acompañamiento alguno, siempre que sus propietarios o poseedores hayan comunicado el extravío o pérdida de los mismos.
+f) animales vagabundos: aquellos animales de compañía que carecen de propietario o poseedor y vagan sin destino y sin control.
+g) propietario: persona que figura inscrita como tal en los registros correspondientes. En aquellos supuestos en los que no exista dicha inscripción, se considerará propietario a quien pueda demostrar dicha titularidad por cualquier medio válido en derecho.
+h) poseedor: aquél que sin ser propietario ostente circunstancialmente la posesión y /o el cuidado del animal.
+i) entidades de protección de animales: aquellas entidades con ámbito de actuación en la Comunidad de Castilla y León, legalmente constituidas, sin ánimo de lucro, y cuya principal finalidad sea la defensa y protección de los animales.
+j) sacrificio: muerte provocada a un animal por razones de sanidad animal, de salud pública, de seguridad o medioambientales, mediante métodos que impliquen el menor sufrimiento posible.
+k) maltrato: cualquier conducta, tanto por acción como por omisión, mediante la cual se somete a un animal a un dolor, sufrimiento o estrés graves.
+Se modifica por el art. 6.1 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 3
+
+Artículo 3. Exclusiones.
+Quedan fuera del ámbito de aplicación de esta ley, rigiéndose por su normativa específica:
+a) La caza.
+b) La pesca.
+c) La fauna silvestre.
+d) Los animales de producción, los de parques zoológicos.
+e) Los animales utilizados con fines de experimentación u otros fines científicos, incluyendo la educación y la docencia.
+f) Los animales utilizados en espectáculos taurinos y en escuelas taurinas.
+Se modifica por el art. 6.2 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+## CAPÍTULO II
+
+De las medidas de protección
+
+### Artículo 4
+
+Artículo 4. Obligaciones de los poseedores o propietarios.
+1. El poseedor de un animal, y subsidiariamente su propietario, es el responsable de su protección y cuidado, así como del cumplimiento de todas las obligaciones contenidas en esta Ley.
+A tal efecto, deberán mantenerlo en buenas condiciones higiénico-sanitarias, procurándole instalaciones adecuadas para su cobijo, proporcionándole alimentación y bebida, dándole la oportunidad de ejercicio físico y atendiéndole de acuerdo con sus necesidades fisiológicas y etológicas en función de su especie y raza y cumplimentar las formalidades administrativas que en cada caso procedan. Asimismo deberá realizar los tratamientos sanitarios declarados obligatorios.
+2. Queda en cualquier caso expresamente prohibido:
+a) Matar, maltratar a los animales, o someterlos a prácticas que les pueda producir padecimientos o daños injustificados.
+b) Abandonarlos.
+c) Mantenerlos permanentemente atados o inmovilizados.
+d) Practicarles mutilaciones, excepto las controladas por veterinarios en caso de necesidad, por exigencias funcionales, por aumento indeseado de la población o para mantener las características propias de la raza.
+e) Manipular artificialmente a los animales, especialmente a sus crías, con objeto de hacerlos atractivos como diversión o juguete para su venta.
+f) No facilitarles la alimentación adecuada para su normal y sano desarrollo.
+g) Mantenerlos en instalaciones inadecuadas desde el punto de vista higiénico-sanitario y con dimensiones y características inapropiadas para su bienestar.
+h) Suministrarles alimentos, fármacos, sustancias o practicarles cualquier manipulación artificial, que puedan producirles daños físicos o psíquicos innecesarios, así como los que se utilicen para modificar el comportamiento del animal, salvo que sean administrados por prescripción facultativa.
+i) Vender, donar o ceder animales a menores de edad o incapacitados sin la autorización de quien tenga la patria potestad o custodia.
+j) Venderlos para experimentación sin cumplir con las garantías o requisitos previstos en la normativa vigente.
+k) Hacer donación de los mismos como reclamo publicitario, premio o recompensa, a excepción de negocios jurídicos derivados de la transacción onerosa de animales.
+l) Mantener a los animales en lugares en los que no pueda ejercerse sobre los mismos la adecuada vigilancia.
+m) Imponerles la realización de comportamientos y actitudes ajenas e impropias de su condición o que indiquen trato vejatorio.
+3. Serán también responsabilidad del poseedor de un animal, y subsidiariamente del propietario, los daños, perjuicios y molestias que ocasionen a las personas, cosas, vías, espacios públicos y al medio natural en general, de acuerdo con lo establecido en el artículo 1.905 del Código Civil.
+4. El poseedor de un animal deberá adoptar las medidas para evitar la proliferación incontrolada de los animales.
+5. El poseedor de un animal, o persona por él autorizada, deberá denunciar, en su caso, su muerte, pérdida o extravío a la autoridad competente, en el término de cinco días a partir de que tal situación se produzca.
+6. El propietario de cualquier animal que no pueda continuar teniéndolo lo entregará en los centros de recogida establecidos por la Administración.
+
+### Artículo 5
+
+Artículo 5. Transporte.
+1. Los medios de transporte y los embalajes utilizados para el mismo deberán ser de las dimensiones adecuadas a cada especie y protegerlos de la intemperie y de las diferencias climatológicas acusadas, al objeto de evitar que sufran daños o padecimientos innecesarios. Asimismo deberán llevar la indicación de presencia de animales vivos. En todo caso el traslado se realizará tomando las medidas de seguridad necesarias.
+2. Durante los tiempos de transporte y espera de carga y descarga, los animales deberán ser observados y recibir una alimentación apropiada a intervalos convenientes.
+3. La carga y descarga de los animales se realizará de forma adecuada.
+4. Los habitáculos donde se transporten los animales deberán mantener unas buenas condiciones higiénico-sanitarias, debiendo estar debidamente limpios y desinfectados.
+
+### Artículo 6
+
+Artículo 6. Espectáculos.
+1. Se prohíbe la utilización de animales vivos en espectáculos, peleas, fiestas y otras actividades que impliquen tortura, sufrimiento, crueldad o maltrato, o hacerlos objeto de tratamientos antinaturales.
+2. Quedan excluidos de forma expresa de dicha prohibición los espectáculos circenses en los que participen animales, siempre que no impliquen crueldad, maltrato, sufrimiento, la muerte del animal o pudieran herir la sensibilidad de los espectadores.
+3. Se prohíben las peleas de perros, gallos, o cualesquiera otros animales entre sí, con ejemplares de otra especie o con el hombre.
+4. Se podrá autorizar a las sociedades de tiro, bajo el control de la respectiva federación, la celebración de competiciones de tiro al pichón y a otras especies que se determinen.
+5. La realización de espectáculos taurinos quedará sometida a la pertinente autorización administrativa. La Junta de Castilla y León en el plazo de un año regulará reglamentariamente dichos espectáculos.
+
+### Artículo 7
+
+Artículo 7. Filmación y publicidad.
+La filmación, fotografiado o grabación en cualquier tipo de soporte comunicativo de escenas de ficción que simulen crueldad, maltrato o sufrimiento de animales, requerirán necesariamente autorización previa del órgano competente de la Administración autonómica, a efectos de la verificación de que el daño aparentemente causado es efectivamente simulado.
+
+## TÍTULO II
+
+Animales domésticos y domesticados
+
+## CAPÍTULO I
+
+De las disposiciones comunes
+
+### Artículo 8
+
+Artículo 8. Medidas sanitarias.
+1. Sin perjuicio de la aplicación del resto de las disposiciones de la Ley de Sanidad Animal de Castilla y León, la Comunidad Autónoma podrá imponer la vacunación, el tratamiento sanitario obligatorio y el sacrificio de los animales a que hace referencia esta Ley, por razones de sanidad animal y salud pública.
+2. Los veterinarios en ejercicio, los de la Administración Pública y las clínicas, consultorios y hospitales veterinarios deberán llevar un archivo con la ficha clínica de cada animal objeto de vacunación, tratamiento sanitario obligatorio o sacrificio, en la forma que reglamentariamente se determine, el cual estará a disposición del órgano de la Comunidad Autónoma competente y de las autoridades locales y sanitarias.
+3. A estos efectos, tanto los Ayuntamientos como la autoridad competente de la Comunidad Autónoma de Castilla y León deberán ordenar el internamiento o aislamiento de los animales en caso de que se les hubiera diagnosticado o presentasen síntomas de enfermedades transmisibles tanto para el hombre como para otros animales, ya sea para someterlos a un tratamiento curativo o para sacrificarlos si fuera necesario.
+Igualmente ordenarán el internamiento o aislamiento de aquellos animales que hubieren atacado al hombre para su observación, control y adopción, en su caso, de las medidas previstas en el apartado anterior.
+4. Todos los animales de compañía para los que reglamentariamente se establezca deberán poseer una cartilla sanitaria expedida por el centro autorizado en el que haya sido vacunado.
+
+### Artículo 9
+
+Artículo 9. Identificación y censo.
+1. Los propietarios o poseedores de perros deberán censarlos en el Ayuntamiento del municipio donde residan habitualmente, en el plazo máximo de tres meses a contar desde la fecha de nacimiento o de adquisición. El animal deberá llevar necesariamente su identificación censal, de forma permanente.
+2. La identificación censal se realizará obligatoriamente por uno de los siguientes sistemas, que se adaptarán en todo caso a la normativa de la Unión Europea:
+a) Tatuaje en la piel por un sistema que garantice su carácter indeleble.
+b) Identificación electrónica mediante la implantación de un microchip homologado.
+c) Los demás sistemas que se establezcan por reglamento.
+3. La identificación se completará mediante una placa identificativa, en la que constarán el nombre del animal y los datos de la persona que sea propietaria del mismo.
+4. La Junta creará una base de datos ligada al sistema de identificación.
+5. Asimismo, y de forma reglamentaria, se podrá extender la aplicación de lo dispuesto en los apartados anteriores a otros animales de compañía.
+
+### Artículo 10
+
+Artículo 10. Zonas de esparcimiento y enterramiento.
+Los Ayuntamientos habilitarán en los jardines y parques públicos espacios idóneos debidamente señalizados, tanto para el paseo y esparcimiento de los animales como para la emisión de excretas por los mismos. Asimismo habilitarán lugares destinados a enterrar animales muertos o sistemas para la destrucción de cadáveres.
+
+### Artículo 11
+
+Artículo 11. Estacionamiento y acceso a locales y transportes públicos.
+1. Cuando los animales de compañía deban permanecer en vehículos estacionados, será necesario adoptar las medidas pertinentes para que la aireación y temperatura sean las adecuadas.
+2. Queda prohibida la entrada de animales en locales destinados a la elaboración, venta, almacenamiento, transporte o manipulación de alimentos, espectáculos públicos, piscinas y otros establecimientos o lugares análogos, así como su traslado en medios de transporte públicos, estarán sometidos a la normativa sanitaria correspondiente. Asimismo queda prohibido la entrada en locales y espectáculos públicos.
+3. Queda prohibido el acceso a los transportes públicos, salvo en aquellos que dispongan de lugares específicamente habilitados para su transporte.
+Los conductores de taxis podrán aceptar llevar animales de compañía en su vehículo.
+4. Los restaurantes, bares, tabernas y aquellos otros en los que se consuman bebidas y comidas, podrán reservarse la admisión de animales de compañía. En caso de no admisión deberán mostrar un distintivo que lo indique, visible desde el exterior del establecimiento.
+5. Las prohibiciones establecidas en los apartados anteriores no serán de aplicación a los perros guía.
+
+## CAPÍTULO II
+
+De las medidas adicionales para los animales domesticados
+
+### Artículo 12
+
+Artículo 12. Tenencia.
+La tenencia de animales domesticados y salvajes en cautividad precisará autorización de la Dirección General competente, previo informe relativo a las condiciones higiénico-sanitarias y de idoneidad.
+
+### Artículo 13
+
+Artículo 13. Circulación.
+Se prohíbe la circulación de animales considerados peligrosos sin las medidas protectoras que reglamentariamente se establezcan, de acuerdo con las características de cada especie.
+
+## CAPÍTULO III
+
+De los establecimientos de venta y centros para el mantenimiento temporal de los animales de compañía
+
+### Artículo 14
+
+Artículo 14. Medidas comunes.
+1. Tendrán la consideración de núcleos zoológicos los albergues, clínicas, residencias, criaderos, centros de adiestramiento, establecimientos de venta, recogida y demás instalaciones cuyo objeto sea mantener temporalmente a los animales, debiendo cumplir los siguientes requisitos:
+a) Estar autorizados por la Consejería competente. Reglamentariamente se determinarán las condiciones para el otorgamiento de dicha autorización.
+b) Llevar un libro de registro a disposición de las Administraciones competentes en los casos, condiciones y con el contenido que reglamentariamente se establezca.
+c) Disponer de buenas condiciones higiénico-sanitarias y de locales adecuados a las necesidades fisiológicas y etológicas de los animales que alberguen.
+d) Disponer de comida suficiente y sana, agua y contar con personal capacitado para su cuidado.
+e) Adoptar las medidas necesarias para evitar el contagio de enfermedades entre los animales residentes y del entorno y para guardar, en su caso, períodos de cuarentena.
+f) Disponer de espacio suficiente para poder mantener aisladas a las hembras en el caso de que se encuentren en período de celo.
+g) Contar con los servicios veterinarios suficientes y adecuados para cada establecimiento.
+2. En caso de cierre o abandono de algún establecimiento destinado a la cría, venta o mantenimiento temporal de animales de compañía, sus titulares estarán obligados, bajo control de las Administraciones Públicas correspondientes, a entregar los animales que tengan a otro centro de igual fin o, en su defecto, a un centro de recogida de animales abandonados, aportando la documentación relativa a los animales afectados.
+
+### Artículo 15
+
+Artículo 15. Medidas adicionales de establecimientos de venta.
+1. Los establecimientos de venta de animales de compañía deberán entregar los animales con las debidas garantías sanitarias, libres de toda enfermedad, y acreditarlo mediante certificado oficial veterinario. Ello no eximirá al vendedor de responsabilidad ante enfermedades en incubación no detectadas en el momento de la venta.
+A estos efectos se establecerá un plazo de garantía mínima de catorce días por si hubiera lesiones ocultas o enfermedades en incubación.
+2. Se prohíbe la cría y comercialización de los animales sin las licencias y permisos correspondientes.
+3. Se prohíbe la venta ambulante de los mismos fuera de los mercados o ferias debidamente legalizados.
+
+### Artículo 16
+
+Artículo 16. Medidas adicionales de los establecimientos para el mantenimiento temporal.
+1. Los núcleos zoológicos cuyo objeto sea el mantenimiento temporal de animales de compañía deberán entregarlos a sus dueños con las debidas garantías sanitarias y acreditarlo como reglamentariamente se determine.
+2. El propietario que deje un animal para su guarda en un establecimiento acreditado al efecto, firmará la correspondiente autorización que posibilite la intervención veterinaria siempre que ésta fuera necesaria por razones de urgencia para salvar la vida del animal y no hubiere posibilidad de comunicación con dicho propietario.
+
+## CAPÍTULO IV
+
+Del abandono de animales y de los centros de recogida
+
+### Artículo 17
+
+Artículo 17. Animales abandonados.
+1. Sin perjuicio de las normas propias del Derecho Civil, a los efectos de esta Ley se considerarán abandonados aquellos animales que carezcan de cualquier tipo de identificación del origen o del propietario y no vayan acompañados de persona alguna. En dicho supuesto los órganos administrativos competentes deberán hacerse cargo del animal hasta que sea recuperado, cedido o, sólo en último término, sacrificado.
+2. Los animales presuntamente abandonados deberán ser retenidos durante al menos veinte días, para tratar de localizar a su dueño.
+3. Si el animal recogido fuera identificado, se pondrá en conocimiento de su propietario para que en plazo de cinco días pueda recuperarlo, previo abono de los gastos que haya originado su custodia y mantenimiento. Transcurrido dicho plazo sin que su propietario lo hubiera recogido, dicho animal se entenderá abandonado. Ello no eximirá al propietario de la responsabilidad en que hubiera podido incurrir por el abandono del mismo.
+4. La Administración adoptará las medidas adecuadas para evitar la proliferación de animales abandonados.
+
+### Artículo 18
+
+Artículo 18. Servicio de recogida.
+Será competencia de los Ayuntamientos, o en su caso de las Diputaciones, la recogida de los animales abandonados. A tal fin dispondrán de personal adiestrado y de instalaciones adecuadas o concertarán la realización de dicho servicio con asociaciones de protección y defensa de los animales o con entidades autorizadas para tal fin.
+Se modifica por el art. 17.1 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 19
+
+Artículo 19. Establecimientos de recogida.
+1. Sin perjuicio de lo dispuesto en los demás preceptos de esta Ley que sean de aplicación, los establecimientos dedicados a la recogida de animales abandonados deberán estar sometidos al control de los servicios veterinarios oficiales de la Junta de Castilla y León y habrán de cumplir los siguientes requisitos:
+a) Estar inscritos en la sección III del Registro de Núcleos Zoológicos.
+b) Llevar debidamente cumplimentado un libro de registro de movimientos en el que figurarán los datos relativos a las altas y bajas de animales, así como cualquier otra incidencia que reglamentariamente se establezca.
+c) Contar con la asistencia de un servicio veterinario.
+Se modifica la letra a) del apartado 1 por el art. 17.2 del Decreto-ley 3/2009, de 23 de diciembre. Ref. BOCL-h-2009-90251.
+
+### Artículo 20
+
+Artículo 20. Cesión.
+1. Los Centros de recogida de animales abandonados, una vez transcurrido el plazo legal para recuperarlos, podrán cederlos debidamente desinsectados y desparasitados, y harán cesión de los animales según la evaluación que haga el centro de recogida de los peticionarios.
+2. En todo caso el cesionario será el encargado de abonar los gastos que la captura y alojamiento del animal hayan supuesto.
+3. La cesión de animales en ningún caso podrá realizarse a personas que hayan incurrido anteriormente en infracciones graves o muy graves de las reguladas en esta Ley.
+A tal fin las Administraciones competentes facilitarán, periódicamente, a los centros de recogida, listados de dichos infractores.
+
+### Artículo 21
+
+Artículo 21. Sacrificio.
+1. Al margen de las razones sanitarias reguladas en la normativa correspondiente, sólo se podrá sacrificar a los animales en poder de las Administraciones Públicas o de sus entidades colaboradoras cuando se hubiera realizado sin éxito todo lo razonablemente exigible para buscar un poseedor y resultara imposible atenderlos por más tiempo en las instalaciones existentes al efecto.
+2. El sacrificio se llevará a cabo en los locales apropiados, utilizando métodos que provoquen una pérdida de consciencia inmediata y que no impliquen sufrimiento, siempre con el conocimiento y la responsabilidad de un veterinario.
+Se prohíbe el sacrificio en la vía pública, salvo en los casos de extrema necesidad y fuerza mayor.
+3. Reglamentariamente se determinarán los métodos de sacrificio a utilizar.
+
+## TÍTULO III
+
+Asociaciones de protección y defensa de los animales
+
+### Artículo 22
+
+Artículo 22. Concepto y naturaleza.
+Son asociaciones de protección y defensa de los animales, aquellas sin ánimo de lucro, legalmente constituidas y cuyo fin principal sea la protección y defensa de los animales. Dichas asociaciones, siempre y cuando se hagan cargo de la captura y alojamiento de animales abandonados, así como de su cesión o sacrificio, serán consideradas a estos fines como sociedades benéficas de utilidad pública.
+
+### Artículo 23
+
+Artículo 23. Régimen jurídico y funciones.
+1. Las asociaciones que reúnan todos los requisitos que reglamentariamente se determinen, podrán ser declaradas entidades colaboradoras de la Administración. A estos efectos deberán inscribirse en el registro, creado por la Consejería competente.
+La Consejería y, en su caso, las Corporaciones Locales podrán convenir con las entidades colaboradoras la realización de las siguientes funciones:
+a) Recoger los animales vagabundos, extraviados o abandonados. Asimismo podrán recoger los animales entregados por sus dueños.
+b) Utilizar sus instalaciones para el depósito, cuidado y tratamiento de animales abandonados, sin dueño, decomisados por la Administración o que deban permanecer aislados por razones sanitarias.
+c) Gestionar la cesión de animales a terceros o proceder a su sacrificio de acuerdo con lo establecido en esta Ley.
+d) Tener la consideración de interesado en los expedientes sancionadores.
+e) Proponer a las Administraciones correspondientes la adopción de cuantas medidas consideren oportunas para una más eficaz defensa y protección de los animales.
+2. Las Asociaciones de Protección y defensa de los animales podrán instar a los órganos competentes de las Administraciones Local y Autonómica a que realicen inspecciones en aquellos casos en que existan indicios de irregularidad.
+3. Los agentes de la autoridad deberán prestar su colaboración y asistencia a las asociaciones declaradas entidades colaboradoras en las gestiones derivadas de sus acuerdos con la Administración.
+4. La Consejería de Agricultura y Ganadería establecerá dentro de sus presupuestos programas de ayuda a las asociaciones que tengan la condición de entidades colaboradas.
+5. Dichas asociaciones deberán dar cuenta periódicamente de sus actuaciones a las autoridades competentes.
+
+## TÍTULO IV
+
+Censo, vigilancia e inspección y confiscación
+
+### Artículo 24
+
+Artículo 24. Censo.
+Corresponderá a los Ayuntamientos establecer el censo de las especies de animales de compañía que reglamentariamente se determinen por la Junta de Castilla y León estando en todo caso dicho censo a disposición de la misma.
+
+### Artículo 25
+
+Artículo 25. Vigilancia e inspección.
+Los Ayuntamientos y la Consejería competente llevarán a cabo la vigilancia e inspección de los establecimientos de cría, venta o mantenimiento temporal de animales de compañía, así como de los centros de recogida de animales abandonados.
+
+### Artículo 26
+
+Artículo 26. Confiscación.
+1. La Administración Local podrá confiscar los animales sobre los que existan indicios de malos tratos o torturas, presenten síntomas de agresión física o de mala alimentación o se encontraran en instalaciones inadecuadas.
+2. También podrá confiscar aquellos animales que manifiesten síntomas de comportamiento agresivo o peligroso para las personas o que perturben de forma reiterada la tranquilidad y el descanso de los vecinos, siempre que haya precedido requerimiento para que cesen las molestias o se evite el peligro y no haya sido atendido el mismo por la persona responsable de dicho animal.
+3. Los Ayuntamientos y las autoridades de salud pública o sanidad animal de la Comunidad Autónoma de Castilla y León podrán confiscar animales en caso de que se les hubiera diagnosticado o presentasen síntomas de enfermedades transmisibles tanto para el hombre como para otros animales, ya sea para someterlos a un tratamiento curativo o para sacrificarlos si fuera necesario.
+
+## TÍTULO V
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+De las infracciones
+
+### Artículo 27
+
+Artículo 27. Concepto.
+1. Será infracción administrativa el incumplimiento de las obligaciones, prohibiciones y requisitos establecidos en ella, así como de las condiciones impuestas en las autorizaciones administrativas otorgadas a su amparo.
+2. La responsabilidad administrativa será exigible sin perjuicio de la que pudiese corresponder en el ámbito civil o penal.
+3. En el caso de celebración de espectáculos prohibidos, incurrirán en responsabilidad administrativa no sólo sus organizadores, sino también los dueños de los animales y los propietarios de los locales o terrenos que los hubiesen cedido, a título oneroso o gratuito.
+
+### Artículo 28
+
+Artículo 28. Clasificación de las infracciones.
+1. Las infracciones se clasifican en infracciones leves, graves y muy graves.
+2. Son infracciones leves:
+a) Vender, donar o ceder animales a menores de edad o incapacitados sin la autorización de quien tenga su patria potestad, tutela o custodia.
+b) Ofrecer o regalar animales como premio o recompensa en concursos o con fines publicitarios.
+c) La carencia o tenencia incompleta del archivo de fichas clínicas de los animales objeto de vacunación o de tratamiento obligatorio, tal y como reglamentariamente se determine.
+d) No comunicar el extravío, muerte, venta o cambio de titularidad de los animales en el plazo establecido en el artículo 4.5, cuando dicha comunicación esté prevista en la normativa aplicable.
+e) La no recogida inmediata de los excrementos evacuados por un animal de compañía en los espacios públicos o privados de uso común.
+f) La manipulación artificial de los animales con objeto de hacerlos atractivos como diversión o juguete para su venta.
+g) La no obtención de las autorizaciones, permisos o licencias necesarias, en cada caso, para estar en posesión del animal de que se trate.
+h) El transporte de los animales con vulneración de las obligaciones y requisitos establecidos en la presente ley o en su normativa de desarrollo, siempre y cuando los animales no sufran daños evidentes.
+i) La presencia en vías y espacios públicos o privados de uso común de animales no sujetos con cadena, correa o cordón resistente
+j) Cualquier otra actuación que vulnere lo dispuesto en esta ley y no esté tipificada como infracción grave o muy grave.
+3. Son infracciones graves:
+a) El transporte de los animales con vulneración de las obligaciones y requisitos establecidos en la presente ley o en su normativa de desarrollo, siempre y cuando los animales sufran daños evidentes.
+b) La filmación de escenas con animales que simulen crueldad, maltrato o sufrimiento sin autorización administrativa.
+c) El incumplimiento por parte de los establecimientos para la cría, venta o mantenimiento temporal de animales de los requisitos y condiciones establecidas en la presente ley o en sus normas de desarrollo.
+d) La cría, comercialización o venta de animales sin cumplir los requisitos establecidos en la presente ley o en sus normas de desarrollo.
+e) La posesión de animales de compañía no registrados o identificados conforme a lo previsto en esta ley o en sus normas de desarrollo.
+f) El maltrato a animales que les cause dolor, sufrimiento o lesiones no invalidantes.
+g) No mantener a los animales en buena condición higiénica sanitaria o en las condiciones fijadas por la normativa aplicable.
+h) No realizar las vacunaciones y los tratamientos veterinarios obligatorios, paliativos, preventivos o curativos esenciales que pudieran precisar los animales.
+i) La venta o donación de animales para la experimentación sin las oportunas autorizaciones.
+j) El empleo de animales en exhibiciones que les cause sufrimiento o dolor.
+k) No recuperar a los animales perdidos o extraviados en el plazo previsto para ello en el artículo 17.3.
+l) Alimentar a los animales de forma insuficiente, inadecuada o con alimentos no autorizados.
+m) La venta ambulante de animales de compañía, fuera de las instalaciones, ferias o mercados autorizados.
+n) El incumplimiento, por parte de los centros veterinarios, establecimientos de venta, adiestramiento y mantenimiento temporal de los animales de compañía, de los requisitos y condiciones establecidas en la presente ley o en sus normas de desarrollo.
+ñ) La venta de mamíferos como animales de compañía con menos de cuarenta días.
+o) La venta de animales enfermos cuando se tenga constancia de ello.
+p) Mantener a los animales en lugares que no les protejan de las inclemencias del tiempo, que no reúnan una buena condición higiénica sanitaria o que tengan dimensiones inadecuadas.
+q) Suministrar a los animales sustancias que puedan causarles alteraciones o modificación del comportamiento, sufrimientos o daños físicos, salvo que sean administrados por prescripción facultativa.
+r) Mantener a los animales atados o encerrados por tiempo o en condiciones que puedan suponer sufrimiento o daño para el animal.
+s) Mantener animales en vehículos estacionados sin la ventilación y temperatura adecuada.
+t) Mantener animales en vehículos de forma permanente.
+u) Llevar animales atados a vehículos a motor en marcha.
+v) No adoptar las medidas necesarias para evitar la reproducción incontrolada de los animales de compañía.
+w) La obstrucción o falta de colaboración con el personal habilitado por la autoridad competente en el acceso a las instalaciones de los establecimientos que se recogen en esta ley, la resistencia a suministrar la documentación y/o facilitar la información requerida por la autoridad competente o sus agentes, en orden al cumplimiento de funciones establecidas en esta ley, así como el suministro de información inexacta.
+x) La presencia en vías y espacios públicos o privados de uso común de animales sueltos sin vigilancia y control por parte de sus propietarios o poseedores.
+4. Son infracciones muy graves:
+a) Causar la muerte de los animales mediante actos de agresión o suministro de sustancias tóxicas, salvo que sean autorizadas por un veterinario a tal fin.
+b) Realizar el sacrificio de un animal sin seguir las especificaciones de esta ley y de la normativa aplicable.
+c) El maltrato de animales que les cause invalidez o muerte.
+d) El abandono de animales.
+e) Practicar a los animales mutilaciones con fines exclusivamente estéticos o sin necesidad alguna, excepto las practicadas por veterinarios en caso de necesidad, por exigencias funcionales, por aumento indeseado de la población o para mantener las características propias de la raza.
+f) La organización, celebración y fomento de todo tipo de peleas con y entre animales.
+g) La utilización de animales por parte de sus propietarios o poseedores para su participación en peleas.
+h) La cesión por cualquier título de locales, terrenos o instalaciones para la celebración de peleas con y entre animales.
+i) El empleo de animales vivos para el entrenamiento de otros cuando se cause daño, maltrato o sufrimiento.
+j) Educar a los animales de forma agresiva o violenta, o prepararlos para participar en peleas.
+k) El uso de animales en fiestas o espectáculos en los que éstos puedan ser objeto de daños, sufrimientos, tratamientos antinaturales o malos tratos.
+l) La filmación con animales de escenas de ficción que conlleven crueldad, maltrato o sufrimiento, cuando los daños no sean simulados.
+m) Depositar alimentos emponzoñados en espacios o lugares públicos, salvo los empleados por empresas autorizadas para el control de plagas.
+n) Impedir al personal habilitado por la autoridad competente el acceso a las instalaciones de los establecimientos que se recogen en esta ley cuando imposibilite la labor inspectora y de control, la negativa a suministrar la documentación y/o facilitar la información requerida por la autoridad competente o sus agentes, en orden al cumplimiento de funciones establecidas en esta ley, así como el suministro de documentación falsa.
+Se modifica por el art. 6.3 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+## CAPÍTULO II
+
+De las sanciones
+
+### Artículo 29
+
+Artículo 29. Sanciones.
+Las infracciones tipificadas en el artículo anterior serán sancionadas con multas de:
+a) 150 a 600 euros para las leves.
+b) 601 a 3.000 euros para las graves.
+c) 3.001 a 30.000 euros para las muy graves.
+Se modifica por el art. 6.4 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 30
+
+Artículo 30. Criterios de graduación de las sanciones.
+1. Para la graduación de la cuantía de las multas y la determinación del tiempo de duración de las sanciones previstas en el apartado 2 del artículo precedente se tendrán en cuenta las siguientes circunstancias:
+a) La trascendencia social o sanitaria y el perjuicio causado por la infracción cometida.
+b) El ánimo de lucro ilícito y la cuantía del beneficio obtenido en la comisión de la infracción.
+c) La importancia del daño causado al animal.
+d) La reincidencia, en los términos establecidos en la normativa básica reguladora de los principios de la potestad sancionadora de las administraciones públicas.
+e) Cualquier otra que pueda incidir en el grado de reprochabilidad de la infracción, en un sentido atenuante o agravante. A tal efecto tendrá especial significación la violencia ejercida contra animales en presencia de niños o discapacitados psíquicos.
+2. En el supuesto de que unos mismos hechos sean constitutivos de dos o más infracciones administrativas tipificadas en distintas normas, se impondrá la sanción de mayor cuantía.
+Se modifica el apartado 1.d) por el art. 6.5 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 31
+
+Artículo 31. Medidas accesorias.
+1. La resolución sancionadora ordenará el decomiso de los animales objeto de la infracción cuando fuere necesario para garantizar la integridad física del animal.
+Los animales decomisados se custodiarán en instalaciones habilitadas al efecto y serán preferentemente cedidos a terceros y sólo en última instancia sacrificados de conformidad con lo establecido en el artículo 17.
+2. La comisión de las infracciones previstas en el artículo 28, apartados 3 y 4, podrá comportar la clausura temporal de las instalaciones, locales o establecimientos respectivos si éste fuera el caso, hasta un máximo de dos años para las graves y de cuatro años para las muy graves, así como la prohibición de adquirir otros animales por un período máximo de cuatro años.
+3. La reincidencia, en plazo inferior a tres años, en faltas tipificadas y sancionadas como muy graves comportará la pérdida definitiva de la autorización administrativa señalada en el artículo 14 de la presente Ley.
+
+## CAPÍTULO III
+
+Del procedimiento y la competencia
+
+### Artículo 32
+
+Artículo 32. Procedimiento sancionador.
+El procedimiento sancionador se tramitará conforme a lo dispuesto en la normativa reguladora del procedimiento administrativo común de las Administraciones Públicas y se observarán los principios de la potestad sancionadora establecidos en la legislación básica.
+Se modifica por el art. 6.6 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica el apartado 2 por el art. 30 de la Ley 21/2002, de 27 de diciembre. Ref. BOE-A-2003-1918.
+
+### Artículo 33
+
+Artículo 33. Competencia.
+1. La incoación de los procedimientos sancionadores como consecuencia de las acciones u omisiones tipificadas como infracciones administrativas en la presente ley corresponderá:
+a) Por la comisión de infracciones leves y graves, a los jefes de los servicios territoriales de la consejería competente en materia agraria.
+b) Por la comisión de infracciones muy graves, a los Delegados Territoriales.
+2. La resolución de los procedimientos sancionadores corresponderá:
+a) Al Delegado Territorial de la Junta de Castilla y León, en el caso de infracciones leves.
+b) Al titular del órgano directivo central competente por razón de la materia, en el caso de infracciones graves.
+c) Al titular de la consejería competente en materia agraria, en el caso de infracciones muy graves.
+Se modifica por el art. 6.7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se modifica por el art. 30 de la Ley 21/2002, de 27 de diciembre. Ref. BOE-A-2003-1918.
+
+### Artículo 34
+
+Artículo 34. Medidas cautelares.
+1. Iniciado el expediente sancionador, y con el fin de evitar la comisión de nuevas infracciones, la autoridad administrativa instructora podrá adoptar motivadamente las siguientes medidas cautelares:
+a) La retirada preventiva de los animales sobre los que existan indicios de haber sufrido alguna de las conductas sancionadas por la presente Ley y la custodia, tras su ingreso, en un centro de recogida de animales.
+b) La clausura preventiva de las instalaciones, locales o establecimientos.
+2. Las medidas cautelares durarán mientras persistan las causas que motivaron su adopción. En todo caso, la retirada de animales no podrá prolongarse más allá de la resolución firme del expediente, ni la clausura preventiva podrá exceder de la mitad del plazo previsto en el artículo 31.2.
+
+### Artículo 35
+
+Artículo 35. Prescripción.
+1. Las infracciones previstas en la presente ley prescribirán al año en el caso de las leves, a los dos años en el caso de las graves y a los tres años en el caso de las muy graves.
+2. Las sanciones impuestas por faltas leves prescribirán al año, las impuestas por faltas graves prescribirán a los dos años y las impuestas por faltas muy graves a los tres años.
+Se modifica por el art. 6.8 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Comunidad de Castilla y León programará periódicamente campañas divulgadoras del contenido de la presente Ley entre los escolares y habitantes de nuestra Comunidad y tomará medidas que contribuyan a fomentar el respeto a los animales en colaboración con las asociaciones de protección y defensa de los mismos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Con el fin de evitar daños a las personas, ganado y riqueza cinegética, así como por motivos de salud pública los perros errantes asilvestrados podrán ser abatidos cuando su captura no sea posible.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los animales de compañía desmandados, cuando supongan peligro para las personas o sus bienes, podrán ser capturados o abatidos con la urgencia que el caso requiera y, a ser posible, bajo el control de la autoridad competente.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Los establecimientos dedicados a la cría o venta de animales, así como las residencias, los centros de adiestramiento, centros de recogida de animales abandonados y demás instalaciones cuyo objeto sea mantener temporalmente a animales de compañía, que a la fecha de publicación de esta Ley no reúnan los requisitos que en la misma se establecen, dispondrán del plazo de un año para cumplirlos.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de un año, a partir de la entrada en vigor de la presente Ley, la Junta de Castilla y León regulará reglamentariamente las materias objeto de desarrollo, precisas para la plena efectividad de esta Ley. Asimismo queda facultada para dictar cualesquiera otras disposiciones para su desarrollo y ejecución.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor en el plazo de tres meses contados desde su publicación en el «Boletín Oficial de Castilla y León».
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 24 de abril de 1997.
+JUAN JOSÉ LUCAS JIMÉNEZ,
+Presidente

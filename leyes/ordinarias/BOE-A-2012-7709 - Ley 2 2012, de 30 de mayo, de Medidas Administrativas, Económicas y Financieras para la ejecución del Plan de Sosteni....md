@@ -1,0 +1,595 @@
+# Ley 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria.
+
+- Identificador BOE: `BOE-A-2012-7709`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-7709
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria.
+PREÁMBULO
+La presente Ley tiene por objeto la adopción de una serie de medidas extraordinarias dirigidas a propiciar la reducción del déficit público de la Comunidad Autónoma de Cantabria, materializando así el compromiso adquirido con el Gobierno de la Nación en el marco de las obligaciones asumidas por España en el ámbito de la Unión Europea.
+Las medidas que se contemplan en esta Ley contribuyen a los objetivos de aceleración en la reducción del déficit y de sostenibilidad fiscal, por la doble vía de reducción de gastos e incremento de los ingresos.
+En materia de personal, las medidas afectan a todo el sector público y su finalidad es la generación de ahorros sin merma de la calidad en la prestación de los servicios públicos. El esfuerzo que a los empleados públicos demandarán estas medidas se entiende imprescindible para recuperar el equilibrio de las cuentas públicas en una etapa en que la reducción de costes resulta obligada ante la caída de los ingresos.
+Se aborda en la presente Ley una concreción ajustada a la normativa legal vigente con respecto a los derechos sindicales, en cuanto a tiempo retribuido para la realización de funciones sindicales y de representación, nombramiento de delegados sindicales y dispensas totales de asistencia al trabajo, si bien se posibilita la ordenación pactada de las bolsas de horas sindicales en determinadas áreas.
+Se contempla la supresión del complemento a las prestaciones percibidas en los casos de Incapacidad Temporal derivada de contingencias comunes en sus treinta primeros días naturales; en los supuestos de reducciones de jornada, las retribuciones serán proporcionales a la jornada efectivamente realizada si bien en el ámbito de la función pública se amplían los porcentajes de reducción para facilitar la conciliación de la vida laboral y familiar; y con carácter general no se permitirá la prolongación en la prestación de servicios más allá de la edad reglamentaria de jubilación.
+Asimismo se suspende la obligación de convocar nuevos concursos ante la imposibilidad legal de dotar presupuestariamente los puestos que queden vacantes como consecuencia de dichos procesos.
+Con el fin de garantizar la calidad en la prestación de los servicios públicos se adoptan otra serie de medidas tendentes a lograr una mejor gestión del personal de la Administración de la Comunidad Autónoma de Cantabria a través del redimensionamiento y flexibilización de la organización administrativa, centralizando en la Consejería de Presidencia y Justicia o en las respectivas Secretarías Generales o en la Dirección del Instituto Cántabro de Servicios sociales determinados puestos de trabajo.
+De acuerdo con el artículo 38.10 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, se suspenden, en tanto en cuanto esté en vigor esta Ley, todas aquellas previsiones contenidas en convenios, pactos o acuerdos que contradigan lo dispuesto en la misma, por cuanto concurre causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, a la que se refiere el citado artículo.
+Se procede a la modificación de la Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales, en diversos aspectos que requieren una necesaria revisión. En primer lugar, la propuesta tiene por objeto la modificación de la regulación de la Renta Social Básica. Esta modificación no afecta a la configuración de la prestación como derecho subjetivo a la protección social que tienen las personas que se encuentran en situación de carencia de los recursos económicos suficientes a una prestación económica para atender a sus necesidades básicas. Antes bien, la Ley se refiere a la modificación de ciertos preceptos para perfilar de forma más precisa su contenido, de forma que se facilite su aplicación, y para acentuar el carácter no sólo de prestación destinada a satisfacer las necesidades básicas de las personas, sino también su finalidad integradora de las personas titulares y de sus familias en los ámbitos social y laboral.
+Por otra parte, se procede a través de la presente Ley a incrementar la jornada ordinaria del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud, diferenciando según los regímenes de jornada aplicables al citado colectivo. Se habilita a la Consejera competente en materia de sanidad a establecer los criterios generales para la implantación efectiva de la jornada, previa negociación en el seno de la Mesa Sectorial de Personal de Instituciones Sanitarias.
+En el ámbito educativo, con la adopción de las medidas previstas en esta Ley, el Gobierno de Cantabria antepone, frente a cualquier otro interés o consideración, la calidad del sistema educativo y el mantenimiento de las medidas de atención a la diversidad en los centros docentes.
+Esta Ley elimina la sustitución parcial de la jornada lectiva por actividades de otra naturaleza para los docentes mayores de 55 años.
+Por otra parte, con carácter transitorio, la Ley establece el número máximo de alumnos por grupo en las enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en centros docentes públicos y privados sostenidos con fondos públicos, se ajustará a lo dispuesto en el artículo 2 del Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
+Dada la actual situación económica y financiera, se incluyen además otras previsiones que afectan a gastos que no se presentan como absolutamente imprescindibles.
+En materia financiera se adoptan medidas específicas derivadas de la adhesión de la Comunidad Autónoma de Cantabria al mecanismo extraordinario de financiación para el pago a proveedores aprobado por el Consejo de Política Fiscal y Financiera en su reunión del día 6 de marzo de 2012.
+Por su parte, en materia de ingresos, se fija el tipo de gravamen autonómico en el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, impuesto de naturaleza indirecta que recae sobre el consumo de gasolinas, gasóleos, fuelóleos y querosenos. El tipo autonómico de devolución de este Impuesto para el gasóleo de uso profesional –transportistas y taxistas– será del cien por cien, y no se aplicará al gasóleo de usos especiales y de calefacción.
+Se prevé la subida de un 30% de la parte fija y parte variable (tanto de la tarifa doméstica como de la tarifa industrial) del canon de saneamiento. Y el incremento de un 30% de la Tasa de Tratamiento de Residuos Sólidos Urbanos.
+Se crea una tasa por solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida. Quedarán exentos del pago de la tasa los solicitantes de revisión si hubiera mediado más de un año desde la fecha de la resolución administrativa por la que se haya producido alguno de los siguientes supuestos: reconocimiento de la situación de dependencia, asignación de recursos a través de del Programa Individual de Atención o la resolución de la última solicitud de revisión.
+Por otra parte, se establece una habilitación legal para que en los supuestos en los que existan terceros obligados al pago y el receptor del servicio sanitario no facilite los datos del obligado al pago, el gasto asistencial le pueda ser imputado.
+Por último, se abordan una serie de medidas sectoriales de ajuste con el fin de mejorar la organización y el funcionamiento de la Administración y Órganos dependientes. Así, se suprime el Consejo Económico y Social de Cantabria, pues se considera que el marco de diálogo permanente con los agentes sociales y económicos puede establecerse a través de otras fórmulas que no impliquen un coste al ciudadano.
+Igualmente, y sin perjuicio de la cláusula de reversibilidad prevista en la disposición adicional vigésima primera, se suprimen el Consejo de la Mujer y el Consejo de la Juventud, si bien en estos casos, como medio de interlocución de las asociaciones de mujeres y de las asociaciones de jóvenes con el Gobierno de Cantabria y de participación de estos colectivos en el desarrollo social, laboral, y económico de la Comunidad Autónoma se crean la Comisión de Participación de las Mujeres y la Comisión de Participación de Jóvenes, como órganos colegiados de carácter consultivo.
+
+## TÍTULO I
+
+Medidas en materia de personal
+
+## CAPÍTULO I
+
+Medidas de ámbito general en el Sector público autonómico
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+Las medidas previstas en el presente capítulo, serán de aplicación al conjunto del sector público administrativo, empresarial y fundacional de la Comunidad Autónoma de Cantabria.
+
+### Artículo 2
+
+Artículo 2. Derechos sindicales.
+1. Los derechos sindicales reconocidos mediante Acuerdos, Convenios o Pactos suscritos con las Organizaciones Sindicales en relación con el tiempo retribuido para realizar funciones sindicales y de representación, nombramiento de delegados sindicales, así como dispensas totales de asistencia al trabajo, cuyo contenido exceda de lo establecido en el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, se ajustarán de manera estricta al mínimo garantizado en dichas normas.
+2. Dentro de lo dispuesto en el apartado anterior, podrán constituirse bolsas de horas sindicales, con pleno respeto al carácter personal de las mismas, en el ámbito del personal docente, de las instituciones sanitarias del Servicio Cántabro de Salud y de la Administración de Justicia. Estas bolsas podrán estar constituidas por el crédito de horas de los delegados sindicales y de los miembros de representación unitaria, Juntas de Personal y Comités de Empresa.
+3. Asimismo, se concede la posibilidad de liberar un «liberado institucional» a cada una de las organizaciones sindicales representadas en la mesa general de negociación de la Administración de Cantabria a la que se refiere el artículo 36.3 del Estatuto Básico del Empleado Público.
+
+### Artículo 3
+
+Artículo 3. Prestaciones en situación de incapacidad temporal.
+(Derogado).
+Se deroga por la disposición derogatoria 1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica por la disposición adicional 9 de la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627
+ Téngase en cuenta la disposición transitoria única de la citada ley, conforme a la corrección de errores publicada en BOC núm. 40, de 27 de febrero de 2013. Ref. BOE-A-2013-2681
+
+### Artículo 4
+
+Artículo 4. Reducciones de jornada.
+Durante los periodos en que se disfrute de una jornada reducida, las retribuciones a percibir serán proporcionales a la jornada efectivamente realizada, salvo que la normativa estatal aplicable disponga otra cosa.
+
+### Artículo 5
+
+Artículo 5. Prolongación de la permanencia en activo.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2026, de 28 de abril. Ref. BOE-A-2026-10431
+
+## CAPÍTULO II
+
+Medidas de aplicación en el ámbito de la Administración de la Comunidad Autónoma
+
+### Artículo 6
+
+Artículo 6. Reorganización administrativa.
+(Derogado).
+Se deroga por la disposición derogatoria de la por Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 2 por el art. 24 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+
+### Artículo 7
+
+Artículo 7. Concursos de empleados públicos.
+Se deja sin efecto la obligatoriedad de la convocatoria periódica de concursos para la cobertura de puestos de trabajo de empleados públicos.
+
+### Artículo 8
+
+Artículo 8. Reducción voluntaria de jornada.
+1. El personal funcionario y el personal laboral podrá solicitar voluntariamente la reducción de su jornada diaria, con la correspondiente reducción proporcional de retribuciones, por un octavo o un tercio de la jornada efectiva, con subordinación en todo caso a las necesidades del servicio y siempre que la reducción no implique la sustitución del empleado.
+2. El personal estatutario al servicio de instituciones sanitarias del Servicio Cántabro de Salud podrá solicitar voluntariamente la reducción de su jornada con la correspondiente reducción proporcional de retribuciones, por un octavo o un tercio de la jornada efectiva, con subordinación en todo caso a las necesidades del servicio, y siempre que la reducción no implique la sustitución del empleado. La reducción de jornada será en todo caso incompatible con la realización de actividad extraordinaria fuera de la jornada ordinaria.
+
+### Artículo 9
+
+Artículo 9. Personal eventual.
+1. Se modifica el apartado 1 del artículo 8 de la Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública, que pasa a tener la siguiente redacción:
+«1. Son personal eventual quienes en virtud de libre nombramiento, no sujeto a término o plazo, efectuado por el Presidente del Gobierno o los Consejeros, desempeñen puestos de trabajo en régimen no permanente considerados como de confianza o asesoramiento especial y sean retribuidos con cargo a créditos presupuestarios consignados exclusivamente para este tipo de personal. El Gobierno determinará el número de puestos a desempeñar por este personal y las retribuciones de los mismos; a excepción de lo dispuesto en el artículo 18.2 de la presente Ley.»
+2. Se modifica el apartado 2 del artículo 18 de la Ley de Cantabria 4/1993, de 10 de marzo, que pasa a tener la siguiente redacción:
+«2. Las relaciones de puestos de trabajo se elaborarán a iniciativa de las distintas Consejerías, que serán elevadas por el Consejero de Presidencia y Justicia a la consideración y aprobación, en su caso, del Consejo de Gobierno.
+Las relaciones de puestos de trabajo distinguirán los correspondientes a funcionarios de los de carácter laboral conforme a los criterios establecidos en esta Ley.
+Los puestos de secretaría de los miembros del Gobierno y demás altos cargos serán cubiertos por personal funcionario de carrera perteneciente al Cuerpo Administrativo o al Cuerpo General Auxiliar, si bien podrán desempeñarse en dicha condición o en la de personal eventual, en cuyo caso pasarán a la situación de servicios especiales con reserva de plaza y puesto orgánico y las retribuciones percibidas serán las correspondientes al puesto de trabajo desempeñado.»
+3. Se modifica el artículo 20 de la Ley de Cantabria 4/1993, de 10 de marzo, que pasa a tener la siguiente redacción:
+«Artículo 20.
+Los puestos de trabajo incluidos en la plantilla de funcionarios no podrán ser cubiertos por personal laboral ni eventual, salvo la excepción prevista en el párrafo 3 del artículo 18. 2. Los incluidos en la plantilla de personal laboral no podrán ser desempeñados por funcionarios o eventuales. Los puestos de trabajo correspondientes a personal eventual se proveerán de acuerdo con la naturaleza de este colectivo de acuerdo con lo establecido en el artículo 8 de esta Ley.»
+
+## CAPÍTULO III
+
+Medidas de aplicación en el ámbito de obras públicas
+
+### Artículo 10
+
+Artículo 10. Dispositivo extraordinario de vialidad invernal.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685
+
+## CAPÍTULO IV
+
+Medidas aplicables en el ámbito de la educación
+
+### Artículo 11
+
+Artículo 11. Sustitución parcial de la jornada lectiva a los docentes mayores de 55 años.
+Se dejan sin efecto las medidas aplicadas desde el curso 2006-2007 en los sectores de la enseñanza pública no universitaria y de la enseñanza concertada para la sustitución parcial de la jornada lectiva por actividades de otra naturaleza en profesores mayores de 55 años.
+Lo dispuesto en el párrafo anterior decaerá en el supuesto de suscripción de un nuevo acuerdo específico en el que se regule la sustitución parcial de la jornada lectiva por actividades de otra naturaleza en profesores mayores de 55 años.
+Se modifica por el art. 26.1 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+### Artículo 12
+
+Artículo 12. Ratio de alumnos por grupo.
+(Suprimido)
+Se suprime por el art. 26.2 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+## CAPÍTULO V
+
+Medidas en el ámbito de las instituciones sanitarias del Servicio Cántabro de Salud
+
+### Artículo 13
+
+Artículo 13. Incremento de la jornada ordinaria del personal al servicio de las instituciones sanitarias del Servicio Cántabro de Salud.
+(Derogado).
+Téngase en cuenta que este artículo se deroga, con efectos de 1 de mayo de 2019, por la disposición derogatoria 2 de la Ley 11/2018, de 21 de diciembre. Ref. BOE-A-2019-1632:
+ "1. La jornada ordinaria del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud, que perciba sus retribuciones de conformidad con el Real Decreto-Ley 3/1987, de 11 de septiembre, se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 18 de diciembre de 2003, por el que se fija la jornada del personal de Instituciones Sanitarias del Servicio Cántabro de Salud, en los siguientes términos:
+ a) 112 horas efectivas en el turno diurno.
+ b) 50 horas efectivas en el turno rotatorio.
+ c) 70 horas efectivas en el turno nocturno.
+ En el caso de personal con jornada en turno diurno, dicho incremento, que se realizará en módulos de duración no inferior a 2,5 horas, podrá hacerse efectivo en horario de mañana, tarde y/o en sábados no festivos en función de las necesidades del servicio.
+ 2. La jornada ordinaria en cómputo del personal que desempeñe sus funciones en los Servicios de Urgencia de Atención Primaria (SUAP) se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 30 de diciembre de 2004 por el que se aprueba el «Acuerdo sobre actuaciones en materia de atención primaria» en los siguientes términos:
+ – SUAP modelo ordinario [horario de 17 horas a 9 horas (lunes a viernes) y de 9 horas a 9 horas (sábados, domingos y festivos)]: 90 horas efectivas año.
+ – SUAP modelo especial [abierto 24 horas todos los días del año]:
+ a) Para personal médico y enfermería: 94 horas efectivas.
+ b) Para personal celador en el SUAP de Campoo: 92 horas efectivas.
+ c) Para personal celador en el SUAP de Castro: 90 horas efectivas.
+ 3. La jornada ordinaria del personal sanitario que desempeñe sus funciones en el Centro Coordinador de Urgencias y en las Unidades Móviles de Emergencias vinculadas al teléfono de emergencias 061 se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 23 de diciembre de 2009 en 94 horas efectivas anuales.
+ 4. La jornada ordinaria del personal con relación laboral especial de residencia para la formación especializada en ciencias de la salud se incrementará en cómputo anual en relación con la prevista en el Acuerdo del Consejo de Gobierno de 15 de enero de 2007 en los mismos términos que los previstos en el apartado 1.a) del presente artículo.
+ 5. El incremento de jornada previsto en el presente artículo así como su aplicación en horario de mañana, tarde y/o en sábados no festivos no conllevará en ningún caso el reconocimiento de complemento económico alguno.
+ 6. Mediante Orden de la Consejería competente en materia de sanidad se establecerán los criterios generales para la implantación efectiva de la jornada, previa negociación en el seno de la Mesa Sectorial de Personal de Instituciones Sanitarias."
+Se deroga, con efectos de 1 de mayo de 2019, por la disposición derogatoria 2 de la por Ley 11/2018, de 21 de diciembre. Ref. BOE-A-2019-1632
+
+## CAPÍTULO VI
+
+Medidas en el ámbito del sector público empresarial y fundacional
+
+### Artículo 14
+
+Artículo 14. Límite salarial en el sector público empresarial y fundacional.
+1. La suma de las retribuciones salariales que, por cualquier concepto excluida la antigüedad, perciba el personal del Sector Público Empresarial y Fundacional de la Comunidad Autónoma de Cantabria y el de los entes que de conformidad con los principios y normas del Sistema Europeo de Cuentas Nacionales y Regionales consolidan sus cuentas con las de la Comunidad Autónoma de Cantabria, no podrá superar los siguientes topes salariales en cómputo anual:
+a) Directores y gerentes cuyo contrato laboral esté incluido dentro de la relación laboral especial de alta dirección: las establecidas para un Director General de la Administración de la Comunidad Autónoma en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria para el ejercicio 2012.
+b) Personal directivo cuyo contrato laboral no esté incluido dentro de la relación laboral especial de alta dirección: 54.000 euros.
+c) Categorías que desarrollen actividades propias de titulado Superior: 45.000 euros.
+d) Categorías que desarrollen actividades propias de titulado de Grado Medio: 40.000 euros.
+e) Categorías que desarrollen actividades administrativas o similares: 30.000 euros.
+f) Categorías que desarrollen actividades relacionadas con cometidos múltiples o similares: 25.000 euros.
+g) Categorías que desarrollen actividades científicas o tecnológicas en los términos establecidos en la Ley de Ciencia, Tecnología e Innovación de Cantabria: 75.000 euros.
+En el plazo de un mes desde la entrada en vigor de esta Ley deberán adaptarse los contratos a las cantidades fijadas en el presente artículo, sin que en ningún caso pueda suponer un incremento retributivo. Dicha adaptación deberá comunicarse en ese mismo plazo a la Dirección General de Tesorería y Presupuestos.
+2. El Consejo de Gobierno podrá acordar aislada y excepcionalmente, que la retribución de algún trabajador que este incluido en el ámbito de aplicación de esta disposición, pueda exceder de los topes retributivos fijados en la misma. Igualmente podrá fijar topes retributivos para categorías distintas de las establecidas en el apartado 1.
+3. Las empresas y fundaciones del sector público autonómico llevarán a cabo las medidas necesarias para la reestructuración de sus plantillas y la reducción de gastos de personal con la finalidad de cumplir con los principios de estabilidad presupuestaria y sostenibilidad financiera exigidos a la Comunidad Autónoma.
+4. Los topes salariales, recogidos en el apartado 1 de este artículo, se irán actualizando de acuerdo con los incrementos que sean aprobados en la normativa correspondiente.
+Se añade la letra g) al apartado 1 por la disposición final 1 de la Ley 8/2022, de 27 de diciembre. Ref. BOE-A-2023-3294
+ Se añade el apartado 4 por el art. 5 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+
+## TÍTULO II
+
+Medidas en órganos consultivos
+
+### Artículo 15
+
+Artículo 15. Supresión del consejo económico y social de Cantabria.
+1. Queda suprimido el Consejo Económico y Social de Cantabria creado por Ley de Cantabria 6/1992, de 26 de junio, cuya personalidad jurídica quedará extinguida desde la fecha de entrada en vigor de la presente Ley.
+2. Los bienes del organismo extinguido se incorporarán al patrimonio de la Comunidad Autónoma, produciéndose la afectación y adscripción de los mismos conforme a la normativa aplicable en materia de patrimonio de la Comunidad Autónoma de Cantabria.
+
+### Artículo 16
+
+Artículo 16. Supresión del Consejo de la Mujer de Cantabria.
+1. Queda suprimido el Consejo de la Mujer de Cantabria creado por Ley de Cantabria 3/1997, de 26 de mayo, cuya personalidad jurídica quedará extinguida desde la fecha de entrada en vigor de la presente Ley.
+2. Los bienes del organismo extinguido se incorporarán al patrimonio de la Comunidad Autónoma, produciéndose la afectación y adscripción de los mismos conforme a la normativa aplicable en materia de patrimonio de la Comunidad Autónoma de Cantabria.
+
+### Artículo 17
+
+Artículo 17. Supresión del Consejo de la Juventud de Cantabria.
+1. Queda suprimido el Consejo de la Juventud de Cantabria creado por Ley de Cantabria 4/2001, de 15 de octubre, cuya personalidad jurídica quedará extinguida desde la fecha de entrada en vigor de la presente Ley.
+2. Los bienes del organismo extinguido se incorporarán al patrimonio de la Comunidad Autónoma, produciéndose la afectación y adscripción de los mismos conforme a la normativa aplicable en materia de patrimonio de la Comunidad Autónoma de Cantabria.
+
+## TÍTULO III
+
+Medidas en el ámbito de los servicios sociales
+
+### Artículo 18
+
+Artículo 18. Modificación de la Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales.
+1. Se modifica el número 14.º del apartado A) del artículo 27.1, que pasa a tener la siguiente redacción:
+«14.º Servicio de Atención domiciliaria a las personas en situación de dependencia por los Equipos de Atención Primaria de Salud. Es un servicio prestado con la finalidad de valorar la situación de dependencia y de ofrecer asesoramiento y atención en domicilio tanto a la persona en situación de dependencia como a la persona cuidadora principal. El servicio será prestado por el Servicio Cántabro de Salud y tendrá carácter garantizado y gratuito salvo en los supuestos de revisión de la valoración de la situación de dependencia.»
+2. Se modifica el apartado d) del artículo 28.2, que pasa a tener la siguiente redacción:
+«Tendrá carácter intransferible, sin perjuicio de lo dispuesto en el artículo 38.1.c) de la presente Ley.»
+3. Se modifica el párrafo primero del apartado b) del artículo 29.1, que pasa a tener la siguiente redacción:
+«b) Tener residencia legal en España y estar empadronadas en algún municipio de la Comunidad Autónoma de Cantabria. Dichos requisitos deberán igualmente haber concurrido de manera ininterrumpida durante los doce meses inmediatamente anteriores a la fecha de su solicitud.»
+4. Se añade un apartado d) al artículo 29.1, con la siguiente redacción:
+«d) En el caso de tratarse de personas sin empleo que estén en edad laboral, estar inscritos como demandantes de empleo, con la excepción de las personas perceptoras de pensiones públicas por invalidez, de aquellas que no puedan tener la condición de demandantes de empleo a tenor de las normas reguladoras de los Servicios Públicos de Empleo, y de las personas que se encuentren en los supuestos que se determinen reglamentariamente.»
+5. Se añade un apartado 4 al artículo 29, con la siguiente redacción:
+«4. No podrán ser titulares de la prestación o integrantes de la unidad perceptora las personas usuarias con carácter permanente de un servicio residencial de carácter social o sociosanitario en plaza financiada con fondos públicos, con las excepciones que se establezcan reglamentariamente, o las personas internas en establecimientos penitenciarios.»
+6. Se modifica el artículo 30, que pasa a tener la siguiente redacción:
+«Artículo 30. Obligaciones de las personas titulares.
+Son obligaciones de las personas titulares:
+a) Destinar la prestación económica a la cobertura de las necesidades básicas, entendiéndose por tales las incluidas en el concepto de alimentos definido en el artículo 142 del Código Civil.
+b) Suscribir con la Administración un Convenio de Incorporación Social con las características que se recogen en el artículo siguiente, excepto en los casos en que no concurran otras causas de exclusión que las de naturaleza estrictamente económica y en los supuestos en que la incorporación social se estime inviable por los Servicios Sociales de Atención Primaria.
+c) Comunicar en el plazo máximo de quince días, los hechos sobrevenidos que, de conformidad con lo dispuesto en la presente Ley, pudieran dar lugar a la modificación, suspensión o extinción de la Renta Social Básica.
+d) Comparecer ante la Administración y colaborar con la misma cuando así le sea requerido.
+e) Ejercer las acciones pertinentes para el cobro de cualquier derecho económico que pueda corresponderles.
+f) Escolarizar a personas menores en edad de enseñanza obligatoria que estén a cargo de la unidad perceptora, manteniendo una asistencia regular a los Centros educativos correspondientes.
+g) Reintegrar el importe de las prestaciones indebidamente percibidas o en cuantía indebida. El reintegro no devengará el interés alguno.
+h) Comunicar cualquier cambio relativo al domicilio o residencia habitual.
+i) No ejercer la mendicidad, ni inducir a su ejercicio a ninguno de los miembros de la unidad perceptora.
+j) Permanecer en la Comunidad Autónoma de Cantabria durante el periodo de percepción de la prestación al menos el 90% de los días del año natural.
+k) Comparecer personalmente en las dependencias administrativas que se determinen a efectos del control del requisito de permanencia.
+l) Mantenerse inscritos como demandantes de empleo, en caso de encontrarse en edad laboral. En caso de tener empleo por cuenta ajena no podrán darse de baja temporal ni definitiva, salvo para acceder a otro empleo, ni podrán acogerse a situaciones de excedencia sin causa extrema justificada. Las obligaciones mencionadas no se exigirán a las personas exceptuadas de la condición de demandante de empleo conforme a lo dispuesto en el artículo 29.1.d).»
+7. Se modifican los apartados 1 y 3 del artículo 32, que pasan a tener la siguiente redacción:
+«1. La cuantía de la Renta Social Básica será la necesaria para garantizar unos ingresos del ochenta por ciento del Indicador Público de Renta de Efectos Múltiples (IPREM) anual en doce mensualidades para una sola persona. La cuantía fijada se incrementará en un veinticinco por ciento en caso de que la unidad de convivencia la integre una segunda persona, y un diez por ciento sobre la cantidad resultante en el tramo inmediatamente anterior por cada persona a partir de la tercera.»
+«3. La cuantía mensual de la Renta Social Básica aplicable a cada unidad perceptora se otorgará en su integridad cuando ésta carezca absolutamente de todo tipo de recursos. En caso contrario, se restarán de dicha cuantía los recursos mensuales de que disponga, procediéndose al abono de la Renta Social Básica por la diferencia de la cantidad resultante. No se abonará la prestación cuando la cuantía resultante sea inferior al 1% del IPREM mensual.»
+8. Se modifica el artículo 33.1, que pasa a tener la siguiente redacción:
+«1. La prestación se devengará el día primero del mes siguiente a aquel en que se dicte la resolución de concesión de la prestación. Si transcurridos seis meses desde la presentación de la solicitud, no se hubiera dictado resolución expresa, el derecho a percibir la renta social básica se generará, en caso de que la resolución posterior conceda la prestación, desde el día primero del mes siguiente al de cumplimiento del plazo señalado.»
+9. Se modifica el artículo 34.1, que pasa a tener la siguiente redacción:
+«1. La Renta Social Básica se concederá por un período máximo acumulado de veinticuatro meses de percepción efectiva. Este plazo podrá suspenderse por las causas establecidas en el artículo 36.
+Extinguida la Renta Social Básica, podrá formularse nueva solicitud de concesión, salvo en los supuestos previstos en el artículo 38.2 de la presente Ley.»
+10. Se modifica el artículo 38, que pasa a tener el siguiente contenido:
+«Artículo 38. Extinción del derecho.
+1. El derecho a la Renta Social Básica se extinguirá, previa resolución dictada de conformidad con la normativa aplicable, por las siguientes causas:
+a) Transcurso del plazo de concesión de la prestación.
+b) Renuncia expresa por parte de la persona titular.
+c) Fallecimiento de la persona titular. La renta social básica podrá mantenerse con la unidad perceptora hasta finalizar el plazo por el que se concedió.
+d) Pérdida sobrevenida de alguno de los requisitos exigidos para su reconocimiento.
+e) Mantenimiento de las causas de suspensión de la prestación por un tiempo superior a seis meses.
+f) Realización de un trabajo de duración superior a seis meses, por el que se perciba una retribución igual o superior al importe de la Renta Social Básica que le corresponda.
+g) Resolución en tal sentido de un procedimiento sancionador.
+h) Traslado de residencia efectiva fuera de la Comunidad Autónoma de Cantabria.
+i) Incumplimiento de las obligaciones previstas en el artículo 30.
+j) El incumplimiento del Convenio de Incorporación Social previsto en el artículo 31.
+2. En el caso en el que la extinción se hubiera dado por los supuestos recogidos en los apartados e), g), i) y j) del apartado anterior la extinción del derecho a la percepción de la Renta Social Básica implicará la imposibilidad de solicitar nuevamente dicha prestación por ningún miembro de la unidad familiar hasta transcurridos seis meses desde la fecha de la resolución de extinción.»
+11. Se modifica el artículo 44.b), que pasa a tener la siguiente redacción:
+«b) Dos o más personas que viven juntas en una misma vivienda o alojamiento, cuando estén unidas entre sí por matrimonio, u otra forma de relación análoga a la conyugal, por consanguinidad hasta el segundo grado o por afinidad hasta el primero, o por tutela. Se considerarán unidades perceptoras diferenciadas aquellas que, aun compartiendo alojamiento y estando unidas por los vínculos señalados en este párrafo, constituyeran unidades perceptoras por sí mismas durante al menos los doce meses inmediatamente anteriores a la convivencia. Esta condición de unidad perceptora independiente podrá mantenerse únicamente durante los doce meses siguientes a la fecha de empadronamiento en el domicilio compartido.»
+12. Se modifican los apartados 3 y 5 del artículo 46, que pasan a tener la siguiente redacción:
+«3. Admitidas las solicitudes y subsanados los posibles defectos, se procederá a la instrucción del procedimiento por la unidad correspondiente del Instituto Cántabro de Servicios Sociales. La instrucción incluirá, además de las actuaciones reguladas en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la comprobación de que los recursos y prestaciones sociales de contenido económico a los que pudiera tener derecho la unidad perceptora se hubieran hecho valer íntegramente. En el caso de que la unidad perceptora fuera acreedora de derechos de carácter económico cuyo reconocimiento no se hubiese reclamado, inclusive el derecho de alimentos en aquellos casos en los que se constate el cese efectivo de la convivencia conyugal, el órgano competente instará a la persona solicitante para que, con carácter previo a la finalización de la instrucción del expediente, se hagan valer sus derechos de conformidad con lo dispuesto en la legislación vigente. Incumplido este requerimiento, se podrá proceder, sin más trámite, al archivo del expediente. Se incorporará al expediente con carácter preceptivo informe social emitido por los Servicios Sociales de Atención Primaria en relación con las circunstancias y perspectivas de incorporación sociolaboral de la persona solicitante y su unidad familiar.»
+«5. Sin perjuicio de la obligación de resolver, transcurrido el plazo de seis meses desde la presentación de la solicitud sin haberse notificado resolución expresa, la persona interesada podrá considerar desestimada su solicitud.»
+13. Se añade una nueva disposición adicional, con la siguiente redacción:
+«Disposición adicional cuarta. Procedimiento de reintegro de las prestaciones económicas indebidamente percibidas o en cuantía indebida.
+1. El procedimiento de reintegro se iniciará de oficio por la persona titular de la Subdirección del Instituto Cántabro de Servicios Sociales que resulte competente por razón de la naturaleza de la prestación.
+2. El acuerdo de inicio, que deberá concretar el importe del reintegro a exigir y los motivos del mismo, se notificará al titular de la prestación, que podrá efectuar alegaciones en relación con el mismo.
+3. El procedimiento de reintegro será resuelto por la persona titular de la Dirección del Instituto Cántabro de Servicios Sociales en un plazo máximo de seis meses. Contra la resolución que se adopte cabe interponer recurso de alzada ante la persona titular de la Consejería competente en materia de servicios sociales.
+4. Si en el momento de resolverse la procedencia del reintegro la persona obligada fuese acreedora de alguna prestación económica concedida por el Instituto Cántabro de Servicios Sociales, podrá acordarse su compensación mensual con las cantidades a reintegrar, salvo que el propio deudor optase por abonar la deuda en un solo pago.
+5. La acción de reintegro prescribirá a los cuatro años, contados a partir de la fecha del cobro de la prestación.»
+14. Se añade una nueva disposición adicional con la siguiente redacción:
+«Disposición adicional quinta. Precios públicos.
+Las cuantías que reglamentariamente se establezcan como precios públicos de los servicios y prestaciones sociales sustituirán a las fijadas como coste del servicio en los convenios o conciertos de reserva y ocupación de plazas celebrados por el Instituto Cántabro de Servicios Sociales.»
+
+## TÍTULO IV
+
+Medidas fiscales
+
+### Artículo 19
+
+Artículo 19. Tipos de gravamen autonómico del impuesto sobre las ventas minoristas de determinados hidrocarburos.
+(Derogado).
+Se modifica por la disposición derogatoria 1 la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627
+
+### Artículo 20
+
+Artículo 20. Tipo autonómico de devolución del gasóleo de uso profesional en el impuesto sobre las ventas minoristas de determinados hidrocarburos.
+(Derogado).
+Se modifica por la disposición derogatoria 1 la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627
+
+### Artículo 21
+
+Artículo 21. Modificación de la Ley de Cantabria 2/2002, de 29 de abril, de saneamiento y depuración de las aguas residuales de la Comunidad Autónoma de Cantabria.
+El artículo 31.4 de la Ley de Cantabria 2/2002, de 29 de abril, de Saneamiento y Depuración de las Aguas Residuales de la Comunidad Autónoma de Cantabria, queda redactado de la siguiente manera:
+«Componente fijo: 19,92 € euros/abonado o sujeto pasivo/año, siendo divisible por periodos de devengo trimestrales si fuere preciso.
+Componente variable:
+. Régimen general para usos domésticos: 0,3749 € euros/metro cúbico.
+. Régimen general para usos industriales: 0,4871 euros/metro cúbico.
+. Régimen de medición directa de la carga contaminante:
+– 0,3342 euros por kilogramo de materias en suspensión (MES).
+– 0,3871 euros por kilogramo de demanda química de oxígeno (DQO).
+– 0,8444 euros por kilogramo de fósforo total (P).
+– 6,6336 euros por kiloequitox de materias inhibitorias (MI).
+– 5,2962 euros por Siemens/cm por metro cúbico de sales solubles (SOL).
+– 0,4224 euros por kilogramo de nitrógeno total (N).
+– 0,000070 euros por ºC de incremento de temperatura (IT).»
+
+### Artículo 22
+
+Artículo 22. Modificación de la tasa de gestión final de residuos urbanos, y de la tasa por clausura de vertedero o depósito incontrolado de residuos sólidos urbanos de la Ley de Cantabria 9/1992, de 18 de diciembre, de tasas y precios públicos de la Diputación Regional de Cantabria.
+1. Se modifica la Tasa 4. Tasa de gestión final de residuos urbanos, de las aplicables por la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo, de la Ley de Cantabria 9/1992, de 18 de diciembre, de Tasas y Precios Públicos de la Diputación Regional de Cantabria, quedando establecida de la siguiente forma:
+«4. Tasa de gestión final de residuos urbanos.
+Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por parte de la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo de los siguientes servicios relativos a actividades de gestión de residuos urbanos.
+Almacenamiento en los centros de transferencia y transporte hasta las instalaciones de valorización o eliminación.
+Gestión final de los residuos urbanos, mediante valorización o eliminación.
+Sujetos pasivos.–Serán sujetos pasivos de la tasa los municipios, mancomunidades o consorcios en cuyo favor se presten o para los que se realicen los servicios o las actividades gravadas.
+Devengo y período impositivo.–La tasa se devengará en el momento de la entrega de los residuos urbanos en las plantas de transferencia, o en las instalaciones de gestión final, cuando sean depositados directamente en dichas instalaciones, sin almacenamiento previo en plantas de transferencia. La liquidación de la tasa se realizará con periodicidad mensual.
+Tarifas.–La tasa se exigirá conforme a la siguiente tarifa:
+Tarifa.–62,73 euros por tonelada métrica.
+La determinación del número de toneladas se efectuará mediante pesada directa de los residuos urbanos en el momento de su entrega en los centros de transferencia o, en su defecto, en las instalaciones de gestión final, cuando los residuos sean depositados directamente en dichas instalaciones sin almacenamiento previo en plantas de transferencia. Cuando los residuos entregados en las anteriores instalaciones procedan de la recogida realizada en diversos Entes locales, y no sea posible determinar físicamente las cantidades que correspondan a cada uno de ellos, el cálculo del número de toneladas que corresponde a cada sujeto pasivo se realizará en función de la frecuencia y la capacidad de los elementos de recogida de cada uno.»
+2. Se modifica la Tasa 6. Tasa por clausura de vertedero o depósito incontrolado de residuos sólidos urbanos, de las aplicables por la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo, de la Ley de Cantabria 9/1992, de 18 de diciembre, de Tasas y Precios Públicos de la Diputación Regional de Cantabria quedando establecida de la siguiente forma:
+«6. Tasa por clausura de vertedero o depósito incontrolado de residuos sólidos urbanos.
+Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por parte de la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo del servicio de clausura de un vertedero o depósito incontrolado de residuos sólidos urbanos, cuando la entidad local correspondiente no cumpla con las obligaciones establecidas en el artículo 4 del Decreto 9/1988, de 1 de marzo, por el que se regula el control, inspección y vigilancia de los residuos sólidos urbanos.
+Sujetos pasivos.–Serán sujetos pasivos de la tasa las entidades locales para las que se realicen los servicios de clausura del vertedero o depósito incontrolado de residuos sólidos urbanos.
+Devengo.–La tasa se devengará cuando se proceda al clausurado del vertedero por la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo.
+Tarifas.–Las tarifas de la tasa se configuran en función de la tipología de vertedero o depósito de residuo sólido urbano y del tipo de residuos sólidos urbanos.
+Según la tipología especificada se aplicaran las siguientes tarifas:
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad menor a las 30 toneladas de residuos y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo A Distancia 1): 152,20 euros por tonelada métrica.
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad menor a las 30 toneladas de residuos y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo A Distancia 2): 158,85 euros por tonelada métrica.
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad mayor o igual a 30 toneladas y menor a 150 toneladas de residuo y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo B Distancia 1): 102,34 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 30 toneladas y menor a 150 toneladas de residuo y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo B Distancia 2): 107,94 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 150 toneladas de residuo y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo C Distancia 1): 59,07 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 150 toneladas de residuo y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo C Distancia 2): 63,27 euros por tonelada métrica.
+Tarifas adicionales para aquellos supuestos en que los residuos extraídos tengan una caracterización diferente de residuos de la construcción y demolición (RCDs):
+– Residuos inertes de baja densidad: 1.657,27 euros por tonelada métrica.
+– Residuos de aparatos eléctricos y electrónicos (RAEE’s): 466,56 euros por tonelada métrica.
+– Neumáticos: 373,25 euros por tonelada métrica.
+– Residuos con aceite mineral: 618,19 euros por tonelada métrica.
+– Residuos que contengan amianto: 2.169,50 euros por tonelada métrica.
+– Residuos con pintura y disolventes u otros residuos peligrosos no contemplados en los apartados anteriores: 2.248,82 euros por tonelada métrica.
+La determinación del número de toneladas se efectuará tomando como dato el indicado por el sistema de pesaje del gestor donde se envíen los residuos.
+Las fracciones inferiores a una tonelada métrica se liquidarán en proporción a la tarifa fijada.»
+
+### Artículo 23
+
+Artículo 23. Modificación de la Ley de Cantabria 9/1992, de 18 de diciembre, de tasas y precios públicos de la Diputación Regional de Cantabria.
+Se crea la Tasa 10 de las correspondientes a la Consejería de Sanidad y Servicios Sociales y sus organismos públicos dependientes, denominada tasa por solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida, a cuyo efecto se añade un nuevo apartado al Anexo de la Ley de Cantabria 9/1992, de 18 de diciembre, de Tasas y Precios Públicos de la Diputación Regional de Cantabria, con la siguiente redacción:
+«Tasa 10. Tasa por solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida.
+a) Hecho imponible.–Constituye el hecho imponible la solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida conforme a la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia.
+b) Sujeto pasivo.–Son sujetos pasivos quienes soliciten la revisión de la valoración de la situación de dependencia, o de la prestación reconocida, conforme a lo dispuesto en el artículo 30 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia.
+c) Devengo.–La tasa se devengará en el momento en que se presente la solicitud de revisión de la valoración de la situación de dependencia, o de la prestación reconocida.
+d) Pago.–El pago de la tasa se realizará mediante autoliquidación del sujeto pasivo.
+e) Cuota.–El importe de la tasa se divide en dos tipos de tarifa, en función de la revisión solicitada:
+– tarifa correspondiente a la revisión de la valoración de la situación de dependencia: 30 euros.
+– tarifa correspondiente a la revisión de la prestación reconocida: 14 euros.
+c) Exenciones.–Estarán exentos del pago de la tasa los solicitantes de revisión si hubiera mediado más de un año desde la fecha de la resolución administrativa por la que se haya procedido al reconocimiento de la situación de dependencia o a la asignación de recurso a través del Programa Individual de Atención o desde la resolución administrativa por la que se haya resuelto la última solicitud de revisión.»
+
+### Artículo 24
+
+Artículo 24. Falta de identificación del obligado al pago de precio público por servicios de asistencia sanitaria.
+En los supuestos en los que existan terceros obligados al pago de precios públicos por servicios de asistencia sanitaria, si el usuario que recibe el servicio sanitario no facilita los datos del obligado para su correcta facturación en el plazo de 15 días desde que sea requerido fehacientemente por la Administración, el gasto será a su cargo.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Obligaciones tributarias.
+Las consejerías, sus entidades dependientes y vinculadas, así como cualesquiera entidades asimiladas a las que hayan sido afectados, adscritos o cedidos bienes inmuebles del patrimonio de la Comunidad Autónoma de Cantabria deberán asumir, con cargo a los créditos correspondientes, el pago del Impuesto sobre Bienes Inmuebles y demás obligaciones tributarias que afecten a dichos inmuebles, salvo que se hayan trasladado dichas obligaciones a un tercero.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Régimen de afectación de bienes y derechos demaniales en el ámbito de la Administración Local de la Comunidad Autónoma de Cantabria.
+Las entidades que integran la Administración Local del ámbito territorial de la Comunidad Autónoma de Cantabria podrán afectar bienes y derechos demaniales a un uso o servicio público competencia de otra administración pública y transmitirle la posesión de los mismos cuando resulten necesarios para el cumplimiento de sus fines. La administración adquirente mantendrá la titularidad del bien mientras continúe afectado al uso o servicio público que motivó la mutación y, por tanto, conserve su carácter demanial. Si el bien o derecho no fuera destinado al uso o servicio público o dejara de destinarse posteriormente, revertirá a la administración transmitente, integrándose en su patrimonio con todas sus pertenencias y accesiones.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación de contratos públicos.
+A efectos de lo dispuesto en el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público, se considerará que se realiza por motivos de interés público cualquier modificación de los contratos administrativos que tenga como finalidad el logro del objetivo de estabilidad presupuestaria, reduciendo el volumen de obligaciones o ampliando el plazo de ejecución del contrato.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Modificación de la Ley de Cantabria 6/2002, de 10 de diciembre, de Régimen Jurídico del Gobierno y de la Administración de la Comunidad Autónoma de Cantabria.
+Se modifica el número 8 de los procedimientos administrativos de la Consejería de Economía y Hacienda, del Anexo II de la Ley de Cantabria 6/2002, de 10 de diciembre, que queda redactado en los siguientes términos:
+«8. Gestión financiera y Contratación Administrativa, con excepción de lo previsto en el tercer párrafo del número 7 del Acuerdo 6/2012, de 6 de marzo, del Consejo de Política Fiscal y Financiera por el que se fijan las líneas generales de un mecanismo extraordinario de financiación para el pago a los proveedores de las Comunidades Autónomas.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Habilitación al Consejo de Gobierno para aprobar la formalización de operaciones de endeudamiento.
+Se faculta al Consejo de Gobierno para aprobar la formalización de las operaciones de crédito que resulten del desarrollo del procedimiento del pago a proveedores, establecido en el Acuerdo 6/2012, de 6 de marzo, del Consejo de Política Fiscal y Financiera por el que se fijan las líneas generales de un mecanismo extraordinario de financiación para el pago a los proveedores de las Comunidades Autónomas, elevando en la cuantía correspondiente el límite del saldo de la deuda establecido en el artículo 13 uno, de la Ley de Cantabria 4/2011, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Cantabria para el año 2012.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Modificación de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+Se modifica el artículo 53.1 que queda redactado de la siguiente manera:
+«1. Cuando haya de realizarse con cargo al Presupuesto de la Comunidad Autónoma de Cantabria algún gasto que no pueda demorarse hasta el ejercicio siguiente, no exista crédito adecuado o sea insuficiente y no ampliable el consignado y su dotación no resulte posible a través de las restantes figuras de modificación presupuestaria, deberá procederse a la tramitación de un crédito extraordinario o suplementario del inicialmente previsto. Salvo previsión expresa en contra de norma básica estatal, la financiación de éstos se realizará de la siguiente forma:
+a) En las necesidades surgidas en operaciones no financieras, el crédito extraordinario o suplemento de crédito se financiará mediante baja en otros créditos no financieros, con remanente de crédito o mediante endeudamiento.
+b) En las necesidades surgidas en operaciones financieras, la financiación se hará mediante endeudamiento o con baja en otros créditos de la misma naturaleza.»
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Extinción de las encomiendas de EMCANTA.
+A la entrada en vigor de esta Ley, todas las encomiendas vigentes realizadas por la Administración de la Comunidad Autónoma de Cantabria a la Empresa Cántabra para el Desarrollo de las Nuevas Tecnologías en la Administración, S.L. (EMCANTA, S.L.) se extinguirán. La Consejería, Organismo o Entidad de Derecho Público que las formalizó se subrogará en todos los contratos adjudicados a terceros durante la ejecución de la misma.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Modificación de la Ley de Cantabria 4/2002, de 24 de julio, de Cajas de Ahorros.
+1. Se modifica el apartado 1 del Artículo 12.–Órganos de gobierno y sus miembros, que pasará a tener la siguiente redacción:
+«1. La administración, gestión, representación y control de las Cajas de Ahorros que tengan su domicilio social en Cantabria, corresponde a los siguientes órganos de gobierno:
+a) La Asamblea General.
+b) El Consejo de Administración.
+c) La Comisión de Control.
+d) La Comisión de Inversiones.
+e) La Comisión de Retribuciones y Nombramientos.
+f) La Comisión de Obra Social.
+g) El Director General.
+Sin perjuicio de lo anterior, cuando una Caja de Ahorros con domicilio social en Cantabria desarrolle su actividad financiera indirectamente, de acuerdo con lo previsto en el artículo 5 del Real Decreto-Ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros, le serán de aplicación las siguientes especialidades:
+a) Los órganos de gobierno de la caja serán la Asamblea General, el Consejo de Administración y, potestativamente, la Comisión de Control.
+b) La representación de los intereses colectivos de los impositores, de las corporaciones municipales que no tuviesen la condición de entidad fundadora de la caja y de los trabajadores en sus órganos de gobierno se establecerá de la siguiente manera:
+1.º La representación de las corporaciones municipales se llevará a cabo sobre la base de aquellas en cuyo término tenga abierta oficina la entidad bancaria a través de la cual la caja de ahorros desarrolle su actividad financiera.
+2.º La representación de los grupos de impositores y trabajadores se llevará a cabo sobre la base de los correspondientes colectivos de la entidad bancaria a través de la cual la caja de ahorros desarrolle su actividad financiera. La representación de los trabajadores en los órganos de gobierno incluirá asimismo a los empleados de la caja de ahorros.
+El número de miembros de los órganos de gobierno así como la periodicidad de sus sesiones serán determinados por los estatutos de la Caja de Ahorros atendiendo a la dimensión económica y a la actividad de la entidad.»
+2. Se introduce un apartado 4 en el Artículo 36.–Convocatoria, con la siguiente redacción:
+«4. En el supuesto de que la Caja de Ahorros desarrolle su actividad indirectamente, de acuerdo con lo previsto en el artículo 5 del Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros, además de someterse a cuantas especialidades se determinan en dicha norma, celebrará Asambleas ordinarias una vez al año. Por su parte, las Asambleas extraordinarias se celebrarán tantas veces cuantas sean expresamente convocadas.
+La Asamblea general será convocada por el Consejo de Administración mediante anuncio publicado en el «Boletín Oficial del Registro Mercantil» y en la página web de la Caja, con quince días, al menos, de antelación. La convocatoria expresará la fecha, lugar y orden del día, así como la fecha y hora de reunión en segunda convocatoria.
+Los estatutos podrán establecer, en sustitución del sistema anterior, que la convocatoria se realice mediante anuncio publicado en la página Web de la Caja, o por cualquier procedimiento de comunicación, individual y escrita, que asegure la recepción del anuncio por todos los Consejeros Generales.
+La Asamblea general quedará válidamente constituida en primera convocatoria cuando los Consejeros generales presentes y, en su caso, los cuotapartícipes presentes o representados posean, al menos, el cincuenta por ciento de los derechos de voto. La constitución en segunda convocatoria será válida cualquiera que sea el número de asistentes. Los Consejeros generales no podrán estar representados por otro Consejero o por tercera persona, sea física o jurídica.»
+
+### Disposición adicional novena
+
+Disposición adicional novena. Modificación de la Ley de Cantabria 5/1987, de 27 de marzo, de Elecciones al Parlamento de Cantabria.
+Se modifica el artículo 17.1 de la Ley de Cantabria 5/1987, de 27 de marzo, de elecciones al Parlamento de Cantabria, quedando redactado de la siguiente manera:
+«1. El Parlamento de Cantabria está integrado por treinta y cinco diputados elegidos en una circunscripción electoral que comprenderá todo el territorio de Cantabria.»
+
+### Disposición adicional décima
+
+Disposición adicional décima. Modificación de la Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública.
+Se modifica el artículo 59.3 de la Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública, quedando redactado en los siguientes términos:
+«3. El funcionario que por razones de guarda legal, tenga el cuidado directo de algún menor de doce años, de persona mayor que requiera especial dedicación, o de una persona con discapacidad que no desempeñe actividad retribuida, tendrá derecho a una reducción de su jornada de trabajo de un octavo, un tercio o un medio, con la disminución proporcional de sus retribuciones.
+Tendrá el mismo derecho el funcionario que precise encargarse del cuidado directo de un familiar, hasta el segundo grado de consanguinidad o afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí mismo y que no desempeñe actividad retribuida.»
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Modificación de la Ley de Cantabria 17/2006, de 10 de marzo, de Control Ambiental Integrado.
+Se modifica el apartado 3 de la disposición transitoria primera de la Ley de Cantabria 17/2006, de 11 de diciembre, de Control Ambiental Integrado, que pasa a tener la siguiente redacción:
+«3. El Acta de conformidad ambiental prevista en los artículos 20 y 34 de la presente Ley será únicamente exigible a aquellas actividades que vayan a iniciar su funcionamiento con posterioridad a la entrada en vigor de la Ley.»
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Modificación de la Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+1. Se modifica la letra k) del artículo 7 de la Ley de Cantabria 4/2008, de 24 de noviembre, quedando redactado de la siguiente forma:
+«k) El desarrollo y aplicación de las técnicas y medios informáticos necesarios para el adecuado cumplimiento de las funciones que la Agencia tiene encomendadas, bajo la dirección y coordinación de la Dirección General competente en materia de informática de la Administración de la Comunidad Autónoma.»
+2. Se modifica la letra o) del artículo 13 de la Ley de Cantabria 4/2008, de 24 de noviembre, quedando redactado de la siguiente forma:
+«o) La dirección y coordinación del desarrollo de las técnicas y medios informáticos necesarios para el adecuado cumplimiento de las funciones que la Agencia tiene encomendadas, dentro de los límites de lo dispuesto en el apartado k del artículo 7.»
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Supresión de la escala de analista de informática tributaria del cuerpo facultativo superior.
+Se suprime la Escala de Analista de Informática Tributaria del Cuerpo Facultativo Superior creada por Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+Los funcionarios de carrera pertenecientes a la Escala de Analista de Informática Tributaria del Cuerpo Facultativo Superior, cualquiera que sea situación administrativa en la que se encuentren pasarán a integrarse automáticamente en la especialidad Analista de Informática del Cuerpo Facultativo Superior.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Supresión de la escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios.
+Se suprime la escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios creada por Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+Los funcionarios de carrera pertenecientes a la Escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios, cualquiera que sea situación administrativa en la que se encuentren, pasarán a integrarse automáticamente en la especialidad Técnico de Gestión de Sistemas del Cuerpo de Diplomados y Técnicos Medios.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Creación de la Comisión de participación de las mujeres.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 3/2018, de 28 de mayo. Ref. BOE-A-2018-8793
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Creación de la Comisión de participación de jóvenes.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 1/2019, de 14 de febrero. Ref. BOE-A-2019-3488#dd
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Contratación de personal de las sociedades mercantiles autonómicas, de las fundaciones del sector público autonómico y de los consorcios en 2012.
+En el año 2012, las sociedades mercantiles autonómicas y fundaciones del sector público autonómico, así como los consorcios participados mayoritariamente por las administraciones y organismos que integran el sector público regional, no podrán proceder a la contratación de nuevo personal, salvo las contrataciones que respondan a convocatorias iniciadas en ejercicios anteriores o que resulten obligatorias en el marco de programas o planes plurianuales que estén en ejecución a la entrada en vigor de esta Ley.
+Sólo en casos excepcionales, y para cubrir necesidades urgentes e inaplazables, podrán llevarse a cabo las contrataciones temporales que se aprueben por el Consejo de Gobierno a propuesta de la Consejería de tutela o de la que dependan las respectivas sociedades, fundaciones o consorcios, previo informe favorable de la Dirección General de Tesorería y Presupuestos.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Centralización y coordinación del sector público autonómico.
+1. El gasto derivado de los contratos de servicios a comisión sobre el ahorro cuyo objeto consista en el asesoramiento y asistencia técnica para la consecución de una mayor eficiencia y ahorro en la contratación o el uso de bienes y servicios por parte del sector público autonómico, se financiará en su caso con cargo a los créditos disponibles de las partidas presupuestarias destinadas a la contratación de los bienes y servicios en las que se genere el ahorro.
+Por el Consejo de Gobierno se desarrollarán reglamentariamente las instrucciones por las que se regule la contratación centralizada.
+2. Con el mismo fin de eficiencia y ahorro al que se refiere el apartado anterior, la Administración podrá encomendar a los empleados públicos que desempeñen tareas relacionadas con sistemas e infraestructuras cuyo uso sea susceptible de ser compartido por todo el sector público autonómico los trabajos necesarios para asegurar la coordinación entre la Administración y las demás entidades del sector público autonómico.
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Peritaciones judiciales.
+Cuando por parte de los Órganos Judiciales o de la Fiscalía se solicite al Gobierno de la Comunidad Autónoma de Cantabria la designación de peritos para la práctica de pruebas periciales, la Consejería competente en materia de Justicia podrá efectuar dicha designación entre aquellos empleados públicos que puedan realizar la pericia requerida por su carácter de técnicos en la materia de que se trate. Los empleados públicos tendrán la obligación de realizar dicha actuación, salvo que concurran las causas generales de abstención o recusación en el procedimiento.
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Suspensión temporal de pactos y acuerdos.
+De acuerdo con el artículo 38.10 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, se suspenden, en tanto en cuanto esté en vigor esta ley, todas aquellas previsiones contenidas en convenios, pactos o acuerdos que contradigan lo dispuesto en la misma.
+
+### Disposición adicional vigésima primera
+
+Disposición adicional vigésima primera. Reversibilidad de las medidas.
+En el momento en que la reducción del déficit público estructural y la minoración de la deuda pública posibiliten la garantía de estabilidad presupuestaria y la sostenibilidad financiera de la comunidad Autónoma de Cantabria, se procederá a la revisión de las medidas adoptadas en la presente Ley.
+
+### Disposición adicional vigésima segunda
+
+Disposición adicional vigésima segunda. Modificación de la Ley de Cantabria 2/2008, de 11 de julio, de creación del Instituto de Finanzas de Cantabria.
+Se da nueva redacción al número 2 del artículo 4, que queda redactado en la forma siguiente:
+«2. El Consejo de Supervisión estará formado por el Presidente del Instituto de Finanzas de Cantabria y hasta once vocales, de los cuales cuatro serán miembros natos y siete serán miembros electos. Su estatuto se desarrollará, de conformidad con lo establecido en esta Ley, por el Reglamento orgánico.»
+
+### Disposición adicional vigésima tercera
+
+Disposición adicional vigésima tercera. Efectos de la expedición de certificados por el Interventor General de la Comunidad Autónoma de Cantabria, dentro del proceso extraordinario de financiación para el pago a proveedores, en los términos recogidos en el acuerdo 6/2012, de 6 de marzo, del Consejo de Política Fiscal y Financiera, así como del acuerdo para su puesta en marcha, adoptado por la Comisión Delegada de Gobierno para Asuntos Económicos.
+La expedición tanto de las relaciones certificadas como de los certificados individuales conllevará la contabilización de las obligaciones pendientes de pago en caso de no estarlo, sin que esto suponga responsabilidad del interventor en los términos previstos en la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+
+### Disposición adicional vigésima cuarta
+
+Disposición adicional vigésima cuarta. Exención de guardias para mayores de 55 años.
+1. Tendrán derecho a la exención de guardias por motivos de edad, con eventual participación voluntaria en módulos de actividad adicional, el personal facultativo de atención especializada que tenga más de 55 años, siempre y cuando, en el momento de solicitar la exención realice atención continuada y la haya realizado en los cinco años inmediatamente anteriores, o bien, haya sido eximido de su realización en un periodo no superior a dos años.
+2. La solicitud de realización de módulos de actividad adicional será sólo estimada cuando existan necesidades asistenciales que lo justifiquen, sin perjuicio del derecho de la exención de guardias.
+3. La programación de los módulos de actividad adicional, que en ningún caso constituirá un derecho del facultativo, tendrá carácter anual, distribuyéndose de acuerdo con las necesidades asistenciales y consistirá, preferentemente, en la realización de actividad asistencial ordinaria.
+4. Los facultativos que se acojan a este sistema realizarán, cuando su solicitud sea aceptada, un mínimo de uno y un máximo de tres módulos de actividad al mes. Los responsables deberán planificar módulos de actividad efectiva de, al menos, cuatro horas. La realización de dichos módulos será voluntaria y no eximirá a los profesionales de realizar su actividad ordinaria al día siguiente.
+5. Las cuantías que corresponde abonar por la realización de módulos de actividad adicional se abonarán a través del complemento de atención continuada, de acuerdo con la actividad efectivamente realizada. Cada módulo equivaldrá a 12 horas de guardia de presencia física.
+6. La programación, número, duración y retribución de los módulos de actividad adicional de los profesionales que hayan sido eximidos de la realización de guardias con anterioridad a la entrada en vigor de esta ley, en virtud del Pacto celebrado el 23 de julio de 1997 entre la Administración Sanitaria y las Organizaciones Sindicales, se adaptarán a lo establecido en este artículo.
+7. El procedimiento de solicitud y reconocimiento de exenciones de guardias se regulará mediante Orden de la Consejería competente en materia de sanidad.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Derechos sindicales.
+1. Las organizaciones sindicales dispondrán de un plazo de un mes desde la entrada en vigor de la presente Ley para adaptar y comunicar a los órganos competentes en materia de personal las situaciones de los empleados públicos a los que afecta lo establecido en el artículo 2 de esta Ley.
+2. Respecto a aquellos empleados públicos que a la entrada en vigor de la presente Ley tuvieran la condición de liberados institucionales y no formaran parte de los órganos de representación unitaria ni de las secciones sindicales, las organizaciones sindicales podrán utilizar el crédito horario disponible en las bolsas constituidas de acuerdo a lo previsto en esta Ley al objeto de proponer su liberación con cargo a las bolsas horarias constituidas en función de la previsión contemplada en el artículo 2.2. Esta posibilidad se mantendrá hasta la primera renovación de los órganos de representación unitaria.
+3. Teniendo en cuenta la ampliación de jornada que para determinados empleados públicos se establece en esta Ley, se adecuarán los criterios de crédito horario necesario para efectuar las acumulaciones horarias que posibiliten la liberación total de un empleado público. A tal efecto, y respecto al personal de Instituciones Sanitarias del Servicio Cántabro de Salud, el número de horas necesario para la dispensa total de asistencia al puesto de trabajo, serán las mismas que las que eran necesarias en el momento inmediatamente anterior a la entrada en vigor del acuerdo del Consejo de Gobierno de 18 de diciembre de 2003.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Prestaciones en situación de incapacidad temporal.
+Lo dispuesto en el artículo 3 será de aplicación a aquellos supuestos de Incapacidad Temporal que se inicien a partir de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Reducción de jornada.
+El personal que tenga concedida una reducción de jornada, le será de aplicación la disminución proporcional de retribuciones contemplada en el artículo 4 con efectos del día 1 del mes siguiente al de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Prolongación de permanencia en activo.
+Al personal que al momento de la entrada en vigor de esta Ley tenga reconocida la prolongación de la permanencia en activo, le será revocada la misma a la finalización de la prórroga anual vigente, salvo en los supuestos previstos en apartado 1 el artículo 5.
+Excepcionalmente, para el personal docente que se encuentre en dichas circunstancias, se producirá la revocación cuando finalice el periodo lectivo en curso, salvo en el supuesto previsto en el apartado 2 del artículo 5.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Aplicación proporcional de la jornada del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud.
+Durante 2012 el incremento de la jornada ordinaria del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud se aplicará proporcionalmente atendiendo a la fecha de su entrada en vigor.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Continuidad en la prestación de servicios.
+A los efectos de asegurar la continuidad en la prestación de los servicios, el personal que a la entrada en vigor de la presente Ley se encuentre desempeñando los puestos de trabajo no singularizados que pasan a depender de las respectivas Secretarías Generales, o aquellos puestos que pasan a depender de la Dirección General de Servicios y Atención a la Ciudadanía, continuará prestando sus servicios en los mismos órganos o unidades administrativas en que viniera haciéndolo, hasta que por la Secretaría General o por la referida Dirección General se considere su asignación a otro distinto.
+En los mismos términos se mantendrá la prestación de servicios en el ámbito del Instituto Cántabro de Servicios Sociales.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Renta social básica.
+1. La presente Ley resultará de aplicación a las solicitudes de renta social básica pendientes de tramitación a la fecha de su entrada en vigor.
+2. A las solicitudes de renta social básica concedidas a la fecha de entrada en vigor de la presente Ley les resultarán de aplicación, en la redacción dada por la misma, los artículos 30, 34.1, 38 y 46 bis de la Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales.
+3. Las obligaciones previstas en el artículo 30 resultarán exigibles a las personas beneficiarías de Renta Social Básica a la fecha de entrada en vigor de la presente Ley en un plazo de seis meses desde su entrada en vigor.
+4. A la fecha de entrada en vigor de la presente Ley empezará a computarse el período de veinticuatro meses a que se refiere el artículo 34.1 de la Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales, para las rentas sociales básicas concedidas con anterioridad.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas la Ley de Cantabria 6/1992, de 26 de junio, de creación del Consejo Económico y Social; la Ley de Cantabria 3/1997, de 26 de mayo, de creación del Consejo de la Mujer de Cantabria, y la Ley de Cantabria 4/2001, de 15 de octubre, de creación del Consejo de la Juventud de Cantabria.
+Además, se derogan los párrafos 3.°, 4.° y 10.° del artículo 27.1.B.1 de la Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales.
+Se derogan las disposiciones adicionales tercera y cuarta de la Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+Asimismo, quedan derogadas todas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Autorización para realizar adaptaciones presupuestarias.
+Se autoriza al titular de la Consejería de Economía, Hacienda y Empleo para realizar las adaptaciones presupuestarias necesarias para la aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Autorización para desarrollar y ejecutar la Ley.
+Se autoriza al Gobierno a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Cantabria», salvo lo dispuesto en materia de incremento de jornada ordinaria del personal al servicio de instituciones sanitarias del Servicio Cántabro de Salud que entrará en vigor a partir del día 1 del mes siguiente al de la publicación de la presente Ley en el «Boletín Oficial de Cantabria». Lo dispuesto en los artículos 15, 16, 17 y 21 entrará en vigor a partir del 1 de julio de 2012.
+La modificación del número de Diputados del Parlamento de Cantabria prevista en la disposición adicional novena será de aplicación a partir de la siguiente convocatoria de elecciones al Parlamento de Cantabria.
+
+Palacio del Gobierno de Cantabria, 30 de mayo de 2012.–El Presidente de la Comunidad Autónoma de Cantabria, Juan Ignacio Diego Palacios.

@@ -1,0 +1,262 @@
+# Ley 3/2003, de 13 de febrero, de Cooperación Internacional para el Desarrollo.
+
+- Identificador BOE: `BOE-A-2003-10839`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10839
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Castilla-La Mancha es sólo una pequeña región de un planeta donde la inmensa mayoría de los seres humanos viven mucho peor que nosotros. Estas personas tienen necesidades pero, a su vez, cuentan con muchos valores que aportarnos.
+Según el Informe de Desarrollo Humano de 2001 elaborado por Naciones Unidas, once millones de niños menores de 5 años mueren anualmente debido a la pobreza; cerca de 325 millones de personas en edad escolar no asisten a la escuela; de los 4.600 millones de habitantes de los países en vías de desarrollo, más de 850 son analfabetos, 1.000 carecen de servicios de agua potable y 2.400 de servicios sanitarios; en la actualidad, 1.200 millones de personas disponen de menos de un dólar diario para sobrevivir y 2.800 millones han de hacerlo con menos de dos dólares.
+Vivimos en una sociedad mundial de desigualdades clamorosas, en la que cada vez más la riqueza se concentra en menos manos y crecen las distancias entre quienes más poseen y los desposeídos. Bastaría sólo una parte de lo que empleamos en bienes prescindibles dentro de los países más ricos para satisfacer las necesidades elementales de quienes hoy no las tienen satisfechas.
+Lo que costaría alimentar y dar salud básica a quienes en el mundo hoy no pueden acceder a ello asciende a 13.000 millones de dólares anuales, cantidad menor de lo que se gasta en Estados Unidos en comida para animales domésticos (17.000 millones).
+Dar agua potable y saneamiento a quienes los necesitan (el 25% de la población mundial) costaría 9.000 millones de dólares, cantidad menor que la que los europeos gastamos en helados durante un año (11.000 millones de dólares).
+Cuando la humanidad ha alcanzado los niveles científicos y tecnológicos más altos, logrando proezas hasta hace poco inimaginables, no podemos renunciar a capacidades tan humanas como son las de sentir y las de pensar.
+Sentimos la necesidad de combatir aquello que impide el ejercicio de las libertades fundamentales y de favorecer una vida digna para quienes hoy carecen de ella.
+Los ciudadanos de los países más desarrollados debemos pensar soluciones y rebelarnos ante el falaz dictamen de que las cosas no pueden ser de otro modo, de que no es posible otro mundo mejor.
+Son muchos los castellano-manchegos y las castellano-manchegas que, desde nuestra tierra o repartidos por los lugares más desfavorecidos del planeta, con actitud desinteresada, lo testimonian y nos dan ejemplo de ello: quienes trabajan en proyectos de desarrollo, los inscritos en la Oficina Regional de Voluntariado, las organizaciones no gubernamentales que tienen la cooperación internacional como el principal o uno de sus principales motivos.
+Castilla-La Mancha se siente partícipe de su misma causa. Nuestra Comunidad Autónoma ha venido incrementando sus presupuestos de cooperación progresivamente en los últimos años, hasta el punto de superar el 0,7 por ciento de sus ingresos propios. Nos cabe la moderada satisfacción de ser, en cuanto a aportación económica, una de las primeras Comunidades de España.
+Pero realizar tal propósito solidario requiere también de una ley que regule los procedimientos de la cooperación y aúne los esfuerzos de la sociedad castellano-manchega.
+Esta ley se inserta en la línea más avanzada de principios, normativas y políticas de cooperación internacional. Además de la legislación estatal, tiene como referentes específicos la Declaración sobre el Derecho al Desarrollo y el Programa de las Naciones Unidas, los compromisos alcanzados en la Cumbre de Desarrollo Social de 1995, así como las Pautas para la Reducción de la Pobreza establecidas por el Comité de Ayuda al Desarrollo de mayo de 2001 en su estrategia para el siglo XXI.
+Esta ley adopta un nuevo planteamiento de la Cooperación Internacional para el Desarrollo que emana del principio de participación y de la interdependencia de los pueblos. Por ello, no es ajena a la preocupación compartida por los crecientes flujos de inmigración de personas provenientes de países más desfavorecidos y las evidentes consecuencias de procesos de desarrollo excluyentes.
+Con la aprobación de esta ley se pretende dar respuesta a las necesidades de una cooperación entre los pueblos cada vez más eficaz y transparente.
+
+## CAPÍTULO I
+
+Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular la Cooperación Internacional para el Desarrollo promovida y desarrollada por la Junta de Comunidades de Castilla-La Mancha.
+
+### Artículo 2
+
+Artículo 2. Principios inspiradores.
+Esta ley expresa la solidaridad de Castilla-La Mancha con los más desfavorecidos que viven en los países en vías de desarrollo, y además de los previstos en la legislación estatal tiene como principios inspiradores la igualdad de todos los seres humanos en dignidad y derechos, así como la obligación de ayudarse mutuamente.
+
+### Artículo 3
+
+Artículo 3. Prioridades de Actuación.
+La Cooperación Internacional para el Desarrollo se realizará de acuerdo a las prioridades sectoriales y geográficas que se establecen en la presente ley.
+1. Prioridades Sectoriales.
+Son sectores de actuación preferente los siguientes:
+a. La salud, alimentación, educación, vivienda, saneamiento y agua potable.
+b. El fortalecimiento de las estructuras democráticas.
+c. La formación y capacitación de recursos humanos.
+d. La igualdad de oportunidades y la integración social de la mujer.
+e. La defensa de los grupos de población más vulnerables, como infancia, discapacitados y población indígena.
+f. La promoción de la paz y defensa de los derechos humanos.
+g. La protección del medio ambiente.
+h. La promoción de la cultura, especialmente en aquellos aspectos directamente relacionados con la identidad de los pueblos.
+i. El fomento de la economía social.
+2. Prioridades geográficas.
+Son países de actuación preferente aquellos cuyo Índice de Desarrollo Humano sea bajo o medio según el Informe elaborado anualmente por el Programa de las Naciones Unidas para el Desarrollo.
+
+## CAPÍTULO II
+
+Planificación, Modalidades, Evaluación y Coordinación
+
+### Artículo 4
+
+Artículo 4. Planificación.
+1. La acción de cooperación internacional para el desarrollo de la Junta de Comunidades de Castilla-La Mancha se establecerá mediante planes elaborados por la Consejería de Sanidad y Asuntos Sociales. Los planes podrán tener carácter anual o plurianual. En este último caso, serán aprobados por el Consejo de Gobierno.
+2. Los planes marcarán las prioridades y actuaciones a desarrollar en el período temporal de aplicación, así como la distribución de los recursos económicos.
+Se modifica por el art. 29.1 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 5
+
+Artículo 5. Modalidades.
+1. El Consejo de Gobierno de Castilla-La Mancha desarrollará la cooperación internacional para el desarrollo, directamente, o a través de entidades y organismos nacionales o internacionales, públicos o privados.
+2. La cooperación directa se realizará con las administraciones públicas de los países destinatarios, facilitando a éstas asistencia técnica preferentemente. También podrán participar en ella actores de desarrollo o movimientos sociales radicados en los países destinatarios.
+3. La cooperación indirecta podrá realizarse con entidades y organismos que cuenten con acreditada experiencia, estructura y garantías para la ejecución de las actuaciones.
+4. Las intervenciones de cooperación para el desarrollo podrán financiarse o cofinanciarse mediante convocatorias públicas, formalización de convenios o resoluciones de concesión directa.
+Se modifica por el art. 29.2 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 6
+
+Artículo 6. Seguimiento y evaluación.
+1. Los planes de cooperación podrán establecer mecanismos específicos de seguimiento y evaluación de los proyectos y actuaciones financiados con fondos públicos mediante la aplicación de alguno o algunos de los criterios establecidos por el Comité de Ayuda al Desarrollo para la realización de evaluaciones de la cooperación al desarrollo: pertinencia, eficacia, eficiencia, impacto y sostenibilidad.
+2. La Junta de Comunidades de Castilla-La Mancha podrá participar en aquellas iniciativas de evaluación impulsadas por la cooperación centralizada o descentralizada, siempre que el objeto de la evaluación comprenda alguna intervención que haya contado con su financiación.
+Se modifica por el art. 29.3 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 7
+
+Artículo 7. Coordinación.
+1. El Gobierno de Castilla-La Mancha participará en las instancias de coordinación previstas en la legislación estatal y colaborará con la Agencia Española de Cooperación Internacional.
+2. La Junta de Comunidades de Castilla-La Mancha podrá, en sus relaciones con los países socios y con otros donantes, aplicar las fórmulas de cooperación previstas en el Código de conducta de la Unión Europea relativo a la división del trabajo en el ámbito de la política de desarrollo, establecido mediante la Comunicación de la Comisión al Consejo y al Parlamento Europeo, de 28 de febrero de 2007.
+Se modifica por el art. 29.4 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+## CAPÍTULO III
+
+La Educación para el Desarrollo y la Sensibilización
+
+### Artículo 8
+
+Artículo 8. La Educación para el Desarrollo y la Sensibilización de la sociedad castellano-manchega.
+1. Tienen por objeto la comprensión de las causas que propician la pobreza y el subdesarrollo y los fenómenos migratorios, así como la promoción de los derechos humanos, la preservación del medio ambiente y el compromiso para la acción participativa y transformadora.
+2. La Junta de Comunidades de Castilla-La Mancha podrá impulsar, en colaboración con organismos y entidades públicas o privadas interesadas en este campo, campañas de difusión, programas educativos y actividades formativas.
+Se modifica por el art. 29.5 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+## CAPÍTULO IV
+
+Órganos Competentes
+
+### Artículo 9
+
+Artículo 9. Órganos rectores.
+1. El Consejo de Gobierno dirige la Cooperación Internacional para el Desarrollo, aprueba los planes plurianuales de Cooperación, en su caso, y los remite a las Cortes para su información.
+2. La Consejería de Sanidad y Asuntos Sociales es la responsable de la definición y ejecución de la acción del Gobierno Regional en esta materia y de la elaboración de los planes.
+Se modifica por el art. 29.6 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 10
+
+Artículo 10. El Consejo Regional de Cooperación para el Desarrollo.
+1. El Consejo Regional de Cooperación para el Desarrollo es el órgano colegiado de carácter consultivo de la Comunidad de Castilla-La Mancha en materia de cooperación internacional para el desarrollo, formado por representantes de la Junta de Comunidades de Castilla-La Mancha, de las Administraciones Locales de la región y de los demás actores del ámbito de la cooperación.
+2. Estará adscrito a la Consejería de Sanidad y Asuntos Sociales. Su organización, composición y funcionamiento, se regulará reglamentariamente.
+3. Sus funciones serán las siguientes:
+a) Informar los anteproyectos de leyes y demás disposiciones generales en materia de cooperación internacional para el desarrollo.
+b) Informar los planes de Cooperación Internacional.
+c) Emitir informes a requerimiento de la Consejería de Sanidad y Asuntos Sociales.
+d) Conocer las ayudas concedidas en materia de cooperación internacional y las propuestas de Resolución en los casos de convocatorias públicas de cofinanciación de programas y proyectos.
+e) Elaborar propuestas o recomendaciones que sean susceptibles de mejorar la calidad de la cooperación para el desarrollo de la región.
+Se modifica por el art. 29.7 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+## CAPÍTULO V
+
+Fondo Castellano-Manchego de Cooperación
+
+### Artículo 11
+
+Artículo 11. El Fondo Castellano-Manchego de Cooperación.
+1. Se crea el Fondo Castellano-Manchego de Cooperación, como instrumento para impulsar actuaciones integrales en materia de cooperación internacional y para favorecer la máxima participación ciudadana.
+2. El Fondo Castellano-Manchego de Cooperación, cuya constitución se aprobará por el Consejo de Gobierno, se gestionará por el órgano directivo competente en materia de cooperación para el desarrollo o por el organismo que, en su caso, determine el Consejo de Gobierno, quienes podrán realizar encomiendas en los términos previstos en el artículo 15 de la Ley 30/1992, de 26 de noviembre.
+En todo caso, estarán representadas en los órganos de gobierno del Fondo las entidades locales que efectúen aportaciones económicas al mismo, teniendo en cuenta para su participación, entre otros criterios, la cuantía de sus aportaciones y el número de habitantes. Asimismo, podrán tener representación otras entidades y actores de desarrollo castellano-manchegos.
+3. Los recursos del Fondo vendrán constituidos por las cantidades que a tal fin puedan consignarse en los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha, por las aportaciones de otras administraciones o entidades públicas y las realizadas por personas físicas o jurídicas y por los rendimientos derivados de su patrimonio.
+Se modifica por el art. 29.8 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 12
+
+Artículo 12. Aportaciones de la Administración Regional.
+1. La Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha de cada ejercicio podrá fijar aportaciones económicas al Fondo.
+2. En las anualidades en que no se consignen cantidades al Fondo en los Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha el Consejo de Gobierno podrá acordar la suspensión de sus actuaciones.
+Se modifica por el art. 29.9 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 13
+
+Artículo 13. Aportación de las Corporaciones Locales.
+1. La Junta de Comunidades de Castilla-La Mancha procurará la participación de las Corporaciones Locales en el Fondo Castellano-Manchego de Cooperación.
+2. Las convocatorias de ayudas y subvenciones de la Junta de Comunidades de Castilla-La Mancha destinadas a corporaciones locales definirán criterios que permitan priorizar en la concesión de las mismas a aquellas entidades que destinen recursos al citado Fondo.
+
+### Artículo 14
+
+Artículo 14. Otras aportaciones.
+1. La Junta de Comunidades de Castilla-La Mancha promoverá la participación de personas físicas y jurídicas en el Fondo Castellano-Manchego de Cooperación.
+2. Sin perjuicio de lo dispuesto en los artículos 35 y 36 de la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo, y de los incentivos fiscales a la participación privada en actividades de interés general cuya regulación corresponde al Estado, la Junta de Comunidades de Castilla-La Mancha, establecerá mediante ley, en el marco de la normativa estatal sobre cesión de tributos a la misma, una bonificación adicional en el Impuesto sobre la Renta de las Personas Físicas de un 15 por ciento de las cantidades donadas por personas físicas al Fondo Castellano-Manchego de Cooperación.
+3. Las empresas o entidades que realicen aportaciones al Fondo Castellano-Manchego de Cooperación, podrán ver incrementadas las ayudas y subvenciones de la Junta de Comunidades de Castilla-La Mancha, destinadas al fomento de la actividad económica y empresarial, con arreglo a los criterios de baremación y modulación que, a estos efectos, se establecerán en las convocatorias de las mismas.
+
+## CAPÍTULO VI
+
+Recursos humanos y financieros
+
+### Artículo 15
+
+Artículo 15. Recursos humanos.
+1. La Administración Regional fomentará la participación de su personal en los proyectos de cooperación internacional, para lo cual podrá conceder permisos al personal empleado público que participe en los mismos.
+2. Reglamentariamente se establecerán las condiciones para la concesión del permiso al que se refiere el apartado anterior, el personal que podrá solicitarlo, así como su duración y el carácter retribuido o no del mismo.
+Se modifica el apartado 1, con efectos de 22 de septiembre de 2011, por la disposición final 6 de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7752#df-6
+
+### Artículo 16
+
+Artículo 16. Recursos financieros.
+1. Siempre que se cumplan los objetivos de estabilidad presupuestaria legalmente establecidos, la Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha de cada ejercicio podrá establecer dotaciones de créditos destinadas a la Cooperación Internacional.
+Una vez que entren en vigor los límites de déficit estructural constitucionalmente establecidos, las dotaciones de crédito destinadas a cooperación internacional que se fijen en la Ley de Presupuestos de cada ejercicio tenderán a alcanzar progresivamente el 0,7% de los ingresos propios.
+2. Las subvenciones concedidas y las aportaciones económicas que deriven de los convenios que se formalicen con cargo a los presupuestos destinados a cooperación internacional para el desarrollo, podrán librarse con carácter previo a la realización de los gastos subvencionados, sin necesidad de autorización previa por la consejería competente en materia de hacienda.
+Se modifica por el art. 29.10 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+## CAPÍTULO VII
+
+CAPÍTULO VII
+Participación social en la Cooperación Internacional para el Desarrollo
+
+### Artículo 17
+
+Artículo 17. Cooperación No Gubernamental.
+La participación social en la Cooperación Internacional podrá realizarse, entre otras, a través de las siguientes entidades: organizaciones no gubernamentales de desarrollo castellano-manchegas; universidades y otras instituciones de enseñanza o de investigación; organizaciones profesionales, de mujeres y de jóvenes; grupos de iniciativa local y comunidades religiosas. Asimismo, serán partícipes de la cooperación internacional los colectivos o contrapartes locales y organizaciones de los países objeto de cooperación.
+Se modifica por el art. 29.11 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 18
+
+Artículo 18. Organizaciones No Gubernamentales de Desarrollo Castellano-Manchegas.
+A los efectos de la presente ley, se considerarán organizaciones no gubernamentales de desarrollo castellano-manchegas aquellas entidades de derecho privado, legalmente constituidas y sin fin de lucro, que tengan como objeto expreso en sus propios estatutos, o entre sus fines, la realización de actividades relacionadas con los principios y los objetivos de la cooperación internacional para el desarrollo contemplados en la presente ley y que tengan sede e implantación efectiva en Castilla-La Mancha.
+Se modifica por el art. 29.12 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Artículo 19
+
+Artículo 19. Entidades Colaboradoras.
+La Consejería de Bienestar Social, previo informe del Consejo Regional de Cooperación, podrá acreditar como Entidades Colaboradoras a aquellas entidades públicas y privadas con finalidad lucrativa siempre que cumplan los objetivos y principios de la presente ley. En particular, se tendrán en cuenta sus apoyos en actuaciones de educación para el desarrollo y de sensibilización, la realización de estudios y análisis sobre la cooperación castellano-manchega, la creación de capacidades, el apoyo a iniciativas sostenibles de carácter piloto o la facilitación de oportunidades para el comercio justo en la Región.
+El procedimiento y los requisitos se desarrollarán reglamentariamente.
+
+### Artículo 20
+
+Artículo 20. El Voluntariado.
+La Administración Regional fomentará y formará el voluntariado de Castilla-La Mancha como uno de los recursos humanos más valiosos para la cooperación internacional. Sus derechos y deberes son los regulados por el Estatuto del Voluntariado, establecido en el Capítulo I del Título II de la Ley 4/1995, de 16 de marzo, de Voluntariado en Castilla-La Mancha.
+
+### Artículo 21
+
+Artículo 21. Los Cooperantes.
+Se consideran cooperantes de Castilla-La Mancha aquellas personas que participen en un programa o proyecto de cooperación internacional para el desarrollo, ejecutado por una entidad castellano-manchega.
+Sus derechos y deberes serán los recogidos por el Estatuto del Cooperante previsto en el artículo 38.2 de la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El primer Plan Estratégico de Cooperación será elaborado por la Consejería de Bienestar Social en el plazo máximo de un año desde la entrada en vigor de la presente ley. Hasta su aprobación, mantendrá su vigencia la Orden de la Consejería de Bienestar Social por la que se regulan las bases y se convocan subvenciones destinadas a la Cooperación para el Desarrollo, en vigor en la fecha de publicación de esta ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El Consejo Regional de Cooperación para el Desarrollo regulado en el artículo 10 se desarrollará reglamentariamente en el plazo máximo de seis meses desde la entrada en vigor de la presente ley. Hasta esa fecha, queda vigente el Decreto 36/1997, de 10 de marzo, por el que se regula la composición y funcionamiento del Consejo Regional de Cooperación al Desarrollo manteniendo su actual composición y régimen de funcionamiento.
+Las funciones del Consejo Regional de Cooperación para el Desarrollo serán las atribuidas en esta ley y en el indicado Decreto 36/1997 en tanto no se opongan a lo establecido en la misma, hasta su derogación por el Decreto que regule su nueva organización, composición y funcionamiento.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El Fondo Castellano-Manchego de Cooperación, establecido en el Capítulo V de la presente ley, se constituirá en el plazo de seis meses desde su entrada en vigor.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En ausencia de los planes de cooperación previstos en el artículo 4 de esta ley, serán de aplicación las Ordenes de la Consejería de Sanidad y Asuntos Sociales por las que se regulan las bases y se convocan subvenciones destinadas a la Cooperación para el Desarrollo, así como el Decreto 9/2008, de 22 de enero, de la Consejería de Bienestar Social, por el que se regulan las subvenciones destinadas a Proyectos de Acciones Humanitarias y de Ayudas de Emergencia.
+Se modifica por el art. 29.13 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En tanto no se aprueben las normas especiales de cooperación al desarrollo previstas en la disposición adicional primera del Decreto 21/2008, de 5 de febrero, por el que se aprueba el Reglamento de desarrollo de la Ley de Hacienda de Castilla-La Mancha en materia de subvenciones, cuando mediante convocatorias públicas, formalización de convenios o resoluciones de concesión directa, se financien actuaciones ejecutadas por organismos internacionales, agencias que pertenezcan al sistema de Naciones Unidas o las entidades que tienen suscrito un acuerdo con estas para su representación en España o por el que se las reconoce como su comité en España, la justificación podrá realizarse mediante el sistema de auditoría interna o cualquier otro previsto en sus reglamentos financieros de aplicación.
+Se modifica por el art. 29.14 de la Ley 1/2012, de 21 de febrero. Ref. BOE-A-2012-10756#a2-11
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en lo que se opongan a la presente ley y de manera expresa el Título IV de la Ley 5/1995, de 23 de marzo, de Solidaridad de Castilla-La Mancha.
+
+### Disposición final primera
+
+Disposición final primera.
+El Consejo de Gobierno dictará las disposiciones necesarias para el desarrollo de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley entrará en vigor a los 20 días de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+### [firma]
+
+Toledo, 24 de febrero de 2003.
+JOSÉ BONO MARTÍNEZ,
+Presidente

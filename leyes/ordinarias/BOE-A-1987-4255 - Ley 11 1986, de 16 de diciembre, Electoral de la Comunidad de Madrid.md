@@ -1,0 +1,398 @@
+# Ley 11/1986, de 16 de diciembre, Electoral de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1987-4255`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-4255
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid, la Ley 11/1986, de 16 de diciembre, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 306, de fecha 26 de diciembre de 1986, y corrección de errores publicada en el "Boletín Oficial de la Comunidad de Madrid" número 5, de 7 de enero de 1987, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber: Que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+I. El artículo 11.3 del Estatuto de Autonomía de la Comunidad de Madrid establece que el procedimiento a seguir en las elecciones a la Asamblea de Madrid se regulará mediente Ley. Igualmente, el artículo 12.1 exige rango de Ley a la norma autonómica que regule las causas de inelegibilidad e incompatibilidad de los Diputados de dicha Asamblea.
+La presente Ley viene, pues, a cumplir el mandato del Estatuto dentro del marco legal que, tanto el propio Estatuto como la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, establecen.
+El criterio seguido, a la vista de la Disposición Adicional primera de la citada Ley Orgánica, ha sido el de mantener una gran economía normativa, es decir, el criterio de sólo regular aquellos aspectos estrictamente necesarios, derivados del carácter y ámbito de las Elecciones a la Asamblea de Madrid, dejando que en todo lo demás se apliquen los preceptos de la Ley Orgánica 5/1985, que la mencionada Disposición Adicional declara supletorios. Ello permite que la presente Ley Electoral sea breve y mantenga una homogeneidad con la legislación estatal y con la de otras Comunidades Autónomas ­—en este mismo sentido se ha de hacer constar que se han tenido en cuenta las soluciones aportadas por la legislación electoral aprobada hasta el momento por las demás Comunidades—, lo que habrá de redundar en la simplicidad y facilidad de interpretación y aplicación de esta Ley.
+II. El derecho de sufragio activo y pasivo está regulado por los artículos 2.º al 7.º de la Ley Orgánica del Régimen Electoral General, que «se aplican también a las elecciones a Asambleas Legislativas de Comunidades Autónomas», según la ya citada Disposición Adicional primera, por lo que los artículos 2 al 4 de la presente Ley respetan absolutamente lo dispuesto por aquéllos.
+III. La Administración electoral está regulada en el Capítulo III del Título I de la Ley Orgánica, todos cuyos artículos son también de directa aplicación a las elecciones autonómicas, si bien el artículo 8.2 deja como optativa la existencia de la Junta Electoral de la Comunidad Autónoma, por lo que ha de entenderse que son las normas de éstas las que han de determinar su existencia o no y, en su caso, la regulación correspondiente.
+Dado el ámbito uniprovincial de la Comunidad de Madrid, se considera improcedente la superposición de dos Juntas Electorales, Autonómica y Provincial, en el mismo ámbito territorial y con similares competencias. Por ello se opta por acumular en la Junta Electoral Provincial las posibles funciones que pudieran corresponder a la Junta Electoral de la Comunidad de Madrid, lo que ha de suponer una economía y mayor simplicidad en los procedimientos electorales.
+IV. La regulación de la convocatoria de elecciones supone una adecuada combinación de los preceptos de la Ley Orgánica de Régimen Electoral General y de los preceptos del Estatuto de Autonomía.
+Hay ciertos aspectos que merecen un comentario más detenido. Primero la publicación en el «Boletín Oficial del Estado» del Decreto de Convocatoria es a efectos meramente divulgativos y de publicidad, pero sin efectos jurídicos, que se producen por la publicación en el «Boletín Oficial de la Comunidad de Madrid». Segundo, se insta desde la Ley a que se hagan coincidir las elecciones siempre que el cumplimiento de los plazos legales lo permitan.
+V. El carácter uniprovincial de la Comunidad de Madrid hace que se prevea un único representante ante la Administración Electoral, por lo que éste asume tanto las funciones de los representantes generales como de los representantes de las candidaturas, previstas en el artículo 43 de la Ley Orgánica de Régimen Electoral General.
+VI. En la regulación de la utilización de los medios de comunicación social de titularidad pública se ha partido de la distinción de dos supuestos: Primero, que las elecciones a la Asamblea de Madrid coincidan con otras de ámbito estatal; en este caso se ha optado por la simple remisión a la Ley estatal. Segundo, que no se dé tal coincidencia; para este supuesto, se ha establecido una normativa propia si bien totalmente inspirada en aquella norma.
+VII. respecto a los administradores se ha seguido el mismo criterio que con los representantes, es decir, el crear una sola figura de administrador, sin distinción entre administrador general y administrador de candidatura, previéndose, eso sí, el caso de concurrencia de elecciones, en cuyo supuesto podrá acumularse en una sola persona el caro de administrador único a los efectos de las elecciones autonómicas, con el de administrador de las otras candidaturas presentadas en el ámbito de la Comunidad por el mismo partido, federación, coalición o agrupación, quedando en este caso bajo la responsabilidad del administrador general, si hubiera de haberlo según lo previsto en la Ley Orgánica de Régimen Electoral General.
+VIII. Los gastos electorales se limitan contemplando tres posibles supuestos: Uno, que se celebren sólo elecciones a la Asamblea de Madrid, en cuyo caso será de aplicación el artículo 21.1. Dos, que se produzca coincidencia con elecciones a las Cortes Generales o a cualquiera de sus Cámaras, en cuyo supuesto se aplica el artículo 131.2 de la Ley Orgánica de Régimen Electoral General. Tres, que haya coincidencia con unas elecciones distintas de las previstas en el número anterior, en cuyo caso se aplicará el límite establecido en el artículo 21.3 de esta Ley.
+IX. La regulación de los anticipos a cuenta de las subvenciones a partidos políticos, federaciones, coaliciones y agrupaciones, y el control de la contabilidad electoral no suponen ninguna novedad con respecto a la Ley Orgánica de Régimen Electoral General. Sin embargo, a efectos de acortar el tiempo que media entre la celebración de las elecciones y la percepción de las subvenciones, se ha previsto una liquidación provisional a cuenta de la que definitivamente corresponda.
+Por otra parte, a fin de poder hacer frente a los gastos electorales que incumben a la Comunidad, se ha previsto el mecanismo de una autorización legal al Consejo de Gobierno, para que efectúe la dotación de un crédito extraordinario.
+Redactados el párrafo 1 y los apartado 1 y 9 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## CAPÍTULO PRIMERO
+
+Ámbito de aplicación
+
+### Art. 1
+
+Art. 1.
+La presente Ley, de conformidad con lo dispuesto en el Estatuto de Autonomía de la Comunidad de Madrid, es de aplicación a las elecciones a la Asamblea de Madrid.
+
+## CAPÍTULO II
+
+Derecho de sufragio
+
+### Art 2
+
+Art. 2.
+1. El derecho de sufragio corresponde a los españoles mayores de edad, que gocen del mismo según el Régimen Electoral General y que, además, ostenten la condición política de ciudadanos de la Comunidad de Madrid, conforme el artículo 7 de su Estatuto de Autonomía.
+2. Para su ejercicio es indispensable la inscripción en el Censo Electoral vigente.
+3. En las elecciones reguladas por la presente Ley regirá el Censo Electoral único referido al territorio de la Comunidad de Madrid.
+
+### Art 3
+
+Art. 3.
+1. Son elegibles los ciudadanos que poseyendo la condición de elector, de conformidad con el artículo anterior, no se encuentren incursos en alguna de las siguientes causas de inelegibilidad:
+2. Son inelegibles:
+a) Los incursos en cualquiera de las causas contenidas en el Capítulo II del Título Primero de la Ley Orgánica del Régimen Electoral General.
+b) El Presidente y los miembros del Gobierno de la Nación y sus Secretarios de Estado.
+c) Los Senadores, salvo los elegidos por la Comunidad de Madrid, tanto en elección directa, como en aplicación del artículo 14.12 del Estatuto de Autonomía.
+d) (Suprimido)
+e) El Director General del Ente Público Radio Televisión Madrid y los Directores de sus Sociedades.
+f) Los parlamentarios de las Asambleas de otras Comunidades Autónomas, y los miembros de sus Instituciones Autonómicas que por mandato legal o estatutario deban ser elegidos por la Asamblea Legislativa respectiva.
+g) Los Presidentes y los miembros de los Consejos de Gobierno de las demás Comunidades Autónomas, así como los cargos de libre designación de los mismos.
+h) Los que ejerzan funciones o cargos conferidos y remunerados por un Estado extranjero.
+Se suprime el apartado 2.d) por el art. 13.1 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+ Redactado el apartado 1 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+### Art 4
+
+Art. 4.
+1. La calificación de inelegible procederá respecto de quienes incurran en alguna de las causas mencionadas en el artículo anterior el mismo día de la presentación de su candidatura, o en cualquier momento posterior hasta la celebración de las elecciones.
+2. No obstante lo dispuesto en el párrafo primero del artículo anterior, los que aspiren a ser proclamados candidatos y no figuren incluidos en las listas del Censo Electoral vigente, referido al territorio de la Comunidad de Madrid podrán serlo, siempre que con la solicitud acrediten, de modo fehaciente, que reúnen todas las condiciones exigidas para ello.
+Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## CAPÍTULO III
+
+Incompatibilidades
+
+### Art 5
+
+Art. 5.
+5.1 Todas las causas de inelegibilidad recogidas en el artículo 3 lo son también de incompatibilidad.
+5.2 Son además, incompatibles:
+a) Los comprendidos en los apartados a), b), c), y d) del número 2 del artículo 155 de la Ley Orgánica del Régimen Electoral General.
+b) Los miembros del Consejo de Administración del Ente Público Radio Televisión Madrid.
+c) Los siguientes Altos cargos de la Administración Pública de la Comunidad de Madrid, salvo que ostenten la condición de miembros del Gobierno:
+1.º Los Directores generales y Secretarios generales técnicos de las distintas Consejerías.
+2.º El Interventor general de la Comunidad de Madrid.
+3.º El Tesorero general de la Comunidad de Madrid.
+4.º El Director del Gabinete de Presidencia y los Jefes de Gabinete de las distintas Consejerías.
+5.º Los Gerentes, Presidentes ejecutivos, Directores generales y Consejeros delegados de los organismos autónomos, empresas públicas y entes públicos de la Comunidad de Madrid.
+6.º Los Gerentes, Presidentes ejecutivos, Directores generales y Consejeros delegados de las sociedades mercantiles con participación mayoritaria de la Comunidad de Madrid.
+7.º Los demás cargos directivos, ejecutivos o no, de la Administración Institucional de la Comunidad de Madrid, o de las sociedades mercantiles con participación mayoritaria de la Comunidad de Madrid, cualquiera que sea su rango y denominación, cuando así lo establezca la normativa específica que les sea de aplicación.
+8.º El Presidente y Directores generales o cargos directivos con rango de Director general o superior de los Consorcios y cualesquiera otros organismos con personalidad jurídica propia en los que participe la Administración Pública de la Comunidad de Madrid o cualquiera de sus organismos autónomos, entes, empresas o sociedades propias o de participación mayoritaria.
+9.º Todos aquellos titulares de puestos de libre designación o de confianza del Gobierno o de la Administración Institucional de la Comunidad de Madrid con rango igual o superior al de Director general.
+10.º Los titulares de cualquier otro puesto de trabajo de la Comunidad de Madrid, cualquiera que sea su denominación, cuyo nombramiento se efectúe mediante Decreto del Gobierno.»
+5.3 La condición de Diputado de la Asamblea de Madrid, sin régimen de dedicación exclusiva, es compatible con el ejercicio de actividades privadas, excepto con las siguientes, que serán incompatibles para todos los Diputados de la Asamblea de Madrid, con independencia de su régimen de dedicación:
+a) Las actividades de gestión, defensa, representación, mandato, dirección y asesoramiento ante la Administración Pública de la Comunidad de Madrid, sus Entes y Organismos Autónomos, de asuntos cuya tramitación, informe o decisión corresponda a aquélla o éstos. Se exceptúan las actividades de representación y administración del patrimonio personal o familiar en el ejercicio de un derecho reconocido por las leyes, así como el disfrute de los beneficios que se deriven de la aplicación automática de una disposición de carácter legal.
+b) La actividad de contratista o fiador de obras, servicios, suministros o asistencias de carácter público o que implique cualquier relación de naturaleza contractual, prestacional, de concierto o convenio que se remunere con fondos o avales de la Comunidad de Madrid, así como formar parte de los órganos de dirección, gestión, representación o asesoramiento de empresas o sociedades mercantiles que se dediquen a dichas actividades.
+c) La participación superior al 10 por 100 del capital en las empresas o sociedades mercantiles a que se refieren los apartados b) y c) de este número. Si dicha participación se verificase durante el mandato del Diputado como consecuencia de atribución patrimonial por actos «mortis causa», el mismo procederá a encomendar la administración del patrimonio afectado a una entidad de gestión de valores y activos financieros registrada en la Comisión Nacional del Mercado de Valores. En el contrato de encomienda de gestión se darán a la entidad contratante las instrucciones generales a que habrá de ajustar su actuación durante el mandato del Diputado y hasta dos años después de su finalización, sin que durante dicho tiempo puedan aceptarse instrucciones personales del mismo ni de ninguna otra persona. La infracción de lo dispuesto en este apartado se pondrá en conocimiento de la Comisión Nacional del Mercado de Valores.
+5.4 Los Diputados de la Asamblea que opten por el régimen de dedicación exclusiva sólo podrán percibir asignaciones económicas por el desempeño de aquellas funciones inherentes a la condición de Diputado y su especial responsabilidad en los órganos de la Asamblea de Madrid y sus Grupos Parlamentarios.
+La percepción de pensiones públicas, en su caso, quedará en suspenso durante el tiempo que desempeña el cargo, excepto la de las indemnizaciones por accidentes de una cantidad a tanto alzado.
+5.5 El mandado de los Diputados de la Asamblea de Madrid que opten por el régimen de dedicación exclusiva es incompatible con el desempeño, por sí o mediante apoderamiento, de cualquier otra actividad pública o privada, ya sea por cuenta propia o ajena.
+5.6 Se exceptúan de la prohibición del ejercicio de actividades públicas y privadas, de los Diputados que opten por el régimen de dedicación exclusiva, las siguientes:
+a) El desempeño de funciones representativas o de participación en órganos colegiados de municipios, organismos, corporaciones, fundaciones o instituciones análogas, o sociedades dependientes de las mismas, no pudiendo percibir por tales actividades asignación económica.
+b) Cargos de órganos colegiados en entes, empresas o sociedades cuya designación corresponda a la Asamblea de Madrid o a los órganos de gobierno y administración de la Administración Regional o del Estado, no pudiendo percibir por tales actividades asignación económica.
+c) Las actividades de producción literaria, artística, científica o técnica y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente en congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo, de prestación de servicios o supongan menoscabo del extricto cumplimiento de sus deberes.
+d) El ejercicio de funciones docentes siempre que no suponga menoscabo de la dedicación en el ejercicio del cargo público. Por el ejercicio de estas funciones sólo podrán percibir las indemnizaciones reglamentariamente establecidas.
+5.7 Los Diputados de la Asamblea de Madrid, de conformidad con las determinaciones del Reglamento de la misma, deberán formular declaración de todas las actividades que desarrollen, así como las que les proporcionen o puedan proporcionar ingresos económicos, así como de sus bienes patrimoniales.
+Las declaraciones sobre actividades y bienes se formularán por separado con arreglo al modelo que aprueba la Mesa de la Asamblea.
+La declaración de actividades incluirá:
+a) Cualesquiera actividades que se ejercieran y que puedan constituir causa de incompatibilidad conforme a lo previsto en la Ley.
+b) Las que puedan ser de ejercicio compatible.
+c) En general, cualesquiera actividades que proporcionen o puedan proporcionar ingresos económicos.
+Se añade el número 10º al apartado 2 por el art. 13.2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377
+ Se modifica el apartado 2 por el art. 14 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766
+ Se modifica el apartado 3 y se añaden los apartados 4 a 7 por el art. único de la Ley 12/1998, de 9 de julio. Ref. BOE-A-1998-26926
+ Redactado conforme a la corrección de errores publicada en el BOCM núm. 191, de 13 de agosto de 1998.
+ Se modifica por el art. único de la Ley 15/1995, de 21 de abril. Ref. BOE-A-1995-17373.
+ Redactados los apartados 1 y 2.a) conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+### Art 6
+
+Art. 6.
+1. La Comisión correspondiente de la Asamblea de Madrid, en la forma y plazos que determine su Reglamento, resolverá sobre la posible incompatibilidad y, si se declara ésta, el parlamentario deberá optar entre el escaño y el cargo o actividad incompatible. En el caso de no ejercitarse la opción, se entenderá que renuncia al escaño.
+2. Declarada la incompatibilidad por la Comisión correspondiente la reiteración o continuidad en las actividades o en la prestación de servicios, así como la realización ulterior de los mismos, llevará consigo la renuncia al escaño, a lo que se dará efectividad en la forma que determine el Reglamento de la Cámara.
+
+## CAPÍTULO IV
+
+Administración Electoral
+
+### Art 7
+
+Art. 7.
+1. Integran la Administración Electoral las Juntas Electorales Central, Provincial, de Zona, así como las Mesas Electorales.
+2. La Junta Electoral Provincial de Madrid acumula las funciones correspondientes a la Junta Electoral de la Comunidad de Madrid.
+3. De conformidad con los artículos 13.2 y 22.2 de la Ley Orgánica del Régimen Electoral General, el Consejo de Gobierno pondrá a disposición de la Junta Electoral Provincial y de las de Zona los medios personales y materiales necesarios, y fijará las dietas y gratificaciones de sus miembros y personal a su servicio.
+Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## CAPÍTULO V
+
+Convocatoria de Elecciones
+
+### Art 8
+
+Art. 8.
+1. La convocatoria de elecciones se realiza por Decreto del Presidente de la Comunidad, que se expedirá en la forma requerida para dar cumplimiento a lo dispuesto en el Estatuto de Autonomía de la Comunidad de Madrid y en la Ley Orgánica del Régimen Electoral General, el día quincuagésimo quinto anterior a la fecha de la celebración de las elecciones.
+2. El Decreto de convocatoria, que será publicado al día siguiente de su expedición en el «Boletín Oficial de la Comunidad de Madrid», fecha en la que entrará en vigor, señalará la fecha de las elecciones, que habrán de celebrarse el cuarto domingo de mayo del año que corresponda, o el día quincuagésimo cuarto posterior a la convocatoria en el supuesto de disolución anticipada.
+3. Cuando se produzca el supuesto previsto en el artículo 18.5 del Estatuto de Autonomía, el Presidente de la Asamblea lo comunicará al Presidente de la Comunidad al día siguiente del vencimiento del plazo que aquel precepto señala. El Decreto de convocatoria de elecciones deberá ser expedido ese mismo día y se publicará en el "Boletín Oficial de la Comunidad de Madrid" al día siguiente hábil, fecha en la que entrará en vigor ; el Decreto de convocatoria señalará la fecha de las elecciones, que se celebrarán el primer domingo siguiente al quincuagésimo cuarto día posterior a la convocatoria.
+En todo lo demás será de aplicación lo previsto en este artículo.
+4. El Decreto de convocatoria debe de especificar el número de Diputados a elegir, de conformidad con lo dispuesto en el artículo 10.2 del Estatuto de Autonomía.
+5. El Decreto de convocatoria fijará el día de la sesión constitutiva de la Asamblea electa, que deberá estar comprendido dentro de los veinticinco días siguientes a la proclamación de los resultados electorales. Si aquél no fuera hábil, se constituirá el día anterior que lo fuera.
+Se modifica el apartado 3 por el art. 1 de la Ley 12/2003, de 26 de agosto. Ref. BOE-A-2003-17747.
+ Se modifican los apartados 1 y 2 por el art. único.1 de la Ley 5/1995, de 28 de marzo. Ref. BOE-A-1995-16408.
+ Se modifican los apartados 1 y 2 por el art. 1 de la Ley 4/1991, de 21 de marzo. Ref. BOE-A-1991-10364.
+ Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## CAPÍTULO VI
+
+Procedimiento Electoral
+
+## Sección 1
+
+Sección 1.a Representantes de las candidaturas ante la Administración Electoral
+
+### Art 9
+
+Art. 9.
+1. A los efectos previstos en el artículo 43 de la Ley Orgánica del Régimen Electoral General, cada uno de los partidos, federaciones y coaliciones que pretendan concurrir a las elecciones designarán por escrito, ante la Junta Electoral Provincial de Madrid, un representante general, que asumirá también las funciones de representante de la candidatura, antes del noveno día posterior a la convocatoria de elecciones. El mencionado escrito deberá expresar la aceptación de la persona designada.
+2. Los promotores de las agrupaciones de electores designarán a sus representantes en el momento de presentación de las candidaturas ante la Junta Electoral Provincial. Dicha designación debe ser aceptada en ese acto.
+3. Los representantes señalados en los apartados anteriores podrán nombrar, con el alcance y en los términos previstos en la Ley Orgánica del Régimen Electoral General, apoderados e interventores.
+
+## Sección 2
+
+Sección 2.a Presentación y Proclamación de candidatos
+
+### Art 10
+
+Art. 10.
+1. De conformidad con lo dispuesto en el artículo 7 de la presente Ley, la Junta Electoral competente para todas las operaciones previstas en el Título I, Capítulo VI, Sección II, de la Ley Orgánica de Régimen Electoral General es la Junta Electoral Provincial de Madrid.
+2. Cada candidatura se presentará mediante listas de candidatos, que deberán incluir tantos candidatos como Diputados a elegir y, además, debe incluir tres candidatos suplentes, con la expresión del orden de colocación de todos ellos.
+3. Para presentar candidaturas, las agrupaciones de electores necesitarán, al menos, la firma del 0,5 por 100 de los electores inscritos en el censo electoral de la circunscripción. Cada elector sólo podrá apoyar una agrupación electoral.
+4. Las candidaturas presentadas y las que resulten proclamadas se publicarán en el «Boletín Oficial de la Comunidad de Madrid» en la forma y plazos señalados en los preceptos de la Ley Orgánica de Régimen Electoral General mencionados en el número 1 de este artículo.
+Redactado el apartado 4 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## Sección 3
+
+Sección 3.a Campaña electoral
+
+### Art 11
+
+Art. 11.
+1. Se entiende por campaña electoral, a efectos de esta Ley, el conjunto de actividades lícitas organizadas o desarrolladas por los candidatos, partidos, federaciones, coaliciones o agrupaciones de electores en orden a la captación libre de votos.
+2. La campaña electoral comienza el día trigésimo octavo posterior a la convocatoria, dura quince días y termina a las cero horas del día inmediatamente anterior a la votación.
+3. Durante el desarrollo de la campaña electoral, el Consejo de Gobierno podrá realizar campaña institucional orientada exclusivamente a fomentar la participación de los electores en la votación sin influir en la orientación de ésta.
+Se modifica el apartado 2 por el art. único.2 de la Ley 5/1995, de 28 de marzo. Ref. BOE-A-1995-16408.
+ Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## Sección 4
+
+Sección 4.a Utilización de medios de comunicación de titularidad pública para la campaña electoral
+
+### Art 12
+
+Art. 12.
+La utilización de medios de comunicación social de titularidad pública, para la campaña electoral, se regirá por lo dispuesto en la Sección VI del Capítulo VI del Título I de la Ley Orgánica de Régimen Electoral General, con las particularidades, en su caso, señaladas en el artículo siguiente.
+
+### Art 13
+
+Art. 13.
+1. Si se produce el supuesto previsto en el artículo 65.6 de la Ley Orgánica del Régimen Electoral General, la Junta Electoral Provincial de Madrid tendrá las competencias que el mencionado artículo 65 atribuye a la Junta Electoral Central, así como la dirección de la Comisión de Radio y Televisión, a que se refiere el número siguiente, y la designación de su Presidente entre sus miembros.
+2. La Comisisón de Radio y Televisión, que será competente para proponer la distribución de los espacios gratuitos de propaganda electoral, estará integrada por un representante de cada partido, federación o coalición que, concurriendo a las elecciones convocadas, cuente con representación en la Asamblea. Dichos representantes votarán ponderadamente de acuerdo con la composición de la Asamblea.
+3. La distribución de tiempo gratuito de propaganda electoral en cada medio de comunicación de titularidad pública se efectúa conforme al siguiente baremo:
+a) Diez minutos para los partidos, federaciones, coaliciones y agrupaciones, que cuenten con un número de Diputados inferior a tres, en la última composición de la Asamblea de Madrid anterior a su disolución.
+En este apartado se incluirán también aquellos partidos, federaciones, coaliciones y agrupaciones que no concurrieron o no obtuvieron representación en las elecciones anteriores.
+b) Veinte minutos para los partidos, federaciones, coaliciones y agrupaciones que cuenten con un número entre tres y veinte Diputados en la última composición de la Asamblea de Madrid anterior a su disolución, o que hubieran alcanzado entre el 5 por 100 y el 20 por 100 del total de los votos válidos emitidos en las anteriores elecciones a la Asamblea.
+c) Treinta minutos para los partidos, federaciones, coaliciones y agrupaciones que cuenten con un número de Diputados superior a veinte en la última composición de la Asamblea de Madrid, o que hubieren alcanzando más de un 20 por 100 del total de los votos válidos emitidos en las anteriores elecciones a la Asamblea.
+4. El derecho a los tiempos de emisión gratuita sólo podrá corresponder a aquellos partidos, federaciones o coaliciones que habiendo presentado candidaturas resultasen proclamadas.
+5. Para la determinación del momento y el orden de emisión de los espacios de propaganda electoral a que tienen derecho todos los partidos, federeciones, coaliciones y agrupaciones que se presenten a las elecciones, la Junta Electoral Provincial de Madrid tendrá en cuenta las preferencias de los partidos, federaciones, coaliciones y agrupaciones en función del número de votos que obtuvieron en las anteriores elecciones a Diputados de la Asamblea de Madrid.
+
+## Sección 5
+
+Sección 5.a Papeletas y sobres electorales
+
+### Art 14
+
+Art. 14.
+1. la Junta Electoral Provincial de Madrid aprobará el modelo oficial de papeletas y sobres electorales, de acuerdo con los criterios establecidos en la Ley Orgánica de Régimen Electoral General, en esta Ley o en otras normas reglamentarias. Dichos modelos oficiales, en el supuesto de coincidencia de las elecciones autonómicas con otras, deberán tener unas características externas que los diferencien.
+2. El Consejo de Gobierno asegurará la disponibilidad de las papeletas y los sobres de votación conforme a lo dispuesto en el artículo siguiente, sin perjuicio de su eventual confección por los Grupos políticos que concurran a las elecciones.
+3. Las papeletas electorales deberán contener las siguientes indicaciones: La denominación, la sigla y el símbolo del partido, federación, coalición o agrupación de electores que presente la candidatura, los nombres y apellidos de los candidatos y de los suplentes, según su orden de colocación. Junto al nombre de los candidatos puede hacerse constar su condición de independiente o, en caso de coaliciones o federaciones, la denominación del partido al que cada uno pertenezca.
+Se modifica el apartado 3 por el art. único.3 de la Ley 5/1995, de 28 de marzo. Ref. BOE-A-1995-16408.
+
+### Art 15
+
+Art. 15.
+1. La confección de las papeletas se iniciará inmediatamente después de la proclamación de los candidatos.
+2. Si se hubieren interpuesto recursos contra la proclamación, de conformidad con lo dispuesto en el artículo 49 de la Ley Orgánica de Régimen Electoral General, la confección de las papeletas correspondientes se pospondrá hasta la resolución de dichos recursos.
+3. Las primeras papeletas confeccionadas se entregarán inmediatamente al Delegado Provincial de la Oficina del Censo Electoral, para su envío a los residentes ausentes que vivan en el extranjero.
+4. El Consejo de Gobierno de la Comunidad de Madrid, en coordinación con la Delegación del Gobierno en Madrid, asegurarán la entrega de las papeletas y sobres en número suficiente a cada una de las Mesas electorales, al menos una hora antes del momento en que deba iniciarse la votación.
+Redactado el apartado 4 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## Sección 6
+
+Sección 6.a Voto por correspondencia
+
+### Art 16
+
+Art. 16.
+Los electores que prevean que en la fecha de la votación no se hallarán en la localidad donde les corresponde ejercer su derecho de voto, o que no podrán personarse, pueden emitir su voto por correo, de acuerdo con lo dispuesto en la Ley Orgánica del Régimen Electoral General.
+
+## Sección 7
+
+Sección 7.a Escrutinio general
+
+### Art 17
+
+Art. 17.
+1. El escrutinio general, que es un acto único y tiene carácter público, se realiza el tercer día siguiente al de la votación por la Junta General Provincial de Madrid y deberá concluir no más tarde del sexto día posterior al de las elecciones.
+2. La Junta Electoral remitirá un ejemplar del acta de proclamación a la Asamblea de Madrid, y procederá a la publicación en el «Boletín Oficial de la Comunidad de Madrid» en un plazo de cuarenta días.
+Se modifica el apartado 1 por el art. 2 de la Ley 4/1991, de 21 de marzo. Ref. BOE-A-1991-10364.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## CAPÍTULO VII
+
+El sistema electoral
+
+### Art 18
+
+Art. 18.
+1. La circunscripción electoral es la Comunidad de Madrid.
+2. Para la distribución de escaños sólo serán tenidas en cuenta las listas que hubieran obtenido, al menos, el 5 por 100 de los sufragios válidamente emitidos.
+3. La atribución de escaños se hará en la forma establecida por la Ley Orgánica de Régimen Electoral General para la atribución de escaños de Diputado del Congreso en las circunscripciones provinciales.
+4. En caso de fallecimiento, incapacidad o renuncia de un Diputado, el escaño será atribuido al candidato o, en su caso, al suplente de la misma lista a quien corresponda, atendiendo a su orden de colocación.
+
+## CAPÍTULO VIII
+
+Gastos y subvenciones electorales
+
+## Sección 1
+
+Sección 1.a Los administradores y las cuentas electorales
+
+### Art 19
+
+Art. 19.
+1. Toda candidatura debe tener un administrador electoral responsable de sus ingresos y gastos, y de su contabilidad.
+2. Los administradores electorales de los partidos políticos, federaciones o coaliciones, que asumirán también las funciones de administradores de las candidaturas, serán designados por escrito ante la Junta Electoral Provincial por sus respectivos representantes antes del undécimo día posterior a la convocatoria. El mencionado escrito deberá expresar la aceptación de la persona designada.
+3. Los administradores de las candidaturas presentadas por las agrupaciones electorales son designados por escrito ante la Junta Electoral Provincial por sus promotores en el acto de presentación de dichas candidaturas. El mencionado escrito deberá expresar la aceptación de la persona designada.
+4. En el supuesto de concurrencia de elecciones, las candidaturas que cualquier partido, federación, coalición o agrupación electoral presenten en el ámbito de la Comunidad de Madrid podrán tener un administrador común, cuya designación será comunicada por la Junta Electoral Provincial a la Junta Electoral Central.
+5. Los administradores comunicarán a la Junta Electoral Provincial las cuentas abiertas para la recaudación de fondos en las veinticuatro horas siguientes a la apertura.
+6. Los candidatos no pueden ser administradores electorales.
+
+### Art 20
+
+Art. 20.
+Si las candidaturas presentadas no fueran proclama-das o renunciasen a concurrir a la elección, las imposiciones realizadas por terceros en estas cuentas les deberán ser restituidas por los partidos, federaciones, coaliciones o agrupaciones que las promovieron.
+
+## Sección 2
+
+Sección 2.a Gastos electorales
+
+### Art 21
+
+Art. 21.
+1. Ningún partido, federación, coalición o agrupación puede realizar gastos electorales que superen la cantidad resulante de multiplicar por 35 pesetas el número de habitantes correspondiente a la población de derecho de la Comunidad de Madrid.
+2. La cantidad mencionada se refiere a pesetas constantes. Por Orden de la Consejería de Economía y Hacienda, se fijará la cantidad actualizada en los cinco días siguientes a la convocatoria.
+3. En el supuesto de coincidencia de las elecciones a la Asamblea de Madrid con alguna otra por sufragio universal directo, será de aplicación lo dispuesto en el artículo 131.2 de la Ley Orgánica de Régimen Electoral General.
+4. En todo caso, serán de aplicación en las elecciones a la Asamblea de Madrid los límites de gastos establecidos en los artículos 55 y 58 de la citada Ley Orgánica.
+Se modifica el apartado 3 y se añade apartado 4 por el art. único.4 y 5 de la Ley 5/1995, de 28 de marzo. Ref. BOE-A-1995-16408.
+
+## Sección 3
+
+Sección 3.a Financiación electoral
+
+### Art 22
+
+Art. 22.
+1. La Comunidad de Madrid subvenciona los gastos que originen las actividades electorales de acuerdo con las siguientes reglas:
+Primera: 1.400.000 pesetas por cada escaño obtenido.
+Segunda: 70 pesetas por cada voto conseguido por la candidatura, siempre que hubiera obtenido al menos el 3 por 100 de los votos emitidos.
+2. Con independencia de las subvenciones a que se refiere el apartado anterior, y, por lo tanto, sin sujeción al límite que señala el artículo 21, la Comunidad de Madrid subvencionará a los partidos, federaciones, coaliciones y agrupaciones los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales, o de propaganda y publicidad electoral, correspondientes a las elecciones a la Asamblea de Madrid cuando no concurran con ningún otro proceso electoral, de acuerdo con las siguientes reglas:
+a) Se abonará la cantidad de 0,18 euros por elector siempre que la candidatura hubiera obtenido el 3 por 100 de los votos emitidos.
+b) El importe de las subvenciones no se hará efectivo sin que previamente se haya acreditado la realización de la actividad que determina el derecho a su obtención.»
+3. Las cantidades expresadas se actualizarán según lo dispuesto en el número 2 del artículo anterior.
+4. En ningún caso la subvención, o la suma de las subvenciones percibidas en el supuesto de elecciones coincidentes, correspondiente a cada partido, federación, coalición o agrupación podrá sobrepasar la cifra de gastos electorales declarados justificados por el Tribunal de Cuentas en el ejercicio de su función fiscalizadora.
+Se modifica el apartado 2 por el art. 8 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se añade apartado 2 por el art. 2 de la Ley12/2003, de 26 de agosto. Ref. BOE-A-2003-17747.
+
+### Art 23
+
+Art. 23.
+1. La Comunidad de Madrid concede adelantos de las subvenciones mencionadas a los partidos, federaciones y coaliciones que concurran a las elecciones convocadas y cuenten con representación en la Asamblea de Madrid. La cantidad adelantada no puede exceder del 30 por 100 de la subvención percibida por el mismo partido, federación o coalición en las últimas elecciones a aquélla.
+2. Los adelantos pueden solicitarse entre los días vigésimo primero y vigésimo tercero posteriores a la convocatoria.
+3. Las solicitudes se presentarán por los administradores electorales ante la Junta Electoral Provincial de Madrid.
+4. A partir del vigésimo noveno día posterior a la convocatoria, la Administración Autonómica pone a disposición de los administradores electorales los adelantos correspondientes.
+5. Los adelantos se devolverán, después de las elecciones, en la cuantía que supere el importe de la subvención que finalmente haya correspondido a cada partido, federación o coalición.
+Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+## Sección 4
+
+Sección 4.a Control de la contabilidad electoral y adjudicación de las subvenciones
+
+### Art 24
+
+Art. 24.
+1. El control de la contabilidad electoral se efectuará en la forma y plazos señalados por las artículos 132 a 134 de la Ley Orgánica del Régimen Electoral General. El informe del Tribunal de Cuentas se remitirá al Consejo de Gobierno y a la Comisión de Presupuestos, Economía y Hacienda de la Asamblea de Madrid.
+2. Dentro del mes siguiente a la remisión de informe del Tribunal de Cuentas, el Consejo de Gobierno presentará a la Asamblea un Proyecto de Crédito Extraordinario por el importe de las subvenciones a adjudicar, las cuales deben ser hechas efectivas dentro de los cien días posteriores a su aprobación por la Asamblea de Madrid.
+
+### Art 25
+
+Art. 25.
+1. No obstante lo dispuesto en el artículo anterior, los partidos, federaciones, coaliciones o agrupaciones podrán solicitar de la Administración Autonómica, durante el mes siguiente a la terminación del plazo señalado en el artículo 133.1 de la Ley Orgánica del Régimen Electoral General, en concepto de liquidación provisional a cuenta de la definitiva subvención, el pago del 80 por 100 de importe que se prevea ha de alcanzar ésta en función de los resultados electorales. De dicha liquidación provisional se detraerá el importe del adelanto ya percibido por aplicación del artículo 23.1.
+A tal fin, presentarán ante la Administración Autonómica copia debidamente diligenciada de la contabilidad detallada y documentada que han de presentar ante el Tribunal de Cuentas, de conformidad con el artículo 133.1 de la mencionada Ley Orgánica. Igualmente, presentarán, con las mismas garantías y en el plazo de tres días, las aclaraciones y documentos suplementarios que el Tribunal de Cuentas les haya recabado, en aplicación del artículo 134.1 de la propia Ley Orgánica.
+2. Dentro del mes siguiente a la terminación del plazo para la presentación de solicitudes a que se refiere el número anterior, el Consejo de Gobierno presentará a la Asamblea un Proyecto de Crédito Extraordinario por el importe de las liquidaciones provisionales a adjudicar, las cuales deben ser hechas efectivas dentro de los treinta días posteriores a la aprobación por la Asamblea de Madrid.
+
+### Art. 26
+
+Art. 26.
+La Administración Autonómica entregará el importe de las subvenciones a los Administradores electorales de las Entidades que deban percibirlas, a no ser que aquéllos hubieran notificado a la Junta Electoral Provincial que las subvenciones sean abonadas en todo o en parte a las Entidades bancarias que designen, para compensar los anticipos o créditos que les hayan otorgado. La Administración Autonómica verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin consentimiento de la Entidad de crédito beneficiaria.
+Redactado conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se autoriza al Consejo de Gobierno para que, previo informe favorable de la Comisión de Presupuestos, Economía y Hacienda de la Asamblea o, en su caso, de la Diputación Permanente, apruebe un crédito extraordinario para la dotación de los gastos electorales de carácter institucional y los anticipos de subvenciones previstos en esta Ley.
+Redactado conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En lo no previsto en esta Ley será de aplicación lo dispuesto en el título I de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, con las adaptaciones que sean precisas, derivadas del carácter y ámbito de las Elecciones a la Asamblea de Madrid.
+
+## Disposición transitoria 
+
+Disposición transitoria.
+El régimen de incompatibilidades dispuesto en esta Ley para los Diputados de la Asamblea de Madrid se aplicará a partir de las primeras elecciones que a dicha Asamblea se celebren.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el cumplimiento y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido por esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiendo también ser publicada en el «Boletín Oficial del Estado».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 16 de diciembre de 1986.
+JOAQUÍN LEGUINA HERRÁN,
+Presidente de la Comunidad de Madrid.
+Redactado conforme a la corrección de errores publicada en el BOE núm. 62, de 13 de marzo de 1987. Ref. BOE-A-1987-6485.

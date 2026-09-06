@@ -1,0 +1,49 @@
+# Ley 33/1981, de 5 de octubre, del Escudo de España.
+
+- Identificador BOE: `BOE-A-1981-24155`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1981-24155
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+El escudo de España es cuartelado y entado en punta. En el primer cuartel, de gules o rojo, un castillo de oro, almenado, aclarado de azur o azul y mazonado de sable o negro. En el segundo, de plata, un león rampante, de púrpura, linguado, uñado, armado de gules o rojo y coronado de oro. En el tercero, de oro, cuatro palos, de gules o rojo. En el cuarto, de gules o rojo, una cadena de oro, puesta en cruz, aspa y orla, cargada en el centro de una esmeralda de su color. Entado de plata, una granada al natural, rajada de gules o rojo, tallada y hojada de dos hojas, de sinople o verde.
+Acompañado de dos columnas, de plata, con base y capitel, de oro, sobre ondas de azur o azul y plata, superada de corona imperial, la diestra, y de una corona real, la siniestra, ambas de oro, y rodeando las columnas, una cinta de gules o rojo, cargada de letras de oro, en la diestra «Plus» y en la siniestra «Ultra».
+Al timbre, corona real, cerrada, que es un círculo de oro, engastado de piedras preciosas, compuesto de ocho florones de hojas de acanto, visibles cinco, interpoladas de perlas y de cuyas hojas salen sendas diademas sumadas de perlas, que convergen en un mundo de azur o azul, con el semimeridiano y el ecuador de oro, sumado de cruz de oro. La corona, forrada de gules o rojo.
+
+### Artículo segundo
+
+Artículo segundo.
+El Escudo de España, tal como se describe en el artículo anterior, lleva escusón de azur o azul, tres lises de oro, puestas dos y una, la bordura lisa, de gules o rojo, propio de la dinastía reinante.
+
+### Artículo tercero
+
+Artículo tercero.
+Por Real Decreto se hará público el modelo oficial del Escudo de España regulado por la presente Ley.
+
+## DISPOSICIONES TRANSITORIAS
+
+### Primera
+
+Primera.
+Los distintos organismos públicos que utilicen el escudo de España dispondrán de un plazo máximo de tres años para sustituir el escudo hoy en uso.
+
+### Segunda
+
+Segunda.
+Se mantendrán los escudos existentes en aquellos edificios declarados monumentos histórico-artísticos. Igualmente se mantendrán en aquellos monumentos, edificios o construcciones de cuya ornamentación formen parte sustancial o cuya estructura pudiera quedar dañada al separar los escudos.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de La Zarzuela, Madrid, a cinco de octubre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

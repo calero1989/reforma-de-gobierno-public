@@ -1,0 +1,403 @@
+# Real Decreto-ley 7/1996, de 7 de junio, sobre medidas urgentes de carácter fiscal y de fomento y liberalización de la actividad económica.
+
+- Identificador BOE: `BOE-A-1996-13002`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-13002
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+El presente Real Decreto-ley se refiere a dos grandes grupos de medidas. El primero aborda las cuestiones sobre fomento del empleo y beneficios fiscales en la sucesión de empresas familiares y viviendas habituales; medida sobre actualización de balances de las empresas y medidas sobre tributación del ahorro en el Impuesto sobre la Renta de las Personas Físicas.
+El segundo grupo se refiere a un conjunto de medidas de fomento y de liberalización de la actividad económica.
+Las medidas de empleo se justifican en los momentos por los que atraviesa nuestra economía, por lo que todo beneficio fiscal que pueda concederse y, especialmente, si está dirigido a la creación de empleo, debe redundar en el potenciamiento de aquélla; sobre todo si afecta, además, a un sector tan sensible como el de las pequeñas y medianas empresas, que aglutinan una gran parte del empleo. A esta finalidad responden las tres medidas que se adoptan. Las dos primeras se refieren a la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y consisten en el no cómputo durante 1996 como personas asalariadas de los trabajadores contratados por tiempo indefinido con posterioridad a la entrada en vigor de este Real Decreto-ley; y en una ampliación desde el 8 hasta el 15 por 100 de la reducción general del rendimiento neto. La tercera medida afecta tanto al Impuesto sobre Sociedades como al Impuesto sobre la Renta de las Personas Físicas, consistiendo en una deducción en la cuota de 1.000.000 de pesetas para las sociedades y empresarios o profesionales que contraten, con posterioridad a la entrada en vigor de esta norma y por tiempo indefinido, trabajadores mayores de cuarenta y cinco años.
+Las medidas sobre el Impuesto sobre Sucesiones y Donaciones pretenden aliviar el coste fiscal derivado de la transmisión «mortis causa» de las empresas familiares (en su forma de empresa individual o de participaciones) y de la vivienda habitual, cuando dicha transmisión se efectuase a favor de ciertas personas allegadas al fallecido.
+En materia de actualización de balances, para nadie es desconocido el amplio arraigo y significación que, en nuestra práctica tributaria, han tenido y tienen las normas de actualización de balances. En efecto, con una cierta periodicidad, la autoridad económica, consciente de las dificultades que las tensiones inflacionistas causan a nuestras empresas, ha procedido a la autorización de la actualización monetaria de valores contables sin carga fiscal o con una carga fiscal simbólica.
+El escenario económico actual y el hecho de haber transcurrido más de doce años desde la última actualización autorizada, considerando además la reciente entrada en vigor de una Ley del Impuesto sobre Sociedades, justifica plenamente la norma de actualización contenida en el presente Real Decreto-ley, que permitirá, entre otras ventajas, a nuestras empresas conocer sus costes reales de producción, determinar más exactamente su beneficio y potenciar la financiación interna de las mismas elevando, por tanto, su capacidad de acceso al mercado de capitales.
+Debido a la existencia de abundantes antecedentes normativos sobre la actualización de balances en nuestro ordenamiento tributario, la presente norma de actualización incorpora, en buena medida, técnicas de actualización que son bien conocidas para nuestras empresas, lo que contribuirá a la correcta aplicación de las mismas. En este sentido, debe señalarse el texto refundido de la Ley sobre Regularización de Balances de 1964 y la Ley 9/1983, de Presupuestos Generales del Estado.
+Por otra parte, el presente Real Decreto-ley establece un gravamen único sobre el saldo de la cuenta de actualización del 3 por 100 con el objetivo de garantizar el adecuado control de la operación de actualización.
+Obviamente, la modernización de nuestro sistema tributario determina que la presente norma de actualización incorpore algunas novedades en relación a los precedentes anteriormente citados. En este sentido, junto a las notas tradicionales de voluntariedad y fundamento técnico basado en la actualización mediante una tabla de coeficientes a aplicar sobre las inversiones materiales y sus amortizaciones, aparecen otras notas que encierran una cierta novedad:
+En primer lugar, la aplicación de la actualización respecto de los sujetos pasivos del Impuesto sobre Sociedades y del Impuesto sobre la Renta de las Personas Físicas que realicen actividades empresariales o profesionales, al efecto de procurar un fiel respeto al principio de neutralidad.
+En segundo lugar, la posibilidad de incorporar el efecto del modo de financiación de la empresa, en la forma que reglamentariamente se determine, atendiendo, de esta manera, a la diferente incidencia de la depreciación monetaria en razón a la composición de las fuentes de financiación de la empresa. Esta novedad resulta obligada a la vista del mecanismo de corrección que establece el artículo 15.11 de la Ley del Impuesto.
+Finalmente, la posibilidad de distribuir el saldo de la cuenta de actualización, dando derecho a la deducción por doble imposición de dividendos en los términos previstos en el artículo 28 de la Ley 43/1995, del Impuesto sobre Sociedades, una vez transcurrido el plazo legalmente establecido, debiendo observarse que la medida enunciada supera en sencillez y operatividad a la más compleja y discutible consistente en la actualización de los valores representativos del capital social.
+Por otra parte, especial importancia revisten las medidas sobre tributación del ahorro en el Impuesto sobre la Renta de las Personas Físicas.
+El sistema diseñado por la Ley 18/1991, de 6 de junio, se caracterizaba porque la determinación del importe sometido a gravamen de los incrementos y disminuciones de patrimonio, consistía en el establecimiento de unos porcentajes reductores, de forma tal que, transcurrido un determinado período de tiempo -que variaba en función de la naturaleza del elemento-, los incrementos y disminuciones quedaban no sujetos. Este esquema cuenta con dos inconvenientes esenciales: de una parte, reduce tanto los incrementos como las disminuciones de patrimonio, con lo cual produce un efecto fiscal contrario a la lógica económica, pues no solo desconoce el efecto de la inflación, sino que también reduce fiscalmente las pérdidas; y de otra, la existencia de un horizonte temporal fomenta el estancamiento de las inversiones, dado que existe un gran incentivo fiscal para mantener la inversión hasta que transcurre el plazo en que se alcanza la no sujeción de los incrementos.
+El Gobierno considera de urgente necesidad, para el relanzamiento de nuestra economía, el remover este obstáculo fiscal, liberando de esta cautividad a muchas inversiones, sin que desaparezcan, por otra parte, los incentivos que a la inversión a largo plazo supone el diferimiento de gravamen y la garantía de un tipo fijo. Por otra parte, también se requiere ser respetuoso con quienes planificaron sus inversiones al amparo de las expectativas generadas por la Ley 18/1991, a cuyo efecto se crea un régimen transitorio que favorece el paso hacia el nuevo sistema.
+A partir de la entrada en vigor del presente Real Decreto-ley existirán dos regímenes diferentes; uno, el aplicable a las plusvalías y minusvalías resultantes de elementos patrimoniales adquiridos a partir de su entrada en vigor. Este nuevo sistema gravará las plusvalías reales, y para las obtenidas en más de dos años, contará, en la generalidad de los casos, con un mínimo exento de 200.000 pesetas y un tipo del 20 por 100; y otro, el transitorio, aplicable a los incrementos y disminuciones derivados de elementos adquiridos con anterioridad a la entrada en vigor de esta norma. Este último, se caracteriza porque, por una parte, consolidará una reducción del incremento de patrimonio del doble de aquélla a que tuviese derecho el sujeto pasivo, con arreglo al régimen anterior de este Real Decreto-ley, un límite temporal: 31 de diciembre de 1996; y, por otra, porque no reducirá las disminuciones de patrimonio. A ello deberá añadirse, de un lado, la corrección del valor de adquisición si el elemento se transmitiese a partir de 1997 y, de otro, el tipo de gravamen, que para 1996 será el vigente hasta la entrada en vigor del Real Decreto-ley, si bien limitando al 20 por 100 el tipo aplicable a incrementos de patrimonio irregulares y que para las transmisiones que se efectúen a partir de 1 de enero de 1997 el tipo aplicable será el señalado para el nuevo sistema.
+Finalmente, y teniendo en cuenta la constitución del nuevo Gobierno y la reestructuración llevada a cabo en algunos Ministerios, resulta imprescindible prorrogar la autorización concedida al Gobierno en el Real Decreto-ley 2/1996, de 26 de enero, sobre determinadas prestaciones patrimoniales de carácter público gestionadas por la Administración General del Estado y los entes públicos de ella dependientes, para remitir a las Cortes el correspondiente proyecto de Ley de reordenación de la regulación de las prestaciones patrimoniales afectadas por la Sentencia del Tribunal Constitucional 185/1995, de 24 de diciembre.
+El segundo gran grupo de medidas tiene como objetivo el fomento y la liberalización de la actividad económica.
+Así, en materia de defensa de la competencia, resulta preciso dotar de mayor transparencia y agilidad al tratamiento de las conductas y prácticas restrictivas, modificándose a tal efecto la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, clarificando algunos aspectos de la misma.
+En materia de precios, las condiciones cambiantes de los mercados han determinado que en los últimos años el ámbito de los precios autorizados y comunicados se haya reducido significativamente en España. De los escasos precios aún sometidos a autorización en el ámbito nacional, algunos están en disposición de ser liberalizados gracias a la creciente competencia en determinados sectores. Otros, por contra, han de continuar por el momento sujetos a la aprobación del Gobierno, si bien la experiencia internacional aconseja que su seguimiento y autorización competa a órganos reguladores independientes y sectoriales. En este contexto, la competencia de informar las modificaciones del precio de la electricidad debe continuar en la Comisión del Sistema Eléctrico Nacional y la de las tarifas telefónicas y de algunos servicios de telecomunicaciones deberá ser competencia de la Comisión del Mercado de las Telecomunicaciones, que se crea mediante el Real Decreto-ley 6/1996. Por todo lo anterior, la Junta Superior de Precios ha ido quedando vacía de contenido en lo que respecta a la regulación de precios, por lo que no es preciso el mantenimiento de este órgano para desarrollar únicamente las funciones estadísticas que se le imputan.
+En lo que se refiere a las sociedades y fondos de capital riesgo, las modificaciones introducidas clarifican y amplían su objeto de actividad, además de mejorar su tratamiento fiscal. También en el ámbito financiero, se regulan los préstamos participativos, al objeto de adaptar su utilización a las nuevas necesidades.
+En materia de Servicios Funerarios, se liberaliza su prestación y se suprime la consideración de los servicios mortuorios como servicios esenciales reservados a las Entidades Locales.
+En el ámbito de la distribución de carburantes, la Ley 34/1992, de 22 de diciembre, de Ordenación del Sector Petrolero, declara en su artículo primero extinguido el Monopolio de Petróleos. Una vez culminada la operación de segregación y escisión de los activos del Monopolio y tras la entrada en vigor de la Ley de Ordenación del Sector Petrolero, la notable concentración de la oferta en materia de logística primaria viene suponiendo un obstáculo significativo a la profundización de la competencia, especialmente en el mercado de las gasolinas y de los fuelóleos, aunque se den todas las demás condiciones regulatorias normales para que ésta se desarrolle.
+Por otra parte, el Real Decreto-ley 4/1991, de 29 de noviembre, de medidas urgentes para la progresiva adaptación del sector petrolero al marco comunitario, contemplaba la desmonopolización de la distribución de los gases licuados del petróleo. Al igual que en el caso anterior, la concentración de la logística primaria y de transporte en manos de la antigua titular de la gestión del Monopolio de distribución de los Gases Licuados del Petróleo (GLP), hoy «Repsol Butano, Sociedad Anónima», dificulta el acceso a este mercado por parte de empresas competidoras. Por todo ello, el presente Real Decreto-ley establece que las instalaciones de recepción, almacenamiento y transporte propiedad de la «Compañía Logística de Hidrocarburos, Sociedad Anónima» (CLH), de «Repsol Butano, Sociedad Anónima» y de «Distribuidora Industrial, Sociedad Anónima» (DISA) podrán ser utilizadas por terceros en condiciones no discriminatorias, transparentes y objetivas.
+Finalmente, por lo que respecta a los funcionarios del Cuerpo de Controladores Laborales, se eleva el rango de su normativa funcional, en lo relativo a la entrada y permanencia en los centros y lugares de trabajo y a su configuración como agentes de la autoridad, a fin de adecuarlo a las exigencias del nuevo Código Penal.
+El Gobierno se enfrenta a un reto excepcional derivado de la necesidad de cumplir las exigencias de la política económica comunitaria, para poder acceder a la tercera fase de la Unión Monetaria.
+Ello exige un inmenso esfuerzo en el que no solo debe participar el Estado, sino la sociedad entera. Y habida cuenta de que el plazo para acceder a aquella fase finaliza el 31 de diciembre de 1997, es preciso desde este momento acometer el objetivo desde todos los frentes. De ahí la extraordinaria y urgente necesidad de las medidas que se contienen en el presente Real Decreto-ley.
+En su virtud, y a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y de los Ministros de Justicia, Industria y Energía, Trabajo y Asuntos Sociales y Administraciones Públicas previa deliberación del Consejo de Ministros en su reunión del día 7 de junio, en uso de la autorización concedida en el artículo 86 de la Constitución,
+DISPONGO:
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## TÍTULO I
+
+Medidas urgentes de carácter fiscal
+
+## CAPÍTULO I
+
+Medidas sobre fomento del empleo y beneficios fiscales en la sucesión de empresas familiares y vivienda habitual
+
+### Artículo 1
+
+Artículo 1. Creación de empleo en signos, índices o módulos.
+A efectos de determinar el rendimiento neto de las actividades a las que resulte aplicable y por las que no se haya renunciado a la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, no se computarán como personas asalariadas, en el ejercicio 1996, los trabajadores contratados por tiempo indefinido con posterioridad a la entrada en vigor del presente Real Decreto-ley y que a 31 diciembre de 1996 o el día de cese en el ejercicio de la actividad, si fuese anterior, continúen en plantilla.
+La aplicación de lo dispuesto en el párrafo anterior exigirá que el número de personas asalariadas a 31 diciembre de 1996 o al día de cese en el ejercicio de la actividad, si fuese anterior, sea superior al número de las existentes el día anterior a la entrada en vigor del presente Real Decreto-ley. A estos efectos se computarán como personas asalariadas las que presten sus servicios al empresario en todas las actividades que desarrolle, con independencia del método o modalidad de determinación del rendimiento neto de cada una de ellas.
+
+### Artículo 2
+
+Artículo 2. Reducción del rendimiento neto en estimación objetiva por signos, índices o módulos.
+El rendimiento neto de las actividades a las que resulte aplicable y por las que no se haya renunciado a la modalidad de signos, índices o módulos del método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas podrá reducirse en un 15 por 100 durante 1996.
+El rendimiento neto a que se refiere el párrafo anterior será el resultante exclusivamente de la aplicación de las normas que regulan la modalidad de signos, índices o módulos del método de estimación objetiva.
+La reducción se tendrá en cuenta a efectos de los pagos fraccionados correspondientes al ejercicio 1996 que deban efectuarse con posterioridad a la entrada en vigor del presente Real Decreto-ley.
+Esta reducción será compatible con la prevista en el artículo 13, apartado 1, del Real Decreto-ley 3/1993, de 26 de febrero, de medidas urgentes sobre materias presupuestarias, tributarias, financieras y de empleo.
+
+### Artículo 3
+
+Artículo 3. Deducción en la cuota por creación de empleo.
+Los sujetos pasivos del Impuesto sobre Sociedades podrán deducir de la cuota íntegra correspondiente al primer período impositivo que concluya después de la entrada en vigor del presente Real Decreto-ley, la cantidad de 1.000.000 de pesetas por cada trabajador contratado por tiempo indefinido con posterioridad a la entrada en vigor de esta norma, siempre que dicho trabajador sea mayor de 45 años o minusválido, con el límite del incremento de hombres/año empleados correspondiente a ese período impositivo en relación al inmediato anterior, debiendo mantenerse el incremento de plantilla durante dos años como mínimo.
+Esta deducción se perderá cuando los trabajadores que generaron este derecho permanezcan en la empresa menos de dos años, salvo que se contrate otro con las mismas condiciones sin que dé derecho a la deducción.
+Lo previsto en el párrafo anterior también será de aplicación para el ejercicio 1996 a los sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas que desarrollen actividades empresariales o profesionales y que determinen su rendimiento neto mediante el método de estimación directa.
+Los trabajadores contratados que dieran derecho a la deducción prevista en este artículo no se computarán a efectos de la libertad de amortización con creación de empleo regulada en el Real Decreto-ley 7/1994, de 20 de junio y en el Real Decreto-ley 2/1995, de 17 de febrero, y en el artículo 123 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+### Artículo 4
+
+Artículo 4. Reducciones en el Impuesto sobre Sucesiones y Donaciones en la transmisión de la empresa familiar y de la vivienda habitual.
+Se introduce un apartado 5 en el artículo 20 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, con el siguiente contenido:
+«5. En los casos en los que en la base imponible de una adquisición "mortis causa" que corresponda a los cónyuges, descendientes o adoptados de la persona fallecida, estuviese incluido el valor de una empresa individual o de participaciones en entidades a las que sea de aplicación la exención regulada en el punto dos del apartado octavo del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, para obtener la base liquidable, se aplicará en la imponible, con independencia de las reducciones que procedan con arreglo a los apartados anteriores, otra del 95 por 100 del mencionado valor, siempre que la adquisición se mantenga, durante los diez años siguientes al fallecimiento del causante, salvo que, a su vez, falleciese el adquirente dentro de este plazo.
+Del mismo porcentaje de reducción, con límite de 20 millones de pesetas por cada sujeto pasivo y con el requisito de permanencia señalado anteriormente, gozarán las adquisiciones "mortis causa" de la vivienda habitual de la persona fallecida, siempre que los causahabientes sean cónyuge, ascendientes o descendientes de aquél, o bien pariente colateral mayor de sesenta y cinco años, que hubiese convivido con el causante durante los dos años anteriores al fallecimiento.
+En el caso de no cumplirse el requisito de permanencia al que se refiere el presente apartado, deberá pagarse la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada y los intereses de demora.»
+
+## CAPÍTULO II
+
+Medidas sobre actualización de balances de las empresas con pago de un gravamen único del 3 por 100 sobre las revalorizaciones de activos
+
+### Artículo 5
+
+Artículo 5. Actualización de balances.
+1. Podrán acogerse, con carácter voluntario, a la actualización de valores regulada en la presente disposición:
+a) Los sujetos pasivos del Impuesto sobre Sociedades por obligación personal de contribuir.
+b) Los sujetos pasivos del Impuesto sobre Sociedades o del Impuesto sobre la Renta de las Personas Físicas por obligación real de contribuir mediante establecimiento permanente.
+c) Los sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas que realicen actividades empresariales y lleven su contabilidad de acuerdo con lo dispuesto en el Código de Comercio, y los que realicen actividades profesionales siempre que cumplan con las obligaciones registrales que reglamentariamente se establezcan a estos efectos.
+2. Serán actualizables los elementos patrimoniales del inmovilizado material situados tanto en España como en el extranjero. Tratándose de sujetos pasivos por obli gación real de contribuir mediante establecimiento permanente, los elementos patrimoniales deberán estar afectos a dicho establecimiento permanente.
+También serán actualizables los elementos patrimoniales adquiridos en régimen de arrendamiento financiero a que se refiere el apartado 1 de la disposición adicional séptima de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, y los solares y terrenos de las empresas inmobiliarias.
+La actualización se referirá necesariamente a la totalidad de los elementos patrimoniales susceptibles de la misma.
+3. La actualización de valores se practicará respecto de los elementos del inmovilizado material que figuren en el primer balance cerrado con posterioridad a la entrada en vigor de la presente disposición, siempre que se encuentren efectivamente en estado de uso y utilización y que no se hallen fiscalmente amortizados.
+El importe de las revalorizaciones contables que resulten de las operaciones de actualización se llevarán a la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio, que formará parte de los fondos propios.
+Las operaciones de actualización se realizarán dentro del período comprendido entre la fecha de cierre del balance a que se refiere el párrafo primero del presente apartado y el día en que termine el plazo para su aprobación. En la declaración correspondiente al balance actualizado, que deberá presentarse dentro del plazo legalmente establecido, constará dicho balance y la información complementaria que se determine por el Ministro de Economía y Hacienda. Tratándose de personas jurídicas, el balance actualizado deberá estar aprobado por el órgano social competente.
+4. No podrán acogerse a la presente disposición las operaciones de incorporación de elementos patrimoniales no registrados en los libros de contabilidad ni las de eliminación de dichos libros de los pasivos inexistentes.
+5. Los sujetos pasivos que practiquen la actualización deberán satisfacer un gravamen único del 3 por 100 sobre el saldo acreedor de la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio. Este gravamen se ingresará conjuntamente con la declaración por el Impuesto sobre Sociedades o por el Impuesto sobre la Renta de las Personas Físicas relativa al período impositivo al que corresponda el balance en el que constan las operaciones de actualización.
+El importe del gravamen único no tendrá la consideración de cuota del Impuesto sobre Sociedades ni del Impuesto sobre la Renta de las Personas Físicas, su importe se cargará a la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio, y no tendrá la consideración de gasto fiscalmente deducible de los tributos anteriormente referidos.
+El gravamen único tendrá la consideración de deuda tributaria.
+6. Las operaciones de actualización se practicarán aplicando los coeficientes que reglamentariamente se determinen. A estos efectos, el Gobierno, antes de que finalice el presente año, aprobará la tabla de coeficientes de actualización que enlazará con la actualización de elementos patrimoniales autorizada por la Ley 9/1983, de 13 de julio, de Presupuestos Generales del Estado. En dicha tabla se recogerá la depreciación producida desde la actualización autorizada por la Ley 9/1983, y se podrán tomar en consideración las circunstancias relativas a la forma de financiación de las empresas y profesionales, sea a través de los propios coeficientes contenidos en la misma o mediante un coeficiente específico, así como las circunstancias derivadas de las actividades que realizan dichos empresarios o profesionales.
+Los coeficientes se aplicarán de la siguiente manera:
+a) Sobre el precio de adquisición o coste de producción, atendiendo al año de adquisición o producción del elemento patrimonial. El coeficiente aplicable a las mejoras será el correspondiente al año en que se hubieran realizado.
+b) Sobre las amortizaciones correspondientes al precio de adquisición o coste de producción que fueron fiscalmente deducibles, atendiendo al año en que se dedujeron. No obstante, se tomarán, como mínimo, las amortizaciones que debieron realizarse con dicho carácter.
+Tratándose de elementos patrimoniales adquiridos en régimen de arrendamiento financiero, se considerarán amortizaciones, a los exclusivos efectos de la presente actualización, las recuperaciones de coste que hayan sido fiscalmente deducibles.
+Tratándose de elementos patrimoniales contenidos en el primer balance cerrado en o a partir de 31 de diciembre de 1983, se considerará como precio de adquisición o coste de producción de los mismos el valor que tenían en dicho balance.
+Tratándose de elementos patrimoniales que hubieran sido, con posterioridad a la fecha del cierre del balance a que se refiere el párrafo anterior, objeto de revalorizaciones, incluso las amparadas por la Ley 76/1980, de 26 de diciembre, sobre Régimen Fiscal de las Fusiones de Empresas, los coeficientes se aplicarán sobre el precio de adquisición o coste de producción, sin tomar en consideración las mencionadas revalorizaciones.
+7. La diferencia entre las cantidades determinadas por aplicación de lo previsto en los párrafos a) y b) del apartado anterior y el valor anterior a la realización de las operaciones de actualización de los elementos patrimoniales, teniendo en cuenta las amortizaciones que fueron fiscalmente deducibles, será el importe de la plusvalía debido a la depreciación monetaria. El importe resultante se abonará a la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio, y sumado al valor anterior a la realización de las operaciones de actualización, teniendo en cuenta las amortizaciones que fueron fiscalmente deducibles, determinará el nuevo valor del elemento patrimonial actualizado.
+El nuevo valor resultante de la actualización no podrá exceder del valor de mercado de los elementos patrimoniales actualizados, teniendo en cuenta su estado de uso en función de sus desgastes técnicos y económicos y de la utilización que de ellos se haga por el sujeto pasivo.
+8. El saldo de la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio, no se integrará en la base imponible del Impuesto sobre Sociedades ni del Impuesto sobre la Renta de las Personas Físicas.
+El nuevo valor resultante de la actualización se amortizará, en la forma que reglamentariamente se determine, a partir del primer período impositivo siguiente a la fecha de cierre del balance al que se refieren las operaciones de actualización, pero no surtirá efectos en el primer pago fraccionado que se realice en relación a los períodos impositivos que se inicien durante 1997 por la modalidad prevista en el apartado 3 del artículo 38 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades ni en los dos primeros pagos fraccionados a efectuar en 1997 del Impuesto sobre la Renta de las Personas Físicas.
+9. El saldo de la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio será indisponible hasta que sea comprobado y aceptado por la Administración tributaria. Dicha comprobación deberá realizarse dentro de los tres años siguientes a la fecha de cierre del balance en el que consten las operaciones de actualización, en la forma que reglamentariamente se determine. Una vez efectuada la comprobación o transcurrido el plazo para realizar la misma, el saldo de la cuenta podrá destinarse a la eliminación de resultados contables negativos, a la ampliación del capital social o, transcurridos diez años contados a partir de la fecha de cierre del balance en el que se reflejaron las operaciones de actualización, a reservas de libre disposición. Dichas reservas darán derecho a la deducción por doble imposición de dividendos prevista en el artículo 28 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+La aplicación del saldo de la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio a finalidades distintas de las previstas en el párrafo anterior, determinará la integración del mismo en la base imponible del período impositivo en el que dicha aplicación se produjo, no pudiendo compensarse con dicho saldo las bases imponibles negativas de períodos impositivos anteriores.
+10. Las pérdidas habidas en la transmisión de elementos patrimoniales actualizados se minorarán, a los efectos de su integración en la base imponible, en el importe del saldo de la cuenta Reserva de revalorización Real Decreto-ley 7/1996, de 7 de junio correspondiente a dichos elementos. Dicho saldo será disponible.
+
+## CAPITULO III
+
+Medidas fiscales urgentes sobre tributación del ahorro en el Impuesto sobre la Renta de las Personas Físicas
+
+### Artículo 6
+
+Artículo 6. Modificación del artículo 45 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 7
+
+Artículo 7. Modificación del artículo 46 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 8
+
+Artículo 8. Modificación del artículo 66 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 9
+
+Artículo 9. Modificación del artículo 67 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 10
+
+Artículo 10. Modificación del artículo 72 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 11
+
+Artículo 11. Modificación del artículo 75 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 12
+
+Artículo 12. Modificación de la disposición transitoria quinta de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 13
+
+Artículo 13. Incrementos y disminuciones de patrimonio derivados de elementos patrimoniales adquiridos con anterioridad a la entrada en vigor del presente Real Decreto-ley.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Artículo 14
+
+Artículo 14. Tipo de gravamen de las rentas irregulares en 1996.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## TÍTULO II
+
+Medidas urgentes para la liberalización y fomento de la economía
+
+## CAPÍTULO I
+
+Competencia y precios
+
+### Artículo 15
+
+Artículo 15. Modificación de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+Uno. Se modifica el artículo 1, al que se le añade un nuevo apartado 3 con la siguiente redacción:
+«3. Los órganos de Defensa de la Competencia podrán decidir no perseguir las conductas prohibidas que, por su escasa importancia, no sean capaces de afectar de manera significativa a la competencia. En tales casos, el Servicio de Defensa de la Competencia podrá inadmitir las denuncias y el Tribunal de Defensa de la Competencia sobreseer los expedientes...».
+Dos. Se modifica el apartado 1 del artículo 2, al que se le añade un nuevo párrafo con la siguiente redacción:
+«Por el contrario, serán de aplicación a las situaciones de restricción de competencia que se deriven del ejercicio de otras potestades administrativas o sean causadas por la actuación de las Administraciones Públicas, los entes públicos o las empresas públicas sin dicho amparo legal.»
+Tres. Se modifica el artículo 15, al que se añade un nuevo apartado 5 con la siguiente redacción:
+5. Cuando el Servicio de Defensa de la Competencia considere que una notificación voluntaria de operación de alianza entre empresas no responde a una operación de concentración económica, resolverá en el plazo de un mes que sea tratada como una solicitud de autorización de acuerdo entre empresas con arreglo a lo previsto en el artículo 3 y que no goce del beneficio de la autorización tácita.
+Cuando una notificación voluntaria de acuerdos, pactos u operaciones de alianza se presente con posterioridad a una denuncia de prácticas restrictivas de la competencia por hechos similares, el Servicio de Defensa de la Competencia procederá en el plazo de un mes a acumular los dos expedientes y a pronunciarse sobre si la operación debe ser tramitada como un acuerdo del artículo 1 o como una concentración económica.
+Dichos acuerdos adoptados por el Servicio de Defensa de la Competencia serán recurribles ante el Tribunal de Defensa de la Competencia en los términos previstos en el artículo 47.»
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Artículo 16
+
+Artículo 16. Supresión de la Junta Superior de Precios.
+Uno. Queda suprimida la Junta Superior de Precios. Sus funciones en relación con los precios autorizados serán asumidas por la Dirección General de Política Económica y Defensa de la Competencia, del Ministerio de Economía y Hacienda, cuyo informe será preceptivo para la aprobación por la Comisión Delegada del Gobierno para Asuntos Económicos de las modificaciones de precios detallados en el anexo 1. Se exceptúan los precios de la electricidad, cuyo informe compete a la Comisión del Sistema Eléctrico Nacional, las tarifas telefónicas y de los servicios de telecomunicaciones determinados por la normativa del sector, cuyo informe compete a la Comisión del Mercado de las Telecomunicaciones, que se crea por el Real Decreto-ley 6/1996, y el gas canalizado para usos domésticos y comerciales y gases licuados del petróleo (costes de comercialización), cuyo informe compete al Ministerio de Industria y Energía.
+Dos. Las modificaciones de precios solicitadas se valorarán teniendo en cuenta la evolución de los costes del sector y las ganancias de productividad, en el marco del establecimiento de crecimientos máximos de los precios sectoriales formulados en términos de variaciones del IPC minoradas en determinados porcentajes. Excepcionalmente podrán utilizarse técnicas alternativas, siendo necesaria su previa justificación ante el órgano competente para informar las modificaciones de precios.
+Tres. Quedan liberalizados los precios autorizados de ámbito nacional que no han sido incluídos en el anexo 1 de este Real Decreto-ley.
+Cuatro. La aprobación de los precios autorizados de ámbito autonómico contemplados en el anexo 2 compete a las Comisiones Autonómicas y Provinciales de Precios.
+Cinco. Los precios comunicados de ámbito nacional incluidos en el anexo 2 de la Orden del Ministerio de Economía y Hacienda de 26 de febrero de 1993, que modifica el régimen de precios de determinados bienes y servicios, quedan eximidos de los correspondientes requerimientos.
+Seis. Las competencias de la suprimida Junta Superior de Precios para desarrollar y mantener la información que permita el seguimiento permanente de los precios de los principales bienes y servicios en sus distintos niveles de comercialización quedan asumidas por la Dirección General de Comercio Interior del Ministerio de Economía y Hacienda.
+Siete. Corresponde a la Comisión Delegada del Gobierno para Asuntos Económicos la aprobación de las variaciones de los precios incluidos en el anexo 1, así como la de dicha relación de precios.
+Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## CAPÍTULO II
+
+Sistema financiero
+
+### Artículo 17
+
+Artículo 17. Modificación del Real Decreto-ley 1/1986, de 14 de marzo, de Medidas Administrativas, Financieras, Fiscales y Laborales.
+Se modifica el artículo 12, que queda redactado de la siguiente forma:
+«Uno. Son Entidades de Capital Riesgo las Sociedades y Fondos de Capital Riesgo.
+Dos. Se considerarán Sociedades de Capital Riesgo (SCR) aquellas cuyo objeto social principal sea la promoción, mediante la toma de participaciones temporales en su capital, de empresas no financieras que no cotizan en el primer mercado de las Bolsas de Valores ni en ningún mercado secundario organizado y que no estén participadas en más de un 25 por 100 por empresas que cotizan en dichos mercados o que tengan la consideración de entidad financiera.
+Para el desarrollo de su objeto principal, las Sociedades de Capital Riesgo podrán facilitar Préstamos Participativos u otras formas de financiación a las sociedades participadas. Asimismo, podrán realizar actividades de asesoramiento.
+Tres. Los Fondos de Capital Riesgo (FCR) son patrimonios administrados por una sociedad gestora, que tendrán el mismo objeto principal que el definido en el apartado anterior.»
+
+### Artículo 18
+
+Artículo 18. Modificación del Real Decreto-ley 1/1986, de 14 de marzo, de Medidas Administrativas, Financieras, Fiscales y Laborales.
+Se modifica el artículo 14, que queda redactado de la siguiente forma:
+«Uno. Las Sociedades y Fondos de Capital Riesgo adecuarán su política de inversiones a los criterios expresamente establecidos en sus Estatutos o Reglamentos de Gestión, respectivamente.
+Dos. En todo caso, deberán mantener, como mínimo, el 60 por 100 de su activo en acciones y participaciones en el capital de las empresas que sean objeto de su actividad. Dentro de este porcentaje, podrán dedicar hasta 15 puntos porcentuales de su activo a cualquier fórmula de financiación a medio y largo plazo de las empresas participadas.
+El resto de su activo deberá mantenerse en:
+a) Valores de renta fija negociados en mercados secundarios organizados.
+b) Hasta el 10 por 100 de su activo en participaciones en el capital de empresas que no cumplan los requisitos exigidos en el artículo 12, apartado dos del Real Decreto-Ley 1/1986, de 14 de marzo.
+c) Efectivo o valores a corto plazo de fácil realización.
+d) En el caso de Sociedades de Capital Riesgo, hasta el 10 por 100 de su capital social en elementos de inmovilizado necesarios para el desarrollo de su actividad.
+Tres. Con independencia de lo anterior, las Entidades de Capital Riesgo no podrán invertir más del 15 por 100 de su activo en una misma empresa, ni más del 35 por 100 en empresas pertenecientes al mismo grupo, entendiéndose por grupo de sociedades el definido en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+Cuatro. Las Sociedades de Capital Riesgo no podrán invertir en empresas pertenecientes a su grupo, tal y como se define en el artículo 4 antes citado de la Ley 24/1988.
+Cinco. Los porcentajes de los apartados dos y tres anteriores deberán alcanzarse por la Entidad de Capital Riesgo en el plazo de dos años desde su constitución o, en el caso de incumplimiento temporal de los coeficientes con ocasión de una desinversión, en el plazo de doce meses.
+Seis. Reglamentariamente podrán establecerse limitaciones a la inversión en determinados tipos de activos, así como un coeficiente máximo de liquidez a mantener por estas entidades.
+Siete. A los efectos de los porcentajes previstos en este artículo se habilita al Ministerio de Economía y Hacienda para determinar los conceptos que integran el activo de las Entidades de Capital Riesgo.»
+Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Artículo 19
+
+Artículo 19. Modificación de la Ley 43/1995, de 27 de diciembre, reguladora del Impuesto de Sociedades.
+Se modifica el punto 1 del artículo 69, que queda redactado de la siguiente forma:
+«Las Sociedades y Fondos de Capital Riesgo, reguladas en el Real Decreto-ley 1/1986, de 14 de marzo, disfrutarán de exención parcial por las rentas que obtengan en la transmisión de acciones y participaciones en el capital de las empresas a que se refiere el artículo 12 del citado Real Decreto-Ley en que participen, según el año de transmisión computado desde el momento de la adquisición. Dicha exención será del 99 por 100 a partir del tercer año y hasta el décimo incluido.
+En los dos primeros años y a partir del undécimo no se aplicará exención.»
+
+### Artículo 20
+
+Artículo 20. Préstamos participativos.
+Uno. Se considerarán préstamos participativos aquéllos que tengan las siguientes características:
+a) La entidad prestamista percibirá un interés variable que se determinará en función de la evolución de la actividad de la empresa prestataria. El criterio para determinar dicha evolución podrá ser: el beneficio neto, el volumen de negocio, el patrimonio total o cualquier otro que libremente acuerden las partes contratantes. Además, podrán acordar un interés fijo con independencia de la evolución de la actividad.
+b) Las partes contratantes podrán acordar una cláusula penalizadora para el caso de amortización anticipada. En todo caso, el prestatario sólo podrá amortizar anticipadamente el préstamo participativo si dicha amortización se compensa con una ampliación de igual cuantía de sus fondos propios y siempre que éste no provenga de la actualización de activos.
+c) Los préstamos participativos en orden a la prelación de créditos, se situarán después de los acreedores comunes.
+d) Los préstamos participativos se considerarán patrimonio neto a los efectos de reducción de capital y liquidación de sociedades previstas en la legislación mercantil.
+Dos. (Derogado)
+Se modifica el apartado 1.d) por la disposición adicional 3 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023.
+ Se deroga el apartado 2 por la disposición derogatoria única.1.c) del Real Decreto Legislativo 4/2004, de 5 de marzo. Ref. BOE-A-2004-4456.
+ Se modifica el apartado 1.d) por la disposición adicional 2 de la Ley 10/1996, de 18 de diciembre. Ref. BOE-A-1996-28330.
+
+### Artículo 21
+
+Artículo 21. Modificación de la Ley 46/1984, de 26 de diciembre, de normas reguladoras de las Instituciones de Inversión Colectiva.
+Se da nueva redacción al segundo inciso del artículo 10.2 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, quedando el artículo como sigue:
+«El Reglamento de esta Ley establecerá en relación con las Sociedades de Capital Fijo y Variable, Fondos de Inversión Mobiliaria y Fondos de Inversión en Activos del Mercado Monetario, los coeficientes de liquidez que deban mantener, así como su cobertura. En todo caso, el activo no sujeto al coeficiente establecido en esta Ley estará invertido en bienes, valores o derechos adecuados al cumplimiento del fin propio de estas instituciones, que podrá comprender valores no cotizados, en las condiciones que se establezcan reglamentariamente, y siempre que figure en los Estatutos y o en los Reglamentos y en el folleto informativo de la institución.»
+Por otro lado, se añade el siguiente párrafo en el artículo 10.2:
+«El Ministro de Economía y Hacienda, previo informe de la Comisión Nacional del Mercado de Valores establecerá los casos y condiciones en que las SIMCAV, los FIM y los FIAMM podrán utilizar instrumentos financieros derivados u otras técnicas para conseguir una adecuada cobertura de los distintos riesgos que afectan a los valores que integren su patrimonio.»
+Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## CAPÍTULO III
+
+Servicios municipales
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Artículo 22
+
+Artículo 22. Liberalización de los servicios funerarios
+Se liberaliza la prestación de los servicios funerarios.
+Sin perjuicio de lo anterior, los Ayuntamientos podrán someter a autorización la prestación de dichos servicios. La autorización tendrá carácter reglado, debiéndose precisar normativamente, de acuerdo con los criterios mínimos que, en su caso, fijen el Estado y las Comunidades Autónomas en desarrollo de sus competencias, los requisitos objetivos necesarios para obtenerla y se concederá a todo solicitante que reúna los requisitos exigidos y acredite disponer de los medios materiales necesarios para efectuar el transporte de cadáveres. Las normas que regulen los requisitos de las autorizaciones para la prestación de estos servicios no podrán establecer exigencias que desvirtúen la liberalización del sector.
+Los prestadores de servicios funerarios que obtengan de cualquier Ayuntamiento la autorización a que hace referencia el párrafo anterior, conforme a los criterios en él expresados, podrán realizar en todo el territorio español la actividad asociada a sus funciones principales consistente en el traslado de cadáveres, cumpliendo en cada caso los requisitos establecidos en las normas de policía sanitaria mortuoria aplicables.
+Se modifica por el art. 23 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005.
+
+### Artículo 23
+
+Artículo 23. Modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+Se modifica el apartado 3 del artículo 86, suprimiendo la mención «servicios mortuorios».
+
+### Artículo 24
+
+Artículo 24. Modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+Se modifica el apartado 1.c) del artículo 26, quedando redactado de la siguiente forma:
+«c) En los municipios con población superior a 20.000 habitantes, además:
+Protección civil, prestación de servicios sociales, prevención y extinción de incendios e instalaciones deportivas de uso público.»
+
+## CAPÍTULO IV
+
+Distribución de carburantes
+
+### Artículo 25
+
+Artículo 25. Condiciones de acceso a las instalaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) en la forma indicada por la disposición transitoria 2 de la Ley 34/1998 de 7 de octubre. Ref. BOE-A-1998-23284.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Artículo 26
+
+Artículo 26. Requisitos para la solicitud de utilización de las instalaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) en la forma indicada por la disposición transitoria 2 de la Ley 34/1998 de 7 de octubre. Ref. BOE-A-1998-23284.
+
+### Artículo 27
+
+Artículo 27. Contrato de acceso a las instalaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) en la forma indicada por la disposición transitoria 2 de la Ley 34/1998 de 7 de octubre. Ref. BOE-A-1998-23284.
+
+### Artículo 28
+
+Artículo 28. Comunicación de precios.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) en la forma indicada por la disposición transitoria 2 de la Ley 34/1998 de 7 de octubre. Ref. BOE-A-1998-23284.
+
+### Artículo 29
+
+Artículo 29. Limitación del acceso de terceros a las instalaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) en la forma indicada por la disposición transitoria 2 de la Ley 34/1998 de 7 de octubre. Ref. BOE-A-1998-23284.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Prórroga del Real Decreto-ley 2/1996, de 26 de enero, sobre determinadas prestaciones patrimoniales de carácter público gestionadas por la Administración General del Estado y los entes públicos de ella dependientes.
+Se prorroga por un plazo de seis meses la autorización concedida al Gobierno por el artículo 2 del Real Decreto-ley 2/1996, de 26 de enero, sobre determinadas prestaciones patrimoniales de carácter público gestionadas por la Administración General del Estado y los entes públicos de ella dependientes, para remitir a las Cortes el correspondiente proyecto de Ley de reordenación de la regulación de las prestaciones patrimoniales afectadas por la Sentencia del Tribunal Constitucional 185/1995, de 24 de diciembre.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Coeficientes de actualización correspondientes a 1996.
+(Anulada)
+Se declara la inconstitucionalidad y nulidad con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+
+### Disposicion adicional tercera
+
+Disposicion adicional tercera. Controladores laborales.
+1. En el ejercicio de sus funciones, los funcionarios pertenecientes al Cuerpo de Controladores Laborales están autorizados para entrar y permanecer libremente y en cualquier momento, en todo centro y lugar de trabajo sujeto a la actuación de la Inspección de Trabajo y Seguridad Social.
+En el ejercicio de sus funciones, dichos funcionarios tienen el carácter de Agentes de la autoridad, pudiendo recabar el oportuno auxilio de la autoridad competente o de sus Agentes si fuesen obstruidos o perturbados en tal ejercicio. En todo caso, las acciones u omisiones que impidan o perturben el ejercicio de las funciones de los Controladores laborales serán consideradas obstrucción en los términos de los artículos 49 y concordantes de la Ley 8/1988, de 7 de abril, de Infracciones y Sanciones en el Orden Social.
+
+### Disposición transitoria
+
+Disposición transitoria. Precios regulados.
+Hasta que la Comisión del Mercado de las Telecomunicaciones esté en disposición de ejercer las funciones descritas en el apartado uno del artículo 16 del presente Real Decreto-ley, éstas serán asumidas de forma transitoria por la Dirección General de Política Económica y Defensa de la Competencia, del Ministerio de Economía y Hacienda.
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Queda derogado el artículo 20 del Real Decreto-ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Queda derogado el artículo 11 de la Ley 27/1984, de 26 de julio, sobre Reconversión y Reindustrialización, así como cuantas disposiciones se opongan a lo dispuesto en el presente Real Decreto-ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario y entrada en vigor de determinados preceptos.
+Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para la ejecución y desarrollo del presente Real Decreto-ley.
+Se faculta al Ministro de Industria y Energía a dictar cuantas disposiciones sean necesarias para el desarrollo de las previsiones contenidas en los artículos 25 al 29 del presente Real Decreto-ley.
+(Párrafo tercero anulado)
+Se declara la inconstitucionalidad y nulidad del párrafo tercero con los efectos que se indican en el fundamento jurídico 9, por Sentencia del TC 189/2005, de 7 de julio. Ref. BOE-T-2005-13467.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El presente Real Decreto-ley entrará en vigor al siguiente día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 7 de junio de 1996.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## ANEXO 1
+
+Precios autorizados de ámbito nacional
+1. Electricidad.
+2. Gas canalizado para usos domésticos y comerciales.
+3. Gases licuados del petróleo (costes de comercialización).
+4. Especialidades farmacéuticas, excepto las publicitarias.
+5. Productos postales y telegráficos básicos.
+6. Tarifas telefónicas y los servicios de telecomunicaciones determinados por la normativa del sector.
+7. Transporte público regular de viajeros por carretera.
+8. Tarifas de RENFE de transporte de viajeros de cercanías y regional, salvo disposición en contra en el contrato-programa vigente entre el Estado y RENFE.
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.
+
+## ANEXO 2
+
+Precios autorizados de ámbito autonómico
+1. Agua (abastecimiento a poblaciones).
+2. Transporte urbano de viajeros.
+3. Compañías ferroviarias de ámbito autonómico.
+4. Agua de regadío en las islas Canarias.
+Redactado conforme a la corrección de errores publicada en BOE núm. 147, de 18 de junio de 1996. Ref. BOE-A-1996-13886.

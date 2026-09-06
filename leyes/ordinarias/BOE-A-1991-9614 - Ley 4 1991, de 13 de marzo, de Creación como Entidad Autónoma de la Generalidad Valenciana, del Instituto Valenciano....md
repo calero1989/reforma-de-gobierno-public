@@ -1,0 +1,263 @@
+# Ley 4/1991, de 13 de marzo, de Creación como Entidad Autónoma de la Generalidad Valenciana, del Instituto Valenciano de Investigaciones Agrarias (IVIA).
+
+- Identificador BOE: `BOE-A-1991-9614`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-9614
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía,
+En nombre del Rey promulgo la siguiente Ley:
+PREÁMBULO
+En abril de 1984 fue transferido a la Generalidad Valenciana el Centro Regional de Investigación y Desarrollo Agrario de Levante (CRIDA-07), que se incorporó como un Servicio de la Consejería de Agricultura y Pesca con la denominación de Instituto Valenciano de Investigaciones Agrarias (IVIA).
+La Consejería de Agricultura y Pesca, consciente de la importancia que para la agricultura valenciana tiene la investigación agraria, ha impulsado las actividades del IVIA durante los años transcurridos, aumentando sus dotaciones presupuestarias y de personal.
+El sector agrario valenciano se ha distinguido a lo largo de su historia por su dinamismo, consecuencia de su interés por adoptar y desarrollar nuevas tecnologías. Dado el nivel de nuestro sector agrario, los nuevos desarrollos tecnológicos dependerán de un sistema propio de investigación y desarrollo tecnológico, así como de los mecanismos de transferencia de dichas tecnologías al sector.
+Dotar al IVIA de una estructura acorde con sus fines es imprescindible si se desea que pueda desempeñar adecuadamente funciones de investigación y desarrollo tecnológico respecto al sector agrario valenciano.
+Los Organismos públicos de investigación agraria han nacido al amparo de los Departamentos de Agricultura de las distintas Administraciones Públicas, necesitados de impulsar una investigación dirigida a resolver los problemas que para su desarrollo tecnológico tiene el sector agrario.
+Desde el momento del traspaso de competencias en materia de investigación agraria a la Generalidad Valenciana varios son los hechos que han modificado la situación precedente:
+a) La aprobación de la Ley estatal de Fomento y Coordinación de la Investigación Científica y Técnica, entre cuyos objetivos está el de «crear el marco legal necesario para coordinar el esfuerzo científico de todos los organismos del Estado» así como «introducir importantes reformas en el funcionamiento de estos organismos con el fin de posibilitar una gestión más ágil y adaptada a sus respectivas atribuciones» procurando una configuración uniforme de los Organismos públicos de investigación.
+b) A la financiación de los proyectos de investigación basada en los recursos propios de la Generalidad Valenciana y en el Programa Sectorial de Investigación Agraria del Ministerio de Agricultura, Pesca y Alimentación hay que añadir actualmente la procedente de los programas nacionales de la Comisión Interministerial de Ciencia y Tecnología (CICYT) consecuencia de la Ley previamente citada.
+c) La Comunidad Económica Europea financia asimismo proyectos de investigación agraria juzgados prioritarios y ejecutados en cooperación por equipos de varios países.
+d) El fomento dado a nivel de la Generalidad Valenciana, del Estado y de la Comunidad Económica Europea a la realización de proyectos de investigación en colaboración con Empresas privadas, con el fin de promover en nuestro país y en Europa la participación privada en investigación y desarrollo tecnológico.
+Esta diversidad de financiación, que supone un incentivo para la cooperación con equipos ajenos, conlleva dificultades en la gestión de los recursos que es necesario eliminar.
+La moderna investigación no puede realizarse aisladamente sino en colaboración con otros equipos de nuestra propia Comunidad Valenciana, del resto del Estado y equipos no españoles. Para facilitar esta cooperación, necesaria para un desarrollo científico y tecnológico, es conveniente que la estructura del IVIA sea análoga a otras instituciones especializadas en investigación y desarrollo tecnológico agrario.
+El trabajo de investigación está basado en unos equipos humanos capaces de llevarla a cabo. En una organización con un objetivo de investigación y desarrollo tecnológico (I + D) es imprescindible disponer de personal con una sólida formación, capaz de innovar y de ayudar a resolver los problemas que el sector tiene planteados. Hay que procurar reclutar dicho tipo de personal y encuadrarlo en unos sistemas de promoción que valoren e incentiven las cualidades de formación y creatividad.
+La peculiaridad de la estructura de personal conveniente para investigación es reconocida por la Ley de la Función Pública Valenciana, en la que se recoge en el apartado 2 del artículo 1.º, encuadrado en el Libro Primero relativo a la organización de la función pública, que el Consejo de la Generalidad Valenciana adecuará dicha Ley a las especiales características del personal, entre otros, de investigación.
+Por todo lo anterior y dada la experiencia adquirida en estos años, teniendo en cuenta los cambios habidos en nuestro entorno, debe dotarse al IVIA con una estructura de personal, de gestión y de relaciones con otros centros de investigación, así como con la iniciativa privada adecuada a los fines y objetivos que le han sido señalados; lo que requiere diferenciarlo del resto de la Administración Pública Valenciana con el fin de:
+a) Posibilitar una gestión adaptada a las necesidades de un centro de investigación agraria.
+b) Facilitar las relaciones con otros equipos de nuestra propia Comunidad, del resto del Estado y de otros países.
+c) Dotar al IVIA de un estructura de personal que motive la investigación y el desarrollo tecnológico. Para ello la valoración de los puestos de trabajo debe ser función de la capacidad y de la experiencia demostrada para abordar y resolver problemas de la especialidad y categoría laboral, y no solo de la responsabilidad de gestión. También deberá incentivarse, y consecuentemente valorarse, la transferencia al sector de los resultados de dicha investigación.
+Esta estructura de los puestos de trabajo debe ser análoga a la de otros centros de investigación españoles y extranjeros, en cuanto a la denominación de los puestos y forma de acceder a ellos, con el fin de facilitar el intercambio de personal y la cooperación con dichos otros centros de investigación.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+Se crea el Instituto Valenciano de Investigaciones Agrarias (IVIA), como Entidad Autónoma de la Generalidad, con personalidad jurídica propia, que se regirá por la presente Ley y demás disposiciones aplicables, adscribiéndose a la Consejería de Agricultura y Pesca.
+
+### Artículo 2
+
+Artículo 2.
+1. El Instituto tendrá a su cargo los fines propios de la Generalidad Valenciana de impulsar la investigación científica y el desarrollo tecnológico en el sector agroalimentario valenciano y de integrar esta contribución al progreso de la ciencia agraria en el sistema de relaciones de colaboración y cooperación propio de la actividad investigadora.
+2. En particular, a título enunciativo, son funciones del IVIA las siguientes:
+a) Promover y realizar programas de investigación, propios o concertados, relacionados con el sector agroalimentario valenciano.
+b) Transferir los resultados científicos obtenidos y fomentar las relaciones con el sector agroalimentario para conocer sus necesidades de I+D.
+c) Fomentar las relaciones con otras Instituciones, tanto nacionales como extranjeras, de la comunidad científica y promover la organización de congresos y reuniones científicas, relacionados con el sector agroalimentario en temas de interés para la Comunidad Valenciana.
+d) Asesorar en temas de investigación y desarrollo agroalirnentario a los órganos dependientes de la Generalidad Valenciana, de la Administración del Estado y a las Empresas del sector agroalimentario que lo soliciten.
+e) Contribuir a la formación de personal investigador en el ámbito de sus fines científicos.
+f) Cualesquiera otras funciones que expresamente se le asignen o deriven de los fines de carácter general a su cargo.
+
+### Artículo 3
+
+Artículo 3.
+Para el cumplimiento de sus fines, el Instituto Valenciano de Investigaciones Agrarias podrá realizar toda clase de actos de gestión y disposición, constituir sociedades mercantiles o participar en aquellas cuyo objetivo sea la realización de actividades de investigación o desarrollo tecnológico agrarios, o establecer relaciones contractuales o cooperativas con instituciones, entidades públicas o privadas y particulares, especialmente las dirigidas a la constitución de unidades mixtas con las Universidades y otros centros de investigación valencianos.
+
+## TÍTULO I
+
+Estructura y organización
+
+### Artículo 4
+
+Artículo 4.
+1 La estructura básica del Instituto estará constituida por los siguientes órganos:
+a) El Consejo Rector.
+b) El Consejo Científico.
+c) La Dirección.
+d) La Gerencia.
+e) Las unidades de investigación, de administración y de servicios técnicos.
+2. El Instituto Valenciano de Investigaciones Agrarias estará regido por el Consejo Rector y la Dirección del Instituto.
+3. La estructura y funciones de las unidades de investigación, de administración y de servicios técnicos se establecerán en el reglamento del instituto y como órganos de trabajo dependerán de la dirección del mismo.
+Se modifica por el art. 240 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 5
+
+Artículo 5.
+1. El Consejo Rector estará presidido por la persona titular de la conselleria competente en materia de agricultura y compuesto por:
+a) La persona titular de la secretaria autonómica competente en materia de agricultura.
+b) La persona titular de la subsecretaria competente en materia de agricultura.
+c) La persona titular de la dirección general competente en materia de I+D+i en el sector agroalimentario y transferencia tecnológica, que será la Vicepresidencia Primera.
+d) La persona titular de la dirección general competente en materia de ciencia e investigación, que será la Vicepresidencia Segunda.
+e) La persona titular de la dirección general competente en materia de producción agraria.
+f) La persona titular de la dirección general competente en materia de industria y cadena agroalimentaria.
+g) La persona titular de la Presidencia del Consejo Científico del IVIA.
+h) Una persona representante de la conselleria con competencias en materia de hacienda.
+i) La persona titular de la Dirección de la Asociación de Investigación de Industrias Agroalimentarias.
+j) Cinco miembros designados por la persona titular de la conselleria competente en materia de agricultura: dos en representación de las organizaciones profesionales agrarias, uno en representación de la Federación de Cooperativas Agrarias Valencianas y dos en representación de los sindicatos de trabajadores más representativos de la Comunitat Valenciana, todos ellos a propuesta de sus respectivas organizaciones.
+2. A las reuniones del Consejo Rector asistirá la persona titular de la Dirección y de la Gerencia del Instituto.
+Se modifica por el art. 119.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+
+### Artículo 6
+
+Artículo 6.
+1. Corresponderán al Consejo Rector las siguientes funciones:
+a) Dirigir la actuación del IVIA, en el marco de la política agrícola y de investigación e innovación tecnológica fijada por el Consell de la Generalitat Valenciana, aprobar el programa de actividades, inversiones y financiación, así como en anteproyecto de presupuesto anual, para su elevación al conseller de Economía y Hacienda junto con la memoria explicativa del contenido del programa.
+b) Informar y elevar a los órganos competentes de la administración de la Generalitat Valenciana las propuestas que requieran la aprobación de los mismos.
+c) Aprobar las cuentas anuales de la entidad.
+d) Aprobar la propuesta de la estructura y plantilla del personal, así como sus modificaciones.
+e) Autorizar las inversiones y operaciones financieras de la entidad, incluidas la constitución y participación en sociedades mercantiles, sin perjuicio de otras autorizaciones concurrentes legalmente necesarias.
+f) Autorizar los actos de disposición de los bienes del IVIA de naturaleza inmobiliaria.
+g) Acordar el ejercicio de acciones judiciales.
+h) Autorizar los acuerdos de cooperación con otras instituciones y entidades públicas.
+2. El Consejo Rector podrá delegar alguna de sus competencias en el presidente, en uno de los vicepresidentes o en el director del IVIA, salvo las atribuidas en los apartados a, c, e y f del número anterior.
+3. Para el cumplimiento de sus funciones el Consejo Rector podrá recabar del consejo científico asesoramiento sobre cualquier tema referente al IVIA, así como propuestas concretas de actuación.
+Se modifica por el art. 240 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 7
+
+Artículo 7.
+1. El Consejo Científico es el órgano asesor del Consejo Rector respecto de las actividades de investigación y desarrollo tecnológico realizadas por el IVIA, perspectivas y evolución de las mismas, así como de la estructura más conveniente para acometerlas. De sus debates elevará informes al Consejo Rector.
+Serán funciones del Consejo Científico asesorar al Consejo Rector, entre otros, en los temas siguientes:
+a) Orientar la actuación del IVIA en el marco de la política agrícola y de investigación e innovación tecnológica, fijada por el Consejo de la Generalidad Valenciana.
+b) Establecimiento de los fines y objetivos de las líneas de actuación del IVIA.
+c) Estructura y organización científica del IVIA.
+d) Desarrollo de las investigaciones realizadas, resultados obtenidos y transferencias al sector.
+e) Contribuir a la detección de la problemática científico-técnica del sector agroalimentario, en cooperación con la iniciativa privada, y proponer programas de actuación.
+2. El Consejo Científico estará formado por:
+a) Dos representantes del Consejo de Política Científica y Tecnológica de la Generalidad Valenciana.
+b) Tres personalidades científicas relevantes exterior al IVIA.
+c) El Director del IVIA.
+d) Tres investigadores del IVIA.
+Su funcionamiento y forma de designación se fijarán en el Reglamento de Organización del IVIA.
+3. El Consejo Científico elegirá, entre sus miembros, a su Presidente y Vicepresidente. El Presidente formará parte del Consejo Rector.
+4. El Consejo Científico podrá asesorarse de especialistas en temas concretos y promover la organización de grupos de trabajo.
+
+### Artículo 8
+
+Artículo 8.
+1. La Dirección del IVIA será nombrada por el conseller o la consellera competente en materia de agricultura, entre personas con titulación y conocimientos científicos apropiados, a propuesta del director o directora general competente en materia de investigación agraria. Asimismo, el conseller o consellera con competencias en materia de agricultura, nombrará uno o una gerente que asuma la gestión administrativa, económico-financiera y ordinaria de los asuntos propios del instituto.
+2. Corresponderán a la dirección del IVIA las siguientes funciones:
+a) Ostentar la representación ordinaria del IVIA.
+b) Controlar y supervisar los servicios de la entidad.
+c) Ejecutar los acuerdos adoptados por el Consejo Rector.
+d) Firmar en representación de la entidad, con carácter general, en cualquier acto y negocio jurídico, sin perjuicio de otras representaciones especiales que pueda otorgarle el Consejo Rector.
+e) Elaborar y proponer el programa de actuaciones, inversiones y financiación.
+f) Formular las cuentas anuales de la entidad.
+g) Proponer modificaciones de la estructura y plantilla de personal.
+h) Coordinar los departamentos y unidades de investigación.
+i) La actuación como órgano de contratación, con todas las funciones que sean inherentes.
+j) Proponer al Consejo Rector otras actuaciones que crea convenientes.
+k) Ejercer en caso de urgencia acciones judiciales, dando cuenta inmediata al Consejo Rector.
+l) Las demás atribuciones no expresamente conferidas a otro órgano por este reglamento o por el Consejo Rector en virtud de lo dispuesto en el artículo 6.1.l de esta disposición.
+ll) Las que le delegue el Consejo Rector, la Presidencia o las vicepresidencias.
+m) Optimizar los recursos existentes y captar nuevos recursos externos, en especial mediante la captación de fondos de proyectos competitivos en materia de I+D+I.
+n) Potenciar la relación con empresas del sector agroalimentario y la prestación de servicios acorde a las necesidades.
+3. Corresponderán a la gerencia del IVIA las siguientes funciones:
+a) La dirección económico-administrativa del instituto de conformidad con lo acordado por el Consejo Rector.
+b) La dirección del personal del instituto y su gestión.
+c) La política de responsabilidad social, transparencia y sostenibilidad.
+d) La seguridad y el control administrativo de los bienes y valores constitutivos del patrimonio del instituto.
+e) La resolución de aquellas reclamaciones que puedan plantearse en materia de responsabilidad patrimonial.
+f) Todas las otras que el Consejo Rector, la Presidencia o la Dirección le encomiende o delegue.
+g) La coordinación del asesoramiento técnico, jurídico y administrativo, de una manera especial, sobre la viabilidad de disposiciones, proyectos y programas.
+Se modifica por el art. 240 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 1 por el art. 121 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205
+
+## TÍTULO II
+
+Régimen jurídico
+
+### Artículo 9
+
+Artículo 9.
+El Instituto Valenciano de Investigaciones Agrarias se regirá por la presente Ley, por el Reglamento de organización, funcionamiento y régimen jurídico que se dicte, por cuantas otras disposiciones que específicamente se le destinen y por los preceptos de la legislación general o especial que le sean de aplicación.
+
+### Artículo 10
+
+Artículo 10.
+El patrimonio del IVIA estará integrado por los bienes y derechos que le sean adscritos por la Generalidad Valenciana, que conservarán su calificación jurídica originaria, así como por los que adquiera y los que le sean incorporados y adscritos en el futuro por cualquier Entidad o persona y por cualquier título.
+
+### Artículo 11
+
+Artículo 11.
+1. Los contratos de prestación de servicios de investigación no se regirán por la legislación general de contratación administrativa, sino por las normas de Derecho Civil y Mercantil que les sean de aplicación.
+2. Los contratos relativos a obras de tecnología especialmente avanzada o cuya ejecución sea particularmente compleja se adjudicarán, en todo caso, por el procedimiento de concurso.
+3. Los bienes de equipo necesarios para el desarrollo de las tareas de investigación podrán adquirirse, previa autorización del Consejo Rector, por el sistema de adjudicación directa de acuerdo con lo que dispone la Ley de Contratos del Estado.
+
+## TÍTULO III
+
+Régimen de personal
+
+### Artículo 12
+
+Artículo 12.
+1. La estructura de personal y sus sistemas de contratación, promoción y de régimen de trabajo serán análogos a los de los otros Centros públicos de investigación y de acuerdo con la Ley de Fomento y Coordinación de la investigación científica y técnica, con el fin de facilitar la cooperación y el intercambio de personal.
+2. La relación de puestos de trabajo del Instituto deberá permitir la promoción del personal en función de su capacidad y de la experiencia demostrada para abordar y resolver problemas de su especialidad y categoría laboral.
+3. El sistema de promoción del personal investigador y técnico valorará los aspectos científicos y de desarrollo tecnológico del trabajo realizado y los resultados obtenidos, tanto en cuanto a capacidad de realización personal de un trabajo de investigación como de dirección y organización de proyectos y programas de investigación.
+4. Con el fin de incentivar la labor de los científicos y técnicos del IVIA, se podrá destinar una parte de los beneficios obtenidos por la transferencia de tecnología a los miembros del equipo investigador que obtuvo los resultados.
+
+### Artículo 13
+
+Artículo 13.
+El Instituto Valenciano de Investigaciones Agrarias podrá contratar personal laboral propio en los términos y condiciones que, a estos efectos, establezca la legislación básica o autonómica en la materia, para el cumplimiento de funciones no reservadas en los cuerpos, las escalas y las agrupaciones profesionales funcionariales adscritas a este.
+Se modifica por el art. 240 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+## TÍTULO IV
+
+Régimen económico- financiero
+
+### Artículo 14
+
+Artículo 14.
+A los efectos de su gestión económico-financiera, el Instituto se regirá por las reglas aplicables a las Entidades autónomas de carácter mercantil, industrial, financiero o análogo a que se refiere el artículo 5.º,1 de la Ley de Hacienda Pública de la Generalidad Valenciana.
+
+### Artículo 15
+
+Artículo 15.
+Los recursos del IVIA estarán integrados por:
+a) Las consignaciones previstas en los presupuestos de la Generalidad Valenciana.
+b) Los productos y rentas de su patrimonio.
+c) Las subvenciones o aportaciones voluntarias de Entidades e instituciones tanto públicas como privadas.
+d) Los ingresos procedentes de las actividades realizadas y servicios prestados por el IVIA.
+e) Los créditos y préstamos que pueda concertar.
+f) Cualquier otro recurso que pueda serle atribuido.
+
+### Artículo 16
+
+Artículo 16.
+Las dotaciones limitativas de los estados de explotación y de capital del Instituto, a que se refiere el artículo 45, apartado 2.b), de la Ley de Hacienda Pública de la Generalidad Valenciana, serán ampliables en función de los ingresos efectivamente obtenidos.
+
+### Artículo 17
+
+Artículo 17.
+En la subvención de capital que concede la Generalidad Valenciana para financiar el presupuesto de gastos del Instituto figurará una parte debidamente razonada, que tendrá la consideración de subvención condicionada que se reintegrará por el Instituto a la Tesorería de la Generalidad, a medida que se produzcan los ingresos reales como consecuencia de la ejecución de los proyectos a que se refiera, de acuerdo con la Ley 4/1984 de Hacienda Pública de la Generalidad.
+
+### Disposición adicional
+
+Disposición adicional.
+Se integra en el Instituto Valenciano de Investigaciones Agrarias el servicio del mismo nombre de la Dirección General de Innovación y Promoción Agraria de la Consejería de Agricultura y Pesca, así como los bienes que tiene adscritos, con subrogación de la nueva entidad en los derechos y obligaciones de la Generalidad Valenciana generados en el ámbito de los fines asignados al Instituto Valenciano de Investigaciones Agrarias. El Consejo de la Generalidad Valenciana podrá acordar la integración en el mismo de aquellos otros organismos o servicios cuyas funciones sean afines o complementarias a las señaladas para el IVIA.
+
+### Disposición transitoria
+
+El personal al servicio de la Generalidad Valenciana que a la entrada en vigor de la presente Ley ocupe puestos de trabajo en el servicio IVIA de la Dirección General de Innovación y Promoción Agraria, seguirá desempeñándolos en la entidad autónoma, Instituto Valenciano de Investigaciones Agrarias.
+
+### Disposición final primera
+
+Disposición final primera.
+1. El Consejo de la Generalidad Valenciana aprobará, en el plazo máximo de seis meses, a propuesta del Consejero de Agricultura y Pesca, oído el Consejo Rector del Instituto, previamente constituido, el Reglamento del Instituto Valenciano de Investigaciones Agrarias.
+2. Dicho Reglamento incluirá la necesaria adecuación de la Ley de la Función Pública Valenciana, concretamente de su Libro Primero, a las especiales características del personal investigador del Instituto, conforme prevé el artículo 1.º, apartado 2, de dicha Ley, teniendo en cuenta los criterios establecidos en el artículo 12 de la presente Ley constitutiva.
+3. La plantilla de personal al servicio del IVIA se aprobará por el Consejo de la Generalidad Valenciana a propuesta del Consejo Rector del Instituto, con la participación de las Centrales Sindicales con representación en la propia Entidad autónoma.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza a la Consejería de Economía y Hacienda para realizar las modificaciones presupuestarias que permitan dotar al Instituto, por lo que resta de ejercicio, de los recursos necesarios con cargo a las consignaciones que para el cumplimiento de los fines del citado Instituto recoge el programa 542.20 en los Presupuestos vigentes.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Quedan derogadas todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 13 de marzo de 1991.
+JOAN LERMA I BLASCO,
+Presidente de la Generalidad

@@ -1,0 +1,608 @@
+# Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1999-17589`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-17589
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOCM núm. 137, de 11 de junio de 1999.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+La Comunidad de Madrid, en virtud del artículo 26.3.1.2 de su Estatuto de Autonomía, reformado por la Ley Orgánica 5/1998, de 7 de julio, tiene competencias exclusivas en materia de comercio interior, sin perjuicio de la política general de precios, y de la legislación sobre libre circulación de bienes en el territorio del Estado. Estas competencias debe ejercerlas de acuerdo con las bases y la ordenación de la actuación económica general y la política monetaria del Estado, en los términos de lo dispuesto en los artículos 38, 131 y en las materias 11 y 13 del apartado 1 del artículo 149 de la Constitución Española. Las competencias autonómicas comprenden tanto la función legislativa como la ejecutiva o de gestión.
+Por ello, la presente norma es el cauce adecuado para ordenar el comercio interior de nuestra Comunidad, adaptándose a las características peculiares de su estructura económica y comercial, sin desviarse nunca de objetivos irrenunciables como la defensa de la libertad de empresa y de la competencia, la libre circulación de bienes en todo el territorio español y la garantía de los intereses y derechos de los consumidores.
+Una materia importante para el desarrollo socioeconómico de nuestra Comunidad, como es el comercio interior, no podía continuar sin una normativa que estableciera los principios generales a los que deben someterse los agentes operantes en este sector, dando respuesta al mismo tiempo a la demanda social suscitada en este sentido, ya que el comercio constituye parte fundamental del tejido económico, tanto en razón a su esencial función en la sociedad, como por la calidad y nivel de servicios alcanzado por sus establecimientos.
+Debe tenerse en cuenta que se están produciendo modificaciones sustanciales en la tradicional estructura comercial, por lo que se pretende limitar, en lo posible, las tensiones que se deriven de los cambios estructurales, sin que ello suponga una rémora para la necesaria modernización y adecuación del equipamiento comercial madrileño.
+La Ley está basada en dos principios básicos: por un lado, el respeto a la legislación estatal básica en la materia y a la normativa emanada de las instituciones comunitarias, y, por otro, la contemplación de las singulares circunstancias que exigen un tratamiento particularizado de determinados aspectos de nuestro comercio interior, a la vez que el desarrollo de aquellos preceptos que la Ley 7/1996, de Ordenación del Comercio Minorista, remite al desarrollo de las Comunidades Autónomas.
+En el Título I se delimita el objeto de la presente Ley, la regulación del comercio interior, así como su ámbito de aplicación, con exclusión de aquellas actividades comerciales sometidas a legislaciones específicas, y se realiza la definición normativa de varios conceptos relativos al sector, como son la actividad comercial, minorista y mayorista y del sector servicios conexos al comercio al que la Ley extiende sus efectos.
+Asimismo se contempla la posibilidad de desarrollo reglamentario del plazo de garantía de bienes o servicios concretos y se establecen las condiciones en la custodia de los artículos.
+Por otro lado, se mantiene el Registro de Actividades y Empresarios Comerciales de la Comunidad de Madrid, con la finalidad de obtener información para la definición de las políticas a desarrollar en el sector, así como facilitar el ejercicio de las funciones de apoyo y fomento del comercio, sin que en ningún caso suponga una carga económica y burocrática para el comerciante. Asimismo se mantiene el Registro General de Comerciantes Ambulantes que se residencia en nuestra Ley 1/1997, de 8 de enero, y Reglamento que lo desarrolla y por primera vez se crean los Registros de Franquiciadores y de Empresas de Venta a Distancia.
+La actuación de la Comunidad de Madrid sobre la actividad comercial estará inspirada por los principios de satisfacción de las necesidades de los consumidores y protección de sus legítimos intereses, mantenimiento de la libre y leal competencia entre los comerciantes, corrección de desequilibrios entre las diversas formas de distribución comercial, modernización de las estructuras comerciales y mejora de la productividad del sector, fomento del empleo estable y planificación del urbanismo comercial con participación de las Corporaciones Locales y sectores afectados.
+En el Título II se regulan los establecimientos comerciales. Los grandes establecimientos comerciales minoristas, para cuya instalación, ampliación o traslado se requiere una licencia comercial específica, se definen en función de su superficie destinada a exposición y venta y de la población del municipio de que se trate.
+En general, esta participación preventiva de la Administración autonómica responde al impacto supramunicipal que produce la implantación de los grandes establecimientos comerciales, ya que lo que los singulariza frente al resto de los equipamientos comerciales son la amplitud y la trascendencia de sus efectos. Por otra parte, se somete a autorización administrativa la instalación, ampliación o modificación de los establecimientos que se han dado en llamar de «descuento duro». Su implantación constituye un fenómeno supraurbano, tanto por la atracción poblacional que genera como por su repercusión en el tráfico e infraestructuras de la red viaria y por su capacidad para incidir en el desarrollo del comercio en su amplia zona de influencia.
+En el Título III se fijan los horarios comerciales. El Estado, en el Real Decreto-ley 22/1993, de 29 de diciembre, fijó las bases para la regulación de los horarios comerciales, tras el que la Comunidad de Madrid dictó la Ley 4/1994, de 6 de junio, de Calendario de Horarios Comerciales, por la que se regulan los horarios para la apertura y cierre de los locales comerciales en el ámbito de la Comunidad de Madrid. En el desarrollo de una política coherente con la iniciada en la citada Ley 4/1994, de 6 de junio, dada la amplia aceptación de la misma por los sectores implicados y la experiencia positiva que ha supuesto su aplicación, se mantiene la regulación sustantiva contenida en la misma, con las modificaciones que la experiencia aconseja introducir. Se persigue, en última instancia, conjugar los intereses generales del comercio con los de los consumidores, estableciendo, para ello, un régimen general de horarios comerciales –que tiene en cuenta las disposiciones de la Ley Orgánica 2/1996, de 15 de enero, complementaria de la Ordenación del Comercio Minorista, facilitando la transición allí prevista, y se sustenta, principalmente, en garantizar la libertad de los comerciantes para establecer sus propios horarios de actividad de los establecimientos, dentro de un horario día que se fija de siete a veinticuatro horas máximo, recogiendo la tensión creada por la apertura de madrugada, sin perjuicio del número máximo de horas de apertura semanal, que se fija en setenta y dos, y la autorización de la práctica de la actividad comercial como mínimo, en ocho domingos y días festivos al año–. El régimen de apertura en domingos y festivos se establece para determinados sectores más sensibles a la pequeña compra dominical –panadería, repostería, prensa, etc.– y para las zonas declaradas de gran afluencia turística en las que puede producirse una escasez de la oferta por motivo de importantes aumentos estacionales de la población, para los establecimientos de venta de productos culturales, ante la necesidad de fomentar la cultura y la de aquellos otros cuyas características comerciales justifican sobradamente la medida.
+En el Título IV se regula una serie de modalidades de venta o prácticas comerciales, efectuadas fuera de establecimientos comerciales, y, las denominadas ventas promocionales, cuya conceptualización se formula, por primera vez en nuestra Comunidad Autónoma, en esta Ley con las variantes de venta de promoción, ventas con obsequio, ventas en rebajas y en liquidación.
+El especial dinamismo de la moderna distribución comercial ha propiciado la aparición de estas nuevas modalidades de venta, así como la intensificación de otras que ya existían en las prácticas comerciales, por lo que se hace necesario abordar su regulación para evitar las incertidumbres y riesgos que han generado, especialmente, sobre los consumidores.
+El texto es respetuoso con las competencias estatales de defensa de la competencia y legislación mercantil y civil, teniendo siempre como objetivo predominante la defensa del consumidor.
+Por último, en el Título V, se regula la modalidad especial de ventas domiciliarias, ventas especiales y adquisiciones de los comerciantes, dando cabida a la demanda del Observatorio de la Distribución Comercial de adecuar los artículos 14 y 17 de la Ley 7/1996, de Ordenación del Comercio Minorista, con nuevas normas que pretenden cerrar lagunas, en cuanto a las facturas de adquisición de productos.
+En el Título VI, la Ley tipifica las infracciones en materia comercial, establece las sanciones y las cuantifica en relación con su importancia.
+En virtud de todo lo expuesto, y oído el Consejo Económico y Social de la Comunidad de Madrid, se ha elaborado la siguiente Ley:
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Es objeto de la presente Ley el establecimiento de un marco jurídico para el desarrollo de la actividad comercial minorista, con el fin de avanzar en la modernización y especialización de las estructuras comerciales de la Región, y en el logro de un modelo comercial basado en la diversidad y pluralidad de su oferta.
+Se modifica por el art. 2.1 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente Ley será de aplicación a las actividades comerciales minoristas realizadas en el ámbito territorial de la Comunidad de Madrid, por los propios comerciantes o por quienes actúen por cuenta de ellos.
+2. Quedan excluidas del ámbito de la presente Ley aquellas actividades que, en razón de su objeto o naturaleza, se encuentren reguladas por una legislación específica.
+Se modifica por el art. 2.2 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## CAPÍTULO II
+
+De la actividad comercial
+
+### Artículo 3
+
+Artículo 3. Actividad comercial.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 4
+
+Artículo 4. Actividad comercial minorista.
+1. A los efectos de esta Ley, se considera actividad comercial minorista la que tiene como destinatario al consumidor final, teniendo como objetivo el situar u ofrecer en el mercado, por cuenta propia o ajena, productos y mercancías, así como ofrecer determinados servicios que constituyan un acto de comercio, independientemente de la modalidad o soporte empleado para ello.
+2. A los efectos de lo señalado en el apartado anterior, se estará al concepto de consumidor y usuario recogido en la normativa de Defensa de los Consumidores y Usuarios de la Comunidad de Madrid. 3. El ejercicio de la actividad comercial minorista se desarrollará de acuerdo a los principios de libertad de empresa, libre competencia, libertad de establecimiento y libre circulación de bienes y servicios, en el marco de una economía de mercado, conforme a la Constitución y las leyes.
+Se modifica por el art. 2.3 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 5
+
+Artículo 5. Actividad comercial mayorista.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 6
+
+Artículo 6. Calificación de la actividad comercial.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 7
+
+Artículo 7. Fomento de la actividad comercial.
+1. La Comunidad de Madrid, a través de la Consejería competente en la materia, establecerá programas de ayudas para la promoción comercial, destinadas a pequeñas y medianas empresas comerciales, así como para potenciar el asociacionismo en el sector y colaborar con las Corporaciones Locales con el objeto de promover un desarrollo armónico y una modernización de la actividad comercial, que revertirá en un aumento de la competitividad de las empresas y la creación de empleo estable en el sector.
+2. Los programas se adoptarán previa audiencia de las asociaciones representativas de comerciantes y de la Cámara o Cámaras Oficiales de Comercio e Industria en la Comunidad de Madrid que resulte o resulten afectadas y en colaboración con las Corporaciones Locales en las materias de su competencia.
+
+### Artículo 8
+
+Artículo 8. Prohibiciones y restricciones al comercio.
+1. No podrán ejercer el comercio, además de las personas físicas y jurídicas a quienes les esté específicamente prohibido por la normativa vigente, los empresarios individuales o sociales, a quienes la normativa especial de la actividad que desarrollan les exija dedicarse exclusivamente a la misma.
+2. Se prohíbe expresamente la exposición y venta de mercancías al comprador, así como la remisión o entrega de catálogos, folletos o publicidad de las mismas, cuando éstas procedan de personas cuya actividad sea distinta a la comercial y, como consecuencia de la actividad que les es propia, tengan como finalidad principal la realización de préstamos, depósitos, u operaciones de análoga naturaleza, adheridas a la oferta comercial de la mercancía, de tal forma que una no se pudiera hacer efectiva sin la otra.
+En todo caso, se presumirá la existencia de estas actuaciones en el supuesto de que el comprador pudiera realizar pedidos o adquirir mercancías en los establecimientos de aquéllas.
+3. Las ventas al público por las entidades cooperativas u otras formas jurídicas análogas, en los casos en que lo autoriza la legislación vigente en la materia, se realizarán de manera convenientemente diferenciada respecto de las operaciones efectuadas con los socios, atendiendo al lugar de distribución, la identificación de los productos y otras condiciones de la transacción, sin que pueda producirse simultáneamente la oferta discriminada a los socios cooperadores y al público en general de los productos obtenidos por la entidad y de los artículos adquiridos a terceros.
+
+## CAPÍTULO III
+
+Garantías
+
+### Artículo 9
+
+Artículo 9. Garantía y custodia de los artículos.
+1. Los vendedores en general responderán de la calidad de los artículos vendidos en la forma determinada en los Códigos Civil y Mercantil, así como en la Ley General para la Defensa de los Consumidores y Usuarios y normas concordantes y complementarias.
+2. El plazo mínimo de la garantía, en el caso de bienes de carácter duradero, será de seis meses a contar desde la fecha de recepción del artículo que se trate, salvo que la naturaleza del mismo los impidiera. Reglamentariamente se desarrollarán los plazos de garantía específicos para bienes o servicios concretos.
+3. Los establecimientos que reciban en custodia artículos para su reparación deberán entregar recibo escrito de los mismos, en los que conste, al menos, con suficiente precisión y claridad, la identificación de la mercancía, del estado en que se entrega y la reparación que se solicita, así como el nombre, domicilio y teléfono del establecimiento y del propietario del artículo.
+4. La acción o derecho de recuperación de los géneros entregados por el consumidor o usuario al comerciante para su reparación prescribirá a los tres años a partir del momento de la entrega. Reglamentariamente se establecerán los datos que deberá hacer constar el comerciante en el momento en que se le entrega un objeto para su reparación y las formas en que podrá acreditarse la mencionada entrega.
+
+## CAPÍTULO IV
+
+Registros
+
+### Artículo 10
+
+Artículo 10. Oficina de Registros.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 11
+
+Artículo 11. Registro de Actividades y Empresarios Comerciales.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 12
+
+Artículo 12. Registro de Franquiciadores.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 13
+
+Artículo 13. Registro de Asociaciones de Empresas de Comercio.
+1. Podrán inscribirse en el Registro de Asociaciones de Empresas de Comercio de la Comunidad de Madrid las asociaciones sin fines de lucro que agrupen empresas de comercio minorista, que desarrollen su actividad y dispongan de domicilio dentro del ámbito territorial de la Comunidad y que se hallen formalmente constituidas e inscritas en los registros correspondientes.
+2. (Suprimido)
+3. El Registro de Asociaciones de Empresas de Comercio de la Comunidad de Madrid tendrá carácter público, siendo la inscripción en el mismo voluntaria y gratuita. Reglamentariamente se determinarán los datos objeto de inscripción y los documentos precisos para la misma.
+Se suprime el apartado 2 por el art. 25 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Se modifica el apartado 1 por el art. 2.4 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 14
+
+Artículo 14. Registro General de Comerciantes Ambulantes.
+Se estará a lo dispuesto en la normativa reguladora de la venta ambulante de la Comunidad de Madrid.
+
+### Artículo 15
+
+Artículo 15. Registro General de Empresas de Venta a Distancia.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## TÍTULO II
+
+Establecimientos comerciales
+
+## CAPÍTULO I
+
+Establecimiento comercial minorista
+Se modifica la denominación del capítulo por el art. 2.5 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 16
+
+Artículo 16. Concepto.
+A los efectos de esta Ley, tendrán la consideración de establecimientos comerciales, los locales, construcciones e instalaciones de carácter fijo y permanente, cubiertas o sin cubrir, exentas o no, exteriores o interiores, con escaparates o sin ellos, destinados al ejercicio regular de actividades comerciales minoristas, ya sea de forma continuada o periódica, o en días o temporadas determinadas; así como cualesquiera otras que reciban tal calificación en virtud de una disposición legal o reglamentaria.
+Se modifica por el art. 2.6 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## CAPÍTULO II
+
+De los grandes establecimientos comerciales minoristas
+
+### Artículo 17
+
+Artículo 17. Concepto.
+1. Tendrán la consideración de grandes establecimientos comerciales minoristas, los establecimientos individuales o colectivos que, destinándose al comercio al por menor de cualquier clase de artículos, dispongan de una superficie útil para la exposición y venta al público, superior a 2.500 metros cuadrados.
+2. Se consideran grandes establecimientos comerciales minoristas colectivos:
+a) Los parques comerciales, integrados por un conjunto de edificaciones de uso comercial, y ubicados en una misma área o recinto común urbanizado.
+b) Los centros comerciales, integrados por un conjunto de establecimientos comerciales independientes, planificados, promovidos y comercializados por una o varias entidades, con criterio de unidad, cuyo tamaño, mezcla comercial, servicios comunes y actividades complementarias están relacionadas con su entorno, y que dispone de forma permanente de una imagen y gestión unitaria. 3. Se entenderá por superficie útil de exposición y venta al público, aquella en la que se exponen artículos de forma permanente o habitual, para su venta directa, esté cubierta o no, y siempre que sea efectivamente utilizable por el consumidor.
+Se modifica por el art. 2.7 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 18
+
+Artículo 18. Necesidad de licencia municipal e informes autonómicos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+ Se modifica por el art. 4.1 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a4.
+ Se modifica por el art. 2.8 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+ Se añade el apartado 4 por el art. 20 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769#a4.
+
+### Artículo 19
+
+Artículo 19. Régimen de comunicación.
+(Suprimido)
+Se suprime por el art. 8.1 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Se modifica por el art. 4.2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a4.
+ Se modifica por el art. 2.9 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 20
+
+Artículo 20. Exclusiones.
+(Sin contenido)
+Se deja sin contenido por el art. 4.3 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
+ Se modifica por el art. 2.10 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 21
+
+Artículo 21. Efectos de la denegación de la autorización.
+(Sin contenido)
+Se deja sin contenido por el art. 4.4 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
+ Se modifica por el art. 2.11 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## CAPÍTULO III
+
+De otros establecimientos sometidos a autorización
+
+### Artículos 22 a 25
+
+Artículos 22 a 25.
+(Derogados)
+Se derogan por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147
+
+### Artículo 22
+
+Artículo 22. Establecimientos comerciales comúnmente denominados «todo a cien» y similares.
+Los establecimientos comerciales comúnmente denominados «todo a cien» y similares, antes del inicio de la actividad, deberán acreditar ante la Dirección General competente en la materia, estar en posesión de las licencias, permisos y autorizaciones establecidos en la legislación vigente.
+Dicha acreditación se realizará mediante comunicación, en el modelo que reglamentariamente se determine, y debidamente diligenciada, habrá de ser expuesta en el lugar visible del establecimiento, en el momento de la apertura del mismo.
+
+### Artículo 23
+
+Artículo 23. Establecimientos de venta de temporada u ocasional.
+Los establecimientos de venta de temporada u ocasional, o aquellos habilitados dentro de otros no dedicados a la actividad comercial para realizar la venta de diversos productos o algunos específicos, que se realicen sin contar con la inscripción en el registro correspondiente por la brevedad de la duración de la actividad, quedan sujetos a la acreditación establecida en el artículo anterior.
+
+### Artículo 24
+
+Artículo 24. Establecimientos denominados de "descuento duro" y medianos establecimientos comerciales minoristas.
+1. Los establecimientos denominados de «descuento duro» son los que de acuerdo con la previsión contenida en el último inciso del artículo 6.1 de la Ley 7/1996, de 15 de enero, estarán sometidos a autorización de la Consejería de Economía y Empleo la instalación, ampliación o modificación de los establecimientos que, con predominio de productos de alimentación en régimen de autoservicio, funcionen bajo una misma enseña comercial, pertenezcan a una misma empresa o grupo de empresas y reúnan, al menos, tres de las siguientes características:
+a) Que la superficie de venta sea igual o superior a 500 metros cuadrados del establecimiento.
+b) Que el volumen de ventas, en el ejercicio económico anterior o previsto, sea de al menos 500 millardos de pesetas o su equivalente de otra divisa o euros de la empresa o grupo de empresas titular del establecimiento.
+c) Que el número de marcas blancas propias o del distribuidor integradas en el surtido global a comercializar supere en un 70 por 100 o más el número de marcas de fabricante del establecimiento.
+d) Que el número de referencias en la oferta total del establecimiento sea inferior a mil.
+La exigencia a la que se refiere este apartado se extenderá a los establecimientos dependientes de empresas o uniones nacionales o internacionales cuyo capital social esté participado en más de un 25 por 100 por empresas o uniones en las que concurran las características mencionadas.
+2. Los medianos establecimientos comerciales minoristas, son aquellos establecimientos individuales con una superficie útil para la exposición y venta al público igual o superior a los 750 metros cuadrados, que estarán sometidos a autorización de la Consejería competente en materia de comercio, para su instalación, ampliación, modificación, traslado o cambio de titularidad, para lo cual acompañarán a la solicitud, la documentación que reglamentariamente se determine.
+Se modifica el título y se añade el apartado 2 por el art. 17.1 y 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 25
+
+Artículo 25. Condiciones y efectos de la autorización.
+Las condiciones de solicitud y concesión de la autorización a que se refiere el artículo anterior, así como los efectos de la misma y de su denegación, serán los previstos en el capítulo II del presente título para la licencia comercial de gran establecimiento.
+
+## TÍTULO III
+
+Horarios comerciales
+
+### Artículo 26
+
+Artículo 26. Horario en días laborables.
+Cada comerciante determinará libremente los días y el horario de apertura y cierre de sus establecimientos en el conjunto de los días laborables de la semana.
+Se modifica por el art. 2.12 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+ Se modifica por el art. 13.1 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 27
+
+Artículo 27. Publicidad de horarios.
+En todos los establecimientos comerciales deberá figurar la información del calendario y horario de apertura y cierre en sitio visible, tanto en el interior como en el exterior, incluso cuando esté cerrado el establecimiento.
+
+### Artículo 28
+
+Artículo 28. Actividad en domingos y festivos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+ Se modifica el apartado 1 por el art. 2.13 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+ Se modifica por el art. 17.3 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+ Se modifica el apartado 2 por el art. 13.2 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 29
+
+Artículo 29. Establecimientos con libertad horaria.
+Tendrán plena libertad para abrir los domingos y festivos:
+a) Los establecimientos comerciales cuya oferta habitual esté predominantemente formada por pan y bollería industrial (panaderías), pastelerías y reposterías, platos preparados, elaboración y venta de churros, patatas fritas, frutos secos y dulces, prensa, combustibles y carburantes, floristería y plantas, así como los instalados en estaciones, aeropuertos y medios de transporte terrestre y aéreo y los situados dentro de establecimientos hoteleros.
+Se entenderá que existe oferta habitual predominante, a efectos de lo dispuesto en el párrafo anterior, cuando el número de las referencias autorizadas supere en más de un 50 por 100, a las no autorizadas.
+No se podrán vender en domingos o festivos otros artículos que aquellos que hayan justificado, en su caso, la consideración de establecimiento con libertad de apertura en festivos.
+b) Los establecimientos comerciales dedicados exclusivamente a la venta de productos culturales, así como los que presten servicios de esta naturaleza.
+Son productos culturales aquellos cuya finalidad sea cultivar, desarrollar y formar los conocimientos humanos y el ejercicio de sus facultades intelectuales. Tendrán dicha consideración los siguientes: libros en soporte escrito o informático, la música en cualquier formato, periódicos, revistas, instrumentos musicales, cintas de vídeo, sellos, monedas, medallas conmemorativas, billetes para coleccionistas, artículos de dibujo y bellas artes, obras de arte, antigüedades, recuerdos y de artesanía popular.
+c) Los establecimientos sitos en municipios declarados zona de gran afluencia turística, así como los homologados con horario especial de apertura en domingos y festivos.
+d) Los pequeños y medianos establecimientos situados en el entorno inmediato de los mercados y mercadillos de venta ambulante autorizados que tradicionalmente se celebren en domingos y festivos, que podrán permanecer abiertos el mismo horario que éstos.
+e) Los locales comerciales para la celebración en los mismos de exposiciones, certámenes comerciales para la actividad de lanzamiento de un nuevo producto, siempre que no se venda y que se comunique como mínimo con un mes de antelación a la fecha prevista de su realización a la Consejería competente en materia de certámenes comerciales.
+f) Otros establecimientos que puedan ser excepcionados por la normativa vigente en la materia.
+Se añade el apartado f) por art. 13.3 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 30
+
+Artículo 30. Establecimientos de conveniencia.
+Tendrán plena libertad horaria las denominadas tiendas de conveniencia. Se entenderá como tales aquellas que, con una extensión útil no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos, vídeos, juguetes, regalos y artículos varios.
+
+### Artículo 31
+
+Artículo 31. Declaración de Zona de Gran Afluencia Turística.
+1. La Consejería competente en materia de comercio podrá declarar Zona de Gran Afluencia Turística a la totalidad de un término municipal, o parte de éste, ya sea para la totalidad del comercio o para un tipo de actividad comercial en concreto.
+La declaración, que supone la libertad para la apertura y cierre de los establecimientos comerciales, podrá incluir los periodos estacionales a que se contrae la aplicación de la libertad de apertura.
+2. El procedimiento para la declaración de Zona de Gran Afluencia Turística, se podrá iniciar por cualquiera de los siguientes medios:
+a) A solicitud del Ayuntamiento correspondiente, mediante Acuerdo al respecto del Órgano de Gobierno municipal competente.
+b) A solicitud de las asociaciones empresariales del sector comercial afectado y/o del ámbito territorial correspondiente.
+c) De oficio por la Consejería competente en materia de comercio.
+3. La solicitud de declaración de Zona de Gran Afluencia Turística, deberá fundamentarse en algunos de los siguientes criterios:
+a) Relación de plazas en empresas de actividades turísticas con la población de derecho.
+b) Relación de establecimientos de restauración, cafés, bares y similares con la población de derecho.
+c) Descripción de atractivos turísticos que acrediten la afluencia turística.
+d) Grado de aceptación de los comerciantes afectados por el régimen de aperturas de domingos y festivos.
+e) Circunstancias especiales que concurran en el caso concreto que así lo justifiquen.
+f) Necesidad y especificidad de la situación que se contempla y los beneficios que produce.
+4. Reglamentariamente se establecerá el procedimiento para la declaración de Zona de Gran Afluencia Turística.
+Se modifica por el art. 17.4 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## TÍTULO IV
+
+Actividades de promoción de ventas
+
+### Artículo 32
+
+Artículo 32. Ventas de promoción.
+1. A los efectos de esta Ley se entiende por venta de promoción aquella que tiene por finalidad dar a conocer un nuevo producto o artículo, o conseguir el aumento de venta de los existentes, o el desarrollo de uno o varios comercios o establecimientos.
+2. La venta de promoción deberá ir precedida o acompañada de la suficiente información al público, en la que deberá figurar con claridad:
+a) El producto o productos objeto de promoción.
+b) Las condiciones de venta.
+c) Disponer de existencias suficientes para hacer frente a la oferta.
+3. Si llegaran a agotarse durante la promoción las existencias de alguno de los productos ofertados, el comerciante podrá prever el compromiso de la reserva del producto seleccionado durante un plazo determinado, en las mismas condiciones y precio de la oferta. No obstante, si el comprador no estuviese conforme con dicha medida, o transcurriese el plazo de la reserva sin que el comerciante hubiese podido atender la demanda, el producto solicitado deberá sustituirse por otro de similares condiciones y características.
+Se modifica por el art. 8.2 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Artículo 33
+
+Artículo 33. Ventas con obsequio. Requisitos y autorización administrativa.
+1. Se consideran ventas con obsequio aquellas en las que el comerciante utiliza concursos, sorteos, regalos, vales, premios o similares, vinculados a la oferta o promoción de artículos regulados en el artículo anterior.
+2. Serán de aplicación a las ventas con obsequio los siguientes preceptos:
+a) Durante el período de oferta de venta con obsequio queda prohibido modificar al alza el precio, así como disminuir la calidad del producto.
+b) El número de existencias con las que cuenta el comerciante para hacer frente a la obligación de entrega de los obsequios, así como las bases por las que se regulan los concursos, sorteos o similares, deberán constar en el envase o envoltorio del producto de que se trate o, en su defecto, estar debidamente divulgadas.
+c) Los bienes o servicios en que consistan los objetos o incentivos promocionales, deberán entregarse al comprador al tiempo de la compra o en un plazo máximo de dos meses, a contar desde que el comprador reúna los requisitos exigidos.
+d) En todo caso, se respetarán los derechos e intereses de los consumidores establecidos en la legislación vigente.
+Se deroga el apartado 2.e) por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 34
+
+Artículo 34. Ventas en rebajas.
+1. Se aplicará lo dispuesto en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, en cuanto a las ventas en rebajas, correspondiendo a cada comerciante decidir libremente los periodos estacionales en que podrán tener lugar así como su duración.
+En todo caso, las fechas de las rebajas elegidas deberán exhibirse en los establecimientos comerciales en sitio visible al público, incluso cuando permanezcan cerrados.
+2. En el supuesto de que las ofertas en rebajas no afecten a la totalidad de los productos comercializados, los rebajados estarán debidamente identificados y diferenciados del resto.
+3. En todo caso, las reducciones de los precios se consignarán exhibiendo junto al precio anterior el precio rebajado de los mismos productos comercializados en el establecimiento.
+Se modifica por el art. 8.3 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Artículo 35
+
+Artículo 35. Ventas en liquidación.
+A los efectos previstos en los artículos 30 y 31 de la Ley 7/1996, de Ordenación del Comercio Minorista, deberán cumplirse los siguientes requisitos:
+a) En el supuesto de que una empresa sea titular de varios establecimientos comerciales, el cese total o parcial de la actividad de comercio deberá ser de todos ellos. El cierre total o parcial de un solo punto de venta no tendrá la consideración de cese total o parcial sino de cambio de local.
+b) La liquidación por la realización de obras de importancia sólo será posible cuando las mismas requieran el cierre del local.
+c) La liquidación en los supuestos de fuerza mayor sólo será posible cuando obstaculice el desarrollo normal del negocio por un período continuado como mínimo de un mes.
+d) La liquidación de los productos debe efectuarse en el mismo local o locales afectados donde se vendía habitualmente, salvo en los casos de cierre inminente de local y de los de fuerza mayor.
+
+## TÍTULO V
+
+Ventas domiciliarias, ventas especiales y adquisiciones de los comerciantes
+
+## CAPÍTULO I
+
+Ventas domiciliarias
+
+### Artículo 36
+
+Artículo 36. Concepto de ventas domiciliarias.
+1. Se consideran ventas domiciliarias, a los efectos de esta Ley, las realizadas profesionalmente mediante la visita del vendedor o de sus empleados o agentes para ofrecer los productos o servicios al lugar que designe el consumidor o posible comprador. No se considerará venta a domicilio la venta por correspondencia ni la celebrada en el establecimiento comercial por teléfono seguida del reparto a domicilio de los productos adquiridos.
+2. Tendrán igualmente la consideración de ventas domiciliarias las denominadas «ventas de reunión» de un grupo de personas convocadas por una de ellas, a instancia o de acuerdo con el vendedor.
+3. Se deberá cumplir con la normativa reguladora del producto que se vende, no pudiendo ser objeto de venta aquellos cuya regulación prohíba este tipo de ventas, especialmente los alimenticios y aquellos que por la forma de presentación no cumplan las normas técnicas sanitarias o de seguridad.
+
+### Artículo 37
+
+Artículo 37. Publicidad en las ventas domiciliarias.
+1. La publicidad de la oferta que deberá ser entregada al consumidor incluirá, al menos, los siguientes extremos:
+a) Identificación, domicilio de la empresa.
+b) Datos esenciales del producto, de forma que permitan su identificación inequívoca en el mercado.
+c) Precio, forma y condiciones de pago, gastos y plazo de envío.
+2. Sin perjuicio de lo establecido anteriormente y de acuerdo con lo dispuesto en el artículo 5.1 de la Ley 26/1991, de 21 de noviembre, de Protección de los Consumidores, en el caso de contratos celebrados fuera de los establecimientos mercantiles, el vendedor está obligado a poner en conocimiento del consumidor, por escrito, el derecho que le asiste de disponer de un período de reflexión de al menos siete días, durante el cual puede decidir la devolución del producto de que se trate y recibir las cantidades que haya entregado, salvo que se trate de productos perecederos.
+
+## CAPÍTULO II
+
+Ventas especiales
+
+### Artículo 38
+
+Artículo 38. Venta de saldos.
+De conformidad con los artículos 28 y 29 de la Ley 7/1996, de Ordenación del Comercio Minorista, deberá cumplirse lo establecido en el presente artículo:
+1. Los establecimientos dedicados de forma exclusiva a la venta de saldos podrán saldar artículos ajenos y artículos adquiridos específicamente con la finalidad de ser vendidos como saldos o restos, indicando claramente en el exterior su actividad.
+2. Los comerciantes podrán practicar la venta de saldos, siempre que estén debidamente señalizados y separados del resto de las promociones. Informarán de la duración de los saldos y en el caso de ser permanentes se hará constar tal circunstancia.
+3. En la actividad promocional de saldos, se empleará la denominación de saldos o restos, y se prestará especial atención a que las sugerencias de la existencia de ventajas económicas para el consumidor se correspondan con la realidad de los productos objeto del mismo.
+4. Si se ofrecen como saldos artículos defectuosos o deteriorados deberá constar expresamente esta circunstancia, de forma que sean susceptibles de ser identificados por el consumidor.
+Se suprime el apartado 5 por el art. 8.4 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Artículo 39
+
+Artículo 39. Venta automática.
+1. Es venta automática la forma de distribución detallista en la cual se pone a disposición del consumidor el producto o servicio para que éste lo adquiera mediante el accionamiento de cualquier tipo de mecanismo y previo pago de su importe.
+2. En todas las máquinas automáticas deberá figurar la indicación de si devuelve cambio de moneda, así como el tipo de moneda fraccionaria con la que funcione.
+3. No se podrán comercializar productos alimenticios que no estén envasados y etiquetados conforme a la normativa aplicable.
+Se deroga el apartado 4 por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+### Artículo 40
+
+Artículo 40. Venta a pérdidas.
+1. Las facturas emitidas por los fabricantes y por los proveedores del comercio minorista en general, por la entrega de las mercancías objeto de su comercio deben describir explícitamente todos los conceptos en cuya virtud se establezca el precio de adquisición de productos.
+2. Cuando una misma factura se refiere a diferentes artículos se especificarán con claridad todos los descuentos que afecten a cada uno de ellos, si es que existen.
+3. Cuando una misma factura se refiera a artículos gravados con tipos fiscales impositivos distintos, deberán diferenciarse las partes de la operación sujetas a cada tipo.
+4. Las bonificaciones, descuentos y conceptos análogos, sujetos al cumplimiento de condiciones futuras no podrán ser considerados como descuentos mientras no se cumplan aquellas condiciones a las que están sujetas, de acuerdo con lo establecido en los artículos 1.113 y 1.114 del Código Civil.
+5. La autoridad competente podrá requerir, simultánea e indistintamente, la presentación de la factura al proveedor y al comerciante.
+Se deroga el párrafo 1 por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## CAPÍTULO III
+
+Adquisiciones de los comerciantes
+
+### Artículo 41
+
+Artículo 41. Pago a proveedores.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+ Se modifica por el art. 13.4 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 42
+
+Artículo 42. Documentación.
+Sin perjuicio de lo establecido en el artículo 17 de la Ley estatal 7/1996 deberán cumplirse las siguientes prescripciones:
+1. A tales efectos las facturas deberán hacerse llegar a los comerciantes antes de que se cumplan treinta días desde la fecha de entrega y recepción de las mercancías o del último día del mes cuando en una sola factura se incluyan las operaciones realizadas para un mismo destinatario a lo largo de un mes natural.
+2. Las facturas se entenderán aceptadas en todos sus términos y reconocidas por sus destinatarios, cuando no hayan sido objeto de reparo en el plazo de los veinticinco días siguientes a su remisión. En el caso de que no sean conformes se dispone sobre el anterior un plazo adicional de diez días para su subsanación y nueva remisión de la correspondiente factura rectificada. A los efectos de lo dispuesto en este artículo, no se tendrán en cuenta las modificaciones contenidas en facturas rectificativas emitidas en fecha posterior a los plazos indicados.
+3. Los aplazamientos de pago de productos alimenticios perecederos no excederán en ningún caso de treinta días, contados a partir del día en que se entregue la mercancía.
+Se modifica por el art. 13.5 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 43
+
+Artículo 43. Infracciones.
+1. Sin perjuicio de las responsabilidades que de otro orden pudieran derivarse, constituyen infracciones administrativas en materia de comercio interior, las acciones u omisiones tipificadas en la presente Ley.
+2. Las infracciones se clasifican en leves, graves y muy graves.
+
+### Artículo 44
+
+Artículo 44. Responsabilidad.
+La responsabilidad administrativa por las infracciones tipificadas en la presente Ley corresponderá a las personas físicas o jurídicas titulares de la empresa y actividades comerciales de que se trate.
+
+### Artículo 45
+
+Artículo 45. Infracciones muy graves.
+Se considerarán infracciones muy graves:
+1. (Sin contenido)
+2. (Sin contenido)
+3. Las que supongan grave riesgo para la salud y seguridad de las personas.
+4. La negativa o resistencia a suministrar datos o facilitar la información requerida por las autoridades y sus agentes en el ejercicio de sus funciones de inspección y de la Administración comercial, cuando se efectúe acompañada de violencia física o verbal o cualquier otra forma de presión.
+5. Las que, habiéndose calificado de graves, hayan supuesto una facturación superior a cien millones de pesetas.
+6. La reincidencia en infracciones graves. Se entenderá que existe reincidencia si se dan los requisitos establecidos en el artículo 67 de la Ley 7/1996, de Ordenación del Comercio Minorista.
+Se dejan sin contenido los apartados 1 y 2 por el art. 4.5 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2009-4181.
+
+### Artículo 46
+
+Artículo 46. Infracciones graves.
+Se considerarán infracciones graves:
+1. La negativa o resistencia a suministrar datos o a facilitar la información requerida por las autoridades o sus agentes y funcionarios de la Administración comercial en el ejercicio de sus funciones de comprobación y el suministro de información inexacta o incompleta.
+2. El incumplimiento del requerimiento sobre el cese de actividades infractoras.
+3. Realizar ventas con pérdida, con excepción de los supuestos señalados en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, e incumplir las normas sobre facturas que recogen los artículos 40 y 42 de la presente Ley.
+4. Exigir precios superiores a aquellos que hubiesen sido objeto de fijación administrativa.
+5. El incumplimiento de los plazos máximos de pago que contempla el apartado 3 del artículo 42 de la presente ley, así como la falta de entrega por los comerciantes a sus proveedores de un documento que lleve aparejada ejecución cambiaria, y la falta de entrega de un efecto endosable a la orden en los supuestos y plazos contemplados en el artículo 42 de la presente ley, así como en el apartado 4 del artículo 17 de la Ley 7/1996, de 15 de enero.
+6. (Derogado)
+7. La venta bajo el anuncio o la denominación de «ventas con obsequio», «ventas en rebaja», «ventas en liquidación» o «ventas de saldos», con inobservancia de las características legales definidoras de las mismas.
+8. Estar afectados los objetos ofertados en las ventas con obsequio, en rebaja o en liquidación, por alguna causa que reduzca su valor de mercado.
+9. El falseamiento, en las ventas promocionales, de la publicidad de su oferta.
+10. Oferta de operaciones en cadena o pirámide en la forma prohibida por la Ley 7/1996, de Ordenación del Comercio Minorista.
+11. Modificar durante el período de duración de la oferta de ventas con obsequio el precio o la calidad del producto.
+12. El incumplimiento del régimen establecido sobre entrega de los obsequios promocionales.
+13. Anunciar ventas como de fabricante o mayorista con incumplimiento de lo establecido al respecto en el artículo 35 de la Ley 7/1996, de 15 de enero.
+14. (Derogado)
+15. El incumplimiento en los plazos de garantía y servicios postventa, así como en la custodia de artículos.
+16. Realizar la venta de vehículos usados con incumplimiento de lo establecido en la presente Ley.
+17. (Derogado)
+18. El incumplimiento del régimen establecido en la Ley 26/1991, de 21 de noviembre, de Protección de los Consumidores, en el caso de los contratos celebrados fuera de establecimiento mercantil.
+19. La reincidencia en infracciones leves. Se entenderá que existe reincidencia si se dan los requisitos establecidos en el artículo 67 de la Ley 7/1996, de Ordenación del Comercio Minorista.
+20. El incumplimiento de las obligaciones de comunicación establecidas en el artículo 19.
+Se deroga el apartado 6 por la disposición derogatoria única.1 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+ Se añade el apartado 20 por el art. 4.6 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
+ Se modifica el apartado 5 por el art. 2.14 y se derogan los apartados 14 y 17 por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+ Se modifican los apartados 3 y 5 por el art. 13.6 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 47
+
+Artículo 47. Infracciones leves.
+Se considerarán infracciones leves:
+1. (Derogado)
+2. El incumplimiento de la obligación de informar al público sobre los días y horas de apertura y cierre de los establecimientos comerciales, o no hacerlo en lugar visible del mismo.
+3. (Derogado)
+4. En general, el incumplimiento de las obligaciones establecidas en la presente Ley.
+Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 2/2012, de 12 de junio. Ref. BOE-A-2012-12814.
+ Se deroga el apartado 1 por la disposición derogatoria única.1.a) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 48
+
+Artículo 48. Cuantía de las multas.
+Las infracciones a lo dispuesto en esta Ley serán sancionadas con multa cuya cuantía se establecerá de acuerdo con la siguiente graduación:
+a) Las infracciones leves se sancionarán con apercibimiento, o multa de hasta 500.000 pesetas.
+b) Las infracciones graves, con multa desde 500.001 hasta 2.500.000 pesetas.
+c) Las infracciones muy graves, con multa desde 2.500.001 hasta 100.000.000 de pesetas.
+
+### Artículo 49
+
+Artículo 49. Medidas cautelares.
+1. La autoridad a quien corresponda la resolución del expediente podrá acordar, como medida cautelar, el decomiso de las mercancías falsificadas, fraudulentas, no identificadas o que incumplan los requisitos mínimos establecidos para su comercialización.
+2. El Gobierno de la Comunidad de Madrid podrá acordar, en el supuesto de infracciones muy graves que supongan un grave riesgo para la salud, grave perjuicio económico o generen una amplia alarma social, el cierre temporal de la empresa o establecimiento infractor por un plazo máximo de un año.
+
+### Artículo 50
+
+Artículo 50. Graduación.
+1. Las sanciones se graduarán especialmente en función de la trascendencia social de la infracción, la situación de predominio del infractor en el mercado, la naturaleza de los perjuicios causados, volumen de la facturación a la que afecta, el grado de voluntariedad o intencionalidad del infractor, la cuantía del beneficio obtenido, la capacidad económica, y el plazo de tiempo durante el que se haya venido cometiendo la infracción.
+2. La sanción no podrá suponer más del 5 por 100 de la facturación del comerciante afectada por la infracción en el caso de infracciones leves, del 50 por 100 en el caso de las infracciones graves y del volumen total de dicha facturación en el caso de infracciones muy graves.
+
+### Artículo 51
+
+Artículo 51. Prescripción de las infracciones.
+Las infracciones reguladas en la presente Ley prescribirán a los tres años las calificadas de muy graves, a los dos años las calificadas de graves y a los seis meses las calificadas de leves. Estos plazos se contarán a partir de la realización del acto sancionable o de la terminación del período de comisión si se trata de infracciones continuadas.
+
+### Artículo 52
+
+Artículo 52. Prescripción de las sanciones.
+Las sanciones prescribirán en los mismos plazos establecidos en el artículo anterior, a partir de la firmeza de la resolución sancionadora.
+
+### Artículo 53
+
+Artículo 53. Suspensión temporal de la actividad.
+Con la finalidad de asegurar la eficacia de la resolución que pudiera recaer, la autoridad competente en la materia podrá adoptar la medida de cierre de las instalaciones o de los establecimientos que no dispongan de las autorizaciones preceptivas o de la suspensión de su funcionamiento hasta que rectifiquen los defectos o se cumplan los requisitos, en los supuestos de falta muy grave.
+Dicha medida se adoptará mediante acuerdo motivado.
+
+### Artículo 54
+
+Artículo 54. Órganos competentes.
+Los órganos competentes para resolver el procedimiento sancionador e imponer las sanciones, así como para la adopción de las pertinentes medidas cautelares, son:
+a) El Director general que tenga atribuidas las competencias en materia de comercio interior, en las infracciones leves y graves.
+b) El titular de la Consejería competente en materia de comercio interior, en las infracciones muy graves.
+c) El Gobierno de la Comunidad de Madrid, para los supuestos de cierre temporal de la empresa o establecimiento infractor, por un plazo máximo de un año.
+
+### Artículo 55
+
+Artículo 55. Procedimiento sancionador.
+El procedimiento sancionador se sustanciará conforme a lo previsto en la normativa reguladora para el ejercicio de la potestad sancionadora por la Administración Pública de la Comunidad de Madrid.
+
+## CAPÍTULO III
+
+De la Inspección de Comercio
+Se añade por el art. 17.5 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 56
+
+Artículo 56. La Inspección de Comercio de la Comunidad de Madrid.
+1. A los inspectores adscritos a la Dirección General competente en materia de comercio, cuando actúen en el ejercicio de su función inspectora, tendrán la consideración de autoridad a todos los efectos, y ejercerán la comprobación, vigilancia y control del cumplimiento de las disposiciones vigentes en las materias cuya competencia esté atribuida a la Dirección General competente en materia de comercio.
+2. Reglamentariamente se procederá al desarrollo del ejercicio de la función inspectora.
+Se añade por el art. 17.5 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición adicional única
+
+Disposición adicional única.
+Para todos los Registros y actividades comerciales reguladas en esta Ley, así como en la reglamentación de desarrollo de la misma, se tendrá en cuenta, en todo caso, lo dispuesto en la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal, y en la Ley 13/1995, de 21 de abril, de Regulación del Uso de la Informática en el Tratamiento de Datos Personales por la Comunidad de Madrid.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+A los expedientes en tramitación de licencia comercial de apertura de grandes establecimientos comerciales les será de aplicación lo dispuesto en los artículos 17 y 19.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las personas físicas o jurídicas que, a la entrada en vigor de esta Ley, ejerzan una actividad comercial que suponga su inscripción obligatoria en alguno de los Registros establecidos en la presente Ley, deberán proceder a realizar la citada inscripción en el plazo máximo de un año, a contar desde la entrada en vigor del Reglamento que determine los datos objeto de inscripción y los documentos precisos para la misma.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley y en particular la Ley 4/1994, de 6 de junio, de Calendario de Horarios Comerciales, salvo el artículo 3.1, la Orden 3323/1996, de 16 de abril, la Orden 3349/1996, de 22 de abril, artículos 1 y 2.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de seis meses a partir de la entrada en vigor de la Ley se aprobarán los Reglamentos de regulación de los Registros de Franquiciadores y de las Empresas de Ventas a Distancia.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Gobierno de Madrid, a propuesta de la Consejería competente por razón de la materia, para dictar cuantas disposiciones sean necesarias para el desarrollo de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiéndose publicar en el «Boletín Oficial del Estado».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 29 de abril de 1999.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente.

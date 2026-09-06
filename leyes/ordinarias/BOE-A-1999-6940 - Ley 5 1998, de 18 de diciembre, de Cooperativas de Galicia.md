@@ -1,0 +1,2095 @@
+# Ley 5/1998, de 18 de diciembre, de Cooperativas de Galicia.
+
+- Identificador BOE: `BOE-A-1999-6940`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-6940
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Constitución Española, en el artículo 129.2, encomienda a los poderes públicos la promoción de las diversas formas de participación en la empresa y el fomento, mediante una legislación adecuada, de las sociedades cooperativas, y el Estatuto de Autonomía de Galicia reconoce en el artículo 55.3 la potestad de la Comunidad Autónoma para hacer uso de las facultades previstas en el apartado 1 del artículo 130 de la Constitución, atendiendo a la modernización y desarrollo de todos los sectores económicos, los cuales pueden dinamizarse mediante el fomento de las sociedades cooperativas, a través de su propia legislación.
+La Comunidad Autónoma de Galicia asumió la competencia exclusiva en materia de cooperativas en virtud de la transferencia hecha por la Ley Orgánica 16/1995, de 27 de diciembre, ampliando la recogida en el artículo 28.7 del Estatuto de Autonomía de Galicia.
+Disponiendo, pues, la Comunidad Autónoma de Galicia de competencia exclusiva en materia de sociedades cooperativas, resulta necesaria y prioritaria la promulgación de la primera Ley de cooperativas de Galicia, ajustada a las especificidades propias de las mismas y adaptada a las estructuras económicas actuales, que les permita desarrollarse económica y empresarialmente y contribuya eficazmente a su dinamización.
+El análisis de la realidad de las cooperativas gallegas evidencia el peso de esta forma empresarial de organización y ordenación de los recursos y su destacada importancia en la estructura socioeconómica de Galicia.
+La Xunta de Galicia, asumiendo las recomendaciones de la Alianza Cooperativa Internacional, incardina este texto legal en el respeto en lo sustancial a los principios cooperativos revisados con motivo de su centenario, quedando reflejados expresamente en su artículo primero y a través del texto articulado.
+Refuerza la presente Ley el carácter empresarial de las cooperativas al objeto de potenciar su intervención competitiva en el mercado, entendiéndolas como instrumentos eficaces para la creación de riqueza y generación de empleo en sus aspectos cuantitativos y cualitativos, con una función de destacada importancia en la redistribución de recursos, así como en la prestación de servicios de naturaleza social.
+La expansión de la economía de mercado obliga cada vez más a las empresas a introducirse en los distintos mercados para poder competir y subsistir, lo que exige del legislador la necesidad y responsabilidad de adecuar los principios cooperativos a los tiempos futuros, dotando a estas sociedades de instrumentos válidos y suficientes, que les permitan orientarse en su acceso al próximo siglo, organizándose para afrontar los nuevos desafíos.
+Potencia la presente Ley la autonomía de la propia sociedad cooperativa, confiriendo un mayor grado de autorregulación a través de los estatutos y de los propios órganos sociales, definiendo y delimitando las competencias y responsabilidades en el ejercicio de sus funciones en el orden interno, a efectos de evitar la distorsión hasta ahora existente en su desarrollo, lo que va a redundar en una mayor eficacia en su gestión empresarial, sin detrimento del principio de democracia interna de la sociedad.
+Es objetivo prioritario de la presente Ley dotar al sector cooperativo de Galicia de una regulación propia, avanzada, flexible y con voluntad de estabilidad, que recoja las inquietudes de las entidades cooperativas.
+La Ley se estructura en cinco títulos con 142 artículos, tres disposiciones adicionales, siete transitorias, una única derogatoria y tres finales.
+1
+TÍTULO I
+De las sociedades cooperativas
+Queda estructurado en diez capítulos que regulan la normativa común de aplicación a todas las entidades cooperativas.
+Partiendo de la realidad de Galicia, se define la cooperativa como una sociedad de capital variable, propiedad conjunta, con plena autonomía de gestión y regida por la democracia interna, en consonancia con los postulados proclamados por la Alianza Cooperativa Internacional, fortaleciéndose además su carácter empresarial.
+Se introduce, con carácter necesario y de exclusividad a las sociedades sujetas a la presente Ley, la inclusión en su denominación de las palabras «sociedad cooperativa gallega», al objeto de dotarlas de una identidad propia y de que terceros conozcan la legislación aplicable a las mismas.
+Acorde con las actuales tendencias legislativas en esta materia, se establece legalmente un capital social mínimo como garantía frente a terceros y rigor empresarial de la sociedad cooperativa.
+Se adapta el número mínimo de socios a la realidad gallega, en orden a facilitar el acceso a esta fórmula empresarial, limitándose la responsabilidad del socio por las deudas sociales hasta el límite del importe de las aportaciones suscritas al capital social.
+En congruencia con los principios cooperativos y como instrumento coadyuvante para el desarrollo y la consolidación de la sociedad cooperativa, se establece la posibilidad de que la cooperativa pueda realizar operaciones con terceros no socios, tanto por circunstancias estructurales como coyunturales, flexibilizándose la posibilidad de la realización de estas operaciones, teniendo en cuenta que en su aplicación deberá valorarse la incidencia de la normativa fiscal vigente en cada momento.
+Como mecanismo organizativo opcional, se incorpora la regulación de secciones por actividades económicas dentro de una misma cooperativa, con especial atención a las secciones de crédito, delimitándose legalmente la responsabilidad patrimonial de las mismas.
+Se regula el procedimiento constitutivo de la sociedad cooperativa desde el inicio hasta la adquisición de la personalidad jurídica, exigiéndose para su constitución escritura pública, y posibilitando instar la previa calificación de los estatutos.
+Como instrumento que permita a la cooperativa la incorporación y permanencia de las personas que participen y coadyuven en la consecución de su objeto social se regulan diversas tipologías de socios. Se incardina la figura del asociado, presente en otras legislaciones cooperativas, en el socio colaborador regulado en la presente Ley, posibilitando además que participe en la consecución del objeto cooperativo.
+Potenciando la participación democrática, conjugada con los intereses económicos de la cooperativa y con el compromiso del socio en la actividad cooperativizada, se prevé la posibilidad estatutaria de hacer uso de voto plural ponderado en determinadas clases de cooperativas, en función de su particularidad.
+A fin de dar mayor estabilidad al Consejo Rector y permitir que el socio persona jurídica pueda desempeñar su cargo durante el periodo para el que ha sido designado, se atribuye a esta la posibilidad de ser miembro de los órganos sociales con independencia de la persona física que la represente.
+En aras de una mayor operatividad se prevé la figura de Administrador único, por la complejidad de un órgano de administración colegiado en cooperativas de pequeña magnitud.
+Al objeto de reforzar la profesionalidad, mejorar y dinamizar la gestión empresarial se prevé la posibilidad estatutaria de incorporar al órgano de gobierno colegiado y en calidad de Consejeros a personas físicas no socias, introduciéndose la figura de Consejero Delegado.
+En esta línea de profesionalizar los órganos sociales, se considera la posibilidad estatutaria de acceder al cargo de Interventor a personas físicas no socias hasta el límite legalmente establecido, reforzando sus competencias para lograr una mayor eficacia en su labor fiscalizadora de orden interno.
+A fin de conseguir la mayor transparencia en la gestión y en las cuentas de la sociedad cooperativa se amplían los supuestos de obligatoriedad de someterla a auditoría externa.
+Como garantía de la seguridad jurídica que deben observar ciertos acuerdos sociales de indudable trascendencia pública y social, se amplían aquellos actos que necesariamente deberán ser dictaminados por el Letrado asesor.
+El régimen económico de la sociedad cooperativa tiene en cuenta la obligatoriedad del total desembolso del capital social mínimo, previendo la posibilidad de efectuar aportaciones no en dinero y abriendo un abanico de fórmulas de financiación externa.
+La distribución de excedentes, partiendo de las asignaciones mínimas legales a fondos obligatorios, abre un importante campo de autonomía de la Asamblea general para acordar su destino con la posibilidad de incrementar los fondos obligatorios o crear fondos de reserva voluntarios, irrepartibles o no, o destinarlo al retorno cooperativo según la definición que del mismo se establece.
+En la imputación de pérdidas, se configura el Fondo de Reserva Obligatorio como primer soporte de las mismas sin ningún tipo de limitación.
+Se facilita la posibilidad de la llevanza de los libros sociales mediante la realización de asientos y anotaciones por cualquier procedimiento idóneo. En lo que respecta a la contabilidad de la sociedad se hace una remisión expresa a la aplicación de las normas generales contables, en procura de la uniformidad con el resto de las diferentes sociedades.
+Se regula la casuística sobre la fusión, escisión, transformación, disolución y liquidación de sociedades cooperativas. Resulta significativa la transformación de la sociedad cooperativa permitiéndose legalmente transferir parte de su patrimonio social a la sociedad en la que se transforma, estableciendo al mismo tiempo las garantías y cautelas necesarias para que este patrimonio sirva para la consolidación y el desarrollo de la actividad empresarial.
+2
+TÍTULO II
+Del Registro de Cooperativas de Galicia
+Se crea el Registro de Cooperativas de Galicia, estructurado en el Registro Central y en el correspondiente Registro en cada una de las provincias de la Comunidad Autónoma.
+Se perfecciona su eficacia, definida por los principios de publicidad material y formal, legalidad, legitimación, prioridad y tracto sucesivo.
+Al objeto de mejorar la prestación del servicio público a las entidades cooperativas, terceros e interesados, se potencian las funciones de los Registros de cooperativas.
+En este sentido cabe resaltar la facultad de legalización de libros y de recepción para su depósito de las cuentas anuales de las cooperativas. Asimismo se reserva al Registro Central la competencia para calificar e inscribir determinadas clases de cooperativas, así como las asociaciones de cooperativas, nombrar Auditores y otros expertos cuando le sean solicitados por las entidades cooperativas, dictar instrucciones y ejercer la coordinación de los Registros provinciales.
+3
+TÍTULO III
+Disposiciones especiales
+Queda estructurado en tres capítulos que regulan las clases de cooperativas de primer grado, las cooperativas de segundo grado y otras formas de colaboración económica.
+En función de la realidad existente en Galicia, recoge quince clases de cooperativas de primer grado, previendo la posibilidad de que puedan crearse otras nuevas clases cuando resulte necesario para el desarrollo cooperativo autonómico.
+En la clasificación regulada se recoge la casuística tradicional consolidada en el sector cooperativo y se incluyen además nuevas clases de cooperativas, ajustándose, por una parte, a la realidad de explotación de recursos propios de Galicia y, por otra, abriendo la posibilidad de utilizar esta fórmula societaria para satisfacer determinados servicios sociales que la sociedad actual viene demandando.
+En las cooperativas de trabajo asociado se excepciona el número mínimo de socios, posibilitando la creación de pequeñas empresas como fórmula adecuada de creación de empleo.
+Se regulan los derechos y obligaciones dimanantes de la prestación de trabajo y se recoge la posibilidad de que, a fin de conseguir la plena realización de su objeto económico y social y sin sobredimensionar la empresa, la sociedad cooperativa pueda contratar asalariados con el límite fijado.
+En la cooperativa agraria se posibilita la incorporación como socio de la compañía familiar gallega, configurada como unidad económica única, institución propia del derecho civil gallego. Se prevé también la sustitución de la condición de socio en caso de que el titular de la explotación deje de serlo, sin necesidad de transmisión. Se potencia la intercooperación entre las cooperativas agrarias como instrumento que facilite su desarrollo y se posibilita la realización de actividades de consumo recogiendo la realidad existente en este momento en atención a las necesidades de sus socios y a la comunidad de su entorno.
+Respecto a las cooperativas de vivienda y por su particularidad, la Ley establece cautelas conducentes a preservar los derechos de los socios y facilitar la transparencia en su gestión.
+La entidad y tradición marítima de Galicia exige la regulación de cooperativas del mar como una clase específica, posibilitando el acceso al cooperativismo de este importante sector económico.
+Se destaca por su innovación y trascendencia en el sector primario la cooperativa de explotación de los recursos acuícolas, configurada como una empresa en la que se integran los derechos de uso y aprovechamiento de bienes y títulos administrativos habilitantes, juntamente con la prestación de trabajo personal, al objeto de gestionarla realizando la explotación de recursos acuícolas en común.
+En orden a facilitar el acceso al empleo y mejorar la calidad de vida de colectivos con dificultad de integración social, se crea una clase específica de cooperativas.
+Se crea la clase de cooperativas de servicios sociales como un medio adecuado para la prestación de servicios de naturaleza social.
+4
+TÍTULO IV
+De las asociaciones y representación cooperativa
+Queda estructurado en dos capítulos que regulan el asociacionismo cooperativo y el Consejo Gallego de Cooperativas.
+Para ordenar, clarificar y potenciar la representatividad de las sociedades cooperativas se configura en la Ley un diseño del asociacionismo cooperativo de estructura piramidal en su triple manifestación de uniones, federaciones y confederaciones, a fin de garantizar la esencia del movimiento cooperativo y ayudar a su consolidación, respetando en todo caso la autonomía y la libertad de asociación.
+Se posibilita que una confederación de cooperativas, siempre que reúna la representatividad suficiente, pueda denominarse Confederación de Cooperativas de Galicia.
+Se crea el Consejo Gallego de Cooperativas como máximo órgano de promoción y difusión del cooperativismo en la Comunidad Autónoma, con funciones además de carácter consultivo y asesor de las Administraciones Públicas en esta materia. Se diseña como un órgano colegiado en el cual participan las diferentes Administraciones, las instituciones y el movimiento cooperativo, todos ellos interesados en el fomento, la promoción y la difusión del cooperativismo.
+Viene a cubrir este órgano una laguna existente en las relaciones entre las propias cooperativas y entre estas con las Administraciones Públicas.
+Además de las funciones de carácter consultivo, se le atribuyen otras importantes funciones como el arbitraje en cuestiones litigiosas cooperativas, el nombramiento de liquidadores en determinados supuestos y la planificación y gestión de los fondos de formación y promoción de las cooperativas que los transfieran voluntariamente u obligatoriamente si no los han gestionado en el plazo legalmente previsto.
+Para el ejercicio de las funciones encomendadas por la Ley se le garantiza plena capacidad de obrar, asignándosele, entre otros, los recursos económicos provenientes de las liquidaciones y transformaciones de las sociedades cooperativas.
+5
+TÍTULO V
+De la Administración Pública y las cooperativas
+Se regula la inspección de las cooperativas, se tipifican las infracciones y se establecen las sanciones.
+La potestad de la función inspectora en relación con el cumplimiento de la presente Ley corresponde a la Consellería competente en materia de trabajo, sin perjuicio de las funciones inspectoras que puedan corresponder a otras Consellerías.
+Se concluye el texto articulado haciendo mención de una serie de medidas de fomento que contribuyen al desarrollo del sector cooperativo de Galicia.
+La presente Ley se complementará con las correspondientes normas de desarrollo reglamentario, dictadas en función de la facultad que confiere el texto legal.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia, y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su Presidente, promulgo en nombre del Rey, la Ley de Cooperativas de Galicia.
+
+## TÍTULO I
+
+De las sociedades cooperativas
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Concepto.
+1. La cooperativa es una sociedad de capital variable que, con estructura y gestión democrática, en régimen de libre adhesión y baja voluntaria, desarrolla una empresa de propiedad conjunta, a través del ejercicio de actividades socioeconómicas, para prestar servicios y satisfacer necesidades y aspiraciones de sus socios, y en interés por la comunidad, mediante la participación activa de los mismos, distribuyendo los resultados en función de la actividad cooperativizada.
+2. La gestión y el gobierno de la sociedad cooperativa corresponden exclusivamente a esta y a sus socios.
+3. Cualquier actividad económico-social podrá desarrollarse mediante una sociedad constituida al amparo de la presente Ley.
+4. La sociedad cooperativa se ajustará en su estructura y funcionamiento a los principios establecidos por la Alianza Cooperativa Internacional aplicados en el marco de la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley Autonómica se aplicará a todas las entidades cooperativas con domicilio social en la Comunidad Autónoma de Galicia que realicen su actividad cooperativizada con carácter principal dentro del territorio de la Comunidad gallega, todo ello sin perjuicio de que establezcan relaciones jurídicas con terceras personas o realicen actividades de carácter instrumental, personales, accesorias o complementarias a su objeto social estableciendo sucursales fuera de dicho territorio.
+Se entenderá que la actividad cooperativizada se desarrollará con carácter principal en la Comunidad Autónoma de Galicia cuando dicha actividad se desarrolle mayoritariamente dentro de su ámbito territorial.
+Igualmente, la presente Ley se aplicará a todas las uniones, federaciones y confederaciones de cooperativas que, con domicilio social en la Comunidad Autónoma de Galicia, desarrollen su objeto social principalmente en este ámbito territorial.
+Se modifica por el art. único.1 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 3
+
+Artículo 3. Denominación.
+1. Las cooperativas sujetas a la presente Ley incluirán necesaria y exclusivamente en su denominación las palabras «sociedad cooperativa gallega» o su abreviatura «s. coop. gallega».
+2. Ninguna entidad cooperativa podrá adoptar denominación idéntica a la de otra ya existente ni usar nombres equívocos o que induzcan a confusión en relación con su ámbito, objeto social o clase, ni con otro tipo de entidades.
+3. Ninguna otra entidad ni empresario podrá utilizar el término «cooperativa» o su abreviatura ni otro término que induzca a confusión.
+
+### Artículo 4
+
+Artículo 4. Domicilio social.
+La sociedad cooperativa tendrá su domicilio social dentro del territorio de la Comunidad Autónoma de Galicia, en el lugar donde realice principalmente sus actividades económicas y sociales cooperativizadas con sus socios o centralice su gestión administrativa y dirección empresarial.
+
+### Artículo 5
+
+Artículo 5. Capital social mínimo.
+1. El capital social mínimo para constituirse y funcionar una sociedad cooperativa no será inferior a tres mil euros, expresándose en esta moneda, debiendo estar totalmente desembolsado desde su constitución. Se exceptúan las cooperativas juveniles, para las que el capital social mínimo será de trescientos euros
+2. Los estatutos podrán fijar un capital social mínimo superior al señalado en el apartado anterior, que también estará desembolsado en su totalidad desde la elevación a público del acuerdo social.
+La variación de la cifra de este capital requiere una modificación estatutaria y su acuerdo deberá publicarse en el «Diario Oficial de Galicia». Dicho acuerdo deberá depositarse en el Registro de Cooperativas de Galicia, que tramitará su publicación gratuita en el mismo.
+Se modifica el apartado 1 por la disposición final 1.1 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+
+### Artículo 6
+
+Artículo 6. Responsabilidad.
+1. Los socios responderán de las deudas sociales solo hasta el límite de sus aportaciones suscritas al capital social, estén o no desembolsadas en su totalidad.
+2. El socio que cause baja en la cooperativa responderá personalmente durante cinco años desde la pérdida de su condición por las deudas sociales, previa excusión del haber social, derivadas de las obligaciones contraídas por la cooperativa con anterioridad a su baja y hasta el importe reembolsado de sus aportaciones al capital social.
+
+### Artículo 7
+
+Artículo 7. Número mínimo de personas socias.
+1. Las sociedades cooperativas de primer grado deberán estar integradas, al menos, por dos personas socias.
+A estos efectos no se computarán las personas socias a prueba, excedentes y colaboradoras.
+2. Las cooperativas de segundo grado estarán formadas como mínimo por dos sociedades cooperativas.
+Se modifica el apartado 1 por la disposición final 1.1 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. único.2 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 7 bis
+
+Artículo 7 bis. Especialidades de las cooperativas de dos personas socias.
+A las cooperativas que únicamente cuenten con dos personas socias les serán especialmente de aplicación, en tanto permanezcan en esa situación y aunque sus estatutos estableciesen otra cosa, las disposiciones siguientes:
+a) Todos los acuerdos sociales que requieran mayoría de personas socias o de votos habrán de adoptarse con el voto favorable de las dos únicas personas socias.
+b) Podrán constituir su consejo rector con solo dos miembros, que, necesariamente, se distribuirán los cargos de presidente o presidenta y secretario o secretaria.
+c) No precisarán constituir ningún otro órgano.
+d) Podrá encomendarse la liquidación de estas cooperativas a una o dos personas socias liquidadoras.
+e) El importe total de las aportaciones de cada persona socia al capital social no podrá sobrepasar el 50 % del mismo.
+f) En el trámite de audiencia a que se refiere el apartado b) del punto 2 del artículo 141, en defecto de órgano de administración, comparecerán las dos personas socias.
+g) La cooperativa que permanezca más de cinco años con solo dos personas socias vendrá obligada, a partir del siguiente ejercicio, a realizar una dotación adicional a la reserva obligatoria del 2,5 % de su cifra de negocios anual.
+Se añade por la disposición final 1.2 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 8
+
+Artículo 8. Operaciones con terceros.
+1. Las sociedades cooperativas podrán realizar actividades y servicios cooperativizados con terceros no socios, en los términos previstos en la presente Ley, sin perjuicio de las condiciones impuestas en cada momento por la normativa fiscal de aplicación.
+2. No obstante, toda sociedad cooperativa, cuando por circunstancias excepcionales no imputables a la misma operase exclusivamente con sus socios o terceros dentro de los límites establecidos por la presente Ley y le suponga una disminución de actividad que ponga en peligro su viabilidad económica, podrá ser autorizada para realizar o, en su caso, ampliar actividades y servicios con terceros, por plazo no superior a un año y hasta la cuantía que fije la autorización en función de las circunstancias que concurran.
+La solicitud se resolverá en el plazo de treinta días por la autoridad administrativa de la que dependa el Registro de cooperativas en que figure inscrita la sociedad, entendiéndose estimada si no hubiese recaído resolución expresa en dicho plazo.
+3. Los beneficios obtenidos de tales operaciones se imputarán como mínimo en un 50 por 100 al Fondo de Reserva Obligatorio, destinándose el resto con arreglo a previsión estatutaria o, en su defecto, según acuerde la Asamblea general.
+4. Las cooperativas deberán contabilizar estas operaciones de forma separada e independiente, sin perjuicio de la contabilidad general de la cooperativa.
+5. Las cooperativas de crédito y las de seguros deberán cumplir en sus operaciones con terceros los requisitos y limitaciones de la regulación aplicable a su respectiva actividad.
+
+### Artículo 9
+
+Artículo 9. Secciones.
+1. Los estatutos podrán contemplar y regular la constitución y el funcionamiento de secciones en el seno de la cooperativa, con autonomía de gestión y patrimonio adscrito a la sección, a fin de desarrollar actividades económicas específicas, derivadas o complementarias de su objeto social.
+La gestión y representación de la sección corresponderá al órgano de administración, sin perjuicio de que este pueda conferir apoderamiento a favor de una persona o designar a un director o directora para la sección, que estará a cargo del giro y tráfico ordinario de la misma.
+2. Estatutariamente podrá establecerse la existencia de juntas de sección, integradas por las personas socias adscritas a la misma, en las que podrán delegarse competencias que no sean exclusivas de los órganos sociales.
+3. En los resultados negativos de las operaciones que realice la sección quedará afectado en primer lugar el patrimonio de la misma, sin perjuicio de la responsabilidad patrimonial universal de la cooperativa.
+Salvo disposición estatutaria en contra, la distribución de excedentes será diferenciada.
+4. El consejo rector y la asamblea general de la cooperativa podrán acordar la suspensión, con efectos inmediatos, de los acuerdos adoptados por la junta de personas socias de una sección, debiendo hacer constar los motivos por los que los consideran impugnables o contrarios al interés general de la cooperativa, todo ello sin perjuicio de que tales acuerdos puedan ser impugnados por la vía establecida en el artículo 52 y en el artículo 40 de la presente Ley, respectivamente.
+5. Las secciones llevarán necesariamente su contabilidad de forma independiente, sin perjuicio de la general de la cooperativa, así como un libro registro de cooperativistas adscritos a las mismas y un libro de actas, en su caso.
+6. Las cooperativas con secciones vendrán obligadas a realizar en cada ejercicio económico auditoría externa de sus cuentas.
+Se modifica por el art. único.3 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 10
+
+Artículo 10. Secciones de crédito.
+1. Las cooperativas de cualquier clase, salvo las de crédito, podrán tener secciones de crédito. Las secciones de crédito, sin personalidad jurídica propia, podrán desarrollar actividades y prestar servicios financieros de activo y de pasivo exclusivamente con socios de la cooperativa o con esta, en calidad de intermediarios financieros, sin perjuicio de poder rentabilizar sus depósitos o sus excedentes de tesorería en cooperativas de crédito, bancos o cajas, siempre y cuando el depósito realizado reúna los requisitos de seguridad y liquidez.
+La sección de crédito deberá llevar una contabilidad separada e independiente sin perjuicio de la general de la cooperativa.
+2. Dichas cooperativas vendrán obligadas a designar a un Gerente propio para la sección, encargado del giro y tráfico de la misma, sin alterar el régimen de las facultades propias de los Administradores. Están obligadas a auditar sus cuentas en cada ejercicio económico, depositando la auditoría para su conocimiento en el departamento competente en materia de trabajo de la Xunta de Galicia, con independencia del cumplimiento de lo dispuesto en el artículo 73 de la presente Ley.
+3. La creación de la sección de crédito se contemplará en los estatutos y será aprobada por la asamblea general. Dicho acuerdo, elevado a escritura pública, así como el reglamento de régimen interno de la sección, también aprobado por la asamblea general, habrán de presentarse en el Registro de Cooperativas de Galicia para su depósito y posterior inscripción del acuerdo, momento en que adquirirá eficacia jurídica.
+4. Las cooperativas con sección de crédito deberán contar con un Letrado asesor, encargado de dictaminar si los acuerdos adoptados por la cooperativa son conformes a derecho.
+5. La Xunta de Galicia, a propuesta de la Consellería competente en materia de trabajo y previa audiencia del Consejo Gallego de Cooperativas, fijará la proporción máxima permitida entre los depósitos de los socios en la sección y los recursos propios de las cooperativas con sección de crédito.
+Se modifica el apartado 3 por la disposición final 1.3 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## CAPÍTULO II
+
+De la constitución de la cooperativa
+
+### Artículo 11
+
+Artículo 11. Constitución.
+1. La sociedad cooperativa se constituirá mediante escritura pública que se inscribirá en el correspondiente Registro de cooperativas, adquiriendo en este momento personalidad jurídica.
+2. Para llevar a cabo su constitución, los promotores pueden optar por solicitar la previa calificación del proyecto de estatutos ante el Registro de cooperativas competente o bien otorgar directamente la escritura pública de constitución e instar su inscripción en dicho Registro.
+
+### Artículo 12
+
+Artículo 12. De la Asamblea constituyente.
+1. Con carácter previo a la elevación a pública de la escritura de constitución de la sociedad cooperativa deberá tener lugar la Asamblea constituyente, que estará integrada por los promotores de la sociedad y que designará de entre ellos a quien haya de ejercer de Presidente y Secretario de la misma.
+No obstante, si la escritura pública de constitución fuese otorgada por la totalidad de los promotores de la sociedad y no se hiciese uso de la facultad de obtener la previa calificación del proyecto de estatutos por el Registro de cooperativas, no será necesaria la realización de la Asamblea constituyente.
+2. La asamblea constituyente deliberará y adoptará, como mínimo, los acuerdos sobre todos aquellos extremos que resulten necesarios para el otorgamiento de la correspondiente escritura de constitución, aprobando, en todo caso, los estatutos de la cooperativa y designando de entre los promotores a las personas que tengan que otorgar la escritura pública de constitución, cuyo número no podrá ser inferior a tres, debiendo estar entre ellos, al menos, el designado como secretario de la asamblea constituyente y los designados para desempeñar los cargos del primer órgano de administración.
+Si se realizasen aportaciones no en dinero, la valoración dada a las mismas deberá ser aprobada por la Asamblea constituyente, previo informe de experto independiente.
+3. El acta de la Asamblea constituyente deberá recoger las deliberaciones y los acuerdos adoptados, la relación de promotores con los datos establecidos para el otorgamiento de la escritura de constitución de la sociedad y los resultados de las votaciones, así como el lugar, fecha y hora de la reunión.
+El acta será certificada por quien ejerció las funciones de Secretario de la Asamblea constituyente, con el visto bueno del Presidente de la misma.
+Se modifica el apartado 2 por la disposición final 1.2 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+
+### Artículo 13
+
+Artículo 13. La sociedad cooperativa en constitución.
+1. El Presidente, el Secretario o el promotor facultado expresamente por la Asamblea constituyente deberá realizar todos los actos y las actividades necesarias para la constitución de la cooperativa y su posterior inscripción, además de todas aquellas que expresamente le sean encomendadas por la Asamblea constituyente, actuando hasta dicho momento en nombre y representación de la futura sociedad, resultando por cuenta de la misma todos los gastos devengados por dichas actuaciones, siempre y cuando estos resultasen necesarios.
+2. De los actos y contratos suscritos por los promotores facultados en nombre de la cooperativa, y de su cumplimiento antes de su inscripción, responderán solidariamente aquellos que los hubiesen suscrito, salvo:
+a) Que hubiesen sido autorizados expresamente por la Asamblea constituyente.
+b) Que dicha Asamblea hubiese acordado que su eficacia quede condicionada a la inscripción de la cooperativa, ratificándose automáticamente por consecuencia de la misma.
+c) Que los acepte expresamente la cooperativa dentro del plazo no superior a un mes desde su inscripción.
+En estos supuestos cesará la responsabilidad solidaria de los promotores facultados, respondiendo los socios de los actos y contratos suscritos con anterioridad a la inscripción, así como de todos los gastos necesarios para la práctica de la misma, con la aportación social efectuada por cada uno de ellos o que estuviesen obligados a desembolsar siempre que el patrimonio social sea suficiente para hacer frente a las obligaciones contraídas. En otro caso, los socios vendrán obligados personalmente a cubrir la diferencia.
+3. Hasta el momento en que se produzca la inscripción registral de la cooperativa, la sociedad deberá añadir a su denominación los términos «en constitución».
+
+### Artículo 14
+
+Artículo 14. Contenido mínimo de los estatutos.
+1. Los estatutos de las sociedades cooperativas sujetas a la presente Ley deberán regular como contenido mínimo los siguientes extremos:
+1) La denominación de la sociedad.
+2) El domicilio social.
+3) El objeto social.
+4) El capital social mínimo.
+5) El ámbito territorial donde desarrollará las actividades cooperativizadas con sus socios.
+6) La duración de la sociedad.
+7) Las condiciones y requisitos para adquirir la condición de socio y el régimen de baja.
+8) La cuantificación y el establecimiento del régimen de la participación mínima del socio en la actividad cooperativa que desarrolla su objeto y fin social, pudiendo establecer y regular el principio de exclusividad.
+9) Las obligaciones y derechos de los socios.
+10) Las normas de disciplina social, la tipificación de las infracciones y sanciones, el procedimiento sancionador y los recursos.
+11) La forma de publicidad y el plazo para convocar la Asamblea general, ordinaria y extraordinaria, en primera y segunda convocatoria.
+12) La aportación obligatoria mínima al capital social para adquirir la condición de socio de la cooperativa.
+13) La composición del órgano de administración, del de intervención y, en su caso, del Comité de Recursos de la cooperativa, así como la duración del mandato de sus miembros.
+14) El régimen de transmisión de las aportaciones de los socios, así como su derecho de reembolso sobre las mismas.
+15) El régimen de las secciones que se creen, en su caso, en la cooperativa.
+16) Las causas de disolución de la cooperativa.
+17) Cualquier otra materia exigida por la presente Ley.
+2. Los estatutos podrán ser desarrollados a través del reglamento de régimen interno, que deberá ser aprobado por la Asamblea general.
+
+### Artículo 15
+
+Artículo 15. Calificación previa del proyecto de estatutos.
+1. Los promotores facultados por la Asamblea constituyente podrán, con carácter previo a la elevación a pública de la escritura de constitución, solicitar del Registro de cooperativas competente la calificación previa del proyecto de estatutos, salvo acuerdo en contrario de la propia Asamblea.
+2. A la solicitud de dicha calificación previa habrá de acompañarse el acta de la Asamblea constituyente y el proyecto de estatutos, así como la certificación de que no existe inscrita otra sociedad con idéntica denominación expedida por la Sección Central del Registro de Cooperativas dependiente de la Administración General del Estado.
+
+### Artículo 16
+
+Artículo 16. Escritura de constitución.
+1. La escritura pública de constitución será otorgada por las personas designadas a tal efecto por la Asamblea constituyente con sujeción a los acuerdos adoptados por la misma, salvo que lo sea por la totalidad de los promotores, y será inscrita en el Registro de cooperativas competente.
+2. La escritura de constitución de la sociedad cooperativa recogerá, en su caso, el acta de la Asamblea constituyente y deberá contener como mínimo:
+a) La relación de los promotores, con sus datos de identificación personal o la razón o denominación social, en su caso, y la actividad comprometida.
+b) La manifestación de los otorgantes de que todos los promotores reúnen los requisitos legales y estatutarios necesarios para ser socio de la cooperativa que se constituye.
+c) La manifestación de la voluntad de fundar una cooperativa de la clase de que se trate.
+d) Los estatutos.
+e) La manifestación de los otorgantes de que todos los promotores han desembolsado, como mínimo, el 25 por 100 de la aportación obligatoria mínima para ser socio, establecida en los estatutos, y la acreditación de que se ha desembolsado totalmente el capital social mínimo fijado estatutariamente.
+f) La identificación de las personas designadas para desempeñar los distintos cargos de los órganos sociales, con su aceptación y con la declaración expresa de no estar incursas en causa de incapacidad o incompatibilidad de las establecidas en el artículo 48 de la presente Ley.
+g) El valor asignado, si las hubiese, de las aportaciones no en dinero, con expresión de las mismas e identificación del promotor que las realice o se obligase a realizarlas.
+h) La declaración de que no existe otra sociedad cooperativa con idéntica denominación, acompañando para su incorporación al instrumento público certificación de la Sección Central del Registro de Cooperativas dependiente de la Administración General del Estado.
+i) Cualquier otro pacto o acuerdo que se hubiese adoptado en la Asamblea constituyente, siempre y cuando no sea contrario al derecho y los principios que configuran la especial naturaleza de la sociedad cooperativa.
+3. Los promotores facultados por la Asamblea constituyente podrán, salvo acuerdo expreso en contrario de la misma, subsanar cualquier defecto que pudiese existir en el contenido de la escritura pública de constitución, hasta la obtención de su definitiva inscripción, salvo que el defecto revista, por sus características o por prescripción legal o reglamentaria, el carácter de insubsanable.
+4. Si la escritura de constitución es otorgada por la totalidad de los promotores, estos podrán, en el acto de otorgamiento, modificar cualquier acuerdo de los que se hubiesen adoptado en la Asamblea constituyente, si la misma hubiese tenido lugar.
+
+### Artículo 17
+
+Artículo 17. Inscripción de la sociedad cooperativa.
+1. Una vez otorgada la escritura de constitución de la sociedad cooperativa, los promotores facultados deberán solicitar en el plazo de dos meses desde su otorgamiento la inscripción de la sociedad en el Registro de cooperativas competente.
+Para la inscripción de las cooperativas de crédito y seguros deberá adjuntarse la previa autorización del organismo competente.
+2. Transcurridos doce meses desde el otorgamiento de la escritura de constitución sin que se haya procedido a su inscripción o verificada la voluntad de no inscribir la sociedad, cualquier socio podrá instar la disolución de la cooperativa en constitución y exigir, previa liquidación del patrimonio social, la restitución de sus aportaciones. En caso de que la sociedad cooperativa hubiese iniciado o continúe sus actividades le serán de aplicación las normas reguladoras de las sociedades colectivas o, en su caso, las de las sociedades civiles.
+
+## CAPÍTULO III
+
+De los socios
+
+### Artículo 18
+
+Artículo 18. Personas que pueden ser socios.
+1. En las cooperativas de primer grado pueden ser socios tanto las personas físicas como las jurídicas, públicas o privadas, y las comunidades de bienes, con las salvedades que pudiesen establecerse para cada clase de cooperativa de que se trate en el Título III de la presente Ley.
+En las cooperativas de segundo grado solo pueden ser socios las sociedades cooperativas y los socios de trabajo de aquellas, así como otras sociedades de carácter no cooperativo cuando exista la necesaria convergencia de intereses y necesidades, siempre y cuando los estatutos no lo prohíban.
+2. Cualquier Administración o ente público con personalidad jurídica podrá ser socio de una cooperativa para la prestación de servicios públicos y el ejercicio de la iniciativa económica pública, siempre que no suponga ejercicio de autoridad pública.
+3. Nadie podrá ser socio de una cooperativa a título de empresario contratista, capitalista u otro análogo respecto a la misma o a los socios como tales.
+
+### Artículo 19
+
+Artículo 19. Admisión en calidad de socio.
+1. Para ingresar en calidad de socio en una cooperativa, el solicitante deberá cumplir los requisitos legales y estatutarios para adquirir dicha condición, sin que estos últimos puedan quedar vinculados a motivos ilícitos o inconstitucionales.
+En todo caso para adquirir dicha condición será necesario suscribir la aportación obligatoria mínima, desembolsándola en la cuantía fijada estatutariamente, y, en su caso, la cuota de ingreso.
+2. La solicitud de admisión se realizará por escrito dirigido al órgano de administración de la sociedad cooperativa, que deberá resolver motivadamente en un plazo no superior a dos meses, a contar a partir del siguiente a la recepción del escrito de solicitud, comunicando la resolución al solicitante y publicando dicho acuerdo en el tablón de anuncios de la cooperativa o en otro medio establecido estatutariamente. Transcurrido dicho plazo sin resolución expresa, la solicitud se entenderá denegada.
+Contra la denegación de admisión, el solicitante podrá recurrir en el plazo de un mes, a contar desde su notificación o de la terminación del plazo que el órgano de administración tiene para resolver, ante el Comité de Recursos o, en su defecto, ante la Asamblea general. El Comité de Recursos resolverá en un plazo máximo de un mes, a contar desde la presentación de la impugnación, o, si el recurso se interpone ante la Asamblea general, en la primera que se realice, por votación secreta. En ambos supuestos, previa audiencia del interesado.
+3. El acuerdo de admisión también podrá ser impugnado por el número de socios que estatutariamente se determine, en el plazo de diez días, a contar desde su publicación, ante el Comité de Recursos, que resolverá en el plazo máximo de un mes, o, en su defecto, en el mismo plazo ante la Asamblea general, que resolverá el recurso en la primera que se realice, por votación secreta, quedando la admisión en suspenso hasta que haya transcurrido el plazo para recurrir o hasta que resuelva el Comité de Recursos o la Asamblea general. En ambos casos, previa audiencia del interesado.
+
+### Artículo 20
+
+Artículo 20. Baja de la persona socia.
+1. La persona socia podrá darse de baja voluntariamente en la cooperativa en cualquier momento, mediante preaviso por escrito al órgano de administración. El plazo de preaviso, que fijarán los estatutos, no podrá ser superior a un año.
+A los efectos previstos en el artículo 64 de la presente Ley, para el reembolso de aportaciones se entenderá producida la baja al término del plazo de preaviso.
+El incumplimiento del plazo de preaviso dará lugar a la correspondiente indemnización de daños y perjuicios, siendo considerada la baja como injustificada, salvo que el órgano de administración, en base a las circunstancias que concurran, la apreciase como justificada.
+2. Los estatutos podrán exigir el compromiso de la persona socia de no darse de baja voluntariamente, sin justa causa que la califique de justificada, hasta el final del ejercicio económico en que quiera causar baja o hasta que hubiera transcurrido, desde su admisión, el tiempo que fijen los estatutos, que no podrá ser superior a diez años.
+Si lo contemplasen los estatutos, el incumplimiento por la persona socia del compromiso a que hace referencia el párrafo anterior autoriza a la cooperativa a exigir a la persona socia participar, hasta el final del ejercicio económico o del periodo comprometido, en las actividades y servicios cooperativizados en los términos en que venía obligada o, en su defecto, a exigirle la correspondiente indemnización de daños y perjuicios. En todo caso, su baja será considerada como injustificada, salvo que el órgano de administración, en base a las circunstancias que concurran, la apreciase como justificada.
+Tanto en el supuesto de incumplimiento del plazo de preaviso como del periodo de permanencia comprometido los estatutos sociales podrán determinar como penalidad el incremento de un 10% del importe resultante de aplicar las deducciones sobre todas las cantidades reembolsables, incluido el retorno cooperativo y los fondos de reserva repartibles que, en su caso, pudieran corresponderle, contempladas para el supuesto de baja no justificada en el artículo 64.1, todo ello sin perjuicio del derecho de la cooperativa a ser resarcida de los daños y perjuicios causados. Los estatutos sociales podrán determinar los criterios objetivos para cuantificar los daños y perjuicios exigibles, de los cuales en todo caso se deducirá la penalización anterior, en el supuesto de que se hubiese aplicado.
+3. Tendrán la consideración de justificadas las bajas que tengan su origen en las siguientes causas:
+a) La adopción de acuerdos por la asamblea general que impliquen obligaciones o cargas gravemente onerosas, no contempladas estatutariamente, si la persona socia hubiera salvado expresamente su voto o, estando ausente, manifestase su disconformidad por escrito dirigido al órgano de administración de la cooperativa, en el plazo de dos meses desde la adopción del acuerdo. En ambos casos habrá de formalizar su solicitud de baja dentro del mes siguiente a la fecha de celebración de la asamblea o de la presentación de dicho escrito.
+b) En todos los demás supuestos previstos en la presente Ley o en los estatutos.
+4. Cesará obligatoriamente la persona socia que perdiese los requisitos exigidos para adquirir dicha condición.
+La baja obligatoria será acordada por el órgano de administración, de oficio, a petición de cualquier persona socia, en todo caso tras dar audiencia a la persona socia afectada.
+Para las personas socias trabajadoras y para las personas socias de trabajo, en el supuesto de pérdida definitiva de los requisitos para ser persona socia en la cooperativa, la baja operará automáticamente sin necesidad de resolución expresa al respecto por parte del órgano de administración, con independencia de la obligación de este órgano de resolver en el plazo de tres meses desde que haya tenido conocimiento sobre los efectos de la baja y de los recursos que corresponden a la persona socia con respecto al acuerdo que se adopte a tal efecto. Si la persona socia incursa en este supuesto de cese automático ostentara algún cargo en cualquiera de los órganos sociales de la cooperativa, cesará automáticamente a todos los efectos en el mismo, sin necesidad de pronunciamiento alguno por parte de la cooperativa. El cargo vacante habrá de cubrirse según lo establecido en el artículo 45 de la presente Ley.
+La baja obligatoria tendrá la consideración de no justificada cuando la pérdida de los requisitos para adquirir la condición de persona socia respondiese a un deliberado propósito de esta de eludir obligaciones ante la cooperativa o beneficiarse indebidamente con su baja obligatoria.
+5. El órgano de administración habrá de resolver sobre la calificación y efectos de la baja en un plazo máximo de tres meses desde que le haya sido comunicada; transcurrido dicho plazo, la baja se entenderá como justificada, salvo en el caso de incumplimiento del plazo de preaviso o del compromiso de permanencia, todo ello sin perjuicio de lo dispuesto en la presente Ley para el reembolso de aportaciones en el artículo 64.
+Los acuerdos del órgano de administración sobre la calificación y efectos de la baja de la persona socia podrán ser impugnados ante la jurisdicción competente, pudiendo ser recurridos previamente ante el comité de recursos o, en su defecto, ante la asamblea general, en el plazo máximo de dos meses desde la notificación del acuerdo.
+Se modifica por el art. único.4 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 21
+
+Artículo 21. Personas socias de trabajo.
+1. En las cooperativas de primer grado que no sean de trabajo asociado, de explotación comunitaria de la tierra o de recursos acuícolas y en las cooperativas de segundo grado podrán adquirir la condición de personas socias de trabajo, si los estatutos lo contemplasen, las personas físicas que tuvieran como actividad la prestación de su trabajo personal en la cooperativa.
+2. Resultarán de aplicación a las personas socias de trabajo las normas establecidas en la presente Ley para las personas socias trabajadoras de las cooperativas de trabajo asociado, con las salvedades establecidas en este artículo.
+3. Los estatutos que contemplasen la admisión de personas socias de trabajo fijarán los criterios para una equitativa y ponderada participación de las mismas en la cooperativa.
+4. En cualquier caso, las pérdidas determinadas por la actividad cooperativizada de que hayan de responder las personas socias de trabajo se imputarán al Fondo de Reserva Obligatorio y, en su defecto, a las personas socias usuarias, en la cuantía necesaria para garantizar a aquellas una compensación económica mínima equivalente al 70% de la retribución salarial que viniesen percibiendo en la mensualidad inmediatamente anterior a aquella en que se imputasen dichas pérdidas y, en todo caso, no inferior al salario mínimo interprofesional o a cualquier otro límite superior que establezcan los estatutos.
+5. Si los estatutos contemplasen un periodo de prueba para las personas socias de trabajo, este no procederá si la nueva persona socia llevase en la cooperativa, como trabajadora por cuenta ajena, como mínimo, el tiempo que corresponda a dicho periodo. Si procediese el periodo de prueba y se resolviese la relación por decisión unilateral de cualquiera de las partes, se entenderá renovada la relación jurídico-laboral en las condiciones existentes al inicio de aquél.
+6. Las personas socias de trabajo, a los efectos del régimen de la Seguridad Social, serán en todo caso asimiladas a personal trabajador por cuenta ajena.
+7. En caso de pérdida definitiva de los requisitos para ser persona socia en la cooperativa por parte de la persona socia, se estará a lo dispuesto en el artículo 20.4 de la presente Ley en cuanto a su baja obligatoria automática y al cese de los cargos que pudiera ostentar en la sociedad.
+Se modifica por el art. único.5 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 22
+
+Artículo 22. Derechos de los socios.
+1. Los socios tienen, además de los derechos que les otorguen las normas legales y estatutarias o los acuerdos válidamente adoptados por los órganos sociales, los siguientes:
+a) A ser elector y elegible para los cargos de los órganos sociales de la cooperativa.
+b) A plantear propuestas y participar con voz y voto en la adopción de acuerdos en las reuniones de los órganos sociales de que sea miembro.
+c) A participar en la actividad de la cooperativa para el cumplimiento de su fin social, sin ninguna discriminación.
+d) A recibir la información necesaria para el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
+e) A percibir el retorno cooperativo, en su caso.
+f) A la actualización y devolución de las aportaciones al capital social, así como a percibir intereses por las mismas, en su caso.
+2. Los derechos se ejercerán de conformidad con las normas legales y estatutarias y con los acuerdos válidamente adoptados por los órganos sociales de la cooperativa.
+
+### Artículo 23
+
+Artículo 23. Derecho de información.
+1. Toda persona socia tiene derecho a recibir toda la información necesaria sobre la marcha de la cooperativa en los términos fijados en la presente Ley, en los estatutos o en los acuerdos de la asamblea general.
+2. Como contenido mínimo del derecho de información, toda persona socia tiene derecho a:
+a) Recibir una copia de los estatutos y, en su caso, del reglamento de régimen interno, así como de las modificaciones de los mismos, siendo responsabilidad del órgano de administración facilitar dicha documentación.
+b) Tener libre acceso al examen del libro registro de personas socias, al libro de actas de la asamblea general y al libro de aportaciones al capital social en el domicilio social de la cooperativa, y, si lo solicitase, a que el órgano de administración le expida copia certificada de los acuerdos adoptados en las asambleas generales, en un plazo no superior a quince días desde la solicitud, y asimismo, en su caso, copia certificada de aquellas actas que fuesen de su interés y no estuvieran aún incorporadas al libro de actas.
+c) Recibir, si lo solicitase, del órgano de administración copia certificada de los acuerdos de dicho órgano que le afecten personalmente y, en todo caso, a que se le muestre y aclare en el domicilio social de la cooperativa, en un plazo no superior a un mes, el estado de su situación económica con la cooperativa.
+d) Tener a su disposición durante todo el plazo de la convocatoria, para su consulta en el domicilio social de la cooperativa, las cuentas anuales, la propuesta de distribución de resultados, el informe, en su caso, de auditoría externa y el informe del órgano de intervención cuando la asamblea general, con arreglo al orden del día, tuviese que deliberar y adoptar acuerdos sobre las cuentas del ejercicio económico. Durante dicho plazo, cualquier persona socia podrá solicitar por escrito del órgano de administración, con al menos cinco días de antelación a la celebración de la asamblea general, cualquier aclaración referida a la documentación mencionada en este apartado, para ser contestada en el acto de la asamblea general.
+Cuando en el orden del día se incluyese cualquier otro asunto de naturaleza económica, será de aplicación lo establecido en el párrafo anterior, si bien referido a la documentación básica que refleje la cuestión económica a debatir por la asamblea, y sin que sea preciso el informe del órgano de intervención.
+e) Solicitar por escrito del órgano de administración cualquier aclaración e informe sobre la marcha de la cooperativa, que le será proporcionado en la primera asamblea general de la cooperativa que se celebrase, transcurridos quince días desde la presentación del escrito.
+f) Recibir del órgano de administración por escrito, en un plazo no superior a un mes, la información que estime necesaria, cuando el 10% de las personas socias de la cooperativa o 100 personas socias se la solicitasen también por escrito.
+3. El órgano de administración podrá denegar, en los supuestos previstos en las letras d), e) y f) del número anterior, la información solicitada cuando al proporcionarla pusiera en grave peligro los legítimos intereses de la cooperativa, salvo que la información solicitada haya de proporcionarse en el acto de la asamblea general y la misma apoyase dicha solicitud por más de la mitad de los votos presentes y representados, y, en los demás supuestos, cuando así lo acuerde el comité de recursos o, en su defecto, la asamblea general como consecuencia del recurso interpuesto por las personas socias solicitantes de la información.
+En el supuesto establecido en la letra b) del número anterior, quienes lo soliciten habrán de suscribir el correspondiente compromiso de confidencialidad, no pudiendo usar la información con vulneración de la normativa vigente sobre protección de datos de carácter personal.
+En todo caso, la negativa del órgano de administración a facilitar la información solicitada por las personas socias podrá ser impugnada por las mismas de conformidad con la vía procedimental establecida en el artículo 40 de la presente Ley, las cuales, además, respecto a los supuestos establecidos en los apartados a), b) y c) de este artículo, podrán acudir al procedimiento previsto en el artículo 2166 de la Ley de Enjuiciamiento Civil.
+Se modifica por el art. único.6 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 24
+
+Artículo 24. Obligaciones de los socios.
+Los socios están obligados a:
+a) Asistir a las reuniones de la Asamblea general y de los demás órganos para los que hayan sido convocados.
+b) Cumplir los deberes legales y estatutarios así como los acuerdos válidamente adoptados por los órganos sociales de la cooperativa.
+c) Participar en la actividad cooperativizada que desarrolla el objeto social de la cooperativa, en la cuantía mínima obligatoria establecida en los estatutos, salvo liberación temporal de dicha obligación por parte del órgano de administración por causa justificada y previa solicitud motivada del socio afectado.
+d) No realizar actividades competitivas con las propias desarrolladas por la cooperativa, salvo autorización expresa del órgano de administración.
+e) Guardar secreto sobre aquellos asuntos y datos de la cooperativa cuya divulgación pueda perjudicar los intereses de la misma.
+f) Desembolsar sus aportaciones al capital social en las condiciones previstas.
+g) Participar en las actividades de formación.
+h) Aceptar los cargos para los que hayan sido elegidos, salvo justa causa.
+
+### Artículo 25
+
+Artículo 25. Normas de disciplina social y procedimiento sancionador.
+1. Los estatutos establecerán las normas de disciplina social. Los socios solo podrán ser sancionados por las faltas previamente tipificadas, a través del procedimiento establecido y con audiencia del interesado. Las faltas graves y muy graves deberán estar tipificadas en los estatutos y las leves podrán serlo también en el reglamento de régimen interno o por acuerdo de la Asamblea general. Las sanciones que podrán imponerse a los socios por cada tipo de faltas deberán estar establecidas en los estatutos y podrán ser económicas, de suspensión de derechos sociales o de expulsión.
+2. Las infracciones cometidas por los socios prescribirán, si son leves, al mes; si son graves, a los dos meses, y, si son muy graves, a los tres meses, desde que el órgano de administración tuvo conocimiento de las mismas. En todo caso las faltas prescribirán a los doce meses desde la fecha en que se han cometido. La prescripción de las faltas se interrumpirá por la incoación del procedimiento sancionador, pero solo en el caso de que en el mismo hubiese recaído resolución y fuese notificada en el plazo de tres meses desde su iniciación.
+3. Los estatutos establecerán los procedimientos sancionadores y los recursos que procedan, respetando las siguientes normas:
+a) La facultad sancionadora es competencia indelegable del órgano de administración.
+b) En todos los supuestos deberá instruirse expediente al efecto y será preceptiva la audiencia del interesado, que podrá formalizar sus alegaciones por escrito.
+c) En los supuestos de sanción, y sin perjuicio del carácter ejecutivo del acuerdo del órgano de administración, el socio podrá recurrir en el plazo de treinta días desde su notificación ante el Comité de Recursos o, en su defecto, ante la Asamblea general.
+El recurso ante la Asamblea general deberá incluirse como primer punto del orden del día de la primera que se realice, y se resolverá mediante votación secreta, con audiencia previa del interesado, pudiendo formalizarse esta mediante sus alegaciones por escrito.
+El recurso ante el Comité de Recursos deberá ser resuelto con audiencia del interesado, que podrá articularse en los mismos términos establecidos en el párrafo anterior, en un plazo máximo de dos meses desde la fecha de presentación. Transcurrido dicho plazo sin haberse notificado la resolución, el recurso se entenderá estimado.
+El acuerdo de sanción o, en su caso, la ratificación del mismo podrá ser impugnado en el plazo de dos meses desde su notificación ante la jurisdicción ordinaria por el cauce procesal establecido en el artículo 40 de la presente Ley.
+4. La sanción de suspender al socio en sus derechos solo podrá ser prevista por los estatutos para el supuesto en que el socio esté al descubierto de sus obligaciones económicas o no participe en las actividades cooperativizadas en los términos establecidos en los estatutos.
+La suspensión de derechos al socio, que finalizará en el momento en que normalice su situación, no podrá alcanzar al derecho de información ni al de asistencia a la asamblea con voz, ni al devengo del retorno de los intereses por sus aportaciones al capital social ni a la actualización de las mismas.
+
+### Artículo 26
+
+Artículo 26. Expulsión.
+1. La expulsión solo podrá ser acordada por el órgano de administración, por falta muy grave tipificada en los estatutos, mediante expediente instruido al efecto y con audiencia previa del interesado, pudiendo formalizarse mediante alegaciones por escrito.
+Cuando la causa de expulsión sea encontrarse el socio al descubierto de sus obligaciones económicas, no operarán los plazos de prescripción establecidos en el artículo anterior, pudiendo acordarse la expulsión en cualquier momento, salvo que el socio regularice su situación durante la tramitación del expediente.
+2. El procedimiento sancionador se ajustará a lo establecido en el artículo anterior, si bien solo podrá recurrirse el acuerdo de expulsión ante la Asamblea general, salvo que dicha competencia se delegue estatutariamente en el Comité de Recursos, siendo ejecutivo desde que sea notificada su ratificación o haya transcurrido el plazo para recurrir ante dicho órgano.
+El acuerdo de expulsión podrá ser impugnado por el cauce procesal establecido en el artículo 40 de la presente Ley.
+
+### Artículo 27
+
+Artículo 27. Socios a prueba.
+1. En las cooperativas de primer grado, salvo viviendas, crédito y seguros, si los estatutos lo prevén y regulan, podrán existir socios a prueba, por un periodo, en dicha condición, no superior a doce meses, salvo lo previsto en el punto 2 del artículo 107 de la presente Ley.
+2. Los socios a prueba tienen los mismos derechos y obligaciones que los demás socios, salvo que:
+a) No pueden realizar aportaciones al capital social, ni satisfacer ninguna cuota.
+b) Pueden resolver la relación de forma unilateral. La misma facultad se reconoce al órgano de administración.
+c) No responden de las pérdidas sociales, ni perciben retorno cooperativo.
+d) No pueden ser electores ni elegibles para ocupar cargos en los órganos sociales.
+3. Transcurrido el plazo de la situación a prueba y sin denuncia previa por ninguna de las partes, el socio, previo desembolso de la aportación obligatoria y, en su caso, de la cuota de ingreso, adquirirá la condición de socio indefinido con todos los derechos y obligaciones inherentes a la misma.
+4. El total de socios a prueba que exista en cada momento no podrá superar más de un quinto del total de socios de la cooperativa.
+
+### Artículo 28
+
+Artículo 28. Socios excedentes.
+1. En las cooperativas, salvo las de viviendas, podrá concederse la condición de socio excedente a aquellos socios que por causa justificada dejen de serlo, mediante solicitud por escrito dirigida al órgano de administración, que deberá resolver en el plazo de dos meses. Transcurrido dicho plazo sin resolución expresa, se entenderá admitida la solicitud.
+2. Los estatutos de la cooperativa podrán regular los derechos, obligaciones y régimen de los socios excedentes, respetando en todo caso las siguientes normas:
+a) El derecho a recibir el interés pactado por sus aportaciones al capital social, o el que acuerde la Asamblea general para este tipo de figura societaria, y al reembolso de aquellas en las mismas condiciones y plazos que para el resto de los socios.
+b) No tendrán derecho al retorno cooperativo, si bien podrán utilizar los servicios de la cooperativa en cuanto resulte legalmente compatible con su condición personal.
+c) No podrán formar parte del órgano de administración, intervención, Comité de Recursos, ni ser liquidadores, pero podrán participar en la Asamblea general, con voz y voto.
+d) No estarán obligados a realizar nuevas aportaciones al capital social.
+e) Su baja tendrá siempre la consideración de justificada.
+3. Si el socio excedente volviese a reunir las condiciones y requisitos para ser socio activo, podrá solicitarlo del órgano de administración, que autorizará de inmediato la recuperación de dicha condición, con todos los derechos y obligaciones inherentes a la misma.
+
+### Artículo 29
+
+Artículo 29. Socios colaboradores.
+1. Los estatutos podrán prever y regular la existencia de socios colaboradores, personas físicas o jurídicas, públicas o privadas, que, sin poder realizar plenamente el objeto social cooperativo, puedan colaborar en su consecución.
+Estatutariamente se determinarán los derechos y obligaciones, fijándose en todo caso la aportación obligatoria mínima, el desembolso de la misma, los requisitos para adquirir la condición de socio, su régimen de baja y el derecho al retorno cooperativo, y, en lo no previsto por estos, por acuerdo de la asamblea general. El conjunto de estos socios, salvo que sean sociedades cooperativas, no podrá superar un tercio de los miembros del órgano de administración, sin que en ningún caso puedan desempeñar los cargos de presidente y vicepresidente del mismo.
+Los socios colaboradores que aporten exclusivamente capital percibirán el interés pactado, que no podrá ser inferior al percibido por los socios, ni exceder en más de seis puntos del interés legal del dinero, sin que en ningún caso tengan derecho a percibir el retorno cooperativo.
+2. También podrán ser socios colaboradores aquellas cooperativas con las que se hubiera suscrito un acuerdo de colaboración intercooperativo, en las mismas condiciones establecidas en el apartado anterior
+Se modifica por la disposición final 1.3 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+
+## CAPÍTULO IV
+
+De los órganos de la cooperativa
+
+## Sección 1
+
+Sección 1.ª De la asamblea general
+
+### Artículo 30
+
+Artículo 30. De la Asamblea general: Concepto.
+La Asamblea general, como órgano supremo de expresión de la voluntad social, es la reunión de los socios, constituida al objeto de deliberar sobre la política general de la cooperativa y adoptar acuerdos sobre aquellos asuntos que, en virtud de la presente Ley y de los que vengan fijados en los estatutos, sean de su competencia, vinculando sus decisiones adoptadas válidamente a todos los miembros de la cooperativa.
+
+### Artículo 31
+
+Artículo 31. Competencia.
+1. Corresponde en exclusiva a la Asamblea general la adopción de los siguientes acuerdos:
+a) La aprobación del plan empresarial de la cooperativa, presentado por el órgano de administración, que será el responsable de su gestión y ejecución.
+b) El nombramiento y la revocación, por votación secreta, de los administradores, los interventores y los liquidadores, así como, en su caso, de los miembros del Comité de Recursos, y el ejercicio de la acción de responsabilidad contra los mismos.
+c) El nombramiento y la revocación de los auditores de cuentas.
+d) El examen de la gestión social, la aprobación de las cuentas anuales y de la distribución de excedentes o la imputación de pérdidas.
+e) El establecimiento de nuevas aportaciones obligatorias o voluntarias, la fijación de los intereses que pudiesen corresponderles y la actualización de las mismas.
+f) La emisión de obligaciones, títulos participativos u otro tipo de participaciones que pudiesen establecerse, o de cualquier otro título admitido en derecho.
+g) La aprobación o modificación del Reglamento de régimen interno de la cooperativa.
+h) El establecimiento o la modificación de las cuotas de ingreso o periódicas.
+i) La constitución de cooperativas de segundo grado y de otras formas de participación económica, así como la adhesión y separación de las mismas.
+j) La modificación de los estatutos.
+k) La fusión, escisión, transformación, disolución y liquidación de la sociedad.
+l) La creación de secciones y la aprobación y modificación, en su caso, de sus reglamentos de régimen interno.
+m) La cesión o enajenación de la sociedad o de parte de esta, o cualquier otra decisión que suponga una modificación sustancial de la estructura económica, social, organizativa o funcional de la misma.
+n) Todos los demás acuerdos en los que así lo establezca la Ley o los estatutos.
+2. Asimismo, podrá debatir la Asamblea sobre cuantos asuntos sean de interés para la cooperativa, siempre que consten en el orden del día, pero únicamente podrá tomar acuerdos obligatorios en materias que la presente Ley no considere competencia exclusiva de otros órganos sociales.
+3. La competencia de la Asamblea general sobre aquellos asuntos y actos en los que su acuerdo es preceptivo por imperativo legal tiene carácter indelegable.
+
+### Artículo 32
+
+Artículo 32. Clases de asambleas.
+1. Las asambleas generales pueden ser ordinarias o extraordinarias.
+2. La Asamblea general ordinaria tiene por objeto principal examinar la gestión social, aprobar, si procede, el plan empresarial y las cuentas anuales y resolver sobre la distribución de los excedentes o la imputación de las pérdidas, pudiendo incluir en el orden del día de su convocatoria cualquier otro asunto propio de su competencia. Todas las demás Asambleas tienen el carácter de extraordinarias.
+
+### Artículo 33
+
+Artículo 33. Convocatoria.
+1. La asamblea general será convocada por el órgano de administración, que fijará el orden del día de la convocatoria.
+Cuando el órgano de intervención o un número de personas socias que represente el 5% o alcance la cifra de 100 propongan por escrito con antelación a la convocatoria de una asamblea general asuntos para introducir en el orden del día de esta, estos habrán de incluirse por el órgano de administración en la primera que se celebre. No podrán incorporarse nuevos asuntos en el orden del día una vez convocada la asamblea.
+2. La asamblea general ordinaria será convocada dentro de los seis primeros meses siguientes a la fecha de cierre del ejercicio social. Si transcurriera dicho plazo sin que haya tenido lugar la convocatoria, el órgano de intervención deberá y cualquier persona socia podrá requerir fehacientemente al órgano de administración para que proceda a efectuarla. Si este no la convocase en el plazo de quince días, a contar desde el recibo del requerimiento, el órgano de intervención o cualquier persona socia podrán solicitarla al juzgado competente del domicilio social, que habrá de convocarla, designando a quién haya de presidirla. En este caso se producirá la destitución inmediata del consejo rector, procediéndose a su nueva elección.
+El plazo legal para convocar la asamblea general ordinaria podrá prorrogarse por la autoridad de la que depende el registro en que está inscrita la cooperativa, por solicitud motivada del órgano de administración o del órgano de intervención. En todo caso, la asamblea general, aun convocada fuera de plazo, no perderá su condición de ordinaria.
+3. La asamblea general extraordinaria se reunirá en cualquier momento a iniciativa propia del órgano de administración, a petición del órgano de intervención o a petición de personas socias que representen al menos el 20% del total de votos sociales o 100 personas socias, efectuada por medio de un requerimiento fehaciente al órgano de administración que incluya el orden del día con los asuntos y propuestas a debate. Si la asamblea general no fuese convocada en el plazo de treinta días, a contar desde el recibo de la solicitud, cualquier persona socia podrá solicitar convocatoria judicial con arreglo a lo previsto en el número anterior.
+Se modifica por el art. único.7 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 34
+
+Artículo 34. Forma de convocatoria.
+1. La asamblea general se convocará siempre mediante anuncio expuesto públicamente en el domicilio social de la cooperativa y en cada uno de los demás centros en que desarrolle su actividad. Además, la convocatoria se notificará a las personas socias, bien por carta a su domicilio o bien a través de medios electrónicos, si así lo establecen los estatutos o la persona socia manifiesta su preferencia por la notificación practicada por medios electrónicos. Los estatutos podrán establecer, además, otras formas de publicidad para facilitar su conocimiento por todas las personas socias.
+La convocatoria se hará pública con una antelación mínima de quince días en el supuesto de asamblea ordinaria y diez días en el de asamblea extraordinaria, y con un máximo de dos meses con respecto a la fecha de la realización de la asamblea general.
+2. La convocatoria indicará, al menos, la fecha, hora y lugar de la reunión, en primera y segunda convocatoria, entre las cuales habrá de transcurrir, como mínimo, media hora, expresando con claridad, precisión y suficiente detalle los asuntos que componen el orden del día, así como la documentación relativa al mismo, que podrá examinarse en el domicilio social de la cooperativa.
+3. No será necesaria la convocatoria siempre que estando presentes o representados todos los socios de la cooperativa estos decidan por unanimidad dar a la reunión carácter de Asamblea general universal y los asuntos a tratar en la misma, firmando todos los socios el acta en la que se acuerde su realización, figurando la relación de los asistentes y el orden del día.
+Se modifica el apartado 1 por el art. 29.1 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849.
+
+### Artículo 35
+
+Artículo 35. Constitución y funcionamiento de la asamblea.
+1. Con carácter general, la asamblea general tendrá lugar en la localidad donde radique el domicilio social de la cooperativa. Se establecen las siguientes excepciones:
+a) Que se realice de forma telemática.
+b) Que la asamblea tenga el carácter de universal, en cuyo caso podrá tener lugar en cualquier localidad.
+c) Que en los estatutos se fije otro lugar de reunión o se habilite al órgano de administración para fijar uno distinto.
+d) Que, por circunstancias sobrevenidas, en la localidad donde radique el domicilio social de la cooperativa no exista un local que permita el normal desarrollo de la asamblea en condiciones de seguridad. El órgano de administración tendrá que motivar suficientemente esta circunstancia, así como la idoneidad de la localidad escogida en términos de facilidad de comunicación respecto de la localidad donde la cooperativa tiene el domicilio social o donde reside la mayoría de las personas socias.
+2. Tendrán derecho a asistir a la asamblea general aquellas personas socias que lo sean en la fecha de realización de aquella.
+La asamblea general quedará válidamente constituida en primera convocatoria cuando estén presentes o representados la mayoría de los votos, y en segunda convocatoria cuando estén presentes o representadas, al menos, personas socias que tengan el 10 % de los votos o 100 votos.
+Para la segunda convocatoria los estatutos sociales podrán fijar un quorum superior, sin superar el establecido para la primera. También podrán establecer que, cualquiera que sea el número de personas cooperativistas presentes o representadas en la asamblea, esta quedará válidamente constituida en la segunda convocatoria.
+Sirve alcanzar estos quorums al inicio de la sesión para que la presidencia la declare válidamente constituida.
+3. Las reuniones de la asamblea general podrán desarrollarse íntegramente por videoconferencia u otros medios telemáticos que permitan la participación a distancia, o de forma mixta (presencial y por medios telemáticos), siempre y cuando todas las personas que deban ser convocadas tengan posibilidad de acceso. En la convocatoria se determinarán los plazos, las formas y los modos de ejercicio de los derechos por parte de las personas que asistan telemáticamente a la asamblea.
+Cuando se convoquen reuniones de la asamblea general para su realización por medios telemáticos, el órgano de administración deberá adoptar las medidas necesarias para garantizar:
+a) La verificación de la identidad de las personas asistentes.
+b) La acreditación de la representación con que actúan, en su caso.
+c) El ejercicio del derecho de participación con voz y voto, según proceda.
+d) El sentido de los votos emitidos y su cómputo, teniendo en cuenta el voto plural cuando proceda.
+e) El secreto de los votos, cuando deban tener tal carácter.
+4. Presidirá la asamblea general la persona designada por los estatutos, en su defecto quien presida el órgano de administración o lo sustituya en esta función, o la persona socia que elija la asamblea. Corresponde a la presidencia dirigir las deliberaciones, mantener el orden en el desarrollo de la asamblea y velar por el cumplimiento de las formalidades legales y estatutarias.
+La presidencia de la asamblea realizará el cómputo de las personas asistentes con la fiscalización del órgano de intervención, declarando, en su caso, constituida la misma.
+El secretario o secretaria de la asamblea será quien ejerza dicha función en el órgano de administración, salvo previsión estatutaria en contra, o, en su defecto, quien acordase la asamblea general.
+Cuando en el orden del día figurasen asuntos que afecten directamente a quien haya de ejercer las funciones de presidente o presidenta y/o secretario o secretaria de la asamblea general, esta vendrá obligada a elegir de entre las personas socias presentes a las personas que lo o la sustituyan en dicha función.
+5. Las votaciones serán secretas en los supuestos contemplados en la presente Ley o en los estatutos, además de en aquellos en que así lo aprueben, tras su votación a solicitud de cualquier persona socia, el 10% de los votos sociales presentes y representados en la asamblea general.
+6. Serán nulos los acuerdos sobre asuntos que no constasen en el orden del día, salvo el de convocar una nueva asamblea general, prorrogar la sesión, destituir o revocar a cualquier miembro o miembros de los órganos sociales, con arreglo a lo previsto en el artículo 45.3 de la presente Ley, y acordar el ejercicio de la acción de responsabilidad contra los miembros de dichos órganos, así como solicitar auditoría externa de las cuentas de la sociedad.
+7. Los administradores o administradoras e interventores o interventoras habrán de asistir a la asamblea general aun en el supuesto de no ostentar la condición de persona socia, en este último caso sin derecho a voto. La asamblea general o el órgano de administración podrá autorizar la asistencia, sin derecho a voto, de cualquier otra persona cuya presencia resultase de interés para el buen funcionamiento de la cooperativa.
+8. El órgano de administración podrá requerir la presencia de notario o notaria para que levante acta de la asamblea general, que tendrá carácter de acta única de la asamblea, estando obligado a hacerlo siempre que, con cinco días de antelación al previsto para la celebración de la misma, lo soliciten al menos el 10% de las personas socias o 100 votos sociales. Los honorarios serán por cuenta de la cooperativa.
+En todo caso, cualquier persona socia podrá exigir la presencia de notario o notaria en la asamblea para dar fe de lo allí ocurrido, que no tendrá otra eficacia que la derivada del propio instrumento público, siendo satisfechos sus honorarios por quien hubiese requerido su presencia.
+Se modifican los apartados 1 a 3 por el art. 26.1.1 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. único.8 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 36
+
+Artículo 36. Derecho de voto.
+1. En las sociedades cooperativas cada persona socia tendrá derecho a un voto.
+2. No obstante, si los estatutos lo contemplasen y regulasen, en las cooperativas agrarias, de servicios y del mar las personas socias, sean físicas o jurídicas, podrán tener derecho a voto plural ponderado en proporción al volumen de la actividad cooperativizada que desarrollen con la cooperativa, que en todo caso no podrá ser superior a 5 votos sociales.
+En estos supuestos, los estatutos habrán de fijar con claridad los criterios de proporcionalidad del derecho de voto plural.
+Los acuerdos de modificación de estatutos sociales relativos a existencia del voto plural habrán de ser adoptados por la asamblea general por más de la mitad de los votos válidamente expresados, no siendo computables a estos efectos los votos en blanco ni las abstenciones. La persona socia disconforme con el acuerdo adoptado tendrá derecho a separarse de la cooperativa en los términos establecidos en el artículo 74.3 de la presente Ley, teniendo su baja la consideración de justificada.
+3. El número total del conjunto de votos plurales no podrá superar el 25% de los votos sociales de la cooperativa, incrementándose estos en el correspondiente porcentaje.
+4. El conjunto total de votos de las personas socias colaboradoras, excedentes y a prueba no podrá superar más de un tercio de los votos sociales de la cooperativa.
+5. En cuanto al voto plural en las cooperativas de segundo grado, regirá lo previsto en el artículo 130 de la presente Ley.
+6. En ningún supuesto podrá existir voto dirimente.
+7. Los estatutos habrán de establecer los supuestos en que la persona socia en conflicto por razón del asunto objeto del acuerdo haya de abstenerse de votar.
+8. Aunque los estatutos no lo prevean, las personas socias podrán hacerse representar por otras personas socias. Una misma persona podrá actuar en representación de hasta diez personas socias.
+En caso de que la persona representante asista a la reunión de forma presencial, la representación se acreditará mediante autorización por escrito autógrafo o poder especial suscrito por el representado o representada. En caso de que participe por medios telemáticos, la convocatoria deberá establecer la forma en que se debe acreditar la representación.
+En cualquier caso, la representación debe otorgarse para cada asamblea, y debe ser verificada por el órgano de intervención de la cooperativa o, en su defecto, por la presidencia y la secretaría.
+9. Si los estatutos lo contemplasen, las personas socias podrán hacerse representar en la asamblea general por su cónyuge o sus parientes hasta el tercer grado de consanguinidad o segundo por afinidad, con plena capacidad para obrar. La autorización se ajustará a lo previsto en el apartado anterior.
+10. La representación conferida se entenderá revocada si la persona socia representada asistiese a la asamblea general para la que concedió la representación.
+Se modifica el apartado 8 por el art. 26.1.2 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. único.9 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 37
+
+Artículo 37. Adopción de acuerdos.
+1. Los acuerdos de la asamblea general, a excepción de los supuestos contemplados en la presente Ley o en los estatutos, serán adoptados por más de la mitad de los votos válidamente expresados, no siendo computables a estos efectos los votos en blanco ni las abstenciones.
+2. Se requerirá la mayoría de dos tercios de los votos presentes y representados para la adopción de acuerdos sobre modificación de estatutos, salvo lo dispuesto para el voto plural en el artículo 36 de la presente Ley, fusión, escisión, transformación, disolución y reactivación de la sociedad. Igualmente, se exigirá esta mayoría para la imposición de nuevas aportaciones obligatorias al capital social y al establecimiento y modificación de las cuotas de ingreso y periódicas, salvo que estatutariamente se estableciese su aprobación por más de la mitad de los votos válidamente expresados.
+3. Los acuerdos adoptados por la asamblea general surtirán los efectos que les son propios desde el momento de su adopción.
+Se modifica por el art. único.10 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 38
+
+Artículo 38. Acta de la Asamblea general.
+1. Corresponde al Secretario de la Asamblea levantar acta de la sesión de la misma, la cual habrá de expresar, en todo caso, el lugar y fecha de la reunión, la manifestación de la existencia de quórum suficiente para su válida constitución y el número de asistentes, si tiene lugar en primera o segunda convocatoria, el señalamiento del orden del día de la convocatoria y el resumen de las deliberaciones e intervenciones cuya constancia en acta se haya solicitado, así como la transcripción de los acuerdos adoptados con los resultados de las votaciones.
+2. El acta de la sesión podrá ser aprobada por la propia Asamblea general a continuación del acto de su realización o, en su defecto, deberá serlo dentro del plazo de los quince días siguientes, por tres socios designados en la misma Asamblea, o uno solo en las cooperativas de menos de diez socios, así como por el Presidente y el Secretario de la Asamblea general, debiendo firmarse e incorporarse al correspondiente libro de actas.
+Los acuerdos los certificará el Secretario con el visto bueno del Presidente, y cuando sean inscribibles deberán presentarse a estos efectos en el correspondiente Registro de cooperativas, dentro de los treinta días siguientes al de la aprobación del acta, bajo la responsabilidad del órgano de administración.
+
+### Artículo 39
+
+Artículo 39. Asamblea general de delegados.
+1. Los estatutos podrán prever que las competencias de la asamblea general se ejerzan mediante una asamblea de segundo grado, integrada por los delegados designados en juntas preparatorias.
+Aunque los estatutos no lo prevean, también se podrá aplicar esta modalidad cuando en una cooperativa concurran circunstancias que dificulten la presencia simultánea de todas las personas socias en la asamblea general. El órgano de administración justificará de forma suficiente esta circunstancia y establecerá los criterios de adscripción de las personas socias a las juntas preparatorias, que se comunicarán junto con la convocatoria.
+2. La convocatoria de la Asamblea general incluirá la de las juntas preparatorias y estas deberán tener lugar pasados diez días desde su publicación y antes de los dos días anteriores al de la realización de la Asamblea general.
+Si los administradores preparasen memorias o cualquier otra clase de informes o documentos para su examen por la Asamblea general, se facilitará también una copia a cada junta preparatoria al mismo tiempo de efectuar la convocatoria.
+3. La junta preparatoria, que se constituirá con arreglo a las normas establecidas por los estatutos o, en su defecto, por la Asamblea general, se iniciará con la elección, de entre los socios presentes, del Presidente y el Secretario de la junta.
+Debatidos los asuntos que componen el orden del día, los socios adscritos a la junta, que no podrán reservarse el derecho de asistir personalmente a la Asamblea general, procederán, en votación secreta, a la elección de los delegados. En esta elección, aunque sean socios adscritos a la junta, no intervendrán ni como electores ni como elegibles los miembros del Consejo Rector, los interventores, los liquidadores ni, en su caso, los miembros del Comité de Recursos, por cuanto tendrán el derecho y la obligación de asistir a la Asamblea general.
+4. Pueden ser elegidos delegados los socios adscritos a la respectiva junta preparatoria presentes en la misma.
+Para ser proclamado delegado será necesario obtener, al menos, el número de delegaciones de voto que establezcan los estatutos. El socio o los socios que no alcanzasen dicho mínimo de delegaciones en el mismo acto de la junta preparatoria podrán cederse las delegaciones de voto que hubiesen recibido, para que uno o varios completen el número de delegaciones de voto necesarias para su proclamación como delegados, o a otros socios que tuviesen ya suficientes delegaciones de voto para su proclamación como tales, y si no las cediesen se considerarán perdidos los votos que les hubiesen sido delegados.
+5. Los delegados, que tendrán tantos votos como les hayan sido delegados, no tendrán mandato imperativo, siendo válidos únicamente para la Asamblea general concreta de que se trate.
+6. El acta, que la aprobará la propia junta preparatoria al final de la realización de la misma, recogerá el lugar y fecha en que tuvo lugar la junta, el número de socios asistentes, si tuvo lugar en primera o segunda convocatoria, el resumen de las deliberaciones e intervenciones cuya constancia fue solicitada, el nombre de los delegados y el número de delegaciones de voto conferidas a cada uno de ellos. Una certificación del acta, firmada por el Presidente y el Secretario de la junta, acreditará a los delegados ante la Asamblea general.
+7. En lo no previsto en este artículo y en los estatutos sobre convocatoria y funcionamiento de las juntas preparatorias se observarán en cuanto sean de aplicación las normas establecidas sobre Asambleas generales. Los estatutos podrán prever y regular la existencia y designación de suplentes de los delegados titulares.
+8. La existencia de Asamblea general de delegados no limita el derecho de información del socio, si bien en los supuestos en que debería solicitarla o recibirla en el acto de realización de la Asamblea general, lo hará a través del Delegado a quien se lo encomiende.
+Se modifica el apartado 1 por el art. 26.1.3 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 40
+
+Artículo 40. Impugnación de acuerdos de la Asamblea general.
+1. Podrán ser impugnados los acuerdos de la Asamblea general que sean contrarios a la Ley, se opongan a los estatutos o lesionen en beneficio de uno o varios socios o de terceros los intereses de la cooperativa.
+No procederá la impugnación de un acuerdo social cuando haya sido dejado sin efecto o sustituido válidamente por otro.
+2. Serán nulos los acuerdos contrarios a la Ley. Los demás acuerdos a que se refiere el número anterior serán anulables.
+3. Los miembros del órgano de administración y los interventores están obligados a ejercer las acciones de impugnación contra los acuerdos sociales cuando sean contrarios a la Ley o se opongan a los estatutos.
+4. Están legitimados para el ejercicio de las acciones de impugnación de los acuerdos anulables los asistentes a la Asamblea general que hubiesen hecho constar en acta su oposición al acuerdo o su voto en contra del mismo, los socios ausentes y los que hayan sido ilegítimamente privados de emitir su voto.
+Para el ejercicio de las acciones de impugnación de los acuerdos nulos están legitimados todos los socios y los terceros que acrediten interés legítimo.
+5. La acción de impugnación de acuerdos nulos caducará por el transcurso de un año, desde la fecha de adopción del acuerdo o desde su inscripción en el Registro de cooperativas. La acción de impugnación de acuerdos anulables caducará transcurrido un mes, desde su adopción o inscripción.
+6. El procedimiento de impugnación se acomodará a lo establecido en los artículos 115 a 122 del texto refundido de la Ley de Sociedades Anónimas, en cuanto no resulte contrario a lo prescrito en la presente Ley, con la salvedad de que para solicitar la suspensión del acuerdo adoptado en el escrito de demanda los demandantes deberán ser los interventores o los socios que representen, al menos, el 20 por 100 del total de votos sociales.
+7. La sentencia estimatoria de la acción de impugnación producirá efectos frente a todos los socios, pero no afectará a los derechos adquiridos por terceros de buena fe a consecuencia del acuerdo impugnado. En caso de que el acuerdo impugnado estuviese inscrito, la sentencia determinará su cancelación.
+
+## Sección 2
+
+Sección 2.ª Del órgano de administración
+
+### Artículo 41
+
+Artículo 41. Los administradores: Naturaleza y competencias.
+1. El Consejo Rector es el órgano de gobierno, gestión y representación de la sociedad cooperativa, con sujeción a lo establecido en la presente Ley, en los estatutos y en la política general fijada por la Asamblea general, sin perjuicio de lo establecido en el artículo 31.2 de esta Ley, pudiendo ejercer, además, todas aquellas facultades que no estén reservadas por la presente Ley o por los estatutos a otro órgano social.
+No obstante, en aquellas cooperativas en las que el número de socios sea inferior a diez, los estatutos podrán establecer la existencia de un Administrador único, persona física que deberá tener la condición de socio, con las competencias y el régimen establecido para el Consejo Rector.
+El Presidente del Consejo Rector lo será también de la sociedad cooperativa, teniendo su representación legal, sin perjuicio de incurrir en responsabilidad si su actuación no se ajustase a los acuerdos de la Asamblea general o del Consejo Rector.
+2. Si los estatutos lo prevén, el Consejo Rector podrá nombrar, por mayoría de dos tercios de sus miembros y de entre ellos, a uno o varios consejeros delegados, personas físicas, con facultades generales referidas exclusivamente al giro y tráfico empresarial ordinario de la cooperativa.
+En ningún caso podrá ser objeto de delegación la rendición de cuentas y la presentación del balance a la Asamblea general, así como aquellas otras facultades cuyo carácter no delegable venga señalado por la presente Ley o por los estatutos.
+El nombramiento y el cese, así como las facultades conferidas, constarán en escritura pública y deberán inscribirse en el correspondiente Registro de cooperativas.
+
+### Artículo 42
+
+Artículo 42. Ejercicio de la representación.
+1. La representación atribuida al órgano de administración se extenderá en juicio y fuera de él a todos los asuntos concernientes a la cooperativa.
+Cualquier limitación a sus facultades establecida en los estatutos no podrá hacerse valer frente a terceros.
+2. El presidente o presidenta del consejo rector o administrador o administradora única, que lo será también de la cooperativa, ostentará la representación legal de la misma, sin perjuicio de incurrir en responsabilidad si su actuación no se ajustase a los acuerdos de la asamblea general o del propio consejo.
+3. A excepción de las facultades que, por disposición legal o estatutaria, sean indelegables de los órganos sociales, el órgano de administración podrá conferir apoderamientos generales o singulares, así como proceder a su revocación, a cualquier persona física, cuyas facultades representativas, de gestión y/o dirección, referidas al giro y tráfico ordinario de la cooperativa, serán las otorgadas en la escritura pública de poder, que habrá de ser inscrita en el correspondiente registro de cooperativas. También habrá de inscribirse en dicho registro la escritura pública de revocación de los poderes otorgados.
+Se modifica por el art. único.11 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 43
+
+Artículo 43. Composición del consejo rector.
+1. Los estatutos establecerán la composición y organización del consejo rector. El número de miembros no podrá ser inferior a tres, debiendo existir en todo caso un presidente o presidenta, un vicepresidente o vicepresidenta y un secretario o secretaria, salvo en las cooperativas de tres personas socias que acordasen la existencia del órgano de intervención, nombrando a una persona socia para el cargo, en cuyo supuesto el consejo estará formado por dos miembros, no existiendo el cargo de vicepresidente o vicepresidenta.
+La existencia de otros cargos de designación voluntaria y suplentes, así como el número de miembros, se determinará estatutariamente, pudiendo preverse un número variable entre un mínimo y un máximo.
+2. Las cooperativas con más de 50 personas trabajadoras con contrato por tiempo indefinido habrán de reservar un puesto de vocal del consejo rector para una de ellas, la cual será elegida y solo podrá ser revocada por el comité de empresa o, en su defecto, por el colectivo de trabajadores o trabajadoras a que representa. El periodo para el que es elegida será el mismo que para el resto de los miembros del consejo rector. El o la vocal que represente a las personas trabajadoras no sustituye a ningún consejero o consejera estatutaria, sino que incrementa su número.
+3. Los estatutos podrán reservar puestos de miembros vocales del consejo rector para su designación de entre colectivos de personas socias configurados en función de las zonas geográficas a que la sociedad extiende su actividad cooperativizada o en función de las actividades que desarrolla si están claramente diferenciadas; en las de trabajo asociado, en función de las distintas categorías profesionales de sus personas socias; y en las demás clases de cooperativas, en función del carácter de persona socia de trabajo.
+4. Las sociedades cooperativas procurarán en el consejo rector una representación equilibrada de mujeres y hombres en su composición.
+A tal objeto, se posibilitará entre los miembros de este órgano la compatibilidad y conciliación de su ejercicio profesional pleno con las situaciones de maternidad y paternidad y los cuidados de menores y personas dependientes.
+Se modifica por el art. único.12 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 44
+
+Artículo 44. Elección.
+1. Los administradores o administradoras y, en su caso, los o las suplentes serán elegidos por la asamblea general de entre los o las cooperativistas en votación secreta por el mayor número de votos. No obstante, si lo contemplasen los estatutos, hasta un tercio de los miembros del consejo rector podrán ser elegidos entre personas físicas no socias, salvo el presidente o presidenta y vicepresidente o vicepresidenta, que habrán de ser, en todo caso, personas socias de la cooperativa.
+2. Los cargos de presidente o presidenta y vicepresidente o vicepresidenta serán elegidos directamente por la asamblea general, salvo que los estatutos dispusiesen expresamente que podrán serlo por los miembros del consejo rector de entre sus componentes.
+Si la elegida es una persona jurídica, esta habrá de designar a la persona física que, vinculada por cualquier título a la misma, la represente en el cargo para el que hubiese sido designada para cada elección.
+3. Los estatutos podrán establecer el sistema de elección de acuerdo con las normas establecidas en la presente Ley.
+4. El nombramiento de los consejeros o consejeras surtirá efecto desde el momento de su aceptación, que se formalizará en los quince días siguientes a su designación, debiendo presentarse para su inscripción en el correspondiente registro de cooperativas dentro de los treinta días siguientes a la aceptación.
+Se modifica por el art. único.13 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 45
+
+Artículo 45. Duración, cese y vacantes.
+1. Los administradores serán elegidos por un período, que fijarán los estatutos, de entre dos y seis años. Salvo que los estatutos establezcan la renovación parcial, el Consejo Rector se renovará en su totalidad al vencimiento del plazo para el que han sido elegidos.
+Los administradores continuarán ocupando sus cargos hasta el momento en que se produzca la renovación de los mismos y los elegidos acepten el cargo.
+Los consejeros podrán ser reelegidos, salvo limitación estatutaria.
+2. La renuncia de los consejeros podrá ser aceptada por el Consejo Rector, así como por la Asamblea general aunque el asunto no conste en el orden del día. De resultar aceptada por la Asamblea general deberá procederse en el mismo acto al nombramiento del sustituto, salvo que los estatutos regulen la existencia de suplentes y los mecanismos de sustitución.
+Si la renuncia originase la situación a que se refiere el número 6 de este artículo, además de convocarse la Asamblea general en el plazo que en el mismo se establece, los consejeros deberán continuar en sus funciones hasta que esta se reúna y los elegidos acepten el cargo.
+3. La Asamblea general podrá destituir de sus cargos a los miembros del Consejo Rector en cualquier momento, por acuerdo adoptado, como mínimo, por la mitad más uno de los votos totales de la cooperativa, salvo que el asunto constase en el orden del día de la convocatoria, supuesto en que bastará el voto favorable de la mayoría de los votos presentes y representados.
+4. El cese por cualquier causa de los miembros del Consejo Rector solo producirá efectos frente a terceros desde su inscripción en el Registro de cooperativas.
+5. Salvo que los estatutos establezcan la existencia de suplentes de los miembros del Consejo Rector y el sistema de sustitución, las vacantes que se produzcan en el mismo se cubrirán en la primera Asamblea general que se realice.
+Vacante el cargo de Presidente, será sustituido en sus funciones por el Vicepresidente, hasta que tenga lugar la Asamblea general en la que se cubra dicho cargo, salvo lo previsto en el número 2 del artículo anterior, en que podrá cubrirse en el propio Consejo.
+6. Si quedasen vacantes simultáneamente los cargos de Presidente y Vicepresidente o quedase un número de miembros del Consejo Rector insuficiente para constituir válidamente el mismo, las funciones del Presidente serán asumidas por el Consejero designado al efecto de entre los que quedasen, debiendo convocarse Asamblea general en el plazo máximo de quince días desde que se produzca dicha situación, a efectos de cubrir los cargos vacantes.
+
+### Artículo 46
+
+Artículo 46. Funcionamiento del Consejo Rector.
+1. El funcionamiento interno del Consejo Rector deberá estar regulado en los estatutos. En lo no previsto en los mismos, podrá autorregularse el propio órgano, sometiendo esta regulación a la primera Asamblea general que se realice.
+2. La reunión del Consejo Rector deberá ser convocada por el Presidente o por quien le sustituya, por iniciativa propia o a petición de cualquier Consejero. Si la solicitud no fuese atendida en el plazo de diez días, podrá ser convocada por quien hubiese hecho la petición, siempre que logre para su convocatoria la adhesión, al menos, de un tercio del Consejo.
+No será necesaria la convocatoria cuando estando presentes todos los consejeros decidan por unanimidad la realización del Consejo.
+Podrá convocarse a la reunión, sin derecho de voto, al Letrado asesor y a los técnicos de la cooperativa, así como a otras personas cuya presencia sea de interés para el buen funcionamiento de la cooperativa.
+3. El Consejo quedará válidamente constituido cuando concurran personalmente a la reunión más de la mitad de sus componentes. Los consejeros no podrán hacerse representar.
+4. Los acuerdos se adoptarán por más de la mitad de los votos válidamente expresados, salvo en los supuestos establecidos en la presente Ley. Para acordar los asuntos que hayan de incluirse en el orden del día de la Asamblea general será suficiente el voto favorable de un tercio de los miembros que constituyen el Consejo.
+Cada Consejero tendrá un voto. El voto del Presidente dirimirá los empates.
+5. El Secretario del Consejo levantará acta de la reunión, que deberá ser llevada al libro de actas del Consejo Rector, en la que habrá de constar la lista de asistentes, el lugar, fecha y hora de la reunión, el resumen de los debates y el texto de los acuerdos, el resultado de las votaciones y cualquier otra circunstancia de la que por su importancia se estime oportuna su constancia, así como aquellas intervenciones cuya constancia en acta solicite cualquier Consejero.
+El acta será firmada por el Presidente y el Secretario.
+Los acuerdos los certificará el Secretario con el visto bueno del Presidente.
+
+### Artículo 47
+
+Artículo 47. Remuneración.
+Los estatutos o, en su defecto, la Asamblea general podrán asignar remuneraciones a los miembros del Consejo Rector. En cualquier caso serán compensados de los gastos que les origine su función, salvo de la asistencia a las reuniones de la Asamblea general.
+
+### Artículo 48
+
+Artículo 48. Incapacidades e incompatibilidades.
+1. No podrán ser miembros del consejo rector:
+a) Los altos cargos, los funcionarios o funcionarias y el personal al servicio de las administraciones con funciones que se relacionen con las actividades propias de la cooperativa de que se trate, salvo que lo fuesen en representación del ente público o administración en que prestan sus servicios.
+b) Quienes sean menores o estén incapacitados, y quienes hayan sido inhabilitados para el desarrollo de esta función por sentencia firme.
+c) Quienes desarrollen o ejerzan por cuenta propia o ajena actividades que pudieran resultar competitivas con las de la propia cooperativa o que bajo cualquier forma tuviesen intereses opuestos a los de la misma, salvo autorización expresa de la asamblea general.
+d) Los interventores o interventoras, los miembros del comité de recursos y el letrado o letrada asesora, así como los parientes de los mismos hasta el segundo grado de consanguinidad o afinidad, salvo para las cooperativas de segundo grado.
+e) Las personas que sean inhabilitadas con arreglo a Ley concursal en tanto no haya concluido el periodo de inhabilitación fijado en la sentencia de calificación del concurso, las personas que se encuentren impedidas para el ejercicio de empleo o cargo público y aquellas que por razón de su cargo no puedan ejercer actividades económicas lucrativas.
+f) Las personas incursas en los supuestos previstos estatutariamente.
+2. Son incompatibles entre sí los cargos de miembro del consejo rector, salvo para las cooperativas de segundo grado. Son igualmente incompatibles con sus ascendientes, descendientes y afines en primer grado y con su cónyuge, salvo que lo permitiesen los estatutos.
+3. El consejero o consejera incurso en cualquiera de las prohibiciones de este artículo será inmediatamente destituido de su cargo por el consejo rector, sin perjuicio de la responsabilidad en que pudiese incurrir por su conducta desleal.
+4. El cargo de miembro del consejo rector no podrá desempeñarse simultáneamente en más de tres sociedades cooperativas de primer grado.
+Se modifica por el art. único.14 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 49
+
+Artículo 49. Conflicto de intereses.
+1. Será precisa la previa autorización de la Asamblea general cuando la cooperativa tuviese que obligarse con cualquier miembro del Consejo Rector, interventores y parientes de los mismos, hasta el segundo grado de consanguinidad o afinidad, o para que con cargo a la cooperativa, y en favor de las personas señaladas o de los apoderados de la cooperativa, se realicen operaciones de asunción de deudas, prestación de fianzas, garantías, avales, préstamos y cualquier otra de análoga finalidad.
+Esta autorización no será necesaria cuando se trate de las relaciones con la cooperativa propias de la condición de socio o de trabajador de la misma si se tratase de miembro Vocal del Consejo Rector en representación de los trabajadores.
+Las personas en las que concurra la situación de conflicto de intereses con la cooperativa no tomarán parte en la votación correspondiente en la Asamblea general.
+2. Los actos, contratos y operaciones a que se refiere el número anterior realizados sin la mencionada autorización son nulos de pleno derecho, aunque quedarán a salvo los derechos adquiridos por terceros de buena fe, y darán lugar al cese del Consejero o Apoderado, que responderá personalmente de los daños y perjuicios que se deriven para la cooperativa.
+
+### Artículo 50
+
+Artículo 50. Responsabilidad de los administradores.
+1. Los miembros del Consejo Rector actuarán con la diligencia debida y con lealtad a la representación y responsabilidad que poseen. Responderán solidariamente frente a la cooperativa, los socios y terceros del daño causado por actos contrarios a la Ley o los estatutos, o por los realizados sin la diligencia con que deben desempeñar el cargo. Estarán exentos de responsabilidad los Consejeros que hubiesen salvado expresamente su voto en los acuerdos que hayan causado daño y los ausentes que hubiesen hecho constar su oposición mediante documento fehaciente dirigido a dicho órgano en los treinta días siguientes al de la adopción del acuerdo.
+Los Consejeros deberán guardar secreto sobre aquellos asuntos que tengan carácter confidencial, aun después de cesar en sus funciones.
+2. No exonerará la responsabilidad el hecho de que el acto o acuerdo lesivo hubiese sido adoptado, autorizado o ratificado por la Asamblea general.
+
+### Artículo 51
+
+Artículo 51. Acciones de responsabilidad.
+1. La acción de responsabilidad contra los miembros del Consejo Rector podrá ser ejercida por la cooperativa, mediante acuerdo de la Asamblea general adoptado por más de la mitad de los votos presentes y representados, aunque el asunto no conste en el orden del día.
+La Asamblea general podrá, en cualquier momento, renunciar o transigir al ejercicio de la acción por acuerdo adoptado por mayoría de los dos tercios de los votos presentes y representados.
+2. El acuerdo de la Asamblea general de promover la acción o transigir sobre la misma implica la destitución automática de los administradores afectados.
+3. Cuando la cooperativa no entable la acción de responsabilidad, en el plazo de tres meses desde la fecha de adopción del acuerdo, esta podrá ejercerse por cualquier socio en nombre propio y por su cuenta en beneficio de la cooperativa. Si prosperase la acción, la cooperativa vendrá obligada a reembolsar al socio los gastos necesarios ocasionados al ejercitar la acción.
+4. Transcurrido el plazo de seis meses desde la comisión de los hechos que originaron el acuerdo de ejercicio de la acción de responsabilidad sin que la Asamblea general o los socios la hubiesen entablado, cualquier acreedor de la sociedad podrá ejercitarlo a fin de reconstruir el patrimonio social cooperativo.
+5. La acción prescribirá a los dos años de haberse producido los actos que hubiesen originado dicha responsabilidad o desde su conocimiento.
+6. No obstante lo dispuesto en los números precedentes, quedan a salvo las acciones individuales que puedan corresponder a los socios y a terceros por actos de los administradores que lesionen directamente sus intereses, dentro de los plazos señalados en el número anterior.
+
+### Artículo 52
+
+Artículo 52. Impugnación de los acuerdos del Consejo Rector.
+1. Los acuerdos del Consejo Rector que sean contrarios a la Ley o a los estatutos que vulneren los derechos del socio o que lesionen en beneficio de uno o varios socios o de terceros los intereses de la cooperativa podrán ser impugnados.
+Son nulos los acuerdos contrarios a la Ley, los demás serán anulables.
+A los efectos de su impugnación, los acuerdos de los Consejeros delegados se entenderán adoptados por el Consejo Rector.
+2. Están legitimados para entablar las acciones de impugnación de acuerdos anulables aquellos miembros del Consejo Rector que hubiesen hecho constar en acta su oposición al acuerdo, los ausentes que hiciesen constar su oposición mediante documento fehaciente dirigido a dicho órgano en los treinta días siguientes al de la adopción del acuerdo, además de los interventores y de los socios que representen, como mínimo, el 10 por 100 de los votos sociales.
+Para la interposición de acciones de impugnación de acuerdos nulos está legitimado cualquier socio, incluidos los miembros del Consejo Rector que hubiesen votado a favor del acuerdo y los que se hubiesen abstenido.
+3. La acciones de impugnación de acuerdos nulos y anulables deberán ser entabladas en el plazo de dos meses, a contar desde que se tuviese conocimiento del acuerdo y siempre que no haya transcurrido un año desde su adopción.
+4. Las acciones de impugnación se tramitarán y producirán los efectos previstos con arreglo a lo establecido en la presente Ley para la impugnación de los acuerdos de la Asamblea general.
+
+## Sección 3
+
+Sección 3.ª De los interventores de la cooperativa
+
+### Artículo 53
+
+Artículo 53. Del órgano de intervención: nombramiento y composición.
+La existencia del órgano social de intervención tendrá naturaleza voluntaria en las cooperativas sujetas al ámbito de la presente Ley. En todo caso, las cooperativas que dispusiesen y regulasen esta figura en sus estatutos sociales estarán sujetas a las siguientes reglas:
+1. La asamblea general elegirá, mediante votación secreta por el mayor número de votos, de entre las personas socias de la cooperativa a los interventores o interventoras titulares y, en su caso, a los o las suplentes.
+No obstante, cuando existiera más de un interventor o interventora, si lo contemplasen los estatutos y por una mayoría de dos tercios de los votos presentes y representados en la asamblea general, uno o una de los mismos o mismas podrá ser elegido entre personas físicas no socias que reúnan los requisitos de cualificación profesional y experiencia técnica o empresarial adecuados en relación con las funciones de aquel órgano.
+2. Estatutariamente se determinará el número de interventores o interventoras titulares y suplentes, en su caso, así como la duración de su mandato entre un periodo de dos a seis años, pudiendo ser reelegidos.
+3. Solo las personas socias que no estén incursas en alguna de las causas de incapacidades e incompatibilidades establecidas en el artículo 48 de la presente Ley pueden ser elegidas interventoras.
+4. Será de aplicación a los interventores o interventoras, en cuanto fuese compatible, la regulación establecida para el consejo rector en la presente Ley, si bien la responsabilidad de los interventores o interventoras no tendrá el carácter de solidaria.
+Se modifica por el art. único.15 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 54
+
+Artículo 54. Funciones del órgano de intervención.
+1. Son funciones del órgano de intervención, en el supuesto de que la cooperativa dispusiera de esta figura, además de las que puedan fijar los propios estatutos y que no sean competencia de otro órgano social, las siguientes:
+a) La censura de las cuentas anuales antes de su presentación a la asamblea general mediante informe emitido al efecto, así como sobre la propuesta de distribución de excedentes o imputación de pérdidas. En caso de disconformidad podrá emitirse informe por separado.
+A este fin, y en el plazo mínimo de un mes anterior a la fecha de celebración de la asamblea general, el órgano de administración pondrá a su disposición las cuentas anuales y cualquier documentación que el órgano de intervención pudiese solicitar para el mejor cumplimiento de su función fiscalizadora.
+Si la cooperativa auditase externamente sus cuentas, se eximirá al órgano de intervención de la obligatoriedad de emitir el informe de censura de las cuentas anuales de aquellos ejercicios económicos en que se efectuase la auditoría.
+Será nulo el acuerdo de aprobación de las cuentas anuales por la asamblea general sin el previo informe del órgano de intervención o, en su caso, del informe de auditoría externa.
+El informe del órgano de intervención se recogerá en el libro de informes de censura de cuentas.
+b) Convocar asamblea general en los supuestos y a través de los procedimientos establecidos en la presente Ley.
+c) Controlar la llevanza de los libros de la cooperativa.
+d) Solicitar del consejo rector todas aquellas informaciones sobre la marcha de la cooperativa que estimase oportunas en el ejercicio de su función.
+e) Decidir sobre la idoneidad del escrito o poder que acredite la representación en las asambleas generales. En caso de ausencia del órgano de intervención, esta decisión corresponderá a la presidencia y secretaría de la asamblea.
+f) Impugnar ante la asamblea general la valoración de los bienes o derechos como aportación al capital social acordada por el consejo rector.
+g) Cualesquiera otras funciones que le encomiende la presente Ley.
+2. Si se contemplase estatutariamente, el órgano de intervención podrá solicitar, a cargo de la cooperativa, el asesoramiento de profesionales externos a la misma, para el mejor ejercicio y cumplimiento de las funciones y responsabilidades encomendadas en la presente Ley y en los estatutos.
+3. Los miembros del órgano de intervención habrán de guardar secreto sobre los datos confidenciales a que tuvieran acceso en el ejercicio de su función interventora, salvo aquellos que faciliten a través de las vías establecidas legal y estatutariamente.
+Se modifica por el art. único.16 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 55
+
+Artículo 55. Auditoría externa.
+Las sociedades cooperativas vendrán obligadas a auditar las cuentas anuales en los mismos supuestos, forma y procedimiento exigidos para cualquier otro tipo de sociedad por la Ley de Auditoría de Cuentas y Normas de Desarrollo o por cualquier otra norma legal de aplicación, o cuando lo establezcan los estatutos, lo acuerde la Asamblea general o el órgano de administración, y en los casos y con los requisitos previstos en la presente Ley.
+Igualmente, deberán someterse a auditoría externa cuando lo soliciten por escrito el 15 por 100 de los socios de la cooperativa. En este supuesto, los gastos originados como consecuencia de la auditoría serán por cuenta de los solicitantes, salvo cuando de la misma resulten vicios o irregularidades esenciales en la contabilidad comprobada.
+Los auditores de cuentas serán designados por la Asamblea general. No obstante, cuando la designación por este órgano no se hiciese oportunamente o las personas designadas no puedan cumplir sus funciones, el Consejo Rector podrá proceder a dicha designación, dando cuenta de la misma en la primera Asamblea general que se realice.
+En ningún caso podrá realizarse la verificación de las cuentas por personas que desarrollen o hayan desarrollado en los cuatro años anteriores puestos de administración o funciones de asesoramiento o de confianza en la cooperativa. Tampoco podrá realizarse por quienes formen o hayan formado parte del personal de la misma en idéntico período de tiempo ni por las personas que estén inmersas en alguna de las prohibiciones que la presente Ley establece para las personas interventoras.
+Las personas revisoras de cuentas dispondrán, al menos, del plazo de un mes, desde que las cuentas anuales les fuesen entregadas por el órgano de administración, para evacuar su informe, que contendrá, como mínimo, las menciones siguientes:
+a) Si en la relación de las cuentas anuales se han respetado las normas legales y estatutarias.
+b) Las observaciones sobre los hechos que, en su caso, hubiesen comprobado y que representen un peligro para la situación financiera de la cooperativa.
+c) La certificación de que la contabilidad de las cuentas anuales es correcta o, en su caso, los motivos por los cuales formulen reservas o rechacen entregar la certificación.
+
+## Sección 4
+
+Sección 4.ª Del Comité de Recursos y del Letrado asesor
+
+### Artículo 56
+
+Artículo 56. Del comité de recursos: funciones y composición.
+1. Si se contemplase estatutariamente, podrá constituirse un comité de recursos, que tramitará y resolverá los recursos contra las sanciones impuestas a las personas socias por el consejo rector y los demás recursos en que así lo contemple la presente Ley o los estatutos.
+2. La composición del comité se fijará en los estatutos, estando integrado al menos por tres miembros, personas físicas, elegidos de entre las personas socias por la asamblea general en votación secreta. La duración de su mandato se determinará estatutariamente entre un periodo de dos a seis años, pudiendo ser reelegidos. Será de aplicación lo establecido en el artículo 45 de la presente Ley sobre la prórroga del mandato en tanto no se produjese su renovación.
+Los miembros del comité de recursos elegirán de entre ellos a un presidente o presidenta y un secretario o secretaria.
+El cargo de miembro del comité es incompatible con cualquier otro cargo de elección en la cooperativa o con la relación laboral con la misma.
+A los efectos de la composición de este órgano, se procurará una representación equilibrada de mujeres y hombres en su composición.
+A tal objeto, se posibilitará entre los miembros de este órgano la compatibilidad y conciliación de su ejercicio profesional pleno con las situaciones de maternidad y paternidad y los cuidados de menores y personas dependientes.
+3. El comité de recursos deliberará válidamente con la asistencia de la mitad más uno de sus componentes. Sus acuerdos se adoptarán por mayoría simple de los miembros asistentes, no siendo posible la delegación de voto. El voto de la presidencia dirimirá los empates.
+No podrán tomar parte en la tramitación y resolución de los recursos los miembros que tengan respecto a la persona socia o, en su caso, del afectado o afectada parentesco de consanguinidad o de afinidad hasta el segundo grado, o relación de servicio.
+El acta de la reunión del comité, firmada por el secretario o secretaria y el presidente o presidenta, recogerá el texto de los acuerdos.
+Los acuerdos del comité de recursos serán ejecutivos, y definitivos como expresión de la voluntad social, pudiendo ser recurridos por la vía procesal prevista en el artículo 40 de la presente Ley.
+Se modifica por el art. único.17 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 57
+
+Artículo 57. El Letrado asesor: Funciones.
+1. Las cooperativas que de acuerdo con las cuentas del último ejercicio vengan obligadas a realizar auditoría externa de cuentas deberán designar por acuerdo de la Asamblea general o, en su defecto, por el Consejo Rector a un Letrado asesor para ejercicios sucesivos mientras permanezca la obligación de auditarse.
+2. El Letrado asesor, asista o no a las reuniones de los órganos sociales, deberá dictaminar, en todo caso, si son conformes a derecho los acuerdos adoptados por aquellos que sean inscribibles en cualquier registro público. Las certificaciones de dichos acuerdos llevarán la constancia de que en los libros de actas figuran dictaminados por el Letrado asesor. Igualmente dictaminará en todos aquellos asuntos relacionados con el régimen de altas y bajas y con la aplicación de las normas disciplinarias y su procedimiento.
+3. El ejercicio en la función de Letrado asesor será incompatible con cualquier cargo de otros órganos sociales.
+4. El Letrado asesor no podrá ser socio de la cooperativa ni mantener con la misma relaciones comerciales o contractuales que no sean las propias de asesoramiento jurídico, siéndole de aplicación las incapacidades e incompatibilidades establecidas en el artículo 48 de la presente Ley.
+5. La relación contractual entre la cooperativa y el Letrado asesor podrá ser de arrendamiento de servicios o laboral.
+6. Las confederaciones, federaciones, uniones de cooperativas y cooperativas de segundo grado podrán prestar estos servicios a sus socios, manteniendo con el Letrado asesor cualquiera de las modalidades contractuales reflejadas en el número anterior.
+7. El Letrado asesor responderá civilmente frente a la cooperativa, sus socios y terceros en caso de daños ocasionados por negligencia profesional en la emisión de los dictámenes que le sean solicitados.
+
+## CAPÍTULO V
+
+Del régimen económico
+
+### Artículo 58
+
+Artículo 58. Capital social.
+1. El capital social de la sociedad cooperativa estará constituido por las aportaciones de naturaleza patrimonial realizadas al mismo por las personas socias, ya sean obligatorias o voluntarias, que podrán ser:
+a) Aportaciones con derecho al reembolso en caso de baja.
+b) Aportaciones cuyo reembolso en caso de baja pueda ser rechazado incondicionalmente por el órgano de administración.
+2. La transformación obligatoria de las aportaciones con derecho al reembolso en caso de baja en aportaciones cuyo reembolso pueda ser rechazado incondicionalmente por el órgano de administración, o la transformación inversa, requerirán el acuerdo de la asamblea general, adoptado por la mayoría exigida para la modificación de los estatutos. La persona socia que hubiese salvado expresamente su voto, o estuviese ausente o disconforme con esta transformación, podrá darse de baja en los plazos y cumpliendo con los requisitos contemplados en el artículo 20.3.a) de la presente Ley, calificándose como justificada.
+3. Los estatutos podrán contemplar que, cuando en un ejercicio económico el importe de la devolución de las aportaciones superase el porcentaje del capital social que en los mismos se establezca, los nuevos reembolsos estén condicionados al acuerdo favorable del órgano de administración. La persona socia que hubiese salvado expresamente su voto, o estuviese ausente o disconforme con el establecimiento o disminución de este porcentaje, podrá darse de baja en los plazos y cumpliendo con los requisitos contemplados en el artículo 20.3.a) de la presente Ley, calificándose como justificada. Para este supuesto se aplicarán también los artículos 60.3, 61.4, 64.6 y 7 y 93.4 de la presente Ley.
+4. Las aportaciones se acreditarán mediante títulos nominativos no negociables o mediante otro sistema idóneo que acredite las aportaciones que se realizasen y las actualizaciones de las mismas, en su caso, así como las deducciones practicadas sobre ellas por pérdidas imputadas a las personas socias.
+Cualquiera que sea el medio utilizado para acreditar las aportaciones, habrá de reflejarse en todo caso la parte de capital suscrito y no desembolsado.
+5. Las aportaciones se realizarán en moneda de curso legal. No obstante, si lo contemplasen los estatutos o lo acordase la asamblea general, pueden consistir también en bienes y derechos susceptibles de valoración económica. En este caso el órgano de administración fijará su valor, previo informe de una o varias personas expertas independientes designadas por el mismo bajo su responsabilidad, dándose conocimiento de ello al órgano de intervención.
+6. Las aportaciones no dinerarias no producen cesión o traspaso ni a los efectos de la Ley de arrendamientos urbanos o rústicos, sino que la sociedad cooperativa es continuadora en la titularidad del bien o derecho. Lo mismo se entenderá respecto a nombres comerciales, marcas, patentes y cualquier otro título o derecho que constituyesen aportaciones al capital social.
+7. El importe total de las aportaciones de cada cooperativista en las cooperativas de primer grado habrá de ser inferior al 50% del capital social.
+Se modifica por el art. único.18 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 59
+
+Artículo 59. Aportaciones obligatorias al Capital social.
+1. Los Estatutos fijarán la aportación obligatoria mínima al Capital social para adquirir la condición de socio, que podrá ser diferente para los distintos tipos de socios previstos en la presente Ley, o en función de su naturaleza física o jurídica o de la clase de actividad realizada, o para cada socio en proporción al compromiso o uso potencial que cada uno de ellos asuma de la actividad cooperativizada.
+2. Esta aportación deberá desembolsarse al menos en un 25 por 100 en el momento de su suscripción, y el resto en el plazo que acuerde la Asamblea general.
+3. La Asamblea general podrá acordar la exigencia de nuevas aportaciones obligatorias, fijando la cuantía, plazos y condiciones del desembolso. El socio que tuviese desembolsadas aportaciones voluntarias podrá aplicarlas en todo o en parte a cubrir las nuevas aportaciones.
+El socio disconforme con la ampliación obligatoria de Capital social podrá darse de baja, que se calificará como justificada.
+4. Si por la imputación de pérdidas de la cooperativa a los socios la aportación al Capital social de alguno de ellos quedase por debajo de la mínima obligatoria señalada estatutariamente, el socio afectado deberá realizar la aportación necesaria hasta alcanzar dicho mínimo, para lo que será inmediatamente requerido por el Consejo Rector, el cual fijará el plazo para efectuar el desembolso, que no podrá ser inferior a dos meses.
+5. El socio que no desembolse las aportaciones en los plazos previstos incurrirá en mora por el solo vencimiento del plazo y deberá abonar a la cooperativa el interés legal y resarcirla de los daños y perjuicios causados por la morosidad.
+El socio que incurra en mora podrá ser suspendido de sus derechos en los términos establecidos en el número 4 del artículo 25 de la presente Ley hasta que normalice su situación, y si no realiza el desembolso en el plazo de dos meses desde que fuese requerido, podrá ser causa de expulsión de la sociedad.
+En todo caso, la cooperativa podrá proceder judicialmente contra el socio moroso.
+6. La Asamblea general ordinaria fijará anualmente la cuantía de las aportaciones obligatorias de los nuevos socios y las condiciones y plazos para su desembolso, armonizando las necesidades económicas de la cooperativa y el principio de facilitar la incorporación de nuevos socios.
+El importe de las aportaciones obligatorias de los nuevos socios no podrá ser inferior al de las aportaciones obligatorias mínimas para ser socio, ni superior al de las efectuadas por los socios actuales, incrementadas en la cuantía que resulte de aplicar el Índice de Precios al Consumo.
+
+### Artículo 60
+
+Artículo 60. Intereses de las aportaciones obligatorias.
+1. Las aportaciones obligatorias al capital social podrán devengar un interés por la parte efectivamente desembolsada en la cuantía que previamente estableciesen los estatutos o, en su defecto, la asamblea general, que no podrá exceder del legal del dinero en más de 3 puntos.
+2. La remuneración de las aportaciones obligatorias al capital social estará condicionada a la existencia en el ejercicio económico de resultados positivos o reservas de libre disposición.
+3. Si la asamblea general acordase devengar intereses para las aportaciones obligatorias al capital social o repartir retornos, las aportaciones contempladas en el artículo 58.1.b) de la presente Ley de las personas socias que hayan causado baja en la cooperativa y cuyo reembolso haya sido rechazado por el consejo rector tendrán preferencia para percibir dicha remuneración.
+Se modifica por el art. único.19 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 61
+
+Artículo 61. Aportaciones voluntarias al capital social.
+1. La asamblea general podrá acordar la admisión de aportaciones voluntarias al capital social a realizar por las personas socias, fijando las condiciones de las mismas, sin exceder la retribución que se establezca del interés legal del dinero incrementado en 6 puntos.
+2. Las aportaciones voluntarias habrán de desembolsarse totalmente en el momento de la suscripción y tendrán el carácter de capital social, del que pasan a formar parte.
+3. La remuneración de las aportaciones voluntarias al capital social estará condicionada a la existencia en el ejercicio económico de resultados positivos o reservas de libre disposición.
+4. Si la asamblea general acordase devengar intereses para las aportaciones voluntarias al capital social o repartir retornos, las aportaciones contempladas en el artículo 58.1.b) de la presente Ley de las personas socias que hayan causado baja en la cooperativa y cuyo reembolso haya sido rechazado por el consejo rector tendrán preferencia para percibir dicha remuneración.
+Se modifica por el art. único.20 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 62
+
+Artículo 62. Regularización de balances y actualización de las aportaciones.
+1. El Balance de la cooperativa podrá ser regularizado en los mismos términos y con los mismos beneficios previstos para las sociedades de derecho común.
+2. La plusvalía resultante la destinará la cooperativa en un 50 por 100 como mínimo al Fondo de Reserva Obligatorio; el resto se destinará según lo previsto en los Estatutos o, en su defecto, lo acuerde la Asamblea general a la actualización de las aportaciones al Capital o al incremento de las reservas, obligatorias o voluntarias. No obstante, cuando la cooperativa tenga pérdidas sin compensar, dicha plusvalía se aplicará, en primer lugar a la compensación de las mismas, y el resto, a los destinos señalados anteriormente.
+
+### Artículo 63
+
+Artículo 63. Transmisión de las aportaciones.
+Las aportaciones podrán transmitirse:
+a) Por actos inter vivos, previa notificación a los Administradores, entre socios preferentemente y entre aquellos que reuniendo los requisitos para ser socios se comprometan a serlo en los tres meses siguientes, en los términos fijados en los Estatutos.
+b) Por sucesión mortis causa, a los causahabientes si fuesen socios y así lo soliciten o, si no lo fuesen, previa admisión como tales, que deberá solicitarse en el plazo de tres meses desde el fallecimiento, sin resultar obligado a desembolsar cuota de ingreso.
+En otro caso, tendrán derecho a la liquidación del crédito correspondiente a la aportación social.
+Si los herederos fuesen varios, la cooperativa podrá exigir que el derecho a la condición de socio sea ejercido por uno solo, con el expreso consentimiento de los demás, y si no hubiese acuerdo entre los herederos se procederá a abonar la liquidación, conforme se prevé en el apartado anterior, a aquellos que acrediten derecho a la misma.
+
+### Artículo 64
+
+Artículo 64. Reembolso de las aportaciones.
+1. Los estatutos regularán el derecho de las personas socias al reembolso de sus aportaciones al capital social en caso de baja.
+La liquidación de estas aportaciones se hará por su valor nominal según el balance de cierre del ejercicio en que se produjese la baja. Pueden establecerse deducciones sobre todas las cantidades reembolsables por los conceptos de aportaciones obligatorias, el retorno cooperativo a que, en su caso, tengan derecho y fondos de reserva repartibles que, en su caso, pudieran corresponderles, que no serán superiores al 30% en caso de expulsión ni al 20% en caso de baja no justificada; a estos efectos se tendrá en cuenta lo establecido en el artículo 20 de la presente Ley para los supuestos de incumplimiento del plazo de preaviso o del periodo de permanencia mínimo. En caso de baja justificada, no procederá deducción alguna.
+En ningún caso se podrán aplicar deducciones sobre las aportaciones voluntarias.
+2. La decisión sobre el porcentaje de deducción aplicable en cada caso será competencia del órgano de administración, en función de las circunstancias que concurriesen.
+3. Sin perjuicio de las deducciones anteriormente citadas, se computarán, en su caso, y a efectos del oportuno descuento de las cantidades que tuvieran que devolverse al o la cooperativista que causa baja, las pérdidas, imputadas e imputables, reflejadas en el balance de cierre del ejercicio en que se produjese la baja, ya correspondan a dicho ejercicio o provengan de otros anteriores o estén sin compensar.
+4. El órgano de administración podrá aplazar el reembolso de la liquidación en el plazo que señalen los estatutos sociales, que no será superior a cinco años en caso de expulsión o baja no justificada, a tres años en caso de baja justificada y a un año en caso de defunción, a contar desde la fecha del cierre del ejercicio en que la persona socia causó baja. Las cantidades aplazadas darán derecho a percibir el interés legal del dinero desde la fecha de cierre del ejercicio en que la persona socia causó baja, no pudiendo ser actualizadas. Cuando el órgano de administración acordase la devolución de las aportaciones contempladas en el artículo 58.1.b), el reembolso deberá hacerse en los plazos establecidos, a contar desde la fecha del acuerdo de reembolso.
+5. El órgano de administración tendrá un plazo de un mes desde la aprobación de las cuentas del ejercicio en que haya causado baja la persona socia para comunicar la liquidación efectuada.
+6. Cuando las personas titulares de aportaciones contempladas en el artículo 58.1.b) hayan causado baja, el reembolso que, en su caso, acordase el consejo rector se efectuará por orden de antigüedad de las solicitudes de reembolso o, cuando no hubiera tal solicitud, por orden de antigüedad de la fecha de la baja.
+7. En caso de ingresos de nuevas personas socias, las aportaciones al capital social de las mismas habrán de efectuarse mediante la adquisición de las aportaciones contempladas en el artículo 58.1.b) cuyo reembolso hubiese sido solicitado por baja de sus titulares. Esta adquisición se producirá por orden de antigüedad de las solicitudes de reembolso de este tipo de aportaciones y, en caso de solicitudes de igual fecha, la adquisición se distribuirá en proporción al importe de las aportaciones.
+Se modifica por el art. único.21 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 65
+
+Artículo 65. Financiaciones que no integran Capital social.
+1. Estatutariamente o por la Asamblea general podrán establecerse cuotas de ingreso y/o periódicas que no integrarán el Capital social ni serán reintegrables. Dichas cuotas podrán ser diferentes para los distintos tipos de socios previstos en la presente Ley, o en función de la naturaleza física o jurídica de los mismos, o para cada socio en proporción a su respectivo compromiso o uso potencial de la actividad cooperativizada.
+2. Las cuotas de ingreso no podrán ser superiores al 50 por 100 de la aportación obligatoria mínima al Capital social vigente en cada momento para adquirir la condición de socio.
+3. La entrega por los socios de cualquier tipo de bienes o la prestación de servicios para la gestión cooperativa y en general los pagos para la obtención de los servicios cooperativizados no integran el Capital social y están sujetos a las condiciones fijadas y contratadas con la cooperativa. Aquellas entregas no integran el patrimonio de la cooperativa y no pueden ser objeto de embargo por los acreedores sociales.
+4. Las cooperativas, por acuerdo de la Asamblea general, podrán emitir obligaciones, ajustándose su régimen a lo dispuesto en la legislación aplicable. Asimismo, la Asamblea general podrá acordar, cuando se trate de emisiones en serie, la admisión de financiación voluntaria de los socios o de terceros bajo cualquier modalidad jurídica y con el plazo y condiciones que se establezcan.
+5. La Asamblea general podrá acordar igualmente la emisión de títulos participativos, que darán derecho a la correspondiente remuneración mixta en forma de interés fijo, más un interés variable que se establezca en el momento de la emisión en función de los resultados de la cooperativa.
+El acuerdo de emisión, que concretará el plazo de amortización y demás condiciones aplicables, podrá establecer el derecho de asistencia de los suscriptores de estos títulos a la Asamblea general, con voz y sin voto.
+6. También podrán contratarse cuentas en participación, ajustándose su régimen a lo establecido por el Código de Comercio.
+
+### Artículo 66
+
+Artículo 66. Determinación del resultado del ejercicio.
+1. Para la determinación del resultado del ejercicio se aplicarán las normas y criterios establecidos por la normativa general contable.
+2. Sin embargo, se considerarán también como gastos deducibles para la determinación del resultado del ejercicio los siguientes:
+a) El importe de los bienes entregados por las personas socias para la gestión cooperativa, en valoración no superior a los precios reales de liquidación, así como el importe de los anticipos societarios de las personas socias trabajadoras y de trabajo, en cuantía global no superior a las retribuciones normales en la zona para el sector de actividad correspondiente.
+b) Los intereses adeudados y las remuneraciones por las aportaciones al capital social y por las prestaciones y financiación no integradas en el capital social, sea cual fuese la modalidad de aquéllas.
+3. Los beneficios obtenidos de las operaciones cooperativizadas realizadas con terceros no socios se destinarán en un 50%, como mínimo, al Fondo de Reserva Obligatorio, figurando en la contabilidad por separado.
+Los beneficios procedentes de plusvalías en la enajenación de los elementos del activo inmovilizado o los obtenidos de otras fuentes ajenas a los fines específicos de la cooperativa, así como los derivados de inversiones o participaciones en sociedades de naturaleza no cooperativa, se destinarán en un 50% como mínimo al Fondo de Reserva Obligatorio, y el resto según determine la asamblea general, con las siguientes excepciones:
+a) Los derivados de ingresos procedentes de inversiones o participaciones financieras, o en sociedades no cooperativas cuando estas realicen actividades preparatorias, complementarias o subordinadas a las de la propia cooperativa, que se considerarán, a todos los efectos, resultados cooperativos.
+b) Las plusvalías obtenidas por la enajenación de elementos del inmovilizado material destinados al cumplimiento del fin social, cuando se reinvirtiese la totalidad de su importe en nuevos elementos del inmovilizado, con idéntico destino, dentro del plazo comprendido entre el año anterior a la fecha de la entrega o puesta a disposición del elemento patrimonial y los tres años posteriores, siempre que permaneciesen en su patrimonio, salvo pérdidas justificadas, hasta que finalice su periodo de amortización.
+c) Para la determinación de los resultados extracooperativos se imputará a los ingresos derivados de estas operaciones, además de los gastos específicos necesarios para su obtención, la parte que, según criterios de imputación fundados, correspondiese de los gastos generales de la cooperativa.
+4. No obstante lo anterior, la cooperativa podrá optar en sus estatutos por la no contabilización separada de los resultados extracooperativos, con las consecuencias establecidas en la Ley estatal de cooperativas en este supuesto, no siendo de aplicación lo dispuesto en el artículo 8.4 de la presente Ley. En todo caso, se mantiene la obligación de dotar los fondos legales en los términos fijados en el artículo 67.1.a) de la presente Ley.
+Se modifica por el art. único.22 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 67
+
+Artículo 67. Distribución de los excedentes. El retorno cooperativo.
+1. Anualmente, de los excedentes contabilizados para la determinación del resultado del ejercicio, una vez deducidas las pérdidas de ejercicios anteriores y antes de la consideración del impuesto de sociedades del ejercicio económico, se destinará:
+a) Al Fondo de Reserva Obligatorio, una cuantía global mínima del 20%, y al Fondo de Formación y Promoción, al menos un 5%.
+b) De los beneficios extracooperativos y extraordinarios, como mínimo un 50% al Fondo de Reserva Obligatorio, salvo para las cooperativas que se acogiesen a lo dispuesto en el artículo 66.4 de la presente Ley.
+El resto, satisfechos los impuestos exigibles, estará a disposición de la asamblea general, que podrá distribuirlo en la forma siguiente: al retorno cooperativo a las personas socias, a la dotación a fondos de reserva voluntarios de libre disposición, al incremento de los fondos obligatorios y a la participación del personal trabajador asalariado en los resultados de la cooperativa.
+2. El retorno cooperativo es la parte del excedente disponible que la asamblea general acordase repartir entre las personas socias, que se acreditará a las mismas en proporción a las operaciones, servicios o actividades realizadas por cada persona socia con la cooperativa, sin que pueda acreditarse en caso alguno en función de las aportaciones al capital social.
+3. La cooperativa podrá regular en sus estatutos o por acuerdo de la asamblea general el derecho de su personal trabajador asalariado a participar en los resultados. Esta participación tendrá carácter salarial y sustituirá al complemento de similar naturaleza establecido, en su caso, en la normativa laboral de aplicación, salvo que fuese inferior a dicho complemento; en tal caso, se aplicará este último.
+4. Los fondos de reserva voluntarios de libre disposición son aquellos creados por la asamblea general mediante acuerdo expreso que podrá determinar su naturaleza, como repartible o no, y regular su funcionamiento contemplando expresamente los supuestos de repartibilidad, en su caso.
+En defecto de pronunciamiento expreso de la asamblea general sobre su naturaleza, estos fondos no serán repartibles entre las personas socias en caso de baja de estas.
+A los fondos de reserva voluntarios podrán destinarse los excedentes del ejercicio, cooperativos o extracooperativos, una vez satisfechos los impuestos exigibles.
+El derecho de reintegro de la participación de las personas socias que causasen baja en los fondos repartibles únicamente procederá en proporción a la contribución realizada por la persona cooperativista en su generación, considerando la actividad cooperativizada desarrollada y las pérdidas que fuesen imputadas o estén pendientes de imputar, y solo procederá cuando la asamblea general lo haya acordado al hacer la correspondiente dotación y en las condiciones establecidas en dicho acuerdo.
+En todo caso, los fondos de reserva voluntarios responderán en primer lugar en el supuesto de compensación de pérdidas, sin más limitación que la establecida por la asamblea general que acordase la imputación.
+Se modifica por el art. único.23 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 68
+
+Artículo 68. Fondos sociales obligatorios.
+1. El Fondo de Reserva Obligatorio, destinado a la consolidación, desarrollo y garantía de la cooperativa, es irrepartible entre las personas socias. Al Fondo de Reserva Obligatorio se destinarán necesariamente:
+a) El porcentaje de los excedentes netos que establezca la asamblea general, de acuerdo con lo establecido en el artículo 67 de la presente Ley.
+b) Las deducciones sobre las aportaciones obligatorias al capital social en caso de baja no justificada o expulsión de personas socias.
+c) Las cuotas de ingreso.
+d) Los resultados extracooperativos de las operaciones señaladas en el número 3 del artículo 66 de la presente Ley, en un 50% como mínimo.
+2. El Fondo de Formación y Promoción Cooperativa se destinará, en aplicación de las líneas básicas fijadas por los estatutos o por la asamblea general, a actividades que cumplan alguna de las siguientes finalidades:
+a) A formación de las personas socias y trabajadoras en los principios cooperativos.
+b) A formación profesional adecuada a la actividad cooperativizada de las personas socias y trabajadoras.
+c) A formación en la dirección y control empresarial adecuado a los miembros del consejo rector e interventores o interventoras.
+d) A promoción de las relaciones intercooperativas y de las demás entidades creadas para la promoción, asistencia, dirección común o actividades de apoyo entre cooperativas, incluyendo la cobertura de gastos originados por la constitución o incorporación en cooperativas de segundo grado.
+e) A promoción y difusión de las características del cooperativismo en el entorno social en que se desarrolle la cooperativa y en la sociedad en general.
+f) Las cooperativas de crédito podrán destinar este fondo a la promoción cultural, profesional y social de la comunidad en general. Las restantes cooperativas precisarán la autorización previa del Consejo Gallego de Cooperativas.
+g) Para actuaciones para la conciliación de la vida personal, laboral y familiar.
+h) A actividades de fomento de la igualdad, en línea con lo previsto en la Ley 2/2007, de 28 de marzo, de trabajo en igualdad de las mujeres de Galicia.
+i) Para fomento de la responsabilidad social.
+En cualquier caso, hasta un máximo de un 50% de este fondo podrá destinarse a finalidades vinculadas con el apoyo a proyectos e iniciativas de emprendimiento cooperativo generadores de empleo, particularmente en el ámbito de los servicios sociales, así como para aportaciones económicas dirigidas a la financiación de proyectos cooperativos.
+Se destinarán necesariamente al Fondo de Formación y Promoción Cooperativa:
+a) El porcentaje de los excedentes netos que estableciesen los estatutos o la asamblea general de acuerdo con lo establecido en el artículo 67 de la presente Ley.
+b) Las sanciones económicas que impusiera la cooperativa a sus personas socias.
+El Fondo de Formación y Promoción Cooperativa es inembargable, debiendo figurar sus dotaciones en el pasivo del balance con separación de otras partidas.
+Para el cumplimiento de los fines del fondo podrá colaborarse con otras sociedades o uniones y asociaciones cooperativas, que podrán gestionar directamente dichos fondos mediante acuerdo de la asamblea general de la cooperativa, con instituciones públicas y privadas y con el Consejo Gallego de Cooperativas, órgano que gestionará directamente dicho fondo en los siguientes supuestos:
+a) Cuando la cooperativa le transfiriese los importes correspondientes a dicho fondo dentro del ejercicio económico en que se efectúe la dotación.
+b) Cuando la cooperativa no hubiera aplicado a su destino el importe de dicho fondo en el plazo de cinco años desde que efectuó la dotación en su ejercicio correspondiente, debiendo en este caso transferirlo al Consejo Gallego de Cooperativas.
+En todo caso, el importe del referido fondo que no se haya aplicado sin que transcurriese el plazo previsto en la letra b) precedente habrá de materializarse dentro del ejercicio económico siguiente a aquel en que se hubiese efectuado la dotación, en cuentas de ahorro o en títulos de deuda pública en los cuales los rendimientos financieros, en ambos supuestos, se aplicarán al mismo fin. Dichos títulos no podrán ser pignorados ni afectados a préstamos o cuentas de crédito.
+Se modifica por el art. único.24 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+ Se modifica la letra f) del apartado 2 por el art. 16 de la Ley 14/2004, de 29 de diciembre. Ref. BOE-A-2005-1722.
+
+### Artículo 69
+
+Artículo 69. Imputación de pérdidas.
+1. Los estatutos podrán fijar los criterios para la compensación de las pérdidas, siendo válido imputarlas a una cuenta especial para su amortización con cargo a futuros resultados positivos, dentro del plazo máximo de siete años.
+2. En la compensación de pérdidas, la cooperativa tendrá que sujetarse al orden siguiente:
+a) A los fondos de reserva voluntarios de libre disposición, si existiesen, podrá imputarse la totalidad de las pérdidas.
+b) Al Fondo de Reserva Obligatorio.
+c) La cuantía no compensada con los fondos de reserva de libre disposición y obligatorios se imputará a las personas socias en proporción a las operaciones, servicios o actividades realizadas por cada una de ellas con la cooperativa. Si estas operaciones o servicios realizados fueran inferiores a los que como mínimo está obligada a realizar la persona socia con arreglo a lo establecido en los estatutos sociales, la imputación de las referidas pérdidas se efectuará en proporción a la actividad cooperativizada mínima obligatoria, sin que puedan imputarse en caso alguno en función de las aportaciones al capital social.
+3. Las pérdidas imputadas a cada cooperativista se satisfarán de alguna de las formas siguientes:
+a) Directamente o mediante deducciones en sus aportaciones al capital social.
+b) Con cargo a los retornos que pudieran corresponderle dentro de los siete años siguientes como máximo. Si quedasen pérdidas sin compensar, transcurrido dicho plazo, habrán de ser satisfechas por la persona socia en el plazo máximo de un mes a contar a partir del requerimiento expreso formulado por el órgano de administración.
+Se modifica por el art. único.25 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 70
+
+Artículo 70. Derechos de los acreedores personales de los socios.
+Los acreedores personales de los socios no tendrán ningún derecho sobre los bienes de la cooperativa ni sobre las aportaciones de los socios al Capital social, siendo inembargables por aquellos, sin menoscabo de los derechos que puedan ejercer sobre los reembolsos y retornos satisfechos al socio.
+
+### Artículo 71
+
+Artículo 71. Ejercicio económico.
+1. El ejercicio económico coincidirá con el año natural, salvo disposición en contrario de los Estatutos.
+2. El Consejo Rector estará obligado a formular en el plazo máximo de tres meses, a contar a partir del cierre del ejercicio económico, las cuentas anuales, el informe de gestión y la propuesta de distribución de excedentes y destino de los beneficios extracooperativos o de la imputación de pérdidas para su aprobación por la Asamblea general.
+
+## CAPÍTULO VI
+
+Documentación social y contabilidad
+
+### Artículo 72
+
+Artículo 72. Documentación social.
+1. Las cooperativas llevarán en orden y al día los siguientes libros:
+a) Libro registro de las personas socias.
+b) Libro registro de aportaciones al capital social.
+c) Libro de actas de la asamblea general, del órgano de administración, de informes de censura de cuentas, si procede, y, en su caso, del comité de recursos, de las juntas preparatorias y de las de sección.
+d) Libro de inventarios y balances y libro diario, con arreglo al contenido dispuesto para los mismos en la normativa mercantil.
+e) Cualquier otro libro que viniese exigido por la presente y otras disposiciones legales.
+2. Todos los libros sociales y contables serán diligenciados y legalizados, con carácter previo a su utilización, por el registro de cooperativas competente.
+3. Los libros y demás documentos de la cooperativa estarán bajo la custodia, vigilancia y responsabilidad del consejo rector.
+4. No obstante lo anterior, será válida la realización de asientos y anotaciones por cualquier procedimiento idóneo, sobre hojas que después serán encuadernadas correlativamente para formar los libros obligatorios, que serán presentados al registro para su legalización antes de que transcurriesen los cuatro meses siguientes a la fecha de cierre del ejercicio.
+Se modifica por el art. único.26 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 73
+
+Artículo 73. Contabilidad.
+1. Las cooperativas habrán de llevar una contabilidad ordenada y adecuada a su actividad y con arreglo a lo establecido en el Código de comercio, la normativa contable y las singularidades de la naturaleza del régimen económico de la sociedad cooperativa.
+2. La composición de las cuentas anuales de la cooperativa será la establecida por la normativa contable de aplicación.
+3. El consejo rector presentará, firmados electrónicamente, para su depósito en el registro de cooperativas competente, dentro del plazo de dos meses, contados desde su aprobación por la asamblea general, las cuentas anuales y el informe de gestión, firmados por quien ejerza la presidencia y la secretaría, o administrador único, y, si procede, el informe del órgano de intervención o, en su caso, el informe de auditoría externa, las certificaciones acreditativas del acuerdo de aprobación de las cuentas anuales y de la distribución o imputación de los resultados, así como del número de cooperativistas.
+4. Con carácter complementario al depósito de los documentos indicados en el número anterior, podrá depositarse en el registro de cooperativas la memoria social, firmada electrónicamente, de acuerdo con los modelos aprobados por el Consejo Gallego de Cooperativas.
+Se modifican los apartados 3 y 4 por el art. 31 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+ Se añade el apartado 4 por la disposición final 1.4 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+ Se modifica por el art. único.27 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## CAPÍTULO VII
+
+De la modificación de Estatutos
+
+### Artículo 74
+
+Artículo 74. Modificación de estatutos.
+1. Los estatutos de la cooperativa podrán ser modificados por acuerdo de la asamblea general con arreglo a los siguientes requisitos:
+a) Que los proponentes de la modificación presenten un informe escrito sobre la conveniencia y justificación de la misma.
+b) Que se expresen en la convocatoria con la debida claridad los extremos que hayan de modificarse. En el anuncio de la convocatoria se hará constar expresamente el derecho de todas las personas socias a examinar en el domicilio social el texto íntegro de la modificación propuesta y el informe justificativo de la misma, y a pedir la entrega gratuita de dichos documentos.
+c) El acuerdo habrá de adoptarse por mayoría de dos tercios de los votos presentes y representados, salvo lo dispuesto en el artículo 36 de la presente Ley para el voto plural.
+2. El acuerdo sobre cambio de denominación, cambio de domicilio y modificación del objeto social o del capital social mínimo se anunciará en uno de los diarios de mayor circulación de la provincia del domicilio social de la cooperativa con carácter previo a su inscripción. La publicación de la inscripción de estos acuerdos en el "Diario Oficial de Galicia" será tramitada por el registro de cooperativas competente con carácter gratuito.
+3. Cuando la modificación consistiera en el cambio de clase de la cooperativa o en la modificación sustancial del objeto social o condiciones para adquirir la condición de persona socia, así como de sus obligaciones, las personas socias que hubiesen votado en contra o las que, no habiendo asistido a la asamblea, expresasen su disconformidad por escrito dirigido al consejo rector en el plazo de dos meses, a contar desde la inscripción del acuerdo en el registro de cooperativas, tendrán derecho a separarse de la cooperativa. En estos casos, su baja será considerada como justificada, debiendo formalizarse dentro del mes siguiente a la fecha de celebración de la asamblea o de la presentación del referido escrito.
+4. El acuerdo de la modificación, con el texto aprobado, se elevará a escritura pública, que se inscribirá en el registro de cooperativas en un plazo de tres meses, pudiendo instarse la previa calificación del acuerdo y del texto modificado.
+Cuando la modificación supusiera un incremento del capital social mínimo estatutario, habrá de acreditarse su total desembolso.
+5. El cambio de domicilio social dentro del mismo término municipal no exigirá acuerdo de la asamblea general, pudiendo acordarse por el consejo rector, salvo disposición estatutaria en contra. La inscripción registral podrá practicarse en virtud de certificación del acuerdo con las firmas del secretario o secretaria y presidente o presidenta del consejo rector legitimadas notarialmente o autenticadas por el registro de cooperativas. Dicho acuerdo habrá de comunicarse formalmente a las personas socias y publicarse con arreglo a lo dispuesto en el número 2 de este artículo.
+Se modifica el apartado 2 por la disposición final 1.5 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+ Se modifica por el art. único.28 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## CAPÍTULO VIII
+
+De la fusión y escisión
+
+### Artículo 75
+
+Artículo 75. Modalidades y efectos de la fusión.
+1. Las sociedades cooperativas podrán integrarse mediante la fusión de varias cooperativas para constituir una nueva o mediante la absorción de una o más cooperativas por otra ya existente.
+Las cooperativas en liquidación podrán participar en una fusión siempre que no haya comenzado el reembolso de las aportaciones al Capital social.
+2. Las sociedades cooperativas que se fusionen en una nueva o que sean absorbidas por otra ya existente quedarán disueltas, aunque no entrarán en liquidación, pasando sus patrimonios y socios a la sociedad nueva o absorbente, que se subrogará en los derechos y obligaciones de las sociedades disueltas. Los fondos sociales obligatorios de las sociedades disueltas pasarán a integrarse en los de la sociedad cooperativa nueva o absorbente.
+
+### Artículo 76
+
+Artículo 76. Proyecto de fusión.
+1. Los Consejos Rectores de las cooperativas que participen en la fusión redactarán un proyecto de fusión, que deberá suscribirse como convenio previo, y contendrá como mínimo las siguientes menciones:
+a) La denominación, clase y domicilio de las cooperativas que participen en la fusión con todos sus datos registrales identificativos.
+b) El sistema para fijar la cuantía que se reconoce a cada socio de las cooperativas que se extingan como aportación al capital de la cooperativa nueva o absorbente, computando, cuando existan, las reservas voluntarias de carácter repartible.
+c) Los derechos y obligaciones que se reconozcan a los socios de la cooperativa extinguida en la cooperativa nueva o absorbente.
+d) La fecha a partir de la cual las operaciones de las cooperativas que se extingan habrán de considerarse realizadas a todos los efectos por cuenta de la cooperativa nueva o absorbente.
+e) Los derechos que, en su caso, se reconozcan en la nueva cooperativa o en la absorbente a los poseedores de títulos de las sociedades que se extingan.
+2. El proyecto quedará sin efecto si la fusión no es aprobada por todas las cooperativas que participen en la misma en un plazo de seis meses desde la fecha del convenio previo.
+
+### Artículo 77
+
+Artículo 77. Documentación complementaria de la convocatoria de la Asamblea.
+Al publicar la convocatoria de la Asamblea deberán ponerse a disposición de los socios en el domicilio social los siguientes documentos:
+a) El proyecto de fusión.
+b) El informe del Consejo Rector de cada una de las sociedades cooperativas sobre la conveniencia y efectos de la proyectada fusión.
+c) El Balance, la Cuenta de Pérdidas y Ganancias y la Memoria explicativa de los tres últimos ejercicios de las sociedades que participan en la fusión, junto con los correspondientes informes de los interventores, y la auditoría de cuentas, en su caso.
+d) El Balance de fusión de cada una de las sociedades, cuando sea distinto del último Balance anual aprobado.
+e) El proyecto de Estatutos de la nueva sociedad o, si se trata de una absorción, el texto íntegro de las modificaciones que, en su caso, hayan de introducirse en los Estatutos de la sociedad absorbente.
+f) Los Estatutos vigentes de las sociedades que participan en la fusión.
+g) La relación de las personas físicas con nombre y apellidos, o la denominación o razón social si fuesen personas jurídicas, y, en ambos casos, la nacionalidad y el domicilio de los Administradores de las sociedades que participan en la fusión y la fecha desde la que desempeñan sus cargos. Asimismo, deberán también relacionarse las personas que vayan a proponerse para ostentar cargos en los órganos sociales de la nueva sociedad o en la absorbente.
+
+### Artículo 78
+
+Artículo 78. Requisitos para el acuerdo de fusión.
+1. El acuerdo de fusión deberá ser adoptado en Asamblea general por cada una de las sociedades que se fusionen, cumpliendo los siguientes requisitos:
+a) La convocatoria de la Asamblea general deberá incluir las menciones mínimas del proyecto de fusión y hará constar el derecho de todos los socios a examinar en el domicilio social los documentos indicados en el artículo anterior, así como a pedir la entrega o el envío del texto íntegro de los mismos, gratuitamente.
+b) El acuerdo de fusión deberá aprobar sin modificaciones el proyecto de fusión.
+c) El acuerdo de fusión de cada una de las cooperativas, una vez adoptado, se publicará en el «Diario Oficial de Galicia» y en uno de los diarios de mayor circulación de la provincia en la que tengan su domicilio social cada una de las cooperativas.
+2. Desde el momento en que el proyecto de fusión haya sido aprobado por la Asamblea general de cada una de las cooperativas, todas ellas quedan obligadas a continuar el procedimiento de fusión.
+3. Las sociedades agrarias de transformación y las sociedades laborales podrán integrarse, mediante fusión, en una cooperativa, siempre que no exista precepto legal que expresamente lo prohíba, siendo de aplicación las respectivas normas reguladoras de las sociedades que se fusionan.
+
+### Artículo 79
+
+Artículo 79. Balance de fusión.
+1. Podrá considerarse Balance de fusión el último Balance anual aprobado, siempre que no sea anterior en más de seis meses a la fecha de realización de la Asamblea que haya de resolver sobre la fusión. En caso contrario, será preciso elaborar un Balance dentro del plazo antes mencionado, que deberá ser censurado por los interventores o auditado externamente y someterse a la aprobación de la Asamblea.
+2. La impugnación del Balance de fusión no podrá suspender por sí sola la ejecución de la misma.
+
+### Artículo 80
+
+Artículo 80. Derecho de separación del socio.
+1. Los socios de todas las cooperativas participantes en la fusión que hayan votado en contra de la misma y los que no habiendo asistido a la Asamblea expresen su disconformidad mediante escrito dirigido a los Administradores en el plazo de dos meses desde la publicación del último de los anuncios del acuerdo de fusión tendrán derecho a separarse de la cooperativa.
+2. En caso de ejercer este derecho, la baja del socio se entenderá justificada, debiendo formalizarse dentro del mes siguiente a la fecha de realización de la Asamblea o de la presentación del referido escrito. La devolución de su aportación, para el caso de los socios de las cooperativas que se extingan como consecuencia de la fusión, será obligación de la cooperativa nueva o absorbente.
+
+### Artículo 81
+
+Artículo 81. Derecho de oposición de los acreedores.
+La fusión no podrá formalizarse antes de que transcurra un mes desde la fecha de publicación del último de los anuncios previsto en el artículo 78.1.c) de la presente Ley. En el anuncio del acuerdo de fusión deberá mencionarse el derecho de oposición de los acreedores. Si durante este plazo algún acreedor ordinario de alguna de las sociedades que se extinguen se opusiese por escrito a la fusión, esta no podrá llevarse a efecto si sus créditos no son enteramente satisfechos o si previamente la sociedad deudora o la que vaya a resultar de la fusión no aporta garantía suficiente para los mismos. Los acreedores no podrán oponerse al pago aunque se trate de créditos no vencidos.
+
+### Artículo 82
+
+Artículo 82. Escritura de fusión.
+La formalización de los acuerdos de fusión se hará mediante escritura pública única, en la cual constará el acuerdo de fusión aprobado por las respectivas Asambleas generales de las sociedades que se fusionan, y contendrá el Balance de fusión de las sociedades que se extinguen.
+Si la fusión se realizase mediante la creación de una nueva sociedad, la escritura deberá contener, además, las menciones exigidas para su constitución en el artículo 16 de la presente Ley en cuanto resulte de aplicación. Si se realizase por absorción, contendrá las modificaciones estatutarias que se hubiesen acordado por la sociedad absorbente con motivo de la fusión.
+La escritura de fusión tendrá eficacia en el Registro de Cooperativas, para la cancelación de las sociedades que se extinguen y la inscripción de la nuevamente constituida o modificaciones de la absorbente.
+
+### Artículo 83
+
+Artículo 83. Escisión.
+1. Podrá escindirse la cooperativa mediante su disolución, sin liquidación, dividiéndose su patrimonio social y el colectivo de socios en dos o más partes, que se traspasarán en bloque a cooperativas de nueva creación o absorbidas por otra u otras ya existentes.
+A los efectos de proceder a la escisión, se exigirá el desembolso de las aportaciones suscritas y no desembolsadas por los socios de la cooperativa.
+2. La escisión también podrá consistir en la segregación de una o varias partes del patrimonio y de los socios de la cooperativa, sin producir su disolución, traspasándose en bloque lo segregado a otras cooperativas de nueva creación o ya existentes.
+3. Serán de aplicación a la escisión de cooperativas las normas establecidas en la presente Ley reguladoras de la fusión.
+
+## CAPÍTULO IX
+
+De la transformación de la cooperativa
+
+### Artículo 84
+
+Artículo 84. Transformación de cooperativas en otras sociedades.
+1. Las sociedades cooperativas podrán transformarse en sociedades civiles o mercantiles de cualquier clase, de conformidad con la normativa que les resulte de aplicación, sin que ello afecte a la personalidad jurídica de la sociedad transformada.
+2. La transformación se regirá por los siguientes requisitos:
+a) El acuerdo de transformación habrá de ser adoptado por la asamblea general, de conformidad y con los requisitos establecidos en la presente Ley para la modificación de estatutos.
+b) La asamblea general habrá de aprobar el balance de la sociedad previamente auditado externamente, cerrado el día anterior al del acuerdo de transformación, así como las menciones exigidas por la Ley de aplicación al tipo de sociedad en que pretendiera transformarse.
+c) El acuerdo habrá de publicarse en el ''Diario Oficial de Galicia'' y en uno de los diarios de mayor circulación de la provincia donde radique el domicilio social de la cooperativa.
+d) El acuerdo de transformación, con el balance y las menciones señaladas en la letra b) anterior, habrá de elevarse a escritura pública, que incorporará informe de persona experta independiente sobre el patrimonio social, que será designada de conformidad con lo previsto en la legislación mercantil o, en su defecto, por el Consejo Gallego de Cooperativas.
+La escritura pública de transformación también habrá de recoger, en su caso, la relación de las personas socias que hubiesen ejercido el derecho de separación y el capital que representen; en tal caso, se incorporará a la mencionada escritura el balance final cerrado el día anterior al del otorgamiento de la misma.
+e) Se solicitará del registro de cooperativas competente, previa acreditación del destino de las cantidades a que se refiere el número 4 de este artículo, certificación en la que consten la transcripción literal de los asientos que hayan de quedar vigentes y la declaración de inexistencia de obstáculos para la inscripción de la transformación, de conformidad con lo que se establezca reglamentariamente.
+Este registro efectuará anotación preventiva de la transformación. Inscrita la transformación en el registro que correspondiese, este lo comunicará de oficio al de cooperativas, que procederá a la cancelación de los asientos relativos a la sociedad.
+3. Las personas socias tendrán derecho a separarse en los mismos términos y plazos establecidos en el artículo 80 de la presente Ley para el caso de fusión, teniendo derecho al reembolso inmediato de sus aportaciones.
+4. El valor nominal del Fondo de Reserva Obligatorio, del Fondo de Formación y Promoción y de cualquier otro fondo o dotación que tuviera el carácter de irrepartible recibirá el destino establecido para el caso de disolución y liquidación de la cooperativa. El resto del patrimonio social se transferirá a la nueva sociedad, si bien, a los efectos señalados en el siguiente párrafo, quedará –descontado el importe correspondiente a las aportaciones de las personas socias y de los fondos repartibles– afectado durante un plazo de cinco años, a contar a partir de la fecha de constitución de la nueva sociedad, al fin previsto para los supuestos de disolución y liquidación.
+En el supuesto de que se produjese la disolución antes de haber transcurrido el plazo anteriormente señalado, el Consejo Gallego de Cooperativas ostenta, respecto a esa parte, la condición de acreedor preferente al efecto de los fines previstos en la presente Ley para la disolución y liquidación de cooperativas.
+5. El acuerdo de transformación en algún tipo de entidad de cuyas deudas respondan personalmente las personas socias tan solo surtirá efectos respecto a los que hayan votado a favor del acuerdo.
+Las personas socias que, como consecuencia de la transformación, pasasen a responder personalmente de las deudas sociales responderán de igual forma de las deudas anteriores de la sociedad cooperativa.
+Se modifica por el art. único.29 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 85
+
+Artículo 85. Transformación de sociedades en cooperativas.
+1. Cualquier sociedad o agrupación de carácter no cooperativo podrá transformarse en cooperativa de alguna de las clases reguladas en la presente Ley, siempre que no exista precepto legal que lo prohíba expresamente.
+2. La transformación será acordada por la junta general, o mediante el sistema válido equivalente para expresar la voluntad social, con la mayoría exigida por la legislación aplicable; no afectará a la personalidad jurídica de la entidad transformada y se hará constar en escritura pública, la cual expresará necesariamente el cumplimiento de todos los requisitos y menciones exigidos por la presente Ley para la constitución de una cooperativa.
+3. La escritura pública de transformación, a la cual se incorporará el informe de los expertos independientes sobre el patrimonio social, se presentará para su inscripción en el Registro de Cooperativas competente, acompañada del Balance cerrado el día anterior al del acuerdo de transformación.
+4. La transformación en cooperativa no altera el anterior régimen de responsabilidad de los socios de la entidad transformada por las deudas sociales contraídas con anterioridad a la transformación de la entidad, a no ser que los acreedores consintiesen expresamente la transformación.
+
+## CAPÍTULO X
+
+De la disolución y liquidación
+
+## Sección 1
+
+Sección 1.ª De la disolución
+
+### Artículo 86
+
+Artículo 86. Causas de disolución.
+La sociedad cooperativa se disolverá:
+a) Por acuerdo de la Asamblea general, adoptado por la mayoría de dos tercios de los votos presentes y representados.
+b) Por cumplimiento del término fijado en los Estatutos, salvo acuerdo expreso en contrario de la Asamblea general, adoptado con la mayoría establecida en la letra anterior, que se elevará a escritura pública y se inscribirá en el Registro de Cooperativas.
+c) Por finalización y cumplimiento de la actividad empresarial, social o económica que constituya su objeto social, o por la imposibilidad notoria y manifiesta de su cumplimiento; o por la paralización de sus órganos sociales durante un año, o de la actividad cooperativizada durante dos años, de tal modo que imposibilite su funcionamiento.
+d) Por la reducción del Capital social mínimo estatutario o del número de socios necesarios para constituir la cooperativa de la clase y grado de que se trate, sin que se restablezca en el plazo de seis meses.
+En caso de la reducción del Capital social mínimo estatutario, podrá evitarse la causa de disolución, procediéndose a la reducción del Capital social, por acuerdo de la Asamblea general adoptado por la mayoría de dos tercios de los votos presentes y representados, siempre y cuando el resultante no sea inferior al mínimo legal.
+e) Por quiebra de la sociedad, cuando como resultado de la interposición y resolución de dicho proceso concursal proceda su disolución.
+f) Por la fusión o escisión de la sociedad cooperativa.
+g) Por cualquier otra causa establecida en la presente Ley o en los Estatutos.
+
+### Artículo 87
+
+Artículo 87. Eficacia de las causas de disolución.
+1. El transcurso del plazo de duración de la sociedad operará de pleno derecho, salvo lo dispuesto en el apartado b) del artículo anterior; en este último supuesto la persona socia disconforme podrá causar baja en la cooperativa, que tendrá la consideración de justificada.
+2. Cuando concurriese cualquier otra causa de disolución, a excepción de las previstas en las letras a) y f) del artículo anterior, el órgano de administración habrá de, en el plazo de un mes, convocar asamblea general para que adopte el acuerdo de disolución. El órgano de intervención o cualquier cooperativista podrá requerir al órgano de administración para que proceda a la convocatoria.
+En estos supuestos el acuerdo de disolución será adoptado por la asamblea general por más de la mitad de los votos válidamente expresados.
+El acuerdo de disolución habrá de formalizarse en escritura pública.
+Si la asamblea general no pudiese alcanzar el acuerdo de disolución, el órgano de administración y el de intervención, si existiese, deberán, y cualquier cooperativista podrá, instar del juzgado competente del domicilio social de la cooperativa la disolución judicial de la cooperativa. A estos efectos está legitimado el Consejo Gallego de Cooperativas.
+3. El acuerdo de disolución o, en su caso, la resolución judicial se inscribirá en el registro de cooperativas competente, publicándose en el ''Diario Oficial de Galicia'' y en uno de los diarios de mayor circulación de la provincia del domicilio social de la cooperativa.
+4. Cumplimentadas las formalidades legales sobre disolución de la sociedad, se abrirá el periodo de liquidación, salvo en los supuestos de fusión y escisión. Desde la adopción del acuerdo de disolución, la sociedad disuelta conservará su personalidad jurídica en tanto no se realizase la liquidación, debiendo añadir a su denominación los términos ''en liquidación''.
+Se modifica por el art. único.30 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 88
+
+Artículo 88. Reactivación de la sociedad.
+La cooperativa disuelta podrá ser reactivada cuando se elimine la causa que motivó la disolución y no haya comenzado el reembolso de las aportaciones a los socios.
+La reactivación requiere acuerdo de la Asamblea general, adoptado por mayoría de dos tercios de los votos presentes y representados, que deberá ser publicado en el «Diario Oficial de Galicia» y en uno de los diarios de mayor circulación en la provincia del domicilio social de la cooperativa. Dicho acuerdo se elevará a escritura pública y se inscribirá en el Registro de Cooperativas, momento en el que adquirirá eficacia.
+En caso de quiebra, la reactivación solo podrá ser acordada si la cooperativa llega a un convenio con sus acreedores.
+
+## Sección 2
+
+Sección 2.ª De la liquidación
+
+### Artículo 89
+
+Artículo 89. Proceso de liquidación.
+1. Abierto el proceso de liquidación, y salvo disposición en contra de los estatutos sociales o por acuerdo en contrario de la asamblea general de la cooperativa, las funciones del órgano de liquidación serán asumidas por el órgano de administración. En caso contrario, se designará de entre las personas socias de la cooperativa al órgano de liquidación, en número impar, que será elegido mediante votación secreta por la asamblea general, teniendo en cuenta lo dispuesto en el artículo 43.4 de la presente Ley.
+Podrán percibir retribuciones por sus funciones, siempre que se acordase por la asamblea general, compensándoseles, en todo caso, los gastos que se les originasen.
+2. Salvo en el supuesto de que el órgano de administración asumiese dicha función, el nombramiento del órgano de liquidación no surtirá efectos hasta el momento de su aceptación, acreditada con arreglo a lo establecido para la administración, requiriendo además para su eficacia frente a terceros su inscripción en el registro de cooperativas.
+3. Para el supuesto de que el órgano de administración no asumiese dicha función, y transcurridos dos meses desde la disolución sin que se haya efectuado el nombramiento de órgano de liquidación, o no producida la aceptación del cargo, el órgano de administración y, en su caso, el órgano de intervención deberán, y cualquier persona socia podrá, solicitar del Consejo Gallego de Cooperativas el nombramiento de liquidadores o liquidadoras, que podrá recaer en personas no socias de la cooperativa. Transcurrido dicho plazo, el propio consejo podrá efectuar el nombramiento de oficio.
+4. La renuncia de los liquidadores o liquidadoras podrá aceptarse por la asamblea general aunque el asunto no constase en el orden del día; en tal caso, se procederá en el mismo acto a la designación de quien haya de sustituirlos o sustituirlas.
+En el supuesto de cese por cualquier otra causa habrán de convocar asamblea para proveer las vacantes en el plazo máximo de quince días.
+Los liquidadores o liquidadoras continuarán ostentando sus cargos hasta el momento en que se produjese su sustitución y los sustitutos o sustitutas aceptasen el cargo.
+5. Durante el periodo de liquidación se observarán las normas legales y estatutarias aplicables sobre régimen de las asambleas generales. Estas serán convocadas por los liquidadores o liquidadoras, que las presidirán y les darán cuenta de la marcha de la liquidación para que acuerden lo que conviniese al interés común.
+Se modifica por el art. único.31 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 90
+
+Artículo 90. Transmisión de funciones.
+Disuelta la cooperativa y salvo que fuese el propio órgano de administración de la cooperativa el que asumiera la función del órgano de liquidación, el primero continuará en sus funciones de representación y gestión, a los solos efectos de evitar posibles pérdidas, cesando en estas una vez que se haya producido el nombramiento y aceptación del órgano de liquidación y se hayan efectuado las oportunas inscripciones registrales. El órgano de liquidación suscribirá con los administradores o administradoras un inventario y balance de la cooperativa, con referencia al día en que se iniciase la liquidación y con carácter previo a desarrollar sus funciones.
+En todo caso, con independencia de quien asuma la liquidación, habrá que elaborar el inventario y balance de la cooperativa con referencia al día en que se iniciase la liquidación.
+Además, si el órgano de administración fuese requerido, habrá de proporcionar la información y colaborar con el personal liquidador para la práctica de las operaciones de liquidación.
+Se modifica por el art. único.32 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 91
+
+Artículo 91. Funciones del órgano de liquidación.
+1. El órgano de liquidación estará facultado para realizar cuantas operaciones fueran necesarias para la liquidación, para lo cual ostentará la representación de la cooperativa en juicio y fuera de él, obligando a la sociedad frente a terceras personas en los mismos términos que los establecidos para el órgano de administración de la cooperativa.
+Incumbe, además, al órgano de liquidación:
+a) Llevar y custodiar los libros y la correspondencia de la cooperativa y velar por la integridad de su patrimonio.
+b) Realizar las operaciones pendientes y las nuevas que fueran necesarias o convenientes para la liquidación de la cooperativa.
+c) Enajenar los bienes sociales con la modalidad que acordase la asamblea general.
+d) Reclamar y percibir los créditos pendientes, sean contra terceras personas o contra las personas socias, y pagar las deudas sociales.
+e) Concertar transacciones y compromisos cuando así conviniese a los intereses sociales.
+f) Pagar a los acreedores o acreedoras y a las personas socias y transferir el remanente de la cooperativa al Consejo Gallego de Cooperativas.
+2. Los acuerdos de los liquidadores o liquidadoras se recogerán en el libro de actas de los administradores o administradoras. Cuando estos fueran varios, actuarán de forma colegiada.
+3. Los liquidadores o liquidadoras finalizan sus funciones una vez realizada la liquidación, por revocación acordada en asamblea general o por decisión judicial. Los liquidadores o liquidadoras responderán en los mismos términos establecidos para el órgano de administración.
+Se modifica por el art. único.33 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 92
+
+Artículo 92. Intervención de la liquidación.
+1. El 20 por 100 de los votos sociales podrá solicitar del Juez de Primera Instancia del domicilio social de la cooperativa la designación de Interventores que fiscalicen las operaciones de la liquidación.
+2. Cuando lo justifique la importancia de la liquidación, el Consejo Gallego de Cooperativas podrá, de oficio o a instancia de parte interesada, designar a una o varias personas que se encarguen de intervenir la liquidación y de velar por el cumplimiento de las leyes y los Estatutos.
+No tendrán validez los actos de los liquidadores efectuados sin la aprobación de estos Interventores.
+
+### Artículo 93
+
+Artículo 93. Adjudicación del haber social.
+1. No podrá adjudicarse ni repartirse el haber social hasta que se hayan satisfecho íntegramente las deudas sociales o se haya procedido a su consignación, o se haya asegurado el pago de los créditos no vencidos, y en todo caso hasta que los acuerdos adquiriesen carácter de firmeza.
+2. Satisfechas dichas deudas, el remanente del haber social se adjudicará por el siguiente orden:
+a) El Fondo de Formación y Promoción Cooperativa se pondrá a disposición del Consejo Gallego de Cooperativas.
+b) Se reintegrará a las personas socias el importe de las aportaciones que hubieran efectuado al capital social, una vez abonados o deducidos los beneficios o pérdidas correspondientes a ejercicios anteriores, por el valor nominal de las mismas según conste en el balance cerrado de la cooperativa en el ejercicio en que se iniciase la liquidación, comenzando por las aportaciones de las personas socias colaboradoras y las aportaciones voluntarias y siguiendo con las obligatorias.
+c) Se reintegrará a las personas socias su participación en los fondos voluntarios de libre disposición que tuvieran carácter repartible por disposición estatutaria o por acuerdo de la asamblea general, en los términos establecidos por los mismos.
+d) El sobrante, si lo hubiese, tanto del Fondo de Reserva Obligatorio como del haber líquido de la cooperativa, se pondrá a disposición del Consejo Gallego de Cooperativas, salvo lo dispuesto para las cooperativas de segundo grado.
+3. El proceso de liquidación no podrá exceder de tres años, a contar a partir de la inscripción registral del acuerdo de disolución, que podrá ser prorrogado a solicitud del órgano de liquidación ante la consejería competente en materia de trabajo, que decidirá previa audiencia del Consejo Gallego de Cooperativas.
+Transcurrido dicho plazo y sin haberse instado la prórroga, el Consejo Gallego de Cooperativas intervendrá la liquidación adoptando las medidas necesarias al objeto de finalizarla y proceder a la adjudicación del haber social.
+4. En tanto no se reembolsasen las aportaciones contempladas en el artículo 58.1.b), los o las titulares que hayan causado baja y solicitado el reembolso participarán en la adjudicación del haber social una vez satisfecho el importe del Fondo de Educación y Promoción y antes del reintegro de las restantes aportaciones a las personas socias.
+Se modifica por el art. único.34 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 94
+
+Artículo 94. Balance final de la liquidación.
+1. Finalizadas las operaciones de extinción del pasivo social, el órgano de liquidación formará el balance final, que reflejará con exactitud y claridad el estado patrimonial de la sociedad y el proyecto de distribución del activo.
+2. El balance final y el proyecto de distribución del activo serán censurados, en su caso, por el órgano de intervención de la cooperativa o auditores o auditoras externos y, cuando proceda, por el órgano de intervención a que se refiere el artículo 92 de la presente Ley y auditores o auditoras, sometiéndose para su aprobación a la asamblea general. Los mencionados acuerdos se publicarán en el Diario Oficial de Galicia y en uno de los diarios de mayor circulación en la provincia del domicilio social de la cooperativa.
+3. Los acuerdos a que se refiere el número anterior podrán impugnarse durante el plazo de dos meses, desde la fecha de publicación del último de los anuncios, por la persona socia que se sintiese agraviada o por los acreedores o acreedoras que no tuviesen satisfechos o garantizados sus créditos, así como por el Consejo Gallego de Cooperativas, tramitándose la impugnación con arreglo a las reglas establecidas para la impugnación de acuerdos de la asamblea general.
+4. Si fuese imposible la celebración de la asamblea general, los liquidadores o liquidadoras publicarán el balance final y el proyecto de distribución del activo, una vez censurados, en el ''Diario Oficial de Galicia'' y en uno de los diarios de mayor circulación en la provincia del domicilio social de la cooperativa.
+Transcurridos dos meses desde dichas publicaciones sin que hubiesen sido impugnadas por las personas y por el procedimiento a que se refiere el número 3 de este artículo, se entenderán aprobados definitivamente.
+5. Concluido el término para la impugnación sin haberse formulado reclamaciones, o firmes las sentencias que las hayan resuelto, se procederá a la correspondiente distribución del activo de la sociedad.
+Las cantidades no reclamadas o transferidas en el plazo de los tres meses siguientes a la fecha en que se iniciase el pago se consignarán en depósito en el Banco de España o en la Caja General de Depósitos de la Comunidad Autónoma, a disposición de sus legítimos dueños.
+Se modifica por el art. único.35 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 95
+
+Artículo 95. Escritura pública de extinción de la sociedad y cancelación registral.
+Finalizada la liquidación y materializada esta, los liquidadores otorgarán escritura pública de extinción, la cual contendrá la aprobación del Balance final de liquidación y sus operaciones, y se inscribirá en el Registro de Cooperativas, solicitando de este la cancelación de todos los asientos relativos a la cooperativa, y depositando en dicha dependencia los libros y documentos relativos a la misma, que se conservarán durante un período de seis años.
+
+### Artículo 96
+
+Artículo 96. Situaciones concursales.
+A las sociedades cooperativas les resultará de aplicación la normativa mercantil sobre derecho concursal, debiendo inscribirse en el registro de cooperativas competente las resoluciones judiciales que constituyan, modifiquen o extingan las situaciones concursales que afecten a la cooperativa.
+Se modifica por el art. único.36 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## TÍTULO II
+
+Del Registro de Cooperativas de Galicia
+
+### Artículo 97
+
+Artículo 97. Características y competencia.
+1. El Registro de Cooperativas de Galicia es un registro jurídico dependiente de la Administración general de la Comunidad Autónoma de Galicia, adscrito a la consejería competente en materia de empleo.
+2. El Registro de Cooperativas de Galicia es público.
+3. Se presume que el contenido de los libros del registro es exacto y válido, y conocido de todos, no pudiendo alegarse su ignorancia.
+Se modifica por la disposición final 1.4 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 98
+
+Artículo 98. Funciones del Registro de Cooperativas de Galicia.
+1. El Registro de Cooperativas de Galicia asumirá las siguientes funciones:
+a) Calificar, inscribir y certificar los actos a que se refiere la presente ley.
+b) Habilitar y legalizar los libros obligatorios de las entidades cooperativas.
+c) Recibir el depósito de las cuentas anuales, así como la certificación acreditativa del número de personas socias al cierre del ejercicio económico.
+d) Nombrar auditores o auditoras y otros expertos o expertas independientes, a solicitud de las entidades cooperativas y por cuenta de las mismas.
+e) Cualquier otra atribuida por la presente ley o sus normas de desarrollo.
+Se modifica por la disposición final 1.5 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+### Artículo 99
+
+Artículo 99. Eficacia.
+1. La eficacia del Registro de Cooperativas viene definida por los principios de publicidad material y formal, legalidad, legitimación, prioridad y tracto sucesivo.
+2. La publicidad del Registro se hará efectiva mediante la manifestación de los libros y documentos del archivo a que hagan referencia los asientos registrales o de certificación sobre tales asientos, expedida por el encargado de dicho Registro, en los términos que reglamentariamente se determine.
+3. Los títulos y documentos sujetos a inscripción y no inscritos no producirán efectos frente a terceros de buena fe. No podrá invocarse la falta de inscripción por quien incurrió en su omisión.
+4. La inscripción produce todos los efectos prevenidos en la presente Ley, y no convalida los actos y contratos nulos de acuerdo con las leyes.
+5. Los asientos del Registro producirán sus efectos mientras no se inscriba la declaración de inexactitud o nulidad, que no podrá perjudicar los derechos de terceros de buena fe adquiridos conforme al contenido del Registro.
+
+### Artículo 100
+
+Artículo 100. El encargado del Registro.
+1. El Registro de Cooperativas estará bajo la responsabilidad del funcionario encargado del mismo.
+2. Los requisitos y circunstancias para su designación, así como sus competencias, se determinarán reglamentariamente.
+
+### Artículo 101
+
+Artículo 101. Inscripciones constitutivas.
+La inscripción de los actos de constitución, modificación de los Estatutos, fusión, escisión, disolución, reactivación y liquidación de las sociedades cooperativas, así como la transformación en sociedades de esta naturaleza, será constitutiva.
+Las restantes inscripciones tendrán el carácter de declarativas.
+
+### Artículo 102
+
+Artículo 102. Derecho supletorio y normas complementarias.
+Respecto a plazos, recursos, comparecencia y representación y demás materias no reguladas expresamente en la presente Ley o en sus normas de desarrollo, habrá que estar a lo dispuesto en la regulación del procedimiento administrativo común, así como en la normativa mercantil en cuanto resulte de aplicación acorde con la naturaleza jurídica de este tipo de sociedades.
+
+## TÍTULO III
+
+Disposiciones especiales
+
+## CAPÍTULO I
+
+De las clases de cooperativas
+
+## Sección 1
+
+Sección 1.ª Normas comunes
+
+### Artículo 103
+
+Artículo 103. Clasificación y normas aplicables.
+1. Las cooperativas de primer grado se constituirán acogiéndose a cualquiera de las clases de las reguladas en la presente Ley.
+2. A las cooperativas les será de aplicación la normativa específica considerada para la clase de cooperativa de que se trate y, en lo no previsto en la misma, por las normas de carácter general establecidas en la presente Ley.
+En todo caso, las cooperativas quedarán sujetas a la legislación específica aplicable en función de la actividad empresarial que desarrollen.
+3. La Xunta de Galicia, a propuesta de la Consellería competente en materia de trabajo y previo informe del Consejo Gallego de Cooperativas, podrá desarrollar reglamentariamente el régimen de las distintas clases de cooperativas previstas en la presente Ley, así como regular mediante normativa específica nuevas clases de cooperativas cuando sea preciso para el desarrollo cooperativo, respetando los principios y caracteres establecidos en la presente Ley.
+
+## Sección 2
+
+Sección 2.ª De las cooperativas de trabajo asociado
+
+### Artículo 104
+
+Artículo 104. Sujetos, objeto y ámbito.
+1. Las cooperativas de trabajo asociado están formadas por personas naturales con capacidad legal y física para desarrollar la actividad cooperativizada.
+La capacidad legal para ser socio o socia se regirá por la legislación civil y laboral. Las personas extranjeras podrán ser socias de acuerdo con lo dispuesto en la legislación específica sobre la prestación de su trabajo en España.
+La pérdida de la condición de persona socia da lugar al cese definitivo de la prestación de trabajo en la cooperativa.
+2. Las cooperativas de trabajo asociado tienen por objeto la prestación del trabajo de las personas socias, proporcionándoles empleo, para producir en común bienes y servicios para terceros.
+La relación entre la persona socia trabajadora y la cooperativa es societaria, si bien siempre en consonancia con la normativa estatal de aplicación.
+3. Los centros de trabajo en que se desarrolle habitualmente la actividad cooperativizada habrán de estar ubicados dentro del ámbito territorial de la cooperativa estatutariamente fijado, sin perjuicio de la existencia de personas socias minoritarias en otros centros de trabajo de carácter subordinado, auxiliar o instrumental ubicados fuera de dicho ámbito.
+Se modifica el apartado 1 por la disposición final 1.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. único.37 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 105
+
+Artículo 105. Régimen económico.
+1. Las personas socias tienen derecho a percibir periódicamente, en el plazo no superior a un mes, un anticipo societario en cuantía similar a las retribuciones de la zona y sector de actividad, según su categoría profesional. En ningún caso este anticipo podrá ser inferior al salario mínimo interprofesional en cómputo anual, teniendo en cuenta la jornada laboral realizada dentro de la legalidad vigente.
+2. El retorno cooperativo se percibirá en función del anticipo societario, salvo que los estatutos contemplasen otro criterio en razón a la actividad cooperativizada.
+Se modifica por el art. único.38 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 106
+
+Artículo 106. Seguridad Social.
+1. Los socios trabajadores están obligados a afiliarse a la Seguridad Social, optando en los Estatutos de la cooperativa por el régimen correspondiente.
+2. Disfrutarán de todos los beneficios de la Seguridad Social en los mismos términos, extensión y condiciones existentes para los demás trabajadores de acuerdo con la normativa general en esta materia, según el régimen elegido.
+
+### Artículo 107
+
+Artículo 107. Régimen de prestación de trabajo y sucesión de empresa.
+1. Los estatutos regularán o podrán remitir al reglamento de régimen interno la organización básica del trabajo, que hará referencia como mínimo a la estructura de la empresa, clasificación profesional, movilidad funcional y geográfica, licencias retribuidas y excedencias.
+A propuesta del consejo rector, la asamblea general aprobará anualmente el calendario sociolaboral, que contendrá como mínimo la duración de la jornada de trabajo, el descanso mínimo entre cada jornada y el descanso semanal, las fiestas y vacaciones anuales y las pausas, así como todo aquello que estimase necesario para la buena marcha de la empresa. Será de aplicación, como derecho de contenido mínimo necesario, la normativa laboral para el personal trabajador por cuenta ajena.
+El régimen de prestación de trabajo posibilitará entre las personas socias de la cooperativa la compatibilidad y conciliación de su ejercicio profesional pleno con las situaciones de maternidad y paternidad y los cuidados de menores y personas dependientes, y adoptará medidas que favorezcan a las socias de la cooperativa víctimas de violencia de género, en cumplimiento de las previsiones establecidas en la Ley Orgánica 1/2004, de 28 de diciembre.
+2. Estatutariamente podrá establecerse para las nuevas personas socias un periodo de prueba no superior a seis meses, salvo que la incorporación esté acogida a programas de promoción del autoempleo cooperativo, caso en el que podrá ser prorrogado por otros seis meses adicionales.
+Las personas socias en periodo de prueba tendrán los mismos derechos y obligaciones que las demás personas socias, con las siguientes excepciones:
+a) Pueden resolver la relación de forma unilateral. La misma facultad se reconoce al órgano de administración.
+b) No pueden realizar aportaciones al capital social ni satisfacer ningún tipo de cuotas.
+c) No responden de las pérdidas sociales.
+d) No perciben retorno cooperativo, si bien participarán en los resultados positivos, quedando equiparados al personal trabajador asalariado.
+e) No pueden ser electoras ni elegibles para ocupar cargos en los órganos sociales.
+3. Cuando se produjesen causas económicas, técnicas, organizativas, de producción o de fuerza mayor que así lo hagan necesario, podrá suspenderse temporalmente la prestación de trabajo, con pérdida de los derechos y obligaciones económicas de dicha prestación, conservando los demás.
+La asamblea general habrá de declarar la causa, necesidad y tiempo de suspensión, designando nominalmente a las personas socias afectadas. Al cesar la causa, la persona socia recobrará plenamente todos sus derechos y obligaciones.
+Cuando la causa o causas obligasen a reducir con carácter definitivo el número de puestos de trabajo, se seguirá el mismo procedimiento indicado en el párrafo anterior, calificándose la baja como justificada, con derecho al reembolso inmediato a la persona socia de su aportación al capital social y con derecho preferente al reingreso en el plazo de los tres años siguientes a la baja.
+En el supuesto de que las personas socias que causasen baja obligatoria fueran titulares de las aportaciones contempladas en el artículo 58.1.b) y la cooperativa no acordase el reembolso inmediato de las mismas, las personas socias que permanezcan en la cooperativa habrán de adquirir estas aportaciones en el plazo máximo de seis meses a partir de la fecha de la baja, en los términos que acordase la asamblea general.
+4. En los supuestos contemplados en el número anterior, o en caso de excedencias, que supusieran dejar la cooperativa durante más de seis meses con un número de personas socias inferior al mínimo para su constitución, la suspensión o excedencia no podrá ser superior a dicho periodo.
+Las personas socias en excedencia pasarán a la situación prevista en el artículo 28 de la presente Ley, estando obligadas a realizar nuevas aportaciones al capital social si así lo contemplasen los estatutos.
+En caso de excedencia forzosa, tienen derecho a la reserva de su puesto de trabajo, produciéndose su incorporación en un plazo no superior a un mes desde el cese de la causa que la motivó.
+5. Será de aplicación a las cooperativas y sus personas socias trabajadoras la normativa de seguridad y salud laboral.
+6. En todo lo no previsto en este artículo será de aplicación la normativa laboral de personal trabajador por cuenta ajena.
+7. En caso de pérdida definitiva de las condiciones para ser persona socia en la cooperativa por parte de una persona socia, se estará a lo dispuesto en el artículo 20.4 de la presente Ley en cuanto a su baja obligatoria automática y al cese de los cargos que pudiera ostentar en la sociedad.
+8. Cuando una cooperativa se subrogase en los derechos y obligaciones laborales del anterior titular, el personal trabajador afectado por la subrogación podrá incorporarse como persona socia trabajadora en las condiciones establecidas en la presente Ley.
+En el supuesto de que superase el límite legal sobre el número de horas/año, establecido en el artículo 110.1 de la presente Ley, el exceso no surtirá efecto alguno.
+9. Cuando una cooperativa de trabajo asociado cesase, por causas no imputables a ella, en una contrata de servicios o concesión administrativa y un nuevo empresario o empresaria se hiciese cargo de la misma, las personas socias trabajadoras tendrán los mismos derechos y deberes que les corresponderían, de acuerdo con la normativa vigente, como si hubieran prestado su trabajo en la cooperativa en la condición de trabajadores por cuenta ajena, con arreglo a la normativa estatal de aplicación.
+Se modifica el apartado 2 por la disposición final 1.6 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+ Se modifica por el art. único.39 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 108
+
+Artículo 108. Régimen disciplinario.
+1. Las faltas y sanciones derivadas de la actividad de la prestación de trabajo deberán estar tipificadas estatutariamente, al menos las que tengan carácter de muy graves y graves. Las leves podrán ser consideradas en el reglamento de régimen interno o acordadas por la Asamblea general.
+2. La competencia sancionadora, que es indelegable, corresponde al Consejo Rector de la cooperativa.
+3. El socio trabajador solo podrá ser sancionado mediante la incoación del oportuno expediente sancionador, respetándose en todo caso su previa audiencia en todas las instancias resolutorias.
+4. La impugnación del acuerdo del Consejo Rector ante el Comité de Recursos o, en su defecto, ante la Asamblea general se formulará en el plazo de quince días desde su notificación.
+El órgano competente resolverá por votación secreta en el plazo máximo de dos meses. El acuerdo de expulsión del socio solo podrá ser impugnado ante la Asamblea general.
+5. El acuerdo de expulsión solo será ejecutivo desde que sea ratificado por el correspondiente órgano o haya transcurrido el plazo para recurrir ante el mismo. No obstante, la cooperativa podrá suspender al socio en su empleo, conservando este todos sus derechos económicos.
+6. Desde que el acuerdo sea ejecutivo podrá instarse su revisión ante la jurisdicción del orden social, que también resolverá sobre la trascendencia económica derivada del período de tramitación.
+7. Si no recayese resolución expresa en los plazos establecidos, los recursos interpuestos se entenderán estimados.
+8. Las faltas leves prescribirán al mes, las graves a los dos meses y las muy graves a los tres meses, desde que el Consejo Rector ha tenido conocimiento de las mismas. En todo caso las faltas prescribirán a los doce meses desde la fecha en que se han cometido.
+
+### Artículo 109
+
+Artículo 109. Cuestiones contenciosas.
+1. Las cuestiones contenciosas que se planteen entre la cooperativa y sus socios derivadas de la actividad cooperativizada se resolverán conforme a la presente Ley y a los Estatutos, y subsidiariamente por las disposiciones de la legislación laboral, sometiéndose a la jurisdicción del orden social. Quedan excluidas de esta jurisdicción aquellas cuestiones que no vengan afectadas por la aportación del trabajo del socio o sus efectos, ni comprometidos sus derechos en cuanto aportante de trabajo.
+2. Quedan excluidas de la competencia del Consejo Gallego de Cooperativas las cuestiones sometidas a este procedimiento, sin perjuicio de lo establecido en el artículo 135.2.f) de la presente Ley.
+
+### Artículo 110
+
+Artículo 110. Personal trabajador asalariado.
+1. La cooperativa podrá contratar a personal trabajador por cuenta ajena. El número de horas/año realizadas por este personal no podrá ser superior al 30% del total de las horas/año realizadas por las personas socias trabajadoras.
+No se computarán en este porcentaje:
+a) El personal trabajador integrado en la cooperativa por subrogación legal, así como aquel que se incorporase en actividades sometidas a esta subrogación.
+b) El personal trabajador que sustituyese a personas socias trabajadoras o asalariados o asalariadas en situación de excedencia o incapacidad temporal, baja por maternidad, adopción o acogimiento.
+c) El personal trabajador con contratos de trabajo en prácticas y para la formación.
+d) El personal trabajador contratado en virtud de cualquier disposición de fomento del empleo de personas con discapacidad o en situación de exclusión social.
+e) El personal trabajador que se negase explícitamente a ser persona socia trabajadora.
+f) El personal trabajador a tiempo parcial que no superase un 20% de la jornada media habitual en el sector de que se trate, o su equivalente en horas/año.
+g) El personal asalariado contratado para sustituir a cooperativistas que desarrollen tareas de carácter representativo.
+2. Podrá superarse el límite establecido anteriormente por un periodo máximo de tres meses, durante un año, cuando por causas objetivas de viabilidad o buena marcha de la cooperativa resultase necesario. Transcurrido dicho plazo y de persistir las causas que motivaron el incremento, habrá de solicitarse autorización justificada por un periodo máximo de un año a la autoridad competente en materia de cooperativas, que deberá resolver en el plazo máximo de quince días. Transcurrido este plazo sin que dicha autoridad haya resuelto sobre la solicitud, esta se considerará estimada.
+3. Los estatutos podrán fijar el procedimiento por el que el personal trabajador asalariado puede acceder a la condición de persona socia. El personal trabajador con más de dos años en la cooperativa habrá de ser admitido como persona socia trabajadora, sin periodo de prueba, si reúne los demás requisitos y así lo solicita.
+4. El personal asalariado participará en los resultados de la cooperativa, cuando estos fuesen positivos, en la proporción que habrán de fijar los estatutos, que en ningún caso será inferior al 25% del retorno cooperativo reconocido a las personas socias de igual o equivalente categoría profesional.
+Se modifica el apartado 1.d) por el art. 29.2 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849.
+ Se modifica por el art. único.40 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+ Se modifica el apartado 1 por el art. 17 de la Ley 14/2004, de 29 de diciembre. Ref. BOE-A-2005-1722.
+
+## Sección 3
+
+Sección 3.ª De las cooperativas agrarias
+
+### Artículo 111
+
+Artículo 111. Sujetos, objeto y ámbito.
+1. Son cooperativas agrarias las que integran a titulares de explotaciones agrícolas, ganaderas o forestales, que tendrán por objeto la realización de todo tipo de operaciones encaminadas al mejor aprovechamiento de las explotaciones de sus personas socias, sus elementos o componentes y la cooperativa y a la mejora de la población agraria y del desarrollo del medio rural, así como a atender cualquier otro fin o servicio que sea propio de la actividad agrícola, ganadera o forestal o esté relacionado directamente con las mismas.
+Las explotaciones agrarias de sus personas socias habrán de estar dentro del ámbito territorial de la cooperativa, establecido estatutariamente.
+2. Podrá ser persona socia de una cooperativa agraria la compañía familiar gallega, constituida formalmente y debidamente documentada, que se configura como unidad económica única, y a todos los efectos considerados en la presente Ley con la consideración de persona socia única, constituida por las personas y con arreglo a lo establecido en la Ley de derecho civil de Galicia, que regirá, como derecho supletorio de la presente Ley, en cuanto resulte de aplicación a la naturaleza de la sociedad cooperativa y de sus personas socias.
+Con independencia de lo señalado en el párrafo anterior, los estatutos podrán establecer, con carácter general, la forma en que los miembros de la comunidad familiar vinculados a la explotación agraria de la persona socia, o quienes con ella convivan, puedan beneficiarse de las actividades y servicios que la cooperativa desarrolle o preste.
+3. Si los estatutos lo contemplasen, en caso de que el o la titular de la explotación dejara de serlo, podrá sustituirlo o sustituirla en su condición de persona socia de la cooperativa, subrogándose en todos los derechos y obligaciones contraídos por ella con la cooperativa o inherentes a su participación en calidad de persona socia en la misma, sin necesidad de transmisión, la que lo o la sustituya en dicha condición por cualquier título admitido en derecho. En todo caso, debe cumplir el resto de los requisitos para adquirir la condición de persona socia y ser admitida por el órgano de administración.
+4. La cooperativa agraria podrá, con carácter accesorio y subordinado, procurar bienes y servicios para el consumo de sus personas socias y de las personas que con ellas convivan hasta un 50% de la actividad principal que la misma realice con sus personas socias, produciendo los bienes y servicios que proporcionen o adquiriéndolos de terceras personas.
+El suministro de estos bienes y servicios tendrá la consideración de operaciones societarias internas, resultando la misma cooperativa, así como sus personas socias, como consumidoras directas.
+En el supuesto de superar dicho límite, estará obligada a crear la correspondiente sección de consumo.
+Podrán realizar operaciones con terceras personas hasta el límite y con los requisitos previstos en el número 7 de este artículo.
+5. Las cooperativas agrarias podrán celebrar con otras de la misma clase los acuerdos intercooperativos que correspondiesen, para el cumplimiento de sus objetos sociales. En virtud de estos acuerdos, la cooperativa y sus personas socias podrán realizar operaciones de suministro o entrega de productos o servicios en la otra cooperativa; tales hechos tendrán la misma consideración que las operaciones cooperativizadas desarrolladas con las propias personas socias y no como terceras personas.
+6. Las operaciones que realicen las cooperativas agrarias y las de segundo grado que las agrupen con productos o materias, incluso suministrados por terceras personas, se considerarán, a todos los efectos, actividades cooperativas internas con el carácter de operaciones de transformación primaria, siempre que se destinasen únicamente a las explotaciones de sus personas socias.
+7. Las cooperativas agrarias podrán realizar operaciones cooperativizadas con terceras personas no socias hasta un límite máximo del 50% de la facturación global del total de las realizadas por las personas socias, pudiendo solicitar por las causas y procedimiento y ante el órgano establecido en el artículo 8 de la presente Ley un incremento de dicho porcentaje.
+La cooperativa habrá de reflejar esta circunstancia en su contabilidad de forma separada e independiente y de manera clara e inequívoca.
+8. Aquellas personas socias que no desarrollasen la actividad cooperativizada establecida en los estatutos sociales durante un periodo de doce meses pasarán a la condición de personas socias excedentes de las reguladas en el artículo 28 de la presente Ley. Bastará para ello, previa audiencia de quienes tengan interés, una comunicación fehaciente del órgano de administración a la persona socia inactiva, poniéndola en conocimiento de esta circunstancia. Contra este acuerdo, la persona socia podrá recurrir en los términos previstos en la presente Ley para los acuerdos del órgano de administración, si bien la interposición del recurso no tendrá efectos suspensivos sobre el acuerdo recurrido, que será ejecutivo desde su comunicación.
+El cómputo de los doce meses se realizará desde la fecha en que existiese constancia fehaciente de su inactividad, pasando a la condición de excedente, con los derechos y limitaciones inherentes a dicha figura, al recibo de la comunicación por parte del órgano de administración, una vez vencido el plazo mencionado.
+La persona socia excedente contemplada en este artículo podrá recuperar la condición de persona socia activa si, previa autorización por parte del órgano de administración, cumpliese con la actividad cooperativizada establecida en los estatutos sociales de la entidad, durante un periodo no inferior a seis meses consecutivos. Comprobada esta circunstancia por parte del órgano de administración, previa solicitud de la persona socia, habrá de comunicarle su condición de persona socia activa en un plazo no superior a quince días, a contar desde la mencionada solicitud. Transcurrido dicho plazo sin comunicación expresa, se entenderá recuperada a todos los efectos dicha condición.
+9. En cualquier caso, la persona socia que perdiese los requisitos para serlo sin haber hecho uso de la posibilidad establecida en el artículo 28 de la presente Ley, y requerida de forma fehaciente por el órgano de administración poniéndola en conocimiento de su situación, sin que en el plazo de un mes desde que hubiera sido requerida se haya pronunciado al respecto, pasará de forma automática a la condición de cooperativista excedente, todo ello salvando su derecho a causar baja en cualquier momento.
+Se modifica por el art. único.41 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## Sección 4
+
+Sección 4.ª De las cooperativas de explotación comunitaria de la tierra
+
+### Artículo 112
+
+Artículo 112. Sujetos, objeto, ámbito y régimen de las personas socias.
+1. Son cooperativas de explotación comunitaria de la tierra las que asocian a titulares de derechos de usos y aprovechamiento de bienes susceptibles de explotación agraria, que ceden dichos derechos a la cooperativa y que prestan o no su trabajo en ella, así como a quienes, sin ceder ningún derecho de disfrute, van a prestar su trabajo en la misma, al objeto de gestionar una única empresa o explotación agraria, en la que también podrán integrarse los bienes que, por cualquier título, posea la cooperativa.
+2. Los estatutos habrán de establecer y distinguir los módulos de participación de las personas socias que hayan aportado el derecho de uso y aprovechamiento de tierras u otros bienes, y de las personas socias que aportasen también o exclusivamente su trabajo, los cuales tendrán la consideración de personas socias trabajadoras.
+Igualmente, habrán de establecer el plazo mínimo de permanencia en la cooperativa de las personas socias en su condición de cedentes del uso y aprovechamiento de bienes, que no podrá ser superior a diez años, pudiendo prorrogarse por iguales periodos.
+Los o las titulares de arrendamientos y demás derechos de disfrute podrán ceder el uso y aprovechamiento de los bienes por el plazo máximo de duración de su contrato o título jurídico, sin que ello sea causa de desahucio o resolución de aquel.
+En caso de baja de una persona socia cedente de derechos de uso y aprovechamiento de tierras, o de transmisión por parte de la misma de todas o parte de las tierras aportadas, los estatutos habrán de establecer la posibilidad de permuta de las tierras cedidas por otras de igual valor o bien una opción de compra preferente en favor de la cooperativa y, en su defecto, de cualquiera de sus personas socias.
+3. Podrán desarrollar cualquier actividad dirigida al cumplimiento de su objeto social tanto las dedicadas directamente a la obtención de productos agrarios como las preparatorias de estas y las que tengan por objeto constituir o perfeccionar la explotación en todos sus elementos, así como las de recogida, almacenamiento, tipificación, transporte, distribución y venta, al por mayor o directamente al consumidor o consumidora, de los productos de su explotación y, en general, cuantas sean propias de la actividad agraria o sean antecedentes, complemento o consecuencia directa de las mismas.
+4. La actividad cooperativa de comercialización de productos procedentes de terceras personas no socias se regirá por lo previsto en la presente Ley para las cooperativas agrarias.
+5. El número de horas/año realizadas por el personal trabajador asalariado no podrá superar los límites establecidos en el artículo 110.1 de la presente Ley para las cooperativas de trabajo asociado.
+6. En lo no previsto en esta sección, serán de aplicación a las personas socias trabajadoras de esta clase las normas establecidas en la presente Ley para el mismo tipo de personas socias de las cooperativas de trabajo asociado.
+Las personas socias trabajadoras de esta clase de cooperativas a los efectos de Seguridad Social serán, en todo caso, asimiladas a personal trabajador por cuenta ajena, con arreglo a la normativa estatal de aplicación.
+7. En las cooperativas de explotación comunitaria cada persona socia tendrá un voto.
+8. El ámbito de la cooperativa será fijado estatutariamente.
+9. En caso de pérdida definitiva de los requisitos para ser persona socia en la cooperativa, se estará al amparo del artículo 20.4 de la presente Ley en cuanto a su baja obligatoria automática y al cese de los cargos que pudiera ostentar en la sociedad.
+Se modifica por el art. único.42 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+ Se modifica el apartado 5 por el art. 18 de la Ley 14/2004, de 29 de diciembre. Ref. BOE-A-2005-1722.
+
+### Artículo 113
+
+Artículo 113. Del régimen económico.
+1. Los Estatutos fijarán la aportación obligatoria mínima al capital social para ser socio.
+2. Las rentas por la cesión del uso de los bienes y los anticipos por el trabajo serán análogos al nivel de rentas y de retribuciones salariales usuales en la zona.
+3. Los retornos se acreditarán a los socios, según la actividad desarrollada por cada uno de ellos con la cooperativa, en proporción a los anticipos laborales y/o a las rentas que haya de abonar aquella por la cesión del uso de los bienes.
+4. La imputación de las pérdidas a los socios se realizará con arreglo a los criterios señalados para los retornos en el número anterior, si bien los Estatutos o la Asamblea general determinarán lo necesario para garantizar a los socios trabajadores una compensación mínima igual al 70 por 100 de las retribuciones satisfechas en la zona por igual trabajo, y nunca inferior al salario mínimo interprofesional.
+5. Los Estatutos señalarán el procedimiento para valorar los bienes susceptibles de explotación en común, pudiendo regular el régimen de obras, mejoras y servidumbres que puedan afectar a los bienes cedidos para su goce y sean consecuencia del plan de explotación comunitaria de los mismos. También podrá regularse que los socios que hubiesen cedido a la cooperativa el uso y aprovechamiento de bienes queden obligados a no transmitir a terceros derechos sobre dichos bienes que impidan el uso y aprovechamiento de estos por parte de la cooperativa, durante el plazo de permanencia obligatoria del socio en la misma.
+
+## Sección 5
+
+Sección 5.ª De las cooperativas de consumidores y usuarios
+
+### Artículo 114
+
+Artículo 114. Sujetos y objeto.
+1. Son cooperativas de consumidores o consumidoras y usuarios o usuarias aquellas que tienen por objeto procurar bienes y servicios para el consumo de sus personas socias y de las personas que convivan con las mismas, produciendo los bienes y servicios que proporcionen o adquiriéndolos de terceras personas, así como la defensa y promoción de los derechos de los consumidores o consumidoras y usuarios o usuarias. Podrán ser personas socias de estas cooperativas las personas físicas y jurídicas y las entidades u organizaciones de consumidores o consumidoras que tuvieran el carácter de destinatarios finales.
+2. El suministro de bienes y servicios de la cooperativa a sus personas socias tendrá la consideración de operaciones societarias internas, resultando la misma cooperativa, así como sus personas socias, a todos los efectos, como consumidoras directas.
+3. Podrán realizar actividades cooperativizadas con terceras personas no socias, dentro del ámbito territorial de la cooperativa, hasta el límite previsto en los estatutos sociales. Si los estatutos sociales no se pronunciasen al respecto, el límite se establece en un 50% de sus operaciones con las personas socias.
+Se modifica por el art. único.43 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## Sección 6
+
+Sección 6.ª De las cooperativas de servicios
+
+### Artículo 115
+
+Artículo 115. Sujetos, objeto y ámbito.
+1. Son cooperativas de servicios las que integran a personas físicas y/o jurídicas titulares de actividades industriales o de servicios, así como a profesionales y artistas que ejerzan su actividad por cuenta propia.
+2. Tienen por objeto la prestación de suministros y servicios y la realización de operaciones encaminadas a la mejora económica y técnica de las actividades profesionales o explotaciones de sus personas socias.
+Para el cumplimiento de su objeto social, podrán desarrollar cualquier actividad económica o social.
+3. En cada ejercicio económico, la cooperativa podrá desarrollar actividades con terceras personas hasta un 50% del volumen total de la actividad cooperativizada realizada con sus personas socias.
+4. Las explotaciones de las personas socias habrán de estar ubicadas dentro del ámbito territorial de la cooperativa. En caso de profesionales o artistas, habrán de desarrollar su actividad habitual dentro del referido ámbito.
+Se modifica por el art. único.44 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## Sección 7
+
+Sección 7.ª De las cooperativas de transportistas
+
+### Artículo 116
+
+Artículo 116. Sujetos, objeto y ámbito.
+1. Son cooperativas de transportistas las que asocian a titulares de empresas del transporte o profesionales que puedan ejercer en cualquier ámbito la actividad del transporte y tengan por objeto organizar y/o prestar servicios de transporte o bien la realización de actividades que hagan posible este objeto.
+Resultará de aplicación a estas cooperativas lo previsto en la presente Ley para las cooperativas de servicios.
+2. Se considerarán como cooperativas de transportistas de trabajo asociado cuando estén formadas por personas naturales con capacidad legal y física para prestar a la cooperativa su trabajo personal, realizando la actividad del transporte y/o complementarias.
+Les será de aplicación lo establecido en la presente Ley para las cooperativas de trabajo asociado.
+
+## Sección 8
+
+Sección 8.ª De las cooperativas del mar
+
+### Artículo 117
+
+Artículo 117. Sujetos, objeto y ámbito.
+1. Son cooperativas del mar aquellas que asocian a titulares de explotaciones dedicadas a actividades pesqueras, de industrias marítimo-pesqueras, marisqueo, acuicultura y derivadas, en sus diferentes modalidades de mar, rías, ríos, lagos y lagunas, y a profesionales de dichas actividades y tienen por objeto la prestación de suministros y servicios y la realización de operaciones encaminadas a la mejora económica y técnica de las actividades profesionales o de las explotaciones de sus socios.
+2. Para el cumplimiento de su objeto social podrán desarrollar cualquier actividad económica o social.
+3. Las cooperativas del mar podrán realizar actividades con terceros en los mismos términos establecidos en la presente Ley para las cooperativas agrarias.
+4. El ámbito de la cooperativa será fijado estatutariamente.
+
+## Sección 9
+
+Sección 9.ª De las cooperativas de explotación de los recursos acuícolas
+
+### Artículo 118
+
+Artículo 118. Sujetos, objeto y ámbito.
+1. Son cooperativas de explotación de los recursos acuícolas las que asocian a titulares de derechos de uso y aprovechamiento de bienes y a aquellos que poseen títulos administrativos habilitantes, todos ellos relacionados con el ejercicio de actividades de explotación de los recursos acuícolas, y que de acuerdo con el régimen jurídico de esos títulos aporten total o parcialmente dichos derechos a la cooperativa, así como aquellos que, sin aportar título o derecho de disfrute alguno, vayan a prestar su trabajo personal en la misma, al objeto de gestionar una empresa en la que podrán integrarse los bienes y derechos que, por cualquier título, posea la cooperativa.
+En estas cooperativas podrán ser socios las cofradías de pescadores y las administraciones o entes públicos, pudiendo estatutariamente reservarse un puesto para estos socios en el órgano de administración.
+La aportación a la cooperativa de los títulos administrativos habilitantes para la explotación de recursos marinos deberá contar con la previa autorización de la Consellería competente en materia de pesca, marisqueo y acuicultura. Los socios trabajadores de estas cooperativas deberán, asimismo, estar en posesión del título administrativo necesario para el desarrollo de su actividad, siempre y cuando resulte obligatorio en virtud de la normativa de aplicación.
+La aportación a la cooperativa de los títulos que habilitan para la explotación de los recursos acuícolas no tendrá en caso alguno la consideración de transmisión ni arrendamiento, ni implicará el cambio de titularidad de los mismos.
+2. Los Estatutos deberán establecer y distinguir los módulos de participación de los socios que aportasen el derecho de uso y aprovechamiento y de los socios que aporten su trabajo, que tendrán la consideración de socios trabajadores.
+Asimismo establecerán el plazo mínimo de permanencia en la cooperativa de los socios en su condición de cedentes del uso y aprovechamiento de bienes y derechos, que no será superior a diez años, pudiendo prorrogarse por iguales períodos.
+Los titulares de bienes y derechos podrán ceder el uso y disfrute por el plazo máximo de duración de su contrato o título jurídico, sin que ello pueda ser causa de resolución o revocación del mismo.
+En caso de baja de un socio cedente de bienes y derechos, o de transmisión por parte del mismo de todos o parte de esos bienes y derechos, los Estatutos deberán establecer, previa autorización de la Consellería competente, el derecho de tanteo en favor de la cooperativa o, en su defecto, a favor de cualquiera de sus socios.
+3. Podrán desarrollar cualquier actividad dirigida a la explotación de los recursos acuícolas, tanto las dedicadas directamente a la obtención de sus productos y derivados en sus distintas modalidades de mar, rías, lagos, lagunas y ríos como las preparatorias de las mismas y las que tengan por objeto constituir o perfeccionar la explotación en todos sus elementos, así como las de extracción, almacenamiento, tipificación, transporte, distribución y venta, al por mayor o directamente al consumidor, y, en general, cuantas sean propias de la actividad o sean antecedentes, complemento o consecuencia directa de las mismas, con las limitaciones establecidas en su legislación específica.
+4. La actividad cooperativa de comercialización de productos procedentes de terceros no socios se regirá por lo previsto en la presente Ley para las cooperativas agrarias.
+5. El número de horas/año realizadas por trabajadores asalariados no podrá superar los límites establecidos en el artículo 110.1 de la presente ley para las cooperativas de trabajo asociado.
+6. En lo no previsto en esta sección, serán de aplicación a los socios trabajadores de esta clase de cooperativas las normas establecidas en la presente Ley para el mismo tipo de socios de las cooperativas de trabajo asociado.
+Los socios trabajadores de esta clase de cooperativas a efectos de Seguridad Social se encuadrarán en el correspondiente régimen como asimilados a trabajadores por cuenta ajena o autónomos, según corresponda en función de su actividad y regulación específica en materia de Seguridad Social.
+7. En las cooperativas de explotación de recursos acuícolas cada socio tendrá un voto.
+8. El ámbito de la cooperativa, que se fijará estatutariamente, determinará el espacio geográfico en que los socios trabajadores pueden desarrollar su actividad cooperativizada de prestación de trabajo, y dentro del cual estarán localizados los bienes y derechos integrantes de la explotación.
+Se modifica el apartado 5 por el art. 19 de la Ley 14/2004, de 29 de diciembre. Ref. BOE-A-2005-1722.
+
+### Artículo 119
+
+Artículo 119. Del régimen económico.
+1. Los Estatutos fijarán la aportación obligatoria mínima al capital social para ser socio.
+2. En su calidad de aportantes de derechos los socios recibirán una compensación económica periódica que deberá fijar la Asamblea general de la cooperativa con carácter previo a la admisión como socio.
+Por la prestación personal de su trabajo, los socios percibirán anticipos laborales análogos a las retribuciones salariales usuales en la zona y actividad.
+3. Los retornos se acreditarán a los socios, según la actividad desarrollada por cada uno de ellos con la cooperativa, en proporción a los anticipos laborales y/o a las compensaciones que haya de abonar aquella por la cesión del uso de bienes y derechos.
+4. La imputación de pérdidas a los socios se realizará con arreglo a los criterios señalados para los retornos en el número anterior, si bien los Estatutos o la Asamblea general determinarán lo necesario para garantizar a los socios trabajadores una compensación mínima igual al 70 por 100 de las retribuciones satisfechas en la zona por igual trabajo, y nunca inferior al salario mínimo interprofesional.
+5. Los Estatutos señalarán el procedimiento para valorar los bienes y derechos susceptibles de explotación, pudiendo regular su régimen de obras y mejoras como consecuencia del plan de explotación de los mismos. También podrá regularse que los socios que hayan aportado a la cooperativa el uso y aprovechamiento de bienes y derechos queden obligados a no transmitir a terceros derechos sobre los mismos que impidan el uso y aprovechamiento de estos por parte de la cooperativa, durante el plazo de permanencia obligatoria del socio en la misma.
+Para la adopción de acuerdos relativos a lo establecido en este número, será necesario el voto favorable de socios que representen, al menos, el 50 por 100 de la totalidad de los derechos explotados en régimen cooperativo.
+
+## Sección 10
+
+Sección 10.ª De las cooperativas de viviendas
+
+### Artículo 120
+
+Artículo 120. Sujetos, objeto y ámbito.
+1. Las cooperativas de viviendas están constituidas principal y mayoritariamente por personas físicas que precisan alojamiento y/o locales para sí y las personas que convivan con ellas. También pueden ser personas socias los entes públicos, los entes sin ánimo de lucro mercantil y las cooperativas que precisen alojamiento para aquellas personas dependientes de los mismos que tengan que residir, por razón de su trabajo o función, en los alrededores de una promoción cooperativa o que precisen locales para el desarrollo de sus actividades.
+La aprobación del proyecto de ejecución y financiación de las viviendas es competencia exclusiva de la asamblea general, así como las modificaciones o variaciones del mismo, por causas no previstas inicialmente.
+2. Tienen por objeto procurar viviendas preferentemente habituales y/o locales para sus personas socias.
+También podrán tener por objeto procurar edificaciones e instalaciones complementarias, y rehabilitación de viviendas, locales, elementos, zonas o edificaciones e instalaciones complementarias.
+Para el cumplimiento de su objeto social, pueden desarrollar cuantas actividades sean necesarias.
+La propiedad o el uso y disfrute de las viviendas y locales podrán ser adjudicados o cedidos a las personas socias mediante cualquier título admitido en derecho.
+Cuando la cooperativa retuviera la propiedad de las viviendas o locales, tendrá que determinarse estatutariamente, debiendo establecerse además las normas para su uso y disfrute por las personas socias.
+Una vez cubiertas las necesidades de la cooperativa y adjudicadas las viviendas a las personas socias, si quedase alguna sin adjudicar, podrá serlo a terceras personas no socias siempre que cumpliesen las condiciones objetivas para el tipo de promoción de que se trate, y que las viviendas a adjudicar no supongan más de un cuarto del conjunto de viviendas de la promoción.
+Podrán enajenar a terceras personas los locales comerciales y las instalaciones y edificaciones complementarias, aplicándose el importe de los mismos conforme acordase la asamblea general.
+Sin perjuicio de lo señalado en los párrafos anteriores, cuando se trate de cooperativas de viviendas protegidas se estará a lo dispuesto en la normativa reguladora de aplicación a este tipo de viviendas.
+3. La cooperativa se constituirá por tiempo determinado fijado estatutariamente, debiendo disolverse por cumplimiento de su objeto social finalizada la ejecución de la promoción y entrega de viviendas y locales y, en todo caso, a los seis años desde la fecha de otorgamiento de la licencia municipal de primera ocupación, salvo que la cooperativa retuviera la propiedad o que la normativa específica de aplicación estableciese un plazo superior.
+4. Las cooperativas de viviendas administrarán y gestionarán de forma directa la promoción de viviendas y locales, no pudiendo ceder tal gestión a terceras personas mediante ningún título, salvo acuerdo de la asamblea general adoptado por los dos tercios de los votos presentes y representados, sin perjuicio de la posibilidad de requerir a personas expertas externas para cuestiones puntuales.
+5. Las cooperativas de viviendas tendrán derecho a la adquisición preferente de terrenos de gestión pública para el cumplimiento de sus fines específicos, sin perjuicio de cumplir lo establecido en la normativa sectorial de aplicación.
+Se modifica por el art. único.45 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+ Se modifican los apartados 1, 2 y 3 por la disposición adicional 7.1 a 4 de la 18/2008, de 29 de diciembre. Ref. BOE-A-2009-4448.
+
+### Artículo 121
+
+Artículo 121. Régimen del socio.
+1. El socio tiene la obligación de habitar la vivienda y no puede ser titular de más de una, en cada cooperativa, salvo en los casos de familia numerosa.
+2. En caso de baja del socio, la cooperativa podrá retener el total de las cantidades entregadas por el mismo para financiar el pago de viviendas y locales hasta que sea sustituido en sus derechos y obligaciones por otro socio. Los Estatutos fijarán el plazo máximo de duración del derecho de retención, que no podrá ser superior a un año.
+Cuando la baja del socio fuese considerada como no justificada, si lo prevén los Estatutos, podrán aplicarse a las cantidades entregadas por el mismo para financiar el pago de las viviendas y locales las deducciones a que se refiere el artículo 64 de la presente Ley, hasta un máximo del 40 por 100 de los porcentajes que en el mismo se establecen, destinándose en su totalidad al Fondo de Reserva Obligatorio.
+Las cantidades a que se refiere el párrafo anterior, así como las aportaciones al Capital social, deberán reembolsarse al socio en el momento en que sea sustituido en sus derechos y obligaciones por otro socio.
+3. El socio que pretendiese transmitir inter vivos sus derechos sobre la vivienda o local, antes de haber transcurrido cinco años u otro plazo superior fijado por los estatutos, desde la fecha de concesión de la licencia municipal de primera ocupación de la vivienda o local, deberá ponerla a disposición de la cooperativa, que se los ofrecerá a los socios expectantes, por orden de antigüedad.
+El precio del tanteo será igual a la cantidad desembolsada por el socio que transmite sus derechos sobre la vivienda o local, incrementada con la revalorización que haya experimentado, conforme al Índice de Precios al Consumo, durante el período comprendido entre las fechas de los distintos desembolsos parciales y la fecha de transmisión de los derechos sobre la vivienda o local.
+Transcurridos tres meses desde que el socio puso en conocimiento del Consejo Rector el propósito de transmitir sus derechos sobre la vivienda o local sin que ningún socio expectante haga uso del derecho de preferencia para la adquisición de los mismos, el socio queda autorizado para transmitirlo a terceros no socios.
+No obstante, transcurrido un año desde que se comunicó la intención de transmitir sin que se hubiera llevado a cabo la transmisión, deberá repetirse el ofrecimiento a que se refiere el párrafo primero.
+Cuando el socio incumpla lo anterior, transmitiendo a terceros sus derechos sobre la vivienda o local, la cooperativa, si quisiese adquirirlos algún socio expectante, ejercerá el derecho de retracto, debiendo reembolsar al comprador el precio de tanteo señalado en este artículo incrementado con los gastos que se le hubiesen ocasionado, que serán a cargo del socio incumplidor.
+El derecho de retracto podrá ejercitarse durante un año desde la inscripción de la transmisión en el Registro de la Propiedad o, en su defecto, durante tres meses, desde que la cooperativa haya tenido conocimiento de dicha transmisión.
+Las limitaciones establecidas en los números anteriores de este artículo no serán de aplicación cuando el socio transmita sus derechos sobre la vivienda o local a las personas que convivan con él, sin perjuicio de lo dispuesto por la normativa aplicable a los supuestos de obtención de ayudas oficiales.
+4. A los efectos previstos en el número anterior, las cooperativas de viviendas llevarán, en orden y al día, el libro de socios expectantes con las mismas formalidades y requisitos que los previstos para el libro-registro de socios.
+5. Ninguna persona podrá ser miembro, simultáneamente, del consejo rector en más de una cooperativa de viviendas.
+Los miembros del consejo rector no podrán percibir en caso alguno remuneraciones o compensaciones por el desempeño del cargo, sin perjuicio de su derecho a ser resarcidos por los gastos que les origine.
+Se modifican los apartados 3 y 5 por la disposición adicional 7.5 a 7 de la 18/2008, de 29 de diciembre. Ref. BOE-A-2009-4448.
+
+### Artículo 122
+
+Artículo 122. Percepción de cantidades anticipadas en la construcción.
+Cuando la cooperativa obtenga de los socios cantidades en dinero anticipadas para la construcción de las viviendas y locales, deberá recibirlas a través de una entidad de crédito, en la que deberán depositarse en cuenta especial con la separación de otra clase de fondos, y de las que solamente podrá disponerse para las atenciones derivadas de la construcción de las viviendas y locales. Dichas cantidades se garantizarán mediante contrato de seguro comprometiéndose su devolución, con sus correspondientes intereses legales, en caso de que la construcción no se inicie o no llegue a buen fin en el plazo convenido.
+
+### Artículo 123
+
+Artículo 123. Auditoría externa.
+Las cooperativas de viviendas, antes de presentar sus cuentas anuales a la asamblea general ordinaria para su estudio y aprobación, habrán de someterlas a una auditoría externa de cuentas, salvo cuando la actividad económica realizada en el ejercicio no superase el importe del capital social más el importe de los fondos obligatorios reflejados en el balance del ejercicio correspondiente.
+Esta obligación legal subsistirá en tanto no se produjese la adjudicación, cesión o venta de las viviendas o locales.
+Se modifica por el art. único.46 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## Sección 11
+
+Sección 11.ª De las cooperativas de enseñanza
+
+### Artículo 124
+
+Artículo 124. Cooperativas de enseñanza.
+1. Son cooperativas de enseñanza las que tengan por objeto desarrollar actividades docentes en sus distintos niveles y modalidades, pudiendo realizar con carácter complementario actividades conexas o que faciliten su objeto principal.
+2. Se considerarán como cooperativas de enseñanza de trabajo asociado las integradas por profesores y demás profesionales de la enseñanza así como por el personal de administración y servicios, resultándoles de aplicación las normas establecidas en la presente Ley para las cooperativas de trabajo asociado.
+3. Cuando la cooperativa integre a los padres de los alumnos, los alumnos o sus representantes legales se considerarán como cooperativas de enseñanza de consumidores y usuarios, resultándoles de aplicación las normas establecidas en la presente Ley para las cooperativas de consumidores y usuarios.
+
+## Sección 12
+
+Sección 12.ª De las cooperativas de integración social
+
+### Artículo 125
+
+Artículo 125. Sujetos y objeto.
+1. Las cooperativas de integración social estarán constituidas por personas naturales y, mayoritariamente, por disminuidos físicos, psíquicos, sensoriales o cualquier otro colectivo con dificultades de integración social, así como por sus tutores o personal de atención. Tienen como finalidad promover la integración social.
+2. El objeto de estas cooperativas será proveer a sus socios de bienes y servicios de consumo general o específicos para su subsistencia y desarrollo, así como organizar, canalizar, promover y comercializar los productos y servicios del trabajo de los socios, o aquellos otros de tipo terapéutico, residencial, deportivo o asistencial que puedan resultar necesarios o convenientes para su desarrollo, asistencia e integración social.
+La prestación del trabajo personal se regirá por las normas establecidas en la presente Ley para las cooperativas de trabajo asociado.
+3. En estas cooperativas podrán participar como socios las administraciones y entidades públicas responsables de prestación de servicios sociales, así como los agentes sociales colaboradores de prestaciones de servicios sociales, mediante la designación de un representante y la correspondiente aportación, prestando su apoyo técnico, profesional y social y participando en los órganos sociales, colaborando en la buena marcha de la entidad.
+Los socios disminuidos podrán estar representados en los órganos sociales por quienes posean su representación legal.
+
+## Sección 13
+
+Sección 13.ª De las cooperativas de servicios sociales
+
+### Artículo 126
+
+Artículo 126. Cooperativas de servicios sociales.
+1. Son cooperativas de servicios sociales las que tienen por objeto la prestación de todo tipo de actividades y servicios sociales, públicos o privados.
+2. En estas cooperativas podrán participar como socios las administraciones o entidades públicas, así como los agentes sociales colaboradores de la prestación de servicios sociales.
+En el supuesto de participación de entidades públicas, éstas podrán reservarse el control público en cuanto a la calidad y condiciones de la prestación de los servicios.
+3. Quedan excluidos los servicios sociales que requieran el ejercicio de autoridad pública.
+4. Resultará de aplicación a estas cooperativas lo previsto en la presente Ley para las cooperativas de trabajo asociado, completando su clasificación como tales.
+
+## Sección 14
+
+Sección 14.ª De las cooperativas de crédito
+
+### Artículo 127
+
+Artículo 127. Cooperativas de crédito.
+1. Son cooperativas de crédito aquellas que tienen por objeto servir a las necesidades financieras activas y pasivas de sus socios y de terceros, mediante el ejercicio de las actividades y los servicios propios de las entidades de crédito.
+2. Las cooperativas de crédito se regirán por su normativa específica, así como por la legislación sobre las entidades de crédito en general, resultándoles asimismo de aplicación con carácter supletorio la presente Ley y las normas que la desarrollen.
+3. Las cooperativas de crédito podrán utilizar la denominación «caja rural», cuando su objeto estatutario y operativo preferente sea la prestación de servicios financieros dirigidos hacia el medio rural.
+4. Sólo podrán utilizar la denominación «cooperativas de crédito», «caja rural» u otras análogas aquellas cooperativas de las reguladas en este artículo con los condicionantes y requisitos establecidos en el mismo o en las normas que les resulten de aplicación.
+5. La Consellería competente en materia de economía y hacienda de la Xunta de Galicia ejercerá las funciones que le correspondan sobre cooperativas de crédito, de conformidad con la legislación vigente.
+
+## Sección 15
+
+Sección 15.ª De las cooperativas de seguros
+
+### Artículo 128
+
+Artículo 128. Cooperativas de seguros.
+Son cooperativas de seguros las que, con arreglo a la normativa ordenadora del seguro privado, ejercen la actividad aseguradora en cualquiera de sus ramas.
+Podrán organizarse y funcionar como entidades a prima fija o a prima variable.
+
+## Sección 16
+
+Sección 16.ª De las cooperativas sanitarias
+
+### Artículo 129
+
+Artículo 129. Cooperativas sanitarias.
+1. Son cooperativas sanitarias las que tengan por objeto desarrollar actividades sanitarias en sus distintas modalidades de seguros a prima fija, de trabajo asociado o de consumidores y usuarios, pudiendo realizar con carácter complementario actividades conexas o que faciliten su objeto principal.
+2. Se considerarán como cooperativas sanitarias de seguros aquellas cuya actividad empresarial consista en cubrir, a prima fija, riesgos relativos a la salud de los asegurados y de los beneficiarios de estos, resultándoles de aplicación la normativa establecida para las cooperativas de seguros.
+3. Se considerarán como cooperativas sanitarias de trabajo asociado las formadas por profesionales de la salud y personal no sanitario, siéndoles de aplicación las normas establecidas para las cooperativas de trabajo asociado.
+4. Se considerarán como cooperativas sanitarias de consumidores y usuarios las integradas por personas físicas y jurídicas a fin de prestar asistencia sanitaria a sus socios, familiares y, en su caso, trabajadores, a través de establecimientos sanitarios, resultándoles de aplicación, además de la legislación sanitaria, la normativa establecida para las cooperativas de consumidores y usuarios.
+
+## CAPÍTULO II
+
+De las cooperativas de segundo grado
+
+### Artículo 130
+
+Artículo 130. Sujetos, objeto y ámbito.
+1. Son cooperativas de segundo grado las que integran a cooperativas de la misma o distinta clase y a otras personas jurídicas públicas o privadas, siempre que no superen el 25% del total de personas socias, y que tienen por objeto promover, coordinar y desarrollar fines económicos comunes de sus entidades miembros, así como reforzar o integrar la actividad económica de las mismas.
+Ninguna persona socia de estas cooperativas podrá poseer más del 50% del capital social de la cooperativa de segundo grado.
+También podrán integrarse en calidad de personas socias en las cooperativas de segundo grado las personas socias de trabajo.
+2. Cuando la cooperativa se constituyese con fines de integración empresarial, los estatutos determinarán las áreas de actividad empresarial coordinadas, las bases para el ejercicio de la dirección conjunta del grupo y sus características.
+A estos efectos, los estatutos de las cooperativas sociales podrán contemplar que se deleguen en el consejo rector de la cooperativa de segundo grado las siguientes competencias:
+– La elaboración y presentación del plan empresarial básico común a todo el grupo.
+– La representación legal de la sociedad cooperativa en los términos establecidos en la escritura de apoderamiento, que únicamente podrá afectar al giro y tráfico ordinario de la empresa.
+– La presentación del informe de gestión social relativo a las áreas de actividad empresarial integradas, como mínimo una vez al año.
+La cooperativa de segundo grado velará por la integración de la actividad empresarial de sus personas socias, formulando las directrices de actuación conjunta del grupo, en las que habrá de enmarcarse el plan empresarial de todas las cooperativas socias.
+3. En la asamblea general, cada persona jurídica será representada por la persona que ostentara su representación legal.
+Puede también ser representada por otra persona socia de la misma, si fuese designada a tal efecto para cada asamblea, por acuerdo de su órgano de administración.
+4. Los miembros del consejo rector, los interventores o interventoras, los miembros, en su caso, del comité de recursos y los liquidadores o liquidadoras serán elegidos o elegidas por la asamblea general de entre sus personas socias, si bien, si los estatutos lo estableciesen, podrán ser miembros del consejo rector y del órgano de intervención personas no socias con las limitaciones, requisitos y condiciones establecidos en la presente Ley para las cooperativas de primer grado.
+5. Las personas físicas que representen a las personas jurídicas en el consejo rector, órgano de intervención, comité de recursos y como liquidadores o liquidadoras no podrán representarlas en las asambleas generales de la cooperativa de segundo grado, debiendo asistir a las mismas con voz pero sin voto.
+6. En las cooperativas de segundo grado, si lo contemplasen y regulasen los estatutos, el voto de las personas socias podrá ser proporcional al volumen de actividad cooperativizada desarrollada por cada una de ellas con la cooperativa y/o al número de personas socias que integran la persona jurídica asociada.
+En todo caso, el número de votos por persona socia no podrá ser superior al tercio de los votos totales, salvo que la sociedad estuviese integrada solo por tres sociedades cooperativas; en este caso el límite se elevará al 40%, y si la integrasen únicamente dos, los acuerdos habrán de adoptarse por unanimidad.
+Los estatutos habrán de fijar el límite máximo del total de los votos sociales que podrán tener las personas jurídicas de naturaleza no cooperativa en la asamblea general, que no podrá ser superior en ningún caso al 25% de los votos presentes y representados en la asamblea general.
+En ningún caso existirá voto dirimente o de calidad.
+7. En caso de disolución y liquidación de una cooperativa de segundo grado, los fondos obligatorios se transferirán al fondo de la misma naturaleza de cada una de las sociedades que la constituyen, distribuyéndose el resto del haber líquido resultante entre las personas socias, todo ello en proporción al importe del retorno percibido en los últimos cinco años o, en su defecto, desde su constitución. En caso de que no se hubiesen percibido retornos, se distribuirá en proporción al volumen de actividad cooperativizada desarrollada por cada persona socia con la cooperativa o, en su defecto, al número de personas socias de cada entidad agrupada en la cooperativa.
+Los retornos que percibiesen las cooperativas socias de las de segundo grado, así como los intereses devengados por sus aportaciones al capital social, no tendrán el carácter de beneficios extracooperativos.
+8. Las cooperativas de segundo grado podrán transformarse en cooperativas de primer grado, quedando absorbidas las cooperativas socias mediante el procedimiento establecido en la presente Ley para la transformación y fusión por absorción.
+Las cooperativas socias, así como las personas socias de las mismas, disconformes con los acuerdos de transformación y absorción podrán separarse mediante escrito dirigido al consejo rector de las cooperativas de segundo grado o primer grado, según proceda, en el plazo de un mes, a contar a partir de la fecha de publicación del anuncio de transformación y absorción.
+9. En lo no previsto en esta sección, las cooperativas de segundo grado se regirán por la regulación de carácter general establecida en la presente Ley en todo aquello que resultase de aplicación.
+10. Las cooperativas de segundo grado que estén conformadas exclusivamente por cooperativas de la misma clase podrán calificarse como cooperativa de segundo grado de la clase que corresponda a aquellas, con todos los efectos inherentes a ello, y, entre otros, que las operaciones de servicios y entregas con sus socios se valorarán al precio real de la liquidación.
+Se modifica por el art. único.47 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## CAPÍTULO III
+
+Otras formas de colaboración económica
+
+### Artículo 131
+
+Artículo 131. Formas de colaboración económica.
+1. Las sociedades cooperativas de primer y segundo grado podrán constituir y participar, junto con otras personas físicas o jurídicas, privadas o públicas, en sociedades, asociaciones, agrupaciones empresariales y consorcios y contraer cualquier otro vínculo societario, para facilitar o garantizar las actividades que desarrollen para la consecución de su objeto social o para fines concretos y determinados.
+2. Los excedentes, beneficios o intereses obtenidos por las cooperativas por las participaciones o inversiones realizadas en los supuestos a que se refiere el apartado anterior se destinarán como mínimo en un 50 por 100 al Fondo de Reserva Obligatorio y en un 25 por 100 a dotación de capital social, debidamente acreditado a cada socio en función de su participación en las actividades cooperativas.
+
+## TÍTULO IV
+
+De las asociaciones y representación cooperativa
+
+## CAPÍTULO I
+
+Del asociacionismo y fomento cooperativo
+
+### Artículo 132
+
+Artículo 132. Principios generales.
+1. Para la defensa y promoción de sus intereses en cuanto a sociedades cooperativas, estas podrán asociarse libre y voluntariamente en uniones, federaciones y confederaciones de cooperativas.
+2. Las cooperativas, sus uniones, federaciones y confederaciones, así como el Consejo Gallego de Cooperativas, integran el movimiento cooperativo de la Comunidad Autónoma de Galicia.
+3. Los poderes públicos de la Comunidad Autónoma de Galicia adoptarán las medidas necesarias para fomentar el asociacionismo de las entidades cooperativas y las relaciones de intercooperación, con la colaboración y asistencia del Consejo Gallego de Cooperativas.
+
+### Artículo 133
+
+Artículo 133. Uniones, federaciones y confederaciones.
+1. Las uniones de cooperativas estarán constituidas, como mínimo, por cinco sociedades cooperativas gallegas, pudiendo formar parte de las mismas las sociedades agrarias de transformación.
+2. Dos o más uniones podrán constituir federaciones de cooperativas.
+3. Sólo podrán incluir en su denominación una referencia a un determinado ámbito geográfico aquellas uniones o federaciones que acrediten asociar, directamente o a través de las entidades asociadas a las mismas, al menos el 25 por 100 de las cooperativas registradas en la zona geográfica correspondiente.
+4. Dos o más federaciones de cooperativas podrán constituir confederaciones.
+Sólo cuando una confederación agrupe al menos el 60 por 100 de las uniones y federaciones de cooperativas de Galicia, y cuando entre todas ellas agrupen, a su vez, más del 30 por 100 de las cooperativas registradas en la Comunidad Autónoma y con actividad económica acreditada, podrá denominarse confederación de cooperativas de Galicia.
+5. Ninguna cooperativa podrá pertenecer a más de una unión, ni esta a más de una federación, no pudiendo ninguna federación pertenecer a más de una confederación, en todos los casos de las regidas por la presente Ley.
+Se modifica el apartado 1 por la disposición final 1.7 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+
+### Artículo 134
+
+Artículo 134. Normas comunes: Uniones, federaciones y confederaciones de cooperativas.
+1. Corresponde a las uniones, federaciones y confederaciones de cooperativas:
+a) Representar a los miembros que asocien, de acuerdo con lo que establezcan sus Estatutos.
+b) Organizar, facilitar y financiar servicios de asesoramiento, de verificación de cuentas y de asistencia jurídica y técnica, así como aquellos otros servicios que sean convenientes o necesarios para sus miembros.
+c) Fomentar la promoción y la formación cooperativa.
+d) Realizar mediaciones y conciliaciones.
+e) Ejercer cualquier actividad de naturaleza análoga.
+2. Las uniones, federaciones y confederaciones constituidas al amparo de la presente ley, para adquirir la personalidad jurídica y plena capacidad de obrar, habrán de depositar por medio de sus personas promotoras en el Registro de Cooperativas de Galicia escritura pública que deberá contener:
+a) La relación de las entidades promotoras, con sus datos identificativos.
+b) La certificación del acuerdo de asociación de, al menos, el órgano de administración de cada una de ellas.
+c) La composición de los órganos de representación y gobierno de la entidad.
+d) El certificado de la Sección Central del Registro de Cooperativas de la Administración general del Estado de que no existe otra entidad con idéntica denominación.
+e) Los estatutos, que contendrán como mínimo:
+1.º La denominación, que habrá de incluir, según proceda, los términos «unión de cooperativas», «federación de cooperativas» o «confederación de cooperativas», o sus abreviaturas «u. de coop.», «f. de coop.» o «c. de coop».
+2.º El domicilio y ámbito territorial y funcional de actuación de la entidad.
+3.º Los órganos sociales, que serán como mínimo la asamblea general y los de representación, gobierno y administración, con la regulación de su funcionamiento y del régimen de provisión electiva de sus cargos.
+4.º Los requisitos y procedimientos para la adquisición y pérdida de la condición de persona asociada, así como el régimen de modificación de estatutos y de fusión y disolución de la entidad.
+5.º El régimen económico de la entidad, con el establecimiento del carácter, origen y destino de los recursos.
+6.º La regulación del derecho de voto, con el establecimiento de limitaciones al voto plural.
+El Registro de Cooperativas de Galicia dispondrá, en el plazo de treinta días, la publicidad del depósito o el requerimiento a sus personas promotoras, por una sola vez, para que en el plazo de otros treinta días subsanen los defectos observados. Transcurrido este plazo, el Registro dispondrá la publicidad o rechazará el depósito mediante resolución exclusivamente fundada en la carencia de alguno de los requisitos mínimos a que se refiere el presente capítulo.
+La publicidad del depósito se realizará en el “Diario Oficial de Galicia”.
+La entidad adquirirá personalidad jurídica y plena capacidad de obrar transcurridos treinta días hábiles desde que solicitó el depósito sin que el Registro de Cooperativas de Galicia hubiera formulado reparos o rechazado el depósito.
+La modificación de los estatutos de las asociaciones cooperativas ya constituidas se ajustará al mismo procedimiento regulado en este número.
+3. Las uniones, federaciones y confederaciones de cooperativas habrán de comunicar al Registro de Cooperativas de Galicia, en el plazo de un mes desde que se produzca el hecho, las altas y bajas de sus personas socias directas, acompañando, en los casos de alta, certificación del acuerdo de asociarse.
+4. La Asamblea general estará formada por las entidades directamente asociadas y, en su caso, por las uniones o federaciones que la integran.
+5. El órgano de administración presentará para la aprobación de la Asamblea general los estados financieros del ejercicio, el balance y la liquidación del presupuesto y el proyecto de presupuesto del ejercicio siguiente, además del informe de gestión.
+6. Serán de aplicación a las asociaciones cooperativas, en lo que proceda de acuerdo con su naturaleza, las disposiciones establecidas en la presente Ley para las sociedades cooperativas.
+Se modifican los apartados 2 y 3 por la disposición final 1.7 y 8 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+
+## CAPÍTULO II
+
+Del Consejo Gallego de Cooperativas
+
+### Artículo 135
+
+Artículo 135. Naturaleza y funciones.
+1. El Consejo Gallego de Cooperativas es el máximo órgano de promoción y difusión del cooperativismo en la Comunidad Autónoma, con funciones, además, de carácter consultivo y asesor de las administraciones públicas gallegas en aquellos temas que afecten al cooperativismo, velando en todo momento por el cumplimiento de los principios cooperativos, la adecuada aplicación de la presente Ley y el respeto de las reglas de una gestión correcta y democrática de las cooperativas de Galicia, ello sin perjuicio de las funciones inspectoras que corresponden a la administración.
+Este órgano gozará de plena capacidad de obrar para el ejercicio de las funciones previstas en la presente Ley y en sus normas de desarrollo, reconociéndosele la autonomía suficiente para la ejecución de las mismas y quedando adscrito a la Consellería competente en materia de trabajo.
+2. Corresponden al Consejo Gallego de Cooperativas las siguientes funciones:
+a) Facilitar y colaborar en la investigación, planificación y ejecución de los programas de desarrollo y fomento del cooperativismo, prestando un especial interés por los programas de la Unión Europea, así como promover la educación y formación cooperativa.
+b) Elaborar propuestas y dictámenes en relación con las cuestiones que afecten al cooperativismo.
+c) Realizar estudios e impulsar las acciones encaminadas a facilitar la intercooperación.
+d) Emitir informe, con carácter preceptivo, sobre los proyectos de disposiciones legales y reglamentarias y demás normas que afecten directamente a las cooperativas o a sus organizaciones, así como procurar su difusión.
+e) Contribuir al perfeccionamiento del régimen legal e institucional del ordenamiento socioeconómico de la Comunidad Autónoma de Galicia.
+f) Conciliar y ejercer el arbitraje en las cuestiones litigiosas que se planteen entre cooperativas, entre estas y sus socios, o en el seno de las mismas entre sus socios, cuando ambas partes lo soliciten o bien estén obligadas a ello en razón a lo establecido en sus Estatutos.
+g) Promover la educación y formación cooperativa en los distintos niveles del sistema educativo general.
+h) Ejercer todas las acciones que resulten necesarias para percibir los fondos irrepartibles, así como el remanente del haber líquido social de las cooperativas.
+i) Percibir, planificar y gestionar mediante un programa específico los fondos de formación y promoción en los supuestos previstos en la presente Ley.
+j) Todas aquellas funciones que le vengan determinadas por la presente Ley o por sus normas de desarrollo.
+3. Para el cumplimiento de sus fines, el Consejo Gallego de Cooperativas podrá participar en los organismos e instituciones que contribuyan al desarrollo socioeconómico de Galicia, así como en aquellos otros que puedan corresponderle.
+
+### Artículo 136
+
+Artículo 136. Composición.
+1. El Consejo Gallego de Cooperativas estará integrado mayoritariamente por las entidades representativas de las cooperativas y, además, por representantes de la Xunta de Galicia, los ayuntamientos y las universidades de la Comunidad Autónoma, formando un órgano de carácter colegiado.
+El número respectivo de representantes se determinará reglamentariamente. El número de representantes del cooperativismo no será inferior al resto de miembros que integran el consejo.
+El presidente o presidenta del Consejo Gallego de Cooperativas será el consejero o consejera competente en materia de trabajo.
+2. La representación de las cooperativas se realizará a través de las uniones, federaciones o confederaciones en que aquellas se integren, en función de la representación que tengan según los datos que obren en el Registro de Cooperativas de Galicia.
+No obstante lo previsto en el párrafo anterior, las cooperativas de crédito que no alcancen el número suficiente para la constitución de una unión de las reguladas en la presente ley, dado su especial objeto y finalidad así como su sujeción a la normativa específica, podrán contar con una persona que las represente en el Consejo.
+Una de estas personas representantes ejercerá el cargo de vicepresidente o vicepresidenta.
+3. La estructura, composición y funciones de los órganos del consejo, el sistema de elecciones y las atribuciones se determinarán reglamentariamente.
+4. La composición y organización del Consejo Gallego de Cooperativas, así como las de sus órganos, se hará procurando alcanzar una presencia equilibrada de mujeres y hombres en su composición total.
+Se modifica el apartado 2 por la disposición final 1.9 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. único.48 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+## TÍTULO V
+
+De la administración pública y las cooperativas
+
+### Artículo 137
+
+Artículo 137. Principios generales.
+1. La Xunta de Galicia reconoce de interés social la promoción y el desarrollo de las sociedades cooperativas y de sus estructuras de integración económica y representativa, garantizándose su libertad y autonomía.
+En este marco, realizará una política de fomento del movimiento cooperativo y adoptará las medidas necesarias para promover la constitución y el desarrollo de cooperativas, de forma que puedan cumplir sus objetivos económicos y sociales, de acuerdo con los principios cooperativos informadores de la presente Ley.
+2. La correspondiente actuación se llevará a cabo a través de la Consellería competente en materia de trabajo, a la que se dotará de recursos y servicios necesarios para el cumplimiento de sus funciones, sin perjuicio de las competencias de otras Consellerías en función de la actividad empresarial que desarrollen las cooperativas para el cumplimiento de su objeto social.
+3. La Administración local, en el ámbito de sus competencias, procurará considerar dentro de sus planes o programas de actuación la promoción y el desarrollo de las sociedades cooperativas.
+
+### Artículo 138
+
+Artículo 138. Inspección de las cooperativas.
+Corresponde a la Consellería competente en materia de trabajo la potestad de la función inspectora en relación con el cumplimiento de la presente Ley.
+La función inspectora sobre el cumplimiento de la legislación cooperativa, así como de su desarrollo estatutario según lo previsto en la presente Ley, se ejercerá por dicha Consellería a través de la Inspección de Trabajo y Seguridad Social, sin perjuicio de las funciones inspectoras que correspondan a otras Consellerías en función de la legislación específica aplicable.
+Esta función se realizará preferentemente con carácter preventivo, para contribuir al mejor cumplimiento de la legislación cooperativa. Los inspectores prestarán su asesoramiento para evitar que las cooperativas incurran en infracción, pudiendo advertir y aconsejar en lugar de iniciar un procedimiento sancionador.
+
+### Artículo 139
+
+Artículo 139. Infracciones y sanciones.
+1. Las sociedades cooperativas son sujetos responsables de las acciones y omisiones contrarias a la Ley y a los estatutos, con independencia de la responsabilidad de los miembros de sus órganos sociales en cuanto les sean imputables con carácter solidario o personal, bien de forma directa o porque pudiera venir exigida a través de derivación de responsabilidad.
+2.1 Son infracciones muy graves:
+a) Utilizar la sociedad cooperativa para encubrir finalidades ajenas a estas entidades, a la clase en que se encuadren o a su objeto social.
+b) No someter las cuentas anuales a auditoría externa en los supuestos contemplados en las normas legales y en los estatutos.
+c) No destinar a los fondos sociales obligatorios los porcentajes mínimos establecidos por la presente Ley, por los estatutos o por acuerdo de la asamblea general.
+d) Acreditar retornos cooperativos a quien no tenga la condición de persona socia, o por causas distintas a las actividades cooperativizadas realizadas por la persona socia.
+e) Repartir los fondos sociales obligatorios y los voluntarios con carácter de irrepartibles, así como, en su caso, el haber líquido social.
+f) Imputar las pérdidas contradiciendo lo establecido en la presente Ley o en los estatutos.
+g) Exceder los límites legales en la contratación de personal asalariado y en general superar los porcentajes máximos en las operaciones con terceras personas.
+h) Fijar o acreditar un tipo de interés por las aportaciones al capital social superior o inferior al legal o estatutariamente establecido.
+i) Aplicar los excedentes vulnerando lo previsto en la presente Ley.
+j) Superar la proporción que se fije, de acuerdo con lo previsto en el número 5 del artículo 10 de la presente Ley, para las cooperativas con sección de crédito.
+2.2 Son infracciones graves:
+a) Transgredir los derechos de las personas socias y en particular en materia de información, como electoras y elegibles para los cargos de los órganos sociales, a participar con voz y voto en la asamblea general y en la actividad empresarial que desarrolla la cooperativa sin ninguna discriminación.
+b) No convocar en tiempo y forma la asamblea general ordinaria y la asamblea general extraordinaria, cuando procediese.
+c) No renovar o cubrir los cargos de los órganos sociales cuando correspondiese por imperativo legal o estatutario.
+d) No depositar en el registro de cooperativas los documentos exigidos por la presente Ley y sus normas de desarrollo.
+e) No formalizar y no presentar en el registro de cooperativas, para su inscripción, los acuerdos inscribibles.
+f) No llevar en orden y por un tiempo que exceda de tres meses a partir del último asiento la documentación social y contable obligatoria.
+g) Transgredir los derechos del personal asalariado contemplados en la normativa cooperativa y en los estatutos sociales, así como incumplir las normas establecidas sobre participación de este personal en el consejo rector o en los excedentes disponibles.
+h) No aplicar el Fondo de Formación y Promoción Cooperativa a sus fines específicos.
+2.3 Son infracciones leves:
+a) Omitir el dictamen del letrado o letrada asesora, cuando fuese preceptivo, en aquellos documentos exigidos por la presente Ley cuando hayan de elevarse al registro de cooperativas.
+b) Retrasarse en la presentación o depósito en el registro de cooperativas de los documentos exigidos por la presente Ley.
+c) No acreditar a las personas socias sus aportaciones al capital social en la forma prevista en la presente Ley.
+d) No formular el órgano de intervención, cuando procediese, su informe sobre las cuentas anuales, en los plazos establecidos.
+e) Incumplir las obligaciones impuestas por el artículo 24.1 del Código de comercio para los empresarios o empresarias individuales, sociedades y entidades sujetas a inscripción obligatoria en el Registro Mercantil.
+f) Cualesquiera otras que afecten a obligaciones de carácter formal o documental exigidas en la legislación cooperativa y que no estén tipificadas en este artículo.
+3. Las infracciones se graduarán a los efectos de su correspondiente sanción en grado mínimo, medio y máximo, en función de la negligencia e intencionalidad, falsedad, incumplimiento de las advertencias previas y requerimientos de la inspección, número de socios afectados, perjuicio causado, repercusión social y dimensión de la cooperativa.
+Cuando no se estimase relevante a estos efectos ninguna de las circunstancias anteriormente señaladas, la sanción se impondrá en el grado mínimo en su cuantía inferior.
+3.1 Las infracciones leves se sancionarán con multa de 150 a 600 euros; las graves, con multa de 601 a 6.000 euros; y las muy graves, con multa de 6.001 a 30.000 euros o con la descalificación de la cooperativa.
+3.2 Las sanciones podrán imponerse en los grados de mínimo, medio y máximo.
+Las faltas leves se sancionarán con multa, en su grado mínimo, de 150 a 300 euros; en su grado medio, de 301 a 450 euros; y en su grado máximo, de 451 a 600 euros.
+Las faltas graves se sancionarán con multa, en su grado mínimo, de 601 a 1.500 euros; en su grado medio, de 1.501 a 3.000 euros; y en su grado máximo, de 3.001 a 6.000 euros.
+Las faltas muy graves se sancionarán con multa, en su grado mínimo, de 6.001 a 12.000 euros; en su grado medio, de 12.001 a 18.000 euros; y en su grado máximo, de 18.001 a 30.000 euros.
+3.3 Si se apreciase reincidencia, se aplicará el doble de la sanción económica correspondiente. Existe reincidencia cuando se comete una infracción del mismo tipo y calificación que la que motivó una sanción anterior en el término de un año desde la comisión de esta; en este supuesto se requerirá que la resolución sancionadora haya adquirido firmeza.
+4. Las infracciones reguladas en este artículo prescribirán a los doce meses desde que la administración pública hubiese tenido conocimiento de su comisión y, en todo caso, al año las que tengan carácter de leves, a los dos años las graves y a los tres años las muy graves, a contar a partir de la fecha en la que se hayan producido.
+5. El conocimiento de las infracciones y la imposición de sanciones corresponde a la consejería competente en materia de trabajo, en virtud de acta levantada por la Inspección de Trabajo y Seguridad Social, y mediante la tramitación del correspondiente expediente, de conformidad con las siguientes normas de competencia para su imposición:
+a) Personas titulares de las jefaturas territoriales de la consejería competente en materia de trabajo, hasta 6.000 euros.
+b) Director o directora general competente en materia de trabajo, hasta 18.000 euros.
+c) Consejero o consejera competente en materia de trabajo, hasta 30.000 euros.
+6. En la tramitación de los expedientes sancionadores resultará de aplicación la normativa específica en materia de infracciones y sanciones en el orden social.
+Se modifica el apartado 5.a) por la disposición final 1.10 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. único.49 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 140
+
+Artículo 140. Intervención temporal de las cooperativas y otras medidas.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 141
+
+Artículo 141. Descalificación de la cooperativa.
+1. El consejero o consejera competente en materia de trabajo podrá acordar la descalificación de la cooperativa cuando concurriese alguna de las siguientes causas:
+a) Las señaladas en el artículo 86 de la presente Ley, a excepción de las contempladas en sus letras a), b) y f).
+b) La comisión de cualquier infracción calificada como muy grave cuando pudiera provocar importantes perjuicios económicos o sociales.
+c) La pérdida o el incumplimiento de los requisitos necesarios para la calificación de la sociedad como cooperativa.
+2. El procedimiento se ajustará a la normativa específica en materia de infracciones y sanciones en el orden social y a las normas reguladoras del procedimiento administrativo común, con las siguientes salvedades:
+a) Habrá de emitir informe preceptivo el Consejo Gallego de Cooperativas, en el plazo de un mes, transcurrido el cual se dará por emitido en sentido favorable. En los supuestos de que la medida afectase a cooperativas de crédito o seguros, será preceptivo el informe de la consejería competente en materia de política financiera.
+b) En el trámite de audiencia comparecerá el órgano de administración o, en su defecto, las personas socias, en número no inferior a dos. Cuando no se produzca dicha comparecencia, el trámite se cumplirá mediante la correspondiente publicación en el Diario Oficial de Galicia.
+c) La resolución administrativa será revisable ante la jurisdicción competente, no siendo ejecutiva en tanto no recayese sentencia firme y definitiva.
+3. Una vez que la descalificación haya adquirido carácter de firmeza, surtirá efectos registrales de oficio, implicando la disolución de la cooperativa.
+4. Transcurridos dos meses desde la disolución sin que se hubiese efectuado el nombramiento de liquidadores o liquidadoras o no se hubiese aceptado el cargo, los administradores o administradoras y los interventores o interventoras deberán, y cualquier persona socia podrá, solicitar del Consejo Gallego de Cooperativas el nombramiento de liquidadores o liquidadoras, que podrá recaer en personas no socias de la cooperativa. Transcurrido dicho plazo, la consejería competente en materia de trabajo podrá instar, así mismo, dicho nombramiento.
+Se modifica el apartado 2.b) por la disposición final 1.11 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se modifica por el art. único.50 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Artículo 142
+
+Artículo 142. Medidas de fomento.
+1. Las cooperativas, independientemente de su calificación fiscal, tendrán la condición de mayoristas, por lo que les serán de aplicación los precios o tarifas correspondientes, pudiendo detallar como minoristas en la distribución o venta.
+2. No tendrán la consideración de ventas, resultando como operaciones societarias internas, las entregas de bienes y prestaciones de servicios que realicen las cooperativas a sus socios, ya sean producidos por las mismas o adquiridos a terceros para el cumplimiento de sus fines sociales.
+3. Las cooperativas que concentren sus empresas mediante cualquiera de las figuras jurídicas reconocidas legalmente, así como otras formas de colaboración económica, gozarán de todos los beneficios otorgados en la legislación aplicable sobre agrupación y concentración de empresas.
+4. Las cooperativas tendrán derecho preferente en los casos de empate en los concursos y subastas en que participen, convocados por las Administraciones públicas gallegas y entes dependientes de las mismas, para la realización de obras, servicios y suministros.
+5. (Derogado)
+6. La Consellería competente en materia de economía y hacienda podrá adoptar las medidas oportunas para que los títulos y valores emitidos por sociedades cooperativas a fin de atender su objeto social sean calificados como aptos a los efectos de cubrir el coeficiente de inversión obligatoria de las cajas de ahorros, de acuerdo con las disposiciones que les sean de aplicación. A estos efectos, se destinará, como mínimo, el porcentaje que determine esta Consellería del total del fondo de las cajas de ahorros ocupado en inversiones obligatorias calificadas por la citada Consellería.
+Se deroga el apartado 5 por la disposición derogatoria única.2 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En los plazos señalados en la presente Ley por días, el cómputo se hará en días hábiles.
+Cuando los plazos se fijen por meses o años, regirá lo dispuesto en el Código Civil.
+Cuando el último día del plazo sea inhábil, este se entenderá prorrogado al primer día hábil siguiente.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cuantía de las sanciones establecidas en el artículo 139 de la presente Ley podrá ser actualizada periódicamente por la Xunta de Galicia a propuesta del Conselleiro competente en materia de trabajo, teniendo en cuenta la variación de los índices de precios al consumo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Resultarán de aplicación a las entidades reguladas por la presente Ley los beneficios fiscales, arancelarios y de cualquier otra índole establecidos en la legislación cooperativa estatal en todo lo que no se oponga a la presente Ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cooperativas sin ánimo de lucro.
+1. La Xunta de Galicia podrá calificar como sociedades cooperativas sin ánimo de lucro las que por su objeto, actividad y criterios económicos de funcionamiento acrediten su función social. Se entenderá que acreditan dicha función las cooperativas que tuvieran por objeto la mejora de la calidad y condición de la vida de la persona, considerada de forma individual y colectiva.
+2. En todo caso, se consideran como tales las que se dediquen principalmente a la prestación y gestión de servicios sociales, educativos, culturales, artísticos, deportivos o de tiempo libre y otros de interés colectivo o de titularidad pública, la integración laboral de las personas que sufran cualquier clase de exclusión social u otras actividades que tuvieran por finalidad conseguir la superación de la situación de marginación social de cualquier tipo.
+3. Para que una cooperativa sea calificada como sin ánimo de lucro habrá de contemplar en sus estatutos expresamente lo siguiente:
+a) Que los resultados positivos que se produjesen en un ejercicio económico no podrán ser distribuidos entre las personas socias, destinándose los excedentes disponibles al Fondo de Reserva Obligatorio.
+b) Las aportaciones de las personas socias al capital social, tanto obligatorias como voluntarias, no podrán devengar un interés superior al interés legal del dinero, sin perjuicio de la posible actualización de las mismas.
+c) El carácter gratuito del desempeño de los cargos del consejo rector, sin perjuicio de las compensaciones económicas procedentes por los gastos en que pudieran incurrir los miembros del consejo en el desempeño de sus funciones.
+d) Las retribuciones de las personas socias trabajadoras o, en su caso, de las personas socias de trabajo y del personal trabajador por cuenta ajena no podrán superar el 150% de las retribuciones que, en función de la actividad y categoría profesional, estableciese el convenio colectivo de aplicación al personal asalariado del sector.
+4. La transgresión de las determinaciones estatutarias establecidas en el número anterior conllevará la pérdida de la calificación como cooperativa sin ánimo de lucro.
+5. Las cooperativas que sean calificadas como sin ánimo de lucro y cumpliesen con lo dispuesto en este artículo serán consideradas por las administraciones públicas de la Comunidad Autónoma de Galicia como entidades sin ánimo de lucro a todos los efectos.
+6. La solicitud para el reconocimiento de su condición como cooperativa sin ánimo de lucro habrá de resolverse por la autoridad de que depende el registro de cooperativas competente para la inscripción de la cooperativa, tramitándose a través del procedimiento de calificación e inscripción de la escritura de modificación estatutaria, en su caso.
+Cuando la solicitud de reconocimiento no estuviera asociada a la constitución de la cooperativa o a una modificación estatutaria, se tramitará con arreglo a las normas del procedimiento administrativo común, resolviéndose en el plazo máximo de tres meses, transcurrido el cual se entenderá desestimada si no hubiera recaído resolución expresa.
+Se añade por el art. único.51 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Cooperativas mixtas de trabajo asociado.
+Objeto y normas de aplicación.
+1. Son cooperativas mixtas de trabajo asociado aquellas en las que existen cooperativistas cuyo derecho de voto en la asamblea general podrá determinarse, de modo exclusivo o preferente, en función del capital aportado en las condiciones establecidas estatutariamente, que estará representado por medio de títulos o anotaciones en cuenta y que se denominarán partes sociales con voto.
+El objeto de estas cooperativas es coadyuvar a la captación de capital de terceros en los proyectos cooperativos, salvando al máximo posible las características que son propias de las sociedades cooperativas. Es una figura excepcional, dándole un tratamiento singular y específico, orientado a procurar un acceso efectivo del personal asalariado a la propiedad de los medios de producción.
+2. En estas cooperativas se permite el voto plural ponderado, debiéndose contemplar y regular en los estatutos de la cooperativa para los diferentes colectivos sociales, no siendo de aplicación los límites al derecho de voto plural establecidos en los apartados 2, 3 y 4 del artículo 36 de la presente Ley, si bien el derecho de voto en la asamblea general respetará la siguiente distribución:
+a) Las personas socias de capital no podrán superar un tercio de los votos sociales.
+b) Las cooperativas, las sociedades controladas por estas o las entidades públicas no podrán superar un tercio de los votos sociales.
+c) Las personas socias trabajadoras no podrán tener un porcentaje inferior a un tercio de los votos sociales.
+d) Las personas socias contempladas en los apartados b) y c) no tendrán en ningún caso menos del 51% de los votos sociales de la cooperativa, siendo las personas socias trabajadoras la mayoría de este colectivo.
+e) La participación en los órganos sociales habrá de respetar los límites porcentuales indicados en los apartados anteriores.
+3. En caso de las partes sociales con voto, tanto los derechos y obligaciones de sus titulares como el régimen de las aportaciones se regularán por los estatutos y, supletoriamente, por lo dispuesto en la legislación de sociedades de capital para las acciones en las anónimas. Las personas socias a que se refiere la letra c) del número anterior de este artículo tendrán un derecho de preferencia estatutariamente sobre dichas partes sociales con voto.
+4. La participación de cada uno de los grupos de cooperativistas en los resultados anuales a distribuir, sean positivos o negativos, se determinará en proporción al porcentaje de votos que cada uno de los dos colectivos ostentase, según lo previsto en el número 2.
+Los excedentes imputables a los poseedores o poseedoras de partes sociales con voto se distribuirán entre ellos en proporción al capital desembolsado. Los excedentes imputables a las personas socias trabajadoras se distribuirán entre estas según los criterios generales definidos en la presente Ley, y para las personas socias contempladas en la letra b) del número 2 de este artículo, según lo dispuesto en los estatutos sociales.
+5. La validez de cualquier modificación autorreguladora que afecte a los derechos y obligaciones de alguno de los colectivos de cooperativistas requerirá el consentimiento mayoritario del grupo correspondiente, que podrá obtenerse mediante votación separada en la asamblea general.
+6. En cuanto a la dotación de fondos obligatorios y su disponibilidad, se estará a lo dispuesto, con carácter general, en la presente Ley.
+7. Las personas socias relacionadas en la letra b) del número 2 de este artículo tendrán la consideración de personas socias colaboradoras, no resultando de aplicación a las cooperativas mixtas lo dispuesto en el artículo 29.3 de la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, pudiendo, en consecuencia, desarrollar las personas socias colaboradoras actividades cooperativizadas en competencia con las que desarrollase la sociedad cooperativa mixta de la que sean colaboradoras, si bien habrán de ser regulados en los estatutos sociales tanto sus derechos como sus obligaciones.
+Se añade por el art. único.52 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. En relación con la disposición adicional tercera de la Ley 2/2007, de 28 de marzo, de trabajo en igualdad de las mujeres de Galicia.
+Con el objetivo de la observancia y procura del principio de igualdad entre hombres y mujeres:
+1.º La Xunta de Galicia y las cooperativas fomentarán la erradicación en el ámbito de las sociedades cooperativas gallegas de la discriminación vertical y horizontal entre hombres y mujeres.
+2.º La Xunta de Galicia favorecerá el desarrollo de medidas que supongan ventajas concretas y/o medidas de compensación de las desventajas sufridas por las mujeres en el ámbito laboral.
+3.º Las cooperativas procurarán contemplar en sus estatutos sociales medidas que se referirán al acceso a la condición de socia de trabajo, de socia trabajadora o incluso de asalariada, así como a su promoción profesional y demás aspectos de la situación y condiciones laborales de la persona afectada.
+4.º Las cooperativas fomentarán la representación equilibrada de mujeres y hombres en la composición de sus órganos sociales, sean obligatorios o voluntarios.
+5.º La Xunta de Galicia y las cooperativas adoptarán medidas dirigidas a la plena integración laboral y social de las mujeres víctimas de violencia de género.
+Se añade por el art. único.53 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Medidas de fomento y difusión del cooperativismo.
+En relación con el artículo 142 de la Ley 8/1998, de 18 de diciembre, de cooperativas de Galicia, y con el objetivo de establecer medidas de fomento y difusión del cooperativismo, la Xunta de Galicia:
+1. Pondrá en marcha acciones de promoción, difusión, desarrollo, formación y fomento del cooperativismo en el marco de su acción política y como fórmula empresarial de creación y mantenimiento de empleo, cohesión territorial y vertebración económica y social de Galicia.
+2. Adoptará las medidas necesarias para el fomento de las relaciones entre cooperativas y, en particular, la creación de cooperativas de segundo grado, la fusión de cooperativas, el establecimiento de grupos cooperativos y de conciertos o consorcios, encaminados a su consolidación y al mejor cumplimiento de los principios cooperativos.
+3. Con estos objetivos, establecerá líneas de ayuda, siempre que la actuación propuesta fuese favorable al movimiento cooperativo y así lo reconociera el Consejo Gallego de Cooperativas, previamente informado.
+4. Remitirá anualmente al Parlamento de Galicia una memoria sobre las actividades realizadas en el campo del cooperativismo en Galicia.
+Se añade por el art. único.54 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Aplicación de la Ley.
+La presente Ley se aplicará a todas las sociedades cooperativas reguladas por esta, quedando sin efecto el contenido de sus escrituras o estatutos en todo lo que se oponga a la misma.
+Se añade por el art. único.55 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Cooperativas juveniles.
+Objeto y normas de aplicación.
+1. Son cooperativas juveniles las que tienen por objeto proporcionar empleo y un marco apropiado para el desarrollo profesional a la juventud, mediante la prestación de su trabajo personal produciendo en común bienes y servicios para terceros.
+Deberán estar formadas mayoritariamente por personas socias trabajadoras con edades comprendidas entre dieciséis y veintinueve años, salvo en caso de que sean personas con un grado de discapacidad igual o superior al 33 %, en el cual la edad máxima será de treinta y cinco años.
+2. Las cooperativas juveniles constituyen una especialidad de las cooperativas de trabajo asociado y asimiladas, o de las cooperativas de explotación comunitaria de la tierra o de explotación de recursos acuícolas, resultándoles de aplicación la regulación general y específica que corresponda a su clase, con las siguientes particularidades:
+a) Completarán la parte obligatoria de su denominación con la palabra ‘‘juvenil’’ de la siguiente forma: ‘‘Sociedad Cooperativa Gallega Juvenil’’ o ‘‘S. Coop. Gallega Juvenil’’.
+b) El capital social mínimo necesario para constituirse y funcionar una sociedad cooperativa juvenil será de trescientos euros, debiendo estar totalmente desembolsados desde su constitución.
+c) La inscripción de los actos de constitución, modificación de estatutos, disolución, reactivación, liquidación y extinción de las sociedades cooperativas juveniles podrá realizarse en virtud de documentos de carácter privado con los mismos requisitos que los previstos para las escrituras públicas en la presente ley, en lo que resulte procedente. Las firmas que consten en los documentos habrán de estar legitimadas notarialmente o autenticadas por el registro de cooperativas que resulte competente para la inscripción de los referidos actos. Cuando la publicación de los acuerdos referidos a dichos actos resultase preceptiva, se realizará en el Diario Oficial de Galicia, siendo tramitada por el registro de cooperativas competente con carácter gratuito, sin que resulte obligatoria la publicación en uno de los diarios de mayor circulación de la provincia del domicilio social de la cooperativa.
+d) La cooperativa juvenil se constituirá por tiempo determinado fijado estatutariamente y deberá transformarse en cooperativa ordinaria o disolverse transcurridos cinco años desde su inscripción en el Registro de Cooperativas. Transcurrido el plazo de cinco años sin que se hubiera adoptado el acuerdo de transformación en cooperativa ordinaria, la cooperativa juvenil quedará disuelta de pleno derecho y entrará en periodo de liquidación.
+e) El acuerdo de transformación en sociedad cooperativa ordinaria deberá ser adoptado por la asamblea general por más de la mitad de los votos válidamente expresados, no siendo computables a estos efectos los votos en blanco ni las abstenciones, y deberá elevarse a escritura pública e inscribirse en el Registro de Cooperativas.
+La transformación requiere el cumplimiento de todos los requisitos exigidos legalmente para la constitución de una cooperativa ordinaria de la clase que se trate y se realizará a través del procedimiento previsto en el artículo 74, en cuanto resulte procedente.
+f) La reducción del número de personas socias trabajadoras que tengan entre dieciséis y veintinueve años por debajo de la mayoría exigida para la constitución de cooperativas juveniles sin que se restablezca en el plazo de seis meses, y sin que se acuerde la transformación en cooperativa ordinaria, será causa de disolución, aplicándose lo dispuesto en el artículo 86, apartado d), y concordantes de la presente ley.
+g) Anualmente deberá someterse a aprobación de la asamblea general un plan de formación profesional individualizado, que alcance a la totalidad de las personas socias y al que habrán de asignarse los recursos económicos precisos, entre los cuales deberá figurar la dotación total del Fondo de Formación y Promoción Cooperativa».
+Se modifica el apartado 2.c) por la disposición final 1.12 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+ Se añade por la disposición final 1.8 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943#df.
+
+### Disposición adicional décima
+
+Disposición adicional décima. No exigencia de quorum en segunda convocatoria.
+Excepcionalmente, hasta el 31 de diciembre de 2021, y con independencia de la modalidad de realización de la reunión, las asambleas generales de las cooperativas a las que le sea de aplicación la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, quedarán válidamente constituidas en segunda convocatoria cualquiera que sea el número de cooperativistas presentes o representados, aunque los estatutos no lo hayan establecido.
+Se añade por el art. 26.1.4 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Redactado el título conforme a la corrección de errores publicada en el DOG núm. 40, de 1 de marzo de 2021. Ref. BOE-A-2021-5139
+
+### Disposición adicional decimoprimera
+
+Disposición adicional decimoprimera. Plazo para la realización de asambleas generales y prórroga de los nombramientos.
+1. Las asambleas generales de las cooperativas a las que sea de aplicación la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, que debieran tener lugar en una fecha posterior al 14 de marzo de 2020 y que no se pudieron realizar en cumplimiento de las medidas dictadas para hacer frente a la pandemia de la COVID-19, podrán celebrarse con fecha límite del 31 de diciembre de 2021.
+2. Aquellos nombramientos para cargos de los órganos sociales de las cooperativas a las que sea de aplicación la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, cuya vigencia haya finalizado después del 14 de marzo de 2020 se entenderán prorrogados hasta el 31 de diciembre de 2021, sin perjuicio de que puedan ser renovados o separados en cualquier momento anterior por el órgano competente.
+Se añade por el art. 26.1.5 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Redactado conforme a la corrección de errores publicada en el DOG núm. 40, de 1 de marzo de 2021. Ref. BOE-A-2021-5139
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada)
+Se deroga por la disposición derogatoria única.2 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.2 de la Ley 14/2011, de 16 de diciembre. Ref. BOE-A-2012-1250.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En el plazo de tres años, a contar desde la publicación del calendario que se establezca en el Reglamento del Registro de Cooperativas, las cooperativas y sus uniones y federaciones a las que sea de aplicación la presente Ley deberán adaptar sus Estatutos a la misma.
+Las referidas entidades que, en el correspondiente plazo, no hubiesen adaptado sus Estatutos y solicitado del Registro de Cooperativas competente su inscripción, quedarán disueltas de pleno derecho y entrarán en período de liquidación, sin perjuicio de la posibilidad prevista en el artículo 88 de la presente Ley.
+La adaptación de los Estatutos se llevará a cabo en la forma establecida en la presente Ley para su modificación, con las siguientes salvedades:
+1. No será necesaria la presentación de informe escrito sobre su conveniencia y justificación.
+2. Para la aprobación del texto adaptado por la Asamblea general será necesaria una mayoría de dos tercios de los votos presentes y representados.
+3. La escritura pública de modificación de Estatutos deberá contener en todo caso:
+a) El texto íntegro de los Estatutos adaptados.
+b) La acreditación de que el capital social mínimo fijado estatutariamente está totalmente desembolsado.
+Cuando la cooperativa estuviese inscrita en un Registro de Cooperativas distinto al que resulte competente, el Registro correspondiente pasará a ejercer respecto a aquélla todas las funciones registrales desde el momento en que la cooperativa inste ante el mismo la adaptación de sus Estatutos; competencia que alcanzará, incluso, a las inscripciones y demás trámites registrales necesarios para la inscripción de la escritura pública de adaptación.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En tanto no entre en vigor el Reglamento del Registro de Cooperativas de Galicia, resultarán de aplicación las disposiciones vigentes hasta la fecha en materia registral.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Hasta tanto se constituya el Consejo Gallego de Cooperativas, la dirección general competente en materia de trabajo asumirá las siguientes funciones atribuidas al mismo:
+1. Nombrar liquidadores en el supuesto previsto en el artículo 89 de la presente Ley.
+2. Percibir el Fondo de Formación y Promoción, así como los demás fondos irrepartibles y el remanente del haber líquido social o el patrimonio social de las cooperativas en los casos previstos en la presente Ley, que se depositarán en la Caja General de Depósitos de la Comunidad Autónoma a disposición del futuro Consejo Gallego de Cooperativas.
+En aquellos supuestos en que la presente Ley establezca la necesidad del previo informe del Consejo Gallego de Cooperativas, se entenderá como no establecido dicho requisito.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Aquellas cooperativas que a la entrada en vigor de la presente Ley no se encuentren reguladas en la misma deberán adaptar sus Estatutos según lo previsto en la disposición transitoria tercera, adoptando la clase de cooperativa que corresponda de las previstas en el título III de la presente Ley.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Las sociedades cooperativas que en la fecha de publicación de la presente Ley cuenten con un número de asociados, de los previstos en el capítulo V de la Ley 3/1987, de 2 de abril, General de Cooperativas, superior al establecido como máximo en la presente Ley para los socios colaboradores, dispondrán de un plazo de cinco años a partir de su entrada en vigor para ajustarse al límite establecido en el número 1 del artículo 29 de la presente Ley.
+Dicho plazo podrá ampliarse a propuesta de la Consellería competente en materia de trabajo.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas normas de igual o inferior rango contradigan o se opongan a lo establecido en la presente Ley dentro de su ámbito de aplicación, sin perjuicio de lo establecido en la disposición transitoria cuarta.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor a los dos meses de su publicación en el «Diario Oficial de Galicia».
+
+### Disposición final segunda
+
+Disposición final segunda.
+La Consellería competente en materia de trabajo queda facultada para aclarar e interpretar las normas contenidas en la presente Ley, pudiendo además dictar normas relativas a la petición de datos a las cooperativas a efectos estadísticos.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se faculta a la Xunta de Galicia para que en el plazo de dieciocho meses, y a propuesta del Conselleiro competente en materia de trabajo, dicte las normas necesarias para el desarrollo de la presente Ley.
+Igualmente, se le autoriza para que, por el mismo procedimiento, dicte todas aquellas disposiciones que resultasen convenientes para la aplicación de la misma.
+
+Santiago de Compostela, 18 de diciembre de 1998.
+MANUEL FRAGA IRIBARNE,
+Presidente

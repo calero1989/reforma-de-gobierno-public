@@ -1,0 +1,295 @@
+# Ley 18/1982, de 26 de mayo, sobre régimen fiscal de agrupaciones y uniones temporales de Empresas y de las Sociedades de desarrollo industrial regional.
+
+- Identificador BOE: `BOE-A-1982-13818`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-13818
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+## TITULO I
+
+Normas generales
+
+### Artículo primero
+
+Artículo primero. Régimen jurídico
+LasAgrupaciones de Empresas, las Uniones Temporales de Empresas y loscontratos de cesión de unidades de obras, que cumplan las condiciones y requisitos que se establecen en la presente Ley, podrán acogerse al régimen tributario previsto en la misma.
+Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo segundo
+
+Artículo segundo. Vigilancia
+Las actividades y repercusiones económicas de las Agrupaciones de Empresas y Uniones Temporales de Empresas serán objeto de especial vigilancia por el Ministerio de Hacienda, para constatar si su actividad se ha dedicado exclusivamente al cumplimiento del objeto para el que fueran constituidas. El cumplimiento de esta función se realizará por la Inspección Financiera Tributaria, sin perjuicio, y con independencia de la aplicación por los Organismos o Tribunales correspondientes de las medidas ordinarias o especiales establecidas o que se establezcan para evitar actividades monopolísticas o prácticas restrictivas de la competencia.
+Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo tercero
+
+Artículo tercero. Aplicación del régimen
+El régimen tributario que se establece en la presente Ley quedará condicionado al cumplimiento de los requisitos específicos previstos en cada caso para las Agrupacionesy Uniones mencionadas y a su inscripción en el Registro Especial que al efecto llevará el Ministerio de Hacienda.
+Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+## TITULO II
+
+De las Agrupaciones de Empresas
+
+### Artículo cuarto
+
+Artículo cuarto. Concepto
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo quinto
+
+Artículo quinto. Requisitos
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo sexto
+
+Artículo sexto. Régimen fiscal de las Agrupaciones de Empresas
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+## TITULO III
+
+De las Uniones Temporales de Empresas
+
+### Artículo séptimo
+
+Artículo séptimo. Concepto
+Uno. Tendrán la consideración de Unión Temporal de Empresas el sistema de colaboración entre empresarios por tiempo cierto, determinado o indeterminado para el desarrollo o ejecución de una obra, servicio o suministro.
+Dos. La Unión Temporal de Empresas no tendrá personalidad jurídica propia.
+
+### Artículo octavo
+
+Artículo octavo. Requisitos
+Para la aplicación del régimen tributario establecido en esta Ley deberán cumplir los siguientes requisitos:
+a) Las Empresas miembros podrán ser personas físicas o jurídicas residentes en España o en el extranjero. Los rendimientos empresariales de las personas naturales que formen parte de una Unión serán determinados en régimen de estimación directa a efectos de su gravamen en el Impuesto sobre la Renta de las Personas Físicas.
+b) El objeto de las Uniones Temporales de Empresas será desarrollar o ejecutar exclusivamente una obra, servicio o suministro concreto, dentro o fuera de España.
+También podrán desarrollar o ejecutar obra y servicios complementarios y accesorios del objeto principal.
+c) Las uniones temporales de empresas tendrán una duración idéntica a la de la obra, servicio o suministro que constituya su objeto. La duración máxima no podrá exceder de veinticinco años, salvo que se trate de contratos que comprendan la ejecución de obras y explotación de servicios públicos, en cuyo caso, la duración máxima será de cincuenta años.
+d) Existirá un Gerente único de la Unión Temporal, con poderes suficientes de todos y cada uno de sus miembros para ejercitar los derechos y contraer las obligaciones correspondientes.
+Las actuaciones de la Unión Temporal se realizarán precisamente a través del Gerente, nombrado al efecto, haciéndolo éste constar así en cuantos actos y contratos suscriba en nombre de la Unión.
+e) Las Uniones Temporales de Empresas se formalizarán en escritura pública, que expresará el nombre, apellidos, razón social de los otorgantes, su nacionalidad y su domicilio; la voluntad de los otorgantes de constituir la Unión y los estatutos o pactos que han de regir el funcionamiento de la Unión en los que se hará constar:
+Uno. La denominación o razón, que será la de una, varias o todas las Empresas miembros, seguida de la expresión «Unión Temporal de Empresas, Ley .../..., número ...»
+Dos. El objeto de la Unión, expresado mediante una Memoria o programa, con determinación de las actividades y medios para su realización.
+Tres. La duración y la fecha en que darán comienzo las operaciones.
+Cuatro. El domicilio fiscal, situado en territorio nacional que será el propio de la persona física o jurídica que lleve la gerencia común.
+Cinco. Las aportaciones, si existiesen, al fondo operativo común que cada Empresa comprometa en su caso, así como los modos de financiar o sufragar las actividades comunes.
+Seis. El nombre del Gerente y su domicilio.
+Siete. La proporción o método para determinar la participación de las distintas Empresas miembros en la distribución de los resultados o, en su caso, en los ingresos o gastos de la Unión.
+Ocho. La responsabilidad frente a terceros por los actos y operaciones en beneficio del común, que será en todo caso solidaria e ilimitada para sus miembros.
+Nueve. El criterio temporal de imputación de resultados o, en su caso, ingresos o gastos.
+Diez. Los demás pactos lícitos y condiciones especiales que los otorgantes consideren conveniente establecer.
+Se modifica la letra c) por la disposición adicional 3 de la Ley 46/2002, de 18 de diciembre. Ref. BOE-A-2002-24711
+
+### Artículo noveno
+
+Artículo noveno. Responsabilidad frente a la Administración Tributaria
+Las Empresas miembros de la Unión Temporal quedarán solidariamente obligadas frente a la Administración Tributaria por las retenciones en la fuente a cuenta de los Impuestos sobre la Renta de las Personas Físicas o sobre Sociedades que la Unión venga obligada a realizar, así como por los tributos indirectos que corresponda satisfacer a dicha Unión como consecuencia del ejercicio de la actividad que realice. Idéntica responsabilidad existirá respecto a la Cuota de Licencia del Impuesto Industrial prevista en el artículo once y en general de los tributos que afectan a la Unión como sujeto pasivo.
+
+### Artículo diez
+
+Artículo diez. Régimen fiscal de las Uniones Temporales de Empresas
+1.(Derogado)
+2.(Derogado)
+3. En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados gozarán de exención las operaciones de constitución, ampliación, reducción, disolución y liquidación, así como los contratos preparatorios y demás documentos cuya formalización constituya legalmente presupuesto necesario para la constitución.
+4. En el Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla, gozarán de una bonificación del 99 por 100 sobre las operaciones sujetas al mismo que se realicen entre las empresas miembros y las uniones temporales respectivas, siempre que las mencionadas operaciones sean estricta consecuencia del cumplimiento de los fines para los que se constituyó la unión temporal.
+Cuando se trate de operaciones realizadas entre las empresas miembros a través de la unión temporal, la aplicación de la bonificación no podrá originar una cuota tributaria menor a la que se habría devengado si aquellas empresas hubiesen actuado directamente.
+Salvo lo dispuesto en el párrafo anterior, la bonificación no se extenderá a las operaciones sujetas al impuesto que directa o indirectamente se produzcan entre las empresas miembros o entre éstas y terceros.
+Se modifica el apartado 4, con efectos a partir del 1 de enero de 1997, por el art.13 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se derogan los apartados 1 y 2 por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se modifica por la disposición adicional 2 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+## TITULO IV
+
+Normas fiscales comunes a las Agrupaciones de Empresas y Uniones Temporales de Empresas
+
+### Artículo once
+
+Artículo once. Licencia Fiscal del Impuesto Industrial
+Las Agrupaciones de Empresas y las Uniones Temporales de Empresas tributarán por Licencia Fiscal del Impuesto Industrial cualquiera que sea la actividad que desarrollen según cuota de un epígrafe específico que a tal efecto aprobará el Ministerio de Hacienda, y que tendrá carácter eminentemente censal.
+Cada una de las Empresas miembros satisfará, si procediese, la cuota de Licencia Fiscal que le corresponda con arreglo a sus propias actividades.
+Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo doce
+
+Artículo doce. Empresas miembros residentes en el extranjero
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se modifica por la disposición adicional 2 de la Ley 12/1991, 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo trece
+
+Artículo trece. Agrupaciones o Uniones que operan en el extranjero
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo catorce
+
+Artículo catorce. Empresas miembros españolas que operan en Uniones Temporales extranjeras
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo quince
+
+Artículo quince. Retención por pago de rendimientos entre la Agrupación y Unión y las Empresas miembros
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo dieciséis
+
+Artículo dieciséis. Obligación de declarar
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Articulo diecisiete
+
+Articulo diecisiete. Período de liquidación
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+### Artículo dieciocho
+
+Artículo dieciocho. Revisión del régimen tributario
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Se suprimen las menciones a las Agrupaciones de Empresas y Contratos de cesión de unidades de obra, por la disposición adicional 1 de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+## TITULO V
+
+De la cesión de Unidades de Obras
+
+### Artículo diecinueve
+
+Artículo diecinueve. Cesión de Unidades de Obra
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 12/1991, de 29 de abril. Ref. BOE-A-1991-10511
+
+## TITULO VI
+
+De las Sociedades de desarrollo industrial regional
+
+### Artículo veinte
+
+El régimen fiscal de las Sociedades de desarrollo industrial regional, de carácter público, constituidas o que se constituyan al amparo de las disposiciones que regulan su régimen financiero especial, será el establecido en los artículos siguientes de la presente Ley.
+
+### Artículo veintiuno
+
+Uno. La constitución, aumento o reducción de capital de las Sociedades de desarrollo industrial regional, gozarán de una reducción del noventa y nueve por ciento de la base imponible del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Dos. Las emisiones de empréstitos que realicen las Sociedades de desarrollo industrial regional, para el cumplimiento de sus fines, gozarán de una reducción del noventa y nueve por ciento de la base imponible del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+### Artículo veintidós
+
+(Derogado)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo veintitrés
+
+En el Impuesto General sobre el Tráfico de las Empresas gozarán de una reducción del noventa y nueve por ciento de la base imponible de las operaciones que habitualmente realicen las Sociedades de desarrollo industrial regional con las Sociedades en que participen por razón del cumplimiento de su objeto social.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.7 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las Asociaciones comprendidas en el artículo diez, uno, E), del texto refundido del extinguido Impuesto sobre la Renta de Sociedades y demás Entidades jurídicas, aprobado por Decreto tres mil trescientos cincuenta y nueve/mil novecientos sesenta y siete, de veintitrés de diciembre, tendrán un plazo de seis meses, contado a partir de la fecha en que finalice el primer ejercicio cerrado con posterioridad a la entrada en vigor de la presente Ley, para inscribirse en el Registro Especial del Ministerio de Hacienda y acogerse, en consecuencia, al régimen tributario previsto en esta Ley para las Agrupaciones de Empresas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La Uniones Temporales de Empresas constituidas al amparo de la Ley ciento noventa y seis/mil novecientos sesenta y tres, de tres de diciembre, tendrán un plazo de seis meses, contado a partir de la fecha en que finalice el primer ejercicio cerrado con posterioridad a la entrada en vigor de la presente Ley, para inscribirse en el Registro Especial del Ministerio de Hacienda y acogerse en consecuencia, al régimen tributario previsto en esta Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Transcurridos los plazos señalados en las disposiciones anteriores, quedarán sin efecto las correspondientes resoluciones de los Organos provinciales competentes o, en su caso, las Ordenes ministeriales, sin que puedan mantenerse, por tanto con carácter transitorio los regímenes concedidos hasta el cumplimiento de dichos plazos.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Las Asociaciones y Uniones Temporales de Empresas a que se refieren las disposiciones transitorias anteriores podrán extinguirse con exención de toda clase de tributos que pudieran gravar las operaciones necesarias para dicha extinción, en el plazo de seis meses, contado a partir de la vigencia de esta Ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Sin perjuicio de lo dispuesto en la disposición adicional tercera, dos a) los grupos de Sociedades que a la publicación de la presente Ley tuvieran concedido el régimen de declaración consolidada por el Impuesto sobre Sociedades, mantendrán su derecho a la aplicación del mismo, hasta finalizar el período de tres ejercicios vigente en aquella fecha, según la normativa vigente y en los términos del correspondiente acuerdo de concesión. No obstante, la inclusión de Sociedades a partir de la entrada en vigor de la presente Ley requerirá, en todo caso, el porcentaje de dominio exigido por la disposición adicional tercera y el cumplimiento de los requisitos contenidos en el Real Decreto-ley mil cuatrocientos catorce/mil novecientos setenta y siete, de diecisiete de junio, en cuanto no hubiesen sido derogados por esta norma.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Cuando por consecuencia de lo dispuesto en la disposición adicional tercera, dos, a), alguna Sociedad resulte excluida del grupo y la misma hubiere intervenido con anterioridad al día veintisiete de junio de mil novecientos ochenta y uno en alguna transacción de activos intergrupo los resultados diferidos pendientes de gravamen no se entenderán realizados, en consecuencia, no se integrarán en la base imponible consolidada.
+Asimismo, cuando por igual motivo un grupo perdiera la condición de consolidable, los resultados diferidos por transacciones intergrupo anteriores al día veintisiete de junio de mil novecientos ochenta y uno, pendientes de gravamen, no se entenderán realizados ni, en consecuencia, se integrarán en su base imponible consolidada ni en los de las Sociedades que lo integran.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Duración máxima de las uniones temporales de empresas constituidas antes de 1 de enero de 2003.
+1. La duración máxima de las uniones temporales de empresas constituidas antes del día 1 de enero de 2003 será la establecida en el párrafo c) del artículo octavo de la Ley 18/1982, de 26 de mayo, sobre Régimen Fiscal de Agrupaciones y Uniones Temporales de Empresas y de Sociedades de Desarrollo Industrial Regional, según la redacción dada por la Ley 46/2002, de 18 de diciembre, de reforma parcial del Impuesto sobre la Renta de las Personas Físicas, y por la que se modifican las Leyes de los Impuestos sobre Sociedades y sobre la Renta de no Residentes.
+2. La validez de la inscripción de las uniones temporales de empresas efectuada en el Registro Especial del Ministerio de Hacienda con anterioridad a 1 de enero de 2003 se extenderá hasta la finalización de la obra, siempre que no se supere la duración máxima a que se refiere el apartado anterior, sin necesidad de solicitar prórroga de la inscripción.
+Se añade por la disposición adicional 3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de un año, a partir de la publicación de las normas reglamentarias, se aprobará la correspondiente adaptación del Plan General de Contabilidad a las peculiaridades de gestión contable de las Agrupaciones de Empresas y Uniones Temporales de Empresas.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será aplicable al primer ejercicio económico que se inicie con posterioridad a dicha fecha.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A partir de la entrada en vigor de esta Ley quedarán derogadas las siguientes disposiciones legales:
+A) Ley ciento noventa y seis/mil novecientos sesenta y tres, de veintiocho de diciembre:
+- Artículo séptimo.
+- Artículo octavo.
+- Artículo noveno, en cuanto a Agrupaciones Temporales de Empresas (Uniones Temporales de Empresas).
+- Texto refundido del extinguido Impuesto sobre la Renta de Sociedades y demás Entidades jurídicas, aprobado por Decreto tres mil trescientos cincuenta y nueve/mil novecientos sesenta y siete, de veintitrés de diciembre:
+- Artículo diez, uno, E).
+- Decreto-ley doce/mil novecientos setenta y tres, de treinta de noviembre:
+- Artículo veintidós.
+- Ley sesenta y uno/mil novecientos setenta y ocho, de veintisiete de diciembre:
+- Artículo diecinueve, dos, en cuanto a Agrupaciones Temporales de Empresas (Uniones Temporales de Empresas).
+B) Los Decretos números tres mil veintinueve/mil novecientos setenta y seis y tres mil treinta, de diez de diciembre, y el Decreto número cuatrocientos treinta/mil novecientos setenta y siete, de once de marzo, en cuanto se refieren al régimen fiscal de las Sociedades de desarrollo industrial (SODI).
+C) El artículo cuarto, puntos uno y dos, del Real Decreto-ley quince/mil novecientos setenta y siete, de veinticinco de febrero.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, veintiséis de mayo de mil novecientos ochenta y dos.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+Leopoldo Calvo-Sotelo y Bustelo.

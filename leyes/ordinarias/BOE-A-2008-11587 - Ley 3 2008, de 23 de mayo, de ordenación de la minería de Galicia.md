@@ -1,0 +1,1102 @@
+# Ley 3/2008, de 23 de mayo, de ordenación de la minería de Galicia.
+
+- Identificador BOE: `BOE-A-2008-11587`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-11587
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+La minería en Galicia es un sector relevante desde el punto de vista socioeconómico que presenta, no obstante, hoy en día, una notoria incidencia sobre el medio ambiente y la ordenación del territorio, lo cual hace precisa una adecuada conciliación del desarrollo del sector minero con la protección de los bienes jurídicos en juego. Para esta finalidad es necesario disponer de un marco normativo coherente y actualizado que tenga presente los cambios institucionales, tecnológicos y ambientales producidos en la sociedad desde la aprobación de la Constitución española y el Estatuto de autonomía.
+El largo tiempo transcurrido desde la aprobación de la Ley 22/1973, de 21 de julio, de minas, unido al carácter preconstitucional de esta norma, y de la Ley 6/1977, de 4 de enero, de fomento de la minería, acompañado de los fuertes cambios tecnológicos experimentados y de una mayor preocupación por la tutela ambiental y territorial de la sociedad civil son elementos que obligan a la puesta en pie de una norma gallega que dé respuesta a los cambios producidos.
+Galicia, además de normas de fomento económico del sector minero, tiene aprobadas la Ley 9/1985, de protección de las piedras ornamentales, dirigida a la protección de los minerales que tienen su principal aplicación en la industria de la construcción, y la Ley 5/1995, de 7 de junio, de regulación de las aguas minerales, termales, de manantial y de los establecimientos balnearios. Sin embargo, esta normativa tiene un alcance sectorial y no proporciona un marco normativo general que permita desarrollar las competencias autonómicas en materia minera y dotar de un marco organizativo-institucional actualizado a la Xunta de Galicia.
+Al mismo tiempo, la legislación ambiental aprobada con posterioridad a la legislación estatal de minas, en materia de residuos, control integrado de la contaminación, impacto ambiental, evaluación ambiental estratégica y otras, debe ponerse en relación con la normativa de la minería y conformar una regulación integrada que permita un desarrollo sostenible de las actividades extractivas.
+La regulación vigente desconoce un nuevo reparto competencial entre el Estado y las comunidades autónomas, está desfasada desde el punto de vista organizativo y no responde a las necesidades de planificación estratégica del sector, ni ofrece un marco de intervención administrativa ágil y moderno.
+Se hace, por tanto, necesaria una legislación propia que permita un desarrollo sostenible y que permita adaptar el sector minero a las singularidades territoriales, ambientales o de estructura de la propiedad de Galicia, y que permita establecer un marco normativo claro y coordinado.
+El establecimiento de normas que regulen las actividades extractivas encaja en un sistema de distribución de competencias en el que corresponde al Estado, de acuerdo con el artículo 149.25 de la Constitución española, la fijación de las bases del régimen minero y a la comunidad autónoma, según el artículo 28.3 del Estatuto de autonomía, el desarrollo legislativo y la ejecución.
+La tardanza estatal en aprobar una norma legal básica en materia de minas hace que se mantenga vigente una legislación estatal sin adaptar al nuevo régimen de distribución de competencias e inadecuada para la situación y los problemas actuales de las actividades extractivas. Esta tardanza, no obstante, no puede impedir el ejercicio legítimo de sus competencias por parte de las comunidades autónomas, aunque la determinación de la extensión de lo básico y de lo que entraría como desarrollo autonómico pueda hacerse más dificultosa.
+La Comunidad Autónoma de Galicia, en virtud de lo establecido en las normas contenidas en el artículo 28 del Estatuto de autonomía, apartado 3 (desarrollo legislativo y ejecución de la legislación del Estado en materia de régimen minero y energético); en el artículo 27, apartados 14 (aguas minerales y termales), 30 (normas adicionales sobre protección del medio ambiente) y 5 (normas procesales y procedimientos que se deriven del derecho específico gallego); en el artículo 37 y siguientes (régimen jurídico), y en el artículo 44, apartado 1 (hacienda pública gallega), tiene competencia para dictar su propia normativa en materia de minas.
+Con base en estos títulos competenciales, Galicia es competente para definir el marco organizativo de intervención en el sector, estableciendo los órganos autonómicos llamados a definir las políticas públicas en esta materia, así como a ejercer las funciones de planificación de la actividad extractiva, de fomento del sector, de otorgamiento de los títulos jurídicos habilitantes del aprovechamiento de derechos mineros y de disciplina minera mediante los procedimientos administrativos precisos para la ordenación de la minería.
+Finalmente, es preciso destacar que las bases estatales del régimen minero, que, a falta de aprobación de la legislación pertinente, deberían estar conformadas-de acuerdo con los títulos competenciales que figuran en la Constitución-por la concreción del ámbito de aplicación de la legislación minera, la definición de lo que se entiende por actividad extractiva, la fijación del concepto de técnica minera y el establecimiento de los criterios de clasificación, son respetadas en la presente ley.
+El título I establece el objeto, ámbito de aplicación y principios orientadores de la ley, situando como eje vertebrador la sostenibilidad para garantizar la protección del medio por la gran repercusión que esta actividad tiene sobre el suelo, el agua y el aire.
+En el título II se define el reparto de competencias entre los diversos órganos de la Xunta y se regula la estructura organizativa específica, destacadamente el Consejo de la Minería de Galicia y los registros pertinentes. El Consejo de la Minería de Galicia se crea como órgano colegiado de participación, consulta y asesoramiento de la administración en materia de minería, para lo que se le atribuyen funciones de informe preceptivo en las principales normas e instrumentos de planificación del sector minero, así como otras de asesoramiento. El Registro Minero de Galicia inscribirá todos los derechos mineros autorizados o concedidos en el territorio de la Comunidad Autónoma de Galicia y el Registro de Solicitudes de Derechos Mineros determinará la prioridad de los derechos en función de su fecha de solicitud.
+El título III establece el Plan sectorial de actividades extractivas de Galicia como máximo instrumento de planificación de la política minera, que tendrá naturaleza de un plan sectorial de incidencia supramunicipal, al objeto de establecer los principios y directrices para la ordenación minera de Galicia basada en criterios de estabilidad y sostenibilidad.
+El título IV regula el procedimiento de otorgamiento y contenido de los derechos mineros. Se establece un procedimiento integrado de otorgamiento que simplifica la intervención administrativa y, al mismo tiempo, garantiza la coordinación interadministrativa e interorgánica. Esta integración procedimental permite que el otorgamiento de derechos mineros se realice en atención a los requerimientos ambientales y urbanísticos y a las competencias concurrentes. Para las personas solicitantes de los derechos mineros se mejora y se agiliza la gestión administrativa y se dota el procedimiento de unas mayores garantías y transparencia. Asimismo, se definen el contenido y vigencia de los derechos mineros y su compatibilidad con otros usos o aprovechamientos pudiendo limitar o condicionar la Administración minera el ejercicio de los derechos de prioridad por razones ambientales, urbanísticas u otras que sean de su competencia. La ley prevé la necesidad de constitución de garantías financieras para responder de la viabilidad de los trabajos mineros y del Plan de restauración ambiental, así como la suscripción de un seguro de responsabilidad civil para hacer frente a los daños que puedan causar las actividades extractivas. También se regula el concurso de derechos mineros definiendo el contenido mínimo de la convocatoria y previsiones en cuanto a la resolución.
+El fomento de la minería se regula en el título V orientando la acción de la administración hacia la innovación tecnológica que permita la mejora en el aprovechamiento de los recursos mineros, la minimización de los residuos y de las emisiones y el cierre de los ciclos productivos. Para ello se prevén actuaciones en materia de investigación y formación, incentivos económicos y la declaración de municipios mineros.
+El título VI, bajo la rúbrica de disciplina minera, establece las previsiones necesarias para efectuar la inspección minera con plenas garantías para los administrados o administradas y para una adecuada determinación de los hechos. También recoge una regulación específica de algunos aspectos del régimen sancionador y el catálogo de infracciones y sanciones.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su Presidencia, promulgo en nombre del Rey, la Ley de ordenación de la minería de Galicia.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto el desarrollo del régimen jurídico de las actividades mineras en Galicia en condiciones de sostenibilidad y seguridad promoviendo un aprovechamiento racional compatible con la protección del medio ambiente.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente ley es de aplicación a las siguientes actividades:
+a) A la exploración, investigación, explotación y aprovechamiento de los recursos minerales y demás recursos geológicos situados en Galicia.
+b) Al aprovechamiento de recursos geotérmicos y de formaciones geológicas superficiales o subterráneas.
+c) A la preparación para la entrega a los mercados de los minerales y recursos extraídos.
+d) A la gestión de los residuos producidos en las actividades extractivas.
+e) A la recuperación ambiental de los terrenos afectados por labores mineras, así como a las condiciones y requisitos del abandono de la actividad minera.
+f) A la actividad administrativa de apoyo para la mejora e innovación en las actividades mineras, a fin de disminuir el impacto sobre los recursos naturales y la valorización integral de los recursos producidos en la búsqueda del cierre del ciclo productivo en Galicia.
+2. Están excluidas del ámbito de aplicación de la presente ley las siguientes materias:
+a) La exploración, investigación, explotación y almacenamiento subterráneo de hidrocarburos líquidos y gaseosos.
+b) La extracción ocasional y de escasa importancia de recursos minerales, cualquiera que sea su clasificación, siempre que se lleve a cabo por la persona propietaria de un terreno para su uso exclusivo y no exigiese la aplicación de ninguna técnica minera.
+c) Las aguas reguladas en la Ley 5/1995, de 7 de junio, de regulación de las aguas minerales, termales, de manantial y de los establecimientos balnearios de la Comunidad Autónoma de Galicia.
+d) Cualquier aprovechamiento de recursos geotérmicos de escasa importancia económica, en particular a los que se diera utilidad en calefacción, climatización doméstica o industrial y/o agua caliente sanitaria, basados en sistemas geotérmicos de muy baja entalpía, con intercambiadores en circuito cerrado, hasta 200 metros de profundidad, siempre que se llevase a cabo por la persona propietaria del terreno para su uso exclusivo y que el aprovechamiento no exigiese la aplicación de ninguna técnica minera.
+Todo ello sin perjuicio de que los trabajos subterráneos necesarios estarán sometidos a autorización previa de las jefaturas territoriales de la consejería competente en materia de energía y minas, tal y como ya contempla el artículo 18.2 del Decreto 402/1996, de 31 de octubre, por el que se aprueba el Reglamento de aprovechamiento de las aguas mineromedicinales, termales y de los establecimientos balnearios de la Comunidad Autónoma de Galicia.
+e) El aprovechamiento lúdico de las aguas termales, que se regirá por lo dispuesto en la Ley 8/2019, de 23 de diciembre, de regulación del aprovechamiento lúdico de las aguas termales de Galicia, sin perjuicio de lo dispuesto en la disposición final tercera de la presente ley.
+Se modifica el apartado 2 por la disposición final 2 de la Ley 8/2019, de 23 de diciembre. Ref. BOE-A-2020-1850#df-2
+ Se añade la letra d) al apartado 2 por el art. 78 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a7-10
+
+### Artículo 3
+
+Artículo 3. Principios.
+Son principios que inspiran la presente ley:
+a) La planificación minera en el marco de la ordenación de la economía y del territorio.
+b) La gestión sostenible de los recursos mineros.
+c) La innovación tecnológica orientada a la sostenibilidad y la valorización plena de los recursos mineros.
+d) La mejora de las condiciones de seguridad y salud laborales.
+e) La colaboración y cooperación de las diferentes administraciones públicas.
+f) La participación en la política minera de los sectores sociales y económicos implicados, los cuales integrarán activamente la dimensión de la igualdad de oportunidades entre mujeres y hombres.
+
+## TÍTULO II
+
+Organización administrativa y competencias
+
+## CAPÍTULO I
+
+La Administración de la Xunta de Galicia
+
+### Artículo 4
+
+Artículo 4. El Consejo de la Xunta.
+Al Consejo de la Xunta, como órgano superior de dirección y coordinación de la política minera de la Comunidad Autónoma de Galicia, corresponde:
+a) Aprobar el Plan sectorial de actividades extractivas de Galicia, así como sus modificaciones o revisiones, a propuesta de la consejería competente en materia de minas.
+b) Garantizar la coordinación de los distintos departamentos autonómicos con incidencia en la minería.
+c) Acordar con carácter excepcional, previa justificación del interés público, el otorgamiento de derechos mineros en caso de existencia de informes preceptivos desfavorables, si fuera el caso.
+d) Establecer las líneas de cooperación con las demás administraciones públicas.
+e) Resolver sobre la prevalencia de utilidades públicas incompatibles cuando se vean afectadas competencias atribuidas a distintas consejerías.
+f) Aprobar la declaración de municipios mineros.
+
+### Artículo 5
+
+Artículo 5. La consejería competente en materia de minas.
+Corresponderá a la consejería que tenga atribuida la competencia en materia de minería:
+a) Promover y planificar la actividad minera en Galicia elaborando el Plan sectorial de actividades extractivas de Galicia y aquellos otros planes que sean precisos para un desarrollo sostenible de esta actividad.
+b) Otorgar las concesiones, permisos y autorizaciones, en los términos de la legislación básica estatal, necesarios para el desarrollo de actividades extractivas.
+c) Ejercer las competencias relativas a la seguridad minera.
+d) Inspeccionar el cumplimiento de las condiciones técnicas, de seguridad y ambientales de las actividades extractivas o de cualquier otra actividad que utilice técnicas mineras.
+e) Impulsar la mejora de las explotaciones mineras potenciando sus competencias técnicas, medioambientales, comerciales y organizativas.
+f)   Ejercer la potestad sancionadora en los términos establecidos en la presente ley.
+g) El desarrollo competitivo y sostenible del tejido empresarial minero gallego.
+
+## CAPÍTULO II
+
+El Consejo de la Minería de Galicia
+
+### Artículo 6
+
+Artículo 6. Creación y régimen jurídico.
+1. Se crea el Consejo de la Minería de Galicia como órgano colegiado de participación, consulta y asesoramiento de la administración competente en materia de minería.
+2. El consejo estará adscrito a los efectos administrativos a la consejería competente en materia de minería. La organización y régimen jurídico del consejo, así como el carácter de sus informes, se determinarán reglamentariamente garantizando un funcionamiento transparente, una periodicidad adecuada y la participación activa de todos sus miembros.
+
+### Artículo 7
+
+Artículo 7. Funciones.
+Corresponden al Consejo de la Minería de Galicia las siguientes funciones:
+a) Emitir informe sobre los anteproyectos de ley, sobre los proyectos de reglamentos con incidencia en la minería y sobre el Plan sectorial de actividades extractivas de Galicia.
+b) Asesorar sobre los planes y programas que la presidencia le proponga en razón a la importancia de su incidencia sobre la minería.
+c) Emitir informes y efectuar propuestas en materia de minería, a iniciativa propia.
+d) Proponer medidas para un mejor desarrollo de la política minera.
+e) Impulsar la coordinación entre la iniciativa pública y privada en materia de minería.
+f) Informar sobre cuantos asuntos en materia minera sean sometidos a su consideración por la consejería competente en materia de minería y las que reglamentariamente se le atribuyan.
+g) Conocer de la evolución del empleo en el sector de la minería, de las sanciones firmes derivadas de los incumplimientos de la presente ley y de las estadísticas de siniestrabilidad del sector y subsectores de la minería.
+h) Efectuar el seguimiento del grado de cumplimiento de todas las iniciativas encaminadas a mejorar la calidad del empleo en la minería de Galicia, incrementar la seguridad laboral e impulsar la formación de los trabajadores y trabajadoras del sector en nuestra Comunidad.
+i) Ser informado anualmente respecto a los expedientes administrativos tramitados con arreglo al procedimiento dispuesto en el título IV de la presente ley.
+j) Todas aquellas funciones que le sean atribuidas por una ley.
+
+### Artículo 8
+
+Artículo 8. Composición.
+1. El Consejo de la Minería de Galicia estará compuesto por las siguientes personas:
+a) Presidencia: la persona titular de la consejería competente en materia de minas o la persona en quien delegue.
+b) Vicepresidencia: la persona titular del centro directivo competente en materia de minas o la persona en quien delegue.
+c) Secretaría: la persona titular de la Subdirección General de Recursos Minerales o la persona en quien delegue.
+d) Vocalías. El Consejo incluirá a las siguientes personas vocales:
+1.° Una persona representante de la consejería competente en materia de minas.
+2.° Una persona representante de la consejería competente en materia de industria.
+3.° Una persona representante del centro directivo de la Administración autonómica competente en materia de planificación energética.
+4.° Una persona representante del centro directivo de la Administración autonómica competente en materia de seguridad y salud laboral.
+5.° Una persona representante del centro directivo de la Administración autonómica competente en materia de salud pública.
+6.° Una persona representante del centro directivo de la Administración autonómica competente en materia de patrimonio natural.
+7.° Una persona representante del centro directivo de la Administración autonómica competente en materia de patrimonio cultural.
+8.° Una persona representante del centro directivo de la Administración autonómica competente en materia de dominio público hidráulico.
+9.° Una persona representante del centro directivo de la Administración autonómica competente en materia de ordenación del territorio.
+10.° Una persona representante del centro directivo de la Administración autonómica competente en materia de planificación de extensión agraria.
+11.° Una persona representante del centro directivo de la Administración autonómica competente en materia de planificación y ordenación forestal.
+12.° Una persona representante de los municipios mineros gallegos, designada por acuerdo de los ayuntamientos que tengan reconocida dicha condición.
+13.° Una persona representante de cada uno de los colegios profesionales de ingenieros de minas, ingenieros técnicos de minas y geólogos, en cuyo ámbito territorial de actuación se encuentre la Comunidad Autónoma de Galicia.
+14.° Una persona representante de la asociación con mayor representatividad en Galicia del sector de la pizarra.
+15.° Una persona representante de la asociación con mayor representatividad en Galicia del sector del granito.
+16.° Una persona representante de la asociación con mayor representatividad en Galicia del sector de los áridos.
+17.° Una persona representante de la Federación Gallega de Municipios.
+18.° Una persona representante de la asociación con mayor representatividad en Galicia del sector de las aguas minerales.
+19.° Una persona representante de la asociación con mayor representatividad en Galicia del sector de los balnearios.
+20.° Una persona representante de la asociación con mayor representación en Galicia del sector de los materiales cerámicos.
+21.° Tres personas representantes de la Cámara Oficial Minera de Galicia.
+22.° Tres personas representantes de las organizaciones sindicales intersectoriales más representativas en la Comunidad Autónoma de Galicia, en aplicación de lo previsto por la Ley 17/2008, de 29 de diciembre, de participación institucional de las organizaciones sindicales y empresariales más representativas de Galicia.
+23.° Tres personas representantes de las organizaciones o asociaciones empresariales intersectoriales más representativas en la Comunidad Autónoma de Galicia, según lo previsto en la Ley 17/2008, de 29 de diciembre.
+2. El Consejo podrá acordar, por mayoría simple, que a sus sesiones asistan otras personas en representación de los órganos, colegios profesionales, asociaciones u organizaciones sindicales y empresariales cuya asistencia se considere necesaria o conveniente para tratar los asuntos incluidos en el orden del día. Dichas personas podrán asistir a las sesiones del Consejo y ser escuchadas, pero no podrán participar en las deliberaciones y, en su caso, en las votaciones.
+Además, las personas integrantes del órgano colegiado podrán contar con el asesoramiento de las personas técnicas en las distintas materias que se considere conveniente, para la correcta realización de sus funciones. Dichas personas podrán asistir a las sesiones del Consejo y ser escuchadas, pero no podrán participar en las deliberaciones y, en su caso, en las votaciones.
+3. Los miembros y la persona que ejerza la secretaría del Consejo serán nombrados y separados por la persona titular de la consejería competente en materia de minas, a propuesta de las correspondientes consejerías, órganos administrativos u organizaciones representativas de intereses sociales.
+En su composición se procurará la presencia equilibrada entre mujeres y hombres.
+La duración del mandato será de cuatro años para los miembros y los suplentes que no actúen en representación de la Administración autonómica.
+4. El Consejo se reunirá, al menos, una vez al año, mediante convocatoria de la persona titular de su presidencia. Además, podrá reunirse cuantas veces se considere necesario, a instancia de la misma persona o a solicitud de, por lo menos, un tercio de sus miembros.
+5. El Consejo establecerá, en el marco de este artículo, su propio reglamento de organización y funcionamiento.
+6. El Pleno del Consejo de la Minería de Galicia podrá crear en su seno los grupos de trabajo que considere conveniente.
+Se modifica por el art. 54.1 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+## CAPÍTULO III
+
+Registro Minero de Galicia
+
+### Artículo 9
+
+Artículo 9. Registro Minero de Galicia.
+1. Se crea el Registro Minero de Galicia, en el que se inscribirán todos los derechos mineros autorizados o concedidos en el territorio de la Comunidad Autónoma de Galicia. La inscripción se practicará de oficio e incluirá, con el suficiente desglose, el tipo de derecho minero, su titular, extensión, delimitación y plazo de vigencia.
+2. Los datos reflejados en el Registro Minero de Galicia se incorporarán al Catastro Minero de Galicia, que constituirá información de apoyo para la gestión interna y la definición de la política minera de la Comunidad Autónoma. La gestión del Catastro Minero de Galicia corresponde a la Cámara Oficial Minera de Galicia.
+3. El Registro Minero de Galicia será público, según las condiciones que se establezcan reglamentariamente.
+Se modifica el apartado 2 por el art. 46.1 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#a4-8
+
+### Artículo 10
+
+Artículo 10. Registro de Solicitudes de Derechos Mineros.
+1. La consejería competente en materia de minas llevará un registro de solicitudes de permisos, autorizaciones y concesiones de derechos mineros.
+2. En este registro, que se articulará como una sección independiente dentro del Registro Minero de Galicia, se inscribirán las solicitudes en el orden en el que fueron presentadas.
+3. La prioridad para la tramitación de los derechos mineros se determinará por el orden de inscripción en el Registro de Solicitudes de Derechos Mineros.
+
+## TÍTULO III
+
+Planificación de la minería
+
+### Artículo 11
+
+Artículo 11. Plan sectorial de actividades extractivas de Galicia.
+1. El Plan sectorial de actividades extractivas de Galicia se configura como un plan sectorial de incidencia supramunicipal de los regulados en la Ley 10/1995, de 23 de noviembre, de ordenación del territorio de Galicia. Como máximo instrumento de planificación de la política minera tiene por objeto establecer los principios y directrices para la ordenación minera de Galicia, basada en criterios de estabilidad y sostenibilidad, así como la normativa necesaria para desarrollar los ejes básicos de actuación administrativa en Galicia en el sector propiciando la coordinación de las acciones, su desarrollo sostenible, la mejora tecnológica y la diversificación económica.
+2. Las determinaciones del Plan sectorial de actividades extractivas de Galicia serán directamente aplicables y prevalecerán de forma inmediata sobre las del planeamiento urbanístico, que habrá de ser objeto de adaptación.
+3. El procedimiento de aprobación del Plan sectorial de actividades extractivas de Galicia se ajustará a lo dispuesto en el artículo 25 de la Ley 10/1995, de 23 de noviembre, de ordenación del territorio de Galicia.
+
+### Artículo 12
+
+Artículo 12. Criterios orientadores.
+Los criterios que inspirarán el Plan sectorial de actividades extractivas de Galicia serán los siguientes:
+a) El establecimiento de las bases del desarrollo de una minería sostenible.
+b) La identificación de zonas con potencial minero.
+c) La mejora de la seguridad de las explotaciones mineras y de sus establecimientos de beneficio.
+d) La armonización de la actividad extractiva con el resto de los usos del suelo dentro del marco de la ordenación territorial, agraria y ambiental.
+e) El aprovechamiento ordenado y sostenible de los recursos mineros de manera compatible con la protección del medio natural y el patrimonio cultural.
+f) La racionalización del empleo de recursos naturales y de residuos a través de la implantación de las mejores técnicas disponibles y la valorización.
+g) La promoción de la investigación, el desarrollo y la innovación en las propiedades y aplicaciones de los materiales, así como en los procesos de producción, tratamiento y aprovechamiento de subproductos.
+h) La búsqueda de una mayor vinculación de la minería con la mejora de la economía de las zonas en que se sitúen las explotaciones y el fomento de la creación de empleo.
+i) El asesoramiento, información y colaboración con las administraciones locales, entes privados y organizaciones empresariales y sindicales en cuestiones relacionadas con las actividades mineras y el desarrollo empresarial.
+j) La mejora de la productividad de las empresas del sector minero y el apoyo a la implantación de industrias que permitan el cierre de todos los ciclos de transformación de los materiales mineros extraídos en Galicia.
+k) La máxima simplificación administrativa en la tramitación de los expedientes mineros.
+l) El carácter temporal de la explotación minera respecto a la ordenación del territorio y los usos del suelo.
+
+### Artículo 13
+
+Artículo 13. Contenido del Plan sectorial de actividades extractivas de Galicia.
+Sin perjuicio del contenido establecido en el artículo 23 de la Ley 10/1995, de 23 de noviembre, de ordenación del territorio de Galicia, el Plan sectorial de actividades extractivas de Galicia contendrá, en todo caso:
+a) Un diagnóstico de la minería en Galicia que incluya referencias a los recursos existentes y en investigación, a los derechos mineros, a los efectos de la minería sobre el entorno económico, social y ambiental, a la localización de las explotaciones, al empleo en el sector con indicación de las condiciones laborales existentes y a las repercusiones ambientales más relevantes de las explotaciones existentes.
+b) La coordinación con los instrumentos de protección ambiental y patrimonio cultural con la determinación de los ámbitos incompatibles con actividades extractivas por las necesidades de preservación de dichos bienes sociales.
+c) La fijación de objetivos de desarrollo del sector teniendo en cuenta los condicionamientos territoriales, agrarios y ambientales y el objetivo de diversificación y cierre del ciclo productivo.
+d) Las líneas de actuación y los programas específicos, destacadamente los destinados a municipios mineros, de acuerdo con los principios de actuación de la presente ley.
+e) Los instrumentos financieros y de gestión para la ejecución del plan y las líneas directrices de las medidas de fomento de la minería que deberán estar presididas por los objetivos que fija la presente ley.
+f) Las bases de la investigación minera para alcanzar una extracción, preparación y puesta en mercado eficiente y sostenible de los recursos minerales.
+g) Las acciones encaminadas a mejorar la calidad del empleo en el sector, incrementando la seguridad y potenciando la formación de los trabajadores y trabajadoras, así como la incorporación de mujeres a un sector en el que están infrarrepresentadas a través de políticas de acción positivas.
+h) La valoración económica de las actuaciones previstas.
+
+### Artículo 14
+
+Artículo 14. Participación de la consejería competente en materia de minas en instrumentos de planificación.
+1. Para la elaboración de instrumentos de planificación con incidencia en la minería se tendrán en cuenta las solicitudes y los derechos mineros otorgados o concedidos en el territorio de la Comunidad Autónoma de Galicia, para lo cual será obligatorio solicitar un certificado del Catastro Minero de Galicia.
+2. Todas las figuras de planeamiento urbanístico o territorial con incidencia en la minería habrán de someterse a informe vinculante de la consejería competente en materia de minas, con posterioridad a su aprobación inicial. El informe deberá ser emitido en el plazo de tres meses, transcurrido el cual se entenderá favorable.
+En caso de ser desfavorable, el informe indicará expresamente los preceptos legales vulnerados.
+3. Cualquier prohibición contenida en los instrumentos de ordenación sobre actividades incluidas en la Ley 22/1973, de 21 de julio, de minas, y en la presente ley habrá de ser motivada, no pudiendo ser de carácter genérico.
+Se modifica el apartado 1 y se renumeran el resto de los apartados como 2 y 3 por el art. 46.2 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#a4-8
+ Su anterior numeración eran apartados 1 y 2.
+ Se modifica por la disposición final 4 de la Ley 2/2016, de 10 de febrero. Ref. BOE-A-2016-3191#dfcuaa
+ Esta modificación entra en vigor el 19 de marzo de 2016, según establece la disposición final 6 de la citada ley.
+
+## TÍTULO IV
+
+Derechos mineros
+
+### Artículo 15
+
+Artículo 15. Derechos mineros.
+1. Los derechos mineros que se otorguen o se soliciten en el territorio de la Comunidad Autónoma de Galicia se ajustarán a lo dispuesto en el presente título.
+2. Son derechos mineros regulados en la legislación específica minera:
+a) Las autorizaciones de aprovechamiento de recursos de la sección A).
+b) Las autorizaciones y concesiones de recursos de la sección B).
+c) Los permisos de exploración, permisos de investigación y concesiones mineras de los recursos C) y D).
+3. Con las especialidades previstas en la presente ley, se establece un procedimiento unitario e integrado para el otorgamiento de todos los derechos mineros en el territorio de la comunidad autónoma, con independencia del tipo de recurso y de la actividad minera desarrollada.
+
+### Artículo 16
+
+Artículo 16. Órgano minero competente.
+1. Sin perjuicio de las funciones atribuidas al Consejo de la Xunta de Galicia en el artículo 4 de la presente ley, el órgano minero competente es la persona titular de la consejería competente en materia de minas de la Comunidad Autónoma de Galicia, a quien corresponde otorgar los derechos mineros, autorizar sus modificaciones, transmisiones, renovaciones y prórrogas, declarar su caducidad, así como realizar la convocatoria y la resolución de los concursos para la adjudicación de terrenos no registrables.
+2. El órgano minero competente velará para que el otorgamiento de los derechos mineros respete las prescripciones de la normativa minera, ambiental, agraria y de ordenación del territorio, y cualquier otra que resulte de aplicación.
+3. En caso de aprovechamientos inmediatos directamente asociados a proyectos de obras públicas y que no impliquen beneficio de recursos en el territorio de la Comunidad Autónoma de Galicia corresponderá al órgano competente para la aprobación del correspondiente proyecto de construcción, cualquiera que sea el sistema de ejecución, su autorización, mediante el cumplimiento de las prescripciones de la presente ley.
+Dichos órganos notificarán a la consejería competente en materia de minas el inicio y finalización de los trabajos referidos, así como, anualmente, informarán de las cantidades de materiales extraídos.
+
+## CAPÍTULO I
+
+Procedimiento de otorgamiento de los derechos mineros
+
+### Artículo 17
+
+Artículo 17. Actuaciones previas.
+Con carácter previo al inicio del procedimiento para el otorgamiento de derechos mineros sometidos a evaluación ambiental, la persona promotora podrá solicitar, a través del órgano minero, la elaboración del documento de alcance del estudio de impacto ambiental, para lo cual habrá de presentar el documento inicial del proyecto de conformidad con la legislación de evaluación ambiental vigente.
+Se modifica por la disposición final 6.1 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+ Se modifica la letra k) y se añade la letra l) al apartado 1 por el art. 79 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a7-11
+
+### Artículo 18
+
+Artículo 18. Solicitudes de derechos mineros.
+1. Toda solicitud de derechos mineros incluirá, al menos, la siguiente documentación:
+a) Un modelo normalizado de solicitud.
+b) Una memoria, que comprenderá el proyecto de exploración, investigación o explotación y los proyectos de instalaciones mineras y procesos productivos, cuyo contenido se establecerá reglamentariamente.
+c) Un informe de viabilidad y solvencia, que acredite que la persona solicitante reúne los requisitos exigidos en la legislación minera para poder ser titular de derechos mineros, especialmente su solvencia económica y técnica.
+La justificación de la solvencia económica de la persona solicitante podrá acreditarse por uno o varios de los medios siguientes:
+– Tratándose de personas jurídicas, la presentación de las cuentas anuales o extracto de las mismas.
+– Una declaración relativa a la cifra de negocios global y de los trabajos mineros realizados por la persona solicitante en el curso de los cinco últimos años.
+– Cualquier otra documentación considerada como suficiente por el órgano minero competente.
+La solvencia técnica de la persona solicitante podrá acreditarse por uno o varios de los medios siguientes:
+– Titulaciones académicas y profesionales y experiencia de los efectivos personales de la empresa.
+– Una declaración de los medios materiales y equipo técnico de los que dispondrá la persona solicitante para la ejecución de su programa minero.
+– Una declaración sobre los efectivos personales de la empresa, indicando, en su caso, el grado de estabilidad en el empleo de los mismos y la importancia de sus equipos directivos durante los últimos cinco años.
+– Cualquier otra documentación establecida reglamentariamente.
+d) En caso de los derechos mineros sometidos a evaluación ambiental, el correspondiente documento ambiental de conformidad con lo establecido en la legislación vigente.
+e) Un plan de seguridad y salud laboral.
+f) Un plan de restauración del espacio afectado por las actividades mineras.
+g) Un calendario de ejecución y presupuesto.
+h) Planos.
+i) Anexos.
+j) En su caso, la documentación exigida por la normativa sectorial correspondiente a eventuales autorizaciones necesarias de otras administraciones públicas.
+k) Certificado municipal sobre la situación urbanística del lugar donde se pretende llevar a cabo a explotación.
+l) Cualquier otra documentación e información acreditativa del cumplimiento de requisitos establecidos en la legislación sectorial de aplicación.
+2. La solicitud de los derechos mineros se acompañará de un resumen no técnico de todas las indicaciones especificadas en el apartado anterior, para facilitar su comprensión a efectos del trámite de información pública.
+3. La determinación de los datos que, a juicio de la persona solicitante, gocen de secreto profesional y de propiedad intelectual e industrial, así como los que estén sujetos a protección de carácter personal y confidencialidad de acuerdo con las disposiciones vigentes.
+Se modifica por la disposición final 6.2 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 19
+
+Artículo 19. Condiciones especiales de la solicitud de derechos mineros de la sección A).
+Además de la documentación exigida en el artículo 18, la solicitud de derechos mineros de la sección A) se acompañará de la documentación que acredite el derecho al aprovechamiento cuando el yacimiento se encuentre en terrenos de propiedad privada, de conformidad con la legislación específica de minas. Cuando el yacimiento se encuentre en terrenos de propiedad pública, será necesario el oportuno título habilitante de la Administración titular.
+Se modifica por la disposición final 6.3 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 19 bis
+
+Artículo 19 bis. Solicitudes de reclasificación de derechos mineros de la sección A).
+1. El procedimiento de reclasificación se iniciará mediante la presentación de solicitud, a la que se acompañará la documentación que justifique el cumplimiento de alguno de los supuestos que permiten exceptuar la clasificación de la explotación en la sección A), según lo previsto en el segundo apartado del artículo 1.1.a), así como la superación de alguno de los umbrales del artículo 1.1.b) del Real decreto 107/1995, de 27 de enero, por el que se fijan criterios de valoración para configurar la sección A) de la Ley de minas, o norma que la sustituya.
+La Administración, después de comprobar y analizar el cumplimiento de los requisitos anteriores, procederá a la resolución de clasificación del recurso en la sección C), con aplicación del tratamiento fiscal previsto en el Real decreto 107/1995, de 27 de enero.
+2. Una vez clasificado el recurso o yacimiento, se comunicará a la persona interesada y se procederá a la tramitación de la solicitud de la correspondiente concesión de explotación. En caso de que la superficie ocupada por la explotación de la sección A) no alcance la superficie mínima requerida por la ley, se podrá ampliar la solicitud hasta completar la cuadrícula minera, siempre que el nuevo terreno tenga la consideración de franco. Dicha solicitud se someterá a información pública, así como a trámite de audiencia de todas las personas titulares de autorizaciones de explotación de recursos de la sección A) situadas en las cuadrículas mineras que pudieran verse afectadas.
+Deberán rechazarse motivadamente aquellas solicitudes que afecten a recursos distintos de los que se hayan venido aprovechando al amparo de la autorización de explotación de la sección A) y todas aquellas que, dadas las circunstancias apreciadas por el órgano minero competente, hayan sido formuladas con manifiesto abuso de derecho o entrañen fraude de ley.
+3. Los terrenos francos que no reúnan las condiciones mínimas de extensión serán considerados como demasías y se otorgarán de conformidad con la disposición transitoria séptima de la Ley 22/1973, de 21 de julio, de minas, y el artículo 57 del Reglamento general para el régimen de la minería, aprobado por el Real decreto 2857/1978, de 25 de agosto.
+Los terrenos que estén ocupados por derechos de la sección C) o D) que hayan sido caducados se considerarán francos desde el momento en que la citada declaración de caducidad adquiera firmeza en vía administrativa.
+4. Si los terrenos donde están ubicadas las explotaciones no fuesen francos, se les reconocerá tal circunstancia, manteniendo la autorización de explotación exclusivamente para el recurso o recursos de que se trate, que se regulará por las normas del título III de la Ley 22/1973, de 21 de julio, sin perjuicio de los derechos del peticionario o titular del permiso de investigación o concesión de explotación a los demás recursos de la sección C).
+Desaparecidas las causas que impedían que el terreno fuese franco, se le notificará esta circunstancia a la persona titular de la autorización a que se refiere el apartado anterior para que pueda transformar la autorización en concesión de explotación, con pleno derecho a aprovechar los recursos que hayan sido reclasificados.
+5. Aquellas solicitudes que incluyan nuevas superficies distintas de las autorizadas previamente para su explotación o que supongan un cambio sustancial en el proyecto de explotación o plan de restauración aprobado, en su momento, para el otorgamiento de la autorización de explotación de la sección A), estarán sujetas a lo dispuesto en el artículo 18, y en este caso deberán someterse al trámite ambiental que les sea se aplicación.
+Se modifica por el art. 54.2 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+ Se añade por el art. 38 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Artículo 20
+
+Artículo 20. Condiciones especiales de la solicitud de derechos mineros de la sección B).
+Además de la documentación exigida en el artículo 18, la solicitud de derechos mineros sobre yacimientos de origen no natural, estructuras subterráneas y huecos resultantes de canteras exigirá la declaración previa de su calificación como recursos de la sección B), realizada por el órgano minero competente.
+Se modifica por la disposición final 6.4 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 21
+
+Artículo 21. Condiciones especiales para la declaración de la utilidad pública o interés social, en concreto, y la necesidad de ocupación.
+1. En aquellos casos en que la Ley 22/1973, de 21 de julio, de minas, o norma que la sustituya, declara implícita la utilidad pública en el otorgamiento del derecho minero, la persona promotora del mismo podrá solicitar la declaración de la necesidad de ocupación de los bienes o derechos que sean indispensables para el inicio del proyecto, sin perjuicio de la posibilidad de futuros expedientes expropiatorios para el desarrollo de la totalidad del proyecto.
+Para lo anterior deberá presentarse, junto con la documentación contemplada en el artículo 18, una relación concreta e individualizada, en la que se describan, en todos los aspectos, material y jurídico, los bienes o derechos que se estime de necesaria ocupación.
+2. En aquellos casos en que la Ley 22/1973, de 21 de julio, de minas, o norma que la sustituya, contemple la posibilidad de la declaración de la utilidad pública, la persona promotora del derecho minero podrá solicitar la declaración de utilidad pública o interés social, en concreto, y de la necesidad de ocupación de los bienes o derechos que sean indispensables para el inicio del proyecto o la construcción de la instalación, sin perjuicio de la posibilidad de futuros expedientes expropiatorios para el desarrollo de la totalidad del proyecto.
+Para lo anterior deberá presentarse, junto con la documentación contemplada en el artículo 18, una justificación de la importancia y de las razones para la declaración de la utilidad pública, en concreto, incluyendo una relación concreta e individualizada de los bienes y derechos que la persona solicitante estime de necesaria expropiación, en la que se justificarán los motivos por los que no ha sido posible llegar a un acuerdo que la evite.
+3. El órgano minero realizará la publicación de la relación de bienes y derechos en el Boletín Oficial del Estado, en el de la provincia respectiva y en uno de los diarios de mayor circulación de la provincia, si lo hubiese, comunicándola además a los ayuntamientos en cuyo término municipal radique el bien o derecho a ocuparse para su exposición en el tablón de anuncios, para que dentro de un plazo de quince días, a contar a partir de la última publicación, las personas interesadas puedan formular alegaciones sobre la procedencia de la ocupación o disposición de los bienes y su estado material o legal.
+Se notificará individualmente a cada persona titular de derechos o bienes afectados, que podrán, durante el transcurso del plazo fijado en el párrafo anterior, aportar cuantos datos permitan la rectificación de los posibles errores que se estimen cometidos en la relación que se haya hecho pública.
+4. La resolución que otorgue el derecho minero así tramitado declarará, en su caso, la utilidad pública o interés social, en concreto, y la necesidad de ocupación de los terrenos a los efectos de la Ley de 16 de diciembre de 1954 sobre expropiación forzosa, o norma que la sustituya, iniciando el expediente expropiatorio, sin perjuicio de la posibilidad de convenir la adquisición de los bienes o derechos que son objeto de la misma libremente y por mutuo acuerdo. En este último caso, una vez convenidos los términos de la adquisición amistosa, se dará por concluido el expediente expropiatorio.
+Se modifica por la disposición final 6.5 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 22
+
+Artículo 22. Subsanación de las solicitudes.
+Si la solicitud de iniciación no reúne los requisitos señalados en la presente ley, se requerirá a la persona interesada para que, en un plazo de diez días, subsane la falta o aporte los documentos preceptivos, con indicación de que, si así no lo hiciese, se tendrá por desistida de su petición, previa resolución motivada.
+Se modifica por la disposición final 6.6 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+ Se modifica por el art. 80 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-2
+
+### Artículo 23
+
+Artículo 23. Consulta a las administraciones públicas e información pública.
+1. Una vez completada la documentación, de acuerdo con lo establecido en los artículos anteriores, para los derechos mineros de aprovechamiento o explotación se recabarán los siguientes informes preceptivos:
+a) El informe del ayuntamiento o ayuntamientos que tengan el derecho minero dentro de su término municipal.
+b) El informe del órgano con competencias en materia de medio ambiente.
+c) El informe sobre el patrimonio cultural, cuando proceda.
+d) El informe del órgano con competencias en materia de dominio público hidráulico, cuando proceda.
+e) El informe sobre dominio público marítimo-terrestre, cuando proceda.
+f) Los demás informes que sean preceptivos según las disposiciones legales de aplicación y los que se estimen necesarios para resolver, citándose el precepto que los exigiese o fundamentando, en su caso, la conveniencia de reclamarlos.
+g) El informe del órgano con competencias en materia de ordenación agraria.
+2. Los informes señalados en el apartado anterior habrán de pronunciarse sobre la existencia de usos de interés público de competencia de los órganos que los emitiesen, a los efectos de la tramitación de la correspondiente pieza separada de compatibilidad y, en su caso, prevalencia, según lo establecido en el artículo siguiente.
+3. Los informes habrán de evacuarse en el plazo de un mes desde la recepción del expediente completo. Transcurrido el plazo sin que se hubiesen recibido, el procedimiento continuará si el órgano minero cuenta con elementos de juicio suficientes para determinar la compatibilidad del derecho minero con otros usos de interés público. En este caso, no se tendrán en cuenta los pronunciamientos antes referidos que se recibiesen posteriormente.
+Si el órgano minero no tuviera los elementos de juicio suficientes, bien porque no se recibieron los informes de las administraciones públicas competentes que resulten relevantes o bien porque, habiéndose recibido, estos resultan insuficientes para decidir, requerirá a la persona titular del órgano jerárquicamente superior de aquel que tendría que emitir el informe para que, en el plazo de diez días hábiles, a contar a partir de la recepción del requerimiento, ordene al órgano competente la entrega del correspondiente informe en el plazo de diez días hábiles, sin perjuicio de las responsabilidades en que pudiera incurrir el responsable de demora. En caso de que no se haya recibido el informe transcurrido el plazo anterior, el órgano minero continuará con la tramitación del procedimiento.
+4. Simultáneamente, se abrirá un periodo de información pública que no será inferior a treinta días hábiles, después del anuncio en el "Diario Oficial de Galicia", así como en la página web de la consejería con competencias en materia de minas.
+Durante el plazo indicado, cualquier persona, entidad u organismo afectado podrá presentar cuantas alegaciones estime oportunas.
+5. De las alegaciones y de los informes recibidos en los trámites de información pública y de consultas se dará traslado a la persona solicitante, para que esta formule la contestación al contenido de aquellos en el plazo máximo de quince días hábiles.
+Se modifica el apartado 4 y se añade el 5 por el art. 38.1 y 2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica por la disposición final 6.7 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+ Se modifica por el art. 81 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-3
+
+### Artículo 24
+
+Artículo 24. Compatibilidad de derechos mineros y con usos de interés público.
+1. Si la solicitud de un derecho minero afectara a un derecho minero preexistente o a otros usos de interés público, el órgano minero competente se pronunciará sobre su compatibilidad o incompatibilidad, así como sobre su prevalencia, a través del procedimiento que reglamentariamente se establezca.
+2. Para ello tendrá en cuenta los siguientes criterios:
+a) La viabilidad e interés económico de la solicitud, de acuerdo con la memoria presentada.
+b) Su incidencia en el entorno natural y social, el paisaje y el medio rural.
+c) Su repercusión sobre otras infraestructuras de interés público existentes en el territorio afectado (parques eólicos, líneas eléctricas, gaseoductos.).
+3. Si considera que la solicitud es incompatible con otro derecho minero preexistente, el órgano minero competente dictará resolución motivada, poniendo fin al procedimiento.
+
+### Artículo 25
+
+Artículo 25. Formas de finalización de los procedimientos de otorgamiento de autorizaciones, permisos o concesiones mineras.
+1. Los expedientes sobre los derechos mineros regulados en la presente ley que se tramiten para el otorgamiento de autorizaciones, permisos o concesiones finalizarán por las causas previstas en este artículo y por las previstas en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya.
+2. Pondrán fin al procedimiento la resolución, el desistimiento y la renuncia al derecho en que se fundamente la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y su caducidad.
+3. Finalizado el expediente por cualquiera de las causas previstas en este artículo, así lo hará constar de oficio la consejería competente en materia de minas en el correspondiente Registro Minero de Galicia.
+Se modifica por la disposición final 6.8 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 25 bis
+
+Artículo 25 bis. Formas de finalización de los procedimientos de otorgamiento de autorizaciones, permisos o concesiones mineras.
+(Derogado)
+Se deroga por la disposición derogatoria 1.a) de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#dd
+ Se añade por el art. 82 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-4
+
+### Artículo 26
+
+Artículo 26.
+1. El órgano minero competente dictará la resolución que ponga fin al procedimiento en el plazo máximo de doce meses, incorporando, en su caso, los condicionamientos que resulten de los informes preceptivos.
+La emisión del correspondiente informe por el órgano sectorial competente sustituirá, a todos los efectos, las correspondientes autorizaciones que, con arreglo a la legislación sectorial de aplicación, la persona solicitante esté obligada a recabar de esos órganos consultados en el ejercicio de sus competencias, debiendo adecuarse el contenido del informe a aquel previsto en la normativa sectorial para la correspondiente autorización.
+2. La resolución otorgará o denegará el derecho minero solicitado. Los derechos mineros poderán denegarse motivadamente en los siguientes casos:
+a) La inadecuación de la memoria y demás documentos presentados a los requisitos y condiciones exigidos por la legislación mineira.
+b) La falta de acreditación de la viabilidad de un aprovechamiento racional de los recursos mineros, en función de la existencia de recurso natural mineral en cantidad y calidad.
+c) El incumplimiento de los requisitos subjetivos o la insuficiente acreditación de la solvencia económica o técnica del solicitante.
+d) La inadecuación a la normativa sectorial, de carácter urbanístico, ambiental, agraria u otra, debidamente acreditada en el expediente.
+e) La incompatibilidad y la no prevalencia con otro derecho minero preexistente o con infraestructuras de interés público en el territorio de la Comunidad Autónoma.
+3. La resolución denegatoria en que se motivará la concorrencia de las causas de denegación del artículo 26.2 de esta ley implicará la cancelación de la inscripción correspondiente en el Registro Minero de Galicia sobre el derecho para el otorgamiento de autorizaciones, permisos o concesiones mineras a las que se refiere esta ley.
+4. La resolución que otorgue el derecho minero podrá imponer las condiciones necesarias para su adecuación o compatibilidad con otros intereses dignos de protección.
+Dicha resolución podrá incluir también, con los condicionantes que en su caso procedan, la autorización de escombreras y de establecimientos de beneficio, con la condición de que exista una unidad productiva y de localización física de las instalaciones.
+5. Una vez transcurrido el plazo máximo de doce meses sin que se notifique resolución expresa, podrá entenderse desestimada la solicitud.
+Se modifica el apartado 1 por la disposición final 6.9 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+ Se modifica por el art. 83 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-5
+
+### Artículo 27
+
+Artículo 27. Notificación y publicidad.
+1. El órgano minero competente notificará la resolución a los interesados, al municipio en el que se ubique el proyecto minero, a los distintos órganos que hubieran emitido informes preceptivos y, en su caso, a los demás órganos administrativos que resulten competentes.
+2. El otorgamiento de los derechos mineros se publicará en el Diario Oficial de Galicia.
+
+## CAPÍTULO II
+
+Contenido de los derechos mineros
+
+### Artículo 28
+
+Artículo 28. Contenido de los derechos mineros.
+1. La resolución de otorgamiento de un derecho minero tendrá el siguiente contenido mínimo:
+a) Las condiciones impuestas por el órgano minero competente para el ejercicio de las actividades de exploración, investigación y explotación, así como para los establecimientos de beneficio.
+b) Su extensión y delimitación.–En caso de permisos de exploración, el órgano minero competente valorará que, dentro de los límites fijados por la legislación específica de minas, su extensión no supere las cuatrocientas cuadrículas mineras, teniendo en cuenta las peculiaridades del territorio de la comunidad autónoma, por razones ambientales, agrarias, urbanísticas u otras de su competencia.
+En caso de permisos de investigación, la autoridad minera no otorgará extensiones superiores a quince cuadrículas mineras, salvo supuestos excepcionales debidamente justificados y motivados por razón de la tipología del recurso a investigar, de las mejoras técnicas disponibles, de su naturaleza estratégica o de su interés para la economía gallega.
+c) Su plazo de vigencia y condiciones de renovación, en su caso.
+d) La constitución de las garantías obligatorias y del seguro de responsabilidad civil regulados en la presente ley.
+e) Las prescripciones que garanticen, en su caso, la protección de los recursos naturales.
+f) Las medidas relativas al cierre definitivo y abandono de la explotación.
+g) Cualquier otra medida o condición determinada por la legislación sectorial de aplicación.
+2. Los derechos mineros contendrán, además, cuando así sea exigible en la normativa que resulte de aplicación:
+a) La declaración de impacto ambiental u otras figuras de evaluación ambiental.
+b) Las condiciones preventivas y de control necesarias en materia de accidentes graves en los que intervengan sustancias peligrosas.
+c) La gestión de los residuos de actividades extractivas y su transporte, cuando se realicen dentro de la propia explotación.
+d) Las condiciones de actividad de los establecimientos de beneficio vinculados a las actividades mineras.
+e) Las correspondientes autorizaciones sectoriales.
+Se añade la letrae) al apartado 2 por la disposición final 6.10 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 29
+
+Artículo 29. Vigencia temporal de los derechos mineros.
+Las autorizaciones mineras para recursos de las secciones A) y B) se otorgarán por el periodo previsto en el proyecto de explotación correspondiente, con un límite máximo de revisión de las condiciones de su otorgamiento cada diez años. En el caso de la sección A), el tiempo de la duración de la autorización no podrá exceder de aquél para el que el peticionario tenga acreditado el derecho de aprovechamiento.
+Los permisos de exploración se otorgarán por un plazo máximo de un año.
+Los permisos de investigación se otorgarán por un periodo máximo de tres años.
+Las concesiones de explotación mineras se otorgarán por un periodo de treinta años, pudiendo prorrogarse hasta un máximo de setenta y cinco años.
+
+### Artículo 30
+
+Artículo 30. Renovación y prórroga de derechos mineros.
+1. Transcurrido el plazo máximo de vigencia de los permisos de exploración y de los permisos de investigación, éstos podrán ser renovados y prorrogados por periodos sucesivos, conforme a lo dispuesto en la legislación general. Las concesiones de explotación mineras no podrán ser prorrogadas una vez transcurrido el plazo máximo establecido en el artículo anterior.
+2. Con una antelación mínima de un mes antes del vencimiento del plazo de vigencia de los derechos mineros, salvo en el supuesto de concesiones de explotación en el que el plazo será de doce meses, el titular de derechos mineros solicitará su renovación y prórroga, que se tramitará por el procedimiento que se establezca reglamentariamente.
+3. El titular de un permiso de investigación podrá continuar con los trabajos autorizados por el periodo que dure la tramitación del expediente de prórroga de ese permiso de investigación o de otorgamiento de concesión derivada prevista en la legislación minera. No obstante, el órgano minero competente podrá acordar la paralización temporal de los trabajos mediante resolución motivada, hasta que se resuelva el expediente en tramitación.
+Se modifica el apartado 3 por el art. 38.3 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 31
+
+Artículo 31. Derechos de prioridad.
+1. Los derechos de prioridad que la legislación minera reconoce a las personas titulares de determinados derechos mineros no suponen el reconocimiento de derechos consolidados a su otorgamiento, mientras no se acredite la viabilidad de su aprovechamiento racional y la concurrencia de los requisitos exigidos en la legislación de aplicación.
+2. El órgano minero competente podrá limitar o condicionar motivadamente el ejercicio de tales derechos de prioridad por razones urbanísticas y de ordenación del territorio, agrarias, ambientales u otras que sean de su competencia.
+3. Los derechos de prioridad deberán ejercitarse, en su caso, dentro de los plazos máximos regulados en la legislación minera.
+
+### Artículo 32
+
+Artículo 32. Garantías financieras.
+1. La persona titular de un derecho minero habrá de constituir una garantía financiera o equivalente suficiente antes de la preceptiva comunicación del inicio de los trabajos, siendo responsable de su mantenimiento en los términos señalados en este artículo.
+2. Las formas de constitución de garantías financieras o equivalentes podrán ser, entre otras, fondos de provisión internos constituidos por depósito en entidades financieras y garantías financieras en custodia de un tercero, tales como bonos y avales emitidos por entidades bancarias, así como contratos de seguros que cubran la responsabilidad civil de la entidad explotadora derivada del incumplimiento de lo dispuesto en el plan de restauración autorizado.
+3. La cuantía de la garantía corresponderá a la suma de dos conceptos: uno responderá del cumplimiento de las obligaciones de financiación y viabilidad de los trabajos mineros y otro responderá del cumplimiento del plan de restauración ambiental.
+Respecto a la garantía que responde del cumplimiento de las obligaciones de financiación y viabilidad de los trabajos mineros, su importe será del 4 % del presupuesto de inversión, en caso de una autorización de aprovechamiento o una concesión de explotación, y de un 20 % para los permisos de exploración o investigación.
+Esta garantía habrá de ser revisada a petición del titular minero cuando este justifique la ejecución total o parcial del proyecto de explotación aprobado.
+4. Respecto a la garantía que responderá del cumplimiento del plan de restauración ambiental, se determinará su cuantía de acuerdo con los siguientes criterios:
+a) Coste real de todos los trabajos de restauración conforme al proyecto de restauración aprobado.
+b) Área afectada en cada año de investigación o de explotación.
+c) Calendario y programa de ejecución.
+d) Uso actual y previsto del suelo.
+La garantía se revisará anualmente teniendo en cuenta los trabajos de rehabilitación ya realizados y las superficies nuevas afectadas conforme a lo dispuesto en el plan anual de labores.
+5. La garantía financiera o equivalente se constituirá de forma que se asegure la existencia de fondos fácilmente disponibles en cualquier momento por parte de la autoridad competente para la rehabilitación de los terrenos afectados.
+6. Una vez finalizada la ejecución del plan de restauración, la entidad explotadora solicitará a la autoridad competente, por escrito, la liberación de la garantía financiera correspondiente. Esta emitirá informe motivado en el plazo de dos meses.
+Se modifica por la disposición final 6.11 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 33
+
+Artículo 33. Seguro de responsabilidad civil.
+La persona titular de cualquier derecho minero deberá suscribir un seguro de responsabilidad civil en el plazo de treinta días, a contar desde la notificación de la resolución de otorgamiento, para hacer frente a los daños que puedan causar a las personas, los animales, los bienes o el medio ambiente.
+Si la persona titular de un derecho minero contrata las labores que éste implica, en todo o en parte, con un tercero, podrá subrogar en todo o en parte el contrato de seguro de responsabilidad civil al explotador, dando cuenta a la Administración minera.
+La cuantía de los seguros será fijada y revisada por el órgano minero competente, de acuerdo con los riesgos derivados de las labores de exploración, investigación o explotación y, especialmente, de la gestión de los residuos generados por la explotación.
+Reglamentariamente se establecerán los riesgos, criterios y condiciones para fijar la cuantía que habrá de cubrir dicho seguro de responsabilidad civil y su revisión.
+
+### Artículo 34
+
+Artículo 34. Plan anual de labores.
+Los titulares de derechos mineros de las secciones A), C) y D) habrán de presentar anualmente un plan de labores para su aprobación por el órgano minero competente.
+El plan de labores habrá de ser cumplimentado y firmado por el director facultativo.
+Reglamentariamente se establecerá el procedimiento para la aprobación del plan de labores y su alcance, contenido y efectos.
+
+## CAPÍTULO III
+
+Concursos de derechos mineros
+
+### Artículo 35
+
+Artículo 35. Convocatoria de concursos de derechos mineros.
+1. Para el otorgamiento de derechos mineros sobre los terrenos francos resultantes del levantamiento de una zona de reserva o de la declaración de caducidad de un permiso de exploración, de un permiso de investigación o de una concesión de explotación minera, se tramitará el correspondiente concurso público, regulado en este artículo y en el resto de la normativa aplicable. En todo caso, se realizarán convocatorias de concurso diferenciadas por cada provincia.
+Una vez que la declaración de caducidad de un derecho minero adquiera firmeza en vía administrativa, se procederá a efectuar la convocatoria del concurso público a que se refiere el apartado anterior y se publicará en el ''Boletín Oficial del Estado'' y en el ''Diario Oficial de Galicia''. En el plazo de dos meses, contado a partir del día siguiente al de la última publicación, quien esté interesado en el derecho caducado podrá presentar solicitudes.
+Si la declaración de caducidad de un derecho objeto de concurso se debe al incumplimiento de las obligaciones legales o de las condiciones establecidas en el título de otorgamiento por parte de la persona explotadora o de la persona titular del derecho, estas no podrán participar en el concurso respecto del citado derecho.
+En la convocatoria del concurso se determinarán los criterios de selección, así como los parámetros para su valoración, teniendo en cuenta, en todo caso, los previstos en el artículo siguiente. Estos criterios y parámetros podrán ser establecidos previamente con carácter general para las convocatorias de concursos referidas a uno o a varios tipos de recursos mediante orden de la persona titular de la consejería competente en materia de minas. En todo caso, en la convocatoria del concurso de que se trate podrán establecerse justificadamente modificaciones de los criterios o parámetros establecidos con carácter general para adaptarlos a las características o circunstancias específicas del concurso concreto.
+2. En la solicitud se indicará claramente el tipo de derecho que se solicita y sobre qué derecho minero se solicita, acompañando el siguiente contenido mínimo, que se presentará en dos sobres cerrados debidamente numerados:
+a) En el primer sobre se incluirá la documentación acreditativa de la capacidad jurídica y de obrar de la persona solicitante y de la representación, así como el resguardo de la fianza provisional, que consistirá en el 10 % de la tasa correspondiente a las solicitudes de derechos mineros establecida en la Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia, o norma que la sustituya. Se incluirá, asimismo, la documentación acreditativa de no estar incurso en las prohibiciones para contratar con el sector público establecidas en la normativa reguladora de los contratos del sector público.
+b) El segundo sobre contendrá la designación del terreno que se pretende, los documentos requeridos para las solicitudes de derechos mineros, la documentación adicional que proceda explicativa o acreditativa de las ventajas de la propuesta y una declaración responsable de los documentos presentados.
+Se modifica el apartado 1 por el art. 54.3 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+ Se modifica por el art. 34.1 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+ Se modifica por la disposición final 6.12 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+## CAPÍTULO IV
+
+Coordinación con otras legislaciones sectoriales
+
+### Artículo 36
+
+Artículo 36. Valoración de ofertas y resolución de concursos de derechos mineros.
+1. En caso de que no se hubieran formulado solicitudes, el órgano minero competente declarará de oficio el terreno como registrable, publicándolo en el Diario Oficial de Galicia y en el Boletín Oficial del Estado.
+2. En caso de que se hubieran presentado varias solicitudes sobre el mismo derecho minero, se abrirá una fase de concurrencia competitiva, en la que se establecerá el orden de prelación para la tramitación de las mismas, de acuerdo con la valoración obtenida por aplicación de los criterios de selección de las propuestas más ventajosas.
+Se entenderá por propuestas más ventajosas las que ofrezcan las mejores condiciones científicas y técnicas y las mayores ventajas económicas y sociales, teniendo en cuenta los principios de sostenibilidad, responsabilidad y seguridad, y en atención, como mínimo, a los siguientes criterios:
+a) La calidad científica y técnica del proyecto y las garantías que se ofrezcan de su viabilidad.
+b) La calidad ambiental del proyecto, valorándose específicamente la restauración de zonas degradadas como consecuencia de actividades mineras anteriores.
+c) La calidad social y ética del proyecto, es decir, la inclusión en el proyecto de medidas inclusivas y transversales, de cohesión social y de respeto al medio ambiente, en las que se expresen altos estándares de responsabilidad social y ética empresarial. Entre estas medidas se valorará la incorporación de la variable de género, la integración laboral de las personas con discapacidad, mecanismos de solución de conflictos con las comunidades locales y mecanismos de transparencia y acceso de la ciudadanía a la información.
+d) El impacto socioeconómico del proyecto en la zona de implantación de la explotación y en la economía gallega en general, en base a indicadores objetivos y comparativos con la situación actual.
+e) Las condiciones jurídicas más respetuosas con el carácter de bienes de dominio público de los yacimientos de origen natural y demás recursos geológicos en el ordenamiento jurídico español y con su explotación racional.
+3. La apertura de las ofertas se verificará en cada provincia respecto a los derechos que se ubiquen en la misma por una mesa constituida por:
+a) La persona titular de la jefatura territorial correspondiente de la consejería competente en materia de minas o persona en quien delegue, que actuará como presidente o presidenta.
+b) La persona titular de la jefatura del servicio competente en materia de minas de la jefatura territorial correspondiente o el ingeniero o ingeniera de minas de dicho servicio en quien delegue, que actuará como secretario o secretaria de la mesa.
+c) Un miembro de la escala de letrados de la Xunta de Galicia.
+d) La persona titular de la intervención delegada de la jefatura territorial correspondiente de la consejería competente en materia de minas o de la delegación provincial o persona en quien delegue.
+e) Una persona representante de la dirección general competente en materia de minas designada por la persona titular de la dirección general competente en materia de minas.
+En caso de derechos que se ubiquen en más de una provincia, la apertura de las ofertas se verificará por la mesa correspondiente a la provincia donde se ubique una mayor extensión del derecho.
+En el plazo de diez días desde la finalización del plazo para la presentación de solicitudes, se constituirá la mesa, procediéndose a la apertura de sobres en el orden habitual. Al acto de constitución de la mesa y a la apertura de sobres podrán asistir las personas que hayan presentado las solicitudes o sus representantes debidamente acreditados.
+La mesa analizará y valorará las ofertas presentadas y realizará una propuesta de resolución del concurso, que incluirá, para los casos en que se hayan presentado varias solicitudes respecto a un mismo derecho, el orden de prelación de las solicitudes para su tramitación.
+4. El concurso se resolverá por la persona titular de la consejería competente en materia de minas en el plazo máximo de seis meses, a contar desde el día siguiente a la última publicación de la convocatoria. La resolución contendrá el orden de prelación para la tramitación de las solicitudes concurrentes presentadas respecto a un mismo derecho, de acuerdo con lo establecido en este artículo, y declarará que procede la admisión a trámite de las solicitudes no concurrentes. Asimismo, declarará registrables los terrenos objeto del concurso respecto a los que no se hubiera presentado o no hubiera sido admitida ninguna solicitud.
+Transcurrido el plazo sin que hubiera recaído y hubiera sido notificada la resolución expresa, las personas interesadas podrán entender desestimadas sus solicitudes por silencio administrativo.
+5. Si no se admitiese ninguna de las solicitudes presentadas, el concurso se declarará desierto, siendo los terrenos no adjudicados declarados registrables por la persona titular de la consejería competente en materia de minas. Esa declaración habrá de publicarse en el «Diario Oficial de Galicia» y en el «Boletín Oficial del Estado», con indicación de que podrán ser solicitados una vez transcurridos ocho días desde la publicación en el «Boletín Oficial del Estado».
+Se modifica por el art. 34.2 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+ Se modifica por la disposición final 6.12 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+## CAPÍTULO IV
+
+Coordinación con otras legislaciones
+Se modifica por la disposición final 6.13 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 37
+
+Artículo 37. Coordinación con el procedimiento de evaluación ambiental.
+1. No podrán otorgarse derechos mineros sin que previamente se hubiera dictado la declaración ambiental, cuando fuese necesaria con arreglo a la legislación vigente.
+2. A estos efectos, el órgano ambiental competente, en cuanto formule la declaración ambiental, remitirá una copia de la misma al órgano minero, que incorporará su condicionado al contenido de los derechos mineros.
+Se modifica por la disposición final 6.13 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Artículo 38
+
+Artículo 38. Coordinación con el régimen urbanístico de aplicación.
+El ejercicio de los derechos mineros estará condicionado a la obtención del correspondiente título habilitante municipal de naturaleza urbanística, con arreglo a la normativa de aplicación.
+Se modifica por la disposición final 6.13 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+## TÍTULO V
+
+Fomento de la minería
+
+## CAPÍTULO I
+
+Investigación, formación, difusión social de la actividad minera y patrimonio geominero
+
+### Artículo 39
+
+Artículo 39. Investigación.
+1. La Xunta de Galicia, en el marco del Plan gallego de investigación, desarrollo e innovación tecnológica, promoverá el desarrollo de la investigación científica y técnica, la experimentación y los estudios en materia minera y de recursos mineros que permitan disponer de los conocimientos científicos y técnicos necesarios para la mejora del aprovechamiento de los recursos mineros, la minimización de los residuos, la protección ambiental y el cierre de los ciclos productivos, así como la mejora de las condiciones de seguridad y salud en el trabajo.
+2. De conformidad con lo establecido en el apartado anterior, la Xunta de Galicia establecerá directamente o en colaboración con entidades públicas o privadas los mecanismos que conduzcan a alcanzar los fines de investigación señalados.
+
+### Artículo 40
+
+Artículo 40. Formación.
+La Xunta de Galicia fomentará, en colaboración con las empresas, organizaciones sindicales y entidades representativas del sector minero de Galicia, el reciclaje y el perfeccionamiento de los trabajadores y trabajadoras del sector, mediante las medidas y actuaciones que reglamentariamente se establezcan, que contemplarán la participación de los agentes sociales en su diseño, ejecución y evaluación.
+
+### Artículo 41
+
+Artículo 41. Difusión social de la actividad minera y patrimonio geominero.
+1. La Xunta de Galicia impulsará, en colaboración con los agentes científicos, organizaciones sindicales y entidades representativas del sector minero de Galicia, la difusión de la actividad minera entre la sociedad.
+2. La Xunta de Galicia promoverá las medidas adecuadas para garantizar la conservación, mantenimiento y recuperación de la documentación minera.
+
+## CAPÍTULO II
+
+Incentivos económicos
+
+### Artículo 42
+
+Artículo 42. Principios generales.
+1. La consejería competente en materia de minería, de acuerdo con las orientaciones y prioridades del Plan sectorial de actividades extractivas de Galicia, concretará en un plan estratégico previo los incentivos económicos, los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución y los costes previsibles.
+2. La gestión de los incentivos económicos se realizará de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación de recursos públicos.
+3. Las ayudas a la minería deberán ir dirigidas a la mejora de las condiciones de trabajo y a la formación de los trabajadores y trabajadoras, a conseguir un aprovechamiento eficiente de los recursos, a la reducción del impacto sobre el medio y a la valorización endógena de los recursos territorializando la cadena de valor.
+4. Serán objeto de las ayudas:
+a) La innovación e investigación tecnológica.
+b) El mantenimiento del empleo y la mejora de las condiciones de seguridad laboral y de la formación de los trabajadores y trabajadoras, así como de la calificación del empleo.
+c) La protección ambiental y la reducción del consumo de recursos y de la producción de residuos.
+d) El cierre de los ciclos productivos, la diversificación económica y el impulso de las redes de comercialización e internacionalización de las empresas mineras.
+e) La investigación geológica minera.
+5. La cooperación entre agentes interesados en la realización o promoción de cualquiera de estas actividades será objeto de atención preferente.
+
+### Artículo 43
+
+Artículo 43. Beneficiarios.
+1. Podrán ser beneficiarias de las ayudas tanto las personas titulares de los derechos mineros como aquellas personas naturales o jurídicas a las que aquéllos hubieran cedido su explotación en las condiciones que reglamentariamente se establezca, así como los organismos de investigación y tecnológicos especializados en campos científicos y tecnológicos relevantes para la actividad minera, las asociaciones y cooperativas de los sectores productivos relacionados con la minería y los particulares o empresas que realicen estudios o presten servicios en el sector de la minería.
+2. No podrán obtener la condición de beneficiarias aquellas personas o entidades que incurran en alguna de las causas de prohibición previstas en la legislación vigente en materia de ayudas públicas ni las empresas que carezcan de los permisos administrativos pertinentes para el ejercicio de su actividad.
+
+### Artículo 44
+
+Artículo 44. Exclusiones.
+No serán objeto de ayudas los trabajos, obras o estudios que vengan impuestos como consecuencia de la obligación de restauración, ni los que se deriven de la reparación de los daños causados por una actuación que hubiera sido objeto de una sanción.
+
+## CAPÍTULO III
+
+Municipios mineros
+
+### Artículo 45
+
+Artículo 45. De la condición de los municipios mineros.
+1. Podrán ser considerados como municipios mineros aquellos en que se dé alguna de las siguientes características:
+a) Que exista o haya existido en los últimos diez años una especial incidencia de la minería para su economía.
+b) Que en sus explotaciones mineras se extraigan recursos declarados críticos o estratégicos por la Comisión Europea, se produzca y/o elabore un material o materiales o se empleen técnicas o procedimientos de extracción de reconocida calidad en el ámbito nacional o internacional.
+c) Que, por la importancia de la actividad extractiva en el pasado, exista un patrimonio minero tangible o intangible susceptible de ser puesto en valor.
+2. A los efectos de la letra a) del apartado 1, se considerará que la minería presenta una especial incidencia en la economía de un municipio cuando concurra cualquiera de las siguientes condiciones:
+a) La creación y el mantenimiento de empleo directo e indirecto en las explotaciones mineras en el municipio en número superior a 40 personas trabajadoras, teniendo en cuenta especialmente la creación de empleo cualificado y el fomento del empleo femenino.
+b) El número de explotaciones mineras del municipio, en número superior a cinco.
+c) La extensión de las explotaciones mineras en número superior a 2.500 hectáreas.
+3. En el caso de no concurrir ninguna de las condiciones señaladas en el apartado anterior, también se podrá apreciar, de manera motivada, que la minería tiene una especial incidencia en la economía de un municipio en base a los siguientes criterios:
+a) La mejora de las condiciones de vida de los habitantes de los municipios gracias a los proyectos mineros y el fomento de su cohesión local y territorial.
+b) El desarrollo de negocios locales, especialmente de los relacionados, directa o indirectamente, con el sector minero.
+c) El número de personas afiliadas a la Seguridad Social en el sector minero.
+d) El impacto de las explotaciones mineras presentes y pasadas sobre la cadena de valor industrial local y autonómica y su desarrollo.
+e) La evolución demográfica del municipio en función de las explotaciones mineras vigentes.
+4. Para apreciar la concurrencia de la condición definida en la letra b) del apartado 1, se tendrán en consideración los siguientes aspectos:
+a) Los premios o reconocimientos concedidos por entidades y organismos públicos o privados.
+b) Las certificaciones medioambientales o de calidad obtenidas en el funcionamiento de la explotación, o en relación con los productos obtenidos de ella.
+c) La cualificación como materias primas críticas o minerales estratégicos de los minerales obtenidos en la explotación.
+5. Para apreciar la concurrencia de la condición definida en la letra c) del apartado 1, se tendrán en consideración los siguientes aspectos:
+a) Que la inclusión del patrimonio minero del municipio figure en el mapa de patrimonio minero elaborado por el Instituto Geológico y Minero de España.
+b) Que el patrimonio minero del municipio figure incluido en el Plan nacional de patrimonio industrial.
+c) Que el estado actual del patrimonio minero tangible o intangible del municipio en cuestión represente un riesgo de pérdida patrimonial a corto plazo.
+Se modifica por el art. 54.4 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 45 bis
+
+Artículo 45 bis. Registro de Municipios Mineros de Galicia.
+Se crea el Registro de Municipios Mineros de Galicia, en el que se inscribirán todos los municipios mineros declarados en la Comunidad Autónoma de Galicia.
+Este registro será público y dependerá del centro directivo con competencias en materia de minería.
+Se añade por el art. 54.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 45 ter
+
+Artículo 45 ter. Procedimiento de declaración de municipio minero.
+1. El procedimiento para la obtención de la condición de municipio minero se iniciará mediante la presentación de solicitud por parte del municipio o municipios afectados, a la que se acompañará la documentación que justifique el cumplimiento de alguna de las circunstancias establecidas en el artículo 45 y que permiten la consideración del municipio como minero.
+2. Durante la tramitación emitirá informe, con carácter preceptivo y vinculante, el centro directivo competente en materia de minas, para lo cual tendrá en cuenta la documentación aportada por el propio municipio y aquella otra que obre en poder del centro directivo, en relación con las circunstancias establecidas en el artículo 45 y que permiten la consideración del municipio como minero.
+3. Igualmente, si así lo considera necesario, la consejería competente en materia de minas podrá obtener de las consejerías y entidades del sector público autonómico que puedan resultar competentes todos los informes que estime convenientes o necesarios para motivar su propuesta, y en especial de los centros directivos competentes en materia de turismo y de patrimonio cultural.
+4. El Consejo de la Xunta de Galicia, previa propuesta de la consejería competente en materia de minas, será el órgano competente para la declaración de municipio minero.
+5. La declaración como municipio minero se inscribirá de oficio en el Registro de Municipios Mineros de Galicia.
+Se añade por el art. 54.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 45 quater
+
+Artículo 45 quater. Efectos de la condición de municipio minero.
+1. El sector público autonómico fomentará la colaboración con los municipios mineros y la ejecución de actuaciones y medidas que, dentro de una óptica de minería sostenible, tengan un impacto positivo en los municipios declarados como mineros, sin perjuicio de las previsiones del Plan sectorial de actividades extractivas. Dicha colaboración y actuaciones se centrarán, entre otros, en aspectos como la formación, el fomento de los recursos naturales, geológicos y mineros, la recuperación ambiental, la puesta en valor del patrimonio minero y el fomento del termalismo.
+2. En las convocatorias de subvenciones en régimen de concurrencia competitiva realizadas por la Administración general de la Comunidad Autónoma de Galicia o por cualquier entidad del sector público autonómico dirigidas a los ayuntamientos gallegos y destinadas a actividades mineras, se tendrá en cuenta en las bases de la convocatoria un criterio de valoración específico que en el baremo de puntuación suponga, al menos, el 20 % del total a favor de las actuaciones realizadas por municipios mineros.
+Igualmente, en las convocatorias de subvenciones en régimen de concurrencia competitiva realizadas por la Administración general de la Comunidad Autónoma de Galicia o por cualquier entidad del sector público autonómico dirigidas a particulares, empresas y autónomos y destinadas a actividades mineras, se tendrá en cuenta en las bases de la convocatoria un criterio de valoración específico que en el baremo de puntuación suponga, al menos, el 10 % del total a favor de las actuaciones realizadas por municipios mineros.
+3. La condición de municipio minero será tenida en cuenta a los efectos de lo previsto en el artículo 24 de esta ley, en los supuestos de compatibilidad o incompatibilidad, así como sobre la prevalencia, respecto de otros derechos de interés público.
+Se añade por el art. 54.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 45 quinquies
+
+Artículo 45 quinquies. Mantenimiento y pérdida de la condición de municipio minero.
+1. La condición de municipio minero será objeto de revisión cada diez años.
+2. La condición de municipio minero se perderá:
+a) Por renuncia expresa del ayuntamiento, formalizada mediante acuerdo o resolución del órgano competente.
+b) En el caso de dejar de cumplir las condiciones que dieron lugar a su concesión, mediante resolución de la consejería competente en materia de minas, con previa audiencia del ayuntamiento.
+Se añade por el art. 54.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+## TÍTULO VI
+
+Disciplina minera
+
+## CAPÍTULO I
+
+Inspección minera
+
+## Sección 1
+
+Sección 1.ª Régimen de la inspección minera
+Se añade por el art. 38.4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 46
+
+Artículo 46. Inspección de minas.
+1. Corresponde a la Xunta de Galicia, a través de la consejería competente en materia de minas, realizar las comprobaciones necesarias y pedir la documentación e información necesaria para el seguimiento y vigilancia de las declaraciones ambientales, así como comprobar el cumplimiento de la normativa minera aplicable a las actividades incluidas en el ámbito de aplicación de la presente ley, de oficio o a instancia de parte interesada, así como de las condiciones de seguridad de cualquier otra actividad que utilice técnicas mineras, sin perjuicio de lo establecido en la normativa vigente en materia de riesgos laborales.
+2. La inspección de las actividades incluidas en el ámbito de aplicación de esta ley, así como de la normativa en materia de prevención de riesgos laborales respeto de las actividades que impliquen el empleo de técnica minera, será realizada por funcionarios o funcionarias que ocupen puestos de trabajo que tengan atribuido el ejercicio de las funciones de inspección y que estén adscritos a órganos administrativos con competencia para el control o la inspección en materia minera.
+También podrá colaborar con las funciones de inspección personal de las entidades colaboradoras de la Administración en el ámbito de la seguridad minera debidamente acreditadas para la realización de actividades de ensayo, certificación, inspección o auditoría en el ámbito de la seguridad minera. Esta colaboración podrá consistir en efectuar una visita total o parcial acompañado, en todo caso, de personal funcionario facultativo de minas. Asimismo, se podrá recurrir al apoyo de entidades de colaboración ambiental reguladas en el Decreto 102/2023, de 15 de junio, por el que se regulan las entidades de colaboración ambiental y se crean el Registro de Entidades de Colaboración Ambiental de la Comunidad Autónoma de Galicia y el Banco de personas expertas en evaluación ambiental, para el caso de los trabajos correspondientes al seguimiento de las declaraciones ambientales.
+La consejería podrá acudir a la colaboración de estas entidades siempre que la acumulación de tareas, la carencia de medios u otra circunstancia extraordinaria impidan o dificulten la atención de las atribuciones y funciones administrativas en su integridad con la debida garantía y satisfacción de los principios de eficacia, eficiencia en la asignación y utilización de los recursos públicos, racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión, servicio efectivo a los ciudadanos y responsabilidad por la gestión pública, previstos en la legislación de régimen jurídico del sector público.
+El recurso a estas entidades no podrá suponer la externalización íntegra de las funciones administrativas afectadas. Esta exigencia no se entenderá respetada por el simple hecho de que la consejería se limite a dictar la correspondiente resolución administrativa sobre la base exclusiva de las actuaciones practicadas por esas entidades.
+3. Para el desempeño de la función inspectora, la autoridad minera podrá establecer mecanismos de colaboración con órganos o administraciones que tengan atribuidas competencias y responsabilidades en el ámbito laboral.
+Se modifica el apartado 2 por el art. 38.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 3 por el art. 38.3 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 47
+
+Artículo 47. Facultades.
+El funcionario o funcionaria que, de conformidad con lo establecido en el artículo anterior, realice la inspección de minas tiene en el ejercicio de sus funciones el carácter de autoridad pública y estará autorizado para:
+a) Acceder libremente, en cualquier momento, acreditándose adecuadamente, a las explotaciones mineras, a sus establecimientos de beneficio o lugares en los que se realice algún tipo de actividad minera y a permanecer en ellos, debiendo comunicar al empresario o a sus representantes su presencia, salvo que éstos estén abandonados o presenten signos, a criterio del actuante, que manifiesten la falta de utilización habitual.
+b) Practicar todas las diligencias y requerir la información y documentación necesarias para comprobar que se cumplen las disposiciones legales y reglamentarias, así como obtener copias y extractos de la misma.
+c) Tomar muestras u obtener cualesquiera otras evidencias en el soporte que sea adecuado en la presencia del empresario o empresaria o persona responsable del establecimiento, salvo que la apreciación motivada de las circunstancias pueda requerir su obtención en su ausencia.
+
+### Artículo 48
+
+Artículo 48. De las actas.
+1. Las actividades inspectoras se documentarán mediante actas que estarán dotadas de presunción de certeza respecto a los hechos reflejados en las mismas que hubieran sido constatados por el inspector sin perjuicio de las pruebas en contrario. Su contenido se ajustará a lo previsto en la presente ley y a los modelos reglamentarios.
+2. Las actas se extenderán por duplicado y habrán de firmarse por el funcionario o funcionaria actuante, y, cuando lo desee, por el titular, explotador o responsable del establecimiento. La negativa a firmar se hará constar en el acta. La firma acreditará el conocimiento del acta y de su contenido.
+3. En las actas de infracción habrán de reflejarse, en todo caso, los siguientes extremos:
+a) La identificación de los sujetos actuantes, la fecha y el lugar de las actuaciones.
+b) Los hechos constatados por el funcionario actuante, destacando los relevantes a efectos de tipificación de las infracciones y de graduación de las sanciones.
+c) Las manifestaciones de los interesados.
+d) Los medios y las muestras obtenidos para la comprobación de los hechos.
+e) Las medidas adoptadas.
+f) La infracción o infracciones supuestamente cometidas, con expresión del precepto vulnerado.
+g) La propuesta de sanción, su graduación y cuantificación.
+h) El órgano competente para imponer la sanción y la norma que le atribuya tal competencia.
+
+### Artículo 49
+
+Artículo 49. Medidas derivadas de la actividad inspectora.
+Finalizada la actividad de comprobación, el funcionario o funcionaria que hubiera realizado la inspección podrá adoptar las siguientes medidas:
+a) Requerir a la persona responsable, cuando las circunstancias así lo aconsejen, para que adopte, en el plazo que se señale, las medidas correctoras oportunas; dando cuenta de esta actuación al órgano competente en materia de seguridad minera.
+b) Proponer la iniciación del procedimiento sancionador, mediante la extensión de las actas de infracción.
+c) Ordenar, por escrito, la suspensión inmediata de los trabajos o tareas que se estuvieran desarrollando en caso de concurrir grave e inminente riesgo para la seguridad o salud de los trabajadores. Dicha medida, que será inmediatamente ejecutiva, será comunicada tanto a las personas responsables como al órgano competente en materia de seguridad minera y a la autoridad laboral.
+La orden de suspensión, que habrá de ser ratificada, en el plazo máximo de dos días hábiles, en el seno del correspondiente procedimiento sancionador y por la autoridad que tenga competencia para acordar su iniciación, podrá ser levantada por la autoridad minera tan pronto como se corrijan las deficiencias que la motivaron.
+
+## Sección 2
+
+Sección 2.ª Planes de inspección de seguridad minera y seguimiento ambiental
+Se añade por el art. 38.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 49 bis
+
+Artículo 49 bis. Planes de inspección.
+1. La consejería competente en materia de minas elaborará y aprobará planes de inspección de las actividades mineras incluidas en el ámbito de aplicación de esta ley. La función inspectora será realizada directamente por el personal funcionario de dicha consejería, para lo cual podrá contar con la colaboración de las entidades colaboradoras de la Administración en el ámbito de la seguridad minera a las que hace referencia el artículo 46.2 de esta ley.
+2. Los planes de inspección realizados al amparo de lo dispuesto en este capítulo serán los instrumentos directores para conseguir un conocimiento exhaustivo de las actividades, establecimientos, productos o instalaciones mineras en cuanto a su puesta en funcionamiento y condiciones de servicio, así como al cumplimiento de las declaraciones ambientales y de los requisitos reglamentarios y de seguridad minera e industrial.
+En caso de explotaciones mineras que, por su antigüedad o características, no cuenten con declaración ambiental, podrán ser objeto de las previsiones contempladas en los planes de inspección. De igual forma, si durante su inspección se apreciase alguna posible infracción con repercusión en el medio ambiente, se dará traslado de las actuaciones al órgano competente por razón de la materia para que actúe de acuerdo con la legislación ambiental aplicable.
+Se añade por el art. 38.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 49 ter
+
+Artículo 49 ter. Contenido de los planes de inspección.
+1. Los planes de inspección de la seguridad minera y del seguimiento ambiental se estructurarán en programas específicos, definidos por su alcance y contenido. Para el ámbito de la seguridad minera la administración competente en materia minera realizará la supervisión, inspección y control de las distintas actividades que se determinen en función de las necesidades que se formulen, para lo cual podrá contar con la colaboración de las entidades colaboradoras de la Administración en el ámbito de la seguridad minera, en los términos del artículo 46.2. A través de estos se comprobará la adecuación de la puesta en funcionamiento y las condiciones de servicio al cumplimiento de los requisitos reglamentarios y de seguridad minera e industrial, incluidos los relativos a las normas básicas de seguridad minera, que les sean de aplicación. Para el ámbito del seguimiento de las declaraciones ambientales, la Administración competente en materia minera y en seguimiento ambiental realizará la supervisión, inspección y control de las distintas actividades directamente. Podrán ser asistidos por entidades de colaboración ambiental en la realización material de las comprobaciones destinadas a verificar el condicionado de las declaraciones ambientales.
+2. Los planes de inspección de la seguridad minera y seguimiento ambiental contemplarán, como mínimo, los siguientes contenidos:
+a) El objeto del plan de inspección y los objetivos que se pretenden con cada programa.
+b) Las tipologías de explotaciones, establecimientos de beneficio, instalaciones, equipos o recursos que deben incluirse en cada programa de inspección.
+c) La dotación de medios personales y materiales que se destinarán al desarrollo de cada programa de inspección.
+d) Los indicadores de resultados.
+e) La vigencia.
+3. Los programas específicos de inspección contemplarán, como mínimo, los siguientes contenidos:
+a) El tipo de derechos mineros y/o establecimientos sujetos a la inspección.
+b) El número de derechos y/o establecimientos que deberán de ser inspeccionados.
+c) Los criterios básicos y los aspectos de seguridad recogidos en el Reglamento general de normas de seguridad minera en los que se centrará la inspección.
+d) La duración temporal.
+e) En su caso, las actuaciones de inspección que podrán realizar las entidades colaboradoras de la Administración en el ámbito de la seguridad minera en los términos del artículo 46.2.
+4. En todo caso, uno de los programas específicos de inspección estará centrado específicamente en la vigilancia del cumplimiento de las declaraciones ambientales de derechos mineros.
+Se añade por el art. 38.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 49 quater
+
+Artículo 49 quater. Ejecución y desarrollo.
+1. La consejería competente en materia de minas efectuará la selección de derechos y establecimientos mineros objeto de los planes y programas de inspección.
+2. Como consecuencia de lo anterior, los órganos competentes de la citada consejería ordenarán las actuaciones de supervisión y control de los derechos y establecimientos seleccionados e incoarán los expedientes sancionadores que procedan en los supuestos de incumplimiento de requisitos reglamentarios exigidos a las explotaciones, autorizaciones, permisos y establecimientos mineros inspeccionados.
+3. Después de finalizar cada programa de inspección, la consejería competente en materia de minas elaborará un informe final donde se recogerán los datos, los resultados y los incidentes más significativos para cada programa.
+Se añade por el art. 38.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 49 quinquies
+
+Artículo 49 quinquies. Periodicidad.
+1. La consejería competente en materia de minas determinará la periodicidad de los planes y de los programas de inspección en función de las necesidades que se planteen.
+2. En cualquier caso, la consejería competente en materia de minas deberá, como mínimo cada dos años, aprobar nuevos planes de inspección o prorrogar la vigencia de los ya aprobados tras un procedimiento previo de revisión y actualización de sus contenidos.
+Se añade por el art. 38.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## CAPÍTULO II
+
+Régimen sancionador
+
+### Artículo 50
+
+Artículo 50. Responsables.
+1. Serán sujetos responsables de las infracciones las personas físicas o jurídicas que incurriesen en las mismas, y en particular:
+a) La persona explotadora efectiva del recurso minero y, en su caso, la persona titular de los derechos de aprovechamiento minero.
+b) El subcontratista del explotador efectivo.
+c) La dirección facultativa, en el ámbito de sus respectivas funciones.
+d) La persona titular o propietaria de la entidad explotadora efectiva, así como el administrador, gerente, director o equivalente de dicha entidad en relación con las infracciones que se cometan en el desarrollo de la actividad de investigación o aprovechamiento de los recursos geológicos, cuando no hayan realizado los actos necesarios que fueran de su incumbencia para el cumplimiento de las obligaciones infringidas, hayan consentido el incumplimiento por quienes de ellos dependan o hayan adoptado acuerdos que hubieran hecho posible la comisión de tales infracciones. En todo caso, en los supuestos de extinción de la personalidad jurídica de la entidad explotadora efectiva, el procedimiento sancionador se dirigirá contra las personas indicadas en esta letra en los supuestos señalados en la misma.
+2. En caso de existir más de una persona responsable de la infracción, las sanciones que se impongan tendrán entre sí carácter independiente.
+3. Cuando en aplicación de la presente ley dos o más personas resultasen responsables de una infracción y no fuese posible determinar su grado de participación, serán solidariamente responsables a los efectos de las sanciones que se deriven.
+4. En todo caso, y sin perjuicio de las garantías financieras establecidas al efecto, en caso de extinción de la personalidad jurídica de la entidad explotadora, los socios, administradores y directivos de dicha entidad en el momento de su extinción quedarán obligados al cumplimiento de las obligaciones relativas al proceso de restauración, cierre y abandono de la explotación. En consecuencia, serán sujetos responsables de las infracciones que cometan en relación con el incumplimiento de tales obligaciones.
+Se modifica por el art. 34.3 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Artículo 51
+
+Artículo 51. Competencia sancionadora.
+1. Los expedientes sancionadores se incoarán por las delegaciones provinciales de la consejería competente en materia de minas.
+2. La competencia para sancionar las infracciones en materia de minería corresponderá:
+a) En las infracciones leves: al titular de la delegación provincial competente.
+b) En las infracciones graves: al titular de la dirección general competente en materia de minas.
+c) En las infracciones muy graves: al titular de la consejería competente en materia de minas.
+
+### Artículo 52
+
+Artículo 52. Procedimiento sancionador.
+1. El procedimiento para la imposición de sanciones se ajustará a las normas generales aplicables sin perjuicio de que reglamentariamente se establezcan especialidades de procedimiento.
+2. El plazo para resolver y notificar el procedimiento sancionador será de doce meses, a contar desde la fecha de la notificación de su iniciación. Transcurrido el plazo máximo para resolver sin que se hubiera dictado resolución, se producirá la caducidad del procedimiento. En caso de que la infracción no hubiera prescrito, deberá iniciarse un nuevo procedimiento sancionador.
+
+### Artículo 53
+
+Artículo 53. Medidas cautelares.
+1. En los supuestos en que exista un riesgo grave o inminente para las personas, bienes o medio ambiente, el órgano competente para la incoación del expediente podrá ordenar motivadamente en cualquier momento la adopción de cuantas medidas cautelares resulten necesarias. En particular, podrán acordarse las siguientes:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del daño.
+b) Precintado de aparatos, equipos o vehículos.
+c) Prestación de fianzas.
+d) Suspensión temporal de la autorización para el ejercicio de la actividad.
+e) Limitación o prohibición de la comercialización de productos.
+2. La adopción de las medidas cautelares se llevará a cabo, previa audiencia del interesado, en un plazo de cinco días, salvo en los casos que requieran una actuación inmediata, en los que podrán ser adoptadas por los inspectores de minas debiendo ser ratificadas por el delegado provincial con audiencia a las partes.
+3. Las medidas de suspensión temporal de la actividad de la empresa se entenderán sin perjuicio de los intereses de los trabajadores y trabajadoras, en los términos previstos en la legislación laboral y de Seguridad Social, y de la obligación de la empresa de realizar un mantenimiento eficaz de la explotación minera.
+
+### Artículo 54
+
+Artículo 54. Prescripción.
+1. Las infracciones a que se refiere la presente ley prescribirán en los siguientes plazos:
+Dos años, en caso de infracciones leves.
+Tres años, en caso de infracciones graves.
+Cinco años, en caso de infracciones muy graves.
+2. El cómputo del plazo de prescripción de las infracciones se iniciará en la fecha en que se hubiera cometido la infracción o, si se trata de una actividad continuada, en la fecha de su cese.
+3. Las sanciones a que se refiere la presente ley prescribirán en los siguientes plazos:
+Un año, en caso de sanciones por infracciones leves.
+Tres años, en caso de sanciones por infracciones graves.
+Cinco años, en caso de sanciones por infracciones muy graves.
+
+### Artículo 55
+
+Artículo 55. Concurrencia de sanciones.
+1. Cuando las conductas constitutivas de infracción supongan incumplimiento de la normativa en materia de seguridad industrial o de prevención de riesgos laborales se sancionarán de acuerdo con la misma.
+2. Las vinculaciones del procedimiento sancionador en materia minera con el orden jurisdiccional penal se ajustarán a lo dispuesto en el Real decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+## CAPÍTULO III
+
+Infracciones, sanciones y medidas accesorias
+
+### Artículo 56
+
+Artículo 56. Infracciones.
+Sin perjuicio de las infracciones tipificadas en la Ley 22/1973, de 21 de julio, de minas, constituyen infracciones administrativas, en el ámbito de la Comunidad Autónoma de Galicia, las acciones u omisiones que contravengan las obligaciones establecidas en la presente ley.
+
+### Artículo 57
+
+Artículo 57. Infracciones leves.
+Son infracciones leves:
+a) El incumplimiento de las obligaciones de carácter formal o documental previstas en la normativa de seguridad minera del que no se derive riesgo laboral o ambiental.
+b) La inobservancia de los requerimientos de la inspección de minas, siempre que se refirieran a condiciones de seguridad minera que no hubieran supuesto daño derivado del trabajo o daños ambientales.
+c) Cualesquiera otras que supongan inobservancia de las obligaciones comprendidas en la presente ley y que no estén tipificadas como infracción grave o muy grave en los artículos siguientes.
+
+### Artículo 58
+
+Artículo 58. Infracciones graves.
+Son infracciones graves:
+a) El incumplimiento de obligaciones de carácter formal o documental que impidan conocer las condiciones de seguridad existentes en el establecimiento o del que se derive riesgo laboral grave para la salud y seguridad de los trabajadores o para el medio ambiente.
+b) La inobservancia de los requerimientos realizados o la demora en la instalación de los elementos correctores impuestos por la inspección de minas o por los órganos competentes en la materia, referidas a condiciones de seguridad minera, que hubieran ocasionado daño a las personas, las cosas o el medio ambiente.
+c) La demora en el cumplimiento total de las condiciones de seguridad exigibles.
+d) El incumplimiento de los deberes inherentes a su función por parte de los directores facultativos.
+e) No dar cuenta, en tiempo y forma, al órgano competente en materia de seguridad minera de los accidentes de trabajo graves, muy graves o mortales o de incidentes que comprometan gravemente la seguridad de los trabajos o de las instalaciones ocurridos en éstas.
+f) La obstrucción o negativa a colaborar con la inspección de mina.
+g) El incumplimiento de las condiciones de otorgamiento de los derechos mineros, sin perjuicio de su caducidad, revocación o suspensión.
+h) La utilización de instrumentos, maquinaria o materiales que no cumplan las normas exigibles.
+i) La expedición, de forma intencionada, de certificados o informes que no se ajusten a los resultados de las comprobaciones o inspecciones realizadas.
+j) El incumplimiento de las obligaciones de reacondicionamiento del espacio natural afectado por actividades mineras.
+k) El incumplimiento de las previsiones contenidas en el plan de restauración del derecho minero.
+l) La denegación de la información solicitada por la autoridad minera competente cuando su entrega sea preceptiva.
+m) La comisión de más de dos infracciones leves, ya sea por el mismo hecho o por hechos diferentes, cualquiera que sea su naturaleza, en el plazo de un año.
+Se modifica la letra m) por el art. 34.4 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Artículo 59
+
+Artículo 59. Infracciones muy graves.
+Son infracciones muy graves:
+a) La exploración, investigación y explotación de recursos mineros o la apertura de establecimientos de beneficio sin la obtención de la correspondiente autorización, permiso o concesión.
+b) Las tipificadas como infracciones graves en el artículo anterior, cuando de las mismas resulte un daño muy grave o un riesgo alto e inminente para la seguridad de las personas, los bienes o el medio ambiente.
+c) La comisión de más de dos infracciones graves, ya sea por el mismo hecho o por hechos diferentes, cualquiera que fuese su naturaleza.
+Se modifica la letra c) por el art. 34.5 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Artículo 60
+
+Artículo 60. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas:
+a) Las infracciones leves, con multa desde 1 hasta 30.000 euros.
+b) Las infracciones graves, con multa desde 30.001 hasta 300.000 euros.
+c) Las infracciones muy graves, con multa desde 300.001 hasta 1.000.000 de euros.
+2. No obstante lo expresado en el apartado anterior, cuando a consecuencia de la infracción se obtenga un beneficio económico cuantificable, la multa podrá alcanzar hasta el cuádruple del beneficio obtenido, con el límite, en caso de las infracciones leves y graves, de la máxima sanción correspondiente al grado inmediatamente superior.
+3. La cuantía de las sanciones se graduará atendiendo a criterios de proporcionalidad.
+4. La comisión de una falta muy grave por el director facultativo podrá llevar aparejada la inhabilitación para el ejercicio de las funciones de director o directora facultativo de actividades mineras, por un periodo máximo de un año en el ámbito territorial de Galicia.
+En el supuesto de reincidencia por la comisión de infracciones muy graves, la sanción podrá consistir en la inhabilitación para el ejercicio de esas funciones por un periodo de cinco años en el ámbito territorial de Galicia.
+5. La comisión de una infracción grave o muy grave podrá llevar aparejada la imposibilidad de obtención de ayudas o subvenciones de la Comunidad Autónoma de Galicia en materia de minería durante los siguientes plazos:
+Infracciones graves: hasta tres años.
+Infracciones muy graves: hasta cinco años.
+
+### Artículo 61
+
+Artículo 61. Graduación de las sanciones.
+Sin perjuicio de los criterios de graduación de sanciones establecidos en la legislación de procedimiento administrativo de aplicación, las sanciones se graduarán, además, considerando los siguientes criterios:
+a) El riesgo resultante de la infracción para la vida y la seguridad de las personas, los bienes y el medio ambiente.
+b) El carácter permanente o transitorio de los riesgos inherentes a dichas actividades.
+c) La gravedad de los daños y perjuicios producidos y su naturaleza.
+d) El grado de participación y el beneficio obtenido.
+e) La intencionalidad en la comisión de la infracción.
+f) El número de trabajadores o trabajadoras afectados.
+g) Las medidas de protección individual o colectiva adoptadas por el empresario y las instrucciones impartidas por éste en aras a la prevención de los riesgos.
+h) El incumplimiento de advertencias o requerimientos previos de la inspección de minas.
+i) La inobservancia de las propuestas realizadas por los delegados o delegadas o los comités de seguridad de la empresa o el centro de trabajo para la corrección de las deficiencias existentes.
+
+### Artículo 61 bis
+
+Artículo 61 bis. Reducción del importe de las sanciones.
+1. De conformidad con el artículo 85 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, cuando la sanción tuviera únicamente carácter pecuniario, en el supuesto de pago voluntario por el presunto responsable en cualquier momento anterior a la resolución, el órgano competente para resolver el procedimiento aplicará una reducción del 20 % sobre el importe de la sanción propuesta.
+También cuando la sanción tuviera únicamente carácter pecuniario, si, iniciado el procedimiento sancionador, la persona infractora reconociese su responsabilidad, el órgano competente para resolver el procedimiento aplicará una reducción del 20 % sobre el importe de la sanción que proceda. Esta reducción es acumulable con la establecida en el párrafo anterior.
+La efectividad de las reducciones previstas en los párrafos anteriores estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+2. En relación con las infracciones relativas al incumplimiento de las obligaciones de reacondicionamiento del espacio natural afectado por las actividades mineras o al incumplimiento de las previsiones contenidas en el plan de restauración, la resolución del procedimiento sancionador contendrá, además de la multa pecuniaria y otras sanciones que pudiesen corresponder, la exigencia del cumplimiento de las obligaciones indicadas de reacondicionamiento y restauración, así como la indemnización por los daños y perjuicios causados, que se determinará y exigirá por el órgano a que corresponda el ejercicio de la potestad sancionadora.
+La persona responsable de la infracción tendrá derecho a una reducción del 70 % de la multa que haya de imponerse en caso de que estuviera acreditado en el procedimiento sancionador, en el momento de formularse la propuesta de resolución, el cumplimiento íntegro de las obligaciones de reacondicionamiento y de las previsiones de restauración, así como, en su caso, la reparación de los daños y perjuicios causados. En la propuesta de resolución se indicará que, en el supuesto de pago voluntario por el presunto responsable en cualquier momento anterior a la resolución, el órgano competente para resolver el procedimiento aplicará una reducción adicional del 10 % sobre el importe de la sanción propuesta, ascendiendo la reducción máxima total al 80 %. Estas reducciones no son acumulables con ninguna otra establecida en la normativa aplicable, la cual, si procediese, se entenderá incluida en las mismas.
+En caso de que en el momento de formularse la propuesta de resolución estuviera acreditado en el procedimiento sancionador el cumplimiento íntegro de las obligaciones de reacondicionamiento y de las previsiones de restauración pero no la reparación de los daños y perjuicios que hubieran sido causados, la reducción será del 60 %. En la propuesta de resolución se indicará que, en el supuesto de pago voluntario por el presunto responsable en cualquier momento anterior a la resolución, el órgano competente para resolver el procedimiento aplicará una reducción adicional del 10 % sobre el importe de la sanción propuesta, ascendiendo la reducción máxima total al 70 %. Estas reducciones no son acumulables con ninguna otra establecida en la normativa aplicable, la cual, si procediese, se entenderá incluida en las mismas.
+3. Todas las posibles reducciones previstas en este artículo habrán de ser indicadas en la notificación de la iniciación del procedimiento.
+Se añade por el art. 34.6 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Artículo 62
+
+Artículo 62. Reparación de daños.
+Sin perjuicio de la sanción administrativa que se imponga, la persona infractora estará obligada a reparar los daños y perjuicios causados al objeto de restaurar y reponer los bienes alterados a su estado anterior.
+
+### Artículo 63
+
+Artículo 63. Multas coercitivas.
+1. Cuando la persona infractora no cumpla con la obligación impuesta en el artículo anterior o lo haga de forma incompleta, podrán serle impuestas multas coercitivas. La cuantía de cada una de dichas multas no superará el 20% de la sanción fijada para la infracción correspondiente, sin perjuicio de la posible ejecución subsidiaria por la propia administración a cargo de aquélla.
+2. Las multas coercitivas serán independientes y compatibles con las que se hubieran impuesto o hubieran podido imponerse como sanción por la infracción cometida.
+
+### Artículo 64
+
+Artículo 64. Suspensión temporal o caducidad.
+1. La comisión de una falta grave podrá llevar aparejada la suspensión temporal con clausura de la explotación por un plazo no superior a dos meses.
+2. La comisión de una falta muy grave, o de las faltas graves en las que expresamente así se indica, podrá llevar aparejada la suspensión temporal de las actividades de la empresa por un plazo entre dos meses a un año o el inicio del expediente de caducidad del derecho minero. Estas medidas habrán de ser ejecutadas, en todo caso, mediante resolución motivada por la autoridad competente para otorgar los derechos mineros.
+
+### Artículo 65
+
+Artículo 65. Publicidad.
+El órgano que ejerza la potestad sancionadora hará constar en la resolución correspondiente la necesidad de proceder a la publicación en el Diario Oficial de Galicia y a través de los medios de comunicación social que considere oportunos de las infracciones graves y muy graves cometidas, así como de las sanciones impuestas, incluyendo los nombres y apellidos o la razón social de las personas físicas o jurídicas responsables, siempre que hubieran adquirido ya el carácter de firmes en vía administrativa o judicial.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Atribución de competencias.
+La Xunta de Galicia dictará las normas de organización administrativa para atribuir a los órganos administrativos idóneos las competencias que ejerza la Comunidad Autónoma de Galicia en materia de minas, respecto a las cuales la legislación minera estatal de aplicación atribuya de forma explícita a órganos de la administración estatal las funciones para la realización de las mismas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Normas de procedimiento.
+En todos aquellos aspectos no regulados en la presente ley y en sus normas de desarrollo, los procedimientos en materia minera se regirán por las normas contenidas en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, o norma que la sustituya.
+Se modifica por la disposición final 6.14 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+ Se suspende la vigencia y aplicación de esta disposición, añadida por el art. 84, de la Ley 12/2014, de 22 de diciembre, desde el 30 de septiembre de 2015 para las partes en el proceso y desde el 9 de octubre de 2015 para los terceros, por providencia del TC que admite a trámite el recurso de inconstitucionalidad 5458/2015. Ref. BOE-A-2015-10864
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Inspección.
+Los funcionarios o funcionarias que desempeñen la función inspectora en materia de prevención de riesgos laborales deberán poseer formación en esta materia.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Fianza ambiental.
+Las garantías financieras previstas para las actividades mineras sometidas a la presente ley sustituyen a la fianza ambiental regulada en el Decreto 455/1996, de 7 de noviembre.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Censo Catastral Minero.
+El Censo Catastral Minero de Galicia, gestionado por la Cámara Oficial Minera de Galicia, se constituye en el Catastro Minero de Galicia al que hace referencia el artículo 9.
+Se añade por el art. 46.3 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#a4-8
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Actuaciones en caso de incautación de la garantía financiera.
+En caso de que el órgano competente en materia de minas ordene la incautación de la garantía financiera o equivalente para la rehabilitación del espacio natural afectado por la explotación, preparación, concentración y beneficio de recursos minerales, habrá de tramitarse el procedimiento, que se definirá reglamentariamente, para la ejecución de la puesta en seguridad y restauración del espacio natural.
+Se añade por la disposición final 6.15 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Actuaciones en caso de renuncia voluntaria o incumplimiento de un derecho minero.
+En caso de renuncia voluntaria de la persona titular o incumplimiento por parte de esta de la normativa minera que motive la caducidad de un derecho minero de las secciones C) y D), podrá caducarse el derecho sin la restauración del espacio natural afectado, cuando así lo estime el órgano minero teniendo en cuenta las reservas existentes y la importancia del recurso, a los efectos de convocar un concurso del derecho para continuar con su aprovechamiento. La devolución de la garantía depositada para la restauración quedará condicionada al depósito de la correspondiente garantía por la nueva persona titular del derecho. En caso de que no se otorgase el derecho en el concurso indicado, se requerirá a la persona titular anterior la restauración del espacio natural afectado con la advertencia de la ejecución del aval depositado en caso de no realizarla.
+Se añade por la disposición final 6.16 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-6
+
+### Disposición adicional octava
+
+Disposición adicional octava. Ejecución forzosa en materia de minas.
+1. Sin perjuicio del supuesto específico contemplado en el artículo 63, con carácter general, para lograr el cumplimiento de los requerimientos efectuados por la Administración y de las resoluciones administrativas dictadas en materia de minas, la Administración autonómica podrá proceder, previo apercibimiento, a la imposición de multas coercitivas, reiterables por lapsos de tiempo suficientes para el cumplimiento de la resolución o requerimiento, hasta lograr su ejecución por el sujeto obligado, en cuantía de 1.000 a 25.000 euros cada una, teniendo en cuenta la gravedad del incumplimiento y la reiteración de la multa.
+2. Es órgano competente para la imposición de las multas coercitivas aquel que resulte competente para dictar la resolución del procedimiento de que se trate o para efectuar el requerimiento.
+Se añade por el art. 34.7 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Disposición adicional novena
+
+Disposición adicional novena. Pago de las indemnizaciones por expropiación forzosa.
+Determinado en vía administrativa, de conformidad con la legislación reguladora de la expropiación forzosa, el justiprecio y las indemnizaciones de toda índole que correspondan como consecuencia del ejercicio de la potestad expropiatoria, el titular de los derechos mineros, en su condición de beneficiario en el procedimiento expropiatorio, acreditará ante la Administración el pago al expropiado de la cantidad total que procediera, incluidos los intereses que se establezcan.
+Si el titular de los derechos mineros, en su condición de beneficiario, no cumpliese las obligaciones que le corresponden y, en virtud de resolución judicial, cualquiera que fuese su fecha, la Comunidad Autónoma de Galicia tuviera que hacerse cargo del abono de las indemnizaciones a los expropiados, esta quedará subrogada en el crédito del expropiado.
+En el caso del párrafo anterior, una vez abonado por la Administración el importe de las indemnizaciones a los expropiados, el crédito de la Administración frente al beneficiario tendrá la consideración de recurso de derecho público a los efectos de lo dispuesto en la legislación de régimen financiero o presupuestario, por lo que si el beneficiario no procediera al reembolso íntegro de las cantidades a la Administración, una vez requerido al efecto, la Hacienda pública gallega estará en posesión de las prerrogativas legalmente establecidas, pudiendo proceder a su cobro por vía de apremio, de acuerdo con las reglas que rigen la recaudación ejecutiva.
+Se añade por el art. 34.8 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#a3-5
+
+### Disposición adicional décima
+
+Disposición adicional adicional décima.
+Sin perjuicio de lo establecido en el primer párrafo del apartado 1 del artículo 35, podrán convocarse de forma individualizada en cada provincia concursos relativos a recursos considerados como materias primas fundamentales o minerales críticos en los planes y programas europeos, estatales o autonómicos».
+Se añade por la disposición final 1 de la Ley 2/2024, de 7 de noviembre. Ref. BOE-A-2025-237
+
+### Disposición transitoria única
+
+Disposición transitoria única. Expedientes administrativos de regularización no resueltos.
+Los expedientes administrativos de regularización de explotaciones mineras, actividades extractivas de recursos minerales y de establecimientos de beneficio vinculados a las actividades mineras iniciados y no resueltos en la fecha de entrada en vigor de la presentes ley habrán de ser remitidos, en el plazo máximo de dos meses, a contar desde esa fecha, a la consejería competente en materia de minas para continuar su tramitación con arreglo a lo dispuesto en la disposición transitoria duodécima de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, que se modifica en la disposición final segunda de la presente ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Expedientes administrativos de regularización no resueltos.
+Los expedientes administrativos de regularización de explotaciones mineras, actividades extractivas de recursos minerales y de establecimientos de beneficio vinculados a las actividades mineras iniciados y no resueltos en la fecha de entrada en vigor de la presentes ley habrán de ser remitidos, en el plazo máximo de dos meses, a contar desde esa fecha, a la consejería competente en materia de minas para continuar su tramitación con arreglo a lo dispuesto en la disposición transitoria duodécima de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, que se modifica en la disposición final segunda de la presente ley.
+Se declara la desestimación del recurso de inconstitucionalidad 5458/2015, por Sentencia del TC 33/2016, de 18 de febrero. Ref. BOE-A-2016-2914
+ Se suspende la vigencia y aplicación de la numeración efectuada por el art. 84, de la Ley 12/2014, de 22 de diciembre desde el 30 de septiembre de 2015 para las partes en el proceso y desde el 9 de octubre de 2015 para los terceros, por providencia del TC que admite a trámite el recurso de inconstitucionalidad 5458/2015. Ref. BOE-A-2015-10864
+ Se enumera como disposición transitoria 1 por el art. 84 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-6
+ Su anterior denominación era disposición transitoria única.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen de las concesiones de explotación reguladas por la disposición transitoria primera de la Ley 22/1973, de 21 de julio, de minas.
+1. En el caso de las concesiones reguladas por la disposición transitoria primera de la Ley 22/1973, de 21 de julio, de minas, la denegación de la autorización de explotación por cualquiera de las causas legales determinará la caducidad de los derechos mineros correspondientes. Una vez que la resolución denegatoria sea definitiva en la vía administrativa, el órgano minero competente incoará de oficio el procedimiento de caducidad de los derechos, que, una vez que finalice, implicará la cancelación de la inscripción correspondente no Registro Minero de Galicia.
+2. Lo dispuesto en el punto anterior será aplicable a los casos de resoluciones denegatorias de autorizaciones de explotaciones dictadas con anterioridad a la entrada en vigor de la presente disposición.
+3. Los titulares de los derechos mineros caducados conforme a lo previsto en el apartado primero están obligados a tomar cuantas medidas sean necesarias para dejar los trabajos o labores en buenas condiciones y garantizar la seguridad de las personas y bienes. A estos efectos, una vez notificada la resolución de caducidad, dispondrán del plazo de dos meses para comunicar dichas medidas de seguridad a la jefatura territorial que corresponda de la consejería competente en materia de minas, que, previa la comprobación material de la explotación, autorizará el abandono o impondrá las medidas necesarias para garantizar la seguridad de las personas y bienes.
+Se declara la desestimación del recurso de inconstitucionalidad 5458/2015, por Sentencia del TC 33/2016, de 18 de febrero. Ref. BOE-A-2016-2914
+ Se suspende la vigencia y aplicación desde el 30 de septiembre de 2015 para las partes en el proceso y desde el 9 de octubre de 2015 para los terceros, por providencia del TC que admite a trámite el recurso de inconstitucionalidad 5458/2015. Ref. BOE-A-2015-10864
+ Se añade por el art. 84 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#a8-6
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en la presente ley, y, en especial, el Decreto 56/1985, de 21 de marzo, por el que se crea el Comité Consultivo de la Minería de Galicia.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 6/2001, de 29 de junio, de adecuación de la normativa de la Comunidad Autónoma de Galicia a la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+Se añade un nuevo punto en el anexo I de la Ley 6/2001, de 29 de junio, de adecuación de la normativa de la Comunidad Autónoma de Galicia a la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, dentro de los procedimientos de la Consejería de Industria y Comercio (hoy Consejería de Innovación e Industria) con el siguiente contenido:
+«Tipo de procedimiento: expediente sancionador o de caducidad en materia de minas.
+Plazo de duración: doce meses.
+Normativa reguladora: Ley de ordenación de la minería de Galicia.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 9/2002, de ordenación urbanística y protección del medio rural de Galicia.
+1. Se modifica el artículo 36 de la Ley 9/2002, de ordenación urbanística y protección del medio rural de Galicia, que queda redactado como sigue:
+«El régimen del suelo rústico de protección ordinaria tiene por finalidad garantizar la utilización racional de los recursos naturales y el desarrollo urbanístico sostenible. Estará sometido al siguiente régimen:
+1.º Usos permitidos por licencia municipal: los relacionados en el apartado 1, letras b), c) y e), y en el apartado 2, letras f) e i), del artículo 33 de la presente ley.
+2.º Usos autorizables por la comunidad autónoma: el resto de los usos relacionados en el artículo 33 de la presente ley, así como los que puedan establecerse a través de los instrumentos previstos en la legislación de ordenación del territorio, siempre que no impliquen la transformación urbanística del suelo.
+3.º Usos prohibidos: todos los demás.»
+2. Se modifica el artículo 37 de la Ley 9/2002, de ordenación urbanística y protección del medio rural de Galicia, que queda redactado como sigue:
+«Artículo 37. Suelos rústicos de especial protección agropecuaria, forestal o de infraestructuras.
+El régimen de los suelos rústicos de protección agropecuaria y forestal tiene por finalidad principal preservar los terrenos de alta productividad y garantizar la utilización racional de los recursos naturales y el desarrollo urbanístico sostenible. El régimen del suelo rústico de protección de infraestructuras, sin perjuicio de lo establecido en su específica legislación reguladora, tiene por objeto preservar las infraestructuras existentes o de nueva creación.
+Estará sometido al siguiente régimen:
+1.º Usos permitidos por licencia municipal: los relacionados en el apartado 1, letras b) y c), y en el apartado 2, letras f) e i), del artículo 33 de esta ley. Además, en el suelo rústico de protección forestal se permitirá lo relacionado en el apartado 1, letra e).
+En suelo rústico de protección de infraestructuras se permitirán las instalaciones necesarias para la ejecución y funcionamiento de la correspondiente infraestructura.
+2.º Usos autorizables por la comunidad autónoma:
+En suelo rústico de protección agropecuaria serán autorizables los usos relacionados en el apartado 1, letras a) y d), y en el apartado 2, letras a), b), d), e), h), j), k) y l), del artículo 33 de la presente ley, así como los que puedan establecerse a través de los instrumentos previstos en la legislación de ordenación del territorio, siempre que no impliquen la transformación urbanística de los terrenos ni lesionen los valores objeto de protección.
+En suelo rústico de protección forestal podrán autorizarse los usos relacionados en el apartado 1, letras a) y d), y en el apartado 2, letras a), b), c), d), e), g), h), j), k) y l), del artículo 33, siempre que no impliquen la transformación urbanística del suelo ni lesionen los valores objeto de protección, y los que puedan establecerse a través de los instrumentos de ordenación del territorio.
+En suelo rústico de protección de infraestructuras únicamente serán autorizables los usos relacionados en el apartado 1, letra a), y en el apartado 2, letras d) y f), del artículo 33, así como los que puedan establecerse a través de los instrumentos de ordenación del territorio.»
+3.º Usos prohibidos: todos los demás, especialmente los usos residenciales e industriales.
+3. Se modifica la disposición transitoria duodécima de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, que queda redactada como sigue:
+«Las explotaciones mineras, las actividades extractivas de recursos minerales y los establecimientos de beneficio vinculados a las actividades mineras en activo en el momento de la entrada en vigor de la Ley 9/2002, de 30 de diciembre, ubicados en suelo rústico especialmente protegido podrán continuar su actividad en los ámbitos para los que disponen de licencia urbanística municipal.
+Las explotaciones mineras, las actividades extractivas de recursos minerales y los establecimientos de beneficio vinculados a las actividades mineras en activo en el momento de la entrada en vigor de la Ley 9/2002, de 30 de diciembre, ubicados en suelo rústico de protección ordinaria y de especial protección forestal que no cuenten con la preceptiva licencia urbanística municipal para continuar su actividad deberán obtenerla, previa acreditación de su existencia con anterioridad a la entrada en vigor de dicha ley. Para ello, bastará con el reconocimiento administrativo de la dirección general con competencia en materia de minas. Para la obtención de la licencia urbanística municipal se presentará en el ayuntamiento la solicitud de regularización a la que se adjuntará el reconocimiento administrativo anteriormente señalado.
+Las explotaciones mineras, las actividades extractivas de recursos minerales y los establecimientos de beneficio vinculados a las actividades mineras en activo en el momento de la entrada en vigor de la Ley 9/2002, de 30 de diciembre, ubicados en cualquier categoría de suelo rústico especialmente protegido, salvo los mencionados en el párrafo anterior, que no cuenten con la preceptiva licencia urbanística municipal para continuar su actividad deberán obtenerla, previa autorización del Consejo de la Xunta, oída la Comisión Superior de Urbanismo de Galicia y la propuesta de la consejería competente en materia de minas. El Consejo de la Xunta valorará la compatibilidad o no de la explotación con los valores naturales, ambientales, paisajísticos y de patrimonio cultural existentes o con su vinculación a pactos ambientales.
+La implantación de nuevas explotaciones y actividades extractivas así como la ampliación de las existentes en cualquier categoría de suelo rústico especialmente protegido no podrán realizarse en tanto no sea aprobado definitivamente el Plan sectorial de actividades extractivas de Galicia previsto en el título III de la Ley de ordenación de la minería de Galicia, que será formulado y tramitado por el consejero o consejera competente en materia de minas; todo ello sin perjuicio de la posibilidad de otorgar licencia para actividades extractivas en suelo rústico de protección ordinaria y de especial protección forestal, según lo dispuesto por los artículos 36 y 37 de la presente ley.»
+
+### Disposición final tercera
+
+Disposición final tercera. Aprobación de las normas y planes previstos en la presente ley.
+La Xunta de Galicia aprobará en el plazo de un año las normas de desarrollo precisas para la aplicación de la presente ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Desarrollo reglamentario.
+1. Se autoriza a la Xunta de Galicia para dictar las disposiciones de aplicación y desarrollo de la presente ley.
+2. Queda igualmente facultada la Xunta de Galicia para actualizar por decreto la cuantía de las sanciones fijadas en la presente ley.
+
+### Disposición final quinta
+
+Disposición final quinta. Entrada en vigor.
+La presente ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Galicia».
+
+### [firma]
+
+Santiago de Compostela, 23 de mayo de 2008.
+El Presidente,
+EMILIO PÉREZ TOURIÑO

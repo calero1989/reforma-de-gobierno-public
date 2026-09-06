@@ -1,0 +1,393 @@
+# Ley 7/1997, de 3 de octubre, de creación de la Agencia de Desarrollo Económico de la Comunidad Autónoma de La Rioja.
+
+- Identificador BOE: `BOE-A-1997-22317`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-22317
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que la Diputación General de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey, de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de La Rioja atribuye en su artículo 8 a la Comunidad Autónoma de La Rioja competencias exclusivas en orden al fomento del desarrollo económico regional dentro de los objetivos marcados por la política económica nacional. En su ejercicio corresponden a la Comunidad Autónoma de La Rioja las potestades legislativa, reglamentaria y ejecutiva, que se ejercerán, en todo caso, respetando lo dispuesto en la Constitución.
+De acuerdo con el artículo 7 del Estatuto de Autonomía, la Comunidad Autónoma de La Rioja impulsará aquellas acciones que tiendan a mejorar las condiciones de vida y trabajo, y a incrementar la ocupación y crecimiento económico correspondiéndole la ordenación y planificación de la actividad económica regional en el ejercicio de las competencias asumidas en el Estatuto, según su artículo 9.
+El artículo 41 le faculta además para constituir o participar en instituciones que fomenten la ocupación y el desarrollo económico y social, propiciando cuantas acciones considere necesarias para mejorar las estructuras empresariales y comerciales, estimular la innovación tecnológica, catalizar nuevas inversiones en la Comunidad y promover la creación de empleo.
+El ejercicio efectivo y eficaz de esas competencias requiere disponer de una organización adecuada, dotada de personalidad jurídica y plena capacidad de obrar, dentro de las contempladas en el artículo 6.1.b) de la Ley General Presupuestaría, número 11/1977, de 4 de enero, según redacción de su texto refundido aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, pues la constitución de una entidad, a la que se encomendarán alguna de las funciones relativas al fomento del desarrollo económico, competencia de la Comunidad, para que las ejerza de forma descentralizada y autónoma, ofrece una serie de ventajas fácilmente identificadas:
+Se trata de una organización especializada en la promoción económica que mantendrá un contacto directo y constante con las realidades sobre las que se trata de incidir, lo que favorecerá un conocimiento profundo de las mismas que redundará en la eficacia de las actuaciones.
+Constituye un núcleo desde el que podrán impulsarse diversos programas y actuaciones coordinados y desde el que, fácilmente, se puede establecer una dirección global a las sociedades instrumentales pudiendo servir de interlocutor y favorecer actuaciones conjuntas.
+Sitúa a la Comunidad de La Rioja en iguales condiciones de competencia con buen número de regiones europeas y con gran parte de las Comunidades Autónomas españolas que cuentan con un ente de promoción.
+Una entidad de La Rioja que puede servir de interlocutor con esos otros entes de promoción y favorecer actuaciones conjuntas.
+Una entidad que asuma el liderazgo de la promoción económica haciendo efectivo el ejercicio de la competencia exclusiva de fomento del desarrollo económico de La Rioja prevista en el Estatuto de Autonomía.
+Desde otro prisma, y dada la conveniencia de solicitar la forma de intervención financiera de los Fondos Estructurales de la Unión Europea, conocida como «subvención global», prevista en el artículo 6 del Reglamento (UE) número 4.254/88 del Consejo, de 19 de diciembre, que aprueba disposiciones para la aplicación del Reglamento (UE) número 2.052/88, en lo relativo al Fondo Europeo de Desarrollo Regional. La creación de este organismo posibilitaría el acceso a la referida modalidad de intervención, pues está previsto que la gestión de subvenciones globales podrá confiarse a intermediarios investidos de una misión de carácter público, incluidos organismos de desarrollo regional.
+Todo ello justifica la oportunidad de crear una entidad institucional como la prevista en la presente Ley.
+Así pues, una entidad pública de carácter empresarial resulta ser la figura más adecuada y, en consecuencia, como tal se recoge en esta Ley.
+El título primero define la naturaleza y el régimen jurídico de la Agencia y establece los fines y funciones que se le atribuyen.
+El título segundo establece las líneas fundamentales de su organización y personal previendo un Consejo Asesor como órgano de representación y participación de los agentes económicos y sociales, un Consejo Rector como órgano de Gobierno y los restantes órganos directivos.
+El título tercero prevé los recursos de la Agencia, su régimen patrimonial y presupuestario.
+El título cuarto se refiere a los controles sobre su funcionamiento y actividad: Financiero, de eficacia y parlamentario.
+
+## TÍTULO I
+
+Naturaleza y fines
+
+### Artículo 1
+
+Artículo 1. Creación y naturaleza.
+1. Se crea la Agencia de Desarrollo Económico de La Rioja como entidad pública empresarial, prevista y regulada en la Ley 3/2003, de 3 de marzo, de organización del Sector Público de la Comunidad Autónoma de La Rioja, sin perjuicio de las peculiaridades dispuestas en esta Ley. Tiene personalidad jurídica pública diferenciada, plena capacidad de obrar, patrimonio y tesorería propios, así como autonomía de gestión, para el cumplimiento de sus fines, en los términos de la Ley 3/2003, de 3 de marzo, y de la presente Ley.
+2. La Agencia de Desarrollo Económico de La Rioja estará adscrita a la Consejería que tenga asignadas competencias en materia de promoción del desarrollo económico de la Comunidad Autónoma de La Rioja.
+Se modifica por el art. 25.1 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. La Agencia de Desarrollo Económico de La Rioja se regirá por el Derecho privado salvo en la formación de la voluntad de sus órganos, en el ejercicio de las potestades administrativas que tenga atribuidas y en los aspectos específicamente regulados en la Ley 3/2003, de 3 de marzo, en la Ley General Presupuestaria, y en la presente Ley.
+2. En materia de contratación se regirá por la normativa vigente en materia de contratos de las Administraciones Públicas.
+Se modifica por el art. 25.2 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+ Se modifica la letra d) por el art. 4.1 de la Ley 12/1998, de 17 de diciembre . Ref. BOE-A-1998-29924
+
+### Artículo 3
+
+Artículo 3. Objetivos.
+1. La Agencia de Desarrollo Económico de La Rioja tiene como objetivos fundamentales los siguientes:
+a) Favorecer el crecimiento económico de la región.
+b) Favorecer el incremento y la consolidación del empleo.
+c) Corregir los desequilibrios económicos intraterritoriales.
+2. Para el cumplimiento de sus fines generales y objetivos, de acuerdo con las directrices emanadas del Gobierno de La Rioja, y bajo la tutela y dirección de la Consejería de adscripción, la Agencia de Desarrollo Económico de La Rioja desarrollará las siguientes funciones:
+a) Fomentar la competitividad de las empresas riojanas mediante la implementación de los siguientes ejes estratégicos:
+1.º La investigación, la innovación y el desarrollo tecnológico.
+2.º La internacionalización y la promoción exterior.
+3.º La excelencia empresarial.
+4.º El diseño empresarial.
+b) Promover actuaciones y fomentar proyectos de investigación, desarrollo e innovación tecnológica, de acuerdo con las competencias de planificación, dirección, control y evaluación atribuidas a la Consejería de adscripción.
+c) Apoyo de las iniciativas y proyectos empresariales emprendedores, especialmente los innovadores y los de base tecnológica.
+d) Impulso e implantación de líneas de financiación de los proyectos empresariales (capital riesgo, capital semilla, avales, préstamos participativos, bonificación de intereses, redes de "business angels").
+e) Promoción de infraestructuras y servicios industriales, ya sea de forma directa o mediante la creación de órganos o entidades.
+f) Fomentar la cooperación público-privada para el desarrollo de proyectos y actuaciones de competencia de la Agencia de Desarrollo Económico de La Rioja.
+g) Fomentar la sostenibilidad medioambiental en la gestión y ejecución en todas sus actuaciones y políticas activas de promoción y desarrollo económico.
+h) Asesoramiento y prestación de servicios a las empresas para la mejora de su capacidad competitiva.
+i) Fomentar las acciones de apoyo al comercio, en especial las relativas al comercio minorista.
+j) Informar y promover la participación en los planes, programas, beneficios y ayudas que ofrezcan la Agencia de Desarrollo Económico de La Rioja, el Gobierno de La Rioja, el Estado y la Unión Europea para la implantación de proyectos de inversión en la Comunidad Autónoma de La Rioja.
+k) Promover iniciativas, públicas o privadas, para la creación, desarrollo y diversificación de la actividad económica regional generadora de empleo.
+l) Cualesquiera otras que se le encomienden por esta Ley u otras disposiciones que guarden relación con estos fines.
+Se modifica el apartado 2 por el art. 31.1 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906
+ Se modifican las letras e) y g) por el art. 25.3 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 4
+
+Artículo 4.
+Para el desarrollo de estas funciones la Agencia prestará especial atención a los proyectos generadores de empleo y a aquellos que contribuyan a mantener y aumentar el tejido industrial de la Comunidad de La Rioja.
+
+### Artículo 5
+
+Artículo 5.
+En el ejercicio de sus funciones y para el cumplimiento de sus fines podrá:
+a) Realizar toda clase de actividades económicas y financieras, sin más limitaciones que lo dispuesto en esta Ley y en las disposiciones que sean de aplicación. Podrá celebrar todo tipo de contratos, prestar avales dentro del límite máximo fijado por la Ley de Presupuestos Generales de la Comunidad de cada ejercicio y, asimismo, dentro de los límites que fije dicha Ley, contraer préstamos, emitir obligaciones o títulos similares, promover sociedades mercantiles o participar en sociedades ya constituidas y en entidades sin ánimo de lucro.
+b) Realizar y contratar estudios y asesoramientos sobre la promoción económica de La Rioja.
+c) Suscribir convenios con Administraciones Públicas y empresas e instituciones públicas y privadas.
+d) Conceder subvenciones de capital y corrientes.
+e) Obtener subvenciones y garantías de la Comunidad Autónoma de La Rioja y de otras entidades e instituciones públicas y privadas.
+
+### Artículo 6
+
+Artículo 6. Régimen de las subvenciones que otorgue.
+1. La Agencia de Desarrollo Económico de La Rioja cuenta con potestad para otorgar subvenciones. Los actos relativos a su concesión o denegación son actos administrativos que deberán producirse siguiendo el procedimiento que reglamentariamente se establezca, de acuerdo con lo dispuesto en los apartados siguientes.
+2. La cuantía global de los créditos presupuestarios que, en su caso, estuvieran previstos en la convocatoria podrá aumentarse en función de las disponibilidades presupuestarias.
+3. Las bases reguladoras de las subvenciones que otorgue la Agencia de Desarrollo Económico de La Rioja se aprobarán mediante Orden del titular de la Consejería de adscripción, a propuesta del Gerente de la Agencia.
+La norma reguladora de las bases de concesión de las subvenciones concretará, como mínimo, los extremos a los que se refiere la normativa general en materia de subvenciones y, en concreto, los requisitos que deben reunir los beneficiarios para la obtención de la subvención según se trate de empresas, asociaciones, administraciones públicas, particulares o cualesquiera entidades públicas o privadas. En todo caso los conceptos subvencionables deberán responder a los fines y objetivos previstos en el artículo 3.2 de la presente ley.
+Se añade un párrafo al apartado 3 por el art. 16 de la Ley 6/2025, de 21 de julio. Ref. BOE-A-2025-16835
+ Se modifica por el art. 31.2 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906
+
+## TÍTULO II
+
+De la organización y del personal de la Agencia
+
+### Artículo 7
+
+Artículo 7. Órganos.
+La Agencia de Desarrollo Económico de La Rioja cuenta con los siguientes órganos:
+a) El Consejo Asesor.
+b) El Consejo de Administración.
+c) El Presidente.
+d) El Vicepresidente.
+e) El Gerente.
+Se modifica por el art. 25.4 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 8
+
+Artículo 8. El Consejo Asesor.
+1. El Consejo Asesor se constituye como un órgano colegiado de carácter consultivo, en el que estarán representados y participarán los agentes económicos y sociales en la Agencia, con funciones de asesoramiento y orientación estratégica a la misma.
+2. Su composición, funciones y normas de funcionamiento se determinarán reglamentariamente.
+
+### Artículo 9
+
+Artículo 9. El Consejo de Administración.
+1. Es el órgano superior de Gobierno de la entidad y está integrado por el Presidente, el Vicepresidente, el Gerente y un número de personas que reglamentariamente se determinen.
+2. Su composición, funciones y normas de funcionamiento se determinarán reglamentariamente.
+Se modifica por el art. 25.12 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 10
+
+Artículo 10. El Presidente.
+1. El Presidente de la Agencia de Desarrollo Económico de La Rioja será, con carácter nato, el titular de la Consejería que tenga asignadas las competencias en materia de promoción del desarrollo económico de la Comunidad Autónoma de La Rioja.
+2. Sus funciones se regularán reglamentariamente.
+Se modifica por el art. 25.5 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 11
+
+Artículo 11. El Vicepresidente.
+1. El Vicepresidente de la Agencia de Desarrollo Económico de La Rioja será, con carácter nato, el Secretario General Técnico de la Consejería que tenga asignadas las competencias en materia de promoción del desarrollo económico de la Comunidad Autónoma de La Rioja.
+2. Corresponde al Vicepresidente sustituir al Presidente en caso de ausencia, vacante, enfermedad y en cualquier otra circunstancia que impida a éste ejercer sus funciones.
+3. Sus funciones se regularán reglamentariamente.
+Se modifica el apartado 1 por el art. 31.3 de la Ley 6/2007, de 21 de diciembre. Ref. BOE-A-2008-906
+ Se modifica por el art. 25.6 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 12
+
+Artículo 12. El Gerente.
+1. El Gerente será designado por el Consejo de Administración a propuesta del Presidente.
+2. Sus funciones y régimen jurídico se regularán reglamentariamente.
+Se modifica por el art. 25.12 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 13
+
+Artículo 13. Personal.
+1. El personal de la Agencia de Desarrollo Económico de La Rioja podrá ser:
+a) Contratado en régimen de derecho laboral, respetando los principios de publicidad, igualdad, mérito y capacidad y que en ningún caso tendrá la consideración de personal al servicio de las Administraciones Públicas.
+b) Funcionario de carrera, adscrito a esta Entidad.
+2. Los funcionarios de carrera de la Comunidad Autónoma de La Rioja que presten servicios en la Agencia de Desarrollo Económico de La Rioja, que se hará cargo de sus retribuciones, quedarán en la situación administrativa de servicio activo en la Administración Pública de la Comunidad Autónoma de La Rioja, y gozarán de todos los derechos que correspondan a la condición de funcionario.
+El tiempo de servicios prestados en la Agencia de Desarrollo Económico de La Rioja computará a efectos de trienios y promoción interna. A efectos de consolidación de grado, se tendrán en cuenta los niveles de complemento de destino de los puestos de trabajo que desempeñen en la Agencia de Desarrollo Económico de La Rioja.
+3. La determinación de las condiciones retributivas del personal de la Agencia serán aprobadas por el Consejo de Administración a través de las relaciones de puestos de trabajo, que serán objeto de actualización de acuerdo con los criterios establecidos en las leyes de presupuestos generales de la Comunidad Autónoma de La Rioja para cada ejercicio. Igualmente corresponderá al Consejo de Administración determinar las retribuciones del Gerente. Estos acuerdos del Consejo de Administración requieren para su validez informe previo, conjunto y favorable de las Consejerías competentes en materia de Función Pública y de Hacienda.
+Se modifica por el art. 25.7 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+## TÍTULO III
+
+El régimen económico y patrimonial de la Agencia
+
+### Artículo 14
+
+Artículo 14. Recursos de la Agencia.
+Los recursos económicos de la entidad estarán formados por:
+a) Las consignaciones presupuestarias que le sean asignadas en los presupuestos generales de la Comunidad a favor de la Agencia.
+b) Los ingresos que pueda percibir por la prestación de servicios, realización de trabajos, estudios o asesoran-tiento propios de sus funciones.
+c) Las subvenciones o aportaciones voluntarias de entidades e instituciones públicas y privadas, así como de particulares.
+d) Las rentas y productos que generen los bienes y valores que constituyen su patrimonio o provenientes de su participación en sociedades.
+e) Los créditos, préstamos y demás operaciones financieras que concierte.
+f) Cualquier otro ingreso público o privado que pudiera corresponderle, conforme la legislación vigente.
+
+### Artículo 15
+
+Artículo 15. Patrimonio de la Agencia.
+1. El patrimonio de la Agencia estará constituido por los bienes y derechos que esta Ley le atribuye y aquellos otros que adquieran en el futuro por cualquier título. En el momento de la entrada en vigor de esta Ley está constituido por una dotación inicial de 250 millones de pesetas.
+2. Formarán parte del patrimonio de la Agencia de Desarrollo Económico de La Rioja las acciones de que sea titular la Comunidad Autónoma de La Rioja en las sociedades cuya finalidad principal sea la promoción económica. Reglamentariamente se regularán las condiciones y procedimiento para su adscripción.
+3. El patrimonio de la Agencia está sometido al régimen jurídico dispuesto por la disposición adicional décima de la Ley de la Ley 11/2005, de 19 de octubre, de Patrimonio de la Comunidad Autónoma de La Rioja.
+La administración y conservación del patrimonio corresponderá a los órganos que se determine reglamentariamente.
+4. En caso de disolución de la entidad, los activos remanentes, tras el pago de las obligaciones pendientes, se incorporarán al patrimonio de la Comunidad Autónoma de La Rioja.
+5. Reglamentariamente podrá establecerse la necesidad de autorización previa del Gobierno de La Rioja para la adquisición de acciones en sociedades.
+Se modifica el apartado 3 por el art. 17 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica el apartado 3 por el art. 25.8 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+ Se modifica el apartado 2 por el art. 4.2 de la Ley 12/1998, de 17 de diciembre. Ref. BOE-A-1998-29924
+
+### Artículo 16
+
+Artículo 16. Presupuestos de la Agencia.
+1. La Agencia de Desarrollo Económico de La Rioja elaborará anualmente un anteproyecto de presupuesto, que será aprobado por el Consejo de Administración, de acuerdo con la estructura y contenido previstos en los artículos 50 a 53 de la Ley General Presupuestaria y con la normativa que al efecto dicte la Consejería competente en materia presupuestaria, el cual será remitido a dicha Consejería para su integración en los Presupuestos Generales de la Comunidad Autónoma de La Rioja.
+2. El presupuesto de la Agencia tendrá carácter limitativo por su importe global. Los créditos para gastos se especificarán según su clasificación funcional y económica, respectivamente, a nivel de función y de operaciones no financieras y de operaciones financieras.
+3. Las variaciones en la cuantía total del presupuesto serán autorizadas por el Consejero responsable de Economía, dando cuenta a la Diputación General de La Rioja. Las modificaciones internas que no alteren la cuantía total del presupuesto serán aprobadas por el Presidente de la entidad.
+Se modifica el apartado 2 por el art. 18 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica el apartado 1 por el art. 25.9 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 17
+
+Artículo 17. Vigencia y prórroga del presupuesto.
+1. El presupuesto de la Agencia de Desarrollo Económico de la Comunidad Autónoma de La Rioja tendrá vigencia durante el ejercicio económico a que se refiera, cualquiera que sea la fecha de su publicación en el «Boletín Oficial de La Rioja».
+2. Si la Diputación General de La Rioja no aprobara el presupuesto antes del primer día del ejercicio económico se entenderá prorrogado automáticamente el del ejercicio anterior, hasta la publicación del nuevo.
+
+### Artículo 18
+
+Artículo 18. Aprobación de gastos. Órganos de contratación y mesa de contratación.
+1. La aprobación de gastos corresponderá al Presidente y al Gerente en los términos y previas las autorizaciones que, en su caso, reglamentariamente se disponga.
+2. Serán órganos de contratación de la Agencia el Presidente y el Gerente en los términos que reglamentariamente se determinen, sin perjuicio de las autorizaciones previas a la celebración de los contratos que se establezcan.
+3. La composición de la mesa de contratación se determinará en el Reglamento Interno de Funcionamiento de la Entidad. Entre los vocales deberán figurar necesariamente un Letrado de los Servicios Jurídicos y un Interventor.
+Se modifica por el art. 25.10 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 19
+
+Artículo 19. Libramiento de Fondos de la Agencia de Desarrollo Económico de la Comunidad Autónoma de La Rioja.
+Los fondos correspondientes a la aportación de la Comunidad Autónoma al presupuesto de la Agencia de Desarrollo Económico de La Rioja se librarán por la Consejería competente en materia de Hacienda sin justificación, en firme y por trimestres anticipados.
+No obstante, la Consejería competente en materia de Hacienda podrá justificadamente y a instancias de la Agencia de Desarrollo Económico de La Rioja, adecuar la salida de dichos fondos a las necesidades reales de tesorería de la Entidad sin sujeción a lo dispuesto en el párrafo anterior.
+2. Por Ley de Presupuestos se podrá establecer para cada ejercicio otra forma de libramiento para aquellos créditos de carácter singular que expresamente se determinen.
+Se modifica por el art. 15 de la Ley 7/2001, de 14 de diciembre. Ref. BOE-A-2002-551
+
+### Artículo 20
+
+Artículo 20. Contabilidad.
+La Agencia de Desarrollo Económico de la Comunidad Autónoma da La Rioja está sometida al Régimen de Contabilidad Pública con la obligación de rendir cuentas al gobierno de La Rioja y a la Diputación General.
+
+## TÍTULO IV
+
+De los controles sobre la actividad de la Agencia
+
+### Artículo 21
+
+Artículo 21. Control financiero.
+El control económico y financiero de la Agencia será realizado mediante comprobaciones periódicas y auditorías, por la Intervención General de la Comunidad Autónoma, de cuyo resultado se informará a la Diputación General.
+
+### Artículo 22
+
+Artículo 22. Control de eficacia.
+1. El control de eficacia de la Agencia de Desarrollo Económico de La Rioja se realizará por la Consejería que tenga asignada la competencia en materia de promoción económica.
+2. Sin perjuicio de lo previsto en el apartado anterior, la Agencia de Desarrollo Económico de La Rioja podrá instrumentar un control interno de auditoría para determinar el grado de cumplimiento de sus objetivos.
+Se modifica por el art. 25.11 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Artículo 23
+
+Artículo 23. Control parlamentario.
+Anualmente, el Presidente de la Agencia de Desarrollo de La Rioja remitirá un informe a la Diputación General de La Rioja sobre la ejecución del presupuesto del ejercicio anterior, los resultados de las actuaciones realizadas, el cumplimiento de los objetivos programados y la situación de las empresas en que participe.
+
+## TÍTULO V
+
+Proyectos de interés estratégico para La Rioja
+Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 24
+
+Artículo 24. Concepto.
+Tendrán la consideración de proyectos de interés estratégico para La Rioja (PIER) aquellos proyectos de inversión promovidos por personas físicas o jurídicas que sean expresamente declarados como tales de acuerdo con el procedimiento establecido en el artículo 27.
+Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 25
+
+Artículo 25. Requisitos.
+Para optar a la declaración de PIER, los proyectos empresariales deberán reunir los siguientes requisitos:
+a) Ser viables económica y financieramente.
+b) Ajustarse a la normativa vigente, en especial la relativa a la protección del medioambiente, a la ordenación territorial y al urbanismo.
+c) Generar cadenas de valor añadido y empleo de calidad en la Comunidad Autónoma de La Rioja, siendo intensivos en inversión y/o en empleo, considerando como tales aquellos cuyos ratios de inversión y/o de empleo comparados con el sector resulten especialmente significativos.
+d) Reunir al menos tres de las siguientes características:
+1.ª Que contribuyan al desarrollo del perfil productivo de La Rioja, potenciando sectores innovadores.
+2.ª Que se trate de proyectos industriales o de servicios avanzados con alto potencial innovador y desarrollo tecnológico que representen un avance cualitativo en la reindustrialización de La Rioja.
+3.ª Que contribuyan a la mejora y la implantación de la sociedad del conocimiento.
+4.ª Que supongan la implantación de nuevas actividades económicas que pueden sustituir a sectores en declive o en reconversión.
+5.ª Que tengan una incidencia adicional en la cohesión territorial y en el desarrollo de las zonas más desfavorecidas, contemplando la 'repoblación' como uno de los indicadores decisorios a la hora de valorar la viabilidad.
+6.ª Que estén alineados con los sectores, ejes y políticas de desarrollo regional establecidos en los distintos planes, programas y estrategias.
+7.ª Que tengan singular impacto como tractores de la economía regional.
+Se modifica por el art. 11.1 de la Ley 2/2021, de 29 de enero. Ref. BOE-A-2021-2766
+ Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 26
+
+Artículo 26. Criterios de valoración de los proyectos de inversión.
+La declaración de interés estratégico para La Rioja se realizará en atención a la especial relevancia del proyecto de inversión para el desarrollo social y económico de La Rioja, valorando los siguientes criterios:
+a) Su impacto en la economía riojana, especialmente su efecto tractor, en particular en los sectores de especial interés para La Rioja.
+b) Su impacto en la creación y mantenimiento de empleo de calidad.
+c) Incidencia de la inversión en la vertebración territorial y social.
+d) Su capacidad para movilizar inversión privada interna o externa.
+e) Grado de innovación que aporta el proyecto y aportación a la reindustrialización de La Rioja.
+f) Contar con un plan de igualdad de acuerdo con la normativa que resulte de aplicación.
+g) Impacto del proyecto en la sostenibilidad ambiental de La Rioja.
+h) Impacto en los sectores que se priorizan en las políticas de desarrollo regional en los distintos planes, programas y estrategias.
+i) Favorecer la empleabilidad y la inclusión de la mujer, juventud y colectivos vulnerables en el mercado laboral.
+j) Otros compromisos y obligaciones que asume el promotor de la inversión.
+Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 27
+
+Artículo 27. Procedimiento para la declaración de proyectos de interés estratégico regional.
+1. La declaración de proyectos de interés estratégico será iniciada por el titular de la consejería con competencias en materia de desarrollo económico, de oficio o a instancia de cualquier Administración pública o entidad de derecho público, persona física o jurídica, previa audiencia del interesado, y mediante una memoria justificativa en la que se abordarán los siguientes aspectos:
+a) Identificación y trayectoria empresarial del promotor o promotores del proyecto de inversión y la integración de este en los planes de empresa.
+b) Descripción detallada de las características técnicas y económicas del proyecto de inversión y su localización.
+c) Justificación de la concurrencia de los requisitos establecidos en el artículo 25.
+d) Análisis y justificación de los criterios establecidos en el artículo 26.
+A estos efectos, la Agencia de Desarrollo Económico estará facultada para la contratación de especialistas en la captación de proyectos empresariales para su implantación en La Rioja. Se articularán los instrumentos necesarios para que los adjudicatarios puedan actuar por cuenta de la Agencia de Desarrollo Económico, y al menos una parte de su retribución será variable, en función de la consecución de los objetivos previamente establecidos.
+2. En el supuesto de que la consejería con competencias en materia de desarrollo económico no iniciara la declaración efectuada a instancia de los sujetos descritos en el primer párrafo de este artículo, emitirá resolución motivada que notificará a los solicitantes, en el plazo de un mes. Cuando el procedimiento no haya sido iniciado de oficio y no se emita dicha resolución, se entenderá desestimada.
+3. Cuando la declaración se promueva por una consejería del Gobierno de La Rioja, el escrito por el que se insta la declaración, se remitirá al titular de la consejería con competencias en materia de desarrollo económico.
+4. La tramitación del procedimiento para la declaración de interés estratégico regional se llevará a cabo por la Agencia de Desarrollo Económico de La Rioja.
+5. La Agencia de Desarrollo Económico de La Rioja podrá requerir cuantas aclaraciones, informaciones o justificaciones considere oportunas o necesarias en orden a la justificación de los requisitos o de los criterios establecidos en los artículos 25 y 26, respectivamente.
+6. El proyecto empresarial de inversión será evaluado por una Comisión Técnica integrada por:
+a) El gerente de la Agencia de Desarrollo Económico de La Rioja, que actuará como presidente.
+b) Un técnico de la Agencia de Desarrollo Económico de La Rioja designado por el gerente, que actuará como secretario.
+c) El titular de la dirección general u otro algo cargo de la consejería competente en materia de promoción económica cuyas competencias estén relacionadas directa o indirectamente con el objeto del proyecto de inversión.
+d) Un representante de la corporación local en que vaya a ubicarse el proyecto de inversión, designado por acuerdo del pleno de la corporación.
+e) Un representante designado por el Consejo Asesor de la Agencia de Desarrollo Económico de La Rioja.
+Asimismo, a invitación del presidente de la Comisión Técnica, podrá asistir un representante de otras consejerías, instituciones u organizaciones, públicas o privadas, cuya presencia se considere de interés.
+7. La Comisión Técnica podrá solicitar informe de los órganos competentes, autonómicos o locales, en particular y cuando así se requiera de las consejerías competentes en materia de política territorial, urbanismo, medioambiente y patrimonio, para la tramitación de los expedientes relacionados con la inversión, que deberán emitirlo en el plazo de diez días.
+8. La Comisión Técnica elaborará un informe motivado sobre la pertinencia o no de la declaración del proyecto de inversión como de interés estratégico regional.
+9. El informe de la Comisión Técnica, junto con el expediente, será elevado al Consejo de Administración de la Agencia de Desarrollo Económico de La Rioja y, una vez aprobado por este, será elevado al Consejo de Gobierno a los efectos previstos en el artículo siguiente.
+Se modifican los apartados 6.e) y 9 por el art. 8 de la Ley 13/2023, de 28 de diciembre. Ref. BOE-A-2024-1778
+ Se modifica el apartado 6 por el art. 11.2 de la Ley 2/2021, de 29 de enero. Ref. BOE-A-2021-2766
+ Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 28
+
+Artículo 28. Declaración de interés estratégico regional.
+1. Corresponderá al Consejo de Gobierno de La Rioja, a propuesta del Consejo de Administración de la Agencia de Desarrollo Económico de La Rioja, la competencia para acordar la declaración de proyecto de inversión de interés estratégico para La Rioja.
+2. En la declaración se podrán establecer las obligaciones, concretando el plazo en que deban cumplirse las mismas, que deberán asumir el promotor o promotores de la inversión empresarial objeto de la declaración, así como fijar las especificidades que se deriven de la naturaleza del proyecto.
+3. El acuerdo del Consejo de Gobierno se notificará al promotor del proyecto de inversión, surtiendo efectos la declaración a partir de la fecha de notificación. En el supuesto previsto en el apartado anterior, la eficacia quedará demorada al momento en que las personas promotoras manifiesten su conformidad con las obligaciones establecidas en la declaración, para lo que dispondrán de un plazo de treinta días contados a partir del día siguiente al de la notificación. En el supuesto de que no se produzca dicha conformidad, la declaración quedará sin efecto.
+4. El acuerdo se publicará en el Boletín Oficial de La Rioja una vez quede acreditada, en su caso, la conformidad de los promotores del proyecto con las obligaciones establecidas en la declaración.
+5. Los acuerdos del Consejo de Gobierno que declaren un proyecto como inversión de interés estratégico regional deberán ser remitidos al Parlamento de La Rioja y al Consejo Riojano del Diálogo Social en el plazo de siete días desde su publicación en el "Boletín Oficial de La Rioja" junto con el informe de la Comisión Técnica. Estos acuerdos serán presentados ante la comisión del Parlamento de La Rioja que se estime procedente en el plazo máximo de dos meses desde su publicación en el "Boletín Oficial de La Rioja", al objeto de informar sobre las características que se han considerado determinantes para tal calificación, y con posterioridad para informar del estado de tramitación, implantación y ejecución de los proyectos.
+Se modifica el apartado 5 por el art. 11.3 de la Ley 2/2021, de 29 de enero. Ref. BOE-A-2021-2766
+ Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 29
+
+Artículo 29. Efectos de la declaración de interés estratégico.
+1. La declaración de un proyecto de inversión como de interés estratégico podrá tener todos o alguno de los siguientes efectos, que se concretarán en el correspondiente acuerdo del Consejo de Gobierno:
+a) Las inversiones declaradas de interés estratégico tendrán en sus distintos trámites un impulso preferente y urgente ante cualquier Administración pública y órgano del sector público de la Comunidad Autónoma de La Rioja.
+b) Los plazos ordinarios de los trámites administrativos previstos en la normativa de la Comunidad Autónoma de La Rioja se reducirán a la mitad, salvo los relativos a la presentación de solicitudes y recursos, a los procedimientos de concurrencia competitiva, a los de naturaleza fiscal y a los de información pública.
+c) Las inversiones incluidas en la declaración de interés estratégico regional se beneficiarán de las primas de intensidad de ayuda que pudieran establecerse en las correspondientes bases reguladoras y/o convocatorias de las subvenciones, en los términos establecidos por las mismas, pudiéndose fijar un importe máximo global de ayuda al proyecto.
+d) El Consejo de Gobierno podrá autorizar al órgano competente para la enajenación directa a título oneroso de bienes inmuebles o derechos reales a favor del promotor o promotores del proyecto de inversión.
+e) Asignación de un gestor nombrado por la Comisión Técnica para la coordinación de la tramitación del proyecto de inversión, otorgándole la capacidad de interlocución y solicitud de informes con las diferentes administraciones.
+f) Cuando para ejecutar un proyecto de interés estratégico sea necesario, previamente, modificar los instrumentos de planeamiento territorial y urbanísticos vigentes o aprobar otros nuevos, deberá realizarse la declaración de interés o alcance regional, y de interés social o utilidad pública.
+g) Cuando para ejecutar un proyecto de interés estratégico fuera necesaria la expropiación forzosa de bienes y derechos a favor del solicitante, la declaración de utilidad pública e interés social, así como la necesidad y urgencia de la ocupación de bienes y derechos afectados se realizará de acuerdo con lo establecido por la legislación expropiatoria.
+h) El establecimiento o ampliación de servidumbres de paso para vías de acceso, líneas de transporte y distribución de energía y canalizaciones de líquidos o gases, en los casos en que fuera necesario, de conformidad con la normativa que las regule.
+2. Los efectos de la declaración de un proyecto de inversión como de interés estratégico para La Rioja previstos en los párrafos a) y b) del apartado 1 del presente artículo se extenderán a los trámites y procedimientos competencia de la Administración local de La Rioja.
+3. El Consejo de Gobierno adoptará o impulsará las medidas presupuestarias que resulten necesarias en orden a atender las obligaciones de contenido económico que puedan derivarse de la declaración de proyecto de interés estratégico regional dentro del marco del cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Artículo 30
+
+Artículo 30. Seguimiento del proyecto de inversión.
+1. La Comisión Técnica realizará el seguimiento de la tramitación administrativa llevada a cabo con las inversiones empresariales que hayan obtenido la declaración de interés estratégico para La Rioja. A estos efectos, la Comisión Técnica podrá recabar del promotor y de los órganos administrativos intervinientes en los diferentes procedimientos cuanta información se considere oportuna para el conocimiento del desarrollo y puesta en marcha del proyecto.
+2. Las consejerías competentes en la tramitación de los procedimientos que afecten a inversiones empresariales declaradas de interés estratégico para La Rioja remitirán periódicamente a la Comisión Técnica un informe sobre el estado de tramitación de dichas inversiones.
+3. El titular de la consejería de ámbito económico informará regularmente en la comisión correspondiente del Parlamento de La Rioja del seguimiento llevado a cabo de las inversiones empresariales que hayan obtenido la declaración de interés estratégico para La Rioja.
+Se añade por el art. único de la Ley 2/2019, de 18 de marzo. Ref. BOE-A-2019-4449
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las modificaciones que supongan alteración de la naturaleza jurídica, fines generales o peculiaridades relativas a recursos económicos, régimen de personal, de contratación y fiscal, se harán mediante Ley. En la misma forma se establecerá su extinción que fijará el modo en que sus órganos continuarán desempeñando sus funciones hasta la total liquidación.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las competencias que en materia de funciones asignadas a la Agencia se encuentran en las distintas Consejerías del Gobierno de La Rioja y cualesquiera otras que se mencionen en la Ley, se entenderán atribuidas a la Agencia desde el momento de su constitución efectiva.
+Las modificaciones en las competencias y denominación de unidades administrativas, así como su creación, refundición o supresión, serán aprobadas en Consejo de Gobierno, con el informe preceptivo de la Consejería de Desarrollo Autonómico, Administraciones Públicas y Medio Ambiente y serán publicadas en el «Boletín Oficial de La Rioja» como requisito previo a su eficacia.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el momento en que la entidad comience a gestionar y conceder incentivos a la inversión o a realizar otras actuaciones que hasta entonces viniera llevando a cabo la Administración de la Comunidad, el Consejo de Gobierno le transferirá la dotación precisa, en cuantía suficiente, de los correspondientes programas presupuestarios.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Se efectuarán las modificaciones de créditos necesarias para la dotación correspondiente a la creación de la Agencia de Desarrollo de la Comunidad Autónoma de La Rioja, y efectuar en su favor las subvenciones que correspondan, con acuerdo previo del Consejo de Gobierno y propuesta de la Consejería de Hacienda y Promoción Económica.
+
+### Disposición final primera
+
+Disposición final primera.
+El Consejo de Administración aprobará el Reglamento interno de funcionamiento de la Agencia en el plazo máximo de tres meses a partir de la entrada en vigor de esta Ley.
+Se modifica por el art. 25.12 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley se publicará conforme a lo dispuesto en el artículo 21 del Estatuto de Autonomía de La Rioja y entrará en vigor al día siguiente de su publicación.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+Logroño, 3 de octubre de 1997.
+PEDRO SANZ ALONSO,
+Presidente

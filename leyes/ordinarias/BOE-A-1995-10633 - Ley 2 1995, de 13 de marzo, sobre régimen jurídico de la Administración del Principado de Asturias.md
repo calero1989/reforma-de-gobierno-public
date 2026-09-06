@@ -1,0 +1,834 @@
+# Ley 2/1995, de 13 de marzo, sobre régimen jurídico de la Administración del Principado de Asturias.
+
+- Identificador BOE: `BOE-A-1995-10633`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-10633
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente
+LEY SOBRE RÉGIMEN JURÍDICO DE LA ADMINISTRACIÓN DEL PRINCIPADO DE ASTURIAS
+PREÁMBULO
+I
+La organización y funcionamiento de la Administración del Principado de Asturias fue regulada inicialmente por la primera Ley aprobada por la Junta General del Principado de Asturias a raíz de la constitución de la Comunidad Autónoma –la Ley 1/1982, de 24 de mayo– en la etapa denominada de Legislatura provisional, siendo posteriormente convalidada y modificada parcialmente por la Ley 9/1983, de 12 de diciembre, una vez celebradas las primeras elecciones a la Junta General del Principado, a partir de las cuales la nueva Asamblea constituida pasó a ejercer la plenitud de su potestad legislativa.
+La Ley citada –que estableció el esquema organizativo de la nueva Administración regional y reguló el funcionamiento de la misma, clarificando el régimen jurídico en cada caso aplicable, teniendo en cuenta la singularidad del Principado de Asturias como Comunidad Autónoma uniprovincial– resultó de inicio un instrumento idóneo para la puesta en marcha de dicha Administración, si bien, en la medida que el desarrollo de ésta lo iba precisando, diversas materias en la misma tratadas, tales como organización, función pública, régimen económico y presupuestario, patrimonio, fueron sucesivamente objeto de regulación más completa mediante la aprobación de leyes específicas sectoriales que han determinado otras tantas derogaciones parciales de la Ley 1/1982. Como consecuencia de ello, su contenido ha quedado reducido a unas escasas reglas, principalmente referidas al régimen jurídico de la Administración del Principado, cuya parquedad venía poniendo de manifiesto la necesidad de un tratamiento legal más amplio y desarrollado.
+La expresada necesidad, unida a la oportunidad derivada de la promulgación de la Ley 30/1992, de 26 de noviembre, del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común, dictada por el Estado en desarrollo de la competencia exclusiva contemplada en el artículo 149.1.18 de la Constitución Española, y a la posibilidad competencial del Principado de Asturias, recogida en el artículo 10 del Estatuto de Autonomía, de regular la organización de sus instituciones de autogobierno y el procedimiento administrativo derivado de las especialidades de la organización propia, determina la conveniencia y oportunidad de la presente Ley que, respetando y ajustándose a la legislación básica estatal, regula los aspectos procedimentales y de régimen jurídico necesarios para el funcionamiento de aquélla.
+II
+La Ley trata una variedad de materias ordenadas en capítulos en razón de la homogeneidad de su contenido.
+En el capítulo I se recogen los principios y normas definidoras de la actuación de la Administración del Principado de Asturias, tanto en su funcionamiento interno, para el que se determina la obligatoriedad de que su actividad ha de ser objeto de programación y sometimiento periódico a auditorías o inspecciones para verificar el grado de su eficacia, como en sus relaciones con los ciudadanos, respecto de los que se da puntual concreción a determinados derechos que la legislación básica del régimen jurídico de las Administraciones públicas les reconoce.
+El capítulo II regula las relaciones de la Administración del Principado de Asturias con otras Administraciones públicas, con especial consideración de los convenios de colaboración, determinándose su ámbito, tanto subjetivo como objetivo o de contenido, y su formalización.
+En el capítulo III se aborda la regulación del procedimiento para la creación de órganos administrativos, así como el ejercicio por éstos de sus competencias, siguiendo el régimen hasta ahora vigente en la Administración del Principado de Asturias en el que las competencias decisorias con trascendencia respecto a terceros sólo están atribuidas al Consejo de Gobierno y a los titulares de las Consejerías, si bien queda prevista en la Ley la posibilidad de su desconcentración en órganos dependientes de aquéllos, cuando circunstancias de carácter organizativo, funcional o territorial lo hagan necesario.
+El capítulo IV trata de los actos de los órganos de la Administración del Principado de Asturias y de su revisión, siendo de destacar, en cuanto a ésta –dada su peculiaridad de la distribución competencial que en la práctica imposibilita, salvo supuestos puntuales, el juego del recurso ordinario– el mantenimiento del recurso de súplica ante el Consejo de Gobierno contra los actos de los titulares de las Consejerías, recurso que pasa a regirse por las reglas establecidas para el recurso ordinario. Con ello se posibilita que las peticiones de los ciudadanos sean consideradas en doble instancia por la propia Administración pública previamente al ejercicio de las acciones que pudieran corresponderles en sede jurisdiccional.
+El capítulo V está dedicado a la regulación del procedimiento de elaboración de disposiciones de carácter general, regulación inspirada en las disposiciones aplicables a este procedimiento especial en la esfera estatal y recogidas en la Ley de procedimiento administrativo de 17 de julio de 1958. Se confiere de esta forma rango legal al contenido de anteriores normas procedentes tanto del Consejo de Gobierno como de la Consejería de Interior y Administraciones Públicas.
+Los capítulos VI y VII se refieren, respectivamente, a la potestad sancionadora y a la contratación administrativa, recogiendo una serie de normas específicas para su ejercicio por los órganos que integran la Administración del Principado de Asturias.
+Por último, la Ley contiene cinco disposiciones adicionales en las que se regulan otras tantas cuestiones que no tienen encaje en los distintos capítulos de la misma, una disposición transitoria, una derogatoria y una final.
+
+## CAPÍTULO I
+
+De los principios y normas generales de la actuación de la Administración del Principado de Asturias
+
+## Sección 1
+
+Sección 1.ª Principios y normas generales
+Se añade por el art. 5 de la Ley autonómica 14/2001, de 28 dediciembre. Ref. BOE-A-2002-2836.
+
+### Artículo 1
+
+Artículo 1. Principios generales.
+1. La Administración del Principado de Asturias, bajo la dirección del Consejo de Gobierno, desarrolla su actuación para alcanzar los objetivos establecidos por las leyes y el resto del ordenamiento jurídico, sirve con objetividad a los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho.
+En su actuación y relaciones deberá respetar los principios establecidos en la legislación estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+2. La actividad de la Administración del Principado de Asturias se realizará atendiendo a los principios de colaboración mutua y lealtad institucional respecto al resto de los poderes y Administraciones públicas, y de acuerdo con criterios de eficiencia y servicio a los ciudadanos.
+3. La Administración del Principado de Asturias actúa para el cumplimiento de sus fines con personalidad jurídica única.
+Se añade un inciso final al apartado 1 por el art. 1.1 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 2
+
+Artículo 2. Planificación, innovación y proactividad de la Administración del Principado de Asturias.
+1. La actividad de la Administración del Principado de Asturias será objeto de planificación y programación.
+Las consejerías, en sus respectivos ámbitos funcionales, dispondrán todo tipo de medidas, tales como la planificación estratégica, la planificación por objetivos, el intercambio y la gestión de datos, la evaluación de las políticas públicas, la implantación de metodologías para la reducción de las cargas, los costes, los plazos o el tiempo de tramitación.
+Las actuaciones así impulsadas estarán sujetas, en todo caso, a la previa definición de los objetivos que las justifiquen, el establecimiento de cuadros de indicadores para la medición del cumplimiento de estos y su posterior evaluación; todo ello, en los términos fijados por el Consejo de Gobierno.
+2. La Administración del Principado de Asturias fomentará la innovación administrativa, estableciendo espacios y herramientas destinados a tal fin o la puesta en marcha de experiencias piloto.
+3. La Administración del Principado de Asturias podrá ofrecer, de forma proactiva, servicios personalizados en el ejercicio de sus funciones y competencias, siempre que dicha proactividad respete el régimen jurídico que resulte de aplicación a cada procedimiento.
+4. El tratamiento de los datos de carácter personal necesarios para la prestación de los servicios señalados en el apartado anterior requerirá que el interesado preste su consentimiento, en los términos previstos en la normativa de protección de datos personales.
+Se modifica por el art. 1.2 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 2 bis
+
+Artículo 2 bis. Promoción de la simplificación administrativa.
+1. La Administración del Principado de Asturias y su sector público promoverán medidas para la simplificación administrativa.
+A tal efecto, en el ejercicio de sus competencias, optarán por las alternativas regulatorias, organizativas, tecnológicas o de gestión procedimental que menos cargas generen a las personas físicas y jurídicas.
+2. El diseño e implementación de medidas de simplificación atenderá, entre otras, a las siguientes finalidades:
+a) Reducción de trámites y mejora de los plazos de emisión de informes y de resolución.
+b) Revisión de las exigencias, en los distintos procedimientos, de aportación de documentación, así como supresión de las que sean innecesarias; reducción de cargas y costes.
+c) Sustitución del sentido desestimatorio del silencio administrativo por un sentido estimatorio.
+d) Uso de comunicaciones y declaraciones responsables.
+e) Uso de modelos normalizados de formularios y demás documentos administrativos que faciliten la actuación de las personas físicas y jurídicas ante la Administración y de la propia Administración.
+f) Uso de tecnología al servicio de la agilidad procedimental, con herramientas corporativas intuitivas, interoperables y que faciliten la colaboración entre Administraciones.
+g) Elaboración de manuales y guías de tramitación, así como de modelos de actos tipo.
+h) Fomento de la agrupación documental.
+i) Actualización y mejora regulatoria, incluyendo la propuesta de derogaciones normativas obsoletas.
+j) Impulso de la planificación estratégica de la actividad administrativa.
+k) Formación permanente y específica de los empleados públicos en materia de simplificación administrativa en su triple vertiente: normativa, organizativa y procedimental.
+l) Información específica a las personas físicas y jurídicas en materia de simplificación administrativa.
+3. La normativa reguladora del acceso a las actividades económicas solo podrá establecer un régimen de autorización cuando lo exija la legislación básica aplicable o, de manera excepcional, mediante norma con rango de ley, de conformidad con el artículo 17.1 de la Ley 20/2013, de 9 de diciembre, de Garantía de la Unidad de Mercado. En particular, podrá exigirse autorización de forma motivada por razones de orden público, de seguridad pública y de protección del medio ambiente y cuando estas razones no puedan salvaguardarse mediante la presentación de una declaración responsable o una comunicación.
+4. La consejería competente en materia de Administración pública y régimen jurídico elaborará anualmente un informe de evaluación y seguimiento de las medidas de simplificación administrativa impulsadas en el sector público autonómico y de los tiempos de tramitación de los distintos procedimientos administrativos. El informe, que será remitido a la Junta General del Principado de Asturias y objeto de publicación en el Portal de Transparencia de la Administración del Principado de Asturias, incluirá, al menos, una descripción detallada de las iniciativas normativas u organizativas adoptadas, los indicadores objetivos sobre la reducción de plazos, cargas y trámites y la identificación de disfunciones o áreas de mejora, así como una valoración de la eficacia de las medidas.
+Se añade por el art. 1.3 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 3
+
+Artículo 3. Auditorías.
+1. La actuación administrativa del Principado de Asturias se someterá periódicamente a auditorías o a inspecciones internas para comprobar su nivel de eficacia en relación con las previsiones de los programas de actuación y con las exigencias del principio de eficiencia.
+2. Las auditorías o las inspecciones internas podrán versar sobre el conjunto o una parte de la actividad de cualquier órgano, en la forma y con la periodicidad que reglamentariamente se determine.
+
+### Artículo 4
+
+Artículo 4. Derechos de los ciudadanos.
+1. Los ciudadanos gozarán, en sus relaciones con la Administración del Principado de Asturias, de los derechos reconocidos con carácter general en la legislación básica del régimen jurídico de las Administraciones públicas y de cuantos estén establecidos en las disposiciones aplicables en cada caso. Reglamentariamente se determinarán los mecanismos para el ejercicio de estos derechos.
+2. El derecho y la obligación de relacionarse electrónicamente con la Administración del Principado de Asturias y sus organismos serán los establecidos en el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se numera el párrafo como apartado 1 y se añade el 2 por el art. 1.4 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 5
+
+Artículo 5. Derecho de información.
+Sin perjuicio del derecho que asiste a los interesados en un procedimiento de conocer en cualquier momento el estado de su tramitación, la Administración del Principado de Asturias contará con los instrumentos de información a los ciudadanos que garanticen el efectivo conocimiento por parte de éstos por el procedimiento a seguir para las solicitudes o actuaciones que se propongan realizar ante aquélla. Reglamentariamente se determinará la articulación de los instrumentos de información a que se refiere este artículo.
+
+### Artículo 6
+
+Artículo 6. Aportación de documentos al procedimiento administrativo.
+1. La aportación de documentos al procedimiento administrativo por los interesados se regirá por lo establecido en el artículo 28 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+2. La Administración del Principado de Asturias adoptará las medidas tendentes a garantizar, con arreglo a la normativa vigente en materia de protección de datos, y de acuerdo con el régimen jurídico de cada procedimiento, que los interesados faciliten solo una vez la misma información, ya sean documentos o datos. A estos efectos, se establecerán las medidas que permitan la reutilización interna de aquellos.
+3. La Administración del Principado de Asturias pondrá a disposición de las personas, de manera individualizada y con plenas garantías de seguridad, privacidad y protección de datos, la información y datos por ellas suministrados, con el objetivo de que puedan acceder a los mismos o actualizarlos.
+Se modifica por el art. 1.5 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 bis
+
+Artículo 6 bis. Sede electrónica del Principado de Asturias.
+1. La sede electrónica del Principado de Asturias es la dirección electrónica disponible para las personas físicas y jurídicas en los términos establecidos en la normativa estatal en materia de bases del régimen jurídico de las Administraciones públicas.
+2. La sede electrónica, cuya titularidad corresponde a la Administración del Principado de Asturias, contendrá la información y los servicios que determine normativa estatal en materia de bases del régimen jurídico de las Administraciones públicas y los que reglamentariamente se establezcan.
+Reglamentariamente, se fijará el ámbito de aplicación de la sede electrónica del Principado de Asturias a los sujetos integrantes del sector público autonómico.
+3. Corresponderán a la consejería con competencias en materia de servicios digitales la responsabilidad de los contenidos y servicios comunes disponibles, la gestión tecnológica y la continuidad, accesibilidad y seguridad de la sede electrónica del Principado de Asturias.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 ter
+
+Artículo 6 ter. Portal de internet y servicios digitales.
+1. El portal de internet https://www.asturias.es es la web institucional del Principado de Asturias, constituido por el conjunto de páginas web relacionadas entre sí, estructuradas mediante un sistema de información, de libre acceso y albergadas en la red corporativa del Principado de Asturias.
+2. La titularidad del portal de internet corresponde a la Administración del Principado de Asturias.
+3. El portal de internet funcionará como Punto de Acceso General electrónico de la Administración del Principado de Asturias a los efectos establecidos en la normativa estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+El Punto de Acceso General electrónico recogerá, junto con la información institucional de todos los órganos de la Administración del Principado de Asturias, la información administrativa y los servicios en línea facilitados o prestados por la Administración, así como el acceso al Portal de Transparencia y Gobierno Abierto y al resto de portales de internet del sector público autonómico.
+4. A través del portal de internet, se accederá a la sede electrónica del Principado de Asturias y a un área personalizada para las personas físicas y jurídicas que permitirá, previo registro y tras la debida identificación y autenticación, acceder a sus datos personales, documentos, notificaciones electrónicas y avisos de comunicaciones electrónicas, conocer el estado real y actual de tramitación de sus expedientes administrativos y ejercer todos los derechos que se establecen en la legislación estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+5. Sin perjuicio de la responsabilidad establecida en la normativa estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común para el titular de la sede electrónica respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la sede electrónica, los distintos órganos de la Administración del Principado de Asturias garantizarán, en el marco de sus competencias, la permanente actualización y veracidad de la información y contenidos de la sede electrónica y del área personalizada.
+6. Los sitios web y aplicaciones móviles de la Administración del Principado de Asturias y sus organismos autónomos serán objeto de una revisión técnica y de usabilidad, al menos anualmente, a fin de garantizar su permanente actualización, accesibilidad, interoperabilidad, seguridad y facilidad de uso por parte de la ciudadanía.
+A tal efecto, la consejería competente en materia de servicios digitales coordinará un proceso de evaluación y, en su caso, de actualización o rediseño de los entornos digitales, cuyos resultados serán públicos.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 quater
+
+Artículo 6 quater. Principios generales de los procedimientos y servicios digitales.
+1. Los procedimientos y servicios digitales que se implanten en la Administración del Principado de Asturias deberán respetar los siguientes principios:
+a) Principio de «solo una vez»: garantía de que los interesados faciliten la misma información una sola vez, en los términos previstos en el artículo 6.
+b) Innovación y mejora continua: adopción de medidas de innovación que permitan cumplir los objetivos de eficacia, eficiencia y agilidad administrativa, así como someter los procedimientos a controles de cara a proponer mejoras en la gestión.
+c) Automatización: preferencia de las actuaciones administrativas automatizadas en los actos o actuaciones que sean susceptibles de ser configurados como tales en el marco de un procedimiento administrativo.
+d) Adaptación tecnológica: evolución de las tecnologías y los sistemas informáticos con el fin de que estén permanentemente actualizados en relación con el entorno y el desarrollo tecnológico.
+2. Los procedimientos y servicios digitales a que hace referencia el apartado anterior también deberán respetar, en el marco de la legislación estatal que sea de aplicación, los siguientes principios:
+a) Interoperabilidad: garantía del cumplimiento de las normas técnicas de interoperabilidad que sean resultado del Esquema Nacional de Interoperabilidad.
+b) Seguridad y protección de datos: cumplimiento de la normativa en materia de protección de datos, de intimidad y de seguridad de la información y del Esquema Nacional de Seguridad, integrando estos elementos en la fase de diseño.
+c) Accesibilidad: diseño de los servicios públicos digitales de tal modo que sean inclusivos y tomen en consideración las necesidades de determinados colectivos, como las de las personas mayores y las personas con discapacidad, atendiendo a los principios de igualdad y no discriminación.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 quinquies
+
+Artículo 6 quinquies. Actuación administrativa automatizada.
+1. De conformidad con el artículo 41.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se entiende por actuación administrativa automatizada, de conformidad con la legislación básica, cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público.
+2. De conformidad con el artículo 41.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la consejería competente en materia de servicios digitales deberá fijar previamente la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad, y la auditoría del sistema de información y de su código fuente y las demás garantías establecidas en la normativa en materia de transparencia, así como el órgano responsable a efectos de impugnación, que será, en todo caso, el órgano competente en el procedimiento de que se trate.
+3. La determinación y el establecimiento de actuaciones administrativas automatizadas se efectuarán mediante resolución del titular de la consejería competente en el procedimiento de que se trate. En dicha resolución, se indicará el órgano responsable a efectos de impugnación.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 sexies
+
+Artículo 6 sexies. Inteligencia artificial y procedimiento administrativo.
+1. La Administración del Principado de Asturias dará debida publicidad y transparencia al uso de inteligencia artificial en el ejercicio de sus funciones. Serán públicos el procedimiento de calidad y uso responsable de inteligencia artificial que, en el marco de sus competencias, esta establezca, los riesgos que implica y cualesquiera otros aspectos que garanticen los derechos de los interesados.
+2. Las normas que regulen los procedimientos administrativos harán, en su caso, referencia expresa a la posibilidad de uso de sistemas de inteligencia artificial en la fase que corresponda, tanto en la asistencia en la presentación de solicitudes, declaraciones responsables o comunicaciones, la comprobación o verificación de los requisitos como en la toma de decisiones.
+3. Todo procedimiento que prevea el uso de inteligencia artificial como asistencia al mismo fijará el órgano responsable a efectos de impugnaciones.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 6 septies
+
+Artículo 6 septies. Archivo electrónico único.
+1. De conformidad con lo dispuesto en el artículo 17 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración del Principado de Asturias mantendrá un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados.
+2. El archivo electrónico será de uso común único para todos los órganos de la Administración del Principado de Asturias y será gestionado por la consejería competente en materia de servicios digitales.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 7
+
+Artículo 7. Derecho de acceso a los archivos y registros.
+(Sin contenido)
+Se suprime por el art. 1.7 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 8
+
+Artículo 8. Registro Electrónico General del Principado de Asturias y oficinas de asistencia.
+1. De conformidad con el artículo 16.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración del Principado de Asturias dispondrá de un Registro Electrónico General, en el que se practicarán asientos de todos los documentos que sean presentados o recibidos en cualquiera de sus órganos administrativos, organismos públicos o entidades vinculados o dependientes, y en el que se anotará la salida de documentos oficiales dirigidos a otros órganos o particulares.
+2. De conformidad con la legislación estatal en materia del procedimiento administrativo común, el Registro Electrónico General garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de presentación, identificación de la interesada o del interesado, órgano administrativo remitente, si procede, y persona u órgano administrativo al que se envía, y, en su caso, referencia al contenido del documento que se registra.
+Asimismo, dicho registro electrónico cumplirá con las garantías y medidas de seguridad previstas en la legislación en materia de protección de datos de carácter personal.
+3. De conformidad con la legislación estatal en materia del procedimiento administrativo común, el Registro Electrónico General será plenamente interoperable con el resto de registros electrónicos de las Administraciones públicas, garantizándose su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de ellos.
+4. El régimen de las oficinas de asistencia en materia de registro y de la atención ciudadana, tanto a personas físicas como jurídicas, será el establecido reglamentariamente. Las oficinas proporcionarán información y apoyo activo a los interesados para el ejercicio de sus derechos y el cumplimiento de sus obligaciones administrativas por medios electrónicos de conformidad con lo dispuesto en el artículo 12 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, especialmente en aquellos casos en que concurran circunstancias personales o sociales que determinen una mayor dificultad de acceso. La prestación de esta labor no devengará tasa alguna.
+5. De conformidad con el artículo 16.7 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la relación de oficinas de asistencia en materia de registro propias de la Administración del Principado de Asturias, así como la relación de oficinas de asistencia en materia de registro concertadas y sus sistemas de acceso y comunicación y horario de funcionamiento, se hará pública por resolución de la consejería competente.
+6. Lo dispuesto en este artículo se entiende sin perjuicio de que los interesados puedan utilizar cualesquiera de las formas presentación de documentación establecidas en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica por el art. 1.8 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 8 bis
+
+Artículo 8 bis. Registros electrónicos de apoderamientos.
+1. De conformidad con el artículo 6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración del Principado de Asturias dispondrá de un Registro Electrónico General de Apoderamientos, cuyo régimen jurídico y funcionamiento se regularán reglamentariamente.
+2. El Consejo de Gobierno, en los términos del artículo 6.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y mediante decreto, podrá establecer registros particulares de apoderamientos para la inscripción de los poderes otorgados para la realización de trámites específicos.
+Se añade por el art. 1.9 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 9
+
+Artículo 9. Unidad de expediente.
+1. Cada procedimiento administrativo, aun cuando en el mismo intervengan diversos órganos de la Administración del Principado de Asturias, integrará un único expediente electrónico, que, de conformidad con el artículo 70.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, estará formado por el conjunto ordenado de actuaciones y documentos electrónicos que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
+2. Con independencia del órgano ante quien se haya presentado la solicitud o de quien lo haya iniciado de oficio, el procedimiento será impulsado por el órgano administrativo a quien corresponda dictar el acto que ponga fin al mismo.
+3. La función de impulso presupone la capacidad de formular requerimientos y efectuar cuantas actuaciones tiendan a asegurar la realización efectiva de la coordinación necesaria para la resolución final del procedimiento en el plazo en cada caso establecido.
+4. Reglamentariamente se podrá designar como órgano con competencia específica para la tramitación e impulso de los procedimientos en los que intervengan distintos órganos, a otro distinto del referido en el apartado 2 del presente artículo, en función de necesidades de orden técnico, jurídico o de servicio, que habrán de ser motivadas.
+Se modifica el apartado 1 por el art. 1.10 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## Sección 2
+
+Sección 2.ª Silencio administrativo
+Se añade por el art. 5 de la Ley autonómica 14/2001, de 28 dediciembre. Ref. BOE-A-2002-2836.
+
+### Artículo 9 bis
+
+Artículo 9 bis. Silencio administrativo en procedimientos iniciados a solicitud del interesado
+1. A efectos de lo dispuesto en el artículo 24 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de la obligación de la Administración de dictar resolución expresa, los interesados podrán entender desestimadas sus solicitudes por silencio administrativo en los procedimientos que a continuación se relacionan si al vencimiento del plazo máximo establecido en cada caso no les ha sido notificada la resolución expresa:
+a) Modificación de la demarcación territorial de los concejos.
+b) Procedimientos especiales de modificación de la demarcación territorial de los concejos.
+c) Constitución de parroquias rurales.
+d) Modificación y supresión de parroquias rurales.
+e) Reingreso procedente de la situación de excedencia voluntaria.
+f) Reingreso por cuidado de hijos sin reserva de plazo.
+g) Reconocimiento de grado personal.
+h) Revisión de grado a funcionario en situación diferente de servicio activo.
+i) Reconocimiento de servicios previos al personal de la Administración del Principado de Asturias.
+j) Autorización de compatibilidad en puesto del sector público.
+k) Reconocimiento de compatibilidad para ejercer actividades privadas.
+Se modifica el apartado 1 por el art. 1.11 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Se modifica por el art. 7.2 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
+ Se añade por el art. 5 de la Ley autonómica 14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
+
+### Artículo 9 ter
+
+Artículo 9 ter. Plazos para la emisión de informes en procedimientos administrativos.
+1. De conformidad con el artículo 80.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la emisión de informes será de diez días salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.
+2. Cuando en un procedimiento deban emitirse diversos informes, estos se solicitarán por sus responsables de manera simultánea y no sucesiva, en los términos del artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y siempre que dichos trámites permitan el impulso simultáneo.
+Se añade por el art. 1.12 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO II
+
+De las relaciones de la Administración del Principado de Asturias con otras Administraciones públicas y de los convenios
+Se modifica por el art. 1.13 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 10
+
+Artículo 10. Instrumentos de colaboración.
+En orden a la efectividad de los principios de colaboración mutua y lealtad institucional enunciados en el artículo 1.2 de la presente Ley y en la legislación básica del régimen jurídico de las Administraciones públicas, la Administración del Principado de Asturias utilizará los instrumentos y técnicas de coordinación y cooperación previstos en ésta.
+
+### Artículo 11
+
+Artículo 11. Convenios.
+1. De conformidad con el artículo 47 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración del Principado de Asturias, en el ámbito de sus competencias, podrá celebrar convenios con otras Administraciones públicas, organismos públicos y entidades de derecho público vinculados o dependientes, universidades públicas y sujetos de derecho privado para un fin común.
+2. Corresponde al Consejo de Gobierno la autorización de la celebración, modificación, prórroga o extinción de aquellos convenios que incluyan compromisos de gasto o con repercusión económica, excepto lo dispuesto en el apartado siguiente. También designará a quien haya de representar a la Administración para su suscripción, salvo que dicha representación vaya a ser asumida por el Presidente del Principado de Asturias.
+Dicha competencia del Consejo de Gobierno podrá atribuirse a las comisiones delegadas con relación a convenios sobre materias que a las mismas correspondan.
+3. La autorización para la celebración, modificación, prórroga o extinción de aquellos convenios que no supongan compromisos de gasto ni repercusión económica o mediante los que se instrumente la concesión de subvenciones nominativas consignadas en los Presupuestos Generales del Principado de Asturias corresponderá al titular de la consejería competente por razón de la materia, que, en representación de la Administración, podrá suscribirlos o designar para su suscripción a quien sea titular de un órgano central de la misma consejería, sin perjuicio de que puedan ser firmados por el Presidente del Principado de Asturias, si se considerase oportuno por su relevancia institucional.
+En todos estos casos, se dará cuenta al Consejo de Gobierno en el plazo de un mes desde la suscripción del convenio correspondiente.
+4. La suscripción de convenios que impliquen obligaciones financieras para la Comunidad Autónoma exigirá la previa existencia de crédito suficiente. En aquellos convenios que supongan la adquisición de compromisos de gasto para ejercicios futuros, se estará a lo dispuesto en la normativa específica.
+5. El régimen jurídico de los convenios será el establecido en legislación estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común, debiendo venir acompañados necesariamente de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad o prestación objeto del mismo y el cumplimiento de lo dispuesto en la citada legislación estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+6. Los instrumentos de formalización de los convenios deberán especificar, cuando así proceda:
+a) Los órganos que celebran el convenio y la capacidad jurídica con la que actúa cada una de las partes.
+b) La competencia que ejerce cada parte.
+c) Las actuaciones que se acuerde desarrollar para su cumplimiento.
+d) Su financiación.
+e) La composición de un órgano mixto de vigilancia y control, que resolverá los problemas de interpretación y cumplimiento que puedan plantearse.
+f) El plazo de vigencia, lo que no impedirá su prórroga si así lo acuerdan las partes firmantes del convenio.
+g) La extinción por causa distinta a la prevista en la letra anterior, así como la forma de terminar las actuaciones en curso para el supuesto de extinción.
+7. La modificación de los convenios, así como las posibles prórrogas, se formalizarán a través de adendas a los mismos.
+8. Todos los convenios de colaboración que se suscriban al amparo de este artículo, así como los acuerdos para su extinción antes de la finalización del plazo de vigencia, prórroga o modificación, deberán ser inscritos en el Registro de Convenios de la Comunidad Autónoma en el plazo de un mes a partir de su firma y publicados en el "Boletín Oficial del Principado de Asturias".
+9. La eficacia de los convenios suscritos con la Administración.
+General del Estado o algunos de sus organismos públicos o entidades de derecho público vinculados o dependientes se regirá por lo dispuesto en la legislación básica. El resto de convenios suscritos por la Administración del Principado de Asturias resultarán eficaces una vez se hayan inscrito en el Registro de Convenios de la Comunidad Autónoma y publicados en el "Boletín Oficial del Principado de Asturias".
+10. No tendrán la consideración de convenios los protocolos generales de actuación o instrumentos similares a que se refiere el artículo 11 bis.
+11. Los organismos públicos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias se regirán por lo dispuesto en sus normas reguladoras y, en su defecto, por lo dispuesto en este artículo.
+Se modifica por el art. 1.14 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 11 bis
+
+Artículo 11 bis. Protocolos generales de actuación.
+1. Corresponde a los titulares de las consejerías competentes por razón de la materia autorizar la celebración de protocolos generales de actuación o instrumentos similares que comporten meras declaraciones de intención de contenido general o expresen la voluntad de la Administración y partes suscriptoras para actuar con un objetivo común, siempre que no supongan la formalización de compromisos jurídicos concretos.
+2. Cuando el protocolo general de actuación o instrumento similar afectase a ámbitos competenciales de varias consejerías, la autorización a que se refiere el apartado anterior corresponderá al Consejo de Gobierno.
+Se añade por el art. 1.15 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 11 ter
+
+Artículo 11 ter. Registro de Convenios.
+1. La consejería con competencias en materia de Administración pública y régimen jurídico llevará el Registro de Convenios, en el que se inscribirán y depositarán todos los convenios suscritos al amparo del artículo 11 de esta ley en el plazo de un mes a partir de la firma de los mismos. También se inscribirán en el citado registro, en idéntico plazo, la extinción, prórroga o modificación de los convenios.
+2. Reglamentariamente, se establecerán el régimen jurídico y funcionamiento de dicho registro.
+Se añade por el art. 1.16 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 12
+
+Artículo 12. De los convenios con otras comunidades autónomas.
+La celebración por el Principado de Asturias de convenios con otras comunidades autónomas para la gestión y prestación de servicios propios de su competencia y el establecimiento de acuerdos de cooperación con las mismas exigirá la previa autorización de la Junta General del Principado de Asturias para prestar el consentimiento y la comunicación a las Cortes Generales, en los términos establecidos en la Constitución española y en el Estatuto de Autonomía del Principado de Asturias. La tramitación de la citada autorización se regirá por lo establecido en el Reglamento de la Junta General del Principado de Asturias.
+Se modifica por el art. 1.17 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO III
+
+De los órganos de la Administración del Principado de Asturias
+
+## Sección 1
+
+Sección 1.ª Creación de órganos administrativos
+
+### Artículo 13
+
+Artículo 13. Procedimiento.
+1. La creación, modificación o supresión de órganos de nivel superior a Negociado será acordada por el Consejo de Gobierno, a propuesta razonada del titular de la Consejería en la que haya de integrarse el órgano de que se trate.
+2. Corresponde al titular de la Consejería respectiva, a propuesta razonada de la Secretaría General Técnica, la creación, modificación o supresión de estructuras orgánicas de nivel de Negociado.
+3. La creación de cualquier órgano administrativo exigirá el cumplimiento de los siguientes requisitos:
+a) Justificación de la nueva organización que la creación implique, en relación con los objetivos y programas de la Consejería.
+b) Determinación de su forma de integración en la Administración y su dependencia jerárquica.
+c) Delimitación de sus funciones y competencias.
+d) Estudio económico del coste de su funcionamiento y del rendimiento o utilidad de sus servicios.
+e) Dotación de los créditos necesarios para su funcionamiento.
+4. No podrán crearse en la Administración del Principado de Asturias nuevos órganos que supongan duplicación de otros ya existentes si, al mismo tiempo, no se suprimen o restringen debidamente la competencia y demás elementos integrantes de estos. A este objeto, la creación de un nuevo órgano solo tendrá lugar previa comprobación de que no existe otro en la Administración del Principado de Asturias que desarrolle igual función sobre el mismo territorio y población.
+Se modifica el apartado 4 por el art. 1.18 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## Sección 2
+
+Sección 2.ª Competencias de los órganos de la Administración del Principado de Asturias y su ejercicio
+
+### Artículo 14
+
+Artículo 14. Competencias.
+1. Las competencias que corresponden a la Comunidad Autónoma serán ejercidas, con excepción de las expresamente reservadas a la Junta General, por los órganos superiores de la Administración del Principado, conforme a lo establecido en el Estatuto de Autonomía para Asturias y en las leyes dictadas en ejecución de lo previsto en los artículos 32.4 y 33.2 de dicho Estatuto.
+2. Las competencias de los órganos de la Administración del Principado a que se refiere el apartado anterior son irrenunciables y se ejercerán por el que las tenga atribuidas como propias, salvo los casos de delegación o avocación previstos en la Ley.
+3. Las competencias atribuidas a los titulares de las Consejerías podrán ser desconcentradas en otros órganos jerárquicamente dependientes de aquéllos cuando circunstancias de carácter organizativo, funcional o territorial lo hagan necesario y sea legalmente posible. La desconcentración se aprobará mediante Decreto del Consejo de Gobierno, a propuesta del titular de la correspondiente Consejería.
+
+### Artículo 15
+
+Artículo 15. Delegación de competencias.
+1. El ejercicio de competencias de carácter administrativo del Presidente del Principado podrá ser delegado por este en los titulares de las consejerías o de los órganos de la Presidencia con nivel igual o superior a Dirección General.
+2. Las competencias administrativas del Consejo de Gobierno podrán ser delegadas por éste en las Comisiones Delegadas.
+3. Las competencias de los titulares de las consejerías podrán ser delegadas por ellas en quienes lo sean de las viceconsejerías, secretarías generales técnicas, Intervención General y las direcciones generales y, en su caso, de las jefaturas de servicio.
+Asimismo, podrá acordarse tanto en favor de órganos jerárquicamente dependientes del titular de la consejería delegante como en otros que no tengan tal dependencia cuando resulte conveniente para alcanzar los fines que tengan asignados y mejorar la eficacia de su gestión, así como en los organismos públicos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias.
+4. Las competencias de los titulares de las viceconsejerías, secretarías generales técnicas y direcciones generales serán delegables en quienes sean titulares de las jefaturas de servicio dependientes de las mismas.
+5. En ningún caso podrán ser objeto de delegación las competencias relativas a:
+a) Los asuntos que, por razón de la materia, hayan de someterse al acuerdo o conocimiento del Consejo de Gobierno.
+b) Los asuntos que se refieran a relaciones con la Junta General del Principado de Asturias, Presidente del Principado de Asturias, autoridades y órganos del Estado y de las demás comunidades autónomas.
+c) La adopción de disposiciones de carácter general.
+d) La resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso.
+e) La revocación de los actos de gravamen o desfavorables.
+f) La revisión de oficio de las disposiciones y actos nulos, así como la declaración de lesividad de los actos anulables.
+g) Las materias en que así se determine por una ley del Principado de Asturias.
+Se modifican los apartados 1, 3 y 4 y se añade el 5 por el art. 1.19 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 16
+
+Artículo 16. Régimen jurídico de la delegación.
+1. La delegación de competencias se efectuará por resolución del órgano delegante. En los supuestos en que la delegación se vaya a realizar en favor de órganos que no sean jerárquicamente dependientes, será preceptivo el informe previo favorable del titular de la consejería de que dependan y, en su defecto, la autorización del Consejo de Gobierno. Si la delegación lo fuera en los organismos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias, deberá ser aprobada previamente por el órgano máximo de dirección, de acuerdo con sus normas de creación.
+Será preceptiva la autorización previa del titular de la consejería de que dependan para efectuar la delegación de las competencias de los titulares de las viceconsejerías, secretarías generales técnicas y direcciones generales.
+2. La delegación de competencias y su revocación deberá publicarse en el «Boletín Oficial del Principado de Asturias».
+3. Salvo autorización expresa por Ley del Principado de Asturias, no podrán delegarse las competencias que se ejercen por delegación.
+4. Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia, anteponiéndose a la firma la expresión «por delegación» o su forma usual de abreviatura, seguida de la fecha de la resolución que confirió la delegación y la del «Boletín Oficial del Principado de Asturias» en que se hubiere publicado, y se considerarán dictadas por el órgano delegante.
+5. Salvo que en el acto de delegación de competencias se disponga otra cosa, la resolución de los recursos de reposición que, en su caso, se interpongan contra los actos dictados por delegación corresponderá al órgano delegado.
+6. La delegación de competencias no perderá su eficacia por cambio del titular del órgano delegante o delegado.
+En los supuestos de reestructuración administrativa, salvo revocaciones expresas, las delegaciones de competencias continuarán siendo válidas respecto a los titulares de los órganos en cuyo ámbito se encuadre la respectiva competencia.
+Cuando los órganos delegados hubieran sido suprimidos, la referida delegación se entenderá vigente respecto a aquellos otros a los que corresponda el ejercicio de la misma competencia.
+Se modifica el apartado 1 y se añaden el 5 y el 6 por el art. 1.20 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 17
+
+Artículo 17. Avocación.
+1. Los titulares de las Consejerías podrán avocar para sí el conocimiento de un asunto cuya resolución corresponda ordinariamente a órganos jerárquicamente dependientes de los mismos, incluidos los supuestos a que se refiere el apartado 3 del artículo 14 de la presente Ley, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente.
+2. Igual facultad tendrán los órganos delegantes respecto del ejercicio de las competencias delegadas, cuando concurran las mismas circunstancias.
+3. La avocación se realizará mediante resolución motivada del órgano competente, que deberá ser notificada a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final que se dicte.
+Contra la resolución de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.
+Se modifica el apartado 3 por el art. 1.21 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 18
+
+Artículo 18. Encomienda de gestión.
+1. La realización de actividades de carácter material o técnico de la competencia de los órganos de la Administración del Principado de Asturias o de las entidades de derecho público vinculadas o de ella dependientes podrá ser encomendada a otros órganos o entidades de la misma o de distinta Administración siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos, personales o materiales idóneos para su desempeño, en los términos y con el carácter previstos en la legislación básica de régimen jurídico o procedimiento administrativo común de las Administraciones públicas.
+2. La encomienda de gestión a órganos pertenecientes a la misma consejería o a entidades públicas vinculadas o dependientes de ella será autorizada por el titular de la consejería competente.
+3. Para la encomienda de gestión a órganos o a entidades públicas vinculadas o dependientes de diferente consejería o de distinta Administración pública, será precisa la autorización por el Consejo de Gobierno.
+4. En los supuestos de encomienda de gestión a órganos de la misma o de distinta consejería de la Administración del Principado, servirá de instrumento de formalización la resolución o acuerdo que la autorice. En los demás supuestos, la encomienda se formalizará mediante la firma del correspondiente convenio.
+5. Para su efectividad, el instrumento en que la encomienda de gestión se formalice deberá ser publicado en el "Boletín Oficial del Principado de Asturias". En todo caso, serán contenido mínimo del mismo:
+a) La actividad o actividades a que afecten.
+b) La naturaleza y el alcance de la gestión encomendada.
+c) El plazo de vigencia y los supuestos en que proceda la finalización anticipada de la encomienda o su prórroga.
+6. La encomienda de la gestión de actividades que sean competencia de otras Administraciones públicas en favor de órganos administrativos o entidades públicas pertenecientes o dependientes de la Administración del Principado de Asturias requerirá la previa aceptación del Consejo de Gobierno y será formalizada mediante la firma del correspondiente convenio, que, en todo caso, habrá de ser publicado en el "Boletín Oficial del Principado de Asturias".
+Se modifica por el art. 1.22 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19
+
+Artículo 19. Delegación de firma.
+1. Los titulares de los órganos de la Administración del Principado podrán, en materias de su competencia, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o estructuras administrativas que de ellos dependan, dentro de los límites señalados en el artículo 15 de la presente Ley y de acuerdo con lo establecido en la legislación básica del régimen jurídico de las Administraciones Públicas.
+2. En las resoluciones y actos que se firmen por delegación, se hará constar la denominación del órgano autorizante y, a continuación, precedido por la expresión «por autorización», o su forma usual de abreviatura, la denominación del órgano en cuyo favor se haya conferido la delegación de firma.
+
+### Artículo 19 bis
+
+Artículo 19 bis. Suplencia.
+1. Los titulares de los órganos administrativos de la Administración del Principado de Asturias podrán ser suplidos temporalmente en los supuestos de vacante, ausencia, en particular por permiso por paternidad o maternidad, o enfermedad, así como en los casos en que se haya declarado su abstención o recusación.
+2. La suplencia de los órganos superiores de la Administración del Principado de Asturias se regirá por lo dispuesto en la Leyes del Principado de Asturias 8/1991, de 30 de julio, de Organización de la Administración, y 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno.
+La designación de suplentes de quienes sean titulares de los demás órganos de la Administración del Principado de Asturias podrá efectuarse en los decretos de estructura orgánica básica de cada consejería o por resolución del órgano competente para el nombramiento del titular. En defecto de designación, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa.
+3. La suplencia no implicará alteración de la competencia y no será precisa para su validez la publicación en el "Boletín Oficial del Principado de Asturias".
+4. En las resoluciones y actos que se adopten por suplencia, se hará constar esta circunstancia, anteponiéndose a la firma la expresión «por suplencia» o su forma usual de abreviatura y especificando el titular del órgano en cuya suplencia se adoptan y quién efectivamente está ejerciendo la suplencia.
+Se añade por el art. 1.23 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## Sección 3
+
+Sección 3.ª Órganos colegiados
+Se añade por el art. 1.24 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19 ter
+
+Artículo 19 ter. Régimen jurídico.
+1. Los órganos colegiados de la Administración del Principado de Asturias y de sus organismos públicos se regirán por las disposiciones que sobre dichos órganos se contienen en la legislación básica de régimen jurídico o procedimiento administrativo, por las normas establecidas en esta sección, por su norma o convenio de creación y por sus reglamentos de régimen interior.
+2. Los órganos colegiados en que participen organizaciones representativas de intereses sociales, así como aquellos compuestos por representaciones de distintas Administraciones públicas, podrán establecer o completar sus propias normas de funcionamiento.
+Los órganos colegiados a que se refiere este apartado quedarán integrados en la Administración autonómica, aunque sin participar en la estructura jerárquica de esta, salvo que así lo establezcan sus normas de creación, se desprenda de sus funciones o de la propia naturaleza del órgano colegiado.
+Se añade por el art. 1.24 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19 quater 
+
+Artículo 19 quater. Constitución y composición de los órganos colegiados.
+1. Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control y que actúen integrados en la Administración del Principado de Asturias o alguno de sus organismos públicos.
+2. La constitución de un órgano colegiado en la Administración del Principado de Asturias tiene como presupuesto indispensable la determinación en su norma de creación, o en el convenio suscrito al efecto con otras Administraciones públicas, de los siguientes extremos:
+a) Sus fines u objetivos.
+b) Su integración administrativa o dependencia jerárquica.
+c) La composición y los criterios para la designación de su presidencia y de los restantes miembros.
+d) Las funciones de decisión, propuesta, informe, seguimiento o control, así como cualquier otra que se le atribuya.
+e) La dotación de los créditos necesarios, en su caso, para su funcionamiento.
+3. Podrán formar parte de los órganos colegiados representantes de otras Administraciones públicas siempre que lo acepten voluntariamente, cuando un convenio así lo establezca o cuando una norma aplicable a las Administraciones afectadas lo determine.
+También podrán participar en la composición del órgano colegiado, cuando así se determine, organizaciones representativas de intereses sociales, así como otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos, en atención a la naturaleza de las funciones asignadas a tal órgano.
+Se añade por el art. 1.24 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19 quinquies
+
+Artículo 19 quinquies. Creación, modificación y supresión de órganos colegiados.
+1. La creación de órganos colegiados de la Administración del Principado de Asturias y sus organismos públicos requerirá de norma específica, la cual revestirá la forma de decreto y deberá publicarse en el "Boletín Oficial del Principado de Asturias" y en el portal de transparencia, cuando al órgano colegiado se le atribuya cualquiera de las siguientes competencias:
+a) Competencias decisorias.
+b) Competencias de propuesta.
+c) Competencias de emisión de informes que deban servir de base a decisiones de otros órganos administrativos.
+d) Competencias de seguimiento o control de las actuaciones de otros órganos de la Administración del Principado de Asturias.
+2. En el resto de supuestos no comprendidos en el apartado anterior, podrán crearse por acuerdo del Consejo de Gobierno o, si afectase a una sola consejería, por resolución del titular de la misma, debiendo publicarse en ambos casos en el portal de transparencia.
+Estos órganos colegiados tendrán el carácter de grupos o comisiones de trabajo cuando hayan sido creados para un asunto o fin determinado, siempre que sus funciones, exclusivas o principales, no sean de consulta o participación y de ellas no puedan derivarse decisiones o acuerdos que tengan efectos jurídicos frente a terceros.
+3. Adicionalmente, la Administración podrá publicar las normas de creación de los órganos colegiados y sus normas de funcionamiento en otros medios de difusión que garanticen su conocimiento.
+4. La modificación y supresión de los órganos colegiados y de los grupos o comisiones de trabajo de la Administración del Principado de Asturias y de sus organismos públicos se llevarán a cabo en la misma forma dispuesta para su creación, salvo que en el momento de su creación se hubiera fijado un plazo para su extinción, en cuyo caso esta se producirá automáticamente.
+Se añade por el art. 1.24 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO III bis
+
+Entidades colaboradoras de certificación y agentes habilitados
+Se añade por el art. 1.25 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19 sexies
+
+Artículo 19 sexies. Acreditación de entidades colaboradoras de certificación.
+1. Cuando la normativa sectorial de aplicación establezca la intervención de entidades colaboradoras de certificación, la acreditación y correspondiente inscripción registral de estas corresponderá a la consejería competente en materia de Administración pública y régimen jurídico, excepto que dicha normativa sectorial atribuya la facultad a la consejería competente por razón de la materia.
+2. Para obtener la acreditación a que se refiere el apartado anterior, las entidades solicitantes deberán cumplir, como mínimo, los siguientes requisitos:
+a) Disponer de los medios materiales y humanos exigidos por la Administración.
+b) No estar suspendidas ni tener prohibido el desarrollo de la actividad de certificación en virtud de resolución administrativa o judicial firme.
+c) En el caso de tratarse de sociedades mercantiles, tener establecida como única actividad en su objeto social la de certificación, acreditación y cumplimiento de las condiciones técnicas o de calidad.
+d) Tener suscrita y en vigor una póliza de cobertura de los riesgos por responsabilidad profesional en los términos que se determinen reglamentariamente.
+e) Los requisitos específicos que puedan establecerse para cada actividad en la que hayan de ejercer sus funciones.
+f) No encontrarse en situación de concurso que impida el ejercicio de su actividad de conformidad con lo establecido en la legislación concursal.
+g) Los requisitos adicionales que, en su caso, se determinen reglamentariamente.
+3. La consejería competente en materia de Administración pública y régimen jurídico, de conformidad con lo establecido en el apartado 1 de este artículo, creará y mantendrá actualizado un registro público de las entidades de certificación del Principado de Asturias, en el que deberán inscribirse, con carácter previo a su actuación, todas las entidades que obtengan la acreditación o habilitación para actuar como colaboradoras en procedimientos administrativos en el ámbito autonómico. La inscripción en el registro se realizará de oficio al emitir la resolución de acreditación.
+El registro, de acceso público, recogerá la identidad de la entidad, sectores en los que puede actuar, normativa de acreditación, fechas de alta y, en su caso, baja o sanciones.
+Ninguna entidad no acreditada e inscrita podrá emitir certificaciones con efectos administrativos en la Administración del Principado de Asturias y su sector público.
+4. El incumplimiento sobrevenido de cualesquiera de los requisitos de acreditación determinará, previa tramitación de expediente contradictorio, la pérdida de la acreditación.
+5. Las entidades colaboradoras de certificación y, en su caso, los colegios profesionales, cuando se trate de colegiados actuantes, no podrán tener relación jurídica con las personas, entidades o empresas que los contraten para ejercer sus funciones, o con las que participen en el diseño o ejecución de la actividad o proyecto sujeto a su consideración, que pueda producir dependencia, subordinación o conflicto de intereses que, en cualquier forma, pueda afectar a su objetividad e independencia de criterio. Se considerará que existe tal dependencia, al menos, cuando concurran las causas de abstención y recusación previstas en la legislación de régimen jurídico del sector público.
+Sin perjuicio de cualesquiera otras responsabilidades que pudieran concurrir, no producirán efecto las actuaciones o documentos emitidos en ejercicio de sus funciones por las entidades colaboradoras de certificación con infracción de lo establecido en el apartado anterior.
+Los colegios profesionales acreditados como entidad colaboradora de certificación podrán exigir en cualquier momento a sus colegiados declaración o acreditación de que no concurren las circunstancias establecidas en este artículo.
+Se añade por el art. 1.25 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 19 septies
+
+Artículo 19 septies. Agentes habilitados.
+1. La Administración del Principado de Asturias podrá habilitar, con carácter general o específico, a personas físicas o jurídicas para la realización de determinados trámites electrónicos en representación de los interesados. No obstante, quien sea interesado podrá siempre comparecer por sí mismo en el procedimiento.
+2. La habilitación se llevará a cabo a través de la suscripción del correspondiente convenio, tramitado de conformidad con lo dispuesto en el artículo 11 de la presente ley. El convenio deberá recoger de forma específica los procedimientos y trámites objeto de la habilitación, el carácter general o específico de la habilitación y las condiciones y obligaciones aplicables tanto a la entidad firmante del convenio como a las personas físicas o jurídicas habilitadas.
+La consejería competente en materia de Administración pública y régimen jurídico aprobará un modelo normalizado de convenio en que se articule la habilitación, conforme a lo dispuesto en la legislación de régimen jurídico del sector público.
+3. El Registro de Apoderamientos contendrá una sección en la que se incorporarán los datos correspondientes a los agentes habilitados.
+4. En la sede electrónica que corresponda se incorporará un inventario de procedimientos y trámites electrónicos que podrán realizarse con esta representación.
+Se añade por el art. 1.25 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO IV
+
+De los actos administrativos y su revisión
+
+## Sección 1
+
+Sección 1.ª Actos administrativos
+
+### Artículo 20
+
+Artículo 20. Regla general.
+Los actos administrativos emanados de los órganos de la Administración del Principado de Asturias se ajustarán a lo determinado en la legislación básica de régimen jurídico de las Administraciones Públicas, sin perjuicio de las especialidades derivadas de su propia organización regulada en la presente Ley.
+
+### Artículo 21
+
+Artículo 21. Forma de las disposiciones y actos de la Administración del Principado.
+1. En el ejercicio de las facultades a que se refiere el artículo 18.1 de la Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias, el Presidente del Consejo de Gobierno dictará Decretos, que se denominarán Decretos del Presidente y no precisarán refrendo de ningún Consejero. Las demás atribuciones cuyo ejercicio requiera forma de Decreto serán refrendadas por el titular de la Consejería competente por razón de la materia y, en su defecto, por el titular de la de Interior y Administraciones Públicas.
+2. Las disposiciones de carácter general que apruebe el Consejo de Gobierno adoptarán la forma de Decreto y serán firmadas por el Presidente del Principado y el Consejero a quien corresponda. Si afectaran a varias Consejerías, además del Presidente del Principado las firmará el titular de la Consejería de Interior y Administraciones Públicas. Los demás actos del Consejo de Gobierno adoptarán la forma de Acuerdo.
+3. Las disposiciones administrativas de carácter general acordadas por las Comisiones Delegadas del Consejo de Gobierno adoptarán la forma de Orden, que será firmada en la forma prevista en el apartado precedente. Los demás actos de las mismas adoptarán la forma de Acuerdo.
+4. Las disposiciones de carácter general que aprueben quienes sean titulares de las consejerías revestirán la forma de orden.
+5. Los titulares de las consejerías, las viceconsejerías, las secretarías generales técnicas, la Intervención General y las direcciones generales dictarán resoluciones para la decisión de los asuntos de su competencia. También podrán dictar circulares, instrucciones y órdenes de servicio en materias propias de su competencia dirigidas a órganos jerárquicamente dependientes en los términos establecidos en el artículo siguiente.
+6. Los actos de otros órganos administrativos, en los supuestos a que se refiere el artículo 14.3 de la presente ley, adoptarán la forma de resolución.
+7. Para que produzcan efectos jurídicos, los decretos y demás disposiciones administrativas de carácter general habrán de publicarse en el "Boletín Oficial del Principado de Asturias" y entrarán en vigor conforme a lo dispuesto en el artículo 2 del Código Civil.
+8. Las disposiciones reglamentarias se ordenarán conforme a la siguiente jerarquía:
+1.° Decretos aprobados por el Presidente y el Consejo de Gobierno del Principado de Asturias.
+2.° Órdenes acordadas por las Comisiones Delegadas del Consejo de Gobierno.
+3.° Órdenes aprobadas por los titulares de las consejerías.
+Se modifican los apartados 4, 5 y 6 y se añaden los apartados 7 y 8 por el art. 1.26 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 21 bis
+
+Artículo 21 bis. Circulares, instrucciones y órdenes de servicio.
+1. Los titulares de las consejerías, viceconsejerías, secretarías generales técnicas, Intervención General y direcciones generales podrán impulsar y dirigir la actividad administrativa de los órganos dependientes mediante circulares, instrucciones y órdenes de servicio.
+2. Las circulares son directrices internas destinadas a los órganos y unidades que de ellos dependan en las que se contienen criterios de aplicación o interpretación de una norma, con el fin de asegurar una actuación homogénea.
+3. Las instrucciones son directrices internas en las que se fijan o establecen pautas o formas de actuación por las que han de regirse los órganos o unidades dependientes.
+4. Las órdenes de servicio son reglas de actuación u órdenes específicas que se dirigen a un órgano o unidad jerárquicamente inferior para un supuesto determinado.
+5. Las circulares, instrucciones y órdenes de servicio serán publicadas en el "Boletín Oficial del Principado de Asturias" cuando una norma legal o reglamentaria así lo establezca o se estime conveniente por razón de los destinatarios o de los efectos que puedan producirse, sin perjuicio de su difusión de acuerdo con lo previsto en la normativa sobre transparencia y acceso a la información pública.
+6. El incumplimiento de las circulares, instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad administrativa en que se pueda incurrir.
+Se añade por el art. 1.27 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 22
+
+Artículo 22. Comunicaciones y notificaciones.
+1. Las comunicaciones que se dirijan a las autoridades serán firmadas por el titular de la Consejería respectiva.
+2. Las notificaciones a los interesados de las resoluciones y actos que afecten a sus derechos e intereses y de los actos de trámite se realizarán de conformidad con lo establecido en la legislación estatal en materia de bases del régimen jurídico de las Administraciones públicas y del procedimiento administrativo común.
+Dichas notificaciones serán firmadas por el titular del servicio de la consejería competente en la materia o por quien sea titular de la estructura administrativa responsable de la tramitación del procedimiento en que los actos o resoluciones se hayan producido.
+Se modifica el apartado 2 por el art. 1.28 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 23
+
+Artículo 23. Ejecución forzosa de los actos administrativos.
+La ejecución forzosa de los actos emanados de la Administración del Principado de Asturias será ordenada, previo apercibimiento y de conformidad con lo establecido en la legislación básica aplicable en la materia, por el titular de la Consejería competente por razón de la materia, con excepción de aquellos que correspondan a diversas Consejerías, en cuyo caso la ejecución se ordenará por el titular de la Consejería de Interior y Administraciones Públicas, y de los supuestos en que se trate de hacer efectivos ingresos de derecho público, en los que se estará a lo dispuesto en la normativa específica.
+
+## Sección 2
+
+Sección 2.ª Revisión de actos en vía administrativa
+
+### Artículo 24
+
+Artículo 24. Regla general.
+La revisión de las disposiciones y actos en vía administrativa se regirá por lo establecido en la legislación básica del régimen jurídico de las administraciones públicas con las especialidades propias derivadas de la organización de la Administración del Principado de Asturias que se regulan en la presente Ley.
+Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 25
+
+Artículo 25. Revisión de disposiciones y actos nulos y declaración de lesividad de actos anulables.
+1. La revisión de oficio de las disposiciones y actos nulos se realizará por el órgano autor de la disposición o del acto.
+2. La declaración de lesividad, en los casos en que legalmente proceda, será competencia del titular de la consejería respectiva, salvo que por razón de la materia la competencia correspondiera al Consejo de Gobierno o Comisión Delegada, en cuyo caso la declaración previa de lesividad se hará por acuerdo de aquél.
+3. La declaración de lesividad de los actos sujetos al Derecho administrativo emanados de organismos públicos y entes públicos del Principado de Asturias dotados de personalidad jurídica propia será competencia del titular de la Consejería a la que estuvieran adscritos.
+Se suprime el apartado 4 por el art. 1.29 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 26
+
+Artículo 26. Actos que agotan la vía administrativa.
+En el ámbito de la Administración del Principado de Asturias, ponen fin a la vía administrativa:
+a) Las resoluciones de los recursos de alzada o de los procedimientos que los sustituyan, de conformidad con lo dispuesto en el apartado 3 del artículo 27 de esta Ley.
+b) Los acuerdos del Consejo de Gobierno y de sus comisiones delegadas.
+c) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
+d) De conformidad con el artículo 114.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.
+e) La resolución administrativa que ponga fin a los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.
+f) La resolución de los procedimientos complementarios en materia sancionadora, a través de los que se determine la cuantía indemnizatoria de los daños y perjuicios causados por la conducta sancionada, cuando dicho importe no hubiera sido determinado en el procedimiento sancionador.
+g) Los demás actos de órganos u autoridades cuando una norma legal o reglamentaria así lo establezca.
+Se modifica la letra d) y se añaden las letras e), f) y g) por el art. 1.30 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 27
+
+Artículo 27. Recursos contra actos que no agotan la vía administrativa.
+1. Los actos dictados por los órganos de la Administración del Principado de Asturias jerárquicamente dependientes de los titulares de las consejerías respectivas serán susceptibles de recurso de alzada.
+2. Los actos sujetos al derecho administrativo de los órganos de gobierno de los organismos públicos y entes públicos del Principado de Asturias serán susceptibles de recurso de alzada ante el titular de la consejería a la que estén adscritos.
+3. No obstante lo dispuesto en los apartados precedentes, por Ley del Principado podrá ser sustituido el recurso de alzada por otros procedimientos de impugnación o reclamación, en supuestos o ámbitos sectoriales determinados y cuando la especificidad de la materia así lo justifique. Las leyes que establezcan dichos procedimientos contendrán las reglas específicas a que los mismos deban sujetarse, con respeto de los principios, garantías y plazos a que se refiere la legislación básica.
+Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 28
+
+Artículo 28. Recurso de reposición.
+Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.
+Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 29
+
+Artículo 29. Recurso extraordinario de revisión.
+Contra los actos firmes en vía administrativa podrá interponerse recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será competente para su resolución.
+Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 30
+
+Artículo 30. Reclamaciones económico-administrativas.
+Los actos de gestión, liquidación y recaudación de tributos propios del Principado de Asturias y de otros ingresos de derecho público del mismo, así como los de reconocimiento o liquidación de obligaciones y cuestiones relacionadas con las operaciones de pago realizadas con cargo a la Tesorería General del Principado de Asturias, son susceptibles de reclamación económico-administrativa ante el titular de la consejería competente en materia económica y presupuestaria, sin perjuicio de la posibilidad de interponer previamente con carácter potestativo recurso de reposición en los términos previstos en la legislación específica.
+La resolución de la reclamación económico-administrativa pondrá fin a la vía administrativa.
+Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+## CAPÍTULO V
+
+Del procedimiento de elaboración de disposiciones de carácter general
+
+### Artículo 31
+
+Artículo 31. Principios de buena regulación.
+De conformidad con el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración, en el ejercicio de la potestad reglamentaria, actuará de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, debiendo quedar en el preámbulo de los proyectos de reglamento suficientemente justificada su adecuación a dichos principios. Estos principios también serán de aplicación para el ejercicio de la iniciativa legislativa por el Consejo de Gobierno, debiendo quedar en la exposición de motivos de los proyectos de ley suficientemente justificada su adecuación a dichos principios.
+Se modifica y se incorpora al capítulo V por el art. 1.31 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Se modifica por el art. 5 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 31 bis
+
+Artículo 31 bis. Planificación y evaluación normativa.
+1. Al comienzo de la legislatura, el Consejo de Gobierno, mediante acuerdo, aprobará un plan de iniciativas legislativas, en el que se recogerán los proyectos legislativos cuya aprobación por el Consejo de Gobierno y posterior remisión a la Junta General del Principado de Asturias esté prevista durante la legislatura. Dicho plan incorporará una ficha explicativa de cada uno de los proyectos legislativos.
+Además, dentro del último trimestre de cada año, la Administración del Principado de Asturias, mediante acuerdo del Consejo de Gobierno, a propuesta del vicepresidente, o, en su defecto, del titular de la consejería con competencias en materia de Administración pública y régimen jurídico, aprobará un plan normativo anual, que contendrá las iniciativas legales y reglamentarias que se prevea elevar para su aprobación en el año siguiente.
+Si fuera preciso modificar los citados planes, dicha modificación podrá efectuarse por resolución del vicepresidente, o, en su defecto, del titular de la consejería con competencias en materia de Administración pública y régimen jurídico, debiendo darse cuenta de tales modificaciones al Consejo de Gobierno.
+2. Los planes a que se refiere el apartado anterior, una vez aprobados, se publicarán en el portal de transparencia, al igual que las eventuales modificaciones de los mismos.
+3. La Secretaría General Técnica de cada consejería, dentro de los dos primeros meses del año, elaborará un informe de seguimiento de las disposiciones de su ámbito competencial contenidas tanto en el plan de iniciativas legislativas como en el plan normativo del año anterior. En dichos informes se recogerán y analizarán los aspectos relevantes de las disposiciones aprobadas en relación con la eficacia, eficiencia y sostenibilidad de la norma; respecto de las disposiciones no aprobadas, se indicará el estado de tramitación de las mismas y la previsión para su aprobación.
+Los informes de seguimiento del plan de iniciativas legislativas y del plan normativo anual serán elevados por el vicepresidente o, en su defecto, por el titular de la consejería con competencias en materia de Administración pública y régimen jurídico, para su aprobación, si procede, por el Consejo de Gobierno.
+4. Los informes de seguimiento a que se refiere el apartado anterior, así como la evaluación final del plan de iniciativas legislativas, serán objeto de publicación en el Portal de Transparencia de la Administración del Principado de Asturias y remitidos a la Junta General del Principado de Asturias.
+Se añade por el art. 1.32 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO V
+
+Del procedimiento de elaboración de disposiciones de carácter general
+
+### Artículo 32
+
+Artículo 32. Iniciación.
+1. El procedimiento para la elaboración de anteproyectos de ley y de disposiciones administrativas de carácter general se iniciará por resolución motivada del titular de la consejería que ostente la competencia en la materia respectiva, por iniciativa propia o a propuesta de los distintos órganos centrales de la misma.
+2. Con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, y antes de iniciar el procedimiento de elaboración de la norma, se sustanciará, por un plazo no inferior a diez días, una consulta pública a través del Portal de Transparencia de la Administración del Principado de Asturias, en la que se recabará la opinión de los ciudadanos y las organizaciones más representativas potencialmente afectados por la futura norma acerca de:
+a) Los problemas que se pretende solucionar con la iniciativa.
+b) La necesidad y oportunidad de su aprobación.
+c) Los objetivos de la norma.
+d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+Podrá prescindirse de la consulta pública cuando se trate de normas presupuestarias u organizativas, concurran razones graves de interés público que lo justifiquen o la propuesta normativa no tenga impacto significativo en la actividad económica, no imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia. También podrá prescindirse de la consulta cuando la tramitación de la norma se realice a través del procedimiento de urgencia.
+3. Deberá incorporarse preceptivamente al expediente una memoria de análisis de impacto normativo expresiva de la justificación, necesidad y oportunidad de la norma, la adecuación de la propuesta con los fines y objetivos que persigue y la incidencia que habrá de tener la norma en el marco normativo en el que se inserte, un informe de valoración de la propuesta normativa, una tabla de vigencias de disposiciones anteriores sobre la misma materia y disposiciones que pudieran resultar afectadas, las memorias de evaluación de impacto exigidas en la legislación sectorial, así como la evaluación ex post, que incluirá la forma en la que se analizarán los resultados de la aplicación de la norma.
+Con carácter potestativo, y, en todo caso, cuando una norma específica o sectorial lo exija, la memoria de análisis de impacto normativo incluirá también un estudio acreditativo de los costes y beneficios que la norma haya de representar, tanto directos como indirectos y tanto económicos como sociales.
+Igualmente, si existieran, se incluirán en el expediente los estudios, consultas, informes previos y demás documentación que hubiera justificado la propuesta inicial.
+4. Todo anteproyecto de ley o de disposición administrativa de carácter general deberá ir acompañado de una memoria económica en la que se pongan de manifiesto, detalladamente evaluados, cuantos datos resulten precisos para conocer las posibles repercusiones económicas y presupuestarias de su ejecución. Esta memoria se integrará en la memoria de análisis de impacto normativo.
+5. La estructura y contenido del modelo de la memoria de análisis de impacto normativo a que se refiere el apartado 3 se aprobará por acuerdo del Consejo de Gobierno y se publicará en el "Boletín Oficial del Principado de Asturias".
+Se modifica por el art. 1.33 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 33
+
+Artículo 33. Tramitación.
+1. El órgano responsable de la tramitación de los respectivos procedimientos en cada consejería será la Secretaría General Técnica.
+2. Si la norma afecta a los derechos e intereses legítimos de las personas, se publicará el texto en el portal de transparencia, por un plazo no inferior a diez días hábiles, con el objeto de dar audiencia a los ciudadanos afectados y recabar cuantas aportaciones adicionales puedan hacerse por otras personas o entidades. En este trámite, para que los potenciales destinatarios de la norma y quienes realicen aportaciones sobre ella puedan emitir su opinión formada, deberán ponerse a su disposición los documentos del expediente necesarios, que serán claros y concisos. Asimismo, podrá también recabarse directamente la opinión de las organizaciones o asociaciones reconocidas por ley que agrupen o representen a las personas cuyos derechos o intereses legítimos se vieren afectados por la norma y cuyos fines guarden relación directa con su objeto.
+Cuando una norma específica o sectorial así lo establezca o el titular de la consejería competente, en atención a la naturaleza de la disposición, lo considere conveniente, el anteproyecto de ley o proyecto de disposición se someterá a información pública durante el periodo que se determine.
+De conformidad con el artículo 133.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá prescindirse de los trámites de audiencia e información públicas, en el caso de normas presupuestarias u organizativas o si concurren razones graves de interés público que lo motiven.
+Con anterioridad a la práctica de los trámites de audiencia o información públicas, el texto de las disposiciones deberá remitirse a los titulares de las demás consejerías para que, si lo estiman pertinente, puedan formular observaciones en el plazo de siete días naturales.
+3. Cuando la norma suponga o pueda suponer un incremento de gasto o disminución de ingresos, deberá ser informada preceptivamente, a efectos económicos y con carácter previo a su aprobación, por la consejería competente en materia económica y presupuestaria.
+En el caso de que la norma implicara la necesidad de incremento o dotación de medios personales, se incluirá una memoria sobre este extremo y será preceptivo informe de la consejería competente en materia de empleo público.
+4. Las propuestas de disposiciones generales serán informadas por la Secretaría General Técnica de la consejería. Asimismo, por decisión del titular de la consejería competente podrán someterse a informe del Servicio Jurídico del Principado de Asturias.
+5. Los anteproyectos de ley y los proyectos de disposiciones se remitirán, antes de su aprobación por el órgano competente, a los titulares de las demás consejerías, para que en el plazo de siete días naturales puedan formular las observaciones que estimen oportunas.
+6. Cuando por razón de la importancia de la materia objeto de regulación o por aplicación de lo preceptuado en las disposiciones vigentes sea preceptivo o, en su caso, se entienda conveniente, la disposición será sometida a dictamen de los órganos consultivos correspondientes. Si fuera preceptivo el dictamen del Consejo Consultivo del Principado de Asturias conforme a su normativa reguladora, será el último en solicitarse.
+7. Cumplimentados los trámites recogidos en este artículo, con la salvedad del trámite del Consejo Consultivo del Principado de Asturias, el titular de la consejería proponente de la disposición, mediante resolución, aprobará esta como anteproyecto de ley o proyecto de decreto, según los casos, con carácter previo a la solicitud de dictamen al Consejo Consultivo, si fuera preceptivo, o de elevarlo al órgano competente para su aprobación. Tratándose de la elaboración de una orden, será el titular de la Secretaría General Técnica de la consejería correspondiente quien, mediante resolución, aprobará esta como proyecto de orden, para su posterior aprobación, si procede, por el titular de la consejería.
+8. En cualquier momento del procedimiento de elaboración de una norma, el Consejo de Gobierno o la Comisión Delegada, a iniciativa propia o a instancia de quien sea titular de la consejería proponente, si se trata de un anteproyecto de ley o proyecto de decreto, o el titular de la consejería, si se trata de un proyecto de orden, podrán, mediante acuerdo o resolución, según los casos, declarar la urgencia en la tramitación cuando concurran razones de interés público o circunstancias extraordinarias que exijan la aprobación urgente de la norma, debiendo justificarse adecuadamente en el expediente las circunstancias que sirvieron de fundamento.
+Declarada la urgencia, además de poder prescindirse de la consulta pública previa, podrá abreviarse u omitirse el trámite de observaciones a las consejerías, todos los plazos de tramitación quedarán reducidos a la mitad de la duración establecida en esta u otra norma y la falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba. No obstante, en los casos en que fuera preceptiva la consulta al Consejo Consultivo del Principado de Asturias, no podrá ponerse fin al procedimiento de elaboración de la norma en tanto no haya sido emitido el correspondiente dictamen.
+Se modifica por el art. 1.34 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 34
+
+Artículo 34. Aprobación.
+Los anteproyectos de ley o proyectos de disposición habrán de ser sometidos a aprobación por el órgano competente en cada caso.
+Se modifica por el art. 1.35 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO VI
+
+De la potestad sancionadora y la responsabilidad patrimonial
+Se modifica por el art. 1.36 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 35
+
+Artículo 35. Ejercicio de la potestad sancionadora.
+1. El ejercicio de la potestad sancionadora en la Administración del Principado de Asturias corresponde a los órganos administrativos que la tengan expresamente atribuida por disposición de rango legal o reglamentario.
+2. La iniciación del procedimiento sancionador, cuando existan elementos suficientes para la calificación inicial de los hechos, será dispuesta por quien ostente la competencia para resolver el procedimiento con imposición de la sanción correspondiente. En el mismo supuesto, si en un mismo procedimiento concurrieran varias infracciones y sanciones, la iniciación será dispuesta por quien ostente la competencia para resolver con imposición de la sanción por la infracción más grave.
+En los restantes supuestos, podrá disponerse en cada consejería por los titulares de las mismas o de las viceconsejerías, secretarías generales técnicas o direcciones generales, en el ámbito de las funciones cuyo ejercicio les corresponda, sin perjuicio de lo que pueda establecer la normativa sectorial del Principado de Asturias.
+Dichos órganos son, asimismo, competentes para ordenar la instrucción de informaciones previas, la designación de instructora o instructor y, en su caso, secretario o secretaria del procedimiento sancionador y para la adopción de medidas provisionales a fin de asegurar la resolución final que pueda recaer.
+Se modifica el apartado 2 por el art. 1.37 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 35 bis
+
+Artículo 35 bis.
+1. El plazo de resolución y notificación de los procedimientos sancionadores tramitados por la Administración del Principado de Asturias será de doce meses.
+2. A los procedimientos sancionadores ya iniciados antes de la entrada en vigor de la presente Ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
+Se añade por el art. 7 de la Ley autonómica 18/1999, de 31 de diciembre. Ref. BOE-A-2000-3764.
+
+### Artículo 35 ter
+
+Artículo 35 ter. Reducciones en la cuantía de la sanción.
+De conformidad con el artículo 85.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en aquellos casos en los que la sanción a imponer tenga únicamente carácter pecuniario, cuando, recibida la notificación de la resolución de inicio del procedimiento sancionador y en el trámite de alegaciones frente a la misma, la presunta infractora o el presunto infractor reconozca su responsabilidad sin ejercer acción ni aportar o proponer prueba alguna, se aplicará una reducción del 25 por ciento sobre el importe de la sanción propuesta. Asimismo, se aplicará una reducción del 25 por ciento acumulable a la anterior, sobre el importe de la sanción pecuniaria propuesta, cuando el interesado proceda al pago voluntario en cualquier momento de la tramitación del procedimiento anterior a la adopción de la resolución sancionadora. Ambos porcentajes de reducción se aplicarán en defecto de otros superiores que, para los mismos supuestos, puedan estar establecidos o establecerse en disposiciones legales o reglamentarias del Principado de Asturias.
+Se añade por el art. 1.38 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 35 quater
+
+Artículo 35 quater. Responsabilidad patrimonial.
+1. Corresponde a los titulares de las consejerías, en el ámbito de sus competencias, la resolución de los procedimientos de responsabilidad patrimonial. No obstante, será precisa autorización del gasto por el Consejo de Gobierno cuando este sea competente por razón de su cuantía.
+2. En el caso de los organismos públicos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias, el órgano competente para la resolución de dichos procedimientos vendrá determinado por su normativa específica, y, en su defecto, corresponderá a quien sea titular de la consejería a la que estuviera vinculado o dependiese el organismo público o entidad de derecho público.
+Se añade por el art. 1.39 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+## CAPÍTULO VII
+
+De la contratación administrativa en la Administración del Principado de Asturias
+
+### Artículo 36
+
+Artículo 36. Regla general.
+Los contratos administrativos que celebre la Administración del Principado de Asturias y sus organismos con personalidad jurídica propia sometidos al derecho público, se regirán por lo dispuesto en la legislación básica sobre contratos de las Administraciones Públicas, con las singularidades derivadas de su adecuación a la estructura orgánica del Principado de Asturias.
+
+### Artículo 37
+
+Artículo 37. Órgano competente.
+1. Los titulares de las consejerías, dentro de sus respectivas competencias, son los órganos de contratación de la Administración del Principado de Asturias y están facultados para otorgar, en nombre y representación de la Comunidad Autónoma, los respectivos contratos en que esta intervenga, previo el cumplimiento de las determinaciones que sean exigibles y sin perjuicio, en su caso, de la necesaria autorización del Consejo de Gobierno para la celebración de determinados contratos, de conformidad con lo establecido en el artículo siguiente.
+2. Corresponde al Consejo de Gobierno la aprobación de los pliegos de cláusulas administrativas generales, los pliegos de prescripciones técnicas generales, así como modelos de cláusulas de uso general y, en particular, sociales y medioambientales; y a los titulares de las consejerías respectivas la aprobación de los proyectos técnicos, los pliegos de cláusulas administrativas particulares, así como modelos de pliegos particulares para determinadas categorías de contratos de naturaleza análoga, y los pliegos de prescripciones técnicas que hayan de servir de base a cada contrato.
+3. En los organismos públicos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias, las competencias a que se refieren los apartados precedentes serán ejercidas de conformidad con las normas que los regulan.
+Se modifica por el art. 1.40 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 38
+
+Artículo 38. Autorización del Consejo de Gobierno en materia de contratación.
+Será necesaria autorización del Consejo de Gobierno para la celebración de los contratos cuando dicho órgano sea el competente para autorizar el gasto por razón de su cuantía o ésta sea indeterminada.
+Se modifica por la disposición adicional 10 de la Ley autonómica 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica por el art. 7.1 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
+ Se modifica por el art. 4 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
+ Se modifica la letra a) por el art. 2 de la Ley autonómica 7/1997, de 31 de diciembre. Ref. BOE-A-1998-10520.
+
+### Artículo 39
+
+Artículo 39. Mesa de contratación.
+1. En el ámbito de cada Consejería se constituirá una Mesa de contratación integrada por un Presidente, designado por el titular de aquélla, y por los siguientes Vocales: el Jefe del Servicio o funcionario designado por éste, un Letrado del Servicio Jurídico del Principado y el Interventor General del Principado de Asturias o un Interventor Delegado. Actuará de Secretario un funcionario de los servicios administrativos de la Consejería.
+2. (Sin contenido)
+Se suprime el apartado 2 por el art. 1.41 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 39 bis
+
+Artículo 39 bis. Contratación centralizada.
+El Consejo de Gobierno promoverá la contratación centralizada.
+Sin perjuicio de lo dispuesto en el artículo anterior, en la estructura de la consejería con competencias en materia de patrimonio, existirá un servicio, con el nivel orgánico que se determine, de contratación centralizada para la tramitación de los procedimientos de contratación relativos a prestaciones que afecten a la generalidad de las consejerías. En este ámbito, el órgano de contratación será el titular de la consejería referida y la Mesa de Contratación que asista a dicho órgano estará integrada por la Presidencia y una Vocalía designadas por el órgano de contratación, una letrada o un letrado del Servicio Jurídico del Principado de Asturias y quien sea titular de la Intervención General del Principado de Asturias o persona en quien delegue. El titular de la jefatura de servicio que tenga encomendada la tramitación de la contratación o persona en quien delegue actuará como secretario.
+Se añade por el art. 1.41 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 39 ter
+
+Artículo 39 ter. Resolución de contratos.
+1. Corresponde al órgano de contratación acordar la resolución de los contratos, aunque su celebración hubiera sido autorizada por el Consejo de Gobierno conforme a lo establecido en el artículo 38.
+2. Los procedimientos de resolución contractual en el ámbito del Principado de Asturias se instruirán y resolverán en un plazo máximo de ocho meses a contar desde su inicio, ya sea de oficio o a instancia de parte.
+Se añade por el art. 1.42 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Artículo 40
+
+Artículo 40. Constitución de fianzas.
+Las fianzas que se consignen en garantía de los contratos podrán constituirse en las formas previstas en la legislación básica de contratación de las Administraciones Públicas, tanto en los lugares señalados por ésta como en la Tesorería General del Principado.
+
+### Artículo 41
+
+Artículo 41. Registro de Contratos.
+1. En la consejería competente en materia de patrimonio se llevará un registro de los contratos que celebren la Administración de Principado de Asturias y las demás entidades que formen parte del sector público autonómico, en el que se reflejarán los datos que permitan tener un exacto conocimiento de los mismos, así como de las modificaciones, ampliaciones de plazo, prórrogas, resoluciones y cuantas incidencias tengan lugar en su ejecución.
+2. Los datos y documentación necesaria para la formación y actualización de los asientos registrales serán facilitados por las consejerías y las demás entidades que formen parte del sector público autonómico en la forma que se determine reglamentariamente, procurando en todo caso la interconexión del Registro de Contratos con los sistemas informáticos de tramitación electrónica de forma que se cumpla el principio de "una sola vez".
+3. El Registro de Contratos, en cuanto sistema oficial central de información sobre la contratación de la Administración del Principado de Asturias y de las entidades integrantes del sector público autonómico, facilitará cuanta información sea requerida por los órganos de control internos y externos, así como al Registro de Contratos del Sector Público y a la Junta Consultiva de Contratación Administrativa.
+Se modifica por el art. 1.43 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Principado de Asturias podrá crear organismos autónomos, entidades de derecho público y empresas públicas para la prestación de servicios públicos, el cumplimiento de actividades económicas al servicio de fines diversos, la administración de determinados bienes o la realización directa de actividades industriales, mercantiles u otras análogas de naturaleza y finalidades predominantemente económica. La creación de estos entes deberá ser autorizada por Ley de la Junta General en la que se determinará el régimen jurídico aplicable a los mismos, regulándose, en lo no previsto en la Ley fundacional, por las demás leyes del Principado.
+El nombramiento de los Directores, Gerentes o asimilados, de los organismos, entidades y empresas a que se refiere el párrafo anterior, en cuanto máximos responsables de la gestión de los mismos, se hará atendiendo a criterios de competencia profesional y experiencia. Los titulares de los puestos referidos se asimilarán en su régimen jurídico al de los altos cargos.
+Se añade el párrafo 2 por el art. 5 de la Ley 7/2014, de 17 de julio. Ref. BOE-A-2014-10576.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Corresponderá al Consejo de Gobierno la designación de los miembros de los órganos superiores de dirección de los organismos autónomos y entidades de derecho público, así como la designación o propuesta, según proceda, de las representaciones que correspondan a la Comunidad Autónoma en los órganos de gobierno de las empresas públicas, salvo las expresamente reservadas a la Junta General del Principado.
+Corresponderá formular las propuestas de designación a los titulares de las Consejerías que tengan relación con estos entes.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Competencia sancionadora en las infracciones leves.
+Sin perjuicio de lo establecido en las disposiciones sectoriales del Principado de Asturias, se atribuye a los titulares de las viceconsejerías, secretarías generales técnicas y direcciones generales, en el ámbito de las funciones que respectivamente les correspondan, la competencia para la resolución de los procedimientos sancionadores por la comisión de infracciones que se califiquen como leves.
+Se modifica por el art. 1.44 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Inicio de procedimientos sancionadores sectoriales.
+El órgano competente para iniciar el procedimiento sancionador será el establecido en la normativa sectorial que sea de aplicación; ello, sin perjuicio, en su caso, de lo establecido en el párrafo primero del artículo 35.2 de esta ley.
+Se modifica por el art. 1.45 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+A la entrada en vigor de esta Ley, el «Boletín Oficial del Principado de Asturias y de la Provincia» pasará a denominarse «Boletín Oficial del Principado de Asturias».
+Se renumera por el art. 1.45 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Su anterior numeración era disposición adicional cuarta.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Reglamentariamente se adecuarán a la presente Ley las normas reguladoras de los distintos procedimientos, cualquiera que sea su rango, con específica mención a los efectos estimatorios o desestimatorios que la falta de resolución expresa produzca.
+Se añade por el art. 1.45 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Su anterior numeración era disposición adicional quinta.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Equivalencias orgánicas.
+Todas las referencias que el texto de esta ley realiza a la Consejería de Interior y Administraciones Públicas se entenderán realizadas a la consejería con competencias en materia de Administración pública y régimen jurídico, y las que realiza a la Consejería de Hacienda, Economía y Planificación, a la consejería con competencias en materia de patrimonio.
+Las referencias a "Dirección Regional", en singular o en plural, se entenderán realizadas a "Dirección General" o "direcciones generales", respectivamente.
+Asimismo, cuando el texto de esta ley se refiere a legislación básica de régimen jurídico de las Administraciones públicas, se entenderá que lo hace a legislación básica de régimen jurídico o procedimiento administrativo común.
+Se añade por el art. 1.46 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional octava
+
+Disposición adicional octava. Suplencia en organismos públicos y entes.
+En el ámbito de los organismos públicos y entes vinculados o dependientes de la Administración del Principado de Asturias, la designación de suplentes de los titulares de sus órganos de gobierno y gestión se regirá por lo dispuesto en su normativa reguladora, y, en su defecto, supletoriamente por lo dispuesto en el artículo 19 bis de esta ley para la suplencia de los órganos superiores de la Administración del Principado de Asturias.
+Se añade por el art. 1.47 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional novena
+
+Disposición adicional novena. Resolución de contratos en el ámbito de las entidades locales del Principado de Asturias.
+En los procedimientos de resolución contractual, lo dispuesto en el apartado 2 del artículo 39 ter de esta ley será aplicable a las entidades locales de la Comunidad Autónoma.
+Se añade por el art. 1.48 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional décima
+
+Disposición adicional décima. Especialidades por razón de la materia.
+Las siguientes actuaciones y procedimientos se regirán por su normativa específica y, supletoriamente, por lo dispuesto en esta ley:
+a) Las actuaciones y procedimientos de aplicación de los tributos en materia tributaria, así como su revisión en vía administrativa.
+b) Las actuaciones y procedimientos sancionadores en materia tributaria.
+Se añade por el art. 1.49 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Expedición de certificados.
+1. La expedición de certificados de asientos o documentación obrante en un registro administrativo de carácter público corresponde al titular de la unidad administrativa a la que esté adscrito, de conformidad con la normativa reguladora en cada caso.
+2. La expedición de certificaciones de otros documentos administrativos, a petición de los interesados, fuera de los supuestos establecidos en el apartado anterior, corresponde a los titulares de las secretarías generales técnicas de la consejería competente por razón de la materia, debiendo ser firmadas previamente dichas certificaciones por la unidad administrativa que disponga de los datos que se certifican.
+Se añade por el art. 1.50 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+
+### Disposición transitoria
+
+Disposición transitoria.
+En tanto no se produzca la adecuación a que se refiere la disposición adicional quinta de la presente Ley, se estará a lo dispuesto en la legislación básica del Estado.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 1/1982, de 24 de mayo, de organización y funcionamiento de la Administración del Principado de Asturias, convalidada y modificada parcialmente por la Ley 91/1983, de 12 de diciembre, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y la aplicación de la presente Ley.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y autoridades que la guarden y la hagan guardar.
+Oviedo, 13 de marzo de 1995.
+ANTONIO TREVÍN LOMBÁN,
+Presidente

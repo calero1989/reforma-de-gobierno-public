@@ -1,0 +1,60 @@
+# Ley Orgánica 4/1988, de 25 de mayo, de Reforma de la Ley de Enjuiciamiento Criminal.
+
+- Identificador BOE: `BOE-A-1988-12909`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-12909
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+### Artículo primero
+
+Artículo primero.
+Se introducen en la Ley de Enjuiciamiento Criminal los siguientes preceptos:
+Artículo 384 bis.
+Firme un auto de procesamiento y decretada la prisión provisional por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, el procesado que estuviere ostentando función o cargo público quedará automáticamente suspendido en el ejercicio del mismo mientras dure la situación de prisión.
+Artículo 504 bis.
+(Anulado)
+Artículo 520 bis.
+1. Toda persona detenida como presunto partícipe de alguno de los delitos a que se refiere el artículo 384 bis será puesta a disposición del Juez competente dentro de las setenta y dos horas siguientes a la detención. No obstante, podrá prolongarse la detención el tiempo necesario para los fines investigadores, hasta un límite máximo de otras cuarenta y ocho horas, siempre que, solicitada tal prórroga mediante comunicación motivada dentro de las primeras cuarenta y ocho horas desde la detención, sea autorizada por el Juez en las veinticuatro horas siguientes. Tanto la autorización cuanto la denegación de la prórroga se adoptarán en resolución motivada.
+2. Detenida una persona por los motivos expresados en el número anterior, podrá solicitarse del Juez que decrete su incomunicación, el cual deberá pronunciarse sobre la misma, en resolución motivada, en el plazo de veinticuatro horas. Solicitada la incomunicación, el detenido quedará en todo caso incomunicado sin perjuicio del derecho de defensa que le asiste y de lo establecido en los artículos 520 y 527, hasta que el Juez hubiere dictado la resolución pertinente.
+3. Durante la detención, el Juez podrá en todo momento requerir información y conocer, personalmente o mediante delegación en el Juez de Instrucción del partido o demarcación donde se encuentre el detenido, la situación de éste.
+Artículo 553.
+Los Agentes de policía podrán, asimismo, proceder de propia autoridad a la inmediata detención de las personas cuando haya mandamiento de prisión contra ellas, cuando sean sorprendidas en flagrante delito, cuando un delincuente, inmediatamente perseguido por los Agentes de la autoridad, se oculte o refugie en alguna casa o, en casos de excepcional o urgente necesidad, cuando se trate de presuntos responsables de las acciones a que se refiere el artículo 384 bis, cualquiera que fuese el lugar o domicilio donde se ocultasen o refugiasen, así como al registro que, con ocasión de aquella, se efectúe en dichos lugares y a la ocupación de los efectos e instrumentos que en ellos se hallasen y que pudieran guardar relación con el delito perseguido.
+Del registro efectuado, conforme a lo establecido en el párrafo anterior, se dará cuenta inmediata al Juez competente, con indicación de las causas que lo motivaron y de los resultados obtenidos en el mismo, con especial referencia a las detenciones que, en su caso, se hubieran practicado. Asimismo, se indicarán las personas que hayan intervenido y los incidentes ocurridos.
+Artículo 779.
+Se añade un párrafo tercero del siguiente tenor:
+Tercero. Los delitos a que se refiere el artículo 384 bis.
+Se declara la inconstitucionalidad y nulidad de la redacción dada al art. 504 bis, por Sentencia del TC 71/1994, de 3 de marzo. Ref. BOE-T-1994-6778.
+
+### Artículo segundo
+
+Artículo segundo.
+El artículo 579 de la Ley de Enjuiciamiento Criminal quedará redactado en los términos que a continuación se expresan:
+Artículo 579.
+1. Podrá el Juez acordar la detención de la correspondencia privada, postal y telegráfica que el procesado remitiere o recibiere y su apertura y examen, si hubiere indicios de obtener por estos medios el descubrimiento o la comprobación de algún hecho o circunstancia importante de la causa.
+2. Asimismo, el Juez podrá acordar, en resolución motivada, la intervención de las comunicaciones telefónicas del procesado, si hubiere indicios de obtener por estos medios el descubrimiento o la comprobación de algún hecho o circunstancia importante de la causa.
+3. De igual forma, el Juez podrá acordar, en resolución motivada, por un plazo de hasta tres meses, prorrogable por iguales períodos, la observación de las comunicaciones postales, telegráficas o telefónicas de las personas sobre las que existan indicios de responsabilidad criminal, así como de las comunicaciones de las que se sirvan para la realización de sus fines delictivos.
+4. En caso de urgencia, cuando las investigaciones se realicen para la averiguación de delitos relacionados con la actuación de bandas armadas o elementos terroristas o rebeldes, la medida prevista en el número 3 de este artículo podrá ordenarla el Ministro del Interior o en su defecto, el Director de la Seguridad del Estado, comunicándolo inmediatamente por escrito motivado al Juez competente, quien, también de forma motivada, revocará o confirmará tal resolución en un plazo máximo de setenta y dos horas desde que fue ordenada la observación.
+
+### Disposición adicional
+
+Las referencias a la norma de desarrollo del artículo 55.2 de la Constitución se entenderán hechas a esta Ley Orgánica.
+
+### Disposición transitoria
+
+Los Juzgados Centrales de Instrucción y la Audiencia Nacional continuarán conociendo de la instrucción y enjuiciamiento de las causas por delitos cometidos por personas integradas en bandas armadas o relacionadas con elementos terroristas o rebeldes cuando la comisión del delito contribuya a su actividad, y por quienes de cualquier modo cooperen o colaboren con la actuación de aquellos grupos o individuos. Conocerán también de los delitos conexos con los anteriores.
+La legislación que pueda modificar esta atribución de competencias se inspirará en el principio de inmediación judicial.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a 25 de mayo de 1988.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

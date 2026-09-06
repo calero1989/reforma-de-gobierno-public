@@ -1,0 +1,96 @@
+# Ley Orgánica 11/1995, de 27 de noviembre, de abolición de la pena de muerte en tiempo de guerra.
+
+- Identificador BOE: `BOE-A-1995-25714`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-25714
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+EXPOSICION DE MOTIVOS
+El artículo 15 de la Constitución española proclama que todos tienen derecho a la vida y a la integridad física y moral y dispone la abolición de la pena de muerte salvo lo que puedan disponer las leyes penales militares para tiempo de guerra. Tal excepción para determinados delitos cometidos en tiempo de guerra ha sido materializada por la Ley Orgánica 13/1985, de 9 de diciembre, por la que se aprueba el Código Penal Militar. No obstante, como tal excepción constitucional, no resulta obligada e imperativa sino que el legislador dispone de plena libertad para abolirla.
+Conforme a ello, a la propia pauta de las legislaciones de los Estados modernos en los últimos años y al espíritu y propósito del segundo Protocolo facultativo al Pacto internacional relativo a los derechos civiles y políticos, de la Resolución 1044 y de la Recomendación 1246 adoptadas por la Asamblea Parlamentaria del Consejo de Europa, el 4 de octubre de 1994, la presente Ley declara abolida la pena de muerte en el Código Penal Militar, único texto legal que la contempla como pena alternativa a determinados delitos cometidos en tiempo de guerra, y suprime todas las referencias legales a la misma, haciéndola desaparecer de nuestro ordenamiento jurídico.
+
+### Artículo primero
+
+Artículo primero. Objeto y fin.
+Queda abolida la pena de muerte establecida para tiempo de guerra.
+
+### Artículo segundo
+
+Artículo segundo. Modificaciones de la Ley Orgánica 13/1985, de 9 de diciembre, del Código Penal Militar.
+1. Se suprime el inciso del párrafo sexto del Preámbulo de la Ley Orgánica 13/1985, de 9 de diciembre, del Código Penal Militar, cuyo texto es el siguiente:
+«Por imperativo constitucional únicamente se prevé la posibilidad de pena de muerte para tiempos de guerra, estableciéndose en todo caso como alternativa y no como pena única.»
+2. El artículo 25 de la Ley Orgánica 13/1985, de 9 de diciembre, del Código Penal Militar, queda sin contenido.
+3. Se suprimen, de los artículos que se enumeran a continuación de la Ley Orgánica 13/1985, de 9 de diciembre, las siguientes expresiones:
+– Artículo 24: «Muerte, en tiempo de guerra».
+– Artículo 28: «de muerte y la».
+– Artículo 29: «de muerte y la».
+– Artículo 40: «La pena inferior a la de muerte será la de veinte a treinta años de prisión».
+– Artículo 45: «Pena de muerte o».
+– Artículo 46: «La de muerte y».
+– Artículo 49: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 50: «pudiendo imponerse la de muerte».
+– Artículo 52: «pudiendo imponerse la de muerte».
+– Artículo 57: «pudiendo imponerse la de muerte».
+– Artículo 69: «pudiendo imponerse la de muerte».
+– Artículo 70: «pudiendo imponerse la pena de muerte».
+– Artículo 71: «pudiendo imponerse la de muerte».
+– Artículo 76: «pudiendo imponerse la de muerte».
+– Artículo 79: «pudiendo imponerse la pena de muerte».
+– Artículo 85: «pudiendo imponerse la de muerte».
+– Artículo 86: «pudiendo imponerse la de muerte».
+– Artículo 87: «pudiendo imponerse la de muerte».
+– Artículo 91: «pudiendo imponerse la pena de muerte a todos los autores de este delito en tiempo de guerra».
+– Artículo 98: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 102: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 104: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 107: «pudiendo imponerse la pena de muerte en tiempo de guerra».
+– Artículo 109: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 111: «pudiendo imponerse la de muerte en tiempo de guerra».
+– Artículo 130: «pudiendo imponerse la de muerte».
+– Artículo 144: «pudiendo imponerse la de muerte».
+– Artículo 146: «pudiendo imponerse la de muerte».
+– Artículo 147: «pudiendo imponerse la de muerte».
+– Artículo 165: «En ambos casos se podrá imponer la muerte en tiempo de guerra».
+4. El párrafo segundo del artículo 98 queda, en su inciso inicial, redactado así: «La misma pena...».
+
+### Artículo tercero
+
+Artículo tercero. Modificaciones de la Ley Orgánica 4/1987, de 15 de julio, de Competencia y Organización de la Jurisdicción Militar.
+1. El segundo párrafo del artículo 162 de la Ley Orgánica 4/1987, de 15 de julio, queda suprimido.
+2. El tercer párrafo del artículo 162 de la citada Ley Orgánica queda redactado del modo siguiente: «El Vocal Militar tendrá carácter permanente y será designado por el Ministro de Defensa».
+
+### Artículo cuarto
+
+Artículo cuarto. Modificaciones de la Ley Orgánica 2/1989, de 13 de abril, Procesal Militar.
+1. Se suprime el inciso del párrafo undécimo del Preámbulo de la Ley Orgánica 2/1989, de 13 de abril, Procesal Militar, que dice:
+«... para los que pueda imponerse como alternativa pena de muerte.»
+2. El apartado 1.º del artículo 398 de la Ley Orgánica 2/1989, de 13 de abril, queda redactado de la forma siguiente:
+«1.º Los procesados por flagrante delito militar a que se refieren los artículos 49; 50, párrafo primero; 52, párrafo primero; 57; 69, si el resultado fuere la muerte; 70, en los casos de extrema gravedad; 71; 76, párrafo primero; 79, letra a); 85, párrafo segundo, si se causaren lesiones graves o se ocasionare la muerte; 86, párrafo segundo, si se causaren lesiones o se ocasionare la muerte; 87, párrafo primero, si se causare la muerte o lesiones muy graves; 91, párrafo tercero; 98; 102, párrafo tercero; 104, si se causare la muerte; 107, si ejerciere el mando; 109, párrafo primero; 111; 130, párrafo segundo; 144, 1.º; 146, 1.º; 147, 1.º, y 165.»
+3. El artículo 406 de la citada Ley Orgánica queda redactado de la siguiente forma:
+«Terminada la vista se realizarán seguidamente y en un solo acto, salvo causa de fuerza mayor, la deliberación, votación, redacción y firma de la sentencia, que se notificará inmediatamente al Fiscal Jurídico Militar y a los defensores de las partes. Contra esta sentencia cabrá el recurso de casación prevenido en el Título IV del Libro II.»
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en esta Ley Orgánica.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley Orgánica entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 27 de noviembre de 1995.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZALEZ MARQUEZ

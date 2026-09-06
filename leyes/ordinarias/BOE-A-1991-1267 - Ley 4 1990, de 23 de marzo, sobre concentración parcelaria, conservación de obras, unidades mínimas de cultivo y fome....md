@@ -1,0 +1,142 @@
+# Ley 4/1990, de 23 de marzo, sobre concentración parcelaria, conservación de obras, unidades mínimas de cultivo y fomento de explotaciones rentables.
+
+- Identificador BOE: `BOE-A-1991-1267`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-1267
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCT núm. 106, de 28 de mayo de 1990.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+La experiencia obtenida desde la fecha de la publicación de la Ley de Reforma y Desarrollo Agrario ha demostrado la conveniencia de proceder a una regulación específica para Cantabria en el procedimiento de concentración parcelaria y en materia de conservación y ejecución de obras, al objeto de agilizar las diversas fases y dar una mayor participación en los trabajos a los afectados por la concentración parcelaria.
+En cuanto a las obras, se pretende dotar de medios adecuados a la Administración Regional de Cantabria y de unas normas legales en el marco de la legislación básica del Estado, que contemplen y den soluciones a los problemas peculiares que presenta la ejecución y conservación de los proyectos de obras derivadas de un mal uso de las mismas o de la arbitraria oposición a su realización.
+La derogación de la Ley de 15 de julio de 1954, sobre fijación de unidades mínimas de cultivo por la de reforma y desarrollo agrario, aprobada por Decreto 118/1973, de 12 de enero, así como la falta de desarrollo del artículo 43 de este último texto legal, han conducido a la inexistencia de una norma que regule y determine las superficies mínimas, tanto de secano como de regadío, que permitan la obtención de un rendimiento satisfactorio de las explotaciones agrarias utilizando los medios normales de producción.
+Esta situación se ha venido paliando en la práctica con el dudoso criterio de definir como divisible o indivisible una finca rústica según las determinaciones de la Orden del Ministerio de Agricultura de 27 de mayo de 1958, que fija la superficie de la unidad mínima de cultivo para cada uno de los términos municipales de las distintas provincias españolas, siendo preciso superar esta situación de vacío legal.
+Las superficies que se han venido aplicando son de 0,20 hectáreas en regadío y de 0,20 o 0,30 hectáreas, en secano, según los Ayuntamientos, cifra que se considera en estos momentos excesivamente pequeña, dado los medios de cultivo que actualmente se emplean y, por otra parte, la evidente contradicción que existe con la superficie mínima que se establece en las normas subsidiarias de edificación vigente en la mayor parte de esta Comunidad Autónoma, que alcanza un mínimo de 0,50 hectáreas.
+La existencia de un gran número de propietarios de superficies totales muy reducidas aconseja fijar una extensión para la unidad mínima de cultivo que, aunque no sea la óptima desde el punto de vista de su aprovechamiento, permita paliar tanto los defectos apuntados anteriormente como evitar la excesiva parcelación de las explotaciones.
+Para conseguir la creación de unidades agrarias rentables, se hace necesario instrumentar los incentivos económicos y técnicos precisos, que estimulen a los propietarios de unidades de explotación insuficientes a incrementar el tamaño de las mismas, hasta llegar a dimensiones acordes con las exigencias y situaciones de cada momento.
+
+## TÍTULO I
+
+Del procedimiento de concentración
+
+### Artículo 1
+
+Artículo 1.
+El procedimiento para llevar a cabo la concentración parcelaria, la conservación de las obras, las unidades mínimas de cultivo y fomento de las explotaciones rentables, se regulará conforme a lo que determina la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Comisiones locales.
+1. Las Comisiones Locales de Concentración Parcelaria son órganos colegiados a los que corresponde aprobar las bases provisionales de la zona, proponer a la Consejería de Ganadería, Agricultura y Pesca las bases definitivas y asesorar a la unidad administrativa encargada de llevar a cabo la concentración parcelaria en todas las fases de procedimiento en las que se requiera su intervención, fundamentalmente en los trabajos de investigación y clasificación.
+2. Firme el acuerdo de concentración, quedará automáticamente disuelta la Comisión Local de Concentración Parcelaria.
+3. Las Comisiones Locales de Concentración Parcelaria estarán presididas con voto de calidad por el Jefe de la unidad administrativa encargada de los trabajos de concentración, o por quien este designe por delegación. Será Vicepresidente el Alcalde del Ayuntamiento o Presidente de la Entidad Local correspondiente y formarán parte de ella, como Vocales, un facultativo superior de la Consejería de Ganadería, Agricultura y Pesca, el Presidente de la Cámara Agraria correspondiente y seis representantes de los agricultores de la zona; actuando como Secretario un Técnico superior de la Consejería de Ganadería, Agricultura y Pesca que tenga la condición de Licenciado en Derecho.
+4. Si la zona de concentración parcelaria estuviera comprendida en una comarca en la que hayan de llevarse a cabo actuaciones de las señaladas en el libro III, título IV, de la Ley de Reforma y Desarrollo Agrario de 12 de enero de 1973, formará parte de la Comisión Local el facultativo superior encargado de la misma.
+5. Si cesa cualquier Vocal en el cargo público que determinó su nombramiento, será automáticamente sustituido en la Comisión Local por la persona a quien se designe nuevamente para ocupar aquel cargo.
+6. Si en el momento en que deba procederse a constituir la Comisión Local está vacante cualquiera de los cargos públicos a que se refiere el párrafo 3 de este artículo, ocupará provisionalmente el puesto correspondiente en la Comisión Local la persona que deba asumir legalmente las funciones respectivas.
+7. Si la zona de concentración se extiende a más de un término municipal, se constituirá la Comisión Local en el lugar y con los funcionarios, Alcalde y agricultores del término afectado en mayor medida por la reforma, incorporándose a ella un agricultor por cada uno de los demás términos municipales.
+8. La Comisión Local tendrá su domicilio en el local del Ayuntamiento o Entidad Local que corresponda, o en el que se habilite por dichas entidades, a los efectos de celebración de reuniones, publicación de documentos e informaciones orales. Los escritos y alegaciones deberán presentarse, independientemente de lo previsto en la Ley de Procedimiento Administrativo, en las oficinas de la Consejería de Ganadería, Agricultura y Pesca o de la unidad encargada de llevar a cabo la concentración.
+9. La Comisión Local celebrará, como mínimo, las reuniones correspondientes a su constitución, aprobación de las bases provisionales y proposición de las bases definitivas.
+10. Los seis agricultores que han de formar parte de la Comisión Local de Concentración Parcelaria serán elegidos por una asamblea de participantes en la concentración, convocada por el Ayuntamiento o Entidad Local menor a que pertenezca la zona a concentrar.
+11. En esta Asamblea se designarán tres o seis agricultores de la zona que, sin formar parte de la Comisión Local, auxiliarán a esta en los trabajos de clasificación.
+12. Como representantes de los agricultores de la Comisión Local, se elegirán dos entre los mayores aportantes de bienes a la concentración, dos entre los medianos y otros dos entre los menores, observándose la misma norma para la designación de los auxiliares.
+13. Las Comisiones Locales de Concentración Parcelaria, con la misma composición, pero bajo la denominación de Comisiones Locales de Investigación y Clasificación de Propiedad, podrán también constituirse por orden de la Consejería de Ganadería, Agricultura y Pesca para proponer a la misma, en zonas de actuación no declaradas de concentración parcelaria, los acuerdos pertinentes en relación con la investigación de la propiedad, gravámenes y situaciones jurídicas que la afecten, clasificación y, eventualmente, valoración de tierras.
+
+### Artículo 3
+
+Artículo 3. Procedimiento ordinario.
+1. El procedimiento de concentración parcelaria se iniciará de oficio por la Administración Autónoma cuando, a su juicio, existan razones de utilidad pública que agronómica o socialmente justifiquen la concentración.
+2. Una vez determinadas estas razones, que serán libre e inapelablemente apreciadas por la citada Administración, en base a cuantos informes previos considere necesarios, la concentración parcelaria se llevará a cabo por Decreto del Consejo de Gobierno de la Diputación Regional de Cantabria, a propuesta de la Consejería de Ganadería, Agricultura y Pesca.
+3. Asimismo podrá promoverse la concentración parcelaria cuando, a través de la Consejería de Ganadería, Agricultura y Pesca, la soliciten los Ayuntamientos, Entidades Locales menores o Cámaras Agrarias, o bien mediante petición de la mayoría de los propietarios de la zona para la que se solicita.
+
+### Artículo 4
+
+Artículo 4. Revisión del procedimiento.
+1. Todo recurso gubernativo cuya resolución exija un reconocimiento pericial del terreno solo será admitido a trámite, salvo que se renuncie expresamente a dicho reconocimiento, si se deposita en las oficinas de los servicios correspondientes de la Consejería de Ganadería, Agricultura y Pesca la cantidad que este estime necesaria para sufragar el coste de las actuaciones periciales que requiera la comprobación de los hechos alegados. Estos servicios no podrán exigir en cada caso más de 100 pesetas por finca o parcela, en concepto de honorarios, ni de 2.500 a cuenta de los gastos de dietas y desplazamientos del Perito.
+2. La liquidación definitiva de los gastos periciales se practicará uniendo los comprobantes que acrediten la realidad de la cuantía de los gastos. El Consejero de Ganadería, Agricultura y Pesca acordará, al resolver el recurso, la inmediata devolución al interesado de la cantidad depositada, si los gastos periciales no hubieren llegado a devengarse o se refieran a la prueba pericial que fundamente la estimación total o parcial del recurso.
+
+### Artículo 5
+
+Artículo 5. Ejecución.
+El acta de reorganización de la propiedad será protocolizada por el Notario de la zona o, no habiendo determinación de zonas notariales, por el del distrito a quien por turno corresponda, y las copias parciales que expida, que podrán ser impresas, servirán de títulos de dominio a los participantes en la concentración, correspondiendo a la Consejería de Ganadería, Agricultura y Pesca promover la inscripción de dichos títulos en el Registro de la Propiedad. Para su protocolización con el acta se remitirá al Notario un plano autorizado de la zona concentrada, remitiéndose otro igual al Registro de la Propiedad.
+
+### Artículo 6
+
+Artículo 6. Efectos.
+1. La publicación del Decreto declarando de utilidad pública la concentración parcelaria atribuirá a la Consejería de Ganadería, Agricultura y Pesca la facultad de instalar hitos o señales, la de obligar a la asistencia a las reuniones de las Comisiones, la de exigir los datos que los interesados posean o sean precisos para la investigación de la propiedad y clasificación de tierras, y la de establecer un plan de cultivos y aprovechamientos de la zona mientras se tramita el expediente de concentración. Los que cometan cualquier infracción resultante de lo anteriormente dispuesto incurrirán en multa de 5.000 a 25.000 pesetas.
+2. Los propietarios y cultivadores están obligados, desde la publicación del Decreto que acuerde la concentración, a cuidar de las parcelas sujetas a ella con la diligencia propia de un buen padre de familia, cultivándolas a uso y costumbre de buen labrador. No podrán, en su consecuencia, destruir obras, esquilmar la tierra ni realizar ningún acto que disminuya el valor de tales parcelas. Si lo hicieren, incurrirán en multa de cuantía doble a la disminución de valor que hubiese experimentado la aportación, sin perjuicio de deducir de esta el importe del demérito sufrido.
+3. Las multas a que se refiere este artículo serán impuestas por el Director de Fomento Agrario y del Medio Natural, previo expediente tramitado por la Consejería de Ganadería, Agricultura y Pesca, con audiencia del interesado.
+
+## TÍTULO II
+
+Conservación de las obras
+
+### Artículo 7
+
+Artículo 7.
+Con el fin de cooperar a la adecuada conservación de las obras de cualquier clase realizadas por la Consejería de Ganadería, Agricultura y Pesca, esta podrá adquirir el equipo necesario, utilizándolo mediante convenios con las distintas entidades, en los que se determinará la forma de prestar el servicio y de reembolsar los gastos que se ocasionen.
+
+### Artículo 8
+
+Artículo 8.
+Los que destruyan, deterioren, hagan mal uso o impidan la correcta realización de cualquiera de las obras realizadas por la Consejería de Ganadería, Agricultura y Pesca incurrirán en multa, cuya cuantía está comprendida entre 5.000 y 100.000 pesetas, que será impuesta por el Director de Fomento Agrario y del Medio Natural, a propuesta del Servicio de Reforma de Estructuras, Ayuntamientos o Cámaras Agrarias.
+
+## TÍTULO III
+
+De las unidades mínimas de cultivo
+
+### Artículo 9
+
+Artículo 9.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/2000, de 13 de noviembre. Ref. BOE-A-2000-22307.
+
+### Artículo 10
+
+Artículo 10.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/2000, de 13 de noviembre. Ref. BOE-A-2000-22307.
+
+### Artículo 11
+
+Artículo 11.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/2000, de 13 de noviembre. Ref. BOE-A-2000-22307.
+
+## TÍTULO IV
+
+Fomento de las explotaciones rentables
+
+### Artículo 12
+
+Artículo 12.
+En la Comunidad Autónoma de Cantabria se promoverá la constitución de explotaciones agrarias que respondan a los principios de justicia social y economicidad, a cuyo fin deberán reunir condiciones técnicas y estructurales adecuadas en cuanto al proceso productivo y base territorial proporcionado, de acuerdo con la coyuntura económica y nivel de vida de la Comunidad Autónoma, una adecuada remuneración a la mano de obra y a la gestión empresarial, arbitrando para ello las disposiciones que permitan la concesión de los auxilios técnicos, económicos y administrativos precisos.
+
+### Artículo 13
+
+Artículo 13.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/2000, de 13 de noviembre. Ref. BOE-A-2000-22307.
+
+### Artículo 14
+
+Artículo 14.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/2000, de 13 de noviembre. Ref. BOE-A-2000-22307.
+
+### Disposición final primera
+
+Disposición final primera.
+Las demás normas relativas a la conservación de obras serán dictadas mediante disposiciones especiales de rango adecuado.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Todos los aspectos relativos a concentración parcelaria no contemplados en la presente Ley se regularán por lo dispuesto en la Ley de Reforma y Desarrollo Agrario de 12 de enero de 1973.
+
+Santander, 23 de marzo de 1990.
+JUAN HORMAECHEA CAZÓN,
+Presidente de la Diputación Regional de Cantabria

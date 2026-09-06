@@ -1,0 +1,554 @@
+# Ley 6/1985, de 11 de mayo, de Sindicatura de Cuentas.
+
+- Identificador BOE: `BOE-A-1985-18239`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-18239
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, en nombre del Rey, de acuerdo con lo establecido por la Constitución y el Estado de Autonomía, promulgo la siguiente Ley:
+PREÁMBULO
+El artículo 59 de la Ley Orgánica 5/1982, de 1 de julio, del Estatuto de Autonomía de la Comunidad Valenciana, atribuye el control económico y presupuestario de la Generalidad Valenciana a la Sindicatura de Cuentas, remitiendo a las Cortes Valencianas la facultad de fijar por Ley su composición y funciones. Todo ello sin perjuicio de lo establecido en la legislación del Estado.
+Precedente histórico de esta Sindicatura de Cuentas, que hoy nace, es el Oficio de Maestro Racional creado; como institución única para todos los territorios que conformaban la Corona de Aragón, por Pedro el Grande en 1283, en un intento de impulsar la racionalización de la estructura político-administrativa de la Corona.
+A la institución del Maestro Racional le fueron asignadas las funciones de previsión, dirección y control último de la administración financiera real, destacando, entre todas ellas, la de fiscalización de la gestión financiera.
+Alfonso el Magnánimo divide el Oficio, nombrando un Maestro Racional en cada uno de los distintos territorios integrados en la Corona de Aragón, si bien sometido al poder real. Así aparece en Valencia, como figura propia, el Maestro Racional de la Corte del Rey.
+No obstante este sometimiento al poder real, las Cortes Valencianas conseguirán influir en la normativa reguladora del Oficio, configurándolo así con caracteres propios.
+La presente Ley recoge en su texto los principios contenidos en la Declaración de Lima de 1977, aprobada por la Asamblea Plenaria del Organismo Internacional de Entidades Fiscalizadoras Superiores, integrado en las Naciones Unidas; declaración considerada como la Carta Magna de las entidades fiscalizadoras de todo el mundo.
+Preocupación primordial de esta Ley ha sido no sólo definir las competencias de la Sindicatura de Cuentas, sino su ámbito de aplicación, que no puede ser otro que aquel a que se extienda el sector público valenciano. Ya en el artículo primero, al delimitar este ámbito se han salvado, de forma expresa, las competencias del Tribunal de Cuentas, e incluso las que pudieran corresponder a otros órganos de control de la Administración Estatal, si así se establece por la legislación del Estado.
+Cohonestar la facultad de fiscalización de la Sindicatura sobre las Entidades Locales, con la indudable potestad fiscalizadora del Estado sobre ellas y la autonomía que a las mismas se les reconoce constitucionalmente, ha sido aspecto estudiado muy meditada-mente, dado su delicadeza y dificultad. Se ha salvado la dificultad por una doble vía: Primero, limitando la potestad de control de la Sindicatura a aquella parte de la gestión financiera local que esté comprendida en el ámbito competencial de la Generalidad Valenciana, ámbito que nace de la estructura autonómica que la Constitución confiere al Estado, y, segundo, reconociendo expresamente a las Entidades Locales como los órganos competentes para adoptar las medidas oportunas que, a la vista de los informes o dictámenes, como resultado del ejercicio de su función fiscalizadora, emita la Sindicatura.
+Es de resaltar el reconocimiento de la independencia funcional de la Institución, a fin de dotarla de la necesaria libertad para poder garantizar el mejor y más libre desarrollo de sus funciones, sin que ello sea impedimento para declarar su dependencia orgánica de las Cortes Valencianas, ante las que ha de rendir sus informes y, en última instancia, responder de su actuación. Acorde con esta independencia funcional es el reconocimiento de su competencia para elaborar y aprobar el anteproyecto de su propio presupuesto, así como la potestad para regular tanto cuanto afecte a su gobierno y organización como al régimen interno del personal a su servicio.
+Si bien, por imperativo del propio Estatuto de Autonomía, a la Sindicatura de Cuentas sólo le corresponde el ejercicio de funciones fiscalizadoras, en aras de la colaboración que debe existir entre las distintas administraciones públicas, se prevé la instrucción, por la Institución Valenciana, de los procedimientos jurisdiccionales pertinentes para el enjuiciamiento de la responsabilidad contable, siempre que el Tribunal de Cuentas así lo delegue.
+Se establecen las funciones que corresponde ejercer a la Sindicatura y los mecanismos necesarios para el más eficaz ejercicio de las mismas, destacando, entre éstos, la facultad de acceder a todos los expedientes y documentos relativos a la gestión que fiscaliza; la posibilidad de requerimiento conminatorio a los obligados a colaborar en el desarrollo de sus funciones, así como la libre iniciativa fiscalizadora. Se regulan, asimismo, tanto su función asesora como el derecho de petición que corresponde a las Cortes Valencianas, al Consell y, en su caso, a las Entidades Locales.
+Importante es la regulación de los órganos de gestión, así como de las competencias asignadas a cada uno de ellos. En este punto se ha pretendido conjugar la eficacia en el logro de sus objetivos con la economía de los medios. A tal fin se ha considerado conveniente dotar a la figura del Síndico Mayor, independientemente de ostentar la representación de la Sindicatura ante cualquier instancia, de un crecido número de competencias que agilicen la gestión del Órgano. La misma línea se ha seguido con los Síndicos y los restantes órganos de la Sindicatura.
+La austeridad fundamenta la determinación del número de Síndicos que han de elegir las Cortes Valencianas, fijado en tres, de entre los que ha de designarse al Síndico Mayor, facultad ésta que se atribuye al Presidente de la Generalidad.
+Se ha juzgado conveniente a los intereses públicos el establecer la incapacidad para acceder al cargo de Síndico a quienes durante el año anterior a la fecha de la elección de éstos hubiesen desempeñado cargos cuya gestión económica haya de ser fiscalizada por la Sindicatura; se declara la incompatibilidad con el ejercicio de cualquier otra actividad que no sea la administración del propio patrimonio, con el fin primordial, entre otros, de salvaguardar la necesaria independencia, que podría verse quebrada en el caso de existencia de intereses particulares contrapuestos a los públicos; también se establece el principio de su responsabilidad disciplinaria, que será regulada por normas de régimen interior, si bien la competencia para acordar la separación del cargo corresponderá, en todos los supuestos, a las Cortes Valencianas.
+A la propia Sindicatura, por el principio de respeto a su independencia funcional, se atribuye la selección del personal a su servicio, si bien se determinan los sistemas para dejar garantizados los principios constitucionales de publicidad, igualdad, mérito y capacidad. Por otra parte se concede prioridad de acceso al personal perteneciente a las administraciones públicas, que, por reorganizaciones administrativas o cualesquiera otras causas, queden sin funciones específicas que cumplir en sus puestos de trabajo, si bien con la exigencia de contar con la capacitación suficiente para desempeñar las propias del Órgano; con ello se pretende coadyuvar a la mejor racionalización del gasto público.
+Finalmente se establecen los plazos tanto para la elección de los Síndicos y Síndico Mayor como para el envío a las Cortes Valencianas de un proyecto de normas de régimen interior, habiendo de tramitar el Consell, por su parte, el oportuno Proyecto de Ley de crédito extraordinario para dotar suficientemente los gastos de la Sindicatura de Cuentas durante el primer ejercicio económico de funcionamiento.
+Atendiendo cuanto antecede, a propuesta del Consell y previa deliberación de las Cortes Valencianas, en nombre del Rey, vengo a promulgar la siguiente:
+LEY DE SINDICATURA DE CUENTAS
+
+## TÍTULO I
+
+Competencias, ámbito de aplicación y funciones
+
+## CAPÍTULO I
+
+Competencias y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Definición e integración orgánica.
+La Sindicatura de Comptes es el órgano al que, con la máxima iniciativa y responsabilidad, corresponde el control externo económico y presupuestario de la actividad financiera del sector público valenciano, así como de las cuentas que la justifiquen. Todo ello sin perjuicio de lo establecido en la legislación del Estado.
+La Sindicatura de Comptes dependerá orgánicamente de las Corts Valencianes, si bien gozará de total independencia funcional para el mejor cumplimiento de sus fines.
+Se modifica por el art. 1.1 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 2
+
+Artículo 2. El objeto de la fiscalización.
+Uno. El sector público valenciano, a los efectos de esta ley, está integrado por:
+a) La administración de la Generalitat.
+b) La administración local de la Comunitat Valenciana.
+c) Las universidades públicas valencianas.
+d) Los organismos, las entidades, las sociedades mercantiles, las fundaciones de sector público, los consorcios y, en general, toda persona jurídica bajo cualquier modalidad admitida en derecho que, de forma directa o indirecta, se encuentre en alguna de estas situaciones:
+– Que esté participada o financiada mayoritariamente por la Generalitat, por las entidades locales y/o por las universidades públicas valencianas, o si su participación minoritaria sumada implica, en un mismo ente, participación mayoritaria.
+– Que la Generalitat, las entidades locales y/o las universidades públicas valencianas controlen su gestión o nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia.
+– Que la legislación presupuestaria que le resulte de aplicación la integre en el sector público.
+e) Otras entidades que determinen las leyes que emanen de Les Corts.
+f) Las instituciones de la Generalitat previstas en el Estatuto de autonomía.
+Dos. Corresponde también a la Sindicatura de Comptes la fiscalización de las subvenciones, aportaciones a la financiación de entidades, entregas dinerarias sin contraprestación, créditos, avales, convenios, patrocinios y otras ayudas de las entidades a que se refiere el apartado anterior percibidas por personas físicas o jurídicas. De forma particular, las cajas fijas de las entidades relacionadas en el apartado uno de este artículo.
+Tres. Corresponde, asimismo, a la Sindicatura de Comptes el control externo de toda ayuda, cualquiera que sea su naturaleza, que con cargo a sus presupuestos otorguen los entes del sector público valenciano a personas físicas, instituciones o entidades del sector privado.
+Cuatro. Corresponde, asimismo, a la Sindicatura de Comptes el control de los partidos políticos, las coaliciones o agrupaciones de electores exclusivamente en lo que se refiere a la gestión de subvenciones y/o asignaciones para gastos electorales procedentes de los presupuestos de la Generalitat.
+Se modifica por el art. 1.2 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Se modifica por el art. 45 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+ Se levanta la suspensión de la vigencia y aplicación del apartado 2.a) por Auto del TC de 23 de enero de 1986. Ref. BOE-A-1986-3130
+ Téngase en cuenta que se declara el desistimiento en el recurso de inconstitucionalidad núm. 794/1985, por Auto del TC de 21 de marzo de 1991. Ref. BOE-A-1986-3130
+ Se suspende la vigencia y aplicación del apartado 2.a) desde el 20 de agosto de 1985 para las partes en el proceso y desde el 14 de septiembre de 1985, por providencia del TC de 28 de agosto de 1985 por la que se admite a trámite el recurso de inconstitucionalidad núm. 794/1985. BOE-A-1985-19455
+
+### Artículo 3
+
+Artículo 3. La independencia funcional de la Sindicatura de Comptes.
+Acorde con su independencia funcional, corresponde en todo caso, a la Sindicatura de Comptes el ejercicio de las siguientes competencias:
+Uno. La elaboración y aprobación del proyecto de su propio presupuesto, integrándose este último, una vez tramitado y aprobado por los órganos competentes, en el presupuesto de la Generalitat Valenciana, como sección independiente.
+Dos. La regulación de cuanto afecte a su gobierno y organización, de acuerdo con los créditos presupuestarios autorizados por las Corts Valencianes para estos fines.
+Tres. La regulación del régimen interno del personal a su servicio, sin perjuicio de las normas generales que sean de aplicación.
+Se modifica por el art. 1.3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 4
+
+Artículo 4. Relaciones de la sindicatura con terceros.
+Uno. La Sindicatura de Comptes puede solicitar a cualquier persona física o jurídica que haya recibido fondos públicos del sector público recogidos en esta ley la información referida exclusivamente al destino de estos caudales públicos, a efectos de comprobar y emitir opinión sobre el cumplimiento de los criterios de concesión.
+Dos. La Sindicatura de Comptes, para cumplir las tareas que tiene encomendadas y en el ámbito que le es propio, puede solicitar colaboración, asistencia e intercambio de información de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana. Los términos de esta colaboración deben establecerse mediante planes y programas conjuntos, convenios y protocolos de colaboración funcional, en el marco de la normativa aplicable.
+Tres. El órgano que recibe una petición de colaboración de la Sindicatura de Comptes está obligado a justificar su recepción y a atenderla en el plazo señalado, salvo que haya imposibilidad de hacerlo. En este último caso, debe razonarlo debidamente cuando justifica la recepción de la petición y debe indicar el plazo que necesita para poder atenderla.
+Se modifica por el art. 2 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+## CAPÍTULO II
+
+Funciones
+
+### Artículo 5
+
+Artículo 5. Relaciones con el Tribunal de Cuentas del Estado.
+Uno. Sin perjuicio de sus propias competencias, las actuaciones resultantes del ejercicio de las funciones fiscalizadoras de la Sindicatura de Comptes deberán ser remitidas por esta al Tribunal de Cuentas.
+Dos. Cuando tales actuaciones estén referidas a las entidades locales o a cualquiera de las instituciones de ellas dependientes, referidas en el apartado uno, letra d, del artículo 2 de esta ley, la Sindicatura de Comptes le remitirá copia de lo actuado, correspondiendo a los órganos competentes de aquéllas la adopción de las medidas pertinentes, de acuerdo con el contenido de los informes o memorias remitidos.
+Tres. Por delegación del Tribunal de Cuentas podrán ser instruidos, por la Sindicatura de Comptes, los procedimientos jurisdiccionales pertinentes para el enjuiciamiento de la responsabilidad contable en que pueden incurrir quienes tengan a su cargo la recaudación, la administración o el manejo o custodia de caudales o efectos públicos. En caso de delegación, actuará como delegado instructor un letrado de la Sindicatura de Comptes, que será designado por el Consejo.
+Se modifica y se renumera por el art. 3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 4.
+
+### Artículo 6
+
+Artículo 6. Funciones de la Sindicatura de Comptes.
+Son funciones de la Sindicatura de Comptes:
+Uno. Por delegación de Les Corts:
+a) La fiscalización o control externo de la gestión económico-financiera del sector público valenciano y de sus cuentas.
+b) Conocer las auditorías realizadas a las entidades fiscalizadas.
+En el ejercicio de sus funciones de fiscalización, la Sindicatura de Comptes podrá acceder a los papeles de trabajo y a los documentos de soporte que hayan servido de base a cualquier informe de auditoría del sector público valenciano, realizado por auditores privados.
+c) Cuantas funciones, de acuerdo con el ordenamiento jurídico, sean convenientes para asegurar adecuadamente el cumplimiento de los principios financieros, de legalidad, de eficacia, de economía y de transparencia, exigibles al sector público, así como la sostenibilidad ambiental y la igualdad de género.
+Dos. El asesoramiento a Les Corts en las materias propias de su competencia, que podrá hacerse extensivo a sus cuentas anuales, de acuerdo con la normativa propia de la institución parlamentaria.
+Se modifica y se renumera por el art. 4 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 5.
+
+### Artículo 7
+
+Artículo 7. Función fiscalizadora.
+El ejercicio de la función fiscalizadora la realizará la Sindicatura de Comptes por los siguientes medios:
+a) Fiscalización de las cuentas generales anuales de la Generalitat y de las entidades que integran el sector público valenciano, a los efectos de esta ley.
+En el caso de que se incumplan los plazos establecidos en los apartados dos del artículo 9 y uno del artículo 10 para presentar las cuentas en esta sindicatura, se estará a lo dispuesto en el apartado dos del artículo 11 de esta ley, en relación con quienes estén obligados legal o estatutariamente a rendir cuentas.
+b) Emisión de informes, memorias, dictámenes y cualesquiera otros documentos que se consideren convenientes para el cumplimiento de la función.
+c) Para el desarrollo de sus funciones, la Sindicatura de Comptes podrá utilizar todos los medios adecuados para la consecución de sus objetivos, incluidos los de carácter informático y la contratación de expertos. El Consejo también podrá contratar con empresas consultoras o de auditoría para el cumplimiento de su programa anual de actuación.
+Se modifica por el art. 5 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Se modifica la letra a) por el art. 46 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+ Se añade la letra c) por el art. 2 de la Ley 3/1996, de 30 de diciembre. Ref. BOE-A-1997-2525
+
+### Artículo 8
+
+Artículo 8. Sometimiento al principio de legalidad, valores y principios éticos y jurídicos.
+Uno. Tanto los miembros del Consejo como el personal de la sindicatura desarrollarán sus funciones de acuerdo con la presente ley, el resto de la normativa aplicable y los valores y principios éticos de integridad, independencia y objetividad, competencia y diligencia profesional, y confidencialidad.
+El Consejo desarrollará estos principios y aprobará un código ético de la sindicatura basado en el código de ética de la Organización Internacional de Entidades Fiscalizadoras Superiores.
+Dos. Los informes de fiscalización, desde que se inicia su elaboración hasta el envío de la versión definitiva a Les Corts o, en su caso, al ente fiscalizado, tienen carácter reservado. Una vez se produzca dicho envío, serán publicados por la propia Sindicatura de Comptes en su sede electrónica.
+Tres. Los miembros del Consejo y el personal al servicio de la Sindicatura de Comptes deberán mantener y garantizar la confidencialidad de la información utilizada en el curso de sus actuaciones. Los datos relativos a los entes fiscalizados obtenidos en el ejercicio de sus funciones no podrán ser utilizados para fines ajenos a la fiscalización.
+Dicha información no deberá ser facilitada a terceros, ni utilizada en provecho propio ni de terceros y estará sometida a las leyes que regulan el derecho a la información y, salvo que una ley establezca expresamente lo contrario, no se facilitará acceso a terceros a los papeles de trabajo ni a la información que tenga carácter auxiliar o de apoyo, como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos entre órganos de la Sindicatura de Comptes o con otras entidades.
+Cuatro. Las normas de fiscalización que apruebe el Consejo para su incorporación al manual de fiscalización de la Sindicatura de Comptes se basarán en los principios fundamentales de fiscalización del sector público (ISSAI-ES) o en los principios y normas que puedan sustituirlos.
+Se modifica por el art. 6 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Redactado conforme a la corrección de errores publicado en el DOGV núm. 8189, de 13 de diciembre de 2017. Ref. BOE-A-2018-372
+ Se modifica el apartado 2 por el art. único de la Ley 10/1988, de 23 de diciembre. Ref. BOE-A-1989-2071
+
+### Artículo 9
+
+Artículo 9. Contenido del informe y reglas para tramitar la fiscalización de la Generalitat.
+Uno. Para la fiscalización de las cuentas generales de la Generalitat, estas deberán ser presentadas, por la conselleria competente en materia de hacienda, antes del 30 de junio del año siguiente al ejercicio económico al que correspondan, ante la Sindicatura de Comptes, que las examinará y fiscalizará.
+Previamente a la remisión a la que se refiere el párrafo anterior, el Consell en pleno aprobará las mismas.
+Dos. La fiscalización, así como la emisión y el envío a Les Corts del informe correspondiente, se han de realizar antes del 31 de diciembre del mismo año, con el fin de que éstas, a la vista del mismo, puedan pronunciarse sobre la cuenta general de la Generalitat, que previamente habrá aprobado el Consell en el plazo referido en el punto uno de este artículo.
+Tres. Los informes referentes a las cuentas generales habrán de pronunciarse, necesariamente, sobre los siguientes puntos:
+a) Determinar si la información financiera y presupuestaria se presenta adecuadamente, de acuerdo con los principios contables que le son de aplicación.
+b) Determinar si se ha cumplido con la legalidad vigente en la gestión de los fondos públicos.
+c) Evaluar si la gestión de los recursos humanos, materiales y de los fondos presupuestarios se ha desarrollado de forma económica y eficiente.
+d) Evaluar el grado de eficacia en el logro de los objetivos previstos.
+Los informes deberán contener, en su caso, un detalle sucinto de las infracciones, los abusos o presuntas irregularidades que se hayan observado. Se podrán establecer instrumentos de coordinación y colaboración con la Fiscalía del Tribunal de Cuentas, a fin de facilitar la realización por esta de las actuaciones que procedan en ejercicio de sus funciones.
+Cuatro. Les Corts podrán recabar de la Sindicatura de Comptes ampliaciones sobre aspectos concretos de la fiscalización realizada, así como formular resoluciones con objeto de hacer ejecutivo el informe.
+Cinco. Las resoluciones que adopten Les Corts habrán de ser públicadas en el Diari Oficial de la Generalitat Valenciana.
+Se modifica y se renumera por el art. 7 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 8.
+ Se modifica el apartado 1 por el art. 47 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 10
+
+Artículo 10. La fiscalización de las cuentas de las entidades locales.
+Uno. A los efectos de lo previsto en los artículos 1 y 2 de esta ley, las entidades locales habrán de presentar sus cuentas generales a la Sindicatura de Comptes, dentro del plazo general establecido en la legislación básica estatal reguladora de las haciendas locales.
+Dos. Las entidades incluidas en el artículo 2 de esta ley, que no integren sus cuentas en las cuentas generales de la Generalitat ni en las de alguna entidad local, habrán de presentar sus cuentas a la Sindicatura de Comptes, antes del 30 de junio del año siguiente al del ejercicio económico al que correspondan, salvo que una norma legal establezca otro plazo.
+Tres. Los informes de fiscalización que emita la Sindicatura de Comptes serán remitidos a las respectivas entidades. Los plazos para la realización de las fiscalizaciones y la emisión de los informes serán fijados discrecionalmente por la Sindicatura de Comptes, excepto disposición legal en contrario.
+Cuatro. Los informes emitidos habrán de pronunciarse, necesariamente, sobre los mismos puntos que se expresan en el apartado tres del artículo anterior.
+Se modifica y se renumera por el art. 8 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 9.
+
+### Artículo 11
+
+Artículo 11. Medios de información para el ejercicio de la función fiscalizadora y consecuencias derivadas de la obstrucción al ejercicio de la actividad fiscalizadora.
+Uno. En el desarrollo de su función fiscalizadora, la Sindicatura de Comptes está facultada para:
+a) Acceder a todos los expedientes y documentos de cualquier clase relativos a la gestión del sector público valenciano, incluyendo las bases de datos electrónicas en las que se archiven, así como para pedir, a los que estén sometidos a su control, cuantos escritos, informes o aclaraciones orales considere necesarios.
+b) Decidir, en cada caso, la realización del control en la sede de los departamentos controlados o en la sede de la propia Sindicatura de Comptes.
+c) Efectuar las comprobaciones que considere oportunas en relación con los activos, pasivos, transacciones, procesos, control interno, etcétera.
+d) Verificar la seguridad y fiabilidad de los sistemas informáticos que soportan la información económico-financiera, contable y de gestión.
+e) Requerir a toda persona natural o jurídica, pública o privada, que haya mantenido relaciones de tipo económico con las administraciones públicas, las entidades pertenecientes al sector público, los perceptores de subvenciones públicas o cualquier persona o entidad prevista en el artículo 2 de esta ley, para que cumpla con la obligación de proporcionar toda clase de documentos, datos, informes o antecedentes, deducidos directamente de dichas relaciones, siempre que sean de trascendencia para el ejercicio de la función fiscalizadora, quedando en todo caso los miembros del Consejo de la sindicatura y el personal de esta que conozca o acceda a estos datos, sujetos al deber de secreto.
+f) Recabar todos los informes o reparos de la intervención general o intervención delegada correspondientes al periodo de fiscalización en curso.
+Dos. La no remisión de la información solicitada, o el incumplimiento de los plazos fijados por la Sindicatura de Comptes, podrá dar lugar a la adopción, por parte de esta, de las siguientes medidas:
+a) Comunicación al Consell o, en su caso, a la entidad local interesada, del incumplimiento, con requerimiento conminatorio, por escrito, a los obligados a colaborar.
+b) Concesión de un nuevo plazo perentorio. En dicho requerimiento se indicará el plazo para cumplir y la cuantía de la multa que, en caso de incumplimiento, se estimase procedente.
+c) Comunicación simultánea del incumplimiento.
+Si no fuese satisfecho el requerimiento en el plazo perentorio concedido, el Consejo de la Sindicatura de Comptes podrá imponer una multa coercitiva al personal o autoridades responsables de atender aquella obligación en las entidades a las que se refiere el apartado uno del artículo 2, así como a los particulares o representantes legales de las personas jurídicas objeto del requerimiento.
+Las cuantías de las multas serán de un mínimo de 600 euros por la primera vez y de un máximo de 6.000 euros en caso de reincidencia. En todo caso, se tendrán en cuenta la intencionalidad, los medios materiales y personales disponibles y el resto de criterios de graduación que a tal efecto puedan determinarse en el reglamento de funcionamiento interno de la Sindicatura de Comptes. Dichas cuantías serán actualizadas para cada ejercicio en las correspondientes leyes de presupuestos generales de la Generalitat Valenciana.
+Tres. Sin perjuicio de cuanto antecede, siempre que en el ejercicio de sus funciones la Sindicatura de Comptes encontrase cualquier clase de obstrucción que dificulte o impida su desarrollo, lo pondrá en conocimiento de Les Corts; asimismo, pondrá en conocimiento de estas cuantos conflictos pudiesen plantearse en relación con el desenvolvimiento de sus facultades y atribuciones.
+Se modifica y se renumera por el art. 9 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 10.
+
+### Artículo 12
+
+Artículo 12. Colaboración de la sindicatura con los órganos y entidades controladas.
+Uno. En el ejercicio de su función fiscalizadora la Sindicatura de Comptes propondrá las medidas que considere deben de adoptarse para la mejor gestión económico-administrativa del sector público valenciano, así como aquellas más idóneas para lograr un más eficaz control del mismo.
+Dos. La Sindicatura de Comptes comunicará, a los organismos controlados y al representante legal del órgano, entidad o empresa requerida, el resultado del mismo, estando estos obligados dentro de los plazos concedidos a responder, poniendo en conocimiento de la Sindicatura de Comptes las medidas adoptadas.
+Tres. La Sindicatura de Comptes informará a Les Corts del grado de cumplimiento de sus obligaciones de control y de las recomendaciones efectuadas a los organismos y entes controlados, de acuerdo con el programa anual de actuación.
+Se modifica y se renumera por el art. 10 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 11.
+
+### Artículo 13
+
+Artículo 13. Relación de la sindicatura con Les Corts.
+Uno. La Sindicatura de Comptes ha de elaborar y remitir a Les Corts una memoria anual de sus actuaciones, la cual, en base al ejercicio de su función fiscalizadora, podrá incorporar sugerencias en orden a la mejora de la gestión del sector público valenciano, así como para lograr una mayor eficacia, transparencia y control del mismo, en cuanto puedan servir a la acción legislativa de Les Corts.
+Dos. A los efectos del ejercicio de las funciones parlamentarias, los diputados y diputadas tendrán la facultad de recabar los informes previos que sirvan de antecedente y fundamento de los informes, memorias y dictámenes emitidos en ejercicio de las funciones de la sindicatura, en los términos del Reglamento de Les Corts.
+Se modifica y se renumera por el art. 10 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 12. Redactado conforme a la corrección de errores publicado en el DOGV núm. 8189, de 13 de diciembre de 2017. Ref. BOE-A-2018-372
+
+### Artículo 14
+
+Artículo 14. Función de asesoramiento a Les Corts.
+La función de asesoramiento a Les Corts se ejercerá a requerimiento de estas, pudiendo la Sindicatura de Comptes solicitar, de cualquier órgano del sector público, cuantos antecedentes repute adecuados para el mejor cumplimiento de su cometido.
+Se modifica y se renumera por el art. 12.1 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 13.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 5 por Auto del TC de 23 de enero de 1986. Ref. BOE-A-1986-3130
+ Téngase en cuenta que se declara el desistimiento en el recurso de inconstitucionalidad núm. 794/1985, por Auto del TC de 21 de marzo de 1991. Ref. BOE-A-1986-3130
+ Se suspende la vigencia y aplicación del apartado 5 desde el 20 de agosto de 1985 para las partes en el proceso y desde el 14 de septiembre de 1985, por providencia del TC de 28 de agosto de 1985 por la que se admite a trámite el recurso de inconstitucionalidad núm. 794/1985. BOE-A-1985-19455
+
+## TÍTULO II
+
+De los órganos de la Sindicatura
+
+## CAPÍTULO I
+
+Órganos
+
+### Artículo 15
+
+Artículo 15. La iniciativa de oficio.
+Uno. La iniciativa fiscalizadora, en el ámbito de sus competencias, corresponde a la Sindicatura de Comptes actuando como comisionada de Les Corts.
+Dos. La emisión de informes, memorias o dictámenes podrá realizarse, asimismo, a requerimiento de Les Corts, del Consell, a instancia de las entidades locales, o en cumplimiento del programa anual de actuación aprobado por la propia sindicatura.
+Tres. La solicitud de información por parte de Les Corts corresponde al pleno de las mismas.
+También están facultadas para solicitar informes, memorias o dictámenes las comisiones de investigación de Les Corts, siempre que el acuerdo de petición se apruebe por mayoría simple de sus miembros que, a su vez, representen, al menos, la tercera parte de los miembros de la respectiva comisión.
+Cuatro. Las peticiones por parte del Consell tendrán carácter excepcional y la emisión de la información solicitada estará supeditada a la previa aprobación de la Mesa de Les Corts, oída la Junta de Síndics.
+Cinco. Las peticiones por parte de las entidades locales tendrán carácter excepcional y estarán condicionadas a la previa aprobación de la solicitud de información por el pleno de la entidad respectiva.
+Seis. La Sindicatura de Comptes debe realizar su actividad de control de acuerdo con un programa anual de actuación, confeccionado por ella misma y con cuya ejecución pueda formarse juicio suficiente sobre la calidad y regularidad de la gestión económico-financiera del sector público valenciano. Esta actividad no podrá verse afectada por el derecho de petición que corresponde a Les Corts, al Consell y a las entidades locales.
+Se modifica y se renumera por el art. 12.2 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 14.
+
+## CAPÍTULO II
+
+Competencias y funciones de los órganos
+
+### Artículo 16
+
+Artículo 16. Tramitación de la fiscalización.
+Concluida la fiscalización, con el alcance y contenido establecidos en esta ley, se actuará del siguiente modo:
+Uno. El auditor o auditora jefe del equipo redactará un proyecto de informe o memoria que presentará al síndico o síndica responsable de la fiscalización.
+Dos. El síndico o síndica responsable, en base al proyecto redactado por el auditor, elaborará un borrador de informe o memoria.
+Este borrador, del que tendrá conocimiento el Consejo de la Sindicatura, será remitido por el síndico o síndica al ente fiscalizado para que presente, si procede, las alegaciones que considere pertinentes en el plazo que se señale al efecto.
+Tres. Recibidas las alegaciones o transcurrido el plazo sin que se formulen, el síndico o síndica elaborará el informe o memoria, el cual, junto con el proyecto, borrador y alegaciones, elevará al síndico o síndica mayor.
+Cuatro. La documentación citada estará a disposición de todos los miembros del Consejo, que podrán solicitar las aclaraciones que estimen necesarias.
+Cinco. Corresponde al Consejo la aprobación de los informes, memorias y demás documentos en que se materialice el resultado de la función fiscalizadora.
+Se modifica por el art. 12.3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Se modifica la letra h) por el art. 48 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 17
+
+Artículo 17. Órganos de la sindicatura.
+Son órganos de la Sindicatura de Comptes:
+a) El síndico o síndica mayor.
+b) El Consejo.
+c) Los síndicos o síndicas.
+d) La Secretaría General.
+e) Los auditores o auditoras.
+Se modifica y se renumera por el art. 13 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 15.
+
+### Artículo 18
+
+Artículo 18. Funciones del síndico o síndica mayor.
+Corresponden al síndico o síndica mayor las siguientes funciones:
+a) Representar a la Sindicatura de Comptes ante cualquier instancia.
+b) Convocar y presidir el Consejo de la Sindicatura de acuerdo con el ordenamiento jurídico, decidiendo con voto de calidad los empates que puedan producirse en sus resoluciones.
+c) Fijar el orden del día de las sesiones del Consejo.
+d) Asignar de manera equitativa a los síndicos o síndicas las tareas a desarrollar en su ámbito de competencia, así como al resto de los órganos, de acuerdo con los programas de actuación aprobados anualmente.
+e) La asignación al síndico o síndica de las actuaciones relativas a las peticiones efectuadas conforme al artículo 15 de esta ley.
+f) Ostentar la superior jefatura de todo el personal al servicio de la sindicatura, exigiendo el exacto y diligente cumplimiento de los servicios.
+g) Ejercer la superior inspección de los servicios propios de la Sindicatura de Comptes y asegurar la coordinación, eficacia y buen funcionamiento de los mismos, adoptando las medidas que en cada caso considere necesarias y designando los funcionarios precisos dentro de las previsiones de la relación de puestos de trabajo.
+h) La corrección de los funcionarios propios a los que corresponda sancionar como consecuencia de la incoación y tramitación de expedientes disciplinarios, salvo que conlleven la separación o destitución del servicio.
+i) Ordenar el gasto y reconocer las obligaciones de acuerdo con el presupuesto aprobado y ordenar los pagos correspondientes, así como autorizar los documentos que formalicen los ingresos.
+j) Autorizar la contratación de bienes, servicios, suministros y otras prestaciones necesarias para el funcionamiento de la sindicatura, siempre que el valor estimado sea inferior al importe establecido en la legislación de contratos, para los contratos menores.
+k) Velar por la correcta ejecución de los acuerdos del Consejo.
+l) Autorizar con su firma cuantos informes, memorias, dictámenes o cualesquiera otros documentos sean remitidos tanto a Les Corts, como al Consell, a las entidades locales o a cualquier otra entidad fiscalizada, así lo sean en cumplimiento del ordenamiento jurídico o por propia iniciativa.
+m) Informar oralmente a Les Corts, en aclaración o ampliación, sobre la documentación remitida a las mismas, bien por propia iniciativa o a requerimiento de aquellas.
+n) Comunicar al presidente de Les Corts la vacante de algún síndico o síndica y, con dos meses de antelación, la finalización del período para el que fueron nombrados los síndicos o síndicas.
+o) Las propias del Consejo, en caso de urgencia que no admita la convocatoria del mismo, al que se dará cuenta de lo resuelto para su ratificación, si así procede.
+p) Decidir los asuntos no atribuidos expresamente a la competencia de otros órganos de la Sindicatura de Comptes.
+Se modifica y se renumera por el art. 14 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 16.
+
+### Artículo 19
+
+Artículo 19. Funciones del Consejo.
+Corresponden al Consejo, como órgano supremo de la Sindicatura de Comptes, las siguientes funciones:
+a) Aprobar cuantas disposiciones reglamentarias sean necesarias para cumplir los fines que, a la Sindicatura de Comptes, encomiende esta ley.
+b) Aprobar el proyecto de presupuesto de la propia Sindicatura de Comptes, junto con sus bases de ejecución adaptadas a las características de la misma y la plantilla presupuestaria, así como las modificaciones de créditos que sean necesarias, en ejercicio de la autonomía presupuestaria reconocida en esta ley.
+c) La oferta de empleo público, la relación de puestos de trabajo y la selección del personal al servicio de la Sindicatura de Comptes, mediante pruebas o sistemas de selección o de provisión previamente aprobados, en ejercicio de la autonomía de personal reconocida en esta ley.
+d) Determinar la estructura y la cuantía de las retribuciones, de acuerdo con el régimen previsto en el Reglamento de la Sindicatura de Comptes y otras normas que sean de aplicación.
+e) Resolver los expedientes de compatibilidad del personal, previo informe de la Secretaría General.
+f) Ejercer las competencias en materia de contratación de bienes, obras, servicios y suministros necesarios para el normal funcionamiento y desarrollo de las funciones propias de la sindicatura, que excedan a las facultades concedidas en esta materia al síndico o síndica mayor.
+g) Autorizar convenios o acuerdos de colaboración con el Tribunal de Cuentas, con otros órganos de control externo o con cualquier otro tipo de entidad o institución.
+h) Aprobar el programa anual de actuación, donde se contendrán las previsiones de las actuaciones fiscalizadoras y los criterios que han de observar los síndicos o síndicas y restante personal a su servicio en el desarrollo de sus funciones, que se integrarán en el manual de fiscalización publicado en la sede electrónica.
+i) Emitir un informe anual sobre la gestión económica del sector público valenciano y sus cuentas y, en su caso, de las propias Corts Valencianes.
+j) Aprobar los informes, memorias, dictámenes y otros documentos elaborados por los restantes órganos de la Sindicatura de Comptes.
+k) Informar a Les Corts y, si procede, a los tribunales de justicia o a los órganos del ministerio fiscal sobre la falta de colaboración reiterada o sobre la obstrucción del acceso a datos que impidan o dificulten el ejercicio de las funciones propias.
+l) Asesorar al síndico o síndica mayor en los asuntos que sean de su exclusiva competencia.
+m) Nombrar y cesar al secretario general.
+n) La destitución o separación del servicio del personal funcionario propio como consecuencia de la incoación de expedientes disciplinarios.
+o) Aprobar las cuentas anuales y la memoria anual de las actuaciones de la Sindicatura de Comptes.
+p) Aprobar el acta de sus sesiones.
+q) Cuantas le encomiende esta ley.
+Se modifica y se renumera por el art. 15 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 17.
+
+### Artículo 20
+
+Artículo 20. Composición del Consejo y régimen jurídico de funcionamiento.
+Uno. El Consejo, como órgano colegiado de la Sindicatura de Comptes, estará integrado por el síndico o síndica mayor, los síndicos o síndicas y el secretario general. El Consejo será presidido, en todo caso, por el síndico o síndica mayor o quien legalmente le sustituya.
+Dos. La válida constitución del Consejo requerirá la asistencia de un mínimo de dos síndicos o síndicas, incluido el síndico o síndica mayor, del secretario o secretaria general o de quienes legalmente sustituyan a estos dos últimos.
+Tres. Sus acuerdos serán adoptados por mayoría de votos de los miembros asistentes, decidiéndose los empates con el voto de calidad del síndico o síndica mayor cuando, repetida la votación, se produjera empate. El secretario o secretaria general actuará con voz deliberante, pero sin voto.
+Cuatro. Las reuniones se efectuarán con la periodicidad que se prevea en el programa anual de actuación con un mínimo de una reunión trimestral y, en todo caso, cuando lo considere necesario el síndico o síndica mayor o lo propongan dos de sus miembros.
+Cinco. En los informes, memorias, dictámenes y cualesquiera otros documentos consecuencia del ejercicio de la función fiscalizadora que deban ser aprobados por el Consejo podrán formularse votos particulares y se incorporarán a los mismos.
+La intención de formular un voto particular se tendrá que expresar cuando se adopte el acuerdo y se hará constar en el acta de la sesión. Se formalizará en el término de cinco días hábiles y se presentará por escrito en la Secretaría General.
+Se modifica y se renumera por el art. 16 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 18.
+
+### Artículo 21
+
+Artículo 21. Funciones de los síndicos o síndicas.
+Uno. Corresponden a los síndicos o síndicas, como órganos de investigación y control, las siguientes funciones:
+a) Dirigir el control externo de la gestión económica del sector público valenciano y de sus cuentas.
+b) Elevar al síndico o síndica mayor los resultados de la ejecución de las funciones propias de su cargo, así como cuantas propuestas y sugerencias consideren idóneas para un mejor desenvolvimiento de las tareas encomendadas.
+c) Realizar los requerimientos conminatorios a los que se refiere el apartado dos, letra a, del artículo 11.
+d) Cuantas les fuesen encomendadas por el síndico o síndica mayor o los órganos colegiados de la sindicatura.
+Dos. Como jefes inmediatos de los distintos equipos de auditoría, corresponden a los síndicos o síndicas las siguientes funciones:
+a) Organizar y dirigir las funciones propias de cada equipo.
+b) Vigilar el cumplimiento del programa de actuación anual, en cuanto haga referencia a sus respectivos equipos.
+c) Autorizar con su firma cuantos informes, memorias, dictámenes o cualesquiera otros documentos corresponda despachar al Consejo.
+d) El ejercicio de las facultades que se determinen en el apartado uno del artículo 11 del presente texto legal conducentes a la verificación de la gestión económica del sector público valenciano y de sus cuentas, sin perjuicio de la delegación de funciones concretas en el auditor responsable, de acuerdo a principios de especialización y división del trabajo.
+e) Ejercer las demás atribuciones que les señalen las disposiciones de carácter general y los acuerdos de los órganos con poder decisorio de la propia sindicatura.
+Se modifica y se renumera por el art. 17 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 19.
+
+## CAPÍTULO III
+
+De los Síndicos
+
+### Artículo 22
+
+Artículo 22. Los auditores.
+Bajo la superior autoridad de los síndicos o síndicas, con arreglo a principios de especialización y división de trabajo, corresponde a los auditores la dirección y ejercicio de las facultades que se determinan en el apartado uno del artículo 11 del presente texto legal, conducentes a la fiscalización de la gestión económica del sector público valenciano y de sus cuentas.
+Se modifica y se renumera por el art. 18 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 20.
+
+### Artículo 23
+
+Artículo 23. La Secretaría General.
+Uno. La persona titular de la Secretaría General de la Sindicatura de Comptes deberá estar en posesión del título de licenciatura o grado en derecho y ostentar la condición de funcionario de carrera de cualquier administración pública para cuyo acceso se requiera titulación superior con una experiencia mínima de cinco años.
+Dos. El secretario general de la Sindicatura de Comptes estará sujeto a las mismas causas de inelegibilidad e incompatibilidad que se regulan para los síndicos o síndicas.
+Tres. Será nombrado y separado por el pleno del Consejo de la Sindicatura de Comptes, dando cuenta de ello a la Mesa de Les Corts.
+Cuatro. Son funciones propias de la Secretaría General la organización y dirección de los servicios generales, así como el asesoramiento general en materias de contenido jurídico o técnico que se considere oportuno para el mejor cumplimiento de las competencias propias de la Sindicatura de Comptes.
+Cinco. Son funciones específicas del secretario o secretaria general las siguientes:
+a) Prestar asesoramiento jurídico al Consejo, así como la redacción de sus acuerdos y actas.
+b) Ejercer directamente, por delegación del síndico o síndica mayor, la jefatura superior de todo el personal de la Sindicatura de Comptes.
+c) La dirección del archivo de documentos.
+d) Expedir las certificaciones de actos, acuerdos y documentos por él custodiados, con el visto bueno del síndico o síndica mayor.
+e) Actuar como instructor en los expedientes que se sigan con relación al personal de la sindicatura y elevar al síndico o síndica mayor o al Consejo la correspondiente propuesta.
+f) La contabilidad y la gestión económica y presupuestaria de la sindicatura, la elaboración del proyecto de presupuesto y la formulación de las cuentas anuales.
+g) Todas aquellas que le correspondan en virtud de la presente ley y las que le puedan asignar el Consejo y el síndico o síndica mayor.
+Seis. En caso de vacante, licencia o enfermedad del titular de la Secretaría General, desempeñará accidentalmente sus funciones el letrado de mayor antigüedad.
+Se modifica y se renumera por los arts. 19 y 20 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 21 y 25. Redactado conforme a la corrección de errores publicado en el DOGV núm. 8189, de 13 de diciembre de 2017. Ref. BOE-A-2018-372
+ Se modifica el apartado 3 por el art. 49 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+
+### Artículo 23 bis
+
+Artículo 23 bis.
+La elección de los síndicos o las síndicas establecida en el artículo anterior se realizará teniendo en cuenta el principio de igualdad entre mujeres y hombres en función de su mérito y su capacidad.
+A los efectos de esta ley, se considera que existe igualdad entre mujeres y hombres cuando haya una presencia mínima del 33 % de mujeres.
+Se añade por el art. 2 de la Ley 12/2017, de 2 de noviembre. Ref. BOE-A-2017-15369
+
+## CAPÍTULO IV
+
+Del personal
+
+### Artículo 24
+
+Artículo 24. Elección del síndico o síndica mayor.
+Uno. De entre los síndicos o síndicas electos, Les Corts elegirán un síndico o síndica mayor para un período de seis años, no renovable. La elección se efectuará, en votación secreta, el mismo día de la toma de posesión de los síndicos o síndicas y, si no fuera posible, el siguiente día hábil. Saldrá elegido, en primera votación, el que obtenga la mayoría absoluta y, en su defecto, en segunda votación, el que obtenga mayor número de votos. En caso de empate, se efectuará una última votación y, si éste se repitiese, recaerá la elección en el síndico o síndica de sexo opuesto al del síndico o síndica mayor saliente. Si esto último no fuera posible, recaerá la elección en el síndico o síndica de más edad.
+Dos. Finalizado el período de seis años por el que es elegido o en el caso de que se produjese, con arreglo a esta ley, la vacante del cargo, Les Corts procederán a la elección del síndico o síndica mayor, con arreglo a lo dispuesto en el apartado anterior, por otro período igual o por el que, en su caso, faltase para completar el período de seis años o para la total renovación de los síndicos o síndicas. El síndico o síndica mayor se mantendrá en el ejercicio de sus funciones hasta que se produzca la elección de los nuevos síndicos o síndicas.
+Tres. La toma de posesión del síndico o síndica mayor tendrá lugar ante el propio Consejo de la sindicatura, dentro de los diez días hábiles siguientes a la publicación en el Diari Oficial de la Generalitat Valenciana de su elección.
+Cuatro. En caso de vacante, ausencia temporal, licencia o enfermedad del síndico o síndica mayor, desempeñará temporalmente sus funciones el síndico o síndica de mayor antigüedad y, en su defecto, el de más edad.
+Téngase en cuenta en relación con la duración del mandato del síndico o síndica mayor, la excepcionalidad contemplada en la disposición transitoria única de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+Se modifica y se renumera por el art. 21 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 22.
+
+### Artículo 25
+
+Artículo 25. Elección de los síndicos o síndicas.
+Uno. Los síndicos o síndicas, en número de tres, serán elegidos por Les Corts para un período de seis años, renovable una sola vez, mediante votación mayoritaria de las tres quintas partes de sus miembros, teniendo en cuenta el principio de paridad de género, de manera que los miembros de un mismo sexo no podrán superar el número de dos.
+Para la elección de los síndicos o síndicas los grupos parlamentarios presentarán las candidaturas de las personas que consideren idóneas, con la firma de un mínimo de dos grupos parlamentarios.
+Los síndicos o síndicas elegidos tomarán posesión ante el presidente de Les Corts, una vez publicada su elección en el Diari Oficial de la Generalitat Valenciana.
+Dos. Sólo podrán ser elegidos síndicos o síndicas aquellas personas de reconocida competencia profesional e integridad necesarias para el buen desempeño de las funciones propias de la Sindicatura de Comptes que estén en posesión de alguno de los títulos de licenciado o de grado en derecho, ciencias políticas, ciencias económicas o administración de empresas o pertenezcan a cuerpos o grupos funcionariales al servicio de cualesquiera administraciones públicas para cuyo ingreso se exija una titulación académica superior y cuenten con más de diez años de ejercicio profesional.
+Tres. No podrán ser elegidos síndicos o síndicas quienes en los cuatro años anteriores a la fecha de nombramiento hubieran estado comprendidos en alguno de los supuestos siguientes:
+a) Los miembros del gobierno o cargos electos en instituciones representativas.
+b) Las personas que hubieran desempeñado funciones de dirección o gestión de los ingresos o gastos en cualquiera de las entidades sujetas a la fiscalización de la sindicatura así como cargos electos.
+c) Los presidentes, directores y miembros de los consejos de administración u órganos colegiados de dirección de entidades pertenecientes al sector público valenciano.
+d) Los particulares que, excepcionalmente, administren, recauden o custodien fondos o valores públicos.
+e) Los que hubiesen sido beneficiarios de subvenciones, avales o exenciones fiscales de carácter directo y personal, con cargo al sector público valenciano, concedidas en base a criterios discrecionales o no basadas en procedimientos reglados y públicos.
+Cuatro. Los síndicos o síndicas gozan de independencia e inamovilidad y deben ejercer sus funciones con dedicación plena y absoluta. Su actividad no es compatible con el ejercicio de ningún otro puesto, cargo, representación, profesión o actividad mercantil, profesional o industrial de carácter público o privado, por cuenta propia o ajena, salvo en el caso de las excepciones establecidas por la presente ley, sin que pueda percibir, en ningún caso, más de una retribución de carácter fijo y periódico.
+Cinco. La condición de síndico o síndica es incompatible con cualquiera de las siguientes:
+a) La de miembro de cualquier cámara legislativa, de ámbito autonómico, estatal o europeo.
+b) La de miembro de cualquier otro órgano de control externo, de ámbito autonómico, estatal o europeo.
+c) La de síndico de greuges.
+d) La de defensor del pueblo.
+e) La de director de la Oficina de Prevención del Fraude y la Corrupción.
+f) La de cualquier cargo político o función administrativa de la Unión Europea, del Estado, de las comunidades europeas, de las entidades locales o de los correspondientes organismos autónomos, empresas públicas, empresas vinculadas y similares, sea cual sea su forma jurídica.
+g) El cumplimiento de funciones directivas o ejecutivas en los partidos políticos, en las centrales sindicales o en las asociaciones empresariales y colegios profesionales.
+h) La de miembro de cualquiera de los organismos asesores del gobierno.
+i) El ejercicio de cualquier otra actividad remunerada.
+Se modifica y se renumera por el art. 22 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Su anterior numeración era art. 23.
+
+### Artículo 26
+
+Artículo 26. Causas determinantes de las vacantes.
+Uno. Los síndicos o síndicas sólo perderán su cargo por muerte, incapacidad o expiración de su mandato, renuncia aceptada por Les Corts, incompatibilidad sobrevenida o incumplimiento de sus deberes, cuando así lo apreciasen Les Corts por la misma mayoría exigida para su designación.
+Dos. Cuando los síndicos o síndicas tengan que cesar por finalizar el período para el que fueron designados, continuarán ejerciendo sus funciones mientras no tomen posesión los nuevos síndicos elegidos por Les Corts.
+Tres. Cuando, por cualquier causa, quede vacante un cargo de síndico o síndica, Les Corts procederán a su elección por el tiempo que falte para cumplir el período de seis años para el que fue elegido el anterior que produjo la vacante y con idénticos requisitos.
+Cuatro. No obstante, cuando falte menos de un año para finalizar el período de seis antes citado, podrá no llevarse a cabo la nueva elección, salvo que exista más de una vacante.
+Cinco. Si quedasen vacantes los tres cargos de síndico o síndica al mismo tiempo, la nueva elección será por el período de seis años.
+Se modifica por el art. 23 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 27
+
+Artículo 27. Responsabilidad de los síndicos o síndicas.
+Uno. Los síndicos o síndicas incurren en responsabilidad por incumplimiento de las obligaciones que expresamente les impone la ley y, en particular, en los casos siguientes:
+a) Cuando de forma reiterada y sin justificación dejen de asistir a las reuniones del Consejo debidamente convocadas.
+b) Cuando quebranten el deber de confidencialidad.
+c) Cuando vulneren las incompatibilidades establecidas en esta ley.
+d) Cuando no pongan de manifiesto al síndico o síndica mayor las irregularidades cometidas por el personal adscrito a los trabajos que dirijan, si de ellas tienen conocimiento.
+e) Cuando no se abstengan en los casos que, legalmente, así proceda.
+Dos. Los expedientes disciplinarios se instruirán por iniciativa del Consejo, aplicando las normas legales básicas en materia de procedimiento sancionador y serán instruidos por el síndico o síndica mayor, cuando se trate de un síndico o síndica, y por el síndico o síndica de mayor antigüedad o, en su defecto, el de más edad, cuando se trate del síndico o síndica major.
+Una vez terminado un expediente disciplinario, se elevará con sus conclusiones y propuestas al Consejo para su examen y aprobación, en su caso.
+El Consejo, examinado el expediente, adoptará el acuerdo que estime oportuno.
+Tres. Si el acuerdo del Consejo supusiera la separación del cargo, elevará la propuesta a Les Corts de forma inmediata, pues son éstas las competentes para imponer dicha sanción.
+Cuando el síndico o síndica mayor o los síndicos o síndicas incurran en responsabilidad de conformidad con el expediente instruido al efecto, el Consejo de la sindicatura podrá imponer como sanción un apercibimiento escrito, para los casos que considere leves, o bien sanciones económicas, para los casos que considere graves, siempre mediante acuerdo motivado. La reincidencia o imposición de sanciones económicas se comunicará a la Mesa de Les Corts. La definición de faltas leves, graves o la reincidencia en las mismas quedará determinada por vía reglamentaria. La sanción económica podrá alcanzar, como máximo, el importe de las retribuciones complementarias de un mes del sancionado.
+La imposición de cualquier sanción por parte del Consejo podrá ser recurrida por el síndico o síndica sancionado ante la Mesa de Les Corts en el plazo de quince días hábiles desde la notificación. La Mesa resolverá, por acuerdo motivado, el recurso en el plazo de un mes contado desde la fecha de interposición.
+Se añade por el art. 24 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 28
+
+Artículo 28. Autonomía funcional e incompatibilidades de los síndicos o síndicas.
+Uno. Los síndicos o síndicas gozarán de independencia e inamovilidad, siendo incompatibles con el ejercicio de cualquier otra actividad, tanto pública como privada, que no sea la administración de su propio patrimonio, la creación de carácter literario, artístico, científico y técnico y las publicaciones derivadas de aquella, así como la participación ocasional en seminarios, cursos o conferencias.
+Asimismo, el cargo de síndico o síndica será incompatible con el desempeño de funciones directivas o ejecutivas en partidos políticos, centrales sindicales, asociaciones empresariales y colegios profesionales.
+Dos. Para los síndicos o síndicas regirán las causas de abstención y recusación siguientes:
+a) Tener interés personal en el asunto o en la empresa o ente interesado o mantener cuestión litigiosa pendiente o relación de servicio con algún interesado.
+b) Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento, así como compartir despacho profesional o estar asociado con éstos para el asesoramiento, la representación o el mandato.
+c) Tener amistad íntima o bien enemistad manifiesta con alguna de las personas mencionadas en la letra anterior.
+Tres. El síndico o síndica que se encuentre incurso en alguna de las causas de abstención previstas en el apartado anterior lo pondrá en conocimiento del síndico o síndica mayor; el que, tras las comprobaciones pertinentes, acordará, si encuentra justificada la causa, la designación de otro síndico o síndica para hacerse cargo del procedimiento en cuestión. La no abstención en los casos en que fuera procedente dará lugar a responsabilidad.
+Cuatro. Cuando algún miembro del Consejo, o persona interesada en el procedimiento, suscite la recusación de un síndico o síndica por la concurrencia en él de alguna de las causas previstas en el apartado dos y el síndico o síndica recusada admitiese la causa ante el síndico o síndica mayor, se procederá en la forma prevista en el apartado anterior. Si la recusación fuese negada por el síndico o síndica interesado, el síndico o síndica mayor, tras las comprobaciones pertinentes, informará al Consejo, quien acordará lo procedente en el plazo de diez días.
+Se añade por el art. 25 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 29
+
+Artículo 29. El cargo de auditor o auditora.
+Los auditores serán seleccionados e incorporados, de acuerdo con lo previsto en el artículo 19 punto c, de entre quienes estén en posesión de cualquiera de los títulos de licenciado en derecho, ciencias económicas o empresariales o profesor mercantil.
+Se añade por el art. 26.1 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 30
+
+Artículo 30. Los técnicos de auditoría.
+Bajo la dependencia directa de las personas designadas como auditores se integrarán los técnicos de auditoría, que serán incorporados a los distintos servicios, de entre quienes, estando en posesión de cualquier título de enseñanza superior o bien de los de grado, de ingeniero, arquitecto técnico o título declarado oficialmente equivalente a alguno de los anteriores, superen las pruebas selectivas convocadas de acuerdo con la normativa aplicable.
+Se añade por el art. 26.2 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Redactado conforme a la corrección de errores publicado en el DOGV núm. 8189, de 13 de diciembre de 2017. Ref. BOE-A-2018-372
+
+## TÍTULO III
+
+Del régimen económico y presupuestario y del personal
+Se añade por el art. 26.3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+## CAPÍTULO I
+
+Del régimen económico y presupuestario
+Se añade por el art. 26.3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 31
+
+Artículo 31. La gestión económica.
+Uno. La Sindicatura de Comptes ajustará su gestión económica a las bases de ejecución presupuestarias que apruebe el Consejo para cada ejercicio, que se publicarán en el Butlletí Oficial de les Corts, y a las normas que dicte dicho órgano en desarrollo de las mismas. Asimismo, incorporará los remanentes de presupuestos anteriores a los mismos capítulos presupuestarios del ejercicio corriente.
+Dos. Las dotaciones presupuestarias de la Sindicatura de Comptes se librarán por la conselleria competente en materia de hacienda por cuartas partes trimestralmente a nombre de la sindicatura.
+Tres. El examen de las cuentas de la sindicatura corresponde a Les Corts, a las que se remitirán antes del 30 de junio siguiente al cierre del ejercicio acompañando a la memoria anual.
+Se añade por el art. 26.3 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 32
+
+Artículo 32. Prerrogativas de la Sindicatura de Comptes.
+La Sindicatura de Comptes dispondrá de las prerrogativas establecidas legalmente para la Generalitat en el cobro de las cantidades que, como ingresos de derecho público, haya de percibir, incluidas las multas coercitivas del artículo 11.2.c de esta ley, y actuará de acuerdo con el procedimiento administrativo correspondiente. El síndico o síndica mayor expedirá la certificación de descubierto de la deuda, que constituirá título suficiente para iniciar, si procede, la vía ejecutiva.
+Se añade por el art. 26.4 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+## CAPÍTULO II
+
+Del personal
+Se añade por el art. 26.5 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Artículo 33
+
+Artículo 33. El personal de la Sindicatura de Comptes.
+Uno. El personal al servicio de la Sindicatura de Comptes está constituido por todas las personas vinculadas a la misma por una relación de servicios profesionales y retribuidos con cargo a las consignaciones de personal que figuran en su propio presupuesto.
+Dos. El personal al servicio de la Sindicatura se regirá por las disposiciones contenidas en la presente ley, así como por las que dicten Les Corts en relación al régimen jurídico de su personal, y se agrupará por grupos de plazas, teniendo en cuenta las funciones a cumplir y la titulación necesaria para ocuparlas.
+El Reglamento de régimen interior de la Sindicatura de Comptes, así como las normas que apruebe el Consejo en virtud de lo previsto en el apartado tres del artículo 3, desarrollarán y adaptarán a las características propias de la Sindicatura de Comptes el régimen previsto en el párrafo anterior.
+Tres. Los técnicos de auditoría actuarán bajo la dependencia directa de los auditores.
+Tanto los auditores como los técnicos de auditoría serán funcionarios del subgrupo de titulación A1.
+El personal de auditoría se integrará en los equipos de auditoría que se formen anualmente, para llevar a efecto el programa de actuación.
+Cuatro. El personal de auditoría, en el ejercicio de las funciones de fiscalización de la gestión económico-financiera del sector público valenciano, tendrá la condición de agente de la autoridad pública y tendrá la consideración y el respeto que le son debidos en el ejercicio de tales funciones.
+Se añade por el art. 26.5 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+
+### Disposición adicional única
+
+Disposición adicional única.
+En el plazo de seis meses desde la entrada en vigor de la presente ley, el Consejo de la Sindicatura de Comptes aprobará un reglamento de régimen interior adaptado a lo dispuesto en este texto normativo. Con la entrada en vigor de este reglamento, quedará derogado el que fue aprobado por un acuerdo de fecha 19 de septiembre de 1986 de la Comisión de Coordinación, Organización y Régimen de las Instituciones de la Generalitat de Les Corts.
+Se modifica por la disposición adicional 1 de la Ley 16/2017, de 10 de noviembre. Ref. BOE-A-2017-15373
+ Redactado conforme a la corrección de errores publicada en el DOGV núm. 8189, de 13 de diciembre de 2017. Ref. BOE-A-2018-372.
+ Se modifica por el art. 2.1 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203#a2
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Derogada).
+Se deroga por el art. 2.2 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada).
+Se deroga por el art. 2.2 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada).
+Se deroga por el art. 2.2 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+(Derogada).
+Se deroga por el art. 2.2 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor el mismo día de su publicación en el «Diario Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 11 de mayo de 1985.
+JOAN LERMA I BLASCO
+Presidente de la Generalidad,

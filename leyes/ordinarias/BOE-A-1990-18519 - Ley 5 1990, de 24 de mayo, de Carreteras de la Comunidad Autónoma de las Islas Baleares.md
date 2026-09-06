@@ -1,0 +1,692 @@
+# Ley 5/1990, de 24 de mayo, de Carreteras de la Comunidad Autónoma de las Islas Baleares.
+
+- Identificador BOE: `BOE-A-1990-18519`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-18519
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+El desarrollo del proceso de transferencias de competencias en materia de carreteras del Estado a las Comunidades Autónomas motivó la elaboración por el Gobierno de la nación y la posterior aprobación por las Cortes el día 29 de julio de 1988, de una nueva Ley de Carreteras, referida a las de interés general del Estado, que deroga la anterior del día 19 de diciembre de 1974, cuyo ámbito de aplicación se extendía a toda clase de carreteras y, por esto, a las dependientes de las. Comunidades Autónomas y a las de los Entes de Administración Local.
+El vacío producido por esta modificación legal justifica plenamente la redacción de la Ley de Carreteras propia de la Comunidad Autónoma de las Islas Baleares, que abarca las redes dependientes del Gobierno, de los Consejos Insulares y de los Ayuntamientos, teniendo en cuenta la competencia exclusiva de la Comunidad en materia contenida en el apartado 5 del artículo 10 del Estatuto de Autonomía.
+Hay que señalar como primera nota distintiva de la Ley que se ajusta tanto como ha sido posible a la estructura y al contenido de la Ley estatal. Así, la definición de las carreteras, el tipo, las características y los elementos básicos se corresponden prácticamente en su totalidad, y lo mismo pasa con los estudios de planeamiento y con el desarrollo de la temática general de las medidas de defensa de la carretera.
+Con ello se consigue conservar las denominaciones tradicionales, profundizar en las experiencias tenidas, mantener criterios que son conocidos y respetados por usuarios, proyectistas y constructores y hacer más fecunda la colaboración técnica entre las distintas Administraciones y Entidades españolas vinculadas al sector.
+En otro orden de cosas, la Ley aborda una clasificación de las carreteras de la Comunidad, que hace coincidir las condiciones de uso de cada una con la adscripción administrativa correspondiente. Así, las carreteras con tráfico de más importancia cuantitativa o cualitativa se integran en la red primaria, cuya titularidad corresponde al Gobierno; las que tienen como misión la distribución del tráfico en destinos detallados forman las redes secundarias, de titularidad de los Consejos Insulares, y, finalmente, las que dan apoyo a tráficos puramente locales forman parte de las redes locales y rurales, cuya titularidad ostenta el Ayuntamiento correspondiente.
+La Ley prevé la creación de un organismo autónomo que se ocupe de la administración y la gestión de carreteras de distinta titularidad que permita que, en el ámbito relativamente pequeño de nuestra Comunidad, se aprovechen al máximo los recursos, siempre insuficientes, con los cuales se tiene que hacer frente al alto coste de construcción y conservación de las carreteras, al mismo tiempo que puede conseguirse una coordinación perfecta en la planificación y explotación.
+No se excluye la participación en este Organismo de la Administración Central, en la línea de colaboración técnica y económica que se inició desde el traspaso de competencias a la Comunidad Autónoma, al no haber quedado ninguna carretera de interés general del Estado en el archipiélago balear.
+La Ley pone el acento en la obligatoriedad que las carreteras nuevas o las mejoras de las existentes que las modifiquen sustancialmente respondan a un planeamiento global previo, en concreto que se encuentren contenidas en el Plan Director Sectorial; también en este Plan se ha de acometer una reordenación de las carreteras a cada una de las redes, ya que la distribución hoy existente presenta disfunciones claras respecto al papel asignado a cada una.
+Queda patente en el texto la voluntad de contar con una información completa de las obras planeadas o proyectadas, tanto las diversas administraciones interesadas, como las personas que puedan verse afectadas. Lógicamente se prevén los mecanismos adecuados para que, en caso de discrepancias, sea el criterio más general el que pueda llevarse a cabo, de manera que la voluntad de unos pocos no impida el interés de la mayoría.
+La Ley regula las afecciones de las carreteras a las propiedades colindantes, con un doble criterio: Por una parte, se mantiene la sistemática de zonas, constituidas por franjas longitudinales de terrenos, generalmente paralelas a las carreteras, cuya función y dimensiones varíen según la categoría de la carretera y la situación en el planeamiento, esto en concordancia con lo que se exponía anteriormente como primera nota distintiva de la Ley; por otra, se ha tendido a simplificar estas zonas tanto como sea posible, de acuerdo con la experiencia de aplicación en las islas.
+Es importante también destacar que esta experiencia permite tratar diversos aspectos de las construcciones y actividades que se pueden permitir en el entorno de las carreteras; de manera específica acomodándolas a la problemática insular; así pasa con los cierres, los muros de sostenimiento de márgenes, explotaciones comerciales y turísticas, la construcción de nuevos accesos y la publicidad.
+En cuanto a la persecución de las infracciones, la Ley fija el procedimiento y detalla minuciosamente las faltas, así como su calificación y sanción, con lo cual se pretende una tramitación ágil y clara y una defensa contundente de la carretera y la seguridad del usuario.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Es objeto de esta Ley la regulación de la planificación y proyecto de las carreteras de las Islas Baleares, así como su financiación, construcción, conservación, explotación y uso.
+
+### Artículo 2
+
+Artículo 2.
+1. Se consideran carreteras las vías de dominio y uso público, proyectadas y construidas o adaptadas fundamentalmente para la circulación de vehículos automóviles.
+2. Por las características que presentan, las carreteras se clasifican en autopistas, autovías, vías rápidas y carreteras convencionales.
+3. Son autopistas las carreteras que han estado especialmente proyectadas, construidas y señalizadas como tales para la exclusiva circulación de automóviles y que reúnen las siguientes características:
+a) No tienen acceso a ellas las propiedades colindantes.
+b) No atraviesa a nivel ningún otro sendero, vía, línea de ferrocarril o tranvía, ni -están atravesadas a nivel por ningún sendero, vía de comunicación o servidumbre de paso.
+c) Consta de distintas calzadas para cada sentido de circulación, separadas entre sí, excepto en puntos singulares o con carácter temporal, por una franja o terreno no destinado a la circulación o, en casos excepcionales, por otros medios.
+4. Son autovías las carreteras que, no reuniendo todos los requisitos de las autopistas, tienen calzadas separadas en cada sentido de la circulación y limitación total de acceso a las propiedades colindantes.
+5. Son vías rápidas las carreteras de una sola calzada y con limitación total de acceso a las propiedades colindantes.
+6. Son carreteras convencionales las que no reúnen las características propias de las autopistas, autovías y vías rápidas.
+7. Son áreas de servicio las zonas colindantes con las carreteras, diseñadas expresamente para albergar instalaciones y servicios destinados a la cobertura de las necesidades de la circulación y que pueden incluir zonas de estacionamiento y descanso, estaciones de suministro de carburantes; bares, restaurantes, talleres de reparación y otros servicios análogos, destinados a facilitar la seguridad y comodidad de los usuarios de la carretera.
+
+### Artículo 3
+
+Artículo 3.
+No tienen la consideración de carreteras:
+a) Las calles, es decir, las vías que discurren íntegramente por suelo urbano y no forman parte de carreteras interurbanas.
+b) Los caminos de servicios, entendiendo como tales los construidos como elementos auxiliares o complementarios de las actividades específicas de sus titulares, sean públicas o privadas.
+
+### Artículo 4
+
+Artículo 4.
+Para la correcta interpretación de esta Ley, se definen los elementos siguientes, sin perjuicio de que reglamentariamente se completen y detallen éstos y otros.
+Acera es la zona longitudinal de la carretera, elevada o no, destinada al paso de los peatones.
+Apartadero es el ensanchamiento de la calzada, destinada a la detención de vehículos sin interceptar la circulación por la calzada.
+Arcén es la zona longitudinal de la carretera libre de obstáculos comprendida entre la arista exterior de la calzada y el borde correspondiente a la plataforma o la berma, si existe.
+Arista exterior de la calzada es el borde exterior de la parte de la carretera destinada a la circulación de vehículos en general. Cuando consta de diversas calzadas, la arista exterior es el borde derecho de la calzada externa.
+Arista exterior de la explanación es la intersección del talud de desmonte, del terraplén o, en su caso, de los muros de sostenimiento colindantes con el terreno natural.
+En los casos especiales de puentes, viaductos, túneles, estructuras u obras similares, se podrá fijar como arista exterior de la explanación la línea de proyección ortogonal del borde de las obras sobre el terreno. Cuando el terreno natural circundante está al mismo nivel que la carretera, la arista exterior de la explanación es el borde exterior de la cuneta.
+Berma es la zona longitudinal de la carretera comprendida entre la arista exterior de la calzada o del arcén, si existe, y el borde correspondiente a la plataforma, destinada a la instalación de elementos auxiliares de la carretera.
+Calzada es la zona de la carretera destinada normalmente a la circulación de vehículos. Está constituida por un cierto número de carriles entre los cuales se incluyen los de entrada y salida y los adicionales para la espera y/o almacenamiento, así como los destinados a determinados tipos de vehículos, como los lentos y de transporte público y también, eventualmente, de pistas para usuarios especiales como por ejemplo ciclistas.
+Vial de servicio es aquel vial con trazado sensiblemente paralelo a una carretera con respecto a la cual tiene carácter secundario con intersecciones con ésta solamente en algunos puntos y a la que tienen acceso las fincas colindantes.
+Carril es cualquiera de las bandas longitudinales en que se puede dividir la calzada; materializada o no, por marcas viales longitudinales, siempre que tenga anchura suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.
+Carril especial es aquel cuyas características de anchura, firme y señalización se acomoden a una clase especial de tráfico: Bicicletas, tráfico lento, etc.
+Carril de entrada es el carril auxiliar cuyo objeto es facilitar la entrada de los vehículos procedentes de otra calzada, por el cual se puede conseguir una velocidad similar a la de los que circulan por el carril al que pretenden incorporarse.
+Carril de salida es el carril auxiliar cuyo objeto.es facilitar la salida de los vehículos de una calzada de circulación rápida, en el que se puede reducir la velocidad cuando sea necesario sin perturbar la circulación de los otros vehículos que continúen en dicha calzada.
+Explanación es la zona de terreno ocupada realmente por la carretera, sus límites son las aristas exteriores de la explanación.
+Mediana es la zona longitudinal de la carretera de separación entre calzadas y no destinadas a la circulación.
+Plataforma es la zona de la, carretera destinada normalmente al uso de los vehículos, formada por la calzada y los arcenes. Cuando la carretera consta de diversas calzadas a cada una le corresponde una plataforma.
+Travesía es el tramo de carretera de cualquier clase y red que discurre por suelo urbano o urbanizable en ambos márgenes de la carretera o en un margen de esta.
+Variante es la obra de modernización de una carretera que afecta al trazado horizontal o vertical, pero permite dejar en servicio el tramo de la carretera antigua.
+Se modifica el penúltimo párrafo por el art. 60.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+
+### Artículo 5
+
+Artículo 5.
+1. Las carreteras de las Islas Baleares se integran en las redes siguientes:
+Red Primaria, constituida por las carreteras por, donde discurren tráficos de interés general de la Comunidad, por la importancia cuantitativa o cualitativa que tienen, por comunicar las principales localidades o comarcas, los puertos o aeropuertos y por servir de base a los principales ejes económicos, comerciales y turísticos, y que forman en cada isla una red conexa.
+Red Secundaria en la que se incluyen aquellas carreteras que, sin tener las características de la Red Primaria, sirven de comunicación intercomarcal en cada isla, o cumplen una función que supera el ámbito municipal distribuyendo el tráfico por todo el ámbito insular.
+Red Local y Rural, constituida por aquellas carreteras cuya función se limita a dar solución al transporte viario preferentemente en el ámbito propio del término municipal.
+2. La titularidad de las redes primaria y secundaria corresponde a los Consejos Insulares.
+La administración y gestión de estas redes corresponde al organismo que ostenta su titularidad. No obstante, la Comunidad Autónoma podrá, mediante Ley, crear un organismo autónomo destinado a este fin, al que se podrán adscribir, además de la red primaria las redes de titularidad secundaria, si así lo aprueba el Pleno de los Consejeros respectivos, así como participar otras Administraciones y Entidades interesadas.
+3. La titularidad, administración y gestión de las redes Ideales y rurales corresponde al Ayuntamiento respectivo, los Ayuntamientos podrán realizar convenios con la Comunidad Autónoma y con los Consejeros, Insulares para la administración y gestión de sus redes y con el organismo que en su caso se cree.
+4. Los Ayuntamientos colindantes, las Mancomunidades y las autoridades urbanísticas, promoverán los mecanismos de cooperación convenientes para asegurar una coordinación de las redes de carretera municipales respectivas.
+5. Se podrán subscribir convenios de colaboración entre las diferentes administraciones públicas para la redacción y ejecución de las obras que sean necesarias con independencia de la titularidad y gestión de las vías en las cuales se pretendan ejecutar las obras. Las mencionadas obras viarias tendrán que ser autorizadas por el órgano titular de la vía en caso de que sea otra administración la que las ejecute. Asimismo, se podrán subscribir convenios de colaboración con personas o entidades jurídico-privadas que se quieran hacer cargo de la ornamentación y mantenimiento de algunos puntos de la red viaria. Esta colaboración tendrá que ser siempre gratuita para la administración.
+Se añade el apartado 5 por el art. 60.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica el apartado 2 por la disposicón adicional 6.1 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+
+### Artículo 6
+
+Artículo 6.
+Las Administraciones bajo la coordinación del Gobierno de la Comunidad Autónoma mantendrán un inventario detallado de su respectiva red de carreteras, con detalle de sus condiciones. El Gobierno promoverá la publicación, periódicamente actualizada, de un Mapa Oficial de Carreteras de la Comunidad Autónoma de las Islas Baleares, donde se detallen las redes existentes.
+
+## CAPÍTULO II
+
+Planificación y proyecto
+
+### Artículo 7
+
+Artículo 7.
+1. El Plan Sectorial de Carreteras definirá las redes primaria y secundaria, las previsiones de construcción de nuevas carreteras y mejora de las existentes, así como las determinaciones básicas de las redes locales y rurales.
+1.1 Las determinaciones contenidas en el plan Director Sectorial de Carreteras, así como los estudios definidos en los artículos 9 y siguientes, serán incorporadas a los Planes de Ordenación Urbana, Planes Parciales y otros instrumentos de ordenación urbanística municipales.
+2. La modificación de las redes puede producirse de la siguiente manera:
+2.1 Por cambio de titularidad de las carreteras existentes, en virtud de transferencias o acuerdo mutuo entre las Administraciones públicas interesadas.
+2.2 Por la integración de carreteras de nueva construcción.
+2.3 Por la desafección de tramos de carreteras.
+
+### Artículo 7 bis
+
+Artículo 7 bis.
+1. Los planes directores sectoriales de carreteras deberán contener la planificación del transporte en bicicleta en la red viaria interurbana, atendiendo a los siguientes principios básicos:
+a) El planeamiento integral de la red interurbana de viales para bicicletas, prestando especial atención a la continuidad con las redes locales.
+b) La conveniencia social, medioambiental, económica y de impulsar y desarrollar una red de viales para bicicletas en tanto que instrumento de cohesión social y territorial.
+c) El uso prioritario, siempre que sea compatible con la seguridad y los criterios de protección del medio ambiente, de las redes públicas municipales de caminos.
+d) La seguridad de los ciclistas y del resto de personas que puedan desplazarse en el entorno de los viales para bicicletas (peatones y ocupantes de vehículos motorizados).
+2. Los planes directores sectoriales de carreteras clasificarán los tipos de viales para bicicletas según su nivel de segregación con el tráfico motorizado, bajo la premisa esencial que, cuanta más velocidad permita el diseño de la carretera, mayor deberá ser el nivel de segregación entre ésta y el vial para bicicletas.
+3. Los planes directores sectoriales de carreteras establecerán los criterios de diseño y ejecución de los carriles para la circulación de bicicletas, como mínimo en lo referente a:
+a) La sección del trazado (anchura mínima y recomendada de los carriles, condiciones técnicas de segregación del vial, etc.).
+b) Las intersecciones.
+c) La pavimentación.
+d) La integración paisajística.
+4. No obstante lo establecido en los apartados anteriores, aunque no esté previsto en el plan director sectorial de carreteras, a fin de mejorar la movilidad sostenible podrán llevarse a cabo proyectos de nuevos carriles para la circulación de bicicletas en los siguientes casos:
+a) Cuando den continuidad a los carriles para bicicletas ejecutados en algún tramo de una carretera interurbana.
+b) Cuando unan dos zonas urbanas y/o en espacio interurbano.
+Se modifica el apartado 3 y se añade el 4 por la disposición final 10.1 y 2 de la Ley 4/2021, de 17 de diciembre de 2021. Ref. BOE-A-2022-230
+ Se añade el último párrafo por la disposición final 6.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+ Se añade por la disposición final 4 de la Ley 4/2014, de 20 de junio. Ref. BOE-A-2014-7536
+
+### Artículo 8
+
+Artículo 8.
+1. El Gobierno de la Comunidad Autónoma y las Entidades Locales deberán coordinarse entre ellos en lo que se refiere a las mutuas incidencias de sus carreteras, para garantizar la unidad del sistema de comunicaciones y armonizar los intereses públicos afectados, utilizando los mecanismos legalmente establecidos.
+2. Los Ayuntamientos podrán formular Planes Municipales de carreteras que definirán sus redes y sus previsiones de modificación y ejecución de nuevas Carreteras.
+Los Planes Municipales de carreteras estarán incluidos en el correspondiente instrumento de planeamiento general del Municipio o bien tendrán la forma de Plan Especial, en desarrollo de aquél.
+3. Los planeamientos urbanísticos que afecten a carreteras de la red primaria o secundaria o a sus zonas de dominio público, reserva o protección, serán informados preceptivamente por los Organismos titulares de las mismas, cuyo informe se considerará favorable si no se emite en el plazo de un mes.
+
+### Artículo 9
+
+Artículo 9.
+Los estudios de carreteras que en cada caso requieran la ejecución de una obra, se adaptarán a los siguientes tipos, establecidos en razón de su finalidad:
+a) Estudio de planeamiento.
+b) Estudio previo.
+c) Estudio informativo.
+d) Anteproyecto.
+e) Proyecto de construcción.
+I) Proyecto de trazado.
+g) Plan especial de protección.
+
+### Artículo 10
+
+Artículo 10.
+1. El estudio de planeamiento consiste en la definición de un esquema vial de un determinado año horizonte, así como de sus características y dimensiones recomendables, necesidades de suelo y otras limitaciones, a la vista del planeamiento territorial y de transporte.
+2. El estudio de planeamiento comprenderá como mínimo:
+a) Exposición y delimitación del objeto del estudio.
+b) Recoger datos relativos a la estructura, ordenación territorial y demanda de transportes y su evolución.
+c) Análisis de la situación actual con la estructura socioeconómica, ordenación territorial y oferta y demanda vial y de transporte en la zona del estudio.
+d) Previsiones y repercusiones socioeconómicas y demanda de transporte a un determinado año horizonte.
+e) Esquemas viales posibles, comparación y selección de los más recomendables.
+
+### Artículo 11
+
+Artículo 11.
+1. El estudio previo consiste en la recopilación y análisis de los datos necesarios para definir en líneas generales las diferentes soluciones a un determinado problema, valorando todos sus efectos. Incluirá las valoraciones comparadas de los impactos ambientales de las alternativas propuestas.
+2. El estudio previo comprenderá como mínimo:
+a) Exposición del objeto del estudio y planeamiento del problema a resolver.
+b) Recoger los datos necesarios; tales como estudios de planeamiento existentes, de tráfico o de terrenos.
+c) Análisis de los datos anteriores.
+d) Definición en líneas generales de las diferentes opciones para resolver el problema planteado.
+e) Valoración y comparación de las citadas opciones; con inclusión en cada caso y con la aproximación adecuada de los impactos ambientales, las expropiaciones y modificaciones de servidumbre y servicios afectados.
+f) Posibilidades de limitación de acceso y sus consecuencias.
+g) Selección de alternativas más convenientes entre las opciones estudiadas.
+
+### Artículo 12
+
+Artículo 12.
+1. El estudio informativo consiste en la descripción en líneas generales del trazado de la carretera, a los efectos de que pueda servir de base al expediente de información pública que se inicia en su caso.
+2. El estudio informativo comprenderá como mínimo:
+a) Objeto del estudio y exposición de las circunstancias que justifiquen la declaración de interés general de la carretera y la concepción global de su trazado.
+b) Definición en líneas generales, tanto geográficas como funcionales de todas las opciones de trazados estudiadas.
+c) Análisis de las ventajas, inconvenientes y gastos de cada una de las opciones y su impacto en los diversos aspectos del transporte, teniendo en cuenta en los gastos los de los terrenos, servicios y derechos que puedan afectar en cada caso.
+d) Selección del trazado más recomendado como solución.
+
+### Artículo 13
+
+Artículo 13.
+1. El anteproyecto consiste en el estudio a escala adecuada y consiguiente evaluación de las mejores soluciones al problema planteado con criterios de conexión, acceso, optimización de recursos, consideraciones ambientales, de forma que se pueda concretar la solución óptima.
+El anteproyecto, en general será la fase de perfeccionamiento del estudio previo, en el cual, una vez decidida la solución más conveniente a un determinado problema y fijados en el estudio informativo su trazado y características funcionales, se determine la solución técnica más adecuada.
+2. En el caso que tenga que servir de base de una ulterior propuesta de gasto, constará como mínimo de los siguientes documentos:
+a) Memoria en la que, se expondrán las necesidades a satisfacer, incluyendo los posibles elementos funcionales de la carretera, los factores sociales, técnicos, económicos y administrativos que se tienen en cuenta para plantear el problema a resolver, y la justificación de la solución que se propone desde los puntos de vista técnico y económico, así como los datos básicos correspondientes, con justificación de los precios compuestos adoptados.
+Anexo a la Memoria, donde deberán figurar los datos geológicos, geotécnicos e hidrográficos en que se ha basado la elección.
+Criterios de valoración de la obra y de los terrenos, derechos y servicios afectados.
+b) Planes generales de trazado a escala no menor de 1/5.000 y de definición general de las obras de paso, secciones tipos y obras accesorias y complementarias.
+c) Presupuestos que comprenderán mediciones aproximadas y valoraciones.
+d) Un estudio relativo a la descomposición del anteproyecto en proyectos parciales.
+e) Cuando la obra tenga que ser objeto de explotación retribuida será necesario acompañar los estudios relativos al régimen de utilización y posibles futuras tarifas.
+3. En el caso de que el anteproyecto no tenga por objeto servir de base a una propuesta de gasto o cuando el anteproyecto haya sido precedido por un estudio previo informativo, se podrá prescindir en el mencionado estudio de los factores sociales, económicos y administrativos a que se refiere el apartado a) del punto 2 lo que no quiere decir que en el mismo no se tenga que buscar la solución más económica dentro de las técnicamente aceptables.
+
+### Artículo 14
+
+Artículo 14.
+1. El proyecto de construcción consiste en el desarrollo completo de la solución óptima con el detalle necesario para hacer factible su construcción y posterior explotación y el detalle de las medidas correctoras de los impactos ambientales previstos.
+2. El proyecto de construcción se redactará con los datos y detalles necesarios que permitan ejecutar las obras sin intervención del autor o autores del documento.
+3. En todo caso en la elaboración y redacción del proyecto, se tendrán en cuenta las prescripciones que, sobre esta materia contiene la legislación de contratación de la Comunidad Autónoma, y del Estado.
+4. Deberán constar como mínimo los siguientes documentos:
+a) Memoria que considere las necesidades a satisfacer y los factores de todo orden a considerar, con descripción y justificación de la solución proyectada; tendrá en cuenta además la futura explotación de la carretera, incluyendo los elementos funcionales, previsiones de accesos, en relación con el entorno de la carretera y su estética o nueva ordenación de los existentes.
+Anexos a la Memoria en los que se incluirán los datos topográficos, geológicos, geotécnicos, cálculos y estudios que se vayan utilizando en el proyecto, y que justifiquen e identifiquen el trazado y características elegidas.
+Asimismo, en su caso, se incluirá el estudio de los desvíos de circulación durante las obras, medidas para garantizar la seguridad vial en este período y en el tramo de carretera afectado y señalización a colocar durante la ejecución de las obras.
+Entre los anexos figurará la relación de bienes, derechos y servicios afectados y el plano parcelario, así como los documentos necesarios para promover las autorizaciones administrativas previas a la ejecución.
+También figurará entre los anexos a la Memoria un programa del posible desarrollo de los trabajos, en tiempo y coste óptimos con carácter indicativo, así como la clasificación que de acuerdos con el Registro ha de ostentar el empresario para ejecutarlos.
+b) Planos que describan gráficamente todos y cada uno de los elementos de la carretera proyectada.
+c) Pliego de prescripciones técnicas particulares en el que se fijen las características de los materiales y la forma y ejecución, medición y pago de las obras.
+d) Presupuesto con mediciones, cuadros de precios, presupuestos parciales eventuales y generales en todo caso.
+e) Cuando las obras tengan que ser objeto de explotación retribuida se acompañará los estudios económicos y administrativos sobre, el régimen de utilización y tarifas que tengan que aplicarse.
+5. En los proyectos de obras de conservación podrán reducirse en extensión los documentos exigidos para los proyectos de construcción, e incluso suprimirse los que resulten innecesarios, siempre que los restantes sean suficientes para definir, ejecutar y valorar las obras que comprenda, y que se hayan previsto las soluciones de las repercusiones a la circulación durante la ejecución de las obras.
+6. Los proyectos procurarán que la carretera y las instalaciones que la complementan se integren paisajísticamente en el entorno y preverán las canalizaciones de las redes eléctricas, telefónicas y telemáticas y las medidas para preservar la biodiversidad y evitar las inundaciones y los impactos sobre la pérdida de suelo.
+Se añade el apartado 6 por la disposición final 5 de la Ley 4/2014, de 20 de junio. Ref. BOE-A-2014-7536
+
+### Artículo 15
+
+Artículo 15.
+1. El proyecto de trazado es la parte del proyecto de construcción que contiene los aspectos geométricos de éste, así como la definición concreta de los bienes y derechos afectados.
+2. El proyecto de trazado comprenderá, como mínimo:
+a) Memoria donde se describa y justifique la solución adoptada, de manera que quede fuere de toda duda el carácter definitivo del trazado proyectado, y la seguridad de que no se verá afectado por estructuras, afirmado y obras complementarias.
+Anexos a la Memoria en la que se incluirán todos los datos que identifiquen y justifiquen el trazado y las características elegidas.
+Documentos necesarios para promover las autorizaciones administrativas previas a la ejecución de obras.
+Relación concreta e individualizada de los bienes y derechos afectados, con la descripción material de los mismos en planos de planta y parcelarios.
+b) Planos de trazado, en los cuales se aprecie el terreno a ocupar por las obras y las restantes características generales de la carretera.
+c) Presupuesto a nivel de anteproyecto.
+3. En un documento separado para uso exclusivo y reservado de la Administración, se incluirá el cálculo de la valoración de las expropiaciones precisas.
+
+### Artículo 16
+
+Artículo 16.
+1. El Plan Especial de protección consiste en la definición de un conjunto de actuaciones para la defensa de la viabilidad, la seguridad o la estética de una carretera y su entorno.
+2. La redacción de un Plan Especial de protección de una carretera tendrá que ajustarse a lo especificado en la legislación del suelo.
+
+### Artículo 17
+
+Artículo 17.
+1. La elaboración de estudios, anteproyectos y proyectos de obras de carretera se puede llevar a cabo bien directamente por medios propios de la administración promotora de la actuación, bien a través de un contrato, encargo de gestión o convenio, de acuerdo con las disposiciones vigentes. Estos documentos, para ser aprobados, se redactarán bajo la dirección o inspección y supervisión del órgano de la administración competente promotora de la actuación directamente o bajo la dirección de profesionales técnicos colegiados con la titulación habilitante para el ejercicio de la profesión de ingeniero de caminos, canales y puertos, o bien con la titulación habilitante para el ejercicio de la profesión de ingeniería técnica de obras en su respectiva especialidad, sin perjuicio de la intervención de profesionales de otras titulaciones cuando sea necesario en función de la complejidad.
+Además, para ser aprobados, estos documentos serán suscritos por profesionales con las titulaciones citadas en el párrafo anterior.
+2. La resolución o acuerdo de iniciación de los trabajos de redacción de estudios y proyectos a que se refiere el apartado 1 anterior implica la declaración de utilidad pública y de la necesidad de ocupar con carácter temporal los terrenos necesarios para ejecutar los trabajos de reconocimiento técnico, geológicos, geotécnicos, arqueológicos y cualquier otro que sea necesario para redactarlos.
+También implica la urgencia de la ocupación, siempre que se haya formulado y tramitado, de acuerdo con la legislación de expropiación forzosa, la relación concreta e individualizada de los bienes y derechos que sea necesario ocupar y se hayan cumplido todos los requisitos previos que la mencionada legislación exige con carácter general.
+3. Los estudios y proyectos que incluyen travesías requerirán, de manera previa a la aprobación por el órgano competente, la solicitud de informe no vinculante al ayuntamiento o a los ayuntamientos afectados, que se deberá emitir en un plazo de veinte días. Una vez transcurrido este plazo, se entenderá que el informe se ha emitido de manera favorable y se podrá continuar con la tramitación del procedimiento de aprobación.
+4. Los proyectos y anteproyectos de nueva carretera, modificación o ampliación de autopistas y autovías, las duplicaciones de calzada, así como las variantes y los acondicionamientos que supongan cambios de trazado en una longitud acumulada de más, de 3 kilómetros o que afecten parajes de especial protección, tendrán que ser objeto de una evaluación de impacto ambiental, elaborado y tramitado de conformidad con la normativa vigente.
+5. Los proyectos de nuevas carreteas convencionales o modificaciones importantes de las existentes incluirán detalle de las áreas necesarias para el buen y confortable funcionamiento de los servicios públicos de transporte, áreas para paradas, puntos de espera y carriles específicos si son aconsejables.
+Se modifican los apartados 1 y 2 por el art. 60.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifican los apartados 1 y 2 por el art. 60.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a6-2
+ Se modifica el apartado 3 por la disposición final 6.2 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+ Se modifica el apartado 3 por la disposición final 6.1 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-6
+
+### Artículo 18
+
+Artículo 18. Efectos de las actuaciones previstas en los instrumentos de ordenación territorial y de la aprobación de los proyectos de carreteras.
+1. La previsión de manera concreta de obras de carreteras en los instrumentos de ordenación territorial, de acuerdo con el artículo 16 de la Ley 14/2000, de 21 de diciembre, de ordenación territorial, implica su declaración de utilidad pública a efectos de lo que prevé la legislación sobre expropiación forzosa.
+2. La aprobación de los proyectos de carreteras redactados de acuerdo con las determinaciones de esta ley implica la declaración de utilidad pública o interés social, la necesidad de ocupación y la declaración de ocupación urgente de los bienes y la adquisición de los derechos correspondientes, a efectos de lo que prevé la legislación de expropiación forzosa, así como la ocupación temporal y la imposición o la modificación de servidumbres.
+3. La declaración de la utilidad pública o el interés social, de la necesidad de ocupación y de la urgente ocupación también se refiere a los bienes y derechos que se comprendan en el replanteamiento del proyecto y en las modificaciones de las obras que se puedan aprobar con posterioridad.
+4. A fin de que se produzcan los efectos que establecen los apartados 2 y 3 anteriores, los proyectos de carreteras y, si procede, las modificaciones correspondientes incluirán la definición del trazado y la determinación de los terrenos, de las construcciones y de los otros bienes y derechos que se estime necesario adquirir u ocupar para la construcción, la defensa o el servicio de la carretera y la seguridad de la circulación, y también la relación de las personas propietarias de los bienes o de los derechos afectados.
+Se modifica por el art. 60.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por el art. 60.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a6-2
+
+## CAPÍTULO III
+
+Construcción y financiación
+
+### Artículo 19
+
+Artículo 19.
+1. Únicamente podrán construirse nuevas carreteras, duplicaciones de calzada o variantes de travesías, de las redes primaria o secundaria, cuando éstas hayan sido previstas en el Plan Director Sectorial de Carreteras. No tendrán consideración de nuevas carreteras los acondicionamientos de trazados, los ensanchamientos de plataforma, las mejoras de firme y, en general, las actuaciones que no supongan variación sustancial de la funcionalidad, ni de la geometría de la carretera preexistente.
+2. Los anteproyectos o los proyectos relativos a construcción de nuevas carreteras, duplicaciones de calzada y variantes deberán someterse a un trámite de información pública de una duración de un mes, o el superior que determine la legislación sectorial en materia de evaluación de impacto ambiental en el caso de sujetarse a este procedimiento por su entidad, y deberá anunciarse, al menos, en el Butlletí Oficial de les Illes Balears y en la sede electrónica del consejo insular correspondiente.
+3. Simultáneamente al trámite de información pública y por el mismo plazo previsto en el apartado 2 anterior, el anteproyecto o el proyecto se someterá a informe del ayuntamiento o de los ayuntamientos afectados. Transcurrido este plazo de un mes, se entenderá que el informe se ha emitido de manera favorable y se podrá continuar con la tramitación.
+4. No obstante lo dispuesto en el apartado 1 de este artículo, pueden realizarse rondas y vías de carácter urbano, travesías y variantes de travesías no previstas explícitamente en el Plan director sectorial de carreteras, sin que les sea de aplicación la tramitación prevista en los anteriores apartados 2 y 3 de este artículo, cuando aquéllas se hayan incluido o se incluyan en un convenio, para colaborar en su financiación, entre el ayuntamiento y las administraciones públicas competentes.
+No será necesario que las rondas y vías de carácter urbano, travesías y variantes de travesías, estuvieran o estén ordenadas por los planeamientos urbanísticos municipales vigentes si concurren los siguientes requisitos:
+a) Que el convenio de colaboración se hubiese establecido o se establezca para resolver problemas vinculados al tráfico de paso por las poblaciones, en la comunicación y distribución del tráfico de núcleos de población de una comarca o sirvan de comunicación intercomarcal.
+b) Que la Comisión Balear de Medio Ambiente u órgano ambiental de la comunidad autónoma de las Illes Balears que asuma o haya asumido la continuación del ejercicio de sus funciones, hubiera emitido o emita informe favorable al proyecto de las obras.
+c) Que el ayuntamiento hubiera acreditado o acredite la disponibilidad de los terrenos mediante actos de replanteo.
+Se modifican los apartados 2 y 3 por la disposición final 6.3 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+ Se modifican los apartados 2 y 3 por la disposición final 6.2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-6
+ Se añade el apartado 4 por el art. 6 de la Ley 10/2010, de 27 de julio. Ref. BOE-A-2010-13432#a6
+ Se deja sin contenido el apartado 4 por la disposición adicional 6.2 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+ Véase, en cuanto a la regulación de los conflictos, la citada disposición adicional 6.2.
+
+### Artículo 20
+
+Artículo 20. Expropiaciones.
+1. Las expropiaciones o las ocupaciones temporales de bienes y derechos, así como la imposición o la modificación de servidumbres que, si procede, sean necesarias para ejecutar las obras de carreteras a que se refiere esta ley, se efectúan de acuerdo con la legislación estatal vigente en materia de expropiación forzosa, y sin perjuicio de las determinaciones específicas que se contienen en esta ley y de las adecuaciones necesarias a la estructura organizativa propia de las administraciones públicas de la comunidad autónoma de las Illes Balears.
+2. En caso de que, por el hecho de no establecerse como efecto de algún acto aprobatorio de los previstos en esta ley, en el procedimiento de expropiación se requiriera la adopción de un acuerdo de urgente ocupación de bienes y derechos, y cuando la administración expropiante fuera un consejo insular o un municipio, el trámite mencionado de declaración de urgente ocupación de bienes y derechos exigido en la legislación de expropiación lo adoptará el consejo ejecutivo de los consejos insulares o el pleno del ayuntamiento, respectivamente.
+3. La administración titular se subroga en la posición jurídica de la persona expropiada a efectos de su derecho al aprovechamiento urbanístico que corresponda a los terrenos expropiados.
+4. No procede la reversión de terrenos que se hayan expropiado de acuerdo con esta ley y que se hayan convertido en innecesarios para la prestación del servicio viario si resultan afectados por el planeamiento urbanístico o de ordenación territorial con otra finalidad de utilidad pública o de interés social y se cumplen las circunstancias establecidas por la legislación estatal vigente.
+Se modifica por el art. 60.5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por el art. 60.3 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a6-2
+
+### Artículo 21
+
+Artículo 21.
+1. La financiación de las obras de carretera irá a cargo de la Administración que las promueva, mediante los recursos que con este fin haya consignado en los Presupuestos correspondientes, de los recursos que provengan de otras Administraciones Públicas, Organismos nacionales, comunitarios, internacionales y, excepcionalmente, de los particulares.
+2. Se podrán establecer acuerdos de colaboración entre distintas Administraciones para la financiación conjunta de obras en las diversas redes, bien mediante acuerdos concretos, bien mediante el establecimiento de un fondo común en un organismo gestor de las mismas.
+3. Con carácter excepcional se podrá contar con financiación privada para las actuaciones en las carreteras de gestión directa y también las que sean objeto de gestión mediante concesión administrativa.
+4. Las aportaciones a la financiación de las obras de carreteras realizadas por particulares o por Administraciones Públicas entres sí, pueden adoptar las formas siguientes:
+a) Aportaciones en dinero.
+b) Redacción de estudios, anteproyectos o proyectos.
+c) Aportaciones de terrenos necesarios, temporal o definitivamente, para las obras.
+d) Aportaciones de material o equipos.
+e) Ejecución parcial de obras.
+f) Compromiso de mantenimiento de las mismas.
+
+### Artículo 22
+
+Artículo 22.
+La explotación de la carretera comprende las operaciones de conservación y mantenimiento de la misma, incluyendo la señalización, ordenación de acceso, ordenación del tráfico y del uso y actividades que se hagan en las zonas de dominio público, reserva y protección.
+
+### Artículo 23
+
+Artículo 23.
+1. La conservación de la carretera se encargará al organismo que desarrolle la administración y gestión de la red en que se encuentre integrada, incluidas las condiciones de ambiente y estética de las mismas.
+2. No obstante, en las travesías cuya explotación corresponda al Consejo Insular, será preceptivo el informe municipal para la modificación de la ordenación del tráfico y se procederá de la misma forma a la descrita en el artículo 17.3.
+3. Las autorizaciones para la realización de toda clase de actuaciones en las travesías, exceptuando las de conservación y ordenación del tráfico citadas antes, las dará el Ayuntamiento, previo informe favorable del organismo gestor de la carretera, que se referirá exclusivamente a aspectos contemplados por esta Ley. En caso de discrepancia entre una y otra Administración, la resolverá el Pleno del Consejo Insular.
+Se modifican los apartados 2 y 3 por la disposición adicional 6.4 y 5 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+
+### Artículo 24
+
+Artículo 24.
+1. El tráfico por las carreteras de las Islas Baleares será libre y gratuito para toda clase de vehículos que cumplan las normas de circulación vigentes.
+2. Con carácter excepcional se podrán imponer peajes a los vehículos para pasar por una carretera o por una sección singular de ésta. Las tarifas deben ser aprobadas por el Pleno del Consejo Insular que tenga la titularidad.
+Se modifica el apartado 2 por la disposición adicional 6.6 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+
+### Artículo 25
+
+Artículo 25.
+1. La explotación de las carreteras puede hacerse también por particulares; mediante cualquiera de los sistemas de gestión indirecta contemplados en la legislación de contratos del Estado, con las peculiaridades que se deriven de la de la Comunidad Autónoma y de la de Régimen Local.
+2. Las concesiones administrativas para la construcción, conservación y explotación de carreteras se han de regir por lo que dispone la legislación específica.
+
+### Artículo 26
+
+Artículo 26.
+1. No podrá realizarse ninguna obra que modifique o altere la carretera y los elementos complementarios de ésta, por persona o entidad pública o privada distinta del organismo a cargo del cual se encuentre la gestión y administración, sin su autorización.
+Se entiende por carretera y elementos complementarios de ésta la calzada o calzadas, la mediana, los arcenes, las bermas, las obras de tierra en que se desarrollen, las obras e instalaciones de drenaje y desagüe, las obras de fábrica, los muros, los elementos de señalización vertical y horizontal, los elementos de alumbrado, las barreras, las balizas, la jardinería, los elementos ornamentales y las áreas de servicio.
+2. En los puntos de contacto entre dos carreteras de distinta titularidad, la ejecución de obras deberá contar con la autorización de los organismos implicados.
+En caso de discrepancia prevalecerá el criterio sustentado por el organismo titular de la vía de interés más general.
+
+### Artículo 27
+
+Artículo 27.
+1. En las carreteras de áreas residenciales o turísticas y en las travesías en que sea factible, se dispondrán carriles para la circulación de bicicletas, de manera que se impida el uso de vehículos automóviles.
+2. Los carriles para bicicletas se ubicarán en la zona de dominio público existente o, en todo caso, en la zona de protección, en cuyo caso se tramitará el correspondiente expediente de expropiación.
+3. Las secciones tipo y el resto de las características del carril para bicicletas se ajustarán a las previsiones de los instrumentos de planeamiento territorial o sectorial que sean de aplicación o, en su defecto, a las que se determine técnicamente de forma justificada en el proyecto constructivo con la normativa de aplicación que se considere. Estos carriles podrán proyectarse sobre zonas afectadas en el momento de la redacción del proyecto como zona de protección de carretera, en una plataforma independiente de la carretera actual, separada por pared seca, en su caso, o por alguna barrera que separe las dos plataformas. Los terrenos a ocupar, si procede, deberán ser expropiados de acuerdo con la legislación vigente y pasarán a formar parte del dominio público de la carretera.
+Se modifica por la disposición final 10.3 de la Ley 4/2021, de 17 de diciembre de 2021. Ref. BOE-A-2022-230
+
+## CAPÍTULO V
+
+CAPÍTULO V [SIC]
+Zona de dominio público, reserva y protección
+
+### Artículo 28
+
+Artículo 28.
+1. Los proyectos de carreteras, en función de la categoría y del trazado, definirán las dos líneas que en cada lado de la calzada o de las calzadas enmarcarán la zona de dominio público que deberá ser necesariamente expropiada, destinada a contener todos los elementos básicos y complementarios de la vía y también las necesidades anexas a la misma, como jardines, áreas de descanso, áreas de servicio, carriles para la circulación de bicicletas, miradores, zonas destinadas a almacenaje, pesaje, mediciones de aforos y demás operaciones de conservación.
+2. En las carreteras construidas, además de las superficies existentes, la zona de dominio público podrá incluir aquellas que sean necesarias para un mejor servicio, tales como las citadas en el apartado anterior, mediante la elaboración y ejecución del proyecto correspondiente y el expediente de expropiación oportuno.
+3. La aprobación de proyectos de construcción de carriles para la circulación de bicicletas supondrá la definición de la zona de dominio público que deberá ser necesariamente expropiada, tanto si el carril está previsto en el plan director sectorial de carreteras como si responde a los casos previstos en el artículo 7 bis, apartado 4.
+4. El dominio público de carreteras, como integrante del sistema estructural de transporte terrestre, será compatible y armonizable con el dominio público ferroviario, y podrán coexistir siempre que se den los condicionantes adecuados a criterio de la administración competente en materia de carreteras.
+Se añade el apartado 4 por la disposición final 31.1 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-31
+ Se modifica el apartado 1 y se añade el 3 por la disposición final 10.4 y 5 de la Ley 4/2021, de 17 de diciembre de 2021. Ref. BOE-A-2022-230
+
+### Artículo 29
+
+Artículo 29.
+Las zonas de dominio público que deberán incluirse en los proyectos de obras de nuevas carreteras, las duplicaciones de calzada, las variantes y los acondicionamientos que supongan cambios de trazado en más de 3 kilómetros, excepto justificación en contrario, serán las comprendidas entre dos líneas paralelas a las aristas exteriores de la explanación y a una distancia de estas de:
+a) 8 metros para vías de cuatro o más carriles.
+b) 3 metros para vías de dos carriles de las redes primaria y secundaria.
+c) 1 metro para vías de dos carriles de las redes local o rural.
+
+### Artículo 30
+
+Artículo 30.
+1. Los planes de carreteras o los urbanísticos que incluyan carreteras deben fijar, en su caso, una zona de reserva para ampliación o mejora de las carreteras, cuya anchura mínima será:
+a) 100 metros para vías de cuatro o más carriles.
+b) 50 metros para vías de dos carriles de las redes primaria y secundaria.
+c) 25 metros para vías de dos carriles de las redes local o rural.
+Las anchuras descritas se incrementarán en un 50 por 100, cuando se trate de carreteras de nuevo trazado.
+En la zona de reserva se prohibirá la ejecución de cualquier tipo de obra o instalación que no sean las de mera conservación de las existentes también cualquier otra clase de actividades que puedan elevar el valor del suelo, excepto los de cultivos agrícolas.
+2. Realizadas las obras que motivaron la definición de la zona de reserva, ésta dejará de ser vigente, siendo de aplicación a la carretera las zonas de protección descritas en esta Ley.
+
+### Artículo 31
+
+Artículo 31.
+1. Se define como zona de protección de la carretera la comprendida entre dos líneas longitudinales paralelas a las aristas de explanación y a una distancia de éstas de:
+a) 25 metros en carreteras de cuatro o más carriles.
+b) 18 metros en las carreteras de dos carriles de las redes primaria y secundaria.
+c) 8 metros en las carreteras de dos carriles de las redes local o rural.
+En la zona de protección no se podrán realizar obras ni se permitirán más usos que los compatibles con la seguridad vial, previa autorización, en cualquier caso, del organismo gestor. En todo caso se podrá autorizar la utilización de la zona de protección por razones de interés general o cuando lo requiera el mejor servicio de la carretera. Serán indemnizables la ocupación de la zona de protección y los daños y perjuicios que se ocasionen por su utilización.
+2. Además de lo que se preceptúa en los apartados anteriores, será preceptivo el informe del organismo titular de la carretera para la puesta en marcha de cualquier actividad nueva o modificación de la existente que surja en el entorno de la carretera y que la pueda afectar directa o indirectamente en las zonas limitadas por unas líneas longitudinales paralelas a las aristas exteriores de la explanación y. a una distancia de:
+a) 100 metros en carreteras de cuatro o más carriles.
+b) 50 metros en carreteras de dos carriles de las redes primaria y secundaria.
+c) 25 metros en carreteras de dos carriles de las redes local o rural.
+
+### Artículo 32
+
+Artículo 32.
+1. En las travesías, los planes urbanísticos establecerán las zonas de dominio público, reserva y protección que coincidirán en una sola. En los suelos con edificación consolidada en más de un 25 por 100 en uno o ambos márgenes, coincidirán con las alineaciones existentes, excepto en puntos singulares.
+En los suelos en los cuales la edificación no esté consolidada en un 25 por 100 pueden preverse vías auxiliares, jardines, pantallas antirruidos y otros elementos que eviten el contacto directo de la población residente y el tráfico de tránsito. El correspondiente plan decidirá su inclusión o no en la zona de dominio público.
+2. En las traveseas será preceptivo el informe del organismo titular o gestor de la carretera para cualquier actividad que pueda afectar a la zona definida como de dominio público, como construcción o modificación de accesos, variaciones de gálibo, remodelación de elementos de la explanación o complementarios de la misma, cambios en el régimen de desagüe o drenaje, incidencia en la estructura, firme, señalización o seguridad de la calzada.
+3. La construcción, conservación y explotación de las obras e instalaciones de las travesías será competencia municipal, exceptuando aquellas exigidas por la funcionalidad de la carretera.
+4. En las zonas donde se considere compatible y armonizable el dominio público ferroviario con el dominio público de carreteras, a criterio de las administraciones responsables de cada infraestructura, las zonas de dominio público, reserva y protección de carreteras coincidirán en una sola, limitada por la línea de delimitación común de ambos dominios. Para su materialización será preceptivo el informe del organismo titular o gestor de la carretera.
+Se añade el apartado 4 por la disposición final 31.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-31
+
+### Artículo 33
+
+Artículo 33.
+1. La ejecución de obras de cualquier clase en una carretera, en las zonas definidas en los artículos anteriores deberá contar con la autorización del organismo titular o gestor de la misma, sin perjuicio de otras autorizaciones pertinentes.
+2. Las obras y actividades en las citadas zonas no podrán afectar a la seguridad del tráfico y deberán mantener como mínimo las condiciones previas de visibilidad y geometría.
+3. Además de las condiciones señaladas, la ejecución de obras de cualquier clase en el entorno de una carretera se debe someter a las limitaciones siguientes:
+a) Las labores agrícolas no tendrán ninguna restricción fuera de la zona de dominio público, excepto en el caso de que, con ellas, pueda verse comprometido el tráfico; en concreto, será preceptiva la autorización del organismo titular de la carretera para la plantación o tala de arbolado y la recogida y evacuación de los productos cuando se realicen a una distancia menor de 3 metros de la arista de la explanación y ésta pueda verse afectada, y el interesado deberá presentar una memoria descriptiva de las actividades que prevea y de las medidas a tomar para preservar la seguridad del usuario de la carretera.
+Se prohíben los riegos que, con vientos inferiores a 30 kilómetros por hora, puedan afectar a la calzada.
+b) Los cierres de las propiedades colindantes deberán situarse fuera de la zona de dominio público y a no menor de 3 metros de la arista exterior de la explanación. Las paredes tendrán una altura máxima igual a la mitad de la distancia a que estén situadas de la referida arista exterior de la explanación.
+En la red local o rural y, excepcionalmente, en otras carreteras en las cuales se justifique por razones especiales, se autorizarán cierres con enrejado, alambradas o elementos vegetales, a una distancia no inferior a 1 metro.
+c) Las obras de movimiento de tierras y explotaciones mineras, construcciones de pozos, piscinas, se deberán realizar fuera de la zona de protección, los movimientos de tierra, cuya finalidad sea exclusivamente la adecuación del terreno para la explotación agrícola u otras similares que sean admisibles en la zona de protección, podrán autorizarse siempre que no afecten negativamente a las condiciones de trazado de la vía ni el libre curso de las aguas y que estén fuera de la zona de dominio público.
+d) Se podrá autorizar la construcción de aparcamientos en superficie a una distancia mayor de 3 metros de la arista de explanación, siempre que estén fuera de la zona de dominio público y que el acceso y las obras auxiliares sean autorizables.
+e) En la zona definida como de dominio público de la carretera se considerará un uso complementario, en el subsuelo, el suelo y el vuelo superpuesto sobre la citada zona, aquel que permita la implantación o la construcción de las infraestructuras imprescindibles para prestar servicios de interés público, especialmente las infraestructuras necesarias para el ciclo del agua así como las infraestructuras auxiliares a las mismas, además de las redes de transporte y distribución de gas, las infraestructuras imprescindibles de energía eléctrica, las de telecomunicaciones y similares.
+Entre las infraestructuras imprescindibles de energía eléctrica se entenderán incluidas las instalaciones de transporte y distribución de energía eléctrica y las redes de telecomunicaciones asociadas, con exclusión de las redes eléctricas de evacuación de energías renovables cuya implantación se inicie a partir de la entrada en vigor de la Ley de medidas urgentes para acelerar proyectos estratégicos que contribuyan a la transformación económica de las Illes Balears.
+En todos estos casos, la ocupación del subsuelo de la zona de dominio público se llevará a cabo preferentemente en una franja de un metro situada en la parte más exterior de esta zona.
+Cuando concurran circunstancias de carácter técnico por las que se considere, por parte del organismo titular de la vía, que el dominio público resulta insuficiente o inadecuado para la ubicación de las conducciones por las que discurren las citadas instalaciones, se deberá proceder a la ampliación de hasta 5 metros lineales de la zona de dominio público para que sea apta y suficiente para albergar las canalizaciones que deban acogerlas.
+El titular de la vía asumirá todo el procedimiento administrativo preciso para la expropiación e imposición forzosa de la servidumbre y la ocupación de bienes y derechos que fuera necesaria para la ampliación del dominio público para la implementación de las infraestructuras citadas en los párrafos anteriores.
+El coste de implantación de estas canalizaciones, así como el coste de la ampliación del dominio público y de los cerramientos, en su caso, serán asumidos por el titular de las instalaciones que deban discurrir por el dominio público.
+La administración actuante determinará las condiciones técnicas y de ejecución de los trabajos de construcción, garantizando en todo caso la protección, la continuidad y el correcto funcionamiento de las infraestructuras.
+Las infraestructuras a que se refiere esta letra que se sitúen en las zonas de dominio público o de protección de la carretera no estarán sujetas al procedimiento de evaluación de impacto ambiental, aunque por su tipología estén incluidas en el anexo I o en el anexo II del texto refundido de la Ley de evaluación ambiental de las Illes Balears, aprobado por el Decreto legislativo 1/2020, de 28 de agosto. No obstante, en el supuesto de que estén afectadas por los criterios establecidos en los puntos 1 o 2 del apartado B del anexo III de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, estarán sometidas a la evaluación de impacto ambiental simplificada, salvo que el órgano competente para gestionar el espacio informe que no son susceptibles de causar efectos adversos apreciables.
+En caso de necesidad por parte del titular de la vía de modificar las conducciones que discurran por dominio público que hayan sido autorizadas, y siempre que no exista una alternativa técnica que evite la afección sobre las citadas conducciones, el titular de la vía asumirá el coste de la obra civil y el titular del servicio de interés público asumirá el resto del coste.
+En los otros casos, las conducciones soterradas solo se podrán autorizar a una distancia no inferior a los 3 metros de la arista de explanación de la carretera, fuera de la zona de dominio público. La administración actuante determinará las condiciones a las que se deberán sujetar estas autorizaciones, los derechos y las obligaciones que asume el sujeto autorizado, el canon de ocupación que, en su caso, se establezca, y los supuestos de revocación.
+Bajo la calzada, los cruces tendrán que realizarse por la solera de las obras de fábrica existentes, en galerías o tubos dispuestos previamente a tal efecto o construidos con medios que no alteren el pavimento; excepcionalmente, se podrán autorizar zanjas en la calzada por razones de urgencia o necesidad, o cuando se realicen de forma previa en una obra de renovación del pavimento existente. En las travesías, las conducciones deberán discurrir bajo las aceras o las zonas destinadas a tal fin, siempre que sea posible.
+En los casos de carriles para la circulación de bicicletas, la ocupación de la zona de dominio público para la implantación de las infraestructuras citadas en esta letra se llevará a cabo preferentemente a partir del primer metro desde la arista de explanación del carril para la circulación de bicicletas.
+e bis) En las carreteras de nueva construcción, así como en las reformas que vayan a acometerse en las existentes, se deberá prever obligatoriamente, por parte del titular de la vía, que el dominio público sea apto y suficiente para albergar las infraestructuras imprescindibles señaladas en la letra anterior.
+Para ello, se habilitará en el dominio público de la misma una zona transitable y accesible, situada fuera de la calzada y del arcén, destinada a la ocupación del subsuelo para la implantación de las canalizaciones para estas instalaciones.
+En las travesías, tal como vienen definidas en el artículo 4 de esta ley, las conducciones destinadas a las infraestructuras señaladas en la letra anterior deberán instalarse preferentemente bajo las aceras, en su caso, o en las zonas previstas a tal destino, dentro del dominio público. Para su autorización será suficiente con la presentación, ante el organismo titular de la carretera, de una declaración responsable por parte del promotor de la instalación o de la obra.
+f) Los tendidos aéreos de cualquier tipo deberán estar a una distancia mínima de una vez y media la altura de sus elementos de sustentación en el lado exterior de la calzada y fuera de la zona de dominio público. Los cruces deberán dejar un gálibo de 6 metros; los elementos de apoyo de las líneas de alta tensión no podrán autorizarse en la zona de protección.
+g) No podrán autorizarse edificaciones de nueva construcción ni ampliaciones de las existentes en la zona de protección.
+Asímismo, queda prohibida la reconstrucción de edificaciones, salvo aquellas promovidas por una administración o entidad pública, siempre que se respete en este caso lo que dispone la normativa básica estatal.
+En los edificios existentes se podrán autorizar obras de conservación, reparación, mejora, consolidación y modernización, siempre que no impliquen aumento de volumen, altura ni superficie.
+En cuanto al cambio de uso de las edificaciones existentes en la zona de protección que afecten al tráfico de las carreteras, se deberá justificar su utilidad para el usuario y las medidas que se adoptarán en relación con accesos, vías de servicio, aparcamientos y señalización que las hagan permisibles.
+h) Las instalaciones deportivas no se autorizarán con carácter permanente en la zona de protección.
+i) Las instalaciones turísticas y comerciales se podrán autorizar con carácter discrecional en la zona de protección, cuando sean de carácter provisional y móvil.
+j) En las zonas de reserva contenidas en estudios y proyectos aprobados, deben prohibirse todas las obras que puedan encarecer su expropiación, excepto las de cultivo agrícola y las de mera conservación de las edificaciones e instalaciones existentes.
+4. Los cierres en general deberán conservar la tipología tradicional de la zona en que se ubiquen.
+La construcción o reconstrucción de muros diferentes de los que forman la parte estructural de las carreteras se podrán autorizar en la zona de protección cuando sean destinados al sostenimiento del terreno para usos agrícolas. En este caso, deberán respetarse las tipologías tradicionales.
+En el caso de que la ampliación, apertura o reforma de una carretera implique la destrucción de paredes secas y «marges», éstos serán reconstruidos por la Administración actuante en caso de renuncia a la correspondiente indemnización por parte del propietario.
+Se modifica las letras e), e bis) y g) del apartado 3 por la disposición final 31.3 a 5 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-31
+ Se deja sin efecto la modificación de la letra e) y la derogación de la letra e bis) del apartado 3 por Resolución de 2 de octubre de 2025, por la que se publica el acuerdo del Parlamento de las Illes Balears por el que se deroga el Decreto-ley 6/2025. Ref. BOIB-i-2025-90242
+ Se modifica la letra e) y se deroga la letra e bis) del apartado 3 por la disposición final 6 y la disposición derogatoria única.i) del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
+ Se añade el apartado 3.e) bis por la disposición final 10.6 de la Ley 4/2021, de 17 de diciembre de 2021. Ref. BOE-A-2022-230
+ Se modifica el apartado 3.e) por el art. 21 del Decreto-ley 3/2014, de 5 de diciembre. Ref. BOE-A-2015-1062
+ Redactado conforme a la corrección de errores publicado en BOIB, de 13 de diciembre de 2014 BOIB-i-2014-90528
+ Se modifica el apartado 3.e) por el art. 18 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 34
+
+Artículo 34.
+El organismo titular de la carretera podrá autorizar el paso de las conducciones aéreas o subterráneas de interés público entre el borde de la zona de dominio público y la de protección, y deberá notificar a los propietarios de los terrenos afectados y al arrendatario, en su caso, la resolución de ocupar sus terrenos con expresión cierta o aproximada de la superficie y del plazo, de la finalidad a que se destina y de la designación de la Entidad beneficiaria. Esta resolución será inmediatamente ejecutiva.
+La indemnización de esta servidumbre se regirá por la vigente legislación de expropiación forzosa, cuyo cumplimiento por la entidad beneficiaria, a cargo de la cual correrán las indemnizaciones, debe garantizar el organismo titular de la carretera.
+
+### Artículo 35
+
+Artículo 35.
+1. Se prohíbe la construcción de nuevos accesos en las carreteras de las redes primaria y secundaria, excepto en el caso de que se justifique ante el organismo titular o gestor de la carretera que éstos cumplen simultáneamente las siguientes condiciones:
+a) La inexistencia de otro acceso en la propiedad de que se trate.
+b) La imposibilidad de realizarlo por otro camino o por otra carretera local próxima.
+c) Que la segregación de la finca en cuestión sea anterior al 21 de diciembre de 1974, fecha de publicación y entrada en vigor de la Ley 51/1974, de Carreteras.
+2. En las travesías no se autorizarán más accesos que los contemplados en los instrumentos urbanísticos en vigor.
+3. La Administración titular de la carretera podrá exigir para autorizar el uso, la construcción o la modificación de un acceso, un estudio de las condiciones del mismo o un proyecto redactado por técnico competente en casos de incidencia importante en la carretera.
+4. Cuando a juicio del organismo titular de la carretera sea necesario, se podrá formular un proyecto de reordenación de accesos en un tramo de la misma, que obligará a la Administración y a los particulares; éstos deberán correr con los gastos de la parte de las obras que afecten la propiedad respectiva.
+
+### Artículo 36
+
+Artículo 36. Normas en materia de publicidad.
+1. Se prohíbe la publicidad que sea visible desde la zona de dominio público de las carreteras, excepto en las travesías y en la red local o rural. En cualquiera de estas excepciones la publicidad en suelo urbano o urbanizable estará sometida a las ordenanzas municipales y se tendrá que situar fuera de la zona de dominio público y no afectar a la señalización, al alumbrado y al balizamiento de la carretera, sin perjuicio de los informes previos del organismo titular o gestor de la carretera a que se refiere el artículo 32.2 de esta ley cuando la instalación publicitaria pueda afectar a la zona de dominio público.
+Esta prohibición, aplicable a todos los carteles, letreros, inscripciones, logotipos, formas o imágenes de cualquier tipo y dimensión y con cualquier elemento de apoyo, diferentes de los previstos en el apartado 2 siguiente, no da derecho a ninguna indemnización, y los planeamientos municipales se adaptarán a esta normativa.
+2. No se considera publicidad a los efectos de esta ley:
+a) La rotulación informativa de las vías.
+b) Los carteles que indiquen lugares de interés público, no comerciales, y con los formatos que se autoricen.
+c) Las indicaciones de orden general que sean de utilidad para el usuario, como la información sobre talleres, restaurantes, comercios, exposiciones, ferias o celebraciones, siempre que no contengan nombres comerciales, que sean transitorias o que tengan carácter excepcional.
+d) Los letreros o los carteles que informen exclusivamente de la identidad corporativa de la actividad desarrollada en la propiedad donde se ubican, y aquellos otros que se establezcan reglamentariamente.
+En estos casos, para la colocación de cualquier clase de cartel o reclamo, en la carretera o en el entorno, además de lo que puedan establecer las ordenanzas municipales correspondientes en suelo urbano o urbanizable, será preceptiva la autorización del organismo titular o gestor de la carretera o, si procede, el informe previo de este organismo a que se refieren los artículos 23.3 y 32.2 de esta ley, los cuales tendrán que atender que las condiciones de forma, grosor, situación o iluminación no sean perjudiciales al tráfico ni a los valores estéticos del entorno.
+3. No obstante, el organismo titular de la carretera podrá ordenar la retirada o la modificación de todos los elementos publicitarios o informativos que puedan afectar a la seguridad de la calzada o a la adecuada explotación de la vía, sin que esto dé derecho a indemnización.
+Se modifica por el art. 60.6 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por la disposición final 6.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+
+### Artículo 37
+
+Artículo 37.
+1. Podrán autorizarse edificaciones e instalaciones para venta de combustible y elementos afines en la zona de protección, de acuerdo con la legislación específica y con las siguientes normas:
+a) La distancia mínima entre accesos a estas instalaciones debe ser de 500 metros en el mismo sentido del tráfico; se podrán autorizar instalaciones más próximas entre sí, con accesos unificados o desde vías de servicio existentes.
+b) No podrán autorizarse estas instalaciones a menos de 500 metros de una intersección, excepto en travesías.
+c) En autopistas y autovías de nueva construcción las instalaciones de venta de combustible estarán situadas en las áreas de servicios.
+
+### Artículo 38
+
+Artículo 38.
+1. En las autopistas y autovías, el organismo titular o gestor de las mismas deberá expropiar los terrenos necesarios para la construcción de un área de servicio y podrá hacerlo con el mismo proyecto de construcción de la vía o bien, con posterioridad previamente al concurso público que necesariamente deberá convocarse para la construcción y explotación del área en régimen de concesión.
+2. En el caso de que una carretera convencional se transforme en autopista o autovía, el proyecto deberá contemplar las fórmulas de transformación o indemnización de los servicios existentes, así como la disposición de los nuevos.
+
+## CAPÍTULO VI
+
+Control, infracciones y sanciones
+
+### Artículo 39
+
+Artículo 39.
+Son infracciones contra la carretera la realización de obras, instalaciones o actuaciones sometidas a informe de acuerdo con esta Ley en las zonas de reserva, protección, dominio público u otras reguladas en esta Ley sin autorización o el incumplimiento de algunas de las condiciones de la misma, la alteración, el deterioro o la destrucción de la carretera o de los elementos complementarios de ésta, tal como se define en la presente Ley, y las afecciones a cualquier carretera por uso o explotaciones incorrectas del entorno.
+
+### Artículo 40
+
+Artículo 40.
+1. Las infracciones contra la carretera se clasifican en leves, graves, y muy graves.
+2. Son infracciones leves:
+a) Aquellas derivadas de obras, instalaciones y actuaciones realizadas sin el informe o autorización preceptivos o las que incumplan alguna de las condiciones, que sean legalizables y siempre que, una vez denunciada la infracción, se proceda a legalizarlas en un plazo no superior a dos meses.
+b) El lanzamiento o el vertido de objetos desde los vehículos, cuando no haya peligro para las personas o las cosas.
+c) Incumplir o desatender reiteradamente los requerimientos que efectúen los órganos gestores de la carretera encaminados al esclarecimiento de los hechos y las responsabilidades susceptibles de sanción. A los efectos de estos tipos de infracción, se entiende que hay reiteración cuando después de dos requerimientos no se cumplan o no se atiendan.
+3. Son infracciones graves:
+a) Las referidas en el punto a) del apartado anterior, no legalizadas dentro de plazo.
+b) La realización de obras, instalaciones o actuaciones realizadas sin el informe o autorización preceptivos o que incumplan algunas de las condiciones impuestas y que no sean legalizables.
+c) El lanzamiento o el vertido de objetos desde los vehículos, cuando haya peligro grave para las personas o las cosas.
+d) La alteración, el deterioro o la destrucción de la carretera o de cualquiera de los elementos complementarios definidos en esta ley.
+e) La colocación o el vertido de objetos, materiales de cualquier tipo o de basuras, a la zona de protección de la carretera.
+f) La afección al tráfico de manera eventual e inadvertida, mediante la emisión peligrosa de partículas, humos, gases, ruidos o actividades similares, la invasión de la calzada por animales incontrolados o el derribo de muros, edificaciones o construcciones en estado de ruina.
+g) Colocar cualquier tipo de publicidad prohibida para ser visible desde la zona de dominio público de la carretera, en el supuesto de que se hubieran restituido las zonas a su estado anterior a la infracción cometida en el plazo de tres meses desde la notificación de la denuncia o la resolución de incoación del expediente sancionador.
+4. Son infracciones muy graves:
+a) La ejecución de cualquier obra, instalación o actuación en la zona de protección que pueda posar en peligro la seguridad del tráfico.
+b) La construcción, reconstrucción o ampliación de construcciones y edificaciones dentro de la zona de protección.
+c) La realización de obras, instalaciones y actuaciones realizadas sin informe o la autorización preceptivos o que incumplan alguna de las condiciones impuestas dentro de la zona de dominio público, que no sean legalizables.
+d) La colocación o el vertido de objetos, de materiales de cualquier tipo o de basuras dentro de la zona de dominio público de la carretera.
+e) La afección consciente y permanente al tráfico de la carretera por la emisión peligrosa de partículas, humos, olores, gases, ruidos o actividades similares; la invasión de la calzada por animales incontrolados o el derribo de muros, edificaciones o construcciones en estado de ruina que hayan sido objeto de requerimiento previo.
+f) La reincidencia en cualquier de las cualificadas como graves.
+g) Circular con pesos o cargas superiores a los límites autorizados.
+h) Colocar cualquier tipo de publicidad prohibida para ser visible desde la zona de dominio público de la carretera, en el supuesto de que no se hubieran restituido las zonas a su estado anterior a la infracción cometida, en el plazo fijado en el apartado g) del punto anterior, o no retirar carteles informativos o elementos publicitarios cuando los titulares fueran requeridos para ello.
+Se modifica por la disposición final 6.5 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+
+### Artículo 41
+
+Artículo 41.
+El procedimiento sancionador será el establecido en la legislación vigente de procedimiento administrativo.
+
+### Artículo 42
+
+Artículo 42.
+1. Las denuncias de las infracciones contra la carretera y su entorno podrán ser formuladas por los agentes propios del organismo titular o gestor de la carretera, por algún órgano de otras Administraciones, por los agentes de policía o por los particulares.
+2. Los funcionarios encargados de la vigilancia del uso y explotación de la carretera propios del organismo titular o gestor de ésta tendrán la consideración de agentes de la autoridad y sus manifestaciones darán fe, excepto prueba en contrario, en las denuncias hechas por ellos.
+3. En las denuncias, que deben ser por escrito, debe hacerse constar, siempre que sea posible, el día, la hora y el lugar en que se produjo o se advirtió el hecho denunciado, la cantidad estimada del daño producido y todos los datos y las pruebas que ayuden a aclararlo.
+
+### Artículo 43
+
+Artículo 43.
+1. Cuando la infracción afecte la zona de dominio público y constituya a juicio del organismo titular o gestor de la carretera un riesgo cierto para el tráfico, éste podrá actuar de inmediato para eliminar el citado riesgo y pasará el cargo correspondiente al infractor, sin que éste tenga derecho a ninguna indemnización.
+En particular, podrá:
+a) Remover cualquier obstáculo fijo o móvil.
+b) Inmovilizar cualquier clase de vehículo.
+c) Demoler cierres, muros, fábricas de cualquier tipo, elementos de sustentación metálicos o de madera, terraplenes o escolleras.
+d) Llenar y compactar zanjas, pozos y excavaciones.
+e) Eliminar conducciones o tendidos aéreos o subterráneos.
+f) Cerrar accesos.
+g) Suprimir cualquier tipo de publicidad.
+2. Si el riesgo para el tráfico es inminente, proviene de una zona exterior a la de dominio público y no son suficientes para eliminarlo las medidas que se podrán adoptar en ésta, se puede utilizar el procedimiento descrito en el apartado anterior cualquiera que sea la situación del origen del peligro.
+
+### Artículo 44
+
+Artículo 44.
+1. Cuando se haya denunciado la infracción, y con independencia de la instrucción del correspondiente expediente, el Organismo titular o gestor de la carretera dispondrá:
+a) La paralización inmediata de la obra, si la denuncia ha sido realizada por agentes de la autoridad, o
+b) La orden de comprobación de la infracción denunciada, si ha sido realizada por particulares.
+2. Una vez comprobada la infracción en el plazo máximo de dos meses, el Organismo titular o gestor de la carretera deberá adoptar una de las siguientes soluciones:
+a) Dar un plazo de un mes para que el afectado inicie el expediente de legalización de las obras o actuaciones.
+b) Si estas obras o actuaciones no fueran legalizables, dar un plazo máximo de un mes para demolerlas.
+c) Demoler las obras e instalaciones e impedir definitivamente los usos no autorizados o que no se ajusten a las condiciones de la autorización por cuenta del infractor, si no lo hubiere hecho él, en el plazo señalado en el apartado anterior.
+
+### Artículo 45
+
+Artículo 45.
+1. Cualquiera que sea la infracción cometida, el Organismo titular o gestor de la carretera, una vez instruido el expediente, procederá a sancionarla, de acuerdo con los criterios siguientes:
+a) Infracciones leves, multa de hasta 250.000 pesetas.
+b) Infracciones graves, multa de 250.001 a 1.000.000 de pesetas.
+c) Infracciones muy graves, multa de 1.000.001 a 25.000.000 de pesetas.
+2. (Sin contenido)
+Téngase en cuenta, en cuanto a la competencia para imponer las sanciones, la disposición adicional 6.6 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838.
+ Téngase en cuenta que el Gobierno de la Comunidad Autónoma de las Islas Baleares podrá actualizar, mediante decreto publicado únicamente en el BOIB, la cuantía de las sanciones reguladas en este artículo, según establece la disposición adicional 5.
+Se deja sin contenido el apartado 2 por la disposición adicional 6.6 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+ Véase, en cuanto a la competencia para imponer las sanciones, la citada disposición adicional 6.6.
+
+### Artículo 46
+
+Artículo 46.
+Sin perjuicio de las medidas contenidas en el artículo anterior, en el supuesto de que no se atienda a la orden de suspensión de los actos contrarios o que supongan una infracción a esta Ley, el Organismo titular o gestor de la carretera podrá imponer una multa inicial de 25.000 pesetas, si se trata del primer incumplimiento de la orden de suspensión, y, en caso de reiterar este incumplimiento y hasta que no se produzca la suspensión total ordenada, quincenalmente se impondrán sanciones que aumenten la cuantía de la multa impuesta en el periodo sancionador inmediatamente anterior en la misma cantidad de 25.000 pesetas.
+
+### Artículo 47
+
+Artículo 47.
+La imposición de la sanción correspondiente será independiente de la obligación de indemnizar los daños y perjuicios causados en la carretera, cuyo impone será fijado por el Organismo titular o gestor de la misma.
+Independientemente de las multas impuestas en la resolución sancionadora conforme a esta ley, los órganos sancionadores, una vez transcurridos los plazos señalados en el requerimiento correspondiente, podrán imponer multas coercitivas, de conformidad con lo que establece la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, para conseguir la ejecución material de las órdenes de paralización, derribo o transformación que haya ordenado la administración en la resolución sancionadora correspondiente. La cuantía de estas multas coercitivas no podrá superar el 50 % de la multa que se haya impuesto en la resolución sancionadora para la infracción cometida.
+Se añade el segundo párrafo por la disposición final 6.6 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+ Este párrafo ya fue añadido por el Decreto-ley 8/2020, de 13 de mayo.
+ Se añade el segundo párrafo por la disposición final 6.3 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-6
+
+### Artículo 48
+
+Artículo 48.
+En los supuestos en que los actos cometidos contra la carretera o sus elementos complementarios puedan ser constitutivos de delito o falta, el Organismo titular o gestor de la carretera pasará la parte de culpa a la autoridad judicial competente y se abstendrá de proseguir el procedimiento sancionador mientras ésta no se haya pronunciado; la sanción de la autoridad judicial excluirá la imposición de multa administrativa. Si no se había estimado la existencia de delito o falta, la Administración podrá proseguir el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
+
+### Artículo 49
+
+Artículo 49.
+El plazo de prescripción de las infracciones muy graves y graves contra la carretera es de cuatro años, y de un año las leves, excepto las cometidas contra el dominio público, que son imprescindibles.
+Las obras e instalaciones no legalizadas construidas en la zona de protección de una carretera quedarán calificadas como fuera de ordenación. Las realizadas con posterioridad a la vigencia de esta Ley serán consideradas, además, como realizadas en contra del planeamiento existente.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Sin contenido)
+Véase, en cuanto a la regulación de los conflictos, la disposición adicional 6.7 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838.
+Se deja sin contenido por la disposición adicional 6.7 de la Ley 16/2001, de 14 de diciembre. Ref. BOE-A-2002-838
+ Véase, en cuanto a la regulación de los conflictos, la citada disposición adicional 6.7.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las carreteras de las Islas Baleares deben atenerse a la normativa técnica básica dictada por la Administración del Estado, singularmente en lo que se refiere a la ordenación del tráfico y a la señalización.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Reglamentariamente, se establecerán las limitaciones a la circulación en las carreteras de los diversos tipos de vehículos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+En las carreteras de montaña y en aquellas que discurran por espacios de relevancia ambiental o por sus límites, el Consejo de Gobierno podrá acordar la reducción de la anchura de las zonas de dominio, protección y reserva de la carretera.
+Se modifica por la disposición final 31.6 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-31
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Gobernador de la Comunidad Autónoma de las Islas Baleares podrá actualizar, mediante decreto, la cuantía de las sanciones previstas en el artículo 45 de esta Ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Lo previsto en el apartado 4 del artículo 19 de la presente ley, según la nueva redacción dada por la Ley de medidas urgentes relativas a determinadas infraestructuras y equipamientos de interés general en materia de ordenación territorial, urbanismo y de impulso a la inversión, será aplicable a las rondas y vías de carácter urbano, travesías y variantes de travesías no previstas explícitamente en el Plan director sectorial de carreteras, aprobado definitivamente por el Decreto 87/1998, de 16 de octubre, o en la revisión del Plan director sectorial de carreteras para la isla de Mallorca, definitivamente aprobada por acuerdo del pleno del Consejo de Mallorca, en sesión de día 3 de noviembre de 2009, realizadas, aquellas obras, después de la entrada en vigor de estos planes o de sus revisiones, y que se hubieran incluido en un convenio entre los ayuntamientos y las administraciones públicas competentes para colaborar en su financiación.
+Se añade por el art. 7 de la Ley 10/2010, de 27 de julio. Ref. BOE-A-2010-13432#a7
+
+### Disposición adicional sexta [Sic]
+
+Disposición adicional sexta [Sic].
+1. Las administraciones públicas, y especialmente los consejos insulares, deberán velar para que los proyectos de nuevo trazado, duplicaciones de calzada, acondicionamientos, mejoras locales de carreteras y los proyectos que incluyan acondicionamientos en zonas de alto potencial y calidad visual, incorporen interpretación, criterios de protección, gestión y ordenación del paisaje en el sentido de lo que establece el Convenio Europeo del Paisaje. En el caso de existir unas directrices del paisaje aprobadas, ya sea de forma inicial o definitiva, y adaptadas al Convenio Europeo del Paisaje, los proyectos mencionados anteriormente deberán incorporar las disposiciones de las directrices de paisaje aprobadas por cada consejo insular. A estos efectos, el departamento competente en materia de paisaje deberá emitir un informe sobre la adecuación a las directrices del paisaje en el plazo de veinte días desde su remisión; en caso de no emitirlo en el plazo señalado, se entenderá como favorable.
+2. Asimismo, se podrán revisar, a petición del departamento de movilidad y/o infraestructuras o del departamento con competencias en materia de paisaje de cada consejo insular, los proyectos de nuevo trazado, duplicaciones de calzada, acondicionamientos, mejoras locales de carreteras ya aprobadas o en ejecución, a los efectos de adaptar los proyectos e incluir medidas de protección, gestión y ordenación del paisaje o en aplicación de las directrices de paisaje insulares, priorizando la solución técnica que, sin detrimento de la seguridad vial, minimice las afectaciones al paisaje, aunque implique la eliminación de elementos ya instalados o construidos en el caso de proyectos en ejecución. A estos efectos, el departamento con competencias en materia de paisaje de cada consejo insular deberá emitir un informe en el plazo de 20 días desde su solicitud por parte de uno de los dos departamentos antes referenciados y, en caso de no remitirlo en el plazo señalado, este informe se entenderá como favorable.
+3. Lo que se establece en esta disposición no es aplicable para proyectos ya finalizados en su ejecución.
+Se modifica el apartado 1 por la disposición final 2 de la Ley 2/2022, de 6 de junio. Ref. BOE-A-2022-10519#df-2
+ Se añade por la disposición final 6.7 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+ Esta disposición adicional sexta [Sic] ya fue añadida por el Decreto-ley 8/2020, de 13 de may
+ Se añade por la disposición final 6.4 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-6
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las líneas fijadas en los instrumentos de planeamiento vigentes, con la función de delimitar áreas inedificables para la construcción o modificación de carreteras, pasarán a ser los límites de la zona de reserva tal como se define en esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Sin contenido).
+Se deja sin contenido por el art. 60.7 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por la disposición final 6.7 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta que no se apruebe el Plan Director Sectorial, las redes primaria, secundaria y local o rural serán las que hoy son de titularidad de la Comunidad Autónoma, de los Consejeros insulares y del Ayuntamiento, respectivamente.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobernador para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En lo no previsto en esta Ley y en las disposiciones que la desarrollen y en cuanto no se opongan a las mismas será de aplicación subsidiaria la legislación estatal sobre la materia.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+
+Palma de Mallorca, 24 de mayo de 1990.–El Consejero de Obras Públicas y Ordenación del Territorio, Jerónimo Saiz Gomila.–El Presidente, Gabriel Cañellas Fons.

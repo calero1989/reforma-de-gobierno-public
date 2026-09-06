@@ -1,0 +1,1130 @@
+# Ley 1/1991, de 4 de enero, reguladora de las Cajas de Ahorros en Aragón.
+
+- Identificador BOE: `BOE-A-1991-3403`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-3403
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+En nombre del Rey, y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno que se publique en el «Boletín Oficial del Estado» y en el «Boletín Oficial de Aragón»; todo ello de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+PREÁMBULO
+El artículo 39 del Estatuto de Autonomía de Aragón otorga a la Comunidad Autónoma la competencia exclusiva sobre las Cajas de Ahorros para el fomento del desarrollo económico de Aragón, en el marco de la ordenación general de la economía y de acuerdo con las disposiciones que en uso de sus facultades dicte el Estado.
+La Ley 31/1985, de 2 de agosto, de Regulación de las Normas Básicas sobre Órganos Rectores de las Cajas de Ahorros y el Decreto 58/1986, de 20 de mayo, de la Diputación General de Aragón, que la desarrolló para nuestra Comunidad Autónoma, permitieron realizar las primeras renovaciones en los Órganos Rectores de las Cajas de Ahorros aragonesas, tendentes a una mayor democratización de los mismos y compatibles con una cada vez mayor profesionalización de las Entidades.
+La sentencia 49/1988, de 22 de marzo, del Tribunal Constitucional, que declaró no básicos determinados preceptos de la Ley 31/1985, hizo necesaria una regulación por parte de la Comunidad Autónoma en la que además de los órganos rectores se acometiesen todas aquellas cuestiones que en relación con las Cajas permite el Estatuto de Autonomía de Aragón.
+La presente Ley regula en consecuencia tanto la naturaleza y régimen jurídico y económico de las Cajas como los órganos de gobierno, además de otros aspectos no menos importantes para la buena marcha de estas Entidades, como el Defensor del Cliente y la Federación de las Cajas de Ahorros Aragonesas. Igualmente se incluye un título relativo al régimen sancionador.
+La Ley pretende, además de profundizar en la democratización de sus órganos rectores, fomentar la vinculación de las Cajas con las Instituciones de su zona de actuación, buscando su mayor arraigo, compatible con la absoluta garantía de libertad e independencia en su funcionamiento.
+
+## TÍTULO I
+
+Naturaleza, régimen jurídico y económico y obra social y cultural
+
+## CAPÍTULO I
+
+Naturaleza y funciones
+
+### Artículo 1
+
+Artículo 1.
+1. En ejercicio de la competencia que en la materia reconoce el artículo 71.33.ª del Estatuto de Autonomía de Aragón, la presente Ley tiene por objeto la regulación de las Cajas de Ahorros con domicilio social en Aragón.
+2. Será de aplicación a todas las Cajas de Ahorros cuyo domicilio social radique en el territorio de la Comunidad Autónoma de Aragón, independientemente de que las mismas tengan otros domicilios o mantengan oficinas o instalaciones en territorios de otras Comunidades Autónomas españolas o en el extranjero.
+3. El ámbito de actuación de las cajas de ahorro con domicilio social en Aragón no excederá el territorio de la Comunidad Autónoma, si bien podrá sobrepasarse este límite siempre que se actúe sobre un máximo total de diez provincias limítrofes entre sí.
+Se añade el apartado 3 por la disposición final 1.1 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 1 por el art. único.1 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 2
+
+Artículo 2.
+1. A los efectos de la presente ley tienen la consideración de cajas de ahorros las entidades de crédito de carácter fundacional y finalidad social cuya actividad financiera principal se orienta a la captación de fondos reembolsables y a la prestación de servicios bancarios y de inversión para clientes minoristas y pequeñas y medianas empresas.
+2. Las cajas de ahorros con domicilio social en Aragón se rigen por lo dispuesto en esta ley; en la Ley 26/2013, de 27 de diciembre, de cajas de ahorros y fundaciones bancarias, y, supletoriamente, en cuanto sea de aplicación, por lo dispuesto en el Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y demás normas del ordenamiento jurídico-privado.
+Se modifica por la disposición final 1.2 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 3
+
+Artículo 3.
+1. Las actuaciones de las Cajas de Ahorros sujetas a esta Ley quedarán bajo la protección y control de la Diputación General de Aragón, sin perjuicio de las atribuciones que al respecto puedan corresponder al Banco de España u otras Entidades u Organismos de la Administración del Estado.
+2. En el marco de la ordenación general de la economía y de la política monetaria del Estado, dicho protectorado y control se ejercerá de acuerdo con los siguientes principios:
+a) Estimular las acciones de las Cajas de Ahorros encaminadas a mejorar el nivel social y económico en su ámbito de actuación.
+b) Velar por el cumplimiento de la función económico-social de las Cajas de Ahorros, suministrando, en su caso, los criterios para la realización por éstas de una adecuada política de administración e inversión del ahorro que les haya sido confiado.
+c) Velar por la independencia, estabilidad y prestigio de las Cajas de Ahorros.
+
+### Artículo 4
+
+Artículo 4.
+1. Las cajas de ahorro con domicilio social en la Comunidad Autónoma de Aragón, además de las finalidades previstas en el artículo 2.1, tienen como fin el desarrollo de actividades de interés público que, directa o indirectamente, contribuyan a mejorar el nivel socioeconómico de la Comunidad Autónoma, así como a su equilibrio territorial.
+2. En el ejercicio de sus actividades regulares, las Cajas aragonesas podrán efectuar cuantas operaciones económicas y financieras estimen convenientes, dentro de los límites autorizados por la legislación vigente.
+3. Los excedentes líquidos de dichas operaciones se dedicarán a la constitución de reservas y a la dotación de su obra social y cultural.
+Se modifica el apartado 1 por la disposición final 1.3 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 1 por el art. único.1 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+## CAPÍTULO II
+
+Creación, fusión y disolución
+
+### Artículo 5
+
+Artículo 5.
+Corresponde a la Diputación General aprobar la creación de nuevas Cajas, sin perjuicio de las competencias que la legislación estatal atribuya en la materia a la Administración del Estado.
+
+### Artículo 6
+
+Artículo 6.
+1. La creación de nuevas Cajas de Ahorros deberá formalizarse en escritura pública, en la que necesariamente se hará constar:
+a) Las personas físicas o jurídicas fundadoras.
+b) La voluntad de constituir una Caja de Ahorros con sumisión a las disposiciones vigentes.
+c) Los Estatutos que regularán el funcionamiento de la futura Entidad.
+d) La dotación inicial, con descripción pormenorizada de los bienes y derechos que la integren, su titularidad, relación de cargas, si las hubiere, y el carácter de la aportación.
+e) La organización y funciones del patronato de la Entidad y las personas que lo integran.
+2. Si la voluntad fundacional estuviese manifestada en testamento o pacto sucesorio, la misma será ejecutada por las personas designadas por el fundador, las cuales otorgarán la escritura pública de fundación, completando la voluntad fundacional en la forma prevista en esta Ley.
+3. En la escritura fundacional deberá quedar nombrado el primer Director general de la Entidad, cuyo nombramiento deberá ser ratificado en el primer Consejo de Administración que se constituya.
+
+### Artículo 7
+
+Artículo 7.
+1. La primera copia auténtica de la escritura fundacional, junto con los Estatutos y demás documentación que reglamentariamente se determine, será presentada al Departamento de Economía de la Diputación General de Aragón.
+2. Corresponde a la Diputación General, previo dictamen del Consejero de Economía, aprobar la documentación presentada.
+3. Con carácter previo a la emisión de su dictamen, el Consejero de Economía recabará informe del Banco de España en relación con el cumplimiento de la normativa vigente, remitiéndole a tal fin la documentación precisa. Dicho informe no tendrá carácter vinculante y se entenderá emitido en sentido favorable a la autorización si transcurriesen tres meses desde su requerimiento y no se hubiere recibido.
+4. Del acuerdo adoptado por la Diputación General se dará traslado inmediato a los fundadores.
+5. Si no se aprueba la creación de la Caja, se procederá de oficio a su inscripción en el Registro de Cajas de Ahorros de la Comunidad Autónoma de Aragón a que esta Ley se refiere.
+6. La inscripción tendrá valor constitutivo y desde que la misma se produzca la Caja adquirirá plena personalidad jurídica y capacidad de obrar, pudiendo iniciar sus actividades desde ese mismo instante.
+
+### Artículo 8
+
+Artículo 8.
+1. La creación de una Caja de Ahorros sólo podrá ser denegada por incumplimiento de los requisitos exigidos por el ordenamiento jurídico o por notoria inadecuación o insuficiencia de la dotación fundacional al objeto y finalidades de la nueva Entidad.
+2. Reglamentariamente se establecerán las normas especiales de intervención y control de las Cajas de Ahorros, las cuales se aplicarán durante un período transitorio que no excederá de dos años. La inscripción en el Registro será considerada como definitiva una vez finalizado dicho período y realizada la inspección correspondiente.
+3. Si la Diputación General denegase la creación de la Caja o la conversión de la inscripción provisional en definitiva, se aplicará al patrimonio lo establecido por la norma fundacional o, en su defecto, lo legalmente previsto para el caso de disolución y liquidación de las Cajas de Ahorros.
+
+### Artículo 9
+
+Artículo 9.
+Las inscripciones concedidas no son transmisibles mediante título ni causa jurídica alguna. Cualquier actuación en contrario será nula de pleno derecho, sin perjuicio de las responsabilidades a que hubiere lugar.
+
+### Artículo 10
+
+Artículo 10.
+1. El patronato inicial de la fundación tendrá atribuidas provisionalmente las funciones propias del Consejo de Administración y aprobará los reglamentos internos de la Caja.
+2. El patronato iniciará el proceso de constitución de la primera Asamblea general en un plazo no superior a los seis meses siguientes desde el comienzo de la actividad de la Caja, y convocará la misma en el plazo máximo de seis meses desde la finalización del citado proceso
+3. En el primer Consejo de Administración de la Caja, además de los Vocales elegidos, figurarán, con voz y voto, los miembros del patronato fundacional, los cuales cesarán por mitades a los dos y cuatro años de la constitución de la primera Asamblea general, sin perjuicio de que puedan ser elegidos como Vocales.
+
+### Artículo 11
+
+Artículo 11.
+1. La inscripción en el Registro de Cajas de Ahorros de la Comunidad Autónoma llevará consigo la utilización con carácter privativo de las denominaciones «Cajas de Ahorros» y «Monte de Piedad».
+2. Ninguna Entidad o Empresa no inscrita podrá utilizar en su denominación marcas, rótulos, modelos, anuncios o expresiones que induzcan a error sobre su naturaleza,
+3. La Diputación General de Aragón, a través del Departamento de Economía, velará por el estricto cumplimiento de esta normativa.
+
+### Artículo 12
+
+Artículo 12.
+1. Toda fusión de Cajas de Ahorros en la que intervengan una Caja domiciliada en la Comunidad Autónoma requerirá, sin perjuicio de las demás autorizaciones previstas en las leyes, la previa de !a Diputación General. Sin ella la fusión será nula.
+2. Con carácter previo a la concesión o rechazo de la autorización, la Diputación General recabará informe del Banco de España, que tendrá el mismo régimen jurídico que el previsto para el exigido en el artículo 8.° de la presente Ley.
+3. La denegación de la autorización sólo podrá producirse mediante resolución motivada cuando la entidad resultante pudiera incumplir cualesquiera de los requisitos objetivos previstos en la presente Ley.
+Se añade el apartado 3 por el art. único.2 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 13
+
+Artículo 13.
+Son requisitos necesarios para que la Diputación General autorice las fusiones de Cajas de Ahorros aragonesas:
+a) Que las Entidades que deseen fusionarse no se encuentren en período de liquidación, ni respecto de ellas exista acuerdo de disolución.
+b) Que de la fusión no resulte perjuicio para los impositores o acreedores de las Cajas aragonesas que pretendan integrarse.
+c) Que se garantice la estabilidad laboral de las plantillas de las Entidades aragonesas que soliciten la fusión,
+d) Que se equiparen las condiciones económico-sociales de los trabajadores de las Cajas aragonesas fusionadas a la situación más ventajosa de cualquiera de las Entidades que conformen la integración.
+
+### Artículo 14
+
+Artículo 14.
+1. La fusión que conlleve la pérdida de la personalidad jurídica inicial de una caja de ahorros con domicilio social en la Comunidad Autónoma de Aragón o el cambio del domicilio social de la caja aragonesa correspondiente, así como la absorción por una caja de ahorros con domicilio social en la Comunidad Autónoma de Aragón de otra caja de ahorros, requerirá el voto favorable de dos tercios de los miembros tanto del consejo de administración como de la asamblea general. Dichos acuerdos serán adoptados en respectivas sesiones extraordinarias convocadas al efecto.
+2. La denegación de las referidas autorizaciones sólo podrá producirse mediante resolución motivada cuando la entidad resultante pudiera incumplir cualquiera de los requisitos objetivos previstos en esta ley.
+Se modifica por la disposición final 1.4 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifican los apartados 1 y 2 por el art. único.2 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+ Se declara inconstiticional y nulo el apartado 2 por Sentencia del TC 62/1993, de 18 de febrero. Ref. BOE-T-1993-7649
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 2 por Auto de 17 de septiembre de 1991. Ref. BOE-A-1991-23845
+ Se suspende la vigencia y aplicación del apartado 2, desde el 17 de abril de 1991 para las partes en el proceso y desde el 27 de abril de 1991 para los terceros, por providencia del TC de 22 de abril que admite a trámite el recurso de inconstitucionalidad nº 814/1991814/1991. Ref. BOE-A-1991-10289
+
+### Artículo 15
+
+Artículo 15.
+La autorización para la fusión, los acuerdos adoptados al respecto por las Entidades fusionadas, así como las circunstancias esenciales de la integración, serán publicados en el «Boletín Oficial de Aragón» y en los diarios de mayor circulación de cada uno de los territorios de actuación de las respectivas Cajas.
+Si la fusión afecta a Entidades cuyo ámbito de actuación territorial traspase los límites de la Comunidad Autónoma, tales publicaciones se efectuarán, además, en el «Boletín Oficial del Estado».
+
+### Artículo 16
+
+Artículo 16.
+El acuerdo de disolución de una Caja de Ahorros requerirá la mayoría de las dos terceras partes de los miembros del Consejo de Administración y la mayoría absoluta de la Asamblea general. Ambos acuerdos serán adoptados en respectivas sesiones extraordinarias convocadas al efecto.
+
+### Artículo 17
+
+Artículo 17.
+La disolución y el proyecto de liquidación acordados por el Consejo de Administración y la Asamblea general deberán ser autorizados por la Diputación General.
+
+### Artículo 17 bis
+
+Artículo 17 bis.
+El Gobierno de Aragón dará traslado inmediatamente a las Cortes de Aragón de todos los acuerdos que adopte autorizando la constitución, fusión, disolución o cambio de domicilio social de una Caja de Ahorros.
+Se añade por el art. único.3 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 18
+
+Artículo 18.
+En toda liquidación de una Caja de Ahorros aragonesa intervendrá un representante de la Comunidad Autónoma de Aragón, nombrado por la Diputación General, con plenas facultades de control.
+
+### Artículo 19
+
+Artículo 19.
+Los bienes resultantes de la liquidación se adjudicarán a obras socioculturales radicadas en las zonas de actuación de la Caja, de acuerdo con lo que se establezca reglamentariamente.
+
+### Artículo 19 bis
+
+Artículo 19 bis.
+1. Las cajas de ahorros que no cumplan los requisitos establecidos en la Ley 26/2013, de 27 de diciembre, para operar como tales deberán transformarse en fundación. A tal efecto, traspasarán todo el patrimonio afecto a su actividad financiera a otra entidad de crédito a cambio de acciones de esta última y se transformarán en una fundación bancaria o, en su caso, en una fundación ordinaria, perdiendo su condición de entidad de crédito.
+2. El procedimiento de transformación de las cajas de ahorros es el regulado en el artículo 6 de la Ley de Fundaciones Bancarias de Aragón y en el artículo 35 de la Ley 26/2013, de 27 de diciembre.
+Se añade por la disposición final 1.5 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+## CAPÍTULO III
+
+Registro de Cajas de Ahorros
+
+### Artículo 20
+
+Artículo 20.
+Se crea el Registro de Cajas de Ahorros de la Comunidad Autónoma de Aragón. En él se harán constar, en la forma que reglamentariamente se determine:
+a) La denominación de la Institución.
+b) Su domicilio social.
+c) La fecha de la escritura de fundación.
+d) La Corporación, Entidad o personas fundadoras.
+e) Los estatutos y reglamentos correspondientes.
+f) Número de orden y autorización de entrada en el Registro.
+g) Relación de agencias y sucursales.
+h) Posibles acuerdos de fusión, absorción o transformación en fundación bancaria u ordinaria.
+i) Los acuerdos de disolución, liquidación y adjudicación.
+j) Las autorizaciones que la Diputación General de Aragón conceda en relación con sus competencias, de acuerdo con esta Ley.
+k) Los balances anuales de la Entidad, debidamente aprobados.
+l) La composición de sus órganos rectores y de control, así como las variaciones que se produzcan en los mismos.
+Se modifica la letra h) por la disposición final 1.6 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 21
+
+Artículo 21.
+1. El Registro de Cajas de Ahorros será público. Cualquier persona que justifique interés legítimo podrá obtener certificación de los datos obrantes en el mismo, en los términos y circunstancias que reglamentariamente se determinen.
+2. Todo acuerdo inscribible de la Diputación General de Aragón deberá, además, ser publicado en el «Boletín Oficial de Aragón».
+
+## CAPÍTULO IV
+
+Régimen económico
+
+### Artículo 22
+
+Artículo 22.
+En el marco de la legislación básica sobre ordenación del crédito y la banca, y para el fomento del desarrollo de Aragón, corresponde a la Diputación General el ejercicio de las funciones de impulso, coordinación e inspección de las Cajas de Ahorros sometidas a la presente Ley.
+
+### Artículo 23
+
+Artículo 23.
+1. En el marco de la política monetaria y de la ordenación del crédito del Estado, el Departamento de Economía de la Diputación General de Aragón calificará las inversiones computables en el coeficiente de inversión de las Cajas.
+2. La Diputación Genera!, a propuesta del Departamento de Economía, y en los términos que se establezca en el reglamento que desarrolle esta Ley, podrá someter a autorización previa determinadas inversiones de las Cajas de Ahorros con domicilio social en Aragón.
+
+### Artículo 24
+
+Artículo 24.
+1. Las Cajas de Ahorros comunicarán a la Diputación General, a través del Departamento de Economía, el cierre y apertura de oficinas.
+2. También comunicarán la relación de empresas y sociedades en las que la Caja de Ahorros participe, al menos, en un 3 por 100 del capital social de la Entidad y porcentaje con que lo haga, préstamos a ellas concedidos y situación en que se encuentran los mismos, y datos personales de los representantes que en cada momento mantenga la Entidad en dichas empresas y sociedades.
+
+### Artículo 25
+
+Artículo 25.
+Corresponde al Departamento de Economía aprobar los acuerdos adoptados por la Asamblea general de las Cajas de Ahorros relativos a la determinación de los excedentes y a su distribución conforme a la normativa aplicable.
+
+### Artículo 26
+
+Artículo 26.
+1. Las Cajas de Ahorros estarán obligadas a facilitar al Departamento de Economía, en la forma que reglamentariamente se determine, toda case de información sobre su actividad y gestión.
+2. Anualmente, las Cajas de Ahorros aragonesas redactarán una Memoria explicativa de su actividad económica, administrativa y social. Dicha Memoria contendrá necesariamente el balance y la cuenta de resultados al 31 de diciembre anterior, y será remitida al Departamento de Economía de la Diputación General de Aragón.
+
+### Artículo 27
+
+Artículo 27.
+1. Las Cajas de Ahorros deberán someter a auditoría externa los estados financieros y las cuentas de resultados de cada ejercicio. El informe resultante de dicha auditoría será remitido al Departamento de Economía.
+2. También remitirán a dicho Departamento, a petición expresa de la Diputación General, los resultados de las inspecciones que el Banco de España o cualquier otro organismo competente realice a las Cajas.
+
+### Artículo 27 bis
+
+Artículo 27 bis.
+Las Cajas de Ahorros con domicilio social en Aragón deberán elaborar y hacer público con carácter anual un informe de gobierno corporativo en los términos y condiciones previstos en la normativa vigente que resulte de aplicación.
+Se añade por el art. único.3 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+## CAPÍTULO V
+
+Obra social y cultural
+
+### Artículo 28
+
+Artículo 28.
+1. En el marco de la normativa básica del Estado, las Cajas de Ahorro con domicilio social en la Comunidad Autónoma de Aragón destinarán la totalidad de los excedentes que, conforme a las normas vigentes, no se apliquen a reservas a la dotación de un fondo para la obra social y cultural, que tendrá por finalidad la financiación de obras, propias o en colaboración, en los campos de la enseñanza, los servicios de asistencia social, la investigación, la innovación, la cultura, la sanidad pública y otras actuaciones de carácter estratégico que impulsen y fomenten el desarrollo socioeconómico de su ámbito de actuación.
+La obra social de las cajas de ahorros podrá tener como destinatarios a los impositores, a los empleados de la propia caja y a colectivos necesitados, y se dedicará a fines de interés público para contribuir al desarrollo social y económico de Aragón, así como a su equilibrio territorial.
+2. Cuando una Caja con domicilio social en la Comunidad Autónoma de Aragón actúe habitualmente en más de una comunidad autónoma, la dotación de la obra social y cultural para cada uno de los territorios de su actuación se adaptará a las necesidades específicas de desarrollo socioeconómico de dichos territorios.
+3. Las Cajas de Ahorro que operen en el territorio de la Comunidad Autónoma de Aragón sin tener su domicilio social en el mismo han de efectuar inversiones o gastos en obra social y cultural en Aragón, destinando a tal efecto, como mínimo, la parte proporcional del presupuesto anual de la obra social y cultural en función de los recursos ajenos captados de esta Comunidad Autónoma con respecto al total de la entidad.
+Se añade un párrafo al apartado 1 por la disposición final 1.7 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.4 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 28 bis
+
+Artículo 28 bis.
+1. Las Cajas de Ahorro realizarán su obra social y cultural por sí mismas, en colaboración con otras instituciones públicas o privadas, o, incluso, en relación con otras Cajas. A la obra social y cultural no gestionada directamente por las Cajas le serán de aplicación los mismos principios y criterios que a la gestionada directamente.
+2. El Gobierno de Aragón establecerá las directrices y prioridades en relación con la obra social y cultural e indicará las principales necesidades y carencias sobre las que se debe actuar, respetando, en el marco previamente definido, la libertad de cada Caja para decidir el destino concreto de las inversiones.
+Se añade por el art. único.5 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 29
+
+Artículo 29.
+1. Corresponderá al departamento del Gobierno de Aragón competente en materia de economía autorizar la distribución de resultados aprobada por la Asamblea General de la Caja, y, en particular, autorizará las dotaciones presupuestarias anuales para sostenimiento de las obras sociales y culturales propias y en colaboración, incluidas las personas jurídicas de titularidad de la entidad o de la obra social y cultural, establecidas con anterioridad y las asignaciones para la realización de otras nuevas.
+2. La solicitud de la autorización a la que se refiere el apartado anterior deberá ser resuelta y notificada en el plazo de un mes desde su recepción en el registro del órgano competente para su tramitación. Transcurrido dicho plazo sin que se haya notificado la resolución, se entenderá otorgada la autorización.
+Se modifica por el art. único.6 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 29 bis
+
+Artículo 29 bis.
+1. Las Cajas de Ahorro formularán un presupuesto anual de la obra social y cultural. Dicho presupuesto deberá contener información individualizada y suficiente de todas las obras propias y en colaboración, tanto nuevas como ya establecidas, especificando su finalidad y las correspondientes dotaciones para su sostenimiento.
+En todo caso, el presupuesto anual de la obra social y cultural recogerá un fondo para actuaciones a llevar a cabo con carácter de emergencia, que no podrá superar el 5 por 100 del total presupuestado. Las dotaciones de este fondo no comprometidas durante el ejercicio correspondiente se incorporarán a la dotación de la obra social y cultural del siguiente año.
+2. Las Cajas, a través de sus órganos de gobierno, habrán de disponer de una gestión profesionalizada de las inversiones de la obra social y cultural.
+Se añade por el art. único.7 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+## TÍTULO II
+
+Órganos de gobierno
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 30
+
+Artículo 30.
+1. La administración, gestión, representación y control de las Cajas de Ahorros corresponde a los siguientes Órganos de gobierno:
+a) La Asamblea general.
+b) El Consejo de Administración.
+c) La Comisión de Control.
+Dichos Órganos actuarán siempre de forma colegiada, con sujeción a lo dispuesto en la presente Ley.
+2. Adicionalmente, en el seno del consejo de administración, se constituirán las comisiones de inversiones, de retribuciones y nombramientos y de obra social.
+Se modifica el apartado 2 por la disposición final 1.8 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añade el apartado 2 y se integra el anterior 2 en el 1 por el art. único.4 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 31
+
+Artículo 31.
+1. Los componentes de los órganos de gobierno ejercerán sus funciones con plena independencia y libertad en beneficio exclusivo de los intereses de la caja y del cumplimiento de las finalidades previstas en esta ley, la normativa básica estatal y los estatutos. En sus actuaciones sólo rendirán cuentas ante el órgano de gobierno a que pertenezcan y, en su caso, ante la asamblea general.
+2. Deberán reunir los requisitos de honorabilidad, experiencia y buen gobierno exigidos por la legislación aplicable a estos efectos a los miembros del órgano de administración y cargos equivalentes de los bancos. Dicha exigencia es aplicable, en particular, a los vocales del consejo de administración y los directores generales o asimilados, así como los responsables de las funciones de control interno y quienes desempeñen otros puestos clave para el desarrollo diario de la actividad de la entidad.
+3. Los miembros de los órganos de gobierno de las cajas de ahorros deberán guardar secreto sobre las informaciones que, con este carácter, reciban en el ejercicio de su actividad en dichos órganos.
+Se modifica por la disposición final 1.9 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 31 bis
+
+Artículo 31 bis.
+1. El ejercicio del cargo de miembro de los órganos de gobierno de una caja de ahorros será incompatible con el de todo cargo político electo y con cualquier cargo ejecutivo en partido político, asociación empresarial o sindicato.
+2. El ejercicio del cargo de miembro de los órganos de gobierno de una caja de ahorros será igualmente incompatible con el de alto cargo de la Administración de la Comunidad Autónoma de Aragón, la Administración General del Estado, la Administración de las comunidades autónomas y la Administración local, así como de las entidades del sector público, de derecho público o privado, vinculadas o dependientes de aquellas. Tal incompatibilidad se extenderá durante los dos años siguientes a la fecha del cese de los altos cargos.
+Se añade por la disposición final 1.10 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 32
+
+Artículo 32.
+1. En el Registro de Cajas de Ahorros existirá una Sección especial, en la cual se inscribirán el nombramiento, reelección, en su caso, y cese de los miembros del Consejo de Administración y de la Comisión de Control de las Cajas de Ahorros aragonesas.
+2. Esta Sección sólo tendrá carácter informativo.
+3. Los nombramientos, reelecciones y ceses de miembros del Consejo de Administración y de la Comisión de Control deberán comunicarse al Departamento de Economía y al Banco de España en un plazo no superior a quince días.
+
+### Artículo 33
+
+Artículo 33.
+De acuerdo con las disposiciones de esta Ley y normas reglamentarias que la desarrollen, los estatutos y reglamentos de las Cajas regularán el funcionamiento de sus Órganos de gobierno y, en particular:
+a) Los requisitos para la convocatoria de la Asamblea general, sus plazos y necesaria publicidad.
+b) Requisitos para la convocatoria de las sesiones del Consejo de Administración y de la Comisión de Control.
+c) Los procedimientos de elección de cada uno de ellos.
+d) Quórum exigido para la validez de sus reuniones y mayorías necesarias para la adopción de acuerdos.
+e) Las reglas para la renovación parcial de sus miembros.
+f) Los procedimientos para cubrir las vacantes que se produzcan en dichos Órganos.
+g) Las garantías para el ejercicio de los derechos y deberes de los Consejeros generales y de los miembros del Consejo de Administración en el ejercicio de sus funciones.
+
+### Artículo 33 bis
+
+Artículo 33 bis.
+El ejercicio de las funciones de los miembros de los órganos de gobierno de las Cajas de Ahorros diferentes de las de Consejeros Generales de la asamblea podrá ser retribuido. Corresponderá a la Asamblea General la determinación del régimen de retribución.
+Se añade por el art. único.5 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+## CAPÍTULO II
+
+Asamblea general
+
+### Artículo 34
+
+Artículo 34.
+1. La asamblea general de las cajas de ahorros es el órgano supremo de gobierno de las mismas. Vela por la integridad del patrimonio de la caja, la salvaguardia de los intereses de los impositores y por la consecución de los fines de utilidad pública de la Entidad, y fija las normas directrices de su actuación.
+2. Los miembros de la asamblea general se denominarán consejeros generales y en su composición se reflejarán adecuadamente los intereses de las entidades fundadoras, de los impositores y de los destinatarios de la obra social.
+Se modifica por la disposición final 1.11 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 2 por el art. único.6 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 35
+
+Artículo 35.
+1. Los consejeros generales habrán de reunir los siguientes requisitos:
+a) Ser persona física, mayor de edad, con residencia habitual en la zona de actuación de la caja y en plena posesión de sus derechos civiles.
+b) No estar afectado por las incompatibilidades reguladas en el artículo 36 de esta ley.
+c) Ser persona con honorabilidad comercial y profesional. Se entenderá que concurre este requisito en quienes hayan venido observando una trayectoria personal de respeto a las leyes mercantiles u otras que regulan la actividad económica y la vida de los negocios, así como las buenas prácticas comerciales y financieras.
+En todo caso, se entenderá que carecen de tal honorabilidad quienes, en España o en el extranjero, tengan antecedentes penales por delitos dolosos, estén inhabilitados para ejercer cargos públicos o de administración o dirección de entidades financieras, o estén inhabilitados conforme a la Ley 22/2003, de 9 de julio, Concursal, mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso, y los quebrados y concursados no rehabilitados en procedimientos concursales anteriores a la entrada en vigor de la referida Ley.
+d) Estar al corriente en el cumplimiento de las obligaciones que hubieran contraído con la caja de ahorros por sí mismos o en representación de otras personas o entidades.
+2. Adicionalmente, en el caso de ser elegido en representación del grupo de los impositores, los consejeros deberán tener la condición de impositor de la caja de ahorros a que se refiera la designación con una antigüedad superior a dos años en el momento de la elección. Asimismo, deberán tener un saldo medio en cuentas en el último semestre no inferior a 500 euros.
+3. Los compromisarios a los que esta ley se refiere habrán de reunir los mismos requisitos exigidos a los consejeros generales.
+4. En ningún caso se podrá acumular simultáneamente más de una representación en la asamblea general.
+Se modifica por la disposición final 1.12 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 1 por el art. único.7 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica el apartado 1 por el art. único.8 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+ Se declara inconstiticional y nulo el inciso destacado en el apartado 1.a) por Sentencia del TC 62/1993, de 18 de febrero. Ref. BOE-T-1993-7649
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1.a) por Auto de 17 de septiembre de 1991. Ref. BOE-A-1991-23845
+ Se suspende la vigencia y aplicación del apartado 1.a), desde el 17 de abril de 1991 para las partes en el proceso y desde el 27 de abril de 1991 para los terceros, por providencia del TC de 22 de abril que admite a trámite el recurso de inconstitucionalidad nº 814/1991814/1991. Ref. BOE-A-1991-10289
+
+### Artículo 36
+
+Artículo 36.
+Además de aquellos que se hallen incursos en las causas de incompatibilidad aplicables a todos los miembros de los órganos de gobierno de las cajas de ahorros reguladas en el artículo 31 bis) de esta ley, no podrán ostentar el cargo de consejero general:
+a) Los presidentes, consejeros, administradores, directores, gerentes, asesores o asimilados de otra entidad de crédito o de corporaciones o entidades que propugnen, sostengan o garanticen instituciones o establecimientos de crédito o financieros, o las personas al servicio de la Administración General del Estado o de las comunidades autónomas que realicen funciones directamente relacionadas con las actividades propias de las cajas de ahorros. Se exceptúa de lo previsto en esta letra a quienes ostenten cargos en otras entidades de crédito en representación de la caja o promovidos por ella.
+b) Los que se encuentren ligados a la caja de ahorros o a sociedad en cuyo capital participe aquella por contratos de obras, servicios, suministros o cualquier otro trabajo retribuido, con excepción de aquellos que estén vinculados a la caja por relación laboral, durante el período en que se mantenga vigente la respectiva relación y dos años después, computados a partir de su extinción.
+c) Los que, por sí mismos o en representación de otras personas o entidades:
+1.º Mantuviesen, en el momento de ser elegidos los cargos, deudas vencidas y exigibles de cualquier clase frente a la entidad.
+2.º Durante el ejercicio del cargo de consejero hubieran incurrido en el incumplimiento de las obligaciones contraídas con la caja con motivo de créditos o préstamos o por impago de deudas de cualquier clase frente a la entidad.
+Se modifica por la disposición final 1.13 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifican los apartados 1.b), e) y se añade el f) por el art. único.8 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica por el art. único.9 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+ Se declara inconstiticional y nulo este artículo por Sentencia del TC 62/1993, de 18 de febrero. Ref. BOE-T-1993-7649
+ Se mantiene la suspensión de la vigencia y aplicación de este artículo por Auto de 17 de septiembre de 1991. Ref. BOE-A-1991-23845
+ Se suspende la vigencia y aplicación de este artículo, desde el 17 de abril de 1991 para las partes en el proceso y desde el 27 de abril de 1991 para los terceros, por providencia del TC de 22 de abril que admite a trámite el recurso de inconstitucionalidad nº 814/1991814/1991. Ref. BOE-A-1991-10289
+
+### Artículo 37
+
+Artículo 37.
+1. Los consejeros generales serán nombrados por un período que será el señalado en los estatutos, sin que pueda ser inferior a cuatro años ni superior a seis. Cumplido el mandato de forma continuada o interrumpida, podrán volver a ser elegidos si así lo prevén los estatutos y continuasen cumpliendo los requisitos establecidos en esta ley.
+2. La renovación de los Consejeros Generales, que se efectuará en la forma que determinen los Estatutos de la Caja, no podrá suponer una renovación total o una renovación parcial que pueda asimilarse a la total, dado el porcentaje renovado o la proximidad temporal entre renovaciones, y se efectuará, en todo caso, respetando la proporcionalidad de las representaciones que componen la Asamblea General.
+Se modifica el apartado 1 por la disposición final 1.14 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.9 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica por el art. único.10 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 37 bis
+
+Artículo 37 bis.
+1. En tanto no se haya cumplido el plazo para el que fueron designados, y fuera de los casos de renuncia, defunción o declaración de fallecimiento o ausencia legal, el nombramiento de los consejeros generales será irrevocable salvo, exclusivamente, en los supuestos de incompatibilidad sobrevenida, pérdida de cualquiera de los requisitos exigidos para la designación o acuerdo de separación adoptado por la asamblea general si se apreciara justa causa.
+Se entenderá que existe justa causa cuando el consejero general incumpla los deberes inherentes a su cargo o perjudique con su actuación, pública o privada, el prestigio, buen nombre o actividad de la caja.
+2. Quienes hayan ostentado la condición de miembro de un órgano de gobierno de la caja de ahorros no podrán celebrar con la misma contratos de obras, suministros, servicios o trabajos retribuidos durante un período mínimo de dos años, contados a partir del cese en el correspondiente órgano de gobierno, sin perjuicio de la continuidad de la relación laboral en el caso de los empleados de la caja designados por el grupo de representación al que se refiere el artículo 21 de esta Ley.
+Se añade por la disposición final 1.15 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 38
+
+Artículo 38.
+1. Los Consejeros generales cesarán en el ejercido de sus cargos en cualquiera de los supuestos siguientes:
+a) Por cumplimiento del plazo para el que fueron designados.
+b) Por renuncia expresa del interesado.
+c) Por defunción o declaración de fallecimiento.
+d) Por declaración de ausencia o de incapacidad.
+e) Por pérdida de cualquiera de los requisitos exigidos para su elección.
+f) Por incurrir en alguna de las incompatibilidades establecidas en la presente Ley.
+g) Por acuerdo de separación, adoptado por la Asamblea General si apreciara justa causa. Se entenderá que concurre justa causa cuando el consejero incumpla los deberes inherentes a su cargo o perjudique con su actuación, pública o privada, el prestigio, buen nombre o actividad de la Caja.
+2. El cese de Consejeros generales no afectará a la distribución de puestos en el Consejo de Administración de la Caja.
+Se añade la letra g) al apartado 1 por el art. único.10 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 39
+
+Artículo 39.
+Sin perjuicio de las facultades generales de gobierno, competen de forma especial a la asamblea general las siguientes funciones:
+a) El nombramiento de los vocales del consejo de administración y de los miembros de la comisión de control, de la comisión de retribuciones y nombramientos y de la comisión de obra social, así como la adopción de los acuerdos de separación del cargo que correspondan de conformidad con lo establecido en el artículo 33 de esta ley.
+b) La aprobación y modificación de los estatutos y del reglamento.
+c) La disolución y liquidación de la entidad, su fusión o integración con otras y su transformación en una fundación ordinaria o bancaria.
+d) Definir anualmente las líneas generales del plan de actuación de la entidad, para que pueda servir de base a la labor del consejo de administración y de la comisión de control.
+e) La aprobación, en su caso, de la gestión del consejo de administración y de las cuentas anuales.
+f) La creación y disolución de obras sociales, así como la aprobación de sus presupuestos anuales y de la gestión y liquidación de los mismos.
+g) Cualesquiera otros asuntos que se sometan a su consideración por los órganos facultados al efecto.
+Se modifica por la disposición final 1.16 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifican los apartados a), f) y g) y se renumeran los anteriores g) a j) por el art. único.11 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se añaden las letras i) y j) por el art. único.11 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 40
+
+Artículo 40.
+1. Las Asambleas de las Cajas podrán ser ordinarias o extraordinarias.
+2. La Asamblea se reunirá con carácter ordinario una vez al año.
+En la que se celebre durante el primer semestre se someterá a su aprobación la Memoria, el Balance y la Cuenta de Resultados, correspondientes todos ellos al ejercicio económico del año anterior.
+También se debatirá en dicha sesión el proyecto de aplicación de excedentes y la dotación de la obra social y cultural.
+En la que se celebre durante el segundo semestre se someterán a aprobación las directrices básicas del plan de actuación de la Entidad y de los presupuestos para el ejercicio siguiente.
+3. La Asamblea se reunirá con carácter extraordinario cuando lo decida el Consejo de Administración, por mayoría absoluta de sus miembros, a petición, como mínimo, de un tercio de los miembros de la Asamblea, o a solicitud de la Comisión de Control, cuando se trate de materias de su competencia. La petición de convocatoria deberá expresar los asuntos a tratar en la reunión.
+En las Asambleas extraordinarias sólo podrán tratarse los asuntos que constituyan el objeto para el cual han sido convocadas.
+En todo caso, la convocatoria de Asamblea extraordinaria se efectuará en el plazo máximo de quince días desde la presentación de la correspondiente petición y se celebrará, también como máximo, dentro de los cuarenta y cinco días siguientes a dicha petición.
+Se modifica el párrafo primero del apartado 2 por la disposición final 1.17 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 41
+
+Artículo 41.
+1. La Asamblea general será convocada en sesión ordinaria por el Consejo de Administración en la forma que establezcan los Estatutos de la Caja, con una antelación mínima de quince días.
+2. La convocatoria será comunicada a los Consejeros generales y contendrá indicación de la fecha, lugar de la reunión, orden del día y hora de celebración en primera convocatoria y, en su caso, en segunda. Se publicará, además, en el «Boletín Oficial del Estado», «Boletín Oficial de Aragón» y en un diario, como mínimo, de amplia difusión en la zona de actuación de la Caja; cuando ésta tenga oficinas abiertas en otras Comunidades Autónomas, la publicación se hará también en un diario de amplia difusión de la correspondiente Comunidad.
+Los estatutos podrán establecer, en sustitución del sistema anterior, que la convocatoria se realice mediante anuncio publicado en la página web de la caja, o por cualquier procedimiento de comunicación, individual y escrita, que asegure la recepción del anuncio por todos los consejeros generales.
+3. El orden del día será acordado por el Consejo de Administración de la Entidad y en él figurarán también aquellos asuntos de su competencia que hayan sido solicitados por la Comisión de Control y los que, llevando la firma de, al menos, un 25 por 100 de los miembros de la Asamblea, hayan sido comunicados a la Presidencia con la antelación suficiente para poder ser recogidos en el orden del día aprobado por el Consejo.
+4. Desde la fecha de la convocatoria hasta la celebración de la Asamblea, los Consejeros Generales podrán examinar en la sede de la entidad la documentación justificativa de la memoria, el balance y la cuenta de resultados, el informe de la comisión de control y el de las auditorías realizadas, así como cualquier otro informe preceptivo que ataña a los puntos incluidos en el orden del día.
+Se añade el segundo párrafo al apartado 2 por la disposición final 1.18 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 4 por el art. único.12 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 42
+
+Artículo 42.
+1. La asamblea general quedará válidamente constituida en primera convocatoria cuando los consejeros generales presentes posean, al menos, el 50% de los derechos de voto. La constitución en segunda convocatoria será válida cualquiera que sea el número de asistentes. Los consejeros generales no podrán estar representados por otro consejero o por tercera persona, sea física o jurídica.
+2. Los acuerdos de la asamblea general se adoptarán como regla general por mayoría simple de votos de los concurrentes. La aprobación y modificación de los estatutos y del reglamento de la caja, la disolución y liquidación de la entidad, su fusión o integración con otras entidades y su transformación en una fundación ordinaria o bancaria, requerirán en todo caso la asistencia de consejeros generales que representen la mayoría de los derechos de voto. Será necesario, además, el voto favorable de, como mínimo, dos tercios de los derechos de voto de los asistentes.
+Cada consejero general tendrá derecho a un voto, otorgándose a quien presida la reunión voto de calidad. Los acuerdos válidamente adoptados obligan a todos los consejeros generales, incluidos los disidentes y ausentes.
+Se modifica por la disposición final 1.19 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.12 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 43
+
+Artículo 43.
+1. Presidirá la asamblea general el presidente del consejo de administración, y actuarán de vicepresidente o vicepresidentes, en su caso, quienes lo sean del consejo, cuyo secretario ejercerá las correspondientes funciones también en ambos órganos.
+En ausencia del presidente y vicepresidentes, la asamblea nombrará a uno de sus miembros presidente en funciones para dirigir la sesión de que se trate.
+2. Cada Consejero general tendrá derecho a un voto indelegable.
+3. Los acuerdos de la Asamblea General se adoptarán por mayoría simple, salvo en aquellos supuestos para los que la Ley requiera mayoría cualificada.
+4. Los acuerdos adoptados se harán constar en acta, que podrá ser aprobada al término de la reunión por la propia Asamblea o, dentro de los quince días siguientes, por el Presidente y dos interventores designados en la propia Asamblea. Dicha acta tendrá fuerza ejecutiva a partir de la fecha de su aprobación.
+5. Los acuerdos válidamente adoptados obligan a todos los Consejeros generales, incluidos los disidentes o los ausentes, sin perjuicio del derecho que asiste a todo Consejero de salvar su voto o de impugnar, en su caso, los acuerdos.
+Se modifica el apartado 1 por la disposición final 1.20 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 44
+
+Artículo 44.
+1. La asamblea general estará constituida por un mínimo de 30 y un máximo de 150 consejeros generales, siendo los estatutos de cada caja de ahorros los que fijarán el número concreto de los mismos de acuerdo con un principio de proporcionalidad en función de su dimensión económica.
+2. Los consejeros generales serán designados en representación de los siguientes sectores:
+a) Impositores de la entidad.
+b) Empleados de la caja de ahorros.
+c) Administraciones públicas y entidades y corporaciones de derecho público.
+d) Personas, entidades o corporaciones fundadoras.
+f) Entidades representativas de intereses colectivos.
+3. La representación de los intereses de las entidades fundadoras, de los impositores y de los destinatarios de la obra social se ajustará a la voluntad del fundador.
+Se modifica por la disposición final 1.21 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añade la letra f) por el art. único.13 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica el apartado 2 por el art. único.13 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 45
+
+Artículo 45.
+1. En la representación de los sectores mencionados en el artículo anterior habrán de respetarse, en todo caso, las siguientes limitaciones:
+a) El número de consejeros generales designados por los impositores, según el procedimiento señalado en el artículo 47, no podrá ser inferior al 50% ni superior al 60%.
+b) El número de consejeros generales designados por las Administraciones públicas y entidades y corporaciones de derecho público, en su caso, será el 25%.
+c) El número de consejeros generales designados por los trabajadores, en su caso, no excederá del 20%.
+d) El número de consejeros generales designados por las entidades representativas de intereses colectivos y el de los designados por la entidad fundadora no excederán, conjuntamente, del 20%.
+2. El límite de representación de las Administraciones Públicas, así como los porcentajes de representación por grupos previstos en este apartado, deberán cumplirse respecto de los derechos de voto resultantes.
+3. El sistema electoral deberá garantizar el máximo de publicidad, el secreto de la votación y el carácter democrático de la misma.
+Se modifica por la disposición final 1.22 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.14 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica por el art. único.14 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 46
+
+Artículo 46.
+Las circunscripciones electorales estarán constituidas por cada una de aquellas provincias en las que hayan sido captados más del 4 por 100 de los recursos de la Caja de Ahorros. Las provincias restantes se agruparán entre ellas hasta alcanzar el porcentaje mínimo anteriormente citado.
+
+### Artículo 47
+
+Artículo 47.
+1. Los consejeros generales correspondientes al sector de los impositores en la caja se distribuirán por circunscripciones, que podrán ser provinciales, comarcales, municipales o distritos de grandes capitales. La distribución del número de consejeros por cada circunscripción se hará en proporción a la cifra de depósitos captados por la caja en cada una de ellas.
+2. De los consejeros generales correspondientes a cada circunscripción, al menos la mitad se atribuirá al turno de grandes impositores. En este turno serán designados los impositores que hubiesen mantenido los mayores depósitos medios en la circunscripción durante los dos últimos años anteriores a la renovación.
+3. El resto de consejeros generales serán elegidos por el sistema de compromisarios, los cuales serán designados de entre los propios impositores de la circunscripción mediante sorteo ante notario público. El número de compromisarios a designar guardará proporción con el de consejeros generales a elegir, sin que dicha proporción pueda ser inferior a 10 a 1. Cada compromisario no podrá figurar más que por una sola circunscripción.
+4. La lista de impositores para la elección de compromisarios se confeccionará por circunscripciones electorales, no pudiendo figurar relacionados más que una sola vez, con independencia del número de cuentas de que pudieran ser titulares.
+5. Podrán presentarse a la elección de consejeros generales por este sector cualesquiera personas en quienes concurran las causas de elegibilidad previstas en esta ley, no se hallen incursas en las causas de incapacidad o de incompatibilidad, tengan su residencia habitual en la circunscripción electoral de que se trate y sean impositoras de la caja con una antigüedad mínima de dos años.
+6. Los sorteos de compromisarios deberán estar concluidos en todas las circunscripciones electorales, como mínimo, tres meses antes de la fecha en que haya de celebrarse la asamblea para la renovación de los órganos rectores de la caja.
+7. Verificado cada sorteo, la caja hará públicas las listas de los designados, en los siete días siguientes, mediante anuncios en todas las oficinas de la red, en un diario de amplia difusión de las correspondientes circunscripciones electorales, en el “Boletín Oficial de Aragón” y en el “Boletín Oficial del Estado”. El anuncio contendrá, además, la convocatoria a elecciones de consejeros generales por este sector, que no podrán celebrarse antes de que pasen dos meses desde la mencionada publicación.
+8. La presentación de candidaturas para la elección de los consejeros generales del sector deberá efectuarse en la Secretaría General de la caja, dentro de los treinta días hábiles siguientes al anuncio de convocatoria. En los siete días siguientes a la conclusión del plazo indicado, la caja hará públicas las candidaturas presentadas, en la misma forma establecida en el punto anterior.
+9. Con quince días, al menos, de antelación a la celebración de la asamblea general, en cada circunscripción electoral, y bajo la supervisión de la comisión de control de la caja, se procederá a la elección de sus respectivos consejeros generales por este sector. La votación de los compromisarios tendrá carácter personal y secreta. Resultarán elegidos los candidatos que obtengan mayor número de votos.
+10. Las vacantes que se produzcan entre los consejeros generales de este sector se cubrirán, sucesivamente, por los candidatos que, no habiendo sido elegidos consejeros, hayan obtenido mayor número de votos.
+11. La determinación de las circunscripciones y del número de compromisarios a elegir por cada una de ellas se revisará por la comisión de control, dentro de los seis meses anteriores al inicio del proceso de la renovación.
+12. La renovación de los consejeros generales elegidos en representación de los impositores se hará por mitades cada período de tiempo resultante de dividir su plazo de mandato estatutario entre dos.
+13. La Comunidad Autónoma de Aragón y las cajas de ahorros adoptarán las medidas necesarias para que se garantice la independencia de los consejeros generales en representación del grupo de impositores respecto a otros grupos.
+Las cajas de ahorros deberán remitir al Banco de España un informe anual en el que determinen las medidas adoptadas para garantizar la independencia de los consejeros generales de este grupo. Este informe será elaborado por la comisión de control y elevado a la asamblea general, que lo votará como punto separado del orden del día.
+Se modifica por la disposición final 1.23 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica el apartado 7 por el art. único.15 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifican los apartados 4, 7 y 10 por el art. único.15 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 48
+
+Artículo 48.
+1. Los Consejeros generales en representación del personal de la Caja serán designados mediante el sistema de elección directa, en la que podrán ser electores y elegibles todos los empleados de plantilla de la Entidad que reúnan los requisitos de elegibilidad y compatibilidad establecidos en esta Ley.
+2. Por cada circunscripción electoral será elegido un número de Consejeros generales proporcional al número de empleados de la misma.
+3. Con, al menos, dos meses de antelación a la fecha de celebración de la Asamblea General para la renovación de los Órganos rectores de la Caja, la Entidad publicará la convocatoria electoral y concederá un plazo no inferior a quince días para la presentación de las candidaturas. Estas tendrán carácter personal e individualizado.
+4. La elección de los Consejeros generales por este sector será secreta y deberá efectuarse para todas las zonas de actuación de la Caja en un mismo día.
+5. Los empleados de las cajas accederán a la asamblea general por este sector de representación. Excepcionalmente, podrán hacerlo por el sector de Administraciones públicas y entidades y corporaciones de derecho público.
+La propuesta de nombramiento excepcional deberá ir acompañada de un informe razonado que justifique esta excepcionalidad y se elevará, a través de la Comisión de Control, al departamento del Gobierno de Aragón competente en materia de economía, a efectos de su conocimiento.
+6. Los Consejeros Generales en representación del personal de la Caja tendrán las mismas garantías sindicales que las establecidas en el Estatuto de los Trabajadores para los representantes legales de los mismos.
+Se modifica el primer párrafo el apartado 5 por la disposición final 1.24 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añaden los apartados 5 y 6 por el art. único.16 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 48 bis
+
+Artículo 48 bis.
+Los Consejeros Generales representantes de la Comunidad Autónoma de Aragón serán designados por las Cortes de Aragón, y nombrados por decreto del Gobierno de Aragón, entre personas de reconocido prestigio y profesionalidad, atendiendo a la proporcionalidad con la que estén representados los grupos políticos en la Cámara, según el procedimiento que esta determine.
+Se modifica por el art. único.16 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se añade por el art. único.17 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 49
+
+Artículo 49.
+1. Podrán ser nombrados Consejeros generales en representación de las Corporaciones municipales quienes, reuniendo los requisitos señalados en el artículo 41 de la Ley no se hallen incursos en las causas de incapacidad o de incompatibilidad recogidas en el artículo 36 de la misma.
+2. Los Consejeros generales representantes de los municipios se designarán directamente por los Ayuntamientos respectivos, con arreglo a las disposiciones reguladoras del régimen de acuerdos de las Corporaciones locales, pudiendo designarse a personas que sin ser Concejales, tengan los adecuados conocimientos para participar en el gobierno de la Caja en defensa de los intereses colectivos.
+3. Las Entidades Locales que sean fundadoras de cajas de ahorros que operen total o parcialmente en el mismo ámbito de actuación que otra caja no podrán nombrar representantes en esta última.
+Se añade el apartado 3 por la disposición final 1.25 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 50
+
+Artículo 50.
+1. El consejo de administración, como órgano delegado de la asamblea general, tiene encomendada la administración y gestión financiera, así como la de la obra social de la caja de ahorros, para el cumplimiento de sus fines.
+El consejo de administración deberá establecer normas de funcionamiento y procedimientos adecuados para facilitar que todos sus miembros puedan cumplir en todo momento sus obligaciones y asumir las responsabilidades que les correspondan de acuerdo con las normas de ordenación y disciplina de las entidades de crédito y las restantes disposiciones que sean de aplicación a las cajas de ahorros.
+2. El consejo de administración será el representante de la caja de ahorros para todos los actos comprendidos en el objeto social de la misma, y en el ejercicio de sus facultades se regirá por lo establecido en los estatutos y en los acuerdos de la asamblea general.
+3. En todo caso, el consejo asumirá, como objetivos fundamentales, la aprobación de la estrategia de la caja de ahorros y la organización precisa para su puesta en práctica, así como la supervisión y control de que se cumplen los objetivos marcados y se respetan el objeto e interés social de la entidad.
+Se modifica por la disposición final 1.26 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 50 bis
+
+Artículo 50 bis.
+1. El Gobierno de Aragón creará un registro de entidades fundadoras de Cajas de Ahorro.
+2. La inscripción en este registro será condición necesaria para gozar de la consideración de entidad fundadora de Caja de Ahorros.
+3. La presentación de los estatutos de la entidad fundadora será condición imprescindible para la inscripción en el mencionado registro.
+Se añade por el art. único.18 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+## CAPÍTULO III
+
+Consejo de Administración
+
+### Artículo 51
+
+Artículo 51.
+Corresponde al Consejo de Administración, como órgano delegado de la Asamblea General, la definición de las líneas generales del plan de actuación anual de la Caja, y el gobierno, gestión, administración y representación de la misma, con plenas facultades, sin más limitaciones que las funciones expresamente reservadas a la Asamblea de la Entidad en la presente Ley o en sus correspondientes Estatutos.
+Asimismo, deberá establecer normas de funcionamiento y procedimientos adecuados para facilitar que todos sus miembros puedan cumplir en todo momento sus obligaciones y asumir las responsabilidades que les correspondan de acuerdo con las normas de ordenación y disciplina de las entidades de crédito y las restantes disposiciones que sean de aplicación a las Cajas de Ahorros.
+Se añade un párrafo por el art. único.17 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 52
+
+Artículo 52.
+1. El número de vocales del consejo será fijado por los estatutos, no pudiendo, de acuerdo con un principio de proporcionalidad en función de la dimensión económica de la caja de ahorros, ser inferior a cinco ni superior a quince.
+2. La mayoría de los miembros del consejo de administración deberán ser vocales independientes. Su designación requerirá informe favorable de la comisión de retribuciones y nombramientos, que habrá de tener en cuenta las prácticas y estándares nacionales e internacionales sobre gobierno corporativo de entidades de crédito.
+3. A los efectos de lo previsto en esta ley, no podrán ser vocales independientes los consejeros generales.
+4. Los miembros del consejo de administración serán elegidos por la asamblea general en la forma que determinen los estatutos.
+5. Será admisible en todo caso la representación proporcional, pudiendo los consejeros generales agruparse para designar tantos miembros del consejo de administración como resulte la parte entera de dividir el número de agrupados por el cociente resultante de dividir el número total de consejeros generales por el número de miembros del consejo de administración que no han de ser independientes. En tal caso, los miembros agrupados no podrán participar en la elección del resto de miembros del consejo de administración.
+6. Los miembros del consejo de administración que no tengan carácter independiente representarán a los sectores que componen la asamblea general respetando la proporción que en ella tengan asignada y salvando las fracciones que resulten de la reducción numérica, sin que en ningún caso pueda quedar excluido ningún sector.
+Se modifica por la disposición final 1.27 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifican los apartados 1 y 2 por el art. único.18 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica el apartado 4 por el art. único.19 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 53
+
+Artículo 53.
+1. Los vocales del consejo de administración están sujetos a las mismas incompatibilidades establecidas para los consejeros generales.
+2. Los vocales no podrán pertenecer al consejo de administración u órgano equivalente de más de cuatro sociedades mercantiles o entidades cooperativas. A estos efectos no se computarán los puestos ostentados en un consejo de administración u órgano equivalente, que en ningún caso podrán ser superiores a ocho, en la que los interesados, su cónyuge, ascendientes o descendientes, juntos o separadamente, sean propietarios de un número de acciones igual o superior al cociente de dividir el capital social por el número de vocales del consejo de administración. La misma norma se aplicará a los casos de representación legal de menores, ausentes o incapacitados.
+Se modifica por la disposición final 1.28 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 53 bis
+
+Artículo 53 bis.
+1. Los vocales del consejo de administración deberán reunir los mismos requisitos que se establecen en esta ley respecto de los consejeros generales.
+2. De conformidad con lo previsto en esta ley, los vocales del consejo de administración deberán reunir los requisitos de honorabilidad, experiencia y buen gobierno exigidos por la legislación aplicable a estos efectos a los miembros del órgano de administración y cargos equivalentes de los bancos.
+Se añade por la disposición final 1.29 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 54
+
+Artículo 54.
+1. La duración del ejercicio del cargo de vocal del consejo de administración será la señalada en los estatutos, sin que pueda ser inferior a cuatro años ni superior a seis, y podrán ser reelegidos si se cumplieran las mismas condiciones, requisitos y trámites que para el nombramiento.
+En ningún caso los vocales independientes podrán ostentar esta condición durante un período superior a doce años.
+2. La renovación de los vocales del consejo de administración no podrá suponer una renovación total o una renovación parcial que pueda asimilarse a la total, dado el porcentaje renovado o la proximidad temporal entre renovaciones, y se efectuará, en todo caso, respetando la proporcionalidad de las representaciones que lo componen. En ningún caso pueden efectuarse nombramientos provisionales.
+3. En todo caso, el nombramiento y la reelección de vocales habrán de comunicarse al Consejero competente en materia de cajas de ahorros del Gobierno de Aragón, al Ministerio competente en la materia y al Banco de España para su conocimiento y constancia.
+4. Los vocales del consejo de administración cesarán en el ejercicio del cargo en los mismos supuestos previstos en esta ley para los consejeros generales.
+Se modifica por la disposición final 1.30 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.20 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica el apartado 1 por el art. único.20 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 55
+
+Artículo 55.
+1. El consejo de administración nombrará, de entre sus miembros, al presidente del consejo, que, a su vez, lo será de la caja de ahorros y de la asamblea general. Podrá elegir, asimismo, a uno o más vicepresidentes y a un secretario, que podrá o no ser consejero.
+2. En el caso de falta de acuerdo sobre el nombramiento del Presidente o en ausencia de éste y de los Vicepresidentes, convocará y presidirá las reuniones, y ejercerá las funciones correspondientes, el Vocal que el propio Consejo designe en cada caso por mayoría.
+Se modifica el apartado 1 por la disposición final 1.31 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 56
+
+Artículo 56.
+El ejercicio del cargo de presidente ejecutivo del consejo de administración de una caja de ahorros requiere dedicación exclusiva y será incompatible con cualquier actividad retribuida tanto de carácter público como privado, salvo la administración del propio patrimonio y aquellas actividades que ejerza en representación de la caja. En este último caso, los ingresos que obtenga, distintos a dietas de asistencia a consejos de administración, u otras compensaciones con idéntica finalidad, deberán cederse a la caja por cuya cuenta realiza dicha actividad o representación, o deducirse de la retribución percibida en la misma.
+Se modifica por la disposición final 1.32 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.21 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 57
+
+Artículo 57.
+1. El Consejo se reunirá cuantas veces sean necesarias para la buena marcha de la Entidad y, como mínimo, una al mes.
+2. Corresponde al Presidente convocar el Consejo a iniciativa propia o a petición de un tercio de sus miembros.
+3. El Presidente elaborará el orden del día de la sesión, la presidirá, y dirigirá los debates y discusiones. En el supuesto de que la sesión se celebre a petición de los miembros del Consejo de Administración, el orden del día se elaborará de acuerdo con el objeto de la petición.
+4. El Consejo de Administración se entenderá válidamente constituido siempre que al abrirse la sesión estén presentes al menos la mitad más uno de sus miembros. Los acuerdos se adoptarán por mayoría de los Consejeros asistentes, excepto para los supuestos para los que los Estatutos prevean la necesidad de mayoría cualificada.
+5. La discusión y los acuerdos del Consejo de Administración se llevarán a un libro de actas que serán firmadas por el Presidente y el Secretario.
+6. Las deliberaciones del consejo de administración tendrán carácter secreto.
+7. Los vocales del consejo de administración que no sean consejeros generales asistirán a las asambleas generales con voz y sin voto.
+Se añaden los apartados 6 y 7 por la disposición final 1.33 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 58
+
+Artículo 58.
+El consejo de administración podrá actuar en pleno o delegar funciones, con excepción de las relativas a la elevación de propuestas a la asamblea general o cuando se trate de facultades especialmente delegadas en el consejo, salvo que fuese expresamente autorizado para ello.
+Se modifica por la disposición final 1.34 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifica por el art. único.22 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se desestima el Recurso en relación con este artículo por Sentencia del TC 62/1993, de 18 de febrero. Ref. BOE-T-1993-7649
+ Se mantiene la suspensión de la vigencia y aplicación de este artículo por Auto de 17 de septiembre de 1991. Ref. BOE-A-1991-23845
+ Se suspende la vigencia y aplicación de este artículo, desde el 17 de abril de 1991 para las partes en el proceso y desde el 27 de abril de 1991 para los terceros, por providencia del TC de 22 de abril que admite a trámite el recurso de inconstitucionalidad nº 814/1991814/1991. Ref. BOE-A-1991-10289
+
+### Artículo 58 bis
+
+Artículo 58 bis.
+1. El consejo de administración de las cajas de ahorros constituirá en su seno una comisión de inversiones que tendrá la función de informar al consejo sobre las inversiones y desinversiones de carácter estratégico y estable que efectúe la caja, ya sea directamente o a través de entidades de su mismo grupo, así como la viabilidad financiera de las citadas inversiones y su adecuación a los presupuestos y planes estratégicos de la entidad.
+2. Se entenderá como estratégica la adquisición o venta de cualquier participación significativa de cualquier sociedad cotizada o la participación en proyectos empresariales que impliquen para la caja la participación en la gestión o en órganos de gobierno de otras entidades.
+Asimismo, se entenderán como inversiones estables aquellas respecto a las que se estime que se mantendrán durante al menos cinco años.
+3. La comisión de inversiones estará formada por un número de miembros que no podrá ser inferior a tres ni superior a siete, designados por el consejo de administración de entre sus miembros, atendiendo a su capacidad técnica y experiencia profesional. El presidente de la comisión será un vocal independiente.
+4. La comisión de inversiones remitirá anualmente al consejo de administración un informe en el que, al menos, deberá incluirse un resumen de dichas inversiones. Igualmente se incluirán en el informe anual relación y sentido de los informes emitidos por la citada comisión. Este informe anual de la comisión de inversiones se incorporará al informe de gobierno corporativo de la entidad.
+5. El régimen de funcionamiento de la comisión de inversiones será establecido por los estatutos de la caja y su propio reglamento interno.
+Se modifica por la disposición final 1.35 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añade por el art. único.23 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 58 ter
+
+Artículo 58 ter.
+1. El consejo de administración de las cajas de ahorros constituirá en su seno una comisión de retribuciones y nombramientos que tendrá las siguientes funciones:
+a) Informar la política general de retribuciones e incentivos para los miembros del consejo de administración y de la comisión de control y demás personal directivo, y velar por la observancia de dicha política.
+b) Garantizar el cumplimiento de los requisitos previstos en esta ley para los miembros de su consejo de administración y sus directores generales o asimilados, y las personas que asuman funciones de control interno u ocupen puestos claves para el desarrollo diario de la actividad bancaria.
+2. La comisión estará formada por un mínimo de tres personas y un máximo de siete, elegidas por la asamblea general de entre quienes ostenten la condición de vocales del consejo de administración. Al menos la mitad de los vocales, y en todo caso su presidente, serán independientes.
+3. El régimen de funcionamiento de la comisión de retribuciones y nombramientos será establecido por los estatutos de la caja y su propio reglamento interno, que podrán atribuir las funciones previstas en las letras a) y b) del apartado 1 a una comisión de retribuciones y otra de nombramientos respectivamente, a las que les resultará de aplicación este artículo, salvo en lo relativo a su número de miembros, que será en ese caso de tres para cada una de ellas.
+Se modifica por la disposición final 1.36 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añade por el art. único.23 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 58 quáter 
+
+Artículo 58 quáter.
+1. Para garantizar el cumplimiento de la obra benéfico-social de la Caja de Ahorros se creará una Comisión de Obra Social.
+2. La Comisión estará integrada por los Consejeros Generales que nombre la Asamblea General, sin tener en cuenta los derechos de voto de los cuotapartícipes si los hubiere, por un representante del Gobierno de Aragón y otro representante de cada una de las Comunidades Autónomas en que la Caja de Ahorros haya captado más de un 10% del total de sus depósitos.
+3. El número de miembros a designar por la Asamblea General, así como el régimen de funcionamiento de la Comisión de la Obra Social, será establecido por los Estatutos de la Caja y su propio reglamento interno.
+Se añade por el art. único.23 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 59
+
+Artículo 59.
+1. Los vocales de los consejos de administración, así como sus cónyuges, ascendientes o descendientes y las sociedades en que dichas personas participen mayoritariamente en el capital, bien de forma aislada o conjunta, o en las que desempeñen los cargos de presidente, consejero, administrador, gerente, director general o con funciones similares, no podrán obtener créditos, avales ni garantías de la caja respectiva o enajenar a la misma bienes o valores de su propiedad o emitidos por tales entidades sin que exista acuerdo del consejo de administración de la caja.
+2. Asimismo será necesaria la autorización expresa del Gobierno de Aragón y del Banco de España.
+3. Dicha prohibición no será de aplicación respecto a los representantes del personal, para los cuales la concesión de créditos se regirá por los convenios laborales, previo informe de la comisión de control, del Departamento competente en materia de cajas de ahorros y del Banco de España.
+Se modifica por la disposición final 1.37 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+## CAPÍTULO IV
+
+Comisión de Control
+
+### Artículo 60
+
+Artículo 60.
+1. La comisión de control tiene por objeto supervisar el procedimiento electoral y la obra social de las cajas, además de aquellas otras funciones que pudieran atribuírsele en relación con el propio consejo de administración, dentro de las líneas generales de actuación señaladas por la asamblea general y de las directrices emanadas de la normativa financiera.
+2. Para el cumplimiento de sus fines, la comisión de control tendrá atribuidas las siguientes funciones:
+a) Vigilar el proceso de elección y designación de los miembros de los órganos de gobierno.
+b) Informar a la asamblea general sobre los presupuestos y dotación de la obra social, así como vigilar el cumplimiento de las inversiones y gastos previstos.
+c) Proponer a la asamblea general la suspensión de la eficacia de los acuerdos del consejo de administración de la entidad cuando entienda que vulneran las disposiciones vigentes o afectan gravemente a la situación patrimonial, a los resultados o al crédito de la caja de ahorros o de sus impositores o clientes.
+d) El análisis de la gestión económica y financiera de la entidad, elevando al Departamento competente en materia de cajas de ahorros del Gobierno de Aragón, al Banco de España y a la asamblea general información semestral sobre la misma.
+e) Estudio de la auditoría de cuentas que resuma la gestión del ejercicio y la consiguiente elevación a la asamblea general del informe que refleje el examen realizado.
+f)  Informar sobre cuestiones o situaciones concretas a petición de la asamblea general, del Gobierno de Aragón y del Banco de España.
+g) Requerir al presidente la convocatoria de la asamblea general con carácter extraordinario, en el supuesto previsto en la letra e).
+h) En su caso, las previstas en la disposición adicional decimoctava de la Ley 24/1988, de 28 de julio, del Mercado de Valores, salvo cuando las hubiese asumido un comité de auditoría creado al efecto.
+3. Para el cumplimiento de estas funciones podrá recabar del consejo de administración cuantos antecedentes e información considere necesarios.
+4. El presidente de la comisión de control deberá informar al Departamento competente en materia de cajas de ahorros del Gobierno de Aragón y al Banco de España sobre las materias relacionadas en el apartado 2,a) del presente artículo.
+Se modifica por la disposición final 1.38 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se añade la letra i) al apartado 1 por el art. único.24 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+ Se modifica por el art. único.21 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+ Se declara inconstiticional y nulo el apartado 1 por Sentencia del TC 62/1993, de 18 de febrero. Ref. BOE-T-1993-7649
+ Se mantiene la suspensión de la vigencia y aplicación de este artículo por Auto de 17 de septiembre de 1991. Ref. BOE-A-1991-23845
+ Se suspende la vigencia y aplicación de este artículo, desde el 17 de abril de 1991 para las partes en el proceso y desde el 27 de abril de 1991 para los terceros, por providencia del TC de 22 de abril que admite a trámite el recurso de inconstitucionalidad nº 814/1991814/1991. Ref. BOE-A-1991-10289
+
+### Artículo 61
+
+Artículo 61.
+1. El número de vocales de la comisión de control no podrá ser inferior a tres ni superior a siete, aplicándose criterios proporcionales en relación con los grupos que integran la asamblea general.
+2. Los vocales de la comisión de control deberán reunir los mismos requisitos y tendrán las mismas incompatibilidades y limitaciones que los vocales del consejo de administración.
+3. Siempre que la comisión de control así lo requiera, el presidente del consejo de administración asistirá a las reuniones con voz y sin voto
+4. La presentación de candidaturas y posterior elección se efectuarán conforme a lo dispuesto para los vocales del consejo de administración.
+Se modifica por la disposición final 1.39 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+ Se modifican los apartados 1 y 2 por el art. único.26 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 62
+
+Artículo 62.
+1. La comisión de control nombrará, de entre sus vocales independientes, al presidente.
+2. La Comisión de Control se reunirá, previa convocatoria de su Presidente, a iniciativa propia o a petición de un tercio de sus miembros, al menos, una vez cada trimestre.
+3. En el ejercicio de sus funciones, podrá solicitar del Consejo de Administrador y del Director general todos los antecedentes y la información que considere necesarios.
+4. Los acuerdos se adoptarán por mayoría de sus miembros, salvo en aquellos supuestos en los que la Ley exija una mayoría cualificada.
+Se modifica el apartado 1 por la disposición final 1.40 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+## CAPÍTULO V
+
+Gobierno corporativo
+Se añade por la disposición final 1.41 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 62 bis
+
+Artículo 62 bis.
+1. Las cajas de ahorros con domicilio social en Aragón deberán hacer públicos con carácter anual un informe de gobierno corporativo y un informe sobre remuneraciones, de conformidad con lo dispuesto en el artículo 31 de la Ley 26/2013, de 27 de diciembre.
+2. Los informes anuales de gobierno corporativo y sobre remuneraciones de las cajas deberán ser comunicados a la Comisión Nacional del Mercado de Valores, al Banco de España y al Departamento competente en materias de cajas de ahorros del Gobierno de Aragón en los términos establecidos en la legislación estatal.
+Se añade por la disposición final 1.41 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+## TÍTULO III
+
+Del Director general
+
+### Artículo 63
+
+Artículo 63.
+Las cajas de ahorros podrán nombrar en el seno de su estructura organizativa un director general o cargo asimilado que ejercerá las otras funciones que los estatutos y los reglamentos de la entidad le encomienden.
+Se modifica por la disposición final 1.42 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
+
+### Artículo 64
+
+Artículo 64.
+1. El Director general será designado por el Consejo de Administración de la Caja de entre cualesquiera personas con capacidad, preparación técnica y experiencia suficiente para realizar las funciones de su cargo.
+Se considera que posee preparación técnica y experiencia adecuadas para ejercer sus funciones como Director General de una Caja de Ahorros quien haya desempeñado, durante un plazo no inferior a cinco años, funciones de alta administración, dirección, control o asesoramiento de entidades financieras o funciones de similar responsabilidad en otras entidades públicas o privadas de, al menos, análoga dimensión.
+2. Su nombramiento será ratificado por la Asamblea General y comunicado al Departamento de Economía y al Banco de España.
+3. Cesará en su cargo:
+a) Por acuerdo de la mayoría de dos tercios de los miembros del Consejo de Administración, ratificado por mayoría absoluta de la Asamblea General.
+b) En virtud de expediente disciplinario instruido por el Departamento de Economía de la Diputación General de Aragón o por el Banco de España.
+c) Por jubilación a la edad que fijen los Estatutos de la Caja.
+Se añade un párrafo al apartado 1 por el art. único.26 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Artículo 65
+
+Artículo 65.
+El ejercido del cargo de Director general requiere dedicación exclusiva, sin perjuicio de las actividades que ejerza en representación de la Caja.
+
+### Artículo 66
+
+Artículo 66.
+El Director general, excepto para la toma de las decisiones que le afecten, podrá asistir con voz y sin voto a las reuniones del Consejo de Administración, y siempre que lo soliciten el Presidente o el Consejo de Administración.
+
+## TÍTULO IV
+
+La Federación Aragonesa de Cajas de Ahorros
+
+### Artículo 67
+
+Artículo 67.
+1. Las Cajas de Ahorros con sede social en la Comunidad Autónoma de Aragón se agruparán en una única Federación, que poseerá personalidad jurídica propia y plena capacidad para el desarrollo de las actividades dirigidas al cumplimiento de sus fines.
+2. Tendrá su sede social en el territorio de la Comunidad Autónoma siendo su domicilio independiente del de sus miembros.
+
+### Artículo 68
+
+Artículo 68.
+Serán funciones de la Federación las siguientes:
+a) Procurar la defensa y difusión del ahorro.
+b) Informar a las Cajas federadas sobre los planes de actuación económica elaborados por el Gobierno de la Comunidad Autónoma, a fin de que aquéllas puedan orientar sus inversiones de acuerdo con los objeticos prioritarios.
+c) Promover y coordinar la prestación de servicios comunes.
+d) Impulsar la posible creación y sostenimiento de obras socioculturales conjuntas.
+e) Colaborar con las autoridades financieras para el mejor cumplimiento de la normativa vigente.
+f) Facilitar la actuación de las Cajas federadas en el exterior, ofreciendo los servicios que éstas puedan requerir.
+g) Cuantas otras le sean atribuidas en delegación por las Cajas federadas.
+
+### Artículo 69
+
+Artículo 69.
+La Federación Aragonesa de Cajas de Ahorros tendrá los siguientes órganos:
+a) El Consejo General.
+b) La Secretaria General.
+
+### Artículo 70
+
+Artículo 70.
+1. El Consejo General, máximo órgano de gobierno de la Federación, estará compuesto por tres miembros por cada Consejo de Administración de las Cajas federadas, entre los que figurará siempre el Presidente de la Entidad.
+2. A las sesiones del Consejo podrán asistir, con voz y sin voto, un representante de la Comunidad Autónoma de Aragón, nombrado directamente por el Consejero de Economía, y el Director general de cada Entidad federada. Asimismo, asistirá con voz y sin voto el Secretario general de la Federación, que actuará como Secretario.
+
+### Artículo 71
+
+Artículo 71.
+1. El Consejo General se reunirá, en sesión ordinaria, al menos cuatro veces al año, dentro de cada trimestre natural. No obstante, el Presidente podrá convocar sesión extraordinaria en cualquier momento y, necesariamente, cuando lo solicite una Caja federada.
+2. Los Estatutos de la Federación regularán la convocatoria de las sesiones, plazos y difusión de las mismas, fórmulas de adopción de acuerdos y su grado de vinculación para las Cajas federadas.
+3. Los acuerdos se tomarán por mayoría de sus miembros.
+4. Cuando sus acuerdos afecten al funcionamiento de las Cajas deberán ser ratificados por sus Consejos de Administración.
+
+### Artículo 72
+
+Artículo 72.
+El Consejo General aprobará anualmente, en la sesión que celebre en el cuarto trimestre del año, el presupuesto de la Federación y el plan de actuación para el ejercicio siguiente. Los Estatutos deberán contemplar las fuentes de financiación del presupuesto y el criterio para el cálculo de la cuota federal a satisfacer por cada una de las Entidades miembros. La Memoria de gestión y la liquidación del presupuesto anterior se aprobarán, en su caso, en la primera sesión del año que celebre el Consejo.
+
+### Artículo 73
+
+Artículo 73.
+El Consejo General podrá delegar determinadas de sus funciones en una Comisión Ejecutiva, cuya composición se regulará en los Estatutos de la Federación.
+
+### Artículo 74
+
+Artículo 74.
+1. El Consejo General elegirá a su Presidente y Vicepresidente de entre los Presidentes de las Cajas de Ahorros federadas, por un periodo de cuatro años, prorrogables por otro periodo igual y único. El Presidente del Consejo, que también lo será de la Federación, representará a la misma en los actos que ésta participe.
+2. El Presidente y el Vicepresidente cesarán en sus cargos por las causas que estatutariamente se establezcan, entre las cuales deberán figurar las siguientes:
+a) Por remoción, en virtud de acuerdo del Consejo General, adoptado por mayoría de dos terceras partes de sus miembros,
+b) Por pérdida del cargo en virtud del cual hubiese sido nombrado.
+En caso de vacantes, el Consejo General deberá elegir nuevo Presidente o Vicepresidente, en el plazo máximo de sesenta días desde que se produzca el cese.
+
+### Artículo 75
+
+Artículo 75.
+1. La Secretaria General de la Federación se configura como un órgano administrativo de gestión y coordinación. Tendrá carácter permanente.
+2. Al frente de la misma figurará un Secretario general designado por el Consejo General de la Federación entre personas con capacidad, preparación técnica y experiencia suficientes para el ejercicio de las funciones asignadas a su cargo.
+3. Sus funciones serán las que establezcan los Estatutos, entre las cuales figurarán, además de las propiamente ejecutivas, las de presentar propuestas dirigidas a la coordinación de prestación de servicios técnicos y financieros comunes, a la financiación conjunta de obras sociales, publicidad y otras materias de interés común o que supongan una más estrecha vinculación entre las Cajas de Ahorros federadas.
+
+### Artículo 76
+
+Artículo 76.
+El Consejo General remitirá al Departamento de Economía de la Diputación General de Aragón cuanta información se solicite para el mejor seguimiento de la actividad de la Federación. En todo caso, en el plazo de quince días desde la toma del acuerdo por el Consejo General, este deberá remitir:
+a) Certificación del nombramiento, cese y reelección, en su caso, del Presidente y Vicepresidente de la Federación, y de los restantes miembros del Consejo General, detallando los cargos que ostenten en el Consejo, en la Comisión Ejecutiva, si existiera, personas a las que sustituyen y plazo para el cual han sido nombrados o reelegidos,
+b) Presupuestos y líneas de actuación para el ejercicio.
+c) Informe sobre el análisis de la gestión económico-financiera de la Federación y de la liquidación del presupuesto del ejercicio anterior.
+d) Propuesta de modificación de los Estatutos y Reglamento de la Federación para su aprobación, si procede, por la Diputación General.
+
+## TÍTULO V
+
+El Defensor del Cliente
+
+### Artículo 77
+
+Artículo 77.
+Dentro de la Federación de Cajas Aragonesas existirá un Defensor del Cliente, que tendrá como misión la defensa y protección de los derechos e intereses de los clientes en sus relaciones directas con las Cajas.
+
+### Artículo 78
+
+Artículo 78.
+Corresponde al Consejo General de la Federación Aragonesa de Cajas de Ahorros su nombramiento, debiendo recaer en persona de reconocido prestigio con residencia habitual en alguno de los territorios del ámbito de actuación de las Cajas.
+
+### Artículo 79
+
+Artículo 79.
+1. El Defensor del Cliente no podrá mantener ningún tipo de contrato de trabajo, empresa o servicios con las Cajas, y su cargo será incompatible con los de Consejero general, miembro del Consejo de Administración y de la Comisión de Control, y Director general de las Instituciones.
+2. Le afectarán, además, las mismas causas de inelegibilidad e incompatibilidad previstas en esta Ley para los Consejeros generales.
+
+### Artículo 80
+
+Artículo 80.
+El Defensor del Cliente será nombrado para un periodo de tres años, pudiendo ser reelegido por una sola vez y por un periodo igual.
+
+### Artículo 81
+
+Artículo 81.
+El Defensor del Cliente cesará en el ejercicio de su cargo por alguna de las causas siguientes:
+a) Finalización del periodo para el que fue elegido.
+b) Muerte o declaración de fallecimiento.
+c) Declaración de ausencia o de incapacidad.
+d) Renuncia.
+e) Por acuerdo del Consejo General de la Federación de Cajas de Ahorros aragonesas, adoptado por mayoría de dos tercios, con existencia de justa causa.
+
+### Artículo 82
+
+Artículo 82.
+1. El ejercicio del cargo de Defensor del Cliente será retribuido por la Federación, requerirá dedicación exclusiva y será incompatible con cualquier cargo o actividad de carácter público.
+2. El Defensor del Cliente recibirá de la Federación cuanta asistencia técnica, económica y personal sea preciso al objeto de su misión.
+3. Las Cajas de Ahorros federadas le facilitarán la información necesaria para el ejercicio de su misión.
+4. El Defensor del Cliente elevará un informe anual al Consejo General de la Federación, en el que hará constar sus recomendaciones. Asimismo, por asuntos concretos, elevará a los consejos de administración y a las asambleas generales de las Cajas de Ahorro federadas informes sobre las quejas recibidas, haciendo constar su recomendación.
+Se modifican los apartados 1 y 4 por el art. único.22 de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813
+
+### Artículo 83
+
+Artículo 83.
+En su funcionamiento ordinario, el Defensor del Cliente acomodará sus actuaciones a la presente Ley y al Reglamento interno que el propio Defensor elaborará y elevará, para su aprobación, al Consejo General de la Federación.
+
+## TÍTULO VI
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Disposiciones Generales
+
+### Artículo 84
+
+Artículo 84.
+En el marco de las bases aprobadas por el Estado sobre ordenación del crédito y de la banca, y de conformidad con las directrices de la Diputación General, el Departamento de Economía ejercerá, en el ámbito de sus competencias y sin perjuicio de las que puedan corresponder al Banco de España y Ministerio de Economía y Hacienda, las funciones de coordinación e inspección de las Cajas de Ahorros reguladas por esta Ley.
+
+### Artículo 85
+
+Artículo 85.
+Las Cajas de Ahorros, así como quienes ostenten cargos de administración o dirección en las mismas, que infrinjan lo dispuesto en esta Ley y en las disposiciones que la desarrollen incurrirán en responsabilidad administrativa sancionable, con arreglo a lo dispuesto en el presente Capítulo y en la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 86
+
+Artículo 86.
+Las infracciones se clasifican en muy graves, graves y leves.
+
+### Artículo 87
+
+Artículo 87.
+Constituyen infracciones muy graves:
+a) La negativa o resistencia a la actuación inspectora de los representantes de la Comunidad Autónoma, siempre que medie requerimiento expreso y por escrito al respecto.
+b) La falta de remisión al órgano competente de la Comunidad Autónoma de cuantos datos o documentos deban remitírsele o requieran en el ejercicio de sus funciones, o la falta de veracidad en los mismos, cuando con ello se dificulte la apreciación de la solvencia de la Entidad. A estos efectos se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente en el escrito recordatorio de la obligación o en la reiteración del requerimiento.
+c) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado cuya obtención directa implicaría, cuando menos, la comisión de una infracción grave.
+d) La comisión de una infracción grave, si en los cinco años anteriores hubiera sido impuesta sanción firme por el mismo tipo de infracción.
+
+### Artículo 88
+
+Artículo 88.
+Constituyen infracciones graves:
+a) El incumplimiento de las obligaciones relativas a:
+Apertura de oficinas.
+Distribución de excedentes y obra sociocultural.
+Inversiones.
+b) La falta de remisión al órgano competente de la Comunidad Autónoma de los datos o documentos que deban remitírsele o que el mismo requiera en el ejercicio de sus funciones, así como la falta de veracidad en los mismos, salvo que ello suponga la comisión de una infracción muy grave. A estos efectos se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente en el escrito recordatorio de la obligación o en la reiteración del requerimiento.
+c) La utilización por la Caja de Ahorros de denominaciones que puedan inducir a error al público sobre la identidad de la propia Caja o confusión con la denominación de otra Entidad de crédito con domicilio social en la Comunidad Autónoma.
+d) La adjudicación a favor de los miembros del Consejo de Administración, del Director general o de la Comisión de Control de bienes embargados por las Cajas. Se considerará infracción grave del Director general la adjudicación a los empleados de la misma, con su conocimiento, de bienes embargados por aquélla.
+e) El incumplimiento de la obligación contenida en el artículo 32.3 de la presente Ley.
+f) La comisión de una infracción leve, si en los dos años anteriores hubiera sido impuesta sanción firme por el mismo tipo de infracción.
+
+### Artículo 89
+
+Artículo 89.
+Constituyen infracciones leves la vulneración de los preceptos de obligada observancia comprendidos en esta Ley y disposiciones de desarrollo que no constituyan infracción grave o muy grave.
+
+### Artículo 90
+
+Artículo 90.
+A los efectos de esta Ley tendrá la consideración de infracción grave la realización de operaciones propias de las Cajas y la utilización de la denominación u otros elementos identificativos, propagandísticos o publicitarios por personas o Entidades no inscritas en el Registro de Cajas de Ahorros de la Comunidad Autónoma.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 91
+
+Artículo 91.
+1. Por la comisión de infracciones muy graves se impondrá a la Caja una de las siguientes sanciones:
+a) Multa de hasta 40.000.000 de pesetas.
+b) Revocación de la autorización a la Entidad.
+2. Además de la sanción que corresponda imponer a la Caja, se impondrá una de las siguientes sanciones a quienes, ejerciendo cargos de administración o dirección, sean responsables conforme a lo dispuesto en la Ley 26/1983, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito:
+a) Multa a cada uno de ellos de hasta 10.000.000 de pesetas.
+b) Suspensión en el ejercicio del cargo por plazo no superior a tres años.
+c) Separación del cargo con inhabilitación para ejercer cargos de administración o dirección en la misma Caja por un plazo máximo de cinco años.
+d) Separación del cargo con inhabilitación para ejercer cargos de administración o dirección en cualquier Caja por un plazo máximo de diez años.
+3. No obstante lo dispuesto en el número anterior, en el caso de imposición de las sanciones previstas en las letras c) y d) del mismo, podrá imponerse simultáneamente la sanción prevista en su letra a).
+
+### Artículo 92
+
+Artículo 92.
+1. Por la comisión de infracciones graves se impondrá a la Caja una de las siguientes sanciones:
+a) Amonestación pública.
+b) Multa de hasta 10.000.000 de pesetas.
+2. Además de la sanción que corresponda imponer a la Caja, se impondrá una de las siguientes sanciones a quienes, ejerciendo cargos de administración o dirección, sean responsables conforme a lo dispuesto en la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito:
+a) Amonestación privada.
+b) Amonestación pública.
+c) Multa a cada uno de ellos de hasta 5.000.000 de pesetas.
+d) Suspensión temporal en el cargo por un plazo no superior a un año.
+3. No obstante lo dispuesto en el número anterior, en el caso de imposición de la sanción prevista en la letra d) del mismo podrá imponerse simultáneamente la sanción prevista en su letra c).
+
+### Artículo 93
+
+Artículo 93.
+1. Por la comisión de infracciones leves se impondrá a la Caja una de las siguientes sanciones:
+a) Amonestación privada.
+b) Multa de hasta 1.000.000 de pesetas.
+
+### Artículo 94
+
+Artículo 94.
+1. Las sanciones aplicables en cada caso por la comisión de infracciones muy graves, graves o leves se determinarán según los siguientes criterios:
+a) La naturaleza y la entidad de la infracción.
+b) La gravedad del peligro ocasionado o del perjuicio causado.
+c) El lucro obtenido, en su caso, como consecuencia de los actos u omisiones constitutivos de infracción.
+d) La circunstancia de haber procedido a la subsanación de la infracción por propia iniciativa.
+e) La conducta anterior de la Caja en relación con las normas de ordenación y disciplina que le afecten, atendiendo a las sanciones firmes que le hubieran sido impuestas en los cinco últimos años.
+f) La importancia de la Entidad de crédito correspondiente, medida en función del importe total de su balance.
+g) En el caso de insuficiencia de recursos propios, las dificultades objetivas que pueden haber concurrido para alcanzar o mantener el nivel exigido.
+2. Para determinar la sanción aplicable a quienes ejerzan cargos de administración o dirección se tomarán en consideración, además, las siguientes circunstancias:
+a) El grado de responsabilidad de los infractores en los hechos.
+b) La conducta anterior del infractor en la misma o en distinta Caja, en relación con las normas de ordenación y disciplina, tomando en consideración al efecto las sanciones firmes que le hubieran sido impuestas durante los cinco últimos años.
+c) El carácter de la representación que el infractor ostente.
+
+## CAPÍTULO IV
+
+Competencias y procedimiento
+
+### Artículo 95
+
+Artículo 95.
+1. La competencia para la instrucción de los correspondientes expedientes corresponderá al Departamento de Economía de la Diputación General de Aragón.
+2. Serán órganos competentes para la imposición de las sanciones:
+a) El Consejero de Economía para la imposición de las sanciones correspondientes a las infracciones leves y graves.
+b) La Diputación General para la imposición de las sanciones correspondientes a las infracciones muy graves.
+
+### Artículo 96
+
+Artículo 96.
+Para la imposición de las sanciones previstas en esta Ley se seguirá el procedimiento previsto en la Ley de Procedimiento Administrativo y en los artículos 19 y siguientes de la Ley sobre Disciplina e Intervención de las Entidades de Crédito de 29 de julio de 1988, con las siguientes especialidades:
+a) Cuando la sanción consista en multa, su importe deberá ser ingresado en el Tesoro de la Comunidad Autónoma,
+b) La imposición de sanciones, con excepción de la amonestación privada, se hará constar en los Registros administrativos de Cajas de Ahorro.
+c) Las propuestas de resolución correspondientes a expedientes tramitados por la comisión de faltas graves o muy graves serán informadas por el Banco de España.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#dd
+ Se añade por el art. único.27 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#dd
+ Se añade por el art. único.28 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#dd
+ Se añade por el art. único.29 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cajas fundadas por la Iglesia.
+En el caso de las Cajas de Ahorro fundadas por la Iglesia Católica o Entidades de Derecho Público vinculadas a la misma, el nombramiento y duración de los mandatos de los representantes de la entidad fundadora en los órganos de gobierno se regirá por lo que se disponga en sus Estatutos, debiendo someterse en lo demás a lo establecido en la legislación básica estatal, en la legislación aragonesa y en sus normas de desarrollo.
+Se añade por el art. 67 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Protectorado de las fundaciones bancarias en que se transformen las Cajas de Ahorros aragonesas.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#dd
+ Se añade por el art. 27 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las Cajas de Ahorros aragonesas adaptarán a la presente Ley sus Estatutos y Reglamentos en el plazo máximo de seis meses. En tanto las Cajas de Ahorros aragonesas no procedan a su modificación, serán de aplicación los vigentes en lo que no se opongan a las disposiciones de esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las renovaciones de los órganos de gobierno de las Cajas pendientes a la entrada en vigor de la Ley tendrán lugar en las fechas previstas por las disposiciones conforme a las cuales fueron elegidos y a los efectos de lo dispuesto en el artículo 37 de esta Ley se computarán los periodos ya consumidos.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#dd
+ Se añade por el art. único.30 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Aragón».
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.2 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 4 de enero de 1991.
+HIPÓLITO GÓMEZ DE LAS ROCES,
+Presidente de la Diputación General de Aragón
+
+## [Información relacionada] 
+
+Información relacionada
+ Téngase en cuenta que todas las referencias al «Departamento de Economía y Hacienda» de la Diputación General de Aragón, contenidas en esta Ley, deben entenderse efectuadas al departamento del Gobierno de Aragón que, en cada momento, ostente las competencias en materia de economía. Asimismo, las referencias a la «Diputación General» y a la «Diputación General de Aragón», deben entenderse hechas al «Gobierno de Aragón» según establece la disposición adicional única de la Ley 4/2000, de 28 de noviembre. Ref. BOE-A-2001-813

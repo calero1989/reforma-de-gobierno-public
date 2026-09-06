@@ -1,0 +1,658 @@
+# Ley 6/2001, de 3 de julio, del juego en la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-2001-14647`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-14647
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCM núm. 162, de 10 de julio de 2002. Ref. BOE-A-2002-19271.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 26.1.29 del Estatuto de Autonomía, aprobado por la Ley Orgánica 3/1983, de 25 de febrero, reformado por la Ley Orgánica 5/1998, de 7 de julio, atribuye a esta Comunidad la plenitud de la función legislativa en materia de Casinos, Juegos y Apuestas, con exclusión de las Apuestas Mutuas Deportivo Benéficas.
+Este título competencial habilita la actuación legislativa de la Comunidad de Madrid en esta materia.
+El ejercicio de dichas competencias por parte de la Comunidad de Madrid sobre un sector como es el del juego, que tiene una elevada trascedencia tanto desde un punto de vista económico como social en el territorio madrileño, así como la experiencia acumulada desde la asunción de competencias en esta materia y el tiempo transcurrido desde el traspaso de las mismas por Real Decreto 2370/1994, de 9 de diciembre, justifican la aprobación de un marco normativo con rango de Ley que, al mismo tiempo proporcione tanto a potenciales usuarios como a los empresarios del sector una mayor seguridad jurídica, y permita al Gobierno Regional establecer las líneas básicas de la política en materia de juego en la Comunidad de Madrid.
+En cuanto a la oportunidad de la Ley, la misma viene ampliamente justificada por la obsolescencia de la normativa estatal en la materia, el Decreto-ley 16/1977, de 25 de febrero, por el que se regula los aspectos penales, administrativos y fiscales de los juegos de suerte, envite o azar y apuestas, y la Ley 34/1987, de 26 de diciembre, de potestad sancionadora de la Administración Pública en materia de juegos de suerte, envite o azar, que con carácter supletorio se venía aplicando hasta el momento en ausencia de normativa propia y que respondían a una realidad socioeconómica muy distinta a la actual.
+Con este texto normativo se ha optado, de entre las diversas opciones existentes, por una Ley que constituya un marco de referencia que, con vocación de permanencia en el tiempo, regule los principios y aspectos básicos de juego en nuestro territorio, dejando para un posterior desarrollo reglamentario aquellos otros cuya regulación no sea imperativamente de rango legal, dotando así a la regulación específica de los distintos juegos autorizados de una mayor flexibilidad a la hora de atender las sucesivas demandas de índole económica y comercial que se formulen por los Agentes Sociales más representativos del sector, sin que por ello se produzca una merma en el control de los requisitos exigidos y fortaleciendo por ende los mecanismos de respuesta por parte de la Administración en caso de incumplimiento de los mismos.
+Asimismo, se establecen medidas de limitación del fomento del juego, que contribuyen a prevenir y controlar las ludopatías, previéndose con carácter general la publicidad y la promoción del juego, y consolidándose el llamado «registro de prohibidos».
+II
+La Ley consta de treinta y seis artículos agrupados en cuatro títulos, cuatro disposiciones transitorias, una derogatoria y una final.
+El Título I, « Disposiciones Generales», regula el objeto y ámbito de aplicación de la Ley, la distribución competencial en esta materia de los distintos órganos de la Comunidad de Madrid, define el Catálogo de Juegos y Apuestas como el instrumento básico de ordenación de los juegos y el inventario de aquellos cuya práctica puede ser autorizada en nuestro territorio, establece el régimen jurídico de las autorizaciones y regula con carácter general el régimen de publicidad y promoción de las actividades de juego.
+III
+El Título II, «De los juegos y apuestas y de los establecimientos en que se practican», establece los requisitos de los juegos y el material con que se practica, define los distintos tipos de juegos autorizables y los establecimientos y locales en los que se pueden organizar y practicar los mismos.
+IV
+El Título III, «De las personas que intervienen en el juego», regula el ejercicio empresarial de las actividades relacionadas con el juego estableciendo los requisitos que deben reunir las empresas que pretendan ser titulares de autorizaciones para la organización, explotación y práctica de cualquier tipo de juegos objeto de esta Ley, así como las garantías que deberán constituir dichas empresas.
+Se dedica al mismo tiempo un capítulo a los usuarios que contiene tanto las normas de protección de los mismos, básicamente a través del Registro de Interdicciones de acceso al juego, así como un breve catálogo de sus derechos.
+V
+El Título IV, «De la inspección del juego y apuestas y del régimen sancionador», cumpliendo con los principios de legalidad y tipicidad que rigen el derecho sancionador en nuestro ordenamiento jurídico, establece aquellas conductas que por acción u omisión son constitutivas de infracciones, recogiendo la clásica distinción entre muy graves, graves y leves, y delimitando las sanciones a imponer según dicha tipificación.
+Se establece asimismo el régimen competencial en materia sancionadora, distribuyendo las competencias tanto de la fase instructora como de la sancionadora.
+En cuanto al procedimiento sancionador su regulación se remite a la normativa que regula el ejercicio de la potestad sancionadora en la Comunidad de Madrid.
+Para llevar a cabo la inspección, vigilancia, control y cumplimiento de las prescripciones establecidas en la presente Ley, se contiene la previsión de que dichas funciones se desarrollen bien con medios propios a través de funcionarios específicamente designados para la función inspectora, bien con la colaboración de la Administración General del Estado mediante el Convenio correspondiente.
+Para el desempeño de dichas funciones se dota a dichos funcionarios de determinadas facultades y prerrogativas que se estimen necesarias, entre otras la de ostentar la condición de agentes de la autoridad.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de la aplicación de la Ley.
+1. El objeto de la presente Ley es la regulación en el ámbito territorial de la Comunidad de Madrid, de todas las actividades relativas a juegos y apuestas en sus distintas modalidades, y en general, todas aquellas actividades en las que se arriesguen cantidades de dinero u objetos económicamente evaluables en cualquier forma sobre los resultados, y que permitan su transferencia entre los participantes, con independencia de que predomine en ellos el grado de destreza de los jugadores o sean exclusiva o primordialmente de suerte, envite o azar y tanto si se desarrollan mediante la utilización de máquinas automáticas como si se llevan a cabo a través de la realización de actividades humanas, cualquiera que sea el medio por el que se realicen. Asimismo, será de aplicación a aquellas actividades de juego meramente recreativo que se llevan a cabo mediante máquinas o aparatos automáticos o medios telemáticos.
+2. Quedan excluidos de la presente Ley los juegos o competiciones de puro ocio o recreo que constituyan usos sociales de carácter tradicional, familiar o amistoso, siempre que los jugadores participantes, apostantes u organizadores no hagan de ellos objeto de explotación económica.
+3. Están excluidas del ámbito de aplicación de la presente Ley, las Apuestas Mutuas Deportivo Benéficas.
+4. En lo no previsto por esta Ley, así como en la normativa reglamentaria de desarrollo, será de aplicación supletoria la normativa estatal en materia de juego.
+
+### Artículo 2
+
+Artículo 2. Competencias.
+1. Corresponderán al Gobierno de la Comunidad de Madrid, entre otras, las siguientes competencias en materia de juego:
+a) Regular el régimen de publicidad, promoción y patrocinio del juego.
+b) Planificar los juegos y las apuestas que se desarrollen en la Comunidad Autónoma.
+c) Autorizar la instalación de Casinos de Juego.
+d) Regular los correspondientes Registros del Juego.
+e) Aprobar los Reglamentos Técnicos de los Juegos, sin perjuicio de lo establecido en la letra f) del siguiente apartado.
+2. Corresponderán a la Consejería competente en materia de juego las siguientes competencias:
+a) La regulación del régimen de fianzas para la explotación de los juegos autorizados.
+b) La concesión de las autorizaciones necesarias, para gestionar y explotar los juegos y apuestas.
+c) La ordenación de la inspección, comprobación, vigilancia y control de las actividades relacionadas con los juegos y apuestas.
+d) La llevanza de los correspondientes Registros de Juego.
+e) Establecer y homologar las características técnicas de los materiales e instrumentos de juego.
+f) La aprobación y desarrollo de los tipos, modalidades, premios y elementos de los juegos y apuestas, así como las reglas básicas de su desarrollo, las condiciones y requisitos de los sistemas técnicos, y las limitaciones para su práctica.
+Se modifica la letra a) del apartado 1 por el art. 15.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica el apartado 1 por el art. 18.1 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica por el art. 21.1 y 2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 3
+
+Artículo 3. Catálogo de Juegos y Apuestas.
+1. El Catálogo de Juegos y Apuestas de la Comunidad de Madrid constituye el inventario de los juegos cuya práctica puede ser autorizada en su territorio, con sujeción a los restantes requisitos reglamentariamente establecidos. La aprobación de un nuevo tipo o modalidad de juego o apuesta supondrá su inclusión automática en dicho Catalogo.
+2. En el Catálogo de Juegos y Apuestas se incluirán, en todo caso, los siguientes juegos y apuestas:
+a) Las Loterías.
+b) Los Boletos.
+c) Los exclusivos de los Casinos de juego.
+d) Los Juegos Colectivos de dinero y azar.
+e) Los que se desarrollen mediante el empleo de Máquinas recreativas y de juego.
+f) Las Rifas, Tómbolas y Combinaciones Aleatorias.
+g) Las Apuestas sobre acontecimientos deportivos, sobre carreras en que intervengan animales a celebrar en hipódromos y canódromos o sobre acontecimientos de otro carácter previamente determinados.
+3. Los juegos y apuestas no incluidos en el Catálogo de Juegos y Apuestas tendrán la consideración legal de prohibidos. Igual consideración tendrán aquellos que, aun estando incluidos en el referido Catálogo, se realicen sin las preceptivas autorizaciones o con incumplimiento de las condiciones y requisitos exigidos en las mismas.
+Se modifica el apartado 1 por el art. 18.2 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica el apartado 1 por el art. 7.1 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+
+### Artículo 4
+
+Artículo 4. Autorizaciones.
+1. El ejercicio de las actividades incluidas en el ámbito de aplicación de esta Ley requerirá autorización administrativa previa, a excepción de la explotación e instalación de máquinas recreativas y de la celebración de rifas, tómbolas y combinaciones aleatorias, que únicamente deberán ser comunicadas a la Consejería competente en materia de juego en los términos que reglamentariamente se establezca.
+2. La concesión de las correspondientes autorizaciones tendrá carácter temporal, pudiendo ser renovables cuando así se determine reglamentariamente.
+3. Podrá autorizarse la realización de juegos incluidos en el Catálogo de Juegos y Apuestas a través de medios telemáticos en los términos que reglamentariamente se prevea.
+4. Las autorizaciones podrán ser revocadas y dejadas sin efecto cuando durante su período de vigencia se pierdan todas o alguna de las condiciones que determinaron su otorgamiento, sin perjuicio de las sanciones a que hubiera lugar, cuando concurran las causas establecidas en esta Ley y en sus normas de desarrollo, así como por incumplimiento de las obligaciones tributarias en materia de juego de la Comunidad de Madrid.
+5. Las autorizaciones no podrán cederse ni ser explotadas a través de terceras personas. No obstante, el órgano competencia en materia de juego podrá autorizar transmisiones en los casos y condiciones que reglamentariamente se determinen.
+Se modifica el apartado 1 por el art. 7.2 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+ Se modifica el apartado 1 por el art. 6.1 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a6.
+ Se modifica el apartado 1 por el art. 26.1 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Artículo 5
+
+Artículo 5. Publicidad, promoción y patrocinio.
+1. Se entiende por publicidad toda forma de comunicación, difusión, divulgación o anuncio de las actividades de juegos y apuestas, así como de las empresas y establecimientos en que se desarrollan, cualquiera que sea el medio utilizado.
+Se entiende por promoción de las actividades de juego y apuestas aquella actuación consistente en la entrega de bienes o en la prestación de servicios con carácter gratuito o por precio inferior al de mercado, así como cualquier otra actividad distinta de la publicidad o patrocinio, cuyo objetivo sea dar a conocer o favorecer la práctica del juego.
+Se entiende por patrocinio todo apoyo o financiación de actividades, servicios o bienes, con el fin de dar a conocer una empresa o actividad de juegos o apuestas, propia o de terceros.
+2. La publicidad, promoción y patrocinio de las actividades de juegos y apuestas, así como de las empresas y establecimientos de juego, podrá realizarse por las empresas autorizadas para el ejercicio de dichas actividades en las condiciones y con los límites, y requisitos que se determinen reglamentariamente.
+En todo caso, tanto la publicidad como la promoción y el patrocinio estarán sujetas a los siguientes límites:
+a) No deberán alterar la dinámica de la práctica del juego o apuesta correspondiente.
+b) No estará permitida la entrega gratuita o la venta por precio inferior, de fichas, cartones, boletos o cualquier otro medio utilizado para la participación en los juegos y apuestas, que supongan ofertar juego gratuito o a un precio inferior al establecido, en los términos que se determinen reglamentariamente.
+c) No podrán realizarse promociones de captación de clientes en aquellos establecimientos de juego y en las condiciones que se determinen reglamentariamente.
+d) No podrán realizarse actuaciones consistentes en complementar la cuantía de los premios mediante pagos en dinero o en especie.
+e) No se podrán ofrecer consumiciones gratuitas o a un precio inferior al del mercado en aquellos establecimientos de juego y en los términos que se determinen reglamentariamente.
+f) La publicidad en el exterior de los locales de juego no podrá mostrar contenidos que inciten al juego, ni incluir información sobre el importe de los premios ni el coeficiente de las apuestas, en aquellos establecimientos de juego que se determinen reglamentariamente.
+g) No podrá realizarse publicidad de juego en centros y servicios sanitarios y socio sanitarios, centros de enseñanza públicos y privados, así como en emplazamientos en los que se lleven a cabo actividades dirigidas específica o principalmente a menores de edad.
+h) La publicidad y promoción no podrán ser perjudiciales para la formación de la infancia y la juventud, ni atentar contra la dignidad de las personas, ni tener contenido racista, xenófobo, sexista o de cualquier tipo de discriminación, o que incite al odio, ni vulnerar los valores y derechos reconocidos en la Constitución española.
+i) No está permitida la publicidad, promoción o patrocinio mediante la aparición de personas o personajes de relevancia o notoriedad pública.
+j) No se podrán realizar actividades de patrocinio de acontecimientos deportivos, eventos, bienes o servicios destinados específica o principalmente a menores de edad.
+k) No está permitida la publicidad estática del juego en la vía pública, en elementos móviles, en medios de transporte, ni a través de sistemas de megafonía.
+l) Las comunicaciones publicitarias por correo electrónico u otro medio de comunicación equivalente requerirán de la previa solicitud o de la expresa autorización de sus destinatarios.
+3. La publicidad, promoción y patrocinio de las actividades de juego y apuestas, así como de las empresas y establecimientos en que se desarrollan, deberá ajustarse a la normativa específica sobre publicidad, así como a la normativa que regule los servicios de sociedad de la información, comercio electrónico y comunicación audiovisual, y deberá respetar la normativa sobre protección de las personas menores de edad.
+4. La realización de combinaciones aleatorias con fines publicitarios por las empresas titulares de autorizaciones para la práctica de juegos y apuestas solo podrá efectuarse en el interior de los establecimientos y dirigida únicamente a los usuarios de éstos.
+5. La publicidad, promoción y patrocinio de las actividades de juego y apuestas respetarán los principios básicos sobre juego responsable y deberán contener la advertencia de los riesgos de la práctica abusiva del juego y la prohibición de participar a los menores de edad y a las personas incluidas en el Registro de Interdicciones de Acceso al Juego.
+6. Se permite la publicidad de los juegos y apuestas en prensa, servicios de comunicación audiovisual, servicios de la sociedad de la información, páginas webs y redes sociales, con carácter meramente informativo, entendiendo por tal aquélla que haga referencia exclusivamente al nombre de la empresa titular, el nombre y ubicación del establecimiento, los juegos que se comercialicen, el horario de la actividad de juego y los servicios complementarios que se presten.
+7. En las páginas webs de las empresas autorizadas para el ejercicio de las actividades de juegos y apuestas y en los medios de comunicación especializados en el sector del juego, se permite la publicidad de los juegos y apuestas.
+Se modifica por el art. 15.2 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. 12.1 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+
+## TÍTULO II
+
+De los juegos y apuestas y de los establecimientos en que se practican
+
+### Artículo 6
+
+Artículo 6. Requisitos de los juegos y material de juego.
+1. Los juegos y apuestas permitidos sólo se podrán practicar con los requisitos y condiciones y en los establecimientos señalados en esta Ley y en los reglamentos específicos que la desarrollen. En dichos establecimientos únicamente se podrán realizar aquellos juegos para cuyo ejercicio hayan sido específicamente autorizados.
+2. La práctica de los juegos y apuestas, a excepción de las máquinas recreativas, solo podrá efectuarse con material homologado por la Consejería competente en la materia, y las condiciones de su inscripción previa en el Registro del Juego, comercialización, distribución y mantenimiento serán establecidas específicamente en las normas de desarrollo de la presente Ley.
+La homologación e inscripción de dicho material realizada por otras Comunidades Autónomas tendrá validez en la Comunidad de Madrid en los términos reglamentarios a que se refiere el párrafo anterior.
+3. No se podrá homologar ningún material de juego que utilice imágenes, mensajes u objetos que puedan perjudicar la formación de la infancia y la juventud, que puedan vulnerar, directa o indirectamente, la dignidad de la persona y los derechos y libertades fundamentales, o que inciten a la violencia, al racismo o a la xenofobia, a actividades delictivas o a cualquier forma de discriminación prohibida por la Constitución y las leyes. Estas prohibiciones serán extensibles también a los juegos desarrollados mediante máquinas recreativas.
+4. El material no homologado que sea utilizado en la práctica de juegos y apuestas se considerará material clandestino, quedando prohibida su fabricación, tenencia, almacenamiento, distribución y comercialización, así como su instalación y explotación.
+Se modifica el apartado 2 por el art. 18.3 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica por el art. 26.2 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+## CAPÍTULO I
+
+De los Establecimientos y de los Juegos y Apuestas
+
+### Artículo 7
+
+Artículo 7. Establecimientos de juego.
+1. La práctica de los juegos y apuestas a que se refiere la presente Ley, se podrá desarrollar y, en su caso, autorizar, con las condiciones establecidas en los reglamentos específicos sobre los juegos, en los establecimientos siguientes:
+a) Casinos de juego.
+b) Establecimientos de juegos colectivos de dinero y azar.
+c) Salones recreativos.
+d) Salones de juego.
+e) Locales de apuestas.
+2. En los establecimientos de hostelería y en aquellos locales o recintos en los que así se regule se podrán instalar máquinas recreativas y de juego, en las condiciones que se determinen reglamentariamente. En este tipo de establecimientos y locales no podrá celebrarse ni comercializarse ningún otro tipo de juego o apuesta.
+3. Con las limitaciones que en cada caso se establezcan, se podrán autorizar los juegos de boletos, loterías y apuestas en aquellos establecimientos o recintos determinados reglamentariamente.
+4. La instalación de medios presenciales para la práctica de juegos a distancia desarrollados a través de canales electrónicos, telemáticos, informáticos e interactivos, solo podrá llevarse a cabo, previa autorización por la Consejería competente en materia de Juego, en los establecimientos regulados en la presente Ley y para los tipos de Juego permitidos en cada uno de ellos, de conformidad con los requisitos que se determinen reglamentariamente.
+Se modifica el apartado 2 por la disposición final 1 de la Ley 3/2021, de 22 de diciembre. Ref. BOE-A-2022-1193
+ Se añade el apartado 4 por el art. 18.4 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica el apartado 3 por el art. 7.3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+ Se modifica por el art. 6.2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181#a6.
+
+### Artículo 8
+
+Artículo 8. Casinos de Juego.
+1. Tendrán la consideración legal de Casinos de Juego los locales o establecimientos autorizados para la práctica de todos o algunos de los siguientes juegos, que tendrán el carácter de exclusivos de casino:
+— Ruleta francesa.
+— Ruleta americana.
+— Bola o ‘‘boule’’.
+— Veintiuno o ‘‘Black Jack’’.
+— Treinta y cuarenta.
+— Punto y banca.
+— Ferrocarril, ‘‘Baccara’’ o ‘‘Chemín de Fer’’.
+— ‘‘Baccara’’ a dos paños.
+— Dados.
+— Póker, en los términos que se establezca reglamentariamente.
+— Los desarrollados mediante Máquinas de azar.
+— Otros que puedan autorizarse reglamentariamente.
+2. Asimismo en los Casinos de Juego podrá autorizarse la instalación de máquinas recreativas con premio programado y podrán practicarse otros juegos incluidos en el Catálogo.
+3. El Gobierno determinará el número y distribución geográfica de los casinos mediante la planificación correspondiente y otorgará su autorización mediante el sistema de concurso. Para dicha concesión se valorarán, entre otros, los siguientes criterios:
+a) La solvencia técnica y económica de los promotores y el programa de inversiones a realizar.
+b) El interés socioeconómico, la generación de empleo y el interés turístico del proyecto.
+c) El informe del Ayuntamiento del Municipio donde se pretenda instalar.
+d) La oferta de ocio complementaria.
+e) El convenio específico que proponga el solicitante.
+f) La generación de empleo y las medidas propuestas para apoyar la estabilidad y calidad del mismo.
+Otorgada la autorización a un casino, el Gobierno fijará mediante Acuerdo el momento a partir del cual no podrá otorgar otra en el plazo de diez años.
+4. El titular de la Consejería competente en materia de juego podrá autorizar a cada casino de juego, excepto a los incluidos en los Centros Integrados de Desarrollo, la apertura y funcionamiento de una única sala que, formando parte del mismo, se encuentre situada fuera del recinto o complejo donde se ubique dicho casino, en el mismo o distinto término municipal. Dicha sala funcionará como apéndice del casino para la práctica de los juegos que tengan autorizados.
+Cada sala podrá tener como máximo una superficie de mil metros cuadrados y hasta 65 máquinas de juego instaladas. En dicha superficie no se computará el espacio destinado a máquinas de juego.
+5. El horario de funcionamiento de las salas de juego se determinará libremente por el casino.
+6. Las empresas titulares de Casinos de Juego podrán conceder préstamos, créditos o cualquier otra modalidad equivalente de financiación a los jugadores. En todo caso, se deberá comprobar que el solicitante no se encuentra inscrito en el Registro de Interdicciones de Acceso al Juego.
+Se modifica el apartado 3 por el art. 21.3 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+ Se modifica por el art. 6.1 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Téngase en cuenta, para la entrada en vigor de los apartados 5 y 6, lo establecido por la disposición final 3.3.b) de la citada Ley.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 12, de 15 de enero de 2013.
+ Se añade el apartado 4 por el art. 12.2 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+
+### Artículo 9
+
+Artículo 9. Establecimientos de Juegos Colectivos de Dinero y Azar.
+1. Tendrán esta consideración los locales específicamente autorizados para la práctica de los juegos colectivos de dinero y azar, mediante soportes oficialmente homologados, cuya venta se efectuará exclusivamente dentro de la sala donde se desarrolle el juego.
+2. En estos locales podrán instalarse máquinas recreativas con premio programado, así como desarrollarse otros juegos de los contenidos en el Catálogo, a excepción de los contemplados en el artículo 8 como exclusivos de Casino, en los términos que reglamentariamente se determine.
+
+### Artículo 10
+
+Artículo 10. Salones de Juego.
+Son Salones de Juego los establecimientos destinados a la explotación de máquinas recreativas con premio programado, en las condiciones y con los requisitos que se establezcan reglamentariamente. También podrán explotarse en dichos establecimientos máquinas recreativas o actividades de puro entretenimiento.
+
+### Artículo 11
+
+Artículo 11. Salones recreativos.
+Son Salones recreativos los establecimientos destinados a la explotación de máquinas recreativas, en las condiciones y con los requisitos que se establezcan reglamentariamente. También podrán explotarse actividades de puro entretenimiento.
+
+### Artículo 12
+
+Artículo 12. Locales de Apuestas.
+1. Se entiende por Locales de Apuestas aquellos establecimientos en los que se desarrolla una actividad de juego en la que se arriesga una cantidad económicamente determinada sobre los resultados de un acontecimiento deportivo o de otra índole de desenlace incierto.
+2. Asimismo tendrán la consideración de Locales de Apuestas, a los efectos de lo previsto en esta Ley, los Hipódromos y Canódromos autorizados para la explotación de apuestas sobre la celebración de carreras de caballos o de galgos respectivamente.
+3. Las empresas que exploten Locales de Apuestas deberán cumplir los requisitos que se determinen reglamentariamente.
+
+## CAPÍTULO II
+
+De otros Juegos y Apuestas
+
+### Artículo 13
+
+Artículo 13. Máquinas recreativas y de Juego.
+1. A efectos de su régimen jurídico las máquinas a que se refiere esta Ley se clasifican en:
+a) Máquinas recreativas.
+b) Máquinas recreativas con premio programado.
+c) Máquinas de azar.
+2. Son máquinas recreativas aquellas de mero pasatiempo o recreo que se limitan a conceder al usuario un tiempo de uso o de juego a cambio del precio de la partida, sin que puedan conceder ningún premio en metálico, en especie o en forma de puntos canjeables por objetos o dinero.
+3. Son máquinas con premio programado aquellas que, a cambio del precio de la partida, conceden al usuario un tiempo de uso de juego y, eventualmente de acuerdo con el programa de juego, un premio.
+4. Son máquinas de azar aquellas que a cambio del precio de la partida, conceden al usuario un tiempo de uso o de juego y, eventualmente, un premio que dependerá siempre del azar.
+5. Sin perjuicio de lo señalado en los apartados anteriores, el titular de la Consejería competente en materia de juego podrá incorporar a la clasificación anterior otros tipos o subgrupos de máquinas que no estuvieran exactamente identificadas o comprendidas en las antes señaladas.
+6. Quedarán excluidas de la presente Ley las máquinas expendedoras que se limiten a efectuar mecánicamente la venta de productos o mercancías, siempre que el valor del dinero depositado en las mismas corresponda al valor de mercado de los productos que se entreguen. Igualmente quedarán excluidas, en las condiciones que reglamentariamente se establezcan, las máquinas de competición pura o deporte de carácter esencialmente manual o mecánico sin componentes eléctricos tales como futbolines, billares, dianas o similares siempre que no den premio directo o indirecto alguno, así como las máquinas o aparatos de uso infantil accionadas por monedas que permitan al usuario un entretenimiento consistente en la conducción de un vehículo, el trote de un caballo o movimientos similares, y las máquinas de tocadiscos y videodiscos.
+7. Los requisitos, modalidades y condiciones para la fabricación, homologación y explotación de las máquinas de juego reguladas en los apartados anteriores serán establecidos reglamentariamente. Asimismo, lo serán las condiciones para su instalación en los locales debidamente autorizados y los mecanismos de garantía que aseguren el adecuado control administrativo de las mismas y de los locales en los que se exploten.
+Se modifica el apartado 5 por el art. 7.4 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+
+### Artículo 14
+
+Artículo 14. Boletos.
+El juego desarrollado mediante boletos es aquel en que, mediante la adquisición en establecimientos autorizados al efecto por un precio cierto de boletos, permite obtener, en su caso, el premio en metálico previamente determinado en los mismos.
+Reglamentariamente se regulará el procedimiento de autorización, la emisión de los boletos y las medidas de seguridad y control sobre los mismos.
+
+### Artículo 15
+
+Artículo 15. Rifas. Tómbolas y combinaciones aleatorias.
+1. Se entiende por rifa la modalidad de juego consistente en un sorteo a celebrar de uno o varios premios en especie, previamente determinados, entre los adquirentes de billetes o papeletas de importe único, correlativamente numerados o diferenciados entre sí por cualquier otro sistema.
+2. Se entiende por tómbola aquella modalidad de juego en la que el jugador participa en el sorteo de diversos objetos expuestos al público, mediante la adquisición de billetes o papeletas cerrados que contienen, en su caso, la indicación del premio que se puede obtener, que habrá de ser en todo caso en especie.
+3. La combinación aleatoria con fines publicitarios es una modalidad de juego por la que una persona o entidad sortea un premio en metálico o en especie, con fines publicitarios, entre quienes adquieran sus productos o servicios u ostenten la condición actual o potencial de clientes suyos, sin que pueda exigirse una contraprestación específica a cambio.
+
+### Artículo 16
+
+Artículo 16. Loterías.
+1. Tendrá la consideración legal de Lotería aquella modalidad de juego en la que se otorgan premios en metálico en los casos en que la numeración expresada en el billete o soporte en poder del jugador coincide con la determinada mediante un sorteo celebrado en la fecha y con los premios que figura en los propios billetes.
+2. Podrá autorizarse la venta de billetes de Lotería dentro de los recintos o locales que expresamente se determinen en las normas reglamentarias que desarrollen la presente Ley.
+3. El juego de Lotería podrá organizarse directamente por la Comunidad de Madrid o mediante la concesión de la gestión y explotación a persona jurídica pública o privada.
+
+## TÍTULO III
+
+De las personas que intervienen en el juego
+
+### Artículo 17
+
+Artículo 17. Del ejercicio empresarial de actividades relacionadas con el juego.
+1. El ejercicio empresarial de toda actividad relacionada con la organización y explotación de juegos y apuestas, así como con la fabricación, reparación, intermediación en el comercio o explotación de material de juego está sujeto a inscripción previa en el Registro del Juego, en las condiciones que se determinen reglamentariamente. No será necesaria dicha inscripción para la explotación de máquinas y salones recreativos y el ejercicio de las demás actividades relacionadas con dichas máquinas.
+2. Dicho Registro constituye el instrumento oficial de publicidad y control de las actividades vinculadas a la organización y explotación de juegos y apuestas con el objeto de garantizar el cumplimiento de las obligaciones correspondientes al ejercicio de aquellas actividades y asegurar su transparencia.
+3. Queda prohibido el ejercicio empresarial de actividades relacionadas con juegos y apuestas que no cuente con inscripción previa en el Registro del Juego o que se desarrolle sin autorización administrativa previa o al margen de los requisitos y condiciones establecidos reglamentariamente, con las excepciones previstas en la presente ley.
+Se modifica el apartado 1 por el art. 18.5 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica por el art. 26.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Artículo 18
+
+Artículo 18. Fianzas.
+1. Las empresas que realicen actividades relacionadas con el juego y las apuestas deberán constituir una fianza en favor de la Hacienda de la Comunidad de Madrid, en los términos y las cuantías que reglamentariamente se establezcan.
+2. Estas fianzas quedarán afectas al cumplimiento de las obligaciones establecidas en la presente Ley, especialmente al abono de los premios y a las responsabilidades derivadas del régimen sancionador, así como al cumplimiento de las obligaciones derivadas de los tributos específicos sobre el juego. Transcurrido el período de pago voluntario dichas obligaciones se harán efectivas de oficio contra las fianzas.
+3. La fianza deberá mantenerse actualizada en la cuantía máxima del importe exigible. Si se produjese, por cualquier circunstancia, una disminución de su cuantía, la persona o entidad que la hubiera constituido deberá proceder a completarla en la cuantía obligatoria en el plazo que en cada caso se establezca reglamentariamente o, en su defecto, en el plazo de dos meses a contar desde la fecha de su disminución. De no llevarse a cabo dicha reposición, se revocará la autorización, de conformidad con lo dispuesto en el artículo 4.4 de esta Ley.
+4. Una vez constituida, la fianza quedará a disposición de la Hacienda de la Comunidad de Madrid en tanto no sea autorizada su cancelación. A estos efectos, desaparecidas las causas de su constitución y siempre que no se tenga conocimiento de obligaciones o responsabilidades pendientes a las que estuviera afecta dicha fianza, se procederá a su devolución, a petición del interesado, previa liquidación cuando proceda.
+
+## CAPÍTULO I
+
+De las empresas titulares de autorizaciones para la realización de Juegos y Apuestas
+
+### Artículo 19
+
+Artículo 19. Autorizaciones de las Empresas de Juego.
+1. Las persona físicas o jurídicas inscritas en el Registro del Juego precisarán de autorización expresa para la organización y explotación de los juegos objeto de la presente Ley, en los términos establecidos reglamentariamente, salvo en aquellos supuestos en los que la normativa aplicable no establezca un régimen de autorización previo al ejercicio de la actividad de que se trate.
+2. En ningún caso podrán ser titulares de las autorizaciones necesarias para la práctica y organización de los juegos y apuestas regulados en la presente Ley las personas físicas así como las personas jurídicas en las que figuren como socios o como directivos o administradores personas que se encuentren en alguna de las siguientes circunstancias:
+a) Haber sido condenado mediante sentencia firme dentro de los cinco años anteriores a la fecha de la solicitud de autorización por delito de falsedad, contra la propiedad o contra la Hacienda Pública, así como por cualquier infracción penal derivada de la gestión o explotación de juegos no autorizados.
+b) Los quebrados no rehabilitados y quienes habiéndose declarado en suspensión legal de pagos o concurso de acreedores, hayan sido declarados insolventes.
+c) Los socios o administradores de empresas de juego que hayan sido socios o administradores de empresas que mantengan deudas con la Comunidad de Madrid por impuestos específicos sobre el Juego.
+d) Haber sido sancionados mediante resolución firme por tres o más infracciones muy graves en los últimos dos años por incumplimiento de la normativa de Juego, o por tres o más infracciones graves de la normativa tributaria en el cumplimiento de las obligaciones derivadas de los impuestos específicos de la Comunidad de Madrid sobre el juego.
+Se modifica el apartado 1 por el art. 18.6 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+
+### Artículo 20
+
+Artículo 20. Empresas titulares de Casinos.
+Las entidades o empresas titulares de la explotación de Casinos deberán reunir, como mínimo, los siguientes requisitos:
+a) Constituirse bajo la forma de Sociedad Anónima.
+b) Ostentar nacionalidad española o de un Estado miembro de la Unión Europea.
+c) Tener un capital social mínimo de 12.000.000 de euros (1.996.632.000 pesetas) totalmente suscrito y desembolsado, dividido en acciones nominativas.
+
+### Artículo 21
+
+Artículo 21. Empresas titulares de Juegos Colectivos de Dinero y Azar.
+Las empresas titulares de los establecimientos de comercialización al público de juegos colectivos de dinero y azar, deberán constituirse bajo la forma de Sociedad Anónima, junto con los demás requisitos que vengan establecidos reglamentariamente.
+
+### Artículo 22
+
+Artículo 22. Empresas titulares de Salones.
+La explotación de Salones Recreativos y de Salones de Juego se podrá realizar por personas físicas o jurídicas en los términos que reglamentariamente se establezca.
+Se modifica por el art. 26.4 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Artículo 23
+
+Artículo 23. Empresas operadoras de máquinas de juego.
+La explotación de máquinas recreativas con premio programado y de azar solo podrá llevarse a cabo por las personas físicas o jurídicas inscritas como empresas operadoras en el Registro del Juego, conforme a los requisitos establecidos reglamentariamente.
+Se modifica por el art. 18.7 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica por el art. 7.5 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+
+## CAPÍTULO II
+
+De los Usuarios
+
+### Artículo 24
+
+Artículo 24. Los Usuarios.
+1. Los menores de edad y los incapacitados legalmente no podrán practicar ningún juego de suerte, envite y azar, usar máquinas de juego con premio, ni participar en ningún género de apuestas.
+2. Las personas incluidas en el Registro de Interdicciones de acceso al juego no podrán acceder a los establecimientos en los que se practiquen los juegos para los que se hayan incluido.
+El Registro de Interdicciones de Acceso al Juego es el sistema destinado a recoger la información necesaria para hacer efectivo el derecho subjetivo de los ciudadanos a que les sea prohibida la entrada en los establecimientos de juegos colectivos de dinero y azar, en los casinos de juego y en los demás establecimientos de juego cuando, en este último caso, así se prevea específicamente en los reglamentos técnicos correspondientes. Dicha información se facilitará a los titulares de los establecimientos y permitirá prohibir el acceso a las personas inscritas en el citado Registro. El sistema de registro se aplicará igualmente a los juegos y apuestas cuando se desarrollen por medios telemáticos, interactivos o de comunicación a distancia.
+3. Los titulares de los establecimientos donde se practiquen los juegos podrán ejercer el derecho de admisión de acuerdo con la normativa vigente en la Comunidad de Madrid en materia de espectáculos públicos.
+4. En ningún caso podrán participar, directa o indirectamente a través de terceras personas, los accionistas, partícipes o titulares de la propia empresa, su personal, directivos y empleados, así como los cónyuges, ascendientes y descendientes en primer grado, en los juegos que gestionen o exploten aquellos.
+Tampoco podrán participar directa o indirectamente en las apuestas a que se refiere el artículo 14 los deportistas, entrenadores, jueces, árbitros o cualquier otra persona que participe directamente en el acontecimiento objeto de apuestas o pueda influir en su resultado.
+5. Los usuarios o participantes en los juegos y apuestas tienen los siguientes derechos:
+a) Derecho al tiempo de uso correspondiente al precio de la partida de que se trate.
+b) Derecho al cobro de los premios que les pudiera corresponder de conformidad con la normativa específica de cada juego.
+c) Derecho a obtener información sobre las reglas que han de regir el juego y/o apuesta.
+d) Derecho a formular las reclamaciones que estimen oportunas.
+6. Los establecimientos autorizados para la práctica de juegos y realización de apuestas deberán disponer de las correspondientes hojas de reclamaciones de conformidad con las previsiones establecidas en la normativa de desarrollo de la presente Ley, así como en la legislación vigente en esta materia en la Comunidad de Madrid. Dichas hojas de reclamaciones estarán a disposición de los jugadores o apostantes, quienes podrán reflejar en ellas sus reclamaciones.
+Se modifica el apartado 4 por el art. 6.2 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Se modifica el párrafo segundo del apartado 2 por el art. 16 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+
+## TÍTULO IV
+
+De la inspección del juego y apuestas y del régimen sancionador
+
+## CAPÍTULO I
+
+Inspección y Control
+
+### Artículo 25
+
+Artículo 25. Inspección del juego y de las apuestas.
+1. La inspección, vigilancia y control de lo regulado en la presente Ley corresponde al órgano que tenga atribuidas las funciones en materia de juego, quien las desarrollará con medios propios a través de funcionarios específicamente designados para la función inspectora y/o con la colaboración de la Administración General del Estado prestada por funcionarios designados a tal efecto en el Convenio correspondiente.
+2. Los funcionarios referidos en el párrafo anterior tendrán encomendadas las funciones de control e inspección del juego y apuestas en el ámbito de la Comunidad de Madrid. A estos efectos, sin perjuicio de cualesquiera otras que tengan asignadas por la normativa vigente, tendrán las siguientes funciones:
+a) Vigilancia e inspección del cumplimiento de la normativa en vigor en materia de juego.
+b) Formalización de actas por presuntas infracciones a la normativa sobre el juego.
+c) Precinto, depósito e incautación de las máquinas y del material y elementos de juego y apuestas en los términos del artículo 36 de la presente Ley.
+3. Para llevar a cabo dichas funciones, los funcionarios a que se refiere este artículo ostentarán la condición de agentes de la autoridad y tendrán, entre otras facultades, la de examinar locales, máquinas, documentos y cualquiera otra información que pueda servir para el mejor cumplimiento de su tarea. A estos efectos las personas físicas o jurídicas titulares de las autorizaciones o establecimientos de que se trate, sus representantes legales y, en definitiva, el personal que en su caso se encuentre al frente de las actividades en el momento de la inspección, tendrán la obligación de facilitar a dichos funcionarios el acceso a los locales y a sus diversas dependencias, así como el examen de los elementos de juego, libros, registros y documentos que necesiten para llevar a cabo la inspección. Todo ello sin perjuicio de las competencias atribuidas a los órganos de inspección de la Comunidad de Madrid en materia tributaria.
+4. El órgano que tenga atribuida las competencias en materia de juego podrá requerir la comparecencia de los titulares o responsables de las empresas titulares de autorizaciones o que ejerciten actividades de juego, a fin de realizar las actuaciones que se estimen oportunas.
+
+### Artículo 26
+
+Artículo 26. Control de los Juegos y Apuestas.
+Reglamentariamente podrán establecerse las medidas de control que se estimen necesarias a los efectos de garantizar el cumplimiento de las normas establecidas en la presente Ley, así como en su normativa de desarrollo, y en particular podrá establecerse, en la forma en que se determine reglamentariamente, una conexión informática en línea entre el órgano administrativo competente en materia de juego y los sistemas de procesos de datos de los Juegos y Apuestas para los que se prevea, sin perjuicio de lo establecido en la legislación vigente en materia de protección de datos.
+
+## CAPÍTULO II
+
+Del régimen sancionador
+
+### Artículo 27
+
+Artículo 27. Infracciones administrativas.
+1. Son infracciones administrativas en materia de juego las acciones u omisiones tipificadas en la presente Ley, incluso a título de simple negligencia. Dichas infracciones podrán ser especificadas, dentro de los límites establecidos por la Ley, en los reglamentos técnicos de los juegos.
+2. Las infracciones administrativas en materia de juego se clasifican en graves, muy graves y leves.
+3. Cuando las acciones u omisiones denunciadas cometidas por un mismo infractor, fueran constitutivas de varios tipos de infracción, el órgano competente impondrá la sanción que corresponda al tipo de infracción más grave y considerándose las demás infracciones como circunstancias agravantes para la graduación de la sanción a imponer.
+4. Serán sujetos infractores las personas físicas o jurídicas y las entidades que intervengan en las actividades incluidas en el objeto y ámbito de aplicación de la presente Ley y realicen las acciones u omisiones tipificadas como infracciones en la misma. La concurrencia de varios sujetos infractores en la comisión de una infracción determinará su responsabilidad solidariamente frente a la Administración.
+Se añade el apartado 4 por el art. 18.8 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+
+## Sección 1
+
+Sección 1.ª De las infracciones
+
+### Artículo 28
+
+Artículo 28. Infracciones muy graves.
+Son infracciones muy graves:
+a) Realizar actividades de organización o explotación de juegos o apuestas careciendo de las autorizaciones o inscripciones, o con incumplimiento de los requisitos y condiciones establecidos en las mismas, así como la organización o explotación de los juegos en locales o recintos no autorizados, en condiciones distintas a las autorizadas o por personas no autorizadas.
+b) La modificación unilateral de cualquiera de las condiciones en virtud de las cuales se concedieron las correspondientes autorizaciones.
+c) La cesión por cualquier título de las autorizaciones concedidas o de la explotación y comercialización de los juegos y apuestas, salvo en las condiciones o con los requisitos establecidos en las normas vigentes. De esta infracción serán responsables tanto la empresa cedente como la empresa cesionaria.
+d) Efectuar publicidad de los juegos de azar o apuestas o de los establecimientos en que éstos se practiquen al margen de las normas establecidas o autorizaciones concedidas. De esta infracción será responsable el titular de la autorización.
+e) La promoción o el patrocinio de juegos o apuestas, así como el complemento de los premios, al margen de las normas establecidas o autorizaciones concedidas.
+f) Utilizar elementos o máquinas de juego no homologados o no autorizados, o sustituir fraudulentamente el material de juego.
+g) Modificar los límites de las apuestas o premios autorizados.
+h) Alterar la realidad u omitir información en los documentos y datos que se aporten en los procedimientos administrativos en materia de juego, incurriendo en falsedad, inexactitud o irregularidad esencial.
+i) Ejercer coacción o intimidación sobre los jugadores en los locales o recintos en que tengan lugar los juegos, por las entidades o empresas titulares, organizadoras o explotadoras de las actividades de juego o apuestas o por las personas al servicio de dichas empresas, e igualmente por el personal empleado o directivo de los establecimientos.
+j) Conceder préstamos o créditos, o permitir que se otorguen, a jugadores o apostantes por las entidades o empresas titulares, organizadoras o explotadoras de las actividades de juego o apuestas o por las personas al servicio de dichas empresas, e igualmente por el personal empleado o directivo de los establecimientos.
+k) La manipulación de los juegos en perjuicio de los jugadores o apostantes o de la Hacienda de la Comunidad de Madrid.
+l) El impago total o parcial a los jugadores o apostantes de los premios o cantidades de que resultasen ganadores.
+m) La venta de cartones y tarjetas de juegos colectivos de dinero y azar, de boletos, billetes, papeletas o de cualquier otro título que permita la participación en los juegos o apuestas por precio distinto al autorizado.
+n) La fabricación, importación, comercialización, mantenimiento y distribución de material de juego con incumplimiento de lo dispuesto en la normativa vigente en la materia.
+ñ) El incumplimiento de la prohibición de participar en los juegos y apuestas regulado en el artículo 24.4 de la presente Ley.
+o) El incumplimiento de las medidas de control adoptadas a los efectos de garantizar el cumplimiento de las normas establecidas en el artículo 26 de la presente Ley.
+p) El incumplimiento del deber de comparecencia, cuando sea requerido para ello de conformidad con lo establecido en el artículo 25.4 de la presente Ley.
+q) Permitir el acceso a los establecimientos de juego y apuestas, así como permitir la práctica del juego, a los menores de edad y a las personas que lo tienen prohibido en virtud de la presente Ley y de las normas que la desarrollen.
+r) Permitir a los menores de edad el acceso al juego de máquinas con premio en establecimientos de hostelería.
+s) La no existencia en los establecimientos de juego y apuestas de un servicio de control de admisión o su funcionamiento con incumplimiento de los requisitos y condiciones establecidas reglamentariamente.
+t) La inexistencia de un sistema informático de acceso destinado al control de los asistentes a los establecimientos de juego y apuestas, o la llevanza incorrecta o inexacta del mismo, o en condiciones distintas a las homologadas o de las reglamentariamente establecidas.
+u) La falta de identificación o registro de los visitantes y usuarios en los sistemas informáticos de control de acceso a los establecimientos de juego.
+v) La reincidencia en la comisión de tres infracciones graves con sanción firme en vía administrativa, en un período de dos años.
+Se modifica por el art. 15.3 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica la letra h) por el art. 18.9 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a18.
+ Se modifica la letra ñ) por el art. 6.3 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Artículo 29
+
+Artículo 29. Infracciones graves.
+Son infracciones graves:
+a) Permitir o consentir expresa o tácitamente la organización, celebración o práctica de juegos o apuestas en locales no autorizados o por personas no autorizadas, así como permitir la instalación o explotación de máquinas recreativas, recreativas con premio programado o de azar, careciendo de las autorizaciones o sin reunir los requisitos exigidos reglamentariamente.
+b) Carecer o llevar incorrectamente los libros o soportes informáticos exigidos por la normativa en materia de juego.
+c) No remitir al órgano competente en materia de ordenación del juego los datos o documentos que reglamentariamente se requieran.
+d) No comunicar o no acreditar en el plazo reglamentariamente establecido la información registral de las inscripciones de empresas en el Registro del Juego para su actualización.
+e) Obtener o solicitar la autorización de instalación de máquinas en establecimientos de hostelería con aportación de documentos o datos falsos, irregulares o no conformes con la realidad.
+f) La falta de hojas de reclamaciones en los locales autorizados para juegos de suerte, envite o azar o la negativa a facilitar las mismas al usuario que las solicite.
+g) No remitir en el plazo reglamentariamente establecido al órgano competente las reclamaciones que se formulen.
+h) La transmisión de las máquinas recreativas con premio programado o de azar con incumplimiento de las condiciones reglamentariamente establecidas.
+i) Reducir el capital de las sociedades o las fianzas exigidas a las empresas para realizar actividades relacionadas con los juegos de suerte, envite o azar por debajo del límite establecido.
+j) Tomar parte como jugador en juegos no autorizados en establecimientos públicos o privados.
+k) La negativa de colaboración o de exhibir a los funcionarios que tengan encargada la misión de control de los juegos y apuestas los documentos acreditativos de las autorizaciones administrativas, así como la negativa a abrir o mostrar a los mismos para su comprobación las máquinas o elementos de juego.
+l) Instalar o explotar máquinas recreativas, recreativas con premio programado o de azar en número que exceda del autorizado.
+m) No realizar el depósito a favor de la Hacienda de la Comunidad de Madrid de las cantidades que resulten de premios que no hayan podido ser abonados, en los plazos que reglamentariamente se establezcan.
+n) La falta de comunicación dentro de los plazos establecidos de cualquier modificación de la autorización inicial que no requiera autorización previa.
+ñ) La no devolución de la documentación que ampare la explotación e instalación de las máquinas recreativas con premio programado o de azar cuando la misma sea exigida reglamentariamente.
+o) Permitir el uso o mantener el funcionamiento de material de juego sin cumplir las condiciones técnicas de su homologación.
+p) El incumplimiento de las normas técnicas de los reglamentos de los juegos y apuestas.
+q) El incumplimiento de las obligaciones o prohibiciones establecidas reglamentariamente, relativas a la rotulación de las fachadas de los establecimientos de juego o a la información que se pueda ofrecer en el exterior de los mismos.
+r) No disponer en los establecimientos de juego a disposición de los usuarios, de los folletos informativos a los que vengan obligados de conformidad con lo dispuesto en la presente Ley o en los reglamentos dictados en desarrollo de la misma.
+s) Comercializar o explotar juegos fuera del horario de apertura y cierre autorizado o mantener en funcionamiento las máquinas de juego, los terminales o cualquier otro elemento o material utilizado para la práctica de juego fuera de los horarios autorizados.
+t) Y en general, el incumplimiento de los requisitos y condiciones establecidos en la presente Ley y las normas que lo desarrollan siempre que no tengan la condición de infracción muy grave y hayan ocasionado beneficio para el infractor o perjuicio al usuario o para los intereses de la Comunidad de Madrid.
+Se modifica por el art. 15.4 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica la letra r) por el art. 7.6 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+
+### Artículo 30
+
+Artículo 30. Infracciones leves.
+Son infracciones leves:
+a) No exhibir en los establecimientos de juego así como en las máquinas recreativas con premio programado y de azar, los documentos acreditativos de su autorización.
+b) El incumplimiento de los requisitos o prohibiciones establecidas en esta Ley o sus normas de desarrollo, no tipificado como infracciones graves o muy graves.
+
+## Sección 2
+
+Sección 2.ª De las sanciones
+
+### Artículo 31
+
+Artículo 31. Sanciones.
+1. Las infracciones contempladas en esta Ley podrán ser sancionadas conforme a lo siguiente:
+a) Las leves, con multas de hasta 3.000 euros (499.158 pesetas).
+b) Las graves, con multas desde 3.000,01 euros (499.160 pesetas) hasta 9.000 euros (1.497.474 pesetas); y además, en su caso, con la suspensión temporal de la autorización concedida para la explotación y organización de los juegos regulados en la presente Ley por un período máximo de seis meses o la inhabilitación temporal para actividades de juego por idéntico período.
+c) Las muy graves, con multas desde 9.000,01 euros (1.497.476 pesetas) hasta 600.000 euros (99.831.600 pesetas); y además, en su caso, con suspensión temporal por un período máximo de cinco años o revocación de la autorización concedida para la explotación y organización de los juegos regulados en la presente Ley o la inhabilitación temporal o definitiva para actividades de juego.
+2. Para la graduación de las sanciones se ponderarán las circunstancias que concurran en los hechos y, especialmente, la intencionalidad del infractor, el daño producido tanto a terceros como a la Administración, la peligrosidad de la conducta, la trascendencia social y económica de la acción, la reincidencia o reiteración, aplicando en todo caso el criterio de proporcionalidad entre la infracción cometida y la cuantía y efectos de la sanción.
+3. Las infracciones graves o muy graves podrán ser sancionadas con multas de cuantía inferior al mínimo fijado cuando por su entidad, trascendencia, naturaleza, ocasión o circunstancias se produzca una desproporción manifiesta entre la infracción cometida y la multa que le correspondería.
+4. El órgano competente para dictar la resolución de los expedientes sancionadores, en los supuestos de falta de homologación o de autorización, podrá decretar el comiso y la destrucción de las máquinas o elementos de juego objeto de la infracción, y ordenar el comiso de las apuestas habidas y de los beneficios ilícitos obtenidos.
+Se añade el apartado 4 por el art. 7.7 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-1956.
+ Se añade el apartado 3 por el art. 6.4 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+## Sección 3
+
+Sección 3.ª De la prescripción y de la caducidad
+
+### Artículo 32
+
+Artículo 32. Prescripción.
+1. Las infracciones leves prescribirán a los seis meses, las graves al año y las muy graves a los dos años.
+2. La prescripción comenzará a contar desde el día en que se hubiere cometido la infracción.
+3. La prescripción quedará interrumpida desde la notificación al infractor de la iniciación del procedimiento sancionador, volviendo a correr el tiempo de la misma desde que aquél termine sin sanción o se paralice durante más de un mes, si no es por causa imputable al interesado.
+
+### Artículo 33
+
+Artículo 33. Caducidad.
+El plazo máximo para acordar y notificar la resolución del procedimiento sancionador iniciado será de un año desde el acuerdo de iniciación del mismo. El vencimiento del plazo anterior sin que se haya dictado y notificado resolución expresa, producirá la caducidad del procedimiento, salvo que dicha dilación estuviera causada, directa o indirectamente, por acciones u omisiones imputables a los interesados; todo ello sin perjuicio del mantenimiento de la potestad sancionadora de la Administración sobre dichos hechos si la infracción no estuviera prescrita.
+
+## Sección 4
+
+Sección 4.ª Competencia y procedimiento
+
+### Artículo 34
+
+Artículo 34. Procedimiento sancionador.
+El procedimiento sancionador se ajustará a lo establecido en la normativa que regule el ejercicio de la potestad sancionadora en la Comunidad de Madrid, sin perjuicio de las disposiciones contenidas en esta Ley.
+
+### Artículo 35
+
+Artículo 35. Órganos competentes en el procedimiento sancionador.
+1. Corresponde al Director General que tenga atribuida la competencia en materia de juego la incoación de los procedimientos sancionadores que se inicien en aplicación de la presente Ley.
+2. La resolución de los expedientes sancionadores corresponde:
+Al Director General que tenga atribuida la competencia en materia de juego, cuando la sanción consista en una multa de hasta 60.000 euros (9.983.160 pesetas) y/o en la suspensión de la autorización concedida o el cierre del local donde se juegue o la inhabilitación del mismo para actividades de juego por un periodo máximo de tres años.
+Al Consejero competente por razón de la materia, cuando la sanción consista en una multa desde 60.000,01 euros (9.983.162 pesetas) hasta 300.000 euros (49.915.800 pesetas) y/o en la suspensión de la autorización concedida o el cierre del local donde se juegue o la inhabilitación del mismo para actividades de juego por un período máximo de cinco años.
+Al Gobierno, cuando la sanción consista en una multa desde 300.000,01 euros (49.915.802 pesetas) y/o en la suspensión de la autorización concedida o el cierre del local donde se juegue o la inhabilitación del mismo para actividades de juego con carácter definitivo.
+3. A los efectos de la interposición de los recursos que legalmente procedan, las resoluciones dictadas en los procedimientos sancionadores pondrán fin a la vía administrativa.
+
+## Sección 5
+
+Sección 5.ª De las medidas cautelares
+
+### Artículo 36
+
+Artículo 36. Medidas cautelares.
+1. El órgano competente para ordenar la incoación del procedimiento sancionador podrá acordar como medida cautelar el cierre de los establecimientos de juego, el precinto y depósito de las máquinas y del material y elementos de juego, así como la incautación de los materiales de todo tipo usados para la práctica de los juegos y apuestas habidos, cuando existan indicios racionales de infracción muy grave, como medida previa o simultánea a la instrucción del procedimiento sancionador, o durante la tramitación del mismo.
+2. Sin perjuicio de lo establecido en materia de sanciones por juego ilegal, el órgano competente para ordenar la incoación del procedimiento sancionador deberá adoptar medidas conducentes al cierre inmediato de los establecimientos en que se organice la práctica de los juegos sin la autorización requerida, así como a la incautación de los materiales de todo tipo usados para dicha práctica y las apuestas realizadas.
+3. Los funcionarios que lleven a cabo la inspección podrán, en el momento de formalizar la correspondiente acta, adoptar las medidas cautelares de depósito y precinto de las máquinas y del material y elementos de juego, así como la incautación de los materiales de todo tipo usados para la práctica de los juegos y apuestas. En este caso, el órgano a quien compete la apertura del procedimiento deberá en la providencia de incoación, confirmar o levantar la medida cautelar adoptada. Si en el plazo de cuatro meses no se hubiese comunicado la ratificación de la medida, se considerará sin efecto, sin perjuicio de la continuación del procedimiento sancionador que se hubiere incoado.
+
+## TÍTULO V
+
+Del juego responsable
+Se añade por el art. 15.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 37
+
+Artículo 37. Principios rectores de la actividad de juego.
+1. Las actuaciones en materia de juego se regirán por los siguientes principios:
+a) Respeto a las reglas básicas de una política de juego responsable.
+b) Protección de las personas menores de edad y de todas aquellas que tengan prohibido su acceso a los establecimientos de juego y apuestas o a la práctica del juego.
+c) Transparencia y seguridad en el desarrollo de los juegos y apuestas y garantía de que no se produzcan fraudes en su desarrollo.
+d) Garantía del pago de los premios, así como la colaboración en el cumplimiento de la legislación de prevención y lucha contra el fraude fiscal y de blanqueo de capitales.
+e) Facultades de intervención y control por parte de la Administración pública.
+f) Prevención de los perjuicios a las personas usuarias y en especial a los colectivos sociales más vulnerables.
+2. En todo caso, en la ordenación del juego, se tendrá en cuenta su realidad e incidencia social, sus repercusiones económicas, la diversificación empresarial del juego en sus distintas modalidades, favoreciendo el acceso en condiciones de igualdad de las personas físicas y jurídicas explotadoras y comercializadoras de juegos y apuestas. Para ello la Administración deberá velar por la aplicación de los principios rectores con la finalidad de evitar el fomento del hábito irresponsable del juego y reducir sus efectos negativos, y las empresas deberán colaborar en este objetivo.
+Se añade por el art. 15.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Artículo 38
+
+Artículo 38. Políticas de juego responsable.
+1. Las políticas de juego responsable suponen que el ejercicio de las actividades de juego se abordará desde una política integral de responsabilidad social corporativa que contemple el juego como un fenómeno complejo donde se han de combinar acciones preventivas, de sensibilización, de intervención y de control.
+2. Las acciones preventivas se dirigirán a la sensibilización, información y difusión de las buenas prácticas de juego, así como a garantizar que la actividad de la persona jugadora se realice sin menoscabo de su voluntad y libre determinación, dentro de parámetros saludables, evitando la práctica compulsiva y no responsable en los juegos y apuestas, así como los efectos nocivos que la misma pudiera provocar.
+3. A instancia del órgano competente en materia de ordenación del juego, las empresas explotadoras y comercializadoras de juegos y apuestas deberán elaborar un plan de medidas que incorporará las reglas básicas de política de juego responsable y que tenga por objetivo prevenir los posibles efectos perjudiciales que pueda producir la práctica abusiva del juego. En todo caso se incluirán las siguientes acciones:
+a) Prestar la debida atención a los colectivos de personas vulnerables a la práctica del juego.
+b) Proporcionar a los ciudadanos la información necesaria para que puedan hacer una elección consciente de sus actividades de juego, promoviendo actitudes de juego moderado, no compulsivo y responsable.
+c) Informar de la prohibición de participar a los menores de edad o a las personas incluidas en el Registro de Interdicciones de Acceso al Juego.
+4. Los establecimientos de juego y apuestas deberán tener a disposición de los usuarios folletos informativos facilitados por asociaciones que traten sobre la prevención, tratamiento de la ludopatía y sus centros de rehabilitación.
+Se añade por el art. 15.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional única
+
+Disposición adicional primera. Régimen jurídico aplicable a las actividades de juego desarrolladas a través de medios informáticos, interactivos o de comunicación a distancia.
+1. La homologación de los sistemas técnicos de las actividades de juego que se desarrollen por medios informáticos, interactivos o de comunicación a distancia se regirá por la normativa estatal que regula el régimen de la homologación preliminar y definitiva de dichos sistemas, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid.
+2. La autorización para el ejercicio de estas actividades de juego, otorgada tras la homologación preliminar, quedará condicionada a la obtención de la homologación definitiva del sistema técnico de juego, de conformidad con lo establecido en el apartado anterior.
+3. La Unidad Central y la réplica que integren el sistema técnico de juego deberán poder ser monitorizadas desde el territorio de la Comunidad de Madrid por el órgano competente en materia de ordenación y gestión del juego, con independencia de su ubicación, en los términos establecidos por la normativa estatal que regula la monitorización de las actividades de juego, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid.
+4. Las actividades de juego desarrolladas a través de medios informáticos, interactivos o de comunicación a distancia se podrán explotar por las empresas autorizadas para el ejercicio de dichas actividades sin sujeción a las normas de exclusividad previstas para el juego de carácter presencial.
+5. La práctica de los juegos desarrollados a través de medios informáticos, interactivos o de comunicación a distancia se regirá por la normativa estatal, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid para estos juegos.
+Se renumera como disposición adicional 1 por el art. 6.5 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Se añade por el art. 12.3 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen jurídico aplicable a las actividades de juego desarrolladas a través de medios informáticos, interactivos o de comunicación a distancia.
+1. La homologación de los sistemas técnicos de las actividades de juego que se desarrollen por medios informáticos, interactivos o de comunicación a distancia se regirá por la normativa estatal que regula el régimen de la homologación preliminar y definitiva de dichos sistemas, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid.
+2. La autorización para el ejercicio de estas actividades de juego, otorgada tras la homologación preliminar, quedará condicionada a la obtención de la homologación definitiva del sistema técnico de juego, de conformidad con lo establecido en el apartado anterior.
+3. La Unidad Central y la réplica que integren el sistema técnico de juego deberán poder ser monitorizadas desde el territorio de la Comunidad de Madrid por el órgano competente en materia de ordenación y gestión del juego, con independencia de su ubicación, en los términos establecidos por la normativa estatal que regula la monitorización de las actividades de juego, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid.
+4. Las actividades de juego desarrolladas a través de medios informáticos, interactivos o de comunicación a distancia se podrán explotar por las empresas autorizadas para el ejercicio de dichas actividades sin sujeción a las normas de exclusividad previstas para el juego de carácter presencial.
+5. La práctica de los juegos desarrollados a través de medios informáticos, interactivos o de comunicación a distancia se regirá por la normativa estatal, en tanto no se apruebe normativa específica propia de la Comunidad de Madrid para estos juegos.
+Se numera como disposición adicional 1 por el art. 6.5 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Anteriormente era la disposición adicional única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Comisión de Control del Juego.
+1. Para el ejercicio de las potestades públicas en relación con la actividad del juego, tanto en los Centros Integrados de Desarrollo como en el resto de establecimientos de juego en la Comunidad de Madrid, se crea la Comisión de Control del Juego, cuya finalidad es dictar aquellas disposiciones que resulten necesarias para el desarrollo y ejecución de las normas contenidas en la legislación sobre juego y velar por su cumplimiento. Esta Comisión se regirá por lo dispuesto en la presente ley y sus disposiciones de desarrollo.
+2. La Comisión será un órgano adscrito a la Consejería de Economía y Hacienda de la Comunidad de Madrid que actuará con independencia funcional en el ejercicio de sus competencias.
+3. La Comisión tendrá las competencias de ordenación y gestión de juego atribuidas legalmente para el desarrollo y cumplimiento de la normativa singular de juego y ejercerá las medidas de vigilancia y control administrativo necesario. En particular, la Comisión tendrá competencia exclusiva en:
+a) La aprobación del desarrollo de la regulación básica de los juegos autorizados.
+b) La aprobación de propuestas de inclusión de nuevos juegos y modificaciones en su regulación en los Catálogos de Juegos.
+c) El acuerdo de resoluciones e instrucciones de carácter general relativas a cualquier actividad de juego autorizada en los Centros Integrados de Desarrollo. La Comisión será consultada sobre cualquier proyecto de ley o decreto que pueda tener un impacto en cualquier actividad relacionada con el juego, con carácter previo a su aprobación por el Consejo de Gobierno de la Comunidad de Madrid.
+d) La homologación del material de juego.
+e) La gestión y tramitación de las autorizaciones en materia de juego.
+f) La supervisión, inspección y control del desarrollo, explotación y comercialización de los juegos, así como el ejercicio de la potestad sancionadora. Esta competencia incluirá la posibilidad de controlar la liquidez y solvencia de las entidades autorizadas y establecer requisitos mínimos en sus disponibilidades de tesorería para el pago de premios.
+g) La gestión de los Registros del sector del juego.
+h) La supervisión y colaboración en el cumplimiento de la normativa de ámbito nacional o supranacional que se dicte en relación con la actividad del juego y que resulte de aplicación en la Comunidad de Madrid, así como de la legislación de prevención de blanqueo de capitales y de prevención de la financiación del terrorismo, sin perjuicio de las competencias de otros órganos administrativos.
+i) La dirección y gestión de un sistema de resolución de reclamaciones. Se entenderá incluida en este sistema cualquier reclamación relacionada con promociones, concursos, torneos o cualquier otra actividad complementaria o relacionada con el juego.
+j) La promoción y elaboración de estudios, informes y trabajos de investigación en materia de juego, así como sobre su incidencia o impacto en la sociedad.
+k) Cualquier otra función en materia de juego que se le atribuya por el Consejo de Gobierno o que la legislación vigente atribuya a la Comunidad de Madrid y no corresponda a otros órganos.
+4. Mediante Decreto del Consejo de Gobierno se regulará, en lo no previsto en los apartados anteriores, la composición, organización, funcionamiento y régimen jurídico de la Comisión.
+Se añade por el art. 6.6 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Zonas de alta concentración.
+1. Tendrán consideración de zonas de alta concentración, aquellos municipios con población superior a cien mil habitantes distintos de Madrid capital, que cuenten con un número de establecimientos de juego con autorización en vigor para la comercialización de apuestas superior al que se fije reglamentariamente a tales efectos.
+2. También tendrán consideración de zonas de alta concentración aquellos distritos municipales de Madrid capital en los que exista una ratio de número de establecimientos con autorización para la comercialización de apuestas por cada diez mil habitantes, superior a la que, a estos efectos, se fije reglamentariamente.
+3. Se habilita al titular de la Consejería competente en materia de ordenación del juego para dictar mediante orden las disposiciones necesarias para determinar y actualizar tanto el número de establecimientos por municipio como la ratio por distrito municipal de Madrid capital, así como para modificar los criterios de determinación de las zonas de alta concentración establecidos en los apartados anteriores.
+Se añade por el art. 15.6 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Excepción de la actividad económica del juego y las apuestas a la aplicación del principio de eficacia establecido en la legislación que regula la libre circulación y establecimiento de operadores económicos en el territorio de la Comunidad de Madrid.
+A las actividades relativas al juego y las apuestas que se desarrollen en el ámbito territorial de la Comunidad de Madrid no les será de aplicación el principio de eficacia de las disposiciones, actos y demás medios de intervención de las autoridades competentes del resto del territorio nacional que permitan el acceso a dicha actividad económica o el ejercicio de la misma, establecido en la legislación que regula la libre circulación y establecimiento de operadores económicos, por concurrir razones de interés general de orden público, seguridad pública y salud pública.
+Se añade por el art. 15.8 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Autorizaciones e inscripciones.
+Las autorizaciones temporales concedidas con anterioridad a la entrada en vigor de esta Ley seguirán siendo válidas durante el plazo de vigencia por el que se hubieran otorgado, debiendo realizarse su renovación, en su caso, con arreglo a las disposiciones de esta Ley. Asimismo aquellas que no tuvieran señalado plazo de vigencia deberán renovarse en el plazo de tres años contados a partir de la entrada en vigor de esta Ley.
+Las inscripciones realizadas en el Registro del juego de la Comunidad de Madrid con anterioridad a la entrada en vigor de la presente Ley mantendrán el plazo de validez para el que se hubieran efectuado.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Catálogos de Juegos.
+Hasta que se apruebe el Catálogo de Juegos autorizados en la Comunidad de Madrid a que se refiere el artículo 3, será de aplicación el Catálogo aprobado por Orden del Ministerio del Interior de 9 de octubre de 1979, con las inclusiones que se deriven de los Reglamentos Técnicos Específicos de cada modalidad de Juego.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen de Autorizaciones de establecimientos de hostelería para la instalación de máquinas.
+Hasta que se proceda a una nueva regulación reglamentaria del régimen de autorizaciones de establecimientos de hostelería para la instalación de máquinas, en desarrollo de las previsiones contenidas en la presente Ley, el régimen aplicable a la vigencia de dichas autorizaciones y a los cambios de titularidad en la explotación de los establecimientos, será el contenido en la Disposición Segunda del artículo único de la Ley 3/2000, de 8 de mayo, de Medidas Urgentes Fiscales y Administrativas sobre los Juegos de Suerte, Envite y Azar y Apuestas en la Comunidad de Madrid.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen Sancionador.
+El régimen sancionador contenido en la presente Ley no será aplicable a aquellas infracciones cometidas con anterioridad a su entrada en vigor, salvo que dicho régimen sea más favorable al infractor.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Ejercicio de competencias antes del inicio de actividades de la Comisión de Control del Juego.
+Hasta la efectiva constitución de la Comisión de Control del Juego, las competencias previstas para la misma serán ejercidas por la Dirección General de Tributos y Ordenación y Gestión del Juego de la Consejería de Economía y Hacienda, salvo las atribuidas por esta ley a órganos superiores, que serán ejercidas por éstos.
+Se añade por el art. 6.7 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno a dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de la presente Ley.
+
+### Disposición final primera bis
+
+Disposición final primera bis. Suspensión de la autorización de explotación de máquinas recreativas de juego y de azar.
+1. La vigencia de la autorización de explotación de las máquinas recreativas y de juego podrá ser suspendida temporalmente en los términos siguientes:
+a) La empresa titular de la autorización de explotación de una máquina recreativa de juego o de azar podrá solicitar del órgano competente en materia de ordenación y gestión del juego la suspensión temporal de dicha autorización por un plazo máximo no superior a dieciocho meses. Para ello se requerirá que se acredite que la máquina no se encuentra en explotación, por lo que deberá ser retirada del local en el que esté instalada, acreditándose dicho extremo con la previa comunicación de emplazamiento de la máquina en el almacén de la empresa operadora.
+b) La resolución de concesión de la suspensión producirá efectos desde el primer día del trimestre natural siguiente a aquél en que se presente la solicitud.
+c) Transcurrido el plazo de suspensión sin que el interesado haya solicitado el alta de la autorización de explotación, se procederá de oficio a dicha alta.
+d) La suspensión temporal no afectará al periodo de vigencia de la autorización de explotación ni a la cuantía de las fianzas exigibles.
+e) En los casos excepcionales de fuerza mayor o emergencia sanitaria en los que la explotación de las máquinas recreativas y de juego haya sido limitada por la Administración pública, se entenderán suspendidas de oficio todas las autorizaciones de explotación vigentes en situación de activo por el periodo de duración de dicha limitación, sin necesidad de solicitud individualizada de suspensión por parte de la empresa titular.
+2. Se autoriza al consejero competente en materia de ordenación y gestión del juego a modificar mediante orden el régimen de la suspensión de la autorización de explotación de máquinas recreativas de juego y de azar regulado en el apartado anterior.
+Se añade por el art. 15.7 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, a 3 de julio de 2001.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

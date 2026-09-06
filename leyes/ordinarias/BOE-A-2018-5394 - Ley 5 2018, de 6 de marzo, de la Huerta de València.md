@@ -1,0 +1,555 @@
+# Ley 5/2018, de 6 de marzo, de la Huerta de València.
+
+- Identificador BOE: `BOE-A-2018-5394`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-5394
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+De conformidad con lo establecido por la Constitución y el artículo 49.1.9 del Estatuto de autonomía de la Comunitat Valenciana, la Generalitat tiene competencias exclusivas en materia de ordenación del territorio y del litoral, urbanismo y vivienda. Estas competencias están desarrolladas en la Ley 5/2014, de 25 de julio, de la Generalitat, de ordenación del territorio, urbanismo y paisaje, de la Comunitat Valenciana. Por lo tanto, las disposiciones normativas que regulan los usos y actividades en la Huerta de València, como espacio de gran valor productivo, ambiental y cultural, están perfectamente ancladas en este marco legal que, además, sirve de amparo al futuro plan de acción territorial de ordenación y dinamización de la Huerta de València, desarrollando un instrumento de planificación territorial supramunicipal regulado en el artículo 16 de la citada Ley 5/2014.
+Desde el punto de vista de la actividad agraria, el desarrollo productivo de la Huerta de València se encuentra justificado en el propio Estatuto de autonomía, en su artículo 49.3.3, en cuanto que la Generalitat tiene competencias exclusivas en agricultura y reforma y desarrollo agrario, tal y como lo expresa el artículo 49.3 de la carta magna de la Comunitat Valenciana. A tal efecto, y al margen de la legislación estatal en esta materia, hay que tener en cuenta leyes autonómicas que pueden tener un carácter supletorio a la presente ley, como la Ley 8/2002, de 5 de diciembre, de ordenación de las estructuras agrarias de la Comunitat Valenciana, o la Ley 3/2013, de 26 de julio, de los contratos y otras relaciones jurídicas agrarias.
+También esta ley tiene su acomodo dentro de normas de desarrollo reguladas en la Ley 5/2014, de ordenación del territorio, urbanismo y paisaje, de la Comunitat Valenciana, como es el caso del instrumento marco de la planificación territorial: la Estrategia territorial de la Comunitat Valenciana, aprobada por el Decreto 1/2011 del Consell, la cual propone la protección y dinamización de la Huerta de València como una actuación prioritaria para la consecución de un modelo territorial sostenible y resiliente a los efectos del cambio climático y de la seguridad alimentaria. Por su parte, la ley estatal 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural, incluye determinaciones que se pueden aplicar a la Huerta de València como ámbito susceptible de potenciar y recibir ayudas dentro de los programas agrarios y de uso público que la desarrollan. También debe hacerse referencia a la Ley 35/2011, de 4 de octubre, sobre titularidad compartida de las explotaciones agrarias, cuya finalidad es adaptar el marco jurídico a la realidad social, garantizando así la igualdad entre hombres y mujeres en el mundo rural.
+Como es ampliamente reconocido por la comunidad científica, la Huerta de València constituye uno de los paisajes agrarios más relevantes y singulares del mundo mediterráneo. Es un espacio de acreditados valores productivos, ambientales, culturales, históricos y paisajísticos, merecedor de un régimen de protección y dinamización que garantice su recuperación y pervivencia para las generaciones futuras. La Huerta de València posee un elevado valor simbólico y una dimensión internacional evidente, puesto que sólo restan cinco espacios semejantes en la Unión Europea, como lo atestigua el Informe Dobris de la Agencia Europea del Medio Ambiente, el cual reconoce estos paisajes como portadores de valores culturales e históricos que la Unión Europea debe preservar, y debe poner en funcionamiento los mecanismos necesarios para su conservación activa. También en el ámbito europeo cabe destacar el Dictamen del Comité Económico y Social Europeo sobre la agricultura periurbana y la posterior Carta de la agricultura periurbana.
+Además, este espacio genera una producción agrícola de proximidad que permite disponer a la población del área metropolitana de València de productos hortofrutícolas de alta calidad con costes reducidos de transporte y menores emisiones de gases de efecto invernadero. Esta producción se ve favorecida por un suelo de alta capacidad agrológica, según la cartografía científica vigente, el cual es un recurso natural escaso en la Comunitat Valenciana, donde solamente algo más del tres por ciento de su superficie ostenta este potencial edafológico, crucial en las estrategias alimentarias de largo plazo, y soporte del sector agroalimentario, en el que la Comunitat Valenciana cuenta con grandes ventajas competitivas y un extraordinario potencial de desarrollo.
+Este paisaje productivo y cultural de incalculable valor está seriamente amenazado de desaparición por la presión de la actividad urbanística, las infraestructuras de movilidad y la crisis y abandono de la actividad agraria. En los últimos años, la superficie de la Huerta de València se ha visto reducida sensiblemente, lo que ha supuesto también pérdidas de sus elementos patrimoniales. La mayoría de las acequias que forman parte del ámbito del Tribunal de las Aguas de la Vega de València, que fue declarado patrimonio inmaterial de la humanidad por la UNESCO el 13 de septiembre de 2009, han visto reducida su superficie de riego de tal forma que en algunos casos es testimonial en el momento actual. En algunos tramos la zona que se puede considerar como regable ha desaparecido por completo o únicamente subsisten áreas inconexas de huerta residual, las cuales corren peligro de desaparecer definitivamente en una nueva pulsión expansiva del ciclo urbanístico.
+Por su parte, la Asamblea General de la ONU adoptó, el 25 de septiembre 2015, la Agenda 2030 para el desarrollo sostenible, en la que se reconoce que no pueden considerarse por separado la alimentación, los medios de vida y la gestión de los recursos naturales, situando la alimentación y la agricultura en el centro de la misma, ya sea para poner fin a la pobreza y el hambre, para responder al cambio climático o para conservar nuestros recursos naturales. Por eso, adoptar la Agenda 2030 y los objetivos de desarrollo sostenible es esencial para nuestro futuro a largo plazo, y constituyen una referencia obligada en las políticas públicas.
+Por ello, se plantea una ley de la Huerta de València que recoja el espíritu del dictamen del Consell Valencià de Cultura sobre la conservación de la Huerta de València de mayo de 2000 y de la iniciativa legislativa popular a través de la Proposición de ley reguladora del proceso de ordenación y protección de la Huerta de València como espacio natural protegido de 2004, que suscitó un gran consenso en todos los agentes sociales de la Comunitat Valenciana. Y esta realidad no es otra que la preservación de la huerta como un sistema productivo, ambiental y cultural integrado, cuyo elemento básico son las personas que se dedican a la agricultura. No se puede proteger la huerta desde una visión museística y petrificada de este espacio, sino que lo que se pretende con esta ley, y los instrumentos que la desarrollan, es configurar un espacio vivo y sostenible desde la triple dimensión económica, ambiental y social.
+La ley se desarrolla en cuarenta y siete artículos encuadrados en ocho capítulos, tres disposiciones adicionales, tres transitorias y dos finales. Las disposiciones generales del primer capítulo enfatizan no solamente los objetivos de la ley, sino su relevancia social y la actuación de los poderes públicos para refrendar esta consideración. El segundo capítulo se centra en la definición de los elementos que forman parte de la Huerta de València, donde no cabe ninguna duda de que, al margen de los elementos estructurales, morfológicos o de patrimonio de la huerta, son las personas que se dedican a la agricultura el elemento central de este sistema territorial y responsables de su pervivencia. Por ello, no es posible la viabilidad de la huerta sin unas condiciones de vida dignas para los agricultores y agricultoras. La pervivencia de la Huerta de València es condición necesaria para la protección del patrimonio inmaterial reconocido al Tribunal de las Aguas de la Vega de València, que se encuentra indisolublemente vinculado a la propia existencia de este espacio en óptimas condiciones productivas y ambientales.
+El capítulo tercero de la ley contempla la formulación y aprobación por el Consell de un plan de acción territorial de los definidos en el artículo 16 de la Ley 5/2014. Se trata de un instrumento de ordenación supramunicipal al que se deben adaptar los planes urbanísticos de los municipios que integran el ámbito de la huerta. Este plan propondrá un régimen jurídico para los suelos de la huerta, como suelos protegidos, y de compatibilidad de los distintos usos y actividades que puedan implantarse para mantener la huerta como espacio productivo, preservando sus incuestionables valores, bienes y servicios para el conjunto de la sociedad. En este sentido, se establecen en la ley principios básicos como la protección del suelo agrario de alta capacidad, el mantenimiento del sistema de riego tradicional por gravedad como elemento sustancial de la huerta o la incorporación de este espacio y de sus conexiones territoriales externas a la infraestructura verde del área metropolitana de València. No obstante, la ley no se limita a derivar la ordenación y gestión de los suelos de la huerta al plan, sino que propone un conjunto de normas, principios y criterios de aplicación directa con el fin de reforzar la urgente necesidad de actuar de manera activa sobre este espacio tan amenazado. Estas disposiciones se refieren a la infraestructura verde, el régimen de usos y actividades, la clasificación del suelo, el paisaje, la adaptación de las infraestructuras y el uso público en la huerta.
+El capítulo cuarto de la ley pone sobre la mesa uno de los temas críticos de la huerta como es el estado de abandono o infrautilización de muchas parcelas agrícolas que pudieran ser cultivadas por una tercera persona o empresa que se dedique a la actividad agrícola a pleno rendimiento. En este sentido, la dimensión económica de la huerta obliga a regular la función social de la propiedad que configura el contenido esencial del derecho mediante la posibilidad de imponer deberes positivos a su titular que aseguren su uso efectivo para fines de desarrollo económico, entendiendo que la fijación de dicho contenido esencial no puede hacerse desde la exclusiva consideración subjetiva del derecho o de los intereses individuales. La función social de la propiedad, en suma, no es un límite externo a su definición o a su ejercicio, sino una parte integrante del derecho mismo. Utilidad individual y función social, por tanto, componen de forma inseparable el contenido del derecho de propiedad. La falta de cultivo de las fincas agrícolas dotadas de infraestructuras por abandono de las mismas supone un funcionamiento ineficiente de tales infraestructuras y servicios y un auténtico despilfarro de recursos públicos. Por ello, es obligación de la Generalitat facilitar los cauces que permitan tanto mantener estas tierras en cultivo como promover el acceso a las propiedades agrícolas a aquellos profesionales agrarios que, en sustitución de sus titulares, pretendan dinamizar la actividad agraria en la huerta. La ley establece en este capítulo un sistema de arrendamiento forzoso de estos suelos en favor de un tercero que se dedique activamente a la agricultura o la cesión al Consejo de la Huerta de València, una vez determinado el incumplimiento de esta función social, con la expropiación del derecho de uso y aprovechamiento de las tierras de cultivo, aunque se fomenta de manera prioritaria la mediación y el acuerdo amistoso entre el propietario y el profesional cultivador. De manera reglamentaria, se desarrollarán pormenorizadamente estas disposiciones normativas para hacerlas compatibles con la regulación en materia de estructuras agrarias y que, en cualquier caso, deberán otorgar el necesario trámite de audiencia a las personas propietarias de estos suelos.
+El capítulo cinco se refiere a la zonificación y clasificación del suelo de la huerta, aportándose como gran novedad la consideración de dos nuevos instrumentos urbanísticos de recuperación de la huerta: el enclave y el sector de recuperación de la Huerta de València. Ambos se desarrollarán sobre suelos degradados de la huerta, que serán determinados en un catálogo de espacios a recuperar contenidos en el plan de acción territorial. En ambos instrumentos se pretende rehabilitar construcciones en mal estado de conservación o permitir un índice de edificabilidad reducido materializado, como máximo, en un tercio del ámbito de dichos instrumentos, teniendo que dedicarse el resto a regenerar y cultivar huerta en perfectas condiciones agrícolas y ambientales. En el caso del sector, se permite una minoración de los estándares, parámetros y aprovechamientos públicos de naturaleza urbanística como consecuencia de las características específicas de este instrumento, el cual involucra a los nuevos habitantes acogidos en la regeneración y gestión sostenible del espacio de huerta contenido en el sector.
+El capítulo sexto propone la creación del Consejo de la Huerta de València, el cual adoptará la forma de consorcio, con la participación de las distintas administraciones públicas involucradas en la dinamización de la huerta, así como de los actores sociales, económicos y ambientales que tienen la necesaria legitimación para formar parte de este ente, el cual estará adscrito a la conselleria con competencias en materia de agricultura y desarrollo rural. Sus funciones serán muy amplias, comprendiendo, entre otras, la gestión de los fondos que asignen las distintas administraciones o se obtengan por los instrumentos financieros que, en su caso, se creen para garantizar la pervivencia de la huerta y sus valores; el apoyo a la promoción, comercialización y diferenciación de los productos de la huerta; la representación de todos los agentes presentes en el ente y la cooperación con otros territorios de naturaleza semejante, o la gestión de mecanismos de intermediación de tierras, como el banco de tierras, y de nuevas tipologías de contratación sostenible que se están generalizando en otros ámbitos del territorio de valor ambiental y cultural.
+El capítulo séptimo de la ley está dedicado a la definición de un plan de desarrollo agrario, con sus correspondientes programas y proyectos, que será elaborado por el Consejo de la Huerta de València y la conselleria con competencias en agricultura y desarrollo rural. Este plan tendrá como principales líneas estratégicas la mejora de las estructuras agrarias y la profesionalización de las explotaciones, el relevo generacional de los profesionales agrarios, la incentivación de las producciones de calidad o la mejora de los canales de comercialización, con especial atención a los canales cortos y la venta directa. También se fomentará la diversificación de las rentas agrarias, mediante la introducción limitada de actividades terciarias complementarias y compatibles con la actividad agraria y la recuperación y puesta en cultivo de tierras abandonadas o infrautilizadas.
+El último capítulo de la ley regula un inventario de explotaciones profesionales situadas en el ámbito de la Huerta de València, las cuales deberán estar inscritas en el Registro General de la Producción Agrícola y disponer de una superficie mínima, en términos de unidades técnicas de trabajo, como requisito imprescindible para beneficiarse de las acciones o instrumentos que desarrolle el Consejo de la Huerta de València. Además, se regulan las bonificaciones en las transmisiones de fincas agrícolas a profesionales y empresas agrarias.
+La disposición adicional primera se refiere a una exención parcial del estándar de parque público de red primaria (PVP) de la legislación urbanística para aquellos municipios que protejan sus suelos de huerta con la condición de desarrollar programas de uso público en la misma sin perturbar la actividad agraria. Con ello se evitan las clasificaciones masivas de nuevos suelos urbanizables en el corazón de la huerta, cuya gestión puede permitir la obtención de estos espacios verdes, y se sustituyen por espacios de huerta contiguos al suelo urbano en los cuales se puede compatibilizar un uso público sostenible sin merma de la calidad de vida de los ciudadanos del municipio. La segunda disposición adicional está relacionada con la obligatoriedad de poner a disposición del registro de la propiedad la cartografía georreferenciada de los planes de acción territorial aprobados por la Generalitat.
+Respecto a la transitoriedad de la ley, todos los instrumentos de planeamiento, de naturaleza territorial, urbanística o sectorial, así como las declaraciones de interés comunitario o los proyectos de infraestructuras incluidos en el ámbito de esta ley, que hubiesen iniciado su información pública con anterioridad a su entrada en vigor, podrán continuar su tramitación conforme a la legislación anterior o continuar su tramitación ajustándose a las determinaciones de esta ley. También se regula un régimen de fuera de ordenación, no solamente para las construcciones que no se adapten a las determinaciones de la ley, sino también para los elementos impropios de éstas.
+En definitiva, es una ley necesaria para preservar la Huerta de València, cuenta con una elevada demanda social, tal y como se ha constatado en los procesos participativos llevados a cabo, y tiene que contribuir a la conservación activa de un espacio estratégico, emblemático e identitario para toda la ciudadanía de la Comunitat Valenciana. La huerta es un espacio competitivo y estratégico en cuanto a la producción de alimentos, preservador de sus valores culturales y ambientales e integrador en su dimensión social, pero, sobre todo, la huerta es un activo territorial que contribuye a la excelencia y diferenciación del área metropolitana de València, dentro del contexto global de unos espacios urbanos que van a ser la clave del bienestar de las próximas generaciones y de la sostenibilidad del conjunto del planeta.
+Esta disposición está incluida en el Plan normativo de la administración de la Generalitat para 2017.
+Por último, hay que reseñar que, durante el procedimiento de elaboración y tramitación de esta ley, han sido consultados los principales agentes sociales, públicos y privados, que tienen relación y están expresamente afectados por sus determinaciones. Todas sus alegaciones, sugerencias y propuestas han sido analizadas y, en la medida de lo posible, incorporadas al texto legal. De la misma manera, se han recogido los informes pertinentes de las diferentes consellerias y el dictamen del Comitè Econòmic i Social de la Comunitat Valenciana, contando con la conformidad del Consell Jurídic Consultiu de la Comunitat Valenciana y habiéndose aplicado en la tramitación de este proyecto los principios de buena regulación, tal y como se prevé en el artículo 129 de la Ley 38/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+1. El objeto de la ley es la preservación, recuperación y dinamización de la Huerta como espacio con reconocidos valores agrarios, ambientales, paisajísticos, arquitectónicos, históricos, culturales y antropológicos, que son determinantes para el progreso económico, la calidad de vida de la ciudadanía y la gestión sostenible del área metropolitana de València, promoviendo la rentabilidad y viabilidad económicas de la actividad agraria.
+2. Para alcanzar estas metas, se establece un marco regulador de los usos del suelo y medidas de gestión y financiación de la actividad agraria que fomentan el mantenimiento de la actividad productiva, la mejora de las condiciones de vida de las personas que se dedican a la agricultura y la preservación de la Huerta de València frente a las presiones de naturaleza urbanística que amenacen su sostenibilidad.
+
+### Artículo 2
+
+Artículo 2. Objetivos de la ley.
+Los objetivos específicos de la ley son los siguientes:
+a) Definir los elementos constituyentes de la huerta como espacio emblemático y con valores dignos de protección.
+b) Establecer disposiciones normativas y criterios de aplicación directa para garantizar una conservación activa de los suelos de la huerta y sus múltiples valores.
+c) Establecer un marco general de régimen de usos y actividades compatibles con la protección de los valores de la Huerta de València, que se desarrollará mediante un instrumento de ordenación supramunicipal que sirva para consolidar y recuperar los espacios de huerta.
+d) Proponer la creación de un órgano de gestión adecuado que, entre otras acciones, impulse y gestione la actividad económica en la Huerta de València, promueva el conocimiento de sus valores para la ciudadanía y vele por su recuperación.
+e) Prever la futura dotación del órgano de gestión de los instrumentos de financiación que permitan el cumplimiento de sus funciones.
+f) Establecer instrumentos y medidas de naturaleza urbanística para recuperar y poner en valor espacios degradados de la huerta.
+g) Definir instrumentos de ordenación, gestión, dinamización y desarrollo de la actividad agraria en la Huerta de València adecuados para la consecución del objetivo de potenciación de una huerta productiva y rentable.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. Las disposiciones de esta ley se aplicarán a los suelos en situación básica rural, establecido como tal en la legislación básica estatal, del ámbito de la Huerta de València definido en el siguiente apartado, incluyendo tanto las áreas de mayor valor ambiental y cultural como los espacios degradados.
+2. El ámbito de aplicación de esta ley, que se delimita en el anexo, comprende entre otros el espacio del dominio de los regadíos históricos de las acequias del Tribunal de las Aguas de la Vega de València; la Real Acequia de Montcada; el canal del Turia; Francos, Marjales y Extremales, y las huertas de las poblaciones de Picanya, Paiporta, Torrent y Catarroja.
+3. El instrumento de ordenación supramunicipal de los usos y actividades de la Huerta de València podrá tener un ámbito territorial superior al de la ley para el cumplimiento de sus objetivos y asegurar la conectividad ecológica y funcional de la huerta con la infraestructura verde exterior a ésta.
+
+### Artículo 4
+
+Artículo 4. Función social y pública de la Huerta de València.
+1. La actividad agraria y el patrimonio natural, cultural y paisajístico de la Huerta de València desempeña una función social relevante al favorecer el desarrollo del sector agrario, la soberanía alimentaria, el bienestar de las personas, el uso sostenible del territorio y la prevención del cambio climático.
+2. Las acciones encaminadas a la consecución de los fines de esta ley se declararán de utilidad pública e interés social a todos los efectos y en particular a los expropiatorios, respecto a los bienes o a los derechos que puedan estar afectados.
+3. En la planificación y gestión de los valores del patrimonio natural, cultural y paisajístico y en la gestión de la actividad agraria de la Huerta de València, se fomentarán los acuerdos voluntarios con los titulares y usuarios de ésta, así como fórmulas de custodia del territorio u otras de naturaleza similar.
+
+### Artículo 5
+
+Artículo 5. Deberes de los poderes públicos.
+1. Todas las administraciones públicas y comunidades de regantes integrarán, en sus respectivos ámbitos competenciales, los objetivos y acciones necesarias para la sostenibilidad de la actividad agraria y la conservación y utilización racional del patrimonio natural, cultural y paisajístico de la Huerta de València con independencia de su titularidad o régimen jurídico.
+2. Las administraciones públicas y comunidades de regantes:
+a) Promoverán la participación ciudadana y las actividades que contribuyan a alcanzar los objetivos de esta ley.
+b) Fomentarán las acciones e incentivos tendentes a la mejora de las condiciones económicas, sociales y culturales de las personas que se dedican a la agricultura, en especial las referidas a su formación profesional, con especial referencia a las técnicas tradicionales y a la transmisión de conocimientos, así como aquellas que contribuyan a reducir la desigualdad de género en este ámbito, todo ello con el fin de proteger la actividad agraria, mejorar su rentabilidad y garantizar el relevo generacional en la Huerta de València.
+c) Incentivarán medidas orientadas a la conservación y mejora del patrimonio natural, cultural o paisajístico de la Huerta de València, y eliminarán aquellas medidas y afecciones que sean contrarias a dicha finalidad.
+d) Promoverán la utilización de medidas de naturaleza legal, económicas y de gestión que contribuyan al mantenimiento de la actividad productiva en la Huerta de València, la sostenibilidad económica de las explotaciones y su conservación como paisaje agrario cultural de extraordinario valor y singularidad. En este sentido, se protegerá la actividad agraria mediante medidas incentivadoras dirigidas a mejorar su rentabilidad.
+e) Fomentarán la información, educación y concienciación ciudadana sobre la necesidad de proteger el patrimonio natural, cultural y paisajístico de la Huerta de València.
+f) Cooperarán y colaborarán con los agentes sociales en el cumplimiento de los objetivos de esta ley.
+g) Promoverán la transmisión del conocimiento entre el sector de investigación y las personas que se dedican a la agricultura y de estos a la sociedad.
+h) Velarán por garantizar el suministro hídrico en cantidad y calidad suficiente a la Huerta de València.
+i) Fomentarán el consumo de alimentos de proximidad, los hábitos de alimentación saludable y las conductas de respeto a la biodiversidad en la población.
+j) Facilitarán el acceso de las personas agricultoras jóvenes a los terrenos agrarios a través de diversos mecanismos de intermediación y garantizarán un efectivo relevo generacional, así como el acceso a acciones formativas en materia agraria, gestión y comercialización, y a líneas de ayuda a la incorporación al sector agrario.
+
+## CAPÍTULO II
+
+Elementos constitutivos de la Huerta de València
+
+### Artículo 6
+
+Artículo 6. Elementos de la Huerta de València.
+Los elementos básicos que definen y caracterizan la Huerta de València son los siguientes:
+a) Las personas que se dedican a la agricultura de forma profesional.
+b) El Tribunal de las Aguas de la Vega de València y sus comunidades históricas de riego, la Real Acequia de Moncada y el resto de comunidades de riego.
+c) El suelo de alta capacidad agrológica.
+d) El patrimonio hidráulico y el agua.
+e) El patrimonio arquitectónico, arqueológico y etnológico.
+f) El patrimonio natural (ecosistema).
+g) La red de caminos y sendas históricas.
+h) La estructura y parcelario de la Huerta de València.
+i) La actividad agraria.
+j) Todo elemento de carácter material e inmaterial cuyo mantenimiento resulte necesario para fomentar las señas de identidad y el sentimiento de pertenencia ésta.
+
+### Artículo 7
+
+Artículo 7. El agricultor o agricultora profesional.
+Las personas que se dedican a la agricultura profesionalmente en la Huerta de València son depositarios de la cultura agraria tradicional, cultivan la tierra, venden sus productos y la hacen productiva. Constituyen el elemento motor imprescindible de un sistema productivo, ambiental y cultural de extraordinario valor como es la Huerta de València.
+
+### Artículo 8
+
+Artículo 8. El Tribunal de las Aguas de la Vega de València y sus comunidades históricas de riego, la Real Acequia de Moncada y el resto de comunidades de riego.
+1. Las personas que se dedican a la agricultura en la Huerta de València se agrupan en comunidades de regantes tradicionales autónomas. Dentro de cada una de estas comunidades, las personas que se dedican a la agricultura siguen unas normas claras y establecidas por ellas mismas que les obligan a compartir de manera proporcional y equitativa el agua, un recurso limitado y frágil. Son instituciones donde se manifiesta la importancia histórica y actual de la gestión colectiva, democrática y autogestionada del agua y las infraestructuras de riego.
+2. El Tribunal de las Aguas de la Vega de València es el órgano jurisdiccional encargado de dirimir los conflictos que, por causa del reparto del agua y el uso de las infraestructuras, pueden surgir en el ámbito de las comunidades de regantes integradas en éste aplicando el derecho consuetudinario.
+3. El Tribunal de las Aguas es el testimonio de una tradición cultural viva milenaria basada en la justicia y el gobierno democrático y autogestionada de las aguas de riego de la Huerta de València.
+4. La Real Acequia de Moncada es independiente de las acequias integradas en el Tribunal de las Aguas de la Vega de València, pues tiene sus propios organismos de gobierno y su jurado de riegos.
+
+### Artículo 9
+
+Artículo 9. El suelo de alta capacidad agrológica.
+Los suelos de la Huerta de València poseen unas condiciones ecológicas y edafológicas favorables que los singularizan como de elevada productividad agraria dentro del ámbito mediterráneo. Su conservación por parte de los poderes públicos es un objetivo estratégico desde el punto de vista de la sostenibilidad, seguridad y soberanía alimentaria y la lucha contra el cambio climático.
+
+### Artículo 10
+
+Artículo 10. El patrimonio hidráulico y el agua.
+El patrimonio hidráulico de la Huerta de València es la red del riego por gravedad, la red de drenaje y los elementos que colaboran en el reparto de los recursos hídricos y su aprovechamiento, incluyendo los siguientes:
+a) La red de acequias compuesta jerárquicamente de acequias madre, brazos, rolls, files y regadoras.
+b) Otros elementos de reparto y distribución del agua como azudes, acueductos, canos y lenguas.
+c) Los molinos que aprovechan los caudales de reparto que discurren por las acequias.
+d) El agua es el elemento esencial que ha permitido la existencia de la huerta. Siendo mayoritarios los aportes provenientes del río Turia, no hay que olvidar los aportes realizados a través de multitud de pozos distribuidos en su ámbito y de otras fuentes, como las aguas regeneradas. La supervivencia de la huerta está supeditada a la existencia de recursos hídricos suficientes, tanto en cantidad como en calidad.
+
+### Artículo 11
+
+Artículo 11. El patrimonio arquitectónico.
+El patrimonio arquitectónico de la Huerta de València está integrado por los siguientes elementos:
+a) Construcciones de habitación, resguardo y almacenamiento, entre otras y en particular las casas, alquerías y barracas de la huerta.
+b) Construcciones de actividades agrarias y complementarias.
+c) Construcciones religiosas como las cartujas, monasterios y ermitas.
+
+### Artículo 12
+
+Artículo 12. El patrimonio etnológico.
+1. El patrimonio material etnológico está compuesto, con carácter general, por aquellos bienes materiales vinculados a tradiciones y costumbres de la huerta y en particular los calvarios, cruces, mojones de término y paneles cerámicos y chimeneas, así como los aperos y herramientas de labranza tradicionales.
+2. El patrimonio inmaterial etnológico lo constituyen los jurados de riego, las costumbres generalmente transmitidas de manera oral y una gran variedad de manifestaciones folclóricas.
+
+### Artículo 13
+
+Artículo 13. El patrimonio natural.
+1. La Huerta de València presenta un patrimonio natural de flora y fauna en el que sobresalen las masas vegetales no agrícolas, así como las especies presentes en los márgenes de caminos y acequias. Su mantenimiento y regeneración será una acción prioritaria de esta ley y de los instrumentos que la desarrollen.
+2. Los espacios naturales protegidos situados en el ámbito de la huerta se regirán por su legislación y sus instrumentos de ordenación y gestión específicos, los cuales prevalecerán sobre los de naturaleza urbanística o territorial.
+
+### Artículo 14
+
+Artículo 14. La red de caminos y sendas históricas.
+La red de caminos de la Huerta de València está compuesta por las vías históricas de comunicación entre localidades, las vías pecuarias, los caminos rurales de acceso a la parcela y al hábitat disperso y las que facilitan la comunicación con puntos de interés turístico, cultural o patrimonial. En los instrumentos de desarrollo de esta ley se identificará esta red de caminos.
+
+### Artículo 15
+
+Artículo 15. La estructura y parcelario de la Huerta de València.
+1. La estructura parcelaria de la huerta constituye un elemento integrante que debe mantener su configuración general. El instrumento de ordenación supramunicipal que desarrolle esta ley fijará los términos en los que se permitirán las actuaciones que alteren su estructura parcelaria.
+2. Se establecerán medidas que fomenten el aumento del tamaño de las explotaciones como forma de mejorar la rentabilidad de la actividad agraria. No se permitirá la concentración de parcelas que altere los elementos estructurales y patrimoniales de la huerta en los términos fijados por los instrumentos de desarrollo de esta ley.
+
+### Artículo 16
+
+Artículo 16. La actividad agraria.
+1. La actividad agraria incluye todos aquellos usos, actividades y procesos relacionados directamente con la producción agropecuaria de la Huerta de València, tales como el régimen contractual, con especial referencia a los arrendamientos históricos valencianos, la preparación de la tierra, el cultivo, el riego, la recolección, la transformación, la comercialización del producto final obtenido y la gestión de los residuos.
+2. La conselleria competente en materia de agricultura y desarrollo rural formulará acciones de formación para las personas interesadas en la actividad agraria, especialmente jóvenes y mujeres, así como planes de ejercicio de la actividad agraria, con el fin de potenciar el funcionamiento de este espacio como un sistema productivo, vivo y competitivo.
+Se modifica el apartado 2, en los términos establecidos en el anexo I.1 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 17
+
+Artículo 17. El catálogo de protección de los bienes culturales.
+El instrumento de ordenación de la Huerta de València, regulado en el artículo siguiente, incluirá un catálogo de protección de los bienes culturales de relevancia supralocal e identificará y determinará su régimen de conservación y recuperación.
+El planeamiento urbanístico municipal deberá completar este catálogo mediante la inclusión de los elementos del patrimonio cultural que posean rango local y podrá modificar las correspondientes fichas, de acuerdo con lo previsto en la legislación urbanística y de patrimonio cultural.
+La conselleria competente, en colaboración con las administraciones locales, establecerá y promocionará mecanismos para hacer efectiva la participación ciudadana en la elaboración del catálogo de protección de los bienes culturales.
+Se modifica en los términos establecidos en el anexo I.2 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+## CAPÍTULO III
+
+El plan de acción territorial de ordenación y dinamización de la Huerta de València. Régimen jurídico de los suelos de la Huerta de València
+
+### Artículo 18
+
+Artículo 18. El Plan de acción territorial de ordenación y dinamización de la Huerta de València.
+1. La Generalitat formulará un plan de acción territorial de ordenación y dinamización de la Huerta de València, en los términos del artículo 16 de la Ley 5/2014, de 25 de julio, de la Generalitat, de ordenación del territorio, urbanismo y paisaje, de la Comunitat Valenciana. El plan contendrá, como mínimo, la definición y la caracterización de la infraestructura verde de la Huerta de València, la regulación de los usos y las actividades a desarrollar, los criterios de integración de las infraestructuras existentes y de aquellas que se implanten, las líneas básicas de actuación en las diferentes materias que el plan formule y los indicadores para el seguimiento y evaluación del plan.
+2. El objeto prioritario del plan de acción territorial será la dinamización de la actividad agraria de la Huerta de València y su prevalencia en relación con el resto de usos actualmente implantados en su área metropolitana. El plan de acción territorial podrá diferenciar entre la zona rural común, cuya regulación corresponde al planeamiento municipal, y la zona rural protegida de huerta.
+
+### Artículo 19
+
+Artículo 19. La infraestructura verde de la Huerta de València.
+1. El Plan de acción territorial de ordenación y dinamización de la Huerta de València definirá la infraestructura verde de la huerta de acuerdo con los artículos 4 y 5 de la Ley 5/2014, de 25 de julio, de la Generalitat, de ordenación del territorio, urbanismo y paisaje, de la Comunitat Valenciana, con el fin de proteger y recuperar los valores ambientales, paisajísticos y culturales de la huerta, sus agrosistemas y patrones ecológicos, mitigar los efectos del cambio climático y de los riesgos naturales e inducidos, así como procurar el uso público sostenible que sea compatible con la actividad agraria.
+2. La infraestructura verde estará compuesta, como mínimo, por los espacios de valor ambiental, las zonas de huerta protegida y las áreas y elementos de conexión territorial y funcional con la infraestructura verde del ámbito exterior de la Huerta de València. También se incluirán aquellos espacios públicos urbanos que faciliten la conectividad de la infraestructura verde.
+3. Los planes generales estructurales de los municipios de la huerta deberán integrar esta infraestructura verde de escala supramunicipal y completarla con los elementos propios de la escala local manteniendo siempre su coherencia y facilitando su conectividad ecológica y funcional. No se admitirán nuevas reclasificaciones de suelo que afecten a los elementos de la infraestructura verde definidos en el plan de acción territorial, y de acuerdo con sus determinaciones.
+4. El plan de acción territorial podrá delimitar las zonas donde deberá mantenerse el sistema del regadío tradicional por gravedad, sea a surco o inundación, sin perjuicio de la introducción de mejoras en la calidad del agua y en su distribución. Las actuaciones que se lleven a cabo en esta materia serán compatibles con la preservación de los valores económicos, ambientales, patrimoniales y culturales de este sistema de regadío.
+
+### Artículo 20
+
+Artículo 20. El paisaje de la Huerta de València.
+1. La Huerta de València constituye un paisaje de relevancia regional. El plan de acción territorial y los planes urbanísticos que ordenen este espacio prestarán una atención especial al diseño de los límites urbanos con la huerta y tendrán que:
+a) Respetar las trazas principales del suelo agrícola, de la red de caminos y la red de acequias principales.
+b) Articular una red de itinerarios, a partir de los caminos y sendas existentes, que potencie el uso, disfrute y la visualización de la huerta, compatible con la actividad agraria, impidiendo una accesibilidad masiva a las áreas agrícolas que puedan interferir o dificultar el normal desarrollo de la actividad agraria.
+c) Garantizar la adecuada transición entre el espacio urbano y el agrícola. Con carácter general, se materializarán las zonas verdes y los espacios libres urbanos en el límite de las zonas edificadas del casco urbano en contacto con la huerta, sin perjuicio de lo establecido en la normativa urbanística.
+d) Acondicionar los desarrollos urbanísticos de manera que eviten la afección visual de la huerta y sirvan para la regeneración de ámbitos degradados.
+2. En la forma en que determine el plan de acción territorial, no serán autorizables actuaciones que alteren la estructura de la Huerta de València, modifiquen sustancialmente el tipo de cultivo, deterioren la capacidad productiva del suelo o depositen materiales impropios sobre la cubierta vegetal. Las administraciones públicas podrán incentivar el sistema de cultivo hortícola.
+3. Las edificaciones existentes y las de nueva implantación compatibles con el plan de acción territorial y esta ley, con independencia de su uso, se adaptarán o cumplirán las disposiciones normativas siguientes:
+a) Deberán responder en su diseño y composición a las características dominantes del ambiente en el que se ubiquen, sin que ello suponga una adaptación mimética a las soluciones tradicionales.
+b) Todas las caras de la edificación tendrán consideración de fachada, quedando prohibidos los tratamientos de medianeras. Asimismo, las construcciones deberán realizarse con materiales, colores y acabados de calidad, acordes con el paisaje rural y las edificaciones tradicionales del entorno.
+c) Se fomentarán soluciones constructivas ecológica y energéticamente autosuficientes.
+d) En las edificaciones existentes se incentivará la eliminación de los elementos que resulten discordantes con la estética y armonía dentro del espacio de huerta en el que se inserten. A este efecto se llevarán a cabo programas y proyectos de restauración e integración paisajística. Estas actuaciones podrán ser incentivadas por las administraciones públicas.
+e) En las edificaciones catalogadas se cumplirán, además, las prescripciones contenidas en su instrumento de catalogación, en cuanto a obras permitidas, elementos a proteger, composición y estética, entre otros.
+f) La parcela afecta a la edificación formará parte del conjunto y será necesario, en las de nueva implantación, estudiar y justificar la posición de la edificación y su localización respecto a la parcela cultivada de acuerdo con los patrones característicos de la zona de huerta en la que se ubiquen.
+g) Con carácter general, en las nuevas edificaciones se fija un retranqueo mínimo de tres metros en todos los lindes de parcela y de cinco metros desde los ejes de los caminos de acceso según el patrón tradicional.
+h) El plan de acción territorial y los planes urbanísticos que ordenen este espacio fijarán cartas cromáticas de las edificaciones tradicionales y criterios de color compatibles. De la misma manera, se establecerán criterios para el empleo de las especies arbóreas y arbustivas tradicionales en el ámbito de la huerta.
+i) El plan de acción territorial establecerá aquellos actos de planeamiento o intervención en la edificación que requieran un estudio de paisaje o de integración paisajística, con informe previo favorable de la conselleria con competencias en materia de paisaje.
+
+### Artículo 21
+
+Artículo 21. Protección del medio ambiente.
+1. Se fomentará e incentivará, por parte de las administraciones públicas, la conservación y recuperación funcional y estructural de los ecosistemas fluviales y masas de agua que transcurren por la Huerta de València, así como su interrelación con la red de regadíos tradicionales y su funcionalidad de transporte y drenaje de agua. Al mismo tiempo, se promoverá el mantenimiento y regeneración de la biodiversidad propia vinculada a los espacios de agua, de manera que se garantice su funcionalidad ecológica e hidráulica y la prevención de la propagación de enfermedades. Asimismo, se fomentará e incentivará el mantenimiento y regeneración de las masas vegetales presentes en la huerta y, en especial, las relacionadas con las construcciones tradicionales, caminos y cursos de agua.
+2. Se fomentarán las mejores prácticas de agricultura tradicional, sostenible y ecológica, reduciendo el uso de productos fitosanitarios y fertilizantes de síntesis, potenciando el uso de aquellos más respetuosos con el medio ambiente.
+3. El acopio y utilización de materia orgánica en el suelo, así como la utilización y aplicación de fertilizantes inorgánicos y fitosanitarios químicos, se realizarán de manera que se minimicen los riesgos de contaminación de las aguas superficiales y subterráneas.
+4. Queda prohibido el vertido incontrolado de residuos sólidos dentro del ámbito de la huerta, así como las instalaciones de gestión de residuos y las instalaciones de tratamiento de subproductos de origen animal. No tendrán la consideración de instalaciones los puntos de recogida de residuos ni los sistemas de autocompostaje doméstico o similar.
+5. El vertido en cauces o acequias queda restringido al de aguas pluviales y residuales urbanas tratadas y regeneradas, previa autorización del organismo de cuenca. Las aguas pluviales solo podrán verterse a las acequias previa autorización del titular de la infraestructura. Las fosas sépticas y los pozos ciegos que puedan generar filtraciones que afecten las aguas subterráneas deberán reemplazarse por compartimientos estancos que impidan la filtración y faciliten la retirada de los residuos por medios adecuados especializados o conectarse a la red de alcantarillado. Reglamentariamente se determinarán las distancias requeridas para la obligatoria conexión con el sistema de alcantarillado para todos los casos de evacuación de aguas residuales no pluviales. Las administraciones públicas competentes desarrollarán programas y proyectos, que podrán incluir ayudas, subvenciones o incentivos fiscales, para eliminar los vertidos urbanos e industriales a las aguas subterráneas, cauces o acequias mencionadas, en el plazo máximo de ocho años desde la aprobación de esta ley.
+6. Se habilitarán lugares de recogida de materiales no orgánicos provenientes de la actividad agraria.
+
+### Artículo 22
+
+Artículo 22. Usos y actividades permitidas en la Huerta de València.
+1. El uso global predominante en la Huerta de València es el agropecuario. Por ello, se podrán autorizar construcciones, instalaciones y obras que sean necesarias y compatibles con el mejor aprovechamiento, conservación, cuidado y restauración de los recursos propios de esta actividad, y mediante informe favorable de la conselleria competente en materia de agricultura, fundado en necesidades de la actividad agraria, podrá eximirse en casos determinados del cumplimiento de las limitaciones urbanísticas o territoriales reglamentarias establecidas con carácter general. Este uso global admite la compatibilidad de otros usos complementarios o dinamizadores de la actividad principal.
+2. El Plan de acción territorial de ordenación y dinamización de la Huerta de València establecerá la gradación del régimen de usos y actividades permitidas y de sus intensidades. En todo caso, para acoger usos y actividades se otorgará prioridad a la rehabilitación de las edificaciones tradicionales existentes ante la construcción de nuevas y se atenderán las determinaciones del catálogo de bienes culturales en las intervenciones sobre las edificaciones.
+3. Se prohíbe todo desarrollo urbanístico de uso industrial global que no esté expresamente contemplado por el plan de acción territorial. Se fomentará la reconversión y cambio de uso de las áreas industriales contiguas con terrenos de huerta a usos agrarios, residenciales, terciarios o dotacionales. Estos cambios deberán contar con el informe favorable de la conselleria competente en ordenación del territorio y cumplir con las determinaciones sobre protección del paisaje previstas en la legislación urbanística y el catálogo de bienes.
+4. Con carácter excepcional, el plan de acción territorial que ordene la huerta permitirá la implantación de usos residenciales, dotacionales y terciarios. Los usos terciarios deberán tener obligatoriamente el informe preceptivo favorable de la conselleria competente en materia de urbanismo y ordenación del territorio.
+5. Los espacios en que los campos de cultivo sean colindantes a la costa tienen un especial valor paisajístico, etnológico y cultural, por lo que la implantación de estos usos dotacionales y terciarios en ningún caso pueden suponer una disminución significativa de la superficie cultivable, ni desincentivar que la actividad agraria se mantenga al lado de las playas, dunas o restingas del ámbito del plan de acción territorial.
+Se modifican los apartados 1, 3 y 4, en los términos establecidos en el anexo I.3 y 4 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 23
+
+Artículo 23. El uso público sostenible y actividades complementarias en la Huerta de València.
+1. Con el fin de revitalizar la Huerta de València y promover su uso público sostenible, el plan de acción territorial y los planes generales estructurales que ordenen este espacio permitirán la introducción de usos y actividades de carácter terciario que sean compatibles con los valores de la huerta y beneficien el ejercicio de la actividad agraria. La introducción de estos usos y actividades de carácter terciario deberán contar con informe favorable de la Conselleria con competencias en materia de agricultura y desarrollo rural, previamente a incluirlo en los instrumentos de ordenación territorial o urbanística.
+2. Estos usos se implantarán de manera preferente en edificios catalogados de arquitectura tradicional y próximos a las vías verdes e itinerarios de la huerta y a las áreas de interés cultural y recreativo. También se implantarán de manera preferente en las zonas de suelo urbano o urbanizable de interfaz huerta-pueblo o huerta-ciudad.
+3. Los itinerarios y, en general, los elementos de la huerta que permitan su uso público sostenible incentivarán el uso de medios de transporte no motorizados y de cero emisiones, tendrán que procurar la máxima conectividad posible y evitar un uso terciario masivo de la huerta que amenace, degrade o interfiera la actividad agraria principal. Los caminos que discurran dentro de las áreas de huerta protegida serán de uso agrario preferente. Las administraciones públicas tomarán medidas para evitar su uso como vías interurbanas de transporte privado.
+4. El plan de acción territorial podrá autorizar usos y actividades en la huerta que se implanten sin necesidad de declaración de interés comunitario, que, en todo caso, deberán satisfacer un canon de cuantía equivalente al regulado en la legislación urbanística por este instrumento. Los ingresos derivados de los cánones satisfechos por los promotores de estas actividades tendrán a los ayuntamientos como beneficiarios, integrándose en el patrimonio municipal de suelo.
+Se modifica el apartado 1 y se añade el apartado 4, en los términos establecidos el anexo I.5 y 6 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 24
+
+Artículo 24. Condiciones generales para las infraestructuras en el ámbito de la Huerta de València.
+1. Las infraestructuras de nueva implantación y la modificación de las existentes requerirán un estudio de integración paisajística informado por la conselleria competente en materia de paisaje y un informe favorable de la conselleria competente en ordenación del territorio. Con carácter general, estas infraestructuras tendrán que:
+a) Evitar la fragmentación y degradación de los elementos que componen la huerta.
+b) Adaptarse a los patrones del territorio y a las pendientes naturales del terreno evitando taludes y plataformas sobre la rasante natural que dificulten la percepción de la huerta y la evacuación natural de avenidas de agua. Será preferible su trazado soterrado o en trinchera.
+c) Evitar actuaciones que dificulten la accesibilidad a las explotaciones de las personas que se dedican a la agricultura.
+d) Considerar su función en el paisaje, bien como límite urbano, espacio de percepción del territorio o elemento singular. Esta función se potenciará en el proyecto, sin perjuicio de su funcionalidad y seguridad.
+e) En los bordes urbanos, diseñarse como elementos de transición entre la ciudad y la huerta, facilitando la conectividad funcional, física y visual entre ambos espacios.
+f) En el diseño de los cruces con los elementos lineales del patrimonio hidráulico, ponerlos en valor y mejorar su accesibilidad física y visual.
+g) Impedir la ocultación de áreas de la huerta de interés mediante pantallas acústicas u otros elementos asimilables.
+h) Asegurar su permeabilidad para las personas, especies de flora y fauna, garantizando la continuidad de los ecosistemas.
+i) Concentrar las infraestructuras lineales en corredores multimodales y minimizar la ocupación del suelo de huerta.
+2. Todas las nuevas líneas eléctricas, de comunicación por cable y semejantes, en el ámbito de la Huerta de València, tendrán que adoptar el trazado y la solución que menor impacto cause en la huerta, tanto desde el punto de vista agrícola como ambiental y visual. Con carácter preferente, se tendrán que soterrar. Las administraciones públicas velarán por el soterramiento progresivo de las líneas aéreas preexistentes con el objetivo de minimizar su impacto ambiental y visual.
+3. En el ámbito de la huerta, excluidos los núcleos urbanos, no se permite la implantación de instalaciones destinadas a la captación y producción de energías renovables que no sirvan de modo exclusivo a la explotación vinculada, o que sean exigibles por el Código técnico de la edificación en función del uso específico de la edificación.
+Se modifica el apartado 1, en los términos establecidos en el anexo I.7 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+## CAPÍTULO IV
+
+Régimen jurídico del suelo agrario infrautilizado en la Huerta de València
+
+### Artículo 25
+
+Artículo 25. Mecanismos de intermediación.
+La conselleria competente en materia de agricultura y desarrollo rural y las administraciones locales son las competentes para llevar a cabo actividades de intermediación para la cesión de uso de tierras, tales como la coordinación de iniciativas locales previas o la articulación de un banco de tierras dentro del ámbito territorial de aplicación de esta ley; así como actividades de promoción, sensibilización, comunicación en torno a los mecanismos de cesión del uso de tierras, con el objetivo de favorecer la continuidad de la actividad agraria en aquellas fincas que dejen de ser explotadas por su titular. En este sentido se impulsarán fórmulas de cesión de uso que salvaguarden el derecho del propietario y que permitan la obtención de rentas.
+Se modifica en los términos establecidos en el anexo I.8 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 26
+
+Artículo 26. Suelo agrario infrautilizado.
+1. A los efectos de esta ley, se entenderá por suelo agrario infrautilizado aquel en el que concurran una o diversas de las siguientes circunstancias:
+a) Suelos en proceso de degradación, sin un mínimo trabajo, agricultura de conservación, mantenimiento de una cubierta vegetal adecuada y otras medidas correctoras.
+b) Suelos donde las malas prácticas agrarias o usos inconvenientes hacen que presenten riesgo de aparición de fuego, invasión de malas hierbas, plagas o enfermedades que puedan causar daños a la propia parcela o a parcelas contiguas, o pongan en riesgo las condiciones ambientales de su entorno o la salud pública, o aquellos que por sus funciones de defensa ante incendios forestales se tengan que labrar.
+c) Suelos agrarios que permanezcan sin práctica relacionada con la producción y cultivo de productos agrícolas, ni destinados a la cría ni al mantenimiento de animales, ni destinados a actividades complementarias vinculadas con la actividad agraria durante tres años consecutivos, salvo que razones de carácter agronómico o ambiental, debidamente motivadas, lo justifiquen, o se justifique por cuestiones de pérdida de rentabilidad continuada no atribuible a la gestión de la persona titular.
+2. Reglamentariamente se establecerá:
+a) El procedimiento para la declaración de suelo infrautilizado, o para su revocación, de acuerdo con las circunstancias indicadas en el apartado anterior y con la normativa y orientaciones estatales y supranacionales sobre abandono de superficies agrícolas.
+b) Los mecanismos de control del suelo infrautilizado a través de medios clásicos o teledetección.
+c) La creación y gestión de un inventario público de suelo agrario infrautilizado, que deberá ser actualizado, al menos, con carácter anual.
+
+### Artículo 27
+
+Artículo 27. Declaración de suelo agrario infrautilizado.
+1. Cuando los servicios de inspección de la conselleria competente en materia de agricultura detecten en una inspección una parcela agraria infrautilizada, levantarán acta de inspección, informarán a su titular de las consecuencias del mantenimiento de la situación de suelo agrario infrautilizado y procederán a la declaración de suelo agrario infrautilizado, de acuerdo con lo que establece esta ley.
+2. El procedimiento de declaración de suelo agrario infrautilizado respetará el derecho de los interesados a formular alegaciones y a la audiencia en los plazos que normativamente se establezcan, con indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de declaración de suelo agrario infrautilizado, este podrá ser considerado propuesta de resolución.
+3. La conselleria competente en materia de agricultura realizará el seguimiento de la utilización de las parcelas declaradas como infrautilizadas. Transcurrido el plazo de un año desde esta declaración y si se mantienen las circunstancias que le dieron lugar, se procederá a inscribirla en el inventario de suelo infrautilizado creado al efecto.
+4. Una vez sustanciada la inscripción en el inventario de suelo infrautilizado previsto en el apartado anterior, se otorgará un plazo de un año para que el titular de la parcela elija alguna de las siguientes opciones:
+a) La realización de medidas correctoras, en los términos establecidos legalmente.
+b) La cesión temporal de la finca en favor de tercera persona, mediante cualquier negocio jurídico válido en derecho, en el que constará de manera expresa que la tercera persona se compromete a evitar la infrautilización del suelo, en los términos establecidos en el artículo 24.1 de esta ley.
+c) La incorporación de la parcela en el mecanismo de intermediación que solicite el titular del suelo para facilitar su uso agrario.
+d) La incorporación de la parcela a la iniciativa de gestión común que solicite el titular para facilitar la gestión de su uso.
+5. Notificada la opción que se pretenda, esta deberá llevarse a cabo en el plazo de seis meses siguientes a la fecha en la que la decisión de la persona interesada haya entrado en el registro del órgano competente.
+6. Transcurrido el plazo anterior sin haber optado el titular por ninguna opción, la conselleria competente en materia de agricultura podrá iniciar el procedimiento de declaración de incumplimiento de la función social del uso de la tierra previsto en el artículo 28.
+Se modifica el apartado 4.c) y se suprime el apartado 7, en los términos establecidos en el anexo I.9 y 10 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 28
+
+Artículo 28. Declaración de incumplimiento de la función social del uso de la tierra.
+1. Transcurridos los plazos previstos en el artículo anterior, si se mantienen las circunstancias que motivaron la declaración de parcela o parcelas infrautilizadas, después de inscribirla en el inventario de suelo infrautilizado, la conselleria competente en materia de agricultura podrá iniciar el procedimiento para la declaración de incumplimiento de la función social del uso de la tierra, por su infrautilización. Esta declaración procederá en caso de que existan graves motivos de orden económico, social o ambiental que así lo exijan y el abandono total de la parcela se encuentre acreditado en el expediente.
+2. El procedimiento para la declaración de incumplimiento de la función social del uso de la tierra, así como el derivado de esta declaración, se regirán por la legislación general sobre expropiación forzosa.
+3. Reglamentariamente se establecerá el procedimiento para la licitación pública del uso del suelo con declaración de incumplimiento de la función social por ser un suelo agrario infrautilizado. Las bases de licitación del contrato de arrendamiento exigirán un compromiso de cultivo de las tierras arrendadas y fijarán los criterios de selección, en los que, además de la modalidad de contrato, precio y plazos del arrendamiento o cesión, se podrán tener en cuenta las mejoras de tipo agrario, ambiental o paisajístico que se tendrán que introducir en la explotación, así como cualquier otro criterio que considere la administración competente, en particular criterios sociales y que incrementen la presencia de las mujeres y personas jóvenes en las actividades de la huerta.
+Se modifica el apartado 1, en los términos establecidos en el anexo I.11 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+## CAPÍTULO V
+
+Clasificación y zonificación del suelo de la Huerta de València
+
+### Artículo 29
+
+Artículo 29. La clasificación y zonificación del suelo de la Huerta de València.
+1. El Plan de acción territorial de ordenación y dinamización de la Huerta de València y los planes generales estructurales de los municipios de la huerta clasificarán como suelo no urbanizable protegido y calificarán como zona rural protegida agrícola (ZRP-AG) los suelos agrícolas de mayor valor. Los espacios naturales incluidos en el ámbito de la huerta se regirán por lo establecido en su propia normativa o, en su defecto, por la territorial o urbanística.
+2. Los planes generales estructurales de los municipios de la Huerta de València, de acuerdo con el plan de acción territorial, restringirán al máximo la ocupación del suelo de la huerta por los desarrollos urbanísticos. Los planes fomentarán las operaciones de rehabilitación, regeneración y renovación urbana.
+3. La zonificación del suelo rural se establecerá a partir de los distintos patrones de ocupación del territorio presentes en la Huerta de València, especialmente en las relaciones de la parcelación agrícola con la edificación tradicional existente.
+4. Los planes generales estructurales de los municipios establecerán su modelo territorial de acuerdo con las determinaciones del plan de acción territorial y recogerán en su memoria justificativa los objetivos estratégicos establecidos en dicho plan de acción territorial.
+5. El plan de acción territorial podrá delimitar sectores y enclaves de recuperación de la huerta, al efecto de asignarles el régimen jurídico establecido en este capítulo. Estos enclaves y sectores de recuperación de la huerta integrarán los terrenos incluidos en el ámbito del plan de acción territorial que estén en situación básica rural y que deban ser objeto de recuperación de sus valores y sus funciones ambientales, territoriales, paisajísticas, económicas y culturales propias de la huerta, siempre que la reconstrucción o la introducción de edificaciones resulte compatible.
+
+## Sección 1
+
+Sección 1.ª Los enclaves de recuperación de la Huerta de València
+
+### Artículo 30
+
+Artículo 30. Características y delimitación de los enclaves de recuperación de la Huerta de València.
+1. Los enclaves de recuperación de la huerta son superficies de terrenos degradados sobre las que hay edificaciones en situación de ruina o en mal estado de conservación o son suelos sellados sin edificaciones o escasa presencia de las mismas, todos ellos sin valor patrimonial significativo y sobre los cuales habría que hacer actuaciones de regeneración de la huerta para destinarlos a explotación agraria efectiva, permitiendo reedificar o rehabilitar las superficies construidas o edificar una porción minoritaria del terreno.
+2. La delimitación de cada enclave de recuperación de la huerta se ajustará a la parcela o parcelas en las que, efectivamente, se encuentre la edificación en situación de ruina o en mal estado de conservación, y su ámbito de afección o los suelos sellados descritos en el apartado anterior. El plan de acción territorial establecerá una relación de ámbitos delimitados que podrán ser declarados enclaves de recuperación de la Huerta de València. La declaración corresponderá a la conselleria competente en materia de ordenación del territorio, previa audiencia a los interesados.
+3. Únicamente pueden delimitarse como enclave de recuperación de huerta aquellos espacios cuyos costes de eliminación de las edificaciones existentes o del suelo sellado y de reposición de suelo y sistemas de riego hagan inviable económicamente la recuperación del cultivo, por no poder amortizarse por el simple ejercicio de la actividad agraria.
+4. No se podrá considerar como enclave de recuperación de la huerta ningún espacio que no se encuentre ya degradado e incultivado en el momento de la aprobación del plan de acción territorial previsto en el capítulo III de esta ley. A los procesos de degradación que se puedan producir con posterioridad, se les aplicará el régimen jurídico de los suelos infrautilizados del capítulo IV de esta ley.
+5. Los ayuntamientos podrán proponer la declaración de enclaves de recuperación de la huerta de los ámbitos establecidos en el Plan de Ordenación y Dinamización de la Huerta de València o de nuevos ámbitos siempre que cumplan los requisitos establecidos para su declaración. La solicitud de declaración se realizará por acuerdo plenario. En todo caso, se tendrá que probar que el terreno se encontraba ya degradado con anterioridad a la entrada en vigor del plan de acción territorial de ordenación y dinamización de la huerta.
+Se modifica el apartado 5, en los términos establecidos en el anexo I.12 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+ Se modifica el apartado 5 por el art. 92 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 31
+
+Artículo 31. Determinaciones de la ordenación de los enclaves de recuperación de la Huerta de València.
+1. Los enclaves de recuperación de la huerta son suelos en situación básica de suelo rural y se clasifican como suelo no urbanizable. La parcela o parcelas que constituyen el enclave se mantendrán o restaurarán como suelo destinado efectivamente a la explotación agraria, al menos en sus dos terceras partes. En el tercio restante se podrá asignar un uso residencial o terciario, siempre que este último esté permitido por el plan de acción territorial.
+2. Se podrá rehabilitar la edificación preexistente o edificar, como máximo, la misma superficie ocupada en planta por las edificaciones ruinosas y en mal estado preexistentes, con altura máxima de planta baja más una planta. La superficie restante de este tercio que puede tener uso residencial o terciario, que no sea ocupada por edificaciones, podrá destinarse a uso agrario o a usos complementarios de la edificación, siempre que no comporte la realización de obras sobre rasante y respete el paisaje tradicional de huerta. En los enclaves de recuperación de huerta que sean suelos sellados sin edificaciones o escasa presencia de las mismas, se podrá edificar como máximo el 10 % de la superficie del enclave de recuperación de huerta con las condiciones mencionadas. El uso no agrario del suelo no podrá superar el 15 % de la superficie del enclave de recuperación de huerta. En ambos casos, las edificaciones se adaptarán a los parámetros constructivos determinados por el plan de acción territorial. En todo caso, por la conselleria competente en materia de urbanismo y ordenación del territorio podrá eximirse, razonadamente, de aquellas limitaciones de uso y aprovechamiento impuestas con carácter general por el citado plan de acción territorial o por esta ley que impidan o dificulten gravemente la declaración de enclaves de recuperación, debiendo mantenerse en todo caso destinado a uso agrario un porcentaje de superficie de la parcela libre de ocupación del 50 %, de acuerdo con lo previsto en la legislación urbanística para las actividades terciarias o de servicios en suelo no urbanizable.
+Se modifica el apartado 2, en los términos establecidos en el anexo I.13 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 32
+
+Artículo 32. Obligación de restaurar los enclaves de recuperación de la Huerta de València.
+1. Las personas propietarias de los suelos que se declaren como enclaves tienen la obligación de recuperar el suelo de la huerta y cultivar, por lo menos, las dos terceras partes de sus propiedades. Si, transcurridos cuatro años desde la declaración de los enclaves, esta obligación se mantuviera incumplida, la conselleria con competencias en materia de ordenación del territorio y urbanismo, preceptivamente, instará a las personas propietarias a hacer su recuperación, con la solicitud previa de las licencias necesarias para ello.
+2. Si transcurridos dos años desde el requerimiento, las personas propietarias no hubieran obtenido, por causas imputables a ellas, las licencias que resulten exigibles y no se hubieran iniciado –por lo menos– las obras destinadas a la recuperación y cultivo de las dos terceras partes de la finca, la conselleria con competencias en materia de ordenación del territorio y urbanismo iniciará un procedimiento de venta forzosa del suelo por subasta pública, por contravención de la función social de la propiedad agraria de la Huerta de València, en el que se dará audiencia a los propietarios. La adjudicación de los terrenos se realizará a quien ofrezca un mejor precio por ellos.
+3. En caso de que el procedimiento de venta forzosa resulte infructuoso, la conselleria con competencias en materia de ordenación del territorio y urbanismo expropiará el suelo, por contravención de la función social de la propiedad agraria de la Huerta de València, de acuerdo con lo establecido en la legislación general de expropiación forzosa. En el plazo máximo de dos años desde la materialización de la expropiación del suelo, la conselleria con competencias en materia de ordenación del territorio y urbanismo tendrá que ceder el uso del suelo a un tercero para que desarrolle las actuaciones de recuperación de la huerta por un plazo suficiente para garantizar la viabilidad económica de la explotación y la amortización de los gastos de recuperación o, alternativamente, vender el suelo a un tercero para que desarrolle las actuaciones de recuperación de la huerta. Tanto el procedimiento de cesión de uso como el de venta del suelo estarán sujetos a subasta pública, en la que solo se tendrá en cuenta el precio ofrecido como criterio para su adjudicación.
+4. El adquirente del uso o de la propiedad del suelo tendrá que iniciar la ejecución de las tareas de recuperación de la huerta en el plazo máximo de un año. En caso de incumplimiento, los terrenos revertirán en la conselleria con competencias en materia de ordenación del territorio y urbanismo y tendrá que pagar una multa equivalente al 50 % del precio satisfecho por la adquisición del uso o de la propiedad del suelo, en concepto de sanción.
+
+## Sección 2
+
+Sección 2.ª Los sectores de recuperación de la Huerta de València
+
+### Artículo 33
+
+Artículo 33. Características y delimitación de los sectores de recuperación de la Huerta de València.
+1. Los sectores de recuperación de la huerta son espacios amplios de huerta contiguos al suelo en situación de urbanizado, sobre los que hay edificaciones en situación de ruina o en mal estado de conservación o terrenos agrícolas degradados. Como máximo, un tercio de la superficie del suelo del sector se podrá destinar a su transformación urbanística, debiendo mantenerse el resto de la superficie del sector en condiciones de explotación agraria efectiva.
+2. La superficie del sector de recuperación de la huerta estará estrictamente delimitada en el Plan de acción territorial de ordenación y dinamización de la Huerta de València. Su delimitación se ajustará a referencias físicas objetivas. La superficie incluida se justificará en el cumplimiento de los objetivos definidos en el plan de acción territorial, en la necesidad de suelo de uso residencial o terciario, de acuerdo con la estrategia territorial de la Comunitat Valenciana, y en la viabilidad económica de la actuación.
+3. Los sectores de recuperación de la huerta delimitados por el plan de acción territorial, excepcionalmente, podrán ser discontinuos y contener parcelas cultivadas en buen uso dentro del ámbito de recuperación.
+4. En los espacios donde se conserve la huerta primigenia, pero el Plan de acción territorial de ordenación y dinamización de la huerta no los clasifique como suelo no urbanizable por estar rodeados de trama urbana o infraestructuras, si los ayuntamientos en su ordenación urbanística conservan más del 50 % de esta huerta primigenia preexistente como dotación pública, podrán aplicar las reducciones de estándares y beneficios que se prevén en el artículo 35 de esta ley.
+
+### Artículo 34
+
+Artículo 34. Delimitación de área de reparto y cálculo del aprovechamiento tipo.
+1. El sector de recuperación de la huerta constituirá un área de reparto. El aprovechamiento tipo se calculará en la forma establecida por la legislación vigente en materia de ordenación del territorio, urbanismo y paisaje para el suelo urbanizable.
+2. El coeficiente de edificabilidad se establecerá en el plan de acción territorial que delimite el sector, y será de un máximo de 0,33 metros cuadrados de techo residencial por cada metro cuadrado de la superficie del sector.
+
+### Artículo 35
+
+Artículo 35. Estándares urbanísticos.
+1. En los sectores de recuperación de la huerta se mantendrá como suelo destinado a explotación agraria efectiva las dos terceras partes del ámbito delimitado, como mínimo, sin que quepan otros usos, construcciones ni instalaciones que los vinculados directamente a la explotación agraria de los terrenos.
+En todo caso, en los sectores de recuperación que se encuentren fuera del dominio de los regadíos históricos de las acequias del Tribunal de las Aguas de la Vega de València podrán implantarse las instalaciones deportivas singulares que por sus características no sean susceptibles de su ubicación en el suelo urbano, mediante la aprobación de un plan especial para cada caso y sin que ello suponga cambio de la clasificación del suelo. La superficie ocupada por la edificación no excederá nunca del 4 % de la superficie del ámbito destinado a uso deportivo.
+2. El tercio restante podrá ser objeto de transformación urbanística con las siguientes especificidades:
+a) Se destinará a suelo dotacional público no viario el suelo necesario para atender las necesidades de la población residente o trabajadora calculada para el sector, que no será inferior a 15 metros cuadrados de suelo por cada 100 metros cuadrados de edificabilidad residencial, ni del 10 % de la superficie para el suelo terciario. Salvo que se justifique la necesidad de su ubicación en parcela independiente, la cesión para la dotación o equipamiento se realizará, preferentemente, en superficie edificada integrada en un complejo inmobiliario en los términos definidos en la legislación estatal del suelo.
+b) La cesión de terrenos para zonas verdes y parque público dependerá de las necesidades efectivas del sector, sin que resulte de aplicación los estándares mínimos fijados por la legislación urbanística.
+c) El suelo que, de conformidad con la legislación del suelo, debería destinarse a vivienda de protección pública, se podrá materializar en otro ámbito del planeamiento municipal, siempre que se justifique la innecesariedad en el sector de recuperación de la huerta, de acuerdo con la población permanente prevista.
+d) En concepto de aprovechamiento público de la administración en el sector, los propietarios deberán entregar a la administración entre un 2 % y un 5 % del aprovechamiento del sector en función del informe o memoria de sostenibilidad económica.
+Se modifica el apartado 1, en los términos establecidos en el anexo I.14 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Artículo 36
+
+Artículo 36. Aprobación de los planes.
+1. El plan de acción territorial delimitará los usos, la edificabilidad máxima y la superficie máxima donde se materializará la urbanización, salvo los espacios referidos en el artículo 33.4 de esta ley.
+2. Los instrumentos de planeamiento urbanístico determinarán el resto de parámetros de ordenación y se podrán efectuar ajustes de escala de la zona objeto de urbanización siempre que estén debidamente justificados, que no podrán ser superiores al 5 % de la superficie.
+3. La aprobación de los planes que delimiten y ordenen sectores de recuperación de huerta comportará la declaración de utilidad pública e interés social cuando la ejecución tenga que producirse por expropiación.
+
+### Artículo 37
+
+Artículo 37. Régimen de gestión urbanística del suelo y reparcelación.
+1. La gestión urbanística de los sectores de recuperación de huerta se realizará conforme al régimen establecido en la legislación vigente en materia de ordenación del territorio, urbanismo y paisaje para las actuaciones integradas en suelos urbanizables, con las especificidades fijadas en esta ley.
+2. Ejecutadas las previsiones del programa, un tercio de la superficie del sector, como máximo, adquirirá la condición de suelo urbanizado y le será de aplicación el régimen jurídico de este, y mantendrá en el resto la situación rural, equiparando su régimen jurídico al de suelo no urbanizable de protección de la huerta, rigiéndose y gestionándose conforme a la legislación vigente en materia de ordenación del territorio, urbanismo y paisaje y las determinaciones del plan de acción territorial.
+3. En la reparcelación se aplicará el régimen establecido en la legislación vigente en materia de ordenación del territorio, urbanismo y paisaje, con la especificidad de que a cada persona propietaria se le podrá adjudicar una parte de aprovechamiento agrícola y otra parte de aprovechamiento urbanístico, en proporción a su finca de aportación.
+4. A los efectos de mantener el parcelario tradicional, a las personas propietarias cuya parcela de aportación vaya a ser destinada al uso agrícola se les podrá adjudicar una proporción superior de aprovechamiento agrícola en detrimento del aprovechamiento urbanístico, a cuyos efectos se establecerá un coeficiente de equivalencia entre ambos aprovechamientos.
+5. Las obras de urbanización del programa incluirán la eliminación de todas las edificaciones no protegidas de los suelos que mantengan la situación rural, así como la reposición de los suelos, sistemas de riego e infraestructuras necesarias para el uso agrícola.
+6. No podrán autorizarse usos en el sector hasta la culminación y recepción de las obras de recuperación necesarias para permitir la explotación agraria con las características que le correspondan de acuerdo con el tipo de suelo de protección de huerta que corresponda a los terrenos agrarios del sector, en los mismos términos que la legislación urbanística fija para las obras de urbanización de actuaciones integradas.
+
+## CAPÍTULO VI
+
+El Consejo de la Huerta de València
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero, Ref. DOGV-r-2025-90031
+
+### Artículo 38
+
+Artículo 38. Consejo de la Huerta de València.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 39
+
+Artículo 39. Naturaleza jurídica.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 40
+
+Artículo 40. Régimen jurídico.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 41
+
+Artículo 41. Funciones.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 42
+
+Artículo 42. Estructura.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 43
+
+Artículo 43. Patrimonio y bienes.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 44
+
+Artículo 44. Recursos económicos y su control.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+## CAPÍTULO VII
+
+El plan de desarrollo agrario
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 45
+
+Artículo 45. El Plan de desarrollo agrario de la Huerta de València.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+## CAPÍTULO VIII
+
+Explotaciones agrarias profesionales y transmisión de campos de cultivo
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 46
+
+Artículo 46. Inventario de explotaciones agrarias profesionales de la Huerta de València.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Artículo 47
+
+Artículo 47. Transmisión de campos de cultivo.
+(Suprimido)
+Se suprime por el art. 2 del Decreto-ley 4/2025, de 4 de febrero. Ref. DOGV-r-2025-90031
+
+### Disposición adicional primera
+
+Disposición adicional primera. Cumplimiento de los estándares urbanísticos en la Huerta de València.
+1. Los municipios cuyo suelo no urbanizable esté total o parcialmente incluido en el ámbito del Plan de acción territorial de ordenación y dinamización de la Huerta de València podrán optar alternativamente por minorar el estándar de parque público de la red primaria, de acuerdo con lo previsto en el artículo 24.1.c) del texto refundido de la Ley de ordenación del territorio, urbanismo y paisaje, o bien, en las siguientes cuantías, aplicándose en cualquier caso dicha reducción al estándar global de zonas verdes y parques públicos prevista en el artículo 24.7 de la citada legislación urbanística:
+a) Hasta un 35 %, en todos los municipios que cumplan la condición anterior y justifiquen la existencia de 10 metros cuadrados de suelo de protección de huerta por cada metro cuadrado de parque público minorado.
+b) Hasta un 50 %, en aquellos municipios con población inferior a 25.000 habitantes o tengan, por lo menos, el 75 % del suelo no urbanizable como suelo de huerta protegida, y se justifique la existencia de 10 metros cuadrados de suelo de protección de huerta por cada metro cuadrado de parque público minorado.
+2. Con carácter excepcional, por su singularidad y su elevado valor agronómico, cultural y paisajístico, los suelos de protección de huerta situados en la franja litoral podrán considerarse en el planeamiento estructural general como parque público de la red primaria (PVP) previsto en el artículo 24.1.c de la Ley de ordenación del territorio, urbanismo y paisaje, pero deberán mantener en todo caso el uso agrario en una superficie, como mínimo, equivalente a la superficie cultivable a la entrada en vigor del plan de acción territorial de ordenación y dinamización de la Huerta de València.
+3. La aplicación de las determinaciones establecidas en los apartados 1 y 2 de esta disposición exigirá la realización de un programa de uso público sostenible en los espacios de huerta con carácter preceptivo. Este programa deberá ser informado de forma preceptiva y vinculante por la conselleria con competencias en materia de ordenación del territorio, urbanismo y paisaje, y contar con informe favorable de la Conselleria con competencias en agricultura y desarrollo rural, que garantice su compatibilidad con la actividad agraria. El presupuesto de este programa deberá ser equivalente al coste de ejecución del PVP que, como consecuencia de esta medida, deje de realizarse, descontando, en su caso, el coste de adquisición del suelo.
+4. En todo caso, las condiciones funcionales y dimensionales de parque urbano (VP) a que se refiere el anexo IV.III.3.2.c de la Ley de ordenación del territorio, urbanismo y paisaje, se entenderán cumplidas con las establecidas en el apartado 3.2.b del anexo para jardines públicos (VP).
+Se modifican los apartados 1 y 3, en los términos establecidos en el anexo I.15 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Inscripción en el registro de la propiedad.
+La conselleria competente en materia de ordenación del territorio, en el plazo de tres meses desde la publicación de esta ley, pondrá a disposición de los registradores de la propiedad, para su incorporación a la aplicación informática auxiliar a que se refiere el artículo 9 de la Ley hipotecaria, un acceso mediante un servicio de mapas web a todos los planes de acción territorial, debidamente georreferenciados y metadatados, así como a sus modificaciones aprobadas definitivamente y en vigor.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Protección de datos
+1. El tratamiento de datos personales que se realice en cumplimiento de esta norma se ajustará a lo dispuesto en el régimen jurídico europeo y estatal en materia de protección de datos de carácter personal.
+2. Los datos personales que las personas proporcionen a la administración en aplicación de la presente norma serán utilizados con las finalidades y los límites previstos en esta.»
+En el plazo máximo de nueve meses desde la entrada en vigor de esta ley se constituirá el Consejo de la Huerta de València y se elaborará el plan de desarrollo agrario.
+Se modifica en los términos establecidos en el anexo I.16 del Decreto-ley 4/2025, de 4 de febrero, según determina su artículo 1, Ref. DOGV-r-2025-90031
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Ayudas para el mantenimiento de la actividad agraria en la Huerta de València.
+1. La conselleria competente en materia de agricultura y desarrollo rural concederá ayudas a los titulares de explotaciones agrarias cuyas parcelas se ubiquen en una o varias de las zonas de protección establecidas en el Decreto 219/2018, de 30 de noviembre, del Consell, por el que se aprueba el Plan de acción territorial de ordenación y dinamización de la Huerta de València, dentro del ámbito geográfico delimitado por la presente ley.
+Se habilita a la persona titular de la citada conselleria para establecer mediante orden el procedimiento para la concesión de estas ayudas. Excepcionalmente, para el ejercicio 2026, se estará a lo dispuesto en la disposición transitoria quinta.
+2. La finalidad de las ayudas será la de compensar la menor rentabilidad de las explotaciones por las limitaciones al cultivo derivadas de la presente ley y la normativa que la desarrolla.
+3. El importe de la ayuda se determinará en función de la disponibilidad presupuestaria y de la superficie agraria en uso, siendo requisito que las parcelas estén cultivadas e inscritas en el Registro de Explotaciones Agrarias de la Comunitat Valenciana (REACV).
+4. El importe básico por superficie se podrá incrementar para los titulares de explotación agraria que sean jóvenes.
+Se modifica el apartado 1 por el art. 118.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se añade por el art. 100.único del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. El planeamiento en tramitación.
+Los instrumentos de planeamiento, de naturaleza territorial, urbanística o sectorial, así como las declaraciones de interés comunitario o los proyectos de infraestructuras incluidos en el ámbito de la presente ley que hubiesen iniciado su información pública con anterioridad a la entrada en vigor de esta ley, podrán continuar su tramitación conforme a la legislación anterior o continuar su tramitación ajustándose a las determinaciones de esta ley.
+En caso de que un expediente de planeamiento urbanístico o de declaración de interés comunitario informado al público previamente a la entrada en vigor de esta ley entre en contradicción grave con su espíritu y sus objetivos, las administraciones públicas responsables de la aprobación del planeamiento o las declaraciones de interés comunitario podrán aplicar las determinaciones de esta ley, previa determinación, en su caso, de las posibles responsabilidades patrimoniales que procedan.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. El régimen de fuera de ordenación.
+Se declaran en situación de fuera de ordenación todas las construcciones, o elementos impropios de estas, que sean contrarias a las determinaciones de esta ley, no pudiendo realizarse en ellas más obras que las de mera conservación.
+Se excepcionarán de este régimen aquellas construcciones destinadas a vivienda que cuenten con las preceptivas licencias y autorizaciones que se hubiesen otorgado de acuerdo con la ordenación urbanística. Tampoco será causa de este régimen el mero incumplimiento de las distancias de retranqueo mínimo o de distancia mínima a los ejes de caminos establecidos por esta ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen de suelo infrautilizado.
+La regulación relativa a suelo infrautilizado de esta ley se adecuará a la que, con carácter general, se fije en materia agraria para el conjunto del ámbito territorial de la Comunitat Valenciana, teniendo en cuenta las particularidades de la huerta.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen transitorio de emisión de los informes preceptivos relativos a usos y actividades en el ámbito de la Huerta de Valencia.
+En tanto no se encuentre en funcionamiento efectivo el Consell de l’Horta y pueda asumirse por dicho órgano la emisión de los informes a que se refiere el artículo 41, letra l de esta ley, la conselleria con competencias en materia de agricultura y desarrollo rural, a instancia del Ayuntamiento que lo solicite, asumirá la emisión de los informes preceptivos y vinculantes relativos a usos y actividades en el ámbito de la Huerta de València, con carácter previo a las licencias que los autoricen.
+En cualquier caso, este mecanismo transitorio no podrá prolongarse más de dieciocho meses desde la constitución del Consell de l’Horta.
+Se añade por el art. 93 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Régimen transitorio para la concesión directa de ayudas en el ejercicio 2026.
+Con carácter excepcional, para el ejercicio 2026, por resolución de la persona titular de la conselleria con competencias en materia de agricultura y desarrollo rural se hará público el importe global destinado a las ayudas para el mantenimiento de la actividad agraria en la Huerta de València. Con carácter previo a la resolución de concesión, el centro directivo competente en la materia accederá al Registro de explotaciones agrarias de la Comunitat Valenciana con la finalidad de obtener los datos necesarios para la confección de un listado de explotaciones agrarias susceptibles de acogerse a las ayudas, salvo oposición expresa de los interesados inscritos. La publicación de dicho listado incluirá el correspondiente enlace al formulario habilitado al efecto para la presentación de la documentación acreditativa del cumplimiento de los requisitos para obtener la condición de beneficiarios.
+Se añade por el art. 118.2 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+Se faculta al Consell para dictar las disposiciones necesarias para el desarrollo y ejecución de esta ley en un plazo máximo de dos años desde su entrada en vigor, sin perjuicio de los plazos establecidos en las disposiciones adicionales.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 6 de marzo de 2018.–El President de la Generalitat, Ximo Puig i Ferrer.
+
+## ANEXO
+
+Delimitación del ámbito de aplicación de la Ley de la Huerta de València
+Las disposiciones de esta ley se aplicarán a los suelos en situación básica rural del ámbito de la Huerta de València y de acuerdo con el artículo 21 del texto refundido de la Ley de suelo y rehabilitación urbana, que fue aprobado mediante el Real decreto ley de 30 de octubre de 2015. Este ámbito, que geográficamente corresponde con la línea occidental grafiada en el plano adjunto y la línea de costa del mar Mediterráneo, comprende, entre otros, al espacio dominio de los regadíos históricos de las acequias del Tribunal de las Aguas de la Vega de València; la Real Acequia de Moncada; el canal del Turia; Francos, Marjales y Extremales, y las huertas de elevado valor patrimonial de las poblaciones de Picanya, Paiporta, Torrent y Catarroja.

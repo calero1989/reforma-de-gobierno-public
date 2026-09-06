@@ -1,0 +1,169 @@
+# Ley 13/1996, de 29 de julio, del Registro y el Depósito de Fianzas de los Contratos de Alquiler de Fincas Urbanas y de Modificación de la Ley 24/1991 de la Vivienda.
+
+- Identificador BOE: `BOE-A-1996-19382`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-19382
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 13/1996, de 29 de julio, del Registro y el Depósito de Fianzas de los Contratos de Alquiler de Fincas Urbanas y de modificación de la Ley 24/1991 de la Vivienda.
+La Ley del Estado 29/1994, de 24 de noviembre, de arrendamientos urbanos, en la exposición de motivos, establece que tiene como finalidad última contribuir a potenciar el mercado de arrendamientos urbanos como pieza básica de una política de vivienda orientada a la consecución del mandato constitucional contenido en el artículo 47, de reconocimiento del derecho de todos los ciudadanos a disfrutar de una vivienda digna y adecuada.
+En el marco de esta política, la creación de un Registro de Fianzas de los Contratos de Alquiler ha de permitir disponer de una adecuada información sobre la situación del parque de viviendas en alquiler.
+Asimismo, la Ley de Cataluña 24/1991, de 29 de noviembre, de la Vivienda, ya establecía en el artículo 24 la obligación de depositar la fianza que con carácter obligatorio debe constituirse en la formalización de los contratos de alquiler de viviendas. En cuanto a las compañías de servicios y suministros que exigen la constitución de fianzas a sus usuarios, se regula su depósito como garantía del usuario en el momento de la resolución del contrato.
+Dado que la Ley del Estado 29/1994 ha modificado el régimen de depósito de las fianzas, es necesario adecuar al nuevo régimen el citado precepto, y corresponde a la Comunidad Autónoma esta regulación de conformidad con lo establecido en la disposición adicional tercera de la misma Ley.
+Igualmente, en el marco de la política propia en materia de suelo y vivienda, se introduce un supuesto de concreción de la norma general aplicable a la modalidad de arrendamiento de fincas urbanas por temporada, modalidad generalizada en el territorio de Cataluña, especialmente en las zonas turísticas. Así, se establece el depósito de una fianza proporcional al plazo de duración del contrato.
+Es necesario destacar, finalmente, que en el marco de la política de vivienda de competencia exclusiva de la Generalidad los rendimientos generados por los depósitos quedan afectados a inversiones destinadas al fomento de la vivienda y a la mejora del entorno urbano.
+
+### Artículo 1
+
+Artículo 1. Registro de Fianzas de los Contratos de Alquiler de Fincas Urbanas.
+1. Se crea el Registro de Fianzas de los Contratos de Alquiler de Fincas Urbanas, con carácter administrativo, que depende del Instituto Catalán del Suelo, en el que deben ser objeto de inscripción los datos correspondientes a contratos suscritos entre arrendador y arrendatario referentes a inmuebles situados en Cataluña cuyas fianzas deben ser objeto de depósito preceptivo, según la presente Ley.
+2. En el Registro de Fianzas de los Contratos de Alquiler de Fincas Urbanas se tienen que hacer constar los datos relativos a:
+a) La situación de la finca arrendada, que tiene que incluir la dirección postal, la titularidad, la referencia catastral, el año de construcción, el año y el tipo de reforma, si procede, la superficie construida de uso privativo por usos, la cédula de habitabilidad y el certificado de eficiencia energética.
+b) La identificación de las partes contratantes, que tiene que incluir los domicilios respectivos a efectos de practicar las notificaciones.
+c) Las características del contrato, que tiene que incluir la fecha de formalización, la duración, la renta, el sistema de actualización de la renta, las garantías adicionales a la fianza, el pago de los suministros básicos y si la finca se alquila amueblada o no.
+d) El importe de la fianza y la fecha de depósito.
+e) Los otros datos que, para elaborar el Índice de referencia de precios de alquiler de viviendas, se determinen por orden del Consejero o consejera del Departamento competente en materia de vivienda.
+Se modifica el apartado 2 por el art. 9 del Decreto-ley 17/2019, de 23 de diciembre. Ref. BOE-A-2020-2509
+ Se deja sin efecto la modificación del apartado 2 por Acuerdo de 25 de abril de 2019. Ref. DOGC-f-2019-90471, por el que se deroga el Decreto-ley 5/2019, de 5 de marzo.
+ Se modifica el apartado 2 por el art. 4.5 del Decreto-ley 5/2019, de 5 de marzo. Ref. DOGC-f-2019-90350
+
+### Artículo 2
+
+Artículo 2. Inscripción.
+1. La inscripción de los contratos de alquiler en el Registro es obligatoria para el arrendador. El arrendatario puede solicitar la inscripción del contrato de alquiler. Dicha inscripción se produce de oficio por la Administración cuando se efectúa el depósito preceptivo de fianzas establecido en el artículo 3. Asimismo, cuando se extinga el contrato, debe solicitarse su cancelación en el Registro, que se produce de oficio en el momento de la devolución de la fianza. Los contratos de alquiler de viviendas de protección oficial, los cuales, de acuerdo con la propia legislación que los regula, deben ser visados por el Departamento de Política Territorial y Obras Públicas, pueden ser inscritos en el Registro y ser visados en un solo acto administrativo.
+2. La Administración debe garantizar la confidencialidad de los datos personales, así como el derecho al honor y a la intimidad personal y familiar de los inscritos en el Registro.
+3. El derecho de acceso al Registro queda sujeto a lo establecido en la normativa general aplicable y, en especial, a la Ley Orgánica 5/1992, de 29 de octubre, de regulación del tratamiento automatizado de los datos de carácter personal.
+4. Las administraciones locales pueden acceder a los datos referentes a los contratos que se suscriban relativos a fincas situadas en sus ámbitos territoriales, con las limitaciones establecidas en el apartado 3.
+5. Se regulará por reglamento el órgano responsable del Registro y las unidades ante las que pueden ejercerse los derechos de acceso, rectificación y cancelación.
+
+### Artículo 3
+
+Artículo 3. Depósito de fianzas de contratos de alquiler.
+1. Los arrendadores de fincas urbanas, tanto las destinadas a vivienda como las destinadas a otros usos, deben depositar en el Instituto Catalán del Suelo la fianza en metálico establecida en el artículo 36.1 de la Ley del Estado 29/1994, de 24 de noviembre, de arrendamientos urbanos, en el plazo de dos meses a contar desde la formalización del contrato.
+2. En los supuestos de arrendamiento de fincas urbanas por temporada, la cuantía de la fianza exigible, de acuerdo con el artículo 36.1 de la Ley del Estado 29/1994, debe ser proporcional al plazo de duración del contrato. En este caso debe tomarse como referencia que las dos mensualidades establecidas en el artículo 36.1 corresponden al contrato de un año de duración. En los contratos de duración igual o inferior a un mes, la fianza depositada queda automáticamente renovada por prórrogas sucesivas o nuevos contratos de la misma finca que se formalicen durante el período máximo que se determine por reglamento.
+3. La actualización y cancelación de las fianzas debe efectuarse de conformidad con lo establecido en el artículo 36 y la disposición adicional tercera de la Ley del Estado 29/1994 en el plazo de dos meses a contar desde el hecho que las origina.
+
+### Artículo 4
+
+Artículo 4. Depósito de fianzas de contratos de suministros y servicios.
+También son objeto de depósito sin interés las fianzas que las empresas de suministros y servicios exigen a los abonados para la formalización de contratos que afectan a fincas urbanas.
+
+### Artículo 5
+
+Artículo 5. Documentación acreditativa.
+El arrendador debe entregar al arrendatario una copia de la documentación justificativa del cumplimiento de la obligación de depositar la fianza o la actualización de la misma en el plazo de dos meses a contar desde el cumplimiento de dicha obligación.
+
+### Artículo 6
+
+Artículo 6. Ejecutividad.
+El Instituto Catalán del Suelo puede utilizar la vía ejecutiva para el ingreso de las fianzas no depositadas y de las sanciones que deriven de las mismas en caso de incumplimiento.
+
+### Artículo 7
+
+Artículo 7. Destino del importe de las fianzas.
+1. El Instituto Catalán del Suelo debe destinar el importe de las fianzas que tenga en depósito a inversiones para la construcción pública de viviendas, con especial atención a las promociones en régimen de alquiler y a actuaciones directas en núcleos antiguos o sujetos a un proceso de renovación urbana, así como a las finalidades que le son propias de acuerdo con su regulación. En estas actuaciones, la colaboración y la coordinación con los ayuntamientos afectados deben llevarse a cabo de acuerdo con lo establecido por el apartado 2. En todo caso, el Instituto Catalán del Suelo debe mantener disponibilidades por un importe no inferior al 5 % de estos recursos para garantizar la efectividad en el pago de las cancelaciones y las devoluciones consiguientes que se produzcan.
+2. En el seno del Consejo Asesor de la Vivienda se crea una comisión específica que tiene como cometido el seguimiento de las inversiones que se efectúen con los fondos provenientes de los depósitos de las fianzas.
+3. El Departamento de Política Territorial y Obras Públicas, anualmente, previa presentación del programa de vivienda pública a la Comisión de Programación de Vivienda, creada en el artículo 45 de la Ley 24/1991, de la Vivienda, ha de proceder a someterlo a informe de la Comisión a que se refiere el apartado 2. Igualmente, el Departamento de Política Territorial y Obras Públicas ha de dar cuenta del cumplimiento del programa al Consejo Asesor de la Vivienda, con expresa mención del destino de los fondos recaudados.
+4. La Comisión a que se refiere el apartado 2 debe estar integrada por representantes de la propia Generalidad, de las entidades representativas de las corporaciones locales de Cataluña y de las entidades relacionadas con la promoción y el uso de las viviendas.
+Se modifica el apartado 1 por el art. 2.1 de la Ley 11/2025, de 29 de diciembre. Ref. BOE-A-2026-5547
+ Se modifica el apartado 1 por el art. 2 del Decreto-ley 2/2025, de 25 de febrero. Ref. BOE-A-2025-8490
+ Se deja sin efecto la modificación del apartado 1, por Resolución de 23 de mayo de 2024, que publica el Acuerdo de la Diputación Permanente de derogación del Decreto-ley 6/2024, de 24 de abril. Ref. DOGC-f-2024-90105
+ Se modifica el apartado 1 por el art. 11 del Decreto-ley 6/2024, de 24 de abril. Ref. BOE-A-2024-12642
+ Se modifica el apartado 1 por el art. 62 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 8
+
+Artículo 8. Tipificación de las infracciones.
+1. Las infracciones se clasifican en graves y leves, en la forma que determina la presente Ley.
+2. Son infracciones graves la falta de depósito de la fianza o de las actualizaciones de la misma.
+3. Son infracciones leves: el incumplimiento de los requisitos formales que se fijen por reglamento, el incumplimiento de la obligación establecida por el artículo 5 y el depósito de las fianzas fuera del plazo establecido por el artículo 3.1, excepto que se regularice de acuerdo con el artículo 12 bis.
+Se modifica el apartado 3 por el art. 61.1 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+ Redactado el apartado 3 conforme a la corrección de errores publicada en DOGC núm. 3556, de 18 de enero de 2002. Ref. BOE-A-2002-3784.
+
+### Artículo 9
+
+Artículo 9. Graduación de las multas.
+1. La infracción de la obligación de depositar la fianza establecida en la presente Ley da lugar a la imposición de las siguientes multas:
+a) Por las infracciones graves, el importe de la sanción debe fijarse a partir del 35 por 100 hasta el 75 por 100 del importe de las fianzas o las actualizaciones no depositadas.
+b) Por infracciones leves, el importe de la sanción no puede superar el 35% del importe de la fianza o de sus actualizaciones que sean procedentes, con un máximo de 3.000 euros.
+2. Sin perjuicio de las sanciones que sean aplicables, los importes no depositados que hayan sido debidamente requeridos dan lugar al devengo de intereses al tipo oficial vigente por el tiempo en que se haya demorado el ingreso.
+3. (Suprimido)
+Se modifica el apartado 1.b) por el art. 42.1 de Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Se convierten a euros las cuantías contempladas en el apartado 1.b) por el anexo de la Resolución PTO/586/2002, de 8 de marzo (DOGC núm. 3602, de 25 de marzo de 2002)
+ Se suprime el apartado 3 por el art. 61.2 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 10
+
+Artículo 10. Órganos competentes.
+Los órganos competentes para imponer las sanciones son los siguientes:
+a) Hasta 150.000 euros, el director o directora del Instituto Catalán del Suelo.
+b) De 150.000 euros hasta 300.000 euros, el consejero o consejera competente en materia de territorio y sostenibilidad.
+c) Para las sanciones superiores a 300.000 euros, el Gobierno de la Generalidad.
+Se modifica por el art. 60.1 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+ Se convierten a euros las cuantías contempladas en las letras a), b) y c) por el anexo de la Resolución PTO/586/2002, de 8 de marzo (DOGC núm. 3602, de 25 de marzo de 2002)
+
+### Artículo 11
+
+Artículo 11. Régimen de control y sancionador.
+1. Las administraciones públicas y las entidades de derecho público que, por las funciones que tienen atribuidas, disponen de información relativa a arrendamientos de fincas urbanas o a subvenciones y ayudas públicas al alquiler, tienen la obligación de comunicarla a la Administración competente en materia de registro y el depósito de fianzas de los contratos de alquiler de fincas urbanas.
+2. En todo lo que no regula esta Ley, es aplicable el régimen sancionador establecido por la Ley 18/2007, de 28 de diciembre, del derecho a la vivienda, cuya aplicación se hace extensiva a los contratos de alquiler de fincas urbanas para usos otros que los de vivienda y de servicio y suministro.
+Se modifica por el art. 9 del Decreto-ley 3/2026, de 24 de marzo. Ref. BOE-A-2026-10430
+ Se añade el apartado 2 por el art. 2.2 de la Ley 11/2025, de 29 de diciembre. Ref. BOE-A-2026-5547
+
+### Artículo 12
+
+Artículo 12. Prescripción.
+La obligación del depósito de la fianza es exigible mientras sea vigente el contrato. El plazo de prescripción de la infracción a que dé lugar el incumplimiento de dicha obligación se establece conforme a lo que señala la legislación vigente de procedimiento administrativo y empieza a contar desde la fecha de la extinción del contrato.
+
+### Artículo 12 bis
+
+Artículo 12 bis. Recargos por depósitos de fianzas fuera de plazo.
+1. En caso de que las fianzas se depositen fuera del plazo establecido sin previo requerimiento de la inspección, se aplica un recargo del 5%, del 10% o del 15% sobre el importe de la fianza, si el plazo no supera, respectivamente, los tres, los seis o los doce meses, con exclusión de las sanciones que puedan exigirse y de los intereses de demora.
+2. En caso de que las fianzas se depositen fuera del plazo establecido, sin previo requerimiento de la inspección, una vez transcurridos doce meses, se aplica un recargo del 20% y los intereses de demora que se hayan devengado a contar desde el plazo establecido para depositar la fianza, con exclusión de las sanciones que puedan exigirse.
+3. En caso de que las fianzas se depositen fuera del plazo establecido, con el requerimiento previo de la Inspección, debe aplicarse un recargo del 25% del importe de la fianza. Si el retraso en el depósito de las fianzas supera los doce meses, también con el requerimiento previo de la Inspección, el recargo es el 25% del importe de la fianza, y deben añadirse a la cantidad resultante los intereses de demora devengados desde el final del plazo establecido para depositarla. En ningún caso se incluyen en el cálculo del recargo los importes de otras sanciones que puedan exigirse.
+4. El importe máximo de los recargos no puede superar los mil quinientos euros en ninguno de los casos previstos.
+Se modifica el apartado 3 por el art. 60.2 de la Ley 7/2011, de 27 de julio. Ref. BOE-A-2011-13896.
+ Se modifica por el art. 42.2 de Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Se añade por el art. 61.3 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 13
+
+Artículo 13. Garantías adicionales.
+Sin perjuicio de la obligación del depósito de la fianza regulado en la presente Ley y en la legislación de arrendamientos urbanos, el arrendatario y el arrendador pueden establecer otras garantías adicionales, incluida la suscripción de una póliza de seguro, para garantizar que la vivienda arrendada sea devuelta en su estado original.
+
+### Disposición adicional única
+
+Disposición adicional única.
+(Derogada).
+Se deroga por la disposición derogatoria 2 y el Anexo B.3 de la por Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#dd-2
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Mientras no se dicten las disposiciones reglamentarias de desarrollo de la presente Ley, el depósito de las fianzas debe efectuarse por los procedimientos actualmente vigentes.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entra en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña».
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Gobierno de la Generalidad ha de elaborar, en el plazo de tres meses desde la entrada en vigor de la presente Ley, las disposiciones reglamentarias para su desarrollo.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 29 de julio de 1996.
+ARTUR MAS Y GAVARRÓ,
+ JORDI PUJOL,
+ Consejero de Política Territorial y Obras Públicas
+ Presidente

@@ -1,0 +1,291 @@
+# Ley 10/1994, de 19 de diciembre, de creación del Consejo Jurídico Consultivo de la Comunidad Valenciana.
+
+- Identificador BOE: `BOE-A-1995-1949`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-1949
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 10/1994, de 19 de diciembre, de creación del Consell Jurídic Consultiu de la Comunitat Valenciana", según establece el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos, que Les Corts han aprobado, y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+El Consell viene obligado, por diferentes preceptos normativos, a someter su actuación al dictamen de un órgano independiente y objetivo que vele por el cumplimiento de la Constitución, del Estatuto de Autonomía de la Comunitat Valenciana y del resto del ordenamiento jurídico, como garantía para la propia Administración y para la ciudadanía.
+Para el ejercicio de esa función consultiva, que se extiende no sólo al ejercicio de la potestad reglamentaria del Consell, sino también a determinados actos de la actuación administrativa cotidiana, se crea el Consell Jurídic Consultiu de la Comunitat Valenciana, dotado de autonomía orgánica y funcional a fin de garantizar su objetividad e independencia.
+La composición del Consejo se configura con un número de miembros suficiente para el cumplimiento de los fines que se le encomiendan, no siendo excesivo, lo que facilita la intercomunicación entre ellos y asegura la unidad de criterios, al tiempo que supone una racionalización del gasto público al no gravar excesivamente su presupuesto.
+En cuanto a la figura del Consejero/a se le somete a un régimen de incompatibilidades que asegure su objetividad ante los asuntos sobre los que debe dictaminar, así como su plena dedicación a la función que se le encomienda.
+En relación con los asuntos sobre los que preceptivamente debe dictaminar el Consejo, se han limitado a aquellos en los que la ciudadanía más directamente se ve afectada por la actuación administrativa, dotándole de una garantía procedimental, sin que ello menoscabe la necesaria agilidad administrativa. Para conjugar esta agilidad administrativa con el estudio profundo de los asuntos sometidos a consulta, se fijan unos plazos razonables para la emisión de los dictámenes, los cuales, en coherencia con la objetividad e independencia de que está dotado el Consejo deben ser eminentemente técnicos, conteniendo, sólo en algunos supuestos, valoraciones de oportunidad o conveniencia.
+Pero la intervención del Consejo no se limita a aquellos asuntos en que la norma preceptivamente lo exija, ya que, precisamente por su alta cualificación técnica, puede ser consultado en cualesquiera asuntos que el Consell o sus miembros estimen conveniente.
+Por último, hay que señalar que la competencia del Consejo se extiende a la administración local, que debe consultar al Consejo cuando una Ley imponga su obligatoriedad.
+II
+Después de diez años de vigencia de la Ley de Creación del Consell Jurídic Consultiu de la Comunitat Valenciana, y después de cuatro reformas de la misma, operadas por Ley 14/1997, de 26 de diciembre, que modificó los artículos 10, 17 y 18, por la Ley 6/2002, de 2 de agosto, del Estatuto de los Expresidentes de la Generalitat Valenciana, por Ley 11/2002, de 23 de diciembre que modificó el artículo 3 y por Ley 16/2003, de 17 de diciembre que modificó el artículo 3, resultaba necesaria una nueva reforma de la misma, fruto del consenso de los grandes partidos políticos, a fin a conseguir una mayor estabilidad institucional, propiciada por la participación de Les Corts en la elección de tres de sus miembros, siendo los tres restantes designados por Decreto del Consell. De esta manera se opta por un sistema mixto, que se estima más conveniente y equilibrado.
+Esta estabilidad resulta especialmente aconsejable y oportuna por tratarse precisamente del máximo órgano consultivo en materia de asesoramiento jurídico, en el ámbito de la Comunitat Valenciana, y queda reforzada por el establecimiento de una mayoría cualificada de tres quintos para la elección por Les Corts de los referidos tres miembros electivos del Consell Jurídic Consultiu.
+Se modifica igualmente, por medio de esta Ley, el sistema de designación del Presidente del Consell Jurídic Consultiu, exigiendo que el mismo sea designado de entre los propios miembros electivos del Consell Jurídic Consultiu, por el President de La Generalitat.
+Por otra parte, se regulan los requisitos de acceso a la condición de miembro electivo o Presidente del Consell Jurídic Consultiu, exigiendo en todo caso que las personas de reconocido prestigio a que se referían los artículos 4 y 6 de la Ley que se reforma, tengan la condición de juristas. Así mismo se especifican las causas de cese del mandato de los Consejeros natos del Consell Jurídic Consultiu.
+Se prevé que los entes locales, las Universidades y el resto de Corporaciones de Derecho Público, en el ámbito de la Comunitat Valenciana, puedan solicitar directamente del Consell Jurídic Consultiu los dictámenes, siempre que los mismos fueran preceptivos conforme a Ley, exigiendo en el resto de los casos que la petición se curse a través de la Conselleria competente.
+Por lo que se refiere a los Letrados del Consell Jurídic Consultiu, se establece que el sistema de acceso a este cuerpo sea por medio de oposición. En cuanto al resto del personal adscrito a esta Institución, se remite la Ley a lo que dispone la Ley de la Función Pública Valenciana. No obstante, se especifica que la selección se realizará en la forma prevista por la misma.
+Finalmente, se aprovecha esta reforma para valencianizar el nombre de las Instituciones de La Generalitat que aparecen reflejadas en el texto, entre las que se encuentra el propio Consell Jurídic Consultiu.
+Se modifica por los arts. 1, 2, 6, 7 y la disposición adicional de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Carácter y rendición de cuentas.
+1. El Consell Jurídic Consultiu es el supremo órgano consultivo del Consell de La Generalitat y de su Administración, y, si procede, de las administraciones locales radicadas en la Comunitat Valenciana.
+También lo es de las Universidades públicas de la Comunitat Valenciana, y de las otras Entidades y Corporaciones de Derecho Público de la Comunitat Valenciana no integradas en la Administración autonómica.
+El Consell Jurídic Consultiu tiene su sede en la ciudad de Valencia.
+2. El Consell Jurídic Consultiu ejerce sus funciones con autonomía orgánica y funcional, con el fin de garantizar la objetividad e independencia de las mismas.
+3. Anualmente, el Consell Jurídic Consultiu elevará al Consell y a las Corts Valencianes una memoria donde se detalle la actividad del Consell en cada ejercicio y que podrá recoger las observaciones sobre el funcionamiento de los servicios públicos que resulten de los asuntos consultados y las sugerencias de las disposiciones generales y medidas a adoptar para el mejor funcionamiento de la administración.
+Se modifica el título y se añade el apartado 3 por el art. único.1 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se modifica el título, el apartado 1 y la denominación de la institución del apartado 2 por los arts. 1 y 8 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 2
+
+Artículo 2. Función, consulta y carácter del dictamen.
+1. En el ejercicio de la función consultiva, el Consell Jurídic Consultiu velará por la observancia de la Constitución, el Estatuto de Autonomía de la Comunitat Valenciana y el resto del ordenamiento jurídico, en cuyo conjunto normativo fundamentará el Consejo su dictamen.
+Excepcionalmente se valorarán aspectos de oportunidad y conveniencia, si así lo solicita expresamente la autoridad consultante.
+2. La consulta al Consell Jurídic Consultiu será preceptiva cuando en ésta o en otras leyes así se establezca, y facultativa, en los demás casos.
+3. Los dictámenes del Consejo no serán vinculantes, salvo que las leyes dispongan lo contrario.
+4. Los asuntos sobre los que haya dictado el Consell Jurídic Consultiu no podrán remitirse a informe de ningún otro órgano de la administración de La Generalitat.
+5. Las disposiciones y resoluciones de la administración sobre asuntos dictaminados por el Consell Jurídic Consultiu, expresarán si se adoptan conforme con su dictamen, o se apartan de él. En el primer caso, se usará la fórmula «Conforme con el Consell Jurídic Consultiu», en el segundo, la de «oído el Consell Jurídic Consultiu».
+Se modifica la denominación de las instituciones por los arts. 1, 2 y 3 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## TÍTULO II
+
+Composición
+
+### Artículo 3
+
+Artículo 3. Composición del Consell Jurídic Consultiu.
+1. El Consell Jurídic Consultiu está constituido por las consejeras y consejeros natos y un número de seis consejeros o consejeras por elección, entre los cuales será elegida la presidencia en la forma que se determina en el artículo siguiente. El Consell Jurídic Consultiu estará asistido por la secretaría general, que actuará con voz pero sin voto.
+2. La presidencia, las consejeras y los consejeros por elección se nombrarán por un período de cuatro años, reelegibles por un único mandato de otros cuatro años. El período se computará desde el día de la toma de posesión.
+Las consejeras y consejeros natos ejercerán sus funciones con los límites temporales establecidos en el artículo 4 de la Ley reguladora del estatuto de los expresidentes. Actuarán con voz pero sin voto, y no se computará, en consecuencia, su asistencia a efectos del quórum de constitución previsto en el artículo 13 de la presente ley. En lo restante, les será aplicable lo previsto en la citada Ley 10/1994, de creación del Consell Jurídic Consultiu de la Comunitat Valenciana, salvo lo dispuesto en el artículo 4.3 párrafo segundo y el artículo 6.4.
+Se modifica por el art. único.2 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Véase la disposición transitoria única de la citada ley.
+ Se modifican los apartados 1 y 3 y la denominación de las instituciones por los arts. 1 y 9 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Se modifican los apartados 1 y 2 por el art. 81 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
+ Se modifica por la disposición final 1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213
+ Se modifica por la disposición final 1 de la Ley 6/2002, de 2 de agosto. Ref. BOE-A-2002-18534
+ Véase el inciso final de la citada disposición final 1.
+
+### Artículo 4
+
+Artículo 4. Nombramiento de las miembros y los miembros por elección del Consell Jurídic Consultiu y de la presidencia.
+1. Los seis miembros que componen el Consell Jurídic Consultiu serán designados: dos por el Consell y cuatro por Les Corts. Los miembros elegidos por Les Corts lo serán mediante un acuerdo adoptado por mayoría de tres quintas partes de los diputados y diputadas, de conformidad con el procedimiento establecido en el artículo 6.
+2. En cada renovación de las miembros y los miembros por elección, su composición deberá responder a la paridad de género con tres mujeres y tres hombres.
+3. La presidencia del Consell Jurídic Consultiu será elegida entre los miembros no natos del Consell que se propongan por votación secreta. En caso de que ninguna de las personas propuestas consiguiera mayoría absoluta, se realizará una segunda votación entre las personas más votadas, donde saldrá elegida la persona que haya conseguido más votos. Si se diera un empate, la presidencia será elegida mediante un sorteo entre las personas que hayan obtenido más apoyos en la primera votación. Después de esta elección, se procederá a su nombramiento a cargo del presidente o presidenta de la Generalitat.
+En caso de ausencia, enfermedad o si no se produce por cualquier causa la elección y durante el tiempo en el que se mantenga esta situación transitoria, la presidencia será sustituida por el miembro del Consell Jurídic Consultiu más antiguo, entre las personas electas, y, en caso de concurrir diversas en esta condición, por la persona de más edad de ellas.
+4. Las vacantes que se produzcan en el Consell Jurídic Consultiu por causas distintas a la extinción del mandato deben ser cubiertas por el sistema establecido en el artículo 3 para el resto del mandato.
+El nuevo miembro del Consell Jurídic Consultiu puede ser designado nuevamente al finalizar el mandato si ha sido de duración inferior a cuatro años.
+Se modifica por el art. único.3 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se añade el apartado 3 por el art. 6 de la Ley 12/2017, de 2 de noviembre. Ref. BOE-A-2017-15369
+ Se modifica por el art. 10 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Véase la disposición transitoria 1 para su aplicación.
+
+### Artículo 5
+
+Artículo 5. Tratamiento y funciones del Presidente/a.
+El Presidente/a del Consell Jurídic Consultiu tendrá el tratamiento de honorable y le corresponderán las siguientes funciones:
+Ostentar la representación del Consejo.
+Autorizar con su firma los dictámenes emitidos por el Consejo así como aquellos escritos dirigidos al President/a de La Generalitat y a los Consellers.
+Presidir, convocar y fijar el orden del día de las sesiones del Consejo.
+Elevar anualmente al Consell una memoria de las actividades del Consejo.
+Adoptar las medidas necesarias para al funcionamiento del Consejo.
+Formular motivadamente los anteproyectos de presupuesto del Consejo.
+Autorizar el gasto y proponer los pagos como consecuencia de la ejecución del presupuesto del Consejo.
+Cualquier otra que pueda ser contemplada en el Reglamento de ejecución y desarrollo de la presente Ley.
+Se modifica la denominación de las instituciones por los arts. 1, 5 y 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 6
+
+Artículo 6. Nombramiento, toma de posesión e incompatibilidades de las miembros y los miembros del Consell Jurídic Consultiu.
+1. La elección de personas miembros electivas del Consell Jurídic Consultiu de la Comunitat Valenciana se realizará entre profesionales y científicos que se hayan distinguido en el campo del derecho con más de quince años de ejercicio profesional efectivo o que sean juristas de reconocido prestigio y con experiencia en asuntos de estado o autonómicos. Todos ellos deberán gozar de la condición política de valenciano.
+Las personas candidatas tendrán que comparecer ante la comisión parlamentaria pertinente para acreditar su idoneidad. La comisión elevará al Pleno de Les Corts una propuesta de candidatos y candidatas, garantizando la paridad, para su votación.
+2. El presidente o presidenta y los miembros del Consell Jurídic Consultiu, antes de tomar posesión del cargo, deberán jurar o prometer ante el presidente o presidenta de la Generalitat fidelidad a la Constitución, al Estatuto de autonomía de la Comunitat Valenciana y a las instituciones de gobierno valencianas, y deberán guardar secreto de las deliberaciones del Consell Jurídic Consultiu.
+3. El presidente o presidenta del Consell Jurídic Consultiu y sus miembros estarán sometidos al régimen de incompatibilidades establecido con carácter general para los altos cargos de la administración, excepto las actividades docentes o investigadoras.
+Los miembros del Consell Jurídic Consultiu no participarán en las deliberaciones de aquellos temas sobre los que haya que emitir información en los casos en que afecten directamente a su actividad e intereses.
+La presidencia del Consell Jurídic Consultiu y los miembros electivos serán incompatibles con cualquier mandato representativo, cargo político o administrativo y con el ejercicio de funciones directivas de un partido político, sindicato o asociación patronal.
+4. En caso de producirse vacante durante la duración del mandato, el consejero designado lo será por el tiempo que quede del mandato.
+Se modifica por el art. único.4 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se modifica el título y el apartado 1, así como la denominación de las instituciones por los arts. 1, 2, 5 y 11 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Se modifica el apartado 3 por la disposición final 2 de la Ley 6/2002, de 2 de agosto. Ref. BOE-A-2002-18534#dfsegunda
+
+### Artículo 7
+
+Artículo 7. Inamovilidad y cese.
+1. El Presidente y los miembros electivos del Consell Jurídic Consultiu, durante el período de su mandato son inamovibles y solo podrán cesar en su condición:
+1) Por defunción.
+2) Por renuncia.
+3) Por extinción del mandato.
+4) Por incapacidad o inhabilitación declaradas por resolución judicial firme.
+5) Por pérdida de la condición política de valenciano.
+6) Por incompatibilidad e incumplimiento de su función.
+El cese se comunicará al Consell de La Generalitat o a Les Corts, según los casos, para que procedan a un nuevo nombramiento.
+El supuesto previsto en el número 6 será valorado por el Pleno del Consell Jurídic Consultiu que, con audiencia previa al interesado, adoptará acuerdo por mayoría absoluta y se comunicará, si procede, al Consell de La Generalitat o a Les Corts para que procedan como en los otros supuestos.
+2. Los Consejeros natos solo cesarán en su condición por las razones siguientes:
+1) Por defunción.
+2) Por extinción del mandato.
+3) Por incapacidad o inhabilitación declaradas por resolución judicial firme.
+4) Por renuncia.
+Se modifica por el art. 12 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 8
+
+Artículo 8. Secretaría General.
+El titular será nombrado por el Consell, a propuesta del Presidente/a del Consell Jurídic Consultiu.
+Ejercerá las funciones que le atribuya el Reglamento Orgánico.
+Se modifica la denominación de las insitituciones por el art. 1 y 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## TÍTULO III
+
+Competencias
+
+### Artículo 9
+
+Artículo 9. Petición de dictamen.
+El Consell Jurídic Consultiu emitirá dictamen en todos los asuntos que sometan a su consulta el presidente o la presidenta de la Generalitat Valenciana, el gobierno valenciano o el conseller o consellera competente.
+Las corporaciones locales, las universidades y las otras entidades y corporaciones de derecho público de la Comunitat Valenciana solicitarán directamente el dictamen del Consell Jurídic Consultiu, en los casos en que este fuera preceptivo conforme a ley. Las consultas facultativas deberán interesarlas mediante el conseller competente.
+Les Corts solicitarán dictamen facultativo al Consell Jurídic Consultiu en los términos previstos en el artículo 11 de esta ley.
+Se modifica por el art. único.5 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se modifica la denominación de las insitituciones por el art. 1, 5 y 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 10
+
+Artículo 10. Dictamen preceptivo.
+El Consell Jurídic Consultiu deberá ser consultado preceptivamente en los siguientes casos:
+1. Anteproyecto de reforma del Estatuto de Autonomía.
+2. Anteproyectos de leyes, excepto el anteproyecto de Ley de Presupuestos de la Generalidad Valenciana.
+3. Proyectos de decretos legislativos.
+4. Proyectos de reglamentos o disposiciones de carácter general que se dicten en ejecución de leyes y sus modificaciones.
+5. Recursos de inconstitucionalidad y conflictos de competencia ante el Tribunal Constitucional.
+6. Convenios o acuerdos de cooperación con otras comunidades autónomas.
+7. Los conflictos de atribuciones entre los distintos departamentos del Consell.
+8. Los expedientes que versen sobre las siguientes materias:
+a) Reclamaciones de cuantía superior a 30.000 euros que, en concepto de indemnización por daños y perjuicios, se formulen a la Generalitat, a las corporaciones locales, a las universidades públicas y a las otras entidades de derecho público.
+Téngase en cuenta que la cuantía referida en el apartado 8.a) podrá ser modificada por Decreto publicado únicamente en el "Diario Oficial de la Comunitat Valenciana", según se establece en la disposición adicional 3 de la presente ley.
+b) Revisión de oficio de los actos administrativos.
+c) Nulidad, interpretación y resolución de los contratos administrativos cuando se formule oposición por parte del contratista y, en todo caso, en los supuestos previstos en la legislación de contratos del Estado.
+d) Interpretación, resolución y nulidad de concesiones administrativas cuando se formule oposición por parte del concesionario y, en todo caso, en los supuestos en que así lo dispongan las normas aplicables.
+e) Modificación de los planes de urbanismo, las normas complementarias y subsidiarias y los programas de actuación que tengan por objeto una diferente zonificación o uso urbanístico de las zonas verdes o de los espacios libres previstos.
+f) Régimen local, cuando la consulta sea preceptiva según la ley, salvo en el supuesto previsto en el artículo 13.1 de la Ley de Bases de Régimen Local, cuyo dictamen podrá ser emitido por el Consejo de Estado cuando así lo acuerde el órgano competente.
+g) Recursos extraordinarios de revisión.
+9. Los asuntos relativos a la organización, competencia y funcionamiento del Consell Jurídic Consultiu.
+10. Cualquier otra materia, competencia de La Generalitat o de las administraciones locales radicadas en la Comunitat Valenciana, respecto a la que las leyes establecen la obligación de pedir el dictamen.
+Se modifica el apartado 8.a) por el art. único.5 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se modifica el apartado 8, inciso inicial y la letra a) por los arts. 23 y 24 de la Ley 10/2006, de 26 de diciembre. Ref. BOE-A-2007-1348
+ Se modifica la denominación de las insitituciones por el art. 1, 2, 3 y 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Se modifica el apartado 2 y se añade la letra g) al apartado 8 por el art. 3.1 y 2 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Artículo 11
+
+Artículo 11. Consultas facultativas a propuesta de Les Corts.
+El Consell Jurídic Consultiu de la Comunitat Valenciana emitirá un dictamen con carácter facultativo en todos aquellos asuntos que le sean sometidos a consulta por el presidente o presidenta de la Generalitat, por el Consell o conseller o consellera competentes, por las Corts Valencianes y por las entidades locales, en los términos establecidos en esta ley y, en su caso, las normas que la desarrollen.
+En caso de que la iniciativa sea efectuada por las Corts Valencianes, lo será a propuesta de dos o más grupos parlamentarios que representen la mitad o más de grupos de la cámara o la mayoría de diputados o diputadas, siendo uno de los firmantes el autor o uno de los autores de la iniciativa en caso de que fuera conjunta, y versará sobre las proposiciones legislativas registradas por los diferentes grupos parlamentarios, una vez hayan sido admitidas a trámite en la toma en consideración y con carácter previo al trámite de registro de enmiendas a las citadas proposiciones. Este dictamen se solicitará con carácter de urgencia y se limitará a aspectos de técnica jurídica y/o a la posible colisión de los textos legislativos con otras normas de ámbito autonómico, estatal o europeo.
+Admitida a trámite una iniciativa legislativa popular, la Mesa de Les Corts la someterá al dictamen del Consell Jurídic Consultiu, de conformidad con el procedimiento establecido en el apartado anterior. El dictamen incidirá en aspectos de técnica normativa y en la adecuación del texto de la proposición legislativa a las normas internas de superior jerarquía, las normas europeas y la legislación básica aplicable a la materia objeto de regulación. La solicitud del dictamen suspenderá la tramitación de la iniciativa legislativa popular en los términos previstos en el artículo 22.1.d de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+Se modifica por el art. único.5 de la Ley 11/2018, de 21 de mayo. Ref. BOE-A-2018-8946
+ Se modifica por el art. 13 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 12
+
+Artículo 12. Presupuesto.
+El Consell Jurídic Consultiu elaborará su presupuesto que figurará como una sección dentro de los presupuestos de La Generalitat.
+Se modifica la denominación de las instituciones por los arts. 1 y 3 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## TÍTULO IV
+
+Funcionamiento
+
+### Artículo 13
+
+Artículo 13. Deliberaciones, acuerdos y voto particular.
+1. Las deliberaciones y acuerdos del Consell Jurídic Consultiu requieren la presencia del Presidente/a o de quien le sustituya, de al menos la mitad de los Consejeros/as que lo forman y del titular de la Secretaría General.
+2. Los acuerdos se adoptaran por mayoría de votos de los asistentes. En caso de empate decidirá el voto de calidad del Presidente/a.
+3. Los miembros que discrepen del dictamen o del acuerdo mayoritario, podrán formular el voto particular por escrito, dentro del plazo que reglamentariamente se determine. Los votos particulares se acompañarán al dictamen.
+Se modifica la denominación de la institución por el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 14
+
+Artículo 14. Plazo para la emisión del dictamen.
+1. Los dictámenes del Consell Jurídic Consultiu han de ser emitidos en un plazo máximo de un mes a contar desde la recepción del expediente.
+2. Cuando en el escrito de remisión de los expedientes se haga constar la urgencia del dictamen, el plazo máximo para su emisión será de diez días.
+Se modifica la denominación de la institución por el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 15
+
+Artículo 15. Documentación e informes.
+1. El Consell Jurídic Consultiu, a través de su Presidente/a, puede solicitar del órgano consultante que se complete el expediente con cuantos antecedentes e informes estime necesarios. En estos supuestos, el plazo para emitir el dictamen quedará en suspenso hasta la recepción de los documentos solicitados.
+2. El Consejo puede invitar a informar ante él, por escrito u oralmente, a los organismos o personas que tengan competencia técnica notoria en las cuestiones relacionadas con los asuntos sometidos a consulta.
+Se modifica la denominación de la institución por el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+## TÍTULO V
+
+Personal
+
+### Artículo 16
+
+Artículo 16. Personal del Consejo.
+El Consell Jurídic Consultiu contará con los Letrados y el personal administrativo que se determine en la relación de puestos de trabajo, así como con aquellos medios materiales que se le asignen y los recursos que figuren en su presupuesto.
+Se modifica la denominación de la institución por el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Artículo 17
+
+Artículo 17. Clasificación y provisión de puestos.
+Los puestos de trabajo se clasificarán y proveerán de acuerdo con las normas de la Ley de Función Pública Valenciana. La selección se realizará en la forma prevista por la misma.
+Se modifica por el art. 14 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Se modifica por el art. 3.3 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Artículo 18
+
+Artículo 18.Del Cuerpo de Letrados del Consell Jurídic Consultiu.
+1. Se crea el Cuerpo de Letrados del Consell Jurídic Consultiu, correspondiente al grupo A de titulación, para ingresar en el cual es imprescindible la posesión del título de Licenciado en Derecho y la superación de la correspondiente oposición. Su nombramiento se llevará a efecto por el Presidente del Consell Jurídic Consultiu.
+2. Son funciones del Cuerpo de Letrados del Consell Jurídic Consultiu las de estudio, preparación y redacción fundamentada de los proyectos de dictámenes e informes sometidos a consulta del Consejo, así como aquellas otras que se determinen reglamentariamente.
+Se modifica el título y el apartado 1, así como la denominación de la institución por el art. 1 y 15 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+ Se modifica por el art. 3.4 de la Ley 14/1997, de 26 de diciembre. Ref. BOE-A-1998-8203
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Cuando un funcionario/a sea nombrado miembro del Consell Jurídic Consultiu, se le declarará en situación de servicios especiales.
+Se modifica la denominación de la institución por el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Excepcionalmente y para el caso de que Les Corts debatan la posibilidad de formular recurso de inconstitucionalidad en conflictos competenciales, podrán aquéllas recabar del Consell Jurídic Consultiu un dictamen urgente y previo.
+Se modifica la denominación de las instituciones por el art. 1 y 6 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La cuantía establecida en el artículo 10.8.a) de esta ley podrá ser modificada mediante Decreto del Consell de la Generalitat, a propuesta del Consell Jurídic Consultiu de la Comunitat Valenciana.
+Se añade por el art. 25 de la Ley 10/2006, de 26 de diciembre. Ref. BOE-A-2007-1348
+
+### Disposición final primera
+
+Disposición final primera.
+El Consell, a propuesta del Consell Jurídic Consultiu, aprobará el Reglamento de ejecución y desarrollo de la presente Ley.
+Se modifica la denominación de las instituciones por los arts. 1 y 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consell a realizar cuantas actuaciones sean necesarias para dar efectividad a lo dispuesto en la presente Ley
+Se modifica la denominación de la institución por el art. 7 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de la Generalidad Valenciana».
+
+### [firma]
+
+Por tanto ordeno a todos los ciudadanos, Tribunales, autoridades y poderes públicos a los que corresponda, que observen y hagan cumplir esta Ley.
+Valencia, 19 de diciembre de 1994.
+JUAN LERMA I BLASCO,
+Presidente

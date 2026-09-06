@@ -1,0 +1,651 @@
+# Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro.
+
+- Identificador BOE: `BOE-A-1999-2521`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-2521
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de erratas publicadas en DOGC núm. 2810 y 2892 de 21 de enero y 19 de mayo de 1999. Ref. DOGC-f-1999-90256 y Ref. DOGC-f-1999-90257
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 25/1998, de 31 de diciembre, de Medidas Administrativas, Fiscales y de Adaptación al Euro.
+PREÁMBULO
+La doctrina constitucional establece que las leyes de presupuestos deben tener un contenido mínimo indispensable, relativo a las previsiones de ingresos y a la aprobación de los gastos, pero también pueden tener un contenido posible, donde pueden incluirse materias distintas de las indispensables, siempre que tengan una relación directa con los gastos e ingresos o con los criterios de política económica general. No obstante, existen otras disposiciones que, sin tener una relación directa con los gastos e ingresos o con los criterios de política económica general, mantienen una cierta relación de complementariedad con las disposiciones presupuestarias, en la medida en que facilitan en ocasiones, incluso, con la modificación sustancial de leyes anteriores el cumplimiento de aquellas que, por su propia naturaleza, tienen carácter y vigencia temporales.
+Por tal motivo, y por segundo año consecutivo, se adopta la presente Ley de medidas, este año de medidas administrativas, fiscales y de adaptación al euro, que consta de un total de cincuenta y cuatro artículos, estructurados en tres títulos, referidos, respectivamente, a medidas administrativas, medidas fiscales y medidas de adaptación al euro, de acuerdo con el propio enunciado de la Ley, y de once disposiciones adicionales, cinco disposiciones transitorias, una disposición derogatoria y cuatro disposiciones finales.
+En primer lugar, cabe destacar, desde el punto de vista de los contenidos de la Ley, que se incluyen determinadas normas que, con una clara vocación de permanencia, se venían reiterando en el articulado de la Ley de presupuestos y que deben hallar un encuadre más adecuado en la presente Ley de medidas administrativas, fiscales y de adaptación al euro, en la medida en que permiten su encaje estable dentro del conjunto del ordenamiento jurídico catalán, sin necesidad de tener que reiterarlas cada año. En concreto, y dentro de este paquete de medidas que han sido trasladadas de la Ley de presupuestos anual a la comúnmente denominada Ley de acompañamiento, destacan las relativas a los contratos administrativos o al régimen de concesión, seguimiento y control de las subvenciones y, muy particularmente, las normas sobre los impuestos, que constituyen la expresión del ejercicio de la capacidad normativa en los tributos cedidos.
+Con respecto a las medidas administrativas, se incluyen disposiciones en materia de personal, disposiciones sobre la organización y el sector público, dentro de las cuales destaca la creación de la Agencia Catalana del Agua, que se configura como una entidad de derecho público sometida a derecho privado, que goza de personalidad jurídica propia y tiene capacidad para el cumplimiento de sus fines, así como disposiciones en relación a las finanzas de la Generalidad.
+Dentro del título II, de medidas fiscales, en el marco de las competencias normativas asumidas por la Generalidad en materia de tributos cedidos a raíz de la modificación de la Ley orgánica de financiación de las comunidades autónomas y en virtud de la Ley del Estado 14/1996, de 30 de diciembre, de cesión de tributos del Estado a las comunidades autónomas y de medidas fiscales complementarias, y la Ley del Estado 31/1997, de 4 de agosto, de modificación del régimen de cesión de tributos del Estado a la Generalidad de Cataluña y fijación del alcance y condiciones de dicha cesión, la presente Ley contiene determinadas disposiciones tributarias en ejercicio de la capacidad normativa en los tributos cedidos, entre las cuales es necesario destacar el mantenimiento de la deducción por nacimiento de un segundo o ulterior hijo en el impuesto sobre la renta de las personas físicas, el incremento de determinadas reducciones de la base imponible, así como el cumplimiento del mandato del Parlamento expresado en la disposición final primera de la Ley 10/1998, de 15 de julio, de uniones estables de pareja, en el impuesto sobre sucesiones y donaciones y, en relación al impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, la fijación de un tipo reducido por las transmisiones patrimoniales onerosas de fincas afectadas por los incendios forestales producidos en Cataluña en el mes de julio de 1998, aplicable para los ejercicios 1999 y 2000, y para las escrituras públicas que documenten operaciones relacionadas con las mismas.
+En materia de imposición sobre el juego, se determinan los tipos tributarios y las cuotas fijas y se establecen las normas de devengo y pago de la tasa fiscal sobre los juegos de suerte, envite o azar. Con esta nueva regulación, y de acuerdo con lo establecido en la Ley de cesión de tributos, se produce la refundición de la tasa sobre los juegos de suerte, envite o azar, el recargo sobre la citada tasa y el impuesto sobre el bingo. Considerando que, en el marco de las competencias normativas asumidas, no es posible alterar el hecho imponible definido en la normativa estatal, la refundición se hace partiendo de esta definición.
+Finalmente, destaca, como novedad de la presente Ley, el título III, de medidas de adaptación al euro, dirigido a incorporar al ordenamiento jurídico una serie de medidas dedicadas a adaptar las diferentes actuaciones administrativas que tienen contenido pecuniario a la conversión obligada al euro, que debe producirse a partir del 1 de enero de 1999.
+
+## TÍTULO I
+
+Medidas administrativas
+
+## CAPÍTULO I
+
+Medidas en materia de personal
+
+### Artículo 1
+
+Artículo 1. Modificación del texto refundido de la Ley de la función pública de la Generalidad de Cataluña, aprobado por el Decreto legislativo 1/1997, de 31 de octubre.
+1. Se añade una disposición adicional vigésima cuarta al texto refundido de la Ley de la función pública de la Administración de la Generalidad de Cataluña, aprobado por el Decreto legislativo 1/1997, de 31 de octubre, con el siguiente texto:
+«a) La Administración de la Generalidad, los entes locales situados en el territorio de Cataluña y las universidades catalanas, en lo que se refiere a los puestos de trabajo de administración y servicios, deben llevar a cabo las actuaciones necesarias para que, como mínimo, el 5 por 100 de estos puestos de trabajo puedan ser provistos de personal de cualquiera de estas mismas administraciones, de acuerdo con las respectivas normas de organización y funcionamiento de aplicación, las necesidades de los servicios y lo dispuesto en las relaciones de puestos de trabajo correspondientes.
+ b) Igualmente, pueden autorizarse permutas de puestos de trabajo entre las administraciones a que se refiere la letra a, siempre que los puestos tengan la misma categoría, tengan un destino definitivo y exista trato recíproco en estas administraciones con respecto al personal de la Administración de la Generalidad. Se autoriza al Gobierno para establecer por reglamento el procedimiento adecuado para hacer efectivas estas permutas, y a tal efecto debe modificarse el Decreto 123/1997, de provisión de puestos de trabajo y promoción profesional de los funcionarios de la Administración de la Generalidad de Cataluña.»
+2. Se añade un párrafo al apartado 2 de la disposición adicional undécima del texto refundido de Ley de la función pública de la Administración de la Generalidad de Cataluña, aprobado por el Decreto legislativo 1/1997, de 31 de octubre, con el siguiente texto:
+«También perciben el complemento establecido en el presente apartado en el momento de reingresar al servicio activo los funcionarios de carrera que durante más de dos años seguidos, o tres años con interrupción, hayan ejercido altos cargos en otra Administración pública, según lo establecido en la normativa específica de la misma, y siempre que esta Administración, recíprocamente, reconozca un trato igual a sus funcionarios cuando reingresen al servicio activo después de haber ejercido puestos de alto nivel en la Administración de la Generalidad.»
+3. Se modifica el artículo 76 del texto refundido de la Ley de la función pública de la Administración de la Generalidad de Cataluña, aprobado por el Decreto legislativo 1/1997, de 31 de octubre, que queda redactado del siguiente modo:
+«Los funcionarios que sean removidos o cesados de un puesto de trabajo de acuerdo con la normativa vigente sin obtener ningún otro puesto por alguno de los sistemas de concurso o de libre designación quedan a disposición del secretario o secretaria general del correspondiente departamento, que debe atribuirles provisionalmente un puesto en el mismo departamento y en la misma localidad. No obstante, si no existe ninguna vacante o lo justifican las necesidades de los servicios, puede adscribirse el funcionario o funcionaria a una localidad distinta, siempre que la misma esté a menos de cuarenta kilómetros del puesto anteriormente ocupado y, si ello tampoco es posible, dentro de la misma comarca. Lo establecido en este apartado no es de aplicación a los funcionarios que hayan cesado como consecuencia de un expediente disciplinario.»
+4. Se modifica el apartado 2 del artículo 6 del texto refundido de la Ley de la función pública de la Administración de la Generalidad, que queda redactado del siguiente modo:
+«2. Las competencias especificadas en el apartado 1 pueden ser ejercidas mediante la Secretaría General de Administración y Función Pública, que debe formar parte de la Comisión Técnica de la Función Pública.»
+
+### Artículo 2
+
+Artículo 2. Personal de las universidades públicas de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria e) de la Ley 1/2003, de 19 de febrero. Ref. BOE-A-2003-4932#dd
+
+### Artículo 3
+
+Artículo 3. Modificación de la Ley 16/1991, de 10 de julio, de las policías locales.
+1. Se añade un apartado 2 al artículo 48 de la Ley 16/1991, de 10 de julio, de policías locales, con el siguiente texto:
+«2. Asimismo, son faltas muy graves, de acuerdo con lo establecido en la Ley orgánica 4/1997, de 4 de agosto, por la que se regula la utilización de videocámaras por las fuerzas y cuerpos de seguridad en lugares públicos:
+ a) La alteración, manipulación o destrucción de imágenes y sonidos grabados, siempre que no constituyan delito.
+ b) La cesión, la transmisión, la revelación o el facilitar el acceso a terceras personas no autorizadas, por cualquier medio y con cualquier ánimo y finalidad, de los soportes originales de las grabaciones o sus copias, de forma íntegra o parcial.
+ c) La reproducción de imágenes y sonidos grabados con finalidades distintas de las establecidas en la Ley orgánica 4/1997.
+ d) La utilización de las imágenes y los sonidos grabados o de los medios técnicos de grabación afectos al servicio para finalidades distintas de las establecidas en la Ley orgánica 4/1997.»
+2. Se modifica la letra b) del artículo 48, que queda redactada del siguiente modo:
+«b) Toda actuación que signifique discriminación por razón de raza, sexo, orientación sexual, religión, lengua, opinión, lugar de nacimiento, vecindad o cualquier otra condición o circunstancia personal o social.»
+3. Se modifica la letra d) del artículo 98, que queda redactada del siguiente modo:
+«d) El infligir torturas, maltratos o penas crueles, inhumanas o degradantes, la instigación a cometer estos actos o su tolerancia o colaboración, así como cualquier actuación abusiva, arbitraria o discriminatoria que implique violencia física, psíquica o moral.»
+4. Se añade un apartado p) al artículo 49 de la Ley 16/1991, de 10 de julio, de policías locales, con el siguiente contenido:
+«p) Las conductas que contravengan a la Ley orgánica 4/1997, de 4 de agosto, por la que se regula la utilización de videocámaras por las fuerzas y cuerpos de seguridad en lugares públicos, y que no estén ya tipificadas como infracciones muy graves.»
+
+### Artículo 4
+
+Artículo 4. Modificación de la Ley 5/1994, de 4 de mayo, de regulación de los servicios de prevención y extinción de incendios y de salvamentos de Cataluña.
+Se añade una disposición transitoria novena a la Ley 5/1994, de 4 de mayo, de regulación de los servicios de prevención y extinción de incendios y de salvamentos de Cataluña, con el siguiente texto:
+«Novena. El personal que antes de la entrada en vigor de la presente disposición transitoria realizaba tareas operativas en el Cuerpo de Bomberos de la Generalidad de Cataluña y que no cumpla con el requisito de edad establecido en el artículo 17.4, puede presentarse a los tres primeros procesos selectivos para el acceso a la categoría de bombero de la escala básica del Cuerpo de Bomberos de la Generalidad que convoque el Departamento de Gobernación después de que entre en vigor la presente disposición transitoria, siempre que en aquel momento siga realizando estas tareas en el Cuerpo de Bomberos.»
+
+### Artículo 5
+
+Artículo 5. Modificación de la Ley 5/1991, de 27 de marzo, de creación de la escala de inspectores financieros y de la escala de inspectores tributarios en el Cuerpo Superior de Administración de la Generalidad.
+1. Se modifica la letra a) del artículo 3 de la Ley 5/1991, de 27 de marzo, de creación de la escala de inspectores financieros y de la escala de inspectores tributarios en el Cuerpo Superior de Administración de la Generalidad, que queda redactada del siguiente modo:
+«a) La inspección contable y financiera de las cajas de ahorro, de las cooperativas de crédito, de los mediadores de seguros y de las demás entidades de crédito o financieras de carácter privado, con la finalidad de poder determinar el estado de solvencia y la verificación del cumplimiento de la normativa que les es aplicable.»
+2. Se modifica el artículo 7 de la Ley 5/1991, de 27 de marzo, de creación de la escala de inspectores financieros y de la escala de inspectores tributarios en el Cuerpo Superior de Administración de la Generalidad, que queda redactado del siguiente modo:
+«Los temarios de las fases de oposición, los méritos que es preciso tener en cuenta en las fases de concurso y el baremo que debe aplicarse; el contenido, la duración y las pruebas de los cursos selectivos de formación; el sistema de designación de los tribunales y las demás cuestiones específicas derivadas de los sistemas de acceso a la escala de inspectores financieros o a la escala de inspectores tributarios, regulados en el artículo 6, deben determinarse de acuerdo con lo establecido en la normativa en materia de función pública de la Administración de la Generalidad.»
+
+### Artículo 6
+
+Artículo 6. Integración del personal laboral fijo del Instituto Catalán de la Salud.
+(Derogado)
+Se deroga por la disposición derogatoria 2 de la Ley 15/2000, de 29 de diciembre. Ref. BOE-A-2001-1616
+
+## CAPÍTULO II
+
+Medidas en materia de organización y sector público
+
+### Artículo 7
+
+Artículo 7. Modificación de la Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat.
+1. Se añade una letra h) al artículo 7 de la Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat, con el siguiente texto:
+«h) Emitir informe previo de los anteproyectos de ley y de los proyectos de disposiciones de carácter general que afecten a su organización y régimen jurídico.»
+2. Se modifica el artículo 11 de la Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat, que queda redactado del siguiente modo:
+«Artículo 11.
+ El presidente o presidenta del Patronato es el presidente o presidenta de la Generalidad de Cataluña.»
+3. Se modifica el artículo 12 de la Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat, que queda redactado del siguiente modo:
+«Artículo 12.
+ El padre abad del monasterio de Santa María de Montserrat es el vicepresidente primero del Patronato y el consejero o consejera de la Presidencia de la Generalidad de Cataluña es el vicepresidente o vicepresidenta segundo.»
+4. Se modifica la letra a) del artículo 15 de la Ley 10/1989, de 10 de julio, del Patronato de la Montaña de Montserrat, que queda redactada del siguiente modo:
+«a) El presidente o presidenta, nombrado libremente por el presidente o presidenta del Patronato de la Montaña de Montserrat.»
+
+### Artículo 8
+
+Artículo 8. Modificación de la Ley 27/1985, de 27 de diciembre, de la Escuela de Policía de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 9
+
+Artículo 9. Modificación de la Ley 7/1986, de 23 de mayo, de ordenación de las enseñanzas no regladas en el régimen educativo común y de creación del Instituto Catalán de Nuevas Profesiones.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 10
+
+Artículo 10. Modificación de la Ley 11/1984, de 5 de marzo, de creación del organismo autónomo Instituto Nacional de Educación Física de Cataluña.
+Se modifica el artículo 10 de la Ley 11/1984, de 5 de marzo, de creación del organismo autónomo Instituto Nacional de Educación Física de Cataluña, que queda redactado del siguiente modo:
+«Artículo 10.
+ El gerente depende del director o directora y cumple las funciones de gestión y administración del Instituto por delegación del director o directora.»
+
+### Artículo 11
+
+Artículo 11. Modificación de la Ley 17/1990, de 2 de noviembre, de museos.
+1. Se modifica el artículo 22 de la Ley 17/1990, de 2 de noviembre, de museos, que queda redactado del siguiente modo:
+«Artículo 22. Nombramiento de directores y administradores.
+ Los directores y administradores de los museos nacionales son nombrados, a propuesta de la Junta de Museos, por el órgano que se especifique en los estatutos de la entidad que gestione el museo.»
+2. Se modifica la letra a) del artículo 42 de la Ley 17/1990, de 2 de noviembre, de museos, que queda redactada del siguiente modo:
+«a) Aprobar las propuestas de nombramiento de los directores y administradores de los museos nacionales, presentadas por los órganos de gobierno respectivos, y dar traslado de las mismas al órgano competente que acuerde su nombramiento.»
+
+### Artículo 12
+
+Artículo 12. Modificación de la Ley 8/1981, de 2 de noviembre, por la que se crea la Entidad Autónoma de Organización de Espectáculos y Fiestas.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 13
+
+Artículo 13. Autorización al Gobierno para adscribir el Centro Nacional de Acuicultura al Instituto de Investigación y Tecnología Agroalimentarias (IRTA).
+Se autoriza al Gobierno de la Generalidad para adscribir el Centro Nacional de Acuicultura, dependiente del Departamento de Agricultura, Ganadería y Pesca, al Instituto de Investigación y Tecnología Agroalimentarias (IRTA).
+
+### Artículo 14
+
+Artículo 14. Modificación de la Ley 1/1997, de 24 de marzo, de equipamientos comerciales.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## CAPÍTULO III
+
+La Agencia Catalana del Agua
+
+### Artículo 15
+
+Artículo 15. Creación de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+ Se añade el segundo párrafo al apartado 1 por la disposición final 1 de la Ley 6/1999, de 12 de julio . Ref. BOE-A-1999-17139
+
+### Artículo 16
+
+Artículo 16. Competencias de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+
+### Artículo 17
+
+Artículo 17. El régimen jurídico de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+ Se deroga el apartado 4 en lo referente a la posibilidad de interposición de recurso ordinario contra los actos administrativos dictados por el director o directora de la Agencia Catalana del Agua, por la disposición derogatoria única.1.f) de la Ley 6/1999, de 12 de julio. Ref. BOE-A-1999-17139
+
+### Artículo 18
+
+Artículo 18. El personal de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+
+### Artículo 19
+
+Artículo 19. La organización de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+ Se modifica por el art. 16 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470
+
+### Artículo 20
+
+Artículo 20. El patrimonio de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+
+### Artículo 21
+
+Artículo 21. Los recursos económicos de la Agencia Catalana del Agua.
+(Derogado)
+Se deroga por la disposición derogatoria.2 del Decreto Legislativo 3/2003, de 4 de noviembre. Ref. DOGC-f-2003-90016#dd
+ Se deroga el apartado 1.a), por la disposición derogatoria única.1.f) de la Ley 6/1999, de 12 de julio. Ref. BOE-A-1999-17139
+
+## CAPÍTULO IV
+
+Medidas en relación a las finanzas de la Generalidad
+
+## Sección 1
+
+Sección 1.ª Medidas sobre contratación administrativa
+
+### Artículo 22
+
+Artículo 22. Órganos de contratación de la Administración de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.1.a) de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257
+ Se modifica el apartado 4 por el art. 18.1 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2647
+ Se modifican los apartados 3 y 4 y se añade el 5 por el art. 26 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485
+
+### Artículo 23
+
+Artículo 23. Contratos menores.
+(Derogado)
+Se deroga por la disposición derogatoria.1.a) de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257
+ Se modifica el apartado 2 por el art. 18.2 de la Ley 12/2004, de 27 de diciembre. Ref. BOE-A-2005-2647
+ Se modifica el apartado 2 por el art. 27 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485
+ Redactado conforme a la corrección de erratas publicada en DOGC núm. 3569, de 6 de febrero de 2002. Ref. DOGC-f-2002-90259
+
+## Sección 2
+
+Sección 2.ª Medidas patrimoniales
+
+### Artículo 24
+
+Artículo 24. Modificación de la Ley 11/1981, sobre el patrimonio de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección 3
+
+Sección 3.ª Medidas sobre la empresa pública catalana
+
+### Artículo 25
+
+Artículo 25. Modificación de la Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 26
+
+Artículo 26. Modificación de la Ley 2/1985, de 14 de enero, del Instituto Catalán de Finanzas.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección 4
+
+Sección 4.ª Control interno del gasto
+
+### Artículo 27
+
+Artículo 27. Modificación del Decreto legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de finanzas públicas de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## Sección 5
+
+Sección 5.ª Medidas sobre subvenciones
+
+### Artículo 28
+
+Artículo 28. Modificación del Decreto legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de finanzas públicas de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## TÍTULO II
+
+Medidas fiscales
+
+## CAPÍTULO I
+
+Impuestos directos
+
+## Sección 1
+
+Sección 1.ª Impuesto sobre la renta de las personas físicas
+
+### Artículo 29
+
+Artículo 29. Deducción por nacimiento de hijos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485
+ Se modifica por el art. 1 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470
+
+## Sección 2
+
+Sección 2.ª Impuesto sobre sucesiones y donaciones
+
+### Artículo 30
+
+Artículo 30. Reducciones de la base imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485
+ Se modifica el apartado 1.b) y d) por el art. 1 de la Ley 15/2000, de 29 de diciembre. Ref. BOE-A-2001-1616
+ Se modifica por el art. 2 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470
+ Redactado conforme a la corrección de erratas publicada en DOGC núm. 2892, de 19 de mayo de 1999. Ref. DOGC-f-1999-90257
+
+### Artículo 31
+
+Artículo 31. Tratamiento fiscal de las uniones estables de pareja.
+(Derogado)
+Se deroga por la disposición derogatoria 1.a) de la Ley 19/2010, de 7 de junio. Ref. BOE-A-2010-10829#dd
+ Se modifica por el art. 9 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056
+
+## CAPÍTULO II
+
+Impuestos indirectos
+
+## Sección única
+
+Sección única. Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+### Artículo 32
+
+Artículo 32. Tipo de gravamen en negocios sobre bienes inmuebles.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2024, de 12 de marzo. Ref. BOE-A-2024-6951#dd
+ Se modifica por el art. 145 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a1-56
+ Se modifica la letra a) por el art. único de la Ley 1/2013, de 16 de julio. Ref. BOE-A-2013-8568
+ Se modifica por el art. 4 del Decreto Ley 3/2010, de 29 de mayo. Ref. BOE-A-2010-10217
+ Se derogan los apartados 2 y 3 por la disposición derogatoria única.1.) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056
+ Se modifica el apartado 2 y se añade el 3 por el art. 2 de la Ley 15/2000, de 29 de diciembre. Ref. BOE-A-2001-1616
+ Se modifica por el art. 3 de la Ley 4/2000, de 26 de mayo. Ref. BOE-A-2000-11470
+
+## CAPÍTULO III
+
+Tributación sobre el juego
+
+## Sección única
+
+Sección única. Regulación de los tipos tributarios, las cuotas fijas, el devengo y el pago de la tasa fiscal sobre los juegos de suerte, envite o azar
+
+### Artículo 33
+
+Artículo 33. Base imponible y tipos tributarios.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2024, de 12 de marzo. Ref. BOE-A-2024-6951#dd
+ Se modifica los apartados 1.b) y 2.c) por el art. 17 de la Ley 6/2014, de 10 de junio. Ref. BOE-A-2014-6666
+ Téngase en cuenta que esta modificación no entrará en vigor hasta que se inicien las actividades de juego y apuestas en el primer casino ubicado en el centro recreativo turístico de Vila-Seca y Salou, según establece la disposición final de la citada ley.
+ Se modifica el apartado 1.b) por el art. 126 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999#a1-38
+ Se modifica por el art. 64.1 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730
+ Se modifica el apartado 1.a) por el art. 30 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737
+ Se derogan los apartados 2 y 3 por la disposición derogatoria única.1.a) de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485
+
+### Artículo 34
+
+Artículo 34. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2024, de 12 de marzo. Ref. BOE-A-2024-6951#dd
+ Se modifica el apartado 2 por el art. 7 del Decreto-ley 12/2019, de 9 de julio. Ref. DOGC-f-2019-90518
+ Se modifica el apartado 3.d) por el art. 64.2 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730
+ Se modifica por el art. 31 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737
+ Se modifica el apartado 3 por el art. 15 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056
+ Redactado conforme a las correcciones de erratas publicadas en DOGC núms. 2810 y 2892, de 21 de enero y 19 de mayo de 1999. Ref. DOGC-f-1999-90256. Ref. DOGC-f-1999-90257
+
+### Artículo 35
+
+Artículo 35. Pago.
+(Derogado)
+Se deroga por la disposición derogatoria.1 del Decreto Legislativo 1/2024, de 12 de marzo. Ref. BOE-A-2024-6951#dd
+
+## CAPÍTULO IV
+
+Cánones
+
+## Sección única
+
+Sección única. Cánones
+
+### Artículo 36
+
+Artículo 36. Modificación de la Ley 19/1991, de 7 de noviembre, de reforma de la Junta de Saneamiento, modificada por la Ley 7/1994, de 18 de mayo.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 37
+
+Artículo 37. Plazo de pago de cuotas impagadas por los conceptos de canon de infraestructura hidráulica y de incremento de tarifa de saneamiento.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 38
+
+Artículo 38. Determinación de cuotas de los tributos sobre el agua.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.i) de la Ley 6/1999, de 12 de julio. Ref. BOE-A-1999-17139
+
+### Artículo 39
+
+Artículo 39. Deducciones de la cuota del incremento de tarifa de saneamiento del canon de infraestructura hidráulica.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.i) de la Ley 6/1999, de 12 de julio. Ref. BOE-A-1999-17139
+
+## CAPÍTULO V
+
+Tasas
+
+## Sección 1
+
+Sección 1.ª Modificaciones de la ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la generalidad de Cataluña
+
+### Artículo 40
+
+Artículo 40. Modificaciones del título II de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 41
+
+Artículo 41. Adición de un capítulo al título IV de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 42
+
+Artículo 42. Modificaciones del título V de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 43
+
+Artículo 43. Modificaciones del título VI de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 44
+
+Artículo 44. Modificación del título VII de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 45
+
+Artículo 45. Modificaciones del título IX de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+### Artículo 46
+
+Artículo 46. Adición de un capítulo al título XIV de la Ley 15/1997, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+(Derogado)
+Se deroga por la disposición derogatoria.3 del Decreto Legislativo 3/2008, de 25 de junio. Ref. DOGC-f-2008-90017#dd
+
+## Sección 2
+
+Sección 2.ª Otras modificaciones de normas legales con implicaciones fiscales
+
+### Artículo 47
+
+Artículo 47. Modificación de la Ley 14/1997, de 24 de diciembre, de creación del Servicio Catalán de Tráfico.
+1. Se añade un apartado 3 al artículo 7 de la Ley 14/1997, de 24 de diciembre, de creación del Servicio Catalán de Tráfico, con el siguiente texto:
+«3. Los recursos económicos a que se refiere el apartado 1 deben ser destinados a cubrir los gastos del Servicio. En el supuesto de que los ingresos efectivamente obtenidos en el ejercicio sean superiores a los inicialmente previstos en el estado de ingresos del presupuesto del Servicio, el Gobierno debe acordar la ampliación de los créditos consignados al Departamento de Gobernación para atender la financiación de la Policía de la Generalidad-Mozos de Escuadra.»
+2.(Derogado)
+Se deroga el apartado 2 por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+## TÍTULO III
+
+Medidas de adaptación al euro
+
+## CAPÍTULO ÚNICO
+
+Medidas para la adaptación al euro de la actividad de la Administración de la Generalidad
+
+### Artículo 48
+
+Artículo 48. Derecho sancionador.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 49
+
+Artículo 49. Empresas públicas.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 50
+
+Artículo 50. Contratos.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 51
+
+Artículo 51. Procedimientos administrativos.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 52
+
+Artículo 52. Deuda pública.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 53
+
+Artículo 53. Operaciones financieras.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Artículo 54
+
+Artículo 54. Aportación de documentos por los administrados.
+(Derogado)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional primera
+
+Disposición adicional primera. Modificación de la Ley 17/1997, de 24 de diciembre, de medidas administrativas y de organización.
+1. (Derogado)
+2. Se añade un apartado 5 a la disposición adicional de la Ley 17/1997, con el siguiente texto:
+«5. Lo establecido en la presente disposición adicional es aplicable a las deudas derivadas de tributos propios de la Generalidad, así como a las sanciones administrativas que a 31 de diciembre de 1997 habían contraído los entes a los cuales se refería la disposición adicional vigésima primera de la Ley 9/1990, de 16 de mayo, con independencia de que en esta fecha no se haya iniciado un procedimiento de compensación.»
+Se deroga el apartado 1 por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Enajenación de títulos de sociedades con participación de la Generalidad.
+1. La enajenación de títulos representativos del capital y de participaciones en empresas en que la Generalidad participe directa o indirectamente, incluso si esta enajenación supone la pérdida de la posición mayoritaria o la extinción de la participación directa o indirecta de la Generalidad, corresponde al Gobierno, quien, con posterioridad, debe dar cuenta al Parlamento.
+2. En el supuesto de que a 31 de diciembre del correspondiente ejercicio no se haya podido llegar a culminar el proceso de enajenación iniciado, debe entenderse automáticamente prorrogado para el ejercicio inmediato siguiente al presupuesto de la empresa afectada, sin perjuicio del resultado final del proceso.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Conversión en euros.
+1. Todas las operaciones que se efectúen para convertir en euros cualquier magnitud económica que a la entrada en vigor de la presente Ley aparezcan nominadas en pesetas deben efectuarse de acuerdo con la normativa aplicable que se determine.
+2. Asimismo, cualquier autorización referida a la Junta de Aguas contenida en una norma vigente en la fecha de creación de la Agencia Catalana del Agua debe entenderse referida a la misma, y los expedientes que, al amparo de este precepto o del artículo 44.4 de la Ley 16/1997, de 24 de diciembre, haya iniciado la Junta de Aguas, puede concluirlos la Agencia Catalana del Agua, sin necesidad de nueva autorización.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Cambio de régimen jurídico del Instituto Catalán de Finanzas.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Financiación de las universidades.
+(Derogada)
+Se deroga por la disposición derogatoria e) de la Ley 1/2003, de 19 de febrero. Ref. BOE-A-2003-4932#dd
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Modificación de la Ley 26/1984, de 19 de diciembre, de coordinación universitaria y de creación de consejos sociales.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Modificación de la Ley 12/1987, de 28 de mayo, de regulación del transporte de viajeros por carretera mediante vehículos de motor.
+Se modifica el artículo 58 de la Ley 12/1987, que queda redactado del siguiente modo:
+«Artículo 58.
+ 1. Las infracciones muy graves, y las correspondientes sanciones, de la legislación reguladora del transporte de viajeros por carretera prescriben al cabo de tres años; las graves, al cabo de dos años, y las leves, al cabo de un año, en las condiciones que determine el apartado 2 del artículo 132 de la Ley del Estado 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+ 2. El plazo máximo para tramitar y resolver el procedimiento sancionador es de un año desde la fecha de inicio, y es aplicable, si se excede dicho plazo, lo establecido en el apartado 4 del artículo 43 de la Ley del Estado 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.»
+
+### Disposición adicional octava
+
+Disposición adicional octava. Ordenación y gestión del agua.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+ Redactado conforme a la corrección de erratas publicada en DOGC núm. 2810, de 21 de enero de 1999. Ref. DOGC-f-1999-90256
+
+### Disposición adicional novena
+
+Disposición adicional novena. Modificación de la Ley 2/1990, de 8 de enero.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 11/2011, de 29 de diciembre. Ref. BOE-A-2012-548
+
+### Disposición adicional décima
+
+Disposición adicional décima. Carreteras de la Generalidad.
+Los ingresos procedentes de la recaudación por daños a las carreteras se afectan a los gastos por conservación de las propias carreteras de la Generalidad.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Medidas en relación con las funciones de las oficinas liquidadoras de distritos hipotecarios.
+Dada la dependencia orgánica y funcional derivada de la relación administrativa con la Generalidad de los titulares de las oficinas liquidadoras de distritos hipotecarios en cuanto al ejercicio de sus funciones públicas de gestión y liquidación del impuesto de transmisiones patrimoniales y actos jurídicos documentados y de sucesiones y donaciones, en el ámbito territorial de Cataluña, se faculta al consejero o consejera de Economía y Finanzas para que adopte las medidas necesarias de dirección, coordinación e inspección de tales funciones.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Personal funcionario y laboral de la Junta de Aguas y de la Junta de Saneamiento.
+1. El personal funcionario y laboral que esté ocupando puestos de trabajo en la Junta de Aguas de Cataluña y en la Junta de Saneamiento o tenga suspendida su relación jurídica con dichos organismos se integrará en la Agencia Catalana del Agua según las necesidades de personal de la misma y de acuerdo con la relación de puestos de trabajo que se apruebe, quedando vinculado a la misma por una relación sujeta a las normas de derecho administrativo o laboral que sean de aplicación. El personal que no se integre en la misma se adscribirá a otro puesto de trabajo de la Generalidad y quedará sometido a las normas sobre provisión de puestos de trabajo establecidas por la normativa vigente.
+2. El personal funcionario que se acoja a la opción que se le otorgue para ocupar un puesto de trabajo previsto en la plantilla de personal laboral de la empresa quedará en situación de excedencia voluntaria establecida en el artículo 86.2.c) del Decreto legislativo 1/1997, de 31 de octubre, en su cuerpo de origen, y se le reconocerá la antigüedad.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio de las comisiones de desembalse y de las juntas de obras y de explotación.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Bienes adscritos a la Junta de Aguas y a la Junta de Saneamiento.
+Los bienes que a la fecha de entrada en vigor de la presente Ley estén adscritos a la Junta de Aguas de Cataluña y a la Junta de Saneamiento pasan a estar adscritos a la Agencia Catalana del Agua, y no se modifica su condición jurídica originaria. Asimismo, la Agencia Catalana del Agua se subroga en las posiciones jurídicas de la Junta de Aguas de Cataluña y de la Junta de Saneamiento en cuanto a los bienes, derechos y obligaciones de todo tipo de que sean titulares, sin perjuicio de lo establecido para el personal.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen transitorio para las subvenciones.
+1. En relación con lo determinado en el artículo 28 de la presente Ley, quedan vigentes las bases reguladoras de las líneas de subvenciones aprobadas con anterioridad a la entrada en vigor de la presente Ley hasta que finalice su período de vigencia, sin perjuicio de lo dispuesto en el artículo 93 del Decreto legislativo 9/1994, de 13 de julio, por el que se aprueba el texto refundido de la Ley de finanzas públicas de Cataluña, que es de aplicación inmediata.
+2. Sin embargo, dichas bases pueden acogerse a lo establecido en el artículo 92 del Decreto legislativo a que hace referencia el apartado 1, siempre que no deriven perjuicios para los beneficiarios de las subvenciones.
+Redactado conforme a la corrección de erratas publicada en DOGC núm. 2810, de 21 de enero de 1999. Ref. DOGC-f-1999-90256
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, tipo de gravamen.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Se derogan las siguientes disposiciones legales y reglamentarias:
+a) Los artículos 2, 3, 4, 9 a 17, 22, 23, 28 y 31 del Decreto legislativo 1/1988, de 28 de enero, por el que se aprueba la refundición de los preceptos de la Ley 5/1981, de 4 de junio, y la Ley 17/1987, de 13 de julio, en un texto único.
+b) Los artículos 1 al 13, ambos incluidos, de la Ley 19/1991, de 7 de noviembre, de reforma de la Junta de Saneamiento.
+c) El artículo 1 de la Ley 7/1994, de 18 de mayo, de modificación de la Ley 19/1991, de reforma de la Junta de Saneamiento, en la parte relativa a los artículos de la Ley 19/1991 a que hace referencia la letra b).
+d) El Decreto 332/1987, de 23 de noviembre, sobre representación provisional de los usos agrícolas en la Junta de Aguas de Cataluña.
+2. Las derogaciones normativas recogidas por el apartado 1 entran en vigor cuando se apruebe el Estatuto de la Agencia Catalana del Agua y desarrolle sus efectos.
+3. Las disposiciones del capítulo III del título II de la presente Ley sustituyen la Ley 2/1987, de 5 de enero, que establece un recargo sobre la tasa estatal que grava las máquinas tragaperras, y, a partir del 1 de abril de 1999, la Ley 21/1984, de 24 de octubre, del impuesto sobre el juego del bingo.
+4. En general, se derogan cuantas disposiciones de rango igual o inferior se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Autorización para la refundición de la normativa de protección del ambiente atmosférico.
+Se autoriza al Gobierno a refundir en un texto único, en el plazo de un año, la Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico, y la Ley 6/1996, de 18 de junio, que la modifica; a regularizar, aclarar y armonizar dichas disposiciones, así como a incorporar en el mismo las determinaciones que resulten de la legislación comunitaria.
+
+### Disposición final segunda
+
+Disposición final segunda. Régimen aplicable a las actuaciones iniciadas al amparo de la disposición adicional décima, apartado 2, de la Ley 16/1997, de 24 de diciembre.
+Lo que establece, con carácter general, la disposición adicional segunda de la presente Ley es también aplicable a los procesos iniciados al amparo de la disposición adicional décima, apartado 2, de la Ley 16/1997, de 24 de diciembre, de presupuestos de la Generalidad para 1998.
+
+### Disposición final tercera
+
+Disposición final tercera. Introducción del euro.
+(Derogada)
+Se deroga por la disposición derogatoria 2 y Anexo D).2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#an
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entra en vigor el día 1 de enero de 1999. No obstante, en relación con el juego del bingo, la sustitución de la Ley 21/1984, de 24 de octubre, del impuesto sobre el juego del bingo, a que hace referencia la disposición derogatoria, y la aplicación del tipo tributario general establecido en el artículo 33.1.a) tienen efectos a partir del día 1 de abril de 1999.
+Redactado conforme a la corrección de erratas publicada en DOGC núm. 2810, de 21 de enero de 1999. Ref. DOGC-f-1999-90256
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 31 de diciembre de 1998.
+ARTUR MAS I GAVARRÓ,
+ JORDI PUJOL,
+ Consejero de Economía y Finanzas
+ Presidente

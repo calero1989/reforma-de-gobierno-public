@@ -1,0 +1,84 @@
+# Ley 12/1999, de 21 de abril, por la que se autoriza la participación de España en la ampliación del capital del Banco Europeo de Reconstrucción y Desarrollo (BERD).
+
+- Identificador BOE: `BOE-A-1999-8933`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-8933
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La presente Ley tiene por objeto autorizar la participación de España en la ampliación de capital del Banco Europeo de Reconstrucción y Desarrollo, acordada por la Resolución número 59 del Consejo de Gobernadores, y de acuerdo con las condiciones que en esa Resolución y en posteriores se acordaron, relativas a dicha ampliación de capital.
+El capital actual del Banco es de 1.000.000 de acciones de 10.000 euros cada una.
+La ampliación de capital supone la emisión de 1.000.000 de acciones nuevas, de 10.000 euros cada una, lo que supone duplicar el capital social del Banco.
+La participación española actual es del 3,4 por 100 del capital social.
+La presente Ley permitirá mantener la participación española en el capital total, por lo que no se altera la situación respecto a los principales socios europeos de esta Institución.
+Se considera adecuado mantener la participación española por la importancia que esta zona está teniendo y tendrá en el futuro para las inversiones de empresas españolas, con actividades en sectores que precisan inversión directa en los países de operaciones.
+La presente Ley se dicta en virtud de los títulos competenciales que la Constitución atribuye en exclusiva al Estado en virtud del artículo 149.1, apartados 3 y 13, referentes a las relaciones internacionales y las bases y la coordinación de la economía.
+
+### Artículo 1
+
+Artículo 1. Subscripción de acciones.
+1. Se autoriza al Gobierno para que, en nombre del Reino de España, subscriba las 34.000 acciones nuevas que le corresponden en la ampliación de capital del Banco Europeo de Reconstrucción y Desarrollo, aprobada por la Resolución número 59 del Consejo de Gobernadores de 15 de abril de 1996.
+2. Esta subscripción se compondrá de 7.650 acciones de carácter pagadero y 26.350 acciones de carácter exigible. Todas ellas se emiten a la par y con un valor unitario de 10.000 euros.
+
+### Artículo 2
+
+Artículo 2. Desembolso de las subscripciones.
+1. El pago del total de 76.500.000 euros se llevará a cabo en ocho cuotas anuales iguales por un importe de 9.562.500 euros cada una. A su vez cada cuota anual consta de dos tramos, el 40 por 100 de los cuales se realizará en efectivo y el resto mediante la emisión de un pagaré por importe de 5.737.500 euros cada uno.
+2. Los pagarés no devengarán intereses. Cada uno de estos pagarés, a su vez, se redime a lo largo de cinco años, en cinco tramos iguales por importe de 1.147.500 euros cada uno. La redención del primer abono se hace en el mismo año de emisión del pagaré, y los restantes en cada uno de los años subsiguientes.
+3. Los desembolsos totales anuales, que figuran en el calendario que sigue, se efectuarán antes del 15 de junio de cada año:
+Año
+ Importe en Euros
+ 1999
+ 4.972.500
+ 2000
+ 6.120.000
+ 2001
+ 7.267.500
+ 2002
+ 17.977.500
+ 2003
+ 9.562.500
+ 2004
+ 9.562.500
+ 2005
+ 9.562.500
+ 2006
+ 4.590.000
+ 2007
+ 3.442.500
+ 2008
+ 2.295.000
+ 2009
+ 1.147.500
+ Total.........
+ 76.500.000
+Se modifica por el art. 73 de la Ley 24/2001 de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 3
+
+Artículo 3. Entidad depositaria.
+A los efectos de la subscripción y contribuciones que se autorizan, el Banco de España desempeñará las funciones de depositario, tanto de los haberes y pagarés necesarios para el desembolso de las acciones y contribuciones, como de los títulos representativos de las mismas.
+
+### Disposición final primera
+
+Disposición final primera. Facultad de desarrollo.
+Se faculta a los Ministros de Asuntos Exteriores y de Economía y Hacienda para que dicten, en el ámbito de sus competencias respectivas, cuantas medidas sean precisas para la ejecución de lo que dispone la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 21 de abril de 1999.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

@@ -1,0 +1,298 @@
+# Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social.
+
+- Identificador BOE: `BOE-A-1991-2826`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-2826
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOCL núm. 10, de 15 de enero de 1991 Ref. BOCL-h-1991-90255 y núm. 46, de 6 de marzo de 1991. Ref. BOCL-h-1991-90256
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española, en su artículo 9.2, encomienda a los poderes públicos la tarea de facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+De otra parte, y siguiendo el texto constitucional, el Estatuto de Autonomía de Castilla y León dispone, en su artículo 7.2, que a los poderes públicos corresponde facilitar la participación de todos los castellanos y leoneses en la vida política, económica, social y cultural de la Comunidad.
+De todo ello se deriva que la Comunidad Autónoma dispone de plena habilitación para crear el Consejo Económico y Social, siendo los títulos competenciales que la legitiman no sólo el relativo a la organización de sus instituciones de autogobierno, sino también los relativos a las materias económicas y sociales.
+Por ello, conscientes de la importancia del establecimiento de un marco estable y permanente de comunicación y diálogo, tanto de las organizaciones empresariales y sindicales entre sí, como de éstas con la Administración Autónoma de Castilla y León, se siente la necesidad de llevar a cabo la creación del Consejo Económico y Social.
+El Consejo Económico y Social de Castilla y León se configura como un Órgano Colegiado de carácter consultivo, con funciones de asesoramiento y colaboración, en materia socioeconómica en la Comunidad Autónoma.
+La presente Ley atribuye al Consejo Económico y Social una serie de funciones que se adecúan a la finalidad y objetivos que con su creación se persiguen, dotando a dicho Consejo de personalidad jurídica propia e independiente, respecto a la Administración Autónoma en el ejercicio de sus funciones.
+En lo relativo a su composición, se ha adoptado la alternativa en la cual, entre los miembros del Consejo, se da la presencia de un número designado directamente por la Junta de Castilla y León, persiguiéndose con ello el propósito de dotar de mayor eficacia y contenido a las atribuciones mismas del Consejo Económico y Social.
+Finalmente, por lo que respecta a su organización, es positivo y beneficioso el hecho de que el Consejo posea una base múltiple para el logro de sus objetivos.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Creación, denominación y sede.
+Se crea el Consejo Económico y Social de Castilla y León con sede en Valladolid. Su naturaleza, funciones, composición y estructura serán las determinadas en la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Naturaleza.
+1. El Consejo Económico y Social es un órgano colegiado de carácter consultivo y asesor en materia socioeconómica de la Comunidad de Castilla y León, dotado de personalidad jurídica propia.
+2. El Consejo se configura como un órgano permanente de comunicación entre los distintos intereses económicos y sociales de la Comunidad y de asesoramiento de estos a la Administración Autonómica.
+Se modifica por el art. 2.1 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. De acuerdo con su naturaleza, corresponden al Consejo las siguientes funciones:
+a) Emitir, con carácter previo y preceptivo, informes sobre los anteproyectos de leyes relacionados con la política socioeconómica y proyectos de decretos que posean una especial trascendencia en la regulación de las indicadas materias. De forma particular emitirá informe previo y preceptivo sobre los anteproyectos de la ley reguladora de las medidas financieras, tributarias y administrativas.
+La solicitud de informe se efectuará por la Consejería proponente con carácter previo a su remisión a la Junta de Castilla y León y a la misma se acompañará la documentación necesaria que haya servido para la elaboración de la disposición correspondiente.
+El Consejo deberá emitir su informe en el plazo de veinte días desde la recepción de la solicitud. No obstante el órgano solicitante podrá reducir este plazo siempre y cuando justifique la urgencia, en cuyo caso el plazo será de diez días.
+Transcurrido el correspondiente plazo, sin que se haya emitido informe, la Administración podrá continuar con la tramitación, sin perjuicio de que el Consejo pueda remitirlo a la Junta de Castilla y León con posterioridad, si lo estima oportuno.
+Los informes del Consejo Económico y Social se limitarán exclusivamente al análisis socioeconómico de los textos remitidos, sin que puedan extenderse a valoraciones de oportunidad o conveniencia o a formular propuestas alternativas, salvo que así les sea expresamente solicitado por la autoridad consultante.
+b) Conocer los planes o programas de contenido socioeconómico, con independencia de su forma de aprobación, así como los proyectos de ley que no sean objeto de informe preceptivo. A tal efecto, y respecto de estos últimos, la Junta de Castilla y León procederá a su remisión al Consejo Económico y Social simultáneamente a su envío a las Cortes de Castilla y León.
+c) Formular propuestas a la Junta de Castilla y León sobre materias competencia de este Consejo.
+d) Elaborar dictámenes e informes en cualesquiera clases de asuntos de carácter socioeconómico por iniciativa propia, a petición de los órganos superiores de la Administración General de la Comunidad Autónoma o de las Cortes de Castilla y León previo acuerdo de sus Comisiones.
+e) Servir de cauce de participación de los interlocutores sociales en el debate de asuntos socioeconómicos.
+f) Canalizar demandas y propuestas de carácter socioeconómico procedentes de asociaciones e instituciones con actividad económica y social en el ámbito de la Comunidad Autónoma sin representación en el Consejo.
+g) Conocer y evaluar la información estadística autonómica sin perjuicio de la facultad de elaboración de datos estadísticos propios.
+h) Emitir anualmente, dentro del primer semestre de cada año, un informe general sobre la «Situación Económica y Social de la Comunidad» correspondiente al ejercicio anterior, que remitirá a la Junta de Castilla y León y a las Cortes de Castilla y León.
+i) Formular recomendaciones y propuestas, en relación con situaciones coyunturales de sectores económicos y sociales determinados, a las instituciones básicas de la Comunidad Autónoma.
+j) Conocer las proposiciones de ley y las iniciativas legislativas populares que regulen materias socioeconómicas y laborales cuando las Cortes de Castilla y León lo consideren oportuno.
+k) Evacuar informe, en el trámite de audiencia, respecto de los proyectos normativos que afecten sustancialmente a su organización, competencias y funciones.
+2. El Consejo podrá recabar de la Administración de la Comunidad la realización de estudios técnicos, así como cuanta información y documentación considere necesaria para el cumplimiento de sus funciones. Asimismo, podrá solicitar informes de organizaciones profesionales, económicas y culturales.
+3. La Junta, al remitir a las Cortes de Castilla y León los proyectos de ley a que se refiere la letra a) del apartado 1 del presente artículo, adjuntará, en su caso, el informe elaborado por el Consejo.
+4. La Junta remitirá semestralmente al Consejo Económico y Social un informe sobre la situación general económica y social de la Comunidad de Castilla y León y la política económica de la Administración de la Comunidad.
+5. El Consejo Económico y Social elaborará una memoria anual de su actividad que será presentada ante la Comisión correspondiente de las Cortes de Castilla y León.
+Se modifica por el art. 2.2 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+## TÍTULO II
+
+Composición y nombramiento
+
+### Artículo 4
+
+Artículo 4. Composición.
+El Consejo Económico y Social estará compuesto por 36 miembros, con la siguiente distribución:
+a) Doce representantes de las Organizaciones Sindicales más representativas de la Comunidad Autónoma de Castilla y León, designados por éstas en los términos que establezcan las normas que sean de aplicación.
+b) Doce representantes de las Organizaciones Empresariales más representativas de ámbito territorial en toda la Comunidad Autónoma, de acuerdo con la representatividad institucional que ostenten.
+c) Doce miembros, distribuidos y designados de la siguiente forma:
+1. Seis expertos, de los cuales cuatro serán designados por la Junta de Castilla y León y los otros dos por las Cortes de Castilla y León, en votación conjunta de los candidatos que corresponda presentar a los Grupos Parlamentarios en proporción al número de Procuradores integrado en cada uno de ellos. Los candidatos se entenderán designados si alcanzan el voto favorable de los tres quintos de la Cámara en primera votación o de la mayoría absoluta en segunda votación, si fuere necesaria.
+2. Cuatro representantes de las Organizaciones Profesionales Agrarias de ámbito regional designados por ellas mismas.
+3. Un representante de las Asociaciones o Federaciones de Asociaciones de Consumidores de ámbito regional designados por ellas mismas.
+4. Un representante de las Cooperativas y Sociedades Anónimas Laborales designado por sus organizaciones de ámbito regional.
+En los supuestos a que se refieren los apartados a), b) y c) anteriores, se designará igual número de suplentes que de miembros efectivos. Los suplentes podrán asistir a las sesiones en sustitución de los miembros efectivos.
+Se modifica la letra c).1 por el art. 2.3 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 4 bis
+
+Artículo 4 bis. Grupo de Enlace.
+1. Se constituirá un Grupo de Enlace con la sociedad civil organizada integrado por representantes de asociaciones e instituciones con actividad económica y social en la Comunidad de Castilla y León.
+2. Las organizaciones que formen parte de este Grupo de Enlace han de tener ámbito autonómico y no pertenecer a ninguno de los grupos a que se refiere el artículo 4 de esta ley.
+Entre otras, al menos, han de estar representadas organizaciones de los siguientes sectores sociales: infancia, familia, juventud, mujer, personas mayores, personas con discapacidad, salud, protección social, minorías, inmigrantes, colectivos en riesgo de exclusión social, educación y desarrollo rural.
+3. El Grupo de Enlace estará presidido por el Presidente del Consejo Económico y Social y formarán parte del mismo sus vicepresidentes.
+4. Sin perjuicio de lo previsto en el apartado anterior, los miembros del Grupo de Enlace no tendrán la condición de miembros del Consejo Económico y Social. No tendrán derecho a retribución económica, ni percibirán indemnización alguna, incluidas dietas y gastos de locomoción, por asistir a las reuniones del mismo.
+5. Este grupo tendrá por objeto canalizar las demandas y propuestas de carácter socioeconómico procedentes de las organizaciones que formen parte del mismo. Igualmente desarrollará funciones de asesoramiento, colaboración y apoyo en aquellas cuestiones que sean requeridas por el Consejo.
+6. Su composición, convocatoria y funciones se determinarán en el reglamento de organización y funcionamiento del Consejo Económico y Social.
+Se añade por el art. 2.4 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 5
+
+Artículo 5. Nombramiento y mandato.
+1. Designados los miembros del Consejo en la forma prevista en el artículo 4, la Presidencia de las Cortes procederá a su nombramiento y acreditará con su firma el mismo. De igual forma se procederá respecto a su cese. Los nombramientos y ceses se publicaran en el Boletín Oficial de Castilla y León.
+2. El nombramiento lo será por un periodo de cuatro años, sin perjuicio de su reelección. No obstante, cada una de las partes podrá sustituir a sus miembros designados como titulares o suplentes, permaneciendo el sustituto en el cargo el tiempo que restare al miembro sustituido para el cumplimiento del periodo de cuatro años. El procedimiento para su sustitución será el mismo que el de los nombramientos.
+3. La condición de miembro del Consejo no dará derecho a retribución económica. Los miembros del Consejo Económico y Social, en su condición de tales, no percibirán indemnización alguna, incluidas dietas y gastos de locomoción, por asistir a las reuniones de la institución a la que pertenecen ni por desempeñar las funciones propias de su condición de miembros.
+Se modifica por el art. 2.5 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 6
+
+Artículo 6. Pérdida de la condición de miembro del Consejo Económico y Social.
+Los miembros del Consejo Económico y Social perderán su condición por las siguientes causas:
+a) Por fallecimiento.
+b) Por renuncia.
+c) Por extinción del mandato al expirar el plazo, sin perjuicio de su posible reelección.
+d) Por incapacidad declarada por decisión judicial firme.
+e) Por separación de sus Organizaciones o Instituciones designantes.
+f) Por sustitución de las Organizaciones o Instituciones que los hubieran designado.
+g) Por inhabilitación para el ejercicio de los derechos políticos declarada por decisión judicial firme.
+h) Por condena, en sentencia firme, a causa de delito doloso.
+i) Por incompatibilidad sobrevenida apreciada por el Pleno del Consejo en los términos previstos por el artículo siguiente.
+Se modifica por el art. 2.6 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 7
+
+Artículo 7. Incompatibilidades.
+La condición de miembro del Consejo Económico y Social es incompatible, en todo caso, con el desempeño en el Estado, Comunidades Autónomas, Unión Europea u Organismos Internacionales de cualquier cargo político o mandato representativo, así como de puestos o cargos asimilados en el sector público de cualquiera de dichas instancias.
+Se modifica por el art. 2.7 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+## TÍTULO III
+
+Órganos y funcionamiento
+
+### Artículo 8
+
+Artículo 8. Órganos del Consejo.
+Los Órganos del Consejo Económico y Social son los siguientes:
+a) El Pleno.
+b) La Comisión Permanente.
+c) Las Comisiones.
+d) El Presidente.
+e) Los Vicepresidentes.
+
+### Artículo 9
+
+Artículo 9. Competencias del Pleno.
+1. El Pleno, integrado por los miembros mencionados en el artículo 4.º, es el supremo órgano de decisión y formación de la voluntad del Consejo.
+A él le competen las siguientes funciones:
+a) Elaborar y aprobar el proyecto de Reglamento de Organización y Funcionamiento del Consejo, en los términos que se fijan en la presente Ley.
+b) Adoptar los acuerdos que correspondan respecto del ejercicio de las funciones que tiene atribuidas el Consejo.
+c) La elaboración del anteproyecto de presupuesto del Consejo Económico y Social y la concesión y distribución de las transferencias y subvenciones consignadas anualmente en sus presupuestos.
+d) La elaboración de la propuesta de plantilla de personal del Consejo, que se ajustará a las previsiones contenidas en el artículo 17 de la presente Ley.
+e) La aprobación de la memoria anual del Consejo.
+f) Las demás que resulten de lo establecido en el Reglamento de Organización y Funcionamiento del Consejo.
+2. Los miembros de la Junta y los Altos Cargos de la Administración de la Comunidad comparecerán para informar y participar en el debate de los asuntos de su competencia, bien a petición del pleno o de las Comisiones, bien por propia iniciativa.
+Se modifica el apartado 1 por el art. 2.8 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+ Se modifica el apartado 1.c) por el art. 53 de la Ley 9/2004, de 28 de diciembre. Ref. BOE-A-2005-1259
+ Redactado conforme a la corrección de errores publicada en BOCL núm. 46, de 6 de marzo de 1991. Ref. BOCL-h-1991-90256
+
+### Artículo 10
+
+Artículo 10. Funcionamiento del Pleno.
+1. El Pleno, previa convocatoria de su Presidente, se reunirá, en sesión ordinaria, al menos una vez al trimestre.
+Asimismo, podrá reunirse, con carácter extraordinario a iniciativa del Presidente, de la Comisión Permanente, en su caso, o de una tercera parte de sus miembros.
+2. El Pleno del Consejo quedará válidamente constituido en primera convocatoria cuando asistan dos tercios de sus miembros, y, en segunda convocatoria con la asistencia, como mínimo, de la mitad más uno de sus componentes.
+
+### Artículo 11
+
+Artículo 11. La Comisión Permanente.
+1. La Comisión Permanente tendrá las competencias y las funciones que se determinen en el Reglamento de Organización y Funcionamiento y las que le atribuya el Pleno del Consejo.
+2. Su composición, que deberá respetar el principio de proporcionalidad entre los tres grupos mencionados en el artículo 4.1, se establecerá en el mismo Reglamento.
+
+### Artículo 12
+
+Artículo 12. Las Comisiones.
+1. El Pleno del Consejo podrá establecer las Comisiones, de carácter permanente o para cuestiones concretas, que estime conveniente.
+2. Su composición, que deberá respetar el principio de proporcionalidad entre los tres grupos mencionados en el artículo 4.1, sus competencias y sus funciones se determinarán en el Reglamento de Organización y Funcionamiento del Consejo.
+Redactado conforme a la corrección de errores publicada en BOCL núm. 10, de 15 de enero de 1991. Ref. BOCL-h-1991-90255
+
+### Artículo 13
+
+Artículo 13. El Presidente.
+1. El Presidente del Consejo Económico y Social será nombrado, de entre los miembros del Consejo, por las Cortes de Castilla y León por mayoría absoluta, a propuesta de, al menos, dos tercios del Consejo.
+2. El Presidente de las Cortes de Castilla y León acreditará con su firma el nombramiento y cese del Presidente, que se publicará en el Boletín Oficial de Castilla y León.
+3. El mandato del Presidente tendrá la misma duración que el de los miembros. El Presidente solo podrá ser reelegido para un segundo mandato. La sustitución en el cargo de Presidente, cuando no se produzca como consecuencia de la renovación de los miembros del Consejo, será por el tiempo que reste hasta su renovación. Este periodo de tiempo no se tendrá en cuenta a los efectos del límite máximo de dos mandatos previsto en este mismo apartado.
+4. Son funciones específicas del Presidente:
+a) Ostentar la representación del Consejo.
+b) Convocar las sesiones del Pleno, de la Comisión Permanente y del Grupo de Enlace, presidirlas y moderar el desarrollo de los debates.
+c) Formular el orden del día de las reuniones en el modo que se establezca en el reglamento de organización y funcionamiento.
+d) Ordenar la publicación de los acuerdos del Consejo, disponer su cumplimiento y visar las actas.
+e) Dirimir los empates con voto de calidad.
+f) Dirigir los servicios técnicos y administrativos del Consejo.
+g) Presidir el Grupo de Enlace con la sociedad civil organizada.
+h) Las demás funciones que le encomiende el reglamento de organización y funcionamiento.
+5. El Presidente perderá su condición por la finalización de su mandato, por renuncia a su cargo de Presidente o por pérdida de su condición de miembro del Consejo. En los dos primeros casos continuará en el ejercicio de sus funciones hasta el nombramiento y toma de posesión del nuevo Presidente.
+La renuncia al cargo de Presidente deberá formularse ante el Pleno del Consejo Económico y Social, quien dará traslado de la misma a la Presidencia de las Cortes de Castilla y León para su formalización.
+Se modifica por el art. 2.9 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 14
+
+Artículo 14. Régimen de incompatibilidades y retribuciones del Presidente.
+1. El Presidente del Consejo Económico y Social podrá optar entre desempeñar sus funciones en régimen de dedicación exclusiva o parcial, debiendo garantizar en todo caso la plena disponibilidad para cumplir sus deberes con puntualidad y eficacia, así como su imparcialidad e independencia en el cumplimiento de sus funciones públicas. La dedicación a tiempo parcial deberá ser aceptada por dos terceras partes del Consejo Económico y Social.
+2. El Presidente en régimen de dedicación exclusiva no podrá ejercer, ni por sí mismo ni mediante sustitución, ninguna otra actividad profesional, mercantil, industrial o laboral, pública o privada, por cuenta propia o ajena retribuida mediante sueldo, arancel, honorarios, comisión o de cualquier otra forma, que no sea la administración de su propio patrimonio. No obstante, serán compatibles las actividades de producción y creación literaria, artística, científica, técnica o investigadora, y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente a congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo o de prestación de servicios o supongan un menoscabo del estricto cumplimiento de sus deberes.
+3. El régimen de incompatibilidades del Presidente del Consejo Económico y Social con dedicación parcial será el que le corresponda por razón de su otro cargo o actividad, y en todo caso dentro de los límites fijados en el artículo 7.
+4. El Presidente del Consejo Económico y Social que desempeñe sus funciones en régimen de dedicación exclusiva percibirá las retribuciones que se fijen anualmente en la Ley de Presupuestos de la Comunidad de Castilla y León, sin que, en ningún caso, puedan superar las establecidas para el Presidente de la Junta de Castilla y León. En el caso de no ejercer su actividad en régimen de exclusividad, percibirá las dietas e indemnizaciones que en su reglamento de organización y funcionamiento se establezcan, teniendo como límite, en cómputo anual, la tercera parte de las retribuciones fijadas en los Presupuestos de la Comunidad para el desempeño del cargo en régimen de dedicación exclusiva.
+Se modifica por el art. 2.10 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+ Redactado conforme a la corrección de errores publicada en BOCL núm. 10, de 15 de enero de 1991. Ref. BOCL-h-1991-90255
+
+### Artículo 15
+
+Artículo 15. Los Vicepresidentes.
+1. El Pleno del Consejo elegirá, de entre sus miembros, dos Vicepresidentes, que deberán pertenecer a dos grupos de representación distintos al que pertenezca el Presidente.
+2. Son funciones propias de los Vicepresidentes:
+a) Sustituir al Presidente en los casos en que dicho cargo estuviera vacante y en los de ausencia o enfermedad. La sustitución se llevará a cabo en la forma que se establezca en el reglamento de organización y funcionamiento del Consejo.
+b) Colaborar con el Presidente en todos los asuntos para los que sean requeridos.
+c) Cualesquiera otras que les sean expresamente delegadas o encomendadas por el Pleno del Consejo.
+3. Los Vicepresidentes no tendrán derecho a retribución económica, ni percibirán indemnización alguna, incluidas dietas y gastos de locomoción, por el desempeño de su cargo.
+Se modifica por el art. 2.11 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+ Redactado conforme a la corrección de errores publicada en BOCL núm. 10, de 15 de enero de 1991. Ref. BOCL-h-1991-90255
+
+### Artículo 15 bis
+
+Artículo 15 bis. Funciones de secretaría.
+1. Las funciones de secretaría del Pleno, de la Comisión Permanente, de las demás Comisiones, así como del Grupo de Enlace serán ejercidas por quien designe el Presidente del Consejo, de entre el personal al servicio del Consejo Económico y Social.
+2. Sus funciones son:
+a) Asistir a las reuniones, con voz pero sin voto.
+b) Efectuar la convocatoria de las sesiones por orden de Presidente, así como las citaciones a los miembros.
+c) Recibir los escritos y documentos de los que deba conocer el Consejo, así como los actos de comunicación entre este y sus miembros.
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+f) Ordenar y custodiar la documentación del Consejo.
+g) Cuantas otras funciones sean inherentes a su condición.
+3. El desempeño de estas funciones no conllevará la percepción de retribuciones, dietas o indemnizaciones.
+Se añade por el art. 2.12 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 16
+
+Artículo 16. Reglamento de Organización y Funcionamiento.
+1. El Consejo aprobará por mayoría de dos tercios el proyecto de reglamento de organización y funcionamiento, en el que se regulará el régimen de adopción de los acuerdos de sus distintos órganos.
+2. El Consejo remitirá a las Cortes de Castilla y León el proyecto de reglamento de organización y funcionamiento. La Mesa de las Cortes lo aprobará, si se ajusta a lo establecido en la ley.
+3. En todo caso, el Reglamento reconocerá el derecho de los discrepantes a formular votos particulares, que deberán unirse al acuerdo correspondiente, y establecerá los procedimientos de elaboración de los acuerdos.
+Se modifican los apartados 1 y 2 por el art. 2.13 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Artículo 17
+
+Artículo 17. Régimen del personal al servicio del Consejo.
+1. El personal al servicio del Consejo tendrá carácter laboral. Su régimen será el que corresponda al personal al servicio de la Administración de la Comunidad en lo que sea adecuado a su condición.
+2. El Pleno del Consejo formulará la propuesta de plantilla de personal del mismo, para su aprobación, si procede, por la Mesa de las Cortes de Castilla y León, previo informe de la Secretaria General de apoyo a las Instituciones Propias.
+3. El personal será seleccionado por el Consejo de acuerdo con los principios de igualdad, mérito, capacidad, concurrencia y publicidad y nombrado por su Presidente.
+Se modifica por el art. 2.14 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+ Redactado conforme a la corrección de errores publicada en BOCL núm. 10, de 15 de enero de 1991. Ref. BOCL-h-1991-90255
+
+## TÍTULO IV
+
+Régimen Económico, Presupuestario, Contable y Patrimonial
+Se modifica por el art. 2 de la Ley 8/1996, de 27 de diciembre. Ref. BOE-A-1997-2827
+
+### Artículo 18
+
+Artículo 18. Financiación y medios.
+1. El Consejo Económico y Social dispondrá de los medios materiales y personales necesarios de acuerdo con las previsiones contenidas al efecto en el Presupuesto de las Cortes de Castilla y León.
+2. Anualmente, el Pleno del Consejo elaborará un anteproyecto de Presupuesto de gastos, que será remitido a la Mesa de las Cortes de Castilla y León para su aprobación, si procede, e incorporación a la sección de las Cortes de Castilla y León de los Presupuestos Generales de la Comunidad Autónoma.
+Se modifica por el art. 2.15 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+ Se modifica el apartado 3 por la disposición final 6 de la Ley 9/2012, de 21 de diciembre. Ref. BOE-A-2013-665
+ Se modifica por el art. 2 de la Ley 8/1996, de 27 de diciembre. Ref. BOE-A-1997-2827
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Dentro del plazo de treinta días siguientes a la publicación de la presente Ley, se procederá a la designación de los miembros del Consejo en el modo establecido en la misma.
+Comunicadas las designaciones a la Junta de Castilla y León, ésta, dentro de los treinta días siguientes, procederá a su nombramiento mediante Decreto, que, asimismo, contendrá las previsiones, en orden a la celebración de la sesión constitutiva del Consejo. Hasta tanto no se hayan efectuado los nombramientos de Presidente y Secretario, el consejo será presidido por el miembro de mayor edad, actuando como Secretario el más joven.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El Consejo Económico y Social propondrá por mayoría de dos tercios la aprobación de su propio Reglamento de Organización y Funcionamiento en el plazo máximo de seis meses, a partir de la publicación de esta Ley en el «Boletín Oficial de Castilla y León».
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Se autoriza a la Junta de Castilla y León a efectuar las dotaciones necesarias, con cargo a los Presupuestos Generales, para el funcionamiento del Consejo hasta la aprobación de su Presupuesto. De tales dotaciones se dará cuenta a la Cortes de Castilla y León.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Cuando alguna de las Organizaciones representadas en el Consejo sufriere, por motivos electorales, alteración en cuanto a su representatividad, el Consejo adaptará su composición al nuevo estado en el plazo de dos meses a partir de la publicación de los resultados definitivos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Suprimida)
+Se suprime por el art. 2.16 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 28 de noviembre de 1990.
+JESÚS POSADA MORENO,
+Presidente de la Junta de Castilla y León

@@ -1,0 +1,477 @@
+# Ley 6/1985, de 24 de junio, del Consejo de Cuentas.
+
+- Identificador BOE: `BOE-A-1985-18554`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-18554
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El Estatuto de Autonomía de Galicia asume el poder presupuestario de la Comunidad Autónoma en los artículos 10 b) y 53. Asimismo, el artículo 17 a) de la Ley Orgánica de Financiación de las Comunidades Autónomas reconoce a éstas competencias normativas, de acuerdo con sus respectivos Estatutos, en la «elaboración, examen, aprobación y control de sus presupuestos...».
+Los artículos 136 y 153 d) de la Constitución consideran al Tribunal de Cuentas como supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público, atribuyéndole el control económico y presupuestario de las Comunidades Autónomas.
+La Ley Orgánica de Financiación de las Comunidades Autónomas en su artículo 22 reitera lo dispuesto en el artículo 153 d) de la Constitución y lo completa al sentar que el control económico y presupuestario de la actividad financiera de las Comunidades Autónomas puede concurrir tanto en el Tribunal de Cuentas como en otros sistemas e instituciones de control de carácter comunitario.
+Teniendo en cuenta lo anterior, es posible no sólo que cada Comunidad Autónoma cree sus propios órganos de control interno, o sea sus propios órganos interventores, sino también órganos de control externo.
+Por otra parte, es una realidad que el control político de la actividad, en general, de cada Administración Autonómica y el de la ejecución de sus propios presupuestos, en especial, corresponden a cada asamblea legislativa territorial.
+El Estatuto de Autonomía de Galicia en su artículo 53.2 prevé la creación de sus propios órganos de control económico y presupuestario externo, al señalar: «Sin perjuicio de lo dispuesto en el artículo 136 y en el apartado d) del artículo 153 de la Constitución, se crea el Consejo de Cuentas de Galicia. Una Ley de Galicia regulará su organización y funcionamiento y establecerá las garantías, normas y procedimientos para asegurar la rendición de las cuentas de la Comunidad Autónoma, que deberá someterse a la aprobación del Parlamento.
+Por todo lo cual, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13. 2, del citado Estatuto y con el artículo 24 de la Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidente, promulgo, en nombre del Rey, la Ley del Consejo de Cuentas.
+
+## TÍTULO I
+
+Competencias
+
+### Art 1
+
+Art. 1. Competencias.
+1. El Consejo de Cuentas, como órgano de fiscalización externa de las cuentas y de la gestión económico-financiera y contable, ejercerá su función en relación con la ejecución de los programas de ingresos y gastos del sector público de la Comunidad Autónoma y asesorará al Parlamento de Galicia en materia económico-financiera.
+2. Depende directamente del Parlamento de Galicia y ejerce sus funciones con plena independencia y sometimiento al ordenamiento jurídico.
+3. Para garantizar una correcta gestión de las finanzas públicas, el Consejo de Cuentas asume la competencia de prevención de la corrupción en el ámbito del sector público de la Comunidad Autónoma.
+Se modifica el apartado 1 y se añade el 3 por el art. 1.1 y 2 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 2
+
+Art. 2. Ámbito de actuación.
+1. A los efectos de la presente ley, componen el sector público de la Comunidad Autónoma:
+a) La Administración general de la Comunidad Autónoma y las entidades instrumentales del sector público autonómico previstas en la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+b) Las entidades locales y los entes u organismos, cualquiera que sea su forma jurídica, dependientes o controlados directa o indirectamente por aquellas.
+c) Las universidades públicas del Sistema universitario de Galicia y las entidades en cuyo capital o fondo patrimonial equivalente tengan participación mayoritaria dichas universidades.
+d) Las corporaciones a las que se refiere el número 29 del artículo 27 del Estatuto de autonomía de Galicia.
+e) Los entes u organismos, cualquiera que sea su forma jurídica, en los cuales la participación de las entidades señaladas en las letras anteriores considerada conjuntamente sea mayoritaria o comporte su control público.
+2. Quedan sometidas a la actuación del Consejo de Cuentas, en la medida necesaria para el adecuado ejercicio de las funciones de este órgano:
+a) Las personas físicas y jurídicas beneficiarias de subvenciones, créditos, avales o cualquier otro tipo de ayuda pública otorgada por las entidades previstas en el apartado 1 de este artículo.
+b) Las formaciones políticas y las fundaciones y entidades vinculadas a las formaciones políticas o vinculadas a las mismas, exclusivamente en lo que atañe a la justificación de las subvenciones que reciban de alguna de las entidades a las que se refiere el apartado 1 de este artículo y sin perjuicio de las competencias del Tribunal de Cuentas y de lo establecido en la Ley orgánica 8/2007, de 4 de julio, sobre financiación de los partidos políticos.
+3. El Consejo de Cuentas realizará un seguimiento y dará cuenta del grado de cumplimiento de las recomendaciones emanadas de los informes emitidos.
+Se modifica por el art. 1.3 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se levanta la suspensión de la vigencia y aplicación de los apartados b) y d) por Auto de 13 de marzo de 1986. Ref. BOE-A-1986-7735
+ Se suspende la vigencia y aplicación de los apartados b) y d), desde el 9 de octubre de 1985, por providencia del TC de 16 de octubre de 1985 que admite a trámite el recurso de inconstitucionalidad 890/1985. Ref. BOE-A-1985-22831
+
+### Art 3
+
+Art. 3. Régimen interior.
+Corresponde al Consejo de Cuentas la competencia para todo lo concerniente al gobierno y al régimen interior del mismo y al personal a su servicio.
+Deberá elaborar su proyecto de presupuesto, que se integrará en los generales de la Comunidad Autónoma, en una Sección específica diferenciada, para que sea sometido a la aprobación del Parlamento de Galicia.
+
+### Art 4
+
+Art. 4. Fiscalización.
+Son funciones del Consejo de Cuentas de Galicia:
+a) Fiscalizar las funciones económico-financieras del sector público de Galicia, velando para que se ajuste al ordenamiento jurídico y al principio de racionalidad, determinada por criterios de eficiencia y economía.
+b) Fiscalizar las subvenciones, créditos y ayudas con cargo a los presupuestos de las entidades previstas en el apartado 1 del artículo 2, así como los avales y exenciones fiscales directas y personales concedidas por aquellos entes, ya fueran percibidas por personas físicas o jurídicas.
+c) Fiscalizar los contratos celebrados por la Administración autonómica y de las entidades previstas en el apartado 1 del artículo 2 en los casos en que se haya establecido así o en los que el Consejo de Cuentas lo considerase conveniente.
+d) Fiscalizar la situación y las variaciones del patrimonio de la Comunidad Autónoma de Galicia y demás entidades previstas en el apartado 1 del artículo 2.
+e) Fiscalizar los créditos extraordinarios y suplementos de créditos, así como las incorporaciones, ampliaciones, transferencias y demás modificaciones de los créditos presupuestarios iniciales.
+f) Emitir dictámenes y consultas que en materia de contabilidad pública y de gestión económico-financiera le soliciten las instituciones y entidades previstas en el apartado 1 del artículo 2, así como atender a las consultas del Parlamento sobre los presupuestos de la Comunidad Autónoma y su ejecución y liquidación, y emitir opinión, a solicitud del Parlamento o de la Xunta, sobre proyectos normativos que afecten a los ingresos o gastos públicos.
+g) Analizar la utilización de los recursos disponibles, atendiendo al menor coste en la realización del gasto y formular las propuestas tendentes a mejorar los servicios prestados por el sector público de Galicia.
+h) Fiscalizar el grado de cumplimiento de los objetivos propuestos en los diversos programas presupuestarios y en las Memorias de las subvenciones, créditos, ayudas y de los avales, e indicar, en su caso, las causas de incumplimiento.
+i) Emitir informes facultativos, a petición de la consejería competente en materia de hacienda, a instancia del órgano de control competente en razón a la materia de la Administración que tenga atribuida la tutela financiera de las entidades locales de Galicia, para resolver las discrepancias que le sean elevadas a este órgano por las personas que ocupen la presidencia de las entidades locales a través del procedimiento regulado en la normativa del Estado.
+j) Fiscalizar la evolución de los bienes patrimoniales de las personas que ocupan altos cargos en el sector público autonómico.
+Se modifica por el art. 1.4 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 5
+
+Art. 5. Enjuiciamiento.
+1. Si en el ejercicio de su función fiscalizadora el Consejo de Cuentas advirtiera la existencia de indicios de responsabilidad contable, dará traslado de las correspondientes actuaciones al Tribunal de Cuentas para que este efectúe el enjuiciamiento de las mismas.
+2. Asimismo, en materia de enjuiciamiento contable, realizará todas las funciones que le delegue el Tribunal de Cuentas, de acuerdo con lo que prevé la Ley Orgánica 2/1982, de 12 de mayo.
+Se modifica el apartado 1 por el art. 1.5 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se declara inconstitucional y nulo el inciso destacado del apartado 1 por Sentencia del TC 18/1991, de 31 de enero. Ref. BOE-T-1991-5258
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1 por Auto de 13 de marzo de 1986. Ref. BOE-A-1986-7735
+ Se suspende la vigencia y aplicación del apartado 1, desde el 9 de octubre de 1985, por providencia del TC de 16 de octubre de 1985 que admite a trámite el recurso de inconstitucionalidad 890/1985. Ref. BOE-A-1985-22831
+
+### Art 5 bis
+
+Art. 5 bis. Prevención de la corrupción.
+El Consejo de Cuentas desempeña las siguientes competencias en materia de prevención de la corrupción:
+a) Colaborar con las administraciones sujetas al ámbito de actuación del Consejo de Cuentas y hacerles propuestas en la elaboración de códigos de conducta y manuales internos de gestión de riesgos que permitan garantizar el comportamiento ético de los gestores públicos.
+b) Solicitar información a las administraciones relativas a sus sistemas de prevención de la corrupción, comprobando el adecuado diseño e implantación de las políticas de integridad y proponiendo mejoras que garanticen la transparencia y reduzcan las oportunidades de fraude.
+En este sentido, deberá evaluar de manera sistemática los planes de prevención de riesgo de la corrupción que realicen las instituciones y entes del sector público de la Comunidad Autónoma, en los cuales habrán de analizar las actividades en las que se constate una mayor incidencia de riesgo.
+c) Asesorar al Parlamento, la Administración autonómica y las administraciones sujetas al ámbito de actuación del Consejo de Cuentas sobre los instrumentos normativos o internos de prevención y represión de la corrupción.
+d) Fomentar la conciencia y participación ciudadana a favor de la transparencia y el comportamiento ético en el sector público e impulsar dentro del sector privado el establecimiento de mecanismos de autorregulación a fin de evitar prácticas irregulares, en particular en las empresas licitadoras y adjudicatarias de contratos, concesionarias de servicios públicos y beneficiarias de subvenciones y ayudas públicas.
+Se añade por el art. 1.6 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+## TÍTULO II
+
+Organización y funcionamiento
+
+## CAPÍTULO I
+
+Organización
+
+### Art 6
+
+Art. 6. Órganos.
+Son órganos del Consejo de Cuentas:
+1. El Pleno.
+2. El consejero o consejera mayor.
+3. La Comisión de Gobierno.
+4. Las Secciones:
+a) De Fiscalización.
+b) De Enjuiciamiento.
+c) De Prevención de la Corrupción.
+5. Los consejeros o consejeras.
+6. La Secretaría General.
+Se modifica por el art. 1.7 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 7
+
+Art. 7.
+1. El Pleno estará integrado por cinco Conselleiros, de los que uno será el Conselleiro Mayor.
+2. El Pleno quedará válidamente constituido cuando estén presentes tres de sus miembros, y los acuerdos serán adoptados por mayoría de los presentes.
+3. Corresponde al Pleno:
+a) Ejercer la función fiscalizadora de acuerdo con las disposiciones de esta Ley.
+b) Adoptar las disposiciones necesarias para cumplir los fines que esta Ley encomienda al Consejo de Cuentas.
+c) Aprobar el proyecto de presupuesto.
+d) Aprobar todos los informes, Memorias, propuestas, dictámenes y consultas que formulen los órganos competentes del Consejo de Cuentas.
+e) Proponer el nombramiento de uno de sus miembros para el cargo de Consejero Mayor.
+f) Resolver los conflictos de atribuciones y cuestiones de competencia entre los diversos órganos del Consejo de Cuentas.
+g) Designar a los presidentes o presidentas de las secciones de Fiscalización y Enjuiciamiento.
+h) Nombrar el Secretario general.
+i) Plantear los conflictos que afectan a las competencias o atribuciones del Consejo.
+l) Celebrar protocolos o convenios de colaboración o cooperación con otros órganos externos de fiscalización del sector público o con entidades públicas o privadas con la finalidad de mejorar el ejercicio de las funciones del Consejo de Cuentas.
+ll) (Suprimida).
+m) Aprobar el plan anual de trabajo del Consejo, así como la memoria anual de actividades y la relación de puestos de trabajo.
+n) Las demás funciones que por ley se le encomienden.
+4. El Pleno será convocado por el Conselleiro Mayor, a iniciativa propia o siempre que lo soliciten, por lo menos, dos de sus miembros.
+Se modifican las letras g) y l), se suprime la ll) y se añaden dos nuevas letras m) y n) al apartado 3 por el art. 1.8 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se modifican los apartados 1, 2 y 4 por el art. 1 de la Ley 4/1986, de 26 de diciembre. Ref. BOE-A-1987-3503
+
+### Art 8
+
+Art. 8. El Consejero Mayor.
+1. El Consejero Mayor será nombrado por un período de tres años por el Presidente de la Xunta, a propuesta del Pleno, de entre sus miembros.
+2. El Consejero Mayor cesará en su cargo: Por expiración del período de su mandato; por renuncia; por invalidez permanente, que lo incapacite para el ejercicio de su función; o cuando pierda su condición de Consejero.
+3. El Consejero Mayor será sustituido provisionalmente en caso de ausencia y enfermedad, así como en el supuesto de vacante, hasta que se produzca el nuevo nombramiento, por el Consejero de mayor antigüedad de entre los que integran la Comisión de Gobierno, dirimiéndose la sustitución, en caso de empate, en favor del Consejero de mayor edad.
+4. Son atribuciones del Consejero Mayor:
+a) Representar al Consejo de Cuentas.
+b) Convocar y presidir el Pleno, la Comisión de Gobierno y la Sección de Prevención de la Corrupción, así como decidir con su voto de calidad en caso de empate.
+c) Ejercer la jefatura superior del personal.
+d) La ejecución del estado de gastos, así como la contratación de obras, bienes, servicios, suministros y demás prestaciones necesarias para su funcionamiento.
+e) Resolver las demás cuestiones de carácter interno no asignadas a otros órganos del Consejo.
+f) Las demás que le reconozca la Ley.
+Se modifican los apartados 4.b) y d) por el art. 1.9 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 9
+
+Art. 9. La Comisión de Gobierno.
+1. La Comisión de Gobierno está constituida por el Consejero Mayor y los Consejeros de Cuentas Presidentes de Sección.
+2. Corresponde a la Comisión de Gobierno:
+a) Establecer el régimen de trabajo del personal.
+b) Distribuir los asuntos entre las Secciones.
+c) Ejercer las funciones relativas al nombramiento y contratación del personal, gobierno y administración en general.
+d) Ejercer la potestad disciplinaria respecto al personal, de acuerdo con las normas de régimen interior.
+e) Nombrar los Delegados instructores.
+f) Las otras facultades que el Pleno delegue para la mayor eficacia en el ejercicio de las funciones propias del Consejo.
+
+### Art 10
+
+Art. 10. Las Secciones.
+1. Corresponderá a la Sección de Fiscalización la verificación de la contabilidad de las Entidades del sector público de Galicia y el examen y la comprobación de sus cuentas.
+Se organizará en Departamentos sectoriales, a cuyo frente estará un Consejero por cada uno.
+2. Corresponde a la Sección de Enjuiciamiento, en el marco establecido por el artículo 5 de esta Ley, la instrucción de los procedimientos jurisdiccionales y el enjuiciamiento de las responsabilidades contables de aquellos que tienen a su cargo caudales o efectos públicos conforme a las funciones del Consejo de Cuentas.
+2 bis. Corresponde a la Sección de Prevención de la Corrupción el ejercicio de las funciones descritas en el artículo 5 bis de la presente ley. Estará presidida por el consejero o consejera mayor y actuará asistida por el personal del Consejo de Cuentas. La sección elaborará un programa anual de actividades que elevará al Pleno para su integración en el plan de trabajo del Consejo de Cuentas. Si en el ejercicio de sus funciones se observasen indicios de conductas o hechos que pudieran ser constitutivos de delito, estos se pondrán de forma inmediata en conocimiento del Ministerio Fiscal o de la autoridad judicial.
+3. Los presidentes o presidentas de las secciones de Fiscalización y Enjuiciamiento serán designados por el Pleno para un periodo de tres años.
+Se añade el apartado 2 bis y se modifica el 3 por el art. 1.10 y 11 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 10 bis
+
+Art. 10 bis. Consejeros o consejeras.
+Los consejeros o consejeras son los competentes para dirigir la actividad fiscalizadora correspondiente al departamento sectorial al que hayan sido adscritos por el Pleno del Consejo y del cual serán responsables
+Se añade por el art. 1.12 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 11
+
+Art. 11. La Secretaría General.
+1. El Secretario general desempeñará las funciones conducentes al adecuado ejercicio de las competencias gubernativas del Pleno, de la Comisión de Gobierno y del Consejero Mayor en todo lo relativo al régimen interior del Consejo de Cuentas.
+2. El Secretario general velará especialmente por la redacción de las actas de las sesiones del Pleno y de la Comisión de Gobierno, formará el anteproyecto de presupuesto y el proyecto de memoria anual que se deban someter al Pleno.
+3. La persona titular de la Secretaría General habrá de ser licenciada, o con título equivalente, en Derecho y funcionaria del grupo A, subgrupo A1, de la Administración general de la Comunidad Autónoma de Galicia, de otras comunidades autónomas, de la Administración local o del Estado, o personal letrado del Consejo Consultivo o del Parlamento de Galicia.
+Se añade el apartado 3 por el art. 1.13 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+## CAPÍTULO II
+
+FUNCIONAMIENTO
+
+## Sección 1
+
+Sección 1.ª Los miembros del Consejo
+
+### Art 12
+
+Art. 12. Los Consejeros.
+1. Los Conselleiros, en número de cinco, son designados por el Parlamento mediante votación por mayoría de tres quintas partes, para un período de seis años. Si se produjesen vacantes, se cubrirán de acuerdo con lo establecido anteriormente y por el tiempo que reste de mandato.
+2. Los consejeros o consejeras de cuentas son independientes e inamovibles y serán elegidos entre consejeros o consejeras del Tribunal de Cuentas, censores o censoras jurados de cuentas, magistrados o magistradas, fiscales, funcionarios o funcionarias públicos pertenecientes a cuerpos clasificados en el subgrupo A1, y entre personas licenciadas o graduadas en Derecho, en Ciencias Económicas o con títulos equivalentes de reconocida competencia con más de doce años de ejercicio profesional en las áreas que son competencia del Consejo de Cuentas.
+2 bis. Non podrán ser designados consejeros o consejeras de cuentas las personas que, en los seis años anteriores, hayan estado comprendidas en alguno de los supuestos siguientes:
+a) Haber tenido la condición de miembros del Parlamento de Galicia, de las Cortes Generales, del Parlamento Europeo, del Consejo de Gobierno de la Xunta de Galicia o de las entidades locales.
+b) Haber formado parte de los órganos de dirección de partidos políticos o de organizaciones representativas de los trabajadores y trabajadoras o de los empresarios y empresarias.
+3. No podrán ser designados consejeros o consejeras de cuentas las personas que, en los dos años anteriores, hayan estado comprendidas en alguno de los supuestos siguientes:
+a) El personal directivo y los empleados y empleadas del sector público de Galicia que hubiesen tenido a su cargo la gestión, inspección o intervención de los ingresos y gastos de dicho sector.
+b) Los presidentes o presidentas, directores o directoras y miembros de los consejos de administración o asimilados de las entidades previstas en el apartado 1 del artículo 2.
+c) Los particulares que, excepcionalmente, hubiesen administrado, recaudado o custodiado fondos o valores públicos.
+d) Las personas perceptoras de las subvenciones con cargo a fondos públicos.
+e) Cualquier otra persona que hubiese tenido la condición de cuentadante ante el Consejo de Cuentas.
+f) Los beneficiarios de avales o exenciones fiscales directas y personales concedidas por cualquier de los entes indicados en el apartado 1 del artículo 2.
+4. Con seis meses de antelación a la expiración del mandato de los consejeros y consejeras, el consejero o consejera mayor se dirigirá a la Presidencia del Parlamento de Galicia solicitando que se proceda al nombramiento de nuevos consejeros o consejeras. Una vez recibida tal comunicación, en el plazo máximo de seis meses, el Parlamento de Galicia, previos los trámites oportunos, deberá proceder a la votación establecida en el apartado 1 de este artículo.
+5. Los consejeros y consejeras de cuentas tendrán como límite máximo de permanencia en sus cargos la edad de 72 años.
+6. Las personas candidatas propuestas por los grupos parlamentarios para ser miembros del Consejo de Cuentas habrán de comparecer ante la comisión correspondiente del Parlamento de Galicia con arreglo a su Reglamento a fin de examinar su idoneidad para el cargo.
+7. Las personas miembros del Consejo de Cuentas están sujetas a las mismas obligaciones en materia de transparencia que la normativa vigente exija a los consejeros y consejeras de la Xunta de Galicia.
+Se modifican los apartados 2 y 3 y se añaden nuevos apartados 2 bis, 4, 5, 6 y 7 por el art. 1.14 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se modifica el apartado 1 por el art. 2 de la Ley 4/1986, de 26 de diciembre. Ref. BOE-A-1987-3503
+
+### Art 13
+
+Art. 13. Incompatibilidades.
+1. Los miembros del Consejo de Cuentas estarán sujetos a las mismas causas de incapacidad, incompatibilidad y prohibiciones establecidas para los Jueces en la Ley Orgánica del Poder Judicial.
+2. La condición de miembro del Consejo de Cuentas de Galicia es incompatible con:
+a) La de Diputado del Parlamento de Galicia o de cualquier otro Parlamento Autonómico.
+b) La de Diputado del Congreso de los Diputados.
+c) La de Senador.
+d) La de miembro del Tribunal de Cuentas.
+e) La de Valedor del Pueblo.
+f) La de Defensor del Pueblo.
+g) Cualquier cargo político o administrativo del Estado, las comunidades autónomas y las entidades locales o sus entidades dependientes, cualquiera que fuera su forma jurídica.
+h) El ejercicio de funciones directivas o ejecutivas en partidos políticos, centrales sindicales, Organizaciones empresariales y Colegios profesionales.
+i) La de miembro de cualquiera de los órganos asesores de la Xunta de Galicia.
+j) El ejercicio de su profesión o de cualquier otra actividad remunerada, excepto la docencia, la producción y creación literaria, artística, científica y técnica y las publicaciones derivadas de aquella en los términos previstos en la normativa reguladora del Poder Judicial, siempre que dicha remuneración no provenga de alguna de las entidades del sector público de la Comunidad Autónoma o de las personas físicas o jurídicas que están sometidas a la actuación del Consejo de Cuentas en virtud de lo dispuesto en los apartados 2 y 3 del artículo 2 de esta ley.
+3. Si la designación recayera en alguna de las personas a las que se refiere el apartado anterior, antes de tomar posesión, deberá renunciar a su cargo o función.
+4. El nombramiento de los miembros del Consejo de Cuentas implicará, en su caso, la declaración del interesado en la situación de servicios especiales o equivalentes en la carrera o Cuerpo de procedencia.
+Se modifica el apartado 2 por el art. 1.1 de la Ley 1/2023, de 14 de marzo. Ref. BOE-A-2023-18339
+ Se modifica el apartado 2.g) por el art. 1.15 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 14
+
+Art. 14. Abstención y recusación.
+Para los Consejeros rigen las causas de abstención y de recusación siguientes:
+a) Tener interés personal en el asunto o en la Empresa o Entidades interesadas, o tener cuestión litigiosa pendiente o relación de servicio con algún interesado.
+b) Tener parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado con cualquiera de los cuentadantes o administradores de las entidades indicadas en el apartado 1 del artículo 2.
+c) Tener amistad íntima o enemistad manifiesta con algunas de las personas señaladas en el apartado anterior.
+Se modifica el apartado b) por el art. 1.16 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2 de la citada Ley.
+
+### Art 15
+
+Art. 15. Responsabilidad.
+La responsabilidad disciplinaria del Consejero mayor y de los Consejeros deberá ser establecida por las normas de régimen interior del Consejo de Cuentas.
+
+### Art 16
+
+Art. 16. Pérdida de la condición.
+Los miembros del Consejo de Cuentas de Galicia pierden su condición por las siguientes causas:
+a) Por muerte o por renuncia presentada y aceptada por el Parlamento.
+b) Por extinción del mandato al expirar el término.
+c) Por incapacidad declarada por decisión judicial firme.
+d) Por inhabilitación para el ejercicio de los derechos políticos declarada por decisión judicial firme.
+e) Por condena en sentencia firme a causa de delito.
+f) Por incumplimiento de las obligaciones del cargo, conforme a las normas de régimen interior del Consejo de Cuentas.
+g) Tener cumplida la edad fijada en el artículo 12 como límite máximo de permanencia.
+Se añade el apartado g) por el art. 1.17 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+## Sección 2
+
+Sección 2.ª Personal al servicio del Consejo
+
+### Art 17
+
+Art. 17. Régimen general.
+1. El personal que preste servicios en el Consejo de Cuentas se regirá por la legislación reguladora del empleo público de Galicia, sin perjuicio de las normas específicas que le sean de aplicación.
+2. El desempeño de la función pública en el Consejo de Cuentas será incompatible con cualquier otra función, destino o cargo, así como con el ejercicio profesional y con la intervención en actividades industriales, mercantiles o profesionales, incluso las consultivas y las de asesoramiento.
+2.bis El conjunto de puestos de trabajo vacantes recogidos en la relación de puestos de trabajo podrá constituir la oferta de empleo público del Consejo de Cuentas, de conformidad con lo dispuesto en la legislación de la Comunidad Autónoma de Galicia en materia de empleo público. La citada oferta de empleo público se comunicará a la Mesa del Parlamento de Galicia. La selección del personal del Consejo podrá efectuarse mediante convocatoria pública por los sistemas de oposición, concurso-oposición y concurso, debiendo garantizarse, en todo caso, los principios de igualdad, mérito, capacidad y publicidad, de conformidad con lo establecido en la legislación de la Comunidad Autónoma de Galicia en materia de empleo público.
+3. El personal del Consejo de Cuentas habrá de guardar confidencialidad y secreto respecto a los asuntos que conozca en razón de su trabajo.
+4. En el ejercicio de sus funciones de control sobre las personas físicas o jurídicas a las que se refiere el apartado 2 del artículo 2 de la presente ley el personal auditor del Consejo de Cuentas ostentará la condición de agente de la autoridad.
+5. Los puestos de trabajo reservados a personal funcionario de carrera se proveerán ordinariamente por el procedimiento de concurso específico.
+Se añade el apartado 2.bis por el art. 1.2 de la Ley 1/2023, de 14 de marzo. Ref. BOE-A-2023-18339
+ Se modifica por el art. 1.18 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 18
+
+Art. 18. Comisionados.
+1. El Consejo de Cuentas podrá comisionarse a expertos que tengan titulación adecuada al objeto de inspeccionar, revisar y comprobar documentación, libros, metálico, valores, bienes y existencias de las Entidades del sector público gallego, o cara practicar la función prevista en el apartado b) del artículo 4 de esta Ley, y, en general, para comprobar la realidad de las operaciones reflejadas en sus cuentas y emitir los informes correspondientes.
+2. No podrán ser comisionados los que incurran en alguno de los supuestos a que se refiere el número 3 del artículo 12.
+
+## Sección 3
+
+Sección 3.ª Documentación y Memoria anual
+
+### Art 19
+
+Art. 19. Documentación de las actuaciones.
+1. El resultado de la fiscalización se hará constar por medio de informes, mociones o notas dirigidas a la autoridad, organismo o entidad a las que afecten y de memorias ordinarias o extraordinarias, que se elevarán al Parlamento de Galicia, con remisión de copias a la Xunta de Galicia y a las indicadas autoridades, organismos y entidades afectadas, haciéndose públicos a través de los medios digitales del Consejo y del Parlamento. El Diario Oficial de Galicia publicará el correspondiente anuncio de la publicación, en el cual constará el enlace que permita acceder al texto completo de los informes.
+2. El Consejo de Cuentas hará constar cuantas infracciones, abusos o prácticas irregulares haya observado, con indicación de la responsabilidad en que, a su juicio, se haya incurrido y de las medidas para exigirla.
+3. El Consejo de Cuentas podrá emitir en cualquier momento, a petición del Parlamento o por iniciativa propia, informes o Memorias relativas a las funciones señaladas en esta Ley.
+Se modifica el apartado 1 por el art. 1.20 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 20
+
+Art. 20. Memoria anual.
+1. El Consejo de Cuentas de Galicia deberá elaborar y elevar al Parlamento una Memoria de sus actividades, que comprenderá el análisis de la Cuenta General de la Comunidad Autónoma y de las demás del sector público de Galicia. Se extenderá, además, a la fiscalización de la gestión económica de la Comunidad y del sector público gallego, y comprenderá, entre otros, los siguientes extremos:
+a) Observancia de la Constitución, del Estatuto de Autonomía de Galicia, de las leyes reguladoras de los ingresos y gastos del sector público de Galicia y, en general, de las normas que afectan a la actividad económico-financiera y contable del mismo.
+b) Cumplimiento de las previsiones y de la ejecución de los presupuestos de la Comunidad Autónoma, de las Entidades Locales y demás Entidades sujetas a su fiscalización.
+c) Racionalidad en la ejecución del gasto público basado en criterios de eficacia y economía.
+d) Ejecución de los programas de actuación, inversiones y financiación y demás planes o previsiones que rijan la actividad de las entidades previstas en el apartado 1 del artículo 2, así como el empleo o aplicación de subvenciones con cargo al presupuesto de la Comunidad Autónoma y de las exenciones fiscales directas y personales concedidas.
+2. El Consejo de Cuentas propondrá las medidas a adoptar, en su caso, para la mejora de la gestión económico-financiera del sector público de Galicia.
+3. Asimismo, la Memoria anual contendrá un informe de las actividades jurisdiccionales del Consejo durante el ejercicio correspondiente.
+4. La memoria anual contendrá un informe de las actividades desarrolladas por la Sección de Prevención de la Corrupción.
+Se modifica el apartado 1.d) y se añade el 4 por el art. 1.21 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1.b) por Auto de 13 de marzo de 1986. Ref. BOE-A-1986-7735
+ Se suspende la vigencia y aplicación del apartado 1.b), desde el 9 de octubre de 1985, por providencia del TC de 16 de octubre de 1985 que admite a trámite el recurso de inconstitucionalidad 890/1985. Ref. BOE-A-1985-22831
+
+## Sección 4
+
+Sección 4.ª Relaciones entre el Consejo de Cuentas y el Parlamento
+
+### Art 21
+
+Art. 21. Comisión parlamentaria.
+Una Comisión parlamentaria se encargará de las relaciones del Parlamento con el Consejo de Cuentas.
+
+### Art 22
+
+Art. 22. Las cuentas del Consejo.
+El examen de las cuentas del Consejo de Cuentas corresponde al Parlamento de Galicia, al que se deberán trasladar con esta finalidad como un anexo en la Memoria anual a que se refiere el artículo 20 de la presente Ley.
+
+## TÍTULO III
+
+Garantías, normas y procedimiento para asegurar la rendición de cuentas
+
+### Art 23
+
+Art. 23. Deber de colaboración.
+1. Todas las entidades y personas a las que se refiere el artículo 2 colaborarán con el Consejo de Cuentas en el ejercicio de las funciones de este, estando obligadas a suministrarle cuantos datos, estados, documentos, antecedentes o informes les solicite.
+Cuando la normativa vigente establezca la obligatoriedad de la auditoría de cuentas para determinadas entidades del sector público, se adjuntará el correspondiente informe al Consejo.
+2. Toda persona natural o jurídica, pública o privada, estará obligada a proporcionar, previo requerimiento, toda clase de datos, informes o antecedentes deducidos de sus relaciones económicas, profesionales o financieras con otras personas que sean necesarios para el ejercicio de las funciones de control previstas en la presente ley.
+3. El incumplimiento de los requerimientos del Consejo podrá suponer la aplicación de las multas coercitivas previstas en la presente ley. Si los requerimientos se refiriesen a la reclamación de justificantes de inversiones o gastos públicos y no fueran cumplidos en el plazo solicitado, se iniciará de oficio el oportuno expediente de reintegro. El Consejo de Cuentas pondrá en conocimiento del Parlamento de Galicia la falta de colaboración de los obligados a prestársela.
+4. Se trasladarán al Consejo de Cuentas las auditorías practicadas por los servicios competentes de la Administración autonómica o bajo la dirección de la misma.
+5. El personal auditor del Consejo de Cuentas tendrá, en el ejercicio de sus funciones, libre acceso a las oficinas, centros y dependencias, así como a las autoridades y personal de las entidades sujetas a control.
+En todo caso, la documentación y el acceso de los sistemas contables que fuesen necesarios para el ejercicio de sus funciones serán facilitados por el órgano controlado.
+6. Se crea una comisión mixta formada por representantes del Consejo de Cuentas y de la Intervención General de la Comunidad Autónoma con el objetivo de intercambiar información implantando la rendición telemática, facilitar el acceso a la documentación y mejorar el seguimiento de las recomendaciones contenidas en los informes de control. La composición, organización y funcionamiento de la comisión se regulará en un convenio de colaboración.
+Se modifica por el art. 1.22 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 24
+
+Art. 24. Procedimiento.
+1. Los procedimientos para el ejercicio de la función fiscalizadora se impulsarán de oficio en todos sus trámites.
+La iniciativa corresponde al propio Consejo y al Parlamento de Galicia.
+2. Los requerimientos de inhibición hechos al Consejo de Cuentas no producirán la suspensión del respectivo procedimiento.
+3. El procedimiento también podrá iniciarse de oficio por acuerdo del Pleno del Consejo de Cuentas, previa comunicación presentada por persona física o jurídica.
+Se añade el apartado 3 por el art. 1.23 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 24 bis
+
+Art. 24 bis. Conclusión de la fiscalización y derecho de audiencia.
+1. Una vez concluidos los procedimientos de fiscalización por el Consejo de Cuentas, el anteproyecto de informe, con la inclusión de todas las actuaciones practicadas, se les pondrá de manifiesto a los responsables del ente fiscalizado, para que en plazo no superior a treinta días aleguen o presenten los documentos y justificaciones que estimen pertinentes.
+2. Si la fiscalización se refiere a periodos en los que hayan sido otras personas las responsables del ente fiscalizado o las titulares del órgano, se les conferirá a estas igualmente la misma audiencia.
+Se añade por el art. 1.19 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 24 ter
+
+Art. 24 ter. Procedimiento específico en relación con la evolución de los bienes patrimoniales de las autoridades.
+1. Cuando el órgano responsable del Registro de Bienes Patrimoniales de Altos Cargos de la Xunta de Galicia aprecie una evolución inadecuada de la situación patrimonial de un alto cargo del sector público autonómico con respecto a sus ingresos acreditados, podrá recabar, a través de la consejería competente, en una petición razonada, que el Consejo de la Xunta de Galicia se dirija al Consejo de Cuentas para que proceda a fiscalizar la evolución de los bienes patrimoniales de dicho alto cargo.
+2. Para poder cumplir esta función fiscalizadora y una vez recibida la solicitud del Consejo de la Xunta, el Consejo de Cuentas tendrá acceso al Registro de Bienes Patrimoniales de Altos Cargos en los términos que reglamentariamente se determinen.
+3. El periodo objeto de fiscalización coincidirá con el del mandato del cargo público, de modo que no alcanzará, en ningún caso, periodos anteriores a la toma de posesión del cargo y finalizará cuando se produzca el cese efectivo de aquel.
+4. El alto cargo cuya situación patrimonial sea objeto de examen deberá aportar toda la información que le sea requerida, así como comunicar todas aquellas circunstancias que fueran relevantes para la elaboración del informe.
+5. El Consejo de Cuentas, en todo caso, habrá de remitir a la persona fiscalizada un borrador previo de conclusiones para permitirle, en un plazo de quince días, presentar alegaciones. Superado este trámite, el Consejo de Cuentas remitirá el resultado de esa fiscalización a la Xunta de Galicia y lo incorporará al informe anual que remite al Parlamento de Galicia.
+6. Si, como resultado de su fiscalización, el Consejo de Cuentas advirtiera indicios de responsabilidades administrativas, penales o de otra índole, deberá ponerlo en conocimiento de la autoridad u órgano administrativo o jurisdiccional competente en cada caso.
+Se añade por el art. 1.24 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 25
+
+Art. 25. Presentación de las cuentas.
+1. El Consejo de Cuentas, por delegación del Parlamento de Galicia, procederá al examen y comprobación de la cuenta general de la Comunidad Autónoma, dentro del plazo de seis meses, a partir de la fecha en que se haya rendido.
+El Pleno dictará la declaración definitiva que le merezca para elevarla al Parlamento, con la oportuna propuesta, dando traslado a la Xunta de Galicia, la cual deberá disponer la publicación de las conclusiones en el «Diario Oficial de Galicia».
+2. Las entidades locales habrán de remitir las cuentas de cada ejercicio directamente al Consejo, siendo la fecha límite para efectuar dicha remisión la misma que por la legislación estatal reguladora de las haciendas locales se establezca para la remisión de sus cuentas de cada ejercicio al Tribunal de Cuentas.
+El Consejo de Cuentas debe formar y unir la cuenta general de las entidades locales, que ha de ser reconocida por el Parlamento.
+3. A la cuenta general de la Comunidad Autónoma se acompañará la cuenta general de operaciones realizadas por las Corporaciones a que se refiere el número 29 del artículo 27 del Estatuto de Autonomía de Galicia.
+Se modifica el apartado 2 por el art. 1.25 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se levanta la suspensión de la vigencia y aplicación del apartado 2 por Auto de 13 de marzo de 1986. Ref. BOE-A-1986-7735
+ Se suspende la vigencia y aplicación del apartado 2, desde el 9 de octubre de 1985, por providencia del TC de 16 de octubre de 1985 que admite a trámite el recurso de inconstitucionalidad 890/1985. Ref. BOE-A-1985-22831
+
+### Art 26
+
+Art. 26. Cuentadantes.
+Serán cuentadantes en las que deban rendirse al Consejo de Cuentas:
+a) Los funcionarios y funcionarias y demás personal de las entidades del sector público gallego que tengan a su cargo la gestión de los ingresos y gastos públicos, así como las demás operaciones de administración.
+b) Los presidentes y presidentas o los directores y directoras de las entidades previstas en el apartado 1 del artículo 2.
+c) Los particulares que, excepcionalmente, administren, recauden o custodien fondos o valores de la Comunidad Autónoma, sin perjuicio de que sean intervenidas las respectivas operaciones.
+d) Los perceptores de las subvenciones corrientes a las que se refiere la legislación en materia de subvenciones.
+Se modifica por el art. 1.26 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Art 27
+
+Art. 27. Medios de apremio.
+1. Los medios de apremio que el Consejo podrá emplear gradualmente para asegurar la rendición de cuentas y el mejor cumplimiento de sus funciones, son:
+a) El requerimiento, entendiéndose por tal la orden que se comunique por el Consejo, fijando el plazo para el cumplimiento de un servicio.
+b) La imposición de multas coercitivas.
+c) La formación de oficio de cuenta retrasada y de los estados o documentos que se pidan, a cargo y riesgo del apremiado.
+2. En cualquier caso, y sin perjuicio de deducir tanto de culpa por desobediencia a los efectos de instrucción del proceso penal, el Consejo de Cuentas podrá proponer a la autoridad u órgano competente de que dependa el cuentadante la apertura del procedimiento sancionador.
+
+### Art 28
+
+Art. 28. Multas coercitivas.
+1. En caso de incumplimiento de los requerimientos efectuados, el Consejo de Cuentas de Galicia podrá imponer multas hasta la cuantía de un mes de sus haberes al personal al servicio de las entidades a las que se refiere el apartado 1 del artículo 2, y para los particulares hasta la cantidad de 600 €, por la primera vez, y de hasta dos meses o 6.000 €, respectivamente, en caso de reincidencia.
+2. Si el requerido al pago fuera personal al servicio de las entidades a las que se refiere el apartado 1 del artículo 2 y no lo hiciera efectivo, se ordenará al habilitado o pagador que, bajo su responsabilidad, haga efectivo el importe de la misma deduciendo de la primera mensualidad que le corresponda percibir o de las sucesivas, si excediese, en la cantidad que legalmente pueda ser descontada.
+3. Cuando el apremiado sea un particular, el Consejo, para efectividad de la multa, procederá a su cobro en voluntaria, y, de no efectuarse el pago, en vía ejecutiva, aplicando las normas de la Comunidad Autónoma que regulen la recaudación de sus tributos y, en su defecto, las normas estatales. A estos efectos, la correspondiente certificación de descubierto será expedida por el Secretario general del Consejo de Cuentas.
+4. De toda imposición de multa a altos cargos o personal de las Administraciones Autonómicas, Local o Corporativa se dará cuenta a la autoridad de que dependen, exponiendo las causas que hayan determinado dicho medio de apremio, para que, sin perjuicio de la exención de la multa por el Consejo de Cuentas, adopte aquellas otras medidas que estime convenientes.
+Se modifican los apartados 1 y 2 por el art. 1.27 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+ Se levanta la suspensión de la vigencia y aplicación de este artículo por Auto de 13 de marzo de 1986. Ref. BOE-A-1986-7735
+ Se suspende la vigencia y aplicación de este artículo, desde el 9 de octubre de 1985, por providencia del TC de 16 de octubre de 1985 que admite a trámite el recurso de inconstitucionalidad 890/1985. Ref. BOE-A-1985-22831
+
+### Disposición adicional
+
+En todo lo no regulado por esta Ley será de aplicación, en cuanto fuera conducente, lo establecido en la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas.
+
+### Disposición adicional bis
+
+Disposición adicional bis. Informe preceptivo.
+Se someterán a informe del Consejo de Cuentas las proposiciones de ley y los anteproyectos de ley que versen sobre su régimen jurídico o sobre el ejercicio de sus funciones. El Consejo de Cuentas emitirá su informe en el plazo de treinta días. Si en la orden de remisión se hiciese constar la urgencia del informe, el plazo será de quince días. Excepcionalmente, el órgano remitente podrá conceder una prórroga del plazo en atención a las circunstancias del caso. En el caso de los anteproyectos de ley, la Xunta remitirá dicho informe al Parlamento de Galicia.
+Se añade por el art. 1.28 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Disposición adicional ter
+
+Disposición adicional ter. Autorizaciones de ampliaciones y transferencias de crédito de los presupuestos del Consejo de Cuentas.
+Con sujeción a las limitaciones y requisitos establecidos con carácter general, las autorizaciones de ampliaciones y transferencias de crédito que se atribuyen a la persona titular de la consejería competente en materia de hacienda por la legislación vigente se entenderán referidas al órgano competente del Consejo de Cuentas en relación al presupuesto del mismo. Las modificaciones autorizadas habrán de ser comunicadas para su instrumentación a la dirección general competente en materia de presupuestos.
+Se añade por el art. 1.29 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Disposición adicional quáter
+
+Disposición adicional quáter. Medios electrónicos.
+La comunicación y remisión de los documentos elaborados por el Consejo de Cuentas se realizará, de forma preferente y con carácter ordinario, a través de medios electrónicos, con el objetivo de minimizar el uso del papel, impulsar las nuevas tecnologías y agilizar el funcionamiento del Consejo de Cuentas.
+Se añade por el art. 1.30 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### Disposición transitoria primera
+
+El Parlamento nombrará, en el plazo de tres meses desde la entrada en vigor de esta Ley, los miembros del Consejo de Cuentas, de acuerdo con el procedimiento establecido.
+
+### Disposición transitoria segunda
+
+En la primera sesión que se celebre después de constituirse el Consello de Contas, el Pleno debe designar a suerte tres Conselleiros, cuyo mandato durará tres años. Transcurrido el citado plazo, el Pleno del Parlamento designará los nuevos Conselleiros en la forma establecida por la Ley.
+Se modifica por el art. 2 de la Ley 4/1986, de 26 de diciembre. Ref. BOE-A-1987-3503
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Consolidación del empleo temporal.
+1. De acuerdo con lo previsto en la disposición transitoria cuarta del texto refundido de la Ley del estatuto básico del empleado público, aprobado por el Real decreto legislativo 5/2015, de 30 de octubre, y respetando los límites y requisitos fijados por la normativa básica estatal, podrá efectuarse, con carácter extraordinario y por una sola vez, con el fin de conseguir la estabilidad en el empleo público en el ámbito del Consejo de Cuentas de Galicia, una convocatoria de consolidación de empleo a plazas de auxiliar administrativo de dicho órgano, de carácter estructural, dotadas presupuestariamente y que se encuentran desempeñadas interinamente con anterioridad al 1 de enero de 2005.
+2. La correspondiente oferta de empleo público será aprobada por acuerdo del Pleno del Consejo de Cuentas de Galicia.
+3. El proceso selectivo, que será objeto de una convocatoria específica, garantizará el cumplimiento de los principios de igualdad, mérito, capacidad y publicidad.
+4. La convocatoria del proceso selectivo será efectuada por el Consejo de Cuentas de Galicia al amparo de su competencia para la selección de personal prevista en el artículo 72.3 del Reglamento de régimen interior de dicho órgano. Las bases del proceso selectivo serán aprobadas por el Pleno y la convocatoria será realizada por la Comisión de Gobierno, de acuerdo con lo dispuesto en el artículo 12.g) del reglamento. En relación con el órgano de selección será de aplicación lo dispuesto en el artículo 60 del texto refundido de la Ley del estatuto básico del empleado público y en el artículo 59 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia.
+5. El sistema selectivo será el concurso-oposición y la titulación exigida para el acceso será la correspondiente al grupo C, subgrupo C2, de los grupos de clasificación profesional del personal funcionario de carrera previstos en el texto refundido de la Ley del estatuto básico del empleado público. De conformidad con lo señalado en la disposición transitoria cuarta de dicho texto refundido, el contenido de las pruebas guardará relación con los procedimientos, tareas y funciones habituales de los puestos objeto de la convocatoria. En la fase de concurso se valorará, entre otros méritos, el tiempo de servicios prestados en las administraciones públicas y la experiencia en los puestos de trabajo objeto de la convocatoria.
+El proceso selectivo se desarrollará conforme a lo dispuesto en los números 1 y 3 del artículo 61 del texto refundido de la Ley del estatuto básico del empleado público. Será de aplicación, asimismo, lo señalado en el artículo 56.3 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia.
+6. Las personas que superen el proceso selectivo serán nombradas funcionarias de carrera del Consejo de Cuentas, del grupo C, subgrupo C2, y tomarán posesión en los correspondientes puestos de la relación de puestos de trabajo del Consejo de Cuentas. Estos destinos tendrán carácter definitivo, equivalente, a todos los efectos, a los obtenidos por concurso.
+Se añade por el art. 7 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Sistema transitorio de reconocimiento de la progresión en la carrera administrativa.
+Mientras no se implante un sistema de carrera profesional en el Consejo de Cuentas de Galicia, se establecerá, para el personal funcionario que preste servicios en el Consejo de Cuentas, un sistema transitorio de reconocimiento de progresión en la carrera administrativa que le permita a dicho personal progresar de manera voluntaria e individualizada, y que promueva su actualización y el perfeccionamiento de su cualificación profesional.
+El personal funcionario que preste servicios en el Consejo de Cuentas y que esté incluido dentro del ámbito de aplicación del número 4 de la disposición transitoria octava de la Ley 2/2015, de 29 de abril, podrá optar por acogerse al sistema transitorio previsto en dicho número o al recogido en la presente disposición.
+El personal funcionario que preste servicios en el Consejo de Cuentas de Galicia y quede encuadrado en el sistema transitorio regulado en esta disposición percibirá, de acuerdo con lo que se disponga para cada ejercicio presupuestario en la Ley de presupuestos de la Comunidad Autónoma, una retribución adicional al complemento de destino conforme al grupo o subgrupo profesional de pertenencia en la Administración de origen en el que preste servicios en el Consejo de Cuentas de Galicia.
+De conformidad con la disposición final primera del Reglamento de régimen interior del Consejo de Cuentas de Galicia, publicado por Resolución de 17 de febrero de 2017, el Pleno adoptará las normas necesarias para la aplicación del sistema transitorio previsto en esta disposición, incluidos, entre otros extremos, el procedimiento y los requisitos para el acceso a dicho sistema y para el cobro de la retribución adicional.
+Cuando se implante el sistema de carrera profesional en el Consejo de Cuentas de Galicia se tendrá en cuenta el desarrollo profesional alcanzado en aplicación de esta disposición.
+Se añade por el art. 8 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Disposición final
+
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
+
+### [firma]
+
+Santiago de Compostela, 24 de junio de 1985.
+GERARDO FERNÁNDEZ ALBOR,
+Presidente

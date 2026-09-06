@@ -1,0 +1,202 @@
+# Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de Abogado y Procurador de los Tribunales.
+
+- Identificador BOE: `BOE-A-2006-18870`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-18870
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de la Abogacía y la Procura", según establece el art. 1.1 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La regulación del régimen de acceso a la profesión de abogado en España es una exigencia derivada de los artículos 17.3 y 24 de la Constitución: estos profesionales son colaboradores fundamentales en la impartición de justicia, y la calidad del servicio que prestan redunda directamente en la tutela judicial efectiva que nuestra Constitución garantiza a la ciudadanía.
+Esta ley constituye, por tanto, complemento de lo dispuesto al efecto en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y en la Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita, que consagran la función de los abogados, a los que reserva la dirección y defensa de las partes, de modo que a los mismos corresponde garantizar la asistencia letrada al ciudadano en el proceso, de forma obligatoria cuando así lo exija la norma procesal y, en todo caso, como derecho a la defensa expresamente reconocido por la Constitución. La asistencia del abogado, conforme al concepto amplio de tutela al que debe aspirarse, comprende también las actuaciones profesionales tendentes a evitar el proceso mediante fórmulas preventivas y compositivas así como, en general, el asesoramiento en Derecho.
+También el procurador, al que la LOPJ otorga la representación de las partes cuando así lo establezca la norma procesal, garantiza la asistencia jurídica siendo, pues, imprescindible prever también los requisitos necesarios para el acceso a esta profesión, en línea con la tradición que ya existió en España.
+La experiencia del Derecho comparado muestra que la actuación ante los tribunales de justicia y las demás actividades de asistencia jurídica requieren la acreditación previa de una capacitación profesional que va más allá de la obtención de una titulación universitaria. Ello justifica la regulación de dos títulos profesionales complementarios al título universitario en Derecho: el título profesional de abogado, exigible para prestar asistencia jurídica utilizando la denominación de abogado; y el título profesional de procurador, exigible para actuar ante los tribunales en calidad de tal.
+Además, en una Europa que camina hacia una mayor integración, se hace imprescindible la homologación de estas profesiones jurídicas, en orden a garantizar la fluidez en la circulación y el establecimiento de profesionales, uno de los pilares del mercado único que constituye base esencial de la Unión Europea.
+II
+Debe recordarse que la necesaria capacitación profesional de estos colaboradores en el ejercicio de la tutela judicial efectiva ha sido una reivindicación constante de los representantes de las profesiones. Todos los congresos de la abogacía española, de manera significativa el de León de 1970, el de Palma de Mallorca de 1989, el de La Coruña de 1995, el de Sevilla de 1999 y el de Salamanca de 2003, y las reuniones de las juntas de gobierno de los colegios de abogados desde Santander en 1994, Girona en 1997, Valencia en el 2001 y Santa Cruz de Tenerife en 2005, expresando el sentir unánime de la abogacía española, han reivindicado la garantía de una formación inicial igual para todos los profesionales de la abogacía. En particular, en el VI Congreso de la Abogacía Española se destacó la importancia fundamental de la formación profesional práctica y la necesaria homogeneidad en la evaluación de tal capacitación para equipararse a los profesionales de la Unión Europea, instando la regulación de la materia por parte de los poderes públicos. También las segundas Jornadas de las Juntas de Gobierno de los Colegios de Abogados de 1997 aprovecharon la entrada en vigor de la regulación sobre asistencia jurídica gratuita para insistir en esta cuestión, dando un paso más con el establecimiento del certificado de aptitud profesional, que, aun voluntario, es exigido por los colegios para la inclusión del profesional en el turno de oficio.
+La procura también ha insistido en la materia. En su X Congreso Nacional del año 2000, se señaló que debe regularse «el acceso al ejercicio de la profesión de procurador, homologándola al resto de los países de la Unión Europea, sin perjuicio de la función específica de cada profesión», lo que se reiteró, como ejemplo, en el VII Congreso Internacional del Comité de Postulantes de Justicia Europeos, celebrado en Mallorca en el año 2004.
+Otros operadores jurídicos se han mostrado sensibles a la cuestión. El propio Libro Blanco de la Justicia presentado por el Consejo General del Poder Judicial en 1997 reclamó la capacitación práctica de estos profesionales. Asimismo, las Conclusiones de la X Conferencia de Decanos y Decanas de las Facultades de Derecho de las Universidades Españolas, reunida en Vigo el día 28 de junio de 2004 señalaron «la asunción de la necesidad y urgencia de regular el acceso a las profesiones de abogado y de procurador», añadiendo que el modelo debía contemplar «esencial y principalmente la superación de cursos de contenido práctico, a programar, organizar e impartir conjuntamente por las facultades de Derecho y los colegios de abogados», haciendo referencia complementaria a la posibilidad de una prueba objetiva final.
+Y, de modo muy significativo, el Pacto de Estado sobre la Justicia del año 2001 se refirió también a la cuestión en su punto 20, previendo «fórmulas homologadas con los países miembros de la Unión Europea para garantizar la preparación para el ejercicio de la profesión».
+III
+El texto subraya la importancia de la formación práctica de los profesionales, de modo que quede garantizada de forma objetiva su capacidad para prestar la asistencia jurídica constitucionalmente prevista.
+A tal fin, conjuga la idoneidad formativa de las universidades con el acervo de experiencia de los colegios profesionales. Debe destacarse que la colaboración entre universidades y colegios profesionales es una de las claves del sistema. Manifestación significativa de ello es que los cursos de formación requieran un periodo de prácticas profesionales externas cuya existencia se asegura mediante el correspondiente convenio entre la universidad y los colegios profesionales.
+El reconocimiento a efectos profesionales de la formación práctica adicional al grado en Derecho permite coordinar e integrar el proceso con el sistema de estudios universitarios, con el que, sin embargo, y con pleno respeto a la autonomía universitaria y a su regulación sectorial, no se interfiere. Ahora bien, tal y como prevé ya la regulación universitaria, no puede prescindirse en este caso del establecimiento de criterios a los que deberán sujetarse los estudios universitarios a los efectos de posibilitar el acceso a la obtención de los títulos profesionales que se regulan. A tal fin se dispone la necesaria acreditación de los contenidos formativos conjuntamente por el Ministerio de Justicia y el Ministerio de Educación y Ciencia, con la decisiva exigencia de prácticas externas, profesorado especialmente cualificado para la impartición de esta formación de contenido práctico, etc.
+Por otra parte, el modelo no puede obviar la realidad de la existencia de numerosas y prestigiosas escuelas de práctica jurídica para abogados, cuya integración en el sistema descrito se produce por su necesario concierto con las universidades.
+En todo caso, para garantizar de forma objetiva la capacitación profesional del licenciado en Derecho así formado, se incluye al final del periodo formativo práctico una evaluación de naturaleza general, creando a tal fin una comisión plural con importante representación de los sectores universitarios y profesionales afectados.
+IV
+Entrando ya en el análisis del articulado, cabe destacar que se regulan dos títulos acreditativos de aptitud profesional, el título profesional de abogado y el título profesional de procurador de los tribunales. La ley no interfiere, más allá de constituir estos títulos, en los presupuestos de ejercicio profesional de la abogacía y la procura.
+Como establece el capítulo II, la formación que nos ocupa podrá ser impartida por las universidades, si bien no puede olvidarse que estamos ante un título profesional, de manera que, como ya se ha indicado, a efectos de admitir los correspondientes programas de estudios como suficientes para la capacitación profesional, y sin que ello interfiera en su validez académica, éstos cursos serán acreditados conjuntamente por el Ministerio de Justicia y el Ministerio de Educación y Ciencia. Ello otorga una gran flexibilidad al modelo y respeta al máximo la autonomía universitaria, pues permite que las universidades decidan qué configuración tendrán estos estudios en cada caso, sin interferir en la posibilidad de que, además, las universidades organicen otros estudios jurídicos de postgrado con la validez académica que les otorgue la normativa sectorial vigente.
+Asimismo, se reconoce la validez de la formación práctica impartida en las escuelas de práctica jurídica de abogados, dentro de los convenios antes referidos, como reconocimiento a la labor de preparación de los profesionales que, sobre todo para la mejor tutela en la justicia gratuita, vienen realizando estas escuelas.
+En cuanto a la evaluación final se refiere, si bien la misma, para garantizar la objetividad, será única en todo el territorio nacional, razones de operatividad aconsejan su descentralización, con la creación de una comisión evaluadora para el territorio de cada comunidad autónoma donde tengan su sede los centros que impartan esta formación práctica.
+En cuanto a las disposiciones que complementan el texto, debe destacarse el establecimiento de un amplio periodo de «vacatio legis» previo a la entrada en vigor de esta norma, durante el que no se exigirán ni el título profesional de abogado ni el título profesional de procurador de los tribunales para colegiarse y ejercer las respectivas profesiones, de modo que no se quiebren las expectativas de los actuales estudiantes de la licenciatura o el grado en Derecho.
+Asimismo, se ha resuelto la cuestión de aquellos que ejercen el Derecho desde otra función para cuyo desempeño han superado pruebas selectivas acreditativas de capacitación jurídica, respecto de los cuales carecería de sentido someterlos a un proceso formativo y a una evaluación reiterativa si deciden pasar a desempeñar la abogacía o la procura.
+La competencia estatal está amparada en el artículo 149.1. 1.ª, 6.ª y 30.ª de la Constitución, de acuerdo con el artículo 36 de la misma, por lo que las previsiones de esta ley serán de aplicación en todo el territorio nacional.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y finalidad de la Ley.
+1. Esta Ley tiene por objeto regular las condiciones de obtención del título profesional para el ejercicio de las profesiones de la abogacía y de la procura, básicas para el ejercicio del derecho fundamental a la tutela judicial efectiva, con el fin de garantizar el acceso de la ciudadanía a un asesoramiento, defensa jurídica y representación técnica de calidad.
+2. La obtención del título profesional en la forma determinada por esta Ley y la colegiación como ejerciente en el Colegio de Abogados es necesaria para el desempeño de la asistencia letrada en aquellos procesos judiciales y extrajudiciales en los que la normativa vigente imponga o faculte la intervención de profesionales de la abogacía y, en todo caso, para prestar asistencia letrada o asesoramiento en Derecho utilizando la denominación de abogado o abogada; todo ello sin perjuicio del cumplimiento de cualesquiera otros requisitos exigidos por la normativa vigente para el ejercicio de la abogacía.
+3. La obtención del título profesional en la forma determinada por esta Ley y la colegiación como ejerciente en el Colegio de Procuradores es necesaria para desempeñar la representación legal de las partes en los procesos judiciales en calidad de procurador o procuradora, realizando los actos de comunicación a las partes y aquellos otros actos de cooperación con la Administración de Justicia que la Ley les autorice, así como para utilizar la denominación de procurador o procuradora de los tribunales, sin perjuicio del cumplimiento de cualesquiera otros requisitos exigidos por la normativa vigente para el ejercicio de la procura.
+4. La obtención del título profesional habilitará para la colegiación en el Colegio de Abogados o en el Colegio de Procuradores, según qué actividad se decida ejercer, no siendo posible simultanear ni la colegiación como ejerciente en un Colegio de Abogados y en un Colegio de Procuradores ni el ejercicio de ambas profesiones.
+Se modifica por el art. 1.2 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Artículo 2
+
+Artículo 2. Acreditación de capacitación profesional.
+1. Tendrán derecho a obtener el título profesional para el ejercicio de las profesiones de la abogacía y la procura las personas que se encuentren en posesión del título universitario de la Licenciatura en Derecho o del Grado en Derecho y que acrediten su capacitación profesional mediante la superación de la correspondiente formación especializada y la evaluación regulada por esta Ley.
+2. La formación especializada necesaria para poder acceder a las evaluaciones conducentes a la obtención de este título profesional, es una formación reglada y de carácter oficial que se adquirirá a través de la realización de cursos de formación acreditados conjuntamente por el Ministerio de Justicia y el Ministerio de Universidades, tras ser oídas las comunidades autónomas y en la forma que reglamentariamente se determine.
+3. El título profesional regulado en esta Ley será expedido por el Ministerio de Justicia o por los órganos correspondientes de las comunidades autónomas que hayan asumido la competencia ejecutiva en materia de expedición de títulos profesionales.
+Se modifica por el art. 1.3 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+ Se declara la inconstitucionalidad del apartado 3, con los efectos previstos en el fundamento jurídico 10, por Sentencia del TC 170/2014, de 23 de octubre. Ref. BOE-A-2014-12083.
+ Se modifica el apartado 3 por la disposición final 4.1 de la Ley 5/2012, de 6 de julio. Ref. BOE-A-2012-9112.
+ Se modifica el apartado 3 por la disposición final 3.1 del Real Decreto-ley 5/2012, de 5 de marzo. Ref. BOE-A-2012-3152.
+
+## CAPÍTULO II
+
+Formación especializada
+Se modifica la rúbrica por el art. 1.4 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Artículo 3
+
+Artículo 3. Formación.
+1. Los cursos de formación para la obtención del título profesional regulado en esta Ley podrán ser organizados e impartidos por universidades públicas o privadas, y por escuelas de práctica jurídica.
+2. Todos estos centros deberán establecer al efecto los convenios a los que se hace referencia en el presente capítulo.
+Se modifica por el art. 1.5 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Artículo 4
+
+Artículo 4. Formación universitaria.
+1. Los cursos de formación especializada a que se refiere el artículo anterior podrán ser organizados e impartidos por universidades públicas o privadas, en el marco de las enseñanzas conducentes a la obtención de un título oficial de Máster universitario, de acuerdo con lo establecido en la normativa reguladora de las enseñanzas universitarias oficiales de Máster así como en la presente Ley y su reglamento de desarrollo y, en su caso, dentro del régimen de precios públicos, y deberán ser acreditados, a propuesta de aquéllas, de conformidad con lo establecido en el artículo 2.2.
+2. Esta acreditación se otorgará sin perjuicio de las autorizaciones y aprobaciones exigidas por la normativa educativa a los efectos de la validez y titulación académica de los referidos cursos.
+3. Para la acreditación de los referidos cursos, será requisito indispensable que incorporen materias propias del ejercicio profesional de la abogacía y de la procura y la realización de un periodo de prácticas externas en los términos del artículo 6.
+4. Reglamentariamente se establecerá el procedimiento y los requisitos que deberán cumplir tales cursos para su acreditación periódica en lo referente a su contenido y duración, así como a la titulación y cualificación del profesorado, de modo que quede garantizada la presencia de la mitad, al menos, de profesionales colegiados ejercientes. El Reglamento posibilitará la impartición de estos estudios en cualquiera de las lenguas oficiales y, además, incluirán formación sobre el Derecho propio autonómico. La duración de los cursos será de 60 créditos, más los créditos necesarios para la realización de las prácticas externas referidas en el artículo 6.
+Se modifica por el art. 1.6 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Artículo 5
+
+Artículo 5. Escuelas de práctica jurídica.
+1. Las escuelas de práctica jurídica creadas por los colegios de abogados que hayan sido homologadas por el Consejo General de la Abogacía conforme a su normativa reguladora podrán organizar e impartir cursos que permitan acceder a la evaluación regulada en el artículo 7, siempre que los citados cursos sean acreditados conjuntamente por los Ministerios de Justicia y de Universidades, tras ser oídas las comunidades autónomas y en la forma que reglamentariamente se determine.
+2. Para que se pueda proceder a la acreditación y reconocimiento de sus cursos a los efectos de la determinación de su programa, contenido, profesorado y demás circunstancias, las escuelas de práctica jurídica deberán haber celebrado un convenio con una universidad, pública o privada, por el que se garantice el cumplimiento de las exigencias generales previstas en el artículo 4 para los cursos de formación. Asimismo, deberán prever la realización de un periodo de prácticas externas en los términos del artículo siguiente.
+Se modifica por el art. 1.7 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Artículo 6
+
+Artículo 6. Prácticas externas.
+1. Las prácticas externas en actividades propias del ejercicio profesional, con los requisitos que reglamentariamente se determinen, deberán constituir la mitad del contenido formativo de los cursos a que se refieren los artículos precedentes, quedando como parte integrante de los mismos. En ningún caso implicarán relación laboral o de servicios.
+2. Las prácticas se realizarán bajo la tutela de una persona profesional de la abogacía y, siempre que sea solicitado por el alumno, una persona profesional de la procura, ambas con un ejercicio profesional superior a cinco años. El Estatuto General de la Abogacía española y el Estatuto General de los Procuradores regularán los demás requisitos para el desempeño de la tutoría, que incluirán las medidas necesarias para fomentar que la formación sea impartida en todas las lenguas oficiales, así como los derechos y obligaciones de la persona profesional de la abogacía y, cuando corresponda, de la procura, que la ejerza, cuya infracción dará lugar a responsabilidad disciplinaria.
+3. En los supuestos regulados en los artículos 4 y 5.2 de esta Ley, deberá haberse celebrado un convenio entre la universidad y, al menos, un colegio profesional de abogados y un colegio de procuradores, que establezca la fijación del programa de prácticas y la designación de las correspondientes tutorías, el número máximo de alumnado que podrá asignarse a cada tutoría, los lugares o instituciones donde se efectuarán las prácticas, así como los mecanismos de control del ejercicio de estas, dentro de los requisitos fijados reglamentariamente.
+4. Una vez presentada una oferta de convenio por una universidad o una escuela de práctica jurídica, a los efectos de lo establecido en el artículo 4.3 en relación con los artículos 5.2 y 6.3 de esta Ley, y siempre que la misma reúna los requisitos mínimos que se establezcan por los ministerios responsables de la acreditación de los cursos de formación, en los términos previstos en el artículo 2.2, la parte a la que se presente la oferta no podrá rechazarla de forma arbitraria y deberá dictar resolución motivada en relación con la misma.
+Se modifica por el art. 1.8 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+## CAPÍTULO III
+
+Acreditación de la capacitación profesional
+
+### Artículo 7
+
+Artículo 7. Evaluación.
+1. La evaluación de la aptitud profesional, que culmina el proceso de capacitación profesional, tiene por objeto acreditar, de modo objetivo, formación práctica suficiente para el acceso al ejercicio profesional, así como el conocimiento de las normas deontológicas y profesionales.
+2. Las comisiones para la evaluación de la aptitud profesional serán convocadas conjuntamente por el Ministerio de Justicia y el Ministerio de Universidades, oídas las comunidades autónomas, el Consejo de Universidades, el Consejo General de la Abogacía y el Consejo General de los Colegios de Procuradores.
+3. Reglamentariamente se establecerá la composición de la comisión evaluadora para el acceso al ejercicio profesional, que será única para los cursos realizados en el territorio de una misma comunidad autónoma, asegurando la participación en ella de representantes del Ministerio de Justicia y del Ministerio de Universidades, y de miembros designados a propuesta de la respectiva comunidad autónoma. En todo caso, en la comisión evaluadora habrá miembros designados a propuesta del Consejo General de la Abogacía Española y un miembro designado a propuesta del Consejo General de Procuradores. El número de representantes designados a propuesta de cada ministerio, de la comunidad autónoma, y del Consejo General de la Abogacía Española será el mismo.
+4. Si el número de aspirantes así lo aconseja, podrá constituirse una única comisión evaluadora para los cursos realizados en el territorio de varias comunidades autónomas, señalándolo así en la convocatoria.
+5. La evaluación para el acceso al ejercicio profesional tendrá contenido único para todo el territorio español en cada convocatoria, sin perjuicio de las previsiones anexas que deberán incluirse en las convocatorias realizadas en territorios con lenguas cooficiales y Derecho propio. Reglamentariamente se determinará el procedimiento por el cual el Ministerio de Justicia fijará el contenido concreto de cada evaluación, con participación de las universidades organizadoras de los cursos, del Consejo General de la Abogacía Española, del Consejo General de los Procuradores de los Tribunales y de los respectivos Consejos de análoga naturaleza que pudieran existir en el ámbito autonómico.
+6. Las convocatorias tendrán una periodicidad mínima anual y no podrán establecer un número limitado de plazas.
+7. Reglamentariamente se regulará el procedimiento de convocatoria, lugares y forma de celebración de la evaluación, publicación y comunicación de los resultados y demás requisitos necesarios para su realización. Asimismo, se regularán el programa, que contemplará también materias relativas al Derecho propio de las comunidades autónomas, y el sistema de evaluación.
+Se modifica por el art. 1.9 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Disposición adicional primera
+
+Disposición adicional primera. Libertad de establecimiento.
+El ejercicio permanente en España de la profesión de abogado o procurador con título profesional obtenido en otro Estado miembro de la Unión Europea o del Acuerdo sobre el Espacio Económico Europeo se regulará por su legislación específica.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Ayudas y becas.
+El Gobierno garantizará la igualdad de oportunidades para el acceso al ejercicio de las profesiones de abogado y procurador; a tal efecto se establecerán ayudas y becas para aquellos licenciados en Derecho que quieran obtener cualquiera de las titulaciones a que se refiere la presente ley, de conformidad con el sistema nacional de becas.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Ejercicio profesional de los funcionarios públicos.
+1. La actuación del personal al servicio del Estado, de los órganos constitucionales, de las Administraciones Públicas o entidades públicas ante juzgados y tribunales en el desempeño de las funciones propias del cargo se regirá por lo dispuesto en el artículo 551 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y demás legislación aplicable, sin que en ningún caso le sea exigible la obtención del título regulado en esta ley.
+2. Los funcionarios públicos que hayan accedido a un cuerpo o escala del grupo A en su condición de licenciados en Derecho y desempeñen funciones de asistencia letrada o asesoramiento jurídico estarán exceptuados de obtener el título profesional para el ejercicio de las profesiones de la abogacía y de la procura a los efectos descritos en el artículo 1 de esta ley. También estarán exceptuados quienes hayan ingresado en el cuerpo de Letrados de las Cortes Generales, en alguno de los cuerpos de Letrados de las Asambleas legislativas autonómicas, en la Carrera Judicial, en la Carrera Fiscal, en el cuerpo de Letrados de la Administración de Justicia, o en alguno de los cuerpos comunes de las Fuerzas Armadas en su condición de licenciados en Derecho.
+Se modifica por el art. 1.10 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Adaptación de las normas colegiales a lo previsto en esta ley.
+Los colegios profesionales de abogados y procuradores adaptarán su normativa a lo previsto por esta ley.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Accesibilidad.
+Al objeto de favorecer el acceso de las personas con discapacidad a las profesiones de abogado y procurador de los tribunales, en el diseño y realización de los cursos y evaluaciones a que se refiere el artículo 2.2 de la presente ley, se tendrán en cuenta criterios de accesibilidad.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Consejos autonómicos.
+Las referencias al Consejo General de la Abogacía o al Consejo General de la Procura, o a sus respectivos Estatutos, contenidas en el articulado de la ley, se entenderán hechas, en su caso, a los respectivos consejos autonómicos o a su normativa reguladora, de conformidad con lo que disponga la legislación aplicable.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Grado en Derecho y licenciatura en Derecho.
+A los efectos de la presente ley, la referencia al grado en Derecho se entenderá hecha a la licenciatura en Derecho, cuando así corresponda.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Licenciados en Derecho.
+Los títulos profesionales que se regulan en esta Ley no serán exigibles a quienes obtengan un título de licenciado en Derecho con posterioridad a la entrada en vigor de la misma, siempre que en el plazo máximo de dos años, a contar desde el momento en que se encuentren en condiciones de solicitar la expedición del título oficial de licenciado en Derecho, procedan a colegiarse, como ejercientes o no ejercientes.
+Se modifica por la disposición final 4.2 de la Ley 5/2012, de 6 de julio. Ref. BOE-A-2012-9112.
+ Se añade por la disposición final 3.2 del Real Decreto-ley 5/2012, de 5 de marzo. Ref. BOE-A-2012-3152.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Títulos extranjeros homologados.
+Los títulos profesionales que se regulan en esta Ley no serán exigibles a quienes en el momento de entrada en vigor de la presente Ley hubieran solicitado la homologación de su título extranjero al de licenciado en Derecho, siempre que en el plazo máximo de dos años, a contar desde el momento en que obtengan dicha homologación, procedan a colegiarse, como ejercientes o no ejercientes.
+Se añade por la disposición final 4.3 de la Ley 5/2012, de 6 de julio. Ref. BOE-A-2012-9112.
+ Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 5/2012.
+ Se añade por la disposición final 3.3 del Real Decreto-ley 5/2012, de 5 de marzo. Ref. BOE-A-2012-3152.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Profesionales colegiados a la entrada en vigor de la exigencia de título profesional.
+1. Los títulos profesionales regulados en esta norma no serán exigibles a quienes ya estuvieran incorporados a un colegio de abogados o procuradores, como ejercientes o no ejercientes, en el momento de la entrada en vigor de la presente ley.
+2. Los títulos profesionales regulados en esta ley tampoco serán exigibles a quienes, sin estar incorporados a un colegio de abogados o procuradores a su entrada en vigor, hubieran estado incorporados antes de su entrada en vigor, como ejercientes o no ejercientes, durante un plazo continuado o discontinuo no inferior en su cómputo total a un año, siempre que procedan a colegiarse antes de ejercer como tales y no hubieran causado baja por sanción disciplinaria.
+3. Quienes en el momento de la entrada en vigor de la presente Ley se encontraran en posesión del título de licenciado o grado en Derecho o en condiciones de solicitar su expedición y no estuvieran comprendidos en el apartado anterior, dispondrán de un plazo máximo de dos años, a contar desde su entrada en vigor, para proceder a colegiarse, como ejercientes o no ejercientes, sin que les sea exigible la obtención de los títulos profesionales que en ella se regulan.
+Se modifica el apartado 3 por la disposición final 4.4 de la Ley 5/2012, de 6 de julio. Ref. BOE-A-2012-9112.
+ Se modifica el apartado 3 por la disposición final 3.4 del Real Decreto-ley 5/2012, de 5 de marzo. Ref. BOE-A-2012-3152.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Las disposiciones contenidas en esta ley, dictadas al amparo del artículo 149.1. 1.ª, 6.ª y 30.ª de la Constitución y de acuerdo con el artículo 36 de la misma, serán de aplicación en todo el territorio nacional.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación reglamentaria.
+Se faculta al Gobierno, a los Ministerios de Justicia y de Educación y Ciencia y al resto de departamentos ministeriales competentes para dictar cuantas disposiciones reglamentarias fueran necesarias para el desarrollo y ejecución de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor de esta ley.
+Esta ley entrará en vigor a los cinco años de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 30 de octubre de 2006.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

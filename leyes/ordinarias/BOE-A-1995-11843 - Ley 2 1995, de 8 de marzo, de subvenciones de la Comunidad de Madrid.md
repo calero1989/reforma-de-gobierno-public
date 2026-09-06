@@ -1,0 +1,431 @@
+# Ley 2/1995, de 8 de marzo, de subvenciones de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1995-11843`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-11843
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+En el moderno Estado Social y Democrático de Derecho es incuestionable la importancia que tienen las subvenciones, hasta tal punto que puede concluirse que estamos en presencia de un instrumento decisivo en la política social y económica.
+Este fenómeno, generalizado en todos los Estados, ha producido un cambio cualitativo en el significado que dentro de la acción administrativa se ha atribuido habitualmente a las ayudas económicas. De esta forma se trata de un campo difícil para la doctrina, pues confluyen aspectos presupuestarios y financieros con aspectos jurídicos-administrativos, no existiendo acuerdo entre los diversos autores sobre cual es la óptica adecuada desde la que debe concebirse y analizarse.
+En un sentido amplio, la ayuda pública es una categoría que engloba un conjunto variado de figuras de distinta naturaleza jurídica y económica. Así pueden enumerarse determinadas actuaciones que bajo la forma de préstamos, beneficios fiscales, transferencias, subvenciones, etcétera, se conciben con la finalidad propia de la ayuda, pudiendo materializarse patrimonialmente mediante flujos económicos dinerarios o en especie.
+Bajo dicha concepción la presente Ley se centra en la ayuda pública tipo subvención bajo la forma de entrega dineraria, entendiéndose que es la figura que más demanda de una atención normativa. Con ello no se pretende resolver cuestiones doctrinales ni pronunciarse sobre ellas, sino más bien responder a la necesidad de avanzar en diversos aspectos de la gestión de estos fondos públicos, sentando las reglas oportunas, mediante el establecimiento de principios, conceptos, criterios, competencias, obligaciones y responsabilidades, en aras de una mayor eficacia y eficiencia, potenciando simultáneamente el control y transparencia que el carácter de públicas confiere a este tipo de ayudas económicas.
+El régimen económico-financiero de las subvenciones en la Comunidad de Madrid viene establecido en el artículo 75 de la Ley reguladora de la Hacienda, de 8 de noviembre de 1990. En tan sólo los tres años de vigencia, la normativa sobre la materia ha ido proliferando, observándose la homogeneización de criterios en el conjunto de las Administraciones Públicas españolas.
+La necesidad de esta Ley se justifica pues desde tres ópticas diferentes: La voluntad de la Comunidad de Madrid de mejorar la gestión de los fondos públicos y aumentar su transparencia, la de actualizar la normativa que en tan poco tiempo ha quedado desfasada y la de incorporar criterios todavía no regulados pero ya asumidos en el conjunto de la Administración.
+La opción de una ley específica bajo la perspectiva apuntada, parece clara, máxime cuando otras actividades administrativas de similar importancia como la contractual disponen de una extensa normativa propia.
+La Ley está compuesta por 17 artículos, dos disposiciones adicionales, una transitoria, una derogativa y la final.
+En el artículo 1 se plasma el concepto de subvención a los efectos de la Ley. Desde una óptica fundamentalmente económica, se puede afirmar que cualquier flujo económico unidireccional se concibe como subvención o transferencia. Bien pudiera ser ésta el género y aquélla la especie. La nota más destacada de la subvención, consustancial a su concepción es la afectación concreta de la entrega dineraria a un fin específico, cuyo cumplimiento es de obligada justificación y donde el reintegro va asociado a cualquier desviación de la finalidad establecida. Esta última característica marca la diferencia de esta figura con las transferencias. Es pues este artículo, quizás, uno de los más relevantes de la Ley, pieza fundamental para homogeneizar criterios y aclarar no pocas dudas acerca de las distintas figuras que, como se ha descrito anteriormente, pueden encuadrase en un sentido amplio como ayudas públicas.
+En el artículo 2 se regula el ámbito de aplicación. Comprende la totalidad de los agentes del sector público de la Comunidad de Madrid que puedan conceder subvenciones.
+Esta opción va a permitir avanzar en la homogeneización de criterios y en la coronación de políticas de fomento, al sentar las reglas del juego con carácter general, sin perjuicio de las peculiaridades propias de cada sujeto derivadas de la naturaleza de su personalidad jurídica y de su organización.
+En el artículo 3 se determina el tratamiento extrapresupuestario cuando la Comunidad de Madrid actúe como intermediario en la entrega a terceros de subvenciones concedidas por otras entidades públicas. La solución es obvia, si se tiene en cuenta que se está actuando exclusivamente como servicio de tesorería, en nombre y por cuenta de otra institución y por lo tanto estos recursos ni son propios ni están financiando gasto público de la Comunidad. Todo ello, sin perjuicio del sometimiento de dichos fondos al régimen de control establecido en la presente Ley.
+El artículo 4 plasma los principios, de carácter básico, de publicidad, concurrencia y objetividad en la concesión y menciona expresamente la obligación de respetar el ordenamiento jurídico de la Comunidad Europea.
+El artículo 5 define los posibles sujetos participantes en el flujo económico-financiero de la subvención. La entidad colaboradora adquiere un papel relevante en la medida que no solamente recibe y entrega fondos, sino que determinadas actuaciones en torno al beneficiario pueden caer bajo su responsabilidad.
+En el artículo 6 se incluyen las bases reguladoras, como reglas básicas que deberán recoger los elementos y requisitos mínimos de la concesión, pero en todo caso son el instrumento que debe plasmar y desarrollar los principios de publicidad, concurrencia y objetividad. El concurso debe convertirse en al regla general como procedimiento que canalice la concurrencia y garantice la objetividad.
+La publicidad se plasmará en dos momentos diferentes y para todos los ciudadanos, a través del «Boletín Oficial de la Comunidad de Madrid». En primer lugar se dinfundirían las bases reguladoras y en un momento posterior los beneficiarios a los que les haya correspondido la concesión de la subvención.
+En los artículos 7, 8 y 9 se recogen los órganos que dentro del ente concedente les corresponde el otorgamiento de las ayudas, las obligaciones del beneficiario y, en su caso, de la entidad colaboradora.
+En el artículo 10 se recoge como principio general del pago, la previa justificación. No obstante, la casuística y variedad de las subvenciones aconseja prever la posibilidad de realizar anticipos y abonos a cuenta. Son dos figuras distintas; la primera supone una entrega dineraria sin que se haya comenzado por el beneficiario a realizar o justificar sus obligaciones, pero cuya existencia es necesaria como financiación inicial para poderlas llevar a cabo. El abono a cuenta, sin embargo, implica una realización y justificación parcial.
+El reintegro, como se expuso al principio, es consustancial al concepto de subvención en el caso de incumplimiento de determinadas obligaciones. En el artículo 11 se regulan los diversos supuestos en los que procede la devolución de las cantidades percibidas, a quién corresponde acordarla y en relación con el modelo de control asumido, la posibilidad de que sea propuesto por órganos externos al ente concedente. En todo caso son fondos sometidos al régimen de exacción de los ingresos de derecho público.
+En el artículo 12 se regula el régimen de control de las subvenciones, en el que la Intervención General ejerce la función interventora tal y como se regula en el artículo 83 de la Ley reguladora de la Hacienda de la Comunidad de Madrid.
+Los artículos 14 a 17 inclusive regulan el régimen de infracciones y sanciones administrativas. Es un instrumento imprescindible para garantizar una aplicación correcta de estos fondos públicos y se encuentra en sintonía con el ordenamiento jurídico español, al incorporar lo establecido en la reciente Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Finalmente se procede a la reforma de la Ley reguladora de la Hacienda de la Comunidad de Madrid para armonizar el ordenamiento jurídico que con la presente Ley se desarrolla.
+Se establecen los criterios de publicidad, concurrencia y objetividad para la concesión de ayudas públicas, con carácter general.
+Para las subvenciones, por razones de la materia, se produce una reserva de Ley que se pretende hacer realidad con el presente texto.
+Para las transferencias, en particular, regula un régimen similar al de las subvenciones en todos aquellos aspectos que no deriven del carácter finalista de éstas, principal distinción entre ambas figuras. Y, en definitiva, para no dejar lagunas en el régimen económico financiero se establece el carácter supletorio de la presente Ley respecto a la legislación específica de las distintas ayudas públicas, convirtiéndose en la práctica en punto de referencia obligado respecto a dicha materia.
+
+### Artículo 1
+
+Artículo 1. Concepto de subvención.
+1. Tendrá la consideración de subvención, a los efectos de esta ley, todo desplazamiento patrimonial que tenga por objeto una entrega dineraria entre los distintos agentes de la Administración Pública de la Comunidad de Madrid, o de éstos a otras entidades públicas o privadas y a particulares, que cumplan los siguientes requisitos:
+a) Que la entrega se realice sin contraprestación directa por parte de los entes beneficiarios.
+b) Que la entrega esté sujeta al cumplimiento de un determinado objetivo, la ejecución de un proyecto, la realización de una actividad, la adopción de un comportamiento singular, ya realizados o por desarrollar, o la concurrencia de una situación, debiendo el beneficiario cumplir las obligaciones materiales y formales que se hubieran establecido.
+c) Que el proyecto, la acción, conducta o situación financiada tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública.
+2. No están comprendidas en el ámbito de aplicación de esta ley las aportaciones dinerarias entre Administraciones Públicas, para financiar globalmente la actividad de la Administración a la que vayan destinadas, las que se realicen entre los distintos sujetos del sector público autonómico cuyos presupuestos se integren en los presupuestos Generales de la Comunidad de Madrid, tanto si se destinan a financiar globalmente su actividad como a la realización de actuaciones concretas a desarrollar en el marco de las funciones que tenga atribuidas, siempre que no resulten de una convocatoria pública y las subvenciones que, por su objeto, quedan excluidas de aplicación de la normativa básica estatal.
+Asimismo, quedan excluidas del ámbito de aplicación de esta ley, las transferencias de carácter nominativo a favor de las universidades públicas consignadas en los capítulos 4 y 7 del estado de gastos del presupuesto, destinadas a financiar globalmente su actividad.
+3. Las entregas de bienes, derechos o servicios que, habiendo sido adquiridos con la finalidad exclusiva de ser entregados a terceros, cumplan los requisitos previstos en el apartado primero, tendrán la consideración de ayudas en especie y quedarán sujetas a la normativa de subvenciones, en los términos previstos en la normativa básica estatal, con las peculiaridades que conlleva la especial naturaleza de su objeto.
+Se modifica por la disposición final 3.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación y régimen jurídico.
+1. El ámbito de aplicación de esta ley es el de las subvenciones públicas cuya concesión corresponde a la Administración de la Comunidad de Madrid, organismos autónomos administrativos, organismos autónomos mercantiles y entes de Derecho público de la Comunidad de Madrid.
+Las subvenciones públicas cuya concesión corresponde a la Asamblea de Madrid se regirán por su normativa específica.
+2. Las entregas dinerarias sin contraprestación que otorguen las entidades de derecho público del sector público autonómico que se rijan por el derecho privado tendrán siempre la consideración de subvenciones. Su concesión y demás actuaciones contempladas en esta ley constituirán el ejercicio de potestades administrativas a los efectos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, quedando sometidas al mismo régimen jurídico establecido para las subvenciones concedidas por las Administraciones Públicas.
+3. Las fundaciones del sector público de la Comunidad de Madrid únicamente podrán conceder subvenciones cuando así se autorice a la correspondiente fundación de forma expresa mediante orden del titular de la Consejería al que la fundación esté adscrita.
+Cuando corresponda a la Comunidad de Madrid la aprobación de las bases reguladoras, la autorización previa de la concesión, las funciones derivadas de la exigencia del reintegro y de la imposición de sanciones, así como las funciones de control y demás que comporten el ejercicio de potestades administrativas, serán ejercidas por la Consejería que financie en mayor proporción la subvención correspondiente y si no es posible su identificación, por el órgano o entidad que ejerza el protectorado de la fundación.
+4. El régimen económico-financiero de las subvenciones será el establecido por la normativa básica estatal, por la presente ley y sus disposiciones de desarrollo, por las leyes especiales aprobadas por la Asamblea de Madrid y por los preceptos que contenga la ley de presupuestos generales de la Comunidad en cada ejercicio y durante su vigencia, por las restantes normas de derecho administrativo y en su defecto, se aplicarán las normas de derecho privado.
+5. En el supuesto de subvenciones financiadas con cargo a fondos de la Unión Europea se regirán por las normas europeas aplicables en cada caso y por las normas nacionales de desarrollo o transposición de aquéllas.
+6. La concesión de subvenciones financiadas o cofinanciadas por la Administración del Estado se regirá por lo dispuesto en la legislación que resulte de aplicación y, en su defecto, por la normativa de la Comunidad de Madrid.
+Las particularidades en el proceso de ejecución de gasto se ajustarán a las condiciones y requisitos que, a tal efecto, establezca la normativa estatal que regule la percepción de fondos.
+7. Las subvenciones que se concedan a través de un convenio se regularán por la legislación estatal de carácter básico relativa a subvenciones, por la presente ley y sus disposiciones de desarrollo, siéndoles de aplicación la regulación del capítulo VI del título preliminar de la Ley 40/2015, de 1 de octubre, en cuanto no se oponga a la legislación específica en materia de subvenciones.
+Se modifica por la disposición final 3.2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+ Se añade el apartado 5 por el art. 9.1 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766.
+
+### Artículo 3
+
+Artículo 3. Intermediación en la entrega de subvenciones.
+Las subvenciones que se concedan por administraciones y entidades públicas distintas a las de la Comunidad de Madrid y que sean libradas a ésta para poner a disposición de un tercero, serán tratadas como operaciones extrapresupuestarias.
+Las actuaciones que corresponda realizar a la Comunidad de Madrid se sujetarán a la normativa específica del ente concedente, sin perjuicio de la sujeción al régimen de contabilidad pública y de control que para las entidades colaboradoras se regula en la presente Ley.
+
+### Artículo 4
+
+Artículo 4. Principios generales y procedimientos de concesión.
+1. Las subvenciones que se concedan por la Comunidad de Madrid lo serán con arreglo a criterios de publicidad, concurrencia, objetividad transparencia, igualdad y no discriminación, eficacia en el cumplimiento de los objetivos fijados para el establecimiento de las mismas y eficiencia en la asignación y utilización de los recursos públicos.
+2. El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.
+El otorgamiento de estas subvenciones, con el límite de créditos disponibles fijados en la convocatoria, se realizará a las solicitudes que hayan obtenido mayor valoración en aplicación del criterio o criterios previamente fijados en las bases reguladoras y en las convocatorias, una vez comparadas las solicitudes dentro de un plazo limitado y establecida una prelación entre las mismas.
+En este supuesto, la propuesta de concesión se formulará al órgano concedente por un órgano colegiado a través del órgano instructor.
+3. No obstante lo dispuesto en el apartado anterior, las bases reguladoras podrán establecer un procedimiento simplificado de concurrencia competitiva sin necesidad de órgano colegiado, en cuyo caso la propuesta se formulará por el órgano instructor, en los siguientes supuestos:
+a) Cuando la prelación de las solicitudes válidamente presentadas y que cumplan los requisitos que se establezcan, se fije únicamente en función de su fecha de presentación dentro de un plazo limitado, pudiendo obtener la subvención únicamente las que se encuentren dentro de los límites de crédito disponible en la convocatoria y siendo denegadas el resto.
+b) Cuando el crédito consignado en la convocatoria fuera suficiente para atender a todas las solicitudes que reúnan los requisitos establecidos, una vez finalizado el plazo de presentación, no siendo necesario establecer una prelación entre las mismas.
+En los supuestos de las letras anteriores, las bases reguladoras deberán determinar si la resolución de concesión será conjunta, parcial o individual, así como el plazo para resolver.
+4. Excepcionalmente, siempre que así se prevea en las bases reguladoras, el órgano competente procederá al prorrateo, entre los beneficiarios de la subvención, del importe global máximo destinado a las subvenciones.
+5. Podrán concederse de forma directa las siguientes subvenciones:
+a) Aquellas que tengan asignación nominativa en los Presupuestos Generales de la Comunidad de Madrid.
+b) Aquellas cuyo otorgamiento o cuantía vengan impuestos por normas de rango legal.
+c) Con carácter excepcional, aquellas subvenciones en que se acrediten razones de interés público, social, económico o humanitario, u otras debidamente justificadas que dificulten su convocatoria pública.
+El régimen aplicable a estas subvenciones será el siguiente:
+1.oEl Consejo de Gobierno, aprobará mediante acuerdo la normativa especial reguladora de aquellas subvenciones en las que exista una pluralidad de beneficiarios no singularizados en el momento de dicha aprobación.
+En estos supuestos, el órgano concedente deberá publicar la declaración de los créditos presupuestarios disponibles para atender las obligaciones de contenido económico que se deriven de su concesión, previa la tramitación del expediente de gasto que corresponda, iniciándose el procedimiento con la solicitud de los interesados, que deberán entenderla desestimada por el transcurso del plazo fijado para resolver.
+2.oEl Consejo de Gobierno podrá autorizar el otorgamiento de subvenciones de forma simultánea a la aprobación de planes o programas cuando los beneficiarios sean universidades públicas, Corporaciones y Entidades Locales, siempre y cuando los mismos incorporen el objeto y condiciones de otorgamiento de la subvención.
+3.oEl Consejo de Gobierno, podrá autorizar la celebración de convenios o acuerdos de colaboración sin contraprestación o la adopción de la resolución de concesión, cuando los beneficiarios de las subvenciones se encuentren singularizados en el momento de su autorización.
+6. En los supuestos de concesión directa contemplados en la letra c) del apartado anterior, la propuesta se realizará por el órgano competente para conceder la subvención, debiendo incorporar al expediente un informe justificativo de la concurrencia de las razones excepcionales que aconsejan la utilización del procedimiento de concesión directa, firmado por el titular de la Consejería competente o de la que dependa el organismo autónomo, empresa o ente proponente. De las actuaciones realizadas al amparo de este párrafo se dará cuenta trimestralmente a la Comisión de Presupuestos, Economía y Hacienda de la Asamblea de Madrid.
+Se modifican los apartados 3 y 5.c) por la disposición final 3.3 y 4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+ Se modifica por el art. 11.1 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+ Se modifica el apartado 2 por el art. 7.1 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se modifica el párrafo tercero del apartado 2 por el art. 10.1 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Se modifica el párrafo tercero del apartado 2 por el art. 9.1 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se añade un párrafo tercero al apartado 2 por el art. 9.2 de la Ley 24/1999, de 27 de diciembre. Ref. BOE-A-2000-3766.
+ Se modifica el párrafo segundo del apartado 2 por la disposición adicional 7 de la Ley 14/1996, de 23 de diciembre. Ref. BOCM-m-1996-90002.
+
+### Artículo 4 bis
+
+Artículo 4 bis. Planes estratégicos.
+1. Los órganos competentes que propongan el establecimiento de subvenciones, con carácter previo, deberán concretar en un plan estratégico de subvenciones los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, supeditándose en todo caso al cumplimiento de los objetivos de estabilidad presupuestaria.
+Las bases reguladoras de cada subvención harán referencia al plan estratégico de subvenciones en el que se integran, señalando de qué modo contribuyen al logro de sus objetivos; en otro caso, deberá motivarse por qué es necesario establecer la nueva subvención, incluso aun no habiendo sido prevista en el plan, y la forma en que afecta a su cumplimiento, sin perjuicio de su inclusión posterior en el plan estratégico que corresponda.
+Cuando los objetivos que se pretendan conseguir afecten al mercado, su orientación debe dirigirse a corregir fallos claramente identificados y sus efectos deben ser mínimamente distorsionadores.
+2. Se aprobará un plan estratégico para cada Consejería, que abarcará las subvenciones tanto de sus órganos como de los organismos y demás entes públicos a él vinculados.
+No obstante, se podrán aprobar planes estratégicos especiales, de ámbito inferior al de la Consejería, cuando su importancia justifique su desarrollo particularizado, o planes estratégicos conjuntos, cuando en su gestión participen varias Consejerías u organismos de distinto ámbito competencial.
+3. Los planes y programas sectoriales tendrán la consideración de planes estratégicos de subvenciones siempre que recojan el contenido a que se hace referencia en el artículo siguiente.
+4. Los planes estratégicos contendrán previsiones para un periodo de vigencia de tres años, salvo que, por la especial naturaleza del sector afectado, sea conveniente establecer un plan estratégico de duración diferente.
+Se modifica por la disposición final 3.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+ Se añade por el art. 10.2 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 4 ter
+
+Artículo 4 ter. Contenido de los planes estratégicos.
+1. Los planes estratégicos tendrán el siguiente contenido:
+a) Objetivos estratégicos, que describen el efecto e impacto que se espera lograr con la acción institucional durante el periodo de vigencia del plan estratégico y que han de estar vinculados con los objetivos establecidos en los correspondientes programas presupuestarios. Cuando los objetivos estratégicos afecten al mercado, se deberán identificar además los fallos que se aspira a corregir, con los efectos previstos en el apartado 1 del artículo 4 bis.
+b) Líneas de subvención en las que se concreta el plan de actuación. Para cada línea de subvención deberán explicitarse las áreas de competencia afectadas y sectores hacia los que se dirigen las ayudas, los objetivos y efectos que se pretenden con su aplicación, el plazo necesario para su consecución y los costes previsibles para su realización y fuentes de financiación, donde se detallarán las aportaciones de las distintas Administraciones Públicas, de la Unión Europea y de otros órganos públicos o privados que participen en estas acciones de fomento.
+c) Régimen de seguimiento y evaluación continua aplicable a las diferentes líneas de subvenciones que se establezcan. A estos efectos, se deben determinar para cada línea de subvención, un conjunto de indicadores relacionados con los objetivos del plan estratégico, que, recogidos periódicamente por los responsables de su seguimiento, permitan conocer el estado de la situación y los progresos conseguidos en el cumplimiento de los respectivos objetivos.
+d) Resultados de la evaluación de los planes estratégicos anteriores en los que se trasladará el contenido de los informes emitidos.
+2. El contenido del plan estratégico podrá reducirse a la elaboración de una memoria explicativa de los objetivos, los costes de realización y sus fuentes de financiación en los siguientes casos:
+a) Las subvenciones que se concedan de forma directa, de acuerdo con lo establecido en el artículo 4.5.
+b) Las subvenciones que, de manera motivada, se determinen por parte del titular de la Consejería correspondiente, en atención a su escasa relevancia económica o social como instrumento de intervención pública.
+3. Los planes estratégicos serán aprobados por el titular de la Consejería o Consejerías responsables de su ejecución y deberán publicarse en el Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas y en el “Boletín Oficial de la Comunidad de Madrid”.
+4. Los planes estratégicos de subvenciones tienen carácter programático y su contenido no crea derechos ni obligaciones; su efectividad quedará condicionada a la puesta en práctica de las diferentes líneas de subvención, atendiendo entre otros condicionantes a las disponibilidades presupuestarias de cada ejercicio.
+5. Los planes estratégicos deberán ser actualizados anualmente. Cada órgano competente deberá informar en el primer trimestre del ejercicio sobre el grado de avance de aplicación del plan y los progresos conseguidos en el cumplimiento de los respectivos objetivos marcados.
+Se añade por la disposición final 3.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Artículo 4 quater
+
+Artículo 4 quater. Procedimiento de determinación de la cuantía adicional en las convocatorias de subvenciones en régimen de concurrencia competitiva.
+1. No podrán concederse subvenciones por importe superior a la cuantía total máxima fijada en la convocatoria sin que previamente se realice una nueva convocatoria, salvo en los supuestos previstos en los apartados siguientes.
+2. Excepcionalmente, la convocatoria podrá fijar una cuantía adicional máxima, además de la cuantía total máxima, cuando los créditos a los que resulta imputable no estén disponibles en el momento de la convocatoria, pero cuya disponibilidad se prevea obtener en cualquier momento anterior a la resolución de concesión.
+La convocatoria deberá hacer constar expresamente que la efectividad de la cuantía adicional queda condicionada a la declaración de disponibilidad del crédito y, en su caso, a la previa aprobación de la modificación presupuestaria que proceda, en un momento anterior a la resolución de la concesión de la subvención.
+3. La fijación y utilización de esta cuantía adicional estará sometida a las siguientes reglas:
+a) El aumento de los créditos podrá derivar de la existencia de saldos de convocatorias anteriores, financiadas con cargo a los capítulos IV o VII del presupuesto o al capítulo VI cuando se trate de inversiones destinadas a otros entes.
+b) Las convocatorias para las que se prevea una cuantía adicional deben financiarse con cargo a los mismos créditos presupuestarios que aquellas que pueden presentar los saldos, tomando como referencia la vinculación jurídica de los mismos, o si fuera necesaria una transferencia de crédito, esta debe llevarse a cabo dentro del mismo programa o entre programas de una misma sección.
+c) Los saldos pueden producirse en cualquier fase del proceso de gasto. Cuando se produzcan como consecuencia de la presentación de solicitudes de ayudas por importe inferior al gasto inicialmente previsto, el saldo se acreditará mediante certificado del órgano designado para la instrucción del procedimiento. Si se producen en el resto de las fases de ejecución presupuestaria, será necesaria la adopción del acto administrativo que permita disponer del saldo correspondiente.
+4. En todo caso, se podrá ampliar la convocatoria cuando el incremento del importe del crédito presupuestario disponible sea consecuencia de una generación, una ampliación o una incorporación de crédito.
+5. El importe que finalmente resulte disponible deberá ser publicado por el órgano concedente con carácter previo a la resolución de concesión en los mismos medios que la convocatoria, sin que tal publicidad implique la apertura de plazo para presentar nuevas solicitudes ni el inicio de nuevo cómputo de plazo para resolver.
+Se añade por la disposición final 3.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Artículo 4 quinquies
+
+Artículo 4 quinquies. Subvenciones nominativas.
+1. Podrán concederse de forma directa las subvenciones nominativas, entendiendo por tales aquellas en que su dotación presupuestaria y beneficiarios, aparecen determinados en los estados de gastos del presupuesto.
+El objeto de estas subvenciones deberá quedar determinado expresamente en el correspondiente convenio de colaboración o resolución de concesión que, en todo caso, deberá ser congruente con la clasificación funcional y económica del correspondiente crédito presupuestario.
+2. La resolución de concesión o el convenio tendrán el carácter de bases reguladoras de la concesión a los efectos de lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, debiendo incluir los extremos necesarios para la determinación de los elementos de la concesión y, entre ellos, los siguientes:
+a) Plazos y modos de pago de la subvención, posibilidad de efectuar pagos anticipados y abonos a cuenta, así como el régimen de garantías que, en su caso, deberán aportar los beneficiarios.
+b) Plazos y forma de justificación por parte del beneficiario del cumplimiento de la finalidad para la que se concedió la subvención y de la aplicación de los fondos percibidos.
+3. Las subvenciones nominativas no están sometidas a fiscalización previa, de acuerdo con lo previsto en el artículo 120 de la Ley de Hacienda de la Comunidad de Madrid. No obstante, la intervención delegada correspondiente podrá emitir informe a las bases reguladoras, que no tendrá carácter fiscal, con las observaciones que estime convenientes, realizando una vez finalizado el ejercicio un seguimiento sobre la aceptación de las recomendaciones contenidas en los mencionados informes.
+Se añade por la disposición final 3.8 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Artículo 4 sexies
+
+Artículo 4 sexies. Subvenciones gestionadas.
+El régimen aplicable a las ayudas, financiadas total o parcialmente por la Administración General del Estado y gestionadas por la Comunidad de Madrid, para las que aquélla haya previsto la aplicación del procedimiento de concesión directa, será el siguiente:
+1. Cuando la aprobación del gasto corresponda al Consejo de Gobierno y proceda la aprobación simultánea por la Comunidad Autónoma de bases reguladoras, convocatorias, ambas de forma conjunta o cualquier otro acto de regulación procedimental, existiendo una pluralidad de beneficiarios no singularizados en el momento de dicha aprobación, podrán acordarse en unidad de acto ambas aprobaciones, así como la declaración de disponibilidad de los créditos presupuestarios para atender las obligaciones de contenido económico que se deriven de la concesión. El procedimiento se iniciará con la solicitud de los interesados, que deberán entenderla desestimada por el transcurso del plazo fijado para resolver.
+2. Cuando por requerimientos de la gestión del procedimiento no pueda producirse la aprobación simultánea del gasto y de las bases reguladoras, convocatorias, ambas de forma conjunta o cualquier otro acto de regulación procedimental que resulte necesario, o cuando la aprobación del gasto no corresponda al Consejo de Gobierno, existiendo una pluralidad de beneficiarios no singularizados en el momento de dicha aprobación, se procederá a la tramitación prevista en el artículo 4.5.c), si bien las competencias atribuidas al Consejo de Gobierno en el mencionado artículo serán ejercidas por el órgano competente para la aprobación de las bases reguladoras, de la convocatorias, o el acto procedimental que resulte necesario para llevar a cabo la ejecución de la ayuda.
+3. Cuando la normativa reguladora estatal aplicable a las subvenciones haya previsto que, tras el reconocimiento inicial de la condición de beneficiario, se establezca un periodo de prórroga posterior o bien los beneficiarios hayan sido ya singularizados en el marco del procedimiento estatal, el procedimiento se entenderá iniciado a instancia de parte, continuando en la Comunidad de Madrid la fase de instrucción, que se llevará a cabo de forma individualizada para cada potencial beneficiario por el órgano competente por razón de la materia, finalizando el procedimiento mediante resolución o convenio, según proceda.
+El inicio de la fase de instrucción, los plazos para resolver y el sentido del silencio, que será negativo salvo que por el Estado se establezca otra cosa, serán notificados por la Comunidad de Madrid al interesado.
+4. La aprobación del correspondiente gasto se realizará por el órgano competente y de conformidad con el procedimiento establecido en la normativa vigente.
+Salvo en los casos en los que se requiera la autorización del Consejo de Gobierno, los expedientes a que se refiere el apartado 3, podrán acumular y emitir en un solo acto y un solo documento las fases de autorización y disposición del gasto, una vez determinada en la fase de instrucción la cuantía concreta del compromiso económico y sus condiciones de ejecución.
+5. En el caso de las subvenciones de la Orden HAP/196/2015, de 21 de enero, por la que se aprueban las bases reguladoras de las subvenciones que tengan por finalidad la ejecución de obras de reparación o restitución de: infraestructuras, equipamientos e instalaciones y servicios de titularidad municipal y de las mancomunidades, consecuencia de catástrofes naturales, así como redes viarias de las diputaciones provinciales, cabildos, consejos insulares y Comunidades Autónomas uniprovinciales, o normativa que la sustituya, cuando la Comunidad de Madrid no haya sido la entidad ejecutora de los proyectos y los ayuntamientos destinatarios de las subvenciones ya hayan sido singularizados en el marco del procedimiento estatal, la Comunidad de Madrid se limitará a actuar por cuenta de la Administración General del Estado para la entrega y distribución de los fondos. Estos fondos, en ningún caso, se aplicarán en el presupuesto autonómico.
+Se añade por la disposición final 3.9 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Artículo 5
+
+Artículo 5. De los sujetos participantes.
+A los efectos de esta Ley se consideran sujetos participantes de las subvenciones, los siguientes:
+1. Ente concedente, aquel que soporta un decremento de su patrimonio neto asociado al surgimiento de la obligación de pago de la subvención.
+2. Ente beneficiario, es el destinatario de los fondos públicos, el cual deberá realizar la actividad que fundamentó el otorgamiento de la subvención, o encontrarse en la situación que legitime su concesión.
+El reconocimiento del derecho a la percepción, supone un incremento de su patrimonio neto, asociado al incremento de un activo.
+3. Entidad colaboradora es aquélla que, actuando en nombre y por cuenta del ente concedente a todos los efectos relacionados con la subvención, entrega y distribuye los fondos públicos a los entes beneficiarios, cuando así se establezca en las bases reguladoras. Dichos fondos en ningún caso se considerarán integrantes de su patrimonio.
+A estos efectos podrán ser consideradas entidades colaboradoras las empresas y entes públicos de la Comunidad de Madrid, las corporaciones de derecho público y las fundaciones que estén bajo el protectorado de un ente de derecho público, así como las personas jurídicas que reúnan las condiciones de solvencia y eficacia que se establezcan.
+
+### Artículo 6
+
+Artículo 6. De las bases reguladoras.
+1. Previamente a la concesión de subvenciones se establecerán las oportunas bases reguladoras, salvo que ya existieran estas. En los supuestos recogidos en el artículo 4, la documentación especificada en cada uno de los casos tendrá carácter de base reguladora.
+2. Las bases reguladoras tendrán carácter normativo cuando de su contenido se desprenda que se dirigen a innovar el ordenamiento jurídico, incorporando una regulación destinada a ser ulteriormente aplicada en una pluralidad de casos concretos. Estas bases se aprobarán por orden del consejero competente y se publicarán en el “Boletín Oficial de la Comunidad de Madrid”.
+3. Las bases reguladoras no tendrán carácter normativo, en caso de que sus efectos se agoten con la propia convocatoria, tramitada de forma simultánea, o su contenido se dirija a declarar una concreta situación jurídica de unos destinatarios delimitados, con unos efectos claramente determinados.
+En este caso, el contenido de base reguladora se incorporará al acto administrativo, plan o convenio, tramitándose de acuerdo con el procedimiento y competencia previstos para estos.
+Cuando la subvención se instrumente a través de un convenio su duración se fijará en cada caso en función de las circunstancias que concurran, en especial en relación con el plazo de realización de la actividad objeto de subvención y las obligaciones de justificación de los beneficiarios o de las actuaciones de comprobación a realizar por el órgano concedente.
+La competencia para la autorización del gasto será la que resulte de la Ley de Hacienda de la Comunidad de Madrid.
+4. El procedimiento para la aprobación de las bases reguladoras de carácter normativo se regulará por lo establecido en esta ley y se iniciará mediante la elaboración del texto por la Consejería competente, debiendo incorporar los informes que resulten de la aplicación de la normativa específica, así como los informes preceptivos de la Abogacía General y de la Intervención General de la Comunidad de Madrid.
+El expediente incluirá una memoria en la que se expondrán todos aquellos extremos que se juzguen convenientes, referencia a la oportunidad de la propuesta, normas afectadas, en su caso, título competencial que ampara la propuesta, referencia al plan estratégico de subvenciones en que se encuadra y, en su caso, la necesidad de comunicar a la Comisión de la Unión Europea los oportunos proyectos, con la tramitación llevada a cabo o la justificación de no comunicación afectación de la normativa europea de la competencia en los términos previstos por el Tratado de Funcionamiento de la Unión Europea o por aplicación de alguna excepción.
+5. Las bases reguladoras concretarán, como mínimo, los siguientes extremos, sin perjuicio de que las bases reguladoras de las concesiones directas no incorporen los que sean incompatibles con su naturaleza.
+a) Definición del objeto de la subvención.
+b) Requisitos que deberán reunir los beneficiarios para la obtención de la subvención, período durante el que deberán mantenerse y forma de acreditarlos. Las bases podrán determinar que todos los requisitos se acrediten junto con la solicitud o bien podrán prever que determinados requisitos se acrediten junto con la solicitud y los restantes únicamente por los posibles beneficiarios, de acuerdo con la propuesta de concesión y previo requerimiento fehaciente a los interesados.
+c) Las condiciones de solvencia y eficacia que hayan de reunir las personas jurídicas a las que se refiere el artículo quinto.
+d) Procedimiento de concesión de la subvención.
+e) Criterios objetivos de otorgamiento de la subvención y, en su caso, ponderación de los mismos.
+f) Cuantía individualizada de la subvención o criterios para su determinación.
+g) Órganos competentes para la ordenación, instrucción y resolución del procedimiento de concesión de la subvención y el plazo en que será notificada la resolución.
+h) Determinación, en su caso, de los libros y registros contables específicos para garantizar la adecuada justificación de la subvención.
+i) Plazo y forma de justificación, por parte del beneficiario o de la entidad colaboradora, del cumplimiento de la finalidad para la que se concedió la subvención y de la aplicación de los fondos percibidos.
+j) Posibilidad de efectuar pagos anticipados y abonos a cuenta, así como el régimen de garantías que, en su caso, deberán aportar los beneficiarios.
+k) Las medidas de garantía en favor de los intereses públicos que, en su caso, puedan considerarse precisas, medios de constitución y procedimiento de cancelación, así como la posibilidad, en los casos que expresamente se prevean, de revisión de las subvenciones concedidas.
+l) Obligación del beneficiario a facilitar cuanta información le sea requerida por la Intervención General de la Comunidad de Madrid, Tribunal de Cuentas u otros órganos competentes, y en particular la obligación de asumir los extremos regulados en el apartado cuarto del artículo duodécimo de la presente ley.
+m) La composición del órgano colegiado cuando la concesión haya de realizarse en régimen de concurrencia.
+n) Circunstancias que, como consecuencia de la alteración de las condiciones tenidas en cuenta para la concesión de la subvención, podrán dar lugar a la modificación de la resolución.
+ñ) Compatibilidad o incompatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales.
+o) Criterios de graduación de los posibles incumplimientos de condiciones impuestas con motivo de la concesión de las subvenciones. Estos criterios resultarán de aplicación para determinar la cantidad que finalmente haya de percibir el beneficiario o, en su caso, el importe a reintegrar, y deberán responder al principio de proporcionalidad.
+6. Cuando los proyectos de bases reguladoras se refieran a supuestos contemplados en la legislación de la Unión Europea se seguirá el procedimiento establecido en la normativa estatal, salvo lo establecido en el artículo 2.4.
+7. Toda alteración de las condiciones tenidas en cuenta para la concesión, y en todo caso, la obtención concurrente de subvenciones concedidas por cualquier entidad pública o privada, nacional o internacional, podrá dar lugar a la modificación de la subvención otorgada. Esta circunstancia se deberá hacer constar en las correspondientes bases reguladoras.
+Se modifica por la disposición final 3.10 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+ Se modifica el apartado 1 por el art. 7.2 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se modifica la letra b) del apartado 2 y el párrafo segundo del apartado 4 por el art. 7.1 y 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 7
+
+Artículo 7. De la concesión.
+1. Son órganos competentes para conceder subvenciones, en el ejercicio de sus actividades:
+a) Los Consejeros en el ámbito de la Consejería correspondiente y de los órganos de gestión sin personalidad jurídica dependientes de ella.
+b) Los Consejos de Administración de los organismos autónomos en el ámbito del propio organismo y de los órganos de gestión sin personalidad jurídica dependientes del mismo, sin perjuicio de la facultad de delegación en los Gerentes de aquéllos.
+c) En los restantes entes, los órganos rectores de acuerdo con lo establecido por sus leyes de creación o normativa específica. Dichas competencias podrán ser objeto de delegación en los Gerentes o figuras análogas, en función de su peculiar estructura organizativa.
+2. (Suprimido).
+3. El importe de las subvenciones concedidas de acuerdo con lo dispuesto en la presente Ley en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con subvenciones de otras entidades públicas o privadas, nacionales o internacionales, supere el coste de la actividad a desarrollar por el beneficiario.
+4. Las entidades concedentes publicarán trimestralmente en el «Boletín Oficial de la Comunidad de Madrid» las subvenciones concedidas en cada período con expresión de la entidad beneficiaria, cantidad concedida y finalidad o finalidades de la subvención.
+Se suprime el apartado 2 por el art. 11.2 de la Ley 6/2011, de 28 de diciembre. Ref. BOE-A-2012-2980.
+
+### Artículo 8
+
+Artículo 8. De las obligaciones del beneficiario.
+Son obligaciones del beneficiario:
+a) Realizar la actividad o adoptar el comportamiento que fundamente la concesión de la subvención.
+b) Acreditar ante la entidad concedente o la entidad colaboradora, en su caso, la realización de la actividad o la adopción del comportamiento, así como el cumplimiento de requisitos y condiciones que determinen la concesión o disfrute de la subvención.
+c) El sometimiento a las actuaciones de comprobación a efectuar por la entidad concedente o la entidad colaboradora, en su caso, y a las de control de la actividad económico-financiera que correspondan a la Intervención General de la Comunidad de Madrid, Tribunal de Cuentas u otros órganos competentes y en particular a las derivadas de lo dispuesto en el apartado 4 del artículo 12 de la presente Ley.
+d) Comunicar a la entidad concedente o a la entidad colaboradora, en su caso, la obtención de subvenciones para la misma finalidad, procedente de cualesquiera administraciones o entidades públicas o privadas, nacionales o internacionales, así como las alteraciones a que se refiere el artículo 6, apartado 5, de esta Ley.
+e) Hallarse, con carácter previo al cobro de la subvención, al corriente de sus obligaciones con la Seguridad Social, no tener deudas en periodo ejecutivo de pago con la Comunidad de Madrid, salvo que las mismas estén debidamente garantizadas, ni tener deudas de carácter tributario con otras Administraciones Públicas. Por Orden del Consejero de Hacienda se determinarán la forma y momento de acreditación así como los supuestos de exoneración. El certificado de inexistencia de apremio en deudas con la Comunidad de Madrid se expedirá por la Consejería de Hacienda a petición del órgano competente para la concesión de la subvención.
+f) Acreditar, en su caso, con carácter previo al cobro de la subvención, haber realizado el plan de prevención de riesgos laborales a que se refiere el artículo 16 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales. Reglamentariamente se establecerá el procedimiento para efectuar la citada acreditación.
+Se modifica la letra f) por el art. 7.3 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se modifica la letra e) y se añade la f) por el art. 7.3 y 4 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 9
+
+Artículo 9. De las obligaciones de las entidades colaboradoras.
+Son obligaciones de las entidades colaboradoras:
+a) Entregar a los beneficiarios los fondos recibidos de acuerdo con los criterios establecidos en las normas reguladoras de la subvención.
+b) Verificar, en su caso, el cumplimiento y la efectividad de las condiciones determinadas para su concesión.
+c) Justificar la aplicación de los fondos percibidos ante la entidad concedente y, en su caso, entregar la justificación presentada por los beneficiarios.
+d) Someterse a las actuaciones que respecto a la gestión de dichos fondos pueda efectuar la entidad concedente y a las de control de la actividad económico-financiera que corresponda a la Intervención General de la Comunidad de Madrid, Tribunal de Cuentas u otros órganos competentes, en particular se asumirá lo establecido en el apartado 4 del artículo 12 de la presente Ley.
+
+### Artículo 10
+
+Artículo 10. De los pagos.
+1. El pago de las subvenciones se realizará previa justificación del cumplimiento de la finalidad para la que se concedió.
+No obstante lo anterior, con carácter excepcional y cuando por razón de la subvención se justifique, podrán realizarse anticipos o abonos a cuenta bajo las condiciones siguientes:
+a) Los abonos a cuenta supondrán el pago parcial previa justificación del importe equivalente como aplicación de la subvención concedida.
+b) Los anticipos a cuenta supondrán entregas de fondos con carácter previo a la justificación, como financiación necesaria para poder llevar a cabo los propósitos, actividades o proyectos inherentes a la subvención.
+c) En ambos casos, la posibilidad, límites y requisitos de concesión deberán contemplarse expresamente en las bases reguladoras, que fijarán las garantías que se deban aportar. Dichas garantías se constituirán por el beneficiario, con carácter previo al cobro, mediante efectivo, aval, certificado de seguro de caución o valores anotados, en la forma y con las condiciones, modelos y requisitos establecidos reglamentariamente. La garantía se constituirá por un importe igual a la cantidad del pago a cuenta o anticipado más los intereses de demora que, en su caso, pudieran devengarse hasta la justificación completa y definitiva del cumplimiento de las obligaciones o requisitos que se hubieran establecido para la subvención.
+La Consejería de Hacienda, previa solicitud motivada del órgano concedente, podrá autorizar, de forma excepcional, la inclusión en las bases reguladoras de la exención de constituir garantías para efectuar los pagos a cuenta o anticipados.
+La Administración de las Entidades locales y sus organismos autónomos, cuando ostenten la condición de beneficiarios de subvenciones concedidas en el marco de la presente ley o en el ejercicio de las competencias de gestión transferidas del Estado, están dispensadas de constituir garantías para poder percibir abonos o anticipos a cuenta, cuando estos estén previstos en las respectivas bases reguladoras.
+Las bases reguladoras destinadas a subvencionar a las Entidades locales y sus organismos autónomos, cuando contemplen la posibilidad de abonos o anticipos a cuenta no precisarán la autorización previa de la Consejería de Hacienda para la exención de constituir garantías.
+2. El pago de las subvenciones con asignación nominativa en los Presupuestos Generales de la Comunidad se realizará conforme a las previsiones de la normativa que les sea de aplicación o, en su caso, por lo que establezca el plan anual de disposición de fondos de la Comunidad de Madrid.
+3. No podrá realizarse el pago de subvenciones destinadas a Entidades Locales en tanto éstas no se hallen al corriente en el cumplimiento de la obligación de rendición de sus cuentas anuales a la Cámara de Cuentas de la Comunidad de Madrid, en los términos previstos por sus normas específicas.
+Por Orden del Consejero competente en materia de Hacienda se determinarán la forma y momento de acreditación, las condiciones en las que se producirá la pérdida del derecho al cobro derivado del incumplimiento de esta obligación, así como los supuestos en los que pueda autorizarse de forma excepcional la inclusión de la exención de acreditación de su cumplimiento en las bases reguladoras.
+Se añade el apartado 3 por el art. 4 de la Ley 8/2012, de 28 de diciembre. Ref. BOE-A-2013-2685.
+ Se modifica el apartado 1 por el art. 8.1 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+ Se añaden los dos párrafos finales al apartado 1 por el art. 9.2 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se modifica la letra c) del apartado 1 por el art. 7.5 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 11
+
+Artículo 11. De los reintegros.
+1. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora desde el momento del pago de la subvención y en la cuantía fijada en el artículo 32 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, en los siguientes casos:
+a) Incumplimiento de la obligación de justificación.
+b) Obtener la subvención sin reunir las condiciones requeridas para ello.
+c) Incumplimiento de la finalidad para la que la subvención fue concedida.
+d) Incumplimiento de las condiciones impuestas a las entidades colaboradoras y beneficiarios con motivo de la concesión de la subvención.
+e) En el supuesto contemplado en el artículo 7.3 de esta ley, por el exceso obtenido sobre el coste de la actividad desarrollada.
+f) La negativa u obstrucción a las actuaciones de control que se establecen en el artículo 12.4.
+2. Las cantidades a reintegrar tendrán la consideración de ingresos de Derecho público, resultando de aplicación para su cobro lo previsto en la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+3. Cuando proceda el reintegro por alguna de las causas establecidas en el apartado 1, corresponderá al órgano de la entidad concedente que otorgó la subvención adoptar la decisión de exigir su devolución al beneficiario o, en su caso, a la entidad colaboradora por el importe que resulte de aplicar lo previsto en dicho apartado.
+Por la Consejería de Hacienda podrá proponerse a la entidad concedente que resuelva en este sentido cuando del control practicado, según determina el artículo 12, se desprenda que se ha incurrido en alguno de los supuestos a que se refiere el apartado 1 anterior.
+4. Una vez acordado el reintegro y trascurrido el plazo de ingreso en periodo voluntario, si las cantidades a reintegrar estuviesen garantizadas en los términos dispuestos en el artículo 10.1.c) de esta ley, se procederá a su ejecución por la Caja de Depósitos, a instancias del órgano competente para acordar el reintegro, en la forma establecida en la normativa reguladora de la Caja de Depósitos para la incautación de garantías.
+5. Cuando la garantía no sea suficiente para satisfacer las responsabilidades a las que está afecta, la Administración procederá al cobro de la diferencia mediante el procedimiento administrativo de apremio, con arreglo a lo establecido en la normativa reguladora de la recaudación ejecutiva.
+6. Las cantidades a reintegrar podrán ser aplazadas o fraccionadas con los procedimientos y garantías que se establecen en la Ley General Tributaria y en el Reglamento General de Recaudación.
+Se modifica por el art. 8.2 de la Ley 7/2007, de 21 de diciembre. Ref. BOE-A-2008-4062.
+
+### Artículo 12
+
+Artículo 12. Del régimen de control de las subvenciones.
+1. La Intervención General de la Comunidad ejercerá la función interventora con la extensión y los efectos que se determinan en la presente Ley y en las demás disposiciones de aplicación, con plena autonomía respecto de las autoridades y demás entidades cuya gestión fiscalice.
+2. La función interventora tiene por objeto controlar todas las ayudas y subvenciones públicas que están dentro del ámbito de aplicación de esta Ley, con el fin de asegurar que la administración de la hacienda se ajuste a las disposiciones legales aplicables en cada caso.
+3. El ejercicio de la expresada función comprenderá:
+a) La intervención previa de los expedientes de aprobación de las bases reguladoras y de las correspondientes convocatorias.
+b) La intervención previa del documento o expediente de concesión de la subvención.
+c) La intervención formal de la ordenación del pago.
+d) La intervención material del pago.
+e) La intervención de la aplicación o empleo de la cantidad concedida en la subvención.
+Son aplicables a las subvenciones reguladas por esta Ley, los artículos 85, 86, 87 y 88 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, y sus normas de desarrollo.
+La competencia que los artículos 86, 87 y 88 atribuyen al Gobierno, en el ámbito de las Empresas y Entes públicos, corresponde a los Consejeros respectivos.
+4. Estarán sometidos a dicho régimen de control las entidades colaboradoras, beneficiarios y terceros relacionados con el objeto de la subvención, quedando obligados a facilitar el ejercicio de las funciones que corresponden a la Intervención General, y en particular:
+a) El libre acceso a los locales y documentación objeto de investigación, así como la posibilidad de obtener copia de aquélla.
+b) La ampliación o control de terceros relacionados con las personas físicas o jurídicas intervinientes en la justificación de los fondos públicos percibidos.
+c) La retención de facturas, documentos equivalentes o sustitutivos o de cualquier otro documento relativo a las operaciones objeto de investigación, cuando se deduzcan indicios de una incorrecta obtención, disfrute o destino de la subvención percibida.
+Se modifica el último párrafo del apartado 3 por el art. 7.4 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se modifica el párrafo primero del apartado 3 por el art. 7 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Artículo 13
+
+Artículo 13. De la evaluación.
+Por el Consejo de Gobierno se determinarán los procedimientos mediante los cuales los distintos agentes del sector público de la Comunidad deberán efectuar las evaluaciones de los objetivos a conseguir y de los finalmente alcanzados, mediante las subvenciones.
+
+### Artículo 14
+
+Artículo 14. De las infracciones administrativas y de los sujetos responsables.
+1. Constituyen infracciones administrativas en materia de subvenciones las siguientes conductas:
+1.1 De los beneficiarios:
+a) La obtención de una subvención falseando las condiciones requeridas para su concesión u ocultando las que la hubieran impedido o limitado.
+b) La aplicación, en todo o en parte, de las cantidades recibidas a fines distintos para los que la subvención fue concedida.
+c) El incumplimiento por razones imputables al beneficiario de las obligaciones impuestas por la concesión de la subvención.
+d) La negativa u obstrucción a las actuaciones de comprobación a efectuar por el ente concedente o la entidad colaboradora, en su caso, y a las de control que corresponden a la Intervención General de la Comunidad de Madrid.
+e) El no comunicar al ente concedente o a la entidad colaboradora, en su caso, la obtención de subvenciones o ayudas para la misma finalidad, procedente de cualesquiera Administración Pública o ente público, nacional o internacional, así como la modificación de cualesquiera otras circunstancias que hayan servido de fundamento para la concesión de la subvención.
+f) La falta de justificación, en todo o en parte, del empleo dado a los fondos públicos.
+g) El no acreditar ante el ente concedente o ante la entidad colaboradora, en su caso, el cumplimiento de las obligaciones impuestas por la concesión de la subvención.
+1.2 De las entidades colaboradoras.
+a) No entregar a los beneficiarios los fondos recibidos de acuerdo con los criterios establecidos en las normas reguladoras de la subvención.
+b) La negativa u obstrucción a las actuaciones de comprobación que, respecto a la gestión de los fondos percibidos, pueda efectuar el ente concedente, y a las de control que realice la Intervención General de la Comunidad de Madrid.
+c) No verificar, en su caso, el cumplimiento y efectividad de las condiciones determinantes del otorgamiento de la subvención.
+d) No justificar ante el ente concedente la aplicación de los fondos percibidos, o no entregar la justificación presentada por los beneficiarios.
+2. Las infracciones administrativas tipificadas en esta Ley se clasifican en muy graves, graves y leves.
+2.1 Tendrán la consideración de infracciones muy graves en el caso de beneficiarios las señaladas en los apartados a), b) y c) del número 1.1 de este artículo y en el caso de entidad colaboradora la prevista en el apartado a) del número 1.2 anterior. Asimismo, y tanto para el beneficiario como para la entidad colaboradora, la reincidencia, por comisión en el termino de un año de más de una infracción grave, cuando así haya sido declarado por resolución firme.
+2.2 Tendrán la consideración de infracciones graves en el caso de beneficiarios las señaladas en los apartados d) y e) del número 1.1 de este artículo y en el caso de entidad colaboradora las previstas en los apartados b) y c) del número 1.2 anterior. Asimismo, tanto para el beneficiario como para la entidad colaboradora, la reincidencia, por comisión en el término de un año de más de una infracción leve, cuando así haya sido declarado por resolución firme.
+2.3 Tendrán la consideración de infracciones leves en el caso de beneficiarios las señaladas en los apartados f) y g) del número 1.1 de este artículo y en el caso de entidad colaboradora la prevista en el apartado d) del número 1.2 anterior.
+3. Serán responsables de las infracciones los beneficiarios y las entidades colaboradoras que realicen las conductas anteriormente tipificadas.
+4. Las infracciones muy graves prescribirán a los cinco años, las graves a los tres años y las leves al año. El plazo de prescripción comenzará contarse desde el día en que la infracción se hubiera cometido.
+
+### Artículo 15
+
+Artículo 15. Sanciones.
+1. Las infracciones administrativas serán sancionadas con arreglo a la siguiente escala:
+1.1 Infracciones muy graves:
+a) Multa del doble al triple en la cantidad indebidamente obtenida o aplicada o, en el caso de entidad colaboradora, de los fondos recibidos.
+b) La pérdida, tanto en el supuesto de beneficiario como de entidad colaboradora, durante el plazo de tres a cinco años, del derecho a obtener subvenciones de la Comunidad de Madrid o de ser designados como entidad colaboradora.
+c) Prohibición, durante el plazo de tres a cinco años, para celebrar contratos con la Administración de la Comunidad de Madrid o sus entes institucionales.
+1.2 Infracciones graves:
+a) Multa del tanto al doble de la cantidad indebidamente obtenida o, en el caso de entidad colaboradora, de los fondos recibidos.
+b) La pérdida, tanto en el supuesto de beneficiario como de entidad colaboradora, durante el plazo de uno a tres años, del derecho a obtener subvenciones de la Comunidad de Madrid o de ser designados como entidad colaboradora.
+c) Prohibición durante el plazo de uno a tres años, para celebrar contratos con la Administración de la Comunidad de Madrid o sus entes institucionales.
+1.3 Infracciones leves:
+a) Multa de igual cuantía a la de la cantidad indebidamente percibida o al del importe de la cantidad no justificada o, en el caso de entidad colaboradora, de los fondos percibidos.
+b) La pérdida tanto, en el supuesto de beneficiario como de entidad colaboradora, durante el plazo de un año, del derecho a obtener subvenciones de la Comunidad de Madrid o de ser designados como entidad colaboradora.
+c) Prohibición durante el plazo de un año, para celebrar contratos con la Administración de la Comunidad de Madrid o sus entes institucionales.
+2. Para la imposición de las sanciones anteriores por las infracciones administrativas previstas en esta Ley se atenderá a:
+a) La existencia de intencionalidad o reiteración.
+b) La naturaleza de los perjuicios causados.
+3. Las sanciones establecidas serán independientes de la exigencia al infractor de la obligación de reintegro contemplada en esta Ley.
+4. Las sanciones impuestas por las infracciones muy graves prescribirán a los cinco años, las impuestas por infracciones graves a los tres años, y la impuestas por infracciones leves al año. El plazo de prescripción comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+5. Las resoluciones firmes por las que se impongan sanciones serán publicadas en el «Boletín Oficial de la Comunidad de Madrid».
+
+### Artículo 16
+
+Artículo 16. Responsabilidad subsidiaria.
+La responsabilidad subsidiaria de la obligación de reintegro y de las sanciones contempladas en esta Ley, se regirá, en el caso de los representantes de personas jurídicas cualquiera que sea su naturaleza de acuerdo con lo establecido en la legislación estatal. El mismo marco jurídico se aplicará para el caso de la transmisión de dichas obligaciones cuando se trate de sociedades o entidades disueltas y liquidadas.
+
+### Artículo 17
+
+Artículo 17. Órganos competentes para el ejercicio de la potestad sancionadora.
+Son órganos competentes para iniciar el procedimiento sancionador los que hayan formulado las propuestas de concesión de subvención.
+Será competente para la resolución del procedimiento sancionador, en las infracciones leves y graves, el titular de la Consejería que hubiera concedido la subvención o a la que estuviera adscrito el ente concedente. La resolución de las infracciones muy graves es competencia del Consejo de Gobierno de la Comunidad de Madrid.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El artículo 75 de la Ley reguladora de la Hacienda de la Comunidad de Madrid, quedará redactado de la siguiente forma:
+1. Las ayudas públicas que se concedan con cargo a los Presupuestos Generales de la Comunidad lo serán con arreglo a criterios de publicidad, concurrencia y objetividad en la concesión.
+2. Se regulará mediante Ley el régimen económico-financiero de las subvenciones públicas estableciendo en todo caso su sometimiento a los criterios especificados en el párrafo anterior y determinando las obligaciones de los distintos sujetos partícipes, su régimen de control y de las infracciones y sanciones administrativas.
+3. Para las restantes ayudas públicas les será de aplicación lo establecido en su correspondiente legislación específica y supletoriamente el régimen económico-financiero que se establezca para las subvenciones.
+4. Las ayudas públicas de carácter no condicionado se regirán con el mismo régimen económico-financiero, siendo de aplicación general todas aquellas materias que, por su naturaleza, no deriven del carácter finalista de dichas ayudas.
+En particular para las transferencias será de aplicación idéntica regulación que para las subvenciones en los siguientes aspectos:
+a) Principios generales.
+b) Definición, competencias y obligaciones de los sujetos participantes.
+c) Régimen de intervención y contabilidad en lo que se refiere a la concesión y al pago.
+d) Reintegros por incumplimiento de requisitos base de la concesión.
+e) Infracciones y sanciones administrativas.
+5. La Consejería de Hacienda remitirá trimestralmente a la Asamblea la relación de ayudas públicas que se concedan con cargo a los Presupuestos Generales de la Comunidad, con expresión de la entidad beneficiaria, cantidad concedida y finalidad o finalidades de la ayuda indicando además la fecha y el número del «Boletín Oficial» en el que se hayan publicado.
+Asimismo, se enviará con dicha periodicidad copia de las bases reguladoras para la concesión de las subvenciones.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se autoriza al Consejo de Gobierno para el desarrollo reglamentario de la presente Ley.
+Sin perjuicio de lo dispuesto en el párrafo anterior en cuanto se refiere a la concesión de subvenciones y a la imposición de sanciones serán de aplicación los Reglamentos de Procedimiento para la Concesión de Ayudas y Subvenciones Públicas y para el Ejercicio de la Potestad Sancionadora por la Administración Pública aprobados, respectivamente, por Decretos Comunitarios 76/1993 y 77/1993, de 26 de agosto.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Aportaciones a entidades del sector público autonómico destinadas a la realización de actuaciones concretas.
+1. Podrán realizarse aportaciones dinerarias entre las distintas entidades del sector público autonómico cuyos presupuestos se integren en los presupuestos generales de la Comunidad de Madrid, para financiar la realización de actuaciones concretas a desarrollar en el marco de las funciones que cada entidad tenga atribuida, de acuerdo con el procedimiento previsto en la Ley de Hacienda de la Comunidad de Madrid para las transferencias internas nominativas, siempre que las subvenciones no procedan de una convocatoria pública.
+2. Por el titular de la Consejería competente en materia de hacienda, se establecerán el procedimiento y requisitos necesarios para la tramitación de estas entregas dinerarias.
+Se añade por la disposición final 3.11 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Subvenciones excluidas.
+Las subvenciones que, por su objeto, quedan excluidas de aplicación de la normativa básica estatal, se regularán por su normativa específica, resultando de aplicación supletoria las disposiciones de esta ley, salvo en aquellos aspectos en los que, por la especial naturaleza de las subvenciones, no resulte aplicable.
+Se añade por la disposición final 3.12 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3217#df-3
+
+### Disposición transitoria
+
+Disposición transitoria.
+Permanecerán vigentes las bases reguladoras de las líneas de subvención aprobadas con anterioridad a la entrada en vigor de esta Ley hasta que finalice su período de vigencia, sin perjuicio de lo dispuesto en el artículo 7, apartado 4, que será de aplicación inmediata.
+No obstante lo dispuesto en el párrafo anterior, las citadas bases reguladoras podrán acogerse a lo establecido en los artículos 6.2.e) y 10 de esta Ley, siempre que de ello no se deriven perjuicios para los beneficiarios de las subvenciones.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las normas de igual o inferior rango en lo que se opongan a esta Ley, en particular los artículos 3 y 4.b) del Reglamento de Procedimiento para la Concesión de Ayudas y Subvenciones Públicas aprobado por Decreto Comunitario 76/1993, de 26 de agosto.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo también publicada en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que correspondan la guarden y la hagan guardar.
+Madrid, 8 de marzo de 1995.
+JOAQUÍN LEGUINA,
+Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Véase, en cuanto a la desconcentración de competencias, la disposición adicional única de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.

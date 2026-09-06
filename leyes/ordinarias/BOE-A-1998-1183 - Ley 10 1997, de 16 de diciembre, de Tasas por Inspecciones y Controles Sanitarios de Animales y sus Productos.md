@@ -1,0 +1,217 @@
+# Ley 10/1997, de 16 de diciembre, de Tasas por Inspecciones y Controles Sanitarios de Animales y sus Productos.
+
+- Identificador BOE: `BOE-A-1998-1183`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-1183
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+La Directiva del Consejo de la Comunidad Europea 93/118/CE, de 22 de diciembre de 1993, que modificó en su día la Directiva 85/73/CEE del Consejo, relativa a la financiación de las inspecciones y controles veterinarios de los productos de origen animal contemplados en el anexo A de la Directiva 89/662/CEE y en la Directiva 90/675/CEE, establece que todos los estados miembros deberán fijar las tasas a percibir por las inspecciones y controles sanitarios de carnes frescas y carnes de aves de corral, en función de los niveles que establece la propia Directiva.
+Posteriormente, la Directiva 96/43/CE ha vuelto a modificar la antes mencionada Directiva 85/73/CEE, así como la 90/675/CEE y la 91/496/CEE, procediendo a codificar la primera de ellas.
+En virtud de lo que antecede y considerando que la finalidad última de dicha normativa comunitaria persigue tres objetivos fundamentales:
+a) Garantizar una protección sanitaria uniforme del consumidor en cuanto a la salubridad del producto.
+b) Mantener la libre circulación de los productos dentro de la Comunidad, en base a unas garantías de calidad similares, tanto para el consumo nacional de los productos comercializados en el mercado interior de cada Estado miembro, como para los procedentes de terceros Estados.
+c) Evitar distorsiones en la competencia de los distintos productos sometidos a las reglas de organización común de los mercados, surge la necesidad de adoptar las medidas legales adecuadas para dar cumplimiento a la Directiva comunitaria en orden a los fines perseguidos.
+Ahora bien, teniendo en cuenta que conforme a lo dispuesto en el número 2 del artículo 7.° de la Ley Orgánica de Financiación de las Comunidades Autónomas (LOFCA), 8/1980, de 22 de septiembre, las tasas sanitarias que gravan la inspección de carnes frescas tienen la consideración de tributos propios de las Comunidades Autónomas, como consecuencia de las transferencias de servicios realizadas en virtud de lo previsto en los distintos Estatutos de Autonomía, ha sido necesario llegar a un compromiso común de aplicar la mencionada Directiva en función de unos criterios homogéneos establecidos para todo el territorio nacional, llevado a efecto mediante el Acuerdo de 15 de septiembre de 1997 del Consejo de Política Fiscal y Financiera, en el que se inspira fielmente el presente texto legislativo.
+Por su parte, la armonización de la inspección veterinaria ha tenido lugar con la entrada en vigor el 13 de marzo de 1993 del Real Decreto 147/1993, de 29 de enero, modificado por Real Decreto 315/1996, de 23 de febrero, por el que se establecen las condiciones de producción y comercialización de carnes frescas. Asimismo, en el caso de la carne de conejo y caza, ello se ha llevado a cabo mediante el Real Decreto 1543/1994. Finalmente, y por lo que respecta a las aves, el Real Decreto 2087/1994, de 20 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas de aves de corral, ha transpuesto la Directiva 92/116/CEE.
+Según establece la citada Directiva 96/43/CE, las reducciones que en su caso pudieran establecerse en la normativa propia de los distintos Estados miembros, no podrán dar lugar en ningún caso a disminuciones superiores al 55 por 100 de los niveles de las tasas que se fijan en el capítulo I del anexo de la propia Directiva, por lo que las cuotas fijadas en la presente Ley no superan nunca dicho límite.
+Por otro lado, en la mencionada Directiva 96/43/CE, se establece como límite de referencia el total de los costes reales de la inspección, precepto que concuerda con lo dispuesto en el número 3 del artículo 7.° de la LOFCA, así como en el número 1 del artículo 19 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos. Esta referencia global es la que se tiene en cuenta por el presente texto normativo para el establecimiento de las correspondientes cuotas tributarias.
+Además, por la conveniencia de favorecer a aquellos establecimientos que, al realizar varias operaciones o constituir cadenas de producción, faciliten las inspecciones y controles sanitarios, reduciendo los costes de los mismos, se prevé que, si la tasa percibida en el matadero cubre la totalidad de los gastos de inspección correspondientes al conjunto de todas ellas, no se percibirá tasa alguna en la sala de despiece ni en el almacén frigorífico.
+En virtud de cuanto antecede y en base a la facultad de esta Comunidad para el establecimiento de tasas, determinada en los artículos 133 y 157 de la Constitución; artículo 7 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, y artículo 51 del Estatuto de Autonomía de la Comunidad Valenciana, la presente Ley tiene por objeto el establecimiento de las Tasas por Inspecciones y Controles Sanitarios de animales y sus productos.
+El proyecto de ley ha sido sometido para consulta al Comité Económico y Social de la Comunidad Valenciana y al Consejo Jurídico Consultivo de la Comunidad Valenciana, de conformidad con lo dispuesto en el artículo 3.1.a) de la Ley 1/1993, de 7 de julio, y artículo 10.2 de la Ley 10/1994, de 19 de diciembre.
+
+## CAPÍTULO ÚNICO
+
+Tasas por inspecciones y controles sanitarios de animales y sus productos
+
+### Artículo 1
+
+Artículo 1. Objeto del Tributo.
+Las tasas gravan la inspección y control veterinario de animales y sus productos.
+A tal efecto, las tasas se denominarán en lo sucesivo:
+Tasa por inspecciones y controles sanitarios de carnes frescas, carnes de aves de corral y carnes de conejo y caza.
+Tasa por controles sanitarios respecto de determinadas sustancias y sus residuos en animales vivos y sus productos destinados al consumo humano.
+Dichos controles e inspecciones serán los realizados por los técnicos facultativos en las siguientes operaciones:
+a) Sacrificio de animales.
+b) Despiece de las canales.
+c) Operaciones de almacenamiento de carnes frescas para consumo humano.
+d) Control de determinadas sustancias y residuos en animales y sus productos.
+
+### Artículo 2
+
+Artículo 2. Hecho imponible.
+Constituye el hecho imponible de las presentes Tasas, la prestación de las actividades realizadas por la Generalidad para preservar la salud pública y la sanidad animal, mediante la práctica de inspecciones y controles sanitarios de animales y sus carnes frescas destinadas al consumo, así como de otros productos de origen animal, efectuadas por los facultativos de los servicios correspondientes, tanto en los locales o establecimientos de sacrificio, despiece y almacenamiento frigorífico, sitos en el territorio de la Comunidad Autónoma Valenciana, como los demás controles y análisis realizados en los centros habilitados al efecto.
+A efectos de la exacción del tributo, las actividades de inspección y control sanitario que se incluyen dentro del hecho imponible se catalogan de la siguiente forma:
+a) Inspecciones y controles sanitarios «ante mortem» para la obtención de carnes frescas de ganado bovino, porcino, ovino, caprino, y otros rumiantes, conejos y caza menor de pluma y pelo, solípedos/équidos, aves de corral y todo tipo de animales que puedan destinarse al consumo humano y que se contemplen en la normativa de la Comunidad Europea al respecto.
+b) Inspecciones y controles sanitarios «post mortem» de los animales sacrificados para la obtención de las mismas carnes frescas.
+c) Control documental de las operaciones realizadas en el establecimiento.
+d) El control y estampillado de las canales, vísceras y despojos destinados al consumo humano así como el marcado o marchamado de las piezas obtenidas en las salas de despiece.
+e) Control de las operaciones de almacenamiento de carnes frescas para el consumo humano, desde el momento en que así se establezca, excepto las relativas a pequeñas cantidades realizadas en locales destinados a la venta a los consumidores finales.
+f) Control de determinadas sustancias y residuos en animales y sus productos, en la forma prevista por la normativa vigente.
+
+### Artículo 3
+
+Artículo 3. Sujeto pasivo.
+Son sujetos pasivos obligados al pago de los tributos, según el tipo de tasa de que se trate, las siguientes personas o entidades:
+a) En el caso de las tasas relativas a las inspecciones y controles sanitarios oficiales «ante mortem» y «post mortem» de los animales sacrificados, estampillado de canales, vísceras y despojos destinados al consumo humano, los titulares de los establecimientos donde se lleve a cabo el sacrificio, o se practique la inspección, ya sean personas físicas o jurídicas.
+b) En las tasas relativas al control de las operaciones de despiece:
+1. Las mismas personas determinadas en la letra a) cuando las operaciones de despiece se realicen en el mismo matadero.
+2. Las personas físicas o jurídicas titulares de los establecimientos dedicados a la operación de despiece de forma independiente, en los demás casos.
+c) En las tasas relativas al control del almacenamiento, desde el momento en que se fijen, las personas físicas o jurídicas titulares de los establecimientos de almacenamiento.
+d) En las tasas relativas al control de sustancias y residuos en animales y sus productos, los titulares de los establecimientos, ya sean personas físicas o jurídicas, donde se obtengan las muestras para llevar a cabo los citados controles o análisis.
+Los sujetos pasivos anteriores deberán repercutir las tasas, cargando su importe en factura, a los interesados que hayan solicitado la prestación del servicio, o para quienes se realicen las operaciones de sacrificio, despiece, almacenamiento o control de determinadas sustancias y residuos en animales y sus productos descritos en el artículo anterior, procediendo a su ingreso a favor de la Comunidad Autónoma en la forma en que se establezca mediante Orden de la Conselleria competente en materia de Hacienda.
+En el caso de que el interesado, a su vez, haya adquirido el ganado vivo a otro tercero, para sacrificio, podrá exigir de éste el importe de la tasa correspondiente al concepto definido en la letra f) del artículo 2 anterior.
+En todos los casos, tendrán igualmente la condición de sujetos pasivos o interesados las herencias yacentes, comunidades de bienes y demás entidades que, aunque no tengan personalidad jurídica propia, constituyan una unidad económica o un patrimonio separado.
+Se modifica por el art. 23 de la Ley 16/2008, de 22 de diciembre. Ref. BOE-A-2009-1603
+
+### Artículo 4
+
+Artículo 4. Responsables del pago del tributo.
+Serán responsables subsidiarios en los supuestos y con el alcance previsto en el artículo 40 de la Ley General Tributaria, los Administradores de las sociedades y los Síndicos, Interventores o Liquidadores de quiebras, concursos, sociedades y entidades en general que se dediquen a las actividades cuya inspección y control genera el devengo de las tasas.
+
+### Artículo 5
+
+Artículo 5. Devengo del tributo.
+Las tasas que corresponde satisfacer se devengarán en el momento en que se lleven a cabo las actividades de inspección y control sanitario de animales y sus productos, en los establecimientos o instalaciones, en que se desarrollen las mismas, sin perjuicio de que se exija su previo pago cuando la realización del control sanitario se inicie a solicitud del sujeto pasivo, o del interesado.
+En el caso de que en un mismo establecimiento y a solicitud del interesado se realicen en forma sucesiva las tres operaciones de sacrificio, despiece y almacenamiento, o dos de ellas en fases igualmente sucesivas, el total de la cuantía de la tasa se determinará de forma acumulada al comienzo del proceso, con independencia del momento del devengo de las cuotas correspondientes, y sin perjuicio de lo previsto en el artículo 8.
+
+### Artículo 6
+
+Artículo 6. Lugar de realización del hecho imponible.
+Se entenderá realizado el hecho imponible en el territorio de la Comunidad Autónoma Valenciana, cuando en el mismo radique el establecimiento en que se sacrifiquen los animales, se despiecen las canales, se almacenen las carnes o se efectúen los controles de determinadas sustancias y residuos en animales y sus productos, sin que puedan existir restituciones a favor de otras Comunidades Autónomas.
+Se exceptúa de la norma general anterior la cuota correspondiente a la investigación de residuos en el caso de que, a pesar de haberse producido el sacrificio de ganado en un establecimiento radicado en esta Comunidad, el laboratorio autorizado que desarrolle dicha investigación no dependa de la misma, en cuyo caso, la tasa correspondiente se atribuirá a la Administración de la que efectivamente dependa el indicado centro.
+En el caso de que la inspección sanitaria de las aves de corral vivas se realice en la explotación de origen, la parte de la cuota tributaria correspondiente a esta inspección se percibirá en la misma y ascenderá al 20 por 100 de la cuota que se fija en el artículo siguiente.
+
+### Artículo 7
+
+Artículo 7. Cuota tributaria de la tasa por inspecciones y controles sanitarios de carnes frescas, carnes de aves de corral y carnes de conejo y caza.
+1. La cuota tributaria se exigirá al contribuyente por cada una de las operaciones relativas al:
+Sacrificio de animales.
+Operaciones de despiece.
+Control del almacenamiento.
+No obstante, cuando concurran en un mismo establecimiento las operaciones de sacrificio, despiece y almacenamiento, el importe total de la tasa a percibir comprenderá el de las cuotas de las tres fases acumuladas en la forma prevista en el artículo 8.
+2. En las operaciones de sacrificio realizadas en mataderos las cuotas se liquidarán en función del número de animales sacrificados, aplicándose al efecto las siguientes tarifas:
+Carne de vacuno:
+Vacunos con más de 218 Kg. de peso por canal: 5 euros por animal.
+Vacunos con menos de 218 Kg. de peso por canal: 2 euros por animal.
+Carne de solípedos/équidos: 3 euros por animal.
+Carne de porcino:
+Animales de menos de 25 Kg en canal: 0,50 euros por animal.
+Animales de peso igual o superior a 25 Kg en canal: 1 euro por animal.
+Carne de ovino y de caprino:
+Animales de menos de 12 Kg en canal: 0,15 euros por animal.
+Animales de peso igual o superior a 12 Kg en canal: 0,25 euros por animal.
+Carne de aves y conejos:
+Aves del género Gallus y pintadas: 0,005 euros por animal.
+Patos y ocas: 0,01 euros por animal.
+Pavos: 0,025 euros por animal.
+Carne de conejo de granja: 0,005 euros por animal.
+3. Para los controles a realizar en salas de despiece, incluido el etiquetado y marcado de piezas obtenidas de las canales, la cuota se determinará en función del número de toneladas sometidas a la operación de despiece, tomándose como referencia el peso real de la carne antes de despiezar, incluidos los huesos, aplicándose las siguientes tarifas:
+Por tonelada de carne:
+De vacuno, porcino, solípedo/equino, ovino y caprino: 2 euros.
+De aves y conejos de granja: 1,50 euros.
+De caza silvestre y de cría:
+De caza menor de pluma y pelo: 1,50 euros.
+De ratites (avestruz, emú, ñandú): 3 euros.
+De verracos y rumiantes: 2 euros.
+4. Para los controles a realizar en establecimientos de transformación de la caza la cuota se determinará en función del número de animales sometidos a operaciones de transformación, aplicándose al efecto las siguientes tarifas:
+Caza menor de pluma: 0,005 euros por animal.
+Caza menor de pelo: 0,01 euros por animal.
+Ratites: 0,50 euros por animal.
+Mamíferos terrestres:
+Verracos: 1,50 euros por animal.
+Rumiantes: 0,50 euros por animal.
+5. Para las operaciones de almacenamiento, la cuota se determinará en función del número de toneladas sometidas a las operaciones de control de almacenamiento, aplicándose, al efecto, la tarifa de 0,50 euros por tonelada.
+Se modifican los apartados 2 y 5 por el art. 19 de la Ley 12/2009, de 23 de diciembre. Ref. BOE-A-2010-1279
+ Se modifica por el art. 22 de la Ley 14/2007, de 26 de diciembre. Ref.BOE-A-2008-1338
+
+### Artículo 8
+
+Artículo 8. Reglas relativas a la acumulación de cuotas
+Las cuotas tributarias devengadas en cada caso se deberán acumular cuando concurra la circunstancia de una integración de todas o algunas de las fases de devengo concurran en un mismo establecimiento, de acuerdo con las siguientes reglas:
+a) En caso de que en el mismo establecimiento se efectúen operaciones de sacrificio, despiece y almacenamiento se aplicarán los siguientes criterios para la exacción y devengo del tributo:
+a.1 La tasa a percibir será igual al importe acumulado de las cuotas tributarias devengadas por las operaciones citadas hasta la fase de entrada en almacén inclusive.
+a.2 Si la tasa percibida en el matadero cubriese igualmente la totalidad de los gastos de inspección por operaciones de despiece y control de almacenamiento, no se percibirá tasa alguna por estas dos últimas operaciones.
+b) Cuando concurran en un mismo establecimiento únicamente operaciones de sacrificio y despiece y la tasa percibida en el matadero cubriese igualmente la totalidad de los gastos de inspección por operaciones de despiece, no se percibirá tasa alguna por dicho concepto.
+c) En el caso de que en el mismo establecimiento se realicen solamente operaciones de despiece y almacenamiento, no se devengará la cuota relativa a inspecciones y controles sanitarios de carnes por la operación de almacenamiento.
+Se entenderá que la tasa exigida por el sacrificio cubre igualmente los gastos de control de las operaciones de despiece, o incluso de las operaciones de despiece y almacenamiento, cuando la situación de los locales en los que se desarrollan las mismas, reconocida por el órgano competente en materia de inspección sanitaria de animales y sus productos, permita a los técnicos facultativos llevar a cabo el control de todas ellas sin un incremento apreciable del tiempo, que normalmente sería preciso dedicar, por sí solo, al control de las operaciones de sacrificio.
+Se modifica por el art. 24 de la Ley 16/2008, de 22 de diciembre. Ref. BOE-A-2009-1603
+
+### Artículo 9
+
+Artículo 9. Cuota tributaria de la tasa por controles sanitarios respecto de determinadas sustancias y sus residuos en animales vivos y sus productos.
+1. La cuota tributaria de la tasa por inspección y control sanitario de las carnes frescas, carnes de aves de corral, y carnes de conejo y caza, a que se refiere el artículo 7, incluye los costes derivados del control sanitario de determinadas sustancias y la investigación de residuos en los animales vivos a los que hace referencia dicho artículo, practicados según los métodos de análisis previstos en las reglamentaciones técnico sanitarias sobre la materia, dictadas por el propio Estado español, o catalogadas de obligado cumplimiento en virtud de normas emanadas de la Unión Europea.
+2. Por el control de determinadas sustancias y residuos en productos de acuicultura, se percibirá una cuota de 0,114922 euros por Tm.
+3. Por el control e investigación de sustancias y residuos en la leche, productos lácteos y ovoproductos se percibirá una cuota de 0,022984 por cada mil litros de leche cruda utilizada como materia prima o por cada Tonelada Métrica de ovoproductos.
+Se modifica por el art. 20 de la Ley 12/2009, de 23 de diciembre. Ref. BOE-A-2010-1279
+
+### Artículo 9 bis
+
+Artículo 9 bis. Deducciones en la cuota.
+Resultarán de aplicación a la cuota las siguientes deducciones:
+Uno. En relación con las cuotas correspondientes a operaciones de sacrificio, y con el máximo de la suma de tres deducciones en cada liquidación del periodo impositivo, las que correspondan de entre las siguientes:
+a) Deducción por apoyo instrumental al control oficial, que procederá cuando el sujeto pasivo ponga a disposición de los servicios de inspección ropa de trabajo, el material y los equipamientos apropiados para llevar a cabo las actividades de control específicas en las mismas instalaciones, incluyendo, a tal efecto, equipos de protección individual adecuados, espacios de trabajo suficientes y debidamente equipados y condiciones, así como las herramientas y útiles necesarios para realizar las funciones de inspección oficial: 20 % de la cuota.
+b) Deducción por actividad planificada y estable, que procederá cuando los sujetos pasivos dispongan de un sistema de planificación y programación de la producción y lo lleven a la práctica de manera efectiva, permitiendo a los servicios de inspección conocer el servicio que hace falta prestar con una anticipación mínima de setenta y dos horas, con el fin de prever los recursos necesarios y optimizar la organización de dicho servicio: 25 % de la cuota.
+c) Deducción por horario regular diurno, que procederá cuando en el periodo impositivo, el sujeto pasivo lleve a cabo la actividad entre las 8.00 horas y las 22.00 horas, del lunes a viernes laborables: 25 % de la cuota.
+d) Deducción por personal de apoyo al control oficial, que procederá cuando el sujeto pasivo, de acuerdo con su actividad y la normativa vigente, ponga a disposición de los técnicos facultativos sanitarios, encargados del control oficial, personal propio que colabore de forma efectiva y suficientemente relevante en dicho control: 10 % de la cuota. En el caso de la producción de carnes de aves de corral y lagomorfos, la deducción a aplicar por este concepto será el 35 % de la cuota para aquellos establecimientos que dispongan de personal de apoyo al control oficial que participe en funciones específicas en relación con el control de esta producción, de acuerdo con los requisitos establecidos en el Reglamento 854/2004, de 29 de abril.
+e) Deducción por equipación de material y servicio informático, material de oficina y comunicaciones, que procederá cuando el sujeto pasivo ponga a disposición de los servicios de inspección los equipamientos y servicios informáticos, material de oficina y comunicaciones necesarios para poder llevar a cabo las actuaciones de registro de los controles oficiales, incluyendo a tal efecto, equipación de material informático y servicio, material de oficina suficiente y servicio de comunicación: 20 % de la cuota.
+f) Deducción por el control e inspección ante mortem en explotación, que procederá cuando las operaciones de inspección ante mortem se hayan practicado en el ganado en la explotación de origen y no haya que repetirlas en el matadero, en virtud de lo previsto en el anexo I, sección I, capítulo II, punto B.5, del Reglamento 854/2004, del 29 de abril: 10 % de la cuota.
+Dos. Asimismo, podrá aplicarse una deducción de 20 % a la cuota resultante de las operaciones de sacrificio de animales porcinos y solípedos/équidos, por la implantación y acreditación, de manera individual o mediante la asociación con un laboratorio oficial, público o privado, de un sistema de calidad para el control de la presencia de triquina. Esta deducción será compatible con las que resulten de la aplicación de lo dispuesto en el apartado uno de este artículo.
+Tres. En relación con las cuotas correspondientes a los controles en salas de despiece y en establecimientos de transformación de la caza, y con el máximo de la suma de dos deducciones en cada liquidación del periodo impositivo, las que correspondan de entre las siguientes:
+a) Deducción por sistemas de autocontrol evaluados, que procederá cuando el establecimiento disponga de un sistema de autocontrol basado en el análisis de peligros y puntos de control críticos (APPCC), sea evaluado oficialmente por la autoridad competente y esta evaluación de un resultado favorable: 20 % de la cuota.
+b) Deducción por actividad planificada y estable, que procederá cuando los sujetos pasivos que lleven a cabo la actividad de despiece o manipulación de la caza dispongan en su producción de un sistema de planificación y programación y lo lleven a la práctica de manera efectiva, permitiendo a los servicios de inspección conocer el servicio que hace falta prestar con una anticipación mínima de setenta y dos horas, con el fin de prever los recursos y optimizar la organización: 20 % de la cuota.
+c) Deducción por horario regular diurno, que procederá cuando en el periodo impositivo el sujeto pasivo lleve a cabo la actividad entre las 8.00 horas y las 22.00 horas, del lunes a viernes laborables: 25 % de la cuota.
+Cuatro. Las deducciones a que hacen referencia las letras c) y f) del apartado uno y la letra c) del apartado tres sólo se pueden aplicar a la parte de la producción que cumpla los requisitos para la aplicación de la deducción.
+Cinco. La aplicación de las deducciones exigirá su previo reconocimiento, a solicitud del sujeto pasivo, mediante resolución del conseller competente en materia de sanidad. En caso de falta de resolución en el plazo de tres meses a contar desde el día siguiente al de la presentación de la solicitud, la misma se entenderá estimada. En cualquier caso, la aplicación de las deducciones solicitadas se podrá efectuar a partir del periodo impositivo siguiente al de su reconocimiento expreso o presunto, el cual tendrá un periodo de vigencia de un año.
+Se modifica el apartado 1.d) por el art. 50 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+ Se modifica por el art. 36 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253
+ Se añade por el art. 25 de la Ley 16/2008, de 22 de diciembre. Ref. BOE-A-2009-1603
+
+### Artículo 10
+
+Artículo 10. Liquidación e ingreso.
+Uno.–La liquidación e ingreso de las tasas se efectuará mediante autoliquidación del sujeto pasivo, en la forma y plazos que se establezcan mediante Orden de la Conselleria competente en materia de Hacienda.
+Dos.–Los sujetos pasivos de las tasas repercutirán las mismas a los interesados a los que se refiere el párrafo segundo del artículo 3, quedando estos últimos obligados a soportarlas. La repercusión deberá realizarse en la correspondiente factura, figurando en la misma como partida separada.
+Tres.–Los sujetos pasivos deberán llevar el registro de las operaciones que sean objeto de las tasas. El incumplimiento de esta obligación dará origen a la imposición de las sanciones de orden tributario que correspondan, con independencia de las que se puedan determinar al tipificar las conductas de los titulares de las explotaciones en el orden sanitario.
+Se modifica por el art. 26 de la Ley 16/2008, de 22 de diciembre. Ref. BOE-A-2009-1603
+
+### Artículo 11
+
+Artículo 11. Infracciones y sanciones tributarias.
+En todo caso, en lo relativo a la calificación de infracciones tributarias, así como en la determinación de las sanciones correspondientes y el procedimiento sancionador aplicable se estará, en cada caso, a lo dispuesto en los artículos 77 y siguientes de la Ley General Tributaria y sus normas de desarrollo en esta materia.
+
+### Artículo 12
+
+Artículo 12. Exenciones y bonificaciones.
+Sobre las cuotas que resulten de las liquidaciones practicadas según las reglas contenidas en los apartados anteriores no se concederá exención ni bonificación alguna, cualquiera que sea el titular de las explotaciones o el territorio en que se encuentren ubicados.
+
+### Artículo 13
+
+Artículo 13. Norma adicional.
+El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea en forma directa o indirecta.
+
+### Disposición adicional
+
+Disposición adicional.
+En todo lo no regulado expresamente en esta Ley, será de aplicación la Ley de Tasas de la Generalitat.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A partir de la entrada en vigor de esta Ley quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley y en particular el capítulo II «Tasa por los servicios de inspección y control sanitario de carnes frescas» del título V «Conselleria de Sanidad y Consumo» del Decreto Legislativo de 14 de noviembre de 1995, del Gobierno Valenciano, por el que se aprueba el texto Refundido de la Ley de Tasas de la Generalitat.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el 1 de enero de 1998.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, Tribunales, Autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 16 de diciembre de 1997.
+EDUARDO ZAPLANA HERNÁNDEZ-SORO,
+Presidente

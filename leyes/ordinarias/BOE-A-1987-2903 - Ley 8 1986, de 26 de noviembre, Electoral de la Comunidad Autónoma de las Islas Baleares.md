@@ -1,0 +1,381 @@
+# Ley 8/1986, de 26 de noviembre, Electoral de la Comunidad Autónoma de las Islas Baleares.
+
+- Identificador BOE: `BOE-A-1987-2903`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-2903
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+La presente Ley da cumplimiento al artículo 20.3 del Estatuto de Autonomía de las Islas Baleares, que establece que «una Ley del Parlamento aprobada por la mayoría absoluta regulará el total de Diputados que lo han de integrar, los distritos electorales y el número de Diputados que ha de corresponder elegir a cada uno de éstos».
+Para dar cumplimiento a las previsiones estatutarias contenidas en el artículo 20.1, que determina que «El Parlamento estará formado por los Diputados del territorio autónomo, elegidos por sufragio universal, igual, directo y secreto, mediante un sistema de representación proporcional que asegurará una representación adecuada de todas las zonas del territorio», la Ley establece cuatro circunscripciones electorales, una para cada una de las islas de Mallorca, Menorca, Ibiza y Formentera, y se fija por cada circunscripción un número de Diputados: 33 en Mallorca, 13 en Menorca, 12 en Ibiza, 1 en Formentera, obtenidos por corrección de la composición del primer Parlamento, elegido de acuerdo con la disposición transitoria segunda del Estatuto de Autonomía, con la finalidad de asegurar que los Consejos Insulares, que por voluntad estatutaria están integrados por los Diputados elegidos en cada una de las islas, tengan un número impar de miembros, en concordancia con las determinaciones de la Ley Orgánica del Régimen Electoral General en cuanto a la composición de Ayuntamientos, Diputaciones Provinciales y Cabildos Insulares.
+En ejercicio de las competencias propias y, por tanto, respetando las competencias del Estado relacionadas en el apartado 2 de la disposición adicional primera de la Ley Orgánica 5/1985, del Régimen Electoral General, la presente Ley regula en el título I, disposiciones generales, los electores y los elegibles, añadiendo a las inelegibilidades e incompatibilidades genéricas otras de específicas para las elecciones autonómicas de las islas Baleares. El título II, sobre administración electoral, crea la Junta Electoral de las islas Baleares, la composición, las competencias y el funcionamiento de ésta. El título III regula la convocatoria de elecciones. El título IV trata del sistema electoral estableciendo las circunscripciones y los escaños a cubrir en cada circunscripción. El título V, relativo al procedimiento electoral establece la relación con las candidaturas, la figura del representante general; la tramitación de las candidaturas. También regula la posibilidad de que el Gobierno y los Consejos Insulares hagan campañas institucionales para fomentar la participación en la votación. Se prevé y se regula la utilización de las radios y televisiones públicas durante la campaña electoral: Comisión de control, tiempo para cada partido, federación o coalición, orden de emisión, etc. Se regulan las papeletas y los sobres electorales en cuanto al contenido y a la obligación del Gobierno de asegurar su disponibilidad y la libertad de los grupos políticos para confeccionarlos; las figuras de los Apoderados e Interventores son incorporadas a la Ley autonómica. El título VI, trata de los gastos y de las subvenciones electorales, regula la figura del Administrador general y establece la cuantía de las subvenciones electorales por escaño y por votos obtenidos, el límite de los gastos electorales y los anticipos a que tendrán derecho los partidos, federaciones, coaliciones o agrupaciones de electores con representación en las últimas elecciones y el control de la contabilidad electoral y la entrega de las subvenciones.
+
+## TÍTULO PRELIMINAR
+
+Del ámbito de aplicación de la Ley
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley, en cumplimiento de las previsiones contenidas en el Estatuto de Autonomía, tiene por objeto regular las elecciones al Parlamento de las Islas Baleares, sin perjuicio de lo que disponga la legislación del Estado en materia de Régimen Electoral de su competencia.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Derecho de sufragio activo
+
+### Artículo 2
+
+Artículo 2.
+1. Son electores todos los que, gozando del derecho de sufragio universal activo, tengan la condición política de ciudadano de la Comunidad Autónoma, de conformidad con el artículo 6.1 del Estatuto de Autonomía de las Islas Baleares.
+2. Para el ejercicio del derecho de sufragio es indispensable la inclusión en el censo electoral único vigente, referido al territorio de las islas Baleares.
+
+## CAPÍTULO II
+
+Derecho de sufragio pasivo
+
+### Artículo 3
+
+Artículo 3.
+1. Son elegibles todos los ciudadanos que teniendo la condición de electores no se encuentren incursos en alguna de las causas de inelegibilidad previstas en las disposiciones comunes de la Ley Orgánica del Régimen Electoral General.
+2. Son asimismo inelegibles:
+a) Los miembros del Gobierno del Estado y las personas titulares de las secretarías de Estado, subsecretarías, secretarías técnicas y direcciones generales de la Administración General del Estado.
+b) Las personas titulares de la Sindicatura de Greuges, de la Sindicatura de Cuentas y de la Dirección de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears.
+c) Los parlamentarios de las asambleas legislativas de otras comunidades autónomas.
+d) Los miembros de los gobiernos de las otras comunidades autónomas y los altos cargos de estas.
+e) Los que ejerzan funciones o cargos conferidos y remunerados por estados extranjeros.
+f) Las personas titulares del órgano superior unipersonal de la Corporación de Radiotelevisión Española, los miembros del órgano superior colegiado de esta y los titulares directores de sus sociedades, como también las personas titulares del órgano superior unipersonal y los miembros del órgano superior colegiado de las radiotelevisiones de las otras comunidades autónomas.
+3. La calificación de inelegible procederá respecto de los que incurran en algunas de las causas citadas el mismo día de la presentación de su candidatura o en cualquier otro momento posterior hasta la celebración de las elecciones.
+Se modifica el apartado 2 por la disposición final 7.1 de la Ley 1/2019, de 31 de enero. Ref. BOE-A-2019-2862#df-7
+
+### Artículo 4
+
+Artículo 4.
+Los electores que aspiren a ser proclamados candidatos y no figuren en las listas del censo electoral referido a las islas Baleares lo podrán ser siempre que en la solicitud acrediten de manera fehaciente que reúnen todas las condiciones exigidas para serlo.
+
+## CAPÍTULO III
+
+De las incompatibilidades
+
+### Artículo 5
+
+Artículo 5.
+1. Todas las causas de inelegibilidad lo son también de incompatibilidad.
+2. También son incompatibles, además de las personas comprendidas en el artículo 155.2 y 3 de la Ley Orgánica de régimen electoral general:
+a) Los senadores, salvo las personas elegidas en representación de la comunidad autónoma de las Illes Balears.
+b) Las personas que ostenten la condición de parlamentarios europeos.
+c) Las personas titulares de las direcciones generales, secretarías generales y otros órganos asimilados en rango, de la Administración de la comunidad autónoma, así como de las direcciones de los gabinetes de la Presidencia y de las consejerías, y los asimilados a estas.
+d) La persona titular de la dirección general y las que ostenten la condición de miembros del Consejo de Dirección del Ente público de Radiotelevisión de las Illes Balears
+3. No obstante los Diputados que fueran miembros del Gobierno de la Comunidad Autónoma de las Islas Baleares podrán compatibilizar su cargo con el de la presidencia de los consejos de administración de las empresas públicas u otros entes públicos adscritos a su Consejería.
+4. Ningún elector adquirirá la condición de Diputado si se encuentra incurso en una causa de incompatibilidad.
+5. El Diputado para las islas Baleares que acepte un cargo, una función o una situación que sean constitutivos de una incompatibilidad, cesará en su condición de parlamentario.
+Se modifica por la disposición final 7.2 y 3 de la Ley 1/2019, de 31 de enero. Ref. BOE-A-2019-2862#df-7
+ Se modifica el apartado 2.d) por el art. 22 de la Ley 9/1997, de 22 de diciembre. Ref. BOE-A-1998-9158.
+
+## TÍTULO II
+
+Administración Electoral
+
+### Artículo 6
+
+Artículo 6.
+Integran la Administración Electoral la Junta Electoral Central, la Junta Electoral de las Islas Baleares, que asume las funciones de la Junta Provincial, las Juntas de Zona y las Mesas Electorales.
+
+### Artículo 7
+
+Artículo 7.
+1. La Junta Electoral de las Islas Baleares es un órgano permanente y está integrado por:
+a) Tres Vocales, Magistrados del Tribunal Superior de Justicia de las Islas Baleares, designados por insaculación celebrada por su Sala de Gobierno en Pleno.
+b) Dos Vocales, Catedráticos o Profesores titulares de Derecho, en activo, o juristas de reconocido prestigio residentes en las Baleares, designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en el Parlamento de las Islas Baleares.
+2. La designación de los Vocales a los que se refiere el apartado 1 debe de realizarse dentro de los noventa días siguientes a la sesión constitutiva del Parlamento de las Islas Baleares. Cuando la propuesta de las personas previstas en el apartado 1.b), no se realice en el citado plazo, la Mesa del Parlamento, oídos los grupos políticos presentes en la Cámara, procederá a su designación, en consideración a la representación existente en la misma.
+3. Los miembros de la Junta Electoral de las Islas Baleares serán nombrados por Decreto del Gobierno de la Comunidad Autónoma y continuarán en su mandato hasta la toma de posesión de la nueva Junta Electoral, al inicio de la siguiente legislatura.
+4. Los Vocales eligen, de entre los de origen judicial, el Presidente y el Vicepresidente de la Junta en la sesión constitutiva que se celebrará, a convocatoria del Secretario, en los quince días siguientes a la publicación del Decreto de nombramiento.
+5. El Secretario de la Junta Electoral de las Islas Baleares es el Oficial Mayor del Parlamento de las Islas Baleares; participa en sus deliberaciones con voz y sin voto y custodia la documentación correspondiente a la Junta Electoral.
+6. Asimismo, participará en las reuniones de la Junta Electoral, con voz pero sin voto, el Delegado provincial de la Oficina del Censo Electoral.
+7. La Junta Electoral de las Islas Baleares tendrá su sede en el Parlamento.
+
+### Artículo 8
+
+Artículo 8.
+En los supuestos previstos en los artículos 14 y 16 de la Ley Orgánica del Régimen Electoral General, así como en el caso de renuncia justificada y aceptada del Presidente, se procederá a la sustitución de los miembros de la Junta, de conformidad con las siguientes reglas:
+a) El Presidente, el Vicepresidente y los Vocales, de conformidad con el mismo procedimiento de su designación.
+b) El Oficial Mayor del Parlamento por el Letrado más antiguo y, en caso de igualdad, por el de mayor edad.
+
+### Artículo 9
+
+Artículo 9.
+1. El Parlamento fijará las dietas correspondientes a los miembros de la Junta Electoral de las Islas Baleares y pondrá a disposición de la Junta los medios personales y materiales para el ejercicio de sus funciones.
+2. La percepción de las retribuciones de los miembros de la Junta Electoral de las Islas Baleares es, en todo caso, compatible con sus haberes.
+3. El control financiero de los citados haberes se realiza de acuerdo con la legislación vigente.
+
+### Artículo 10
+
+Artículo 10.
+Además de las competencias establecidas en la legislación vigente, corresponde a la Junta Electoral de las Islas Baleares:
+a) Resolver las consultas que le elevan las Juntas de Zona y dictar instrucciones en las mismas en materia de su competencia.
+b) Resolver quejas, reclamaciones y recursos que le dirijan, de acuerdo con la presente Ley o con cualquier otra disposición que le atribuya esta competencia.
+c) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+d) Corregir las infracciones que se produzcan en el proceso electoral siempre que no sean constitutivas de delito y no estén reservadas a los Tribunales o a la Junta Electoral Central, e imponer multas de hasta la cantidad de 150.000 pesetas, de conformidad con lo establecido por la Ley.
+
+## TÍTULO III
+
+Convocatoria de elecciones
+
+### Artículo 11
+
+Artículo 11.
+1. La convocatoria de elecciones al Parlamento se efectuará mediante decreto del presidente de la Comunidad Autónoma, en los casos previstos en el Estatuto de Autonomía de las Islas Baleares, de conformidad con los requisitos establecidos en el artículo 42 de la Ley Orgánica del Régimen Electoral General, y se publicará en el "Boletín Oficial de la Comunidad Autónoma de las Islas Baleares".
+2. El Decreto será publicado asimismo en el "Boletín Oficial del Estado" y será difundido por los medios de comunicación social de las Islas Baleares».
+Se modifica por el art. único de la Ley 5/1995, de 22 de marzo. Ref. BOE-A-1995-11266.
+
+## TÍTULO IV
+
+Sistema electoral
+
+### Artículo 12
+
+Artículo 12.
+1. El Parlamento de las Islas Baleares está integrado por 59 Diputados, elegidos en las cuatro circunscripciones insulares.
+2. Las atribuciones de escaños en las distintas circunscripciones insulares es la siguiente: 33, en la isla de Mallorca; 13, en la de Menorca; 12, en la de Ibiza, y 1, en la de Formentera.
+3. La atribución de los escaños a las candidaturas que hubieran superado el porcentaje que se establece en el apartado siguiente se realizará conforme a lo dispuesto en las letras b), c), d) y e) del artículo 163.1 de la Ley Orgánica del Régimen Electoral General, en cada una de las circunscripciones electorales.
+4. A efectos de la atribución de escaños no serán tenidas en cuenta aquellas candidaturas que no hubiesen obtenido, al menos, el 5 por 100 de los votos válidos emitidos en la circunscripción.
+Se modifica el apartado 3 y se añade apartado 4 por el art. único.1 y 2 de la Ley 4/1995, de 21 de marzo. Ref. BOE-A-1995-11265.
+
+### Artículo 13
+
+Artículo 13.
+En caso de muerte, incapacidad o renuncia de un Diputado, el escaño será atribuido al candidato siguiente o, en su caso, al suplente de la misma lista.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO I
+
+De las candidaturas
+
+### Artículo 14
+
+Artículo 14.
+1. Los partidos, federaciones, coaliciones agrupaciones que pretendan concurrir en las elecciones designarán las personas que les tengan que representar ante la Administración Electoral, como representantes generales o de candidaturas.
+2. Los representantes generales actúan en nombre de los partidos, federaciones y coaliciones concurrentes en las elecciones.
+3. Los representantes de las candidaturas lo son de los candidatos incluidos en ellas. En el lugar designado expresamente o, en su defecto, en su domicilio, les serán enviadas las notificaciones, las citaciones, los emplazamientos y los requerimientos dirigidos por la Administración Electoral a los candidatos, y recibirán de éstos, por la sola aceptación de la candidatura, un apoderamiento general para actuar en procedimientos judiciales de carácter electoral.
+
+### Artículo 15
+
+Artículo 15.
+1. A los efectos previstos en el artículo anterior, los partidos, federaciones y coaliciones que pretendan concurrir en las elecciones designarán un representante general y un suplente, mediante escrito presentado a la Junta Electoral de las Islas Baleares, antes del noveno día posterior al de la convocatoria de elecciones. El citado escrito deberá expresar la aceptación de las personas elegidas. El suplente sólo podrá actuar en caso de renuncia, muerte o incapacidad del representante general.
+2. El representante general designará, mediante escrito presentado ante la Junta Electoral de las Islas Baleares, y antes del onceavo día posterior al de la convocatoria, los representantes de las candidaturas de su partido, federación o coalición en cada una de las circunscripciones electorales y sus respectivos suplentes.
+3. En el plazo de dos días, la Junta Electoral de las Islas Baleares comunicará a las Juntas de Zona las designaciones a que se refiere el número anterior.
+4. Los representantes de las candidaturas y los suplentes de éstos se personarán ante las respectivas Juntas de Zona que correspondan a su circunscripción, para aceptar la designación, antes del quinceavo día posterior al de la convocatoria.
+5. Los promotores de las agrupaciones de electores designarán los representantes de sus candidaturas y los suplentes en el momento de presentación de éstas ante las respectivas Juntas de Zona. Dichas designaciones deben ser aceptadas en este acto.
+
+### Artículo 16
+
+Artículo 16.
+1. En cada circunscripción la junta electoral de zona correspondiente es la competente para todas las actuaciones previstas en relación con la presentación y proclamación de las candidaturas.
+2. Para presentar candidaturas, las agrupaciones de electores necesitarán, por lo menos, la firma del 1% de los inscritos en el censo electoral de la circunscripción. Cada elector solamente podrá apoyar a una agrupación electoral.
+3. La presentación de candidaturas deberá realizarse entre el decimoquinto y el vigésimo día posterior a la convocatoria, mediante listas que deben incluir tantos candidatos como escaños a elegir por cada circunscripción y, además, tres suplentes en las candidaturas de once o más diputados, y dos en las restantes, expresando el orden de colocación de todos ellos.
+4. Con la finalidad de hacer efectivo el principio de igualdad en la participación política, las candidaturas electorales deberán contener una presencia equilibrada de hombres y mujeres. Las listas se integrarán por candidatos de uno y otro sexo ordenados de forma alternativa.
+5. Junto al nombre de los candidatos puede hacerse constar su condición de independiente o, en caso de coaliciones electorales, la denominación del partido al que pertenezca cada uno.
+6. No pueden presentarse candidaturas con símbolos que reproduzcan la bandera o el escudo de la comunidad autónoma, de los consejos insulares o de los ayuntamientos.
+Se declara el desistimiento en el recurso de inconstitucionalidad 5536/2002, por auto de 10 de octubre de 2006. Ref. BOE-A-2006-19089.
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 4 por auto de 14 de enero de 2003. Ref. BOE-A-2003-1683.
+ Se suspende la vigencia y aplicación del apartado 4, en la redacción dada por la Ley 6/2002, de 21 de junio. Ref. BOE-A-2002-14192. desde el 27 de septiembre de 2002 para las partes en el proceso y desde el 31 de octubre de 2002 para los terceros, por providencia del TC de 15 de octubre de 2002 que admite a trámite el recurso de inconstitucionalidad 5536/2002. Ref. BOE-A-2002-21069.
+ Se modifica por el art. 1 de la Ley 6/2002, de 21 de junio. Ref. BOE-A-2002-14192.
+
+### Artículo 17
+
+Artículo 17.
+1. Las juntas electorales de zona inscribirán las candidaturas presentadas, haciendo constar la fecha y hora de la presentación y expedirán un documento acreditativo de este trámite. El secretario otorgará un número correlativo a cada candidatura, según el orden de presentación, y este orden se guardará en todas las publicaciones.
+2. Toda la documentación se presentará por triplicado. El primer ejemplar quedará en la junta electoral de zona, el segundo se remitirá a la Junta Electoral de las Illes Balears, y el tercero se devolverá al representante de la candidatura, haciendo constar en el mismo la fecha y hora de la presentación.
+Se modifica por el art. 2 de la Ley 6/2002, de 21 de junio. Ref. BOE-A-2002-14192.
+
+### Artículo 18
+
+Artículo 18.
+1. Las candidaturas presentadas deben ser publicadas el vigésimo segundo día posterior al de la convocatoria en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares», y serán expuestas en los locales de la Junta Electoral de las Islas Baleares. Además, las de cada circunscripción electoral serán expuestas en los locales de las respectivas Juntas de Zona y en el Ayuntamiento de Formentera.
+2. Dos días después, las Juntas Electorales de Zona comunicarán a los representantes de las candidaturas las irregularidades apreciadas en las mismas de oficio o a instancia de los representantes de cualquier candidatura que concurra en la misma circunscripción. El plazo para subsanar las irregularidades es de cuarenta y ocho horas.
+3. Las Juntas Electorales de Zona realizarán la proclamación de candidaturas el vigésimo séptimo día posterior al de la convocatoria, y serán publicadas en el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares» el vigésimo octavo día, y expuestas en los locales de las Juntas respectivas.
+
+### Artículo 19
+
+Artículo 19.
+1. Las candidaturas no podrán ser modificadas una vez presentadas, exceptuando el plazo habilitado para subsanar las irregularidades previsto en el artículo anterior, y sólo por muerte o renuncia del titular y como consecuencia del mismo trámite de subsanación.
+2. Las bajas producidas después de la proclamación se entenderán cubiertas por los candidatos sucesivos y, en su caso, por los suplentes.
+
+## CAPÍTULO II
+
+Campaña electoral
+
+### Artículo 20
+
+Artículo 20.
+1. Se entiende por campaña electoral el conjunto de actividades lícitas organizadas o desarrolladas por los partidos, federaciones, coaliciones o agrupaciones en orden a la captación de sufragios.
+2. Durante la campaña electoral el Gobierno de la Comunidad Autónoma y los Consejos Insulares podrán realizar campaña institucional orientada exclusivamente a fomentar la participación de los electores en la votación.
+
+## CAPÍTULO III
+
+Utilización de los medios de titularidad pública para la campaña electoral
+
+### Artículo 21
+
+Artículo 21.
+En todo lo no previsto expresamente en este capítulo, la utilización de los medios de comunicación social se regirá por lo que disponga la sección VI, del capítulo VI, del título I, de la Ley Orgánica del Régimen Electoral General.
+
+### Artículo 22
+
+Artículo 22.
+1. Si se produce el supuesto previsto en el artículo 65.5 de la Ley Orgánica del Régimen Electoral General, la Junta Electoral de las Islas Baleares será la competente para distribuir los espacios gratuitos de propaganda electoral, a propuesta de la comisión a que se refiere el número siguiente.
+2. La comisión de control será designada por la Junta Electoral de las Islas Baleares y estará integrada por un representante de cada partido, federación, coalición o agrupación que concurra en las elecciones y tenga representación en el Parlamento. Los citados representantes votarán ponderadamente, de acuerdo con la composición de la Cámara.
+3. La Junta Electoral de las Islas Baleares elige al Presidente de la comisión de control de entre los representantes nombrados de conformidad con el apartado anterior.
+
+### Artículo 23
+
+Artículo 23.
+1. La distribución del tiempo gratuito de propaganda electoral en cada medio de comunicación de titularidad pública y en los distintos ámbitos de programación que éstos tengan, se efectuará de conformidad con el siguiente baremo:
+a) Cinco minutos para los partidos, federaciones y coaliciones que no concurrieron o no obtuvieron representación en las anteriores elecciones autonómicas, o que, habiéndola obtenido, no alcanzaron el 5 por 100 del total de los votos válidos emitidos en el territorio de la Comunidad.
+b) Quince minutos para los partidos, federaciones o coaliciones que, habiendo concurrido a las anteriores elecciones autonómicas, consiguieron entre el 5 y el 15 por 100 del total de votos a que hace referencia el apartado anterior.
+c) Un máximo de veinticinco minutos para los partidos, federaciones o agrupaciones que, habiendo concurrido a las anteriores elecciones autonómicas, hayan alcanzado más del 15 por 100 del total de los votos a que hace referencia el apartado a) de este artículo.
+2. Las agrupaciones de electores que se federen para realizar propaganda en los medios de titularidad pública tendrán derecho a cinco minutos de emisión, si presentan candidaturas, por lo menos, en dos circunscripciones.
+
+### Artículo 24
+
+Artículo 24.
+Para determinar el momento y el orden de emisión de los espacios gratuitos de propaganda electoral a que tienen derecho los partidos, federaciones, coaliciones y agrupaciones que concurran a las elecciones, de acuerdo con lo que se prevé en esta Ley, la Junta Electoral de las Islas Baleares tendrá en cuenta las preferencias de aquéllos en función del número de votos que obtuvieron en las anteriores elecciones autonómicas.
+
+## CAPÍTULO IV
+
+Papeletas y sobres electorales
+
+### Artículo 25
+
+Artículo 25.
+1. Las Juntas Electorales de Zona aprueban el modelo oficial de las papeletas de votación de su circunscripción de acuerdo con los criterios establecidos en esta Ley o en otras normas de rango reglamentarios.
+2. El Gobierno asegura la disponibilidad de papeletas y sobres de votación sin perjuicio de la posibilidad de confección por los mismos grupos políticos que concurran en las elecciones.
+
+### Artículo 26
+
+Artículo 26.
+Las papeletas electorales contendrán las siguientes indicaciones:
+a) La denominación, sigla y símbolo del partido, federación, coalición o agrupación de electores que presente la candidatura.
+b) Los nombres y apellidos de los candidatos y los de sus suplentes, según el orden de colocación, así como, en su caso, la condición de independientes de los candidatos que concurran con tal carácter, o, en caso de coaliaciones electorales, la denominación del partido al que pertenezca cada uno, si así se ha hecho constar en la presentación de la candidatura.
+c) Los partidos, federaciones o coaliciones que, dada su implantación más allá del ámbito estricto de las islas Baleares, figuren con la denominación oficial en lengua castellana, podrán hacer uso de su denominación en catalán y hacerla figurar en las papeletas electorales, comunicándolo previamente a la Junta Electoral.
+
+## CAPÍTULO V
+
+Apoderados e Interventores
+
+### Artículo 27
+
+Artículo 27.
+Los representantes de las candidaturas podrán nombrar, con el alcance y en los términos previstos en la Ley Orgánica del Régimen Electoral General, Apoderados e Interventores para representar las candidaturas en los actos y operaciones electorales.
+
+## TÍTULO VI
+
+Gastos y subvenciones electorales
+
+## CAPÍTULO I
+
+Administradores y cuentas electorales
+
+### Artículo 28
+
+Artículo 28.
+Los partidos, federaciones, coaliciones y agrupaciones de electores nombrarán un Administrador de candidatura y, si se presentan a más de una circunscripción, un Administrador general con el alcance y en los términos previstos en la Ley Orgánica del Régimen Electoral General.
+
+## CAPÍTULO II
+
+Financiación electoral
+
+### Artículo 29
+
+Artículo 29.
+1. La Comunidad Autónoma subvencionará los gastos electorales de acuerdo con las siguientes reglas:
+a) Por escaño obtenido, un millón quinientas mil pesetas.
+b) Por voto conseguido por cada candidatura que habrá obtenido al menos un escaño, cincuenta pesetas.
+2. El límite en pesetas de los gastos electorales de cada partido, federación, coalición o agrupación de electores será el que resulte de multiplicar por ochenta el número de habitantes correspondientes a la población de derecho de la circunscripción electoral donde aquéllos presenten sus candidaturas.
+3. Además de las subvenciones a que se refieren los apartados anteriores, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones o agrupaciones de electores los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Se abonarán veinte pesetas por elector en cada una de las circunscripciones en las que se habrá presentado candidatura, siempre que ésta haya obtenido al menos un escaño.
+b) La cantidad subvencionada no será incluida en el límite previsto en el apartado 2 de este artículo, siempre que se haya justificado la realización efectiva de la actividad a que se refiere este apartado.
+4. Las cantidades citadas se refieren a pesetas constantes. Por orden de la Consellería de Economía y Hacienda, se fijarán las cantidades actualizadas en los cinco días siguientes al de la convocatoria de elecciones.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizarán periódicamente por Orden publicada únicamente en el Boletín Oficial de las Islas Baleares.
+Se modifica por el art. único de la Ley 5/1995, de 22 de marzo. Ref. BOE-A-1995-11266.
+
+### Artículo 30
+
+Artículo 30.
+1. La Comunidad Autónoma concederá anticipos de las subvenciones referidas en el artículo anterior a los partidos, federaciones, coaliciones o agrupaciones de electores que hubiesen obtenido representante en las últimas elecciones autonómicas, por una cuantía máxima del 30 por 100 de la subvención que hubiese correspondido a aquéllos.
+2. Si concurriesen en más de una circunscripción, la solicitud se formalizará por el Administrador general ante la Junta Electoral de las Islas Baleares. En los otros supuestos, por el Administrador de la candidatura ante la Junta Electoral de Zona correspondiente, que la cursará a la Junta Electoral de las Islas Baleares.
+3. Los anticipos podrán solicitarse entre los días vigésimo primero y vigésimo tercero posteriores a la convocatoria y serán puestos a disposición de los Administradores electorales por la Administración de la Comunidad Autónoma a partir del vigésimo noveno día posterior a la convocatoria.
+4. Los anticipos se devolverán después de las elecciones en la cuantía que supere el importe de la subvención que finalmente haya correspondido a cada grupo político.
+
+## CAPÍTULO III
+
+Control de contabilidad y adjudicación de las subvenciones
+
+### Artículo 31
+
+Artículo 31.
+1. El control de la contabilidad electoral se efectuará de la manera y en los plazos señalados en los artículos 132, 133 y 134 de la Ley Orgánica del régimen electoral general. Se remitirá el informe del Tribunal de Cuentas al Consejo de Gobierno y a la Comisión de Asuntos Institucionales y Generales del Parlamento de las Islas Baleares.
+2. La Comunidad Autónoma, en el plazo de los treinta días posteriores a la presentación, ante la Junta Electoral de la Comunidad Autónoma o ante el Tribunal de Cuentas, de la contabilidad, en concepto de anticipo y mientras no concluyan las actuaciones del Tribunal de Cuentas, entregará a los administradores electorales el noventa por ciento del importe de las subvenciones que de acuerdo con los criterios establecidos en la presente Ley corresponda a cada partido, federación, coalición o agrupación de electores, de acuerdo con los resultados publicados en el "Boletín Oficial de la Comunidad Autónoma de las Islas Baleares" y descontando, en su caso, el anticipo a que se refiere el artículo 30 de esta Ley. En este acto, los representantes de los partidos, federaciones, coaliciones y agrupaciones de electores, deberán presentar, para poder suscribir este anticipo, un aval bancario por el importe del diez por ciento de la subvención a percibir.
+3. Una vez que el Tribunal de Cuentas habrá remitido el informe correspondiente, el Consejo de Gobierno, en el plazo de los treinta días siguientes, presentará al Parlamento de las Islas Baleares un proyecto de ley de crédito extraordinario por el importe de las subvenciones a adjudicar, las cuales deberán hacerse efectivas en los cien días posteriores a la aprobación por el Parlamento de la citada ley.
+4. La Administración autonómica entregará el importe de las subvenciones a los administradores electorales de las entidades que las hayan de percibir, excepto en el caso en que éstas hayan notificado a la Junta Electoral de las Islas Baleares que las subvenciones deben ser abonadas en todo o en parte a las entidades bancarias que designen, para compensar los anticipos o créditos que éstas les hayan otorgado. La Administración autonómica verificará su pago de conformidad con los términos de la notificación citada, que no podrá ser revocada sin el consentimiento de la entidad de crédito beneficiaria.
+Se modifica por el art. único de la Ley 5/1995, de 22 de marzo. Ref. BOE-A-1995-11266.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las funciones atribuidas en la presente Ley a las Juntas Electorales de Zona corresponden por la isla de Mallorca a la Junta Electoral de Palma de Mallorca; por la isla de Menorca, a la de Mahón, y por las de Ibiza y Formentera, a la de Ibiza.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El sorteo para la elección de los miembros de la Junta Electoral de Zona competente en la isla de Mallorca para ejercer las funciones atribuidas en esta Ley, se producirá entre todos los Jueces de Primera Instancia de los Partidos Judiciales de la isla.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los plazos a que se refiere esta Ley son improrrogables y se entiende que han de considerarse días naturales.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se faculta al Gobierno de la Comunidad Autónoma para dictar cuantas disposiciones sean necesarias para el cumplimiento y la ejecución de la presente Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Mientras no se haya constituido el Tribunal Superior de Justicia de las Islas Baleares, todas las referencias a éste o a sus Magistrados, contenidas en la presente Ley, se entenderán relativas a la Audiencia Territorial de Palma de Mallorca y a sus Magistrados.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La primera designación de los miembros de la Junta Electoral de las Islas Baleares debe realizarse según el procedimiento del artículo 7, en los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El régimen de incompatibilidades establecido en esta Ley entrará en vigor a partir de las primeras elecciones al Parlamento de las Islas Baleares.
+
+### Disposición final primera
+
+Disposición final primera.
+Para todo lo no previsto en esta Ley será de aplicación lo que se dispone en la Ley Orgánica del Régimen Electoral General para las Elecciones al Congreso de Diputados.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación el «Boletín Oficial de la Comunidad Autónoma de las Islas Baleares».
+
+Palma de Mallorca, 26 de noviembre de 1986.
+JUAN HUGUET ROTGER,
+ GABRIEL CAÑELLAS FONS,
+ Vicepresidente
+ Presidente

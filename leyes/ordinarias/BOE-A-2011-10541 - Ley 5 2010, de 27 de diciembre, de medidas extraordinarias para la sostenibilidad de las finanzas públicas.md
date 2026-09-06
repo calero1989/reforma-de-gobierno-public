@@ -1,0 +1,680 @@
+# Ley 5/2010, de 27 de diciembre, de medidas extraordinarias para la sostenibilidad de las finanzas públicas.
+
+- Identificador BOE: `BOE-A-2011-10541`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-10541
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que el título I de la presente Ley tendrá vigencia hasta el 31 de diciembre de 2011, según se establece en su disposición final 2.2, en la redacción dada por el art. único.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 5/2010, de 27 de diciembre, de Medidas Extraordinarias para la Sostenibilidad de las Finanzas Públicas.
+Por consiguiente, al amparo del artículo 30.dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+La presente Ley tiene por objeto la adopción de una serie de medidas extraordinarias de diversa naturaleza, dirigidas a propiciar la reducción del déficit público de la Comunidad Autónoma de la Región de Murcia, materializando así el compromiso adquirido con el Gobierno de la Nación en tal sentido.
+En el marco de las obligaciones asumidas por España en el ámbito de la Unión Europea, las comunidades autónomas, en la reunión del Consejo de Política Fiscal y Financiera de 15 de junio de 2010, manifestaron su voluntad de adaptar sus objetivos presupuestarios para 2010-2013 a la nueva senda de reducción del déficit, derivada de la aplicación del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptaron medidas extraordinarias para la reducción del déficit público.
+En esa misma reunión, el Consejo de Política Fiscal y Financiera aprobó la modificación del Plan Económico Financiero de Reequilibrio (PEF) de la Comunidad Autónoma de la Región de Murcia, inicialmente autorizado el 22 de marzo anterior. En él se fijó como objetivo de déficit para el primer año de aplicación el 2,4% del Producto Interior Bruto regional. Para hacerlo posible, por el Consejo de Gobierno se han adoptaron diversos acuerdos a tal fin.
+A pesar de las medidas puestas en práctica, las previsiones de cierre del presente ejercicio anticipan una desviación en el cumplimiento de ese objetivo, de ahí la necesidad de realizar las operaciones de endeudamiento previstas para 2010, pues, de lo contrario, se produciría una situación de grave desequilibrio en sus finanzas con repercusión inmediata en la liquidez disponible para hacer frente a las obligaciones contraídas que superan a los ingresos generados, y ello a pesar de la política de contención de gastos que desde comienzos del ejercicio se ha puesto en práctica.
+Las medidas que se contemplan en esta Ley contribuyen a los objetivos de aceleración en la reducción del déficit y de sostenibilidad fiscal, por la doble vía de reducción de gastos e incremento de los ingresos.
+Estas medidas siguen varias direcciones:
+En el ámbito de los gastos de personal las que se incluyen son de naturaleza estructural de modo que, llevadas a puro efecto, generarán ahorros, mas sin merma de la calidad en la prestación de los servicios públicos. Un ejemplo de lo dicho lo constituye la revisión de los tiempos de trabajo en los distintos ámbitos de la Administración que, por sí misma, incrementará la productividad del personal a su servicio. El esfuerzo que a los empleados públicos demandará ésta y las demás medidas con influencia en este tipo de gastos se entiende imprescindible para recuperar el equilibrio de las cuentas públicas en una etapa en que la reducción de costes resulta obligada ante la caída de los ingresos.
+La tasa de absentismo del tercer trimestre en el conjunto regional (3,96%) que la ha situado a la cabeza del Sistema Nacional de Salud (3,03%), ha tenido su reflejo en el sector público, es la causa de un elevado coste en concepto de sustituciones pues superará con toda probabilidad los 60 millones de euros. Es necesario actuar para disminuir ese impacto negativo en las cuentas públicas, fin al que se orienta la modificación que experimentará el complemento por incapacidad temporal.
+Las medidas afectan a todo el sector público, en cualquiera de sus ámbitos: administración general y servicios, educación y sanidad. Es más, hay previsiones que desbordan estrictamente el subsector administraciones públicas teniendo impacto incluso en el subsector empresarial y fundacional.
+Por lo que al personal de administración general y servicios respecta, se contempla una reducción de retribuciones en la medida en que no se hará efectivo el último tramo pendiente del conocido como «acuerdo de homologación», así como dejará de abonarse la cantidad correspondiente al 15% hecho efectivo hasta 31 de diciembre de 2010 y, por lógica coherencia con el impacto que se producirá en el sector sanitario, se prevé la adecuación de las cantidades que ya se abonan por los mismos conceptos que en el ámbito sanitario han de experimentar una minoración.
+En el ámbito educativo también se contemplan medidas específicas dirigidas a revisar los horarios de trabajo así como a revisar determinados extremos del régimen retributivo.
+Es en el sector sanitario donde la ley contempla una mayor pormenorización de las medidas a adoptar, derivada de la extraordinaria complejidad que su organización presenta, en la que tanto el régimen de jornada como el retributivo se sustenta sobre decisiones de rango muy limitado, agravada por su dispersión. La regulación que se diseña en la ley la dotará de mayor estabilidad y seguridad jurídica, propiciando de este modo la absoluta homogeneización en el sector. Dada la importancia cuantitativa que representa, la adopción de medidas de contención en sus gastos de personal es imprescindible si se quiere alcanzar el objetivo de reducción del déficit.
+Hay que tener presente que desde la asunción de las transferencias del INSALUD por la Comunidad Autónoma de la Región de Murcia, el personal del Servicio Murciano de Salud se ha beneficiado de un incremento de sus retribuciones fijas y variables por encima del índice de precios al consumo y de una considerable reducción de su jornada de trabajo.
+Esta política orientada a mejorar las condiciones de trabajo del personal de este organismo cobró un notorio impulso a partir del 1 de enero de 2008 como consecuencia de los diversos acuerdos sindicales que, coincidiendo con el establecimiento de la jornada de 35 horas semanales, lo situaron en una situación ventajosa en comparación con los trabajadores del resto de servicios de salud en materia de jornada de trabajo y retribuciones.
+En tal sentido, por ejemplo, se ha de tener en cuenta que el complemento de atención continuada que retribuye la prestación de servicios para atender las urgencias fuera de la jornada ordinaria del personal facultativo se vio incrementado en más del 70%, mientras que en el caso del personal de enfermería dicho aumento se elevó por encima del 85%.
+Para ello se tuvo presente que para asegurar la asistencia sanitaria, el personal facultativo se encuentra obligado a prestar servicios hasta un máximo de 48 horas semanales en cómputo semestral, en los términos establecidos en el artículo 48 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud.
+Asimismo se incrementaron las retribuciones fijas del conjunto del personal del Servicio Murciano de Salud, especialmente las de los trabajadores sanitarios pertenecientes al subgrupo A2 destinados en atención especializada y en los servicios de urgencias y emergencias extrahospitalarios, a fin de equipararlas a las que percibía el personal de enfermería de los equipos de atención primaria.
+Las citadas medidas, entre otras, que fueron adoptadas con el lícito objetivo de mejorar las condiciones de trabajo del personal dedicado a un servicio esencial para la sociedad, como es el sanitario, no pueden ser mantenidas íntegramente en la actualidad, dada la difícil situación económica que atraviesa nuestra Comunidad Autónoma.
+La imprescindible adopción del conjunto de medidas incluidas en el título I que afectan a las condiciones de trabajo de los empleados públicos tiene su fundamento en la situación excepcional por la que atraviesa la Comunidad Autónoma, la cual, a la luz del artículo 38.10 del Estatuto Básico del Empleado Público habilita para suspender o modificar los acuerdos que les afecten.
+Se incluyen además otras previsiones que afectan a grandes gastos con transcendencia en la proyección de la imagen de la Región que, sólo por la situación coyuntural que estamos atravesando, no se presentan como absolutamente imprescindibles, lo que permitirá suspender la ejecución de los que incluso estaban programados para el ejercicio 2011 y, a los restantes que persigan ese mismo fin, someterlos a un control más intenso. Se entiende que la decisión sobre su necesidad o conveniencia debe ser objeto de consideración por el Consejo de Gobierno, máximo órgano de decisión de la Comunidad, sea cual sea el agente del sector público que se proponga realizarlos, por estimar que debe ser él quien, con su visión global de la evolución de las finanzas autonómicas, puede tomar la decisión más acorde con ella.
+En materia de patrimonio se hace preciso habilitar las disposiciones necesarias para poder llevar a cabo el plan de optimización de inmuebles diseñado por Gobierno regional. Es preciso modificar la Ley de Patrimonio para facultar al Consejo de Gobierno a enajenar inmuebles reservándose la Comunidad el derecho de uso temporal por cualquiera de las fórmulas admisibles en derecho. A la vez, hay que habilitar la fórmula legal para conseguir que los edificios administrativos, bienes de dominio público, puedan pasar a tener la naturaleza de patrimoniales y, en consecuencia, puedan ser alienables.
+Otras medidas van dirigidas a propiciar una reestructuración del sector público tendente a reducir su actual dimensionamiento, como medio de conseguir una reducción de sus costes de funcionamiento. La reducción de entidades se presenta como objetivo último, continuando en la línea del Acuerdo de Consejo de Gobierno de 2 de julio de 2010. Ahora bien, en el caso de las sociedades, puede lograrse ese fin mediante fusiones o absorciones que, si no se prevé lo necesario legalmente, pueden llevar consigo determinados costes fiscales. Las fusiones de empresas en el ámbito estatal gozan de determinados beneficios que es posible hacer extensible a las que dependen de la Comunidad, y ello porque en el ordenamiento vigente hay base legal suficiente para afirmarlo. Así, conforme establece el artículo 48.2 del Estatuto de Autonomía para la Región de Murcia la Comunidad Autónoma de la Región de Murcia «podrá constituir empresas públicas como medio de la ejecución de las funciones que son de su competencia, según lo establecido en el presente Estatuto». La regla estatutaria no hace sino expresar en el ámbito empresarial la potestad esencial de autoorganización de la Comunidad Autónoma, debiendo además citarse los artículos 15.3 y 50 del Estatuto. El primero dispone que en el ejercicio de sus competencias, la Comunidad Autónoma gozará de las potestades y privilegios propios de la Administración del Estado. El segundo establece que la Comunidad Autónoma de Murcia gozará del tratamiento fiscal que la ley establezca para el Estado.
+Entre las previsiones de este apartado se encuentra el mandato al Consejo de Gobierno para que, de manera gradual a lo largo del ejercicio, reduzca el número de entes integrantes del sector público regional al que resulte imprescindible para la prestación de los servicios mediante este régimen de descentralización de gasto, fijando como número máximo de entidades al fin del período una cifra no superior al 30% de las existentes a 31 de diciembre de 2010. Las técnicas a utilizar pueden ser todas las admisibles, desde la disolución y liquidación puras, pasando por la fusión de entidades por absorción, hasta la apertura a la participación de capital privado incluso con carácter mayoritario.
+Para alcanzar el objetivo perseguido, la reducción del déficit, se debe permitir también la adopción de nuevas fórmulas de gestión que disminuyan el impacto económico que sobre las finanzas de la Comunidad tiene el sostenimiento de determinadas unidades institucionales. De ahí que se establezca el deber de la administración regional para conseguir un cambio en el modelo organizativo y de gestión de la sociedad «Televisión Autonómica de la Región de Murcia, Sociedad Anónima Unipersonal», indispensable para reducir hasta en un 80% su contribución tanto para gastos de funcionamiento como para inversiones.
+Se incluyen en la ley, además, diversas medidas que permitirán sujetar a mayor control las actividades de todo el sector público, como la que habilita para someter al control interventor a cuantas unidades del mismo se estime necesario; o la realización de controles específicos sobre gastos protocolarios para procurar su adecuación a los principios de buena administración. Junto con ello, también se prevén medidas para imprimir mayor disciplina presupuestaria como las relativas a los remanentes de tesorería, las generaciones de crédito, los gastos plurianuales, etc.
+El siguiente texto está integrado por dos títulos divididos en capítulos y secciones, con un total de 46 artículos, dos disposiciones finales, una disposición derogatoria y un anexo.
+
+## TÍTULO I
+
+Medidas en materia de jornada, horario y gastos de personal
+Téngase en cuenta que el presente título I estará vigente hasta el 31 de diciembre de 2011, según se establece en su disposición final 2.2, en la redacción dada por el art. único.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## CAPÍTULO I
+
+Disposiciones de carácter general
+
+### Artículo 1
+
+Artículo 1. Jornada, horario, permisos y licencias.
+1. Con efectos de 1 de marzo de 2011 la jornada semanal de trabajo para todo el personal al servicio de la Administración pública de la Región de Murcia, cualquiera que sea su régimen jurídico, será de treinta y seis horas y treinta minutos para el personal con dedicación normal y de treinta y nueve horas para el personal que ocupe puestos de trabajo que tengan atribuida la especial dedicación.
+2. Lo establecido en el apartado anterior se aplicará al personal de administración y servicios, al personal docente y al personal del Servicio Murciano de Salud, en la forma que se determina en los capítulos siguientes.
+3. Como consecuencia de lo establecido en el apartado primero del presente artículo, se procederá a realizar los estudios pertinentes para la racionalización y redistribución de los puestos de trabajo configurados en su día por aplicación de lo establecido en el Acuerdo de fecha 8 de febrero de 2007, de la Mesa General de Negociación, de reducción de la jornada laboral, con el objetivo prioritario de mantener el empleo.
+4. Todo el personal de la Administración pública de la Comunidad Autónoma de la Región de Murcia estará obligado a registrar sus entradas y salidas del centro de trabajo mediante los sistemas establecidos. Las ausencias y demás incidencias se notificarán con carácter inmediato al responsable jerárquico sin perjuicio de su justificación previa o posterior, según el caso, que a su vez lo comunicará a la unidad de personal correspondiente.
+A tal fin, en el momento de confeccionarse la nómina, se tendrá en cuenta el horario realizado por los empleados públicos, para lo cual las unidades de personal dispondrán de la información correspondiente del total de horas realizadas, teniendo en cuenta que la diferencia, en cómputo mensual, entre la jornada reglamentaria de trabajo y la efectivamente realizada podrá ser recuperada en el mes siguiente en los términos establecidos reglamentariamente, dando lugar en caso de incumplimiento con carácter automático a lo dispuesto en la letra h) del artículo 78 del Texto Refundido de la Ley de la Función Pública de la Región de Murcia.
+5. El tiempo correspondiente al horario de trabajo que los empleados públicos inviertan en participar en cursos y actividades formativas incluidas en los planes de formación de la Comunidad Autónoma de la Región de Murcia no será computable a efectos del cumplimiento de la jornada semanal, salvo las actividades formativas que vengan establecidas legalmente de carácter obligatorio y aquellas otras que realicen a requerimiento de la Administración.
+6. Los permisos y licencias que se otorguen por días, como los correspondientes a enfermedad grave, operación, fallecimiento de un familiar o matrimonio, se computarán por días hábiles.
+7. La Administración regional, en sus respectivos ámbitos sectoriales, negociará con las organizaciones sindicales el cumplimiento y distribución del horario durante la jornada semanal de trabajo, con la finalidad de permitir su adecuada flexibilidad, atendiendo a las singularidades de cada sector.
+Se modifica por el art. único.1.1 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 2
+
+Artículo 2. Oferta de empleo público.
+Durante 2011 la aprobación de la Oferta de empleo público se podrá llevar a cabo en los términos establecidos en la normativa estatal básica, previa negociación con las organizaciones sindicales en las respectivas Mesas Sectoriales.
+Se modifica por el art. único.1.2 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 3
+
+Artículo 3. Programa de control del absentismo laboral.
+1. Se pondrá en funcionamiento un programa de control del absentismo laboral para el personal al servicio de la Administración regional que conllevará la gestión, inspección y control de las ausencias, así como la incapacidad temporal por contingencias comunes.
+2. En los términos establecidos en la normativa de seguridad social, los órganos competentes de la Administración Regional adoptarán las medidas precisas para que la cobertura de la prestación económica por incapacidad temporal derivada de contingencias comunes sea gestionada, previa negociación con las organizaciones sindicales, con medios propios o mediante convenio con la Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social con la que se hubiera formalizado la protección de las contingencias de accidentes de trabajo y enfermedades profesionales.
+3. Para el seguimiento de este programa se realizarán de forma periódica evaluaciones de control.
+4. El programa de control del absentismo laboral deberá estar totalmente ejecutado el 31 de mayo de 2011.
+Se modifica por el art. único.1.3 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 4
+
+Artículo 4. Redistribución de efectivos.
+La Administración regional elaborará un plan general de redistribución de efectivos, previa negociación con las organizaciones sindicales, en los términos establecidos en el artículo 52.2 del Decreto Legislativo 1/2001, de 6 de enero, por el que se aprueba el Texto Refundido de la Ley de la Función Pública de la Región de Murcia, que deberá estar concluido el 31 de mayo de 2011.
+Se modifica por el art. único.1.4 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 5
+
+Artículo 5. Gratificaciones por servicios extraordinarios.
+1. Durante el ejercicio 2011 no se retribuirán horas extraordinarias, debiéndose compensar obligatoriamente con descansos adicionales el exceso de horas realizadas superiores a la jornada legalmente establecida, salvo en los supuestos que con carácter excepcional acuerde el Consejo de Gobierno, a propuesta motivada de las respectivas Consejerías.
+2. La compensación con descansos adicionales se realizará computándose cada hora adicional trabajada con hora y tres cuartos de descanso.
+Se modifica por el art. único.1.5 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 6
+
+Artículo 6. Productividad variable.
+Durante el ejercicio 2011 no se procederá a regular la implantación de complementos de productividad variable a nuevos colectivos que no lo tuvieran asignado en el momento de entrada en vigor de esta Ley.
+Se modifica por el art. único.1.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 7
+
+Artículo 7. Crédito horario de los representantes del personal de la Administración Regional.
+1. Los representantes del personal funcionario, estatutario y laboral de la Comunidad Autónoma de la Región de Murcia tendrán derecho a disfrutar en concepto de crédito horario para el ejercicio de la actividad sindical, exclusivamente del número de horas que venga establecido para ello por la legislación estatal, y en particular, por la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, la Ley 31/1995, de 8 de noviembre, por la que se regula la prevención de riesgos laborales y la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+Como consecuencia de ello, a partir del 1 de enero de 2011 quedarán sin efecto los acuerdos sindicales que se hubieran suscrito en el ámbito de la Administración Regional en todo aquello que suponga una mejora de los derechos que las citadas normas otorgan a los representantes sindicales o a las organizaciones de las que forman parte respecto de los créditos horarios destinados al ejercicio de la actividad sindical.
+2. Sin perjuicio de lo anterior, las organizaciones sindicales a las que pertenezcan los representantes sindicales, dispondrán de plazo hasta el 28 de febrero de 2011 para comunicar a las direcciones generales competentes en materia de personal de los sectores de educación, administración y servicios y sanidad, las personas que deban cesar en el ejercicio de crédito horario para el desarrollo de actividad sindical o a las que se debe reducir el número de horas destinado a tal fin.
+3. En caso de que transcurrido dicho plazo no se hubiera efectuado tal comunicación, por parte de los órganos competentes en la materia se llevarán a efecto las revocaciones de las liberaciones sindicales que resulten precisas para ajustar su número a lo dispuesto en el apartado primero. A estos efectos, tendrán prioridad para continuar en el ejercicio de la actividad sindical aquellos que ostenten la condición de miembros de las Juntas de Personal, del Comité de Empresa o delegados de sección sindical, y, a continuación, los que vinieran disfrutando ininterrumpidamente de crédito horario durante un mayor periodo de tiempo.
+
+### Artículo 8
+
+Artículo 8. Revisión de subidas salariales por encima del incremento general de las retribuciones del personal al servicio del sector público.
+Las retribuciones del personal integrante de la Función Pública Regional no podrá experimentar, en ninguno de sus conceptos, un incremento superior al que con carácter anual establezca la correspondiente Ley de Presupuestos Generales del Estado, deviniendo en consecuencia inaplicables los acuerdos y pactos sindicales que contravengan esta prohibición.
+
+### Artículo 9
+
+Artículo 9. Ayudas de acción social.
+1. El personal integrante de la Función Pública Regional podrá acceder en concepto de acción social al cincuenta por ciento de la cuantía de las ayudas, con excepción de las que se describen a continuación, que podrán ser solicitadas al cien por cien de su cuantía:
+– Indemnización por jubilación e incapacidad permanente.
+– Indemnización por fallecimiento.
+– Las derivadas del seguro asistencial actualmente vigente que cubre, entre otros servicios, la asistencia buco-dental, óptica, protésica y psicológica del personal de la Administración Regional y del resto de beneficiarios, en los términos previstos en los correspondientes planes de acción social.
+– Complemento de pensión para el personal sanitario no facultativo del Servicio Murciano de Salud, en los términos establecidos en el artículo 151 del Estatuto del personal sanitario no facultativo de las instituciones sanitarias de la Seguridad Social.
+– Anticipos reintegrables.
+2. Los requisitos para el percibo de tales ayudas, sus beneficiarios, el procedimiento para su concesión y su cuantía se ajustarán a lo establecido en los planes de acción social aprobados por medio de la orden de 31 de mayo de 2006, de la Consejería de Economía y Hacienda (BORM de 6-6-2006), y la resolución de 12 de junio de 2006, del Director Gerente del Servicio Murciano de Salud (BORM de 16-6-2006).
+Se modifica el apartado 1 por el art. 1.7 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 10
+
+Artículo 10. Suspensión coyuntural del deber de realizar aportaciones al plan de pensiones de la Administración Pública de la Región de Murcia.
+Durante el ejercicio 2011 las entidades inicialmente promotoras del plan de pensiones de la Administración pública de la Región de Murcia, así como los organismos adheridos al mismo que conforme a lo establecido en el artículo 23.1 de la Ley 4/2010, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia para el año 2011, forman parte del sector público regional, dejarán de realizar aportaciones al citado plan de pensiones.
+Se modifica por el art. único.1.8 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## CAPÍTULO II
+
+Ámbito de administración y servicios
+
+### Artículo 11
+
+Artículo 11. Horarios de oficina.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.9 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 12
+
+Artículo 12. Complemento de turnicidad y atención continuada.
+1. Las variaciones operadas en el Servicio Murciano de Salud respecto de los conceptos retributivos de turnicidad y valor hora del complemento de atención continuada, tendrán la oportuna repercusión en las retribuciones que por los mismos conceptos correspondieran al personal incluido en el ámbito de la Mesa Sectorial de Administración y Servicios, sin que en ningún caso las cuantías de dichos conceptos en este último ámbito sean superiores a las del citado ente público.
+2. Será de aplicación al personal sanitario del Instituto Murciano de Acción Social lo establecido en el artículo 17 de la presente Ley respecto a la duración de la jornada anual, excepto lo establecido en el número 2 de dicho artículo.
+Se modifica por el art. único.1.10 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 13
+
+Artículo 13. Acuerdo de homologación retributiva con el Servicio Murciano de Salud.
+Con efectos de 1 de marzo de 2011, los empleados públicos pertenecientes al ámbito de la Mesa Sectorial de Administración y Servicios percibirán el 85% de las cuantías resultantes del proceso de homologación retributiva con el personal estatutario del Servicio Murciano de Salud, que se acordaron por la Comunidad Autónoma de la Región de Murcia y las organizaciones sindicales en la Mesa Sectorial de Administración y Servicios de 3 de marzo de 2008, cuya forma de abono se reguló en los apartados cuarto b), quinto b) y sexto del Acuerdo de 18 de marzo de 2009, de la misma Mesa.
+Se modifica por el art. único.1.11 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 14
+
+Artículo 14. Productividad de determinados organismos.
+Con efectos de 1 de enero de 2011 se dejará de abonar el complemento de productividad variable que venía percibiendo el personal del organismo «Boletín Oficial de la Región de Murcia» y del «Instituto de Seguridad y Salud Laboral».
+
+## CAPÍTULO III
+
+Sector de educación
+
+### Artículo 15
+
+Artículo 15. Distribución de la jornada semanal y modificación del régimen retributivo.
+1. La distribución horaria semanal del personal docente que imparte las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación en el ámbito de gestión de la Comunidad Autónoma de la Región de Murcia, será establecida de acuerdo con lo dispuesto el artículo 1.7 de la presente Ley tras la negociación pertinente en la Mesa Sectorial de Educación.
+2. Con efectos de 1 de marzo de 2011 dejará de abonarse la cantidad de 37,5 € mensuales que se adicionaron al complemento de productividad en virtud del Acuerdo alcanzado el 28 de febrero de 2008 en la Mesa Sectorial de Educación, sobre aplicación de la jornada de 35 horas semanales al personal docente no universitario.
+Se modifica por el art. único.1.12 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 16
+
+Artículo 16. Módulo económico de sostenimiento de los centros educativos concertados.
+Los importes anuales de los componentes de los módulos de sostenimiento de los centros educativos concertados establecidos en el artículo 47 y el II de la Ley por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma para 2011 se reducirán, en lo que se refiere al componente de los gastos de personal y a partir de la vigencia de la presente Ley, en una proporción análoga a la prevista para las retribuciones del personal funcionario de los centros educativos públicos.
+
+## CAPÍTULO IV
+
+Sector sanitario
+
+## Sección primera
+
+Sección primera. Jornada de trabajo del personal del Servicio Murciano de Salud
+
+### Artículo 17
+
+Artículo 17. Duración de la jornada anual.
+1. La jornada anual a realizar por el personal del Servicio Murciano de Salud queda fijada en la siguiente duración:
+– Turno fijo diurno: 1.598 horas.
+– Turno fijo nocturno: 1.430 horas.
+– Turno rotatorio: 1.493 horas.
+2. No obstante lo anterior, la jornada de trabajo del personal destinado en los servicios de urgencia de atención primaria (SUAP), Unidades Medicalizadas de Emergencia (UME) y Centro de Coordinación de Urgencias (CCU), será la establecida para el turno fijo nocturno.
+3. Por su parte, el personal que tenga asignado el régimen de especial dedicación vendrá obligado a realizar una jornada semanal de 39 horas.
+4. En la duración de la jornada anual contenida en el apartado primero se ha descontado el período correspondiente a los 22 días hábiles de vacaciones previstos en el artículo 50 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, los 6 días de libre disposición contenidos en el artículo 57.4 de la Ley 5/2001, de 5 de diciembre, de personal estatutario del Servicio Murciano de Salud y a los 14 festivos anuales.
+Por el contrario, dicha jornada anual se verá disminuida para los empleados que cuenten por razón de su antigüedad con días adicionales de vacaciones o de libre disposición en 7 horas de trabajo por cada uno de estos días.
+5. La jornada en turno rotatorio, que se establece en 1.493 horas anuales, resulta de la ponderación de considerar la realización de 42 noches al año. La jornada anual de cada profesional que realice este turno se determinará en función del número de noches efectivamente trabajadas durante el año.
+6. Con carácter general, y salvo que concurran razones asistenciales que lo justifiquen, la distribución de la jornada ordinaria se realizará conforme a los siguientes turnos:
+– Turno de mañana: de 8 a 15 horas.
+– Turno de tarde: de 15 a 22 horas.
+– Turno de noche: de 22 horas a las 8 horas del día siguiente.La jornada en turno rotatorio, que se establece en 1.493 horas anuales, resulta de la ponderación de considerar la realización de 42 noches al año. La jornada anual de cada profesional que realice este turno se determinará en función del número de noches efectivamente trabajadas durante el año.
+Se modifican los apartados 1, 3 y 5 por el art. único.1.13 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 18
+
+Artículo 18. Definición de los turnos horarios de trabajo.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 19
+
+Artículo 19. Distribución de la jornada ordinaria en el ámbito de la atención especializada.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 20
+
+Artículo 20. Desarrollo de la jornada complementaria en el ámbito de la atención especializada.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 21
+
+Artículo 21. Distribución de la jornada ordinaria en los equipos de atención primaria.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 22
+
+Artículo 22. Jornada complementaria en los equipos de atención primaria.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 23
+
+Artículo 23. Términos en los que se desarrollará la jornada ordinaria y complementaria en los servicios de urgencia extrahospitalarios.
+(Sin contenido).
+Se deja sin contenido por el art. único.1.14 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## Sección Segunda
+
+Sección Segunda. Modificación de las retribuciones del personal del Servicio Murciano de Salud
+
+### Artículo 24
+
+Artículo 24. Reducción general de los complementos de atención continuada y turnicidad.
+Con efectos de 1 de marzo de 2011 se minorará en un 5 %, respecto del valor existente a 31 de diciembre de 2010, el valor de los complementos de atención continuada (guardias) y turnicidad.
+Se modifica por el art. único.1.15 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 25
+
+Artículo 25. Tratamiento de los complementos que se devenguen los días 1, 5 y 6 de enero y 24, 25 y 31 de diciembre.
+Con efectos de 1 de marzo de 2011 los complementos que se devenguen por la realización de jornada complementaria (guardias), así como los de festividad y nocturnidad durante tales días se incrementarán en un 70% respecto de su valor ordinario.
+Se modifica por el art. único.1.16 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 26
+
+Artículo 26. Modificación del complemento de atención continuada por la prestación de servicios en horario de mañana de los sábados en los equipos de atención primaria y en los hospitales.
+El Servicio Murciano de Salud adaptará la jornada aprobada en esta Ley para dar cobertura a las necesidades asistenciales durante los sábados por la mañana en todos los centros de manera que, con efectos de 1 de marzo de 2011, se minorará en un 5% respecto del valor existente a 31 de diciembre de 2010, el valor del complemento de atención continuada por la prestación de servicios durante los sábados por la mañana en los equipos de atención primaria o por la atención de las urgencias a los pacientes ingresados en los hospitales.
+Se modifica por el art. único.1.17 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 27
+
+Artículo 27. Valor del complemento que retribuye la prestación de servicios en horario de tarde en los equipos de atención primaria.
+Con efectos de 1 de marzo de 2011 la prestación de servicios en turno de tarde por necesidades asistenciales en los equipos de atención primaria será retribuida con el importe correspondiente a la suma del 50% del valor que se abonaba a 31 de diciembre de 2010 más el 50% del complemento de turnicidad del correspondiente subgrupo. Si la prestación de servicios no se realizase durante todas las tardes, se abonará de forma proporcional.
+Se modifica por el art. único.1.18 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 28
+
+Artículo 28. Retribución aplicable a las sustituciones del personal sanitario destinado en los equipos de atención primaria en horario distinto al asignado.
+1. Cuando resulte preciso sustituir al personal sanitario destinado en los equipos de atención primaria y no resulte posible efectuar dicha sustitución por personal nombrado al efecto mediante nombramiento temporal por no existir candidatos disponibles en la bolsa de trabajo correspondiente, tales sustituciones podrán ser realizadas por otro personal del Servicio Murciano de Salud que ya cuente con un nombramiento fijo o temporal en un horario distinto al que tenga asignado en su puesto de trabajo.
+2. En este caso, el interesado tendrá derecho a percibir, mientras se mantenga la sustitución, las retribuciones propias del puesto de trabajo que desempeñe, con exclusión por lo tanto, de aquellas que tengan carácter personal.
+Se modifica el título y el apartado 1 por el art. único.1.19 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 29
+
+Artículo 29. Remuneración aplicable al personal sanitario destinado en los equipos de atención primaria cuando sustituya a otro personal del mismo equipo de atención primaria en su mismo horario.
+1. En los casos en los que resulte preciso sustituir al personal sanitario destinado en los equipos de atención primaria y no fuese posible hacerlo por medio de nombramientos de personal temporal debido a la inexistencia de candidatos en la bolsa de trabajo, por profesionales pertenecientes a otros centros de trabajo o por personal del mismo equipo de atención primaria adscrito a otro turno horario, tales sustituciones serán realizadas por personal del propio equipo de atención primaria en el mismo horario que tuviera asignado.
+2. En este caso, con efectos de 1 de marzo de 2011, los interesados tendrán derecho a percibir, mientras persista la sustitución, el 50% de la diferencia entre el valor que se abonaba a 31 diciembre 2010 respecto al valor de la Tarjeta Sanitaria Individual más el valor de la Tarjeta Sanitaria Individual del titular sustituido.
+Se modifica por el art. único.1.20 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## TÍTULO II
+
+Otras medidas para reducción del déficit
+
+## CAPÍTULO I
+
+Medidas en materia de patrimonio
+
+### Artículo 30
+
+Artículo 30. Modificación de la Ley de Patrimonio
+Uno.–Se añade un nuevo apartado, el número 6, al artículo 60 de la Ley 3/1992, de 30 de julio, de Patrimonio de la Comunidad Autónoma de la Región de Murcia, redacción:
+«6. Podrá acordarse la enajenación de bienes inmuebles del Patrimonio de la Comunidad Autónoma y del resto de entidades integrantes del sector público con reserva del uso temporal de los mismos, total o parcial, cuando por razones debidamente justificadas resulte conveniente para el interés público y así lo autorice el Consejo de Gobierno. Esta utilización temporal podrá instrumentarse a través de la celebración de contratos de arrendamiento, de corta o larga duración, o cualesquiera otros que habiliten para el uso de los bienes enajenados, simultáneos al negocio de enajenación y sometidos a las mismas normas de competencia y procedimiento que éste. Se exigirá autorización por norma con rango de ley cuando el importe del bien sea superior a diez millones de euros.»
+Dos.–Se da nueva redacción al número 2 del artículo 5 de la misma ley que queda redactado de la siguiente manera:
+«2. Se consideran bienes de dominio público aquellos inmuebles propiedad de la Comunidad Autónoma o de cualquiera de las entidades públicas integrantes de su sector público que se destinen a oficinas o servicios administrativos.
+No obstante lo establecido en el párrafo anterior, la autorización por parte del Consejo de Gobierno para la enajenación de los citados bienes les atribuye la condición de bienes patrimoniales y resultan alienables, sin necesidad de previa declaración de alienabilidad. Se exigirá autorización por norma con rango de ley cuando el importe del bien sea superior la cantidad de diez millones de euros.»
+
+## CAPÍTULO II
+
+Medidas de reestructuración del sector público regional
+
+### Artículo 31
+
+Artículo 31. Reducción del número de unidades integrantes del sector público regional.
+1. El Consejo de Gobierno deberá ordenar la realización de actuaciones necesarias conducentes a la reducción del número de unidades integrantes del sector público regional, de manera que, antes de la finalización del ejercicio 2011, dicho número no supere el 30 por ciento de los que a 31 de diciembre de 2010 recoge el Inventario de Entes del Sector Público de la Comunidad Autónoma, publicado por el Ministerio de Economía y Hacienda.
+2. A tal efecto, cada consejero deberá proponer, y el Consejo de Gobierno acordar, antes del 1 de marzo de 2011, la relación de unidades adscritas o dependientes de su consejería, el plazo en el que, como máximo, se prevea concluir todas las operaciones necesarias para su extinción y el órgano de su consejería responsable de la consecución del objetivo. De estos acuerdos del Consejo de Gobierno se dará comunicación a la Asamblea Regional antes de fin de dicho mes.
+3. Mediante Decreto del Consejo de Gobierno se podrá acordar la modificación de la naturaleza o extinción de unidades que, de acuerdo con la normativa vigente, precisase norma con rango de ley.
+4. La supresión de unidades tiene como finalidad la minoración de las aportaciones que debe hacer la Comunidad para su funcionamiento, por cuya razón los acuerdos de extinción deberán hacer posible esa reducción.
+Se modifica por el art. único.3.1 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 32
+
+Artículo 32. Aplicación del régimen fiscal del patrimonio empresarial del Estado a las operaciones de reordenación del sector público de la Comunidad Autónoma de la Región de Murcia.
+Todas las operaciones societarias, cambios de titularidad y actos derivados de la reordenación interna en el sector público de la Comunidad Autónoma de la Región de Murcia gozarán de los mismos beneficios fiscales establecidos para las operaciones de reestructuración empresarial en el ámbito del Estado, así como la reducción de los aranceles de los notarios y registradores de la propiedad y mercantiles que intervengan los actos derivados de su ejecución.
+
+### Artículo 33
+
+Artículo 33. Televisión Autonómica de la Región de Murcia.
+En el plazo de tres meses desde la entrada en vigor de esta ley, por el Ente Público «Radiotelevisión de la Región de Murcia», se presentará al Consejo de Gobierno un nuevo modelo de gestión que permita reducir la financiación destinada por el ente a la sociedad «Televisión Autonómica de la Región de Murcia, S.A.U.», hasta un 80% de la que precisó a término de 2009 según sus cuentas anuales. El nuevo modelo podrá consistir en la reducción de la actividad de la sociedad al nivel que permita costear esa reducción, o en el cambio de modelo organizativo y de gestión, incluyendo la modificación de la naturaleza de la sociedad para permitir la entrada de capital privado.
+
+### Artículo 34
+
+Artículo 34. Autorización para la realización de gastos de entidades del sector público.
+1. Las unidades integrantes del sector público regional referidas en los párrafos c) y d) del artículo 1 de la Ley 4/2010, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia para el ejercicio 2011 que se propongan la realización de gastos de naturaleza contractual o subvencional que superen la cifra de 60.000 euros, deberán solicitar la autorización del titular de la consejería de la que dependan o a la que estén adscritas, antes de la licitación o de publicar la convocatoria, en caso de subvenciones de concurrencia competitiva, o de acordar su concesión, en caso de subvenciones de concesión directa.
+2. La petición de autorización será elevada para su otorgamiento por el Consejo de Gobierno si el gasto a autorizar supera la cantidad de 300.000 euros.
+3. No está sometida a esta exigencia de autorización la realización de gastos de la referida naturaleza contractual o subvencional que tengan lugar con posterioridad a la licitación o a la publicación de la convocatoria, en el caso de subvenciones de concurrencia competitiva, o de que se acuerde la concesión, en el caso de subvenciones de concesión directa.
+Se modifica por la disposición adicional 39 de la Ley 1/2016, de 5 de febrero. Ref. BOE-A-2016-3540
+ Se modifica por el art. único.3.2 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 35
+
+Artículo 35. Cambio en el régimen de control de entes públicos, entidades públicas empresariales, fundaciones y sociedades del sector público regional.
+Cuando para asegurar una más adecuada gestión de cualquiera de los entes públicos, entidades públicas empresariales, fundaciones y sociedades del sector público regional, sea necesario, el titular de la Consejería de Economía y Hacienda podrá acordar su sometimiento al régimen de función interventora. El ejercicio de esta función será ejercido por personal propio de la Intervención General o, en caso de no contar con medios suficientes, con personal de otros centros designado a tal efecto por el Interventor General de quien dependerá funcionalmente. Sus actos tendrán la misma consideración que los propios de los interventores y estarán sometidos al mismo régimen que para ellos establece la normativa vigente.
+
+### Artículo 36
+
+Artículo 36. Régimen de control de los consorcios.
+Los consorcios en los que la Administración pública de la Región de Murcia o cualquiera de las entidades que integran su sector público hayan aportado mayoritariamente dinero, bienes o industria, o se hayan comprometido en el momento de su constitución a financiar mayoritariamente, se someterán en su organización y actividad al ordenamiento autonómico y estarán sujetos al régimen de control establecido en el Texto Refundido de la Ley de Hacienda de la Región de Murcia, siendo auditados por la Intervención General, órgano al que deben rendir cuanta información precise para el ejercicio de sus funciones. Dicho régimen se aplicará igualmente a los consorcios en los que la designación de más de la mitad de los miembros de sus órganos de dirección corresponda a la Comunidad Autónoma o a cualquiera de las entidades de su sector público.
+
+## CAPÍTULO III
+
+Medidas de disciplina en materia de ejecución presupuestaria
+Se renumera por el art. único.2 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+ Su anterior numeración era Capítulo IV.
+
+### Artículo 37
+
+Artículo 37. Remanente de tesorería.
+1. Si la liquidación del presupuesto de 2010 pone de manifiesto la existencia en la Administración general de remanente de tesorería no afectado negativo, el Consejo de Gobierno deberá acordar su financiación antes del día 30 de julio de 2011 mediante cualquiera de las fórmulas establecidas en el artículo 55 del Texto Refundido de la Ley de Hacienda de la Región de Murcia.
+2. El remanente de tesorería positivo de los organismos no podrá ser utilizado para incorporar créditos siendo transferido obligatoriamente a la Comunidad que tampoco podrá emplearlo para hacer mayores gastos.
+
+### Artículo 38
+
+Artículo 38. Imputación de gastos de ejercicios anteriores al presupuesto de 2011.
+1. Una vez cargado en el sistema contable de la Comunidad el presupuesto de 2011, por la Intervención General se procederá a imputar al mismo los compromisos de gastos plurianuales procedentes de ejercicios anteriores y los gastos que hubieran sido objeto de tramitación anticipada.
+2. Realizada esa operación, las consejerías y organismos autónomos dispondrán de un mes para imputar a los créditos de 2011 los compromisos de gastos debidamente adquiridos en ejercicios anteriores. A tal fin, la Intervención General comunicará a las consejerías y organismos autónomos el inicio y finalización de ese plazo. Una vez vencido, no se podrán imputar nuevos compromisos sin la autorización de la Consejería de Economía y Hacienda.
+Se modifica por el art. único.3.3 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 39
+
+Artículo 39. Elaboración del Plan de disposición de fondos.
+La Dirección General de Presupuestos y Finanzas elaborará un plan de disposición fondos del tesoro público regional en términos análogos a lo establecido para la administración local en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto refundido de la Ley Reguladora de las Haciendas Locales y disposiciones de desarrollo. Lo someterá a la aprobación del Consejo de Gobierno antes del 30 de marzo de 2011.
+
+### Artículo 40
+
+Artículo 40. Autorizaciones a la Dirección General competente en materia de presupuestos y a la Intervención General para implementar medidas de reducción de gastos.
+1. Cuando, debido a la evolución de la situación económica de la Comunidad o por razones de gestión del presupuesto, en particular de los gastos con financiación afectada, se precise la adopción de medidas restrictivas del gasto, la Dirección General competente en materia de presupuestos podrá practicar las retenciones temporales que sean necesarias en cualesquiera créditos del presupuesto.
+2. En el mismo caso anterior, la Intervención General, como centro responsable de la gestión contable, podrá adoptar las medidas precisas conducentes a impedir la contracción de nuevas operaciones potencialmente generadoras de obligaciones o gastos.
+En este supuesto, la Intervención General solicitará del titular de la Consejería competente en materia de hacienda la pertinente autorización, que, una vez otorgada, será comunicada al Consejo de Gobierno en la primera reunión que este celebre.
+Se modifica por la disposición final 5 de la Ley 4/2023, de 28 de diciembre. Ref. BOE-A-2024-2045
+
+### Artículo 41
+
+Artículo 41. Subvenciones o anticipos reintegrables.
+Ninguna de las unidades perteneciente al sector público regional, referidas en el artículo 1 de la Ley 4/2010, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia para el ejercicio 2011, podrá acordar convocatorias para la concesión de subvenciones reintegrables sin la previa autorización de la Dirección General de Presupuestos y Finanzas que no la otorgará si sus previsiones sobre disponibilidades líquidas del conjunto del sector no lo aconsejan.
+Se modifica por el art. único.3.4 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## CAPÍTULO IV
+
+Medidas en materia de contratación
+Se renumera por el art. único.2 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+ Su anterior numeración era Capítulo III.
+
+### Artículo 42
+
+Artículo 42. Contratos menores.
+(Derogado).
+Se deroga por la disposición derogatoria. 1 de la Ley 14/2018, de 26 de diciembre. Ref. BOE-A-2019-2039
+ Se modifica el apartado 2 por el art. único.3.5 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 43
+
+Artículo 43. Contratos de servicios.
+(Sin contenido).
+Se deja sin contenido por el art. único.3.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 44
+
+Artículo 44. Limitación a la celebración de determinados contratos de servicios o de patrocinio.
+(Sin contenido).
+Se deja sin contenido por el art. único.3.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+## CAPÍTULO V
+
+Otras medidas de reducción del déficit público
+Se renumera por el art. único.2 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+ Su anterior numeración era Capítulo IV.
+
+### Artículo 45
+
+Artículo 45. Autorización de la celebración de grandes eventos que contribuyan a proyectar la imagen de la Región.
+En 2011 ninguna de las unidades integrantes del sector público regional referidas en el artículo 1 de la Ley 4/2010, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia para el ejercicio 2011, podrá organizar ni contratar la organización de grandes eventos que pretendan la proyección de la imagen de la Región sin la previa autorización del Consejo de Gobierno. A efectos de esta Ley tendrán esa consideración los que precisen la ejecución de gastos, de forma aislada o acumulada, de cuantía superior a 300.000 euros.
+Se modifica por el art. único.3.7 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Artículo 46
+
+Artículo 46. Normas sobre determinados aspectos del régimen retributivo de los Altos Cargos.
+1. Con efectos de 1 de enero de 2011 los altos cargos dejarán de percibir las indemnizaciones por razón del servicio establecidas en el párrafo segundo del artículo 2 del Decreto 69/1997, de 10 de octubre.
+2. El Consejo de Gobierno aprobará un decreto sobre el régimen de las comisiones de servicio de los altos cargos, excepto miembros del Consejo de Gobierno, y que regulará, asimismo, el del personal directivo de las entidades integrantes del sector público regional.
+Se modifica el apartado 2 por el art. 20 de la Ley 5/2012, de 29 de junio. Ref. BOE-A-2013-1790
+ Se modifica por el art. único.3.8 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Disposición adicional primera
+
+Disposición adicional primera. Complemento por incapacidad temporal.
+Con efectos de 1 de febrero de 2011 será de aplicación lo establecido en la disposición adicional segunda del Decreto Legislativo 1/2001, de 26 de enero, por el que se aprueba el Texto Refundido de la Ley de Función Pública de la Región de Murcia, que regula el complemento por incapacidad temporal.
+Se añade por el art. único.4 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Suspensión temporal de pactos y acuerdos.
+Durante el ejercicio 2011 quedarán suspendidos, en lo que resulte contrario a lo dispuesto en esta Ley, los siguientes pactos y acuerdos sindicales:
+El Pacto de 14 de octubre de 1998 entre la Administración y las organizaciones sindicales FSP-UGT, CEMSATSE, FSAP-RM-CCOO y CSICSIF, sobre derechos sindicales en el ámbito de la Administración Pública de la Región de Murcia (BORM de 12-12-1998).
+El Acuerdo de fecha 18 de julio de 2003, suscrito entre el Servicio Murciano de Salud y las Organizaciones Sindicales, Convergencia Estatal de Médicos y Ayudantes Técnicos Sanitarios (CEMSATSE), Comisiones Obreras (CC.OO), Unión General de Trabajadores (FSP-UGT), Confederación de Sindicatos Independientes y Sindical de Funcionarios (CSI-CSIF) y Sindicato de Auxiliares de Enfermería (SAE), sobre el ejercicio de la actividad sindical en el ámbito del Servicio Murciano de Salud (BORM de 22-4-2004).
+El Acuerdo suscrito el 24 de julio de 2003 entre la Administración Regional y las Organizaciones Sindicales, Unión General de Trabajadores (FSP-UGT), Comisiones Obreras (CC.OO), Convergencia Estatal de Médicos y Ayudantes Técnicos Sanitarios (CEMSATSE), y Confederación de Sindicatos Independientes y Sindical de Funcionarios (CSI-CSIF), sobre derechos sindicales en el sector de Administración y Servicios de la Administración Pública de la Región de Murcia (BORM de 22-4-2004).
+El Acuerdo de 30 de septiembre de 2003, suscrito entre la Administración Regional y las Organizaciones Sindicales Unión General de Trabajadores (FSPUGT), Comisiones Obreras (CCOO), Confederación de Sindicatos Independientes y Sindical de Funcionarios (CSI-CSIF) y Convergencia Estatal de Médicos y Ayudantes Técnicos Sanitarios (CEMSATSE), sobre el ejercicio de la actividad sindical de las secciones sindicales, delegados de prevención y formación en el sector de administración y servicios de la Administración Pública de la Región de Murcia (BORM de 22-4-2004).
+El Acuerdo suscrito el 15 de diciembre de 2003 entre el Servicio Murciano de Salud y las organizaciones sindicales CEMSATSE, FSP/UGT, CC.OO., SAE y CSI/CSIF relativo a las secciones sindicales y al ejercicio de la actividad sindical relacionada con las tareas de prevención de riesgos laborales, de formación y de acción social. (BORM de 18-8-2004).
+El Acuerdo Marco suscrito el pasado 28 de octubre de 2004, entre la Administración Regional y las Organizaciones Sindicales, Unión General de Trabajadores (FSP-UGT), Comisiones Obreras (CC.OO), Confederación de Sindicatos Independientes y Sindical de Funcionarios (CSI-CSIF) y Convergencia Estatal de Médicos y Ayudantes Técnicos Sanitarios (CEMSATSE), sobre modernización y mejora de la Administración Pública Regional para el período 2005-2007 (BORM de 7-2-2005).
+El Acuerdo Marco sectorial por el que se ordenan las materias objeto de negociación sindical para la mejora de las condiciones de trabajo y de la asistencia sanitaria, alcanzado el día 27 de mayo de 2005, entre la Consejería Sanidad y las organizaciones sindicales CEMSATSE, F.S.P./U.G.T., CC.OO., S.A.E. y C.S.I./C.S.I.F (BORM de 27-6-2005).
+El Acuerdo suscrito el 8 de febrero de 2007, entre la Administración Regional y las Organizaciones Sindicales; Unión General de Trabajadores (UGT), Comisiones Obreras (CC.OO.), Confederación de Sindicatos Independientes y Sindical de Funcionarios (CSI-CSIF) y Convergencia Estatal de Médicos y Ayudantes Técnicos Sanitarios (CEMSATSE), para la aplicación de medidas de carácter social, tendentes a la revisión de la temporalidad y mejora del empleo, e incremento retributivo adicional para el año 2007 (BORM de 16-3-2007).
+El Acuerdo suscrito el 27 de abril de 2007 entre representantes del Servicio Murciano de Salud y de los Comités de Huelga sobre las reivindicaciones formuladas en relación con el personal destinado en atención primaria.
+Los acuerdos suscritos el 9 de enero de 2008 entre el Servicio Murciano de Salud y la organización sindical CEMSATSE sobre el incremento del complemento de atención continuada y para la implantación de la jornada de 35 horas en el Servicio Murciano de Salud.
+El Acuerdo suscrito el 9 de enero de 2008 entre el Servicio Murciano de Salud y las organizaciones sindicales CEMSATSE sobre la aplicación a médicos de familia, pediatras de equipos de atención primaria y enfermeros que desarrollan turno deslizante o turno fijo de tarde en los equipos de atención primaria.
+El Acuerdo celebrado el 16 de febrero de 2008, entre el Servicio Murciano de Salud y las organizaciones sindicales presentes en la Mesa sectorial de sanidad sobre la aplicación de un complemento salarial al personal de apoyo de los equipos de atención primaria (auxiliares administrativos, auxiliares de enfermería y celadores) que desarrollan turno deslizante o turno fijo de tarde en los equipos de atención primaria.
+El Acuerdo suscrito el 16 de febrero de 2008 entre el Servicio Murciano de Salud y las organizaciones sindicales CEMSATSE, CC.OO. y UGT sobre incremento del importe de los complementos de turnicidad y festividad y eliminación de la incompatibilidad entre los pluses de nocturnidad y festividad.
+El Acuerdo suscrito el 18 de marzo de 2009, en la Mesa sectorial de Administración y Servicios, por el que se establece un nuevo marco de ejecución de los acuerdos suscritos los días 3 de marzo y 8 de mayo de 2008, más la adenda a este último de fecha 23 de diciembre de 2008 y se determina la aplicación del incremento adicional de 1 por 100 previsto en el artículo 23.3 de la Ley 10/2007, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma para la Región de Murcia correspondiente al ejercicio 2008 (BORM de 7-5-2009).
+El Acuerdo celebrado el 29 de julio de 2010 en la Mesa General de Negociación de las Condiciones de Trabajo Comunes del personal al servicio de la Administración Regional.
+El Acuerdo suscrito el 16 de septiembre de 2010 en la Mesa sectorial de servicios entre representantes de la Administración Pública de la Región de Murcia y de las organizaciones sindicales CC.OO., STERM, y FSP/UGT.
+Se añade por el art. único.4 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno a dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de la presente Ley.
+Se modifica por el art. único.5 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Disposición final segunda
+
+Disposición final segunda. Vigencia.
+1. La presente ley entrará en vigor el día 1 de enero de 2011.
+2. El título I de la presente Ley tendrá vigencia hasta el 31 de diciembre de 2011.
+Se añade el apartado 2 por el art. único.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+2. (Sin contenido).
+Se deja sin contenido el apartado 2 por el art. único.3.7 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 27 de diciembre de 2010.–El Presidente, Ramón Luis Valcárcel Siso.
+
+## ANEXO
+
+Complemento de atención continuada
+ Importe
+ I) PERSONAL FACULTATIVO DE ATENCIÓN ESPECIALIZADA.
+ A) SERVICIOS QUE CONTINÚAN CON LA ORGANIZACIÓN DE TRABAJO TRADICIONAL.
+ Valor hora de guardia de presencia física de lunes a viernes.
+ 23,95 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 26,61 euros
+ Valor de los módulos más habituales.
+ Guardia de presencia física de 17 horas, de lunes a viernes.
+ 407,13 euros
+ Guardia de presencia física de 17 horas, los sábados.
+ 452,42 euros
+ Guardia de presencia física de 24 horas los domingos y festivos
+ 638,71 euros
+ B) PERSONAL FACULTATIVO NOMBRADO PARA LA REALIZACIÓN DE GUARDIAS.
+ Valor hora de guardia de presencia física de lunes a viernes.
+ 23,95 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 26,61 euros
+ C) GUARDIAS QUE POR NECESIDADES DEL SERVICIO SE REALICEN EN UNA GERENCIA DISTINTA A LA QUE SE ENCUENTREN ADSCRITOS.
+ Valor hora de guardia de presencia física.
+ 33,71 euros
+ Guardia de presencia física de 17 horas.
+ 572,96 euros
+ Guardia de presencia física de 24 horas.
+ 809,14 euros
+ D) VALOR DE LAS GUARDIAS QUE SE REALICEN LOS DÍAS 24, 25 Y 31 DE DICIEMBRE Y 1, 5 Y 6 DE ENERO.
+ El valor de la hora de guardia que se realice durante tales días se incrementará en un 40% sobre el valor aplicable al resto de días de acuerdo a lo dispuesto en los apartados anteriores.
+ E) VALOR DE LA JORNADA ESPECIAL.
+ Valor de la hora de la jornada especial.
+ 31,05 euros
+ F) VALOR DE LAS GUARDIAS LOCALIZADAS.
+ Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ II) PERSONAL FACULTATIVO DE ATENCIÓN PRIMARIA.
+ Médicos generales, pediatras y médicos de unidades móviles, CCU y SUAP. (Modalidad B Presencia física).
+ A) IMPORTE DEL VALOR DE LA HORA DE ATENCIÓN CONTINUADA.
+ Valor hora de guardia de presencia física de lunes a viernes.
+ 23,95 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 26,61 euros
+ Valor de los módulos más habituales.
+ Guardia de presencia física de 17 horas, de lunes a viernes.
+ 407,13 euros
+ Guardia de presencia física de 17 horas, los sábados.
+ 452,42 euros
+ Guardia de presencia física de 24 horas los domingos y festivos.
+ 638,71 euros
+ B) PERSONAL FACULTATIVO NOMBRADO PARA LA REALIZACIÓN DE GUARDIAS.
+ Valor hora de guardia de presencia física de lunes a viernes.
+ 23,95 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 26,61 euros
+ C) GUARDIAS QUE POR NECESIDADES DEL SERVICIO SE REALICEN EN UNA GERENCIA DISTINTA A LA QUE SE ENCUENTREN ADSCRITOS.
+ Valor hora de guardia de presencia física.
+ 33,71 euros
+ Guardia de presencia física de 17 horas.
+ 572,96 euros
+ Guardia de presencia física de 24 horas.
+ 809,14 euros
+ D) VALOR DE LAS GUARDIAS QUE SE REALICEN LOS DÍAS 24, 25 Y 31 DE DICIEMBRE y 1,5 y 6 DE ENERO.
+ El valor de la hora de guardia que se realice durante tales días se incrementará en un 40% sobre el valor aplicable al resto de días de acuerdo a lo dispuesto en los apartados anteriores.
+ E) VALOR DE LA JORNADA ESPECIAL.
+ Valor de la hora de la jornada especial.
+ 31,05 euros
+ F) VALOR DE LAS GUARDIAS LOCALIZADAS.
+ Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ III) PERSONAL FACULTATIVO EN FORMACIÓN (MIR, FIR, BIR, QUIR, PSIR).
+ A) RESIDENTES EN ATENCIÓN ESPECIALIZADA.
+De lunes a viernes
+ Sábados, domingos y festivos
+ Primer año:
+ Guardia de presencia física de 12 horas.
+ 119,34 euros
+ 130,03 euros
+ Guardia de presencia física de 17 horas.
+ 169,07 euros
+ 184,21 euros
+ Domingos y festivos.
+ Guardia de presencia física de 24 horas.
+ 
+ 260,06 euros
+De lunes a viernes
+ Sábados, domingos y festivos
+ Segundo año:
+ Guardia de presencia física de 12 horas.
+ 141,16 euros
+ 162,54 euros
+ Guardia de presencia física de 17 horas.
+ 199,97 euros
+ 230,27 euros
+ Domingos y festivos
+ Guardia de presencia física de 24 horas.
+ 
+ 325,08 euros
+De lunes a viernes
+ Sábados, domingos y festivos
+ Tercer año:
+ Guardia de presencia física de 12 horas.
+ 159,73 euros
+ 181,01 euros
+ Guardia de presencia física de 17 horas.
+ 226,29 euros
+ 256,43 euros
+ Domingos y festivos
+ Guardia de presencia física de 24 horas.
+ 
+ 362,02 euros
+De lunes a viernes
+ Sábados, domingos y festivos
+ Cuarto y quinto año:
+ Guardia de presencia física de 12 horas.
+ 181,01 euros
+ 212,87 euros
+ Guardia de presencia física de 17 horas.
+ 256,43 euros
+ 301,56 euros
+ Domingos y festivos
+ Guardia de presencia física de 24 horas.
+ 
+ 425,74 euros
+Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ B) RESIDENTES EN ATENCIÓN PRIMARIA.
+De lunes a viernes
+ Sábados, domingos y festivos
+ MIR Primer año (Valor hora):
+ 9,95 euros
+ 10,84 euros
+ MIR Segundo año (Valor hora):
+ 11,76 euros.
+ 13,55 euros
+ MIR Tercer año (Valor hora):
+ 13,31 euros
+ 15,08 euros
+ MIR Cuarto año y quinto año (Valor hora):
+ 15,09 euros
+ 17,74 euros
+ Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ C) VALOR DE LAS GUARDIAS QUE SE REALICEN LOS DÍAS 24, 25 Y 31 DE DICIEMBRE Y 1, 5 Y 6 DE ENERO.
+ El valor de la hora de guardia que se realice durante tales días se incrementará en un 40% sobre el valor aplicable al resto de días de acuerdo a lo dispuesto en los apartados anteriores.
+ IV) SUPERVISORES DE ÁREA Y DE UNIDAD.
+Importe
+ Módulo de 7 horas (de lunes a viernes).
+ 105,59 euros
+ Módulo de 10 horas (de lunes a viernes).
+ 150,84 euros
+ Módulo de 24 horas (de lunes a viernes).
+ 362,02 euros
+ Módulo de 7 horas (Sábados, domingos y festivos).
+ 118,00 euros
+ Módulo de 10 horas (Sábados, domingos y festivos).
+ 168,57 euros
+ Módulo de 24 horas (Sábados, domingos y festivos).
+ 404,57 euros
+ Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ VALOR DE LAS GUARDIAS QUE SE REALICEN LOS DÍAS 24, 25 Y 31 DE DICIEMBRE y 1, 5 y 6 DE ENERO.
+ El valor de la hora de guardia que se realice durante tales días se incrementará en un 40% sobre el valor aplicable al resto de días de acuerdo a lo dispuesto en los apartados anteriores.
+ V) DIPLOMADOS DE ENFERMERÍA EN ATENCIÓN PRIMARIA.
+ Enfermería/DUE de EAP, CCU, UME y SUAP. (Modalidad B Presencia física).
+ A) Valor hora de guardia de presencia física de lunes a viernes.
+ 15,08 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 16,86 euros
+ Valor de los módulos más habituales.
+ Guardia de presencia física de 17 horas, de lunes a viernes.
+ 256,43 euros
+ Guardia de presencia física de 17 horas, los sábados.
+ 286,57 euros
+ Guardia de presencia física de 24 horas, los domingos y festivos.
+ 404,57 euros
+ B) PERSONAL DE ENFERMERÍA NOMBRADO PARA LA REALIZACIÓN DE GUARDIAS.
+ Valor hora de guardia de presencia física de lunes a viernes.
+ 15,08 euros
+ Valor hora de guardia de presencia física los sábados, domingos y festivos.
+ 16,86 euros
+ C) VALOR DE LAS GUARDIAS QUE SE REALICEN LOS DÍAS 24, 25 Y 31 DE DICIEMBRE Y 1, 5 Y 6 DE ENERO.
+ El valor de la hora de guardia que se realice durante tales días se incrementará en un 40% sobre el valor aplicable al resto de días de acuerdo a lo dispuesto en los apartados anteriores.
+ D) VALOR DE LAS GUARDIAS LOCALIZADAS.
+ Las guardias localizadas se abonarán al 50% del valor señalado para las guardias de presencia física.
+ VI) ENFERMEROS INTERNOS RESIDENTES.
+ Enfermero en formación de 1.º año (Valor/hora):
+ 7,38 euros
+ Enfermero en formación de 2.º año (Valor/hora):
+ 7,38 euros
+ COMPLEMENTO DE TURNICIDAD.
+ I) MÉDICOS DE FAMILIA, PEDIATRAS Y ENFERMEROS QUE REALIZAN TURNO FIJO DE TARDE EN LOS EQUIPOS DE ATENCIÓN PRIMARIA.
+Importe mensual
+ Médicos de Familia y Pediatras.
+ 124,20 euros
+ Personal perteneciente al subgrupo A2.
+ 78,07 euros
+ Personal perteneciente al subgrupo C1.
+ 62,10 euros
+ Personal perteneciente a los subgrupos C2 y E.
+ 57,66 euros
+ Cuando se realice un turno deslizante, el importe a abonar será el resultado de dividir el importe fijado por la prestación de servicios en turno fijo de tarde por el número de días comprendidos entre lunes y viernes del mes y de multiplicar el cociente por el número de tardes en los que el interesado preste servicios de manera efectiva.
+ II) COMPLEMENTO DE TURNICIDAD PARA EL RESTO DEL PERSONAL.
+ Personal perteneciente a las categorías del subgrupo A1.
+ 124,20 euros
+ Personal perteneciente a las categorías del subgrupo A2.
+ 78,07 euros
+ Personal perteneciente a las categorías del subgrupo C1.
+ 62,10 euros
+ Personal perteneciente a las categorías del subgrupo C2 y E.
+ 57,66 euros

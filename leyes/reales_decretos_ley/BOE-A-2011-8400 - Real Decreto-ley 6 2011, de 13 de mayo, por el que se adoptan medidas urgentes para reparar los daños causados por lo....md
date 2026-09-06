@@ -1,0 +1,228 @@
+# Real Decreto-ley 6/2011, de 13 de mayo, por el que se adoptan medidas urgentes para reparar los daños causados por los movimientos sísmicos acaecidos el 11 de mayo de 2011 en Lorca, Murcia.
+
+- Identificador BOE: `BOE-A-2011-8400`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-8400
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOE núm. 118, de 18 de mayo de 2011. Ref. BOE-A-2011-8626 y núm. 119, de 19 de mayo de 2011. Ref. BOE-A-2011-8685
+
+## Preámbulo
+
+El municipio de Lorca (Murcia) sufrió el pasado 11 de mayo de 2011 las consecuencias de un terremoto de magnitud 5,1 grados según la escala de Richter, que fue precedido de un movimiento sísmico de 4,5. Se trata del suceso más grave de este tipo acaecido en los últimos años en España.
+El epicentro se ha localizado en la sierra de Tercia, en el término municipal de Lorca. El seísmo ha provocado numerosos daños personales y materiales en un radio de entre 5 y 10 kilómetros al noreste del casco urbano, cerca de la autovía de Murcia, y se ha sentido con fuerza en varias poblaciones de la región.
+La intensidad de este fenómeno ha producido numerosas consecuencias catastróficas, entre las que cabe destacar muy especialmente el fallecimiento de nueve personas. Asimismo, más de dos centenares de personas resultaron heridas como consecuencia de los desprendimientos de cascotes que les sorprendieron cuando caminaban por las calles. A ello se le añade que miles de personas fueron desalojadas de sus viviendas y un elevado número de vecinos abandonaron sus domicilios temporalmente ante la posibilidad de que se produjeran nuevos movimientos sísmicos. También se registraron daños en edificios e infraestructuras de titularidad municipal, en bienes del patrimonio cultural y en numerosas viviendas.
+La magnitud de esta catástrofe exige, desde el principio constitucional de solidaridad, una acción inmediata de los poderes públicos que lleve a cabo, en primer lugar, la adopción de diversas medidas paliativas y reparadoras que contribuyan al restablecimiento gradual de la normalidad en la zona; en segundo lugar, la definición de los procedimientos de coordinación y de los mecanismos de colaboración entre los órganos de la Administración General del Estado, de la Comunidad Autónoma de la Región de Murcia y de las administraciones locales afectadas, que permitan garantizar la pronta ejecución de dichas medidas, y, por último, la determinación de la financiación de los gastos que de tales actuaciones se deriven.
+La gravedad de los daños materiales producidos, especialmente en las viviendas de la zona, así como la posible incidencia sobre la actividad económica, hacen necesaria la aprobación de normas excepcionales en relación con estos bienes y con el alojamiento provisional de los damnificados. La aplicación de estas normas especiales conlleva la inadecuación de las reglas que con carácter general, sobre esta misma materia, establece el Real Decreto 307/2005, de 18 de marzo, por el que se regulan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión.
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta del Vicepresidente Primero del Gobierno y Ministro del Interior, de la Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, del Vicepresidente Tercero del Gobierno y Ministro de Política Territorial y Administración Pública, de la Ministra de Defensa, del Ministro de Fomento, del Ministro de Trabajo e Inmigración, de la Ministra de Medio Ambiente, y Medio Rural y Marino, del Ministro de la Presidencia y de la Ministra de Sanidad, Política Social e Igualdad, y previa deliberación del Consejo de Ministros en su reunión del día 13 de mayo de 2011,
+DISPONGO:
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+Las medidas establecidas en este Real Decreto-ley se aplicarán a la reparación de los daños personales y materiales ocasionados por los movimientos sísmicos acaecidos el día 11 de mayo de 2011 en el municipio de Lorca (Murcia).
+
+### Artículo 2
+
+Artículo 2. Ayudas excepcionales por daños personales en casos de fallecimiento y de incapacidad absoluta y permanente.
+1. En el caso de fallecimiento de personas a consecuencia de estos fenómenos, por cada miembro fallecido de la unidad familiar o de convivencia se concederá la cantidad de 18.000 euros, con las condiciones y requisitos establecidos en el artículo 19 del Real Decreto 307/2005, de 18 de marzo, no siendo de aplicación el requisito de dependencia económica previsto en los apartados 19.1.d) y en el 19.2 del mismo
+2. Idéntica cantidad se concederá en el supuesto de incapacidad absoluta y permanente del miembro de la unidad familiar o de convivencia, siendo el beneficiario la persona declarada en dicha situación.
+3. Estas ayudas sólo procederán cuando la muerte o incapacidad hubieran sido causadas directamente por los hechos descritos en el artículo 1 de este Real Decreto-ley.
+4. La financiación de las ayudas previstas en este artículo se realizará con cargo a la aplicación presupuestaria 16.01.134 M.482, Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia, dotada con el carácter de ampliable en el vigente presupuesto del Ministerio del Interior
+
+### Artículo 3
+
+Artículo 3. Ayudas excepcionales por daños materiales.
+1. Se conceden ayudas en los siguientes supuestos:
+a) Para alquiler de viviendas y reposición de enseres:
+1. En los supuestos en que, como consecuencia del seísmo, se hubiera producido la destrucción total de la vivienda o bien, debido a su mal estado residual, hubiera sido precisa su demolición, sus propietarios, en el supuesto de que constituyera su residencia habitual, podrán acceder a una vivienda en régimen de alquiler, durante un período máximo de 24 meses, prorrogable, en su caso, hasta que sea posible la reconstrucción de la vivienda o la disposición de una nueva, aunque podrán admitirse otras fórmulas de realojamiento alternativas cuando así resulte necesario.
+2. Los que ocuparan como residencia habitual, en régimen de alquiler, viviendas que hubieran resultado totalmente destruidas o hubieran sido demolidas, podrán acceder a ayudas por alquiler consistentes en el abono de la diferencia entre las rentas de alquiler de la anterior y de la nueva vivienda, por un período de tiempo igual al reflejado en el párrafo 1.
+3. En el supuesto de que la rehabilitación o reparación de la vivienda, en los términos a que se refiere el párrafo c), exija su desalojo, se podrá acceder igualmente a una vivienda en régimen de alquiler, durante un período máximo de 12 meses, prorrogable, en su caso, hasta que sea posible la disposición de la vivienda.
+4. La cuantía máxima que pueden alcanzar estas ayudas no podrá superar el importe de 74,13 euros/m2/alquiler año por vivienda y hasta un máximo de 6.671,7 euros/año.
+5. Los que a consecuencia de los movimientos sísmicos producidos hubieran sufrido destrucción o daños en enseres de primera necesidad, podrán percibir, previa acreditación de los mismos, una cantidad máxima de 2.580 euros para su reposición.
+b) Para los gastos de emergencia en que haya incurrido el Ayuntamiento de Lorca, derivados de actuaciones imprescindibles e inaplazables para garantizar la vida y seguridad de las personas y el funcionamiento de los servicios públicos esenciales, y para aquellos gastos ocasionados por la prestación personal o de bienes o servicios de aquellas personas físicas o jurídicas que hayan sido requeridas por la autoridad competente en el ámbito de la Administración General del Estado con motivo de la situación de emergencia.
+Asimismo, excepcionalmente, se concederán ayudas para cubrir los gastos en que incurra el Ayuntamiento de Lorca derivados de las actuaciones imprescindibles e inaplazables que se acometan para garantizar la protección de los bienes del patrimonio cultural de la ciudad frente a fenómenos meteorológicos susceptibles de producir en dichos bienes daños que agraven el deterioro que ya sufren como consecuencia del terremoto del 11 de mayo de 2011.
+El inventario de las actuaciones, con las especificaciones técnicas de su ejecución para cada uno de los bienes integrantes del patrimonio cultural sobre el que se actúe, deberá ser aprobado por el Ministerio de Cultura, la Comunidad Autónoma de la Región de Murcia y el Ayuntamiento de Lorca en un plazo de diez días desde la entrada en vigor del presente Real Decreto-ley.
+c) Para reparación, rehabilitación y reconstrucción de viviendas:
+1. En los supuestos en que, como consecuencia del seísmo, se hubiera producido la destrucción total de la vivienda, sus propietarios, en el caso de que dicha vivienda constituyera su residencia habitual, podrán ser beneficiarios de una ayuda económica para su reparación, rehabilitación y reconstrucción, cuya cuantía quedará determinada, en su límite máximo, por el valor de los daños producidos según la tasación pericial efectuada o ratificada por el órgano competente de la Comunidad Autónoma de la Región de Murcia, sin que en ningún caso el importe de dicha ayuda pueda ser superior al 80 % del precio de venta de una vivienda calificada de protección oficial de régimen especial, ubicada en la misma localidad que la vivienda destruida. A los efectos del cómputo de dicho precio de venta, se supondrá una superficie útil de la vivienda protegida de 90 metros cuadrados, sin trastero ni garaje.
+Excepcionalmente, podrán beneficiarse de esta ayuda los propietarios de viviendas demolidas que no constituyan su vivienda habitual siempre que al menos el 80 por 100 de las viviendas del edificio siniestrado sí constituyan el domicilio habitual de sus propietarios.
+2. Si la vivienda no hubiera resultado destruida o demolida, sino dañada, sus propietarios, en el caso de que dicha vivienda constituyera su domicilio habitual, podrán ser beneficiarios de una ayuda económica cuya cuantía máxima será de 24.000 euros para su reparación o rehabilitación.
+Las comunidades de propietarios podrán ser beneficiarias de una ayuda económica adicional para la rehabilitación o reparación de los daños que hubieran sufrido los elementos comunes del edificio. Su cuantía será igual al importe del daño con un límite máximo de 3.000 euros por cada vivienda o elemento privativo existente en el edificio.
+Esta ayuda se ingresará en la cuenta bancaria de la que sea titular la comunidad de propietarios, o en aquélla que, según acuerdo de la comunidad, se indique.
+3. En el caso de que el propietario no haya solicitado la ayudas previstas en los puntos 1 y 2 anteriores, podrán ser beneficiarios de estas ayudas previstas para la reconstrucción, rehabilitación o reparación de una vivienda siniestrada los que la ocuparan como domicilio habitual, en calidad de usufructuarios o arrendatarios con contrato sometido a prórroga forzosa. En tal caso, a los efectos de su reconstrucción, rehabilitación o reparación, resultará perceptor de la ayuda correspondiente quien acredite ser propietario del inmueble.
+d) Para la reparación, rehabilitación y reconstrucción de locales o establecimientos mercantiles, industriales o de servicios:
+Los titulares de los locales o establecimientos mercantiles, industriales o de servicios que tengan menos de cincuenta empleados y que como consecuencia del seísmo se hayan destruido, demolido o dañado podrán ser beneficiarios de una ayuda económica por el importe de los daños sufridos y hasta un máximo de ocho mil euros, siempre que al tiempo de producirse el siniestro estuvieran asegurados.
+2. Las ayudas excepcionales por daños materiales que se establecen en este artículo tendrán carácter extraordinario y se regirán por lo dispuesto en este Real Decreto-ley. Para su concesión no será de aplicación lo establecido sobre esta materia en el Real Decreto 307/2005, de 18 de marzo, por el que se regulan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión.
+Se modifica el apartado 1 por la disposición final 1.1 a 3 y 5 del Real Decreto-ley 17/2011, de 31 de octubre. Ref. BOE-A-2011-17170#df
+
+### Artículo 4
+
+Artículo 4. Requisitos.
+Los particulares que soliciten las ayudas previstas en el artículo anterior deberán acreditar, por cualquier medio admisible en derecho, que reúnen los siguientes requisitos:
+a) Tener su residencia en el municipio de Lorca (Murcia) y que la vivienda siniestrada constituya su domicilio habitual con anterioridad a la producción del siniestro. No se exigirá el requisito del domicilio habitual en el caso de las ayudas para la reconstrucción de viviendas destruidas o demolidas a que se refiere el apartado 1.c) 1 del artículo anterior.
+b) Justificar, en su caso, el importe de los gastos generados por el arrendamiento que haya resultado necesario como consecuencia de la situación de la vivienda destruida o dañada.
+c) Reunir la condición de propietario, usufructuario o arrendatario en los términos que se determinan en el artículo 3.1.a) y c).
+Se modifica la letra a) por la disposición final 1.4 del Real Decreto-ley 17/2011, de 31 de octubre. Ref. BOE-A-2011-17170#df
+
+### Artículo 5
+
+Artículo 5. Indemnización de daños en producciones e instalaciones agrícolas y ganaderas.
+1. Las indemnizaciones previstas en este artículo irán destinadas a los titulares de las explotaciones agrícolas o ganaderas que, teniendo pólizas en vigor amparadas por el Plan de seguros agrarios combinados para el año 2011 y estando ubicadas en el ámbito geográfico señalado en el artículo 1, hayan sufrido pérdidas superiores al 20 %, con arreglo a los criterios establecidos por la Unión Europea a este respecto.
+2. Serán objeto de indemnización:
+1. En las explotaciones ganaderas, las pérdidas producidas como consecuencia de los daños registrados sobre áreas de aprovechamiento ganadero, siempre y cuando los animales de dichas explotaciones estén asegurados en cualquiera de las líneas de seguros contenidas en dicho plan.
+Adicionalmente, en las explotaciones ganaderas, serán objeto de indemnización las pérdidas ocasionadas a consecuencia de los daños registrados sobre sistemas de climatización y ventilación en instalaciones cerradas. Serán compensables tanto los daños en dichos sistemas, como los que se hubieran producido por la muerte de animales por su falta de funcionamiento. Se compensarán también los posibles daños que se hubieran ocasionado por aplastamiento de los animales.
+2. Serán, igualmente, objeto de indemnización los daños registrados en aquellas producciones agrícolas y ganaderas para las que en las fechas del siniestro no se hubiese iniciado el período de contratación del correspondiente seguro, siempre y cuando se hubiese contratado dicho seguro en la campaña anterior.
+3. Para las restantes producciones agrícolas y ganaderas, que en el momento de producirse los daños dispusieran de póliza en vigor amparada por el sistema de seguros agrarios combinados, serán indemnizados los daños que no fuesen garantizables mediante dicho sistema.
+En este sentido, en las explotaciones agrícolas, se indemnizarán las pérdidas producidas como consecuencia de los daños registrados sobre sistemas e instalaciones de riego, sobre invernaderos o emparrados o sobre otras instalaciones de protección o conducción de las producciones. Serán compensables tanto los daños sobre dichas instalaciones, como los que se hubieran producido por la caída de estas sobre las producciones agrícolas.
+4. Por último, serán objeto de indemnización los daños originados por los movimientos sísmicos en las producciones agrícolas y ganaderas no incluidas en el vigente plan de seguros agrarios combinados, excepto en el caso de que dichas producciones estuviesen garantizadas por alguna otra modalidad de aseguramiento.
+5. Las pérdidas registradas en las explotaciones ganaderas, como consecuencia de los daños producidos sobre áreas de aprovechamiento ganadero, serán compensadas con unas indemnizaciones en concepto de gastos extraordinarios para la alimentación de los animales.
+Para la determinación de la indemnización en las producciones agrícolas se valorarán las pérdidas registradas sobre la producción esperada en la campaña. Para el caso de producciones agrícolas leñosas se tendrá en cuenta, además, una compensación equivalente al coste de reposición de las plantaciones afectadas y la posible repercusión que pudiera originarse en la cosecha de las próximas campañas.
+Para las restantes producciones, la indemnización a percibir se determinará teniendo en cuenta, en la medida en que resulten aplicables, las condiciones y procedimientos establecidos en el sistema de seguros agrarios.
+El Ministerio de Medio Ambiente, y Medio Rural y Marino, en coordinación con la Comunidad Autónoma, establecerá el procedimiento para la determinación de todas las indemnizaciones previstas en este punto y la cuantía máxima de las mismas.
+
+### Artículo 6
+
+Artículo 6. Límite y compatibilidad de las ayudas.
+El valor de las ayudas concedidas en aplicación de este Real Decreto-ley, en lo que a los daños materiales se refiere, no podrá superar en ningún caso la diferencia entre el valor del daño producido y el importe de otras ayudas o indemnizaciones declaradas compatibles o complementarias que, por igual concepto, pudieran concederse por otros organismos públicos, nacionales o internacionales, o correspondieran en virtud de la existencia de pólizas de aseguramiento.
+
+### Artículo 7
+
+Artículo 7. Comisión mixta.
+Para la valoración, determinación y cuantía de las ayudas concedidas a particulares, en virtud de las solicitudes presentadas, por arrendamiento, reconstrucción, rehabilitación o reparación de viviendas que constituyan su domicilio habitual, se creará una comisión mixta copresidida por el Delegado del Gobierno en la Comunidad Autónoma de la Región de Murcia y el Consejero de Obras Públicas y Ordenación del Territorio de dicha Comunidad Autónoma, y compuesta por un representante de la Administración General del Estado, un representante de la administración autonómica y un representante del Ayuntamiento de Lorca.
+Dicha comisión mixta, atendiendo a criterios de equidad, tras valorar los gastos y los daños acreditados y la situación económica y social de cada solicitante, elevará al órgano competente para resolver una propuesta individualizada motivada en relación con la ayuda que se solicita, así como sobre la cuantía que deba concederse en caso de propuesta favorable, que en ningún caso podrá superar los límites que se establecen para cada supuesto en el artículo 3.
+La citada comisión mixta podrá recabar del Consorcio de Compensación de Seguros la información de que disponga dicha entidad pública sobre las valoraciones de daños que hubiera realizado y la cuantía de las indemnizaciones que hubiera abonado. El Consorcio de Compensación de Seguros queda autorizado para cederla, de acuerdo con lo dispuesto en el artículo 8 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+Asimismo, la resolución correspondiente deberá determinar el plazo máximo de ejecución de las obras a las que se destina la ayuda. El plazo máximo para la reconstrucción o rehabilitación de la vivienda será de 24 meses y el plazo máximo para la reparación de daños será de 12 meses.
+En cualquier caso, el plazo máximo que se fije para la ejecución de las obras de reconstrucción o rehabilitación de la vivienda o para la reparación de daños, no podrá ser posterior al 31 de octubre de 2023.
+Téngase en cuenta la disposición adicional 4 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#da-4, en cuanto a la ampliación del plazo de ejecución inicialmente concedido por este artículo para las ayudas para la reconstrucción o rehabilitación de viviendas o para la reparación de daños causados por los seísmos.
+Se modifica por la disposición final 4 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df-4
+ Téngase en cuenta la disposición adicional 4 del citado Real Decreto-ley en cuanto a la ampliación del plazo de ejecución inicialmente concedido por este artículo.
+ Se modifica por la disposición final 1.6 del Real Decreto-ley 17/2011, de 31 de octubre. Ref. BOE-A-2011-17170#df
+
+### Artículo 8
+
+Artículo 8. Financiación de las ayudas excepcionales por daños materiales.
+1. Las ayudas previstas en el artículo 3.1.a) y d) se financiarán en un 50 por 100 por la Administración General del Estado, con cargo a las aplicaciones presupuestarias 16.01.134 M.482 y 16.01.134M.472, respectivamente, dotadas con el carácter de ampliables, para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia en el vigente presupuesto del Ministerio del Interior, y, en su caso, el restante 50 por 100 por las otras administraciones públicas según los acuerdos que se alcancen.
+2. Las ayudas previstas en el artículo 3.1.b) se costearán en su totalidad por la Administración General del Estado, con cargo a las aplicaciones presupuestarias 16.01.134 M.461, A corporaciones locales para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia, y 16.01.134 M. 471, A empresas privadas por actividades realizadas a requerimiento de la autoridad competente en situaciones de emergencia, dotadas, con el carácter de ampliables, en el vigente presupuesto del Ministerio del Interior. Los gastos originados deberán acreditarse ante el órgano competente para resolver por medio de las correspondientes facturas emitidas de conformidad con el Real Decreto 1496/2003, de 28 de noviembre.
+3. La financiación de las ayudas previstas en el artículo 3.1.c) se efectuará en un 50 % por la Administración General del Estado, con cargo al crédito al que se refiere el apartado 1 del artículo 11 de este Real Decreto-ley y, en su caso, el restante 50 %, por las otras administraciones públicas según los acuerdos que se alcancen.
+Se modifica el apartado 1 por la disposición final 1.7 del Real Decreto-ley 17/2011, de 31 de octubre. Ref. BOE-A-2011-17170#df
+
+### Artículo 9
+
+Artículo 9. Daños en infraestructuras municipales.
+A los proyectos que ejecute la entidad local a la que es de aplicación las medidas extraordinarias previstas en este Real Decreto-ley, relativos a las obras de reparación o restitución de infraestructuras, equipamientos e instalaciones y servicios de titularidad local, se les aplicará el trámite de urgencia, y el Estado podrá concederles una subvención máxima del 50 % de su coste.
+
+### Artículo 10
+
+Artículo 10. Daños en inmuebles de titularidad estatal.
+Se faculta a los titulares de los departamentos ministeriales competentes por razón de la materia para declarar zona de actuación especial las áreas afectadas, al objeto de que dichos departamentos, sus organismos autónomos y entidades públicas dependientes de éstos puedan llevar a cabo las restauraciones que procedan.
+
+### Artículo 11
+
+Artículo 11. Habilitación de créditos.
+1. Se faculta al titular del Ministerio de Fomento para proponer el pago de las subvenciones a que se refiere el artículo 3.1.c), en la parte que financia la Administración General del Estado, con cargo al crédito que, con el carácter de ampliable, a estos efectos se habilite en los presupuestos de dicho departamento.
+2. Se faculta al titular del Ministerio de Política Territorial y Administración Pública para proponer el pago de las subvenciones a que se refiere el artículo 9, en la parte que financia la Administración General del Estado, con cargo al crédito que a estos efectos se habilite en los presupuestos de dicho departamento, así como establecer el procedimiento para su concesión, seguimiento y control, en el marco de la cooperación económica del Estado a las inversiones de las entidades locales.
+3. De conformidad con lo establecido en el artículo 50.1.b) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, los créditos a que se hace referencia en los apartados anteriores se financiarán con cargo al Fondo de Contingencia de Ejecución Presupuestaria.
+4. Los remanentes que puedan presentar los citados créditos al finalizar el ejercicio 2011 podrán ser incorporados al ejercicio siguiente.
+
+### Artículo 12
+
+Artículo 12. Beneficios fiscales.
+1. Se concede la exención de las cuotas del Impuesto sobre Bienes Inmuebles correspondientes al ejercicio 2011 que afecten a viviendas, establecimientos industriales y mercantiles, locales de trabajo y similares, de naturaleza urbana, situados en el municipio de Lorca (Murcia), dañados como consecuencia de los movimientos sísmicos a que se refiere el artículo 1 de este Real Decreto-ley, cuando se acredite que, tanto las personas como los bienes ubicados en aquéllos, hayan tenido que ser objeto de realojamiento total o parcial en otras viviendas o locales diferentes hasta la reparación de los daños sufridos.
+2. Se concede una reducción en el Impuesto sobre Actividades Económicas correspondiente al ejercicio de 2011 a las industrias de cualquier naturaleza, establecimientos mercantiles y profesionales cuyos locales de negocio o bienes afectos a esa actividad hayan sido dañados como consecuencia directa de los movimientos sísmicos, siempre que hubieran tenido que ser objeto de realojamiento o se hayan producido daños que obliguen al cierre temporal de la actividad. La indicada reducción será proporcional al tiempo transcurrido desde el día en que se haya producido el cese de la actividad hasta su reinicio en condiciones de normalidad, ya sea en los mismos locales, ya sea en otros habilitados al efecto, sin perjuicio de considerar, cuando la gravedad de los daños producidos dé origen a ello, el supuesto de cese en el ejercicio de aquella, que surtirá efectos desde el día 31 de diciembre de 2010.
+Téngase en cuenta que se prorrogan para el ejercicio 2012 los beneficios fiscales establecidos por el Impuesto sobre Bienes Inmuebles y el Impuesto sobre Actividades Económicas, por el art. 11 del Real Decreto-ley 11/2012, de 30 de marzo. Ref. BOE-A-2012-4440#a11
+3. La exención y reducción de las cuotas en los tributos señalados en los apartados anteriores comprenderán la de los recargos legalmente autorizados sobre aquellos.
+4. Los contribuyentes que, teniendo derecho a los beneficios establecidos en los apartados anteriores de este artículo, hubieran satisfecho los recibos correspondientes a dicho ejercicio fiscal, podrán pedir la devolución de las cantidades ingresadas.
+5. La disminución de ingresos que lo dispuesto en este artículo produzca en el Ayuntamiento de Lorca será compensada con cargo a los Presupuestos Generales del Estado, de conformidad con lo establecido en el artículo 9 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.
+6. Estarán exentas de las tasas de la Jefatura Central de Tráfico establecidas por la Ley 16/1979, de 2 de octubre, la tramitación de las bajas de vehículos solicitadas como consecuencia de los daños producidos por los movimientos sísmicos, y la expedición de duplicados de permisos de circulación o de conducción destruidos o extraviados por dichas causas.
+7. De acuerdo con lo previsto en el citado texto refundido de la Ley Reguladora de las Haciendas Locales, el Ayuntamiento de Lorca podrá acordar, en el ámbito de sus competencias, mediante ordenanza fiscal, la exención de la tasa por expedición de licencia de obras para reparación de viviendas siniestradas situadas en esa localidad.
+8. Estarán exentas del Impuesto sobre la Renta de las Personas Físicas las ayudas excepcionales por daños personales a que se refiere el artículo 2.
+Se prorrogan para el ejercicio 2012 los beneficios fiscales establecidos por el Impuesto sobre Bienes Inmuebles y el Impuesto sobre Actividades Económicas, por el art. 11 del Real Decreto-ley 11/2012, de 30 de marzo. Ref. BOE-A-2012-4440#a11
+ Redactado conforme a la corrección de errores publicada en BOE núm. 118, de 18 de mayo de 2011. Ref. BOE-A-2011-8626
+
+### Artículo 13
+
+Artículo 13. Reducciones fiscales especiales para las actividades agrarias.
+Para las explotaciones y actividades agrarias localizadas en el ámbito de aplicación a que se refiere el artículo 1 de este Real Decreto-ley, y conforme a las previsiones contenidas en el apartado 4.1.º del artículo 37 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, y el apartado 3 del artículo 38 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, el Ministerio de Economía y Hacienda, a la vista de los informes del Ministerio de Medio Ambiente, y Medio Rural y Marino, podrá autorizar, con carácter excepcional, la reducción de los índices de rendimiento neto a los que se refiere Orden EHA/3063/2010, de 25 de noviembre, por la que se desarrollan para el año 2011 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido.
+Redactado conforme a las correcciones de errores publicadas en BOE núm. 118, de 18 de mayo de 2011. Ref. BOE-A-2011-8626 y núm. 119, de 19 de mayo de 2011. Ref. BOE-A-2011-8685
+
+### Artículo 14
+
+Artículo 14. Medidas laborales y de Seguridad Social.
+1. Los expedientes de regulación de empleo que tengan su causa directa en los daños producidos por los acontecimientos catastróficos señalados, así como en las pérdidas de actividad directamente derivadas de los mismos que queden debidamente acreditados, tendrán la consideración de provenientes de una situación de fuerza mayor, con las consecuencias que se derivan de los artículos 47 y 51 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo. En los casos en que se produzca extinción del contrato, las indemnizaciones de los trabajadores correrán a cargo del Fondo de Garantía Salarial, con los límites legalmente establecidos.
+En los expedientes en que se resuelva favorablemente la suspensión de contratos o la reducción temporal de la jornada de trabajo con base en circunstancias excepcionales, el Servicio Público de Empleo estatal podrá autorizar que el tiempo en que se perciban las prestaciones por desempleo, reguladas en el título III del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, que traigan su causa inmediata de las catástrofes, no se compute a los efectos de consumir los períodos máximos de percepción establecidos. Igualmente, podrá autorizar que reciban prestaciones por desempleo aquellos trabajadores incluidos en dichos expedientes que carezcan de los períodos de cotización necesarios para tener derecho a ellas.
+2. Para llevar a cabo las obras de reparación de los daños causados, las Administraciones públicas y las entidades sin ánimo de lucro podrán solicitar del servicio público de empleo competente la adscripción de trabajadores perceptores de las prestaciones por desempleo para trabajos de colaboración social, de acuerdo con lo dispuesto en el artículo 213.3 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+3. La Tesorería General de la Seguridad Social autorizará a aquellas empresas que tengan trabajadores en alta, así como a los trabajadores encuadrados en el Régimen Especial de Trabajadores Autónomos que hayan resultado afectados por el movimiento sísmico y así lo acrediten, la ampliación del plazo reglamentario del ingreso de las cuotas de la Seguridad Social.
+Las cuotas cuyo plazo de ingreso podrá ser ampliado serán correspondientes a los tres meses siguientes a la fecha del presente Real Decreto-ley iniciándose el cómputo en la liquidación de abril de 2011 para las empresas, y en la liquidación del mes de mayo de 2011 para los trabajadores autónomos.
+La autorización para diferir el plazo de ingreso de las cuotas será como máximo de doce meses, a contar desde la fecha en que las mismas debieron ser ingresadas.
+La presentación de las solicitudes deberá efectuarse en la Dirección Provincial de la Tesorería General de la Seguridad Social de Murcia, o en las Administraciones de la misma.
+Las cuotas cuyo plazo de ingreso haya sido ampliado no conllevarán recargos ni intereses.
+El descuento de las aportaciones de los trabajadores y su ingreso deberá efectuarse en el plazo reglamentario.
+La competencia para resolver y autorizar la ampliación del plazo recaerá en el Director General de la Tesorería General de la Seguridad Social.
+Igualmente y para los periodos a los que se refiere el apartado segundo la Tesorería de la Seguridad Social podrá conceder aplazamientos de las cuotas de la Seguridad Social para los empresarios y trabajadores autónomos afectados. En relación con tales aplazamientos y habida cuenta de las circunstancias acaecidas, se podrán conceder tres aplazamientos consecutivos por cada una de las cuotas o uno sólo, comprensivo de tales periodos. Igualmente se podrán contemplar periodos de amortización de hasta doce meses.
+En los supuestos de imposibilidad de cumplimiento de los plazos administrativos previstos en las normativa que regula las obligaciones en materia de inscripción de empresas de afiliación, alta y baja de trabajadores, y recaudación de cuotas, la Tesorería General de la Seguridad Social podrá autorizar la ampliación de los plazos establecidos cuando se justifique dicha necesidad por las empresas y los trabajadores autónomos.
+Redactado conforme a la corrección de errores publicada en BOE núm. 118, de 18 de mayo de 2011. Ref. BOE-A-2011-8626
+
+### Artículo 15
+
+Artículo 15. Régimen de contratación.
+1. A los efectos prevenidos en el artículo 97 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, podrán tener la consideración de obras, servicios o suministros de emergencia, previo el correspondiente acuerdo del órgano de contratación previsto en el apartado 1, letra a, del citado artículo, los contratos de reparación o mantenimiento de infraestructuras, equipamientos o servicios, así como las obras de reposición de bienes perjudicados por la catástrofe, cualquiera que sea su cuantía.
+2. Se declara urgente la ocupación de los bienes afectados por las expropiaciones derivadas de la realización de las obras a que se refiere este artículo, a los efectos establecidos en el artículo 52 de la Ley de Expropiación Forzosa, de 16 de diciembre de 1954.
+3. Para la tramitación de expedientes de contratación de obras no incluidas en el artículo 110.2 de la Ley 30/2007, de 30 de octubre, se dispensará del requisito previo de disponibilidad de los terrenos, sin perjuicio de que su ocupación efectiva deberá ir precedida de la formalización del acta de ocupación.
+
+### Artículo 16
+
+Artículo 16. Líneas preferenciales de crédito.
+1. Se instruye al Instituto de Crédito Oficial (ICO), en su condición de agencia financiera del Estado, para instrumentar una línea de préstamos por importe de hasta 25 millones de euros, que podrá ser ampliada por el Ministerio de Economía y Hacienda en función de la evaluación de los daños y de la demanda consiguiente, utilizando la mediación de las entidades financieras con implantación en la Comunidad Autónoma de la Región de Murcia, con las que se suscribirán los oportunos convenios de colaboración.
+2. Estas líneas de préstamo, que tendrán como finalidad financiar la reparación de los daños causados a locales comerciales, así como la reposición de instalaciones, tanto las existentes, como para cubrir los costes de las instalaciones equivalentes, siempre que se ubiquen en el municipio, y equipos industriales y mercantiles, agrícolas, forestales, ganaderos y de regadío, automóviles, motocicletas y ciclomotores de uso particular, vehículos comerciales, maquinaria agrícola y locales de trabajo de profesionales, que se hayan visto dañados como consecuencia de los movimientos sísmicos, se materializarán en operaciones de préstamo concedidas por dichas entidades financieras, cuyas características serán:
+a) Importe máximo: El del daño evaluado por la Delegación del Gobierno en la Comunidad Autónoma de la Región de Murcia o, en su caso, por el Consorcio de Compensación de Seguros, descontado, en su caso, el importe del crédito que hayan podido suscribir con cargo a líneas de crédito preferenciales establecidas por iniciativa de la Comunidad Autónoma de la Región de Murcia.
+b) Plazo: Cinco o siete años, con uno de carencia, en su caso.
+c) Interés: El tipo de cesión por el ICO a las entidades financieras será del 1,50 % TAE, con un margen máximo de intermediación para éstas del 0,50 %. En consecuencia, el tipo final máximo para el prestatario será del 2 % TAE.
+d) Tramitación: Las solicitudes serán presentadas en la entidad financiera mediadora, la cual decidirá sobre la concesión del préstamo, y será a su cargo el riesgo de la operación.
+e) Vigencia de la línea: El plazo para la disposición de fondos terminará el 31 de diciembre de 2012.
+3. La instrumentación de la línea de préstamos a que se refiere este artículo se llevará a cabo por el ICO, en el ejercicio de las funciones a que se refiere la disposición adicional sexta.dos.2, párrafo a), del Real Decreto-ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera, y, en su virtud, el quebranto que para el ICO suponga el diferencial entre el coste de mercado de la obtención de los recursos y el tipo antes citado del 1,50 % será cubierto con cargo a los Presupuestos Generales del Estado.
+Se modifica por la disposición final 1.8 del Real Decreto-ley 17/2011, de 31 de octubre. Ref. BOE-A-2011-17170#df
+
+### Artículo 17
+
+Artículo 17. Comisión interministerial.
+1. Se crea una comisión interministerial para la aplicación de las medidas establecidas en este Real Decreto-ley, coordinada por la Dirección General de Protección Civil y Emergencias, e integrada por representantes de la Presidencia del Gobierno y de los Ministerios del Interior, de Economía y Hacienda, de Política Territorial y Administración Pública, de Defensa y de Fomento, de Trabajo e Inmigración, de Medio Ambiente, y Medio Rural y Marino, de la Presidencia y de Sanidad, Política Social e Igualdad, así como por el Delegado del Gobierno en la Comunidad Autónoma de la Región de Murcia y por un representante del Consorcio de Compensación de Seguros.
+2. La determinación de daños y la evaluación general de las necesidades atendidas con las medidas previstas en este Real Decreto-ley se llevarán a cabo por la comisión a que se refiere el apartado anterior, en coordinación con las autoridades de la Comunidad Autónoma de la Región de Murcia y la Delegación del Gobierno en dicha comunidad autónoma.
+
+### Artículo 18
+
+Artículo 18. Convenios de colaboración con otras Administraciones Públicas.
+1. La Administración General del Estado, la Comunidad Autónoma de la Región de Murcia y, en su caso, el Ayuntamiento de Lorca podrán celebrar los convenios de colaboración que resulten necesarios para la aplicación de las medidas previstas en este Real Decreto-ley.
+2. En especial, se podrán celebrar convenios destinados específicamente a la reparación de bienes culturales dañados como consecuencia de los hechos descritos en el artículo 1 de este Real Decreto-ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Facultades de control.
+Las administraciones intervinientes en la financiación de las ayudas previstas en este Real Decreto-ley se reservan la facultad de controlar el cumplimiento de su objeto, condiciones y finalidad, de conformidad con lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y disposiciones concordantes.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Competencias de la Comunidad Autónoma de la Región de Murcia.
+Lo establecido en este Real Decreto-ley se entiende sin perjuicio de las competencias que corresponden a la Comunidad Autónoma de la Región de Murcia al amparo de su Estatuto de Autonomía.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Abono anticipado de pagas extraordinarias.
+Con carácter excepcional, se anticipa al día 1 de junio de 2011 el abono de la paga extraordinaria, correspondiente al período diciembre de 2010 a mayo de 2011, a los pensionistas del Sistema de la Seguridad Social, en sus modalidades contributiva y no contributiva, residentes en la localidad en el ámbito de aplicación del presente Real Decreto-ley.
+
+### Disposición final primera
+
+Disposición final primera. Facultades de desarrollo.
+El Gobierno y los titulares de los departamentos ministeriales, en el ámbito de sus competencias, dictarán las disposiciones necesarias para la ejecución de lo establecido en este Real Decreto-ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Dado en Madrid, el 13 de mayo de 2011.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

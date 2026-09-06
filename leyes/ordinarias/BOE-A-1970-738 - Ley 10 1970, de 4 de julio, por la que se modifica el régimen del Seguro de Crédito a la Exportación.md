@@ -1,0 +1,143 @@
+# Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación.
+
+- Identificador BOE: `BOE-A-1970-738`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1970-738
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada a partir del 23 de julio de 2014, excepto el régimen presupuestario, económico-financiero y contable de la cobertura de los riesgos de la internacionalización por cuenta del Estado (art. 4), que permanecerá vigente hasta que se constituya el Fondo de Reserva de los Riesgos de la Internacionalización, según establecen la disposición derogatoria y la disposición final quinta de la Ley 8/2014, de 22 de abril. Ref. BOE-A-2014-4328#dd.
+
+## Preámbulo
+
+La regulación vigente del Seguro de Crédito a la Exportación se contiene, principalmente, en el Decreto dos mil ochocientos ochenta y uno/mil novecientos sesenta y seis, de diez de noviembre –dictado en virtud de la autorización conferida por el Decreto-ley ocho/mil novecientos sesenta y seis, de tres de octubre– por el que se aprobó el texto refundido de las disposiciones entonces existentes en relación con este importante instrumento de ayuda a la exportación. Desde aquella fecha hasta el presente, el excepcional crecimiento de los capitales en riesgo y la aparición de nuevas modalidades operativas en el comercio internacional, han demostrado que, en general, la aludida normativa se adapta a las circunstancias siempre cambiantes del tráfico exterior, pero requiere la apertura y cauces que permitan la contratación directa de garantías suplementarias y el pago de indemnizaciones en el riesgo comercial, no sólo ante la insolvencia del comprador, sino en los casos de retraso prolongado en el pago de los créditos. A ello se refiere el artículo quinto de la presente Ley.
+Por otra parte, el propio desenvolvimiento del seguro en los últimos años pone de manifiesto que la dualidad de aseguradores que lo practica en España y que obliga a escindir el estudio de los riesgos en dos campos, comercial y político, es una institución superada, porque al actuar con independencia uno y otro asegurador escapan a su conocimiento el volumen global de los compromisos asumidos por operaciones sobre un país determinado, su clasificación por sectores y actividades, la siniestralidad real y el grado de la dificultad en las situaciones irregulares que puedan atravesar tanto el exportador español como el país de destino.
+Con objeto de evitar estos inconvenientes, se dispone en la presente Ley que la gestión de este seguro quede centralizada en un solo ente: Una sociedad anónima, sometida a las normas de control de los seguros privados, cuyo capital será suscrito mayoritariamente por el Estado y el resto, en su caso, por entidades especializadas en las actividades de crédito y de seguro. La presencia del Estado en esta clase de sociedades puede decirse que es condición universal y que responde a la magnitud de las coberturas que se otorgan, mientras que la de las otras entidades se inspiran en la confianza de que su permanente colaboración en la gestión de este especialísimo seguro, que presenta particulares afinidades con los campos profesionales de aquéllas, ayudará a conseguir el acierto en las decisiones. Además, esta unificación en la gestión y la amplia colaboración aludida han de reportar solvencia en las informaciones comerciales –tan importantes para la concesión del crédito–, vigilancia eficaz de las operaciones y gran simplificación en la contratación.
+Los resultados de la actividad aseguradora de los riesgos comerciales quedan reservados a la sociedad anónima de nueva creación, que dispone del mecanismo estabilizador del reaseguro, mientras que en la cobertura de los riesgos políticos y extraordinarios sólo incumbe a la sociedad la contratación por cuenta del Estado. Esta reserva de responsabilidad se encuentra esencialmente en la línea de las instituciones vigentes en el derecho comparado y tiene su fundamento en la condición política y excepcional de las garantías de que se trata.
+La Ley introduce una importante innovación en el sistema hasta ahora vigente, creando un comité para asistencia y asesoramiento de la Administración, al que se encomienda especialmente el estudio de los límites máximos de las coberturas que puede asegurar la nueva Compañía, la ratificación de contratos de seguros y la aprobación de los tratados de reaseguro así como atras importantes misiones de vigilancia y control.
+Por último, la nueva regulación no cierra el paso para que, en el momento oportuno, se pueda llevar a cabo, en los términos previstos en la legislación vigente, la transferencia de las carteras de este seguro en poder de las dos entidades que hasta ahora han venido contratándolo.
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
+
+### Artículo primero
+
+Artículo primero.
+Uno. Los riesgos derivados del comercio exterior e internacional, en las diferentes modalidades del Seguro de Crédito a la Exportación, podrán ser cubiertos por cualquier entidad de seguros autorizada para operar en el ramo del seguro de crédito o en el de caución.
+Dos. El Estado podrá asumir la cobertura de riesgos de los mencionados en el número precedente. A estos efectos, el Ministro de Economía y Hacienda determinará el tipo de riesgos que podrá cubrir el Estado.
+Tres. La "Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima", gestionará en nombre propio y por cuenta del Estado, con carácter exclusivo, la cobertura de los riesgos que sean asumidos por éste.
+Cuatro. En los contratos de seguro de crédito a la exportación que gestione por cuenta del Estado la "Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima", devendrá ésta, al abonar la indemnización pactada en el contrato de seguro, propietaria por cuenta del Estado y en el mismo porcentaje de cobertura convenido, del crédito correspondiente al vencimiento o vencimientos indemnizados, y representante, a efectos de su gestión, del tomador del seguro en la cuota no amparada por el seguro.
+Dicha Compañía podrá suscribir convenios sobre moratorias y remisiones parciales de deuda, por la totalidad del crédito afectado por dichos convenios o remisiones, aun cuando incluyan créditos no vencidos. Asimismo, podrá enajenar los créditos derivados de tal cobertura para facilitar operaciones de conversión de deuda en inversión directa u otras facilidades. En todos los casos, será necesaria la ratificación del Ministro de Economía y Hacienda.
+Los convenios que en uso de la autorización que precede suscriba la «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima», serán plenamente oponibles a sus asegurados, y vinculantes para estos últimos por la totalidad de los créditos incluidos en tales convenios sin perjuicio de la titularidad dominical de los asegurados sobre el porcentaje del crédito no asegurado,oni del derecho de estos últimos a percibir las indemnizaciones que procedan en términos del contrato o contratos de seguro suscrito.
+Cinco. La constitución y el funcionamiento de la Sociedad que se crea se ajustarán, en lo no previsto por esta Ley y por las disposiciones que se dicten para su ejecución y desarrollo, a lo establecido en la vigente legislación de seguros privados y en las normas de Derecho privado.
+Seis. No será aplicable a la «Compañía Española de Seguros de Crédito a la Exportación, S. A.», la Ley de Entidades Estatales Autónomas de veintiséis de diciembre de mil novecientos cincuenta y ocho.
+Se modifican los apartados 1 a 4 y se deroga el 7 por la disposición adicional 8.1.1 y disposición derogatoria 1.1.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347.
+ Se añade el apartado 7 por la disposición adicional 6.1.1de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Artículo segundo
+
+Artículo segundo.
+La sociedad podrá, en nombre y por cuenta propia, operar en cualquier ramo del seguro directo distinto al de vida ajustándose a los requisitos exigidos en el texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre.
+Las operaciones de enajenación del capital de la sociedad titularidad de la Administración General del Estado se ejecutarán con arreglo a lo previsto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y demás normas que pudieran resultar de aplicación.
+Corresponde a la Administración General del Estado garantizar el control público de la actividad de la Cuenta del Estado cuya gestión tiene encomendada la compañía, para lo que el Gobierno mediante Real Decreto adoptado a propuesta del Ministerio de Economía y Competitividad establecerá los mecanismos de control de dicha actividad.
+Se modifica por el art. 29.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se añade el párrafo tercero por la disposición adicional 8.1.2 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347.
+
+### Artículo tercero
+
+Artículo tercero.
+La «Compañía Española de Seguros de Crédito a la Exportación, S. A.», será administrada por un Consejo, compuesto por un Presidente y el número de Vocales que estatutariamente se determine, que no será inferior a seis ni superior a catorce.
+El Presidente del Consejo de Administración será nombrado por el Consejo de Ministros, a propuesta del Ministro de Hacienda.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Los recursos necesarios para el cumplimiento de su objeto social por la «Compañía Española de Seguros de Crédito a la Exportación, S.A.», estarán constituidos por las primas recaudadas, recobros de siniestros, comisiones y rentas patrimoniales.
+Cuando los expresados recursos resultaren insuficientes para que la sociedad haga frente a las obligaciones asumidas, el Gobierno, a propuesta del Ministerio de Hacienda, podrá autorizar la apertura de cuentas de crédito en el Banco de España.
+Se consignarán en los Presupuestos Generales del Estado los créditos necesarios para hacer frente a las desviaciones que la cobertura de los riesgos políticos y extraordinarios pudieran producir, cuando las primas recaudadas y las reservas que, en su caso, se constituyan resultaren insuficientes.
+
+### Artículo quinto
+
+Artículo quinto.
+La «Compañía Española de Seguros de Crédito a la Exportación, S. A.», podrá establecer en sus pólizas garantías especiales y complementarias particularmente en cuanto a la cobertura de la falta de pago prolongada que afecte a los créditos relativos a operaciones de exportación otorgados por entidades bancarias o instituciones financieras.
+
+### Artículo sexto
+
+Artículo sexto.
+(Derogado)
+Se deroga por la disposición derogatoria 1.1.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347.
+
+### Artículo séptimo
+
+Artículo séptimo.
+La "Compañía Española de Seguros de Crédito a la Exportación, S. A.", podrá suscribir contratos de aceptación o cesión en reaseguro de los riesgos a los que se refiere la presente Ley, tanto comerciales como políticos y extraordinarios, derivados del comercio internacional, en los términos que autorice el Ministerio de Economía y Hacienda.
+Se modifica por la disposición adicional 6.1.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Artículo octavo
+
+Artículo octavo.
+El límite máximo de cobertura para nueva contratación excluida la modalidad Póliza Abierta de Gestión de Exportaciones, que podrá asegurar y distribuir la ''Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima'', por cuenta del Estado durante cada ejercicio se fijará en la correspondiente Ley de Presupuestos Generales del Estado. La Comisión Delegada del Gobierno para Asuntos Económicos, a propuesta del Ministro de Industria, Comercio y Turismo, acordará y comunicará a la ''Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima'', los criterios de cobertura aplicables a aquellos casos que, por así requerirlo el desarrollo de la política comercial española, justifiquen un tratamiento especial en función de los riesgos implícitos o de cualquier otro factor que se estime relevante.
+Se modifica por la disposición adicional 6.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903.
+ Se modifica por la disposición adicional 6.1.3 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Artículo noveno
+
+Artículo noveno.
+(Derogado)
+Se deroga por la disposición adicional 6.1.4 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Otorgamiento de garantías por cuenta del Estado.
+1. CESCE podrá garantizar, por cuenta del Estado, hasta el límite máximo que establezca la ley de presupuestos generales del Estado de cada año, las obligaciones económicas derivadas de garantías prestadas por terceros, préstamos, créditos a la exportación o emisiones de instrumentos financieros, destinados a facilitar la financiación de operaciones de comercio exterior e internacionalización de la empresa española. Además podrá garantizar, con las mismas limitaciones, las obligaciones económicas derivadas de instrumentos financieros, incluidos los resultantes de operaciones de titulización, cuya emisión se encuentre respaldada por créditos o préstamos a la exportación de bienes y servicios españoles asegurados por CESCE.
+A los efectos de lo previsto en el párrafo anterior, CESCE podrá otorgar fianzas, garantías a primera demanda y cualquier otro compromiso de pago o resarcimiento que resulte exigible en caso de incumplimiento de las obligaciones objeto de garantía y que apruebe la Comisión Ejecutiva de Riesgos Políticos por cuenta del Estado del Consejo de Administración de CESCE.
+2. Todas y cada una de las operaciones que pretendan ser garantizadas conforme a lo establecido en el apartado anterior habrán de ser previamente aprobadas por la Comisión Ejecutiva de Riesgos Políticos por cuenta del Estado de CESCE.
+3. El Estado responderá de las obligaciones asumidas por CESCE por cuenta de aquél, para lo cual las leyes de presupuestos generales del Estado incluirán los créditos necesarios para hacer frente a la cobertura de los riesgos y gastos que se contraigan por cuenta del Estado, siempre y cuando los derechos cobrados y las reservas que, en su caso, se constituyan resultaren insuficientes.
+Se modifica por el art. 29.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Redactado el apartado 2 conforme a la correción de errores publicada en BOE núm. 172, de 19 de julio. Ref. BOE-A-2012-9654.
+ Se añade por el art. 9 del Real Decreto-Ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879#a9.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Garantías en operaciones de financiación directa.
+1. En las operaciones de financiación directa en las que el propio Estado español asume la totalidad del riesgo de contrapartida será necesario que los deudores aporten garantía soberana. Sin embargo, de conformidad con el informe preceptivo de CESCE sobre la calidad de las garantías, en operaciones de préstamo podrán admitirse otras no soberanas que supongan una capacidad de pago suficiente de dichos deudores. Dichas garantías se analizarán caso por caso por CESCE y en ningún caso supondrán una rebaja sobre la calidad del riesgo soberano.
+2. El Gobierno, mediante Real Decreto, a propuesta del Ministro de Industria, Turismo y Comercio y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para la instrumentación de los esquemas de garantías no soberanas señalados.
+Se añade por el art. 70 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición final primera
+
+Disposición final primera.
+A partir de la entrada en vigor de la presente Ley quedarán extinguidas las exclusivas que para la cobertura de los riesgos previstos en la misma tienen actualmente concedidas la «Compañía Española de Seguros de Crédito y Caución, Sociedad Anónima», y el Consorcio de Compensación de Seguros.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Compete al Gobierno dictar, a propuesta del Ministro de Hacienda, y previo informe del de Comercio, las disposiciones que requieran la ejecución y el desarrollo de la presente Ley y se le faculta para refundir en un solo texto las normas reguladoras del seguro de crédito a la exportación.
+
+### Disposición final tercera
+
+Disposición final tercera.
+El Ministerio de Hacienda adoptará las medidas adecuadas para la constitución de la «Compañía Española de Seguros de Crédito a la Exportación, S. A.», y las que se requieran para la gestión de los riesgos políticos y extraordinarios.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor el mismo de su publicación en el «Boletín Oficial del Estado», quedando derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la misma.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La «Compañía Española de Seguros de Crédito a la Exportación, S. A.», podrá, previo acuerdo favorable del Comité del Seguro de Crédito a la Exportación, llevar a cabo, en los términos previstos en la legislación vigente, la transferencia de las carteras de este seguro en poder de las dos entidades que hasta ahora han venido contratándolo.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta la constitución de la «Compañía Española de Seguros de Crédito a la Exportación, S. A.», el Consorcio de Compensación de Seguros seguirá ejerciendo las funciones que le encomendó el Decreto-ley uno/mil novecientos setenta de veintidós de enero, y el Decreto dos mil ochocientos ochenta y uno/mil novecientos sesenta y seis, de diez de noviembre.
+
+### Disposición transitora tercera
+
+Disposición transitoria tercera.
+Hasta la entrada en vigor de las normas reglamentarias a que se refiere la disposición final segunda, seguirá siendo de aplicación el Decreto dos mil ochocientos ochenta y uno/mil novecientos sesenta y seis, de diez de noviembre, en cuanto no se oponga a lo establecido en la presente Ley.
+
+Dada en el Palacio de El Pardo a cuatro de julio de mil novecientos setenta.
+FRANCISCO FRANCO
+El Presidente de las Cortes,
+ALEJANDRO RODRÍGUEZ DE VALCÁRCEL Y NEBREDA

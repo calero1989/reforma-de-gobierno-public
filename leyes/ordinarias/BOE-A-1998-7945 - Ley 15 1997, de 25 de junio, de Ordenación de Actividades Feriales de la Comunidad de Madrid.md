@@ -1,0 +1,365 @@
+# Ley 15/1997, de 25 de junio, de Ordenación de Actividades Feriales de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1998-7945`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-7945
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber, que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+El Estatuto de Autonomía de la Comunidad de Madrid establece en su artículo 26.10 que corresponde a ésta la plenitud de la función legislativa en materia de ferias interiores, incluidas las exposiciones.
+Efectuadas las transferencias en esta materia a la Comunidad en virtud del Real Decreto 1455/1984, de 4 de julio, se dictó el Decreto 115/1986, de 23 de diciembre, sobre ordenación y promoción de ferias y exposiciones en la Comunidad de Madrid, que establecía el marco legal preciso para cumplir las funciones y competencias descritas.
+La evolución del contexto económico nacional e internacional propiciada por la integración de España en la Unión Europea, unida a la creciente importancia y nivel de profesionalización experimentado por la organización de ferias y exposiciones en nuestra Comunidad, hacen necesario elaborar una nueva regulación que facilite a la Administración autonómica los medios precisos para conseguir una mayor profesionalización de estos certámenes y asegurar un desarrollo armónico y coordinado de los mismos en nuestra Comunidad y en relación con otros ámbitos territoriales.
+La Ley de Ordenación de Actividades Feriales de la Comunidad de Madrid contiene los principios básicos de ordenación, regulación y promoción de la actividad ferial que se desarrollen en el ámbito de la Comunidad de Madrid, así como de funcionamiento y organización de las entidades organizadoras de éstas, encaminados a garantizar, de un lado, que las actividades feriales alcancen niveles óptimos en relación a la calidad de la exhibición y de participación de los sectores económicos que integran su oferta, y de otro, que los servicios feriales respondan a las demandas de expositores y visitantes y garanticen en todo caso la seguridad de las personas y de los bienes.
+Asimismo, y dentro del respeto a los principios constitucionales de igualdad y de libertad de empresa dentro del marco de una economía de mercado, la nueva regulación permite todo tipo de iniciativas organizadoras de actividades feriales que, en todo caso, deben garantizar que éstas puedan cumplir de forma eficaz con sus funciones básicas de mejora del sistema productivo, favoreciendo el desarrollo de los intercambios comerciales y la transparencia del mercado. De otra parte, la ordenación y promoción de los sectores económicos que competen a la Administración regional madrileña requieren de un conocimiento detallado y actualizado de las actividades feriales que éstos promuevan, en orden a su crecimiento, a la comercialización de sus técnicas y productos, y asimismo de cara a potenciar la difusión y comercialización de los bienes y servicios madrileños.
+Finalmente, la Ley va a dotar a la Administración regional madrileña de los medios y potestades necesarios para garantizar el cumplimiento de los objetivos que persigue y una eficaz aplicación y observancia de su contenido por todos los agentes interesados que resulten obligados en la misma.
+El capítulo primero de la Ley determina los conceptos de actividades feriales objeto de regulación en la misma, haciendo referencia como característica esencial a la finalidad comercial de estos certámenes.
+Con el fin de unificar la terminología y caracterización de estas actividades a los efectos de autorización, registro e información general, la Ley contempla las denominaciones que corresponde otorgar a la Administración autonómica madrileña.
+En relación a la denominación de las actividades se efectúa una triple distinción: En primer lugar, entre ferias comerciales y exposiciones comerciales, en función de la periodicidad de su celebración. Asimismo, se recoge el concepto de ferias-mercados, cuya característica diferencial con respecto al resto es que en estos certámenes está permitida la venta directa al público, si bien, este hecho constituye en estas actividades feriales una característica eventual y no una finalidad exclusiva y esencial propia de un mercado, actividad excluida del ámbito de aplicación de esta norma.
+Por último, este capítulo contiene la norma general que ha de regir para las ferias y exposiciones comerciales, relativa a la prohibición general de venta directa, salvo autorización de la Comunidad de Madrid, en los supuestos que serán objeto de desarrollo reglamentario, cuando así se justifique por la entidad organizadora en función del tipo de oferta y destinatario de la misma. También se regulan las condiciones que han de reunir los recintos o instalaciones donde se realicen, de forma que se garantice la seguridad y calidad de estas manifestaciones, estableciendo que se celebren en recintos destinados a dicha finalidad o en edificios o instalaciones públicos que cumplan con los requisitos que se desarrollarán reglamentariamente.
+El capítulo II regula el concepto y requisitos específicos de las ferias y exposiciones que tienen la calificación de oficiales de la Comunidad de Madrid, con objeto de diferenciar y cualificar estos certámenes con respecto al resto, al exigirles mayores niveles de representatividad a nivel sectorial de las ofertas que se exhiban en los mismos y de responsabilidad y control a sus organizadores. Se trata de garantizar que estas ferias alcancen un nivel óptimo cuantitativo y cualitativo de participación que las consolide como verdaderamente representativas de los sectores que correspondan, a nivel regional, nacional o internacional, garantizando, en todo caso, unas condiciones idóneas de acceso y participación de los expositores.
+En el capítulo III se regula quiénes son los sujetos que pueden organizar actividades feriales, así como sus obligaciones, estableciendo una diferenciación entre Instituciones Feriales de la Comunidad de Madrid y el resto de entidades organizadoras, en la medida que las primeras se constituyen con el exclusivo objeto de organizar y gestionar ferias y exposiciones en el ámbito de la Comunidad de Madrid y no tienen ánimo de lucro.
+El régimen de autorizaciones de actividades feriales se regula en el capítulo IV, en lo que concierne a las Administraciones competentes y los criterios para su otorgamiento. Potestativamente, la Comunidad de Madrid podrá solicitar informe a la entidad o entidades locales que se viesen afectadas, así como a las asociaciones representativas sectoriales, que tendrá carácter no vinculante.
+Se excluyen de la autorización por la Administración regional madrileña las ferias-mercados de ámbito exclusivamente local, cuya autorización competerá a los Ayuntamientos de los municipios donde se celebren. Al objeto de su Registro, los Ayuntamientos deberán comunicar a la Comunidad de Madrid las autorizaciones concedidas para proceder a su inscripción en el Registro Oficial de Actividades Feriales de la Comunidad de Madrid.
+Por último, se otorga un período de vigencia a las autorizaciones de las ferias comerciales y ferias-mercados de tres años, con un máximo de cuatro ediciones, en aras a favorecer la permanencia, continuidad y profesionalización de su organización sin perjuicio de la facultad de revocación si se dejan de cumplir los preceptos legales, o no se cumple con la finalidad para la que fueron autorizadas. Para las exposiciones comerciales la vigencia de la autorización será para una sola edición.
+El capítulo V regula el Registro Oficial de Actividades Feriales, en el que se inscribirán de oficio las actividades feriales autorizadas, haciendo constar los datos relativos a las mismas y condiciones específicas de autorización, así como los datos de identificación de las entidades organizadoras, sus estatutos y sanciones.
+El registro será público en los términos previstos en la Ley 30/1992, de 26 de noviembre, y constituirá una herramienta básica de la Administración autonómica madrileña para disponer de información actualizada de estas actividades, así como de los agentes que operan en el sector de su organización, que facilite la puesta en marcha de las políticas de ordenación y promoción ferial de la Comunidad de Madrid.
+El capítulo VI contempla las competencias de la Administración regional madrileña en orden a la promoción de las actividades feriales que se celebren en su ámbito territorial, así como la posibilidad de establecer un régimen de ayudas a los sectores económicos madrileños para promover su participación en actividades feriales que se celebren fuera de la Comunidad de Madrid.
+El capítulo VII regula el régimen de infracciones y sanciones con el fin de garantizar el cumplimiento de las disposiciones contenidas en la presente Ley, garantizándose los principios de legalidad y tipicidad. Asimismo, se procede a la calificación de las infracciones y sanciones, que guardarán la debida adecuación con la gravedad de los hechos constitutivos de las mismas, y se determinan las circunstancias de graduación. Corresponderá a la Administración de la Comunidad de Madrid el ejercicio de la potestad sancionadora, por lo que la Ley determina los órganos competentes de la misma para la imposición de las sanciones en función de su gravedad.
+La parte final de la Ley contiene seis disposiciones: Tres disposiciones adicionales, dos disposiciones transitorias y una disposición final.
+La disposición adicional primera establece el órgano de la Comunidad de Madrid al que quedan atribuidas las competencias administrativas establecidas en la Ley. La disposición adicional segunda autoriza al Consejo de Gobierno para que, previa consulta a la Federación de Municipios de Madrid, dicte las disposiciones reglamentarias necesarias para el desarrollo y ejecución de la presente Ley. La disposición adicional tercera autoriza al Consejo de Gobierno a actualizar las cuantías de las multas establecidas en la presente Ley para adecuarlas a las variaciones del coste de la vida, de acuerdo con los índices generales de precios publicados por el Instituto Nacional de Estadística.
+La primera de las disposiciones transitorias habilita el plazo para que las instituciones feriales ya constituidas, cuando proceda, adapten sus estatutos a lo dispuesto en la presente Ley. La disposición transitoria segunda establece el marco normativo y el período de vigencia aplicables a las actividades feriales autorizadas con anterioridad a la entrada en vigor de la Ley.
+Por último, en la disposición final se establece el plazo de entrada en vigor de la Ley, que será el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», conforme preceptúa el artículo 41 del Estatuto de Autonomía.
+
+## CAPÍTULO PRIMERO
+
+Objeto y clasificación de las actividades feriales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. El objeto de la presente Ley es la ordenación, regulación y promoción de las actividades feriales que se desarrollen en el ámbito de la Comunidad de Madrid y de las entidades organizadoras.
+2. Se consideran actividades feriales, a efectos de la presente Ley, las manifestaciones comerciales que tienen por objeto la exposición de bienes o la oferta de servicios para favorecer su conocimiento y difusión, promover contactos e intercambios comerciales, lograr mayor transparencia en el mercado y acercar la oferta de las distintas ramas de la actividad económica a la demanda, si reúnen las siguientes características:
+a) Tener una duración limitada en el tiempo.
+b) Reunir a una pluralidad de expositores.
+3. Se excluyen del ámbito de aplicación de la presente Ley:
+a) Las exposiciones universales que se rigen por la Convención de París de 22 de noviembre de 1928.
+b) Las exposiciones que persigan fines de interés cultural, artístico, científico, cívico o social.
+c) Las actividades promocionales de cualquier tipo organizadas por los establecimientos comerciales.
+d) Los mercados dirigidos al público en general cuya finalidad exclusiva o principal sea la venta directa con retirada de mercancía, aunque reciban la denominación tradicional de feria, que se regirán por la normativa específica de ordenación del comercio minorista.
+e) Los mercados populares o certámenes promovidos para la exposición o comercialización de animales vivos de cualquier naturaleza, así como los concursos de ganado, que se regirán, asimismo, por la normativa específica en materia de protección animal.
+
+### Artículo 2
+
+Artículo 2. Denominación y clasificación de actividades feriales.
+Las actividades feriales se denominarán:
+a) Ferias comerciales, aquellas actividades feriales dirigidas principalmente al público profesional que se celebren con una periodicidad establecida.
+b) Exposiciones comerciales o muestras, aquellas actividades feriales que no tienen una periodicidad establecida.
+c) Ferias-mercados, aquellas actividades feriales celebradas con carácter periódico dirigidas al público en general en las que se admite eventualmente la venta directa con retirada de mercancía.
+
+### Artículo 3
+
+Artículo 3.
+Corresponde a la Comunidad de Madrid otorgar la denominación correspondiente de acuerdo con el artículo anterior y conforme se determine reglamentariamente.
+
+### Artículo 4
+
+Artículo 4. Prohibición de la venta directa.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 5
+
+Artículo 5. Lugar de celebración.
+Las actividades feriales deberán celebrarse en recintos o instalaciones destinadas a dicha finalidad o en edificios o instalaciones públicos destinados también a otros usos, siempre que garanticen los servicios y cumplan con los requisitos que se establezcan por vía reglamentaria.
+
+## CAPÍTULO II
+
+Ferias y exposiciones oficiales de la Comunidad de Madrid
+
+### Artículo 6
+
+Artículo 6. Ferias y exposiciones oficiales.
+1. La Comunidad de Madrid otorgará, dentro del ámbito de sus competencias, la calificación de feria o exposición oficial de la Comunidad de Madrid a aquellas actividades feriales que reúnan como mínimo los siguientes requisitos:
+a) Celebrarse en recintos o instalaciones públicas de carácter permanente.
+b) Disponer de un reglamento interno de participación de los expositores.
+c) Superar el número de expositores y la superficie neta ocupada que reglamentariamente se determinen.
+2. Para otorgar la calificación de feria o exposición oficial, la Comunidad de Madrid tendrá en cuenta que no haya autorizada otra feria o exposición oficial de características similares dentro de su ámbito territorial, así como los resultados y balances de ediciones anteriores.
+
+### Artículo 7
+
+Artículo 7. Memoria y control económico.
+Los organizadores de ferias y exposiciones oficiales someterán su gestión en la organización de actividades feriales al control de la Comunidad de Madrid mediante la presentación anual de:
+a) Los presupuestos y sus correspondientes liquidaciones de las ferias que organicen.
+b) La memoria de las actividades feriales desarrolladas, que necesariamente deberá incluir los resultados en relación a la superficie neta ocupada, estadísticas de los expositores y visitantes con indicación de los sectores económicos participantes.
+
+### Artículo 8
+
+Artículo 8. Duración y periodicidad.
+1. La duración de las ferias y exposiciones oficiales será la que se establezca en la correspondiente autorización, sin que pueda exceder de quince días.
+2. La periodicidad de las ferias oficiales no podrá ser superior a dos ediciones anuales.
+3. La Comunidad de Madrid podrá autorizar, con carácter excepcional, otros plazos de duración y de periodicidad superiores a los establecidos en los apartados anteriores, en los supuestos que reglamentariamente se determinen en función de las características de la oferta y del sector.
+
+### Artículo 9
+
+Artículo 9. Comités organizadores.
+1. Las ferias y exposiciones oficiales constituirán, para la organización y seguimiento de la gestión, un comité organizador en el que estarán representadas la entidad organizadora, la Comunidad de Madrid y el Ayuntamiento del municipio donde vaya a celebrarse la actividad ferial.
+2. Igualmente, estarán representadas en dicho comité las entidades, empresas o agrupaciones empresariales y las asociaciones representativas a nivel sectorial y territorial de los sectores económicos que integran la oferta a exhibir en la feria, siempre que participen como expositores en la misma.
+
+### Artículo 10
+
+Artículo 10. Condiciones de participación.
+El reglamento interno de participación al que se refiere el artículo 6.1.b) regulará, como mínimo:
+a) Los requisitos que deben reunir los expositores que soliciten participar en la feria.
+b) El procedimiento y los criterios de admisión y, en su caso, de exclusión de los expositores.
+c) Los derechos y obligaciones de los expositores.
+d) El órgano y la regulación del procedimiento para dirimir las cuestiones que se susciten entre los participantes o entre éstos y la entidad organizadora.
+e) Las infracciones a las disposiciones contenidas en dicho reglamento, las sanciones establecidas para tal fin, así como el órgano competente y el procedimiento para imponerlas.
+
+### Artículo 11
+
+Artículo 11. Calendario.
+La Consejería de Economía y Empleo de la Comunidad de Madrid publicará con carácter anual un calendario de las ferias y exposiciones oficiales de la Comunidad de Madrid, sin perjuicio de las atribuciones que en materia de ferias comerciales internacionales tiene reservadas la Administración del Estado.
+
+## CAPÍTULO III
+
+Entidades organizadoras
+
+### Artículo 12
+
+Artículo 12. Entidades organizadoras.
+Las actividades feriales podrán ser organizadas por:
+a) Instituciones feriales.
+b) Otras entidades organizadoras.
+
+### Artículo 13
+
+Artículo 13. Instituciones feriales de la Comunidad de Madrid.
+1. Son instituciones feriales de la Comunidad de Madrid aquellas entidades con personalidad jurídica propia, sin ánimo de lucro y legalmente constituidas, con el exclusivo objeto de organizar y gestionar en la Comunidad de Madrid ferias y exposiciones como medio de promoción comercial de las distintas ramas de la actividad económica.
+2. Las Instituciones Feriales de la Comunidad de Madrid se rigen por sus estatutos, que deberán regular todo lo referente a su constitución, composición, administración y disolución, así como las facultades de los órganos de gobierno, en los que deberán estar representadas las entidades públicas que, en su caso, las promuevan.
+3. La promoción de instituciones feriales de la Comunidad de Madrid queda reservada a las Administraciones Públicas y a otras entidades y asociaciones sin ánimo de lucro, cuyo objeto esté relacionado con la promoción de actividades feriales en cualquiera de sus manifestaciones.
+4. Las instituciones feriales de la Comunidad de Madrid deberán disponer de patrimonio propio cuyo rendimiento será destinado exclusiva e íntegramente al cumplimiento de sus fines y garantizar la disposición con carácter permanente de recintos o instalaciones adecuados a las actividades feriales que se promuevan por las mismas.
+5. La denominación de «Institución Ferial de la Comunidad de Madrid», únicamente podrá ser utilizada por las entidades reconocidas con arreglo a esta Ley y las normas que la desarrollen.
+
+### Artículo 14
+
+Artículo 14. Otras entidades organizadoras.
+1. Las entidades organizadoras a las que se refiere el artículo 12, apartado b), que podrán ser públicas o privadas, deberán contar con personalidad jurídica propia y estar válidamente constituidas de acuerdo con las normas que les sean de aplicación.
+2. Las entidades organizadoras a que se refiere el apartado anterior podrán integrar como miembros no promotores a entidades de carácter mercantil.
+
+### Artículo 15
+
+Artículo 15. Obligaciones de las entidades organizadoras.
+Serán obligaciones de todas las entidades organizadoras las siguientes:
+1. Presentar la comunicación previa en los términos previstos en la Ley y normas que la desarrollen.
+2. Constituir un comité organizador para cada actividad ferial, bajo la dependencia directa de la entidad organizadora responsable de la misma, que deberá estar constituido por entidades que sean representativas a nivel sectorial y territorial de los sectores económicos que constituyen la oferta a exhibir.
+3. Garantizar la asistencia al certamen como expositores de entidades que ejerzan legalmente su actividad y cuyo objeto se adecue a la calificación y clasificación de la actividad ferial.
+4. Celebrar la actividad ferial de acuerdo con las condiciones reflejadas en la comunicación previa y con lo preceptuado en esta Ley y normas que la desarrollen.
+5. Impedir la realización en el recinto ferial durante la celebración del certamen de actividades no autorizadas o que no guarden relación con el objeto de la actividad ferial.
+6. Remitir a la Comunidad de Madrid, tras la clausura de la actividad ferial, una memoria en la que se dé cuenta de las actividades desarrolladas, los resultados obtenidos, así como la valoración razonada que a la entidad organizadora le merezca, en la forma y plazos que reglamentariamente se determinen.
+7. Garantizar el mantenimiento del orden público dentro del recinto ferial y el cumplimiento en el mismo de la normativa, aplicable para la seguridad de las personas, productos, instalaciones y medio ambiente, sin perjuicio de las competencias que la legislación otorga a las Fuerzas y Cuerpos de Seguridad.
+8. Suscribir un seguro de responsabilidad civil que cubra cualquier daño al personal y bienes durante la celebración del certamen y el montaje y desmontaje del mismo.
+9. Prestar la colaboración que le sea requerida por la Comunidad de Madrid o el Ayuntamiento en el ámbito de sus respectivas competencias, con objeto de garantizar el cumplimiento de esta Ley y normas que la desarrollen, así como las condiciones establecidas en la comunicación efectuada.
+10. Cumplir aquellos otros requisitos contenidos en la Ley y disposiciones de desarrollo de la misma.
+Se modifican los apartados 1, 4 y 9 por el art. 1.1 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#aprimero.
+
+## CAPÍTULO IV
+
+Sistema de comunicación previa
+Se modifica la denominación por el art. 1.2 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#aprimero.
+
+### Artículo 16
+
+Artículo 16. Comunicación previa en materia de actividades feriales.
+1. Las actividades feriales a las que se refiere esta Ley, excepto las Ferias-Mercados de ámbito exclusivamente local, serán objeto de una comunicación previa a la Comunidad de Madrid, con el fin de coordinarlas, para su difusión y promoción, y con el fin de garantizar un correcto desarrollo de las mismas.
+La misma se presentará con una antelación mínima de dos meses a la fecha en que pretenda realizarse, junto con la documentación completa correspondiente.
+2. Las comunicaciones, que se actualizarán con periodicidad anual, expresarán, en su caso, el número de ediciones a celebrar en cada anualidad, y contendrán como mínimo los datos de identificación de la entidad organizadora, así como los siguientes datos de la actividad ferial: nombre, fechas de celebración de la actividad, sector comercial, lugar de celebración y, en su caso, si se realiza venta directa.
+3. La realización de Ferias-Mercados de ámbito territorial de influencia exclusivamente local, se comunicará previamente al Ayuntamiento en cuyo término municipal pretenda celebrarse. Los Ayuntamientos deberán comunicar a la Comunidad de Madrid las comunicaciones recibidas para su incorporación al Registro Oficial de Actividades Feriales de la Comunidad de Madrid.
+Se modifica por el art. 1.3 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#aprimero.
+
+### Artículo 17
+
+Artículo 17. Garantía.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 18
+
+Artículo 18. Vigencia de las autorizaciones.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 19
+
+Artículo 19. Procedimiento.
+El procedimiento para la realización de las comunicaciones en materia de actividades feriales se establecerá reglamentariamente.
+Se modifica por el art. 1.4 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#aprimero.
+
+## CAPÍTULO V
+
+Registro Oficial de Actividades Feriales
+
+### Artículo 20
+
+Artículo 20. Registro Oficial de Actividades Feriales.
+1. En la Comunidad de Madrid existirá un Registro Oficial de Actividades Feriales en el que se inscribirán de oficio las actividades feriales comunicadas.
+2. En el Registro Oficial de Actividades Feriales se harán constar los datos de identificación de las actividades feriales comunicadas, reseñando las condiciones que se especifiquen en las respectivas comunicaciones previas, así como los datos de identificación y Estatutos de las entidades organizadoras. De la misma forma constarán en el Registro las posibles sanciones impuestas por las infracciones previstas en el Capítulo VII de la presente Ley.
+Se modifica por el art. 1.5 de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#aprimero.
+
+### Artículo 21
+
+Artículo 21. Publicidad.
+En el Registro Oficial de Actividades Feriales será público en los términos y con las limitaciones previstas en la normativa vigente en la materia.
+
+## CAPÍTULO VI
+
+Promoción de actividades feriales
+
+### Artículo 22
+
+Artículo 22. Objeto y requisitos.
+1. Al objeto de promocionar las actividades feriales a las que se refiere esta Ley y las actividades de las entidades organizadoras que persigan este mismo objetivo, la Comunidad de Madrid establecerá medidas de ayuda económica en concepto de subvenciones y prestará la asistencia técnica precisa, en la forma y requisitos que reglamentariamente se determinen.
+2. Para poder acogerse a estas ayudas, las actividades feriales deberán cumplir los requisitos exigidos en la presente Ley y en las disposiciones específicas que la desarrollen.
+3. Sin perjuicio de lo establecido en el artículo 1 de esta Ley, la Comunidad de Madrid podrá promocionar y fomentar la asistencia de las empresas madrileñas a ferias o exposiciones que se celebren fuera de su ámbito territorial, siempre que tales certámenes tengan especial interés para la comercialización o difusión de productos, técnicas o servicios característicos de dichas empresas o de especial interés para la región.
+Se modifica el apartado 2 por el art. 24 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+## CAPÍTULO VII
+
+Infracciones y sanciones
+
+### Artículo 23
+
+Artículo 23. Responsabilidad.
+1. Las acciones y omisiones tipificadas en los artículos siguientes constituyen infracciones administrativas.
+2. Podrán ser sujetos responsables de las infracciones previstas en este capítulo las instituciones feriales y demás entidades organizadoras, así como los titulares de los edificios e instalaciones en los que se desarrollen las actividades feriales.
+
+### Artículo 24
+
+Artículo 24. Calificación de las infracciones.
+Las infracciones a esta Ley se clasificarán en leves, graves y muy graves.
+
+### Artículo 25
+
+Artículo 25. Infracciones leves.
+Se considerarán como infracciones leves las acciones u omisiones contrarias a la presente Ley, que no produzcan perjuicio económico alguno siempre que no deban ser calificadas como faltas graves o muy graves.
+
+### Artículo 26
+
+Artículo 26. Infracciones graves.
+Se considerarán como tales las siguientes:
+a) La utilización no autorizada de cualquiera de las denominaciones feriales a que hace referencia el artículo 2 de esta Ley.
+b) La exclusión injustificada de expositores en una actividad ferial.
+c) (Derogado).
+d) (Derogado).
+e) La celebración de actividades feriales en recintos o instalaciones que no cumplan los requisitos establecidos en la presente Ley y disposiciones que la desarrollen.
+f) El incumplimiento de las obligaciones establecidas en el artículo 15 que no sean objeto de tipificación específica en este artículo y no puedan ser calificadas de muy graves.
+g) (Derogado).
+h) La reincidencia en la comisión de infracciones leves.
+i) En general, la realización por las entidades organizadoras de actuaciones que originen un perjuicio de carácter económico y que no puedan ser calificadas de muy graves.
+Se derogan los apartados c), d) y g) por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 27
+
+Artículo 27. Infracciones muy graves.
+Se considerarán como tales las siguientes:
+a) (Derogado).
+b) (Derogado).
+c) El uso indebido de la denominación de institución ferial por entidades no reconocidas como tales.
+d) La utilización de la calificación de feria o exposición oficial de la Comunidad de Madrid para actividades carentes de tal carácter conforme se establece en el artículo 6 de esta Ley.
+e) La reincidencia en la comisión de infracciones graves.
+f) Las infracciones a lo establecido en esta Ley o a las disposiciones que la desarrollen cuando de éstas se deriven alteraciones de orden público o un grave perjuicio para las personas, los bienes o el interés general.
+Se derogan los apartados a) y b) por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 28
+
+Artículo 28. Reincidencia.
+Se entenderá que existe reincidencia por la comisión en el término de un año de una infracción de la misma naturaleza a la que motivó la sanción anterior cuando haya sido declarada por resolución firme.
+
+### Artículo 29
+
+Artículo 29. Sanciones administrativas.
+1. Las infracciones tipificadas en los artículos anteriores darán lugar a la imposición de las siguientes sanciones:
+a) Las infracciones leves serán sancionadas con multa de hasta 500.000 pesetas.
+b) Las infracciones graves serán sancionadas con multa entre 500.001 y 5.000.000 de pesetas.
+c) Las infracciones muy graves serán sancionadas con multa entre 5.000.001 pesetas y 20.000.000 de pesetas.
+2. La reincidencia en la comisión de infracciones muy graves podrá llevar aparejada la inhabilitación de la entidad organizadora.
+
+### Artículo 30
+
+Artículo 30. Graduación de la sanción.
+La cuantía de la sanción correspondiente se graduará atendiendo a las siguientes circunstancias:
+a) El grado de voluntariedad.
+b) La cifra de negocios afectada.
+c) El beneficio ilícito obtenido.
+d) La gravedad de los perjuicios causados.
+e) El número de afectados.
+
+### Artículo 31
+
+Artículo 31. Potestad sancionadora.
+Corresponde a la Comunidad de Madrid la inspección y sanción de las infracciones a la presente Ley, sin perjuicio de que cuando se detecten infracciones en las ferias-mercados de ámbito local, el Ayuntamiento dé cuenta de las mismas para la incoación del procedimiento sancionador si corresponde.
+
+### Artículo 32
+
+Artículo 32. Órganos competentes.
+Son órganos competentes de la Comunidad de Madrid para la imposición de las sanciones a las que se refiere la presente Ley:
+1. La Dirección General de Comercio y Consumo para la imposición de sanciones leves.
+2. La Consejería de Economía y Empleo para las infracciones graves y muy graves.
+3. El Consejo de Gobierno para las infracciones muy graves que conlleven la inhabilitación de los responsables de las infracciones.
+
+### Artículo 33
+
+Artículo 33. Prescripción.
+Las infracciones y sanciones leves prescribirán al año, las graves a los dos años y las muy graves a los tres años.
+
+### Artículo 34
+
+Artículo 34. Medidas provisionales.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 1/2008, de 26 de junio. Ref. BOE-A-2008-15147#ddunica.
+
+### Artículo 35
+
+Artículo 35. Procedimiento sancionador.
+La tramitación de los expedientes sancionadores se realizará de acuerdo con el procedimiento previsto en la normativa vigente de la Comunidad de Madrid reguladora del ejercicio de su potestad sancionadora.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las competencias administrativas atribuidas a la Comunidad de Madrid corresponderán a la Consejería competente en ferias y exposiciones.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se faculta al Consejo de Gobierno para que, previa consulta a la Federación de Municipios de Madrid, dicte las disposiciones reglamentarias necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El Consejo de Gobierno podrá actualizar las cuantías de las multas establecidas en la presente Ley para adecuarlas a las variaciones del coste de la vida, de acuerdo con los índices generales de precios publicados por el Instituto Nacional de Estadística.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las instituciones feriales ya constituidas deberán, cuando así proceda, adaptar sus estatutos a lo dispuesto en la presente Ley en el plazo de seis meses desde la entrada en vigor de la misma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las actividades feriales autorizadas con anterioridad a la entrada en vigor de la Ley, que hayan de celebrarse con posterioridad a la misma, quedarán sujetas en la edición autorizada al régimen legal anterior, teniendo sólo vigencia su autorización para una edición.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 25 de junio de 1997.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

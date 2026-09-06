@@ -1,0 +1,669 @@
+# Ley 4/2010, de 28 de abril, de Denominaciones de Origen e Indicaciones Geográficas de Calidad Agroalimentaria de Extremadura.
+
+- Identificador BOE: `BOE-A-2010-7860`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-7860
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 4/2010, de 28 de abril, de Consejos Reguladores de Denominaciones de Origen e Indicaciones Geográficas de Calidad Agroalimentaria de Extremadura", según establece el art. 1.1 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+Téngase en cuenta que las referencias hechas en el articulado a la expresión de órganos de gestión deben entenderse referidas a las entidades de gestion, según establece el art. 1.6 de la citada ley.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 49.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+
+## EXPOSICIÓN DE MOTIVOS
+
+I
+Extremadura posee condiciones naturales privilegiadas para la producción agropecuaria y es cuna de una gran variedad de alimentos de calidad reconocida, apreciada dentro y fuera de nuestras fronteras.
+La promoción de productos agroalimentarios de calidad resulta muy beneficiosa para el mundo rural, al asegurar la mejora de la renta de los agricultores y ganaderos y el asentamiento de la población rural.
+La necesidad de potenciar la calidad de los productos agroalimentarios está presente de forma significativa a lo largo de toda la Ley 5/1992, de 26 de noviembre, sobre Ordenación de la Producciones Agrarias de Extremadura (artículos 11, 15, 47, 48, 50, 59, 60 y 65), imperativo que ha guiado la política agrícola de la Junta de Extremadura a lo largo de estos años.
+A medida que va extendiéndose el proceso de globalización, aumenta la competitividad de los productos agropecuarios de los países emergentes obtenidos con inferiores costes. Ante esos nuevos retos comerciales, resulta crucial diferenciarse ofreciendo una calidad superior garantizada.
+Numerosos son los consumidores de la Unión Europea y, cada vez más, de todo el mundo, que desean calidad, para lo que buscan productos auténticos procedentes de una zona geográfica determinada y están dispuestos a pagar un precio más elevado por ellos.
+Frente a las normas de obligado cumplimiento que definen la calidad exigida a los diferentes alimentos, se habla de calidad diferenciada para referirse al conjunto de características adicionales, consecuencia del cumplimiento de requisitos establecidos en disposiciones a las que pueden acogerse voluntariamente las empresas, relativas a las materias, elementos y procedimientos de producción, elaboración, transformación y, en su caso, comercialización.
+La ley persigue fundamentalmente crear un marco jurídico adecuado para la gestión y protección de las denominaciones de origen e indicaciones geográficas de productos agroalimentarios susceptibles de protección dentro de la Unión Europea. Para ello define un nuevo modelo de entidad de gestión que permita integrar las finalidades públicas y privadas y regula las potestades administrativas precisas para garantizar en último término el cumplimiento de las normas que fundamentan la protección dispensada a los productos de calidad.
+Se pretende igualmente con la presente norma, coadyuvar al mantenimiento de la diversidad de los productos agrícolas, alimenticios y derivados de la vid, proporcionar a los productores condiciones de competencia leal con las que adquieran mayor credibilidad ante los consumidores, así como garantizar la protección de los intereses tanto de estos como de aquellos.
+Resultan esenciales en la materia objeto de regulación de esta Ley, el Reglamento (CE) n.º 510/2006 del Consejo, de 20 de marzo de 2006, sobre protección de las indicaciones geográficas y de las denominaciones de origen de los productos agrícolas y alimenticios, el Reglamento (CE) n.º 1898/2006 de la Comisión, de 14 de diciembre de 2006, que establece las disposiciones de aplicación del Reglamento (CE) n.º 510/2006 del Consejo sobre la protección de las indicaciones geográficas y de las denominaciones de origen de los productos agrícolas y alimenticios, modificado por el Reglamento (CE) 628/2008 de la Comisión, de 2 de julio de 2008, el Reglamento (CE) n.º 1234/2007 por el que se crea una organización común de mercados agrícolas y se establecen disposiciones específicas para determinados productos agrícolas (Reglamento único para las OCM), modificado por el Reglamento (CE) n.º 491/2009 del Consejo, de 25 de mayo de 2009, el cual incorpora en el régimen común para todas las OCM, la regulación establecida en el Reglamento (CE) n.º 479/2008 del Consejo, de 29 de abril de 2008, por el que se establece la organización común del mercado vitivinícola, se modifican los Reglamentos (CE) n.º 1493/1999, (CE) n.º 1782/2003, (CE) n.º 1290/2005 y (CE) n.º 3/2008 y se derogan los Reglamentos (CEE) n.º 2392/86 y (CE) n.º 1493/1999 y el Reglamento (CE) n.º 607/2009 de la Comisión de 14 de julio de 2009 por el que se establecen determinadas disposiciones de aplicación del Reglamento (CE) n.º 479/2008 del Consejo en lo que atañe a las denominaciones de origen e indicaciones geográficas protegidas, a los términos tradicionales, al etiquetado y a la presentación de determinados productos («DOUE L» 193 de 24 de julio de 2009).
+Al formar parte del ordenamiento jurídico interno del Estado español y ser de aplicación prevalente y directa a partir de su publicación en el «Diario Oficial de la Unión Europea», no se ha estimado adecuado reproducir el contenido de estos reglamentos en norma autonómica, lo que, aún con efectos meramente clarificadores, podría distorsionar su verdadero significado dentro del sistema de fuentes. Las únicas excepciones que se permite el texto de la ley lo constituyen las definiciones de denominaciones de origen e indicaciones geográficas y el artículo 6, por configurar el régimen esencial de protección de las figuras de calidad diferenciada reguladas, cuya transgresión podría determinar la comisión de infracciones muy graves tipificadas.
+La Constitución Española, en su artículo 51 dispone que los Poderes Públicos garantizarán la defensa de los consumidores y usuarios, protegiendo mediante procedimientos eficaces los legítimos intereses económicos de los mismos y promoverán su información; en su artículo 52, exige que las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios vengan reguladas por la ley y funcionen democráticamente, y, en su artículo 130.1, encomienda a los poderes públicos la atención a la modernización y desarrollo del sector agroganadero.
+En virtud del Estatuto de Autonomía de Extremadura corresponde a la Comunidad Autónoma la competencia exclusiva en materias de agricultura, ganadería e industrias agroalimentarias de acuerdo con la ordenación general de la economía (artículo 7.1.6), de procedimiento administrativo derivado de las especialidades de la organización propia (Art. 7.1.29) y de denominaciones de origen, en colaboración con el Estado (art. 7.1.34), así como las competencias de desarrollo legislativo y ejecución en materias de corporaciones de derecho público representativas de intereses económicos y profesionales (art. 8.6) y de defensa del consumidor y usuario, de acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, las bases y coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y 149.1.11, 13 y 16 de la Constitución Española (artículo 8.7).
+II
+La Ley se estructura en un título preliminar, diez títulos, ocho disposiciones adicionales, ocho disposiciones transitorias, una disposición derogatoria y tres disposiciones finales.
+El Título preliminar define el objeto regulado y términos relevantes para su comprensión.
+El Título I determina las fuentes que inciden en la regulación de las denominaciones de origen o indicaciones geográficas y establece obligaciones de ámbito general de las empresas sometidas voluntariamente al régimen de dichas figuras de calidad diferenciada, de sus órganos de gestión y de los organismos independientes autorizados para comprobar que se cumplen los procesos que garantizan la conformidad de los productos con las normas específicas de calidad.
+Tal y como establece, en su ámbito y con carácter básico, la Ley 24/2003, de 10 de julio, de la Viña y del Vino, la Comunidad Autónoma opta por considerar los derechos de propiedad incorporal relativos a todas las denominaciones de origen o indicaciones geográficas reguladas como bienes de dominio público, impidiendo que pueda ser objeto del tráfico jurídico privado, sin perjuicio de las peculiaridades de su régimen que se definen en la propia ley.
+III
+El Título II contiene prescripciones que garantizan la adecuada protección de las denominaciones de origen o indicaciones geográficas de calidad alimentaria.
+Los productos de calidad protegidos deberán contar con elementos suficientes de distinción en el etiquetado, presentación y publicidad. Además el reglamento de cada denominación de origen o indicación geográfica podrá exigir que dichos productos sólo puedan ser comercializados con marcas registradas de las que sea titular o cesionario.
+Se exige a los órganos de gestión una especial vigilancia frente a otros derechos de propiedad incorporal que pudieran resultar incompatibles.
+Finalmente, establece este título breves prescripciones en cuanto al procedimiento de solicitud de registro o protección comunitarios de las denominaciones de origen o indicaciones geográficas, por la incidencia de normas comunitarias precisas, otros preceptos de ámbito estatal y el necesario desarrollo reglamentario ulterior.
+IV
+El Título III se refiere a los instrumentos jurídicos específicos reguladores de cada denominación de origen o indicación geográfica: el pliego de condiciones y sus propios reglamentos y estatutos.
+El pliego de condiciones, de acuerdo con la normativa de la Unión Europea ha de contener, entre otros elementos, los requisitos de producción, elaboración, transformación y, en su caso comercialización, que deben cumplirse para que los productos puedan utilizar la denominación de origen o indicación geográfica.
+Su contenido se encuentra debidamente perfilado en las normas comunitarias por lo que no es objeto de regulación complementaria en esta Ley.
+El pliego de condiciones es elemento esencial para el registro o protección de la denominación de origen o indicación geográfica y objeto sucesivo de publicaciones oficiales en los ámbitos de la Comunidad Autónoma, nacional o de la Unión Europea dentro del procedimiento de reconocimiento de cada denominación de origen o indicación geográfica. Por ello en este título sólo se contienen algunas precisiones sobre los procedimientos de modificación del pliego de condiciones, muy incididos de igual forma por normas comunitarias y algunas normas estatales.
+Se contemplan especialidades en el procedimiento de elaboración de los reglamentos de las denominaciones de origen o indicaciones geográficas, que no tendrán carácter ejecutivo según precisa la disposición adicional cuarta, y serán aprobados por Decreto del Consejo de Gobierno de la Junta de Extremadura.
+Los estatutos establecerán normas complementarias sobre las actividades, relaciones con los operadores inscritos, organización y funcionamiento de la entidad, dentro de lo establecido en la presente ley, el reglamento que pueda desarrollarla y el específico de la denominación, previa comprobación de su adecuación a la legalidad.
+V
+El Título IV sobre los órganos de gestión de las denominaciones de origen o indicaciones geográficas, los configura como corporaciones de derecho público, precisa su capacidad de obrar, las normas esenciales sobre principios de organización, composición y órganos de gobierno, su finalidad y funciones, sus recursos financieros, su régimen presupuestario y contable y la posible asunción del ejercicio de funciones por delegación o encomienda de gestión.
+El Título V define el régimen jurídico de los actos, resoluciones y negocios jurídicos de los órganos de gestión; distingue los de naturaleza administrativa y los de carácter privado y determina la responsabilidad patrimonial que pudiera derivar de su ejercicio.
+La Ley opta por exigir la constitución de órganos de gestión como corporaciones de derecho público, por estimar que pueden dar adecuada respuesta tanto a la responsabilidad de la Comunidad Autónoma de preservar elementos de un patrimonio común, ligados inescindiblemente a partes de su territorio, esenciales para la planificación sectorial y para la definición y proyección de la identidad e imagen de Extremadura, como al interés de los empresarios en ver rentabilizada la producción y la comercialización de los productos agroalimentarios de calidad.
+VI
+El Título VI está dedicado al sistema de garantía del cumplimiento del pliego de condiciones, estructurado sobre la base fundamental de la obligación de los operadores agroalimentarios de garantizar la conformidad de sus productos a aquél y la sujeción a un control externo por un organismo de certificación, acreditado conforme a la Norma UNE-EN 45011 o norma posterior que la sustituya, que podrá ser una entidad privada o el propio órgano de gestión a través de una estructura independiente. Excepcionalmente se posibilita que el control externo pueda ser realizado por administraciones o empresas públicas de la Comunidad Autónoma.
+El Título VII regula las potestades de supervisión, inspección y de adopción de medidas de restauración de la legalidad y sancionadora.
+El Título VIII se contrae a tipificar infracciones complementarias sobre las materias reguladas y a incorporar el régimen básico sancionador de la Ley estatal 24/2003 de la Viña y del Vino.
+El Título IX articula cauces de colaboración y cooperación entre la Administración de la Comunidad Autónoma y los órganos de gestión y el Título X se refiere al fomento de las denominaciones de origen e indicaciones geográficas.
+VII
+En las disposiciones adicionales se realiza una extensión provisional de lo establecido en el articulado para las indicaciones geográficas de bebidas espirituosas susceptibles de registro, de conformidad con el Reglamento (CE) n.º 110/2008, del Parlamento Europeo y del Consejo, de 15 de enero de 2008; se habilita al Consejo de Gobierno de la Junta de Extremadura para regular regímenes especiales de gestión de las denominaciones de origen o indicaciones geográficas, cuando por tratarse de un único productor o de agrupaciones reducidas de productores con un volumen de comercialización no suficientemente significativo, no resultara viable el modelo corporativo diseñado en la Ley; se establecen previsiones para los organismos independientes de inspección y los laboratorios de ensayos que participen en actividades de verificación del pliego de condiciones; se posibilita la certificación respecto a procesos productivos de acuerdo a modificaciones de dichos pliegos publicadas pendientes de tramitación; se contienen otras referencias a normativas conexas, se recoge una cláusula de salvaguardia frente a la posible exigibilidad por el ordenamiento jurídico de protección de denominaciones de origen e indicaciones geográficas de ámbito territorial no limitado a Extremadura y se extienden potestades administrativas a la protección de especialidades tradicionales garantizadas.
+Las disposiciones transitorias contemplan las situaciones coyunturales motivadas por los cambios normativos que habrán de conllevar nuevos reglamentos y estatutos de cada denominación de origen o indicación geográfica, la posibilidad de integrar estructuras de control independientes que satisfagan los requisitos de organismos independientes de certificación susceptibles de ser acreditados dentro de los propios consejos reguladores y la desaparición del vigente régimen de tasas por el de cuotas obligatorias y de tarifas por prestaciones de servicios.
+Se concreta también el régimen transitorio respecto de procedimientos en tramitación a la entrada en vigor de la ley, de la configuración de los nuevos órganos de gestión como corporaciones de derecho público y de los mandatos de los miembros de los órganos de gobierno de los consejos reguladores existentes. Finalmente, se declara la aplicación transitoria de lo regulado sobre toma y análisis de muestras en el Real Decreto 1945/1983, de 22 de junio.
+La disposición derogatoria contiene además una previsión de mantenimiento de la disposición adicional tercera de la Ley extremeña 12/2002 y los Decretos y Órdenes autonómicos que establecen los reglamentos de las denominaciones de origen e indicaciones geográficas existentes en Extremadura hasta que entren en vigor los reglamentos y estatutos de cada denominación de origen o indicación geográfica adaptados a lo previsto en la presente Ley.
+Las disposiciones finales se refieren a habilitaciones reglamentarias, a la declaración de aplicabilidad de preceptos concretos sobre medidas cautelares y de restauración de legalidad, a la persecución de los fraudes agroalimentarios y de comercialización de productos pesqueros y a la entrada en vigor de la ley.
+
+## TÍTULO PRELIMINAR
+
+Objeto y definiciones
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito.
+Esta ley regula los Consejos Reguladores de las denominaciones de origen e indicaciones geográficas de productos agrícolas y alimenticios y de productos vitícolas, cuya demarcación territorial se encuentre comprendida íntegramente en Extremadura.
+Se modifica por el art. 1.2 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+1. A los efectos de esta ley se entiende por:
+A) Denominaciones de origen o indicaciones geográficas de productos agrícolas y alimenticios: las menciones de calidad diferenciada vinculadas a un origen geográfico definidas en los apartados 1 y 2 del artículo 5 del Reglamento (UE) n.º 1151/2012 del Parlamento Europeo y del Consejo, de 21 de noviembre de 2012, sobre los regímenes de calidad de los productos agrícolas y alimenticios, así como los nombres asimilados a las denominaciones de origen en los términos recogidos en el artículo 5.3 del mismo Reglamento (UE) n.º 1151/2012.
+B) Denominaciones de origen o indicaciones geográficas de productos vitícolas: las menciones de calidad diferenciadas vinculadas a un origen geográficos definidas en el artículo 93 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, por el que se crea la organización común de mercados agrícolas y por el que se derogan los Reglamentos (CEE) 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007.
+C) Productos agrícolas y alimenticios: Productos agrícolas destinados a la alimentación humana contemplados en el anexo I del Tratado de Funcionamiento de la Unión Europea, productos alimenticios y productos agrícolas contemplados en el Anexo I apartados I y II del Reglamento (UE) n.º 1151/2012 del Parlamento Europeo y del Consejo, de 21 de noviembre de 2012, sobre los regímenes de calidad de los productos agrícolas y alimenticios.
+D) Productos vitícolas: los productos enumerados en el anexo VII, parte II, puntos 1, 3 a 6, 8, 9, 11, 15 y 16 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, por el que se crea la organización común de mercados agrícolas y por el que se derogan los Reglamentos (CEE) 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007.
+E) Consejo Regulador: la entidad de gestión de la denominación de origen o indicación geográfica de productos agrícolas o alimenticios o de productos vitícolas.
+2. Las referencias a la Norma Europea EN 45011 se entenderán igualmente efectuadas a la Guía ISO/IEC 65 (Criterios generales relativos a los organismos de certificación de productos).
+Se modifica el apartado 1 por el art. 1.2 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+## TÍTULO I
+
+Régimen jurídico de las denominaciones de origen o indicaciones geográficas y obligaciones generales
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículos 3 a 4
+
+(Derogados).
+Se derogan por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 3
+
+Artículo 3. Régimen jurídico.
+Las denominaciones de origen o indicaciones geográficas son bienes de dominio público de titularidad de la Comunidad Autónoma de Extremadura, no susceptibles de apropiación individual, venta, enajenación o gravamen, regidas por la normativa comunitaria que les afecte, las normas del Estado que tuvieren carácter básico, la presente Ley y las disposiciones reglamentarias que la desarrollen, la restante normativa estatal que resultare aplicable y la normativa propia de cada denominación de origen o indicación geográfica.
+Cada denominación de origen o indicación geográfica contará con una regulación específica constituida por el pliego de condiciones, su reglamento y los estatutos de su órgano de gestión, debiendo los operadores cumplir además los actos y resoluciones de dicho órgano.
+
+### Artículo 4
+
+Artículo 4. Obligaciones generales.
+1. Las empresas que quieran utilizar una denominación de origen o una indicación geográfica deberán seguir procedimientos internos de calidad que garanticen la conformidad de sus productos a los requisitos de la figura de la calidad diferenciada, someterse al control de un organismo de certificación, contar con la certificación del mismo, inscribir sus explotaciones, medios de producción e instalaciones en los registros gestionados por el órgano de gestión y colaborar con este para defender y promocionar los productos amparados por la denominación de origen o indicación geográfica.
+2. La condición de operador exigida para ser beneficiario o baremada en las bases reguladoras de las subvenciones concedidas por la Comunidad Autónoma de Extremadura sólo se reconocerá a quienes acrediten encontrarse certificados y al corriente en el pago de las cuotas obligatorias.
+3. Los órganos de gestión y los organismos de certificación deberán comunicar en el plazo de 48 horas a la Dirección General competente las decisiones relativas a la suspensión o retirada de la certificación, así como las relativas a la inadmisión de la solicitud, suspensión o retirada de la acreditación, por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad y el contenido.
+4. Sin perjuicio del ejercicio de las facultades y acciones que les correspondan, los órganos de gestión deberán denunciar a la Consejería competente los hechos constatados que conozcan susceptibles de constituir infracciones de la normativa propia de la denominación de origen o indicación geográfica que gestionen.
+5. Los operadores, los órganos de gestión y los organismos de certificación están obligados a permitir las actividades de control, verificación, auditoría o inspección que resulten necesarias a la entidad de acreditación, para la concesión de la acreditación y su mantenimiento, colaborando con cuantos medios estén a su disposición para facilitar dichas actividades.
+
+## TÍTULO II
+
+Protección de las denominaciones de origen o indicaciones geográficas
+
+### Artículo 5
+
+Artículo 5. Protección.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 6
+
+Artículo 6. Protección de las denominaciones geográficas frente a otros derechos de propiedad incorporal concurrentes.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 7
+
+Artículo 7. Obligaciones de protección de las denominaciones frente a otros derechos incompatibles.
+Los órganos de gestión velarán especialmente por la protección de las denominaciones de origen o indicaciones geográficas frente a nombres de dominio, denominaciones sociales y derechos de propiedad industrial; informarán a la Consejería competente, de cualquier novedad que pueda resultar en detrimento de la protección de la denominación de origen o indicación geográfica, relacionada con estos derechos, e iniciarán las acciones legales correspondientes, sin perjuicio de las que pueda ejercer la propia Comunidad Autónoma.
+
+### Artículo 8
+
+Artículo 8. Solicitudes de registro o de protección.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 9
+
+Artículo 9. Protección nacional transitoria y protección por la Unión Europea.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+## TÍTULO III
+
+Normativa específica de cada denominación de origen o indicación geográfica
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículos 10 a 12
+
+Artículos 10 a 12.
+(Derogados).
+Se derogan por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 10
+
+Artículo 10. Pliego de condiciones.
+1. Los productos agrícolas, alimenticios o derivados de la vid, para tener derecho a una denominación de origen o indicación geográfica, deberán ajustarse a un pliego de condiciones, con el contenido mínimo establecido en las normas de la Unión Europea.
+2. La Consejería competente tramitará y resolverá, en el ámbito de atribuciones de la Comunidad Autónoma, las solicitudes de modificación del pliego de condiciones, de acuerdo con el procedimiento que reglamentariamente se establezca, sin perjuicio de las competencias del Estado y de la Unión Europea.
+Las resoluciones estimatorias tendrán la forma de Orden del titular de la Consejería competente y, además de su notificación a los interesados, se publicarán en el Diario Oficial de Extremadura, debiendo quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte así como los motivos por los que, en su caso, se hubiera rechazado la oposición.
+En el supuesto de no estimarse la solicitud, se dictará por igual órgano, resolución desestimatoria motivada que será notificada a los interesados.
+3. El plazo máximo para dictar y notificar las resoluciones a que se refiere el párrafo anterior será de seis meses. Vencido este plazo máximo sin haberse notificado resolución expresa, los interesados podrán entender desestimada la solicitud por silencio administrativo.
+4. En función de la naturaleza de la modificación del pliego de condiciones, y de acuerdo con lo establecido en la normativa de la Unión Europea y en las normas estatales aplicables, habrá de seguirse el correspondiente procedimiento, que conllevará en unos casos la simple comunicación a la Comisión Europea y en otros, previos los trámites previstos, la competencia de esta institución para decidir en último término sobre la admisibilidad, estimación o desestimación de la solicitud de la modificación del pliego de condiciones; y en caso de estimación, la constancia en el correspondiente registro de la Unión Europea.
+
+### Artículo 11
+
+Artículo 11. Reglamento de la denominación de origen o indicación geográfica.
+1. Cada denominación de origen o indicación geográfica se regirá por un reglamento aprobado por Decreto del Consejo de Gobierno de la Junta de Extremadura, en el que se establecerá al menos:
+a) La naturaleza, régimen jurídico, finalidad y funciones del órgano de gestión.
+b) La constitución, composición, funciones y normas de funcionamiento de sus órganos de gobierno y de administración, procedimientos de provisión, renovación, revocación y cese de sus miembros y causas de inelegibilidad o incompatibilidad.
+c) El sistema de control y certificación.
+d) Los registros de la denominación
+e) En su caso, el régimen de declaraciones y de controles específicos mínimos para asegurar la calidad, el origen y la especificidad de los productos amparados.
+f) Los derechos y obligaciones de los operadores.
+g) El régimen presupuestario y contable.
+h) Los recursos económicos del órgano de gestión. En cuanto a las cuotas obligatorias, deberán determinarse sus elementos o condiciones esenciales y el régimen de gestión.
+2. Las solicitudes de registro o protección comunitarios de las denominaciones de origen o indicaciones geográficas deberán contener una propuesta de reglamento provisional de la figura de calidad diferenciada.
+
+### Artículo 12
+
+Artículo 12. Estatutos de la denominación de origen o indicación geográfica.
+1. Por Orden del titular de la Consejería competente, a propuesta de la agrupación solicitante o del órgano de gestión, previa comprobación de su legalidad, se aprobarán los estatutos de cada denominación de origen o indicación geográfica así como sus modificaciones.
+2. En el caso de que se propongan por la agrupación solicitante, los estatutos se aprobarán con el carácter de provisionales.
+3. Los estatutos contendrán normas complementarias sobre las actividades, relaciones con los operadores, organización y funcionamiento de la entidad.
+4. Las solicitudes de registro o protección comunitarios de las denominaciones de origen o indicaciones geográficas deberán contener una propuesta de estatutos provisionales y la propuesta de designación de quienes fueran a desempeñar, inicial e interinamente, las funciones de Presidente, Vicepresidente o Vicepresidentes y demás miembros del Pleno del órgano de gestión, en unión de su compromiso firmado de aceptar dichos cargos.
+
+## TÍTULO IV
+
+Órganos de gestión de las denominaciones de origen o indicaciones geográficas
+
+### Artículo 13
+
+Artículo 13. Naturaleza jurídica de los órganos de gestión.
+1. Para cada denominación de origen o indicación geográfica existirá un órgano de gestión, con la naturaleza de corporación de derecho público, que, sin perjuicio de lo establecido en normas básicas estatales, se denominará «consejo regulador».
+2. Se podrá constituir un único órgano de gestión para varias denominaciones de origen o indicaciones geográficas, de acuerdo con las peculiaridades organizativas de cada sector y con los límites establecidos por la normativa básica estatal.
+
+### Artículo 14
+
+Artículo 14. Personalidad jurídica y capacidad de obrar de los órganos de gestión.
+1. Los órganos de gestión tienen personalidad jurídica propia, autonomía económica y plena capacidad de obrar para el cumplimiento de sus fines, en los términos que dispongan las normas que los regulan. Para la realización de sus fines y en ejercicio de las funciones atribuidas, los órganos de gestión podrán llevar a cabo toda clase de actividades, promover, participar o relacionarse con cualesquiera personas físicas o jurídicas públicas o privadas estableciendo al respecto los oportunos negocios jurídicos, incluidos acuerdos de colaboración. También podrá actuar como entidad colaboradora para la gestión de subvenciones, pudiendo ser exonerada de la obligación de prestar garantías a tales efectos.
+2. El órgano de gestión podrá asumir la certificación. En este caso sólo podrá desempeñar aquellas funciones propias, delegadas o encomendadas que no interfieran los requisitos de responsabilidad, autonomía, imparcialidad, objetividad y confidencialidad exigidos para su acreditación, sin perjuicio de las obligaciones normativamente establecidas para asegurar el ejercicio legítimo de las competencias y potestades de las Administraciones Públicas. En este mismo supuesto, las funciones atribuidas al órgano de gestión que puedan incidir en la certificación, deberán ser desempeñadas, supervisadas o contar con la intervención de la estructura de control, en su caso mediante informes vinculantes, en los términos especificados en el manual de calidad, en cumplimiento de los requisitos exigidos por la Norma UNE-EN 45011 o norma que la sustituya.
+3. El órgano de gestión adquirirá su personalidad jurídica una vez que se publiquen en el «Diario Oficial de Extremadura» la resolución estimatoria del registro o protección de la denominación de origen o indicación geográfica, el pliego de condiciones, y el reglamento y los estatutos provisionales.
+4. Tendrá capacidad de obrar cuando se designen por el titular de la Dirección General competente el Presidente, Vicepresidente o Vicepresidentes y restantes miembros del Pleno provisional propuestos por la agrupación solicitante y éste se constituya conforme a derecho.
+5. Mediante Decreto del Consejo de Gobierno se procederá a la extinción del órgano de gestión cuando la denominación de origen o indicación geográfica no sea registrada o protegida, resulte anulada o declarada su caducidad.
+
+### Artículo 15
+
+Artículo 15. Composición, estructura y funcionamiento de los órganos de gestión.
+1. Los órganos de gestión se regirán por principios democráticos y de representatividad de los intereses económicos y sectoriales integrados en la denominación de origen o indicación geográfica, con especial contemplación de los minoritarios, debiendo existir paridad en la representación de los diferentes intereses en presencia y mantener, como principio básico, su funcionamiento sin ánimo de lucro.
+2. Sus órganos de gobierno serán el pleno, la presidencia, cuyo titular no necesariamente tendrá que ser representante de un operador, la vicepresidencia o vicepresidencias y cualquier otro que se establezca reglamentariamente o en los respectivos estatutos.
+3. Formarán parte del pleno del órgano de gestión los representantes de los intereses económicos de los distintos sectores que integran la denominación.
+4. Corresponderá a los órganos de gestión la organización de los procesos de elección de sus órganos de gobierno de conformidad con lo establecido en el reglamento o en los estatutos de la denominación de origen o indicación geográfica, sin perjuicio de la supervisión por la Consejería competente.
+Se modifica el apartado 4 por el art. 8 del Decreto-ley 12/2020, de 19 de junio. Ref. BOE-A-2020-8303#a8
+
+### Artículo 16
+
+Artículo 16. Fines y funciones de los órganos de gestión.
+1. Los fines de los órganos de gestión son la representación, defensa, garantía, formación, investigación, innovación, desarrollo de mercados y promoción de la denominación de origen o indicación geográfica.
+2. Son funciones de cada órgano de gestión:
+a) Velar por el prestigio y fomento de la denominación de origen o indicación geográfica y denunciar, en su caso, cualquier uso incorrecto de la misma ante los órganos administrativos y jurisdiccionales competentes. En el caso de las denominaciones de origen o indicaciones geográficas de productos derivados de la vid se estará además a lo establecido en el artículo 26.3 de la Ley estatal 24/2003 de la Viña y del Vino.
+b) Llevar los registros regulados en el reglamento de cada denominación de origen o indicación geográfica.
+c) Establecer los requisitos mínimos de los controles que deberán llevar los operadores, sin perjuicio de la regulación del sistema de control en el reglamento de la denominación de origen o indicación geográfica y de las facultades del organismo de certificación y de la entidad de acreditación.
+d) Velar por el cumplimiento de la normativa de la denominación de origen o indicación geográfica, especialmente del pliego de condiciones y del reglamento.
+e) Investigar y difundir el conocimiento y aplicación de los sistemas de producción, elaboración, transformación y comercialización propios de la denominación de origen o indicación geográfica.
+f) Informar sobre las materias establecidas en el apartado anterior a los operadores que lo soliciten y a la Administración.
+g) Adoptar iniciativas para las modificaciones del pliego de condiciones e intervenir en los procedimientos que sobre dicho objeto se tramiten.
+h) Informar a los consumidores sobre las características específicas de calidad de los productos de la denominación de origen o indicación geográfica.
+i) Realizar actividades promocionales.
+j) Elaborar estadísticas de producción, elaboración, transformación y comercialización de los productos amparados para uso interno y para su difusión y general conocimiento.
+k) Gestionar las cuotas obligatorias.
+l) Establecer y gestionar las tarifas por prestación de servicios y demás recursos que financien sus actividades no sujetas al derecho administrativo.
+m) Elaborar, aprobar y gestionar sus presupuestos.
+n) Proponer el reglamento y estatutos de la denominación de origen o indicación geográfica así como sus modificaciones y ratificar en su caso los aprobados con carácter provisional.
+ñ) Establecer los requisitos de contraetiquetas, precintas y otros marchamos de garantía, incluidos los que pudieran insertarse en el etiquetado, propios de la denominación de origen o indicación geográfica, así como expedirlos.
+o) Establecer los requisitos y autorizar las etiquetas comerciales utilizables en los productos protegidos, en aquellos aspectos que afecten a la denominación y ejercer las facultades establecidas en el artículo 7 de la presente Ley.
+p) En su caso, establecer acuerdos de campaña sobre aspectos de coyuntura anual, con base en criterios de defensa y mejora de la calidad, y dentro de los límites fijados por el pliego de condiciones, por el reglamento de cada denominación y por el correspondiente manual de calidad, sin perjuicio de la normativa de la Unión Europea y básica estatal que pudiera resultar de aplicación.
+q) Colaborar con las autoridades competentes, particularmente en el mantenimiento de los registros públicos, así como con los órganos encargados del control.
+r) Velar por el desarrollo sostenible de la zona de producción.
+s) En su caso, calificar cada añada o cosecha.
+t) En su caso, actuar como organismo de certificación.
+u) Realizar las funciones que les hubieren sido delegadas o encomendadas por la Junta de Extremadura.
+v) Las demás funciones atribuidas por la normativa que estuviere vigente.
+3. Se considerarán dictadas en ejercicio de funciones públicas las funciones de las letras b), k), n), ñ), o), p), q) y u) (por lo que respecta a las funciones delegadas) del apartado 2.
+Se modifica la letra p) del apartado 2 por el art. 1.3 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 17
+
+Artículo 17. Recursos de los órganos de gestión.
+Para el cumplimiento de sus fines y funciones, los órganos de gestión podrán financiarse con los recursos siguientes:
+1. Las cuotas obligatorias que habrán de abonar sus miembros, delimitadas en los reglamentos de las denominaciones de origen o indicaciones geográficas. Competerá al propio órgano de gestión su recaudación en vía de apremio, de acuerdo con el procedimiento vigente para otros ingresos de derecho público de la Hacienda Pública de la Comunidad Autónoma de Extremadura.
+2. Aquellas otras cuotas y derramas necesarias que, para la financiación de objetivos especiales y concretos u obligaciones extraordinarias, acuerde el Pleno, de conformidad con el reglamento y estatutos de la denominación de origen o indicación geográfica.
+3. Las subvenciones que puedan establecerse anualmente en los presupuestos generales de las administraciones públicas y otras posibles ayudas públicas.
+4. Las rentas y productos de su patrimonio.
+5. Las donaciones, legados y demás aportaciones privadas que puedan percibir.
+6. Los rendimientos por la prestación de servicios propios de sus fines y funciones, incluidos en su caso los correspondientes a la certificación, de conformidad con las tarifas aprobadas por el Pleno.
+7. Las cantidades que pudieran percibirse en concepto de indemnizaciones por daños o perjuicios ocasionados al Consejo o a los intereses que representan.
+8. Cualquier otro recurso que les corresponda percibir.
+
+### Artículo 18
+
+Artículo 18. Régimen presupuestario.
+Los órganos de gestión aprobarán anualmente sus presupuestos. Así mismo, dentro del primer trimestre de cada año, aprobarán una memoria de las actividades realizadas durante el año inmediatamente anterior así como la liquidación presupuestaria del ejercicio pasado. Sin perjuicio de otros supuestos de indelegabilidad que se establezcan reglamentariamente, las funciones anteriores deberán ser ejercidas necesariamente por el pleno del órgano de gestión.
+Los documentos mencionados en el apartado anterior serán remitidos a la Consejería competente, en el plazo de un mes, a contar desde la fecha de su aprobación por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad y el contenido.
+Los órganos de gestión estarán obligados a ser auditados o a someter sus cuentas a censura en cada ejercicio presupuestario en la forma en que se establezca en sus estatutos, sin perjuicio de la función fiscalizadora que corresponda a las administraciones, organismos o entes públicos legalmente habilitados para ello. Podrá exonerarse de dicha obligación a los órganos de gestión con presupuestos anuales inferiores a la cifra que se determine por Orden del titular de la Consejería competente.
+
+### Artículo 19
+
+Artículo 19. Régimen contable.
+Los órganos de gestión llevarán un plan contable, adecuado al Plan General de Contabilidad que les resulte de aplicación.
+La Administración de la Comunidad Autónoma de Extremadura, a través de la Intervención General, podrá ejercer el control financiero necesario sobre los gastos efectuados para la gestión de sus funciones.
+
+### Artículo 20
+
+Artículo 20. Asunción del ejercicio de funciones por delegación o encomienda de gestión.
+1. El Consejero competente podrá delegar en los órganos de gestión el ejercicio de funciones administrativas relacionadas con las finalidades corporativas o con la actividad profesional de los operadores, con sujeción al régimen de delegación interorgánica establecido en los artículos 72 y 73 de la Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura.
+2. El Consejero competente podrá, mediante convenio, encomendar a los órganos de gestión la realización de actividades de carácter material, técnico o de servicios de su propia competencia, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño y siempre que no implique dictar resoluciones, con sujeción a lo establecido en el artículo 75 de la Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura.
+
+## TÍTULO V
+
+Régimen jurídico de los actos, resoluciones y negocios jurídicos del órgano de gestión
+
+## CAPÍTULO I
+
+Actos y resoluciones de naturaleza administrativa
+
+### Artículo 21
+
+Artículo 21. Actos y resoluciones sujetos a derecho administrativo.
+Los actos o resoluciones del órgano de gestión en ejercicio de potestades o funciones públicas estarán sujetos al derecho administrativo.
+
+### Artículo 22
+
+Artículo 22. Notificación y publicación.
+Los actos o resoluciones del órgano de gestión, sujetos al derecho administrativo, se comunicarán tanto a los interesados como a la Dirección General competente en la forma y plazos establecidos por la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. El medio de publicación será el Diario Oficial de Extremadura.
+Podrán utilizarse otras formas de comunicación complementarias que no excluirá la obligatoriedad de lo establecido en el párrafo anterior.
+
+### Artículo 23
+
+Artículo 23. Causas de nulidad y anulabilidad.
+Serán aplicables a los actos y resoluciones administrativos de los órganos de gestión las causas de nulidad o anulabilidad de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Serán además nulos de pleno derecho los actos y resoluciones de los órganos de gestión sujetos a recurso administrativo cuando no se hubiere comunicado a la Dirección General competente, con la antelación y demás requisitos normativamente establecidos, la convocatoria a la sesión del Pleno u órgano colegiado de gestión con funciones decisorias delegadas por aquél, en la que conste dentro del orden del día la posible adopción del correspondiente acto o resolución. Para que dichos actos o resoluciones puedan ser adoptados por urgencia sin figurar en el orden del día de la convocatoria, será imprescindible que esté presente en la reunión del órgano de gestión al menos un representante de la Consejería competente, quedando en caso contrario viciado igualmente de nulidad radical.
+
+### Artículo 24
+
+Artículo 24. Actos y resoluciones recurribles en alzada ante el titular de la Consejería competente.
+Serán recurribles en alzada ante el titular de la Consejería competente los actos y resoluciones dictados en ejercicio de las funciones establecidas en las letras b), k), n), ñ), o), p) y q) del artículo 16.2.
+Los actos y resoluciones adoptados por delegación de la Administración de la Comunidad Autónoma de Extremadura estarán sujetos al recurso administrativo que corresponda ante el titular de la Consejería competente, de conformidad con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Ley 1/2002, de 28 de febrero, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 25
+
+Artículo 25. Otros procedimientos de revisión.
+La Administración de la Comunidad Autónoma de Extremadura, a través de la Consejería competente, tramitará y resolverá los procedimientos de revisión de oficio, de declaración de lesividad para el interés público y de recurso extraordinario de revisión de actos y resoluciones del órgano de gestión sujetos al derecho administrativo, de conformidad con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Ley 1/2002, de 28 de febrero, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 26
+
+Artículo 26. Aplicación supletoria de normas administrativas a órganos colegiados del órgano de gestión.
+Serán de aplicación supletoriamente a los órganos de gestión las normas sobre órganos colegiados contenidas en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO II
+
+Actos, resoluciones y negocios jurídicos sujetos a derecho privado
+
+### Artículo 27
+
+Artículo 27. Actos, resoluciones y negocios jurídicos relativos al personal.
+Los actos, resoluciones y negocios jurídicos de los órganos de gestión relativos a su personal se regirán por el derecho laboral u otras normas de derecho privado.
+No obstante, la selección del personal que preste sus servicios en los órganos de gestión se realizará mediante convocatoria pública y a través de sistemas que garanticen la publicidad y los principios de igualdad, mérito y capacidad.
+
+### Artículo 28
+
+Artículo 28. Actos, resoluciones y negocios jurídicos sobre el patrimonio.
+Los actos, resoluciones y negocios jurídicos de los órganos de gestión relativos a su patrimonio se regirán por el derecho privado.
+
+### Artículo 29
+
+Artículo 29. Contratos.
+Sin perjuicio de la posibilidad de establecer acuerdos de colaboración y estipular otros instrumentos jurídicos de colaboración o cooperación regidos por el derecho administrativo, los restantes contratos no comprendidos en los dos artículos anteriores se regirán por el derecho privado, a salvo de lo que pudiera resultar de aplicación a los órganos de gestión de la legislación básica estatal en materia de contratos del sector público.
+
+### Artículo 30
+
+Artículo 30. Actuaciones del órgano de gestión como organismo de certificación.
+Las actuaciones del órgano de gestión como entidad de certificación no estarán sujetas a recurso administrativo ni se regirán por el derecho administrativo. En ningún caso tendrán la consideración de sanción las medidas correctoras ni la denegación o suspensión temporal de la utilización de la denominación de origen o indicación geográfica adoptada por la estructura de control del órgano de gestión, cuando actúe como organismo de certificación.
+Lo establecido en el párrafo anterior no obstará a la realización de los controles previstos en el artículo 38.
+
+### Artículo 31
+
+Artículo 31. Actos o resoluciones que impliquen obligaciones generales para los operadores.
+Los actos o resoluciones sujetos a derecho privado que impliquen obligaciones generales para los operadores serán objeto de formas de divulgación que garanticen su conocimiento y el de los organismos de certificación interesados. A estos efectos, podrán utilizarse los medios de comunicación de los actos de las Administraciones Públicas o la página web del órgano de gestión.
+Los actos o resoluciones íntegros a que se refiere el apartado anterior se comunicarán en un plazo no superior a diez días hábiles, directamente a la Dirección General competente, por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad y el contenido del acto notificado.
+
+## CAPÍTULO III
+
+Responsabilidad
+
+### Artículo 32
+
+Artículo 32. Responsabilidad.
+Cuando el órgano de gestión deba indemnizar por daños producidos como consecuencia de funciones de derecho público, regirá el sistema de responsabilidad patrimonial de las Administraciones Públicas; cuando la responsabilidad derivare del ejercicio de funciones de derecho privado, se estará a lo establecido en las normas aplicables de este.
+
+## TÍTULO VI
+
+Sistema de garantía del cumplimiento del pliego de condiciones
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículos 33 a 38
+
+Artículos 33 a 38.
+(Derogados).
+Se derogan por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 33
+
+Artículo 33. Cumplimiento del pliego de condiciones por los operadores.
+El control del cumplimiento del pliego de condiciones de una denominación de origen o indicación geográfica corresponde, inicialmente y de forma principal, al propio operador acogido voluntariamente a la denominación de que se trate.
+Los requisitos mínimos de los procedimientos de los operadores para garantizar el cumplimiento del pliego de condiciones, serán definidos por el órgano de gestión, sin perjuicio de la regulación del sistema de control en el reglamento de la denominación de origen o indicación geográfica, de las facultades del organismo de certificación y de las facultades de la entidad de acreditación.
+
+### Artículo 34
+
+Artículo 34. Verificación del cumplimiento del pliego de condiciones.
+1. La verificación externa del cumplimiento del pliego de condiciones se efectuará según una de las modalidades siguientes:
+a) Una entidad independiente acreditada en el cumplimiento de la norma sobre «Requisitos generales para entidades que realizan la certificación de producto» (Norma UNE-EN 45011 o norma que la sustituya) para la verificación del pliego de condiciones correspondiente debidamente autorizada. La selección de la entidad independiente de control será efectuada por el órgano de gestión de acuerdo con los principios que rigen la contratación de las Administraciones Públicas.
+b) El órgano de gestión, siempre que se haya acreditado en el cumplimiento de la norma sobre «Requisitos generales para entidades que realizan la certificación de producto» (Norma UNE-EN 45011 o norma que la sustituya) para la verificación del pliego de condiciones correspondiente y haya sido autorizado por la Consejería competente.
+2. El reglamento de cada denominación de origen o indicación geográfica determinará el sistema de verificación del pliego de condiciones.
+
+### Artículo 35
+
+Artículo 35. Verificación del pliego de condiciones por el órgano de gestión.
+1. Para poder actuar como organismo de certificación, el órgano de gestión deberá contar con una estructura de verificación del pliego de condiciones, separada, ajena e independiente de los demás órganos, plenamente responsable de las decisiones sobre la concesión, mantenimiento, suspensión y retirada de la certificación a los operadores, dotada de personal técnico competente sin conflictos de intereses y medios materiales suficientes en los términos de dicha norma técnica. De igual modo, habrá de cumplirse lo establecido en el artículo 14.2.
+2. En el caso de que el órgano de gestión asuma funciones de certificación, el órgano de gestión podrá subcontratar todas o algunas de las actuaciones relacionadas con tales funciones, a excepción de la decisión sobre la certificación, a fin de asegurar su independencia e imparcialidad. Asimismo, podrá suscribir acuerdos de colaboración con otros órganos de gestión.
+
+### Artículo 36
+
+Artículo 36. Verificación excepcional del pliego de condiciones por Administraciones o empresas públicas de la Comunidad Autónoma.
+Excepcionalmente, la verificación del pliego de condiciones podrá ser realizada por la Administración de la Comunidad Autónoma de Extremadura o su Administración institucional, en las condiciones que garanticen su realización de forma objetiva e imparcial por personal cualificado y con los recursos necesarios para el desempeño de sus funciones.
+Con ese mismo carácter excepcional podrá ser realizada por una empresa pública de la Comunidad Autónoma de Extremadura que cumpla la Norma UNE-EN-45011 o norma que la sustituya.
+
+### Artículo 37
+
+Artículo 37. Obligación de los operadores de sufragar los costes de la verificación del cumplimiento del pliego de condiciones.
+En cuanto resulte exigido por las normas de la Unión Europea, los costes de la verificación del cumplimiento del pliego de condiciones serán sufragados por los operadores sujetos a los controles.
+
+### Artículo 38
+
+Artículo 38. Controles oficiales y otros controles administrativos.
+Los controles a que se refieren los apartados anteriores se efectuarán sin perjuicio de los controles oficiales exigidos por la normativa comunitaria. Además, la Consejería competente podrá efectuar aquellos controles complementarios que considere convenientes tanto a los operadores como a los organismos de certificación.
+
+## TÍTULO VII
+
+Potestades de supervisión de los órganos de gestión, de inspección y de adopción de medidas de restauración de la legalidad
+
+### Artículo 39
+
+Artículo 39. Supervisión de los órganos de gestión por la Administración de la Comunidad Autónoma de Extremadura.
+1. La supervisión sobre el órgano de gestión será ejercida por la Consejería competente en los términos de este capítulo, restantes preceptos de la presente ley y del reglamento que la desarrolle.
+2. La información de los registros de la denominación de origen o indicación geográfica estará permanentemente a disposición de la Consejería competente, con los efectos previstos en el artículo 11.2 a) de la Ley Orgánica 15/1999 de 13 de diciembre, de Protección de Datos de Carácter Personal.
+3. El órgano de gestión elaborará anualmente y comunicará a la Consejería competente por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad y el contenido, un inventario que contendrá todos los bienes muebles e inmuebles y derechos reales sobre los mismos cuyo valor exceda de 500 euros.
+4. La Dirección General competente designará un representante con derecho a asistir con voz y sin voto a las reuniones del Pleno o de cualesquiera órganos colegiados de gestión con funciones decisorias delegadas por aquél, para lo cual deberán recibirse en la sede de dicho órgano directivo las convocatorias, por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad y el contenido de lo notificado.
+5. El órgano de gestión comunicará de igual forma a la Dirección General competente la composición de sus órganos de gobierno y de administración, las modificaciones posteriores que en los mismos puedan producirse, así como el nombramiento y cese del secretario.
+6. Será obligación de los órganos de gestión facilitar al personal de la Consejería competente designado para la supervisión de sus procedimientos electorales cuanta información, documentación y colaboración requiera el desempeño de sus funciones.
+7. La Dirección General competente tramitará las quejas sobre las funciones de los órganos de gestión que no se refieran a la certificación, y procederá a realizar las comprobaciones y a adoptar las medidas que resultaren precisas.
+Se modifica el apartado 4 por el art. 1.4 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 40
+
+Artículo 40. Inspección.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 41
+
+Artículo 41. Medidas de restauración de la legalidad de carácter no sancionador.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+## TÍTULO VIII
+
+Régimen sancionador
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículos 42 a 47
+
+Artículos 42 a 47.
+(Derogados).
+Se derogan por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 42
+
+Artículo 42. Titularidad y ejercicio de la potestad sancionadora.
+1. El ejercicio de la potestad sancionadora de la Administración de la Comunidad Autónoma de Extremadura por las infracciones tipificadas en esta ley corresponde a la Consejería competente.
+2. La iniciación del procedimiento sancionador podrá ser ordenada por el titular de la Consejería competente o por el Director General con competencias en materia de calidad agroalimentaria. Dichos órganos serán asimismo competentes para ordenar la instrucción de informaciones previas, designar la persona que ha de instruir y, en su caso, la que deba desempeñar las funciones del secretario del procedimiento sancionador, así como adoptar medidas provisionales con el fin de evitar que se mantenga el incumplimiento de la legalidad o de asegurar la resolución que pudiera recaer.
+3. Será competente para dictar resolución sancionadora el titular del Servicio con competencias en materia de calidad agroalimentaria, cuando se trate de infracciones leves, y la Dirección General competente en materia de calidad agroalimentaria, en el caso de infracciones graves o muy graves.
+4. A petición del órgano de gestión, previa justificación de los medios que permitirán asegurar el ejercicio de la potestad sancionadora con cumplimiento de lo establecido en el ordenamiento jurídico, la persona titular de la Consejería competente podrá delegar el ejercicio de la potestad para sancionar las infracciones leves y graves de los operadores en el órgano de gestión. En este caso, las resoluciones sancionadoras competerán a la persona que ostente la presidencia.
+
+### Artículo 43
+
+Artículo 43. Infracciones en materia de denominaciones de origen o indicaciones geográficas.
+1. Constituirán infracciones leves específicas en materia de denominaciones de origen o indicaciones geográficas:
+a) Las inexactitudes u omisiones en los datos y comprobantes que en cada caso sean precisos en los registros de la denominación de origen o indicación geográfica, cuando la diferencia entre la cantidad consignada y la real no supere un cinco por ciento de esta última.
+b) No comunicar cualquier variación que afecte a los datos suministrados en el momento de la inscripción en los registros, cuando no haya transcurrido más de un mes desde que haya acabado el plazo fijado en la norma que regule el nivel de protección.
+c) Cualquier otra infracción de la norma reguladora de la denominación de origen o indicación geográfica que establezca obligaciones adicionales a las generales de cualquier operador en materia de declaraciones, libros-registro, documentos de acompañamiento y otros documentos de control.
+2. Constituirán infracciones graves específicas en materia de denominaciones de origen o indicaciones geográficas:
+a) La expedición, comercialización o circulación de productos amparados por la denominación de origen o indicación geográfica sin estar provistos de las contraetiquetas, precintas o marchamos numerados o cualquier otro medio de control establecido por la norma reguladora de la denominación de origen o indicación geográfica.
+b) Efectuar operaciones de elaboración, envasado o etiquetado de productos amparados por la denominación de origen o indicación geográfica en instalaciones no inscritas en los registros de la denominación de origen o indicación geográfica.
+c) El impago de las cuotas obligatorias establecidas para la financiación del órgano de gestión.
+d) Infringir lo establecido en el reglamento de la denominación de origen o indicación geográfica en desarrollo de lo establecido en los apartados segundo y tercero del artículo 6, cuando no constituyan infracción muy grave.
+3. Además de las establecidas en la normativa básica estatal, se considerarán infracciones muy graves específicas en materia de denominaciones de origen o indicaciones geográficas:
+a) Toda utilización comercial, directa o indirecta, de una denominación de origen o indicación geográfica para productos no amparados por el registro o la protección, en la medida en que sean comparables a los productos registrados o protegidos bajo dicha denominación o en la medida en que al usar la denominación se aprovechen de la reputación de la denominación de origen o indicación geográfica.
+b) Toda usurpación, imitación o evocación, aunque se indique el origen verdadero del producto o el servicio y aunque la denominación protegida o el uso protegido esté traducido o vaya acompañado de una expresión o términos como «género», «tipo», «método», «estilo», «imitación», «producido como» «sabor», «parecido» o una expresión o términos similares o análogos.
+c) Cualquier otro tipo de indicación falsa o engañosa en cuanto a la procedencia, el origen, la naturaleza o las características esenciales de los productos, en el envase o en el embalaje, en la publicidad o en los documentos relativos a los productos de que se trate, así como la utilización de envases que por sus características puedan crear una impresión errónea acerca de su origen.
+d) Cualquier otra práctica que pueda inducir a error al consumidor sobre el auténtico origen del producto.
+e) El uso de los nombres protegidos en productos a los que expresamente se les haya negado.
+f) La indebida tenencia, negociación o utilización de los documentos, etiquetas, contraetiquetas, marchamos, precintas y otros elementos de identificación propios de la denominación de origen o indicación geográfica, así como la falsificación de los mismos, siempre que esto no sea constitutivo de delito o falta.
+
+### Artículo 44
+
+Artículo 44. Responsabilidad por las infracciones.
+1. De las infracciones en productos envasados serán responsables las firmas o razones sociales que figuren en la etiqueta, bien nominalmente o bien mediante cualquier indicación que permita su identificación cierta. Asimismo será responsable solidario el elaborador, fabricante o envasador que no figure en la etiqueta si se prueba que conocía la infracción cometida y que prestó su consentimiento. En caso de que se hayan falsificado las etiquetas, la responsabilidad corresponderá a las personas que comercialicen los productos a sabiendas de la falsificación.
+2. De las infracciones en productos a granel, o envasados sin etiqueta, o cuando en la etiqueta no figure ninguna firma o razón social, será responsable su tenedor, excepto cuando se pueda identificar de manera cierta la responsabilidad de un tenedor anterior, sin perjuicio de la responsabilidad que corresponda al actual.
+3. De las infracciones relativas a plantaciones, replantaciones, reposiciones de marras, riego u otras actividades propias de la producción agropecuaria será responsable el titular de la explotación y, subsidiariamente, el propietario de la misma.
+4. De las infracciones cometidas por las personas jurídicas, incluidos los órganos de gestión y los organismos u órganos de inspección o control, serán responsables subsidiariamente los administradores o titulares de los mismos que no realizaren los actos necesarios que fuesen de su incumbencia para el cumplimiento de las obligaciones infringidas, consintieren el incumplimiento por quienes de ellos dependan o adoptaren acuerdos que hicieran posibles tales infracciones.
+5. Asimismo serán responsables subsidiariamente los técnicos responsables de la elaboración y control respecto de las infracciones directamente relacionadas con su actividad profesional.
+6. La responsabilidad administrativa por las infracciones reguladas en esta ley será independiente de la responsabilidad civil o penal que, en su caso, pueda exigirse a sus responsables, sin perjuicio de que no puedan concurrir dos sanciones cuando se aprecie identidad del sujeto, hecho y fundamento.
+
+### Artículo 45
+
+Artículo 45. Sanciones.
+1. Las infracciones leves serán sancionadas con apercibimiento o multa de hasta 2.000 euros, pudiendo rebasarse este importe hasta alcanzar el valor de las mercancías, productos o superficies objeto de la infracción. En materia de viticultura el cálculo del valor de los productos se realizará en la forma que se recoge en el apartado 2.
+2. Las infracciones graves serán sancionadas con multa comprendida entre 2.001 y 30.000 euros, pudiendo rebasarse esta cantidad hasta alcanzar el cinco por ciento del volumen de ventas del producto objeto de infracción, correspondiente al ejercicio económico inmediatamente anterior al de la iniciación del procedimiento sancionador.
+En el caso de infracciones graves en materia específica de viticultura, el importe de la sanción será del tanto al quíntuplo del valor de la producción afectada. Ésta se calculará multiplicando la producción anual media por hectárea en el quinquenio precedente en la zona o provincia donde esté enclavada la superficie afectada por el precio medio ponderado en el mismo período y en la misma zona y provincia.
+3. Las infracciones muy graves serán sancionadas con multa comprendida entre 30.001 y 300.000 euros, pudiendo rebasarse esta cantidad hasta alcanzar el 10 por ciento del volumen de ventas del producto objeto de infracción correspondiente al ejercicio económico, inmediatamente anterior al de la iniciación del procedimiento sancionador.
+4. Cuando las infracciones graves sean cometidas por operadores y afecten a la denominación de origen o indicación geográfica, podrá imponerse como sanción accesoria la pérdida temporal del uso del nombre protegido por un plazo máximo de tres años. Si se tratase de infracciones muy graves, podrá imponerse como sanción accesoria la pérdida temporal por un plazo máximo de cinco años o la pérdida definitiva de tal uso.
+5. En el supuesto de la comisión de infracción grave o muy grave, el órgano competente para resolver podrá imponer como sanción accesoria alguna de las siguientes:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del daño.
+b) Decomiso de mercancías, productos, envases, etiquetas y demás objetos relacionados con la infracción, o cuando se trate de productos no identificados.
+c) Clausura temporal, parcial o total, de la empresa sancionada, por un período máximo de cinco años.
+d) Suspensión de los organismos públicos u órganos de control, de forma definitiva o por un período máximo de 10 años.
+6. Las sanciones previstas en esta ley serán compatibles con la pérdida o retirada de derechos económicos previstos en la normativa comunitaria.
+
+### Artículo 46
+
+Artículo 46. Graduación de las sanciones.
+1. Para la determinación concreta de la sanción que se imponga, entre las asignadas a cada tipo de infracción, se tomarán en consideración los siguientes criterios:
+a) La existencia de intencionalidad o de simple negligencia.
+b) La reiteración, entendida como la concurrencia de varias irregularidades o infracciones que se sancionen en el mismo procedimiento.
+c) La naturaleza de los perjuicios causados; en particular, el efecto perjudicial que la infracción haya podido producir sobre la salud o intereses económicos de los consumidores, los precios, el consumo o, en su caso, el prestigio del producto amparado por la denominación de origen o indicación geográfica.
+d) La reincidencia, por comisión en el término de tres años de más de una infracción de la misma naturaleza, cuando así se haya declarado por resolución firme.
+e) El volumen de ventas o producción y la posición de la empresa infractora en el sector del producto agroalimentario de que se trate.
+f) El reconocimiento y la subsanación de las infracciones antes de que se resuelva el correspondiente procedimiento sancionador.
+g) La extensión de la superficie de cultivo, el número de animales de la explotación o el volumen y valor de las mercancías o productos afectados por la infracción.
+2. La sanción podrá minorarse motivadamente cuando los hechos constitutivos de la infracción sancionada ocasionen, al mismo tiempo, la pérdida o retirada de beneficios comunitarios en proporción a la efectiva pérdida o retirada de dichos beneficios o la suspensión o retirada de la certificación en proporción a los efectivos detrimentos patrimoniales de dichas medidas. Asimismo, podrá minorarse motivadamente la sanción, en atención a las circunstancias específicas del caso, cuando la sanción resulte excesivamente onerosa.
+3. Cuando en la instrucción del correspondiente procedimiento sancionador se determine la cuantía del beneficio ilícito obtenido por la comisión de las infracciones sancionadas, la sanción impuesta en ningún caso podrá ser inferior en su cuantía al mismo.
+
+### Artículo 47
+
+Artículo 47. Prescripción de las infracciones y sanciones.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años, y las leves al año.
+2. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años; las impuestas por infracciones graves a los dos años; y las impuestas por infracciones leves al año.
+
+## TÍTULO IX
+
+Colaboración y cooperación entre la Administración de la Comunidad Autónoma y los órganos de gestión
+
+### Artículo 48
+
+Artículo 48. Asistencia de la Administración de la Comunidad Autónoma.
+1. A petición de su presidente o por acuerdo del pleno del órgano de gestión, la Consejería competente podrá facilitar las colaboraciones, asesoramientos técnicos o supervisiones que se estimen precisos para el adecuado desempeño de sus funciones.
+2. Mediante la firma del correspondiente convenio con la Junta de Extremadura, podrá estipularse que la defensa y representación del órgano de gestión ante los diferentes órganos jurisdiccionales pueda ejercerse por los servicios jurídicos de la Administración de la Comunidad Autónoma de Extremadura.
+
+### Artículo 49
+
+Artículo 49. Comités de seguimiento de las denominaciones de origen o indicaciones geográficas.
+A fin de asegurar la colaboración y cooperación entre la Administración autonómica, los órganos de gestión y otras entidades y representantes relacionados con las denominaciones de origen e indicaciones geográficas, se podrán constituir comités de seguimiento de estas figuras de calidad diferenciada, cuya creación, composición, competencia, régimen de funcionamiento y adscripción administrativa se determinará reglamentariamente.
+
+## TÍTULO X
+
+Fomento de las denominaciones de origen e indicaciones geográficas
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Artículo 50
+
+Artículo 50. Fomento de las denominaciones de origen e indicaciones geográficas.
+(Derogado).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Indicaciones geográficas de bebidas espirituosas.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Denominaciones de origen o indicaciones geográficas sujetas a un distinto régimen jurídico.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Obligaciones aplicables a los organismos de inspección y a los laboratorios de ensayo.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Naturaleza de los reglamentos de las denominaciones de origen o indicaciones geográficas.
+Los reglamentos de las denominaciones de origen o indicaciones geográficas no se considerarán dictados en ejecución o desarrollo de ésta o de otras leyes.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Certificación relativa a denominaciones de origen o indicaciones geográficas registradas o protegidas con modificaciones de pliegos de condiciones publicadas pendientes de tramitación.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Aplicación de la legislación de defensa de los consumidores y usuarios.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Protección de otras denominaciones de origen o indicaciones geográficas.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Protección de las especialidades tradicionales garantizadas.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Obligación de los órganos de gestión existentes de presentar propuesta de reglamento y de estatutos de la denominación de origen o indicación geográfica adaptados a lo establecido en esta Ley.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Obligaciones de los consejos reguladores existentes que opten por ser organismos de certificación.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Recursos económicos de los Consejos Reguladores existentes.
+Desde la fecha de entrada en vigor de esta Ley, y en tanto no entren en vigor los nuevos reglamentos y estatutos de cada denominación de origen o indicación geográfica, los consejos reguladores existentes podrán percibir, en concepto de cuotas obligatorias y de contraprestaciones por servicios, los recursos que están autorizados a percibir, pudiendo dictar para ello los acuerdos necesarios, de los que se dará traslado a la Dirección General competente.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Solicitudes de registro o de protección de denominaciones de origen o indicaciones geográficas o de modificación de pliegos en tramitación.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procedimientos sancionadores en tramitación.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Configuración de los nuevos órganos de gestión como corporaciones de derecho público.
+Los consejos reguladores de las denominaciones de origen o indicaciones geográficas existentes antes de la aprobación de esta ley tendrán la consideración de corporaciones de derecho público a partir de la entrada en vigor del respectivo reglamento por el que se adapten a las previsiones de la misma.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Prórroga de los mandatos de los miembros de los órganos de gobierno de los consejos reguladores existentes.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Aplicación del Real Decreto 1945/1983, de 22 de junio.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas, en el ámbito de la Comunidad Autónoma de Extremadura, cuantas normas de igual o inferior rango se opongan a la presente Ley, en especial:
+a) Las tasas afectas al funcionamiento de los consejos reguladores reguladas en la Ley 18/2001, de 14 de diciembre, sobre Tasas y Precios Públicos de la Comunidad Autónoma de Extremadura y modificadas por Ley 8/2002, de 14 de noviembre, de Reforma Fiscal de la Comunidad Autónoma de Extremadura.
+b) Las infracciones reguladas en los reglamentos de las denominaciones de origen e indicaciones geográficas cuya demarcación territorial se localice íntegramente en Extremadura.
+c) El Decreto 171/2004, de 23 de noviembre, por el que se establece el reconocimiento del nivel de protección de los vinos de calidad con indicación geográfica en la Comunidad Autónoma de Extremadura.
+2. Sin perjuicio de lo establecido en las letras b) y c) del apartado anterior, mantendrán su vigencia para las denominaciones de origen e indicaciones geográficas de Extremadura, hasta que entren en vigor los reglamentos y estatutos por el que se adapten a la presente Ley:
+a) La Disposición Adicional Tercera de la Ley 12/2002, de 19 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Extremadura para 2003.
+Se deroga la letra b) del apartado 2 por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición final primera
+
+Disposición final primera. Aplicación de preceptos sobre medidas cautelares o previas y de restauración de legalidad a los fraudes agroalimentarios e infracciones sobre comercialización de productos pesqueros.
+(Derogada).
+Se deroga por el art. 1.5 de la Ley 2/2016, de 17 de marzo. Ref. BOE-A-2016-3542.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación genérica a favor del Consejo de Gobierno de la Junta de Extremadura.
+Se autoriza al Consejo de Gobierno de la Junta de Extremadura para que dicte cuantas disposiciones resulten necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el Diario Oficial de Extremadura.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta Ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 28 de abril de 2010.–El Presidente de la Junta de Extremadura, Guillermo Fernández Vara.

@@ -1,0 +1,229 @@
+# Ley 4/2009, de 28 de mayo, de publicidad institucional de Castilla y León.
+
+- Identificador BOE: `BOE-A-2009-9629`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-9629
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 25.5 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente ley
+EXPOSICIÓN DE MOTIVOS
+En los últimos años se ha producido una importante evolución de la actividad y organización de la Administración de la Comunidad de Castilla y León, derivada de la ampliación de las competencias asumidas, así como de los medios y formas de acción disponibles.
+El último hito de esta evolución ha sido la aprobación de la reforma del Estatuto de Autonomía de Castilla y León por Ley Orgánica 14/2007, de 30 de noviembre, que amplía las posibilidades de acción de nuestra Comunidad, incrementando su autogobierno y el reconocimiento de un conjunto de derechos a los ciudadanos.
+La evolución de la Administración y la ampliación de los derechos de los ciudadanos en su relación con ésta han hecho que la comunicación entre la Administración y los ciudadanos sea cada vez más necesaria, y, a la vez, más compleja, por lo que es preciso contar con un marco normativo y con mecanismos propios que contribuyan a que esa comunicación sea lo más eficaz, accesible y transparente posible.
+Por otro lado, en el ámbito del Estado, en los últimos años, se han producido novedades normativas en materia de publicidad institucional, con la aprobación de la Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional, que recoge contenidos de carácter básico y, por tanto, aplicables a todas las Comunidades Autónomas.
+Además, el actual Estatuto de Autonomía de Castilla y León, en su artículo 70.1.30.ª, atribuye a la Comunidad de Castilla y León la competencia exclusiva en materia de publicidad institucional, sin perjuicio de la legislación del Estado, y reconoce, en su artículo 12, como derecho de los ciudadanos, el de recibir información suficiente sobre los servicios y prestaciones a los que pueden acceder y sobre las condiciones del acceso a los mismos. Igualmente, en su artículo 16, establece como principios rectores de las políticas públicas garantizar la plena eficacia de objetivos como la proyección exterior de Castilla y León, la difusión de la riqueza cultural y patrimonial de la Comunidad o el fomento de la presencia cultural, económica y social de Castilla y León en el exterior.
+Por tanto, el incremento de la actividad de los sujetos públicos y las novedades incorporadas por el Estatuto, así como la puesta en marcha y desarrollo de la estrategia Marca Territorio Castilla y León y el despliegue digital de los medios audiovisuales justifican, entre otras cuestiones, la oportunidad de acometer en este momento una regulación de la publicidad institucional en Castilla y León.
+La ley parte de la necesidad de la publicidad institucional y pretende que ésta se desarrolle con plena eficacia y transparencia, y al servicio de los intereses generales. Para ello, la ley delimita su ámbito de aplicación obligando a todos los sujetos integrantes del sector público autonómico y a las entidades locales de la Comunidad de Castilla y León, al considerar que el interés público que debe perseguir la publicidad institucional aconseja que su régimen jurídico se aplique a todas las administraciones e instituciones públicas. Además, define el concepto de publicidad institucional para lograr una actuación uniforme en esta materia y establece los principios y la finalidad que han de presidirla.
+La ley tiene en cuenta los retos del siglo XXI, previendo la utilización de medios electrónicos para la difusión de la publicidad institucional y exigiendo que se opte por soportes que contribuyan a la protección del medio ambiente. Además, para avanzar en el logro de la plena igualdad efectiva entre todos los ciudadanos, y de conformidad con lo previsto en el artículo 49 de la Constitución y en artículo 13.8 del Estatuto de Autonomía, establece los mecanismos necesarios para garantizar la accesibilidad de todos los mensajes, medios y soportes a las personas con algún tipo de discapacidad.
+Para asegurar el cumplimiento de lo previsto en la ley y el respeto a los principios establecidos en ella, se prevé la regulación de un procedimiento por el que cualquier persona afectada en sus derechos o intereses podrá solicitar el cese o modificación de cualquier acción contraria a las limitaciones previstas en esta norma. Además, se crea la Comisión Autonómica de Publicidad Institucional, como órgano encargado del análisis y seguimiento de la acción de publicidad institucional de los sujetos sometidos a esta norma.
+Por último, y de acuerdo con el principio de transparencia, se prevé la remisión a las Cortes de Castilla y León de un informe anual sobre la publicidad institucional de los sujetos sometidos a esta ley, para que aquellas puedan ejercer su esencial función de control.
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente ley tiene por objeto regular la publicidad institucional desarrollada por los siguientes sujetos:
+a) La Administración General de la Comunidad.
+b) Los organismos autónomos y los entes públicos de derecho privado integrantes de la Administración Institucional de la Comunidad.
+c) Las empresas y fundaciones públicas de la Comunidad.
+d) Las universidades públicas.
+e) Las Cortes de Castilla y León.
+f) El Consejo Económico y Social.
+g) El Procurador del Común.
+h) El Consejo Consultivo.
+i) El Consejo de Cuentas.
+j) Los órganos con dotación diferenciada en los presupuestos generales de la Comunidad no comprendidos en los apartados anteriores.
+k) Las entidades locales de la Comunidad de Castilla y León, así como las instituciones o entidades públicas dependientes de ellas y cualesquiera otras personas jurídicas en las que participen mayoritariamente.
+l) Los consorcios dotados de personalidad jurídica, a los que se refieren los artículos 6 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y 87 de la Ley 7/1985, reguladora de las Bases del Régimen Local.
+m) El resto de entes o instituciones públicas dependientes de la Comunidad y cualesquiera otras personas jurídicas en las que participen mayoritariamente.
+2. Queda excluida del ámbito de aplicación de esta ley la publicidad que los sujetos previstos en el apartado anterior realicen de las disposiciones normativas y actos que deban publicarse en cumplimiento de la normativa vigente, así como la que lleven a cabo en el ejercicio de una actividad comercial, industrial o mercantil.
+
+### Artículo 2
+
+Artículo 2. Definición.
+Se considera publicidad institucional, a los efectos de lo previsto en esta ley, aquella forma de comunicación pública, promovida, contratada o financiada por uno o varios de los sujetos previstos en el artículo anterior y realizada a través de cualquier medio, físico, electrónico o digital y utilizando soportes pagados o cedidos, con la finalidad de transmitir a una pluralidad de ciudadanos mensajes veraces de interés público relacionados con sus objetivos y actividades, garantizando con ello la eficacia de las políticas públicas.
+Se modifica por el art. único.1 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 3
+
+Artículo 3. Principios y valores.
+1. La publicidad institucional respetará los principios y valores recogidos en la Constitución y en el Estatuto de Autonomía de la Comunidad de Castilla y León.
+2. Las actuaciones de publicidad institucional tendrán en cuenta la diversidad territorial, social y cultural de la Comunidad de Castilla y León, y deberán respetar los principios rectores y objetivos de las políticas públicas establecidos en el artículo 16 del Estatuto de Autonomía y, en concreto, los siguientes principios:
+a) Aplicación de criterios objetivos, de libre concurrencia y transparencia a los procedimientos de contratación, incluso en los contratos menores.
+b) Objetividad y veracidad en los contenidos.
+c) Protección del derecho al honor, a la intimidad y a la propia imagen.
+d) Protección a la infancia y respeto y protección a las personas mayores.
+e) Igualdad de oportunidades de las personas con discapacidad.
+f) Respeto a la diversidad de razas, etnias y religiones.
+g) Igualdad entre mujeres y hombres.
+h) Protección del medio ambiente.
+i) Evaluación de impactos y efectos.
+j) Eficacia y eficiencia.
+k) Responsabilidad y rendición de cuentas.
+3. Los sujetos incluidos en el ámbito de aplicación de esta ley promoverán la participación de la iniciativa privada en el desarrollo de acciones de publicidad institucional en aquellos supuestos en que, por su finalidad, se considere adecuado.
+4. La Administración de la Comunidad de Castilla y León adoptará las medidas necesarias para potenciar la implantación de las nuevas tecnologías de la comunicación, con objeto de que los contenidos de la publicidad institucional puedan llegar a los ciudadanos de una forma eficaz y accesible.
+Se modifica el apartado 2 por el art. único.2 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 4
+
+Artículo 4. Finalidad.
+1. La publicidad institucional tendrá como finalidad principal difundir entre los ciudadanos mensajes objetivos y veraces de interés público relacionados con las competencias y atribuciones del sujeto que lleve a cabo la acción publicitaria.
+2. En concreto, la publicidad institucional promoverá el reconocimiento de las instituciones de la Comunidad; la difusión de la lengua castellana, del patrimonio histórico, artístico y natural, de los productos agroalimentarios, así como del resto de señas de identidad de Castilla y León; y la proyección exterior de los productos y servicios de la Comunidad.
+Asimismo, fomentará el conocimiento y utilización de los servicios públicos y la práctica de hábitos sociales saludables; y difundirá aquellos comportamientos que contribuyan a lograr la seguridad en el ámbito familiar, social, y laboral.
+3. Además, la publicidad institucional contribuirá a promover la integración social, la tolerancia, el respeto, el civismo democrático, y la cultura de la paz y del diálogo en el ámbito social, económico y laboral.
+Se modifica el apartado 1 por el art. único.3 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 5
+
+Artículo 5. Soportes y formas de difusión.
+1. La publicidad institucional podrá realizarse a través de cualquier medio escrito, auditivo o visual y en cualquier tipo de soporte estático o dinámico. Para llevar a cabo la publicidad institucional se podrá utilizar, además, cualquier medio o técnica electrónica.
+Sin perjuicio de lo previsto en el párrafo anterior, para el desarrollo de la publicidad institucional se escogerán los medios más adecuados al mensaje que se pretende transmitir y a los destinatarios a los que va dirigido. Asimismo, se utilizarán los soportes que contribuyan de forma más eficaz a la protección del medio ambiente y al desarrollo sostenible.
+1 bis. Cuando se trate de contratar formatos, soportes o medios digitales se atenderá a las particularidades del medio y a las métricas propias de la analítica web.
+2. La publicidad institucional se realizará en lengua castellana, si bien podrá emplearse el resto del patrimonio lingüístico de la Comunidad, conforme a lo previsto en el Estatuto de Autonomía. Asimismo, podrá utilizarse el portugués cuando la publicidad institucional esté relacionada con la cooperación transfronteriza con regiones de Portugal.
+Además, podrán utilizarse otras lenguas cuando fuera necesario por los destinatarios o el ámbito de difusión de la acción de publicidad institucional de que se trate.
+Se añade el apartado 1 bis por el art. único.4 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 6
+
+Artículo 6. Accesibilidad.
+1. Las actuaciones de publicidad institucional deberán efectuarse de forma accesible para las personas con algún tipo de discapacidad.
+2. La elección de los medios y soportes a través de los que se desarrollen las acciones de publicidad institucional se realizará con el objetivo de lograr el nivel más alto posible de accesibilidad mediante los procedimientos existentes.
+
+### Artículo 7
+
+Artículo 7. Identidad corporativa.
+La publicidad institucional se adaptará a la normativa en materia de identidad corporativa o imagen institucional del sujeto o sujetos que promuevan la acción de publicidad.
+
+### Artículo 8
+
+Artículo 8. Limitaciones.
+1. Las actuaciones de publicidad institucional que se lleven a cabo en la Comunidad de Castilla y León están sometidas a las prohibiciones previstas en la legislación básica estatal en la materia.
+2. No podrán llevarse a cabo actuaciones de publicidad institucional que tengan como finalidad destacar los logros de gestión o los objetivos alcanzados por los sujetos previstos en el artículo 1.
+3. La publicidad institucional no podrá incluir contenidos y mensajes contrarios a los principios, valores y símbolos de la Comunidad de Castilla y León que se recogen en su Estatuto de Autonomía.
+3 bis. No podrán llevarse a cabo actuaciones de publicidad institucional ajenas a las competencias y atribuciones propias de los sujetos que las realicen.
+4. La publicidad institucional no podrá incluir contenidos y mensajes que sean sexistas o discriminatorios por razón de género, edad, raza, religión, opinión, orientación sexual o cualquier otra condición o circunstancia personal o social.
+5. Las actuaciones de publicidad institucional no podrán llevarse a cabo durante el periodo de tiempo comprendido entre el día de la convocatoria de elecciones a las Cortes de Castilla y León o de consultas populares previstas en el Estatuto de Autonomía de Castilla y León, y el día de la votación.
+Sin perjuicio de lo señalado en el párrafo anterior, y de acuerdo con lo previsto en la normativa electoral vigente, se podrán llevar a cabo las actuaciones que, conforme a los principios de objetividad y transparencia en el proceso electoral e igualdad entre los actores electorales, tengan por objeto facilitar a los ciudadanos las informaciones que prevé dicha normativa, así como las que resulten imprescindibles para la salvaguarda del interés público y el correcto desenvolvimiento de los servicios públicos.
+6. Se prohíbe la contratación de cualquier tipo de campaña de publicidad o comunicación institucional con medios de comunicación social que hayan sido condenados en sentencia firme de forma reiterada a rectificar informaciones inexactas, por vulnerar el derecho al honor y a la intimidad y a la propia imagen de las personas o por delitos de odio, tanto en el caso en el que hayan sido directamente condenados como si esta condena recae en sus trabajadores y colaboradores en el ejercicio de su trabajo para dicho medio.
+Se entenderá por reiterada esta circunstancia cuando se haya producido una condena firme por estos delitos dos veces en los tres últimos años o tres o más veces en los últimos cinco años anteriores a la contratación de la campaña.
+7. Los mensajes, diseños, imágenes, colores y otros elementos de identificación, o la presentación de las campañas institucionales de publicidad y de comunicación no podrán inducir a confusión con los empleados por cualquier formación política u organización social.
+8. No se podrán difundir campañas institucionales de publicidad que no se identifiquen claramente como tales y que no incluyan la mención expresa de la Administración o entidad promotora o contratante.
+9. En ningún caso el conjunto de los contratos que tengan por objeto acciones de publicidad institucional que se celebren con una persona o entidad propietaria de un medio de comunicación podrá suponer un ingreso para las mismas que supere el 33 % del importe neto de su cifra anual de negocio.
+Se añaden los apartados 3 bis, 6, 7, 8 y 9 por el art. único.5 a 9 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 9
+
+Artículo 9. Garantías.
+1. Cualquier persona física o jurídica, afectada en sus derechos o intereses legítimos, o entidad que tenga por finalidad velar por el respeto de los valores y principios que han de informar las actuaciones de publicidad institucional, podrá solicitar ante la Comisión de Secretarios Generales el cese inmediato o la rectificación de una actuación de publicidad institucional que considere que vulnera las limitaciones previstas en el artículo anterior.
+2. En la forma y con los efectos que se determinen en las normas reglamentarias a que se refiere la disposición final segunda de esta ley, las solicitudes de cese o modificación de una actividad de publicidad institucional se tramitarán con arreglo a un procedimiento preferente y abreviado en el que la Comisión de Secretarios Generales podrá, a requerimiento de quien presente la solicitud, acordar la suspensión provisional si aprecia indicios de vulneración manifiesta y deberá, en todo caso, resolver sobre el fondo en un plazo máximo de seis días. Esta resolución, que será ejecutiva, pondrá fin a la vía administrativa.
+Se modifica el apartado 2 por el art. único.10 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+ Se modifica por el art. 18.1 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 10
+
+Artículo 10. Contratación.
+1. Los contratos que tengan por objeto acciones de publicidad institucional se efectuarán con sometimiento a lo previsto en esta ley y a lo dispuesto en la normativa vigente en materia de contratos del sector público.
+2. Reglamentariamente, podrán establecerse los criterios que han de incluirse en los pliegos para la adjudicación de contratos que tengan por objeto acciones de publicidad institucional, en los que, en cualquier caso, se tendrá en cuenta la utilización de procedimientos de acondicionamiento para permitir la accesibilidad con arreglo a las normas técnicas aplicables, así como los datos o índices comparativos, precisos y fiables, sobre la difusión y audiencia de los medios en los que se vayan a llevar a cabo dichas acciones y la garantía de un equilibrio territorial.
+3. En cualquier caso, no se contratará publicidad institucional, ya sea de forma directa o a través de las agencias o empresas adjudicatarias de los planes de medios, con aquellos medios de comunicación que hayan sido condenados reiteradamente en el sentido establecido en el apartado 6 del artículo 8 de la presente ley. Dicha prohibición será extensiva a consejerías, agencias administrativas, agencias de régimen especial, consorcios, agencias públicas empresariales, sociedades mercantiles de participación mayoritaria o fundaciones del sector público.
+Se modifica el apartado 2 y se añade el apartado 3 por el art. único.11 y 12 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Artículo 11
+
+Artículo 11. Órgano de planificación y seguimiento.
+1. La Comisión de Secretarios Generales actuará como órgano colegiado de estudio, análisis, planificación y seguimiento de las actividades de publicidad institucional de la Administración de la Comunidad y sus entes adscritos.
+2. La Comisión de Secretarios Generales, a propuesta de la consejería competente en materia de publicidad institucional, ejercerá las siguientes funciones:
+a) Velar por la adecuación a la presente ley de las actuaciones de publicidad institucional de la Administración de la Comunidad y sus entes adscritos.
+b) Elaborar la planificación anual prevista en esta ley.
+c) Resolver las solicitudes de cese y rectificación de las actividades de publicidad institucional de la Administración de la Comunidad y de sus entes adscritos, así como cualquier otra cuestión que se plantee en relación con dichas actividades.
+d) Realizar las sugerencias, estudios e informes que se consideren oportunas en materia de publicidad institucional.
+e) Velar por la adecuación de las acciones de publicidad institucional de la Administración de la Comunidad y de sus entes adscritos a la Marca Territorio Castilla y León.
+f) Cualquier otra función que se le atribuya en materia de publicidad institucional o en relación con la Marca Territorio Castilla y León.
+3. La Comisión de Secretarios Generales podrá recabar de los diferentes departamentos de la Administración y de sus entes adscritos los datos e informaciones necesarios para el ejercicio de las funciones previstas en el apartado anterior.
+Se modifica por el art. 18.2 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+ Se modifica por la disposición final 23 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 12
+
+Artículo 12. Planificación.
+1. La Comisión de Secretarios Generales, con carácter anual, elaborará un plan de publicidad institucional que recogerá las previsiones de actuación en materia de publicidad institucional de la Administración de la comunidad autónoma y sus entes adscritos.
+2. El plan anual de publicidad institucional será aprobado por el Consejo de Gobierno, a propuesta de la consejería con competencias en política informativa.
+3. El plan se someterá a los principios de transparencia activa, su contenido será publicado en el Portal de Transparencia de la Comunidad Autónoma de Castilla y León. Igualmente, se someterá a los principios de publicidad previstos en la normativa de transparencia los contratos suscritos en este ámbito.
+Se modifica por el art. único.13 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+ Se modifica por el art. 18.3 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+ Se modifica por la disposición final 23 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Artículo 13
+
+Artículo 13. Evaluación.
+1. Se realizará un informe de evaluación de cada una de las campañas de publicidad institucional, elaborado por el Consejo de Cuentas de Castilla y León, que tenga en cuenta el análisis previo al lanzamiento de la campaña, los resultados, el impacto de la campaña en la audiencia y en la propia organización.
+2. Se remitirán estos informes anualmente a los grupos parlamentarios de las Cortes de Castilla y León.
+Se añade por el art. único.14 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+ Se deroga por la disposición derogatoria única.2.d) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 14
+
+Artículo 14. Transparencia y rendición de cuentas.
+1. Se publicará una memoria anual, elaborada por el Consejo de Cuentas de Castilla y León, sobre la inversión realizada en publicidad institucional, donde se muestre información sobre las campañas realizadas, su calendario, imágenes de la creatividad, el gasto por campaña y por medio de comunicación y el gasto por soporte.
+2. Esta memoria se remitirá a los grupos parlamentarios de las Cortes de Castilla y León, para que puedan ejercer adecuadamente su función de control.
+3. Trimestralmente se remitirá a los grupos parlamentarios de las Cortes de Castilla y León una relación de todos los contratos de publicidad institucional formalizados en cada trimestre, incluyendo también los contratos menores.
+Se añade por el art. único.15 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Disposición adicional primera
+
+Disposición adicional primera. Marca Territorio Castilla y León.
+1. Una vez definida la Marca Territorio Castilla y León, las acciones para su difusión y publicidad se ajustarán a lo previsto en esta ley.
+2. Las acciones de publicidad institucional deberán reflejar la Marca Territorio Castilla y León a partir del momento en que esté definida y en los supuestos y la forma que se determinen en sus normas de aplicación.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Consejo de Evaluación y Seguimiento de la Televisión Digital Terrestre.
+1. Se crea el Consejo de Evaluación y Seguimiento de la Televisión Digital Terrestre de ámbito autonómico en la Comunidad de Castilla y León, con la función de ejercer el control del cumplimiento de su función de servicio público para la difusión de la riqueza cultural y patrimonial de la comunidad y como instrumento capital para la información y participación política y social de los ciudadanos castellanos y leoneses.
+2. El Consejo estará integrado por miembros elegidos por las Cortes de Castilla y León, por mayoría de dos tercios. Si esta mayoría no se consigue en el plazo de tres meses desde la primera votación, será suficiente mayoría absoluta. La Mesa de las Cortes de Castilla y León, en su primera sesión tras la constitución de las Cortes de Castilla y León, fijará el número de miembros del Consejo de Evaluación y Seguimiento de la Televisión Digital Terrestre que, proporcionalmente, corresponda proponer a cada grupo parlamentario, aplicando para ello la regla D'Hondt al número de procuradores que tenga cada grupo parlamentario y respetando las mayorías parlamentarias. En todo caso, todos los grupos parlamentarios tendrán, al menos, un representante.
+3. Los candidatos propuestos por los grupos parlamentarios deben ser personas de relevantes méritos profesionales relacionados con la gestión y administración del sector público y/o con el sector audiovisual y los medios de comunicación.
+4. Corresponden al Consejo de Evaluación y Seguimiento de la Televisión Digital Terrestre las siguientes funciones:
+a) Determinar las necesidades de interés público que deben ser atendidas por este servicio, así como las condiciones para su financiación, aprobando un plan anual, que será sometido a la aprobación de las Cortes de Castilla y León, y se llevará a cabo a través de los instrumentos legalmente previstos y, en especial, a través de contratos-programa.
+b) Aprobar un libro de estilo para los contratos-programa.
+c) Velar por la independencia de la información difundida y promover la neutralidad editorial en lo referido a sus funciones de servicio público.
+d) Establecer las actividades y objetivos específicos a cumplir por las concesionarias u operadores en el ejercicio de su función y misión de servicio público.
+e) Fijar los objetivos de audiencia para entender satisfechas las funciones de servicio público y el cumplimiento de los objetivos de los contratos-programa.
+f) Aprobar las compensaciones económicas que anualmente hayan de percibir las concesionarias, con cargo a los Presupuestos de la comunidad autónoma, por la gestión y prestación del servicio público de televisión y de servicios digitales conexos e interactivos.
+g) Evaluar con periodicidad trimestral si los servicios de la programación incluida se ajustan a la misión de servicio público encomendada.
+h) Aprobar el informe anual sobre el cumplimiento de la misión de servicio público atribuida y fiscalizar si la programación emitida se ajusta al objetivo de servicio público encomendado y si altera la competencia en el mercado audiovisual. Durante la evaluación se les deberá otorgar audiencia a los distintos interesados, y sus resultados deberán publicarse.
+i) Determinar un procedimiento de control periódico de la financiación pública que reciban los operadores, así como las medidas de reequilibrio necesarias para que su destino sea el establecido en la presente ley.
+j) Recabar la información contable que considere necesaria sobre las actuaciones y contratos desarrollados o que prevean realizarse y la situación económica de las concesionarias del servicio, que deberá ser revisada por auditores de cuentas, de acuerdo con lo dispuesto en la legislación mercantil, debiendo poner a disposición del Consejo sus cuentas anuales. Cuando la financiación pública, por cualquier concepto, que perciban las entidades concesionarias supere el 50 % del importe neto de su cifra de negocios, la adjudicación de los contratos-programa estará siempre condicionada a la aceptación de la intervención del Consejo en el nombramiento del personal directivo, que deberá ser ratificado con criterios de profesionalidad e imparcialidad, estando igualmente el Consejo facultado para promover su destitución.
+5. Formará también parte del Consejo, en su caso, un representante de los trabajadores de las entidades concesionarias.
+6. En el plazo de seis meses se determinará reglamentariamente la organización y funcionamiento del Consejo y, en su caso, su dotación económica. Las Cortes de Castilla y León deberán iniciar la elección de los miembros del Consejo en el plazo de un mes desde la aprobación de esta ley.
+Se modifica por el art. único.16 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Convocatoria nuevo concurso para la concesión de la televisión autonómica.
+La Junta de Castilla y León procederá a la convocatoria, en el plazo máximo de tres meses desde la entrada en vigor de esta ley, de un nuevo concurso, con criterios de publicidad y transparencia, para una nueva concesión de la televisión autonómica que garantice la subrogación de los actuales trabajadores e incluya cláusulas sociales que garanticen sus condiciones laborales.
+Se añade por el art. único.16 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Actuaciones comunicativas durante los períodos electorales.
+Durante los períodos establecidos en el apartado 5 del artículo 8 de esta ley, y sin perjuicio de lo establecido en el párrafo segundo de dicho apartado, quedan prohibidas todas aquellas actuaciones comunicativas consistentes en presentaciones públicas, inauguraciones u otros eventos de naturaleza análoga, relativas a proyectos, planes, realizaciones o resultados de los sujetos enumerados en el artículo 1 de esta ley.
+Se añade por el art. único.17 de la Ley 1/2025, de 3 de julio. Ref. BOE-A-2025-15048
+
+### Disposición final primera
+
+Disposición final primera. Consejo Audiovisual de Castilla y León.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de la Ley 1/2012, de 28 de febrero. Ref. BOE-A-2012-4385
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+La Junta de Castilla y León dictará las normas reglamentarias que sean precisas para el desarrollo de esta ley en el plazo de un año desde su entrada en vigor.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Castilla y León.
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que correspondan que la hagan cumplir.
+Valladolid, 28 de mayo de 2009. El Presidente de la Junta de Castilla y León, Juan Vicente Herrera Campo.

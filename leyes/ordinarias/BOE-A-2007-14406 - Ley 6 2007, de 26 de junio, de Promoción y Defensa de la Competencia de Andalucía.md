@@ -1,0 +1,351 @@
+# Ley 6/2007, de 26 de junio, de Promoción y Defensa de la Competencia de Andalucía.
+
+- Identificador BOE: `BOE-A-2007-14406`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-14406
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de Promoción y Defensa de la Competencia de Andalucía.
+EXPOSICIÓN DE MOTIVOS
+I
+El Tratado Constitutivo de la Comunidad Europea establece, en su artículo 4, que los Estados miembros instaurarán una política económica que se aplicará respetando el principio de una economía de mercado abierta y de libre competencia. Asimismo el artículo 38 de la Constitución Española reconoce la libertad de empresa en el marco de la economía de mercado y establece que los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.
+La fundamentación económica de estos principios jurídicos se encuentra en que la competencia es un elemento básico para el desarrollo económico y social de cualquier sociedad avanzada. En condiciones de competencia efectiva se asignan los recursos productivos a favor de los operadores o las técnicas más eficientes y, por tanto, se incentiva la innovación y se fomenta la productividad. Esta mejora de la eficiencia productiva se traslada a los consumidores mediante una reducción de los precios o un aumento de la variedad y calidad de los productos ofertados, con la consiguiente mejora del bienestar del conjunto de la sociedad.
+La libre competencia es, por todo ello, uno de los pilares del mercado único, contribuyendo el derecho a competir libremente a la igualdad de oportunidades de la ciudadanía europea, más allá de su papel de personas que trabajan, consumen o crean empresas. En este contexto, la experiencia demuestra que los resultados de la libre competencia son difíciles de alcanzar, por este motivo se precisa la intervención de los poderes públicos para establecer y mantener condiciones adecuadas de libertad real y competencia, con la finalidad de proteger y garantizar los legítimos intereses de las personas consumidoras y usuarias, por tratarse de un principio rector de la política social y económica y una obligación de los poderes públicos impuesta por la Constitución y el Estatuto de Autonomía para Andalucía.
+II
+La normativa española de defensa de la competencia se inspira en las normas comunitarias de política de competencia, y establece un sistema de defensa de la competencia que instrumenta un conjunto de intervenciones de los poderes públicos para evitar aquellas prácticas y situaciones que puedan afectar a la libre competencia de las empresas.
+Conforme a la Sentencia del Tribunal Constitucional 208/1999, de 11 de noviembre, referida a la Ley 16/1989, de 17 de julio, la defensa de la competencia corresponde al Estado de forma exclusiva en la vertiente legislativa, mientras que la vertiente ejecutiva puede corresponder a las Comunidades Autónomas en virtud de sus propios Estatutos, si bien limitada a las actuaciones que se realicen en su territorio y que no afecten al conjunto nacional o al mercado supracomunitario, supuestos que son competencia del Estado. Como consecuencia de dicha Sentencia se aprobó la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia.
+La Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de promoción de la competencia, conforme a lo establecido en el artículo 58.1.5.º del Estatuto de Autonomía para Andalucía, y competencia ejecutiva en defensa de la competencia, de acuerdo con lo dispuesto en el apartado 4.5.º del citado artículo. A estos efectos el artículo 164 dispone la creación por ley de un órgano independiente de defensa de la competencia, y contempla que la Junta de Andalucía pueda instar a los organismos estatales de defensa de la competencia cuanto estime necesario para el interés general de Andalucía en esta materia.
+En ejercicio de esta facultad, la Comunidad Autónoma de Andalucía, mediante la presente Ley, establece un modelo que, con la finalidad de mejorar el funcionamiento competitivo de los mercados, refuerza la independencia del órgano de control y la eficacia y eficiencia de los mecanismos de defensa de la competencia en Andalucía, creando un organismo autónomo especializado e independiente con capacidad jurídica pública diferenciada que se denomina «Agencia de Defensa de la Competencia de Andalucía».
+La Agencia de Defensa de la Competencia de Andalucía actuará en el marco de la política económica general de la Junta de Andalucía y en coordinación con los organismos afines de la Unión Europea y del Estado, a través de la Red Europea y Española de la Competencia. En este sentido, la Agencia de Defensa de la Competencia de Andalucía deberá tener en cuenta los criterios de colaboración y los mecanismos de cooperación e intercambio de información recíproca adecuados, siempre dentro de sus respectivas atribuciones legales.
+De otro lado, mediante la presente Ley la Comunidad Autónoma de Andalucía viene a ejercer competencias de ejecución de la legislación estatal en materia de defensa de la competencia. Por tanto, dichas funciones se llevarán a cabo dentro de un sistema de aplicación compartida de la normativa estatal reguladora de la defensa de la competencia, y de acuerdo con los criterios de conexión y los mecanismos de cooperación de la información recíproca establecidos en la Ley 1/2002, de 21 de febrero.
+Los fines generales de esta Ley se dirigen a establecer un sistema de defensa de la competencia en Andalucía que permita, de forma efectiva, promover y preservar el funcionamiento competitivo de los mercados, proteger a las personas consumidoras y usuarias y contribuir a la libertad de empresa, la estabilidad de precios y el crecimiento económico, y con ello al bienestar social.
+III
+La presente Ley se estructura en dos títulos que regulan, respectivamente, la creación y el funcionamiento de la Agencia de Defensa de la Competencia de Andalucía, y los órganos que integran la misma. Esta división en dos títulos se fundamenta en el modelo que se establece, en cuanto, por un lado, se crea un único organismo para la aplicación de la normativa sobre defensa de la competencia y, por otro, se diferencian dentro del mismo los órganos que intervienen en el proceso para garantizar la independencia en la adopción de las resoluciones, así como la separación de las fases de instrucción y resolución.
+El Título I recoge los aspectos sustanciales del funcionamiento de la Agencia, y se divide en tres capítulos. En lo que se refiere al Capítulo I, la Ley establece con detalle las funciones de promoción y defensa de la competencia, de acuerdo con lo regulado en la citada Ley 1/2002, de 21 de febrero. Como novedad introduce la promoción de la competencia, especialmente en el ámbito del control normativo que se lleva a cabo mediante la elaboración de informes. El Capítulo II contempla los medios de la Agencia, comprendiendo el régimen de personal, económico, financiero y de contratación, así como los procedimientos en materia de defensa de la competencia, remitiéndose, en lo relativo a este aspecto, a lo dispuesto en la normativa estatal reguladora de la defensa de la competencia, de acuerdo con la naturaleza de las competencias que se vienen a ejercer. El Capítulo III incide en la transparencia con el fin de ofrecer un marco de publicidad de sus resoluciones, y en colaboración con otros organismos y entidades.
+En el Título II se regulan los órganos de la Agencia y las funciones de los mismos. Para conferirle operatividad y eficiencia, la Agencia contará con una Dirección-Gerencia que ostentará la representación y dirección de la misma. De otro lado, establece el Consejo de Defensa de la Competencia de Andalucía como órgano colegiado de resolución y dictamen, y el Departamento de Investigación de Defensa de la Competencia de Andalucía, como órgano de instrucción y vigilancia.
+Asimismo, la Agencia estará constituida por la Secretaría General, a la que corresponde la asistencia jurídica y la administración general, y por el Departamento de Estudios, Análisis de Mercados y Promoción de la Competencia. La creación de este Departamento destaca como aspecto relevante en la organización de la Agencia, al que se atribuye el asesoramiento económico especializado, a fin de impulsar la competencia y el funcionamiento eficiente de los mercados implantando valores y condiciones que conduzcan a la libre competencia, así como la divulgación de las ventajas que comporta, tanto de carácter económico como social.
+La presente Ley se ha elaborado teniendo en cuenta las sugerencias de los agentes económicos y sociales, organizaciones, asociaciones y demás entidades y órganos con interés en este ámbito.
+
+## TÍTULO I
+
+Creación y funcionamiento de la Agencia de la Competencia y de la Regulación Económica de Andalucía.
+Se modifica la referencia a la "Agencia de Defensa de la Competencia de Andalucía" por la disposición adicional única.a) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO I
+
+Naturaleza, fines y funciones
+
+### Artículo 1
+
+Artículo 1. Denominación y naturaleza.
+1. La Agencia de la Competencia y de la Regulación Económica de Andalucía, en adelante, la Agencia, se constituye como organismo público de los previstos en la disposición adicional segunda de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, y estará adscrita a la Consejería competente en materia de economía.
+2. La Agencia de la Competencia y de la Regulación Económica de Andalucía, en lo sucesivo la Agencia, goza de personalidad jurídica pública diferenciada, plena capacidad jurídica y de obrar, patrimonio y tesorería propios, así como autonomía de gestión para el cumplimiento de sus fines.
+3. La Agencia ejercerá sus funciones con objetividad, profesionalidad, sometimiento al ordenamiento jurídico y plena independencia en el ejercicio de las mismas.
+Se modifica el apartado 1 y la denominación de la "Agencia de Defensa de la Competencia de Andalucía" por el art. 10.1 y 2 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 2
+
+Artículo 2. Fines generales.
+1. La Agencia tiene como fines generales promover y preservar el funcionamiento competitivo de los mercados, así como contribuir a mejorar su regulación económica, garantizando la existencia de una competencia efectiva en los mismos y protegiendo los intereses generales, especialmente de las personas consumidoras y usuarias, mediante el ejercicio de sus funciones en todo el territorio de la Comunidad Autónoma de Andalucía.
+2. A los efectos previstos en el apartado anterior, se entiende por mejora de la regulación económica el conjunto de actuaciones e instrumentos mediante los cuales los poderes públicos, al elaborar o aplicar las normas que inciden en las actividades económicas, aplican los principios de eficiencia, necesidad, proporcionalidad, seguridad jurídica, transparencia, accesibilidad, simplicidad y eficacia para propiciar un marco normativo que contribuya a alcanzar un modelo productivo acorde con los principios y objetivos básicos previstos en el artículo 157 del Estatuto de Autonomía para Andalucía.
+Se modifica por el art. 15.1 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
+ Se modifica por el art. 14.1 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
+
+### Artículo 3
+
+Artículo 3. Competencias y funciones.
+La Agencia, según lo establecido en la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia, o normativa estatal que la sustituya, desarrollará las siguientes competencias y funciones:
+a) Realizar, de oficio o a instancia de parte, la instrucción, investigación y resolución de procedimientos en materia de defensa de la competencia en el territorio de Andalucía, en aplicación de la normativa estatal reguladora de la defensa de la competencia. Asimismo podrá imponer las multas coercitivas y sancionadoras previstas en la citada normativa y, en su caso, declarar la prescripción de la acción para exigir el cumplimiento de las sanciones que correspondan.
+b) Implantar el Sistema de Información de Promoción y Defensa de la Competencia de Andalucía para garantizar la publicidad de sus actuaciones; y promover y acordar la terminación convencional de los procedimientos tramitados como consecuencia de las conductas contempladas en la normativa estatal reguladora de la defensa de la competencia.
+c) Vigilar la ejecución y cumplimiento de las resoluciones que se adopten en aplicación de la presente Ley sobre defensa de la competencia adoptando las medidas cautelares que procedan.
+d) Ser consultada, con carácter facultativo, en materia de promoción y defensa de la competencia, así como sobre la aplicación de los principios de una regulación eficiente y favorecedora de la competencia y de la unidad de mercado.
+e) Promover la competencia en los mercados respecto de las actividades económicas que se realicen principalmente en Andalucía, y realizar estudios y trabajos de investigación de los sectores económicos, analizando la situación y grado de competencia de cada uno de ellos, así como la posible existencia de prácticas restrictivas de la competencia. Asimismo, en virtud de dichos estudios e investigaciones podrá recomendar la adopción de medidas conducentes a la remoción de los obstáculos en que se ampare la restricción en el marco de la política económica general de la Junta de Andalucía.
+f) Informar y asesorar en materia de promoción y defensa de la competencia en Andalucía y, en particular en los procedimientos de otorgamiento de licencias comerciales que, en virtud de la legislación del comercio aplicable, sean competencia de la Junta de Andalucía, en los términos que establezcan los Estatutos de la Agencia.
+g) Colaborar, dentro de sus competencias, con los organismos equivalentes de las Comunidades Autónomas y de la Administración del Estado. Estas funciones se realizarán en coordinación con los departamentos competentes de la Administración de la Junta de Andalucía y, en particular, con los órganos competentes en materia de consumo.
+h) Informar los anteproyectos de ley por los que se modifique o derogue, total o parcialmente, el presente texto legal, así como los proyectos de normas reglamentarias que lo desarrollen.
+i) Informar en el plazo de un mes los anteproyectos de ley y proyectos de reglamento de la Administración de la Junta de Andalucía que incidan en las actividades económicas, la competencia efectiva en los mercados o a la unidad de mercado, con el objetivo de proteger los intereses generales, especialmente de las personas consumidoras y usuarias y para favorecer el desarrollo socioeconómico de Andalucía. A tal efecto, el órgano de la Administración de la Junta de Andalucía encargado de la elaboración del proyecto normativo remitirá a la Agencia la información y documentación relativa a dichas cuestiones. Asimismo, las entidades locales podrán solicitar la emisión de este informe en relación con sus propuestas normativas.
+j) Formular recomendaciones sobre materias de promoción y defensa de la competencia a los órganos, entidades y organizaciones públicas y privadas que se establezcan en los Estatutos de la Agencia.
+k) Instar a los organismos estatales de defensa de la competencia cuanto estime necesario para el interés general de Andalucía en esta materia.
+l) Representar a la Comunidad Autónoma en el marco de la cooperación entre administraciones públicas en materia de la unidad de mercado.
+m) Poner en relación, de una parte, a los operadores económicos y las personas consumidoras y usuarias o las organizaciones que los representen, y, de otra, a las autoridades y órganos competentes, acerca de los obstáculos y barreras que se detecten a la unidad de mercado. En estos casos, la Agencia emitirá informe acerca de la posible vulneración de la normativa de unidad de mercado.
+n) Todas aquellas funciones que le sean atribuidas por ley o por decreto.
+Se modifican los apartados d), i), k) y se añaden los apartados l) a n) por el art. 15.2 y 3 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
+ Se modifican los apartados d), i), k) y se añaden los apartados l) a n) por el art. 14.2 y 3 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
+
+## CAPÍTULO II
+
+Medios y procedimientos
+
+### Artículo 4
+
+Artículo 4. Régimen de personal, económico, financiero y de contratación.
+1. La Agencia dispondrá de recursos suficientes para el cumplimiento de sus fines, y contará con el personal funcionario y laboral que se determine en la Relación de Puestos de Trabajo y con los medios materiales que resulten necesarios.
+2. Para el cumplimiento de las funciones que tiene atribuidas, la Agencia se estructurará en los servicios administrativos que se establezcan en su Relación de Puestos de Trabajo.
+La Agencia contará con personal funcionario y laboral, en los mismos términos y condiciones que los establecidos para el resto del personal al servicio de la Administración de la Junta de Andalucía.
+3. Los recursos de la Agencia serán los siguientes:
+a) Los créditos que se le asignen para cada ejercicio en el Presupuesto de la Comunidad Autónoma de Andalucía, en los que se incluirán las consignaciones para el cumplimiento de los fines que la presente Ley le atribuye.
+b) Los productos y rentas de su patrimonio.
+c) Los ingresos propios derivados de su actividad.
+d) Cualquier otro recurso que pudiera serle atribuido conforme a la normativa de aplicación.
+4. El patrimonio de la Agencia estará integrado por los bienes y derechos de la Comunidad Autónoma que se le adscriban y por los que adquiera por cualquier título, conforme a lo dispuesto en el artículo 74 de la Ley 4/1986, de 5 de mayo, del Patrimonio de la Comunidad Autónoma de Andalucía.
+5. La Agencia estará sometida al régimen presupuestario establecido en la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, y en las leyes del Presupuesto de la Comunidad Autónoma de Andalucía para cada ejercicio. La Agencia elaborará anualmente un anteproyecto de Presupuesto y lo remitirá a la Consejería competente en la materia para, en su caso, proceder a su elevación al Consejo de Gobierno y posterior remisión al Parlamento de Andalucía integrado en el Presupuesto de la Comunidad Autónoma de Andalucía.
+Asimismo estará sometida al régimen de intervención y contabilidad, de acuerdo con lo establecido en los Títulos V y VI de la referida Ley 5/1983, de 19 de julio, así como a las demás determinaciones establecidas en la citada ley y disposiciones de aplicación.
+El régimen de contratación de la Agencia será el aplicable a las Administraciones Públicas, de acuerdo con lo establecido en el texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio.
+
+### Artículo 5
+
+Artículo 5. Procedimientos y recursos.
+1. Los procedimientos que se tramiten por los órganos de la Agencia en materia de defensa de la competencia se regirán por lo dispuesto en la normativa estatal reguladora de la defensa de la competencia y, supletoriamente, en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como en la demás normativa de aplicación.
+2. Para el cumplimiento de sus funciones en materia de defensa de la competencia, el Consejo de la Competencia de Andalucía, el Departamento de Investigación de Defensa de la Competencia de Andalucía y los demás órganos de la Agencia que se regulan en el Título II de esta Ley gozarán de los derechos y prerrogativas que tienen reconocidos los órganos equivalentes de la Administración del Estado en la normativa estatal reguladora de la defensa de la competencia y, en particular, de la potestad de efectuar intimaciones o requerimientos, imponer sanciones y multas coercitivas, así como de establecer y adoptar medidas cautelares.
+3. Las resoluciones y demás actos que, en el ejercicio de sus funciones, dicten la Dirección del Departamento de Investigación de Defensa de la Competencia de Andalucía y la Dirección del Departamento de Promoción de la Competencia y de Mejora de la Regulación Económica, regulados en el Título II de esta Ley, serán recurribles ante el Consejo de la Competencia de Andalucía, en los términos que establece la normativa aplicable en materia de defensa de la competencia.
+4. Las resoluciones y demás actos dictados por el Consejo de la Competencia de Andalucía pondrán fin a la vía administrativa y sólo podrán ser recurridos en los términos establecidos en la normativa aplicable en materia de defensa de la competencia.
+Se modifican las referencias al "Consejo de Defensa de la Competencia de Andalucía" y al "Departamento de Estudios, Análisis de Mercados y Promoción de la Competencia" por la disposición adicional única.c) y d) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO III
+
+Transparencia y colaboración
+
+### Artículo 6
+
+Artículo 6. Publicidad.
+1. La Agencia hará públicos las resoluciones y demás actos y actuaciones en materia de defensa de la competencia por medios informáticos y telemáticos y, en su caso, mediante su publicación en el Boletín Oficial de la Junta de Andalucía y en cualquier otro medio o diario que considere oportuno, en los términos y con el alcance que se establezcan en la normativa aplicable en materia de defensa de la competencia. La Agencia podrá asimismo acordar la publicación de sus resoluciones no sancionadoras.
+2. La Agencia hará pública la memoria anual de actuaciones, que enviará a la persona titular de la Consejería competente en materia de economía y a la Comisión competente en materia de economía del Parlamento de Andalucía.
+
+### Artículo 7
+
+Artículo 7. Relaciones con otras Administraciones, colaboración y cooperación.
+1. Para una mayor eficacia en el ejercicio de sus funciones, la Agencia podrá celebrar convenios de colaboración con entidades públicas y privadas, españolas y extranjeras, así como con los agentes económicos y sociales, organizaciones o asociaciones de consumidores y usuarios más representativas de Andalucía integradas en el Consejo de los Consumidores y Usuarios, organismos sectoriales, particularmente con la Comisión del Mercado de las Telecomunicaciones y la Comisión Nacional de la Energía y autoridades de defensa de la competencia que considere procedente.
+2 . Las Administraciones Públicas están obligadas a suministrar a los órganos de defensa de la competencia regulados en esta Ley la información que requieran para el ejercicio de sus funciones, así como a emitir los informes o estudios que se les soliciten.
+3. Cualquier Administración Pública, órgano o entidad, que tenga conocimiento de hechos que puedan ser contrarios a las normas de defensa de la competencia, dará traslado a la Agencia de la información y documentación que esté en su poder y que tenga relación con tales hechos, a fin de que, si procede, se inicie la tramitación del correspondiente procedimiento.
+4. El Consejo Económico y Social de Andalucía y el Consejo de Consumidores y Usuarios de Andalucía tienen el carácter de órganos de participación social, y, como tales, podrán ser consultados por los órganos que componen la Agencia.
+
+### Artículo 8
+
+Artículo 8. Deber de secreto.
+1. Todas las personas que tomen parte en la instrucción, tramitación y resolución de los expedientes a que se refiere la presente Ley, o que por razón de su cargo o profesión tuvieran conocimiento de su contenido, están obligadas a guardar secreto sobre el mismo, con las excepciones establecidas legalmente en la normativa de aplicación.
+2. La obligación de guardar secreto se mantendrá aun después de cesar en el cargo o empleo.
+3. El incumplimiento de esta obligación determinará, en su caso, las responsabilidades penales y civiles oportunas y las demás previstas en las leyes.
+
+## TÍTULO II
+
+Órganos de promoción y defensa de la competencia
+
+## CAPÍTULO I
+
+Organización
+
+### Artículo 9
+
+Artículo 9. Composición.
+La Agencia estará constituida por los siguientes órganos:
+a) La Dirección de la Agencia.
+b) El Consejo de la Competencia de Andalucía.
+c) El Departamento de Investigación de Defensa de la Competencia de Andalucía.
+d) El Departamento de Promoción de la Competencia y Mejora de la Regulación Económica.
+e) La Secretaría General.
+Se modifica por el art. 10.3 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO II
+
+La Dirección de la Agencia de la Competencia y de la Regulación Económica de Andalucía
+Se modifica la referencia a la "Dirección-Gerencia" por la disposición adicional única.b) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 10
+
+Artículo 10. Naturaleza y funciones.
+1. La Dirección de la Agencia de la Competencia y de la Regulación Económica de Andalucía es el órgano que ostenta la representación y dirección de la Agencia.
+2. Corresponde a la Dirección de la Agencia:
+a) Ejercer la representación legal de la Agencia.
+b) Representar a la Agencia en las relaciones con otros organismos u órganos análogos.
+c) Formular consulta ante el Consejo Económico y Social de Andalucía y el Consejo de Consumidores y Usuarios de Andalucía.
+d) Aprobar las normas internas de funcionamiento, en las cuales se establecerán su régimen administrativo y la organización de sus servicios y órganos.
+e) Nombrar y acordar el cese, de conformidad con la legislación aplicable al personal funcionario, de las personas titulares de la Secretaría General y de las Direcciones del Departamento de Investigación de Defensa de la Competencia y del Departamento de Promoción de la Competencia y de Mejora de la Regulación Económica.
+f) Proponer el proyecto de relación de puestos de trabajo del personal al servicio de la Agencia, de conformidad con la normativa de aplicación.
+g) Ejercer las funciones de dirección en relación al personal de la Agencia, en los términos establecidos en la normativa de aplicación y de acuerdo con lo que reglamentariamente se determine.
+h) Aprobar el borrador de anteproyecto de presupuesto del organismo.
+i) Autorizar los gastos, efectuar las disposiciones, contraer obligaciones y ordenar pagos, dentro de los límites fijados por la normativa en materia presupuestaria.
+j) Aprobar la memoria anual y las cuentas anuales.
+k) Asistir, en representación de la Comunidad Autónoma de Andalucía, a las reuniones del Consejo de la Competencia de Andalucía, creado por la Ley 1/2002, de 21 de febrero.
+l) Designar a las personas que representen a la Comunidad Autónoma de Andalucía y que deban asistir a las sesiones de la Junta Consultiva en materia de conflictos, creada por la Ley 1/2002, de 21 de febrero.
+m) Desarrollar las funciones de punto de contacto previstas en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado, o norma que la sustituya, de conformidad con la disposición adicional segunda de la Ley 3/2014, de 1 de octubre.
+n) Coordinar la planificación y la evaluación periódica de la mejora de la regulación económica andaluza para valorar su impacto en la economía andaluza y en la unidad de mercado.
+ñ) Impulsar la regulación económica eficiente y la eliminación de trabas administrativas a los operadores económicos, en los términos que establezcan los Estatutos de la Agencia.
+o) Ejercer todas aquellas facultades que le atribuyan los Estatutos de la Agencia, y demás normativa de aplicación, así como las que le sean delegadas.
+Se modifica la letra m) y se añaden las letras n), ñ) y o) al apartado 2 y se modifican las referencias al "Consejo de Defensa de la Competencia de Andalucía", al "Departamento de Estudios, Análisis de Mercados y Promoción de la Competencia" y a la "Dirección-Gerencia" por el art. 10.4 y la disposición adicional única.b), c) y d) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 11
+
+Artículo 11. Nombramiento.
+La persona titular de la Dirección de la Agencia será nombrada y separada por Decreto del Consejo de Gobierno, a propuesta de la persona titular de la Consejería competente en materia de economía, entre juristas, economistas y otros profesionales, todos ellos de reconocido prestigio.
+Tendrá la consideración de alto cargo y, cuando el nombramiento recaiga en una persona al servicio de la Administración Pública en activo, pasará a la situación de servicios especiales o equivalente. Ejercerá su función con dedicación absoluta y estará sometida a la Ley 3/2005, de 8 de abril, de incompatibilidades de Altos Cargos de la Administración de la Junta de Andalucía y de Declaración de Actividades, Bienestar e Intereses de Altos Cargos y Otros Cargos Públicos.
+Se modifica por el art. 10.5 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO III
+
+El Consejo de la Competencia de Andalucía.
+Se modifica la referencia al "Consejo de Defensa de la Competencia de Andalucía" por la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 12
+
+Artículo 12. Naturaleza y funciones.
+El Consejo de la Competencia de Andalucía es el órgano de resolución y dictamen de la Agencia, que ejerce sus funciones en el ámbito territorial de la Comunidad Autónoma de Andalucía, con objetividad, profesionalidad, plena independencia y sometimiento al ordenamiento jurídico.
+Se modifica la referencia al "Consejo de Defensa de la Competencia de Andalucía" por la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 13
+
+Artículo 13. Funcionamiento.
+1. El Consejo de la Competencia de Andalucía actuará como órgano colegiado y se compondrá de una Presidencia, que gozará de voto de calidad, y de dos a cuatro Vocalías, denominadas Primera, Segunda y, en su caso, Tercera y Cuarta, según se determine en los Estatutos de la Agencia.
+2. La Secretaría del Consejo será ejercida por la persona titular de la Secretaría General de la Agencia, que asistirá a sus reuniones con voz, pero sin voto. En el supuesto de ausencia, vacante o enfermedad, será sustituida por la persona titular de la Dirección del Departamento de Promoción de la Competencia y Mejora de la Regulación Económica.
+3. En los supuestos de ausencia, vacancia, enfermedad, incapacidad, abstención, recusación o de suspensión cautelar prevista en el artículo 15.3, la persona titular de la Presidencia será sustituida por las personas titulares de las Vocalías Primera, Segunda, Tercera o Cuarta, por este orden.
+4. El Consejo quedará válidamente constituido con la asistencia, presencial o a distancia, de las personas titulares de la Presidencia y de la Secretaría o, en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.
+5. El Consejo de la Competencia de Andalucía tendrá adscritas, como sistema racional de reparto de asuntos, la Sección de Resoluciones y la Sección de Control e Informes.
+Se modifica por el art. 10.6 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 14
+
+Artículo 14. Nombramiento.
+1. Las personas titulares de la Presidencia del Consejo de la Competencia de Andalucía y de las Vocalías serán nombradas por el Consejo de Gobierno mediante Decreto, a propuesta de la persona titular de la Consejería competente en materia de economía, entre juristas, economistas y otros profesionales, todos ellos de reconocido prestigio.
+2. La duración del mandato será de cinco años, renovables por una sola vez.
+No obstante, expirado el plazo del mandato correspondiente, continuarán en el ejercicio de sus funciones hasta la toma de posesión de las nuevas Vocalías o, en su caso, de la Presidencia.
+3. La duración del mandato de las personas que sucedan a quienes no lo hubieran completado será por el tiempo que les reste, salvo que sea inferior a un año, en cuyo caso la posibilidad de renovación en el cargo se amplía a dos mandatos.
+4. Las personas titulares de la Presidencia y de las Vocalías del Consejo de la Competencia de Andalucía, no tendrán la condición de alto cargo, y desempeñarán sus funciones sin dedicación absoluta ni exclusividad y, en consecuencia, no percibirán retribuciones periódicas de naturaleza alguna por el desarrollo de sus funciones. No obstante, las personas titulares de la Presidencia y de las Vocalías tendrán derecho a percibir una compensación económica que se determinará estatutariamente.
+Se modifica por el art. 10.7 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+ Se modifica el apartado 4 y se añade el apartado 5 por la disposición final 3 del Decreto-ley 10/2013, de 17 de diciembre. Ref. BOJA-b-2013-90256.
+
+### Artículo 15
+
+Artículo 15. Causas de cese y suspensión en el ejercicio del cargo.
+1. Los miembros del Consejo de la Competencia de Andalucía cesarán en su cargo por:
+a) Fallecimiento.
+b) Renuncia.
+c) Expiración del término de su mandato.
+d) Incompatibilidad de sus funciones.
+e) Incumplimiento grave de sus funciones.
+f) Incapacidad permanente física o mental que imposibilite para el ejercicio del cargo.
+g) Condena por delito doloso en virtud de sentencia firme.
+2. El cese será acordado por el Consejo de Gobierno. En los casos previstos en las letras d), e) y f) del apartado anterior se seguirá el procedimiento que se determine en los Estatutos de la Agencia, requiriéndose en todo caso audiencia de la persona interesada e informe del resto de miembros del Consejo de la Competencia de Andalucía.
+3. Cualquier miembro del Consejo de la Competencia de Andalucía podrá ser suspendido cautelarmente en el ejercicio de sus funciones por el Consejo de Gobierno, siguiendo el procedimiento que establezcan los Estatutos de la Agencia, requiriéndose en todo caso audiencia de la persona interesada e informe favorable del resto de miembros del Consejo de la Competencia de Andalucía y durante un período no superior a seis meses para resolver acerca de la concurrencia de alguna de las causas de cese.
+Se modifican las referencias al "Consejo de Defensa de la Competencia de Andalucía" por la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 16
+
+Artículo 16. Competencias.
+1. Corresponden al Consejo de la Competencia de Andalucía todas las funciones y facultades de resolución de procedimientos establecidos en la normativa estatal reguladora de la defensa de la competencia, relativos a actividades económicas que, sin afectar a un ámbito territorial más amplio que el de la Comunidad Autónoma de Andalucía, alteren o puedan alterar la libre competencia en el mercado en el ámbito territorial de ésta, así como la adopción de las medidas previstas en la normativa estatal relativas a la colusión en los procedimientos de contratación del sector público.
+2. Asimismo, le corresponde emitir los dictámenes en materia de libre competencia, unidad de mercado y mejora de su regulación económica, interesar la instrucción de expedientes por el Departamento de Investigación de Defensa de la Competencia de Andalucía, adoptar las medidas cautelares que procedan, resolver sobre las recusaciones e informar sobre la incompatibilidad, incapacidad y el incumplimiento grave de sus funciones por la Presidencia o las Vocalías, y en los procedimientos disciplinarios del personal funcionario adscrito a este consejo y todas aquellas atribuciones que establezcan los estatutos de la Agencia.
+3. Para el ejercicio de sus competencias, tanto el Presidente como los Vocales del Consejo de la Competencia, contarán con el suficiente apoyo jurídico y económico de carácter estrictamente profesional e independiente.
+Se modifica el apartado 1 y la referencia al "Consejo de Defensa de la Competencia de Andalucía" por el art. 10.8 y la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+ Se modifican los apartados 1 y 2 por el art. 15.4 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
+ Se modifican los apartados 1 y 2 por el art. 14.4 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
+
+### Artículo 17
+
+Artículo 17. Funciones de la Presidencia.
+Son funciones de la Presidencia del Consejo de la Competencia de Andalucía:
+a) Convocar el Consejo a iniciativa propia o a petición de cualquiera de las Vocalías y presidirlo.
+b) Establecer el criterio de distribución de los asuntos.
+c) Mantener el buen orden y gobierno del Consejo.
+d) Dar cuenta de las vacantes que se produzcan en el Consejo.
+e) Delegar en las Vocalías aquellas funciones que considere conveniente.
+f) Cualquier otra que se establezca en los Estatutos de la Agencia y las que le sean delegadas.
+Se modifica la referencia al "Consejo de Defensa de la Competencia de Andalucía" por la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO IV
+
+El Departamento de Investigación de Defensa de la Competencia de Andalucía
+
+### Artículo 18
+
+Artículo 18. Naturaleza y funciones.
+1. El Departamento de Investigación de Defensa de la Competencia de Andalucía es el órgano que ejerce las funciones de iniciación, instrucción, investigación y vigilancia a las que se refiere la normativa estatal reguladora de la defensa de la competencia, respecto de los procedimientos que son competencia de la Comunidad Autónoma de Andalucía. Con este objeto mantendrá relaciones de colaboración con los organismos equivalentes de las Comunidades Autónomas y de la Administración General del Estado, realizando las comunicaciones y notificaciones previstas legalmente en los procedimientos de asignación.
+2. Asimismo, corresponde a este Departamento en el ámbito de sus funciones:
+a) Ordenar y ejecutar la inspección sobre empresas.
+b) Llevar a cabo tareas de detección de prácticas anticompetitivas en la contratación del sector público andaluz. A tal efecto, los poderes adjudicadores le facilitarán la información y documentación necesarias para el desarrollo de esta misión.
+c) Realizar observaciones en materia de mejora de la regulación y unidad demercado.
+Se modifica por el art. 10.9 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+ Se modifica por el art. 15.5 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
+ Se modifica por el art. 14.5 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
+
+### Artículo 19
+
+Artículo 19. Dirección del Departamento de Investigación de Defensa de la Competencia de Andalucía.
+1. La persona titular de la Dirección del Departamento de Investigación de Defensa de la Competencia de Andalucía ostentará la jefatura del mismo, y ejercerá todas las competencias que la presente Ley atribuye a este Departamento, así como las facultades que establezcan los Estatutos de la Agencia y demás normativa de aplicación, y las que le sean delegadas.
+2. En el ejercicio de sus competencias, la persona titular de la Dirección y el personal funcionario debidamente autorizado adscrito a este Departamento gozarán de las potestades previstas en la normativa estatal reguladora de la defensa de la competencia.
+3. Para el ejercicio de sus competencias, la Dirección del Departamento de Investigación de Defensa de la Competencia de Andalucía, contará con el suficiente apoyo jurídico y económico de carácter estrictamente profesional e independiente.
+
+## CAPÍTULO V
+
+El Departamento de Promoción de la Competencia y de Mejora de la Regulación Económica.
+Se modifica la referencia al "Departamento de Estudios, Análisis de Mercados y Promoción de la Competencia" por la disposición adicional única.d) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Artículo 20
+
+Artículo 20. Naturaleza y funciones.
+1. El Departamento de Promoción de la Competencia y Mejora de la Regulación Económica es el órgano que ejerce el asesoramiento en materia de promoción de la competencia y de mejora de la regulación económica. Asimismo, le corresponde la gestión del Sistema de Información de Promoción y Defensa de la Competencia de Andalucía y, en particular, la instrumentación de la publicidad de las actuaciones de la Agencia a través de medios informáticos y telemáticos.
+2. Corresponden a este Departamento las siguientes funciones:
+a) Realizar los estudios de competencia y análisis de mercados dirigidos a promover la competencia.
+b) Llevar a cabo tareas de información, asesoramiento y propuesta para favorecer la competencia efectiva y contribuir a la mejora de la regulación económica y a la unidad de mercado. En particular, elaborar las propuestas de informe sobre proyectos normativos.
+c) Elaborar la memoria anual de la Agencia.
+d) Asistir a la Dirección de la Agencia en las funciones de mejora de la regulación económica y unidad de mercado, así como en las labores de colaboración y cooperación con otros organismos.
+e) Prestar asistencia al Consejo en la elaboración de informes y recomendaciones.
+3. La persona titular de la Dirección del Departamento de Promoción de la Competencia y Mejora de la Regulación Económica ejercerá las facultades que se determinen en los Estatutos de la Agencia y demás normativa de aplicación, así como las que le sean delegadas.
+Se modifica por el art. 10.10 del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+## CAPÍTULO VI
+
+La Secretaría General
+
+### Artículo 21
+
+Artículo 21. Naturaleza y funciones.
+1. La Secretaría General asumirá la asistencia jurídica así como la administración del presupuesto y el régimen interno de la Agencia.
+2. En particular corresponde a la Secretaría General:
+a) Prestar asistencia y colaboración al Consejo en el cumplimiento de las funciones que le son propias y, en concreto, en relación con la tramitación de los procedimientos en materia de defensa de la competencia.
+b) Velar por la correcta y adecuada ejecución de las resoluciones del Consejo de la Competencia de Andalucía, así como elevarle periódicamente los informes relativos al grado de cumplimiento.
+c) Llevar a cabo tareas de asistencia jurídica, velando por la observancia de los trámites y plazos de los procedimientos. Asimismo, realizar las tareas de coordinación para la representación y defensa de la Agencia ante los órganos judiciales.
+d) Llevar a efecto la gestión de los asuntos relacionados con el personal y las generales de administración, registro y archivo.
+e) Asistir a la Dirección de la Agencia en la elaboración del borrador del anteproyecto de presupuesto y en la ejecución del mismo.
+f) Elaborar las cuentas anuales de la Agencia.
+g) Ejercer aquellas facultades que le atribuyan los Estatutos de la Agencia, y demás normativa de aplicación, así como las que le sean delegadas.
+Se modifica el apartado 2.c) y las referencias al "Consejo de Defensa de la Competencia" y a la "Dirección-Gerencia" por el art. 10.11 y la disposición adicional única.b) y c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+ Se modifica el apartado 2.c) por el art. 15.6 de la Ley 3/2014, de 1 de octubre. Ref. BOE-A-2014-10663.
+ Se modifica el apartado 2.c) por el art. 14.6 del Decreto-ley 5/2014, de 22 de abril. Ref. BOJA-b-2014-90289.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Normativa aplicable.
+Las actuaciones que desarrollen los órganos de la Agencia de la Competencia y de la Regulación Económica de Andalucía en dicha materia no contempladas expresamente en la presente Ley se regirán por lo dispuesto en la normativa estatal reguladora de la defensa de la competencia.
+Se modifica la referencia a la "Agencia de Defensa de la Competencia de Andalucía" por la disposición adicional única.a) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Deber de colaboración.
+Toda persona física o jurídica tiene el deber de colaborar con el Consejo de la Competencia y el Departamento de Investigación de Defensa de la Competencia de Andalucía, de acuerdo con lo dispuesto la normativa estatal reguladora de la defensa de la competencia.
+Se modifica la referencia al "Consejo de Defensa de la Competencia de Andalucía" por la disposición adicional única.c) del Decreto-ley 2/2020, de 9 de marzo. Ref. BOJA-b-2020-90058
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación para la ejecución y desarrollo.
+Se autoriza al Consejo de Gobierno a dictar las disposiciones necesarias para la ejecución y desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en funcionamiento.
+1. La constitución efectiva de la Agencia tendrá lugar en el momento de entrada en vigor de sus Estatutos, que deberán ser aprobados por el Consejo de Gobierno mediante Decreto, en el plazo de seis meses a partir de la entrada en vigor de la presente Ley.
+2. La Consejería de Economía y Hacienda, dentro de las disponibilidades presupuestarias existentes, habilitará los créditos necesarios y realizará las oportunas modificaciones presupuestarias para la puesta en marcha, funcionamiento y ejercicio de las competencias y funciones de la Agencia.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+
+Sevilla, 26 de junio de 2007.
+El Presidente de la Junta de Andalucía, Manuel Chaves González.

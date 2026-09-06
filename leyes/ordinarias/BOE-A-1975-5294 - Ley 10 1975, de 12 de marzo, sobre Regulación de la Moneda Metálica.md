@@ -1,0 +1,159 @@
+# Ley 10/1975, de 12 de marzo, sobre Regulación de la Moneda Metálica.
+
+- Identificador BOE: `BOE-A-1975-5294`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1975-5294
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La acuñación y emisión de las diversas clases de monedas que componen en la actualidad el sistema monetario metálico de nuestro país se rigen por una serie de Leyes dispersas, en cada una de las cuales aparecen reguladas tanto las características físicas de la correspondiente especie de moneda (metales empleados en la aleación, peso, tamaño), como la cuantía de las monedas de cuya emisión se trata.
+Es claro, por consiguiente, que en el marco de la actual normativa sólo mediante un precepto de rango igual al indicado pueden alterarse las características y condiciones de cada emisión, lo que, en la práctica tiende a que sean mantenidas inalteradas dichas particularidades legales, aunque la circulación monetaria ponga de manifiesto múltiples inconvenientes que no pudieron, preverse cuando se promulgó el correspondiente precepto. A título de ejemplo, pueden citarse: La escasa aplicación a las transacciones de alguna especie de moneda, el exceso del valor intrínseco de la aleación prevista para una moneda en relación con su valor facial, la escasez o encarecimiento de alguno o algunos de los metales empleados en las diversas aleaciones y, finalmente, la frecuente coincidencia del aspecto, peso y diámetro de alguna especie monetaria con las relativas a otra u otras monedas extranjeras de muy distinto poder adquisitivo.
+Todas estas razones plantean la necesidad de dictar una Ley que establezca los principios básicos del nuevo sistema monetario metálico español, en la que se reconozca expresamente la alta prerrogativa que en materia de omisión corresponde a las Cortes. Se configura, por otra parte, el sistema, a través de un cuadro enunciativo de las distintas clases de monedas que lo componen y del formal compromiso de fijar en las sucesivas Leyes de Presupuestos Generales del Estado los límites máximos de circulación de moneda metálica durante el correspondiente ejercicio económico.
+Al propio tiempo se regulan las competencias de los órganos que deben intervenir en su ejecución, como son el Gobierno, Ministerio de Hacienda y Banco de España, para adecuar las características técnicas de las monedas a las necesidades que demanda la realidad de cada momento.
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:
+
+### Artículo primero
+
+Artículo primero.
+La acuñación de moneda es potestad exclusiva del Estado y se ejercerá de acuerdo con la que so dispone en la presente Ley.
+
+### Artículo segundo
+
+Artículo segundo.
+La unidad del sistema monetario español es la peseta. El Ministerio de Economía y Hacienda determinará las monedas que en cada momento compongan el sistema monetario metálico español y sus correspondientes valores faciales.
+Se modifica por la disposición adicional 14 de la Ley 21/1986, de 23 de diciembre. Ref. BOE-A-1986-33382.
+
+### Artículo tercero
+
+Artículo tercero.
+(Derogado)
+Se deroga por el art. 77.1 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Artículo cuarto
+
+Artículo cuarto.
+De conformidad con la aprobación del Banco Central Europeo en cuanto al volumen de emisión, prevista en el artículo 105.A.2 del Tratado, el Ministerio de Economía y Hacienda acordará la acuñación de moneda metálica y, en particular:
+a) Su valor facial y el número de piezas.
+b) Su aleación, peso, forma y dimensiones.
+c) Las leyendas y motivos de su anverso y reverso. Las monedas de una peseta llevarán siempre la imagen de S. M. el Rey en el anverso y el escudo de España en el reverso.
+d) La fecha inicial de emisión.
+Se modifica el párrafo primero por la disposición adicional única de la Ley 12/1998, de 28 de abril. Ref. BOE-A-1998-10047.
+ Se modifica el párrafo primero por la disposición adicional 3 de la Ley 13/1994, de 1 de junio. Ref. BOE-A-1994-12553.
+ Se modifica por el art. 77.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+ Se modifica por la disposición adicional 14 de la Ley 21/1986, de 23 de diciembre. Ref. BOE-A-1986-33382.
+
+### Artículo quinto
+
+Artículo quinto.
+Las monedas se acuñarán por cuenta del Estado en la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, quedando autorizado el Ministerio de Economía para otorgar los anticipos destinados a cubrir los respectivos costes de producción.
+Si por razones de urgencia o cuando las circunstancias así lo exijan, fuera necesario, la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, previa autorización de la Dirección General del Tesoro y Política Financiera, podrá contratar con empresas o entidades públicas o privadas, nacionales o extranjeras, alguna o todas las fases del proceso de fabricación.
+Se modifica por el art. 97.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo sexto
+
+Artículo sexto.
+Las monedas acuñadas se entregarán al Banco de España, como depósito a su disposición, para su puesta en circulación, que efectuará en cuantía acorde con las necesidades, abonando al Tesoro el valor facial de las cedidas al mercado. Al fin de cada trimestre el Banco rendirá cuenta a la Dirección General del Tesoro y Política Financiera, concretando el movimiento de las monedas recibidas y de las puestas en circulación.
+La persona titular del Ministerio de Asuntos Económicos y Transformación Digital podrá autorizar a la Dirección General del Tesoro y Política Financiera la venta de moneda denominada en euros, acuñada por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, a otro país de la Eurozona o que se encuentre en proceso de adopción de la moneda única, para su puesta en circulación exclusivamente por este y en su propia demarcación territorial. El precio de la transacción deberá cubrir, al menos, el coste de producción y los gastos derivados de dicha transacción.
+Se modifica por la disposición final 2.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-2
+
+### Artículo séptimo
+
+Artículo séptimo.
+El Ministerio de Economía y Hacienda, al acordar la emisión de cada especie de moneda, determinara el importe máximo que de la misma deberá admitirse entre particulares en concepto de medio de pago. En cualquier caso, las monedas se admitirán en las cajas públicas sin limitación.
+También podrá el Ministerio de Economía y Hacienda, de igual forma, acordar la retirada total o parcial de la circulación de las monedas que, por pérdida de su valor liberatorio, valor comercial inadecuado u otras causas sea, conveniente eliminar del sistema de pagos.
+Acordada la retirada de una clase de moneda, el Ministerio de Economía y Hacienda dictará las disposiciones precisas para regular la forma y plazos de los canjes, determinando el ulterior destino del metal resultante de la desmonetización y las normas contables que se aplicarán a la ejecución del canje y a su aplicación presupuestaria.
+Se modifica por la disposición adicional 14 de la Ley 21/1986, de 23 de diciembre. Ref. BOE-A-1986-33382.
+
+### Artículo octavo
+
+Artículo octavo.
+El Banco de España retirará de la circulación las monedas que entren en sus Cajas y no superen el proceso de autentificación o no se consideren aptas para la circulación.
+Las monedas retiradas serán puestas a disposición de la Dirección General del Tesoro y Política Financiera, quien decidirá sobre su destino definitivo, abonando el valor facial de las monedas no aptas y reintegrando el importe de los gastos ocasionados en la retirada, desmonetización y destrucción de dichas monedas.
+Las operaciones de desmonetización y destrucción serán realizadas, por razones de seguridad pública, por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.
+Se modifica por la disposición final 2.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-2
+
+### Artículo octavo bis
+
+Artículo octavo bis. Autentificación y tratamiento de las monedas en euros.
+1. El Banco de España será la autoridad nacional competente a los efectos de lo dispuesto en el Reglamento (UE) n.º 1210/2010 del Parlamento Europeo y del Consejo de 15 de diciembre de 2010 relativo a la autentificación de las monedas de euros y el tratamiento de las monedas de euros no aptas para la circulación. En particular, el Banco de España:
+a) Recibirá las monedas que tras un proceso de autentificación se consideren presuntamente falsas y las monedas de euros no aptas para la circulación; y
+b) en su caso, realizará la prueba de detección a las máquinas de tratamiento de monedas, firmará los correspondientes acuerdos bilaterales con los fabricantes de estas máquinas para la realización de las mencionadas pruebas en las dependencias de los fabricantes y redactará los informes sobre las pruebas de detección.
+2. Corresponderá al Banco de España el desarrollo de las funciones establecidas en el citado Reglamento relativas a las siguientes materias:
+a) Modalidades de formación del personal de las entidades obligadas a la autentificación de las monedas;
+b) excepciones específicas a la prueba de detección a las máquinas de tratamiento de monedas;
+c) controles a las entidades, entre otros, a fin de verificar el correcto funcionamiento de las máquinas de tratamiento de monedas;
+d) retirada y reembolso de las monedas de euros no aptas para la circulación;
+e) monedas de euros que representen un riesgo sanitario para el personal encargado de su tratamiento; y
+f) empaquetado y etiquetado de las monedas de euros para su entrega.
+3. Para el desarrollo de las funciones a que se refieren los apartados 1 y 2 anteriores, el Banco de España podrá formalizar los convenios y acuerdos con terceros que estime oportunos.
+4. El Banco de España podrá dictar las normas precisas para el ejercicio de las funciones previstas en los apartados uno y dos anteriores.
+Se añade por la disposición adicional 4.1 de la Ley 8/2012, de 30 de octubre. Ref. BOE-A-2012-13487.
+
+### Artículo noveno
+
+Artículo noveno.
+1. Tendrá la consideración de infracción administrativa la reproducción con fines publicitarios de monedas que tengan o puedan tener curso legal y monedas conmemorativas, especiales o de colección, sin autorización de la Dirección General del Tesoro y Política Financiera.
+2. Tendrá la consideración de infracción administrativa la reproducción con fines comerciales o de venta de monedas que hayan tenido, tengan o puedan tener curso legal y monedas conmemorativas, especiales o de colección, sin autorización de la Dirección General del Tesoro y Política Financiera.
+3. Tendrá la consideración de infracción administrativa la emisión, fabricación, almacenamiento, comercialización, importación y distribución, sin autorización de la Dirección General del Tesoro y Política Financiera, de medallas, medallones, fichas y objetos monetiformes, o que los contengan, conmemorativas con un valor facial o monetario específico, utilizando a tales fines los signos o símbolos de:
+a) La Unión Europea, en particular la inscripción «euro» o «euro cent», el símbolo euro o similar combinado con una indicación del valor nominal, o un diseño idéntico o similar, en todo o en parte, al que aparece en la cara común o la cara nacional de las monedas de euro o aquella que se fije oficialmente para la acuñación de tales monedas en el futuro.
+b) La Corona.
+c) Las Administraciones públicas o los Organismos públicos vinculados o dependientes de las mismas.
+d) La marca de Ceca.
+e) Las demás instituciones del Estado sin la autorización previa de la institución titular correspondiente.
+4. Tendrá la consideración de infracción administrativa cualquier alteración o modificación de las características físicas de las monedas de curso legal, sin autorización de la Dirección General del Tesoro y Política Financiera, para su empleo como soporte de publicidad o para cualquier otro fin distinto al previsto en la norma de emisión.
+5. Tendrá la consideración de infracción administrativa toda conducta contraria a lo dispuesto en el Reglamento (CE) n.º 2182/2004, de 6 de diciembre de 2004, sobre medallas y fichas similares a monedas euro.
+Se modifica el apartado 5, con efectos desde el 1 de enero de 2007, por la disposición final 1 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+ Se modifica el apartado 4 y se añade el 5 por el art. 103 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se añade por el art. 97.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo décimo
+
+Artículo décimo.
+1. Las infracciones administrativas tipificadas en el artículo anterior se clasificarán en muy graves, graves y leves de acuerdo con el presente artículo.
+2. Serán infracciones muy graves cuando:
+a) Causen un daño al sistema monetario, al patrimonio público o a la imagen institucional.
+b) El volumen de ventas realizadas supere las 10.000 unidades.
+c) Induzca a grave confusión en los consumidores o usuarios.
+d) La utilización de la marca de Ceca.
+e) Una infracción grave se prolongue durante más de un año.
+f) La reincidencia en la comisión de una infracción grave.
+3. Serán infracciones graves cuando:
+a) Pueda inducir a confusión en los consumidores o usuarios.
+b) El volumen de ventas realizadas supere las 100 unidades.
+c) Se aprecie mala fe.
+d) Una infracción leve se prolongue durante más de un año.
+e) El infractor obtenga ventaja con respecto a otros empresarios.
+f) La reincidencia en la comisión de una infracción leve.
+4. Serán infracciones leves cuando no merezcan la calificación de graves o muy graves.
+5. La Dirección General del Tesoro y Política Financiera, con sujeción al procedimiento sancionador aplicable a los sujetos que actúan en los mercados financieros, aprobado por el Real Decreto 2119/1993, al procedimiento para el ejercicio de la potestad sancionadora, aprobado por el Real Decreto 1398/1993 y los principios establecidos en la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, impondrá, a quienes resulten responsables de las infracciones administrativas descritas en los apartados anteriores, las siguientes sanciones:
+a) Las infracciones muy graves serán castigadas con multa desde 200.000 hasta 600.000 euros o el duplo del beneficio obtenido.
+b) Las infracciones graves serán castigadas con multa desde 1.000 hasta 199.999 euros o el duplo del beneficio obtenido.
+c) Las infracciones leves serán castigadas con multa de hasta 999 euros o el duplo del beneficio obtenido.
+6. La Dirección General del Tesoro y Política Financiera, sin perjuicio de lo regulado en los apartados anteriores, podrá imponer multas coercitivas de 300 a 12.000 euros diarios en periodos bimestrales, con la finalidad de procurar la cesación inmediata de los actos y conductas prohibidas o realizadas sin autorización.
+7. Las infracciones muy graves previstas en esta Ley prescribirán en el plazo de tres años desde la fecha de comisión de la infracción; las infracciones graves, en el plazo de dos años y las infracciones leves, en el plazo de un año. La acción para exigir el cumplimiento de las sanciones prescribirá a los tres años comenzando a contar el plazo para la prescripción desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la pena. La prescripción en las infracciones y sanciones se interrumpirá y, en su caso, reanudará en los términos previstos en el artículo 132 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+8. Las infracciones y sanciones reguladas en este artículo, se entenderán sin perjuicio de otras responsabilidades que, en su caso, pudieran establecerse en los diferentes ámbitos y jurisdicciones competentes.
+Se añade por el art. 97.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo undécimo
+
+Artículo undécimo.
+El Ministro de Economía, mediante Orden Ministerial, podrá actualizar los importes de las sanciones previstas en esta Ley con la finalidad de adecuarlas a las variaciones de los índices de precios al consumo. Asimismo, podrá establecer las condiciones de utilización de monedas con fines publicitarios o comerciales.
+Se añade por el art. 97.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Disposición final
+
+Disposición final.
+Quedan derogadas, en cuanto se opongan a la presente Ley, las disposiciones vigentes relativas a la materia objeto de la misma.
+En el plazo de seis meses a partir de la promulgación de la presente Ley, el Gobierno, mediante Decreto, publicará la correspondiente tabla de disposiciones vigentes y derogadas.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Continuarán en circulación, con el poder liberatorio que tengan legalmente reconocido, las monedas que componen el sistema monetario actual, en tanto no se acuerde por el Gobierno dentro de la competencia que le concede el artículo séptimo de la presente Ley, su retirada de la circulación y su sustitución, en todo o en parte, por las monedas a que se refiere el artículo segundo.
+
+Dada en el Palacio de El Pardo a doce de marzo de mil novecientos setenta y cinco.
+FRANCISCO FRANCO
+El Presidente de las Cortes Españolas,
+ALEJANDRO RODRIGUEZ DE VALCARCEL Y NEBREDA

@@ -1,0 +1,390 @@
+# Ley 20/1998, de 27 de noviembre, de Ordenación y Coordinación de los Transportes Urbanos de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1999-11711`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-11711
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+La Comunidad de Madrid asumió en el artículo 26.5 de su Estatuto de Autonomía, aprobado por Ley Orgánica 3/1983, de 25 de febrero, la competencia legislativa plena sobre los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en su territorio y, en los mismos términos, el transporte desarrollado por estos medios o por cable. Todo ello, en cumplimiento de la previsión contenida en el artículo 148.1.5 de la Constitución Española.
+Por su parte, el artículo 149.1.21 de la Norma fundamental establece que el Estado tiene competencia exclusiva sobre ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma, habiendo delegado las Cortes Generales en la Comunidad de Madrid, mediante la Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas, en relación con los Transportes por Carretera y por Cable, las funciones de titularidad estatal en dichas materias.
+Así se completó un marco competencial que permitió, al objeto de evitar disfunciones territoriales y de simplificar y racionalizar la intervención administrativa mediante la implantación del principio de «ventanilla única», aplicar en esta Comunidad la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, Y todas las normas reglamentarias que en su desarrollo fueron dictadas.
+La sentencia 118/1996, de 27 de junio, del Tribunal Constitucional, declara nulos los artículos 113 a 118 de la Ley de Ordenación de los Transportes Terrestres, que regulan el transporte urbano de viajeros, declarando, igualmente, inconstitucionales el inciso 2.º del párrafo 1.º y el párrafo 2.º del artículo 2 de la Ley de Ordenación de los Transportes Terrestres, al considerar el Tribunal Constitucional que la regulación por el Estado de los transportes urbanos comportaba una extralimitación competencial.
+Para evitar el vacío normativo que pueda producirse a raíz de la mencionada sentencia en el transporte urbano de viajeros, se hace necesario adoptar las oportunas medidas legislativas, evitando, asimismo, un estado de inseguridad jurídica en las empresas de transporte de viajeros, ya que la gran mayoría de las radicadas en nuestra Comunidad necesitan realizar, porque la propia naturaleza del transporte y la demanda de los usuarios así lo imponen, tráficos tanto urbanos como interurbanos. La realidad nos muestra una región con un entramado de infraestructuras y servicios interconectados que no puede ser jurídicamente disgregado. Con esta finalidad se promulga la presente Ley, que regula el transporte urbano de viajeros y establece su coordinación con la regulación existente en el interurbano.
+Debe señalarse, a su vez, que la Ley, dictada al amparo del artículo 26.1.6 del Estatuto de Autonomía en su redacción vigente, recoge los principios básicos consensuados entre todas las Comunidades Autónomas, los cuales permiten conjugar un marco común para los transportes urbanos con las necesarias especificidades que tengan en cuenta las peculiaridades de cada una de las Comunidades Autónomas.
+Por último, hay que resaltar que en la Comunidad de Madrid existe ya un marco legislativo articulador de la cooperación y participación de la Comunidad de Madrid y de los Ayuntamientos de la misma en la gestión conjunta del servicio de transporte público regular de viajeros, materializada en el Consorcio Regional de Transportes Públicos Regulares de Madrid, y el respeto a la autonomía municipal, en cuanto se refiere a los acuerdos adoptados por el Pleno de las Corporaciones Locales relativos a la adhesión del municipio a dicho organismo, ha quedado salvaguardado. La Ley prevé que a dichos municipios les sea aplicable la Ley 5/1985, de 16 de mayo, de Creación del Consorcio Regional de Transportes Públicos Regulares de Madrid en todo lo relativo al transporte regular de viajeros.
+En la prestación del servicio del transporte en la Comunidad de Madrid, los operadores deberán de establecer las formas de organización y explotación del servicio al público, respetando la legislación laboral vigente, con especial incidencia en el estricto cumplimiento en cuanto a los horarios de trabajo de los conductores.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto la regulación de los transportes urbanos y su coordinación con los transportes interurbanos.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de aplicación a los transportes urbanos que se desarrollen íntegramente en el ámbito de la Comunidad de Madrid, realizados con vehículos automóviles que circulen sin camino de rodadura fija, ni medios externos de captación de energía, por toda clase de vías públicas, así como el que se realice por vías privadas cuando el transporte sea público.
+
+### Artículo 3
+
+Artículo 3. Títulos habilitantes.
+1. Para la realización de servicios de transporte urbano de viajeros o de mercancías será necesaria la obtención previa del correspondiente título habilitante, con las excepciones que para tal obligatoriedad se establezcan en las normas estatales o autonómicas reguladoras de los transportes interurbanos.
+2. Las autorizaciones estatales o autonómicas de transporte habilitarán para realizar tanto transporte urbano como interurbano dentro del ámbito y clase a que las mismas estén referidas.
+
+### Artículo 4
+
+Artículo 4. Órganos competentes.
+1. Los municipios son competentes, con carácter general, para la ordenación, gestión, inspección y sanción de los servicios urbanos de transporte público de viajeros que se lleven a cabo dentro de sus respectivos términos municipales, salvo en el caso de los servicios de arrendamiento de vehículos con conductor que, en todo caso, serán competencia de la Comunidad de Madrid. A estos efectos se consideran servicios urbanos aquéllos que discurran íntegramente por suelo urbano, definido por la legislación urbanística, así como los que estén exclusivamente dedicados a comunicar entre sí núcleos urbanos diferentes situados dentro de un mismo término municipal.
+2. No obstante la regla general expuesta en el apartado anterior, la Comunidad de Madrid podrá extender la consideración de transporte urbano a servicios distintos de los expresados en el punto anterior, siempre que los mismos se presten íntegramente dentro del correspondiente término municipal.
+3. Cuando los servicios a los que se refiere el apartado 1 del presente artículo afecten a intereses que trasciendan los puramente municipales, las competencias de los correspondientes Ayuntamientos se ejercerán de forma coordinada con las de las entidades de ámbito superior, según lo que, en su caso, establezcan las correspondientes normas de la Comunidad de Madrid.
+4. Las competencias municipales sobre los transportes de viajeros se ejercerán con sujeción a lo dispuesto en las normas de la Comunidad de Madrid y del Estado que regulan dichos transportes.
+5. En los supuestos del artículo 12.2.c), las competencias para la ordenación, gestión, inspección y sanción de los servicios urbanos de transporte público de viajeros podrán ser ejercidas por otras entidades locales existentes o creadas al efecto para la Gestión del Área Territorial de Prestación Conjunta.
+Se añade el apartado 5 por el art. 1 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se modifica el apartado 1 por el art. único.1 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+
+### Artículo 5
+
+Artículo 5. Clases de transporte.
+1. Los transportes públicos urbanos de viajeros pueden ser regulares o discrecionales.
+Son transportes regulares los que se efectúan dentro de itinerarios preestablecidos y autorizados, y con sujeción a calendarios y horarios prefijados.
+Son transportes discrecionales los que se llevan a cabo sin sujeción a itinerario, calendario ni horario preestablecido.
+2. Los transportes regulares de viajeros definidos en el punto anterior pueden ser:
+a) Por su continuidad, permanentes o temporales.
+Son transportes regulares permanentes los que se llevan a cabo de forma continuada para atender necesidades de carácter estable.
+Son transportes regulares temporales los destinados a atender a tráficos de carácter excepcional o coyuntural y de duración temporalmente limitada, si bien puede darse en los mismos una repetición periódica, como ocurre con los propios de ferias, mercados u otros similares.
+b) Por su utilización, de uso general o de uso especial.
+Son transportes regulares de uso general los que van dirigidos a satisfacer una demanda general, siendo utilizables por cualquier usuario.
+Son transportes regulares de uso especial los que están destinados a servir, exclusivamente, a un grupo específico y homogéneo de usuarios.
+
+## CAPÍTULO II
+
+Régimen jurídico del transporte colectivo
+
+### Artículo 6
+
+Artículo 6. Modalidades de gestión.
+1. El establecimiento, adjudicación y explotación de los transportes regulares de viajeros permanentes o temporales y de uso general o especial de competencia municipal se regirán por las normas de la Comunidad de Madrid que les afecten, por las normas estatales o autonómicas reguladoras de la misma clase de transportes en el ámbito interurbano, y por las correspondientes Ordenanzas Municipales, las cuales deberán respetar lo dispuesto en las normas autonómicas y estatales sin poder introducir requisitos o disposiciones adicionales que desvirtúen su sentido.
+2. La prestación de los servicios públicos de transporte de viajeros de uso general se realizará, como regla general, por la empresa pública o privada a la que se atribuye la correspondiente concesión administrativa para su prestación.
+3. Sin perjuicio de lo anterior, cuando existan motivos que lo justifiquen, el Ayuntamiento podrá decidir que la explotación se lleve a cabo a través de cualquiera de los restantes procedimientos de gestión de servicios públicos previstos en la legislación reguladora de la contratación administrativa.
+4. No obstante lo anteriormente previsto, procederá la gestión pública directa de un servicio sin la realización del correspondiente concurso cuando la gestión indirecta resulte inadecuada al carácter o naturaleza del mismo, sea incapaz de satisfacer los objetivos económicos o sociales que se pretendan conseguir, o venga reclamada por motivos de interés público concreto o de carácter económico-social. Cuando el Ayuntamiento aprecie la existencia de tales circunstancias podrá prestar directamente los servicios de transporte público permanente de uso general, utilizando para su gestión cualquiera de las figuras que admite la legislación vigente sobre la gestión empresarial pública.
+
+### Artículo 7
+
+Artículo 7. Servicios coincidentes.
+1. No existirán prohibiciones de coincidencia para el establecimiento de servicios regulares permanentes o temporales de viajeros de competencia municipal. No obstante, para el establecimiento por los Ayuntamientos de líneas que incluyan tráficos coincidentes con los que tengan autorizados con anterioridad otros servicios regulares interurbanos, será necesaria la justificación de la insuficiencia del servicio existente para atender adecuadamente las necesidades de los usuarios y la previa conformidad del ente concedente de éste, la cual podrá condicionarse a la previa aprobación de un plan de coordinación de la explotación de ambos servicios, en cuya elaboración deberá ser oída la empresa titular de la concesión del servicio regular interurbano.
+2. Tendrán la consideración de tráficos coincidentes, a los efectos previstos en este artículo, los que se realicen entre paradas en las que el servicio interurbano estuviera autorizado a tomar y dejar viajeros o puntos próximos a las mismas, incluso cuando dichas paradas estuvieran dentro de la misma población o núcleo urbano.
+
+### Artículo 8
+
+Artículo 8. Servicios discrecionales.
+1. Para la realización de servicios de transporte discrecional urbano de viajeros será necesaria la previa obtención del correspondiente título habilitante.
+2. Las autorizaciones estatales o autonómicas de transporte discrecional de viajeros habilitarán para realizar tanto transporte urbano como interurbano dentro del ámbito a que las mismas estén referidas.
+3. Los municipios podrán otorgar autorizaciones habilitantes para realizar transporte discrecional de carácter urbano.
+4. En defecto de normas específicamente dictadas al efecto por la Comunidad de Madrid, serán de aplicación al otorgamiento, modificación, utilización y extinción de dichas autorizaciones las reglas por las que, en cada momento, se rijan las autorizaciones de transporte interurbano de ámbito nacional o autonómico.
+
+## CAPÍTULO III
+
+Transporte de viajeros en vehículos de hasta nueve plazas, incluido el conductor
+Se modifica por el art. único.1 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+## Sección 1ª
+
+Sección 1.ª Transporte de viajeros en automóviles de turismo
+Se añade por el art. único.2 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+### Artículo 9
+
+Artículo 9. Licencias y autorizaciones.
+1. Para la realización de servicios de transporte urbano de viajeros en automóviles de turismo será necesaria la previa obtención de la correspondiente licencia habilitante, otorgada por el Ayuntamiento del municipio en que esté residenciado el vehículo.
+Las licencias municipales para la prestación de servicios de transporte urbano en automóviles de turismo corresponderán a una categoría única, denominándose licencia de auto-taxi.
+2. Para la obtención de la referida licencia municipal será preciso, como regla general, obtener simultáneamente la autorización que habilite para la prestación de servicios interurbanos.
+No obstante, podrán otorgarse excepcionalmente licencias municipales, aun sin el otorgamiento simultáneo de la correspondiente autorización de transporte interurbano, únicamente cuando en el correspondiente expediente quede suficientemente acreditada la necesidad y rentabilidad del servicio con carácter estrictamente urbano y, en ningún caso, sobrepase el número máximo de licencias por municipio que se determine reglamentariamente. Cuando se produzca este supuesto no podrá otorgarse, al titular de la licencia municipal, autorización de transporte interurbano hasta que no hayan transcurrido al menos cinco años, siendo en todo caso exigible la pertinente motivación en el expediente de la procedencia de dicho otorgamiento.
+No será de aplicación lo dispuesto en este apartado para las personas que en el momento de entrada en vigor del Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres fueran titulares únicamente de licencia municipal. Dichas personas podrán continuar realizando el transporte urbano para el que estuvieran autorizadas y, en su caso, solicitar la autorización de transporte interurbano, siendo de aplicación para el otorgamiento de ésta las reglas previstas en el artículo siguiente.
+3. El régimen de otorgamiento, utilización, modificación y extinción de las licencias municipales de transporte urbano de viajeros en vehículos de turismo, así como el de prestación del servicio, se ajustarán a sus normas específicas, las cuales deberán seguir las reglas establecidas por la Comunidad de Madrid, previo informe del correspondiente órgano de participación y consulta. En especial, se podrán establecer reglas que predeterminen el número máximo de licencias de auto-taxi en cada uno de los distintos municipios en función de su volumen de población u otros parámetros objetivos, cuando así se considere necesario para garantizar el adecuado funcionamiento del sistema general de transporte.
+4. En todo caso, la pérdida o retirada, por cualquier causa legal, de la autorización de transporte interurbano dará lugar a la cancelación, asimismo, de la licencia municipal que debe acompañarla, salvo en los casos en que, dándose las circunstancias previstas en el apartado 2 anterior, el ente competente sobre ésta decida expresamente su mantenimiento.
+No se aplicará lo previsto en el párrafo anterior cuando se pierda por falta de visado la autorización habilitante para transporte interurbano.
+
+### Artículo 10
+
+Artículo 10. Coordinación.
+La coordinación del otorgamiento de las licencias municipales para la prestación de servicios de transporte urbano con automóviles de turismo con las autorizaciones interurbanas para dichos vehículos se realizará de conformidad con lo previsto en el artículo 124 del Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres.
+
+### Artículo 11
+
+Artículo 11. Servicios interurbanos.
+Como regla general, los servicios interurbanos en automóviles de turismo, realizados al amparo de la correspondiente autorización, deberán iniciarse en el término del municipio al que corresponda la licencia de transporte urbano o en el que estuviera residenciada la autorización de transporte interurbano.
+A tal efecto, se entenderá, en principio, que el origen o inicio del transporte se produce en el lugar en que son recogidos los pasajeros de forma efectiva. No obstante, la Consejería de Obras Públicas, Urbanismo y Transportes podrá determinar en qué casos y con qué condiciones los vehículos que hayan sido previamente contratados pueden prestar en el territorio de su competencia servicios, realizando la carga de pasajeros fuera del término municipal cuyo Ayuntamiento les haya otorgado la licencia, o en el que en su caso estén residenciados.
+
+### Artículo 12
+
+Artículo 12. Áreas Territoriales de Prestación Conjunta.
+1. No obstante lo dispuesto en el artículo anterior, en las zonas en las que exista interacción o influencia recíproca entre los servicios de transporte de varios municipios, de forma tal que la adecuada ordenación de tales servicios trascienda el interés de cada uno de los mismos, el ente competente para el otorgamiento de las autorizaciones de transporte interurbano podrá establecer o autorizar Áreas Territoriales de Prestación Conjunta en las que los vehículos debidamente autorizados estarán facultados para la prestación de cualquier servicio, ya tenga carácter urbano o interurbano, que se realice íntegramente dentro de dichas áreas, incluso si excede o se inicia fuera del término municipal en que esté residenciado el vehículo.
+2. El establecimiento de Áreas Territoriales de Prestación Conjunta podrá realizarse a través de alguna de las siguientes modalidades:
+a) Convenios entre los Ayuntamientos o entidades competentes.
+b) La creación, en alguna de las formas previstas en el ordenamiento vigente, de una entidad pública en la que participen los distintos municipios o entidades afectadas, que realice con autonomía la ordenación unitaria de los servicios de transporte en la zona de que se trate.
+c) Directamente por el ente competente para el otorgamiento de las autorizaciones de transporte interurbano.
+En los supuestos comprendidos en las letras a) y b) anteriores será necesario para el establecimiento del Área, en todo caso, la conformidad del ente competente para el otorgamiento de las autorizaciones de transporte interurbano. Además, en los supuestos b) y c) será preciso el informe favorable de, al menos, las dos terceras partes de los municipios que se proponga incluir en el Área, debiendo representar dichos municipios como mínimo el 75 por 100 del total de la población del Área.
+3. La autorización o autorizaciones habilitantes para realizar servicios en las Áreas Territoriales de Prestación Conjunta serán otorgadas por el ente competente para el establecimiento del Área, o por el que designen las normas reguladoras de ésta.
+En el procedimiento de adjudicación de dichas autorizaciones deberán observarse los requisitos específicos establecidos para el otorgamiento de licencias municipales, siendo de aplicación las normas relativas a éstas en los servicios que se presten íntegramente dentro de dichas Áreas.
+Serán, asimismo, de aplicación las reglas establecidas en esta Ley en cuanto a la coordinación del otorgamiento de las autorizaciones del Área y de las de carácter interurbano de ámbito nacional, teniendo aquéllas, a estos efectos, análoga consideración a la de las licencias municipales.
+4. El ente competente para el establecimiento o autorización del Área Territorial de Prestación Conjunta lo será, asimismo, para realizar, con sujeción a la normativa general, cuantas funciones de regulación y ordenación del servicio resulten necesarias. Dicho ente podrá delegar el ejercicio de sus funciones en los órganos rectores designados por las normas reguladoras del Área, o en alguno de los municipios integrados en la misma o en otra entidad pública preexistente o constituida a tal efecto.
+5. Cuando de la existencia de puntos específicos, como en el supuesto de aeropuertos, estaciones ferroviarias o de autobuses, ferias, mercados u otros similares en los que se genere un tráfico importante que afecte a varios municipios, se deriven necesidades de transporte que no se encuentren suficientemente atendidas por personas titulares de autorizaciones y licencias correspondientes al municipio en que dichos puntos estén situados, o se den otras circunstancias de carácter económico o social que así lo aconsejen, el ente competente para el otorgamiento de la autorización de transporte interurbano podrá establecer un régimen específico, el cual incluya la posibilidad de que vehículos con licencia o residenciados en otros municipios realicen servicios con origen en los referidos puntos de generación de tráfico.
+
+### Artículo 13
+
+Artículo 13. Tarifas y financiación.
+1. La autoridad local competente establecerá, con sujeción a la normativa general de precios, el régimen tarifario de los transportes urbanos de viajeros.
+2. La financiación de los transportes públicos regulares urbanos de viajeros podrá realizarse, entre otros, con los siguientes ingresos:
+a) Los procedentes de las recaudaciones obtenidas directamente de los usuarios de los servicios y la explotación de otros recursos de las empresas prestatarias.
+b) Las recaudaciones tributarias que, con esta específica finalidad, se pudieran establecer por los organismos competentes.
+c) Las aportaciones que pudieran realizar las distintas Administraciones Públicas.
+
+### Artículo 14
+
+Artículo 14. Pólizas de seguros.
+Los operadores del transporte público urbano deben tener contratada la correspondiente póliza de seguros que cubra todas la responsabilidades derivadas de la prestación del servicio público de la utilización de sus vehículos, de acuerdo con la normativa aplicable en esta materia.
+
+### Artículo 14 bis
+
+Artículo 14 bis. Publicidad.
+Con sujeción a la legislación vigente en materia de tráfico y seguridad vial y a la normativa general de publicidad, los titulares de las licencias municipales de autotaxi podrán contratar y colocar anuncios publicitarios tanto en el interior como en el exterior del vehículo, de acuerdo con las normas municipales que regulan la materia, siempre que se conserve la estética de éste, no se impida la visibilidad ni se genere riesgo alguno y no se atente contra la imagen del sector.
+Las asociaciones representativas del sector serán consultadas sobre la forma y contenido de la publicidad.
+Se añade por el art. 13.1 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+## Sección 2ª
+
+Sección 2.ª Transporte de viajeros en vehículos de arrendamiento con conductor
+Se añade por el art. único.3 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+### Artículo 14 ter
+
+Artículo 14 ter. Arrendamiento de vehículos con conductor.
+1. La actividad de arrendamiento de vehículos con conductor, a los efectos de la legislación de los transportes por carretera, tendrá la consideración de transporte público discrecional de viajeros y sus precios no estarán sujetos a tarifas administrativas. No obstante, reglamentariamente se podrá establecer, para circunstancias excepcionales en las que la alta demanda de servicios haga preciso evitar situaciones desmedidas para los usuarios, el incremento máximo a aplicar sobre el precio de los servicios calculado sin la existencia de aquellas.
+La realización de servicios urbanos mediante esta modalidad de transporte en el ámbito territorial de la Comunidad de Madrid queda condicionada a que sus titulares obtengan la correspondiente autorización para lo que deberán cumplir los requisitos que reglamentariamente se establezcan.
+2. En todo caso, procederá denegar el otorgamiento de nuevas autorizaciones de arrendamiento de vehículos con conductor cuando la proporción entre el número de las autorizaciones de arrendamiento de vehículos con conductor autonómicas otorgadas por el órgano competente de la Comunidad de Madrid, junto con las estatales habilitadas para prestar servicios urbanos, y el número de las autorizaciones concedidas para realizar transporte de viajeros en automóviles de turismo domiciliadas en la Comunidad de Madrid sea superior a una de aquellas por cada treinta de estas.
+No obstante lo previsto en el párrafo anterior, el órgano competente para el otorgamiento de las autorizaciones, a los efectos de preservar el desarrollo equilibrado de las distintas formas de transporte de viajeros en vehículo turismo, denegará el otorgamiento de nuevas autorizaciones de arrendamiento de vehículos con conductor, en atención al número de autorizaciones de arrendamiento de vehículos con conductor otorgadas por el órgano competente de la Comunidad de Madrid, junto con las estatales habilitadas para prestar servicios urbanos existentes, al número de autorizaciones para realizar transporte de viajeros en automóviles de turismo domiciliadas en la Comunidad de Madrid y al conjunto de la población cuyas necesidades de movilidad debe garantizar, constando esta motivación en el procedimiento.
+Se modifica por el art. único.2 y 3 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se añade por el art. único.4 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+### Artículo 14 quater
+
+Artículo 14 quater. Prestación de servicios mediante arrendamiento de vehículos con conductor.
+La prestación de servicios urbanos mediante arrendamiento de vehículos con conductor se realizará por los titulares de las autorizaciones cumpliendo los requisitos que, en relación con los conductores, vehículos y demás condiciones para su realización, se establezcan reglamentariamente.
+Se modifica por el art. único.4 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se añade por el art. único.5 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+## CAPÍTULO IV
+
+De las condiciones ambientales
+
+### Artículo 15
+
+Artículo 15. Condiciones ambientales.
+En los procesos de renovación y/o ampliación de las flotas de autobuses y en la fijación de las condiciones técnicas de los auto-taxis se propiciará la introducción de las tecnologías (motorización, diseño, materiales, peso y similares) que permitan la máxima eficiencia energética; la utilización de combustibles renovables; la minimización del ruido y de las emisiones de CO2 , y otros gases y partículas contaminantes, y la optimización de reciclado posible de los materiales empleados, así como la evitación de compuestos organoclorados.
+
+## CAPÍTULO V
+
+Régimen sancionador
+Se modifica por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 16
+
+Artículo 16. Infracciones y sanciones.
+1. En relación con el incumplimiento de las normas reguladoras de los transportes urbanos, será de aplicación lo dispuesto en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y sus normas de desarrollo, en materia de régimen sancionador y de control de los transportes por carretera, en todo lo que no se oponga o contradiga a lo que se establece en la presente Ley, salvo las disposiciones sancionadoras en materia de arrendamiento de vehículos con conductor introducidas por la Ley 13/2021, de 1 de octubre, por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres en materia de infracciones relativas al arrendamiento de vehículos con conductor y para luchar contra la morosidad en el ámbito del transporte de mercancías por carretera, así como otras normas para mejorar la gestión en el ámbito del transporte y las infraestructuras, que no serán de aplicación.
+Podrá acordarse la suspensión temporal de las autorizaciones y licencias por un plazo no superior a quince días en el caso de infracciones leves, de tres a seis meses en las graves y de hasta un año en las muy graves.
+Las infracciones de las normas reguladoras de los servicios de transporte urbano en automóviles turismo se clasifican en muy graves, graves y leves.
+2. Las sanciones por las infracciones tipificadas en los artículos siguientes se graduarán de acuerdo con la repercusión social del hecho infractor y su intencionalidad; con la naturaleza de los perjuicios causados, con especial atención a los que afecten a las condiciones de competencias o de seguridad; con la magnitud del beneficio ilícitamente obtenido y con la reincidencia o habitualidad en la conducta infractora.
+La cuantía de las sanciones se determinará conforme al baremo siguiente:
+Se sancionarán con multa de 801 a 6.000 euros las infracciones tipificadas como muy graves, a excepción de la prevista en el apartado a) del artículo 17, que se sancionará con multa de 4.001 a 6.000 euros.
+Se sancionarán con multa de 301 a 800 euros las infracciones tipificadas como graves, excepto las tipificadas en los apartados l) y m) del artículo 18 que se sancionarán con 601 euros de multa.
+Se sancionarán con multa de 100 a 300 euros las infracciones tipificadas como leves.
+Se modifica el apartado 2 por el art. único.5 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se modifica el apartado 1, primer párrafo por el art. único.6 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+ Se suprime el apartado 3 por el art. 13.1 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a13.
+ Se modifica por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+ Se declara inconstitucional y nulo el apartado 2.b).7 por Sentencia del TC 13/2013, de 28 de enero. Ref. BOE-A-2013-2163.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Inmovilización del vehículo.
+1. Cuando sean detectadas, durante su comisión en ruta, infracciones que deban ser denunciadas de acuerdo con lo previsto en el artículo 17.a) de la presente Ley podrá ordenarse, aun cuando las personas responsables tengan su residencia en España, la inmediata inmovilización del vehículo, que será trasladado hasta el lugar que determine la autoridad o agentes actuantes, hasta que no sea abonada la cuantía de la sanción en concepto de depósito, siendo de aplicación lo siguiente:
+a) La autoridad o agente actuante, al formular la correspondiente denuncia, fijarán provisionalmente la cuantía de la sanción.
+b) El importe de la sanción deberá ser abonado en el momento de la denuncia en concepto de depósito, en metálico en euros o tarjeta de crédito, debiéndose entregar al denunciado, además de aquélla, el recibo de depósito de la cantidad pecuniaria correspondiente al importe de la sanción.
+c) La cuantía de la sanción será entregada a resultas del acuerdo que adopte la autoridad competente en la resolución del correspondiente procedimiento sancionador, y se remitirá a aquélla junto con el escrito de denuncia.
+d) La denuncia se tramitará siguiendo el procedimiento regulado en el artículo 20.
+e) Una vez ordenada la inmovilización, el denunciado trasladará el vehículo hasta el lugar que determine la autoridad actuante. En caso contrario, será esta la que adoptará la medida, corriendo en ambos casos los gastos por cuenta del denunciado.
+f) La autoridad o agente actuante retendrá la documentación del vehículo mientras subsista la inmovilización que, en ningún caso, quedará sin efecto mientras no sea abonada la cuantía de la sanción en concepto de depósito.
+2. En los casos en los que la propia Administración hubiera tenido que hacerse cargo del vehículo inmovilizado y no hubiesen sido abonadas las sanciones impuestas mediante resolución que ponga fin a la vía administrativa, se podrá proceder a la venta en subasta pública de aquél quedando el dinero obtenido afecto al pago del importe de las sanciones y de los gastos originados por la inmovilización y la subasta, quedando el sobrante si lo hubiere a disposición de la persona sancionada. En el supuesto de que el valor residual del vehículo resulte insuficiente para hacer frente a las responsabilidades económicas derivadas del procedimiento sancionador, la Administración podrá ordenar el traslado del vehículo a un centro de tratamiento de vehículos para el reciclaje o destrucción de sus componentes.
+3. La imposición de las sanciones que en su caso correspondan será independiente de la posible obligación de indemnizar los daños y perjuicios causados.
+4. A los efectos de lo previsto en este artículo tendrá la consideración de persona responsable la persona física o jurídica propietaria o arrendataria del vehículo, en virtud de arrendamiento financiero, renting o cualquier otra forma admitida por la normativa vigente.
+Se añade por el art. 13.2 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a13.
+
+### Artículo 17
+
+Artículo 17. Infracciones muy graves.
+Se considerarán infracciones muy graves:
+a) La realización de transporte público de viajeros en vehículo turismo careciendo de la preceptiva licencia municipal y/o autorización de transportes otorgados por los órganos competentes, o cuando la misma hubiere sido retirada o se encontrara suspendida, caducada o cuando por cualquier otra causa hubiere perdido su validez o debiera haber sido devuelta a la Administración en cumplimiento de normas legal o reglamentariamente establecidas.
+b) La falsificación de licencias municipales, de la autorización para realizar servicios de carácter urbano o de cualquier otro documento que, legal o reglamentariamente, resulte exigible, así como el falseamiento de alguno de los datos que deban constar en ellos.
+c) La manipulación del taxímetro o de sus elementos, o de otros instrumentos de control que sea obligatorio llevar en el vehículo, con objeto de alterar su funcionamiento o modificar sus mediciones.
+d) La negativa u obstrucción a la actuación de los órganos municipales competentes, de los Servicios de Inspección o de los Cuerpos encargados de la vigilancia del transporte que imposibiliten el ejercicio de las funciones que legal o reglamentariamente tengan atribuidas. Se entenderá incluido en la presente letra todo supuesto en que los titulares de las licencias impidan, sin causa que lo justifique, el examen de vehículos, instalaciones y documentación administrativa, estadística o contable.
+Asimismo se considerará incluida en la infracción tipificada en la presente letra la desatención total o parcial a las instrucciones o requerimientos impartidos por los órganos municipales competentes, por los Servicios de Inspección o por los agentes que, en cada caso, realicen la vigilancia y control del transporte y, en especial, el no cumplimiento de las órdenes de inmovilización de los vehículos o de desmontaje del taxímetro en los supuestos legalmente previstos.
+e) La utilización de licencias expedidas a nombre de otras personas. Se considerará incluido en esta letra el arriendo, cesión o traspaso de la explotación de las licencias y de los vehículos afectos a las mismas realizados al margen de lo que se establezca reglamentariamente.
+La responsabilidad por esta infracción corresponderá tanto a los que utilicen licencias ajenas como a las personas a cuyo nombre estén éstas, salvo que en el expediente sancionador quede acreditado que tal utilización se ha hecho sin su consentimiento.
+f) El inicio o abandono de la prestación de los servicios sin autorización del órgano competente en los plazos que, en su caso, se hayan previsto reglamentariamente.
+g) El falseamiento de los documentos que hayan de ser aportados como requisito para la obtención de cualquier título, certificación o documento que haya de ser expedido por la Administración a favor del solicitante, o de cualquiera de los datos que deben constar en ellos.
+h) El incumplimiento de la obligación de suscribir los seguros que resulten preceptivos conforme a lo dispuesto en el artículo 14 de la presente Ley.
+i) La realización de un tipo de transporte de características distintas al que ampara la correspondiente licencia municipal o la autorización para realizar servicios de carácter urbano
+j) Arrendar vehículos para ser utilizados por los titulares de las licencias de autotaxi como vehículos taxi de sustitución, sin contar con la preceptiva autorización.
+k) Realizar servicios de transporte incumpliendo los requisitos reglamentariamente establecidos en relación con los vehículos, conductores y demás condiciones exigidas para el otorgamiento y mantenimiento de las autorizaciones previstas en el artículo 14.ter.1 y en la disposición adicional cuarta de la presente ley.
+Se modifican las letras b) e i) y se añaden las j) y k) por el art. único.6 y 7 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se modifica la letra a) por el art. 13.3 de la Ley 9/2015, de 28 de diciembre. Ref. BOE-A-2016-4510#a13.
+ Se modifica por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 18
+
+Artículo 18. Infracciones graves.
+Se considerarán infracciones graves:
+a) La prestación de servicios con vehículos distintos a los adscritos a las licencias, cuando no deba tener la consideración de infracción muy grave de conformidad con lo previsto en la letra a) del artículo anterior.
+b) El incumplimiento de las condiciones esenciales de la licencia, cuando no se encuentre expresamente tipificado en otro apartado del presente artículo ni deba ser calificado como infracción muy grave, conforme a lo previsto en el artículo anterior.
+A estos efectos serán consideradas condiciones esenciales de las licencias las siguientes:
+1.ª La autonomía económica y de dirección en la explotación de los servicios por parte del titular de la licencia, gestionando los servicios a su riesgo y ventura, con los medios personales y materiales integrantes de su propia organización empresarial.
+2.ª El ámbito territorial de actuación de la licencia.
+3.ª La disposición del número mínimo de conductores que, en su caso, se establezca reglamentariamente, así como la comunicación de su variación al órgano competente.
+4.ª La prestación del servicio durante el tiempo mínimo y máximo diario obligatorios en las condiciones que se establezcan.
+5.ª La disposición de los vehículos con los requisitos, características y elementos mínimos previstos y la dedicación de los mismos a la prestación de los servicios que las ordenanzas determinen.
+6.ª La contratación global de la capacidad del vehículo salvo las excepciones que reglamentariamente se establezcan.
+7.ª Las condiciones técnicas y de seguridad exigibles al vehículo adscrito a la licencia, así como el color de la pintura exterior y los distintivos previstos, en cada caso, por los distintos Municipios. Se considerará, asimismo, incluida en esta condición la prestación del servicio con un vehículo que cumpla las prescripciones técnicas sobre accesibilidad de personas con movilidad reducida que, en cada caso, resulten de aplicación.
+8.ª La instalación y adecuado funcionamiento de todos los elementos del taxímetro u otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo.
+9.ª La instalación del aparato lector de tarjetas de crédito, así como su utilización como medio de pago a requerimiento del usuario.
+10.ª Las condiciones de prestación del servicio referidas al régimen de paradas e itinerarios e instalación de publicidad en los vehículos.
+11.ª La presentación del vehículo, así como de la documentación que resulte pertinente, con ocasión de las revisiones periódicas o extraordinarias que se dispongan reglamentariamente. Asimismo, se entenderá incluida en esta condición la obtención de un resultado favorable en cualquiera de las citadas revisiones.
+12.ª No abandonar el servicio antes del cumplimiento del plazo de espera abonado por el usuario.
+13.ª Poner la indicación de «libre» estando el vehículo desocupado.
+14.ª La instalación en el vehículo solo de aquellos instrumentos, accesorios o equipamientos autorizados.
+15.ª Estacionar el vehículo en las paradas solo cuando se esté en disposición de efectuar un servicio respetando el orden de preferencia, según lo que establezcan las ordenanzas, al ser requeridos por varios usuarios; y asimismo, en el supuesto de inexistencia de paradas.
+16.ª La entrega al usuario del correspondiente tique del servicio prestado en el que se contengan los datos mínimos establecidos.
+c) El incumplimiento del régimen tarifario. La responsabilidad corresponderá a la persona física o jurídica que hubiera calculado el precio.
+d) No atender, sin causa justificada, a la solicitud de un usuario estando de servicio.
+e) Carecer del preceptivo documento en el que deben formularse las reclamaciones de los usuarios o negar u obstaculizar su disposición al público, así como la ocultación o demora injustificada de la puesta en conocimiento de la Administración de las reclamaciones o quejas consignadas en aquél, de acuerdo con lo que reglamentariamente se determine.
+f) La negativa u obstrucción a la actuación de los Servicios de Inspección cuando no se den las circunstancias previstas en la letra d) del artículo anterior.
+g) El incumplimiento de los servicios obligatorios establecidos en su caso, por el Municipio, con arreglo a lo previsto reglamentariamente.
+h) El incumplimiento del régimen de descansos establecido, en su caso, por el Municipio, de conformidad con lo que se disponga reglamentariamente.
+i) La iniciación de servicios fuera del ámbito territorial autorizado por la licencia.
+j) Cualquiera de las infracciones previstas en el artículo anterior, cuando por su naturaleza, ocasión o circunstancia no deba ser calificada como muy grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+k) El incumplimiento de la obligación de devolver al órgano municipal competente una autorización o licencia o cualquier otra documentación cuando, por haber sido caducada, revocada o por cualquier otra causa legal o reglamentariamente establecida, debiera haber sido devuelta.
+l) La realización de la actividad de arrendamiento de vehículo con conductor con vehículos ajenos sobre los que no se tengan las condiciones de disponibilidad legalmente exigibles.
+m) La realización de servicios de arrendamiento con conductor cuando se dé alguna de las siguientes circunstancias:
+1.o Inicio de un servicio sin que el arrendador del servicio haya comunicado, por vía electrónica, los datos exigidos al registro de comunicaciones de los servicios de arrendamiento de vehículos con conductor al que exista la obligación de comunicar conforme a la normativa vigente o bien, cuando por cualquier motivo no pueda llevarse a efecto tal comunicación, no se lleve a bordo del vehículo la correspondiente hoja de ruta en la que figuren todos los datos que, en su caso, deberían haber sido comunicados, salvo que reglamentariamente se determinen otros distintos.
+2.o La búsqueda, recogida o captación de clientes que no hayan contratado ni solicitado previamente el servicio. La responsabilidad corresponderá al conductor del vehículo salvo que pruebe que no le resulta imputable.
+n) No llevar en el vehículo los distintivos que sean exigibles de acuerdo con la normativa vigente, llevarlos sin tener derecho a ello o portar signos de identificación que induzcan a confusión con la actividad de los vehículos taxi, aun cuando, tratándose de luminosos, no se lleven encendidos.
+ñ) La prestación de servicios contratados por plaza con pago individual incumpliendo los requisitos que se establezcan reglamentariamente.
+o) Cualquier otra infracción no incluida en los apartados precedentes, que las normas legales reguladoras de los transportes terrestres califiquen como grave, de acuerdo con los principios del régimen sancionador establecidos en el presente capítulo.
+Se modifican las letras c), l) y se añaden las m) a o) por el art. único.8 y 9 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se modifica por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 19
+
+Artículo 19. Infracciones leves.
+Se consideran infracciones leves:
+a) Realizar servicios sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestar los mismos o que resulte exigible para la prestación de la clase de transporte que se está realizando, salvo que dicha infracción deba ser calificada como muy grave conforme a lo previsto en el artículo 17 a).
+b) No llevar en lugar visible del vehículo los distintivos o rótulos exigidos o llevarlos en condiciones que dificulten su percepción, así como su utilización inadecuada.
+c) Carecer en el vehículo de los preceptivos cuadros de tarifas y otros de obligada exhibición para conocimiento del público. A los efectos de lo previsto en esta letra, tendrá la misma consideración la ubicación de los mismos en lugares inadecuados y cualquier otra circunstancia relativa a su tamaño, legibilidad, redacción u otras causas que impidan u ocasionen dificultad para su conocimiento por parte del público.
+d) El trato desconsiderado a los usuarios. Se considerará incluido en esta letra el descuido en el aseo o vestimenta del conductor o del vehículo, así como la negativa a esperar al usuario sin causa justificada.
+e) No proporcionar al usuario cambios de moneda metálica o billetes hasta la cantidad que reglamentariamente se determine.
+f) El incumplimiento, por los usuarios, de las obligaciones establecidas por la normativa correspondiente, salvo que dicho incumplimiento sea considerado expresamente en la ley como infracción grave.
+En todo caso, se considerará constitutivo de la infracción tipificada en esta letra, el incumplimiento por los usuarios de las siguientes prohibiciones:
+1.ª Subir o bajar del vehículo estando éste en movimiento.
+2.ª Realizar, sin causa justificada, cualquier acto susceptible de distraer la atención del conductor o entorpecer su labor cuando el vehículo se encuentre en marcha.
+3.ª Toda acción que pueda implicar deterioro o causar suciedad en los vehículos o, en general, que perjudique los intereses del titular de la correspondiente licencia.
+4.ª Desatender las indicaciones que formule el personal del titular de la correspondiente licencia en relación a la correcta prestación del servicio, así como a lo indicado a tal fin en los carteles colocados a la vista en los vehículos.
+5.ª Impedir o forzar la apertura o cierre de las puertas de acceso a los vehículos.
+6.ª Manipular los mecanismos de apertura o cierre de las puertas de acceso al vehículo o de cualquiera de sus compartimentos previstos para su accionamiento exclusivo por el personal de la empresa transportista.
+7.ª Hacer uso, sin causa justificada, de cualquiera de los mecanismos de seguridad o socorro instalados en el vehículo para casos de emergencia.
+8.ª Efectuar acciones que por su naturaleza puedan perturbar a los demás usuarios o alterar el orden público en los vehículos, así como cualquier comportamiento que implique peligro para la integridad física de los demás usuarios o pueda considerarse molesto u ofensivo para éstos o para el conductor del vehículo.
+9.ª Viajar en lugares distintos de los habilitados para los usuarios.
+10.ª Negarse al abono de las cantidades resultantes de la aplicación del régimen tarifario en vigor.
+g) La no comunicación del cambio de domicilio de los titulares de las licencias, así como de cualquier otro dato o circunstancia que deba figurar en el Registro municipal de licencias o que exista obligación, por otra causa, de poner en conocimiento de la Administración, con arreglo a lo que se determine en las correspondientes normas.
+h) En el transporte escolar y de menores, no exigir la entidad contratante al transportista la licencia de autotaxi u otros documentos o justificantes que, con arreglo a las normas que regulan la seguridad en dichos transportes, deba exigirle.
+i) La carencia, falta de diligenciado o falta de datos esenciales de la documentación cuya cumplimentación resulte, en su caso, obligatoria.
+j) El incumplimiento, por parte de las empresas a través de las cuales se realiza la contratación de los servicios de arrendamiento de vehículos con conductor, de contar con los medios que se establezcan reglamentariamente para salvaguardar los derechos de los usuarios.
+k) El incumplimiento, por parte de las empresas a través de las cuales se realiza la contratación de los servicios de arrendamiento de vehículos con conductor, de abonar al usuario la cuantía de la penalización cuando cancelen unilateralmente el contrato.
+l) Cualquiera de las infracciones previstas en el artículo anterior cuando, por su naturaleza, ocasión o circunstancia, no deba calificarse como grave, debiendo justificarse la existencia de dichas circunstancias y motivarse la resolución correspondiente.
+Se modifica la letra j) y se añaden las k) y l) por el art. único.10 de la Ley 11/2023, de 12 de abril. Ref. BOE-A-2023-18319
+ Se añade por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 20
+
+Artículo 20. Competencia y procedimiento.
+1. La competencia para la imposición de las sanciones a que, en su caso, haya lugar por aplicación de lo dispuesto en los artículos anteriores, corresponderá a los órganos municipales que legal o reglamentariamente la tengan atribuida.
+2. El procedimiento para la imposición de las referidas sanciones se ajustará a lo dispuesto en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y en el Reglamento para su aplicación aprobado por Real Decreto 1211/1990, de 28 de septiembre.
+3. El pago de las sanciones pecuniarias, impuestas por resolución definitiva en vía administrativa, será requisito necesario para que proceda la realización del visado de las tarjetas de transporte, así como la autorización administrativa para la transmisión de los títulos habilitantes para la realización del transporte urbano.
+Se añade por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Artículo 21
+
+Artículo 21. Prescripción.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves al año, contados en todos los casos desde el día en que la infracción se hubiera cometido.
+2. Interrumpirá la prescripción la iniciación, con conocimiento por parte del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+Se añade por el art. 13.2 de la Ley 6/2013, de 23 de diciembre. Ref. BOE-A-2014-3254.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Las competencias que la Ley 5/1985, de 16 de mayo, de Creación del Consorcio Regional de Transportes Públicos Regulares de Madrid, atribuye a este organismo autónomo, en relación con el transporte público regular de viajeros, deben entenderse referidas, en todo caso, a los transportes públicos regulares de viajeros de uso general.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En el transporte público urbano regular de viajeros de uso general será de aplicación, para los Ayuntamientos adheridos al Consorcio Regional de Transportes Públicos Regulares de Madrid, el régimen competencial, económico y demás disposiciones establecidas en la Ley 5/1985, de 16 de mayo, de creación del citado organismo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Respetando las normas generales aplicables, los Ayuntamientos podrán establecer condiciones específicas en relación con los servicios de transporte urbano de viajeros.
+En los transportes de mercancías las competencias municipales se concretarán a los aspectos relativos a su repercusión en la circulación y tráfico urbano.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Autorizaciones de arrendamiento de vehículos con conductor de ámbito nacional, domiciliadas en la Comunidad de Madrid.
+Las autorizaciones de arrendamiento de vehículos con conductor domiciliadas en la Comunidad de Madrid existentes en el momento de la entrada en vigor de la presente ley seguirán habilitando para la prestación de servicios de carácter urbano en el ámbito de la Comunidad de Madrid tras la finalización de los periodos temporales a los que se refiere la disposición transitoria única del Real Decreto-ley 13/2018, de 28 de septiembre, por el que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, en materia de arrendamiento de vehículos con conductor.
+No obstante lo previsto en el párrafo anterior, deberán cumplir los requisitos que se establezcan reglamentariamente.
+Se añade por el art. único.7 de la Ley 5/2022, de 9 de junio. Ref. BOE-A-2022-13071
+
+### Disposición final primera
+
+Disposición final primera.
+En lo no previsto en la presente Ley, o en las demás normas de la Comunidad Autónoma que les afecten, será de aplicación supletoria a los transportes urbanos, realizados en el territorio de la Comunidad de Madrid, el régimen jurídico establecido en las normas estatales para los transportes interurbanos.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Los artículos que a continuación se relacionan de la Ley 5/1985, de 16 de mayo, de creación del Consorcio Regional de Transportes Públicos Regulares de Madrid quedan redactados como sigue:
+1.º El número 11 del artículo 5 —Competencias del Consejo de Administración— queda redactado en los siguientes términos.
+11. Aprobar las autorizaciones y concesiones relativas al transporte público de viajeros.
+2.º El número 6 del artículo 8 pasa, con su redacción originaria, a constituir número 7 de dicho artículo, estableciéndose una nueva redacción para el número 6, resultando los dos apartados como sigue:
+6. Ejercer la facultad sancionadora respecto de las infracciones contra la normativa del transporte público regular de viajeros, con informe semestral al Consejo de Administración de los expedientes sancionadores.
+7. Las demás competencias que le atribuyan los Estatutos y las restantes normas, legales o reglamentarias, de la Comunidad.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Se habilita al Gobierno de Madrid para que, mediante Decreto, pueda dictar y, en su caso, modificar cuantas disposiciones resulten necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley adquirirá validez como norma jurídica y entrará en vigor a partir del día siguiente al de su publicación en el «Boletín Oficial de la Comunidad de Madrid». Asimismo, se publicará en el «Boletín Oficial del Estado» a los meros efectos de su conocimiento.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 27 de noviembre de 1998.
+ALBERTO RUIZ-GALLARDÓN,
+Presidente

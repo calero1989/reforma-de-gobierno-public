@@ -1,0 +1,149 @@
+# Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión.
+
+- Identificador BOE: `BOE-A-1983-19946`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1983-19946
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+La Constitución española de 1978 recoge, entre su diverso contenido, el reconocimiento y garantía de los derechos fundamentales y libertades públicas, como uno de los pilares básicos, en el que se asienta el Estado social y democrático de Derecho.
+El derecho de reunión, manifestación primordial de los derechos fundamentales, como derecho público subjetivo, venia regulado hasta el presente por la Ley 17/1976, de 2 de mayo, aprobada con anterioridad a la elaboración y entrada en vigor de la Constitución, y cuyo contenido se ajustaba al momento de transición política que vivía la sociedad española.
+Tras la entrada en vigor de la Constitución, que consagra la libertad de reunión, se hace necesaria una regulación de dicho derecho con carácter general, modificando el ordenamiento jurídico en todo aquello en que no esté de acuerdo con los mandatos constitucionales, especialmente el que determina que el ejercicio del derecho de reunión no necesitará autorización previa. En definitiva, la presente Ley Orgánica pretende regular el núcleo esencial del derecho de reunión, ajustándolo a los preceptos de la Constitución.
+Así, se elimina el sistema preventivo de autorizaciones en el ejercicio del derecho y se garantiza el mismo mediante un procedimiento en sede judicial de carácter sumario que evite las complejas tramitaciones administrativas que hacían ineficaz el propio ejercicio del derecho, de conformidad con lo establecido en reiterada jurisprudencia constitucional.
+En relación a las reuniones en lugares de tránsito público y manifestaciones, se exige la comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración de orden público, con peligro para personas o bienes, siguiendo de esta forma las normas recogidas en el artículo 21 de la Constitución.
+Por último, se mantiene la vigencia de las normas de carácter especial, en tanto no recojan preceptos contrarios a la Constitución, definiéndose esta Ley como general y supletoria respecto a los regímenes especiales que se mantengan en vigor dentro de la Constitución.
+
+## CAPITULO I
+
+Ámbito de aplicación
+
+### Artículo primero
+
+Artículo primero.
+1. El derecho de reunión pacífica y sin armas, reconocido en el artículo 21 de la Constitución, se ejercerá conforme a lo dispuesto en la presente Ley Orgánica.
+2. A los efectos de la presente Ley, se entiende por reunión la concurrencia concertada y temporal de más de 20 personas, con finalidad determinada.
+3. Son reuniones ilícitas las así tipificadas por las Leyes penales.
+
+### Artículo segundo
+
+Artículo segundo.
+Se podrá ejercer el derecho de reunión sin sujeción a las prescripciones de la presente Ley Orgánica, cuando se trate de las reuniones siguientes:
+a) Las que celebren las personas físicas en sus propios domicilios.
+b) Las que celebren las personas físicas en locales públicos o privados por razones familiares o de amistad.
+c) Las que celebren los Partidos políticos, Sindicatos, Organizaciones empresariales, Sociedades civiles y mercantiles, Asociaciones, Corporaciones, Fundaciones, Cooperativas, Comunidades de propietarios y demás Entidades legalmente constituidas en lugares cerrados, para sus propios fines y mediante convocatoria que alcance exclusivamente a sus miembros, o a otras personas nominalmente invitadas.
+d) Las que celebren los profesionales con sus clientes en lugares cerrados para los fines propios de su profesión.
+e) Las que se celebren en unidades, buques y demás establecimientos militares, que se regirán por su legislación específica.
+Se modifica la letra e) por la disposición final 1 de la Ley Orgánica 9/2011, de 27 de julio. Ref. BOE-A-2011-12961.
+
+## CAPITULO II
+
+Disposiciones generales
+
+### Artículo tercero
+
+Artículo tercero.
+1. Ninguna reunión estará sometida al régimen de previa autorización.
+2. La autoridad gubernativa protegerá las reuniones y manifestaciones frente a quienes trataren de impedir, perturbar o menoscabar el lícito ejercicio de este derecho.
+
+### Artículo cuarto
+
+Artículo cuarto.
+1. Las reuniones, sometidas a la presente Ley, sólo podrán ser promovidas y convocadas por personas que se hallen en el pleno ejercicio de sus derechos civiles.
+2. Del buen orden de las reuniones y manifestaciones serán responsables sus organizadores, quienes deberán adoptar las medidas para el adecuado desarrollo de las mismas.
+3. Los participantes en reuniones o manifestaciones, que causen un daño a terceros, responderán directamente de él. Subsidiariamente, las personas naturales o jurídicas organizadoras o promotoras de reuniones o manifestaciones responderán de los daños que los participantes causen a terceros, sin perjuicio de que puedan repetir contra aquéllos, a menos que hayan puesto todos los medios razonables a su alcance para evitarlos.
+4. La asistencia de militares de uniforme, o haciendo uso de su condición militar, a reuniones o manifestaciones públicas se regirá por su legislación específica.
+Se modifica el apartado 3 por la disposición adicional 3 de la Ley Orgánica 4/1997, de 4 de agosto. Ref. BOE-A-1997-17574
+
+### Artículo quinto
+
+Artículo quinto.
+La autoridad gubernativa suspenderá y, en su caso, procederá a disolver las reuniones y manifestaciones en los siguientes supuestos:
+a) Cuando se consideren ilícitas de conformidad con las Leyes penales.
+b) Cuando se produzcan alteraciones del orden público, con peligro para personas o bienes.
+c) Cuando se hiciere uso de uniformes paramilitares por los asistentes.
+d) Cuando fueran organizadas por miembros de las Fuerzas Armadas o de la Guardia Civil infringiendo las limitaciones impuestas en el artículo 13 de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas o en el artículo 8 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil.
+Tales resoluciones se comunicarán previamente a los concurrentes en la forma legalmente prevista
+Téngase en cuenta que la letra d) añadida por la disposición final 6 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652. entra en vigor el 5 de marzo de 2015.
+Se añade la letra d) por la disposición final 6 de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652.
+
+## CAPITULO III
+
+De las reuniones en lugares cerrados
+
+### Artículo sexto
+
+Artículo sexto.
+Los organizadores y promotores de reuniones, incluidas en el ámbito de aplicación de la presente Ley, que se celebren en lugares, locales o recintos cerrados, podrán solicitar la presencia de delegados de la autoridad gubernativa.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Los delegados de la autoridad gubernativa no intervendrán en las discusiones o debates ni harán uso de la palabra para advertir o corregir a los participantes, todo ello sin perjuicio de lo establecido en la Ley de Enjuiciamiento Criminal.
+
+## CAPITULO IV
+
+De las reuniones en lugares de tránsito público y manifestaciones
+
+### Artículo octavo
+
+Artículo octavo.
+La celebración de reuniones en lugares de tránsito público y de manifestaciones deberán ser comunicadas por escrito a la autoridad gubernativa correspondiente por los organizadores o promotores de aquéllas, con una antelación de diez días naturales, como mínimo y treinta como máximo. Si se tratare de personas jurídicas la comunicación deberá hacerse por su representante.
+Cuando existan causas extraordinarias y graves que justifiquen la urgencia de convocatoria y celebración de reuniones en lugares de tránsito público o manifestaciones, la comunicación, a que hace referencia el párrafo anterior, podrá hacerse con una antelación mínima de veinticuatro horas.
+
+### Artículo noveno
+
+Artículo noveno.
+1. En el escrito de comunicación se hará constar:
+a) Nombre, apellidos, domicilio y documento oficial de identificación del organizador u organizadores o de su representante, caso de personas jurídicas, consignando también la denominación, naturaleza y domicilio de éstas.
+b) Lugar, fecha, hora y duración prevista.
+c) Objeto de la misma.
+d) Itinerario proyectado, cuando se prevea la circulación por las vías públicas.
+e) Medidas de seguridad previstas por los organizadores o que se soliciten de la autoridad gubernativa.
+2. La autoridad gubernativa notificará al Ayuntamiento afectado los datos contenidos en el escrito de comunicación, excepto cuando se trate de una convocatoria urgente de las previstas en el párrafo segundo del artículo anterior, a fin de que éste informe en un plazo de veinticuatro horas sobre las circunstancias del recorrido propuesto. En caso de no recibirse el informe en dicho plazo, el mismo se entenderá favorable. El informe se referirá a causas objetivas tales como el estado de los lugares donde pretenda realizarse, la concurrencia con otros actos, las condiciones de seguridad de los lugares con arreglo a la normativa vigente y otras análogas de índole técnico. En todo caso, el informe no tendrá carácter vinculante y deberá ser motivado.
+Se modifica por el art. único.1 de la Ley Orgánica 9/1999, de 21 de abril. Ref. BOE-A-1999-8929
+
+### Artículo diez
+
+Artículo diez.
+Si la autoridad gubernativa considerase que existen razones fundadas de que puedan producirse alteraciones del orden público, con peligro para personas o bienes, podrá prohibir la reunión o manifestación o, en su caso, proponer la modificación de la fecha, lugar, duración o itinerario de la reunión o manifestación. La resolución deberá adoptarse en forma motivada y notificarse en el plazo máximo de setenta y dos horas desde la comunicación prevista en el artículo 8, de acuerdo con los requisitos establecidos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica por el art. único.2 de la Ley Orgánica 9/1999, de 21 de abril. Ref. BOE-A-1999-8929
+
+### Artículo once
+
+Artículo once.
+De no ser aceptada por los organizadores o promotores la prohibición u otras modificaciones propuestas, podrán interponer recurso contencioso-administrativo ante la Audiencia competente, en el plazo de cuarenta y ocho horas, trasladando copia de dicho recurso debidamente registrada a la autoridad gubernativa con el objeto de que aquélla remita inmediatamente el expediente a la Audiencia.
+El Tribunal tramitará dicho recurso de conformidad con lo establecido en el artículo 7.6 de la Ley 62/1978, de 26 de diciembre de protección jurisdiccional de los derechos fundamentales de la persona.
+
+## DISPOSICION ADICIONAL
+
+DISPOSICIÓN ADICIONAL
+Tendrán la consideración de autoridad gubernativa a los efectos de la presente Ley, además de las de la Administración General del Estado, las correspondientes de las Comunidades Autónomas con competencias para protección de personas y bienes y para el mantenimiento de la seguridad ciudadana, con arreglo a lo dispuesto en los respectivos Estatutos y en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad y conforme al proceso de despliegue de las respectivas policías autónomas.
+Se añade por el art. único.3 de la Ley Orgánica 9/1999, de 21 de abril. Ref. BOE-A-1999-8929
+
+## DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+Esta Ley tiene carácter general y supletorio respecto de cualquiera otras de las que se regule el ejercicio de derecho de reunión.
+
+### Segunda
+
+Segunda.
+Queda derogada la Ley 17/1976, de 2 de mayo, reguladora del Derecho de Reunión, y cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+## DISPOSICION TRANSITORIA
+
+En tanto no se promulgue la Ley Electoral prevista en el artículo 81.1 de la Constitución, las reuniones y manifestaciones que se realicen con motivo de campaña de propaganda electoral estarán sujetas a la jurisdicción de los órganos de la Administración electoral.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a 15 de julio de 1983.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

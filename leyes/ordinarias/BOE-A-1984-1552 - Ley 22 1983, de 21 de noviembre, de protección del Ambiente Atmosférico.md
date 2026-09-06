@@ -1,0 +1,371 @@
+# Ley 22/1983, de 21 de noviembre, de protección del Ambiente Atmosférico.
+
+- Identificador BOE: `BOE-A-1984-1552`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1984-1552
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en DOGC núm. 406, de 10 de febrero de 1984.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente Ley de Protección del Ambiente Atmosférico:
+El aire, bien común y elemento indispensable para la vida, está gravemente degradado en su pureza en diversos lugares de Cataluña y sobre otros se cierne la amenaza a corto plazo.
+Ello reclama de la Generalidad el ejercicio urgente de las competencias que le otorga el Estatuto de Autonomía de Cataluña, a fin de adoptar una posición activa en la prevención, defensa, protección y restauración del ambiente atmosférico.
+La presente Ley es respetuosa tanto con los principios y criterios básicos que se deducen razonablemente de la legislación del Estado, como con las competencias que los entes fiscales tienen en esta materia. Se limita, pues, a establecer y a regular los instrumentos y el procedimiento que se consideran necesarios para hacer posible y efectiva la participación de la Administración de la Generalidad y de la Administración Local en la lucha contra la contaminación atmosférica.
+Así, la Ley:
+A) Por lo que se refiere a la restauración del ambiente atmosférico, contempla las situaciones de agravamiento esporádico o accidental y las más permanentes de la contaminación atmosférica, al igual que lo hace la legislación del Estado, y las valora con los mismos parámetros de nivel de emisión y de inmisión. Prevé la actuación de la Generalidad, con la participación de los municipios afectados, en la declaración de las situaciones de atención o de protección especiales para determinadas zonas y en la formulación y aplicación de los planes de medidas de actuación que permitan resolver las situaciones de peligro, insalubridad, nocividad o molestias graves que se creen en estas zonas, velando asimismo por la protección de la naturaleza y por el mantenimiento del equilibrio ecológico.
+B) Por lo que se refiere a la prevención de la calidad del medio ambiente, prevé la elaboración de uno o diversos mapas de capacidad y de vulnerabilidad del ambiente atmosférico en Cataluña, que sirvan de referencia para los instrumentos de ordenación del territorio.
+C) Por lo que se refiere a la protección del ambiente atmosférico con medidas de disuasión, prevé la posibilidad de imponer sanciones pecuniarias de cuantía suficiente y de suspender actividades y determina cuáles son las autoridades y los órganos con capacidad para imponerlas.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. La presente Ley tiene por objeto establecer y regular los instrumentos y el procedimiento que se consideran necesarios para una actuación efectiva de las Administraciones públicas de Cataluña en el campo de la prevención, vigilancia y corrección de la contaminación atmosférica.
+2. A los efectos de esta Ley, se entiende por «contaminación atmosférica» la presencia en el aire de sustancias o de formas de energía que impliquen riesgo, daño inmediato o diferido o molestia para las personas y para los bienes de cualquier naturaleza.
+
+### Artículo 2
+
+Artículo 2.
+1. El ejercicio de cualquier actividad potencialmente contaminadora de la atmósfera, tanto si es de titularidad pública como si es de titularidad privada, está sujeto a las prescripciones de esta Ley.
+2. A fin de delimitar el régimen aplicable a estas actividades se distingue, a los efectos de esta Ley, entre:
+A) Focos fijos de emisión contaminadora, permanentes o esporádicos, procedentes:
+a) De actividades industriales o de saneamiento, ejercidas en locales cerrados o al aire libre.
+b) De actividades comerciales, de servicios o de viviendas.
+B) Focos móviles de emisión contaminadora.
+
+### Artículo 3
+
+Artículo 3.
+1. Las emisiones de contaminantes a la atmósfera, cualquiera que sea su naturaleza, no podrán rebasar los niveles máximos de emisión establecidos previamente en la normativa vigente.
+Se entiende por «nivel de emisión» la cantidad de cada contaminante vertida a la atmósfera en un período determinado.
+2. Sin perjuicio de lo que dispone el apartado anterior, se podrán establecer límites especiales más rigurosos que los de carácter general, cuando se rebasen en los puntos afectados los niveles de situación admisible de inmisión. La fijación de los citados límites corresponde al Gobierno de la Generalidad por sí mismo o a propuesta de las Corporaciones locales afectadas.
+Se entiende por «nivel de emisión» la cantidad de contaminantes existentes por unidad de volumen de aire, cualquiera que sea su naturaleza.
+
+### Artículo 3 bis
+
+Artículo 3 bis.
+La acción para suscitar la actuación de la Administración pública en materia de protección del ambiente atmosférico es pública.
+Se añade por el art. 1 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+## CAPÍTULO II
+
+Ordenación de la actividad
+
+### Artículo 4
+
+Artículo 4.
+Los titulares de actividades potencialmente contaminadoras de la atmósfera están obligados a:
+A. Disponer de la licencia municipal de actividades o autorización equivalente.
+B. Adoptar las medidas necesarias para garantizar que se respetan los niveles máximos de emisión de contaminantes a la atmósfera establecidos con carácter general o especial o impuestos expresamente en la licencia municipal de actividades o autorización equivalente.
+C. Instalar y mantener en perfecto estado de servicio los sistemas de control o medición para vigilar continua o periódicamente la emisión de sustancias contaminantes, siempre que se establezca por reglamento o se imponga expresamente en el acto de autorización.
+D. Instalar y mantener en perfecto estado de servicio los sistemas de captación y/o los sensores de contaminación atmósferica, para vigilar continua o periódicamente los niveles de inmisión de contaminantes, siempre que se establezca por Reglamento.
+E. Facilitar en todo momento los actos de inspección y de comprobación que las Corporaciones locales o los Departamentos de la Generalidad ordenen y adecuar las instalaciones que lo requieran.
+Se modifican los apartados A, B, y C por el art. 2.1 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 5
+
+Artículo 5.
+A fin de facilitar la aplicación de las prescripciones de esta Ley se elaborarán uno o más mapas, según los casos, que tendrán que actualizarse periódicamente, que reflejen la vulnerabilidad y la capacidad del territorio en relación a la contaminación atmosférica, teniendo en cuenta:
+a) Los niveles de inmisión medidos en cada zona.
+b) Las condiciones meteorológicas y fisiográficas de cada zona.
+c) La localización de actividades contaminantes existentes y el volumen y la clase de contaminante que vierten a la atmósfera.
+d) Las circunstancias y características de vivienda, cultivo, aguas, masas forestales, vías de comunicación, actividades e instalaciones industriales, de servicios, ganaderas y de toda clase, así como los espacios naturales protegidos existentes en la zona.
+Las informaciones resultantes de los mapas de vulnerabilidad y capacidad del territorio deben servir de referencia, tanto en la formulación del planeamiento territorial y urbanístico, como en los procedimientos de autorización de actividades potencialmente contaminadoras de la atmósfera situadas en el correspondiente ámbito territorial.
+Se añade el último párrafo por el art. 2.2 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 6
+
+Artículo 6.
+1. De conformidad con el tipo de actividad de que se trate y con la distinción establecida en el artículo 2.2, se establecerán por Reglamento las determinaciones mínimas que han de contener los proyectos técnicos.
+2. Todos los proyectos técnicos que se formulen para ejercer actividades potencialmente contaminantes de la atmósfera o para ampliar o modificar las ya existentes han de cumplir las prescripciones de los artículos 4 y 5.
+3. En relación a las actividades que por razón de su localización y de su naturaleza tienen un riesgo elevado de contaminación atmosférica, el proyecto técnico ha de contener una evaluación de la incidencia o impacto que la actividad proyectada tendrá sobre cada uno de los parámetros previstos por el mapa.
+
+## CAPÍTULO III
+
+Clasificación de las diversas zonas
+
+### Artículo 7
+
+Artículo 7.
+1. Si por determinadas situaciones meteorológicas esporádicas o por causas accidentales se rebasan los límites de inmisión fijados con carácter general, la zona afectada será declarada «Zona de Atención Especial» por el Consejero de Gobernación, el cual actuará a iniciativa propia o a petición de la Corporación o de las Corporaciones locales correspondientes. Sin necesidad de esperar la declaración del Consejero de Gobernación, el Alcalde o los Alcaldes de los municipios afectados por la situación de contaminación atmosférica descrita podrán declarar provisionalmente la zona como «Zona de Urgencia».
+2. Cuando un Alcalde declare una zona como «Zona de Urgencia» podrá aplicar todas o algunas de las medidas contenidas en el plan de medidas previsto para la zona y comunicará inmediatamente esta resolución al Departamento de Gobernación, el cual, en el plazo de setenta y dos horas, declarará la zona, si procede, como «Zona de Atención Especial».
+3. Declarada la «Zona de Atención Especial», el Consejero de Gobernación ordenará la aplicación del plan de medidas previsto para la zona a que se refiere el artículo siguiente y lo comunicará a la Corporación o Corporaciones locales afectadas.
+
+### Artículo 8
+
+Artículo 8.
+1. Para todas aquellas zonas determinadas del territorio que teniendo en cuenta las circunstancias climatológicas y de concentración de focos contaminantes de la atmósfera, sea previsible que reclamen a corto plazo la declaración de «Zona de Atención Especial», se formulará un plan de las medidas que se considere necesario adoptar, de conformidad con los recursos disponibles, a fin de conseguir que los niveles de inmisión de la zona se reduzcan a límites de situación admisible.
+2. Estos planes de medidas serán formulados por el Departamento de Gobernación, con la participación de los Ayuntamientos de los municipios afectados, y aprobados por el Consejo Ejecutivo de la Generalidad.
+
+### Artículo 9
+
+Artículo 9.
+1. A falta del plan de medidas a que se refiere el artículo anterior, el Alcalde, en el caso de declaración de «Zona de Urgencia», o el Consejero de Gobernación, en el caso de declaración de «Zona de Atención Especial», ordenarán la aplicación de las medidas que consideren más adecuadas entre las siguientes:
+a) Respecto a los focos fijos de emisión contaminadora a que se refiere el artículo 2.2.A):
+Disminuir el tiempo o modificar el horario de funcionamiento.
+Obligar a utilizar las reservas de combustibles poco contaminantes u otras energías alternativas, en su caso.
+Excepcionalmente, suspender el proceso que origina la emisión.
+b) Respecto a los focos móviles de emisión contaminadora:
+Planificar la circulación o prohibirla, si es necesario.
+Para poder adoptar la medida excepcional de suspensión del proceso que origina la emisión será necesario dar audiencia al titular de la actividad, salvo que la declaración fuera provocada por una causa accidental originada en la misma actividad.
+2. Desaparecidos los motivos que hayan provocado la declaración de «Zona de Urgencia» o de «Zona de Atención Especial», la autoridad que la hubiera declarado determinará su revocación, y las medidas adoptadas quedarán sin efecto.
+
+### Artículo 10
+
+Artículo 10.
+1. El Consejo Ejecutivo de la Generalidad declarará una zona determinada como «Zona de Protección Especial» en los siguientes casos:
+a) Si se constata que en este sector del territorio se rebasan los límites de situación admisible y que, para reducirlos no son suficientes las acciones y las medidas que se pueden adoptar en situaciones de declaración de «Zona de Atención Especial».
+b) Si, alcanzado el noventa por ciento de la cifra de admisibilidad de alguno de los parámetros de alerta, se produce una situación que da lugar a un riesgo potencial muy elevado de rebasar los límites permisibles.
+2. La declaración de «Zona de Protección Especial» será realizada por el Consejo Ejecutivo de la Generalidad a propuesta del Consejero de Gobernación, el cual actuará por iniciativa propia o a petición de la Corporación o de las Corporaciones locales correspondientes.
+3. Para el sector del territorio declarado «Zona de Protección Especial» el Departamento de Gobernación, con la participación activa de las Corporaciones locales afectadas, formulará un plan de actuación, que será aprobado por el Consejo Ejecutivo de la Generalidad, previo trámite de información pública por plazo de un mes.
+4. El plan de actuación ha de indicar las medidas a adoptar, los medios económicos o de otro orden a emplear y las entidades y órganos encargados de ejecutarlo.
+5. Entre las posibles medidas a adoptar se incluyen:
+a) La inmediata suspensión de la licencia de ampliación de las actividades o autorización equivalente que pueda producir efectos aditivos que situen la calidad del aire por encima de los límites de inmisión establecidos.
+b) El establecimiento de niveles de emisión más rigurosos que los fijados con carácter general para todas aquellas actividades que contribuyan a la contaminación atmosférica de la zona.
+c) La modificación, mediante el procedimiento legalmente establecido, de los instrumentos de planeamiento urbanístico vigentes en la zona a fin de que no concedan el derecho a establecer usos e instalaciones que puedan agravar la contaminación atmosférica.
+d) La adopción de las medidas necesarias para disminuir dentro del perímetro afectado los efectos contaminantes producidos por el tránsito urbano e interurbano.
+Se modifica el apartado 5.a) por el art. 2.3 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+## CAPÍTULO IV
+
+Funciones de la Administración
+
+### Artículo 11
+
+Artículo 11.
+1. En aplicación de esta Ley, corresponde a las Corporaciones locales en su ámbito territorial y sin perjuicio de las atribuciones que les otorga la legislación sobre Industrias y Actividades Clasificadas:
+a) Aprobar las ordenanzas correspondientes, o adaptar las ya existentes, de acuerdo con las finalidades y las medidas previstas en esta Ley, previo informe del Departamento de Gobernación.
+b) Comprobar y exigir que los proyectos técnicos que acompañen la solicitud de licencia municipal para ejercer actividades clasificadas potencialmente como contaminadoras de la atmósfera contengan las determinaciones mínimas señaladas por Reglamento.
+c) Declarar la «Zona de Urgencia».
+d) Participar con los órganos de la Generalidad:
+En el control de la emisión o de la inmisión de contaminantes.
+En la elaboración del mapa o mapas de vulnerabilidad o de capacidad del territorio por lo que respecta a la contaminación atmosférica previstos en el artículo 5.
+En la declaración de «Zona de Atención Especial» que prevén los artículos 7 y 8.
+En la formulación del plan preventivo de medidas de actuación en la zona declarada como «Zona de Atención Especial» y en la ejecución de las acciones que comporte.
+En la declaración de «Zona de Protección Especial» que prevé el artículo 10.
+En la formulación del plan de medidas que prevé el artículo 8 y en la ejecución de las acciones que comporte.
+e) Imponer las sanciones previstas en los artículos 16 y 17, previa instrucción del correspondiente expediente, en el que se dará trámite de audiencia a los interesados, y comunicarlo a la Generalidad.
+f) Adaptar los planes de ordenación urbanística del municipio a las prescripciones de esta Ley o a las que resulten del mapa o mapas previstos en el artículo 5.
+2. Los municipios incluidos en un plan de actuación especial deben establecer las adecuadas estaciones sensoras para vigilar la contaminación atmosférica, de acuerdo con las previsiones que se establezcan en el propio plan.
+3. Corresponde al municipio la reglamentación de la contaminación producida por los ruidos y vibraciones, en el marco de los principios, criterios y objetivos mínimos de calidad que fije el Gobierno de la Generalidad.
+Se modifica el apartado 2 y se añade el 3 por el art. 2.4 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 12
+
+Artículo 12.
+Sin perjuicio de las atribuciones que le otorga la legislación sobre Industrias y Actividades Clasificadas, corresponde a la Administración de la Generalidad, además de las ya señaladas específicamente en esta Ley:
+a) Establecer en Cataluña la Red de Vigilancia y Previsión de la Contaminación Atmosférica, adscrita al Departamento de Medio Ambiente, que a efectos funcionales, debe coordinarse con la Red Nacional de Vigilancia y Previsión de la Contaminación Atmosférica. La Red, a efectos funcionales, está integrada por todas las estaciones sensoras actuales y las que se instalen en el futuro, tanto si son de titularidad pública, como si son de titularidad privada, siempre que se adecuen al programa de instalación y funcionamiento de la Red, que formula el Departamento de Medio Ambiente de acuerdo con los objetivos, normas y criterios que establece el artículo 13. Igualmente, pueden formar parte de la misma, como sistema complementario y de acuerdo con las especificaciones que establezca el citado programa, estaciones y demás equipos de control y previsión de las condiciones meteorológicas. La adscripción a la Red de Vigilancia y Previsión de la Contaminación Atmosférica de las estaciones de titularidad de entidades locales no conlleva la alteración de la titularidad demanial de los bienes que integran dichas instalaciones.
+a bis) Promover e incentivar la aplicación de técnicas de reducción en origen de las emisiones a fin de lograr un alto nivel de protección del ambiente atmosférico, con especial referencia a los gases de efecto invernadero y a las sustancias destructoras de la capa de ozono.
+b) Establecer los niveles y normas técnicas en cuanto a la emisión e inmisión de contaminantes a la atmósfera, y los métodos de medición y análisis.
+c) Reglamentar el sistema de control de los niveles de emisión de las actividades potencialmente contaminantes de la atmósfera, que debe ser realizado por el Departamento de Medio Ambiente, de acuerdo con los principios y criterios fijados por el artículo 13 bis.2.
+d) Elaborar el mapa o mapas de vulnerabilidad y de capacidad del territorio en relación a la contaminación atmosférica, de acuerdo con el artículo 5.
+La elaboración del mapa o mapas corresponde al Departamento de Política Territorial y Obras Públicas, con la participación de los municipios afectados.
+El mapa o mapas serán aprobados por el Consejo Ejecutivo.
+f) [entiéndase e)] Desarrollar, en colaboración con los entes locales, un programa de fomento y sensibilización social para la minimización del impacto atmosférico de la utilización de vehículos de motor.
+Se modifican los apartados a), b) c) y se añaden el a bis) y f) por el art. 2.5 de la Ley 6/1996, de 28 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 13
+
+Artículo 13.
+1. A fin de asegurar la coherencia de la acción pública en la prestación del servicio de vigilancia y previsión de la contaminación atmosférica, potenciar su operatividad y poder garantizar al público el derecho de acceso a dicha información, el programa de instalación y funcionamiento de la Red de Vigilancia y Previsión de la Contaminación Atmosférica se rige por las siguientes normas:
+a) Las estaciones sensoras y demás equipamientos, que son necesarios para garantizar la adecuada prestación del servicio de obtención de los datos de calidad del aire, y su transmisión, evaluación, uso y difusión, previamente deben cumplir el conjunto de prescripciones técnicas señaladas por el Departamento de Medio Ambiente.
+b) Es competencia del Departamento de Medio Ambiente la validación de los datos sobre la calidad del aire que controla la Red. Corresponde al Departamento de Medio Ambiente, y a las administraciones locales competentes la información al público sobre la calidad del aire, una vez hayan sido procesados y validados los datos obtenidos por la Red, que deben ser puestos, en condiciones de utilización y plazos operativos, a disposición de las entidades locales competentes que así lo soliciten. La información debe facilitarse en el plazo más breve posible en las zonas declaradas de atención especial y urgencia. También corresponde al Departamento de Medio Ambiente la difusión periódica de la información agregada sobre calidad del aire que controla la Red.
+c) Los datos suministrados por la Red y validados por el Departamento de Medio Ambiente son los únicos legalmente válidos para promover la declaración de zonas de atención y protección especial, formular los mapas de capacidad y vulnerabilidad del territorio y emprender actuaciones dirigidas a la corrección de las emisiones.
+d) Los municipios pueden integrar sus equipamientos de vigilancia y previsión de la calidad del aire en la Red de Vigilancia y Previsión de la Contaminación Atmosférica y establecer equipamientos de medición complementarios para el control de la calidad del aire en su término municipal.
+e) La gestión de las estaciones sensoras de la Red que son de titularidad de la Generalidad debe llevarse a cabo por el sistema de convenio o consorcio con los municipios en los que se instalan.
+f) Los sobrecostes que pueda generar la inclusión de los equipamientos locales de vigilancia y previsión de la calidad del aire en la Red deben ser financiados por el Departamento de Medio Ambiente.
+2. Para establecer la Red de Vigilancia y Previsión de la Contaminación Atmosférica en Cataluña y para instalar los aparatos y estaciones de medición de la contaminación atmosférica, en los casos que determina el artículo 4, se pueden imponer las servidumbres forzosas que, en cada caso, se crean necesarias, con la indemnización previa que corresponda legalmente.
+Se modifica por el art. 2.6 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 13 bis
+
+Artículo 13 bis.
+1. Para establecer los niveles de emisión, a nivel general o bien en la licencia municipal de actividades o autorización equivalente, deben tenerse en cuenta los siguientes principios y criterios:
+a) Garantizar que no se infringen las normas de calidad ambiental, de acuerdo con lo dispuesto en la legislación vigente en materia de medio ambiente.
+b) Tomar como referencia el nivel de la tecnología disponible más adecuada, si es que puede ser aplicada por el sector industrial correspondiente en condiciones económicas viables.
+d) Tener en cuenta la información resultante de los mapas de vulnerabilidad y capacidad del territorio.
+2. El sistema de control de los niveles de emisión de las actividades potencialmente contaminantes de la atmósfera, a establecer por vía reglamentaria, debe comprender:
+a) La clasificación de las actividades en grupos o categorías, con la determinación del período máximo en el que deben someterse a un control de emisiones por entidades colaboradoras de la Administración y a cargo de la propia empresa.
+b) Los grupos o categorías de actividades que deben disponer de sistemas automáticos de medición y control incorporados en las instalaciones de las distintas fases del proceso y en los focos emisores. Debe establecerse por reglamento el sistema de transmisión a la Administración competente de los datos obtenidos.
+c) El sistema de acondicionamiento de las instalaciones que permita la toma de muestras de gases y humos, la medición de la temperatura y demás actuaciones de control.
+3. La licencia municipal de actividades o autorización equivalente deben establecer los requisitos de control adecuados, en los que debe especificarse la metodología de medición, frecuencia y procedimiento de evaluación, además de la obligación de comunicar a la autoridad competente los datos necesarios para comprobar el cumplimiento de lo que dispone la autorización.
+4. Se establece para las empresas el sistema voluntario de autodeclaración del grado de cumplimiento de la normativa sobre la protección del ambiente atmosférico, basada en una diagnosis ambiental acreditada según la normativa vigente y la presentación de un programa gradual de reducción de las emisiones que tenga en cuenta los objetivos de calidad que se propone conseguir, los medios a emplear y el calendario de ejecución. El correcto cumplimiento del programa aprobado por el Departamento de Medio Ambiente puede suponer que no se aplique el régimen sancionador establecido por la presente Ley.
+5. Las Administraciones públicas deben aplicar periódicamente políticas y estrategias que faciliten la renovación de la tecnología en uso por otras tecnologías más limpias.
+Se añade por el art. 2.7 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+## CAPÍTULO V
+
+Régimen de beneficios
+
+### Artículo 14
+
+Artículo 14.
+1. En la zona de protección especial y de conformidad con lo que establezca el plan de actuación, las actividades legalmente instaladas antes de la aprobación de esta Ley, afectadas económicamente por las disposiciones del plan, se podrán beneficiar de las subvenciones y de las ayudas que se fijen con carácter general.
+2. Los ayuntamientos que hayan de hacer gastos derivados del plan de actuación especial se podrán beneficiar de las subvenciones y de las ayudas que se fijen con carácter general.
+3. Estas subvenciones y ayudas se otorgarán sin perjuicio de los beneficios que el Gobierno del Estado pueda conceder en aplicación de la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico. En ningún caso la totalidad de las subvenciones, ayudas y beneficios de cualquier clase podrán superar el costo total de las nuevas instalaciones.
+
+### Artículo 15
+
+Artículo 15.
+1. Se crea el Fondo para la protección del ambiente atmosférico.
+2. El Fondo se destina a financiar los gastos y las inversiones públicas en materia de protección del ambiente atmosférico y de mejora de la calidad acústica, al fomento de las actuaciones en instalaciones públicas y privadas destinadas a disminuir los niveles de emisión de contaminantes a la atmósfera y, en general, a las políticas de prevención y mejora de la calidad atmosférica.
+Pueden destinarse recursos económicos del Fondo a la dotación de los medios técnicos y humanos necesarios para su gestión.
+3. El Fondo se integra, de forma diferenciada, en el presupuesto del departamento de la Generalidad competente en materia de calidad atmosférica.
+4. El Fondo se nutre de los siguientes recursos:
+a) El importe de las sanciones impuestas por la Administración de la Generalidad, como consecuencia de infracciones de la normativa que regula la contaminación atmosférica.
+b) Los ingresos derivados de los impuestos ambientales que gravan las emisiones contaminantes a la atmósfera y que devengan finalistas.
+c) Las donaciones, las herencias, las aportaciones y las ayudas que los particulares, las empresas, las instituciones u otras administraciones destinan específicamente al Fondo.
+d) Los remanentes procedentes de economías en la contratación y los ingresos procedentes de revocaciones o renuncias de ayudas o subvenciones financiadas con el Fondo.
+e) Las aportaciones del Presupuesto de la Generalidad de Cataluña y cualquier otro ingreso de derecho público que le sea asignado reglamentariamente.
+5. El Fondo es administrado y controlado por un órgano colegiado adscrito al departamento de la Generalidad competente en materia de calidad ambiental, cuya composición debe establecerse por reglamento.
+Se añade un párrafo al apartado 2 por el art. 76 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 4.b) por el art. 82 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifica por la disposición adicional 1 de la Ley 12/2014, de 10 de octubre. Ref. BOE-A-2014-11991.
+
+## CAPÍTULO VI
+
+Infracciones y sanciones
+
+### Artículo 16
+
+Artículo 16.
+1. Las infracciones que se tipifican en la presente Ley son sancionadas de acuerdo con lo establecido en el presente capítulo, siguiendo previamente el procedimiento sancionador ajustado a lo establecido por ley o reglamento, sin perjuicio de exigir, si procede, las correspondientes responsabilidades civiles y penales y la restauración del medio ambiente y los recursos naturales afectados.
+2. Las infracciones administrativas a las disposiciones de la presente Ley se clasifican en muy graves, graves y leves.
+3. Son infracciones muy graves:
+a) Emitir contaminantes a la atmósfera superando los niveles de emisión legalmente autorizados, si originan daños o perjuicios reales o potenciales para la salud de las personas o el medio ambiente, y derivan de actividades no amparadas por la correspondiente licencia municipal de actividades o autorización equivalente.
+b) Poner en funcionamiento instalaciones incumpliendo órdenes de suspensión o clausura o vulnerando precintos legales.
+c) Reincidir en faltas graves.
+4. Son infracciones graves:
+a) Ejercer actividades potencialmente contaminadoras de la atmósfera sin disponer de la licencia municipal de actividades o autorización equivalente.
+b) Ejercer actividades potencialmente contaminadoras de la atmósfera incumpliendo las condiciones o medidas impuestas en la licencia municipal de actividades o autorización equivalente.
+c) Emitir contaminantes a la atmósfera superando los niveles de emisión legalmente autorizados.
+d) Negarse a instalar, a poner en funcionamiento y a mantener en perfecto estado de servicio los aparatos de control y medición de emisiones o inmisiones, o realizarlo con retraso.
+e) Impedir u obstaculizar los actos de inspección y control reglamentarios u ordenados por las autoridades competentes.
+f) Incumplir el programa gradual de reducción de las emisiones.
+g) Reincidir en faltas leves:
+5. Son infracciones leves:
+a) Incurrir en demora no justificada en la aportación obligatoria de datos, informes o documentos solicitados por la Administración, o bien ocultarlos o alterarlos.
+b) No someterse a los controles periódicos establecidos por reglamento o fijados en la licencia municipal de actividades o autorización equivalente.
+c) Emitir, mediante vehículos de motor, contaminantes a la atmósfera de forma que supere los niveles de emisión legalmente establecidos.
+d) Incurrir en cualquier otra acción u omisión que infrinja las determinaciones de la presente Ley y la reglamentación que la desarrolle y que no sea calificada como infracción grave o muy grave.
+Se modifica por el art. 4 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 17
+
+Artículo 17.
+1. Las infracciones tipificadas en el artículo 16 son sancionadas con una multa de 20.000 pesetas hasta 15.000.000 de pesetas, según la siguiente escala:
+Primero. Por infracciones leves:
+a) De 20.000 a 50.000 pesetas, si se trata de focos móviles de emisión o focos fijos provenientes de actividades comerciales, servicios o viviendas.
+b) De 20.000 a 200.000 pesetas, si se trata de focos fijos de emisión provenientes de actividades industriales o saneamiento.
+Segundo. Por infracciones graves:
+a) De 50.000 a 250.000 pesetas, si se trata de focos móviles de emisión o focos fijos provenientes de actividades comerciales, servicios o viviendas.
+b) De 200.000 a 1.000.000 de pesetas, si se trata de focos fijos de emisión provenientes de actividades industriales o saneamiento.
+Tercero. Por infracciones muy graves:
+a) De 1.000.000 de pesetas a 7.500.000 pesetas, si se trata de focos móviles de emisión o focos fijos provenientes de actividades comerciales, servicios o viviendas.
+b) De 1.000.000 de pesetas a 15.000.000 de pesetas, si se trata de focos fijos provenientes de actividades industriales o saneamiento.
+2. Si las infracciones tipificadas por el artículo 16 originan daños o perjuicios reales o potenciales para la salud de las personas o el medio ambiente, pueden precintarse los generadores de calor y los vehículos y puede procederse a la suspensión o clausura temporal, hasta que se compruebe la corrección de las anomalías o defectos causantes de los citados daños. Una vez transcurrido el plazo concedido para la corrección, si ésta no se ha producido, la clausura puede ser definitiva. Dichas medidas son compatibles con la imposición de la multa que pueda corresponder.
+3. En el caso que la infracción se produzca en lugares declarados zonas de atención especial o zonas de protección especial, la cuantía de la multa puede imponerse hasta el doble o el triple, respectivamente.
+4. La competencia para imponer las sanciones establecidas en los apartados 1 y 2 corresponde:
+a) A los Alcaldes de municipos de menos de 50.000 habitantes y a los Delegados territoriales del Departamento de Medio Ambiente, si la cuantía de la multa no excede de 1.000.000 de pesetas.
+b) A los Alcaldes de municipios de más de 50.000 habitantes, si la cuantía de la multa no excede de 10.000.000 de pesetas.
+c) Al Director general de Calidad Ambiental, si la cuantía de la multa sobrepasa de 1.000.000 de pesetas y no excede de 10.000.000 de pesetas.
+d) Al Consejero de Medio Ambiente, si la cuantía de la sanción excede de 10.000.000 de pesetas o si supone la suspensión o clausura temporal de la actividad.
+e) A los Alcaldes, si la sanción supone el precintado de generadores de calor domésticos, de oficinas o servicios o el precintado de vehículos de motor.
+f) Al Gobierno, si la sanción supone la suspensión o clausura definitiva de la actividad.
+5. Para graduar las multas deben tenerse en cuenta las circunstancias y grado de culpa del responsable, la reiteración, participación y beneficio obtenido, y el grado de incidencia o riesgo objetivo de daño grave a la salud humana, al medio ambiente o a los recursos naturales.
+6. Simultáneamente a la incoación del procedimiento sancionador o en cualquier momento de su curso, puede acordarse, como medida cautelar, el precintado de generadores de calor y vehículos de motor o la suspensión o clausura de la actividad.
+7. La sanción consistente en una multa impuesta por el incumplimiento de los niveles de emisión establecidos, conlleva el requerimiento de la reducción de las emisiones a los límites admitidos en el plazo que se señale en la resolución sancionadora. Si los niveles de inmisión medidos en la zona afectada lo permite y se ha satisfecho la multa impuesta como sanción, puede convenirse con la empresa un programa gradual de reducción de las emisiones análogo al que se señala en el artículo 13 bis. 4.
+Se modifica por el art. 4 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+## CAPÍTULO VII
+
+Régimen de recursos
+
+### Artículo 18
+
+Artículo 18.
+Sin perjuicio de un ulterior recurso ante los órganos de la jurisdicción contencioso-administrativa, contra los actos administrativos sancionadores a que se refiere el artículo 17, puede recurrirse, en la forma y plazos establecidos por las disposiciones de procedimiento administrativo vigentes en Cataluña, del siguiente modo:
+a) Las resoluciones de los Delegados territoriales son recurribles mediante un recurso ordinario ante el Director general de Calidad Ambiental.
+b) Las resoluciones que no ponen fin a la vía administrativa dictadas por el Director general de Calidad Ambiental, son recurribles mediante un recurso ordinario, ante el Consejero de Medio Ambiente.
+c) Las resoluciones del Gobierno, del Consejero de Medio Ambiente y de los Alcaldes, ponen fin a la vía administrativa.
+Se modifica por el art. 4 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 19
+
+Artículo 19.
+La determinación de las medidas correctoras que se hayan de imponer a cualquiera de los focos emisores es, en todos los casos, de exclusiva competencia de la Administración, sin perjuicio de que sea objeto de revisión ante la Jurisdicción Contencioso-Administrativa.
+
+### Artículo 20
+
+Artículo 20.
+1. Los Alcaldes y órganos competentes de la Administración de la Generalidad en materia de protección del ambiente atmosférico tienen la potestad de inspección y control de las actividades potencialmente contaminadoras de la atmósfera. Dicha potestad es ejercida por el personal al servicio de la respectiva Administración, debidamente acreditado. Deben establecerse los medios de coordinación necesarios para lograr un eficaz ejercicio de la potestad de inspección y control de las distintas Administraciones públicas.
+2. Los funcionarios públicos acreditados para ejercer la función inspectora tienen la condición de autoridad y los hechos constatados en el acta de inspección tienen valor probatorio, sin perjuicio de las pruebas que pueden aportar los interesados en defensa de sus derechos e intereses.
+Se añade por el art. 5 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Artículo 21
+
+Artículo 21.
+1. Los aparatos de toma de muestra, análisis y medición de contaminantes deben cumplir las especificaciones técnicas establecidas por el Departamento de Medio Ambiente, y la contrastación o calibrado periódicos de los mismos deben ser realizados por laboratorios oficialmente acreditados.
+2. El análisis de las muestras de humos y gases que no puede llevarse a cabo en el acto de inspección debe realizarse por laboratorios debidamente acreditados en el Departamento de Medio Ambiente.
+3. El representante de la empresa que participa en el acto de inspección puede pedir:
+a) La acreditación del cumplimiento de los requisitos señalados en los apartados 1 y 2.
+b) Los datos técnico del muestreo.
+c) La identificación del laboratorio que debe llevar a cabo el análisis y el sistema analítico al que debe someterse la muestra.
+4. Los resultados del análisis y medición que se obtengan siguiendo el sistema fijado en los apartados 1, 2 y 3 tienen valor probatorio, sin perjuicio de otras pruebas que pueda aportar el interesado.
+Se añade por el art. 5 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Disposición adicional 
+
+Disposición adicional.
+Deben clasificarse por vía reglamentaria los factores de conversión del análisis y medición de contaminantes para garantizar la comprensibilidad de los datos.
+Se añade por el art. 6 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo máximo de dos años el Departamento de Política Territorial y Obras Públicas elaborará el mapa de vulnerabilidad y de capacidad del territorio de Cataluña, según lo que determina el artículo 5.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En el plazo máximo de un año el Departamento de Sanidad y Seguridad Social incorporará a la Red de Vigilancia y Previsión de la Contaminación Atmosférica todas las estaciones sensoras existentes en la actualidad. En cada Servicio Territorial de Promoción de la Salud establecerá un centro de recepción de datos que coordine los centros de análisis instalados en su demarcación.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En el plazo máximo de un año el Departamento de Sanidad y Seguridad Social dictará las normas necesarias para estructurar y regular el funcionamiento de la Red de Vigilancia y Previsión de la Contaminación Atmosférica.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+El Departamento de Sanidad y Seguridad Social informará, una vez realizados los estudios epidemiológicos correspondientes, acerca de los niveles máximos aceptables que se han de tener presentes en cada plan de actuación.
+
+### Disposición final quinta
+
+Disposición final quinta.
+Se autoriza al Consejo Ejecutivo para reasignar, mediante un Decreto, entre los distintos órganos de la Administración de la Generalidad las atribuciones y competencias que les correspondan por la presente Ley, así como para dictar las normas necesarias para su despliegue.
+Se modifica por el art. único de la Ley 7/1989, de 5 de junio. Ref. BOE-A-1989-14732.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Mientras no se hayan dictado las disposiciones reglamentarias de desarrollo de esta Ley regirán, con carácter complementario y supletorio y en todo lo que no las contradiga, la legislación estatal sobre esta materia, y específicamente la Ley 38/1972, de 22 de diciembre (citada), y las normas que la desarrollan.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 21 de noviembre de 1983.
+El Presidente de la Generalidad,
+ El Consejero de Gobernación,
+ JORDI PUJOL SOLER
+ MACIÀ ALAVEDRA I MONER
+
+## [Información relacionada]
+
+Información relacionada
+ Todas la referencias que realiza la Ley a los Departamentos y órganos de Administración de la Generalidad, deben entenderse hechas al Departamento de Medio Ambiente, según establece la disposición adicional 1 de la Ley 6/1996, de 18 de junio. Ref. BOE-A-1996-18131.

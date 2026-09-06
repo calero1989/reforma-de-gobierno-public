@@ -1,0 +1,82 @@
+# Ley 24/2010, de 22 de julio, de aprobación de la escala autonómica del Impuesto sobre la Renta de las Personas Físicas.
+
+- Identificador BOE: `BOE-A-2010-13131`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-13131
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 24/2010, de 22 de julio, de aprobación de la escala autonómica del Impuesto sobre la Renta de las Personas Físicas.
+PREÁMBULO
+La situación actual de crisis ha incidido en las finanzas de la Generalidad, que ha visto reducidos, sensiblemente, los ingresos tributarios debido a la ralentización que ha sufrido la actividad económica. Por este motivo es un objetivo prioritario reducir el déficit público que resulta de esta situación. Con esta finalidad, ya se han adoptado determinadas medidas, tanto por la vía de la reducción del gasto público como por la del incremento selectivo de algunos impuestos.
+En este escenario, es preciso que toda la ciudadanía comparta el esfuerzo para reducir el déficit, teniendo en cuenta, sin embargo, criterios de justicia tributaria, de modo que el esfuerzo de los ciudadanos con una capacidad económica más elevada sea superior. Por ello, y en el marco de las competencias normativas que tiene atribuidas la Generalidad, en el ámbito del impuesto sobre la renta de las personas físicas se incrementan los tipos de gravamen de la base liquidable general a partir de unos importes determinados, que identifican esta mayor capacidad contributiva.
+La presente ley contiene un solo artículo y una disposición final.
+En el marco de las competencias normativas establecidas por el artículo 46.1 de la Ley del Estado 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las comunidades autónomas de régimen común y ciudades con estatuto de autonomía y se modifican determinadas normas tributarias, el artículo único establece la escala autonómica del impuesto sobre la renta de las personas físicas, que pasa de cuatro a seis tramos: los tres primeros coinciden con los tramos de la escala establecida para el ejercicio 2010 por la disposición adicional tercera de la Ley 19/2010, de 7 de junio, de regulación del impuesto sobre sucesiones y donaciones; el cuarto tramo se mantiene, en lo relativo al tipo impositivo, si bien abarca solamente hasta una base liquidable general de 120.000,20 euros; el quinto tramo, que es nuevo, abarca la base liquidable general comprendida entre los 120.000,20 euros y los 175.000,20 euros y tiene fijado el tipo impositivo en el 23,5%; y el sexto y último tramo, también nuevo, hace tributar el exceso de base liquidable general sobre los 175.000,20 euros al 25,5%.
+La disposición final establece la entrada en vigor, que concreta la eficacia de la nueva tarifa a partir del ejercicio 2011.
+
+### Artículo único
+
+Artículo único. Escala autonómica del impuesto sobre la renta de las personas físicas.
+Se aprueba la siguiente escala autonómica del impuesto sobre la renta de las personas físicas:
+Base liquidable
+ Hasta (euros)
+ Cuota íntegra
+ (euros)
+ Resto base liquidable
+ Hasta (euros)
+ Tipo aplicable
+ Porcentaje (%)
+ 
+ 
+ 
+ 
+ 
+ 0,00
+ 0,00
+ 12.450,00
+ 10,50
+ 12.450,00
+ 1.307,25
+ 5.257,20
+ 12,00
+ 17.707,20
+ 1.938,11
+ 3.292,80
+ 14,00
+ 21.000,00
+ 2.399,10
+ 12.007,20
+ 15,00
+ 33.007,20
+ 4.200,18
+ 20.400,00
+ 18,80
+ 53.407,20
+ 8.035,38
+ 36.592,80
+ 21,50
+ 90.000,00
+ 15.902,83
+ 30.000,00
+ 23,50
+ 120.000,00
+ 22.952,83
+ 55.000,00
+ 24,50
+ 175.000,00
+ 36.427,83
+ en adelante
+ 25,50
+Se modifica, con efectos desde el 1 de enero de 2022, por el art. 41 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica, con efectos desde el 1 de enero de 2020, por el art. 87 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición final
+
+Disposición final. Entrada en vigor.
+La presente ley entra en vigor el 1 de enero de 2011.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir
+Palacio de la Generalidad, 22 de julio de 2010.–El Presidente de la Generalidad de Cataluña, José Montilla i Aguilera.–El Consejero de Economía y Finanzas, Antoni Castells i Oliveres.

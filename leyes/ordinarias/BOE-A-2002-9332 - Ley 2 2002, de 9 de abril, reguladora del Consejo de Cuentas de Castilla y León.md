@@ -1,0 +1,348 @@
+# Ley 2/2002, de 9 de abril, reguladora del Consejo de Cuentas de Castilla y León.
+
+- Identificador BOE: `BOE-A-2002-9332`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-9332
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El artículo 51 del Estatuto de Autonomía de Castilla y León, a partir de la reforma producida por la Ley Orgánica 4/1999, de 8 de enero, prevé el Consejo de Cuentas como órgano dependiente de las Cortes de Castilla y León al que corresponde la fiscalización externa, equivalente a la del Tribunal de Cuentas, de la gestión económica, financiera y contable del sector público de la Comunidad y demás entes públicos de Castilla y León. Asimismo, establece este artículo que una Ley de las Cortes regulará sus competencias, organización y funcionamiento.
+A cumplir estas previsiones y regular ese control externo, que ha de coexistir con el del Tribunal de Cuentas, se dirigen las previsiones de la presente Ley.
+Su título I recoge la naturaleza del Consejo de Cuentas de Castilla y León como órgano de control externo, delimita su ámbito de actuación concretando los entes cuya gestión económica y financiera ha de fiscalizar, estableciendo también los criterios generales para el ejercicio de la función consultiva que igualmente corresponde al Consejo.
+El título II regula los criterios generales del ejercicio de la función fiscalizadora, determinando el marco de programación de la misma, su contenido y alcance, así como las técnicas, procedimientos y forma en que debe expresar sus actuaciones.
+El título III determina la función Consultiva y de Asesoramiento del Consejo de Cuentas a las Cortes de Castilla y León.
+El título IV establece la organización del Consejo de Cuentas, enumerando y definiendo sus distintos órganos: Pleno, Presidente, Consejeros y Secretaría General, de los que delimita sus competencias y estatuto respectivos, fijando las previsiones necesarias respecto del personal y los medios materiales del Consejo.
+
+## TÍTULO I
+
+Naturaleza y ámbito de actuación del Consejo de Cuentas
+
+### Artículo 1
+
+Artículo 1. Naturaleza.
+1. El Consejo de Cuentas de Castilla y León es la institución dependiente de las Cortes de Castilla y León que realiza las funciones de fiscalización externa de la gestión económica, financiera y contable del sector público de la Comunidad Autónoma y demás entes públicos de Castilla y León.
+2. Las funciones y competencias del Consejo se entienden sin perjuicio de las legalmente atribuidas al Tribunal de Cuentas, correspondiéndole también el ejercicio de las que le sean delegadas por éste, en los términos previstos en su Ley Orgánica.
+3. En el ejercicio de sus funciones, el Consejo de Cuentas actúa con plena independencia de los entes sujetos a su fiscalización, y con sometimiento a la presente Ley y al resto del ordenamiento jurídico.
+
+### Artículo 2
+
+Artículo 2. Ámbito de actuación.
+1. Están sometidos a la fiscalización del Consejo de Cuentas de Castilla y León:
+a) La administración de las Cortes de Castilla y León, y de los órganos e instituciones dependientes de ellas.
+b) La Administración General de la Comunidad Autónoma y el resto de entidades del sector público autonómico, en los términos que lo define la Ley de la Hacienda y del Sector Público de la Comunidad de Castilla y León.
+c) Las Entidades Locales del ámbito territorial de la Comunidad Autónoma, así como las entidades del sector público que lo integran.
+d) Las sociedades mercantiles en cuyo capital la participación conjunta de las entidades sujetas a fiscalización sea superior al cincuenta por ciento.
+e) Las fundaciones en cuya dotación participen en más del cincuenta por ciento el conjunto de las entidades sujetas a fiscalización.
+f) Los consorcios cuando la aportación económica en dinero, bienes o industria realizada por uno o varios de los sujetos incluidos en los párrafos anteriores de este artículo suponga mas del cincuenta por ciento o se haya comprometido, en el momento de su constitución, a financiar el consorcio en dicho porcentaje.
+2. Corresponde también al Consejo de Cuentas de Castilla y León la fiscalización de las subvenciones, aportaciones a la financiación de entidades, entregas dinerarias sin contraprestación, créditos, avales y otras ayudas de las entidades a que se refiere el apartado 1 anterior percibidas por personas físicas o jurídicas, así como las exenciones y bonificaciones fiscales directas y personales.
+Se modifica por el art. 5.1 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+## TÍTULO II
+
+La función fiscalizadora
+
+### Artículo 3
+
+Artículo 3. Plan anual de fiscalizaciones.
+1. El Consejo de Cuentas realizará sus funciones de fiscalización conforme al Plan anual que elabore y someta a la aprobación de las Cortes de Castilla y León, de acuerdo con lo establecido por el Reglamento de Organización y Funcionamiento de la Institución.
+2. El Plan concretará todas las actuaciones a llevar a cabo durante el ejercicio correspondiente, incluyendo las relativas a la declaración definitiva de la Cuenta General de la Comunidad, las fiscalizaciones a realizar por mandato legal, y las fiscalizaciones especiales a realizar como consecuencia de la iniciativa fiscalizadora que corresponde al propio Consejo y a las Cortes de Castilla y León. En todo caso, el Plan anual establecerá también los criterios generales para la fiscalización de las subvenciones, créditos, avales y contratos en los que la aprobación del gasto corresponda a la Junta de Castilla y León.
+3. El Plan anual de fiscalizaciones podrá ser modificado a lo largo del año a que se refiera, por acuerdo de las Cortes de Castilla y León, a iniciativa propia o a propuesta del Consejo de Cuentas.
+
+### Artículo 4
+
+Artículo 4. Contenido de la función fiscalizadora.
+En el ejercicio de su función fiscalizadora, el Consejo de Cuentas realizará las siguientes actuaciones:
+a) El examen y comprobación de la Cuenta General de la Comunidad Autónoma de Castilla y León.
+b) El examen y comprobación de las cuentas de las demás entidades y organismos a que se refiere el artículo 2 de esta Ley.
+c) El examen de los expedientes referentes a los contratos celebrados por la Administración de la Comunidad y demás entidades sometidas a su control externo.
+d) El examen de la situación y variaciones del patrimonio de la Comunidad y de los patrimonios de los demás organismos y entidades.
+e) El examen de los créditos extraordinarios y suplementos de crédito, así como de las incorporaciones, ampliaciones, transferencias y demás modificaciones de los créditos presupuestarios.
+f) El examen de la contabilidad electoral en los términos previstos en la legislación electoral de la Comunidad de Castilla y León.
+g) Cualquier otra actuación que le encomienden o atribuyan el Tribunal de Cuentas o las Cortes de Castilla y León.
+
+### Artículo 5
+
+Artículo 5. Alcance de la función fiscalizadora.
+1. En el ejercicio de su función fiscalizadora, el Consejo de Cuentas comprobará la legalidad y regularidad de los ingresos y gastos públicos.
+2. Se implantarán progresivamente fiscalizaciones operativas o de gestión para el análisis de la utilización de los recursos disponibles atendiendo al grado de cumplimiento de los objetivos, siguiendo los nuevos modelos de control de las finanzas públicas.
+3. La función fiscalizadora se extenderá también al control de la contabilidad pública, verificando que la misma refleje correctamente la realidad económica del sujeto controlado.
+4. En las fiscalizaciones especiales de carácter financiero el informe incluirá una declaración sobre la fiabilidad y exactitud de las cuentas presentadas.
+Se modifica por el art. 5.2 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 6
+
+Artículo 6. Técnicas de fiscalización.
+1. Para el ejercicio de su función fiscalizadora el Consejo de Cuentas empleará las técnicas y procedimientos que resulten idóneos a la fiscalización pretendida, siguiendo criterios y métodos homogéneos a los establecidos por el Tribunal de Cuentas.
+2. No obstante lo anterior, en el ejercicio de la citada función fiscalizadora, el Consejo de Cuentas analizará la eficacia de los sistemas de control de legalidad y regularidad internos, evaluando las estructuras y procedimientos de la gestión económica financiera. A estos efectos, el Consejo de Cuentas podrá recabar y utilizar los datos correspondientes a cualquier función interventora o de control interno que se haya efectuado en los entes sujetos a fiscalización.
+3. El Consejo de Cuentas elaborará un Manual de Procedimiento de control externo que recoja las técnicas y procedimientos de auditoría que se vayan a aplicar en la fiscalización de la gestión.
+
+### Artículo 7
+
+Artículo 7. Fiscalización de la Cuenta General de la Comunidad.
+1. Para el cumplimiento de sus funciones de fiscalización, la Cuenta General de la Comunidad se remitirá al Consejo en el plazo de un mes desde su formación.
+2. El Consejo de Cuentas enviará a las Cortes de Castilla y León el informe de fiscalización de la Cuenta General de la Comunidad en el plazo de un año desde su recepción.
+3. El informe sobre la Cuenta General incluirá una declaración sobre la fiabilidad y exactitud de las cuentas presentadas y se elevará a las Cortes a los efectos de la resolución que proceda, dando traslado a la Junta de Castilla y León.
+4. Las Cortes de Castilla y León remitirán para su examen al Consejo de Cuentas cuanta documentación contable, presupuestaria y económica reciban de la Junta de Castilla y León en cumplimiento de lo establecido en la Ley de Hacienda de la Comunidad y en las demás disposiciones legales.
+5. Con el objeto de facilitar el ejercicio de la función fiscalizadora sobre la Cuenta General de la Comunidad Autónoma, el Consejo de Cuentas y la Junta de Castilla y León podrán determinar de común acuerdo los términos y contenido de la documentación que ésta pueda remitir a aquella con carácter previo a la rendición de la Cuenta General.
+Se modifican los apartados 2 y 3 y se añade el apartado 5 por el art. 5.3 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 8
+
+Artículo 8. Fiscalización de las Cuentas de las Entidades Locales.
+1. Las Entidades Locales rendirán directamente sus cuentas al Consejo de Cuentas, de conformidad con lo previsto en la legislación reguladora de las Haciendas Locales, dentro del plazo de un mes desde la fecha señalada en dicha norma para la aprobación de sus respectivas cuentas.
+2. El Consejo examinará las cuentas de las entidades locales previstas en el Plan anual dentro de los seis meses siguientes a su recepción.
+3. Las Entidades Locales deberán remitir al Consejo de Cuentas con carácter previo a la rendición de sus cuentas, aquella documentación que les haya sido requerida por aquel para la fiscalización de las mismas.
+Se modifica por el art. 5.4 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 9
+
+Artículo 9. Fiscalización de las cuentas de los demás entes.
+1. Los demás organismos y entidades sujetos a fiscalización deberán rendir sus cuentas al Consejo dentro del mes siguiente a la fecha de aprobación de las mismas, y, en todo caso, a la fecha en que finalice el plazo para su aprobación.
+2. El Consejo examinará las cuentas que prevea el Plan anual dentro de los seis meses siguientes a su recepción.
+
+### Artículo 10
+
+Artículo 10. Examen de los expedientes de los contratos.
+El examen de los expedientes referentes a los contratos sujetos a fiscalización por el Consejo de Cuentas alcanzará a todo el procedimiento de contratación.
+
+### Artículo 11
+
+Artículo 11. Fiscalización del Patrimonio.
+La fiscalización de la situación y variaciones del Patrimonio de la Comunidad y de las demás entidades se ejercerá a través de sus inventarios y de la contabilidad legalmente establecida, y comprenderá la correspondiente a su tesorería y a los empréstitos y demás formas de endeudamiento con sus aplicaciones y empleos.
+
+### Artículo 12
+
+Artículo 12. Fiscalización de los créditos extraordinarios, suplementos de crédito y modificaciones de los créditos presupuestarios iniciales.
+1. La fiscalización de los créditos extraordinarios y suplementos de crédito aprobados por las Cortes de Castilla y León se referirá únicamente al empleo o aplicación específica del crédito concedido. La de los concedidos por la Junta de Castilla y León o por el Consejero de Economía y Hacienda a los organismos autónomos, se referirá a la observancia de las normas aplicables a la concesión y al empleo o aplicación específica del crédito concedido.
+2. La fiscalización de las demás modificaciones de los créditos presupuestarios se referirá a la observancia de lo prevenido en la legislación aplicable, en cuanto al expediente de concesión tramitado al efecto y al empleo o aplicación específica del crédito concedido.
+
+### Artículo 13
+
+Artículo 13. Procedimientos de fiscalización y requerimientos de colaboración.
+1. Los procedimientos de fiscalización se ajustarán a las prescripciones de esta ley y disposiciones de desarrollo, que en todo caso regularán el trámite de audiencia de los interesados en sus actuaciones. En lo no previsto en aquellas normas, serán de aplicación las disposiciones de la legislación reguladora del procedimiento administrativo común.
+2. El Consejo de Cuentas puede exigir la colaboración de los órganos, entidades y personas físicas o jurídicas sujetos a su fiscalización, quienes deberán proporcionarle los datos, documentos, antecedentes o informes que solicite relacionados con el ejercicio de su función fiscalizadora, pudiendo utilizar para ello los oportunos soportes informáticos. El reglamento que desarrolle la presente Ley establecerá las consecuencias de los incumplimientos de este deber de colaboración.
+3. Toda persona natural o jurídica, pública o privada, estará obligada a proporcionar, previo requerimiento del órgano competente del Consejo de Cuentas, cualquier clase de datos necesarios con trascendencia para la actividad de fiscalización de los entes sometidos a control.
+4. En caso de que, efectuado tal requerimiento, se siguieran incumpliendo las obligaciones señaladas en el apartado segundo, el Pleno del Consejo podrá imponer, previa tramitación del oportuno procedimiento y audiencia al interesado y de la entidad en cuyo nombre y representación actúe, en su caso, multas coercitivas. Las cuantías de las multas serán establecidas en las correspondientes leyes de acompañamiento de los Presupuestos de la Comunidad Autónoma y tendrán a todos los efectos la naturaleza de ingresos de derecho público.
+5. Lo anterior se entiende sin perjuicio de las responsabilidades penales y de otro tipo a que hubiera lugar.
+Se modifica por el art. 5.5 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 14
+
+Artículo 14. Informes de fiscalización.
+1. El Consejo de Cuentas cumplirá su función fiscalizadora mediante la emisión de informes.
+2. En sus informes el Consejo de Cuentas se referirá a la observancia de la Constitución, del Estatuto de Autonomía, de las leyes reguladoras de los ingresos y los gastos de las entidades públicas y, en general, de las normas que afecten a la actividad económico-financiera de las mismas.
+3. El Consejo hará constar las infracciones, abusos o prácticas irregulares que observe, y, en su caso, concretará las medidas que considere más adecuadas para depurar las presuntas responsabilidades.
+4. El Consejo de Cuentas podrá proponer la adopción de las medidas que considere pertinentes para la mejora de la gestión económico-financiera de las Administraciones y entidades sujetas a su fiscalización y de los procedimientos de control interno.
+5. Las alegaciones formuladas previamente a la redacción del informe definitivo, así como las resoluciones recaídas sobre las mismas, se incorporarán al informe de fiscalización correspondiente.
+6. Los informes de fiscalización aprobados definitivamente por el Consejo de Cuentas serán remitidos a las Cortes de Castilla y León para su tramitación y debate de conformidad con lo previsto en el Reglamento de la Cámara.
+7. Los informes de fiscalización se harán públicos a través de la sede electrónica del Consejo de Cuentas de Castilla y León y las resoluciones que adopten las Cortes de Castilla y León sobre dichos informes se publicarán en el Boletín Oficial de Castilla y León».
+Se modifica el apartado 7 por el art. 3.1 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+ Se modifica el apartado 5 y se añaden los apartados 6 y 7 por el art. único.1 a 3 de la Ley 6/2008, de 15 de octubre. Ref. BOE-A-2008-17258.
+
+### Artículo 15
+
+Artículo 15. Memoria de actividades.
+Dentro de los tres meses siguientes a la terminación de cada ejercicio económico, el Consejo de Cuentas elaborará una Memoria anual descriptiva del conjunto de su actividad durante el año precedente. Esta Memoria será remitida a las Cortes de Castilla y León, por conducto de la Mesa de la Cámara.
+Se modifica por el art. único.4 de la Ley 6/2008, de 15 de octubre. Ref. BOE-A-2008-17258.
+
+## TÍTULO III
+
+La función consultiva
+
+### Artículo 16
+
+Artículo 16. Función consultiva.
+El Consejo de Cuentas emitirá dictamen respecto de anteproyectos de disposiciones de carácter general relativos a procedimientos presupuestarios, contabilidad pública, intervención y auditoría cuando así se lo solicite la Junta de Castilla y León, por conducto de las Cortes.
+Se modifica por el art. 5.6 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+## TÍTULO IV
+
+Organización del Consejo de Cuentas
+
+### Artículo 17
+
+Artículo 17. Facultades de organización.
+1. El Consejo de Cuentas se organizará de acuerdo con lo establecido en la presente Ley y en su propio Reglamento de Organización y Funcionamiento.
+2. El Consejo de Cuentas tendrá facultades para organizar todos los asuntos relacionados con su régimen interno y su personal, de acuerdo con su Reglamento de Organización y Funcionamiento.
+
+### Artículo 18
+
+Artículo 18. Órganos del Consejo de Cuentas.
+El Consejo de Cuentas está integrado por los siguientes órganos:
+a) El Pleno.
+b) El Presidente.
+c) Los Consejeros.
+Se suprime la letra d) por el art. 5.7 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 19
+
+Artículo 19. El Pleno del Consejo de Cuentas.
+1. El Pleno es el órgano colegiado del Consejo de Cuentas. Está integrado por tres Consejeros, uno de los cuáles será designado su Presidente, conforme a lo establecido en la presente Ley.
+2. Las funciones de secretaría del Pleno serán ejercidas por quien designe el Presidente de entre el personal funcionario al servicio del Consejo.
+Sus funciones son:
+a) Asistir a las reuniones, con voz pero sin voto.
+b) Efectuar la convocatoria de las sesiones por orden del Presidente, así como las citaciones a los miembros.
+c) Recibir los escritos y documentos de los que debe conocer el Pleno, así como los actos de comunicación entre este y sus miembros.
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+e) Expedir certificaciones de los informes, dictámenes y acuerdos aprobados.
+f) Ordenar y custodiar la documentación del Pleno.
+g) Cuantas otras funciones sean inherentes a su condición.
+El desempeño de estas funciones no conllevará la percepción de retribuciones, dietas o indemnizaciones.
+3. Para la válida constitución del Pleno y la adopción de acuerdos se seguirán las normas básicas de régimen jurídico de las Administraciones Públicas en materia de órganos colegiados.
+4. El Pleno será convocado por el Presidente a iniciativa propia o siempre que lo soliciten los dos Consejeros restantes.
+5. La convocatoria, a la que se acompañará el orden del día, deberá notificarse con una antelación mínima de cuarenta y ocho horas, salvo los casos de urgencia.
+6. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que estén presentes todos los miembros del Consejo y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+7. De cada sesión que celebre el Pleno del Consejo de Cuentas se levantará acta que especificará los asistentes, el orden del día de la reunión, las circunstancias de lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
+8. En todo lo no previsto en esta Ley y en su propio Reglamento, el funcionamiento del Pleno se regirá por lo establecido en las normas reguladoras del régimen jurídico de las Administraciones Públicas.
+Se modifican los apartados 2 y 7 por el art. 5.8 y 9 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifican los apartados 1, 3 y 4 por el art. 3.2 a 4 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Artículo 20
+
+Artículo 20. Funciones del Pleno.
+Corresponde al Pleno:
+a) Elaborar y someter a la aprobación de las Cortes de Castilla y León el proyecto del Plan anual de fiscalizaciones.
+b) Ejercer la función fiscalizadora.
+c) Aprobar los informes, memorias, dictámenes y otros documentos a que puedan dar lugar los procedimientos de fiscalización.
+d) Establecer las directrices técnicas a que deban sujetarse los procedimientos de fiscalización y los criterios que han de presidir su actuación en el ejercicio de la función fiscalizadora.
+e) Proponer a uno de sus miembros como Presidente para su nombramiento por las Cortes de Castilla y León.
+f) Elaborar y proponer para su aprobación por la Mesa de las Cortes de Castilla y León el proyecto de reglamento de organización y funcionamiento del Consejo, así como los posibles proyectos de reforma del mismo.
+g) Aprobar el anteproyecto de presupuestos del Consejo y remitirlo a las Cortes de Castilla y León.
+h) Establecer la organización administrativa que resulte necesaria para el funcionamiento del Consejo de Cuentas, de acuerdo con lo establecido en esta Ley y en el Reglamento.
+i) Proponer a la Mesa de las Cortes de Castilla y León la plantilla de personal del Consejo.
+j) Imponer las multas coercitivas a que se refiere el artículo 13.4.
+k) Las demás funciones que no estén expresamente atribuidas a otros órganos del Consejo.
+Se modifican las letras f), g), i) y j) y se añade la k) por el art. 5.10 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 21
+
+Artículo 21. El Presidente del Consejo de Cuentas.
+1. El Presidente del Consejo de Cuentas será nombrado por las Cortes de Castilla y León por mayoría absoluta, a propuesta del Pleno del Consejo de entre sus miembros. En caso de vacante o ausencia del Presidente, ejercerá sus funciones el Consejero más antiguo y, si concurriesen varios de la misma antigüedad, el de mayor edad.
+2. El Presidente de las Cortes acreditará con su firma el nombramiento del Presidente, que se publicará en el Boletín Oficial de Castilla y León.
+3. El mandato del Presidente tendrá la misma duración que el de los Consejeros. El Presidente solo podrá ser reelegido para un segundo mandato.
+4. Son atribuciones del Presidente:
+a) Representar al Consejo de Cuentas, en particular en sus relaciones con las Instituciones de la Comunidad Autónoma y con el Tribunal de Cuentas.
+b) Convocar y presidir el Pleno, dirigir sus deliberaciones y decidir con voto de calidad en caso de empate.
+c) Comparecer ante el órgano correspondiente de las Cortes de Castilla y León, acompañado de los Consejeros correspondientes, para presentar las actuaciones del Consejo.
+Comparecer, así mismo, anualmente para informar sobre el seguimiento de las recomendaciones contenidas en los informes de las fiscalizaciones realizadas.
+d) Ejercer la superior dirección del personal del Consejo y la potestad disciplinaria, y acordar los nombramientos de todo el personal al servicio del mismo.
+e) Organizar y dirigir los servicios generales del Consejo. Disponer los gastos propios del mismo y realizar la contratación de aquellas materias de su competencia, en aquellos ámbitos no reservados a la Secretaria General de apoyo a las Instituciones Propias.
+f) Las demás facultades que le reconozca la presente ley y disposiciones de desarrollo, o que le atribuya el Pleno del Consejo.
+5. El Presidente perderá su condición por la finalización de su mandato, por renuncia a su cargo de Presidente formulada ante el Presidente de las Cortes de Castilla y León o por la pérdida de la condición de miembro del Consejo. En los dos primeros casos continuará en el ejercicio de sus funciones hasta el nombramiento y toma de posesión del nuevo Presidente.
+La sustitución en el cargo de Presidente, cuando no se produzca como consecuencia de la renovación de los miembros del Consejo, será por el tiempo que reste hasta su renovación. Este periodo de tiempo no se tendrá en cuenta a los efectos del límite previsto en el apartado 3 de este artículo.
+6. En caso de vacante o ausencia del Presidente ejercerá sus funciones el Consejero de mayor antigüedad o edad, por este orden.
+Se modifica por el art. 5.11 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 22
+
+Artículo 22. Los Consejeros.
+1. Los tres Consejeros de Cuentas serán elegidos por las Cortes de Castilla y León por un periodo de cuatro años, en votación conjunta de los candidatos que corresponda presentar a los Grupos Parlamentarios en proporción al número de Procuradores integrado en cada uno de ellos. Los candidatos se entenderán designados si alcanzan el voto favorable de los tres quintos de la Cámara en primera votación o de la mayoría absoluta en segunda votación, si fuere necesario.
+2. En el supuesto de que se produjera alguna vacante, el Presidente del Consejo lo pondrá en conocimiento de las Cortes de Castilla y León para que se proceda a su provisión de acuerdo con lo establecido en el apartado anterior y por el tiempo que reste de mandato.
+3. Finalizado su mandato, y sin perjuicio de su posible reelección los Consejeros continuarán en el ejercicio de sus funciones hasta que se produzca el nombramiento del nuevo Consejero.
+Se modifica el apartado 1 por el art. 5.12 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+ Se modifica el apartado 1 por el art. 3.5 de la Ley 5/2011, de 19 de septiembre. Ref. BOE-A-2011-15817.
+
+### Artículo 23
+
+Artículo 23. Funciones de los Consejeros.
+A los Consejeros les corresponde el ejercicio de las siguientes funciones:
+a) Dirigir las actuaciones de fiscalización que les hayan sido asignadas y elevar al Presidente los resultados de las mismas para que, en su caso, sean aprobadas por el Pleno.
+b) Dirigir, coordinar y aprobar los trabajos que realicen los órganos dependientes de ellos, así como el departamento correspondiente dentro de la distribución funcional que establezca el Reglamento del Consejo.
+c) Las demás funciones que les sean encomendadas por el Pleno o su Presidente.
+
+### Artículo 24
+
+Artículo 24. Requisitos para la elección de los Consejeros.
+1. La elección de los Consejeros de Cuentas se llevará a cabo entre funcionarios públicos pertenecientes a Cuerpos para cuyo ingreso se exija titulación académica superior, así como entre Abogados y Economistas, todos de reconocida competencia en relación con las funciones del Consejo y con más de diez años de ejercicio profesional.
+2. No podrán ser designados Consejeros de Cuentas quienes en los dos años anteriores a la fecha de nombramiento hubieran estado comprendidos en alguno de los supuestos siguientes:
+a) Las autoridades o funcionarios que hubieren desempeñado funciones de dirección, gestión, inspección o intervención de ingresos o gastos en cualquiera de las entidades pertenecientes al sector público de Castilla y León.
+b) Los presidentes, directores y miembros de los Consejos de Administración u órganos colegiados de dirección en las entidades pertenecientes al sector público de Castilla y León.
+c) Los particulares que excepcionalmente administren, recauden o custodien fondos o valores públicos.
+d) Cualquier otra persona que, de acuerdo con esta Ley, haya de rendir cuentas ante el Consejo de Cuentas.
+
+### Artículo 25
+
+Artículo 25. Régimen de incompatibilidades.
+1. La condición de miembro del Consejo de Cuentas de Castilla y León es incompatible, en todo caso, con:
+a) Cualquier cargo político o mandato representativo en el Estado, Comunidades Autónomas, Entes Locales, Unión Europea u Organismos Internacionales o puesto o cargo asimilado en el sector público de cualquiera de dichas instancias.
+b) El ejercicio de funciones directivas o ejecutivas en los partidos políticos, sindicatos o asociaciones empresariales.
+c) El ejercicio, directamente o a través de terceras personas, de cargos en empresas o sociedades dedicadas a actividades que sean objeto de contratación por parte de las Administraciones Públicas o subvencionadas por éstas, concesionarias de las mismas, arrendatarias o administradoras de monopolios o con participación del sector público.
+d) El desempeño, durante su mandato, de cualesquiera cargos, funciones o actividades a que se refiere el artículo 24.2 de esta ley.
+2. Los miembros del Consejo de Cuentas podrán optar entre desempeñar sus funciones en régimen de dedicación exclusiva o parcial debiendo garantizar en todo caso la plena disponibilidad para cumplir sus deberes con puntualidad y eficacia, así como su imparcialidad e independencia en el cumplimiento de sus funciones públicas.
+3. Los miembros del Consejo en régimen de dedicación exclusiva no podrán ejercer, ni por sí mismos ni mediante sustitución, ninguna otra actividad profesional, mercantil, industrial o laboral, pública o privada, por cuenta propia o ajena retribuida mediante sueldo, arancel, honorarios, comisión o de cualquier otra forma, que no sea la administración de su propio patrimonio. No obstante, serán compatibles las actividades de producción y creación literaria, artística, científica, técnica o investigadora, y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente a congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo o de prestación de servicios o supongan un menoscabo del estricto cumplimiento de sus deberes.
+4. El régimen de incompatibilidades de los miembros del Consejo de Cuentas con dedicación parcial será el que les corresponda por razón de su otro cargo o actividad, dentro de los límites fijados en el apartado 1 de este artículo.
+Se modifica por el art. 5.13 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 26
+
+Artículo 26. Causas de abstención y recusación.
+Los Consejeros de Cuentas deberán abstenerse o podrán ser recusados cuando concurra alguna de las causas previstas en las normas reguladoras del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en todo caso se abstendrán de la fiscalización de cualquier acto o expediente en que hayan intervenido.
+Se modifica por el art. 5.14 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 27
+
+Artículo 27. Pérdida de la condición de Consejero.
+1. Los miembros del Consejo de Cuentas perderán su condición por las siguientes causas:
+a) Por fallecimiento.
+b) Por renuncia.
+c) Por extinción del mandato al expirar el plazo, sin perjuicio de su posible reelección.
+d) Por incapacidad declarada por decisión judicial firme.
+e) Por inhabilitación para el ejercicio de los derechos políticos declarada por decisión judicial firme.
+f) Por condena, en sentencia firme, a causa de delito.
+g) Por incumplimiento de las obligaciones del cargo apreciado por las Cortes de Castilla y León.
+h) Por incompatibilidad sobrevenida apreciada por las Cortes de Castilla y León en los términos previstos por el artículo 25.
+2. La pérdida de la condición de miembro del Consejo de Cuentas por el incumplimiento de las obligaciones del cargo o por incompatibilidad sobrevenida será declarada por el Pleno de las Cortes de Castilla y León, por mayoría de tres quintos, en sesión convocada al efecto, a la que el Consejero afectado podrá asistir y hacer uso de la palabra antes de la votación. La iniciativa para el debate corresponderá al Presidente de las Cortes, a dos Grupos Parlamentarios o a una quinta parte de los Procuradores.
+Se modifica por el art. 5.15 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 28
+
+Artículo 28. Régimen retributivo.
+1. El Presidente del Consejo de Cuentas podrá desempeñar sus funciones en régimen de dedicación exclusiva o, excepcionalmente, parcial cuando así lo autorice el Pleno del Consejo. En el primero de los casos, sus retribuciones serán las que se fijen anualmente en la Ley de Presupuestos de la Comunidad de Castilla y León, sin que, en ningún caso, puedan superar la establecida para el Presidente de la Junta de Castilla y León. En el caso de no ejercer su actividad en régimen de exclusividad, percibirá las dietas e indemnizaciones que en su reglamento de organización y funcionamiento se establezcan, teniendo como límite, en cómputo anual, la tercera parte de las retribuciones fijadas en los Presupuestos de la Comunidad para el desempeño del cargo en dedicación exclusiva.
+2. Las retribuciones de los Consejeros del Consejo de Cuentas en régimen de dedicación exclusiva serán las que se fijen anualmente en la Ley de Presupuestos de la Comunidad de Castilla y León, sin que, en ningún caso, puedan superar las establecidas para los Consejeros de la Junta de Castilla y León. En el caso de no ejercer su actividad en régimen de exclusividad, percibirán las dietas e indemnizaciones que en su reglamento de organización y funcionamiento se establezcan, teniendo como límite, en cómputo anual, la tercera parte de las retribuciones fijadas en los Presupuestos de la Comunidad para el desempeño del cargo de Consejero en régimen de dedicación exclusiva.
+Se modifica por el art. 5.16 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 29
+
+Artículo 29. Personal al servicio del Consejo de Cuentas.
+1. El personal al servicio del Consejo de Cuentas tendrá la condición de funcionario, laboral o eventual. Al personal funcionario le resultará de aplicación el régimen general de los funcionarios de carrera de la Administración de la Comunidad de Castilla y León. Al personal eventual y laboral le será aplicable dicho régimen jurídico en lo que sea adecuado a su condición.
+2. La plantilla de personal del Consejo de Cuentas será remitida por el Pleno del Consejo a la Mesa de las Cortes de Castilla y León, para su aprobación, si procede. En la plantilla se determinarán los puestos de trabajo a desempeñar por el personal a su servicio y contendrá los datos exigidos en la legislación de la función pública de la Comunidad de Castilla y León.
+3. Los puestos de trabajo del Consejo, reservados a personal funcionario, se cubrirán, preferentemente por concurso, entre funcionarios de los cuerpos o escalas equivalentes de la Administración de Castilla y León o de cualquier otra Administración Pública, Entidad, Institución u Organismo Público.
+4. La convocatoria y resolución de los procedimientos de selección y provisión de puestos de trabajo, así como la extinción de la relación de servicios, corresponderá al Pleno del Consejo.
+5. Los conceptos y cuantías retributivas del personal al servicio del Consejo serán las que se establezcan anualmente para el personal al servicio de la Administración de la Comunidad.
+Se modifica por el art. 5.17 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Artículo 30
+
+Artículo 30. Medios materiales y personales.
+1. El Consejo de Cuentas dispondrá de los medios materiales y personales necesarios de acuerdo con las previsiones contenidas al efecto en el presupuesto de las Cortes de Castilla y León.
+2. Anualmente, el Pleno del Consejo elaborará un anteproyecto de Presupuesto, que será remitido a la Mesa de las Cortes de Castilla y León para su aprobación, si procede, e incorporación a la sección de las Cortes de Castilla y León de los Presupuestos Generales de la Comunidad Autónoma.
+Se modifica por el art. 5.18 de la Ley 4/2013, de 19 de junio. Ref. BOE-A-2013-7748.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Normas de procedimiento para la elección de Consejeros.
+En defecto de normas específicas de desarrollo de la presente Ley, y en todo lo que sea compatible con la misma, serán de aplicación al procedimiento de elección de los Consejeros de Cuentas previsto en su artículo 22 las disposiciones procedimentales establecidas en la Ley 7/1987, de 8 de mayo, por la que se regula el procedimiento de designación de Senadores representantes de la Comunidad de Castilla y León.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Designación de los Consejeros.
+En el plazo máximo de seis meses desde la entrada en vigor de esta Ley, las Cortes de Castilla y León designarán a los Consejeros del Consejo de Cuentas por el procedimiento y con los requisitos establecidos en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Reglamento de Organización y Funcionamiento.
+En el plazo de seis meses a partir de su constitución, el Pleno del Consejo elaborará el proyecto de Reglamento de Organización y Funcionamiento del Consejo de Cuentas para su aprobación, si procede, por las Cortes de Castilla y León.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta Ley entrará en vigor a los quince días desde su publicación en el «Boletín Oficial de Castilla y León».
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 9 de abril de 2002.
+JUAN VICENTE HERRERA CAMPO,
+Presidente

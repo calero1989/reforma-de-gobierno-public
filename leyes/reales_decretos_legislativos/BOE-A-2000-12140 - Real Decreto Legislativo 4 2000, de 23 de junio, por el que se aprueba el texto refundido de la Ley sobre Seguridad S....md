@@ -1,0 +1,599 @@
+# Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado.
+
+- Identificador BOE: `BOE-A-2000-12140`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-12140
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado fue establecido por la Ley 29/1975, de 27 de junio, sobre Seguridad Social de los Funcionarios Civiles del Estado. Sus directrices obedecen a los mismos criterios inspiradores de la Ley 193/1963, de 28 de diciembre, de bases de la Seguridad Social.
+Precisamente en el campo de la protección social se han venido produciendo numerosas modificaciones que dieron lugar, en su momento, a la promulgación del texto refundido de la Ley General de Seguridad Social, aprobado por Real Decreto legislativo 1/1994, de 20 de junio. Asimismo, otras materias concernientes a los derechos de los funcionarios han sido objeto de nuevas regularizaciones, aclaraciones y armonizaciones, especialmente el ámbito de la protección social de las Clases Pasivas del Estado, cuyo texto refundido fue aprobado por Real Decreto legislativo 670/1987, de 30 de abril, sin que estos procesos hayan tenido un reflejo paralelo en las disposiciones legales aplicables a la Mutualidad General de Funcionarios Civiles del Estado, cuya normativa es en estos momentos compleja y dispersa.
+Por ello, el artículo 62 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, facultó al Gobierno para que, en el plazo de un año a partir de su entrada en vigor, procediera a la elaboración de un texto refundido que regularizara, aclarara y armonizara la Ley 29/1975 citada y sus modificaciones posteriores, con las disposiciones contenidas en normas con rango de ley, que hubieran incidido en el ámbito del mutualismo administrativo gestionado por la Mutualidad General de Funcionarios Civiles del Estado.
+La aprobación de la Ley 39/1999, de 5 de noviembre, para promover la conciliación de la vida familiar y laboral de las personas trabajadoras, que introduce la situación de riesgo durante el embarazo como contingencia protegida en el Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado, y las otras modificaciones de este Régimen contempladas en la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, aconsejaron a las Cortes Generales la concesión, en la última Ley citada, de una prórroga hasta el 30 de junio del año 2000, de la delegación legislativa conferida al Gobierno, con el fin de permitir la integración de estas novedades legislativas en el texto refundido.
+En su virtud, a propuesta del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2000,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único.
+Se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado que se inserta a continuación.
+
+### Disposición final única
+
+Disposición final única.
+El presente Real Decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de junio de 2000.
+JUAN CARLOS R.
+El Ministro de Administraciones Públicas,
+JESÚS POSADA MORENO
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY SOBRE SEGURIDAD SOCIAL DE LOS FUNCIONARIOS CIVILES DEL ESTADO
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado.
+El Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado se rige por lo dispuesto en la presente Ley y en sus normas de aplicación y desarrollo, así como por la legislación de Clases Pasivas del Estado.
+
+### Artículo 2
+
+Artículo 2. Mecanismos de cobertura.
+1. Este Régimen especial queda integrado por los siguientes mecanismos de cobertura:
+a) El Régimen de Clases Pasivas del Estado, de acuerdo con sus normas específicas.
+b) El Régimen del Mutualismo Administrativo que se regula en la presente Ley.
+2. No obstante lo anterior, los funcionarios de carrera de la Administración Civil del Estado que hayan ingresado a partir del 1 de enero de 2011, quedarán integrados en el Régimen General de la Seguridad Social a los exclusivos efectos de pensiones, de acuerdo con lo dispuesto en el apartado 1 del artículo 20 del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo.
+Se modifica por la disposición final 10.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Artículo 3
+
+Artículo 3. Campo de aplicación.
+1. Quedan obligatoriamente incluidos en el campo de aplicación de este Régimen especial:
+a) Los funcionarios de carrera de la Administración Civil del Estado.
+b) Los funcionarios en prácticas que aspiren a incorporarse a Cuerpos de la Administración Civil del Estado, en la forma que reglamentariamente se determine.
+2. Quedan excluidos de este Régimen especial y se regirán por sus normas específicas:
+a) Los funcionarios de la Administración Local.
+b) Los funcionarios de organismos autónomos.
+c) Los funcionarios de Administración Militar.
+d) Los funcionarios de la Administración de Justicia.
+e) Los funcionarios de la Administración de la Seguridad Social.
+f) Los funcionarios de nuevo ingreso y en prácticas de las Comunidades Autónomas.
+g) Los funcionarios de carrera de la Administración Civil del Estado transferidos a las Comunidades Autónomas, que hayan ingresado o ingresen voluntariamente en Cuerpos o Escalas propios de la Comunidad Autónoma de destino, cualquiera que sea el sistema de acceso.
+h) El personal de administración y servicios propio de las universidades.
+
+## CAPÍTULO II
+
+Mutualidad General de Funcionarios Civiles del Estado
+
+### Artículo 4
+
+Artículo 4. Competencia y adscripción.
+1. El sistema de mutualismo administrativo, al que se refiere esta Ley, se gestionará y prestará a través de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), dependiente del Ministerio de Administraciones Públicas.
+2. Dicha gestión se llevará a cabo de forma unitaria por la Mutualidad General de Funcionarios Civiles del Estado, sin perjuicio de las obligaciones que corresponden a las Comunidades Autónomas respecto a los funcionarios civiles del Estado transferidos y adscritos a su servicio.
+
+### Artículo 5
+
+Artículo 5. Naturaleza y régimen jurídico.
+1. La Mutualidad General de Funcionarios Civiles del Estado es un organismo público con personalidad jurídica pública diferenciada, patrimonio y tesorería propios y autonomía de gestión, y se regirá por las previsiones de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, relativas a los organismos autónomos, salvo lo dispuesto en el apartado 2 siguiente.
+2. El régimen económico-financiero, patrimonial, presupuestario, contable y el de intervención y control financiero de las prestaciones, así como el régimen de los conciertos para la prestación de los servicios de asistencia sanitaria y farmacéutica, será el establecido por esta Ley y sus normas de desarrollo ; por la Ley General Presupuestaria, en las materias que sea de aplicación, y, supletoriamente, por la Ley de Organización y Funcionamiento de la Administración General del Estado.
+3. La Mutualidad General de Funcionarios Civiles del Estado gozará del mismo tratamiento fiscal que la Ley establezca para el Estado.
+
+### Artículo 6
+
+Artículo 6. Régimen de personal.
+El personal al servicio de la Mutualidad General de Funcionarios Civiles del Estado será funcionario o laboral en los mismos términos que los establecidos para la Administración General del Estado.
+
+## CAPÍTULO III
+
+Incorporación y cotización
+
+## Sección 1
+
+Sección 1.ª Incorporación
+
+### Artículo 7
+
+Artículo 7. Afiliación y altas.
+1. Los funcionarios de carrera de la Administración Civil del Estado se incorporarán obligatoriamente, como mutualistas, a la Mutualidad General de Funcionarios Civiles del Estado, en el momento de la toma de posesión de su cargo, cuando adquieran la condición de funcionario, o sean rehabilitados en dicha condición, o reingresen al servicio activo y conservarán la condición de mutualista, con los mismos derechos y obligaciones que en la situación de servicio activo, cuando pasen a alguna de las siguientes situaciones:
+a) Servicios especiales, salvo lo dispuesto en el párrafo c) del apartado 1 y en el apartado 3 del artículo 8.
+b) Servicios en Comunidades Autónomas.
+c) Expectativa de destino.
+d) Excedencia forzosa.
+e) Excedencia por el cuidado de familiares.
+f) Suspensión provisional o firme de funciones.
+2. Igualmente conservarán la condición de mutualista, en los términos y condiciones señalados por el Reglamento General del Mutualismo Administrativo, los funcionarios cuando sean declarados jubilados de carácter forzoso por edad, de carácter voluntario o por incapacidad permanente para el servicio.
+3. Los funcionarios de carrera de la Administración Civil del Estado que accedan por promoción interna a Escalas interdepartamentales o departamentales de Organismos Autónomos, quedarán incluidos obligatoriamente en el Régimen General de la Seguridad Social, sin perjuicio de que puedan mantener la condición de mutualistas, de la Mutualidad General de Funcionarios Civiles del Estado.
+Los funcionarios de carrera de la Administración Civil del Estado, transferidos a las Comunidades Autónomas, que accedan por promoción interna a Cuerpos o Escalas propios de la Comunidad Autónoma de destino, y sin perjuicio de su situación de excedencia voluntaria en el Cuerpo de la Administración Civil del Estado, quedarán incluidos obligatoriamente en el Régimen General de la Seguridad Social, sin perjuicio de que puedan mantener la condición de mutualistas de la Mutualidad General de Funcionarios Civiles del Estado.
+En el caso de que deseen mantener su condición de mutualistas, deberán ejercitar esta opción, por una sola vez, en el plazo de quince días desde la toma de posesión en el nuevo Cuerpo o Escala.
+El mantenimiento de dichos funcionarios en el Mutualismo Administrativo no comportará, en ningún caso, su inclusión en el Régimen de Clases Pasivas del Estado, a efectos de derechos pasivos.
+Se añade el apartado 3 por la disposición final 6.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Artículo 8
+
+Artículo 8. Baja, mantenimiento facultativo y suspensión de la situación de alta.
+1. Causan baja como mutualistas obligatorios:
+a) Los funcionarios que pasen a la situación de excedencia voluntaria, en cualquiera de sus modalidades, salvo que ejerciten la opción de mantener la condición de mutualistas, en los supuestos establecidos en el apartado 3 del artículo 7.
+b) Los funcionarios que pierdan tal condición, cualquiera que sea la causa.
+c) Los funcionarios que ejerciten el derecho de transferencia establecido en el artículo 11.2 del anexo VIII del Estatuto de los Funcionarios de las Comunidades Europeas, aprobado por el Reglamento 259/1968, del Consejo, de 29 de febrero.
+d) Los funcionarios que sean afiliados obligatoriamente al Régimen especial de la Seguridad Social de las Fuerzas Armadas, en aplicación de la disposición transitoria decimocuarta de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, en tanto persista la causa que dio origen a esta afiliación.
+2. Podrán mantener facultativamente la situación de alta como mutualistas voluntarios, con igualdad de derechos, los funcionarios a que se refieren los párrafos a), b) y c) del apartado 1 de este artículo, siempre que abonen exclusivamente a su cargo las cuotas correspondientes al funcionario y al Estado.
+El ejercicio de este derecho de opción se ajustará, en cuanto a la forma, plazos y procedimiento, a las normas que se establezcan reglamentariamente.
+3. Podrán optar por suspender el alta en la Mutualidad General de Funcionarios Civiles del Estado, y cesar en sus derechos y obligaciones respecto a la misma, los funcionarios incluidos en este Régimen especial, que se encuentren en la situación de servicios especiales por prestar servicios como personal de la administración de la Unión Europea o de otra organización internacional en la que España sea parte y que estén acogidos obligatoriamente al régimen de previsión de la mencionada organización, mientras dure dicha situación, y siempre que no estén incluidos en el supuesto contemplado en el párrafo c) del apartado 1 de este artículo.
+Se modifica el apartado 1.a) por la disposición final 6.2 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Artículo 9
+
+Artículo 9. Afiliación a más de un Régimen de la Seguridad Social.
+1. El Reglamento General del Mutualismo Administrativo determinará el régimen aplicable a los funcionarios que pasen de un Cuerpo a otro, dentro de la Administración Civil del Estado, así como el de aquellos que ocupen simultáneamente varias plazas por estar legalmente establecida su compatibilidad.
+2. Asimismo, se determinarán por vía reglamentaria los supuestos y condiciones para conservar los derechos en curso de adquisición de quienes pasen del Régimen del Mutualismo Administrativo, al que se refiere el párrafo b) del artículo 2 de esta Ley, a otros del sistema de la Seguridad Social, e inversamente, a lo largo de su vida profesional.
+3. Cuando una única prestación de servicios sea causa de la inclusión obligatoria de un funcionario público en más de un Régimen de la Seguridad Social, podrá optar, por una sola vez, por pertenecer exclusivamente al Régimen especial de la Seguridad Social de los funcionarios públicos que le corresponda. Si la doble afiliación afecta a dos regímenes especiales de funcionarios, podrá optar, también por una sola vez, por pertenecer a uno solo de ellos.
+
+## Sección 2
+
+Sección 2.ª Cotización
+
+### Artículo 10
+
+Artículo 10. Régimen de cotización de los mutualistas.
+1. La cotización a la Mutualidad General de Funcionarios Civiles del Estado será obligatoria para todos los mutualistas, con excepción de los mutualistas jubilados y de quienes se encuentren en la situación de excedencia voluntaria para atender al cuidado de hijos o familiares.
+2. La base de cotización será la que anualmente se establezca como haber regulador en la Ley de Presupuestos Generales del Estado.
+3. El tipo porcentual de cotización será fijado en la Ley de Presupuestos Generales del Estado para cada ejercicio económico.
+4. La cuota mensual de cotización se obtendrá dividiendo por catorce la cantidad resultante de aplicar a la base de cotización anual, reducida en su caso, el tipo porcentual establecido y se abonará doblemente en los meses de junio y diciembre.
+No obstante, la cotización correspondiente a las pagas extraordinarias se reducirá, cualquiera que sea la fecha de su devengo, en la misma proporción en que se minore dicha paga como consecuencia de abonarse la misma en cuantía proporcional al tiempo en que se haya permanecido en situación de servicio activo.
+Las cuotas correspondientes a los períodos de tiempo en que se disfruten licencias sin derecho a retribución no experimentarán reducción en su cuantía.
+5. El régimen de cotización de los mutualistas, que mantengan facultativamente su situación de alta, será el dispuesto en el apartado 2 del artículo 8.
+6. La obligación de pago de las cotizaciones a la Mutualidad prescribirá a los cuatro años a contar desde la fecha en que preceptivamente debieron ser ingresadas. La prescripción quedará interrumpida por las causas ordinarias y, en todo caso, por cualquier actuación administrativa realizada con conocimiento formal del obligado al pago de la cotización conducente a la liquidación o recaudación de la deuda y, especialmente, por el requerimiento al deudor.
+7. Los mutualistas obligados a cotizar tendrán derecho a la devolución total o parcial de las cuotas o al exceso de las mismas, ingresadas indebidamente. El plazo para ejercitar este derecho será de cuatro años a partir de la fecha en que se hubiesen hecho efectivas. Formarán parte de la cotización a devolver los recargos, intereses y costas que se hubieren satisfecho cuando el ingreso indebido se hubiere realizado por vía de apremio, así como el interés legal aplicado, en su caso, a las cantidades ingresadas.
+Se modifica el apartado 2 por la disposición final 8.1 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
+ Se añade el apartado 7 por el art. 45.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se añade el apartado 6 por el art. 29.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+## CAPÍTULO IV
+
+Contingencias y prestaciones en general
+
+### Artículo 11
+
+Artículo 11. Contingencias protegidas.
+Los mutualistas y, en su caso, los familiares o asimilados a su cargo quedan concretamente protegidos, de acuerdo con lo previsto en esta Ley, en las siguientes contingencias:
+a) Necesidad de asistencia sanitaria.
+b) Incapacidad temporal, derivada bien de enfermedad común o profesional, bien de accidente común o en acto de servicio o como consecuencia de él.
+c) Incapacidad permanente en los mismos supuestos del apartado anterior.
+d) Cargas familiares.
+e) Situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 18.
+Téngase en cuenta que la letra e), añadida por el art. 6.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+Se añade la letra e) por el art. 6.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+
+### Artículo 12
+
+Artículo 12. Prestaciones.
+1. Las prestaciones a que tienen derecho los mutualistas o sus beneficiarios, cuando se encuentren en los supuestos de hecho legalmente establecidos, serán las siguientes:
+a) Asistencia sanitaria.
+b) Subsidios por incapacidad temporal, incluida la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante prevista en el artículo 18, riesgo durante el embarazo o riesgo durante la lactancia natural.
+Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. 6.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "b) Subsidios por incapacidad temporal, riesgo durante el embarazo o riesgo durante la lactancia natural."
+c) Prestaciones recuperadoras por incapacidad permanente total, absoluta y gran invalidez.
+d) Prestaciones para la remuneración de la persona encargada de la asistencia del gran inválido.
+e) Indemnizaciones por lesiones, mutilaciones o deformidades causadas por enfermedad profesional o en acto de servicio o como consecuencia de él.
+f) Servicios sociales.
+g) Asistencia social.
+h) Prestaciones familiares por hijo a cargo minusválido.
+i) Ayudas económicas en los casos de parto múltiple.
+2. Las prestaciones citadas en el apartado anterior que, una vez reconocidas exijan un pago económico al mutualista o a sus beneficiarios, serán abonadas únicamente en la cuenta corriente o libreta ordinaria abierta a su nombre.
+3. Respecto de las prestaciones de MUFACE, que exijan un pago periódico o vitalicio al mutualista o sus beneficiarios y que hayan sido reconocidas o solicitadas antes de 1 de enero de 2011, los habilitados de Clases Pasivas estarán obligados a abonar a su mandante, ya sea mediante transferencia bancaria o mediante cheque el importe íntegro de la prestación que le haya sido pagado por MUFACE, sin practicar deducción alguna. Las comisiones, gastos de gestión, o impuestos derivados del ejercicio de la actividad profesional que repercuta en su cliente deberán cobrarlos de forma separada.
+Se modifica la letra b) del apartado 1 por el art. 6.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se numera el apartado 1 y se añaden los apartados 2 y 3, con efectos de 1 de enero de 2011, por la disposición final 7.1 a 4 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica la letra b) por la disposición adicional 23 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
+## CAPÍTULO V
+
+Prestaciones en particular
+
+## Sección 1
+
+Sección 1.ª Asistencia sanitaria
+
+### Artículo 13
+
+Artículo 13. Objeto.
+1. La asistencia sanitaria tiene por objeto la prestación de los servicios médicos, quirúrgicos y farmacéuticos conducentes a conservar o restablecer la salud de los beneficiarios de este Régimen especial, así como su aptitud para el trabajo.
+2. Proporcionará también los servicios convenientes para completar las prestaciones médicas y farmacéuticas y, de un modo especial, atenderá a la rehabilitación física para la recuperación profesional de los incapacitados con derecho a ella.
+
+### Artículo 14
+
+Artículo 14. Contingencias protegidas.
+Las contingencias cubiertas por la prestación de la asistencia sanitaria son las de enfermedad común o profesional y las lesiones ocasionadas por accidente común o en acto de servicio o como consecuencia de él, sea por accidente o riesgo específico del cargo, la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, así como el embarazo, el parto y el puerperio, en la extensión y términos que en esta Ley se establecen y en los que se determinen en el Reglamento General del Mutualismo Administrativo.
+Téngase en cuenta que esta actualización, establecida por el art. 6.3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "Artículo 14. Contingencias protegidas.
+ Las contingencias cubiertas por la prestación de la asistencia sanitaria son las de enfermedad común o profesional y las lesiones ocasionadas por accidente común o en acto de servicio o como consecuencia de él, sea por accidente o riesgo específico del cargo, así como el embarazo, el parto y el puerperio, en la extensión y términos que en esta Ley se establecen y en los que se determinen en el Reglamento General del Mutualismo Administrativo."
+Se modifica por el art. 6.3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+
+### Artículo 15
+
+Artículo 15. Beneficiarios de asistencia sanitaria.
+1. La asistencia sanitaria se dispensará a todos los mutualistas incluidos en el ámbito de aplicación de este Régimen especial y jubilados mutualistas, así como a los beneficiarios de ambos.
+2. Para la determinación de la condición de beneficiario a cargo de un mutualista de este Régimen, se estará a lo dispuesto en el Reglamento General del Mutualismo Administrativo que, asimismo, establecerá los supuestos y condiciones en que se dispensará la asistencia sanitaria tanto a los viudos como a los huérfanos de mutualistas activos o jubilados.
+El reconocimiento o mantenimiento por MUFACE de la condición de beneficiario a cargo de un mutualista será incompatible con la condición de asegurado o beneficiario a efectos de la asistencia sanitaria a través del Sistema Nacional de Salud, reconocida por cualquiera de los otros organismos públicos competentes a tal efecto.
+3. En ningún caso, MUFACE facilitará a su cargo la prestación de asistencia sanitaria a los familiares o asimilados de los mutualistas cuando aquéllos no tengan reconocida la condición de beneficiarios del mutualismo administrativo, salvo en el caso del recién nacido cuando la madre sea mutualista o beneficiaria y en los supuestos de adopción o acogimiento, durante los primeros quince días desde el momento del parto, desde la decisión administrativa o judicial de acogimiento o desde la resolución judicial por la que se constituya la adopción.
+Se modifican los apartados 2 y 3 por la disposición final 10.2 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Artículo 16
+
+Artículo 16. Contenido de la asistencia sanitaria.
+La prestación de asistencia sanitaria comprende:
+a) Los servicios de atención primaria, incluida la atención primaria de urgencia en régimen ambulatorio o a domicilio, y la atención especializada, ya sea en régimen ambulatorio u hospitalario e incluidos los servicios de urgencia hospitalaria, todos ellos con un contenido análogo al establecido para los beneficiarios del Sistema Nacional de Salud.
+b) La prestación farmacéutica, que incluye las fórmulas magistrales, las especialidades y los efectos y accesorios farmacéuticos, con la extensión determinada para los beneficiarios del Sistema Nacional de Salud. Los beneficiarios participarán mediante el pago de una cantidad porcentual por receta o, en su caso, por medicamento, que se determinará reglamentariamente.
+El modelo receta oficial será el establecido por la Mutualidad, con sujeción a lo previsto en la normativa vigente, y podrá emitirse en soporte papel y en soporte electrónico.
+c) Las prestaciones complementarias, cuya definición, extensión y contenido se determinarán reglamentariamente.
+Se modifica por la disposición final 10.3 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Artículo 17
+
+Artículo 17. Forma de la prestación.
+1. La asistencia sanitaria se facilitará por la Mutualidad General de Funcionarios Civiles del Estado, bien directamente o por concierto con otras entidades o establecimientos públicos o privados. Estos conciertos se establecerán preferentemente con instituciones de la Seguridad Social.
+2. La Mutualidad General de Funcionarios Civiles del Estado no abonará los gastos que puedan ocasionarse cuando el beneficiario, por decisión propia o de sus familiares, utilice servicios médicos distintos de los que le hayan sido asignados, a no ser en los casos que se establezcan en el Reglamento General del Mutualismo Administrativo.
+
+## Sección 2
+
+Sección 2.ª Incapacidad temporal
+
+### Artículo 18
+
+Artículo 18. Contingencias protegidas.
+1. Tendrán la consideración de estados o situaciones determinantes de la incapacidad temporal los de enfermedad, accidente y los denominados períodos de observación en caso de enfermedad profesional.
+Se considerará situación especial de incapacidad temporal aquella en la que se encuentre el personal comprendido en el apartado 1 del artículo 3 de este texto refundido donante de órganos o tejidos para su trasplante. Esta situación comprenderá tanto los días discontinuos como ininterrumpidos, en los que el donante reciba asistencia sanitaria y esté impedido para el servicio o la práctica como consecuencia de la preparación médica de la cirugía, como los transcurridos desde el día del ingreso hospitalario para la realización de esta preparación hasta que sea dado de alta por curación.
+Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 6.4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "1. Tendrán la consideración de estados o situaciones determinantes de la incapacidad temporal los de enfermedad, accidente y los denominados períodos de observación en caso de enfermedad profesional."
+2. Los permisos o licencias por parto, adopción o acogimiento, tanto preadoptivo como permanente o simple, y de paternidad por el nacimiento, acogimiento o adopción de un hijo, establecidos en el artículo 49 de la Ley 7/2007, del Estatuto Básico del Empleado Público, no tendrán la consideración de incapacidad temporal. Si al término del permiso por parto continuase la imposibilidad de incorporarse al trabajo, se iniciarán las licencias que dan lugar a la incapacidad temporal.
+Se modifica el apartado 1 por el art. 6.4 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+
+### Artículo 19
+
+Artículo 19. Situación de incapacidad temporal.
+1. Se encontrarán en situación de incapacidad temporal los funcionarios que acrediten padecer un proceso patológico por enfermedad o lesión por accidente que les impida con carácter temporal el normal desempeño de sus funciones públicas o que se encuentren en período de observación médica por enfermedad profesional, siempre y cuando reciban la asistencia sanitaria necesaria para su recuperación facilitada por la Mutualidad General de Funcionarios Civiles del Estado y hayan obtenido licencia por enfermedad.
+Asimismo, se encontrará en situación de incapacidad temporal el personal funcionario que se encuentre en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.
+Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 6.5 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+ Redacción anterior:
+ "1. Se encontrarán en situación de incapacidad temporal los funcionarios que acrediten padecer un proceso patológico por enfermedad o lesión por accidente que les impida con carácter temporal el normal desempeño de sus funciones públicas o que se encuentren en período de observación médica por enfermedad profesional, siempre y cuando reciban la asistencia sanitaria necesaria para su recuperación facilitada por la Mutualidad General de Funcionarios Civiles del Estado y hayan obtenido licencia por enfermedad.
+ Asimismo, se encontrarán en situación de incapacidad temporal las funcionarias que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma."
+2. Reglamentariamente se determinará la acreditación del proceso patológico o del periodo de observación médica y la improcedencia de instar la iniciación del procedimiento de jubilación por incapacidad permanente para el servicio.
+3. La concesión de las licencias y sus posibles prórrogas a los que tendrán derecho los funcionarios que se encuadren en la situación establecida en el apartado 1 corresponderá a los órganos administrativos con competencia en materias de gestión de personal.
+Para la concesión y control de estas licencias los órganos administrativos con competencia en materias de gestión de personal podrán hacer uso del asesoramiento facultativo propio o ajeno que consideren oportuno.
+4. Sin perjuicio de lo dispuesto en el apartado anterior, la Mutualidad General de Funcionarios Civiles del Estado podrá ejercer el control y seguimiento de la situación de incapacidad temporal del funcionario desde el inicio de la situación mediante el reconocimiento a efectuar por las Unidades Médicas de Seguimiento de las que disponga, propias o dependientes de otras Entidades Gestoras de la Seguridad Social y Servicios Públicos de Salud con los que la Mutualidad establezca acuerdos de colaboración.
+5. Los reconocimientos médicos mencionados en el apartado anterior serán potestativos, pero sus resultados vincularán para la concesión o denegación de las licencias y sus sucesivas prórrogas. Reglamentariamente se determinarán las situaciones, períodos y formas en los que se llevarán a cabo los seguimientos de los distintos procesos patológicos, salvaguardando, en todo caso, el derecho a la intimidad y la dignidad de la persona y la autonomía del paciente, así como a la confidencialidad de las informaciones referentes a su estado de salud sanitario, según lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+Se modifica el apartado 1 por el art. 6.5 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se añade un párrafo al apartado 1 por la disposición final 6 de la Ley Orgánica 1/2023, de 28 de febrero. Ref. BOE-A-2023-5364#df-6
+ Esta modificación entra en vigor el 1 de junio de 2023, según establece la disposición final 17 de la citada Ley Orgánica.
+ Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+
+### Artículo 20
+
+Artículo 20. Duración y extinción.
+1. La duración y extinción de la situación de incapacidad temporal serán las previstas para el Régimen General de la Seguridad Social con las particularidades que se establecen en los apartados siguientes.
+2. La duración de la primera y sucesivas licencias será del tiempo previsiblemente necesario para la curación. Reglamentariamente se determinarán los plazos para la presentación de los partes o informes médicos que acrediten la necesidad de mantener la licencia. A efectos de cómputo de plazos, se considerará que existe nuevo proceso patológico cuando las enfermedades que padezca el funcionario sean diferentes o no tengan relación directa con las del proceso anterior y, en todo caso, cuando se hayan interrumpido las licencias durante un periodo mínimo de 6 meses.
+3. En cualquier momento en que se prevea que la enfermedad o lesión por accidente impedirá definitivamente el desempeño de las funciones públicas, el órgano de jubilación competente iniciará, de oficio o a instancia del interesado, el procedimiento de jubilación por incapacidad permanente para el servicio. Reglamentariamente se establecerán los mecanismos necesarios para coordinar las actuaciones entre la Mutualidad, las Unidades Médicas de Seguimiento o de Valoración de la Incapacidad Permanente y las del órgano de jubilación.
+4. Cuando la situación de incapacidad temporal se extinga por el transcurso del plazo máximo establecido en el Régimen General de la Seguridad Social, se procederá al examen de la situación de incapacidad temporal del funcionario en los mismos términos y plazos establecidos en este Régimen y por parte del correspondiente equipo o unidad de valoración de incapacidades permanentes a la que la Mutualidad General de Funcionarios Civiles del Estado haya encomendado esta función o que resulte procedente de acuerdo con el Cuerpo o Escala del funcionario.
+Este examen determinará si el estado de incapacitación del funcionario dará lugar a su calificación de incapacitado con carácter permanente para las funciones propias de su Cuerpo o Escala y a la consiguiente declaración de jubilación por incapacidad permanente para el servicio.
+En aquellos casos en los que se dictamine que, continuando la necesidad de tratamiento médico por la expectativa de recuperación o la mejora del estado del funcionario con vistas a su reincorporación al servicio, la situación clínica del interesado hiciera aconsejable demorar la citada calificación, ésta podrá retrasarse por el período preciso, que, en ningún caso, podrá rebasar el tiempo máximo de duración desde la fecha en que se haya iniciado la situación de incapacidad temporal, según lo establecido en el Régimen General. En este período se prorrogarán los efectos de la situación de incapacidad temporal.
+Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+ Se modifica el apartado 2 por la disposición adicional 17.1 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
+ Se modifica, con efectos a partir del 1 de enero de 2007, por la disposición final 6.1 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+
+### Artículo 21
+
+Artículo 21. Prestación económica.
+1. La prestación económica en la situación de incapacidad temporal consistirá:
+a) (Derogado)
+b) Desde el cuarto mes percibirá las retribuciones básicas, la prestación por hijo a cargo, en su caso, y un subsidio por incapacidad temporal a cargo de la Mutualidad General de Funcionarios Civiles del Estado, cuya cuantía, fija e invariable mientras dure la incapacidad, será la mayor de las dos cantidades siguientes:
+1.ª El 80 por ciento de las retribuciones básicas (sueldo, trienios y grado, en su caso), incrementadas en la sexta parte de una paga extraordinaria, correspondientes al tercer mes de licencia.
+2.ª El 75 por ciento de las retribuciones complementarias devengadas en el tercer mes de licencia.
+c) En la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 18, el subsidio por incapacidad temporal a cargo de la Mutualidad General de Funcionarios Civiles del Estado tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el tercer mes de licencia.
+Durante los tres primeros meses la persona mutualista tendrá derecho al percibo de la totalidad de las retribuciones previstas en las Leyes y Reglamentos aplicables según su respectiva Carrera, Cuerpo y Escala, a cargo de los órganos de personal correspondientes.
+Téngase en cuenta que la letra c), añadida al apartado 1 por el art. 6.6 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693, entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
+2. A efectos de lo establecido en este artículo, los sueldos, trienios, pagas extraordinarias y las retribuciones complementarias, se abonarán con cargo a los mismos conceptos presupuestarios por los que se venían percibiendo.
+3. En ningún caso la suma resultante de las cantidades a cargo del órgano para el que presta sus funciones el mutualista y la del subsidio podrá exceder del importe de las percepciones que el funcionario tuviera en el tercer mes de licencia.
+4. La Mutualidad General de Funcionarios Civiles del Estado podrá encomendar al órgano para el que preste servicio el funcionario la gestión del pago del subsidio por incapacidad temporal al que tenga derecho, sin detrimento de las capacidades de control y seguimiento establecidas en el artículo 19.
+5. El derecho al subsidio económico por incapacidad temporal, cualquiera que sea la situación que haya dado lugar al mismo, se entenderá, en todo caso, extinguido por el transcurso del plazo máximo de duración, incluido el de prórroga de efectos, desde la fecha en que se haya iniciado la situación de incapacidad temporal establecido en el Régimen General.
+Se añade la letra c) al apartado 1 por el art. 6.6 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2024-26693
+ Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
+ Se deroga el apartado 1.a) por la disposición derogatoria única.5 del Real Decreto-ley 20/2012, de 13 de junio. Ref. BOE-A-2012-9364.
+ Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+ Se modifica el apartado 3 por la disposición adicional 17.2 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
+ Se añade, con efectos a partir del 1 de enero de 2007, el apartado 3 por la disposición final 6.2 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865.
+
+### Artículo 22
+
+Artículo 22. Situación de riesgo durante el embarazo o riesgo durante la lactancia natural.
+1. Las situaciones de riesgo durante el embarazo o durante la lactancia natural de hijos menores de 9 meses tendrán la misma consideración que la situación de incapacidad temporal derivada de enfermedad profesional, por lo que no requerirán de periodo de carencia y sus contenidos asistenciales serán los previstos para esta situación.
+2. La concesión de las licencias por riesgo durante el embarazo o durante la lactancia natural y sus posibles prórrogas corresponderá a los órganos administrativos con competencia en materias de gestión de personal.
+3. Reglamentariamente se establecerá la forma y contenidos de la evaluación médica del riesgo para la salud de la madre, hija o hijo, y de la acreditación de que este riesgo deriva de las funciones habituales del puesto de trabajo, así como que el riesgo no es evitable mediante la modificación temporal de funciones o puesto o el traslado provisional de la funcionaria a otro puesto de trabajo, de conformidad con lo establecido en el artículo 26 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+4. En las situaciones a que se refiere este artículo, los derechos económicos en toda la duración de la licencia serán los establecidos en el artículo 21 precedente con la particularidad de que la prestación económica equivalente al subsidio por incapacidad temporal consistirá en un subsidio a cargo de la Mutualidad General de Funcionarios Civiles del Estado en cuantía igual al 100 por ciento de las retribuciones complementarias devengadas en el tercer mes de licencia.
+Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+ Se añade el apartado 2 pasando su único párrafo a ser el apartado 1, por la disposición adicional 17.3 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
+ Se modifica por la disposición adicional 23 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
+## Sección 3
+
+Sección 3.ª Incapacidad permanente
+
+### Artículo 23
+
+Artículo 23. Concepto y grados de la incapacidad permanente.
+1. Es incapacidad permanente la situación del funcionario que, después de haber estado sometido al tratamiento prescrito y de haber sido dado de alta médicamente, presenta reducciones anatómicas o funcionales graves que disminuyan o anulen su capacidad para el servicio. No obstará a tal calificación la posibilidad de recuperación de la capacidad de trabajo del incapacitado, si dicha posibilidad se estima médicamente como incierta o a largo plazo. La incapacidad permanente habrá de derivarse, cualquiera que sea su causa, de la situación de incapacidad temporal.
+2. La incapacidad permanente se clasifica con arreglo a los siguientes grados:
+a) Incapacidad permanente parcial para la función habitual: es la que, sin alcanzar el grado de total, produce al funcionario una limitación para el desempeño de las funciones de su Cuerpo, Escala o plaza.
+b) La incapacidad permanente total para la función habitual: es la que inhabilita al funcionario para la realización de todas o de las fundamentales funciones de su Cuerpo, Escala o plaza.
+c) Incapacidad permanente absoluta para todo trabajo: es la que inhabilita por completo al funcionario para toda profesión u oficio.
+d) Gran invalidez: es la situación del funcionario afecto de incapacidad permanente absoluta que, como consecuencia de pérdidas anatómicas o funcionales, necesita de la asistencia de otra persona para realizar los actos más elementales de la vida, tales como vestirse, desplazarse, comer o análogos.
+3. Se entiende por función habitual del funcionario, la desempeñada por éste al tiempo de sufrir el accidente común o en acto de servicio o como consecuencia de él, o la que viniera realizando en caso de enfermedad durante el período de tiempo anterior a la incapacidad, que se determina en el Reglamento General del Mutualismo Administrativo.
+
+### Artículo 24
+
+Artículo 24. Efectos de la incapacidad permanente parcial.
+El funcionario incapacitado permanente parcial percibirá la totalidad de los haberes que correspondan al puesto de trabajo que efectivamente desempeñe. No obstante, y en los supuestos que señale el Reglamento General del Mutualismo Administrativo, deberá sujetarse a los procesos de rehabilitación.
+
+### Artículo 25
+
+Artículo 25. Efectos de la incapacidad permanente total y absoluta.
+1. La incapacidad permanente total y la incapacidad permanente absoluta darán lugar a la jubilación del funcionario de acuerdo con la legislación en vigor.
+2. En el supuesto de que exista posibilidad razonable de recuperación, el funcionario incapacitado tendrá asimismo derecho a recibir prestaciones recuperadoras a cargo de la Mutualidad General de Funcionarios Civiles del Estado.
+
+### Artículo 26
+
+Artículo 26. Efectos de la gran invalidez.
+La gran invalidez originará la jubilación del funcionario y dará derecho a una cantidad mensual equivalente al 50 por 100 de la pensión de jubilación que le corresponda con arreglo al Régimen de Clases Pasivas, destinada a remunerar a la persona encargada de su asistencia.
+
+### Artículo 27
+
+Artículo 27. Revisión de las situaciones de incapacidad permanente.
+1. La calificación y, en su caso, la revisión de las situaciones de incapacidad permanente se llevarán a cabo de acuerdo con las normas que regulan el sistema de derechos pasivos y, cuando proceda, con las establecidas en materia de rehabilitación de los funcionarios públicos en el ámbito de la Administración General del Estado, y surtirán efectos respecto de todas las prestaciones que pudieran derivarse de dicha situación.
+2. En los supuestos de incapacidad no previstos en el Régimen de Clases Pasivas del Estado, la calificación de aquélla corresponderá a los órganos que determine el Reglamento General del Mutualismo Administrativo.
+
+### Artículo 28
+
+Artículo 28. Lesiones permanentes no invalidantes.
+Las lesiones, mutilaciones y deformaciones de carácter definitivo causadas por enfermedad profesional o en acto de servicio o como consecuencia de él, sea por accidente o por riesgo específico del cargo, que, sin llegar a constituir incapacidad permanente total o absoluta o gran invalidez, supongan una alteración o disminución de la integridad física del funcionario, darán derecho a la percepción por una sola vez de las cantidades que se establezcan reglamentariamente.
+
+## Sección 4
+
+Sección 4.ª Protección a la familia
+
+### Artículo 29
+
+Artículo 29. Prestaciones económicas.
+1. Las prestaciones económicas de protección a la familia serán de pago periódico y de pago único. Las primeras corresponden a las prestaciones familiares por hijo a cargo y las segundas a ayudas económicas en los casos de parto múltiple y por nacimiento de hijo.
+2. Las prestaciones de protección a la familia establecidas en la presente Ley son incompatibles con cualesquiera otras análogas fijadas en los restantes regímenes del Sistema de la Seguridad Social.
+3. La prestación por hijo a cargo menor de dieciocho años no minusválido se regirá por lo dispuesto en el capítulo IX del Título II del texto refundido de la Ley General de la Seguridad Social y la prestación por nacimiento de hijo se regirá por lo dispuesto en el artículo 2 del Real Decreto-ley 1/2000, de 14 de enero. Su gestión corresponde a las unidades y órganos administrativos que tenían encomendada la de las extinguidas prestaciones de ayuda familiar, sin perjuicio de que, cuando el beneficiario tenga la condición de pensionista, la consignación y abono de las prestaciones reconocidas se efectúen por los servicios correspondientes de Clases Pasivas del Ministerio de Hacienda.
+4. Las prestaciones por hijo a cargo minusválido, cuya gestión corresponde a la Mutualidad General de Funcionarios Civiles del Estado, se regirán, igualmente, por lo dispuesto en el capítulo IX del Título II del texto refundido de la Ley General de la Seguridad Social.
+5. El subsidio especial por maternidad en el supuesto de parto múltiple tendrá el mismo contenido que en el Régimen general de la Seguridad Social.
+6. La prestación económica de pago único por parto múltiple compatible con el subsidio especial a que se refiere el apartado 5, se regirá por lo dispuesto en el artículo 3 del Real Decreto-ley 1/2000, 14 de enero, con las salvedades propias de este Régimen especial.
+
+## Sección 5
+
+Sección 5.ª Servicios sociales y asistencia social
+
+### Artículo 30
+
+Artículo 30. Servicios sociales.
+1. La acción protectora de este Régimen especial podrá incluir los servicios sociales del Sistema de la Seguridad Social, siempre que las contingencias que atiendan no estén cubiertas por otras prestaciones.
+2. La incorporación de los servicios sociales a que se refiere el apartado anterior se determinará por Orden del Ministro de Administraciones Públicas, previo informe del Ministerio de Trabajo y Asuntos Sociales, en la que se regulará su alcance y régimen financiero.
+
+### Artículo 31
+
+Artículo 31. Asistencia social.
+1. La Mutualidad General de Funcionarios Civiles del Estado dispensará los servicios y auxilios económicos que, en atención a estados y situaciones de necesidad, se consideren precisos.
+2. Dichos servicios y auxilios económicos tendrán como límite los créditos que a tal fin se consignen en el presupuesto de gastos de la Mutualidad General de Funcionarios Civiles del Estado, y su concesión no podrá comprometer recursos del ejercicio siguiente a aquel en que la misma tenga lugar.
+3. Las ayudas asistenciales comprenderán, entre otras, las que se dispensen por tratamiento o intervenciones especiales, en casos de carácter excepcional, por un determinado facultativo ; las determinadas por inexistencia, pérdida o insuficiencia de prestaciones en supuestos concretos ; las debidas a gastos de carácter urgente en casos de importancia extraordinaria debidamente justificados, y, en general, cualesquiera otras análogas cuya percepción no haya sido regulada en las normas aplicables a este Régimen especial.
+4. Las prestaciones asistenciales aludidas en el apartado anterior son independientes de las previstas en el apartado 1 del artículo 67 del texto refundido de la Ley de Funcionarios Civiles del Estado.
+
+### Artículo 32
+
+Artículo 32. Beneficiarios.
+Podrán acogerse a las prestaciones reguladas en esta sección 5.a, siempre que reúnan las condiciones en cada supuesto exigidas, todos los mutualistas así como los beneficiarios que se determinen reglamentariamente para cada una de las prestaciones.
+
+## CAPÍTULO VI
+
+Régimen económico
+
+## Sección 1
+
+Sección 1.ª Régimen económico y financiero
+
+### Artículo 33
+
+Artículo 33. Régimen financiero.
+1. Salvo las excepciones que puedan establecerse en las normas reguladoras de este Régimen especial de la Seguridad Social, el sistema financiero del mismo será de reparto y su cuota revisable periódicamente.
+2. En los casos en que la naturaleza de las prestaciones lo requiera, se constituirán fondos de garantía para cubrir posibles déficit de cotización o en casos anormales de siniestralidad.
+
+### Artículo 34
+
+Artículo 34. Recursos económicos.
+Para el cumplimiento de sus fines, los recursos económicos de la Mutualidad General de Funcionarios Civiles del Estado estarán constituidos por:
+a) Las aportaciones económicas del Estado a que se refiere el artículo siguiente.
+b) Las cuotas de los mutualistas.
+c) Las subvenciones estatales y aquellos otros recursos públicos de naturaleza diversa que le correspondan con arreglo a la normativa vigente.
+d) Los bienes, derechos y acciones de las Mutualidades y Montepíos integrados en el Fondo especial de la Mutualidad General de Funcionarios Civiles del Estado.
+e) Los frutos, rentas, intereses y cualesquiera otros productos de sus bienes patrimoniales.
+f) Cualesquiera otros recursos privados que se obtengan para el cumplimiento de sus fines.
+
+### Artículo 35
+
+Artículo 35. Aportaciones y subvenciones estatales.
+1. El Estado consignará de modo permanente en sus presupuestos las aportaciones que anualmente concederá a la Mutualidad General de Funcionarios Civiles del Estado para la financiación de las prestaciones a que se refiere el artículo 12, salvo la indicada en el párrafo h) de dicho artículo.
+2. La cuantía de las aportaciones estatales se fijará anualmente en la Ley de Presupuestos Generales del Estado, mediante el establecimiento de un porcentaje aplicable sobre los haberes reguladores a que se refiere el apartado 2 del artículo 10.
+3. Se consignarán, igualmente, en los Presupuestos Generales del Estado, las subvenciones precisas para financiar las prestaciones por hijo a cargo minusválido, así como el déficit que, en su caso, se produzca en el Fondo especial regulado en la disposición adicional sexta de esta Ley.
+Las aportaciones estatales serán, en todo caso, independientes de estas subvenciones, así como de cualquier otra de las incluidas en el párrafo c) del artículo anterior.
+Se modifica el apartado 2 por la disposición final 8.2 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
+
+## Sección 2
+
+Sección 2.ª Régimen patrimonial
+
+### Artículo 36
+
+Artículo 36. Régimen patrimonial.
+1. El régimen patrimonial de la Mutualidad General de Funcionarios Civiles del Estado será el establecido en el artícu lo 48 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, pudiendo disponer de los bienes patrimoniales propios que resulten innecesarios para el cumplimiento de sus fines, sin perjuicio de lo dispuesto en dicho artículo para estos supuestos.
+2. En lo no regulado por el referido artículo, la administración y gestión de dicho patrimonio se regirá por las disposiciones específicas contenidas en la presente Ley, en sus normas de aplicación y desarrollo y, en lo no previsto en las mismas, por lo establecido en la legislación reguladora del Patrimonio del Estado. Se entenderán referidas al Ministerio de Administraciones Públicas y a la Dirección General de la Mutualidad General de Funcionarios Civiles del Estado las competencias que en dicha legislación se atribuyen al Ministerio de Hacienda y Dirección General del Patrimonio del Estado, sin perjuicio de su posible delegación o desconcentración en otros órganos superiores o directivos y de las competencias que correspondan al Consejo General de la Mutualidad General de Funcionarios Civiles del Estado.
+
+## CAPÍTULO VII
+
+Recursos y régimen jurisdiccional
+
+### Artículo 37
+
+Artículo 37. Recursos y régimen jurisdiccional.
+1. Los actos y resoluciones del Director general de la Mutualidad General de Funcionarios Civiles del Estado no ponen fin a la vía administrativa, pudiéndose recurrir en alzada ante el Ministro de Administraciones Públicas.
+Agotada la vía administrativa, podrán recurrirse en la contencioso-administrativa conforme a su Ley reguladora.
+2. Se exceptúan de lo dispuesto en el apartado anterior y, en todo caso, pondrán fin a la vía administrativa, las resoluciones a que se refieren los párrafos a) y b) del artículo 109 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y las dictadas en materia de personal por el Director general de la Mutualidad. En estos supuestos, procederá el recurso de reposición, con carácter potestativo, cuando corresponda, y el contencioso-administrativo con arreglo a su Ley reguladora.
+3. El recurso extraordinario de revisión podrá interponerse en la forma que determina el artículo 118 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común citada en el apartado anterior.
+4. Las reclamaciones previas, en asuntos civiles y laborales, serán resueltas por el Director general de la Mutualidad General de Funcionarios Civiles del Estado.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Supuestos especiales de afiliación.
+1. Quedan obligatoriamente incluidos en el campo de aplicación de este Régimen especial:
+a) Los funcionarios interinos a que se refiere el artículo 1 del Decreto-ley 10/1965, de 23 de septiembre.
+b) El personal funcionario del extinguido Servicio de Pósitos, a partir de 1 de enero de 1985.
+c) Los funcionarios del extinguido Patronato Nacional Antituberculoso y de las Enfermedades del Tórax que, de acuerdo con lo previsto en el párrafo segundo, apartado uno, 2, de la disposición transitoria segunda, del Real Decreto 187/1987, de 23 de enero, se encontrasen acogidos al Régimen de Clases Pasivas del Estado, a partir de 30 de junio de 1990.
+d) Los funcionarios civiles al servicio de la Administración Militar, que hubieran ejercitado la opción de incorporarse a este Régimen especial de la Seguridad Social, en virtud de lo establecido en las disposiciones adicionales primera y tercera de las Leyes de Presupuestos Generales del Estado 4/1990 y 39/1992, respectivamente.
+2. Podrán incorporarse opcionalmente al Régimen del Mutualismo Administrativo, siempre que no tengan derecho, por título distinto, a recibir asistencia sanitaria a través de alguno de los regímenes que integran el sistema de la Seguridad Social:
+a) Los funcionarios que hubieran pasado a la condición de jubilados que percibieran pensiones de Clases Pasivas del Estado al 20 de julio de 1975.
+b) Los pensionistas de jubilación anteriores a 30 de junio de 1990 procedentes del extinguido Patronato Nacional Antituberculoso y de las Enfermedades del Tórax, acogidos al Régimen de Clases Pasivas en virtud de la disposición citada en el párrafo c) del apartado anterior.
+3. Podrán incorporarse opcionalmente, por una sola vez, al Régimen especial de la Seguridad Social regulado por esta Ley, con baja en el Régimen Especial de la Seguridad Social de las Fuerzas Armadas:
+a) Los funcionarios procedentes de los Cuerpos Generales Administrativo, Auxiliar y Subalterno de la Administración Militar integrados en los Cuerpos de la Administración Civil del Estado, en virtud de lo dispuesto en el apartado uno de la disposición adicional novena de la Ley de Medidas para la reforma de la Función Pública, que presten servicios en la Administración Militar o en sus organismos públicos.
+b) Los titulares de las plazas no escalafonadas a extinguir de Matronas de la Dirección General de la Guardia Civil.
+4. Los funcionarios a los que se refiere el apartado 3 del artículo 7 que se hallen incluidos en el Régimen General de la Seguridad Social y que, en el momento en el que accedieron por promoción interna a Cuerpos o Escalas propios de la Comunidad Autónoma de destino o a Escalas interdepartamentales o departamentales de Organismos Autónomos, hubieran pertenecido al Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, podrán optar por una sola vez y hasta el 31 de diciembre de 2017, por recuperar su condición de mutualistas de la Mutualidad General de Funcionarios Civiles del Estado, con efectos jurídicos desde el 1 de enero de 2018, siempre que mantengan la condición de funcionarios en la fecha que ejerciten la opción, y sin perjuicio de su situación de excedencia voluntaria en el Cuerpo de la Administración Civil del Estado.
+La inclusión de dichos funcionarios en el Mutualismo Administrativo no comportará en ningún caso, su inclusión en el Régimen de Clases Pasivas del Estado, a efectos de derechos pasivos.
+Se añade el apartado 4 por la disposición final 6.3 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Conservación del Régimen de Seguridad Social originario.
+1. Los funcionarios que, en virtud de lo dispuesto en las disposiciones adicionales de la Ley de Medidas para la reforma de la Función Pública, se integraron en Cuerpos y Escalas incluidos dentro del campo de aplicación del mutualismo administrativo, conservarán el Régimen de la Seguridad Social que tuvieran a la entrada en vigor de la citada Ley, salvo lo dispuesto en el párrafo a) del apartado 3 de la disposición adicional primera precedente.
+2. Los miembros del extinguido Cuerpo de la Policía Armada, así como del igualmente extinguido Cuerpo de la Policía Nacional, jubilados con anterioridad a 1 de febrero de 1986, conservarán el Régimen especial de la Seguridad Social de las Fuerzas Armadas, quedando excluidos del regulado por esta Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Beneficiarios de prestaciones en supuestos especiales.
+Podrán ser beneficiarios de las prestaciones de este Régimen especial en las mismas circunstancias que los familiares, viudos y huérfanos de los restantes mutualistas:
+1. Los familiares de los mutualistas que se hubieran incorporado a la Mutualidad General de Funcionarios Civiles del Estado al amparo de lo dispuesto en la disposición adicional primera, así como sus viudos y huérfanos.
+2. Los viudos y huérfanos de quienes fueron funcionarios con una relación de servicio que hubiera llevado consigo la condición de mutualista obligatorio de la Mutualidad General de Funcionarios Civiles del Estado y que no la obtuvieron por haber fallecido o ser pensionista de Clases Pasivas al 20 de julio de 1975.
+3. Los viudos y huérfanos del personal mencionado en los párrafos c) del apartado 1 y b) del apartado 2 de la disposición adicional primera, fallecidos a 30 de junio de 1990.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen de la Seguridad Social del personal docente universitario con plaza vinculada.
+Los catedráticos y profesores de universidad que, por desempeñar plazas vinculadas con las instituciones sanitarias de la Seguridad Social y haber ejercitado en su momento la opción a que se refiere el artículo 27 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, estén encuadrados en el Régimen general de la Seguridad Social y en situación de baja en el Régimen especial de la Seguridad Social de los Funcionarios Civiles del Estado causarán de nuevo alta en este último cuando, continuando su función docente, se desvinculen por cualquier motivo de la plaza de facultativo especialista que originó en su momento el derecho de opción.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Extensión de la acción protectora a anteriores cónyuges y parejas de hecho.
+A los efectos de la acción protectora que esta Ley dispensa a los viudos, se considerarán asimilados a los mismos quienes perciban pensión de viudedad de Clases Pasivas por haber sido cónyuges legítimos o parejas de hecho de funcionarios incluidos en el campo de aplicación del Mutualismo Administrativo.
+Se modifica, con efectos a partir del 1 de enero de 2009, por la disposición final 7 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Fondo especial.
+1. El Estado, a través de la Mutualidad General de Funcionarios Civiles del Estado, garantiza a los socios y beneficiarios, sean o no funcionarios, de las Mutualidades, Asociaciones y Montepíos integrados en la misma al amparo de la disposición transitoria primera de la Ley 29/1975, y de las disposiciones adicionales quinta de la Ley 74/1980 y vigésima primera de la Ley 50/1984, las prestaciones existentes en cada Mutualidad, Asociación o Montepío al 31 de diciembre de 1973 y al 31 de diciembre de 1978, con las cuantías en vigor en tales fechas, según se trate de pensiones o de prestaciones distintas de las pensiones, respectivamente.
+No obstante, la garantía inicial del Estado respecto a las pensiones será la correspondiente a las cuantías vigentes al 31 de diciembre de 1978, si bien la diferencia hasta alcanzar las cuantías vigentes al 31 de diciembre de 1973 tendrá el carácter de absorbible y se reducirá a partir del ejercicio siguiente a su concesión en un 20 por 100 anual de dicha diferencia.
+En el caso del integrado Montepío de Funcionarios de la Organización Sindical, la mención hecha en los dos párrafos anteriores al 31 de diciembre de 1978, se entenderá referida al 31 de diciembre de 1977.
+2. La totalidad de los bienes, derechos y acciones de las Mutualidades, Asociaciones y Montepíos aportados con su integración a la Mutualidad General de Funcionarios Civiles del Estado constituye un Fondo especial al que se incorporan asimismo las cuotas de los mutualistas afectados y los recursos públicos que les correspondan. Las cuotas serán las que correspondan a las cuantías vigentes a 31 de diciembre de 1973.
+3. Los gastos imputables a las Mutualidades, Asociaciones y Montepíos integrados se financiarán con los recursos del mencionado Fondo especial, cuyo déficit, en su caso, será cubierto mediante subvención del Estado.
+4. No podrán incorporarse nuevos socios a las Mutualidades, Asociaciones y Montepíos integrados en la Mutualidad General de Funcionarios Civiles del Estado. La opción individual de darse de baja podrá ejercitarse en cualquier momento, con pérdida, por parte del beneficiario, de cualquier prestación y sin derecho a devolución de cuotas.
+5. Cuando coincida en una misma situación o contingencia la protección que se otorga con cargo al Fondo especial por la Mutualidades integradas y la que se dispensa por la Mutualidad General, el Reglamento General del Mutualismo Administrativo establecerá las normas a aplicar, sin que en ningún caso pueda percibirse más de una prestación, ni pueda exigirse doble cotización por prestaciones sustancialmente idénticas.
+6. Las pensiones abonadas por el Fondo especial de la Mutualidad General de Funcionarios Civiles del Estado tienen el carácter de públicas y, consiguientemente, les resultan de aplicación los límites legalmente establecidos tanto para el señalamiento inicial como para su revalorización, así como para la concurrencia de pensiones.
+7. Las prestaciones y pensiones citadas en el apartado 1 anterior que, una vez reconocidas, exijan un pago económico a los socios o beneficiarios, serán abonadas únicamente en la cuenta corriente o libreta ordinaria abierta a su nombre.
+8. Respecto de las prestaciones de MUFACE, que exijan un pago periódico o vitalicio al mutualista o sus beneficiarios y que hayan sido reconocidas o solicitadas antes de 1 de enero de 2011, los habilitados de Clases Pasivas estarán obligados a abonar a su mandante, ya sea mediante transferencia bancaria o mediante cheque el importe íntegro de la prestación que le haya sido pagado por MUFACE, sin practicar deducción alguna. Las comisiones, gastos de gestión, o impuestos derivados del ejercicio de la actividad profesional que repercuta en su cliente deberán cobrarlos de forma separada.
+Se añaden los apartados 7 y 8, con efectos de 1 de enero de 2011, por la disposición final 7.5 y 6 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Régimen del medicamento.
+1. A efectos de lo establecido en el artículo 17 de esta Ley y de acuerdo con la disposición adicional decimoséptima de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, será de aplicación a la prestación farmacéutica de este Régimen especial lo establecido en el artículo 94.6 de la Ley 25/1990, de 20 de diciembre, del Medicamento.
+2. Las deducciones en la facturación de las recetas correspondientes a la prestación farmacéutica, derivadas de las colaboraciones establecidas o que se establezcan por la Mutualidad General de Funcionarios Civiles del Estado con los Colegios de Farmacéuticos, se imputarán al presupuesto de gastos del ejercicio en que se produzcan como minoración de las obligaciones satisfechas.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Suministro de información.
+1. Por los organismos competentes dependientes del Ministerio de Hacienda o, en su caso, de las Comunidades Autónomas o de las Diputaciones Forales, se facilitarán, dentro de cada ejercicio anual, a la Mutualidad General de Funcionarios Civiles del Estado, y a petición de la misma, y de conformidad con lo establecido en el artículo 113 de la Ley 230/1963, de 28 de diciembre, General Tributaria, los datos relativos a los niveles de renta y demás ingresos de los titulares de prestaciones, en cuanto determinen el derecho a las mismas, así como de los beneficiarios, cónyuges y otros miembros de las unidades familiares, siempre que deban tenerse en cuenta para el reconocimiento, mantenimiento o cuantía de dichas prestaciones, a fin de verificar si aquéllos cumplen en todo momento las condiciones necesarias para la percepción de las prestaciones y en la cuantía legalmente establecida.
+2. Por los Registros Civiles, dependientes de la Dirección General de los Registros y del Notariado del Ministerio de Justicia, en colaboración con los correspondientes del Ministerio de Hacienda, se facilitarán a la Mutualidad General de Funcionarios Civiles del Estado, y dentro del plazo de tres meses contados a partir de la fecha en que aparezcan los hechos respectivos, los datos personales informatizados de todas las defunciones, así como de los matrimonios de las personas viudas.
+3. A fin de facilitar la gestión del control del colectivo de MUFACE, mediante la comprobación de la concordancia de sus datos con los correspondientes del Registro Central de Personal, éste remitirá mensualmente las inscripciones y anotaciones obrantes en dicho Registro en relación con los actos de toma de posesión, cambio de situaciones administrativas, pérdida de la condición de funcionario o jubilación. Igualmente, facilitará la información de esta naturaleza que, según la normativa de coordinación con los Registros de las restantes Administraciones Públicas, reciba de éstas.
+4. Los datos que se faciliten deberán identificar, en todo caso, nombre y apellidos, documento nacional de identidad y domicilio.
+Se modifica el contenido del apartado 3, y el actual apartado 3 se renumera como 4 por el art. 45. 2 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Prestaciones por minusvalía a extinguir.
+Las prestaciones familiares por minusvalía diferentes de las mencionadas en el artículo 29 de este texto legal y reconocidas por la Mutualidad General de Funcionarios Civiles del Estado al amparo de la normativa anterior se mantendrán a extinguir, y las que hayan sido transformadas de oficio en la prestación por hijo a cargo que corresponda, y fuesen de cuantía superior a ésta, mantendrán el exceso y éste se irá absorbiendo por los aumentos que en la prestación por hijo a cargo se produzcan.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Reintegro de prestaciones indebidas y plazo para su prescripción.
+1. Los mutualistas y las demás personas que hayan percibido indebidamente prestaciones de la Mutualidad General de Funcionarios Civiles del Estado vendrán obligados a reintegrar su importe.
+2. Quienes por acción u omisión hayan contribuido a hacer posible la percepción indebida de una prestación responderán subsidiariamente con los perceptores, salvo buena fe probada, de la obligación de reintegrar que se establece en el apartado anterior.
+3. La obligación de reintegro del importe de las prestaciones indebidas percibidas prescribirá a los cuatro años, contados a partir de la fecha de su cobro, o desde que fue posible ejercitar la acción para exigir su devolución, con independencia de la causa que originó la percepción indebida, incluidos los supuestos de revisión de las prestaciones por error imputable a la Mutualidad.
+4. La Mutualidad General de Funcionarios Civiles del Estado, mediante resolución motivada y previa audiencia del interesado, podrá revisar directamente los actos de reconocimiento de las prestaciones cuando concurran alguna de las siguientes circunstancias:
+a) Cuando proceda la rectificación de errores materiales o de hecho y los aritméticos.
+b) Cuando se constate que la prestación se ha obtenido mediante omisiones, inexactitudes o falseamiento de datos en las declaraciones de los mutualistas o de los beneficiarios.
+c) Cuando el acto haya sido acordado con carácter de revisable, provisional o condicional, como consecuencia de estar sujeto a revisión periódica, o al cumplimiento de determinada condición o requisito, y se revele como indebido como consecuencia de dicha revisión, o del incumplimiento de la condición o requisito de que se trate.
+5. Cuando como consecuencia de la existencia de prestaciones indebidas, resulten cantidades a devolver a la Mutualidad General de Funcionarios Civiles del Estado, y el deudor de las mismas sea, simultáneamente, perceptor de alguna de las prestaciones económicas gestionadas por la Mutualidad, ésta podrá efectuar, en los términos que reglamentariamente se determine, descuentos sobre dichas prestaciones para resarcirse de la deuda contraída por el beneficiario, salvo en los supuestos en que el propio deudor opte por abonar la deuda en un solo pago.
+Se añaden los apartados 4 y 5 por la disposición final 12 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-13
+ Se añade por el art. 29.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas las normas de igual o inferior rango que se opongan a lo dispuesto en este texto y en particular las siguientes:
+a) En su totalidad:
+1. La Ley 29/1975, de 27 de junio, sobre Seguridad Social de los Funcionarios Civiles del Estado, así como las disposiciones expresamente modificativas de su texto.
+2. Disposición adicional quinta de la Ley 74/1980, de 29 de diciembre, de Presupuestos Generales del Estado para 1981.
+3. Disposición adicional tercera, apartado 1, de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública.
+4. Disposición adicional décima de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990.
+5. Disposición adicional sexta de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+6. El apartado uno, 7, del artículo 82 y la disposición adicional duodécima de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+b) En la parte que se refiere a la Mutualidad General de Funcionarios Civiles del Estado:
+1. El artículo 25, apartado 3, de la Ley 12/1983, del Proceso Autonómico.
+2. El artículo 32, apartado 6, y disposición adicional tercera, apartado 3, de la Ley 30/1984, de 2 de agosto, de Medidas para la reforma de la Función Pública.
+3. El artículo 97 y disposición adicional 21 de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985.
+4. Disposiciones adicionales primera y cuarta y transitoria cuarta de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986.
+5. El artículo 63 de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988.
+6. El artículo 55 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989.
+7. Disposición final tercera de la Ley 4/1990, de 29 de junio, de Presupuestos Generales del Estado para 1990.
+8. Disposición adicional novena de la Ley 31/1991, de 30 de diciembre, de Presupuestos Generales del Estado para 1992.
+9. Disposición adicional duodécima de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+10. Los artículos 75 y 133 de la Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+11. Disposición final segunda de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del sistema de la Seguridad Social.
+12. Disposiciones adicionales quinta y decimoséptima de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+13. Los artículos 44 y 62 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+14. El artículo 50 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social.
+
+### Disposición final primera
+
+Disposición final primera. Armonización con la Ley de Consolidación y Racionalización del sistema de la Seguridad Social.
+Se autoriza al Gobierno para proceder a la armonización de la normativa especial del mutualismo administrativo, en lo referente a sus sistemas de recursos económicos, con las previsiones del artículo 86.2 de la Ley General de la Seguridad Social, en la redacción dada por el artículo 1 de la Ley 24/1997, de 17 de julio, de Consolidación y Racionalización del sistema de la Seguridad Social, previa consulta con las organizaciones sindicales más representativas en el ámbito de la función pública. Y ello, sin perjuicio del mantenimiento de las peculiaridades que en cuanto a la forma de realizar la prestación de la asistencia sanitaria se contienen en aquella normativa especial.
+
+### Disposición final segunda
+
+Disposición final segunda. Aplicación de la Ley.
+La regulación contenida en esta Ley será de aplicación general, en relación con los funcionarios incluidos en su ámbito de aplicación, al amparo de lo previsto en el artículo 149.1.17.a y 18.a de la Constitución.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario.
+Se faculta al Ministro de Administraciones Públicas, previo informe, en su caso, de los Ministerios de Hacienda y de Trabajo y Asuntos Sociales, en el ámbito de sus respectivas competencias, para dictar o proponer al Gobierno, según proceda, las normas de aplicación y desarrollo de la presente Ley.

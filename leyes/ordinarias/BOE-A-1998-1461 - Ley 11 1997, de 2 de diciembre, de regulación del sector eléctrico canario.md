@@ -1,0 +1,394 @@
+# Ley 11/1997, de 2 de diciembre, de regulación del sector eléctrico canario.
+
+- Identificador BOE: `BOE-A-1998-1461`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-1461
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+El desarrollo de una sociedad moderna ha venido solidariamente unido a la del sector eléctrico. Como energía de gran versatilidad por la facilidad de su transporte desde las instalaciones de generación a las de consumo, incluso a larga distancia, permite unificar el uso de las diferentes fuentes primarias de energía.
+De hecho, el avance tecnológico moderno está totalmente condicionado por la disponibilidad y uso de la energía eléctrica. Por ello no puede extrañar que el desarrollo del sector sea objeto de cuidadosa atención de los responsables de la planificación económica, tanto en el ámbito nacional como regional. Tal es el caso de los responsables políticos de la Comunidad Autónoma de Canarias, a los que el artículo 31.4 del Estatuto de Autonomía encomienda, en el ámbito de su competencia, la ordenación y planificación de la actividad económica regional.
+La industria eléctrica y su evolución condicionan el desarrollo industrial en general, por lo que su dimensión, estructura, política de aprovisionamiento de combustibles fósiles u otros tipos de fuentes energéticas y, en general, su organización y régimen de funcionamiento constituyen factores de trascendental importancia para el bienestar de un país.
+Esta trascendencia hace necesaria la intervención de la Administración pública con políticas de planificación a medio y largo plazo, actividades de fomento y también de vigilancia y control que impidan y, en su caso, corrijan prácticas restrictivas de la competencia, que puedan distorsionar el libre funcionamiento del mercado.
+Característica importante de la generación eléctrica es la práctica imposibilidad de almacenamiento de la energía y también las importantes inversiones necesarias para conciliar los incrementos de la demanda con los de la oferta disponible.
+El problema no sólo se plantea en las plantas de generación, sino también en las líneas de transporte y distribución que deben estar capacitadas para suministrar la energía demandada.
+El volumen importante de las inversiones precisas para la puesta en funcionamiento de nuevas unidades de producción, la necesaria diversificación de las fuentes energéticas por razones claramente estratégicas, muy importantes en Canarias, y la conveniencia de poder responder con flexibilidad a pequeños incrementos de la demanda, hacen necesarias políticas de fomento del uso de energías alternativas, el claro apoyo a las actividades de los autoproductores, el fomento de tecnologías tales como la de las centrales energéticas de ciclo combinado, unido a políticas de ahorro energético que permitan mantener la política inversora dentro de límites razonables, sin por ello dejar de atender al crecimiento de la demanda.
+Por otra parte, la importancia básica de la energía ha dado origen a una clara tendencia a la integración en redes de transporte común de las diferentes plantas e instalaciones de generación, aun en el caso de pertenencia a diversos titulares.
+Sin embargo, como consecuencia efectiva de esta tendencia se produce «de facto» lo que ha venido a llamarse un monopolio natural en transporte y distribución, propicio a prácticas restrictivas de la competencia. Efectivamente, la necesidad de ir por delante de la demanda, además de una planificación pública basada en las tendencias previsibles de consumo, exige importantes aportaciones de capital que, inevitablemente, producen una acumulación de capacidad de influencia en el mercado que, en la práctica, no puede funcionar dentro de razonables parámetros de libre competencia.
+Se hace necesaria la intervención reguladora de las Administraciones públicas a las que les corresponde la capacidad de ordenación y planificación y que con sus actividades de fomento y policía debe intervenir en el mercado, evitando dificultades de oferta, abusos a los usuarios desde una posición dominante e incluso, en un papel subsidiario, intervenir directamente a través de entidades o empresas públicas en las diferentes fases productivas: Generación, transporte, distribución y comercialización.
+Esto es tanto más necesario en situaciones de generación aislada como ocurre en Canarias. Efectivamente el archipiélago, por su propia naturaleza, na sólo se encuentra aislado de cualquier red energética eléctrica continental, sino que por las grandes profundidades entre las islas, con la excepción existente entre Lanzarote y Fuerteventura, cada isla constituye un sistema de generación aislado que debe ser autosuficiente en limites estratégicos.
+La singularidad canaria no se le ha escapado al legislador y por ello el Estatuto de Autonomía, de un modo singular dentro del conjunto de las Comunidades Autónomas, otorga a Canarias competencia exclusiva en instalaciones de producción, distribución y transporte de energía, de acuerdo con las bases del régimen minero y energético.
+Asimismo, la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, de acuerdo con el mandato de solidaridad con especial atención al hecho insular del artículo 138.1 de la Constitución, exige disposiciones que habiliten un sistema de compensación que garantice en el ámbito autonómico una moderación de los precios de la energía, manteniendo su equivalencia a los del resto del territorio del Estado español.
+La misma ley, buscando la necesaria flexibilización de la oferta energética, en su artículo 16 ordena fomentar el establecimiento de centrales energéticas de ciclo combinado, preferentemente de gas natural, así como la implantación de centrales duales de energía eléctrica y desalinización de agua, conjuntamente con la potenciación estratégica de las energías alternativas.
+Esta norma hace hincapié en una de las características diferenciales de la producción de energía eléctrica en Canarias de la del resto del Estado: La fuerte interacción entre los procesos de desalinización y la producción y el consumo de energía. Efectivamente, el agua desalinizada constituye la fuente esencial de suministro a la población y a la industria en las islas de Fuerteventura y Lanzarote, al área metropolitana de Las Palmas-Telde en Gran Canaria y en un próximo futuro en el sur de Tenerife.
+Si a las anteriores consideraciones se une el hecho de que, probablemente, el segundo operador telefónico de pronta implantación en Canarias sólo será viable por razones ambientales y de derechos de paso alrededor de la red eléctrica, se pone de manifiesto la importancia estratégica que para el futuro de la Comunidad Autónoma tiene el correcto funcionamiento del sector, y de ahí la necesidad de su regularización por esta ley.
+El artículo 30.26 del Estatuto de Autonomía, como delimitador de la competencia exclusiva de la Comunidad, en términos energéticos, establece la base jurídica para la promulgación de esta ley; asimismo el artículo 32.11 del mismo Estatuto faculta al desarrollo legislativo y ejecución de los contratos y el régimen jurídico del dominio público y de las concesiones administrativas en el ámbito competencial autonómico.
+Marco necesario para determinar el contenido de esta ley ha de ser la Directiva 96/92/CEE, del Parlamento Europeo y del Consejo, de 19 de diciembre de 1996, sobre normas comunes para el mercado interior de la electricidad.
+Esta directiva, de obligado desarrollo en el derecho interno de nuestro país, aun recalcando el principio de subsidiariedad, establece un conjunto de principios generales de aplicación alternativa en los diferentes territorios comunitarios. Buscando un mercado interior competitivo, sin embargo admite la posibilidad de imponer obligaciones de servicio público en el caso de que no se pueda garantizar la libre competencia para garantía de los consumidores y protección del medio ambiente; asimismo admite la posibilidad de recurrir a excepciones al régimen general en pequeñas redes aisladas (aquéllas con un consumo inferior a 2.500 GWh) y también a la concesión de derechos de suministro a los clientes que se encuentren en una zona determinada y al nombramiento para esa zona de un gestor de la red de distribución con el fin de explotar, mantener y, en su caso, desarrollar la misma.
+La presente ley pretende el establecimiento en Canarias de un mercado competitivo en el sector eléctrico, sin perjuicio de las obligaciones de servicio público que se estimaran procedentes, dentro del marco normativo comunitario.
+Objetivo básico de la ley es regular, de acuerdo a las bases del régimen energético, el mercado canario e insular del sector eléctrico de tal forma que se racionalice la generación, transmisión y distribución de la electricidad, se refuerce la seguridad y calidad del abastecimiento en las peculiares circunstancias que se derivan del hecho insular y que determinan que cada isla constituya un sistema independiente y en el que es necesario garantizar un mercado competitivo, incluso en el caso en el que, de acuerdo a la normativa comunitaria, quede clasificado como pequeña red aislada, admitiendo el procedimiento de licitación cuando fuera necesario garantizar la competencia.
+Las características de estos sistemas han derivado a que, en el momento actual, exista un monopolio de hecho al que solamente su carácter público ha contribuido, en general, a evitar abusos de posición dominante y comportamientos depredadores. Por otra parte, el mismo carácter público de las actividades en el sector eléctrico de las islas ha hecho innecesario el establecimiento de obligaciones de servicio público, lo que puede ser necesario si se desarrollan actividades privatizadoras.
+Por ello la búsqueda de un mercado competitivo y esos procesos de privatización en marcha ya anunciados hacen preciso un conjunto de normas, incluidas en esta ley, que impidan y corrijan alteraciones y disfunciones del mercado que puedan producir perjuicios a los consumidores canarios.
+
+## TÍTULO I
+
+TÍTULO I
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+La presente ley será de aplicación en el ámbito competencial de la Comunidad Autónoma de Canarias.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A efectos de la presente ley, se entenderá por:
+1. Generación: La producción de electricidad.
+2. Productor: Toda persona física o jurídica que genere electricidad.
+3. Autoproductor: Productor que genere electricidad para su propio uso, sin perjuicio que pueda comercializar sus excedentes productivos.
+4. Transmisión: Transporte de electricidad por una red de alta tensión con el fin de suministrar a clientes finales o distribuidores.
+5. Transporte: La distribución de electricidad por las redes de media y baja tensión para el suministro a clientes.
+6. Clientes: Los compradores de electricidad, ya sean al por mayor, compañías de distribución, o compradores de electricidad para su consumo propio.
+7. Suministro: La entrega de electricidad a clientes.
+8. Procedimiento de licitación: El procedimiento excepcional por el que se resolverán las necesidades adicionales de energía y las capacidades planificadas de generación, a través de nuevas instalaciones de generación o de las ya existentes, cuando no proceda el sistema de autorización.
+9. Planificación a largo plazo: El desarrollo de planes que permitan satisfacer las necesidades de inversión para incrementar la capacidad de generación y transmisión a largo plazo con el objeto de satisfacer la demanda de electricidad de la red y garantizar el suministro a los clientes o consumidores en condiciones de seguridad y calidad.
+10. Régimen ordinario de generación eléctrica: Se entienden incluidos en este régimen las instalaciones de generación que utilizando como fuente primaria de energía la hidráulica o combustibles fósiles convencionales tengan como objeto básico la producción de energía eléctrica para su suministro a clientes.
+11. (Anulado)
+Se declara inconstitucional y nulo el apartado 11 y la deseestimación del recurso de inconstitucionalidad 997/1998 respecto del apartado 3, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se mantiene la suspensión de la vigencia y aplicación de los apartados 3 y 11 , por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación de los apartados 3 y 11 desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Artículo 3
+
+Artículo 3. Objeto.
+El objeto de la presente ley es regular todas las actividades encaminadas al suministro a los clientes o consumidores de energía eléctrica en condiciones competitivas, en sus diferentes fases de generación, transporte, distribución y comercialización, garantizando la seguridad de abastecimiento; asimismo lograr la regularidad en calidad y precio, con especial atención a la protección del medio ambiente.
+
+### Artículo 4
+
+Artículo 4. Régimen de funcionamiento.
+1. Se reconoce la libre iniciativa empresarial en las actividades a que se refiere el artículo anterior, condicionando su ejercicio, con carácter general, al otorgamiento de una autorización administrativa por la Consejería competente en materia de industria del Gobierno de Canarias.
+2. Esas actividades deberán ejercerse, en todo caso, garantizando el suministro de energía a todos los clientes o consumidores, ya sea en el ámbito regional o insular, según corresponda.
+3. A estos efectos, en los procesos de adjudicación de autorización de nuevas instalaciones de generación, transmisión o distribución, así como en las ampliaciones, modificaciones y extensiones necesarias para garantizar el suministro de energía eléctrica en todo el territorio canario, el Gobierno de Canarias podrá imponer a las compañías de electricidad obligaciones de servicio público en áreas determinadas del archipiélago.
+4. Las compañías de generación de energía eléctrica deberán disponer de un «stock» estratégico de combustibles equivalente, como mínimo, a cuarenta y cinco días del consumo previsto anual en cada uno de los sistemas aislados que configuran el sistema eléctrico.
+5. Se garantizará el suministro de cada sistema aislado, estableciendo una relación entre potencia demandada punta anual y potencia instalada según se establezca reglamentariamente.
+6. Al objeto de mantener la calidad del servicio y el derecho de los consumidores, se garantizará que la tensión en el punto de consumo no tenga una desviación superior al ± 7 por 100 de la tensión contratada.
+
+### Artículo 5
+
+Artículo 5. Competencias de la Administración de la Comunidad Autónoma.
+1. Corresponde a la Administración autonómica:
+a) La planificación a largo y corto plazo de las instalaciones de producción, transporte y distribución de energía, de acuerdo con las bases del régimen energético en el ámbito estatal.
+b) El desarrollo y la ejecución de la normativa básica sobre la generación, el transporte, la distribución y la comercialización de energía eléctrica, así como la promulgación de normas adicionales.
+c) El otorgamiento de las autorizaciones en los términos establecidos en esta ley y en las disposiciones de desarrollo reglamentario.
+d) El establecimiento de las condiciones técnicas a que deben acomodarse las instalaciones de generación, transporte y distribución, en especial los condicionantes medioambientales. En particular las reglamentaciones técnicas se dirigirán a obtener la mayor racionalidad de las instalaciones y su fiabilidad, la prestación del servicio con seguridad para personas y bienes, a la vez que con regularidad y eficiencia.
+e) La inspección del cumplimiento de las especificaciones técnicas y económicas, así como otras adicionales que se hubieran establecido al conceder las autorizaciones administrativas, en particular las de servicio público, en su caso.
+f) La sanción, de acuerdo con lo establecido en esta ley y en la legislación estatal aplicable, de las infracciones tipificadas cometidas.
+2. La Comunidad Autónoma de Canarias, a los efectos previstos en el apartado anterior, podrá celebrar convenios de colaboración con la Administración General del Estado, así como solicitar el apoyo técnico de la Comisión Nacional del Sistema Eléctrico.
+
+### Artículo 6
+
+Artículo 6. Planificación a largo plazo.
+(Anulado)
+Se declara inconstitucional y nulo, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se levanta la suspensión de la vigencia y aplicación, por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Artículo 6 bis
+
+Artículo 6 bis. Procedimiento excepcional para obras de interés general para el suministro de energía eléctrica.
+1. Cuando razones justificadas de urgencia o excepcional interés aconsejen la modernización o el establecimiento de instalaciones de generación, transporte o distribución eléctrica, la consejería competente en materia de energía podrá declarar el interés general de las obras necesarias para la ejecución de dichas instalaciones.
+2. Los proyectos de construcción, modificación y ampliación de las instalaciones a que se refiere el apartado anterior, se someterán a un régimen especial de autorización y no estarán sujetos a licencia urbanística o a cualquier otro acto de control preventivo municipal o insular.
+3. Una vez declarado el interés general de las obras, el proyecto será remitido al ayuntamiento y al cabildo insular correspondiente por el órgano competente para su autorización, para que, en el plazo de un mes, informen sobre la conformidad o disconformidad de dicho proyecto con el planeamiento territorial o urbanístico en vigor.
+Dicha consulta se evacuará conjunta y simultáneamente con el trámite de consultas propio del procedimiento de autorización sustantiva de la instalación.
+4. Transcurrido el plazo conferido sin que la corporación local haya emitido informe, o bien cuando esta se inhiba de emitirlo, se entenderá que dicho informe es favorable en cuanto a la conformidad del proyecto con el planeamiento de su competencia, salvo que dicho proyecto afecte a suelo rústico de protección ambiental o categoría equivalente según la disposición transitoria tercera de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, o bien se contravengan de forma manifiesta parámetros básicos de la ordenación territorial, de los recursos naturales o urbanística.
+No obstante, si la corporación local emite informe antes de la emisión de la autorización sustantiva del proyecto, aun siendo extemporáneo, será tenido en cuenta por el órgano instructor.
+Cuando los informes de las corporaciones locales afectadas se pronuncien favorablemente sobre la compatibilidad del proyecto con el planeamiento de su competencia, o bien dichos informes se entiendan favorables por no haber sido emitidos en plazo o por haberse inhibido la entidad local, la autorización especial a que se refiere este artículo quedará subsumida en la autorización sustantiva del proyecto.
+5. En caso de detectarse disconformidad con el planeamiento, inexistencia de este o ausencia de ordenación concreta aplicable al proyecto, la consejería competente en materia de energía valorará sobre la idoneidad de la ejecución del proyecto.
+En particular, y sin carácter exhaustivo, se entenderá que tiene relevancia territorial toda aquella modificación que implique incremento de volumen, altura, edificabilidad u ocupación de suelo, cambio de uso, cambio de ubicación o trazado de las instalaciones, o afección a nuevos suelos o su correspondiente vuelo o subsuelo.
+6. En caso de detectarse disconformidad con el planeamiento, inexistencia de éste, o ausencia de ordenación concreta aplicable al proyecto, se elevará dicho proyecto al Gobierno de Canarias, el cual decidirá si procede o no su ejecución y, en el primer caso, precisará los términos de la ejecución y ordenará la Administración competente la adaptación del planeamiento correspondiente con ocasión de la primera modificación sustancial del mismo.
+En el supuesto de que la consejería competente en materia de energía valorase desfavorablemente sobre la ejecución del proyecto, se resolverá motivadamente con la no autorización del proyecto.
+En el supuesto de valorarse favorablemente sobre la ejecución del proyecto, se elevará dicho proyecto al Gobierno de Canarias, el cual decidirá si procede o no su ejecución y, en el primer caso, precisará los términos de la ejecución y ordenará la Administración competente la adaptación del planeamiento correspondiente con ocasión de la primera modificación sustancial del mismo.
+7. La autorización sustantiva, en caso de conformidad expresa o presunta de las administraciones públicas consultadas en cuanto a la compatibilidad del proyecto con el planeamiento o, en su defecto, el acuerdo favorable del Gobierno de Canarias al que se refiere el apartado anterior, legitimarán por sí mismos la ejecución de los actos de construcción, edificación y uso del suelo incluidos en los correspondientes proyectos de instalaciones de generación, transporte y distribución, sin necesidad de ningún otro instrumento de planificación territorial o urbanística y tendrán el carácter de autorización especial equivalente a la licencia urbanística municipal, a los efectos de lo previsto en el artículo 100.1 del Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, o norma que lo sustituya, con relación al devengo y a la liquidación municipal de oficio o a la autoliquidación del impuesto sobre construcciones, instalaciones y obras.
+Se modifica por la disposición final 3 de la Ley 5/2021, de 21 de diciembre. Ref. BOE-A-2022-2543#df-3
+ Se modifica por la disposición final 2 del Decreto-ley 15/2020, de 10 de septiembre. Ref. BOC-j-2020-90372#df-2
+ Se modifica por el art. 1 de la por Ley 2/2011, de 26 de enero. Ref. BOE-A-2011-2710
+ Téngase en cuenta la Sentencia del TC 133/2022, que declara nulo, con los efectos señalados en el fj 6, el inciso destacado del apartado 4.Ref. BOE-A-2022-20177
+ Se añade por el art. único de la Ley 8/2005, de 21 de diciembre. Ref. BOE-A-2006-2102
+
+### Artículo 7
+
+Artículo 7. Planes Insulares de Ordenación Territorial.
+1.Los Planes Insulares de Ordenación Territorial deberán recoger las previsiones necesarias sobre reserve de suelo para las instalaciones de generación con potencia superior a 80 MW, así como el establecimiento de criterios que deberán aplicarse a las redes de transporte de energía eléctrica y, en lo posible, localización de trazados posibles de interconexión entre diferentes instalaciones de generación o entre estos y las estaciones de transformación o distribución en suelo no urbanizable.
+2. En los polígonos industriales de promoción pública se tendrá en cuenta reservas a estos efectos, tanto en su zonificación como en la normativa de usos permitidos.
+
+### Artículo 8
+
+Artículo 8. Utilidad pública de las instalaciones.
+1.Se declaran de utilidad pública las instalaciones eléctricas de generación, transmisión, transportes y distribución de energía eléctrica en Canarias, a los efectos de la expropiación forzosa de los bienes y derechos necesarios para su establecimiento, al igual que la imposición de las servidumbres de paso de líneas eléctricas. La declaración de utilidad pública, que se tramitará a petición de parte en el caso de autorizaciones y de oficio cuando se trata de licitaciones, llevará implícita la necesidad de ocupación de los bienes o el establecimiento de servidumbre de paso sobre los terrenos precisos, cualquiera que fuera su titularidad o calificación jurídica, e implicará la urgente ocupación a los efectos del artículo 52 de la Ley de Expropiación Forzosa. La resolución del expediente será acordada por la consejería competente en materia de energía, sin perjuicio de la competencia del Gobierno de Canarias en caso de oposición de organismos u otras entidades de Derecho público.
+2. Excepcionalmente, por razones estratégicas o de urgencia, se podrán tramitar ocupaciones o imponer servidumbres obligatorias destinadas a la construcción de nuevas instalaciones de transporte o modificaciones de las ya existentes, previa declaración de su utilidad pública, de conformidad a la normativa urbanística vigente en Canarias.
+Se modifica el apartado 1 por la disposición adicional 1 de la Ley 4/2001, de 6 de julio. Ref. BOE-A-2001-14279
+
+## TÍTULO II
+
+TÍTULO II
+Servicios de suministro de electricidad
+
+## CAPÍTULO I
+
+CAPÍTULO I
+Generación
+
+### Artículo 9
+
+Artículo 9. De las nuevas instalaciones.
+1. Las nuevas instalaciones, de acuerdo con las previsiones de la planificación a largo plazo o a sus modificaciones ordinarias o urgentes, se otorgarán por el Gobierno, de modo ordinario, a las empresas eléctricas de Canarias a través del procedimiento de autorización administrativa.
+2. Excepcionalmente, sin perjuicio de lo establecido en el apartado anterior, cuando se produzca una situación de monopolio u oligopolio por parte de una o algunas empresas eléctricas privadas y exista peligro de abuso de su posición dominante, el Gobierno podrá optar, de conformidad con la normativa comunitaria y, en particular, con la Directiva 96/1992, del Parlamento Europeo y del Consejo, de 19 de diciembre de 1996, por un procedimiento de licitación.
+3. Las autorizaciones administrativas a que se refiere el apartado 1 de este artículo o las excepcionales reguladas en su apartado 2 se deberán referir, preceptivamente, a instalaciones emplazadas en un solo sistema insular aislado.
+Si fuera necesario, se procederá, previamente, al otorgamiento por el Gobierno de dichas autorizaciones, a una declaración de obligación de servicio público, de conformidad con la normativa comunitaria.
+4. Los criterios para el otorgamiento de las autorizaciones se establecerán reglamentariamente.
+En la disposición reglamentaria, en todo caso, se deberán incluir entre esos criterios los siguientes:
+a) La eficacia energética, dando prioridad a las centrales de ciclo combinado, así como a las duales de producción de energía eléctrica y desalinización de agua salada o salobre.
+b) La diversificación de la naturaleza de las fuentes primarias de energía y preferentemente la utilización, al menos de un modo parcial pero importante, de gas natural.
+c) La seguridad y protección de las redes eléctricas, así como de las instalaciones.
+d) La disponibilidad de suelo adecuado física y urbanísticamente.
+e) La capacidad técnica, económica y financiera del solicitante.
+5. Cuando con base a la existencia de prácticas monopolísticas se optara por utilizar el sistema de licitación, el Gobierno de Canarias, previo informe de las empresas generadoras establecidas en la Comunidad Autónoma y asesoramiento de la Comisión Nacional del Sistema Eléctrico, elaborará y publicará con una periodicidad bianual un balance periódico de previsiones relativo a las capacidades de generación, transmisión y transporte que sean susceptibles de conexión a la red, así como la demanda previsible de electricidad.
+6. La Consejería competente en materia de industria, en su caso, será la autoridad responsable de la organización, seguimiento y control de los procedimientos de licitación.
+7. Se dará preferencia en el acceso a las redes eléctricas, cualquiera que sea su titularidad, a la energía producida en Régimen Especial de Generación Eléctrica, que deberá ser adquirida obligatoriamente por los responsables de las redes de transporte, siempre que se aporten en condiciones técnicas adecuadas y con una tensión al menos de 20 Kv, facilitando su conexión y minimizando el coste de esta, sin perjuicio de que se pueda producir la venta directa parcial de la energía generada por los productores en régimen especial a clientes con los que tengan establecidos contratos bilaterales a medio o largo plazo. Asimismo, el Gobierno de Canarias establecerá reglamentariamente medidas de fomento que favorezca ese tipo de instalaciones en régimen especial, entre las cuales se podrá incluir un complemento especial al precio de cesión a las redes de la energía producida en régimen general.
+Se declara la desestimación del recurso de inconstitucionalidad 997/1998, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se modifica el apartado 3 por el art. 3 de la Ley 2/2011, de 26 de enero. Ref. BOE-A-2011-2710
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 7, por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación del apartado 7 desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Artículo 10
+
+Artículo 10. Registro de Instalaciones de Producción Eléctrica.
+Se crea en la Consejería competente en materia de industria un Registro de Instalaciones de Producción Eléctrica, de carácter público, en el que se inscribirán todas las instalaciones operativas, las condiciones de autorización o licitación y la potencia instalada.
+
+## CAPÍTULO II
+
+Redes de transporte
+
+### Artículo 11
+
+Artículo 11. Red de transmisión.
+(Anulado)
+Se declara inconstitucional y nulo, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se levanta la suspensión de la vigencia y aplicación, por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Artículo 12
+
+Artículo 12. Autorizaciones.
+1.La autorización para la construcción, explotación, cambio de titularidad y cierre de las redes de transporte corresponderá a la Consejería competente en materia de industria, sin perjuicio de las competencias sobre concesiones administrativas dictadas de conformidad con el artículo 32.11 del Estatuto de Autonomía, ni de las normas urbanísticas y medioambientales aplicables en la Comunidad Autónoma.
+2. (Anulado)
+3. Para el otorgamiento de autorizaciones, que deberá en todo caso realizarse a sociedades mercantiles comunitarias o con establecimiento permanente en las Islas Canarias, se prestará especial atención a la calificación técnica, económica y financiera de los solicitantes, así como la incidencia de la instalación proyectada en el sistema insular que pueda quedar afectado.
+4. Las autorizaciones de construcción y explotación de instalaciones de transporte podrán ser otorgadas mediante un procedimiento que asegure la concurrencia, promovido y resuelto por el departamento competente en la materia.
+Se declara inconstitucional y nulo el apartado 2 y la desestimación del apartado 3, por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se levanta la suspensión de la vigencia y aplicación de los apartados 2 y 3, por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación de los apartados 2 y 3 desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Artículo 13
+
+Artículo 13. Derechos y deberes de los titulares de instalaciones de las redes de transmisión.
+Los titulares de las redes en la Comunidad Autónoma de Canarias:
+a) Deberán mantener en buenas condiciones sus instalaciones de acuerdo a la normativa legal aplicable en el resto del Estado.
+b) (Anulada)
+c) Tendrán reconocido por la Administración pública el derecho a la retribución que corresponda por la utilización de sus instalaciones de transporte, de conformidad a la normativa estatal establecida el respecto. Esta retribución deberá tener en cuenta la incidencia de los costes adicionales derivados de la insularidad en la inversión, operación y mantenimiento de las instalaciones.
+Se declara inconstitucional y nula la letra b), por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se levanta la suspensión de la vigencia y aplicación de la letra b), por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Se suspende la vigencia y aplicación de la letra b) desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+## CAPÍTULO III
+
+CAPÍTULO III
+Distribución de energía eléctrica
+
+### Artículo 14
+
+Artículo 14. Criterios reguladores de la distribución.
+Los criterios reguladores de la distribución de energía eléctrica se fijarán mediante disposición reglamentaria por el Gobierno de Canarias, previo asesoramiento de la Comisión Nacional del Sistema Eléctrico, teniendo en cuenta las singularidades derivadas de la singularidad insular.
+
+### Artículo 15
+
+Artículo 15. Autorizaciones.
+1. La construcción, modificación, explotación y cambio de titularidad de las instalaciones de distribución de energía eléctrica estarán sometidas a autorización de la Consejería competente en materia de industria, sin perjuicio de la normativa vigente, en su caso, sobre concesiones administrativas, urbanísticas y medioambientales.
+2. La autorización tendrá carácter reglado con base a los criterios objetivos que se fijen reglamentariamente.
+
+### Artículo 16
+
+Artículo 16. Derechos y obligaciones.
+Las empresas distribuidoras de energía eléctrica en la Comunidad Autónoma de Canarias:
+a) Deberán prestar el servicio de suministro en condiciones de regularidad y con la calidad que se determine, así como mantener las redes de distribución en las condiciones adecuadas de conservación e idoneidad.
+b) Deberán comunicar a la Consejería competente en materia de industria la información de su actividad comercial, así como cualquiera otra que se le solicite con relación a sus actividades en el sector, sin perjuicio de la normativa vigente para la protección de la base de datos informatizados.
+c) Tendrán derecho a la adquisición de la energía eléctrica necesaria para el suministro de sus clientes, así como a la percepción de la retribución que les corresponda por su actividad de distribución. Esta retribución se hará de acuerdo a la normativa estatal aplicable y teniendo en cuenta los costes adicionales derivados de la insularidad en la inversión, operación y mantenimiento de las instalaciones, así como al concepto retributivo especial derivado de la indisponibilidad de algunas fuentes de energía primaria de costes inferiores a las utilizables en el archipiélago por razones derivadas de su situación geográfica o medioambientales.
+
+## CAPÍTULO IV
+
+Suministro de energía eléctrica
+
+### Artículo 17
+
+Artículo 17. Suministro.
+1.El suministro de energía a los consumidores se realizará directamente por las empresas distribuidoras recibiendo como contraprestación la establecida con carácter general para todo el Estado, sin perjuicio de la venta directa por los productores en régimen especial previsto en el artículo 9, apartado 7, de esta ley.
+2. Aquellos consumidores que se clasifiquen como cualificados podrán ser suministrados directamente por las empresas comercializadoras.
+
+### Artículo 18
+
+Artículo 18. Derechos y obligaciones.
+Las empresas suministradoras en Canarias deberán:
+a) Prestar el servicio a sus clientes sin discriminación alguna y can la calidad exigida en la autorización para su funcionamiento, previo enganche y acometida, según las condiciones que se establezcan reglamentariamente.
+b) Procurar un uso racional de la energía.
+c) Adquirir y pagar la energía necesaria para la prestación de sus servicios, según se establezca reglamentariamente.
+d) Aplicar a los consumidores la tarifa que para todo el país se establezca por la Administración General del Estado, exigiendo que las instalaciones de los usuarios cumplan las condiciones técnicas adecuadas y las normas de homologación.
+e) Cumplir con la normativa urbanística y medioambiental aplicable en Canarias.
+
+## TÍTULO III
+
+Infracciones y sanciones
+
+### Artículo 19
+
+Artículo 19. Régimen sancionador.
+Será de aplicación en Canarias el régimen de infracciones y sanciones establecido, con relación al sector eléctrico, en la legislación sectorial de ámbito estatal.
+Se modifica por el art. único.1 de la Ley 8/2023, de 27 de diciembre. Ref. BOE-A-2024-10012
+ Se modifica por el art. único.1 del Decreto-ley 8/2023, de 6 de noviembre. Ref. BOE-A-2024-4427
+
+### Artículo 20
+
+Artículo 20. Sanciones.
+(Suprimido)
+Se suprime por el art. único.2 de la Ley 8/2023, de 27 de diciembre. Ref. BOE-A-2024-10012
+ Téngase en cuenta que este artículo fue suprimido por el Decreto-ley 8/2023, de 6 de noviembre.
+ Se suprime por el art. único.2 del Decreto-ley 8/2023, de 6 de noviembre. Ref. BOE-A-2024-4427
+
+### Artículo 21
+
+Artículo 21. Procedimiento sancionador y órganos competentes.
+1.º El procedimiento sancionador se ajustará a lo dispuesto en la presente ley y, en su defecto, por la legislación sectorial eléctrica de ámbito estatal, en particular en lo relativo a los plazos establecidos para resolver y notificar. En lo no previsto por ninguna de las anteriores normas, se estará a lo establecido por la legislación sobre el procedimiento administrativo común.
+2.º La imposición de sanciones corresponderá:
+En caso de infracciones muy graves, al Gobierno de Canarias.
+En caso de infracciones graves, a la persona titular de la consejería competente en materia de energía.
+En caso de infracciones leves, a la persona titular del centro directivo competente en materia de energía.
+Se modifica por el art. único.3 de la Ley 8/2023, de 27 de diciembre. Ref. BOE-A-2024-10012
+ Se modifica por el art. único.3 del Decreto-ley 8/2023, de 6 de noviembre. Ref. BOE-A-2024-4427
+
+### Artículo 22
+
+Artículo 22. Prescripción.
+Se aplicará la legislación sectorial eléctrica de ámbito estatal en lo relativo a los plazos de prescripción de infracciones y sanciones.
+Se añade por el art. único.4 de la Ley 8/2023, de 27 de diciembre. Ref. BOE-A-2024-10012
+ Se suprime por el art. único.4 del Decreto-ley 8/2023, de 6 de noviembre. Ref. BOE-A-2024-4427
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Serán de aplicación en Canarias, sin perjuicio de las competencias que le atribuye el Estatuto de Autonomía, las normas que en use de su competencia promulgue el Estado en relación al régimen económico de las actividades reguladas en esta ley y, en particular, al sistema de tarifas eléctricas, peajes de transporte y distribución, cobro y liquidación de tarifas y precios, así como sobre contabilidad e información.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Al efecto de la determinación de la retribución que corresponda por la utilización de instalaciones insulares, a la que se refiere el artículo 13.c), la Comunidad Autónoma colaborara con el Ministerio de Industria y Energía.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las actividades de transporte y de distribución de energía eléctrica, así como la gestión técnica y económica del sistema deberán realizarse a través de sociedades mercantiles que tengan como objeto exclusivo el desarrollo de las mismas, sin perjuicio de que puedan tomar acciones o participaciones en otros sectores económicos distintos al eléctrico, previa la autorización que corresponda.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+De conformidad con la normativa comunitaria y teniendo en cuenta la singularidad del mercado de energía eléctrica en Canarias, el Gobierno designará un gestor de la red de distribución en las islas con el fin de explotar, mantener y, en su caso, desarrollar la misma.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Anulada)
+Se declara inconstitucional y nula la redacción dada por el art. 16 de la Ley 2/2002, de 27 de marzo, por Sentencia del TC 123/2013, de 23 de mayo. Ref. BOE-A-2013-6653
+ Se levanta la suspensión de la vigencia y aplicación, por Auto del TC de 10 de diciembre de 2002. Ref. BOE-A-2002-25045
+ Se suspende la vigencia y aplicación de este artículo en la redacción dada por el art. 16 de la Ley 2/2002, de 27 de marzo, desde el 8 de julio de 2002 para las partes en el proceso y desde el 30 de julio de 2002 para los terceros, por Providencia del TC de 16 de julio de 2002 que admite a trámite el Recurso de inconstitucionalidad 4244/2002, Ref. BOE-A-2002-15336
+ Se modifica por el art. 16 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Instalaciones de la red de transporte secundario de energía eléctrica incluidas en la planificación eléctrica regulada en la normativa estatal del Sector Eléctrico.
+1. Los proyectos de instalaciones de la red de transporte de energía eléctrica incluidas y aprobadas en la planificación eléctrica se remitirán a los ayuntamientos y al cabildo insular correspondientes, al objeto de que informe sobre la adaptación de dichos proyectos al planeamiento que resulte de aplicación. Este informe se emitirá en el plazo de un mes, pasado el cual se entenderá evacuado en sentido favorable.
+2. En el supuesto de que tales instalaciones vayan a construirse sobre terrenos no reservados por el planeamiento, y siempre que no sea posible resolver las eventuales discrepancias mediante acuerdo, de conformidad con la normativa de aplicación, la decisión del Gobierno de Canarias respecto a la ejecución del proyecto prevalecerá sobre el planeamiento, cuyo contenido deberá acomodarse a las determinaciones de aquélla.
+3. La construcción, modificación y ampliación de las instalaciones de la red de transporte de energía eléctrica incluidas y aprobadas en la planificación eléctrica no estarán sometidas a licencia o a cualquier otro acto de control preventivo municipal, siempre que se siga lo previsto en el apartado 1 y sin perjuicio del abono de las posibles tasas o impuestos municipales.
+4. No procederá la suspensión de la ejecución de las instalaciones de la red de transporte de energía eléctrica incluidas y aprobadas en la planificación eléctrica por los órganos correspondientes cuando estas se realicen en cumplimiento de los planes y proyectos de obras aprobados por los órganos competentes por el procedimiento establecido o se trate de una instalación de emergencia.
+5. El informe a que se refiere el apartado 1 se remitirá y obtendrá en el seno de los procedimientos establecidos y regulados en la legislación sectorial aplicable.
+6. Las decisiones que finalmente se adopten por el Gobierno de Canarias sobre la ejecución de las instalaciones de la red de transporte de energía eléctrica incluidas y aprobadas en la planificación eléctrica, se comunicarán a los ayuntamientos y al cabildo insular afectados, a fin de que procedan, en su caso, a modificar en lo que sea preciso los planes territoriales y urbanísticos correspondientes, con ocasión de la primera modificación sustancial del mismo.
+Se añade por la disposición final 1.1 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Garantías de los planes de inversión de las empresas distribuidoras de energía eléctrica.
+1. A partir de la entrada en vigor de la presente disposición, cuando las empresas titulares de las redes de distribución de energía eléctrica que operen en Canarias deban llevar a cabo inversiones para las que se exija una autorización o comunicación previa, estas empresas podrán sustituir la garantía que deben constituir para cada autorización municipal, de acuerdo con la normativa en vigor sobre patrimonio de las Administraciones públicas para autorizaciones de uso privativo o aprovechamiento especial del dominio público, por una única garantía de ámbito insular, por el conjunto de las inversiones que deban llevar a cabo en cada una de las islas de acuerdo con la planificación a que se refiere el siguiente apartado.
+2. Esta garantía deberá constituirse ante la tesorería del cabildo insular, por un importe equivalente al 1 % del volumen total de la inversión anual con derecho a retribución de la empresa prevista en el plan de inversión anual para la isla correspondiente, aprobado por la Administración de la comunidad autónoma de Canarias, de acuerdo con la Ley 24/2013, de 26 de diciembre, del sector eléctrico, o norma que la sustituya.
+3. Dicha garantía responderá del valor económico de la reposición a su estado originario de los bienes de titularidad pública que puedan verse afectados por la ejecución de todas las instalaciones de distribución de energía eléctrica en baja y media tensión incluidas en los planes de inversión anuales aprobados o, en defecto de reposición, de los daños y perjuicios correspondientes.
+En consecuencia, hecho el preceptivo requerimiento a la empresa distribuidora sin que éste haya sido debidamente atendido, la entidad pública titular del bien que no haya sido correctamente repuesto a su estado originario puede, mediante resolución debidamente motivada y dictada de acuerdo con el procedimiento aplicable, solicitar ante la tesorería del cabildo insular que corresponda la ejecución parcial o, en su caso, total de la garantía constituida conforme a esta disposición legal por el valor económico a que se refiere el párrafo anterior.
+4. En el último trimestre de cada año se actualizará, en su caso, la garantía para el año siguiente con el importe de la inversión del año correspondiente que previamente haya aprobado la Administración de la comunidad autónoma.
+5. En caso de ejecuciones parciales de la garantía, la entidad depositante deberá actualizar esta en el plazo máximo de un mes a contar desde cada ejecución parcial.
+Se añade por la disposición final 1.2 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición adicional octava
+
+Disposición adicional octava. Control municipal de las instalaciones de distribución de energía eléctrica en baja y media tensión.
+Sin perjuicio de las autorizaciones exigidas legalmente, el control municipal sobre la intervención de la actividad para las instalaciones de distribución de energía eléctrica en baja y media tensión, al ser instalaciones de baja potencia, conforme a lo establecido en los artículos 84, c) y 84 bis de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, o norma que la sustituya, será el siguiente:
+1. Acometidas de baja tensión.
+Las acometidas de baja tensión, tal como se encuentran definidas en la ITC-BT-11 del Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (en lo sucesivo, Real Decreto 842/2002), o norma que la sustituya, salvo que requieran un trámite ambiental, quedan sujetas al régimen de comunicación previa, de acuerdo con el artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones públicas, o norma que la sustituya, siempre que se cumplan los siguientes requisitos:
+a) El trazado de la acometida deberá ser lo más corto posible.
+b) La ejecución de las acometidas se realizará de acuerdo con la normativa vigente que le sea de aplicación en cada momento sobre redes para distribución en baja tensión.
+c) Las acometidas discurrirán por aceras, caminos o viales, pudiendo incluir los trazados por propiedades particulares siempre que se disponga de los permisos de paso de energía correspondientes.
+d) El proyecto o la documentación técnica que se adjunte a la comunicación previa será la exigida para la legitimación de la actuación, así como un plano de ocupación de vía y plan de señalización en caso de ser necesario, plan de obras y una declaración responsable por parte de personal técnico competente de la empresa ejecutora en la que se declare, de acuerdo al modelo definido y entre otros aspectos, que, confirmando los servicios públicos y municipales existentes, el trazado propuesto respetará las distancias reglamentarias de cruzamientos y paralelismos con otros servicios de acuerdo a la normativa vigente, y, en su caso, los permisos particulares necesarios, así como que no se generan daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico.
+2. Redes de distribución de energía eléctrica en baja tensión.
+Las redes de distribución de energía eléctrica en baja tensión, tal como están definidas en el artículo 8 del Real Decreto 842/2002, quedan sujetas al régimen de comunicación previa, salvo que requieran un trámite ambiental, de acuerdo con el artículo 69 de la Ley 39/2015, de 1 de octubre, o norma que la sustituya, siempre que se cumplan los siguientes requisitos:
+a) El trazado de la red de distribución en baja tensión no superará los 200 metros de longitud.
+b) La ejecución de las redes de baja tensión para distribución se realizarán de acuerdo con la normativa vigente que les sea de aplicación en cada momento.
+c) Las redes de baja tensión discurrirán por aceras, caminos o viales, pudiendo incluir los trazados por propiedades particulares siempre que se disponga de los permisos de paso de energía correspondientes.
+d) El proyecto o la documentación técnica que se adjunte a la comunicación previa será la exigida para la legitimación de la actuación, así como un plano de ocupación de vía y plan de señalización en caso de ser necesario, plan de obras y una declaración responsable por parte de personal técnico competente de la empresa ejecutora en la que se declare, de acuerdo al modelo definido y entre otros aspectos, que, confirmando los servicios públicos y municipales existentes, el trazado propuesto respetará las distancias reglamentarias de cruzamientos y paralelismos con otros servicios de acuerdo a la normativa vigente, y, en su caso, los permisos particulares necesarios, así como que no se generan daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico.
+3. Redes de distribución de energía eléctrica en media tensión.
+Las redes de distribución de energía eléctrica en media tensión, tal como están definidas en el artículo 3 del Reglamento por el que se regulan los procedimientos administrativos relativos a la ejecución y puesta en servicio de las instalaciones eléctricas en Canarias, aprobado por el Decreto 141/2009, de 10 de noviembre, o norma que la sustituya, quedan sujetas al régimen de comunicación previa, salvo que requieran un trámite ambiental, de acuerdo con el artículo 69 de la Ley 39/2015, de 1 de octubre, o norma que la sustituya, siempre que se cumplan los siguientes requisitos:
+a) El trazado de la red en media tensión no superará los 3 kilómetros de longitud entre su inicio y su final, y será subterráneo. En trazado aéreo, se incluye únicamente la realización de modificaciones no sustanciales, quedando excluidas la modificación sustancial y construcción de nuevas líneas, que quedarán sometidas a licencia municipal.
+b) Las redes de energía eléctrica en media tensión discurrirán por aceras, caminos o viales, pudiendo incluir, para conectar los distintos centros a que se refiere la letra d), los trazados por propiedades privadas siempre que se disponga de los permisos de paso de energía correspondientes.
+c) La ejecución de las redes de energía eléctrica en media tensión para distribución se realizarán de acuerdo con la normativa vigente que les sea de aplicación en cada momento.
+d) Quedan incluidos los centros de transformación, los sistemas de acumulación asociados al sistema, los activos de compensación de energía reactiva y de regulación de tensión, así como las conversiones aéreas subterráneas cuando estas sean precisas, salvo que requieran de edificación asociada para albergarlos en su interior.
+e) El proyecto o la documentación técnica que se adjunte a la comunicación previa será la exigida para la legitimación de la actuación, así como un plano de ocupación de vía y plan de señalización en caso de ser necesario, plan de obras y una declaración responsable por parte de personal técnico competente de la empresa ejecutora en la que se declare, de acuerdo al modelo definido y entre otros aspectos, que, confirmando los servicios públicos y municipales existentes, el trazado propuesto respetará las distancias reglamentarias de cruzamientos y paralelismos con otros servicios de acuerdo a la normativa vigente, y, en su caso, los permisos particulares necesarios, así como que no se generan daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico.
+f) Los activos de la red de distribución de energía eléctrica deberán obtener una autorización administrativa de construcción con carácter previo al inicio de las obras, salvo que tengan la consideración de modificación no sustancial.»
+Se añade por la disposición final 1.3 del Decreto-ley 5/2024, de 24 de junio. Ref. BOE-A-2024-23635
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las instalaciones de producción que se encuentren en funcionamiento en Canarias en el momento de la entrada en vigor de esta ley deberán comunicar los datos pertinentes a la Consejería competente en materia de industria en el plazo de tres meses para su formalización en el Registro de Instalaciones de Producción Eléctrica que se establece en el artículo 10 de esta ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Derogada)
+Se deroga por la disposición derogatoria 3 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+ Se levanta la suspensión de la vigencia y aplicación, por Auto del TC de 14 de julio de 1998. Ref. BOE-A-1998-17790
+ Téngase en cuenta que se declara la pérdida del objeto por Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704
+ Se suspende la vigencia y aplicación desde el 7 de marzo de 1998 para las partes en el proceso y desde el 27 de marzo de 1998 para los terceros, por providencia del TC de 17 de marzo de 1998, que admite a trámite el Recurso de inconstitucionalidad 997/1998. Ref. BOE-A-1998-7074
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Canarias a dictar las disposiciones reglamentarias que sean necesarias para la aplicación y desarrollo de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente ley entrará en vigor al día siguiente a su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Santa Cruz de Tenerife, 2 de diciembre de 1997.
+MANUEL HERMOSO ROJAS,
+Presidente

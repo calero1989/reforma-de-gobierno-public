@@ -1,0 +1,664 @@
+# Ley 15/2002, de 27 de diciembre, de Medidas Presupuestarias, Administrativas y Fiscales.
+
+- Identificador BOE: `BOE-A-2003-2905`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-2905
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta Ley pasa a denominarse "Ley del Principado de Asturias 15/2002, de 27 de diciembre, de acompañamiento a los Presupuestos Generales para 2003", según establece la disposición final 1 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía del Principado de Asturias, vengo a promulgar la siguiente Ley de Medidas Presupuestarias, Administrativas y Fiscales.
+PREÁMBULO
+La mejor y más eficaz ejecución del programa económico contenido en la Ley de presupuestos generales del Principado de Asturias para 2003 exige la adopción de diversas medidas normativas que afectan a los distintos ámbitos en que aquél se desarrolla y cuya efectividad ha de ser simultánea a la entrada en vigor de la norma presupuestaria. Tal es la finalidad de la presente ley, que se estructura, al igual que en años precedentes, en tres grandes bloques configurados como títulos y relativos, respectivamente, a los ámbitos presupuestario, administrativo y fiscal.
+En el primero de tales títulos, «Medidas presupuestarias», se realizan determinadas modificaciones de carácter técnico consecuencia del escenario presupuestario impuesto por la Ley 18/2001, de 12 de diciembre, general de estabilidad presupuestaria, entre las que cabe destacar la preceptiva autorización del Consejero competente en materia económica y presupuestaria para la concertación de operaciones de endeudamiento por las empresas y entes públicos encuadrados en el sector Administraciones Públicas por la normativa comunitaria. Asimismo, se añade un apartado 4 a la disposición adicional primera por el que se impone a la Universidad de Oviedo la obligación de dar cuenta trimestralmente a la Consejería competente en materia económica y presupuestaria de la situación de la deuda viva a finales de cada trimestre.
+En el título II, bajo la rúbrica de «Medidas administrativas», se acometen diversas modificaciones en la normativa autonómica reguladora de los distintos ámbitos en que la acción administrativa se desarrolla.
+En primer lugar y con el propósito de condicionar a la preceptiva autorización del Consejo de Gobierno la celebración de contratos cuando hayan de comprometerse créditos de futuros ejercicios presupuestarios con independencia de cual sea la duración del contrato, se acometen sendas modificaciones en las leyes 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias, y 2/1995, de 13 de marzo, sobre régimen jurídico de la Administración del Principado de Asturias.
+La Ley 3/1985, de 26 de diciembre, de ordenación de la función pública de la Administración del Principado de Asturias, resulta modificada por un lado al añadirse un artículo 41 bis con la finalidad de establecer en favor de las personas con minusvalía un cupo mínimo en la oferta de empleo público de la Administración regional y por otro al añadirse una disposición adicional quinta bis por la que se crean determinadas escalas de funcionarios.
+De la Ley 13/1986, de 28 de noviembre, de ordenación y defensa de las carreteras del Principado, se modifican varios preceptos relativos a su régimen sancionador con el propósito de actualizar las cuantías de las sanciones; asimismo, se establecen las distancias que delimitan las diferentes zonas de los espacios colindantes con las carreteras de titularidad del Principado de Asturias que, por sus características técnicas, tengan la consideración de autopistas, autovías y vías rápidas.
+En la Ley 1/1991, de 21 de febrero, de patrimonio del Principado de Asturias, se modifican diversos preceptos con el propósito de actualizar las cantidades que delimitan la competencia para acordar la explotación de los bienes patrimoniales de la Comunidad Autónoma.
+Con el objeto de obtener una gestión sostenible de los recursos de marisqueo, se modifica la Ley 2/1993, de 29 de octubre, de pesca marítima en aguas interiores y aprovechamiento de recursos marinos, de manera que reglamentariamente se pueda regular la explotación racional y eficaz de dichos recursos mediante el empleo de técnicas submarinas. Asimismo, se amplía la relación de bienes que pueden ser decomisados en la comisión de infracciones en materia de pesca.
+La aplicación a las viviendas declaradas protegidas por la Comunidad Autónoma del régimen sancionador establecido para las viviendas de protección oficial determina la modificación de la Ley 3/1995, de 13 de marzo, de sanciones en materia de vivienda.
+Finalmente, la creación del Ente Público de Servicios Tributarios del Principado de Asturias constituye la culminación legislativa del proceso de modernización de la Administración tributaria autonómica que se ha venido desarrollando a lo largo de toda la Legislatura y cuya creación ha de redundar en beneficio no sólo de la Administración regional, sino también de las entidades locales cuya gestión tributaria viene siendo desarrollada por aquélla. Se crea así un sistema integrado de funciones tributarias adecuado a un entorno cada vez más complejo y en continuo proceso de transformación, posibilitando con ello una gestión más eficiente y transparente de los recursos públicos, así como un mejor y más cercano servicio a los ciudadanos.
+Estructurado en siete capítulos, el título III se dedica a las «Medidas fiscales», que pueden ser agrupadas en torno a tres grandes bloques.
+En primer lugar, se encuentran aquellas medidas en las que se materializa el ejercicio de las competencias normativas –sobre determinados tributos estatales total o parcialmente cedidos– atribuidas al Principado de Asturias en virtud de las leyes 21/2001 y 20/2002. En particular, en el impuesto sobre la renta de las personas físicas se crean diversas deducciones en la cuota íntegra autonómica o complementaria con el propósito de favorecer a colectivos que precisan de especial protección, tales como los mayores de 65 años, los discapacitados, las mujeres y jóvenes menores de 30 años en situación de desempleo y los trabajadores autónomos.
+En el impuesto sobre sucesiones y donaciones se crea una reducción en la base imponible con el objeto de favorecer la continuidad en el Principado de Asturias de las empresas individuales o negocios profesionales objeto de transmisión mortis causa y se establece una mejora consistente en la equiparación, a efectos del impuesto, entre cónyuges y parejas estables y entre las situaciones de adopción y acogimiento familiar preadoptivo o permanente.
+En el impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, por lo que respecta a la modalidad transmisiones patrimoniales onerosas, se establece un tipo general para las transmisiones de inmuebles, así como diversos tipos reducidos de gravamen aplicables, respectivamente, a las adquisiciones de viviendas protegidas, a los inmuebles incluidos en las transmisiones globales de empresas o negocios y, finalmente, a las transmisiones de inmuebles en las que, siendo de aplicación determinadas exenciones previstas en la normativa reguladora del impuesto sobre el valor añadido, el sujeto pasivo no renuncie a las mismas. En la modalidad de actos jurídicos documentados se ha procedido a fijar el tipo general aplicable a los documentos notariales, así como otro tipo reducido aplicable a aquellos documentos notariales relacionados con la adquisición de viviendas calificadas de protección pública por la Comunidad Autónoma.
+Finalmente, respecto de la tasa fiscal sobre los juegos de suerte, envite o azar, y de acuerdo con las competencias normativas a que se refiere la citada Ley 21/2001, se ha procedido a revisar los tipos tributarios y las cuotas fijas.
+El segundo de los bloques aludidos está integrado por las disposiciones que afectan a los tributos propios del Principado de Asturias. Tales disposiciones alcanzan tanto al Texto Refundido de las leyes de tasas y precios públicos, aprobado por Decreto Legislativo del Principado de Asturias 1/1998, de 11 de junio, como a la Ley 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas en el Principado de Asturias. Entre las modificaciones del texto refundido se encuentran las derivadas de la creación de cuatro nuevas tasas, a saber: la tasa por expedición de títulos académicos y profesionales no universitarios; la tasa por servicios prestados por el Registro de la propiedad intelectual del Principado de Asturias; la tasa por expedición de hojas de reclamaciones, y, finalmente, la tasa por servicios administrativos en materia de casinos, juegos y apuestas. Finalmente, de la Ley 1/1994 se modifican diversos preceptos con el propósito de actualizar los tipos de gravamen y de prorrogar para 2003 la moratoria establecida en su disposición transitoria séptima.
+El tercero de los bloques se refiere al impuesto sobre grandes establecimientos comerciales, regulado en el capítulo VII. El tributo tiene carácter extrafiscal, ya que su creación no obedece a un propósito exclusivamente recaudatorio, consustancial a cualquier figura impositiva, sino además, y principalmente, al de desplazar sobre los establecimientos implantados como grandes superficies las incidencias negativas que su actividad genera en el territorio, en el medio ambiente y en la trama del comercio urbano.
+El Principado de Asturias tiene la competencia para su establecimiento, por cuanto los artículos 157.1 y 133.2 de la Constitución Española y 44 del Estatuto de Autonomía del Principado de Asturias reconocen la posibilidad de que las comunidades autónomas establezcan sus propios impuestos, tasas y contribuciones especiales. Asimismo, el Principado de Asturias tiene atribuidas por el Estatuto de Autonomía las competencias normativas correspondientes en las materias de ordenación del territorio, de comercio interior y de protección del medio ambiente.
+
+## TÍTULO I
+
+Medidas presupuestarias
+
+### Artículo 1
+
+Artículo 1. Modificaciones del Texto Refundido del régimen económico y presupuestario, aprobado por Decreto Legislativo del Principado de Asturias 2/1998, de 25 de junio.
+Uno. Se modifica el apartado 1 del artículo 29, «Gastos plurianuales», que queda redactado:
+«1. El Consejo de Gobierno podrá adquirir compromisos de gastos que hayan de extenderse a varios ejercicios posteriores a aquel en que se autorizan, siempre que su ejecución se inicie en el propio ejercicio y se trate de alguno de los casos siguientes:
+a) Inversiones y transferencias de capital.
+b) Transferencias corrientes, derivadas de normas con rango de ley.
+c) Gastos en bienes y servicios cuya contratación, bajo las modalidades establecidas en el Texto Refundido de la Ley de contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio, no pueda ser estipulada o resulte antieconómica por plazo de un año.
+d) Arrendamiento de bienes inmuebles.
+e) Cargas financieras para operaciones de crédito.
+f) Activos financieros.»
+Dos. Se modifica el apartado 5 del artículo 34, «Transferencias de créditos», que queda redactado:
+«5. Las limitaciones contenidas en el apartado anterior no serán de aplicación en los siguientes casos:
+a) Cuando se trate de créditos de capítulo I.
+b) Cuando se trate de créditos modificados como consecuencia de reorganizaciones administrativas.
+c) Cuando se efectúen transferencias entre dos créditos ampliables teniendo en cuenta que ello determinará la pérdida del carácter ampliable en el concepto minorado y cuando se efectúen entre un crédito no ampliable y otro ampliable, siempre que sea éste el que aumente.
+d) Cuando se efectúen transferencias según lo previsto en las letras e) y f) del apartado 3 de este artículo o se trate de transferencias relativas al programa “Imprevistos y funciones no clasificadas”.
+e) Cuando se trate de créditos para subvenciones objeto de una misma convocatoria, que, contando con idéntica denominación en el estado de gastos de los presupuestos generales del Principado de Asturias, estén distribuidos entre varios artículos de un mismo programa presupuestario en función de los distintos beneficiarios.»
+Tres. Se modifican la rúbrica y la redacción del artículo 47, «Endeudamiento de los organismos públicos», en el siguiente sentido:
+«Artículo 47. Endeudamiento del sector público autonómico.
+1. Los organismos autónomos del Principado de Asturias podrán hacer uso de las siguientes modalidades de endeudamiento:
+a) Concertación de préstamos.
+b) Emisión de deuda pública.
+2. Sin perjuicio de lo que establezcan sus leyes de creación, las entidades públicas a que se refiere el apartado 2 del artículo 4 de la presente ley podrán hacer uso de operaciones de préstamo.
+3. Los límites de cuantía del endeudamiento y sus fines deberán ser autorizados por ley. En todo caso, será requisito imprescindible para su concertación informe favorable de la Consejería competente en materia económica y presupuestaria.
+4. Las empresas y entes públicos que se clasifiquen en el sector Administraciones Públicas de acuerdo con el Reglamento (CE) n.o 2223/96 del Consejo, de 25 de junio de 1996, relativo al sistema europeo de cuentas nacionales y regionales de la Comunidad, deberán ser autorizados por el Consejero competente en materia económica y presupuestaria para concertar operaciones de endeudamiento.
+5. Dentro de los quince primeros días de cada trimestre los organismos públicos, las empresas y entes públicos a que se refiere este artículo pondrán en conocimiento de la Consejería competente en materia económica y presupuestaria la situación de la deuda viva a finales del trimestre anterior.»
+Cuatro. Se añade un apartado 4 a la disposición adicional primera, «Universidad de Oviedo», que queda redactado:
+«4. Dentro de los quince primeros días de cada trimestre la Universidad de Oviedo pondrá en conocimiento de la Consejería competente en materia económica y presupuestaria la situación de la deuda viva a finales del trimestre anterior».
+
+## TÍTULO II
+
+Medidas administrativas
+
+### Artículo 2
+
+Artículo 2. Modificación de la Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias.
+Se modifica la letra o) del artículo 25 en el siguiente sentido:
+«o) Autorizar la celebración de contratos cuando su cuantía exceda de la legalmente fijada como atribución del Consejero o cuando ésta fuese indeterminada o porque hayan de comprometerse fondos públicos de futuros ejercicios presupuestarios.»
+
+### Artículo 3
+
+Artículo 3. Modificaciones de la Ley 3/1985, de 26 de diciembre, de ordenación de la función pública de la Administración del Principado de Asturias.
+Uno. Se añade un artículo 41 bis con la siguiente redacción:
+«1. En la oferta de empleo de la Administración del Principado de Asturias se reservará un cupo no inferior al cinco por ciento (5%) del total de las plazas vacantes para ser cubiertas por personas con minusvalía de grado igual o superior al treinta y tres por ciento (33%) siempre que superen los procesos selectivos y que, en su momento, acrediten el indicado grado de minusvalía y se constate la compatibilidad con el desempeño de las tareas y funciones correspondientes.
+2. Los aspirantes que participen de acuerdo con lo dispuesto en el apartado anterior gozarán de igualdad de condiciones para la realización de las pruebas selectivas. A estos efectos, podrán solicitar la adaptación o adecuación de tiempo y medios materiales que consideren necesarios en atención a su minusvalía física, psíquica o sensorial. La Administración efectuará la adaptación o adecuación necesaria de acuerdo con el informe técnico emitido por el órgano competente.»
+Dos. Se añade una disposición adicional quinta bis con la siguiente redacción:
+«De conformidad con lo dispuesto en el artículo 22 de la Ley 3/1985, de 26 de diciembre, de ordenación de la función pública de la Administración del Principado de Asturias, se crean las siguientes escalas:
+1. Dentro del Cuerpo de Técnicos Superiores se crea la Escala de Inspectores de Prestaciones Sanitarias con las funciones de inspección, evaluación y control en relación con las prestaciones sanitarias y farmacéuticas con financiación pública. En el desempeño de sus funciones tendrán la consideración de autoridad pública. Para el acceso a esta escala se requiere estar en posesión del título de Licenciado en Medicina o Farmacia.
+Se integran en la Escala de Inspectores de Prestaciones Sanitarias los funcionarios procedentes de las transferencias asumidas en virtud del Real Decreto 1471/2001, de 27 de diciembre, sobre traspaso al Principado de Asturias de las funciones y servicios del Instituto Nacional de la Salud, que pertenecían a las escalas de Médicos Inspectores y de Farmacéuticos Inspectores de la Administración de la Seguridad Social.
+2. Dentro del Cuerpo de Diplomados y Técnicos Medios, se crea la Escala de Subinspectores de Prestaciones Sanitarias con las funciones inspectoras de apoyo, gestión y colaboración con los inspectores de prestaciones sanitarias y tendrán la consideración de agentes de autoridad en el desempeño de sus cometidos. Para el acceso a esta escala se requerirá estar en posesión de título de Ayudante Técnico Sanitario-Diplomado Universitario en Enfermería.
+Se integrarán en la Escala de Subinspectores de Prestaciones Sanitarias los funcionarios procedentes de las transferencias asumidas en virtud del Real Decreto 1471/2001, de 27 de diciembre, sobre traspaso al Principado de Asturias de las funciones y servicios del Instituto Nacional de la Salud, que pertenecían a la Escala de Enfermeros Subinspectores de la Administración de la Seguridad Social.
+3. Dentro del Cuerpo de Diplomados y Técnicos Medios se crea la Escala de Inspección Turística con las funciones de asesoramiento, inspección y control de actividades y actuaciones en materia turística. Para el acceso a esta escala se requerirá estar en posesión de titulación universitaria de grado medio.
+4. Dentro del Cuerpo de Técnicos Auxiliares se crea la Escala de Guardas del Medio Natural con las funciones de vigilancia, policía, custodia y protección de los bienes forestales, cinegéticos, piscícolas y de los recursos naturales, así como de aquellas otras que tendentes al mismo fin les asigne el ordenamiento. Información, inspección y control en materia de calidad de las aguas y evaluación del impacto ambiental. Cualquier otra función de carácter medioambiental que sea competencia de la Administración del Principado de Asturias, acorde con su capacitación y cualificación profesional. Los funcionarios pertenecientes a esta escala tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones.
+Para el acceso a esta escala se requerirá estar en posesión del título de Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos.
+La Administración del Principado de Asturias iniciará un procedimiento específico de promoción que se realizará en dos ediciones, a los efectos de que los funcionarios de la Escala de Guarda Rural del Cuerpo de Oficios Especiales, pertenecientes al Grupo D, puedan acceder a la Escala de Guardas del Medio Natural del Cuerpo de Técnicos Auxiliares. Los funcionarios que, en virtud de ello, accedan a la nueva escala continuarán adscritos a los puestos de trabajo que vinieran desempeñando con carácter definitivo, a cuyo efecto se procederá a la correspondiente modificación de la relación de puestos de trabajo.
+Los funcionarios de la citada Escala de Guarda Rural del Cuerpo de Oficios Especiales, pertenecientes al Grupo D, podrán igualmente participar en los procesos de promoción a este cuerpo siempre que se hallen en posesión del título de Bachiller, Formación Profesional de segundo grado o equivalente o acrediten una antigüedad de diez o más años en la Escala de Guarda Rural de la Administración del Principado de Asturias, o bien acrediten poseer una antigüedad de entre cinco y diez años en la citada escala y superen el curso específico de formación que a tal efecto se determine por esta Administración.
+Se establece un período transitorio de tres años a partir de la entrada en vigor de esta ley para participar en las pruebas selectivas que pudieran celebrarse, a las que podrán concurrir los aspirantes que se hallen en posesión del título de Bachiller o Formación Profesional de segundo grado.»
+
+### Artículo 4
+
+Artículo 4. Modificaciones de la Ley 13/1986, de 28 de noviembre, de ordenación y defensa de las carreteras del Principado.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 8/2006, de 13 de noviembre. Ref. BOE-A-2007-99#dd.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 26, de 30 de enero de 2007.
+
+### Artículo 5
+
+Artículo 5. Modificaciones de la Ley 1/1991, de 21 de febrero, de patrimonio del Principado de Asturias.
+Uno. Se modifica el artículo 42, que queda redactado:
+«Compete al Consejero competente en materia de patrimonio la enajenación de los bienes inmuebles pertenecientes al Principado de Asturias. Será, no obstante, precisa la previa autorización del Consejo de Gobierno cuando el valor del bien, según tasación pericial, esté comprendido entre uno y seis millones de euros, y de una ley de la Junta General en los casos en que dicha valoración supere esta última cifra.»
+Dos. Se modifica el artículo 43, quedando redactado en los siguientes términos:
+«La enajenación de los bienes inmuebles se realizará mediante subasta pública, salvo cuando el Consejo de Gobierno, a propuesta del Consejero competente en materia de patrimonio, acuerde su enajenación directa.
+La enajenación directa podrá ser acordada por el Consejero competente en materia de patrimonio cuando se trate de bienes de valor inferior a un millón de euros.»
+Tres. Se modifica el artículo 53, que queda redactado:
+«Los bienes inmuebles del Principado de Asturias cuya afectación al uso general o al servicio público no se juzgue previsible podrán cederse gratuitamente por el Consejo de Gobierno, a propuesta del Consejero competente en materia de patrimonio, al Estado, sus organismos autónomos y a las corporaciones locales, para el cumplimiento de sus fines.
+La cesión gratuita de inmuebles cuyo valor, según tasación pericial, exceda de seis millones de euros será objeto de una ley de la Junta General del Principado de Asturias.»
+Cuatro. Se modifica el artículo 58, que queda redactado:
+«Asimismo, por razones de interés social y para el cumplimiento de sus fines, podrá cederse el uso de los bienes inmuebles a favor de entidades con carácter asistencial, sin ánimo de lucro y calificadas de utilidad pública, así como a favor de fundaciones participadas por el Principado de Asturias.»
+Cinco. Se modifica el artículo 61, que queda redactado:
+«La enajenación de los bienes muebles se someterá a las reglas de competencia previstas para los bienes inmuebles, excepto cuando el valor del bien no exceda de ciento veinte mil euros, en cuyo caso será competente para la enajenación la Consejería que los hubiese venido utilizando.
+El acuerdo de enajenación implicará por sí solo, en su caso, la desafectación de los bienes de que se trate.
+La enajenación tendrá lugar mediante subasta pública.»
+
+### Artículo 6
+
+Artículo 6. Modificaciones de la Ley 2/1993, de 29 de octubre, de pesca marítima en aguas interiores y aprovechamiento de recursos marinos.
+Uno. Se modifica el apartado 3 del artículo 26, «Concepto», en el siguiente sentido:
+«3. Con carácter general, queda prohibida la captura de mariscos mediante el empleo de técnicas propias de la pesca submarina. No obstante, y con el fin de obtener una gestión sostenible de los recursos de marisqueo, reglamentariamente se regulará la explotación racional y eficaz de los mismos por profesionales de la pesca mediante el empleo de técnicas submarinas.»
+Dos. Se modifica el apartado 1 del artículo 62, «Decomiso de bienes», que queda redactado de la forma siguiente:
+«1. Sin perjuicio de las responsabilidades consignadas en esta ley, caerán en comiso todos los aparejos, artes, útiles, instrumentos, sustancias, vehículos y embarcaciones empleadas para la comisión de alguno de los hechos tipificados como infracción grave o muy grave en esta ley, que serán depositados en el lugar y bajo la custodia de quien disponga la Consejería competente en materia de pesca.»
+
+### Artículo 7
+
+Artículo 7. Modificaciones de la Ley 2/1995, de 13 de marzo, sobre régimen jurídico de la Administración del Principado de Asturias.
+Uno. Se modifica el artículo 38, «Autorización del Consejo de Gobierno en materia de contratación», que pasa a tener el siguiente tenor literal:
+«Será necesaria autorización del Consejo de Gobierno para la celebración de los contratos cuando dicho órgano sea el competente para autorizar el gasto por razón de su cuantía o porque hayan de comprometerse fondos públicos de futuros ejercicios presupuestarios.»
+Dos. Se modifica el artículo 9 bis, «Silencio administrativo en procedimientos iniciados a solicitud del interesado», con la siguiente redacción:
+«1. A efectos de lo dispuesto en el apartado 2 del artículo 43 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las Administraciones Públicas y del procedimiento administrativo común, sin perjuicio de la obligación de la Administración de dictar resolución expresa, los interesados podrán entender desestimadas sus solicitudes por silencio administrativo en los procedimientos que a continuación se relacionan, si al vencimiento del plazo máximo establecido en cada caso no les ha sido notificada la resolución expresa:
+Modificación de la demarcación territorial de los concejos.
+Procedimientos especiales de modificación de la demarcación territorial de los concejos.
+Constitución de parroquias rurales.
+Modificación y supresión de parroquias rurales.
+Reingreso procedente de la situación de excedencia voluntaria.
+Reingreso por cuidado de hijos sin reserva de plaza.
+Reconocimiento de grado personal.
+Revisión de grado a funcionario en situación diferente de servicio activo.
+Reconocimiento de servicios previos al personal de la Administración del Principado de Asturias.
+Autorización de compatibilidad en puesto del sector público.
+Reconocimiento de compatibilidad para ejercer actividades privadas.»
+
+### Artículo 8
+
+Artículo 8. Modificación de la Ley 3/1995, de 15 de marzo, de sanciones en materia de vivienda.
+Se añade una disposición adicional con la siguiente redacción:
+«En los términos de lo dispuesto en la normativa general de aplicación a las viviendas de protección oficial y en las disposiciones reguladoras de las ayudas y medidas de financiación de actuaciones protegidas en materia de vivienda y suelo, las viviendas declaradas protegidas por la Comunidad Autónoma se regirán en su régimen sancionador por la normativa aplicable a las viviendas de protección oficial promovidas al amparo del Real Decreto 3148/1978, de 10 de noviembre, por el que se desarrolla el Real Decreto-ley 31/1978, de 31 de octubre, sobre política de vivienda.»
+
+### Artículo 9
+
+Artículo 9. Modificaciones de la Ley 2/2001, de 27 de marzo, del Consejo Económico y Social.
+Se modifica el artículo 16.1 en el siguiente sentido:
+«1. La Secretaría General es el órgano de asistencia técnica y administrativa del Consejo Económico y social, así como el depositario de la fe pública de los acuerdos del mismo. Su titular, que ha de ser funcionario del Grupo A de cualquier Administración Pública, será nombrado y cesado por resolución del titular de la Consejería competente en materia de trabajo y empleo y a propuesta del Pleno aprobada por mayoría de dos tercios de sus miembros.»
+Se añade al artículo 20, apartado 1.º, una letra c con el siguiente contenido:
+«c) Personal funcionario de otras Administraciones Públicas el cual se integrará en la relación de puestos de trabajo del mismo.»
+
+### Artículo 10
+
+Artículo 10. Del Ente Público de Servicios Tributarios del Principado de Asturias.
+Se crea el Ente Público de Servicios Tributarios como organización administrativa responsable, en nombre y por cuenta del Principado de Asturias, de la aplicación efectiva del sistema tributario de la Comunidad Autónoma y de aquellos recursos de otras Administraciones y entidades que se le atribuyan por ley o por convenio, que se regirá por las siguientes disposiciones:
+«Uno. Naturaleza jurídica y competencias:
+1. Se crea el Ente Público de Servicios Tributarios del Principado de Asturias dotado de personalidad jurídica propia y plena capacidad de obrar, con patrimonio y tesorería propios y autonomía de gestión para el cumplimiento de sus fines, adscrito a la Consejería competente en materia tributaria.
+2. Corresponde al Ente Público de Servicios Tributarios del Principado de Asturias, en los términos que fijen las leyes, el ejercicio de las siguientes competencias:
+a) La gestión, liquidación, inspección, recaudación y revisión de los tributos propios y demás ingresos de derecho público del Principado de Asturias cuya competencia tenga atribuida la Consejería competente en materia de hacienda, salvo que expresamente se hubiera atribuido a otro órgano de la Administración del Principado de Asturias.
+b) La gestión, liquidación, inspección, recaudación y revisión de los tributos cedidos por el Estado, de acuerdo con la ley que fije el alcance y condiciones de la cesión.
+c) La gestión, liquidación, inspección, recaudación y revisión de los tributos locales cuya competencia le haya sido delegada por las corporaciones locales.
+d) El ejercicio de la potestad sancionadora en relación con los tributos cuya aplicación corresponda al Ente Público de Servicios Tributarios del Principado de Asturias.
+e) Cualesquiera otras competencias que pudieran serle atribuidas.
+Dos. Régimen jurídico:
+1. El Ente Público de Servicios Tributarios del Principado de Asturias se regirá por lo dispuesto en la presente ley, en sus normas de desarrollo y supletoriamente por lo que disponga la legislación del Principado de Asturias o, en su caso, la normativa estatal.
+2. Para la consecución de sus objetivos, previa autorización del Consejo de Gobierno, el Ente Público de Servicios Tributarios del Principado de Asturias podrá celebrar convenios con Administraciones Públicas y todo tipo de entidades públicas o privadas.
+3. En el desarrollo de las funciones de aplicación de los tributos y en el ejercicio de la potestad sancionadora derivada de dicha aplicación, el Ente Público de Servicios Tributarios del Principado de Asturias actuará de conformidad con el sistema de fuentes del ordenamiento tributario a que se refieren los artículos 5.3 y 7 la Ley 58/2003, de 17 de diciembre, General Tributaria y según lo previsto a estos efectos en el Estatuto de Autonomía del Principado de Asturias. Adicionalmente, en el ámbito de los tributos que hayan sido cedidos por el Estado, se regirá de acuerdo con lo previsto en la ley que fije el alcance y condiciones de la cesión así como por las normas aprobadas por la Comunidad Autónoma a tal efecto. Por último, en el desarrollo de las funciones de aplicación de los tributos locales se ajustará, en lo que resulte procedente, a la legislación reguladora de las Haciendas Locales.
+4. La contratación del Ente Público de Servicios Tributarios se ajustará a las prescripciones de la legislación estatal y autonómica en materia de contratos de las Administraciones Públicas.
+5. El Ente Público de Servicios Tributarios del Principado de Asturias recibirá el mismo tratamiento fiscal que le sea aplicado a la Administración del Principado de Asturias y ostentará las mismas prerrogativas y derechos inherentes a la Administración del Principado de Asturias en las actuaciones relacionadas con el desarrollo de sus funciones.
+6. La revisión en vía administrativa de los actos y actuaciones de aplicación de los tributos y demás ingresos de Derecho público y de imposición de sanciones tributarias de los órganos del Ente Público de Servicios Tributarios del Principado de Asturias se ajustará a lo establecido en el Título V de la Ley 58/2003, de 17 de diciembre, General Tributaria y demás normativa de aplicación.
+La resolución de las reclamaciones económico-administrativas en materias de su competencia corresponderá al Órgano Económico-Administrativo de la Comunidad Autónoma.
+La resolución del procedimiento de revisión de actos nulos de pleno derecho regulado en el artículo 217 de la Ley 58/2003, de 17 de diciembre, General Tributaria corresponderá a la Consejería competente en materia de hacienda.
+La resolución de los demás procedimientos de revisión previstos en el Título V de la Ley 58/2003, de 17 de diciembre, General Tributaria corresponderá al Ente Público de Servicios Tributarios del Principado de Asturias y se ejercerá por los órganos que se determinen en sus normas de organización específica.
+Los actos que, en el ejercicio de sus funciones sujetas al ordenamiento jurídico público, pudiera dictar el Presidente del Ente Público de Servicios Tributarios agotarán la vía administrativa.
+Tres. Organización.
+Los órganos rectores del Ente Público de Servicios Tributarios del Principado de Asturias serán el Consejo Rector, la Presidencia, la Vicepresidencia y la Dirección General.
+Existirá una Comisión Mixta de Participación de los ayuntamientos que realizará funciones de consulta, seguimiento, análisis y coordinación de actuaciones en materia de tributos locales.
+Cuatro. Régimen económico:
+1. Los recursos económicos del Ente Público de Servicios Tributarios del Principado de Asturias podrán provenir de alguna de las siguientes fuentes:
+a) Las transferencias que le sean asignadas en los presupuestos del Principado de Asturias.
+b) Los ingresos por servicios prestados a las corporaciones locales.
+c) Los ingresos que perciba como retribución por actividades que pueda realizar para otras organizaciones o Administraciones Públicas.
+d) Los rendimientos de los bienes y valores que constituyan su patrimonio.
+e) Las operaciones de préstamo a largo plazo legalmente previstas destinadas exclusivamente a gastos de inversión.
+f) Los préstamos que sean necesarios para atender situaciones de desfase temporal de tesorería.
+g) Cualquier otro recurso que pudiera serle atribuido.
+2. Constituyen la tesorería del Ente Público de Servicios Tributarios del Principado de Asturias todos los recursos financieros, sean dinero, valores o créditos que se generen tanto por operaciones presupuestarias como extrapresupuestarias.
+3. El Ente Público de Servicios Tributarios del Principado de Asturias elaborará anualmente el anteproyecto de presupuestos de ingresos y gastos, que remitirá a la Consejería competente en materia tributaria. El presupuesto de ingresos tendrá carácter estimativo y el de gastos, carácter limitativo por su importe global. Los créditos del presupuesto de gastos tendrán carácter limitativo y vinculante en su distribución por capítulos.
+Las variaciones de los créditos de los estados de gastos que no alteren la cuantía global del presupuesto del ente serán autorizadas por el Consejero competente en materia económica y presupuestaria.
+Cuando se reciban o generen derechos económicos por ingresos no previstos, el Consejero competente en materia económica y presupuestaria podrá aprobar la habilitación de créditos en razón y por la cuantía que puedan producirse, siempre supeditado al grado de ejecución de los ingresos del ente público.
+Cuando deba efectuarse algún gasto que no pueda ser aplazado hasta el ejercicio siguiente y para el cual no exista crédito consignado en los presupuestos o el existente sea insuficiente y no ampliable y ello no signifique un aumento en los créditos del Presupuesto del Principado, podrá autorizarse un crédito extraordinario o suplemento de crédito por el Consejo de Gobierno cuando el mayor gasto represente más del veinticinco por ciento (25%) del presupuesto del ente público, correspondiendo la autorización al Consejero competente en materia económica y presupuestaria en los restantes supuestos.
+Cuando de la liquidación del presupuesto del ente público se obtenga un superávit de liquidación, dicho superávit podrá destinarse por el Consejero competente en materia económica y presupuestaria a financiar el presupuesto de gastos del ente.
+En lo no dispuesto en este número se seguirá el régimen previsto en el Texto Refundido del régimen económico y presupuestario, aprobado por Decreto Legislativo del Principado de Asturias 2/1998, de 25 de junio.
+Cinco. Régimen patrimonial:
+El Ente Público de Servicios Tributarios del Principado de Asturias, además de su patrimonio propio, podrá tener, para su administración, bienes y derechos de contenido económico que le sean adscritos del patrimonio del Principado de Asturias, que conservarán su calificación jurídica originaria y únicamente podrán ser utilizados para el cumplimiento de los fines para los que fueron adscritos.
+En lo no dispuesto en este número se estará a lo establecido en la Ley 1/1991, de 21 de febrero, de patrimonio del Principado de Asturias.
+Seis. Régimen de personal:
+El Ente Público de Servicios Tributarios del Principado de Asturias contará para el desarrollo de sus funciones con personal laboral propio y personal funcionario sometidos a la legislación de la función pública.
+El personal de la Administración del Principado de Asturias que se incorpore al Ente Público de Servicios Tributarios conservará la situación de servicio activo en su cuerpo, escala o especialidad de origen a todos los efectos, respetándose el grupo del cuerpo o escala de procedencia, así como los derechos económicos inherentes al grado personal que tuviesen reconocido.
+Siete. Ejercicio de los derechos políticos:
+El ejercicio de los derechos políticos derivados de la titularidad de las acciones de la Sociedad Regional de Recaudación corresponderá al Ente Público de Servicios Tributarios del Principado de Asturias.
+Ocho. Sucesión y constitución efectiva:
+El Ente Público de Servicios Tributarios del Principado de Asturias sucederá a la Dirección General competente en materia de Hacienda en el ejercicio de la totalidad de las funciones mencionadas en el número uno de este artículo que fueren desempeñadas por aquella, quedando subrogado en la totalidad de los convenios y contratos suscritos en nombre del Principado de Asturias directamente relacionados con su ámbito competencial.
+La constitución efectiva del Ente Público de Servicios Tributarios tendrá lugar por acuerdo de Consejo de Gobierno del Principado de Asturias en el que se efectúen las correspondientes adaptaciones organizativas y presupuestarias.
+Para la financiación de su actividad durante el año en que hubiere quedado constituido el Ente Público de Servicios Tributarios del Principado de Asturias se tramitarán las modificaciones presupuestarias que, en su caso, se requieran para dotar suficientemente los gastos de funcionamiento del mismo. A las transferencias de créditos que pudieran instrumentarse no les serán de aplicación las limitaciones establecidas en el apartado 7 del artículo 31 ni en el apartado 4 del artículo 34 del Texto Refundido del régimen económico y presupuestario, aprobado por Decreto Legislativo 2/1998, de 25 de junio.
+Nueve. Desarrollo reglamentario:
+El Consejo de Gobierno, mediante decreto, en el plazo de seis meses aprobará el Reglamento de organización y funcionamiento del Ente Público de Servicios Tributarios del Principado de Asturias y dictará cuantas disposiciones sean necesarias para la ejecución y desarrollo del presente artículo.»
+Se modifican los apartados 1 y 2 por el art. 40.1 a 3 de la Ley 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica el apartado 3 por el art. 5 de la Ley 7/2005, de 29 de diciembre. Ref. BOE-A-2006-6252.
+
+## TÍTULO III
+
+Medidas fiscales
+
+## CAPÍTULO I
+
+Del impuesto sobre la renta de las personas físicas
+
+### Artículo 11
+
+Artículo 11. Deducciones sobre la cuota íntegra autonómica o complementaria del impuesto sobre la renta de las personas físicas establecidas al amparo de lo dispuesto en el artículo 38.1.b) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+Se establecen, con vigencia para el ejercicio 2003, las siguientes deducciones en la cuota íntegra autonómica:
+Primera. Deducción por acogimiento no remunerado de mayores de 65 años.
+Los contribuyentes podrán deducir trescientos (300) euros por cada persona mayor de 65 años que conviva con el contribuyente durante más de 183 días al año en régimen de acogimiento sin contraprestación, cuando no se hubieran percibido ayudas o subvenciones del Principado de Asturias por el mismo motivo.
+La deducción a que se refiere el párrafo anterior no será de aplicación cuando el acogido esté ligado al contribuyente por un vínculo de parentesco de consanguinidad o de afinidad de grado igual o inferior al tercero.
+Sólo tendrán derecho a esta deducción los contribuyentes cuya base imponible, antes de la aplicación del mínimo personal y familiar, no resulte superior a veintidós mil (22.000) euros en tributación individual ni a treinta y un mil (31.000) euros en tributación conjunta.
+Cuando el sujeto acogido genere el derecho a la deducción para más de un contribuyente simultáneamente, el importe de la misma se prorrateará por partes iguales en la declaración de cada uno de ellos, si optaran por tributación individual.
+El contribuyente que desee gozar de la deducción deberá estar en posesión del documento acreditativo del correspondiente acogimiento no remunerado, expedido por la Consejería competente en materia de asuntos sociales.
+Segunda. Deducción por adquisición o adecuación de vivienda habitual en el Principado de Asturias para contribuyentes discapacitados.
+Sin perjuicio del tramo autonómico o complementario de la deducción por inversión en vivienda habitual a que se refiere el artículo 64 bis de la Ley 40/1998, de 9 de diciembre, del impuesto sobre la renta de las personas físicas, los contribuyentes discapacitados que acrediten un grado de minusvalía igual o superior al sesenta y cinco por ciento (65%) con residencia habitual en el Principado de Asturias podrán deducir el tres por ciento (3%) de las cantidades satisfechas durante el ejercicio en la adquisición o adecuación de aquella vivienda que constituya o vaya a constituir su residencia habitual, excepción hecha de la parte de dichas cantidades correspondiente a intereses.
+En todo caso, la adquisición de la nueva vivienda o, en su caso, las obras e instalaciones en que la adecuación consista deberán resultar estrictamente necesarias para la accesibilidad y comunicación sensorial que facilite el desenvolvimiento digno y adecuado de las personas con minusvalía, extremo que habrá de ser acreditado ante la Administración tributaria mediante resolución o certificado expedido por la Consejería competente en materia de valoración de minusvalías.
+La base máxima de esta deducción será de doce mil veinte con veinticuatro (12.020,24) euros.
+Tercera. Deducción por adquisición o adecuación de vivienda habitual para contribuyentes con los que convivan sus cónyuges, ascendientes o descendientes minusválidos.
+La anterior deducción resultará igualmente aplicable cuando la minusvalía sea padecida por el cónyuge, ascendientes o descendientes que convivan con el contribuyente durante más de 183 días al año y no tengan rentas anuales, incluidas las exentas, superiores al salario mínimo interprofesional.
+La base máxima de esta deducción será de doce mil veinte con veinticuatro (12.020,24) euros.
+Cuando dos o más contribuyentes tengan derecho a la aplicación de esta deducción respecto de los mismos ascendientes o descendientes para un mismo período impositivo, su importe se prorrateará entre ellos por partes iguales. No obstante, cuando los contribuyentes tengan distinto grado de parentesco con el ascendiente o descendiente, la aplicación de la reducción corresponderá a los de grado más cercano.
+Cuarta. Deducción por inversión en vivienda habitual que tenga la consideración de protegida.
+Los sujetos pasivos que integren en la base imponible del impuesto sobre la renta de las personas físicas el importe de subvenciones o ayudas económicas perci bidas para la adquisición o rehabilitación de vivienda habitual que tenga la consideración de protegida conforme a la normativa estatal o autonómica en la materia tendrán derecho a aplicar, en la cuota íntegra autonómica del referido impuesto, una deducción de cien (100) euros.
+Quinta. Deducción por alquiler de vivienda habitual.
+Podrá deducirse de la cuota íntegra autonómica el cinco por ciento (5 %) de las cantidades satisfechas en el período impositivo por alquiler de la vivienda habitual del contribuyente, con un máximo de doscientos cincuenta (250) euros y siempre que concurran los siguientes requisitos:
+a) Que la base imponible del sujeto pasivo previa a la reducción por mínimo personal y familiar no exceda de veintidós mil (22.000) euros en tributación individual o de treinta y un mil (31.000) euros en tributación conjunta.
+b) Que las cantidades satisfechas en concepto de alquiler excedan del quince por ciento (15 %) de la base imponible del contribuyente antes de la aplicación del mínimo personal y familiar.
+c) Que no sea de aplicación la compensación por arrendamiento de vivienda prevista en la disposición transitoria cuarta de la Ley 40/1998, de 9 de diciembre, del impuesto sobre la renta de las personas físicas y otras normas tributarias.
+Sexta. (Anulado)
+Séptima. (Anulado)
+Octava. Por incentivos a la donación de fincas rústicas a favor del Principado de Asturias.
+Podrá deducirse de la cuota íntegra autonómica el veinte por ciento del valor de las donaciones de fincas rústicas hechas a favor del Principado de Asturias con un máximo del noventa y cinco (95) por ciento del total de aquélla. Las fincas donadas se valorarán conforme a los criterios establecidos en la Ley general tributaria.
+Se declara la inconstitucionalidad y nulidad de los apartados 6 y 7 por Sentencia del TC 197/2012, de 6 de noviembre. Ref. BOE-A-2012-14601.
+
+## CAPÍTULO II
+
+Del impuesto sobre sucesiones y donaciones
+
+### Artículo 12
+
+Artículo 12. Reducción de la base imponible del impuesto sobre sucesiones y donaciones creada al amparo de lo dispuesto en el artículo 40.1.a) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+(Derogado)
+Se deroga por la disposición derogatoria.1 de la Ley 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+ Se modifica el apartado e) por el art. 14 de la Ley 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 13
+
+Artículo 13. Mejora en las reducciones de la base imponible del impuesto sobre sucesiones y donaciones establecida al amparo de lo dispuesto en el artículo 40.1.a) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 2/2014, de 22 de octubre. Ref. BOE-A-2015-945.
+
+## CAPÍTULO III
+
+Del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+### Artículo 14
+
+Artículo 14. Tipos de gravamen en la modalidad de «Transmisiones patrimoniales onerosas» de bienes inmuebles establecidos al amparo de lo dispuesto en el artículo 41.1.a) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 2/2014, de 22 de octubre. Ref. BOE-A-2015-945.
+ Se modifica el apartado 2 por el art. 43 de la Ley 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+ Se modifica el apartado 1 por el art. 4 de la Ley 5/2010, de 9 de julio. Ref. BOE-A-2010-14629.
+ Se añaden los apartados 5 y 6 por el art. 16 de la Ley 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+### Artículo 15
+
+Artículo 15. Tipos de gravamen en la modalidad de «Actos jurídicos documentados» establecidos al amparo de lo dispuesto en el artículo 41.1.a) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+(Derogado)
+Se deroga por la disposición derogatoria.1 de la Ley 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+ Se añaden los apartados 4 y 5 por el art. 17 de la Ley 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
+
+## CAPÍTULO IV
+
+De la tasa fiscal sobre el juego
+
+### Artículo 16
+
+Artículo 16. Tipos tributarios y cuotas fijas de la tasa fiscal sobre los juegos de suerte, envite o azar establecidas al amparo de lo dispuesto en el artículo 42.1.c) de la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las comunidades autónomas de régimen común y ciudades con Estatuto de Autonomía, y en el artículo 2 de la Ley 20/2002, de 1 de julio, del régimen de cesión de tributos del Estado a la Comunidad Autónoma del Principado de Asturias y de fijación del alcance y condiciones de dicha cesión.
+(Derogado)
+Se deroga por la disposición derogatoria.1 de la Ley 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+ Se modifica el apartado 2 por el art. 9 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-5591.
+
+## CAPÍTULO V
+
+Normas de gestión tributaria
+
+### Artículo 17
+
+Artículo 17. Presentación telemática de declaraciones.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+
+### Artículo 18
+
+Artículo 18. Obligaciones formales.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 3/2012, de 28 de diciembre. Ref. BOE-A-2013-1924.
+
+## CAPÍTULO VI
+
+Otras medidas fiscales
+
+### Artículo 19
+
+Artículo 19. Modificaciones del Texto Refundido de las leyes de tasas y precios públicos, aprobado por Decreto Legislativo del Principado de Asturias 1/1998, de 11 de junio.
+Uno. Se modifica la rúbrica y el contenido de la sección primera, «Tasa por prestación de servicios en el Conservatorio Superior de Música “Eduardo Martínez Torner” del Principado de Asturias», del capítulo III, «Cultura», del título II, «Ordenación de las tasas», que quedan redactados de la forma siguiente:
+«Sección primera. Tasa por expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 1/1990, de 3 de octubre, de ordenación general del sistema educativo
+Artículo 48. Hecho imponible.
+1. Constituye el hecho imponible la expedición de los títulos académicos y profesionales acreditativos de la superación de las enseñanzas reguladas en la Ley Orgánica 1/1990, de 3 de octubre, de ordenación general del sistema educativo.
+2. No obstante lo dispuesto en el apartado anterior, la expedición del título de Graduado en Educación Secundaria Obligatoria no estará sujeta al pago de la tasa regulada en la presente sección.
+3. La expedición de duplicados de los títulos a que se refiere la presente sección sólo dará lugar al abono de la tasa correspondiente cuando aquella expedición se deba a causas atribuibles al interesado.
+Artículo 49. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que solicitan la expedición a su nombre de los títulos académicos y profesionales a que se refiere el artículo anterior.
+Artículo 50. Devengo.
+La tasa será exigible en el momento en que se produzca la solicitud del correspondiente título académico o profesional.
+Artículo 51. Tarifas.
+Título de Bachiller Logse:
+Título de Bachiller (en cualquiera de sus modalidades): 44,58 €.
+Títulos Formación Profesional Logse (régimen general):
+Título Técnico (Grado Medio): 18,15 €.
+Título Técnico Superior (Grado Superior): 44,58 €.
+Títulos Formación Profesional Logse (regímenes especiales):
+Título Técnico Deportivo (Grado Medio): 18,15 €.
+Título Técnico Deportivo Superior (Grado Superior): 44,58 €.
+Títulos Artes Plásticas y Diseño Logse:
+Título de Técnico (Artes Plásticas y Diseño de Ciclo Formativo Grado Medio): 18,15 €.
+Título de Técnico Superior (Artes Plásticas y Diseño de Ciclo Formativo Grado Superior): 44,58 €.
+Título de Conservación y Restauración de Bienes Culturales: 97,85 €.
+Título de Diseño: 97,85 €.
+Títulos de Arte Dramático Logse:
+Título Superior de Arte Dramático: 97,85 €.
+Títulos de Música y Danza Logse:
+Título Profesional: 44,58 €.
+Título Superior: 97,85 €.
+Títulos de Idiomas Logse:
+Certificado de Aptitud del Ciclo Superior de 1.º Nivel de enseñanzas especializadas de idiomas: 44,58 €.
+Duplicados títulos Logse:
+Título Graduado en Educación Secundaria Obligatoria: 2,02 €.
+Título de Bachiller (en cualquiera de sus modalidades): 3,98 €.
+Títulos de Técnico (Ciclo Formativo Grado Medio): 2,02 €.
+Título de Técnico Superior (Ciclo Formativo Grado Superior): 3,98 €.
+Certificado de Aptitud de las escuelas de idiomas: 2,02 €.
+Títulos Logse equivalentes a diplomados: 3,98 €.
+Títulos Logse equivalentes a licenciados: 3,98 €.
+Artículo 52. Exenciones y bonificaciones.
+1. Los miembros de las familias numerosas de las categorías 2.ª y de honor quedan exentos del abono de la tasa regulada en la presente sección.
+2. Los miembros de las familias numerosas de 1.ª categoría gozarán de una reducción del cincuenta por ciento (50 %) del importe de la tasa a que refiere el artículo anterior.»
+Dos. Se crea una sección tercera, «Tasa por servicios prestados por el Registro de la propiedad intelectual del Principado de Asturias», en el capítulo III, «Cultura», del título II, «Ordenación de las tasas», con el contenido siguiente:
+«Sección tercera. Tasa por servicios prestados por el Registro de la propiedad intelectual del Principado de Asturias
+Artículo 56 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la tramitación de las solicitudes de inscripción, anotación y cancelación de derechos de la propiedad intelectual, así como los servicios de publicidad registral.
+Artículo 56 tercero. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta ley que soliciten la realización de alguna de las actividades que constituyen el hecho imponible.
+Artículo 56 cuarto. Devengo.
+La tasa se devengará en el momento en que se realice la solicitud o se preste el servicio según el hecho imponible consista en la tramitación de solicitudes o en la prestación del servicio de publicidad registral, respectivamente.
+Artículo 56 quinto. Tarifas.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+1) Tramitación de solicitud:
+Por la tramitación de solicitud de inscripción, anotación o cancelación, siendo el autor y titular de derechos de la obra la misma persona: 10,30 €.
+Por la tramitación de solicitud de inscripción, anotación o cancelación, siendo el autor y titular de derechos de la obra distinta persona: 61,80 €.
+Por la tramitación de solicitud de inscripción, anotación o cancelación de obras colectivas: 103,00 €.
+Por la tramitación de solicitud de inscripción, anotación o cancelación de una colección de obras:
+Por la primera de las obras: 10,30 €.
+Por cada una de las siguientes obras que conformen la colección: 3,09 €.
+2) Publicidad registral:
+Por expedición de certificados: 10,30 €.
+Por expedición de nota simple: 5,15 €.
+Por expedición de copia certificada de documentos en soporte papel (por cada página):
+Hasta las diez primeras: 5,15 €.
+Por cada página restante: 0,10 €.
+Por expedición de copia certificada en soporte distinto de papel: 25,75 €.»
+Tres. Se modifica la rúbrica y el contenido de la sección primera, «Tasa por prestación de servicios de salud e inspecciones sanitarias de salud pública», del capítulo IV, «Sanidad», del título II, «Ordenación de las tasas», que queda redactada de la forma siguiente:
+«Sección primera. Tasa por prestación de servicios de salud, inspecciones sanitarias de salud pública y expedición de libros y carnés
+Artículo 57. Hecho imponible.
+Constituye el hecho imponible la prestación de servicios de salud relativos a inspecciones y autorizaciones sanitarias y la expedición de libros oficiales de registro y visitas y de carnés de manipulador de plaguicidas de uso ambiental.
+Artículo 58. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 5.2 de esta ley, a las que se presten los servicios o expidan los documentos objeto de esta tasa, tanto sean a instancia de parte como prestados de oficio por la Administración.
+Artículo 59. Devengo.
+La tasa se devengará:
+a) Por la prestación de servicios de salud relativos a inspecciones y autorizaciones sanitarias en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración.
+b) Por la expedición de documentos en el momento de solicitar la expedición de los libros y carnés objeto de la tasa.
+Artículo 60. Tarifas.
+Tarifa 1. Inspecciones sanitarias:
+1) En vehículos destinados a transporte sanitario, con expedición de certificado (carta de autorización de funcionamiento):
+Ambulancias: 15,58 €.
+Otros vehículos: 31,13 €.
+2) Para aperturas, reformas o cambios de titularidad en locales destinados a:
+a) Espectáculos públicos y actividades recreativas (cines, teatros, campos de deporte, discotecas y similares): 51,90 €.
+b) Comedores colectivos, restaurantes, cafeterías, bares y otros similares: 31,13 €.
+c) Establecimientos alimentarios (supermercados, ultramarinos, despachos de pan y leche, pescaderías y carnicerías, fruterías y similares): 15,59 €.
+d) Establecimientos hoteleros:
+Hoteles y hoteles-apartamentos de cinco estrellas: 259,55 €.
+Hoteles y hoteles-apartamentos de cuatro estrellas: 207,65 €.
+Hoteles y hoteles-apartamentos de tres estrellas: 155,74 €.
+Hoteles y hoteles-apartamentos de dos estrellas: 103,80 €.
+Hoteles y hoteles-apartamentos de una estrella: 51,90 €.
+Pensiones de dos y una estrella: 31,13 €.
+e) Otro tipo de usos: 15,59 €.
+3) Inspección alimentaria:
+a) Por inspección de locales destinados a manipulación, fabricación, almacenamiento o venta de productos alimentarios:
+Inspecciones de carácter previo a la concesión de autorización administrativa.
+Inspecciones de carácter reglamentario.
+Inspecciones que tengan por objeto comprobar la realización de medidas correctoras previamente impuestas:
+Primera visita: 77,86 €.
+Visitas sucesivas: 31,13 €.
+b) Inspección de almacenes:
+Almacenes polivalentes: 0,003788 €/kg.
+c) Certificados:
+Expedición de certificado alimentario: 31,13 €.
+Certificado sanitario de productos alimenticios, a petición de parte, que exijan necesariamente informe técnico previo: 83,03 €.
+4) Por la tramitación de expedientes y autorización de traslado de cadáveres o restos cadavéricos:
+Dentro de la Comunidad Autónoma: 31,13 €.
+A otra comunidad autónoma: 41,52 €.
+5) Inspecciones para autorización y/o acreditación de centros, servicios y establecimientos sanitarios y sociales de cualquier clase y naturaleza, incluidos los balnearios y las entidades de seguro libre de asistencia médico-farmacéutica:
+a) Centros de reconocimiento de conductores y cazadores: 103,80 €.
+b) Consultas, clínicas y centros similares de asistencia en régimen ambulatorio (sin hospitalización): 51,90 €.
+c) Laboratorios de análisis clínicos: 103,80 €.
+d) Establecimientos sanitarios y/o sociales en régimen de internado (con hospitalización y/o permanencia durante las horas nocturnas):
+Hospitales, centros geriátricos y similares: 103,80 €.
+6) Inspección farmacéutica:
+a) Por informes sobre condiciones de local, instalaciones y utillaje para la autorización de apertura o traslado de servicios farmacéuticos en:
+Botiquines y depósitos de medicamentos: 10,38 €.
+Servicios de farmacia: 51,90 €.
+Almacenes de distribución de medicamentos: 103,80 €.
+b) Sobre condiciones de local, instalaciones y utillaje en apertura de oficinas de farmacia: 31,13 €.
+7) Entidades de seguro libre de asistencia médico-farmacéutica:
+Prestación de servicios de control sanitario: El dos por mil de las primas satisfechas por los asegurados a las entidades de seguro libre cuyo ámbito de actuación se limita al territorio de la Comunidad Autónoma.
+8) Expedición de informes:
+Expedición de informes a petición de parte: 51,90 €.
+Expedición de informes sanitarios para legalizar aguas de consumo: 142,01 €.
+9) Exámenes médicos con expedición de certificados:
+Especial para permisos de conducir (menores de 70 años): 15,59 €.
+Especial para permisos de conducir (mayores de 70 años): 4,14 €.
+Especial para permisos y licencias de armas: 15,59 €.
+Tarifa 2. Autorizaciones sanitarias:
+Por tramitación de procedimientos de autorizaciones de oficinas de farmacia:
+Nuevas oficinas de farmacia: 710,03 €.
+Traslados de local: 355,00 €.
+Modificación de local: 35,49 €.
+Transmisión de oficinas de farmacia a título gratuito: 106,50 €.
+Transmisión de oficinas de farmacia a título oneroso a favor de familiares: 106,50 €.
+Transmisión de oficinas de farmacia mortis causa: 106,50 €.
+Otras transmisiones: 710,03 €.
+Autorizaciones de personal por más de 15 días: 35,49 €.
+Tarifa 3. Libros oficiales de registro y visitas:
+Expedición de libros oficiales de control sanitario de establecimientos y actividades alimentarias: 9,29 €.
+Expedición de libros de registro oficial de piscinas: 30,95 €.
+Tarifa 4. Expedición de carnés de manipulador de plaguicidas de uso ambiental: 6,19 €.»
+Cuatro. Se añade un capítulo IV bis, bajo la rúbrica «Consumo», al título segundo, «Ordenación de las tasas», con el contenido siguiente:
+«CAPÍTULO IV BIS
+Consumo
+Tasa por expedición de hojas de reclamaciones
+Artículo 71 bis. Hecho imponible.
+Constituye el hecho imponible la expedición de hojas de reclamaciones por el órgano competente en materia de consumo.
+Artículo 71 tercero. Sujeto pasivo.
+Serán sujetos pasivos las personas físicas o jurídicas o las entidades a que se refiere el artículo 5.2 de esta ley a las que se expidan las hojas de reclamaciones establecidas obligatoriamente por la normativa vigente.
+Artículo 71 cuarto. Devengo.
+La tasa por expedición de hojas de reclamaciones se devengará en el momento de formular la correspondiente solicitud.
+Artículo 71 quinto. Tarifa.
+Por cada hoja de reclamación: 0,15 €.»
+Cinco. Se modifica la rúbrica de la sección cuarta, «Tasa por prestación de servicios relativos a la concesión de calificaciones y certificaciones en viviendas de protección pública», del capítulo V, «Vivienda», del título II, «Ordenación de las tasas», que pasa a ser «Tasa por prestación de servicios relativos a la concesión de calificaciones y certificaciones en viviendas declaradas protegidas por la Comunidad Autónoma».
+Seis. Se modifica el apartado 1 del artículo 84, «Hecho imponible», de la tasa por prestación de servicios relativos a la concesión de calificaciones y certificaciones en viviendas declaradas protegidas por la Comunidad Autónoma, que pasa tener la siguiente redacción:
+«1. Constituye el hecho imponible toda actuación relativa al estudio de proyectos, comprobación de certificaciones e inspecciones de obras, tanto de nueva planta como para rehabilitaciones, referentes a toda clase de viviendas declaradas protegidas por la Comunidad Autónoma».
+Siete. Se da una nueva redacción al apartado 1 del artículo 85, «Sujeto pasivo», de la tasa por prestación de servicios relativos a la concesión de calificaciones y certificaciones en viviendas declaradas protegidas por la Comunidad Autónoma, que pasa a tener el siguiente tenor literal:
+«1. Son sujetos pasivos de la tasa a que se refiere el presente capítulo las personas naturales o jurídicas o las entidades a que se refiere el artículo 5.2 de esta ley, públicas o privadas, promotores de proyectos de viviendas declaradas protegidas por la Comunidad Autónoma o de proyectos de rehabilitación y que soliciten los beneficios establecidos, la inspección, certificación o calificación correspondiente, mediante la presentación de la documentación necesaria.»
+Ocho. Se modifica la tarifa 12 del apartado dos del artículo 113, «Tarifas», de la tasa por servicios administrativos veterinarios y servicios facultativos veterinarios, que pasa a tener la siguiente redacción:
+«Tarifa 12. Expedición de certificados zoosanitarios incluidos los relacionados con movimientos de animales vivos y productos de origen animal, incluidos certificados internacionales sanitarios y guías de origen y sanidad pecuaria y documentos de traslado a mataderos (mínimo 1,86 €).
+Équidos, bóvidos adultos y similares:
+Por animal: 1,073420 €.
+Máximo por lote o vehículo: 31,57 €.
+Ovino, caprino, porcino, terneros y otros similares:
+Por animal: 0,505139 €.
+Máximo por lote o vehículo: 78,93 €.
+Lechones:
+Por animal: 0,220998 €.
+Máximo por lote o vehículo: 18,94 €.
+Conejos y similares, gallinas y otras aves:
+Por animal: 0,012629 €.
+Máximo por lote o vehículo: 12,63 €.
+Broilers y pollos de un día:
+Por animal: 0,006314 €.
+Máximo por lote o vehículo: 12,63 €.
+Animales de peletería:
+Por animal: 0,094714 €.
+Máximo por lote o vehículo: 11,36 €.
+Colmenas:
+Por unidad: 0,315711 €.
+Máximo por lote o vehículo: 11,36 €.
+Peces vivos, gametos y moluscos para reapareamiento o depuración:
+Por tonelada o fracción: 1,578558 €.
+Máximo por lote o vehículo: 20,52 €.
+Productos de origen animal, incluidos los destinados a alimentación animal:
+Por tonelada: 1,925841 €.
+Máximo por lote o vehículo: 22,73 €.
+Certificado de transporte: 3,16 €.
+Comprobación del vehículo y del estado sanitario, previo a la carga de los lotes de animales de exportación o cuando se prevean más de ocho horas de duración del transporte:
+Équidos, bóvidos y similares, por lote o vehículo:
+En explotación: 25,256933 €.
+En mercado: 12,628466 €.
+Porcino, ovino, caprino y similares, por lote o vehículo:
+En explotación: 18,942699 €.
+En mercado: 9,471350 €.
+Aves, conejos, visones, colmenas y similares, por lote o vehículo:
+En explotación: 18,942699 €.
+En mercado: 9,471350 €.
+Documentos de traslado a matadero:
+Talonarios de 10 documentos de traslado: 18,54 €.
+Talonarios de 20 documentos de traslado: 37,08 €.»
+Nueve. Se modifican las tarifas 4 y 5 del artículo 148 quinto, «Tarifas», de la tasa por expedición de titulaciones y tarjetas náuticas, de buceo profesional y actividades subacuáticas, que quedan redactadas en la forma siguiente:
+«Tarifa 4. Tarjetas y títulos náutico-deportivos:
+a) Capitán de yate: 75,77 €.
+b) Patrón de yate: 50,51 €.
+c) Patrón de embarcaciones de recreo: 18,94 €.
+d) Patrón para navegación básica: 18,94 €.
+e) Patrón de moto náutica “A”: 18,94 €.
+f) Patrón de moto náutica “B”: 18,94 €.
+g) Autorización federativa: 12,63 €.
+Tarifa 5. Derechos de examen:
+a) Capitán de yate: 56,83 €.
+b) Patrón de yate: 44,20 €.
+c) Patrón de embarcaciones de recreo: 18,94 €.
+d) Patrón para navegación básica: 18,94 €.
+e) Patrón de moto náutica “A”: 18,94 €.
+f) Patrón de moto náutica “B”: 18,94 €.»
+Diez. Se modifica el artículo 153, «Hecho imponible», de la tasa por inscripción y publicidad de asociaciones, que pasa a tener el siguiente tenor literal:
+«Constituye el hecho imponible de la tasa la inscripción de asociaciones en el Registro de asociaciones del Principado de Asturias, la modificación de sus estatutos, así como la expedición de certificados y notas simples informativas del contenido de los asientos.»
+Once. Se modifica el artículo 156, «Cuota», de la tasa por inscripción de publicidad de asociaciones, quedando redactada en los siguientes términos:
+«1. Inscripción en el Registro de asociaciones del Principado de Asturias: 31,16 €.
+2. Modificaciones de estatutos: 15,41 €.
+3. Expedición de certificados: 6,70 €.
+4. Expedición de copias auténticas y de notas simples informativas en soporte papel:
+Por documento inicial: 3,35 €.
+Por cada página siguiente del documento inicial: 1,67 €.
+5. Expedición de notas simples informativas en soporte informático: 13,46 € por cada disquete o CD-ROM.»
+Doce. Se crea una sección tercera, denominada «Tasa por servicios administrativos en materia de casinos, juegos y apuestas», dentro del capítulo VIII, «Espectáculos y asociaciones», del título II, «Ordenación de las tasas», con el contenido siguiente:
+«Sección tercera. Tasa por servicios administrativos en materia de casinos, juegos y apuestas
+Artículo 156 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por la Administración del Principado de Asturias de los servicios o la realización de las actuaciones propias de la ordenación y gestión administrativa del juego, según se especifica en las tarifas.
+Artículo 156 tercero. Sujetos pasivos.
+1. Son sujetos pasivos de la tasa, en calidad de contribuyentes, las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 5.2 de esta ley en cuyo interés se presten los servicios o sean receptoras de las actuaciones que integran su hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 5.2 de esta ley que soliciten las actuaciones administrativas, cuando éstas deban prestarse a favor de otras personas distintas del solicitante.
+Artículo 156 cuarto. Tarifas.
+La tasa se exigirá con arreglo a las siguientes tarifas:
+1. Autorizaciones e inscripciones:
+Autorización de apertura y funcionamiento de casino: 4.000 €.
+Autorización de apertura y funcionamiento de bingos: 1.500 €.
+Autorización y/o inscripción de salones recreativos: 200 €.
+Autorización y/o inscripción de salones de juego: 400 €.
+Autorización y/o inscripción de otros locales y establecimientos habilitados para instalar máquinas tipo “A” y “B”: 30 €.
+Renovaciones, modificaciones y transmisiones de las autorizaciones recogidas en los epígrafes anteriores: el 30% del importe de la autorización correspondiente.
+Autorización y/o inscripción como empresa de juego: 500 €.
+Homologación e inscripción de máquinas tipos “A”: 150 €.
+Homologación e inscripción de máquinas tipos “B” y “C”: 300 €.
+Homologación e inscripción de otro material de juego: 200 €.
+Modificación de la homologación de máquinas y material de juego: el 50% de la autorización correspondiente.
+Expedición de guías de circulación (unidad): 5 €.
+Diligencia de guías de circulación (unidad): 6 €.
+Baja definitiva de máquinas (unidad): 6 €.
+Transmisiones de máquinas entre empresas operadoras (por máquina): 6 €.
+Autorización de instalación de máquinas incluidas las temporales y cambio de titularidad: 30 €.
+Comunicaciones de traslado de máquinas (por cada traslado): 5 €.
+Autorización de rifas, tómbolas y combinaciones aleatorias: 50 €.
+Autorización del juego de la noventina: 100 €.
+2. Otros servicios y actuaciones administrativas:
+Expedición de documentos profesionales: 6 €.
+Emisión de duplicados de documentos: 3 €.
+Diligenciado de libros y hojas exigidos reglamentariamente: 6 €.
+Expedición de certificados: 6 €.
+Inspección técnica de máquinas recreativas y de azar: 200 €.
+Artículo 156 quinto. Devengo y pago.
+1. La tasa se devengará cuando se inicie la actuación o servicio administrativo que constituya el hecho imponible y se exigirá en el momento de la solicitud de la correspondiente actividad administrativa.
+2. La tasa será objeto de autoliquidación e ingreso con carácter previo a la presentación de la solicitud de prestación del servicio que constituya el hecho imponible. Ello no obstante, en el supuesto de servicios o actuaciones iniciadas de oficio por la Administración, ésta practicará y notificará la oportuna liquidación.»
+
+### Artículo 20
+
+Artículo 20. Modificación de la Ley 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas en el Principado de Asturias.
+Uno. Se modifica el apartado 2 del artículo 17, «Tipo de gravamen», que pasa a adoptar el siguiente tenor literal:
+«2. El tipo de gravamen, en función de la base imponible a que deba aplicarse, será el siguiente:
+a) En los supuestos contemplados en los artículos 16, 16 bis y 16 tercero de la presente ley:
+Usos domésticos: 0,229046 €/m3.
+Usos industriales: 0,272379 €/m3.
+En aquellos casos en que un contribuyente realice ambos tipos de consumo y no tenga instalados mecanismos de aforo en razón de los distintos usos o por las circunstancias que se den en el caso de que no sea posible su distinción, se aplicará el tipo más elevado.
+b) En los supuestos contemplados en el apartado 1 del artículo 16 quinto de la presente ley, el tipo tributario se establecerá individualmente para cada contribuyente aplicando la fórmula polinómica que se describe en el anexo V de la presente ley.
+c) En los supuestos contemplados en el artículo 16 sexto de la presente ley, el tipo tributario se establecerá por aplicación de la fórmula polinómica y los criterios específicos para este régimen que se describen en el anexo V de la presente ley.»
+Dos. Se modifica la redacción de la disposición transitoria séptima en el siguiente sentido:
+«Durante el ejercicio 2003, el canon de saneamiento no se aplicará a los consumos para uso doméstico cuyo vertido posterior no se realice a redes públicas de alcantarillado.»
+Tres. Se modifica el anexo V, que pasa a tener la redacción siguiente:
+«T=a+(b.SS)+(c.DQO)+(d.NTK), donde:
+“T” es el tipo de gravamen.
+“SS”, la concentración media del vertido en sólidos en suspensión, expresada en kilos por metro cúbico.
+“DQO”, la concentración media del vertido en demanda química de oxígeno, expresada en kilos por metro cúbico.
+“NTK”, la concentración media del vertido en nitrógeno total kjeldhal, expresada en kilos por metro cúbico.
+“a”, el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido. Su valor es de 0,068094 €/m3.
+“b”, el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,278569 €/kg.
+“c”, el coeficiente que indica el precio por unidad de contaminación en DQO. Su valor es de 0,247617 €/kg.
+“d”, el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 0,773803 €/kg.
+La cuantificación de SS, DQO y NTK se realizará mediante el análisis de muestras, en la misma forma y procedimiento establecidos en el apartado 1 del artículo 16 quinto de esta ley. La resolución que deba dictarse incluirá la cuantificación de los conceptos mencionados.
+En el caso de que el contribuyente disponga de sistemas propios de depuración de aguas residuales, la medición de los conceptos SS, DQO y NTK se realizará para el efluente de la instalación de depuración.
+En los supuestos contemplados en el artículo 16 sexto de la presente ley, “Estimación objetiva de la carga contaminante”, el tipo tributario se establecerá por aplicación de los valores establecidos en este anexo a los estimados en concepto de SS, DQO y NTK por grupos de actividad, establecimientos similares o datos que consten en las autorizaciones de vertidos, en la forma y cuantía que reglamentariamente se establezcan.
+Cuando el vertido se realice de manera individual al medio no será de aplicación el coeficiente “a” de la fórmula polinómica antes descrita.»
+
+## CAPÍTULO VII
+
+Del impuesto sobre grandes establecimientos comerciales
+
+### Artículo 21
+
+Artículo 21. Impuesto sobre grandes establecimientos comerciales.
+(Derogado)
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2014, de 23 de julio. Ref. BOE-A-2015-944.
+ Se modifican los apartados 3 a 6, 15 y 16, por el art. 8.1 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Asignación del complemento específico al personal facultativo en instituciones sanitarias.
+(Anulada)
+Se declara inconstitucional y nula por Sentencia del TC 197/2012, de 6 de noviembre. Ref. BOE-A-2012-14601.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. De la incapacidad temporal del personal docente.
+Los médicos funcionarios adscritos a la unidad médica de la Consejería competente en materia de educación tendrán la condición de inspectores médicos delegados del Servicio de Salud del Principado de Asturias, a los efectos del conocimiento y control de la incapacidad temporal del personal docente de la citada Consejería.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango emanadas de los órganos del Principado de Asturias se opongan a lo previsto en esta ley.
+
+### Disposición final
+
+Disposición final.
+La presente ley entrará en vigor el día 1 de enero de 2003.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y Autoridades que la guarden y la hagan guardar.
+Oviedo, 27 de diciembre de 2002.
+VICENTE ÁLVAREZ ARECES,
+Presidente

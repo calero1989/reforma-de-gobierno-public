@@ -1,0 +1,211 @@
+# Ley 52/1980, de 16 de octubre, de Regulación del Régimen Económico de la explotación del acueducto Tajo-Segura.
+
+- Identificador BOE: `BOE-A-1980-23062`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-23062
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+La tarifa de conducción de las aguas que por excedentarias sean trasvasadas desde la cuenca del Tajo a la del Segura, según lo dispuesto en la Ley veintiuno/mil novecientos setenta y uno, de diecinueve de junio, a través del acueducto construido a este efecto, se regirá por lo dispuesto en la presente Ley y disposiciones complementarias.
+
+### Artículo segundo
+
+Artículo segundo.
+A los efectos de esta Ley se considerarán obras del acueducto Tajo-Segura las ejecutadas o financiadas por el Estado para derivar, regular, conducir y distribuir las aguas trasvasadas, así como las obras complementarias necesarias para conseguir su perfecto funcionamiento.
+Se excluyen de lo dispuesto en el párrafo anterior las redes de distribución, desagües y caminos e instalaciones complementarias propias de los sectores de las zonas regables y de los abastecimientos de agua a poblaciones.
+
+### Artículo tercero
+
+Artículo tercero.
+Es objeto de la tarifa de conducción de agua la disponibilidad o el aprovechamiento del agua conducida por las obras del acueducto Tajo-Segura para regadíos y abastecimientos.
+
+### Artículo cuarto
+
+Artículo cuarto.
+La obligación de satisfacer la tarifa tiene carácter periódico y nace en el momento en que puedan explotarse las instalaciones, conducirse el agua o suministrarse a las zonas o usuarios afectados, una vez establecido el correspondiente compromiso o asignadas las dotaciones a los distintos terrenos y usos.
+La liquidación correspondiente se efectuará anualmente, según lo dispuesto en el artículo séptimo, párrafo tres, de esta Ley, si bien podrá fraccionarse en liquidaciones parciales dentro de este período.
+
+### Artículo quinto
+
+Artículo quinto.
+Están obligados al pago de la tarifa, en los términos establecidos en los artículos anteriores, las Entidades y las personas naturales o jurídicas titulares de derecho al uso del agua, sea éste adquirido por concesión, autorización o cualquier otro título jurídico.
+
+### Artículo sexto
+
+Artículo sexto.
+Uno. La recaudación obtenida por la parte de la tarifa de conducción de agua correspondiente al concepto de aportación por el coste de las obras se aplicará, con independencia de los créditos consignados en los Presupuestos Generales del Estado, para inversiones y en el orden que se indica, a:
+a) La realización con carácter prioritario de las acciones pendientes en la cuenca del Tajo y en las provincias de tránsito afectadas por el acueducto Tajo-Segura, según se especifica en la Ley veintiuno/mil novecientos setenta y uno, de diecinueve de junio, o aquellas por las que puedan sustituirse en aplicación de la disposición adicional tercera de la presente Ley. En la realización urgente de tales obras está comprometido el Estado con independencia de la recaudación a que se hace mención en la presente Ley.
+b) La infraestructura hidráulica de las provincias de la cuenca del Tajo y las de tránsito del acueducto que no sean receptoras de agua.
+c) El estudio y ejecución de nuevos trabajos de regulación, captación y uso combinado de aguas superficiales y subterráneas e implantación de ahorro de agua, tanto en regadíos como en abastecimientos.
+d) Cubiertas las necesidades anteriormente enumeradas, se aplicará a la misma infraestructura hidráulica de las provincias receptoras de agua.
+Dos. La recaudación a que se refiere el párrafo anterior, previa autorización de la Comisión Central de Explotación del Acueducto Tajo-Segura, podrá destinarse, en parte, a cubrir el déficit de explotación indicado en el artículo decimosegundo de la presente Ley.
+Tres. La parte recaudada por el incremento específico de la parte a) recogida en el artículo séptimo, punto dos, último párrafo, para uso en abastecimiento, se destinará de modo concreto a la realización de obras de ingeniería sanitaria hidráulica en la cuenca del Tajo y provincias de tránsito del acueducto que no sean receptoras de agua.
+Cuatro. La gestión directa y efectiva de la tarifa de conducción de agua, así como la de los fondos resultantes de las acciones previstas en los apartados anteriores se efectuará por las Confederaciones Hidrográficas correspondientes, controlados y coordinados a efectos técnicos y económicos por la Comisión Central de Explotación del Acueducto Tajo-Segura.
+Cinco. Las partidas consignadas en los Presupuestos Generales del Estado o en cualquier otra fuente de financiación, en orden a reformar, mejorar, mantener o conservar el trasvase Tajo-Segura no podrán imputarse a ninguna de las provincias cedentes de aguas o de tránsito del acueducto exclusivamente, aunque la obra se realice físicamente en su territorio.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Uno. La tarifa incluirá las aportaciones motivadas por los siguientes conceptos:
+a) Amortización del coste de las obras.
+b) Los gastos fijos de funcionamiento.
+c) Los gastos variables de funcionamiento.
+Dos. La tarifa comprendo los tres valores siguientes:
+a) El obtenido de repartir el coste total no amortizado de las obras entre la dotación total anual definitiva asignada al conjunto de usos del agua conducida, afectado por un coeficiente que en función del uso del agua será:
+Cero coma cero cuatro en regadíos.
+Cero coma cero ocho en abastecimientos.
+En el cómputo del coste de las obras, y sin perjuicio de lo dispuesto en el párrafo dos del artículo segundo de esta Ley, se incluyen los gastos motivados por la realización de los proyectos, la construcción de las obras principales y complementarias, las expropiaciones e indemnizaciones necesarias, los edificios y caminos, los gastos de inspección y vigilancia y, en general, todas las inversiones realizadas. Durante el periodo de explotación de la primera fase, limitado a un trasvase máximo anual de seiscientos millones de metros cúbicos, se considerará el sesenta por ciento del total de la inversión.
+Para los volúmenes de agua destinados al uso en abastecimientos, el valor así calculado se incrementará en la cuantía fija de dos pesetas por metro cúbico, cantidad que no será computable a efectos de amortización de las obras.
+b) El obtenido de repartir la previsión anual de los gastos de funcionamiento necesarios para efectuar la explotación de las obras del acueducto Tajo-Segura, cuya realización es independiente del volumen de agua suministrado, entre el total de dotaciones asignado a las concesiones existentes o establecidas en el correspondiente compromiso. Dichos gastos incluyen los de mantenimiento del servicio, conservación de obras e instalación, administración y generales de los Organismos gestores, imputables a la explotación del acueducto Tajo-Segura.
+c) El valor unitario obtenido en la previsión de los gastos de funcionamiento necesarios para realizar la explotación de las obras del acueducto Tajo-Segura, de carácter proporcional al volumen de agua suministrada. Dichos gastos incluyen los de adquisición del agua, consumo de energía, servidumbres de peso establecidas y cualquier otro de naturaleza análoga.
+Tres. La liquidación correspondiente a cada usuario se calculará por adición de los tres valores fijados en el epígrafe anterior aplicados:
+a) A la dotación concesional o comprometida, los correspondientes al coste de las obras.
+b) A la dotación concesional o comprometida, los correspondientes a los gastos de funcionamiento independientes del volumen de agua suministrada.
+c) Al consumo realmente producido, los correspondientes a los gastos de funcionamiento proporcionales al volumen de agua suministrada.
+Se modifica el apartado 1 y la letra a) del apartado 2 por el art. 89.1 y 2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se convierten a euros las cuantías contempladas, por el apartado 7 de la Resolución 9/2001, de 31 de octubre. Ref. BOE-A-2001-22215.
+
+### Artículo octavo
+
+Artículo octavo.
+A los efectos establecidos en el artículo anterior, los volúmenes de agua se computarán en tomas en el río Segura, o sobre las siguientes obras principales de regulación y distribución:
+— Azud y embalse de Ojós y Cámara Superior de los Riegos de Blanca.
+— Canal principal de conducción de la margen izquierda. Con origen en el Azud de Ojós, hasta las inmediaciones de la población de Crevillente, por un lado, y el canal de alimentación del embalse de La Pedrera, por otro lado.
+— Embalse de La Pedrera.
+— Canal del Campo de Cartagena. Con origen en el embalse de La Pedrera hasta la Rambla de Benipila, en las cercanías de Cartagena.
+— Canal principal de conducción de la margen derecha. Con origen en la primera elevación de Ojós hasta el partidor de Lorca.
+— Canal Lorca-Valle del Almanzora. Hasta el kilómetro cuarenta y uno, desde el partidor de Lorca.
+Con independencia de este cómputo de volúmenes a efectos del cálculo de tarifas, el volumen total de agua a trasvasar se medirá en la cabecera del dispositivo del trasvase.
+
+### Artículo noveno
+
+Artículo noveno.
+Por cada uno de los usos de riego o de abastecimiento, el valor de la tarifa de conducción fijado en el artículo séptimo, epígrafe dos, será único, cualquiera que sea el punto de toma en el río Segura o en el conjunto de obras definidas en el artículo anterior.
+
+### Artículo décimo
+
+Artículo décimo.
+Con independencia de lo establecido en los artículos anteriores, los aprovechamientos con recursos propios de la cuenca del Segura, del Sur o del Júcar, previstos en sus correspondientes Planes Hidrológicos de cuenca, pueden beneficiarse de dicha obra para transportar y distribuir sus correspondientes dotaciones concesionales, entre dos puntos dentro del mismo ámbito territorial de planificación hidrológica, abonando la tarifa de conducción de agua que resulte de aplicar, en cada caso, los criterios establecidos en el artículo 7.
+Se modifica por el art. único del Real Decreto-ley 8/1999, de 7 de mayo. Ref. BOE-A-1999-10490.
+
+### Artículo decimoprimero
+
+Artículo decimoprimero.
+Quedan excluidas del ámbito de la presente Ley las tarifas que, en razón de las inversiones estatales y costes de explotación, puedan establecerse para la distribución de caudales a partir de los puntos de toma sobre las obras principales establecidas en el artículo octavo.
+
+### Artículo decimosegundo
+
+Artículo decimosegundo.
+El déficit de explotación que pueda producirse en los primeros años de funcionamiento como consecuencia de unas demandas de agua inferiores a las dotaciones previstas se incluirá en el cómputo de la inversión estatal realizada, acumulándose como un gasto adicional de la misma, a afectos de la determinación del valor equivalente de la inversión repercutible en la tarifa.
+
+### Artículo decimotercero
+
+Artículo decimotercero.
+La recaudación de la tarifa de conducción de agua se efectuará por ingreso directo en la cuenta que la Confederación Hidrográfica tenga abierta a este fin en la Entidad de crédito designada en la forma que dispone la Ley General Presupuestaria.
+En el caso de incumplimiento del plazo que se fije a contar desde la fecha de notificación para el ingreso voluntario se procederá a su recaudación por el procedimiento ejecutivo de apremio, conforme a lo previsto en el Reglamento General de Recaudación.
+Los retrasos en la recaudación no serán obstáculo para el cumplimiento de los fines a los que la tarifa está asignada.
+
+### Artículo decimocuarto
+
+Artículo decimocuarto.
+La componente a) de la tarifa, correspondiente a la amortización del coste de las obras, será revisada cada dos años en función de la actualización tanto de los valores de las inversiones computadas en el artículo séptimo, dos, a), como costes de las obras del acueducto Tajo-Segura, como de las cantidades abonadas por dicho concepto, a cuyo efecto el Ministerio de Medio Ambiente someterá al Consejo de Ministros la aprobación de las fórmulas correspondientes.
+Se modifica por el art. 89.3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## DISPOSICIONES ADICIONALES
+
+### Primera
+
+Primera.
+Los volúmenes que se trasvasen en la primera fase de explotación del acueducto Tajo-Segura, y dentro de lo establecido por la presente Ley, se aplicarán de acuerdo con la siguiente distribución de dotaciones:
+Zonas
+ Hm3 anuales
+ Para regadíos:
+ Vega alta y media del Segura
+ 65
+ Regadíos de Mula y su comarca
+ 8
+ Lorca y valle del Guadalantín
+ 65
+ Riegos de Levante, margen izquierda y derecha, vegas bajas del Segura y saladares de Alicante
+ 125
+ Campos de Cartagena
+ 122
+ Valle del Almanzora, en Almería
+ 15
+ Total regadíos
+ 400
+ Para abastecimientos
+ 110
+Estas dotaciones resultan, una vez deducidas las pérdidas previsibles en el dispositivo de dicho trasvase, y serían disminuidas proporcionalmente si las pérdidas reales superasen las previsiones.
+Las dotaciones se computarán de acuerdo con lo establecido en el artículo octavo de la presente Ley y garantizando en el Tajo, antes de su confluencia con el Jarama (en Aranjuez), un caudal no inferior a seis metros cúbicos por segundo, siendo reguladas las operaciones de desembalse por la Comisión de DesembaIse de la Confederación Hidrográfica del Tajo.
+Por el contrario, si se producen menores pérdidas, los recursos adicionales generados se distribuirán en un setenta por ciento para regadío, en proporción a las referidas zonas regables, mientras que el treinta por ciento restante se asignará para abastecimientos de la provincia de Almería.
+Se modifica el último párrafo, para dar cumplimiento a la Sentencia TC 13/2015, de 5 de febrero, por la disposición final 1 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#dfprimera.
+ Se declara la inconstitucionalidad y nulidad del último párrafo, en la redacción dada por la disposición final 2 de la Ley 21/2013, de 9 de diciembre, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+ Se modifica el último párrafo por la disposición final 2 de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913.
+ Véase el art. 1 de la Ley 9/1996, de 15 de enero. Ref. BOE-A-1996-1074., de modificación excepcional y transitoria del caudal del río Tajo, que finalizará el 30 de septiembre de 1996.
+ Véase el art. 1 del Real Decreto-ley 6/1995, de 14 de julio. Ref. BOE-A-1995-17683., de modificación excepcional y transitoria del caudal del río Tajo, que finalizará el 30 de septiembre de 1996.
+
+### Segunda
+
+Segunda.
+A efectos de la aplicación de las aguas a trasvasar en fases sucesivas de explotación del acueducto Tajo-Segura, de acuerdo con lo establecido en la Ley veintiuno/mil novecientos setenta y uno, y por lo que se refiere al exceso que pudiera producirse sobre el volumen de seiscientos millones de metros cúbico anuales, se otorga carácter prioritario para la aplicación de dichas aguas a la provincia de Almería hasta un volumen máximo de doscientos millones de metros cúbicos anuales.
+
+### Tercera
+
+Tercera.
+A petición razonada del órgano preautonómico o autonómico competente, previa propuesta de la correspondiente Diputación Provincial, en los supuestos de que no puedan conseguirse las necesarias aportaciones económicas de las Corporaciones Locales o que los estudios de viabilidad no las haga aconsejable, las obras previstas en la Ley veintiuno/mil novecientos setenta y uno, a realizar en la cuenca del Tajo y provincias de tránsito afectadas por el acueducto, se sustituirán por otras equivalentes o análogas. En todo caso, los estudios de viabilidad pendientes se realizarán conjuntamente con las Diputaciones y, en su caso, con el órgano preautonámico o autonómico que corresponda antes del plazo de seis meses, a partir de la promulgación de esta Ley.
+
+### Cuarta
+
+Cuarta.
+Finalizado el período de seis meses al que hace referencia la disposición adicional tercera, como plazo máximo de tiempo para la realización de los estudios de viabilidad pendientes, el Estado, a través del Ministerio de Obras Públicas y Urbanismo, y previa resolución del Consejo de Ministros, establecerá en el plazo máximo de nueve meses, a partir de la promulgación de esta Ley, un calendario de realización de las obras en la cuenca del Tajo y provincias de tránsito no receptoras de aguas en un plazo no superior a cinco años.
+Los gastos que ocasionen la ejecución de las referidas obras, en la parte que al Estado corresponda, se imputarán a los créditos presupuestarios anuales correspondientes.
+
+### Quinta
+
+Quinta.
+En el caso de producirse utilizaciones de la infraestructura del acueducto o aprovechamientos no consuntivos de las aguas trasvasadas compatibles con los fines prioritarios previstos en la presente Ley, los cánones devengados se destinarán a los fines establecidos en el artículo sexto.
+
+### Sexta
+
+Sexta.
+De acuerdo con lo establecido en le Ley veintiuno/mil novecientos setenta y uno, de diecinueve de junio, no son trasvasables los recursos subterráneos existentes en la provincia de Albacete.
+Para el aprovechamiento de estos recursos dentro de dicha provincia podrá utilizarse la infraestructura del acueducto, si ello resultare viable y procedente. En el caso de las aguas concedidas como compensación a las infiltradas en el túnel de Talave, los beneficiarios participarán exclusivamente en el reparto de los gastos fijos de funcionamiento en la forma estipulada en el articulo séptimo, dos, b) de esta Ley.
+Se modifica el párrafo segundo por el art. 89.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Séptima
+
+Séptima.
+El Gobierno, en el plazo de un mes, a partir de la entrada en vigor de la presente Ley, revisará el Real Decreto mil novecientos ochenta y dos/mil novecientos setenta y ocho, de veintiséis de julio, a los efectos de incluir en su ámbito de aplicación a las Confederaciones Hidrográficas afectadas.
+
+### Octava
+
+Octava.
+Los gastos que ocasione la ejecución del control, vigilancia y explotación del trasvase Tajo-Segura, en la parte que al Estado corresponda, no se imputará a los créditos presupuestarios anuales correspondientes a las provincias no receptoras.
+
+### Novena
+
+Novena.
+Uno. La Administración adoptará las medidas pertinentes a fin de que, mediante la regulación adecuada, las aguas que se trasvasen sean, en todo momento, excedentarias en la cuenca del Tajo.
+Dos. El carácter de excedentarias se determinará en el Plan Hidrológico de la cuenca del Tajo, a cuya efecto tendrá en cuenta tanto los aprovechamientos potenciales a que se refieren los artículos tercero, cuarto y quinto de la Ley veintiuno/mil novecientos setenta y uno, como los que resulten por virtud de lo establecido en la disposición adicional tercera de esta Ley y los que sean consecuencia del desarrollo natural de las provincias de la cuenca del Tajo.
+Tres. Mientras no se apruebe el Plan Hidrológico de la cuenca del Tajo se constituirá una Comisión con representantes de los Ministerios de Obras Públicas y Urbanismo y de Agricultura y de los Entes autonómicos o preautonómicos afectados, o, en su defecto, las provincias, la cual, a la vista de los actuales planeamientos de los regadíos del Tajo, y de las previsiones y calendarios previstos en los programas del Ministerio, delimitará la extensión de las zonas que se han de incluir en los Planes de Riegos del Tajo, determinará las obras de regulación que han de aportar, así como las de desarrollo de los diversos sistemas, los caudales precisos para su puesta en riego, y posteriormente llevará a cabo el seguimiento de la ejecución de las obras que los Planes comporten.
+
+### DISPOSICIÓN FINAL
+
+La presente Ley entrará en vigor en el mismo día de su publicación en el «Boletín Oficial del Estado», quedando derogadas cuantas disposiciones se opongan a lo establecido en la misma.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a dieciséis de octubre de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

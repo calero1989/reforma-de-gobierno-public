@@ -1,0 +1,2210 @@
+# Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+- Identificador BOE: `BOE-A-2003-20331`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-20331
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+Al igual que en el resto de sistemas financieros desarrollados, la inversión colectiva es el canal natural para la participación de los hogares españoles en los mercados de capitales. Su doble condición de fórmula de financiación desintermediada y de instrumento de ahorro privilegiado de los inversores minoristas la convierten en un sector de atención prioritaria para la política financiera española. En efecto, el buen funcionamiento de la inversión colectiva tiene implicaciones directas para los dos objetivos fundamentales de la política financiera: la eficiencia en la asignación del ahorro a las oportunidades de inversión y en la gestión de riesgos y la protección a los inversores menos informados. La Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva que ahora se deroga, estableció un régimen jurídico orientado a facilitar el desarrollo pleno de la inversión colectiva en España, que la regulación anterior había sido incapaz de promover, en el marco de un sistema financiero que iniciaba entonces la fase definitiva de su proceso de reforma y modernización. El balance de la Ley 46/1984 en estos cerca de veinte años es muy positivo. No sólo ha alcanzado su objetivo primordial, ofreciendo bases sólidas para un crecimiento espectacular de la inversión colectiva española. Ha permitido además acomodar los innumerables y profundos cambios que han experimentado nuestro entorno macroeconómico y nuestro sistema financiero durante este período, desde la entrada en la CEE hasta la introducción del euro. Las modificaciones más recientes se introdujeron en la Ley 37/1998, de 16 de noviembre, de reforma de la Ley 24/1988, de 28 de julio, del Mercado de Valores, en la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero así como en la Ley 46/2002, de 18 de diciembre, de reforma parcial del Impuesto sobre la Renta de las Personas Físicas y por la que se modifican las leyes de los Impuestos sobre Sociedades y sobre la Renta de no Residentes.
+Sin embargo, la plasticidad del marco legal no debe postergar una reforma en profundidad del régimen jurídico de la inversión colectiva española, cuya necesidad se asienta en varias razones de peso.
+La primera de ellas es de índole formal y responde a la voluntad de instituir de forma clara, ordenada y completa en sede legal los aspectos sustantivos del régimen jurídico de las Instituciones de Inversión Colectiva.
+A pesar de la complejidad técnica de la materia, tanto en los aspectos financieros como en los aspectos administrativos, la inevitable sucesión de modificaciones legislativas ha dificultado un tratamiento sistemático de todas las materias esenciales. La ley pone fin a esta situación, contribuyendo a reforzar la seguridad jurídica, la adecuada jerarquía normativa y el respeto al principio de legalidad. Una de las manifestaciones de esta voluntad es el notable aumento del número de artículos respecto a la ley derogada. Se asientan así los principios básicos que deben regir la actividad de los sujetos que conforman el sector de la inversión colectiva. El desarrollo concreto y técnico de dichos principios se realizará en sede reglamentaria. Por un lado, con ello se pretende garantizar la flexibilidad y capacidad de adaptación a la evolución del mercado, que es un elemento imprescindible de un esquema normativo de calidad para la inversión colectiva. Por otro lado, el ámbito reglamentario es el marco natural para atender a los desarrollos que, en el marco de la Unión Europea, se lleven a cabo por medio de los acuerdos que adopte el Comité de Contacto de Organismos de Inversión Colectiva en Valores Mobiliarios (en adelante, OICVM), al amparo de las habilitaciones que le otorga la Directiva 85/611/CEE reguladora de los OICVM.
+El segundo objetivo formal de la ley es la transposición de las dos Directivas que han modificado la regulación comunitaria de dichos OICVM: la Directiva 2001/107/CE, del Parlamento Europeo y del Consejo de 21 de enero de 2002, que modifica la Directiva 85/611/CEE del Consejo reguladora de las OICVM, con vistas a la regulación de las sociedades de gestión y los folletos simplificados y la Directiva 2001/108/CEE, del Parlamento Europeo y del Consejo de 21 de enero de 2002, que modifica la mencionada Directiva 85/611/CEE en lo que se refiere a las inversiones de los OICVM. Estas Directivas completan la introducción de la inversión colectiva mobiliaria en el mercado único de servicios financieros, al extender el pasaporte comunitario a las sociedades gestoras y al ampliar la gama de activos e instrumentos financieros en los que pueden invertir los OICVM.
+El objetivo material básico de esta ley es establecer un régimen jurídico que satisfaga las necesidades de un sector de inversión colectiva que ha entrado ya en una fase de madurez. Tras un largo período de crecimiento marcado por el protagonismo sucesivo de distintos activos, el patrimonio de las Instituciones de Inversión Colectiva (en adelante IIC) comercializadas en España se ha estabilizado en torno al 30 por ciento del producto interior bruto. La composición de ese patrimonio es muy diversa y más de la mitad está invertida en activos emitidos por no residentes. Los dos rasgos definidores de la fase de madurez en la que ha entrado la inversión colectiva española son la existencia de una demanda diversificada, exigente en calidad y precio, y la competencia creciente entre los prestadores de servicios de gestión en el marco europeo y global. La ley pretende conseguir la adaptación a esta nueva realidad basándose en tres principios básicos:
+a) La liberalización de la política de inversión. Las restricciones a las posibilidades de inversión de las IIC podrían convertirse en un freno para que la inversión colectiva española pueda satisfacer las aspiraciones de una base de inversores cada vez más exigente y diversa.
+La experiencia de estos últimos años ha mostrado que es preferible abandonar el enfoque basado en multitud de categorías legales de IIC y en la limitación de los activos aptos para la inversión, introduciendo más flexibilidad y libertad a la hora de definir los perfiles inversores de las IIC.
+b) El reforzamiento de la protección a los inversores con nuevos instrumentos. El fortalecimiento de las obligaciones de transparencia y de las normas de conducta para prevenir conflictos de interés se ha revelado un medio más eficaz para proteger a los inversores que la imposición de restricciones a las posibilidades de actuación financiera de las IIC.
+c) El perfeccionamiento del régimen de intervención administrativa. La ley realiza un esfuerzo considerable para mejorar la agilidad del procedimiento administrativo y la seguridad jurídica para los administrados. En un sector en el que, como en el resto de actividades financieras, la intervención es elevada en relación a otros sectores de actividad económica, la calidad de la regulación depende en gran medida de estos dos factores.
+II
+El título preliminar define las Instituciones de Inversión Colectiva de forma amplia y flexible y establece el ámbito de aplicación de la ley, que comprende las IIC domiciliadas en España, las IIC autorizadas en otros Estados y comercializadas en España, las sociedades gestoras de IIC y los depositarios. El título I regula los principios generales de las dos formas jurídicas que pueden adoptar las IIC: fondo y sociedad. Como novedad se contempla la posibilidad de que se creen IIC por compartimentos y de que existan diferentes clases de participaciones o de series de acciones. En el capítulo I se define a los fondos de inversión como patrimonios separados, sin personalidad jurídica, cuya gestión y representación corresponde a una sociedad gestora, con el concurso de un depositario. Se incluye una lista de derechos mínimos de los partícipes, que en la ley derogada se encontraban dispersos o no se reconocían de forma explícita, entre los que destaca el de acudir al departamento de atención al cliente o al defensor del cliente, así como, en su caso, al Comisionado para la Defensa del Inversor.
+Las comisiones que la sociedad gestora carga a los partícipes no podrán superar los límites que como garantía de los intereses de los partícipes se fijen reglamentariamente. Podrán establecerse comisiones distintas para las diferentes clases de participaciones de un mismo fondo o compartimento. El número mínimo de partícipes será de 100, mientras que el capítulo II establece que el número de accionistas de una sociedad de inversión no podrá ser inferior a 100, en ambos casos con carácter general.
+III
+El título II recoge las disposiciones comunes básicas aplicables a todas las IIC financieras y no financieras, por las cuales deben regirse el acceso a la actividad y su ejercicio. El capítulo I comienza señalando que la Comisión Nacional del Mercado de Valores (en adelante, CNMV) será el órgano competente para autorizar el proyecto de constitución de las IIC o, en su caso, la constitución de aquellos fondos cuyo documento constitutivo no se formalice en documento público. La resolución de las solicitudes de autorización deberá producirse en todo caso antes de los cinco meses posteriores a su recepción, de forma que si se supera dicho plazo, el silencio administrativo será positivo. La forma jurídica de las sociedades de inversión justifica la inclusión de elementos diferenciales adicionales en el régimen de acceso y ejercicio de la actividad. La solicitud de autorización podrá denegarse, además de por incumplimiento de los requisitos legales y reglamentarios, cuando existan elementos que dificulten el ejercicio efectivo de las funciones de supervisión. Las sociedades de inversión deberán contar con una buena organización administrativa y contable, administradores o directivos con una reconocida honorabilidad empresarial o profesional, una mayoría de miembros del consejo de administración con conocimientos y experiencia adecuados, así como con un reglamento interno de conducta. Asimismo, deberán designar una sociedad gestora si su capital mínimo no supera los 300.000 euros. También se regulan en este capítulo las causas de suspensión y revocación de la autorización y la reserva de actividad y denominación de las IIC. Como novedad se incorpora en la ley la regulación de la comercialización transfronteriza de las acciones y participaciones de IIC, contemplando un régimen especial para la comercialización en España de las acciones y participaciones de IIC extranjeras (distinguiendo según sean bien armonizadas o bien, no armonizadas y de Estados no miembros de la Unión Europea) y, porotro lado, el procedimiento aplicable para la comercialización de las IIC españolas armonizadas en el resto de países de la Unión Europea. El capítulo III contiene las disposiciones necesarias para hacer efectivo el principio de transparencia. Se establece el contenido mínimo, la periodicidad y la forma de difusión de los folletos completo y simplificado y de los informes anual, semestral y trimestral. La información de estos documentos informativos deberá complementarse con la elaboración y auditoría de los estados contables y con la difusión de los hechos relevantes y de las participaciones significativas en el capital o el patrimonio de una IIC. El capítulo IV fija los tres principios rectores de la política de inversión: la liquidez, la diversificación del riesgo y la transparencia. Estos principios generales se completan con otras disposiciones de la ley aplicables a cada clase de IIC y deberán desarrollarse reglamentariamente en función de la naturaleza de la Institución, de los partícipes o accionistas y de los activos en los que invierta. El título II se completa con un capítulo V dedicado a la disolución, liquidación, transformación, fusión y escisión de IIC. Cabe destacar dos aspectos de la nueva regulación; por un lado, se permite la fusión entre IIC de distinta forma jurídica siempre que pertenezcan a la misma clase y que la misma se realice por absorción. Por otro lado, se regula el traspaso de participaciones o acciones de IIC, definiendo el procedimiento para que los partícipes o accionistas puedan traspasar sus inversiones de una IIC a otra beneficiándose del régimen de diferimiento de la tributación en el IRPF, introducido por la Ley 46/2002, de 18 de diciembre, de reforma parcial del Impuesto sobre la Renta de las Personas Físicas y por la que se modifican las leyes de los Impuestos sobre Sociedades y sobre la Renta de no Residentes.
+IV
+El título III desarrolla las especialidades del régimen general de ejercicio de la actividad contenido en el título II para las dos clases de IIC contempladas: financieras y no financieras. Las IIC financieras son aquellas que invierten en activos e instrumentos financieros, y sólo pueden adoptar la forma de fondo de inversión o de sociedad de inversión de capital variable (SICAV), pues la ley suprime la figura de las sociedades de capital fijo que estableció la ley anterior. Estas IIC podrán invertir en toda clase de activos e instrumentos financieros, incluyendo instrumentos derivados, acciones y participaciones de otras IIC y valores no cotizados, eliminando así las restricciones a la gama de activos aptos para la inversión que figuraban en el texto anterior. La CNMV establecerá categorías de IIC en función de su vocación inversora y las IIC deberán facilitar la información sobre su propia vocación a los partícipes y accionistas, así como incorporar en sus estatutos o reglamentos los elementos básicos de su política de inversión. Las IIC financieras no podrán, con carácter general, invertir más del cinco por ciento o del 15 por ciento del activo en valores emitidos por un mismo emisor o por entidades de un mismo grupo, respectivamente, para asegurar el principio de diversificación del riesgo. Este porcentaje de diversificación podrá acompañarse de otro porcentaje que limite el volumen de activos propiedad de la IIC respecto al total de valores en circulación de un mismo emisor. El régimen de funcionamiento de las sociedades de inversión de capital variable se basará en el aumento o disminución de su capital dentro de los límites máximo y mínimo fijados en los estatutos, mediante la venta o adquisición por parte de la sociedad de sus propias acciones al valor liquidativo, sin necesidad de acuerdo de la Junta General. Se suprime la obligación de negociación en bolsa que preveía la ley anterior, que queda como una de las opciones posibles para dar liquidez a las acciones de las SICAV. Dentro de la clase de IIC no financieras la ley distingue las IIC inmobiliaria y las IIC no financieras no tipificadas. El objeto principal de las IIC inmobiliaria es la inversión en bienes inmuebles de naturaleza urbana para su arrendamiento y su política de inversión deberá respetar un coeficiente de liquidez y dos coeficientes de diversificación del riesgo. Para atender a la naturaleza menos líquida de su activo, los fondos de inversión inmobiliaria (FII) podrán limitar la suscripción y reembolso de las participaciones a una vez al año.
+Las IIC no financieras no tipificadas serán aquellas que puedan crearse en el futuro con un objeto diferente al de las IIC inmobiliaria y les será aplicable el régimen común previsto en el título II.
+V
+El título IV tiene por objeto fijar el régimen de actuación de las Sociedades Gestoras de Instituciones de Inversión Colectiva, ampliando notablemente las escasas disposiciones previstas en la ley anterior y otorgando soporte legal al funcionamiento efectivo del pasaporte comunitario. Una novedad sobresaliente reside en la ampliación del ámbito de actividad de las sociedades gestoras, que podrán ser autorizadas para realizar gestión discrecional e individualizada de carteras, incluidas las pertenecientes a fondos de pensiones, así como administración, gestión y comercialización de fondos de capital riesgo, esto último de conformidad con lo establecido en la Ley 1/1999, de 5 de enero, Reguladora de las Entidades de Capital Riesgo y de sus Sociedades Gestoras. También se prevé la posibilidad de delegación en terceras entidades de la gestión de los activos, que no conllevará la delegación de la responsabilidad. La autorización de las sociedades gestoras corresponde al Ministro de Economía. Entre las condiciones de ejercicio de la actividad de las sociedades gestoras que regula la ley destacan un régimen de comunicación de participaciones significativas similar al establecido en la Ley del Mercado de Valores para las empresas de servicios de inversión y la definición clara y exhaustiva de sus funciones. Una de las más importantes es la de informar a los partícipes o accionistas sobre la política de ejercicio de los derechos políticos asociados a los valores que integren la cartera del fondo, que podrá acompañarse, en los supuestos en los que la estabilidad y relevancia de la participación así lo aconsejen, de la obligación de ejercer de forma efectiva dichos derechos. Se incorpora una regulación específica de la actuación transfronteriza de las sociedades gestoras, estableciéndose el procedimiento para que una sociedad gestora autorizada en España pueda desarrollar su actividad en cualquier Estado miembro de la Unión Europea mediante el establecimiento de una sucursal o en régimen de libre prestación de servicios. De forma recíproca, las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea podrán ejercer su actividad en España sin necesidad de autorización previa, una vez que la CNMV haya recibido la comunicación correspondiente del supervisor del Estado de origen.
+VI
+El título V regula la actividad del depositario, definida como la entidad a la que se encomienda la custodia de los activos de las IIC y la vigilancia de la gestión de las sociedades gestoras. Podrán ser depositarios las entidades de crédito y las agencias y sociedades de valores, siempre que sean participantes, directa o indirectamente, en los sistemas de registro, compensación y liquidación de los distintos mercados en los que vayan a operar. Los depositarios deberán obtener una autorización de la CNMV, inscribirse en el correspondiente registro y cumplir las obligaciones que establece la ley, actuando siempre de manera independiente y en interés de los partícipes.
+VII
+El título VI regula las normas de conducta, la supervisión, la intervención y sustitución, así como el régimen sancionador. Se somete a las sociedades gestoras, los depositarios, las sociedades de inversión que no encomienden su gestión integral a una sociedad gestora, así como quienes ostenten cargos de administración y dirección en ellas al régimen de normas de conducta establecido en la Ley del Mercado de Valores. Este régimen se completa con la regulación de dos tipos de normas de conducta específicos para prevenir los conflictos de interés que pueden perjudicar a los partícipes o accionistas: a) en las operaciones vinculadas, realizadas entre la sociedad gestora, la sociedad de inversión, el depositario y sus administradores y directores, se obliga a la sociedad gestora a establecer un procedimiento de control interno de dichas operaciones y a informar de su realización en los documentos informativos correspondientes; b) la separación del depositario, que obliga a que, en los casos en los que el depositario de una IIC pertenezca al mismo grupo que la sociedad gestora o que la sociedad de inversión, la sociedad gestora o, en su caso, la sociedad de inversión cuente con un procedimiento interno específico para prevenir conflictos de interés. El cumplimiento de los requisitos necesarios para garantizar la independencia se encomendará a una comisión independiente en el seno de la sociedad gestora o de la sociedad de inversión, que deberá elaborar un informe al respecto. Las competencias de supervisión e inspección se atribuyen a la CNMV, que deberá ejercerlas sobre los sujetos sometidos a las disposiciones de la ley y sobre quienes realicen operaciones propias de dichos sujetos, en particular a los efectos de comprobar si infringen las reservas de actividad y denominación de las IIC y sus sociedades gestoras. La ley otorga a la CNMV la facultad de acordar la intervención de la sociedad gestora o de la sociedad de inversión, la sustitución provisional de sus órganos de administración o dirección o la sustitución de la sociedad gestora, dando cuenta razonada al Ministro de Economía, cuando las IIC o las sociedades gestoras de Instituciones de Inversión Colectiva (en adelante, SGIIC) se encuentren en situación de excepcional gravedad que ponga en grave peligro su equilibrio patrimonial o que afecte a la estabilidad del sistema financiero o al interés general, así como cuando la verdadera situación de dichas entidades no pueda deducirse de su contabilidad. Por último, se revisa el régimen sancionador, adecuándolo con los principios básicos que rigen en otros sectores de la actividad financiera. Las infracciones se dividen en tres categorías: a) leves; b) graves, en las que la competencia para la imposición de la sanción corresponderá a la CNMV y c) muy graves, en las que el órgano competente para la imposición de la sanción será el Ministro de Economía. La imposición de la sanción de revocación de la autorización corresponderá al Consejo de Ministros.
+En suma, en muchos casos se trata de ampliar, sistematizar y completar las medidas ya previstas en la Ley 46/1984, introduciendo en el marco legal de la inversión colectiva los elementos más avanzados que configuran un régimen moderno y eficaz de protección al inversor, que ya rige para el resto de los sectores financieros.
+VIII
+Finalmente se incluye en las disposiciones finales primera, segunda y tercera el régimen fiscal aplicable a las Instituciones de Inversión Colectiva.
+La disposición final primera incorpora los beneficios fiscales de las Instituciones de Inversión Colectiva respecto del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados en la propia ley de dicho impuesto, habiendo estado hasta ahora regulados en la normativa financiera. Se sigue así el criterio de que el régimen fiscal de las Instituciones de Inversión Colectiva se regule en las propias leyes de los impuestos correspondientes, tal y como se ha llevado a cabo en los Impuestos sobre Sociedades y sobre la Renta de las Personas Físicas.
+Las disposiciones finales segunda y tercera incluyen en la Ley del Impuesto sobre Sociedades el régimen aplicable a las Instituciones de Inversión Colectiva. Estas disposiciones mantienen el régimen vigente, si bien precisan un número mínimo de accionistas y partícipes con el que han de contar dichas Instituciones de Inversión Colectiva para beneficiarse del trato fiscal favorable, ya que dicho tratamiento está ligado, entre otras circunstancias, al carácter colectivo de la inversión, que desaparecería con un número reducido de accionistas o partícipes.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Concepto, forma y clases.
+1. Son Instituciones de Inversión Colectiva (IIC, en adelante) aquellas que tienen por objeto la captación de fondos, bienes o derechos del público para gestionarlos e invertirlos en bienes, derechos, valores u otros instrumentos, financieros o no, siempre que el rendimiento del inversor se establezca en función de los resultados colectivos.
+Aquellas actividades cuyo objeto sea distinto del descrito en el párrafo anterior no tendrán el carácter de inversión colectiva. Asimismo aquellas entidades que no satisfagan los requisitos establecidos en esta ley no podrán constituirse como IIC.
+2. Las IIC revestirán la forma de sociedad de inversión o fondo de inversión.
+3. Las IIC podrán ser de carácter financiero o no financiero, en los términos establecidos en el título III de esta ley.
+
+### Artículo 2
+
+Artículo 2. Ámbito.
+1. Esta Ley será de aplicación:
+a) A las IIC que tengan en España su domicilio social en el caso de sociedades de inversión, o que se hayan autorizado en España, en el caso de fondos.
+b) A las IIC autorizadas en otro Estado miembro de la Unión Europea, de acuerdo con la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, por la que se coordinan las disposiciones legales, reglamentarias y administrativas sobre determinados organismos de inversión colectiva en valores mobiliarios, y que se comercialicen en España. En este caso, sólo les serán aplicables en su actuación en España las normas a que se refiere el artículo 15.
+c) A las IIC constituidas en otro Estado miembro de la Unión Europea, gestionadas por sociedades gestoras autorizadas en un Estado miembro al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, relativa a los gestores de fondos de inversión alternativos y por la que se modifican las Directivas 2003/41/CE y 2009/65/CE y los Reglamentos (CE) n.º 1060/2009 y (UE) n.º 1095/2010, cuando se comercialicen en España a inversores profesionales. En este caso, sólo les serán aplicables en su actuación en España las normas a las que se refiere el artículo 15 bis.
+d) A las IIC constituidas en terceros Estados gestionadas por gestoras autorizadas en un Estado miembro al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, cuando se comercialicen en España a inversores profesionales. En este caso, sólo les serán aplicables en su actuación en España las normas a las que se refiere el artículo 15 ter.
+e) A las IIC gestionadas por sociedades gestoras no domiciliadas en la Unión Europea cuando se comercialicen en España a inversores profesionales. En este caso, sólo les serán aplicables en su actuación en España las normas a las que se refiere el artículo 15 quáter.
+f) A las IIC señaladas en las letras c), d) y e) anteriores cuando se comercialicen en España a inversores no profesionales. En este caso, sólo les serán aplicables en su actuación en España las normas a las que se refiere el artículo 15 quinquies. Reglamentariamente podrá delimitarse los tipos de IIC que pueden comercializarse a no profesionales.
+En cualquier caso, las letras b), c), d), e) y f) anteriores sólo serán de aplicación a las IIC de tipo abierto y a aquellas asimilables a las previstas en el artículo 37 de esta Ley y en sus normas de desarrollo. En ningún caso resultará de aplicación a estas IIC el artículo 30 bis de la Ley 24/1988, de 24 de julio, del Mercado de Valores. A tales efectos, se entenderá por IIC de tipo abierto aquella cuyo objeto sea la inversión colectiva de los fondos captados entre el público y cuyo funcionamiento esté sometido al principio del reparto de riesgos, y cuyas unidades, a petición del tenedor, sean recompradas o reembolsadas, directa o indirectamente, con cargo a los activos de estas instituciones. La acción realizada por una IIC para asegurar que el valor de mercado de sus acciones o participaciones en un mercado secundario oficial o en cualquier otro mercado regulado o sistema multilateral de negociación domiciliado en la Unión Europea no se desvíe sensiblemente de su valor liquidativo se entenderá como equivalente a estas recompras o reembolsos.
+A los efectos de lo dispuesto en esta Ley, se entenderá por comercialización de una Institución de Inversión Colectiva la captación mediante actividad publicitaria, por cuenta de la Institución de Inversión Colectiva o cualquier entidad que actúe en su nombre o en el de uno de sus comercializadores, de clientes para su aportación a la Institución de Inversión Colectiva de fondos, bienes o derechos.
+A estos efectos, se entenderá por actividad publicitaria toda forma de comunicación dirigida a potenciales inversores con el fin de promover, directamente o a través de terceros que actúen por cuenta de la Institución de Inversión Colectiva o de la sociedad gestora de Institución de Inversión Colectiva, la suscripción o la adquisición de participaciones o acciones de Institución de Inversión Colectiva. En todo caso, hay actividad publicitaria cuando el medio empleado para dirigirse al público sea a través de llamadas telefónicas iniciadas por la Institución de Inversión Colectiva o su sociedad gestora, visitas a domicilio, cartas personalizadas, correo electrónico o cualquier otro medio telemático, que formen parte de una campaña de difusión, comercialización o promoción.
+La campaña se entenderá realizada en territorio nacional siempre que esté dirigida a inversores residentes en España. En el caso de correo electrónico o cualquier otro medio telemático, se presumirá que la oferta se dirige a inversores residentes en España cuando la Institución de Inversión Colectiva o su sociedad gestora, o cualquier persona que actúe por cuenta de éstos en el medio informático, proponga la compra o suscripción de las acciones o participaciones o facilite a los residentes en territorio español la información necesaria para apreciar las características de la emisión u oferta y adherirse a ella.
+En todo caso, las actividades de venta, enajenación, intermediación, suscripción, posterior reembolso o transmisión de las acciones, participaciones o valores representativos del capital o patrimonio de la IIC en cuestión relacionados con la comercialización de la IIC deberá realizarse a través de los intermediarios financieros, conforme a lo previsto en esta Ley y en sus disposiciones de desarrollo.
+2. Asimismo, esta ley resultará de aplicación a las sociedades gestoras a las que se refiere el título IV, a los depositarios previstos en el título V, así como a otras entidades que presten servicios a las IIC, en los términos establecidos en esta ley y sus disposiciones de desarrollo.
+Se modifica el apartado 1 por la disposición final 1.1 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifican los apartados 1, letras a), b) y c) y 2 por el art. único.1 y 2 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica el apartado 1 por la disposición final 4.1 de la Ley 25/2005, de 24 de noviembre. Ref. BOE-A-2005-19412
+
+### Artículo 2 bis
+
+Artículo 2 bis. Precomercialización en el ámbito de la Unión Europea de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea gestionadas por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, en el ámbito de la Unión Europea.
+1. Se entiende por precomercialización el suministro de información o la comunicación, directa o indirecta, sobre estrategias de inversión o ideas de inversión por parte de una sociedad gestora autorizada en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, de la UE, o realizada en su nombre a potenciales inversores profesionales domiciliados o registrados en la Unión, a fin de comprobar su interés por una IIC distinta a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, o un compartimento aún no establecido o ya establecido pero cuya comercialización todavía no se haya notificado, en el Estado miembro en el que los inversores potenciales estén domiciliados o tengan su domicilio social, y que en cada caso no sea equivalente a una oferta o colocación al potencial inversor para invertir en las participaciones o acciones de dicha IIC o compartimento.
+2. Las SGIIC españolas autorizadas al amparo de esta Ley podrán realizar actividades de precomercialización en el ámbito de la Unión Europea de las acciones o participaciones de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, excepto cuando la información presentada a los posibles inversores profesionales:
+a) sea suficiente como para permitir a los inversores comprometerse a adquirir participaciones o acciones de una determinada IIC;
+b) sea equivalente a formularios de suscripción o documentos similares, ya sea en forma de borrador o en versión definitiva, o
+c) sea equivalente a documentos constitutivos, un folleto o documentos de oferta de una IIC todavía no establecido en su versión definitiva.
+Cuando se facilite un borrador de folleto o de documentos de oferta, no contendrán información suficiente que permita a los inversores adoptar una decisión de inversión, e indicarán claramente que:
+a) no constituyen una oferta o una invitación de suscripción de participaciones o acciones de una IIC, y
+b) la información allí mostrada no es fiable porque está incompleta y puede estar sujeta a cambios.
+Las sociedades gestoras no estarán obligadas, antes de llevar a cabo actividades de precomercialización, a notificar a la CNMV el contenido o los destinatarios de la precomercialización o a cumplir otras condiciones o requisitos distintos a los establecidos en el presente artículo.
+3. Las sociedades gestoras velarán por que los inversores no adquieran participaciones o acciones en una IIC a través de precomercialización y porque los inversores contactados en el marco de la precomercialización solo puedan adquirir participaciones o acciones en dicha IIC a través de la comercialización permitida con arreglo a la presente ley.
+Toda suscripción por parte de inversores profesionales, en un plazo de dieciocho meses después de que una sociedad gestora haya comenzado la precomercialización, de participaciones o acciones de una IIC mencionada en la información proporcionada en el contexto de la precomercialización, o de una IIC establecida como resultado de la precomercialización, se considerará como el resultado de una comercialización y estará sujeta a los procedimientos de notificación aplicables a la comercialización.
+Las sociedades gestoras enviarán a la CNMV, en el plazo de dos semanas tras haber comenzado la precomercialización, una carta informal, en papel o por medios electrónicos. En dicha carta se especificarán los Estados miembros donde se haya realizado la precomercialización y los períodos durante los cuales esté teniendo o haya tenido lugar la precomercialización, se hará una descripción sucinta de la precomercialización que incluya información sobre las estrategias de inversión presentadas y, si procede, una lista de las IIC y los compartimentos de IIC que fueron objeto de precomercialización. La CNMV informará sin demora a las autoridades competentes de los Estados miembros en los que la sociedad gestora lleve o haya llevado a cabo la precomercialización. Las autoridades competentes del Estado miembro en el que esté teniendo o haya tenido lugar la precomercialización podrán solicitar a la CNMV que faciliten información suplementaria sobre la precomercialización que esté teniendo o haya tenido lugar en su territorio.
+4. Un tercero solo podrá participar en la precomercialización en nombre de la sociedad gestora cuando esté autorizado como empresa de servicios de inversión con arreglo a la Directiva 2014/65/UE del Parlamento Europeo y del Consejo, como una entidad de crédito con arreglo a la Directiva 2013/36/UE del Parlamento Europeo y del Consejo, como una sociedad de gestión de OICVM con arreglo a la Directiva 2009/65/CE, como una sociedad gestora con arreglo a la presente ley o cuando actúe como un agente vinculado con arreglo a la Directiva 2014/65/UE. Dicho tercero estará sujeto a las condiciones establecidas en el presente artículo.
+5. Las sociedades gestoras se asegurarán de que la precomercialización esté suficientemente documentada.
+Se añade por el art. 62.1 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+
+## TÍTULO I
+
+Forma jurídica de las Instituciones de Inversión Colectiva
+
+## CAPÍTULO I
+
+Fondos de inversión
+
+### Artículo 3
+
+Artículo 3. Concepto.
+1. Los fondos de inversión son IIC configuradas como patrimonios separados sin personalidad jurídica, pertenecientes a una pluralidad de inversores, incluidos entre ellos otras IIC, cuya gestión y representación corresponde a una sociedad gestora, que ejerce las facultades de dominio sin ser propietaria del fondo, con el concurso de un depositario, y cuyo objeto es la captación de fondos, bienes o derechos del público para gestionarlos e invertirlos en bienes, derechos, valores u otros instrumentos, financieros o no, siempre que el rendimiento del inversor se establezca en función de los resultados colectivos.
+2. Podrán crearse fondos de inversión por compartimentos en los que bajo un único contrato constitutivo y reglamento de gestión se agrupen dos o más compartimentos, debiendo quedar reflejada esta circunstancia expresamente en dichos documentos. Cada compartimento recibirá una denominación específica en la que necesariamente deberá incluirse la denominación del fondo. Cada compartimento dará lugar a la emisión de sus propias participaciones, que podrán ser de diferentes clases, representativas de la parte del patrimonio del fondo que les sea atribuido. La parte del patrimonio del fondo que le sea atribuido a cada compartimento responderá exclusivamente de los costes, gastos y demás obligaciones expresamente atribuidas a ese compartimento y de los costes, gastos y obligaciones que no hayan sido atribuidas expresamente a un compartimento en la parte proporcional que se establezca en el reglamento del fondo. A los compartimentos les serán individualmente aplicables todas las previsiones de esta ley con las especificidades que se establezcan reglamentariamente en lo referido, entre otros, al número mínimo de partícipes, patrimonio mínimo y requisitos de distribución del mismo entre los partícipes.
+
+### Artículo 4
+
+Artículo 4. Constitución.
+El fondo se constituirá, una vez obtenida la preceptiva autorización, mediante una o varias aportaciones iniciales, lo que quedará documentado en un contrato entre la sociedad gestora y un depositario que podrá formalizarse en escritura pública. El contenido mínimo del contrato se fijará reglamentariamente.
+La sociedad gestora y el depositario podrán ser autorizados, antes de la constitución del fondo, para llevar a cabo una suscripción pública de participaciones.
+
+### Artículo 5
+
+Artículo 5. Concepto, derechos y número mínimo de partícipes.
+1. La condición de partícipe se adquiere mediante la realización de la aportación al patrimonio común.
+2. Los fondos de inversión no constituidos por los procedimientos de fundación sucesiva y de suscripción pública de participaciones dispondrán de un plazo de un año, contado a partir de su inscripción en el correspondiente registro administrativo, para alcanzar el número mínimo de partícipes que se establece en el apartado 4 del presente artículo y el patrimonio mínimo que se establezca de acuerdo con lo establecido en el artículo 11 de esta ley.
+3. La condición de partícipe confiere los derechos reconocidos en esta ley, en su normativa de desarrollo y en el reglamento de gestión del fondo, y serán, como mínimo, los siguientes:
+a) Solicitar y obtener el reembolso del valor de sus participaciones. Este derecho se ejercerá sin deducción de comisión o gasto alguno en los supuestos establecidos en el artículo 12.2 de esta ley.
+b) Solicitar y obtener el traspaso de sus inversiones entre IIC, en los términos establecidos en el artículo 28 de esta ley.
+c) Obtener información completa, veraz, precisa y permanente sobre el fondo, el valor de las participaciones así como la posición del partícipe en el fondo.
+d) Exigir responsabilidades a la sociedad gestora y al depositario por el incumplimiento de sus obligaciones legales y reglamentarias.
+e) Acudir al departamento de atención al cliente o al defensor del cliente, así como, en su caso, al Comisionado para la Defensa del Inversor en los términos establecidos en el artículo 48 de esta ley y en los artículos 22 y siguientes de la Ley 44/2002, de 22 de noviembre, de Medidas para la Reforma del Sistema Financiero.
+4. Número de partícipes en un fondo de inversión no podrá ser inferior a 100. Reglamentariamente podrá disponerse un umbral distinto, atendiendo a los distintos tipos de activos en los que la IIC materialice sus inversiones, a la naturaleza de los partícipes o a la liquidez del fondo. Asimismo, reglamentariamente podrán establecerse requisitos adicionales de distribución del patrimonio entre los partícipes.
+
+### Artículo 6
+
+Artículo 6. Patrimonio.
+El patrimonio de los fondos de inversión se constituirá con las aportaciones de los partícipes y sus rendimientos.
+Los partícipes no responderán por las deudas del fondo sino hasta el límite de lo aportado.
+El patrimonio de los fondos de inversión no responderá por las deudas de los partícipes, sociedades gestoras o depositarios.
+
+### Artículo 7
+
+Artículo 7. Participación.
+1. La participación es cada una de las partes alícuotas en que se divide el patrimonio de un fondo. Las participaciones no tendrán valor nominal, tendrán la condición de instrumentos financieros y podrán representarse mediante certificados nominativos, anotaciones en cuenta o sistemas basados en tecnología de registros distribuidos. Dentro de un mismo fondo, o en su caso, de un mismo compartimento, podrán existir distintas clases de participaciones que se podrán diferenciar, entre otros aspectos, por la divisa de denominación, por la política de distribución de resultados o por las comisiones que les sean aplicables. Cada clase de participaciones recibirá una denominación específica, que irá precedida de la denominación del fondo y, en su caso, del compartimento.
+2. El valor liquidativo de cada clase de participación será el que resulte de dividir el valor de la parte del patrimonio del fondo que corresponda a dicha clase por el número de participaciones de esa clase en circulación. A los efectos de suscripción y reembolso, se calculará y se hará público por el medio de difusión que se determine reglamentariamente, con la periodicidad que se establezca, en función de las distintas políticas de inversión, de la naturaleza de los partícipes y de liquidez del fondo.
+3. Las participaciones se emitirán y reembolsarán por la sociedad gestora a solicitud de cualquier partícipe, en los términos que se establezcan reglamentariamente.
+No obstante, la Comisión Nacional del Mercado de Valores (CNMV) podrá suspender temporalmente la suscripción o reembolso de participaciones cuando no sea posible la determinación de su precio o concurra otra causa de fuerza mayor.
+4. Con carácter general, las suscripciones y reembolsos de fondos de inversión deberán realizarse en efectivo. No obstante, excepcionalmente cuando así se prevea reglamentariamente y en el reglamento de gestión, las suscripciones y reembolsos podrán efectuarse mediante entrega de bienes, valores o derechos aptos para la inversión, adecuados a la vocación inversora del fondo.
+Se modifica por la disposición final 4.1 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica el apartado 1 por el art. único.3 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 8
+
+Artículo 8. Comisiones.
+Las sociedades gestoras y los depositarios podrán percibir de los fondos comisiones de gestión y de depósito, respectivamente, y las sociedades gestoras de los partícipes, comisiones de suscripción y reembolso; igualmente, podrán establecerse descuentos de suscripción y reembolso a favor de los propios fondos. Dichas comisiones que se fijarán como un porcentaje sobre el patrimonio o rendimiento del fondo, o bien sobre una combinación de ambas variables, o en su caso, sobre el valor liquidativo de la participación, no podrán exceder de los límites que, como garantía de los intereses de los partícipes y en función de la naturaleza del fondo y del plazo de vencimiento de las inversiones, se establezcan reglamentariamente. En el folleto, y en el documento con los datos fundamentales para el inversor, se deberán recoger la forma de cálculo y el límite máximo de las comisiones, las comisiones efectivamente cobradas y la entidad beneficiaria de su cobro.
+Se podrán aplicar distintas comisiones a las distintas clases de participaciones emitidas por un mismo fondo. En cualquier caso, se aplicarán las mismas comisiones de gestión y depositario a todas las participaciones de una misma clase.
+Se modifica por la disposición final 4.2 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica por el art. único.4 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## CAPÍTULO II
+
+Sociedades de inversión
+
+### Artículo 9
+
+Artículo 9. Concepto y número mínimo de accionistas.
+1. Las sociedades de inversión son aquellas IIC que adoptan la forma de sociedad anónima y cuyo objeto social es el descrito en el artículo 1 de esta ley.
+Podrán crearse sociedades de inversión por compartimentos en los que bajo un único contrato constitutivo y estatutos sociales se agrupen dos o más compartimentos, debiendo quedar reflejada esta circunstancia expresamente en dichos documentos. La parte del capital de la sociedad correspondiente a cada compartimento responderá exclusivamente de los costes, gastos y obligaciones atribuidos expresamente a un compartimento y de los costes, gastos y obligaciones que no hayan sido atribuidos expresamente a un compartimento, en la parte proporcional que se establezca en los estatutos sociales. Cada compartimento recibirá una denominación específica en la que necesariamente deberá incluirse la denominación de la sociedad de inversión. Cada compartimento dará lugar a la emisión de acciones o de diferentes series de acciones, representativas de la parte del capital social que les sea atribuida. A los compartimentos les serán individualmente aplicables todas las previsiones de esta ley con las especificidades que se establezcan reglamentariamente en lo referido, entre otros, al número mínimo de accionistas, capital social mínimo y requisitos de distribución del mismo entre los accionistas.
+2. Las sociedades de inversión se regirán por lo establecido en esta ley y, en lo no previsto en ella, por lo dispuesto en el texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio (en adelante, la Ley de Sociedades de Capital) y la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles.
+3. El capital de las sociedades de inversión habrá de estar íntegramente suscrito y desembolsado desde su constitución, y se representará mediante acciones. Podrán emitirse diferentes series de acciones que se podrán diferenciar, entre otros aspectos, por la divisa de denominación, por la política de distribución de resultados o por las comisiones que les sean aplicables. Las acciones pertenecientes a una misma serie tendrán igual valor nominal y conferirán los mismos derechos. Asimismo, cada una de estas series recibirá una denominación específica, que irá precedida de la denominación de la sociedad y, en su caso, del compartimento. Dichas acciones podrán estar representadas mediante títulos nominativos, anotaciones en cuenta o sistemas basados en tecnología de registros distribuidos.
+4. El número de accionistas de las sociedades de inversión no podrá ser inferior a 100. Reglamentariamente podrá disponerse un umbral distinto, atendiendo a los distintos tipos de activos en que la sociedad materialice sus inversiones, a la naturaleza de los accionistas o a la liquidez de la sociedad. Asimismo, reglamentariamente podrán establecerse requisitos adicionales de distribución del capital social entre los accionistas.
+Las sociedades no constituidas por los procedimientos de fundación sucesiva y de suscripción pública de participaciones dispondrán de un plazo de un año, contado a partir de su inscripción en el correspondiente registro administrativo, para alcanzar la cifra mínima prevista en el párrafo anterior.
+Se modifica por la disposición final 4.3 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifiican los apartados 2 y 3 por el art. único.5 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## TÍTULO II
+
+Disposiciones comunes
+
+## CAPÍTULO I
+
+Condiciones de acceso y ejercicio de la actividad
+
+### Artículo 10
+
+Artículo 10. Autorización y registro.
+1. Corresponderá a la CNMV autorizar el proyecto de constitución de las sociedades y fondos de inversión.
+2. La solicitud de autorización deberá incorporar, en todo caso, una memoria, la acreditación de la honorabilidad y de la profesionalidad, en los términos señalados en esta Ley, de quienes desempeñen cargos de administración y dirección de la IIC, y en general, cuantos datos, informes o antecedentes se consideren oportunos para verificar el cumplimiento de las condiciones y requisitos establecidos en este artículo. Asimismo, dicha solicitud deberá incorporar, en el caso de los fondos de inversión, el folleto y el documento con los datos fundamentales para el inversor a los que hace referencia el artículo 17 de esta ley y, en el caso de las sociedades que no hayan designado sociedad de gestión, una memoria de actividad en la que aparezca la estructura organizativa. En el caso de los fondos, la solicitud deberá incorporar el reglamento de gestión del mismo, y, en el caso de las sociedades, los estatutos sociales.
+La Comisión Nacional del Mercado de Valores (en adelante, CNMV) establecerá los modelos normalizados de toda la documentación a que se refiere el presente apartado.
+3. En el caso de fondos de inversión y de sociedades de inversión que hayan designado una sociedad gestora, la autorización de la CNMV deberá notificarse dentro de los dos meses siguientes a la recepción de la solicitud, o al momento en que se complete la documentación exigible.
+En el caso de sociedades de inversión que no hayan designado una sociedad gestora, la autorización de la CNMV deberá notificarse dentro de los tres meses siguientes a la recepción de la solicitud, o al momento en que se complete la documentación exigible. Si transcurren cinco meses sin que se dicte resolución expresa, podrá entenderse estimada la solicitud por silencio administrativo, con los efectos previstos en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. La CNMV sólo podrá denegar, mediante resolución motivada, la autorización de creación de una IIC cuando no se cumplan los requisitos legales y reglamentarios. En el caso de las sociedades de inversión también podrá ser denegada la autorización en los siguientes supuestos:
+a) La falta de transparencia en la estructura del grupo al que eventualmente pueda pertenecer la entidad,
+b) en el caso de sociedades que no hayan designado una sociedad gestora, cuando mantenga vínculos estrechos con otras entidades que no permitan un ejercicio adecuado y efectivo de las funciones de supervisión a cargo de la CNMV,
+c) cuando se deduzca que pueden existir graves dificultades para inspeccionarla u obtener la información que la CNMV estime necesaria para el adecuado desarrollo de sus funciones supervisoras,
+d) cuando las disposiciones legales, reglamentarias o administrativas de un Estado no miembro de la Unión Europea por las que se rijan las personas físicas o jurídicas con las que la sociedad de inversión mantenga vínculos estrechos, o las dificultades que suponga su aplicación, impidan el ejercicio efectivo de las referidas funciones de supervisión.
+A los efectos de lo dispuesto en esta Ley, se entenderá que existen vínculos estrechos cuando dos o más personas físicas o jurídicas estén unidas mediante:
+1.º un vínculo de control, en los términos previstos en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores (en adelante, la Ley del Mercado de Valores),
+2.º el hecho de poseer, de manera directa o indirecta, o mediante un vínculo de control, el 20 por ciento o más del capital o de los derechos de voto de una empresa o entidad.
+En el caso de que la sociedad gestora esté autorizada en otro Estado miembro de la Unión Europea en virtud de la Directiva 2009/65/CE, la autorización para la creación de una IIC en España sólo podrá ser denegada en los siguientes supuestos:
+a) Cuando la sociedad gestora no respete lo previsto en los dos primeros párrafos del artículo 55.2.bis.
+b) Cuando la sociedad gestora no esté autorizada por las autoridades competentes de su Estado miembro de origen a gestionar IIC del tipo para el que solicita la autorización.
+c) Cuando la sociedad gestora no haya facilitado la documentación a que se refiere el artículo 11.4.
+Antes de rechazar una solicitud, la CNMV consultará a las autoridades competentes del Estado miembro de origen de la sociedad gestora.
+La CNMV informará anualmente a la Comisión Europea y a la Autoridad Europea de Valores y Mercados del número y naturaleza de estas denegaciones.
+5. Las resoluciones dictadas por la CNMV en el ejercicio de las potestades administrativas previstas en la presente ley, con excepción de lo dispuesto en los artículos 72 y 94, pondrán fin a la vía administrativa y podrán ser recurridas en vía contencioso-administrativa.
+6. Las IIC no podrán dar comienzo a su actividad hasta que no se hayan inscrito en el registro administrativo de la CNMV y se haya procedido al registro del folleto informativo correspondiente a la Institución y del documento con los datos fundamentales para el inversor. La inscripción de los fondos de inversión en el Registro Mercantil será potestativa.
+Se modifican los apartados 2, 3, 4 y 6 por el art. único.6 a 9 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 11
+
+Artículo 11. Requisitos de acceso y ejercicio de la actividad.
+1. Serán requisitos necesarios para obtener y conservar la autorización:
+a) Constituirse como sociedad anónima o como fondo de inversión.
+b) Limitar su objeto social a las actividades establecidas en esta Ley.
+c) Disponer del capital social o patrimonio mínimos en el plazo y cuantía que reglamentariamente se determinen.
+d) Contar con los accionistas o partícipes en el plazo y número legalmente exigible.
+e) En el caso de los fondos de inversión, designar una sociedad gestora que cumpla lo previsto en el artículo 43.1.c) si es una SGIIC autorizada en España, o que cumpla lo previsto en el apartado 4 de este si es una sociedad gestora autorizada en otro Estado miembro de la Unión Europea en virtud de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, o de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+En el caso de las sociedades de inversión, si el capital social inicial mínimo no supera los 300.000 euros, designar una sociedad gestora en los términos previstos anteriormente.
+f) Designar un depositario con las excepciones que se prevean reglamentariamente.
+2. Tratándose de sociedades de inversión será necesario cumplir, además, los siguientes requisitos:
+a) Contar con una organización administrativa y contable, así como con procedimientos de control interno adecuados que garanticen, tanto aquellos como estos, la gestión correcta y prudente de la IIC, incluyendo procedimientos de gestión de riesgos, así como mecanismos de control y de seguridad en el ámbito informático y órganos y procedimientos para la prevención del blanqueo de capitales.
+b) Que su domicilio social, así como su efectiva administración y dirección, esté situado en territorio español.
+c) Que todos los administradores o, en su caso, los miembros de su consejo de administración, incluidas las personas físicas que representen a personas jurídicas en los consejos, así como quienes ostenten cargos de dirección en la entidad, tengan una reconocida honorabilidad empresarial o profesional.
+A los efectos de lo dispuesto en este artículo se considerará que ostentan cargos de dirección los directores generales y quienes desarrollen en la entidad funciones de alta dirección bajo la dependencia directa de su órgano de administración o de comisiones ejecutivas o consejeros delegados.
+Concurre honorabilidad en quienes hayan venido mostrando una conducta personal, comercial y profesional que no arroje dudas sobre su capacidad para desempeñar una gestión sana y prudente de la entidad. Para valorar la concurrencia de honorabilidad deberá considerarse toda la información disponible, de acuerdo con los parámetros que se determinen reglamentariamente.
+d) Que la mayoría de los miembros de su consejo de administración, o de sus comisiones ejecutivas, así como todos los consejeros delegados y directores generales y asimilados, cuenten con conocimientos y experiencia adecuados en materias relacionadas con el mercado de valores o con el objeto principal de inversión de la IIC en cuestión.
+e) Contar con un reglamento interno de conducta en los términos previstos en el Capítulo I del Título VI. El reglamento interno de conducta no deberá ser aportado a la CNMV con carácter previo a su aplicación, aunque estará a disposición de la misma siempre que este organismo lo requiera.
+Los requisitos previstos en las anteriores letras a), d) y e) no serán exigibles a las sociedades de inversión cuya gestión, administración y representación estén encomendadas a una o varias sociedades gestoras.
+En el caso de que se produzcan cambios en quienes desempeñen cargos de administración y dirección en la sociedad, los nuevos datos identificativos deberán comunicarse inmediatamente a la Comisión Nacional del Mercado de Valores, que los hará públicos a través del correspondiente registro.
+3. A los efectos de lo previsto en esta Ley, se considera que ostentan cargos de administración o dirección en una entidad sus administradores o miembros de sus órganos colegiados de administración y aquellas personas que desarrollen en la entidad, de hecho o de derecho, funciones de alta dirección bajo la dependencia directa de su órgano de administración o de comisiones ejecutivas o consejeros delegados de la misma, incluidos los apoderados que no restrinjan el ámbito de su representación a áreas o materias específicas o ajenas a la actividad que constituye el objeto de la entidad.
+4. En el caso de que la sociedad gestora esté autorizada en otro Estado miembro de la UE en virtud de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, o de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, será además necesario para obtener la autorización, facilitar a la Comisión Nacional del Mercado de Valores los siguientes documentos:
+a) El acuerdo escrito con el depositario al que se refiere el artículo 58.
+b) Información sobre las modalidades de delegación en relación con las funciones de la gestión de activos y de la administración de las IIC. La sociedad gestora notificará a la Comisión Nacional del Mercado de Valores cualquier modificación sustancial posterior de esta documentación.
+Si la sociedad gestora ya gestiona otra IIC del mismo tipo en España será suficiente la referencia a la documentación ya facilitada.
+En ningún caso la autorización de la IIC estará supeditada a que ésta sea gestionada por una sociedad gestora cuyo domicilio social se encuentre en España ni a que la sociedad gestora ejerza por sí o delegue el ejercicio de algunas actividades en España.
+5. En la medida en que sea necesario para garantizar el cumplimiento de las normas de cuya supervisión sea responsable la Comisión Nacional del Mercado de Valores, esta podrá solicitar a las autoridades competentes del Estado miembro de origen de la sociedad de gestión precisiones e información acerca de la documentación a que se refiere el apartado anterior y, sobre la base del certificado que la autoridad competente del Estado miembro de origen de la sociedad gestora debe haberle remitido, acerca de si el tipo de IIC para el que se solicita autorización entra dentro del ámbito de la autorización otorgada a la sociedad de gestión.
+Se modifica el apartado 2 por la disposición final 4.4 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica por la disposición final 1.2 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modican los apartados 1.e) y 2 y se añaden los apartados 4 y 5 por el art. único.10 a 12 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 12
+
+Artículo 12. Modificación de proyectos constitutivos, estatutos y reglamentos.
+1. Las modificaciones en el proyecto constitutivo, en los estatutos o en el reglamento de las IIC quedarán sujetas al procedimiento de autorización previa establecido en el artículo 10.
+No requerirán autorización previa, aunque deberán ser comunicadas posteriormente a la CNMV para su constancia en el registro correspondiente, las modificaciones de los estatutos sociales y de los reglamentos, que tengan por objeto:
+a) El cambio de domicilio dentro del territorio nacional así como el cambio de denominación de la sociedad gestora o del depositario.
+b) La incorporación a los reglamentos de los fondos de inversión o a los estatutos de las sociedades de inversión de preceptos legales o reglamentarios de carácter imperativo o prohibitivo, o cumplimiento de resoluciones judiciales o administrativas.
+c) Las ampliaciones de capital con cargo a reservas de las sociedades de inversión.
+d) Aquellas otras modificaciones para las que la CNMV, en contestación en consulta previa o mediante resolución o disposición de carácter general, haya considerado innecesario, por su escasa relevancia, el trámite de autorización.
+2. Toda modificación del reglamento de un fondo de inversión, después de ser autorizada por la CNMV deberá ser comunicada por la sociedad gestora de forma inmediata a los partícipes. Cuando la modificación del reglamento de gestión, folleto o documento con los datos fundamentales para el inversor afecte a la política de inversión, política de distribución de resultados, sustitución de la sociedad gestora, delegación de la gestión de la cartera en otra entidad, cambio de control de la sociedad gestora o del depositario, fusión, transformación o escisión del fondo, establecimiento o elevación de las comisiones, modificaciones en la periodicidad del cálculo del valor liquidativo, transformación en una IIC por compartimentos o en compartimentos de otras IIC, así como en los supuestos que se determinen reglamentariamente, deberá ser comunicada a los partícipes con carácter previo a su entrada en vigor. Las modificaciones que se refieran a la sustitución del depositario como consecuencia de operaciones societarias sobrevenidas o sujetas a la verificación de otros organismos, podrán inscribirse inmediatamente en la CNMV siempre que se cumpla con la obligación de la sociedad gestora de comunicar este cambio a los partícipes. En todos esos casos, siempre que exista comisión de reembolso o gastos o descuentos asociados al mismo, los partícipes tendrán derecho de separación, sin deducción de comisión ni gasto alguno, a salvo de lo que se establezca a este respecto en casos particulares.
+No obstante, no existirá derecho de separación en los casos de sustitución de la sociedad gestora o del depositario siempre que la entidad sustituta sea del mismo grupo, o en los casos de fusión o creación de una sociedad gestora o depositario del mismo grupo. En todo caso, se deberá acreditar una continuidad en la gestión en el momento de la solicitud de la autorización prevista en el párrafo anterior del presente apartado.
+El derecho de separación al que se refiere este apartado se ejercerá, en el caso de fondos de inversión cotizados, en el mercado habilitado en el folleto para la clase de partícipe que ejerce el derecho. Los partícipes soportarán los gastos ordinarios derivados de la operativa bursátil correspondiente al ejercicio de dicho derecho.
+Reglamentariamente se establecerá la fecha para el cálculo del valor liquidativo que debe aplicarse a los reembolsos, la forma en que entrarán en vigor las modificaciones y el plazo y procedimiento para la ejecución del derecho de separación que, en todo caso, garantizará la información a los partícipes y dará lugar a la actualización del reglamento de gestión y el folleto explicativo del fondo.
+Se modifica por el art. único.13 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 13
+
+Artículo 13. Revocación y suspensión de la autorización.
+1. La autorización concedida a las IIC sólo puede ser revocada por la CNMV, además de por lo dispuesto en el artículo 85 de esta ley, en los siguientes supuestos:
+a) Por el incumplimiento de los requisitos establecidos en el artículo 10.4 o en el artículo 11 de esta ley.
+No obstante, cuando por circunstancias del mercado o por el obligado cumplimiento de esta ley o de las prescripciones de la Ley de Sociedades de Capital, el patrimonio o el número de partícipes de un fondo, o el capital o el número de accionistas de una sociedad de inversión, descendieran de los mínimos establecidos reglamentariamente, dichas instituciones gozarán del plazo de un año, durante el cual podrán continuar operando como tales. Dentro de dicho plazo deberán, bien llevar a efecto la reconstitución del capital o del patrimonio y del número de accionistas o partícipes, bien renunciar a la autorización concedida o bien decidir su disolución.
+b) Si no da comienzo a las actividades específicas de su objeto social dentro de los seis meses siguientes a la fecha de inscripción en el registro especial correspondiente por causa imputable al interesado.
+c) Si renuncia de modo expreso a la autorización.
+d) Si no se inscribe en el registro correspondiente de la CNMV dentro de los seis meses siguientes a la fecha de notificación de la autorización, por causa imputable al interesado.
+e) Cuando haya obtenido la autorización por medio de declaraciones falsas u omisiones o por otro medio contrario al ordenamiento jurídico.
+f) Si durante un año el volumen de actividad es inferior al que reglamentariamente se determine.
+g) Cuando existan razones fundadas y acreditadas respecto de que la influencia ejercida por las personas que posean una participación significativa en una sociedad de inversión pueda resultar en detrimento de la gestión correcta y prudente de la misma, que dañe gravemente su situación financiera.
+h) Si se inicia respecto de la entidad un procedimiento concursal.
+i) Cuando se dé alguna de las causas de disolución forzosa previstas en el capítulo I del título X de la Ley de Sociedades de Capital.
+2. La autorización concedida a una sociedad de inversión podrá ser suspendida en los casos siguientes:
+a) Cuando se infrinjan de manera grave o sistemática las disposiciones previstas en esta ley o en el resto de normas reguladoras de las sociedades de inversión, b) Cuando existan razones fundadas y acreditadas respecto de que la influencia ejercida por las personas que posean una participación significativa en una sociedad de inversión pueda resultar en detrimento de la gestión correcta y prudente de la misma, que dañe gravemente su situación financiera.
+c) Como sanción según lo previsto en el título VI de esta ley.
+d) En los supuestos previstos en los párrafos a), b), en lo que le sea de aplicación, y c) del apartado 1 del artículo 76 de la Ley del Mercado de Valores.
+Se modifican las letras a) e i) del apartado 1 por el art. único.14 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 13 bis
+
+Artículo 13 bis. Comunicación de la revocación a otras autoridades competentes.
+Cuando la IIC lleve a cabo las actividades de comercialización transfronteriza en otro Estado miembro en virtud del artículo 16, o sea gestionada por una sociedad gestora con domicilio social en un Estado miembro de la Unión Europea distinto de España, la CNMV comunicará la revocación a que se refiere el artículo anterior a las autoridades competentes de dichos Estados miembros.
+Se añade por el art. único.15 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 14
+
+Artículo 14. Reserva de actividad y denominación.
+1. Se entenderán reservadas a las IIC las actividades definidas en el apartado 1 del artículo 1 de esta ley.
+2. La denominación "Instituciones de Inversión Colectiva" y sus siglas "IIC" y las específicas previstas en esta ley y sus normas de desarrollo serán privativas de las entidades inscritas en los registros correspondientes de la CNMV, no pudiendo ninguna otra entidad utilizar dichas denominaciones u otras que induzcan a confusión con ellas.
+El Registro Mercantil y los demás registros públicos no inscribirán a aquellas sociedades cuya actividad u objeto social o cuya denominación contradiga lo dispuesto en esta ley, so pena de nulidad de pleno derecho.
+Dicha nulidad no perjudicará los derechos de terceros adquiridos de buena fe, conforme al contenido de los correspondientes registros.
+3. Ninguna persona o entidad podrá, sin haber obtenido la preceptiva autorización y sin hallarse inscrita en los registros de la CNMV desarrollar las actividades legalmente reservadas a las IIC, ni utilizar la denominación a que se refiere el apartado 1 del presente artículo o cualquier otra expresión que induzca a confusión con ellas.
+4. Las personas o entidades que incumplan lo establecido en este artículo serán sancionadas según lo previsto en el título VI de esta ley. Si requeridas para que cesen inmediatamente en la utilización de las denominaciones o en la oferta o realización de las actividades, continuaran utilizándolas o realizándolas, serán sancionadas con multas coercitivas por importe de hasta 300.000 euros, que podrán ser reiteradas con ocasión de posteriores requerimientos.
+Será competente para la formulación de los requerimientos y para la imposición de las multas a que se refiere el párrafo anterior, la CNMV, que también podrá hacer advertencias públicas respecto de la existencia de esta conducta. Los requerimientos se formularán previa audiencia de la persona o entidad interesada y las multas se impondrán con arreglo al procedimiento previsto en esta ley.
+5. Lo dispuesto en este artículo se entiende sin perjuicio de las demás responsabilidades, incluso de orden penal, que puedan ser exigibles.
+
+## CAPÍTULO II
+
+Comercialización transfronteriza de acciones y participaciones de IIC
+
+### Artículo 15
+
+Artículo 15. Comercialización en España de las acciones y participaciones de IIC autorizadas en otro Estado miembro de la Unión Europea reguladas por la Directiva 2009/65/CE, del Parlamento Europeo y de Consejo, de 13 de julio de 2009.
+1. La comercialización en España de las acciones y participaciones de las IIC autorizadas en otro Estado miembro de la Unión Europea de acuerdo con la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, será libre con sujeción a las normas previstas en este artículo, desde que la autoridad competente del Estado miembro de origen de la IIC comunique a la IIC que ha remitido a la CNMV el escrito de notificación con información sobre las disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas, el reglamento del fondo de inversión o los documentos constitutivos de la sociedad, su folleto, el último informe anual y en su caso el informe semestral sucesivo, el documento con los datos fundamentales para el inversor y el certificado acreditativo de que la IIC cumple las condiciones impuestas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009.
+La CNMV aceptará el envío por medios electrónicos de la documentación a que se refiere el párrafo anterior.
+La CNMV no exigirá información o documentación adicional a la establecida en este artículo.
+Las IIC deberán respetar las disposiciones normativas vigentes en España que no se encuentren en el ámbito de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, así como las normas que regulan la publicidad en España. La CNMV supervisará el cumplimiento de estas obligaciones.
+El escrito de notificación incluirá asimismo los detalles necesarios, incluida la dirección, para la facturación o la comunicación de cualesquiera tasas o gravámenes reglamentarios aplicables por parte de la CNMV e información de los servicios para llevar a cabo las siguientes tareas:
+a) procesar las órdenes de suscripción, recompra y reembolso y efectuar otros pagos a los partícipes en relación con las participaciones de la IIC, de conformidad con las condiciones establecidas en la documentación exigida con arreglo a lo establecido en esta Ley y en su normativa de desarrollo.
+b) proporcionar información a los inversores sobre cómo se pueden cursar las órdenes a que se refiere la letra a) y cómo se abona el importe de la recompra y el reembolso;
+c) facilitar el tratamiento de la información y el acceso a los procedimientos y disposiciones relativos al ejercicio, por parte de los inversores, de los derechos asociados a su inversión en la IIC.
+d) poner a disposición de los inversores, a efectos de examen y de la obtención de copias, la información y la documentación que deban suministrar a los accionistas y partícipes;
+e) proporcionar a los inversores, en un soporte duradero, información pertinente respecto a las tareas que los servicios realizan, y
+f) actuar como punto de contacto para la comunicación con las autoridades competentes.
+Las IIC no estarán obligadas a tener presencia física en España o a designar un tercero para llevar a cabo estas tareas.
+La IIC velará por que los servicios para llevar a cabo estas tareas, incluidos los electrónicos, sean prestados:
+a) en castellano o en otra lengua admitida por la CNMV;
+b) por la propia IIC o bien por un tercero sujeto a la regulación y la supervisión de las tareas que deben realizarse, o por ambos.
+A efectos de la letra b), en caso de que sea un tercero el que lleve a cabo las tareas, la designación de dicho tercero se documentará en un contrato escrito, en el que se especificará cuáles de las tareas señaladas en el apartado 1 no llevará a cabo la IIC, y que el tercero recibirá de la IIC toda la información y los documentos pertinentes.
+2. La IIC a que se refiere el apartado anterior proporcionará a los inversores radicados en España toda la información y documentación que con arreglo a la legislación de su Estado miembro de origen deba proporcionar a los inversores radicados en dicho Estado. Esta información se proporcionará en la forma establecida en esta Ley y en su normativa de desarrollo.
+El documento con los datos fundamentales para el inversor y sus modificaciones deberán presentarse en castellano o en otra lengua admitida por la CNMV.
+El folleto y los informes anual y semestral y sus modificaciones deberán presentarse en castellano, en una lengua habitual en el ámbito de las finanzas internacionales o en otra lengua admitida por la CNMV.
+La traducción de la información a la que se refieren los párrafos anteriores será fiel a su original y se realizará bajo la responsabilidad de la IIC.
+3. En caso de modificación de la información comunicada en el escrito de notificación de conformidad con el apartado 1, o de modificaciones en relación con las clases de acciones que se vayan a comercializar, la IIC informará de ello por escrito a la CNMV, como mínimo un mes antes de que dicha modificación sea efectiva.
+La IIC comunicará a la CNMV cualquier modificación de los documentos a que se refiere el primer párrafo del apartado primero e indicará el sitio en que pueden obtenerse en formato electrónico.
+Se modifica por el art. 62.2 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se modifica por la disposición final 1.3 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifican los apartados 1, 2 y 3 y se añaden los apartados 1 bis y 1 ter por el art. único.16 a 19 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica los apartados 1 y 2 por la disposición final 4.2 de la Ley 25/2005, de 24 de noviembre. Ref. BOE-A-2005-19412
+
+### Artículo 15 bis
+
+Artículo 15 bis. Comercialización en España a inversores profesionales de las acciones y participaciones de IIC constituidas en otro Estado miembro de la Unión Europea gestionadas por gestoras autorizadas en un Estado miembro al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+1. La comercialización en España a inversores profesionales, tal y como se definen en el artículo 78 bis.3 de la Ley del Mercado de Valores, de las acciones y participaciones de las IIC establecidas en otro Estado miembro de la Unión Europea gestionados por gestoras autorizadas en un Estado miembro al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, será libre con sujeción a las normas previstas en este artículo, desde que la autoridad competente del Estado miembro de origen de la gestora le comunique a dicha gestora que ha remitido a la Comisión Nacional del Mercado de Valores el escrito de notificación que incluya la siguiente información:
+a) Identificación de las IIC que la gestora pretende comercializar, así como dónde se encuentran establecidas estas IIC.
+b) Las disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+c) El reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+d) El folleto de la institución o documento equivalente, en el caso de que fuera exigible, y el último informe anual.
+e) La identificación del depositario de la IIC.
+f) Una descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+h) Cuando proceda, información sobre las medidas adoptadas para impedir la comercialización de la IIC entre inversores minoristas.
+Cuando se trate de una IIC subordinada, ésta solo se podrá comercializar en España cuando la IIC principal esté domiciliada en la Unión Europea y esté gestionada por una gestora autorizada al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+Los informes anuales que se elaboren con posterioridad a la inscripción de las IIC extranjeras en España, podrán ser requeridos durante cinco años por la Comisión Nacional del Mercado de Valores.
+2. La notificación del apartado 1 deberá acompañarse del certificado acreditativo de las autoridades competentes del Estado miembro de la Unión Europea de origen de la sociedad gestora que confirme que dicha gestora está autorizada de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, para gestionar entidades de inversión con una determinada estrategia de inversión.
+3. El escrito de notificación del apartado 1 y el certificado acreditativo del apartado 2 deberán presentarse en una lengua habitual en el ámbito de las finanzas internacionales.
+La Comisión Nacional del Mercado de Valores aceptará el envío por medios electrónicos de la documentación a que se refiere los dos primeros apartados.
+La Comisión Nacional del Mercado de Valores no exigirá información o documentación adicional a lo establecido en este artículo.
+4. Las IIC y sus sociedades gestoras deberán respetar las disposiciones normativas vigentes en España referidas a la comercialización y la publicidad en España. La Comisión Nacional del Mercado de Valores supervisará el cumplimiento de estas obligaciones.
+5. Conforme a lo establecido en esta Ley y en su normativa de desarrollo, las sociedades gestoras deberán facilitar a los accionistas y partícipes de las IIC: los pagos; la adquisición de sus acciones o el reembolso de las participaciones; la difusión de las informaciones que deban suministrar a los accionistas y partícipes residentes en España; y, en general, el ejercicio de sus derechos.
+Se añade por la disposición final 1.4 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 15 ter
+
+Artículo 15 ter. Comercialización en España a inversores profesionales de las acciones y participaciones de IIC constituidas en un Estado no miembro de la Unión Europea gestionadas por gestoras autorizadas en un Estado miembro de acuerdo con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+1. La comercialización en España de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.d) que se dirija a inversores profesionales, requerirá que con carácter previo se acredite ante la Comisión Nacional del Mercado de Valores el cumplimiento de los siguientes extremos:
+a) Que la normativa española regula la misma categoría de IIC a la que pertenece la institución extranjera y que la IIC, está sujeta en su Estado de origen a una normativa específica de protección de los intereses de los accionistas o partícipes semejante a la normativa española en esta materia.
+b) Que existan acuerdos adecuados de cooperación entre las autoridades competentes del Estado miembro de origen de la sociedad gestora y las autoridades de supervisión del Estado no miembro de la Unión Europea en el que está establecida la IIC con objeto de garantizar al menos un intercambio eficaz de información que permita a las autoridades competentes llevar a cabo sus funciones de acuerdo con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+c) Que el país en el que está establecida la IIC no figure en la lista de países y territorios no cooperantes establecida por el Grupo de Acción Financiera Internacional sobre el Blanqueo de Capitales.
+d) Que el tercer país en el que esté establecida la IIC de fuera de la Unión Europea haya firmado un acuerdo con España que se ajuste plenamente a los preceptos establecidos en el artículo 26 del Modelo de Convenio Tributario sobre la Renta y sobre el Patrimonio de la OCDE y garantice un intercambio efectivo de información en materia tributaria, incluyendo, si procede, acuerdos multilaterales en materia de impuestos.
+2. Acreditados tales extremos, la gestora de la IIC deberá aportar y registrar en la Comisión Nacional del Mercado de Valores la siguiente información:
+a) Identificación de las IIC que la gestora pretende comercializar, así como dónde se encuentran establecidas estas IIC.
+b) Disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+c) Reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+d) Folleto de la institución o documento equivalente, en caso de que sea exigible, y el último informe anual.
+e) Identificación del depositario de la IIC.
+f) Descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+h) Cuando proceda, información sobre las medidas adoptadas para impedir la comercialización de la IIC entre inversores minoristas.
+i) Los documentos que acrediten la sujeción de la IIC establecida en un Estado no miembro de la Unión Europea y las acciones, participaciones o valores representativos de su capital o patrimonio al régimen jurídico que le sea aplicable.
+Todos los documentos a los que se refiere este apartado y el anterior deberán presentarse en una lengua habitual en el ámbito de las finanzas internacionales.
+3. Adicionalmente la gestora deberá aportar junto con la documentación anterior un certificado acreditativo que habrá de solicitar a sus autoridades competentes, que confirme que dicha gestora está autorizada de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, para gestionar entidades de inversión con una determinada estrategia de inversión.
+4. Para que las acciones o participaciones de la Institución de Inversión Colectiva puedan ser comercializadas en España será preciso que sea expresamente autorizada a tal fin por la Comisión Nacional del Mercado de Valores y que tanto las gestoras como las IIC que pretenda comercializar queden inscritas en sus registros.
+La autorización para ser comercializada podrá ser denegada por motivos prudenciales, por no darse un trato equivalente a las IIC en el correspondiente país de origen, por no quedar asegurado el cumplimiento de las normas de ordenación y disciplina de los mercados de valores españoles, por no quedar suficientemente garantizada la debida protección de los inversores residentes en España o por la existencia de perturbaciones en las condiciones de competencia entre estas IIC y las IIC autorizadas en España.
+5. Una vez autorizadas para ser comercializadas e inscritas las IIC y sus gestoras en el registro de la Comisión Nacional del Mercado de Valores, las gestoras, conforme a lo establecido en esta Ley y en su normativa de desarrollo, deberán facilitar a los accionistas y partícipes de estas IIC: los pagos, la adquisición por las IIC de sus acciones o el reembolso de sus participaciones; la difusión de las informaciones que deban suministrar a los partícipes y accionistas residentes en España; y, en general, el ejercicio por estos de sus derechos.
+Las IIC y sus gestoras deberán respetar las disposiciones normativas vigentes en España referidas a la comercialización y la publicidad en España. La Comisión Nacional del Mercado de Valores supervisará el cumplimiento de estas obligaciones.
+6. Reglamentariamente se podrán determinar requisitos adicionales para la comercialización de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.d).
+Se añade por la disposición final 1.5 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 15 quáter
+
+Artículo 15 quáter. Comercialización en España a inversores profesionales de las acciones y participaciones de IIC gestionadas por gestoras no domiciliadas en la Unión Europea.
+1. La comercialización en España de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.e) que se dirija a inversores profesionales, requerirá que con carácter previo se acredite ante la Comisión Nacional del Mercado de Valores el cumplimiento de los siguientes extremos:
+a) Que la normativa española regula la misma categoría de IIC a la que pertenece la institución extranjera y, que la IIC, o la gestora que actué en su nombre, está sujeta en su Estado de origen a una normativa específica de protección de los intereses de los accionistas o partícipes semejante a la normativa española en esta materia.
+b) Informe favorable de la autoridad del Estado de origen a la que esté encomendado el control e inspección de la IIC o de la gestora que actué en su nombre, con respecto al desarrollo de las actividades de ésta.
+c) Que existan acuerdos adecuados de cooperación entre la Comisión Nacional del Mercado de Valores, las autoridades competentes del país de origen de la gestora, las autoridades de supervisión del Estado no miembro de la Unión Europea en el que está establecida la IIC, y, en su caso, las autoridades de supervisión del Estado miembro de la Unión Europea en el que esté establecida la IIC, con objeto de garantizar al menos un intercambio eficaz de información que permita a las autoridades competentes llevar a cabo sus funciones de acuerdo con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+d) Que el Estado no miembro de la Unión Europea en el que está establecida la gestora, y en su caso la IIC establecida en un Estado no miembro de la Unión Europea, no figuren en la lista de países y territorios no cooperantes establecida por el Grupo de Acción Financiera Internacional sobre el Blanqueo de Capitales.
+2. Acreditados tales extremos, la gestora de la IIC deberá aportar y registrar en la Comisión Nacional del Mercado de Valores la siguiente información:
+a) Identificación de las IIC que la gestora pretende comercializar, así como dónde se encuentran establecidas estas IIC.
+b) Disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+c) Reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+d) Folleto de la institución o documento equivalente, en caso de que sea exigible, y el último informe anual.
+e) Identificación del depositario de la IIC.
+f) Descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+h) Cuando proceda, información sobre las medidas adoptadas para impedir la comercialización de la IIC entre inversores minoristas.
+i) Los documentos que acrediten la sujeción de la gestora establecida en un Estado no miembro de la Unión Europea, y cuando corresponda de la IIC establecida en un Estado no miembro de la Unión Europea y las acciones, participaciones o valores representativos de su capital o patrimonio, al régimen jurídico que le sea aplicable.
+Todos los documentos a los que se refieren este apartado y el anterior deberán presentarse en una lengua habitual en el ámbito de las finanzas internacionales.
+3. Para que las acciones o participaciones de la Institución de Inversión Colectiva puedan ser comercializadas en España será preciso que sea expresamente autorizada a tal fin por la Comisión Nacional del Mercado de Valores y que tanto las gestoras como las IIC que pretenda comercializar queden inscritas en sus registros.
+La autorización para ser comercializada podrá ser denegada por motivos prudenciales, o en el caso de que el país de origen de la IIC no sea un Estado miembro de la Unión Europea, por no darse un trato equivalente a las IIC o a las gestoras españolas en el correspondiente país de origen, por no quedar asegurado el cumplimiento de las normas de ordenación y disciplina de los mercados de valores españoles, por no quedar suficientemente garantizada la debida protección de los inversores residentes en España o por la existencia de perturbaciones en las condiciones de competencia entre estas IIC y las IIC autorizadas en España.
+4. Una vez autorizadas para ser comercializadas e inscritas las IIC y sus gestoras en el registro de la Comisión Nacional del Mercado de Valores, las gestoras, conforme a lo establecido en esta Ley y en su normativa de desarrollo, deberán facilitar a los accionistas y partícipes de estas IIC: los pagos; la adquisición por las IIC de sus acciones o el reembolso de sus participaciones; la difusión de las informaciones que deban suministrar a los partícipes y accionistas residentes en España; y, en general, el ejercicio por éstos de sus derechos.
+Las IIC y sus gestoras deberán respetar las disposiciones normativas vigentes en España referidas a la comercialización y la publicidad en España. La Comisión Nacional del Mercado de Valores supervisará el cumplimiento de estas obligaciones.
+5. Reglamentariamente se podrán determinar requisitos adicionales para la comercialización de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.e).
+Se añade por la disposición final 1.6 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 15 quinquies
+
+Artículo 15 quinquies. Comercialización en España a inversores no profesionales de las acciones y participaciones de IIC referidas en el artículo 2.1.f).
+1. La comercialización en España de las acciones y participaciones de las IIC referidas en el artículo 2.1.f), a inversores no profesionales requerirá que con carácter previo se acredite ante la Comisión Nacional del Mercado de Valores el cumplimiento de los requisitos del apartado 1 del artículo 15 quáter.
+2. Acreditados tales extremos, la gestora deberá aportar y registrar en la Comisión Nacional del Mercado de Valores la siguiente documentación:
+a) Identificación de las IIC que la gestora pretende comercializar, así como dónde se encuentran establecidas estas IIC.
+b) Disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+c) Reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+d) Folleto informativo, que deberá ser aprobado por la Comisión Nacional del Mercado de Valores, así como su publicación y el documento con los datos fundamentales para el inversor o documento equivalente.
+e) Identificación del depositario de la IIC.
+f) Descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+h) Los documentos que acrediten la sujeción de la gestora establecida en un Estado no miembro de la Unión Europea, y cuando corresponda de la IIC establecida en un Estado no miembro de la Unión Europea y las acciones, participaciones o valores representativos de su capital o patrimonio, al régimen jurídico que le sea aplicable.
+i) Los estados financieros de la IIC y su correspondiente informe de auditoría de cuentas, preparados de acuerdo con la legislación aplicable a dicha IIC.
+3. En caso de modificación de la información comunicada en el escrito de notificación de conformidad con el apartado 1, o de modificaciones en relación con las clases de acciones que se vayan a comercializar, la IIC informará de ello por escrito a la CNMV y a las autoridades competentes del Estado miembro de origen, como mínimo un mes antes de que dicha modificación sea efectiva.
+La IIC comunicará a la CNMV cualquier modificación de los documentos a que se refiere el primer párrafo del apartado primero e indicará el sitio en que pueden obtenerse en formato electrónico.
+4. Para que las acciones o participaciones de la Institución de Inversión Colectiva puedan ser comercializadas en España será preciso que sea expresamente autorizada a tal fin por la Comisión Nacional del Mercado de Valores y que tanto las gestoras como las IIC que pretenda comercializar queden inscritas en sus registros.
+La autorización para ser comercializada podrá ser denegada por motivos prudenciales, o en el caso de que el país de origen de la IIC o de la gestora no sea un Estado miembro de la Unión Europea, por no darse un trato equivalente a las IIC o sus gestoras españolas en dicho país de origen, por no quedar asegurado el cumplimiento de las normas de ordenación y disciplina de los mercados de valores españoles, por no quedar suficientemente garantizada la debida protección de los inversores residentes en España o por la existencia de perturbaciones en las condiciones de competencia entre estas IIC y las IIC autorizadas en España.
+5. Una vez autorizadas para ser comercializadas e inscritas las IIC y sus gestoras en el registro de la Comisión Nacional del Mercado de Valores, las gestoras, conforme a lo establecido en esta Ley y en su normativa de desarrollo, deberán facilitar a los accionistas y partícipes de estas IIC: los pagos; la adquisición por las IIC de sus acciones o el reembolso de sus participaciones; la difusión de las informaciones que deban suministrar a los partícipes y accionistas residentes en España; y, en general, el ejercicio por estos de sus derechos.
+Las IIC y sus gestoras deberán respetar las disposiciones normativas vigentes en España referidas a la comercialización y la publicidad en España. La Comisión Nacional del Mercado de Valores supervisará el cumplimiento de estas obligaciones.
+6. El intermediario facultado deberá entregar gratuitamente a los accionistas o partícipes residentes en España de la IIC extranjera, de conformidad con lo dispuesto en el capítulo III del título II, el folleto, el documento con los datos fundamentales para el inversor, o documento similar, y los informes anual y semestral de las IIC, así como el reglamento de gestión del fondo o, en su caso, los estatutos de la sociedad. Estos documentos se facilitarán en su traducción al castellano o en otra lengua admitida por la Comisión Nacional del Mercado de Valores.
+7. Reglamentariamente se podrán determinar requisitos adicionales para la comercialización de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.f).
+Se modifican los apartados 2 y 3 por la disposición final 4.5 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se añade por la disposición final 1.7 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 16
+
+Artículo 16. Comercialización de las acciones y participaciones de IIC españolas reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea.
+1. Las IIC españolas que pretendan comercializar sus acciones o participaciones en el ámbito de la Unión Europea de conformidad con lo dispuesto en la Directiva 2009/65/CE, de 13 de julio de 2009, deberán remitir a la CNMV un escrito de notificación que contenga información sobre las disposiciones y modalidades de comercialización de las acciones o participaciones en el Estado miembro de acogida, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+La IIC adjuntará a este escrito la siguiente documentación:
+a) Reglamento del fondo de inversión o escritura de constitución de la sociedad de inversión;
+b) Folleto;
+c) Documento con los datos fundamentales para el inversor;
+d) Último informe anual y en su caso el informe semestral sucesivo.
+El documento con los datos fundamentales para el inversor deberá presentarse en una de las lenguas oficiales del Estado miembro de acogida o en otra lengua admitida por las autoridades competentes del Estado miembro de acogida.
+El reglamento del fondo de inversión o la escritura de constitución de la sociedad de inversión, el folleto y los informes anual y semestral deberán presentarse en una de las lenguas oficiales del Estado miembro de acogida, en una lengua habitual en el ámbito de las finanzas internacionales o en otra lengua admitida por las autoridades competentes del Estado miembro de acogida.
+La traducción de la información a la que se refieren los párrafos anteriores se realizará bajo la responsabilidad de la IIC y reflejará fielmente el contenido de la información original.
+La CNMV verificará que esta documentación esté completa. En este caso la remitirá a las autoridades competentes del Estado miembro en el que la IIC tenga previsto comercializar sus participaciones o acciones, en el plazo máximo de diez días hábiles desde la recepción de dicha documentación completa junto con un certificado señalando que la Institución de Inversión Colectiva reúne las condiciones establecidas en la Directiva 2009/65/CE. Esta remisión se llevará a cabo por medios electrónicos. La CMMV notificará inmediatamente este hecho a la IIC. Una vez recibida dicha notificación por la IIC, ésta tendrá acceso al mercado del Estado miembro de acogida.
+El escrito de notificación y el certificado referidos en el primer y sexto párrafo se expedirán, al menos, en una lengua habitual en el ámbito de las finanzas internacionales.
+El escrito de notificación incluirá asimismo los detalles necesarios, incluida la dirección, para la facturación o la comunicación de cualesquiera tasas o gravámenes reglamentarios aplicables por parte de las autoridades competentes del Estado miembro de acogida e información de los servicios para llevar a cabo las siguientes tareas:
+a) procesar las órdenes de suscripción, recompra y reembolso y efectuar otros pagos a los partícipes en relación con las participaciones de la IIC, de conformidad con las condiciones establecidas en la documentación exigida con arreglo a lo establecido en las disposiciones y modalidades de comercialización de las acciones o participaciones en el Estado miembro de acogida.
+b) proporcionar información a los inversores sobre cómo se pueden cursar las órdenes a que se refiere la letra a) y cómo se abona el importe de la recompra y el reembolso;
+c) facilitar el tratamiento de la información y el acceso a los procedimientos y disposiciones relativos al ejercicio, por parte de los inversores, de los derechos asociados a su inversión en la IIC en el Estado miembro de acogida;
+d) poner a disposición de los inversores, a efectos de examen y de la obtención de copias, la información y la documentación que deban suministrar a los accionistas y partícipes residentes en el Estado miembro de acogida;
+e) proporcionar a los inversores, en un soporte duradero, información pertinente respecto a las tareas que los servicios realizan, y
+f) actuar como punto de contacto para la comunicación con las autoridades competentes.
+Las IIC no estarán obligadas a tener presencia física en el Estado miembro de acogida o a designar un tercero para llevar a cabo estas tareas.
+La IIC velará por que los servicios para llevar a cabo estas tareas, incluidos los electrónicos, sean prestados:
+a) en la lengua oficial o en una de las lenguas oficiales del Estado miembro en el que se comercializa la IIC o en una lengua aprobada por las autoridades competentes de ese Estado miembro;
+b) por la propia IIC o bien por un tercero sujeto a la regulación y la supervisión de las tareas que deben realizarse, o por ambos.
+A efectos de la letra b), en caso de que sea un tercero el que lleve a cabo las tareas, la designación de dicho tercero se documentará en un contrato escrito, en el que se especificará cuáles de las tareas señaladas en el apartado 1 no llevará a cabo la IIC, y que el tercero recibirá de la IIC toda la información y los documentos pertinentes.
+2. La CNMV garantizará que las autoridades competentes del Estado miembro de acogida de la IIC tengan acceso por medios electrónicos a la documentación a que se refiere el párrafo segundo del apartado anterior, en los términos señalados, y velará porque la IIC mantenga actualizadas la documentación y las traducciones. La IIC comunicará a la autoridad competente del Estado miembro de acogida cualquier modificación de dichos documentos e indicará el sitio en que pueden obtenerse en formato electrónico.
+En caso de modificación de la información comunicada en el escrito de notificación de conformidad con el apartado 1, o de modificaciones en relación con las clases de acciones que se vayan a comercializar, la IIC informará de ello por escrito a la CNMV y a las autoridades competentes del Estado miembro de acogida, como mínimo un mes antes de que dicha modificación sea efectiva.
+Cuando, como consecuencia de una modificación contemplada en el párrafo anterior, la IIC ya no fuese conforme con la presente ley, la CNMV notificará a la IIC, en el plazo de quince días hábiles desde la recepción de toda la información a que se refiere el párrafo primero, que no puede aplicar dicha modificación. En ese caso, la CNMV lo notificará a las autoridades competentes del Estado miembro de acogida de la IIC.
+Cuando la modificación contemplada en el párrafo primero se aplique después de que se haya transmitido la información con arreglo a lo dispuesto en el párrafo segundo y como consecuencia de dicha modificación la IIC ya no fuese conforme con la presente ley, la CNMV adoptará todas las medidas adecuadas de conformidad con el artículo 234 del Real Decreto Legislativo 4/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Mercado de Valores, entre ellas, si fuera necesario, la prohibición expresa de comercializar la IIC y notificará las medidas adoptadas, sin demora injustificada, a las autoridades competentes del Estado miembro de acogida de la IIC.
+Las IIC proporcionarán a los inversores radicados en el Estado miembro de acogida toda la información prevista en esta ley y en su normativa de desarrollo.
+3. A las IIC autorizadas en España que comercialicen sus acciones o participaciones en otro Estado miembro de la UE de acuerdo con lo establecido en este artículo, se les aplicará, en todo caso, la normativa española en relación a la frecuencia de cálculo y publicación del valor liquidativo de las participaciones o acciones, a los efectos de suscripción, reembolso, venta y recompra.
+Se modifica el apartado 1 por la disposición final 4.6 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica por el art. 62.3 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se modifica el título por la disposición final 1.8 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.20 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Notificación del cese de la comercialización de las acciones y participaciones de IIC españolas reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea.
+1. Las SGIIC notificarán el cese de las medidas adoptadas para la comercialización de las participaciones y, cuando proceda, respecto de las clases de acciones, en un Estado miembro para el que haya presentado una notificación de conformidad con el artículo 16, cuando se cumplan todas las condiciones siguientes:
+a) que se haga una oferta global de recompra o reembolso, sin gastos o deducciones, de todas las participaciones en poder de los inversores en ese Estado miembro, que esté disponible públicamente durante al menos treinta días hábiles y que se dirija individualmente, de modo directo o a través de intermediarios financieros, a todos los inversores de dicho Estado miembro cuya identidad se conozca;
+b) que la intención de poner fin a las medidas adoptadas para la comercialización de dichas participaciones en ese Estado miembro se haga pública a través de un medio accesible al público, incluidos medios electrónicos, que sea habitual para la comercialización de IIC y adecuado para un inversor tipo de IIC;
+c) que se modifiquen o cancelen los acuerdos contractuales con intermediarios financieros con efecto a partir de la fecha de notificación de cese, con el fin de impedir nuevas ofertas, o su prolongación, directa o indirecta, o la colocación de las participaciones que figuren en la notificación mencionada en el apartado 2.
+La información a que se refieren las letras a) y b) dejará claras las consecuencias para los inversores de no aceptar la oferta de recompra o reembolso de sus participaciones.
+La información a que se refieren las letras a) y b) del párrafo primero se facilitará en la lengua oficial o en una de las lenguas oficiales del Estado miembro con respecto al cual la IIC haya realizado una notificación de conformidad con el artículo 16 o en otra lengua admitida por las autoridades competentes del Estado miembro de acogida
+A partir de la fecha mencionada en la letra c) del párrafo primero, la IIC cesará toda oferta o colocación nueva de sus participaciones, o su prolongación, directa o indirecta, que hayan sido objeto de notificación en ese Estado miembro.
+2. La SGIIC presentará una notificación a la CNMV que contenga la información a que se refiere el apartado 1, párrafo primero, letras a), b) y c).
+3. La CNMV verificará que la notificación presentada por la IIC de conformidad con el apartado 2 esté completa. La CNMV transmitirá dicha notificación, en un plazo máximo de quince días hábiles a partir de la recepción de una notificación completa, a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2, y a la AEVM.
+Una vez transmitida la notificación con arreglo a lo dispuesto en el párrafo primero, la CNMV comunicará sin dilación a la SGIIC dicha transmisión.
+4. La SGIIC facilitará a los inversores que mantengan su inversión en la IIC, así como a la CNMV, la información requerida con arreglo a esta Ley.
+5. La CNMV transmitirá a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2 del presente artículo información sobre cualquier modificación de los documentos mencionados en el apartado 1 del artículo 16.
+6. La CNMV tendrá los mismos derechos y obligaciones que las autoridades competentes del Estado miembro de acogida de la IIC.
+Sin perjuicio de otras actividades de seguimiento y de las competencias de supervisión contempladas en los artículos 70 y 71.1, a partir de la fecha de transmisión a que se refiere el apartado 5 del presente artículo, la autoridad competente del Estado miembro identificado en la notificación a que se refiere el apartado 2 no exigirá a la IIC en cuestión que demuestre el cumplimiento de las disposiciones legales, reglamentarias y administrativas nacionales aplicables a los requisitos de comercialización contemplados en el artículo 5 del Reglamento (UE) 2019/1156 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se facilita la distribución transfronteriza de organismos de inversión colectiva y por el que se modifican los Reglamentos (UE) n.º 345/2013, (UE) n.º 346/2013 y (UE) n.º 1286/2014.
+7. Se permite el uso de todos los medios electrónicos u otros medios de comunicación a distancia a efectos del apartado 4, a condición de que la información y los medios de comunicación estén disponibles para los inversores en la lengua oficial o en una de las lenguas oficiales del Estado miembro donde el inversor esté ubicado o en una lengua aprobada por las autoridades competentes de ese Estado miembro.
+Se modifica por el art. 62.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se añade por la disposición final 1.9 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 16 ter
+
+Artículo 16 ter. Comercialización en el ámbito de la Unión Europea de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea gestionadas por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, en el ámbito de la Unión Europea.
+1. Las SGIIC españolas autorizadas al amparo de esta Ley que pretendan comercializar en el ámbito de la Unión Europea las acciones o participaciones de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea deberán remitir a la CNMV un escrito de notificación que contenga la siguiente información:
+a) Identificación de las IIC que se pretendan comercializar, así como dónde están establecidas dichas IIC.
+b) Las disposiciones y modalidades de comercialización de las acciones o participaciones de la IIC en los Estados miembros donde pretenda comercializarlas, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+c) El reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+d) El folleto de la institución o documento equivalente y el último informe anual.
+e) La identificación del depositario de la IIC.
+f) Una descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+h) La indicación del Estado miembro en que tenga previsto comercializar la IIC entre inversores profesionales.
+i) Cuando proceda, información sobre las medidas adoptadas para impedir la comercialización de la IIC entre inversores minoristas.
+j) los detalles necesarios, incluida la dirección, para que las autoridades competentes del Estado miembro de acogida puedan facturar o comunicar cualesquiera tasas o gravámenes aplicables;
+k) información sobre los servicios disponibles para los inversores minoristas.
+2. La CNMV verificará que esta documentación esté completa. En el plazo de 20 días hábiles desde la recepción del expediente de documentación completo a que se refiere el apartado 1, la CNMV lo transmitirá a las autoridades competentes del Estado o los Estados miembros en que se pretenda comercializar la IIC. Esta remisión se llevará a cabo por medios electrónicos.
+La CNMV adjuntará al escrito de notificación un certificado acreditativo que confirme que la sociedad gestora está autorizada de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, a gestionar IIC con esa estrategia de inversión concreta.
+3. Una vez transmitido el expediente de notificación, la CNMV lo notificará inmediatamente a la sociedad gestora. La gestora podrá iniciar la comercialización de la IIC en el Estado miembro de acogida a partir de la fecha de dicha notificación.
+La CNMV informará a las autoridades competentes del Estado miembro en el que está establecida la IIC que la gestora puede comenzar a comercializar participaciones de la IIC en el Estado miembro de acogida.
+El escrito de notificación y el certificado referidos en los apartados 1 y 2 se expedirá, al menos, en una lengua habitual en el ámbito de las finanzas internacionales.
+4. En caso de modificación sustancial de alguno de los datos comunicados de conformidad con el apartado 1, la sociedad gestora informará de ello por escrito a la CNMV al menos un mes antes de hacer efectiva la modificación, si la misma está prevista, o, en el caso de una modificación imprevista, inmediatamente después de producirse la modificación.
+Si, como consecuencia de una modificación prevista, la gestión de la IIC por parte de la sociedad gestora ya no fuese conforme con la presente ley o, en general, la gestora ya no cumpliese la presente ley, la CNMV informará a la gestora, en un plazo de quince días hábiles desde la recepción de toda la información a que se refiere el párrafo primero, de que no puede aplicar la modificación. En ese caso, la CNMV informará de ello a las autoridades competentes del Estado miembro de acogida de la gestora.
+Si la modificación prevista se aplica a pesar de los párrafos primero y segundo, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con la presente ley, o si la gestora pudiera dejar de cumplir la presente ley, la CNMV adoptará todas las medidas oportunas de conformidad, incluyendo, si fuese necesario, la prohibición expresa de la comercialización de la IIC, y se lo notificarán sin demora injustificada a las autoridades competentes del Estado miembro de acogida de la gestora.
+Si las modificaciones no afectan al cumplimiento de la presente ley en cuanto a la gestión de la IIC por parte de la sociedad gestora, o al cumplimiento de la presente ley por dicha gestora, la CNMV informará, en el plazo de un mes, de dichas modificaciones a las autoridades competentes del Estado miembro de acogida de la gestora.
+Se añade por el art. 62.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+
+### Artículo 16 quater
+
+Artículo 16 quater. Servicios disponibles para los inversores minoristas en el ámbito de la comercialización en el ámbito de la Unión Europea de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea gestionadas por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, en el ámbito de la Unión Europea.
+1. Sin perjuicio de lo dispuesto en el artículo 26 del Reglamento (UE) 2015/760, las sociedades gestoras facilitarán, en cada Estado miembro en el que se propongan comercializar participaciones o acciones de una IIC entre inversores minoristas, servicios para llevar a cabo las tareas siguientes:
+a) procesar las órdenes de los inversores de suscripción, pago, recompra y reembolso en relación con las participaciones o acciones de la IIC, de conformidad con las condiciones establecidas en la documentación de la IIC;
+b) proporcionar información a los inversores sobre cómo se pueden cursar las órdenes a que se refiere la letra a) y cómo se abona el producto de la recompra y el reembolso;
+c) facilitar el tratamiento de la información relativa al ejercicio, por parte de los inversores, de los derechos asociados a su inversión en la IIC en el Estado miembro donde la IIC se comercializa;
+d) poner a disposición de los inversores, a efectos de examen y de la obtención de copias, la información y los documentos requeridos con arreglo al artículo 17.
+e) proporcionar a los inversores, en un soporte duradero, información pertinente respecto a las tareas que los servicios realizan, tal como se define en el artículo 2, apartado 1, letra m), de la Directiva 2009/65/CE, y
+f) actuar como punto de contacto para la comunicación con las autoridades competentes.
+2. No se exigirá a las sociedades gestoras tener presencia física en el Estado miembro de acogida ni designar a un tercero a efectos del apartado 1.
+3. La sociedad gestora velará por que los servicios para llevar a cabo las tareas a que se refiere el apartado 1, incluido por medios electrónicos, sean facilitados:
+a) en la lengua oficial o en una de las lenguas oficiales del Estado miembro en el que se comercializa la IIC o en una lengua aprobada por las autoridades competentes de ese Estado miembro;
+b) por la propia sociedad gestora, o bien por un tercero sujeto a la regulación y la supervisión de las tareas que deben realizarse, o por ambos.
+A efectos de la letra b), en caso de que sea un tercero el que lleve a cabo las tareas, la designación de dicho tercero se documentará en un contrato escrito, en el que se especificará cuáles son las tareas mencionadas en el apartado 1 que no lleva a cabo la sociedad gestora y que el tercero recibirá de la sociedad gestora toda la información y los documentos pertinentes.
+Se añade por el art. 62.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+
+### Artículo 16 quinquies
+
+Artículo 16 quinquies. Notificación del cese de la comercialización en el ámbito de la Unión Europea de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, gestionadas por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+1. Las SGIIC españolas autorizadas al amparo de esta ley notificarán el cese de las medidas adoptadas para la comercialización de las participaciones y, cuando proceda, respecto de las clases de acciones, en un Estado miembro para el que haya presentado una notificación de conformidad con el artículo 16 ter, cuando se cumplan todas las condiciones siguientes:
+a) excepto en el caso de IIC de tipo cerrado y los fondos regulados por el Reglamento (UE) 2015/760 del Parlamento Europeo y del Consejo, de 29 de noviembre de 2015, sobre los fondos de inversión a largo plazo europeos, que se haga una oferta global de recompra o reembolso, sin gastos o deducciones, de todas esas participaciones o acciones en poder de los inversores en ese Estado miembro, que se haga pública durante al menos treinta días hábiles y se dirija individualmente, de modo directo o a través de intermediarios financieros, a todos los inversores de dicho Estado miembro cuya identidad se conozca;
+b) que la intención de poner fin a las medidas adoptadas para la comercialización de dichas participaciones en ese Estado miembro se haga pública a través de un medio accesible al público, incluidos medios electrónicos, que sea habitual para la comercialización de IIC y adecuado para un inversor tipo de IIC;
+c) que se modifiquen o cancelen los acuerdos contractuales con intermediarios financieros con efecto a partir de la fecha de notificación de cese, con el fin de impedir nuevas ofertas, o su prolongación, directa o indirecta, o la colocación de las participaciones que figuren en la notificación mencionada en el apartado 2.
+La información a que se refieren las letras b) y c) del párrafo primero se facilitará en la lengua oficial o en una de las lenguas oficiales del Estado miembro con respecto al cual la SGIIC haya realizado una notificación de conformidad con el artículo 16 ter o en una lengua aprobada por el Estado miembro de acogida.
+A partir de la fecha mencionada en la letra c) del párrafo primero, la SGIIC cesará toda oferta o colocación nueva de sus participaciones, o su prolongación, directa o indirecta, que hayan sido objeto de notificación en ese Estado miembro.
+2. La SGIIC presentará una notificación a la CNMV que contenga la información a que se refiere el apartado 1, párrafo primero, letras a), b) y c).
+3. La CNMV verificará que la notificación presentada por la SGIIC de conformidad con el apartado 2 esté completa. La CNMV transmitirá dicha notificación, en un plazo máximo de quince días hábiles a partir de la recepción de una notificación completa, a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2, y a la AEVM.
+Una vez transmitida la notificación con arreglo a lo dispuesto en el párrafo primero, la CNMV comunicará sin dilación a la SGIIC dicha transmisión. Durante un período de 36 meses a partir de la fecha a que se refiere el apartado 1, letra c), la SGIIC no participará en la precomercialización de participaciones o acciones de IIC que figuren en la notificación o en relación con estrategias o ideas de inversión similares en el Estado miembro identificado en la notificación a que se refiere el apartado 2.
+4. La SGIIC facilitará a los inversores que mantengan su inversión en la IIC, así como a la CNMV, la información requerida con arreglo a la presente ley.
+5. La CNMV transmitirá a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2 del presente artículo información sobre cualquier modificación de los documentos mencionados en el apartado 1 del artículo 16 ter.
+6. La CNMV tendrá los mismos derechos y obligaciones que las autoridades competentes del Estado miembro de acogida de la SGIIC.
+Sin perjuicio de otras actividades de seguimiento y de las competencias de supervisión contempladas en esta ley, a partir de la fecha de transmisión a que se refiere el apartado 5 del presente artículo, la autoridad competente del Estado miembro identificado en la notificación a que se refiere el apartado 2 no exigirá a la SGIIC en cuestión que demuestre el cumplimiento de las disposiciones legales, reglamentarias y administrativas nacionales aplicables a los requisitos de comercialización contemplados en el artículo 5 del Reglamento (UE) 2019/1156 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se facilita la distribución transfronteriza de organismos de inversión colectiva y por el que se modifican los Reglamentos (UE) n.º 345/2013, (UE) n.º 346/2013 y (UE) n.º 1286/2014.
+7. Se permite el uso de todos los medios electrónicos u otros medios de comunicación a distancia a efectos del apartado 4, a condición de que la información y los medios de comunicación estén disponibles para los inversores en la lengua oficial o en una de las lenguas oficiales del Estado miembro donde el inversor esté ubicado o en una lengua aprobada por las autoridades competentes de ese Estado miembro.
+Se modifica por la disposición final 4.7 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se añade por el art. 62.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+
+## CAPÍTULO III
+
+Información, publicidad y contabilidad
+
+### Artículo 17
+
+Artículo 17. Documentos informativos.
+1. La sociedad gestora, para cada uno de los fondos de inversión que administre, y las sociedades de inversión deberán publicar para su difusión entre los accionistas, partícipes y público en general un folleto, un documento con los datos fundamentales para el inversor, un informe anual y un informe semestral con el fin de que, de forma actualizada, sean públicamente conocidas todas las circunstancias que puedan influir en la apreciación del valor del patrimonio y perspectivas de la institución, en particular los riesgos inherentes que comporta, así como el cumplimiento de la normativa aplicable.
+2. El folleto contendrá los estatutos o el reglamento de las IIC, según proceda, y se ajustará a lo previsto en la normativa de desarrollo de esta ley, siendo registrado por la CNMV con el alcance previsto en el artículo 244 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión. El folleto se deberá actualizar en los términos que se determinen reglamentariamente.
+3. El documento con los datos fundamentales se ajustará a lo previsto en el Reglamento (UE) 1286/2014 del Parlamento Europeo y del Consejo de 26 de noviembre de 2014 sobre los documentos de datos fundamentales relativos a los productos de inversión minorista vinculados y los productos de inversión basados en seguros.
+4. El informe anual deberá contener las cuentas anuales, el informe de gestión, el informe de auditoría de cuentas correspondiente; la información sobre remuneraciones a la que se refiere el artículo 46 bis y las demás informaciones que se determinen reglamentariamente, al objeto de incluir la información significativa que permita al inversor formular, con conocimiento de causa, un juicio sobre la evolución de la actividad y los resultados de la institución.
+5. El informe semestral contendrá información sobre el estado del patrimonio, número de participaciones y acciones en circulación, valor liquidativo por participación o acción, cartera de títulos, movimientos habidos en los activos de la institución, cuadro comparativo relativo a los tres últimos ejercicios y cualquiera otra que se establezca reglamentariamente. Además contendrá la totalidad de los gastos del fondo o, en su caso, de la sociedad, expresados en términos de porcentaje sobre el patrimonio del fondo o, en su caso, sobre el capital de la sociedad. Corresponderá a la CNMV determinar las partidas que hayan de integrar dichos gastos. En lo que respecta al detalle de la composición de la cartera en los informes semestrales, respecto de un máximo del 30 por cien de los activos, podrá facilitarse de modo agregado o por categorías.
+6. La sociedad gestora, para cada uno de los fondos de inversión que administre, y las sociedades de inversión deberán indicar en cada folleto si van a proporcionar información trimestral de forma voluntaria. En caso de que decidan proporcionarla, esta deberá cumplir los mismos requisitos indicados para la información semestral.
+7. La Comisión Nacional del Mercado de Valores establecerá los modelos normalizados de toda la documentación a la que se refiere el presente artículo.
+La Comisión Nacional del Mercado de Valores mantendrá un registro de folletos, documentos con los datos fundamentales para el inversor, informes anuales, semestrales y trimestrales de las IIC, al que el público tendrá libre acceso.
+Todos los documentos citados en los apartados anteriores, simultáneamente a su difusión entre el público, serán remitidos a la Comisión Nacional del Mercado de Valores con el objetivo de mantener actualizados los registros a los que hace referencia el párrafo anterior. En el caso del folleto y del documento con los datos fundamentales para el inversor su difusión requerirá el previo registro por la Comisión Nacional del Mercado de Valores de conformidad con lo dispuesto en el artículo 10.6. En el caso de los fondos, el registro del folleto requerirá su previa verificación por la Comisión Nacional del Mercado de Valores.
+Las obligaciones que se derivan del segundo y tercer párrafo de este apartado se aplicarán también respecto de las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea al amparo de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, y de la Directiva 2011/61/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, relativa a los gestores de fondos de inversión alternativos y por la que se modifican las Directivas 2003/41/CE y 2009/65/CE y los Reglamentos (CE) n.º 1060/2009 y (UE) n.º 1095/2010, que lleven a cabo la actividad de gestión de una IIC autorizada en España.
+Se modifica por la disposición final 4.8 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica por el art. 16.1 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se modifica el apartado 3 por la disposición final 1.1 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican los apartados 4 y 6 por la disposición final 1.10 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.21 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 18
+
+Artículo 18. Información a partícipes y accionistas, al público en general y publicidad.
+1. Con antelación suficiente a la suscripción de las participaciones o acciones deberá entregarse gratuitamente y, previa solicitud, el folleto y los últimos informes anual y semestral publicados. El suministro del documento de datos fundamentales para el inversor deberá realizarse de conformidad con lo dispuesto en el Reglamento (UE) n.° 1286/2014 del Parlamento Europeo y del Consejo de 26 de noviembre de 2014 sobre los documentos de datos fundamentales relativos a los productos de inversión minorista vinculados a los productos de inversión basados en seguros.
+El folleto y el documento con los datos fundamentales para el inversor podrán facilitarse en un soporte duradero o a través de la página web de la sociedad de inversión o de la sociedad de gestión. Previa solicitud, se entregará gratuitamente a los inversores un ejemplar en papel de dichos documentos.
+A efectos de lo señalado en el anterior párrafo se considera soporte duradero a todo instrumento que permita al inversor almacenar la información dirigida a él personalmente, de modo que dicho inversor pueda acceder a ella posteriormente para consulta durante un período de tiempo adecuado para los fines a los que la información esté destinada y que permita la reproducción sin cambios.
+En la página web de la sociedad de inversión o de la sociedad de gestión se publicará una versión actualizada de los documentos previstos en este apartado.
+1 bis. Las IIC proporcionarán el documento con los datos fundamentales para el inversor a los intermediarios que vendan o asesoren a los inversores sobre posibles inversiones en esas IIC o en productos que conlleven riesgo frente a esas IIC, cuando aquellos lo soliciten. En todo caso, los intermediarios cumplirán con la obligación señalada en el primer párrafo del apartado 1 anterior.
+2. Los informes anual y semestral se pondrán a disposición del público en los lugares que se indiquen en el folleto y, en su caso, el documento con los datos fundamentales para el inversor, que incluirán en todo caso la dirección de la página web. Asimismo, salvo renuncia expresa del partícipe o accionista, los informes anual y semestral deberán serle remitidos por medios telemáticos, salvo que no facilite los datos necesarios para ello o manifieste por escrito su preferencia por recibirlos físicamente, en cuyo caso se le remitirán versiones en papel, siempre de modo gratuito. El informe trimestral, en aquellos casos en que voluntariamente se haya decidido elaborarlo, deberá ser remitido también a los partícipes o accionistas, de acuerdo con las mismas reglas, en el caso de que lo soliciten.
+3. Cualquier comunicación a partícipes o accionistas deberá ser remitida por medios telemáticos, excepto cuando aquellos inversores que no sean considerados clientes profesionales tal y como están definidos en los artículos 194 y 195 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, no faciliten los datos necesarios para ello o cuando manifiesten por escrito la preferencia por recibirla físicamente, en cuyo caso se le remitirá en papel, siempre de modo gratuito. La sociedad gestora o la sociedad de inversión podrá informar a sus clientes actuales de que se producirá un cambio automático a la comunicación en formato electrónico si no solicitan la continuación de la remisión de información en papel en el plazo de ocho semanas.
+Se modifica por la disposición final 4.9 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica por el art. 16.2 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se suprimen los apartados 3 y 4 por el art. 62.5 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se modifican los apartados 1, 1 bis y 2 por la disposición final 1.2 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican los apartados 1, 2 y 3 y se añade el apartado 1 bis por el art. único.22 y 23 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 19
+
+Artículo 19. Hechos relevantes.
+Los hechos relevantes relacionados con la institución se harán públicos en la forma que reglamentariamente se determine, de conformidad con lo dispuesto en la Ley del Mercado de Valores, dando conocimiento de los mismos a la CNMV, y serán incorporados a los informes sucesivos para su información a los accionistas y partícipes.
+
+### Artículo 20
+
+Artículo 20. Normas contables.
+1. En desarrollo de las normas contables contempladas en el Código de Comercio, la Ley de Sociedades de Capital y el Plan General de Contabilidad, corresponde al Ministro de Economía y Hacienda y, con su habilitación expresa, a la CNMV, y con el previo informe del Instituto de Contabilidad y Auditoría de Cuentas, aprobar las normas específicas de la contabilidad de las IIC, así como los criterios de valoración y de determinación del patrimonio y de los resultados.
+2. El Ministro de Economía y, con su habilitación expresa, la CNMV determinarán los estados complementarios de información reservada que, para su supervisión, deberán rendirle las IIC, los modelos públicos de información a que deben ajustarse sus cuentas anuales, así como la frecuencia y detalle con que los datos deberán ser suministrados. En cualquier caso, se exigirá informe previo del Instituto de Contabilidad y Auditoría de Cuentas respecto a la determinación de los modelos públicos de cuentas anuales.
+Se modifica el apartado 1 por el art. único.24 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 21
+
+Artículo 21. Auditoría de cuentas.
+Las IIC deberán someterse a la auditoría de cuentas, de conformidad con lo dispuesto en la disposición adicional primera de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, ajustando el ejercicio económico al año natural. La revisión y verificación de sus documentos contables se realizará de acuerdo con lo previsto en las normas reguladoras de la auditoría de cuentas.
+Esta auditoría deberá extenderse a los documentos previstos en la mencionada Ley de Auditoría de Cuentas y sus disposiciones de desarrollo.
+
+### Artículo 22
+
+Artículo 22. Participaciones significativas.
+La adquisición y pérdida de una participación significativa en una IIC deberá hacerse pública en la forma y plazos que reglamentariamente se establezca.
+Asimismo, se determinarán los porcentajes de capital y patrimonio que tendrán la consideración de participación significativa, al igual que las personas o entidades obligadas a su comunicación o difusión.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Comunicaciones a partícipes y accionistas.
+(Suprimido)
+Se suprime por el art. 16.3 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se añade por el art. único.25 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## CAPÍTULO IV
+
+Normas sobre inversiones
+
+### Artículo 23
+
+Artículo 23. Principios de la política de inversión.
+Sin perjuicio de las especialidades previstas en esta ley para cada clase de IIC, las IIC invertirán su activo, atendiendo a los siguientes principios:
+a) Liquidez. Las IIC deberán tener liquidez suficiente, según la naturaleza de la institución, del partícipe o accionista y de los activos en los que se invierta.
+b) Diversificación del riesgo. Las IIC deberán limitar la concentración del riesgo de contrapartida de forma que se garantice la suficiente diversificación.
+c) Transparencia. Las IIC deberán definir claramente su perfil de inversión, que habrá de quedar reflejado en los instrumentos informativos previstos en el capítulo anterior.
+
+## CAPÍTULO V
+
+Disolución, liquidación, transformación, fusión, escisión y traspaso de participaciones y acciones
+
+### Artículo 24
+
+Artículo 24. Disolución y liquidación.
+1. Serán causas de disolución del fondo, el cumplimiento del plazo señalado en el contrato de constitución, el acuerdo de la sociedad gestora y el depositario cuando el fondo fue constituido por tiempo indefinido y las demás previstas en esta ley o en sus normas de desarrollo, así como en el reglamento de gestión.
+2. La liquidación del fondo se realizará por la sociedad gestora con el concurso del depositario y previo el cumplimiento de los requisitos de publicidad y garantías que el reglamento de esta ley establezca. Una vez acordada la disolución y hecha pública por la CNMV se suspenderán las suscripciones y reembolsos.
+3. En el caso de IIC de carácter societario, la disolución y liquidación se ajustarán al Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital, con las salvedades que se establezcan en esta ley y en su normativa de desarrollo.
+4. La CNMV podrá acordar, en su caso, la intervención del procedimiento de liquidación, en los términos previstos en el título VI de esta ley.
+Se modifica el apartado 3 por el art. único.26 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 25
+
+Artículo 25. Transformación.
+1. Las IIC sólo podrán transformarse en otras IIC que pertenezcan a la misma clase. No obstante, las IIC autorizadas de acuerdo con la Directiva 2009/65/CE no se podrán transformar en otras IIC.
+2. Sin perjuicio de lo previsto en el apartado anterior, todas las sociedades de inversión acogidas al estatuto de las IIC podrán transformarse en sociedades que no posean ese estatuto sin necesidad de autorización previa de la CMMV. Las sociedades anónimas se podrán transformar en sociedades de inversión.
+3. Las operaciones de transformación estarán sujetas a los requisitos siguientes:
+a) Autorización administrativa previa de la CNMV de acuerdo con el procedimiento previsto en el artículo 10 de esta ley.
+b) Acreditación, en el momento de la transformación, de que se reúnen las condiciones específicas fijadas para la clase de IIC resultante, salvo las condiciones para las que esta ley y su normativa de desarrollo establezcan un plazo a contar desde la inscripción en el correspondiente registro administrativo.
+c) Reforma de los estatutos sociales o del reglamento de gestión, dejando constancia de la operación en el registro de la CNMV correspondiente y, tratándose de sociedades, previamente en el Registro Mercantil.
+d) Comunicación a los partícipes del acuerdo de transformación cuando se trate de fondos, para que, en su caso, ejerzan los derechos de separación que les correspondan.
+Cuando se trate de sociedades, el acuerdo de transformación deberá publicarse o bien en la página web de la sociedad o de su sociedad gestora, o bien en dos periódicos de gran circulación en la provincia respectiva, o bien comunicarse por escrito a todos los socios a través de un procedimiento que asegure la recepción de aquél en el domicilio que figure en la documentación de la sociedad. El acuerdo de transformación reflejará la alternativa adoptada. El Registrador Mercantil remitirá, de oficio, de forma telemática y sin coste adicional alguno el acuerdo inscrito para su publicación en el “Boletín Oficial del Registro Mercantil”.
+e) Presentación en la CNMV del informe de auditoría de los estados financieros que hayan servido para acordar la transformación, cerrados en fecha no anterior a tres meses desde la adopción del acuerdo de transformación. Este requisito no será de aplicación cuando la entidad que se transforme sea una IIC.
+Se modifica por el art. único.27 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica al apartado 3 por la disposición final 7.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 1 por la disposición final 5 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+
+### Artículo 26
+
+Artículo 26. Fusión.
+1. Las operaciones de fusión se someterán al procedimiento de autorización previsto en esta ley y en su normativa de desarrollo.
+2. Las IIC únicamente podrán fusionarse cuando pertenezcan a la misma clase.
+La fusión podrá ser tanto por absorción como por creación de una nueva institución en los términos y con las excepciones que se determinen reglamentariamente.
+3. En el caso de sociedades de inversión, los procesos de fusión se ajustarán a lo dispuesto en la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles, en lo que no esté dispuesto por esta Ley y su normativa de desarrollo.
+El procedimiento de fusión se iniciará previo acuerdo del proyecto común de fusión por los administradores de cada una de las sociedades que participen en la fusión, el cual, junto al resto de información que se determine reglamentariamente, habrán de facilitar a la Comisión Nacional del Mercado de Valores para su autorización. Dicha autorización se solicitará a la Comisión Nacional del Mercado de Valores una vez que la fusión haya sido acordada por el consejo de administración y antes del cumplimiento de los requisitos de publicidad del proyecto de fusión establecidos en la Ley 3/2009, de 3 de abril.
+La autorización, junto con la información adecuada y exacta sobre la fusión prevista que se determinará reglamentariamente, deberá ser objeto de comunicación a los accionistas de todas las sociedades afectadas con posterioridad al cumplimiento de los requisitos de publicidad del proyecto de fusión establecidos en la Ley 3/2009, de 3 de abril, a través de un procedimiento que asegure la recepción de aquél en el domicilio que figure en la documentación de la sociedad.
+La fusión habrá de ser acordada necesariamente por la junta general de cada una de las sociedades que participen en ella, una vez que la Comisión Nacional del Mercado de Valores autorice la fusión.
+La ecuación de canje definitiva se determinará sobre la base de los valores liquidativos y número de acciones en circulación del día anterior al del otorgamiento de la escritura pública de fusión, siendo válida a dichos efectos la certificación expedida por el secretario del consejo de administración de la sociedad de inversión o por el secretario del consejo de administración o consejero delegado de la sociedad gestora.
+Reglamentariamente se desarrollará el contenido del proyecto de fusión.
+4. En el caso de fondos de inversión, el procedimiento de fusión se iniciará previo acuerdo de la sociedad gestora o, en su caso, de las sociedades gestoras, de las instituciones que pretendan fusionarse. El proyecto de fusión, junto al resto de información que se determine reglamentariamente, se presentará ante la CNMV para su autorización. La autorización del proceso de fusión tendrá la consideración de hecho relevante y deberá ser objeto de publicación en el Boletín Oficial del Estado y en dos periódicos de ámbito nacional o en la página web de sus respectivas gestoras o de entidades de sus respectivos grupos, durante el plazo mínimo de un mes. Asimismo, la autorización, junto con la información adecuada y exacta sobre la fusión prevista que se determinará reglamentariamente, deberá ser objeto de comunicación a los partícipes de todos los fondos afectados.
+Transcurridos al menos cuarenta días desde la fecha de los anuncios o desde la remisión de la notificación individualizada, si ésta fuera posterior, la sociedad gestora o, en su caso, las sociedades gestoras, y el depositario o, en su caso, los depositarios, de los fondos ejecutarán la fusión mediante el otorgamiento del correspondiente documento contractual y su inscripción en el correspondiente registro de la CNMV. La ecuación de canje se determinará sobre la base de los valores liquidativos y número de participaciones en circulación al cierre del día anterior al del otorgamiento de la escritura o, de no producirse aquélla, al del otorgamiento del documento contractual. Los estados financieros que se incorporen a la escritura o, en su caso, al documento contractual serán aprobados por persona debidamente facultada de la sociedad gestora y del depositario.
+Reglamentariamente se desarrollará el contenido del proyecto de fusión.
+5. En el caso de fusión entre IIC de distinta naturaleza jurídica, el procedimiento será conforme a lo dispuesto en esta ley y su normativa de desarrollo en cuanto al fondo o compartimento o fondos o compartimentos que se fusionen y a lo dispuesto en la Ley 3/2009, de 3 de abril, en relación a la sociedad o sociedades que se fusionen, con las salvedades que se establezcan en esta ley y en su normativa de desarrollo.
+Se modifica el apartado 3 por la disposición final 1.11 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.28 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica el apartado 4 por la disposición final 7.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 27
+
+Artículo 27. Escisión.
+1. La escisión de las entidades acogidas al estatuto de las IIC podrá ser total o parcial.
+Las IIC podrán beneficiarse de la escisión, total o parcial, de cualesquiera otras entidades, estén o no acogidas al estatuto legal, siempre que ello no suponga desvirtuar su carácter y naturaleza jurídica o el incumplimiento de los requisitos y obligaciones específicos de la clase de institución de que se trate.
+2. Las escisiones a que se refiere el presente precepto deberán cumplir, como mínimo, los requisitos establecidos en el artículo 25.3, además del de presentación del correspondiente proyecto de escisión. Asimismo, en el caso de las sociedades de inversión, se aplicarán las disposiciones contenidas en la Ley 3/2009, de 3 de abril.
+Se modifica el apartado 2 por el art. único.29 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 28
+
+Artículo 28. Traspaso de participaciones o acciones.
+1. Los traspasos de inversiones entre IIC o, en su caso, entre compartimentos de una misma IIC, se regirán por las disposiciones establecidas en este artículo y, en lo no previsto por las mismas, por la normativa general que regula la suscripción y reembolso de participaciones en fondos de inversión, así como la adquisición y enajenación de acciones en sociedades de inversión.
+2. Para iniciar el traspaso el partícipe o accionista deberá dirigirse, según proceda, a la sociedad gestora, comercializadora o de inversión, de destino (en adelante, la sociedad de destino), a la que ordenará por escrito la realización de las gestiones necesarias. En todo caso, recibida la solicitud de traspaso, la sociedad de destino deberá comunicar a la sociedad gestora, comercializadora o de inversión de origen (en adelante sociedad de origen), en el plazo máximo de un día hábil desde que obre en su poder, la solicitud debidamente cumplimentada con indicación, al menos, de la denominación de la IIC de destino y, en su caso, del compartimento, los datos identificativos de la cuenta de la IIC a la que debe realizarse el traspaso, de su depositario, en su caso, de su sociedad gestora, y de la IIC de origen, y, en su caso, del compartimento.
+La sociedad de origen dispondrá de un máximo de dos días hábiles desde la recepción de la solicitud para realizar las comprobaciones que estime necesarias.
+Tanto el traspaso de efectivo como la transmisión por parte de la sociedad de origen a la sociedad de destino de toda la información financiera y fiscal necesaria para el traspaso deberán realizarse, a partir del tercer día hábil desde la recepción de la solicitud, en los plazos reglamentariamente establecidos para el pago de los reembolsos o para la enajenación de acciones. En todo caso, el traspaso de efectivo deberá realizarse mediante transferencia bancaria, ordenada por la sociedad de origen a su depositario o, en su caso, comercializador, desde la cuenta de la IIC de origen a la cuenta de la IIC de destino.
+La sociedad de destino conservará la documentación derivada de los anteriores actos y obligaciones a disposición de la sociedad de origen, de los órganos de supervisión correspondientes, en su caso, de los depositarios de origen y destino, y de las autoridades tributarias competentes.
+Los partícipes o accionistas que durante el período de tenencia de las participaciones o acciones objeto de traspaso hayan sido simultáneamente titulares de participaciones o acciones homogéneas de la misma institución de inversión colectiva registradas en otra entidad, o bien cuando las participaciones o acciones objeto de traspaso procedan en todo o en parte de uno, varios o sucesivos traspasos de otras participaciones o acciones, y alguno de dichos traspasos se hubiera realizado concurriendo igual situación de simultaneidad en las participaciones o acciones reembolsadas o transmitidas, deberán comunicar dicha circunstancia expresamente en el escrito de solicitud de traspaso. Asimismo dichos partícipes o accionistas deberán conservar la documentación relativa a las operaciones realizadas en las instituciones de inversión colectiva que resulte necesaria para determinar y, en su caso, acreditar los valores y fechas de adquisición atribuibles a las participaciones o acciones de las instituciones de inversión colectiva de origen y de destino conforme a las previsiones contenidas en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, a efectos de posteriores reembolsos, transmisiones o traspasos, con independencia de la información fiscal comunicada por la sociedad de origen a la de destino en la operación.
+Cuando la institución de inversión colectiva de origen o de procedencia tenga diferentes compartimentos o distintas clases de participaciones o series de acciones, las circunstancias a que se refiere el párrafo anterior se entenderán referidas a cada compartimento, clase de participaciones o serie de acciones.
+3. Los valores liquidativos aplicables en las operaciones de traspaso reguladas en el apartado anterior serán los que estén establecidos en el reglamento de cada fondo para suscripciones y reembolsos o en los estatutos de la sociedad para la adquisición y enajenación de acciones.
+4. En los traspasos en los que intervenga una sociedad de inversión cuyas acciones coticen en bolsa, la intermediación por un miembro de bolsa no podrá suponer en ningún caso que el importe del reembolso de participaciones o de la enajenación de acciones se ponga a disposición del partícipe o accionista. Asimismo, el partícipe o accionista será responsable de la custodia de la información financiera y fiscal del traspaso así como de su comunicación, en su caso, a la sociedad gestora o comercializadora de destino.
+5. La omisión del cumplimiento de las obligaciones establecidas en esta sección se sancionará en vía administrativa de acuerdo con lo establecido en el título VI de esta ley.
+6. El Ministro de Economía y, con su habilitación expresa, la CNMV, podrán desarrollar el contenido de este artículo efectuando las adaptaciones que sean nece sarias para garantizar la seguridad y transparencia de los procedimientos. Asimismo, podrá autorizar sistemas estandarizados, con las debidas garantías de seguridad para la transmisión de solicitudes de traspasos, para la transferencia de efectivo y para la transmisión de información entre las entidades intervinientes en el procedimiento.
+Se modifica el primer párrafo del apartado 2 por la disposición final 1.3 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2014, por la disposición final 1.1 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifica el apartado 2 por el art. único.30 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 28 bis
+
+Artículo 28 bis. Otras operaciones.
+Cuando por circunstancias excepcionales relativas a los instrumentos financieros en los que haya invertido una institución de inversión colectiva, a sus emisores o a los mercados, no resulte posible la valoración o la venta a su valor razonable de dichos instrumentos y se deriven perjuicios graves en términos de equidad para los intereses de los partícipes o accionistas, la sociedad gestora o la sociedad de inversión, con el conocimiento del depositario, podrá transferir los activos afectados por estas circunstancias incorporándolos en otra institución de inversión colectiva o compartimento, de nueva creación, y de la misma forma jurídica que la IIC original, en las condiciones que reglamentariamente se determinen
+Esta operación no requerirá autorización previa por parte de la Comisión Nacional del Mercado de Valores, si bien será necesaria su comunicación previa por parte de la sociedad gestora o la sociedad de inversión, y tampoco dará lugar al derecho de separación recogido en el artículo 12.2 de esta ley.
+Reglamentariamente se determinarán y concretarán las especificidades de las instituciones de inversión colectiva o compartimentos resultantes de la operación, entre otras, el régimen de suscripción y reembolso de participaciones o acciones; de información, publicidad y contabilidad; y los requisitos relativos al patrimonio y a los partícipes o accionistas.
+Se añade por la disposición final 2.1 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
+
+## TÍTULO III
+
+Clases de Instituciones de Inversión Colectiva
+
+## CAPÍTULO I
+
+Instituciones de Inversión Colectiva de carácter financiero
+
+## Sección 1
+
+Sección 1.ª Disposiciones comunes aplicables a las IIC que cumplan con la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, y a otras IIC de carácter financiero similares.
+Se modifica por la disposición final 1.12 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 29
+
+Artículo 29. Concepto y denominación de las IIC de carácter financiero.
+Son IIC de carácter financiero aquellas que tengan por objeto la inversión en activos e instrumentos financieros, conforme a las prescripciones definidas en esta ley y en su desarrollo reglamentario.
+En el caso de los fondos, su denominación deberá ir seguida de la expresión "Fondo de Inversión", o bien de las siglas "F.I." Las sociedades de inversión deberán adoptar la forma de sociedad anónima y su capital social será susceptible de aumentar o disminuir dentro de los límites del capital máximo o mínimo fijados en sus estatutos, mediante la venta o adquisición por la sociedad de sus propias acciones, sin necesidad de acuerdo de la junta general.
+Su denominación deberá ir seguida de la expresión "Sociedad de Inversión de Capital Variable", o bien de las siglas "SICAV".
+
+### Artículo 30
+
+Artículo 30. Activos aptos para la inversión, reglas sobre inversiones y obligaciones frente a terceros.
+1. Las IIC de carácter financiero podrán invertir en los siguientes activos e instrumentos financieros:
+a) Valores negociables e instrumentos financieros, de los previstos en el artículo 2, primer inciso y párrafo a) del segundo inciso, de la Ley del Mercado de Valores, admitidos a cotización en bolsas de valores o en otros mercados o sistemas organizados de negociación, cualquiera que sea el Estado en que se encuentren radicados, siempre que, en todo caso, se cumplan los siguientes requisitos:
+1.º Que se trate de mercados que tengan un funcionamiento regular;
+2.º Que ofrezcan una protección equivalente a los mercados oficiales radicados en territorio español;
+3.º Que dispongan de reglas de funcionamiento, transparencia, acceso y admisión a negociación similares a las de los mercados secundarios oficiales.
+Las sociedades gestoras y las sociedades de inversión deberán asegurarse, con anterioridad al inicio de las inversiones, que los mercados en los que pretendan invertir cumplen tales requisitos y recoger en el folleto explicativo de la IIC y en el documento con los datos fundamentales para el inversor una indicación sobre los mercados en que se va a invertir.
+b) Los valores e instrumentos negociables mencionados en el párrafo anterior respecto de los cuales esté solicitada su admisión a negociación en alguno de los mercados o sistemas a los que se refiere dicho párrafo.
+A dichos valores e instrumentos se equipararán aquellos en cuyas condiciones de emisión conste el compromiso de solicitar la admisión a negociación, siempre que el plazo inicial para cumplir dicho compromiso sea inferior a un año. En el caso de que no se produzca su admisión a negociación en el plazo de seis meses desde que se solicite o no se cumpla el compromiso de presentar en el plazo determinado la correspondiente solicitud de admisión, deberá reestructurarse la cartera en los dos meses siguientes al término de los plazos antes señalados. Si dicho plazo resultara insuficiente se podrá, justificadamente, solicitar su prórroga a la CNMV. Dicha prórroga no podrá exceder de un plazo adicional de dos meses.
+c) Acciones y participaciones de otras IIC autorizadas conforme a la Directiva 2009/65/CE, siempre que el reglamento, los estatutos, o alternativamente el folleto de la IIC cuyas participaciones o acciones se prevea adquirir, no autoricen a invertir más de un 10 por ciento del activo de la institución en participaciones o acciones de otras IIC.
+d) Acciones y participaciones de otras IIC no autorizadas conforme a la Directiva 2009/65/CE, siempre que estas últimas no tengan por finalidad invertir, a su vez, en otras IIC, y siempre que cumplan los siguientes requisitos: que el reglamento de los fondos o alternativamente el folleto de la IIC cuyas participaciones o acciones se prevea adquirir no autoricen a invertir más de un 10 por ciento del activo de la institución en participaciones o acciones de otras IIC; que la sociedad gestora o, en su caso, la sociedad de inversión estén sujetas a una supervisión que las autoridades europeas competentes consideren equivalente a la que establece el Derecho de la Unión Europea y que asegure la cooperación entre las autoridades; que el nivel de protección de sus partícipes y accionistas sea equivalente al establecido en esta Ley en virtud de lo que la CNMV determine; y que se informe de su actividad empresarial en un informe semestral y otro anual para permitir la evaluación de los activos y pasivos, ingresos y operaciones durante el período objeto de la información.
+e) Depósitos en entidades de crédito que sean a la vista o puedan ser retirados, con un vencimiento no superior a 12 meses, siempre que la entidad de crédito tenga su sede en un Estado miembro de la Unión Europea o, si el domicilio social de la entidad de crédito está situado en un Estado no miembro, esté sujeta a normas prudenciales equivalentes a las que exige la normativa española, en virtud de lo que la CNMV determine.
+f) Instrumentos financieros derivados negociados en un mercado o sistema de negociación que cumpla los requisitos señalados en el párrafo a) anterior siempre que el activo subyacente consista en activos o instrumentos de los mencionados en el presente apartado, índices financieros, tipos de interés, tipos de cambio o divisas, en los que la IIC de carácter financiero pueda invertir según su política de inversión declarada en el folleto y en el documento con los datos fundamentales para el inversor.
+g) Instrumentos financieros derivados no negociados en un mercado o sistema de negociación que cumpla los requisitos señalados en el párrafo a) anterior, siempre que: se cumplan los requisitos establecidos en el párrafo f) en cuanto a la composición del activo subyacente, las contrapartes de las operaciones de derivados sean entidades sujetas a supervisión prudencial y pertenezcan a las categorías aprobadas por la CNMV, las posiciones en derivados estén sujetas a una valoración diaria fiable y puedan liquidarse en cualquier momento a su valor de mercado mediante una operación de signo contrario a iniciativa de la IIC de carácter financiero.
+Los requisitos señalados en el segundo y tercer guión de este párrafo también resultarán exigibles a los instrumentos financieros derivados señalados en el párrafo f) excepto si se negocian en un mercado que exija el depósito de garantías en función de las cotizaciones o de ajuste de pérdidas y ganancias y exista un centro de compensación que registre las operaciones realizadas y se interponga entre las partes contratantes actuando como comprador ante el vendedor y como vendedor ante el comprador.
+h) Instrumentos del mercado monetario siempre que sean líquidos y tengan un valor que pueda determinarse con precisión en todo momento, no negociados en un mercado o sistema de negociación que cumpla los requisitos señalados en el párrafo a) anterior, siempre que se cumpla alguno de los siguientes requisitos:
+Que estén emitidos o garantizados por el Estado, las comunidades autónomas, las entidades locales, el Banco de España, el Banco Central Europeo, la Unión Europea, el Banco Europeo de Inversiones, el Banco Central de alguno de los Estados miembros, cualquier Administración pública de un Estado miembro, un tercer país o, en el caso de Estados federados, por uno de los miembros integrantes de la Federación, o por un organismo público internacional al que pertenezcan uno o más Estados miembros.
+Que estén emitidos por una empresa cuyos valores se negocien en un mercado que cumpla los requisitos señalados en el párrafo a) anterior.
+Que estén emitidos o garantizados por una entidad sujeta a supervisión prudencial.
+Que estén emitidos por entidades pertenecientes a las categorías que determine la CNMV.
+i) Valores o instrumentos financieros distintos de los previstos en los párrafos anteriores.
+j) En el caso de las sociedades de inversión, las mismas podrán adquirir los bienes muebles e inmuebles indispensables para el ejercicio directo de su actividad.
+2. Asimismo, las IIC deberán mantener el coeficiente de liquidez que garantice suficientemente el régimen de reembolso en los términos que reglamentariamente se determinen.
+Para cumplir el principio de diversificación de riesgos, con carácter general, la inversión en activos e instrumentos financieros de un mismo emisor, o de entidades del mismo grupo, no podrá superar el cinco por ciento o el 15 por ciento, respectivamente del activo de la IIC.
+El límite del cinco por ciento queda ampliado al 10 por ciento siempre que el total de las inversiones de la IIC en valores en los que supere el cinco por ciento no exceda del 40 por ciento del activo de la misma.
+Reglamentariamente, según la naturaleza de la institución, del partícipe y de los activos en los que se invierta, se podrá establecer un límite superior, así como porcentajes adicionales de diversificación del riesgo. En función de la naturaleza del emisor y de la IIC, se podrán introducir limitaciones al porcentaje máximo que la inversión de la IIC pueda representar en los valores en circulación de un mismo emisor. En ningún caso dicha participación podrá permitir a la IIC ejercer una influencia notable en la sociedad.
+Por otro lado, para cumplir el principio de transparencia, las IIC deberán definir claramente su vocación inversora, de tal forma que el inversor conozca con precisión a qué categoría de las establecidas por la CNMV pertenece la institución.
+A efectos estadísticos y de facilitar información sobre su perfil de riesgo y los activos en los que invierte, la CNMV establecerá categorías de IIC en función de la vocación inversora de éstas dentro de los activos previstos en este artículo.
+3. Reglamentariamente se determinarán los límites y condiciones a los que deberán ajustarse las inversiones, directas o indirectas, de las IIC de carácter financiero, el riesgo global máximo de las operaciones que realicen y los requisitos que deben cumplir las IIC cuya política de inversión tenga por objetivo reproducir o tomar como referencia un determinado índice bursátil o de renta fija.
+4. Ni las sociedades gestoras ni las sociedades de inversión podrán conceder o avalar créditos por cuenta de terceros. No obstante, podrán adquirir los activos a los que se refieren los párrafos a), b), c), d), f), g) y h) del apartado 1 del presente artículo aunque no hayan sido enteramente desembolsados.
+5. Con carácter general, ni las sociedades gestoras, en relación con las IIC por ellas gestionadas, ni las sociedades de inversión, podrán realizar ventas al descubierto de los activos financieros a los que se refieren los párrafos c), d) y h) del apartado 1 del presente artículo.
+6. Los valores y otros activos que integren la cartera no podrán pignorarse ni constituir garantía de ninguna clase, salvo para servir de garantía en las operaciones que la institución realice en:
+a) los mercados secundarios oficiales,
+b) los mercados no organizados de derivados, por un importe no superior a la liquidación diaria de pérdidas y ganancias generados como consecuencia de los cambios en la valoración de dichos instrumentos, siempre que se encuentren amparados por los acuerdos de compensación contractual y garantías financieras regulados en el Real Decreto Ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso de la productividad y para la mejora de la contratación pública.
+En su caso, los valores y activos que integren la cartera deberán estar depositados bajo la custodia de los depositarios regulados en esta ley. No obstante, los valores y otros activos que integren la cartera de las IIC de carácter financiero podrán ser objeto de operaciones de préstamo de valores con los límites y garantías que establezca el Ministro de Economía y Hacienda.
+7. Las IIC de carácter financiero no podrán endeudarse más allá del 10 por ciento de su activo con carácter general. Asimismo, en el caso de las sociedades de inversión, cuando se trate de préstamos para la adquisición de inmuebles indispensables para la continuación de sus actividades, tampoco podrán superar dicho límite, en cuyo caso estos préstamos y los previstos anteriormente no podrán superar el 15 por ciento de sus activos.
+Reglamentariamente podrán admitirse límites superiores, acompañados de obligaciones de transparencia específicas.
+8. Asimismo, no podrán recibir fondos del público en forma de depósito, préstamo, cesión temporal de activos financieros u otras análogas.
+9. Las IIC de carácter financiero no podrán adquirir metales preciosos ni ningún otro tipo de materia prima o de bienes muebles o inmuebles diferentes de los contemplados en los apartados anteriores de este artículo.
+Se modifican los apartados 1.a), c), d) y f) y 6 por el art. único.31 a 34 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 31
+
+Artículo 31. Contenido de estatutos sociales y reglamentos respecto de la política de inversión.
+Todas las IIC de carácter financiero deberán incorporar a su reglamento o estatutos sociales al menos los siguientes aspectos relativos a la política de inversión:
+a) Forma de cumplimiento de los principios de inversión previstos en el artículo 23 de la presente ley.
+b) Reglas de utilización de instrumentos financieros derivados con la finalidad, entre otras, de asegurar una adecuada cobertura de los riesgos asumidos en la totalidad o parte de su cartera, como inversión para gestionar de modo más eficaz su cartera, o en el marco de una gestión encaminada a la consecución de un objetivo concreto de rentabilidad.
+c) Financiaciones que pueden recibir.
+d) Operaciones sobre los activos que integran sus patrimonios, incluyendo su pignoración.
+
+## Sección 2
+
+Sección 2.ª Sociedades de inversión de capital variable
+
+### Artículo 32
+
+Artículo 32. Concepto, estatutos sociales, capital social y acciones.
+1. Son sociedades de inversión de capital variable las IIC de carácter financiero que adopten la forma societaria, de acuerdo con lo dispuesto en el artículo 29 de esta ley.
+2. En los estatutos sociales debe recogerse necesariamente la designación del depositario así como la cifra de capital inicial. También se recogerá la cifra del capital estatutario máximo, expresando, en uno y otro caso, el número de acciones y, en su caso, las series, en que esté dividido el capital social y el valor nominal de aquéllas.
+3. Las acciones representativas del capital estatutario máximo que no estén suscritas, o las que posteriormente haya adquirido la sociedad, se mantendrán en cartera hasta que sean puestas en circulación por los órganos gestores. Las acciones en cartera deberán estar en poder del depositario.
+4. La sociedad deberá reducir obligatoriamente el capital, reduciendo el valor nominal de sus acciones en circulación, cuando el patrimonio social hubiere disminuido por debajo de las dos terceras partes de la cifra de capital en circulación, siempre que haya transcurrido un año sin que se haya recuperado el patrimonio. En igual proporción se reducirá el valor nominal de las acciones en cartera.
+5. En el caso de que no existiesen bastantes acciones propias adquiridas por la sociedad para atender la obligación de vender sus propias acciones, la sociedad, en el plazo que se establezca, deberá poner en circulación acciones suficientes hasta alcanzar, si ello fuera necesario, el capital máximo estatutario establecido.
+Cuando la sociedad no pueda atender las obligaciones anteriores por carecer de acciones en cartera y estar ya desembolsado el capital estatutario máximo, la sociedad declarará esta circunstancia como hecho relevante y su consejo de administración propondrá que se acuerde en la próxima junta ordinaria de accionistas el aumento de su capital estatutario.
+6. El valor liquidativo de cada acción será el que resulte de dividir el patrimonio de la sociedad correspondiente a la serie a la que pertenezca por el número de acciones en circulación correspondiente a esa serie y, a efectos de su suscripción y recompra por la sociedad, se calculará con la periodicidad que se establezca reglamentariamente, en función de las distintas políticas de inversión y características de los accionistas.
+7. Las acciones se emitirán y recomprarán por la propia sociedad a solicitud de cualquier interesado según el valor liquidativo que corresponda a la fecha de solicitud, pudiendo ser objeto de comercialización por la sociedad, directamente o a través de intermediarios habilitados, o en bolsa de valores pudiéndose, a tal efecto, percibir comisiones o descuentos a favor de aquélla.
+8. La adquisición por la sociedad de sus acciones propias, entre el capital inicial y el capital estatutario máximo, no estará sujeta a las limitaciones establecidas sobre adquisición derivativa de acciones propias en la Ley de Sociedades de Capital. Por debajo de dicho capital mínimo podrá adquirir acciones con los límites y condiciones establecidos en la citada Ley de Sociedades de Capital.
+9. La sociedad podrá poner en circulación acciones a precio inferior a su valor nominal, no siendo aplicable a este respecto lo dispuesto en la Ley de Sociedades de Capital.
+Los accionistas de la sociedad no gozarán en ningún caso del derecho preferente de suscripción en la emisión o puesta en circulación de las nuevas acciones.
+Quedan prohibidas las remuneraciones o ventajas de los fundadores y promotores reguladas en la Ley de Sociedades de Capital.
+10. No será de aplicación a las sociedades de inversión de capital variable lo dispuesto en el artículo 60 de la Ley del Mercado de Valores, relativo a las ofertas públicas de adquisición de valores.
+Se modifican los apartados 8 y 9 por el art. único.35 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 33
+
+Artículo 33. Liquidez.
+Reglamentariamente se establecerán los diferentes procedimientos que doten de liquidez a las acciones de las SICAV.
+
+## Sección 3
+
+Sección 3.ª Disposiciones aplicables a otras IIC de carácter financiero que no cumplan con la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009.
+Se añade por la disposición final 1.13 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 33 bis
+
+Artículo 33 bis. IIC de Inversión Libre.
+Las IIC de Inversión Libre son aquellas IIC de carácter financiero que cumplirán con los principios del artículo 23 en los términos que se determinen reglamentariamente.
+Asimismo, reglamentariamente se determinarán los activos aptos, las reglas sobre inversiones, y las obligaciones frente a terceros de dichas IIC.
+Las IIC de Inversión Libre podrán conceder créditos a terceros.
+Las denominaciones "Fondo de Inversión Libre" o "Sociedad de Inversión Libre", o sus siglas "FIL" o "SIL" serán privativas de las entidades autorizadas, constituidas y registradas conforme a lo establecido en esta Ley y su normativa de desarrollo.
+Se añade por la disposición final 1.14 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 33 ter
+
+Artículo 33 ter. IIC de IIC de Inversión Libre.
+Las IIC de IIC de Inversión Libre reguladas en esta Ley son aquellas IIC a las que les aplicarán las reglas sobre IIC de carácter financiero, con las excepciones que se determinen reglamentariamente.
+La denominación "IIC de IIC de Inversión Libre", o su sigla "IICIICIL" será privativa de las entidades autorizadas, constituidas y registradas conforme a lo establecido en esta Ley y en su normativa de desarrollo.
+Se añade por la disposición final 1.15 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+## CAPÍTULO II
+
+Instituciones de inversión colectiva de carácter no financiero
+
+## Sección 1
+
+Sección 1.ª Concepto
+
+### Artículo 34
+
+Artículo 34. Concepto.
+Son IIC de carácter no financiero todas aquellas que no estén contempladas en el capítulo I del título III.
+Se modifica por la disposición final 1.16 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+## Sección 2
+
+Sección 2.ª Instituciones de inversión colectiva inmobiliaria
+
+### Artículo 35
+
+Artículo 35. Concepto y denominación.
+1. Las IIC inmobiliaria reguladas en esta ley son aquellas de carácter no financiero que tengan por objeto principal la inversión en bienes inmuebles de naturaleza urbana para su arrendamiento.
+2. Las IIC inmobiliaria invertirán su activo en bienes inmuebles, que podrán adquirir en sus distintas fases de construcción, pudiendo compatibilizarlo, de acuerdo con las limitaciones que se establezcan reglamentariamente, con la inversión de una parte de su activo en valores negociados en mercados secundarios.
+3. Las denominaciones "Fondo de Inversión Inmobiliaria" o "Sociedad de Inversión Inmobiliaria", o sus siglas, "F.I.I." y "S.I.I." serán privativas de las entidades autorizadas, constituidas y registradas conforme a lo establecido en esta ley.
+
+### Artículo 36
+
+Artículo 36. Normas de inversión.
+1. Las IIC inmobiliaria deberán cumplir los criterios de valoración de los bienes y derechos en los que inviertan y respetar los siguientes coeficientes:
+Coeficiente de liquidez que garantice suficientemente el cumplimiento del régimen de reembolso.
+Coeficientes de diversificación del riesgo que limiten la inversión en un solo inmueble así como el arrendamiento de bienes inmuebles a entidades de un mismo grupo.
+2. Reglamentariamente se establecerá el plazo mínimo para el cumplimiento de los porcentajes derivados de los coeficientes señalados en el apartado anterior así como la posibilidad de excepcionar temporalmente los porcentajes de diversificación del riesgo.
+3. Las IIC inmobiliaria deberán respetar las reglas que se establezcan en relación con el plazo mínimo de permanencia de las inversiones, la adquisición y enajenación de bienes inmuebles, la adquisición y enajenación de opciones de compra, de compromisos de compra a plazo y de derechos reales, la concentración de flujos financieros resultantes del arrendamiento de los bienes inmuebles, y la financiación con garantía hipotecaria. De igual modo, en la adquisición de viviendas acogidas a protección oficial se cumplirán las condiciones que permitan el mantenimiento de los beneficios económicos inherentes al régimen de protección.
+4. Los accionistas o partícipes de IIC inmobiliaria podrán ser arrendatarios de los bienes inmuebles que integren el activo de las mismas así como ostentar cualquier derecho distinto del derivado de su condición de accionista o partícipe y realizar aportaciones, originarias o derivativas, en especie.
+
+### Artículo 37
+
+Artículo 37. Sociedades de inversión inmobiliaria.
+1. Las sociedades de inversión inmobiliaria serán sociedades anónimas y dispondrán de un capital mínimo totalmente desembolsado desde su constitución.
+2. La gestión de una sociedad de inversión inmobiliaria podrá encomendarse a una sociedad gestora.
+
+### Artículo 38
+
+Artículo 38. Fondos de inversión inmobiliaria.
+1. Los fondos de inversión inmobiliaria se regirán, en lo no dispuesto específicamente para ellos, por lo contemplado para los fondos de inversión de carácter financiero.
+2. En cuanto al régimen de suscripción y reembolso, se ajustarán a las siguientes reglas:
+a) El valor liquidativo deberá ser fijado, al menos, mensualmente.
+b) Deberá permitirse a los partícipes suscribir o solicitar el reembolso de sus participaciones, al menos, una vez al año.
+c) El patrimonio inmobiliario deberá tasarse, como regla general, una vez al año. Dicha tasación deberá efectuarse necesariamente por una sociedad de tasación de las previstas en la legislación del mercado hipotecario.
+d) Cuando concurran circunstancias excepcionales, en los términos que se determinen reglamentariamente, la CNMV podrá autorizar la suspensión de la suscripción y el reembolso de las participaciones.
+3. La inscripción de los bienes inmuebles pertenecientes al fondo en el Registro de la Propiedad se efectuará a su nombre.
+
+## Sección 3
+
+Sección 3.ª Otras instituciones de inversión colectiva no financieras
+
+### Artículo 39
+
+Artículo 39. Otras IIC no financieras.
+Las IIC no financieras, distintas de las IIC inmobiliarias, se regirán por lo dispuesto en esta ley y, adicionalmente, por las disposiciones especiales que apruebe el Ministro de Economía o, con su habilitación expresa, la CNMV.
+
+## TÍTULO IV
+
+Sociedades Gestoras de Instituciones de Inversión Colectiva
+
+## CAPÍTULO I
+
+Concepto y objeto social
+
+### Artículo 40
+
+Artículo 40. Concepto, objeto social y reserva de actividad y de denominación.
+1. Las SGIIC son sociedades anónimas o de responsabilidad limitada cuyo objeto social consistirá en la gestión de las inversiones, el control y la gestión de riesgos, la administración, representación y gestión de las suscripciones y reembolsos de los fondos y las sociedades de inversión.
+Además, las sociedades gestoras podrán ser autorizadas para realizar las siguientes actividades:
+a) Gestión discrecional e individualizada de carteras de inversiones, incluidas las pertenecientes a fondos de pensiones, en virtud de un mandato otorgado por los inversores o persona legalmente autorizada, siempre que tales carteras incluyan uno o varios de los instrumentos previstos en el artículo 2 del texto refundido de la Ley del Mercado de Valores.
+b) Administración, representación, gestión y comercialización de entidades de capital riesgo, de Entidades de Inversión Colectiva Cerradas, de fondos de capital riesgo europeos (FCRE), fondos de emprendimiento social europeos (FESE) y fondos de inversión a largo plazo europeos (FILPE), y otros vehículos de inversión colectiva regulados por la normativa de la Unión Europea en los términos establecidos por la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+2. No obstante lo dispuesto en el apartado 1 de este artículo, las sociedades gestoras podrán ser autorizadas, además, para realizar las siguientes actividades complementarias:
+a) Asesoramiento sobre inversiones en uno o varios de los instrumentos previstos en el artículo 2 del texto refundido de la Ley del Mercado de Valores.
+b) Custodia y administración de las participaciones de los fondos de inversión y, en su caso, de las acciones de las sociedades de inversión de los FCRE, FESE y FILPE y otros vehículos de inversión colectiva regulados por la normativa de la Unión Europea.
+c) La recepción y transmisión de órdenes de clientes en relación con uno o varios instrumentos financieros.
+En todo caso, la autorización para realizar las actividades del presente apartado estará condicionada a que la sociedad gestora cuente con la autorización preceptiva para prestar los servicios mencionados en la letra a) del apartado 1 anterior.
+3. Las sociedades gestoras podrán comercializar acciones o participaciones de IIC. Esta actividad adicional podrá ser realizada directamente o mediante agentes o apoderados en las condiciones que reglamentariamente se determinen, así como mediante entidades autorizadas para la prestación de servicios de inversión.
+Las participaciones en fondos de inversión comercializadas mediante entidades autorizadas para la prestación de servicios de inversión o a través de otras sociedades gestoras, domiciliadas o establecidas en territorio español, podrán figurar en el registro de partícipes de la sociedad gestora del fondo objeto de comercialización a nombre del comercializador por cuenta de partícipes.
+En la actividad de comercialización podrá intervenir una entidad mediadora entre la sociedad gestora y la entidad comercializadora, entre cuyas funciones se incluya la custodia de participaciones a nombre de la entidad comercializadora y la canalización de la operativa de suscripción y reembolso de participaciones de fondos de inversión. En este caso, las participaciones figurarán en el registro de la sociedad gestora a nombre de la entidad mediadora. Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de que dicha entidad mediadora pueda actuar también como comercializadora en los términos previstos en el segundo párrafo de este apartado 3.
+A su vez, cuando en el registro de la sociedad gestora del fondo, o en el de la entidad mediadora, figuren registradas participaciones a nombre de un comercializador por cuenta de partícipes, el comercializador llevará el registro identificativo de los partícipes titulares de dichas participaciones, el cual deberá contener en todo momento, de forma individualizada para cada uno de estos, el saldo y valor de sus participaciones, desglosadas por cada operación realizada con todos sus datos, tanto los financieros como los fiscales que procedan a efectos del cumplimiento de las obligaciones tributarias que correspondan al comercializador.
+Una entidad comercializadora no podrá simultanear para un partícipe en un fondo de inversión, respecto de una misma clase de participaciones, su inclusión en el registro de partícipes de la entidad comercializadora con su inclusión en el registro de partícipes de la sociedad gestora del fondo, de forma que toda su inversión en el fondo canalizada a través del mismo comercializador deberá figurar a nombre del partícipe en un único registro. Cuando una sociedad gestora acuerde con un comercializador para un fondo de inversión el sistema de registro a que se refieren los párrafos anteriores, dicho sistema también se podrá aplicar a las inversiones que correspondan a partícipes que en el momento de hacerse efectivo el mencionado acuerdo figuren inscritos en el registro de la sociedad gestora del fondo como titulares de participaciones intermediadas por el citado comercializador.
+En los contratos que se celebren entre la sociedad gestora y la comercializadora, o entre la entidad mediadora a la que se refiere el párrafo tercero anterior y la comercializadora, deberá establecerse la obligación de esta última de remitir o poner a disposición de los partícipes canalizados a través de ella los documentos informativos que, conforme a lo establecido en la normativa reguladora de las instituciones de inversión colectiva, tengan derecho a recibir, para lo que la sociedad gestora deberá facilitar a la entidad comercializadora, directamente o a través de la mencionada entidad mediadora la información que resulte pertinente conforme a la normativa aplicable en cada momento. Asimismo, en estos contratos deberá establecerse la obligación de la entidad comercializadora de remitir a la sociedad gestora, directamente o a través de la mencionada entidad mediadora, toda aquella información estadística de carácter agregado relativa a partícipes que, conforme a la normativa vigente, deba remitir dicha sociedad gestora a la Comisión Nacional del Mercado de Valores, siempre y cuando la sociedad gestora no disponga de dicha información.
+Cuando, de acuerdo con lo dispuesto en los párrafos anteriores, las participaciones figuren en el registro de la sociedad gestora a nombre del comercializador por cuenta de partícipes, a efectos de la información y salvaguarda de los activos de los inversores, se aplicará la normativa en materia de mercado de valores. En particular, será de aplicación lo previsto en el artículo 42.2 del Real Decreto 217/2008, de 15 de febrero, sobre el régimen jurídico de las empresas de servicios de inversión y de las demás entidades que prestan servicios de inversión y por el que se modifica parcialmente el Reglamento de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, aprobado por el Real Decreto 1309/2005, de 4 de noviembre. Lo dispuesto en este párrafo resultará de aplicación, en su caso, a la entidad mediadora a la que se refiere el párrafo tercero. Las suscripciones o adquisiciones de participaciones o acciones deberán efectuarse obligatoriamente mediante cheque nominativo librado a favor de la IIC, transferencia bancaria a favor de la misma o mediante entrega en efectivo directamente por la persona interesada al depositario, para su posterior abono en la cuenta del fondo o de la sociedad.
+Reglamentariamente se podrán desarrollar otros aspectos relativos al procedimiento de comercialización previsto en este apartado, entre ellos, el régimen de comisiones.
+4. Las funciones que las sociedades gestoras desempeñen con arreglo a lo dispuesto en esta ley y sus normas de desarrollo las llevarán a cabo con la diligencia de un ordenado empresario y de un representante leal.
+5. Las sociedades gestoras podrán delegar, total o parcialmente, en terceras entidades la gestión de los activos que integren los patrimonios de las IIC gestionadas de acuerdo con las condiciones que se establezcan reglamentariamente. En ningún caso la responsabilidad de la sociedad de gestión se podrá ver afectada por el hecho de que ésta delegue funciones en terceros.
+6. Se entenderán reservadas a las SGIIC las actividades definidas en el párrafo primero del apartado 1 de este artículo.
+7. La denominación "Sociedad Gestora de Instituciones de Inversión Colectiva" y sus siglas "SGIIC" serán privativas de las entidades inscritas en el registro correspondiente de la CNMV, no pudiendo ninguna otra entidad utilizar dichas denominaciones u otras que induzcan a confusión con ellas.
+El Registro Mercantil y los demás registros públicos no inscribirán a aquellas sociedades cuya actividad u objeto social o cuya denominación contradiga lo dispuesto en la presente ley, so pena de nulidad de pleno derecho. Dicha nulidad no perjudicará los derechos de terceros adquiridos de buena fe, conforme al contenido de los correspondientes registros.
+8. Ninguna persona o entidad podrá, sin haber obtenido la preceptiva autorización y sin hallarse inscrita en los registros de la CNMV desarrollar las actividades legalmente reservadas a las SGIIC, ni utilizar la denominación a que se refiere el apartado 7 del presente artículo o cualquier otra expresión que induzca a confusión con ellas.
+9. Las personas o entidades que incumplan lo establecido en este artículo serán sancionadas según lo previsto en el título VI de esta ley. Si requeridas para que cesen inmediatamente en la utilización de las denominaciones o en la oferta o realización de las actividades, continuaran utilizándolas o realizándolas, serán sancionadas con multas coercitivas por importe de hasta 300.000 euros, que podrán ser reiteradas con ocasión de posteriores requerimientos.
+Será competente para la formulación de los requerimientos y para la imposición de las multas a que se refiere el párrafo anterior, la CNMV, que también podrá hacer advertencias públicas respecto de la existencia de esta conducta. Los requerimientos se formularán previa audiencia de la persona o entidad interesada y las multas se impondrán con arreglo al procedimiento previsto en esta ley.
+10. Lo dispuesto en este artículo se entiende sin perjuicio de las demás responsabilidades, incluso de orden penal, que puedan ser exigibles.
+11. A las sociedades gestoras les corresponderá la obligación de la llevanza y el mantenimiento de los registros y documentos en relación con las participaciones y, en general, con sus operaciones en el mercado de valores.
+Se modifican los apartados 1 y 2 por el art. 16.4 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se modifica el apartado 3 por la disposición final 1.4 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican los apartados 1 y 2 por la disposición final 1.17 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica el apartado 3, con efectos desde el 1 de enero de 2014, por la disposición final 1.2 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifican los apartados 1, 2 y 3 por el art. único.36 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## CAPÍTULO II
+
+Condiciones de acceso a la actividad
+
+### Artículo 41
+
+Artículo 41. Autorización y registro.
+1. Corresponderá a la Comisión Nacional del Mercado de Valores autorizar con carácter previo, la creación de una SGIIC. Una vez constituidas, para dar comienzo a su actividad, deberán inscribirse en el Registro Mercantil y en el correspondiente registro de la Comisión Nacional del Mercado de Valores.
+La Comisión Nacional del Mercado de Valores notificará a la Autoridad Europea de Valores y Mercados cada autorización concedida o revocada con la periodicidad que se determine reglamentariamente.
+2. La solicitud de autorización deberá ir acompañada de los documentos que se establezcan, entre los que figurarán necesariamente, el proyecto de estatutos y una memoria en la que se describirá con detalle la estructura organizativa de la sociedad, la relación de actividades a desarrollar y los medios técnicos y humanos de que dispondrá, relación de quiénes ostentarán cargos de administración o dirección en la entidad, así como la acreditación de la honorabilidad y de la profesionalidad de estos, la identidad de los accionistas, ya sean directos o indirectos, personas físicas o jurídicas, que posean una participación significativa en la sociedad y el importe de la misma y, en general, cuantos datos, informes o antecedentes se consideren oportunos para verificar el cumplimiento de las condiciones y requisitos establecidos en este capítulo.
+Asimismo, en la solicitud de autorización, las sociedades gestoras, de conformidad con lo que se determine reglamentariamente, deberán incluir información sobre:
+a) Las políticas y prácticas remunerativas establecidas para los altos directivos, los responsables de asumir riesgos, los que ejerzan funciones de control así como cualquier empleado incluido en el mismo grupo de remuneración que los anteriores, las cuales deberán ser acordes con una gestión racional y eficaz del riesgo, de forma que no se induzca a la asunción de riesgos incompatibles con el perfil de riesgo de los vehículos que gestionan.
+b) Información sobre las disposiciones adoptadas para la delegación y subdelegación de funciones en terceros.
+3. Deberá ser objeto de consulta previa con la autoridad supervisora del correspondiente Estado miembro de la Unión Europea la autorización de una sociedad gestora cuando concurra alguna de las siguientes circunstancias:
+a) que la sociedad gestora sea filial de otra sociedad gestora, empresa de servicios de inversión, entidad de crédito o de una entidad aseguradora autorizada en otro Estado miembro de la Unión Europea,
+b) que la sociedad gestora sea filial de la empresa matriz de otra sociedad gestora, empresa de servicios de inversión, entidad de crédito o de una entidad aseguradora autorizada en otro Estado miembro de la Unión Europea,
+c) que esté bajo el control de las mismas personas físicas o jurídicas que otra sociedad gestora, empresa de servicios de inversión, entidad de crédito o entidad aseguradora autorizada en otro Estado miembro.
+4. La resolución de la autorización de la Comisión Nacional del Mercado de Valores, que en todo caso habrá de ser motivada, deberá notificarse dentro de los tres meses siguientes a la presentación de la solicitud o al día en que se complete la documentación exigible.
+Se podrán prolongar estos plazos en tres meses cuando se considere necesario y se notifique previamente a la SGIIC. Si transcurre dicho plazo sin que se dicte resolución expresa, podrá entenderse estimada la solicitud por silencio administrativo, con los efectos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. En el caso de creación de SGIIC que vayan a estar controladas, de forma directa o indirecta, por una o varias empresas autorizadas o domiciliadas en un Estado no miembro de la Unión Europea, deberá suspenderse la concesión de la autorización pedida, denegarse o limitarse sus efectos, cuando hubiera sido notificada a España, una decisión adoptada por la Unión Europea al respecto de que las SGIIC comunitarias no se benefician en dicho Estado de un trato que ofrezca las mismas condiciones de competencia que a sus entidades nacionales, y que no se cumplen las condiciones de acceso efectivo al mercado.
+6. La autorización a la que se refiere este artículo caducará si transcurrido el plazo de un año, a contar desde el día siguiente a la fecha de notificación de la resolución administrativa por la que se concede la autorización, los promotores de la SGIIC no solicitaran su inscripción en el correspondiente registro de la CNMV.
+Se modifican los apartados 1, 2 y 4 por la disposición final 1.18 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.37 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 41 bis
+
+Artículo 41 bis. Supuestos de exención.
+1. Las SGIIC podrán quedar exceptuadas del cumplimiento de algunas de las obligaciones de esta Ley, de acuerdo con lo que se disponga reglamentariamente, cuando cumplan los siguientes requisitos:
+a) Que únicamente gestionen entidades de inversión y cuyos activos bajo gestión sean inferiores a 100 millones de euros, incluidos los activos adquiridos mediante recurso al apalancamiento, o
+b) 500 millones de euros cuando las entidades de inversión que gestionen no estén apalancadas y no tengan derechos de reembolso que puedan ejercerse durante un período de cinco años después de la fecha de inversión inicial.
+A efectos del cálculo de los umbrales computarán como activos bajo gestión de la SGIIC todos los activos en entidades de inversión constituidas con arreglo a la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, que gestione tanto la propia sociedad gestora directamente, como indirectamente por medio de una empresa con la que la gestora esté relacionada por motivos de gestión o control común, o por una participación directa o indirecta significativa.
+2. Las gestoras anteriores deberán informar a la Comisión Nacional del Mercado de Valores de las IIC que gestionen y proporcionarle información sobre las estrategias de inversión. Asimismo, facilitarán periódicamente información a la Comisión Nacional del Mercado de Valores sobre los principales instrumentos en los que inviertan así como sobre los principales riesgos y concentraciones tal y como se establece en la normativa de desarrollo de esta Ley.
+3. Dichas gestoras deberán informar a la Comisión Nacional del Mercado de Valores cuando dejen de cumplir las condiciones que figuran en el apartado 1.
+4. Lo previsto en el apartado 1 de este artículo no será de aplicación para las SGIIC que comercialicen IIC a inversores que no sean profesionales.
+A estos efectos, las SGIIC deberán atenerse a lo establecido en el Reglamento delegado (UE) n.º 231/2013 de la Comisión, de 19 de diciembre de 2012.
+Se añade por la disposición final 1.19 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 42
+
+Artículo 42. Denegación de la autorización.
+El Ministro de Economía sólo podrá denegar la autorización para constituir una SGIIC por las siguientes causas:
+a) Incumplimiento de los requisitos normativos exigidos y, en particular, los previstos en el artículo siguiente.
+b) Cuando, atendiendo a la necesidad de garantizar una gestión correcta y prudente de la entidad, no se considere adecuada la idoneidad de los accionistas que vayan a tener una participación significativa. La idoneidad se apreciará, entre otros factores, en función de:
+1.ª La honorabilidad empresarial y profesional de los accionistas.
+2.ª Los medios patrimoniales con que cuenten dichos accionistas para atender los compromisos asumidos.
+3.ª La posibilidad de que la entidad quede expuesta de forma inapropiada al riesgo de las actividades no financieras de sus promotores o, cuando tratándose de actividades financieras, la estabilidad o control de la entidad puedan quedar afectados por el alto riesgo de aquéllas.
+c) Cuando se dé cualquiera de las causas establecidas en el apartado cuarto del artículo 10 de esta ley.
+d) La existencia de graves conflictos de interés entre los cargos, responsabilidades o funciones ostentados por los miembros del consejo de administración de la SGIIC y otros cargos, responsabilidades o funciones que ostenten de forma simultánea.
+Se añade la letra d) por el art. único.38 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 43
+
+Artículo 43. Requisitos de acceso a la actividad.
+1. Las sociedades gestoras deberán reunir los siguientes requisitos para obtener y conservar la autorización:
+a) Revestir la forma de sociedad anónima o de sociedad de responsabilidad limitada, constituida por tiempo indefinido, y que las acciones integrantes del capital social tengan carácter nominativo.
+b) Tener por objeto social exclusivo el previsto en el artículo 40 de esta ley. Con carácter principal, deberán realizar las actividades contempladas en el primer párrafo del artículo 40.1, sin perjuicio de que puedan ser autorizadas para realizar el resto de las actividades previstas en dicho artículo.
+c) Que su domicilio social, así como su efectiva administración y dirección, estén situados en territorio español.
+d) Que, cuando se trate de una entidad de nueva creación, se constituya por el procedimiento de fundación simultánea y que sus fundadores no se reserven ventajas o remuneraciones especiales de clase alguna.
+e) Disponer del capital social mínimo que se establezca reglamentariamente, totalmente desembolsado en efectivo y posteriormente con los niveles de recursos propios que se exijan, proporcionados al valor real de los patrimonios que administren.
+f) Que cuente con un consejo de administración formado por no menos de tres miembros.
+g) Que se comunique la identidad de todos los accionistas, directos o indirectos, personas físicas o jurídicas, que posean una participación significativa en la sociedad, y el importe de dicha participación.
+h) Que quienes ostenten cargos de administración o dirección en la sociedad cuenten con los requisitos de honorabilidad establecidos en la letra c) del apartado 2 del artículo 11 de esta ley y que la mayoría de los miembros de su consejo de administración, o de sus comisiones ejecutivas, así como todos los consejeros delegados y directores generales y asimilados, cuenten con los requisitos de conocimiento y experiencia establecidos en la letra d) del apartado 2 del artículo 11 de esta ley, atendiendo al carácter de la IIC y tipos de carteras que la sociedad de gestión pretenda gestionar.
+i) Que cuente con una buena organización administrativa y contable, así como con medios humanos y técnicos adecuados, en relación con su objeto.
+j) Que cuente con procedimientos y mecanismos de control interno adecuados que garanticen la gestión correcta y prudente de la sociedad, incluyendo procedimientos de gestión de riesgos, así como mecanismos de control y de seguridad en el ámbito informático y órganos y procedimientos para la prevención del blanqueo de capitales y de la financiación del terrorismo, un régimen de operaciones vinculadas y un reglamento interno de conducta. El reglamento interno de conducta no deberá ser aportado a la CNMV con carácter previo a su aplicación, aunque estará a disposición de la misma siempre que este organismo lo requiera. La sociedad gestora deberá estar estructurada y organizada de modo que se reduzca al mínimo el riesgo de que los intereses de las IIC o de los clientes se vean perjudicados por conflictos de intereses entre la sociedad y sus clientes, entre clientes, entre uno de sus clientes y una IIC o entre dos IIC.
+k) Que haya presentado documentación adecuada sobre las condiciones y los servicios, funciones o actividades que vayan a ser subcontratadas o externalizadas, de forma que pueda verificarse que este hecho no desnaturaliza o deja sin contenido la autorización solicitada.
+2. Cuando la sociedad gestora esté autorizada para comercializar la suscripción y reembolso de participaciones de fondos de inversión o la adquisición y enajenación de acciones de sociedades de inversión, podrán exigirse los requisitos adicionales de solvencia y operativos que se determinen.
+3. La gestión de activos de personas o entidades distintas a las IIC se efectuará con arreglo a los requisitos y condiciones que regulen dicha gestión. En particular, las SGIIC no podrán invertir ni la totalidad ni parte de la cartera de un inversor en participaciones o acciones de IIC por ella gestionados, salvo con el consentimiento general previo del cliente. Asimismo, quedarán sujetas exclusivamente en relación con la gestión discrecional e individualizada de carteras de inversiones a que se refiere el párrafo a) del apartado 1 del artículo 40 de esta ley y sólo por el patrimonio gestionado en relación con la misma, a las normas relativas a los sistemas de indemnización de los inversores previstos en el artículo 77 de la Ley del Mercado de Valores.
+Se modifica el apartado 1 por la disposición final 4.10 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se modifica el apartado 1 por el art. 16.5 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se modifca el apartado 1 por el art. único.39 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica la letra j) del apartado 1 por la disposición final 3 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737
+
+## CAPÍTULO III
+
+Condiciones de ejercicio
+
+### Artículo 44
+
+Artículo 44. Modificación de estatutos.
+1. Las modificaciones del proyecto constitutivo y de los estatutos sociales de las sociedades gestoras se sujetarán, con las excepciones que se determinen, al procedimiento de autorización previsto en este título.
+Todas ellas deberán ser objeto de inscripción en el Registro Mercantil y en el de la CNMV.
+2. No requerirán autorización previa, aunque deberán ser comunicadas a la CNMV para su constancia en el registro correspondiente, las modificaciones de los estatutos sociales de las sociedades gestoras que tengan por objeto:
+a) El cambio de denominación de la sociedad gestora.
+b) El cambio de domicilio dentro del territorio nacional.
+c) Incorporar a los estatutos de la sociedad gestora preceptos legales o reglamentarios de carácter imperativo o prohibitivo, o cumplir resoluciones judiciales o administrativas.
+d) Las ampliaciones y reducciones de capital.
+e) Aquellas otras modificaciones para las que la CNMV, en contestación a consulta previa formulada al efecto por la institución afectada, haya considerado innecesario, por su escasa relevancia, el trámite de autorización.
+Se modifica el apartado 2.d) por el art. único.40 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 45
+
+Artículo 45. Participaciones significativas.
+1. A los efectos de esta Ley, se entenderá por participación significativa en una Sociedad Gestora aquélla que alcance, de forma directa o indirecta, al menos el diez por ciento del capital o de los derechos de voto de la Sociedad.
+También tendrá la consideración de participación significativa, en los términos que se determinen reglamentariamente aquélla que, sin llegar al porcentaje señalado, permita ejercer una influencia notable en la Sociedad.
+2. Toda persona física o jurídica que, por sí sola o actuando de forma concertada con otras, haya adquirido, directa o indirectamente, una participación en una sociedad gestora, de tal forma que su porcentaje de derechos de voto o de capital poseído resulte igual o superior al 5 por ciento, lo comunicará inmediatamente por escrito a la Comisión Nacional del Mercado de Valores y a la sociedad gestora correspondiente, indicando la cuantía de la participación alcanzada.
+3. Toda persona física o jurídica que, por sí sola o actuando de forma concertada con otras, pretenda adquirir, directa o indirectamente, una participación significativa en una sociedad gestora o bien, incrementar, directamente o indirectamente, su participación significativa de tal forma que su porcentaje de capital o derechos de voto alcance o sobrepase el 20 por ciento, 30 por ciento ó 50 por ciento, deberá informar previamente de ello a la Comisión Nacional del Mercado de Valores, indicando la cuantía de dicha participación, el modo de adquisición y el plazo máximo en que se pretenda realizar la operación. En todo caso, esta obligación será también exigible a quien en virtud de la adquisición pretendida pudiera llegar a controlar la Sociedad Gestora.
+4. Se entenderá que existe una relación de control a los efectos de este Título siempre que se dé alguno de los supuestos previstos en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+5. Será de aplicación para la adquisición de una participación significativa en una sociedad gestora lo previsto en el artículo 69.4, 5, 6 y 7 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, con las adaptaciones que se establezcan reglamentariamente.
+6. En el supuesto de que, como consecuencia de la adquisición, la sociedad gestora fuera a quedar bajo alguna de las modalidades de control previstas en el apartado 3 del artículo 41 de esta Ley, la Comisión Nacional del Mercado de Valores deberá consultar a la autoridad supervisora competente.
+La Comisión Nacional del Mercado de Valores deberá suspender su decisión o limitar sus efectos cuando en virtud de la adquisición la sociedad gestora vaya a quedar controlada por una empresa autorizada en un Estado no miembro de la Unión Europea y se den las circunstancias previstas en el apartado 4 del artículo 66 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+7. Cuando se efectúe una adquisición de las reguladas en el apartado 3 sin haber informado previamente a la Comisión Nacional del Mercado de Valores; habiéndole informado, pero sin que hubiera transcurrido todavía el plazo previsto en el apartado 5 de este artículo, o con la oposición expresa de la Comisión Nacional del Mercado de Valores, se producirán los siguientes efectos:
+a) En todo caso, y de forma automática, no se podrán ejercer los derechos políticos correspondientes a las participaciones adquiridas irregularmente. Si, no obstante, llegaran a ejercerse, los correspondientes votos serán nulos y los acuerdos serán impugnables en vía judicial, según lo previsto en la Ley de Sociedades de Capital, estando legitimada al efecto la CNMV.
+b) Se podrá acordar la suspensión de actividades prevista en el artículo 51 de esta Ley.
+c) Si fuera preciso, se acordará la intervención de la empresa o la sustitución de sus administradores, según lo previsto en el artículo 72 de esta Ley.
+Además, se podrán imponer las sanciones previstas en el Título VI de esta Ley.
+8. Toda persona física o jurídica que, directa o indirectamente, pretenda dejar de tener una participación significativa en una sociedad gestora, que pretenda reducir su participación de forma que esta se reduzca por debajo de algunos de los niveles previstos en el apartado 3 de este artículo, o que, en virtud de la enajenación pretendida, pueda perder el control de la sociedad, deberá informar previamente a la Comisión Nacional del Mercado de Valores, indicando la cuantía de la operación propuesta y el plazo previsto para llevarla a cabo.
+El incumplimiento de este deber de información será sancionado según lo previsto en el Título VI de esta Ley.
+9. Las sociedades gestoras deberán comunicar a la Comisión Nacional del Mercado de Valores, en cuanto tengan conocimiento de ello, las adquisiciones o cesiones de participaciones en su capital que traspasen alguno de los niveles señalados en los apartados anteriores. Dichas sociedades no inscribirán en su libro registro de acciones las transmisiones de acciones que estén sometidas a la obligación de comunicación previa establecida conforme a este artículo hasta que no se justifique la no oposición de la Comisión Nacional del Mercado de Valores o, en su caso, se les acredite que se le ha realizado la comunicación a la Comisión Nacional del Mercado de Valores y que ha transcurrido el plazo establecido para la oposición.
+10. Cuando existan razones fundadas y acreditadas de que la influencia ejercida por las personas que posean una participación significativa en una sociedad gestora pueda resultar en detrimento de la gestión correcta y prudente de la misma y dañar gravemente su situación financiera, la Comisión Nacional del Mercado de Valores adoptará alguna o algunas de las siguientes medidas:
+a) Las previstas en los párrafos a) y b) del apartado 7 del presente artículo, si bien la suspensión de los derechos de voto no podrá exceder de tres años.
+b) Con carácter excepcional, la revocación de la autorización.
+Además, se podrán imponer las sanciones que procedan según lo previsto en el Título VI de esta Ley.
+Se modifica el apartado 7.a) por el art. único.41 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica por la disposición final 2.2 de la Ley 5/2009, de 29 de junio. Ref. BOE-A-2009-10751
+
+### Artículo 46
+
+Artículo 46. Obligaciones y responsabilidad.
+1. Las sociedades gestoras deberán cumplir las obligaciones previstas en esta ley y sus normas de desarrollo y, en especial, las siguientes:
+a) Comunicar a la CNMV aquellos cambios en las condiciones de la autorización que puedan ser relevantes con relación a las facultades y la labor supervisora de la CNMV.
+b) Informar a la CNMV de las inversiones en que materialicen sus recursos propios y por cuenta de los fondos y sociedades que administren.
+c) Informar a la CNMV de forma periódica sobre la composición de su accionariado o de las alteraciones que en el mismo se produzcan en los términos que se establezcan reglamentariamente. Tal información comprenderá, necesariamente, la relativa a la participación de otras entidades financieras en su capital, cualquiera que fuera su cuantía. Reglamentariamente se establecerá en qué casos la información suministrada tendrá carácter público.
+d) En relación con los fondos gestionados, reglamentariamente se establecerán aquellos supuestos en los que, en atención a la relevancia cuantitativa y al carácter estable de la participación del fondo en el capital de una sociedad, la sociedad gestora estará obligada a ejercer todos los derechos inherentes a los valores integrados en el fondo en beneficio exclusivo de los partícipes, especialmente el derecho de asistencia y voto en las juntas generales.
+e) Emitir los certificados de las participaciones en los fondos de inversión que estén representadas a través de dichos títulos. Asimismo, podrán solicitar a las entidades encargadas de los registros contables o a las entidades responsables de la administración de la inscripción y registro, por cuenta y en nombre de los partícipes, la expedición de los certificados a los que alude el artículo 14 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, cuando se trate de participaciones representadas mediante anotaciones en cuenta o sistemas basados en tecnología de registros distribuidos. Lo anterior no será aplicable en el caso de que en el registro de partícipes de la sociedad gestora, las participaciones figuren a nombre de una entidad comercializadora por cuenta de partícipes, de acuerdo con lo establecido en el artículo 40.3 de esta ley, en cuyo caso será dicha entidad comercializadora la que deba emitir los certificados correspondientes a cada uno de los partícipes.
+2. Las sociedades gestoras actuarán en beneficio de los partícipes o accionistas de las instituciones cuyos activos administren y las comisiones que perciban de ellos tendrán los límites establecidos de acuerdo con lo dispuesto en el artículo 8 de esta ley. Le corresponderán a la sociedad gestora las facultades del dominio sobre el patrimonio del fondo, sin ser propietaria del mismo, ejerciéndolas en interés de los partícipes, de acuerdo con lo dispuesto en esta ley, en sus normas de desarrollo y en el reglamento de gestión.
+3. La sociedad gestora estará obligada a remitir a los depositarios toda la información que se precise reglamentariamente. Asimismo, estarán obligados a comunicar a la CNMV cualquier anomalía que detecten en las funciones del depositario respecto de los activos que administren.
+4. La sociedad gestora será responsable frente a los partícipes o accionistas de todos los perjuicios que les causare por incumplimiento de sus obligaciones legales. La sociedad gestora está obligada a exigir al depositario responsabilidad en el ejercicio de sus funciones en nombre de los partícipes.
+5. Adicionalmente, y sin perjuicio de lo establecido en el Reglamento delegado (UE) n.º 231/2013 de la Comisión de 19 de diciembre de 2012, podrán establecerse reglamentariamente, entre otras, las obligaciones de las sociedades gestoras en relación a:
+a) Las políticas y prácticas remunerativas.
+b) Las medidas que deberán adoptar para detectar, impedir, gestionar y controlar los conflictos de interés que pudieran surgir durante la gestión de IIC.
+c) La adecuada gestión del riesgo. En particular, las sociedades gestoras al evaluar la solvencia de los activos de las IIC no dependerán, de manera exclusiva y automática, de las calificaciones emitidas por las agencias de calificación crediticia definidas en el artículo 3, apartado 1, letra b), del Reglamento (CE) n.º 1060/2009 del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, sobre agencias de calificación crediticia.
+d) Las medidas para garantizar un sistema adecuado de gestión de la liquidez.
+Se modifica el apartado 1 por la disposición final 4.11 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se suprime el segundo párrafo de la letra e) del apartado 1 por el art. 1.1 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#ap
+ Se añade el apartado 5 por la disposición final 1.20 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica la letra e) del apartado 1, con efectos desde el 1 de enero de 2014, por la disposición final 1.3 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se añade la letra e) al apartado 1 por el art. único.42 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 46 bis
+
+Artículo 46 bis. Información sobre las políticas de remuneración.
+1. Las SGIIC deberán hacer pública, en el informe anual, la siguiente información sobre sus políticas de remuneración:
+a) La cuantía total de la remuneración abonada por la sociedad gestora a su personal, desglosada en remuneración fija y variable, el número de beneficiarios y, cuando proceda, las remuneraciones que se basen en una participación en los beneficios de la IIC obtenida por la SGIIC como compensación por la gestión y excluida toda participación en los beneficios de la IIC obtenida como rendimiento del capital invertido por la SGIIC en la IIC.
+b) El importe agregado de la remuneración, desglosado entre altos cargos y empleados de la Sociedad gestora cuya actuación tenga una incidencia material en el perfil de riesgo de la IIC.
+2. Al fijar y aplicar la política remunerativa total, incluidos los salarios y los beneficios discrecionales de pensiones, de aquellas categorías de personal, incluidos los altos directivos, los responsables de asumir riesgos y los que ejercen funciones de control, y cualquier empleado que perciba una remuneración total que lo incluya en el mismo grupo de remuneración que los altos directivos y los responsables de asumir riesgos, cuyas actividades profesionales inciden de manera importante en el perfil de riesgo de las SGIIC o de las IIC que gestionen, las SGIIC se atendrán a los principios que a continuación se indican, de manera y en la medida acorde con sus dimensiones, con su organización interna y con la naturaleza, el alcance y la complejidad de sus actividades:
+a) La política remunerativa será acorde con una gestión sana y eficaz del riesgo, propiciará este tipo de gestión y no ofrecerá incentivos para asumir riesgos incompatibles con los perfiles de riesgo, las normas de los fondos o los estatutos de las IIC que gestionen.
+b) La política remunerativa será compatible con la estrategia empresarial, los objetivos, los valores y los intereses de la SGIIC y de las IIC que gestionen o de los inversores de la IIC, e incluirá medidas para evitar los conflictos de intereses.
+c) El órgano de dirección, en su función supervisora de la SGIIC, fijará los principios generales de la política remunerativa, los revisará periódicamente y será también responsable de su aplicación.
+d) Al menos una vez al año, se hará una evaluación interna central e independiente de la aplicación de la política remunerativa, al objeto de verificar si se cumplen las políticas y los procedimientos de remuneración adoptados por el órgano de dirección en su función supervisora.
+e) Los miembros del personal que participen en la gestión de riesgos serán compensados en función de la consecución de los objetivos vinculados a sus funciones, con independencia de los resultados que arrojen las áreas de negocio por ellos controladas.
+f) La remuneración de los altos directivos en la gestión del riesgo y en funciones de cumplimiento estará supervisada directamente por el comité de remuneración.
+g) Cuando la remuneración esté vinculada a los resultados, su importe total se basará en una evaluación en la que se combinen los resultados de la persona y los de la unidad de negocio o las IIC afectadas y los resultados globales de la SGIIC, y en la evaluación de los resultados individuales se atenderá tanto a criterios financieros como no financieros.
+h) La evaluación de los resultados se llevará a cabo en un marco plurianual adecuado al ciclo de vida de la IIC gestionado por la SGIIC, a fin de garantizar que el proceso de evaluación se base en los resultados a más largo plazo y que la liquidación efectiva de los componentes de la remuneración basados en los resultados se extienda a lo largo de un período que tenga en cuenta la política de reembolso de la IIC que gestione y sus riesgos de inversión.
+i) La remuneración variable solo podrá garantizarse en casos excepcionales, en el contexto de la contratación de nuevo personal y con carácter limitado al primer año.
+j) En la remuneración total, los componentes fijos y los componentes variables estarán debidamente equilibrados; el componente fijo constituirá una parte suficientemente elevada de la remuneración total, de modo que la política de elementos variables de la remuneración pueda ser plenamente flexible, hasta tal punto que sea posible no pagar ningún componente variable de la remuneración.
+k) Los pagos por rescisión anticipada de un contrato se basarán en los resultados obtenidos en el transcurso del tiempo y se establecerán de forma que no recompensen los malos resultados.
+l) En la medición de los resultados con vistas a calcular los componentes variables de la remuneración o los lotes de componentes variables de la remuneración se incluirá un mecanismo completo de ajuste para integrar todos los tipos de riesgos corrientes y futuros.
+m) En función de la estructura legal de la IIC y los reglamentos o documentos constitutivos, una parte sustancial, que es al menos el 50 por ciento de cualquier remuneración variable, consistirá en participaciones de la IIC en cuestión, o intereses de propiedad equivalentes, o instrumentos vinculados a acciones, o instrumentos equivalentes distintos del efectivo, salvo si la gestión de la IIC representa menos del 50 por ciento de la cartera total gestionado por la SGIIC, en cuyo caso no se aplicará el mínimo del 50 por ciento.
+Estos instrumentos están sujetos a una política de retención apropiada destinada a alinear los incentivos con los intereses de las SGIIC y las IIC que gestionan y los inversores de las IIC.
+n) Una parte sustancial, que represente al menos el 40 por ciento del componente de remuneración variable, se aplazará durante un período oportuno en función del ciclo de vida y de la política de reembolso de la IIC de que se trate y se adaptará adecuadamente a la naturaleza de los riesgos de la IIC de que se trate.
+El período a que se refiere el párrafo anterior será de entre tres y cinco años como mínimo, salvo si el ciclo de vida de la IIC en cuestión es más corto; no se entrará en posesión de la remuneración pagadera en virtud de disposiciones de aplazamiento más rápidamente que de manera proporcional; en el caso de un elemento de remuneración variable de una cuantía especialmente elevada, se aplazará como mínimo el 60 por ciento.
+ñ) La remuneración variable, incluida la parte aplazada, se pagará o se entrará en posesión de la misma únicamente si resulta sostenible con arreglo a la situación financiera de la SGIIC en su conjunto, y si se justifica con arreglo a los resultados de la unidad de negocio de la IIC y de la persona de que se trate.
+La remuneración variable total se contraerá generalmente de forma considerable cuando la SGIIC o la IIC obtengan unos resultados financieros mediocres o negativos, teniendo en cuenta la remuneración actual y la reducción de los pagos de los importes obtenidos anteriormente, incluso a través de disposiciones de penalización o recuperación.
+o) La política de pensiones será compatible con la estrategia empresarial, los objetivos, los valores y los intereses a largo plazo de la SGIIC y de las IIC que gestione.
+Si el empleado abandona la SGIIC antes de su jubilación, la SGIIC tendrá en su poder los beneficios discrecionales de pensión por un período de cinco años en forma de instrumentos como los definidos en la letra m). Si un empleado alcanza la edad de jubilación, se le abonarán los beneficios discrecionales de pensión en forma de instrumentos como los definidos en la letra m) sujetos a un período de retención de cinco años.
+p) los miembros del personal se comprometerán a no hacer uso de estrategias personales de cobertura de riesgos o de seguros relacionados con la responsabilidad con el fin de socavar los efectos de alineación de riesgos integrados en su régimen de remuneración.
+q) la remuneración variable no se abonará mediante instrumentos o métodos que permitan eludir los requisitos que establece esta Ley y su desarrollo reglamentario.
+3. Los principios indicados en el apartado 2 serán aplicables a cualquier tipo de remuneración que abone la SGIIC; a cualquier importe abonado directamente por la propia IIC, incluyendo intereses acumulados; y a toda transferencia de participaciones de la IIC en beneficio de aquellas categorías de personal, incluidos los altos directivos, los responsables de asumir riesgos y los que ejercen funciones de control y cualquier empleado que perciba una remuneración total que lo incluya en el mismo grupo de remuneración que los altos directivos y los responsables de asumir riesgos, cuyas actividades profesionales incidan de manera importante en su perfil de riesgo o en los perfiles de riesgo de las IIC que gestionen.
+4. Las SGIIC importantes por razón de su tamaño o por la importancia de las IIC que gestionen, por su organización interna y por la naturaleza, alcance y complejidad de sus actividades, instituirán un comité de remuneraciones. Este comité se constituirá de manera que pueda evaluar con competencia e independencia las normas y prácticas remunerativas y los incentivos establecidos para la gestión de riesgos.
+El comité de remuneraciones se encargará de la preparación de las decisiones relativas a las remuneraciones, incluidas las que tengan repercusiones para el riesgo y la gestión de riesgos de la SGIIC o de la IIC de que se trate y que deberá adoptar el órgano de dirección en su función supervisora. El comité de remuneraciones estará presidido por un miembro del órgano de dirección que no ejerza funciones ejecutivas en la SGIIC de que se trate. Los miembros del comité de remuneraciones serán miembros del órgano de dirección que no ejerzan funciones ejecutivas en la SGIIC de que se trate.
+5. Reglamentariamente se podrán desarrollar los principios establecidos en este artículo.
+Se añade por la disposición final 1.21 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 47
+
+Artículo 47. Auditoría de cuentas y otras condiciones de ejercicio.
+Las sociedades gestoras deberán someterse a la auditoría de cuentas, de conformidad con lo dispuesto en la Ley 19/1988, de 12 de julio, de auditoría de cuentas, ajustando el ejercicio económico al año natural.
+Resultará de aplicación a la auditoría de las SGIIC lo previsto en el artículo 92, párrafo c) de la Ley del Mercado de Valores.
+Reglamentariamente se establecerán los coeficientes mínimos de inversión, diversificación y endeudamiento que deberán cumplir en todo momento.
+
+### Artículo 47 bis
+
+Artículo 47 bis. Obligaciones derivadas de la adquisición de participaciones significativas y del control de sociedades por IIC gestionadas por sociedades gestoras autorizadas al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+1. La SGIIC deberá notificar a la Comisión Nacional del Mercado de Valores, en el plazo máximo de 10 días hábiles, el porcentaje de derechos de voto resultante en los casos en los que una IIC adquiera o trasmita directa o indirectamente acciones o participaciones de una sociedad no cotizada, ya sea de forma individual o conjuntamente con base en un acuerdo con otras IIC o sus SGIIC, y como resultado de dichos negocios jurídicos, la proporción de derechos de voto que quede en su poder alcance o supere los umbrales del 10, 20, 30, 50 ó 75 por ciento o se reduzca por debajo de dichos umbrales.
+2. Cuando una IIC adquiera directa o indirectamente acciones o participaciones de una sociedad no cotizada, ya sea de forma individual o conjuntamente con base en un acuerdo con otras IIC o sus SGIIC, y como resultado de dicha adquisición pase a ostentar más del 50 por ciento de los derechos de voto de la sociedad no cotizada, su SGIIC deberá cumplir las siguientes obligaciones:
+a) Deberá notificar esta circunstancia a la Comisión Nacional del Mercado de Valores, a la sociedad no cotizada así como a aquellos socios cuyas identidades y direcciones conozca o pueda conocer a través de la sociedad adquirida o de un registro. La notificación deberá realizarse en el plazo máximo de 10 días hábiles y deberá contener la siguiente información:
+1.º La situación resultante, en términos de derechos de voto.
+2.º Las condiciones en las cuales ha adquirido el control, junto con la indicación de la identidad de los distintos socios afectados, de cualquier persona física o jurídica con capacidad para ejercer el derecho de voto en su nombre y, si procede, la cadena de sociedades por medio de las cuales se ejercen efectivamente los derechos de voto.
+3.º La fecha en la que se ha adquirido el control.
+b) Deberá poner la siguiente información a disposición de la Comisión Nacional del Mercado de Valores, de la sociedad no cotizada así como de aquellos socios cuyas identidades y direcciones conozca o pueda conocer a través de la sociedad adquirida o de un registro:
+1.º Su identidad.
+2.º Su política de prevención y de gestión de los conflictos de intereses, en particular, en relación con la IIC y la sociedad no cotizada, incluida la información sobre las salvaguardias específicas establecidas para garantizar que todo acuerdo entre ella, la IIC y la sociedad se haya celebrado en condiciones de independencia mutua.
+3.º La política de comunicación externa e interna relativa a la sociedad, en particular, en lo que respecta a los trabajadores.
+c) Deberá facilitar a la Comisión Nacional del Mercado de Valores y a los accionistas o partícipes de la IIC la información sobre la financiación de la adquisición.
+d) Deberá garantizar que la IIC, o ella misma cuando actúe por cuenta de ésta, informe a la sociedad no cotizada y a sus socios sobre sus intenciones con respecto a las actividades futuras de la sociedad no cotizada y las repercusiones sobre el empleo, incluido todo cambio material en las condiciones de empleo.
+e) Deberá incluir la siguiente información relativa a la sociedad no cotizada en el informe anual de la IIC que adquiera el control:
+1.º Una descripción de los acontecimientos importantes para la sociedad ocurridos después del cierre del ejercicio.
+2.º Una exposición fiel sobre la evolución de los negocios de la sociedad en la que se refleje la situación al final del ejercicio objeto del informe.
+3.º La evolución previsible de la sociedad.
+4.º En el supuesto de que se hayan adquirido acciones propias, la información a la que se refiere el artículo 148.d) del Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio.
+3. En el supuesto del apartado anterior, la SGIIC, en su notificación a la sociedad no cotizada, solicitará al consejo de administración de ésta que informe a los representantes legales de los trabajadores acerca de la adquisición del control por parte de la IIC y que ponga a su disposición la información prevista en las letras a), b), d) y e) de dicho apartado.
+4. En el supuesto previsto en el apartado 2, además, la SGIIC deberá cumplir las siguientes limitaciones relativas a la sociedad no cotizada durante un plazo de 24 meses desde la adquisición del control por parte de la IIC:
+a) No podrá adoptar operaciones de reducción de capital, a excepción de aquellas reducciones de capital social suscrito que tengan por objeto compensar pérdidas o incrementar las reservas indisponibles, siempre que tras dicha operación el importe de la reserva incrementada no sea superior al 10 por ciento del capital suscrito una vez reducido.
+b) No podrá acordar la distribución de dividendos si se da cualquiera de las siguientes condiciones:
+1.º Cuando a cierre del último ejercicio, el importe del patrimonio neto sea o pase a ser como consecuencia de una distribución de resultados inferior al capital suscrito sumado a las reservas legal y estatutariamente indisponibles. A estos efectos, cuando el capital suscrito no desembolsado no se hubiera contabilizado en el activo del balance, su importe deberá ser deducido del capital suscrito.
+2.º Cuando la distribución de dividendos exceda del importe de los resultados del último ejercicio cerrado, más los beneficios no distribuidos y los gastos imputados a las reservas de libre disposición a este fin, menos las pérdidas acumuladas y las dotaciones con cargo a las reservas legal y estatutariamente indisponibles.
+c) No podrá acordar la adquisición ni amortización de acciones o participaciones propias mediante reembolso a los socios cuando la adquisición sitúe el importe del patrimonio neto por debajo del importe previsto en el ordinal 1.º de la letra b) anterior. A estos efectos se computarán también las acciones o participaciones adquiridas con anterioridad por la sociedad y las adquiridas por una persona que actúe en nombre propio pero por cuenta de ésta. En caso de ser posible la adquisición de acciones o participaciones propias, se deberá ajustar a lo previsto en los artículos 140.1 y 144.b), c) y d) del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio.
+5. La SGIIC adoptará todas las medidas necesarias para evitar que por parte de la sociedad no cotizada se realicen las operaciones a las que se refiere el apartado anterior y, en caso de que esté representada en su consejo de administración, ejercerá su derecho de voto en la forma necesaria para impedirlas.
+6. La obligación de información prevista en el apartado 2.b) y las prohibiciones y obligaciones recogidas en los apartados 4 y 5 serán también de aplicación cuando una IIC adquiera el control de un emisor cuyos valores estén admitidos a negociación en un mercado secundario oficial o en otro mercado regulado domiciliado en la Unión Europea, ya sea de forma individual o conjuntamente con base en un acuerdo con otras IIC o sus SGIIC. A estos efectos, la adquisición del control se determinará de conformidad con la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+7. A efectos del cálculo de los porcentajes de derechos de voto establecidos en los apartados anteriores, se computarán también todas las acciones o participaciones que confieran derechos de voto, incluso cuando su ejercicio esté suspendido, así como aquellos otros valores e instrumentos financieros que confieran derecho a adquirir acciones que atribuyan a su vez derechos de voto.
+8. Las obligaciones y limitaciones previstas en este artículo no serán de aplicación en los siguientes supuestos:
+a) Cuando la IIC haya sido autorizada en virtud de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009.
+b) Cuando las sociedades no cotizadas o emisores sean:
+1.º Entidades que tengan la consideración de pequeñas y medianas empresas con arreglo al artículo 2, apartado 1 del anexo de la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas y pequeñas y medianas empresas, o
+2.º entidades de finalidad especial creadas para la adquisición, tenencia o administración de bienes inmuebles.
+9. Reglamentariamente se determinará el alcance de las obligaciones y limitaciones previstas en este artículo.
+Se añade por la disposición final 1.22 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 47 ter
+
+Artículo 47 ter. Política de implicación.
+1. Las sociedades gestoras desarrollarán y pondrán en conocimiento del público una política de implicación que describa cómo integran su implicación como accionistas o gestores de los accionistas en su política de inversión. Esta política describirá la forma en que llevan a cabo el seguimiento de las sociedades admitidas a negociación en un mercado regulado que esté situado u opere en un Estado miembro en las que invierten en lo referente, entre otras cuestiones, a la estrategia, el rendimiento financiero y no financiero y los riesgos, la estructura del capital, el impacto social y medioambiental y el gobierno corporativo. Dicha política también describirá los mecanismos para desarrollar un diálogo con las sociedades admitidas a negociación en un mercado regulado que esté situado u opere en un Estado miembro en las que invierten, ejercen los derechos de voto y otros derechos asociados a las acciones, cooperan con otros accionistas, se comunican con grupos de interés importantes de las sociedades en las que invierten y gestionan conflictos de interés reales y potenciales en relación con su implicación.
+2. Las sociedades gestoras harán pública con carácter anual la aplicación de su política de implicación, incluidas una descripción general de su comportamiento en relación con sus derechos de voto, una explicación de las votaciones más importantes y, en su caso, del recurso a los servicios de asesores de voto.
+3. Las sociedades gestoras publicarán el sentido de su voto en las juntas generales de las sociedades en las que las IIC poseen acciones. Dicha publicación podrá excluir los votos que no sean significativos debido al objeto de la votación o a la dimensión de la participación en la sociedad.
+4. La información mencionada en los apartados 1, 2 y 3 estará disponible públicamente y de forma gratuita en el sitio web de la sociedad gestora.
+5. Las medidas que deberán adoptar las sociedades gestoras para detectar, impedir, gestionar y controlar los conflictos de interés que pudieran surgir durante la gestión de IIC, recogidas en el artículo 46.5.b), serán asimismo aplicables a las actividades desarrolladas para implementar su política de implicación prevista en el apartado 1.
+6. En caso de que las sociedades gestoras decidan no cumplir con uno o más de los requisitos recogidos en los apartados anteriores, se deberá publicar una explicación clara y motivada sobre las razones para no hacerlo.
+Se añade por el art. 1.2 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#ap
+ Téngase en cuenta para el plazo de adaptación a las obligaciones establecidas en este artículo, la disposición adicional segunda de la citada Ley.
+
+### Artículo 47 quater
+
+Artículo 47 quater. Obligaciones de información de la sociedad gestora cuando presta servicios de gestión de activos a entidades aseguradoras o planes y fondos de pensiones de empleo.
+Las sociedades gestoras que inviertan en acciones admitidas a negociación en un mercado regulado que esté situado u opere en un Estado miembro en nombre de entidades aseguradoras o planes o fondos de pensiones de empleo, pondrán anualmente en conocimiento de las entidades aseguradoras o planes y fondos de pensiones de empleo con los que hayan concluido acuerdos de gestión de activos, la forma en que su estrategia de inversión y su aplicación se ajustan a dicho acuerdo y contribuyen al rendimiento a medio y largo plazo de los activos de dichas entidades o planes y fondos de pensiones. No será necesario cuando tal información se encuentre a disposición del público o se haya incluido en el informe anual que deben elaborar las sociedades gestoras. En estos casos, deberán indicar el lugar en el que está disponible dicha información.
+Las sociedades gestoras incluirán información sobre los principales riesgos a medio y largo plazo asociados a las inversiones, la composición de la cartera, la rotación y los costes de rotación y, si procede, el uso de asesores de voto para fines de actividades de implicación y su política de préstamo de valores y el modo en que se aplica para cumplir sus actividades de implicación, en particular en la junta general de las sociedades en las que se invierte.
+También incluirán información sobre si adoptaron, y en tal caso cómo, decisiones sobre inversiones basadas en la evaluación del rendimiento a medio y largo plazo de las sociedades en las que invierten, incluido el rendimiento no financiero, y sobre si se han producido conflictos de intereses en relación con las actividades de implicación y, en tal caso, qué conflictos y cómo los han resuelto.
+Se añade por el art. 1.2 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#ap
+ Téngase en cuenta para el plazo de adaptación a las obligaciones establecidas en este artículo, la disposición adicional segunda de la citada Ley.
+
+### Artículo 48
+
+Artículo 48. Departamento de atención al cliente y defensor del cliente.
+1. Las sociedades gestoras estarán obligadas a atender y resolver las quejas y reclamaciones que los accionistas de sociedades de inversión o los partícipes de fondos de inversión puedan presentar, relacionados con sus intereses y derechos legalmente reconocidos. A estos efectos, las sociedades gestoras deberán contar con un departamento o servicio de atención al cliente encargado de atender y resolver las quejas y reclamaciones. Las entidades llevarán un registro interno de todas las reclamaciones recibidas de sus clientes, en el que incorporarán una copia de la reclamación recibida y de la contestación trasladada al reclamante.
+Dichas sociedades gestoras podrán, bien individualmente, bien agrupadas por ramas de actividad, proxi midad geográfica, volumen de negocio o cualquier otro criterio, designar un defensor del cliente, que habrá de ser una entidad o experto independiente de reconocido prestigio y a quien corresponderá atender y resolver los tipos de reclamaciones que se sometan a su decisión en el marco de lo que disponga su reglamento de funcionamiento, así como promover el cumplimiento de la normativa de transparencia y protección de la clientela y de las buenas prácticas y usos financieros.
+2. La decisión del defensor del cliente favorable a la reclamación vinculará a la sociedad gestora. Esta vinculación no será obstáculo a la plenitud de tutela judicial, al recurso a otros mecanismos de solución de conflictos ni a la protección administrativa.
+3. Las sociedades gestoras que gestionen fondos y sociedades establecidos en otro Estado miembro de la Unión Europea al amparo de la Directiva 2009/65/CE estarán obligadas a atender y resolver las quejas o reclamaciones en la lengua o en una de las lenguas oficiales del Estado miembro de origen del fondo o sociedad.
+Se añade el apartado 3 por el art. único.43 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 48 bis
+
+Artículo 48 bis. Notificación de infracciones.
+1. Las sociedades gestoras deberán disponer de procedimientos adecuados para que sus empleados puedan notificar a nivel interno a través de un canal independiente, específico y autónomo, las infracciones cometidas.
+2. Estos procedimientos deberán garantizar la confidencialidad tanto de la persona que informa de las infracciones como de las personas físicas presuntamente responsables de la infracción.
+Asimismo, deberá garantizarse que los empleados que informen de las infracciones cometidas en la entidad sean protegidos frente a represalias, discriminaciones o cualquier otro tipo de trato injusto.
+Se añade por la disposición final 1.5 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+### Artículo 49
+
+Artículo 49. Causas de la revocación.
+1. La autorización concedida a una SGIIC o una sucursal de una entidad con domicilio en Estado no miembro de la UE podrá revocarse en los siguientes supuestos:
+a) Si no hace uso de la autorización dentro de los doce meses siguientes a la fecha de la notificación de la misma.
+b) Si renuncia expresamente a la autorización, independientemente de que se transforme en otra entidad o acuerde su disolución.
+c) Si interrumpe, de hecho, la gestión de IIC autorizadas durante un período superior a seis meses.
+d) Si durante un año realiza un volumen de actividad inferior al que reglamentariamente se determine.
+e) Si incumple de forma sobrevenida cualquiera de los requisitos para la obtención de la autorización y para ejercer la actividad según lo previsto en esta Ley. No obstante, en el caso de que los recursos propios de una sociedad gestora desciendan por debajo de los límites fijados, la CNMV podrá, de manera excepcional y de forma motivada, conceder un plazo no superior a seis meses para que se corrija la situación o cesen las actividades de la sociedad gestora.
+f) Cuando se dé el supuesto previsto en el artículo 45.10 de esta Ley o se infrinjan de manera grave o sistemática las disposiciones previstas en esta Ley o en el resto de normas que regulen el régimen jurídico de las sociedades gestoras de las IIC.
+g) Como sanción, según lo previsto en el título VI de esta Ley.
+h) Cuando se dé alguna de las causas de disolución forzosa previstas en la Ley de Sociedades de Capital.
+i) Si se hubiera obtenido la autorización en virtud de declaraciones falsas, omisiones o por otro medio irregular.
+j) Si se acuerda la apertura de un procedimiento concursal.
+k) El incumplimiento grave y sistemático de las obligaciones en relación con los registros.
+l) El incumplimiento durante tres meses de las obligaciones con el Fondo de Garantía de Inversiones previsto en el título VI de la Ley del Mercado de Valores.
+m) Cuando el informe de auditoría de las cuentas anuales se haya emitido con opinión denegada.
+2. Toda autorización revocada a una sociedad gestora española que realice cualquier actuación transfronteriza de conformidad con lo previsto en el artículo 54 de esta Ley deberá notificarse a las autoridades competentes del Estado miembro de acogida.
+Cuando la sociedad de gestión lleve a cabo las funciones de administración, representación, gestión de las inversiones y gestión de las suscripciones y reembolsos de IIC autorizadas en otro Estado miembro de la Unión Europea en virtud de la Directiva 2009/65/CE, la CNMV consultará a las autoridades competentes del Estado miembro de origen de la IIC antes de retirar la autorización.
+Se modifica por el art. único.44 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 50
+
+Artículo 50. Procedimiento de revocación.
+1. La revocación de la autorización se ajustará al procedimiento común previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con las especialidades siguientes:
+a) El acuerdo de iniciación y la instrucción corresponderá a la Comisión Nacional del Mercado de Valores, que podrá adoptar las medidas provisionales que considere necesarias, tales como la encomienda de la gestión de las IIC gestionadas a otra SGIIC.
+b) La resolución del expediente corresponderá a la Comisión Nacional del Mercado de Valores.
+c) El plazo de resolución del expediente será de seis meses.
+2. No obstante, cuando la causa de revocación que concurra sea alguna de las previstas en las letras a), b) o c) del artículo anterior, bastará con dar audiencia a la entidad interesada. En los casos previstos en la letra g) se habrán de seguir los procedimientos específicos previstos en esta Ley.
+3. La resolución que acuerde la revocación será inmediatamente ejecutiva. Una vez notificada, la sociedad gestora no podrá realizar nuevas actuaciones relacionadas con su objeto social. La resolución deberá inscribirse en el Registro Mercantil y en el registro de la Comisión Nacional del Mercado de Valores. Asimismo, se publicará en el Boletín Oficial del Estado, produciendo desde entonces efectos frente a terceros.
+4. La Comisión Nacional del Mercado de Valores podrá acordar que la revocación conlleve la disolución forzosa de la entidad. En estos supuestos, la Comisión Nacional del Mercado de Valores podrá, en aras de la protección de los inversores, acordar todas las medidas cautelares que se estimen pertinentes y, en especial:
+a) Acordar el traspaso a otra sociedad de la gestión del efectivo, los valores negociables y demás instrumentos financieros, bienes y derechos gestionados.
+b) Nombrar a los liquidadores.
+c) Exigir alguna garantía específica a los socios o a los liquidadores designados por la sociedad.
+d) Intervenir las operaciones de liquidación. Si en virtud de lo previsto en este precepto, o en otros de esta Ley, hubiera que nombrar liquidadores o interventores de la operación de liquidación, será de aplicación lo contemplado en el capítulo III del título VI de esta Ley.
+5. Cuando una sociedad gestora acuerde su disolución por alguna de las causas previstas en la Ley de Sociedades de Capital, se entenderá revocada la autorización, pudiendo la Comisión Nacional del Mercado de Valores acordar para su ordenada liquidación cualquiera de las medidas señaladas en el apartado 4 de este artículo.
+6. La revocación de la autorización concedida a una sociedad gestora con domicilio en un Estado no miembro de la Unión Europea supondrá, en su caso, la revocación de la autorización de la sucursal operante en España.
+7. La revocación de la autorización concedida a una sociedad gestora con domicilio en un Estado miembro de la Unión Europea supondrá la adopción inmediata por parte de la Comisión Nacional del Mercado de Valores de las medidas pertinentes para que la entidad no inicie nuevas actividades en España y se salvaguarden los intereses de los inversores, así como, en su caso, la adopción en colaboración con la autoridad supervisora competente y sin perjuicio de sus facultades, de las previsiones correspondientes para ordenar su liquidación.
+Se modifica por la disposición final 1.23 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.45 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 51
+
+Artículo 51. Suspensión.
+Cuando concurra alguno de los supuestos previstos en el artículo siguiente, la CNMV podrá suspender, con carácter total o parcial, los efectos de la autorización concedida a una SGIIC. Cuando su suspensión sea parcial, afectará a algunas de las actividades o al alcance con el que éstas se autorizaron. En el acto de suspensión podrán acordarse las medidas cautelares que se estimen pertinentes.
+Se modifica por el art. único.46 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 52
+
+Artículo 52. Supuestos de suspensión.
+1. La suspensión a que se refiere el artículo anterior, podrá acordarse cuando se dé alguno de los siguientes supuestos:
+a) Apertura de un expediente sancionador por infracción grave o muy grave.
+b) Cuando se dé alguna de las causas previstas en los párrafos e), f), g), o i) del artículo 49.1 de esta Ley, en tanto se sustancie el procedimiento de revocación.
+c) Cuando se dé el supuesto previsto en el artículo 45.7 de esta Ley.
+d) Como sanción, según lo previsto en el título VI de esta Ley.
+e) El incumplimiento de las obligaciones en relación con los registros.
+f) El incumplimiento de las obligaciones con el Fondo de Garantía de Inversiones.
+g) El concurso de la entidad.
+2. La suspensión sólo se acordará cuando, dándose una de las causas previstas en el apartado anterior, la medida sea necesaria para proteger a los partícipes o accionistas de la IIC gestionada, o en su caso, a otros clientes de la institución. No podrá acordarse, salvo que se trate de una sanción, por un plazo superior a un año, prorrogable por otro más.
+Se modifica el apartado 1 por el art. único.47 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 53
+
+Artículo 53. Sustitución.
+1. La sociedad gestora podrá solicitar su sustitución como tal, cuando así lo estime pertinente, mediante escrito presentado a la CNMV por el depositario, la antigua sociedad gestora y por la nueva sociedad gestora, la cual se declarará dispuesta a aceptar tales funciones, interesando la correspondiente autorización.
+Excepcionalmente, la CNMV podrá autorizar dicha sustitución aún cuando sea solicitada unilateralmente por la sociedad gestora. En ningún caso podrá la sociedad gestora que pretenda ser sustituida renunciar al ejercicio de sus funciones mientras no se hayan cumplido los requisitos y trámites para la designación de su sustituta.
+2. El procedimiento concursal de la sociedad gestora no produce de derecho la disolución de la IIC administrada, pero aquélla cesará en la gestión del fondo, o en la de los activos de sociedades de inversión y en el resto de las actividades que haya sido autorizada a realizar, iniciándose los trámites para la sustitución de la gestora en la forma y condiciones que se fijen reglamentariamente. La CNMV podrá acordar dicha sustitución aún cuando no sea solicitada por la sociedad gestora.
+3. Lo previsto en los apartados anteriores resultará aplicable en las circunstancias previstas en el artículo 72 de esta ley.
+4. En caso de sustitución de una SGIIC por causa de concurso, revocación o suspensión, las sociedades de inversión afectadas deberán convocar las juntas generales de accionistas en el plazo de tres meses, prorrogable, previa justificación, por un mes adicional, con el fin de ratificar a la SGIIC sustituta o para designar a una nueva sociedad gestora. El plazo para convocar las juntas generales se contará a partir del día siguiente a la fecha en que la CNMV publique la resolución de sustitución. De incumplirse este plazo la sociedad será dada de baja del registro de la CNMV.
+Se añade el apartado 4 por la disposición final 4.12 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+
+### Artículo 53 bis
+
+Artículo 53 bis. Operaciones societarias.
+La transformación, fusión, escisión y segregación de una rama de actividad, así como las demás operaciones de modificación social que se realicen por una SGIIC o que conduzcan a la creación de una SGIIC, requerirán autorización previa, de acuerdo con el procedimiento establecido en el Capítulo II, con las adaptaciones que reglamentariamente se señalen, sin que en ningún caso la alteración social pueda significar merma alguna de los requisitos que para la constitución de las SGIIC estén establecidos legal o reglamentariamente.
+Se añade por el art. único.48 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## CAPÍTULO IV
+
+Actuación transfronteriza
+
+### Artículo 54
+
+Artículo 54. Actuación transfronteriza de las sociedades gestoras reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, autorizadas en España.
+1. Las SGIIC autorizadas en España podrán ejercer la actividad a que se refiera la autorización en otros Estados miembros de la Unión Europea, ya sea a través del establecimiento de una sucursal, ya sea mediante la libre prestación de servicios, en los términos establecidos en el presente artículo.
+Si tal SGIIC se limita a proponer sin establecimiento de una sucursal la comercialización de las acciones y participaciones de una IIC que gestione y se encuentre autorizada en España, en un Estado miembro de la Unión Europea distinto de España, tal actividad estará sujeta sólo a los requisitos del artículo 16.
+En este caso, el escrito a que se refiere el artículo 16 incluirá una indicación de que la SGIIC que gestiona la IIC también comercializa la IIC.
+2. Toda sociedad gestora autorizada en España que desee establecer una sucursal en el territorio de otro Estado miembro deberá notificarlo a la CNMV. En la notificación a la CNMV deberá indicarse:
+a) El Estado miembro en cuyo territorio se proponga establecer la sucursal.
+b) El programa de funcionamiento que establezca las actividades y servicios que se proponga realizar y la estructura de la organización de la sucursal, que incluirá una descripción del procedimiento de gestión del riesgo establecido por la sociedad de gestión, y si procede de los procedimientos y disposiciones adoptados conforme al artículo 48.3 y al artículo 54.5 bis.
+c) La dirección en el Estado miembro de acogida en la que puedan serle requeridos los documentos.
+d) El nombre de los directivos responsables de la sucursal.
+3. La CNMV deberá remitir toda la información aportada por la sociedad gestora a la autoridad competente del Estado miembro de acogida en el plazo de dos meses a partir de la recepción de la totalidad de la información exigible, salvo que tenga razones para dudar, visto el proyecto en cuestión, de la adecuación de las estructuras administrativas o de la situación financiera de la sociedad de gestión, habida cuenta de las actividades que ésta se proponga ejercer. Esta circunstancia deberá ser notificada a la sociedad gestora en el plazo de dos meses a partir de la recepción de la totalidad de la información.
+La CNMV comunicará a la Comisión Europea y a la Autoridad Europea de Valores y Mercados anualmente el número y la naturaleza de los casos en que no se remita dicha información.
+En caso de modificación de alguno de los datos comunicados con arreglo a lo dispuesto en el apartado anterior, la SGIIC comunicará por escrito dicha modificación a la autoridad competente del Estado miembro de la Unión Europea de acogida de la SGIIC y a la CNMV, como mínimo un mes antes de hacerla efectiva, para que ésta pueda pronunciarse sobre la misma de acuerdo con lo establecido en este artículo.
+Cuando, como consecuencia de la modificación de alguno de los datos comunicados con arreglo a lo dispuesto en el apartado anterior, la sociedad gestora ya no fuese conforme con la presente ley, la CNMV informará a la sociedad gestora, en el plazo de quince días hábiles desde la recepción de toda la información a que se refiere el párrafo primero, que no puede aplicar dicha modificación. En ese caso, la CNMV informarán de ello a las autoridades competentes del Estado miembro de acogida de dicha sociedad, como corresponda.
+Cuando la modificación de alguno de los datos comunicados con arreglo a lo dispuesto en el apartado anterior se aplique después de que se haya transmitido la información conforme a lo dispuesto en el párrafo anterior y como consecuencia de dicha modificación la sociedad gestora ya no fuese conforme con la presente ley, la CNMV adoptará todas las medidas oportunas de conformidad con el artículo 70 y notificarán sin demora injustificada las medidas adoptadas a las autoridades competentes del Estado miembro de acogida de la sociedad gestora.
+Junto a la información a la que se refiere el primer párrafo, cuando la SGIIC desee desarrollar la actividad consistente en la administración, representación, gestión de las inversiones y gestión de las suscripciones y reembolsos de los fondos y sociedades de inversión, la CNMV deberá también enviar a la autoridad competente del Estado miembro de acogida de la sociedad de gestión un certificado acreditativo señalando que ésta ha sido autorizada conforme a los requisitos establecidos en la Directiva 2009/65/CE, una descripción del alcance de la autorización y los pormenores de cualquier restricción respecto de los tipos de fondos o sociedades que la sociedad de gestión está autorizada a gestionar.
+La CNMV actualizará la información incluida en el certificado a que se refiere el párrafo anterior e informará al Estado miembro de acogida siempre que haya una modificación del alcance de la autorización de la sociedad de gestión o de los pormenores relativos a cualquier restricción respecto de los tipos de fondos o sociedades que la sociedad de gestión está autorizada a gestionar.
+4. Toda sociedad gestora autorizada en España que desee ejercer por primera vez su actividad en el territorio de otro Estado miembro al amparo de la libre prestación de servicios, deberá notificarlo a la CNMV. En la notificación deberá indicarse:
+a) El Estado miembro en cuyo territorio se proponga operar.
+b) El programa de funcionamiento en el que se establezcan las actividades y servicios que se proponga realizar, que incluirá una descripción del procedimiento de gestión del riesgo establecido por la sociedad de gestión, de los procedimientos y disposiciones adoptados conforme al apartado 3 del artículo 48 y al apartado 5bis del artículo 54.
+La CNMV deberá remitir toda la información aportada por la sociedad gestora a la autoridad competente del Estado miembro de acogida en el plazo de un mes a partir de la recepción de la totalidad de la información exigible. En caso de modificación del contenido de la información a la que se refiere el párrafo b) anterior, la sociedad gestora comunicará por escrito dicha modificación a la CNMV y a la autoridad competente del Estado miembro de acogida de la SGIIC antes de hacerla efectiva.
+Junto a la información a la que refiere el párrafo anterior, cuando la sociedad de gestión desee desarrollar la actividad consistente en la administración, representación, gestión de las inversiones y gestión de las suscripciones y reembolsos de los fondos y sociedades de inversión, la CNMV deberá también enviar a la autoridad competente del Estado miembro de acogida de la sociedad de gestión un certificado acreditativo señalando que ésta ha sido autorizada conforme a los requisitos establecidos en la Directiva 2009/65/CE, una descripción del alcance de la autorización y los pormenores de cualquier restricción respecto de los tipos de fondos o sociedades que la sociedad de gestión está autorizada a gestionar.
+La CNMV actualizará la información incluida en el certificado a que se refiere el párrafo anterior e informará al Estado miembro de acogida siempre que haya una modificación del alcance de la autorización de la sociedad de gestión o de los pormenores relativos a cualquier restricción respecto de los tipos de fondos o sociedades que la sociedad de gestión está autorizada a gestionar.
+4 bis. Las sociedades gestoras autorizadas en España que ejerzan su actividad en el territorio de otro Estado miembro en el marco de la libre prestación de servicios respetarán en todo caso las normas de conducta establecidas en el título VI y en su normativa de desarrollo.
+5 bis. Las sociedades gestoras que gestionen transfronterizamente sociedades o fondos de inversión ya sea estableciendo una sucursal o al amparo de la libre prestación de servicios adoptarán procedimientos y disposiciones adecuados para poner información a disposición del público o de la autoridad competente del Estado Miembro de origen de la IIC, cuando lo soliciten, así como para garantizar el ejercicio de los derechos por parte de los accionistas o partícipes en el Estado miembro de origen de la IIC.
+5 ter. La SGIIC deberá cumplir con las obligaciones impuestas por el Estado Miembro de acogida en virtud de sus competencias y remitir a petición de la autoridad competente del Estado miembro de acogida toda la información que éste le solicite en virtud de sus competencias.
+Si las autoridades competentes del Estado miembro de acogida de dicha SGIIC comunican a la CNMV la negativa de la SGIIC a cumplir las mencionadas obligaciones, la CNMV tomará, en el plazo más breve posible, todas las medidas necesarias previstas en las leyes para que la sociedad de gestión cumpla con las referidas obligaciones.
+La CNMV informará a las autoridades competentes del Estado miembro de acogida de la sociedad de gestión de la naturaleza de las medidas adoptadas.
+5 quáter. La CNMV dispondrá de un plazo de diez días hábiles para responder a la autoridad competente del Estado miembro de origen de la IIC cuando ésta solicite precisiones e información respecto del acuerdo escrito con el depositario que la SGIIC debe haber facilitado a la autoridad competente del Estado miembro de origen de la IIC de acuerdo a la legislación de este Estado, respecto de la información sobre las modalidades de delegación en relación con las funciones de gestión de activos y de administración de las IIC que la SGIIC debe haber facilitado a la autoridad competente del Estado miembro de origen de la IIC de acuerdo con la legislación de éste y, sobre la base del certificado que la CNMV debe haber remitido a la autoridad competente del Estado miembro de origen de la IIC de acuerdo a lo establecido en este artículo, acerca de si el tipo de IIC para el que la SGIIC solicita autorización en otro Estado miembro, entra dentro del ámbito de la autorización otorgada a la SGIIC.
+5 quinquies. La CNMV podrá solicitar en cualquier momento a las IIC autorizadas en otro Estado miembro conforme a la Directiva 2009/65/CE, y cuya sociedad gestora haya sido autorizada en España, su folleto y las modificaciones del mismo, así como sus informes anual y semestral.
+5 sexies. La CNMV comunicará sin demora a las autoridades competentes del Estado miembro de origen de la IIC cualquier problema detectado en la sociedad de gestión que pueda afectar materialmente la capacidad de ésta para cumplir adecuadamente sus obligaciones con respecto a la IIC, así como cualquier incumplimiento de los requisitos establecidos en esta ley y en su normativa de desarrollo.
+5 septies. CNMV será responsable de supervisar la adecuación de las disposiciones y la organización de la sociedad a fin de que la misma esté en condiciones de cumplir las obligaciones y las normas relativas a la constitución y funcionamiento de todas las IIC que gestiona.
+6. Las sociedades gestoras españolas que pretendan abrir una sucursal o prestar servicios sin sucursal en un Estado que no sea miembro de la Unión Europea, deberán obtener previamente una autorización de la CNMV, determinándose reglamentariamente los requisitos y el procedimiento aplicables a este supuesto.
+Se modifica el apartado 3 por el art. 62.6 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se modifica el título por la disposición final 1.24 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.49 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 54 bis
+
+Artículo 54 bis. Condiciones para la gestión transfronteriza de IIC y para la prestación de servicios en otros Estados miembros por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+1. Las SGIIC autorizadas en España de conformidad con la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrán, ya sea directamente o mediante el establecimiento de una sucursal, gestionar IIC establecidas en otro Estado miembro siempre que la SGIIC esté autorizada a gestionar ese tipo de IIC así como prestar en otro Estado miembro los servicios a los que se refiere el artículo 40.1.a) y 40.2 para los que haya sido autorizada.
+2. Toda gestora que se proponga gestionar IIC establecidas en otro Estado miembro o prestar los servicios a los que se refiere el apartado 1 por primera vez, comunicará a la Comisión Nacional del Mercado de Valores la siguiente información:
+a) El Estado miembro en el que se proponga gestionar las IIC directamente o mediante el establecimiento de una sucursal o prestar servicios a los que se refiere el artículo 40.1.a) y 40.2 para los que haya sido autorizada, y
+b) un programa de actividades en el que se indiquen, en particular, los servicios que se proponga prestar o se identifiquen las IIC que se proponga gestionar.
+3. En el supuesto de que la gestora se proponga establecer una sucursal, proporcionará la siguiente información además de la prevista en el apartado 2:
+a) La estructura organizativa de la sucursal,
+b) la dirección en el Estado miembro de origen de la IIC donde puede obtenerse documentación y
+c) el nombre y los detalles de contacto de las personas responsables de la gestión de la sucursal.
+4. En el plazo de un mes después de la fecha de recepción de la documentación completa a que se refiere el apartado 2, o de dos meses desde la recepción de la documentación completa de conformidad con el apartado 3, la Comisión Nacional del Mercado de Valores transmitirá esta documentación completa a las autoridades competentes del Estado miembro de acogida. Dicha transmisión solo tendrá lugar si la gestión de las IIC por parte de la gestora se realiza, y se sigue realizando, con arreglo a las disposiciones de esta Ley y si la gestora cumple las disposiciones de esta Ley.
+La Comisión Nacional del Mercado de Valores adjuntará un certificado acreditativo señalando que la gestora en cuestión ha sido autorizada conforme a la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011. La Comisión Nacional del Mercado de Valores notificará inmediatamente a la gestora dicha transmisión.
+Una vez recibida la notificación de transmisión, la gestora podrá comenzar a prestar sus servicios en su Estado miembro de acogida.
+5. En caso de modificación de alguno de los datos comunicados de conformidad con el apartado 2 y, en su caso, el apartado 3, la gestora notificará por escrito dicha modificación a la CNMV, al menos un mes antes de hacer efectiva la modificación, o inmediatamente después de una modificación imprevista.
+Si, como consecuencia de la modificación prevista, la gestión de la IIC por parte de la gestora ya no fuese conforme con una o más disposiciones de esta Ley o, en general, la gestora ya no cumpliese una o más disposiciones de esta Ley, la CNMV informará a la gestora, en un plazo de quince días hábiles desde la recepción de toda la información a que se refiere el párrafo primero, de que no puede aplicar la modificación.
+Si la modificación prevista se ha adoptado contraviniendo lo previsto en los párrafos primero y segundo, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con esta Ley, o si la gestora pudiera dejar de cumplir esta Ley, la CNMV adoptará todas las medidas oportunas de conformidad con el artículo 70 y se lo notificarán sin demora injustificada a las autoridades competentes del Estado miembro de acogida.
+Si las modificaciones no afectan al cumplimiento del régimen jurídico aplicable, la CNMV informará sin demora de dichas modificaciones a las autoridades competentes del Estado miembro de acogida.
+Se modifica el apartado 5 por el art. 62.7 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
+ Se modifica el título y los apartados 1 y 2 por la disposición final 2.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfsegunda.
+ Se modifican los apartados 1 y 2 por la disposición final 6 de la Ley 11/2015, de 18 de junio.Ref. BOE-A-2015-6789#dfsexta.
+ Se añade por la disposición final 1.25 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 55
+
+Artículo 55. Sociedades gestoras autorizadas por la Directiva 2009/65/CE, de 13 de julio de 2009, en otro Estado miembro de la Unión Europea.
+1. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea al amparo de la Directiva 2009/65/CE podrán realizar en España, bien mediante la apertura de una sucursal, bien en régimen de libre prestación de servicios, la actividad a que se refiera su autorización en los términos establecidos en el presente artículo.
+Si tal sociedad gestora se limita a proponer sin establecimiento de una sucursal en España la comercialización de las acciones y participaciones de una IIC que gestione y se encuentre autorizada en un Estado miembro de la Unión Europea distinto de España, tal actividad estará sujeta sólo a los requisitos del artículo 15.
+En este caso, el escrito a que se refiere el artículo 15 incluirá una indicación de que la sociedad gestora que gestiona la IIC también comercializa la IIC.
+2. En ningún caso se podrá condicionar el establecimiento de sucursales o la libre prestación de servicios a la obligación de obtener una autorización adicional ni a la de aportar un fondo de dotación o cualquier medida de efecto equivalente.
+2 bis. Cuando la sociedad de gestión desee desarrollar en España la actividad consistente en la administración, representación, gestión de las inversiones y gestión de las suscripciones y reembolsos de los fondos y sociedades de inversión incluidos en el ámbito de aplicación de la Directiva 2009/65/CE, mediante el establecimiento de una sucursal o en el marco de la libre prestación de servicios deberá respetar las normas relativas a la constitución y al funcionamiento de la IIC establecidas en los títulos I, II y III y en sus normas de desarrollo.
+En particular, deberá respetar las normas sobre: la constitución y autorización de las IIC; la emisión y reembolso de participaciones y acciones; las políticas de inversión y sus límites incluyendo el cálculo de la exposición total y el apalancamiento; las restricciones sobre el endeudamiento, el préstamo de valores y las ventas al descubierto; la valoración, contabilidad y el cálculo del valor liquidativo, así como los errores en su cálculo y la compensación por los mismos; la distribución o reinversión de los rendimientos; los requisitos de información a partícipes, accionistas y al público en general, incluido el folleto, el documento con los datos fundamentales para el inversor y los informes periódicos; las disposiciones relativas a la comercialización; la relación con partícipes y accionistas; la fusión, liquidación disolución, transformación, escisión y traspaso de participaciones o acciones; el contenido del registro de partícipes y accionistas; las tasas de autorización y supervisión y el ejercicio de los derechos de los accionistas y partícipes respecto de los aspectos anteriores, incluido el derecho de voto.
+La CNMV será responsable de supervisar el cumplimiento de lo dispuesto en el párrafo anterior.
+La sociedad gestora decidirá y será responsable de adoptar y aplicar todas las disposiciones y decisiones organizativas necesarias para garantizar el cumplimiento de las normas relativas a la constitución y funcionamiento de la IIC así como las obligaciones establecidas en sus documentos constitutivos.
+Las sociedades gestoras que realicen la actividad de gestión de IIC autorizadas en España, estarán obligadas a atender y resolver las quejas y reclamaciones en castellano que los accionistas o partícipes de dichas IIC presenten.
+Las sociedades gestoras que realicen la actividad de gestión de IIC autorizadas en España establecerán procedimientos y disposiciones adecuados para poner información a disposición del público o de la CNMV, cuando lo soliciten, así como garantizar el ejercicio de los derechos por parte de los accionistas o partícipes en el país de origen de la IIC.
+3. La apertura en España de sucursales de sociedades gestoras autorizadas en otros Estados miembros de la Unión Europea no requerirá autorización previa. Sin embargo, la misma estará condicionada a que la CNMV reciba una comunicación de la autoridad competente del Estado miembro de origen de la sociedad gestora, que contenga la información indicada en los párrafos a), b), c) y d) del apartado 2 del artículo 54 de esta Ley.
+Una vez recibida la comunicación, la CNMV procederá a notificar su recepción a la sociedad gestora, quien deberá inscribir la sucursal en el Registro Mercantil y en el registro correspondiente de la CNMV, comunicando a ésta la fecha del inicio efectivo de sus actividades.
+Las sociedades gestoras autorizadas en otro Estado miembro de la UE que ejerzan su actividad a través de una sucursal en España respetarán en todo caso las normas de conducta establecidas en el Título VI y en su normativa de desarrollo. La CNMV será responsable de supervisar el cumplimiento de estas disposiciones.
+Respecto de las normas que sean objeto de supervisión por parte de la CNMV, ésta podrá fijar un plazo no superior a dos meses desde la recepción de la comunicación para organizar la supervisión de su cumplimiento por parte de la sociedad gestora.
+La sucursal de la sociedad gestora podrá establecerse y comenzar a ejercer su actividad cuando reciba comunicación por parte de la CNMV, o si transcurre el plazo de dos meses sin comunicación alguna.
+4. En caso de modificación de alguno de los datos comunicados con arreglo a lo dispuesto en los párrafos a), b), c) y d) del apartado 2 del artículo 54 anterior, la sociedad gestora comunicará por escrito dicha modificación a la CNMV como mínimo en el plazo de un mes antes de hacer efectiva tal modificación.
+5. La realización en España, por primera vez, de actividades en régimen de libre prestación de servicios, por sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea, podrá iniciarse una vez que la CNMV haya recibido comunicación de la autoridad competente del Estado miembro de origen de la sociedad gestora, en los términos indicados en el apartado 4 del artículo 54 de esta Ley.
+En caso de modificación del contenido de la información a la que se refiere el párrafo b) del apartado 4 del artículo 54 anterior, la sociedad gestora comunicará por escrito dicha modificación a la CNMV antes de hacerla efectiva.
+6. La CNMV podrá exigir a las sociedades gestoras que cuenten con sucursales en territorio español información periódica con fines estadísticos sobre las actividades que desarrollen en dicho territorio, así como cualquier otra información que sea necesaria para el cumplimiento de sus obligaciones de supervisión con arreglo a esta Ley. Por otro lado, podrá exigir a las sociedades gestoras que actúen en territorio español en régimen de libre prestación de servicios la información necesaria para controlar el cumplimiento por éstas de las normas que les sean aplicables en virtud de esta Ley y de sus normas de desarrollo.
+7. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que pretendan realizar en España las actividades a que se refiera su autorización en régimen de libre prestación de servicios vendrán obligadas a designar un representante con residencia fiscal en España para que les represente a efectos de las obligaciones tributarias que deban cumplir por las actividades que realicen en territorio español.
+8. Cuando la IIC se encuentre autorizada en España, la CNMV comunicará sin demora a las autoridades competentes del Estado miembro de origen de la sociedad gestora cualquier problema detectado en la IIC y que pueda afectar materialmente a la capacidad de la sociedad gestora para cumplir adecuadamente sus obligaciones legales o reglamentarias, que incidan en el ámbito supervisor de la CNMV.
+9. Las autoridades competentes de las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que lleven a cabo su actividad en España mediante una sucursal podrán, por sí mismas o a través de los intermediarios que designen a tal efecto, y tras haber informado a la CNMV, realizar verificaciones in situ en España. La verificación se extenderá a toda información relativa a la gestión y a la estructura de la propiedad de las sociedades gestoras que pueda facilitar su supervisión, así como toda información que pueda facilitar su control.
+El párrafo anterior se entenderá sin perjuicio del derecho que asiste a la CNMV de realizar verificaciones in situ de las sucursales establecidas en España, en cumplimiento de las responsabilidades que le atribuyen las leyes.
+Se modifica el título por la disposición final 1.26 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.50 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 55 bis
+
+Artículo 55 bis. Condiciones para la gestión de IIC españolas y para la prestación de servicios en España por sociedades gestoras reguladas por la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, y autorizadas en otro Estado miembro de la Unión Europea.
+1. Toda sociedad gestora autorizada en un Estado miembro de la Unión Europea al amparo de la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrá gestionar IIC así como prestar servicios en España, ya sea directamente o mediante el establecimiento de una sucursal, siempre que la gestora esté autorizada por dicho Estado miembro a gestionar ese tipo de IIC o a prestar esos servicios.
+2. La realización en España, por primera vez, de actividades por sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea, podrá iniciarse una vez que la Comisión Nacional del Mercado de Valores haya recibido comunicación de la autoridad competente del Estado miembro de origen de la sociedad gestora, en los términos indicados en el artículo 54 bis.2 y 3 de esta Ley.
+3. La Comisión Nacional del Mercado de Valores podrá exigir a las sociedades gestoras que cuenten con sucursales o que actúen en régimen de libre prestación de servicios en territorio español que le proporcionen la información necesaria para controlar el cumplimiento por éstas de las normas que les sean aplicables en virtud de esta Ley y de sus normas de desarrollo. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que ejerzan su actividad a través de una sucursal en España respetarán en todo caso las normas de conducta establecidas en el Título VI y en su normativa de desarrollo. La Comisión Nacional del Mercado de Valores será responsable de supervisar el cumplimiento de esas disposiciones.
+4. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que vayan a actuar en España en régimen de libre prestación de servicios vendrán obligadas a designar un representante con residencia fiscal en España para que les represente a efectos de las obligaciones tributarias que deban cumplir por las actividades que realicen en territorio español.
+5. La Comisión Nacional del Mercado de Valores comunicará sin demora a las autoridades competentes del Estado miembro de origen de la sociedad gestora cualquier problema detectado que pueda afectar materialmente a la capacidad de la sociedad gestora para cumplir adecuadamente sus obligaciones legales o reglamentarias, que incidan en el ámbito supervisor de la Comisión Nacional del Mercado de Valores.
+6. Las autoridades competentes de las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que lleven a cabo su actividad en España mediante una sucursal podrán, por sí mismas o a través de los intermediarios que designen a tal efecto, y tras haber informado a la Comisión Nacional del Mercado de Valores, realizar verificaciones in situ en España. La verificación se extenderá a toda información relativa a la gestión y a la estructura de la propiedad de las sociedades gestoras que pueda facilitar su supervisión, así como toda información que pueda facilitar su control.
+El párrafo anterior se entenderá sin perjuicio del derecho que asiste a la Comisión Nacional del Mercado de Valores de realizar verificaciones in situ de las sucursales establecidas en España, en cumplimiento de las responsabilidades que le atribuyen las leyes.
+Se modifica el título y los apartados 1 y 5 por la disposición final 2.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfsegunda.
+ Se añade por la disposición final 1.27 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 56
+
+Artículo 56. Sociedades gestoras no domiciliadas en la Unión Europea.
+1. A las sociedades gestoras no domiciliadas en la Unión Europea que pretendan abrir una sucursal en España les será de aplicación el procedimiento de autorización previa previsto en el capítulo II de este título con las adaptaciones que se establezcan reglamentariamente. Si pretenden prestar servicios sin sucursal deberán ser autorizadas en la forma y condiciones que se fijen reglamentariamente. En ambos casos la autorización podrá ser denegada, o condicionada, por motivos prudenciales, por no darse un trato equivalente a las entidades españolas en su país de origen, o por no quedar asegurado el cumplimiento de la normativa establecida en esta Ley y en su desarrollo reglamentario, a la que deberán ajustarse en su funcionamiento.
+2. También quedará sujeta a la previa autorización de la Comisión Nacional del Mercado de Valores, la creación por una sociedad gestora española o por un grupo de sociedades gestoras españolas, de una sociedad gestora extranjera, o la adquisición de una participación en una sociedad gestora ya existente, cuando dicha sociedad gestora extranjera vaya a ser constituida o se encuentre domiciliada en un Estado que no sea miembro de la Unión Europea. Reglamentariamente se determinará la información que deba incluirse en la solicitud.
+3. Reglamentariamente se determinará las condiciones de autorización de las sociedades gestoras no comunitarias cuando el Estado de referencia sea España.
+Se modifica por la disposición final 1.28 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica el apartado 1 por el art. único.51 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 56 bis
+
+Artículo 56 bis. Condiciones aplicables a las SGIIC que gestionen IIC establecidas en terceros Estados no comercializadas en los Estados miembros de la Unión Europea.
+Una SGIIC autorizada en España al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrá gestionar una IIC domiciliada en un Estado no miembro de la Unión Europea no comercializada en la Unión Europea siempre que cumpla con las siguientes condiciones:
+a) Que la SGIIC cumpla respecto de dicha IIC todos los requisitos fijados en esta Ley, salvo la obligación de nombrar un depositario contenida en el artículo 11.1.f) y la obligación de auditar el informe anual al que hace referencia el artículo 17 respecto de esas IIC.
+b) Que existan acuerdos de cooperación entre la Comisión Nacional del Mercado de Valores y las autoridades de supervisión del Estado no miembro de la Unión Europea en el que está establecida la IIC con objeto de garantizar al menos un intercambio eficaz de información que permita a la Comisión Nacional del Mercado de Valores llevar a cabo sus funciones de acuerdo con esta Ley.
+Reglamentariamente podrán determinarse otros requisitos de la Ley de los que también podrá eximirse a estas gestoras de acuerdo con lo establecido en la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+Se añade por la disposición final 1.29 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+## TÍTULO V
+
+Depositario
+
+### Artículo 57
+
+Artículo 57. Concepto.
+A los efectos de esta ley, los depositarios son las entidades a las que se encomienda el depósito o custodia de los valores, efectivo y, en general, de los activos objeto de las inversiones de las IIC, así como la vigilancia de la gestión de las SGIIC y, en su caso, de los administradores de las IIC con forma societaria y las demás funciones que les asigna esta ley.
+
+### Artículo 58
+
+Artículo 58. Designación e incompatibilidades.
+1. Podrán ser depositarios los bancos, las cajas de ahorros, las cooperativas de crédito, las sociedades y las agencias de valores. Todos ellos deberán ostentar la condición de entidad participante en los sistemas de compensación, liquidación y registro en los mercados en los que vayan a operar, sea como tal o a través de otra entidad participante. En este último caso, la entidad participante deberá tener desglosada la cuenta de terceros.
+El depositario deberá tener su domicilio social o, en su caso, una sucursal en España.
+Reglamentariamente se determinarán las condiciones que deben cumplir los depositarios de IIC radicadas en terceros países.
+Cuando el depositario cuente con calificación crediticia concedida por una agencia de calificación se hará constar en el informe semestral, indicando si dicha agencia está establecida en la Unión Europea y registrada de conformidad con lo dispuesto en el Reglamento (CE) n.º 1060/2009 del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, sobre agencias de calificación crediticia, o, si estuviese establecida en un Estado no miembro de la Unión Europea, que haya obtenido una certificación basada en la equivalencia según el Reglamento señalado.
+2. Cada institución tendrá un solo depositario. Ninguna entidad podrá ser simultáneamente gestora y depositaria de una misma institución, salvo en los supuestos normativos en que, con carácter excepcional, se admita esta posibilidad.
+3. El nombramiento del depositario se materializará mediante un contrato escrito. El contrato regulará, entre otras cosas, el flujo de información que se considere necesaria para permitir al depositario desempeñar las funciones para la sociedad o fondo para la que haya sido nombrado depositario, tal como se establece en la Ley.
+Se modifica el apartado 1 por el art. 16.6 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a1-8
+ Se modifica por la disposición final 1.30 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica el párrafo tercero del apartado 1 por el art. 4 de la Ley 15/2011, de 16 de junio. Ref. BOE-A-2011-10531.
+
+### Artículo 59
+
+Artículo 59. Autorización.
+1. Los depositarios de las IIC adquirirán el carácter de tales mediante la autorización de la CNMV e inscripción en el correspondiente registro administrativo de la misma. La resolución relativa a dicha autorización se notificará en el plazo máximo de los 15 días siguientes a la fecha de entrada de la solicitud en el registro de la CNMV, o al momento en que se complete la documentación exigible para acreditar el cumplimiento de los requisitos exigibles de acuerdo con esta ley y disposiciones de desarrollo, y, en todo caso, dentro del mes siguiente a su recepción.
+2. Cuando la solicitud no sea resuelta en el plazo anteriormente señalado podrá entenderse estimada con los efectos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La CNMV sólo podrá denegar la autorización para ser depositario cuando la entidad no cumpla los requisitos normativos exigidos a los depositarios o no cuente con los medios adecuados para la realización de las funciones establecidas en el artículo siguiente.
+
+### Artículo 60
+
+Artículo 60. Obligaciones.
+Los depositarios de IIC deberán cumplir las siguientes obligaciones:
+a) Redactar el reglamento de gestión de los fondos de inversión y otorgar el documento de constitución, así como los de modificación o liquidación. Dichas funciones deberán ser desarrolladas de manera conjunta con la sociedad gestora.
+b) Asumir ante los partícipes o accionistas la función de vigilancia de la gestión realizada por las sociedades gestoras de los fondos de inversión o por los administradores de las sociedades de inversión. A este fin, comprobarán especialmente que se respetan los límites a las inversiones y coeficientes previstos en esta Ley.
+c) Velar por la regularidad de las suscripciones de participaciones cuyo neto abonarán en la cuenta de los fondos.
+d) Satisfacer, por cuenta de los fondos, los reembolsos de participaciones, cuyo importe neto adeudará en la cuenta del fondo. A este fin, le corresponde supervisar los criterios, fórmulas y procedimientos utilizados por la sociedad gestora para el cálculo del valor liquidativo de las participaciones.
+e) Velar por los pagos de los dividendos de las acciones y los beneficios de las participaciones en circulación, así como cumplimentar las órdenes de reinversión recibidas.
+f) Cumplimentar, en su caso, por cuenta de las instituciones, las operaciones de compra y venta de valores, así como cobrar los intereses y dividendos devengados por los mismos.
+g) Ejercer las funciones de depósito o administración de activos pertenecientes a las IIC, responsabilizándose en los casos en que no desarrollen directamente las mismas. Reglamentariamente se desarrollarán las obligaciones inherentes y el modo de la función de custodia de los instrumentos financieros custodiables, entendidos como aquellos que se consignen en una cuenta de instrumentos financiera abierta en los libros del depositario y todos los que se entreguen físicamente al depositario, y la de depósito de los otros activos de propiedad de la IIC para los que el depositario realizará la comprobación de la propiedad y la mantendrá en un registro y las exigencias que deben satisfacer las entidades que realicen el depósito de valores extranjeros de las IIC.
+h) Realizar cualquier otra función que sirva para la mejor ejecución o como complemento de las funciones de custodia y vigilancia, entre las que se encuentra garantizar el control de los flujos de tesorería y comprobar que el cálculo del valor liquidativo se realiza de conformidad con la legislación aplicable y con el reglamento o los documentos constitutivos del fondo o sociedad.
+Se modifican las letras g) y h) por la disposición final 1.31 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.52 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 60 bis
+
+Artículo 60 bis. Delegación de la función de depósito de depositarios de IIC.
+El depositario de IIC podrá delegar en terceros, y estos a su vez subdelegar, la función de depósito definida en el artículo 60.g) de los activos de la IIC siempre y cuando el tercero cumpla con todos los requisitos exigibles al depositario establecidos en esta Ley y en su normativa de desarrollo, con las excepciones que se puedan determinar reglamentariamente, y el depositario respete una serie de condiciones que se podrán determinar reglamentariamente, entre las que se encuentra poder demostrar que hay una razón objetiva para la delegación.
+Se modifica por la disposición final 1.32 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se añade por el art. único.53 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 61
+
+Artículo 61. Sustitución.
+1. El depositario podrá solicitar su sustitución, cuando así lo estime pertinente, mediante escrito presentado a la CNMV por la sociedad gestora, el antiguo depositario y por el nuevo, el cual se declarará dispuesto a asumir tales funciones, interesando la correspondiente autorización. Excepcionalmente, la CNMV podrá autorizar dicha sustitución aun cuando sea solicitada unilateralmente por el depositario o, en su caso, por la sociedad gestora. En ningún caso podrá el depositario renunciar al ejercicio de sus funciones mientras no se hayan cumplido los requisitos y trámites para la designación de un sustituto.
+2. El procedimiento concursal del depositario no produce de derecho la disolución de la institución cuyos activos custodia, aunque, en dicho supuesto, el depositario cesará en sus funciones, iniciándose los trámites para su sustitución.
+3. En el caso de sustitución del depositario por causa de concurso, revocación o suspensión, las sociedades de inversión afectadas deberán convocar las juntas generales de accionistas en el plazo de tres meses, prorrogable, previa justificación, por un mes adicional, con el fin de ratificar al depositario sustituto o para designar a uno nuevo. El plazo para convocar las juntas generales se contará a partir del día siguiente al que la CNMV publique la resolución de sustitución. De incumplirse este plazo la sociedad será dada de baja del registro de la CNMV.
+Se añade el apartado 3 por la disposición final 4.13 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+
+### Artículo 62
+
+Artículo 62. Responsabilidad de los depositarios.
+1. Los depositarios actuarán siempre de manera independiente y en interés de los inversores de las IIC, debiendo cumplir todas sus obligaciones con la diligencia de un ordenado empresario y de un representante leal.
+Los depositarios podrán pedir a la sociedad gestora toda la información que necesiten para el ejercicio de sus funciones.
+El depositario está obligado a comunicar a la Comisión Nacional del Mercado de Valores cualquier anomalía que detecte en la gestión de las instituciones cuyos activos tienen en custodia.
+El depositario está obligado a remitir a la Comisión Nacional del Mercado de Valores, previa solicitud, toda la información que haya obtenido en el ejercicio de sus funciones y que la Comisión Nacional del Mercado de Valores necesite para supervisar el cumplimiento de la normativa vigente por parte de la IIC.
+2. Los depositarios serán responsables frente a los partícipes o accionistas de todos los perjuicios que les causen por incumplimiento intencionado o por negligencia de sus obligaciones legales. El depositario está obligado a exigir a la sociedad gestora responsabilidad en el ejercicio de sus funciones en nombre de los partícipes.
+Los depositarios serán responsables del depósito de los activos de las IIC, aún en el supuesto de que hayan confiado a un tercero el depósito de parte o de la totalidad de los activos.
+El depositario responderá frente a los partícipes o accionistas por la pérdida, por parte del mismo o de un tercero en quien se haya delegado la custodia de los activos financieros custodiables.
+3. En caso de que la pérdida afecte a los instrumentos financieros custodiados, el depositario devolverá sin demora indebida a la IIC un instrumento financiero de idénticas características o bien la cuantía correspondiente. El depositario no será responsable si puede probar que la pérdida se ha producido como resultado de un acontecimiento externo que escape al control razonable, cuyas consecuencias hubieran sido inevitables a pesar de todos los esfuerzos por evitarlas.
+Reglamentariamente se podrán determinar las condiciones de aplicación de este apartado.
+Se modifica por la disposición final 1.33 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se añade el párrafo final al apartado 1 por el art. único.54 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 62 bis
+
+Artículo 62 bis. Transferencia de responsabilidad de los depositarios.
+1. La responsabilidad del depositario no se verá afectada por ninguna delegación de funciones que pueda efectuarse con arreglo al artículo 60 bis. No obstante, para los depositarios de IIC distintas a las autorizadas conforme a la Directiva 2009/65/CE del Parlamento y del Consejo Europeo, de 13 de julio de 2009, en caso de una pérdida de instrumentos financieros custodiados por un tercero con arreglo al artículo 60 bis, el depositario podrá quedar exento de responsabilidad si puede probar:
+a) Que se cumplen todos los requisitos para la delegación de sus funciones de custodia, tal como se prevé en el artículo 60 bis.
+b) Que existe un contrato escrito entre el depositario y el tercero por el que se transfiere expresamente la responsabilidad del depositario al tercero y autoriza a la IIC o, la gestora en su caso, para presentar una reclamación contra el tercero en relación con la pérdida de instrumentos financieros o al depositario a presentar tal reclamación en su nombre.
+c) Que hay un contrato escrito entre el depositario y la IIC, o la gestora en su caso, que permita expresamente la exención de responsabilidad del depositario y establezca la razón objetiva para suscribir dicha exención de responsabilidad.
+En relación a las razones objetivas señaladas en la letra c) anterior se estará a lo dispuesto en el Reglamento Delegado (UE) n.º 231/2013 de la Comisión, de 19 de diciembre de 2012, por el que se complementa la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, en lo referente a las exenciones, las condiciones generales de ejercicio de la actividad, los depositarios, el apalancamiento, la transparencia y la supervisión.
+2. Cuando la legislación de un tercer país exija que ciertos instrumentos financieros sean mantenidos en custodia por una entidad local y no haya entidades que satisfagan los requisitos exigibles al depositario en esta Ley y en su normativa de desarrollo, relativos a estar sujeto a una regulación y supervisión prudenciales efectivas, incluido el capital mínimo obligatorio, en el ámbito de que se trate y estará sujeto a auditorías externas periódicas que permitan comprobar que los instrumentos financieros y demás valores están en su posesión, el depositario podrá quedar exento de responsabilidad si se cumplen las siguientes condiciones:
+a) Que el reglamento, los estatutos, o los documentos de constitución de la IIC autoricen expresamente dicha exención de responsabilidad.
+b) Que los inversores de la IIC hayan sido debidamente informados de dicha exención de responsabilidad y de las circunstancias que la justifican con carácter previo a la inversión.
+c) Que la IIC o la SGIIC en su caso, hayan solicitado al depositario que delegue la función de custodia de dichos instrumentos financieros en una entidad local.
+d) Que haya un contrato escrito entre el depositario y la IIC, o la SGIIC en su caso, por el que se permita expresamente dicha exención de responsabilidad.
+e) Que haya un contrato escrito entre el depositario y el tercero por el que se transfiera expresamente la responsabilidad del depositario a dicha entidad local y autorice a la IIC o a la SGIIC en su caso, a presentar una reclamación contra dicha entidad local en relación con la pérdida de instrumentos financieros o al depositario a presentar tal reclamación en su nombre.
+Reglamentariamente podrán determinarse las condiciones de aplicación de este artículo.
+Se añade por la disposición final 1.34 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 63
+
+Artículo 63. Suspensión.
+La CNMV, en su caso, previo informe del Banco de España, podrá suspender, con carácter total o parcial, los efectos de la autorización concedida a un depositario de IIC. Cuando la suspensión sea parcial afectará a alguna de las IIC respecto de las cuales se ejerce la función de depósito, o a alguna de las funciones previstas en esta ley para los depositarios. En el acto de suspensión se podrán adoptar las medidas cautelares que se estimen pertinentes y, en particular, podrá acordarse el traspaso de los activos y fondos de las IIC de los que fuera el depositario a una tercera entidad habilitada a tal efecto.
+
+### Artículo 64
+
+Artículo 64. Supuestos de suspensión.
+1. La suspensión a que se refiere el artículo anterior podrá acordarse cuando se dé alguno de los siguientes supuestos:
+a) Apertura de un expediente sancionador por falta grave o muy grave.
+b) Cuando se incumplan las condiciones previstas en la autorización u otras obligaciones previstas en esta ley.
+c) En los supuestos de procedimiento concursal o intervención de la entidad.
+d) Como sanción, según lo previsto en el título VI de esta ley.
+2. No podrá acordarse la suspensión, salvo cuando se trate de sanción, por un plazo superior a un año, prorrogable por otro más.
+
+### Artículo 64 bis
+
+Artículo 64 bis. Concurso del depositario.
+En el supuesto de un procedimiento concursal del depositario, se aplicarán las especialidades previstas en esta ley con carácter preferente a la normativa que resultara de aplicación al depositario en su condición de entidad de crédito o empresa de servicio de inversión.
+Se añade por la disposición final 4.14 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+
+## TÍTULO VI
+
+Normas de conducta, supervisión, intervención y sanción
+
+## CAPÍTULO I
+
+Normas de conducta
+
+### Artículo 65
+
+Artículo 65. Normativa aplicable.
+1. Las sociedades gestoras, las entidades depositarias y aquellas IIC que revistan la forma de sociedad y cuya gestión integral no esté encomendada a una sociedad gestora, así como quienes desempeñen cargos de administración y dirección en todas ellas, sus empleados, agentes y apoderados, estarán sujetos a las siguientes normas de conducta:
+a) las previstas en este capítulo y las contenidas en el título VII de la Ley del Mercado de Valores, con las adaptaciones y especificaciones que, en su caso, se establezcan reglamentariamente, incluido el régimen sancionador para el incumplimiento de dichas normas establecido en el título VIII de la misma Ley,
+b) las dictadas en desarrollo de los preceptos a que se refiere el párrafo a) anterior, que apruebe el Gobierno o, con habilitación expresa de éste, el Ministro de Economía y Hacienda,
+c) las contenidas en los reglamentos internos de conducta.
+Estas normas serán también de aplicación a la actividad de comercialización según se define ésta en el artículo 2.
+2. En su actividad en España, las sociedades gestoras autorizadas en otro Estado miembro de la UE quedarán sujetas a lo previsto en el apartado anterior cuando ejerzan ésta a través de una sucursal.
+En su actividad transfronteriza en otro Estado Miembro de la UE, las SGIIC autorizadas en España quedarán sujetas a lo previsto en el apartado anterior cuando ejerzan ésta en el marco de la libre prestación de servicios.
+Se modifica por el art. único.55 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 66
+
+Artículo 66. Operaciones en régimen de mercado.
+Las IIC deberán efectuar sus transacciones sobre bienes, derechos, valores o instrumentos a precios y en condiciones de mercado, salvo que las operaciones se realicen en condiciones más favorables para la IIC.
+
+### Artículo 67
+
+Artículo 67. Operaciones vinculadas.
+1. Se consideran operaciones vinculadas las que realizan las personas que se enumeran a continuación en relación con las operaciones a que se refiere el apartado 2:
+a) por las sociedades de inversión con depositarios y, en su caso, con sus sociedades gestoras,
+b) por las sociedades de inversión con quienes desempeñan cargos de administración y dirección en éstas o con quienes desempeñan cargos de administración y dirección en su entidad depositaria y en su caso su gestora,
+c) por las sociedades gestoras y los depositarios entre sí cuando afectan a una IIC respecto de la que actúan como gestora y depositario respectivamente, y las que se realizan entre las sociedades gestoras y quienes desempeñan en ellas cargos de administración y dirección.
+d) por las sociedades gestoras, cuando afectan a una IIC respecto de la que actúa como gestora; por el depositario cuando afectan a una IIC respecto de la que actúa como depositario y por las sociedades de inversión, con cualquier otra entidad que pertenezca a su mismo grupo según se define en el artículo 4 de la Ley del Mercado de Valores.
+2. Serán operaciones vinculadas las siguientes:
+a) El cobro de remuneraciones por la prestación de servicios a una IIC, excepto los que preste la sociedad gestora a la propia institución y los que se determinen reglamentariamente.
+b) La obtención por una IIC de financiación o la constitución de depósitos.
+c) La adquisición por una IIC de valores o instrumentos emitidos o avalados por alguna de las personas definidas en el apartado anterior o en cuya emisión alguna de dichas personas actúe como colocador, asegurador, director o asesor.
+d) Las demás que se establezcan reglamentariamente.
+Cuando las operaciones previstas en este apartado fueran realizadas por medio de personas o entidades interpuestas también tendrán la consideración de operaciones vinculadas. A estos efectos, se entenderá que la operación se realiza por persona o entidad interpuesta cuando se ejecute por persona unida por vínculo de parentesco en línea directa o colateral, consanguínea o por afinidad, hasta el cuarto grado inclusive, por mandatarios o fiduciarios o por cualquier entidad en la que los cargos de administración y dirección tengan, directa o indirectamente, un porcentaje igual o superior al 25 por ciento del capital o ejerzan en ella funciones de administración o dirección.
+3. Para que una sociedad gestora pueda realizar las operaciones vinculadas previstas en este artículo, deberán cumplirse los siguientes requisitos:
+a) La sociedad gestora deberá disponer de un procedimiento interno formal para cerciorarse de que la operación vinculada se realiza en interés exclusivo de la IIC y a precios o en condiciones iguales o mejores que los de mercado. La confirmación de que estos requisitos se cumplen deberá ser adoptada por una unidad independiente de la sociedad gestora. El procedimiento podrá prever sistemas simplificados de aprobación para operaciones vinculadas repetitivas o de escasa relevancia.
+b) La sociedad gestora deberá informar en los folletos y en la información periódica que las IIC publiquen, sobre los procedimientos adoptados para evitar los conflictos de interés y sobre las operaciones vinculadas realizadas en la forma y con el detalle que la Ley del Mercado de Valores y su normativa de desarrollo determinen.
+c) La comisión u órgano interno a que se refiere el párrafo a) anterior deberá informar al consejo de administración, al menos una vez al trimestre, sobre las operaciones vinculadas realizadas.
+4. Reglamentariamente se determinarán los requisitos exigibles a las operaciones vinculadas que se lleven a cabo entre las sociedades gestoras y quienes desempeñen en ellas cargos de administración y dirección.
+5. Los requisitos anteriores serán exigibles a las sociedades de inversión cuando no hubieran delegado la gestión de sus activos en otra entidad que los cumpla. No serán exigibles los requisitos señalados en los párrafos a) y c) del anterior apartado 3 cuando la junta general de accionistas autorice expresamente y con carácter previo a su realización, operaciones vinculadas de las previstas en este artículo.
+Se modifican las letras c) y d) del apartado 1, la letra a) del apartado 3 y el apartado 4 por el art. único.56 a 58 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 68
+
+Artículo 68. Separación del depositario.
+1. Ninguna entidad podrá ser depositaria de IIC gestionadas por una sociedad perteneciente a su mismo grupo, ni de sociedades de inversión en las que se dé la misma circunstancia, salvo que la IIC o, en su caso, la sociedad gestora disponga de un procedimiento específico que permita evitar conflictos de interés.
+2. La verificación del cumplimiento de los requisitos exigidos de acuerdo con lo previsto en el apartado anterior, corresponderá a una unidad independiente de la sociedad gestora o de la sociedad de inversión.
+A estos efectos, la unidad a la que se encomiende esta función elaborará, con la periodicidad que se determine reglamentariamente, un informe sobre el grado de cumplimiento de las exigencias previstas en este artículo que deberá remitirse a la CNMV. En el supuesto de que el informe reflejara salvedades sobre el correcto cumplimiento de tales exigencias, deberá procederse a la sustitución del depositario por otro que no pertenezca a su mismo grupo en los términos previstos por el artículo 61.
+Se modifica por el art. único.59 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+## CAPÍTULO II
+
+Supervisión e inspección
+
+### Artículo 69
+
+Artículo 69. Sujetos.
+1. Quedan sujetos al régimen de supervisión, inspección y sanción de esta Ley, en lo que se refiere al cumplimiento de esta Ley y su normativa de desarrollo, así como de las normas de Derecho de la Unión Europea que contengan preceptos específicamente referidos a las mismas, incluido el Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario:
+a) Las IIC previstas en el artículo 2.1 de esta Ley.
+b) Las sociedades gestoras previstas en el título IV de esta ley y sus agentes, extendiéndose esta competencia a cualquier oficina o centro dentro o fuera del territorio español.
+c) Los depositarios de IIC.
+d) Quienes realicen operaciones propias de cualquiera de los sujetos anteriores y, en general, las restantes personas físicas y jurídicas en cuanto puedan verse afectadas por las normas de esta Ley y sus disposiciones reglamentarias, en particular a los efectos de comprobar si infringen las reservas de actividad y denominación previstas en el artículo 14.
+2. En el caso de personas jurídicas, las facultades que corresponden a la Comisión Nacional del Mercado de Valores, de acuerdo con lo dispuesto en esta Ley, podrán ejercerse sobre quienes ocupen cargos de administración, dirección o asimilados a los mismos.
+Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto-ley 19/2018, de 23 de noviembre. Ref. BOE-A-2018-16036#df-2
+ Se modifica el apartado 1 por la disposición final 3.1 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dftercera.
+ Se modifica el apartado 1.b) por el art. único.60 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica por la disposición final 7.3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 70
+
+Artículo 70. Facultades de la Comisión Nacional del Mercado de Valores.
+1.Corresponde a la Comisión Nacional del Mercado de Valores la supervisión e inspección de las personas físicas y entidades previstas en el artículo 69 y la vigilancia del cumplimiento de sus obligaciones.
+2. Las disposiciones contenidas en los artículos 85 y 90 de la Ley del Mercado de Valores resultarán de aplicación a las funciones de supervisión e inspección de la Comisión Nacional del Mercado de Valores sobre las personas y entidades sujetas al ámbito de esta Ley.
+3. La supervisión y la inspección prevista en el presente artículo podrá versar, entre otras, sobre la situación legal, técnica, económico-financiera, de control interno, contable o de valoración, así como sobre las condiciones en que ejercen su actividad, ya sea con carácter general o referidas a cuestiones concretas.
+Se modifica por la disposición final 7.4 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 70 bis
+
+Artículo 70 bis. Suspensión de la emisión, reembolso o recompra.
+La CNMV podrá exigir, en interés de los partícipes o accionistas o en el interés público la suspensión temporal de la emisión, el reembolso o la recompra de las participaciones o acciones de las IIC autorizadas en España, cuando no sea posible la determinación de su precio o concurra otra causa de fuerza mayor.
+Cuando se trate de una IIC autorizada en España que lleve a cabo las actividades de comercialización transfronteriza en otro Estado miembro en virtud del artículo 16, o sea gestionada por una sociedad gestora con domicilio social en un Estado miembro de la Unión Europea distinto de España, la CNMV comunicará la suspensión a que se refiere el párrafo anterior a las autoridades competentes de dichos Estados miembros.
+Se añade por el art. único.61 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71
+
+Artículo 71. Supervisión de entidades de otros Estados miembros.
+1. La Comisión Nacional del Mercado de Valores podrá exigir a las entidades recogidas en el artículo 55 y en el artículo 55 bis que actúen en régimen de libre prestación de servicios, y a sus sucursales, la información necesaria para verificar el cumplimiento de la normativa aplicable. También podrá exigirles información con fines meramente estadísticos.
+2. Si la CNMV observa que las entidades recogidas en el apartado anterior incumplen las obligaciones de información allí previstas, u otras obligaciones que se establezcan en esta ley o su normativa de desarrollo, les exigirá que pongan fin a la situación irregular e informará a las autoridades competentes del Estado miembro de origen de las sociedades gestoras.
+Si la sociedad gestora no adopta las medidas oportunas, la CNMV informará de ello a la autoridad competente del Estado de origen. Si la sociedad gestora continúa realizando la conducta infractora a pesar, en su caso, de las medidas que haya adoptado la autoridad competente del Estado de origen, la CNMV, tras informar a aquella autoridad, podrá adoptar las medidas oportunas de acuerdo con lo dispuesto en este título para evitar nuevas infracciones, incluido el ejercicio de la potestad sancionadora. Alternativamente, si la CNMV considera que la autoridad competente del Estado miembro de origen de la sociedad gestora no ha actuado correctamente, podrá señalar el caso a la atención de la Autoridad Europea de Valores y Mercados, de conformidad con el artículo 19 del Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo de 24 de noviembre de 2010 por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión.
+La CNMV comunicará a la Comisión Europea y a la Autoridad Europea de Valores y Mercados anualmente el número y la naturaleza de los casos en que se adopten las medidas previstas en el párrafo anterior.
+Excepcionalmente, con carácter previo a la adopción de las medidas dispuestas en este apartado, la CNMV podrá adoptar las medidas preventivas que considere necesarias para proteger los intereses de los inversores. Las medidas adoptadas deberán comunicarse a la Comisión Europea, a la Autoridad Europea de Valores y Mercados y a las autoridades competentes del Estado Miembro de origen de la sociedad gestora, a la mayor brevedad posible.
+3. Cuando la sociedad gestora lleve a cabo la gestión transfronteriza de IIC autorizadas en España, la autoridad competente del Estado miembro de origen de la sociedad gestora consultará a la CNMV antes de revocar su autorización. En dichos casos, la CNMV tomará las medidas oportunas para salvaguardar los intereses de los inversores, pudiendo prohibir a esta sociedad gestora la realización de nuevas actividades en España.
+Se modifica el apartado 1 por la disposición final 1.35 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.62 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71 bis
+
+Artículo 71 bis. Supervisión de IIC que comercializan transfronterizamente.
+1. Cuando la Comisión Nacional del Mercado de Valores tenga motivos fundados para creer que una IIC o SGIIC autorizada en otro Estado miembro de la Unión Europea, cuyas acciones o participaciones se comercializan en España en virtud del artículo 15 o del artículo 15 bis, infringe obligaciones que se derivan de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, o de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, cuya supervisión no corresponde a la Comisión Nacional del Mercado de Valores, comunicará estos hechos a las autoridades competentes del Estado miembro de origen de la IIC.
+En el caso de que, pese a las medidas adoptadas por las autoridades competentes del Estado miembro de origen de la IIC, o de la SGIIC, o por resultar éstas inadecuadas, o debido a la falta de actuación de ese Estado miembro en un plazo razonable, la IIC o la SGIIC persista en una actuación claramente perjudicial para los intereses de los inversores en España de la IIC en virtud del artículo 15 o del artículo 15 bis, la Comisión Nacional del Mercado de Valores podrá proceder de una de las siguientes maneras:
+a) Adoptar, tras informar a las autoridades competentes del Estado miembro de origen de la IIC o SGIIC, todas las medidas oportunas para proteger a los inversores, pudiendo incluso impedir a la IIC o SGIIC considerada seguir comercializando sus acciones o participaciones en España.
+b) En caso necesario, someter la cuestión a la Autoridad Europea de Valores y Mercados, de conformidad con el artículo 19 del Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión.
+La Comisión Nacional del Mercado de Valores informará sin demora a la Comisión Europea y a la Autoridad Europea de Valores y Mercados de toda medida que se adopte en virtud de la letra a).
+2. Cuando, en relación a una IIC o sociedad gestora autorizada en España que haya recibido la comunicación por parte de la Comisión Nacional del Mercado de Valores a que se refiere el artículo 16 o el artículo 16 bis, la Comisión Nacional del Mercado de Valores reciba de una autoridad competente de un Estado miembro de la Unión Europea una comunicación señalando que tiene motivos fundados para creer que la mencionada IIC o gestora infringe obligaciones que se derivan de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, o de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, cuya supervisión corresponde a la Comisión Nacional del Mercado de Valores, adoptará las medidas oportunas.
+Se modifica por la disposición final 1.36 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se añade por el art. único.63 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71 ter
+
+Artículo 71 ter.Cooperación transfronteriza entre autoridades competentes.
+1. La Comisión Nacional del Mercado de Valores cooperará con las autoridades competentes de los Estados miembros de la Unión Europea siempre que sea necesario para llevar a cabo las funciones establecidas o ejercer las facultades conferidas en esta Ley. Asimismo, cooperará con éstas siempre que sea necesario para llevar a cabo las funciones establecidas o ejercer las facultades conferidas a dichas autoridades competentes por su normativa nacional que transponga la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, y la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+La Comisión Nacional del Mercado de Valores prestará ayuda a las autoridades competentes de los demás Estados miembros. En particular, facilitará de forma inmediata la información necesaria para el desempeño por estas autoridades de sus funciones y colaborará en actividades de investigación o supervisión. La Comisión Nacional del Mercado de Valores podrá ejercer sus poderes para fines de cooperación, incluso en casos en que el comportamiento investigado no constituya una infracción de la normativa vigente en España.
+La Comisión Nacional del Mercado de Valores también cooperará, en su caso, con las autoridades competentes de otros Estados miembros para facilitar el cobro de las sanciones pecuniarias.
+Igualmente la Comisión Nacional del Mercado de Valores cooperará con la Autoridad Europea de Valores y Mercados de conformidad con el Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión, y transmitirá, sin demora, a dicha Autoridad toda la información necesaria para el cumplimiento de sus tareas, de conformidad con el artículo 35 de dicho Reglamento.
+2. Cuando la Comisión Nacional del Mercado de Valores tenga motivos fundados para sospechar que entidades no sujetas a su supervisión están realizando o han realizado en el territorio de otro Estado miembro de la Unión Europea actividades contrarias a las disposiciones nacionales de ese Estado por las que se haya transpuesto la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, y la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, lo notificará del modo más concreto posible a Autoridad Europea de Valores y Mercados y a la autoridad competente de dicho Estado miembro. Esta comunicación se entenderá sin perjuicio de las competencias que pueda ejercer la Comisión Nacional del Mercado de Valores.
+3. Asimismo, cuando la CNMV reciba una notificación de la autoridad competente de otro Estado miembro de la UE en la que se señale la existencia de motivos fundados para sospechar que entidades no sujetas a la supervisión de esa autoridad competente están realizando o han realizado en territorio español actividades contrarias a esta Ley, y a sus disposiciones de desarrollo, la CNMV deberá adoptar las medidas oportunas para corregir esta situación. Además, comunicará a la autoridad competente notificante el resultado de su intervención y, en la medida de lo posible, los avances intermedios significativos.
+La Comisión Nacional del Mercado de Valores cooperará estrechamente con las demás autoridades competentes de la Unión Europea para garantizar que las facultades de supervisión e inspección se ejercen y las sanciones administrativas se imponen con eficacia.
+La Comisión Nacional del Mercado de Valores coordinará su actuación con las demás autoridades competentes de la Unión Europea para evitar posibles repeticiones y duplicidades cuando ejerzan dichas facultades de supervisión e inspección y apliquen medidas y sanciones administrativas en casos transfronterizos.
+4. La CNMV podrá pedir la cooperación de la autoridad competente de otro Estado miembro de la UE en una actividad de supervisión, para una verificación in situ o una investigación en el territorio de este último, en el marco de las competencias conferidas en esta Ley y su normativa de desarrollo.
+En el caso de que sea la CNMV la que realice dicha verificación o investigación in situ, aceptará que el personal de la autoridad competente del Estado miembro en cuyo territorio va a tener lugar la verificación o investigación in situ, acompañe al de la CNMV.
+En el caso de que sea la autoridad competente del Estado miembro en cuyo territorio va a tener lugar la verificación o investigación in situ la que realice ésta, la CNMV podrá pedir que su personal acompañe al de esta autoridad.
+5. En caso de que la Comisión Nacional del Mercado de Valores reciba por parte de la autoridad competente de otro Estado miembro de la UE una solicitud de petición de cooperación en una actividad de supervisión, una verificación in situ o a una investigación:
+a) realizará ella misma la verificación o investigación;
+b) permitirá que la realicen las autoridades que hayan presentado la solicitud, o
+c) permitirá que la realicen auditores de cuentas o expertos.
+En el caso de que sea la CNMV la que realice la verificación o investigación in situ a que se refiere el párrafo anterior, aceptará que el personal de la autoridad competente del Estado miembro de la UE solicitante acompañe al de la CNMV. En todo caso, la verificación o investigación se mantendrá bajo el control de la CNMV.
+En el caso de que la CNMV permita que sea la autoridad competente del Estado miembro de la UE solicitante la que realice la verificación o investigación in situ, podrá pedir que su personal acompañe al de esta autoridad.
+6. La CNMV podrá negarse a dar curso a una solicitud de cooperación en una investigación o una verificación in situ conforme al apartado 5, o a intercambiar información conforme al apartado 1 solamente en caso de que:
+a) dicha investigación, verificación in situ o intercambio de información pueda atentar contra la soberanía, la seguridad o el orden público, y, en particular a la lucha contra el terrorismo y otros delitos graves;
+b) se haya incoado un procedimiento judicial por los mismos hechos y contra las mismas personas en España;
+c) se haya dictado ya una resolución judicial firme con respecto a las mismas personas y los mismos hechos en España.
+d) pueda perjudicar a las investigaciones propias de la Comisión Nacional del Mercado de Valores o a sus actividades de vigilancia del cumplimiento de la normativa o a una investigación penal en curso.
+La CNMV notificará la denegación a la autoridad competente solicitante. En la notificación deberá motivarse la decisión adoptada.
+7. Si la solicitud de cooperación en una investigación o una verificación in situ conforme al apartado 4, o de que el personal de la CNMV acompañe al de la autoridad competente del otro Estado miembro en estas actuaciones, o la dirigida a intercambiar información, es rechazada por parte de las autoridades competentes del otro Estado miembro, o no se le da curso en un plazo razonable desde la remisión de dicha solicitud por parte de la CNMV a la otra autoridad competente, la CNMV podrá ponerlo en conocimiento de la Autoridad Europea de Valores y Mercados, de conformidad con el artículo 19 del Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo de 24 de noviembre de 2010 por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión.
+Se modifican los apartados 1, 3 y 6 por la disposición final 1.6 a 8 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican los apartados 1 y 2 por la disposición final 1.37 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se añade por el art. único.64 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71 quater
+
+Artículo 71 quáter. Divulgación de la información.
+Cuando la CNMV comunique información relacionada con las materias reguladas en esta Ley o en otras normas que traspongan la Directiva 2009/65/CE, a las autoridades competentes de otros Estados miembros de la Unión Europea deberá indicar si la información sólo puede divulgarse con su consentimiento expreso.
+Cuando la CNMV reciba información de las autoridades competentes de otros Estados miembros y dichas autoridades hayan indicado que la información sólo puede divulgarse con su consentimiento expreso, la CNMV deberá utilizar esa información exclusivamente para los fines que haya autorizado esa autoridad.
+Se añade por el art. único.65 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71 quinquies
+
+Artículo 71 quinquies. Intercambio de información y secreto profesional.
+La aplicación de los artículos 90 y 91.bis.4 de la Ley 24/1988 no impedirá el intercambio de información entre la CNMV u otra autoridad competente de otro Estado miembro y:
+a) El Banco de España, la Dirección General de Seguros y Fondos de Pensiones u otra entidad que realice funciones homólogas en otro Estado miembro.
+b) La administración concursal, de conformidad con lo establecido en la Ley 22/2003, u otra entidad que realice funciones homólogas en otro Estado miembro.
+c) Los auditores de las cuentas de las empresas de seguros, entidades de crédito, empresas de inversión y otras entidades financieras, de conformidad con lo establecido en la Ley 19/1988, u otra entidad que realice funciones homólogas en otro Estado miembro.
+d) La Autoridad Europea de Valores y Mercados, la Autoridad Bancaria Europea, la Autoridad Europea de Seguros y Pensiones de Jubilación o la Junta Europea de Riesgos Sistémicos.
+En particular lo previsto en los artículos 90 y 91.bis.4 de la Ley 24/1988 no impedirá a las autoridades mencionadas en el párrafo anterior el desempeño de su misión de supervisión, ni la transmisión a la sociedad gestora del Fondo de Garantía de Inversiones, prevista en el Real Decreto 948/2001, de 3 de agosto, sobre sistemas de indemnización de los inversores, u otra entidad que realice funciones homólogas en otro Estado miembro, de la información que precisen para la realización de sus funciones.
+La información que se intercambie en virtud del párrafo anterior estará sujeta al secreto profesional contemplado en el artículo 90 de la Ley 24/1988.
+Se añade por el art. único.66 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 71 sexies
+
+Artículo 71 sexies. Intercambio de información referente a las posibles consecuencias sistémicas de la actividad de las sociedades gestoras autorizadas conforme a la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+La Comisión Nacional del Mercado de Valores informará a las autoridades competentes de otros Estados miembros cuando ello resulte oportuno con vistas a vigilar y reaccionar a las consecuencias que puedan derivarse de la actividad de las sociedades gestoras, ya sea individualmente o de forma colectiva, para la estabilidad de las entidades financieras con importancia sistémica y para el funcionamiento ordenado de los mercados en los que las sociedades gestoras desarrollan su actividad. Se informará asimismo a la Autoridad Europea de Valores y Mercados y a la Junta Europea de Riesgo Sistémico que remitirán esa información a las autoridades competentes de los demás Estados miembros. A estos efectos será de aplicación lo regulado en el Reglamento delegado (UE) n.º 231/2013 de la Comisión, de 19 de diciembre de 2012, que desarrolla la Directiva 2011/61/UE en materia de exenciones, condiciones generales de ejercicio, depositario, apalancamiento, transparencia y supervisión.
+Se añade por la disposición final 1.38 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 71 septies
+
+Artículo 71 septies. Supervisión de los límites al apalancamiento, de la adecuación de los procesos de evaluación crediticia y del riesgo de liquidez.
+1. Con base en la información que recabe en aplicación de esta Ley y respecto a las SGIIC que gestionen IIC reguladas por la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, que estén bajo su supervisión, la Comisión Nacional del Mercado de Valores habrá de determinar hasta qué punto contribuye el apalancamiento a la generación de un riesgo sistémico en el sistema financiero, de riesgos de perturbación de los mercados, o de riesgos para el crecimiento a largo plazo de la economía.
+2. La información a que se refiere el apartado anterior habrá de ponerse a disposición de las autoridades competentes de los demás Estados miembros, de la Autoridad Europea de Valores y Mercados y de la Junta Europea de Riesgos Sistémicos a través de los procedimientos de cooperación en la supervisión establecidos. Cuando una SGIIC que gestione IIC reguladas por la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, bajo supervisión de la Comisión Nacional del Mercado de Valores, o una IIC gestionados por dicha SGIIC, pudieran constituir una fuente importante de riesgo de contrapartida para una entidad de crédito u otras entidades pertinentes a efectos sistémicos de otros Estados miembros, la Comisión Nacional del Mercado de Valores facilitará sin demora información a través de los procedimientos de cooperación en la supervisión establecidos, y bilateralmente a las autoridades competentes de otros Estados miembros directamente.
+3. Corresponderá a la SGIIC que gestione IIC reguladas por la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, demostrar que los límites de apalancamiento para cada vehículo que gestione son razonables y que cumple en todo momento dichos límites establecidos por él mismo. La Comisión Nacional del Mercado de Valores evaluará los riesgos que pueda entrañar el recurso al apalancamiento por parte de una sociedad gestora con respecto a los vehículos que gestiona, y siempre que se considere necesario para la estabilidad e integridad del sistema financiero, la Comisión Nacional del Mercado de Valores, previa notificación a la Autoridad Europea de Valores y Mercados, a la Junta Europea de Riesgo Sistémico y, en su caso, a las autoridades competentes por razón del origen de la IIC, fijarán límites al nivel de apalancamiento a que esté autorizado a recurrir una SGIIC u otras restricciones en materia de gestión respecto de los vehículos que gestione a fin de limitar la incidencia del apalancamiento en la generación de un riesgo sistémico en el sistema financiero o de riesgos de perturbación de los mercados. La Comisión Nacional del Mercado de Valores informará debidamente a la Autoridad Europea de Valores y Mercados, a la Junta Europea de Riesgo Sistémico y a las autoridades competentes por razón del origen de la IIC, de las medidas adoptadas al respecto, a través de los procedimientos de cooperación en la supervisión establecidos.
+4. La notificación a que se refiere el apartado 3 se efectuará por lo menos diez días hábiles antes de la fecha prevista de entrada en vigor o de renovación de la medida propuesta. La notificación incluirá detalles de la medida propuesta, las razones que justifican tal medida y la fecha prevista de su entrada en vigor. En circunstancias excepcionales, la Comisión Nacional del Mercado de Valores podrá decidir que la medida propuesta entre en vigor dentro del período de diez días hábiles mencionado.
+5. En el caso de que la Comisión Nacional del Mercado de Valores decida actuar en contra de la recomendación que a los efectos de lo dispuesto en los apartados anteriores emita la Autoridad Europea de Valores y Mercados sobre la base de la información que le haya sido remitida, deberá informar a ésta exponiendo sus motivos.
+A estos efectos, las sociedades gestoras deberán atenerse a lo establecido en el Reglamento delegado (UE) n.º 231/2013 de la Comisión, de 19 de diciembre de 2012.
+6. La Comisión Nacional del Mercado de Valores vigilará la adecuación de los procesos de evaluación crediticia de las SGIIC, valorará el uso de referencias a las calificaciones crediticias en sus políticas de inversión, de acuerdo con lo establecido en el artículo 46.5 y, cuando proceda, fomentará la mitigación del impacto de tales referencias, con vistas a reducir la dependencia exclusiva y automática de dichas calificaciones crediticias. A estos efectos, deberá tener en cuenta la naturaleza, la escala y la complejidad de las actividades de las IIC.
+7. La Comisión Nacional del Mercado de Valores, con el objeto de garantizar un tratamiento equitativo de los partícipes o accionistas o por razones de estabilidad e integridad del sistema financiero, podrá, de manera temporal y justificando la necesidad y proporcionalidad de la medida:
+a) Exigir a las sociedades gestoras de instituciones de inversión colectiva, con carácter individual o respecto de una pluralidad de ellas, que refuercen el nivel de liquidez de las carteras de las instituciones de inversión colectiva gestionadas y, en particular, que incrementen el porcentaje de inversión en activos especialmente líquidos, tal y como los defina la propia Comisión Nacional del Mercado de Valores.
+b) Autorizar a las sociedades gestoras de instituciones de inversión colectiva, con carácter individual o respecto de una pluralidad de ellas, el establecimiento de periodos de preaviso para los reembolsos en una o varias instituciones de inversión colectiva por ellas gestionadas sin sujeción a los requisitos de plazo, importe mínimo y constancia previa en el reglamento de gestión aplicables con carácter ordinario. Dichos periodos de preaviso podrán también ser establecidos por la Comisión Nacional del Mercado de Valores, que determinará los reembolsos a los que resulte de aplicación la medida.
+Se modifica el apartado 7 por la disposición final 4 del Real Decreto-ley 11/2020, de 31 de marzo. Ref. BOE-A-2020-4208#df-4
+ Redactado conforme a la corrección de errores publicada en BOE núm. 99, de 9 de abril de 2020. Ref. BOE-A-2020-4377
+ Se modifica el título y se añade el apartado 7 por el art. 1 del Real Decreto-ley 22/2018, de 14 de diciembre. Ref. BOE-A-2018-17294#ap
+ Se añade por la disposición final 1.39 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+## CAPÍTULO III
+
+Intervención y sustitución
+
+### Artículo 72
+
+Artículo 72. Causas de intervención o sustitución.
+1. Cuando las IIC o las SGIIC se encuentren en una situación de excepcional gravedad que ponga en grave peligro su equilibrio patrimonial o el patrimonio de sus clientes, o que afecte a la estabilidad del sistema financiero o al interés general, podrá acordarse por la CNMV, dando cuenta razonada al Ministro de Economía, la intervención de la sociedad gestora o de la sociedad de inversión, la sustitución provisional de sus órganos de administración o dirección, o la sustitución de la sociedad gestora en los términos del artículo 53. Estas medidas se mantendrán transitoriamente hasta que se supere la situación mencionada.
+2. Lo dispuesto en el apartado 1 de este artículo será también aplicable en aquellos casos en que, existiendo indicios fundados de que concurra la situación de excepcional gravedad a que el mismo se refiere, la verdadera situación patrimonial de la SGIIC, del fondo de inversión o de la sociedad de inversión o de sus clien tes, no pueda deducirse de su contabilidad y demás registros.
+3. Las medidas de intervención o sustitución a que se refiere este artículo podrán adoptarse durante la tramitación de un expediente sancionador o con independencia del ejercicio de la potestad sancionadora, siempre que se produzca alguna de las situaciones previstas en los apartados anteriores.
+4. Las resoluciones de la CNMV que pongan fin al procedimiento acordando la intervención o la sustitución en los supuestos previstos en el apartado 1 de este artículo podrán ser recurridas en alzada ante el Ministro de Economía.
+5. Cuando la IIC lleve a cabo las actividades de comercialización transfronteriza en otro Estado miembro en virtud del artículo 16, o sea gestionada por una sociedad gestora con domicilio social en un Estado miembro de la Unión Europea distinto de España, la CNMV comunicará las resoluciones que pongan fin al procedimiento en los supuestos previstos en el apartado 1 a las autoridades competentes de dichos Estados miembros.
+Se añade el apartado 5 por el art. único.67 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 73
+
+Artículo 73. Petición y adopción de acuerdo sobre intervención o sustitución.
+1. El acuerdo de intervención o sustitución podrá adoptarse a petición fundada de la propia entidad.
+Podrán formular la petición, los administradores de la sociedad gestora o sociedad de inversión, el depositario y, en su caso, una minoría de accionistas que sea, al menos, igual a la que exija la legislación respectiva para instar la convocatoria de una junta general extraordinaria.
+2. Los acuerdos de intervención o sustitución se adoptarán previa audiencia de la sociedad gestora o sociedad de inversión interesada, durante el plazo que se le conceda al efecto, que no podrá ser inferior a cinco días. No obstante, tal audiencia no será necesaria en el caso de que haya precedido petición de la propia entidad o cuando el retraso que tal trámite origine comprometa gravemente la efectividad de la medida o los intereses económicos afectados.
+3. El acuerdo designará la persona o personas que hayan de ejercer las funciones de intervención o hayan de actuar como administradores provisionales, e indicará si tales personas deben actuar conjunta, mancomunada o solidariamente.
+Dicho acuerdo, de carácter inmediatamente ejecutivo, será objeto de publicación en el "Boletín Oficial del Estado" y se inscribirá en el Registro Mercantil. Tanto la publicación como la inscripción citadas determinarán la eficacia del mismo frente a terceros.
+4. Cuando ello resulte necesario para la ejecución del acuerdo de intervención o de sustitución de los administradores, podrá llegarse a la compulsión directa para la toma de posesión de las oficinas, libros y documentos correspondientes o para el examen de estos últimos.
+
+### Artículo 74
+
+Artículo 74. Efectos de la intervención.
+1. En el supuesto de intervención, los actos y acuerdos de cualquier órgano o de cualquier persona o grupo de personas con cualquier tipo de poder decisorio, ejecutivo, representativo o de control de la sociedad gestora o de la sociedad de inversión que se adopten a partir de la fecha de publicación del acuerdo en el "Boletín Oficial del Estado", no serán válidos ni podrán llevarse a efecto sin la aprobación expresa de los interventores designados. Se exceptúa de esta aprobación el ejercicio de acciones o recursos para dichas entidades en relación con la medida de intervención o con la actuación de los interventores.
+2. Los interventores designados estarán facultados para revocar cuantos poderes o delegaciones hubieren sido conferidos por el órgano de administración de la entidad o por sus apoderados o delegados con anterioridad a la fecha de publicación del acuerdo. Adoptada tal medida, se procederá por los interventores a exigir la devolución de los documentos en que constaren los apoderamientos, así como a promover la inscripción de su revocación en los registros públicos competentes.
+
+### Artículo 75
+
+Artículo 75. Efectos de la sustitución.
+1. En el caso de sustitución del órgano de administración, los administradores provisionales designados tendrán el carácter de interventores respecto de los actos o acuerdos de la junta general de la entidad siendo de aplicación a los mismos cuanto dispone el apartado 1 del artículo anterior.
+2. La obligación de formular las cuentas anuales de la entidad y la de aprobación de éstas y de la gestión social quedarán en suspenso, por plazo no superior a un año, a contar desde el vencimiento del plazo legalmente establecido al efecto, si el nuevo órgano de administración o los interventores estimaren razonadamente que no existen datos o documentos fiables y completos para ello.
+3. Acordado por la CNMV el cese de la medida de sustitución, los administradores provisionales procederán a convocar inmediatamente la junta general de la entidad, en la que se sustituirá a la sociedad gestora o se nombrará el nuevo órgano de administración. Hasta la toma de posesión de los nuevos administradores, los administradores provisionales seguirán ejerciendo sus funciones.
+
+### Artículo 76
+
+Artículo 76. Intervención pública en la disolución de una sociedad de inversión, de una sociedad gestora o de una entidad depositaria.
+1. Resultará de aplicación a las situaciones concursales de las sociedades de inversión y de las SGIIC el régimen previsto en el apartado sexto del artículo 176 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
+2. Iniciado el procedimiento concursal de una entidad depositaria de valores de cualquier IIC, la CNMV podrá disponer, sin perjuicio de las competencias del Banco de España y del FROB, de forma inmediata y sin coste para la institución, el traslado a otra entidad, habilitada para desarrollar esta actividad, de los instrumentos financieros depositados, las garantías constituidas y el efectivo, por cuenta de las IIC, incluso si tales activos se encuentran depositados en terceras entidades a nombre del depositario de la IIC o de la entidad a quien este hubiere confiado el depósito. A estos efectos, tanto el juez competente como los órganos del procedimiento concursal, facilitarán el acceso de la entidad a la que vayan a traspasarle los instrumentos financieros y el efectivo a la documentación y registros contables e informáticos necesarios para hacer efectivo el traspaso. La existencia del procedimiento concursal no impedirá que se haga llegar a la institución titular, de acuerdo con las normas del sistema de compensación, liquidación y registro, los instrumentos financieros comprados o el efectivo procedente del ejercicio de sus derechos económicos o de su venta.
+3. El efectivo y los instrumentos financieros de las IIC no podrán distribuirse ni realizarse en beneficio de los acreedores del depositario o de cualquier tercero en el que este hubiera delegado sus funciones, en caso de concurso de cualquiera de ellos.
+4. La declaración de concurso no impedirá que se liquiden las órdenes de suscripción, reembolso o traspasos ordenados por los clientes con anterioridad a la fecha de declaración de concurso. Dichas operaciones se liquidarán aplicando el valor liquidativo que corresponda o, en su caso, el último valor liquidativo en firme.
+5. El juez competente y los órganos del procedimiento concursal velarán por los derechos que deriven de las operaciones en curso de liquidación en el momento en que se declare el concurso de una entidad depositaria de instrumentos financieros de cualquier IIC.
+Se modifica por la disposición final 4.15 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+
+## CAPÍTULO IV
+
+Régimen sancionador
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 77
+
+Artículo 77. Responsabilidad.
+Las personas físicas o jurídicas previstas en el artículo 69, así como quienes ostenten cargos de administración o dirección en las mismas, que infrinjan esta Ley y su normativa de desarrollo, incurrirán en responsabilidad administrativa sancionable con arreglo a lo dispuesto en el presente Título, sin perjuicio de la responsabilidad penal que en su caso corresponda.
+Ostentan cargos de administración o dirección en las personas jurídicas a las que se refiere el párrafo anterior y a los efectos de lo dispuesto en este Título, sus administradores o miembros de sus órganos colegiados de administración así como sus directores generales o asimilados, entendiéndose por tales aquellas personas que, de hecho o de derecho, desarrollen en la entidad funciones de alta dirección.
+Se modifica por la disposición final 7.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 78
+
+Artículo 78. Ejercicio de la potestad sancionadora.
+1. El ejercicio de la potestad sancionadora a que se refiere este título será independiente de la eventual concurrencia de delitos o faltas de naturaleza penal. No obstante, cuando se esté tramitando un proceso penal por los mismos hechos o por otros cuya separación de los sancionables con arreglo a esta ley sea racionalmente imposible, el procedimiento quedará suspendido respecto de los mismos hasta que recaiga pronunciamiento firme de la autoridad judicial. Reanudado el expediente, en su caso, la resolución que se dicte deberá respetar la apreciación de los hechos que contenga dicho pronunciamiento.
+2. Cuando de la comisión de una infracción prevista en esta ley se derive necesariamente la comisión de otra u otras infracciones contempladas en la Ley del Mercado de Valores, o cuando los hechos sean calificables como infracción según lo dispuesto en los regímenes sancionadores de ambas leyes, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida. En el caso de que las infracciones tengan la misma gravedad, se impondrán las sanciones previstas en esta ley.
+
+## Sección 2
+
+Sección 2.ª Infracciones
+
+### Artículo 79
+
+Artículo 79. Clasificación de las infracciones.
+Las infracciones se clasifican, de acuerdo con su respectiva trascendencia, en tres categorías: leves, graves y muy graves.
+
+### Artículo 80
+
+Artículo 80. Infracciones muy graves.
+Constituyen infracciones muy graves de las personas físicas y jurídicas a las que se refiere el artículo 69 de esta Ley los siguientes actos u omisiones:
+a. La falta de remisión a la Comisión Nacional del Mercado de Valores en el plazo establecido en las normas u otorgado por ésta, de cuantos documentos, datos o informaciones deban remitírsele en virtud de lo dispuesto en la Ley y en sus normas de desarrollo, así como de las normas de Derecho de la Unión Europea que contengan preceptos específicamente referidos a las mismas, o que dicha Comisión requiera en el ejercicio de sus funciones, cuando exista un interés de ocultación o negligencia grave atendiendo a la relevancia de la comunicación no realizada y a la demora en que se hubiese incurrido y cuando con ello se dificulte la apreciación de la solvencia de la entidad o, en su caso, de la situación patrimonial de las ECR o EICC gestionadas.
+Del mismo modo constituye infracción muy grave la remisión a la Comisión Nacional del Mercado de Valores de información incompleta o de datos inexactos, no veraces o engañosos, cuando en estos supuestos la incorrección sea relevante. La relevancia de la incorrección se determinará teniendo en cuenta, entre otros, los siguientes criterios: Que se puedan conocer públicamente las circunstancias que permiten influir en la apreciación del valor del patrimonio y en las perspectivas de la institución, en particular los riesgos inherentes que comporta, y que se pueda conocer si la institución cumple o no con la normativa aplicable.
+b. La inversión en cualesquiera activos distintos de los autorizados legalmente y, en su caso, en los artículos 9 a 16 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, o de los permitidos por el folleto, el documento con los datos fundamentales para el inversor, los estatutos o el reglamento de la IIC, siempre que ello desvirtúe el objeto de la IIC, perjudique gravemente los intereses de los accionistas o partícipes, o se trate de incumplimiento reiterado.
+c. El incumplimiento de la obligación de someter a auditoría las cuentas anuales.
+d. La realización de operaciones de préstamo bursátil o de valores, así como la pignoración de activos, con infracción de las cautelas que se determinen en las normas de desarrollo de esta Ley o en el folleto, los estatutos o el reglamento de la IIC.
+e. El incumplimiento de los límites a la inversión o de los coeficientes de inversión mínima, incluidos, en su caso, aquellos contenidos en los artículos 17 y 18 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, o de las condiciones establecidas en el folleto, el documento con los datos fundamentales para el inversor, los estatutos o el reglamento de la IIC, siempre que ello desvirtúe el objeto de la IIC o perjudique gravemente los intereses de los accionistas, partícipes y terceros, o se trate de un incumplimiento reiterado.
+f. La compraventa de las propias acciones en las sociedades de capital variable y la emisión, reembolso o traspaso de acciones o de participaciones con incumplimiento de los límites y condiciones impuestos por esta Ley, sus disposiciones complementarias y los estatutos y reglamentos de gestión de las instituciones, cuando ello perjudique gravemente los intereses de los accionistas, partícipes o se trate de un incumplimiento reiterado.
+g. El incumplimiento de la reserva de actividad prevista en los artículos 14 y 40 de esta Ley, la realización por las sociedades gestoras o por cualquier persona física o jurídica de actividades para las que no estén autorizadas, así como la inobservancia por una sociedad gestora o por sus agentes de las reglas que se establezcan al amparo del artículo 40.3 de esta Ley.
+h. La resistencia o negativa a la inspección establecida en el artículo 70.
+i. La realización de operaciones de inversión con incumplimiento de los principios establecidos en el artículo 23 o en contravención de las condiciones establecidas en el folleto, el documento con los datos fundamentales para el inversor, los estatutos o el reglamento de la IIC.
+j. La realización sin autorización de las operaciones contempladas en los artículos 25, 26 y 27, o con incumplimiento de los requisitos establecidos.
+k. El incumplimiento de los plazos de permanencia de las inversiones que se fijen reglamentariamente de acuerdo con lo previsto en el 36.3 de esta Ley o en el folleto, el documento con los datos fundamentales para el inversor, los estatutos o el reglamento de la IIC.
+l. El incumplimiento por las sociedades gestoras que actúen en el marco de esta Ley, de las obligaciones en materia de valoración de inmuebles que se establezcan en desarrollo de lo preceptuado en el artículo 36 de esta Ley.
+m. La comercialización de acciones o participaciones de IIC no inscritas en el correspondiente registro de la Comisión Nacional del Mercado de Valores.
+n. El incumplimiento por parte de las sociedades gestoras de las funciones y obligaciones contempladas en el artículo 46, así como, en su caso, de las obligaciones contenidas en los artículos 19, 20, 21, 23, 24, 25, 27, 28 y 34 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, siempre que conlleven un perjuicio grave para los partícipes o accionistas de una IIC.
+ñ. El incumplimiento por parte de los depositarios de las funciones y obligaciones contempladas en el título V, siempre que conlleven un perjuicio grave para los partícipes o accionistas de una IIC.
+o. La falta de procedimientos a los que se refiere el artículo 43.1.j) de esta Ley o la presentación por parte de las sociedades de inversión o las sociedades gestoras de deficiencias en la organización administrativa y contable o en los procedimientos de control interno, incluidos los relativos a la gestión de los riesgos cuando tales deficiencias pongan en peligro la solvencia o la viabilidad de la entidad, o cuando se perjudique gravemente o pongan en riesgo los intereses de partícipes o accionistas.
+p. El mantenimiento por las sociedades gestoras durante un período de seis meses de unos recursos propios inferiores a los exigidos por la normativa.
+q. La ausencia de un departamento de atención al cliente en los términos previstos en el artículo 48.
+r. La realización de operaciones vinculadas con incumplimiento de los requisitos establecidos en el artículo 67.3, 67.4 y 67.5 de esta Ley y en las normas de desarrollo, cuando fueran exigibles, siempre que perjudiquen gravemente los intereses de los partícipes o accionistas o se trate de una conducta reiterada.
+s. El incumplimiento de las normas de separación del depositario y la sociedad encargada de la gestión de la IIC, establecidas en el artículo 68 de esta Ley y en las normas de desarrollo, siempre que se perjudique gravemente los intereses de los partícipes o accionistas o se trate de una conducta reiterada.
+t. La comisión de infracciones graves cuando durante los cinco años anteriores a su comisión hubiera sido impuesta al infractor sanción firme por el mismo tipo de infracción.
+u. La realización de actuaciones u operaciones prohibidas por normas reguladoras del régimen de IIC o con incumplimiento de los requisitos establecidos en las mismas, salvo que tenga un carácter meramente ocasional o aislado.
+v. El incumplimiento de lo dispuesto en el artículo 28 bis de esta Ley y sus normas de desarrollo cuando ello perjudique gravemente los intereses de los partícipes o accionistas o se trate de una conducta reiterada.
+w. La obtención de la autorización en virtud de esta ley, o en su caso, del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, a través de declaraciones falsas, omisiones o por otro medio irregular, o el incumplimiento de las condiciones presentadas para la obtención de la autorización cuando en este último caso se produzca perjuicio grave para los intereses de partícipes o accionistas o se trate de una conducta reiterada.
+x. La delegación de las funciones de las sociedades gestoras con incumplimiento de las condiciones impuestas por esta Ley y demás normas de desarrollo cuando se perjudique gravemente los intereses de partícipes o accionistas o se trate de una conducta reiterada o cuando disminuya la capacidad de control interno o de supervisión de la Comisión Nacional del Mercado de Valores.
+y. El incumplimiento de las medidas cautelares o aplicadas al margen del ejercicio de la potestad sancionadora acordadas por la Comisión Nacional del Mercado de Valores.
+z. El incumplimiento de los compromisos asumidos por las sociedades gestoras o sociedades de inversión para subsanar las deficiencias detectadas en el ámbito de la supervisión e inspección, cuando ello perjudique gravemente los intereses de los partícipes o accionistas o se trate de una conducta reiterada.
+z bis. El exceso en los límites a las obligaciones frente a terceros que se fijen reglamentariamente o en el folleto, los estatutos o el reglamento de la IIC cuando ello perjudique gravemente los intereses de los accionistas o partícipes.
+z ter. La valoración de los activos propiedad de las IIC apartándose de lo establecido por la normativa, incluida, en su caso, la contenida en los artículos 29 a 33 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, cuando ello perjudique gravemente los intereses de los partícipes o accionistas, se trate de una conducta reiterada o tenga impacto sustancial en el valor liquidativo de la IIC.
+z quáter. La adquisición de una participación significativa de control incumpliendo lo previsto en el artículo 45 de esta Ley, así como que el titular de una participación significativa incurra en el supuesto de hecho contemplado en el artículo 45.10 de esta Ley y en las normas que lo desarrollen.
+z quinquies. El incumplimiento por la SGIIC de las obligaciones impuestas por los artículos 54.5 ter y 54 bis siempre que conlleven un perjuicio grave para los inversores o accionistas.
+z sexies. El incumplimiento de las obligaciones recogidas en los artículos 15 a 15 quinquies por parte de IIC autorizadas en otro Estado miembro de la Unión Europea, y de las obligaciones recogidas en el artículo 16 por parte de IIC autorizadas en España siempre que conlleven un perjuicio grave para los inversores o accionistas.
+z septies. El incumplimiento de lo previsto en el artículo 17 así como, en su caso, de los artículos 26 y 36 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, siempre que conlleve un perjuicio grave para los inversores.
+z octies. El incumplimiento de las obligaciones contenidas en el artículo 5 bis del Reglamento (CE) n.º 1060/2009 del Parlamento Europeo y del Consejo de 16 de septiembre de 2009 sobre las agencias de calificación crediticia, con carácter no meramente ocasional o aislado.
+Se modifica la letra z sexies) del art. 80 por la disposición final 1.9 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican las letras a, b, e, n, w, z ter y z septies por la disposición final 2.2 del Real Decreto-ley 19/2018, de 23 de noviembre. Ref. BOE-A-2018-16036#df-2
+ Se añade la letra z octies) por la disposición final 3.2 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dftercera.
+ Se modifican las letras a), ñ), z quinquies) y z sexies) por la disposición final 1.40 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.68 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica por la disposición final 7.6 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 81
+
+Artículo 81. Infracciones graves.
+Son infracciones graves:
+a. El incumplimiento de la obligación de puesta a disposición a los socios, partícipes y público de la información que deba rendirse con arreglo a lo dispuesto en el artículo 18 de esta Ley y sus normas de desarrollo, cuando no deba calificarse como infracción muy grave.
+b. La llevanza de la contabilidad de acuerdo con criterios distintos de los establecidos legalmente, cuando ello desvirtúe la imagen patrimonial de la entidad o la IIC afectada, así como el incumplimiento de las normas sobre formulación de cuentas o sobre el modo en que deban llevarse los libros y registros oficiales, cuando no deba calificarse como infracción muy grave.
+c. El incumplimiento de los límites a la inversión o de los coeficientes de inversión mínima, incluidos, en su caso, aquellos contenidos en [os artículos 17 y 18 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, cuando no deba calificarse como infracción muy grave.
+d. El exceso de inversión sobre los límites que se establezcan reglamentariamente al amparo del artículo 30 y sobre los que se establezcan al amparo de lo dispuesto en los artículos 35 y 36, cuando la infracción no deba calificarse como leve.
+e. El exceso en las limitaciones a las obligaciones frente a terceros que se fijen reglamentariamente o en el folleto, los estatutos o el reglamento de la IIC, cuando no deba calificarse como infracción muy grave.
+f. El cargo de comisiones por servicios que no hayan sido efectivamente prestados a la institución, el cobro de las comisiones no previstas o con incumplimiento de los límites y condiciones impuestos en el artículo 8 de esta Ley, en sus normas de desarrollo, estatutos o reglamentos de las instituciones.
+g. El incumplimiento por parte de las sociedades gestoras de las funciones y obligaciones contempladas en el artículo 46, así como, en su caso, de las obligaciones contenidas en los artículos 19, 20, 21, 23 24, 25, 27, 28 y 34 y 37 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, cuando no deba ser calificada como falta muy grave.
+h. El incumplimiento por el depositario de las funciones y obligaciones contempladas en el título V, cuando no deba calificarse como falta muy grave.
+i. El cese o disminución de una participación significativa incumpliendo lo previsto en el artículo 45.8.
+i bis. La adquisición de una participación como la descrita en el artículo 45.1 de esta Ley y en sus normas de desarrollo, sin haberla comunicado a la Comisión Nacional del Mercado de Valores así como el aumento o reducción de una participación significativa incumpliendo lo previsto en el artículo 45.3 y 45.8 de esta Ley y en sus normas de desarrollo y la falta de comunicación periódica de la estructura accionarial.
+i ter. La adquisición de una participación como la descrita en el artículo 45.2 de esta Ley.
+j. La inobservancia de lo dispuesto en el artículo 11.2.c), tercer inciso, de esta Ley.
+k. La comisión de infracciones leves cuando durante los dos años anteriores a su comisión hubiese sido impuesta al infractor sanción firme en vía administrativa por el mismo tipo de infracción.
+l. La realización de actuaciones u operaciones prohibidas por normas reguladoras del régimen de IIC o con incumplimiento de los requisitos establecidos en las mismas, cuando tenga un carácter meramente ocasional o aislado.
+m. La presentación por parte de las sociedades de inversión o las sociedades gestoras de deficiencias en la organización administrativa y contable o en los procedimientos de control interno o de valoración, incluidos los relativos a la gestión de los riesgos, una vez que haya transcurrido el plazo concedido al efecto para su subsanación por las autoridades competentes y siempre que ello no constituya infracción muy grave.
+n. La delegación de las funciones de la sociedad gestora con incumplimiento de las condiciones impuestas por esta Ley y normas de desarrollo, cuando no deba calificarse como muy grave.
+ñ. El incumplimiento de las obligaciones de información a la Comisión Nacional del Mercado de Valores y de las condiciones para retornar al cumplimiento que se establezcan en las normas de desarrollo que se dicten al amparo del artículo 43.1.e) de esta Ley, cuando una sociedad gestora presente un nivel de recursos propios inferiores al mínimo exigible.
+o. La realización de operaciones vinculadas con el incumplimiento de los requisitos establecidos en el artículo 67.3, 67.4 y 67.5 de esta Ley y en las normas de desarrollo, cuando fueran exigibles y no deban calificarse como infracción muy grave.
+p. El incumplimiento de las normas de separación del depositario y la sociedad gestora o sociedad de inversión, establecidas en el artículo 68 de esta Ley y en normas de desarrollo, cuando no deba calificarse como muy grave.
+q. La realización de publicidad con incumplimiento de lo previsto en esta Ley y en sus normas de desarrollo.
+r. El incumplimiento de las condiciones presentadas para la obtención de la autorización, cuando no deba calificarse como infracción muy grave.
+s. El incorrecto funcionamiento del departamento de atención al cliente.
+t. La inversión en cualesquiera activos distintos de los autorizados por la normativa aplicable, incluida, en su caso, la contenida en los artículos 9 a 16 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, o de los permitidos por el folleto, el documento con los datos fundamentales para el inversor, los estatutos, o el reglamento de la IIC, cuando no deba calificarse como infracción muy grave.
+u. La compraventa de las propias acciones en las sociedades de capital variable y la emisión, reembolso o traspaso de acciones o participaciones con incumplimiento de los límites y condiciones impuestos por esta Ley y sus normas de desarrollo y los estatutos y reglamentos de gestión de las instituciones, cuando no deba calificarse como infracción muy grave.
+v. La valoración de los activos propiedad de las IIC apartándose de lo establecido por la normativa, incluida, en su caso, la contenida en los artículos 29 a 33 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, cuando no deba calificarse como infracción muy grave.
+w. La efectiva administración o dirección de las personas jurídicas reseñadas en el artículo 69 de esta Ley por personas que no ejerzan de derecho en las mismas un cargo de dicha naturaleza.
+x. La realización, con carácter ocasional o aislado, por las sociedades gestoras o sociedades de inversión de actividades para las que no están autorizadas.
+y. El uso indebido de las denominaciones a las que se refieren los artículos 14 y 40.7 de esta Ley y normas de desarrollo, así como, en su caso, el artículo 6 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario.
+z. El incumplimiento de los compromisos asumidos por las sociedades gestoras o sociedades de inversión para subsanar las deficiencias detectadas en el ámbito de la supervisión e inspección, cuando no deba calificarse como infracción muy grave.
+z bis. El incumplimiento de lo dispuesto en el artículo 28 bis de esta Ley y sus normas de desarrollo, cuando no deba calificarse como infracción muy grave.
+z ter. El incumplimiento por la SGIIC de las obligaciones impuestas por el artículo 54.5 ter, y 54 bis cuando no deba calificarse como falta muy grave.
+z quáter El incumplimiento por parte de las IIC autorizadas en otro Estado miembro de las obligaciones que deriven de los artículos 15 a 15 quinquies, y de las obligaciones recogidas en el artículo 16 por parte de IIC autorizadas en España cuando no deba calificarse como falta muy grave.
+z quinquies. El incumplimiento de lo previsto en el artículo 17, así como, en su caso, en los artículos 26 y 36 del Reglamento (UE) n.º 2017/1131, del Parlamento Europeo y del Consejo, de 14 de junio de 2017 sobre fondos del mercado monetario, cuando no deba calificarse como infracción muy grave.
+z sexies. El incumplimiento de las obligaciones contenidas en el artículo 5 bis del Reglamento (CE) n.º 1060/2009, cuando no constituyan infracción muy grave.
+Se modifica la letra z quáter) por la disposición final 1.10 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifican las letras c, g, t, v, y, y z quinquies por la disposición final 2.3 del Real Decreto-ley 19/2018, de 23 de noviembre. Ref. BOE-A-2018-16036#df-2
+ Se añade la letra z sexies) por la disposición final 3 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dftercera.
+ Se modifican las letras h), k), z ter) y z quáter) por la disposición final 1.41 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica por el art. único.69 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+ Se modifica por la disposición final 7.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 82
+
+Artículo 82. Infracciones leves.
+1. Son infracciones leves:
+a) La falta de remisión a la Comisión Nacional del Mercado de Valores, en el plazo establecido en las normas u otorgado por ésta, de cuantos documentos, datos o informaciones deban remitírsele en virtud de lo dispuesto en esta Ley y en sus normas de desarrollo o requiera en el ejercicio de sus funciones, así como faltar al deber de colaboración ante actuaciones de supervisión de la Comisión, incluyendo la no comparecencia ante una citación para la toma de declaración, cuando estas conductas no constituyan infracción grave o muy grave de acuerdo con lo previsto en los dos artículos anteriores.
+b) La demora en la publicación o remisión de la información que, de conformidad con lo dispuesto en esta Ley, ha de difundirse entre los socios, partícipes y público en general, cuando no deba calificarse como infracción muy grave.
+c) El exceso de inversión sobre los límites que se establezcan reglamentariamente y en normas de desarrollo al amparo del artículo 30 y sobre los que se establezcan al amparo de lo dispuesto en los artículos 35 y 36, siempre que el exceso tenga carácter transitorio y no exceda del 20 por ciento de los límites legales.
+Cuando el exceso se refiera a los coeficientes establecidos en los artículos 35 y 36 de esta Ley y normas de desarrollo, se entenderá que un exceso es transitorio cuando se den las tres circunstancias siguientes:
+1.º que el exceso no se prolongue durante más de cinco días hábiles en un periodo de rendición de información de los que se establezcan en el desarrollo reglamentario de esta Ley,
+2.º que el exceso no se produzca más de una vez en el mismo periodo,
+3.º que esta situación no se reitere en más de dos periodos en un ejercicio.
+Cuando se refiera a los coeficientes que se establezcan al amparo de lo dispuesto en el artículo 30, se considerará que un exceso es transitorio si no se prolonga más de seis meses en un periodo de un año.
+d) El incumplimiento singular en el marco de una relación de clientela de las normas de conducta previstas en el Capítulo I del Título VII de la Ley del Mercado de Valores y en sus normas de desarrollo.
+e) Aquellos incumplimientos de los previstos en el artículo 81. c), d), e), f), g), l), t), u) y v) de la ley, que por su singularidad y escasa trascendencia no deban calificarse como graves.
+f) Constituye asimismo infracción leve cualquier incumplimiento de la presente ley y sus normas de desarrollo que no constituya infracción grave o muy grave conforme a lo dispuesto en los apartados anteriores.
+Se modifica por la disposición final 7.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 83
+
+Artículo 83. Prescripción de las infracciones.
+1. Las infracciones muy graves y graves prescribirán a los cinco años y las leves a los dos años.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción hubiera sido cometida. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de finalización de la actividad o la del último acto con el que la infracción se consume.
+3. La prescripción se interrumpirá por la iniciación, con conocimiento del interesado, del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador permaneciera paralizado durante seis meses por causa no imputable a aquellos contra quienes se dirija.
+Se modifica el apartado 3 por la disposición final 7.9 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## Sección 3
+
+Sección 3.ª Sanciones
+
+### Artículo 84
+
+Artículo 84. Sanciones.
+Las infracciones a que se refieren los artículos anteriores darán lugar a la imposición de las sanciones previstas en la presente sección.
+
+### Artículo 85
+
+Artículo 85. Sanciones por la comisión de infracciones muy graves.
+1. Por la comisión de infracciones muy graves se impondrá a la entidad infractora una o más de las siguientes sanciones:
+a) Multa, que podrá ser, a juicio del órgano competente para resolver:
+i) De entre el doble y el quíntuplo del beneficio bruto obtenido o de las pérdidas evitadas como consecuencia de los actos u omisiones en que consista la infracción, cuando resulten cuantificables;
+ii) De entre el 10 por ciento y el 20 por ciento del volumen de negocios total anual de la persona jurídica según las cuentas más recientes disponibles aprobadas por el órgano de administración; Si la entidad infractora es una matriz o filial de la empresa matriz que elabora estados financieros consolidados, el volumen de negocios total anual aplicable será el que figure en los últimos estados financieros consolidados disponibles; o
+iii) A tanto alzado, de entre 5.000.000 y 6.000.000 de euros.
+b) Revocación de la autorización con exclusión definitiva de los registros especiales. En el caso de entidades extranjeras o gestoras autorizadas por otros Estados miembros de la Unión Europea, la sanción de revocación, cuando proceda, será sustituida por la prohibición de operar o ser comercializada en España.
+c) Exclusión temporal de la entidad incumplidora de los registros especiales, no inferior a dos años ni superior a cinco.
+d) Suspensión o limitación del tipo o volumen de las operaciones que pueda realizar el infractor por un plazo no superior a cinco años.
+e) Sustitución forzosa del depositario de la ECR o EICC.
+2. Además de la sanción que corresponde a la sociedad gestora por la comisión de infracciones muy graves, podrá imponerse una de las siguientes sanciones a quienes ejerciendo cargos de administración o dirección en la misma sean responsables de la infracción con arreglo al artículo 91:
+a) Multa a cada uno de ellos por importe superior a 5.000.000 de euros e inferior a 6.000.000 de euros.
+b) Separación del cargo con inhabilitación para ejercer cargos de administración o dirección en la misma o en cualquier otra entidad financiera de la misma naturaleza por plazo no superior a 10 años.
+c) Suspensión en el ejercicio del cargo por plazo no superior a tres años.
+d) Inhabilitación para ejercer cargos de administración o dirección en la misma o en cualquier otra entidad financiera de la misma naturaleza.
+3. En el caso de imposición de las sanciones previstas en las letras b), c) o d) del apartado anterior, podrá imponerse simultáneamente la sanción prevista en la letra a).
+4. Adicionalmente a las sanciones previstas en los apartados anteriores, podrá imponerse amonestación pública con publicación en el "Boletín Oficial del Estado" de la identidad del infractor y la naturaleza de la infracción, y las sanciones impuestas.
+Se modifican los apartados 1 y 2 por la disposición final 1.11 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifica por la disposición final 1.42 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 86
+
+Artículo 86. Sanciones por la comisión de infracciones graves.
+1. Por la comisión de infracciones graves se impondrá a la entidad infractora una o más de las siguientes sanciones:
+a) Amonestación pública con publicación en el "Boletín Oficial del Estado".
+b) Multa por importe de hasta el tanto del beneficio bruto obtenido o de las pérdidas evitadas como consecuencia de los actos u omisiones en que consista la infracción. En aquellos casos en que el beneficio derivado de la infracción cometida o las pérdidas evitadas no resulten cuantificables, multa por importe superior a 300.000 euros e inferior a 5.000.000 de euros.
+c) Suspensión o limitación del tipo o volumen de las operaciones o actividades que pueda realizar el infractor por un plazo no superior a un año.
+d) Exclusión temporal de los registros especiales, no inferior a un año ni superior a tres.
+2. Además de la sanción que corresponda a la entidad, por la comisión de infracciones graves podrá imponerse una de las siguientes sanciones a quienes ejerciendo cargos de administración o dirección en la misma sean responsables de la misma con arreglo al artículo 89:
+a) Amonestación pública con publicación en el "Boletín Oficial del Estado".
+b) Multa a cada uno de ellos por importe superior a 300.000 euros e inferior a 5.000.000 de euros.
+c) Suspensión de todo cargo directivo en la entidad por plazo no superior a un año.
+3. En el caso de imposición de la sanción prevista en las letras a), c) y d) del apartado 1 y en las letras a) y c) del apartado 2, podrá imponerse simultáneamente la sanción prevista en la letra b).
+4. No obstante lo dispuesto en el apartado anterior, en el caso de imposición de la sanción prevista en el párrafo d) del mismo podrá imponerse simultáneamente la sanción prevista en el párrafo c).
+Se modifica por la disposición final 1.10 a 14 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifica el apartado 3 por la disposición final 1.43 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 86 bis
+
+Artículo 86 bis. Comunicación de la imposición de sanciones a otras autoridades competentes.
+Cuando la IIC lleve a cabo las actividades de comercialización transfronteriza en otro Estado miembro de la Unión Europea en virtud del artículo 16, o sea gestionada por una sociedad gestora con domicilio social en un Estado miembro de la Unión Europea distinto de España, la CNMV comunicará la imposición de las sanciones establecidas en los artículos 85 y 86 a las autoridades competentes de dichos Estados miembros.
+Se añade por el art. único.70 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 87
+
+Artículo 87. Sanciones por la comisión de infracciones leves.
+Por la comisión de infracciones leves se impondrá a la entidad infractora multa por importe superior a 5.000 euros e inferior a 300.000 euros.
+Se modifica por la disposición final 1.15 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifica por la disposición final 1.44 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Artículo 88
+
+Artículo 88. Criterios para la determinación de las sanciones.
+1. Las sanciones aplicables en cada caso por la comisión de infracciones muy graves, graves o leves se determinarán teniendo en cuenta los criterios recogidos en el artículo 29.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y los siguientes:
+a) La naturaleza y entidad de la infracción.
+b) La gravedad del peligro ocasionado o del perjuicio causado.
+c) Las ganancias obtenidas o, en su caso, las pérdidas evitadas o, en su caso, las pérdidas causadas a terceros como consecuencia de los actos u omisiones constitutivos de la infracción, en la medida en que puedan determinarse.
+d) La importancia de la IIC correspondiente, medida en función del importe total del patrimonio o del capital.
+e) Las consecuencias desfavorables de los hechos para el sistema financiero o la economía nacional.
+f) La circunstancia de haber procedido a la subsanación de la infracción por propia iniciativa.
+g) En caso de incumplimiento de los requisitos exigidos en el Título II, las dificultades objetivas que puedan haber concurrido para alcanzar o mantener los niveles legalmente exigidos.
+h) La conducta anterior de la entidad en relación con las normas de ordenación y disciplina que le afecte, atendiendo a las sanciones firmes que le hubieran sido impuestas, durante los últimos cinco años.
+i) La reparación de los daños o perjuicios causados.
+j) La colaboración con la Comisión Nacional del Mercado de Valores, siempre que la misma haya aportado elementos o datos relevantes para el esclarecimiento de los hechos investigados.
+k) La solidez financiera de la persona física o jurídica responsable de la infracción reflejada, entre otros elementos objetivables, en el volumen de negocios total de la persona jurídica responsable o en los ingresos anuales de la persona física.
+l) Las medidas adoptadas tras la infracción por la persona responsable de la infracción con el fin de evitar que se repita.
+2. Para determinar la sanción aplicable entre las previstas en los artículos 85.2 y 3 y 86.2 y .3 de esta Ley, se tomarán en consideración, además, las siguientes circunstancias:
+a) El grado de responsabilidad en los hechos que concurran en el interesado.
+b) La conducta anterior del interesado, en la misma o en otra entidad, en relación con las normas de ordenación y disciplina, tomando en consideración al efecto las sanciones firmes que le hubieran sido impuestas durante los últimos cinco años.
+c) El carácter de la representación que el interesado ostente.
+Se modifica el apartado 1 por la disposición final 1.16 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se modifica el apartado 1 por la disposición final 4 de la Ley 21/2011, de 26 de julio. Ref. BOE-A-2011-12909.
+ Se modifica por la disposición final 7.10 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 88 bis
+
+Artículo 88 bis.
+En el caso de conductas tipificadas como infracciones leves de acuerdo con lo previsto en el artículo 82.d) y e) de esta Ley, la Comisión Nacional del Mercado de Valores, antes de la incoación de un expediente sancionador podrá, motivando la no afectación de la conducta de manera significativa a los intereses públicos protegidos por esta Ley, requerir al presunto responsable para que en un plazo de 30 días:
+1. Adopte las medidas oportunas para evitar la continuidad o reiteración de la conducta.
+2. Indemnice, si los hubiera, los perjuicios patrimoniales causados con su conducta a los inversores cuando sean identificables, y
+3. Justifique el completo cumplimiento de lo previsto en los apartados anteriores.
+El requerimiento debidamente notificado interrumpirá el plazo de prescripción de la infracción, reiniciándose el mismo al día siguiente al vencimiento del plazo establecido en el propio requerimiento.
+El cumplimiento y acreditación de lo exigido en el requerimiento, será valorado por la Comisión Nacional del Mercado de Valores, a los efectos de considerar totalmente satisfechos los objetivos de la supervisión.
+Se añade por la disposición final 7.11 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 89
+
+Artículo 89. Responsabilidad de los órganos de administración y dirección.
+1. Quien ejerza en la entidad cargos de administración o dirección será responsable de las infracciones muy graves o graves cuando éstas sean imputables a su conducta dolosa o negligente.
+2. No obstante lo señalado en el apartado anterior, serán considerados responsables de las infracciones muy graves o graves cometidas por las IIC, las sociedades gestoras o los depositarios, quienes ostenten en ellos cargos de administración o dirección, salvo en los siguientes casos:
+a) Cuando quienes formen parte de órganos colegiados de administración no hubieran asistido por causa justificada a las reuniones correspondientes o hubiesen votado en contra o salvado su voto en relación con las decisiones o acuerdos que hubieran dado lugar a las infracciones.
+b) Cuando dichas infracciones sean exclusivamente imputables a comisiones ejecutivas, consejeros delegados, directores generales u órganos asimilados, u otras personas con funciones en la entidad.
+Se modifica el apartado 2 por el art. único.71 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Artículo 90
+
+Artículo 90. Prescripción de las sanciones.
+1. Las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.
+2. El plazo de prescripción comenzará a contarse desde aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causas no imputables al infractor.
+
+### Artículo 91
+
+Artículo 91. Sustitución de órganos.
+1. El órgano que imponga la sanción podrá disponer el nombramiento, con carácter provisional, de los miembros que se precisen para que el órgano colegiado de administración pueda adoptar acuerdos, y señalará las funciones de aquéllos, en el caso de que, por el número y clase de las personas afectadas por las sanciones de suspensión o separación, ello resulte estrictamente necesario para asegurar la continuidad en la administración y dirección de la entidad. Dichas personas ejercerán sus cargos hasta que, por el órgano competente se provean de inmediato los correspondientes nombramientos y tomen posesión los designados, o, en su caso, hasta que transcurra el plazo de suspensión.
+2. Cuando se trate de una entidad de crédito, las competencias establecidas en el apartado anterior se ejercerán por el Banco de España.
+
+### Artículo 91 bis
+
+Artículo 91 bis. Información a la Autoridad Europea de Valores y Mercados.
+1. La Comisión Nacional del Mercado de Valores facilitará cada año a la Autoridad Europea de Valores y Mercados información agregada relativa a las infracciones cometidas por incumplimiento de las obligaciones de esta Ley, así como de las sanciones impuestas.
+2. En el caso de que se haya divulgado públicamente una medida administrativa o una sanción, la Comisión Nacional del Mercado de Valores notificará simultáneamente ese hecho a la Autoridad Europea de Valores y Mercados.
+3. La Comisión Nacional del Mercado de Valores informará a la Autoridad Europea de Valores y Mercados sobre todas las sanciones administrativas impuestas pero no publicadas conforme al artículo 94.bis, incluidos los recursos interpuestos en relación con ellas y el resultado de los mismos.
+Se añade por la disposición final 1.17 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+## Sección 4
+
+Sección 4.ª Competencias en la materia
+
+### Artículo 92
+
+Artículo 92. Órganos competentes.
+La competencia para la instrucción de los expedientes a que se refiere esta sección y para la imposición de las correspondientes sanciones se regirá por las siguientes reglas:
+a) Será competente para la incoación e instrucción de los expedientes la CNMV.
+b) La imposición de sanciones por infracciones graves y leves corresponderá a la CNMV.
+c) La imposición de sanciones por infracciones muy graves corresponderá a la Comisión Nacional del Mercado de Valores.
+d) Cuando una entidad infractora sea una entidad de crédito, o una sucursal de una entidad de crédito de un Estado que no sea miembro de la Unión Europea para la imposición de la correspondiente sanción por infracciones graves o muy graves, será preceptivo el previo informe del Banco de España.
+El plazo para tramitar el procedimiento sancionador quedará suspendido por el tiempo que medie entre la solicitud del informe al Banco de España y su recepción.
+Se modifica la letra c) por la disposición final 1.45 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifican los apartados c) y d) por la disposición final 7.12 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 93
+
+Artículo 93. Procedimiento.
+En materia de procedimiento sancionador, resultará de aplicación la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y su desarrollo reglamentario, con las especialidades recogidas en los artículo 20 a 24, 26 y 27 de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, así como en esta Ley y en su desarrollo reglamentario.
+Se modifica por la disposición final 7.13 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## Sección 5
+
+Sección 5.ª Normas de procedimiento
+
+### Artículo 94
+
+Artículo 94. Ejecutividad de las sanciones.
+1. Las resoluciones que impongan sanciones conforme a esta Ley serán ejecutivas cuando pongan fin a la vía administrativa. En las mismas se adoptarán, en su caso, las medidas cautelares precisas para garantizar su eficacia en tanto no sean ejecutivas. Las resoluciones de la Comisión Nacional del Mercado de Valores que pongan fin al procedimiento serán recurribles ante el Ministro de Economía y Empresa de acuerdo con el Capítulo II del Título V de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+2. El Ministro de Economía y Empresa, previo informe de la Comisión Nacional del Mercado de Valores, podrá condonar, total o parcialmente, o aplazar el pago de las multas impuestas a personas jurídicas cuando hayan pasado a estar controladas por otros accionistas después de cometerse la infracción, estén incursas en un procedimiento concursal o se den otras circunstancias excepcionales que hagan que el cumplimiento de la sanción en sus propios términos atente contra la equidad o perjudique a los intereses generales. Lo anterior no alcanzará en ningún caso a las sanciones impuestas a quienes ocupaban cargos de administración o dirección en dichas personas jurídicas cuando se cometió la infracción.
+En ningún caso habrá lugar a condonación o aplazamiento si, en el supuesto de transmisión de acciones de la entidad sancionada, hubiere mediado precio o superada la situación concursal, pudiera afrontarse la situación.
+Se modifica por la disposición final 1.18 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+### Artículo 94 bis
+
+Artículo 94 bis. Publicidad de las sanciones.
+1. Las sanciones por infracciones muy graves y graves se publicarán en el "Boletín Oficial del Estado" cuando sean firmes en vía administrativa.
+2. Las sanciones impuestas en los últimos cinco años por la comisión de infracciones, graves y muy graves se harán constar en el correspondiente registro administrativo a cargo de la Comisión Nacional del Mercado de Valores, que será accesible a través de su página web. La publicación incluirá, como mínimo, información sobre el tipo y naturaleza de la infracción, la identidad de la persona física o jurídica sobre la que recaiga la sanción, e información sobre la posibilidad de recurrir la sanción conforme a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, así como la información, en su caso, relativa al resultado de los recursos que se hayan interpuesto.
+3. No obstante lo previsto en el apartado 2, si la Comisión Nacional del Mercado de Valores considera que la publicación de la identidad de las personas jurídicas o de los datos personales de las personas físicas, atendiendo a las circunstancias del caso, es desproporcionada o pone en peligro la estabilidad de los mercados financieros o una investigación en curso, podrá, siempre que la estabilidad de los mercados financieros no corra peligro y no sea más proporcionado medidas de menor importancia:
+a) Demorar la publicación de la sanción impuesta hasta el momento en que cesen los motivos que justifiquen el retraso de la publicación.
+b) Publicar de manera anónima la sanción impuesta si esa publicación anónima garantiza una protección efectiva de los datos de carácter personal en cuestión. En este caso, la publicación de los datos pertinentes podrá aplazarse por un periodo razonable de tiempo si se prevé que en el transcurso de ese periodo dejarán de existir las razones que justifiquen una publicación con protección del anonimato.
+c) No publicar la sanción impuesta si se considera que las opciones anteriores no son suficientes para garantizar que la estabilidad de los mercados financieros no corra peligro o la proporcionalidad de la publicación frente a las que se consideran de menor importancia.
+Se añade por la disposición final 1.19 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen especial para determinadas empresas de servicios de inversión.
+Las empresas de servicios de inversión que exclusivamente pueden prestar los servicios de inversión previstos en el párrafo d) del apartado 1 del artículo 63 y en los párrafos d) y f) del apartado 2 del artículo 63 de la Ley del Mercado de Valores, podrán obtener autorización para realizar las actividades previstas en esta ley para las SGIIC, renunciando en este caso a la autorización obtenida en virtud de la Directiva 93/22/CEE, del Consejo, de 10 de mayo de 1993, relativa a los servicios de inversión en el ámbito de los valores negociables.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Obligaciones de carácter fiscal del representante designado por las entidades gestoras que operen en libre prestación de servicios.
+El representante designado en el apartado 7 del artículo 55 de esta ley deberá cumplir, en nombre de la gestora que opera en régimen de libre prestación de servicios, con las siguientes obligaciones tributarias:
+1.ª Practicar retención o ingreso a cuenta e ingresar el importe en el Tesoro como consecuencia de las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de instituciones de inversión colectiva en los términos previstos en la normativa reguladora de los Impuestos sobre la Renta de las Personas Físicas, sobre Sociedades y sobre la Renta de no Residentes.
+2.ª Informar a la Administración tributaria en relación con las operaciones que tengan por objeto acciones o participaciones de las instituciones de inversión colectiva de conformidad con lo dispuesto en la disposición adicional cuarta de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades y su normativa de desarrollo.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Cambio de denominación de las IIC.
+A la entrada en vigor de esta ley las denominaciones de las IIC conformes a la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, se entenderán automáticamente sustituidas por las denominaciones equivalentes establecidas en esta ley.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Documento con los datos fundamentales para el inversor.
+Para aquellas Instituciones de Inversión Colectiva de las descritas en la letra a) del apartado 1 del artículo 2 de la presente ley que tengan la consideración de Instituciones de Inversión Colectiva financieras, con la excepción de las que figuren inscritas en el Registro de Instituciones de Inversión Colectiva de Inversión Libre o en el Registro de Instituciones de Inversión Colectiva de Inversión Libre de la Comisión Nacional del Mercado de Valores, el documento de datos fundamentales para el inversor al que hace referencia el Reglamento (UE) n.º 583/2010 de la Comisión Europea, de 1 de julio de 2010, por el que se establecen disposiciones de aplicación de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo en lo que atañe a los datos fundamentales para el inversor y a las condiciones que deben cumplirse al facilitarse estos datos o el folleto en un soporte duradero distinto del papel o a través de un sitio web, será exigible desde el 1 de julio de 2011, en sustitución del folleto simplificado. El documento de datos fundamentales para el inversor deberá ajustarse en su contenido al citado Reglamento de la Comisión Europea.
+No obstante lo anterior, a las Instituciones de Inversión Colectiva descritas en la letra a) del apartado 1 del artículo 2 de la presente ley, el documento de datos fundamentales para el inversor al que hace referencia el Reglamento (UE) n.º 1286/2014 del Parlamento Europeo y del Consejo de 26 de noviembre de 2014 sobre los documentos de datos fundamentales relativos a los productos de inversión minorista vinculados y los productos de inversión basados en seguros, les será exigible desde el momento señalado en dicho Reglamento. El documento de datos fundamentales para el inversor deberá ajustarse en su contenido al citado Reglamento y sustituirá al documento de datos fundamentales para el inversor al que hace referencia el Reglamento (UE) n.º 583/2010 de la Comisión Europea, de 1 de julio de 2010, por el que se establecen disposiciones de aplicación de la Directiva 2009/65/CE del Parlamento Europeo y del Consejo en lo que atañe a los datos fundamentales para el inversor y a las condiciones que deben cumplirse al facilitarse estos datos o el folleto en un soporte duradero distinto del papel o a través de un sitio web.
+Se modifica por la disposición final 4.16 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
+ Se añade por la disposición final 2 de la Ley 25/2011, de 1 de agosto. Ref. BOE-A-2011-13240.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Información adicional de naturaleza tributaria que debe facilitarse a determinados inversores en instituciones de inversión colectiva.
+1. En relación con los fondos de inversión regulados por esta Ley, la sociedades gestoras o, en su caso, las entidades comercializadoras, deberán informar a los partícipes de los efectos tributarios que se originan en el caso de tenencia simultánea de participaciones del mismo fondo en registros de partícipes de más de una entidad en cualquier momento durante el periodo de tenencia previo a un reembolso de dichas participaciones, o en el supuesto de tenencia de participaciones procedentes de uno, varios o sucesivos traspasos de otras participaciones o acciones cuando alguno de dichos traspasos se hubiera realizado concurriendo igual situación de simultaneidad en las participaciones o acciones reembolsadas o transmitidas.
+Esta obligación de información no será de aplicación respecto de los partícipes que sean sujetos pasivos del Impuesto sobre Sociedades o contribuyentes del Impuesto sobre la Renta de no Residentes con establecimiento permanente en territorio español.
+Los efectos tributarios a informar serán los siguientes:
+a) Cuando se realice un reembolso, la ganancia o pérdida patrimonial a integrar en el Impuesto sobre la Renta de las Personas Físicas o en el Impuesto sobre la Renta de no Residentes deberá ser determinada por el partícipe, ya que la misma puede diferir del resultado calculado por la sociedad gestora o entidad comercializadora con la que se efectúe la operación.
+b) La ganancia patrimonial obtenida no podrá computarse como ganancia patrimonial sometida a retención o ingreso a cuenta a efectos de los límites excluyentes de la obligación de declarar previstos en el artículo 96 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de la leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+c) Cuando se realice un reembolso de participaciones acogido al régimen de diferimiento regulado en el artículo 94.1.a), segundo párrafo, de la Ley 35/2006, el partícipe deberá determinar las fechas y valores de adquisición que corresponda atribuir conforme a lo dispuesto en la citada Ley a las nuevas participaciones o acciones adquiridas, así como conservar dicha información a efectos de posteriores reembolsos o traspasos, con independencia de la información fiscal comunicada entre las entidades intervinientes en la operación.
+d) Los partícipes que deban tributar en el Impuesto sobre la Renta de no Residentes por obtención de ganancias patrimoniales sin mediación de establecimiento permanente en territorio español, derivadas del reembolso de las participaciones del fondo, deberán declarar e ingresar en el Tesoro la deuda tributaria correspondiente a dichas ganancias patrimoniales, cuando la retención o ingreso a cuenta practicado sobre las mismas sea inferior a la cuota a ingresar por el citado Impuesto.
+2. En relación con las instituciones de inversión colectiva extranjeras a que se refiere el apartado 2.a) del artículo 94 de la Ley 35/2006, las entidades comercializadoras deberán informar a los partícipes o accionistas de los efectos tributarios que se originan en caso de tenencia simultánea de participaciones o acciones de la misma institución registradas en más de una entidad en cualquier momento durante el periodo de tenencia previo a un reembolso o transmisión de dichas participaciones o acciones, o en el supuesto de tenencia de participaciones o acciones procedentes de uno, varios o sucesivos traspasos de otras participaciones o acciones cuando alguno de dichos traspasos se hubiera realizado concurriendo igual situación de simultaneidad en las participaciones o acciones reembolsadas o transmitidas.
+Esta obligación de información no será de aplicación respecto de los partícipes que sean sujetos pasivos del Impuesto sobre Sociedades o contribuyentes del Impuesto sobre la Renta de no Residentes.
+Los efectos tributarios a informar serán los previstos en las letras a) a c) del apartado 1.
+3. Cuando las instituciones de inversión colectiva tengan diferentes compartimentos o distintas clases de participaciones o series de acciones, las circunstancias a que se refiere el primer párrafo de los apartados 1 y 2 anteriores se entenderán referidas a cada compartimento, clase de participaciones o serie de acciones.
+4. La información señalada en el apartado 1 de esta disposición deberá suministrarse por la correspondiente entidad gestora o comercializadora a los nuevos partícipes que vayan a quedar incluidos en sus registros, con carácter previo a la primera suscripción que realicen en cualquier fondo de inversión gestionado o comercializado por dicha entidad, así como a los partícipes cuyas inversiones vayan a quedar registradas en el comercializador por aplicación de lo previsto en el último inciso del párrafo quinto del artículo 40.3 de esta Ley.
+5. La información señalada en el apartado 2 de este artículo deberá suministrarse por la entidad comercializadora a los nuevos partícipes o accionistas que vayan a quedar incluidos en su registro, con carácter previo a la primera suscripción o adquisición de participaciones o acciones que realicen en cualquiera de las instituciones de inversión colectiva comercializadas por dicha entidad.
+Se modifica el apartado 4 por la disposición final 1.20 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+ Se añade, con efectos desde el 1 de enero de 2014, por la disposición final 1.4 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se deroga por la disposición derogatoria única de la Ley 43/2007, de 13 de diciembre. Ref. BOE-A-2007-21491
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Adaptación de las sociedades gestoras a la nueva normativa.
+1. Las sociedades gestoras que gestionen IIC distintas a las autorizadas conforme a la Directiva 2009/65/CE y autorizadas con anterioridad a la entrada en vigor de esta Ley deberán remitir a la Comisión Nacional del Mercado de Valores, en el plazo de tres meses a contar desde esa fecha, una declaración en la que manifiesten haber adaptado la entidad a las exigencias de la presente Ley, así como, en su caso, la modificación del programa de actividades que recoja dicha adaptación, de acuerdo con el artículo 44.2.c).
+Las sociedades gestoras autorizadas conforme a la Directiva 2009/65/CE con anterioridad a la entrada en vigor de esta Ley adoptarán todas las medidas necesarias para dar cumplimiento a lo dispuesto en esta Ley en los seis meses siguientes a su entrada en vigor. Las modificaciones de estatutos sociales y de programa de actividades, en su caso, necesarios para esta adaptación no requerirán de autorización previa, aunque deberán ser comunicadas a la Comisión Nacional del Mercado de Valores de acuerdo con la letra c) del apartado 2 del artículo 44, junto con una declaración en la que manifiesten haber adaptado la entidad a las exigencias de esta Ley.
+2. La Comisión Nacional del Mercado de Valores y, en su caso, el Registro Mercantil, adaptarán de oficio sus registros para recoger la modificación de los Estatutos Sociales de las gestoras para adaptarse a la presente Ley.
+3. Las gestoras dispondrán del plazo de 12 meses desde la entrada en vigor de la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, para actualizar y remitir a la Comisión Nacional del Mercado de Valores el resto de información que esta debe disponer con arreglo a la presente Ley.
+4. Lo dispuesto en los artículos 15 bis y 16 bis, 54 bis y 55 bis en relación con la comercialización transfronteriza no resultará de aplicación a la comercialización de participaciones de IIC conforme a la Directiva 2011/61/UE que sean objeto de una oferta pública vigente al amparo de un folleto elaborado y publicado con arreglo a la Ley 24/1988, de 28 de julio, del Mercado de Valores, antes de la entrada en vigor de esta Ley, mientras dure la validez de dicho folleto.
+5. Las sociedades gestoras que gestionen IIC de tipo cerrado conforme a la Directiva 2011/61/UE, antes de la entrada en vigor de esta Ley y que no efectúen nuevas inversiones después de la entrada en vigor de esta Ley, podrán seguir gestionando tales IIC sin necesidad de adaptarse a las exigencias de la presente Ley, para lo que habrá de presentar declaración al efecto.
+6. Las sociedades gestoras, en la medida en que gestionen IIC autorizadas conforme a la Directiva 2011/61/UE de tipo cerrado cuyo plazo de suscripción para inversores haya expirado antes de la entrada en vigor de esta Ley y estén constituidas por un plazo que expire como muy tarde el 22 de julio de 2016, podrán continuar gestionando tales IIC sin necesidad de cumplir con lo dispuesto en esta Ley, excepción hecha de la obligación de publicar un informe anual y a las obligaciones de información derivadas de la adquisición de participaciones significativas y de control de sociedades recogidas en el artículo 47 bis.
+7. El requisito incluido en la letra d) del artículo 15 ter.1 solo resultará de aplicación a partir del momento y en los términos que establezca el acto delegado que adopte la Comisión Europea de conformidad con el artículo 67.6 de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011. Asimismo, la comercialización de las IIC de fuera de la Unión Europea dejarán de requerir tanto el cumplimiento de la condición establecida en la letra a) del artículo 15 ter.1, como la autorización para ser comercializadas en España y el registro previstos en los apartados 4 y 5 del artículo 15 ter, cuando así lo determine el acto delegado que adopte la Comisión Europea de acuerdo con el artículo 68.6 de la citada Directiva.
+Se añade por la disposición final 1.46 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen transitorio del desarrollo reglamentario.
+Las normas reglamentarias dictadas al amparo de la Ley 46/1984, de 26 de diciembre, reguladora de las
+Instituciones de Inversión Colectiva, permanecerán vigentes en tanto no se opongan a esta ley, hasta la entrada en vigor de las normas reglamentarias que se dicten en virtud de las habilitaciones contenidas en la misma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Régimen transitorio de las sociedades de inversión mobiliaria de capital fijo.
+1. Las sociedades de inversión mobiliaria de capital fijo inscritas en el registro administrativo de la CNMV a la entrada en vigor de esta ley, deberán transformarse en SICAV, adaptando sus estatutos y su actividad a lo dispuesto en esta ley, en el plazo de dos años desde la entrada en vigor de la misma.
+2. En caso de no procederse a la adaptación a que se refiere el apartado anterior será revocada la autorización, cancelándose de oficio su inscripción en el registro administrativo de la CNMV.
+3. Hasta tanto se produzca la transformación o, en su caso, la revocación de la autorización administrativa previstas en los apartados 1 y 2 anteriores, las sociedades de inversión mobiliaria de capital fijo tributarán de acuerdo con lo establecido en los artículos 26 y 71 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, según la redacción vigente hasta 31 de diciembre de 2003. La transformación o, en su caso, la revocación de la autorización administrativa tendrá los efectos previstos en el párrafo d) del apartado 2 del artículo 24 de dicha ley.
+Asimismo, seguirán siendo aplicables a las sociedades de inversión mobiliaria de capital fijo los beneficios fiscales contenidos en la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, relativos al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, hasta que procedan a su transformación o sea revocada su autorización.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen transitorio de las modificaciones de los estatutos de las sociedades gestoras.
+Durante el año siguiente a la entrada en vigor de esta ley, quedará ampliado a seis meses el plazo para la autorización de la modificación de los estatutos sociales de las SGIIC autorizadas antes de la entrada en vigor de esta ley, cuando dicha modificación tenga por finalidad incluir en su objeto social la actividad señalada en el párrafo a) del apartado 1 o en los párrafos a) y b) del apartado 2 del artículo 40 de esta ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Plazo de adaptación a la nueva normativa.
+Las IIC autorizadas antes de la entrada en vigor de esta ley dispondrán de un año, desde la entrada en vigor de esta ley, para adaptar sus reglamentos de gestión y estatutos a la nueva regulación.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Transformación de IIC existentes en IIC por compartimentos o en compartimentos y creación de clases de participaciones o series de acciones.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Exclusión de cotización en bolsa de las IIC con forma societaria.
+No estarán sujetas a la obligación de realizar una oferta pública de adquisición de valores conforme al artículo 34 de la Ley del Mercado de Valores, las IIC con forma societaria que a la entrada en vigor de esta ley coticen en bolsa y cuyos órganos societarios acuerden la exclusión de cotización de las acciones representativas de su capital social.
+
+### Disposición transitoria séptima
+
+La publicación en uno o varios diarios de la sustitución o cambio de control de la sociedad gestora, así como de las operaciones de disolución, liquidación, transformación, fusión, escisión y traspaso de la IIC reguladas en el Capítulo V del Título II de esta Ley, o de la convocatoria de las Juntas Generales de accionistas, cuando sea exigida por una disposición de rango legal o reglamentario, podrá ser sustituida por la publicación en la web de su sociedad gestora o, en su caso, en la de la sociedad de inversión, además de publicarse el correspondiente hecho relevante, que será incluido en el informe periódico inmediato para su información a los partícipes o accionistas.
+Se añade por la disposición final 7.14 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas las siguientes disposiciones:
+a) La Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva,
+b) La disposición adicional segunda de la Ley 37/1998, de 16 de noviembre, de reforma de la Ley 24/1988, de 28 de julio, del Mercado de Valores,
+c) El número 8 de la letra C) del apartado I del artículo 45 del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre.
+
+### Disposición final primera
+
+Disposición final primera. Adición de un nuevo apartado 19 en la letra B) del apartado I del artículo 45 ("Beneficios fiscales") del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre.
+Se añade un nuevo apartado 19 a la letra B) del apartado I del artículo 45 del texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre, que quedará redactado de la siguiente forma:
+"1. Las operaciones de constitución, aumento de capital, fusión y escisión de las sociedades de inversión de capital variable reguladas en la Ley de Instituciones de Inversión Colectiva, así como las aportaciones no dinerarias a dichas entidades, quedarán exentas en la modalidad de operaciones societarias del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+2. Los fondos de inversión de carácter financiero regulados en la ley citada anteriormente gozarán de exención en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados con el mismo alcance establecido en el apartado anterior.
+3. Las sociedades y fondos de inversión inmobiliaria regulados en la ley citada anteriormente que, con el carácter de instituciones de inversión colectiva no financieras, tengan por objeto social exclusivo la inversión en cualquier tipo de inmueble de naturaleza urbana para su arrendamiento y, además, las viviendas, las residencias estudiantiles y las residencias de la tercera edad, en los términos que reglamentariamente se establezcan, representen conjuntamente, al menos, el 50 por ciento del total del activo tendrán el mismo régimen de tributación previsto en los dos apartados anteriores.
+Del mismo modo, dichas instituciones gozarán de una bonificación del 95 por ciento en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados por la adquisición de viviendas destinadas al arrendamiento, sin perjuicio de las condiciones que reglamentariamente puedan establecerse.
+La aplicación del régimen fiscal contemplado en este apartado requerirá que los bienes inmuebles que integren el activo de las sociedades y fondos de inversión inmobiliaria no se enajenen hasta que no hayan transcurrido tres años desde su adquisición, salvo que, con carácter excepcional, medie autorización expresa de la Comisión Nacional del Mercado de Valores."
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación del apartado 5 del artículo 26 ("El tipo de gravamen") de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+Se da la siguiente redacción al apartado 5 del artículo 26 de la Ley 43/1995, del Impuesto sobre Sociedades:
+"5. Tributarán al tipo del uno por ciento:
+a) Las sociedades de inversión de capital variable reguladas por la Ley de Instituciones de Inversión Colectiva, siempre que el número de accionistas requerido sea como mínimo el previsto en el apartado cuarto del artículo noveno de dicha ley.
+b) Los fondos de inversión de carácter financiero previstos en la ley mencionada con anterioridad, siempre que el número de partícipes requerido sea como mínimo el previsto en el apartado cuarto del artículo 5 de dicha ley.
+c) Las sociedades de inversión inmobiliaria y los fondos de inversión inmobiliaria regulados en la citada ley, siempre que el número de accionistas o partícipes requerido sea como mínimo el previsto en los apartados cuarto de los artículos cinco y nueve de dicha ley y que, con el carácter de instituciones de inversión colectiva no financieras tengan por objeto exclusivo la inversión en cualquier tipo de inmueble de naturaleza urbana para su arrendamiento y, además, las viviendas, las residencias estudiantiles y las residencias de la tercera edad, en los términos que reglamentariamente se establezcan, representen conjuntamente, al menos, el 50 por ciento del total del activo.
+La aplicación de los tipos de gravamen previstos en este apartado requerirá que los bienes inmuebles que integren el activo de las instituciones de inversión colectiva a que se refiere el párrafo anterior no se enajenen hasta que no hayan transcurrido tres años desde su adquisición, salvo que, con carácter excepcional, medie autorización expresa de la Comisión Nacional del Mercado de Valores.
+d) El fondo de regulación de carácter público del mercado hipotecario, establecido en el artículo 25 de la Ley 2/1981, de 25 de marzo, de regulación del mercado hipotecario."
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación del artículo 71 ("Tributación de las IIC") de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+Se da la siguiente redacción al artículo 71 de la Ley 43/1995, de 27 de diciembre:
+"1. Las instituciones de inversión colectiva reguladas en la Ley de Instituciones de Inversión Colectiva con excepción de las sometidas al tipo general de gravamen, no tendrán derecho a deducción alguna de la cuota ni a la exención de rentas en la base imponible para evitar la doble imposición internacional. En ningún caso les resultará de aplicación el régimen de las sociedades patrimoniales previsto en los artículos 75 a 77 de esta ley.
+2. Cuando el importe de los pagos fraccionados, retenciones e ingresos a cuenta practicados sobre los ingresos supere la cuantía de la cuota íntegra, la Administración tributaria procederá a devolver, de oficio, el exceso."
+
+### Disposición final cuarta
+
+Disposición final cuarta. Títulos competenciales.
+Esta ley se dicta al amparo de los títulos competenciales previstos en el artículo 149.1.6.ª y 11.ª de la Constitución Española.
+
+### Disposición final quinta
+
+Disposición final quinta. Habilitación para desarrollo reglamentario.
+Se habilita al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta ley.
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor.
+1. Esta ley entrará en vigor a los tres meses de su publicación en el "Boletín Oficial del Estado".
+2. Sin perjuicio de lo dispuesto en el apartado anterior, las modificaciones de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, recogidas en las disposiciones finales segunda y tercera de esta ley serán de aplicación a los períodos impositivos que se inicien a partir del 1 de enero de 2004.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 4 de noviembre de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

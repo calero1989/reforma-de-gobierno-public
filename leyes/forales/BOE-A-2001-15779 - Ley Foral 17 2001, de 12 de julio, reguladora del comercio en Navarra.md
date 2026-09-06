@@ -1,0 +1,947 @@
+# Ley Foral 17/2001, de 12 de julio, reguladora del comercio en Navarra.
+
+- Identificador BOE: `BOE-A-2001-15779`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-15779
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral reguladora del comercio en Navarra.
+EXPOSICIÓN DE MOTIVOS
+La Comunidad Foral de Navarra tiene atribuida competencia exclusiva en materia de comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio nacional y de la legislación sobre defensa de la competencia, en virtud de la habilitación concretada en el artículo 56.1.d) de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+La presente Ley Foral supone la ordenación fundamental del comercio interior en nuestra Comunidad Foral caracterizada por una dispersión normativa reglamentaria. El ejercicio de esta competencia se realiza a partir de las bases establecidas en el marco constitucional definido por los artículos 38, 51 y 131 de la Constitución Española, desde una perspectiva de estudio y regulación de conjunto de las nuevas formas de comercialización, la defensa de la libertad de empresa, la protección y garantía de los derechos de los consumidores y usuarios y la dinamización del comercio minorista con vistas a rápidas adaptaciones de este sensible sector frente a los cambios en la economía y en la sociedad, en general.
+El sector comercial navarro está experimentando importantes transformaciones que afectan tanto a productores como a consumidores y, de manera especial, a los propios comerciantes. La aparición de nuevos métodos y sistemas de comercialización, de mediana y gran dimensión, han ido cambiando los cánones que regían el comercio desde las formas de ventas más tradicionales.
+Por ello, los principios rectores que tutelan esta Ley Foral se orientan a una armonización de los intereses económicos y urbanísticos a fin de evitar menoscabos en el sector tradicional evitando situaciones de dominio de mercado pero potenciando, a su vez, nuevas formas de gestión, administración, venta y servicio sin olvidar, por supuesto, el debido respeto a la libertad de empresa y el debido amparo de los intereses económicos de los consumidores y usuarios ante la observación de determinadas obligaciones de los comerciantes minoristas.
+La presente Ley Foral se ordena en ocho títulos. En ellos se concreta el ámbito de actuación de la misma y se define su objeto. Se crea una relación conceptual y definitoria de diferentes tipos de establecimientos comerciales y se regula particularizadamente la licencia comercial específica para grandes y medianos establecimientos comerciales abordando los criterios de concesión.
+Se regula los horarios comerciales, la práctica de determinadas actividades promocionales de venta y ventas especiales, instaurando un Registro de Comerciantes Minoristas de Ventas Especiales.
+Se crea el Consejo Navarro Asesor de Comercio Minorista como órgano consultivo en el que estarán personalizados los agentes económicos y sociales más representativos de la Comunidad Foral de Navarra.
+Se regulan a su vez modalidades comerciales de venta a domicilio, venta en cadena o pirámide y venta ocasional o de temporada.
+A su vez, se contempla la regulación inicial que a futuro permitirá una completa normativa tanto del comercio electrónico como del comercio mayorista.
+Se ha concretado un régimen sancionador completo que hace posible una eficaz y rápida protección de los intereses públicos implicados en la regulación del comercio minorista.
+Por último, se ha querido incluir en el tenor literal del texto legal una serie de medidas que tienen como objetivo el apoyo al pequeño comercio, para que, y sin perjuicio del derecho de libre competencia, esté en condiciones de mejorar y modernizar su estructura y ser plenamente competitivo.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley Foral tiene por objeto la regulación del comercio minorista en la Comunidad Foral de Navarra a fin de mejorar y modernizar las estructuras comerciales y normalizar determinadas actividades promocionales de ventas.
+
+### Artículo 2
+
+Artículo 2. Principios rectores.
+La presente Ley Foral se regirá por los siguientes principios rectores, potenciando:
+a) El mantenimiento del sistema del comercio minorista dentro del núcleo urbano de los municipios navarros.
+b) El acceso en condiciones de igualdad y diversidad a la oferta y formatos comerciales.
+c) El crecimiento armonioso y equilibrado de actividades comerciales aspirando a un desarrollo sostenible del entorno urbano.
+d) El mantenimiento de un nivel elevado de calidad en la prestación de los servicios.
+e) La participación de agentes sociales, en especial de los consumidores, en el desarrollo comercial.
+Se modifica por el art. 7.1 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. La presente Ley Foral será de aplicación a las actividades comerciales realizadas en el ámbito territorial de la Comunidad Foral de Navarra.
+Esta Ley Foral se aplicará con carácter supletorio a aquellas actividades comerciales minoristas que se hallen reguladas por una legislación específica.
+Es irrelevante a efectos de aplicación de la presente Ley Foral que el comerciante minorista sea a su vez fabricante o comerciante mayorista de artículos cuya oferta de venta realice.
+2. Están excluidas del ámbito de aplicación de esta Ley Foral, rigiéndose por su normativa específica:
+a) La venta directa por agricultores y ganaderos de productos agropecuarios en estado natural y en su lugar de producción, o en los centros cooperativos de recogida de producción.
+b) La venta realizada por artesanos de sus productos en sus propios talleres, ferias y mercadillos sectoriales.
+
+## CAPÍTULO II
+
+Del comercio minorista
+
+### Artículo 4
+
+Artículo 4. Concepto.
+Es comercio minorista o actividad comercial minorista, a efectos de la presente Ley Foral, la actividad desarrollada profesionalmente con ánimo de lucro consistente en situar u ofrecer en el mercado productos naturales o elaborados a los destinatarios finales de los mismos, utilizando o no un establecimiento.
+
+### Artículo 5
+
+Artículo 5. Ejercicio simultáneo de actividad comercial minorista y de producción o distribución mayorista.
+1. A los efectos de esta Ley Foral se entiende por actividad comercial de carácter mayorista aquella que tiene como destinatarios a otros comerciantes o empresarios que no constituyan consumidores finales.
+2. El ejercicio simultáneo de actividades minoristas y mayoristas en un mismo establecimiento tendrá como efecto la sujeción de la totalidad de la superficie del establecimiento a las determinaciones de la presente Ley Foral cuando la superficie destinada a la actividad minorista sea superior a una tercera parte de la superficie total del establecimiento.
+Se modifica por el art. 7.2 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 6
+
+Artículo 6. Entidades cooperativas y formas jurídicas análogas.
+Las entidades cooperativas u otras formas jurídicas análogas estarán obligadas a distinguir la oferta dirigida a los socios de la que se dirija al público en general. Estarán sometidas a esta Ley Foral la oferta de las cooperativas o entidades análogas dirigida al público en general y los casos en que la misma no aparezca rigurosamente diferenciada de la que realicen a sus socios.
+
+### Artículo 7
+
+Artículo 7. Prohibiciones y restricciones al comercio.
+1. No podrán ejercer el comercio, además de las personas físicas y jurídicas a quienes les esté específicamente prohibido por la normativa vigente, los empresarios individuales o sociales, a quienes la normativa especial de la actividad que desarrollan les exija dedicarse exclusivamente a la misma.
+Se deroga el apartado 2 por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## CAPÍTULO III
+
+Comerciante, promotor y operador
+
+### Artículo 8
+
+Artículo 8. Comerciante.
+A los efectos de esta Ley Foral, se considerará comerciante aquella persona física o jurídica que, teniendo capacidad para ejercer la actividad comercial, se dedica en nombre propio al comercio minorista como profesión habitual.
+
+### Artículo 9
+
+Artículo 9. Promotor.
+Es promotor aquella persona física o jurídica que proyecta, promueve y construye un establecimiento comercial de los previstos en los artículos 13, 14 y 15, organizando su funcionamiento y gestión al objeto bien de su venta posterior, bien de su directa o indirecta explotación.
+
+### Artículo 10
+
+Artículo 10. Operador comercial.
+Se considera operador la persona física o jurídica que es titular de un establecimiento comercial sujeto a autorización de establecimiento comercial.
+Se modifica por el art. 7.3 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 11
+
+Artículo 11. Derechos de los promotores y operadores.
+Es derecho de los promotores y operadores el desarrollo libre de su actividad en el marco de la legislación aplicable a este ámbito.
+
+### Artículo 12
+
+Artículo 12. Deberes de los promotores y operadores.
+Son deberes de los promotores y operadores:
+a) Evitar cualquier tipo de práctica de competencia desleal o publicidad engañosa.
+b) Evitar prácticas monopolísticas o de dominio en el mercado.
+c) Costear a su cargo todas las obras de urbanización que genere la implantación de la instalación comercial, financiar los gastos derivados de la corrección de los impactos ambientales y adoptar a su costa las medidas de ordenación de tráfico y accesos que le correspondan en función de los términos de la solicitud y de la autorización.
+Se modifica por el art. 7.4 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## TÍTULO II
+
+Establecimientos comerciales
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## CAPÍTULO I
+
+Establecimiento comercial: concepto y clases
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 13
+
+Artículo 13. Concepto General.
+Tendrán la consideración de establecimientos comerciales los locales y las construcciones o instalaciones de carácter fijo y permanente, destinados al ejercicio regular de actividades comerciales, ya sea de forma individual o en un espacio colectivo, e independientemente de que se realice de forma continuada o en días o temporadas determinadas.
+Quedan excluidos de la consideración de establecimientos comerciales los espacios situados en la vía pública, autorizados por las entidades locales competentes para la realización de venta no sedentaria al por menor.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 14
+
+Artículo 14. Clasificación general.
+Los establecimientos comerciales minoristas se clasifican con carácter general en individuales o colectivos, distinguiéndose dentro de los colectivos entre centro comercial y recinto comercial.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 15
+
+Artículo 15. Establecimientos comerciales colectivos.
+1. Se consideran establecimientos comerciales colectivos a los efectos de esta Ley Foral, los integrados por un conjunto de establecimientos situados en uno o diversos edificios en un mismo espacio comercial, en los cuales se llevan a cabo diferentes actividades comerciales.
+Se entiende que dos o más establecimientos comparten un mismo espacio comercial si se da cualquiera de las siguientes circunstancias:
+a) Acceso común desde la vía pública, de uso exclusivo o preferente de los comerciantes o clientes de la zona comercial.
+b) Aparcamientos compartidos o adyacentes de uso preferente para los clientes de la zona comercial.
+c) Servicios comunes para los comerciantes o los clientes de la zona comercial.
+d) Denominación o existencia de elementos que conforman una imagen común.
+2. En todo caso se consideran establecimientos comerciales colectivos los centros comerciales y los recintos comerciales.
+3. Se define como centro comercial el conjunto de establecimientos comerciales, puntos de venta o servicios que estén localizados, concebidos y gestionados como una unidad.
+4. El recinto comercial queda definido como el conjunto de establecimientos comerciales agrupados en un mismo espacio comercial.
+Se considerarán también recinto comercial los polígonos comerciales o concentración comercial, es decir, aquel conjunto de establecimientos comerciales de carácter individual o colectivo, ubicados fuera del suelo urbano o urbanizable con uso residencial dominante, cuando concurran dos o más establecimientos comerciales minoristas a distancia inferior entre ellos de 300 metros lineales.
+Dicha distancia se medirá desde cualquier punto del establecimiento, incluidas zonas de servicios y aparcamientos, hasta cualquier punto del otro establecimiento por el itinerario peatonal más corto posible o, cuando concurran barreras físicas significativas por el itinerario de coche.
+5. No tendrán la consideración de establecimientos comerciales colectivos los siguientes:
+a) Los establecimientos comerciales ubicados en zonas transfronterizas, aunque estén situados en un mismo espacio comercial.
+b) Los establecimientos comerciales ubicados en los bajos de los edificios destinados a viviendas, hoteles u oficinas, siempre que estén situados en el suelo urbano o urbanizable con uso residencial predominante.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## CAPÍTULO II
+
+Instalación de los establecimientos comerciales
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## Sección 1
+
+Sección 1.ª Principios de aplicación
+Se añade por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 16
+
+Artículo 16. Principios que rigen la instalación de los establecimientos comerciales.
+La implantación o instalación de los establecimientos comerciales minoristas estará sujeta a los siguientes principios:
+a) Libertad de establecimiento de los prestadores de servicios y libertad de empresa en el marco de la economía de mercado.
+b) Simplicidad de los trámites en el acceso a una actividad de servicios y en su ejercicio.
+c) Proporcionalidad en el otorgamiento de autorizaciones, en consideración al interés general.
+d) Favorecimiento del comercio dentro del núcleo urbano de los municipios, así como de la renovación y regeneración urbana.
+e) Potenciación de un modelo de ciudad en el que exista una armonía entre los usos residenciales y las actividades comerciales.
+f) Crecimiento armonioso y equilibrado de actividades comerciales aspirando a un desarrollo sostenible del entorno urbano y reduciendo al máximo el impacto de las implantaciones sobre el territorio.
+g) Reducción de la movilidad con la finalidad de evitar los desplazamientos innecesarios que congestionan las infraestructuras públicas e incrementan la contaminación atmosférica.
+h) Garantizar la diversidad de oferta y de operadores, ofreciendo las máximas. posibilidades para todos los ciudadanos y de todos los sectores sociales, especialmente los que se encuentren en situación de dependencia.
+i) Ahorro y eficiencia en el consumo de energía, así como potenciación de las energías renovables.
+j) Gestión adecuada de los residuos generados por la actividad con medidas dirigidas a su reducción y, en particular, al aprovechamiento de los residuos alimenticios.
+Se añade la letra j) por el art. 1.2 de la Ley Foral 7/2013, de 25 de febrero. Ref. BOE-A-2013-2820.
+ Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## Sección 2
+
+Sección 2.ª Regulación de ordenación del territorio y urbanística del uso comercial
+Se añade por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## CAPÍTULO II
+
+Grandes establecimientos comerciales minoristas
+
+### Artículo 17
+
+Artículo 17. Planes de Ordenación Territorial.
+Los Planes de Ordenación Territorial deberán contener, entre sus determinaciones de carácter vinculante, los criterios para la ordenación de los establecimientos comerciales en el territorio, que se ajustarán a los principios de aplicación recogidos en el artículo anterior.
+Como criterios generales se tendrán que considerar:
+a) La implantación preferente del comercio dentro del núcleo urbano de los municipios, incluidos los establecimientos sujetos, en base a lo regulado por la presente Ley Foral, a Planes Sectoriales de Incidencia Supramunicipal.
+b) La dotación complementaria y unida de los usos residenciales y las actividades comerciales.
+c) La reducción del impacto de las actividades comerciales en su implantación sobre el territorio, en concreto, en los ámbitos de la movilidad, contaminación atmosférica, consumo de energía y ocupación del suelo.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 18
+
+Artículo 18. Planes Generales Municipales.
+1. Los Planes Generales Municipales deberán ajustarse en la ordenación del uso comercial, además de a la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, a los principios y criterios establecidos por la presente Ley Foral así como por los Planes de Ordenación Territorial.
+2. El Planeamiento General Municipal habrá de incluir, a los efectos del uso comercial, las siguientes determinaciones:
+a) Una delimitación de los suelos urbano y urbanizable que mejor se adapte al uso comercial genérico y al uso específico de gran establecimiento comercial de acuerdo con los principios recogidos en la presente Ley Foral en sus artículos 16, 17 y 19.6.
+b) Una dotación comercial mínima en los bajos de los edificios de vivienda colectiva de tres metros cuadrados por vivienda, sin que puedan autorizarse en dicha dotación establecimientos que por sus características deban ser objeto de un Plan Sectorial de incidencia Supramunicipal.
+c) Un plan de atracción y ordenación comercial. Contendrá medidas de embellecimiento, mejora urbana de las áreas comerciales de los cascos urbanos y áreas residenciales de alta densidad.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+ Téngase en cuenta la disposición adicional 1, en cuanto a la revisión del planeamiento general municipal.
+
+## Sección 3
+
+Sección 3.ª Autorización del establecimiento comercial
+Se añade por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 19
+
+Artículo 19. Autorización e implantación de establecimientos comerciales mediante un Plan Sectorial de Incidencia Supramunicipal.
+1. La instalación de establecimientos comerciales no estará sujeta, con carácter general, a autorización.
+2. Quedarán sujetos a la tramitación de un Plan Sectorial de Incidencia Supramunicipal, promovido por el operador o el promotor, las implantaciones de grandes establecimientos comerciales, así como las ampliaciones de quienes ya estuvieran instalados cuando se incremente la superficie inicial en más de 500 metros cuadrados y por una sola vez siguiendo los criterios contemplados en la presente Ley Foral.
+3. Tendrán la consideración de gran establecimiento comercial minorista los establecimientos individuales o colectivos dedicados al comercio minorista que tengan una superficie útil para venta y exposición de productos superior a 2.500 metros cuadrados.
+4. A los efectos del cómputo de superficies, se entiende por superficie útil para la exposición y venta de artículos o muestra de servicios aquella en que se expongan los mismos, habitual u ocasionalmente, así como los espacios destinados al tránsito de personas y a la presentación, dispensación y cobro de los productos. Se excluyen expresamente las superficies destinadas a oficinas, aparcamientos, zonas de carga, descarga y almacenaje no visitables por el público y en general, todas aquellas dependencias o instalaciones de acceso restringido al mismo.
+5. Quedan excluidos del concepto de gran establecimiento comercial los mercados municipales, así como aquellos dedicados a ventas de vehículos y carburantes, maquinaria industrial, jardinería y a materiales de construcción y saneamiento así como los ubicados en zonas transfronterizas.
+6. Podrán instalarse grandes establecimientos comerciales exclusivamente en suelos urbanos o urbanizables con un uso residencial dominante. Se considera uso residencial dominante aquél que contenga áreas residenciales con vivienda colectiva continuada de 250 viviendas o 600 habitantes y una densidad residencial de 40 viviendas por hectárea. Excepcionalmente podrán implantarse, así mismo, en zonas industriales que hayan sido recuperadas y que formen parte de la ciudad o de su continuo.
+7. Los Planes Sectoriales a los que se refiere el apartado 2 del presente artículo, deberán ajustarse a las determinaciones de los instrumentos de ordenación territorial que rijan en el ámbito de actuación y en todo caso, incluirán un estudio de la movilidad generada y cuantos otros sean requeridos por el Plan de Ordenación Territorial y los Departamentos del Gobierno de Navarra.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+ Téngase en cuenta el régimen establecido en la disposición transitoria única, para la aplicación del apartado 6.
+
+### Artículo 20
+
+Artículo 20. Solicitud de autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal.
+1. Los interesados en obtener la autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal deberán presentar la oportuna solicitud ante el Departamento competente en materia de ordenación del territorio y urbanismo o ante el Ayuntamiento en cuyo término municipal se vaya a instalar, según corresponda.
+2. La solicitud se presentará debidamente firmada y, en supuestos de representación o pluralidad de interesados, será de aplicación lo dispuesto por los artículos 32 y 33 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La solicitud podrá ser presentada por medios telemáticos, de conformidad con lo dispuesto en la Ley Foral 11/2007, de 4 de abril, reguladora de la Implantación de la Administración Electrónica en la Administración de la Comunidad Foral de Navarra.
+4. Los interesados, en la solicitud, podrán manifestar una dirección de correo electrónico en la que desean que les sean practicadas las notificaciones. En su caso, la Administración realizará la notificaciones que resulten necesarias de conformidad con lo dispuesto por la Ley Foral 11/2007, de 4 de abril.
+5. En el supuesto de que los interesados opten por la presentación de la solicitud a través de medios telemáticos únicamente habrán de presentar un ejemplar de la instancia, adjuntando a la misma la documentación necesaria. En caso contrario, si desean obtener copia sellada que acredite su presentación, presentarán además una copia más de la solicitud así como de cada ejemplar de la documentación anexa.
+6. Los interesados, en la zona vascófona, podrán optar, de conformidad con lo regulado por el Decreto Foral 29/2003, de 10 de febrero, por el que se regula el uso del vascuence en las Administraciones Públicas de Navarra a presentar la solicitud en castellano, vascuence o en forma bilingüe.
+7. Los interesados que opten por presentar la solicitud, todos o alguno de los documentos que han de ser anexados a ésta en alguna de las lenguas oficiales de la Unión Europea habrán de presentar una traducción no jurada al español de dichos documentos.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 21
+
+Artículo 21. Documentación a adjuntar a la solicitud de autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal.
+1. Los interesados deberán adjuntar a la solicitud de autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal la documentación relativa a su identificación así como la documentación técnica y administrativa que se detalla en la presente normativa.
+2. La documentación relativa a la identificación del solicitante o interesado será la siguiente:
+a) Cuando el solicitante sea una persona física, deberá de adjuntarse copia compulsada del DNI.
+En los supuestos en los que el domicilio del solicitante que conste en el DNI difiera de su domicilio fiscal se presentará, además, la documentación acreditativa de éste.
+b) En el supuesto de que el solicitante sea una persona jurídica deberá de aportarse:
+1.º La escritura notarial de constitución de la entidad, así como las posibles escrituras notariales que se hayan otorgado con posterioridad a ésta para su modificación.
+Las copias de las escrituras que se presenten deberán de haber sido inscritas en el registro correspondiente y deberá de acreditarse tal inscripción.
+En los supuestos en los que el domicilio del solicitante que conste en la escritura de constitución, o sus posteriores modificaciones, difiera de su domicilio fiscal se presentará, además, la documentación acreditativa de éste.
+2.º La escritura notarial de poder de representación de quien comparezca en nombre de la entidad solicitante.
+3.º En los supuestos en los que proceda se presentará una certificación emitida por el órgano de administración u órgano con competencias asimiladas de la entidad solicitante en la que se informe sobre la calificación de la entidad como pequeña o mediana empresa así como sobre su composición accionarial, a la fecha de presentación de la solicitud.
+3. La documentación técnica y administrativa exigible será la siguiente:
+a) Memoria y proyecto básico, firmado por técnico competente, con el contenido mínimo que al mismo le sea exigible de conformidad con la presente normativa y con el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación.
+b) Informe emitido por el Ayuntamiento en cuyo ámbito territorial se pretenda la ubicación de la edificación relativo a la conformidad del uso y proyecto pretendido al planeamiento urbanístico.
+c) Documentación que acredite, de forma suficiente, la disponibilidad de los terrenos donde se pretenda la implantación de la edificación o edificaciones.
+d) Estudio, firmado por técnico competente, que evalúe la movilidad generada por la repercusión del proyecto, así como las emisiones atmosféricas de CO2 derivadas de la movilidad.
+El estudio deberá de valorar de forma completa la movilidad generada por el proyecto y, además, realizar una estimación sobre las emisiones atmosféricas de CO2 derivadas de la movilidad y calculadas mediante las metodologías o sistemas reglamentariamente autorizados. La estimación sobre las emisiones atmosféricas desglosará, en todo caso, la siguiente información: distancia media de desplazamiento, número de vehículos diarios cuyo acceso se prevé, reparto modal de vehículos/km, estimación del porcentaje de tránsito en vía congestionada, principal o secundaria así como la velocidad media por tipología de vehículo.
+e) Certificación emitida por el Departamento competente del Gobierno de Navarra en materia de energía que acredite que el proyecto ha sido diseñado con los criterios de ahorro energético que resulten más aconsejables.
+e bis) Plan de gestión de los residuos que genere la actividad dirigido a su minimización y correcto tratamiento. En caso de generar residuos alimenticios, plan de aprovechamiento a través de acuerdos con el Banco de Alimentos de Navarra u otros organismos análogos.
+f) Estudio de impacto ambiental y, en su caso, declaración de impacto ambiental, todo ello de conformidad con lo regulado por la Ley Foral 4/2005, de 22 de marzo, de intervención para la protección ambiental así como la normativa que la desarrolla.
+g) Certificado emitido por el solicitante en el que se detalle el porcentaje de superficie de venta de la que dispondrá en el área de influencia del establecimiento, tras la implantación.
+h) Justificante de abono del importe correspondiente a la tasa que se devengue.
+4. El interesado no vendrá obligado a presentar aquellos documentos que ya consten en poder del Departamento del Gobierno de Navarra competente en materia de comercio pero, en su caso, habrá de facilitar a ésta todos los datos necesarios para su localización.
+5. El interesado podrá impugnar ante la jurisdicción contencioso-administrativa la no obtención de los documentos detallados en los apartados b), c), g) y h) del apartado anterior.
+Se añade la letra e bis) al apartado 3 por el art. 1.3 de la Ley Foral 7/2013, de 25 de febrero. Ref. BOE-A-2013-2820.
+ Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 22
+
+Artículo 22. Admisión a trámite de la solicitud de autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal.
+1. El órgano competente comprobará que la documentación presentada por el interesado es la requerida por la presente Ley Foral.
+2. En el supuesto de que la documentación aportada sea la legalmente exigible, se emitirá resolución por la que se admitirá a trámite la solicitud de autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal.
+3. En el supuesto de que el interesado no haya presentado la documentación exigible, la Administración habrá de requerirle a fin de que proceda a subsanar, otorgándole un plazo no inferior a diez días.
+Realizado el requerimiento por la Administración y no siendo atendido por el interesado, la Administración resolverá denegando la autorización, de conformidad con lo dispuesto por el artículo 42.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. La solicitud podrá ser inadmitida sin más trámite cuando, examinada la documentación presentada y previa audiencia del interesado, se concluya la vulneración manifiesta de la legislación y ordenación territorial vigente.
+5. La Administración podrá requerir al interesado, a los técnicos firmantes de los dictámenes o informes así como a la Administración Local en cuyo término municipal se pretenda la ubicación de la edificación a fin de que aclaren o complementen alguno de los documentos presentados, si así lo estima oportuno, otorgándoles para ello idéntico plazo.
+En el supuesto de que el requerimiento se dirija al interesado, la falta de cumplimentación del mismo tendrá los mismos efectos que la falta de subsanación detallada en el apartado tercero.
+En el supuesto de que el requerimiento se remita a la Administración Local, el transcurso del plazo sin su cumplimentación implicará la suspensión del plazo para resolver y la remisión de un nuevo requerimiento por idéntico plazo. En el supuesto de que se desatienda también el segundo de los requerimientos el procedimiento seguirá su curso y la Administración competente quedará habilitada para exigir responsabilidad disciplinaria al personal responsable, de conformidad con lo dispuesto por el artículo 42.7 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 23
+
+Artículo 23. Contenido del Plan Sectorial de Incidencia Supramunicipal.
+1. El Plan Sectorial de Incidencia Supramunicipal tendrá el contenido mínimo establecido en el artículo 43 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo. Asimismo recogerá la valoración de los criterios establecidos en el artículo 25 de la presente Ley Foral.
+2. El estudio de viabilidad económica de la actuación contemplado en el artículo 43.3.a) de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo, se entenderá referido a la actuación de urbanización y en ningún caso a la viabilidad económica del gran establecimiento comercial.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado en negrita del apartado 3, párrafo 3 por Sentencia del TC 157/2004, de 23 de septiembre. Ref. BOE-T-2004-18113.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 3, párrafo 3 por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 3, párrafo 3 desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 24
+
+Artículo 24. Procedimiento de elaboración y aprobación de los Planes Sectoriales de Incidencia Supramunicipal.
+Los Planes Sectoriales de Incidencia Supramunicipal serán elaborados y aprobados en la forma establecida en el artículo 45 de la Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1 por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 1 desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 25
+
+Artículo 25. Criterios para la aprobación del Plan Sectorial de Incidencia Supramunicipal.
+1. Para la aprobación del Plan Sectorial se valorarán los siguientes criterios y extremos:
+a) La conformidad a los criterios establecidos en la presente Ley Foral y en los Planes de Ordenación Territorial.
+b) La incidencia del proyecto en el entorno urbano y sobre el medio urbano.
+c) El equilibrio interterritorial.
+d) El impacto medio ambiental. Se evaluará la conformidad con la normativa sectorial en materia de medio ambiente. Así mismo, se tendrá en cuenta la estimación de emisiones atmosféricas de CO2 derivadas de la movilidad causada, debiendo ser inferiores en un 20 por 100 a la media de emisiones del ámbito donde se ubique el proyecto, salvo que las especiales circunstancias del ámbito de implantación imposibiliten alcanzar estos niveles de emisión.
+En todo caso la estimación de las emisiones de CO2 derivadas de la movilidad causada y del funcionamiento del establecimiento deberá ser inferior en un 20 por 100 a la media de emisiones que se estimen una vez contemplado el desarrollo urbanístico.
+e) La red viaria y accesibilidad, teniéndose en cuenta especialmente la existencia de accesibilidad a través de medios públicos colectivos y la no agravación de desplazamientos. La ausencia de medios públicos colectivos suficientes y proporcionales (30 por 100 del aforo previsto en el estudio de movilidad) impedirá la aprobación del Plan Sectorial de Incidencia Supramunicipal, salvo la justificación de la imposibilidad y la concurrencia de circunstancias excepcionales.
+f) La gestión de residuos y la incidencia acústica. Así como la estimación del consumo energético del centro comercial a implantar.
+g) La localización comercial y la diversidad de formatos a efectos de garantizar las máximas posibilidades a los ciudadanos.
+2. Asimismo los grandes establecimientos deberán cumplir los siguientes requerimientos:
+a) Instalar, cuando tecnológicamente estén disponibles, un surtidor para la carga de vehículos eléctricos por cada 2.500 metros cuadrados de superficie útil de venta.
+b) Disponer de la calificación de eficiencia energética que se determine por el Departamento de Innovación, Empresa y Empleo.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 26
+
+Artículo 26. Vigencia del Plan Sectorial de Incidencia Supramunicipal.
+El Plan Sectorial de Incidencia Supramunicipal por el que se autorice la implantación de un gran establecimiento comercial tendrá vigencia indefinida, con la única excepción regulada en el artículo siguiente.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 27
+
+Artículo 27. Extinción del Plan Sectorial de Incidencia Supramunicipal.
+1. El Gobierno de Navarra podrá acordar la extinción del Plan Sectorial de Incidencia Supramunicipal por el que se autorice la implantación de un gran establecimiento comercial en el supuesto de que transcurra un plazo superior a tres años sin que el interesado haya iniciado la actividad, por causa que le sea imputable.
+2. La declaración de extinción deberá ser expresa y se adoptará previa audiencia del interesado.
+3. La declaración de extinción se notificará al interesado y al Ayuntamiento en cuyo término se pretendía la ubicación de la actividad.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 28
+
+Artículo 28. Transmisión de la autorización de establecimiento comercial.
+1. La transmisión de los establecimientos que requieren la previa obtención de autorización de establecimiento comercial exigirá la comunicación al Departamento del Gobierno de Navarra competente en materia de comercio.
+2. El interesado acompañará a la comunicación regulada en el apartado anterior la documentación que acredite el cumplimiento de las obligaciones exigidas en materia de defensa de la competencia.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 29
+
+Artículo 29. Tasa.
+1. La solicitud de la autorización de establecimiento comercial devengará una tasa equivalente a multiplicar por cuatro euros cada metro cuadrado de superficie útil de exposición y venta del establecimiento proyectado.
+2. Esta tasa deberá ser abonada con la solicitud correspondiente. La falta de pago de la tasa determinará la no iniciación del procedimiento.
+3. En el supuesto de inadmisión a trámite de la solicitud adoptada de acuerdo con el artículo 22.4 de la presente Ley Foral procederá la devolución de la tasa abonada.
+Se modifica por el art. 7.5 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## CAPÍTULO III
+
+De otros establecimientos sometidos a autorización
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 30
+
+Artículo 30. Establecimiento comercial minorista de mediana superficie.
+(Derogado)
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 31
+
+Artículo 31. Establecimientos denominados de «descuento duro».
+(Derogado)
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## TÍTULO III
+
+Horarios comerciales
+
+### Artículo 32
+
+Artículo 32. Horario en días laborables.
+El horario de apertura y cierre de los establecimientos comerciales en días laborables, con una jornada comercial máxima de 15 horas, serán fijados libremente por cada comerciante, todo ello sin perjuicio de los derechos reconocidos a los trabajadores en el régimen laboral.
+El horario global en el que los comercios podrán desarrollar su actividad durante el conjunto de días laborables de la semana no podrá superar las noventa horas, ajustándose igualmente a la normativa laboral.
+Se modifica por el art. 1 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica por el art. único.1 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+ Se modifica por el art. 7.6 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 33
+
+Artículo 33. Apertura en domingos y festivos.
+1. Los domingos y festivos no serán hábiles para el ejercicio de la actividad comercial en la Comunidad Foral de Navarra, salvo los expresamente autorizados.
+2. Antes del 1 de noviembre se establecerá por el Departamento competente en materia de comercio, previa audiencia del Consejo de Comercio de Navarra, el calendario que regirá para el año siguiente, comprensivo de los domingos y festivos que se consideren hábiles. El número de domingos y festivos que se consideren hábiles será de diez.
+Los criterios para dicho establecimiento serán los siguientes:
+a) Un máximo de 1 día hábil por cada mes, a excepción de diciembre en el que podrán establecerse dos.
+b) Un máximo de 2 domingos autorizados como hábiles durante el año. Estos domingos, en ningún caso podrán ser consecutivos.
+3. Este calendario será susceptible de variación por el departamento competente, previa solicitud motivada. En el caso de los ayuntamientos y para variaciones en sus respectivos términos municipales, la solicitud deberá realizarse con una antelación de dos meses.
+4. El horario de apertura y cierre de los establecimientos comerciales en los domingos y festivos autorizados, con una jornada comercial máxima de quince horas, será fijado libremente por cada comerciante, todo ello sin perjuicio de los derechos reconocidos a los trabajadores en el régimen laboral.
+Se levanta la suspensión de la vigencia y aplicación del apartado 2, por Auto del TC de 27 de mayo de 2014. Ref. BOE-A-2014-5908.
+ Se suspende la vigencia y aplicación del apartado 2 desde el 29 de enero de 2014 para las partes del proceso y desde el 15 de febrero de 2014 para los terceros, por providencia del TC de 11 de febrero de 2014 que admite a trámite el recurso de inconstitucionalidad nº 576/2014. Ref. BOE-A-2014-1634.
+ Se modifica por el art. 2 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica por el art. único.2 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+ Se modifica por el art. 7.7 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 34
+
+Artículo 34. Información sobre horarios.
+En todos los establecimientos comerciales deberá figurar la información del calendario y horario de apertura y cierre en sitio visible, tanto en el interior como en el exterior, incluso cuando esté cerrado el establecimiento.
+
+### Artículo 35
+
+Artículo 35. Libertad de horario.
+1. Tendrán plena libertad para determinar los días y horas de apertura al público los establecimientos previstos en el artículo 43.3 del Real Decreto-ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios.
+2. También tendrán plena libertad para fijar los días y horas de apertura los locales comerciales para la celebración en los mismos de exposiciones, certámenes comerciales para la actividad de lanzamiento de un nuevo producto, siempre que no se venda y que se comunique como mínimo con un mes de antelación a la fecha prevista de su realización al Departamento competente en materia de certámenes.
+
+### Artículo 36
+
+Artículo 36. Establecimientos dedicados exclusivamente a la venta de productos culturales y turísticos.
+1. Tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público los establecimientos comerciales dedicados exclusivamente a la venta de productos culturales ubicados tanto en el interior de museos o cualquier local destinado a exposiciones, muestras, etcétera, culturales como independientemente de los mismos.
+2. Son productos culturales aquellos cuya finalidad sea cultivar, desarrollar y formar los conocimientos humanos y el ejercicio de sus facultades intelectuales. La enumeración de los productos culturales a estos efectos será establecida mediante orden foral del Departamento competente en materia de comercio.
+Se modifica por la disposición adicional 2 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica el apartado 2 por la disposición adicional 2 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+
+## TÍTULO IV
+
+Obligaciones de los comerciantes minoristas
+
+### Artículo 37
+
+Artículo 37. Obligaciones genéricas.
+Los comerciantes minoristas habrán de cumplir los siguientes deberes:
+a) Con carácter general, los establecidos por las normas relativas a los bienes cuya venta ofrecen. En especial han de cumplir las normas relativas a la composición de los productos, etiquetado y de seguridad de los mismos, así como las especiales del sector o sectores comerciales que constituyan el objeto de su actividad, y retirar de su establecimiento los bienes que no cumplieren tales normas.
+b) Acreditar ante la Administración competente estar en posesión de las autorizaciones y licencias que les sean exigibles.
+c) Hallarse al corriente en el pago de los tributos de cualquier clase de los que resulten sujetos pasivos.
+d) Cumplir las normas de protección de los derechos de consumidores y usuarios.
+
+### Artículo 38
+
+Artículo 38. Obligaciones básicas frente a los consumidores.
+Conforme a la normativa general y autonómica en materia de defensa de los consumidores y usuarios, y sin perjuicio de la misma, los comerciantes minoristas deberán observar las siguientes determinaciones:
+a) Exhibir junto a los artículos sus correspondientes precios de venta al público.
+b) Entregar factura, recibo o documento acreditativo de la operación realizada debidamente desglosado en su caso, salvo que el consumidor renuncie expresamente a su entrega.
+c) Tener a disposición de los consumidores hojas de reclamaciones.
+d) Entregar documento de garantía en toda venta de artículos de naturaleza duradera.
+e) Realizar sus actividades promocionales sin incurrir en formas de publicidad ilícita, en particular, sin incurrir en publicidad engañosa.
+f) Contratar con los consumidores sin existencia de cláusulas abusivas.
+g) Comercializar artículos seguros y con un adecuado servicio de asistencia técnica.
+
+### Artículo 39
+
+Artículo 39. Exhibición de precios.
+1. El precio deberá figurar junto a todos los artículos ofertados a la venta.
+2. Los precios deberán indicarse de modo directo, figurando en el artículo o junto a él; legible, mediante caracteres claros y de tamaño suficiente ; exacto, prohibiendo toda forma de exhibición de precio que obligue a realizar cálculos aritméticos para determinar su cuantía, excepto la aplicación de porcentajes sencillos de descuento sobre el precio indicado; y completo, incluyendo el importe de los incrementos o descuentos aplicables en su caso y cuantos tributos puedan o deban repercutirse en el consumidor.
+
+### Artículo 39 bis
+
+Artículo 39 bis. Gestión de residuos.
+Conforme a la normativa aplicable en materia de residuos, los comerciantes minoristas deberán adoptar las medidas precisas para minimizar los residuos generados por su actividad y para darles un tratamiento correcto. En particular, en el caso de residuos alimenticios se recomienda la separación de los que resulten aprovechables y entregarlos al Banco de Alimentos de Navarra y otros organismos análogos.
+Se añade por el art. 1.4 de la Ley Foral 7/2013, de 25 de febrero. Ref. BOE-A-2013-2820.
+
+## TÍTULO V
+
+Promociones de ventas
+
+## CAPÍTULO I
+
+Disposiciones comunes
+
+### Artículo 40
+
+Artículo 40. Concepto.
+1. Venta de promoción es aquella actividad por la que el comerciante minorista presenta al consumidor final una serie de condiciones más ventajosas por las cuales puede adquirir los artículos objeto de la promoción a un precio reducido respecto del anterior o con otro tipo de incentivos favorables.
+2. La venta de promoción deberá ir precedida o acompañada de la suficiente información al público, en la que deberá figurar con claridad:
+a) El producto o productos objeto de promoción.
+b) Las condiciones de venta.
+c) El periodo de vigencia de la promoción, que no podrá ser inferior a dos días consecutivos, ni superior a treinta días.
+d) Disponer de existencias suficientes para hacer frente a la oferta.
+Se mantiene la suspensión de la vigencia y aplicación del apartado 2.c) por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 2.c) desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 41
+
+Artículo 41. Pertenencia previa al inventario.
+Para que pueda practicarse una promoción comercial es preciso que los artículos ofertados hubieren formado parte de las existencias previas del comerciante, sin que puedan ser adquiridos con el fin exclusivo de ser incluidos en aquellas promociones, salvo la promoción para lanzamiento de nuevos productos, todo ello sin perjuicio de la especificidad de los establecimientos dedicados de forma exclusiva a la venta de saldos.
+
+### Artículo 42
+
+Artículo 42. Medios de pago.
+El comerciante que practique cualquier tipo de venta promocional o especial tendrá la obligación de informar al consumidor sobre los medios de pago admisibles en la operación, a través de su publicidad general en la exposición visible desde el exterior del establecimiento.
+
+### Artículo 43
+
+Artículo 43. Duración de las promociones.
+1. En toda promoción o publicidad de promoción de ventas, el comerciante deberá contar con las existencias suficientes para satisfacer la demanda previsible de los consumidores, salvo que se trate de una venta en liquidación.
+2. En cualquier caso, se considerará que la promoción no satisface la demanda previsible si las existencias no son suficientes para atender la demanda originada durante un día completo de apertura comercial, sin perjuicio de lo dispuesto especialmente sobre la duración de las rebajas.
+3. En los envases de los productos en que se promocionen regalos deberá indicarse la duración de la promoción.
+4. En el supuesto anterior, el fabricante o el comerciante, en su caso, estarán obligados a la entrega de la prima si el consumidor adquirió el derecho a ella mientras los productos han estado expuestos a la venta, aunque hubiera caducado la promoción.
+5. Fuera de las reglas anteriores y de lo dispuesto especialmente para la venta en rebajas, no será preciso que en la promoción se indique la duración de la misma.
+
+### Artículo 44
+
+Artículo 44. Artículos promocionados.
+1. El comerciante no podrá limitar el número de unidades del producto o productos promocionados que pueda adquirir cada comprador.
+2. Tampoco podrá aplicar una alteración del precio a la vista de la mayor venta que se produzca.
+3. Cuando la oferta no sea suficiente para satisfacer toda la demanda, no se podrán establecer criterios discriminatorios de preferencias entre los compradores.
+4. Cuando las promociones no alcancen a la mitad del inventario no podrán anunciarse como una medida general.
+5. Los artículos promocionados deberán estar claramente separados del resto de los artículos y del resto de las promociones que puedan concurrir en el establecimiento.
+
+### Artículo 45
+
+Artículo 45. Doble precio.
+Toda forma de promoción o publicidad de ventas que transmita al consumidor un mensaje sugestivo sobre la diferencia de precio de determinados productos, obligará al comerciante a hacer constar en cada uno de ellos el precio ordinario con que se haya valorado el artículo con anterioridad y el precio actual.
+
+## CAPÍTULO II
+
+Clases
+
+### Artículo 46
+
+Artículo 46. Venta en rebajas.
+1. Se considera venta en rebajas aquella venta en la que se oferta al público artículos a un precio inferior al fijado antes de su venta.
+2. La venta en rebajas será fijada según el criterio del comerciante y decidiendo libremente su duración, con sujeción a los siguientes parámetros:
+a) a c) (Anuladas)
+d) Las fechas de rebajas elegidas por cada comerciante, dentro de los criterios establecidos en la Orden Foral, deberán ser expuesta en el exterior de cada establecimiento comercial en lugar visible al público, incluso cuando dichos establecimientos permanezcan cerrados.
+Téngase en cuenta que se declaran inconstitucionales y nulos los incisos y las letras destacados del apartado 2 por Sentencia del TC 59/2016, de 17 de marzo. Ref. BOE-A-2016-3912.
+3. No podrá presentarse una promoción de ventas como rebajas si no se ofrecen a precio reducido al menos la mitad de los artículos existentes. En el supuesto de que las ofertas en rebajas no afecten a la totalidad de los productos comercializados, los rebajados estarán debidamente identificados y diferenciados del resto.
+4. Tampoco podrán ofrecerse en rebajas:
+a) Artículos obsoletos, sin perjuicio de que se ofrezcan en el mismo establecimiento como saldos.
+b) Artículos que no hubieran formado parte de la oferta habitual de ventas del establecimiento durante el mes anterior al inicio de las mismas.
+c) Artículos que hubieran sido objeto de cualquier tipo de promoción durante el mes anterior al inicio de la temporada de rebajas.
+d) Artículos deteriorados.
+Se declaran inconstitucionales y nulos los incisos y las letras destacados del apartado 2 por Sentencia del TC 59/2016, de 17 de marzo. Ref. BOE-A-2016-3912.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 2, por Auto del TC de 27 de mayo de 2014. Ref. BOE-A-2014-5908.
+ Se suspende la vigencia y aplicación del apartado 2 desde el 29 de enero de 2014 para las partes del proceso y desde el 15 de febrero de 2014 para los terceros, por providencia del TC de 11 de febrero de 2014 que admite a trámite el recurso de inconstitucionalidad nº 576/2014. Ref. BOE-A-2014-1634.
+ Se modifica el apartado 2 por el art. 3 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado en negrita del apartado 1 por Sentencia del TC 157/2004, de 23 de septiembre. Ref. BOE-T-2004-18113.
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 1 por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 1 desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 47
+
+Artículo 47. Saldos.
+1. Se considera venta de saldos aquella venta en la que se oferta al público artículos con un valor de mercado disminuido a causa del deterioro, desperfecto, desuso u obsolescencia de los mismos. Este tipo de ventas deberá anunciarse necesariamente con esta denominación o con la de «venta de restos».
+2. Los artículos ofertados como saldos deberán pertenecer al comerciante seis meses antes de la fecha de comienzo de este tipo de actividad comercial, sin perjuicio de los establecimientos dedicados específicamente a dicho sistema de venta.
+3. El comerciante deberá hacer identificar expresamente la oferta de artículos defectuosos o deteriorados.
+4. Todo comerciante podrá ofrecer venta de saldos de sus propios artículos, con carácter permanente, siempre que estén debidamente separados del resto de los artículos y del resto de promociones.
+5. Los establecimientos dedicados a la práctica permanente y exclusiva de saldos deberán indicarlo claramente en el exterior. Solo este tipo de establecimientos podrá saldar artículos ajenos y artículos adquiridos específicamente con la finalidad de ser vendidos como saldo.
+
+### Artículo 48
+
+Artículo 48. Ventas en liquidación.
+1. La regulación de las ventas en liquidación se somete a lo establecido en los artículos 30 y 31 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, con las siguientes especificaciones:
+2. En el supuesto de que una empresa sea titular de varios establecimientos comerciales el cese total o parcial de la actividad de comercio deberá ser de todos ellos. El cierre total o parcial de un solo punto de venta no tendrá la consideración de cese total o parcial, sino de cambio de local.
+3. La liquidación por la realización de obras de importancia solo será posible cuando las mismas requieran el cierre del local.
+4. La liquidación de los productos debe efectuarse en el mismo local o locales afectados donde se vendía habitualmente, salvo en los casos de cierre inminente de local y de los de fuerza mayor.
+5. El comerciante que practique una liquidación deberá comunicar este hecho al Departamento de Industria y Tecnología, Comercio, Turismo y Trabajo del Gobierno de Navarra con una antelación de diez días a su inicio efectivo, expresando la causa de la liquidación, la duración prevista y las mercancías ofertadas. Una copia de esta notificación deberá estar expuesta al público.
+El comerciante podrá solicitar del Departamento de Industria y Tecnología, Comercio, Turismo y Trabajo una prórroga de un mes y siempre por causa justificada. Transcurridos quince días desde la entrada en Registro de la solicitud sin que haya recaído resolución expresa, la petición se entenderá concedida.
+
+### Artículo 49
+
+Artículo 49. Ventas con obsequio.
+1. Se considera venta con obsequio aquella en la que el comerciante oferta u obsequia al comprador con otro producto o servicio adicional, a precio especialmente reducido o de manera gratuita, directamente o mediante la participación en un sorteo o concurso, con la finalidad de promover las ventas de dichos productos promocionados.
+2. La calidad de los objetos o servicios que se promocionen no podrá ser de calidad distinta a los que posteriormente serán objeto en la venta ordinaria, quedando prohibida, además, la modificación al alza del precio durante el periodo de la oferta de venta con obsequio.
+3. El número de existencias con las que cuenta el comerciante para hacer frente a la obligación de entrega de los obsequios, así como las bases por las que se regulan los concursos, sorteos o similares, deberán constar en el envase o envoltorio del producto de que se trate o, en su defecto, estar debidamente divulgadas y no podrán ser modificadas durante el periodo de vigencia de la oferta.
+4. Todo sorteo o concurso en que se exija al participante un desembolso inicial estará sujeto a la legislación del juego, salvo que los vales o participaciones en el sorteo o concurso se ofrezca como obsequio con la compra de productos.
+5. Los bienes o servicios en que consistan los objetos o incentivos promocionales deberán entregarse al comprador al tiempo de la compra o en un plazo máximo de dos meses a contar desde que el comprador reúna los requisitos exigidos.
+6. Queda prohibida la entrega del obsequio condicionada a la adquisición de cualquier otro producto o servicio. En todo caso, se respetarán los derechos e intereses de los consumidores establecidos en la legislación vigente.
+
+## TÍTULO VI
+
+Ventas especiales
+
+### Artículo 50
+
+Artículo 50. Concepto.
+1. Se consideran ventas especiales a efectos de la presente Ley Foral las ventas a distancia, las ventas ambulantes, las ventas automáticas y las ventas en pública subasta.
+2. (Anulado)
+Se declara la inconstitucionalidad y nulidad del apartado 2 por Sentencia del TC 157/2004, de 23 de septiembre. Ref. BOE-T-2004-18113.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 2 por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 2 desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 51
+
+Artículo 51. Registro de Comerciantes Minoristas de Ventas Especiales de la Comunidad Foral de Navarra.
+(Derogado)
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 52
+
+Artículo 52. Venta a domicilio.
+1. Se considera venta a domicilio aquella en la que la oferta se produce en domicilios privados, lugares de ocio o reunión, centros de trabajo y similares que no sean el establecimiento del vendedor.
+2. La publicidad de la oferta de este tipo de venta, que deberá ser entregada al consumidor, incluirá los siguientes extremos:
+a) Identificación y domicilio de la empresa.
+b) (Derogada)
+c) Los datos esenciales del producto o servicio que permitan su identificación inequívoca en el mercado.
+d) Precio, forma y condiciones de pago, gastos y plazo de envío.
+3. No se consideran comprendidos en el concepto de venta domiciliaria las entregas a domicilio de mercancías adquiridas por cualquier otro tipo de venta.
+Se deroga la letra b) del apartado 2 por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 53
+
+Artículo 53. Venta ocasional.
+(Derogado)
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 54
+
+Artículo 54. Autorización.
+(Derogado)
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 55
+
+Artículo 55. Venta en cadena o pirámide.
+Se entiende por venta en pirámide o en cadena cualquier tipo de venta en la que se ofrece a los consumidores o usuarios productos o servicios a precio reducido e incluso gratuito a condición de que éstos consigan, directa o indirectamente, otros clientes o un determinado volumen de ventas.
+Queda prohibida la mediación de los consumidores o usuarios en las prácticas en cadena o pirámides.
+
+### Artículo 56
+
+Artículo 56. Oferta de premios o regalos mediante sorteo.
+Cuando un comerciante comunique a cualquier consumidor o usuario que ha sido agraciado por sorteo con un premio o bien con la entrega de un obsequio, no puede condicionar, directa o indirectamente, su entrega a la compra de productos o servicios.
+
+## TÍTULO VII
+
+De los certámenes comerciales
+Se deroga por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Arts. 57 a 62
+
+Arts. 57 a 62.
+(Derogados)
+Se derogan por la disposición derogatora única.a) de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 57
+
+Artículo 57. Concepto.
+1. Se denominan certámenes comerciales las manifestaciones de carácter comercial que tengan por objeto la exposición, difusión y promoción comercial de bienes y/o servicios, facilitar el acercamiento entre la oferta y la demanda que conduzca a la realización de transacciones comerciales y potenciar la transparencia del mercado. Previa autorización del Departamento competente en materia de certámenes comerciales, podrán llevarse a cabo ventas directas durante su desarrollo.
+2. Los certámenes comerciales definidos en el apartado anterior recibirán la denominación de «ferias» cuando su celebración tenga carácter periódico, y «exposiciones» cuando carezcan de dicho carácter.
+3. Reglamentariamente se determinará la clasificación de los certámenes comerciales, en función tanto de la procedencia como de las características de los bienes y/o servicios a exhibir.
+
+### Artículo 58
+
+Artículo 58. Certámenes comerciales oficiales.
+1. Los certámenes comerciales tendrán la calificación de oficiales cuando su organización y celebración haya sido autorizada por el Departamento competente en esta materia, previo el cumplimiento de los requisitos que reglamentariamente se determinen.
+2 Los términos «feria oficial», «feria oficial de muestras», «feria oficial monográfica», «exposición oficial», «salón oficial monográfico» o similares, incluyan o no referencias a su ámbito, únicamente podrán ser utilizados por las manifestaciones comerciales a que se refiere el apartado anterior del presente artículo.
+3. La organización y celebración de certámenes oficiales, cuando por la procedencia de los bienes y/o servicios a exhibir tengan un ámbito igual o superior al del territorio de la Comunidad Foral de Navarra, podrá reservarse, con carácter exclusivo, a las instituciones feriales definidas en el artículo 56, en los términos que reglamentariamente se determinen.
+4. Cada uno de los certámenes comerciales oficiales contará con un comité encargado de marcar a los organizadores de los mismos las principales pautas para su desarrollo. La designación de los miembros de los comités será competencia de la entidad organizadora del certamen comercial correspondiente, debiendo informar de la misma al Departamento competente en materia de certámenes comerciales, quien a su vez podrá designar uno o varios representantes en los mismos. Su composición, competencias y funcionamiento se determinará reglamentariamente.
+
+### Artículo 59
+
+Artículo 59. Comisión de certámenes comerciales.
+1. El Gobierno de Navarra, a propuesta del Departamento competente en la materia, creará una Comisión de Certámenes Comerciales de Navarra, adscrita a dicho Departamento, como órgano de encuentro de instituciones y agentes económicos y sociales, cuya competencia será la de elevar propuestas y asesorar en materia de política ferial.
+2. Reglamentariamente se determinarán sus funciones, composición y régimen de funcionamiento. Participarán en el mismo el Gobierno de Navarra, la Federación Navarra de Municipios y Concejos, la Cámara de Comercio, las organizaciones empresariales y los sectores económicos con mayor implicación en las manifestaciones comerciales a celebrarse en la Comunidad Foral.
+
+### Artículo 60
+
+Artículo 60. Organización de certámenes comerciales.
+1. Los certámenes comerciales a que se refiere el presente título podrán ser organizados por:
+a) Instituciones feriales.
+b) Otras entidades organizadoras, públicas o privadas.
+2. Son instituciones feriales las entidades con personalidad jurídica propia y sin ánimo de lucro, cuyo objeto sea la promoción y organización de certámenes comerciales.
+3. Las instituciones feriales se regirán por sus estatutos, los cuales regularán todo lo relativo a su constitución, administración, composición y disolución, así como las facultades de sus órganos de gobierno, en los que estarán representados el Gobierno de Navarra, el Ayuntamiento del domicilio de la institución, la Cámara de Comercio, sin perjuicio de la participación de otros entes públicos o privados. Los estatutos de las instituciones feriales deberán ser aprobados por el Departamento del Gobierno de Navarra competente en materia de certámenes comerciales.
+4. Reglamentariamente se determinarán las condiciones y requisitos para su válida constitución y para el ejercicio de su actividad como institución ferial.
+
+### Artículo 61
+
+Artículo 61. Registro Oficial de Certámenes Comerciales.
+1. El Gobierno de Navarra creará un Registro Oficial de Certámenes Comerciales de la Comunidad Foral de Navarra, dependiente del Departamento competente en dicha materia.
+2. El Registro Oficial de Certámenes Comerciales constará de dos secciones. En la sección primera se inscribirán, preceptivamente, las instituciones feriales y las demás entidades organizadoras cuyo objeto consista en la organización de certámenes comerciales oficiales, previo cumplimiento de los requisitos que reglamentariamente se establezcan.
+3. En la sección segunda se inscribirán los certámenes comerciales autorizados y calificados por el Departamento competente en la materia, previo el cumplimiento de los requisitos y plazos que reglamentariamente se determinen. La inscripción determinará la inclusión del certamen de referencia en el Calendario Oficial de Certámenes Comerciales de Navarra. Así mismo, se inscribirán en esta sección y se incluirán en dicho Calendario Oficial los certámenes comerciales calificados como internacionales por la autoridad competente.
+
+### Artículo 62
+
+Artículo 62. Subvenciones y ayudas.
+Para acceder a subvenciones o a cualquier otro tipo de ayuda pública para la celebración de certámenes comerciales, se exigirá como requisito que se hallen inscritos en la sección segunda del Registro señalado en el artículo anterior.
+
+## TÍTULO VIII
+
+Consejo de Comercio de Navarra
+Se modifica por la disposición adicional 1 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica por la disposición adicional 1 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+ Se modifica por el art. 7.8 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 63
+
+Artículo 63. Constitución y composición del Consejo.
+1. Se instituye el Consejo de Comercio de Navarra como órgano consultivo en la Comunidad Foral de Navarra competente en la citada materia cuya composición, organización y funcionamiento será desarrollado reglamentariamente.
+2. Serán funciones del citado Consejo las siguientes:
+a) Evacuar los informes y consultas sobre comercio que le sean solicitados por cualquiera de las Administraciones competentes en dicha materia.
+b) Informar cuantos proyectos de ley foral y demás disposiciones elabore el Gobierno de Navarra relacionadas con el sector comercial.
+c) Elaborar un informe anual sobre la situación comercial de la Comunidad Foral y en especial realizar un seguimiento sobre el desarrollo de los Planes de Modernización del sector, así como los de atracción incluidos en los planes municipales.
+d) Promover el correcto mantenimiento del censo de los establecimientos comerciales de Navarra como herramienta de seguimiento de la adecuada distribución territorial del comercio, en colaboración con las entidades representativas del sector y las Entidades Locales de Navarra.
+e) Promover el cumplimiento de los principios de distribución comercial de los Planes de Ordenación Territorial y contribuir a la integración de los principios de esta Ley Foral en la redacción de los Planes de Acción Territorial.
+f) Promover el desarrollo de las medidas de apoyo al pequeño comercio a través del desarrollo de los Planes de Apoyo al mismo mediante los Planes de Modernización y Competitividad a realizar con carácter cuatrienal.
+g) Promover el desarrollo de los Planes de Acción Comercial dirigidos a las Entidades Locales de Navarra, definidos como Núcleos Vertebradores a Escalá Regional y Núcleos Vertebradores de Interés Subregional, dentro del Plan de Ordenación Territorial de Navarra y en áreas residenciales de alta densidad y superiores a 4.500 habitantes.
+h) Cualquier otra que reglamentariamente se establezca.
+3. En su composición estarán debidamente representados los agentes económicos y sociales más representativos del sector en la Comunidad Foral y, entre ellos, la Cámara Navarra de Comercio e Industria, la Federación Navarra de Municipios y Concejos, la Federación de Asociaciones de Comerciantes de Navarra, la Confederación de Empresarios de Navarra, las Asociaciones de usuarios y consumidores y las organizaciones sindicales y empresariales con presencia en el sector.
+4. El Consejo de Comercio de Navarra quedará adscrito al Departamento de Innovación, Empresa y Empleo del Gobierno de Navarra.
+5. El Gobierno de Navarra habilitará de acuerdo con los límites presupuestarios los medios económicos necesarios para desarrollar los estudios e informes requeridos por los miembros del Consejo de Comercio y en especial para la realización de los estudios sobre el sector que sean de interés para la consecución de las medidas de apoyo al sector propuestas por los agentes económicos y sociales representativos.
+Se modifica por la disposición adicional 1 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica por la disposición adicional 1 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+ Se modifica por el art. 7.8 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## TÍTULO IX
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Competencia y procedimiento
+
+### Artículo 64
+
+Artículo 64. Competencia.
+1. El Departamento del Gobierno de Navarra competente en materia de comercio instruirá los expedientes sancionadores de acuerdo con lo previsto en la presente Ley Foral.
+2. El órgano competente para imponer sanciones por infracciones leves será el Departamento del Gobierno de Navarra competente en materia de comercio. El órgano competente para imponer sanciones por infracciones graves y muy graves será el Gobierno de Navarra.
+
+### Artículo 65
+
+Artículo 65. Procedimiento.
+1. El expediente sancionador se iniciará de oficio, en virtud de denuncia o a instancia del Departamento competente en materia de ordenación del territorio cuando la infracción pudiera tener repercusiones en el ámbito de este último.
+2. El expediente sancionador deberá incluir al menos un informe técnico que detalle las circunstancias de la infracción, junto con todas las pruebas que haya sido posible obtener. Si la infracción pudiera tener repercusiones en el ámbito del Departamento competente en materia de ordenación del territorio, será preceptivo y vinculante el informe de este último.
+3. Transcurridos tres meses a partir del momento en que se solicite el citado informe preceptivo sin que el Departamento competente en materia de comercio lo haya recibido, este podrá resolver el expediente sancionador.
+4. El plazo máximo para la instrucción del procedimiento será de seis meses.
+
+### Artículo 66
+
+Artículo 66. Procedimientos penales.
+1. En los casos en que las infracciones a que se refiere la presente Ley Foral pudieran ser constitutivas de ilícito penal, el Departamento del Gobierno de Navarra competente en materia de comercio lo pondrá en conocimiento del Ministerio Fiscal. De igual forma, cuando se estime que las conductas puedan ser constitutivas de prácticas competenciales prohibidas, conforme a la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, lo comunicará al Tribunal de Defensa de la Competencia.
+2. En ambos casos, el Departamento del Gobierno de Navarra competente en materia de comercio suspenderá la tramitación del expediente administrativo hasta tanto se proceda al archivo o recaiga resolución firme en aquellas instancias, interrumpiéndose el plazo de prescripción de la infracción administrativa o, de existir ya resolución sancionadora, de la sanción acordada.
+3. En el supuesto de que se tuviera conocimiento por el Departamento del Gobierno de Navarra competente en materia de comercio de instrucción de causa penal o de procedimiento ante el Tribunal de Defensa de la Competencia se procederá a la suspensión del procedimiento administrativo sancionador. En cualquier caso, se mantendrán las medidas de aseguramiento ya tomadas, en tanto no sean sustituidas por las que resuelva la autoridad competente.
+
+### Artículo 67
+
+Artículo 67. Responsabilidad administrativa.
+La responsabilidad administrativa por las infracciones tipificadas en la presente Ley Foral corresponderá a las personas físicas o jurídicas titulares de establecimientos comerciales dedicados al comercio minorista, que las hubiesen cometido en el ámbito territorial de la Comunidad Foral de Navarra.
+
+## CAPÍTULO II
+
+Infracciones administrativas
+
+### Artículo 68
+
+Artículo 68. Definición.
+1. Constituyen infracciones administrativas en materia de comercio las acciones u omisiones tipificadas en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y en la presente Ley Foral, sin perjuicio de las responsabilidades de orden civil o de orden penal que pudieran derivarse.
+2. Serán de aplicación los principios y normas básicas que condicionan el ejercicio de la potestad administrativa sancionadora, contenidas en el título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+
+### Artículo 69
+
+Artículo 69. Clasificación y tipificación de las infracciones.
+1. Las infracciones se clasifican en leves, graves y muy graves, siguiendo la tipificación establecida en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista. Además tendrán la calificación de infracciones las específicas que se relacionan a continuación.
+2. Se consideran infracciones leves las siguientes:
+a) La negativa o resistencia a suministrar datos o a facilitar la información requerida por las autoridades y sus agentes en el ejercicio de sus funciones de inspección y el suministro de información inexacta o incompleta.
+b) El desarrollo de actividades que impliquen vulneración de las condiciones de la autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal siempre que no constituyan infracción grave o muy grave.
+c) El incumplimiento de la obligación de informar al público sobre el horario de apertura y cierre del establecimiento.
+d) El incumplimiento de cualquier deber en relación con el Registro de Comerciantes Minoristas de Ventas Especiales de la Comunidad Foral de Navarra, cuando no tenga la calificación de infracción grave.
+e) El incumplimiento de las normas en materia de indicación de precios y en materia de prácticas promocionales de ventas, contenidas en esta Ley Foral.
+f) En general, cualquier incumplimiento de las obligaciones contenidas en la presente Ley Foral que no tengan la consideración de infracciones graves o muy graves.
+3. Se consideran infracciones graves:
+a) La negativa o resistencia a suministrar datos o facilitar la información requerida por las autoridades y sus agentes en el ejercicio de sus funciones de inspección y de la Administración comercial, cuando se efectúe acompañada de violencia física o verbal o cualquier otra forma de presión.
+b) El incumplimiento del requerimiento sobre el cese de actividades infractoras.
+c) Ampliar la superficie comercial neta de un gran establecimiento comercial sin contar con autorización adecuada a tal fin.
+d) Causar perjuicios a la ordenación territorial y ecológica de la zona donde se asientan los grandes establecimientos comerciales.
+e) La apertura del establecimiento comercial en domingo o día festivo no autorizado para la realización de actividades comerciales, de aquéllos no excepcionados en el artículo 31 de esta Ley Foral.
+f) La venta bajo el anuncio o la denominación de «ventas con obsequio», «ventas en rebaja», «ventas en liquidación», o «ventas de saldos», con inobservancia de las características legales definidoras de las mismas.
+g) Estar afectados los objetos ofertados en las ventas con obsequio, en rebaja o en liquidación, por alguna causa que reduzca su valor de mercado.
+h) El falseamiento, en las ventas promocionales, de la publicidad de su oferta.
+i) Modificar durante el periodo de duración de la oferta de ventas con obsequio el precio o la calidad del producto.
+j) El incumplimiento del régimen establecido sobre entrega de los obsequios promocionales.
+k) El incumplimiento de la obligación de inscripción en los Registros establecidos en esta Ley Foral.
+l) La comisión de cualquiera de las faltas leves establecidas en el presente artículo, cuando sea cometida de forma reincidente en el término de un año por el mismo responsable, y así sea declarado por resolución administrativa firme.
+4. Se consideran infracciones muy graves:
+a) La comisión de dos o más infracciones graves en el plazo de un año.
+b) El inicio de actuaciones de edificación, aun amparadas por una licencia municipal de obras, sin que se haya obtenido la autorización de establecimiento comercial mediante un Plan Sectorial de Incidencia Supramunicipal para la instalación, ampliación o traslado de un gran establecimiento comercial.
+c) El ejercicio de actividades comerciales en establecimientos que no hayan obtenido autorización, cuando esta sea preceptiva conforme a esta Ley Foral.
+d) Causar perjuicios sustanciales e irreversibles a la ordenación territorial y ecológica de la zona donde se asientan los grandes establecimientos comerciales.
+e) La comisión de cualquiera de las faltas graves establecidas en el presente artículo, cuando sea cometida de forma reincidente en el término de un año por el mismo responsable, y así sea declarado por resolución administrativa firme.
+Se modifica la letra b) de los apartados 2 y 4 por el art. 7.9 y 10 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 70
+
+Artículo 70. Prescripción de las infracciones.
+1. Las infracciones reguladas en la presente Ley Foral prescribirán a los seis meses, las calificadas como leves; a los dos años, las calificadas como graves; y a los tres años, las calificadas como muy graves.
+2. Estos plazos se contarán a partir de la realización del acto sancionable o de la terminación del periodo de comisión si se trata de infracciones continuadas.
+
+## CAPÍTULO III
+
+Sanciones
+
+### Artículo 71
+
+Artículo 71. Cuantía de las multas.
+1. Las infracciones, conforme a lo dispuesto en la presente Ley Foral y la Ley 7/1996, de 15 de enero, serán sancionadas con apercibimiento o multa cuya cuantía se establece de acuerdo con la siguiente graduación:
+a) Las infracciones leves se sancionarán con apercibimiento o multa de hasta 500.000 pesetas.
+b) Las infracciones graves serán sancionadas con multa desde 500.001 a 2.500.000 pesetas.
+c) Las infracciones muy graves, con multa desde 2.500.001 pesetas hasta 100.000.000 pesetas.
+2. Las cuantías fijadas en el apartado precedente podrán ser actualizadas en función del Índice de Precios al Consumo, mediante Decreto Foral. En la misma forma se fijará, cuando proceda, la cuantía equivalente en euros de las correspondientes sanciones económicas.
+3. En todo caso, las sanciones atenderán a un criterio de proporcionalidad entre la infracción cometida y la naturaleza del infractor, teniéndose en cuenta a tales efectos la condición de gran establecimiento comercial o establecimiento comercial minorista.
+
+### Artículo 72
+
+Artículo 72. Graduación.
+1. Las sanciones se graduarán especialmente en función de la trascendencia social de la infracción, la situación de predominio del infractor en el mercado, la naturaleza de los perjuicios causado, volumen de la facturación a la que afecta, el grado de voluntariedad o intencionalidad del infractor, la cuantía del beneficio obtenido, la capacidad económica y el plazo de tiempo durante el que se haya venido cometiendo la infracción.
+2. La sanción no podrá suponer más del 5 por 100 de la facturación del comerciante afectada por la infracción en el caso de infracciones leves, del 50 por 100 en el caso de las infracciones graves y del volumen total de dicha facturación en el caso de infracciones muy graves.
+Se levanta la suspensión de la vigencia y aplicación del apartado 1 por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación del apartado 1 desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Artículo 73
+
+Artículo 73. Medidas cautelares.
+1. La Administración podrá adoptar las medidas cautelares que a continuación se relacionan, a fin de asegurar la eficacia de la resolución que pudiera recaer, cuando existan riesgos para la salud, grave riesgo de perjuicio para los intereses económicos y sociales de los consumidores y usuarios, graves perjuicios en la ordenación territorial y ecológica del ámbito de desarrollo del comercio minorista, y cuando exista riesgo de distorsión del funcionamiento del mercado:
+a) Intervención de mercancías falsificadas, fraudulentas, o no clasificadas o que incumplan los requisitos mínimos legalmente exigidos para su comercialización.
+b) Suspensión de la actividad comercial hasta la subsanación de los defectos o el cumplimiento de los requisitos exigidos.
+c) Clausura o cierre provisional de establecimientos e instalaciones que carezcan de las preceptivas autorizaciones, mientras permanezcan en esta situación.
+2. La competencia para adoptar cualquiera de las medidas provisionales señaladas corresponderá a la Dirección General que tenga atribuida la competencia en materia de comercio y lo hará mediante acuerdo motivado.
+
+### Artículo 74
+
+Artículo 74. Prescripción de las sanciones.
+1. Las sanciones impuestas por infracciones leves prescribirán a los seis meses ; las impuestas por faltas graves, a los dos años; y las impuestas por faltas muy graves, a los tres años.
+2. El plazo de prescripción comenzará a contarse a partir de la firmeza de la resolución sancionadora.
+
+## TÍTULO X
+
+Medidas de apoyo al pequeño comercio
+
+### Artículo 75
+
+Artículo 75. Concepto.
+Se entenderán por medidas de apoyo al pequeño comercio las que con carácter de fomento del comercio tradicional puedan impulsarse desde las administraciones públicas, o desde las asociaciones de comerciantes.
+
+### Artículo 76
+
+Artículo 76. Objetivos.
+1. Las actuaciones referidas en el artículo anterior tendrán como objetivos, además de procurar el equilibrio entre las diferentes fórmulas comerciales, el mantenimiento, impulso y modernización del sector comercial tradicional y su competitividad, sin perjuicio de la libre competencia, los siguientes:
+a) Mejora de la capacidad tecnológica de las pequeñas y medianas empresas de distribución.
+b) Mejora de la productividad y competitividad del pequeño y mediano comercio.
+c) Fomento de la integración empresarial del pequeño y mediano comercio en agrupaciones empresariales sectoriales y locales, en centrales de compras, y otras formas de integración empresarial.
+d) Fomento del desarrollo de Planes de Atracción Comercial en los municipios definidos como Núcleos vertebradores a Escala Regional y Núcleos vertebradores de Interés Subregional dentro del Plan de Ordenación Territorial de Navarra y en áreas residenciales de alta densidad y superiores a 4.500 habitantes.
+e) Fomento de la diversificación empresarial, así como impulso de los planes de calidad y formación en especial relativos a la atención al cliente como elemento diferenciador de la pequeña empresa.
+f) Fomento de las medidas y de los instrumentos tendentes a la especialización, modernización y mejora de la gestión.
+2. Para el desarrollo de estos objetivos el Gobierno de Navarra elaborará, consensuadamente con las organizaciones sociales, empresariales y profesionales, un Plan de Apoyo al Pequeño Comercio, que contenga, entre otras, las medidas de apoyo recogidas en esta Ley Foral.
+Se modifica por el art. 7.11 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+### Artículo 77
+
+Artículo 77. Medidas de apoyo.
+1. El Gobierno de Navarra, mediante el oportuno desarrollo reglamentario, extenderá al sector del comercio las ayudas existentes para el sector industrial, tales como fomento a la inversión y a la creación de empleo a través del desarrollo de las medidas de apoyo a la competitividad previstas en los planes de apoyo al pequeño y mediano comercio de Navarra teniendo en cuenta las características propias del sector.
+2. El Gobierno de Navarra, de conformidad con los agentes sociales y organizaciones empresariales del sector, elaborará un Plan de Formación General que atienda las diversas necesidades de formación ocupacional y de reciclaje de los trabajadores, así como de formación específica de mejora de la gestión empresarial.
+3. El Gobierno de Navarra realizará las actuaciones oportunas que fomenten el asociacionismo del pequeño comercio como forma de dinamizar el entramado urbano de las poblaciones de Navarra, y de apoyar la modernización del sector.
+4. El Gobierno de Navarra, en colaboración con las Administraciones Locales de Navarra y con las asociaciones de comerciantes representativas, desarrollará planes de atracción comercial como planes dirigidos a la ordenación, dinamización y mejora del atractivo comercial de las poblaciones de Navarra incluyendo planes de accesibilidad, movilidad y dinamización del tejido empresarial.
+5. El Gobierno de Navarra pondrá en marcha cuantas iniciativas y actuaciones sean necesarias para facilitar un fácil y completo acceso del sector a los programas y recursos existentes a nivel nacional, comunitario con el fin de homogeneizar los apoyos y la financiación existente en otros ámbitos.
+6. Con el fin de fomentar la modernización de los equipamientos comerciales existentes y para realizar los programas de actuación sobre las áreas comerciales afectadas por los emplazamientos de los grandes establecimientos comerciales, el Gobierno de Navarra promoverá la modificación de la legislación propia de los tributos locales de Navarra, favoreciendo las medidas de fomento pertinentes y los convenios con Administraciones y Entidades integradas.
+La recaudación que se obtenga de tales tributos se destinará a programas de innovación y mejora del comercio urbano, con las prioridades y objetivos que se establezcan en el Plan de Actuación Comercial del mismo que se elabore conforme a las directrices de ordenación territorial.
+Se modifica por el art. 7.12 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+
+## TÍTULO XI
+
+Del comercio mayorista
+
+### Artículo 78
+
+Artículo 78. Concepto.
+Es comercio mayorista o actividad comercial mayorista, a efectos de la presente Ley Foral, la actividad que, no siendo susceptible de encuadrarse en las actividades de comercio minorista reguladas en esta Ley Foral u otras análogas, se desarrollen profesionalmente, con ánimo de lucro, o de prestación de servicios a sus socios o asociados, consistente en situar u ofrecer a los minoristas productos naturales o elaborados y servicios.
+
+### Artículo 79
+
+Artículo 79. Del comercio mayorista.
+El Gobierno de Navarra regulará la normativa específica de aplicación a los establecimientos de comercio mayorista.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Para todos los registros y actividades comerciales regulados en esta Ley Foral, así como en la reglamentación de desarrollo de la misma, se tendrá en cuenta, en todo caso, los dispuesto en la Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El comercio electrónico será regulado por el Gobierno de Navarra de conformidad con la directiva 2000/31/CE del Parlamento Europeo y del Consejo, así como con la legislación vigente en el Estado.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Teniendo en cuenta que la ubicación de una parte de los grandes establecimientos comerciales se plantea con una dimensión comarcal, o al menos supramunicipal, la repercusión económica de su instalación (contribución, impuestos, tasas...) deberá distribuirse entre los municipios incluidos en su ámbito de influencia. A tal efecto, el Gobierno de Navarra desarrollará esta previsión en el ámbito de la legislación sobre Haciendas Locales, de modo que el 40 por 100 de los ingresos sean para el municipio en el que se construya el centro, o 50 por 100 si se ubica en más de un municipio, y el resto se distribuya entre el conjunto de los municipios del área de influencia en proporción al número de habitantes de cada uno de ellos.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Gobierno de Navarra desarrollará, en el ámbito de la legislación propia de tributos locales, la previsión de que al menos el 10 por 100 de los ingresos obtenidos por los municipios derivados de la instalación de un gran establecimiento comercial se destinen a acciones de promoción del comercio tradicional en esos municipios.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Se crea el censo de establecimientos comerciales de Navarra en el Departamento competente en materia de comercio.
+Las personas y las Entidades de cualquier naturaleza jurídica que sean titulares de establecimientos comerciales en el territorio de la Comunidad Foral deberán comunicarlo al censo de los establecimientos comerciales. A tal efecto deberán formular comunicación ante la oficina de gestión unificada de la Comunidad Foral o ante las entidades y asociaciones empresariales representativas del sector y con suficiente presencia territorial que hayan sido previamente habilitadas como entidades colaboradoras por el Departamento competente en materia de comercio. Las comunicaciones al censo se realizarán de acuerdo con la forma y los requisitos que reglamentariamente se establezcan.
+El Gobierno habilitará los medios económicos necesarios para desarrollar y mantener actualizado el censo de establecimientos comerciales de Navarra.
+Se modifica por la disposición adicional 2 de la Ley Foral 15/2013, de 17 de abril. Ref. BOE-A-2013-5624.
+ Se modifica por la disposición adicional 2 del Decreto-ley Foral 1/2012, de 21 de noviembre. Ref. BOE-A-2012-15390.
+ Téngase en cuenta que el citado Decreto-ley Foral fue derogado por Acuerdo de 21 de diciembre de 2012. Ref. BOE-A-2013-796.
+ Se modifica por el art. 7.13 de la Ley Foral 6/2010, de 6 de abril. Ref. BOE-A-2010-8422.
+ Véase el art. único de la Ley Foral 25/2003, de 4 de abril. Ref. BOE-A-2003-10078., en cuanto que establece una moratoria de licencias o autorizaciones para la instalación o autorización de grandes establecimientos comerciales hasta la entrada en vigor del Modelo Territorial de Grandes Establecimientos Comerciales.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La presente Ley Foral no será de aplicación a los expedientes de autorización relativos a grandes establecimientos comerciales que hayan sido objeto de resolución definitiva en los ámbitos comercial y de ordenación territorial antes de la fecha de entrada en vigor de la misma.
+Los expedientes de solicitud de licencia comercial específica que no hubieran sido resueltos definitivamente a la entrada en vigor de esta Ley Foral, continuarán su tramitación conforme a lo establecido en la misma. No se exigirá el pago de la tasa correspondiente a las solicitudes que hubiesen completado la documentación en el momento de la entrada en vigor de esta Ley Foral.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las personas físicas o jurídicas que, a la entrada en vigor de esta Ley Foral, ejerzan una actividad comercial que suponga su inscripción obligatoria en alguno de los registros establecidos en la presente Ley Foral, deberán proceder a realizar la citada inscripción en el plazo máximo de un año, a contar desde la entrada en vigor del reglamento que determine los datos objeto de inscripción y los documentos precisos para la misma.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las licencias comerciales específicas otorgadas con anterioridad a la entrada en vigor de la presente Ley Foral continuarán siendo válidas. No obstante, la ampliación o modificación de dichos establecimientos estará sujeta a las previsiones contenidas en esta Ley Foral.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley Foral y, en particular, el Decreto Foral 154/1993, de 10 de mayo, por el que se regula la implantación territorial y urbanística de las instalaciones comerciales de gran superficie y el Decreto Foral 378/2000, de 18 de diciembre, por el que se regulan los horarios comerciales.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Navarra y a los Departamentos competentes en cada caso, para dictar los actos y disposiciones que requiera el desarrollo y la ejecución de lo previsto en la presente Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Anulado)
+Se declara la inconstitucionalidad y nulidad por Sentencia del TC 157/2004, de 23 de septiembre. Ref. BOE-T-2004-18113.
+ Se levanta la suspensión de la vigencia y aplicación de esta disposición por Auto de 21 de marzo de 2002. Ref. BOE-A-2002-6383.
+ Se suspende la vigencia y aplicación de esta disposición desde el 16 de octubre de 2001 para las partes en el proceso y desde el 13 de noviembre de 2001 para los terceros, por providencia del TC de 30 de octubre de 2001, que admite a trámite el recurso de inconstitucionalidad nº 5343/2001. Ref. BOE-A-2001-21095.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley Foral entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Navarra.
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 12 de julio de 2001.
+MIGUEL SANZ SESMA,
+Presidente

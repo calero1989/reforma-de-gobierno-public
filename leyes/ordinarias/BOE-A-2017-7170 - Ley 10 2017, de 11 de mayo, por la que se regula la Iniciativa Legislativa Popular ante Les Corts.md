@@ -1,0 +1,261 @@
+# Ley 10/2017, de 11 de mayo, por la que se regula la Iniciativa Legislativa Popular ante Les Corts.
+
+- Identificador BOE: `BOE-A-2017-7170`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2017-7170
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+Existe una demanda ciudadana de mejora de la información, transparencia, publicidad de la actividad legislativa y legitimidad de las leyes y decisiones de Les Corts.
+Con el objetivo de dar respuesta a esta demanda y de dar cumplimiento al mandato contenido al Estatuto de Autonomía, artículo 26.2, mejorando la normativa vigente para avanzar hacia una democracia más participativa e inclusiva, se abordan múltiples mejoras que hacen nacer un nuevo texto legislativo. Con esta ley se facilita el proceso participativo y se garantiza la presencia y participación directa de la ciudadanía en el debate parlamentario. La democracia exige que se haga partícipe del sistema del parlamentarismo al pueblo en la mayor medida posible, abandonando modelos del pasado en los que su incidencia queda limitada al acto de la elección de representantes cada cuatro años. Así lo prevé la Constitución española en su artículo 23.1 así como el Estatuto de Autonomía en su artículo 9.4.
+Para ello se deben articular mecanismos que aseguren una deliberación pública y plural de las decisiones a tomar, complementando la labor de las personas representantes de la soberanía, garantizando el flujo permanente entre la opinión pública y las instituciones, lo cual ha generado resultados muy positivos en países como Estados Unidos, Canadá, Uruguay, Nueva Zelanda, Irlanda, Italia o Austria, por no mencionar, por sus peculiaridades históricas y sociopolíticas, el caso de Suiza.
+La democracia valenciana tiene mucho que ganar mejorando la implicación de la ciudadanía en la vida política, haciendo posible, en suma, que el pueblo gobernado pueda ser, en mayor medida, pueblo gobernante, reforzando el sentimiento de ciudadanía y la responsabilidad de la ciudadanía como actora protagonista del proceso político, mejorando el modelo democrático. El parlamentarismo solo puede salir reforzado si se hace partícipe al pueblo valenciano de las decisiones que se adoptan, y la gente participará si percibe que su aportación es tenida en cuenta. Por ello, es necesario abordar la presente ley con la finalidad de motivar, impulsar y facilitar la participación de la ciudadanía como impulsora del proceso legislativo.
+En definitiva, el objetivo a conseguir a través de la mejora del proceso destinado a regular la participación e impulso legislativo ciudadano es que las personas destinatarias de las normas jurídicas puedan sentirse partícipes mediante la propuesta y el diálogo.
+Sobre la base de los argumentos reseñados, esta ley se estructura en cinco títulos, dos disposiciones adicionales, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
+En el título preliminar se delimita el objeto de la ley, se expresan sus fines y se determina quiénes son los sujetos legitimados para presentar una iniciativa legislativa popular.
+El título I, compuesto por un único artículo, prevé las materias sobre las que no puede versar una iniciativa legislativa popular.
+El título II, integrado por dos capítulos, está dedicado al procedimiento de presentación de una iniciativa ante Les Corts. En el capítulo I se regulan los requisitos que debe reunir la documentación aportada, así como la fase de admisión a trámite por la Mesa de la cámara, las causas de inadmisibilidad y la posible interposición de un recurso de amparo ante el Tribunal Constitucional contra el acuerdo por el que pudiera inadmitirse la iniciativa.
+El título III alude a la tramitación parlamentaria de la iniciativa, una vez admitida a trámite y tras haberse acreditado la autenticidad de las firmas recogidas.
+En el título IV se ha recogido la regulación de la justificación y compensación de los gastos, así como la referencia a la actualización periódica de la cantidad máxima compensable.
+La ley concluye con las disposiciones comunes en la parte final, antes mencionadas.
+Se modifica por el art. 87.1 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Constituye el objeto de esta ley regular el derecho de la ciudadanía valenciana y de la sociedad civil organizada al ejercicio de la iniciativa legislativa popular ante Les Corts como institución participativa valenciana, en desarrollo del artículo 26.2 del Estatuto de Autonomía de la Comunitat Valenciana, como expresión del derecho fundamental de los valencianos y las valencianas a la participación en los asuntos públicos prevista en el artículo 23.1 de la Constitución española y el derecho a la participación política consagrado al artículo 9.4 del Estatuto de Autonomía.
+
+### Artículo 2
+
+Artículo 2. Legitimación.
+Pueden ejercer la iniciativa legislativa popular ante Les Corts las personas, mayores de edad, que tienen la vecindad administrativa valenciana. A tal fin, deberán estar empadronadas en cualquier municipio de la Comunitat Valenciana y cumplir uno de los siguientes requisitos:
+a) Tener la nacionalidad española y formar parte del censo electoral.
+b) Ser ciudadano o ciudadana de los estados miembros de la Unión Europea, excepto España, o ciudadanos de Islandia, Liechtenstein, Noruega o Suiza.
+Se modifica por el art. 49.1 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
+ Se modifica por el art. 87.2 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 3
+
+Artículo 3. Fines.
+Son fines de esta ley:
+1. Fomentar y garantizar el derecho a la participación directa de la ciudadanía en la gestión de los asuntos públicos mediante la presentación de proposiciones de ley sobre aquellas cuestiones que sean de su interés.
+2. Potenciar la interacción entre la ciudadanía y Les Corts, como institución de la Generalitat que encarna el ejercicio de la potestad legislativa y representa la voluntad del pueblo valenciano.
+3. Facilitar que Les Corts se abran al debate sobre materias que, no formando parte habitualmente de la agenda parlamentaria, puedan ser de interés para la ciudadanía.
+4. Hacer de la iniciativa legislativa popular una vía ágil, útil y práctica de expresión, tanto para el conjunto de la sociedad como para colectivos con intereses comunes.
+5. Poner al alcance de la ciudadanía un procedimiento simplificado para ejercer la iniciativa legislativa popular, como vehículo para el ejercicio del derecho fundamental a la participación en los asuntos públicos.
+
+## TÍTULO I
+
+Materias excluidas
+
+### Artículo 4
+
+Artículo 4. Materias excluidas.
+Quedan excluidas de la iniciativa legislativa popular las siguientes materias:
+1. Las que afecten a materias sobre las que Les Corts no tienen competencia legislativa.
+2. Las de naturaleza tributaria o presupuestaria.
+3. Las que afecten al desarrollo de los títulos I, II, III y VIII del Estatuto de Autonomía.
+4. La reforma del Estatuto de Autonomía.
+Se modifica por el art. 87.3 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO II
+
+Procedimiento
+
+## CAPÍTULO I
+
+Inicio y admisión a trámite
+
+### Artículo 5
+
+Artículo 5. Inicio.
+1. El procedimiento se iniciará con la presentación en el registro de Les Corts de un escrito dirigido a la Mesa de Les Corts en el cual se solicitará la admisión a trámite de la iniciativa y se argumentarán las razones por las que la cámara debería tramitar la proposición de ley.
+2. El escrito de presentación debe estar firmado como mínimo por tres personas, que deben reunir los requisitos previstos en el artículo 2 de esta ley, y debe incluir el número del documento nacional de identidad o número de identidad de extranjero, en su caso, de todas ellas y un domicilio a los efectos de notificaciones.
+3. Con el escrito de presentación se debe aportar la relación de personas miembros de la comisión promotora de la iniciativa, con un mínimo de tres, con indicación de cuál de ellas actuará como representante legal de la comisión e incluyendo los nombres y apellidos, los números de los documentos nacionales de identidad o número de identidad de extranjero, en su caso, y las firmas de todas.
+4. Asimismo, se debe adjuntar el texto articulado de la proposición de ley, precedido de una exposición de motivos.
+5. Si la iniciativa se presenta fuera de los períodos ordinarios de sesiones parlamentarias, los plazos a que hace referencia esta ley empezarán a computarse a partir de la fecha de inicio del período inmediatamente posterior.
+6. Los servicios jurídicos de Les Corts prestarán asesoramiento a las personas miembros de la comisión promotora para facilitarles el cumplimiento de las formalidades y los requisitos que prevé esta ley.
+7. Desde su presentación hasta el momento inmediatamente anterior a la publicación de la proposición de ley en el «Butlletí Oficial de les Corts» de conformidad con el artículo 14 de esta ley, la comisión promotora podrá desistir de la iniciativa y retirarla.
+
+### Artículo 6
+
+Artículo 6. Admisión a trámite.
+1. La Mesa de Les Corts examinará la documentación aportada y se pronunciará en el plazo de quince días sobre la admisión de la iniciativa.
+2. Son causas de inadmisión de la iniciativa presentada:
+a) Que tenga como objeto alguna de las materias mencionadas en el artículo 4 de esta ley.
+b) Que no se hayan cumplido todos los requisitos vinculados, de acuerdo con el artículo 5 de esta ley, con la presentación de la iniciativa. No obstante, si se trata de algún defecto enmendable, la Mesa de Les Corts lo comunicará a la comisión promotora para que lo enmiende en el plazo máximo de quince días.
+3. La resolución de la Mesa de Les Corts por la que se admita o inadmita la iniciativa se notificará a la comisión promotora a través de su representante legal y se publicará en el «Butlletí Oficial de les Corts».
+
+### Artículo 7
+
+Artículo 7. Recursos.
+1. Las resoluciones de inadmisión dictadas por la Mesa de Les Corts podrán ser recurridas en reposición ante la misma Mesa de Les Corts. El silencio administrativo será positivo.
+2. Si la resolución del recurso de reposición considera que la irregularidad afecta solo a determinados preceptos de la proposición de ley, la comisión promotora podrá manifestar a la Mesa de Les Corts, en el plazo de treinta días hábiles, si retira la iniciativa o si la mantiene con las modificaciones correspondientes.
+3. La resolución desestimatoria del recurso de reposición que confirma la inadmisión podrá ser recurrida en amparo ante el Tribunal Constitucional, de conformidad con el artículo 42 de la Ley orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.
+Igualmente, se podrán recurrir en amparo ante el Tribunal Constitucional los acuerdos de archivo de actuaciones que adopte la Mesa de Les Corts, de conformidad con lo que prevé el artículo 14 de esta ley.
+4. Si el Tribunal Constitucional dicta una sentencia estimatoria y otorga el amparo a los recurrentes por entender que no concurre la causa de inadmisibilidad previamente observada por la Mesa de Les Corts, el procedimiento de tramitación de la iniciativa presentada deberá seguir su curso.
+5. Si el Tribunal Constitucional considera que hay alguna irregularidad o deficiencia, pero solo afecta a determinados preceptos de la proposición de ley, la Mesa de Les Corts solicitará a la comisión promotora que manifieste, en el plazo de diez días, si desea retirar la iniciativa o mantenerla una vez se hayan efectuado las modificaciones pertinentes.
+
+## CAPÍTULO II
+
+Recogida de firmas
+
+### Artículo 8
+
+Artículo 8. Desarrollo del proceso.
+1. Admitida a trámite la proposición de ley, la Mesa de Les Corts remitirá el expediente a la Junta Electoral de la Comunitat Valenciana para que el proceso de recogida de firmas se desarrolle con todas las garantías, así como a la oficina del censo electoral a los efectos que prevé esta ley.
+2. La Junta Electoral de la Comunitat Valenciana notificará a la comisión promotora, en el plazo de quince días, la recepción del expediente así como las condiciones y los requisitos para empezar el proceso de recogida de firmas.
+3. Cualquier iniciativa legislativa popular debe contar con un mínimo de 10.000 firmas de personas que den apoyo a la proposición de ley, recogidas y autenticadas en la forma que se determina en este capítulo.
+4. El proceso debe concluir con la entrega de las firmas a la Junta Electoral de la Comunitat Valenciana en el plazo máximo de ocho meses desde que la comisión promotora reciba la notificación mencionada en el apartado 2 de este mismo precepto.
+5. A petición de la comisión promotora, y si la Mesa de Les Corts observa la existencia de una causa debidamente justificada, el plazo se podrá prorrogar dos meses más, hasta un máximo de diez.
+6. Si antes de finalizar el plazo establecido para la recogida y presentación de las firmas, la comisión promotora considera que ya ha conseguido el número mínimo exigido en el apartado 3 de este artículo, podrá solicitar el cierre anticipado del plazo a la Mesa de Les Corts, la cual, si emite una resolución accediendo a la petición acogida, lo comunicará también a la Junta Electoral de la Comunitat Valenciana.
+7. Si en el momento de finalizar el plazo establecido en cada caso no se hubiera hecho entrega de las firmas recogidas a la Junta Electoral de la Comunitat Valenciana, esta lo hará saber a la Mesa de Les Corts para que resuelva la caducidad del expediente iniciado y el archivo de las actuaciones. Este acuerdo se publicará en el ‘Diari Oficial de la Generalitat Valenciana’.
+Se modifica el apartado 7 por el art. 87.4 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 9
+
+Artículo 9. Pliegos.
+1. Recibida la notificación de la Junta Electoral de la Comunitat Valenciana a que se refiere el artículo 8.2 de esta ley, la persona representante legal de la comisión promotora debe presentar ante aquella los pliegos que se utilizarán para la recogida de firmas.
+2. Los pliegos deben reproducir el texto íntegro de la proposición de ley y pueden estar escritos tanto en castellano como en valenciano.
+3. Si el texto de la proposición de ley supera en extensión las tres caras de cada pliego, se debe adjuntar en pliegos diferenciados, unidos al destinado a la recogida de firmas, de manera que no puedan separarse.
+4. En el plazo máximo de siete días desde la recepción, la Junta Electoral de la Comunitat Valenciana devolverá los pliegos, debidamente sellados y numerados, a la comisión promotora, para que pueda iniciar la recogida de firmas.
+5. En los pliegos, junto con la firma de cada ciudadana o ciudadano, figurará su nombre, los apellidos, el número del documento nacional de identidad, en su caso, y el municipio donde esté inscrito o inscrita.
+6. Las firmas se podrán realizar con firma electrónica, de conformidad con la normativa aplicable en la materia. A tal efecto, la Junta Electoral de la Comunitat Valenciana autorizará el sistema propuesto por la comisión promotora previo informe de la Oficina del Censo Electoral.
+7. La comisión promotora será responsable de que los datos personales que se encuentren en su poder sean tratados con respeto de la legislación aplicable en materia de protección de datos y garantizará, particularmente, que estos datos no sean utilizados para fines distintos del apoyo declarado a la iniciativa presentada.
+Se modifica por el art. 87.5 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 10
+
+Artículo 10. Autenticación.
+1. Las firmas deberán ser autenticadas por cualquier persona que tenga capacidad para dar fe, como es un notario o notaria, un secretario o secretaria judicial, o secretario o secretaria de cualquier ayuntamiento respecto del padrón propio.
+2. Las firmas podrán ser también autenticadas por fedatarios o fedatarias especiales. Las personas designadas por la comisión promotora a este efecto deberán tener la condición política de valencianos o valencianas de conformidad con el artículo 3.1 del Estatuto de Autonomía de la Comunitat Valenciana, estar en pleno disfrute de sus derechos civiles y jurar o prometer, ante quien tenga la condición de secretario o secretaria de la Junta Electoral de la Comunitat Valenciana, que darán fe de la autenticidad de las firmas recogidas.
+En caso de falsedad, los fedatarios y las fedatarias especiales incurrirán en las responsabilidades previstas por la legislación penal vigente.
+3. La autenticación deberá incorporar siempre la fecha en que se hace y podrá ser colectiva, pliego por pliego. En este último supuesto, junto con la fecha habrá que consignar el número de firmas contenidas en el pliego.
+
+### Artículo 11
+
+Artículo 11. Certificados de la oficina del censo electoral.
+(Suprimido)
+Se suprime por el art. 87.6 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 12
+
+Artículo 12. Presentación, comprobación y recuento.
+1. La comisión promotora remitirá los pliegos con las firmas recogidas a la Junta Electoral de la Comunitat Valenciana que, a su vez, los enviará a la oficina del censo electoral para que constate la inscripción de las personas firmantes y efectúe un recuento inicial de las firmas.
+2. En el plazo de quince días desde la recepción de la documentación reseñada en el apartado anterior, la oficina del censo electoral remitirá a la Junta Electoral de la Comunitat Valenciana un certificado acreditativo de los datos constatados.
+3. Cumplidos los trámites reseñados en los apartados anteriores, la Junta Electoral de la Comunitat Valenciana procederá a la comprobación y el recuento definitivos de las firmas y declarará inválidas y no computables las firmas que no reúnan los requisitos exigidos por esta ley.
+El proceso de comprobación y recuento se llevará a cabo en acto público, con citación previa de la persona representante legal de la comisión promotora. El proceso no podrá prolongarse más de un mes desde que finalice el plazo para la recogida de firmas.
+
+### Artículo 13
+
+Artículo 13. Certificación de la Junta Electoral de la Comunitat Valenciana.
+1. Finalizadas todas las comprobaciones a que se refiere el artículo anterior, la Junta Electoral de la Comunitat Valenciana remitirá a la Mesa de Les Corts un certificado acreditativo del número de firmas válidas, y custodiará los pliegos originales hasta el final de la tramitación parlamentaria.
+2. Finalizada la tramitación parlamentaria, la Junta Electoral dispondrá la destrucción de los pliegos.
+Se modifica por el art. 87.7 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+## TÍTULO III
+
+Tramitación parlamentaria
+
+### Artículo 14
+
+Artículo 14. Publicación de la iniciativa.
+Tras recibir el certificado mencionado en el precepto anterior, si se han recogido las firmas exigidas, la Mesa de Les Corts ordenará la publicación de la proposición de ley en el «Butlletí Oficial de les Corts» y la tramitación posterior, de conformidad con el reglamento de la cámara.
+
+### Artículo 15
+
+Artículo 15. Criterio del Consell y toma en consideración.
+(Suprimido)
+Se suprime por el art. 87.8 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 16
+
+Artículo 16. Tramitación.
+1. Publicada la iniciativa, la proposición de ley quedará en condiciones de ser incluida en el orden del día del Pleno para su toma en consideración.
+2. Su toma en consideración por el Pleno tendrá lugar, como máximo, dentro de los 4 siguientes periodos de sesiones.
+3. El presidente de Les Corts preguntará si el Pleno toma o no en consideración la proposición de ley de que se trate. En caso afirmativo, la Mesa de Les Corts Valencianes acordará su remisión a la comisión competente y la apertura del correspondiente plazo de presentación de enmiendas, sin que sean admisibles enmiendas de totalidad.
+4. La proposición de ley, a partir de su remisión a comisión, seguirá el trámite previsto para los proyectos de ley.
+Se modifica por el art. 87.9 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 17
+
+Artículo 17. Subsistencia de iniciativas.
+1. Las iniciativas legislativas populares que se estén tramitando en Les Corts no decaerán si estas se disuelven o expira el mandato parlamentario.
+2. Una vez se hayan constituido nuevamente Les Corts, la Mesa de Les Corts ordenará reiniciar la tramitación parlamentaria a partir de la publicación de las iniciativas en el «Butlletí Oficial de les Corts» a que se refiere el artículo 14 de esta ley.
+
+## TÍTULO IV
+
+Gastos realizados
+
+### Artículo 18
+
+Artículo 18. Justificación.
+(Suprimido)
+Se suprime por el art. 87.10 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 19
+
+Artículo 19. Compensación de gastos.
+1. La comisión promotora y sus miembros, siempre que la proposición aludida haya conseguido el mínimo de firmas autenticadas que exige la presente ley, podrán solicitar a Les Corts una subvención en compensación por los gastos en que han incurrido directamente vinculados al proceso de recogida de firmas. Dicha subvención podrá ser solicitada a la Mesa de Les Corts en el plazo de tres meses desde la publicación en el Butlletí Oficial de Les Corts de la proposición de ley.
+2. Dicha subvención no excederá, en ningún caso, de los 18.000 euros y se abonará previa instrucción del correspondiente expediente y acreditación de los gastos cuya compensación se solicita.
+Se modifica por el art. 87.11 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 20
+
+Artículo 20. Actualización.
+El límite reseñado en el precepto anterior podrá ser actualizado anualmente por acuerdo de la Mesa de Les Corts.
+
+### Artículo 21
+
+Artículo 21. Previsión presupuestaria.
+Cada ejercicio económico, los presupuestos de Les Corts deberán incluir como obligación del gasto la compensación económica por las iniciativas legislativas populares que, a lo largo del ejercicio anterior, hayan llegado a ser admitidas a trámite y en el apoyo de las cuales se haya pedido el mínimo de 10.000 firmas autenticadas que exige la presente ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Web oficial.
+1. La web oficial de Les Corts creará un apartado específico para las iniciativas legislativas ciudadanas, con la normativa aplicable, una guía y un formulario o plantilla a cumplimentar por las personas promotoras, para facilitar la presentación de las iniciativas legislativas ciudadanas, entre otros posibles contenidos.
+2. Esta web contendrá el seguimiento de la tramitación de todas las iniciativas legislativas ciudadanas desde el momento de comienzo de su presentación inicial a Les Corts.
+Se modifica el apartado 2 por el art. 87.12 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adaptación del Reglamento de Les Corts.
+(Suprimida)
+Se suprime por el art. 87.13 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición transitoria única
+
+Disposición transitoria única. Iniciativas en trámite.
+Las iniciativas legislativas populares presentadas en Les Corts con anterioridad a la entrada en vigor de esta ley se regirán por lo dispuesto en la ley que estuviera vigente a fecha de su presentación en lo relativo a la legitimación, materias excluidas y recogida de firmas. En el resto de los aspectos, incluidos la tramitación parlamentaria y lo relativo a la compensación de gastos, se aplicará la presente ley.
+Se modifica por el art. 87.14 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Queda expresamente derogada la Ley 5/1993, de 27 de diciembre, de la Generalitat, reguladora de la iniciativa legislativa popular de la Comunitat Valenciana.
+2. Quedan igualmente derogadas todas las disposiciones que, del mismo rango o de un rango inferior, se opongan a esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación para el desarrollo reglamentario.
+Se faculta al Consell para dictar todas las disposiciones que requieran el desarrollo y la ejecución de esta ley, que deberán realizarse en el plazo máximo de tres meses desde la entrada en vigor de esta ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 11 de mayo de 2017.
+El President de la Generalitat,
+Ximo Puig i Ferrer.

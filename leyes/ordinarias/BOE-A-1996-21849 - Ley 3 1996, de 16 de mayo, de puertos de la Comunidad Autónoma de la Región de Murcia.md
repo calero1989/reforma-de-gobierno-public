@@ -1,0 +1,1080 @@
+# Ley 3/1996, de 16 de mayo, de puertos de la Comunidad Autónoma de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1996-21849`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-21849
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 3/1996, de 16 de mayo, de Puertos de la Comunidad Autónoma de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30, dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La Constitución española, dé 27 de diciembre de 1978, establece en su artículo 148.1.6.a que las comunidades autónomas podrán asumir competencias en materia de puertos de refugio, puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales, y en el artículo 149 reserva al Estado la competencia exclusiva sobre puertos de interés general.
+Por su parte, el Estatuto de Autonomía para la Región de Murcia, aprobado por la Ley Orgánica 4/1982, de 9 de junio, reformado por la Ley Orgánica 4/1994, de 24 de marzo, recoge en su artículo 10.1.5), como competencia exclusiva de la Comunidad Autónoma, las materias relativas a puertos de refugio, así como a puertos, helipuertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
+Con base en estas previsiones constitucionales y estatutarias, los Reales Decretos 2925/1982, de 12 de agosto; 2970/1983, de 19 de octubre, y 1595/1984, de 1 de agosto, materializan el traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de la Región de Murcia en materia de puertos.
+La asunción por parte de la Comunidad Autónoma de la Región de Murcia de competencia exclusiva en materia de puertos deportivos y puertos de refugio obliga a establecer una normativa propia y específica que, respetando un uso racional de los recursos naturales, aborde la construcción y explotación de los puertos, así como las actividades, instalaciones y construcciones permitidas en la zona de servicio portuario, acordes con el planeamiento municipal y que asegure la prestación de los servicios públicos básicos a la marina deportiva y pesquera.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Se regirán por la presente Ley la construcción y explotación de puertos e instalaciones portuarias realizadas en el litoral de la Región de Murcia, destinadas a cubrir los servicios demandados por las embarcaciones deportivas y pesqueras. Así como el uso y explotación de los ya existentes, y cuya titularidad ostenta la Comunidad Autónoma de la Región de Murcia.
+Están excluidos del ámbito de aplicación de la presente Ley los puertos e instalaciones marítimas cuya competencia exclusiva corresponde constitucionalmente al Estado.
+
+### Artículo 2
+
+Artículo 2.
+A los efectos de esta Ley se considera:
+1. Puerto regional: El recinto de agua abrigada, natural o artificialmente, así como la superficie terrestre contigua e instalaciones y accesos terrestres, que permiten realizar las operaciones requeridas por la flota pesquera y deportiva y sus usuarios con independencia de otras instalaciones portuarias.
+2. Zona portuaria de uso náutico-deportivo: La zona ubicada en un puerto ya existente que se destina a la prestación de servicios a las embarcaciones deportivas.
+3. Zona de servicio portuaria: Se considera zona de servicio portuaria al espacio formado por la superficie de agua abrigada y la superficie de terrenos que la rodea, necesarias para la realización de las actividades, instalaciones y construcciones, tendentes a la prestación de los servicios portuarios definidos en la presente Ley.
+4. Instalación náutico-deportiva: Es aquélla fija o desmontable adscrita a la Comunidad Autónoma que no reuniendo los requisitos de puertos deportivos permite el atraque de embarcaciones.
+
+### Artículo 3
+
+Artículo 3.
+Las aguas marítimas y los terrenos ocupados por tos puertos, zonas portuarias de uso náutico-deportivo y las instalaciones náutico-deportivas de la Región de Murcia constituyen bienes de dominio público marítimo-terrestre, adscritos a la Comunidad Autónoma de la Región de Murcia.
+El acceso a los mismos será libre y gratuito, sin más limitaciones que la que imponga su adecuada y correcta explotación.
+
+## TÍTULO I
+
+Planificación, proyectos y construcciones
+
+## CAPÍTULO I
+
+Planificación
+
+### Artículo 4
+
+Artículo 4.
+1. La Comunidad Autónoma de la Región de Murcia determinará, mediante los instrumentos de ordenación urbanística y medioambientales oportunos, las zonas de exclusión a efectos de cualquier intervención de las reguladas en la presente Ley y los niveles de protección y prescripciones que deberán incorporar las obras e instalaciones nuevas, según las diferentes tipologías recogidas en el artículo 2, con el objeto de asegurar:
+a) El uso racional de los recursos naturales.
+b) La debida conservación de los ecosistemas costeros.
+c) La integración de las obras e instalaciones en el medio físico.
+d) La armonización del paisaje.
+e) La compatibilidad con los sistemas generales, y demás determinaciones urbanísticas.
+2. Tendrán carácter preferente las iniciativas que tiendan a satisfacer demandas pesqueras. Las náutico-deportivas y turísticas se desarrollarán con arreglo al siguiente orden de prioridades:
+1. Zonas de uso náutico-deportivo en puertos existentes.
+2. Instalaciones náutico-deportivas.
+3. Puertos deportivos con abrigo natural.
+4. Puertos deportivos con abrigo artificial.
+3. Cuando las necesidades del sector pesquero lo requieran, la Comunidad Autónoma de la Región de Murcia determinará la inclusión en un puerto deportivo de una zona de servicio con línea de atraque para uso pesquero, dentro de un esquema de ordenación que separe adecuadamente los tráficos.
+
+### Artículo 5
+
+Artículo 5.
+1. La Comunidad Autónoma de la Región de Murcia podrá construir y explotar directamente obras e instalaciones para todos los usos de navegación, por sí misma o en colaboración con otras entidades públicas o privadas.
+2. La explotación directa por la Comunidad Autónoma de la Región de Murcia de los puertos e instalaciones náutico-deportivas se realizará a través de la Consejería de Política Territorial y Obras Públicas.
+Se modifica el apartado 1 por el art. 1.1 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica el apartado 1 por el art. 1.1 del por Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 7/1997, de 29 de octubre. Ref. BOE-A-1998-3948
+
+### Artículo 6
+
+Artículo 6.
+1. La Comunidad Autónoma de la Región de Murcia podrá otorgar concesión administrativa para la construcción y explotación de obras e instalaciones destinadas a la navegación de cualquier tipo, a personas naturales o jurídicas que previamente lo soliciten, y de acuerdo con el procedimiento establecido en la presente ley.
+Asimismo, y en los términos establecidos en la Ley de Costas y, en especial, en el artículo 49 de la misma, la Comunidad Autónoma de la Región de Murcia podrá otorgar autorizaciones para la realización de actividades acordes con los usos portuarios y que se desarrollen en zona de dominio público marítimo terrestre adscrito a la misma.
+2. Corresponderá al Consejero competente en materia de puertos el otorgamiento de las concesiones a que se refiere el punto anterior, así como, las posibles prórrogas y ampliaciones de plazo.
+Corresponderá al director general con competencias en materia de litoral el otorgamiento de las autorizaciones.
+3. En la zona de servicio de los puertos, de las zonas portuarias de uso náutico-deportivo e instalaciones náutico-deportivas pueden llevarse a cabo actividades, instalaciones y construcciones ajustadas al destino propio de cada puerto, zona portuaria de uso náutico-deportivo e instalación náutico-deportiva y también todas las que sean complementarias de las actividades esenciales.
+4. En la zona de servicio también se pueden autorizar usos e instalaciones comerciales, culturales, deportivas, lúdicas y recreativas vinculadas con la actividad portuaria o marítima que favorezcan el equilibrio económico y social de los puertos, zonas portuarias de uso náutico-deportivo e instalaciones náutico-deportivas.
+5. En el dominio público portuario adscrito puede autorizarse la instalación de señales informativas y rótulos indicadores de establecimientos o empresas autorizadas por la Administración portuaria y los que correspondan a la realización de determinados actos deportivos y culturales de carácter temporal, convenientemente autorizados.
+6. Las personas titulares de autorizaciones o concesiones para la utilización del dominio público portuario quedan obligadas a informar a la Administración portuaria de las incidencias que produzca tal utilización y a cumplir con las instrucciones que dicha Administración les dicte.
+Se modifican los apartados 1 y 2 por el art. 1.1 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifican los apartados 1, 2 y se añade el 6 por el art. 1.2 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifican los apartados 1, 2 y se añade el 6 por el art. 1.2 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifican los apartados 2 y 5 por el art. 1 de la Ley 1/2007, de 1 de marzo. Ref. BOE-A-2008-12491
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 7
+
+Artículo 7.
+1. Las concesiones para la instalación y explotación de las infraestructuras relacionadas en el artículo 2 de la presente ley, se tramitarán de acuerdo con lo previsto en la vigente Ley de Contratos del Sector Público.
+2. Las concesiones y autorizaciones para la prestación de los servicios públicos básicos que seguidamente se detallan, se adjudicarán mediante concurso público, salvo que se trate de su instalación en un espacio concesional previamente otorgado, en cuyo caso se adjudicarán directamente al titular de dicha concesión.
+Son servicios públicos básicos los siguientes:
+a) La utilización de los lugares de amarre o anclaje de uso público tarifado y
+b) El servicio de varada.
+c) La utilización de grúas y de otros elementos de transporte.
+d) El suministro de agua, electricidad y carburantes.
+e) La utilización de las zonas de aparcamiento de vehículos establecidas en los espacios portuarios.
+f) Los otros servicios portuarios que se determinen por vía reglamentaria.
+3. Las concesiones y autorizaciones para la prestación de otros servicios diferentes a los del apartado anterior, o para la realización de otras actividades en zona portuaria fuera del espacio concesional previamente otorgado se podrán adjudicar directamente al solicitante o mediante la convocatoria de un concurso, siempre que su objeto no entorpezca la prestación de los servicios básicos y los usos sean compatibles con la legislación sectorial aplicable.
+En el primer caso, presentada una solicitud a la que se acompañará la documentación exigida por el artículo 8 de esta Ley, se iniciará un trámite de competencia de proyectos, mediante anuncios que se publicarán en el Boletín Oficial de la Región de Murcia y en dos periódicos de mayor difusión regional, indicándose la apertura de un plazo de un mes para la presentación de otras solicitudes que tengan el mismo objeto.
+El titular de la Consejería competente en materia de puertos, a propuesta del Director General de Transportes y Puertos, seleccionará aquel proyecto de entre los presentados que conlleve una mejora del canon, menor superficie ocupada, mayor coste de la inversión a efectuar, la funcionalidad de las obras que se proponen, su adaptación al medio, la originalidad del proyecto, la máxima compatibilidad con otros usos portuarios y cualesquiera otros extremos de similar naturaleza que favorezcan los intereses del puerto.
+Seleccionado un proyecto se continuará con los trámites previstos en los artículos 8 y siguientes de esta Ley.
+4. Cuando el solicitante de una concesión o autorización administrativa sea un organismo de la Administración pública regional o de su Administración institucional, un ayuntamiento o un organismo público dependiente de este, o un organismo o entidad dependiente de la Administración del Estado, o una entidad sin ánimo de lucro, aquellas podrán ser otorgadas de forma directa sin necesidad de acudir a los procedimientos de concurrencia establecidos en los apartados anteriores, no pudiendo en este caso transmitir a un particular dicha concesión.
+Lo anterior no será de aplicación cuando el objeto concesional esté comprendido en los supuestos relacionados en los puntos 1 y 2 de este artículo, con la excepción del 2.2.b).
+5. Si la convocatoria de un concurso para el otorgamiento de concesión o autorización se produjese durante la tramitación de una solicitud de concesión o autorización, el interesado tendrá derecho, en caso de no resultar adjudicatario del título, al cobro de los gastos de elaboración del proyecto, que serán fijados en las bases del concurso según estimación efectuada por la Administración, siempre que el anteproyecto y el estudio de viabilidad fueran aprovechados por la Administración en el expediente de licitación.
+6. El concurso podrá declararse desierto si ninguna de las ofertas presentadas reúne las condiciones adecuadas.
+7. La Administración no está obligada a otorgar los títulos de utilización del dominio público portuario que se soliciten con arreglo a las determinaciones del plan o normas aprobadas, pudiendo ser denegadas.
+Se modifica el apartado 4 por el art. 1.2 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifican los apartados 1 y 4 por el art. 1.3 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifican los apartados 1 y 4 por el art. 1.3 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+## CAPÍTULO II
+
+Proyectos
+
+## Sección 1
+
+Sección 1.ª Autorizaciones y concesiones en dominio público marítimo-terrestre adscrito a la Comunidad Autónoma
+
+### Artículo 8
+
+Artículo 8.
+1. Los interesados en realizar cualquiera de las actuaciones en el ámbito territorial previsto en esta sección deberán presentar la correspondiente solicitud, acompañada de memoria descriptiva, proyecto básico o de construcción, en su caso, del resguardo acreditativo de la prestación de la fianza provisional, de una memoria económico-financiera, y, en el caso de construcción de las obras públicas el correspondiente estudio de viabilidad que se refiere el artículo 247 de la Ley de Contratos del Sector Público.
+2. La memoria descriptiva o el proyecto deberán describir con suficiente grado de detalle la actuación a realizar, para lo que incluirá como mínimo:
+La descripción de la actividad.
+La extensión de la zona de dominio público marítimo-terrestre o portuario a ocupar.
+Las características básicas de las obras e instalaciones.
+La valoración de las obras e instalaciones.
+En caso de contener elementos estructurales o que comporten alguna complejidad técnica, deberá estar suscrito por técnico competente.
+3. La fianza provisional será del 2 por 100 del presupuesto estimado de las obras e instalaciones a realizar.
+Otorgada la concesión o autorización, se constituirá la fianza definitiva, elevando la provisional al 5 por 100 del presupuesto de las obras e instalaciones.
+El interesado perderá la fianza constituida si desistiera de la petición o renunciara al título.
+Los peticionarios que, habiendo prestado fianza provisional, no hubieran obtenido la concesión o la autorización, podrán solicitar la devolución de la misma.
+La fianza definitiva será devuelta al año de la aprobación del reconocimiento de las obras, salvo en los supuestos de renuncia y caducidad, con deducción de las cantidades que, en su caso, deban hacerse efectivas en concepto de penalidades y responsabilidades en que haya podido incurrir el concesionario.
+El derecho a la devolución de las fianzas prescribirá si no ha sido solicitada en el plazo de cinco años, a partir del momento en que sea procedente.
+4. La memoria económico-financiera contendrá los costes de construcción y explotación, incluidos los gastos financieros, el porcentaje contable de amortización de los activos y el beneficio neto empresarial, antes de impuestos, para cada año de la concesión o autorización; y el detalle de las tarifas o precios máximos a cobrar a los usuarios de los diferentes servicios e instalaciones, así como su forma de actualización o revisión.
+En las solicitudes de autorización de ocupación de dominio público portuario de temporada, con plazo inferior al año, la memoria económico-financiera podrá limitarse al siguiente contenido:
+a) Relación pormenorizada de todos los costes e ingresos estimados de la actividad a desarrollar.
+b) Beneficio neto estimado, antes de impuestos, para el periodo de la autorización.
+c) Coste de la inversión a realizar.
+Se modifican los apartados 1 y 2 por el art. 1.4 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifican los apartados 1 y 2 por el art. 1.4 delDecreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifican los apartados 1 y 4 por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 9
+
+Artículo 9.
+1. Examinada la petición, si el contenido del proyecto se opone de manera notoria a lo dispuesto en las disposiciones vigentes, se acredita su inviabilidad o existen razones de interés público debidamente motivadas, se denegará y archivará, sin más trámite que la audiencia previa al peticionario.
+2. Para continuar la tramitación del expediente se requerirán aquellos informes preceptivos establecidos por la legislación sectorial que le sea de aplicación. Los informes citados se deberán emitir en el plazo de 20 días.
+Transcurrido dicho plazo sin haberse evacuado, proseguirá la tramitación del expediente en el caso de que los mismos no sean vinculantes.
+3. Simultáneamente con la petición de los informes citados, se abrirá en los expedientes de concesión y en los de autorización que impliquen obras de dragado o que la Comunidad Autónoma estime conveniente, un periodo de información pública durante un plazo de 20 días.
+Aquellos proyectos que por su naturaleza requieran someterse a evaluación de impacto ambiental, adaptarán su tramitación al procedimiento establecido en la legislación medioambiental vigente.
+4. El órgano competente resolverá sobre la solicitud fijando las condiciones de otorgamiento, que notificará al peticionario para que, en 10 días naturales manifieste su aceptación. Si no hiciere manifestación alguna o no aceptara las condiciones ofertadas, se declarará concluido el expediente por desistimiento del peticionario, con pérdida de la fianza constituida.
+Se modifica el apartado 3 por el art. 1.3 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifica el apartado 2 por el art. 1.5 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica el apartado 2 por el art. 1.5 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 9 bis
+
+Artículo 9 bis.
+1. El concesionario que desee continuar la explotación del puerto, zona o instalación náutico-deportiva más allá del plazo de la concesión puede solicitar a la Administración portuaria, una vez transcurridas las dos terceras partes del plazo de la concesión, la adjudicación de una nueva concesión administrativa.
+2. Si se produce la solicitud a que se refiere el apartado 1, salvo que la Administración portuaria opte por alguna forma de gestión directa, se anunciará en el Boletín Oficial de la Región de Murcia, a fin de que en el plazo de 6 meses puedan presentar otras solicitudes terceras personas interesadas en la gestión. Transcurrido este plazo, se convocará un concurso entre quienes hubieran presentado solicitud para la adjudicación de la concesión.
+Para la participación en dicho concurso se tendrán en cuenta los criterios de la Ley de Contratos de las administraciones públicas, entre otros, el de solvencia técnica.
+En este concurso se otorgará un derecho de tanteo al antiguo concesionario, siempre que cumpla los requisitos siguientes:
+a) No haber incurrido en incumplimiento de las cláusulas de la concesión.
+b) Haber gestionado satisfactoriamente la instalación durante el plazo de la concesión, y haber procedido a corregir las deficiencias observadas por la Administración, de la forma y en los plazos indicados por ésta.
+3. En el caso de que el concurso no se resuelva a favor del antiguo concesionario, éste no mantiene ningún derecho sobre la concesión, y se aplica a todos los efectos el régimen que esté determinado al finalizar el plazo de la concesión.
+4. Si el adjudicatario del concurso no acepta las condiciones de gestión y explotación establecidas por la Administración, se iniciarán las gestiones necesarias encaminadas a otorgar la concesión al siguiente clasificado, sin que haya que convocar un nuevo concurso.
+Se añade por el art. 2 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+## Sección 2
+
+Sección 2.ª Concesiones que impliquen nueva ocupación del dominio público marítimo-terrestre
+
+### Artículo 10
+
+Artículo 10.
+Cuando las solicitudes presentadas impliquen nuevas adscripciones de bienes de dominio público marítimo-terrestre a la Comunidad Autónoma de la Región de Murcia, para la construcción de nuevos puertos, instalaciones portuarias, o de ampliación o modificación de los ya existentes, el expediente se tramitará de conformidad con el procedimiento que al efecto establece la Ley 22/1988, de 28 de julio, de Costas, y su Reglamento General de desarrollo y ejecución.
+
+## CAPÍTULO III
+
+Construcciones
+
+### Artículo 11
+
+Artículo 11.
+1. La Administración Regional así como el resto de organismos públicos implicados en las acciones y actividades reguladas en este capítulo, actuarán conforme a criterios de sostenibilidad y ecoeficacia y tendrán en cuenta los posibles efectos del cambio climático sobre el dominio público portuario, adoptando cuantas medidas fueran necesarias para evitar daños al patrimonio cultural y al medio ambiente.
+La Administración portuaria, en caso de que, en coordinación con la administración competente en materia de cambio climático, realice una diagnosis sobre los efectos del cambio climático en el sistema portuario, puede requerir a los gestores de las infraestructuras portuarias que evalúen cuáles son dichos efectos en la infraestructura, los servicios y las operaciones portuarias.
+La Administración portuaria, de acuerdo con la normativa en materia de cambio climático, puede requerir a los gestores de las infraestructuras portuarias que elaboren estudios técnicos sobre el cambio del clima marítimo y su efecto en las infraestructuras, en los servicios y las operaciones portuarias.
+Si de los estudios a los que se refiere el párrafo anterior se deriva la necesidad de efectuar obras o actuaciones esenciales para garantizar la seguridad de la infraestructura, los servicios y las operaciones no previstas en el título o contrato concesional original, el departamento competente en materia de puertos debe exigir a la empresa concesionaria su ejecución, con el correspondiente reequilibrio económico, si procede, de acuerdo con la inversión prevista.
+2. Las obras se ejecutarán conforme al proyecto de construcción que deberá aprobarse antes del inicio de estas, pudiendo el peticionario presentarlo con su solicitud.
+3. Los puertos deportivos emplazados en el Mar Menor deberán obtener el distintivo de "puerto sostenible" en un plazo no inferior a 2 años. El cuidado del medio ambiente a través del fomento del reciclaje de residuos, la eficiencia energética y la eliminación de emisiones contaminantes será de esta forma obligatoria en los puertos deportivos ubicados en el Mar Menor, que tendrá que ser un espacio libre de hidrocarburos, aguas negras y grises, y de contaminación acústica reducida. Los puertos del Mar Menor deberán por tanto disponer de sistemas de recogida y tratamiento de todas las aguas sucias que se generen en el puerto, en los aseos, en las zonas de limpieza y pintura de embarcaciones e incluso en las propias embarcaciones, así como de papeleras y ecopuntos de recogida selectiva. Asimismo, las embarcaciones de primera matriculación que naveguen en el Mar Menor deberán disponer de un certificado ECO y no podrán navegar en estas aguas las embarcaciones y motos acuáticas con motores de dos tiempos de carburación, las de alta velocidad, y las que emitan altos niveles de ruido. También se prohíbe el fondeo de embarcaciones y la colocación de elementos de amarre, salvo fondeaderos ecológicos debidamente autorizados. El distintivo deberá ser renovado de forma anual.
+Se modifica por el art. 1.6 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.6 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 12
+
+Artículo 12.
+En el título de otorgamiento de la concesión se fijarán las condiciones pertinentes para la ejecución de la obra y la prestación del servicio público y, en todo caso, las siguientes:
+a) Objeto y extensión de la ocupación.
+b) Obras o instalaciones a realizar por el adjudicatario con referencia al proyecto respectivo.
+c) Plazo de comienzo y terminación de las obras.
+d) Plazo por el que se otorga la concesión. El plazo máximo de duración de las concesiones de obra pública y de las concesiones demaniales no podrá exceder del previsto en la legislación estatal reguladora del contrato de concesión de obra pública y en la de régimen económico y de prestación de servicios de los puertos, respectivamente.
+e) Cánones y tasas a abonar por el adjudicatario.
+f) Régimen de utilización, pública o privada, incluyendo en su caso las tarifas a abonar por el público, con descomposición de sus factores constitutivos como base de futuras revisiones.
+g) En los casos de utilización lucrativa, obligación del adjudicatario de facilitar cuanta información le solicite la Administración sobre los resultados económicos de la explotación.
+h) Condiciones que como resultado de la evaluación de impactos, se consideren necesarias para no perjudicar al medio.
+i) Señalización marítima y de las zonas de uso público, de conformidad con las previsiones establecidas por el organismo competente en la materia.
+j) Obligación del adjudicatario de mantener en buen estado el dominio público, obras e instalaciones.
+k) Obligación del adjudicatario de constituir un depósito suficiente para los gastos de reparación o levantamiento y retirada, parcial o total, de las obras e instalaciones, a su costa, a la extinción del título correspondiente, salvo decisión en contrario de la Administración competente.
+l) Causas de caducidad, conforme a las establecidas en el artículo 24.
+m) Prescripciones técnicas al proyecto, en su caso.
+n) Terrenos, obras e instalaciones sujetos a reversión.
+ñ) Obligación del titular de la concesión de reparar los daños que puedan causarse en la costa o playas.
+Se modifica la letra d) por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 13
+
+Artículo 13.
+1. La realización de obras e instalaciones en un puerto que no estén incluidas en el proyecto de construcción aprobado deben ser previamente autorizadas por la Consejería de Política Territorial y Obras Públicas.
+2. A la solicitud se le unirá proyecto de construcción o instalación a realizar.
+3. Los proyectos de ampliación que modifiquen sustancialmente la configuración y los límites exteriores del puerto deportivo deberán incluir un estudio de impacto ambiental cuando por la importancia de la actuación sean susceptibles de modificar o alterar de forma notable el medio ambiente.
+4. En la tramitación de los expedientes de ampliación o modificación, se observarán las normas que les sean de aplicación contenidas en el título I de la presente Ley.
+
+### Artículo 14
+
+Artículo 14.
+El plazo de la concesión comenzará a contar desde el día siguiente a la fecha de notificación del otorgamiento de la misma.
+Se modifica por el art. 1.4 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+## TÍTULO II
+
+Régimen y explotación
+
+## CAPÍTULO I
+
+Concesiones
+
+### Artículo 15
+
+Artículo 15.
+1. La explotación y conservación de las concesiones otorgadas por la Comunidad Autónoma estará a cargo del adjudicatario del título concesional.
+2. La celebración de contratos entre el concesionario y otra persona física o jurídica para la gestión de la concesión, o parte de ella, deberán ser sometidos a aprobación de la Consejería de Política Territorial y Obras Públicas, que los denegará si del perfeccionamiento pudiera derivarse la división efectiva de aquélla o suponga menoscabo para la explotación.
+3. Los gestores y usuarios por cualquier título, de la concesión quedarán obligados por las prescripciones que rigen para la misma.
+
+### Artículo 16
+
+Artículo 16.
+1. La ocupación o aprovechamiento del dominio público portuario en virtud de una concesión, devengará el correspondiente canon a favor de la Administración regional.
+2. Las concesiones otorgadas por la Comunidad Autónoma de la Región de Murcia que impliquen una previa concesión de ocupación del dominio públicoterrestre otorgada por la Administración del Estado, devengarán además del canon de ocupación a favor del Estado, un canon de ocupación o aprovechamiento por las obras e instalaciones a ejecutar, a favor de la Administración regional. Para su cálculo no se tendrá en consideración el valor de la superficie ocupada.
+3. Están obligados al pago del canon, en la cuantía y condiciones que se determinan en esta Ley, los titulares de las concesiones antes mencionadas.
+4. La base imponible del canon establecido en el punto primero del presente artículo será el valor unitario del bien ocupado o aprovechado por la superficie y el tiempo solicitado. El tipo de gravamen será el 4% sobre el valor de la base, por lo que el canon vendrá dado por la siguiente expresión:
+Canon= 0,04 x Vu x S x T
+donde:
+Vu= valor unitario del bien ocupado o aprovechado (€/m2/día). Este valor se aprobará por Orden del Consejero de Fomento e Infraestructuras.
+S= Superficie ocupada (en m2)
+T= periodo de tiempo solicitado (en días)
+No obstante lo anterior, en el caso de concesiones que tengan por objeto la construcción y/o explotación de un puerto deportivo, zona portuaria de uso náutico-deportivo o instalación náutica deportiva, la cuantía del canon de ocupación o aprovechamiento se calculará mediante la siguiente expresión:
+C = B x S x K1 x K2
+Conceptos:
+1) C= Canon anual de ocupación o aprovechamiento.
+2) B= Valor base (€/m2). Este valor se aprobará por Orden del Consejero de Fomento e Infraestructuras.
+3) S= Superficie total de atraque en m2. Se entiende por superficie de atraque la que figure en el estudio de viabilidad o documento que lo sustituya y que sirva de base a la Administración para la licitación de la concesión del correspondiente puerto.
+Para su cálculo se tendrán en cuenta las siguientes consideraciones:
+a) Las dimensiones de las diferentes embarcaciones se ajustarán a las siguientes dimensiones tipo:
+Eslora embarcación admisible(e)
+ Eslora asignada
+ Manga asignada
+ E ≤ 6 m
+ 6 m
+ 2,4 m
+ 6 m < E ≤ 8 m
+ 8 m
+ 3,0 m
+ 8 m < E ≤ 10 m
+ 10 m
+ 3,5 m
+ 10 m < E ≤ 12 m
+ 12 m
+ 4,0 m
+ 12 m < E ≤ 15 m
+ 15 m
+ 4,5 m
+ 15 m < E ≤ 18 m
+ 18 m
+ 5,0 m
+ 18 m < E ≤ 21 m
+ 21 m
+ 5,5 m
+ 21 m < E ≤ 24 m
+ 24 m
+ 6,0 m
+ 24 m < E ≤ 30 m
+ 30 m
+ 6,5 m
+b) En el caso de marinas secas, los m² se corresponden con la superficie ocupada en planta por las estanterías multiplicado por el número de alturas más uno.
+c) Los m2 de atraque totales serán la suma de los m2 de atraque a pantalanes + m2 de atraque a muelles + (m2 en marinas secas*0,5).
+4) K1=0,65 cuando S>10.000 m2
+K1=1 cuando S≤10.000 m2
+5) K2=1-[0,60xI/12.000.000]
+K2=0,4 cuando I>12.000.000 €
+Siendo “I” la inversión en euros, IVA excluido, que figure en el estudio de viabilidad o documento que lo sustituya y que sirva de base a la Administración para la licitación de la concesión del correspondiente puerto.
+Cuando las actividades a desarrollar, distintas de las relacionadas directamente con los lugares de amarre, tengan carácter comercial y lucrativo, se devengará, además, un canon de explotación. El carácter comercial y lucrativo de toda concesión vendrá determinado por la obtención o no de beneficios, con independencia de la personalidad jurídica del concesionario.
+La base imponible del canon de explotación será el importe estimado de los beneficios netos anuales, antes de impuestos, que sea previsible obtener en la utilización del dominio público durante el periodo concesional. La estimación de dichos beneficios se realizará, para los dos primeros años, teniendo en cuenta el estudio económico-financiero que facilite el solicitante de la concesión. En los siguientes años se realizará sobre la base de las informaciones y documentos que, previo requerimiento de la Administración, deberán ser aportados por el concesionario. En ningún caso esta estimación será inferior al 20% del importe de la inversión, a realizar por el solicitante.
+El tipo de gravamen del canon de explotación será el 5% sobre el valor de la base.
+5. La base imponible del canon establecido en el apartado segundo del presente artículo será el valor de las obras e instalaciones susceptibles de explotación y aprovechamiento.
+El tipo de gravamen será el 1,5 por ciento sobre el valor de la base imponible.
+Cuando las actividades a desarrollar, tengan carácter comercial y lucrativo se devengará, además, un canon de explotación. La base imponible será, en este caso, el importe estimado de los beneficios netos anuales, antes de impuestos que sea previsible obtener en la utilización del dominio público durante el periodo concesional. La estimación de dichos beneficios se realizará, para los dos primeros años, teniendo en cuenta el estudio económico-financiero que facilite el solicitante de la concesión. En los siguientes años se realizará sobre la base de las informaciones y documentos que, previo requerimiento de la Administración, deberán ser aportados por el concesionario. En ningún caso esta estimación será inferior al veinte por ciento del importe de la inversión a realizar por el solicitante.
+El tipo de gravamen del canon de explotación será el 5 por ciento sobre el valor de la base.
+6. Los cánones de ocupación o de aprovechamiento y de explotación por la concesión para explotación de instalaciones propias del sector pesquero podrán tener una reducción de hasta el 90 % cuando el titular de la autorización sea una cofradía de pescadores.
+Por la autoridad portuaria se podrá establecer la exención total de los cánones anteriores cuando el titular de la concesión sea una cofradía de pescadores. Para que pueda establecerse la procedencia de la citada exención será preciso que se realicen por parte de la citada cofradía desembolsos o contribuciones que redunden en la mejora del dominio público desde el punto de vista de las instalaciones y/o espacio concedido, la eficiencia energética, la mejora de las condiciones medioambientales, la eficiencia en el uso de los espacios, la creación de empleo, la promoción de la cultura de la pesca tradicional, y similares, siendo por ello consideradas de interés portuario por la Administración.
+Los titulares de las embarcaciones de pesca pertenecientes a una cofradía de pescadores de un puerto podrán tener una reducción de hasta el 75 % del canon de ocupación o aprovechamiento y de explotación por la autorización de instalaciones portuarias en dicho puerto. Asimismo, podrán tener una reducción de hasta el 50 % las actividades industriales relacionadas con el sector acuícola que sean relevantes para este sector primario, por la creación de empleo, por las inversiones que generen, o por su interés para la promoción de la acuicultura regional, previo informe justificativo de la consejería competente en materia de acuicultura.
+Se podrá establecer una reducción adicional de hasta el 40 % sobre la anterior cuando se justifiquen pérdidas como consecuencia de acontecimientos climatológicos extraordinarios o quebrantos que por su violencia, imprevisibilidad y ajenidad a la conducta humana puedan ser constitutivos de fuerza mayor. Esta reducción adicional se aplicará previa solicitud razonada del sujeto pasivo y no se reflejará en ningún caso en el título de otorgamiento.
+Se podrá aplicar una reducción de hasta un 40 % de los cánones de ocupación y/o explotación al sector industrial y hostelero portuario, y a las actividades auxiliares vinculadas a la náutica deportiva, cuando se justifiquen pérdidas como consecuencia de acontecimientos climatológicos extraordinarios o quebrantos que por su violencia, imprevisibilidad y ajenidad a la conducta humana puedan ser constitutivos de fuerza mayor. Esta reducción se aplicará previa solicitud razonada del sujeto pasivo, justificada documentalmente, y será aplicable, entre otros, a los siguientes sujetos pasivos:
+a) Las personas físicas o jurídicas ocupantes de naves, edificios o locales cuyo título tenga por objeto exclusivo la actividad de suministros navales, talleres y similares.
+b) Las personas físicas o jurídicas ocupantes de naves y explanadas cuyo título tenga por objeto exclusivo la actividad de varadero y marina seca de embarcaciones.
+c) Las personas físicas o jurídicas ocupantes de locales, edificios y explanadas cuyo título tenga por objeto exclusivo la actividad de hostelería.
+d) Las personas físicas o jurídicas ocupantes de explanadas cuyo título tenga por objeto exclusivo la actividad de gestión de aparcamientos.
+e) Las personas físicas o jurídicas ocupantes de locales, naves o instalaciones desmontables cuyo título tenga por objeto exclusivo actividades relacionadas con el transporte de pasajeros, con la formación y el aprendizaje náutico deportivo.
+Los concesionarios de puertos deportivos, zonas portuarias de uso náutico deportivo e instalaciones náutico-deportivas, podrán obtener una reducción de hasta un 40 % del canon de ocupación y/o explotación, cuando justifiquen la aplicación en su ámbito de las reducciones señaladas en el párrafo anterior. Las reducciones deben ser aplicadas a sus usuarios en las condiciones establecidas para quienes posean títulos que legitimen para la ocupación o aprovechamiento en los puertos gestionados directamente por la Comunidad Autónoma de la Región de Murcia, y que se detallan anteriormente.
+Será requisito necesario para obtener las bonificaciones previstas en este punto que el concesionario se encuentre al corriente en el cumplimiento de todas las obligaciones derivadas de la concesión.
+7. Estarán exentas del pago de los cánones de ocupación o aprovechamiento y de explotación, las ocupaciones realizadas por la Cruz Roja Española, dedicadas a las labores propias que tiene encomendadas esta institución, así como las ocupaciones dedicadas a la realización de actividades que sean calificadas por la Consejería competente en materia de puertos, de relevante interés humanitario o interés social.
+8. Los cánones de ocupación y aprovechamiento y de explotación podrán ser revisados como consecuencia de variaciones de costes, con sujeción a lo establecido por el ordenamiento jurídico y, en su caso, en la forma determinada en el título correspondiente.
+9. El canon de ocupación o aprovechamiento se devengará a partir de la fecha de notificación de la resolución de otorgamiento de la concesión. El canon de explotación se devengará a partir de la fecha de inicio de la explotación.
+10. La consejería competente en materia de puertos, en el concurso que se convoque para el otorgamiento de una concesión en un puerto deportivo, zona portuaria de uso náutico-deportivo o instalación náutico deportiva, o durante la vigencia de dichas concesiones a solicitud del concesionario, podrá determinar que el canon de ocupación o aprovechamiento a satisfacer a la Administración regional se efectúe en una parte que no exceda del 35% del total del canon inicial, a través de obras de mejora que sean consideradas de interés portuario por la Administración, aunque no se encuentren estrictamente dentro del recinto portuario, o de desembolsos o contribuciones regulares al mantenimiento de infraestructuras estratégicas para el desarrollo económico de la Región de Murcia, ya sean vías de comunicación terrestres en los entornos portuarios (viales, puentes, y otros de análoga naturaleza) como marítimas (canales, golas) necesarios para la navegación, excluyéndose aquellas destinadas a usos comerciales y de restauración, y siempre que no se trate de obras de conservación y mantenimiento a las que está obligado el concesionario.
+Dicha valoración se aprobará por el órgano concedente, en su caso, previo informe técnico que tendrá en cuenta el importe de las obras a ejecutar y el plazo de vencimiento de la concesión, en función de la valoración de las referidas obras de mejora.
+Igualmente, durante la vigencia de dichas concesiones el importe anual del canon de ocupación a satisfacer a la Administración regional podrá reducirse hasta un 35% cuando el concesionario realice regatas o actividades para el fomento de los deportes náuticos vinculados al turismo y/o promoción de la sostenibilidad y lucha contra el cambio climático.
+En aquellos casos en que el concesionario devengue además un canon a la Administración del Estado por ocupación del dominio público marítimo-terrestre adscrito, vinculado a la concesión y no le resulte de aplicación una reducción de canon por dicha Administración del Estado, de conformidad con la legislación de costas, el importe del canon anual de ocupación a satisfacer a la Administración regional podrá reducirse un 50%.
+Para la aplicación de las reducciones contempladas en los dos párrafos anteriores, el concesionario, anualmente y durante la última quincena del mes de noviembre, deberá presentar para su aprobación un calendario de regatas o actividades para el fomento de los deportes náuticos vinculados al turismo, promoción de la sostenibilidad y lucha contra el cambio climático.
+El calendario deberá ser aprobado por resolución por la dirección general competente en materia de puertos en el plazo de un mes, entendiéndose esta favorable si no se emite en el plazo citado. La justificación del cumplimiento de dicho calendario con los datos y documentos requeridos deberá presentarse semestralmente ante la Administración competente en materia de puertos. En el caso de que el concesionario no justifique la realización de las actividades, le será girado el importe de la reducción indebida del canon, en el siguiente semestre.
+11. Cuando la Consejería competente en materia de puertos convoque concursos para el otorgamiento de concesiones, los pliegos de bases podrán contener entre los criterios para su resolución, la mejora de los cánones.
+12. Las cesiones de derechos de usos de amarre en los puertos gestionados en régimen de concesión se otorgarán con carácter personal a un solo titular para una embarcación.
+Los derechos de uso de los amarres no perduran en ningún caso más allá del plazo correspondiente al título concesional.
+Estas cesiones quedan condicionadas al cumplimento de los siguientes requisitos:
+a) La cesión se instrumentará en documento público o privado, y se comunicará anualmente a la dirección general competente en materia de puertos.
+b) El cedente debe tener su título inscrito previamente en el registro de usuarios de amarres de embarcaciones de recreo gestionado por el concesionario.
+c) Deberá acreditarse ante el tenedor del registro que está al corriente de las tasas y cuotas de mantenimiento portuarias y su compromiso a liquidar los tributos a que quede sujeta la operación de cesión.
+Los concesionarios de puertos deportivos, zonas portuarias de uso náutico-deportivo e instalaciones náutico-deportivas tienen derecho a exigir al cedente por su intervención hasta un 1% del precio del contrato, sin perjuicio de los derechos de traspaso que se hayan pactado en el contrato.
+Los derechos de uso de puntos de amarre gestionados directamente por la Comunidad Autónoma tendrán una duración máxima de un año, renovable en períodos iguales.
+13. Todos los puertos deportivos, zonas portuarias de uso náutico-deportivo e instalaciones náutico-deportivas en régimen de concesión, deberán llevar un registro actualizado de los usuarios de amarres, y, en especial, de las transmisiones de los derechos de uso sobre ellos.
+El registro de usuarios de amarre es el instrumento de publicidad para la gestión de los amarres en los puertos deportivos, zonas portuarias de uso náutico-deportivo e instalaciones náutico-deportivas, sujetas a concesión administrativa.
+La inscripción de los usuarios es preceptiva y se regulará mediante orden de la Consejería competente en materia de puertos.
+Cualquier interesado en la adquisición de un derecho de uso de amarre podrá exigir al transmitente que aporte en el momento de la venta certificado del concesionario sobre la titularidad de dicho derecho, que sobre el mismo no hay cargas o trabas, y que está al corriente de las cuotas de mantenimiento.
+Los cambios de titularidad y de características que puedan producirse deberán reflejarse en el asiento correspondiente.
+Se modifica el apartado 6 por la disposición final 2.1 de la Ley 4/2023, de 28 de diciembre. Ref. BOE-A-2024-2045
+ Se modifican los apartados 4 y 8 por la disposición final 16.1 y 2 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#df-16
+ Se modifican los apartados 4 y 6 por el art. 1.5 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifican los apartados 4, 6, 10, 12 y 13 por el art. 1.7 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifican los apartados 4, 6, 10 y se añaden los apartados 12 y 13 por el art. 1.7 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifican los apartados 4 y 10 por el art. ún¡co.1 de la Ley 3/2017, de 14 de febrero. Ref. BOE-A-2017-2469
+ Se modifica el apartado 6 por el art. 7.1 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+ Se modifica el apartado 4 por el art. 5 de la Ley 3/2012, de 24 de mayo. Ref. BOE-A-2013-1788
+ Téngase en cuenta su aplicación la disposición transitoria 2 de la citada ley.
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+ Téngase en cuenta la disposición transitoria 1 de la citada ley, para la aplicación del apartado 6.
+ Se modifican los apartados 4, 5 y 6 por el art. 8.1 a 3 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 17
+
+Artículo 17.
+1. Las concesiones se otorgarán sin perjuicio de tercero y dejando a salvo los derechos preexistentes.
+2. El plazo será el que se determine en el título correspondiente, de conformidad con lo previsto en el artículo 12, apartado d).
+Se modifica el apartado 2 por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 18
+
+Artículo 18.
+La aprobación técnica de los proyectos llevará implícita la declaración de utilidad pública y la necesidad de ocupación de los bienes y adquisición de derechos, a los fines de expropiación forzosa y ocupación temporal.
+
+### Artículo 19
+
+Artículo 19.
+Los bienes y derechos expropiados se incorporan al dominio público marítimo-terrestre desde su ocupación, en la forma prevista en el título concesional, sin que el primer concesionario esté obligado al pago del canon de ocupación por los terrenos expropiados a su costa para su incorporación a la concesión.
+
+### Artículo 20
+
+Artículo 20.
+1. Las concesiones se inscribirán en el Registro de la Propiedad.
+2. Extinguida la concesión, la inscripción será cancelada de oficio o a petición de la Administración o del interesado.
+
+### Artículo 21
+
+Artículo 21.
+1. La concesión, otorgada por la Comunidad Autónoma de la Región de Murcia en el dominio público portuario, podrá transmitirse por actos ínter vivos, previa autorización de la Administración, que tendrá derecho de tanteo y retracto, debiendo ejercer el de tanteo en el plazo de tres meses y el de retracto en el de un año, ambos a contar desde la correspondiente notificación, que comprenderá las condiciones esenciales de la transmisión.
+2. La constitución de hipotecas y otros derechos de garantía sobre las concesiones deberá ser autorizada por la Administración regional.
+3. En los supuestos de adjudicación de la concesión mediante remate judicial, la Administración podrá ejercer el derecho de retracto en el plazo de tres meses, a contar desde el momento en que aquélla tenga conocimiento de la adjudicación.
+4. En caso de fallecimiento del concesionario, sus causahabientes, a título de herencia o legado, podrán subrogarse en los derechos y obligaciones de aquél en el plazo de un año. Transcurrido dicho plazo sin manifestación expresa a la Administración concedente, se entenderá que renuncian a la concesión.
+
+### Artículo 22
+
+Artículo 22.
+La concesión podrá ser modificada:
+a) Cuando se hayan alterado los supuestos determinantes de su otorgamiento.
+b) En caso de fuerza mayor a petición del titular.
+c) Cuando lo exija su adecuación a los planes o normas urbanísticas, en cuyo caso el concesionario perjudicado tendrá derecho a una indemnización, de conformidad con lo dispuesto en el artículo 89 de la Ley de Costas o supletoriamente en la legislación general de expropiación forzosa.
+
+### Artículo 23
+
+Artículo 23.
+La concesión se extinguirá por alguna de las siguientes causas:
+a) Vencimiento del plazo de otorgamiento.
+b) Revisión de oficio en los casos previstos en la Ley 30/1992, de 26 de noviembre.
+c) Revocación por alteración de los supuestos físicos existentes en el momento del otorgamiento, cuando no sea posible la modificación del título.
+d) Renuncia del adjudicatario, aceptada por la Administración, siempre que no tenga incidencia negativa sobre el dominio público o su utilización o cause perjuicio a terceros.
+e) Mutuo acuerdo entre la Administración y el adjudicatario.
+f) Caducidad.
+g) Rescate.
+
+### Artículo 24
+
+Artículo 24.
+1. La Administración, previa audiencia del titular, declarará la caducidad en los siguientes casos:
+a) No iniciación, paralización o no terminación de las obras injustificadamente durante el plazo que se fije en las condiciones del título.
+b) Abandono o falta de utilización durante un año, sin que medie justa causa.
+c) Impago del canon o tasa en plazo superior a un año.
+d) Alteración de la finalidad del título.
+e) Incumplimiento de las condiciones que se hubieran establecido como consecuencia de la previa evaluación de sus efectos sobre el dominio público marítimo-terrestre.
+f) Privatización de la ocupación, cuando la misma estuviera destinada a la prestación de servicio al público.
+g) Invasión del dominio público no otorgado.
+h) Aumento de la superficie construida, volumen o altura máxima en más de un 5 por 100 sobre el proyecto autorizado.
+i) No constitución del depósito requerido por la Administración para la reparación o el levantamiento de las obras e instalaciones.
+j) En general, por incumplimiento de otras condiciones cuya inobservancia esté expresamente sancionada con la caducidad en el título correspondiente y de las básicas o decisorias para la adjudicación, en su caso, del concurso convocado según el artículo 7 de la presente Ley.
+2. En los demás supuestos de incumplimiento o en caso de infracción grave conforme a la presente Ley, la Administración podrá declarar la caducidad, previa audiencia del titular y demás trámites reglamentarios.
+
+### Artículo 25
+
+Artículo 25.
+1. Incoado el expediente de caducidad, la Administración podrá disponer la paralización inmediata de las obras o la supresión del uso y explotación de las instalaciones, previa audiencia en este último caso del titular afectado y una vez desestimadas sus alegaciones.
+2. Para declarar la caducidad, se seguirá el procedimiento establecido en la legislación de puertos del estado, debiendo notificarse la resolución expresa del mismo en el plazo de seis meses desde el acuerdo de incoación.
+La declaración de caducidad comportará la pérdida de la fianza.
+Se modifica el apartado 2 por el art. 1.6 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+
+### Artículo 26
+
+Artículo 26.
+El plazo de vencimiento será improrrogable, salvo que en el título de otorgamiento se haya previsto expresamente lo contrario, en cuyo caso, a petición del titular y a juicio de la Administración, podrá ser prorrogado siempre que aquél no haya sido sancionado por infracción grave, y no se supere el plazo máximo legalmente establecido.
+Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 27
+
+Artículo 27.
+1. En todos los casos de extinción de una concesión, la Administración regional decidirá sobre el mantenimiento de las obras e instalaciones, o su levantamiento y retirada del dominio público y de su zona de servidumbre de protección por el interesado y a sus expensas. Dicha decisión se adoptará de oficio o a instancia de aquél, a partir del momento anterior al vencimiento que reglamentariamente se determine en caso de extinción normal por cumplimiento del plazo, y en los demás supuestos de extinción en el momento de la resolución del correspondiente expediente.
+2. A partir del momento que se indica en el número anterior, el titular de la concesión constituirá el depósito suficiente para responder de los gastos de levantamiento de las obras o instalaciones y retirada fuera del dominio público marítimo-terrestre y su zona de servidumbre de protección, o de reparación de aquéllas, de acuerdo con la resolución adoptada y la tasación ejecutoria señalada por la Administración y a resultas de la liquidación que proceda.
+3. En caso de que se opte por el mantenimiento, en la fecha de extinción de la concesión revertirán a la Administración gratuitamente y libres de cargas todas las obras e instalaciones. La Administración podrá continuar la explotación o utilización de las instalaciones, por alguno de los procedimientos establecidos en la presente Ley.
+
+### Artículo 28
+
+Artículo 28.
+La valoración del rescate de las concesiones se efectuará con arreglo a lo dispuesto en la legislación de costas, debiendo tenerse en cuenta entre las reglas allí establecidas además, las relativas a la posible obsolescencia tecnológica de la inversión ejecutada y a su rentabilidad, que modularán el valor de las obras o instalaciones.
+
+### Artículo 28 bis
+
+Artículo 28 bis.
+1. Las obras e instalaciones construidas en los puertos de la Comunidad Autónoma de la Región de Murcia sometidos a concesión o autorización administrativa y que no coincidan con las contempladas en los proyectos de ejecución aprobados y que sirvieron de base para el otorgamiento del título concesional, podrán ser legalizadas por el órgano de la Administración regional competente en materia portuaria cuando sea posible, se estime conveniente y se cumplan las condiciones establecidas para dicho otorgamiento, y ello sin perjuicio de la incoación del correspondiente expediente sancionador que se tramitará en pieza separada.
+2. El procedimiento a realizar para dicha legalización será el siguiente:
+Los titulares de la correspondiente concesión o autorización deberán presentar ante la Dirección General de Transportes y Puertos, solicitud de legalización de las obras e instalaciones no autorizadas previamente, junto con los siguientes documentos.
+a) Proyecto de legalización, suscrito por técnico competente y con arreglo a los requisitos establecidos en el artículo 8 de la Ley de Puertos de la Comunidad Autónoma de la Región de Murcia.
+b) Resguardo acreditativo de la prestación de la fianza del 5 por ciento del valor de las obras e instalaciones cuya legalización se pretende.
+c) Memoria económico-financiera, en su caso, que contendrá la documentación establecida en el artículo 8 de la Ley de Puertos de la Comunidad Autónoma de la Región de Murcia.
+La Dirección General de Transportes y Puertos continuará con la tramitación del expediente siguiendo el procedimiento establecido en el artículo 9 de la Ley de Puertos de la Comunidad Autónoma de la Región de Murcia, recabando el informe de las demás administraciones públicas implicadas, el cual deberá ser favorable.
+Concluida la fase de tramitación, la Consejería competente en materia de puertos, dictará resolución motivada sobre la procedencia o improcedencia de la legalización de las obras e instalaciones. Legalización que, en su caso, podrá ser total o parcial. Cuando no proceda la legalización de las obras e instalaciones éstas serán demolidas por el titular de la concesión o por la Administración a costa de aquél, pudiendo llevar aparejada la declaración de caducidad de la concesión.
+Las obras e instalaciones legalizadas devengarán el correspondiente canon a favor de la Comunidad Autónoma de la Región de Murcia.
+Se añade por el art. 2 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+## CAPÍTULO II
+
+Autorizaciones
+
+### Artículo 29
+
+Artículo 29.
+Las autorizaciones otorgadas por la consejería competente en materia de puertos para la realización de actividades o prestación de servicios y que se desarrollen en el dominio público de los puertos gestionados directamente por la Comunidad Autónoma de la Región de Murcia quedarán sujetas a las siguientes prescripciones:
+1. La ocupación del dominio público portuario mediante autorización solo podrá realizarse en caso de que no se ejecuten obras o instalaciones fijas.
+2. Las actividades e instalaciones deberán ser compatibles con los usos portuarios y con los fines propios marcados por la Administración autonómica.
+3. Las autorizaciones se otorgarán con carácter personal e intransferible ínter vivos, no serán inscribibles en el Registro de la Propiedad y se sujetarán a los pliegos de condiciones generales y particulares determinados por la Administración autonómica, cuyo contenido se adaptará a lo establecido en el artículo 12 de la presente ley.
+4. El plazo de vencimiento se determinará en el título correspondiente y no podrá exceder de cinco años. Cuando el solicitante de una autorización administrativa sea en ese momento titular de la misma, se le podrá adjudicar de nuevo, únicamente solicitando la prestación de fianza, si se hubiera devuelto y notificando al Ayuntamiento competente el otorgamiento concedido.
+Este procedimiento solamente podrá ser aplicado si se dan las condiciones siguientes:
+a) El solicitante se encuentre al corriente de todas sus obligaciones con la administración otorgante.
+b) La actividad desarrollada sea favorable para la consecución del interés público.
+El plazo máximo durante el que se podrá utilizar este procedimiento será de 15 años desde la adjudicación inicial.
+Se modifica por el art. 1.8 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.8 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 30
+
+Artículo 30.
+1. La ocupación o aprovechamiento del dominio público portuario en virtud de una autorización, devengará el correspondiente canon a favor de la administración regional.
+2. Están obligados al pago del canon, en la cuantía y condiciones que se determinan en esta ley, los titulares de las autorizaciones antes mencionadas.
+3. La base imponible del canon será el valor unitario del bien ocupado o aprovechado por la superficie y el tiempo solicitado. El tipo de gravamen será el 4% sobre el valor de la base, por lo que el canon vendrá dado por la siguiente expresión:
+Canon= 0,04 x Vu x S x T
+donde:
+Vu= valor unitario del bien ocupado o aprovechado (€/m2/día). Este valor se aprobará por Orden del Consejero de Fomento e Infraestructuras.
+S= Superficie ocupada (en m2)
+T= periodo de tiempo solicitado (en días)
+Cuando las actividades a desarrollar tengan carácter comercial y lucrativo se devengará, además, un canon de explotación. El carácter comercial o lucrativo de toda autorización vendrá determinado por la obtención o no de beneficios, con independencia de la personalidad jurídica de la autorización.
+La base imponible será, en este caso, el importe estimado de los beneficios netos anuales, antes de impuestos, que sea previsible obtener en la utilización del dominio público durante el periodo de la autorización. La estimación de dichos beneficios se realizará, para el primer año, teniendo en cuenta el estudio económico-financiero que facilite el solicitante de la autorización. En los siguientes años se realizará sobre la base de las informaciones y documentos que, previo requerimiento de la Administración, deberán ser aportados por el titular de la autorización. En ningún caso esta estimación será inferior al 20% del importe de la inversión a realizar por el solicitante.
+El tipo de gravamen del canon de explotación será del 5% sobre el valor de la base.
+4. Los cánones de ocupación y explotación para la autorización de la explotación de lonjas en los puertos, así como para otras instalaciones propias del sector pesquero, podrán tener una reducción de hasta el 90 % cuando el titular de la autorización sea una cofradía de pescadores.
+Por la autoridad portuaria se podrá establecer la exención total de los cánones anteriores cuando el titular de la concesión sea una cofradía de pescadores. Para que pueda establecerse la procedencia de la citada exención será preciso que se realicen por parte de la citada cofradía desembolsos o contribuciones que redunden en la mejora del dominio público desde el punto de vista de las instalaciones y/o espacio concedido, la eficiencia energética, la mejora de las condiciones medioambientales, la eficiencia en el uso de los espacios, la creación de empleo, la promoción de la cultura de la pesca tradicional, y similares, siendo por ello consideradas de interés portuario por la Administración.
+Los titulares de las embarcaciones de pesca pertenecientes a una cofradía de pescadores de un puerto podrán tener una reducción de hasta el 75 % del canon de ocupación o aprovechamiento y de explotación por la autorización de instalaciones portuarias en dicho puerto. Asimismo, podrán tener una reducción de hasta el 50 % las actividades industriales relacionadas con el sector acuícola que sean relevantes para este sector primario, por la creación de empleo, por las inversiones que generen o por su interés para la promoción de la acuicultura regional, previo informe justificativo de la consejería competente en materia de acuicultura.
+Se podrá establecer una reducción adicional de hasta el 40 % sobre la anterior cuando se justifiquen pérdidas como consecuencia de acontecimientos climatológicos extraordinarios o quebrantos que por su violencia, imprevisibilidad y ajenidad a la conducta humana puedan ser constitutivos de fuerza mayor. Esta reducción adicional se aplicará previa solicitud razonada del sujeto pasivo y no se reflejará en ningún caso en el título de otorgamiento.
+Se podrá aplicar una reducción de hasta un 40 % de los cánones de ocupación y/o explotación al sector industrial hostelero portuario, y a las actividades auxiliares vinculadas a la náutica deportiva, en los mismos términos recogidos para las concesiones en el apartado 6 del artículo 16.
+Será requisito necesario para obtener las bonificaciones previstas en este punto que el beneficiario se encuentre al corriente en el cumplimiento de todas las obligaciones derivadas de la autorización.
+5. Estarán exentas del pago de los cánones de ocupación o aprovechamiento y de explotación, las ocupaciones realizadas por la Cruz Roja Española, dedicadas a las labores propias que tiene encomendadas esta institución, así como las ocupaciones dedicadas a la realización de actividades que sean calificadas por la Consejería competente en materia de puertos de relevante interés humanitario y social.
+6. Los cánones de ocupación y aprovechamiento y de explotación podrán ser actualizados como consecuencia de variaciones de costes, con sujeción a lo establecido por el ordenamiento jurídico y, en su caso, en la forma determinada en el título correspondiente.
+7. El canon de ocupación o aprovechamiento se devengará a partir de la fecha de notificación de la resolución de otorgamiento de la autorización. El canon de explotación se devengará a partir de la fecha de inicio de la explotación.
+Se modifica el apartado 4 por la disposición final 2.2 de la Ley 4/2023, de 28 de diciembre. Ref. BOE-A-2024-2045
+ Se modifican los apartados 3 y 6 por la disposición final 16.3 y 4 del Decreto-ley 5/2022, de 20 de octubre. Ref. BORM-s-2022-90316#df-16
+ Se modifica el apartado 3 por la disposición final 2 de la Ley 1/2022, de 24 de enero. Ref. BOE-A-2022-4518
+ Se modifican los apartados 3 y 4 por el art. 1.7 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se modifica el apartado 4 por el art. 1.9 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica el apartado 4 por el art. 1.9 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+ Se modifica el apartado 4 por el art. 7.2 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+ Se modifica el apartado 3 por el art. 27 de la Ley 6/2012, de 29 de junio. Ref. BOE-A-2013-1869
+ Se modifica por el art. 1 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+ Téngase en cuenta la disposición transitoria 1 de la citada ley, para la aplicación del apartado 4.
+ Se modifican los apartados 3, 4 y 5 por el art. 8.4 a 6 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 31
+
+Artículo 31.
+1. Las autorizaciones podrán ser revocadas unilateralmente por la autoridad otorgante en cualquier momento, sin derecho a indemnización, cuando resulten incompatibles con obras o planes aprobados con posterioridad, entorpezcan la explotación portuaria, impidan la utilización del espacio portuario para actividades de mejor interés o se hayan modificado las circunstancias existentes en su otorgamiento siendo inconveniente para el interés público su continuación. Corresponderá a la Administración autonómica apreciar las circunstancias anteriores, mediante resolución motivada, previa audiencia del titular de la autorización.
+2. Las autorizaciones caducarán por incumplimiento de las cláusulas o condiciones incluidas en el título de la misma, mediante expediente instruido al efecto y previa audiencia del titular. Sin perjuicio de la tramitación del oportuno expediente sancionador.
+3. Las autorizaciones que supongan ocupación del dominio público portuario se otorgarán a título de precario y se extinguirán por cualquiera de los supuestos previstos en el artículo 24 de la presente Ley.
+Se modifica el apartado 1 por el art. 1.8 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+
+## TÍTULO III
+
+Régimen de policía
+
+## CAPÍTULO I
+
+Potestad de inspección y vigilancia
+
+### Artículo 32
+
+Artículo 32.
+1. La actuación inspectora, tendente a garantizar el cumplimiento de las normas reguladoras de los puertos de competencia de la Comunidad Autónoma de la Región de Murcia, corresponde a la Dirección General de Transportes y Comunicaciones.
+2. El personal designado por la Dirección General de Transportes y Comunicaciones tendrá, en el ejercicio de la función inspectora, la consideración de agente de la autoridad. Pudiendo en casos de necesidad para un eficaz cumplimiento de su función, solicitar el apoyo necesario de las Fuerzas y Cuerpos de Seguridad del Estado.
+3. Las actuaciones inspectoras se realizarán en relación con toda persona o entidad que se vea afectada por las normas reguladoras de los puertos dependientes de la Administración regional.
+4. Las empresas titulares de concesiones y autorizaciones están obligadas a facilitar, a los funcionarios de la Dirección General competente en materia de puertos, debidamente acreditados y en el ejercicio de sus funciones, el examen de las dependencias, obras e instalaciones, servicios y análisis de la documentación administrativa, financiera, contable o de cualquier otra naturaleza que sea necesaria para el ejercicio de la función inspectora, y requerir a tales efectos la información, documentos y antecedentes que, de forma justificada, se estimen pertinentes.
+Se modifica el apartado 4 por el art. 1.9 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+
+### Artículo 32 bis
+
+Artículo 32 bis.
+1. La Dirección General de Transportes y Puertos podrá proceder, previo apercibimiento, a la ejecución forzosa de los actos administrativos, salvo en los supuestos en que se suspenda su ejecución de acuerdo con la ley, o cuando la Constitución o la ley exijan la intervención de los tribunales.
+La ejecución forzosa se regirá por lo establecido en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de la posible apertura del correspondiente expediente sancionador.
+2. La ocupación de superficies de dominio público portuario o de inmuebles o instalaciones sitos en ellas, sin el correspondiente título que lo autorice, dará lugar al ejercicio de la facultad de desahucio en vía administrativa, previa instrucción del pertinente procedimiento, en el que deberá darse audiencia al interesado.
+Se añade por el art. 2 de la Ley 6/2005, de 1 de julio. Ref. BOE-A-2006-9743
+
+### Artículo 32 ter
+
+Artículo 32 ter.
+1. Corresponde a la Comunidad Autónoma de la Región de Murcia la propiedad de los buques abandonados en la zona de servicio de los puertos de su titularidad.
+2. Se consideran abandonados aquellos buques que permanezcan durante más de tres meses atracados, amarrados o fondeados en el mismo lugar dentro del puerto, sin actividad apreciable exteriormente, y sin haber abonado las correspondientes tasas, y así lo declare el órgano directivo competente en materia de puertos.
+La declaración de abandono exigirá la tramitación del correspondiente procedimiento administrativo, en el que se acreditarán las circunstancias expresadas y en el que se dará audiencia al propietario, al naviero, al patrón o capitán o, en su caso, al consignatario del buque, en la forma prevista en la normativa estatal básica.
+3. Declarado el abandono del buque por la dirección general competente en materia de puertos, esta dará traslado del expediente a la consejería con competencias en hacienda, para proceder, bien a su venta en pública subasta, ingresando el producto de la enajenación en el Tesoro Público Regional, una vez canceladas las deudas a su favor por las correspondientes tasas y tarifas, así como los gastos del procedimiento; o bien procederá al hundimiento del buque cuando, por su estado, así lo aconsejen razones de seguridad marítima
+Se añade por el art. único.2 de la Ley 3/2017, de 14 de febrero. Ref. BOE-A-2017-2469
+
+### Artículo 32 quáter
+
+Artículo 32 quáter.
+1. La dirección general competente en materia de puertos, previo informe de Capitanía Marítima, cuando un buque presente peligro de hundimiento en el puerto o constituya un riesgo grave que pueda perjudicar a la actividad portuaria o suponer un peligro notorio para las personas, bienes del dominio público portuario, o el medio ambiente, requerirá al armador o consignatario para que el buque abandone el puerto, sea reparado o se adopten las medidas procedentes.
+Desatendido dicho requerimiento, la dirección general competente en materia de puertos podrá, respecto al buque y su carga, trasladarlo o proceder a la descarga, venta en pública subasta o a su hundimiento, en la forma establecida en el artículo anterior, a costa de aquellos, en lugar donde no perjudique la actividad portuaria, la navegación o la pesca, y no constituya un riesgo grave para las personas, los bienes del dominio público portuario, o el medio ambiente. A este último efecto, se solicitará informe de las consejerías competentes en materia de pesca y de medio ambiente, que dispondrán de un plazo de quince días para su emisión. Transcurrido dicho plazo, sin haberse emitido el preceptivo informe por dichas consejerías, este se entenderá favorable, y se continuará con la tramitación del expediente.
+2. En los supuestos de hundimiento de buques en las aguas de un puerto que, ya sea por el propio buque o por la carga transportada, afecte a la actividad portuaria o constituyan un riesgo grave para las personas, los bienes del dominio público portuario o el medio ambiente, la dirección general competente en materia de puertos requerirá a sus propietarios, armadores, consignatarios o a las compañías aseguradoras, para que procedan a su remoción y señalará dónde deben situar su carga, combustible, sus restos o el buque una vez reflotado, dentro del plazo que al efecto se determine, así como las garantías o medidas de seguridad a tomar para evitar un nuevo hundimiento.
+La dirección general competente en materia de puertos, podrá, por razones de urgencia, inclusive antes de iniciado el plazo fijado, exigir que se adopten medidas o adoptarlas a costa de los obligados, tales como señalización, iluminación o cualquier otra que se estime apropiada, al objeto de disminuir o evitar el peligro real o potencial.
+Si incumplieran las órdenes o acuerdos de la dirección general competente en materia de puertos, esta podrá utilizar para la remoción del buque hundido, de su combustible o de la carga que se encuentre a bordo o se haya caído del mismo, los medios de ejecución forzosa previstos en el ordenamiento jurídico, quedando obligado, en todo caso, el propietario o armador a sufragar los gastos ocasionados.
+Si este no abonase, en el plazo establecido, las cantidades devengadas por la remoción, la dirección general competente en materia de puertos podrá ordenar la enajenación de los restos del buque en la forma establecida en el artículo anterior, deduciendo del importe obtenido los gastos ocasionados. Si no fuera suficiente, la diferencia será exigida por vía de apremio.
+Por remoción, a los efectos de esta ley debe entenderse la puesta a flote, la retirada, traslado, desguace o destrucción deliberada de buques naufragados, de su carga y su combustible, incluido todo lo que esté o haya estado a bordo de tal buque o de cualesquiera otros bienes hundidos, con la finalidad de evitar un peligro o un inconveniente para la navegación, para la normal explotación portuaria, para los recursos naturales o para el medio ambiente marino.
+3. Cuando, con ocasión de un procedimiento judicial o administrativo, se hubiere acordado la retención, conservación o depósito de un buque en la zona de servicio de un puerto regional, la dirección general competente en materia de puertos podrá instar del órgano judicial competente el hundimiento del buque o su enajenación en pública subasta, cuando la estancia del buque en el puerto produjera un peligro real o potencial a las personas, a los bienes del dominio público portuario, o causare grave quebranto a la explotación del puerto.
+El órgano judicial competente acordará el hundimiento o la venta conforme al procedimiento legalmente previsto en cada caso, salvo que considere imprescindible su conservación para los fines de la instrucción del procedimiento y por el tiempo estrictamente necesario.
+Igualmente, se procederá a la venta en pública subasta en los casos en que, por la previsible duración del proceso judicial, exista riesgo de una notable depreciación del buque, depositando el producto de la venta a resultas del procedimiento.
+4. En todos los supuestos de embargo, retención judicial o administrativa de buques, para garantizar la actividad portuaria, la dirección general competente en materia de puertos, determinará o modificará la ubicación del buque en el puerto, dando cuenta de ello, en todo caso, a la autoridad que decrete el embargo o retención.
+Se añade por el art. único.3 de la Ley 3/2017, de 14 de febrero. Ref. BOE-A-2017-2469
+
+## CAPÍTULO II
+
+Procedimiento
+
+### Artículo 33
+
+Artículo 33.
+El plazo para notificar la resolución de los procedimientos sancionadores será de doce meses, transcurrido el cual sin que se produzca aquella se dictará resolución declarando la caducidad del procedimiento y ordenando el archivo de las actuaciones, con los efectos previstos en la legislación vigente.
+Se modifica por el art. 1.10 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.10 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+## CAPÍTULO III
+
+Infracciones
+
+### Artículo 34
+
+Artículo 34.
+1. Constituyen infracciones administrativas en el ámbito de los puertos de la Región de Murcia las acciones y omisiones tipificadas y sancionadas en esta Ley.
+2. Las infracciones se clasifican en leves, graves y muy graves, con sujeción a los criterios que se indican en los artículos siguientes.
+
+### Artículo 35
+
+Artículo 35.
+Son infracciones leves las acciones u omisiones que, no teniendo la consideración de infracción grave o muy grave, por su trascendencia o por la importancia de los daños ocasionados estén tipificados en alguno de los siguientes supuestos:
+a) El incumplimiento leve de las condiciones del correspondiente título concesional o de la autorización administrativa otorgada, sin perjuicio de su caducidad o rescisión si procede.
+b) La publicidad exterior no autorizada.
+c) Las acciones y omisiones que causen daños o menoscabo a los bienes del dominio público marítimo-terrestre o a su uso.
+d) La ejecución de trabajos, obras menores e instalaciones en el puerto sin el debido título administrativo.
+e) El incumplimiento parcial o total de otras obligaciones establecidas en ía presente Ley y en las disposiciones que la desarrollen y apliquen, y la omisión de actos que fueren obligatorios conforme a ellas.
+f) El uso de las instalaciones portuarias sin autorización, o su defectuosa o inadecuada utilización.
+g) El acceso de maquinaría y vehículos industriales a las zonas acotadas o cercadas sin autorización.
+h) Abandono de basuras, escombros o residuos de cualquier clase en terrenos, instalaciones, obras o equipos portuarios.
+i) El atraque de embarcaciones sin autorización o en lugar distinto del designado.
+j) Mantener atracada una embarcación con peligro de hundimiento.
+k) La ocupación sin título alguno del dominio público portuario siempre que no se entorpezca la normal actividad portuaria.
+Se modifica el apartado a) por el art. 1.11 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica el apartado a) por el art. 1.11 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 36
+
+Artículo 36.
+Son infracciones graves las acciones u omisiones tipificadas en el artículo anterior, cuando supongan lesión a alguna persona que motive baja por incapacidad laboral no superior a siete días, o daños o perjuicios superiores a 1200 € e inferiores a 6000 €, la reincidencia por comisión, en el término de un año, de la misma infracción de carácter leve, cuando así haya sido declarado por resolución firme y, en todo caso, las siguientes:
+a) La negativa u obstrucción dolosa al ejercicio de las funciones de inspección que corresponden a la Administración.
+b) Las que supongan o impliquen riesgo grave para la salud o seguridad de las personas.
+c) El falseamiento de la información suministrada a la Administración por propia iniciativa o a requerimiento de ésta.
+d) La ejecución no autorizada de obras e instalaciones en la zona de dominio público portuario, así como el aumento de superficie, volumen o altura construidos sobre los autorizados.
+e) La emisión de vertidos o sustancias contaminantes líquidas, sólidas o gaseosas y cualquier otra incidencia o actuación negativa para el entorno terrestre, marítimo o fluvial incluido en la zona de servicio portuaria que implique riesgo grave para la salud de las personas o para el medio ambiente.
+f) La ocupación sin título alguno del dominio público portuario interfiriendo la normal actividad portuaria.
+Se modifica por el art. 1.12 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.12 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 37
+
+Artículo 37.
+Son infracciones muy graves las acciones u omisiones tipificadas en los dos artículos anteriores, cuando ocasionen lesión a alguna persona que motive baja por incapacidad laboral superior a siete días, o daños o perjuicios superiores a 6000 €, la reincidencia por comisión, en el término de tres años, de la misma infracción de carácter grave, cuando así haya sido declarado por resolución firme y, en todo caso, las siguientes:
+a) Las que supongan o impliquen un riesgo muy grave para la salud o seguridad de vidas humanas.
+b) La emisión de vertidos o sustancias contaminantes líquidas, sólidas o gaseosas, y cualquier otra incidencia o actuación negativa para un entorno terrestre, marítimo o fluvial incluido en la zona de servicio portuaria que implique un riesgo muy grave para la salud de las personas o para el medio ambiente.
+c) La realización, sin el debido título administrativo conforme a esta ley, de cualquier tipo de obras o instalaciones, así como el aumento de la superficie ocupada o del volumen o de la altura construidos sobre los autorizados, siempre que se hubiera desatendido el requerimiento expreso de la Administración para la cesión de la conducta abusiva o que, habiéndose notificado la incoación de expediente sancionador, se hubiere persistido en tal conducta.
+d) La invasión del dominio público no otorgado.
+e) La ocupación sin título alguno del dominio público portuario siempre que se hubiera desatendido el requerimiento expreso de la Administración para el cese de la conducta abusiva.
+Se modifica por el art. 1.13 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.13 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 38
+
+Artículo 38.
+1. El plazo de prescripción de las infracciones será de cinco años para las muy graves, tres años para las graves y un año para las leves.
+El plazo comenzará a contarse desde la total consumación de la conducta constitutiva de la infracción.
+2. En el supuesto de infracciones continuadas, el plazo de prescripción comenzará a contar desde el momento de la finalización de la actividad o del último acto con el que la infracción se consuma. En el caso de que los hechos o actividades constitutivos de infracción fueran desconocidos por carecer de signos externos, dicho plazo se computará desde que éstos se manifiesten.
+3. No obstante, cualquiera que sea el tiempo transcurrido desde la comisión de la infracción, se exigirá la restitución de las cosas y su reposición a su estado anterior.
+4. Sé considerará que una construcción o instalación está totalmente terminada cuando esté dispuesta para servir al fin previsto sin necesidad de ninguna actuación posterior. A tal efecto, la fecha de terminación será constatada por la Administración y, subsidiariamente por este orden, la de licencia, permiso o autorizaciones de funcionamiento o servicio, o el certificado final de obra suscrito por técnico competente.
+
+### Artículo 39
+
+Artículo 39.
+1. Serán responsables de la infracción las personas físicas o jurídicas siguientes:
+a) En el caso de incumplimiento de las condiciones de un contrato o título administrativo, el titular de éste.
+b) En el caso de la realización de obras sin título administrativo suficiente, el promotor de la actividad, el empresario que la ejecuta y el técnico director de la misma.
+c) En los casos de ocupación sin título, obstrucción a la actuación inspectora y demás acciones u omisiones tipificadas como infracción en esta Ley, las personas físicas o jurídicas que las ejecutaren.
+2. Las sanciones que se impongan a los distintos sujetos como consecuencia de una misma infracción tendrán entre sí carácter independiente, salvo que se establezca un régimen diferente en esta Ley.
+
+## CAPÍTULO IV
+
+Sanciones y medidas cautelares
+
+### Artículo 40
+
+Artículo 40.
+1. Las acciones u omisiones que sean constitutivas de infracción serán sancionadas según las disposiciones contenidas en esta Ley.
+2. Si un mismo hecho u omisión fuera constitutivo de dos o más infracciones, se tomará en consideración únicamente aquella que comporte la mayor sanción.
+No obstante, los titulares de concesiones otorgadas con arreglo a la presente Ley podrán ser siempre sancionados por las infracciones que en ella se establezcan, con independencia de otras responsabilidades que, en su caso, sean exigibles.
+3. Cuando la infracción pudiera ser constitutiva de delito o falta, se dará traslado al Ministerio Fiscal, suspendiéndose el procedimiento sancionador mientras la autoridad judicial no hubiera dictado sentencia firme o resolución que ponga fin al proceso.
+La sanción penal excluirá la imposición de sanción administrativa. De no haberse estimado la existencia de delito o falta, la Administración continuará el expediente sancionador, teniendo en cuenta, en su caso, los hechos declarados probados en la resolución del órgano judicial competente.
+En todo caso, deberán cumplirse de modo inmediato las medidas administrativas adoptadas para salvaguardar la actividad portuaria y para la prevención de la contaminación del medio marino, sin que la suspensión del procedimiento sancionador pueda extenderse a la ejecutividad de las medidas para establecer el orden jurídico vulnerado.
+4. Asimismo, se iniciarán los procedimientos de suspensión de los efectos y anulación o resolución de los actos administrativos o contratos en los que presuntamente pudiera ampararse la actuación ilegal.
+
+### Artículo 41
+
+Artículo 41.
+1. Las infracciones leves serán sancionadas con multas hasta 3000 €.
+Para las siguientes infracciones la sanción será la siguiente:
+a) En el supuesto de atraque de embarcaciones sin autorización o en lugar distinto del designado la multa correspondiente ascenderá a 750 euros.
+b) En el caso de ocupación sin título alguno del dominio público portuario siempre que no se entorpezca la normal actividad portuaria, la multa será de 1500 euros.
+c) Para el supuesto de publicidad exterior no autorizada la multa correspondiente será de 100 euros, cuando la publicidad se realice por medios audiovisuales, y de 50 euros por metro cuadrado, cuando sea a través de vallas o carteles.
+d) En el caso de incumplimiento leve de las condiciones del correspondiente título concesional, la sanción será una multa que ascenderá a 400 euros, sin perjuicio de su caducidad o rescisión si procede.
+e) Para el caso de ejecución de trabajos, obras menores e instalaciones en el puerto sin el debido título administrativo: multa del 15% del valor de los trabajos, obras e instalaciones, con un máximo de 3000 euros.
+2. Las infracciones graves serán sancionadas con multas desde 3001 hasta 30.000 euros.
+En el caso de ejecución no autorizada de obras e instalaciones en la zona de dominio público portuario, así como el aumento de superficie, volumen o altura construidos sobre los autorizados la sanción consistirá en: multa del 25% del valor de las obras e instalaciones, con un mínimo de 3001 euros y un máximo de 30.000 euros.
+3. Las infracciones muy graves serán sancionadas con multas desde 30.001 hasta 150.000 €.
+Se modifica por el art. 1.14 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792#a1
+ Se modifica por el art. 1.14 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Artículo 42
+
+Artículo 42.
+Las acciones u omisiones que sean constitutivas de infracción darán lugar, además de la imposición de la sanción que proceda, a la adopción, en su caso, de las siguientes medidas:
+a) La restitución de las cosas o su reposición a su estado anterior.
+b) La indemnización de los daños reparables por cuantía igual al valor de los bienes destruidos o del deterioro causado, así como de los perjuicios ocasionados, en el plazo que se fije.
+c) Cuando la actuación infractora entorpezca la normal actividad portuaria o lesione derechos o intereses de terceros, la Autoridad Portuaria, previo requerimiento al infractor para el cese en su acción, podrá adoptar a su costa las medidas oportunas conducentes a restablecer el orden jurídico alterado, garantizando la normal navegación y actividad portuaria.
+Cuando el beneficio que se deduzca para el infractor de las acciones u omisiones constitutivas de infracción sea superior a la indemnización, se tomará para la fijación de ésta, como mínimo, la cuantía de aquél.
+d) La caducidad del título administrativo, cuando sea procedente, por incumplimiento de sus condiciones.
+
+### Artículo 43
+
+Artículo 43.
+La cuantía de las multas y la aplicación de las sanciones accesorias se determinará en función del beneficio obtenido por la comisión de la infracción, la relevancia externa de la conducta infractora, la negligencia o intencionalidad del sujeto infractor, el daño causado, el número de infracciones cometidas, así como por cualquier otra circunstancia que pueda incidir en el grado de reprochabilidad de la infracción, en un sentido atenuante o agravante.
+
+### Artículo 44
+
+Artículo 44.
+La competencia para la imposición de las sanciones previstas en esta Ley corresponderá:
+a) Al Consejo de Gobierno, en los casos de infracciones muy graves.
+b) Al Consejero de Política Territorial y Obras Públicas, en los casos de infracciones graves.
+c) Al Director General de Transportes y Comunicaciones, en los casos de infracciones leves.
+
+### Artículo 45
+
+Artículo 45.
+1. Cuando la restitución y reposición al estado anterior no fuera posible y, en todo caso, cuando se hayan producido daños y perjuicios, los responsables de la infracción deberán abonar las indemnizaciones que proceden.
+2. Cuando el beneficio sea superior a la indemnización, se tomará para la fijación de ésta como máximo, la cuantía de aquél.
+3. Cuando los daños fueran de difícil evaluación, la Administración tendrá en cuenta para fijar la indemnización los siguientes criterios, debiendo aplicar el que proporcione el mayor valor:
+a) Coste teórico de la restitución y reposición.
+b) Valor de los bienes dañados.
+c) Beneficio obtenido por el infractor con la actividad ilegal.
+
+### Artículo 46
+
+Artículo 46.
+El importe de las multas, así como el de las indemnizaciones por daños y perjuicios causados, en caso de no satisfacerse en periodo voluntario de pago, serán exigidos por la vía administrativa de apremio.
+Asimismo, la Administración regional gozará, para garantizar el cobro de las multas e indemnizaciones y el restablecimiento del orden jurídico vulnerado, de los medios de ejecución forzosa recogidos en la normativa estatal básica.
+Se modifica por el art. 1.15 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a1
+
+### Disposición adicional
+
+Disposición adicional. Tarifas por prestación de servicios portuarios llevados a cabo directamente por la Dirección General de Transportes y Comunicaciones, de la Consejería de Política Territorial y Obras Públicas.
+Téngase en cuenta que esta disposición adicional queda derogada en todo lo que en ella haga referencia a la gestión, liquidación o recaudación de las «Tarifas por prestación de servicios portuarios llevados a cabo directamente por la Dirección General de Transportes y Comunicaciones, de la Consejería de Política Territorial y Obras Públicas». Quedan vigentes las normas contenidas en dicha disposición adicional, reguladoras de los aspectos propios de régimen interior de funcionamiento de los puertos o régimen de policía de los mismos, según establece la disposición derogatoria única.1 de la Ley 7/1997, de 29 de octubre. Ref. BOE-A-1998-3948
+El establecimiento de tarifas por la prestación, por parte de la Dirección General de Transportes y Comunicaciones, de servicios portuarios en los puertos gestionados directamente por la Comunidad Autónoma de la Región de Murcia, responde, por una parte, a la necesidad de cubrir los costes que el servicio origina en los distintos centros gestores, y, por otra, a la conveniencia de no realizar competencia desleal con servicios y actividades que son susceptibles de ser prestados o realizados por el sector privado.
+En base a ello, en virtud de lo expuesto en el punto tercero del artículo 5 de la presente Ley, y en concordancia con la Sentencia del Tribunal Constitucional 185/1995, de 14 de diciembre, se han creado las tarifas por los servicios portuarios prestados por la Dirección General de Transportes y Comunicaciones, que se relacionan a continuación:
+T-1. Entrada y estancia de buques.
+T-2. Atraques.
+T-3. Mercancías.
+T-4. Pesca fresca.
+T-5. Embarcaciones deportivas y de recreo.
+T-6. Almacenaje.
+T-7. Suministros.
+T-8. Servicios diversos.
+1.º a) En la presente disposición adicional figuran las cuantías básicas de las tarifas para el año 1996, así como sus reglas generales y particulares de aplicación. Dichas cuantías no incluyen la correspondiente repercusión del Impuesto sobre el Valor Añadido.
+b) Las cuantías básicas citadas en el apartado anterior podrán ser modificadas en la correspondiente Ley de Presupuestos de la Comunidad Autónoma de la Región de Murcia.
+2. Por la Consejería de Política Territorial y Obras Públicas se dictarán las disposiciones aclaratorias complementarias que puedan ser necesarias para la aplicación de las tarifas que se establecen.
+3. La administración y cobro de los precios públicos corresponderá a la Consejería de Política Territorial y Obras Públicas, sin perjuicio de la función inspectora que corresponda a la Consejería de Hacienda y Administración Pública.
+Reglas generales de aplicación y definiciones
+I. Aguas del puerto
+A los efectos de aplicación de estas tarifas, se entiende por aguas del puerto la superficie de agua incluida en la zona de servicio de éste, que comprenderá los espacios incluidos dentro de los diques de abrigo y las zonas necesarias para las maniobras de atraque y de reviro donde no existan éstos.
+II. Tipos de navegación
+Se considerarán como tipos de navegación los siguientes:
+Navegación interior: es la que transcurre íntegramente dentro del ámbito de un determinado puerto o de otras aguas interiores españolas.
+Navegación de cabotaje: es la que, no siendo navegación interior, se efectúa entre puertos o puntos situados en zonas en las que España ejerce soberanía, derechos soberanos o jurisdicción.
+Navegación exterior: es la que se efectúa entre puertos o puntos situados en zonas en las que España ejerce soberanía, derechos soberanos o jurisdicción, y puertos o puntos situados fuera de dichas zonas.
+Navegación extranacional: es la que se efectúa entre puertos o puntos situados fuera de las zonas en las que España ejerce soberanía, derechos soberanos y jurisdicción.
+III. Arqueo bruto
+Se entiende por arqueo bruto (GT) el que figura en el certificado internacional extendido de acuerdo con el Convenio internacional sobre arqueo de buques, hecho en Londres el 23 de junio de 1969 (Boletín Oficial del Estado de 15 de septiembre de 1982).
+En su defecto, el certificado de arqueo vigente emitido por el Estado español, en el caso de buques nacionales; en el caso de buques extranjeros, el que figure en el «Lloyd's Register of Shipping», y a falta de ello, el arqueo que le asigne la Dirección General de Transportes y Comunicaciones.
+A iniciativa del consignatario o del representante del armador, la Dirección General de Transportes y Comunicaciones podrá efectuar un nuevo arqueo o aceptar, previas las oportunas comprobaciones, los certificados oficiales de arqueo presentados que contradigan las cifras que figuran en los documentos a que se refiere el párrafo anterior, por modificaciones introducidas en el barco. En cualquier caso, la Dirección General de Transportes y Comunicaciones presentará una liquidación para el pago de las tarifas, basada en el arqueo que figure en los documentos a los que se refiere el párrafo primero, sin perjuicio de las devoluciones que, en su caso, procedan.
+IV. Calado máximo
+Se entiende por calado máximo al calado de trazado definido según la regla 4.2 del Reglamento para la determinación de los arqueos bruto y neto de los buques, que figura como anexo I del Convenio internacional sobre arqueo de buques, de 23 de junio de 1969 («Boletín Oficial del Estado» de 15 de septiembre de 1982), y, en su defecto, el que figura en el «Lloyd's Register of Shipping».
+V. Eslora máxima o total
+Se considera eslora máxima o total la que figura en el «Lloyd's Register of Shipping», en la documentación del buque o, a falta de todo ello, la que resulte de la medición que la Dirección General de Transportes y Comunicaciones practique directamente.
+En el caso de embarcaciones deportivas y de recreo se tomará la máxima distancia existente entre los extremos de los elementos más salientes de proa y popa de la embarcación y sus medios auxiliares.
+V bis. Embarcación Transeúnte.
+Se considera embarcación transeúnte aquella que, sin ser de base, tiene autorizada su estancia por un periodo igual o inferior a 15 días.
+VI. Devengo o período de prestación del servicio y recargos por anulaciones
+El comienzo y el término del período de prestación del servicio coincidirá:
+Con la entrada y salida por la zona de servicio portuaria de los buques y mercancías, pesca fresca y embarcaciones deportivas y de recreo, en el caso de las tarifas T-1, T-3, T-4 y T-5, respectivamente.
+Con el tiempo de utilización del puesto de atraque o de los espacios para almacenaje, en el caso de las tarifas T-2 y T-6, respectivamente.
+Con el momento en que se realice la entrega de suministros o la prestación de servicios diversos, en el caso de las tarifas T-7 y T-8.
+La Dirección General de Transportes y Comunicaciones podrá establecer la indemnización correspondiente en el caso de anulación de solicitudes para la prestación de los servicios a que se refieren las tarifas T-7 y T-8; las anulaciones de reservas, en el caso de servicios correspondientes a las tarifas T-2 y T-6, se regulan en sus reglas particulares correspondientes.
+VII. Pago de las tarifas
+El pago de las tarifas se efectuará de conformidad con lo establecido en el párrafo 3.° del punto 3.° del artículo 5 de la Ley, estando obligado el usuario a efectuar su abono en la cuenta corriente de la entidad bancada colaboradora que indique la Dirección General de Transportes y Comunicaciones,
+VIII. Prestación de servicios fuera del horario normal
+La prestación de los servicios «Suministros» y «Servicios diversos» en días festivos o fuera de la jornada ordinaria en los laborables, quedará supeditada a la posibilidad y conveniencia de su realización, a juicio de la Dirección General de Transportes y Comunicaciones, y serán abonados con un recargo del 25 por 100 sobre las tarifas vigentes en condiciones normales.
+IX. Medidas para garantizar el cobro de las tarifas
+a) Suspensión temporal de la prestación del servicio.–El impago reiterado de las tarifas o cánones devengados por la prestación de servicios portuarios en cualquiera de los puertos de la Comunidad Autónoma de la Región de Murcia, faculta a la Dirección General de Transportes y Comunicaciones para suspender temporalmente la prestación del servicio a la persona o sociedad deudora, previo requerimiento a ésta y comunicación al Capitán Marítimo si afectase a servicios de navegación marítima.
+b) Depósito previo, avales y facturas a cuenta.–La Dirección General de Transportes y Comunicaciones podrá exigir el depósito previo o la constitución de avales, así como emitir facturas a cuenta, con objeto de garantizar el cobro del importe de las tarifas por los servicios que se presten en el ámbito de su competencia, sin perjuicio de la liquidación final resultante.
+c) Suspensión de la facturación a buques abandonados.–La Dirección General de Transportes y Comunicaciones suspenderá la facturación de servicios portuarios respecto de los buques que previamente declare en abandono por impago prolongado de las tarifas.
+En todo caso procederá dicha declaración a partir del momento en que se haga efectiva la renuncia a la consignación del mismo por parte de su agente consignatario, de acuerdo con el artículo 73.4 de la Ley 27/1992. No obstante, se seguirá anotando la cuantía de los gastos que tales buques ocasionen a efectos de su liquidación final, sin perjuicio de la competencia de la Administración de Aduanas en este procedimiento.
+X. Exenciones
+De acuerdo con lo dispuesto en el número 1 del artículo 71 de la Ley 27/1992, estarán exentos del pago de las tarifas T-1, T-2, T-3 y T-5 los servicios prestados a los buques de guerra y aeronaves militares nacionales, y, en régimen de reciprocidad, los extranjeros, siempre que no realicen operaciones comerciales y su visita tenga carácter oficial, de acuerdo con la Orden 25/1985, del Ministerio de Defensa, de 23 de abril («Boletín Oficial del Estado» de 14 de mayo), o de arribada forzosa certificada por el Capitán Marítimo; las tropas y efectos militares del Ministerio de Defensa transportadas en buques distintos de los anteriores estarán exentas únicamente de la tarifa T-3, «Mercancías».
+El material de la Dirección General de Transportes y Comunicaciones y las embarcaciones dedicadas por las administraciones públicas a labores de vigilancia, investigación, protección y regeneración costera, represión del contrabando, salvamento,-lucha contra la contaminación marina, enseñanzas marítimas y, en general, a misiones oficiales de su competencia.
+El material y embarcaciones de la Cruz Roja Española, dedicados a las labores propias que tiene encomendadas esta institución.
+Además, los envíos de carácter humanitario a zonas o regiones en situaciones de crisis o emergencia, realizados por la Cruz Roja, Cáritas u otras organizaciones de carácter humanitario o social, sin ánimo de lucro y legalmente constituidas, estarán exentos del pago de la tarifa T-3, «Mercancías».
+XI. Daños a la Dirección General de Transportes y Comunicaciones, o a terceros
+Los usuarios y particulares serán responsables de las lesiones, daños y averías que ocasionen a la Dirección General de Transportes y Comunicaciones o a terceros como consecuencia de su intervención en la utilización de obras e instalaciones portuarias.
+La Dirección General de Transportes y Comunicaciones podrá exigir del usuario la suscripción de la correspondiente póliza que garantice dicha responsabilidad.
+XII. Regla adicional
+Todo peticionario del servicio acepta conocer los reglamentos y disposiciones del puerto, y queda obligado a facilitar, con la debida antelación, a la Dirección General de Transportes y Comunicaciones, aquellos datos que en relación con dicho servicio le sean requeridos.
+La petición o aceptación del servicio presupone la conformidad del usuario con las condiciones fijadas en estas reglas generales y con las particulares para la prestación del mismo. Asimismo, se presupone que los usuarios son conocedores de las características técnicas de las instalaciones y de las calidades de los suministros.
+Reglas particulares
+Tarifa T-1. Entrada y estancia de barcos
+Primera.–Esta tarifa comprende la utilización de las aguas del puerto, instalaciones de señales de ayudas a la navegación, instalaciones de canales de acceso, esclusas (sin incluir amarre, remolque o sirga en la misma), obras de abrigo y será de aplicación en la cuantía y condiciones que se indican más adelante a todos los barcos y plataformas fijas que entren y/o permanezcan en aguas del puerto.
+Segunda.–Abonarán esta tarifa los armadores o consignatarios de los barcos que utilicen los servicios indicados en la regla anterior.
+Tercera.–La base para la liquidación de esta tarifa será el tonelaje de registro bruto.
+Tarifa base: 257 pesetas por cada 100 TRB o fracción y cada periodo de veinticuatro horas o fracción.
+Coeficientes:
+Coeficiente C1: El correspondiente al arqueo «T» del barco.
+T ≤ 3.000: 0.90.
+3.000 < T ≤ 5.000: 1,00.
+5.000 <T ≤ 10.000: 1,10.
+10.000 <T: 1,20.
+Coeficiente C2:
+Navegación de cabotaje: 1,00
+Navegación exterior: 6,20
+Coeficiente C3:
+a) Desguace y construcción, inactivo, en reparación, avituallamiento o arribada forzosa: 0,50.
+b) En los demás casos: 1,00.
+Tarifa T-2. Atraque
+Esta tarifa comprende el uso de las obras de atraque y elementos fijos de amarre y defensa.
+El atraque se contará desde la hora para la que se haya reservado hasta el momento de largar el buque la última amarra del muelle. La anulación de la reserva de atraque en un plazo inferior a tres horas antes del comienzo de la reserva, o cuando dicha anulación no se produzca y el buque no arribe a puerto, dará derecho a la Dirección General de Transportes y Puertos al cobro de la tarifa aplicable a dicho buque por el día completo en el que ha comenzado la reserva, sin perjuicio de que el atraque reservado pueda ser utilizado por otro barco.
+Segunda.–Abonarán esta tarifa los armadores o los consignatarios de los buques que utilicen los servicios apuntados en la regla anterior.
+Tercera.–La base para la liquidación de esta tarifa será la eslora total o máxima. En el caso de transporte de mercancías peligrosas se incrementará en una eslora.
+Tarifa base: A= 51 pesetas por metro de eslora y cada período de veinticuatro horas o fracción.
+Coeficientes:
+Coeficiente C1: El correspondiente al calado del muelle, «C».
+C ≤ 4,00 metros: 1,00.
+4,00 < C ≤ 6,00 metros: 1,40.
+6,00 < C ≤ 8 metros: 1,80.
+8,00 < C ≤ 10,00 metros: 2,30.
+10,00 <C: 3,00
+Coeficiente C2:
+Atraque inferior a 3 horas: 0,25.
+En los demás casos: 1,00.
+Coeficiente C3:
+Atraque de punta: 0,50.
+En los demás casos: 1,00.
+Tarifa T-3. Mercancías
+Primera.–Esta tarifa comprende la utilización por las' mercancías de las aguas del puerto y dársenas, accesos terrestres, vías de circulación, zonas de manipulación (excluidos los espacios de almacenamiento o depósito) y estaciones marítimas y servicios generales de policía.
+Segunda.–Abonarán esta tarifa los armadores o los consignatarios de los barcos que utilicen el servicio y los propietarios del medio de transporte cuando la mercancía entre y salga del puerto por medios exclusivamente terrestres. Subsidiariamente serán responsables del pago de la tarifa los propietarios de la mercancía y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho provisión de fondos a los responsables principales.
+Tercera.–La base para la aplicación de esta tarifa será el peso de la mercancía.
+Cuando el bulto contenga mercancías a las que correspondan tarifas de diferentes cuantías, se aplicará a su totalidad la mayor parte de ellas', salvo que aquéllas puedan clasificarse con las pruebas que presenten los interesados, en cuyo caso se aplicará a cada partida la tarifa que le corresponda.
+Se adopta el Repertorio de mercancías aprobado por el Ministerio de Obras Públicas, Transportes y Medio Ambiente.
+A los efectos de esta tarifa no se contabilizará el paso de las mercancías por las embarcaciones auxiliares cuando éstas son utilizadas entre barcos o entre barco y muelle.
+Tarifa base: 32,00 pesetas por tonelada métrica.
+Coeficientes:
+Coeficiente C1:
+Mercancías grupo 1.º: 1,00.
+Mercancías grupo 2.º: 1,43.
+Mercancías grupo 3.º: 2,15.
+Mercancías grupo 4.º: 3,15.
+Mercancías grupo 5.º: 4,30.
+Coeficiente C2:
+Navegación de cabotaje: 1,00.
+Navegación exterior: 2,00.
+Coeficiente C3:
+Embarque: 1,00.
+Desembarque: 1,50.
+Tarifa T-4. Pesca fresca
+Primera.–Esta tarifa comprende la utilización, por los buques pesqueros en actividad y los productos de la pesca fresca, de las aguas del puerto, muelles, dársenas zonas de manipulación y servicios generales de policía.
+Segunda.–Abonarán la tarifa el armador del buque o el que, en su representación, realice la primera venta. Cualquiera de los dos que la hubiere abonado deberá repercutir su importe sobre el primer comprador de la pesca, si lo hay, quedando éste obligado a soportar dicha repercusión, lo cual se hará constar, de manera expresa y separada, en la factura o documento equivalente.
+Subsidiariamente, será responsable del pago de la tarifa el primer comprador de la pesca, salvo que demuestre haber soportado efectivamente la repercusión, y el representante del armador, en su caso.
+Tercera.–La cuantía, tarifa base, queda fijada en el 2 por 100 del valor de la pesca, establecido de la siguiente forma:
+a) El valor de la pesca obtenido por la venta en subasta en las lonjas portuarias.
+b) El valor de la pesca no subastada se determinará por el valor medio obtenido en las subastas de la misma especie realizadas en el día o, en su defecto, en la semana anterior. También podrá utilizarse el precio medio de la cotización real del mercado para productos iguales de la semana anterior, acreditado por la Dirección General de Mercados Pesqueros, de la Secretaría General de Pesca Marítima (Ministerio de Agricultura. Pesca y Alimentación).
+c) En el caso de que este precio no pudiere fijarse en la forma determinada en los párrafos anteriores, el servicio de puertos lo fijará teniendo en cuenta las condiciones habituales del mercado del pescado.
+Cuarta.–Para la liquidación de esta tarifa deberá presentarse por el usuario obligado al pago, antes de empezar la descarga, carga o transbordo, una declaración o manifiesto de pesca, indicando el peso de cada una de las especies que se van a manipular con arreglo al formato elaborado por el Servicio de Puertos. A los efectos de la determinación del peso de la pesca, será obligación del armador pasar la misma por la lonja portuaria o establecimiento que la autoridad portuaria disponga en el puerto.
+Quinta.–La tarifa aplicable a los productos de la pesca será doble de las señaladas en las condiciones anteriores en los casos de:
+a) Ocultación de cantidades en la declaración o manifiesto o retraso en su presentación.
+b) Inexactitud falseando especies, calidades o precios resultantes de las subastas.
+c) Ocultación o inexactitud de los nombres de los compradores.
+Este recargo no será repercutible en el comprador.
+Sexta.–El abono de esta tarifa exime al buque pesquero del abono de las tarifas T-1 «Entrada y estancia de barcas», T-2 «Atraque» y T-3 «Mercancías», por un plazo máximo de un mes en el puerto en el que haya abonado la tarifa T-4, a partir de la fecha de iniciación de operaciones de descarga o transbordo. Transcurrido dicho plazo, que se considerará extinto cuando a lo largo de un mes no haya habido movimientos comerciales en la lonja o centro de control del peso correspondiente, la Dirección General de Transportes y Comunicaciones podrá ampliarlo en tos casos de inactividad forzosa por temporales, vedas costeras o carencia de licencias referidas a sus actividades habituales expresa e individualmente acreditados por certificación de la autoridad competente. En caso contrario, se devengarán a partir de dicho plazo las tarifas T-1 «Entrada y estancia de barcos» y T-2 «Atraque». En estos casos de inactividad, la Dirección General de Transportes y Comunicaciones fijará los lugares en que dichos barcos deben permanecer atracados de acuerdo con las disponibilidades de atraque y las exigencias de la explotación portuaria.
+Las embarcaciones pesqueras, mientras permanezcan sujetas a esta tarifa en la forma definida en la condición anterior, estarán exentas del abono de la tarifa T-3 «Mercancías» por el combustible, avituallamiento, efectos navales y de pesca, hielo y sal que embarque para el propio consumo, bien en los muelles pesqueros o en otros muelles habilitados al efecto.
+Séptima.–El Servicio de Puertos está facultado para proceder a la comprobación del peso y clase de las especies y calidades de la pesca siendo de cuenta del usuario obligado al pago de la tarifa los gastos que se ocasionen como consecuencia de dicha comprobación.
+Coeficientes:
+Coeficiente C1:
+a) Pesca fresca transbordada de buque a buque sin pasar por los muelles del puerto, 0,75.
+b) Pescado fresco entrado por tierra para subasta, 0,50.
+c) Pescado fresco no vendido y vuelto a embarcar, 0,25.
+d) En los demás casos, 1,00.
+Tarifa T-5. Embarcaciones deportivas y de recreo
+Primera.–Esta tarifa comprende la utilización por las embarcaciones deportivas o de recreo, y por sus tripulantes y pasajeros, de las dársenas y zonas de fondeo, de los servicios generales de policía y, en su caso, de las instalaciones de amarre y atraque en muelles y pantalanes.
+Segunda.–Abonarán esta tarifa el propietario de la embarcación o su representante autorizado y, subsidiariamente, el capitán o patrón de la misma.
+Tercera.–El abono de la tarifa se efectuará según sigue:
+Para embarcaciones de paso en el puerto, por adelantado a la llegada por los días de estancia que declaren. Si dicho plazo tuviere que ser superado, el usuario deberá formular nueva petición y abonar nuevamente y por adelantado el importe inherente al plazo prorrogado.
+Cuarta.–La base para la liquidación de esta tarifa será la superficie que resulte de multiplicar la eslora máxima o total por la manga máxima o total. En dársenas deportivas con pantalanes paralelos, cuando la eslora máxima o total sea menor que la cuarta parte de la separación entre aquéllos, se adoptará esta última dimensión como longitud del atraque.
+El importe de la tarifa aplicable será independiente de las entradas, salidas o días de ausencia de la embarcación, mientras tenga asignado puesto de atraque.
+Tarifa base: 46 pesetas/metro cuadrado/día.
+Coeficientes:
+Coeficiente C1:
+Con reserva de punto de amarre, 0,80.
+Sin reserva de punto de amarre, 1,00.
+Coeficiente C2:
+Atraque de costado con servicios, 0,60.
+Atraque de costado a muelle o pantalán sin servicios, 0,50.
+Atraque de punta con servicios, 0,40.
+Atraque de punta a muelle o pantalán sin servicios, 0,30.
+Abarloado a otro barco, 0,50.
+Fondeado, 0,10.
+Tarifa T-6. Almacenaje
+Primera.–Esta tarifa comprende la utilización de las explanadas, cobertizos y tinglados, con sus servicios generales correspondientes, no explotadas en régimen de concesión.
+Se excluye la ocupación y utilización del dominio público portuario para llevar a cabo otras actividades que exijan el otorgamiento de las respectivas autorizaciones o concesiones.
+Segunda.–El almacenaje se contará desde el día para el que se haya hecho la reserva hasta que la mercancía deje la superficie libre.
+La anulación o modificación de la reserva en un plazo inferior a veinticuatro horas, antes del comienzo de la reserva, o cuando dicha anulación no se produzca y la mercancía no llegue a puerto, dará derecho al cobro de la tarifa aplicable a la mercancía por el día completo en el que se ha comenzado la reserva, sin perjuicio de que la superficie reservada pueda ser utilizada por otra mercancía.
+Tercera.–Esta tarifa será abonada por los usuarios de los correspondientes servicios.
+Cuarta.–Esta tarifa se aplicará al producto de la superficie ocupada y el tiempo de utilización.
+Quinta.–Los espacios destinados a depósito y almacenamiento de mercancías u otros elementos se clasifican, de un modo general, en dos zonas:
+Primera: Zona de tránsito.
+Segunda: Zona de almacenamiento.
+La extensión de cada una de estas zonas en los distintos muelles y partes de la zona de servicio son las que se especifican en las reglas particulares de cada puerto.
+La zona de maniobra inmediata a los atraques de los barcos no es zona de depósito de mercancías, salvo excepciones con previa y explícita autorización del Jefe del Servicio de Puertos.
+Sexta. –No se podrán depositar mercancías sin autorización de la dirección facultativa, quien la otorgará de acuerdo con las disposiciones vigentes y teniendo en cuenta el interés general.
+Séptima.–La utilización de las superficies, con arreglo a esta tarifa, implica la obligación para el usuario de que, cuando sean retiradas las mercancías o elementos, la superficie liberada deberá quedar en las mismas condiciones de conservación y limpieza que tenía al ocuparse, y, de no hacerlo así, el Servicio de Puertos lo podrá efectuar por sus propios medios, pasándole el cargo correspondiente. Las mercancías serán depositadas en la forma y con el orden y altura de estiba que determine la dirección facultativa, de acuerdo con las disposiciones vigentes, observándose las precauciones necesarias para asegurar la estabilidad de las pilas.
+Octava.–Los usuarios serán responsables de los daños, deméritos y averías que se puedan producir en las instalaciones portuarias a terceros.
+Novena.–El Servicio de Puertos no responderá de robos, siniestros ni deterioros que puedan sufrir las mercancías.
+Décima.–La forma de medir los espacios ocupados por las mercancías o elementos será por el rectángulo circunscrito exteriormente a la partida total de elementos depositados, definido de forma que dos de sus lados sean paralelos al cantil del muelle, redondeando el número de metros cuadrados que resulte para obtener el número inmediato sin decimales. De análoga forma se procederá en tinglados y almacenes, sirviendo de referencia los lados de ellos.
+Undécima.–El pago de las tarifas, en las cuantías establecidas, no exime al usuario del servicio de su obligación de remover a su cargo la mercancía o elementos del lugar que se encuentren ocupando si, a juicio de la dirección facultativa, constituyen un entorpecimiento para la normal explotación del puerto.
+Cuando se produzca demora en el cumplimiento de la orden de removido, la tarifa durante el plazo de demora será el quíntuplo de la que con carácter general le correspondería, sin perjuicio de que el Servicio de Puertos pueda proceder al removido, pasándose el correspondiente cargo y respondiendo, en todo caso, el valor de las mercancías de los gastos de transporte y almacenaje.
+Duodécima.–Las mercancías o elementos que permanecieran un año sobre las explanadas o depósitos, y aquellos en que los derechos devengados y no satisfechos lleguen a ser superiores a su posible valor en venta, se considerarán como abandonados por sus dueños, ello sin perjuicio de la competencia de la Administración de Aduanas en la determinación del abandono de mercancías incursas en procedimientos de despacho en relación a las cuales, para las deudas aduaneras y demás en favor de la Hacienda Pública, se estará a lo establecido en el Reglamento General de Recaudación.
+Decimotercera.–Para las mercancías desembarcadas; el plazo de ocupación comenzará a contarse desde la reserva del espacio o a partir del día siguiente en que el barco terminó la descarga, siempre que ésta se haga ininterrumpidamente. Si la descarga se interrumpiere, las mercancías descargadas hasta la interrupción comenzarán a devengar ocupación de superficie a partir de ese momento, y el resto a partir de la fecha de depósito.
+Para las mercancías destinadas al embarque, el plazo de ocupación comenzará a contarse desde la reserva del espacio o el momento en que sean depositadas en los muelles o tinglados, aun en el caso de que no sean embarcadas.
+Decimocuarta.–Las mercancías desembarcadas y que vuelvan a ser embarcadas en el 'mismo o diferente barco devengarán ocupación de superficie según el criterio correspondiente al caso de mercancías desembarcadas.
+Decimoquinta.–En las superficies ocupadas por mercancías desembarcadas se tomará, como base de la liquidación, la superficie ocupada al final de la operación de descarga, medida según se establece en la regla décima.
+El Servicio de Puertos, atendiendo a la mejor gestión de la tarifa y a la racionalidad de la explotación, decidirá contabilizar la superficie por partidas o bien por el cargamento completo.
+En cualquier caso, sólo podrá considerarse una superficie libre, a efectos de esta tarifa, cuando haya quedado en las mismas condiciones de conservación y limpieza en que se ocupó, y sea accesible y útil para otras ocupaciones.
+Decimosexta.–El Servicio de Puertos exigirá de aquellos que resulten ser los propietarios, de acuerdo con las correspondientes sentencias o resoluciones, los derechos de la presente tarifa devengados por la ocupación de superficie por mercancías o elementos que, por cualquier causa, se encuentren incursos en procedimientos legales o administrativos. A este fin, no se podrá efectuar la retirada de dichas mercancías o elementos sin haber hecho efectiva la liquidación correspondiente.
+La aplicación por parte del Servicio de Puertos de la regla undécima a estas mercancías incursas en procedimientos legales administrativos, podrá realizarse desde el mismo momento en que recaiga sentencia o resolución en firme.
+Decimoséptima.–Esta tarifa se aplicará con las modalidades siguientes:
+Almacenajes: La base para la aplicación de esta tarifa será le superficie ocupada y el tiempo de utilización.
+Tarifa base: 3,60 pesetas por metro cuadrado y día.
+Coeficientes:
+Coeficiente C1:
+Parceles: 1.00.
+Cercados: 1,50.
+Tinglados: 2,00.
+Almacenes: 3,00.
+Coeficiente C2:
+a) Zona de tránsito:
+Días 1.°al 5.°: 0,30.
+Días 6° al 10.°: 0,50.
+Días 11.º al 30°: 1,75.
+Días 31.° al siguiente: 6,00.
+b) Zona de almacenamiento: 2,00.
+Coeficiente C3:
+a) Embarque:
+Días 1.° y 2°: 0,00.
+Los demás días: 0,75.
+b). Restantes casos: 1,00.
+Tarifa T-7. Suministros
+Primera.–Esta tarifa comprende el valor del agua, energía eléctrica suministrada y la utilización de las instalaciones para la prestación de los mismos.
+Segunda.–Esta tarifa será abonada por los usuarios de los correspondientes servicios y destinatarios de los suministros.
+Tercera.–Esta tarifa se aplicará al número de unidades suministradas.
+Cuarta.–Los servicios se solicitarán con la debida antelación y serán atendidos teniendo en cuenta las necesidades de explotación del puerto, y, en su caso, a las disponibilidades de personal.
+Quinta.–Los usuarios serán responsables de los desperfectos, averías y accidentes que se ocasionen, tanto en las instalaciones y elementos de suministro como en las suyas propias o de terceros que se produzcan durante el suministro, a consecuencia de defectos o malas maniobras en las instalaciones de dichos usuarios.
+Sexta.–El Servicio de Puertos se reserva el derecho de prestación de servicios cuando las instalaciones de los usuarios no reúnan las condiciones de seguridad que, a juicio de la misma, se estimen necesarias.
+Séptima.–El Servicio de Puertos no será responsable de los daños y perjuicios debidos a paralizaciones del servicio ni de los producidos por averías o roturas fortuitas que puedan ocurrir durante la prestación de los servicios a que se refiere esta tarifa.
+Octava.–Estas tarifas se refieren exclusivamente a suministros realizados dentro de la zona de servicio del puerto.
+Novena.–Si por cualquier circunstancia ajena al Servicio de Puertos, estando el personal en sus puestos, no se realizara la operación solicitada, el usuario se verá obligado a satisfacer el 50 por 100 del importe que hubiera correspondido de haberse efectuado el suministro.
+Tarifa base: La base para la aplicación de esta tarifa será el precio de coste del agua a electricidad suministrado, de acuerdo con las tarifas de las compañías que abastecen a los puertos.
+Esta tarifa se devengará desde el momento en que se inicie la prestación del servicio. Las cantidades adeudadas serán exigibles en el momento en qué se efectúe la liquidación.
+Coeficientes:
+Coeficiente C1:
+En todos los casos: 1,50.
+Coeficiente C2:
+Suministro continuo: 1,00.
+Suministro aislado: 1,10.
+Tarifa T-8. Servicios diversos
+Primera.–La presente tarifa comprende:
+A) La utilización de los medios de izada y bajada de embarcaciones con tes elementos auxiliares propios de la instalación portuaria o anejos.
+B) La utilización de las instalaciones portuarias para la reparación y trabajos de mantenimiento y limpieza de embarcaciones y expresamente dedicada a estos fines, exceptuando los consumos de agua y energía eléctrica, herramienta, pinturas, grasas, materiales de reposición, etcétera, que serán abonados por el usuario de acuerdo con las tarifas correspondientes o, en su caso, aportados por los mismos.
+C) La utilización de parcelas, tinglados y almacenes especialmente reservados para el depósito de embarcaciones.
+D) La utilización de las instalaciones de pesaje.
+Segunda.–Esta tarifa será abonada por los usuarios de los correspondientes servicios.
+Tercera.–Los usuarios serán responsables de los desperfectos, averías y accidentes que se ocasionen tanto en las instalaciones como en los barcos propios o de terceros, que se produzcan durante la prestación del servicio, a consecuencia de defectos o malas maniobras en las instalaciones o embarcaciones de los usuarios.
+Cuarta.–La Dirección General de Transportes y Comunicaciones no será responsable de los daños y perjuicios debidos a paralizaciones del servicio que puedan ocurrir durante la prestación de los servicios a que se refiere esta tarifa.
+Quinta.–Esta tarifa es aplicable, para los supuestos incluidos en las tarifas T-8-1 y T-8-4, en días laborables, dentro de la jornada ordinaria de trabajo establecida para estas actividades por el Director general de Transportes y Comunicaciones.
+Sexta.–Si por cualquier circunstancia ajena a la Dirección General de Transportes y Comunicaciones, estando el personal en sus puestos, no se realizara la operación solicitada, el usuario se verá obligado a satisfacer el 50 por 100 del importe que hubiera correspondido de haberse efectuado el servicio.
+Séptima.–Dicha tarifa se aplicará con las siguientes modalidades:
+Tarifa T-8-1: Por utilización de los medios de izada y bajada.
+La base para la aplicación de esta tarifa será la eslora máxima o total.
+Tarifa base: 181,00 pesetas por metro.
+Coeficientes:
+Coeficiente C1:
+Con medios materiales Servicio de Puertos: 1,00.
+Coeficiente C2:
+Embarcación pesquera: 0,90.
+Embarcación deportiva: 1,00.
+Coeficiente C3:
+Con base en la instalación portuaria: 0,90.
+En los demás casos: 1,00.
+Tarifa T-8-2: Por utilización de las instalaciones portuarias para reparación, mantenimiento y limpieza de embarcaciones en zona de varadero.
+La base para la aplicación de esta tarifa será la superficie que resulte de multiplicar la eslora máxima o total por la manga máxima o total y el tiempo de permanencia de las embarcaciones.
+Tarifa base: 93,00 pesetas por metro cuadrado y día.
+Coeficientes:
+Coeficiente C1:
+Sobre carro del Servicio de Puertos: 1,00.
+Sobre medio auxiliar del Servicio de Puertos: 0,80.
+Sobre pavimento: 0,50.
+Coeficiente C2:
+Embarcación pesquera: 0,90.
+Embarcación deportiva: 1,00.
+Coeficiente C3:
+Con base en la instalación portuaria: 0,90.
+En los demás casos: 1,00.
+Tarifa T-8-3: Por depósito de embarcaciones fuera de la zona de servicio del varadero.
+Los espacios destinados a depósitos de embarcaciones se clasifican, de un modo general, en dos zonas:
+Primera o zona de tránsito.
+Segunda o zona de almacenamiento.
+La extensión de cada una de estas zonas en los distintos muelles y partes de la zona de servicio, son las que se especifican en las reglas particulares de cada puerto.
+La base para la liquidación de esta tarifa será la superficie que resulte de multiplicar la eslora máxima o total por la manga máxima o total y el tiempo que permanezcan depositadas las embarcaciones.
+Tarifa base: 6,21 pesetas por metro cuadrado y día.
+Coeficientes:
+Coeficiente C1:
+Parcelas: 1,00.
+Cercados: 1,50.
+Tinglados: 2,00.
+Almacenes: 3,00.
+Coeficiente C2:
+En zona de tránsito: 0,50.
+En zona de almacenamiento: 0,25.
+Tarifa T-8-4: Por uso de básculas.
+La base para la liquidación de esta tarifa será la pesada.
+Tarifa base: 74,00 pesetas por pesada:
+Coeficientes:
+Coeficiente C1:
+Vehículo con carga: 6,00.
+Vehículo sin carga: 3,00.
+Sin vehículo: 1,50.
+Se añade el apartado V bis a las reglas generales y se modifica la Tarifa T-5 regla Cuarta, coeficiente C-2 de las reglas particulares por el art. 1.10 y 11 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
+ Se deroga en todo aquello que haga referencia a la gestión, liquidación o recaudación de las «Tarifas por prestación de servicios portuarios llevados a cabo directamente por la Dirección General de Transportes y Comunicaciones, de la Consejería de Política Territorial y Obras Públicas». Quedan vigentes las normas contenidas en esta disposición adicional, reguladoras de los aspectos propios de régimen interior de funcionamiento de los puertos o régimen de policía de los mismos, por la disposición derogatoria única.1 de la Ley 7/1997, de 29 de octubre. Ref. BOE-A-1998-3948
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los expedientes de concesiones y autorizaciones que a la entrada en vigor de la presente Ley se hallen pendientes de resolución, se adaptarán a las disposiciones de la misma, salvando los trámites ya evacuados.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los expedientes de autorizaciones y concesiones que se encuentren en algunos de los supuestos de reducción o exención de canon, previsto en los artículos 16, puntos 6 y 7, y 30, puntos 5 y 6, serán adecuados a la presente Ley por la Administración regional, aplicando el canon más favorable para el interesado.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las obras e instalaciones construidas con anterioridad al 31 de octubre de 1999 en los Puertos de la Comunidad Autónoma de la Región de Murcia sometidos a concesión administrativa y que no coincidan con las contempladas en los proyectos de ejecución aprobados y que sirvieron de base para el otorgamiento del título concesional podrán ser legalizadas por la Dirección General de Transportes y Puertos, conforme al siguiente procedimiento:
+Los titulares de la correspondiente concesión deberán presentar en el plazo de un año a contar desde el 1 de enero del año 2000 y ante la Dirección General de Transportes y Puertos solicitud de legalización de las obras e instalaciones existentes. Acompañando a la solicitud los siguientes documentos:
+1. Proyecto de legalización, suscrito por técnico competente y con los requisitos establecidos en la Ley de Puertos de la Comunidad Autónoma de la Región de Murcia, Ley de Contratos de las Administraciones Públicas y demás disposiciones de desarrollo.
+2. Resguardo acreditativo de la prestación de la fianza del 5 por 100 del valor de las obras e instalaciones, cuya legalización se pretende.
+3. Estudio económico-financiero, en su caso, que contendrá relación pormenorizada de los costes e ingresos reales de la actividad que se desarrolla en las instalaciones.
+La Dirección General de Transportes y Puertos, continuará con la tramitación del expediente siguiendo el procedimiento establecido en el artículo 9 de la Ley de Puertos de la Comunidad Autónoma de la Región de Murcia, recabando el informe de las demás Administraciones Públicas implicadas, el cual deberá ser favorable.
+Concluida la fase de tramitación, la Dirección General de Transportes y Puertos dictará resolución motivada, sobre la procedencia o improcedencia de la legalización de las obras e instalaciones. Legalización que, en su caso, podrá ser total o parcial. Cuando no proceda la legalización de las obras e instalaciones éstas serán demolidas por el titular de la concesión o por la Administración a costa de aquél.
+Las obras e instalaciones legalizadas devengarán el correspondiente canon a favor de la Comunidad Autónoma de la Región de Murcia.
+Las obras e instalaciones que, sin previa autorización por parte de la Administración Autonómica, se ejecuten en los puertos de la Comunidad Autónoma de la Región de Murcia, con posterioridad al 31 de octubre de 1999, llevará aparejada la declaración de caducidad de la concesión, sin perjuicio de la correspondiente sanción administrativa.
+Declarada la caducidad de una concesión, la Dirección General de Transportes y Puertos resolverá, conforme al procedimiento antes descrito, sobre la legalización o demolición de las obras e instalaciones no autorizadas.
+Se añade por el art. 8.7 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar, en desarrollo de esta Ley, las disposiciones que estime procedentes.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que correspondan que la hagan cumplir.
+Murcia, 16 de mayo de 1996.‒El Presidente, Ramón Luís Valcárcel Siso.

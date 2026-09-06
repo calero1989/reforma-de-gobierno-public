@@ -1,0 +1,701 @@
+# Ley 1/1986, de 2 de enero, Electoral de Andalucía.
+
+- Identificador BOE: `BOE-A-1986-2788`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-2788
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Redactado conforme a la corrección de erratas publicada en el BOJA núm. 33, de 17 de abril de 1986.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I. El artículo 46.2.ª del Estatuto de Autonomía para Andalucía atribuye a la Comunidad Autónoma competencias exclusivas sobre normas y procedimientos electorales para la constitución de sus instituciones de autogobierno, en el marco del régimen electoral general.
+La presente Ley tiene por objeto desarrollar este mandato estatutario y establecer el marco jurídico adecuado para la convocatoria y celebración de elecciones al Parlamento de Andalucía. De ahí la importancia y transcendencia de esta Ley, norma fundamental de una sociedad democrática, «en tanto que sólo nos podemos afirmar en democracia cuando el pueblo puede libremente constituir la decisión mayoritaria de los asuntos de gobierno».
+Al abordar la regulación electoral, el Parlamento de Andalucía debe tener en cuenta las normas electorales recogidas en el Estatuto de Autonomía para Andalucía y la regulación contenida en la Ley 5/1985, de 19 de junio, del Régimen Electoral General.
+El primero, en varios de sus artículos, establece unos principios generales o normas programáticas que el legislador ordinario debe observar necesariamente. Cuestiones tales como la circunscripción electoral, sistema de elección, número de Diputados y su distribución entre las provincias aparecen básicamente reguladas en el texto estatutario.
+La segunda, en cumplimiento del mandato constitucional contenido en el artículo 81, regula el Régimen Electoral General, estableciendo «una división fundamental entre disposiciones generales para toda elección por sufragio universal directo y de aplicación en todo proceso electoral y normas que se refieren a los diferentes tipos de elecciones políticas». Por tanto, hay preceptos de esta Ley orgánica que son de aplicación a la las elecciones de Asambleas de las Comunidades Autónomas, pero se permite a éstas, dentro del más escrupuloso respeto a sus competencias y mediante el ejercicio de su potestad legislativa, no solo el desarrollo del sistema, «sino incluso su modificación o sustitución en muchos de sus extremos».
+II. Partiendo de estas premisas, el título preliminar de la Ley delimita su ámbito de aplicación.
+El título primero, dividido en dos capítulos, regula el derecho de sufragio en sus dos vertientes, dedicando una especial atención a las inelegibilidades e incompatibilidades.
+En materia de inelegibilidad, además de recoger y asumir los supuestos contemplados por la Ley orgánica en sus disposiciones comunes, regula causas de inelegibilidad aplicables sólo al proceso electoral andaluz.
+El título segundo contempla la Administración Electoral. En esta materia y por imperativo de la Ley orgánica, únicamente se trata de la Junta Electoral de Andalucía, formada por Magistrados del Tribunal Superior de Justicia y Catedráticos o Profesores de Derecho de las Universidades de la Comunidad Autónoma. Al no estar constituido todavía el Tribunal Superior de Justicia hay que establecer una fórmula transitoria para la constitución de la Junta Electoral de Andalucía.
+El título tercero trata de la convocatoria de las elecciones, que se efectuará mediante Decreto del Presidente de la Junta, estableciéndose los requisitos de publicación y difusión para el conocimiento efectivo del electorado.
+El título cuarto, de capital importancia en el cuerpo de la Ley, recoge las previsiones estatutarias sobre materia electoral y las desarrolla al regular todo lo concerniente al sistema electoral. En este sentido, regula la circunscripción electoral provincial, el número de Diputados que integran el Parlamento de Andalucía y su distribución provincial, estableciendo en este punto unos criterios que pueden reflejar los movimientos poblacionales, y el sistema de representación proporcional.
+El título quinto regula, en sus diversos capítulos, todo el procedimiento electoral. En esta materia de Ley sigue las líneas trazadas para la legislación estatal, que, en su nueva regulación, se ha limitado a recoger las normas anteriores, mejorándolas desde el punto de vista técnico y teniendo en cuenta las experiencias derivadas de los distintos procesos electorales habidos en España desde el 15 de junio de 1977.
+El título sexto trata de los gastos y subvenciones electorales. En este punto se introducen una serie de medidas de control destinadas a conseguir la claridad y transparencia de la contabilidad electoral y su fiscalización por parte de las Juntas Electorales Provinciales y del Tribunal de Cuentas. Por otra parte, se pone a cargo de la Comunidad Autónoma la obligación de subvencionar los gastos electorales, estableciéndose para éstos un límite máximo.
+Por último, la Ley regula las situaciones de derecho transitorio que pueden plantearse hasta el momento de la constitución del Tribunal Superior de Justicia de Andalucía y los Juzgados de lo Contencioso-Administrativo.
+III. El legislador entiende que este marco normativo, integrado en el sistema electoral general, garantiza la libre manifestación de la voluntad del pueblo andaluz y asegura su participación en los asuntos públicos y de gobierno.
+Se modifica el párrafo 1 del epígrafe I por el art. 4 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley, en cumplimiento de las previsiones contenidas en el Estatuto de Autonomía para Andalucía, tiene por objeto regular las elecciones al Parlamento de la Comunidad Autónoma.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+CAPÍTULO PRIMERO
+Derecho de sufragio activo
+
+### Artículo 2
+
+Artículo 2.
+Son electores todos los que, gozando del derecho de sufragio activo, tengan la condición política de andaluces conforme al artículo 5 del Estatuto de Autonomía.
+Se modifica por el art. 4 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373.
+
+### Artículo 3
+
+Artículo 3.
+En las elecciones al Parlamento de Andalucía regirá el Censo Electoral único referido a las ocho circunscripciones electorales de la Comunidad Autónoma.
+
+## CAPÍTULO II
+
+Derecho de sufragio pasivo
+
+### Artículo 4
+
+Artículo 4.
+1. Son elegibles todos los ciudadanos que, tengan la condición de electores, salvo los comprendidos en los apartados 2, 3 y 4 de este artículo.
+2. Son inelegibles los incursos en algunas de las causas de inelegibilidad recogidas en las disposiciones comunes de la Ley orgánica sobre el Régimen Electoral General.
+3. Son, además, inelegibles:
+a) El Presidente del Consejo Consultivo, el Consejero Mayor de la Cámara de Cuentas y el Presidente del Consejo Económico y Social, de Andalucía.
+b) Los Consejeros electivos del Consejo Consultivo y los Consejeros de la Cámara de Cuentas de Andalucía.
+c) El Defensor del Pueblo Andaluz y sus Adjuntos.
+d) Los Viceconsejeros, Secretarios Generales con excepción del titular de la Secretaría General de Relaciones con el Parlamento, Directores Generales de las Consejerías, y los equiparados a ellos.
+e) El Presidente, Vocales y Secretario de la Junta Electoral de Andalucía, así como los miembros del resto de las Juntas Electorales con competencia en el proceso electoral andaluz.
+f) Los Delegados del Gobierno de la Junta de Andalucía.
+g) El Director General de la Empresa Pública de la Radio y Televisión de Andalucía y los Directores de sus sociedades filiales.
+h) Los Presidentes, Directores y cargos asimilados de los Organismos Autónomos y de las Entidades de Derecho Público con competencia en todo el territorio andaluz, salvo que desempeñen tal función en su condición de Consejero del Gobierno.
+i) Los Ministros y Secretarios de Estado del Gobierno de la Nación.
+j) Los Parlamentarios de las Asambleas Legislativas de otras Comunidades Autónomas.
+k) Los miembros de los Consejos de Gobierno de las demás Comunidades Autónomas, así como los altos cargos de libre designación de los citados Consejos.
+l) Los que ejerzan funciones o cargos conferidos y remunerados por un Estado extranjero.
+4. No serán elegibles por las circunscripciones electorales comprendidas en el ámbito territorial de su jurisdicción:
+a) Los Delegados Provinciales de las Consejerías.
+b) Los Directores Provinciales de Organismos Autónomos y Entidades de Derecho Público de la Junta de Andalucía.
+c) Los Directores de los centros territoriales de la Radio y Televisión de Andalucía.
+d) Los Secretarios Generales de las Delegaciones del Gobierno de la Junta de Andalucía.
+Se modifican los apartados 3 y 4 por el art. 1 de la Ley 5/2005, de 8 de abril. Ref. BOE-A-2005-7989.
+
+### Artículo 5
+
+Artículo 5.
+La calificación de inelegibilidad procederá respecto de quienes incurran en alguna de las causas mencionadas en el artículo anterior, el mismo día de la presentación de su candidatura o en cualquier momento posterior hasta la celebración de las elecciones.
+
+## CAPÍTULO III
+
+Incompatibilidades
+
+### Artículo 6
+
+Artículo 6.
+1. Todas las causas de inelegibilidad lo son también de incompatibilidad.
+2. Además de los comprendidos en el artículo 155.2 a), b), c) y d) de la Ley Orgánica del Régimen Electoral General, son incompatibles:
+a) Los Diputados del Congreso.
+b) Los Diputados del Parlamento Europeo.
+c) Los Alcaldes, los Presidentes de Diputación Provincial y los Presidentes de mancomunidades de municipios.
+d) Los Jefes de los Gabinetes de los miembros del Consejo de Gobierno de la Junta de Andalucía.
+e) Los titulares de las Autoridades Portuarias designados por la Comunidad Autónoma de Andalucía.
+f) Los miembros del Consejo de Administración de la Empresa Pública de la Radio y Televisión de Andalucía.
+g) Los Presidentes de los Consejos de Administración, Consejeros, Administradores, Directores Generales, Gerentes y cargos equivalentes y, en general, los miembros de órganos unipersonales y colegiados de entes públicos, cualquiera que sea su denominación, incluidos los entes descentralizados con personalidad jurídica propia previstos en la legislación de Régimen Local, consorcios, fundaciones y empresas en los que sea mayoritaria la representación o participación, directa o indirecta, del sector público, salvo que desempeñaran tal función en su condición de Consejero del Gobierno, miembro de Corporación Local, o su elección o designación corresponda directamente al Parlamento de Andalucía. No obstante lo anterior, la Cámara podrá compatibilizar la actividad parlamentaria con el ejercicio de funciones públicas honoríficas de carácter excepcional y por tiempo limitado.
+h) Los cargos mencionados en la letra anterior de entidades de crédito o aseguradoras o de cualesquiera sociedades o entidades que tengan un objeto fundamentalmente financiero y hagan apelación públicamente al ahorro y al crédito, con la excepción de los miembros de las Asambleas Generales de las Cajas de Ahorro que sean elegidos por el Parlamento de Andalucía.
+3. El mandato de los Diputados del Parlamento de Andalucía se ejercerá en régimen de dedicación absoluta, y será incompatible con el desempeño, por sí o mediante sustitución, de cualquier otro puesto, profesión o actividad, públicos o privados, por cuenta propia o ajena, retribuidos mediante sueldo, salario, arancel, honorarios o cualquier otra forma. El régimen de dedicación absoluta y de incompatibilidades previsto en esta Ley será aplicable sin que en ningún caso se pueda optar por percepciones o remuneraciones correspondientes a puestos o cargos incompatibles.
+4. De acuerdo con lo establecido en el apartado anterior, la condición de Diputado del Parlamento de Andalucía es incompatible con el ejercicio de la función pública y con el desempeño de cualquier otro puesto que figure al servicio o en los presupuestos de los órganos constitucionales, de las Administraciones públicas, sus organismos y entes públicos, empresas con participación pública directa o indirecta mayoritaria, o con cualquier actividad por cuenta directa o indirecta de los mismos. En cualquier caso, no podrán percibir más de una retribución con cargo a sus presupuestos, sin perjuicio de las dietas y gastos de desplazamiento que en cada caso correspondan por las actividades que pudieran ser declaradas compatibles, sin que estas puedan superar el 10% en cómputo anual de las percepciones que como retribución fija y periódica devenguen como Diputados del Parlamento de Andalucía.
+Se exceptúa de lo dispuesto en el párrafo anterior a los altos cargos que ostenten la condición de Diputado, quienes en ningún caso podrán percibir retribución o percepción de cantidad alguna que por cualquier concepto pudiera corresponderles por su condición de Diputado.
+No obstante lo dispuesto en el párrafo primero del presente apartado, los parlamentarios que reúnan la condición de profesores universitarios podrán colaborar, en el seno de la Universidad, en actividades a tiempo parcial de docencia o investigación de carácter extraordinario que no afecten a la dirección y control de los servicios.
+Asimismo son incompatibles las retribuciones como Diputado con cualquier otra retribución o asignación que puedan percibir de origen público o privado, así como con la percepción, durante el ejercicio del mandato parlamentario, de pensiones de derechos pasivos o de cualquier régimen de Seguridad Social público y obligatorio. El derecho al devengo de dichas pensiones se recuperará automáticamente desde el mismo momento de extinción de la condición de Diputado, de acuerdo con lo dispuesto en la normativa reguladora del citado régimen.
+5. En el mismo sentido, el mandato de los Diputados del Parlamento de Andalucía es incompatible con el desempeño de actividades privadas. En particular, es en todo caso incompatible con la realización de las conductas siguientes:
+a) Las actividades de gestión, defensa, dirección o asesoramiento ante cualesquiera organismos o empresas del sector público estatal, autonómico o local respecto de asuntos que hayan de resolverse por ellos, que afecten directamente a la realización de algún servicio público o que estén encaminados a la obtención de subvenciones o avales públicos. Se exceptúan las actividades particulares que, en ejercicio de un derecho reconocido, realicen los directamente interesados, así como las subvenciones o avales cuya concesión se derive de la aplicación automática de lo dispuesto en una ley o reglamento de carácter general.
+b) La actividad de contratista o fiador de obras, servicios, suministros y, en general, cualesquiera contratos que se paguen con fondos de organismos o empresas del sector público estatal, autonómico o local, o el desempeño de puestos o cargos que lleven anejas funciones de dirección, representación, asesoramiento o prestación de servicios en compañías o empresas que se dediquen a dichas actividades.
+c) La prestación de servicios de asesoramiento o de cualquier otra índole, con titularidad individual o compartida, en favor de organismos o empresas del sector público estatal, autonómico o local.
+d) La participación superior al 10 por 100, adquirida en todo o en parte con posterioridad a la fecha de su elección como Diputado, salvo que fuere por herencia, en empresas o sociedades que tengan contratos de obras, servicios, suministros o, en general, cualesquiera otros que se paguen con fondos de organismos o empresas del sector público estatal, autonómico o local.
+e) La prestación de servicios en entidades de crédito o aseguradoras o en cualesquiera sociedades o entidades que tengan un objeto fundamentalmente financiero y hagan apelación públicamente al ahorro y al crédito.
+f) Y cualesquiera otras actividades que por su naturaleza sean incompatibles con la dedicación y las obligaciones parlamentarias contenidas en el Reglamento del Parlamento de Andalucía.
+6. De la prohibición de ejercicio de actividades públicas y privadas, se exceptúan las siguientes:
+a) La mera administración del patrimonio personal o familiar. Sin embargo, en ningún caso tendrán esta consideración las actividades privadas cuando el interesado, su cónyuge o persona vinculada a aquél en análoga relación de convivencia afectiva y descendientes menores de edad, conjunta o separadamente, tengan participación superior al 10 por 100 en actividades empresariales o profesionales de toda índole que tengan conciertos, concesiones o contratos con organismos o empresas del sector público estatal, autonómico o local.
+b) La producción y creación literaria, científica, artística o técnica, así como las publicaciones derivadas de ellas siempre que no se incurra en ninguno de los supuestos de incompatibilidad antes señalados.
+c) Las actividades privadas, distintas de las específicamente declaradas incompatibles en el apartado 5, podrán ser autorizadas por la Comisión del Estatuto de los Diputados, previa petición expresa de los interesados. En este caso, el Diputado no recibirá las retribuciones fijas y periódicas establecidas para el resto de los miembros de la Cámara, sin perjuicio de que puedan percibirse las ayudas e indemnizaciones por gastos necesarias para el ejercicio de su actividad parlamentaria. La solicitud y la autorización que se otorgue se inscribirán en el correspondiente Registro de Actividades, Bienes e Intereses.
+7.Los Diputados, con arreglo a lo que determine el Reglamento de la Cámara, estarán obligados a formular declaración de todas las actividades que puedan constituir causa de incompatibilidad, conforme a lo establecido en esta Ley, y de cualesquiera otras actividades que les proporcionen o puedan proporcionar ingresos económicos, así como de sus bienes patrimoniales, intereses y retribuciones íntegras que puedan percibir por el desempeño de actividades compatibles, tanto al adquirir como al perder su condición de parlamentarios, así como cuando se modifiquen sus circunstancias. Asimismo formularán declaración de las relaciones, en materia de contratación con todas las Administraciones públicas y entes participados, de los miembros de la unidad familiar, entendida de acuerdo con lo establecido en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+Las declaraciones sobre actividades, bienes, intereses y retribuciones se formularán por separado conforme a los modelos que apruebe la Mesa de la Cámara y pasarán a formar parte de un Registro de Actividades, Bienes, Intereses y Retribuciones constituido en la Cámara bajo la dependencia directa de su Presidente, a los efectos del presente artículo y a los que determine el Reglamento de la Cámara.
+La declaración de actividades incluirá:
+a) Cualesquiera actividades que se ejercieran y que puedan constituir causa de incompatibilidad conforme a lo establecido en esta Ley.
+b) Las que, con arreglo a la Ley, puedan ser de ejercicio compatible.
+c) En general, cualesquiera actividades que proporcionen o puedan proporcionar ingresos económicos.
+d) Las relativas a materia de contratación con todas las Administraciones públicas y entes participados de los miembros de la unidad familiar, entendida de acuerdo con lo establecido en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+El Registro de Actividades, Bienes, Intereses y Retribuciones tendrá carácter público. El contenido de las declaraciones inscritas en este Registro se publicará en el "Boletín Oficial del Parlamento de Andalucía"y en el "Boletín Oficial de la Junta de Andalucía", y estará disponible en Internet.
+La instrucción y la resolución de todos los procedimientos relativos al mencionado Registro y a las actividades de los Diputados corresponderán a los órganos parlamentarios que determine el Reglamento de la Cámara.
+La resolución sobre supuestos de posible incompatibilidad de los Diputados corresponde al Pleno, siguiendo el procedimiento y con los efectos establecidos en el Reglamento de la Cámara.
+Declarada por el Pleno la reiteración o continuidad en las actividades a que se refiere el apartado a) o en la prestación de servicios a que alude el apartado c) del número 5 de este artículo, la realización ulterior de las actividades o servicios indicados llevará consigo la renuncia al escaño, a lo que se dará efectividad en la forma que determine el Reglamento de la Cámara.
+Se declara la desestimación del Recurso en relación con el apartado 2 en la redacción dada por la Ley 9/2011, de 5 de diciembre, por Sentencia del TC 155/2014, de 25 de septiembre. Ref. BOE-A-2014-11024.
+ Se suspende la vigencia y aplicación del apartado 2 en la redacción dada por la Ley 9/2011, de 5 de diciembre, desde el 7 de marzo de 2012 para las partes en el proceso y desde el 18 de abril de 2012 para los terceros, por providencia del TC de 17 de abril de 2012, que admite a trámite el recurso de inconstitucionalidad 1345/2012. Ref. BOE-A-2012-5236.
+ Se modifican los apartados 2, 4 y 7 por los arts. 1 a 3 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373.
+ Se modifica por el art. 1 de la Ley 5/2005, de 8 de abril. Ref. BOE-A-2005-7989.
+
+## TÍTULO II
+
+Administración Electoral
+Juntas Electorales
+
+### Artículo 7
+
+Artículo 7.
+Integran la Administración Electoral, la Junta Electoral Central, la Junta Electoral de Andalucía, las Provinciales y de Zona, así como las Mesas Electorales.
+
+### Artículo 8
+
+Artículo 8.
+1. La Junta Electoral de Andalucía es un órgano permanente y está compuesta por:
+a) Cuatro Vocales Magistrados del Tribunal Superior de Justicia, designados por insaculación celebrada ante su sala de gobierno.
+b) Tres Vocales Catedráticos o Profesores titulares de Derecho en activo, designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones de electores con representación en el Parlamento.
+2. Las designaciones a que se refiere el número anterior deben realizarse dentro de los noventa días siguientes a la sesión constitutiva del Parlamento. Cuando la propuesta de las personas previstas en el apartado b) del número anterior no tenga lugar en dicho plazo, la Mesa del Parlamento, oídos los Grupos políticos presentes en la Cámara, procederá a su designación en consideración a la representación existente en la misma.
+3. Los miembros de la Junta Electoral de Andalucía serán nombrados por Decreto y continuarán en su mandato hasta la toma de posesión de la nueva Junta Electoral, al inicio de la siguiente legislatura.
+4. Los Vocales eligen, de entre los de origen judicial, al Presidente y Vicepresidente de la Junta en la sesión constitutiva que se celebrará a convocatoria del Secretario.
+5. El Secretario de la Junta Electoral de Andalucía es el Letrado Mayor del Parlamento, participa en sus deliberaciones con voz y sin voto y custodia la documentación correspondiente a la Junta Electoral.
+6. La Junta Electoral de Andalucía tendrá su sede en la del Parlamento.
+
+### Artículo 9
+
+Artículo 9.
+1. La Junta Electoral de Andalucía podrá requerir la presencia en sus reuniones, con voz y sin voto, de un representante en Andalucía de la Oficina del Censo Electoral, designado por su Director.
+2. Una vez constituida la Junta Electoral de Andalucía, su Presidente podrá requerir al Director de la Oficina del Censo Electoral para que proceda a efectuar la designación antes señalada.
+
+### Artículo 10
+
+Artículo 10.
+1. El Parlamento pondrá a disposición de la Junta Electoral de Andalucía los medios personales y materiales para el ejercicio de sus funciones.
+2. La misma obligación compete al Consejo de Gobierno y a los Ayuntamientos en relación con las Juntas Electorales Provinciales y de Zona, de conformidad con la Ley Electoral General.
+
+### Artículo 11
+
+Artículo 11.
+1. Los miembros de la Junta Electoral de Andalucía son inamovibles.
+2. Sólo podrán ser suspendidos por delitos o faltas electorales, mediante expediente incoado por la Junta Electoral Central en virtud de acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+3. En el supuesto previsto en el número anterior, así como en los casos de muerte, incapacidad, renuncia justificada y aceptada por el Presidente o pérdida de la condición por la que ha sido elegido, se procederá a la sustitución de los miembros de la Junta Electoral de Andalucía conforme a las siguientes reglas:
+a) Los Vocales serán sustituidos por los mismos procedimientos previstos para su designación.
+b) El Letrado Mayor del Parlamento será sustituido por el Letrado más antiguo y, en caso de igualdad, por el de mayor edad.
+
+### Artículo 12
+
+Artículo 12.
+1. El Consejo de Gobierno fijará las competencias económicas que correspondan a los miembros de las Juntas Electorales de Andalucía, Provinciales y de Zona para las Elecciones al Parlamento de la Comunidad.
+2. La percepción de dichas retribuciones es, en todo caso, compatible con la de sus haberes.
+3. El control financiero de dichas percepciones se realizar con arreglo a la legislación vigente.
+
+### Artículo 13
+
+Artículo 13.
+Además de las competencias establecidas en la legislación vigente, corresponde a la Junta Electoral de Andalucía:
+a) Resolver las consultas que le eleven las Juntas Provinciales y dictar instrucciones a las mismas en materia de su competencia.
+b) Resolver las quejas, reclamaciones y recursos que le dirijan de acuerdo con la presente Ley o con cualquier otra disposición que le atribuya esa competencia.
+c) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+d) Corregir las infracciones que se produzcan en el proceso electoral siempre que no sean constitutivas de delitos y no estén reservadas a los Tribunales o a la Junta Electoral Central, o imponer multas hasta la cantidad de 150.000 pesetas, conforme a lo establecido por la Ley.
+e) Cualesquiera otras que le atribuya la legislación electoral.
+
+## TÍTULO III
+
+Convocatoria de elecciones
+
+### Artículo 14
+
+Artículo 14.
+1. La convocatoria de elecciones al Parlamento se efectuará mediante Decreto del Presidente de la Junta de Andalucía, que será publicado en el «Boletín Oficial de la Junta de Andalucía».
+2. El Decreto de Convocatoria fijará la fecha de la votación, que no podrá estar comprendida entre los días 1 de julio a 31 de agosto, y la de la sesión constitutiva del Parlamento, que tendrá lugar dentro de los veinticinco días siguiente al de la celebración de las elecciones.
+Se modifica por el art. 2 de la Ley 6/1994, de 18 de mayo. Ref. BOE-A-1994-14602.
+
+### Artículo 15
+
+Artículo 15.
+El Decreto de convocatoria se insertará íntegramente en el «Boletín Oficial» de las ocho provincias en los ocho días siguientes a su publicación en el «Boletín Oficial de la Junta de Andalucía», y será ampliamente difundido por prensa, radio y televisión en el mismo lapso de tiempo.
+
+## TÍTULO IV
+
+Sistema electoral
+
+### Artículo 16
+
+Artículo 16.
+De conformidad con el artículo 104.1 del Estatuto de Autonomía, la circunscripción electoral es la provincia.
+Se modifica por el art. 4 de la Ley 9/2011, de 5 de diciembre. Ref. BOE-A-2011-20373.
+
+### Artículo 17
+
+Artículo 17.
+1. El Parlamento de Andalucía está formado por 109 Diputados.
+2. A cada provincia le corresponde un mínimo inicial de ocho Diputados.
+3. Los 45 Diputados restantes se distribuyen entre las provincias en proporción a su población, conforme al siguiente procedimiento:
+a) Se obtiene una cuota de reparto resultante de dividir por 45 la cifra total de la población de derecho de las ocho provincias.
+b) Se adjudican a cada provincia tantos Diputados como resulten, en números enteros, de dividir la población de derecho provincial por la cuota de reparto.
+c) Los Diputados restantes se distribuyen asignando uno a cada una de las provincias cuyo cociente, obtenido conforme al apartado anterior, tenga una fracción decimal mayor.
+4. El Decreto de convocatoria deberá especificar el número de Diputados a elegir en cada circunscripción, de acuerdo con lo dispuesto en este artículo.
+
+### Artículo 18
+
+Artículo 18.
+1. La atribución de los escaños en función de los resultados del escrutinio se realiza conforme a las siguientes reglas:
+a) No se tienen en cuenta aquellas candidaturas que no hubieren obtenido, al menos, el 3 por 100 de los votos válidos emitidos en la circunscripción.
+b) Se ordenan de mayor a menor, en una columna, las cifras de votos obtenidos por las restantes candidaturas.
+c) Se divide el número de votos obtenidos por cada candidatura por 1, 2, 3, etc., hasta un número igual al de escaños correspondientes a la circunscripción, formándose un cuadro similar al que aparece en el ejemplo práctico. Los escaños se atribuyen a las candidaturas que obtengan los cocientes mayores en el cuadro, atendiendo a un orden decreciente.
+d) Cuando en la relación de cocientes coincidan dos correspondientes a distintas candidaturas, el escaño se atribuirá a la que mayor número total de votos hubiese obtenido. Si hubiera dos candidaturas con igual número total de votos, el primer empate se resolverá por sorteo y los sucesivos de forma alternativa.
+e) Los escaños correspondientes a cada candidatura se adjudican a los candidatos incluidos en ella, por el orden de colocación en que aparezcan:
+Ejemplo práctico: 480.000 votos válidos emitidos en una circunscripción que elija once Diputados. Votación repartida en seis candidaturas:
+A (168.00 votos), B (104.000 votos), C (72.000 votos), D (64.000 votos), E (40.000 votos), F (32.000 votos).
+División
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ A
+ 168.000
+ 84.000
+ 56.000
+ 42.000
+ 36.600
+ 28.000
+ 24.000
+ 21.000
+ 18.667
+ 16.800
+ 15.273
+ B
+ 104.000
+ 52.000
+ 34.667
+ 26.000
+ 20.800
+ 17.333
+ 14.857
+ 13.000
+ 11.556
+ 10.400
+ 9.455
+ C
+ 72.000
+ 36.000
+ 24.000
+ 18.000
+ 14.400
+ 12.000
+ 10.286
+ 9.000
+ 8.000
+ 7.200
+ 6.515
+ D
+ 64.000
+ 32.000
+ 21.333
+ 16.000
+ 12.800
+ 10.667
+ 9.143
+ 8.000
+ 7.111
+ 6.400
+ 5.818
+ E
+ 40.000
+ 20.000
+ 13.133
+ 10.000
+ 8.000
+ 6.667
+ 5.714
+ 5.000
+ 4.444
+ 4.000
+ 3.636
+ F
+ 32.000
+ 16.000
+ 10.667
+ 8.000
+ 6.400
+ 5.333
+ 4.571
+ 4.000
+ 3.556
+ 3.200
+ 2.909
+Por consiguiente: la candidatura A obtiene cuatro escaños, la candidatura B tres escaños, la candidatura C dos escaños y las candidaturas D y E un escaño cada una.
+
+### Artículo 19
+
+Artículo 19.
+En caso de fallecimiento, incapacidad o renuncia de un Diputado, el escaño será atribuido al candidato o, en su caso, al suplente, de la misma lista a quien corresponda, atendiendo a su orden de colocación.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO I
+
+Representantes de las candidaturas ante la Administración Electoral
+
+### Artículo 20
+
+Artículo 20.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones designarán a las personas que deban presentarlos ante la Administración Electoral, como representantes generales o de candidaturas.
+2. Los representantes generales actúan en nombre de los partidos, federaciones y coaliciones concurrentes a las elecciones.
+3. Los representantes de las candidaturas lo son de los candidatos incluidos en ella. Al lugar designado expresamente o, en su defecto, a su domicilio se le remitirán las notificaciones, citaciones, emplazamientos y requerimientos dirigidos por la Administración Electoral a los candidatos y reciben de éstos, por la sola aceptación de la candidatura un apoderamiento general para actuar en procedimientos judiciales de carácter electoral.
+
+### Artículo 21
+
+Artículo 21.
+1. A los efectos previstos en el artículo anterior, los partidos, federaciones y coaliciones que pretendan concurrir a las elecciones designarán un representante general y un suplente mediante escrito presentado a la Junta Electoral de Andalucía, antes del noveno día posterior al de la convocatoria de la elecciones. El mencionado escrito habrá de expresar la aceptación de las personas elegidas. El suplente sólo podrá actuar en los casos de renuncia, muerte o incapacidad.
+2. El representante general, designará, mediante escrito presentado ante la Junta Electoral y antes del undécimo día posterior al de la convocatoria, los representantes de las candidaturas que su partido, federación o coalición presente en cada una de las circunscripciones electorales y sus respectivos suplentes.
+3. En el plazo de dos días, la Junta Electoral de Andalucía comunicará a las Juntas Electorales Provinciales la designación a que se refiere el número anterior.
+4. Los representantes de las candidaturas y sus suplentes se personarán ante las respectivas Juntas Electorales Provinciales para aceptar su designación, antes del decimoquinto día posterior al de la convocatoria de elecciones.
+5. Los promotores de las agrupaciones de electores designan a los representantes de sus candidaturas y sus suplentes en el momento de presentación de las mismas ante las Juntas Provinciales. Dicha designación debe ser aceptada en ese acto.
+
+## CAPÍTULO II
+
+Presentación y proclamación de candidatos
+
+### Artículo 22
+
+Artículo 22.
+1. En cada circunscripción, la Junta Electoral Provincial es la competente para todas las actuaciones previstas en relación con la presentación y proclamación de las candidaturas.
+2. Para presentar candidaturas, las agrupaciones de electores necesitarán, al menos, la firma del 1 por 100 de los inscritos en el Censo Electoral de la circunscripción. Cada elector sólo podrá apoyar una agrupación electoral.
+3. Las candidaturas presentadas y las proclamadas de todas las circunscripciones se publicarán en el «Boletín Oficial de la Junta de Andalucía» y en los de las ocho provincias.
+
+### Artículo 23
+
+Artículo 23.
+1. La presentación de candidaturas, en la que se alternarán hombres y mujeres, habrá de realizarse entre el decimoquinto y el vigésimo días posteriores a la convocatoria, mediante listas que deben incluir tantos candidatos como escaños a elegir por cada circunscripción y, además, cuatro candidatos suplentes, expresándose el orden de colocación de todos ellos, ocupando los de un sexo los puestos impares y los del otro los pares.
+2. Junto al nombre de los candidatos puede hacerse constar su condición de independiente o, en caso de coaliciones electorales, la denominación del partido al que cada uno pertenezca.
+3. No pueden presentarse candidaturas con símbolos que reproduzcan la bandera o el escudo de Andalucía o alguno de sus elementos constitutivos.
+4. Las Juntas Electorales Provinciales inscribirán las candidaturas presentadas, haciendo constar la fecha y hora de su presentación y expedirán documento acreditativo de este trámite. El Secretario otorgará un número correlativo a cada candidatura por su orden de presentación y este orden se guardará en todas las publicaciones.
+5. Toda la documentación se presentará por triplicado. Un primer ejemplar quedará en la Junta Electoral Provincial, un segundo se remitirá a la Junta Electoral de Andalucía, y el tercero, se devolverá al representante de la candidatura, haciendo constar la fecha y hora de la presentación.
+Se modifica el apartado 1 por el art. 2 de la Ley 5/2005, de 8 de abril. Ref. BOE-A-2005-7989.
+
+### Artículo 24
+
+Artículo 24.
+1. Las candidaturas presentadas deben ser publicadas al vigésimo segundo día posterior al de la convocatoria en el «Boletín Oficial de la Junta de Andalucía» y en los de las ocho provincias. Además, las de cada circunscripción electoral serán expuestas en los locales d e las respectivas Juntas Provinciales.
+2. Dos días después, las Juntas Electorales Provinciales comunicarán a los representantes de las candidaturas las irregularidades apreciadas en ellas, de oficio o mediante denuncia de los representantes de cualquier candidatura que concurra en la misma circunscripción. El plazo para subsanar las irregularidades apreciadas o denunciadas es de cuarenta y ocho horas.
+3. Las Juntas Electorales Provinciales realizan la proclamación de candidatos el vigésimo séptimo día posterior al de la convocatoria.
+4. Las candidaturas proclamadas deber ser publicadas el vigésimo octavo día posterior al de la convocatoria en el «Boletín Oficial de la Junta de Andalucía» y, además, las de cada circunscripción expuestas en los locales de las respectivas Juntas Provinciales.
+5. Los candidatos proclamados presentarán ante la Mesa del Parlamento de Andalucía, antes del día trigésimo primero posterior al de la convocatoria, declaración sobre actividades, bienes e intereses, conforme a los modelos que apruebe el Parlamento para los Diputados electos, que se publicarán en el Boletín Oficial del Parlamento de Andalucía y en el Boletín Oficial de la Junta de Andalucía, y estarán disponibles en internet antes del día trigésimo quinto posterior al de la convocatoria de elecciones.
+Se añade el apartado 5 por el art. 3 de la Ley 5/2005, de 8 de abril. Ref. BOE-A-2005-7989.
+
+### Artículo 25
+
+Artículo 25.
+1. Las candidaturas no podrán ser modificadas, una vez presentadas, salvo en el plazo habilitado para subsanar las irregularidades previsto en el artículo anterior y sólo por fallecimiento o renuncia del titular o como consecuencia del propio trámite de subsanación.
+2. Las bajas producidas después de la proclamación se entenderán cubiertas por los candidatos sucesivos y, en su caso, por los suplentes.
+
+## CAPÍTULO III
+
+Campaña electoral
+
+### Artículo 26
+
+Artículo 26.
+Se entiende por campaña electoral el conjunto de actividades licitas organizadas o desarrolladas por los partidos, federaciones, coaliciones, agrupaciones de electores y candidatos en orden a la captación de sufragios.
+
+### Artículo 27
+
+Artículo 27.
+1. El Decreto de convocatoria fijará la fecha de iniciación de la campaña electoral y el día de la votación.
+2. Durante la campaña electoral el Consejo de Gobierno podrá realizar campaña institucional orientada exclusivamente a fomentar la participación de los electores en la votación.
+
+## CAPÍTULO IV
+
+Utilización de medios de comunicación de titularidad publica para la campaña electoral
+
+### Artículo 28
+
+Artículo 28.
+1. En los términos previstos en el artículo 65.6 de la Ley orgánica sobre Régimen Electoral General, la Junta Electoral de Andalucía es la competente para distribuir los espacios gratuitos de propaganda electoral, a propuesta de la Comisión a que se refiere el número siguiente.
+2. La Comisión de control será designada por la Junta Electoral de Andalucía y estará integrada por un representante de cada partido, federación, coalición o agrupación que concurra a las elecciones y tenga representación en el Parlamento. Dichos representantes votarán ponderadamente de acuerdo con la composición de la Cámara.
+3. La Junta Electoral de Andalucía elige también al Presidente de la Comisión de control de entre los representantes nombrados conforme al apartado anterior.
+
+### Artículo 29
+
+Artículo 29.
+1. La distribución del tiempo gratuito de propaganda electoral en cada medio de comunicación de titularidad pública, y en los distintos ámbitos de programación que éstos tengan, se efectúa conforme al siguiente baremo:
+a) Cinco minutos para los partidos, federaciones y coaliciones que no concurrieron o no obtuvieron representación en las anteriores elecciones autonómicas o para aquéllos que, habiéndola obtenido, no hubieran alcanzado el 5 por 100 del total de votos válidos emitidos en el territorio de la Comunidad Autónoma.
+b) Quince minutos para los partidos, federaciones y coaliciones que, habiendo concurrido a las anteriores elecciones autonómicas, hubieran alcanzado entre el 5 y 15 por 100 del total votos a que se hace referencia en el apartado anterior.
+c) Veinticinco minutos para los partidos, federaciones y coaliciones que, habiendo concurrido a las anteriores elecciones autonómicas, hubieran alcanzado más de un 15 por 100 del total de votos a que se hace referencia en el apartado a) de este artículo.
+2. El derecho a los tiempos de emisión gratuita, enumerados en el apartado anterior, sólo corresponde a aquellos partidos, federaciones y coaliciones que presenten candidaturas en las ocho provincias de la Comunidad Autónoma.
+3. Las agrupaciones de electores que se federen para realizar propaganda en los medios de titularidad pública tendrán derecho a cinco minutos de emisión, si cumplen el requisito de presentación de candidatura exigido en el número anterior.
+
+### Artículo 30
+
+Artículo 30.
+Para determinar el momento y el orden de emisión de los espacios gratuitos de propaganda electoral a que tienen derecho los partidos, federaciones, coaliciones o agrupaciones que concurran a las elecciones, de acuerdo con lo previsto en esta Ley, la Junta Electoral de Andalucía tendrá en cuenta las preferencias de aquéllos en función del número de votos que obtuvieron en las anteriores elecciones autonómicas.
+
+## CAPÍTULO V
+
+Papeletas y sobres electorales
+
+### Artículo 31
+
+Artículo 31.
+1. Las Juntas Electorales Provinciales aprueban el modelo oficial de las papeletas de votación correspondientes a su circunscripción.
+2. El Consejo de Gobierno asegurará la disponibilidad de las papeletas y sobres de votación de acuerdo con lo dispuesto en el artículo siguiente, sin perjuicio de su eventual confección por los partidos o grupos políticos que concurran a las elecciones.
+
+### Artículo 32
+
+Artículo 32.
+1. La confección de las papeletas se inicia inmediatamente después de la proclamación de candidatos.
+2. Si contra ésta se hubiesen interpuesto recurso ante el Órgano Judicial de lo Contencioso-Administrativo competente en la provincia, la confección de las papeletas correspondientes se pospone en la circunscripción electoral donde hayan sido interpuestos hasta la resolución de dichos recursos.
+3. Las primeras papeletas confeccionadas se entregarán a la Delegación de Gobierno en Andalucía para su envío a los residentes ausentes que viven en el extranjero.
+4. Los Delegados Provinciales de la Consejería de Gobernación aseguran la entrega de las papeletas y sobres en número suficiente a las Mesas Electorales, al menos una hora antes del momento en que deba iniciarse la votación.
+
+### Artículo 33
+
+Artículo 33.
+Las papeletas electorales contendrán las siguientes indicaciones:
+a) La denominación, sigla y símbolo del partido, federación, coalición o agrupación de electores que presenten la candidatura.
+b) Los nombres y apellidos de los candidatos y de los suplentes, según se orden de colocación, así como, en su caso, la condición de independiente de los candidatos que concurran con tal carácter o, en caso de coaliciones electorales, la denominación del partido a que pertenezca cada uno si así se ha hecho constar en la presentación de la candidatura.
+
+## CAPÍTULO VI
+
+Voto por correo
+
+### Artículo 34
+
+Artículo 34.
+Los electores que prevean que en la fecha de la votación no se hallarán en la localidad donde les corresponde ejercer su derecho de voto, o que no puedan personarse, pueden emitir su voto por correo, de acuerdo con lo dispuesto en la Ley orgánica del Régimen Electoral General.
+
+## CAPÍTULO VII
+
+Apoderados e Interventores
+
+### Artículo 35
+
+Artículo 35.
+1. El representante de cada candidatura puede otorgar poder a favor de cualquier ciudadano, mayor de edad y que se halle en pleno goce de sus derechos civiles y políticos, al objeto de que ostente la representación de la candidatura en los actos y operaciones electorales.
+2. El apoderamiento se formaliza ante Notario o ante el Secretario de la Junta Electoral Provincial o de Zona, quienes expiden la correspondiente credencial conforme al modelo oficialmente establecido.
+3. Los apoderados deben exhibir sus credenciales y su documento nacional de identidad a los miembros de las Mesas Electorales y demás autoridades competentes.
+
+### Artículo 36
+
+Artículo 36.
+Los apoderados tienen derecho a acceder libremente a los locales electorales, a examinar el desarrollo de las operaciones de voto y de escrutinio y a formular reclamaciones y protestas, así como a recibir las certificaciones previstas en la legislación electoral, cuando no hayan sido expedidas a otro apoderado o Interventor de su misma candidatura.
+
+### Artículo 37
+
+Artículo 37.
+1. El representante de cada candidatura puede nombrar, hasta tres días antes de la elección, dos Interventores por cada Mesa Electoral, para que comprueben que la votación se desarrolla de acuerdo con las normas establecidas.
+2. Para ser designado Interventor es necesario estar inscrito como elector en la circunscripción correspondiente.
+3. El nombramiento de los Interventores se hará mediante la expedición de credenciales talonarias, con la fecha y firma al pie del nombramiento.
+4. Las hojas talonarias por cada Interventor habrán de estar divididas en cuatro partes: una, como matriz, para conservarla al representante, la segunda se entregará al Interventor como credencial, la tercera y cuarta serán remitidas a la Junta Electoral de Zona para que ésta haga llegar una de éstas a la Mesa Electoral de que forma parte y otra a la Mesa en cuya lista electoral figure inscrito para su exclusión de la Mesa.
+5. El envío de las Juntas Electorales de Zona se hará hasta el mismo día tercero anterior al de la votación y aquéllas harán la remisión a las Mesas de modo que obren en su poder en el momento de constituirse las mismas el día de la votación.
+6. Para integrarse en la Mesa el día de la votación se comprobará que la credencial es conforme a la hoja talonaria que se encuentra en poder de la Mesa. De no ser así o de no existir hoja talonaria podrá dársele posesión, consignando el incidente en el acta. En este caso, sin embargo, el Interventor no podrá votar en la Mesa en que esté acreditado.
+Si el Interventor concurre sin su credencial, una vez que la Mesa ha recibido la hoja talonaria, previa comprobación de su identidad, se le permitirá integrarse en la Mesa, teniendo en este caso, derecho a votar en la misma.
+
+### Artículo 38
+
+Artículo 38.
+1. Los Interventores, como miembros de las Mesas, colaborarán en el mejor desarrollo del proceso de votación y escrutinio, velando con el Presidente y los Vocales para que los actos electorales se realicen de acuerdo con la Ley.
+2. Un Interventor de cada candidatura puede participar en las deliberaciones de la Mesa, con voz pero sin voto, y ejercer ante ella los demás derechos previstos en la legislación electoral.
+3. A los efectos de lo previsto en el párrafo anterior, los Interventores de una misma candidatura acreditada ante la Mesa pueden sustituirse libremente entre sí.
+4. Además, los Interventores podrán:
+a) Solicitar certificaciones del acta de constitución de la Mesa, certificación del escrutinio, del acta general de la sesión o de un extremo determinado de ellas. No se expedirá más de una certificación por candidatura.
+b) Reclamar sobre la identidad de un elector, lo que deberán realizar públicamente.
+c) Anotar, si lo desean, en una lista enumerada de electores, el nombre y número de orden en que emiten sus votos.
+d) Pedir durante el escrutinio la papeleta leída por el Presidente para su examen.
+e) Formular las protestas y reclamaciones que consideren oportunas, teniendo derecho a hacerlas constar en el acta general de la sesión.
+
+## CAPÍTULO VIII
+
+Remisión de las listas de Parlamentarios electos
+
+### Artículo 39
+
+Artículo 39.
+La Presidencia de la Junta Electoral de Andalucía remitirá al Parlamento la lista de los Parlamentarios proclamados electos en las circunscripciones electorales de la Comunidad Autónoma.
+
+## TÍTULO VI
+
+Gastos y subvenciones electorales
+
+## CAPÍTULO I
+
+Los Administradores y las cuentas electorales
+
+### Artículo 40
+
+Artículo 40.
+1. Los partidos, federaciones, coaliciones o agrupaciones de electores que presenten candidatura en más de una provincia deberán tener un Administrador electoral general.
+2. El Administrador electoral general responde de todos los ingresos y gastos electorales realizados por el partido, federación, coalición o agrupación de electores y por sus candidaturas, así como de la correspondiente contabilidad.
+
+### Artículo 41
+
+Artículo 41.
+1. Además habrá un Administrador electoral provincial, que será responsable de los ingresos y gastos y de la contabilidad correspondiente de la candidatura en la circunscripción provincial.
+2. Los Administradores electorales provinciales, actúan bajo la responsabilidad del Administrador electoral general.
+
+### Artículo 42
+
+Artículo 42.
+1. Puede ser designado Administrador electoral cualquier ciudadano, mayor de edad, en pleno uso de sus derechos civiles y políticos.
+2. Los representantes generales y los de las candidaturas pueden acumular la condición de Administrador electoral.
+3. Los candidatos no pueden ser Administradores electorales.
+
+### Artículo 43
+
+Artículo 43.
+1. El Administrador electoral general será designado por los representantes generales de los partidos, federaciones, coaliciones o agrupaciones de electores mediante escrito presentado ante la Junta Electoral de Andalucía, antes del decimoquinto día posterior al de la convocatoria de las elecciones. El escrito deberá contener el nombre y apellidos de la persona designada y su aceptación expresada.
+2. La designación de los Administradores electorales provinciales se hará mediante escrito firmado por sus representantes y presentado ante la Junta Electoral Provincial correspondiente en el acto mismo de presentación de las candidaturas. El escrito habrá de contener la aceptación de la persona designada. Las Juntas Electorales Provinciales comunicarán a la Junta Electoral de Andalucía los designados en su circunscripción.
+
+### Artículo 44
+
+Artículo 44.
+1. Los Administradores electorales generales y provinciales, designados en tiempo y forma, comunicarán a la Junta Electoral de Andalucía y a las Provinciales, respectivamente, las cuentas abiertas para la recaudación de fondos.
+2. La apertura de cuenta puede realizarse, a partir de la fecha de nombramiento de los Administradores electorales, en cualquier Entidad bancaria o Caja de Ahorros. La comunicación a que hace referencia el apartado anterior ha de realizarse en las veinticuatro horas siguientes a la apertura de las cuentas.
+3. Si las candidaturas presentadas no fueran proclamadas o renunciasen a concurrir a las elecciones, las imposiciones realizadas por terceros en estas cuentas les deberán ser restituidas por los partidos, federaciones, coaliciones agrupaciones que las promovieron.
+
+## CAPÍTULO II
+
+La financiación electoral
+
+### Artículo 45
+
+Artículo 45.
+1. La Comunidad Autónoma subvencionará los gastos electorales de acuerdo con las siguientes reglas:
+a) Dos millones trescientas mil pesetas por cada escaño obtenido.
+b) Ochenta y cinco pesetas por voto conseguido por cada candidatura que haya obtenido, al menos, un escaño.
+2. Ningún partido, federación, coalición o agrupación de electores podrá realizar gastos que superen los límites establecidos en el apartado siguiente.
+3. El límite de los gastos electorales en pesetas por cada partido, federación, coalición o agrupación de electores será el que resulte de multiplicar por cuarenta y cinco el número de habitantes correspondientes a la población de derecho de la circunscripción donde aquéllos presenten sus candidaturas.
+4. Las cantidades mencionadas se refieren a pesetas constantes. Por Orden de la Consejería de Hacienda se fijarán las cantidades actualizadas en los cinco días siguientes al de la convocatoria de elecciones.
+Se modifica por el art. único de la Ley autonómica 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+
+### Artículo 46
+
+Artículo 46.
+1. La Comunidad Autónoma concederá anticipos de las subvenciones mencionadas a los partidos, federaciones y coaliciones que hubiesen obtenido representante en las últimas elecciones autonómicas. La cantidad anticipada no podrá exceder del 30 por 100 de la subvención percibida por el mismo partido, federación o coalición en las últimas elecciones ni del mismo porcentaje de la subvención que resultare de la aplicación de las previsiones contenidas en el artículo siguiente.
+2. Si concurriesen en más de una provincia, la solicitud se formulará por el Administrador general ante la Junta Electoral de Andalucía. En los restantes supuestos, por el Administrador de la candidatura ante la Junta Electoral Provincial correspondiente, que la cursará a la Electoral de Andalucía.
+3. Los anticipos podrán solicitarse entre los días vigésimo primero y vigésimo tercero posteriores al de la convocatoria.
+4. A partir del vigésimo noveno día posterior al de la convocatoria, la Administración de la Comunidad Autónoma pondrá a disposición de los Administradores electorales los anticipos correspondientes.
+5. Los anticipos se devolverán, después de las elecciones, en la cuantía en que superen el importe de la subvención que finalmente haya correspondido a cada partido, federación, coalición o agrupación de electores.
+Se modifica por el art. único de la Ley 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+
+### Artículo 46 bis
+
+Artículo 46 bis.
+1. Además de las subvenciones a las que se refiere el apartado primero del artículo 45, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones o agrupaciones de electores, los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Sólo se abonará la cantidad correspondiente al porcentaje de votos obtenido cuando el partido, federación, coalición o agrupación de electores haya obtenido, al menos, un escaño en el Parlamento de Andalucía, y supere el 5 por 100 del total de votos válidos emitidos.
+b) La cantidad que corresponda no estará incluida dentro del límite previsto en el apartado tercero del artículo 45 de la presente Ley.
+c) La subvención se abonará con la justificación de la realización efectiva de la actividad a que se refiere este artículo.
+d) Las cantidades a subvencionar por la Comunidad Autónoma serán las siguientes:
+Doce pesetas por elector cuando se obtengan más del 5 por 100 y hasta el 10 por 100 de los votos válidos emitidos en las elecciones.
+Dieciséis pesetas por elector cuando el resultado supere el 10 por 100 de los votos y hasta el 15 por 100 de los sufragios.
+Veinte pesetas por elector cuando el resultado supere el 15 por 100 de los votos y hasta el 20 por 100 de los sufragios.
+Veinticuatro pesetas por elector cuando el resultado supere el 20 por 100 de los votos y hasta el 25 por 100 de los sufragios.
+Veintiocho pesetas por elector cuando el resultado supere el 25 por 100 de los votos y hasta el 30 por 100 de los sufragios.
+Treinta y dos pesetas por elector cuando el resultado supere el 30 por 100 de los votos y hasta el 35 por 100 de los sufragios.
+Treinta y seis pesetas por elector cuando el resultado supere el 35 por 100 de los votos válidos emitidos en las elecciones.
+Se añade por el art. único de la Ley 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+ Téngase en cuenta para el cálculo de la subvención en las elecciones de 1994 lo dispuesto en la disposición adicional 1.
+
+## CAPÍTULO III
+
+Control de la contabilidad electoral y adjudicación de las subvenciones
+
+### Artículo 47
+
+Artículo 47.
+1. Además de las subvenciones a las que se refiere el apartado primero del artículo 45, la Comunidad Autónoma subvencionará a los partidos, federaciones, coaliciones o agrupaciones de electores, los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral, de acuerdo con las siguientes reglas:
+a) Sólo se abonará la cantidad correspondiente al porcentaje de votos obtenido cuando el partido, federación, coalición o agrupación de electores haya obtenido, al menos, un escaño en el Parlamento de Andalucía, y supere el 5 por 100 del total de votos válidos emitidos.
+b) La cantidad que corresponda no estará incluida dentro del límite previsto en el apartado tercero del artículo 45 de la presente Ley.
+c) La subvención se abonará con la justificación de la realización efectiva de la actividad a que se refiere este artículo.
+d) Las cantidades a subvencionar por la Comunidad Autónoma serán las siguientes:
+Doce pesetas por elector cuando se obtengan más del 5 por 100 y hasta el 10 por 100 de los votos válidos emitidos en las elecciones.
+Dieciséis pesetas por elector cuando el resultado supere el 10 por 100 de los votos y hasta el 15 por 100 de los sufragios.
+Veinte pesetas por elector cuando el resultado supere el 15 por 100 de los votos y hasta el 20 por 100 de los sufragios.
+Veinticuatro pesetas por elector cuando el resultado supere el 20 por 100 de los votos y hasta el 25 por 100 de los sufragios.
+Veintiocho pesetas por elector cuando el resultado supere el 25 por 100 de los votos y hasta el 30 por 100 de los sufragios.
+Treinta y dos pesetas por elector cuando el resultado supere el 30 por 100 de los votos y hasta el 35 por 100 de los sufragios.
+Treinta y seis pesetas por elector cuando el resultado supere el 35 por 100 de los votos válidos emitidos en las elecciones.
+Se añade y renumera por el art. único y disposición adicional 2 de la Ley autonómica 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+ Su anterior numeración era art. 46 bis.
+ Téngase en cuenta para el cálculo de la subvención en las elecciones de 1994 lo dispuesto en la disposición adicional 1.
+
+## CAPÍTULO III
+
+Control de la contabilidad electoral y adjudicación de las subvenciones
+
+### Artículo 48
+
+Artículo 48.
+1. Entre los ciento y ciento veinticinco días posteriores al de las elecciones, los partidos, federaciones, coaliciones y agrupaciones de electores que hubieran alcanzado los requisitos exigidos para recibir subvenciones de la Comunidad Autónoma o que hubieran solicitado adelantos con cargo a las mismas presentarán, ante la Cámara de Cuentas, una contabilidad detallada y documentada de sus respectivos ingresos y gastos electorales.
+2. La presentación se realizará por los Administradores generales de aquellos partidos, federaciones, coaliciones o agrupaciones que hubieran concurrido a las elecciones en varias provincias, y por los Administradores de las candidaturas en los restantes casos.
+3. La Comunidad Autónoma, en el plazo de treinta días posteriores a la presentación ante la Cámara de Cuentas de su contabilidad, y en concepto de adelanto mientras no concluyan las actuaciones del mismo, entregará a los Administradores electorales el 90 por 100 del importe de las subvenciones que, de acuerdo con los criterios establecidos en la presente Ley, les corresponda de acuerdo con los resultados generales publicados en el «Boletín Oficial de la Junta de Andalucía» descontados, en su caso, los anticipos a que se refiere el artículo 46 de esta Ley. En dicho acto, los partidos, coaliciones y federaciones deberán presentar para poder percibir ese anticipo aval bancario por el 10 por 100 de la subvención percibida.
+4. La Administración de la Comunidad Autónoma entregara el importe de las subvenciones a los Administradores electorales de los partidos, federaciones, coaliciones o agrupaciones que deban percibirlas, a no ser que hubieran notificado a la Junta Electoral de Andalucía que las subvenciones sean abonadas, en todo o en parte, a las entidades bancarias que designen para compensar los créditos o anticipos que les hubiesen otorgado. La Administración de la Comunidad Autónoma verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin el consentimiento de la entidad de crédito beneficiaria.
+Se modifican los apartados 1 y 2 por el art. 163 de la Ley 18/2003, de 29 de diciembre. Ref. BOE-A-2004-1739.
+ Se modifica y renumera por el art. único y la disposición adicional 2 de la Ley autonómica 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+ Su anterior numeración era art. 47.
+
+### Artículo 49
+
+Artículo 49.
+1. En todo lo demás se estará a lo dispuesto en el artículo 134 de la Ley orgánica sobre Régimen Electoral General, remitiéndose el resultado de la fiscalización a que se refiere el número 3 del citado artículo 134 al Consejo de Gobierno y a la Comisión de Gobierno Interior y Peticiones del Parlamento de Andalucía.
+2. Si no existiera previsión en el Presupuesto, dentro del mes siguiente a la remisión del informe de la Cámara de Cuentas, el Consejo de Gobierno deberá autorizar la modificación presupuestaria que corresponda para sufragar el importe de las subvenciones a adjudicar. De dicha modificación se dará traslado, para su conocimiento, a la Comisión competente en materia de Hacienda del Parlamento de Andalucía. Las subvenciones deberán ser hechas efectivas en el plazo de un mes desde la remisión del informe de la Cámara de Cuentas, en caso de que existiese previsión en el Presupuesto, o de la aprobación de la modificación presupuestaria referida en el párrafo anterior, si no existiera tal previsión.
+Se modifica el apartado 2 por la disposición final 9 de la Ley 6/2019, de 19 de diciembre. Ref. BOE-A-2020-1068
+ Se modifica el apartado 2 por el art. 163 de la Ley 18/2003, de 29 de diciembre. Ref. BOE-A-2004-1739.
+ Se renumera por la disposición adicional 2 de la Ley autonómica 5/1994, de 3 de mayo. Ref. BOE-A-1994-12978.
+ Su anterior numeración era art. 48.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el cumplimiento y ejecución de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los plazos a los que se refiere esta Ley son improrrogables, y se entienden referidos siempre a días naturales, excepto el establecido en el artículo 14.2 de esta Ley para celebrar la sesión constitutiva del Parlamento.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se constituya el Tribunal Superior de Justicia, los Vocales a que se refiere el artículo 8.1.a) serán designados de la siguiente manera:
+a) Dos de entre los Magistrados de la Audiencia Territorial de Sevilla por insaculación celebrada ante su Presidente.
+b) Dos de entre los Magistrados de la Audiencia Territorial de Granada por en la misma forma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La primera designación de los miembros de la Junta Electoral de Andalucía debe realizarse, según el procedimiento previsto en el artículo 8 y la anterior disposición, dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
+Designados los Vocales de la Junta Electoral de Andalucía, se procederá a la constitución de la misma en el plazo de cinco días.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta tanto entren en funcionamiento los Juzgados de lo Contencioso-Administrativo y el Tribunal Superior de Justicia de Andalucía, todas las referencias al mismo, contenidas en esta Ley, serán desarrolladas por las Salas de lo Contencioso-Administrativo existentes en las Audiencias Territoriales de Granada y Sevilla.
+
+### Disposición final primera
+
+Disposición final primera.
+EN todo lo no previsto en esta Ley serán de aplicación las normas vigentes para las elecciones al Congreso de los Diputados de las Cortes Generales, con las adaptaciones y modificaciones derivadas del carácter y ámbito de la consulta electoral al Parlamento de Andalucía y, en este sentido, se entiende que las competencias atribuidas al Estado y a sus Órganos y Autoridades se asignan a las correspondientes de la Comunidad Autónoma respecto de las materias que no son competencia exclusiva de aquél.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al siguiente día de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+Sevilla, 2 de enero de 1986
+ENRIQUE LINDE CIRUJANO
+ JOSÉ RODRÍGUEZ DE LA BORBOLLA
+ Consejero de Gobernación
+ Presidente de la Junta de Andalucía

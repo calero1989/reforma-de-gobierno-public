@@ -1,0 +1,899 @@
+# Ley 1/2002, de 26 de febrero, del Comercio de Cantabria.
+
+- Identificador BOE: `BOE-A-2002-6232`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-6232
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 1/2002, de 26 de febrero, del Comercio de Cantabria.
+PREÁMBULO
+El artículo 24.13 del Estatuto de Autonomía para Cantabria, reformado por la Ley Orgánica 11/1998, de 30 de diciembre, atribuye a la Comunidad Autónoma la competencia exclusiva en materia de comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado y de la legislación sobre defensa de competencia. Estas competencias debe ejercerlas de acuerdo con las bases y la ordenación de la actuación económica general y la política monetaria del Estado, en los términos de los artículos 38, 131 y en los párrafos 11.a y 13.a del apartado 1 del artículo 149 de la Constitución Española.
+Haciendo uso de esta competencia, el Gobierno de Cantabria aprobó el Decreto 12/2000, de 8 de marzo, de Ordenación del Comercio Minorista de la Comunidad Autónoma de Cantabria, el cual, como se desprende de su título, se limitaba a desarrollar la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, así como su complementaria Ley Orgánica 2/1996, de la misma fecha, teniendo en cuenta la casuística propia del sector comercial de Cantabria, aunque referido, exclusivamente, a aquellas cuestiones con una problemática que requerían una urgente regulación y con una naturaleza provisional «ante la certeza de la tramitación de la oportuna Ley de Comercio», según se indicaba en su exposición de motivos.
+El siguiente paso en la regulación específica del comercio en Cantabria lo constituye la presente Ley, en cuya elaboración se han tenido en cuenta los principios generales que inspiran las referidas Leyes estatales, así como las normas liberalizadoras contenidas en el Real Decreto-ley 6/2000, de 23 de junio, de medidas urgentes de intensificación de la competencia en mercados de bienes y servicios, respetando sus preceptos básicos.
+Ello no obstante, se ha pretendido atender las necesidades particulares que el comercio de Cantabria precisa en su regulación, para lo cual se ha tenido en cuenta, particularmente, la experiencia acumulada durante estos años en ejecución de la normativa estatal de comercio.
+Consecuentemente, la estructura de la presente Ley coincide básicamente con la de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y, de hecho, recoge literalmente diversos preceptos de la misma, técnica que ha parecido más conveniente para facilitar su comprensión.
+La Ley consta de 82 artículos, seis títulos, tres disposiciones adicionales, tres transitorias, una derogatoria y tres finales.
+Entrando en el análisis de dicha estructura, en el título I se enuncian los principios generales.
+Entre estos principios generales, además de la definición de determinados conceptos básicos, se crea un Registro de Asociaciones de Comerciantes de Cantabria, con el cual se pretende institucionalizar una figura de gran importancia para el desarrollo del sector, como es la de la agrupación de empresarios del comercio.
+Asimismo, se definen y regulan los grandes establecimientos comerciales y los establecimientos de descuento duro, estableciendo que, para su apertura, se deberá obtener una licencia comercial específica, e indicando, además, los criterios fundamentales que deberán tenerse en cuenta para la elaboración de una futura ley de estructuras comerciales, con cuya aprobación se dispondrá de un mapa comercial de Cantabria, en el que, definidas las zonas y subzonas de influencia, se delimitarán los eventuales espacios cuya dotación comercial pueda verse mejorada.
+El título II de la Ley se refiere a la regulación de los horarios comerciales.
+Su redacción, inevitablemente, es reflejo de la normativa básica estatal establecida en el Real Decreto-ley 6/2000, por el que se establece un escalonamiento en el número mínimo de domingos que los establecimientos comerciales podrán abrir al público y que llegará a ser de doce en el año 2004.
+Por lo demás, la normativa en materia de horarios contemplada en la Ley mantiene los criterios ya establecidos en el Decreto 12/2000, de 8 de marzo.
+El título III trata de las actividades de promoción de venta.
+En esta materia, la experiencia adquirida en los últimos años ha permitido introducir cuestiones normativas propias con las que se pretende dar solución a la problemática existente en materia de promociones y rebajas.
+Las ventas especiales se contemplan en el título IV.
+Este tipo de ventas comprende la venta a distancia, la venta automática, la venta ambulante o no sedentaria, la venta en pública subasta, la venta ocasional y la venta domiciliaria, actividades comerciales que requieren una autorización administrativa específica para su ejercicio.
+En la consideración de que, salvo las ventas a distancia, esta categoría de ventas tiene una repercusión estrictamente local en aplicación del principio de autonomía municipal, la Ley otorga la competencia para la concesión de las correspondientes autorizaciones a los Ayuntamientos de Cantabria, sin perjuicio de establecer unas directrices mínimas que deberán ser observadas por las Administraciones locales en la tramitación de los oportunos expedientes de autorización, destacando, particularmente, las que conciernen a la venta ambulante.
+Precisamente este último tipo de actividad comercial ha sido objeto de un cuidadoso tratamiento en la Ley, guiado por el objetivo de dignificar y profesionalizar la venta realizada fuera de un establecimiento comercial permanente, actividad que, en determinadas zonas de Cantabria, viene a cubrir una necesidad de abastecimiento y que, por otro lado, puede complementar la oferta de los establecimientos permanentes compatibilizando los intereses legítimos de las distintas fórmulas comerciales en beneficio de una mayor atracción del comercio urbano.
+El título V de la Ley regula la actividad comercial en régimen de franquicia, limitándose, prácticamente, a reproducir la normativa estatal en esta materia y estableciendo el procedimiento de inscripción en el correspondiente Registro.
+Finalmente, el título VI trata del régimen de infracciones y sanciones, pudiéndose destacar, al respecto, que se ha establecido un sistema de graduación del importe de las sanciones que no sólo tendrá en cuenta la gravedad de la infracción cometida, sino también el tamaño económico de la empresa infractora.
+En cuanto a las disposiciones transitorias, debe destacarse, en la primera, la mención a la futura ley de estructuras comerciales de Cantabria, la cual, como se ha dicho, determinará los parámetros concretos que permitirán decidir sobre la instalación de grandes establecimientos comerciales y establecimientos de descuento duro, estableciendo, en consecuencia, una moratoria en la tramitación de las correspondientes solicitudes hasta la entrada en vigor de dicha ley.
+Asimismo, la disposición transitoria segunda establece una serie de plazos para que los Ayuntamientos adapten sus ordenanzas a la presente Ley.
+Por último, la presente Ley se ha elaborado oído el Consejo Económico y Social de Cantabria y consultados los representantes del Sector Comercial.
+
+## TÍTULO I
+
+Principios generales
+
+## CAPÍTULO ÚNICO
+
+Conceptos básicos
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley tiene por objeto la regulación del comercio interior en el ámbito de la Comunidad Autónoma de Cantabria.
+
+### Artículo 2
+
+Artículo 2. Actividad comercial.
+1. A los efectos de esta Ley, se entiende por actividad comercial la que consiste en ofrecer en el mercado toda clase de bienes de uso y consumo.
+2. La actividad comercial se ejerce bajo el principio de libertad de empresa y en el marco de la economía de mercado, de acuerdo con lo dispuesto en el artículo 38 de la Constitución y en el resto de la legislación vigente.
+3. Se considera que la actividad comercial tendrá carácter minorista cuando tenga como destinatario al consumidor final.
+4. La actividad comercial se entenderá de carácter mayorista cuando tenga como destinatarios a otros empresarios que no sean consumidores finales.
+5. En la oferta al público de mercancías de cualquier clase, únicamente podrá invocarse por el vendedor su condición de fabricante o mayorista cuando, en el primer caso, fabrique realmente los productos anunciados y, en el segundo, realice sus operaciones de venta fundamentalmente a comerciantes minoristas. En ambos casos, además, los precios ofertados deberán ser los mismos que apliquen a comerciantes, mayoristas o minoristas, según los casos.
+6. Cuando la actividad comercial tenga un carácter limitado en el tiempo, deberá indicarse con claridad su duración.
+
+### Artículo 3
+
+Artículo 3. Deber de colaboración.
+1. Los empresarios dedicados a la actividad comercial y sus representantes deberán atender y cumplir los requerimientos que la Administración competente y sus agentes les dirijan en el ejercicio de sus funciones de vigilancia, así como suministrar cuanta información les sea requerida en relación con las mismas.
+Igualmente, deberán facilitar esta información los órganos de las Administraciones públicas, empresas públicas, organismos oficiales, registros públicos y organizaciones empresariales y profesionales.
+2. En el curso de la actuación inspectora, los funcionarios encargados de la inspección de comercio tendrán el carácter de autoridad y podrán acceder directamente a la documentación de las empresas que inspeccionen cuando lo consideren necesario para comprobar el cumplimiento de las prescripciones legales que regulen el ejercicio de la actividad comercial de que se trate, estando obligados a cumplir el deber de sigilo profesional.
+
+### Artículo 4
+
+Artículo 4. Registro de Asociaciones de Comerciantes.
+1. Se crea el Registro de asociaciones de comerciantes de Cantabria, en el cual podrán inscribirse las asociaciones sin fines de lucro con domicilio social en Cantabria que agrupen empresas de comercio mayorista o minorista que desarrollen su actividad dentro del ámbito territorial de esta Comunidad Autónoma.
+2. La inscripción en dicho Registro, así como en los que corresponda por su propia naturaleza jurídica, será condición imprescindible para que una asociación de comerciantes, según se define en el apartado anterior, pueda optar a una convocatoria de ayudas de la Administración de la Comunidad Autónoma.
+3. El Registro de Asociaciones de Comerciantes de Cantabria tendrá carácter público, siendo la inscripción en el mismo voluntaria y gratuita.
+
+### Artículo 5
+
+Artículo 5. Establecimiento comercial.
+1. Tendrán la consideración de establecimientos comerciales los locales y las construcciones o instalaciones de carácter fijo y permanente, cubiertos o sin cubrir, que estén en el exterior o interior de una edificación, con escaparates o sin ellos, destinados al ejercicio regular de actividades comerciales, independientemente de que se realice de forma continuada o en días o temporadas determinadas.
+2. Los establecimientos comerciales podrán ser de carácter individual o colectivo. Tendrán la consideración de establecimientos de carácter colectivo los que estén integrados por un conjunto de establecimientos comerciales individuales integrados en un edificio o complejo de edificios, en los que, con independencia de que las respectivas actividades puedan ejercerse de forma empresarialmente independiente, concurra alguno de los siguientes elementos:
+a) Acceso común desde la vía pública, de uso exclusivo o preferente de los establecimientos y de sus clientes.
+b) Áreas de estacionamiento privadas comunes y contiguas a los diferentes establecimientos.
+c) La gestión conjunta de servicios comunes para los clientes.
+d) La realización de comunicaciones comerciales conjuntas.
+Se modifica por el art. 1.1 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se modifica por la disposición adicional 1 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 6
+
+Artículo 6. Grandes Establecimientos Comerciales.
+1. Tendrán la consideración de Gran Establecimiento Comercial:
+a) Los establecimientos comerciales individuales o colectivos que cuenten con una superficie útil de exposición y venta al público superior a dos mil quinientos metros cuadrados.
+b) Los parques temáticos, en relación con sus actividades comerciales, cuando el conjunto de la superficie útil de exposición y venta al público supere los dos mil quinientos metros cuadrados o el quince por ciento de la superficie edificada total. Se entiende por actividad comercial del parque temático la de venta al por menor de productos directamente relacionados con su actividad principal dentro de su recinto.
+2. La apertura de un gran establecimiento comercial en la Comunidad Autónoma de Cantabria deberá comunicarse a la Consejería competente en materia de comercio dentro de los tres meses siguientes al inicio de su actividad. Esta comunicación será también preceptiva en el supuesto de ampliación de un establecimiento comercial cuya superficie útil de exposición y venta al público supere, después de la ejecución de las obras, las dimensiones previstas en el apartado anterior.
+Se modifica el apartado 2 por el art. 16.1 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
+ Se modifica por el art. 1.2 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se modifica por la disposición adicional 2 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 7
+
+Artículo 7. Superficie útil de exposición y venta al público.
+1. Por superficie útil de exposición y venta al público se entiende toda aquella superficie donde se desarrollan actividades de promoción de ventas y de intercambio comercial.
+2. En particular, se entienden incluidos entre los espacios definidos en el apartado anterior los siguientes:
+a) Los mostradores, estanterías, vitrinas, góndolas, cámaras o murales, así como los probadores, destinados a la presentación de los artículos.
+b) En los establecimientos comerciales que dispongan de secciones de venta asistida por dependiente, la zona ocupada por las personas vendedoras detrás del mostrador, aunque a la misma no tenga acceso el público
+c) Las superficies de preparación, almacenamiento, reparación o elaboración de mercancías visibles por el público aunque no sean accesibles.
+d) Los espacios de venta, ya sean exteriores e interiores.
+e) Escaleras, pasillos y cualquier otro espacio destinado a la permanencia y tránsito de personas necesarios para el acceso a la presentación de los artículos.
+f) La línea de las cajas registradoras, así como la zona entre éstas y la salida, siempre que en la misma se desarrolle alguna técnica de promoción comercial, directa o indirecta.
+3. Se excluyen expresamente de la superficie útil de exposición y venta al público aquellas superficies destinadas a:
+a) Las dependencias o instalaciones no accesibles al público en general, en las que no se desarrolle actividad comercial directa.
+b) Las zonas de estacionamiento, siempre que en las mismas no se desarrolle actividad comercial alguna.
+c) Las zonas destinadas permanentemente a la restauración y al desarrollo de actividades lúdicas.
+Se modifica por la disposición adicional 3 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículos 8 a 11
+
+Arts 8 a 11.
+(Derogados).
+Se derogan por el art. 16.3 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
+ Se modifica por el art. 1.3 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se modifica por la disposición adicional 4 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 9
+
+Artículo 9. Criterios para la emisión del informe.
+1. La emisión del informe previsto en el artículo anterior habrá de realizarse atendiendo a criterios basados en razones de interés general, como son la protección del medio ambiente, del entorno urbano, la ordenación del territorio, la conservación del patrimonio histórico y artístico, la protección de los trabajadores, de los consumidores y de los objetivos de interés social, deportivo, lúdico y cultural.
+2. Los criterios generales previstos en el apartado anterior se concretan para la emisión del correspondiente Informe en los siguientes requisitos:
+a) La proporcionalidad y adecuación de la ubicación del establecimiento comercial y, en concreto, su relación con la trama urbana y la incidencia que pueda tener en la misma. En particular, se tendrá en cuenta la potenciación de la centralidad urbana, siempre que la misma tenga influencia directa y significativa sobre la trama comercial preexistente potenciando su concentración y la rehabilitación de los centros urbanos.
+b) Los efectos sobre el nivel y calidad del empleo. En particular, se valorará que el proyecto de establecimiento comercial contribuya a paliar un alto índice de desempleo en el área en que se pretende implantar, o que se comprometa a incorporar al mercado de trabajo colectivos de difícil inserción, tales como mujeres, jóvenes o parados de larga duración, así como que la contratación a través de la cual se emplee a los nuevos trabajadores sea de carácter indefinido.
+c) La singular orografía del área en la que se pretende ubicar el establecimiento comercial y las consiguientes dificultades de comunicación. En particular, el informe tendrá en cuenta los estudios de movilidad, tanto de personas como de vehículos, priorizando el acceso peatonal y el transporte público colectivo, la incidencia en la red viaria y en las demás infraestructuras públicas.
+d) La inclusión en el proyecto de compromisos firmes en favor de los derechos de los consumidores y usuarios, tales como la adhesión al Sistema Arbitral de Consumo.
+e) La inclusión en el proyecto de establecimiento de iniciativas sociales, tales como la articulación de medidas dirigidas a conciliar la vida laboral y familiar de sus trabajadores, especialmente la instalación de guarderías, centros de lactancia y centros de atención a personas en situación de dependencia, la programación de actividades que contribuyan a fomentar prácticas de comercio justo o compra solidaria o la implantación de equipamientos deportivos.
+f) La viabilidad y legalidad ambiental del proyecto, así como inclusión en el proyecto de iniciativas y compromisos relacionados con el respeto y la conservación del medio ambiente y el desarrollo sostenible, tales como los siguientes:
+1.º El impacto e integración paisajística.
+2.º La incorporación de sistemas de recogida selectiva de residuos.
+3.º La inversión en técnicas de reciclaje.
+4.º La inversión en energías renovables.
+5.º La gestión eficiente del agua y de la energía.
+6.º La realización de campañas y cursos de sensibilización medioambiental.
+g) La inclusión en el proyecto de iniciativas relacionadas con la cultura o con el ocio.
+h) Que el proyecto de establecimiento comercial facilite y propicie la integración, dentro de su superficie, de iniciativas de pequeño y mediano comercio, favoreciendo un crecimiento de la estructura comercial gradual y equilibrada, así como la revitalización del entorno comercial afectado. Se valorará especialmente la articulación de medidas como las siguientes:
+1.º Reserva de espacios y bonificación de los precios de su alquiler o venta con el fin de facilitar la incorporación preferente de los comerciantes locales en el nuevo establecimiento propuesto.
+2.º Incorporación de servicios comunes para los comerciantes en grandes establecimientos de carácter colectivo, de tal forma que se les facilite el acceso a herramientas de soporte y formación que propicien la mejora de la gestión de sus establecimientos y de los servicios a clientes.
+3.º Incorporación de artesanos locales en el recinto del establecimiento.
+4.º Formalización de acuerdos para la comercialización y distribución, en el recinto del establecimiento, de los productos de la zona.
+Se modifica por el art. 1.4 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se deroga por la disposición derogatoria única.a) de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 10
+
+Artículo 10. Procedimiento para la emisión del informe.
+1. En el procedimiento seguido para la concesión de la correspondiente licencia municipal de apertura, la Administración local competente remitirá el expediente a la Dirección General de la correspondiente Consejería del Gobierno de Cantabria competente en materia de comercio, adjuntando con la solicitud todos los informes medioambientales, urbanísticos y cualquier otro que fuere necesario para evacuar el informe.
+2. La Dirección General de la correspondiente Consejería del Gobierno de Cantabria competente en materia de comercio, de apreciar situaciones o circunstancias que puedan alterar la competencia entre empresas, podrá solicitar informe de la Comisión Nacional de la Competencia o, en su caso, del órgano autonómico competente.
+Se añade por el art. 1.5 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se deroga por la disposición derogatoria única.a) de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 11
+
+Artículo 11. Plazos para la emisión del informe.
+El plazo máximo para la evacuación del informe será de tres meses a contar desde la entrada del expediente completo en el Registro de la Consejería competente en materia de comercio, a menos que concurra el supuesto previsto en el apartado 2 de artículo anterior, en cuyo caso el plazo para la emisión del informe será de cinco meses. Transcurridos dichos plazos se entenderá que el informe es favorable.
+Se añade por el art. 1.6 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se deroga por la disposición derogatoria única.a) de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 12
+
+Artículo 12. Prohibición de ventas al por menor.
+1. No podrán ejercer el comercio al por menor, además de las personas físicas y jurídicas a quienes les esté específicamente prohibido, los empresarios individuales o sociales a quienes la normativa especial de la actividad que desarrollan les exija dedicarse exclusivamente a la misma.
+2. Se prohíbe, expresamente, la exposición y venta de mercancías al comprador en los establecimientos de las entidades cuya actividad sea distinta a la comercial y, como consecuencia de la actividad que les es propia, tengan como finalidad principal la realización de préstamos, depósitos u operaciones de análoga naturaleza adheridas a la oferta comercial de la mercancía, de tal forma que una no se pudiera hacer efectiva sin la otra.
+En todo caso, se presumirá la existencia de estas actuaciones en el supuesto de que el comprador pudiera realizar pedidos o adquirir mercancías en los establecimientos de aquéllas.
+3. La infracción de lo dispuesto en el apartado anterior será sancionable con arreglo a lo establecido en la presente Ley, con independencia de las responsabilidades derivadas, en su caso, de la respectiva legislación especial y sin perjuicio de la improcedencia de que un mismo hecho sea objeto de una doble sanción administrativa.
+4. Las ventas al público por las entidades cooperativas u otras formas jurídicas análogas, en los casos en que lo autoriza la legislación vigente en la materia, se realizarán de manera diferenciada respecto de las operaciones efectuadas con los socios, atendiendo al lugar de distribución, la identificación de los productos y otras condiciones de la transacción, sin que pueda producirse simultáneamente la oferta discriminada a los socios cooperadores y al público en general de los productos obtenidos por la entidad y de los artículos adquiridos a terceros.
+
+### Artículo 13
+
+Artículo 13. Prohibición de la venta con pérdida.
+1. No se podrán ofertar ni realizar ventas al público con pérdida, fuera de los supuestos regulados en los capítulos III y IV del título III de la presente Ley, a menos que, quien las realice, tenga por objetivo alcanzar los precios de uno o varios competidores con capacidad para afectar, significativamente, a sus ventas, y lo comunique, al menos con una antelación de veinticuatro horas a la aplicación del precio correspondiente, a la Administración competente en materia comercial o se trate de artículos perecederos en las fechas próximas a su inutilización. En todo caso, deberá respetarse lo dispuesto en la Ley sobre competencia desleal.
+2. A los efectos señalados en el apartado anterior, se considerará que existe venta con pérdida cuando el precio aplicado a un producto sea inferior al de adquisición según factura, deducida la parte proporcional de los descuentos que figuren en la misma, o al de reposición si éste fuese inferior a aquél, o al coste efectivo de producción si el artículo hubiese sido fabricado por el propio comerciante, incrementados en las cuotas de los impuestos indirectos que graven la operación.
+Las facturas extendidas a los comerciantes se entenderán aceptadas en todos sus términos y reconocidas por sus destinatarios cuando no hayan sido objeto de reparo en el plazo de los veinticinco días siguientes a su remisión. En el caso de que no sean conformes, se dispone, sobre el anterior, de un plazo adicional de diez días para su subsanación y nueva remisión de la correspondiente factura rectificada. A los efectos de lo dispuesto en este artículo, no se tendrán en cuenta las modificaciones contenidas en facturas rectificativas emitidas en fecha posterior a los plazos indicados.
+3. No se computarán, a los efectos de la deducción en el precio a que se refiere el apartado anterior, las retribuciones o las bonificaciones de cualquier tipo que signifiquen compensación por servicios prestados.
+4. En ningún caso, las ofertas conjuntas o los obsequios a los compradores podrán utilizarse para evitar la aplicación de lo dispuesto en el presente artículo.
+5. Las facturas emitidas por los fabricantes y por los proveedores del comercio minorista en general por la entrega de las mercancías objeto de su comercio deben describir, explícitamente, todos los conceptos en cuya virtud se establezca el precio de adquisición de productos.
+6. Cuando una misma factura se refiera a diferentes productos, se especificarán con claridad todos los descuentos que afecten a cada uno de ellos, si es que existen.
+7. Cuando una misma factura se refiera a productos gravados con tipos fiscales impositivos distintos, deberán diferenciarse las partes de la operación sujetas a cada tipo.
+8. Las bonificaciones, descuentos y conceptos análogos, sujetos al cumplimiento de condiciones futuras no podrán ser considerados como descuentos mientras no se cumplan aquellas condiciones a las que están sujetas, de acuerdo con lo establecido en los artículos 1.113 y 1.114 del Código Civil.
+9. La autoridad competente podrá requerir simultánea e indistintamente, la presentación de la factura al proveedor y al comerciante.
+10. Las obligaciones contenidas en el presente artículo serán exigibles tanto a los comerciantes minoristas como a los mayoristas y a cuantas entidades intermediarias se dediquen a centralizar compras por cuenta de estos comerciantes.
+
+## TÍTULO II
+
+Horarios comerciales
+
+## CAPÍTULO ÚNICO
+
+Regulación de horarios comerciales
+
+### Artículo 14
+
+Artículo 14. Horarios de apertura y cierre.
+1. El horario global en que los establecimientos comerciales podrán abrir al público durante el conjunto de días laborables de la semana será, como máximo, de noventa horas.
+2. El horario de apertura y cierre durante los días laborales de la semana será libremente decidido por cada comerciante, respetando siempre el límite máximo del horario global, y sin perjuicio de los derechos reconocidos a los trabajadores en la normativa laboral y en los convenios colectivos aplicables.
+3. El número máximo de domingos y días festivos en que los comercios podrán permanecer abiertos al público será de diez.
+4. El horario correspondiente a cada domingo o día festivo será determinado libremente por el comerciante.
+5. La Consejería competente en materia de comercio determinará, anualmente, los domingos o festivos en que los comercios podrán realizar su actividad.
+6. Para la determinación de los domingos y festivos de apertura se deberá atender de forma prioritaria al atractivo comercial de los días para los consumidores, de acuerdo con los siguientes criterios:
+a. La apertura en al menos un día festivo cuando se produzca la coincidencia de dos o más días festivos continuados.
+b. La apertura en los domingos y festivos correspondientes a los períodos de rebajas.
+c. La apertura en los domingos y festivos de mayor afluencia turística en la Comunidad Autónoma.
+d. La apertura en los domingos o festivos de la campaña de Navidad.
+7. Todos los establecimientos comerciales deberán exponer, en lugar visible para el público, el calendario de días laborables y el horario de apertura y cierre.
+Se modifica por el art. 19.1 de la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627.
+ Se modifica por el art. 1.1 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
+ Téngase en cuenta la disposición final 2 que condiciona la entrada en vigor de esta modificación a la aprobación de normativa Estatal sobre horarios comerciales.
+
+### Artículo 15
+
+Artículo 15. Comercios con libertad de horarios.
+1. Tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público:
+a) Los establecimientos dedicados principalmente a la venta de productos de panadería, pastelería y repostería, platos preparados, prensa, combustibles y carburantes, flores y plantas y productos culturales, entendiendo como tales los libros, soportes musicales, vídeos, obras de arte, antigüedades, sellos y recuerdos de artesanía popular.
+b) Los establecimientos instalados en puntos fronterizos, en estaciones y medios de transporte terrestre, marítimo y aéreo y en zonas de gran afluencia turística.
+c) Las denominadas tiendas de conveniencia, entendiendo por tales aquellas que, con una superficie útil para la exposición y venta al público útil no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos, vídeos, juguetes, regalos y artículos varios.
+d) Los establecimientos de venta de reducida dimensión distintos de los anteriores que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña o mediana empresa según la legislación vigente.
+2. La determinación de las zonas de gran afluencia turística, así como los períodos de la aplicación de libertad de apertura en las mismas, será establecida por la Consejería competente en materia de comercio, a petición del Ayuntamiento interesado el cual deberá aportar informes al respecto emitidos por la Cámara Oficial de Comercio a cuyo ámbito territorial corresponda, y por la Asociación o Asociaciones de Comerciantes con mayor implantación en el municipio, o acreditar que se han solicitado.
+Se considerarán zonas de gran afluencia turística, aquellas áreas coincidentes con la totalidad del municipio o parte del mismo en las que concurra alguna de las siguientes circunstancias:
+a) Existencia de una concentración suficiente, cuantitativa o cualitativamente, de plazas en alojamientos y establecimientos turísticos o bien en el número de segundas residencias respecto a las que constituyen residencia habitual.
+b) Que haya sido declarado Patrimonio de la Humanidad o en el que se localice un bien inmueble de interés cultural integrado en el patrimonio histórico artístico.
+c) Que limiten o constituyan áreas de influencia de zonas fronterizas.
+d) Celebración de grandes eventos deportivos o culturales de carácter nacional o internacional.
+e) Proximidad a áreas portuarias en las que operen cruceros turísticos y registren una afluencia significativa de visitantes.
+f) Que constituyan áreas cuyo principal atractivo sea el turismo de compras.
+g) Cuando concurran circunstancias especiales que así lo justifiquen.
+3. Las oficinas de farmacia, así como los estancos, se regirán por su normativa específica, aplicándose en su defecto las disposiciones de esta Ley.
+4. Cuanto se determina en el presente artículo sobre libertad de horarios será de aplicación sin perjuicio de lo dispuesto en la normativa laboral y en los convenios colectivos aplicables.
+Se modifica por el art. 19.2 de la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627.
+ Se declara inconstitucional y nulo el inciso destacado del apartado 5 por Sentencia 88/2010, de 15 de noviembre. Ref. BOE-A-2010-19427.
+ Se modifica por el art. 1.2 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
+ Téngase en cuenta la disposición final 2 que condiciona la entrada en vigor de esta modificación a la aprobación de normativa Estatal sobre horarios comerciales.
+
+## TÍTULO III
+
+Actividades de promoción de ventas
+
+## CAPÍTULO I
+
+Generalidades
+
+### Artículo 16
+
+Artículo 16. Concepto.
+Las actividades de promoción de ventas que se realicen por los comerciantes en Cantabria únicamente podrán emplear las denominaciones de ventas en rebajas, ventas de saldos, ventas en liquidación, ventas con descuento o ventas con obsequio cuando se ajusten a la regulación respectivamente establecida en la presente Ley, quedando expresamente prohibida la utilización de las citadas denominaciones, u otras similares, para anunciar ventas que no respondan al correspondiente concepto legal.
+
+### Artículo 17
+
+Artículo 17. Información.
+1. En los anuncios de las ventas a las que se refiere el artículo anterior deberá especificarse la duración y, en su caso, las reglas especiales aplicables a las mismas.
+2. Cuando las actividades de promoción de ventas enumeradas no comprendan, al menos, la mitad de los artículos puestos a la venta, entendiéndose como artículo la unidad de producto individualmente comercializada, la práctica de promoción de que se trate no se podrá anunciar como una medida general, sino referida exclusivamente a los productos o grupos de productos a los que realmente afecte.
+
+### Artículo 18
+
+Artículo 18. Constancia de la reducción de precios.
+1. Siempre que se oferten productos con reducción de precio, deberá figurar con claridad, en cada uno de ellos, el precio anterior junto con el precio reducido. En el supuesto de productos puestos a la venta por primera vez, no podrá hacerse ninguna referencia cuantitativa ni porcentual que sugiera algún tipo de descuento.
+Se entenderá por precio anterior el que hubiese sido aplicado sobre artículos idénticos durante un período continuado de, al menos, treinta días en el curso de los seis meses precedentes.
+2. No obstante lo señalado en el apartado precedente, cuando se trate de una reducción porcentual de un conjunto de productos puestos a la venta con anterioridad por el comerciante, bastará con el anuncio genérico de la misma, sin necesidad de que conste, individualmente, en cada producto ofertado.
+
+### Artículo 19
+
+Artículo 19. Determinación de los artículos ofertados.
+En el caso de que se oferten productos a precio normal y a precio reducido, unos y otros deberán estar suficientemente separados, de forma que no puedan, razonablemente, confundirse, y distinguiendo, en su caso, la existencia de saldos, liquidaciones, descuentos u obsequios.
+
+### Artículo 20
+
+Artículo 20. Promociones limitadas a determinados colectivos.
+Las normas que regulan las ventas recogidas en el presente título serán aplicables aun cuando estas actividades promocionales vayan dirigidas a un número restringido de personas, previamente seleccionadas.
+
+### Artículo 21
+
+Artículo 21. Deber de comunicación.
+Los comerciantes deberán comunicar a la Consejería competente en materia de comercio, con una antelación mínima de quince días, las fechas durante las que vayan a realizar ventas en liquidación.
+Se modifica por el art. 16.2 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
+
+## CAPÍTULO II
+
+Venta en rebajas
+
+### Artículo 22
+
+Artículo 22. Concepto.
+1. Se entiende que existe venta en rebajas cuando los productos objeto de la misma se ofertan, en el mismo establecimiento en el que se ejerce habitualmente la actividad comercial, a un precio inferior al fijado antes de dicha venta como consecuencia de la finalización de una temporada comercial.
+2. No cabe calificar como venta en rebajas la de aquellos productos no puestos a la venta en condiciones de precio ordinario con anterioridad, así como la de los artículos deteriorados o adquiridos con objeto de ser vendidos a precio inferior al ordinario.
+
+### Artículo 23
+
+Artículo 23. Temporada de rebajas.
+1. Las ventas en rebajas sólo podrán tener lugar como tales en dos temporadas anuales. La primera se iniciará a principios de cada año y la segunda en torno al período estival.
+2. La duración de cada período de rebajas será como mínimo de una semana y como máximo de dos meses, de acuerdo con la decisión de cada comerciante y dentro de las fechas concretas que fijará, anualmente, la Consejería competente en materia de comercio.
+3. En ningún caso, la fecha de inicio de un período de rebajas podrá coincidir con un domingo o festivo.
+
+### Artículo 24
+
+Artículo 24. Productos rebajados.
+Los productos objeto de la venta en rebajas deberán haber estado incluidos con anterioridad, durante el plazo mínimo de un mes, en la oferta habitual de ventas y no podrán haber sido objeto de práctica de promoción alguna en el curso del mes que preceda a la fecha de inicio de la venta en rebajas.
+
+### Artículo 25
+
+Artículo 25. Prohibición de simultanear las rebajas con otra actividad de promoción comercial.
+No podrá simultanearse, en un mismo establecimiento comercial y para el mismo tipo de productos, la venta en rebajas con cualquier otra actividad promocional de ventas regulada en el presente título.
+
+## CAPÍTULO III
+
+Venta de saldos
+
+### Artículo 26
+
+Artículo 26. Concepto.
+1. Se considera venta de saldos la de productos o artículos cuyo valor de mercado aparezca manifiestamente disminuido a causa del deterioro, desperfecto, desuso u obsolescencia.
+2. No cabe calificar como venta de saldos la de aquellos productos cuya venta bajo tal régimen implique riesgo o engaño para el comprador, ni la de aquellos productos que no se vendan realmente por precio inferior al habitual.
+3. Tampoco cabe calificar como venta de saldos aquella en que los artículos no pertenecieran al comerciante seis meses antes de la fecha de comienzo de este tipo de actividad comercial, excepción hecha de los establecimientos dedicados específica y exclusivamente al referido sistema de venta.
+
+### Artículo 27
+
+Artículo 27. Deber de información.
+1. Las ventas de saldos deberán anunciarse necesariamente con esta denominación o con la de «venta de restos».
+2. Cuando se trate de artículos deteriorados o defectuosos, deberá constar tal circunstancia de manera precisa y ostensible.
+3. Los establecimientos dedicados específica y exclusivamente a la venta de saldos deberán indicarlo de forma que sea claramente visible desde el exterior del local.
+
+## CAPÍTULO IV
+
+Venta en liquidación
+
+### Artículo 28
+
+Artículo 28. Concepto.
+1. Se entiende por venta en liquidación la venta de carácter excepcional y de finalidad extintiva de determinadas existencias de artículos que, anunciada con esta denominación u otra equivalente, tiene lugar en ejecución de una decisión judicial o administrativa, o es llevada a cabo por el comerciante o por el adquirente por cualquier título del negocio de aquél en alguno de los casos siguientes:
+a) Cesación total o parcial de la actividad de comercio. En el supuesto de cese parcial, tendrá que indicarse la clase de mercancías objeto de liquidación.
+b) Cambio de ramo de comercio o modificación sustancial en la orientación del negocio.
+c) Cambio de local o realización de obras de importancia en el mismo.
+d) Cualquier supuesto de fuerza mayor que cause grave obstáculo al normal desarrollo de la actividad comercial.
+2. No podrán ser objeto de este tipo de actividad comercial aquellos artículos que no formaran parte de las existencias del establecimiento, o aquellos que fueron adquiridos por el comerciante con objeto de incluirlos en la liquidación misma.
+3. En todo caso, deberá cesar la venta en liquidación si desaparece la causa que la motivó o si se liquidan efectivamente los productos objeto de la misma.
+4. Los anuncios de las ventas en liquidación deberán indicar la causa de ésta.
+
+### Artículo 29
+
+Artículo 29. Duración y reiteración.
+1. La duración máxima de la venta en liquidación será de tres meses, salvo en el caso de cesación total de la actividad, que será de un año.
+2. En el curso de los tres años siguientes a la finalización de una venta en liquidación, el vendedor no podrá ejercer el comercio en la misma localidad sobre productos similares a los que hubiesen sido objeto de liquidación por cualquiera de los motivos señalados en los párrafos a) y b) del apartado 1 del artículo anterior.
+Tampoco podrá proceder a una nueva liquidación en el mismo establecimiento, excepto cuando esta última tenga lugar en ejecución de decisión judicial o administrativa, por cesación total de la actividad o por causa de fuerza mayor.
+
+## CAPÍTULO V
+
+Venta con descuento
+
+### Artículo 30
+
+Artículo 30. Concepto.
+1. A los efectos de esta Ley, se considera venta promocional con descuento la que consiste en ofrecer, mediante cualquier procedimiento publicitario, incluidos los anuncios expuestos en el propio establecimiento, una reducción sobre el precio aplicado con anterioridad por un comerciante sobre un determinado producto o grupo de productos.
+2. Los artículos sobre los que se aplique descuento no podrán estar deteriorados o ser de peor calidad que los que se hubiesen comercializado con anterioridad.
+
+### Artículo 31
+
+Artículo 31. Requisitos.
+La actividad promocional de venta con descuento se sujetará a las siguientes condiciones:
+a) Su finalidad deberá consistir en potenciar la venta de determinados productos o en el relanzamiento de un establecimiento que haya sido objeto de una importante remodelación física reciente, lo que se deberá acreditar aportando el oportuno proyecto técnico.
+b) (Anulada)
+c) (Derogada)
+d) Todo anuncio de venta con descuento deberá especificar su duración y, en su caso, las reglas especiales aplicables a la misma. Asimismo, deberá indicar los productos afectados, salvo cuando se desarrolle este tipo de promoción en un establecimiento remodelado y se encuentren incluidos en la misma, al menos, la mitad de los artículos puestos a la venta.
+Se declara la inconstitucionalidad y nulidad del apartado b) por Sentencia del TC 130/2010, de 29 de noviembre. Ref. BOE-A-2011-272.
+ Se deroga el apartado c) por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado c) por Sentencia del TC 106/2009, de 4 de mayo. Ref. BOE-A-2009-9471.
+
+## CAPÍTULO VI
+
+Venta con obsequios
+
+### Artículo 32
+
+Artículo 32. Concepto.
+1. Con la finalidad de promover las ventas, podrá ofertarse a los compradores otro producto o servicio gratuito o a precio especialmente reducido, ya sea en forma automática, o bien mediante la participación en un sorteo o concurso.
+2. Cuando el incentivo consista en un sorteo, lo dispuesto en la presente Ley será aplicable sin perjuicio de lo establecido en la legislación sectorial correspondiente.
+3. En todo caso, la comunicación a cualquier persona que haya resultado agraciada con un premio, deberá advertir inexcusablemente que éste no se encuentra condicionado a la adquisición de determinados productos o servicios.
+
+### Artículo 33
+
+Artículo 33. Veracidad de la oferta.
+Se considera engañosa la oferta de productos con premio o regalo cuando el consumidor no reciba real y efectivamente lo que razonablemente cabría esperar de acuerdo con la oferta realizada.
+
+### Artículo 34
+
+Artículo 34. Entrega de los obsequios.
+1. Los bienes o servicios en que consistan los obsequios o incentivos promocionales deberán entregarse a los compradores en el plazo máximo de tres meses, a contar desde el momento en que el comprador reúna los requisitos exigidos. Cuando el ofrecimiento se haya hecho en los envases de los correspondientes artículos, el derecho a obtener la prima ofrecida podrá ejercerse, como mínimo, durante los tres meses siguientes a la fecha de caducidad de la promoción.
+2. En el caso de que los obsequios ofrecidos formen parte de un conjunto o colección, la empresa responsable de la oferta estará obligada a canjear cualquiera de aquéllos por otro distinto, a no ser que en la oferta pública del incentivo se haya establecido otro procedimiento para obtener las diferentes piezas de la colección.
+
+## TÍTULO IV
+
+Ventas especiales
+
+## CAPÍTULO I
+
+Generalidades
+
+### Artículo 35
+
+Artículo 35. Concepto.
+1. A los efectos de la presente Ley, se consideran ventas especiales las ventas a distancia, las ventas ambulantes o no sedentarias, las ventas automáticas, las ventas en pública subasta, las ventas fuera del establecimiento mercantil reguladas en el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, las ventas ocasionales y las ventas domiciliarias.
+2. Las ventas de bienes muebles a plazos se regirán por su normativa específica.
+Se modifica por el art. 1.7 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 36
+
+Artículo 36. Registro de Ventas Especiales.
+1. Se crea el Registro de Ventas Especiales de Cantabria adscrito a la Consejería competente en materia de comercio, con carácter público y naturaleza administrativa.
+2. En el Registro de Ventas Especiales se inscribirán los comerciantes que ejerzan las actividades de venta ambulante o no sedentaria, las ventas automáticas y las ventas a distancia, de conformidad con lo previsto en la presente Ley.
+3. La autorización para el ejercicio de las ventas ambulantes corresponderá al Ayuntamiento en cuyo término municipal se realice la actividad. Dicho Ayuntamiento deberá comunicar, en el plazo de tres meses, a la Consejería competente en materia de comercio, el acuerdo de concesión para la correspondiente inscripción en el Registro.
+Se modifica por el art. 1.8 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## CAPÍTULO II
+
+Venta a distancia
+
+### Artículo 37
+
+Artículo 37. Ventas a distancia.
+1. Se consideran ventas a distancia las celebradas sin la presencia física simultánea del comprador y del vendedor, siempre que su oferta y aceptación se realicen de forma exclusiva a través de una técnica cualquiera de comunicación a distancia y dentro de un sistema de contratación a distancia organizado por el vendedor.
+2. Las empresas de ventas a distancia que tengan su domicilio social en Cantabria, con independencia de que las propuestas de contratación se difundan fuera de su ámbito territorial, deberán comunicar el inicio de su actividad en el plazo de tres meses al Registro de ventas especiales.
+Se modifica por el art. 1.9 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 38
+
+Artículo 38. Régimen jurídico de las ventas a distancia.
+El ejercicio de las ventas a distancia en la Comunidad Autónoma de Cantabria se someterá al régimen jurídico previsto en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y en el Real Decreto Legislativo 1/2007, de 16 de noviembre.
+Se modifica por el art. 1.10 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 39
+
+Artículo 39. Contenido de las propuestas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 40
+
+Artículo 40. Necesidad de consentimiento expreso.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 41
+
+Artículo 41. Prohibición de envíos no solicitados.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 42
+
+Artículo 42. Plazo de ejecución y pago.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 43
+
+Artículo 43. Derecho de desistimiento.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 44
+
+Artículo 44. Excepciones al derecho de desistimiento.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 45
+
+Artículo 45. Pago mediante tarjeta.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 46
+
+Artículo 46. Información.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 47
+
+Artículo 47. Irrenunciabilidad de los derechos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## CAPÍTULO III
+
+Venta automática
+
+### Artículo 48
+
+Artículo 48. Concepto.
+1. Es venta automática la forma de distribución detallista en la cual se pone a disposición del consumidor el producto o servicio para que éste lo adquiera mediante el accionamiento de cualquier tipo de mecanismo y previo pago de su importe.
+2. Todas las máquinas para la venta automática habrán de cumplir la normativa vigente en materia de homologación.
+3. No podrán comercializarse productos que no estén envasados y etiquetados conforme a la normativa vigente.
+4. Las empresas dedicadas a la venta automática que tengan su domicilio social en Cantabria, con independencia de que sus productos se comercialicen fuera de su ámbito territorial, deberán comunicar el inicio de su actividad en el plazo de tres meses al Registro de ventas especiales.
+Se modifica por el art. 1.11 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 49
+
+Artículo 49. Advertencias obligatorias.
+En todas las máquinas de venta deberá figurar con claridad cuál es el producto que expenden, su precio, tipo de monedas y sistemas de pago que admiten, instrucciones para la obtención del producto deseado, identidad del oferente, dirección y teléfono donde se atenderán las reclamaciones, así como referencia a los datos de homologación del aparato según modelo de máquina y del número de inscripción en el correspondiente Registro público.
+De igual modo, cuando fuera necesario de conformidad con la normativa sectorial, la referencia a las autorizaciones concedidas.
+Se modifica por el art. 1.12 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 50
+
+Artículo 50. Recuperación del importe.
+Todas las máquinas de venta deberán permitir la recuperación automática del importe introducido en el caso de no facilitarse el artículo solicitado.
+
+### Artículo 51
+
+Artículo 51. Responsabilidad.
+En el caso de que las máquinas de venta estén instaladas en un local destinado al desarrollo de una empresa o actividad privada, los titulares de la misma responderán solidariamente con el de la propia máquina frente al comprador del cumplimiento de las obligaciones derivadas de la venta automática.
+
+## CAPÍTULO IV
+
+Venta ambulante o no sedentaria
+
+### Artículo 52
+
+Artículo 52. Concepto y autorización.
+1. Se considera venta ambulante o no sedentaria la realizada por comerciantes fuera de un establecimiento comercial permanente de forma habitual, ocasional, periódica o continuada, en los perímetros o lugares debidamente autorizados en instalaciones comerciales desmontables o transportables, incluyendo los camiones-tienda.
+2. La concesión de autorización para el ejercicio de la venta ambulante corresponderá a los Ayuntamientos. La autorización se justifica por la ocupación de suelo público habilitado para el ejercicio de este tipo de ventas.
+3. La concesión de la autorización podrá contemplar las siguientes modalidades:
+a) Mercados ubicados en lugares o espacios determinados y de periodicidad fija.
+b) Mercados ocasionales instalados con motivo de ferias, fiestas o acontecimientos populares.
+c) Venta realizada en camiones-tienda.
+d) Puestos instalados en la vía pública en circunstancias y condiciones precisas.
+e) Venta en establecimientos multiusos y espacios públicos.
+Se modifica por el art. 1.13 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 53
+
+Artículo 53. Ordenanzas municipales.
+1. Las ordenanzas municipales de venta ambulante deberán determinar, como mínimo, el procedimiento para la selección entre los posibles candidatos que habrá de garantizar la transparencia y la imparcialidad y, en concreto, la publicidad adecuada del inicio, desarrollo y fin del proceso.
+2. Del mismo modo, las ordenanzas municipales de venta ambulante deberán determinar:
+a) Lugares y períodos en los que puede desarrollarse la venta ambulante.
+b) Modalidades de venta ambulante admitidas, teniendo en cuenta las características de cada municipio.
+c) Requisitos para el ejercicio de la venta ambulante.
+d) Régimen de autorizaciones.
+e) Número total de puestos o autorizaciones.
+f) Productos que podrán ser ofrecidos a la venta.
+g) Tasa a pagar por la concesión de la autorización.
+h) Régimen interno de funcionamiento del mercadillo, en su caso.
+i) Previsión del régimen sancionador.
+j) Relación de derechos y deberes de los comerciantes ambulantes.
+Se modifica por el art. 1.14 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 54
+
+Artículo 54. Autorizaciones.
+1. Para la concesión de la autorización para el ejercicio de la venta ambulante, se exigirá que el peticionario acredite:
+a) Declaración de alta en el Censo de Obligados Tributarios y en el régimen de Seguridad Social que corresponda, estando al corriente en el pago de sus obligaciones tributarias y frente a la Seguridad Social.
+b) Cumplir los requisitos de las reglamentaciones de cada tipo de productos.
+c) Estar en posesión del carné de manipulador de alimentos, en su caso.
+d) Satisfacer las tasas y tributos fijados en la ordenanza.
+e) Disponer de los permisos de residencia y trabajo que en cada caso sean exigibles, si se trata de extranjeros.
+2. Las autorizaciones se concederán en condiciones no discriminatorias, pero deberá preferirse a aquellos comerciantes que tengan concertado un seguro de responsabilidad civil por los daños que puedan causar con sus productos. Si la Ordenanza prevé una reserva de puestos, deberá utilizar para ello criterios objetivos.
+3. Las autorizaciones tendrán una duración máxima de cinco años con el fin de permitir la amortización de las inversiones y una remuneración equitativa de los capitales invertidos, prorrogables expresamente por idénticos períodos. Las autorizaciones podrán ser revocadas por incumplimiento de las condiciones a las que se encuentren sometidas.
+4. La titularidad de las autorizaciones se ajustará a las siguientes condiciones:
+a) Las autorizaciones podrán concederse tanto a personas físicas como a sociedades, y serán transmisibles, salvo disposición en contrario de la correspondiente ordenanza municipal.
+b) En el caso de que el titular sea una persona física, podrán desarrollar la venta, además del propio titular, sus familiares o dependientes dados de alta en el correspondiente régimen de Seguridad Social.
+c) No obstante lo señalado en el párrafo a), en el supuesto de fallecimiento de la persona física titular de la autorización, siempre podrá sucederle en la titularidad el heredero que se designe.
+d) En el supuesto de que la autorización sea concedida a una sociedad, ésta deberá indicar al Ayuntamiento el nombre de la persona, socio o dependiente que desarrollará la actividad, quien deberá estar dada de alta en el régimen de la Seguridad Social que corresponda.
+e) A los efectos de lo establecido en el párrafo a), se considerará que se ha transferido la autorización cuando se incorporen a la sociedad nuevos socios cuya participación supere un tercio del capital. Se exceptúa de lo establecido en este párrafo a las sociedades cooperativas y a los supuestos de incorporación de nuevos socios por transmisión ?mortis causa?.
+5. En la autorización deberá especificarse el ámbito territorial de validez, los productos autorizados y las fechas en que se podrá llevar a cabo la actividad comercial.
+6. Los Ayuntamientos remitirán, dentro del primer trimestre de cada año natural, a la Consejería competente en materia de comercio, una relación actualizada de los comerciantes a quienes se haya otorgado la autorización correspondiente.
+Se modifica por el art. 1.15 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 55
+
+Artículo 55. Lugares de venta.
+1. La delimitación por los Ayuntamientos de aquellos lugares donde pueda ejercerse la venta ambulante requerirá audiencia previa de la Cámara de Comercio correspondiente.
+2. Los Ayuntamientos cuidarán de que los lugares destinados al ejercicio de la venta ambulante se encuentren en las debidas condiciones de limpieza y salubridad y de que cuenten con una adecuada dotación de infraestructuras.
+
+### Artículo 56
+
+Artículo 56. Productos objeto de venta.
+1. Sólo podrá autorizarse la venta de productos alimenticios cuando se cumplan las condiciones higiénico-sanitarias que establezca la legislación sectorial sobre la materia para cada tipo de producto.
+2. No se podrán vender alimentos o productos alimenticios no envasados por quien carezca del carné de manipulador de alimentos.
+
+### Artículo 57
+
+Artículo 57. Información.
+1. Quienes ejerzan el comercio ambulante deberán tener expuestos, de forma fácilmente visible para el público, sus datos personales y el documento en el que conste la correspondiente autorización municipal, así como una dirección para la recepción de las posibles reclamaciones.
+2. La identificación del comerciante deberá igualmente figurar en la factura o en el comprobante de la venta que habrá de entregarse al comprador.
+Se modifica por el art.1.16 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## CAPÍTULO V
+
+Venta en pública subasta
+
+### Artículo 58
+
+Artículo 58. Concepto.
+1. La celebración de una pública subasta consiste en ofertar, pública e irrevocablemente, la venta de un bien a favor de quien ofrezca, mediante el sistema de pujas y dentro del plazo concedido al efecto, el precio más alto por encima de un mínimo, ya se fije éste inicialmente o mediante ofertas descendentes realizadas en el curso del propio acto.
+2. La regulación de las ventas en pública subasta contenida en la presente Ley se aplicará tanto a las efectuadas por empresas que se dediquen habitualmente a esta actividad, como a aquellas que la realicen ocasionalmente, quedando excluidas las subastas de títulos-valores, las subastas judiciales o administrativas, así como las que se lleven a cabo en lonjas, puertos y lugares similares, que se regirán por su normativa específica.
+
+### Artículo 59
+
+Artículo 59. Contrato de subasta.
+1. En el supuesto de que los bienes a subastar no pertenezcan a la empresa que desarrolla esta actividad, las relaciones con el propietario de los mismos se ajustarán a lo estipulado entre las partes de acuerdo con la normativa general sobre contratación.
+2. En defecto de pacto expreso, se entenderá que todos los gastos de la subasta, incluidos los de custodia y, en su caso, tasación, corresponden a la empresa de subastas, sin que el propietario deba entregar por este concepto remuneración adicional alguna, fuera del precio o gratificación establecido.
+También corresponderá a la referida empresa, salvo estipulación en contrario, la obligación de custodia y exposición de los bienes y, en su caso, los de inclusión en el catálogo.
+3. La empresa subastadora deberá comprobar, en su caso, el cumplimiento de los requisitos establecidos en la legislación para la protección del tesoro artístico, histórico y bibliográfico.
+4. El encargo de subasta deberá documentarse por escrito, en el que se identificarán las partes, el objeto y condiciones de la venta, así como la retribución de la empresa subastadora.
+
+### Artículo 60
+
+Artículo 60. Oferta de venta en subasta.
+1. La oferta de venta en subasta deberá contener una descripción veraz de los objetos que salen a la misma, con identificación de si sus calidades son ciertas o, simplemente, supuestas o adveradas por determinado experto.
+2. En especial, cuando, en salas especializadas en objetos de arte o de valor, se oferte la venta en subasta de una imitación o de un artículo que, aunque aparentemente precioso, no lo sea en realidad, deberá hacerse constar, expresamente, esta circunstancia tanto en los anuncios como en las invitaciones a las pujas.
+Cuando se oferte la venta en subasta de un objeto acompañado del nombre o de las iniciales de un determinado autor o precisando que aparece firmado por el mismo, se considerará que se vende como original de dicho autor, a menos que consten con claridad las oportunas advertencias.
+3. Lo dispuesto en el apartado 2 del presente artículo será también de aplicación a las ventas de objetos preciosos o artísticos que se oferten al público en forma distinta a la subasta.
+
+### Artículo 61
+
+Artículo 61. Relaciones entre la empresa subastadora y los licitadores.
+1. Únicamente podrá exigirse la constitución de fianza a los licitadores cuando expresamente se haya consignado esta condición en los anuncios de la subasta.
+En ningún caso, el importe de las fianzas podrá ser superior al 5 por 100 del precio de salida de los bienes en cuya licitación se quiera participar.
+2. La fianza constituida por los licitadores a quienes no hubiese sido adjudicado el remate les deberá ser reintegrada dentro del plazo máximo de tres días, a contar desde la finalización del acto.
+3. En el caso de que el rematante no satisficiere el precio en las condiciones en que se hizo la adjudicación, perderá la fianza constituida que, en defecto de pacto, corresponderá al titular del bien subastado, una vez deducido el premio o comisión atribuible a la empresa subastadora, sin perjuicio del derecho del vendedor a exigir el cumplimiento del contrato.
+
+### Artículo 62
+
+Artículo 62. Documentación.
+1. Adjudicado un bien, se consignará inmediatamente por escrito, procediéndose a la entrega del mismo una vez satisfecho el precio del remate o la parte del mismo determinada en los correspondientes anuncios.
+2. Las ventas en pública subasta deberán, necesariamente, formalizarse mediante documento público o privado que, en su caso, podrá ser otorgado por la empresa subastadora como mandataria del propietario del bien subastado.
+
+### Artículo 63
+
+Artículo 63. Efectos de la venta en subasta.
+1. La adquisición de bienes muebles mediante una venta en pública subasta de acuerdo con lo previsto en la presente Ley determinará la irreivindicabilidad de los mismos en la forma establecida en el artículo 85 del Código de Comercio.
+2. La empresa subastadora responderá solidariamente con el titular del bien subastado por los vicios o defectos ocultos de la cosa vendida cuando hubiese incumplido las obligaciones de información que le impone el artículo 60 de la presente Ley.
+
+### Artículo 64
+
+Artículo 64. Autorización.
+(Derogado)
+Se deroga el apartado c) por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## CAPÍTULO VI
+
+Venta ocasional
+
+### Artículo 65
+
+Artículo 65. Concepto y requisitos.
+1. Se denomina venta ocasional a aquella que consista en la oferta de bienes en establecimientos o centros, públicos o privados, que no tengan carácter comercial permanente para esta actividad, por un período de tiempo limitado y que no se trate de otra modalidad de venta expresamente regulada en la presente Ley.
+2. Cuando la venta ocasional suponga la entrega inmediata del producto comercializado, deberá indicarse al comprador la existencia de un plazo, de al menos siete días, durante el cual podrá ejercer el derecho de desistimiento, para lo que se le facilitará una dirección, en la cual pueda efectuar la correspondiente devolución o, en su caso, reclamación.
+3. Si la entrega del producto se difiere en el tiempo será de aplicación a la venta ocasional lo dispuesto en los artículos 39 y siguientes del capítulo II del presente título.
+Se deroga el apartado 4 por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## CAPÍTULO VII
+
+Venta domiciliaria
+
+### Artículo 66
+
+Artículo 66. Concepto.
+1. Se consideran ventas domiciliarias, a los efectos de esta Ley, las realizadas profesionalmente mediante la visita del vendedor, o de sus empleados o agentes, al domicilio de los posibles compradores, tanto si se produce la entrega de la cosa vendida en el mismo momento o no.
+2. Tendrá, igualmente, la consideración de venta domiciliaria la llamada «venta en reunión», a la que asista un grupo de personas y se celebre en el domicilio de una de ellas.
+3. No se considerará venta a domicilio la venta por correspondencia ni las entregas a domicilio de mercancías adquiridas por cualquier otro tipo de venta.
+
+### Artículo 67
+
+Artículo 67. Requisitos.
+1. (Derogado)
+2. Las empresas de venta a domicilio deberán tener a disposición de la autoridad administrativa una relación actualizada del personal que intervenga en este tipo de venta.
+3. Se deberá cumplir con la normativa reguladora del producto que se vende, no pudiendo ser objeto de venta domiciliaria aquellos cuya regulación prohíba este tipo de ventas, especialmente los alimenticios y los que, por la forma de presentación u otras circunstancias, no cumplan con las normas técnico-sanitarias o de seguridad.
+Se deroga el apartado 1 por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 68
+
+Artículo 68. Información.
+1. La publicidad de la oferta que deberá ser entregada al consumidor incluirá, al menos, los siguientes extremos:
+a) Identificación y domicilio de la empresa.
+b) Datos esenciales del producto, de forma que permitan su identificación inequívoca en el mercado.
+c) Precio, forma y condiciones de pago, gastos y plazos de envío.
+2. En todos los supuestos de venta domiciliaria, el vendedor está obligado a poner en conocimiento del consumidor, por escrito, el derecho que le asiste de disponer de un período, de al menos siete días, durante el cual podrá decidir la devolución del producto de que se trate y a recibir las cantidades que haya entregado, salvo que se trate de productos perecederos.
+
+## TÍTULO V
+
+De la actividad comercial en régimen de franquicia
+
+## CAPÍTULO ÚNICO
+
+De la actividad comercial en régimen de franquicia
+
+### Artículo 69
+
+Artículo 69. Regulación del régimen de franquicia.
+1. La actividad comercial en régimen de franquicia es la que se lleva a efecto en virtud de un acuerdo o contrato por el que una empresa, denominada franquiciadora, cede a otra, denominada franquiciada, el derecho a la explotación de un sistema propio de comercialización de productos o servicios.
+2. Las empresas que, teniendo su domicilio en Cantabria, realicen, con el carácter de franquiciadoras, la actividad comercial de franquicia, tal como se define en el apartado anterior, deberán comunicarlo en el plazo de tres meses a la Consejería competente en materia de comercio a los efectos de su inscripción en el correspondiente Registro.
+3. Con una antelación mínima de veinte días a la firma de cualquier contrato o precontrato de franquicia o entrega por parte del futuro franquiciado al franquiciador de cualquier pago, el franquiciador deberá haber entregado al futuro franquiciado por escrito la información necesaria para que pueda decidir libremente y con conocimiento de causa su incorporación a la red de franquicia y, en especial, los datos principales de identificación del franquiciador, descripción del sector de actividad del negocio objeto de franquicia, contenido y características de la franquicia y de su explotación, estructura y extensión de la red y elementos esenciales del acuerdo de franquicia.
+Se modifica el apartado 2 por el art. 1.17 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+## TÍTULO VI
+
+Infracciones y sanciones
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 70
+
+Artículo 70. Clases de infracciones.
+1. Sin perjuicio de las responsabilidades que de otro orden pudieran derivarse, constituyen infracciones administrativas en materia de ordenación del comercio las acciones u omisiones tipificadas en la presente Ley, las cuales serán objeto de sanciones administrativas, previa la instrucción del correspondiente expediente sancionador, iniciado de oficio o por reclamación o denuncia.
+2. Las infracciones se clasifican en leves, graves y muy graves.
+
+### Artículo 71
+
+Artículo 71. Responsabilidad.
+La responsabilidad administrativa por las infracciones tipificadas en la presente Ley corresponderá a las personas físicas o jurídicas titulares de la empresa y actividades comerciales de que se trate.
+
+### Artículo 72
+
+Artículo 72. Infracciones leves.
+Tendrán la consideración de infracciones leves:
+a) No exhibir la necesaria autorización, homologación o comunicación en la forma legal o reglamentariamente establecida.
+b) El incumplimiento de la obligación de informar al público sobre los días y horas de apertura y cierre de los establecimiento comerciales, o no hacerlo en lugar visible del mismo.
+c) El incumplimiento de las normas sobre indicación de precios.
+d) El incumplimiento de lo dispuesto en el artículo 34 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, acerca de las ofertas de venta conjunta.
+e) No realizar a la Administración las comunicaciones o notificaciones exigidas por la normativa vigente.
+f) En general, el incumplimiento de las obligaciones establecidas en la presente Ley que no sean objeto de sanción específica.
+Se modifican los apartados e) y f) por el art. 1.18 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 73
+
+Artículo 73. Infracciones graves.
+Tendrán la consideración de infracciones graves:
+a) Ejercer una actividad comercial sin previa autorización o sin haber realizado la comunicación al Registro de Ventas especiales o de franquiciadores cuando la misma fuera preceptiva y corriera a cargo del interesado y no estuviera tipificada como falta muy grave.
+b) Exigir precios superiores a aquellos que hubiesen sido objeto de fijación administrativa.
+c) Realizar ventas con pérdida, con excepción de las autorizadas en esta Ley, e incumplir las normas sobre facturas que recoge en su artículo 13.
+d) La apertura del establecimiento comercial en domingo o día festivo no autorizado para la realización de actividades comerciales, de aquellos no excepcionados en el artículo 15 de esta Ley.
+e) La realización de actividades comerciales en horario superior al máximo autorizado.
+f) El incumplimiento de los plazos máximos de pago que contempla el apartado 3 del artículo 17 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, así como la falta de entrega por los comerciantes a sus proveedores de un documento que lleve aparejada ejecución cambiaria, y la falta de entrega de un efecto endosable a la orden en los supuestos y plazos contemplados en el apartado 4 del mismo artículo 17.
+g) La venta bajo el anuncio o la denominación de «ventas con obsequio», «ventas en rebaja», «ventas en liquidación», «ventas de saldos», o «ventas con descuento», así como la realización de estas actividades, con inobservancia de las características legales definidoras de las mismas.
+h) El incumplimiento de lo dispuesto en el artículo 25 de la presente Ley en cuanto a la prohibición de simultanear la venta en rebajas con otras ventas promocionales.
+i) La venta de artículos defectuosos, salvo en la venta de saldos.
+j) La venta en rebajas, en liquidación o con descuento de artículos adquiridos expresamente con tal finalidad.
+k) El falseamiento, en las ventas promocionales, de la publicidad de su oferta.
+l) El incumplimiento del régimen establecido sobre entrega y canje de los obsequios promocionales.
+m) Modificar durante el período de duración de la oferta de ventas con obsequio el precio o la calidad del producto.
+n) La oferta de operaciones comerciales en pirámide en la forma prohibida en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista.
+ñ) Anunciar ventas como directas de fabricante o mayorista con incumplimiento de lo establecido al respecto en el apartado 5 del artículo 2 de esta Ley.
+o) El incumplimiento de lo dispuesto en el apartado 4 del artículo 12 de la presente Ley, en cuanto a la venta por cooperativas.
+p) La negativa o resistencia a suministrar datos o a facilitar la información requerida por las autoridades o sus agentes y funcionarios de la Administración comercial en el ejercicio de sus funciones de comprobación y el suministro de información inexacta o incompleta.
+q) Acaparar o retirar injustificadamente productos destinados directa o indirectamente a la venta.
+r) Incumplir las disposiciones administrativas relativas a la prohibición de comercializar o distribuir determinados productos.
+s) La reincidencia en la comisión de infracciones leves.
+t) El incumplimiento de lo dispuesto en el artículo 50 de la presente Ley en cuanto a la recuperación del importe en la venta en máquinas automáticas.
+Se modifica el apartado a) por el art. 1.19 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 74
+
+Artículo 74. Infracciones muy graves.
+Tendrán la consideración de infracciones muy graves:
+a) El ejercicio de actividades comerciales en Grandes Establecimientos Comerciales sin la autorización correspondiente o con incumplimiento grave de las condiciones tenidas en cuenta para la autorización.
+b) La negativa o resistencia a suministrar datos o facilitar la información requerida por las autoridades y sus agentes en el ejercicio de sus funciones de inspección, cuando se efectúe acompañada de violencia física o verbal o cualquier otra forma de presión.
+c) Las que, habiéndose calificado de graves, hayan supuesto una facturación, afectada por la infracción, superior a un millón (1.000.000) de euros.
+d) La reincidencia en la comisión de infracciones graves.
+Se modifica el apartado a) por el art. 1.19 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+ Se modifica el apartado a) por la disposición adicional 5 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315.
+
+### Artículo 75
+
+Artículo 75. Reincidencia.
+1. Se entenderá que existe reincidencia por la comisión, en el término de un año, de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+2. No obstante lo señalado en el apartado anterior, para calificar una infracción como muy grave sólo se atenderá a la reincidencia en infracciones graves y la reincidencia en infracciones leves sólo determinará que una infracción de este tipo sea calificada como grave cuando se incurra en el cuarto supuesto sancionable.
+
+### Artículo 76
+
+Artículo 76. Prescripción de infracciones.
+Las infracciones reguladas en la presente Ley prescribirán a los tres años las calificadas de muy graves, a los dos años las calificadas de graves y a los seis meses las calificadas de leves.
+Estos plazos se contarán a partir de la realización del acto sancionable o de la terminación del período de comisión si se trata de infracciones continuadas.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 77
+
+Artículo 77. Graduación.
+1. Cada una de las infracciones clasificadas en leves, graves o muy graves se graduarán en mínimas, medias y máximas, en función del número de trabajadores o del volumen de facturación anual de la empresa infractora, con arreglo a la siguiente escala:
+a) Grado mínimo: empresas de hasta cinco trabajadores o con una facturación de hasta trescientos mil (300.000) euros.
+b) Grado medio: empresas de seis a cincuenta trabajadores o con una facturación desde trescientos mil euros y un céntimo (300.000,01) hasta tres millones (3.000.000) de euros.
+c) Grado máximo: empresas de más de cincuenta trabajadores o con una facturación superior a tres millones (3.000.000) de euros.
+Para la aplicación de la escala se tendrá en cuenta la plantilla o la facturación total de la empresa o grupo de empresas titular del establecimiento donde se haya cometido la infracción.
+2. La determinación de la sanción a imponer en cada uno de los grados mínimo, medio o máximo se establecerá en función del volumen de la facturación a la que afecte, cuantía del beneficio obtenido, grado de intencionalidad, plazo de tiempo durante el que se haya venido cometiendo la infracción, reincidencia y capacidad o solvencia económica de la empresa.
+3. En todo caso, cuando la cuantía del beneficio ilícito obtenido como consecuencia de la infracción supere la de la sanción máxima aplicable, ésta podrá ser incrementada por el órgano sancionador hasta igualar el importe total de dicho beneficio.
+Se modifica el apartado 2 por el art. 1.21 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Artículo 78
+
+Artículo 78. Medidas sancionadoras.
+1. Las infracciones a lo dispuesto en esta Ley serán sancionadas de acuerdo con la siguiente graduación:
+a) Infracciones leves:
+1.º Grado mínimo: apercibimiento o multa de hasta doscientos (200) euros.
+2.º Grado medio: multa desde doscientos euros y un céntimo (200,01) hasta cuatrocientos (400) euros.
+3.º Grado máximo: multa desde cuatrocientos euros y un céntimo (400,01) hasta seiscientos (600) euros.
+b) Infracciones graves:
+1.º Grado mínimo: multa desde seiscientos euros y un céntimo (600,01) hasta mil (1.000) euros.
+2.º Grado medio: multa desde mil euros y un céntimo (1.000,01) hasta tres mil (3.000) euros.
+3.º Grado máximo: multa desde tres mil euros y un céntimo (3.000,01) hasta seis mil (6.000) euros.
+c) Infracciones muy graves:
+1.º Grado mínimo: multa desde seis mil euros y un céntimo (6.000,01) hasta quince mil (15.000) euros.
+2.º Grado medio: multa desde quince mil euros y un céntimo (15.000,01) hasta sesenta mil (60.000) euros.
+3.º Grado máximo: multa desde sesenta mil euros y un céntimo (60.000,01) hasta seiscientos mil (600.000) euros.
+2. Las cuantías fijadas en el apartado precedente podrán ser actualizadas, en función del índice de precios al consumo, mediante Decreto del Gobierno de Cantabria, a propuesta de la Consejería competente en materia de comercio.
+3. El Gobierno de Cantabria, en el supuesto de infracciones muy graves que supongan un grave perjuicio económico o generen una amplia alarma social o se trate, al menos, de la tercera reincidencia, podrá acordar el cierre temporal de la empresa o establecimiento infractor por un plazo máximo de un año.
+
+### Artículo 79
+
+Artículo 79. Suspensión temporal de la actividad.
+Con la finalidad de asegurar la eficacia de la resolución que pudiera recaer, el Gobierno de Cantabria podrá adoptar la medida de cierre de las instalaciones o de los establecimientos que no dispongan de las autorizaciones preceptivas o de la suspensión de su funcionamiento hasta que se rectifiquen los defectos o se cumplan los requisitos, en los supuestos de falta muy grave.
+Dicha medida se adoptará mediante acuerdo motivado.
+
+### Artículo 80
+
+Artículo 80. Prescripción de sanciones.
+Las sanciones impuestas por infracciones muy graves prescribirán a los tres años, por las graves a los dos años y por las leves a los seis meses.
+El plazo de prescripción comenzará a contarse a partir de la firmeza de la resolución sancionadora.
+
+### Artículo 81
+
+Artículo 81. Órganos competentes.
+Sin perjuicio de las competencias atribuidas a otras Administraciones públicas o a otros centros directivos, los órganos competentes para resolver el procedimiento sancionador e imponer las sanciones por el incumplimiento de lo dispuesto en la presente Ley son:
+a) El Director general que tenga atribuidas las competencias en materia de comercio, en las infracciones leves.
+b) El titular de la Consejería competente en materia de comercio, en las infracciones graves.
+c) El Gobierno de Cantabria, en las infracciones muy graves y para los supuestos de cierre temporal de la empresa o establecimiento infractor, por un plazo máximo de un año.
+Se autoriza al Gobierno de Cantabria para modificar, mediante Decreto, las competencias atribuidas en el presente artículo.
+
+### Artículo 82
+
+Artículo 82. Procedimiento sancionador.
+1. La imposición de sanciones habrá de sujetarse a las normas básicas en materia de procedimiento administrativo común.
+2. El plazo máximo en el que debe notificarse la resolución expresa de un procedimiento sancionador en materia de comercio será de un año contado desde la fecha del acuerdo de iniciación.
+Se modifica por el art. 7 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+
+### Disposición adicional primera
+
+Disposición adicional primera. Registros.
+Reglamentariamente se establecerá el contenido de los Registros de Asociaciones de Comerciantes y de Ventas Especiales, así como los requisitos para la inscripción en los mismos.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Infracciones y sanciones.
+Las infracciones a lo dispuesto en la presente Ley que constituyan un acto ilícito en materia de defensa del consumidor y usuario, serán sancionadas de conformidad con lo dispuesto en la Ley de Cantabria 1/2006, de 7 de marzo, de Defensa de los Consumidores y Usuarios.
+Se modifica por el art. 1.22 de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Competencias de los Ayuntamientos.
+Corresponderá a los Ayuntamientos la vigilancia del cumplimiento de los requisitos establecidos para la realización de las ventas especiales que precisen de su autorización, pudiendo imponer las sanciones que procedan según lo establecido en la legislación local o dar traslado de la denuncia al órgano competente en materia de comercio del Gobierno de Cantabria para su tramitación.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Suspensión de licencias.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación de Ordenanzas municipales y mantenimiento de la declaración de zona de gran afluencia turística.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Tramitación de expedientes.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 2/2010, de 4 de mayo. Ref. BOE-A-2010-8555.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Autorización de desarrollo reglamentario.
+Se autoriza al Gobierno de Cantabria y al Consejero competente en materia de comercio para dictar cuantas disposiciones sean necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Aplicación de legislación supletoria.
+En todo lo no previsto en la presente Ley, será de aplicación, con carácter supletorio, la legislación estatal sobre esta materia.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Cantabria».
+
+Palacio del Gobierno de Cantabria, 26 de febrero de 2002.
+JOSÉ JOAQUÍN MARTÍNEZ SIESO,
+Presidente

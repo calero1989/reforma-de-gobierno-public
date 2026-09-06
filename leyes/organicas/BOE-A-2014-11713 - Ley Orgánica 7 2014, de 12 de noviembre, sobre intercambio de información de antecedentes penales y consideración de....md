@@ -1,0 +1,228 @@
+# Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea.
+
+- Identificador BOE: `BOE-A-2014-11713`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-11713
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye corrección de erratas publicada en BOE núm. 276, de 14 de noviembre de 2014. Ref. BOE-A-2014-11756.
+
+## Preámbulo
+
+FELIPE VI
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
+PREÁMBULO
+I
+La cooperación judicial de la Unión Europea se articula sobre la base de los principios básicos de la armonización de legislaciones y el reconocimiento mutuo de resoluciones judiciales, como se proclama en los artículos 67 y 82 del Tratado de Funcionamiento de la Unión Europea.
+El principio de reconocimiento mutuo como pieza básica de la cooperación judicial civil y penal en la Unión Europea, ha supuesto una auténtica revolución en las relaciones de cooperación entre los Estados miembros, al permitir que el reconocimiento y la ejecución o cumplimiento de las resoluciones judiciales traspase las fronteras del Estado donde se dictaron, para ser efectiva en los demás Estados.
+Este nuevo modelo de cooperación judicial conlleva un cambio radical en las relaciones entre los Estados miembros de la Unión Europea, al sustituir las antiguas comunicaciones entre las autoridades centrales o gubernativas por la comunicación directa entre las autoridades judiciales, lo que junto a otras medidas ha logrado simplificar y agilizar los procedimientos de transmisión de las resoluciones judiciales. No obstante, las autoridades centrales de los Estados, fundamentalmente los distintos Ministerios de Justicia, prestan una valiosa ayuda al funcionamiento del sistema.
+Así se pone de manifiesto en las dos normas de la Unión Europea que son objeto de transposición en esta Ley y que contribuyen a un mejor funcionamiento de las normas de reconocimiento mutuo, a las que complementan. Se trata de la Decisión Marco 2008/675/JAI del Consejo, de 24 de julio de 2008, relativa a la consideración de las resoluciones condenatorias entre los Estados miembros de la Unión Europea con motivo de un nuevo proceso penal y de la Decisión Marco 2008/315/JAI, de 26 de febrero de 2009, relativa a la organización y al contenido del intercambio de información de los registros de antecedentes penales entre Estados miembros. En este sentido, el programa de medidas destinado a poner en práctica el principio de reconocimiento mutuo de las resoluciones en materia penal contemplaba la necesidad de adoptar uno o varios instrumentos que garantizasen que la autoridad judicial de un Estado miembro pudiera tener en cuenta las resoluciones penales definitivas dictadas en los demás.
+II
+La Ley se inicia con un título preliminar que contiene su objeto y su régimen jurídico, en el que destaca el papel que juegan aquí los Convenios bilaterales o multilaterales entre los Estados miembros, que contribuyen a un mejor funcionamiento de los registros de antecedentes penales. A continuación, la Ley se estructura en otros dos títulos que se dedican, respectivamente, a regular el régimen aplicable al intercambio de información sobre antecedentes penales entre el Registro Central de Penados y las autoridades responsables de los registros nacionales de la Unión Europea y a la consideración de resoluciones judiciales condenatorias previas dictadas en otros Estados miembros de la Unión Europea. Estas normas se coordinan con la reforma del Código Penal para que los efectos de la reincidencia sean aplicables en las mismas condiciones cuando la sentencia condenatoria haya sido dictada en España o en cualquier otro Estado miembro de la Unión Europea.
+III
+La presente Ley viene a dotar de mayor seguridad jurídica una actuación que, en el marco de la cooperación judicial de la Unión Europea, ya se viene desarrollando por el Registro Central de Penados del Ministerio de Justicia, como autoridad competente para la remisión y la petición de la información relativa a los antecedentes penales. El Registro español ya participó, primero, en el proyecto piloto «Red de registros judiciales», a través del cual varios Estados de la Unión Europea intercambiaban información sobre antecedentes penales electrónicamente. Esta red ha sido sustituida por el Sistema Europeo de Información de Antecedentes Penales (ECRIS), creado por la Decisión 2009/316/JAI del Consejo, de 6 de abril de 2009, la cual se dictó precisamente en aplicación del artículo 11 de la Decisión Marco 2008/315/JAI, que se incorpora en esta Ley. En la práctica, ECRIS es un sistema electrónico de interconexión de las bases de datos de los registros de antecedentes penales de todos los Estados miembros, en el que éstos intercambian información sobre condenas de una manera rápida, uniforme y fácilmente transferible por ordenador. Un sistema que ya permite a Jueces y fiscales acceder fácilmente a una información completa sobre el historial delictivo de cualquier ciudadano de la Unión Europea, con independencia del país europeo en el que hubiera sido condenado.
+Estas garantías se complementan a través del título I de esta Ley con normas que aseguren la eficacia de la cooperación entre las autoridades competentes de los distintos Estados, como se manifiesta en las normas que establecen la propia obligación de informar de las condenas, el contenido de esa información o los plazos en los que ha de practicarse.
+Todas estas normas se concentran, en su aplicación en España, en el Registro Central de Penados, dependiente del Ministerio de Justicia. De acuerdo con las normas objeto de transposición, la información que trasladarán al Registro español es la que se refiere a condenas impuestas a españoles o a personas que hubieran residido en España, por los Tribunales de otro Estado miembro. Hay normas específicas en lo que se refiere a las condenas impuestas a menores y reglas de acuerdo con las cuales unos antecedentes pueden tenerse por cancelados a efectos de su toma en consideración por Jueces y Tribunales, pero mantenerse para retransmitirse a otros Estados, de acuerdo con lo que comunique la autoridad central del Estado de condena.
+Del mismo modo, el Registro Central de Penados informará de las condenas dictadas en España a las autoridades centrales de los Estados de la nacionalidad del condenado, así como las modificaciones de las mismas o su cancelación, impidiendo su utilización fuera de un proceso penal.
+Se ha de destacar que las peticiones de antecedentes a las autoridades competentes de otros Estados por parte del Registro Central de Penados se produce a instancias de Jueces y fiscales en el marco de un proceso penal, así como en los demás supuestos previstos por el ordenamiento jurídico.
+IV
+La regulación del título II de esta Ley supone la consagración del principio de equivalencia de las sentencias dictadas en la Unión Europea mediante su toma en consideración en procesos posteriores derivados de la comisión de nuevos delitos. Ello significa que, al igual que ocurre con las condenas anteriores pronunciadas en España, las que se dicten en otros Estados miembros deberán ser tenidas en cuenta tanto durante el proceso, como en la fase previa al mismo y en la de ejecución de la condena. Esa toma en consideración queda limitada en sus efectos a los que hubiera tenido una condena dictada en España y, además, sujeta al requisito de que la condena en otro Estado miembro hubiera sido impuesta por hechos que fueran punibles de conformidad con la ley española vigente a la fecha de su comisión.
+El reconocimiento de efectos alcanza no solamente al momento de imposición de la pena, sino que se extiende a las resoluciones que deban adoptarse en la fase de investigación del delito o en la de la ejecución de la pena, por ejemplo, cuando se resuelva sobre la prisión preventiva de un sospechoso, sobre la cuantía de su fianza, la determinación de la pena, la suspensión de la ejecución de una pena o la revocación de la misma, o la concesión de la libertad condicional.
+Junto a este principio general, con el propósito de reforzar la seguridad jurídica, la Ley enumera, en línea con las previsiones o facultades previstas en la Decisión Marco, los supuestos en los que tales condenas no pueden ser tomadas en consideración: a efectos de la revisión de las condenas que ya hubieran sido impuestas con anterioridad en España o de las resoluciones dictadas para dar inicio a su ejecución; a efecto de las condenas que eventualmente se impongan con posterioridad en España por delitos que se hubieran cometido antes de que se hubiera impuesto la condena anterior por el otro Estado miembro; así como en relación con las resoluciones sobre fijación de los límites de cumplimiento de la pena que se dicten conforme al artículo 988 de la Ley de Enjuiciamiento Criminal cuando incluyan alguna de esas condenas.
+Asimismo, la firmeza de esas condenas impuestas en otros Estados constituye otra garantía ineludible, que impide que, en su defecto, se puedan tomar en consideración.
+Por lo que respecta a la forma de recabar la información relativa a las resoluciones condenatorias dictadas en otros Estados, el Juez o Tribunal obtendrá la información mediante el intercambio de información sobre antecedentes penales o a través de los instrumentos de asistencia judicial vigentes. De este modo, el Registro Central de Penados se constituye de nuevo en un instrumento fundamental de apoyo a la labor de los Tribunales. Sólo cuando la información obtenida por estas vías fuera suficiente podrá ser tomada en consideración por el Juez o Tribunal competente.
+En definitiva, el carácter instrumental de esta Ley dentro del ámbito de la cooperación judicial en la Unión Europea supone incrementar su eficacia y con ello la seguridad de los ciudadanos dentro del Espacio europeo de libertad, seguridad y justicia a través del intercambio de información sobre las condenas penales entre Estados miembros.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+Esta ley orgánica tiene por objeto regular el régimen aplicable al intercambio de información sobre antecedentes penales de las personas físicas entre el Registro Central de Penados y las autoridades responsables de los registros nacionales de cada uno de los Estados miembros de la Unión Europea y a la consideración en los procesos penales tramitados en España de resoluciones condenatorias firmes dictadas con anterioridad por un órgano jurisdiccional penal por la comisión de un delito contra las mismas personas físicas en otros países Estados miembros de la Unión Europea.
+Se modifica por el art. único.1 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico aplicable.
+La cooperación entre las autoridades españolas y las de los demás Estados miembros de la Unión Europea, a los efectos señalados en el artículo anterior, se regirá por esta Ley, así como por lo dispuesto en los Convenios bilaterales o multilaterales con otros Estados miembros, en los protocolos o Convenios que los modifiquen o sustituyan, y en aquellas normas directamente aplicables de la Unión Europea en materia de cooperación judicial penal.
+
+## TÍTULO I
+
+Intercambio de información sobre antecedentes penales
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 3
+
+Artículo 3. Autoridad competente en España para remitir y recibir información sobre antecedentes penales.
+En España, la autoridad central competente para remitir y recibir la información de las notas de condena de antecedentes penales por la comisión de infracciones penales es el Registro Central de Penados.
+
+### Artículo 4
+
+Artículo 4. Procedimiento de intercambio de información sobre antecedentes penales.
+1. El intercambio de información relativa a los antecedentes penales entre el Registro Central de Penados de España y las autoridades centrales de los restantes países miembros se realizará por vía electrónica, utilizando el Sistema Europeo de Información de Antecedentes Penales (ECRIS) y un formato normalizado.
+2. Cuando no sea posible utilizar el procedimiento previsto en el apartado anterior, la transmisión de la información se efectuará a través de cualquier medio capaz de generar un registro escrito, o, en su caso, a través del formulario anexo a la ley, en condiciones que permitan a la autoridad central del Estado miembro receptor verificar la autenticidad de la información, tomando en consideración la seguridad de la transmisión. El formulario se traducirá a la lengua oficial o a una de las lenguas oficiales del Estado al que se dirige o, en su caso, a una de las lenguas oficiales acordadas por dicho Estado. Si el modo de transmisión previsto en el apartado anterior no estuviera disponible durante un periodo prolongado, la autoridad central informará de ello a los demás Estados miembros y a la Comisión.
+Se modifica por el art. único.2 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+## CAPÍTULO II
+
+Notificaciones de sentencias condenatorias firmes entre los Estados miembros de la Unión Europea
+
+### Artículo 5
+
+Artículo 5. Notas de condena relativas a españoles derivadas de sentencias firmes dictadas en otros Estados miembros.
+1. El Registro Central de Penados inscribirá las notas de condena transmitidas como firmes que, por considerar que se refieren a una persona con nacionalidad española, le hayan sido remitidas por la autoridad central del Estado miembro de condena. Si el Registro Central de Penados tuviera constancia cierta de que la notificación se refiere a una persona que no tiene la nacionalidad española la rechazará, salvo que dicha persona hubiera sido condenada en España con anterioridad, fuera o hubiera sido residente en España o hubiera tenido la nacionalidad española. Cuando la notificación se refiera a menores de edad penal de acuerdo con la legislación del Estado de condena o la legislación española sólo se tendrán en cuenta a efectos de su transmisión a otros Estados miembros, con la excepción de las condenas impuestas por delitos contra la libertad e indemnidad sexuales o por trata de seres humanos con fines de explotación sexual, incluyendo la pornografía, que se remitirán de forma automática al Registro Central de Delincuentes Sexuales y Trata de Seres Humanos. Las notificaciones relativas a condenas impuestas por hechos no punibles en España sólo se conservarán a efectos de su transmisión a otros Estados miembros.
+2. El Registro Central de Penados dejará constancia de aquellas notificaciones respecto de las que el Estado de condena haya indicado que no son retransmisibles a otros Estados miembros para propósitos distintos de un procedimiento penal, para su tratamiento diferenciado a efectos de certificación. En estos supuestos, recibida una solicitud de información de antecedentes penales, se procederá en la forma prevista en el apartado 5 del artículo 11.
+3. A efectos de retransmisión, el Registro Central de Penados modificará o cancelará la información a que se refieren los apartados anteriores cuando así se lo comunique la autoridad central del Estado miembro de condena. La cancelación significará la eliminación física de los antecedentes cuando así lo comunique la autoridad central del Estado de condena.
+Se modifica por el art. único.3 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 6
+
+Artículo 6. Obligación de información sobre las condenas pronunciadas en España.
+1. El Registro Central de Penados informará sobre las condenas pronunciadas en España a la autoridad central del Estado de la nacionalidad del condenado, indicando si dicha información podrá ser retransmitida a otros Estados miembros para su utilización fuera de un proceso penal.
+2. Cuando el condenado tenga la nacionalidad de varios Estados miembros, la información habrá de transmitirse a cada uno de ellos.
+3. El Registro Central de Penados comunicará a la autoridad competente del Estado miembro de la nacionalidad del condenado las posteriores modificaciones o cancelaciones de la información que consten en el mismo.
+4. Cuando el condenado fuera nacional de tercer país, el Registro Central de Penados comunicará sus datos personales al sistema centralizado previsto en el Reglamento (UE) 2019/816 del Parlamento Europeo y del Consejo, de 17 de abril de 2019. El término nacional de tercer país incluye a las personas que no sean ciudadanos de la Unión en el sentido del artículo 20, apartado 1, del Tratado de Funcionamiento de la Unión Europea y a las personas apátridas o de nacionalidad desconocida.
+Se modifica por el art. único.4 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 7
+
+Artículo 7. Contenido de la información.
+1. Salvo en caso de desconocimiento, la información que el Registro Central de Penados remita de oficio, como autoridad del Estado de condena, a las autoridades competentes de los Estados miembros de la nacionalidad del condenado incluirá:
+a) Información sobre el condenado: Nombre y apellidos y, en su caso, nombres anteriores y alias, fecha y lugar de nacimiento (ciudad y Estado), nombre de los padres, sexo, nacionalidad y documento de identidad.
+b) Información sobre el carácter de la condena: Fecha de la sentencia, fecha de firmeza de la sentencia, órgano judicial sentenciador y órgano judicial de ejecución de la sentencia, en su caso.
+c) Información sobre el delito que dio lugar a la condena: Delito o delitos y precepto penal aplicado, fecha y lugar, si constase, de comisión del delito.
+d) Información sobre el contenido de la condena: Pena o penas principales y accesorias, medidas de seguridad y resoluciones posteriores que modifiquen la ejecución de la pena.
+2. El Registro Central de Penados deberá transmitir, si dispone de ello, las impresiones dactilares y la imagen facial obtenidas del condenado, así como cualquier otra información relativa a la condena que constase en el mismo.
+Se modifica el apartado 2 por el art. único.5 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 7 bis
+
+Artículo 7 bis. Contenido de la información a remitir al sistema centralizado previsto en el Reglamento (UE) 2019/816.
+1. El Registro Central de Penados, como autoridad central del Estado de condena, deberá crear un registro de datos en el sistema central para cada nacional de un tercer país condenado. El registro de datos deberá incluir los datos alfanuméricos, dactiloscópicos y, cuando el Derecho español permita la recogida y conservación, la imagen facial del condenado, así como los demás datos previstos en el art. 5.1 del Reglamento (UE) 2019/816.
+2. Los datos dactiloscópicos del condenado se remitirán siempre que se hayan recogido durante el proceso penal y, en todo caso, cuando el nacional de un tercer país haya sido condenado a una pena de privación de libertad de una duración mínima de seis meses. Esta previsión resultará igualmente de aplicación cuando el nacional de un tercer país condenado ostente también la nacionalidad de algún país de la Unión Europea.
+Se añade por el art. único.6 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 8
+
+Artículo 8. Plazos para las notificaciones.
+1. Las notificaciones de las condenas penales relativas a nacionales de los países miembros de la Unión Europea dictadas por los jueces y tribunales españoles se comunicarán cuanto antes y como máximo en el plazo de dos meses contados a partir del momento en que hayan sido remitidas al Registro Central de Penados.
+2. La autoridad central española remitirá al sistema centralizado la información prevista en el artículo 7 bis, de forma automática, siempre que sea posible, y sin demora injustificada, después de que la sentencia firme condenatoria haya sido inscrita en el Registro Central de Penados.
+Se modifica por el art. único.7 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+## CAPÍTULO III
+
+Información sobre antecedentes penales a petición de una autoridad central
+
+### Artículo 9
+
+Artículo 9. Información sobre antecedentes penales.
+La información sobre antecedentes penales comprende la que consta en el Registro Central de Penados, de acuerdo con sus normas reguladoras, con exclusión de las notas canceladas.
+Se suprimen los párrafos segundo y tercero por el art. único.8 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 10
+
+Artículo 10. Consultas sobre antecedentes penales.
+1. El Registro Central de Penados podrá consultar a la autoridad central de otro Estado miembro sobre antecedentes penales relativos a una persona que fuera nacional o hubiera residido en dicho Estado cuando se requieran en el marco de un proceso penal o con cualquier otro fin válido en el ordenamiento jurídico español. Tratándose de nacionales de terceros países, la autoridad central podrá consultar al sistema centralizado con objeto de identificar al Estado o Estados miembros que posean información sobre antecedentes penales de aquel, con el fin de obtener información sobre condenas anteriores a través del Sistema Europeo de Información de Antecedentes Penales (ECRIS), cuando se solicite información sobre antecedentes penales de esa persona a efectos de un proceso penal contra la misma o con cualquier otro fin válido en el ordenamiento jurídico español. El Registro Central de Penados también podrá consultar el sistema centralizado para comprobar si, respecto de un ciudadano de la Unión Europea, algún Estado miembro posee información de antecedentes penales relativa a dicha persona como nacional de un tercer país. Cuando la finalidad de dicha consulta sea utilizar la información para fines distintos de un proceso penal, será necesario contar con el consentimiento expreso de la persona sobre la que se realiza la consulta, salvo que una norma estatal con rango de ley lo exceptúe.
+2. Cuando el Estado requerido deniegue una información por no ser el Estado de condena y éste hubiera prohibido su retransmisión para fines al margen de un proceso penal, el Registro Central de Penados solicitará del Estado de condena la información de que se trate.
+3. Cuando un ciudadano de la Unión Europea solicite la emisión de un certificado de antecedentes penales en España, deberá hacer constar su nacionalidad o nacionalidades de otro Estado miembro. En este caso, el Registro Central de Penados solicitará a la autoridad central correspondiente que proporcione en extracto la información y datos conexos que pueda tener sobre dicha persona al objeto de completar su información. Si el interesado tuviera la nacionalidad de un tercer país, el Registro Central de Penados consultará al sistema centralizado con objeto de identificar al Estado o Estados miembros que pudieran poseer información sobre antecedentes penales de aquel, con el fin de obtener información sobre condenas anteriores a través de ECRIS para incluirlas en el certificado que se expida o dejar constancia negativa en caso contrario. El Registro Central de Penados incluirá la información y datos conexos recibidos de la autoridad central correspondiente en el extracto que facilite a la persona que haya solicitado la emisión del certificado de antecedentes penales.
+Se modifican los apartados 1 y 3 por el art. único.9 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+ Redactado el apartado 2 conforme a la corrección de erratas publicada en el BOE núm. 276, de 14 de noviembre de 2014. Ref. BOE-A-2014-11756.
+
+### Artículo 11
+
+Artículo 11. Respuesta a consultas formuladas por la autoridad central de otros Estados miembros.
+1. El Registro Central de Penados responderá a las consultas que se formulen por la autoridad central de otro Estado, incluyendo:
+a) Las notas de condena no canceladas dictadas por tribunales españoles.
+b) Las notas de condena dictadas por tribunales extranjeros sobre las que no se haya comunicado su cancelación.
+2. Cuando un Estado miembro realice una petición de información penal acerca de un ciudadano español para su utilización en un procedimiento penal, el Registro Central de Penados transmitirá a la autoridad central del Estado miembro requirente la información sobre las condenas pronunciadas en España que no estén reservadas a las autoridades judiciales españolas.
+3. Cuando un Estado miembro realice una petición de información penal acerca de un ciudadano nacional de otro Estado miembro para su utilización en un procedimiento penal o para cualquier otro fin, el Registro Central de Penados transmitirá a la autoridad central del Estado miembro requirente la información sobre las condenas que figuren inscritas, siempre que no estuviesen reservadas a las autoridades judiciales españolas en la misma medida que lo dispuesto en el artículo 13 del Convenio Europeo de Asistencia Judicial en Materia Penal.
+4. Si la solicitud se refiriese a un ciudadano de un tercer país, el Registro Central de Penados transmitirá a la autoridad central del Estado miembro requirente la información sobre las condenas que figuren inscritas, siempre que no estuviesen reservadas a las autoridades judiciales españolas, y sobre las condenas pronunciadas en terceros países y posteriormente transmitidas e inscritas en el Registro.
+5. Si la solicitud de información penal fuera para fines distintos de un procedimiento penal, el Registro Central de Penados transmitirá a la autoridad central del Estado requirente la información penal que no estuviese reservada a las autoridades judiciales españolas, siempre que se acredite el consentimiento expreso del interesado, salvo que el mismo no fuera necesario conforme al Derecho español para procedimientos de idéntica naturaleza. En tal caso, el Registro Central de Penados transmitirá las condenas pronunciadas contra ciudadanos españoles que figuren inscritas siempre que el Estado de condena no se hubiera opuesto a esa retransmisibilidad, en cuyo caso se informará al Estado requirente acerca del Estado en que se dictó la condena, a los efectos oportunos.
+Se modifica por el art. único.10 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Artículo 12
+
+Artículo 12. Plazos de respuesta.
+La información sobre antecedentes penales a petición de una autoridad central de otro Estado miembro deberá ser respondida respetando los siguientes plazos:
+a) Diez días hábiles desde la fecha de recepción de la consulta, cuando la autoridad competente de un Estado miembro solicite al Registro Central de Penados información sobre los antecedentes penales de un condenado para su uso en un proceso penal o para cualquier otro fin.
+En el caso de que el Registro Central de Penados necesite información adicional para identificar a la persona a la que se refiere la solicitud, podrá consultar al Estado miembro requirente, respondiendo en todo caso en el plazo de diez días hábiles desde que le fuera proporcionada la nueva información solicitada.
+b) Veinte días hábiles desde la fecha de recepción de la consulta, cuando a partir de la solicitud de un particular sobre sus antecedentes penales, la autoridad competente de un Estado miembro solicite al Registro Central de Penados información sobre los antecedentes penales de un condenado que sea o haya sido español o residente en España.
+
+### Artículo 13
+
+Artículo 13. Condiciones de uso de los datos solicitados.
+1. Los datos personales incluidos en la respuesta enviada por otro Estado miembro sobre los antecedentes penales de una persona, sólo podrán ser utilizados para los fines con que fueron solicitados y no serán conservados en el Registro Central de Penados, salvo que la solicitud haya sido realizada por el propio Registro Central de Penados para actualizar debidamente la información registrada, haciendo constar este propósito en la solicitud.
+2. La información remitida a otros Estados no miembros de la Unión Europea de acuerdo con los Convenios y Tratados internacionales suscritos por España, en relación con los antecedentes penales de un condenado de nacionalidad española, deberá tener en cuenta, en relación con las notas de condena que le hayan transmitido otros Estados miembros, los límites previstos para la transmisión de información entre Estados miembros.
+3. Sin perjuicio de lo establecido en los apartados anteriores, los datos de carácter personal comunicados al Registro Central de Penados por otro Estado miembro podrán ser utilizados para la protección del orden público o de la seguridad nacional en casos de amenaza inminente y grave.
+4. Una vez cancelados o eliminados todos los antecedentes penales de un ciudadano nacional de un tercer país, el Registro Central de Penados procederá a suprimir, en el plazo máximo de un mes, la información que en su caso hubiera remitido al sistema centralizado de conformidad con lo dispuesto en el artículo 7 bis.
+Se añade el apartado 4 por el art. único.11 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+ Redactado el apartado 1 conforme a la corrección de erratas publicada en el BOE núm. 276, de 14 de noviembre de 2014. Ref. BOE-A-2014-11756.
+
+## TÍTULO II
+
+Consideración de resoluciones condenatorias dictadas en otros Estados miembros de la Unión Europea
+
+### Artículo 14
+
+Artículo 14. Efectos jurídicos de las resoluciones condenatorias anteriores sobre el nuevo proceso penal.
+1. Las condenas anteriores firmes dictadas en otros Estados miembros contra la misma persona por distintos hechos surtirán, con motivo de un nuevo proceso penal, los mismos efectos jurídicos que las condenas anteriores firmes dictadas en España. Esta equivalencia de efectos jurídicos se aplicará en la fase previa al proceso penal, durante el propio proceso y con ocasión de la ejecución de la condena impuesta.
+2. Las resoluciones condenatorias recaídas en procedimientos judiciales en otros Estados miembros no tendrán ningún efecto sobre las sentencias firmes recaídas en España con anterioridad ni sobre las resoluciones relativas a su ejecución, ni tampoco podrán provocar su revocación o revisión por los jueces o tribunales.
+3. No podrán ser tomadas en consideración en un proceso penal desarrollado en España a efectos de imposición de penas, aquellas infracciones cometidas en otro Estado miembro cuando no hubiera recaído resolución de condena firme de las mismas.
+4. Los antecedentes penales que consten en el Registro Central de Penados se tendrán por cancelados, aunque procedan de condenas dictadas en otros Estados, a efectos de su toma en consideración en España por los jueces y tribunales de acuerdo con el Derecho español, a menos que antes se comunique su cancelación por el Estado de condena.
+Se modifica por el art. único.12 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+ Redactado el apartado 2.a) conforme a la corrección de erratas publicada en el BOE núm. 276, de 14 de noviembre de 2014. Ref. BOE-A-2014-11756.
+
+### Artículo 15
+
+Artículo 15. Solicitud de antecedentes penales de otros Estados para su consideración en un nuevo proceso penal.
+El Juez o Tribunal o el Ministerio Fiscal obtendrán la información relativa a las resoluciones condenatorias dictadas en otros Estados mediante el intercambio de información sobre antecedentes penales o a través de los instrumentos de asistencia judicial vigentes.
+A estos efectos, cuando se trate de nacionales de otros Estados miembros de la Unión Europea o ciudadanos nacionales de terceros países, o nacionales de otros Estados con los que se haya suscrito el correspondiente convenio de cooperación, el juez o tribunal o el Ministerio Fiscal recabarán de oficio los antecedentes penales de los investigados.
+Se modifica el segundo párrafo por el art. único.13 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Disposición adicional única
+
+Disposición adicional única. Condenas anteriores al 15 de agosto de 2010.
+(Suprimida)
+Se suprime por el art. único.14 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+
+### Disposición final primera
+
+Disposición final primera. Preceptos no orgánicos.
+Los preceptos comprendidos en el título I de esta Ley no tienen naturaleza orgánica.
+
+### Disposición final segunda
+
+Disposición final segunda. Título competencial.
+Esta Ley se dicta al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación penal y procesal.
+
+### Disposición final tercera
+
+Disposición final tercera. Incorporación de Derecho de la Unión Europea.
+Mediante esta Ley se incorporan al Derecho español:
+a) La Decisión Marco 2008/675/JAI, de 24 de julio de 2008, relativa a la consideración de las resoluciones condenatorias entre los Estados miembros de la Unión Europea con motivo de un nuevo proceso penal.
+b) La Decisión Marco 2008/315/JAI, de 26 de febrero de 2009, relativa a la organización y al contenido del intercambio de información de los registros de antecedentes penales entre los Estados miembros.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
+Madrid, 12 de noviembre de 2014.
+FELIPE R.
+El Presidente del Gobierno,
+MARIANO RAJOY BREY
+
+## ANEXO
+
+Formulario para el intercambio de información de los registros de antecedentes penales entre los Estados miembros
+Redactada la letra b) conforme a la corrección de erratas publicada en el BOE núm. 276, de 14 de noviembre de 2014. Ref. BOE-A-2014-11756.

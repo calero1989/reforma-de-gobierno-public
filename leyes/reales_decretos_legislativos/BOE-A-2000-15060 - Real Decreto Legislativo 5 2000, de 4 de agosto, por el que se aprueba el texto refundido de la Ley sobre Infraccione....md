@@ -1,0 +1,1397 @@
+# Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social.
+
+- Identificador BOE: `BOE-A-2000-15060`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-15060
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 228, de 22 de septiembre de 2000. Ref. BOE-A-2000-17128
+
+## Preámbulo
+
+La sentencia del Tribunal Constitucional 195/1996, de 28 de noviembre, establece que corresponde al legislador estatal la tarea de reelaborar la Ley 8/1988, de 7 de abril, sobre Infracciones y Sanciones en el Orden Social, en aras del respeto y clarificación del orden constitucional de competencias y en beneficio de la seguridad jurídica, imprescindibles en materia sancionadora.
+El legislador, a través de la disposición adicional primera de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, autoriza al Gobierno para elaborar, en el plazo de nueve meses desde su entrada en vigor, un texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, en el que se integren, debidamente regularizadas, aclaradas y sistematizadas, las distintas disposiciones legales que enumera.
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de agosto de 2000,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único.
+Se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, que se inserta a continuación.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente Real Decreto legislativo y el texto refundido que aprueba entrarán en vigor el día 1 de enero de 2001.
+
+Dado en Palma de Mallorca a 4 de agosto de 2000.
+JUAN CARLOS R.
+El Ministro de Trabajo y Asuntos Sociales,
+JUAN CARLOS APARICIO PÉREZ
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY SOBRE INFRACCIONES Y SANCIONES EN EL ORDEN SOCIAL
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Infracciones en el orden social.
+1. Constituyen infracciones administrativas en el orden social las acciones u omisiones de los distintos sujetos responsables tipificadas y sancionadas en la presente Ley y en las leyes del orden social.
+2. Las infracciones no podrán ser objeto de sanción sin previa instrucción del oportuno expediente, de conformidad con el procedimiento administrativo especial en esta materia, a propuesta de la Inspección de Trabajo y Seguridad Social, sin perjuicio de las responsabilidades de otro orden que puedan concurrir.
+3. Las infracciones se califican como leves, graves y muy graves en atención a la naturaleza del deber infringido y la entidad del derecho afectado, de conformidad con lo establecido en la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Sujetos responsables de la infracción.
+Son sujetos responsables de la infracción las personas físicas o jurídicas y las comunidades de bienes que incurran en las acciones u omisiones tipificadas como infracción en la presente Ley y, en particular, las siguientes:
+1. El empresario en la relación laboral.
+2. Los empresarios, trabajadores por cuenta propia o ajena o asimilados, perceptores y solicitantes de las prestaciones de Seguridad Social, las entidades de formación o aquellas que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas, de forma individual o en agrupación de empresas y los solicitantes y beneficiarios de las ayudas y subvenciones públicas de formación profesional para el empleo, las Mutuas Colaboradoras con la Seguridad Social y demás entidades colaboradoras en la gestión, en el ámbito de la relación jurídica de Seguridad Social, así como las entidades o empresas responsables de la gestión de prestaciones en cuanto a sus obligaciones en relación con el Registro de Prestaciones Sociales Públicas y demás sujetos obligados a facilitar información de trascendencia recaudatoria en materia de Seguridad Social.
+3. Los empresarios, los trabajadores, los solicitantes de ayudas y subvenciones públicas y, en general, las personas físicas o jurídicas, respecto de la normativa de colocación, fomento del empleo y de formación profesional para el empleo.
+4. Los transportistas, agentes consignatarios, representantes, trabajadores y, en general, las personas físicas o jurídicas que intervengan en movimientos migratorios.
+5. Los empresarios y trabajadores por cuenta propia respecto de la normativa sobre trabajo de extranjeros.
+6. Las cooperativas con respecto a sus socios trabajadores y socios de trabajo, conforme a la Ley 27/1999, de 16 de julio, de Cooperativas.
+7. Las agencias de colocación, las empresas de trabajo temporal y las empresas usuarias respecto de las obligaciones que se establecen en su legislación específica y en la de prevención de riesgos laborales, sin perjuicio de lo establecido en otros números de este artículo.
+8. Los empresarios titulares de centro de trabajo, los promotores y propietarios de obra y los trabajadores por cuenta propia que incumplan las obligaciones que se deriven de la normativa de prevención de riesgos laborales.
+9. Las entidades especializadas que actúen como servicios de prevención ajenos a las empresas, las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas y las entidades acreditadas para desarrollar y certificar la formación en materia de prevención de riesgos laborales que incumplan las obligaciones establecidas en la normativa sobre dicha materia.
+10. Las personas físicas o jurídicas y las comunidades de bienes titulares de los centros de trabajo y empresas de dimensión comunitaria situadas en territorio español, respecto de los derechos de información y consulta de los trabajadores en los términos establecidos en su legislación específica.
+11. Los empresarios incluidos en el ámbito de aplicación de la normativa reguladora del desplazamiento de trabajadores en el marco de una prestación de servicios transnacional, respecto de las obligaciones establecidas en dicha normativa.
+12. Las sociedades europeas y las sociedades cooperativas europeas con domicilio social en España, las sociedades, entidades jurídicas y, en su caso, las personas físicas domiciliadas en España que participen directamente en la constitución de una sociedad europea o de una sociedad cooperativa europea, así como las personas físicas o jurídicas o comunidades de bienes titulares de los centros de trabajo situados en España de las sociedades europeas y de las sociedades cooperativas europeas y de sus empresas filiales y de las sociedades y entidades jurídicas participantes, cualquiera que sea el Estado miembro en que se encuentren domiciliadas, respecto de los derechos de información, consulta y participación de los trabajadores, en los términos establecidos en su legislación específica.
+13. Las empresas de inserción, respecto de las obligaciones que se establecen en su legislación específica, sin perjuicio de lo establecido en otros números de este artículo.
+14. Las fundaciones y asociaciones de utilidad pública beneficiarias de donaciones y acciones de patrocinio para el desarrollo de actividades de inserción y de creación de empleo de personas con discapacidad, como medida alternativa al cumplimiento de la obligación de reserva de empleo a favor de las personas con discapacidad.
+Se modifica el apartado 11 por el art. 7.1 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#as-3
+ Se modifican los apartados 2 y 3 por la disposición final 3.1 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifican los apartados 2 y 3 por el art. 21.1 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se añade el apartado 14 por la disposición adicional 14.1 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se añade el apartado 13 por la disposición final 1.1 de la Ley 44/2007, de 13 de diciembre. Ref. BOE-A-2007-21492
+ Se modifica el apartado 4 por la disposición final 1.1 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+ Se añade el apartado 12 por la disposición final 1.1 de la Ley 31/2006, de 18 de octubre. Ref. BOE-A-2006-18204
+ Se modifica el apartado 8 por el art. 9.1 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+ Se modifica el apartado 3 por el art. 5.1 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+
+### Artículo 3
+
+Artículo 3. Concurrencia con el orden jurisdiccional penal.
+1. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, de hecho y de fundamento.
+Los desplazamientos temporales de personas trabajadoras por las empresas establecidas en España al territorio de Estados miembros de la Unión Europea o de Estados signatarios del Acuerdo sobre el Espacio Económico en el marco de una prestación de servicios transnacional, no podrán dar lugar a que se sancionen las acciones u omisiones de los sujetos responsables que hayan sido ya sancionadas penal o administrativamente en el país de desplazamiento en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+2. En los supuestos en que las infracciones pudieran ser constitutivas de ilícito penal, la Administración pasará el tanto de culpa al órgano judicial competente o al Ministerio Fiscal y se abstendrá de seguir el procedimiento sancionador mientras la autoridad judicial no dicte sentencia firme o resolución que ponga fin al procedimiento o mientras el Ministerio Fiscal no comunique la improcedencia de iniciar o proseguir actuaciones.
+3. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, la Administración continuará el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
+4. La comunicación del tanto de culpa al órgano judicial o al Ministerio Fiscal o el inicio de actuaciones por parte de éstos, no afectará al inmediato cumplimiento de las medidas de paralización de trabajos adoptadas en los casos de riesgo grave e inminente para la seguridad o salud del trabajador, a la efectividad de los requerimientos de subsanación formulados, ni a los expedientes sancionadores sin conexión directa con los que sean objeto de las eventuales actuaciones jurisdiccionales del orden penal.
+Se modifica el apartado 1 por el art. 13.1 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+
+### Artículo 4
+
+Artículo 4. Prescripción de las infracciones.
+1. Las infracciones en el orden social a que se refiere la presente Ley prescriben a los tres años contados desde la fecha de la infracción, salvo lo dispuesto en los números siguientes.
+2. Las infracciones en materia de Seguridad Social prescribirán a los cinco años, excepto las cometidas por trabajadores y beneficiarios que supongan el reintegro de prestaciones de Seguridad Social indebidamente percibidas, en que el plazo de prescripción será de cuatro años.
+3. En materia de prevención de riesgos laborales, las infracciones prescribirán: al año las leves, a los tres años las graves y a los cinco años las muy graves, contados desde la fecha de la infracción.
+4. Las infracciones a la legislación de sociedades cooperativas prescribirán: las leves, a los tres meses; las graves, a los seis meses; y las muy graves, al año, contados desde la fecha de la infracción.
+
+## CAPÍTULO II
+
+Infracciones laborales
+
+### Artículo 5
+
+Artículo 5. Concepto.
+1. Son infracciones laborales las acciones u omisiones de los empresarios contrarias a las normas legales, reglamentarias y cláusulas normativas de los convenios colectivos en materia de relaciones laborales, tanto individuales como colectivas, de colocación, empleo, formación profesional para el empleo, de trabajo temporal y de inserción sociolaboral, tipificadas y sancionadas de conformidad con la presente ley. Asimismo, tendrán dicha consideración las demás acciones u omisiones de los sujetos responsables en las materias que se regulan en el presente capítulo.
+2. Son infracciones laborales en materia de prevención de riesgos laborales las acciones u omisiones de los diferentes sujetos responsables que incumplan las normas legales, reglamentarias y cláusulas normativas de los convenios colectivos en materia de seguridad y salud en el trabajo sujetas a responsabilidad conforme a esta ley.
+3. Son infracciones laborales en materia de derechos de implicación de los trabajadores en las sociedades europeas las acciones u omisiones de los distintos sujetos responsables contrarias a la Ley 31/2006, de 18 de octubre, sobre implicación de los trabajadores en las sociedades anónimas y cooperativas europeas, o a sus normas reglamentarias de desarrollo, a las disposiciones de otros Estados miembros con eficacia en España, a los acuerdos celebrados conforme a la Ley o a las disposiciones citadas, y a las cláusulas normativas de los convenios colectivos que complementan los derechos reconocidos en las mismas, tipificadas y sancionadas de conformidad con esta ley.
+Asimismo, son infracciones laborales en materia de derechos de implicación de los trabajadores en las sociedades participantes o resultantes de modificaciones estructurales transfronterizas intraeuropeas consistentes en fusiones, transformaciones o escisiones las acciones u omisiones de los distintos sujetos responsables contrarias al título IV de la Ley 31/2006, de 18 de octubre. A estos efectos, las infracciones laborales previstas en el artículo 10 bis se entenderán aplicables en caso de incumplimientos de dicha ley relativos a dichas modificaciones estructurales, aunque no den lugar a la constitución de una sociedad.
+Se modifica el apartado 3 por la disposición final 1 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#df
+ Se modifica el apartado 1 por la disposición final 3.2 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el apartado 1 por el art. 21.2 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 91, de 16 de abril de 2015. Ref. BOE-A-2015-4092.
+ Se modifica el apartado 1 por la disposición final 1.2 de la Ley 44/2007, de 13 de diciembre. Ref. BOE-A-2007-21492
+ Se añade el apartado 3 por la disposición final 1.2 de la Ley 31/2006, de 18 de octubre. Ref. BOE-A-2006-18204
+ Se modifica el apartado 2 por el art. 9.2 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+ Se modifica el apartado 1 por el art. 5.2 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+
+## SECCIÓN 1
+
+Sección 1.ª Infracciones en materia de relaciones laborales
+
+## Subsección 1
+
+Subsección 1.ª Infracciones en materia de relaciones laborales individuales y colectivas
+
+### Artículo 6
+
+Artículo 6. Infracciones leves.
+Son infracciones leves:
+1. No exponer en lugar visible del centro de trabajo el calendario laboral vigente.
+2. No entregar puntualmente al trabajador el recibo de salarios o no utilizar el modelo de recibo de salarios aplicable, oficial o pactado.
+3. (Derogado)
+4. No informar por escrito al trabajador sobre los elementos esenciales del contrato y las principales condiciones de ejecución de la prestación laboral, en los términos y plazos establecidos reglamentariamente.
+4 bis. La falta de entrega al trabajador por parte del empresario del documento justificativo al que se refiere el artículo 15.9 del Estatuto de los Trabajadores.
+5. No informar a los trabajadores a tiempo parcial, a los trabajadores a distancia, a los trabajadores con contratos de duración determinada o temporales, incluidos los formativos, y a los trabajadores fijos-discontinuos sobre las vacantes existentes en la empresa, en los términos previstos en los artículos 12.4, 13.3, 15.7 y 16.7 del Estatuto de los Trabajadores.
+6. Cualesquiera otros incumplimientos que afecten a obligaciones meramente formales o documentales.
+Se modifica el apartado 5 por el art. 5.1 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se deroga el apartado 3 y se modifica el apartado 5 por las disposiciones derogotoria única.1.a) y final 6.1 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se añade el apartado 4bis por art. 1.8 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se modifica el apartado 5 y se añade el apartado 6 por el art. 14.1 de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265
+
+### Artículo 7
+
+Artículo 7. Infracciones graves.
+Son infracciones graves:
+1. No formalizar por escrito el contrato de trabajo, cuando este requisito sea exigible o lo haya solicitado la persona trabajadora, o no formalizar el acuerdo de trabajo a distancia en los términos y con los requisitos legal y convencionalmente previstos.
+2. La transgresión de la normativa sobre modalidades contractuales, contratos de duración determinada y temporales, mediante su utilización en fraude de ley o respecto a personas, finalidades, supuestos y límites temporales distintos de los previstos legal, reglamentariamente, o mediante convenio colectivo cuando dichos extremos puedan ser determinados por la negociación colectiva. A estos efectos se considerará una infracción por cada una de las personas trabajadoras afectadas.
+3. No consignar en el recibo de salarios las cantidades realmente abonadas al trabajador.
+4. El incumplimiento de las obligaciones establecidas en materia de tramitación de los recibos de finiquito.
+5. La transgresión de las normas y los límites legales o pactados en materia de jornada, trabajo nocturno, horas extraordinarias, horas complementarias, descansos, vacaciones, permisos, registro de jornada y, en general, el tiempo de trabajo a que se refieren los artículos 12, 23 y 34 a 38 del Estatuto de los Trabajadores.
+6. La modificación de las condiciones sustanciales de trabajo impuesta unilateralmente por el empresario, sin acudir a los procedimientos establecidos en el artículo 41 o en el artículo 82.3 del Estatuto de los Trabajadores.
+7. La transgresión de los derechos de información, audiencia y consulta de los representantes de los trabajadores y de los delegados sindicales, en los términos en que legal o convencionalmente estuvieren establecidos.
+8. La transgresión de los derechos de los representantes de los trabajadores y de las secciones sindicales en materia de crédito de horas retribuidas y locales adecuados para el desarrollo de sus actividades, así como de tablones de anuncios, en los términos en que legal o convencionalmente estuvieren establecidos.
+9. La vulneración de los derechos de las secciones sindicales en orden a la recaudación de cuotas, distribución y recepción de información sindical, en los términos en que legal o convencionalmente estuvieren establecidos.
+10. Establecer condiciones de trabajo inferiores a las establecidas legalmente o por convenio colectivo, así como los actos u omisiones que fueren contrarios a los derechos de los trabajadores reconocidos en el artículo 4 de la Ley del Estatuto de los Trabajadores, salvo que proceda su calificación como muy graves, de acuerdo con el artículo siguiente.
+11. El incumplimiento del deber de información a los trabajadores en los supuestos de contratas al que se refiere el artículo 42.3 del Estatuto de los Trabajadores, así como del deber de información a los trabajadores afectados por una sucesión de empresa establecido en el artículo 44.7 del mismo texto legal.
+12. No disponer la empresa principal del libro registro de las empresas contratistas o subcontratistas que compartan de forma continuada un mismo centro de trabajo a que se refiere el artículo 42.4 del Estatuto de los Trabajadores, cuando ello comporte la ausencia de información a los representantes legales de los trabajadores.
+13. No cumplir las obligaciones que en materia de planes y medidas de igualdad establecen la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Estatuto de los Trabajadores o el convenio colectivo que sea de aplicación.
+14. La formalización de nuevas contrataciones laborales incumpliendo la prohibición establecida en el artículo 47.7.d) del Estatuto de los Trabajadores.
+Se considerará una infracción por cada persona trabajadora contratada.
+Se modifica el apartado 2 y se añade el apartado 14 por el art. 5.2 y 3 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se modifica el apartado 1 por la disposición final 1.1 de la Ley 10/2021, de 9 de julio. Ref. BOE-A-2021-11472#df
+ Se modifica el apartado 1 por la disposición final 1 del Real Decreto-ley 28/2020, de 22 de septiembre. Ref. BOE-A-2020-11043#df
+ Se modifica el apartado 5 por el art. 11 del Real Decreto-ley 8/2019, de 8 de marzo. Ref. BOE-A-2019-3481#ar-11
+ Se modifica el apartado 13 por el art. 6 del Real Decreto-ley 6/2019, de 1 de marzo. Ref. BOE-A-2019-3244#a6
+ Se modifica el apartado 6 por la disposición final 6.2 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se añade el apartado 13 por la disposición adicional 14.1 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+ Se añade el apartado 12 por el art. 14 de la Ley 43/2006, de 29 de diciembre. Ref. BOE-A-2006-22949
+ Se añade el apartado 12 por el art. 14 del Real Decreto-Ley 5/2006, de 9 de junio. Ref. BOE-A-2006-10562
+ Se modifica el apartado 5 y se añade el apartado 11 por el art. 14.2 de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265
+
+### Artículo 8
+
+Artículo 8. Infracciones muy graves.
+Son infracciones muy graves:
+1. El impago y los retrasos reiterados en el pago del salario debido.
+2. La cesión de trabajadores en los términos prohibidos por la legislación vigente.
+3. Proceder al despido colectivo de trabajadores o a la aplicación de medidas de suspensión de contratos o reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor o del Mecanismo RED en cualquiera de sus modalidades, sin acudir a los procedimientos establecidos en los artículos 51, 47 y 47 bis del Estatuto de los Trabajadores.
+4. La transgresión de las normas sobre trabajo de menores contempladas en la legislación laboral.
+5. Las acciones u omisiones que impidan el ejercicio del derecho de reunión de los trabajadores, de sus representantes y de las secciones sindicales, en los términos en que legal o convencionalmente estuvieran establecidos.
+6. La vulneración del derecho de asistencia y acceso a los centros de trabajo, en los términos establecidos por el artículo 9.1, c), de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, de quienes ostenten cargos electivos a nivel provincial, autonómico o estatal en las organizaciones sindicales más representativas.
+7. La transgresión de los deberes materiales de colaboración que impongan al empresario las normas reguladoras de los procesos electorales a representantes de los trabajadores.
+8. La transgresión de las cláusulas normativas sobre materia sindical establecidas en los convenios colectivos.
+9. La negativa del empresario a la reapertura del centro de trabajo en el plazo establecido, cuando fuera requerida por la autoridad laboral competente en los casos de cierre patronal.
+10. Los actos del empresario lesivos del derecho de huelga de los trabajadores consistentes en la sustitución de los trabajadores en huelga por otros no vinculados al centro de trabajo al tiempo de su ejercicio, salvo en los casos justificados por el ordenamiento.
+11. Los actos del empresario que fueren contrarios al respeto de la intimidad y consideración debida a la dignidad de los trabajadores.
+12. Las decisiones unilaterales de la empresa que impliquen discriminaciones directas o indirectas desfavorables por razón de edad o discapacidad o favorables o adversas en materia de retribuciones, jornadas, formación, promoción y demás condiciones de trabajo, por circunstancias de sexo, origen, incluido el racial o étnico, estado civil, condición social, religión o convicciones, ideas políticas, orientación e identidad sexual, expresión de género, características sexuales, adhesión o no a sindicatos y a sus acuerdos, vínculos de parentesco con otros trabajadores en la empresa o lengua dentro del Estado español, así como las decisiones del empresario que supongan un trato desfavorable de los trabajadores como reacción ante una reclamación efectuada en la empresa o ante una acción administrativa o judicial destinada a exigir el cumplimiento del principio de igualdad de trato y no discriminación.
+13. El acoso sexual, cuando se produzca dentro del ámbito a que alcanzan las facultades de dirección empresarial, cualquiera que sea el sujeto activo de la misma.
+13 bis. El acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad y orientación e identidad sexual, expresión de género o características sexuales y el acoso por razón de sexo, cuando se produzcan dentro del ámbito a que alcanzan las facultades de dirección empresarial, cualquiera que sea el sujeto activo del mismo, siempre que, conocido por el empresario, este no hubiera adoptado las medidas necesarias para impedirlo.
+14. El incumplimiento por el empresario de la obligación establecida en el apartado 10 del artículo 51 del Estatuto de los Trabajadores o de las medidas sociales de acompañamiento asumidas por el empresario en el marco de los procedimientos de despido colectivo.
+15. El incumplimiento por la empresa de la obligación de instrumentar los compromisos por pensiones con el personal de la empresa en los términos establecidos en la normativa reguladora de los planes y fondos de pensiones.
+16. El incumplimiento de la normativa sobre limitación de la proporción mínima de trabajadores contratados con carácter indefinido contenida en la Ley reguladora de la subcontratación en el sector de la construcción y en su reglamento de aplicación.
+17. No elaborar o no aplicar el plan de igualdad, o hacerlo incumpliendo manifiestamente los términos previstos, cuando la obligación de realizar dicho plan responda a lo establecido en el apartado 2 del artículo 46 bis de esta Ley.
+18. No presentar, en tiempo y forma, ante la entidad competente para la gestión de las prestaciones, la certificación a que se refiere el apartado 7 de la disposición adicional decimosexta de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, así como presentar información que resulte falsa o inexacta.
+Téngase en cuenta que esta modificación del apartado 18, establecida por la disposición final 2.1 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2, entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
+ Redacción anterior:
+ "18. No presentar, en tiempo y forma, ante la Autoridad laboral competente el certificado a que se refiere el apartado 7 de la disposición adicional decimosexta de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, así como presentar información que resulte falsa o inexacta."
+19. Incumplir las obligaciones establecidas en el artículo 57.3 de la Ley Orgánica de Protección Integral de la Infancia y la Adolescencia frente a la Violencia.
+20. Establecer nuevas externalizaciones de actividad incumpliendo la prohibición establecida en el artículo 47.7.d) del Estatuto de los Trabajadores.
+Se modifica el apartado 18 por la disposición final 2.1 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2
+ Esta modificación entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
+ Se modifican los apartados 12 y 13 bis por la disposición final 6.1 y 2 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-6
+ Se modifica el apartado 3 y se añade el apartado 20 por el art. 5.4 y 5 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se añade el apartado 19 por la disposición final 12 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-12
+ Se añade el apartado 18 por la disposición final 3 del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
+ Se modifican los apartados 3 y 14 por el art. 18.11 y la disposición final 6.3 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se modifica el apartado 14 por el art. 18.13 del Real Decreto-ley 3/2012, de 10 de febrero. Ref. BOE-A-2012-2076.
+ Se modifican los apartados 12 y 13 bis y se añade el apartado 17 por la disposición adicional 14.2 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+ Se añade el apartado 16 por la disposición adicional 1.1 de la Ley 32/2006, de 18 de octubre. Ref. BOE-A-2006-18205
+ Se modifica el apartado 12 y se añade el apartado 13 bis por el art. 41.1 y 2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## Subsección 2
+
+Subsección 2.ª Infracciones en materia de derechos de información y consulta de los trabajadores en las empresas y grupos de empresas de dimensión comunitaria
+
+### Artículo 9
+
+Artículo 9. Infracciones graves y muy graves.
+1. Son infracciones graves, salvo que proceda su calificación como muy graves de conformidad con lo dispuesto en el apartado siguiente de este artículo:
+a) No facilitar la información solicitada sobre el número de trabajadores a efectos de definir la existencia de una empresa o grupo de empresas de dimensión comunitaria con el fin de constituir un comité de empresa europeo o de establecer un procedimiento alternativo de información y consulta a los trabajadores.
+b) No dar traslado a la dirección central de la petición de inicio de las negociaciones para la constitución de un comité de empresa europeo o el establecimiento de un procedimiento alternativo de información y consulta.
+c) La transgresión de los derechos de reunión de la comisión negociadora, del comité de empresa europeo, y, en su caso, de los representantes de los trabajadores en el marco de un procedimiento alternativo de información y consulta, así como de su derecho a ser asistidos por expertos de su elección.
+d) La transgresión de los derechos de la comisión negociadora, del comité de empresa europeo y, en su caso, de los representantes de los trabajadores en el marco de un procedimiento alternativo de información y consulta, en materia de recursos financieros y materiales para el adecuado funcionamiento y desarrollo de sus actividades.
+e) La falta de convocatoria, en tiempo y forma, de las reuniones, ordinarias y extraordinarias, del comité de empresa europeo con la dirección central.
+f) La transgresión de los derechos y garantías de los miembros de la comisión negociadora, del comité de empresa europeo y de los representantes de los trabajadores en el marco de un procedimiento alternativo de información y consulta, en los términos legal o convencionalmente establecidos.
+2. Son infracciones muy graves:
+a) Las acciones u omisiones que impidan el inicio y desarrollo de la negociación para la constitución de un comité de empresa europeo o el establecimiento de un procedimiento alternativo de información y consulta a los trabajadores.
+b) Las acciones u omisiones que impidan el funcionamiento de la comisión negociadora, del comité de empresa europeo y del procedimiento alternativo de información y consulta, en los términos legal o convencionalmente establecidos.
+c) Las acciones u omisiones que impidan el ejercicio efectivo de los derechos de información y consulta de los representantes de los trabajadores, incluido el abuso en el establecimiento de la obligación de confidencialidad en la información proporcionada o en el recurso a la dispensa de la obligación de comunicar aquellas informaciones de carácter secreto.
+d) Las decisiones adoptadas en aplicación de la Ley 10/1997, de 24 de abril, sobre derechos de información y consulta de los trabajadores en las empresas y grupos de empresas de dimensión comunitaria, que contengan o supongan cualquier tipo de discriminación, favorable o adversa, por razón del sexo, nacionalidad, lengua, estado civil, condición social, ideas religiosas o políticas y adhesión o no a un sindicato, a sus acuerdos o al ejercicio, en general, de las actividades sindicales.
+
+## Subsección 3
+
+Subsección 3.ª Infracciones de las obligaciones establecidas en la normativa que regula el desplazamiento a España de trabajadores en el marco de una prestación de servicios transnacional
+Se modifica por el art. 7.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#as-3
+
+### Artículo 10
+
+Artículo 10. Infracciones.
+1. Son infracciones leves:
+a) Los defectos formales de la comunicación de desplazamiento de trabajadores a España en el marco de una prestación de servicios transnacional, en los términos legalmente establecidos.
+b) No dar cuenta, en tiempo y forma, a la autoridad laboral competente, conforme a las disposiciones vigentes, de los accidentes de trabajo ocurridos y de las enfermedades profesionales declaradas, cuando tengan la calificación de leves.
+2. Son infracciones graves:
+a) La presentación de la comunicación de desplazamiento con posterioridad a su inicio o sin designar ya sea al representante de la empresa que sirva de enlace con las autoridades competentes españolas y para envío y recepción de documentos o notificaciones, ya sea a una persona que pueda actuar en España en representación de la empresa prestadora de servicios en los procedimientos de información y consulta de las personas trabajadoras, y negociación, que afecten a las personas trabajadoras desplazadas a España, así como dar cuenta a las autoridades competentes de los motivos de la ampliación del desplazamiento alegando hechos y circunstancias que se demuestre que son falsos o inexactos.
+b) No tener disponible en España, durante el desplazamiento, la documentación relativa al mismo, en los términos legalmente establecidos.
+c) No dar cuenta, en tiempo y forma, a la autoridad laboral competente, conforme a las disposiciones vigentes, de los accidentes de trabajo ocurridos y de las enfermedades profesionales declaradas, cuando tengan la calificación de graves, muy graves o mortales.
+d) No presentar la documentación requerida por la Inspección de Trabajo y Seguridad Social o presentar alguno de los documentos sin traducir.
+3. Son infracciones muy graves:
+a) La ausencia de comunicación de desplazamiento, así como la falsedad o la ocultación de los datos contenidos en la misma.
+b) El desplazamiento fraudulento de personas trabajadoras por empresas que no desarrollan actividades sustantivas en su Estado de establecimiento, así como el desplazamiento fraudulento de personas trabajadoras que no desempeñen normalmente su trabajo en el Estado Miembro de origen según lo dispuesto en el artículo 8 bis de la Ley 45/1999, de 29 de noviembre, sobre el desplazamiento de los trabajadores en el marco de una prestación de servicios transnacional.
+4. Sin perjuicio de lo anterior, constituye infracción administrativa no garantizar a los trabajadores desplazados a España, cualquiera que sea la legislación aplicable al contrato de trabajo, las condiciones de trabajo previstas por la legislación laboral española en los términos definidos por el artículo 3 de la Ley 45/1999, de 29 de noviembre, sobre el desplazamiento de trabajadores en el marco de una prestación de servicios transnacional, disposiciones reglamentarias para su aplicación, y en los convenios colectivos y laudos arbitrales aplicables en el lugar y en el sector o rama de la actividad de que se trate, así como el incumplimiento de las obligaciones a que se refiere la disposición adicional octava de la misma ley. La tipificación de dichas infracciones, su calificación como leves, graves o muy graves, las sanciones y los criterios para su graduación se ajustarán a lo dispuesto en la presente ley.
+Se modifica el apartado 3 por el art. 4.1 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a4
+ Se modifica el apartado 2.a) por el art. 13.2 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Se modifican los apartados 1, 2 y 4 por el art. 7.3 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#as-3
+ Redactados conforme a la corrección de errores publicada en BOE núm. 136, de 8 de junio de 2017. Ref. BOE-A-2017-6471
+
+## Subsección 4
+
+Subsección 4.ª Infracciones en materia de derechos de información, consulta y participación de los trabajadores en las sociedades anónimas y sociedades cooperativas europeas
+Se añade por la disposición final 1.3 de la Ley 31/2006, de 18 de octubre. Ref. BOE-A-2006-18204
+
+### Artículo 10 bis
+
+Artículo 10 bis. Infracciones graves y muy graves.
+1. Son infracciones graves, salvo que proceda su calificación como muy graves de conformidad con lo dispuesto en el apartado siguiente:
+a) No facilitar a los representantes de los trabajadores las informaciones necesarias para la adecuada constitución de la comisión negociadora, en particular en lo relativo a la identidad de las sociedades o entidades jurídicas y, en su caso, personas físicas, participantes y de sus centros de trabajo y empresas filiales, el número de sus trabajadores, el domicilio social propuesto, así como sobre los sistemas de participación existentes en las sociedades o entidades jurídicas participantes, en los términos legalmente establecidos.
+b) La trasgresión de los derechos de reunión de la comisión negociadora, del órgano de representación de los trabajadores de la SE o de la SCE o de los representantes de los trabajadores en el marco de un procedimiento de información y consulta, así como de su derecho a ser asistido por expertos de su elección.
+c) La trasgresión de los derechos de la comisión negociadora, del órgano de representación y, en su caso, de los representantes de los trabajadores en el marco de un procedimiento de información y consulta, en materia de recursos financieros y materiales para el adecuado funcionamiento y desarrollo de sus actividades.
+d) La falta de convocatoria, en tiempo y forma, de la comisión negociadora y de las reuniones, ordinarias y extraordinarias, del órgano de representación de los trabajadores con el órgano competente de la sociedad europea o de la sociedad cooperativa europea.
+e) La trasgresión de los derechos y garantías de los miembros de la comisión negociadora, de los miembros del órgano de representación, de los representantes de los trabajadores que ejerzan sus funciones en el marco de un procedimiento de información y consulta y de los representantes de los trabajadores que formen parte del órgano de control o de administración de una sociedad europea, o de una sociedad cooperativa europea, en los términos legal o convencionalmente establecidos.
+2. Son infracciones muy graves:
+a) Las acciones u omisiones que impidan el inicio y desarrollo de la negociación con los representantes de los trabajadores sobre las disposiciones relativas a la implicación de los trabajadores en la sociedad europea o en la sociedad cooperativa europea.
+b) Las acciones u omisiones que impidan el funcionamiento de la comisión negociadora, del órgano de representación de los trabajadores o, en su caso, del procedimiento de información y consulta acordado, en los términos legal o convencionalmente establecidos.
+c) Las acciones u omisiones que impidan el ejercicio efectivo de los derechos de información, consulta y participación de los trabajadores en la sociedad europea, o en la sociedad cooperativa europea, incluido el abuso en el establecimiento de la obligación de confidencialidad en la información proporcionada o en el recurso a la dispensa de la obligación de comunicar aquellas informaciones de carácter secreto.
+d) Las decisiones adoptadas en aplicación de la Ley sobre implicación de los trabajadores en las sociedades anónimas y cooperativas europeas, que contengan o supongan cualquier tipo de discriminaciones directas o indirectas desfavorables por razón de edad o discapacidad o favorables o adversas por razón de sexo, nacionalidad, origen, incluido el racial o étnico, estado civil, religión o convicciones, ideas políticas, orientación e identidad sexual, expresión de género, características sexuales, adhesión o no a un sindicato, a sus acuerdos o al ejercicio, en general, de las actividades sindicales, o lengua.
+e) El recurso indebido a la constitución de una sociedad europea o de una sociedad cooperativa europea con el propósito de privar a los trabajadores de los derechos de información, consulta y participación que tuviesen, o de hacerlos ineficaces.
+Se modifica la letra d) del apartado 2 por la disposición final 6.3 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-6
+ Se añade por la disposición final 1.3 de la Ley 31/2006, de 18 de octubre. Ref. BOE-A-2006-18204
+
+## SECCIÓN 2
+
+Sección 2.ª Infracciones en materia de prevención de riesgos laborales
+
+### Artículo 11
+
+Artículo 11. Infracciones leves.
+Son infracciones leves:
+1. La falta de limpieza del centro de trabajo de la que no se derive riesgo para la integridad física o salud de los trabajadores.
+2. No dar cuenta, en tiempo y forma, a la autoridad laboral competente, conforme a las disposiciones vigentes, de los accidentes de trabajo ocurridos y de las enfermedades profesionales declaradas cuando tengan la calificación de leves.
+3. No comunicar a la autoridad laboral competente la apertura del centro de trabajo o la reanudación o continuación de los trabajos después de efectuar alteraciones o ampliaciones de importancia, o consignar con inexactitud los datos que debe declarar o cumplimentar, siempre que no se trate de industria calificada por la normativa vigente como peligrosa, insalubre o nociva por los elementos, procesos o sustancias que se manipulen.
+4. Las que supongan incumplimientos de la normativa de prevención de riesgos laborales, siempre que carezcan de trascendencia grave para la integridad física o la salud de los trabajadores.
+5. Cualesquiera otras que afecten a obligaciones de carácter formal o documental exigidas en la normativa de prevención de riesgos laborales y que no estén tipificadas como graves o muy graves.
+6. No disponer el contratista en la obra de construcción del Libro de Subcontratación exigido por el artículo 8 de la Ley Reguladora de la subcontratación en el sector de la construcción.
+7. No disponer el contratista o subcontratista de la documentación o título que acredite la posesión de la maquinaria que utiliza, y de cuanta documentación sea exigida por las disposiciones legales vigentes.
+Se añaden los apartado 6 y 7 por la disposición adicional 1.2 de la Ley 32/2006, de 18 de octubre. Ref. BOE-A-2006-18205
+
+### Artículo 12
+
+Artículo 12. Infracciones graves.
+Son infracciones graves:
+1. a) Incumplir la obligación de integrar la prevención de riesgos laborales en la empresa a través de la implantación y aplicación de un plan de prevención, con el alcance y contenido establecidos en la normativa de prevención de riesgos laborales.
+b) No llevar a cabo las evaluaciones de riesgos y, en su caso, sus actualizaciones y revisiones, así como los controles periódicos de las condiciones de trabajo y de la actividad de los trabajadores que procedan, o no realizar aquellas actividades de prevención que hicieran necesarias los resultados de las evaluaciones, con el alcance y contenido establecidos en la normativa sobre prevención de riesgos laborales.
+2. No realizar los reconocimientos médicos y pruebas de vigilancia periódica del estado de salud de los trabajadores que procedan conforme a la normativa sobre prevención de riesgos laborales, o no comunicar su resultado a los trabajadores afectados.
+3. No dar cuenta en tiempo y forma a la autoridad laboral, conforme a las disposiciones vigentes, de los accidentes de trabajo ocurridos y de las enfermedades profesionales declaradas cuando tengan la calificación de graves, muy graves o mortales, o no llevar a cabo una investigación en caso de producirse daños a la salud de los trabajadores o de tener indicios de que las medidas preventivas son insuficientes.
+4. No registrar y archivar los datos obtenidos en las evaluaciones, controles, reconocimientos, investigaciones o informes a que se refieren los artículos 16, 22 y 23 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+5. No comunicar a la autoridad laboral competente la apertura del centro de trabajo o la reanudación o continuación de los trabajos después de efectuar alteraciones o ampliaciones de importancia, o consignar con inexactitud los datos que debe declarar o cumplimentar, siempre que se trate de industria calificada por la normativa vigente como peligrosa, insalubre o nociva por los elementos, procesos o sustancias que se manipulen.
+6. Incumplir la obligación de efectuar la planificación de la actividad preventiva que derive como necesaria de la evaluación de riesgos, o no realizar el seguimiento de la misma, con el alcance y contenido establecidos en la normativa de prevención de riesgos laborales.
+7. La adscripción de trabajadores a puestos de trabajo cuyas condiciones fuesen incompatibles con sus características personales o de quienes se encuentren manifiestamente en estados o situaciones transitorias que no respondan a las exigencias psicofísicas de los respectivos puestos de trabajo, así como la dedicación de aquéllos a la realización de tareas sin tomar en consideración sus capacidades profesionales en materia de seguridad y salud en el trabajo, salvo que se trate de infracción muy grave conforme al artículo siguiente.
+8. El incumplimiento de las obligaciones en materia de formación e información suficiente y adecuada a los trabajadores acerca de los riesgos del puesto de trabajo susceptibles de provocar daños para la seguridad y salud y sobre las medidas preventivas aplicables, salvo que se trate de infracción muy grave conforme al artículo siguiente.
+9. La superación de los límites de exposición a los agentes nocivos que, conforme a la normativa sobre prevención de riesgos laborales, origine riesgo de daños graves para la seguridad y salud de los trabajadores, sin adoptar las medidas preventivas adecuadas, salvo que se trate de infracción muy grave conforme al artículo siguiente.
+10. No adoptar las medidas previstas en el artículo 20 de la Ley de Prevención de Riesgos Laborales en materia de primeros auxilios, lucha contra incendios y evacuación de los trabajadores.
+11. El incumplimiento de los derechos de información, consulta y participación de los trabajadores reconocidos en la normativa sobre prevención de riesgos laborales.
+12. No proporcionar la formación o los medios adecuados para el desarrollo de sus funciones a los trabajadores designados para las actividades de prevención y a los delegados de prevención.
+13. No adoptar los empresarios y los trabajadores por cuenta propia que desarrollen actividades en un mismo centro de trabajo, o los empresarios a que se refiere el artículo 24.4 de la Ley de Prevención de Riesgos Laborales, las medidas de cooperación y coordinación necesarias para la protección y prevención de riesgos laborales.
+14. No adoptar el empresario titular del centro de trabajo las medidas necesarias para garantizar que aquellos otros que desarrollen actividades en el mismo reciban la información y las instrucciones adecuadas sobre los riesgos existentes y las medidas de protección, prevención y emergencia, en la forma y con el contenido establecidos en la normativa de prevención de riesgos laborales.
+15. a) No designar a uno o varios trabajadores para ocuparse de las actividades de protección y prevención en la empresa o no organizar o concertar un servicio de prevención cuando ello sea preceptivo, o no dotar a los recursos preventivos de los medios que sean necesarios para el desarrollo de las actividades preventivas.
+b) La falta de presencia de los recursos preventivos cuando ello sea preceptivo o el incumplimiento de las obligaciones derivadas de su presencia.
+16. Las que supongan incumplimiento de la normativa de prevención de riesgos laborales, siempre que dicho incumplimiento cree un riesgo grave para la integridad física o la salud de los trabajadores afectados y especialmente en materia de:
+a) Comunicación a la autoridad laboral, cuando legalmente proceda, de las sustancias, agentes físicos, químicos y biológicos, o procesos utilizados en las empresas.
+b) Diseño, elección, instalación, disposición, utilización y mantenimiento de los lugares de trabajo, herramientas, maquinaria y equipos.
+c) Prohibiciones o limitaciones respecto de operaciones, procesos y uso de agentes físicos, químicos y biológicos en los lugares de trabajo.
+d) Limitaciones respecto del número de trabajadores que puedan quedar expuestos a determinados agentes físicos, químicos y biológicos.
+e) Utilización de modalidades determinadas de muestreo, medición y evaluación de resultados.
+f) Medidas de protección colectiva o individual.
+g) Señalización de seguridad y etiquetado y envasado de sustancias peligrosas, en cuanto éstas se manipulen o empleen en el proceso productivo.
+h) Servicios o medidas de higiene personal.
+i) Registro de los niveles de exposición a agentes físicos, químicos y biológicos, listas de trabajadores expuestos y expedientes médicos.
+17. La falta de limpieza del centro o lugar de trabajo, cuando sea habitual o cuando de ello se deriven riesgos para la integridad física y salud de los trabajadores.
+18. El incumplimiento del deber de información a los trabajadores designados para ocuparse de las actividades de prevención o, en su caso, al servicio de prevención de la incorporación a la empresa de trabajadores con relaciones de trabajo temporales, de duración determinada o proporcionados por empresas de trabajo temporal.
+19. No facilitar a los trabajadores designados o al servicio de prevención el acceso a la información y documentación señaladas en el apartado 1 del artículo 18 y en el apartado 1 del artículo 23 de la Ley de Prevención de Riesgos Laborales.
+20. No someter, en los términos reglamentariamente establecidos, el sistema de prevención de la empresa al control de una auditoría o evaluación externa cuando no se hubiera concertado el servicio de prevención con una entidad especializada ajena a la empresa.
+21. Facilitar a la autoridad laboral competente, las entidades especializadas que actúen como servicios de prevención ajenos a las empresas, las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas o las entidades acreditadas para desarrollar y certificar la formación en materia de prevención de riesgos laborales, datos de forma o con contenido inexactos, omitir los que hubiera debido consignar, así como no comunicar cualquier modificación de sus condiciones de acreditación o autorización.
+22. Incumplir las obligaciones derivadas de actividades correspondientes a servicios de prevención ajenos respecto de sus empresarios concertados, de acuerdo con la normativa aplicable.
+23. En el ámbito de aplicación del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud en las obras de construcción:
+a) Incumplir la obligación de elaborar el plan de seguridad y salud en el trabajo con el alcance y contenido establecidos en la normativa de prevención de riesgos laborales, en particular por carecer de un contenido real y adecuado a los riesgos específicos para la seguridad y la salud de los trabajadores de la obra o por no adaptarse a las características particulares de las actividades o los procedimientos desarrollados o del entorno de los puestos de trabajo.
+b) Incumplir la obligación de realizar el seguimiento del plan de seguridad y salud en el trabajo, con el alcance y contenido establecidos en la normativa de prevención de riesgos laborales.
+24. En el ámbito de aplicación del Real Decreto 1627/1997, de 24 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud en las obras de construcción, el incumplimiento de las siguientes obligaciones correspondientes al promotor:
+a) No designar los coordinadores en materia de seguridad y salud cuando ello sea preceptivo.
+b) Incumplir la obligación de que se elabore el estudio o, en su caso, el estudio básico de seguridad y salud, cuando ello sea preceptivo, con el alcance y contenido establecidos en la normativa de prevención de riesgos laborales, o cuando tales estudios presenten deficiencias o carencias significativas y graves en relación con la seguridad y la salud en la obra.
+c) No adoptar las medidas necesarias para garantizar, en la forma y con el alcance y contenido previstos en la normativa de prevención, que los empresarios que desarrollan actividades en la obra reciban la información y las instrucciones adecuadas sobre los riesgos y las medidas de protección, prevención y emergencia.
+d) No cumplir los coordinadores en materia de seguridad y salud las obligaciones establecidas en el artículo 9 del Real Decreto 1627/1997 como consecuencia de su falta de presencia, dedicación o actividad en la obra.
+e) No cumplir los coordinadores en materia de seguridad y salud las obligaciones, distintas de las citadas en los párrafos anteriores, establecidas en la normativa de prevención de riesgos laborales cuando tales incumplimientos tengan o puedan tener repercusión grave en relación con la seguridad y salud en la obra.
+25. Incumplir las obligaciones derivadas de actividades correspondientes a las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas, de acuerdo con la normativa aplicable.
+26. Incumplir las obligaciones derivadas de actividades correspondientes a entidades acreditadas para desarrollar y certificar la formación en materia de prevención de riesgos laborales, de acuerdo con la normativa aplicable.
+27. En el ámbito de la Ley Reguladora de la subcontratación en el sector de la construcción, los siguientes incumplimientos del subcontratista:
+a) El incumplimiento del deber de acreditar, en la forma establecida legal o reglamentariamente, que dispone de recursos humanos, tanto en su nivel directivo como productivo, que cuentan con la formación necesaria en prevención de riesgos laborales, y que dispone de una organización preventiva adecuada, y la inscripción en el registro correspondiente, o del deber de verificar dicha acreditación y registro por los subcontratistas con los que contrate, salvo que proceda su calificación como infracción muy grave, de acuerdo con el artículo siguiente.
+b) No comunicar los datos que permitan al contratista llevar en orden y al día el Libro de Subcontratación exigido en la Ley Reguladora de la subcontratación en el sector de la construcción.
+c) Proceder a subcontratar con otro u otros subcontratistas o trabajadores autónomos superando los niveles de subcontratación permitidos legalmente, sin disponer de la expresa aprobación de la dirección facultativa, o permitir que en el ámbito de ejecución de su subcontrato otros subcontratistas o trabajadores autónomos incurran en el supuesto anterior y sin que concurran en este caso las circunstancias previstas en la letra c) del apartado 15 del artículo siguiente, salvo que proceda su calificación como infracción muy grave, de acuerdo con el mismo artículo siguiente.
+28. Se consideran infracciones graves del contratista, de conformidad con lo previsto en la Ley Reguladora de la subcontratación en el sector de la construcción:
+a) No llevar en orden y al día el Libro de Subcontratación exigido, o no hacerlo en los términos establecidos reglamentariamente.
+b) Permitir que, en el ámbito de ejecución de su contrato, intervengan empresas subcontratistas o trabajadores autónomos superando los niveles de subcontratación permitidos legalmente, sin disponer de la expresa aprobación de la dirección facultativa, y sin que concurran las circunstancias previstas en la letra c) del apartado 15 del artículo siguiente, salvo que proceda su calificación como infracción muy grave, de acuerdo con el mismo artículo siguiente.
+c) El incumplimiento del deber de acreditar, en la forma establecida legal o reglamentariamente, que dispone de recursos humanos, tanto en su nivel directivo como productivo, que cuentan con la formación necesaria en prevención de riesgos laborales, y que dispone de una organización preventiva adecuada, y la inscripción en el registro correspondiente, o del deber de verificar dicha acreditación y registro por los subcontratistas con los que contrate, y salvo que proceda su calificación como infracción muy grave, de acuerdo con el artículo siguiente.
+d) La vulneración de los derechos de información de los representantes de los trabajadores sobre las contrataciones y subcontrataciones que se realicen en la obra, y de acceso al Libro de Subcontratación, en los términos establecidos en la Ley Reguladora de la subcontratación en el sector de la construcción.
+29. En el ámbito de la Ley Reguladora de la subcontratación en el sector de la construcción, es infracción grave del promotor de la obra permitir, a través de la actuación de la dirección facultativa, la aprobación de la ampliación excepcional de la cadena de subcontratación cuando manifiestamente no concurran las causas motivadoras de la misma prevista en dicha Ley, salvo que proceda su calificación como infracción muy grave, de acuerdo con el artículo siguiente.
+Se añaden los apartados 27, 28 y 29 por la disposición adicional 1.3 de la Ley 32/2006, de 18 de octubre. Ref. BOE-A-2006-18205
+ Se modifican los apartados 1, 6, 14, 15 y 19 y se añaden los apartados 23 a 26 por el art. 10.1 a 9 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+### Artículo 13
+
+Artículo 13. Infracciones muy graves.
+Son infracciones muy graves:
+1. No observar las normas específicas en materia de protección de la seguridad y la salud de las trabajadoras durante los períodos de embarazo y lactancia.
+2. No observar las normas específicas en materia de protección de la seguridad y la salud de los menores.
+3. No paralizar ni suspender de forma inmediata, a requerimiento de la Inspección de Trabajo y Seguridad Social, los trabajos que se realicen sin observar la normativa sobre prevención de riesgos laborales y que, a juicio de la Inspección, impliquen la existencia de un riesgo grave e inminente para la seguridad y salud de los trabajadores, o reanudar los trabajos sin haber subsanado previamente las causas que motivaron la paralización.
+4. La adscripción de los trabajadores a puestos de trabajo cuyas condiciones fuesen incompatibles con sus características personales conocidas o que se encuentren manifiestamente en estados o situaciones transitorias que no respondan a las exigencias psicofísicas de los respectivos puestos de trabajo, así como la dedicación de aquéllos a la realización de tareas sin tomar en consideración sus capacidades profesionales en materia de seguridad y salud en el trabajo, cuando de ello se derive un riesgo grave e inminente para la seguridad y salud de los trabajadores.
+5. Incumplir el deber de confidencialidad en el uso de los datos relativos a la vigilancia de la salud de los trabajadores, en los términos previstos en el apartado 4 del artículo 22 de la Ley de Prevención de Riesgos Laborales.
+6. Superar los límites de exposición a los agentes nocivos que, conforme a la normativa sobre prevención de riesgos laborales, originen riesgos de daños para la salud de los trabajadores sin adoptar las medidas preventivas adecuadas, cuando se trate de riesgos graves e inminentes.
+7. No adoptar, los empresarios y los trabajadores por cuenta propia que desarrollen actividades en un mismo centro de trabajo, las medidas de cooperación y coordinación necesarias para la protección y prevención de riesgos laborales, cuando se trate de actividades reglamentariamente consideradas como peligrosas o con riesgos especiales.
+8. a) No adoptar el promotor o el empresario titular del centro de trabajo, las medidas necesarias para garantizar que aquellos otros que desarrollen actividades en el mismo reciban la información y las instrucciones adecuadas, en la forma y con el contenido y alcance establecidos en la normativa de prevención de riesgos laborales, sobre los riesgos y las medidas de protección, prevención y emergencia cuando se trate de actividades reglamentariamente consideradas como peligrosas o con riesgos especiales.
+b) La falta de presencia de los recursos preventivos cuando ello sea preceptivo o el incumplimiento de las obligaciones derivadas de su presencia, cuando se trate de actividades reglamentariamente consideradas como peligrosas o con riesgos especiales.
+9. Las acciones u omisiones que impidan el ejercicio del derecho de los trabajadores a paralizar su actividad en los casos de riesgo grave e inminente, en los términos previstos en el artículo 21 de la Ley de Prevención de Riesgos Laborales.
+10. No adoptar cualesquiera otras medidas preventivas aplicables a las condiciones de trabajo en ejecución de la normativa sobre prevención de riesgos laborales de las que se derive un riesgo grave e inminente para la seguridad y salud de los trabajadores.
+11. Ejercer sus actividades las entidades especializadas que actúen como servicios de prevención ajenos a las empresas, las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas o las que desarrollen y certifiquen la formación en materia de prevención de riesgos laborales, sin contar con la preceptiva acreditación o autorización, cuando ésta hubiera sido suspendida o extinguida, cuando hubiera caducado la autorización provisional, así como cuando se excedan en su actuación del alcance de la misma.
+12. Mantener las entidades especializadas que actúen como servicios de prevención ajenos a las empresas o las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas, vinculaciones comerciales, financieras o de cualquier otro tipo, con las empresas auditadas o concertadas, distintas a las propias de su actuación como tales, así como certificar, las entidades que desarrollen o certifiquen la formación preventiva, actividades no desarrolladas en su totalidad.
+13. La alteración o el falseamiento, por las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas, del contenido del informe de la empresa auditada.
+14. La suscripción de pactos que tengan por objeto la elusión, en fraude de ley, de las responsabilidades establecidas en el apartado 3 del artículo 42 de esta ley.
+15. En el ámbito de la Ley Reguladora de la subcontratación en el sector de la construcción, los siguientes incumplimientos del subcontratista:
+a) El incumplimiento del deber de acreditar, en la forma establecida legal o reglamentariamente, que dispone de recursos humanos, tanto en su nivel directivo como productivo, que cuentan con la formación necesaria en prevención de riesgos laborales, y que dispone de una organización preventiva adecuada, y la inscripción en el registro correspondiente, o del deber de verificar dicha acreditación y registro por los subcontratistas con los que contrate, cuando se trate de trabajos con riesgos especiales conforme a la regulación reglamentaria de los mismos para las obras de construcción.
+b) Proceder a subcontratar con otro u otros subcontratistas o trabajadores autónomos superando los niveles de subcontratación permitidos legalmente, sin que disponga de la expresa aprobación de la dirección facultativa, o permitir que en el ámbito de ejecución de su subcontrato otros subcontratistas o trabajadores autónomos incurran en el supuesto anterior y sin que concurran en este caso las circunstancias previstas en la letra c) de este apartado, cuando se trate de trabajos con riesgos especiales conforme a la regulación reglamentaria de los mismos para las obras de construcción.
+c) El falseamiento en los datos comunicados al contratista o a su subcontratista comitente, que dé lugar al ejercicio de actividades de construcción incumpliendo el régimen de la subcontratación o los requisitos legalmente establecidos.
+16. En el ámbito de la Ley Reguladora de la subcontratación en el sector de la construcción, los siguientes incumplimientos del contratista:
+a) Permitir que, en el ámbito de ejecución de su contrato, intervengan subcontratistas o trabajadores autónomos superando los niveles de subcontratación permitidos legalmente, sin que se disponga de la expresa aprobación de la dirección facultativa, y sin que concurran las circunstancias previstas en la letra c) del apartado anterior, cuando se trate de trabajos con riesgos especiales conforme a la regulación reglamentaria de los mismos para las obras de construcción.
+b) El incumplimiento del deber de acreditar, en la forma establecida legal o reglamentariamente, que dispone de recursos humanos, tanto en su nivel directivo como productivo, que cuentan con la formación necesaria en prevención de riesgos laborales, y que dispone de una organización preventiva adecuada, y la inscripción en el registro correspondiente, o del deber de verificar dicha acreditación y registro por los subcontratistas con los que contrate, cuando se trate de trabajos con riesgos especiales conforme a la regulación reglamentaria de los mismos para las obras de construcción.
+17. En el ámbito de la Ley Reguladora de la subcontratación en el sector de la construcción, es infracción muy grave del promotor de la obra permitir, a través de la actuación de la dirección facultativa, la aprobación de la ampliación excepcional de la cadena de subcontratación cuando manifiestamente no concurran las causas motivadoras de la misma previstas en dicha Ley, cuando se trate de trabajos con riesgos especiales conforme a la regulación reglamentaria de los mismos para las obras de construcción.
+Se añaden los apartados 15, 16 y 17 por la disposición adicional 1.4 de la Ley 32/2006, de 18 de octubre. Ref. BOE-A-2006-18205
+ Se modifica el apartado 8 y se añaden los apartados 13 y 14 por el art. 11.1 a 3 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+## SECCIÓN 3
+
+Sección 3.ª Infracciones en materia de empleo
+
+## Subsección 1
+
+Subsección 1.ª Infracciones de los empresarios, de las agencias de colocación, de las entidades de formación o aquellas que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas y de los beneficiarios de ayudas y subvenciones en materia de empleo y ayudas al fomento del empleo en general.
+Se modifica el título por la disposición final 3.3 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el título por el art. 21.3 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifica el título por el art. 18.1 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se modifica el título por el art. 18.1 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Se modifica el título por el art. 46.1 de la Ley 62/2003, de 20 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el título por el art. 5.3 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+
+### Artículo 14
+
+Artículo 14. Infracciones leves.
+Son infracciones leves:
+1. No comunicar a la oficina de empleo las contrataciones realizadas en los supuestos en que estuviere establecida esa obligación.
+2. No comunicar a la oficina de empleo la terminación de los contratos de trabajo, en los supuestos en que estuviere prevista tal obligación.
+3. La falta de registro en la oficina de empleo del contrato de trabajo y de sus prórrogas en los casos en que estuviere establecida la obligación de registro.
+4. Incumplir, los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los solicitantes y beneficiarios de las ayudas y subvenciones públicas, las obligaciones de carácter formal o documental exigidas en la normativa específica sobre formación profesional para el empleo, siempre que no estén tipificadas como graves o muy graves.
+Se modifica el apartado 4 por la disposición final 3.4 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el apartado 4 por el art. 21.4 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se añade el apartado 4 por el art. 46.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 15
+
+Artículo 15. Infracciones graves.
+Son infracciones graves:
+1. (Suprimido)
+2. El incumplimiento de las medidas de reserva, duración o preferencia en el empleo dictadas en virtud de lo dispuesto en el artículo 17, apartados 2 y 3, de la Ley del Estatuto de los Trabajadores.
+3. El incumplimiento en materia de integración laboral de personas con discapacidad de la obligación legal de reserva de puestos de trabajo para personas con discapacidad, o de la aplicación de sus medidas alternativas de carácter excepcional.
+4. No notificar a los representantes legales de los trabajadores las contrataciones de duración determinada que se celebren, o no entregarles en plazo la copia básica de los contratos cuando exista dicha obligación.
+5. La publicidad por cualquier medio de difusión de ofertas de empleo que no respondan a las reales condiciones del puesto ofertado, o que contengan condiciones contrarias a la normativa de aplicación, sin perjuicio de lo establecido en el artículo siguiente.
+6. Incumplir, los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los beneficiarios de ayudas y subvenciones públicas, las obligaciones establecidas en la normativa específica sobre formación profesional para el empleo, salvo que haya dado lugar al disfrute indebido de bonificaciones en el pago de las cuotas sociales, mediante cualquiera de las acciones siguientes:
+a) Ejecutar acciones formativas en los términos, forma y contenido distintos a los previamente preavisados, cuando no se hubiera notificado en tiempo y forma su cancelación o modificación al órgano competente.
+b) Ejecutar acciones formativas que no guarden relación con la actividad empresarial.
+c) Incumplir las obligaciones en materia de control de asistencia de los participantes en las acciones formativas, así como incumplir la obligación de seguimiento de la participación de los alumnos, su aprendizaje y evaluación.
+d) Expedir certificaciones de asistencia o diplomas sin el contenido mínimo exigido, que no se ajusten a las acciones formativas, aprobadas y/ o realizadas o cuando no se hayan impartido las mismas, así como negar su entrega o realizar su remisión fuera de plazo, a pesar de haber sido requerido en tal sentido por los órganos de vigilancia y control.
+e) Incumplir las obligaciones relativas a la comunicación del inicio y finalización de cada acción formativa en los plazos, forma o contenidos previstos en su normativa aplicable así como no comunicar las transformaciones, fusiones, escisiones o cambios de titularidad que se produzcan en la empresa.
+f) No identificar en cuenta separada o epígrafe específico de su contabilidad todos los gastos de ejecución de las acciones formativas, así como las bonificaciones que se apliquen y la cofinanciación, en su caso, del Fondo Social Europeo u otras ayudas e iniciativas europeas, bajo la denominación de Formación profesional para el Empleo.
+g) Incumplir las obligaciones relativas a la custodia y entrega de la documentación relacionada con la organización, gestión e impartición de las acciones formativas.
+h) Imputar como coste objeto de financiación pública los bienes, productos, materiales o servicios que sean entregados, puestos a disposición o prestados por las entidades de formación o las entidades organizadoras de la formación y que no resulten estrictamente necesarios para la impartición de la actividad formativa.
+i) Incumplir las obligaciones relativas al derecho de información y consulta de la representación legal de los trabajadores.
+Se entenderá una infracción por cada empresa y por cada acción formativa para los supuestos previstos en las letras a), b) y c) de este apartado.
+Se suprime el apartado 1 por la disposición final 1.1 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df
+ Se modifica el apartado 6 por la disposición final 3.5 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el apartado 6 por el art. 21.5 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifica el apartado 3 por el art. 4.1 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade el apartado 6 por el art. 46.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 16
+
+Artículo 16. Infracciones muy graves.
+1. Son infracciones muy graves:
+a) Ejercer actividades de intermediación laboral, de cualquier clase y ámbito funcional, que tengan por objeto la colocación de trabajadores sin haber presentado, con carácter previo a la actuación como agencia de colocación, una declaración responsable, de reunir los requisitos establecidos en la Ley 56/2003, de 16 de diciembre, de Empleo, y su normativa de desarrollo, o exigir a los trabajadores precio o contraprestación por los servicios prestados.
+b) (Suprimida)
+c) Solicitar datos de carácter personal en cualquier proceso de intermediación o colocación o establecer condiciones, mediante la publicidad, difusión o por cualquier otro medio, que constituyan discriminaciones para el acceso al empleo por motivos de edad, sexo, discapacidad, salud, orientación sexual, identidad de género, expresión de género, características sexuales, nacionalidad, origen racial o étnico, religión o creencias, opinión política, afiliación sindical, así como por razón de lengua, dentro del Estado español, o cualquier otra condición o circunstancia personal o social.
+c) Solicitar datos de carácter personal en los procesos de selección o establecer condiciones, mediante la publicidad, difusión o por cualquier otro medio, que constituyan discriminaciones para el acceso al empleo por motivos de sexo, origen, incluido el racial o étnico, edad, estado civil, discapacidad, religión o convicciones, opinión política, orientación e identidad sexual, expresión de género, características sexuales, afiliación sindical, condición social y lengua dentro del Estado.
+Téngase en cuenta que se modifica la letra c) del apartado 1 por la disposición final 1.2 de la Ley 3/2023, de 28 de febrero, Ref. BOE-A-2023-5365#df y, con la misma fecha de publicación oficial y entrada en vigor, se vuelve a modificar la letra c) por la disposición final 6.4 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-6. Se muestran ambas redacciones.
+d) Obtener o disfrutar indebidamente de incentivos a las políticas activas de empleo concedidos, financiados o garantizados, en todo o en parte, por el Estado, las Comunidades Autónomas o el Fondo Social Europeo u otras ayudas e iniciativas europeas, en el marco de la ejecución de la legislación laboral, ajenas al régimen económico de la Seguridad Social.
+e) La no aplicación o las desviaciones en la aplicación de los incentivos a de las políticas activas de empleo concedidos, financiados o garantizados, en todo o en parte, por el Estado, las Comunidades Autónomas o el Fondo Social Europeo u otras ayudas e iniciativas europeas, en el marco de la ejecución de la legislación laboral, ajenas al régimen económico de la Seguridad Social.
+f) Incumplir los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los beneficiarios de ayudas y subvenciones públicas, las obligaciones establecidas en la normativa específica sobre formación profesional para el empleo, salvo que haya dado lugar al disfrute indebido de bonificaciones en el pago de cuotas sociales, mediante cualquiera de las acciones siguientes:
+1.º Solicitar cantidades a los participantes para pagar total o parcialmente las iniciativas de formación profesional para el empleo, cuando las acciones formativas sean financiables con fondos públicos y gratuitas para los mismos.
+2.º Simular la contratación laboral con la finalidad de que los trabajadores participen en acciones formativas.
+3.º El falseamiento de documentos, así como la simulación de la ejecución de la acción formativa, incluida la teleformación, para la obtención o disfrute indebido de ayudas o subvenciones públicas para sí o para un tercero en materia de formación profesional para el empleo.
+4.º Impartir formación sin estar acreditadas o, en su caso, sin haber presentado la declaración responsable de acuerdo con la normativa específica.
+5.º Realizar subcontrataciones indebidas, tanto en lo que respecta a la impartición como a la organización de las acciones formativas.
+g) La aplicación indebida o la no aplicación a los fines previstos legal o reglamentariamente de las donaciones y acciones de patrocinio recibidas de las empresas por fundaciones y asociaciones de utilidad pública, como medida alternativa al cumplimiento de la obligación de reserva de empleo a favor de las personas con discapacidad.
+En las infracciones señaladas en los párrafos 2.º, 3.º, 4.º y 5.º de la letra f), las entidades que asuman la organización de las acciones formativas programadas por las empresas, las entidades que impartan formación, y los beneficiarios de ayudas y subvenciones públicas, responderán solidariamente de la devolución de las cantidades indebidamente obtenidas por cada empresa y acción formativa.
+Se entenderá una infracción por cada empresa y acción formativa para los supuestos previstos en las letras d), e) y párrafos 2.º, 3.º, 4.º y 5.º de la letra f).
+Se suprime la letra b) y se modifican las letras c), d) y e) del apartado 1 por la disposición final 1.2 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df. Con la misma fecha de publicación oficial y entrada en vigor, se modifica la letra c) del apartado 1 por la disposición final 6.4 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-6
+ Se modifica por la disposición final 3.6 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica por el art. 21.6 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifica el apartado 1 por el art. 119.1 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica el apartado 1 por el art. 119.1 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica el apartado 2 por el art. 4.2 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade el apartado 1.bis y se modifica el apartado 1 por el art. 1.9 y la disposición adicional 16 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se modifican los apartados 1 y 2 y se añade el apartado 6 por el art. 18.2 y 3 y la disposición adicional 14.2 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Téngase en cuenta la disposición final 4.2 de la Ley 35/2010, de 17 de septiembre, en cuanto a la aplicación de las modificaciones.
+ Se modifican los apartados 1 y 2 por el art. 18.2 y 3 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Téngase en cuenta la disposición final 8.2 del Real Decreto-Ley 10/2010, de 16 de junio, en cuanto a la aplicación de las modificaciones.
+ Se modifica el apartado 2 y se añade el apartado 5 por los arts. 41.3 y 46.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifican los apartados 3 y 4 por el art. 5.4 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+
+## Subsección 2
+
+Subsección 2.ª Infracciones de los trabajadores por cuenta ajena y propia.
+Se modifica el título por el art. 46.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 17
+
+Artículo 17. Infracciones de los trabajadores por cuenta ajena y propia.
+Constituyen infracciones de los trabajadores:
+1. Leves.
+a) No comparecer presencialmente, o bien telemáticamente cuando se haya aceptado expresa y voluntariamente este medio, previo requerimiento, ante los servicios públicos de empleo o las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos y así se recoja en el convenio de colaboración.
+b) No devolver en plazo, salvo causa justificada, a los servicios públicos de empleo o, en su caso, a las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos y así se recoja en el convenio de colaboración, el correspondiente justificante de haber comparecido en el lugar y fecha indicados para cubrir las ofertas de empleo facilitadas por aquéllos.
+c) No cumplir las exigencias del acuerdo de actividad, salvo causa debidamente justificada o de fuerza mayor, siempre que la conducta no esté tipificada como otra infracción leve o grave en este artículo.
+2. Graves: Rechazar una colocación adecuada, ya sea ofrecida por los servicios públicos de empleo o por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquellos, o negarse a participar, salvo causa justificada, en aquellas actividades para la mejora de la empleabilidad propuestas en el itinerario o plan personalizado.
+A los efectos previstos en esta Ley, se entenderá por colocación adecuada la que reúna los requisitos establecidos en el artículo 231.3 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, en aquellos aspectos en los que sea de aplicación a los demandantes de empleo no solicitantes ni beneficiarios de prestaciones por desempleo.
+3. Muy graves: la no aplicación, o la desviación en la aplicación de las ayudas, en general, de fomento del empleo percibidas por los trabajadores, así como la connivencia con los empresarios y los beneficiarios de ayudas y subvenciones, para la acreditación o justificación de acciones formativas inexistentes o no realizadas.
+Se modifican las letras a) y c) del apartado 1 y el párrafo primero del apartado 2 por la disposición final 1.3 y 4 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df
+ Se modifica la letra a) del apartado 1 por el art. 20.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se añade la letra c) al apartado 1 por el art. 13 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.
+ Se modifican los apartados 1 y 2 por el art. 18.4 y .5 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Téngase en cuenta la disposición final 4.2 de la Ley 35/2010, de 17 de septiembre, en cuanto a la aplicación de las modificaciones.
+ Se modifican los apartados 1 y 2 por art. 18.4 y 5 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Téngase en cuenta la disposición final 8.2 del Real Decreto-Ley 10/2010, de 16 de junio, en cuanto a la aplicación de las modificaciones.
+ Se modifican el título, los apartados 2 y 3 y se suprime la letra c) del apartado 1 por el art. 46.5 a 8 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade la letra c) al apartado 1 y se modifica el segundo párrafo del apartado 2 por el art. 5.5 y 6 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+ Se añade la letra c) al apartado 1 y se modifica el segundo párrafo del apartado 2 por el art. 5.1 y 2 del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097
+ Téngase en cuenta que el citado Real Decreto-Ley se declara inconstitucional y nulo por Sentencia del TC 68/2007, de 28 de marzo. Ref. BOE-T-2007-8660
+
+## SECCIÓN 4
+
+Sección 4.ª Infracciones en materia de empresas de trabajo temporal y empresas usuarias
+
+### Artículo 18
+
+Artículo 18. Infracciones de las empresas de trabajo temporal.
+1. Infracciones leves:
+a) No cumplimentar, en los términos que reglamentariamente se determine, los contratos a que se refiere el artículo 10 de la Ley 14/1994, de 1 de junio, que regula las empresas de trabajo temporal y los contratos de puesta a disposición.
+b) No incluir en la publicidad de sus actividades u ofertas de empleo su identificación como empresa de trabajo temporal y el número de autorización.
+c) No entregar a la empresa usuaria la copia básica del contrato de trabajo o la orden de servicio de los trabajadores puestos a disposición de la misma ; así como la restante documentación que esté obligada a suministrarle.
+2. Infracciones graves:
+a) No formalizar por escrito los contratos de trabajo o contratos de puesta a disposición, previstos en la Ley por la que se regulan las empresas de trabajo temporal.
+b) No remitir a la autoridad laboral competente, en los términos que reglamentariamente se establezcan, la información a que se refiere el artículo 5 de la Ley por la que se regulan las empresas de trabajo temporal, o no comunicar la actualización anual de la garantía financiera.
+c) Formalizar contratos de puesta a disposición para supuestos distintos de los previstos en el artículo 6.2 de la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal.
+A estos efectos, se considerará una infracción por cada persona trabajadora afectada.
+d) No destinar a la formación de los trabajadores temporales las cantidades a que se refiere el artículo 12.2 de la Ley por la que se regulan las empresas de trabajo temporal.
+e) Cobrar al trabajador cualquier cantidad en concepto de selección, formación o contratación.
+f) Formalizar contratos de puesta a disposición para la cobertura de puestos de trabajo respecto de los que no se haya realizado previamente la preceptiva evaluación de riesgos.
+3. Infracciones muy graves:
+a) No actualizar el valor de la garantía financiera, en los términos legalmente previstos.
+b) Formalizar contratos de puesta a disposición para la realización de trabajos u ocupaciones de especial peligrosidad para la seguridad o la salud en el trabajo o formalizarlos sin haber cumplido los requisitos previstos para ello conforme a lo establecido legal o convencionalmente.
+c) No dedicarse exclusivamente a las actividades a que se refiere el artículo 1 de la Ley 14/1994, de 1 de junio, por la que se regulan las Empresas de Trabajo Temporal.
+d) La falsedad documental u ocultación en la información facilitada a la autoridad laboral sobre sus actividades.
+e) Ceder trabajadores con contrato temporal a otra empresa de trabajo temporal o a otras empresas para su posterior cesión a terceros.
+Se modifica la letra c) y se añade la letra f) al apartado 2 por el art. 5.6 y 7 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 16 de 19 de enero de 2022. Ref. BOE-A-2022-801
+ Se modifican los párrafos a), c) y d) del apartado 3 y se deroga el 2.f) por el art. 119.2 y disposición derogatoria.2.b) de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifican los párrafos a), c) y d) del apartado 3 y se deroga el 2.f) por el art. 119.2 y disposición derogatoria única.2.b) del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica el párrafo c) del apartado 3 por el art. 1.10 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se modifica el párrafo b) del apartado 3 por art. 18.6 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se modifica el párrafo b) del apartado 3 por art. 18.6 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+
+### Artículo 19
+
+Artículo 19. Infracciones de las empresas usuarias.
+1. Son infracciones leves:
+a) No cumplimentar, en los términos que reglamentariamente se determine, el contrato de puesta a disposición.
+b) No facilitar los datos relativos a la retribución total establecida en el convenio colectivo aplicable para el puesto de trabajo en cuestión, a efectos de su consignación en el contrato de puesta a disposición.
+2. Son infracciones graves:
+a) No formalizar por escrito el contrato de puesta a disposición.
+b) Formalizar contratos de puesta a disposición para supuestos distintos de los previstos en el artículo 6.2 de la Ley 14/1994, de 1 de junio.
+A estos efectos, se considerará una infracción por cada persona trabajadora afectada.
+c) Las acciones u omisiones que impidan el ejercicio por los trabajadores puestos a su disposición de los derechos establecidos en el artículo 17 de la Ley por la que se regulan las empresas de trabajo temporal.
+d) La falta de información al trabajador temporal en los términos previstos en el artículo 16.1 de la Ley por la que se regulan las empresas de trabajo temporal, y en la normativa de prevención de riesgos laborales.
+e) Formalizar contratos de puesta a disposición para la cobertura de puestos o funciones que, en los doce meses anteriores, hayan sido objeto de amortización por despido improcedente, despido colectivo o por causas objetivas, o para la cobertura de puestos que en los dieciocho meses anteriores hubieran estado ya cubiertos por más de doce meses, de forma continua o discontinua, por trabajadores puestos a disposición por empresas de trabajo temporal, entendiéndose en ambos casos cometida una infracción por cada trabajador afectado.
+f) Permitir el inicio de la prestación de servicios de los trabajadores puestos a disposición sin tener constancia documental de que han recibido las informaciones relativas a los riesgos y medidas preventivas, poseen la formación específica necesaria y cuentan con un estado de salud compatible con el puesto de trabajo a desempeñar.
+g) Formalizar contratos de puesta a disposición para la cobertura de puestos de trabajo respecto de los que no se haya realizado previamente la preceptiva evaluación de riesgos.
+3. Son infracciones muy graves:
+a) Los actos del empresario lesivos del derecho de huelga, consistentes en la sustitución de trabajadores en huelga por otros puestos a su disposición por una empresa de trabajo temporal.
+b) La formalización de contratos de puesta a disposición para la realización de trabajos u ocupaciones de especial peligrosidad para la seguridad o la salud en el trabajo o formalizarlos sin haber cumplido los requisitos previstos para ello conforme a lo establecido legal o convencionalmente, entendiéndose cometida una infracción por cada contrato en estas circunstancias.
+Se modifica la letra b) y se añade la letra g) al apartado 2 por el art. 5.8 y 9 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 16 de 19 de enero de 2022. Ref. BOE-A-2022-801
+ Se modifica el párrafo b) del apartado 3 por art. 18.7 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se modifica el párrafo b) del apartado 3 por art. 18.7 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Redactado conforme a la corrección de errores publicada en BOE núm. 148, de 18 de junio. Ref. BOE-A-2010-9640
+ Se añade la letra f) al apartado 2 por el art. 12 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+ Se modifica el apartado 2.e) por el art. 14.3 de la Ley 12/2001, de 9 de julio. Ref. BOE-A-2001-13265
+
+## SECCIÓN 5
+
+Sección 5.ª Infracciones de las empresas de trabajo temporal establecidas en otros Estados miembros de la Unión Europea o en Estados signatarios del Acuerdo sobre el Espacio Económico Europeo, así como de las empresas usuarias
+Se modifica por el art. 13.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Su anterior redacción pasa a ser la sección 6.ª
+ Se añade por la disposición final 1.3 de la Ley 44/2007, de 13 de diciembre. Ref. BOE-A-2007-21492
+
+### Artículo 19 bis
+
+Artículo 19 bis. Infracciones de las empresas de trabajo temporal establecidas en otros estados miembros de la Unión Europea o en Estados signatarios del Acuerdo sobre el Espacio Económico Europeo.
+1. Constituyen infracciones graves de las empresas de trabajo temporal:
+a) No formalizar por escrito el contrato de puesta a disposición.
+b) Formalizar contratos de puesta a disposición para supuestos distintos de los previstos en el artículo 6.2 de la Ley 14/1994, de 1 de junio.
+A estos efectos, se considerará una infracción por cada persona trabajadora afectada.
+2. Constituyen infracciones muy graves de las empresas de trabajo temporal:
+a) Formalizar contratos de puesta a disposición sin estar válidamente constituidas como empresa de trabajo temporal según la legislación del Estado de establecimiento o sin reunir los requisitos exigidos por la citada legislación para poner a disposición de empresas usuarias, con carácter temporal, personas trabajadoras por ella contratadas.
+b) Formalizar contratos de puesta a disposición para la realización de actividades y trabajos que por su especial peligrosidad para la seguridad o la salud se determinen reglamentariamente.
+c) Ceder personas trabajadoras con contrato temporal a otra empresa de trabajo temporal o a otras empresas para su posterior cesión a terceros.
+Se modifica la letra b) del apartado 1 por el art. 5.10 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se modifica por el art. 13.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Su anterior redacción pasa a ser el art. 19 quinquies.
+ Se añade por la disposición final 1.3 de la Ley 44/2007, de 13 de diciembre. Ref. BOE-A-2007-21492
+
+### Artículo 19 ter
+
+Artículo 19 ter. Infracciones de las empresas usuarias establecidas o que ejerzan su actividad en España.
+1. Constituye infracción leve no facilitar a la empresa de trabajo temporal los datos relativos a la retribución total establecida en el convenio colectivo aplicable para el puesto de trabajo en cuestión, a efectos de su consignación en el contrato de puesta a disposición.
+2. Infracciones graves:
+a) No formalizar por escrito el contrato de puesta a disposición.
+b) Formalizar contratos de puesta a disposición para supuestos distintos de los previstos en el artículo 6.2 de la Ley 14/1994, de 1 de junio.
+A estos efectos, se considerará una infracción por cada persona trabajadora afectada.
+c) Las acciones u omisiones que impidan el ejercicio por las personas trabajadoras puestas a su disposición de los derechos establecidos en el artículo 17 de la Ley 14/1994, de 1 de junio.
+d) La falta de información a la persona trabajadora temporal en los términos previstos en el artículo 16.1 de la Ley 14/1994, de 1 de junio.
+e) Formalizar contratos de puesta a disposición para la cobertura de puestos o funciones que, en los doce meses anteriores, hayan sido objeto de amortización por despido improcedente, despido colectivo o por causas objetivas, o para la cobertura de puestos que en los dieciocho meses anteriores hubieran estado ya cubiertos por más de trece meses y medio, de forma continua o discontinua, por personas trabajadoras puestas a disposición por empresas de trabajo temporal, entendiéndose en ambos casos cometida una infracción por cada persona trabajadora afectado.
+f) Permitir el inicio de la prestación de servicios de las personas trabajadoras puestas a disposición sin tener constancia documental de que han recibido las informaciones relativas a los riesgos y medidas preventivas, poseen la formación específica necesaria y cuentan con un estado de salud compatible con el puesto de trabajo a desempeñar.
+g) La ausencia de información de la empresa usuaria a la empresa de trabajo temporal con la antelación suficiente sobre el inicio de un envío temporal de una persona trabajadora desplazada a otro Estado miembro de la Unión Europea o signatario del Acuerdo del Espacio Económico Europeo en los términos previstos legalmente.
+h) Formalizar contratos de puesta a disposición para la cobertura de puestos de trabajo respecto de los que no se haya realizado previamente la preceptiva evaluación de riesgos.
+3. Infracciones muy graves:
+a) Los actos de la empresa lesivos del derecho de huelga, consistentes en la sustitución de personas trabajadoras en huelga por otros puestos a su disposición por una empresa de trabajo temporal.
+b) La formalización de contratos de puesta a disposición para la realización de aquellas actividades y trabajos que por su especial peligrosidad para la seguridad o la salud se determinen reglamentariamente, entendiéndose cometida una infracción por cada contrato en tales circunstancias.
+c) Formalizar contratos de puesta a disposición con empresas de trabajo temporal que no estén válidamente constituidas como tales según la legislación del Estado de establecimiento o que no reúnan los requisitos exigidos por la citada legislación para poner a disposición de empresas usuarias, con carácter temporal, personas trabajadoras por ellas contratadas.
+Se modifica la letra b) y se añade la letra h) al apartado 2 por el art. 5.11 y 12 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se añade por el art. 13.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+
+### Artículo 19 quater
+
+Artículo 19 quater. Infracciones de las empresas usuarias establecidas en otro Estado miembro de la Unión Europea o signatario del Acuerdo sobre el Espacio Económico Europeo.
+Constituye infracción grave la ausencia de información de la empresa usuaria a la empresa de trabajo temporal establecida en otro Estado miembro de la Unión Europea o signatario del Acuerdo sobre el Espacio Económico Europeo sobre el inicio del envío temporal de una persona trabajadora desplazada a España, con la antelación suficiente para que dicha empresa pueda comunicar el desplazamiento a las autoridades españolas.
+Se añade por el art. 13.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+
+## SECCIÓN 6
+
+Sección 6.ª Infracciones en materia de empresas de inserción
+Se renumera por el art. 13.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Su anterior numeración era Sección 5.ª
+
+### Artículo 19 quinquies
+
+Artículo 19 quinquies. Infracciones de las empresas de inserción.
+Infracciones de las empresas de inserción.
+1. Son infracciones graves:
+a) El incumplimiento de cualquiera de los requisitos establecidos para la creación de las empresas de inserción en la normativa aplicable.
+b) Ocultar o falsear la documentación acreditativa de las modificaciones estatutarias que afectan a la calificación como empresa de inserción.
+c) No facilitar el plan de actividades y el presupuesto de cada año, así como las cuentas anuales, el informe de gestión y el balance social correspondientes al cierre de cada ejercicio económico.
+d) No facilitar a los Servicios Sociales Públicos competentes y a los Servicios Públicos de Empleo la información a que se refieren los artículos 12, 13, 14 y 15 de la Ley para la regulación del régimen de las empresas de inserción.
+e) Incumplir las obligaciones asumidas en el contrato de trabajo en relación con el proceso personal de inserción de cada trabajador o no poner en práctica las medidas concretas previstas en dicho proceso.
+2. Son infracciones muy graves:
+a) Desarrollar las actividades sin cumplir el fin primordial de las empresas de inserción de integración sociolaboral de las personas en situación de exclusión social.
+b) Obtener o disfrutar indebidamente subvenciones o ayudas establecidas en los programas de apoyo a la inserción sociolaboral, financiadas o garantizadas en todo o en parte por el Estado o por las Comunidades Autónomas en el marco de la ejecución de la legislación laboral ajenas al régimen económico de la Seguridad Social.
+Se renumera por el art. 13.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Su anterior numeración era art. 19 bis.
+
+## CAPÍTULO III
+
+Infracciones en materia de Seguridad Social
+
+### Artículo 20
+
+Artículo 20. Concepto.
+1. Son infracciones en materia de Seguridad Social las acciones y omisiones de los distintos sujetos responsables a que se refiere el artículo 2.2 de la presente Ley, contrarias a las disposiciones legales y reglamentarias que regulan el sistema de la Seguridad Social, tipificadas y sancionadas como tales en la presente Ley.
+2. A los efectos de la presente Ley se asimilan a las infracciones y sanciones en materia de Seguridad Social las producidas respecto de otras cotizaciones que recaude el sistema de Seguridad Social.
+
+## SECCIÓN 1
+
+Sección 1.ª Infracciones de los empresarios, entidades de formación, entidades que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas, trabajadores por cuenta propia y asimilados.
+Se modifica el título por la disposición final 3.7 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el título por el art. 21.7 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+
+### Artículo 21
+
+Artículo 21. Infracciones leves.
+Son infracciones leves:
+1. No conservar, durante cuatro años, la documentación o los registros o soportes informáticos en que se hayan transmitido los correspondientes datos que acrediten el cumplimiento de las obligaciones en materia de afiliación, altas, bajas o variaciones que, en su caso, se produjeran en relación con dichas materias, así como los documentos de cotización y los recibos justificativos del pago de salarios y del pago delegado de prestaciones.
+2. No exponer, en lugar destacado del centro de trabajo, o no poner a disposición de los trabajadores, dentro del mes siguiente al que corresponda el ingreso de las cuotas, el ejemplar del documento de cotización o copia autorizada del mismo en el que conste la cotización efectuada correspondiente a aquellos o, en su caso, no facilitar la documentación aludida a los delegados de personal o comités de empresa, en los términos legal y reglamentariamente establecidos.
+3. No comunicar en tiempo y forma las bajas de los trabajadores que cesen en el servicio de la empresa así como las demás variaciones que les afecten o su no transmisión por los obligados o acogidos a la utilización de sistema de presentación por medios informáticos, electrónicos o telemáticos.
+4. No facilitar o comunicar fuera de plazo a las entidades correspondientes los datos, certificaciones y declaraciones que estén obligados a proporcionar, u omitirlos, o consignarlos inexactamente.
+5. No comunicar a la entidad correspondiente cualquier cambio en los documentos de asociación o de adhesión para la cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales, o en su caso, para las contingencias comunes.
+6. No remitir a la entidad correspondiente las copias de los partes médicos de baja, confirmación de la baja o alta de incapacidad temporal facilitadas por los trabajadores, o su no transmisión por los obligados o acogidos a la utilización del sistema de presentación de tales copias, por medios informáticos, electrónicos o telemáticos.
+Se modifica el apartado 2 por el art. 2.1 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se modifican los apartados 4 y 5 por el art. 4.3 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade el apartado 6 por el art. 46.11 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 3 por el art. 24.1 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716
+ Se modifica el apartado 1 por el art. 35 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Artículo 22
+
+Artículo 22. Infracciones graves.
+Se consideran infracciones graves las siguientes:
+1. Iniciar su actividad sin haber solicitado su inscripción en la Seguridad Social; no comunicar la apertura y cese de actividad de los centros de trabajo a efectos de su identificación; no comunicar las variaciones de datos u otras obligaciones establecidas legal o reglamentariamente en materia de inscripción de empresas, incluida la sucesión en la titularidad de la misma, e identificación de centros de trabajo, así como en materia de comunicación en tiempo y forma de los conceptos retributivos abonados a sus trabajadores, o su no transmisión por los obligados o acogidos al uso de sistemas de presentación por medios informáticos, electrónicos o telemáticos.
+2. No solicitar la afiliación inicial o el alta de los trabajadores que ingresen a su servicio, o solicitar la misma, como consecuencia de actuación inspectora, fuera del plazo establecido. A estos efectos se considerará una infracción por cada uno de los trabajadores afectados.
+3. No ingresar, en la forma y plazos reglamentarios, las cuotas correspondientes que por todos los conceptos recauda la Tesorería General de la Seguridad Social o no efectuar el ingreso en la cuantía debida, habiendo cumplido dentro de plazo las obligaciones establecidas en los apartados 1 y 2 del artículo 26 del texto refundido de la Ley General de la Seguridad Social, siempre que la falta de ingreso no obedezca a una declaración concursal de la empresa, ni a un supuesto de fuerza mayor, ni se haya solicitado aplazamiento para el pago de las cuotas con carácter previo al inicio de la actuación inspectora, salvo que haya recaído resolución denegatoria.
+4. Incumplir las obligaciones económicas derivadas de su colaboración obligatoria en la gestión de la Seguridad Social.
+5. Formalizar la protección por accidentes de trabajo y enfermedades profesionales, y en su caso, de la incapacidad temporal del personal a su servicio, así como los trabajadores autónomos la protección por cese de actividad en entidad distinta de la que legalmente corresponda.
+6. No entregar al trabajador en tiempo y forma, cuantos documentos sean precisos para la solicitud y tramitación de cualesquiera prestaciones, incluido el certificado de empresa, o la no transmisión de dicho certificado, en el caso de sujetos obligados o acogidos a la utilización de sistemas de presentación por medios electrónicos, informáticos o telemáticos, conforme al procedimiento establecido.
+7. No solicitar los trabajadores por cuenta propia:
+a) Su afiliación y hasta tres altas dentro de cada año natural, en el correspondiente régimen especial de la Seguridad Social, o solicitar las mismas fuera del plazo establecido, como consecuencia de actuación inspectora.
+b) Su afiliación y hasta tres altas dentro de cada año natural, en el correspondiente régimen especial de la Seguridad Social, o solicitar las mismas fuera del plazo establecido, sin que medie actuación inspectora.
+c) El resto de las altas que, en su caso, se produzcan dentro de cada año natural o solicitarlo fuera de plazo, cuando la omisión genere impago de la cotización que corresponda.
+8. No abonar a las entidades correspondientes las prestaciones satisfechas por éstas a los trabajadores cuando la empresa hubiera sido declarada responsable de la obligación.
+9. Obtener o disfrutar indebidamente cualquier tipo de reducciones, bonificaciones o incentivos en relación con el importe de las cuotas sociales que corresponda, entendiendo producida una infracción por cada trabajador afectado, salvo que se trate de bonificaciones de formación profesional para el empleo y reducciones de las cotizaciones por contingencias profesionales a las empresas que hayan contribuido especialmente a la disminución y prevención de la siniestralidad laboral, en la que se entenderá producida una infracción por cada empresa y acción formativa.
+10. La solicitud de afiliación o del alta de los trabajadores que ingresen a su servicio fuera del plazo establecido al efecto, cuando no mediare actuación inspectora, o su no transmisión por los obligados o acogidos a la utilización de sistemas de presentación por medios informáticos, electrónicos o telemáticos.
+11. No comprobar por los empresarios que contraten o subcontraten con otros la realización de obras o servicios correspondientes a la propia actividad de aquéllos o que se presten de forma continuada en sus centros de trabajo, con carácter previo al inicio de la prestación de la actividad contratada o subcontratada, la afiliación o alta en la Seguridad Social de cada uno de los trabajadores que estos ocupen en los mismos durante el periodo de ejecución de la contrata o subcontrata, considerándose una infracción por cada uno de los trabajadores afectados.
+12. No proceder dentro del plazo reglamentario al alta y cotización por los salarios de tramitación y por las vacaciones devengadas y no disfrutadas antes de la extinción de la relación laboral. A estos efectos se considerará una infracción por cada uno de los trabajadores afectados.
+13. El incumplimiento de la obligación de comunicar a la entidad gestora de la prestación por desempleo, con carácter previo a su efectividad, las medidas de despido colectivo o de suspensión o reducción de jornada, en la forma y con el contenido establecido reglamentariamente, así como la no comunicación, con antelación a que se produzcan, de las variaciones que se originen sobre el calendario inicialmente dispuesto, en relación con la concreción e individualización por trabajador de los días de suspensión o reducción de jornada, así como en este último caso, el horario de trabajo afectado por la reducción.
+14. Dar ocupación, habiendo comunicado el alta en la Seguridad Social, a trabajadores, solicitantes o beneficiarios de pensiones u otras prestaciones periódicas de Seguridad Social, cuyo disfrute sea incompatible con el trabajo por cuenta ajena.
+15. Incumplir, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas, los requisitos de cada acción formativa establecidos por la normativa específica sobre formación profesional para el empleo, cuando haya dado lugar al disfrute indebido de bonificaciones en el pago de cuotas, salvo cuando la infracción sea calificada como muy grave de acuerdo con el artículo siguiente.
+Dichas entidades responderán solidariamente de la devolución de las cantidades indebidamente bonificadas por cada empresa y acción formativa.
+Se entenderá una infracción por cada empresa y por cada acción formativa.
+16. Comunicar la baja en un régimen de la Seguridad Social de trabajadores por cuenta ajena pese a que continúen la misma actividad laboral o mantengan idéntica prestación de servicios, sirviéndose de un alta indebida en un régimen de trabajadores por cuenta propia. A estos efectos se considerará una infracción por cada uno de los trabajadores afectados.
+Se añade el apartado 16 por la disposición final 4.1 del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#df-4
+ Se modifica, con efectos de 1 de enero de 2018, el apartado 7 por la disposición final 9.1 de la Ley 6/2017, de 24 de octubre. Ref. BOE-A-2017-12207#df-9
+ Se modifica el apartado 9 y se añade el 15 por la disposición final 3.8 y 9 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el apartado 9 y se añade el 15 por el art. 21.8 y 9 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifican los apartados 1 y 3 por el art. 2.2 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se modifica el apartado 13 por el art. 8.1 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Se modifica el apartado 13 por el art. 8.1 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Se modifica por el art. 4.4 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se modifica el apartado 2 y se añaden los apartados 11 y 12 por el art. 6.1 a 3 del Real Decreto-ley 5/2011, de 29 de abril. Ref. BOE-A-2011-7972.
+ Se modifica el apartado 5 por la disposición final 2.1 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se modifica el apartado 3, con efectos de 1 de enero de 2009 por la disposición final 8.1 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Téngase en cuenta que se declara inconstitucional la citada disposición final 8 que da recacción al apartado 3, con los efectos establecidos en el fundamento jurídico 3.h), por Sentencia del TC 206/2013, de 5 de diciembre. Ref. BOE-A-2014-223.
+ Se modifica el apartado 10 por el art. 46.9 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ La norma establece que se modifica el apartado 12, pero este se reenumera como apartado 10 por la Ley 52/2003, de 10 de diciembre, por lo que entendemos que el que se modifica es el apartado 10.
+ Se modifican los apartados 1 y 2, se añade el apartado 3, se suprimen los apartados 4 y 5 y se reenumeran los apartados 6 a 12 como 4 a 10 por el art. 24.2 a 5 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716
+ Se deroga el apartado 3 por el art. 37 de la Ley 24/2001, de 27de diciembre. Ref. BOE-A-2001-24965
+
+### Artículo 23
+
+Artículo 23. Infracciones muy graves.
+1. Son infracciones muy graves:
+a) Dar ocupación como trabajadores a beneficiarios o solicitantes de pensiones u otras prestaciones periódicas de la Seguridad Social, cuyo disfrute sea incompatible con el trabajo por cuenta ajena, cuando no se les haya dado de alta en la Seguridad Social con carácter previo al inicio de su actividad.
+b) No ingresar, en la forma y plazos reglamentarios, las cuotas correspondientes que por todos los conceptos recauda la Tesorería General de la Seguridad Social, no habiendo cumplido dentro de plazo las obligaciones establecidas en los apartados 1 y 2 del artículo 26 del texto refundido de la Ley General de la Seguridad Social, así como actuar fraudulentamente al objeto de eludir la responsabilidad solidaria, subsidiaria o mortis causa en el cumplimiento de la obligación de cotizar o en el pago de los demás recursos de la Seguridad Social.
+c) Efectuar declaraciones, o facilitar, comunicar o consignar datos falsos o inexactos que den lugar a que las personas trabajadoras obtengan o disfruten indebidamente prestaciones, así como la connivencia con sus trabajadores/as o con las demás personas beneficiarias para la obtención de prestaciones indebidas o superiores a las que procedan en cada caso, o para eludir el cumplimiento de las obligaciones que a cualquiera de ellos corresponda en materia de prestaciones.
+d) Pactar con sus trabajadores de forma individual o colectiva la obligación por parte de ellos de pagar total o parcialmente la prima o parte de cuotas a cargo del empresario, o bien su renuncia a los derechos que les confiere el sistema de la Seguridad Social.
+e) Incrementar indebidamente la base de cotización del trabajador de forma que provoque un aumento en las prestaciones que procedan, así como la simulación de la contratación laboral para la obtención indebida de prestaciones.
+f) Efectuar declaraciones o facilitar, comunicar o consignar datos falsos o inexactos, que ocasionen liquidaciones, deducciones o compensaciones fraudulentas en las cuotas a satisfacer a la Seguridad Social, o incentivos relacionados con las mismas.
+g) No facilitar al Organismo público correspondiente, en tiempo y forma, los datos identificativos de titulares de prestaciones sociales económicas, así como, en cuanto determinen o condicionen el derecho a percibirlas, los de los beneficiarios, cónyuges y otros miembros de la unidad familiar, o los de sus importes, clase de las prestaciones y fecha de efectos de su concesión.
+h) Incurrir los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas, en el falseamiento de documentos o en la simulación de la ejecución de la acción formativa, incluida la teleformación, para la obtención o disfrute indebido de bonificaciones en materia de formación profesional para el empleo.
+Se entenderá una infracción por cada empresa y por cada acción formativa.
+i) Incumplir la obligación de suscribir el convenio especial en los supuestos establecidos en el artículo 51.9 del Estatuto de los Trabajadores
+j) Dar ocupación a los trabajadores afectados por la suspensión de contratos o reducción de jornada, en el período de aplicación de las medidas de suspensión de contratos o en el horario de reducción de jornada comunicado a la autoridad laboral o a la entidad gestora de las prestaciones por desempleo, en su caso.
+k) Retener indebidamente, no ingresándola dentro de plazo, la parte de cuota de Seguridad Social descontada a sus trabajadores o efectuar descuentos superiores a los legalmente establecidos, no ingresándolos en el plazo reglamentario.
+l) Incumplir lo dispuesto en los Reglamentos de la Unión Europea sobre Coordinación de Sistemas de Seguridad Social, respecto a la determinación de la legislación de seguridad social aplicable, cuando dicho incumplimiento dé lugar a la inscripción o alta en el sistema de seguridad social español de empresas, trabajadores por cuenta ajena o por cuenta propia.
+m) Incumplir lo dispuesto en los Reglamentos de la Unión Europea sobre Coordinación de Sistemas de Seguridad Social, respecto a la determinación de la legislación de seguridad social aplicable, cuando dicho incumplimiento dé lugar a la falta de alta y cotización en el sistema de seguridad social español de personas desplazadas a España desde otro Estado Miembro de la Unión Europea, ya se trate de una empresa que desplace trabajadores para prestar servicios por cuenta ajena o de personas que se desplacen para prestar servicios por cuenta propia.
+2. En el supuesto de infracciones muy graves, se entenderá que la empresa incurre en una infracción por cada una de las personas trabajadoras que hayan solicitado, obtenido o disfruten fraudulentamente de las prestaciones de Seguridad Social.
+Sin perjuicio de lo establecido en el artículo 43.3, en las infracciones señaladas en los párrafos a), c) y e) del apartado anterior, la empresa responderá solidariamente de la devolución de las cantidades indebidamente percibidas por la persona trabajadora.
+Las empresas que contraten o subcontraten la realización de obras o servicios correspondientes a la propia actividad, responderán solidariamente de las infracciones a que se refiere el apartado 1.a) anterior, cometidas por la empresa contratista o subcontratista durante todo el período de vigencia de la contrata.
+En las infracciones señaladas en el apartado 1.h), las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los solicitantes o beneficiarios de subvenciones y ayudas públicas, responderán solidariamente de la devolución de las cantidades disfrutadas de forma indebida por cada acción formativa.
+3. Las infracciones de este artículo, además de a las sanciones que correspondan por aplicación del Capítulo VI, darán lugar a las sanciones accesorias previstas en el artículo 46 de esta Ley.
+Se añaden los apartados l) y m) al apartado 1 por el art. 4.2 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a4
+ Se modifican la letra c) del apartado 1 y el apartado 2 por la disposición final 3.1 y 2 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df-3
+ Se modifica la letra h) del apartado 1 y se añade un párrafo al apartado 2 por la disposición final 3.10 y 11 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica la letra h) del apartado 1 y se añade un párrafo al apartado 2 por el art. 21.10 y 11 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifican los apartados 1.b) y f) por el art. 2.3 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se modifica por el art. 4.5 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ La modificación del apartado 1.i) entra en vigor el 1 de enero de 2013, según establece la disposición final 9.
+ Se añade la letra i) al apartado 1 por la disposición adicional 6.2 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+ Se añade el párrafo h) al apartado 1 por el art. 46.10 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el párrafo b) del apartado 1 por el art. 24.6 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 228, de 22 de septiembre de 2000. Ref. BOE-A-2000-17128
+
+## SECCIÓN 2
+
+Sección 2.ª Infracciones de los trabajadores o asimilados, beneficiarios y solicitantes de prestaciones
+
+### Artículo 24
+
+Artículo 24. Infracciones leves.
+Son infracciones leves:
+1. No facilitar a la entidad correspondiente o a la empresa, cuando le sean requeridos, los datos necesarios para su afiliación o su alta en la Seguridad Social y, en su caso, las alteraciones que en ellos se produjeran, los de la situación de pluriempleo, y, en general, el incumplimiento de los deberes de carácter informativo.
+2. No comparecer, previo requerimiento, ante la entidad gestora de las prestaciones en la forma y fecha que se determinen, salvo causa justificada.
+3. En el caso de los solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, o de trabajadores por cuenta propia solicitantes o beneficiarios de la prestación por cese de actividad:
+a) No comparecer, previo requerimiento, ante los servicios públicos de empleo o las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquellos, salvo causa justificada.
+b) No devolver en plazo, salvo causa justificada, al servicio público de empleo o, en su caso, a las agencias de colocación sin fines lucrativos el correspondiente justificante de haber comparecido en el lugar y fecha indicados para cubrir las ofertas de empleo facilitadas por aquéllos.
+c) No cumplir las exigencias del acuerdo de actividad en los términos establecidos en el artículo 3 de la Ley 3/2023, de 28 de febrero, de Empleo, salvo causa justificada, siempre que la conducta no esté tipificada como otra infracción leve o grave en los artículos 24 o 25 de esta ley.
+d) No facilitar a los servicios públicos de empleo, la información necesaria para garantizar la recepción de sus notificaciones y comunicaciones.
+Las citaciones o comunicaciones efectuadas por medios electrónicos se entenderán validas a efectos de notificaciones siempre que los trabajadores hayan expresado previamente su consentimiento.
+4. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, no facilitar a la entidad gestora de dichas prestaciones la información necesaria para garantizar la recepción de sus notificaciones y comunicaciones. Las citaciones o comunicaciones efectuadas por medios electrónicos se entenderán validas a efectos de notificaciones siempre que los trabajadores hayan expresado previamente su consentimiento o esté obligados a recibirlas por una norma con rango de Ley.
+Téngase en cuenta que la modificación de los apartados 3.c) y 4, establecida por la disposición final 2.2 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2, entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
+ Redacción anterior:
+ "3.c) No cumplir las exigencias del compromiso de actividad, salvo causa justificada, siempre que la conducta no esté tipificada como otra infracción leve o grave en los artículos 24 ó 25 de esta Ley.
+ A los efectos previstos en esta Ley, se entenderá por compromiso de actividad el que reúna los requisitos establecidos en el apartado 2 del artículo 231 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio."
+ "4. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, los siguientes incumplimientos ante la entidad gestora de dichas prestaciones:
+ a) No facilitar la información necesaria para garantizar la recepción de sus notificaciones y comunicaciones.
+ Las citaciones o comunicaciones efectuadas por medios electrónicos se entenderán validas a efectos de notificaciones siempre que los trabajadores hayan expresado previamente su consentimiento.
+ b) No cumplir el requisito, exigido para la conservación de la percepción de la prestación, de estar inscrito como demandante de empleo en los términos establecidos en los artículos 209.1 y 215.4 del texto refundido de la Ley General de la Seguridad Social, salvo causa justificada."
+Se modifican los apartados 3.c) y 4 por la disposición final 2.2 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2
+ Esta modificación entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
+ Se deja sin efecto la modificación de los apartados 3.c) y 4 por Resolución de 10 de enero de 2024 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
+ Se modifican los apartados 3.c) y 4 por la disposición final 1.1 y 2 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#df
+ Esta modificación entra en vigor el 1 de junio de 2024, según establece la disposición final 9.3 del citado Real Decreto-ley.
+ Se modifican las letras a) y d) del apartado 3 y se añade el apartado 4 por el art. 8.2 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Se modifican las letras a) y d) del apartado 3 y se añade el apartado 4 por el art. 8.2 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Se añade un párrafo al apartado 3.a) y la letra d) por el art. 20.2 y 3 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifica el párrafo a) del apartado 3 por art. 18.8 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Se modifica el apartado 3 por la disposición final 2.2 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se modifica el párrafo a) del apartado 3 por art. 18.8 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Téngase en cuenta la disposición final 8.2 del Real Decreto-Ley 10/2010, en cuanto a la aplicación de las modificaciones.
+ Se añade el apartado 3 por el art. 46.12 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 25
+
+Artículo 25. Infracciones graves.
+Son infracciones graves:
+1. Efectuar trabajos por cuenta propia o ajena durante la percepción de prestaciones, cuando exista incompatibilidad legal o reglamentariamente establecida, sin perjuicio de lo dispuesto en el apartado 2 del artículo siguiente.
+2. No comparecer, salvo causa justificada, a los reconocimientos médicos ordenados por las entidades gestoras o colaboradoras, en los supuestos así establecidos, así como no presentar ante las mismas los antecedentes, justificantes o datos que no obren en la entidad, cuando a ello sean requeridos y afecten al derecho a la continuidad en la percepción de la prestación.
+3. No comunicar, salvo causa justificada, las bajas en las prestaciones en el momento en que se produzcan situaciones determinantes de incompatibilidad, suspensión o extinción del derecho, excepto la de no figurar inscritos como demandantes de empleo en el servicio público de empleo competente, o cuando se dejen de reunir los requisitos para el derecho a su percepción siempre que por cualquiera de dichas causas se haya percibido indebidamente la prestación.
+4. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, o de trabajadores por cuenta propia solicitantes o beneficiarios de la prestación por cese de actividad:
+a) Rechazar una oferta de empleo adecuada, ya sea ofrecida por los servicios públicos de empleo o por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos, salvo causa justificada.
+b) Negarse a participar en acciones, programas o actividades señalados en el itinerario o plan personalizado para la mejora de la empleabilidad y el acceso al mercado de trabajo, salvo causa justificada, ofrecidos por los servicios públicos de empleo o entidades colaboradoras.
+A los efectos previstos en esta ley, se entenderá por colocación adecuada la que reúna los requisitos establecidos en el artículo 3.g) de la Ley 3/2023, de 28 de febrero.
+Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por la disposición final 2.3 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2, entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
+ Redacción anterior:
+ "3. No comunicar, salvo causa justificada, las bajas en las prestaciones en el momento en que se produzcan situaciones determinantes de la suspensión o extinción del derecho, o cuando se dejen de reunir los requisitos para el derecho a su percepción cuando por cualquiera de dichas causas se haya percibido indebidamente la prestación, siempre que la conducta no esté tipificada como infracción leve en el artículo 24.4.b) de esta ley.
+ 4. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, o de trabajadores por cuenta propia solicitantes o beneficiarios de la prestación por cese de actividad:
+ a) Rechazar una oferta de empleo adecuada, ya sea ofrecida por los servicios públicos de empleo o por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos, salvo causa justificada.
+ b) Negarse a participar en los trabajos de colaboración social, programas de empleo, incluidos los de inserción profesional, o en acciones de promoción, formación o reconversión profesional, salvo causa justificada, ofrecidos por los servicios públicos de empleo o en las acciones de orientación e información profesional ofrecidas por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos.
+ A los efectos previstos en esta ley, se entenderá por colocación adecuada la que reúna los requisitos establecidos en el artículo 3.g) de la Ley 3/2023, de 28 de febrero, de Empleo."
+Se modifican los apartados 3 y 4 por la disposición final 2.3 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2
+ Esta modificación entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
+ Se deja sin efecto la modificación del apartado 3 por Resolución de 10 de enero de 2024 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
+ Se modifica el apartado 3 por la disposición final 1.3 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#df
+ Redactado conforme a la corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. Ref. BOE-A-2024-135
+ Se modifica el último párrafo del apartado 4 por la disposición final 1.5 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df
+ Se modifica el apartado 3 por el art. 8.3 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Se modifica el apartado 3 por el art. 8.3 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Se modifica el párrafo inicial del apartado 4 por la disposición adicional 1 del Real Decreto-ley 14/2011, de 16 de septiembre. Ref. BOE-A-2011-14910.
+ Se modifica el apartado 4 por art. 18.9 de la Ley 35/2010, de 17 de septiembre. Ref. BOE-A-2010-14301
+ Téngase en cuenta la disposición final 4.2 de la Ley 35/2010, en cuanto a la aplicación de las modificaciones y la disposición final 7 de la Ley 32/2010, de 5 de agosto, en cuanto a la vigencia. Ref. BOE-A-2010-12616
+ Se modifica el apartado 4 por la disposición final 2.3 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se modifica el apartado 4 por art. 18.9 del Real Decreto-Ley 10/2010, de 16 de junio. Ref. BOE-A-2010-9542
+ Téngase en cuenta la disposición final 8.2 del Real Decreto-Ley 10/2010, en cuanto a la aplicación de las modificaciones.
+ Se añade el apartado 4 por el art. 46.13 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 26
+
+Artículo 26. Infracciones muy graves.
+Son infracciones muy graves:
+1. Actuar fraudulentamente con el fin de obtener prestaciones indebidas o superiores a las que correspondan, o prolongar indebidamente su disfrute mediante la aportación de datos o documentos falsos ; la simulación de la relación laboral ; y la omisión de declaraciones legalmente obligatorias u otros incumplimientos que puedan ocasionar percepciones fraudulentas.
+2. Compatibilizar la solicitud o el percibo de prestaciones o subsidio por desempleo, así como la prestación por cese de actividad de los trabajadores autónomos, con el trabajo por cuenta propia o con el trabajo por cuenta ajena, salvo en los casos expresamente previstos en la normativa correspondiente.
+3. La connivencia con el empresario para la obtención indebida de cualesquiera prestaciones de la Seguridad Social.
+4. La no aplicación o la desviación en la aplicación de las prestaciones por desempleo, que se perciban según lo que establezcan programas de fomento de empleo.
+Se modifica el apartado 2 por la disposición final 1.4 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#df
+ Esta modificación entra en vigor el 1 de junio de 2024, según establece la disposición final 9.3 del citado Real Decreto-ley.
+ Se modifica el apartado 2 por el art. 4.6 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se modifica el apartado 2 por la disposición final 2.4 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se añade el apartado 4 por el art. 46.14 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## SECCIÓN 3
+
+Sección 3.ª Infracciones de las Mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social
+
+### Artículo 27
+
+Artículo 27. Infracciones leves.
+Son infracciones leves:
+1. No cumplir las obligaciones formales relativas a diligencia, remisión y conservación de libros, registros, documentos y relaciones de trabajadores, así como de los boletines estadísticos.
+2. Incumplir las obligaciones formales establecidas sobre inscripción, registro y conservación de documentos y certificados, en materia de reconocimientos médicos obligatorios.
+3. No remitir al organismo competente, dentro del plazo y debidamente cumplimentados, los partes de accidentes de trabajo cuando éstos tengan carácter leve.
+4. No informar a los empresarios asociados, trabajadores y órganos de representación del personal, y a las personas que acrediten un interés personal y directo, acerca de los datos a ellos referentes que obren en la entidad.
+
+### Artículo 28
+
+Artículo 28. Infracciones graves.
+Son infracciones graves:
+1. No llevar al día y en la forma establecida los libros obligatorios, así como los libros oficiales de contabilidad o sistema contable autorizado, de conformidad con el plan general de contabilidad y normas presupuestarias de la Seguridad Social.
+2. Aceptar la asociación de empresas no incluidas en el ámbito territorial o funcional de la entidad sin estar autorizadas; no aceptar toda proposición de asociación que formulen las empresas comprendidas en su ámbito de actuación; concertar convenios de asociación de duración superior a un año; y no proteger a la totalidad de los trabajadores de una empresa asociada correspondientes a centros de trabajo situados en la misma provincia, y no atender a las solicitudes de cobertura de la protección por cese de actividad de los trabajadores autónomos con los que tengan formalizada la cobertura por contingencias profesionales.
+3. No observar las normas relativas a la denominación y su utilización, y a la constitución y funcionamiento de sus órganos de gobierno y de participación.
+4. No remitir al organismo competente, dentro del plazo y debidamente cumplimentados, los partes de accidentes de trabajo y enfermedad profesional, cuando tengan carácter grave, muy grave o produzcan la muerte del trabajador.
+5. No cumplir la normativa establecida respecto de constitución y cuantía en materia de fianza, gastos de administración, reservas obligatorias, así como la falta de remisión dentro de plazo al organismo competente del balance anual, memoria y cuenta de resultados, y presupuesto de ingresos y gastos debidamente aprobados y confeccionados.
+6. No facilitar al organismo competente y, en todo caso, a los Servicios comunes y Entidades gestoras, cuantos datos soliciten en materia de colaboración, ni coordinar la actuación de la entidad con dichos organismos y con las Administraciones competentes en materia de gestión de servicios sociales u otras materias en las que colaboren las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, así como la negativa a expedir a los empresarios asociados los certificados del cese de la asociación.
+7. Dar publicidad o difundir públicamente informaciones y datos referentes a su actuación, sin la previa autorización del órgano superior de vigilancia y tutela, cuando la misma se requiera.
+8. No solicitar en tiempo y forma establecidos las autorizaciones preceptivas en materia de inversiones, contratación con terceros, revalorización de activos y actualización de balances, y cualesquiera otras en materia económico financiera en que así lo exijan las disposiciones en vigor.
+9. No cumplir con la normativa relativa al reconocimiento, suspensión, extinción y reanudación derivada de la gestión de la prestación por cese de actividad de los trabajadores autónomos.
+10. Incumplir la normativa de la prestación por cese de actividad de los trabajadores autónomos respecto a la gestión del desarrollo de convocatorias y acciones específicas de formación, orientación profesional, información, motivación, reconversión o inserción profesional del trabajador autónomo que se determinen.
+11. La declaración o denegación de la fuerza mayor como situación legal del cese de actividad de los trabajadores autónomos sin tener en consideración la documentación aportada por el solicitante.
+Se modifica el apartado 2 y se añaden los apartados 9, 10 y 11 por la disposición final 2.5 y .6 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+
+### Artículo 29
+
+Artículo 29. Infracciones muy graves.
+Son infracciones muy graves:
+1. Llevar a cabo operaciones distintas a aquellas a las que deben limitar su actividad o insertar en los convenios de asociación condiciones que se opongan a las normas de la Seguridad Social y de las que regulan la colaboración en la gestión de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales.
+2. No contribuir en la medida que proceda al sostenimiento económico de los Servicios comunes de la Seguridad Social y no cumplir las obligaciones que procedan en materia de reaseguro o del sistema establecido de compensación de resultados.
+3. Aplicar epígrafes de la tarifa de primas o, en su caso, las adicionales que procedan, distintas de las que sean perceptivamente obligatorias, según las actividades y trabajos de cada empresa, así como promover u obtener el ingreso de cantidades equivalentes o sustitutorias de las cuotas de la Seguridad Social por procedimientos diferentes a los reglamentarios.
+4. Concertar, utilizar o establecer servicios sanitarios, de prevención de accidentes, de recuperación o de rehabilitación propios o de terceros, sin la previa autorización del organismo competente.
+5. Exigir a las empresas asociadas, al convenir la asociación, el ingreso de cantidades superiores al importe anticipado de un trimestre de las correspondientes cuotas en concepto de garantía, o bien exigir dicho ingreso más de una vez.
+6. Ejercer la colaboración en la gestión con ánimo de lucro ; no aplicar el patrimonio estrictamente al fin social de la entidad ; distribuir beneficios económicos entre los asociados, con independencia de su naturaleza ; afectar los excedentes anuales a fines distintos de los reglamentarios ; continuar en el ejercicio de la colaboración cuando concurran causas de disolución obligatoria sin comunicarlo al órgano competente ; y no diferenciar las actividades desarrolladas como servicios de prevención, o no imputar a las mismas los costes derivados de tales actividades.
+7. Incumplir el régimen de incompatibilidades y prohibiciones establecido en el artículo 75 del texto refundido de la Ley General de la Seguridad Social.
+8. El falseamiento de la declaración de fuerza mayor para que los trabajadores autónomos obtengan o disfruten fraudulentamente la prestación por cese de actividad, así como la connivencia con los trabajadores autónomos para la obtención de prestaciones indebidas, o para eludir el cumplimiento de las obligaciones que a cualquiera de ellos corresponda en materia de la prestación por cese de actividad.
+9. Falta de diligencia suficiente en la supervisión de la gestión de la prestación, de forma reiterada y prolongada en el tiempo.
+Se añaden los apartados 8 y 9 por la disposición adicional 2.7 y 8 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+
+## SECCIÓN 4
+
+Sección 4.ª Infracciones de las empresas que colaboran voluntariamente en la gestión
+
+### Artículo 30
+
+Artículo 30. Infracciones leves.
+Son infracciones leves:
+1. No llevar en orden y al día la documentación reglamentariamente exigida.
+2. No dar cuenta, semestralmente, al comité de empresa de la aplicación de las cantidades percibidas para el ejercicio de la colaboración.
+
+### Artículo 31
+
+Artículo 31. Infracciones graves.
+Son infracciones graves:
+1. No mantener las instalaciones sanitarias propias en las condiciones exigidas para la prestación de la asistencia.
+2. No coordinar la prestación de asistencia sanitaria con los servicios sanitarios de la Seguridad Social.
+3. Prestar la asistencia sanitaria con personal ajeno a los servicios de la Seguridad Social, salvo autorización al efecto.
+4. Conceder prestaciones en tiempo, cuantía o forma distintos a los reglamentariamente establecidos.
+5. No ingresar las aportaciones establecidas para el sostenimiento de los Servicios comunes.
+6. No llevar en su contabilidad una cuenta específica que recoja todas las operaciones relativas a la colaboración.
+
+### Artículo 32
+
+Artículo 32. Infracciones muy graves.
+Son infracciones muy graves:
+1. Ejercer las funciones propias del objeto de la colaboración sin previa autorización.
+2. Continuar en el ejercicio de la colaboración después de la pérdida de los requisitos mínimos exigibles.
+3. Destinar los excedentes de la colaboración a fines distintos de la mejora de las prestaciones.
+4. No aplicar a los fines exclusivos de la colaboración, incluyendo en ella la mejora de las prestaciones, las cantidades deducidas de la cuota reglamentaria.
+
+## SECCIÓN 5
+
+Sección 5.ª Infracciones de las mutualidades de previsión social autorizadas para actuar como alternativas al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos
+Se añade por la disposición final 8 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-9
+
+### Artículo 32 bis
+
+Artículo 32 bis. Infracción grave.
+No poner a disposición de la Tesorería General de la Seguridad Social la relación telemática de los profesionales colegiados integrados en las mismas a la que se refiere el apartado 4 de la disposición adicional decimoctava del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto legislativo 8/2015, de 30 de octubre, en el plazo y con el contenido establecido en dicha disposición.
+Se añade por la disposición final 8 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-9
+
+## CAPÍTULO IV
+
+Infracciones en materia de movimientos migratorios y trabajo de extranjeros
+Se modifica la rúbrica por la disposición final 1.2 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+## SECCIÓN 1
+
+Sección 1.ª Infracciones en materia de movimientos migratorios
+Se modifica la rúbrica por la disposición final 1.3 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+### Artículo 33
+
+Artículo 33. Concepto.
+Son infracciones en materia de movimientos migratorios laborales las acciones u omisiones de los sujetos a quienes se refiere el artículo 2.4 tipificadas y sancionadas de conformidad con la presente Ley.
+Se modifica por la disposición final 1.3 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+### Artículo 34
+
+Artículo 34. Infracciones leves.
+Constituye infracción leve la modificación de las condiciones de la oferta de trabajo para desplazarse al exterior, si no causa perjuicio grave para el trabajador.
+Se modifica por la disposición final 1.3 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+### Artículo 35
+
+Artículo 35. Infracciones graves.
+Son infracciones graves:
+1. La modificación de las condiciones de la oferta de trabajo para desplazarse al exterior, si causa perjuicio grave para el trabajador.
+2. La ocultación, falsificación o rectificación de cláusulas sustanciales de un contrato de trabajo para desplazarse al exterior.
+3. El desplazamiento del trabajador al país de acogida sin la documentación necesaria o la retención injustificada por la empresa de dicha documentación.
+4. La contratación de marinos españoles por cuenta de empresas armadoras extranjeras realizada por personas o entidades no autorizadas por la autoridad laboral para realizar ese cometido.
+Se modifica por la disposición final 1.3 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+### Artículo 36
+
+Artículo 36. Infracciones muy graves.
+Son infracciones muy graves:
+1. El establecimiento de cualquier tipo de agencias de reclutamiento.
+2. La simulación o engaño en la contratación de los trabajadores que se desplazan al exterior.
+3. El abandono de trabajadores desplazados por parte del empresario contratante o de sus representantes autorizados.
+4. El cobro a los trabajadores de comisión o precio por su contratación.
+5. La obtención fraudulenta de ayudas a los movimientos migratorios, ya sean individuales o de reagrupación familiar, o la no aplicación o aplicación indebida de dichas ayudas.
+Se modifica por la disposición final 1.3 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+
+## SECCIÓN 2
+
+Sección 2.ª Infracciones en materia de permisos de trabajo de extranjeros
+
+### Artículo 37
+
+Artículo 37. Infracciones.
+Serán consideradas conductas constitutivas de infracción muy grave las de:
+1. Los empresarios que utilicen trabajadores extranjeros sin haber obtenido con carácter previo el preceptivo permiso de trabajo, o su renovación, incurriendo en una infracción por cada uno de los trabajadores extranjeros que hayan ocupado.
+2. Los extranjeros que ejerzan en España cualquier actividad lucrativa, laboral o profesional, por cuenta propia, sin haber obtenido el preceptivo permiso de trabajo, o no haberlo renovado.
+3. Las de las personas físicas o jurídicas que promuevan, medien o amparen el trabajo de los extranjeros en España sin el preceptivo permiso de trabajo.
+
+## CAPÍTULO V
+
+Infracciones en materia de sociedades cooperativas
+
+### Artículo 38
+
+Artículo 38. Infracciones en materia de cooperativas.
+Se sujetan a las prescripciones de este artículo, las infracciones de las sociedades cooperativas, cuando la legislación autonómica se remita al respecto a la legislación del Estado, cuando no se haya producido la referida legislación autonómica o cuando aquéllas desarrollen su actividad cooperativizada en el territorio de varias Comunidades Autónomas, de conformidad con lo establecido en la Ley 27/1999, de 16 de julio, de Cooperativas.
+1. Son infracciones leves: El incumplimiento de las obligaciones o la vulneración de las prohibiciones impuestas por la Ley de Cooperativas, que no supongan un conflicto entre partes, no interrumpan la actividad social y no puedan ser calificadas de graves o muy graves.
+2. Son infracciones graves:
+a) No convocar la Asamblea General ordinaria en tiempo y forma.
+b) Incumplir la obligación de inscribir los actos que han de acceder obligatoriamente al Registro.
+c) No efectuar las dotaciones, en los términos legalmente establecidos, a los fondos obligatorios o destinarlos a finalidades distintas a las previstas.
+d) La falta de auditoría de cuentas, cuanto ésta resulte obligatoria, legal o estatutariamente.
+e) Incumplir, en su caso, la obligación de depositar las cuentas anuales.
+f) La transgresión generalizada de los derechos de los socios.
+3. Son infracciones muy graves:
+a) La paralización de la actividad cooperativizada, o la inactividad de los órganos sociales durante dos años.
+b) La transgresión de las disposiciones imperativas o prohibitivas de la Ley de Cooperativas, cuando se compruebe connivencia para lucrarse o para obtener ficticiamente subvenciones o bonificaciones fiscales.
+
+## CAPÍTULO VI
+
+Responsabilidades y sanciones
+
+## SECCIÓN 1
+
+Sección 1.ª Normas generales sobre sanciones a los empresarios, y en general, a otros sujetos que no tengan la condición de trabajadores o asimilados
+
+### Artículo 39
+
+Artículo 39. Criterios de graduación de las sanciones.
+1. Las sanciones por las infracciones tipificadas en los artículos anteriores podrán imponerse en los grados de mínimo, medio y máximo, atendiendo a los criterios establecidos en los apartados siguientes.
+2. Calificadas las infracciones, en la forma dispuesta por esta ley, las sanciones se graduarán en atención a la negligencia e intencionalidad del sujeto infractor, fraude o connivencia, incumplimiento de las advertencias previas y requerimientos de la Inspección, cifra de negocios de la empresa, número de trabajadores o de beneficiarios afectados en su caso, perjuicio causado y cantidad defraudada, como circunstancias que puedan agravar o atenuar la graduación a aplicar a la infracción cometida.
+Sin perjuicio de lo anterior, cuando se trate de infracciones tipificadas en los artículos 22.3 y 23.1.b), la sanción se impondrá en grado mínimo cuando la cuantía no ingresada, incluyendo recargos e intereses, no supere los 10.000 euros, en su grado medio cuando dicha cuantía esté comprendida entre 10.001 y 25.000 euros, y en su grado máximo cuando sea superior a los 25.000 euros.
+En todo caso, se impondrá la sanción en su grado máximo, cualquiera que fuera la cantidad no ingresada, cuando el sujeto responsable hubiera cotizado en cuantía inferior a la debida mediante la ocultación o falsedad de las declaraciones o datos que tenga obligación de facilitar a la Seguridad Social.
+No obstante lo previsto en el artículo 41 de esta ley, en el supuesto de la infracción tipificada en el artículo 15.3, la sanción se impondrá en su grado máximo cuando, en los dos años anteriores a la fecha de la comisión de la infracción, el sujeto responsable ya hubiere sido sancionado en firme por incumplimiento de la obligación legal de reserva de puestos de trabajo para personas con discapacidad o de la aplicación de sus medidas alternativas de carácter excepcional.
+3. En las sanciones por infracciones en materia de prevención de riesgos laborales, a efectos de su graduación, se tendrán en cuenta los siguientes criterios:
+a) La peligrosidad de las actividades desarrolladas en la empresa o centro de trabajo.
+b) El carácter permanente o transitorio de los riesgos inherentes a dichas actividades.
+c) La gravedad de los daños producidos o que hubieran podido producirse por la ausencia o deficiencia de las medidas preventivas necesarias.
+d) El número de trabajadores afectados.
+e) Las medidas de protección individual o colectiva adoptadas por el empresario y las instrucciones impartidas por éste en orden a la prevención de los riesgos.
+f) El incumplimiento de las advertencias o requerimientos previos a que se refiere el artículo 43 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+g) La inobservancia de las propuestas realizadas por los servicios de prevención, los delegados de prevención o el comité de seguridad y salud de la empresa para la corrección de las deficiencias legales existentes.
+h) La conducta general seguida por el empresario en orden a la estricta observancia de las normas en materia de prevención de riesgos laborales.
+4. Las infracciones en materia de sociedades cooperativas se graduarán, a efectos de su correspondiente sanción, atendiendo al número de socios afectados, repercusión social, malicia o falsedad y capacidad económica de la cooperativa.
+5. Los criterios de graduación recogidos en los números anteriores no podrán utilizarse para agravar o atenuar la infracción cuando estén contenidos en la descripción de la conducta infractora o formen parte del propio ilícito administrativo.
+6. El acta de la Inspección de Trabajo y Seguridad Social que inicie el expediente sancionador y la resolución administrativa que recaiga, deberán explicitar los criterios de graduación de la sanción tenidos en cuenta, de entre los señalados en los anteriores apartados de este artículo. Cuando no se considere relevante a estos efectos ninguna de las circunstancias enumeradas en dichos apartados, la sanción se impondrá en el grado mínimo en su tramo inferior.
+7. Se sancionará en el máximo de la calificación que corresponda toda infracción que consista en la persistencia continuada de su comisión.
+Se modifica el apartado 2 por el art. 2.4 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se añaden los dos últimos párrafos al apartado 2 por el art. 4.7 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se modifica el apartado 3.f) por el art. 13 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+### Artículo 40
+
+Artículo 40. Cuantía de las sanciones.
+1. Las infracciones en materia de relaciones laborales y empleo, en materia de Seguridad Social, sin perjuicio de lo dispuesto en el apartado 3 siguiente, en materia de movimientos migratorios y trabajo de extranjeros, en materia de empresas de trabajo temporal y empresas usuarias, excepto las que se refieran a materias de prevención de riesgos laborales, que quedarán encuadradas en el apartado 2 de este artículo, así como las infracciones por obstrucción se sancionarán:
+a) Las leves, en su grado mínimo, con multas de 70 a 150 euros; en su grado medio, de 151 a 370 euros; y en su grado máximo, de 371 a 750 euros.
+b) Las graves con multa, en su grado mínimo, de 751 a 1.500 euros, en su grado medio de 1.501 a 3.750 euros; y en su grado máximo de 3.751 a 7.500 euros.
+c) Las muy graves con multa, en su grado mínimo, de 7.501 a 30.000 euros; en su grado medio de 30.001 a 120.005 euros; y en su grado máximo de 120.006 euros a 225.018 euros.
+c bis) Las infracciones graves señaladas en los artículos 7.2, 7.14, 18.2.c), 19.2.b), 19.2.e), 19 bis.1.b), 19 ter.2.b) y 19 ter.2.e) se sancionarán con la multa siguiente: en su grado mínimo, de 1.000 a 2.000 euros; en su grado medio, de 2.001 a 5.000 euros y, en su grado máximo, de 5.001 a 10.000 euros.
+d) Las infracciones señaladas en los artículos 22.3, 23.1.b) y 23.1.k) se sancionarán:
+1.º La infracción grave del artículo 22.3 se sancionará con la multa siguiente: en su grado mínimo, con multa del 50 al 65 por ciento del importe de las cuotas de Seguridad Social y demás conceptos de recaudación conjunta no ingresados, incluyendo recargos, intereses y costas; en su grado medio, con multa del 65,01 al 80 por ciento; y en su grado máximo, con multa del 80,01 al 100 por ciento.
+2.º La infracción muy grave del artículo 23.1.b) se sancionará con la multa siguiente: en su grado mínimo, con multa del 100,01 al 115 por ciento del importe de las cuotas de Seguridad Social y demás conceptos de recaudación conjunta no ingresados, incluyendo recargos, intereses y costas; en su grado medio, con multa del 115,01 al 130 por ciento; y en su grado máximo, con multa del 130,01 al 150 por ciento.
+3.º La infracción muy grave del artículo 23.1.k) se sancionará con la multa siguiente: en su grado mínimo, con multa del 100,01 al 115 por ciento del importe de las cuotas de Seguridad Social no ingresadas y descontadas a los trabajadores o del exceso del descuento previsto legalmente, incluyendo recargos, intereses y costas; en su grado medio, con multa del 115,01 al 130 por ciento; y en su grado máximo, con multa del 130,01 al 150 por ciento.
+e) Las infracciones señaladas en los artículos 22.2, 22.7 a), 22.16 y 23.1.a) se sancionarán:
+1.º La infracción grave de los artículos 22.2, 22.7 a) y 22.16 se sancionará con la multa siguiente: en su grado mínimo, de 3.750 a 7.500 euros; en su grado medio, de 7.501 a 9.600 euros y, en su grado máximo, de 9.601 a 12.000 euros.
+2.º La infracción muy grave del artículo 23.1.a) se sancionará con la multa siguiente: en su grado mínimo, de 12.001 a 30.000 euros; en su grado medio, de 30.001 a 120.005 euros y, en su grado máximo, de 120.006 a 225.018 euros.
+No obstante, cuando con ocasión de una misma actuación de inspección se detecten varias infracciones de las contempladas en este apartado, la sanción que en su caso se proponga para cada una de ellas, graduada conforme a los criterios contenidos en el artículo 39.2 que procedan, se incrementará en:
+Un 20 por ciento en cada infracción cuando se trate de dos trabajadores, beneficiarios o solicitantes.
+Un 30 por ciento en cada infracción cuando se trate de tres trabajadores, beneficiarios o solicitantes.
+Un 40 por ciento en cada infracción cuando se trate de cuatro trabajadores, beneficiarios o solicitantes.
+Un 50 por ciento en cada infracción cuando se trate de cinco o más trabajadores, beneficiarios o solicitantes.
+En ningún caso, la cuantía correspondiente a la infracción prevista en el artículo 22.2 podrá exceder de 12.000 euros, ni la prevista en el artículo 23.1.a) podrá exceder de 225.018 euros para cada una de las infracciones.
+f) Cuando la actuación inspectora de la que se derive la obstrucción fuera dirigida a la comprobación de la situación de alta de los trabajadores que presten servicios en una empresa y el incumplimiento de las obligaciones del empresario pudiera dar lugar a la comisión de las infracciones tipificadas en los artículos 22.2 y 23.1.a), las infracciones por obstrucción se sancionarán:
+1.º Las calificadas como graves: en su grado mínimo, con multa de 3.750 a 7.500 euros; en su grado medio, de 7.501 a 9.600 euros y, en su grado máximo, de 9.601 a 12.000 euros.
+2.º Las calificadas como muy graves: en su grado mínimo, con una multa de 12.001 a 30.000 euros; en su grado medio, de 30.001 a 120.005 euros y, en su grado máximo, de 120.006 a 225.018 euros.
+Las sanciones impuestas por las infracciones muy graves tipificadas en las letras d), e) y f) del apartado 1 del artículo 16, y en las letras a) y h) del apartado 1 del artículo 23, así como las sanciones por obstrucción calificadas como muy graves en el párrafo anterior, una vez firmes, se harán públicas en la forma que se prevea reglamentariamente.
+2. Las infracciones en materia de prevención de riesgos laborales se sancionarán:
+a) Las leves, en su grado mínimo, con multa de 45 a 485 euros; en su grado medio, de 486 a 975 euros; y en su grado máximo, de 976 a 2.450 euros.
+b) Las graves con multa, en su grado mínimo, de 2.451 a 9.830 euros; en su grado medio, de 9.831 a 24.585 euros; y en su grado máximo, de 24.586 a 49.180 euros.
+c) Las muy graves con multa, en su grado mínimo, de 49.181 a 196.745 euros; en su grado medio, de 196.746 a 491.865 euros; y en su grado máximo, de 491.866 a 983.736 euros.
+Las sanciones impuestas por infracciones muy graves, una vez firmes, se harán públicas en la forma que se determine reglamentariamente.
+Las infracciones, por faltas graves y muy graves de las entidades especializadas que actúen como servicios de prevención ajenos a las empresas, de las personas o entidades que desarrollen la actividad de auditoría del sistema de prevención de las empresas y de las entidades acreditadas para desarrollar o certificar la formación en materia de prevención de riesgos laborales, podrán dar lugar, además de a las multas previstas en este artículo, a la cancelación de la acreditación otorgada por la autoridad laboral.
+3. Las sanciones en materia de Seguridad Social cuando se deriven de actas de infracción y liquidación que se refieran a los mismos hechos y se practiquen simultáneamente, se reducirán automáticamente al 50 por ciento de su cuantía si el sujeto infractor manifiesta su conformidad con la liquidación practicada, ingresando su importe en el plazo procedente. Esta reducción automática solo podrá aplicarse en el supuesto de que la cuantía de la liquidación supere la de la sanción propuesta inicialmente.
+4. Las infracciones en materia de cooperativas se sancionarán:
+a) Las leves, con multa de 450 a 905 euros.
+b) Las graves, con multa de 906 a 4.545 euros.
+c) Las muy graves, con multa de 4.546 a 45.504 euros.
+Se añade la letra c bis) al apartado 1 por el art. 5.13 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#aq
+ Se modifica por la disposición final 1.2 de la Ley 10/2021, de 9 de julio. Ref. BOE-A-2021-11472#df
+ Téngase en cuenta que esta última modificación entra en vigor el 1 de octubre de 2021, según establece la disposición final 14 de la citada Ley.
+ Se modifica el apartado 1.e).1 por la disposición final 4.2 del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#df-4
+ Se modifica, con efectos de 1 de enero de 2018, el apartado 1.e).1 por la disposición final 9.2 de la Ley 6/2017, de 24 de octubre. Ref. BOE-A-2017-12207#df-9
+ Se modifica el último párrafo del apartado 1.f) por la disposición final 3.12 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el último párrafo del apartado 1.f) por el art. 21.13 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se añaden los párrafos finales en el apartado 1.d) y e) y se modifica el apartado 3 por el art. 4.8 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se modifica el apartado 1, párrafo primero por la disposición final 6.4 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
+ Se añaden las letras e) y f) y un párrafo final al apartado 1 por el art. 6.4 del Real Decreto-ley 5/2011, de 29 de abril. Ref. BOE-A-2011-7972.
+ Se añade la letra d) al apartado 1, con efectos de 1 de enero de 2009 por la disposición final 8.2 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Téngase en cuenta que se declara inconstitucional la citada disposición final 8 que da redacción a la letra d) del apartado 1, con los efectos establecidos en el fundamento jurídico 3.h), por Sentencia del TC 206/2013, de 5 de diciembre. Ref. BOE-A-2014-223.
+ Se modifican las cuantías de los apartados 1, 2 y 4 por el art. único.1 a 3 del Real Decreto 306/2007, de 2 de marzo. Ref. BOE-A-2007-5742
+ Se modifica el primer párrafo del apartado 1 por la disposición final 1.4 de la Ley 40/2006, de 14 de diciembre. Ref. BOE-A-2006-21991
+ Se convierten a euros las cuantías contempladas en los apartados 1, 2 y 4 por los apartados 1, 2 y 3 de la Resolución de 16 de octubre de 2001. Ref. BOE-A-2001-20264
+
+### Artículo 41
+
+Artículo 41. Reincidencia.
+1. Existe reincidencia cuando se comete una infracción del mismo tipo y calificación que la que motivó una sanción anterior en el plazo de los 365 días siguientes a la notificación de ésta ; en tal supuesto se requerirá que la resolución sancionadora hubiere adquirido firmeza.
+2. Si se apreciase reincidencia, la cuantía de las sanciones consignadas en el artículo anterior podrá incrementarse hasta el duplo del grado de la sanción correspondiente a la infracción cometida, sin exceder, en ningún caso, de las cuantías máximas previstas en el artículo anterior para cada clase de infracción.
+3. La reincidencia de la empresa de trabajo temporal en la comisión de infracciones tipificadas como muy graves en esta Ley podrá dar lugar a la suspensión de sus actividades durante un año.
+Cuando el expediente sancionador lleve aparejada la propuesta de suspensión de actividades, será competente para resolver el Ministro de Trabajo y Asuntos Sociales o la autoridad equivalente de las Comunidades Autónomas con competencia de ejecución de la legislación laboral.
+Transcurrido el plazo de suspensión, la empresa de trabajo temporal deberá solicitar nuevamente autorización administrativa que le habilite para el ejercicio de la actividad.
+4. Sin perjuicio de lo dispuesto en los apartados anteriores la reincidencia de las empresas de trabajo temporal establecidas en otros Estados miembros de la Unión Europea o en Estados signatarios del Acuerdo sobre el Espacio Económico Europeo en la comisión de infracciones tipificadas como muy graves en el artículo 19 bis.2 de la presente Ley podrá dar lugar a la prohibición durante un año de la puesta a disposición de personas trabajadoras a empresas usuarias establecidas o que ejerzan su actividad en España o, si dicha sanción se impone en dos ocasiones, por tiempo indefinido.
+Cuando el expediente sancionador lleve aparejada la propuesta de prohibición a que se refiere el párrafo anterior será competente para resolver la persona titular del Ministerio de Trabajo y Economía Social o la autoridad equivalente de las Comunidades Autónomas con competencia de ejecución de la legislación laboral.
+Se añade el apartado 4 por el art. 13.5 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+
+## SECCIÓN 2
+
+Sección 2.ª Normas específicas
+
+## Subsección 1
+
+Subsección 1.ª Responsabilidades empresariales en materia laboral y de prevención de riesgos laborales
+
+### Artículo 42
+
+Artículo 42. Responsabilidad empresarial.
+1. Las infracciones a lo dispuesto en los artículos 42 a 44 del Estatuto de los Trabajadores determinarán la responsabilidad de los empresarios afectados en los términos allí establecidos.
+2. Las responsabilidades entre empresas de trabajo temporal y empresas usuarias en materia salarial se regirán por lo dispuesto en el artículo 16.3 de la Ley 14/ 1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal.
+3. La empresa principal responderá solidariamente con los contratistas y subcontratistas a que se refiere el apartado 3 del artículo 24 de la Ley de Prevención de Riesgos Laborales del cumplimiento, durante el período de la contrata, de las obligaciones impuestas por dicha Ley en relación con los trabajadores que aquéllos ocupen en los centros de trabajo de la empresa principal, siempre que la infracción se haya producido en el centro de trabajo de dicho empresario principal.
+En las relaciones de trabajo mediante empresas de trabajo temporal, y sin perjuicio de las responsabilidades propias de éstas, la empresa usuaria será responsable de las condiciones de ejecución del trabajo en todo lo relacionado con la protección de la seguridad y la salud de los trabajadores, así como del recargo de prestaciones económicas del sistema de Seguridad Social que puedan fijarse, en caso de accidente de trabajo o enfermedad profesional que tenga lugar en su centro de trabajo durante el tiempo de vigencia del contrato de puesta a disposición y traigan su causa de falta de medidas de seguridad e higiene.
+Los pactos que tengan por objeto la elusión, en fraude de ley, de las responsabilidades establecidas en este apartado son nulos y no producirán efecto alguno.
+4. Los sujetos a que se refiere el artículo 22.4 de la Ley 45/1999, de 29 de noviembre, sobre desplazamiento de trabajadores en el marco de una prestación de servicios transnacional responderán solidariamente con la empresa transportista de las infracciones previstas en el artículo 10 en lo que se refiere a la obligación de comunicar el desplazamiento en la forma prevista por el artículo 22.1 de dicha Ley.»
+5. La corrección de las infracciones en materia de prevención de riesgos laborales, en el ámbito de las Administraciones públicas se sujetará al procedimiento y normas de desarrollo del artículo 45.1 y concordantes de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+6. La declaración de hechos probados que contenga una sentencia firme del orden jurisdiccional contencioso-administrativo, relativa a la existencia de infracción a la normativa de prevención de riesgos laborales, vinculará al orden social de la jurisdicción, en lo que se refiere al recargo, en su caso, de la prestación económica del sistema de Seguridad Social.
+Se añade el apartado 4 y se renumeran los anteriores 4 y 5 como 5 y 6 por el art. 4.3 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#a4
+ Se añade el último párrafo al apartado 3 por el art. 14 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+## Subsección 2
+
+Subsección 2.ª Responsabilidades en materia de Seguridad Social
+
+### Artículo 43
+
+Artículo 43. Responsabilidades empresariales.
+1. Las sanciones que puedan imponerse a los distintos sujetos responsables, se entenderán sin perjuicio de las demás responsabilidades exigibles a los mismos, de acuerdo con los preceptos de la Ley General de la Seguridad Social y de sus disposiciones de aplicación y desarrollo.
+2. Las responsabilidades entre empresas de trabajo temporal y empresas usuarias en materia de Seguridad Social se regirán por lo dispuesto en el artículo 16.3 de la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal.
+3. En el caso de la infracción prevista en el artículo 23.1.c), la empresa responderá directamente de la devolución de las cantidades indebidamente percibidas por la persona trabajadora, siempre que no concurra dolo o culpa de esta.
+Se añade el apartado 3 por la disposición final 3.3 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df-3
+
+### Artículo 44
+
+Artículo 44. Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 35/2014, de 26 de diciembre. Ref. BOE-A-2014-13568.
+
+### Artículo 45
+
+Artículo 45. Sanciones a los empresarios que colaboren voluntariamente en la gestión.
+Con independencia de las sanciones que correspondan de acuerdo con el artículo 40.1, y siempre que las circunstancias del caso lo requieran, en beneficio de la corrección de deficiencias observadas en la propuesta elevada al órgano directivo responsable de la vigilancia, dirección y tutela de la Seguridad Social, se podrán aplicar, además, las siguientes sanciones:
+1. Suspensión temporal de la autorización para colaborar por plazo de hasta cinco años.
+2. Retirada definitiva de la autorización para colaborar con la pérdida de la condición de Entidad colaboradora.
+
+## Subsección 3
+
+Subsección 3.ª Sanciones accesorias a los empresarios, entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas en materia de empleo, ayudas de fomento del empleo, subvenciones y ayudas para la formación profesional para el empleo y protección por desempleo.
+Se modifica el título por la disposición final 3.13 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica el título por el art. 21.12 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Se modifica el título por el art. 46.19 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 46
+
+Artículo 46. Sanciones accesorias.
+1. Sin perjuicio de las sanciones a que se refiere el artículo 40.1 y, salvo lo establecido en el artículo 46 bis de esta ley, los empresarios que hayan cometido las infracciones graves previstas en los apartados 3 y 6 del artículo 15 o las infracciones muy graves tipificadas en los artículos 16 y 23 de esta ley, en materia de empleo, formación profesional para el empleo y protección por desempleo:
+a) Perderán, automáticamente, y de forma proporcional al número de trabajadores afectados por la infracción, las ayudas, bonificaciones y, en general, los beneficios derivados de la aplicación de los programas de empleo o formación profesional para el empleo, con efectos desde la fecha en que se cometió la infracción.
+La pérdida de estas ayudas, subvenciones, bonificaciones y beneficios derivados de la aplicación de los programas de empleo o formación profesional para el empleo afectará a los de mayor cuantía, con preferencia sobre los que la tuvieren menor en el momento de la comisión de la infracción. Este criterio ha de constar necesariamente en el acta de infracción, de forma motivada.
+b) Podrán ser excluidos del acceso a tales ayudas, subvenciones, bonificaciones y beneficios por un período máximo de dos años, con efectos desde la fecha de la resolución que imponga la sanción.
+Se excluirá en todo caso del acceso a tales ayudas, subvenciones, bonificaciones y beneficios por un periodo de cinco años, cuando la infracción cometida estuviera tipificada como muy grave en las letras d), e) y f) del apartado 1 del artículo 16 y en la letra h) del apartado 1 del artículo 23 de esta ley, con efectos desde la fecha de la resolución que imponga la sanción.
+c) En los supuestos previstos en las letras d), e) y f) del artículo 16.1, quedan obligados, en todo caso, a la devolución de las cantidades obtenidas indebidamente y las no aplicadas o aplicadas incorrectamente.
+2. Cuando la conducta del empresario dé lugar a la aplicación del tipo previsto en el artículo 22.2, con independencia del número de trabajadores afectados, se aplicarán las medidas previstas en las letras a) y b) del apartado anterior, si bien el plazo de exclusión previsto en la letra b) podrá ser de un año.
+En caso de reiteración de la conducta tipificada en el artículo 22.2, el plazo de exclusión podrá ampliarse a dos años. Se producirá la reiteración cuando entre la comisión de dicha infracción y la anterior no hayan transcurrido más de 365 días. A estos efectos, no tendrá la consideración de reiteración la conducta empresarial que dé lugar a una pluralidad de infracciones por afectar simultáneamente a más de un trabajador.
+2 bis. Cuando la sanción grave del artículo 15.5 se imponga en su grado máximo, podrá añadirse como sanción accesoria, a juicio del organismo competente, la suspensión de la actividad como agencia de colocación por un período de entre seis meses y un año. Asimismo, cuando las sanciones muy graves de las letras a) y c), así como d) y e) del artículo 16.1, en el caso de ser cometidas por agencias de colocación, se impongan en su grado máximo, podrán añadirse como sanciones accesorias la suspensión de la actividad como agencia de colocación por un período de entre uno y tres años, así como la imposibilidad de desempeñar la misma durante un período de cinco años.
+3. Como criterios de graduación se aplicarán los contenidos en el artículo 39.2 de esta Ley.
+Se añade el apartado 2 bis por la disposición final 1.6 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df
+ Se modifica la rúbrica y el apartado 1 por la disposición final 3.14 de la Ley 30/2015, de 9 de septiembre. Ref. BOE-A-2015-9734#dftercera.
+ Se modifica la rúbrica y el apartado 1 por el art. 21.14 del Real Decreto-ley 4/2015, de 22 de marzo. Ref. BOE-A-2015-3031#a21.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 91, de 16 de abril de 2015. Ref. BOE-A-2015-4092.
+ Se modifica por el art. 4.9 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se modifica el apartado 1 por el artículo 4 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
+ Se modifica por el art. 6.5 del Real Decreto-ley 5/2011, de 29 de abril. Ref. BOE-A-2011-7972.
+ Se modifica el párrafo primero por la disposición adicional 14.3 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+## Subsección 3 bis
+
+Subsección 3ª bis. Responsabilidades en materia de igualdad
+Se añade por la disposición adicional 14.4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+### Artículo 46 bis
+
+Artículo 46 bis. Responsabilidades empresariales específicas.
+1. Los empresarios que hayan cometido las infracciones muy graves tipificadas en los apartados 12, 13 y 13 bis) del artículo 8 y en el apartado 2 del artículo 16 de esta Ley serán sancionados, sin perjuicio de lo establecido en el apartado 1 del artículo 40, con las siguientes sanciones accesorias:
+a) Perderán, automáticamente, y de forma proporcional al número de trabajadores afectados por la infracción, las ayudas, bonificaciones y, en general, los beneficios derivados de la aplicación de los programas de empleo, con efectos desde la fecha en que se cometió la infracción.
+La pérdida de estas ayudas, bonificaciones y beneficios derivados de la aplicación de los programas de empleo afectará a los de mayor cuantía, con preferencia sobre los que la tuvieren menor en el momento de la comisión de la infracción. Este criterio ha de constar necesariamente en el acta de infracción de forma motivada.
+b) Podrán ser excluidos del acceso a tales beneficios por un período de seis meses a dos años en los supuestos contemplados en el apartado anterior, con efectos desde la fecha de la resolución que imponga la sanción.
+2. No obstante lo anterior, en el caso de las infracciones muy graves tipificadas en el apartado 12 del artículo 8 y en el apartado 2 del artículo 16 de esta Ley referidas a los supuestos de discriminación directa o indirecta por razón de sexo, las sanciones accesorias a las que se refiere el apartado anterior podrán ser sustituidas por la elaboración y aplicación de un plan de igualdad en la empresa, y siempre que la empresa no estuviere obligada a la elaboración de dicho plan en virtud de norma legal, reglamentaria o convencional, o decisión administrativa, si así se determina por la autoridad laboral competente previa solicitud de la empresa e informe preceptivo de la Inspección de Trabajo y Seguridad Social, en los términos que se establezcan reglamentariamente, suspendiéndose el plazo de prescripción de dichas sanciones accesorias.
+En el supuesto de que no se elabore o no se aplique el plan de igualdad o se haga incumpliendo manifiestamente los términos establecidos en la resolución de la autoridad laboral, ésta, a propuesta de la Inspección de Trabajo y Seguridad Social, sin perjuicio de la imposición de la sanción que corresponda por la comisión de la infracción tipificada en el apartado 17 del artículo 8, dejará sin efecto la sustitución de las sanciones accesorias, que se aplicarán de la siguiente forma:
+a) Pérdida automática, y de forma proporcional al número de trabajadores afectados por la infracción, de las ayudas, bonificaciones y beneficios a los que se refiere la letra a) del apartado anterior, con efectos desde la fecha en que se cometió la infracción.
+La pérdida de estas ayudas, bonificaciones y beneficios derivados de la aplicación de los programas de empleo afectará a los de mayor cuantía, con preferencia sobre los que la tuvieren menor en el momento de la comisión de la infracción. Este criterio ha de constar necesariamente en el acta de infracción de forma motivada.
+b) Exclusión del acceso a tales beneficios por un período de seis meses a dos años, a contar desde la fecha de la resolución de la autoridad laboral por la que se acuerda dejar sin efecto la suspensión y aplicar las sanciones accesorias.
+3. Como criterios de graduación se aplicarán los contenidos en el artículo 39.2 de esta Ley.
+Se modifica por el art. 4.10 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade por la disposición adicional 14.4 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
+
+## Subsección 4
+
+Subsección 4.ª Sanciones a los trabajadores, solicitantes y beneficiarios en materia de empleo y de Seguridad Social
+
+### Articulo 47
+
+Artículo 47. Sanciones a los trabajadores, solicitantes y beneficiarios.
+1. En el caso de los solicitantes y beneficiarios de pensiones o prestaciones de Seguridad Social, incluidas las de desempleo y la prestación por cese de actividad de los trabajadores autónomos, las infracciones se sancionarán:
+a) Las leves, con pérdida de la pensión o prestación durante un mes. En el caso de las prestaciones por desempleo de nivel contributivo o asistencial, las infracciones leves tipificadas en los apartados 2, 3 y 4 del artículo 24 se sancionarán conforme a la siguiente escala:
+1.ª infracción. Pérdida de un mes de prestaciones.
+2.ª infracción. Pérdida de tres meses de prestaciones.
+3.ª infracción. Pérdida de seis meses de prestaciones.
+4.ª infracción. Extinción de prestaciones.
+En el caso de la prestación por cese de actividad de los trabajadores autónomos, la infracción leve del artículo 24.3 se sancionará conforme a la siguiente escala:
+1.ª infracción. Pérdida de 15 días de prestación.
+2.ª infracción. Pérdida de 1 mes y 15 días de prestación.
+3.ª infracción. Pérdida de 3 meses de prestación.
+4.ª infracción. Extinción de la prestación.
+Se aplicarán estas escalas a partir de la primera infracción y cuando entre la comisión de una infracción leve y la anterior no hayan transcurrido más de los 365 días que establece el artículo 41.1 de esta Ley, con independencia del tipo de infracción.
+b) Las graves tipificadas en el artículo 25 con pérdida de la prestación o pensión durante un período de tres meses, salvo las de su número 2 en las prestaciones por incapacidad temporal, en las que la sanción será de extinción de la prestación.
+En el caso de las prestaciones por desempleo de nivel contributivo o asistencial las infracciones graves tipificadas en el artículo 25.3 y 4 se sancionarán conforme a la siguiente escala:
+1.ª Infracción. Pérdida de 3 meses de prestaciones.
+2.ª Infracción. Pérdida de 6 meses de prestaciones.
+3.ª Infracción. Extinción de prestaciones.
+En el caso de la prestación por cese de actividad de los trabajadores autónomos, la infracción grave tipificada en el artículo 25.4 b) se sancionará conforme a la siguiente escala:
+1.ª Infracción. Pérdida de 1 mes y 15 días de prestación.
+2.ª Infracción. Pérdida de 3 meses de prestación.
+3.ª Infracción. Extinción de la prestación.
+Se aplicarán estas escalas a partir de la primera infracción y cuando entre la comisión de una infracción grave y la anterior no hayan transcurrido más de los 365 días que establece el artículo 41.1 de esta ley, con independencia del tipo de infracción.
+c) Las muy graves, con pérdida de la pensión o prestaciones durante un período de seis meses, y en el caso de las prestaciones o subsidios por desempleo o de la prestación por cese de actividad del trabajador autónomo, con la extinción.
+Igualmente, se les podrá excluir del derecho a percibir cualquier prestación económica y, en su caso, ayuda de fomento de empleo durante un año, así como del derecho a participar durante ese período en formación profesional para el empleo.
+d) No obstante las sanciones anteriores, en el supuesto de que la trasgresión de las obligaciones afecte al cumplimiento y conservación de los requisitos que dan derecho a la prestación, podrá la entidad gestora suspender cautelarmente la misma hasta que la resolución administrativa sea definitiva.
+e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de quince días hábiles de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 276.2 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 271.1.h) de dicha Ley.
+Téngase en cuenta que la modificación del apartado 1.b) y e), establecida por la disposición final 2.5 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2, entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
+ Redacción anterior:
+ "b) Las graves tipificadas en el artículo 25 con pérdida de la prestación o pensión durante un período de tres meses, salvo las de sus números 2 y 3, respectivamente, en las prestaciones por incapacidad temporal y en las prestaciones y subsidios por desempleo, así como en la prestación por cese de actividad de los trabajadores autónomos, en las que la sanción será de extinción de la prestación.
+ En el caso de las prestaciones por desempleo de nivel contributivo o asistencial las infracciones graves tipificadas en el apartado 4 del artículo 25 se sancionarán conforme a la siguiente escala:
+ 1. Infracción. Pérdida de 3 meses de prestaciones.
+ 2. Infracción. Pérdida de 6 meses de prestaciones.
+ 3. Infracción. Extinción de prestaciones.
+ En el caso de la prestación por cese de actividad de los trabajadores autónomos, la infracción grave tipificada en el artículo 25.4 b) se sancionará conforme a la siguiente escala:
+ 1. Infracción. Pérdida de 1 mes y 15 días de prestación.
+ 2. Infracción. Pérdida de 3 meses de prestación.
+ 3. Infracción. Extinción de la prestación.
+ Se aplicarán estas escalas a partir de la primera infracción y cuando entre la comisión de una infracción grave y la anterior no hayan transcurrido más de los 365 días que establece el artículo 41.1 de esta Ley, con independencia del tipo de infracción."
+ "e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 219.4 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 212.3. de dicha Ley."
+2. En el caso de trabajadores por cuenta propia o ajena, y demandantes de empleo no solicitantes ni beneficiarios de prestaciones por desempleo, o de la prestación por cese de actividad del trabajador autónomo, las infracciones se sancionarán:
+a) En el caso de personas demandantes de servicios de empleo, no solicitantes ni beneficiarias de prestaciones por desempleo, las infracciones leves, graves y muy graves tipificadas en el artículo 17 se sancionarán con la suspensión de los derechos que les reconoce el artículo 56 de la Ley 3/2023, de 28 de febrero, de Empleo, durante uno, tres y seis meses respectivamente.
+No obstante lo establecido en el párrafo anterior, estos demandantes, cuando trabajen y queden en situación de desempleo, podrán bien inscribirse nuevamente en el Servicio Público de Empleo y, en ese caso, solicitar las prestaciones y subsidios por desempleo, o bien solicitar la prestación por cese de actividad, si reúnen los requisitos exigidos para ello.
+b) En el caso de trabajadores por cuenta propia o ajena que cometan las infracciones tipificadas en el artículo 17.3, se les excluirá del derecho a percibir ayudas de fomento de empleo y a participar en acciones formativas en materia de formación profesional ocupacional y continua durante seis meses.
+3. Las sanciones a que se refiere este artículo se entienden sin perjuicio del reintegro de las cantidades indebidamente percibidas.
+4. La imposición de las sanciones por las infracciones previstas en esta subsección se llevará a efecto de acuerdo con lo previsto en el artículo 48.4 y 5 de esta ley, respetando la competencia respectiva del órgano sancionador y estableciendo la cooperación necesaria para la ejecución de la sanción impuesta, cuando la misma corresponda a la competencia de otro órgano.
+Se modifica el apartado 1.b) y e) por la disposición final 2.5 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-2
+ Esta modificación entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
+ Se deja sin efecto la modificación del apartado 1.b) y e) por Resolución de 10 de enero de 2024 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
+ Se modifican las letras b) y e) del apartado 1 por la disposición final 1.5 y 6 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#df
+ Esta modificación entra en vigor el 1 de junio de 2024, según establece la disposición final 9.3 del citado Real Decreto-ley.
+ Se modifica el párrafo primero de la letra a) del apartado 2 por la disposición final 1.7 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df
+ Se modifica el primer párrafo de la letra a) y la letra c) del apartado 1 y el apartado 4 por el art. 8.4 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Se modifican los apartados 1.a), 1.c) y 4 por el art. 8.4 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Se modifica el apartado 1.a) y c) por el art. 4.11 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade la letra e) al apartado 1 por el art. 20.4 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifican los apartados 1 y 2 por la disposición adicional 2.9 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se modifica por el art. 46.16 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifcan las letras a) y b) del apartado 1 y el apartado 3 por el art. 5.7 de la Ley 45/2002, de 12 de diciembre. Ref. BOE-A-2002-24244
+ Se modifcan las letras a) y b) del apartado 1 y el apartado 3 por el art. 5.3 del Real Decreto-Ley 5/2002, de 24 de mayo. Ref. BOE-A-2002-10097
+ Redactado conforme a la corrección de errores publicada en BOE núm. 139, de 11 de junio de 2002. Ref. BOE-A-2002-11298
+ Téngase en cuenta que el citado Real Decreto-Ley se declara inconstitucional y nulo por Sentencia del TC 68/2007, de 28 de marzo. Ref. BOE-T-2007-8660
+ Se modifica el apartado 1.b) primer inciso por el art. 34.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 228, de 22 de septiembre de 2000. Ref. BOE-A-2000-17128
+
+## CAPÍTULO VII
+
+Disposiciones comunes
+
+### Artículo 48
+
+Artículo 48. Atribución de competencias sancionadoras.
+1. El ejercicio de la potestad sancionadora respecto de las infracciones del orden social en el ámbito de la Administración General del Estado corresponderá al órgano competente, según lo que reglamentariamente se disponga.
+2. El ejercicio de la potestad sancionadora respecto de las infracciones del orden social, cuando corresponda a la Administración de las Comunidades Autónomas con competencia en materia de ejecución de la legislación del orden social, se ejercerá por los órganos y con los límites de distribución que determine cada Comunidad Autónoma.
+3. La potestad para acordar las sanciones accesorias establecidas en esta ley corresponderá a quien la ostente para imponer las de carácter principal de las que deriven aquéllas.
+Téngase en cuenta que esta actualización establecida por la disposición final 1 de la Ley 23/2015, de 21 de julio. Ref. BOE-A-2015-8168#dfprimera. no será aplicable hasta que no entren en vigor las disposiciones reglamentarias que desarrollen el apartado 1 y continuará siendo de aplicación la regulación en materia de atribución de competencias sancionadoras existente con anterioridad, según determina la disposición transitoria 2 de la citada ley.
+ Redacción anterior:
+ "1. La competencia para sancionar las infracciones en el orden social, en el ámbito de la Administración General del Estado, corresponde, a propuesta de la Inspección de Trabajo y Seguridad Social, a la autoridad competente a nivel provincial, hasta 31.000 euros; al Director General competente, hasta 62.500 euros; al titular del Ministerio competente en materia de Empleo y Seguridad Social hasta 125.000 euros y al Consejo de Ministros, a propuesta del de Empleo y Seguridad Social, a partir de 125.001 euros.
+ 2. En el ámbito de las competencias de la Administración General del Estado, las infracciones en materia de prevención de riesgos laborales serán sancionadas, a propuesta de la Inspección de Trabajo y Seguridad Social, por la autoridad competente a nivel provincial, hasta 40.985 euros; por el Director General competente, hasta 123.000 euros; por el Ministro de Trabajo e Inmigración, hasta 409.900 euros, y por el Consejo de Ministros, a propuesta del de Trabajo e Inmigración, hasta 819.780 euros.
+ 3. Las infracciones en materia de cooperativas tipificadas en la presente Ley serán sancionadas, a propuesta de la Inspección de Trabajo y Seguridad Social, por el órgano directivo del que dependa el Registro de Sociedades Cooperativas, hasta 7.600 euros, y por el Ministro de Trabajo e Inmigración, hasta 37.920 euros y la descalificación.
+ 4. La imposición de las sanciones por infracciones leves y graves a los trabajadores en materia de empleo, formación profesional y ayudas para el fomento del empleo, corresponde al servicio público de empleo competente, y la de las muy graves a la autoridad competente, a propuesta de la Inspección de Trabajo y Seguridad Social.
+ 4 bis. La imposición de las sanciones por infracciones a los trabajadores autónomos o por cuenta propia, en los casos en que las mismas afecte a la prestación por cese en la actividad, corresponderá, a propuesta de la Inspección de Trabajo y Seguridad Social, según el órgano gestor a:
+ a) Si la gestión corresponde a un organismo público, la imposición de la sanción corresponderá al Servicio Público de Empleo Estatal o al Instituto Social de la Marina, según los casos.
+ b) Si la gestión corresponde a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, a la autoridad competente correspondiente a la provincia en que se haya procedido al reconocimiento de la protección.
+ 5. (Anulado)
+ 6. El ejercicio de la potestad sancionadora respecto de las infracciones del orden social, cuando corresponda a la Administración de las Comunidades Autónomas con competencia en materia de ejecución de la legislación del orden social, se ejercerá por los órganos y con los límites de distribución que determine cada Comunidad Autónoma.
+ 7. La atribución de competencias a que se refieren los apartados anteriores no afecta al ejercicio de la potestad sancionadora que pueda corresponder a otras Administraciones por razón de las competencias que tengan atribuidas.
+ 8. En los supuestos de acumulación de infracciones correspondientes a la misma materia en un solo procedimiento, será órgano competente para imponer la sanción por la totalidad de dichas infracciones, el que lo sea para imponer la de mayor cuantía, de conformidad con la atribución de competencias sancionadoras efectuada en los apartados anteriores.
+ 9. La potestad para acordar las sanciones accesorias establecidas en esta Ley corresponderá a quien la ostente para imponer las de carácter principal de las que deriven aquéllas."
+Se modifica por la disposición final 1 de la Ley 23/2015, de 21 de julio. Ref. BOE-A-2015-8168#dfprimera.
+ Téngase en cuenta para su aplicación la disposición transitoria 2 de la citada ley.
+ Se modifica el apartado 5 por el art. 8.5 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+ Téngase en cuenta que el apartado 5 queda anulado al declararse inconstitucional y nulo el art. 8.5 de la citada Ley, con los efectos señalados en el fj5, por Sentencia del TC 272/2015, de 17 de diciembre. Ref. BOE-A-2016-633.
+ Se modifica el apartado 5 por el art. 8.5 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
+ Téngase en cuenta que se declara inconstitucional y nulo el art. 8.5 del citado Real Decreto-ley por Sentencia del TC 27/2015, de 19 de febrero. Ref. BOE-A-2015-2828.
+ Se declara inconstitucional y nulo, con los efectos señalados en el fundamento jurídico 4, el tercer párrafo del apartado 4 en la redacción que le daba el art. 46.17 de la Ley 62/2003, (actual segundo párrafo del apartato 5), por la Sentencia del TC 104/2013, de 25 de abril de 2013. Ref. BOE-A-2013-5447.
+ Se modifica el apartado 1 por el art. 4.12 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
+ Se añade el apartado 4 bis por la disposición adicional 2.10 de la Ley 32/2010, de 5 de agosto. Ref. BOE-A-2010-12616
+ Se modifica por la disposición final 12 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se modifican los apartados 1, 2 y 3 por la disposición final 1 de la Ley 38/2007, de 16 de noviembre. Ref. BOE-A-2007-19815
+ Se modifica el párrafo primero del apartado 4 por el art. 46.17 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 49
+
+Artículo 49. Actuaciones de advertencia y recomendación.
+No obstante lo dispuesto en el artículo anterior, la Inspección de Trabajo y Seguridad Social, de conformidad con lo previsto en los artículos 17.2 del Convenio 81 de la OIT y 22.2 del Convenio 129 de la OIT, ratificados por el Estado español por Instrumentos de 14 de enero de 1960 y 11 de marzo de 1971, respectivamente, cuando las circunstancias del caso así lo aconsejen y siempre que no se deriven daños ni perjuicios directos a los trabajadores, podrá advertir y aconsejar, en vez de iniciar un procedimiento sancionador ; en estos supuestos dará cuenta de sus actuaciones a la autoridad laboral competente.
+
+### Artículo 50
+
+Artículo 50. Infracciones por obstrucción a la labor inspectora.
+1. Las infracciones por obstrucción a la labor inspectora se califican como leves, graves y muy graves, en atención a la naturaleza del deber de colaboración infringido y de la entidad y consecuencias de la acción u omisión obstructora sobre la actuación de la Inspección de Trabajo y Seguridad Social, conforme se describe en los números siguientes.
+2. Las acciones u omisiones que perturben, retrasen o impidan el ejercicio de las funciones que, en orden a la vigilancia del cumplimiento de las disposiciones legales, reglamentarias y convenios colectivos tienen encomendadas los Inspectores de Trabajo y Seguridad Social y los Subinspectores de Empleo y Seguridad Social, serán constitutivas de obstrucción a la labor inspectora que se calificarán como graves, excepto los supuestos comprendidos en los apartados 3 y 4 de este artículo.
+Tendrán la misma consideración las conductas señaladas en el párrafo anterior que afecten al ejercicio de los cometidos asignados a los funcionarios públicos a que se refiere el artículo 9.2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en sus actuaciones de comprobación en apoyo de la Inspección de Trabajo y Seguridad Social.
+3. Son infracciones leves:
+a) Las que impliquen un mero retraso en el cumplimiento de las obligaciones de información, comunicación o comparecencia, salvo que dichas obligaciones sean requeridas en el curso de una visita de inspección y estén referidas a documentos o información que deban obrar o facilitarse en el centro de trabajo.
+b) La falta del Libro de Visitas de la Inspección de Trabajo y Seguridad Social en el centro de trabajo.
+4. Se calificarán como infracciones muy graves:
+a) Las acciones u omisiones del empresario, sus representantes o personas de su ámbito organizativo, que tengan por objeto impedir la entrada o permanencia en el centro de trabajo de los Inspectores de Trabajo y Seguridad Social y de los Subinspectores de Empleo y Seguridad Social, así como la negativa a identificarse o a identificar o dar razón de su presencia sobre las personas que se encuentren en dicho centro realizando cualquier actividad.
+b) Los supuestos de coacción, amenaza o violencia ejercida sobre los Inspectores de Trabajo y Seguridad Social y los Subinspectores de Empleo y Seguridad Social así como la reiteración en las conductas de obstrucción calificadas como graves.
+c) El incumplimiento de los deberes de colaboración con los funcionarios del sistema de Inspección de Trabajo y Seguridad Social en los términos establecidos en el artículo 11.2 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+d) El incumplimiento del deber de colaboración con los funcionarios del sistema de la Inspección de Trabajo y Seguridad Social al no entregar el empresario en soporte informático la información requerida para el control de sus obligaciones en materia de régimen económico de la Seguridad Social, cuando esté obligado o acogido a la transmisión electrónica de liquidaciones de cuotas o de datos de cotización.
+5. Las obstrucciones a la actuación inspectora serán sancionadas conforme a lo establecido en la presente Ley, por la autoridad competente en cada caso en función del orden material de actuación del que traiga causa o se derive la obstrucción.
+6. Sin perjuicio de lo anterior, en caso necesario la Inspección de Trabajo y Seguridad Social podrá recabar de la autoridad competente o de sus agentes el auxilio oportuno para el normal ejercicio de sus funciones.
+Se modifica el apartado 4.d) por el art. 2.5 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
+ Se añade la letra d) al apartado 4 por el art. 46.18 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade el último párrafo al apartado 2 por el art. 15 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+## CAPÍTULO VIII
+
+Procedimiento sancionador
+
+### Artículo 51
+
+Artículo 51. Normativa aplicable.
+1. Corresponde al Gobierno dictar el Reglamento de procedimiento especial para la imposición de sanciones del orden social.
+2. El procedimiento sancionador, común a todas las Administraciones públicas, se ajustará a lo previsto en la presente Ley y en la disposición adicional cuarta de la Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social, siendo de aplicación subsidiaria las disposiciones de la Ley 30/1992, de 26 de noviembre, que regula el Régimen Jurídico de las Administraciones Públicas y el Procedimiento Administrativo Común.
+
+### Artículo 52
+
+Artículo 52. Principios de tramitación.
+1. El procedimiento se ajustará a los siguientes trámites:
+a) Se iniciará, siempre de oficio, por acta de la Inspección de Trabajo y Seguridad Social, en virtud de actuaciones practicadas de oficio, por propia iniciativa o mediante denuncia, o a instancia de persona interesada.
+En el supuesto de empresas establecidas en España que desplacen temporalmente a sus personas trabajadoras al territorio de Estados miembros de la Unión Europea o de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo en el marco de una prestación de servicios transnacional, también podrá iniciarse de oficio el procedimiento sancionador mediante acta de la Inspección de Trabajo y Seguridad Social en virtud de actuaciones derivadas de comunicación de las Administraciones públicas a las que corresponda en el lugar de desplazamiento la vigilancia del cumplimiento de las condiciones de trabajo.
+b) El acta será notificada por la citada Inspección al sujeto o sujetos responsables, que dispondrá de un plazo de quince días para formular las alegaciones que estime pertinentes en defensa de su derecho, ante el órgano competente para dictar resolución.
+c) Transcurrido el indicado plazo y previas las diligencias necesarias, si se hubieren formulado alegaciones se dará nueva audiencia al interesado por término de ocho días, siempre que de las diligencias practicadas se desprenda la existencia de hechos distintos a los incorporados en el acta.
+d) A la vista de lo actuado, por el órgano competente se dictará la resolución correspondiente.
+2. El procedimiento para la imposición de sanciones por infracciones leves y graves, a que se refiere el artículo 48.4 de esta Ley, se iniciará de oficio por la correspondiente entidad o por comunicación a la misma de la Inspección de Trabajo y Seguridad Social; la entidad o el órgano correspondiente de la Comunidad Autónoma notificarán los cargos al interesado, dándole audiencia, todo ello con sujeción al procedimiento que reglamentariamente se establezca.
+3. Asimismo, el Ministerio Fiscal deberá notificar, en todo caso, a la autoridad laboral y a la Inspección de Trabajo y Seguridad Social la existencia de un procedimiento penal sobre hechos que puedan resultar constitutivos de infracción. Dicha notificación producirá la paralización del procedimiento hasta el momento en que el Ministerio Fiscal notifique a la autoridad laboral la firmeza de la sentencia o auto de sobreseimiento dictado por la autoridad judicial.
+Se modifica el apartado 1.a) por el art. 13.6 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
+ Se añade el apartado 3 por el art. 16 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 228, de 22 de septiembre de 2000. Ref. BOE-A-2000-17128
+
+### Artículo 53
+
+Artículo 53. Contenido de las actas y de los documentos iniciadores del expediente.
+1. Las actas de infracción de la Inspección de Trabajo y Seguridad Social, reflejarán:
+a) Los hechos constatados por el Inspector de Trabajo y Seguridad Social o Subinspector de Empleo y Seguridad Social actuante, que motivaron el acta, destacando los relevantes a efectos de la determinación y tipificación de la infracción y de la graduación de la sanción.
+En el caso de actas extendidas en el marco de actuaciones administrativas automatizadas, los hechos constitutivos de la infracción cometida».
+b) La infracción que se impute, con expresión del precepto vulnerado.
+c) La calificación de la infracción, en su caso la graduación de la sanción, la propuesta de sanción y su cuantificación.
+d) En los supuestos en que exista posible responsable solidario, se hará constar tal circunstancia, la fundamentación jurídica de dicha responsabilidad y los mismos datos exigidos para el responsable principal.
+2. Los hechos constatados por los referidos funcionarios de la Inspección de Trabajo y Seguridad Social que se formalicen en las actas de infracción observando los requisitos establecidos en el apartado anterior, tendrán presunción de certeza, sin perjuicio de las pruebas que en defensa de los respectivos derechos e intereses puedan aportar los interesados.
+El mismo valor probatorio se atribuye a los hechos reseñados en informes emitidos por la Inspección de Trabajo y Seguridad Social, en los supuestos concretos a que se refiere la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, consecuentes a comprobaciones efectuadas por la misma, sin perjuicio de su contradicción por los interesados en la forma que determinen las normas procedimentales aplicables.
+3. Las actas de liquidación de cuotas de la Seguridad Social y las actas de infracción en dicha materia, cuando se refieran a los mismos hechos, se practicarán simultáneamente por la Inspección de Trabajo y Seguridad Social y se tramitarán conforme al procedimiento establecido en la correspondiente normativa.
+4. En los documentos de inicio de expedientes sancionadores por las entidades gestoras o servicios correspondientes de las Comunidades Autónomas, se comunicarán a los interesados los hechos u omisiones que se les imputen, la infracción presuntamente cometida, su calificación y la sanción propuesta, con expresión del plazo para que puedan formular alegaciones.
+5. Cuando el acta de infracción se practique como consecuencia de informe emitido por los funcionarios técnicos a que se refiere el artículo 9.2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, se incorporará a su texto el relato de hechos del correspondiente informe así como los demás datos relevantes de éste, con el carácter señalado en el artículo 9.3 de la citada ley.
+La Inspección de Trabajo y Seguridad Social recabará de los funcionarios públicos referidos la subsanación de sus informes cuando considere que el relato de hechos contenido es insuficiente a efectos sancionadores, procediendo a su archivo si no se subsanase en término de 15 días y sin perjuicio de nuevas comprobaciones.
+Se modifica el apartado 1 por la disposición final 4 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#df-4
+ Se añade el apartado 5 por el art. 17 de la Ley 54/2003, de 12 de diciembre. Ref. BOE-A-2003-22861
+
+### Artículo 54
+
+Artículo 54. Recursos.
+Contra las resoluciones recaídas en los procedimientos sancionadores se podrán interponer los recursos administrativos y jurisdiccionales que legalmente procedan.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Actualización del importe de las sanciones.
+La cuantía de las sanciones establecidas en el artículo 40 de la presente Ley podrá ser actualizada periódicamente por el Gobierno, a propuesta del Ministro de Trabajo y Asuntos Sociales, teniendo en cuenta la variación de los índices de precios al consumo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Cuerpo Superior de Inspectores de Trabajo y Seguridad Social.
+La disposición adicional tercera de la Ley 8/1988, de 7 de abril, en su redacción vigente, quedará derogada en cada territorio autonómico cuando se logre el respectivo acuerdo con cada Comunidad Autónoma a que se refiere el artículo 17 de la Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social, de conformidad con lo previsto en el apartado dos de su disposición derogatoria.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Competencia sancionadora en materia de prestaciones por desempleo
+Lo dispuesto en el apartado 4 del artículo 48 de esta ley se entiende sin perjuicio de las funciones en materia de empleo delimitadas por los reales decretos de traspasos a las comunidades autónomas de la gestión realizada por el Instituto Nacional de Empleo en materia de trabajo, empleo y formación, así como de la coordinación entre los servicios públicos de empleo de las comunidades autónomas y la entidad gestora de las prestaciones por desempleo.
+La coordinación a la que se refiere el párrafo anterior se llevará a cabo en la Comisión de Coordinación y Seguimiento, de composición paritaria, contemplada en los reales decretos de traspasos a las comunidades autónomas de la gestión realizada por el Instituto Nacional de Empleo en materia de trabajo, empleo y formación, y constituida para la coordinación de la gestión del empleo y la gestión de las prestaciones por desempleo, sin perjuicio de los convenios que a tal efecto pudieran suscribirse entre los órganos y entidades competentes del Estado y de las comunidades autónomas.
+Se añade por el art. 46.15 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley.
+2. Quedan expresamente derogadas las siguientes disposiciones:
+a) Ley 8/1988, de 7 de abril, sobre Infracciones y Sanciones en el Orden Social, sin perjuicio de lo dispuesto en la disposición adicional segunda de la presente Ley.
+b) De la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto legislativo 1/1995, de 24 de marzo, el Título IV, artículos 93 a 97.
+c) De la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, los apartados 2, 4 y 5 del artículo 42, y del artículo 45, excepto los párrafos tercero y cuarto de su apartado 1, al 52.
+d) De la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal, el capítulo V, artículos 18 a 21.
+e) De la Ley 10/1997, de 24 de abril, sobre derechos de información y consulta de los trabajadores en las empresas y grupos de dimensión comunitaria, el capítulo I del Título III, artículos 30 a 34.
+f) De la Ley 27/1999, de 16 de julio, de Cooperativas, los artículos 114 y 115.
+g) De la Ley 45/1999, de 29 de noviembre, sobre el desplazamiento de trabajadores en el marco de la prestación de servicios transnacionales, los artículos 10 a 13.
+3. Las referencias contenidas en la normativa vigente a las disposiciones y preceptos que se derogan expresamente en el apartado anterior deberán entenderse efectuadas a la presente Ley y a los preceptos de ésta que regulan la misma materia.
+Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 228, de 22 de septiembre de 2000. Ref. BOE-A-2000-17128
+
+### Disposición final única
+
+Disposición final única. Carácter de esta Ley.
+La presente Ley, así como sus normas reglamentarias de desarrollo, constituyen legislación dictada al amparo del artículo 149.1.2.ª, 7.ª, 17.ª y 18.ª de la Constitución Española.

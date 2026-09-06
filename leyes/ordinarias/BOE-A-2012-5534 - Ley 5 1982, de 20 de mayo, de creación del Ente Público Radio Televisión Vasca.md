@@ -1,0 +1,460 @@
+# Ley 5/1982, de 20 de mayo, de creación del Ente Público Radio Televisión Vasca.
+
+- Identificador BOE: `BOE-A-2012-5534`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-5534
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 5/1982, de 20 de mayo, de creación del Ente Público «Radio Televisión Vasca». Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden hagan guardarla.
+Vitoria-Gasteiz, 20 de mayo de 1982.–Carlos Garaikoetxea Urriza.
+PREÁMBULO
+La Comunidad Autónoma del País Vasco, de conformidad con lo dispuesto en el artículo 19 de su Estatuto de Autonomía, tiene competencia para regular mediante Ley del Parlamento Vasco cuanto dice en relación con los medios de radiodifusión y de televisión, desarrollando el régimen básico aprobado por Ley de 10 de enero de 1980, núm. 4/80.
+En el ejercicio de dicha competencia y respetando el concepto de servicio público esencial, se configuran en la presente Ley los medios de comunicación social a los que la misma se refiere como instrumento capital para la información y participación política de los ciudadanos vascos, así como medio fundamental de cooperación con nuestro propio sistema educativo y de fomento y difusión de la cultura vasca, teniendo muy presente el fomento y desarrollo del euskera, todo ello como base y fundamento para el adecuado desenvolvimiento de los derechos y libertades de los ciudadanos de esta Comunidad Autónoma.
+Inspirada en los principios que someramente quedan expuestos, la presente Ley no sólo respeta los criterios básicos generales sino que además normativiza el derecho de réplica, completando de modo congruente aquel régimen básico al que nos hemos referido, estableciendo, en suma, una estructura congruente con las finalidades que trata de alcanzar el texto legal mediante los pertinentes instrumentos jurídicos al efecto.
+
+## CAPÍTULO I
+
+Naturaleza del Ente Público «Radio Televisión Vasca»
+
+### Artículo 1
+
+Artículo 1.
+1. Las funciones que corresponden a la Comunidad Autónoma, como titular de los servicios de radio-difusión y televisión a que se refiere la presente Ley, se ejercerán a través del Ente Público «Radio Televisión Vasca».
+2. El Ente Público de la Radio Televisión Vasca está dotado de personalidad jurídica propia, se rige por las disposiciones contenidas en la presente Ley y las disposiciones reglamentarias que la desarrollen, sin perjuicio de lo que disponga, en cada caso concreto, la ley que conceda a la Comunidad Autónoma la gestión directa de un canal de televisión de titularidad estatal y las obligaciones y derechos que deriven de las concesiones de frecuencias y potencias.
+3. En sus relaciones jurídicas externas, adquisiciones patrimoniales y contratación, estará sujeto, sin más excepciones que las previstas en la presente Ley, al Derecho mercantil y civil, sin excepción en cuanto a los actos separables y al régimen de responsabilidad contractual y/o extracontractual.
+
+## CAPÍTULO II
+
+Principios generales y ámbito de aplicación
+
+### Artículo 2
+
+Artículo 2.
+Los Poderes Públicos de la Comunidad Autónoma y los órganos del Ente Público velarán por la defensa de la libertad de expresión, el derecho a comunicar y recibir libremente información de modo que los medios de comunicación puedan cumplir su cometido conforme a las exigencias de una Sociedad democrática.
+
+### Artículo 3
+
+Artículo 3.
+La actividad de los medios de comunicación social cuya titularidad corresponda a la Comunidad Autónoma se basará en los siguientes principios:
+a) La objetividad, veracidad e imparcialidad de las informaciones.
+b) La distinción y separación entre información y opinión, requiriendo esta última la identificación de quienes la manifiestan. Igual tratamiento diferenciado y separado requerirá la publicidad comercial.
+c) El respeto al principio de igualdad, al pluralismo político, religioso, social, cultural y lingüístico.
+d) La defensa y promoción de los valores cívicos de la convivencia reconocidos en la Constitución y en el Estatuto de Autonomía, en defensa del interés general.
+e) El respeto a cuantos derechos reconoce la Constitución y el Estatuto de Autonomía.
+f) El respeto al honor, la fama de las personas y, en particular, al derecho a la intimidad y la propia imagen.
+g) La protección y promoción de la juventud y de la infancia.
+h) La promoción de la Cultura y lengua vasca, estableciendo a efectos de la utilización del euskera, los principios básicos de programación, teniendo presente la necesidad de equilibrio a nivel de oferta global de emisiones radiotelevisivas en lengua vasca en la Comunidad Autónoma.
+
+### Artículo 4
+
+Artículo 4.
+1. Para el debido cumplimiento de los principios de los artículos 2.º y 3.º de la presente Ley y de las obligaciones impuestas a los poderes públicos por el artículo 9.2 del Estatuto de Autonomía para el País Vasco, se tenderá a evitar todo programa que pueda suponer:
+a) La exaltación o apología de hechos o conductas atentatorias a la vida, la libertad y la igualdad de los individuos o los grupos.
+b) La presentación favorable o la apología de conductas legal o socialmente reprobables.
+2. La publicidad y los programas dirigidos a los niños deberán reunir las condiciones establecidas en la Ley sobre el «Estatuto del Consumidor».
+3. Queda prohibida la captación de palabra o imagen de toda persona violando la intimidad en un lugar privado y sin su consentimiento, así como la divulgación o conservación de todo tipo de documentos relacionados con dicha captación. Igualmente queda prohibida la información pública de los nombre de menores que delincan.
+
+## CAPÍTULO III
+
+Organización y control parlamentario
+
+## Sección primera
+
+### Artículo 5
+
+Artículo 5.
+Son órganos del Ente Público "Radio Televisión Vasca".
+a) El Consejo de Administración.
+b) El Director General
+Se modifica por el art. 1 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+## Sección segunda
+
+Sección segunda. Del Consejo de Administración
+
+### Artículo 6
+
+Artículo 6.
+1. El Consejo de Administración se compone de diecinueve miembros que serán designados por el Parlamento en la forma que establece esta Ley.
+2. El cargo de Consejero será incompatible con:
+a) Cualquier clase de vinculación profesional, directa o indirecta, con cualquier tipo de sociedades privadas que incluyan entre sus actividades, sean principales o accesorias, la producción o distribución de publicidad; producción y distribución de películas cinematográficas, incluidos cortometrajes; producción de programas filmados o grabados en magnetoscopio; producción de discos, cintas magnetofónicas o similares, así como las dedicadas a la producción, suministro o dotación de equipos, material o cualquier tipo de componentes que sean o puedan ser utilizados en las distintas Empresas o Sociedades sobre las que ejerza sus funciones el Ente Público regulado en la presente Ley.
+b) Cualquier relación de servicios o relación laboral en activo con el Ente Público o sus Sociedades.
+Se modifica por el art. 2 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 7
+
+Artículo 7.
+1. La designación de quince miembros del Consejo de Administración se realizará de acuerdo con las distintas propuestas que los grupos Parlamentarios presenten ante la Mesa del Parlamento.
+2. La designación de cuatro miembros del Consejo de Administración deberá recaer en alguna de las personas que figuren en las distintas propuestas que presenten ante la Mesa del Parlamento las siguientes entidades y asociaciones:
+a) la Real Academia de la Lengua Vasca,
+b) la Sociedad de Estudios Vascos,
+c) la Real Sociedad Bascongada de Amigos del País,
+d) la Universidad del País Vasco,
+e) los sindicatos que en el momento de emitir la propuesta ostenten la condición de más representativos de la Comunidad Autónoma,
+f) las federaciones de asociaciones de consumidores de la Comunidad Autónoma del País Vasco.
+3. La designación de los miembros de Consejo de Administración requerirá acuerdo de la mayoría de dos tercios de los votos emitidos.
+Se modifica por el art. 3 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+ Véase la disposición transitoria 1 de la citada ley.
+
+### Artículo 7 bis
+
+Artículo 7 bis.
+1. El Consejo de Administración se constituirá en el plazo de un mes desde que fueran designados sus miembros, que tomarán posesión en un solo acto.
+2. Los miembros del Consejo de Administración cesarán en sus cargos al término de la correspondiente legislatura o cuando sean cesados por el órgano que los eligió, aunque seguirán ejerciendo sus funciones hasta la toma de posesión de los nuevos vocales. Para el cese se requerirá la misma mayoría que para el nombramiento.
+3. Las posibles vacantes que se produjesen, por cualquier causa, durante el mandato del Consejo de Administración serán proveídas conforme a los sistemas previstos para su designación con la mayoría establecida en el apartado 3 del artículo 7.
+4. Podrá determinarse el cese de un miembro del Consejo de Administración por el órgano que lo nombró cuando concurra alguna de las causas siguientes:
+a) Imposibilidad física o enfermedad superior en su duración a seis meses continuos.
+b) Incompetencia manifiesta o actuación contraria a los criterios, principios u objetivos a los que se refiere la presente ley.
+c) Condena por delito doloso.
+d) Pérdida de representatividad hacia el órgano que lo nombró.
+Se añade por el art. 4 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 8
+
+Artículo 8.
+1. Para la válida constitución en sesión del Consejo de Administración será necesaria la presencia de la mitad más uno de sus miembros de pleno derecho.
+Los acuerdos del Consejo se adoptarán por mayoría de los miembros presentes en la reunión, con las excepciones a que hace referencia el apartado 2 del presente artículo.
+2. Se requerirá mayoría de dos tercios de los miembros del Consejo de Administración para los asuntos siguientes:
+a) Aprobación, a propuesta del Director General, del plan de actividades del Ente Público, en el que se recogerán, con el suficiente grado de detalle, como mínimo, los principios básicos y las líneas generales de la programación, así como el plan de actuación de las distintas Sociedades del Ente Público. En el caso de que en el plazo de un mes, a contar de la fecha de la reunión en que se debata por primera vez el plan de actividades, éste no hubiese obtenido la mayoría cualificada, bastará para su aprobación la mayoría absoluta de los miembros del Consejo.
+b) Aprobar, con carácter definitivo, las plantillas del Ente Público y sus modificaciones, así como las de sus Sociedades. A tal efecto se acompañará la correspondiente memoria justificativa.
+c) Establecer los criterios generales para la negociación colectiva y aprobar el régimen de retribuciones del personal del Ente Público y de sus Sociedades.
+d) Aprobar la propuesta de presupuesto del Ente Público y sus Sociedades. En el caso de que no se alcanzara en primera votación el acuerdo por la mayoría cualificada establecida en el párrafo primero del presente apartado, el anteproyecto de presupuesto se remitirá al Gobierno en el plazo legal, haciendo constar el sentido del voto de cada uno de los miembros del Consejo de Administración.
+e) Determinar semestralmente el porcentaje de programación destinado a los grupos políticos y analizar el correspondiente a los grupos sociales, respetando el pluralismo de la Sociedad y de las lenguas oficiales de la Comunidad Autónoma.
+f) Aprobar y modificar el reglamento de funcionamiento del Consejo de Administración.
+Se modifica por el art. 5 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+ Se deroga la letra a) del apartado 2 por la disposición derogatoria de la Ley 4/1996, de 11 de octubre. Ref. BOE-A-2012-867
+
+### Artículo 9
+
+Artículo 9.
+1. Igualmente es competencia del Consejo de Administración:
+a) Velar por el cumplimiento de la programación de acuerdo con lo dispuesto en el capítulo segundo de la presente Ley.
+b) Conocer la propuesta de nombramiento de los Directores de las Sociedades y Empresas que dependen del Ente Público, informar sobre la misma, en el plazo de un mes desde su conocimiento, y recibir la notificación previa de cese de aquéllos.
+c) Aprobar la Memoria anual relativa al desarrollo de las actividades del Ente Público y de las Sociedades y Empresas que de él dependen.
+d) Informar los proyectos de disposiciones que en materia de publicidad se proponga dictar el Gobierno Vasco.
+e) Establecer las normas reguladoras respecto a la emisión de publicidad a través de las Sociedades del Ente Público, teniendo presente el control de calidad de aquélla, el contenido de los mensajes publicitarios y la adecuación del tiempo de publicidad a la programación y a las necesidades de los medios de comunicación social integrados en aquél.
+f) Determinar anualmente el porcentaje de producción propia que deberá incluirse en la programación de cada medio.
+g) Conocer aquellas cuestiones que, aun no señaladas expresamente en sus competencias, el Director General del Ente Público someta a su consideración.
+2. Los acuerdos a que pueda dar lugar el ejercicio de las facultades del presente artículo se adoptarán por mayoría simple de presentes.
+Se modifica por el art. 6 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 10
+
+Artículo 10.
+1. La Presidencia del Consejo de Administración será rotativa entre los miembros que lo integran. Tendrá una duración trimestral, y se iniciará por el miembro de más edad, continuando el turno de rotación por el miembro que después del Presidente alcanzara la mayor edad, siendo éste el criterio que se aplicará para la rotación sucesiva.
+2. Si en el transcurso de la legislatura se tuviera que proceder a la sustitución de algún vocal, el sustituto, a efectos de la Presidencia rotativa, se colocará en el lugar que correspondiera al sustituido.
+3. Además de las funciones protocolarias y las que como Presidente de un órgano colegiado correspondan al Presidente del Consejo de Administración, éste será el Defensor del Espectador y deberá recibir, tramitar y responder cuantas quejas, sugerencias y propuestas le puedan dirigir los ciudadanos en relación a las funciones atribuidas al Ente Público y sus Sociedades, en los términos que se establezcan reglamentariamente.
+Se modifica por el art. 7 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 11
+
+Artículo 11.
+1. El Consejo de Administración designará de entre los empleados del Ente Público un Secretario de Actas, sin voz ni voto, que tendrá la obligación de redactar el acta de cada reunión, que será aprobada, en cuanto a su redacción, al final de cada reunión y transcrita en un libro de actas, especialmente habilitado al efecto.
+2. El Secretario, con el visto bueno del Presidente, podrá expedir certificaciones de los acuerdos adoptados.
+3. El Secretario de Actas estará obligado a la custodia del libro de actas, el cual se conservará siempre en la sede del Ente Público, sin que pueda ser sacado de ella sin expresa autorización escrita del Presidente del Consejo de Administración.
+4. Asimismo el Secretario de Actas guardará y conservará en la sede del Ente Público el sello en seco del mismo que sólo podrá ser utilizado en los documentos oficiales del Ente Público, siempre que así lo ordene el Presidente del Consejo de Administración.
+
+### Artículo 12
+
+Artículo 12.
+El Consejo de Administración celebrará, al menos, una reunión al mes, en la Sede del Ente Público o en el lugar que se señala en la convocatoria, y con carácter extraordinario, cuantas veces sea necesario, de acuerdo con el artículo siguiente.
+
+### Artículo 13
+
+Artículo 13.
+1. Corresponde al Presidente la convocatoria del Consejo de Administración, mediante escrito en el que se consigne el Orden del día y el lugar, día y hora en que tendrá lugar la reunión.
+2. El Presidente convocará obligatoriamente el Consejo a requerimiento de, al menos, ocho miembros titulares del mismo, mediante solicitud escrita en la que se establezcan los puntos concretos objeto de la convocatoria extraordinaria.
+3. No obstante lo previsto en los apartados anteriores de este artículo, en los casos de urgente y extraordinaria necesidad, apreciable libremente por el Presidente, éste podrá convocar la reunión del Consejo por medio de telegrama, en el cual se incluirán los extremos que debe reunir la convocatoria, previstos en el apartado 1 de este artículo.
+4. El Consejo de Administración podrá tratar cuestiones distintas de las incluidas en el Orden del Día si así se acuerda por la mayoría simple de presentes. No obstante, la aprobación de dichas cuestiones requerirá la unanimidad de los miembros presentes en la reunión.
+Se modifica por el art. 8 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 14
+
+Artículo 14.
+1. A las reuniones del Consejo de Administración asistirá, con voz y voto, el Director General del Ente Público sin que pueda intervenir ni votar en las cuestiones que le afecten personalmente.
+2. Asimismo, podrán asistir, a los solos fines de informar al Consejo en los casos en que aquél lo acuerde por mayoría simple de miembros presentes, los técnicos cuyo asesoramiento solicite el Consejo.
+Se modifica por el art. 9 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+## Sección tercera
+
+Sección tercera. De los Consejos Asesores
+
+### Artículo 15
+
+Artículo 15.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+## Sección cuarta
+
+Sección cuarta. Director General
+
+### Artículo 16
+
+Artículo 16.
+1. El Director General será elegido por el Parlamento, a propuesta del Gobierno, que deberá ser aprobada con el voto favorable de, al menos, la mitad más uno de los parlamentarios. Producida la elección, el Director General será nombrado por decreto del Lehendakari.
+2. Serán funciones del Director General:
+a) Cumplir y hacer cumplir lo dispuesto en la presente ley y en las disposiciones normativas que la desarrollen, y, en su caso, las que como derecho básico o supletorio sean de aplicación o de obligado cumplimiento.
+b) Cumplir y hacer cumplir los acuerdos del consejo de administración en las materias que sean de competencia de este órgano.
+c) Someter a la aprobación del consejo de administración el plan de actividades del ente público, así como los planes de actuación de las sociedades y empresas que dependan de aquél, así como la memoria anual relativa al desarrollo de los planes de actividades antes citados.
+d) Formalizar y presentar a la aprobación del consejo el anteproyecto de presupuestos que comprenda la retribución del personal y los gastos e ingresos previstos para desarrollar los planes citados en el apartado anterior, habida cuenta de los principios básicos y líneas generales de la programación aprobados por el citado consejo, acompañados de la correspondiente memoria explicativa, todo ello referido tanto al ente público como a las sociedades que del mismo dependan.
+e) Actuar como órgano de contratación, así como autorizar los pagos y gastos del ente público y de sus sociedades.
+f) Proponer para su aprobación por el consejo de administración el organigrama del ente público y sus sociedades, así como nombrar con criterios de profesionalidad al personal directivo del ente público y de sus sociedades, notificando con carácter previo dichos nombramientos al consejo de administración.
+g) Establecer, orientar, impulsar, coordinar e inspeccionar los servicios de toda índole que aseguran el funcionamiento del ente público y de sus sociedades, pudiendo al efecto establecer las normas e instrucciones necesarias y suficientes para los fines expresados, todo ello sin menoscabo de las facultades que correspondan al consejo de administración.
+3. Teniendo en cuenta que el desarrollo de los programas será bilingüe, para la designación del Director General se valorarán los conocimientos suficientes de los idiomas oficiales en la Comunidad Autónoma.
+Se modifica por el art. 1 de la Ley 4/1996, de 11 de octubre. Ref. BOE-A-2012-867
+
+### Artículo 17
+
+Artículo 17.
+El mandato del Director General será de cuatro años y, en todo caso, cesará con la finalización de la Legislatura del Parlamento Vasco. En este supuesto, continuará en su cargo hasta la designación del nuevo Director General.
+
+### Artículo 18
+
+Artículo 18.
+El cargo de Director General es incompatible con el mandato parlamentario en el Parlamento Vasco, afectándole igualmente todas las incompatibilidades establecidas para los miembros del Consejo de Administración.
+
+### Artículo 19
+
+Artículo 19.
+1. Corresponde al Gobierno Vasco proponer el cese del Director General, que deberá ser motivado. Después de la aprobación del cese por el Parlamento Vasco, al menos por la mitad más uno de los parlamentarios, el Gobierno Vasco aprobará el correspondiente decreto de cese.
+2. El consejo de administración podrá proponer al Gobierno, por mayoría de dos tercios, el cese del Director General cuando concurra alguna de las siguientes causas:
+a) Incurrir en incompatibilidad para el ejercicio del cargo.
+b) Imposibilidad física o enfermedad superior en su duración a seis meses continuos.
+c) Incompetencia manifiesta o actuación contraria a los criterios, principios u objetivos a los que se refiere la presente ley.
+d) Condena por delito doloso.
+Se modifica por el art. 2 de la Ley 4/1996, de 11 de octubre. Ref. BOE-A-2012-867
+
+## Sección quinta
+
+Sección quinta. De la Comisión Parlamentaria de Control
+
+### Artículo 20
+
+Artículo 20.
+De conformidad con lo que disponga el Reglamento del Parlamento Vasco, una Comisión Parlamentaria ejercerá el control de la actuación de las Sociedades Públicas del Ente «Radio Televisión Vascas», de tal modo que no impida el funcionamiento de las mismas.
+
+## CAPÍTULO IV
+
+Del derecho de antena y rectificación
+
+### Artículo 21
+
+Artículo 21.
+1. Los grupos sociales y políticos representativos, tendrán derecho a acceder a los medios de comunicación públicos objeto de la presente Ley. Para el ejercicio de este derecho, el Consejo de Administración, de acuerdo con el Director General y en el ejercicio de sus respectivas competencias, fijará los criterios objetivos, teniendo en cuenta para su determinación la representación que dichos grupos ostentan en las Instituciones comunes, en los Territorios Históricos y en los Ayuntamientos de la Comunidad Autónoma, y cualesquiera otros criterios de representación sindical o patronal, y de interés social y cultural, que estime necesarios.
+2. El derecho de antena quedará también garantizado para los grupos políticos, sociales y culturales de menor significación.
+
+### Artículo 22
+
+Artículo 22.
+1. En la difusión diferida de los debates parlamentarios o en la información de los mismos, el tiempo de antena concedido a cada Grupo Parlamentario será proporcional a su representación en el Parlamento Vasco.
+2. Durante las campañas electorales se aplicará el régimen especial que prevén las normas electorales. Su aplicación y control lo realizará la correspondiente Junta Electoral, que cumplirá su cometido a través del Consejo de Administración y del Director General, que adoptarán las decisiones que sean precisas para cumplir los criterios establecidos por la Junta Electoral.
+Se modifica por el art. 10 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 23
+
+Artículo 23.
+El Gobierno Vasco podrá fijar periódicamente las obligaciones de programación que se deriven de la naturaleza del servicio público de los medios de comunicación social y, previa consulta al Consejo de Administración, hacerlas cumplir.
+
+### Artículo 24
+
+Artículo 24.
+El Gobierno Vasco podrá hacer que se programen y difundan cuantas declaraciones o comunicaciones oficiales de interés público estime necesarias, con indicación de su origen. Por razones de urgencia, apreciadas por el Gobierno, estos comunicados y declaraciones tendrán efecto inmediato.
+
+### Artículo 25
+
+Artículo 25.
+Los Directores de los Medios estarán obligados a emitir, al día siguiente a su recepción, cuantas notas y comunicados le remita la Administración, a través del Director del Ente Público, rectificando o aclarando informaciones emitidas sobre actos propios de su competencia y función. La rectificación deberá ser emitida en el programa informativo correspondiente al mismo horario en que fue emitida la información causante.
+
+## CAPÍTULO V
+
+Del derecho de réplica
+
+### Artículo 26
+
+Artículo 26.
+Toda persona natural o jurídica que se considere injustamente perjudicada por cualquier información radiodifundida o televisada, podrá, por sí o a través de sus representantes debidamente legitimados, ejercitar el derecho de réplica.
+Igualmente corresponderá este derecho a cualquier otro Organismo que éste legitimado para la defensa de intereses generales, si éstos resultasen perjudicados.
+
+### Artículo 27
+
+Artículo 27.
+1. A efectos del ejercicio del derecho de réplica, no podrán considerarse injustamente perjudicados los autores de obras literarias, artísticas, científicas o de análoga naturaleza, o las personas que actúen profesionalmente en espectáculos públicos y que sean mencionadas o aludidas con ocasión del ejercicio de la crítica de dichas obras o actuaciones, siempre que la crítica:
+a) Se concrete a la actividad pública desarrollada por los interesados o a la valoración artística o científica, y
+b) Se mantenga dentro del respeto a los principios y derechos reconocidos en la presente Ley.
+2. En el marco de las garantías de la libertad de expresión, tampoco podrán considerarse injustamente perjudicadas las demás personas que realicen o hayan realizado una actividad pública de cualquier naturaleza cuando la mención o alusión se refiere a dicha actividad y se mantenga dentro del respeto a los principios y derechos reconocidos en la presente Ley.
+
+### Artículo 28
+
+Artículo 28.
+La réplica deberá circunscribirse al objeto de la aclaración o rectificación y su difusión será gratuita.
+
+### Artículo 29
+
+Artículo 29.
+La solicitud de réplica, acompañada, en su caso, de la documentación en que se apoye, se dirigirá al Director del Medio en que se haya de proceder a su transmisión.
+La réplica deberá emitirse dentro del día siguiente a su recepción por el Director del Medio si la información u opinión del objeto de la misma se hubiese emitido en espacio de periodicidad diaria, o dentro de los siete días siguientes, en otro caso.
+
+### Artículo 30
+
+Artículo 30.
+1. La inserción de la réplica habrá de realizarse en el mismo espacio en que se difundió la información u opinión, si se trata de espacio informativo de periodicidad regular. En los demás casos, la inserción será previa a la emisión de espacio de análoga naturaleza a aquel en que se produjo la mención o alusión.
+2. Sin perjuicio de lo anterior, cuando la opinión o información que motivó la réplica hubiere tenido lugar en un espacio que no tenga el carácter de informativo y, en todo caso, cuando las opiniones no procedieren de profesionales de la información del Medio televisivo o radiofónico, el afectado podrá solicitar la lectura de la réplica en espacio de análoga naturaleza. En todo caso, la resolución del Director del Medio o del Consejo de Administración se sujetará a las exigencias que derivan de la naturaleza del Medio y a las necesidades objetivas de la programación.
+
+### Artículo 31
+
+Artículo 31.
+El ejercicio del derecho de réplica caducará, si no se ejercita dentro de los plazos siguientes, a contar desde la fecha de difusión de la información u opinión.
+1. A los siete días naturales, cuando se trate de residentes en las poblaciones a las que alcanza el radio de emisión.
+2. A los quince días naturales cuando se trate de residentes en otras zonas del término peninsular del Estado.
+3. A los treinta días naturales, si se trata de residentes en el territorio del Estado, fuera de la península, o en el extranjero.
+
+### Artículo 32
+
+Artículo 32.
+1. La denegación de la réplica por el Director del Medio de que se trate, podrá ser recurrida en el plazo de cinco días ante el Consejo de Administración quien, a su vez, deberá resolver en el plazo máximo de tres días, poniendo fin a la vía administrativa. Las denegaciones deberán ser comunicadas.
+2. El plazo para recurrir ante el Consejo de Administración se contará a partir del día siguiente a aquel en que sea notificada la denegación y, en todo caso, al término de los plazos a que se refiere el artículo 32.
+3. Si la resolución del Consejo de Administración es favorable a la inclusión de la réplica, ésta deberá emitirse con arreglo a los criterios establecidos en el artículo 31.
+4. Contra la resolución denegatoria del Consejo de Administración cabrá recurso contencioso-administrativo.
+
+### Artículo 33
+
+Artículo 33.
+La denegación será motivada, y sólo podrá basarse en las siguientes causas:
+a) Que los términos del escrito no se limiten a aclarar las alusiones o menciones que lo motivaron.
+b) Que el contenido de la réplica vulnere los límites que establece el ordenamiento jurídico vigente.
+c) Que la forma en que se ejerza el derecho de réplica es manifiestamente improcedente.
+d) Que la información u opinión sean objeto de réplica sobre los mismos puntos, por los legitimados para hacerla, de acuerdo con lo establecido en el artículo 27 de esta Ley.
+e) Que la información u opinión hayan sido aclaradas de forma espontánea y en términos iguales o análogos a los solicitados por el medio de comunicación.
+f) Que concurra alguna de las circunstancias a las que se refiere el artículo 28.
+
+### Artículo 34
+
+Artículo 34.
+El ejercicio de este derecho es independiente de las eventuales acciones penales o civiles que correspondan por los daños presuntamente causados.
+
+## CAPÍTULO VI
+
+Modos de gestión
+
+## Sección primera
+
+Sección primera. Gestión pública
+
+### Artículo 35
+
+Artículo 35.
+1. La gestión de los servicios públicos de la Radio Televisión Vasca se regirá por las disposiciones de esta Ley y se realizará mediante la adscripción de los servicios comunes que se establezcan.
+2. De los acuerdos que dicten los órganos de gobierno del Ente Público y de las pretensiones que en relación con ellos se deduzcan, conocerá la jurisdicción que en cada caso corresponda sin necesidad de formular la reclamación previa en vía gubernativa.
+
+### Artículo 36
+
+Artículo 36.
+1. El organigrama del Ente Público, así como sus modificaciones, deberá ser informado con carácter preceptivo por el Consejo de Administración, cuya decisión tendrá carácter vinculante para el Director General.
+2. No podrá nombrarse personal directivo para puestos no incluidos en el organigrama debidamente aprobado.
+
+## Sección segunda
+
+Sección segunda. Gestión mercantil
+
+### Artículo 37
+
+Artículo 37.
+1. La gestión de los servicios públicos de radiotelevisión se llevará a cabo mediante las Sociedades públicas que al efecto se creen.
+
+### Artículo 38
+
+Artículo 38.
+El capital de las Sociedades a que se refiere el artículo anterior será suscrito íntegramente por la Comunidad Autónoma, pertenecerá en su totalidad al Ente Público y no podrá enajenarse, hipotecarse, gravarse, pignorarse o cederse en cualquier forma onerosa o gratuita.
+
+### Artículo 39
+
+Artículo 39.
+La adquisición de emisoras privadas de radiodifusión por el Ente Publico, quedará condicionada a la subrogación en la titularidad de la concesión administrativa de frecuencias y potencias.
+
+### Artículo 40
+
+Artículo 40.
+1. Constituido el Ente, el Director General del Ente Público podrá nombrar a los Directores de las Sociedades Públicas cumpliendo lo dispuesto en el art. 9.1 b) de esta Ley.
+2. Los Directores de las Sociedades Públicas o, en su caso, el Director General del Ente Público, serán sus Administradores únicos y tendrán las facultades y deberán reunir los requisitos establecidos para los mismos en la legislación general de Sociedades Anónimas.
+3. Los Directores de las Sociedades Públicas y los Directores de los Medios encuadrados orgánicamente en ellas estarán afectados por las mismas incompatibilidades que las previstas para el cargo de Director General del Ente Público.
+Se modifica por el art. 11 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 41
+
+Artículo 41.
+1. El Gobierno, a propuesta del Director General y de acuerdo con el Consejo de Administración, podrá crear Sociedades filiales con objeto de garantizar la más eficaz gestión.
+2. Las Sociedades filiales que se creen serán, en todo caso, de capital público y con sometimiento al régimen jurídico a que se refieren los artículos anteriores.
+
+## CAPÍTULO VII
+
+Presupuestos y financiación
+
+### Artículo 42
+
+Artículo 42.
+El presupuesto del Ente «Radio Televisión Vasca» se ajustará a la presente Ley y a la Ley General Presupuestaria de la Comunidad Autónoma.
+
+### Artículo 43
+
+Artículo 43.
+Cada Sociedad Pública tendrá presupuestos separados que, adjuntos a los Presupuestos Generales de la Comunidad Autónoma, deberán ser aprobados por el Parlamento.
+Las Sociedades filiales que se creen al amparo del artículo 42 de la presente Ley tendrán el mismo régimen presupuestario.
+Los presupuestos se elaborarán y gestionarán bajo el principio de equilibrio presupuestario.
+
+### Artículo 44
+
+Artículo 44.
+Sin perjuicio del Presupuesto del Ente «Radio Televisión Vasca» y de los presupuestos de las entidades gestoras y filiales, se establecerá un presupuesto consolidado con objeto de evitar déficit eventuales o definitivos y de permitir su cobertura mediante el superávit de las entidades integradas en este presupuesto consolidado.
+
+### Artículo 45
+
+Artículo 45.
+El Ente «Radio Televisión Vasca», y las Sociedades Públicas gestoras de sus servicios se financiarán con cargo a los Presupuestos Generales de la Comunidad Autónoma del País Vasco y mediante los ingresos y rendimientos de las actividades que realicen.
+
+### Artículo 46
+
+Artículo 46.
+1. El patrimonio del Ente «Radio Televisión Vasca», así como el de las sociedades públicas de gestión, quedará integrado, a todos los efectos, en el patrimonio de la Comunidad Autónoma Vasca y tendrá la consideración de dominio público, como patrimonio afecto al servicio público correspondiente. Estará exento de toda clase de tributos o gravámenes.
+2. El patrimonio del ente público Radio Televisión Vasca se regirá por lo establecido en esta ley y por lo dispuesto en la legislación reguladora del patrimonio de Euskadi, en el que se encuentra integrado, con las siguientes particularidades:
+a) Corresponde, en cualquier caso, al ente público Radio Televisión Vasca la titularidad y las competencias de adquisición, gestión, administración, explotación y enajenación de los bienes muebles, propiedades incorporales y patrimonio empresarial creados o adquiridos por el ente.
+b) Las instalaciones de producción de programas, los bienes muebles a ellos afectos y los programas y subproductos de los mismos podrán ser explotados, arrendados o cedidos por el ente con sujeción al derecho privado.
+c) El Consejo de Gobierno podrá establecer por decreto normas de procedimiento y asignación de competencias a los distintos órganos del ente, para el ejercicio de las actuaciones procedimentales sujetas al derecho privado, a fin de asegurar los principios de publicidad, transparencia, concurrencia, objetividad y rentabilidad en la gestión.
+Se modifica el apartado 2 por la disposición final 1 del Decreto Legislativo 2/2007, de 6 de noviembre. Ref. BOPV-p-2008-90003#dfprimera
+ Se modifica el apartado 2, en la redacción dada por la Ley 5/2006, de 17 de noviembre, por el art. único.11 de la Ley 6/2007, de 22 de junio. Ref. BOE-A-2011-16286
+ Se numera como apartado 1 y se añade el apartado 2 por la disposición final 1 de la Ley 5/2006, de 17 de noviembre. Ref. BOE-A-2011-17403
+
+## CAPÍTULO VIII
+
+### Artículo 47
+
+Artículo 47.
+1. El personal del Ente Público y sus Sociedades se regirá por lo dispuesto en la legislación laboral.
+2. La selección de personal para el Ente y sus Sociedades se hará mediante convocatoria pública y de acuerdo con sistemas basados en los principios de mérito y capacidad.
+3. La pertenencia al Consejo de Administración no generará, en ningún caso, derechos laborales respecto al Ente Público y sus Sociedades
+Se modifica por el art. 12 de la Ley 8/1998, de 27 de marzo. Ref. BOE-A-2011-20041
+
+### Artículo 48
+
+Artículo 48.
+1. El personal del Ente Público que actúe en calidad de director, regidor, guionista, productor, presentador o en puestos análogos en programas cara al público, estará afectado por las incompatibilidades a que se refiere el artículo 41 y no podrán realizar la misma o similar actividad, remunerada o no, en locales públicos. Se excluye de esta incompatibilidad la presentación esporádica de programas o actuaciones cara al público.
+2. El personal técnico de los Servicios de compras o contratación, o de las Sociedades filiales que puedan crearse para una mejor gestión de dichos servicios, estará sometido, igualmente, al régimen de incompatibilidades del artículo 41.
+3. El ingreso en situación de fijo en la plantilla del Ente Público o de sus Sociedades será incompatible con el desarrollo de cualquier otra actividad remunerada por cuenta ajena en horario coincidente.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Sociedad Pública «Radio Vitoria, S. A.», queda integrada en el Ente Público «Radio Televisión Vasca».
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se faculta al Gobierno para el desarrollo Reglamentario de esta Ley, en un plazo no superior a seis meses a partir de su entrada en vigor.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del País Vasco».

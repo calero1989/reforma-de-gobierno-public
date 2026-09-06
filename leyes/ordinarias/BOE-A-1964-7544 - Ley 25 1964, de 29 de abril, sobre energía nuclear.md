@@ -1,0 +1,1027 @@
+# Ley 25/1964, de 29 de abril, sobre energía nuclear.
+
+- Identificador BOE: `BOE-A-1964-7544`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1964-7544
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 109, de 6 de mayo de 1964. Ref. BOE-A-1964-7562.
+
+## Preámbulo
+
+Las aplicaciones pacíficas de la energía nuclear están adquiriendo, a medida que se producen los avances de la técnica, un gran impulso, y han de contribuir de forma progresiva al desarrollo de nuestro país. En los próximos años la energía nuclear podrá participar con una importancia creciente en el abastecimiento energético español, como consecuencia de la casi total utilización de las otras reservas nacionales de energía primaria.
+Desde hace ya tiempo el Estado ha tenido la previsión de este desarrollo futuro, instituyendo en su momento los órganos adecuados. Así el Decreto-ley de veintidós de octubre de mil novecientos cincuenta y uno crea la Junta de Energía Nuclear y le encomienda las misiones específicas. Disposiciones posteriores regulan las tareas de desarrollo y formación de personal que le son propias y otras de carácter general, entre las que cabe destacar la minería y la protección contra las radiaciones.
+Desde entonces la Junta de Energía Nuclear ha proyectado su labor como Centro de Investigación, como Organo Asesor del Gobierno, como Instituto encargado de los problemas de seguridad y protección, contra el peligro de las radiaciones ionizantes y como impulsora del desarrollo industrial, relacionado con las aplicaciones de la energía nuclear. La instalación y desenvolvimiento de sus laboratorios, de sus plantas piloto y de su fábrica de concentrados; su participación en los Organismos Internacionales, su colaboración en programas técnicos y científicos en otros países han dado ya excelentes resultados y han permitido la formación del personal especializado y de las técnicas necesarias para la próxima etapa de incorporación de la energía nuclear al abastecimiento nacional.
+Dentro de esta línea previsora, mirando al porvenir próximo, surge la conveniencia de una disposición general con rango de Ley que recoja la legislación anterior, le dé flexibilidad y la amplíe a los nuevos sectores que el desenvolvimiento del país aconseja.
+Los Convenios Internacionales suscritos por España imponen compromisos cuya aplicación dentro del país exigen normas legales que han de encuadrarse dentro de la Ley reguladora de la utilización pacífica de la energía nuclear.
+Ha de tenerse también en cuenta que al disponer el Gobierno de un Organismo Asesor como la Junta de Energía Nuclear, con capacidad técnica y encargado de las cuestiones relacionadas con la seguridad y protección contra el peligro de las radiaciones ionizantes, debe exigirse su dictamen como condición previa al funcionamiento de cualquier instalación nuclear o radiactiva con objeto de que exista uniformidad en la aplicación de los criterios de protección.
+Dada la alta especialización que supone la formación del personal en aspectos concretos relacionados con la energía nuclear, conviene plantearla como un perfeccionamiento sobre la base formativa que proporcionan los centros docentes, y por ello se prevé la creación de un Instituto de Estudios Nucleares dependiente de la Junta de Energía Nuclear, con objeto de utilizar su personal y sus instalaciones para la especialización de los futuros técnicos en la materia.
+La regulación de la prospección y explotación de los yacimientos de minerales radiactivos y de las autorizaciones para instalaciones nucleares e instalaciones radiactivas ha de tener cabida en la Ley, recogiendo lo legislado hasta la fecha, modificándolo en el sentido de dar libertad en la explotación de minerales radiactivos y señalando los principios generales para la concesión de autorizaciones, que habrán de ser desarrollados posteriormente mediante el oportuno reglamento.
+En previsión del futuro, y al aceptar los Convenios Internacionales sobre la materia, debe darse entrada en la legislación española a todos los aspectos que se refieren a la responsabilidad civil en el caso de accidentes nucleares, la cobertura del riesgo y la forma de reclamar las indemnizaciones a las que hubiere lugar, prestando la mayor protección jurídica al posible perjudicado y favoreciendo, por otra parte, el desarrollo de la industria nuclear al no exigir al capital privado responsabilidades excesivamente graves.
+El principio de la responsabilidad objetiva ha sido recogido ya en la legislación española en el campo de los accidentes de trabajo, y el de la limitación ha sido admitido ya en el derecho aéreo y en el marítimo al tratar de la responsabilidad de los propietarios de buques. Estos principios llevan consigo la regulación del seguro correspondiente, que debe reunir condiciones especiales.
+Se hace necesario definir y sancionar figuras específicas delictivas, dada la trascendencia que puede tener una infracción en el campo de la energía nuclear. Se ha tenido en cuenta para ello la penalidad establecida en el Código Penal común, considerándose que una tipificación del ámbito de la Ley Nuclear es más conveniente que llevar tales infracciones al mencionado Código, en atención a lo excepcional de las mismas. Se recogen también las infracciones y sus sanciones correspondientes en el ámbito administrativo, señalándose igualmente las normas propias de las Leyes especiales, admitiéndose el recurso en forma similar.
+Por todo ello constituye la presente Ley el instrumento que recoge los principios actualmente vigentes sobre energía nuclear y protección contra el peligro de las radiaciones ionizantes y los desarrolla y amplía para lograr mayor flexibilidad en la aplicación y para contribuir al fomento de sus aplicaciones pacíficas.
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+D I S P O N G O :
+
+## CAPÍTULO I
+
+Objeto y definiciones
+
+### Artículo primero
+
+Artículo primero.
+La presente ley tiene por objeto:
+a) Establecer el régimen jurídico para el desarrollo y puesta en práctica de las aplicaciones pacíficas de la energía nuclear y de las radiaciones ionizantes en España, de manera que se proteja adecuadamente a personas, cosas y medio ambiente.
+b) Regular la aplicación de los compromisos internacionales adquiridos por el Estado en materia de energía nuclear y radiaciones ionizantes.
+Se modifica por la disposición adicional 2.1 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo segundo
+
+Artículo segundo. Definiciones.
+A los fines de la presente Ley se establecen las siguientes definiciones:
+1.«Radiaciones ionizantes» son las radiaciones capaces de producir directa o indirectamente iones a su paso a través de la materia.
+2.«Material radiactivo» es todo aquel que contenga sustancias que emitan radiaciones ionizantes.
+3.«Mineral radiactivo» es un mineral que contenga uranio o torio.
+4.«Concentrados» son los productos procedentes del tratamiento de los minerales radiactivos que presenten un contenido en uranio o torio superior al originario en la naturaleza.
+5.«Isótopos radiactivos» son los isótopos de los elementos naturales o artificiales que emiten radiaciones ionizantes.
+6.«Combustibles nucleares» son las sustancias que pueden producir energía mediante un proceso automantenido de fisión nuclear.
+7.«Productos o desechos radiactivos» son los materiales radiactivos que se forman durante el proceso de producción o utilización de combustibles nucleares o cuya radiactividad se haya originado por la exposición a las radiaciones inherentes a dicho proceso. No se incluyen en esta definición los isótopos radiactivos que fuera de una instalación nuclear hayan alcanzado la etapa final de su elaboración y puedan ya utilizarse con fines científicos, médicos, agrícolas, comerciales o industriales.
+8.«Sustancias nucleares» son:
+i) Los combustibles nucleares, salvo el uranio natural y el uranio empobrecido, que por sí solos o en combinación con otras sustancias puedan producir energía mediante un proceso automantenido de fisión nuclear fuera de un reactor nuclear.
+ii) Los productos o desechos radiactivos.
+9. "Residuo radiactivo" es cualquier material o producto de desecho, para el cual no está previsto ningún uso, que contiene o está contaminado con radionucleidos en concentraciones o niveles de actividad superiores a los establecidos por el Ministerio de Industria y Energía, previo informe del Consejo de Seguridad Nuclear.
+9 bis. "Suelo o terreno contaminado radiológicamente" es aquel que contiene o está contaminado con radionucleidos en una concentración tal que su utilización comporte un riesgo radiológico inaceptable para la salud humana o el medio ambiente y así se haya declarado mediante resolución por el Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Consejo de Seguridad Nuclear.
+9 ter. "Suelo o terreno con restricciones de uso" es aquel que contiene o está contaminado con radionucleidos en una concentración tal que no impida su utilización para determinadas actividades. La limitación de uso del terreno a estas actividades se debe haber declarado mediante resolución por el Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Consejo de Seguridad Nuclear.
+10.«Reactor nuclear» es cualquier estructura que contenga combustibles nucleares dispuestos de tal modo que dentro de ella pueda tener lugar un proceso automantenido de fisión nuclear sin necesidad de una fuente adicional de neutrones.
+11.«Central nuclear» es cualquier instalación fija para la producción de energía mediante un reactor nuclear.
+12.«Instalaciones nucleares» son:
+i) Las centrales nucleares y los reactores nucleares.
+ii) Las fábricas que utilicen combustibles nucleares para producir sustancias nucleares y las fábricas en que se proceda al tratamiento de sustancias nucleares, incluidas las instalaciones de regeneración de combustibles nucleares irradiados.
+iii) Las instalaciones de almacenamiento de sustancias nucleares, excepto los lugares en que dichas sustancias se almacenen incidentalmente durante su transporte.
+El Ministerio de Industria podrá determinar se considere como una sola instalación nuclear a varias instalaciones nucleares de un solo explotador que estén emplazadas en un mismo lugar.
+12 bis. Otros dispositivos e instalaciones experimentales.
+Se definen como dispositivos e instalaciones experimentales los que utilicen reacciones nucleares de fusión o fisión para producir energía o con vistas a la producción o desarrollo de nuevas fuentes energéticas.
+Estos dispositivos e instalaciones se someterán al mismo régimen de autorizaciones que se fije reglamentariamente para las instalaciones nucleares.
+13.«Instalaciones radiactivas» son:
+i) Las instalaciones de cualquier clase que contengan una fuente de radiación ionizante.
+ii) Los aparatos productores de radiaciones ionizantes.
+iii) Los locales, laboratorios, fábricas e instalaciones que produzcan, manipulen o almacenen materiales radiactivos.
+Se exceptuarán de esta clasificación las instalaciones, aparatos y materiales cuando la intensidad del campo de irradiación creado por ellas no entrañe riesgo. En el Reglamento de aplicación de esta Ley se detallarán las normas para la excepción.
+14. Titular de una autorización o explotador de una instalación nuclear o radiactiva es una persona física o jurídica que es responsable en su totalidad de una instalación nuclear o radiactiva, tal como se especifica en la correspondiente autorización. Esta responsabilidad no podrá delegarse.
+15.«Zona controlada» se denomina a toda área en que, por existir una fuente de radiación ionizante, los individuos que trabajen en ella puedan estar expuestos a recibir dosis de radiación que excedan de uno con cinco rems al año.
+16. Seguridad nuclear es la consecución de condiciones de explotación adecuadas de una instalación nuclear, la prevención de accidentes y la atenuación de sus consecuencias, cuyo resultado sea la protección de los trabajadores y del público en general y del medio ambiente, de los riesgos producidos por las radiaciones ionizantes procedentes de instalaciones nucleares.
+16 bis. «Daños nucleares» son:
+i) La pérdida de vidas humanas, las lesiones corporales y los daños y perjuicios materiales que se produzcan como resultado directo o indirecto de las propiedades radiactivas o de su combinación con las propiedades tóxicas, explosivas u otras peligrosas de los combustibles nucleares o de los productos o desechos radiactivos que se encuentren en una instalación nuclear o de las sustancias nucleares que procedan, se originen o se envíen a ella.
+ii) Los demás daños y perjuicios que se produzcan u originen de esta manera en cuanto así se declare por el tribunal competente.
+iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjuicios materiales que se produzcan como resultado directo o indirecto de radiaciones ionizantes que emanen de cualquier otra fuente de radiaciones.
+17.«Accidente nuclear» es cualquier hecho o sucesión de hechos que tengan el mismo origen y hayan causado daños nucleares.
+18.«Buques o aeronaves nucleares» son todos aquellos equipados para utilizar combustible nuclear.
+19.«Buque de guerra» es todo buque que pertenezca a las fuerzas navales de un Estado y lleve los signos exteriores que caracterizan a los buques de guerra de su nacionalidad, que esté bajo el mando de un Oficial debidamente autorizado por el Gobierno de dicho Estado y cuyo nombre figure en el Escalafón de la Marina y cuya tripulación se halle bajo la disciplina naval militar.
+20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
+Se añaden los apartados 9.bis y 9.ter por la disposición final 1.1 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df
+ Se modifica el apartado 14, se renumera el 16 como 16 bis y se añade el apartado 16 por la disposición adicional 3.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Se modifica el apartado 12 bis por la disposición adicional 2.2 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se añade el apartado 12 bis por el art. 93.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el apartado 9 por la disposición adicional 4.1 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica el apartado 9 por la disposición adicional 5.1 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+## CAPÍTULO II
+
+De las autoridades y Organismos administrativos
+
+### Artículo tercero
+
+Artículo tercero.
+La ejecución de la presente Ley corresponde al Ministerio de Industria a través especialmente de las Direcciones Generales de la Energía y de Minas y Combustibles, así como a la Junta de Energía Nuclear, sin perjuicio de la competencia específica de otros Ministerios.
+
+### Artículo cuarto
+
+Artículo cuarto.
+A la Dirección General de la Energía le compete fundamentalmente:
+a) La planificación y coordinación energética y la preparación, en colaboración con la Junta de Energía Nuclear, de los programas de incorporación de la energía nuclear al abastecimiento nacional.
+b) Trámite de las autorizaciones administrativas.
+
+### Artículo quinto
+
+Artículo quinto.
+La Junta de Energía Nuclear depende directamente del Ministro de Industria y es una entidad de Derecho público que gozará de personalidad jurídica propia y de plena autonomía económica y administrativa, de acuerdo con lo prevenido en la Ley de Régimen Jurídico de Entidades Estatales Autónomas.
+Tendrá por misión fomentar, orientar y dirigir investigaciones, estudios, experiencias y trabajos conducentes al desarrollo de las aplicaciones de la energía nuclear a los fines nacionales y a la promoción de una industria de materiales y equipos nucleares.
+A estos efectos podrá nombrar el personal necesario y efectuar la distribución de los fondos que le sean asignados.
+
+### Artículo sexto
+
+Artículo sexto.
+A la Junta de Energía Nuclear le está especialmente encomendado:
+a) El asesoramiento al Gobierno, a través del Ministro de Industria, en materias objeto de la presente Ley.
+b) El informe preceptivo al Ministro de Industria en el trámite de las solicitudes formuladas por personas naturales o jurídicas, de Derecho público y privado, que se refieran a materias relacionadas con las aplicaciones pacíficas de la energía nuclear.
+c) El análisis de los riesgos y la seguridad intrínseca, así como la inspección en este aspecto de las instalaciones nucleares y radiactivas.
+d) El asesoramiento a los Tribunales de Justicia en materia de riesgos y daños nucleares.
+e) El fomento y la ejecución de investigaciones, estudios, proyectos, obras, explotaciones e instalaciones que sean necesarios para sus fines.
+f) La prospección minera en los territorios de soberanía nacional para el descubrimiento de yacimientos de minerales radiactivos y otros minerales de interés nuclear.
+g) La explotación de las zonas mineras reservadas o que se reserven para la Junta de Energía Nuclear, ya sea directamente o por medio de tercero.
+h) La obtención, preparación, importación, conservación y tratamiento de minerales o de productos químicos cuando sean necesarios para el desarrollo de su misión.
+i) El fomento y la introducción de las aplicaciones de los isótopos radiactivos y la vigilancia en su distribución y empleo.
+j) El fomento y desarrollo de la industria de fabricación de combustibles y materiales nucleares y de equipos para reactores u otras instalaciones radiactivas, así como el asesoramiento y ayuda técnica a la industria.
+k) La formación especializada de personal científico y técnico, sin perjuicio de la que puedan llevar a cabo las universidades y escuelas técnicas superiores en los problemas directamente relacionados con la energía nuclear y la ayuda y asesoramiento a los centros de enseñanza.
+l) Mantener con carácter exclusivo en materias de su competencia las relaciones oficiales con organismos similares extranjeros.
+m) La propuesta al Ministro de Industria de reglamentación sobre protección contra las radiaciones y medidas generales para el fomento de las aplicaciones de la energía nuclear.
+n) La representación del Estado en el cumplimiento de los preceptos de esta Ley en cuanto no competa al Ministro de Industria o específicamente a otras autoridades, Organismos o entidades.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Para el estudio y aplicación de las materias reguladas por la presente Ley que afecten a la competencia de Departamentos ajenos al Ministerio de Industria se establecerán Comisiones Mixtas de carácter consultivo, de las que siempre formará parte una representación de la Junta de Energía Nuclear.
+En los asuntos de índole internacional la Junta de Energía Nuclear actuará en colaboración con el Ministerio de Asuntos Exteriores.
+En el estudio de los criterios de seguridad y medidas de protección contra las radiaciones ionizantes, la Dirección General de Sanidad colaborará con la Junta de Energía Nuclear.
+
+### Artículo octavo
+
+Artículo octavo.
+La Junta de Energía Nuclear estará formada por el Presidente y el Consejo, auxiliados por una Comisión Ejecutiva, un Director general, los Directores de Departamento y un Secretario general técnico. Constará de los Departamentos, Divisiones, Secciones o Centros de trabajo que se estimen necesarios para el mejor cumplimiento de los fines y ejercicio de las facultades que corresponden a dicha Junta.
+
+### Artículo noveno
+
+Artículo noveno.
+El Presidente de la Junta de Energía Nuclear será designado por el Jefe del Estado mediante Decreto refrendado por el Ministro de Industria.
+El Consejo, cuya composición y número de Consejeros se establecerá por Decreto, estará formado por representantes de la Administración del Estado o de Organismos oficiales, Organización Sindical de quien al menos existirá un representante por personalidades científicas, técnicas e industriales de reconocida competencia en la vida nacional. En funciones de Secretario de actas actuará, con voz pero sin voto, el Secretario general técnico de la Junta de Energía Nuclear.
+Los miembros del Consejo serán designados por el Ministro de Industria, a propuesta de los respectivos Organismos y Departamentos los que ostenten representación, y libremente los demás.
+El Ministro de Industria, a propuesta del Presidente de la Junta y oído el Consejo, designará un Vicepresidente de entre los Consejeros y el Director general.
+Los cargos de Presidente y Vicepresidente de la Junta de Energía Nuclear, así como los de Vocales del Consejo, no podrán ser ostentados por personas mayores de setenta años. El cargo de Director general no podrá ser desempeñado por quienes hayan cumplido sesenta y cinco años de edad.
+Se modifica por el art. 1 de la Ley 25/1968, de 20 de junio. Ref. BOE-A-1968-729
+
+### Artículo diez
+
+Artículo diez.
+Al Consejo, que es el órgano supremo de decisión y acción de la Junta de Energía Nuclear, le corresponde fundamentalmente:
+a) Establecer los programas generales de investigación, desarrollo y otras actividades.
+b) Proponer los presupuestos de ingresos y gastos que han de elevarse al Gobierno para su aprobación.
+c) Deliberar e informar sobre los asuntos que por su naturaleza e importancia sean sometidos a su conocimiento.
+d) Designar la Comisión Ejecutiva y establecer sus funciones.
+e) Aprobar, a propuesta del Director general, los nombramientos de los Directores de Departamento y Secretario general técnico.
+
+### Artículo once
+
+Artículo once.
+El Presidente será el representante oficial y externo de la Junta de Energía Nuclear, y como tal le compete presidir el Consejo y la Comisión Ejecutiva, así como representar a la Junta en todos aquellos actos oficiales y jurídicos que tengan lugar y se refieran concretamente a la misma.
+
+### Artículo doce
+
+Artículo doce.
+La Junta de Energía Nuclear para realizar las funciones que se le encomiendan en la presente Ley queda genéricamente facultada, a los efectos del artículo doce de la Ley sobre Régimen Jurídico de Entidades Estatales Autónomas, a efectuar todas las operaciones necesarias, tales como la prestación de fianzas o cauciones, el concierto de operaciones de crédito con Bancos o instituciones legalmente autorizadas, la apertura de cuentas corrientes, la constitución, transmisión modificación, extinción y cancelación de garantías hipotecarias sobre terrenos adquiridos, inmuebles construidos o instalaciones de su propiedad, así como pignoraticias y de prenda sin desplazamiento.
+
+### Artículo trece
+
+Artículo trece.
+La hacienda de la Junta de Energía Nuclear estará formada por los siguientes bienes y recursos económicos:
+a) La asignación que anualmente le sea fijada en los Presupuestos Generales del Estado.
+b) Las asignaciones extraordinarias que le sean señaladas, conforme a las disposiciones que las regulen.
+c) Los bienes y derechos adquiridos por la Junta.
+d) Las participaciones o ingresos que procedan de convenios y acuerdos celebrados con cualquier otra entidad oficial nacional o internacional.
+e) Los productos que se obtengan en las enajenaciones realizadas por la Junta en el ejercicio de sus facultades, así como el precio de las prestaciones de carácter técnico que se pudieran estipular con terceros que de modo voluntario solicitaren sus servicios.
+f) Los fondos procedentes de otros organismos autónomos que en su caso le sean entregados por el Gobierno.
+g) Las subvenciones, aportaciones o donaciones que a su favor se concedan por entidades o particulares, tanto nacionales como extranjeras.
+h) Cualquier otro recurso no previsto en los apartados anteriores que pueda ser atribuido a la Junta por disposición legal o por convenio.
+
+### Artículo catorce
+
+Artículo catorce.
+La Junta de Energía Nuclear para realizar operaciones preliminares de prospección minera que sean de su competencia o para conseguir la implantación de medidas sanitarias que se relacionen con sus atribuciones y la salvaguardia de la salud pública, podrá ocupar temporalmente terrenos de propiedad particular con sujeción a las normas y trámites prescritos en la vigente legislación sobre expropiación forzosa.
+
+### Artículo quince
+
+Artículo quince.
+Por la Junta de Energía Nuclear se propondrá al Ministro de Industria el Reglamento del personal que presta sus servicios en la misma, que será sometido a la aprobación del Consejo de Ministros.
+El personal obrero se regirá por las disposiciones del Derecho laboral, adaptadas al especial carácter de las actividades nucleares y radiactivas, y que serán especificadas en la correspondiente Reglamentación, de acuerdo con el Ministerio de Trabajo.
+Para el mejor desenvolvimiento de las funciones encomendadas por esta Ley a la Junta de Energía Nuclear podrá ésta, además, contratar con carácter eventual y de acuerdo con los correspondientes pliegos de condiciones, el personal científico, técnico y administrativo que precise.
+
+## CAPÍTULO III
+
+De la investigación y enseñanza nuclear
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+Con el fin de coordinar la investigación y la enseñanza relacionada con la energía nuclear, se crea el Instituto de Estudios Nucleares dentro de la Junta de Energía Nuclear. Este Instituto estará regido por un Presidente, un Patronato en el que estarán debidamente representados los diversos Organismos dedicados a la investigación y a la enseñanza nuclear, así como las industrias relacionadas con la energía nuclear, y un Director que será miembro del Patronato, con voz, pero sin voto.
+El Presidente será nombrado por el Gobierno, a propuesta del Ministro de Industria, el cual de conformidad con el de Educación y Ciencia, designará también a los Vocales del Patronato. Igualmente el Ministro de Industria designará, a propuesta del Patronato, al Director del mismo. Será de aplicación al Presidente lo dispuesto en cuanto a límite de edad en el último párrafo del artículo noveno para el Presidente de la Junta, y al Director lo que en dicho lugar se previene sobre el mismo extremo para el Director general de la propia Junta.
+El Patronato redactará el proyecto de reglamento de este Instituto, que presentará al Ministro de Industria.
+Se modifica el párrafo segundo por el art. 2 de la Ley 25/1968, de 20 de junio. Ref. BOE-A-1968-729
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+Por el Ministerio de Industria, en conexión con el Ministerio de Educación Nacional o con cualquier otro Departamento ministerial o institución interesada, se establecerán las normas para que los centros de investigación y de enseñanza nuclear desarrollen sus programas científicos dentro de las medidas de seguridad que exige este campo de la ciencia.
+La Junta de Energía Nuclear está facultada para la creación de becas de estudios tanto en España como en el extranjero y para la subvención a centros de investigación o enseñanza nacional.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+El Ministerio de Industria está facultado para limitar en cada caso las cantidades de sustancias radiactivas que los centros de investigación y los de enseñanza puedan utilizar y para realizar cuantas inspecciones considere necesarias en lo referente a medidas de seguridad, dispositivos de protección y cantidad de materiales radiactivos en los centros citados.
+
+## CAPÍTULO IV
+
+De la prospección, investigación y explotación de los minerales radiactivos y comercio de los mismos y de los concentrados
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+La prospección, investigación y explotación de minerales radiactivos y la obtención de concentrados se declara libre en todo el territorio nacional, salvo en las zonas reservadas por el Estado.
+En las solicitudes de permisos de investigación o de concesiones de explotación formuladas por personas naturales o jurídicas se deberá consignar el mineral radiactivo de que se trate y serán tramitadas y concedidas de acuerdo con la vigente Ley de Minas y Reglamento para su aplicación, siendo preceptivo en ambos casos el informe previo de la Junta de Energía Nuclear.
+
+### Artículo veinte
+
+Artículo veinte.
+La Junta de Energía Nuclear ejercerá la vigilancia de las investigaciones y explotaciones donde exista mineral radiactivo, y podrá proponer al Ministerio de Industria las medidas que juzgue pertinentes, sin perjuicio de las atribuciones que la legislación vigente confiere a los Servicios de la Dirección General de Minas.
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+La Junta de Energía Nuclear ejercerá igualmente la vigilancia de las investigaciones, explotaciones de minerales y plantas de concentración cuando dichos minerales vayan acompañados en cualquier proporción de otros radiactivos.
+La clasificación de un yacimiento como de mineral radiactivo, o de otro mineral distinto que acompañe a aquél, se hará por el Ministerio de Industria, previos los informes de la Junta de Energía Nuclear y del Consejo de Minería y Metalurgia. En cualquier caso los minerales radiactivos que se obtengan quedarán sujetos al mismo régimen de vigilancia y registro que los procedentes de yacimientos de minerales radiactivos.
+
+### Artículo veintidós
+
+Artículo veintidós.
+Queda permitido el libre comercio y contratación de minerales radiactivos de procedencia nacional entre compradores y vendedores españoles, y siempre que el mineral no salga del país. Cuando se trate de importación o exportación de minerales radiactivos y de comercio o contratación de los mismos mediando personas o empresas extranjeras, se precisará la autorización del Ministerio de Industria, además de los requisitos que se exijan por otras disposiciones del Gobierno.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+Por el Ministerio de Industria se llevará un registro de las cantidades de minerales radiactivos extraídos, las que han sido objeto de comercio interior y las que hayan sido autorizadas para exportación o importación, según los casos.
+Tanto quienes investiguen o exploten yacimientos de minerales radiactivos, dentro del territorio nacional, como quienes los transporten, vendan o compren, exporten o importen, vienen obligados a dar cuenta de sus trabajos o de sus operaciones comerciales al Ministerio de Industria.
+Asimismo el Ministerio de Industria llevará un Registro de producción de concentrados, venta de los mismos, transportes y almacenamiento, siendo obligatoria la declaración de datos por las personas o empresas que tengan fábricas de concentrados.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+A propuesta del Ministerio de Industria, la Comisión Delegada de Asuntos Económicos fijará las leyes mínimas de contenido de óxido por tonelada de mineral, características de los concentrados y condiciones y precios que han de regir para las adquisiciones que realice la Junta de Energía Nuclear en cada período, a fin de fomentar y ayudar a la explotación de minerales radiactivos por particulares.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+La Junta de Energía Nuclear adquirirá y a tal fin recibirá en sus fábricas de concentrados, conforme a las condiciones que señala el artículo anterior, sin necesidad de contrato previo, un cupo anual de minerales radiactivos, cuya cuantía máxima será fijada por el Ministerio de Industria a propuesta de la Junta de Energía Nuclear.
+Las adquisiciones anuales superiores al cupo aludido en el artículo anterior serán objeto de libre contratación entre el explotador y dicha Junta, sin que respecto a precios y condiciones puedan rebasarse los señalados en el artículo citado.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+La Junta de Energía Nuclear se reservará la no admisión de aquellos minerales que por interferencia de otros elementos distintos de los radiactivos hagan que su beneficio resulte antieconómico en relación con la ley que tengan. Tanto en este caso como cuando a los titulares de concesiones de minerales radiactivos les resulte antieconómica su explotación por aplicación de los precios y condiciones que se establezcan, de acuerdo con las normas que fija la presente Ley, podrán aquéllos solicitar del Ministerio de Industria que se les declare exentos de la obligación de mantener sus trabajos en actividad, a efectos de lo dispuesto sobre esta materia en la vigente Ley de Minas. El Ministerio de Industria, previo informe de la Junta de Energía Nuclear, resolverá lo que estime procedente en cada caso.
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+Los concentrados radiactivos procedentes de fábricas radicadas en el territorio nacional podrán venderse a la Junta de Energía Nuclear o, previo preceptivo informe de la misma, a terceras personas o entidades expresamente autorizadas para ello por el Ministerio de Industria. En todo caso la Junta de Energía Nuclear, al rendir el informe a que antes se hace referencia, podrá ejercitar su derecho de admisión preferente, en las mismas condiciones que se expresen en la solicitud de venta, dentro del plazo de quince días.
+
+## CAPÍTULO V
+
+De las autorizaciones para las instalaciones nucleares y las instalaciones radiactivas y de la tenencia y utilización de materiales radiactivos
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+1. Las instalaciones nucleares y radiactivas estarán sometidas a un régimen de autorizaciones emitidas por el Ministerio de Industria, Turismo y Comercio, previo informe preceptivo del Consejo de Seguridad Nuclear, oídas en materia de ordenación del territorio y medio ambiente las Comunidades Autónomas en cuyo territorio se ubique la instalación o la zona de planificación prevista en la normativa básica sobre planificación de emergencias nucleares y radiológicas.
+El régimen jurídico de las autorizaciones se establecerá reglamentariamente y definirá las autorizaciones aplicables a cada una de las fases de la vida de dichas instalaciones, que se referirán al menos a la selección de emplazamientos, a la construcción, a la puesta en marcha y el funcionamiento, y a su desmantelamiento y clausura, según corresponda.
+2. El titular de la autorización de explotación de una central nuclear deberá ser una persona jurídica que tenga por objeto exclusivo la gestión de centrales nucleares, contando a tal efecto con los medios materiales, económicos-financieros y personales necesarios para garantizar la explotación segura de la misma.
+3. Una misma persona jurídica podrá ser titular simultáneamente de la autorización de explotación de varias centrales nucleares. En este supuesto, sin perjuicio de la aplicación de las normas generales de contabilidad correspondientes, deberá llevar en su contabilidad cuentas separadas para cada central nuclear de la que sea titular, diferenciando entre los ingresos y los costes imputables a cada una de ellas.
+4. El titular de la autorización de explotación de una central nuclear deberá remitir al Ministerio de Industria, Turismo y Comercio, en el primer trimestre de cada año, un informe en el que se incluyan las inversiones efectuadas en la central durante el año anterior y la evolución de la plantilla asignada a la explotación de la misma en ese año, así como las previsiones correspondientes para los cinco años siguientes. Dicho Ministerio remitirá una copia del informe al Consejo de Seguridad Nuclear.
+Se modifica por la disposición adicional 3.2 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Se modifica por el art. 15 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+El Consejo de Seguridad Nuclear ejercerá la vigilancia de las instalaciones nucleares y radiactivas en cada una de las fases de su vida, con objeto de comprobar que se desarrollan de acuerdo con las autorizaciones mencionadas en el artículo anterior.
+Se modifica por el art. 15 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo treinta
+
+Artículo treinta.
+La transferencia de autorizaciones de las instalaciones nucleares o radiactivas requerirá autorización del Ministerio de Industria, Turismo y Comercio, previa audiencia a las Comunidades Autónomas con competencias en materia de ordenación del territorio y medio ambiente, siendo preceptivo el informe del Consejo de Seguridad Nuclear.
+Se modifica por el art. 15 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+Los materiales radiactivos y los combustibles nucleares no podrán ser almacenados ni utilizados dentro del territorio nacional por personas o entidades que no estén autorizadas expresamente para ello por el Ministerio de Industria, previo el preceptivo informe de la Junta de Energía Nuclear. Estos mismos requisitos se exigirán para su transferencia o reventa.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+Las autorizaciones reguladas en el presente capítulo caducarán por incumplimiento de las condiciones y plazos señalados en la autorización.
+También podrán quedar sin efecto por acuerdo del Consejo de Ministros, a propuesta del Ministerio de Industria, cuando concurran razones excepcionales de interés nacional, indemnizando en tal caso al explotador de acuerdo con lo dispuesto en la vigente Ley de Expropiación Forzosa.
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+Las firmas comerciales deberán dar cuenta al Ministerio de Industria de la venta o instalación de los aparatos o dispositivos capaces de producir radiaciones ionizantes a fin de que por éste se verifiquen las condiciones de la instalación y la idoneidad de las personas que trabajarán con dichos aparatos o instalaciones.
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+Las autorizaciones para la fabricación en España de aparatos, equipos o accesorios, cuyo destino sea específicamente nuclear o radiactivo serán concedidas por el Ministerio de Industria, previo el preceptivo informe de la Junta de Energía Nuclear.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+Con independencia de lo establecido en los artículos veintiocho y veintinueve de la presente Ley, el Ministerio de Industria inspeccionará las instalaciones nucleares y radiactivas antes de la puesta en marcha, y periódicamente en cuantas ocasiones considere necesario para verificar su construcción, funcionamiento, seguridad y demás condiciones impuestas.
+
+## CAPÍTULO VI
+
+De las medidas de seguridad y protección contra las radiaciones ionizantes
+
+### Artículo treinta seis
+
+Artículo treinta seis.
+El titular de las instalaciones nucleares o radiactivas o de las actividades relacionadas con radiaciones ionizantes será responsable de su seguridad.
+Las instalaciones nucleares y radiactivas y las explotaciones de minerales radiactivos deberán desarrollar su actividad de manera que se mantengan las condiciones de seguridad exigibles, adoptando las medidas necesarias para prevenir accidentes nucleares y radiológicos así como las previsiones para mitigar sus consecuencias en el caso de que se produzcan; y deberán cumplir cuantas disposiciones se fijen en los reglamentos correspondientes en relación con la seguridad nuclear y las radiaciones ionizantes.
+Dichas disposiciones se referirán tanto a las condiciones de trabajo como al peligro que las radiaciones ionizantes representan para las personas profesionalmente dedicadas a actividades de naturaleza nuclear, como a terceras personas, cosas y medio ambiente, que puedan quedar afectados por dichas radiaciones y actividades.
+Asimismo las autoridades competentes y los titulares deberán adoptar las medidas de prevención y protección necesarias para mantener las condiciones de seguridad física adecuadas en estas instalaciones.
+Se modifica por la disposición adicional 2.3 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+Las organizaciones responsables de la gestión de las instalaciones nucleares y radiactivas deberán disponer de los recursos humanos, técnicos y económicos adecuados para mantener las condiciones de seguridad y tendrán incorporados los principios básicos de la gestión de seguridad.
+El personal de las instalaciones nucleares y radiactivas deberá reunir las condiciones de idoneidad que se establezcan en el reglamento correspondiente, debiéndose someter obligatoriamente para su comprobación a la realización de las pruebas médicas o de otro tipo que se determinen reglamentariamente.
+En las instalaciones nucleares existirá un Jefe de Operación que reúna las condiciones que reglamentariamente se establezcan y que tendrá a su cargo la supervisión de todas las operaciones de empleo y explotación de las instalaciones, siendo técnicamente responsable de su funcionamiento.
+El Jefe de Operación tendrá facultad para suspender el funcionamiento de la instalación cuando lo considere procedente o necesario.
+Se modifica por la disposición adicional 2.4 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+Las instalaciones nucleares y radiactivas que trabajen con sustancias radiactivas quedan obligadas a contar con instalaciones especiales para almacenamiento, transporte y manipulación de residuos radiactivos.
+Asimismo deberán adoptar las medidas apropiadas en todas las etapas de gestión del combustible nuclear gastado y de los residuos radiactivos, con el fin de que se proteja adecuadamente a las personas, cosas y medio ambiente, tanto en el presente como en el futuro, contra los riesgos radiológicos y de manera que la producción de residuos, en cantidad y actividad, sea la menor posible, conforme a la práctica científica existente en cada momento.
+Se añade un párrafo segundo por la disposición adicional 2.5 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo treinta y ocho bis
+
+Artículo treinta y ocho bis. Gestión de los Residuos Radioactivos.
+1. La gestión de los residuos radiactivos, incluido el combustible nuclear gastado, y el desmantelamiento y clausura de las instalaciones nucleares, constituye un servicio público esencial que se reserva a la titularidad del Estado, de conformidad con el artículo 128.2 de la Constitución Española.
+Se encomienda a la Empresa Nacional de Residuos Radiactivos, S. A. (ENRESA), la gestión de este servicio público, de acuerdo con el Plan General de Residuos Radiactivos aprobado por el Gobierno.
+A estos efectos, ENRESA se constituye como medio propio y servicio técnico de la Administración, realizando las funciones que le sean encomendadas por el Gobierno.
+Las obras de construcción, ampliación, reparación, conservación, explotación, desmantelamiento o cualesquiera otras que, en ejecución del Plan General de Residuos Radiactivos aprobado por el Gobierno y con cargo al Fondo para su financiación, la Empresa Nacional de Residuos Radiactivos, S.A., S.M.E. (Enresa), por sí misma o a través de terceros, deba llevar a cabo para la prestación del servicio público esencial que tiene encomendado, constituyen obras públicas de interés general.
+2. Corresponde al Gobierno establecer la política sobre gestión de los residuos radiactivos, incluido el combustible nuclear gastado, y el desmantelamiento y clausura de las instalaciones nucleares, mediante la aprobación del Plan General de Residuos Radiactivos, que le será elevado por el Ministerio de Industria, Turismo y Comercio, previo informe del Consejo de Seguridad Nuclear, una vez oídas las Comunidades Autónomas en materia de ordenación del territorio y medio ambiente, y del que dará cuenta posteriormente a las Cortes Generales.
+La tutela de ENRESA corresponderá al Ministerio de Industria, Turismo y Comercio, a través de la Secretaría de Estado de Energía, quien llevará a cabo la dirección estratégica y el seguimiento y control de sus actuaciones y planes, tanto técnicos como económicos.
+3. El Ministerio de Industria, Turismo y Comercio ejercerá las facultades de expropiación que sean precisas para el cumplimiento de los fines de ENRESA, la cual tendrá, a tales efectos, la condición de beneficiaria. Las instalaciones necesarias para el cumplimiento de los fines que le son propios se declaran de utilidad pública a efectos de expropiación forzosa.
+4. El Estado asumirá la titularidad de los residuos radiactivos una vez se haya procedido a su almacenamiento definitivo. Asimismo, asumirá la vigilancia que, en su caso, pudiera requerirse tras la clausura de una instalación nuclear, una vez haya transcurrido el periodo de tiempo que se establezca en la correspondiente declaración de clausura.
+Se añade un párrafo al apartado 1 por la disposición final 9 de la Ley 7/2021, de 20 de mayo. Ref. BOE-A-2021-8447#df-9
+ Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 16 de julio de 2021. Ref. BOE-A-2021-11870
+ Se añade por la disposición final 9.1 de la Ley 11/2009, de 26 de octubre. Ref. BOE-A-2009-17000
+ Esta modificación surte efectos desde el 1 de enero de 2010, según establece la disposición final 12.e).
+
+### Artículo treinta y ocho ter
+
+Artículo treinta y ocho ter. Suelos o terrenos contaminados radiológicamente.
+1. Los titulares de actividades potencialmente contaminantes del suelo o terreno con radionucleidos, salvo los de aquellas instalaciones sometidas al régimen de autorizaciones previsto en el artículo 28, y los propietarios de los suelos o terrenos en los que se haya desarrollado en el pasado alguna actividad potencialmente contaminante con radionucleidos, deberán remitir al Ministerio para la Transición Ecológica y el Reto Demográfico un informe de situación sobre cada uno de los suelos o terrenos en los que se desarrollan, o se hayan desarrollado, dichas actividades. El Ministerio para la Transición Ecológica y el Reto Demográfico remitirá copia de este informe al Consejo de Seguridad Nuclear.
+2. Los titulares y propietarios a que se refiere el apartado anterior deberán poner en conocimiento del Ministerio para la Transición Ecológica y el Reto Demográfico todo suceso del que potencialmente se derive la contaminación radiológica de suelos o terrenos. El Ministerio para la Transición Ecológica y el Reto Demográfico remitirá la información al Consejo de Seguridad Nuclear.
+3. Los propietarios de fincas en las que se haya realizado alguna de las actividades potencialmente contaminantes con radionucleidos estarán obligados a declarar tal circunstancia en las escrituras públicas que documenten la transmisión de derechos sobre aquellas. La existencia de tal declaración se hará constar en el Registro de la Propiedad por nota al margen de la inscripción a que tal transmisión dé lugar.
+4. A la vista de la información disponible, el Ministerio para la Transición Ecológica y el Reto Demográfico, a través de la Secretaría de Estado de Energía y previo informe del Consejo de Seguridad Nuclear, podrá declarar un suelo o terreno como contaminado radiológicamente o como suelo o terreno con restricciones de uso. En esta declaración se determinará si es necesario realizar actuaciones para proceder a su restauración, estableciendo los términos, condiciones de ejecución y, en su caso, plazos para la misma.
+5. La declaración de un suelo o terreno como contaminado radiológicamente o con restricciones de uso será objeto de nota marginal en el Registro de la Propiedad según el procedimiento y en los términos en que reglamentariamente determine el Gobierno. Esta nota marginal se cancelará cuando el Ministerio para la Transición Ecológica y el Reto Demográfico, a través de la Secretaría de Estado de Energía, previo informe del Consejo de Seguridad Nuclear, declare que el suelo o terreno ha dejado de tener tal consideración.
+6. El Gobierno aprobará y publicará una lista de actividades potencialmente contaminantes de suelos o terrenos por razones radiológicas.
+Asimismo, en relación con los suelos o terrenos contaminados radiológicamente, regulará la declaración de estos suelos o terrenos como contaminados o con restricciones de uso, su inventario, los sujetos responsables de la descontaminación y restauración, y los mecanismos, tanto para su ejecución voluntaria, sin la previa declaración de suelo o terreno contaminado, como para su ejecución tras haber sido dictada dicha declaración.
+Se añade por la disposición final 1.2 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+Las personas que trabajen en actividades nucleares dentro de «zonas controladas» serán sometidas, antes de iniciar su trabajo en dichas zonas, a un examen médico, que posteriormente será periódico, hasta diez años después de cesar su trabajo en las mismas.
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+El extravío, abandono o sustracción de materiales o residuos radiactivos o de objetos contaminados deberá ponerse inmediatamente en conocimiento de las Autoridades competentes.
+Los materiales radiactivos almacenados o depositados deberán ser manejados con las precauciones que señale el oportuno Reglamento. Los accidentes y demás anormalidades que afecten a los materiales almacenados o depositados, con riesgo de daño producido por radiaciones ionizantes, deberán ser puestos inmediatamente en conocimiento de las Autoridades competentes.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+El transporte de los materiales radiactivos será lo más rápido y directo posible y podrá realizarse en cualquier clase de medios, salvo por los servicios postales.
+Los envíos o paquetes que contengan el material radiactivo irán debidamente protegidos y no podrán abrirse en tránsito sin consentimiento del remitente o del destinatario responsables, y en presencia de persona autorizada por ellos. Las Autoridades e Inspectores que les corresponda intervenir en el transporte, incluyendo a los Servicios de Aduanas, respetarán la norma anterior y despacharán el envío con la mayor diligencia y con preferencia sobre las demás mercancías, sin perjuicio de exigir al destinatario la información y comprobaciones posteriores que requiera el cumplimiento de su misión.
+Es obligatoria la comprobación de inocuidad radiactiva de los vehículos y medios empleados y su descontaminación absoluta si registrasen actividad.
+En atención al carácter especializado de estos transportes, se faculta a la Junta de Energía Nuclear para organizar su propio parque de vehículos.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+Se prohibe almacenar al mismo tiempo y en el mismo lugar materias inflamables, tóxicas, corrosivas o explosivas cuya peligrosidad haga más críticas las condiciones de almacenamiento de materiales radiactivos.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+Los combustibles nucleares y materiales radiactivos utilizados o poseídos por personas o entidades no autorizadas serán intervenidos, sin perjuicio del resto de las responsabilidades a que haya lugar.
+Se suprime el párrafo segundo por la disposición adicional 2.6 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+Los locales o dependencias donde estén instalados o vayan a instalarse aparatos de rayos X, sea cual fuere el uso a que se destinen, deben reunir las condiciones mínimas de seguridad de acuerdo con lo dispuesto en el oportuno Reglamento.
+
+### Artículo cuarenta y cuatro bis
+
+Artículo cuarenta y cuatro bis.
+Aquellas actividades industriales no reguladas como instalaciones nucleares o radiactivas que generen, o puedan generar, materiales residuales con contenido radiactivo en forma de subproductos, deberán someterse, cuando el Ministerio de Industria, Turismo y Comercio así lo determine, previo informe del Consejo de Seguridad Nuclear, a la regulación contenida en esta Ley y en sus reglamentos de desarrollo en cuanto a la generación y gestión de los citados subproductos.
+Se añade por la disposición adicional 2.7 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+## CAPÍTULO VII
+
+De la responsabilidad civil derivada de daños nucleares
+Este capítulo se deroga, salvo el art. cuarenta y cinco, por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+El explotador de una instalación nuclear o de una instalación radiactiva deberá establecer una garantía financiera para la cobertura de la responsabilidad civil derivada de los accidentes nucleares que involucren sustancias nucleares, así como de los accidentes que produzcan la emisión de radiaciones ionizantes que involucren materiales radiactivos que no sean sustancias nucleares, en las condiciones que se determinen por la normativa específica en materia de responsabilidad civil por daños nucleares.
+Téngase en cuenta que esta actualización entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Redacción vigente:
+ "El explotador de una instalación nuclear o de cualquier otra instalación que produzca o trabaje con materiales radiactivos o que cuente con dispositivos que puedan producir radiaciones ionizantes, será responsable de los daños nucleares. Esta responsabilidad será objetiva y estará limitada en su cuantía hasta el límite de cobertura que se señala en la presente Ley.
+ Si el explotador prueba que la persona que sufrió los daños nucleares los produjo o contribuyó a ellos por culpa o negligencia, el Tribunal competente podrá exonerar total o parcialmente al explotador de su obligación de abonar una indemnización por los daños sufridos por dicha persona.
+ No producirán responsabilidad para el explotador los daños nucleares causados por un accidente nuclear que se deba directamente a conflicto armado, hostilidades, guerra civil o insurrección o catástrofe natural de carácter excepcional."
+Se modifica por la disposición final 1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta modificación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+A los efectos de aplicación de la presente Ley deberá distinguirse entre:
+a) Daño nuclear producido por accidente en instalación nuclear.
+b) Daño nuclear producido por accidente en el resto de las actividades que empleen materiales radiactivos o dispositivos que puedan producir radiaciones ionizantes.
+En ambos casos queda admitida la distinción entre daño inmediato y daño diferido, según el mismo se produzca, advierta o se conozca al responsable dentro del plazo de diez años, a contar desde que el accidente tuvo lugar, o fuera de dicho plazo, respectivamente.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+Cuando el accidente nuclear sobrevenga durante el transporte de sustancias nucleares por el territorio nacional hacia otro país, o de un punto a otro de dicho territorio, será responsable de los daños el explotador de la instalación nuclear expedidora de la mercancía si radica en territorio nacional y no ha asumido en forma fehaciente dicha responsabilidad otro explotador.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+Si el accidente tuviese lugar a causa de sustancias nucleares remitidas desde el extranjero y destinadas a una instalación nuclear radicada en territorio nacional será responsable de los daños causados el destinatario al que se consigne la expedición, a partir del momento en que se haga cargo de dichas sustancias, salvo lo dispuesto en convenios internacionales en vigor ratificados por el Estado español. Estos mismos convenios se aplicarán en el caso de tránsito de sustancias nucleares por el territorio nacional.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+En cualquier otro supuesto de accidente nuclear que sobreviniera fuera de la instalación nuclear será responsable de los daños el explotador de la instalación o actividad que poseyó en último lugar la materia causante del perjuicio, salvo lo dispuesto en el artículo siguiente.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+El transportista de sustancias nucleares o persona que manipule desechos radiactivos podrán ser considerados como explotadores en relación, respectivamente, con las sustancias nucleares o con los desechos radiactivos y en sustitución del explotador interesado, siempre que sea permitida dicha sustitución por la autoridad competente.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno.
+El pago de indemnizaciones como consecuencia de un daño producido por accidente nuclear estará sujeto a la siguiente prelación:
+Primero. Daños a personas, que se indemnizarán según resulte, por lo menos, con la cantidad que correspondiera por la aplicación de las tablas del Seguro de Accidentes de Trabajo. Las indemnizaciones personales nunca serán prorrateables, y en el caso en que la cobertura no fuera suficiente a satisfacerlas, el Estado arbitrará los medios legales para cubrir la diferencia.
+Segundo. Daños en el patrimonio de las personas, que se indemnizarán una vez satisfechas las reclamaciones por daños personales. En el caso en que la cobertura no fuera suficiente, se procederá a un prorrateo con arreglo a la importancia del daño acaecido en cada patrimonio.
+En las cantidades que se paguen por concepto de indemnización no se incluirán los intereses ni los gastos judiciales.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos.
+El explotador responsable del accidente nuclear sólo estará obligado a satisfacer las indemnizaciones hasta el límite de la cobertura que señala la presente Ley; en caso de que el importe total excediera a la cobertura legal se estará a lo dispuesto en el artículo cincuenta y uno.
+Si la responsabilidad del daño nuclear recae sobre varios explotadores, éstos responderán solidariamente por el daño acaecido hasta el límite de cobertura que se señala.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres.
+El hecho de que un explotador de instalación nuclear o de cualquiera otra actividad que trabaje con materiales radiactivos o dispositivos que puedan producir radiaciones ionizantes sea declarado responsable por daños nucleares, no exime de la responsabilidad civil ulterior derivada de otros motivos distintos al daño nuclear ni de que pueda declararse a un tercero responsable de los daños.
+El explotador tendrá derecho de repetición siempre que así se hubiera estipulado expresamente en el correspondiente contrato.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro.
+A los efectos de lo establecido en la presente Ley sobre responsabilidad por accidentes nucleares, el Estado se considera como explotador respecto de aquellas instalaciones, buques y aeronaves y de las actividades productoras de radiaciones ionizantes que desarrollen sus trabajos mediante consignaciones presupuestarias aprobadas por el Gobierno y no se encuentren arrendadas o concedidas en su explotación a entidades particulares.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+## CAPÍTULO VIII
+
+De la cobertura del riesgo nuclear
+Este capítulo se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco.
+Todo explotador de una instalación nuclear o de cualquier otra instalación que produzca o trabaje con materiales radiactivos o cuente con dispositivos que puedan producir radiaciones ionizantes para desarrollar cualquier actividad de tipo nuclear, además de obtener la previa autorización, deberá establecer una cobertura de los riesgos que puedan producirse en relación con la responsabilidad derivada de los accidentes nucleares.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y seis
+
+Artículo cincuenta y seis.
+La cobertura del riesgo nuclear a que se refiere el artículo anterior para cubrir los daños inmediatos definidos en el artículo 46 de la presente Ley debe quedar establecida por cualquiera de los procedimientos siguientes:
+Primero. Contratación de una póliza de seguro que garantice la cobertura exigida.
+Segundo. Constitución en la Caja General de Depósitos de un depósito en metálico, en valores pignorables o cualquier otra garantía financiera aprobada por el Ministerio de Hacienda, hasta una cantidad equivalente a la cobertura exigida.
+En relación con los daños diferidos, el Gobierno adoptará las medidas oportunas para su indemnización.
+Dichas garantías deberán ser reconstituidas por el explotador en el supuesto de pago de indemnización con cargo a las mismas.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete.
+En el caso de instalaciones nucleares, la cobertura exigible, de acuerdo con el artículo 55 de la presente Ley, será de 700 millones de euros. No obstante, el Ministerio de Industria, Turismo y Comercio podrá imponer otro límite, no inferior a 30 millones de euros, cuando se trate de transportes de sustancias nucleares o de cualquier otra actividad, cuyo riesgo, a juicio del Consejo de Seguridad Nuclear, no requiera una cobertura superior. Estas cifras podrán ser modificadas por el Gobierno, a propuesta del Ministerio de Industria, Turismo y Comercio, para tener en cuenta la evolución de los convenios internacionales suscritos por el Estado español y el transcurso del tiempo o la variación del índice de precios al consumo para mantener el mismo nivel de cobertura.
+Cuando se trate de buques nucleares la garantía mínima exigible será fijada por Decreto, teniendo en cuenta los convenios internacionales ratificados por España.
+Para las instalaciones radiactivas, la cobertura mínima exigida será fijada en el Reglamento de esta Ley.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+ Se modifica el párrafo primero por la disposición adicional 1 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+ Se modifica el párrafo primero por la disposición adicional 4.2 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica el párrafo primero por la disposición adicional 5.2 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho.
+La responsabilidad civil derivada de la utilización de la energía nuclear podrá cubrirse por las entidades aseguradoras inscritas en el Registro Especial de la Dirección General de Seguros para la práctica de seguros sobre la responsabilidad civil que se sujeten a las condiciones, pólizas, tarifas y régimen de reservas que especialmente apruebe el Ministerio de Hacienda a propuesta de la Dirección General de Seguros. Para realizar esta clase de seguros las entidades aseguradoras podrán unirse, constituyendo una asociación, que tendrá las características especiales que asimísmo autorice el Ministerio de Hacienda.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve.
+El Consorcio de Compensación de Seguros participará en la cobertura de los riesgos asumidos por las entidades españolas, en el caso de que no se alcanzara por el conjunto de dichas entidades el límite mínimo de la resposabilidad civil prevista en esta Ley, asumiendo la diferencia hasta el límite indicado.
+Se deroga por la disposición derogatoria única.1 de la Ley 112/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 109, de 6 de mayo de 1964. Ref. BOE-A-1964-7562.
+
+### Artículo sesenta
+
+Artículo sesenta.
+En el caso de constituirse en asociación las entidades aseguradoras estará dirigida por un Comité, en el cual el Consorcio tendrá la representación que corresponda a la importancia de la responsabilidad civil asumida de propia cuenta.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno.
+El Consorcio de Compensación de Seguros será informado por las entidades aseguradoras de todas las operaciones de esta naturaleza que pretendan realizar, así como las de reaseguros en su caso, y tendrá la facultad de veto cuando lo estime oportuno para los intereses nacionales.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos.
+El Consorcio de Compensación de Seguros creará una Sección, con la debida independencia patrimonial y estadística, para atender a la cobertura de los riesgos de responsabilidad civil en la utilización de la energía nuclear que se le atribuye en esta Ley. Con independencia de lo establecido en su Reglamento, el Consorcio de Compensación Seguros se sujetará a las normas que sobre la cobertura de este riesgo establezca el Ministerio de Hacienda.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres.
+Dadas las especiales características de este riesgo de responsabilidad civil, será obligado en las operaciones de seguros que se concierten, establecer una franquicia, a deducir en todo caso a cuenta de los asegurados, cuyo importe se fijará en el correspondiente Reglamento.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y cuatro
+
+Artículo sesenta y cuatro.
+El Estado no está obligado a concertar seguro alguno que garantice la cobertura de los riesgos nucleares de sus propias instalaciones o actividades productoras de radiaciones ionizantes, obligándose a satisfacer las indemnizaciones que correspondan conforme a lo dispuesto en la presente Ley y a lo estipulado en los Convenios Internacionales con arreglo a los trámites previstos en el artículo cuarenta y siguientes de la Ley de Régimen Jurídico de la Administración del Estado.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+## CAPÍTULO IX
+
+De la reclamación de indemnización por daño nuclear
+Este capítulo se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y cinco
+
+Artículo sesenta y cinco.
+La acción derivada del artículo cuarenta y cinco de la presente Ley se ejercitará ante los Tribunales de la Jurisdicción ordinaria por el procedimiento correspondiente a la cuantía de la reclamación.
+La acción habrá de dirigirse también conjuntamente contra la entidad o entidades aseguradoras. Cuando la garantía se hubiera establecido con arreglo a la fórmula señalada en el número dos del artículo cincuenta y seis, los reclamantes podrán solicitar las medidas precautorias oportunas.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y seis
+
+Artículo sesenta y seis.
+La competencia corresponderá al Juzgado del lugar en que se haya producido el daño dentro de los términos fijados por el artículo sesenta y dos de la Ley de Enjuiciamiento Civil y de acuerdo con lo que señala el artículo sesenta y cinco de la presente Ley.
+Será preceptivo el informe técnico que sobre el accidente nuclear, sus causas y efectos corresponde emitir a la Junta de Energía Nuclear. Tal informe se aportará a las actuaciones a instancia de parte o como diligencia para mejor proveer por el Juzgado.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y siete
+
+Artículo sesenta y siete.
+El derecho a reclamar una indemnización en virtud de la presente Ley se extinguirá, si no se entabla la correspondiente acción, dentro del plazo de diez años, si se trata de daños inmediatos, y en el de veinte años si tienen la consideración de diferidos, conforme a lo que se declara en el último párrafo del artículo cuarenta y seis. A estos efectos se solicitarán los oportunos informes periciales sobre la naturaleza y clase de los daños reclamados.
+Quienes hayan formulado una acción de indemnización dentro de los plazos legales establecidos podrán hacer una reclamación complementaria en el caso de que el daño se agrave pasados dichos plazos, y siempre que no se haya dictado sentencia definitiva por el tribunal competente.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+## CAPÍTULO X
+
+De la intervención del Estado en la reparación de daños nucleares
+Este capítulo se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo sesenta y ocho
+
+Artículo sesenta y ocho.
+El Ministerio de Hacienda arbitrará los sistemas o procedimientos que juzgue oportunos para que sean satisfechas las cantidades que corresponda abonar al Estado en concepto de reparaciones por daños nucleares y con independencia de la responsabilidad civil en los casos previstos en esta Ley y en los convenios internacionales ratificados por España.
+Se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+## CAPÍTULO XI
+
+De los buques y aeronaves nucleares
+
+### Artículo sesenta y nueve
+
+Artículo sesenta y nueve.
+Quedan sujetos a lo dispuesto en el presente capítulo los buques y aeronaves nucleares, incluso los buques de guerra y aeronaves militares y los que gocen de igual estatuto jurídico; no obstante, para estos últimos no será aplicable lo que se establece en el artículo setenta y cuatro.
+
+### Artículo setenta
+
+Artículo setenta.
+Se considera como excepción al derecho de «tránsito inocente» el paso por aguas jurisdiccionales de los buques nucleares o el sobrevuelo por territorio nacional de aeronaves nucleares.
+
+### Artículo setenta y uno
+
+Artículo setenta y uno.
+El Gobierno del país que abandere el buque o matricule la aeronave nuclear y que haya otorgado la correspondiente licencia al explotador de los mismos, deberá:
+a) Acreditar, mediante el adecuado informe, la seguridad de los dispositivos o instalaciones nucleares a bordo del buque o aeronave.
+Dicho informe se referirá a:
+I) Seguridades sobre el normal funcionamiento del dispositivo, instalación o ingenio generador de la fuerza motriz del buque o aeronave nuclear.
+II) Seguridades sobre el combustible nuclear utilizado en dichos buques o aeronaves y sobre la evacuación de desechos y residuos radiactivos.
+III) Aprobación oficial del manual de operaciones de los generadores nucleares de fuerza motriz.
+b) Verificar y asegurar la protección contra las radiaciones ionizantes respecto de las personas a bordo y de las que se encuentren en las inmediaciones del buque o aeronave durante su permanencia o tránsito por aguas jurisdiccionales o espacio aéreo del territorio nacional.
+Este requisito comprenderá:
+I) Aprobación oficial de las medidas de protección que han de observarse en el buque o aeronave nuclear.
+II) Demostración de que las garantías de instalación y del régimen de seguridad tienen plena vigencia con arreglo a una verificación periódica y según se establezca o recomienden internacionalmente.
+c) Garantizar en la forma que se considere suficiente la cobertura de la responsabilidad civil que pudiera derivarse de cualquier daño o accidente nuclear.
+Dicha garantía se referirá a:
+I) La aceptación por el Gobierno del país que abandere o matricule el buque o aeronave nuclear de todas las responsabilidades derivadas de accidentes o daños nucleares que se produzcan en o por el buque o aeronave.
+II) La existencia de una cobertura de riesgo nuclear no inferior a la cantidad que se establezca en los Convenios internacionales suscritos por España o incluso de importe superior cuando así se fije de común acuerdo entre los Gobiernos español y del país que abandere o matricule el buque o aeronave nuclear.
+III) La adopción de medidas por el país que abandere o matricule el buque o aeronave nuclear para que las indemnizaciones del seguro y otras garantías financieras estén efectivamente disponibles en la jurisdicción del mismo.
+
+### Artículo setenta y dos
+
+Artículo setenta y dos.
+La responsabilidad a que se alude en el artículo anterior tendrá lugar de pleno derecho cuando se demuestre que el daño fue producido por un accidente nuclear en el que intervenga el combustible nuclear del buque o aeronave o los productos o desechos radiactivos del mismo. Esta disposición se hace extensiva a los casos en que sean transportados proyectiles nucleares o combustibles nucleares, aun cuando estos últimos no se utilicen para generar fuerza motriz.
+
+### Artículo setenta y tres
+
+Artículo setenta y tres.
+Por las autoridades marítimas o aéreas nacionales podrá denegarse la estancia en puerto o aeropuerto del buque o aeronave nuclear cuando se incumplan las disposiciones de dichas autoridades para la aplicación de lo dispuesto en el presente capítulo o concurra cualquier otra causa que justifique la negativa.
+
+### Artículo setenta y cuatro
+
+Artículo setenta y cuatro.
+Las autoridades marítimas nacionales podrán realizar inspecciones de los buques nucleares dentro de las aguas territoriales y verificar sus condiciones de seguridad y funcionamiento antes de que los mismos sean autorizados a entrar en puerto o a transitar por dichas aguas.
+Las autoridades aéreas nacionales realizarán la inspección y verificación indicada una vez que la aeronave nuclear tome tierra y antes de que ésta se aproxime a la zona de tráfico normal del aeropuerto.
+
+### Artículo setenta y cinco
+
+Artículo setenta y cinco.
+La Junta de Energía Nuclear prestará su colaboración a las autoridades marítimas o aéreas del territorio nacional en la verificación de las garantías, comprobación de las protecciones y establecimiento de medidas de seguridad en puertos y aeropuertos.
+
+### Artículo setenta y seis
+
+Artículo setenta y seis.
+Los buques o aeronaves nucleares permanecerán en las zonas portuarias o de los aeropuertos que fijen las autoridades competentes, previo asesoramiento de la Junta de Energía Nuclear, y en todo caso deberán observarse las precauciones y medidas de seguridad que se establecen en el capítulo sexto de la presente Ley respecto a las «zonas controladas».
+
+### Artículo setenta y siete
+
+Artículo setenta y siete.
+En caso de arribada o aterrizaje forzosos los buques y aeronaves deberán someterse a la designación del lugar en que deben permanecer mientras subsistan las circunstancias que motivaron la llegada imprevista. Esta designación se hará por la autoridad nacional competente, que podrá adoptar por sí las medidas conducentes a situar el buque o aeronave en el lugar indicado.
+Los buques nucleares deberán fondearse en zona de aguas tranquilas y alejados de núcleos de población o industriales.
+Las aeronaves nucleares deberán aterrizar en zonas de aeródromos o aeropuertos de escaso tráfico y alejadas de las instalaciones de los mismos y de las zonas de afluencia de personal y viajeros.
+Lo establecido en el presente artículo obliga igualmente a los buques de guerra o aeronaves militares con generadores nucleares de fuerza motriz o que posean armamento nuclear.
+
+### Artículo setenta y ocho
+
+Artículo setenta y ocho.
+Para los casos de buques o aeronaves nucleares abanderados en España la Junta de Energía Nuclear asesorará a la autoridad competente sobre la procedencia de concesión, retirada o suspensión de la autorización y respecto a las garantías que deben exigirse a los explotadores para el cumplimiento de lo dispuesto en la presente Ley.
+
+### Artículo setenta y nueve
+
+Artículo setenta y nueve.
+El explotador de un buque o aeronave nuclear será considerado como explotador de una instalación nuclear, y, en consecuencia, le será de aplicación lo establecido en el capítulo séptimo sobre responsabilidad civil, y en cuanto a la cobertura del riesgo nuclear se estará a lo preceptuado en el capítulo octavo si se trata de buques y aeronaves nucleares que se abanderen en España.
+Sin embargo, la aplicación de las disposiciones contenidas en los citados capítulos no se hará extensiva a las indemnizaciones de salvamento ni a la contribución por la avería común.
+
+### Artículo ochenta
+
+Artículo ochenta.
+Los buques o aeronaves nucleares quedan obligados, además, al cumplimiento de las normas internacionales dictadas sobre el paso por el mar territorial y zona contigua y de vuelo sobre el territorio nacional de los Estados, respectivamente.
+
+## CAPÍTULO XII
+
+De las patentes, marcas e invenciones relacionadas con la energía nuclear
+
+### Artículo ochenta y uno
+
+Artículo ochenta y uno.
+Con las particularidades que se determinan en el presente capítulo, las invenciones de carácter o de aplicación nuclear podrán ser objeto de registro en cualquiera de las modalidades de protección previstas en la legislación sobre propiedad industrial y con arreglo al procedimiento establecido en dicha legislación.
+
+### Artículo ochenta y dos
+
+Artículo ochenta y dos.
+Si del examen de las descripciones de una solicitud se dedujera por el Registro de la Propiedad Industrial que la invención que se pretende proteger es de carácter o de aplicación nuclear, será preceptivo recabar informe de la Junta de Energía Nuclear, que versará sobre los siguientes extremos:
+Primero. Sobre la patentabilidad de la invención en la modalidad que se trata de registrar, y en su caso si se encuentra comprendida en algunas de las excepciones del artículo cuarenta y ocho del vigente Estatuto de la Propiedad Industrial, así como sobre la suficiencia y claridad de las descripciones y reivindicaciones.
+Segundo. Sobre la naturaleza o aplicación nuclear de la invención y si debe mantenerse secreta.
+Una vez recibido el anterior informe, previa audiencia del interesado y oyendo nuevamente a la Junta de Energía Nuclear si fuera necesario, el Registro de la Propiedad Industrial concederá o denegará la patente de acuerdo con la legislación específica sobre la materia.
+Por el Registro de la Propiedad Industrial no se otorgará ningún signo distintivo (marca, nombre comercial o rótulo de establecimiento) que haga referencia a la terminología nuclear sin el informe de la Junta de Energía Nuclear.
+
+### Artículo ochenta y tres
+
+Artículo ochenta y tres.
+Siempre que el interés general exija la divulgación de una invención en beneficio del progreso de la investigación o industria nuclear española, o su uso exclusivo por el Estado, o que por razones especiales deba mantenerse secreta o reservada, las patentes respectivas podrán ser expropiadas de acuerdo con lo dispuesto en la vigente Ley de Expropiación Forzosa.
+Los titulares de patentes de todas clases sobre invenciones de carácter o de aplicación nuclear podrán solicitar del Registro de la Propiedad Industrial ser exceptuados de la justificación de la puesta en práctica y explotación exigida por el vigente Estatuto de la Propiedad Industrial. Dicha excepción será acordada por el Ministerio de Industria previo informe de la Junta de Energía Nuclear, determinándose en el acuerdo el alcance de la excepción.
+
+## CAPÍTULO XIII
+
+De la no proliferación nuclear y protección física de los materiales nucleares
+Se modifica por el art. 16 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+
+### Artículo ochenta y cuatro
+
+Artículo ochenta y cuatro. Obligaciones en materia nuclear y protección física de los materiales nucleares.
+Toda persona física o jurídica queda sujeta al cumplimiento de las obligaciones derivadas de los compromisos contraídos por el Estado español o del propio ordenamiento interno en materia de no proliferación nuclear y protección física de los materiales nucleares y, en particular, a realizar las actividades de seguimiento, control y custodia de los materiales nucleares, a permitir las inspecciones y comprobaciones que fueran precisas en lugares o instalaciones y a informar a las autoridades competentes.
+Se modifica por el art. 16 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+## CAPÍTULO XIV
+
+De las infracciones y sanciones en materia nuclear
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+
+### Artículo ochenta y cinco
+
+Artículo ochenta y cinco. Responsables.
+Sin perjuicio de las eventuales responsabilidades civiles, penales o de otro orden y de la responsabilidad material que resulte de la comisión de hechos sancionables, el titular de la instalación o responsable de la actividad se considerará responsable en atención a sus deberes de vigilancia y control sobre la actividad.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### Artículo ochenta y seis
+
+Artículo ochenta y seis. Infracciones.
+Son infracciones administrativas las acciones u omisiones que supongan incumplimiento o inobservancia de lo dispuesto en la presente Ley, en la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear y en sus disposiciones de desarrollo, así como en tratados y convenios suscritos y ratificados por España.
+Por su gravedad, las infracciones se clasifican en muy graves, graves y leves.
+a) Son infracciones muy graves:
+1. El ejercicio de cualquier actividad regulada por esta Ley o sus normas de desarrollo sin haber obtenido la preceptiva habilitación, o bien cuando esté caducada, suspendida o revocada siempre que de ello se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+2. La inobservancia del requerimiento del Consejo de Seguridad Nuclear, sus agentes u otras autoridades competentes, de cesar la actividad en curso o de llevar a parada la operación de la instalación nuclear o radiactiva de que se trate.
+3. El incumplimiento de los términos, límites o condiciones incorporados a las autorizaciones, así como la no aplicación de las medidas técnicas, administrativas o de otro orden que se impongan a una actividad o al funcionamiento de una instalación o el incumplimiento de los plazos señalados para su puesta en práctica, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+4. El incumplimiento del contenido de las instrucciones emitidas en desarrollo de las citadas autorizaciones o licencias, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+5. La no adopción de medidas técnicas, administrativas o de otro orden para la corrección de deficiencias en la actividad conocidas por el titular, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+6. El funcionamiento de instalaciones nucleares o radiactivas o la manipulación de materiales radiactivos sin disponer del personal provisto de licencia, diploma o acreditación requeridos para la dirección o ejecución de las operaciones, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+7. El incumplimiento de las obligaciones propias del personal con licencia, así como de los términos y condiciones incorporados a la misma, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+8. La operación de instalaciones o la realización de actividades que puedan suponer exposición a radiaciones, de origen artificial o natural, sin adoptar las medidas necesarias para su desarrollo de acuerdo con los principios, limites y procedimientos establecidos en materia de protección sanitaria contra las radiaciones ionizantes, tanto en situaciones normales como en caso de exposiciones accidentales o emergencias, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+9. La manipulación, traslado o disposición de materiales radiactivos o equipos productores de radiaciones ionizantes, que hayan sido precintados o intervenidos por razones de seguridad nuclear o protección radiológica.
+10. El abandono o la liberación de materiales radiactivos, cualquiera que sea su estado físico o formulación química, a la atmósfera, agua, suelo o subsuelo, cuando por la magnitud y características de los mismos, se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+10 bis. El incumplimiento por los titulares de las actividades o por los propietarios de los suelos o terrenos de las obligaciones de notificación, registro y restauración ambiental previstas en esta ley en relación con los suelos o terrenos contaminados, o con restricciones de uso, o potencialmente contaminados radiológicamente, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+11. La adición deliberada de material radiactivo en la producción de alimentos, juguetes, adornos personales y cosméticos, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+12. El suministro o transferencia de materiales radiactivos a personas o entidades que no dispongan de la autorización requerida para su posesión y uso o sin que esas sustancias o materiales cumplan los requisitos establecidos sobre identificación y marcado, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+13. No disponer de los sistemas requeridos para almacenamiento, tratamiento y, en su caso, evacuación de efluentes o residuos radiactivos, siempre que de estas conductas se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+14. No proceder al desmantelamiento y clausura de instalaciones nucleares o radiactivas una vez finalizado el funcionamiento de las mismas o no disponer un destino en condiciones de seguridad para los materiales radiactivos en desuso, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+15. El ejercicio de cualquier actividad regulada por la presente Ley, o en la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y sus disposiciones de desarrollo, sin tener cubierta la responsabilidad civil por los daños que la misma pudiera causar, en los términos establecidos en la normativa específica de aplicación.
+Si la infracción se refiere a un transporte de material radiactivo, el presente apartado será aplicable únicamente si afecta a un transporte de combustible nuclear, irradiado o no, o de residuos radiactivos que revistan una concentración tal de radionucléidos que deba tenerse en cuenta la generación de energía térmica durante su almacenamiento y evacuación.
+16. El impedimento del acceso al personal facultativo designado por las autoridades nacionales e internacionales legalmente habilitadas y al personal que le acompañe, acreditado por éstas, a instalaciones nucleares o radiactivas o a otros locales o lugares, cualquiera que sea la actividad desarrollada en éstos, cuando sea necesario para el desarrollo de la actividad inspectora.
+17. La obstrucción a la inspección, evaluación o control del personal facultativo designado por las autoridades legalmente habilitadas y al personal que le acompañe acreditado por éstas mediante el impedimento de la toma de muestras o medidas, o la ocultación o denegación de documentos o información, o la aportación de documentación o información falsa o deliberadamente incompleta, sea o no solicitada por aquellos, cuando por su naturaleza y contenido fuera necesario para el establecimiento de las conclusiones de la inspección, evaluación o control, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+18. El incumplimiento de las obligaciones establecidas en materia de información y notificación en tiempo y forma a las autoridades legalmente habilitadas o a sus agentes, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+19. El incumplimiento deliberado del deber de remisión de información, la aportación intencionada de documentación falsa o incompleta, la pérdida de control del material fisionable especial cuando dicho material pueda tener un uso directo como parte de un dispositivo nuclear explosivo y no se recupere, la obstrucción a la inspección, evaluación o control por parte del personal facultativo designado por las autoridades nacionales o internacionales legalmente habilitadas y el desarrollo de actividades sujetas al régimen de no proliferación nuclear cuando éstas se desarrollen voluntariamente con el fin de coadyuvar a la fabricación de un dispositivo nuclear explosivo, aun cuando no se manejen materiales nucleares, cuando de cualquiera de estos incumplimientos se derive la imposibilidad del cumplimiento de las obligaciones en materia de no proliferación nuclear derivadas de los acuerdos internacionales celebrados por España.
+20. La insuficiencia o inobservancia de medidas requeridas para evitar la presencia de material no controlado en áreas vitales o protegidas de una instalación nuclear o radiactiva cuando, por su naturaleza y localización, se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+21. La insuficiencia o inobservancia de medidas orientadas a evitar la presencia de personal no autorizado en áreas vitales o protegidas de una instalación nuclear o radiactiva cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+b) Son infracciones graves:
+1. La realización de acciones u omisiones tipificadas en el epígrafe a) de este artículo, con la excepción de las recogidas en los números 2, 9, 15, 16, 19 y 21, siempre que no se derive peligro grave para la seguridad o salud de las personas ni daño grave a las cosas o al medio ambiente, y que la conducta no esté tipificada como infracción leve.
+2. No adoptar las medidas necesarias para la disposición segura de materiales radiactivos encontrados en situaciones fuera de control, sea porque nunca lo han estado o porque han sido abandonados, perdidos, extraviados, robados o transferidos en condiciones irregulares, salvo los casos en que se derive peligro de escasa trascendencia para las personas, o daño a las cosas o al medio ambiente.
+3. El incumplimiento de las obligaciones relativas a generación, archivo y custodia de los registros requeridos para el desarrollo de la actividad o para el control de materiales radiactivos, cuando dicho incumplimiento suponga pérdida de la información afectada.
+4. No suministrar a los trabajadores la formación o información requeridas para que desarrollen su actividad cumpliendo las normas y procedimientos establecidos sobre seguridad nuclear, protección contra las radiaciones ionizantes, protección física o actuación en caso de emergencia, salvo los casos en que se derive peligro de escasa trascendencia para la seguridad o salud de las personas, o daño a las cosas o al medio ambiente.
+5. Las acciones u omisiones que impidan o dificulten al personal de la organización o al personal de empresas externas que presten servicios a la instalación, dentro o fuera de la misma, el ejercicio del derecho de comunicación de deficiencias o disfunciones que puedan afectar a la seguridad nuclear o protección radiológica o su participación en el esclarecimiento de los hechos, o que supongan medidas discriminatorias para aquellos que hubieran ejercitado tal derecho.
+6. El transporte de materiales radiactivos, sin tener cubierta la responsabilidad civil por los daños que la actividad pudiera causar, en los términos establecidos en la normativa específica de aplicación.
+Si el transporte afecta a combustible nuclear, irradiado o no, o a residuos radiactivos que revistan una concentración tal de radionucléidos, que deba tenerse en cuenta la generación de energía térmica durante su almacenamiento y evacuación, se aplicará el tipo de infracción muy grave previsto en el apartado 15 del artículo 86.a).
+7. El incumplimiento deliberado del deber de remisión de información, la aportación intencionada de documentación falsa o incompleta, la pérdida de control del material fisionable especial cuando se recupere y la obstrucción a la inspección, evaluación o control por parte del personal facultativo designado por las autoridades nacionales o internacionales legalmente habilitadas cuando cualquiera de estos incumplimientos dificulte el cumplimiento de las obligaciones en materia de no proliferación nuclear derivadas de los acuerdos internacionales celebrados por España.
+8. La insuficiencia o inobservancia de medidas orientadas a evitar la presencia de personal no autorizado en áreas vitales o protegidas de una instalación nuclear o radiactiva.
+c) Son infracciones leves:
+1. La realización de acciones u omisiones tipificadas en el epígrafe a) de este artículo, con la excepción de las recogidas en los números 2, 9, 15, 16, 19 y 21 siempre que no se derive peligro para la seguridad o salud de las personas, o daño a las cosas o al medio ambiente, o se consideren de escasa trascendencia.
+2. No adoptar las medidas necesarias para la disposición segura de materiales radiactivos encontrados en situaciones fuera de control, sea porque nunca lo han estado o porque han sido abandonados, perdidos, extraviados, robados o transferidos en condiciones irregulares, en los casos en que no se derive peligro para la seguridad o salud de las personas, o daño a las cosas o al medio ambiente, o éste sea de escasa trascendencia.
+3. El incumplimiento de las obligaciones relativas a generación, archivo y custodia de los registros requeridos para el desarrollo de la actividad o para el control de materiales radiactivos, cuando la información afectada sea recuperada.
+4. No suministrar a los trabajadores la formación o información requeridas para que desarrollen su actividad cumpliendo las normas y procedimientos establecidos sobre seguridad nuclear, protección contra las radiaciones ionizantes, protección física o actuación en caso de emergencia, cuando no se derive peligro para la seguridad o salud de las personas, o daño a las cosas o al medio ambiente, o éste sea de escasa trascendencia.
+5. El incumplimiento meramente formal de las obligaciones en materia de no proliferación nuclear, siempre que ello no dificulte el cumplimiento de las obligaciones en materia de no proliferación nuclear derivadas de los acuerdos internacionales celebrados por España, así como la pérdida de control de material básico.
+Se añade el 10 bis a la letra a) por la disposición final 1.3 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df
+ Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoriaúnica.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### Artículo ochenta y siete
+
+Artículo ochenta y siete. Cualificación.
+1. A efectos de este Capítulo se entenderá que ha existido peligro grave para la seguridad o salud de las personas cuando se degrade el funcionamiento seguro de la actividad de tal manera que los dispositivos, mecanismos o barreras de seguridad remanentes, o las medidas administrativas disponibles, no permitan garantizar que se pueda evitar la exposición a radiaciones ionizantes, con dosis correspondientes a la aparición de efectos deterministas.
+2. A los efectos de este Capítulo se entenderá que ha existido daño grave a las cosas o al medio ambiente cuando, como consecuencia de la exposición a radiaciones ionizantes, se vean afectados los usos presentes o futuros de las cosas o del medio ambiente.
+3. A los efectos de este Capítulo, se entenderá que no ha existido peligro para la seguridad o salud de las personas, o que éste es de escasa trascendencia, cuando no se vea afectada significativamente la seguridad de la actividad o instalación, y no se produzcan situaciones de las que pudiera derivarse exposición indebida a radiaciones ionizantes, o de producirse tales situaciones, las dosis estuvieran por debajo de los límites establecidos reglamentariamente.
+4. A los efectos de este Capítulo se entiende que ha existido daño de escasa trascendencia, cuando no se vean afectados los usos presentes o futuros de las cosas y el medio ambiente.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### Artículo ochenta y ocho
+
+Artículo ochenta y ocho. Graduación de las sanciones.
+1. Las sanciones se graduarán, atendiendo a los principios de proporcionalidad y a las circunstancias especificadas en el número 2 de este artículo, en tres grados: máximo, medio y mínimo.
+2. Para la graduación de las correspondientes sanciones se tendrán en cuenta las siguientes circunstancias:
+a) La magnitud del daño causado a las personas, las cosas o el medio ambiente.
+b) La duración de la situación de peligro derivada de la infracción.
+c) El impacto de la conducta infractora sobre la seguridad de la actividad.
+d) La existencia o no de antecedentes de sobreexposición a radiaciones ionizantes del personal trabajador y del público, en el término de dos años.
+e) Los antecedentes de gestión de la seguridad en la actividad en el término de dos años.
+f) El incumplimiento de las advertencias previas, requerimientos o apercibimientos de las autoridades competentes.
+g) La falta de consideración de las comunicaciones del personal trabajador, de sus representantes legales o de terceros, relacionadas con la seguridad nuclear o la protección radiológica.
+h) El beneficio obtenido como consecuencia de la comisión de la infracción.
+i) La existencia de intencionalidad o negligencia en la comisión de la infracción, cuando estas circunstancias no estén consideradas en la tipificación de la infracción y la reiteración.
+j) La diligencia en la detección e identificación de los hechos constitutivos de la infracción y en su comunicación a las autoridades competentes.
+k) El haber procedido el responsable a la subsanación inmediata de las causas y efectos derivados de la infracción por su propia iniciativa.
+l) La colaboración con la autoridad competente en el esclarecimiento de los hechos.
+m) La reincidencia, por comisión en el término de dos años, de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+n) La cantidad de material nuclear fuera de control y su recuperación o no, cuando esta última circunstancia no esté contemplada en la tipificación de la infracción.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### Artículo ochenta y nueve
+
+Artículo ochenta y nueve. Sanciones.
+1. Cuando se trate de centrales nucleares, las infracciones tipificadas en esta Ley se sancionarán:
+Las muy graves, con multa en su grado mínimo desde 9.000.001 hasta 15.000.000 de euros, en su grado medio desde 15.000.001 hasta 20.000.000 de euros, y en su grado máximo desde 20.000.001 hasta 30.000.000 de euros.
+Las graves, con multa en su grado mínimo desde 300.001 euros hasta 1.500.000 euros, en su grado medio desde 1.500.001 euros hasta 4.500.000 euros y en su grado máximo desde 4.500.001 hasta 9.000.000 de euros.
+Las leves, con multa, en su grado mínimo de 15.000 euros, en su grado medio desde 15.001 euros hasta 150.000 euros y en su grado máximo desde 150.001 euros hasta 300.000 euros.
+2. Cuando se trate de instalaciones nucleares que no sean centrales nucleares, las infracciones tipificadas en esta Ley se sancionarán:
+Las muy graves, con multa en su grado mínimo desde 3.000.001 euros hasta 5.000.000 de euros, en su grado medio desde 5.000.001 hasta 7.000.000 de euros, y en su grado máximo desde 7.000.001 hasta 10.000.000 de euros.
+Las graves, con multa en su grado mínimo desde 100.001 euros hasta 500.000 euros, en su grado medio desde 500.001 euros hasta 1.500.000 euros, y en su grado máximo desde 1.500.001 hasta 3.000.000 de euros.
+Las leves, con multa en su grado mínimo de 12.000 euros, en su grado medio desde 12.001 euros hasta 50.000 euros, y en su grado máximo desde 50.001 hasta 100.000 euros.
+3. Cuando se trate de instalaciones radiactivas de segunda y tercera categoría, Unidades Técnicas de Protección Radiológica, Servicios de Protección Radiológica, Centros de Dosimetría, Empresas de Venta y Asistencia Técnica de equipos de rayos X médicos, transporte de material radioactivo, o de otras actividades y entidades reguladas en esta ley y en sus normas de desarrollo, las infracciones tipificadas en esta Ley se sancionarán:
+Las muy graves: Desde 150.001 hasta 200.000 euros en grado mínimo, desde 200.001 hasta 400.000 euros en grado medio y desde 400.001 hasta 600.000 euros en grado máximo.
+Las graves: Desde 6.001 hasta 15.000 euros en grado mínimo, desde 15.001 hasta 30.000 euros en grado medio y desde 30.001 hasta 150.000 euros en grado máximo.
+Las leves: 1.200 euros en grado mínimo, desde 1.201 hasta 3.000 euros en grado medio y desde 3.001 hasta 6.000 euros en grado máximo.
+4. Cuando se trate de instalaciones radiactivas de primera categoría o de transportes de fuentes radiactivas correspondientes a la actividad principal de dichas instalaciones, las multas se reducirán, para todos sus grados, a un tercio de las establecidas en el apartado 2 de este artículo.
+5. Si se trata de transportes de combustibles nucleares, irradiados o no, o de residuos radiactivos que revistan una concentración tal de radionucléidos que deba tenerse en cuenta la generación de energía térmica durante su almacenamiento y evacuación, las multas se reducirán, para todos sus grados, a dos tercios de las establecidas en el apartado 2 de este artículo.
+6. Las infracciones muy graves podrán dar lugar, conjuntamente con las multas previstas, a la revocación, retirada o suspensión temporal de las autorizaciones, licencias o inscripción en registros. La efectividad de estas medidas podrá asegurarse procediendo a la intervención o al precintado de las sustancias nucleares, de los materiales radiactivos o equipos productores de radiaciones ionizantes o a la implantación de cualquier medida de carácter provisional que resulte aplicable.
+Igualmente podrán dar lugar a la inhabilitación temporal o definitiva al acceso a la condición de titular de cualquier tipo de autorización o licencia regulada por la presente Ley, en la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear y en sus disposiciones de desarrollo.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### Artículo noventa
+
+Artículo noventa. Otras medidas.
+La incoación de un expediente por infracción de los preceptos de la presente Ley o de los Reglamentos que la desarrollen, determinará, si procede, previo acuerdo del Ministerio de Industria, Turismo y Comercio, la intervención inmediata del combustible nuclear o de los materiales radiactivos y la consiguiente prohibición para adquirir nuevas cantidades de combustibles o materiales en tanto no hayan desaparecido las causas que motivaron dicha intervención.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444
+
+### CAPÍTULO XIV
+
+De las infracciones y sanciones en materia nuclear
+Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+### Artículo noventa y uno
+
+Artículo noventa y uno. Procedimiento y competencias.
+1. El procedimiento para la imposición de las sanciones se ajustará a los principios de los artículos 127 a 138 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común, y a lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el procedimiento para el ejercicio de la potestad sancionadora, a excepción del plazo máximo para la tramitación y notificación de la resolución del mismo, que será de un año.
+2. El Consejo de Seguridad Nuclear propondrá, en su caso, la iniciación del correspondiente expediente sancionador respecto de aquellos hechos que pudieran ser constitutivos de infracción en materia de seguridad nuclear, protección radiológica o protección física, poniendo en conocimiento del órgano al que corresponda incoar el expediente tanto los hechos constitutivos de la infracción apreciada como las circunstancias relevantes que sean necesarias para su adecuada calificación.
+Asimismo, iniciado un expediente sancionador en materia de seguridad nuclear, protección radiológica o protección física, el Consejo de Seguridad Nuclear emitirá, con carácter preceptivo, un informe en el plazo de tres meses, para la adecuada calificación de los hechos objeto del procedimiento. Este informe se emitirá cuando dicha iniciación no fuera a propuesta del Consejo de Seguridad Nuclear, o en el supuesto en que, habiéndolo sido, consten en dicho procedimiento otros datos además de los comunicados por dicho ente.
+Dicho informe del Consejo de Seguridad Nuclear producirá la suspensión del plazo de resolución del procedimiento sancionador, hasta su emisión, y en todo caso, hasta un máximo período de tres meses desde que fue requerido.
+3. En el caso de la presunta comisión de infracciones que pudieran calificarse como leves, el Consejo de Seguridad Nuclear de modo alternativo a la propuesta de apertura de expediente sancionador podrá apercibir al titular de la actividad y requerir las medidas correctoras que correspondan, cuando las circunstancias del caso así lo aconsejen y siempre que no se deriven daños y perjuicios directos a las personas o al medio ambiente.
+Si este requerimiento no fuese atendido, el Consejo de Seguridad Nuclear podrá imponer multas coercitivas por un importe que será, la primera vez, del diez por ciento, y las segundas y sucesivas del veinte por ciento del valor medio de la sanción que correspondiera imponer, en su grado medio, con el fin de obtener la cesación de conductas activas u omisivas que resulten contrarias a las prescripciones de la presente Ley, de la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y sus disposiciones de desarrollo.
+4. Con independencia de la sanción que pudiera corresponder en su caso al titular, el Consejo de Seguridad Nuclear podrá amonestar por escrito a la persona física que, mediante negligencia grave, sea responsable de la realización de una mala práctica por la que se haya originado la comisión material de hechos susceptibles de sanción.
+5. En el ámbito de la Administración del Estado, la competencia para la iniciación e instrucción de los expedientes sancionadores previstos en este capítulo corresponderá a los órganos y unidades que integran la Dirección General de Política Energética y Minas.
+6. En el ámbito de la Administración del Estado, las sanciones por infracciones muy graves cometidas por titulares de instalaciones nucleares o radiactivas de primera categoría serán impuestas por el Consejo de Ministros, las graves por el Ministro de Industria, Turismo y Comercio, y las leves por el Director General de Política Energética y Minas.
+Cuando se trate de sanciones por infracciones muy graves cometidas por los titulares de instalaciones radiactivas de segunda y tercera categoría y restantes actividades reguladas por esta Ley o sus normas de desarrollo, serán impuestas por el Ministro de Industria, Turismo y Comercio, y por el Director General de Política Energética y Minas en los supuestos de infracciones graves y leves.
+7. En el ámbito de las Comunidades Autónomas se estará a lo previsto en su propia normativa.
+8. El Gobierno, mediante Real Decreto, podrá actualizar la cuantía de las multas establecidas en esta Ley, de acuerdo con las variaciones que experimente el índice de precios al consumo.
+9. En materia de transporte de materiales radiactivos será de aplicación el presente cuadro sancionador en aquellos aspectos específicamente regulados por esta Ley o sus normas de desarrollo, sin perjuicio de las infracciones y sanciones establecidas en la legislación básica sobre ordenación del transporte.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+### Artículo noventa y dos
+
+Artículo noventa y dos. Medidas cautelares.
+El órgano competente para imponer la sanción podrá acordar, a propuesta del Consejo de Seguridad Nuclear, entre otras, las siguientes medidas provisionales:
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la infracción o en la producción del riesgo o daño.
+b) Precintado de aparatos o equipos.
+c) Incautación de materiales o equipos.
+d) Suspensión temporal, parcial o total del funcionamiento de las instalaciones o de la ejecución de las actividades.
+Las medidas señaladas en el apartado anterior podrán ser acordadas antes de la iniciación del procedimiento administrativo sancionador o durante el mismo, en las condiciones establecidas en los artículos 72 y 136 de la Ley 30/1992, sobre Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+### Artículo noventa y tres
+
+Artículo noventa y tres. Prescripción.
+1. Las infracciones y sanciones previstas en este capítulo prescribirán:
+a) Las infracciones muy graves, a los cinco años, las graves a los tres años y las leves al año.
+b) Las sanciones impuestas por faltas muy graves a los cinco años, las impuestas por faltas graves a los tres años y las impuestas por faltas leves al año.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En las infracciones derivadas de una actividad continuada, la fecha inicial del cómputo será la de finalización de la actividad, la del último acto en el que la infracción se consume o en el momento en que se detecte por la Administración competente la existencia de la infracción.
+Interrumpirá la prescripción la iniciación del procedimiento sancionador, con el conocimiento del interesado, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+3. El tiempo de prescripción de las sanciones comenzará a contarse desde la fecha en que la resolución sancionadora sea firme, interrumpiéndose la prescripción por la iniciación, con el conocimiento del interesado, del procedimiento correspondiente.
+Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+## CAPÍTULO XV
+
+Disposiciones finales
+
+### Artículo noventa y cuatro
+
+Artículo noventa y cuatro.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado», autorizándose al Gobierno para que establezca los Reglamentos precisos para su aplicación y desarrollo.
+Se modifica por la disposición adicional 2.8 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Su anterior numeración era art. 96.
+ Se añade un párrafo segundo al apartado 2 por la disposición adicional 5 de la Ley 14/1999, de 4 de mayo. Ref. BOE-A-1999-10035
+ Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+### Artículo noventa y cinco
+
+Artículo noventa y cinco.
+Quedan derogadas las siguientes disposiciones:
+Decreto-ley de veintinueve de diciembre de mil novecientos cuarenta y ocho («Boletín Oficial del Estado» del día diecinueve de enero de mil novecientos cuarenta y nueve), sobre sanción de las infracciones cometidas contra la legislación relativa a investigación, explotación, tenencia, etc., de minerales radiactivos.
+Decreto de veintinueve de diciembre de mil novecientos cuarenta y ocho («Boletín Oficial del Estado» del diecinueve de enero de mil novecientos cuarenta y nueve), sobre reserva a favor del Estado de los yacimientos de minerales radiactivos; prohibe su exportación y los declara de interés nacional.
+Decreto-ley de veintidós de octubre de mil novecientos cincuenta y uno («Boletín Oficial del Estado» del día veinticuatro) crea la Junta de Energía Nuclear.
+Ley de diecisiete de julio de mil novecientos cincuenta y ocho, por la que se modifica el Decreto-Ley de veintidós de octubre de mil novecientos cincuenta y uno y se fijan normas para la investigación y explotación de minerales radiactivos («Boletín Oficial del Estado» número ciento setenta y uno).
+Decreto de catorce de noviembre de mil novecientos cincuenta y ocho sobre constitución y nombramiento del Consejo de la Junta de Energía Nuclear («Boletín Oficial del Estado» número doscientos ochenta y nueve),
+Y cuantas otras de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+Se modifica por la disposición adicional 2.8 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Su anterior numeración era art. 97.
+ Se modifica por la disposición adicional 5 de la Ley 54/1997, de 27 de noviembre. Ref. BOE-A-1997-25340
+ Se modifica por la disposición adicional 6 de la Ley 40/1994, de 30 de diciembre. Ref. BOE-A-1994-28966
+
+## CAPÍTULO XV
+
+Disposiciones finales
+
+### Artículo noventa y seis
+
+Artículo noventa y seis.
+(Sin contenido)
+Se reenumera como art. 94 por la disposición adicional 2.8 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se interpreta que el art. 96 queda sin contenido.
+
+### Artículo noventa y siete
+
+Artículo noventa y siete.
+(Sin contenido)
+Se reenumera como art. 95 por la disposición adicional 2.8 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
+ Se interpreta que el art. 97 queda sin contenido.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Otros dispositivos e instalaciones experimentales.
+1. La regulación contenida en esta ley, cuando se refiere de forma común a instalaciones nucleares y radiactivas, se entenderá igualmente referida a los dispositivos e instalaciones experimentales definidos en el apartado 12 bis del artículo 2 de esta ley, salvo que legalmente se establezca para ellos un régimen distinto.
+2. Para los citados dispositivos e instalaciones experimentales, la cobertura de seguro exigible será la establecida para las instalaciones nucleares en el artículo 57 de esta ley.
+Se añade por el art. 93.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Responsabilidad civil nuclear por daños medio ambientales.
+1. Sin perjuicio de lo dispuesto en la presente Ley en relación con la responsabilidad civil derivada de daños nucleares, los titulares de instalaciones nucleares y de transportes de sustancias nucleares serán responsables de los daños medioambientales nucleares producidos en el territorio nacional que sean consecuencia de una liberación accidental de radiaciones ionizantes al medio ambiente con origen en dichas instalaciones o transportes, entendidos estos daños como los definidos en el apartado tercero de esta Disposición adicional. A tal efecto, dichos titulares deberán disponer de una cobertura de riesgo de 700 millones de euros, si bien, el Ministerio de Industria, Turismo y Comercio podrá imponer otro límite, no inferior a 30 millones de euros, cuando se trate de transportes de sustancias nucleares o de cualquier otra actividad, cuyo riesgo, a juicio del Consejo de Seguridad Nuclear, no requiera una cobertura superior.
+2. Para hacer frente a esta responsabilidad, dichos titulares deberán ingresar en la cuenta específica de la Comisión Nacional de Energía a la que hace referencia el punto 1.9 del anexo I del Real Decreto 2017/1997, de 26 de diciembre, una prima de responsabilidad medioambiental con el fin de que la tarifa eléctrica garantice la cobertura indicada en el apartado anterior, que será independiente de la cobertura establecida en el primer párrafo del artículo 57 de esta Ley. El importe de esta prima será fijado por el Gobierno, a propuesta del Ministerio de Industria, Turismo y Comercio.
+3. Los daños establecidos en el apartado primero de esta disposición adicional comprenden las siguientes categorías:
+a) El coste de las medidas de restauración del medioambiente degradado, excepto si dicha degradación es insignificante, si tales medidas han sido efectivamente adoptadas o deban serlo.
+b) El lucro cesante directamente relacionado con un uso o disfrute del medio ambiente que resulte de una degradación significativa del mismo.
+c) El coste de las medidas preventivas y cualquier pérdida o daño causado por tales medidas.
+A estos efectos se entenderá por:
+"Medidas de restauración": Todas las medidas razonables aprobadas por el Ministerio de Medio Ambiente, previo informe del Consejo de Seguridad Nuclear, y que tiendan a restaurar o restablecer los elementos dañados o destruidos del medioambiente o a introducir, cuando esto sea razonable, el equivalente de estos elementos en el medio ambiente.
+"Medidas preventivas": Todas las medidas razonables adoptadas por cualquier persona, después de que haya ocurrido un accidente nuclear o un suceso que cree una amenaza grave e inminente de daño nuclear, para prevenir o reducir al mínimo los daños nucleares mencionados anteriormente, sujetas a la aprobación del Ministerio de Medio Ambiente, previo informe del Consejo de Seguridad Nuclear.
+4. La reclamación a los titulares de las instalaciones y de los transportes de la compensación por los daños establecidas en el apartado 3 se ejercitará ante la Jurisdicción civil, debiéndose dirigirse la acción conjuntamente contra la Comisión Nacional de Energía.
+5. El derecho a reclamar los daños medioambientales nucleares se extinguirá si no se entabla la correspondiente acción dentro del plazo de diez años a contar desde la fecha en la que se produjo la emisión.
+6. El Gobierno, en el ámbito de sus competencias, dictará cuantas disposiciones sean necesarias para la ejecución y desarrollo de lo establecido en la presente disposición adicional.
+Esta disposición se deroga por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+Se deroga la disposición adicional 2 de la Ley 17/2007, de 4 de julio, Ref. BOE-A-2007-13024. por la disposición derogatoria única.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta derogación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+ Se añade por la disposición adicional 2 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
+
+### Disposición transitoria única
+
+Disposición transitoria única. Adaptación a lo previsto en el artículo 28:
+La adaptación a lo previsto en los apartados 2 y 3 del artículo 28 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, se llevará a cabo según se dispone a continuación:
+1. Los titulares de las autorizaciones de explotación de las centrales nucleares que no reúnan las condiciones establecidas en los apartados 2 y 3 del artículo 28 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, deberán adaptarse a las mismas en un plazo máximo de un año.
+A estos efectos, deberán remitir a la Dirección General de Política Energética y Minas, en un plazo máximo de cuatro meses, el correspondiente plan de adaptación, a los efectos de comprobación de su adecuación a las condiciones establecidas en dicho artículo. La Dirección General de Política Energética y Minas, previo informe del Consejo de Seguridad Nuclear, dictará resolución motivada, en un plazo máximo de dos meses, aprobando el plan de adaptación, si se cumplen dichas condiciones, o solicitando las modificaciones que estime pertinentes. En este caso el titular de la autorización remitirá el nuevo plan de adaptación en un plazo de dos meses a la Dirección General de Política Energética y Minas, que deberá resolver en el plazo de un mes.
+2. Las autorizaciones administrativas, licencias y concesiones que hubieren sido otorgadas a las entidades que vinieran siendo titulares de las centrales nucleares y que, de cualquier modo, estuvieran vinculadas a la actividad de estas instalaciones, se entenderán transferidas a la entidad a la que corresponda asumir la condición de titular de la autorización de explotación de la central nuclear, de acuerdo con la presente Ley, previa comunicación a las autoridades competentes. Dicha entidad quedará subrogada en todos los derechos y obligaciones que se deriven de los mencionados títulos.
+3. Las entidades que pasen a ser titulares de las centrales nucleares se entenderán subrogadas en los contratos, los derechos y las obligaciones de los anteriores titulares de aquéllas, que les hayan sido atribuidos en el proceso de adaptación previsto en esta disposición. Dicho cambio de titularidad no podrá ser considerado, en ningún caso, causa de modificación de los derechos y obligaciones que dimanen de los contratos.
+4. A las aportaciones no dinerarias y a las escisiones que se efectúen con la finalidad de dar cumplimiento a lo establecido en los apartados 2 y 3 del artículo 28 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, se les aplicará el régimen previsto para las aportaciones y escisiones de ramas de actividad en el Capítulo VIII del Título VII del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+5. El incumplimiento de la obligación de adaptación en la forma y plazos establecidos en la presente disposición constituye infracción grave a los efectos de lo dispuesto en el artículo 86 b) de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear.
+6. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en el artículo 28 de la Ley 25/1964, de 29 de abril, sobre Energía Nuclear.
+Se añade por la disposición adicional 3.3 de la Ley 12/2011, 27 de mayo. Ref. BOE-A-2011-9279.
+
+Dada en el Palacio de El Pardo, a veintinueve de abril de mil novecientos sesenta y cuatro.
+FRANCISCO FRANCO

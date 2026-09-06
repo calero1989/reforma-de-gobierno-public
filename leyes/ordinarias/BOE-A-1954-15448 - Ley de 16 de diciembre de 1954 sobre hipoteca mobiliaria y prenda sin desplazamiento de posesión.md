@@ -1,0 +1,907 @@
+# Ley de 16 de diciembre de 1954 sobre hipoteca mobiliaria y prenda sin desplazamiento de posesión.
+
+- Identificador BOE: `BOE-A-1954-15448`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1954-15448
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La presente Ley regula una norma de la garantía real que cuenta con importantes precedentes en nuestro Derecho y en el de otros países; pero al hacerlo no se sujeta estrictamente a los patrones clásicos y a tales precedentes, antes se desvía muchas veces de ellos, de manera que bien puede afirmarse entraña una trascendente y ponderada novedad legislativa. Esta novedad se refleja en la configuración técnica aceptada para la hipoteca mobiliaria y para la prenda sin desplazamiento de posesión, en los bienes que se sujetan a la garantía, en la extensión dada a ésta en algunos casos, en la regulación formal y registral de la nueva figura jurídica —que lleva a la creación de un Registro público para estos gravámenes—, en el desenvolvimiento del derecho real durante su existencia antes de llegar el momento de su ejecución, en su repercusión obligada respecto de terceras personas, en su desarrollo procesal, y, en fin, en la determinación de los derechos de preferencia y persecución típicos de todo derecho real y de tal dificultad en esta forma de garantía que han sido el obstáculo, hasta ahora insuperado, para la perfecta eficacia de los intentos legislativos sobre la materia.
+Estas consideraciones, unidas a la necesidad de adoptar, en ocasiones, soluciones impuestas por la práctica y la técnica, obligan a explicar y fundamentar el desenvolvimiento dado en la Ley a la hipoteca mobiliaria y a la prenda sin desplazamiento de posesión.
+Necesidad de la reforma
+La configuración tradicional de los derechos reales de prenda e hipoteca, con su limitación respectiva a bienes muebles e inmuebles y con sus características de desplazamiento y no desplazamiento de la posesión, es, sin duda, insuficiente para satisfacer todas las necesidades de la garantía real. La doctrina científica puso de relieve los graves inconvenientes de la privación al deudor de la posesión de la prenda sobre todo en cosas muebles de gran valor destinadas a fines agrícolas o industriales; el desplazamiento de la posesión es perjudicial para el deudor, al privarle de bienes adecuados; para la economía nacional al paralizar elementos de trabajo y de producción y, con ellos, fuentes de riqueza; y aun para el propio acreedor al disminuir la capacidad económica del deudor y la posibilidad de hacer frente de un modo normal a sus obligaciones. La experiencia demostró que la prenda iba quedando reducida a cosas meramente suntuarias, por ser ineficaz respecto de cosas necesarias para el trabajo del hombre; y cuando la necesidad obligaba a pignorar estas últimas, los funestos resultados prácticos de la garantía hacían patente la necesidad de otra figura jurídica que salvara sus inconvenientes.
+Por otra parte, la importancia adquirida por las cosas muebles al impulso del moderno desarrollo industrial y la aparición de nuevos bienes en el sentido jurídico, difícilmente catalogables entre las cosas muebles o inmuebles, hicieron pensar en la que se denominó prenda sin desplazamiento e hipoteca mobiliaria, como medio de hacer viable la garantía real para estos bienes, que por su valor o por su naturaleza se adaptaban con dificultad a los modelos clásicos.
+Las legislaciones han resuelto el problema, por regla general, de un modo parcial y atendiendo a los diversos objetos susceptibles de garantía; la prenda sin desplazamiento e hipoteca mobiliaria fue aceptada en gran número de países bajo las formas de prenda agrícola, rural o agraria, ganadera, hotelera, de automóviles o de empresas o establecimientos mercantiles.
+En nuestro Derecho se siguió inicialmente este mismo criterio y fueron objeto de regulación la prenda agrícola y ganadera (Real Decreto de veintidós de septiembre de mil novecientos diecisiete), la prenda aceitera (Decreto de veintinueve de noviembre de mil novecientos treinta y cinco) y la prenda industrial (Ley de diecisiete de mayo de mil novecientos cuarenta). Posteriormente, la Ley de cinco de diciembre de mil novecientos cuarenta y uno, que añadió al Código Civil los artículos mil ochocientos sesenta y tres bis a mil ochocientos setenta y tres bis, se inspiró en un criterio más comprensivo intentando una regulación de carácter más general, que, sin embargo, por diversas circunstancias, no ha llegado a tener en la práctica el desarrollo y la aplicación deseados por el legislador.
+Naturaleza de la garantía
+El primer problema que ha habido que resolver ha sido el de la naturaleza jurídica que se había de atribuir a esta nueva forma de garantía real. Podía seguirse el criterio de equipararla a la hipoteca, bien al modo de la hipoteca naval, alterando por disposición legal la naturaleza de los bienes al solo objeto del gravamen, bien introduciendo claramente la modalidad de la hipoteca mobiliaria. Podía también seguirse el criterio de asimilarla a la prenda en atención a la naturaleza de los bienes, eliminando el requisito de la entrega de la posesión bajo la forma de prenda sin desplazamiento. Todos estos sistemas tenían precedentes en la doctrina científica y en las legislaciones. En nuestro Derecho el predominante era, indudablemente, el último.
+En primer término, nada resolvía en el orden teórico ni en el práctico seguir la ficción de la Ley de Hipoteca Naval, de considerar inmuebles los bienes muebles por naturaleza, al solo objeto de hacer posible su hipoteca. En el actual estado de la ciencia jurídica, se ha creído innecesario acudir a esa ficción.
+Era, pues, preciso adoptar uno de los otros dos sistemas, y para ello se han tenido en cuenta, muy especialmente, las características sustantivas de la prenda y de la hipoteca.
+La acción real ha tenido siempre, como elemento indispensable, la identidad de la cosa; por eso, teóricamente, no ha sido posible construir derechos reales perfectos sobre cosas genéricas ni sobre cosas futuras. El grado de perfección en cuanto a la identidad de la cosa y su reflejo consiguiente en documentos y Registros públicos, ha llevado a la Comisión a distinguir dos grupos de bienes: los de identificación semejante a la de los inmuebles y, por tanto, como éstos, claramente susceptibles de hipoteca, y los de identificación menos perfecta y, por consiguiente, de un derecho de más difícil persecución, que quedan dentro de la figura clásica de la prenda, si bien sustituyéndose por la publicidad registral el requisito del desplazamiento de posesión. Más que la instauración de dos figuras jurídicas nuevas se trata de trasplantar ciertos bienes muebles, que por su función económica lo merecen, y cuya perfección identificadora lo permite, al régimen jurídico de la hipoteca de los inmuebles, de tan notorio desenvolvimiento técnico y económico en España, todo ello partiendo de la misma naturaleza y cualidades de las cosas muebles sin forzadas ficciones de asimilación a los inmuebles.
+La determinación de los bienes susceptibles de una y otra forma de garantía, no podía dejarse a la libre interpretación. Por tratarse de una regulación nueva, se ha estimado indispensable fijar con exactitud y de un modo completo los bienes sujetos a hipoteca mobiliaria y a prenda sin desplazamiento. Se señalan como susceptibles de la primera los establecimientos mercantiles, los automóviles y vehículos de motor, vagones y tranvías, las aeronaves, la maquinaria industrial y la propiedad intelectual e industrial, bienes, casi todos ellos que en el actual estado de Derecho son de fácil identificación y, por tanto, susceptibles de ser perseguidos por acción real ilimitadamente. Y se han determinado como susceptibles de prenda: los frutos agrícolas, las cosechas, los productos y aprovechamientos forestales, los animales, ciertas máquinas, aperos y productos de las explotaciones agrícolas o ganaderas, las mercaderías y materias primas almacenadas y los cuadros, esculturas, porcelanas, libros y cualesquiera otros objetos de valor artístico o histórico, todos ellos bienes de más difícil identificación por sus cualidades específicas, por lo que, ante su fácil desaparición, transformación o confusión, los procedimientos ejecutivos, especialmente ágiles y rápidos, han de procurar, de modo inmediato, la reintegración posesoria a favor del acreedor, volviendo la prenda sin desplazamiento, por conversión procesal, a prenda desplazada.
+Disposiciones comunes
+Se inicia la Ley con unas normas de común aplicación a la hipoteca mobiliaria y a la prenda sin desplazamiento, con el fin de evitar repeticiones innecesarias. Dejando para los Títulos respectivos la determinación de los bienes que pueden ser objeto de una u otra figura jurídica, se ha creído conveniente no admitir la posibilidad de hipoteca o de prenda sin desplazamiento de bienes que, pudiendo serlo por su naturaleza, se hallan en situaciones jurídicas especiales; así ocurre con los bienes anteriormente hipotecados, pignorados o embargados, y con las cuotas indivisas de aquéllos. Aunque, en principio, no existe inconveniente teórico para admitirlas, se ha estimado que, desde un punto de vista práctico, debían excluirse, con el fin de dar a la nueva institución la mayor sencillez y seguridad posibles y evitar situaciones que conducirían a colisiones de derechos y que en el momento de la ejecución crearían un confusionismo perjudicial para el buen desarrollo de ambas. Tal vez, y ello se ha tenido muy en cuenta, se limiten las posibilidades de crédito, y por tal razón, acaso en ulteriores reformas legislativas pueda llegar a ser aconsejable la supresión de estas prohibiciones; pero, en la actualidad, es preferible establecerlas para asegurar el éxito de la institución.
+Al mismo fundamento obedece la prohibición de la subhipoteca y la de constituir prenda sin desplazamiento sobre bienes susceptibles de hipoteca mobiliaria que se recogen más adelante.
+Exigencia especial para que los bienes puedan ser objeto de hipoteca o de prenda sin desplazamiento es la de que el precio de adquisición, en su caso, esté totalmente pagado, a menos, que la hipoteca o la prenda se constituyan precisamente en garantía del precio aplazado. Se funda este requisito en la consideración de que las ventas a plazos, tan frecuentes en circunstancias normales, se verían entorpecidas, en perjuicio del comercio, si el vendedor tuviere el fundado temor de ver perjudicado su crédito por la constitución de una garantía sobre los bienes así vendidos. Dar preferencia al crédito por precio aplazado sobre la hipoteca o la prenda hubiera sido contrario a la naturaleza de uno y otro derecho. Exigir al vendedor, para estar debidamente garantizado, que acudiera siempre a la hipoteca o a la prenda, sería muy gravoso para el comprador y chocaría con la práctica usual en esta clase de ventas. De este modo, además, se eliminan los problemas que suscitarían los variados pactos que suelen acompañar a estas ventas aplazadas, especialmente la condición resolutoria y la reserva de dominio.
+Seguidamente se configuran y desarrollan normas generales reguladoras de la hipoteca y de la prenda, de conformidad con las establecidas para la hipoteca sobre inmuebles en cuanto se refiere a su constitución, extensión a las indemnizaciones, garantía por intereses, cesión del crédito garantizado y derechos de persecución y preferencia.
+Existen, sin embargo, algunas desviaciones que se han considerado necesarias y que son impuestas por la propia naturaleza de las cosas objeto de garantía. Así ocurre con el precepto que prohibe al deudor vender los bienes hipotecados o pignorados sin consentimiento del acreedor, que tiene su fundamento en que no es indiferente para éste la persona del tercer poseedor de los bienes muebles, ya que éstos exigen un cuidado y un celo especiales, muy superiores al de los inmuebles, para asegurar su conservación y el mantenimiento de su valor.
+Son también especialidades las contenidas en los preceptos que regulan el derecho de preferencia y la prescripción de las acciones hipotecaria y pignoraticia. Respecto del primero, la circunstancia de que nuestros Códigos Civil y de Comercio hacen separación cuidadosa en la prelación de créditos, según se refieran a bienes muebles o inmuebles, aconsejó equiparar la hipoteca y la prenda sin desplazamiento a la prenda común.
+Con el fin de dar mayor agilidad a estas Instituciones, y recogiendo el precedente que ya se consignó en el artículo mil ochocientos sesenta y ocho bis del Código Civil, se autoriza la intervención de los Agentes de Cambio y Bolsa o Corredores de Comercio Colegiados, indistintamente con la de los Notarios, cuando se trate de operaciones bancarias y dentro del ámbito que señala el artículo noventa y tres del Código de Comercio para la actuación de tales Agentes.
+Regulación general de la hipoteca
+Se determinan, en primer término, los bienes que pueden ser objeto de hipoteca mobiliaria, partiendo de la idea de sujetar a esta forma de garantía únicamente los bienes susceptibles de identificación exteriorizada en el Registro y de recibir eficazmente la publicidad registral. Los requisitos exigidos a algunos de estos bienes para ser hipotecados se examinarán más adelante.
+Tiene especial interés precisar qué bienes no son susceptibles de hipoteca mobiliaria: todos aquellos no incluidos en la enumeración del artículo doce. Para excluir su hipotecabilidad se ha tenido en cuenta, como razón fundamental, que, fuera de los enumerados, no existen, por el momento, otros que puedan adaptarse debidamente al régimen de Registro y que puedan ser, por tanto, hipotecados.
+Hipoteca de establecimiento mercantil
+La diversa terminología empleada en la doctrina científica para designar la empresa, hacienda, casa o establecimiento mercantil; las diferentes construcciones teóricas de la empresa, desde las que la consideran como un ente jurídico unitario al modo de una universalidad, hasta las negativas, que no admiten el concepto unitario de la empresa y la especial naturaleza de las cosas o elementos que la integran, son cuestiones que han sido objeto de muy detenido estudio por la evidente trascendencia que tienen para el desenvolvimiento de la hipoteca.
+Se ha creído que debe consagrarse preferente atención al establecimiento, como base física de la empresa, como elemento más permanente de la misma y como bien que, en nuestra vida real, es por sí solo objeto de posible transmisión y tiene un valor intrínseco y objetivo, en cierto modo independiente de la actividad del comerciante y de los demás elementos de la empresa. Por estas razones, y habida cuenta de los precedentes de Derecho comparado y del proyecto de Código de mil novecientos veintiséis, el objeto fundamental y directo de la hipoteca es el establecimiento mercantil. Su hipotecabilidad no deriva de ser uno de los elementos de la empresa, sujeto al gravamen como los demás, sino que es la base del derecho real; es el soporte objetivo de la hipoteca, que, apoyada en él, puede extenderse a otros elementos de aquélla.
+Para que el establecimiento sea hipotecable se precisan dos requisitos: que el hipotecante sea su titular –dueño o arrendatario– y que no tenga limitada la facultad de traspasar. La titularidad más frecuente del establecimiento mercantil deriva del arrendamiento; sin embargo, se ha estimado conveniente permitir al dueño que explota su propio local industrial o comercial, acogerse a esta forma de garantía, pues no debe ser para ello de peor condición el industrial o comerciante que desarrolla su actividad en un inmueble propio que el que lo hace en un local arrendado. La hipoteca constituida por el dueño sobre el establecimiento será por completo independiente de la que pudiera constituir sobre el inmueble de su propiedad; de aquí el precepto que establece que quien adquiera el establecimiento mercantil hipotecado, en virtud de ejecución, tendrá el carácter de arrendatario del local en los términos previamente establecidos en la escritura de constitución de la hipoteca. De esta suerte, a quien en su propio local ejerce la industria o el comercio se le ofrecen dos posibilidades de garantía: la hipoteca inmobiliaria sobre la finca y la mobiliaria sobre el establecimiento.
+El segundo requisito es una simple aplicación del precepto general según el cual sólo los bienes enajenables son susceptibles de hipoteca.
+La difícil cuestión de la extensión objetiva de la hipoteca de establecimiento mercantil ha dado lugar a las más arduas deliberaciones. Tras un detenido estudio de la naturaleza de los diversos elementos de la empresa, de las legislaciones que han regulado su prenda o hipoteca y de las variadas posiciones de la ciencia jurídica, se ha resuelto el problema a base de la siguiente distinción: Primero, extensión necesaria de la hipoteca: comprende el derecho de arrendamiento del local y sus instalaciones fijas y permanentes. Segundo, extensión normal de la hipoteca: Comprende los derechos de propiedad intelectual e industrial y el utillaje del establecimiento, elementos a los cuales se extiende la hipoteca, salvo que por pacto sean excluidos de ella. Tercero, extensión convencional: en virtud de pacto expreso podrá extenderse la hipoteca a las mercaderías y materias primas. Cuarto, extensión por subrogación: la hipoteca se extiende a las indemnizaciones concedidas o debidas al titular del establecimiento, como en los supuestos normales, con la especial regulación de una fuente de posible indemnización: la del propietario al arrendatario, conforme a la Ley de Arrendamientos Urbanos, para la determinación de la cual se da al acreedor una intervención que, sin disminuir los derechos de aquél, tiende a salvaguardar la eficacia de la garantía.
+El problema que mayores dificultades ofrece es, sin duda alguna, el de las mercaderías y materias primas. Entre dos soluciones extremas –la de la legislación francesa, que excluye estos elementos de la hipoteca, y que tiene la ventaja de su simplicidad, pero el inconveniente de eliminar de la hipoteca una importante fuente de riqueza y de garantía, y la propugnada por un sector doctrinal, de incluirlas, neutralizando su constante movilidad por un sistema de subrogación real, que ofrece el gravísimo problema de las deudas procedentes de suministro de mercaderías y materias primas y el no menos importante de las repercusiones de la hipoteca sobre el crédito del comerciante– se ha adoptado una posición intermedia: quedan fuera de la hipoteca, normalmente, pero se pueden sujetar a ella en virtud de pacto expreso de acreedor y deudor, siempre que pertenezcan al hipotecante y su precio de adquisición esté totalmente satisfecho, regulándose, para el caso de existir el pacto, el alcance de la subrogación real. Con esta solución, se amplía la posibilidad de crédito sobre estos elementos, que pueden, en muchos casos, presentar un valor económico muy superior al del establecimiento; no se disminuye la capacidad crediticia del comerciante para la adquisición de nuevas mercaderías, al respetarse los créditos de los suministradores, mediante el requisito del total pago del precio para que las mercaderías queden afectas a la hipoteca, y el alcance de ésta se limita a una obligación de mantener el volumen pactado, para el cumplimiento de la cual se concede al acreedor la facultad de inspección y la de dar por vencida la obligación si dicho volumen disminuyere dentro de ciertos límites, dejando a salvo las normales fluctuaciones del comercio, y respetando la norma —fundamental para la vida mercantil— del artículo ochenta y cinco del Código de Comercio.
+De los preceptos que regulan la extensión de la hipoteca se deduce que quedan excluidos de ella los elementos inmateriales del establecimiento; así ocurre con la organización y la clientela, elementos de muy difícil o imposible sujeción a las normas de una hipoteca.
+Otra cuestión que provoca graves dificultades en la hipoteca de establecimiento mercantil es la de precisar las relaciones entre el acreedor, el hipotecante y el propietario de la finca. Dos aspectos ofrecen estas relaciones: la posición de las partes durante la vigencia de la hipoteca y la repercusión sobre ésta de la extinción del arrendamiento.
+Para resolver el primer aspecto, se ha partido de un doble supuesto. El propietario de la finca puede haber consentido la hipoteca o no. Si la ha consentido, habrá de atenerse a lo estipulado en la escritura y, en su defecto, cuando se limitó a dar su consentimiento posteriormente, se enumeran las repercusiones que para él puede tener la hipoteca, dirigidas fundamentalmente a disminuir los supuestos de extinción del arrendamiento para asegurar la mayor estabilidad de aquélla, y se le conceden ciertas ventajas económicas y jurídicas que, sin ser demasiado gravosas para el hipotecante, sirven de compensación a las limitaciones que la hipoteca produce en su posición de propietario. En el caso de no haber intervenido éste en la escritura, ni consentido ulteriormente la hipoteca, sus derechos no deben sufrir alteración alguna por la constitución de ésta, razón por la cual la Ley respeta todos los que le concede la Ley de Arrendamientos Urbanos.
+Para el supuesto de extinción del arrendamiento y las posibles indemnizaciones que el propietario haya de abonar al inquilino, se establece la necesidad de notificar al propietario la constitución de la hipoteca. Tal notificación es indispensable como medio de evitar que aquél, desconociendo la existencia del gravamen, y, por tanto, de buena fe, pague su indemnización al arrendatario, quien, silenciando la existencia de la carga, podría hacer ilusorio el derecho del acreedor. El propietario, una vez notificado, sufre algunas limitaciones impuestas por la naturaleza de las cosas y por el principio de la buena fe. Así ocurre con la obligación que se le impone de no entregar, sin consentimiento del acreedor o resolución judicial, las indemnizaciones que correspondan al arrendatario, y de comunicar a aquél las notificaciones prevenidas en el artículo ciento dos de la Ley de Arrendamientos Urbanos. Fuera de esto, la extinción del arrendamiento produce la de la hipoteca. Sin embargo, con el fin de asegurar en lo posible la estabilidad de ésta, se consignan algunas reglas especiales, como son: Primera, la facultad del acreedor de abonar las rentas impagadas por el deudor, establecida expresamente para evitar todo duda, aunque en definitiva es una simple aplicación del artículo mil ciento cincuenta y ocho del Código Civil. Segunda, la subrogación real preceptuada para el caso de resolución del arrendamiento por derribo del edificio, sustituyendo el arrendamiento por este derecho en la ejecución de la hipoteca. Tercera, la declaración de nulidad de la renuncia del arrendamiento por el arrendatario durante la subsistencia de la hipoteca, problema éste discutidísimo y que se ha resuelto de conformidad con la regla general del artículo cuarto del Código Civil.
+Hipoteca de automóviles, vagones y tranvías
+Las normas que regulan la hipoteca de automóviles —palabra que se emplea en la Ley en un sentido amplio, comprensivo de todos los vehículos de motor asimilados a aquéllos por la legislación vigente— tienen por finalidad:
+Extender todo lo posible la publicidad, llevándola, no sólo al Registro de Hipotecas, sino además al Registro administrativo correspondiente y al permiso de circulación.
+Garantizar la conservación del vehículo hipotecado, mediante la obligación de asegurarlo contra toda clase de riesgos, por ser éstos mucho más frecuentes en tales bienes que en los demás susceptibles de hipoteca.
+Facilitar el derecho de persecución mediante la prohibición, que cuenta con precedentes en la legislación comparada de que el vehículo hipotecado sea trasladado a territorio extranjero, haciendo ilusorios los derechos del acreedor.
+Hipoteca de aeronaves
+En la hipoteca de aeronaves se han tenido presentes los actuales proyectos para la regulación jurídica de las mismas. En ellos se inspiran las normas sobre extensión y distribución de la hipoteca, prelación de créditos, hipoteca de aeronaves en construcción, etc. De acuerdo también con dichos precedentes, se asimila en gran parte esta hipoteca a la de buques y se lleva su inscripción al Registro Mercantil.
+Hipoteca de maquinaria industrial
+El objeto de hipoteca mobiliaria que más dificultades ha suscitado para su admisión, ha sido la maquinaria industrial. La diferente situación y destino en que puede encontrarse, y su más difícil perseguibilidad, han sido los problemas más graves que ha habido que resolver. Del segundo hay referencia en otro lugar de esta exposición.
+La primera cuestión se ha resuelto a base de una distinción:
+La maquinaria industrial puede hallarse: en tiendas o almacenes abiertos al público y dedicados a la venta de aquéllas, o en fábricas e industrias como elemento de trabajo o de producción.
+En el primer caso, las máquinas tienen la cualidad de mercaderías, están destinadas a la venta y su comprador gozará de la prescripción instantánea establecida por el citado artículo ochenta y cinco del Código de Comercio. En consecuencia, resulta imposible el derecho de persecución. Por este motivo, la maquinaria cuando se halle en esta situación no es susceptible de hipoteca. Puede, como mercancía, quedar sujeta a la que se constituya sobre establecimiento industrial o mercantil en que se fabrique o venda, en la cual se deja a salvo, según se ha expuesto anteriormente, la aplicación de las normas mercantiles en caso de venta. Lo que no puede ser objeto directo de una hipoteca.
+En el segundo caso, en que la máquina aparece como un elemento de producción o de trabajo, ha sido admitida su hipoteca. Se ha estudiado detenidamente con arreglo a qué criterio había de calificarse la maquinaria como industrial para ser susceptible de hipoteca. Se ha tenido en cuenta el destino a un fin industrial y la afección efectiva a una determinada industria. El primero es un dato de carácter objetivo y la afección es un dato económico y jurídico, que, además de presuponer el destino, implica la efectiva caracterización de la máquina como elemento de trabajo o de producción. Los conceptos son análogos a los del número quinto del artículo trescientos treinta y cuatro del Código Civil, pero referidos, no a bienes inmuebles, sino a industrias; por esto será indiferente para la hipoteca mobiliaria que la finca en que se haya hecho la instalación sea o no propiedad del dueño de las máquinas; basta que sea suya la industria a que estas últimas estén afectadas.
+De este modo la maquinaria industrial puede hallarse sujeta a hipoteca de tres maneras diferentes: a hipoteca mobiliaria, como objeto directo y autónomo de ella, conforme al capítulo quinto del título primero; a hipoteca de establecimiento mercantil, como consecuencia de la extensión de esta última, de acuerdo con el capítulo segundo del título primero y a hipoteca inmobiliaria, cuando concurran los requisitos exigidos por el artículo ciento once de la Ley Hipotecaria.
+Hipoteca de propiedad intelectual e industrial
+La hipoteca de estos derechos es de más fácil desenvolvimiento que la de los demás bienes, por su carácter esencialmente formal, por su perfecta adecuación a la vida registral y por ser, en su esencia, objeto de regulación en nuestro Derecho positivo. Los requisitos de la hipoteca se establecen de conformidad con las reglas generales de la hipoteca mobiliaria; sus efectos, de acuerdo con las normas vigentes que regulan estas propiedades especiales y la publicidad, se ha centralizado, estableciendo en Madrid el Registro de hipotecas de la propiedad intelectual e industrial, con lo cual se ha facilitado su desenvolvimiento al poner en relación este Registro único con los Registros administrativos.
+La prenda sin desplazamiento de posesión
+Se ha explicado anteriormente el criterio sobre la naturaleza de los derechos reales de prenda e hipoteca. Es consustancial con la hipoteca la publicidad registral; con la prenda, la publicidad posesoria.
+La admisión de la prenda sin desplazamiento de posesión, a pesar de los escrúpulos de orden doctrinal y práctico que se presentaban, obliga a exponer los fundamentos que se han tenido en cuenta y que han sido objeto de una profunda meditación.
+Según queda indicado, para la división de prenda e hipoteca y para la determinación de las cosas muebles susceptibles de esta última forma de garantía, se ha seguido la distinción entre cosas muebles susceptibles de identificación registral y cosas muebles que no lo son. Estas últimas son las que, en principio, deben ser los objetos propios de la prenda común con desplazamiento posesorio. Mas la extraordinaria variedad de la naturaleza física y del destino de las cosas muebles dificulta, o más bien imposibilita, la sumisión de todas a un tratamiento unitario.
+Entre las cosas muebles no susceptibles de identificación registral —al menos de una perfecta identificación— existen algunas que, bien por ser instrumentos del trabajo propios del deudor —ganados, elementos agrícolas, por ejemplo—, bien por exigir cuidados y atenciones especiales —ganados no destinados al trabajo, sino a la producción y reproducción—, o por su carácter futuro —cosecha esperada—, o por otras consideraciones, no admiten o lo hacen con dificultad el desplazamiento posesorio. Estas cosas muebles no son susceptibles de hipotecar por su imperfecta identificación registral; tampoco lo son de prenda común por la imposibilidad física, jurídica o económica de su desplazamiento al acreedor o a un tercero.
+La más grave consideración que se presentó al contemplar este supuesto fue la de que en el caso de limitar las formas de la garantía real mueble a la hipoteca y a la prenda común, se dejaban fuera de la posibilidad de ser objeto de garantía real a estos bienes inmuebles, solución que no se podía aceptar impunemente. En primer término, desde un punto de vista histórico, en este grupo se encuentran las primeras normas que aparecieron en la doctrina científica, en intentos legislativos de más de medio siglo de antigüedad y en la legislación positiva de la garantía mueble sin desplazamiento. En segundo lugar se privaba de la posibilidad de crédito —o se obligaba a acudir al crédito en condiciones moral y jurídicamente reprobables— a un amplio sector de la agricultura y la ganadería, que constituyen una de las más cuantiosas fuentes de la riqueza española. Por último, se dejaba incompleta la labor de la Ley y se creaba un importante vacío legislativo, suprimiendo algunos supuestos de garantía real, existentes en el Derecho actual, sin crear formas adecuadas en sustitución de las suprimidas.
+Era, pues, necesaria la admisión de la garantía real sobre estas cosas muebles. Mas ello planteaba la difícil cuestión de la previa determinación de la naturaleza y de su catalogación entre la prenda y la hipoteca.
+No es la hipoteca mobiliaria la forma adecuada para esta garantía. La posición respecto de la hipoteca ha sido la de admitirla únicamente en los casos en que la publicidad registral pudiera otorgar al acreedor una seguridad plena y eficaz. La publicidad que para este grupo de cosas muebles se puede conseguir es evidentemente débil, y, por la propia naturaleza de las cosas, no podría desenvolver sus efectos ni en la forma de la publicidad inmobiliaria, ni en la que la Ley regula para la hipoteca mobiliaria.
+Tampoco era posible crear una figura jurídica nueva, con propia denominación o sin ella, que apareciere como un derecho real de garantía entre la prenda y la hipoteca. Esta solución hubiera sido poco prudente y tal vez de poca eficacia en la realidad de abandonar la institución a las dificultades de índole doctrinal, jurisprudencial y práctica que lleva consigo toda novedad legislativa.
+En nuestro Derecho positivo, los casos actualmente regulados lo son bajo la forma de prenda, sin que en ellos se acuse más vacilación de tipo doctrinal que la de la Ley de 5 de diciembre de mil novecientos cuarenta y uno, que añadió los artículos «bis» al Código Civil. Por otra parte la terminología hoy vigente de prenda sin desplazamiento ofrece la ventaja de ser la usual, fácilmente comprensible por los particulares y por los organismos y funcionarios que han de aplicar la Ley. Por último, la configuración de este derecho como prenda permite su fácil engranaje en los preceptos que sobre prelación de créditos contienen los Códigos Civil y de Comercio, mientras que la creación de un derecho nuevo hubiera obligado a una revisión y modificación de tales normas.
+La regulación de la prenda sin desplazamiento se ha hecho siguiendo fundamentalmente los precedentes del Derecho positivo vigente, especialmente el Real Decreto de prenda agrícola de veintidós de septiembre de mil novecientos diecisiete y los artículos «bis» del Código Civil, sin más alteraciones que las que se han estimado necesarias para modernizar y dar actualidad a aquellas disposiciones y para dotar a la institución de la mayor eficacia jurídica posible.
+Subsisten las formas de prenda agrícola y ganadera, añadiéndose supuestos de prenda industrial o comercial y de objetos muebles con individualidad propia, bien sea ésta a base de determinadas características o derivada de la importancia artística o histórica de los objetos pignorados. Se regula la inscripción de la prenda, su extensión y los derechos y obligaciones de las partes; y se establecen procedimientos ejecutivos rápidos y sencillos para hacer efectivos los créditos garantizados.
+En la regulación de la prenda se han tenido en cuenta los juicios adversos a la ficción del depósito en cosa propia, que han sido objeto de especial estudio, y se ha considerado que esta figura no es propiamente un depósito, sino una especial situación del deudor, análoga en algunos puntos a la del tercero depositario, pero siempre distinta con arreglo a la naturaleza de las cosas. Sin embargo, se ha mantenido la ficción del depósito, por ser tradicional en nuestro Derecho y por ser el medio quizá más expresivo de determinar dos aspectos de excepcional importancia en la prenda sin desplazamiento: la singular relevancia que en ella tiene la persona del deudor y la más enérgica responsabilidad de éste por actos que dificulten o impidan el ejercicio de los derechos del acreedor. Se sujeta al deudor a todas las obligaciones y responsabilidades civiles y penales inherentes a la cualidad de depositario.
+Otras formas de garantía real mobiliaria
+Existen otras formas de garantía real sobre bienes muebles, que no han sido recogidas en la Ley en atención a la especialidad de las mismas; así ocurre con la prenda aceitera, regulada por el Decreto de veintinueve de noviembre de mil novecientos treinta y cinco y Ordenes de seis y diecisiete de enero de mil novecientos treinta y seis; la prenda industrial, regulada por Ley de diecisiete de mayo de mil novecientos cuarenta, y la prenda de resguardos de almacenes de depósitos o «warrant», regulada por el artículo ciento noventa y cuatro del Código de Comercio y el título segundo del Real Decreto de veintidós de septiembre de mil novecientos diecisiete.
+El Registro
+El problema de la publicidad ha sido resuelto a base de la creación de un Registro de hipoteca mobiliaria y prenda sin desplazamiento.
+Este Registro, como es obligado, tiene carácter jurídico, depende del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado, y queda a cargo de los Registradores de la Propiedad, si bien en cuanto a la hipoteca de aeronaves se llevará en los Registros Mercantiles, de conformidad con la asimilación establecida a la hipoteca naval.
+Ha sido objeto de meditación el alcance que debería darse al nuevo Registro, en el sentido de si sería procedente establecer un sistema de Registro de Propiedad que, al modo de la propiedad inmueble, recogiera toda la historia jurídica de los bienes, incluso las transmisiones de dominio de los mismos, o un sistema de Registro de gravámenes, limitado a las finalidades de esta Ley. Aunque, en principio, se ha estimado que el sistema más completo hubiera sido el primero, se ha desistido de él en atención a las dificultades prácticas de su adaptación; toda vez que exigiría un cambio total y absoluto en el sistema de transmisión de propiedades y contratación de esta clase de bienes. Por esta razón se ha regulado solamente un Registro de gravámenes, si bien se estima procedente hacer constar el criterio favorable al Registro de la propiedad de los bienes muebles, al menos para algunos de ellos, como los establecimientos mercantiles y los automóviles.
+El Registro de gravámenes podrá establecerse con un doble contenido: o limitado a las hipotecas o referido también a otros gravámenes, es decir, como Registro de hipotecas únicamente o como Registro de cargas en general. Se ha estudiado esta cuestión desde el punto de vista de los embargos, que son los supuestos más frecuentes.
+Los embargos posteriores a la hipoteca es evidente que deben ser anotados en este Registro, pues la preferencia de la hipoteca sobre ellos y la consiguiente liquidación de cargas y gravámenes, en caso de ejecución, exige el conocimiento de los embargos posteriores, para evitar que sean ilusorios los derechos de los acreedores embargantes. También se han declarado anotables los embargos que se hagan sobre los bienes susceptibles de hipoteca mobiliaria y de prenda sin desplazamiento aunque no se hallen hipotecados. El fundamento está en el precepto según el cual se prohíbe la hipoteca y la prenda sin desplazamiento sobre los bienes que estuvieren embargados, en cuyo caso, si se constituyere, será nula. Mas, para garantía del acreedor, es necesario arbitrar un medio por el cual pueda conocer la posible existencia de aquellas afecciones judiciales, distinto de la obligada declaración del deudor. Este medio no puede ser otro que la anotación de los embargos.
+De este modo, anotado un embargo, si posteriormente se constituye una hipoteca, carecerá ésta de toda efectividad y no será inscribible. Asimismo ocurrirá en la prenda. No obstante, si se hubiere decretado aquél por la Autoridad judicial, pero no se hubiere llevado al Registro, tanto la hipoteca como la prenda serán válidas y gozarán de rango preferente a ese embargo no acogido a su debido tiempo a la publicidad registral. La anotación no altera, pues, la naturaleza del embargo, ni añade nuevos derechos, privilegios o garantías a favor del acreedor; se limita a asegurarle frente a posibles gravámenes posteriores que de otro modo se antepondrían a él.
+La organización del Registro ha ofrecido pocas dudas y dificultades. El sistema de Registro sobre la base de bienes (principio de especialidad) sólo es aconsejable para los susceptibles de hipoteca mobiliaria y no rige para los que pueden ser objeto de prenda sin desplazamiento que requieren una organización basada en el contrato y deben someterse a reglas que dimanan de su misma naturaleza y de su fácil movilidad.
+Para el Registro se establecen en la Ley las bases fundamentales de la organización, la competencia, la calificación y la publicidad, las cuales habrán de ser desarrolladas con la necesaria minuciosidad en disposiciones ulteriores.
+Procedimientos ejecutivos
+Complemento necesario de la Ley son las disposiciones de carácter procesal contenidas en el Título Cuarto, en el cual se regulan los procedimientos de ejecución aplicables para la efectividad de los créditos garantizados.
+Siguiendo la pauta de la Ley Hipotecaria, se han admitido tres procedimientos: Ejecutivo ordinario, Judicial sumario y Extrajudicial. Las líneas fundamentales de la regulación son análogas a las de dicha Ley, si bien imprimiendo mayor rapidez y brevedad a los trámites y suprimiendo algunos en atención a la diferente naturaleza de los bienes.
+Se han proyectado también normas especiales para la ejecución en los casos en que el gravamen recaiga sobre automóviles o establecimientos mercantiles. Las de estos últimos dirigidas a mantener la unidad de los objetos a que se extiende la hipoteca y a salvaguardar el derecho de preferencia para adquisición de local que al propietario concede la Ley de Arrendamientos Urbanos.
+Disposiciones adicionales
+Por último, comprende la Ley algunas disposiciones adicionales encaminadas a aclarar algunos puntos concretos, y una final derogatoria, para dejar sin efecto la Ley de 1941, que introdujo los artículos mil ochocientos sesenta y tres «bis» al mil ochocientos setenta y tres «bis» del Código Civil y derogar determinados preceptos del Real Decreto de veintidós de septiembre de mil novecientos diecisiete. Tal es, a grandes rasgos, la Ley elaborada. La Ley de cinco de diciembre de mil novecientos cuarenta y uno ordenó que una disposición reglamentaria completara sus preceptos. Los obstáculos para adaptar los artículos «bis» del Código Civil a nuestro ordenamiento jurídico común, y la necesidad de regular algunos casos, de difícil encaje en aquel cuerpo legal y afectados por disposiciones o proyectos posteriores a aquella Ley, aconsejaron redactar esta Ley, en que se trata de reglar en la vida española la garantía mueble sin desplazamiento. Muchos problemas habrá que resolver en el porvenir sobre esta materia. Pero a la complejidad que tiene por su propia naturaleza no se podían añadir nuevas dificultades, y se ha tratado de simplificar su ordenación en el mayor grado posible. El tiempo y la aplicación de la Ley determinará si con ésta se ha conseguido la finalidad apetecida; encauzar y resolver una necesidad sentida en la práctica, defendida por la doctrina y abordada, hasta ahora sin positivos resultados, en anteriores intentos legislativos.
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+DISPONGO:
+
+## TÍTULO PRIMERO
+
+TÍTULO I
+Disposiciones comunes a la hipoteca mobiliaria y a la prenda sin desplazamiento de posesión
+
+### Artículo primero
+
+Artículo primero.
+Podrá constituirse hipoteca mobiliaria y prenda sin desplazamiento de posesión sobre los bienes enajenables que, respectivamente, se mencionan en esta Ley.
+Si tales bienes estuvieren en proindivisión o pertenecieren en usufructo y en nuda propiedad a distintos titulares, sólo podrán hipotecarse o pignorarse en su totalidad y mediante el consentimiento de todos los partícipes.
+
+### Artículo segundo
+
+Artículo segundo.
+1. Carecerá de eficacia el pacto de no volver a hipotecar o pignorar los bienes ya hipotecados o pignorados, por lo que podrá constituirse hipoteca mobiliaria y prenda sin desplazamiento de posesión sobre bienes que ya estuvieren hipotecados o pignorados, aunque lo estén con el pacto de no volver a hipotecar o pignorar.
+También podrá constituirse hipoteca mobiliaria o prenda sin desplazamiento sobre el mismo derecho de hipoteca o prenda y sobre bienes embargados o cuyo precio de adquisición no se hallare íntegramente satisfecho.
+El presente apartado carecerá de efectos retroactivos.
+Se modifica por la disposición final 3.1 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086.
+
+### Artículo tercero
+
+Artículo tercero.
+La hipoteca mobiliaria y la prenda sin desplazamiento se constituirán en escritura pública.
+No obstante, la prenda sin desplazamiento podrá también constituirse mediante póliza intervenida por Agente de Cambio y Bolsa o Corredor de Comercio colegiado, cuando se trate de operaciones bancarias o se refiera a cualquiera de los supuestos comprendidos en el artículo noventa y tres del Código de Comercio.
+La escritura o la póliza, en su caso, deberán ser inscritas en el Registro que por esta Ley se establece.
+La falta de inscripción de la hipoteca o de la prenda en el Registro privará al acreedor hipotecario o pignoraticio de los derechos que, respectivamente, les concede esta Ley.
+La inscripción no convalida los actos y contratos que sean nulos con arreglo a las Leyes. Los asientos practicados en los libros especiales de hipoteca y de prenda, que se han de llevar en el Registro de la Propiedad, están bajo la protección de los Tribunales y producirán todos sus efectos mientras no se cancelen o se declare su nulidad.
+
+### Artículo cuarto
+
+Artículo cuarto.
+El deudor no podrá enajenar los bienes hipotecados o dados en prenda sin el consentimiento del acreedor.
+
+### Artículo quinto
+
+Artículo quinto.
+La hipoteca y la prenda se extenderá a toda clase de indemnizaciones que correspondan al hipotecante o pignorante, concedidas o debidas por razón de los bienes hipotecados o pignorados, si el siniestro o hecho que los motiva acaeciere después de la constitución de la hipoteca o prenda.
+Si dichas indemnizaciones hubieren de pagarse antes del vencimiento de la obligación garantizada, el que haya de satisfacerlas entregará su importe con arreglo a lo convenido; en defecto de convenio, se consignará en la forma establecida en los artículos mil ciento setenta y seis y siguientes del Código Civil, siempre que en uno y otro caso hubiere sido notificado previamente de la existencia de la hipoteca o de la prenda.
+
+### Artículo sexto
+
+Artículo sexto.
+La falta de pago de la prima de seguro de los bienes hipotecados o pignorados, cuando proceda su aseguramiento, facultará al acreedor para dar por vencida la obligación o para abonar su importe por cuenta del obligado a su pago.
+En este último supuesto, el importe de la prima, incrementado con el interés legal, podrá hacerse efectivo al mismo tiempo y con igual título que la obligación principal, pero dentro del límite máximo fijado para costas y gastos en la escritura de constitución de la hipoteca o de la prenda.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Podrá también constituirse hipoteca mobiliaria o prenda sin desplazamiento, en garantía de cuentas corrientes de crédito o de letras de cambio, con los requisitos que se establecen en los artículos ciento cincuenta y tres y ciento cincuenta y cuatro de la Ley Hipotecaria.
+
+### Artículo octavo
+
+Artículo octavo.
+El crédito garantizado con hipoteca mobiliaria o con prenda sin desplazamiento podrá enajenarse o cederse en todo o en parte por escritura, en todo caso, con los requisitos y efectos de los artículos ciento cuarenta y nueve y ciento cincuenta y uno de la Ley Hipotecaria.
+El crédito garantizado con prenda sin desplazamiento y formalizado en póliza intervenida por Agente de Cambio y Bolsa o Corredor colegiado, podrá enajenarse o cederse total o parcialmente por documento intervenido también por Agente o Corredor.
+La notificación al deudor deberá ser hecha en todos los casos por acta notarial
+Los créditos garantizados con hipoteca mobiliaria o prenda sin desplazamiento podrán servir de cobertura a las emisiones de títulos del mercado secundario.
+Se añade el último párrafo por la disposición final 3.2 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086.
+
+### Artículo noveno
+
+Artículo noveno.
+Salvo pacto expreso, la hipoteca mobiliaria y la prenda sin desplazamiento, en garantía de una obligación que devengue intereses, asegurará, en perjuicio de tercero, además del principal, los intereses de los dos últimos años y la parte vencida de la anualidad corriente.
+
+### Artículo diez
+
+Artículo diez.
+El acreedor hipotecario o pignoraticio gozará para el cobro de su crédito de la preferencia y prelación establecidas en los artículos mil novecientos veintidós, número segundo, y mil novecientos veintiséis, número primero, del Código Civil, dejando a salvo siempre la prelación por créditos laborales.
+En caso de concurso, la preferencia y prelación del acreedor hipotecario o pignoraticio se regirán por lo establecido en la Ley Concursal.
+Se modifica el párrafo segundo por la disposición final 8.1 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+
+### Artículo once
+
+Artículo once.
+La acción hipotecaria y la pignoraticia prescribirán a los tres años, contados desde que puedan ser legalmente ejercitadas.
+
+## TÍTULO SEGUNDO
+
+TÍTULO II
+De la hipoteca mobiliaria
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Disposiciones generales
+
+### Artículo doce
+
+Artículo doce.
+Únicamente podrán ser hipotecados:
+Primero. Los establecimientos mercantiles.
+Segundo. Los automóviles y otros vehículos de motor, así como los tranvías y vagones de ferrocarril, de propiedad particular.
+Tercero. Las aeronaves.
+Cuarto. La maquinaria industrial.
+Quinto. La propiedad intelectual y la industrial.
+No podrá hipotecarse el derecho real de hipoteca mobiliaria ni los bienes comprendidos en los artículos cincuenta y dos, cincuenta y tres y cincuenta y cuatro.
+
+### Artículo trece
+
+Artículo trece.
+Además de las circunstancias exigidas por la legislación notarial, la escritura de hipoteca mobiliaria deberá contener las siguientes:
+Primera. Las que identifiquen la personalidad del acreedor, del deudor y, en su caso, del dueño de los bienes hipotecados.
+Segunda. Descripción de los bienes que se hipotequen, especificando su naturaleza, cantidad, calidad, signos distintivos y demás particularidades que en cada caso sirvan para identificarlos o individualizarlos.
+Tercera. Título de adquisición de los bienes y declaración del hipotecante de que no están hipotecados, pignorados ni embargados.
+Cuarta. Importe, en moneda nacional, del principal garantizado, plazo para su devolución, tipo de interés si se pactare y cantidad que se señale para costas y gastos.
+Quinta. Fijación de un domicilio para requerimientos y notificaciones al deudor y, en su caso, al hipotecante no deudor.
+
+### Artículo catorce
+
+Artículo catorce.
+En la hipoteca conjunta de varios establecimientos mercantiles, vehículos de motor, vagones, tranvías, aeronaves o derechos de propiedad intelectual o industrial, deberá distribuirse entre ellos la responsabilidad real por principal y, en su caso, por intereses y costas.
+
+### Artículo quince
+
+Artículo quince.
+La hipoteca en garantía de títulos al portador o transmisibles por endoso se constituirá por escritura, sujetándose a lo dispuesto en los artículos ciento cincuenta y cuatro y ciento cincuenta y cinco de la Ley Hipotecaria.
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+La hipoteca mobiliaria sujeta, directa e inmediatamente, los bienes sobre los que se impone, cualquiera que sea su poseedor, al cumplimiento de la obligación para cuya seguridad fue constituida.
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+El hipotecante conservará los bienes hipotecados, principales y accesorios, con la diligencia de un buen padre de familia, haciendo en ellos cuantas reparaciones y reposiciones fueren menester.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+La depreciación de los bienes hipotecados, excepto cuando provenga de caso fortuito, concederá al acreedor el derecho a pedir se intervenga judicialmente la administración de tales bienes, presentando los justificantes necesarios al efecto.
+El Secretario judicial citará a las partes para que comparezcan ante el Juez dentro del tercer día, y en las veinticuatro horas siguientes a la comparecencia con o sin asistencia del deudor, en vista de lo alegado y probado, y discrecionalmente el Juez dictará auto declarando haber o no lugar a la intervención, nombrando en su caso Interventor. Acordará, asimismo, que se requiera al deudor a fin de que se abstenga de ejecutar acto alguno en los bienes sin previo conocimiento del Interventor en la forma prevenida en el artículo 631 y concordantes de la Ley de Enjuiciamiento Civil, pudiendo liberarse el deudor de esta medida de aseguramiento si para responder de la depreciación sufrida presta caución suficiente, fijada en su cuantía por el Juez.
+Se modifica el párrafo segundo por el art. 4.1 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+## CAPÍTULO II
+
+De la hipoteca de establecimientos mercantiles
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+Para que puedan ser hipotecados los establecimientos mercantiles deberán estar instalados en local de negocio del que, el titular, sea dueño o arrendatario, con facultad de traspasar.
+
+### Artículo veinte
+
+Artículo veinte.
+La hipoteca comprenderá, necesariamente, el derecho de arrendamiento sobre el local si lo tuviere el hipotecante y, en su defecto, los establecidos en el artículo veintiocho de esta Ley. Asimismo comprenderá las instalaciones fijas o permanentes siempre que pertenezcan al titular del establecimiento.
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+También comprenderá la hipoteca, si no se estableciere otra cosa, los siguientes bienes, que se describirán en la escritura pública correspondiente:
+a) El nombre comercial, rótulo del establecimiento, marcas distintivas y demás derechos de propiedad industrial e intelectual.
+b) Las máquinas, mobiliario, utensilios y demás instrumentos de producción y trabajo.
+Los bienes a que se refiere este artículo quedarán afectos a la hipoteca siempre que se den las circunstancias siguientes: Que sean de la propiedad del titular del establecimiento; que su precio de adquisición esté pagado, y que se hallen destinados de modo permanente a satisfacer las necesidades de la explotación mercantil o industrial.
+
+### Artículo veintidós
+
+Artículo veintidós.
+La hipoteca se extenderá, mediante pacto, a las mercaderías y materias primas destinadas a la explotación propia del establecimiento cuando concurrieran los dos primeros requisitos exigidos en el párrafo último del artículo anterior.
+Quedarán a salvo los derechos del comprador, de conformidad con el artículo ochenta y cinco del Código de Comercio, pero el deudor viene obligado a tener en el establecimiento mercaderías o materias primas en cantidad y valor igual o superior al que se haya determinado en la escritura de hipoteca, reponiéndolas debidamente con arreglo a los usos del comercio.
+El acreedor tendrá derecho a inspeccionar el giro y tráfico del establecimiento, en la forma y plazo estipulados, sin estorbar, en ningún caso, su normal desenvolvimiento.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+Se entenderán incluidas en el artículo quinto las indemnizaciones que debe satisfacer el arrendador del inmueble al arrendatario con arreglo a la Ley de Arrendamientos Urbanos.
+El arrendador no quedará liberado, en cuanto a las cantidades debidas al arrendatario, si el acreedor hipotecario que le hubiese notificado oportunamente su crédito no presta su conformidad al acuerdo que fije el importe de dichas indemnizaciones.
+El acreedor tendrá, en todo caso, personalidad para exigir la intervención de la Junta de Estimación.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+La escritura de constitución de hipoteca deberá contener, además de las circunstancias expresadas en el artículo trece, las relativas a la renta y demás estipulaciones del arrendamiento, a todos los efectos legales, y en especial a los del artículo veintiocho.
+La hipoteca constituida se notificará por acta notarial al arrendador o al propietario del local en que se hallare instalado el establecimiento que se hipoteca. Esta notificación se hará a instancia del acreedor o del deudor.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+El acreedor podrá ejercitar los derechos que correspondan al arrendatario para exigir que cesen las perturbaciones de hecho o de derecho, o para que se ejecuten las reparaciones necesarias en el local arrendado, cuando el deudor o hipotecante no las ejercitare, siempre que hubieren transcurrido ocho días desde que fue requerido para ello por el acreedor.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+El propietario del local de negocio a quien se le hubiere notificado la constitución de la hipoteca deberá trasladar al acreedor las notificaciones previstas en los artículos ciento dos y siguientes de la Ley de Arrendamientos Urbanos.
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+El hipotecante está obligado a continuar el comercio o industria en el establecimiento hipotecado con arreglo a los usos del comercio y a participar al acreedor, dentro de los ocho días, cualquier acto o novedad dañosa.
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+Si la hipoteca se hubiere constituido por el mismo propietario del local, el adjudicatario, en caso de ejecución, adquirirá, de pleno derecho, la cualidad de arrendatario con sujeción a lo pactado en la escritura de hipoteca.
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+El acreedor podrá, aunque no haya transcurrido el plazo estipulado en el contrato, dar por vencida la obligación por cualquiera de las siguientes causas:
+Primera. Modificación de la clase de comercio o industria del establecimiento hipotecado, si no se pactare otra cosa.
+Segunda. Incumplimiento de las obligaciones establecidas en el artículo veintisiete y en especial la falta de pago del alquiler, cargas sociales y fiscales y primas de seguros.
+Tercera. Enajenación por el deudor, sin consentimiento del acreedor, de alguno de los bienes hipotecados, excepto las mercaderías, de conformidad con el artículo veintidós.
+Cuarta. Extinción del derecho de arrendamiento del local.
+Quinta. Resolución por sentencia firme del contrato de arrendamiento.
+Sexta. El término del contrato por cualquiera otra causa reconocida en la Ley.
+Séptima. El transcurso de seis meses desde la notificación notarial por el arrendador de la resolución gubernativa que acuerde la demolición del inmueble.
+Octava. La disminución en un veinticinco por ciento del valor de las mercaderías o materias primas hipotecadas, si el deudor no las repusiere, de conformidad con el artículo veintidós.
+Novena. Cualquiera otra causa especialmente fijada por la Ley o estipulada en la escritura de hipoteca al efecto de dar por vencida la obligación.
+
+### Artículo treinta
+
+Artículo treinta.
+El acreedor que abonare los descubiertos mencionados en el número segundo del artículo veintinueve podrá hacer efectivo su importe, con los intereses legales, al mismo tiempo que la deuda garantizada dentro de la cantidad máxima señalada para costas y gastos en la escritura de hipoteca.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+El arrendador que hubiere dado su conformidad con la hipoteca tendrá derecho al aumento de la renta vigente en un cinco por ciento, con independencia de lo que le corresponde según la Ley de Arrendamientos Urbanos. Si posteriormente se traspasare el local, el arrendador tendrá derecho a incrementar en un diez por ciento la participación que le corresponda en el traspaso con arreglo a dicha Ley. Ambos derechos serán ejercitables después de la constitución de cada hipoteca consentida.
+Esta conformidad podrá prestarse en el momento de constituirse la hipoteca o en escritura posterior.
+La sentencia declarando la resolución del contrato de arrendamiento por cualquiera de las causas señaladas en los números segundo al quinto y décimo del artículo ciento cuarenta y nueve de la Ley de Arrendamientos Urbanos, deberá ser notificada en forma auténtica por el arrendador al acreedor, así que fuere firme, y no será ejecutiva hasta que transcurran treinta días a partir de la notificación.
+Durante este plazo podrá el acreedor hacer efectiva la acción hipotecaria.
+El propietario del inmueble tendrá el derecho de retracto respecto de la adquisición que hiciere el adjudicatario en la subasta, y si no la ejercitare tendrá los derechos establecidos en el párrafo primero de este artículo.
+Si el acreedor no entabla el procedimiento ejecutivo dentro del indicado plazo de treinta días, el arrendador recuperará el local objeto del arrendamiento resuelto y el acreedor podrá ejercitar la acción hipotecaria sobre los restantes bienes hipotecados.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+El arrendador que no hubiere dado su conformidad a la hipoteca, con arreglo al artículo anterior, podrá ejercitar libremente las acciones resolutorias reconocidas en los números segundo a quinto y décimo del artículo ciento cuarenta y nueve de la Ley de Arrendamientos Urbanos. El acreedor podrá mostrarse parte en el procedimiento.
+El deudor que maliciosamente hubiere dado lugar a dicha resolución incurrirá en la responsabilidad civil y en la penal que procediere.
+Extinguido, por cualquier causa, el derecho de arrendamiento del hipotecante sobre el local, subsistirá íntegramente la hipoteca sobre los demás bienes hipotecados.
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+No surtirá efecto alguno en perjuicio del acreedor la renuncia de los derechos derivados del contrato de arrendamiento hecha por el arrendatario durante la subsistencia de la hipoteca, si ésta se hubiere notificado en la forma prevista en el artículo veinticuatro.
+
+## CAPÍTULO III
+
+De la hipoteca de automóviles y otros vehículos de motor, tranvías y vagones de ferrocarril de propiedad particular
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+Se consideran vehículos de motor, además de los automóviles, los camiones, autocares, autobuses, tractores, motocicletas y cualesquiera otros susceptibles de matrícula en el correspondiente Registro Administrativo.
+También serán hipotecables los tranvías, trolebuses y vagones de ferrocarril de propiedad particular.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+La escritura de hipoteca contendrá, aparte de las circunstancias generales, las siguientes:
+Primera. Clase de vehículo y marca de fábrica.
+Segunda. Número del motor y del bastidor.
+Tercera. Matrícula del vehículo.
+Cuarta. Número de cilindros y potencia en HP.
+Quinta. Categoría y número del permiso de circulación y lugar y fecha en que fue expedido.
+Sexta. Toneladas de carga máxima si se tratase de camiones.
+Si se tratase de vagones, se expresará si son abiertos o cerrados y la clase de servicio a que se destinen. De ser abiertos, se consignará si son plataforma o bordes; y de ser cerrados, si son cubas, jaulas o simplemente cerrados. Se identificarán, además, por la serie y número de ejes, número dentro de su serie, carga, casa constructora, año de la construcción y las demás circunstancias que en cada caso se estimen precisas.
+Si el objeto hipotecado fuese un tranvía, se hará constar su serie y número, la constructora, año de la construcción, servicio a que esté destinado, número que le corresponda y las demás circunstancias que contribuyan a su mejor identificación.
+El Notario, en el momento del otorgamiento de la escritura, hará la anotación correspondiente en el permiso de circulación del vehículo.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+Los vehículos hipotecados deberán ser asegurados contra los riesgos de robo, hurto, extravío, sustracción o menoscabo, por una cantidad igual o superior al importe total de la responsabilidad hipotecaria.
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+Los vehículos que tuvieren anotada la hipoteca en el permiso de circulación no podrán salir del territorio nacional sin consentimiento del acreedor.
+Las Aduanas españolas exigirán, a tal efecto, el citado permiso de circulación.
+
+## CAPÍTULO IV
+
+De la hipoteca de aeronaves
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+Podrán ser hipotecadas las aeronaves de nacionalidad española siempre que se hallaren inscritas en la sección correspondiente del Registro Mercantil de la provincia donde estén matriculadas.
+En cuanto a las aeronaves extranjeras, se estará a los convenios internacionales y al principio de reciprocidad.
+La aeronave en construcción podrá hipotecarse cuando se hubiere invertido un tercio de la cantidad total presupuestaria. La inscripción provisional en el Registro Mercantil deberá convertirse en definitiva una vez terminada la construcción.
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+La hipoteca comprenderá, salvo pacto en contrario, la célula, motores, hélices, aparatos de radio y navegación, herramientas, accesorios, mobiliario y, en general, pertrechos y enseres destinados al servicio de la aeronave, aunque sean separables de ésta.
+Los repuestos de almacén quedarán hipotecados con la aeronave, siempre que consten inventariados en la escritura de hipoteca.
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+La escritura de hipoteca contendrá, además de las circunstancias generales, las siguientes:
+Primera. Número que tuviere la aeronave en su registro de matrícula.
+Segunda. Fase de construcción en que se hallare, en su caso.
+Tercera. Marcas de fábrica y de nacionalidad y cuantas características la identifiquen.
+Cuarta. Domicilio de la aeronave.
+Quinta. Especificación de todos los seguros concertados y en especial los de carácter obligatorio.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+Sólo gozarán de preferencia sobre la hipoteca mobiliaria las remuneraciones debidas por salvamento y gastos absolutamente necesarios para la conservación de la aeronave, por orden cronológico inverso, siempre que se anoten en el Registro Mercantil correspondiente dentro de los tres meses siguientes a aquel en que se hubieren terminado dichas operaciones o reparaciones.
+
+## CAPÍTULO V
+
+De la hipoteca de maquinaria industrial
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+Podrán ser hipotecadas las máquinas, instrumentos o utensilios instalados y destinados por su propietario a la explotación de una industria y que directamente concurran a satisfacer las necesidades de la explotación misma. Dicha industria deberá figurar anotada en el censo industrial o minero a nombre del hipotecante.
+A los efectos de esta hipoteca, se considerarán también como máquinas las calderas de vapor, los hornos que no forman parte del inmueble, las instalaciones químicas y los demás elementos materiales fijos afectos a la explotación de la industria.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+La escritura de hipoteca contendrá, además de las circunstancias generales, las siguientes:
+Primera. Reseña de las máquinas, instrumentos o utensilios, con expresión de sus características de fábrica, número, tipo y cuantas peculiaridades contribuyan a su identificación.
+Segunda. Lugar del emplazamiento e industria a que se destinen.
+Tercera. Aplicación de cada máquina o utensilio y su estado de conservación o grado de deterioro.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+El dueño de las máquinas y demás bienes hipotecados tendrá la obligación de conservarlos en el lugar y en el estado en que se encontraren, y responderá civil y, en su caso, criminalmente del incumplimiento de aquélla.
+Podrá, sin embargo, usar normalmente dichos bienes conforme a su destino, pero sin merma de su integridad.
+El mal uso o la resistencia del deudor a la inspección de la cosa por el acreedor o persona que éste designe, conferirá al acreedor derecho a dar por vencida la obligación hipotecaria.
+
+## CAPÍTULO VI
+
+De la hipoteca de propiedad intelectual e industrial
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+1. Podrán sujetarse a hipoteca mobiliaria los derechos protegidos por la legislación de Propiedad Industrial tales como las patentes, topografías de productos semiconductores, marcas, nombres comerciales, diseños industriales, variedades vegetales y otras cualesquiera modalidades típicas, de conformidad con su Ley reguladora.
+2. Podrá constituirse la garantía hipotecaria tanto por el propietario como por el licenciatario con facultad de ceder su derecho a tercero, tanto sobre el derecho en sí como sobre la solicitud de concesión del derecho. Pueden dar en garantía hipotecaria sus respectivos derechos los licenciatarios que sean titulares de licencias en su totalidad o en alguna de las facultades que integran el derecho de exclusiva, para todo el territorio nacional o para una parte del mismo; con la condición de licencia exclusiva o no exclusiva.
+3. No son susceptibles de hipoteca mobiliaria los derechos de propiedad industrial registrables pero no registrados, los derechos personalísimos, carentes de contenido patrimonial o no enajenables y, en general, los que no sean susceptibles de apropiación individual.
+4. La garantía se extiende a los derechos y mejoras resultantes de la adición, modificación o perfeccionamiento de los derechos registrados.
+5. Inmediatamente después de haber practicado los asientos respectivos en el Registro de Bienes Muebles, el Registrador remitirá de oficio certificación de su contenido a la Oficina Española de Patentes y Marcas para su constancia registral en esta última y la coordinación entre sendos servicios de publicidad. La garantía registral se reputa constituida a los efectos previstos en esta Ley desde que quedare inscrita en el Registro de Bienes Muebles.
+6. Respecto a los nombres de dominio en internet se estará a lo que dispongan las normas de su correspondiente Registro no pudiéndose gravar con hipoteca mobiliaria los derechos no susceptibles de enajenación voluntaria de conformidad con lo previsto en la normativa aplicable.
+7. Las normas del presente Capítulo establecen las reglas comunes para las hipotecas mobiliarias sobre derechos de propiedad industrial y sobre las hipotecas mobiliarias sobre derechos protegidos por la legislación de propiedad intelectual a los que se refiere el artículo siguiente.
+Téngase en cuenta que este artículo ha sido modificado por la disposición final 1 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfprimera., y que no entrará en vigor hasta el 1 de abril de 2017.
+ Redacción anterior:
+ "Los derechos protegidos por las Leyes de propiedad intelectual e industrial podrán ser hipotecados en la forma que se establece en los artículos siguientes".
+Se modifica por la disposición final 1 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfprimera.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+1. Podrá imponerse hipoteca mobiliaria tanto sobre los derechos de explotación de la obra como sobre todos aquellos derechos y modalidades de la propiedad intelectual de contenido patrimonial que sean susceptibles de transmisión inter vivos conforme a su Ley reguladora. También podrán sujetarse a hipoteca mobiliaria los derechos de explotación de una obra cinematográfica en los términos previstos en la Ley.
+2. Podrá constituirse la garantía tanto por el propietario como por el cesionario, en exclusiva o como cesionario parcial, siempre que aquel tuviere facultad de enajenar su derecho a tercero.
+3. No son susceptibles de hipoteca mobiliaria los derechos de propiedad intelectual registrables pero no registrados así como los derechos personalísimos tales como el llamado derecho moral de autor, los no enajenables y en general los que no sean susceptibles de apropiación individual.
+4. A menos que otra cosa se pacte en el contrato, la garantía sobre la obra original no se extiende a las traducciones y adaptaciones; las revisiones, actualizaciones o anotaciones; los compendios, resúmenes o extractos; los arreglos musicales o cuales quiera transformaciones de la obra. Dichas transformaciones podrán ser objeto de otras tantas garantías separadas.
+5. Inmediatamente después de haber practicado los asientos respectivos en el Registro de Bienes Muebles, el Registrador remitirá de oficio certificación de su contenido al Registro público competente donde figurase inscrita la modalidad de Propiedad Industrial objeto de la garantía para su constancia registral y la coordinación entre sendos servicios de publicidad. La hipoteca mobiliaria se reputa constituida a los efectos previstos en esta Ley desde que quedare inscrita en el Registro de Bienes Muebles.
+Téngase en cuenta que este artículo ha sido modificado por la disposición final 1 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfprimera., y que no entrará en vigor hasta el 1 de abril de 2017.
+ Redacción anterior:
+ "La hipoteca del derecho principal comprenderá, como accesorios, salvo pacto en contrario:
+ Primero. La adaptación, refundición, traducción, reimpresión, nueva edición o adición de la obra hipotecada.
+ Segundo. La adición, modificación o perfeccionamiento de la misma patente, marca, modelo y demás derechos de propiedad industrial..
+Se modifica por la disposición final 1 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfprimera.
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+La escritura de hipoteca contendrá, además de las circunstancias generales, las siguientes:
+Primera. Naturaleza, especie y demás características de los bienes que se hipotequen.
+Segunda. Fecha y número de inscripción, renovación, rehabilitación o prórroga en el Registro especial.
+Tercera. Licencias, autorizaciones o concesiones otorgadas por su titular a terceras personas.
+Cuarta. Justificación de hallarse al corriente en el pago del canon, si lo hubiere.
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+El titular no podrá renunciar a su derecho ni ceder su uso o explotación, total o parcial, sin consentimiento del acreedor.
+Exceptúase el titular de una película cinematográfica, que podrá hacer cesión parcial de su derecho de explotación, limitada a determinadas regiones cinematográficas españolas, previa cancelación parcial del crédito hipotecario en la proporción fijada en la escritura de constitución, o en su defecto, a la señalada por la entidad oficial y organismos competentes.
+La cesión hecha sin la previa cancelación parcial no perjudicará los derechos del acreedor y hará al cedente y cesionario responsables «in solidum» hasta el importe de la indicada proporción.
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+El acreedor que en virtud del pacto adquiera la facultad de cobrar el importe de los derechos del titular, en su totalidad o en una determinada proporción, imputará las sumas percibidas al pago de intereses, y en lo que excediere, a la amortización del capital. A estos fines, el citado pacto deberá notificarse auténticamente a la Sociedad de Autores.
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+El acreedor podrá obtener, si el titular del bien hipotecado no lo hiciere, la renovación, rehabilitación o prórrogas necesarias para el mantenimiento de los derechos hipotecados, así como también podrá abonar el importe del canon correspondiente, con los efectos del párrafo segundo del artículo sexto.
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno.
+El acreedor podrá dar por vencida la obligación hipotecaria antes del cumplimiento de su término:
+Primero. Por falta de pago del canon correspondiente.
+Segundo. Por falta de explotación de la patente en un período superior a seis meses, o por falta de uso de las marcas durante cuatro años consecutivos, a no ser que se hubiere estipulado otra cosa.
+
+## TÍTULO TERCERO
+
+TÍTULO III
+De la prenda sin desplazamiento
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos.
+Podrán constituir prenda sin desplazamiento los titulares legítimos de explotaciones agrícolas, forestales y pecuarias sobre los siguientes bienes:
+Primero. Los frutos pendientes y las cosechas esperadas dentro del año agrícola en que se celebre el contrato.
+Segundo. Los frutos separados o productos de dichas explotaciones. Si no estuvieren almacenados, se determinará el lugar en que hubieren de depositarse.
+Tercero. Los animales, así como sus crías y productos.
+Cuarto. Las máquinas y aperos de las referidas explotaciones.
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres.
+También podrá constituirse prenda sin desplazamiento sobre los bienes que a continuación se expresan, aunque no formen parte de las explotaciones a que se refiere el artículo anterior:
+Primero. Las máquinas y demás bienes muebles identificables por características propias, como marca y número de fabricación, modelo y otras análogas, que no reúnan los requisitos exigidos en el artículo cuarenta y dos.
+Segundo. Las mercaderías y materias primas almacenadas.
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro.
+De igual manera serán susceptibles de prenda sin desplazamiento las colecciones de objetos de valor artístico e histórico, como cuadros, esculturas, porcelanas o libros, bien en su totalidad o en parte; también podrán serlo dichos objetos, aunque no formen parte de una colección.
+Podrán sujetarse a prenda sin desplazamiento los créditos y demás derechos que correspondan a los titulares de contratos, licencias, concesiones o subvenciones administrativas siempre que la Ley o el correspondiente título de constitución autoricen su enajenación a un tercero. Una vez constituida la prenda, el Registrador comunicará de oficio esta circunstancia a la Administración Pública competente mediante certificación emitida al efecto.
+Los derechos de crédito, incluso los créditos futuros, siempre que no estén representados por valores y no tengan la consideración de instrumentos financieros a los efectos de lo previsto en el Real Decreto Ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública, podrán igualmente sujetarse a prenda sin desplazamiento. Para su eficaz constitución deberán inscribirse en el Registro de Bienes Muebles.
+Se añaden los dos últimos párrafos por la disposición final 3.3 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086.
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco.
+No podrá constituirse prenda sin desplazamiento sobre los bienes expresados en el artículo doce o que por pacto hubieren sido hipotecados con arreglo al artículo ciento once de la Ley Hipotecaria.
+Tampoco podrá constituirse prenda ordinaria sobre bienes que se hallen pignorados con arreglo a esta Ley.
+
+### Artículo cincuenta y seis
+
+La constitución de la prenda no perjudicará, en ningún caso, los derechos legítimamente adquiridos, en virtud de documento de fecha auténtica anterior, por terceras personas sobre los bienes pignorados y sin perjuicio de la responsabilidad, civil y criminal, en que incurriere el que defraudase a otro ofreciendo en prenda como libres las cosas que sabía estaban gravadas o fingiéndose dueño de las que no le pertenecen.
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete.
+Además de las circunstancias generales, la escritura o la póliza de prenda contendrán:
+Primero. Descripción de los bienes que se pignoran, con expresión de su naturaleza, cantidad, calidad, estado y demás circunstancias que contribuyan a individualizarlos o identificarlos.
+Segundo. Determinación, en su caso, del inmueble en que se situaren esos bienes por su origen, aplicación, almacenamiento o depósito.
+Tercero. La obligación del dueño de conservarlos y de tenerlos a disposición del acreedor, para que éste pueda, en cualquier momento, inspeccionarlos y comprobar la existencia y estado de los mismos, en la forma pactada o, en su defecto, conforme al artículo sesenta y tres.
+Cuarto. Los seguros concertados, con referencia a la póliza correspondiente.
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho.
+El deudor podrá devolver al acreedor, en cualquier tiempo, el importe del principal, con los intereses devengados hasta el día.
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve.
+El dueño de los bienes pignorados, a todos los efectos legales, tendrá la consideración de depositario de los mismos, con la consiguiente responsabilidad civil y criminal, no obstante su derecho a usar de los mismos sin menoscabo de su valor.
+El acreedor podrá exigir, a la muerte de dicho depositario legal, que los bienes pignorados se entreguen materialmente en depósito a otra persona.
+
+### Artículo sesenta
+
+Artículo sesenta.
+Los bienes pignorados no se podrán trasladar del lugar en que se encuentren, según la escritura o póliza, sin consentimiento del acreedor.
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno.
+Son de cuenta del deudor las expensas o gastos necesarios para la debida conservación, reparación, administración y recolección de los bienes pignorados.
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos.
+Si el deudor hiciere mal uso de los bienes o incumpliere las obligaciones establecidas en los artículos anteriores, el acreedor podrá exigir la devolución de la cantidad adecuada o la inmediata venta de la prenda, sin perjuicio de las responsabilidades que procedieren.
+La pérdida o deterioro de dichos bienes dará derecho a la indemnización correspondiente, exigible a los responsables del daño y, en su caso, a la entidad aseguradora.
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres.
+El acreedor podrá comprobar la existencia de los bienes pignorados e inspeccionar el estado de los mismos. La resistencia del dueño de los bienes al cumplimiento de este deber, después de haber sido requerido notarial o judicialmente al efecto, facultará al acreedor para solicitar del Juzgado competente, acreditando ese requerimiento y la subsistencia de la prenda inscrita a su favor, que se le autorice, con intervención judicial, para penetrar en el local o lugar donde los bienes estuvieren depositados. El Juez, sin más trámites, lo decretará así, y la resolución judicial servirá de mandamiento para que, en unión del acreedor, se practique la diligencia acordada.
+Lo dispuesto en los párrafos que anteceden se entiende, sin perjuicio del vencimiento de la obligación garantizada, desde el requerimiento.
+Se modifica el párrafo primero por el art. 4.2 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo sesenta y cuatro
+
+Artículo sesenta y cuatro.
+En caso de abandono de los bienes pignorados, se entenderá vencida la obligación, y podrá el acreedor encargarse de la conservación, administración y, en su caso, de la recolección de dichos bienes, bajo su exclusiva responsabilidad, del modo y forma pactado en la escritura o póliza de constitución de la prenda.
+
+### Artículo sesenta y cinco
+
+Artículo sesenta y cinco.
+Cuando el deudor, con consentimiento del acreedor, decidiere vender, en todo o en parte, los bienes pignorados, tendrá el último derecho preferente para adquirirlos por dación en pago, siempre que el precio convenido para esa proyectada venta fuere inferior al total importe del crédito, y quedará subsistente por la diferencia.
+
+### Artículo sesenta y seis
+
+Artículo sesenta y seis.
+No obstante lo establecido en el párrafo primero del artículo 10, serán satisfechos con prelación al crédito pignoraticio:
+1.º Los créditos debidamente justificados por semillas, gastos de cultivo y recolección de las cosechas o frutos.
+2.º Los de alquileres o rentas de los últimos doce meses de la finca en que se produjeren, almacenaren o depositaren los bienes pignorados.
+En caso de concurso, se estará a lo dispuesto en la Ley Concursal.
+Se modifica por la disposición final 8.2 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+
+## TÍTULO CUARTO
+
+TÍTULO IV
+Registro de hipoteca mobiliaria y de prenda sin desplazamiento
+
+## Disposiciones generales
+
+### Artículo sesenta y siete
+
+Artículo sesenta y siete.
+Bajo la dependencia del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado, y a cargo de los Registradores de la Propiedad, se llevarán los siguientes libros especiales:
+«Diario de Hipoteca Mobiliaria y de Prenda sin desplazamiento de posesión».
+«Inscripciones de Hipoteca Mobiliaria» e «Inscripciones de Prenda sin desplazamiento de posesión».
+
+### Artículo sesenta y ocho
+
+Artículo sesenta y ocho.
+En los libros expresados en el artículo anterior se inscribirán o, en su caso, anotarán:
+a) Los títulos de constitución de la hipoteca mobiliaria o de la prenda sin desplazamiento, o bien su modificación. En ningún caso será necesaria, en dichos Registros, previa inscripción alguna a favor de la persona que otorgue los títulos mencionados, salvo cuando se trate de aeronaves.
+b) Los de cesión por actos intervivos y los de cancelación de los mencionados créditos hipotecarios y pignoraticios, cuando éstos estuvieren previamente inscritos a favor del disponente.
+c) Los de adjudicación «mortis causa» a favor de persona determinada en la forma prevista en el artículo catorce de la Ley Hipotecaria. Pero no será precisa la adjudicación e inscripción a favor de los herederos para inscribir los títulos de cesión o cancelación que todos ellos otorguen sustituyendo a su causante, siempre que el crédito conste inscrito a nombre de éste. Tampoco necesitarán dicha previa adjudicación ni inscripción a su favor los herederos para el ejercicio de toda clase de acciones ante los Tribunales derivadas de crédito perteneciente a su causante.
+d) Los mandamientos judiciales de embargo y los de su cancelación sobre bienes susceptibles de gravamen hipotecario o pignoraticio o sobre los créditos inscritos, así como aquellos a que diere lugar la presentación de la demanda de nulidad del título inscrito.
+e) Las resoluciones judiciales firmes que declaren la nulidad del título, rescisión, revocación, resolución o cancelación de las hipotecas o prendas inscritas.
+
+### Artículo sesenta y nueve
+
+Artículo sesenta y nueve.
+Los títulos expresados en el artículo anterior se inscribirán en el correspondiente Registro de la Propiedad, conforme a las siguientes reglas:
+Primera. Los de hipoteca de los establecimientos mercantiles y los de maquinaria industrial, en el Registro en cuya demarcación radique el inmueble en que estén instaladas.
+Segunda. Los de automóviles y otros vehículos de motor, en el Registro de la capital de la provincia donde estén matriculados. Los de tranvías en el Registro que corresponda al punto de arranque de la línea, y los de vagones en el domicilio del propietario.
+Tercera. Los de propiedad intelectual e industrial en el Registro de la Propiedad de Madrid que determine el Ministerio.
+Cuarta. Los de aeronaves en la Sección correspondiente del Registro Mercantil de la provincia donde se hallaren matriculadas.
+
+### Artículo setenta
+
+Artículo setenta.
+Los de prenda sin desplazamiento de posesión se inscribirán en el respectivo Registro de la Propiedad conforme a las siguientes reglas:
+Primera. Los de prenda de frutos pendientes, cosechas esperadas y la de maquinaria y aperos comprendidos en el número cuarto del artículo cincuenta y dos, en el Registro en cuya circunscripción territorial se halle la finca en que se produjeren o se verifique la explotación a que estuvieren afectos.
+Segunda. Los de prenda de productos de explotaciones agrícolas, frutos separados o mercaderías y materias primas almacenadas, en el Registro correspondiente al lugar en que se halle el almacén donde estén depositados o hubieren de depositarse.
+Tercera. Los de prenda de animales, sus crías y productos, en el Registro donde se halle la finca a cuya explotación estuvieron adscritos o donde se hallen las cuadras, establos, viveros, criaderos, etc.
+Cuarta. Los de prenda de bienes u objetos de valor artístico o histórico, máquinas o aparatos que no estén afectos a explotaciones agrícolas, forestales o pecuarias, bienes muebles de características propias, en el Registro correspondiente al domicilio del pignorante.
+Quinta. Cuando la finca radique en territorio perteneciente a dos o más Registros se practicará la inscripción en cada uno de ellos.
+
+### Artículo setenta y uno
+
+Artículo setenta y uno.
+En el Libro Diario se hará constar, por orden riguroso de entrada, el día y la hora de la presentación de los títulos referentes a hipotecas mobiliarias y prendas sin desplazamiento, debiéndose practicar las inscripciones correspondientes en el plazo de treinta días, a contar desde esa presentación.
+
+### Artículo setenta y dos
+
+Artículo setenta y dos.
+Los Registradores calificarán, bajo su responsabilidad, en los documentos presentados:
+a) La legalidad de las formas extrínsecas.
+b) La capacidad y la facultad de disposición de los otorgantes, así como la competencia del Juez, Tribunal o funcionarios autorizantes.
+c) La legalidad del contenido de los documentos. El Registrador se limitará en este punto a examinar si el referido contenido infringe o no, de una manera clara, directa y concreta, alguna disposición legal de carácter imperativo. El Registrador hará constar la disposición legal y el número del artículo o párrafo de la misma infringido, en la forma antes dicha.
+
+### Artículo setenta y tres
+
+Artículo setenta y tres.
+La calificación del Registrador que suspenda o deniegue cualquier operación referente a la hipoteca mobiliaria o a la prenda sin desplazamiento de posesión, si aquél no accediera a reformarla, podrá ser recurrida por los interesados al amparo del artículo sesenta y seis y concordantes del Reglamento del Registro Mercantil.
+
+### Artículo setenta y cuatro
+
+Artículo setenta y cuatro.
+Las escrituras de constitución de hipoteca se inscribirán destinándose, a cada bien hipotecado, un asiento separado y especial, en folio independiente, y figurando todos los asientos relativos a dicho bien, mientras no se cancele la hipoteca y otros gravámenes, bajo un solo número, a continuación unos de otros, sin solución de continuidad. Cancelados todos estos gravámenes se extinguirá el número y se cerrará el folio.
+Cada escritura o pólizas de constitución de prenda sin desplazamiento se inscribirá separadamente, en un solo asiento, cualesquiera que sean los bienes que comprende.
+
+### Artículo setenta y cinco
+
+Artículo setenta y cinco.
+Cuando se hipoteque un establecimiento mercantil o maquinaria industrial o se pignoren bienes susceptibles, uno y otros, de extenderse a ellos la hipoteca del inmueble donde están instalados, conforme al artículo ciento once de la Ley Hipotecaria, se hará constar la constitución de la hipoteca o de la prenda, al margen de la inscripción de dominio del inmueble a favor del que hipoteca o pignora. Igual nota se extenderá al margen de la inscripción de la concesión del tranvía cuando se hipotequen éstos.
+Extendida esa nota marginal, la hipoteca mobiliaria o la prenda serán preferentes, en cuanto a dichos bienes, respecto a cualquier hipoteca inmobiliaria o gravamen que se inscriba posteriormente con pacto de extensión a los mismos.
+Si en el Registro apareciere inscrito, a favor del que hipoteca o pignora, el derecho de arrendamiento del local donde radique el establecimiento mercantil o las máquinas hipotecadas o los bienes pignorados, se extenderá, igualmente, nota al margen de la inscripción correspondiente, en la que se hará constar la constitución de la hipoteca mobiliaria o de la prenda. Extendida esta nota surtirá los efectos señalados en el párrafo anterior.
+Las referidas notas marginales se extenderán o cancelarán por los mismos títulos de constitución o cancelación de la hipoteca o de la prenda.
+
+### Artículo setenta y seis
+
+Artículo setenta y seis.
+La hipoteca que se constituyere sobre automóviles u otros vehículos de motor, vagones, tranvías, propiedad intelectual, propiedad industrial, aeronaves y maquinaria industrial, será comunicada de oficio por los Registradores de la Propiedad o Mercantiles una vez inscrita a los jefes o encargados de los Registros especiales, quienes acusarán recibo y verificarán las anotaciones que correspondan.
+La falta de toma de razón en los Registros especiales no alterará en ningún caso los efectos de la inscripción en el Libro de hipoteca mobiliaria.
+
+### Artículo setenta y siete
+
+Artículo setenta y siete.
+Las inscripciones se cancelarán en la forma prevenida en los artículos ochenta y dos y ochenta y tres de la Ley Hipotecaria. Cuando lo sean de hipotecas mobiliarias en garantía de títulos endosables y al portador, su cancelación se hará por cualquiera de los medios establecidos en el artículo 156 de la misma Ley.
+Cuando la inscripción hubiera tenido lugar mediante documento intervenido por Agente de Cambio y Bolsa o Corredor de Comercio colegiado, para su cancelación será suficiente documento intervenido también por Agente o Corredor.
+
+### Artículo setenta y ocho
+
+Artículo setenta y ocho.
+Los Registros de Hipoteca mobiliaria y de Prenda sin desplazamiento serán públicos. Esta publicidad se hará efectiva:
+a) Mediante manifestación directa de los libros al interesado, quien podrá tomar por escrito los datos que necesite.
+b) Por simple nota informativa, facilitada por la oficina; y
+c) Por certificación de los asientos expedida por el Registrador.
+
+### Artículo setenta y nueve
+
+Artículo setenta y nueve.
+Las inscripciones de hipoteca caducarán y se cancelarán de oficio o a instancia de parte, una vez transcurridos seis años, y las de prenda, una vez transcurridos tres años, contados, en ambos casos, a partir de la fecha del vencimiento de la obligación garantizada.
+
+### Artículo ochenta
+
+Artículo ochenta.
+Una disposición general del Ministerio de Justicia determinará los requisitos y circunstancias de los libros y de las inscripciones, así como los libros auxiliares que deberán llevarse y cuanto sea necesario para el inmediato funcionamiento del Registro de Hipoteca mobiliaria y de Prenda sin desplazamiento de posesión.
+
+## TÍTULO QUINTO
+
+TÍTULO V
+De los procedimientos para hacer efectivos los créditos garantizados
+
+## Disposición general
+
+### Artículo ochenta y uno
+
+Artículo ochenta y uno.
+Sin perjuicio de los procedimientos establecidos en la Ley de Enjuiciamiento Civil, el acreedor podrá hacer efectivo su crédito mediante los que se regulan en la presente Ley.
+A los efectos de esta Ley, tercer poseedor es el que adquiera, de conformidad con el artículo cuarto, los bienes hipotecados o pignorados, o sea con el consentimiento del acreedor.
+
+## CAPÍTULO PRIMERO
+
+CAPÍTULO I
+Normas procesales aplicables a la hipoteca mobiliaria
+
+## Sección 1
+
+Sección 1.ª Procedimiento judicial sumario
+
+### Artículo ochenta y dos
+
+Artículo ochenta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo ochenta y tres
+
+Artículo ochenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo ochenta y cuatro
+
+Artículo ochenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+ Se modifican las reglas 4, 5, 8 y los párrafos segundo de la regla 7 y tercero de la regla 10 por los arts. 9 a 13 de la Ley 19/1986, de 14 de mayo. Ref. BOE-A-1986-12191.
+ Téngase en cuenta para su aplicación la disposición transitoria .
+
+### Artículo ochenta y cinco
+
+Artículo ochenta y cinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+## Sección 2
+
+Sección 2.ª Venta extrajudicial
+Se modifica por la disposición final 13.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.
+
+### Artículo ochenta y seis
+
+Artículo ochenta y seis.
+Para que sea aplicable el procedimiento de venta extrajudicial será necesario:
+1.º Que en la escritura de constitución de la hipoteca se designe por el deudor, o por el hipotecante no deudor, en su caso, un mandatario que le represente, en su día, en la venta de los bienes hipotecarios. Este mandatario podrá ser el propio acreedor.
+2.º Que asimismo se haga constar el precio en el que los interesados tasan los bienes. El tipo de subasta pactado no podrá ser distinto del que se fije, en su caso, para el procedimiento judicial.
+3.º Que se fije por el deudor, o hipotecante no deudor en su caso, un domicilio para requerimientos y notificaciones. También podrá designarse una dirección electrónica, en cuyo caso los requerimientos y notificaciones se harán, además, en esa forma.
+En todo lo no especialmente regulado en esta Ley, se aplicará supletoriamente a la venta forzosa extrajudicial derivada de la hipoteca mobiliaria y prenda sin desplazamiento, las normas sobre subasta electrónica contenidas en la legislación procesal.
+Se modifica por la disposición final 13.2 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.
+
+### Artículo ochenta y siete
+
+Artículo ochenta y siete.
+El procedimiento extrajudicial se ajustará necesariamente a las siguientes reglas:
+1.ª Sólo podrá ser seguido ante Notario competente para actuar en el lugar donde radiquen los bienes hipotecados o de un distrito colindante a él.
+2.ª Se iniciará por un requerimiento dirigido por el acreedor al Notario que, previo el cumplimiento de los requisitos de este artículo, proceda a la venta de los bienes en pública subasta.
+En el requerimiento hará constar el acreedor la cantidad exacta que sea objeto de la reclamación, por principal e intereses, y la causa del vencimiento, entregando al Notario el título o títulos de su crédito, revestidos de todos los requisitos exigidos por la Ley de Enjuiciamiento Civil, para que tengan carácter ejecutivo.
+Este requerimiento se hará constar en acta.
+3.ª A solicitud del acreedor, el Notario requerirá de pago al deudor, y, en su caso, al hipotecante no deudor o al tercer poseedor, con expresión de la causa del vencimiento y de la cantidad total reclamada, y se hará constar que si no se hiciere el pago se procederá a la subasta de los bienes hipotecados, sin necesidad de nuevas notificaciones ni requerimientos.
+Los requeridos, dentro de los cinco días siguientes al del requerimiento, deberán pagar o entregar la posesión material de los bienes hipotecados al acreedor o mandatario designado en la escritura de constitución de la hipoteca.
+Cuando el deudor incumpliere la obligación de entregar la posesión de los bienes, el Notario no seguirá adelante con el procedimiento de venta si así lo solicitare el acreedor, quien podrá también, para hacer efectivo su crédito, acudir a cualquiera de los procedimientos judiciales, sin perjuicio de ejercitar las acciones civiles y criminales que le correspondan.
+4.ª A instancia del acreedor, a la que se acompañará el requerimiento de pago, el Registrador expedirá certificación literal del asiento de la hipoteca, en la que se expresará que se halla subsistente y sin cancelar o, en su caso, la cancelación o modificaciones que constaren en el Registro, y se relacionarán los asientos posteriores.
+El Registrador hará constar, al margen de la inscripción de hipoteca, que ha expedido la certificación expresando su fecha, la iniciación del procedimiento y el Notario ante quien se sigue.
+Cuando de la certificación del Registro aparezca algún asiento con posterioridad a la inscripción de la hipoteca, se notificará al deudor y a su titular la existencia del procedimiento para que pueda, si le conviniere, intervenir en la subasta o satisfacer antes del remate el importe del crédito, intereses y costas. En este último caso, los acreedores quedarán subrogados en los derechos del actor y se hará constar el pago y la subrogación al margen de la inscripción de la hipoteca en que dichos acreedores se subroguen y de los respectivos asientos, mediante presentación en el Registro del acta notarial de entrega de las cantidades adeudadas o del mandamiento judicial, en su caso.
+5.ª Transcurridos cinco días desde la práctica del requerimiento, se procederá a la subasta, cuya convocatoria se anunciará en el "Boletín Oficial del Estado". La subasta se celebrará de forma electrónica en el Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado. La subasta admitirá posturas durante un plazo mínimo de veinte días naturales desde su apertura y no se cerrará hasta transcurrida una hora desde la realización de la última postura, aunque ello conlleve la ampliación del plazo inicial de veinte días a que se refiere este artículo por un máximo de 24 horas.
+6.ª La realización del valor del bien se llevará a cabo a través de una única subasta para la que servirá de tipo el valor de tasación establecido en la escritura de constitución de hipoteca. No obstante, si se presentaran posturas por un importe igual o superior al 70 por ciento del valor por el que el bien hubiera salido a subasta, se entenderá adjudicada la finca a quien presente la mejor postura.
+Cuando la mejor postura presentada fuera inferior al 70 por ciento del tipo señalado para la subasta, podrá el deudor presentar, en plazo de diez días, tercero que mejore la postura, ofreciendo cantidad igual o superior al 70 por ciento del valor de tasación o que, aun inferior a dicho importe, resulte suficiente para lograr la completa satisfacción del derecho del acreedor.
+Transcurrido el expresado plazo sin que el deudor o el titular registral del dominio de los bienes realice lo previsto en el párrafo anterior, el acreedor podrá pedir, dentro del término de cinco días, la adjudicación del bien o bienes por el 70 por ciento del valor en que hubiera salido a subasta, o por la cantidad que se le deba por todos los conceptos, siempre que dicha cantidad sea superior al 60 por ciento del valor de tasación y a la mejor postura.
+Si el acreedor no hiciese uso de la mencionada facultad, se entenderá rematado el bien por quien haya presentado la mejor postura, siempre que la cantidad que haya ofrecido supere el 50 por ciento del valor de tasación o, siendo inferior, cubra, al menos, la cantidad reclamada por todos los conceptos.
+Si en la subasta no hubiere ningún postor podrá el acreedor, en el plazo de diez días, pedir la adjudicación por cantidad igual o superior al 50 por ciento de su valor de tasación o por la cantidad que se le deba por todos los conceptos.
+7.ª El acreedor ejecutante podrá concurrir a la subasta como licitador, siempre que existan otros licitadores, sin necesidad de consignar cantidad alguna. Todos los demás licitadores deberán depositar, para tomar parte en la subasta, el 5 por 100 del valor de tasación. La consignación podrá realizarse consintiendo su reserva a los efectos de la regla siguiente.
+8.ª Terminada la subasta con adjudicación al mejor postor, depositará éste en poder del Notario, dentro del segundo día, la diferencia entre el depósito previo y el precio de adjudicación, y se devolverá a los demás licitadores el depósito que hubieren constituido. Si el adjudicatario no consignare aquella cantidad, será adjudicado el bien al postor que siguiese al primero en el orden de sus posturas y que hubiera consentido la reserva de su consignación. Las consignaciones de aquellos postores que no hubieran acudido a satisfacer la diferencia, se destinarán al pago de los gastos del procedimiento y el exceso, si lo hubiere, al pago del crédito e intereses.
+Cuando el adjudicatario fuere el propio acreedor, deberá consignar la diferencia entre la cantidad reclamada y el precio de la adjudicación, y si no lo hiciere será responsable de los gastos de la subasta celebrada y de las posteriores que fueren necesarias.
+9.ª La cantidad obtenida en la subasta se destinará, una vez satisfechos todos los gastos del procedimiento, al pago del crédito por principal e intereses.
+El exceso se entregará, por el Notario, al hipotecante o al tercer poseedor si no existieren otras personas que hubieren trabado embargo sobre ellos o interpuesto reclamación judicial, y si las hubiere, se depositará a su disposición en un establecimiento público destinado al efecto.
+10.ª La adjudicación de los bienes se hará constar en escritura pública otorgada por el adjudicatario y el deudor, o el hipotecante no deudor o tercer poseedor, según proceda, o su respectivo causahabiente y, si estos últimos no hubieren comparecido, la otorgará en su nombre el mandatario designado al efecto.
+En esta escritura pública se harán constar los trámites observados, el precio de la adjudicación, su pago por el adjudicatario, el pago hecho al acreedor y el destino dado al exceso, si lo hubiere.
+Si el adjudicatario fuere el mismo acreedor y hubiere sido además nombrado mandatario, podrá otorgar la escritura pública en este doble concepto, haciéndose constar lo antes dicho.
+La escritura pública de adjudicación será título bastante para acreditar la propiedad de los bienes y para practicar la cancelación de la hipoteca y de los asientos posteriores, si en ella constare el pago hecho al acreedor y el destino dado al exceso si lo hubiere.
+Si el rematante fuere copropietario o tercer poseedor de los bienes subastados, una vez consignado el importe del remate, el Notario limitará la adjudicación a las demás participaciones indivisas que se ejecuten o, sin verificarla, declarará terminado el procedimiento, según los casos. Una copia del acta de la subasta, cuando no exista adjudicación, será igualmente título bastante para practicar la cancelación de la hipoteca y de los asientos posteriores, si en ella constare el pago hecho al acreedor y el destino dado al exceso si lo hubiere.
+11.ª Si la subasta quedara desierta y el acreedor no pidiere la adjudicación, se dará por terminado el procedimiento sin efecto, y quedará expedito el derecho de aquél para ejercitarlo en procedimiento judicial correspondiente.
+Si el precio de los bienes rematados fuere insuficiente para pagar el crédito total del acreedor, conservará éste su derecho por la diferencia.
+12.ª Los trámites del procedimiento, excepción hecha de la escritura de adjudicación de los bienes, se harán constar por diligencias a continuación del acta de iniciación a que se refiere la regla segunda.
+Esta acta se incorporará al protocolo en la fecha que corresponda a la última diligencia practicada. Otorgada la escritura pública de adjudicación, se hará constar por nota en dicha acta.
+13.ª El adjudicatario de los bienes será puesto en posesión de los mismos por la persona que la tuviere, conforme a la regla tercera. Si no le fueren entregados, podrá pedir la posesión judicial de los mismos conforme a la Ley de Enjuiciamiento Civil, sin perjuicio de las sanciones civiles o penales que pudiera ejercitar contra quien se hubiere negado injustamente a la entrega.
+Se modifica por la disposición final 13.3 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.
+
+### Artículo ochenta y ocho
+
+Artículo ochenta y ocho.
+El procedimiento de venta extrajudicial sólo podrá suspenderse por alguna de las causas siguientes:
+Primera. Que se presentare certificación del Registro acreditativa de estar cancelada la hipoteca o presentada escritura pública de carta de pago o cancelación de aquélla.
+Segunda. Cuando se acredite documentalmente la existencia de causa criminal sobre cualquier hecho de apariencia delictiva que determine la falsedad del título en virtud del cual se proceda, la invalidez o ilicitud del procedimiento de venta.
+Tercera. Si constare al Notario la declaración de concurso del deudor, aunque ya estuvieran publicados los anuncios de la subasta del bien. En este caso sólo se alzará la suspensión cuando se acredite, mediante testimonio de la resolución del Juez del concurso, que los bienes o derechos no están afectos, o no son necesarios para la continuidad de la actividad profesional o empresarial del deudor.
+Cuarta. Si se interpusiera demanda de tercería de dominio, acompañando inexcusablemente con ella título de propiedad, anterior a la fecha de la escritura de hipoteca. Si se tratare de bienes susceptibles de inscripción en algún Registro, dicho título habrá de estar inscrito también con fecha anterior a la hipoteca. La suspensión subsistirá hasta el término de juicio de tercería.
+Quinta. Si se acreditare, con certificación del Registro correspondiente, que los mismos bienes están sujetos a otra hipoteca mobiliaria o afectos a hipoteca inmobiliaria, en virtud del artículo 111 de la Ley Hipotecaria, vigentes o inscritas antes de la que motivare el procedimiento. Estos hechos se pondrán en conocimiento del Juzgado correspondiente, a los efectos prevenidos en el artículo 1862 del Código Civil.
+En los dos casos precedentes, si la causa de la suspensión afectare sólo a parte de los bienes comprendidos en la hipoteca mobiliaria, podrá seguir el procedimiento respecto de los demás, si así lo solicitare el acreedor.
+También se suspenderá la venta extrajudicial cuando cualquiera de las partes acredite haber planteado ante el Juez que sea competente el carácter abusivo de alguna de las cláusulas contractuales del préstamo hipotecario que constituya el fundamento de la venta extrajudicial o que hubiese determinado la cantidad exigible. Una vez sustanciada la cuestión, y siempre que, de acuerdo con la resolución judicial correspondiente, no se trate de una cláusula abusiva que constituya el fundamento de la ejecución o hubiera determinado la cantidad exigible, el Notario podrá proseguir la venta extrajudicial a requerimiento del acreedor.
+Verificada alguna de las circunstancias previstas en los apartados 1 y 2, el Notario acordará la suspensión del procedimiento hasta que, respectivamente, terminen el procedimiento criminal o el procedimiento registral si no se declarase la falsedad o no se inscribiese la cancelación de la hipoteca.
+La suspensión de la subasta por un periodo superior a 15 días llevará consigo la liberación de las consignaciones o devolución de los avales prestados, retrotrayendo la situación al momento inmediatamente anterior a la publicación del anuncio. La reanudación de la subasta se realizará mediante una nueva publicación del anuncio y una nueva petición de información registral como si de una nueva subasta se tratase.
+Si la reclamación del acreedor y la iniciación de la venta extrajudicial tuvieran su base en alguna causa que no sea el vencimiento del plazo o la falta de pago de intereses o de cualquier otra prestación a que estuviere obligado el deudor, se suspenderá dicho procedimiento siempre que con anterioridad a la subasta se hubiere hecho constar en el Registro la oposición al mismo, formulada en juicio declarativo. A este efecto, el Juez, al mismo tiempo que ordene la anotación preventiva de la demanda, acordará que se notifique al Notario la resolución recaída.
+Se modifica por la disposición final 13.4 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.
+
+## Reglas especiales
+
+### Artículo ochenta y nueve
+
+Artículo ochenta y nueve.
+En la hipoteca de establecimientos mercantiles se observarán, además de las reglas establecidas anteriormente, las siguientes:
+Primera. Se notificará por acta notarial al arrendador del inmueble la iniciación del procedimiento.
+Segunda. Las posturas que se hagan en las subastas serán unitarias por la totalidad de los bienes comprendidos en la hipoteca, sin distribuir entre ellos la cantidad ofrecida.
+Se entenderá que los solicitantes aceptan todas las obligaciones que al adquirente del local del negocio impone la Ley de Arrendamientos Urbanos.
+Tercera. Hecha la adjudicación al mejor postor, o al acreedor, en su caso, se considerará precio de traspaso del local la parte correspondiente del de adjudicación, según la proporción que exista entre el tipo total fijado en la escritura para el establecimiento mercantil y la parte de él que en la misma se señaló para el traspaso del local.
+En el acto de la adjudicación se hará constar el importe de la participación del propietario en el precio de traspaso, participación que el Juez o Notario retendrá, y al resto se le dará el destino que proceda.
+Cuarta. Hecho el remate y consignado, en su caso, el precio, se notificará al arrendador o al tercer poseedor de la finca dentro de los ocho días siguientes, haciéndole saber el resultado de la subasta, el precio total del remate, la parte que de él corresponde al traspaso del local, la participación provisionalmente retenida a su favor en el Juzgado o Notaría, y que tal notificación se efectúa para que pueda ejercitar el derecho de preferente adquisición que le reconoce la Ley de Arrendamientos Urbanos o percibir su participación en el precio del traspaso.
+Quinta. Practicada la notificación se procederá, según los casos, en la siguiente forma:
+a) Si el propietario optare por percibir su participación, se le entregará por el Juzgado o Notario, y se dictará auto o se autorizará escritura adjudicando los bienes a favor del rematante.
+b) Si el propietario ejercitare su derecho de preferencia, consignará el importe correspondiente en poder del Juzgado o Notario, para reembolso al adjudicatario. En este supuesto, se adjudicará el local al propietario de la finca, y el resto de los bienes, al rematante.
+Ejercitado el derecho de preferencia, si el precio pagado por el arrendador fuera suficiente para cubrir la cantidad reclamada y los gastos, podrá el adjudicatario, dentro de los tres días siguientes, renunciar a la adjudicación de los restantes bienes, que quedarán para el deudor, devolviéndose a aquél el total que hubiere consignado.
+c) Si transcurriera el plazo señalado por la Ley de Arrendamientos Urbanos sin que el propietario de la finca hubiere ejercitado sus derechos, se dictará el auto u otorgará la escritura de adjudicación y se devolverá al adjudicatario la cantidad retenida como participación de aquél en el precio de traspaso. El adjudicatario se atendrá a lo dispuesto en la Ley de Arrendamientos Urbanos.
+Se modifica el párrafo primero por la disposición final 13.5 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.
+
+### Artículo noventa
+
+Artículo noventa.
+Cuando la hipoteca hubiere vencido en virtud de la causa séptima del artículo veintinueve de esta Ley, la transmisión del establecimiento mercantil comprenderá el derecho del arrendatario a volver al inmueble cuando fuere reedificado.
+
+### Artículo noventa y uno
+
+Artículo noventa y uno.
+En la hipoteca que recayere sobre un vehículo de motor, el Juez, al admitir la demanda, decretará el secuestro o depósito judicial del vehículo, que se precintará y no podrá ser utilizado, salvo que ello no fuere posible por disposiciones especiales, en cuyo caso se nombrará un interventor. No será de aplicación, en este caso, lo dispuesto en la regla tercera del artículo ochenta y cuatro, salvo si el acreedor prestare fianza suficiente.
+
+## CAPÍTULO II
+
+Normas procesales aplicables a la prenda sin desplazamiento
+
+## Sección 1
+
+Sección 1.ª Procedimiento judicial sumario
+
+### Artículo noventa y dos
+
+Artículo noventa y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo noventa y tres
+
+Artículo noventa y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.8º de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+## Sección 2
+
+Sección 2.ª Procedimiento extrajudicial
+
+### Artículo noventa y cuatro
+
+Artículo noventa y cuatro.
+Para la venta en subasta notarial de los bienes pignorados, el acreedor, por Notario hábil para actuar en el lugar donde se hallen, estén almacenados o se encuentren depositados, requerirá el pago al deudor, expresando la cantidad total reclamada y la causa del vencimiento de la obligación, haciendo constar que, si no se efectuare el pago, se procederá a la subasta de los bienes sin necesidad de nuevas notificaciones ni requerimientos.
+El requerido, dentro de los tres días siguientes, deberá pagar o entregar la posesión de los bienes pignorados al acreedor o a la persona que éste haya designado al efecto en el acto del requerimiento.
+Cuando el deudor incumpliera la obligación de entregar la posesión de los bienes, el Notario no seguirá adelante su actuación, y el acreedor podrá, para hacer efectivo su crédito, acudir a cualquiera de los procedimientos judiciales, sin perjuicio de ejercitar las acciones civiles y criminales que le correspondan.
+Si el deudor no pagare, pero entregare la posesión de los bienes, el Notario procederá a la enajenación de éstos en la forma prevenida en el artículo mil ochocientos setenta y dos del Código Civil.
+
+### Artículo noventa y cinco
+
+Artículo noventa y cinco.
+Cuando los bienes ejecutados consistan en frutos pendientes o cosechas esperadas, podrán aplazarse las subastas hasta que se haya verificado la recolección de los mismos.
+
+## DISPOSICIONES ADICIONALES
+
+### Primera
+
+Primera.
+En los plazos de días señalados en esta Ley se computarán solamente los hábiles.
+
+### Segunda
+
+Segunda.
+Las escrituras públicas previstas en la presente Ley podrán inscribirse sin el previo pago de los impuestos de Derechos reales y Timbre, siempre que el importe de las liquidaciones de los mismos que hubieren de practicarse por todos conceptos sean afianzadas sin restricciones, mediante carta u otro medio escrito, por un Banco Oficial o de la Banca privada inscrita. El Registrador, al practicar así la inscripción, dará cuenta de oficio a la Oficina Liquidadora competente.
+
+### Tercera
+
+Tercera.
+En el caso de insuficiencia de los preceptos de esta Ley se aplicarán subsidiariamente los de la legislación hipotecaria en cuanto sean compatibles con la naturaleza de los bienes y con lo prevenido en los artículos anteriores.
+
+### Cuarta
+
+Cuarta.
+Se autoriza al Gobierno, a propuesta del Ministro de Justicia, para determinar la fecha de entrada en vigor de esta Ley, lo que habrá de efectuarse dentro del plazo de cuatro meses, a partir del día de su promulgación, y para dictar las disposiciones que estime precisas para su debida ejecución y cumplimiento.
+Se prorroga por cuatro meses el plazo de autorización por el art. 1 del Decreto-Ley de 15 de abril de 1955. Ref. BOE-A-1955-6259. y se determina la entrada en vigor por el art. segundo del Decreto de 17 de junio de 1955. Ref. BOE-A-1955-10148#asegundo
+
+## DISPOSICIÓN FINAL DEROGATORIA
+
+Quedan derogados los artículos mil ochocientos sesenta y tres bis a mil ochocientos setenta y tres bis del Código Civil, la Ley de cinco de diciembre de mil novecientos cuarenta y uno, el Título Primero y las Disposiciones adicionales del Real Decreto de veintidós de septiembre de mil novecientos diecisiete y las demás disposiciones legales que se opongan a la presente Ley, salvo las especialmente aplicables al Servicio Nacional de Crédito Agrícola.
+
+Dada en el Palacio de El Pardo a dieciséis de diciembre de mil novecientos cincuenta y cuatro.
+FRANCISCO FRANCO

@@ -1,0 +1,714 @@
+# Ley de Cantabria 3/1992, de 18 de marzo, de Protección de los Animales.
+
+- Identificador BOE: `BOE-A-1992-11685`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-11685
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOCT núm. 49, de 10 de marzo de 1993.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado, y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 3/1992, de 18 de marzo, de Protección de los Animales.
+EXPOSICIÓN DE MOTIVOS Y FINALIDAD
+En los Convenios de Washington, Berna y Bonn, firmados por España, se establece el marco general de protección a las especies animales, el cual requiere una concreción y adaptación para el caso particular de Cantabria.
+Asimismo, en las vigentes Leyes y Reglamentos de Montes, Caza y Pesca Fluvial, Reservas Nacionales de Caza y de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, se contemplan medidas tendentes a la protección de los animales, regulando las artes y épocas de caza y pesca, las distintas clasificaciones de terrenos y de las especies protegidas en sus distintos grados, etcétera.
+Corresponde a esta Comunidad Autónoma recoger, en su propia normativa, las medidas que garanticen la protección de los animales dentro de su territorio, sin menoscabo ni interferencias con los mencionados textos legales. Todo ello, en una manifestación meridiana e inequívoca de la voluntad política por la defensa, protección y respeto de los animales. En esta línea, se tipifican las infracciones en materia de caza y pesca, estableciéndose las correspondientes sanciones.
+En virtud de las competencias transferidas a esta Comunidad Autónoma, cuales son:
+Producción animal:
+Acciones de ordenación de la estructura ganadera productiva. Real Decreto 3114/1982, de 24 de julio («Boletín Oficial del Estado» de 23 de noviembre).
+Sanidad Animal:
+Control y vigilancia de animales y sus explotaciones para la defensa de las epizootias.
+Recomendación de medidas contra las enfermedades de los animales. Real Decreto 3114/1982, de 24 de julio («Boletín Oficial del Estado» de 23 de noviembre).
+Conservación de la naturaleza:
+Administración y gestión de los espacios naturales protegidos, a excepción de los Parques Nacionales.
+Promoción y ejecución de la política recreativa y educativa de la naturaleza.
+Establecimiento y ejecución de programas de protección de especies amenazadas o en peligro de extinción.
+Real Decreto 1350/1984, de 8 de febrero («Boletín Oficial del Estado» de 18 de julio).
+En función de lo anterior, la presente Ley se desarrolla en los siguientes títulos:
+Título I. De disposiciones generales, en el cual se establecen las normas comunes a todo tipo de animales, concretando las atenciones mínimas que éstos deben recibir desde el punto de vista de trato e intercambios.
+Título II. De los animales domésticos, referente a las exigencias que comporta la convivencia de toda la amplia variedad de los animales domésticos. Se estudian aquí dos puntos fundamentales:
+1. La especial atención a los animales denominados de compañía, que hoy rebasan grandemente el concepto tradicional, en el cual solamente se hacía referencia a perros y gatos, y que, merced a las corrientes naturalistas, se ha visto ampliado a pájaros, hámsters, tortugas, galápagos, etcétera.
+2. Los animales domésticos de renta, gracias a cuya existencia muchas familias obtienen su medio de vida. No obstante, a veces, el carácter intensivo de las explotaciones puede llevar a correr el peligro de perder la consideración de seres para pasar a ser objetos de transacción exclusivamente, o, por el contrario, su condición de complementariedad, puede ponerlos ante el peligro de privarles de unas atenciones mínimas indispensables.
+Título III. De la fauna silvestre.
+1. De la conservación y ordenación de los aprovechamientos de la fauna silvestre.
+Los aprovechamientos cinegéticos y piscícolas en Cantabria se regularán de modo que queden garantizados la conservación y fomento de las especies cinegéticas y acuícolas autorizadas para el ejercicio de la caza y pesca.
+2. De las especies protegidas.
+Cantabria cuenta con una amplia representación de especies protegidas por la legislación vigente, entre las que se encuentran un número determinado de especies amenazadas. Por ello se proponen acciones especiales para incrementar las poblaciones de las especies autóctonas que se determinen como tales.
+Título IV. De la tenencia, tráfico y comercio de los animales.
+Frente al constante incremento de estas actividades se hace necesario reforzar el control administrativo de la tenencia, tráfico y comercio de animales.
+La proliferación de establecimientos de venta de animales requiere fijar unas condiciones que, al margen de las existentes para los mismos, determinen los requisitos mínimos para su apertura y funcionamiento.
+Título V. De las infracciones y sanciones.
+Se tipifican las infracciones a esta Ley, estableciéndose las sanciones aplicables, reforzándose las medidas para la erradicación de las enfermedades infectocontagiosas en los animales. Se adecúan las infracciones en materia de caza y pesca, y se determinan, a su vez, las sanciones correspondientes.
+Título VI. De la formación y educación.
+La Diputación Regional de Cantabria es consciente de que no es posible llegar a conseguir los objetivos de conservación y respeto por el mundo animal que se persiguen en la presente Ley, exclusivamente, mediante medidas de tipo coercitivo y acciones de inspección y policía. Por ello, como complemento y título final de esta Ley, se proponen medidas sobre formación y educación, encaminadas a alcanzar para los habitantes de Cantabria la posibilidad de conocer y familiarizarse con la fauna.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto establecer las medidas necesarias que sirvan para garantizar la protección de los animales en su interrelación con la especie humana, dentro del territorio de Cantabria.
+
+### Artículo 2
+
+Artículo 2.
+1. El poseedor de un animal tendrá la obligación de mantenerlo en buenas condiciones higiénicas y sanitarias.
+2. En virtud de lo anterior, se prohíbe:
+a) Maltratar o agredir físicamente a los animales o someterlos a cualquier otra práctica que les suponga sufrimientos o daños injustificados.
+b) Abandonarlos.
+c) Mantenerlos en instalaciones que no reúnan las condiciones higiénicas y sanitarias siguientes:
+1) Cubicación necesaria para cada especie en relación con el número y peso vivo de los animales.
+2) Ventilación e iluminación adecuada en relación con la capacidad de los locales.
+3) Piso y paredes de material que permitan el encalado y la desinfección.
+4) Puertas con suficiente anchura para el paso del ganado y extracción de los estiércoles.
+5) Cama en cantidad y calidad que asegure en los establos un microclima carente de factores insalubres y elementos molestos. El incumplimiento de esta condición constituirá causa de cierre de la instalación, caso de que, apercibido y sancionado el propietario de la misma, persistiera en el incumplimiento.
+d) Practicarles mutilaciones, excepto: Las efectuadas o controladas por los veterinarios, las realizadas para mantener las características de la raza, o las que correspondan a ventajas de tipo fisiológico y/o de manejo.
+e) No facilitarles la alimentación necesaria no solamente de subsistencia, sino para llevar una vida mínimamente sana y adecuada en función de su dedicación y situación productiva.
+f) Poseer animales sin cumplir los calendarios de vacunaciones y tratamientos obligatorios.
+g) Venderlos o entregarlos a laboratorios o clínicas sin control de la Administración.
+h) Venderlos o donarlos a menores y a incapacitados sin la autorización de quienes tengan la patria potestad o custodia de los mismos.
+i) Ejercer la venta de animales de compañía, o de otros tipos, fuera de los recintos en que habitualmente radiquen o de los autorizados para ello.
+j) Suministrarles medicamentos que contengan sustancias que puedan causarles daños o sufrimientos innecesarios.
+Se modifica el punto 5 del apartado 2.c) por el artículo único.1 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 3
+
+Artículo 3.
+1. Con la finalidad de procurar una protección integral de todas las especies de la fauna silvestre, se prohíbe en particular su muerte o captura intencionadas ; la retirada de sus nidos y sus huevos; su perturbación intencionada, especialmente en sus períodos de celo, reproducción y crianza; la retención de aquellas cuya caza o captura no estén permitidas; su comercialización y todas las actividades asociadas a su venta, ya estén vivas o muertas, exceptuando las que reglamentariamente se determinen.
+2. La práctica de la caza y de la pesca en aguas continentales se efectuará sobre aquellas especies de la fauna silvestre que reglamentariamente se determinen, en base a su nivel de población, a su distribución geográfica y a su índice de reproductividad, respetándose los principios de una utilización razonable y de una regulación equilibrada desde el punto de vista ecológico de las especies afectadas.
+3. Queda prohibida la utilización de métodos masivos y no selectivos de captura, así como aquellos que pudieran ocasionar la desaparición local de una especie.
+4. Podrán quedar sin efecto las prohibiciones contempladas en los apartados anteriores, previa autorización administrativa y siempre que no hubiera otra solución satisfactoria, por los motivos siguientes: en aras de la salud y seguridad públicas y seguridad aérea; para prevenir perjuicios importantes a la agricultura, ganadería, bosques y aguas; para proteger la flora y la fauna silvestres; para fines de investigación o enseñanza, de repoblación, de reintroducción, así como para la crianza orientada a dichas acciones; para permitir, en condiciones estrictamente controladas y de un modo selectivo, la captura, retención o cualquier otra explotación prudente de determinadas especies en pequeñas cantidades.
+5. La autorización deberá hacer mención de la especie objeto de autorización; los medios, instalaciones o métodos de captura o muerte autorizados; las condiciones de peligro y las circunstancias de tiempo y de lugar; la autoridad facultada para declarar que se reúnen las condiciones requeridas y para decidir qué medios, instalaciones o métodos podrán aplicarse, dentro de qué límites y por parte de qué personas y los controles que se ejercerán.
+Se modifica por el art. 3.1 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590.
+
+### Artículo 4
+
+Artículo 4.
+1. El sacrificio de animales criados para la obtención de productos útiles para el hombre se efectuará en los lugares adecuados para ello, y con las técnicas que garanticen un proceso instantáneo e indoloro; técnicas que igualmente se aplicarán en el caso de animales de compañía.
+2. Se exceptúa de lo dispuesto en el párrafo anterior el sacrificio de cerdos para consumo familiar, utilizando métodos que impliquen el mínimo sufrimiento.
+3. En cuanto a la protección de los animales utilizados para experimentación y fines científicos, se estará a lo señalado por el Real Decreto 223/1988, de 14 de marzo, que desarrolla la Directiva CEE 86/609.
+
+### Artículo 5
+
+Artículo 5.
+En caso de desplazamientos, los animales deberán disponer de espacio suficiente y de temperatura adecuada.
+Asimismo, deberán ser abrevados y alimentados en intervalos convenientes.
+Finalmente, su carga y descarga deberá realizarse con equipos y medios idóneos.
+
+### Artículo 6
+
+Artículo 6.
+1. Se prohíbe el uso de animales en espectáculos y otras actividades si ello puede ocasionarles sufrimientos o pueden ser objeto de burlas o tratamientos indignos.
+2. Quedan excluidas de forma expresa de dicha prohibición las fiestas de los toros en sus distintas manifestaciones (corridas, encierros, etcétera), pues como conjunto de actividades artísticas y culturales son exponentes de nuestro acervo histórico. La Diputación Regional de Cantabria, dentro del ámbito de su competencia, cooperará a velar por su pureza, realizando las oportunas inspecciones anteriores y posteriores al espectáculo, en garantía de que el animal no se encuentre limitado en su poder y defensas, como principio valedor de la equidad en la lucha, que la fiesta requiere.
+
+### Artículo 7
+
+Artículo 7.
+1. El poseedor de un animal, sin perjuicio de la responsabilidad subsidiaria del propietario, será responsable de los daños, perjuicios y molestias que ocasione a las personas, cosas, espacios públicos y al medio natural en general, de acuerdo con lo establecido en el artículo 1.905 del Código Civil.
+2. El poseedor de un animal de compañía estará obligado a adoptar las medidas necesarias para impedir que se ensucien las vías y espacios públicos.
+
+### Artículo 7 bis
+
+Artículo 7 bis.
+Las Entidades Municipales y la Administración Autonómica, en el ejercicio de sus respectivas competencias, podrán proceder a confiscar los animales si en ellos se detectan indicios de maltrato o tortura, presentan síntomas de agresión física o desnutrición o se encuentran en instalaciones indebidas, así como si se hubiera diagnosticado que padecen enfermedades transmisibles al hombre o a los animales, sea para someterlos a un tratamiento curativo adecuado o para sacrificarlos si fuera necesario.
+Se añade por el art. 11.1 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
+
+## TÍTULO II
+
+De los animales domésticos
+
+## CAPÍTULO I
+
+De los animales de compañía
+
+### Artículo 8
+
+Artículo 8.
+Son animales de compañía los que se crían y se reproducen con la finalidad de vivir con el hombre con fines educativos, lúdicos o sociales.
+
+### Artículo 9
+
+Artículo 9.
+1. La Diputación Regional de Cantabria, a través de los Departamentos correspondientes, podrá ordenar, por razones de sanidad animal o salud pública, dentro de sus competencias, las campañas de vacunación o los tratamientos obligatorios de este tipo de animales.
+2. Los Veterinarios al servicio de la Administración Pública y las clínicas o consultorios veterinarios, deberán llevar un archivo con la ficha clínica de los animales objeto de vacunación o de tratamiento obligatorio, el cual estará a disposición de la autoridad competente.
+3. Todos los animales de compañía, para los que reglamentariamente se establezca, deberán poseer un carné o cartilla sanitaria expedida por el centro veterinario autorizado en el que haya sido vacunado el animal.
+
+### Artículo 10
+
+Artículo 10.
+Los poseedores de perros, que lo sean por cualquier título, deberán censarlos en el Ayuntamiento donde residan habitualmente, dentro del plazo máximo de tres meses a partir de la fecha de su nacimiento o de un mes desde su adquisición; el animal deberá llevar de forma permanente su identificación censal.
+Cuando uno de los animales a que se refiere el párrafo anterior muera por muerte natural, por enfermedad, por accidente o por haber sido sacrificado, su poseedor está obligado a notificar su muerte y su causa, en el plazo más breve posible, al Ayuntamiento en que estaba registrado el animal, al objeto de darle de baja.
+
+### Artículo 11
+
+Artículo 11.
+Corresponderá a los Ayuntamientos, dentro de su término municipal, la recogida de los animales abandonados o vagabundos.
+
+### Artículo 12
+
+Artículo 12.
+Se considerarán animales incluidos en el artículo anterior los que carezcan de identificación y no vayan acompañados.
+
+### Artículo 13
+
+Artículo 13.
+El plazo para recuperar un animal sin identificación será de diez días.
+
+### Artículo 14
+
+Artículo 14.
+Si el animal llevara identificación, se avisará al propietario y éste tendrá un plazo de tres días a partir de la notificación para recuperarlo, abonando previamente los gastos que haya originado su mantenimiento. Una vez transcurrido este plazo, si el propietario no se hubiera presentado para retirarlo, el animal se considerará abandonado.
+
+### Artículo 15
+
+Artículo 15.
+Para los fines anteriores los Ayuntamientos deberán disponer de instalaciones adecuadas o concertar la realización de dicho servicio con asociaciones de protección y defensa de los animales. En cualquier caso, las instalaciones de recogida de animales abandonados deberán cumplir los requisitos establecidos reglamentariamente.
+
+### Artículo 16
+
+Artículo 16.
+Los Centros de recogida de animales abandonados, una vez transcurrido el plazo legal para recuperarlos, podrán sacrificarlos, donarlos o cederlos, previamente saneados. Los tratamientos deberán efectuarse bajo control veterinario, al igual que el sacrificio, caso de que procediera.
+
+### Artículo 17
+
+Artículo 17.
+La Diputación Regional de Cantabria podrá regular reglamentariamente los métodos de sacrificio.
+
+### Artículo 18
+
+Artículo 18.
+Los Ayuntamientos o Entidades supramunicipales, por sí mismos o a través de asociaciones de protección y defensa de los animales, podrán confiscar u ordenar el aislamiento de los animales de compañía en caso de malos tratos o tortura, síntomas de agresión física o desnutrición, así como si se hubiera diagnosticado que padecen enfermedades transmisibles al hombre, sea para someterlos a un tratamiento curativo adecuado o para sacrificarlos si fuera necesario.
+
+### Artículo 19
+
+Artículo 19.
+La Diputación Regional de Cantabria, a través de las Consejerías competentes en materia de sanidad, podrá también proceder a la confiscación de los animales de compañía, en los supuestos del artículo anterior, por razones de urgencia o inhibición de los Ayuntamientos, pudiendo depositarlos en los Centros de recogida de los mismos.
+
+### Artículo 20
+
+Artículo 20.
+Las residencias, Centros de recogida de animales de compañía, Escuelas de adiestramiento y demás instalaciones creadas para mantener temporalmente a los animales domésticos de compañía, así como los establecimientos dedicados a la cría y venta de los mismos, requerirán su inscripción en el registro de núcleos zoológicos dependiente de la Consejería de Ganadería, Agricultura y Pesca, como requisito imprescindible para su funcionamiento.
+
+### Artículo 21
+
+Artículo 21.
+Cada Centro, residencia o establecimiento de los referidos en el artículo anterior llevará un registro con los datos de cada uno de los animales que en él residan, así como de la persona responsable del mismo y de los controles clínicos y sanitarios que en el animal se lleven a efecto. Dicho registro estará siempre a disposición de los servicios veterinarios oficiales y autoridades competentes.
+
+### Artículo 22
+
+Artículo 22.
+1. Los establecimientos y residencias señalados en los artículos precedentes deberán disponer de instalaciones idóneas para los animales sanos y de otras adecuadamente preparadas para situaciones de enfermedad, así como de un servicio veterinario encargado de vigilar el estado físico de los animales residentes y, en su caso, otorgar certificado de salud para la venta de los animales, que será preceptivo y sin el cual estará expresamente prohibida.
+2. Será obligación del Centro procurar que los animales se adapten a la nueva situación, evitar acciones que pueda provocarles daño alguno y adoptar las medidas oportunas en cada caso.
+3. Si un animal enfermare, el Centro lo comunicará inmediatamente al propietario o responsable, quien podrá dar la autorización para un tratamiento veterinario o proceder a recoger el animal, excepto en caso de enfermedades contagiosas en que se adoptarán las medidas sanitarias pertinentes.
+
+## CAPÍTULO II
+
+De los animales domésticos de renta
+
+### Artículo 23
+
+Artículo 23.
+Se considerarán animales domésticos de renta aquellos a los que el hombre dedica su actividad para obtener utilidad y beneficio, bien en su venta o en la de sus productos.
+
+### Artículo 24
+
+Artículo 24.
+Dentro del marco de la legislación estatal sobre epizootias y de la Directiva CEE 89/362, los poseedores de animales estarán obligados a:
+a) Acatar las campañas obligatorias de saneamiento ganadero y a permitir la imposición de una señal (marca, crotal, hierro, o cualquier otro método de identificación establecido reglamentariamente.), en cada res que, en todo momento, permita su identificación, en aquellas especies de ganado que reglamentariamente se establezca. Si el animal careciese de señal o ésta presentase signos de manipulación, será secuestrado y depositado en poder de su dueño, representante, de un tercero o en las instalaciones autorizadas para tal efecto por la Administración, con todos los gastos a cargo del titular, actuándose de acuerdo con lo establecido en la normativa sectorial correspondiente.
+b) Atender los dictados de la autoridad responsable en cuanto a campañas de vacunaciones y de erradicación de enfermedades y a las normas establecidas para el movimiento de animales. Una vez notificados, el incumplimiento de los mismos puede dar lugar al decomiso y secuestro de los animales por parte de la autoridad competente, que tras comprobar el estado sanitario de los animales, cursará notificación al titular para que en un plazo no superior a 10 días proceda a recoger los animales previo pago de los gastos generados, procediéndose en caso contrario al sacrificio y destrucción de los mismos sin derecho a indemnización y sin perjuicio de la apertura del correspondiente expediente sancionador.
+c) No emplear sustancias hormonales o químicas que alteren su metabolismo, salvo que sea por prescripción facultativa o motivos zootécnicos.
+d) Establecer espacios y ambientes sanos y limpios en los lugares de alojamiento, evitando el hacinamiento y los ambientes deteriorados y manteniendo las adecuadas condiciones higiénicas.
+e) Procurar a dichos animales, aun en los casos de explotaciones en régimen extensivo, una alimentación suficiente.
+Se modifican las letras a) y b) por el art. 11.2 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
+
+## TÍTULO III
+
+De la fauna silvestre
+
+## CAPÍTULO I
+
+De la conservación y ordenación de los aprovechamientos de la fauna silvestre
+
+### Artículo 25
+
+Artículo 25.
+La Consejería de Ganadería, Agricultura y Pesca, una vez oídos los órgnos consultivos creados al efecto, hará públicas las reglamentaciones que regulen el ejercicio de la caza y la pesca en Cantabria para cada temporada, así como las reglamentaciones específicas que tengan por finalidad el ordenado aprovechamiento de la fauna silvestre.
+
+### Artículo 26
+
+Artículo 26.
+La Consejería de Ganadería, Agricultura y Pesca establecerá las normas y requisitos a los que deberá ajustarse el contenido de los planes técnicos de aprovechamiento cinegéticos o piscícolas en terrenos o tramos acotados, correspondiendo a dicha Consejería su aprobación.
+
+## CAPÍTULO II
+
+De las especies protegidas
+
+### Artículo 27
+
+Artículo 27.
+La relación de especies protegidas de la fauna silvestre en todo el territorio nacional podrá ser ampliada con aquellas otras cuya peculiar situación en Cantabria así lo aconseje, al objeto de garantizar su conservación.
+
+### Artículo 28
+
+Artículo 28.
+Dependientes de la Consejería de Ganadería, Agricultura y Pesca se crea el Catálogo Regional de Especies Amenazadas en Cantabria, el cual se establecerá reglamentariamente. En dicho Catálogo se incluirán aquellas especies, subespecies y poblaciones animales cuya protección exija medidas específicas por parte de la Diputación Regional de Cantabria. A este efecto, las especies, subespecies y poblaciones animales que se incluyan en dicho Catálogo deberán ser clasificadas en alguna de las siguientes categorías:
+a) En peligro de extinción, reservada para aquellas cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
+b) Sensibles a la alteración de su hábitat, referida a aquellas cuyo hábitat característico está particularmente amenazado, en grave regresión, fraccionado o muy limitado.
+c) Vulnerables, destinada a aquellas que corren riesgo de pasar a las categorías anteriores en un futuro inmediato si los factores adversos que actúan sobre ellas no son corregidos.
+d) De interés especial, en la que se podrán incluir las que, sin estar contempladas en ninguna de las precedentes, sean merecedoras de una atención particular en función de su valor científico, ecológico, cultural o por su singularidad.
+
+### Artículo 29
+
+Artículo 29.
+La inclusión en el Catálogo Regional de Especies Amenazadas de una especie, subespecie o población en una de las categorías, exigirá la elaboración y aprobación de uno de los planes contemplados en el apartado 2 del artículo 31 de la Ley de Conservación de las Especies Naturales y de la Flora y Fauna Silvestre, debiendo efectuarse, en tanto no se aprueben, un estudio de evaluación del impacto que sobre dichas especies, subespecies o poblaciones cause toda actividad pública o privada, cuyo resultado determinará la posibilidad de su autorización por parte de la Administración.
+
+### Artículo 30
+
+Artículo 30.
+A efectos de conocer el status y evolución de las especies de la fauna silvestre, la Diputación Regional de Cantabria realizará los trabajos de investigación necesarios, al objeto de adoptar las medidas oportunas para garantizar no sólo su conservación sino su fomento.
+
+### Artículo 31
+
+Artículo 31.
+Se declara obligatoria y prioritaria para la Diputación Regional de Cantabria la compensación de los daños causados por las especies amenazadas en terrenos de aprovechamiento cinegético común.
+
+### Artículo 32
+
+Artículo 32.
+Los presupuestos de la Comunidad Autónoma proveerán los fondos precisos para las acciones antes descritas.
+
+## TÍTULO IV
+
+De la tenencia, tráfico y comercio de animales
+
+### Artículo 33
+
+Artículo 33.
+Los vendedores o poseedores de animales pertenecientes a especies de comercio permitido por los tratados internacionales suscritos por España y los poseedores de animales pertenecientes a especies altamente protegidas o en peligro de extinción, en el supuesto de intercambios no comerciales entre instituciones zoológicas o científicas legalizadas, deberán poseer por cada animal o por cada partida de animales, especificando en este último caso el número de animales que la componen, la siguiente documentación:
+a) Certificado sanitario de origen.
+b) Licencia de importación/exportación.
+c) Autorización zoosanitaria de entrada.
+d) Certificado de reconocimiento sanitario en la Aduana o certificación de cuarentena en España.
+
+### Artículo 34
+
+Artículo 34.
+Si el vendedor o poseedor no presentase la documentación completa antes indicada, la Consejería de Ganadería, Agricultura y Pesca estará facultada para confiscar el ejemplar o ejemplares y devolverlos al lugar de origen o cederlos a instalaciones zoológicas o de carácter científico, salvo que se trate de animales sometidos al ámbito de aplicación de la Ley y Reglamento de Epizootias, en cuyo caso se estará a lo que éstos dispongan.
+
+### Artículo 35
+
+Artículo 35.
+1. La venta en establecimientos comerciales, la tenencia y la exhibición pública de animales de la fauna no autóctona provenientes de instalaciones de cría en cautividad con fines comerciales y debidamente legalizadas requerirán la posesión por cada animal del certificado acreditativo del origen, la especificada en el artículo 37 y la que reglamentariamente se establezca.
+2. En caso de que no se posea dicho certificado o los documentos acreditativos del origen o procedencia del animal, la Consejería de Ganadería, Agricultura y Pesca está facultada para confiscarlo.
+
+### Artículo 36
+
+Artículo 36.
+1. Los parques zoológicos, reservas, zoosafaris y demás agrupaciones zoológicas deberán estar inscritas en los registros de establecimientos de este tipo abiertos por la Consejería de Ganadería, Agricultura y Pesca. A tal fin, deberán presentar el proyecto de instalación y la lista de animales que posean, habiéndose de comunicar también las variaciones que se presenten.
+2. Cuando la cantidad de animales reunida por cualquiera de estos Centros lo requiera, deberá contar con un servicio veterinario propio permanente. En caso contrario, los controles sanitarios, necropsias y demás actuaciones que lo reaquieran se practicarán por los profesionales contratados a cargo de la Empresa. Todo ello con independencia de las inspecciones y controles que se realicen por personal al servicio de la Diputación Regional.
+
+### Artículo 37
+
+Artículo 37.
+Los establecimiento dedicados a la venta de animales deberán cumplir, sin perjuicio de las demás disposiciones que les sean de aplicación, las siguientes normas:
+a) Deberán ser declarados ante la Consejería de Ganadería, Agricultura y Pesca, para su inscripción en el correspondiente registro.
+b) Deberán cumplir los requisitos establecidos en las disposiciones generales, y en especial contar con zonas de esparcimiento de los animales que no deberán constituirse en objeto de escaparate.
+c) El establecimiento deberá llevar un registro a disposición de los servicios veterinarios de la Diputación Regional en que se harán constar los datos reglamentariamente establecidos.
+
+## TÍTULO V
+
+De las infracciones y sanciones
+
+## CAPÍTULO I
+
+Disposiciones comunes en materia de infracciones
+
+### Artículo 38
+
+Artículo 38.
+1. Las acciones y omisiones que infrinjan lo prevenido en la presente Ley, así como en materia de caza y pesca, generarán responsabilidad de naturaleza administrativa, sin perjuicio de la exigible en la vía penal, civil o de otro orden en que puedan incurrir.
+2. Las acciones para denunciar los hechos constitutivos de infracciones previstas en la presente Ley serán públicas.
+3. Las denuncias efectuadas por los Agentes de la autoridad, ratificadas bajo juramento o promesa, harán fe, salvo prueba en contrario, en lo que respecta a la responsabilidad de carácter administrativo.
+
+### Artículo 39
+
+Artículo 39.
+1. Las infracciones se clasifican en:
+a) Leves.
+b) Graves.
+c) Muy graves.
+2. El reglamento para la protección de los animales introducirá graduaciones al cuadro de infracciones o sanciones establecidas en el apartado 1 de este artículo que sin constituir nuevas infracciones o sanciones, ni alterar la naturaleza o límites de la Ley, contribuyan a la más correcta identificación de las conductas o a la más precisa determinación de las sanciones correspondientes.
+3. Las referidas infracciones serán sancionadas con las siguientes multas:
+Infracciones leves, de cinco mil a cuarenta y cinco mil (5.000 a 45.000) pesetas.
+Infracciones graves, de cuarenta y cinco mil una a cien mil (45.001 a 100.000) pesetas.
+Infracciones muy graves de cien mil una a dos millones y medio (100.001 a 2.500.000) de pesetas.
+Salvo en los supuestos previstos en el apartado 5 de este artículo, y en el de infracciones muy graves, las sanciones podrán hacerse efectivas dentro de los diez días siguientes a la notificación de la propuesta de resolución, con una reducción del 20 por 100 sobre la cuantía fijada en la propuesta.
+4. Las infracciones muy graves y graves en materia de caza y pesca podrán llevar consigo la anulación de la respectiva licencia, e inhabilitación para obtenerla debidamente en un período de tiempo de uno a tres años.
+5. Para determinar la sanción se tendrán en cuenta las circunstancias concurrentes y el principio de proporcionalidad, pudiendo imponerse en la cuantía señalada para las infracciones inferiores en un grado, si aquéllas fueran muy cualificadas (menor de edad, encontrarse en paro o en demanda de empleo no subsidiario, o que el subsidio no supere el 75 por 100 del salario mínimo interprofesional, u otras que tras la debida indagación de la capacidad económica del infractor, la sanción resulte desproporcionada).
+6. Si se apreciase reincidencia, la cuantía de las sanciones consignadas en el apartado 2 de este artículo podrán incrementarse hasta el duplo del importe máximo de la sanción correspondiente a la infracción cometida, sin exceder, en ningún caso, del tope más alto fijado para infracción muy grave.
+Existe reincidencia cuando se cometa una infracción del mismo tipo y calificación que la que motivó una sanción anterior en el plazo de los trescientos sesenta y cinco días siguientes a la notificación de ésta; en tal supuesto, se requerirá que la resolución sancionadora hubiere adquirido firmeza en la vía administrativa.
+Se modifica por el artículo único.2 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+ Se modifica el apartado 2 por la disposición adicional 8.1 de la Ley 11/1995, de 22 de diciembre. Ref. BOE-A-1996-1954.
+
+### Artículo 40
+
+Artículo 40.
+Quienes participen en la comisión de cualquiera de las infracciones tipificadas en esta Ley, responderán solidariamente de las mismas, sin perjuicio del derecho a repetir frente a los demás partícipes, por parte de aquel o aquellos que hubiesen hecho frente a las responsabilidades.
+
+### Artículo 41
+
+Artículo 41.
+La apertura e instrucción del expediente administrativo sancionador se realizará por el órgano administrativo competente de la Consejería de Ganadería, Agricultura y Pesca, de conformidad con lo dispuesto en el capítulo II del título VI de la Ley de Procedimiento Administrativo de 17 de julio de 1958.
+
+### Artículo 42
+
+Artículo 42.
+1. Cuando una infracción revistiese carácter de delito o falta sancionable penalmente, se suspenderá la tramitación del expediente administrativo sancionador, dándose traslado de la denuncia a la autoridad judicial.
+2. Si la autoridad judicial no estimare la existencia de delito o falta, se continuará el expediente administrativo con base, en su caso, a los hechos declarados probados por la jurisdicción competente.
+
+### Artículo 43
+
+Artículo 43.
+1. Las infracciones a las que se refiere la presente Ley prescribirán a los seis meses si son leves; las graves, a los dos años, y las muy graves, a los tres años. Las sanciones impuestas por faltas leves prescribirán al año; las impuestas por faltas graves, a los dos años y las impuestas por faltas muy graves, a los tres años.
+2. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiese cometido y el de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+3. La prescripción de las infracciones y de las sanciones se interrumpirá con la iniciación, con conocimiento del interesado, del procedimiento sancionador o de ejecución, respectivamente, reanudándose el plazo si los expedientes sancionador o de ejecución, respectivamente, estuvieran paralizados más de un mes por causas no imputables al infractor.
+Se modifica por el artículo único.2 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 44
+
+Artículo 44.
+1. Con independencia de la sanción que pudiera ser impuesta al infractor, éste, cuando el tipo de infracción haya causado perjuicio a los intereses generales, vendrá obligado a indemnizar dicho perjuicio en las cuantías establecidas o que reglamentariamente se establezcan, y que se reflejará en la resolución del expediente sancionador.
+2. Reglamentariamente se desarrollarán el secuestro y decomiso a que se refiere el artículo 24, a), así como las medidas de confiscación previstas en los artículo 18, 19, 22, 34 y 35 de esta Ley.
+3. El incurrir en la prohibición prevista en el artículo 2. , 2, c), de esta Ley podrá dar lugar, además de la correspondiente sanción, a la clausura de las instalaciones, previo requerimiento para su adecuación dentro del plazo y condiciones que reglamentariamente se establezca.
+
+### Artículo 45
+
+Artículo 45.
+Cuando una infracción, cualquiera que fuere su grado, estuviese prevista en la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Fauna y Flora Silvestre, se sancionará de conformidad con lo previsto en la citada norma.
+Se modifica por el artículo único.2 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+ Se modifica por la disposición adicional 8.2 de la Ley 11/1995, de 22 de diciembre. Ref. BOE-A-1996-1954.
+
+## CAPÍTULO II
+
+Infracciones en materia de sanidad y de protección de los animales
+
+### Artículo 46
+
+Artículo 46.
+Tendrán la consideración de infracciones leves:
+1. No adoptar las medidas oportunas para impedir que los animales de compañía ensucien las vías o espacios públicos.
+2. La posesión de un perro sin tenerlo debidamente censado, o no comunicar su muerte, según establece el artículo 10, en el plazo máximo de quince días.
+3. El transporte de animales con infracción de lo previsto en el artículo 5 de esta Ley.
+4. La donación de un animal de compañía como premio, reclamo publicitario, recompensa o regalo de compensación por otras adquisiciones de naturaleza distinta a la transacción onerosa de animales.
+5. El no tener actualizados o tener incompletos los archivos a que hace referencia el artículo 9.2.
+6. La no inscripción en el Registro correspondiente de las Escuelas de Adiestramiento.
+7. No facilitar la información relativa al origen, identificación o, en su caso, destino de los animales que hayan poseído en los tres últimos años; no comunicar, en el plazo de cinco días, la pérdida de su señal de identificación, su muerte, o no entregar la señal reglamentaria que le identificaba, tanto en caso de muerte como de sacrificio domiciliario para aprovechamiento propio.
+8. Carecer de documentos de acompañamiento, no reflejar en ellos la señal de identificación del animal, o modificar su destino, en los supuestos de movimiento, e intercambio, si el animal de que se trate procede de explotación indemne de enfermedad.
+9. Transitar, con vehículo motorizado, por terrenos incluidos en un espacio natural protegido, o por aquellos que estén afectados por un Plan de Recuperación de una especie determinada, cuando se circule fuera de los terrenos, pistas, caminos, etc., que la normativa reguladora de su uso lo permita y se careciere de la preceptiva autorización.
+10. La acampada libre, dentro de un espacio protegido, o en los terrenos que estén afectados por un Plan de Recuperación de una especie determinada, fuera de los espacios habilitados a tal fin, sin el permiso de la autoridad competente.
+11. No llevar el registro de explotación, cuando así esté establecido, no inscribir en el mismo al animal, o no actualizarle, si la explotación tuviere la calificación de indemne de enfermedad.
+Se modifica por el artículo único.3 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 47
+
+Artículo 47.
+Tendrán consideración de infracciones graves:
+1. Ejercer la venta ambulante de animales de compañía.
+2. El incumplimiento de lo establecido en el artículo 2.f y 24 de la presente Ley, salvo las tipificadas como leves en el artículo precedente, o como muy graves en el siguiente.
+3. La posesión de animales de la fauna silvestre sin cumplir las normas de vacunaciones, o las básicas de desparasitación; mantenerlos en cautividad, sin autorización, o sin las anillas o distintivos reglamentariamente establecidos.
+4. El abandono de animales por sus poseedores, mantenerlos alojados en instalaciones o lugares insanos o insalubres que no pueda ejercerse sobre los mismos la adecuada vigilancia.
+5. La venta de animales a centros sin control de la Administración.
+6. Emplear en el sacrificio de animales técnicas distintas de las que autoriza la legislación vigente.
+7. La no comunicación de brotes epizoóticos por los propietarios de residencias de animales o de centros de adiestramientos.
+8. El funcionamiento, sin la inscripción preceptiva, de parques zoológicos, safaris, etc., así como centros de venta de animales.
+9. Alimentar a animales con restos de otros animales muertos, salvo los casos exceptuados legal o reglamentariamente.
+10. La tenencia, venta, compra, circulación o transporte de ganado sin señal para su identificación o con esta alterada o manipulada, cuando reglamentariamente sea obligatoria y los resultados de las pruebas para determinar su estado sanitario fueran negativas.
+11. Negativa a efectuar las pruebas de saneamiento, o su vacunación obligatoria, o al marcaje de las reses cuando los resultados de las pruebas para determinar su estado sanitario fueran positivos.
+12. La carencia del número de identificación o del carné sanitario del animal según lo estipulado en los artículos 10 y 9, respectivamente.
+13. La venta o donación de animales de compañía a menores y/o incapacitados sin la autorización de quienes tengan la patria potestad o custodia de los mismos.
+14. Carecer los animales de renta de documentos de acompañamiento, no reflejar en ellos la señal de identificación animal o modificar su destino, en los supuestos de movimiento, e intercambio, si el animal de que se trate no procede de explotación indemne de enfermedad.
+Se modifica por el artículo único.3 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 48
+
+Artículo 48.
+Tendrán la consideración de infracciones muy graves:
+1. Maltratar o agredir físicamente a los animales o someterlos a cualquier otra práctica que les suponga sufrimientos o daños injustificados, así como no facilitarles alimentación.
+2. La celebración de espectáculos u otras actividades en los que animales resulten dañados o sean objeto de tratamientos indignos o de manipulaciones prohibidas en el artículo 6.2.
+3. Alimentación de animales con restos de otros animales muertos, si se demuestra que éstos padecían enfermedad infecto-contagiosa.
+4. La tenencia, venta, compra, circulación o transporte de ganado sin señal para su identificación o con ésta alterada o manipulada, cuando reglamentariamente sea obligatoria y los resultados de las pruebas para determinar su estado sanitario fueran positivos.
+5. La venta, compra, circulación o transporte de ganado encontrándose depositado por secuestro.
+6. Quitar, sustituir, alterar o manipular la señal obligatoria para la identificación del animal o de sus marcas, provocar la reacción positiva de las pruebas sanitarias de un animal sano o impedir que reaccionen en un animal enfermo, la negativa al sacrificio de la res o reses positivas a las pruebas de saneamiento, su comercialización en feria o venderla como sana.
+7. Reponer ganado en un establo saneado o en proceso de saneamiento, sin que los animales de reposición estén sanos y se demuestre este hecho mediante la realización de las correspondientes pruebas para comprobar su estado sanitario.
+8. El suministro a los animales de alimentos y medicamentos que contengan sustancias que puedan causarles sufrimientos o daños innecesarios, o sustancias hormonales o químicas que alteren su metabolismo, salvo que sea por prescripción facultativa o motivos zootécnicos.
+9. La venta de animales a laboratorios o clínicas sin el cumplimiento de las garantías previstas en la normativa vigente.
+10. La filmación de escenas con animales para cine o televisión, que conlleven crueldad, maltrato o sufrimiento, cuando éstos no sean simulados.
+11. Manipulación de los boletines de los resultados obtenidos para la investigación de enfermedades animales efectuados en laboratorios oficiales o autorizados por la Comunidad Autónoma de Cantabria.
+Se añade el apartado 11 por el artículo 32 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510.
+ Se modifica por el artículo único.3 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+## CAPÍTULO III
+
+Infracciones en materia de caza
+
+### Artículo 49
+
+Artículo 49.
+Tendrán la consideración de infracciones leves:
+1. Entrar en terreno de aprovechamiento cinegético especial para cobrar una pieza de caza que haya sido herida fuera de él, sin la autorización del titular del régimen cinegético.
+2. Transitar con arma cargada por un terreno cercado no adscrito a régimen cinegético especial cuando existan en sus accesos señales o carteles que prohíban la entrada.
+3. El establecimiento de palomares sin autorización o a menos de 1.000 metros de la linde cinegética más próxima.
+4. Cazar palomas mensajeras, deportivas o buchones que ostenten las marcas establecidas al efecto.
+5. Cazar siendo poseedor de la documentación preceptiva, pero no llevándola consigo.
+6. Cazar no teniendo contratado y vigente el seguro obligatorio del cazador.
+7. Cazar fuera del horario o día hábiles de caza establecidos.
+8. No impedir que los perros propios o que acompañen a una persona vaguen sin control en época de veda.
+9. Cazar con arma de fuego siendo menor de edad, cuando se haga a más de 120 metros del cazador mayor de edad encargado de la vigilancia del menor o cuando no se cumplan sus indicaciones.
+10. Acompañar a un cazador menor de edad que utilice arma de fuego sin vigilar eficazmente su actividad cinegética.
+11. El incumplimiento de la normativa dictada sobre la caza en batida.
+12. El incumplimiento de dar cuenta a la Administración del resultado de cacerías cuando así sea preceptivo.
+13. Portar arma de fuego en zona de seguridad, salvo que vaya abierta y descargada.
+Se modifica por el art. 3.2 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590.
+ Se modifica por el artículo único.4 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+## CAPÍTULO III
+
+Infracciones en materia de caza
+
+### Artículo 50
+
+Artículo 50.
+Tendrá la consideración de infracciones graves:
+1. Cazar sin la licencia de caza de Cantabria.
+2. Poseer o transportar en época hábil de caza piezas cinegéticas cuya edad o sexo, en el caso de que sean notorios, no concuerden con los legalmente permitidos.
+3. No cumplir las normas sobre caza en cauces de ríos, arroyos y canales que atraviesen o linden con terrenos sometidos a régimen cinegético especial o cazar en estos lugares quienes no estén en posesión del oportuno permiso.
+4. Cazar en los llamados días de fortuna, es decir, en aquellos en los que como consecuencia de incendios, epizootias, inundaciones, sequías u otras causas, los animales se vean privados de sus facultades normales de defensa u obligados a concentrarse en determinados lugares.
+5. Cazar estando el terreno cubierto de forma continua por la nieve, o cuando por causa de la misma, queden reducidas las posibilidades de defensa de los animales.
+6. Incumplir los preceptos relativos a la señalización de terrenos sometidos a régimen cinegético especial.
+7. El incumplimiento de las condiciones exigidas para el establecimiento de un coto de caza, así como el falseamiento de sus límites o superficie.
+8. El incumplimiento por parte de una sociedad de cazadores colaboradora de la Consejería de Ganadería, Agricultura y Pesca, de las normas que regulen el disfrute cinegético de un terreno sometido al régimen de caza controlada o de los preceptos sobre admisión de socios, cuotas, importe de permisos o distribución de beneficios.
+9. Dificultar la acción de los agentes de la autoridad de inspeccionar el correcto aprovechamiento cinegético en los cotos de caza.
+10. El incumplimiento de los titulares de terrenos sometidos a régimen cinegético especial de las medidas que se ordenen para prevenir o combatir las epizootias y zoonosis.
+11. No comunicar a la Administración por parte de los titulares de terrenos sometidos a régimen cinegético especial las epizootias y zoonosis que afecten a la fauna que los habita.
+12. Transitar llevando armas de fuego o artes dispuestas para cazar por terrenos sometidos a régimen cinegético especial, sin estar en posesión del necesario permiso. Se considerará que las armas se hallan dispuestas para cazar cuando se porten desenfundadas y armadas.
+13. Cazar en época de veda.
+14. Realizar una batida de caza mayor, en un coto de caza, sin autorización, cuando ésta sea preceptiva.
+15. Atribuirse indebidamente la titularidad de los terrenos sometidos a régimen cinegético especial.
+16. Negarse a que por parte de los agentes de la autoridad sean inspeccionados los morrales, cestos, sacos, armas u otros medios o útiles, cuando así lo requieran, así como la negativa de ser inspeccionado el interior de los vehículos cuando exista sospecha fundada de haber incurrido en infracción sus ocupantes.
+17. Negarse a mostrar a los agentes de la autoridad, cuando así lo requieran, la documentación preceptiva para el ejercicio de la caza.
+18. La introducción, traslado, transporte o suelta de especies de la fauna silvestre, sin cumplir las condiciones que se dicten al respecto.
+19. El incumplimiento de las condiciones dictadas para la explotación industrial de la caza.
+20. La tenencia de especies cinegéticas muertas o algún despiece de las mismas, en el caso de que no se demuestre su legítima procedencia.
+21. Alterar precintos o marcas reglamentariamente establecidos.
+22. La captura o muerte de especies de la fauna silvestre no incluidas ni el Catálogo Nacional de Especies Amenazadas, ni en la relación de especies consideradas como cinegéticas en Cantabria.
+23. El empleo de artefactos explosivos, cohetes, bombas y petardos fuera de los cascos urbanos, en terrenos donde esté prevista una batida de caza mayor el día siguiente.
+24. Efectuar disparo/s en las zonas de seguridad.
+25. La destrucción o daño de forma intencionada de vivares, nidos, huevos, incluyendo la recogida de nidos y la recolección y retención de huevos, aun estando vacíos, de especies de la fauna silvestre.
+26. Recurrir a cualquier medio, instalación o método de captura o muerte masiva o no selectiva o que pudiera causar la desaparición local de una especie, y en particular lazos, ligas, anzuelos, aves vivas utilizadas como reclamos cegadas o mutiladas, aparatos grabadores, aparatos electrocutantes, fuentes luminosas artificiales, espejos, dispositivos para iluminar los blancos, dispositivos de visor que incluyan un convertidor o un amplificador de imagen electrónico para tiro nocturno, explosivos, redes, trampascepo, cebos envenenados o tranquilizantes, armas semiautomáticas o automáticas cuyo cargador pueda contener más de dos cartuchos, barcos propulsados a una velocidad superior a 5 Km/hora, y los que reglamentariamente se determinen.
+27. La venta, puesta en venta, transporte y retención para la venta de especies de la fauna silvestre, exceptuando las cinegéticas que reglamentariamente se determinen.
+28. El incumplimiento por parte de los titulares de terrenos cinegéticos de los planes de aprovechamiento cinegético.
+Se modifica por el art. 3.3 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590.
+ Se modifica por el artículo único.4 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 51
+
+Artículo 51.
+Tendrán la consideración de infracciones muy graves:
+1. La explotación industrial de la caza sin estar en posesión de la debida autorización.
+2. Colocar, suprimir o alterar los carteles o señales indicadoras de la condición cinegética de un terreno para inducir a error sobre ella.
+3. La introducción, traslado, transporte o suelta de especies de la fauna silvestre sin la debida autorización.
+4. La realización de cualquier actividad de índole cinegética sin tener aprobado el plan técnico de aprovechamiento cinegético.
+5. Cazar estando inhabilitado para tener u obtener la licencia de caza de Cantabria por sentencia judicial o resolución administrativa firmes.
+6. Cazar desde aeronave, automóvil o cualquier otro medio de locomoción, cuyo uso para esta finalidad no esté autorizado.
+7. Efectuar disparo/s con arma de fuego en terrenos sometidos a régimen cinegético especial, si estar en posesión del correspondiente permiso.
+8. Cazar sin cumplir las medidas de seguridad especificadas reglamentariamente cuando se utilicen armas largas rayadas.
+9. Los supuestos de resistencia reiterada, coacción, amenaza, violencia, desacato o cualquier otra forma de presión ejercida sobre los agentes del medio natural, otros agentes de la autoridad o funcionarios que intervengan por razón de su cargo.
+Se modifica por el art. 3.4 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590.
+ Se modifica por el artículo único.4 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 52
+
+Artículo 52.
+1. Toda infracción administrativa en materia de caza llevará consigo el decomiso de la caza, viva o muerta, que fuera ocupada, así como de cuantas artes materiales o animales vivos hayan servido para cometer el hecho objeto de infracción.
+2. En el caso de ocupación de caza viva, el agente denunciante adoptará las medidas precisas para su depósito en lugar idóneo o la libertará en el supuesto de que estime que está en condiciones de valerse por sí misma.
+3. En el caso de la ocupación de caza muerta, ésta se entregará, mediante recibo, en el lugar que se determine por el órgano competente en la materia.
+Se modifica por el artículo único.4 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 53
+
+Artículo 53.
+1. El agente denunciante procederá a la retirada de las armas solamente en aquellos casos en que hayan sido utilizadas para cometer la infracción, dando recibo de su clase, marca y número y puesto de la Guardia Civil donde se depositen.
+2. La negativa a la entrega de arma, cuando el cazador sea requerido para ello, dará lugar a denuncia ante el juzgado competente, a los efectos previstos en la legislación penal.
+3. Las armas retiradas serán devueltas cuando la resolución recaída en el expediente fuera absolutoria o se proceda a su sobreseimiento.
+4. En el supuesto de infracción administrativa leve, la devolución del arma será automática por disposición del Instructor del expediente. Si la infracción se calificara de grave o muy grave, la devolución del arma sólo procederá cuando se haya hecho efectiva la sanción impuesta.
+5. A las armas decomisadas que no sean retiradas por el interesado se les dará el destino establecido en la legislación general del Estado en la materia.
+Se modifica por el artículo único.4 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículos 50 a 53
+
+Artículos 50 a 53.
+(Derogados)
+Se derogan por la disposición derogatoria única de la Ley 12/2006, de 17 de julio. Ref. BOE-A-2006-15162#ddunica.
+
+## CAPÍTULO IV
+
+Infracciones en materia de pesca continental
+Se deroga por la disposición derogatoria única de la Ley 3/2007, de 4 de abril. Ref. BOE-A-2007-9330#ddunica.
+
+### Artículo 54
+
+Artículo 54.
+Tendrán la consideración de infracciones leves:
+1. Pescar siendo titular de una licencia válida de pesca, cuando no se lleva consigo.
+2. Pescar en un tramo acotado, siendo titular del permiso reglamentario, cuando no se lleve consigo este permiso.
+3. Pescar con caña en ríos trucheros, no habitados por salmón, de forma tal que el pescador o el cebo se sitúen a menos de 25 metros de la entrada o salida de las escalas o pasos de peces.
+4. Pescar con más de dos cañas a la vez, o con dos si éstas no se encuentran al alcance de la mano, o con más de una si se trata de salmón.
+5. Pescar entorpeciendo a otro pescador, cuando éste estuviere ejerciendo, previamente, su legítimo derecho de pesca.
+6. No guardar, respecto a otros pescadores, mediando requerimiento previo, una distancia de 30 metros cuando se pesca con ova, y de 10 metros cuando se emplean otras modalidades de pesca.
+7. Dejar transcurrir más de media hora sin ceder su puesto al pescador de salmón que le hubiere requerido para hacerlo, si al transcurrir dicho plazo no se tuviera trabado un ejemplar.
+8. Emplear para la pesca embarcaciones o aparatos flotantes que no estén provistos de matrícula reglamentaria.
+9. No restituir a las aguas los peces o cangrejos cuya dimensión sea inferior a la reglamentaria o conservarlos en cestas, morrales, vestimenta o al alcance del pescador.
+10. Utilizar las aguas públicas como lugar de estancia de aves acuáticas, de propiedad particular en los casos en que la Administración haya advertido a los propietarios que deben retirarlas, por ser perjudiciales para la fauna acuática.
+11. Bañarse fuera de los lugares fijados por la Administración, cuando se trate de masas de agua en las que existan señales colocadas con este objeto.
+12. Navegar con lanchas o embarcaciones de recreo entorpeciendo la práctica de la pesca, en los lugares en que este aprovechamiento haya sido declarado por el organismo competente de carácter preferente.
+13. Pescar cangrejos empleando cada pescador más de ocho reteles, lamparillas o arañas a la vez, con artes no permitidos.
+14. Pescar utilizando como cebo peces vivos, cuando la especie que sirve de cebo no estuviera presente de forma natural en aguas pescadas, salvo en aquellos casos en que la Administración hubiese hecho pública autorización en contrario.
+15. Pescar en zonas acotadas sin estar en posesión del permiso reglamentario.
+16. Pescar a mano.
+17. Pescar durante las horas en que esté prohibido hacerlo.
+18. Perturbar las aguas o arrojar piedras a las mismas con el ánimo de espantar los peces y facilitar su captura.
+19. Sobrepasar los límites, en número o en peso, fijados por la Administración para las piezas pescadas, así como infringir las prescripciones especiales dictadas por ésta para determinados tramos o masas de agua.
+20. Emplear cebos cuyo uso no está permitido o cebar las aguas con fines de pesca, a no ser en zonas expresamente autorizadas.
+21. No restituir inmediatamente a las aguas los pintos o esguines de salmón que pudieran capturarse, estuvieran o no con vida.
+22. No restituir a las aguas las piezas cuya captura no se derive de la simple mordedura del cebo, sino la trabazón del anzuelo en cualquier otra parte del cuerpo del pez.
+Se modifica por el artículo único.5 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 55
+
+Artículo 55.
+Tendrán la consideración de infracciones graves:
+1. Pescar sin licencia.
+2. Pescar con caña en los ríos salmoneros de forma tal que el pescador o el cebo se sitúen a menos de 50 metros del pie de las presas o de las entradas a las escalas salmoneras.
+3. Pescar haciendo uso de luces artificiales, que faciliten la captura de las especies.
+4. Vigilar la presencia o movimiento de la guardería para facilitar la pesca fraudulenta practicada por otros pescadores, así como colocarse de vigía durante la costera del salmón para registrar y avisar su paso con fines de pesca.
+5. Vender salmón o trucha en establecimientos públicos, sin disponer de la preceptiva autorización administrativa.
+6. Agotar o disminuir notablemente el caudal del agua circulante por acequias y obras de derivación de carácter secundario, sin haberlo participado a la Administración, con una anticipación mínima de quince días, salvo en el caso de que causas de fuerza mayor, basadas en razones derivadas de las concesiones hidráulicas, no hubiesen permitido hacerlo.
+7. Extraer gravas o arenas de los cauces sin estar en posesión del permiso reglamentario o fuera de los lugares señalados o no cumplir las condiciones que a efectos piscícolas se señalen en la concesión otorgada por el organismo competente, siempre que se produzcan perjuicios a la fauna acuática.
+8. Arrojar o verter a las aguas basuras, inmundicias, desperdicios o cualquier otra sustancia o material similar a los anteriores, o depositarlas en lugares en que puedan deslizarse o ser arrastradas por las lluvias siempre que las mismas sean susceptibles de causar perjuicios a la fauna acuática.
+9. Entorpecer el cumplimiento de lo dispuesto en el artículo 54 de la Ley de Pesca Fluvial respecto a la inspección de barcas, molinos, fábricas y demás dependencias no destinadas a vivienda.
+10. No conservar en buen estado las rejillas instaladas con fines de proteger a la riqueza piscícola o quitar los precintos reglamentarios colocados en las mismas por la Administración.
+11. Pescar en época de veda.
+12. Pescar cuando medie resolución administrativa firme o sentencia judicial que inhabilite al interesado para la obtención de la licencia de pesca.
+13. Pescar con garlitos, cribas, butrones, esparaveles, remangas, palangres, salbardo, cordelillos o sedales durmientes, excepto en aquellos casos en que está autorizado su uso.
+14. Pescar con artes que permitan capturar las especies acuícolas sin que acudan al cebo o señuelo, tales como tridentes, arpones, grampines fitoras.
+15. Pescar en vedados o donde esté prohibido hacerlo.
+16. Tener sustancias tóxicas en las proximidades de las aguas, cuando razonablemente pueda presumirse que las mismas se pretenden utilizar con fines de pesca o venta.
+17. La tenencia o transporte, por persona que no esté pescando, de peces o cangrejos de tamaño menor al reglamentario o de tamaño legal en época en que esté prohibida su pesca o venta.
+18. Falsear los datos en la solicitud de la licencia de pesca.
+19. Negarse a mostrar el contenido de los cestos, morrales y vestimenta o los aparejos empleados para la pesca, cuando le sea requerido para ello por el personal de guardería y otros agentes de la autoridad, así como, la negativa a ser inspeccionado el interior de los vehículos, cuando existe sospecha fundada de haber incurrido en infracción el usuario.
+20. Negarse a mostrar a la autoridad o a sus agentes, cuando así lo requieran, la documentación preceptiva para el ejercicio de la pesca.
+21. Tener en las proximidades de los ríos redes o artefactos de uso prohibido, tales como garras, garfios, tridentes, gamos, grampines, fitoras, arpones, etc., cuando no se justifique razonablemente su aplicación a menesteres distintos de la pesca.
+22. Emplear, en los casos permitidos para la pesca de anguilas o lampreras, más de tres cestones, nasas o tambores.
+23. La tenencia, transporte o comercio de salmones pescados en su retorno hacia el mar después de la freza.
+Se modifica por el artículo único.5 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículo 56
+
+Artículo 56.
+Tendrán la consideración de infracciones muy graves:
+1. Pescar en el interior de las escalas o pasos de peces.
+2. Pescar con redes, o pretender hacerlo, en las aguas declaradas oficialmente como habitadas por salmónidos.
+3. Pescar con redes, en las inmediaciones de la desembocadura de los ríos salmoneros durante el período hábil para la pesca del salmón.
+4. Pescar haciendo uso de aparatos accionados por electricidad, productos tóxicos, armas de fuego o de aire comprimido y fusil submarino, sin expresa autorización administrativa.
+5. Incorporar a las aguas continentales, aun cuando estuvieren en el propio cauce, o a sus álveos, áridos, arcillas, escombros, limos, residuos industriales o cualquier otra clase de sustancias que produzcan enturbiamiento o que alteren sus condiciones de habitabilidad piscícola, con daño para esta forma de riqueza.
+6. La formación de escombreras en lugares que, por su proximidad a las aguas o a sus cauces, sean susceptibles de ser arrastradas por éstas o lavadas por las de lluvia, con el consiguiente daño para la riqueza piscícola; salvo que tales escombreras tuviesen carácter provisional, reuniesen las debidas garantías para impedir que se produzcan daños a la riqueza piscícola y hubiesen sido autorizadas por el organismo competente correspondiente.
+7. No respetar los caudales mínimos fijados en el artículo quinto de la Ley de Pesca Fluvial para las escalas y pasos de peces.
+8. Agotar, desviar, o disminuir notablemente el volumen de agua de los embalses y canales, así como la circulante por el lecho de los ríos, sin haberlo participado a la Administración, con una anticipación mínima de quince días o el incumplimiento de las condiciones que a estos efectos hubiesen sido fijadas por la Administración, salvo en el caso de que causas de fuerza mayor basadas en razones derivadas de las concesiones hidráulicas no hubiesen permitido hacerlo.
+9. Construir barreras de piedras o de otras materias, estacadas, empalizadas, atajos, cañeras, cañizales o pesqueras, con fines directos o indirectos de pesca, así como colocar en los cauces artefactos destinados a este fin.
+10. Alterar los cauces, descomponer los pedregales del fondo, disminuir arbitrariamente el caudal de las aguas, destruir la vegetación acuática, y la de las orillas y márgenes, sin autorización administrativa y produciendo daño a la fauna acuática.
+11. No cumplir las condiciones fijadas por la Administración, para la defensa, conservación o fomento de la riqueza piscícola, cuando estas condiciones hayan sido fijadas mediante expediente que hubiera adquirido carácter de firmeza.
+12. No colocar las rejillas reglamentarias en los canales, acequias y cauces de derivación o desagüe, cuando el interesado deje de cumplir una resolución administrativa firme que así lo disponga.
+13. Vender, comprar, transportar o traficar con huevos de peces o cangrejos, así como importar o exportar peces, cangrejos o sus huevos sin autorización del organismo competente.
+14. La tenencia, transporte o comercio de especies que no vayan provistas de los precintos y certificados de origen facilitados por la Administración cuando sean preceptivos.
+15. Tener, transportar o comerciar con peces procedentes de piscifactorías, en épocas de veda para su pesca, cuando no vayan amparados por las guías, precintos o señales reglamentarias.
+16. Entorpecer el buen funcionamiento de las escalas o pasos de peces.
+17. No mantener en perfecto estado de conservación las obras realizadas por los concesionarios, a instancia de la Administración, cuando estas obras hubiesen sido ejecutadas con el fin de armonizar los intereses hidráulicos y piscícolas.
+18. Colocar sobre las presas, tablas u otra clase de materiales con objeto de alterar el nivel de las aguas o caudal, a menos que se esté autorizado para hacerlo.
+19. Derribar, dañar o cambiar de lugar los hitos o mojones indicadores de deslinde de jurisdicciones, competencia o propiedad, así como los carteles de tramos acotados, vedados, zonas de baño u otras señales colocadas por la Administración.
+20. Construir o poseer vivares, centros de piscicultura o astacicultura sin la debida autorización administrativa.
+21. Comerciar o pretender hacerlo con peces o cangrejos de dimensiones menores a las reglamentarias, o de tamaño legal cuando sea en época en que esté prohibida su pesca o venta.
+22. La introducción en aguas públicas o privadas de especies acuícolas sin expresa autorización de la Administración.
+23. Perjudicar o trasladar, sin permiso, los apartados de incubación artificial de la Administración o de particulares o sociedades autorizadas para establecerlos.
+24. Pescar o intentar hacerlo, con la licencia de pesca o con el permiso reglamentario falsificado o alterado.
+25. Los supuestos de resistencia reiterada, coacción, amenaza, violencia, desacato, o cualquier otra forma de presión ejercida sobre los guardas, otros agentes de la autoridad o funcionarios que intervengan por razón de su cargo.
+26. La tenencia de explosivos con fines de pesca en la proximidades de las masas de aguas continentales.
+Se modifica por el artículo único.5 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Artículos 54 a 56
+
+Artículos 54 a 56.
+(Derogados)
+Se derogan por la disposición derogatoria única de la Ley 3/2007, de 4 de abril. Ref. BOE-A-2007-9330#ddunica.
+
+## TÍTULO VI
+
+De la formación y educación en los temas de protección a los animales
+Se deroga por la disposición derogatoria única de la Ley 3/2007, de 4 de abril. Ref. BOE-A-2007-9330#ddunica.
+
+### Artículo 57
+
+Artículo 57.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 3/2007, de 4 de abril. Ref. BOE-A-2007-9330#ddunica.
+ Se renumera por el artículo único.6 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+ Su anterior numeración era artículo 58.
+
+## TÍTULO VI
+
+De la formación y educación en los temas de protección a los animales
+
+### Artículo 58
+
+Artículo 58.
+(Sin contenido)
+Se renumera como art. 57 por el artículo único.6 de la Ley 8/1997, de 30 de diciembre. Ref. BOE-A-1998-2748.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Las instalaciones de ventas de animales que a la publicación de esta Ley no cuenten con los requisitos señalados en el artículo 24, tendrán un plazo de un año para adecuarse a lo establecido.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para actualizar el importe de las sanciones previstas en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consejo de Gobierno de la Diputación Regional de Cantabria para que promulge las disposiciones precisas para el desarrollo y ejecución de esta Ley.
+En el plazo de seis meses, a partir de la entrada en vigor de la presente Ley, el Consejo de Gobierno regulará las materias pendientes de desarrollo precisas para la plena efectividad de esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor a los veinte días de su completa publicación en el «Boletín Oficial de Cantabria».
+
+Santander, 18 de marzo de 1992.
+JUAN HORMAECHEA CAZÓN,
+Presidente del Consejo de Gobierno
+
+## [INFORMACIÓN RELACIONADA]
+
+INFORMACIÓN RELACIONADA
+ Téngase en cuenta que se autoriza al Consejo de Gobierno para actualizar el importe de las sanciones, mediante disposición publicada únicamente en el "Boletín Oficial de Cantabria", según se establece en la disposición final 1.

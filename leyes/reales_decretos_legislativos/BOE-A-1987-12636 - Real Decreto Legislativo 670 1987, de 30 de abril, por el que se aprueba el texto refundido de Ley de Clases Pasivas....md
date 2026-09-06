@@ -1,0 +1,1460 @@
+# Real Decreto Legislativo 670/1987, de 30 de abril, por el que se aprueba el texto refundido de Ley de Clases Pasivas del Estado.
+
+- Identificador BOE: `BOE-A-1987-12636`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm.171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+## Preámbulo
+
+La Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, en su disposición final quinta, autorizó al Gobierno para que procediera a dictar, durante 1985, un texto refundido «regularizando, aclarando y armonizando la legislación vigente en materia de Clases Pasivas del Estado».
+En virtud de ello, durante 1985, se elaboró un proyecto de texto refundido de Ley de Clases Pasivas del Estado que fue enviado al Consejo de Estado para su preceptivo informe, de acuerdo con lo dispuesto en el artículo 21 de la Ley Orgánica 3/1980, de 22 de abril. Dicho Alto Organismo Consultivo, a la vista de las modificaciones en materia de Clases Pasivas previstas en el Proyecto de Ley de Presupuestos Generales del Estado para 1986 y a fin de poder efectuar la incorporación de tales modificaciones al citado texto, dictaminó la conveniencia de una prórroga del mandato legislativo conferido al Gobierno en la mencionada disposición adicional quinta de la Ley 50/1984, de 30 de diciembre. La prórroga fue otorgada por las Cortes Generales en la disposición final duodécima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, extendiendo la autorización inicial concedida durante 1985 para la promulgación del citado texto refundido al año 1986.
+La complejidad técnica del texto, el ajuste de las modificaciones introducidas por la Ley 46/1985 –ya citada– y el amplio examen que del mismo ha realizado el Consejo de Estado, aconsejaron, por razones de calendario, a las Cortes Generales la concesión de una nueva prórroga de la autorización inicialmente concedida. Esta prórroga se incluyó en la disposición final séptima de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987.
+De este modo se produce el presente texto refundido de Ley de Clases Pasivas del Estado.
+En el mismo se refunde la «nueva normativa en materia de Clases Pasivas del Estado» que contiene la sección primera del capítulo II del título II de la mencionada Ley 50/1984, con la legislación anteriormente vigente que ha de estimarse subsistente después de los cambios normativos introducidos en el tradicional sistema jurídico de las Clases Pasivas del Estado por la Constitución Española de 1978, las Leyes de reforma del Código Civil en materia de derecho de familia; la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, y la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas. De este modo, se forma un texto único comprensivo de toda la legislación aplicable a los funcionarios del Estado comprendidos en el ámbito de cobertura del Régimen de Clases Pasivas que a 31 de diciembre de 1984 no hubieran sido ya jubilados o retirados y a los derechos que éstos causen a su fallecimiento en favor de sus familiares.
+Junto a esta parte fundamental del texto, aún se contienen en el mismo normas que modifican el régimen jurídico aplicable a los derechos pasivos de los funcionarios que a la indicada fecha de 31 de diciembre de 1984 ya estuvieran jubilados o retirados y de los familiares de éstos. Estas normas cumplen así la función de regularización y armonización a que se refiere la disposición final quinta de la Ley 50/1984, ya citada, y el presente texto refundido se convierte así en la norma básica para el manejo, consulta y aplicación de la profusa legislación de Clases Pasivas promulgada con anterioridad a 1985.
+No se ha refundido esta legislación anterior a 1985 con la promulgada con posterioridad, formando así un texto único y universal en la materia, puesto que un cuerpo normativo de estas características, dadas la extensión y dispersión de la normativa de Clases Pasivas que entrara en vigor con anterioridad al 1 de enero de 1985 y su reducido ámbito de aplicación (funcionarios ya jubilados o retirados y familiares de éstos), sería escasamente práctico y de muy difícil manejo y su importancia iría restringiéndose en función del decrecimiento vegetativo del personal a que sería de aplicación.
+Es de destacar, finalmente, que en el presente texto no se contiene normativa alguna en relación con las pensiones especiales de la guerra civil 1936-1939, que si bien son abonables con cargo a crédito presupuestario de la sección 07 de Clases Pasivas del Presupuesto de Gastos del Estado, no pueden legalmente considerarse integradas en el Régimen de Clases Pasivas del Estado y en la acción protectora de éste.
+En su virtud, a propuesta del Ministerio de Economía y Hacienda, oído el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 30 de abril de 1987,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único.
+Se aprueba con esta fecha el texto refundido de Ley de Clases Pasivas del Estado que se inserta a continuación:
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LEY DE CLASES PASIVAS DEL ESTADO
+
+## TÍTULO PRELIMINAR
+
+Normas generales
+
+### Artículo 1
+
+Artículo 1. Régimen de Clases Pasivas del Estado.
+1. A través del Régimen de Clases Pasivas, el Estado garantiza al personal referido en el siguiente artículo de este texto, la protección frente a los riesgos de vejez, incapacidad y muerte y supervivencia, de acuerdo con las disposiciones de este texto refundido.
+2. Respecto del personal mencionado en las letras a), b), c), f), g) y h) del número 1 del siguiente artículo 2.°, el Régimen de Clases Pasivas constituye uno de los mecanismos de cobertura que componen los Regímenes Especiales de Seguridad Social establecidos por las Leyes 28/1975 y 29/1975, ambas de 27 de junio, y el Real Decreto-ley 16/1978, de 7 de junio.
+
+### Artículo 2
+
+Artículo 2. Ámbito personal de cobertura.
+1. Constituyen el ámbito personal de cobertura del Régimen de Clases Pasivas:
+a) Los funcionarios de carrera de carácter civil de la Administración del Estado.
+b) El personal militar de carrera, y el de las Escalas de complemento y reserva naval y el de tropa y marinería profesional que tuviera adquirido el derecho a permanecer en las Fuerzas Armadas hasta la edad de retiro.
+c) Los funcionarios de carrera de la Administración de Justicia.
+d) Los funcionarios de carrera de las Cortes Generales.
+e) Los funcionarios de carrera de otros órganos constitucionales o estatales, siempre que su legislación reguladora así lo prevea.
+f) El personal interino a que se refiere el artículo 1.° del Decreto-ley 10/1965, de 23 de septiembre.
+g) El personal mencionado en las precedentes letras que preste servicio en las diferentes Comunidades Autónomas como consecuencia de haber sido transferido al servicio de las mismas.
+h) Los funcionarios en prácticas pendientes de incorporación definitiva a los distintos, Cuerpos, Escalas y Plazas, así como los alumnos de Academias y Escuelas Militares a partir de su promoción a Caballero Alférez-Cadete, Alférez alumno, Sargento-alumno o Guardiamarina.
+i) Los ex Presidentes, Vicepresidentes y Ministros del Gobierno de la Nación y otros cargos referidos en el artículo 51 de este texto.
+j) El personal que cumpla el servicio militar en cualquiera de sus formas, los Caballeros Cadetes, Alumnos y Aspirantes de las Escuelas y Academias Militares y el personal civil que desempeñe una prestación social sustitutoria del servicio militar obligatario.
+k) El personal militar de empleo, y el de las Escalas de complemento y reserva naval y el de tropa y marinería profesional que no tenga adquirido el derecho a permanecer en las Fuerzas Armadas hasta la edad de retiro.
+2. Este ámbito personal de cobertura del Régimen de Clases sólo podrá ser ampliado o restringido por Ley.
+Se modifica la letra b) y se añade la k) del apartado 1 por el art. 60.1 y 2 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 3
+
+Artículo 3. Legislación reguladora.
+1. Se regularán por el título I del presente texto y sus disposiciones de desarrollo, los derechos pasivos causados por el personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas que se mencionan a continuación:
+a) El personal mencionado en las letras a) a e) ambas inclusive, y g) del número 1 del precedente artículo 2 que, con posterioridad a 31 de diciembre de 1984, se encuentre en cualquier situación administrativa y no haya sido declarado jubilado o retirado antes de dicha fecha.
+b) El personal que a partir de 1 de enero de 1986 se encontrara como funcionario en prácticas y el que a partir de 1 de enero de 1985 fuera alumno de alguna Escuela o Academia Militar y hubiera sido promovido a Caballero Alférez Cadete, Alferez-alumno, Sargento-alumno o Guardiamarina.
+c) Los ex Presidentes, Vicepresidentes y Ministros del Gobierno de la Nación y otros cargos mencionados en el artículo 51 de este texto, en favor de su familiares, cuando el hecho causante de tales derechos se haya producido con posterioridad a 31 de diciembre de 1985.
+d) El personal militar que con posterioridad a 31 de diciembre de 1984 estuviese cumpliendo el servicio militar en cualquiera de sus formas, los Caballeros Cadetes, Alumnos y Aspirantes de las Escuelas y Academias Militares que a partir de dicha fecha estuvieran cursando estudios en dichos Centros, así como el personal civil que, igualmente a partir de dicho momento, desempeñe una prestación social sustitutoria del servicio militar obligatorio.
+e) Los funcionarios interinos cuando el hecho causante de tales derechos se haya producido con posterioridad a 31 de diciembre de 1985.
+f) El personal mencionado en la letra k) del número 1, del precedente artículo 2, cuando el hecho causante de tales derechos se haya producido con posterioridad a 31 de diciembre de 1984.
+2. Se regularán por la legislación vigente a 31 de diciembre de 1984, con las modificaciones que se recogen en el título II de este texto, los derechos pasivos causados por el personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas del Estado que se mencionan a continuación:
+a) El personal mencionado en las legas a) a e), ambas inclusive, y g) del número 1 del precedente artículo 2.° que con anterioridad al 1 de enero de 1985 haya fallecido o haya sido declarado jubilado o retirado.
+b) Los ex Presidentes, Vicepresidentes y Ministros del Gobierno de la Nación y otros cargos mencionados en el artículo 51 de este texto en su propio favor, siempre, y en favor de sus familiares cuando el hecho causante se haya producido con anterioridad al 1 de enero de 1986.
+c) Los funcionarios interinos, cuando el hecho causante se haya producido con anterioridad al 1 de enero de 1986.
+d) El personal mencionado en la letra k) del número 1, del precedente artículo 2, cuando el hecho causante de tales derechos se haya producido con anterioridad a 1 de enero de 1985.
+3. A efectos de lo dispuesto en el número anterior, se entenderá por legislación vigente en matea de Clases Pasivas en 31 de diciembre de 1984 la siguiente:
+a) El Estatuto de Clases Pasivas del Estado y Reglamento para su aplicación, aprobados por Reales Decretos de 22 de octubre de 1926 y 21 de noviembre de 1927, convalidados con fuerza de Ley por la de 9 de septiembre de 1931.
+b) El texto refundido de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, aprobado por Decreto Legislativo 1120/1966, de 21 de abril.
+c) El texto refundido de la Ley de Derechos Pasivos del Personal Militar y Asimilado de las Fuerzas Armadas, Guardia Civil Policía Armada, aprobado por Decreto Legislativo 1211/1972, de 13 de abril.
+d) La Ley 19/1974, de 17 de junio.
+e) La Ley 9/1977, de 4 de enero.
+f) Cualquier otra norma con rango de Ley, no derogada en 31 de diciembre de 1984, que afecte directa o indirectamente a los derechos del Régimen de Clases Pasivas, así como las disposiciones concordantes y complementarias y de desarrollo de las Leyes citadas en este número.
+En todo caso, las mencionadas Leyes se aplicarán con las modificaciones que se recogen en el título II de este texto.
+Se añaden los apartados 1.f) y 2.d) por el art. 60.3 y 4 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica la letra a) del apartado 1 por el art. 129.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Redactados los apartados 1.a) y b) conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 4
+
+Artículo 4. Gestión unitaria del Régimen de Clases Pasivas del Estado.
+1. De acuerdo con lo dispuesto en el artículo 25, número 3 de la Ley 12/1983, de 14 de octubre, del Proceso Autonómico, el Régimen de Clases Pasivas del Estado se gestionará de forma unitaria por los órganos de la Administración del Estado que correspondan en virtud de la legislación que sea aplicable a los derechos de que se trate de conformidad con el precedente artículo de este texto.
+2. Ello se entenderá sin perjuicio de las obligaciones que, de conformidad con el número 1 del artículo 25 de la misma Ley 12/1983, contraen las diferentes Comunidades Autónomas respecto del personal de la Administración del Estado transferido y adscrito a su servicio y que se enumeran en la letra c) del número 1 del artículo 13, en el párrafo tercero del número 3 del artículo 23 y en la letra c) del número 3 del artículo 28, todos del presente texto.
+
+## TÍTULO I
+
+Derechos pasivos del personal comprendido en el número 1 del artículo 3.° de este texto
+
+## SUBTÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Derechos pasivos
+
+### Artículo 5
+
+Artículo 5. Legalidad en la materia.
+Solamente por Ley podrán establecerse derechos pasivos distintos de los recogidos en este texto, así como ampliarse, mejorarse, reducirse o alterarse los mismos.
+
+### Artículo 6
+
+Artículo 6. Naturaleza.
+1. Las derechos pasivos son inembargables, irrenunciables o inalienables. No podrán ser objeto de cesiones, convenios o contratos de cualquier clase, originándose, transmitiéndose y extinguiéndose únicamente por las causas determinadas en este texto.
+2. Los derechos pasivos son imprescriptibles, estándose a lo previsto en el siguiente artículo 7.° respecto a la caducidad de sus efectos.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 7
+
+Artículo 7. Ejercicio.
+1. El reconocimiento de los derechos pasivos habrá de instarse por los propios interesados o por sus representantes legales, por sí o por medio de mandatario designado en forma, sin perjuicio de los supuestos en que reglamentariamente se determine la incoación de oficio del procedimiento administrativo correspondiente.
+2. El derecho al reconocimiento de las prestaciones podrá ejercitarse desde el día siguiente a aquel en que tenga lugar el hecho causante de la prestación de que se trate, sin perjuicio de que la retroactividad máxima de los efectos económicos de tal reconocimiento sea de tres meses a contar desde el día primero del mes siguiente a la presentación de la correspondiente solicitud.
+Se modifica por la disposición final 1.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifican los apartados 1 y 2 por la disposición final 1.1 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se modifican los apartados 2 y 3 por el art. 59.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Téngase en cuenta para su aplicación el art. 59.2.
+
+### Artículo 8
+
+Artículo 8. Sucesión en el ejercicio.
+1. Si iniciado de forma reglamentaria un procedimiento administrativo para el reconocimiento de algún derecho pasivo falleciera el interesado durante su tramitación y se instase su continuación por parte legítima, se ultimará aquel haciéndose la declaración que corresponda, abonándose, en su caso, a los herederos por derecho civil las cantidades devengadas.
+2. Cuando fallezca el beneficiario de alguna prestación de Clases Pasivas del Estado, los haberes en que esta se concreta, devengados y no percibidos, se abonarán a los herederos por derecho civil, a instancia de parte legítima. El ejercicio de la acción por uno de los herederos redundará en beneficio de los demás que pudieran existir. En el supuesto de que aquellos haberes hubieran sido devengados, y percibidos por el interesado o por la comunidad hereditaria, no procederá la solicitud de reintegro por los servicios de Clases Pasivas.
+La resolución sobre haberes devengados a que se refiere el párrafo anterior se adoptará por los correspondientes servicios de Clases Pasivas teniendo en cuenta tanto la documentación que, en su caso, pudiera ser aportada por el heredero, o herederos, como la obrante en dichos servicios, sin que sea necesaria, salvo que por los mismos se estime oportuno, la consulta al Servicio Jurídico de la Administración de la Seguridad Social, quedando habilitada la Dirección General de Ordenación de la Seguridad Social para dictar las instrucciones que, a tal efecto, resultaran precisas.
+3. En cualquiera de los casos a que se refieren los dos números anteriores, la solicitud habrá de formularse dentro del plazo de cinco años a contar desde el día siguiente al del fallecimiento del interesado. Transcurrido dicho término se entenderá prescrito el derecho.
+Se modifica el apartado 2 por la disposición final 2.1 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.1 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se modifica el apartado 2 por el art. 47.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+
+### Artículo 9
+
+Artículo 9. Derecho de opción por razón de incompatibilidad.
+En los casos en que asista a una persona derecho al cobro de más de una prestación de Clases Pasivas o de éstas con otra prestación del sistema público de protección social que, de acuerdo con las normas de este texto o con la legislación vigente en cada momento, sean incompatibles en su percibo simultáneo o en el de que, estando en el disfrute de una prestación, adquiriese derecho a otra u otras incompatibles con ella, el interesado podrá ejercer el derecho de opción por el cobro de la prestación que estime más conveniente.
+Se modifica, con efectos desde el 1 de enero de 2015, por la disposición final 1.1 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+
+### Artículo 10
+
+Artículo 10. Derechos pasivos del personal separado del servicio o sancionado con pérdida de empleo.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+## CAPÍTULO II
+
+Competencia y procedimiento en materia de Clases Pasivas del Estado
+
+### Artículo 11
+
+Artículo 11. Competencia para el reconocimiento de derechos pasivos y la concesión de las prestaciones de Clases Pasivas del Estado.
+1. El reconocimiento de derechos pasivos y la concesión de las prestaciones de Clases Pasivas causadas en su favor o en el de sus familiares por el personal a que se refiere el artículo 3.1 de este texto corresponde al Instituto Nacional de la Seguridad Social.
+En los procedimientos administrativos que a tal efecto se tramiten, si no hubiese recaído resolución expresa una vez transcurrido el plazo máximo fijado por la norma reguladora del procedimiento de que se trate para dictar resolución y notificarla, se entenderá desestimada la petición por silencio administrativo.
+2. Las competencias mencionadas en este precepto se entenderán sin perjuicio de las funciones que en la materia corresponda ejercer a los Servicios Jurídicos, Fiscales o Intervenciones Delegadas correspondientes.
+Se modifica el apartado 1 por la disposición final 4.1 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-4
+ Se modifica por la disposición final 2.2 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo, en la redacción dada por la disposición final 1.2 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica por la disposición final 1.2 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+
+### Artículo 12
+
+Artículo 12. Competencia para el pago de las prestaciones de Clases Pasivas del Estado.
+1. El Instituto Nacional de la Seguridad Social es la entidad gestora competente para la realización de las funciones inherentes al reconocimiento de las obligaciones y propuesta de los pagos de todas las prestaciones de Clases Pasivas.
+2. Corresponde al Instituto Nacional de la Seguridad Social la administración y disposición de los créditos para prestaciones de Clases Pasivas.
+3. La ordenación del pago de las prestaciones de Clases Pasivas y el pago material de las mismas corresponde a la Tesorería General de la Seguridad Social.
+4. La realización de las funciones de pago material de dichas prestaciones es competencia de la Tesorería General de la Seguridad Social.
+Se modifica por la disposición final 2.3 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo, en la redacción dada por la disposición final 1.3 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica por la disposición final 1.3 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se modifica por la disposición final 3.1 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Téngase en cuenta la disposición final 3.2, en cuanto a la aplicación de los apartados 1 y 4.
+ Se modifica el apartado 3 por el art. 47.2 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+ Se modifica por el art. 52.8 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Artículo 13
+
+Artículo 13. Competencia para el reconocimiento de servicios.
+1. La competencia para el reconocimiento de servicios prestados al Estado por el personal comprendido en el número 1 del artículo 3.° del presente texto a efectos de su cómputo en el Régimen de Clases Pasivas corresponde:
+a) Respecto de los servicios prestados a la Administración Civil del Estado por el personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas, a los Subsecretarios de los distintos Departamentos ministeriales, en cuanto a los prestados en los servicios centrales de cada Departamento o sus Organismos autónomos y a los Delegados del Gobierno o Gobernadores civiles en relación con los servicios prestados en servicios periféricos de ámbito regional o provincial.
+b) Respecto de los servicios prestados a la Administración militar del Estado por personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas, al Consejo Supremo de Justicia Militar.
+c) Respecto de los servicios prestados a las Administraciones Territoriales por personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas, a las autoridades con competencia en materia de personal de las correspondientes Comunidades Autónomas o Corporaciones Locales.
+d) Respecto de los servicios prestados a la Administración de Justicia por personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas, a los servicios correspondientes del Consejo General del Poder Judicial, en relación con los servicios prestados en la Carrera Judicial, y a los de la Dirección General de Relaciones con la Administración de Justicia del Ministerio de Justicia, en relación con los prestados en la Carrera Fiscal, el Secretariado de la Administración de Justicia y en los restantes Cuerpos o Escalas de la Administración de Justicia.
+e) Respecto de los servidos prestados a la Administración de las Cortes Generales por personal comprendido en el ámbito de cobertura del Régimen de Clases Pasivas, a los servidos administrativos competentes de las Cortes Generales.
+f) Respecto de los servicios prestados a la Administración de otros órganos constitucionales o estatales, cuyo personal, por expresa disposición legal, esté incluido en el ámbito de cobertura del Régimen de Clases Pasivas, a los servicios correspondientes de cada uno de estos órganos.
+g) Respecto de los servidos prestados al Estado por los ex Presidentes, Vicepresidentes y Ministros del Gobierno de la Nación a la autoridad del Ministerio de Relaciones con las Cortes y el Secretariado del Gobierno que corresponda; respecto de los prestados por los ex Fiscales generales del Estado, a la autoridad del Ministerio de Justicia que corresponda; respecto de los prestados por los ex Presidentes del Congreso de los Diputados y del Tribunal de Cuentas y por los ex Defensores del Pueblo, a la Presidencia de dicha Cámara; respecto de los prestados por los ex Presidentes del Senado a la Presidencia del mismo; respecto de los prestados por los ex Presidentes del Tribunal Constitucional, a la autoridad de dicho Tribunal que corresponda, y, finalmente, respecto de los prestados por los ex Presidentes del Consejo General del Poder Judicial y del Consejo de Estado, a la autoridad correspondiente de dichos órganos constitucionales.
+h) Respecto de los años de cotización a cualquiera de los Regímenes de la Seguridad Social o a la Mutualidad Nacional de Previsión de la Administración Local, que, de acuerdo con lo dispuesto en el artículo 32 de este texto, hayan de tenerse como años de servicio al Estado, a la correspondiente Entidad Gestora de la Seguridad Social o a la referida Mutualidad.
+2. A efectos de este artículo, se entenderá que los servicios que puedan ser reconocidos al personal comprendido en el número 1 del artículo 3.° de este texto en virtud de la legislación de indulto y amnistía o el tiempo de permanencia del mismo como funcionario en prácticas pendiente de incorporación al correspondiente Cuerpo, Escala o Plaza o como alumno de Academias Militares a partir de su promoción a Caballero Alférez Cadete, Alférez-alumno, Sargento-alumno o Guardiamarina, son servicios prestados al Estado o a la correspondiente Administración Pública.
+3. El cómputo a efectos del Régimen de Clases Pasivas de los servicios reconocidos por los órganos y entidades mencionados es de la competencia exclusiva del Instituto Nacional de la Seguridad Social.
+Se modifica el apartado 3 por la disposición final 2.4 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo el apartado 3, en la redacción dada por la disposición final 1.4 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica el apartado 3 por la disposición final 1.4 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+
+### Artículo 14
+
+Artículo 14. Revisión de actos administrativos por vía de recurso.
+1. Los acuerdos del Instituto Nacional de la Seguridad Social en materia de Clases Pasivas pondrán fin a la vía administrativa y serán recurribles ante la Jurisdicción Contencioso-Administrativa, de conformidad con lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. Con carácter previo a la vía contencioso-administrativa podrá interponerse recurso potestativo de reposición ante el Instituto Nacional de la Seguridad Social.
+2. No se reputarán en ningún caso como recursos, las solicitudes de reconocimiento o modificación de derechos pasivos que se basen en haber desaparecido la incompatibilidad o concurrencia de percepciones o situaciones que hubieran servido de fundamento a una resolución denegatoria o limitativa de los mismos, o en la existencia de hechos o derechos que no se tuvieron en cuenta o no existían al dictar el acuerdo primitivo, sin perjuicio de las reglas que sobre caducidad de los efectos de esos derechos se contienen en este texto.
+Se suprime el apartado 2, se renumera el 3 como 2 y se modifica el apartado 1 por la disposición final 2.5 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nula la modificación establecida por la disposición final 1.5 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se suprime el apartado 2, se renumera el 3 como 2 y se modifica el apartado 1, por la disposición final 1.5 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se modifica por la disposición final 2.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se modifica el apartado 2 por el art. 52.2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Artículo 15
+
+Artículo 15. Revisión de oficio de actos administrativos en materia de Clases Pasivas.
+1. La revisión de oficio de los actos administrativos en materia de Clases Pasivas se ajustará a lo dispuesto en los artículos 109, 110, 111 y 112 de la Ley de Procedimiento Administrativo de 17 de julio de 1958 y los correspondientes a las normas de adaptación de la misma a la Administración Militar.
+2. La Administración podrá reformar o modificar en cualquier tiempo, mediante acuerdo motivado los actos que, estando sujetos a revisión periódica o a determinada condición o acordados con carácter provisional, se revelen indebidos como consecuencia de dicha revisión o del cumplimiento de la condición de que se trate o de su elevación a definitivos. El carácter revisable, condicional o provisional de los actos de que se trate debe constar expresamente en el propio acto o estar previsto en una disposición de carácter general.
+3. Sin perjuicio de lo dispuesto en el número 1, la Administración podrá revisar los actos de reconocimiento del derecho a una prestación en favor de familiares motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiere percibido por tal concepto.
+Se añade el apartado 3 por la disposición final 11.1 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfundecima.
+
+### Artículo 16
+
+Artículo 16. Reintegro al Tesoro Público de las cantidades indebidamente percibidas.
+1. Las cantidades indebidamente percibidas por los beneficiarios de las prestaciones de Clases Pasivas deberán reintegrarse en los términos y condiciones previstos en la normativa sobre reintegro de prestaciones indebidas del sistema de la Seguridad Social.
+No obstante lo dispuesto en el párrafo anterior, cuando el perceptor de las cantidades que hubieran resultado indebidas continuara siendo beneficiario de la prestación que dio lugar al reintegro o de cualquiera otra de clases pasivas, podrá acordarse el pago de la deuda con cargo a las sucesivas mensualidades de pensión, en los términos y en la forma que reglamentariamente se establezca.
+2. No podrá exigirse el reintegro de lo indebidamente percibido al perceptor de las correspondientes cantidades, sin previa revisión o reforma del acto o acuerdo que hubiera dado origen al pago de tales cantidades.
+Se modifica el apartado 1 por la disposición final 2.6 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo el apartado 1, en la redacción dada por la disposición final 1.6 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica el apartado 1 por la disposición final 1.6 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade el párrafo segundo al apartado 1 por el art. 129.2 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 17
+
+Artículo 17. Interdicción de declaraciones preventivas.
+En ningún caso procederán las declaraciones preventivas de derechos pasivos que se soliciten con anterioridad al momento de ocurrencia del hecho causante de los mismos o sin que el eventual titular de aquéllos reúna todos los requisitos exigidos por este texto para la titularidad de los mismos.
+
+## SUBTÍTULO II
+
+Prestaciones del Régimen de Clases Pasivas del Estado en favor del personal comprendido en el artículo 3.º, número 1, de este texto
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 18
+
+Artículo 18. Prestaciones de Clases Pasivas.
+1. El personal comprendido en el número 1 del artículo 3.° de este texto al momento de ser jubilado o retirado o al momento de fallecer o ser declarado fallecido, causará, en su favor o en el de sus familiares, en las condiciones y con los requisitos que en el mismo texto se establecen, derecho a las prestaciones reguladas en los siguientes artículos.
+2. Tales prestaciones serán exclusivamente de carácter económico y pago periódico y se concretarán en las pensiones de jubilación o retiro, de viudedad, de orfandad y en favor de los padres que se regulan en este texto.
+
+### Artículo 19
+
+Artículo 19. Clases de pensiones.
+1. Las pensiones reguladas en este texto serán ordinarias o extraordinarias, según que su hecho causante se produzca en circunstancias ordinarias o por razón de lesión, muerte o desaparición producida en acto de servicio o como consecuencia del mismo y de acuerdo con las disposiciones de este texto.
+2. El derecho a las prestaciones de Clases Pasivas que se reconozcan en virtud de Ley a favor de persona determinada, dará origen a pensiones excepcionales que se regularán, en primer término, por lo que se disponga en la Ley de su concesión y en lo no previsto por ella por las disposiciones de este texto refundido.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 20
+
+Artículo 20. Devengo de las pensiones.
+1. Las pensiones reguladas en este texto se devengarán:
+a) Desde el primer día del mes siguiente al de la jubilación o retiro del funcionario.
+b) Desde el primer día del mes siguiente al de fallecimiento del causante, en el caso de las pensiones de viudedad y orfandad.
+c) Cuando se trate de pensiones en favor de padres, desde el primer día del mes siguiente al de fallecimiento del causante del derecho si no existiese cónyuge viudo de éste o huérfanos del mismo con aptitud legal para cobrar pensión o desde el primer día del mes siguiente a la muerte o pérdida de aptitud legal del cónyuge viudo o los huérfanos en caso de existir éstos.
+2. Las reglas que sobre el devengo de las pensiones de Clases Pasivas se contienen en el número anterior se entenderán sin perjuicio de las reglas que sobre caducidad se contienen en el número 2 del precedente artículo 7.°
+
+### Artículo 21
+
+Artículo 21. Embargo de las pensiones y suspensión de su pago.
+1. Las pensiones de Clases Pasivas solamente podrán ser embargadas en los casos y en la proporción y con la preferencia que las leyes civiles establecen.
+La autoridad judicial que decrete el embargo deberá expresar en el despacho que no existen otros bienes que deban ser preferentemente embargados y que el ordenado no excede de la porción legalmente embargable. Si no constasen estos extremos en el mandamiento, la Administración solicitará del Juez la constancia expresa de los mismos en el despacho antes de proceder a su ejecución.
+2. La Administración podrá acordar la suspensión del pago de cualquier pensión de Clases Pasivas cuando, requerido individualmente su titular con las formalidades reglamentariamente establecidas al efecto para que informe sobre su aptitud legal para la percepción de la misma o en relación con su situación económica, incumpla tal requerimiento y de su actitud activa o pasiva se deduzca un propósito deliberado de eludirlo.
+3. Asimismo, los beneficiarios de pensiones de Clases Pasivas que perciban complementos económicos cuyo disfrute se encuentre condicionado a la residencia efectiva en España, podrán ser citados a comparecencia en las oficinas de la Administración competente con la periodicidad que ésta determine.
+Si no se presenta la documentación requerida en el plazo establecido o no se comparece ante la Administración, previa citación de ésta, el complemento económico, será objeto de suspensión cautelar. Si se presenta la información solicitada o se comparece transcurridos más de 90 días desde su solicitud o citación, se podrá rehabilitar el complemento económico, si procede, con una retroactividad máxima de 90 días.
+Se añade el apartado 3 por la disposición final 1.2 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+### Artículo 22
+
+Artículo 22. Percepciones anejas a las pensiones de Clases Pasivas.
+1. Junto a la pensión de Clases Pasivas de que se trate, se percibirán las prestaciones de ayuda familiar que pudieran corresponder conforme la legislación reguladora de dichas prestaciones.
+2. Junto a las doce mensualidades ordinarias que se percibirán en el año de la pensión correspondiente, el titular de la misma percibirá dos mensualidades extraordinarias que se regirán por lo dispuesto en las siguientes normas:
+a) Se devengarán el primer día de los meses de junio y diciembre, siempre que el devengo de la pensión a que se aplique comprenda, al menos, dichas fechas, excepción hecha de lo dispuesto en el segundo párrafo de la siguiente letra c), y se percibirán, junto con la ordinaria correspondiente, en nómina de tales meses. El devengo siempre se producirá con referencia a la situación y derechos del titular de la pensión al momento del mismo.
+b) Estas dos mensualidades extraordinarias serán de la misma cuantía que las ordinarias y no podrán ser inferiores a la pensión más los complementos para mínimos que, en su caso, se apliquen.
+c) Sin perjuicio de lo dicho, en el supuesto de la primera paga extraordinaria a partir de la fecha de arranque de la pensión reconocida o del momento de la rehabilitación en el cobro de la misma en favor del pensionista que hubiera perdido el derecho al cobro por cualquier circunstancia, dicha paga se abonará en razón de una sexta parte por cada uno de los meses que medien entre el primer día de aquel en que se cuenten los efectos iniciales de la pensión o de la rehabilitación del derecho al cobro y el 31 de mayo o el 30 de noviembre siguiente, según corresponda.
+Igualmente, en el supuesto de fallecimiento del pensionista o de pérdida por éste de su derecho al cobro de la pensión por cualquier circunstancia, la paga extraordinaria siguiente a la últimamente percibida se entenderá devengada el primero del mes en que ocurriera el óbito o la pérdida del derecho al cobro y se abonará, junto con la última mensualidad de la pensión, a sus herederos por derecho civil, como haberes devengados y no percibidos, o a él mismo, en razón de una sexta parte por cada uno de los meses que medien entre el día del devengo de dicha paga extraordinaria y el 31 de mayo o el 30 de noviembre anterior, según corresponda.
+d) Las pensiones del Régimen de Clases Pasivas cuya percepción simultánea con las de cualquier otro régimen de protección social esté legalmente autorizada, serán compatibles tanto respecto de los devengos ordinarios como de los extraordinarios. Asimismo, las pensiones del Régimen de Clases Pasivas, cuya percepción simultánea con los salarios o retribuciones correspondientes a un puesto de trabajo en el sector público esté legalmente autorizada, serán compatibles tanto respecto de los devengas ordinarios como de los extraordinarios.
+Se modifican los apartados 2.a) y c) por el art. 62.1 y 2 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+ Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 23
+
+Artículo 23. Cuota de derechos pasivos.
+1. El personal comprendido en el número 1 del artículo 3.° de este texto está sujeto al pago de una cuota de derechos pasivos cuya cuantía se determinará mediante la aplicación al haber regulador que sirva de base para el cálculo de la correspondiente pensión de jubilación o retiro, reducido en su caso de acuerdo con las previsiones del número 4 del artículo 30 y de las disposiciones adicionales quinta y sexta de este texto, del tipo porcentual del 3,86 por 100. Este tipo porcentual será del 1,93 por 100 para el personal militar profesional que no sea de carrera o para el personal militar de las Escalas de Complemento o Reserva Naval; no obstante, cuando dicho personal haya cubierto el período de carencia fijado en el artículo 29 de este texto para poder causar pensión ordinaria de retiro o se haya incorporado a dichos colectivos procedente de Escalas Profesionales, el tipo porcentual de la cuota de derechos pasivos será del 3,86 por 100.
+Los funcionarios en prácticas y los alumnos de Escuelas y Academias Militares a partir de su promoción a Caballero Alférez Cadete, Alférez-alumno, Sargento-alumno o Guardiamarina, vienen sujetos al pago de la misma cuota, cuya cuantía será la que resulte de la aplicación del tipo del 3,86 por 100 al haber regulador correspondiente al empleo de Alférez o Sargento o al Cuerpo. Escala, Plaza o Carrera correspondiente.
+Mientras el funcionario preste servicios al Estado que no estén expresamente considerados como efectivos o esté en cualquier situación que no sea considerada a dichos efectos, de acuerdo con lo dicho en el artículo 32 de este texto, tampoco estará sujeto al pago de la cuota de derechos pasivos.
+2. La cuantía mensual de la cuota de derechos pasivos se obtendrá dividiendo por catorce la anual obtenida conforme lo dispuesto en el párrafo primero del número anterior y se abonará doblemente en los meses de junio y diciembre.
+3. La exacción de esta cuota se verificará mediante la correspondiente retención de su importe en cada nómina que se haga efectiva al funcionario.
+La oficina pagadora de los haberes que perciba el funcionario que se encuentre en situación de servicios especiales o militar legalmente asimilable a ésta, mientras permanezca en esta situación, retendrá el importe de la cuota de derechos pasivos correspondiente a dicho funcionario en cada nómina que le haga efectiva e ingresará en el Tesoro Público las cantidades así detraídas.
+Asimismo, en el caso del funcionario del Estado transferido a una Comunidad Autónoma, los servicios correspondientes de ésta procederán a retener el importe de la cuota en cada nómina que se le haga efectiva a aquél y a ingresar en el Tesoro Público las cantidades retenidas.
+Si por cualquier circunstancia no fuera posible la detracción de la cuota en nómina, el funcionario deberá ingresar mensualmente en el Tesoro directamente las cantidades correspondientes a las cuotas que vaya devengando.
+4. Corresponde al Gobierno establecer, en lo sucesivo, los tipos porcentuales determinados en el número 1 del presente artículo.
+Se añade el apartado 4 por el art. 47.3 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+ Se modifica el apartado 1 por el art. 52.3 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Artículo 24
+
+Artículo 24. Reglas sobre nacionalidad.
+1. La pérdida de la nacionalidad española del personal comprendido en el número 1 del artículo 3.° de este texto, no supondrá la pérdida de los derechos pasivos, que, para sí o sus familiares, pudiera haber causado.
+2. La carencia de nacionalidad española o la pérdida de la misma en los familiares del mismo personal no les privará de los derechos pasivos que pudieran corresponderles.
+
+### Artículo 25
+
+Artículo 25. Incompatibilidad interna de pensiones.
+1. Es incompatible la percepción simultánea de más de tres pensiones ordinarias de Clases Pasivas de jubilación, viudedad, orfandad o en favor de los padres causadas por diferente persona.
+2. Es incompatible la percepción simultánea de dos o más pensiones ordinarias de Clases Pasivas causadas en su favor o en el de sus familiares por la misma persona.
+
+### Artículo 26
+
+Artículo 26. Principio de no duplicidad de cobertura.
+1. El personal comprendido en el número 1 del artículo 3.° de este texto que cause pensión en su favor o en el de sus familiares en cualquier Régimen de la Seguridad Social y además en el Régimen de Clases Pasivas como consecuencia de una única prestación de servicios a la Administración, deberá optar por el percibo de la pensión que considere más conveniente, sin que pueda percibir ambas a la vez.
+2. Si dicho personal o sus derechohabientes optaran por el percibo de las pensiones ajenas al Régimen de Clases Pasivas, pero acreditaran la prestación por el causante de los derechos pasivos de algún periódo de servicios a la Administración no simultáneos con el que ha dado origen a aquéllas, tendrán derecho a percibir las pensiones del Régimen de Clases Pasivas que se deduzcan, exclusivamente, de dicho período de tiempo.
+
+### Artículo 27
+
+Artículo 27. Revalorización de pensiones, complementos económicos y limitaciones en el crecimiento de las mismas.
+1. Las pensiones de clases pasivas, incluido el importe de pensión mínima, y los haberes reguladores aplicables para la determinación de la cuantía de las mismas mantendrán su poder adquisitivo en los términos previstos en esta ley.
+2. A estos efectos, las pensiones de clases pasivas, incluido el importe de la pensión mínima, se revalorizarán al comienzo de cada año en el porcentaje equivalente al valor medio de las tasas de variación interanual expresadas en tanto por ciento del Índice de Precios al Consumo de los doce meses previos a diciembre del año anterior.
+3. Si el valor medio al que se refiere el apartado anterior fuera negativo, el importe de las pensiones no variará al comienzo del año.
+4. Las pensiones de clases pasivas reconocidas al amparo de las disposiciones de este texto que no alcancen el importe mínimo de protección, establecido en atención a su clase en la Ley de Presupuestos Generales del Estado para cada ejercicio económico, podrán ser complementadas hasta dicho importe, en los términos y en la forma que reglamentariamente se determine, siempre que sus beneficiarios residan en territorio español.
+El importe del complemento económico en ningún caso podrá superar la cuantía establecida en cada ejercicio para las pensiones de jubilación e invalidez en su modalidad no contributiva y será incompatible con la percepción por el pensionista de ingresos anuales superiores a los fijados al efecto por la citada ley.
+5. El importe de las pensiones de clases pasivas se ajustará, en la forma que reglamentariamente se determine, a las normas que sobre limitación en el crecimiento y señalamiento inicial de pensiones, se determinen para cada año en la correspondiente Ley de Presupuestos Generales del Estado, salvo los supuestos contemplados en el número 2 del artículo 50. Si como consecuencia de ello su importe hubiera de minorarse, esta minoración no supondrá merma alguna de los otros efectos anejos al reconocimiento del derecho pasivo.
+Téngase en cuenta que en 2022 la actualización de las pensiones se realizará de acuerdo con lo establecido en el título IV y disposiciones concordantes de la Ley 22/2021, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2022, no siendo de aplicación lo dispuesto en este artículo, según determina su disposición adicional cuadragésima quinta. Ref. BOE-A-2021-21653#da-45
+Se modifica por el art. 2.1 de la Ley 21/2021, de 28 de diciembre. Ref. BOE-A-2021-21652#a2
+ Téngase en cuenta que en 2022 la actualización de las pensiones se realizará de acuerdo con lo establecido en el título IV y disposiciones concordantes de la Ley 22/2021, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2022, no siendo de aplicación lo dispuesto en este artículo, según determina su disposición adicional cuadragésima quinta. Ref. BOE-A-2021-21653#da-45
+ Se suspende la aplicación de este artículo en 2021, por la disposición adicional 48 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#da-49, realizándose la revalorización de las pensiones de acuerdo con lo establecido en el título IV y disposiciones concordantes de la citada Ley
+ Se suspende la aplicación de este artículo en 2020, por la disposición adicional única del Real Decreto-ley 1/2020, de 14 de enero. Ref. BOE-A-2020-501#da, realizándose la revalorización de las pensiones de acuerdo con lo establecido en el art. 1 del citado Real Decreto-ley.
+ Se suspende la aplicación de este artículo, desde el 1 enero de 2020 y en tanto entre en vigor la Ley de Presupuestos Generales del Estado para dicho año u otra norma con rango legal que regule esta materia, por el art. 7.1.b) del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a7
+ Se modifica el apartado 1 por la disposición final 3 de la Ley 23/2013, de 23 de diciembre. Ref. BOE-A-2013-13617.
+ Se modifica el apartado 2 por la disposición final 1.3 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Téngase en cuenta para su aplicación la disposición transitoria 6.
+ Se deja sin efecto para el ejercicio 2012 la actualización prevista en el apartado 1 párrafo 2 y se suspende la aplicación del apartado 1 párrafo 1 para el ejercicio 2013 por el art. 2 del Real Decreto-ley 28/2012, de 30 de noviembre. Ref. BOE-A-2012-14695.
+ Se suspende la aplicación del apartado 1 para el ejercicio 2011 por el art. 4.2 del Real Decreto-ley 8/2010, de 20 de mayo. Ref. BOE-A-2010-8228
+ Se deroga el párrafo tercero del apartado 1 por la disposición derogatoria 6 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Se modifica por el art. 61 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica el apartado 2 por el art. 47.4 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+
+## CAPÍTULO II
+
+Pensiones ordinarias de jubilación y retiro en favor del personal mencionado en la letra a) del número 1 del artículo 3.° de este texto
+
+### Artículo 28
+
+Artículo 28. Hecho causante de las pensiones.
+1. El hecho causante de las pensiones que se regulan en el presente capítulo es la jubilación o retiro del personal correspondiente.
+2. La referida jubilación o retiro puede ser:
+a) De carácter forzoso, que se declarará automáticamente al cumplir dicho personal la edad legalmente señalada para cada caso como determinante de la jubilación o retiro.
+No obstante, si el personal de que se trate, al cumplir la edad para su jubilación o retiro forzoso, tuviera reconocidos doce años de servicios efectivos al Estado y no hubiera completado los quince que, como mínimo, se exigen en el siguiente artículo 29 para causar derecho a pensión en su favor, podrá solicitar prorroga en el servicio activo del órgano competente para acordar su jubilación, prorroga que comprendera exclusivamente el periodo temporal que le falte para cubrir el de carencia antes mencionado, y que se concederá siempre que el interesado pueda considerarase apto para el servicio.
+b) De carácter voluntario, que se declarará a instancia de parte, siempre que el interesado tenga cumplidos los sesenta años de edad y reconocidos treinta años de servicios efectivos al Estado. También podrá anticiparse la edad de jubilación o retiro con carácter voluntario cuando así lo disponga una Ley, y se cumplan por el solicitante las condiciones y requisitos que, a tal efecto, se determinen.
+c) Por incapacidad permanente para el servicio o inutilidad, que se declarará de oficio o a instancia de parte, cuando el interesado venga afectado por una lesión o proceso patológico, somático o psíquico que esté estabilizado y sea irreversible o de remota o incierta reversibilidad, cuya lesión o proceso le imposibiliten totalmente para el desempeño de las funciones propias de su Cuerpo, Escala, plaza o carrera, de acuerdo con el dictamen preceptivo y vinculante del órgano médico que en cada caso corresponda.
+3. La jubilación o retiro será acordada, en todos los supuestos, por:
+a) Cuando se trate de jubilación forzosa o de jubilación por incapacidad permanente para el servicio de funcionarios civiles de la Administración del Estado, por el Subsecretario del Departamento ministerial que corresponda, cuando el funcionario esté destinado al momento de la jubilación en servicios centrales de la Administración del Estado y demás Entidades dependientes de la misma o por el Delegado del Gobierno o Gobernador Civil que corresponda, cuando el funcionario esté destinado en servicios periféricos de ámbito regional o provincial, respectivamente.
+b) Cuando se trate de jubilación voluntaria de funcionario civil de la Administración del Estado, por el Subsecretario del Departamento ministerial al que esté adscrito el Cuerpo o Escala a que pertenezca el funcionario, siendo el Director general de la Función Pública del Ministerio para las Administraciones Públicas la autoridad competente para acordarla, en caso de que el funcionario pertenezca a un Cuerpo o Escala adscrito al Ministerio para las Administraciones Públicas y dependiente de la Secretaría de Estado para la Administración Pública.
+c) Cuando se trate de jubilación de cualquier clase de funcionario del Estado transferido a Comunidades Autónomas, por la correspondiente Consejería o Departamento de Función Pública.
+d) Cuando se trate de retiros de cualquier clase, por el Ministro de Defensa.
+e) Cuando se trate de jubilación de cualquier clase de funcionarios de la Administración de Justicia, por los órganos correspondientes del Consejo General del Poder Judicial, cuando el funcionario pertenezca a la Carrera Judicial, y por la Dirección General de Relaciones con la Administración de Justicia del Ministerio de Justicia, cuando el funcionario pertenezca a la Carrera Fiscal, al Secretariado de la Administración de Justicia o a los restantes Cuerpos o Escalas de la Administración de Justicia.
+f) Cuando se trate de jubilación de cualquier clase de funcionarios de las Cortes Generales, por los servicios administrativos competentes de las Cortes Generales.
+g) Cuando se trate de jubilación de cualquier clase de funcionarios de órganos constitucionales o estatales, incluidos en el ámbito de cobertura del Régimen de Clases Pasivas, por los servicios correspondientes del órgano de que se trate.
+Véase, en cuanto a la aplicación del apartado 2.b) desde el 1 de enero de 2011, la disposición adicional 9 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica la letra c) del apartado 2 por la disposición final 1.1 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Se modifica la letra b) del apartado 2 por el art. 47.5 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347 y la letra a) del apartado 1 por el art. 2.1 de la Ley 5/1990, de 29 de junio.Ref. BOE-A-1990-15348
+ Téngase en cuenta que el apartado 1.a) ya estaba modificado por el Real Decreto-Ley 7/1989, de 29 de diciembre.
+ Se modifica la letra a) del apartado 2 por el art. 5.1 del Real Decreto-Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+ Redactado el apartado 3.a) conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 29
+
+Artículo 29. Período de carencia.
+Para que el personal comprendido en este capítulo cause en su favor derecho a la pensión ordinaria de jubilación o retiro, deberá haber completado quince años de servicios efectivos al Estado.
+Se modifica por el art. 52.4 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Artículo 30
+
+Artículo 30. Haberes reguladores.
+1. Los haberes reguladores aplicables para la determinación de las pensiones de Clases Pasivas causados en su favor por el personal comprendido en este capítulo, se establecerán en la Ley de Presupuestos Generales del Estado para cada ejercicio económico.
+2. En el caso del personal ingresado con posterioridad a 1 de enero de 1985, en algún Cuerpo, Escala, plaza, empleo o categoría administrativa, sea proveniente o no de algún otro Cuerpo, Escala, plaza, empleo o categoría, los haberes reguladores correspondientes a los servicios prestados después de dicha fecha se asignarán en función del grupo de clasificación en que se encuadren los Cuerpos, Escalas, plazas, empleos o categorías en que prestara servicios, de acuerdo con la titulación académica exigida para el acceso a los mismos y conforme las reglas del artículo 25 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. En el caso del personal proveniente de algún Cuerpo, Escala, plaza, empleo o categoría administrativa, los haberes reguladores correspondientes se tendrán en cuenta, sin efectos retroactivos, exclusiva-mente para el cálculo de la parte de pensión correspondiente a los años de servicio prestados con posterioridad al 1 de enero de 1985.
+Lo dispuesto en el párrafo anterior no se aplicará si el cambio de clasificación administrativa se produce en el curso natural de la carrera profesional del personal correspondiente por ascenso en la misma.
+Asimismo, en el supuesto de que, con posterioridad a 1 de enero de 1985, hubieran variado con carácter general las condiciones de titulación exigidas para el ingreso en determinado Cuerpo, Escala, plaza, empleo o categoría, y se hubiera producido un cambio en el encuadramiento de dicho Cuerpo, Escala, plaza, empleo o categoría, en los grupos de clasificación por titulación del artículo 25 de la Ley 30/1984, de 2 de agosto, el haber regulador aplicable a los servicios prestados por el funcionario en el Cuerpo, Escala, plaza, empleo o categoría después del cambio de condiciones de titulación, será el correspondiente al nuevo grupo de clasificación, sin que, en ningún caso, tenga aquél efecto retroactivo.
+3. En el caso del personal ingresado al servido de la Administración Civil o Militar del Estado, de la de Justicia o de las Cortes Generales con anterioridad a 1 de enero de 1985, sin perjuicio de lo dicho en el número anterior que pueda serle de aplicación, los haberes reguladores se asignarán:
+a) Respecto de los servicios prestados a la Administración Civil o Militar del Estado o a la de Justicia, de acuerdo con el índice de proporcionalidad y grado de carrera administrativa, o con el índice multiplicador legalmente atribuido en 31 de diciembre de 1984 a los distintos Cuerpos, Escalas, plazas, empleos o categorías en que haya prestado servicios a lo largo de su vida administrativa.
+b) Respecto de los servicios prestados a las Cortes Generales, se asignarán los haberes reguladores en función de los Cuerpos o Escalas en que se hayan prestado éstos.
+La Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda fijará, por analogía de funciones y titulación, el haber regulador que resulte aplicable a los servicios prestados en Cuerpos, Escalas, plazas y empleos o categorías que no tuvieran asignado a 31 de diciembre de 1984 índice de proporcionalidad y grado de carrera administrativa o índice multiplicador, oído el Organismo o Departamento ministerial al que correspondan las competencias administrativas sobre los correspondientes Cuerpos, Escalas, plazas, empleos o categorías.
+4. El haber regulador a efectos pasivos correspondiente a los servicios prestados por el funcionario en régimen de jornada reducida por tiempo igual o superior a un año, se minorara proporcionalmente a la importancia económica de dicha reducción en las retribuciones percibidas por el mismo en activo.
+5. En ningún caso, el impone de los haberes reguladores correspondientes al funcionario se entenderá incrementado con el de las pensiones anejas a cruces, medallas y recompensas, sin perjuicio del percibo de las mismas por la vía que proceda.
+Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 31
+
+Artículo 31. Cálculo de pensiones.
+1. En el caso del personal que, desde la fecha de su ingreso al servicio del Estado hasta el momento de ser declarado jubilado o retirado, haya prestado servicios en el mismo Cuerpo, Escala, plaza, empleo o categoría, se tomará para el cálculo de su pensión anual de jubilación o retiro, forzoso o voluntario, el haber regulador que le corresponda y a él se aplicará, a idéntico efecto, el porcentaje de cálculo que, atendidos los años completos de servicios efectivos al Estado que tuviera reconocidos, proceda de entre los que a continuación se indican:
+Años de servicio
+ Porcentaje
+ del regulador
+ 1
+ 1,24
+ 2
+ 2,55
+ 3
+ 3,88
+ 4
+ 5,31
+ 5
+ 6,83
+ 6
+ 8,43
+ 7
+ 10,11
+ 8
+ 11,88
+ 9
+ 13,73
+ 10
+ 15,67
+ 11
+ 17,71
+ 12
+ 19,86
+ 13
+ 22,10
+ 14
+ 24,45
+ 15
+ 26,92
+ 16
+ 30,57
+ 17
+ 34,23
+ 18
+ 37,88
+ 19
+ 41,54
+ 20
+ 45,19
+ 21
+ 48,84
+ 22
+ 52,50
+ 23
+ 56,15
+ 24
+ 59,81
+ 25
+ 63,46
+ 26
+ 67,11
+ 27
+ 70,77
+ 28
+ 74,42
+ 29
+ 78,08
+ 30
+ 81,73
+ 31
+ 85,38
+ 32
+ 89,04
+ 33
+ 92,69
+ 34
+ 96,35
+ 35 y más
+ 100,00
+2. En el caso que, desde la fecha de ingreso al servicio del Estado hasta el momento de ser declarado jubilado o retirado, haya prestado servicios en distintos Cuerpos, Escalas, plazas, empleos o categorías, el cálculo de la correspondiente pensión de jubilación o retiro forzoso o voluntario, se hará a través de la siguiente fórmula:
+P = R1C1 + (R2-R1)C2 + (R3-R2)C3 + ....
+siendo P la cuantía de la pensión de jubilación o retiro; siendo R1, R2, R3 .... los haberes reguladores correspondientes al primer y a los sucesivos Cuerpos, Escalas, plazas, empleos o categorías en que hubiera prestado servicios el funcionario, y siendo C1, C2, C3..., los porcentajes de cálculo correspondientes a los años completos de servicio efectivo transcurridos desde el acceso al primer y a los sucesivos Cuerpos, Escalas, plazas, empleos o categorías hasta el momento de jubilación o retiro, de conformidad con la tabla de porcentajes señalada en el número anterior de este precepto.
+La precedente fórmula será de aplicación aun en el supuesto de que los servicios prestados por el funcionario en los distintos Cuerpos, Escalas, plazas, empleos o categorías pudieran dar origen, aisladamente considerados, a distintas pensiones, de acuerdo con lo dispuesto en el número 2 del artículo 25 de este texto.
+3. En el supuesto contemplado en el número anterior, a efectos de determinación de los porcentajes de cálculo aplicables, las fracciones de tiempo superiores al año que correspondieran a los distintos servicios prestados por el personal comprendido en este capítulo, se computarán como tiempo correspondiente a los servicios prestados a continuación hasta llegar a los servicios últimamente prestados en que el exceso de tiempo resultante no se computará.
+4. El cálculo de la pensión de jubilación o retiro por incapacidad permanente para el servicio del personal comprendido en este capítulo, se verificará de acuerdo con las reglas expresadas en los dos números anteriores, con la particularidad de que se entenderán como servicios efectivos prestados en el cuerpo, escala, plaza, empleo o categoría a que figurara adscrito en el momento en que se produzca el cese por jubilación o retiro por incapacidad permanente, los años completos que faltaran al interesado para alcanzar la correspondiente edad de jubilación o retiro forzoso, y se tendrán en cuenta, a los efectos oportunos, para el cálculo de la pensión que corresponda. Se exceptuarán de este cómputo especial de servicios los supuestos en que el personal de que se trata sea declarado jubilado o retirado por incapacidad permanente mientras estuviera en situación de excedencia voluntaria o suspensión firme o situación militar legalmente asimilable.
+5. La cuantía mensual de las pensiones se obtendrá dividiendo por catorce la pensión anual determinada según lo previsto con anterioridad.
+6. A los exclusivos efectos del cálculo de las pensiones reguladas en el presente titulo, de oficio o a instancia de parte, podrán excluirse periodos de servicio acreditados cuando su toma en consideración diera lugar a un menor importe de la pensión que, en otro caso, se hubiera obtenido.
+Se modifica el apartado 4 por el art. 129.3 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se añade el apartado 6 por el art. 52.1 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+ Se modifica la escala de porcentajes del apartado 1 por el art. 47.6 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+ Se modifica la escala de porcentajes del apartado 1 por el art. 52.5 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+ Se modifica la escala de porcentajes del apartado 1 por el art. 62.3 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+ Redactados los apartados 1, 4 y 5 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 32
+
+Artículo 32. Servicios efectivos al Estado.
+1. A todos los efectos de Clases Pasivas y, en especial, a los de los artículos 28, 29 y 31 de este texto, se entenderán como años de servicio efectivo al Estado aquellos que:
+a) El personal comprendido en este capítulo permanezcan en servicio activo en algún Cuerpo, Escalas, plaza, empleo o categoría.
+b) El personal de que se trata haya permanecido en situación de servicios especiales y en las extinguidas de excedencia especial o supernumerario, así como en situación de excedencia forzosa y en las situaciones militares que resulten legalmente asimilables a todas éstas.
+c) El personal de que se trata tenga reconocidos al amparo de la Ley 70/1978, de 26 de diciembre, de acuerdo con los procedimientos correspondientes, siempre que los mismos no se cuenten como de cotización en cualquier régimen público de Seguridad Social o sustitutorio de ésta o en el de la Mutualidad Nacional de Previsión de la Administración Local.
+d) El personal de que se trata tenga reconocidos al amparo de la legislación de indulto y amnistía por delitos o faltas cometidas por causa de intencionalidad política que haga referencia a la guerra civil 1936-1939.
+e) El personal de que se tata tenga reconocidos como de cotización a cualquier régimen público de Seguridad Social o sustitutorio de éste o a la Mutualidad Nacional de Previsión de Administración Local, siempre que, en su caso, la prestación laboral que haya dado origen a los mismos no sea simultánea a la de servicios al Estado. Si los años de cotización que se abonen de este modo en el Régimen de Clases Pasivas dieran derecho a pensión al interesado en cualquiera de los regímenes de previsión ajenos, la pensión de Clases Pasivas en que se hayan abonado aquéllos será incompatible con la otra que pudiera corresponder y en la que se hubieran computado tales años de cotización.
+f) El personal de que se trata haya permanecido en prácticas o como alumno de las Academias y Escuelas Militares a partir de su promoción a Caballero Alférez Cadete, Alférez-Alumno, Sargento-Alumno o Guardiamarina con un máximo de tres.
+g) El personal de que se trata tenga reconocidos a efectos de Seguridad Social de otros países cuando exista, a tal efecto, Convenio o Reglamento Internacional aplicable por el Régimen de Clases Pasivas, y en los términos y condiciones que resulten de los mencionados instrumentos internacionales y de las normas reglamentarias que fueran aplicables al caso.
+2. Los servicios a que se refieren las letras anteriores, se entenderán prestados:
+a) Los referidos en la letra a), en el Cuerpo, Escala, plaza, empleo o categoría que, en cada caso, corresponda.
+b) Los referidos en la letra b) del número anterior, en el Cuerpo, Escala, plaza, empleo o categoría correspondiente al interesado en el momento de ser declarado en las situaciones referidas en el mismo lugar.
+c) Los referidos en la letra c), en el Cuerpo, Escala, plaza, empleo o categoría, que resulte asimilable, por razón de las funciones, al puesto de trabajo que hubiera dado origen al reconocimiento de servicios previos y, en caso de que no fuera posible la asimilación, en el Cuerpo, Escala, plaza, empleo o categoría de menor haber regulador de los que correspondan al interesado.
+d) Los referidos en la letra d), en el Cuerpo, Escala, plaza, empleo o categoría que determine el acuerdo de reconocimiento.
+e) Los referidos en la letra e), en el Cuerpo, Escala, plaza, empleo o categoría de menor haber regulador de los correspondientes al interesado.
+f) Los referida en la letra f), en el Cuerpo, Escala, plaza o carrera correspondiente o en el empleo de Alférez o Sargento.
+3. Sin perjuicio de lo dicho en la letra b) del número 1 de este precepto, no se entenderá como de servicios al Estado, a los efectos indicados en el número 1 del presente artículo, el tiempo que permanezca el personal correspondiente en filas prestando el servicio militar obligatorio o el servicio social femenino obligatorio, ni el tiempo equivalente a éstos, si prestara dicho servicio militar en cualquiera otra forma o siendo alumno de alguna Escala o Academia Militar. Tampoco se entenderá como de servicios al Estado, a los efectos indicados, el tiempo de permanencia del personal correspondiente en el desempeño de la prestación social sustitutoria.
+El tiempo que exceda de los períodos mencionados en el párrafo anterior y que permanezca el personal de que se trata prestando el servicio militar, servicio social femenino o como Caballero Cadete, Alumno o Aspirante de Escuelas y Academias Militares se entenderá, a todos los efectos, como de servicios al Estado, que se considerarán prestados como Clase de Tropa o Marinería.
+4. Esta enumeración de servicios efectivos al Estado tiene carácter taxativo, sin perjuicio del reconocimiento de otros servicios que, en algún caso individual puedan haberse reconocido al funcionario por sentencia judicial o acto propio de la Administración.
+No obstante lo dicho, vara el caso de las pensiones de jubilación o retiro del funcionario incapacitado permanentemente para el servicio, se contarán como servicios efectivos los años que faltaran al incapacitado para alcanzar la edad de jubilación o retiro forzoso, en los términos del número 4 del precedente artículo 31.
+Se modifica el apartado 3 por la disposición final 4.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-4
+ Se añade la letra g) al apartado 1 por el art. 47.8 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+ Redactados los apartados 1.f) y 4 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 33
+
+Artículo 33. Incompatibilidades.
+1. Las pensiones de jubilación o retiro, a que se refiere este Capítulo, serán incompatibles con el desempeño de un puesto de trabajo o alto cargo en el sector público por parte de sus titulares, entendido éste de conformidad con lo dispuesto en el párrafo segundo del apartado 1 del artículo 1 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+Además, no se podrá percibir la pensión de jubilación o retiro de Clases Pasivas con cualquier otra remuneración con cargo a los presupuestos de las Administraciones Públicas y de los Entes, Organismos y Empresas de ellas dependientes o con cargo a los de los órganos constitucionales.
+A estos efectos, se entenderá por remuneración cualquier derecho de contenido económico derivado, directa o indirectamente, de una prestación o servicio personal, sea su cuantía fija o variable y su devengo periódico u ocasional.
+No obstante lo anterior, se aplicarán a este régimen de incompatibilidad las excepciones contempladas en el artículo 19 y en la disposición adicional novena de la Ley 53/1984 y, en el caso de que no se perciban retribuciones periódicas por el desempeño de cargos electivos como miembros de las Asambleas Legislativas de las Comunidades Autónomas o de las Corporaciones Locales, las previstas en el artículo 5 de la misma Ley.
+2. Asimismo, con carácter general, el percibo de las pensiones de jubilación o retiro será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
+Sin perjuicio de lo establecido en el párrafo anterior, el percibo de las pensiones de jubilación o retiro, en el supuesto contemplado en la letra a) del artículo 28.2 será compatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social, así como con la percepción de la prestación o subsidio por desempleo generados a consecuencia de dicha actividad, siempre y cuando el acceso a la pensión haya tenido lugar al menos un año después de haber cumplido la edad que en cada caso resulte de aplicación, según lo establecido en el artículo 28.2.a).
+La cuantía de la pensión de jubilación compatible con el trabajo será equivalente a un porcentaje del importe resultante en el reconocimiento inicial, una vez aplicado, si procede, el límite máximo de pensión pública, o del que se esté percibiendo, en el momento de inicio de la compatibilidad con el trabajo, excluido, en todo caso, el complemento por mínimos, cualquiera que sea la jornada laboral o la actividad que realice el pensionista. Este porcentaje del importe de la pensión de jubilación se calculará en función del número de años que se haya demorado el acceso a dicha pensión de acuerdo con la siguiente escala:
+a) Si se demora un año el acceso a la pensión de jubilación el porcentaje será del 45 por ciento de la pensión.
+b) Si se demora dos años el acceso a la pensión de jubilación, el porcentaje a percibir será del 55 por ciento de la pensión.
+c) Si se demora tres años el acceso a la pensión de jubilación, el porcentaje será del 65 por ciento de la pensión.
+d) Si se demora cuatro años el acceso a la pensión de jubilación, el porcentaje será del 80 por ciento de la pensión.
+e) Si se demora cinco años el acceso a la pensión de jubilación, el porcentaje será del 100 por ciento de la pensión.
+El porcentaje de pensión a percibir al inicio de la situación de jubilación activa, se incrementará 5 puntos porcentuales por cada 12 meses ininterrumpidos que se permanezca en la situación de jubilación activa, con el máximo del 100 por ciento de la pensión. A efectos de la aplicación de los porcentajes para la determinación de los años durante los cuales se haya demorado el acceso a la pensión de jubilación, se tomarán años completos, sin que se equiparen a ellos las fracciones de los mismos.
+No obstante, si la actividad se realiza por cuenta propia y se acredita tener contratado para la realización de la propia actividad, al menos, a un trabajador por cuenta ajena con carácter indefinido y con una antigüedad mínima de 18 meses, o si se contrata con carácter indefinido a un nuevo trabajador por cuenta ajena que no haya tenido vínculo laboral con el trabajador autónomo en los dos años anteriores al inicio de la jubilación activa, la cuantía de la pensión compatible con el trabajo alcanzará el 75 por ciento cuando la demora en el acceso a la pensión de jubilación haya sido de entre uno y tres años, aplicándose el porcentaje general desde el cuarto año de demora.
+La pensión se revalorizará en su integridad en los términos establecidos para las pensiones del sistema de la Seguridad Social. No obstante, en tanto se mantenga el trabajo compatible, el importe de la pensión más las revalorizaciones acumuladas se reducirá en el porcentaje que corresponda conforme lo establecido en este artículo.
+La percepción de la pensión de jubilación de acuerdo con lo dispuesto en este apartado será compatible con el complemento previsto en la disposición adicional decimoséptima, en cualquiera de sus modalidades. En todo caso, mientras se mantenga este tipo de jubilación activa no se generará incremento alguno del complemento.
+El beneficiario tendrá la consideración de pensionista a todos los efectos si bien no causará derecho a los complementos para pensiones inferiores a la mínima durante el tiempo en el que compatibilice la pensión con el trabajo. Finalizada la relación laboral por cuenta ajena o el trabajo por cuenta propia, se restablecerá el percibo íntegro de la pensión de jubilación.
+3. El percibo de la pensión de jubilación será compatible con el trabajo por cuenta ajena o por cuenta propia de las personas que realicen una actividad artística.
+A efectos de la compatibilidad regulada en el párrafo anterior, se entiende por actividad artística, la realizada por las personas que desarrollan actividades artísticas, sean dramáticas, de doblaje, coreográfica, de variedades, musicales, canto, baile, de figuración, de especialistas, de dirección artística, de cine, de orquesta, de adaptación musical, de escena, de realización, de coreografía, de obra audiovisual, artista de circo, artista de marionetas, magia, guionistas, y, en todo caso, la desarrollada por cualquier persona cuya actividad sea reconocida como artista intérprete o ejecutante en el título I del libro segundo del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, o como artista, artista intérprete o ejecutante por los convenios colectivos que sean de aplicación en las artes escénicas, la actividad audiovisual y la musical, conforme al artículo 1. 2, párrafo 2.º del Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad.
+De igual forma, se incluye dentro del ámbito de la compatibilidad el trabajo por cuenta ajena y la actividad por cuenta propia desempeñada por autores de obras literarias, artísticas o científicas, tal como se definen en el capítulo I del título II del libro primero del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, se perciban o no derechos de propiedad intelectual por dicha actividad, incluidos los generados por su transmisión a terceros y con independencia de que por la misma actividad perciban otras remuneraciones conexas.
+En estos supuestos, la cuantía de la pensión de jubilación o retiro de carácter forzoso será compatible al cien por ciento con esta actividad por cuenta ajena o por cuenta propia. En el caso de pensiones de jubilación o retiro de carácter voluntario, sus beneficiarios podrán acceder a esta compatibilidad a partir del momento en que cumplan la edad a la que se refiere la letra a) del apartado anterior.
+El importe de la pensión de jubilación contributiva compatible con la actividad artística incluye el complemento para pensiones inferiores a la mínima, el complemento por maternidad o reducción de la brecha de género y el complemento económico al que se refiere la disposición adicional decimoséptima en cualquiera de sus modalidades.
+Los perceptores de jubilación forzosa que realicen una actividad artística causarán alta y cotizarán en los términos previstos en los artículos 153 ter y 310 bis del texto refundido de Ley General de la Seguridad Social.
+El beneficiario tendrá la consideración de pensionista a todos los efectos.
+No podrá acogerse a esta compatibilidad el beneficiario de una pensión de jubilación que, además de desarrollar la actividad o percibir los ingresos a que se refieren los párrafos anteriores, realice cualquier otro trabajo por cuenta ajena o por cuenta propia diferente a la actividad artística que dé lugar a su inclusión en el campo de aplicación del Régimen General o de alguno de los regímenes especiales de la Seguridad Social.
+4. El percibo de las pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
+No obstante, en los términos que reglamentariamente se determine, en los supuestos de pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad, cuando el interesado no esté incapacitado para toda profesión u oficio, se podrá compatibilizar el percibo de la pensión con el desempeño de dicha actividad siempre que sea distinta a la que venía realizando al servicio del Estado, así como con la percepción de la prestación o subsidio por desempleo generados a consecuencia de dicha actividad. En este caso, y mientras dure dicha situación, el importe de la pensión reconocida, se reducirá al 75 por ciento de la correspondiente cuantía, si se acreditan más de 20 años de servicios efectivos al Estado; o al 55 por ciento, si el interesado hubiera cubierto menos de 20 años de servicios al momento de su jubilación o retiro .
+Téngase en cuenta que esta actualización de los apartados 2, 3 y 4, establecida por el art. 3 del Real Decreto-ley 11/2024, de 23 de diciembre. Ref. BOE-A-2024-26917, entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
+ Redacción anterior:
+ "2. Asimismo, con carácter general, el percibo de las pensiones de jubilación o retiro será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
+ Sin perjuicio de lo establecido en el párrafo anterior, el percibo de las pensiones de jubilación o retiro, en el supuesto contemplado en la letra a) del artículo 28.2 será compatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social, en los siguientes términos:
+ a) La edad de acceso a la pensión de jubilación o retiro debe ser, al menos, la establecida como edad de jubilación forzosa para el correspondiente colectivo de funcionarios públicos.
+ b) El porcentaje aplicable al haber regulador a efectos de determinar la cuantía de la pensión debe ser del cien por cien.
+ En caso de desempeñar una actividad compatible, la cuantía de la pensión será equivalente al cincuenta por ciento del importe resultante en el reconocimiento inicial, una vez aplicado, si procede, el límite máximo de pensión pública, o el que el pensionista esté percibiendo en la fecha de inicio de la actividad, excluido, en todo caso, el complemento por mínimos, que no se podrá percibir durante el tiempo en que se compatibilice pensión y actividad.
+ No obstante, si la actividad se realiza por cuenta propia y se acredita tener contratado, al menos, a un trabajador por cuenta ajena, la cuantía de la pensión compatible con el trabajo alcanzará al cien por ciento.
+ La pensión se revalorizará en su integridad, en los términos establecidos para las pensiones del Régimen de Clases Pasivas. No obstante, en tanto se desempeñe el trabajo compatible, el importe de la pensión más las revalorizaciones acumuladas se reducirá en un cincuenta por ciento. Esta reducción no será aplicable cuando la pensión de jubilación o retiro sea compatible con la actividad por cuenta propia y se acredite tener contratado al menos un trabajador por cuenta ajena o se trate de una actividad artística.
+ 3. No será exigible el cien por ciento del haber regulador cuando el trabajo por cuenta ajena o por cuenta propia de las personas que realicen una actividad artística a las que se refiere el artículo 249 quater del texto refundido de Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
+ A efectos de la compatibilidad regulada en el párrafo anterior, se entiende por actividad artística, la realizada por las personas que desarrollan actividades artísticas, sean dramáticas, de doblaje, coreográfica, de variedades, musicales, canto, baile, de figuración, de especialistas, de dirección artística, de cine, de orquesta, de adaptación musical, de escena, de realización, de coreografía, de obra audiovisual, artista de circo, artista de marionetas, magia, guionistas, y, en todo caso, la desarrollada por cualquier persona cuya actividad sea reconocida como artista intérprete o ejecutante en el título I del libro segundo del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, o como artista, artista intérprete o ejecutante por los convenios colectivos que sean de aplicación en las artes escénicas, la actividad audiovisual y la musical, conforme al artículo 1. 2, párrafo 2.º del RD 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad.
+ De igual forma, se incluye dentro del ámbito de la compatibilidad el trabajo por cuenta ajena y la actividad por cuenta propia desempeñada por autores de obras literarias, artísticas o científicas, tal como se definen en el capítulo I del título II del libro primero del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, se perciban o no derechos de propiedad intelectual por dicha actividad, incluidos los generados por su transmisión a terceros y con independencia de que por la misma actividad perciban otras remuneraciones conexas.
+ En estos supuestos, la cuantía de la pensión de jubilación o retiro de carácter forzoso será compatible al cien por ciento con esta actividad por cuenta ajena o por cuenta propia. En el caso de pensiones de jubilación o retiro de carácter voluntario, sus beneficiarios podrán acceder a esta compatibilidad a partir del momento en que cumplan la edad a la que se refiere la letra a) del apartado anterior.
+ El importe de la pensión de jubilación contributiva compatible con la actividad artística incluye el complemento para pensiones inferiores a la mínima y el complemento por maternidad o reducción de la brecha de género.
+ Los perceptores de jubilación forzosa que realicen una actividad artística causarán alta y cotizarán en los términos previstos en los artículos 153 ter y 310 bis del texto refundido de Ley General de la Seguridad Social.
+ El beneficiario tendrá la consideración de pensionista a todos los efectos.
+ No podrá acogerse a esta compatibilidad el beneficiario de una pensión de jubilación que, además de desarrollar la actividad o percibir los ingresos a que se refieren los párrafos anteriores, realice cualquier otro trabajo por cuenta ajena o por cuenta propia diferente a la actividad artística que dé lugar a su inclusión en el campo de aplicación del Régimen General o de alguno de los regímenes especiales de la Seguridad Social.
+ 4. El percibo de las pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que de lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
+ No obstante, en los términos que reglamentariamente se determine, en los supuestos de pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad, cuando el interesado no esté incapacitado para toda profesión u oficio, se podrá compatibilizar el percibo de la pensión con el desempeño de dicha actividad siempre que sea distinta a la que venía realizando al servicio del Estado. En este caso, y mientras dure dicha situación, el importe de la pensión reconocida, se reducirá al 75 por ciento de la correspondiente cuantía, si se acreditan más de 20 años de servicios efectivos al Estado; o al 55 por ciento, si el interesado hubiera cubierto menos de 20 años de servicios al momento de su jubilación o retiro."
+5. La percepción de las pensiones afectadas por las incompatibilidades señaladas en los apartados anteriores quedará en suspenso por meses completos, desde el día primero del mes siguiente al inicio de la actividad que determina la incompatibilidad hasta el último día del mes en que se finalice, sin que ello afecte a los incrementos que deban experimentar tales pensiones, conforme a lo dispuesto en el artículo 27 de este texto.
+Como excepción a los efectos de la suspensión señalados en el párrafo anterior, si la actividad incompatible se inicia el día primero de un mes la suspensión del abono procederá desde el día primero del mes en que se realice la actividad incompatible.
+En el supuesto regulado en el precedente apartado 2, tanto la reducción como el restablecimiento del importe íntegro de la pensión se llevará a cabo por meses completos, con los efectos señalados en los párrafos anteriores.
+6. La situación económica de los perceptores de pensiones de jubilación o retiro se revisará de oficio, con la periodicidad que reglamentariamente se determine, a efectos de la aplicación de las normas anteriores, sin perjuicio de las revisiones que procedan a instancia del interesado.
+Se modifican los apartados 2, 3 y 4 por el art. 3 del Real Decreto-ley 11/2024, de 23 de diciembre. Ref. BOE-A-2024-26917
+ Esta modificación entra en vigor el 1 de abril de 2025, según establece la disposición final 3 del citado Real Decreto-ley
+ Se modifican los apartados 2 y 3, pasando los anteriores apartados 3, 4 y 5 a ser los apartados 4, 5 y 6, con efectos desde el 1 de abril de 2023, por la disposición final 1 del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#df
+ Téngase en cuenta que los efectos se producen desde el 1 de abril en la redacción dada a los mismos por la disposición final 7.4 Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#df-7
+ Se modifica el apartado 2 por la disposición final 6.1 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-7
+ Redactado el último párrafo conforme a la corrección de errores publicada en BOE núm. 94, de 20 de abril de 2021. Ref. BOE-A-2021-6240
+ Se modifica el apartado 1 por la disposición final 1.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifica por la disposición adicional 2 del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición adicional 3.
+ Se renumeran los apartados 2 y 3 como 3 y 4, y se añade el apartado 2 por la disposición adicional 16.1 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+ Téngase en cuenta la disposición adicional 16.2, en cuanto a la aplicación del apartado 2.
+
+## CAPÍTULO III
+
+Pensiones ordinarias en favor de los familiares del personal mencionado en la letra a) del número 1 del artículo 3 de este texto
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 34
+
+Artículo 34. Hecho causante de las pensiones.
+1. El derecho a las pensiones a que se refiere este capítulo se causará con el fallecimiento del personal correspondiente.
+2. A estos efectos, la declaración de ausencia legal del causante de los derechos pasivos no se considerará determinante de los derechos de sus familiares, que solamente nacerán con la declaración de fallecimiento del ausente, acordada de conformidad con lo dispuesto en los artículos 193 y siguientes del Código Civil.
+La fecha de nacimiento de los derechos se retrotraerá siempre a la que en la resolución judicial se precise como de fallecimiento, sin perjuicio de lo que en punto a prescripción se dice en el artículo 7 de este texto.
+Sin embargo, si el declarado ausente legal fuera perceptor de pensión de jubilación o retiro o, el mismo, atendiendo a su edad y al período de servicios efectivos al Estado, tuviera derecho a las citadas pensiones de jubilación o retiro, sus familiares podrán acceder a la pensión que a ellos hubiera correspondido en caso de fallecimiento del causante.
+Esta pensión será reconocida con carácter provisional desde el día 1 del mes siguiente al de la declaración de ausencia legal, a resultas de la de fallecimiento que en su día se produzca o, en otro caso, de la presentación del ausente o de la prueba de su existencia. Por los pagos así efectuados no procederá formular reclamación alguna al Instituto Nacional de la Seguridad Social por parte del declarado ausente legal que después aparezca, sin perjuicio del derecho de este último a reclamar las diferencias entre lo abonado a sus familiares y lo debido percibir por el mismo y solo en cuanto a las cantidades no prescritas por el transcurso del tiempo.
+3. Si después de la declaración de fallecimiento se presentara el ausente o se probase su existencia, cesarán todos los efectos que como consecuencia de aquélla se hubieran producido desde el primer día del mes siguiente al que la Administración tenga conocimiento cierto del hecho, sin perjuicio del ejercicio por el declarado fallecido de los derechos pasivos que le correspondan, entendiéndose éstos nacidos desde la expresada fecha.
+4. No cabrá formular reclamación alguna a la Administración de la Seguridad Social por razón de los acuerdos que hubieran podido adoptarse de conformidad con la resolución judicial declaratoria del fallecimiento, sin perjuicio de que los litigios que puedan surgir entre los interesados se sustancien ante los órganos de la jurisdicción ordinaria. Asimismo, no cabrá exigir el reintegro de las cantidades percibidas al titular de la pensión concedida en base a la declaración de fallecimiento.
+Se modifican los apartados 2 y 4 por la disposición final 2.7 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declaran inconstitucionales y nulos los apartados 2 y 4, en la redacción dada por la disposición final 1.7 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifican los apartados 2 y 4 por la disposición final 1.7 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añaden los párrafos tercero y cuarto del apartado 2 por el art. 47.9 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+
+### Artículo 35
+
+Artículo 35. No exigencia de período de carencia.
+Para que se entiendan causados los derechos de los familiares del personal comprendido en este capítulo no será preciso que el causante de los mismos haya completado ningún periodo mínimo de prestación de servicios efectivos al Estado.
+
+### Artículo 36
+
+Artículo 36. Igualdad jurídica.
+1. La mujer causará los mismos derechos en favor de sus familiares que el varón.
+2. Los familiares del causante de los derechos pasivos tendrán, a efectos de Clases Pasivas, los mismos derechos cualquiera que sea su sexo o filiación y la adquisición y pérdida de tales derechos estarán condicionadas por iguales circunstancias en todos los casos.
+
+### Artículo 37
+
+Artículo 37. Concurrencia con derechohabientes desconocidos o sobrevenidos.
+1. Cuando, con posterioridad a haberse efectuado por la Administración el señalamiento de pensiones en favor de familiares del fallecido, aparecieran nuevos derechohabientes del mismo, como consecuencia de cualquier circunstancia, los efectos económicos de los nuevos derechos pasivos se contarán únicamente desde el primer día del mes siguiente a la presentación de la oportuna solicitud, sin perjuicio de las acciones que eventualmente corresponda ejercer al nuevo titular, respecto de los anteriores o actuales, ante los órganos de la jurisdicción ordinaria en reclamación de las cantidades que hasta dicho momento le hubieran podido corresponder de acuerdo con las disposiciones de este texto.
+En dicho supuesto, el titular o titulares de la pensión inicialmente señalada a su favor vendrán obligados, como consecuencia de los nuevos derechos reconocidos, a reintegrar los importes percibidos en más desde la fecha de efectos económicos de estos nuevos derechos.
+2. No obstante lo dispuesto en el número anterior, y sin perjuicio de la caducidad de efectos regulada en el artículo 7.2 de este texto, la administración satisfará al nuevo titular de derechos el importe de las diferencias que pudieran existir, en su caso, entre lo percibido por los antiguos o actuales titulares y lo debido abonar por aquélla durante el período comprendido entre el nacimiento del derecho y la fecha de los efectos económicos del nuevo señalamiento.
+Se modifica, con efectos económicos desde el 1 de enero de 1992, por el art. 52.2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+ Redactada la rúbrica conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 37 bis
+
+Artículo 37 bis. Impedimento para ser beneficiario de las prestaciones en favor de los familiares.
+Sin perjuicio de lo establecido en la disposición adicional primera de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, no podrá tener la condición de beneficiario de las prestaciones en favor de los familiares que hubieran podido corresponderle, quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación.
+La Administración podrá revisar, por sí misma y en cualquier momento, el acto o acuerdo por el cual hubiera reconocido el derecho a una prestación en favor de los familiares a quien fuera condenado por sentencia firme en el supuesto indicado, viniendo el mismo obligado a devolver las cantidades que, en su caso, hubiera percibido por tal concepto.
+En el acuerdo de inicio del procedimiento de revisión del reconocimiento de la prestación a que se refiere este artículo se acordará, si no se hubiera producido antes, la suspensión cautelar de su percibo hasta la resolución que ponga fin a dicho procedimiento.
+Se añade por la disposición final 11.2 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfundecima.
+
+### Artículo 37 ter
+
+Artículo 37 ter. Suspensión cautelar del abono de las prestaciones en favor de los familiares, en determinados supuestos.
+1. El Instituto Nacional de la Seguridad Social suspenderá cautelarmente el abono de las prestaciones reconocidas en favor de los familiares, cuando recaiga sobre el beneficiario resolución judicial de la que se deriven indicios racionales de criminalidad por la comisión de un delito doloso de homicidio en cualquiera de sus formas, si la víctima fuera el sujeto causante de la prestación, con efectos del día primero del mes siguiente a aquel en que le sea comunicada tal circunstancia.
+En los casos indicados, la suspensión cautelar se mantendrá hasta que recaiga sentencia firme u otra resolución firme que ponga fin al procedimiento penal o determine la no culpabilidad del beneficiario.
+Si el beneficiario de la prestación fuera finalmente condenado por sentencia firme por la comisión del indicado delito, procederá la revisión del reconocimiento y, en su caso, el reintegro de las prestaciones percibidas, de acuerdo con lo previsto en el artículo 37 bis. En este supuesto, el Instituto Nacional de la Seguridad Social fijará el importe de las pensiones, si las hubiere, como si no existiera la persona condenada.
+Cuando, mediante sentencia o resolución judicial firme, finalice el proceso sin la referida condena o se determine la no culpabilidad del beneficiario, se rehabilitará el pago de la prestación suspendida con los efectos que hubieran procedido de no haberse acordado la suspensión.
+2. No obstante, si recayera sentencia absolutoria en primera instancia y ésta fuera recurrida, la suspensión cautelar se alzará hasta la resolución del recurso por sentencia firme. En este caso, si la sentencia firme recaída en dicho recurso fuese también absolutoria se abonarán al beneficiario las prestaciones dejadas de percibir desde que se acordó la suspensión cautelar hasta que se alzó ésta. Por el contrario, si la sentencia firme recaída en el recurso resultara condenatoria procederá la revisión del reconocimiento de la prestación, así como la devolución de las prestaciones percibidas por el condenado, conforme a lo indicado en el apartado 1 de este artículo, incluidas las correspondientes al período en que estuvo alzada la suspensión.
+3. Durante la suspensión del pago de una prestación acordada conforme a lo previsto en este artículo, el Instituto Nacional de la Seguridad Social fijará el importe de las pensiones, si las hubiere, como si no existiera la persona contra la que se hubiera dictado la resolución a que se refiere el apartado 1. Dicho importe tendrá carácter provisional hasta que se dicte la resolución firme que ponga fin al proceso penal.
+En el caso de archivo de la causa o de sentencia firme absolutoria, se procederá al abono de las prestaciones cautelarmente suspendidas. No obstante, el beneficiario de la pensión calculada conforme a lo dispuesto en el párrafo anterior no vendrá obligado a devolver cantidad alguna.
+Se modifican los apartados 1 y 3 por la disposición final 2.8 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declaran inconstitucionales y nulos los apartados 1 y 3, en la redacción dada por la disposición final 1.8 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifican los apartados 1 y 3 por la disposición final 1.8 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade por la disposición final 11.3 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfundecima.
+
+### Artículo 37 quáter
+
+Artículo 37 quáter. Abono de las pensiones en favor de familiares en determinados supuestos.
+En el caso de que hubiera beneficiarios menores o incapacitados judicialmente, cuya patria potestad o tutela estuviera atribuida a una persona contra la que se hubiera dictado resolución judicial de la que se deriven indicios racionales de criminalidad o sentencia condenatoria firme por la comisión del delito doloso de homicidio en cualquiera de sus formas, la pensión no le será abonable a dicha persona.
+En todo caso, el Instituto Nacional de la Seguridad Social pondrá en conocimiento del Ministerio Fiscal la existencia de la pensión, así como toda resolución judicial de la que se deriven indicios racionales de que una persona que tenga atribuida la patria potestad o tutela es responsable del delito doloso de homicidio para que proceda, en su caso, a instar la adopción de las medidas oportunas en relación con la persona física o institución tutelar del menor o de la persona con la capacidad modificada judicialmente a las que debe abonarse la pensión. Adoptadas dichas medidas con motivo de dicha situación procesal, la Administración, cuando así proceda, comunicará también al Ministerio Fiscal la resolución por la que se ponga fin al proceso penal y la firmeza o no de la resolución judicial en que se acuerde.
+Se modifica por la disposición final 2.9 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo, en la redacción dada por la disposición final 1.9 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica por la disposición final 1.9 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade por la disposición final 11.4 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfundecima.
+
+## Sección 2
+
+Sección 2.ª Pensiones de viudedad
+
+### Artículo 38
+
+Artículo 38. Condiciones del derecho a la pensión.
+1. Tendrá derecho a la pensión de viudedad quien sea cónyuge supérstite del causante de los derechos pasivos.
+En los supuestos en que el fallecimiento del causante derivara de enfermedad común, no sobrevenida tras el vínculo conyugal, se requerirá, además, que el matrimonio se hubiera celebrado con un año de antelación como mínimo a la fecha del fallecimiento. No se exigirá dicha duración del vínculo matrimonial cuando existan hijos comunes, ni tampoco cuando en la fecha de celebración del mismo se acreditara un período de convivencia con el causante, como pareja de hecho, que, sumado al de duración del matrimonio, hubiera superado los dos años.
+Cuando el cónyuge no pueda acceder a pensión de viudedad por las causas citadas en el párrafo anterior, tendrá derecho a una prestación temporal de igual cuantía que la pensión de viudedad que le hubiera correspondido y con una duración de dos años.
+2. En los casos de separación o divorcio, con independencia de las causas que los hubieran determinado, el derecho a la pensión de viudedad, o en su caso a la prestación temporal, corresponderá a quien, reuniendo los requisitos exigidos en el apartado anterior, sea o haya sido cónyuge legítimo, en este último caso siempre que no hubiese contraído nuevas nupcias o hubiera constituido una pareja de hecho en los términos a que se refiere el apartado 4. Asimismo, se requerirá que las personas divorciadas o separadas judicialmente sean acreedoras de la pensión compensatoria a que se refiere el artículo 97 del Código Civil y ésta quedara extinguida a la muerte del causante. En el caso de que se haya fijado una pensión compensatoria temporal, la pensión, o la prestación temporal, de viudedad que se pudiera reconocer se extinguirá en la misma fecha en que lo hubiera hecho la pensión compensatoria.
+En el supuesto de que la cuantía de la pensión de viudedad, o de la prestación temporal a que hubiere lugar, fuera superior a la pensión compensatoria, aquélla se disminuirá hasta alcanzar la cuantía de esta última, sin que la pensión resultante pueda ser objeto del complemento regulado en el número 2 del artículo 27 del presente Texto Refundido. En todo caso, tendrán derecho a la pensión de viudedad las mujeres que, aun no siendo acreedoras de pensión compensatoria, pudieran acreditar que eran víctimas de violencia de género en el momento de la separación judicial o el divorcio mediante sentencia firme, o archivo de la causa por extinción de la responsabilidad penal por fallecimiento; en defecto de sentencia, a través de la orden de protección dictada a su favor o informe del Ministerio Fiscal que indique la existencia de indicios de violencia de género, así como por cualquier otro medio de prueba admitido en Derecho.
+Si, habiendo mediado divorcio, se produjera una concurrencia de beneficiarios con derecho a pensión, ésta será reconocida en cuantía proporcional al tiempo vivido por cada uno de ellos con el causante, garantizándose, en todo caso, el 40 por ciento a favor del cónyuge superviviente o, en su caso, del que, sin ser cónyuge, conviviera con el causante en el momento del fallecimiento y resultara beneficiario de la pensión de viudedad en los términos a que se refiere el apartado 4 siguiente.
+3. En caso de nulidad matrimonial, el derecho a la pensión de viudedad, o en su caso a la prestación temporal, corresponderá al superviviente al que se le haya reconocido el derecho a la indemnización a que se refiere el artículo 98 del Código Civil, siempre que no hubiera contraído nuevas nupcias o hubiera constituido una pareja de hecho en los términos a que se refiere el apartado siguiente. Dicha pensión será reconocida en cuantía proporcional al tiempo vivido con el causante, sin perjuicio de los límites que puedan resultar por la aplicación de lo previsto en el apartado anterior en el supuesto de concurrencia de varios beneficiarios.
+4. También tendrán derecho a la pensión de viudedad, con carácter vitalicio, quienes se encuentren unidos al causante como pareja de hecho en el momento de su fallecimiento y cumplan los demás requisitos establecidos en el presente apartado.
+Se considerará pareja de hecho la constituida, con análoga relación de afectividad a la conyugal, por quienes, no hallándose impedidos para contraer matrimonio, no tengan vínculo matrimonial con otra persona ni constituida pareja de hecho, y acrediten, mediante el correspondiente certificado de empadronamiento, una convivencia estable y notoria con carácter inmediato al fallecimiento del causante y con una duración ininterrumpida no inferior a cinco años, salvo que existan hijos en común, en cuyo caso solo deberán acreditar la constitución de la pareja de hecho de conformidad con lo previsto en el párrafo siguiente.
+La existencia de pareja de hecho se acreditará mediante certificación de la inscripción en alguno de los registros específicos existentes en las comunidades autónomas o ayuntamientos del lugar de residencia o mediante documento público en el que conste la constitución de dicha pareja. Tanto la mencionada inscripción como la formalización del correspondiente documento público deberán haberse producido con una antelación mínima de dos años con respecto a la fecha del fallecimiento del causante.
+5. Cuando la pareja de hecho se extinga por voluntad de uno o ambos convivientes, el posterior fallecimiento de uno de ellos solo dará derecho a pensión de viudedad con carácter vitalicio al superviviente cuando, además de concurrir los demás requisitos legales, no haya contraído matrimonio ni constituido una nueva pareja de hecho en los términos indicados en el apartado anterior.
+Asimismo, se requerirá que la persona supérstite sea acreedora de una pensión compensatoria y que ésta se extinga con motivo de la muerte del causante. La pensión compensatoria deberá estar determinada judicialmente o mediante convenio o pacto regulador entre los miembros de la pareja otorgado en documento público, siempre que para fijar el importe de la pensión se haya tenido en cuenta la concurrencia en el perceptor de las mismas circunstancias relacionadas en el artículo 97 del Código Civil.
+En el supuesto de que la cuantía de la pensión de viudedad fuera superior a la pensión compensatoria, aquella se disminuirá hasta alcanzar la cuantía de esta última.
+En todo caso, tendrán derecho a la pensión de viudedad las mujeres que, aun no siendo acreedoras de pensión compensatoria, pudieran acreditar que eran víctimas de violencia de género en el momento de la extinción de la pareja de hecho mediante sentencia firme o archivo de la causa por extinción de la responsabilidad penal por fallecimiento; en defecto de sentencia, a través de la orden de protección dictada a su favor o informe del Ministerio Fiscal que indique la existencia de indicios de ser víctima de violencia de género, así como por cualquier otro medio de prueba admitido en Derecho.
+Cuando la pareja de hecho superviviente no pueda acceder al derecho a pensión de viudedad por no acreditar que su inscripción en alguno de los registros específicos existentes en las comunidades autónomas o ayuntamientos del lugar de residencia o su constitución mediante documento público se han producido con una antelación mínima de dos años respecto de la fecha del fallecimiento del causante, pero concurran el resto de requisitos legales, tendrá derecho a la prestación temporal regulada en el párrafo tercero del apartado 1 de este artículo.
+6. En todos los supuestos a los que se refiere el presente artículo, el derecho a pensión de viudedad se extinguirá cuando el beneficiario contraiga matrimonio o constituya una pareja de hecho en los términos establecidos en el apartado 4.
+Se modifican los apartados 4 y 5 y se añade el 6 por la disposición final 4.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-4
+ Se suprime el último párrafo del apartado 4 por la disposición final 1.2 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se modifica el apartado 2 por la disposición final 1.2 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se modifica el párrafo primero del apartado 2 por la disposición final 1.4 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se modifica el párrafo primero del apartado 2 por la disposición final 10.1 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+ Se modifica por la disposición final 3.3 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Se modifica el apartado 2 por el art. 55.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Artículo 39
+
+Artículo 39. Cálculo de la misma.
+1. La base reguladora de la pensión de viudedad estará constituida por la pensión de jubilación o retiro del fallecido o declarado fallecido.
+A este efecto se tomará la pensión de jubilación o retiro que efectivamente se hubiera señalado al causante, debidamente actualizada en su caso, o la que hubiera podido corresponder a éste al momento de su jubilación o retiro forzoso si hubiera fallecido con anterioridad al cumplimiento de la edad correspondiente y no hubiera llegado a ser declarado jubilado o retirado, permaneciendo invariable el cuerpo, escala, plaza, empleo o categoría a que estuviera adscrito aquél al momento de fallecer. Si el causante falleciera en situación de excedencia voluntaria o de suspensión firme o en situación militar legalmente asimilable, como base reguladora de la pensión de viudedad se tomará la pensión de jubilación o retiro que le hubiera correspondido solamente en función de los servicios prestados hasta el momento de su pase a tales situaciones.
+En todo caso para el cálculo de la teórica pensión de jubilación del fallecido o así declarado se observarán las reglas expresadas en los números 1, 2, 3 y 5 del precedente artículo 31.
+2. Cuando el causante de los derechos al momento de su fallecimiento tuviera señalada una pensión extraordinaria de jubilación o retiro por inutilidad contraida en acto de servicio o como consecuencia del mismo por motivo de actos de terrorismo, la base reguladora de la pensión de viudedad estará constituida por el importe teórico de la pensión extraordinaria de jubilación o retiro, debidamente actualizada en su caso, que hubiera podido corresponder a aquél si la inutilidad producida en acto de servicio o como consecuencia del mismo no se hubiese originado por actos de terrorismo.
+Para el cálculo de esta teórica pensión extraordinaria de jubilación o retiro se observarán las reglas previstas en el número 1 del artículo 49 de este texto.
+3. A la base reguladora determinada de acuerdo con las reglas anteriores se aplicará el porcentaje fijo del 50 por 100 para obtener el importe de la pensión de viudedad.
+Este porcentaje será el 25 por 100 en el supuesto de que el causante de los derechos hubiera fallecido tras haber sido declarado inutilizado en acto de servicio o como consecuencia del mismo y de haberse señalado en su favor la correspondiente pensión extraordinaria.
+No obstante lo dispuesto en los párrafos anteriores, en los términos que reglamentariamente se determinen, estos porcentajes se incrementarán en 8 o en 4 puntos, respectivamente, cuando en la persona beneficiaria concurran los siguientes requisitos:
+a) Haber cumplido una edad igual o superior a 65 años.
+b) No tener derecho a otra pensión pública española o extranjera. El citado incremento será compatible con aquellas pensiones públicas, ya sean españolas o extranjeras, cuya cuantía no exceda del importe del mismo. En estos supuestos, el incremento de la pensión de viudedad se abonará exclusivamente por la diferencia entre la cuantía de este y la de la pensión percibida por el beneficiario.
+c) No percibir ingresos por la realización de un trabajo por cuenta ajena o por cuenta propia.
+d) No percibir rendimientos del capital, de actividades económicas o ganancias patrimoniales, de acuerdo con el concepto establecido para dichas rentas en el Impuesto sobre la Renta de las Personas Físicas, que en cómputo anual superen el límite de ingresos establecido en la correspondiente Ley de Presupuestos Generales del Estado para ser beneficiario de la pensión mínima de viudedad.
+4. En ningún caso se abonará conjuntamente con la pensión que resulte de la aplicación de las reglas contenidas en este artículo, cantidad alguna en concepto de ayuda o subsidio con cargo a crédito presupuestario de Clases Pasivas.
+Se modifica el apartado 3 por la disposición final 6.2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-7
+ Se modifica el apartado 3 por la disposición final 6 del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#df-6
+ Se modifica el apartado 3 por la disposición final 2.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Téngase en cuenta, en cuanto al incremento del porcentaje aplicable, lo dispuesto en la disposición adicional 55 de la citada Ley.
+ Se modifica el párrafo segundo del apartado 1 por el art. 129.4 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 40
+
+Artículo 40. Incompatibilidades.
+(Derogado)
+Se deroga por la disposición adicional 20 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+
+## Sección 3
+
+Sección 3.ª Pensiones de orfandad
+
+### Artículo 41
+
+Artículo 41. Condiciones del derecho a la pensión.
+1. Tendrán derecho a pensión de orfandad los hijos del causante de los derechos pasivos que fueran menores de veintiún años, así como los que estuvieran incapacitados para todo trabajo antes del cumplimiento de dicha edad o de la fecha del fallecimiento del causante.
+Este derecho asistirá a cada uno de los hijos del fallecido o declarado fallecido, con independencia de la existencia o no de cónyuge supérstite. En los casos de orfandad absoluta, derivada del fallecimiento de ambos progenitores, el beneficiario tendrá derecho al incremento de la base reguladora en los términos que se determinen reglamentariamente.
+2. En el supuesto en que el huérfano no realice un trabajo lucrativo por cuenta ajena o propia o cuando realizándolo, o percibiendo cualesquiera otras rentas, ingresos o prestaciones sustitutivas del salario, los ingresos que obtenga en cómputo anual resulten inferiores al importe del salario mínimo interprofesional que se fije en cada momento, también en cómputo anual, podrá ser beneficiario de la pensión de orfandad siempre que, a la fecha de fallecimiento del causante, fuera menor de veinticinco años. En este caso, la pensión se extinguirá cuando el titular cumpla los veinticinco años de edad, salvo que estuviera cursando estudios, manteniéndose en este supuesto la percepción de la pensión de orfandad hasta el día primero del mes siguiente al inicio del siguiente curso académico.
+No obstante, si el huérfano se incapacitase para todo trabajo antes de cumplir los veinticinco años de edad, tendrá derecho a la pensión de orfandad con carácter vitalicio.
+3. La situación del huérfano incapacitado o mayor de veintiún años se revisará con la periodicidad que se determine reglamentariamente en orden a la comprobación de la persistencia en el mismo de la aptitud para ser titular de la pensión de orfandad.
+4. A los efectos de este texto, la relación paterno-filial comprende tanto la matrimonial como la no matrimonial, así como la legal por adopción.
+5. La adopción del beneficiario de una pensión de orfandad dará lugar a la extinción de ésta, con efectos a partir del día primero del mes siguiente a la fecha de la resolución judicial por la que se constituya la adopción.
+En el supuesto de adopción de los hijos e hijas de una causante fallecida como consecuencia de violencia sobre la mujer, el derecho a la pensión de orfandad y al incremento previsto reglamentariamente para los casos de orfandad absoluta, solo se suspenderá cuando los rendimientos de la unidad de convivencia en que se integran, divididos por el número de miembros que la componen, incluidas las personas huérfanas adoptadas, superen en cómputo anual el 75 por ciento del Salario Mínimo Interprofesional vigente en cada momento, excluida la parte proporcional de las pagas extraordinarias.
+La suspensión tendrá efectos desde el día siguiente a aquel en que concurra la causa de suspensión.
+El derecho a la pensión se recuperará cuando los ingresos de la unidad de convivencia no superen los límites señalados anteriormente. La recuperación tendrá efectos desde el día siguiente a aquél en que se modifique la cuantía de los ingresos percibidos, siempre que se solicite dentro de los tres meses siguientes a la indicada fecha. En caso contrario, la pensión recuperada tendrá una retroactividad máxima de tres meses, a contar desde la solicitud.
+En los casos en que se haya mantenido el percibo de la pensión de orfandad, aunque se haya constituido la adopción, la nueva pensión de orfandad que pudiese generarse como consecuencia del fallecimiento de una de las personas adoptantes, será incompatible con la pensión de orfandad que se venía percibiendo, debiendo optar por una de ellas.
+Se modifican los apartados 1 y 2 y se añade el 5 por la disposición final 4.5 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-4
+ Se modifica el apartado 2 por la disposición final 6.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-7
+ Se modifica el párrafo primero del apartado 2 por la disposición final 3.4 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Se añade el inciso final al primer párrafo del apartado 2 por la disposición adicional 44 de la Ley 30/2005, de 29 de diciembre. Ref. BOE-A-2005-21525
+ Se modifica el apartado 2 por el art. 55.4 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Se modifican los apartados 1 y 2 por el art. 40.1 y 2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Véase supuesto especial del apartado 3 en el art. 40.3.
+ Se modifica por el art. 49.1 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+ Téngase en cuenta el art. 49.2, en cuanto a la aplicación del apartado 2.
+ Se modifica por el art. 129.5 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Se modifica el apartado 1, con efectos económicos desde el 1 de enero de 1992, por el art. 52.3 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+
+### Artículo 42
+
+Artículo 42. Cálculo de la misma.
+1. La base reguladora de la pensión de orfandad estará constituida por la pensión de jubilación o retiro del fallecido o así declarado.
+Para la determinación de esta base reguladora se aplicarán, en todo, las reglas contenidas en los números 1 y 2 del precedente artículo 39.
+2. A dicha base reguladora para la determinación de cada pensión de orfandad se aplicarán los siguientes porcentajes fijos:
+a) El 25 por 100, en el supuesto de que existiera sólo un hijo con derecho a pensión.
+b) El 10 por 100, en el supuesto de que existieran varios hijos con derecho a pensión.
+En este último supuesto, las pensiones resultantes se incrementarán en la suma que arroje el prorrateo por cabeza de un único 15 por 100 de la base reguladora.
+3. Los porcentajes de cálculo que se indican en el precedente número serán, respectivamente, del 12,50 por 100; del 5 por 100, y del 7,50 por 100 en el supuesto de que el funcionario hubiera fallecido tras haber sido declarado inutilizado en acto de servicio o como consecuencia de este último y de haberse señalado en su favor la correspondiente pensión extraordinaria.
+4. El importe conjunto de las distintas pensiones de orfandad no podrá superar, en ningún caso, el del 50 por 100 o el del 100 por 100 de la base reguladora, según exista o no exista cónyuge supérstite del fallecido, respectivamente. Estos límites serán del 25 por 100 o de 50 por 100 en el caso de que la pensión de jubilación o de retiro que se hubiera señalado al causante hubiera sido extraordinaria por ser causada en acto de servicio o como consecuencia del mismo.
+En caso de que una vez señaladas las distintas pensiones de orfandad el importe conjunto de todas ellas exceda del límite indicado se procederá a reducir proporcionalmente cada una, comenzando por la cantidad que se hubiera prorrateado.
+5. Si las distintas pensiones de orfandad hubieran sido objeto de la minoración referida en el último párrafo del número anterior, caso de que, una vez señaladas, alguno de sus beneficiarios falleciera o perdiera la aptitud para ser titular de derechos pasivos, se procederá de oficio a realizar nuevos señalamientos en favor de los que restan, teniendo en consideración los porcentajes aplicables a cada uno de acuerdo con lo establecido en las reglas anteriores. Estos nuevos señalamientos tendrán efectos desde el primer día del mes siguiente al de fallecimiento o pérdida de aptitud del beneficiario o beneficiarios de que se trate.
+6. Si con posterioridad al señalamiento de las distintas pensiones en favor de los huérfanos del mismo causante apareciera algún nuevo beneficiario, las pensiones señaladas serán reducidas de oficio en caso de exigirlo así la aplicación del límite recogido en el número 4 anterior, con los efectos previstos en el anterior artículo 37.
+7. No existirá, en ningún caso, derecho a que el valor de las pensiones de orfandad de los titulares que fallezcan o deban cesar en la percepción de las mismas acrezca al de los titulares de pensiones causadas por la misma persona.
+8. Será de aplicación igualmente a las pensiones de orfandad lo dispuesto en el número 4 del artículo 39 de este texto.
+9. Las hijas e hijos que sean titulares de la pensión de orfandad causada por la víctima de violencia contra la mujer, en los términos en los que se defina por la ley o por los instrumentos internacionales ratificados por España, tendrán derecho al incremento que se determine reglamentariamente para los casos de orfandad absoluta.
+En el supuesto de que hubiera más de una persona beneficiaria de esta pensión, el importe conjunto de las mismas podrá situarse en el 118 por ciento de la base reguladora.
+El incremento que se determine reglamentariamente para los casos de orfandad absoluta alcanzará el 70 por ciento de la base reguladora, siempre que los rendimientos de la unidad familiar de convivencia, incluidas las personas huérfanas, dividido por el número de miembros que la componen, no superen en cómputo anual el 75 por ciento del Salario Mínimo Interprofesional vigente en cada momento, excluida la parte proporcional de las pagas extraordinarias.
+10. Cuando la muerte por violencia contra la mujer de la causante de la pensión de orfandad hubiera sido producida por un agresor distinto del progenitor de los hijos e hijas de la causante, se reconocerá el derecho a la pensión de orfandad con el incremento que correspondiese cuando los rendimientos de la unidad de convivencia en que se integran, divididos por el número de miembros que la componen, incluidas las personas huérfanas, no superen en cómputo anual el 75 por ciento del Salario Mínimo Interprofesional vigente en cada momento, excluida la parte proporcional de las pagas extraordinarias. En otro caso, se suspenderá el derecho a su percibo.
+En los supuestos anteriores, la suspensión tendrá efectos desde el día siguiente a aquél en que concurra la causa de la suspensión.
+El derecho a la pensión se recuperará cuando los ingresos de la unidad de convivencia no superen los límites señalados anteriormente. La recuperación tendrá efectos desde el día siguiente a aquél en que se modifique la cuantía de los ingresos percibidos, siempre que se solicite dentro de los tres meses siguientes a la indicada fecha. En caso contrario, la pensión recuperada tendrá una retroactividad máxima de tres meses, a contar desde la solicitud.
+A los efectos previstos en este artículo, se presumirá la orfandad absoluta cuando se hubiera producido abandono de la responsabilidad familiar del progenitor supérstite y se hubiera otorgado el acogimiento o tutela de la persona huérfana por violencia contra la mujer a favor de terceros o familiares, así como en otros supuestos determinados reglamentariamente.
+Se añade el apartado 10 por el art. 6 de la Ley Orgánica 2/2022, de 21 de marzo. Ref. BOE-A-2022-4516#as-2
+ Se añade el apartado 9 por el art. 2 de la Ley 3/2019, de 1 de marzo. Ref. BOE-A-2019-2975
+ Téngase en cuenta para su aplicación, la disposición transitoria de la citada ley.
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 43
+
+Artículo 43. Incompatibilidades.
+1. La percepción de la pensión de orfandad será incompatible con el desempeño de un puesto de trabajo o alto cargo en el sector público, entendido éste de acuerdo con lo dispuesto en el párrafo segundo del apartado 1 del artículo 1 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, aplicándose a este régimen de incompatibilidad las excepciones mencionadas en el artículo 33, número 1 de este texto.
+2. Lo establecido en los números 1, 4 y 5 del precedente artículo 33 será de aplicación igualmente a los supuestos de orfandad.
+Se modifica por la disposición final 1.2 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se modifica el apartado 2 por la disposición final 1.3 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se modifica el apartado 2 por la disposición final 1.2 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+
+## Sección 4
+
+Sección 4.ª Pensiones en favor de los padres
+
+### Artículo 44
+
+Artículo 44. Condiciones del derecho a la pensión.
+1. Tendrán derecho a la pensión por este concepto, indistintamente, el padre y la madre del causante de los derechos pasivos, siempre que aquéllos dependieran económicamente de éste al momento de su fallecimiento y que no existan cónyuge supérstite o hijos del fallecido con derecho a pensión.
+En el supuesto de que al momento del fallecimiento del causante hubiera cónyuge o hijos del mismo con derecho a pensión, el padre y la madre de aquél sólo tendrán derecho a la pensión a partir del momento del fallecimiento del cónyuge del causante del derecho o del último de sus hijos con derecho a pensión, o a partir del momento de la pérdida de aptitud para ser pensionista del último de dichos beneficiarios en el disfrute de la pensión.
+2. La relación paterno-filial comprenderá, a efectos de este texto, conforme se establece en el número 2 del precedente artículo 41, la matrimonial, la no matrimonial y la legal por adopción.
+Se modifica por el art. 129.6 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Artículo 45
+
+Artículo 45. Cálculo de la misma.
+1. La base reguladora de la pensión en favor de los padres estará constituida por la pensión de jubilación o retiro del causante de los derechos pasivos.
+Para la determinación de esta base reguladora se aplicarán en todo las reglas contenidas en los números 1 y 2 del precedente artículo 39.
+2. A dicha base reguladora se aplicará el porcentaje fijo del 15 por 100 para la determinación de cada una de las pensiones.
+Este porcentaje será del 7,5 por 100 en el supuesto de que el funcionario hubiera fallecido tras haber sido declarado inutilizado en acto de servicio o como consecuencia de este último y de haberse señalado en su favor la correspondiente pensión extraordinaria.
+3. No asistirá, en ningún caso, a cualquiera de los padres del funcionario fallecido el derecho a que el valor de la pensión del otro de ellos que fallezca o deba cesar en la percepción acrezca el de la suya.
+4. Será de aplicación lo dispuesto en el número 4 del precedente artículo 39 a las pensiones en favor de los padres.
+
+### Artículo 46
+
+Artículo 46. Incompatibilidades.
+(Derogado)
+Se deroga por la disposición adicional 20 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+
+## CAPÍTULO IV
+
+Pensiones extraordinarias en favor del personal comprendido en la letra a) del número 1 del artículo 3.° de este texto
+
+### Artículo 47
+
+Artículo 47. Pensiones extraordinarias y hecho causante de las mismas.
+1. Las pensiones a que se refiere este Capítulo serán de jubilación o retiro, y de viudedad, orfandad o a favor de los padres, y el hecho causante de las mismas será, respectivamente, la jubilación o retiro del personal correspondiente o su fallecimiento.
+2. Dará origen a pensión extraordinaria de jubilación o retiro la incapacidad permanente para el servicio o inutilidad del personal comprendido en este capítulo, entendida esta incapacidad en los términos expuestos en el artículo 28.2.c), siempre que la misma se produzca, sea por accidente o enfermedad, en acto de servicio o como consecuencia del mismo. En caso de la enfermedad causante de la inutilidad, esta deberá constar como adquirida directamente en acto de servicio o como consecuencia directa de la naturaleza del servicio desempeñado.
+En todo caso, dicho personal, en cuanto se incapacite o inutilice en acto de servicio o como consecuencia del mismo, será declarado jubilado o retirado.
+La jubilación o retiro se declarará por los organismos y entidades mencionados en el precedente artículo 28.3, siendo de la competencia exclusiva del Instituto Nacional de la Seguridad Social la concesión o no de pensión extraordinaria. Todo ello sin perjuicio de la competencia que tiene el Ministerio de Defensa en la determinación de la naturaleza de acto de servicio.
+3. Dará origen a pensiones extraordinarias en favor de familiares, el fallecimiento del causante de los derechos en acto de servicio o como consecuencia del mismo, sea por enfermedad o accidente y aplicándose lo dispuesto en el número anterior.
+La declaración de fallecimiento del funcionario desaparecido en acto de servicio o como consecuencia del mismo, declaración que se tramitará de acuerdo con lo dispuesto en los artículos 193 y siguientes del Código Civil, dará origen asimismo a pensiones extraordinarias en favor de familiares.
+4. Se presumirá el acto de servicio, salvo prueba en contrario, cuando la incapacidad permanente o el fallecimiento del funcionario hayan acaecido en el lugar y tiempo de trabajo.
+Se modifica el apartado 2 por la disposición final 2.10 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.10 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica el apartado 2 por la disposición final 1.10 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade el apartado 4 por el art. 40.4 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica el apartado 1 por el art. 41 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 48
+
+Artículo 48. Condiciones para el disfrute de las pensiones extraordinarias.
+1. El derecho a pensión extraordinaria de jubilación o retiro se causará cualquiera que sea el tiempo de servicios prestados al Estado por el personal de que se trate.
+2. El derecho a las pensiones extraordinarias en favor de familiares corresponderá al cónyuge viudo, los huérfanos o los padres del fallecido, siempre que reúnan los requisitos de aptitud legal exigidos en los artículos 38, 41 y 44 de este texto, y sin que se exija que el causante de los derechos hubiera completado período mínimo de servicio alguno.
+3. No obstante, cuando la pensión extraordinaria estuviera originada como consecuencia de un acto de terrorismo, tendrán derecho a pensión de orfandad los hijos del causante de los derechos pasivos que fueran menores de veintitrés años, así como los que estuvieran incapacitados para todo trabajo antes del cumplimiento de dicha edad o de la fecha del fallecimiento del causante.
+En el supuesto en que el huérfano no realice un trabajo lucrativo por cuenta ajena o propia o cuando realizándolo, los ingresos que obtenga en cómputo anual resulten inferiores al importe del salario mínimo interprofesional que se fije en cada momento, también en cómputo anual, podrá ser beneficiario de la pensión de orfandad, siempre que en la fecha del fallecimiento del causante fuera menor de veinticinco años. En caso de que estuviera cursando estudios y cumpliera los veinticinco años durante el transcurso del curso escolar, la percepción de la pensión de orfandad se mantendrá hasta el día primero del mes inmediatamente posterior al del inicio del siguiente curso académico.
+Si el huérfano mayor de veintitrés años se incapacitase para todo trabajo antes de cumplir los veinticinco años de edad tendrá derecho a la pensión de orfandad con carácter permanente, siendo a este efecto de aplicación lo dispuesto en el número 3 del artículo 41 de este texto
+4. El percibo de las pensiones extraordinarias estará sujeto al régimen de incompatibilidades previsto en los artículos 33 y 43 de este texto.
+Se modifica el apartado 3 por la disposición final 2.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se modifica por el art. 61.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Téngase en cuenta el art. 61.2 en cuanto a la aplicación del apartado 3.
+
+### Artículo 49
+
+Artículo 49. Cuantía de las pensiones y cálculo de las mismas.
+1. El cálculo de la pensión extraordinaria de jubilación o retiro se verificará de acuerdo con lo dispuesto en los artículos 30 y 31 de este texto, con la particularidad de que se entenderán como de servicios efectivos prestados en el Cuerpo, Escala, plaza, empleo o categoría a que figurara adscrito el causante de los derechos al momento en que se produzca la declaración de jubilación o retiro, los años completos que le faltaran para alcanzar la correspondiente edad de jubilación o retiro forzoso y de que el haber regulador o los haberes reguladores que correspondan se tomarán al 200 por 100.
+2. El cálculo de las pensiones en favor de los familiares del funcionario fallecido o desaparecido en acto de servicio o como consecuencia de éste, se verificará de acuerdo con lo dispuesto en los artículos 39, 42 y 45 de este texto, según la clase de pensión de que se trate, tomándose, en todo caso, los años completos que faltaran al causante de los derechos para alcanzar la correspondiente edad de jubilación o retiro forzoso como años de servidos efectivos prestados en el Cuerpo, Escala, plaza, empleo o categoría a que estuviera adscrito al momento del fallecimiento a efectos de la determinación de la base reguladora correspondiente, con la particularidad de que dicha base reguladora se tomará al 200 por 100 para el señalamiento de la correspondiente pensión.
+3. Cuando las pensiones extraordinarias se hayan originado como consecuencia de actos de terrorismo, la cuantía de las mismas en favor del propio causante será del 200 por 100 del haber regulador correspondiente, de acuerdo con las reglas del artículo 30 de este texto, al Cuerpo, Escala plaza, empleo o categoría de última adscripción de aquél, y en favor de sus familiares será del 200 por 100 de la pensión de jubilación o retiro que se hubiera señalado en circunstancias ordinarias al causante con arreglo a las normas de este texto.
+A estos efectos, cuando la pensión corresponda al cónyuge del causante y a los hijos del mismo con aptitud legal para su percibo, la mitad de su importe se asignará al cónyuge y la otra mitad se dividirá por partes iguales entre todos los hijos para determinar la cuantía de la pensión que corresponde individualmente a cada uno. Cuando corresponda a los padres, viviendo ambos, se dividirá a partes iguales entre los dos, si tuvieran aptitud legal para su percibo.
+Si en cualquiera de los supuestos contemplados no existiese más que un solo beneficiario con aptitud legal para el percibo de la pensión, a éste se le asignará la misma en la cuantía fijada al principio.
+Caso de que cualquiera de los co-partícipes en estas pensiones perdiera el derecho a percibirla, el resto de ellos tendrá el derecho de acrecer su cuota con el importe de la del co-partícipe que hubiera perdido el derecho.
+4. No se percibirá cantidad alguna en concepto de indemnización por el Régimen de Clases Pasivas del Estado ni ayuda o subsidio con cargo al crédito presupuestario de Clases Pasivas junto con las pensiones extraordinarias causadas en su propio favor o en el de sus familiares por el funcionario inutilizado o fallecido en acto de servicio o como consecuencia del mismo.
+Se modifica el apartado 4 por el art. 49.3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+### Artículo 50
+
+Artículo 50. Régimen de las pensiones extraordinarias.
+1. Las pensiones extraordinarias de Clases Pasivas serán incompatibles con las ordinarias que pudieran solicitar sus beneficiarios con base en los mismos hechos causantes, siendo las originadas en acto de terrorismo también incompatibles con las extraordinarias que por los mismos hechos, prescindiendo de su motivación terrorista, pudieran corresponder.
+2. Las pensiones extraordinarias originadas en acto de terrorismo no estarán sujetas a las normas limitativas a que se refiere el número 3 del precedente artículo 27.
+
+## CAPÍTULO V
+
+Pensiones causadas por personal mencionado en la letra c) del número 1 del artículo 3.° de este texto
+
+### Artículo 51
+
+Artículo 51. Régimen jurídico.
+1. Los ex Presidentes, Vicepresidentes y Ministros de Gobierno de la Nación, así como los ex Presidentes del Congreso de los Diputados y del Senado, del Tribunal de Cuentas y del Consejo de Estado, que fallecieran o fueran declarados fallecidos con posterioridad a 1 de enero de 1986, causarán pensiones de viudedad, orfandad y en favor de los padres que se regularán, salvo en lo dispuesto en el siguiente párrafo, por las normas recogidas en los capítulos primero y tercero y en los correspondientes artículos del capítulo cuarto de de este título.
+La base reguladora de estas pensiones será la fijada al efecto en la Ley de Presupuestos Generales del Estado en cada ejercicio económico.
+2. Los ex Presidentes del Tribunal Supremo de Justicia y, a partir de 1 de enero de 1987, del Consejo General del Poder Judicial, que fallecieran o fueran declarados fallecidos con posterioridad al 1 de enero de 1986, causarán los mismos derechos mencionados en el número anterior.
+3. Asimismo, causarán iguales derechos los ex Presidentes del Tribunal Constitucional y los ex Defensores del Pueblo y Fiscales Generales del Estado que fallecieran con posterioridad a 1 de enero de 1987.
+Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+## CAPÍTULO VI
+
+Pensiones causadas por el personal mencionado en la letra d) y f) del número 1 del artículo 3.° de este texto
+Se modifica por el art. 60.5 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+
+### Artículo 52
+
+Artículo 52. Régimen jurídico.
+1. Los alumnos de los centros docentes militares de formación y quienes estuvieren prestando el servicio militar en cualquiera de sus formas, causarán en su favor o en favor de su conyuge, hijos o padres derecho a pensión en el caso de que se inutilicen, fallezcan o desaparezcan en el curso de su proceso de formación o del servicio militar, siempre que sea en acto de servicio o como consecuencia del mismo.
+Los alumnos de los centros docentes militares de formación, que hayan ingresado en los mismos siendo militares de carrera o de empleo, tendrán los derechos pasivos correspondientes a su relación de servicios profesionales.
+2. Tales pensiones se regularán por lo dispuesto en el precedente capítulo 4, tomándose para su determinación el haber regulador que, en cada momento, corresponda al personal militar de tropa y marinería o, en su caso, al empleo eventual de los alumnos, siempre que la incapacidad o inutilidad que de origen a la correspondiente pensión se entienda en los terminos regulados en el apartado 2, c), del artículo 28 de este texto, pero referida a la inhabilitación absoluta para cualquier profesión u oficio.
+3. Los alumnos de centros docentes militares de formación y quienes estuvieran prestando el servicio militar en cualquiera de sus formas, tendrán derecho a las pensiones o indemnizaciones por una sola vez, que reglamentariamente se determinen caso de que sufran lesiones permanentes no invalidantes, o no determinantes de inutilidad absoluta para todo trabajo, como consecuencia del desempeño del servicio militar o del propio proceso de enseñanza militar y no tengan derecho a ellas por ningún régimen público de previsión social.
+Se modifica por la disposición adicional 14.1 de la Ley 17/1989, de 19 de julio. Ref. BOE-A-1989-17199
+ Téngase en cuenta para su aplicación el apartado 2.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 52 bis
+
+Artículo 52 bis. Régimen jurídico.
+1. El personal militar de empleo y el de las Escalas de complemento y reserva naval y el de tropa y marinería profesional que no tenga adquirido el derecho a permanecer en las Fuerzas Armadas hasta la edad de retiro, mientras dure la relación de servicios de carácter no permanente, causará en su favor pensión de retiro, ordinaria o extraordinaria de acuerdo con lo dispuesto en los precedentes capítulos II y IV, en el caso de que se inutilicen, siempre que tal inutilidad se entienda en los términos regulados en el apartado 2, c), del artículo 28 de este texto, pero referido a la incapacidad absoluta para cualquier profesión u oficio.
+2. Este personal tendrá derecho, en los términos que reglamentariamente se determinen, a pensiones o indemnizaciones por una sola vez, en caso de que sufran lesiones permanentes no invalidantes, o no determinantes de inutilidad absoluta para toda profesión u oficio.
+3. Asimismo causarán derecho a pensión a favor de sus familiares en el caso de que fallezca, mientras mantenga la relación de servicios. Dichas pensiones podrán ser ordinarias o extraordinarias, de acuerdo con lo dispuesto en los precedentes capítulos III y IV.
+Se añade por el art. 60.6 de la Ley 66/1997, de 30 de diciembre.Ref. BOE-A-1997-28053
+
+## CAPÍTULO VII
+
+Pensiones causadas por el personal mencionado en las letras b) y e) del número 1 del artículo 3.° de este texto
+
+### Artículo 53
+
+Artículo 53. Régimen jurídico.
+1. El personal interino y los funcionarios en prácticas o los alumnos de Academias y Escuelas Militares a partir de su promoción a Caballero Cadete, Alférez-Alumno, Sargento-Alumno o Guardiamarina, comprendidos en el artículo 3.°, número 1, de este texto, causarán en su condición de tales las pensiones que puedan resultar según lo dispuesto en las normas contenidas en los Capítulos primero, segundo, tercero y cuarto del presente título.
+2. Los haberes reguladores que se tendrán en cuenta para el cálculo de dichas pensiones serán los correspondientes al Cuerpo, Escala, Plaza, empleo o categoría de funcionario que resulte homologable desde el punto de vista funcional a la plaza desempeñada por el funcionario interino. En el caso del funcionario en prácticas y los alumnos, serán los que correspondan al Cuerpo, Plaza o Carrera correspondientes al causante de las pensiones o al empleo de Alférez o Sargento.
+3. A efectos de su clasificación pasiva, la legislación reguladora de la relación de servicios del funcionario de carrera se aplicará supletoriamente en lo no específicamente previsto por la legislación reguladora de dicho personal mientras permanezca en situación de servicio activo.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+## TÍTULO II
+
+Derechos pasivos del personal comprendido en el número 2 del artículo 3.º de este Texto
+
+### Artículo 54
+
+Artículo 54. Modificaciones en la legislación aplicable al personal comprendido en el número 2 del artículo 3.° de este texto.
+Las modificaciones en la legislación de Clases Pasivas vigente a 31 de diciembre de 1984, a que se refiere el número 2 del artículo 3.° de este texto se contienen en los siguientes preceptos de este título.
+
+### Artículo 55
+
+Artículo 55. Revalorización, complementos y imitación del crecimiento de pensiones.
+La revalorización, la asignación de complementos y la limitación del crecimiento de las pensiones de Clases Pasivas que se hubieran causado con anterioridad al 1 de enero de 1985 o con posterioridad a dicha fecha al amparo de la legislación de Clases Pasivas vigente a 31 de diciembre de 1984, se ajustará a lo que se establece en el artículo 27 de este texto.
+
+### Artículo 56
+
+Artículo 56. Nacionalidad.
+Las reglas que sobre nacionalidad se contienen en el artículo 24 de este texto serán de aplicación a las pensiones de Clases Pasivas causadas con anterioridad a 1 de enero de 1985 o con posterioridad a dicha fecha, independientemente de la legislación que les sea aplicable, si bien los efectos económicos de las mismas se contarán dede el momento del nacimiento del derecho con el límite máximo del primero de enero de 1985.
+
+### Artículo 57
+
+Artículo 57. Incompatibilidades.
+Las normas sobre incompatibilidad que se contienen en los artículos 33 y 43 de este texto serán aplicables a las pensiones de jubilación o retiro y de orfandad de Clases Pasivas causadas al amparo de la legislación vigente a 31 de diciembre de 1984, cualquiera que sea la fecha de su hecho causante. Los efectos derivados de esta incompatibilidad se producirán a partir de 1 de febrero de 1985 o de la fecha posterior que en cada caso corresponda, salvo en lo referido a la incompatibilidad de la pensión de retiro cuyos efectos se producirán inicialmente desde el 1 de enero de 1985.
+Se modifica el título por la disposición final 1.3 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Artículo 58
+
+Artículo 58. Incompatibilidad con ingresos.
+1. Las pensiones de orfandad de Clases Pasivas en favor de mayores de veintiún años reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984 y que se hubieran causado con anterioridad al 3 de agosto de 1984 en el caso del personal comprendido en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, o con anterioridad a 1 de enero de 1985 en otro caso, siempre que sus perceptores no estuvieran incapacitados para todo tipo de trabajo desde antes de cumplir dicha edad o a la fecha del fallecimiento del causante, serán incompatibles con la percepción de ingresos por trabajo activo que permita la inclusión de su titular en cualquier régimen público de Seguridad Social, así como con cualesquiera otras rentas o ingresos sustitutivos del salario.
+2. La percepción de las pensiones afectadas por la incompatibilidad señalada en el apartado anterior quedará en suspenso por meses completos, desde el día primero del mes siguiente al inicio de la actividad o del abono de las rentas o ingresos que determinan la incompatibilidad hasta el último día del mes en que se finalice, sin que ello afecte a los incrementos que deban experimentar tales pensiones, conforme a lo dispuesto en el artículo 27 de este texto.
+Como excepción a los efectos de la suspensión señalados en el párrafo anterior, si la actividad o pago incompatible se inicia el día primero de un mes la suspensión del abono de la pensión procede desde el día primero del mes en que se realice la actividad incompatible.
+Se modifica por la disposición final 1.5 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se modifica por la disposición final 1.3 de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744
+
+### Artículo 59
+
+Artículo 59. Extinción de pensiones.
+1. Las pensiones en favor de familiares del Régimen de Clases Pasivas del Estado, reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984, se extinguirán cuando sus titulares contraigan matrimonio, sin que pueda posteriormente recuperarse el derecho a las mismas si el matrimonio se hubiera celebrado con posterioridad al 23 de agosto de 1984, en las pensiones causadas por el personal comprendido en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, o después del 31 de diciembre del mismo año, en las pensiones causadas por el resto del personal incluido en el ámbito subjetivo del Régimen de Clases Pasivas del Estado.
+No obstante lo dispuesto en el párrafo anterior, la pensión de viudedad no se extinguirá en los supuestos y en las condiciones que reglamentariamente se establezcan.
+2. Las pensiones de orfandad del Régimen de Clases Pasivas del Estado, reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984, causadas con posterioridad a 23 de agosto de 1984 por el personal comprendido en el ámbito de aplicación de la Ley 30/1984, o después del 31 de diciembre del mismo año en otro caso, se extinguirán cuando sus titulares cumplan los veintiún años de edad, salvo que estén incapacitados para todo tipo de trabajo desde antes del cumplimiento de dicha edad o de la fecha del fallecimiento del causante de la pensión y tengan derecho al beneficio de justicia gratuita.
+Cuando tales pensiones hubieran sido causadas antes del 24 de agosto de 1984 o del 1 de enero de 1985, según corresponda, se extinguirán definitivamente siempre que el huérfano sea mayor de veintiún años de edad y no esté incapacitado para el trabajo en las condiciones expresadas en el párrafo anterior, excepto cuando a 31 de diciembre de 1984 no existiera cónyuge supérstite del causante con derecho a pensión o cuando, en dicha fecha, el huérfano ostentara el estado civil de soltero, viudo, divorciado o estuviera separado legalmente.
+Se añade el párrafo segundo al apartado 1 por el art. 55.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+ Téngase en cuenta el art. 55.3, en cuanto a la aplicación del apartado 1.
+ Se modifica por el art. 129.7 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 60
+
+Artículo 60. No duplicidad de cobertura.
+Lo dispuesto en el artículo 26 de este texto será de aplicación a las pensiones de Clases Pasivas causadas con posterioridad a 1 de enero de 1985, independientemente de la legislación que les sea aplicable.
+
+### Artículo 61
+
+Artículo 61. Igualdad jurídica.
+Lo dispuesto en el artículo 36 de este texto será de aplicación a las pensiones de Clases Pasivas reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984. Los nuevos derechos que puedan surgir de la aplicación de la indicada norma tendrán efectividad económica desde 1 de enero de 1984.
+Ello no obstante, si como consecuencia de la aplicación del artículo 36 del presente texto algún perceptor de Clases Pasivas hubiera de cesar en el percibo de su pensión por existir determinada persona que ocupara en el orden de llamamientos al disfrute de la misma pensión contenido en la legislación aplicable un lugar preferente o determinada persona excluida del llamamiento al disfrute de una pensión de Clases Pasivas entrará a co-participar de la misma con los actuales titularen en relación con tos efectos económicos de los nuevos señalamientos que procedan, será de aplicación lo dispuesto en el artículo 37 de este texto.
+
+### Artículo 62
+
+Artículo 62. Pagas extraordinarias.
+Las normas contenidas en el número 2 del artículo 22 de este texto serán de aplicación a las pensiones de Clases Pasivas causadas con anterioridad o posterioridad a 1 de enero de 1985, cualquiera que sea la legislación que les fuera aplicable. Las reglas contenidas en la letra c) de dicho precepto, tendrán efectos de 1 de enero de 1987; las reglas del primer inciso de la letra d) de dicho precepto tendrán efectos de 1 de enero de 1985 y las del segundo inciso de la misma letra, de 1 de enero de 1986.
+Redactado conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Artículo 63
+
+Artículo 63. Suspensión de las prestaciones.
+Lo dispuesto en el artículo 21, número 2, de este texto será de aplicación a las pensiones de Cases Pasivas cualquiera que sea su fecha de arranque y legislación reguladora, con efectos para las causadas con anterioridad a 1 de enero de 1986 desde la expresada fecha.
+
+### Artículo 64
+
+Artículo 64. Competencias.
+Lo dispuesto en el Capítulo segundo del subtítulo primero del título I de este texto será de aplicación al reconocimiento y concesión de los derechos pasivos causados con arreglo a la legislación en materia de Clases Pasivas vigente a 31 de diciembre de 1984 y en general a los procedimientos administrativos correspondientes.
+Redactado conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. De acuerdo con lo dispuesto en el artículo 25, número 3, de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, para la determinación de los haberes pasivos causados por el personal comprendido en el ámbito personal de cobertura del Régimen de Clases Pasivas que tenga acreditados servicios como Magistrado de dicho Alto Tribunal, se tomará un haber regulador de igual cuantía a la del total de las remuneraciones que hayan correspondido a dicho cargo en el año en que se produzca el hecho causante de tales haberes, refiriendo éste a los servicios acreditados como tal Magistrado en el caso de que la determinación de los haberes hubiera de hacerse por aplicación de las normas del título I de este texto, de acuerdo con lo dispuesto en el artículo 3.° del mismo.
+2. Igualmente, de acuerdo con el mismo precepto de la Ley Orgánica citada y en idéntico supuesto que el previsto en el número anterior, se tendrán en cuenta para el cálculo de la pensión correspondiente, sea cual sea la legislación de Clases Pasivas que resulte aplicable, los servicios acreditados como Magistrado del Tribunal Constitucional por el funcionario de que se trate.
+Estos servicios se computarán como prestados en el Cuerpo, Escala, Plaza, empleo o categoría de adscripción del funcionario al momento de acceder al Tribunal Constitucional y se tendrán en cuenta, al cesar el titular en el cargo de Magistrado, aun después de jubilado o retirado en dicho Cuerpo, Escala, Plaza, empleo o categoría, como mejora de haber pasivo a petición del interesado o sus familiares.
+3. Durante el tiempo de prestación de servicios como Magistrado del Tribunal Constitucional, vendrá el funcionario sujeto al pago de la cuota de derechos pasivos en los términos previstos en el artículo 23 de este texto.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El personal civil que desempeñe una prestación equivalente al servicio militar obligatorio y que durante el transcurso de la misma quede inutilizado o fallezca como consecuencia de los servicios que dicha prestación comprenda, causará derechos en el Régimen de Clases Pasivas en favor de sí mismo, su cónyuge e hijos o sus padres.
+El Gobierno determinará, a propuesta del Ministerio de Economía y Hacienda, la modalidad concreta y la extensión de estos derechos.
+Redactado conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1 de la Ley 17/1999, de 18 de mayo. Ref. BOE-A-1999-11194
+ Se modifica el apartado 1 por el art. 129.8 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+No obstante lo dispuesto en el número 2 del artículo 30 de este texto, el haber regulador aplicable a los servicios prestados por el personal comprendido en el número 1 del artículo 3 del mismo en los Cuerpos de Catedráticos y Profesores Titulares de Universidad y Catedráticos de Escuelas Universitarias coincidirá con el fijado en cada Ley de Presupuestos Generales del Estado para Cuerpos, Escalas, empleos o categorías que tuvieran asignados el índice de proporcionalidad 10, el coeficiente 5,5 y el grado de carrera administrativa 3, sea cual fuere la fecha de ingreso en los mismos del personal correspondiente.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+A efectos de los previsto en el número 4 del artículo 30 de este texto, el régimen de dedicación a tiempo parcial establecido en el Real Decreto 898/1985, de 30 de abril, para los Profesores pertenecientes a Centros Docentes Universitarios, tendrá la consideración de jornada reducida.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+En el caso de los servicios prestados por el funcionario en régimen de dedicación reducida en los Cuerpos especiales de Funcionarios Técnicos del Estado al servicio de la Sanidad Local, no obstante lo dispuesto en el artículo 30, número 4, de este texto, el haber regulador aplicable se tomará para la determinación del haber pasivo de que se trate reducido en un 25 por 100 en lo que corresponde a esos servicios prestados con dedicación reducida.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Para las pensiones especiales de guerra que se reconozcan al amparo de las Leyes 35/1980, de 26 de junio, 6/1982, de 29 de marzo y 5/1979, de 18 de septiembre, y del Decreto 670/1976, de 5 de marzo, a partir de la fecha de entrada en vigor de este texto, continuará rigiendo como legislación supletoria la legislación de Clases Pasivas vigente a 31 de diciembre de 1984, con las modificaciones recogidas en este texto.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El Gobierno podrá extender el sistema de complementos económicos a que se refiere el artículo 27 de este texto a las pensiones especiales de guerra derivadas de las normas citadas en la adicional anterior.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+1. El funcionario comprendido en el ámbito personal de cobertura del Régimen de Clases Pasivas que pase a prestar servicios en la Administración de las Comunidades Europeas y que opte por ejercer el derecho que le concede el artículo 11, número 2 del anexo VIII del Estatuto de los funcionarios de las Comunidades Europeas, aprobado por el Reglamento (CEE, EURATOM, CECA) del Consejo, de 29 de febrero de 1968, estará excluido de la acción protectora de dicho régimen de previsión una vez se haya realizado la transferencia a las Comunidades a que se refiere el citado Estatuto. En ningún caso le será de abono a efectos de Clases Pasivas el tiempo que permanezca prestando servicios en las Comunidades.
+En el supuesto de que cese en la prestación de servicios a las Instituciones Comunitarias y rein grese al servicio de la Administración española quedará de nuevo incluido en la acción protectora del Régimen de Clases Pasivas, computándose a dicho efecto, exclusivamente, los servicios prestados desde la fecha del citado reingreso.
+No obstante, si ejercitara el derecho que le confiere el artículo 11, número 1, del anexo VIII del Estatuto de los funcionarios de las Comunidades Europeas, una vez producido el correspondiente ingreso en el Tesoro Público, también se computarán como períodos de servicio activo en dicho Régimen el tiempo que hubiera permanecido el funcionario al servicio de las Comunidades, así como los períodos de servicios y, en su caso, de cotización que se tuvieron en cuenta, en su momento, para el cálculo de los derechos transferidos al régimen de pensiones comunitario.
+2. El Gobierno desarrollará por Decreto el procedimiento para las transferencias recíprocas de derechos con el régimen de previsión social del personal de las Comunidades Europeas, así como las condiciones, contenido y modalidades de las mismas.
+Se modifica por el art. 55.5 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
+
+### Disposición adicional décima
+
+Disposición adicional décima. Reconocimiento de derechos pasivos causados por quienes han perdido la condición de funcionario.
+1. El personal comprendido en las letras a) a h), ambas inclusive, y d) del número 1 del artículo 2 de este texto refundido que pierda la condición de funcionario, cualquiera que fuese la causa, así como el incluido en la letra k) del mismo artículo que termine su relación de servicio con las Fuerzas Armadas, conservará los derechos pasivos que para sí o sus familiares pudiera haber adquirido hasta ese momento, de acuerdo con lo establecido en el presente texto refundido, con las especialidades que se regulan en esta disposición y en la disposición adicional tercera y en los términos que reglamentariamente se determine.
+2. Para la determinación de las pensiones causadas por el indicado personal serán de aplicación las normas contenidas en el título I o el título II del presente texto refundido, según corresponda, en función de la fecha en que por edad dicho personal hubiera accedido a la jubilación o al retiro forzoso de no haber perdido la condición de funcionario, o en función de la fecha de su fallecimiento, si éste hubiera sido anterior a dicho momento, de acuerdo con las reglas contenidas en el artículo 3 de este texto refundido.
+3. El personal a que se refiere la presente disposición no causará derecho a la pensión ordinaria de jubilación o retiro por incapacidad permanente para el servicio regulada en el presente texto refundido.
+No obstante, en el supuesto de que dicho personal antes de alcanzar la edad de jubilación o retiro forzoso se encuentre afectado por una lesión o proceso patológico derivado de enfermedad o accidente, previsiblemente de carácter permanente o irreversible, que le inhabilite por completo para la realización de toda profesión u oficio, causará derecho a pensión ordinaria de jubilación o retiro por incapacidad para todo trabajo.
+4. A efectos del reconocimiento de los derechos pasivos a que se refiere la presente disposición, solamente se computarán los servicios prestados por el causante hasta el momento en que se hubiese producido la pérdida de su condición de funcionario.
+5. El reconocimiento de los derechos pasivos causados por el personal incluido en la presente disposición se efectuará siempre a instancia de parte, una vez que se acredite el cumplimiento de los requisitos exigidos en cada caso, sin que sea necesaria la declaración de jubilación o retiro a que se refiere el artículo 28 de este texto refundido.
+6. Los efectos económicos del reconocimiento del derecho a pensión ordinaria de jubilación o retiro forzoso se producirán desde el día primero del mes siguiente a aquél en que se acredite el cumplimiento de los requisitos exigidos en cada caso, siempre que la solicitud se formule dentro de los cinco años siguientes al cumplimiento de los mencionados requisitos. Transcurrido el citado período, la pensión surtirá efectos a partir del día primero del mes siguiente a la solicitud.
+En los supuestos de reconocimiento de pensión de jubilación o retiro voluntario y de pensión ordinaria de jubilación o retiro por incapacidad para todo trabajo, los efectos económicos de la pensión que pudiera causarse se producirán a partir del día primero del mes siguiente a la fecha de la solicitud.
+7. El personal a que se refiere la presente disposición causará derecho a pensiones extraordinarias, en propio favor o en el de sus familiares, cuando se incapacite permanentemente para todo trabajo o fallezca como consecuencia de actos de terrorismo. Para el reconocimiento del derecho a estas pensiones no se exigirá período alguno de carencia.
+La cuantía de tales pensiones será el doble de la que hubiera correspondido al beneficiario de la misma en circunstancias ordinarias, sin perjuicio de la aplicación de las reglas singulares sobre garantías y excepciones establecidas con carácter general para las pensiones que traen causa en actos de terrorismo.
+Se modifica el apartado 1 por el art. 60.7 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se añade por el art. 130 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Prestaciones en favor de los familiares.
+La regulación contenida tanto en el artículo 38 y en la disposición transitoria duodécima como en el artículo 41 de este texto, a excepción de lo dispuesto en el párrafo segundo del apartado 1 del último artículo citado, será de aplicación, respectivamente, a las pensiones de viudedad y de orfandad de Clases Pasivas del Estado causadas al amparo de la legislación vigente a 31 de diciembre de 1984, así como a las causadas en aplicación de la legislación especial de guerra; siempre que, en uno y otro caso y tratándose de orfandad, el límite de edad determinante de la condición de beneficiario de la pensión de orfandad fuese igual o menor de veintiún años.
+Asimismo, lo dispuesto en los artículos 37 bis y 37 ter será de aplicación a todas las pensiones de Clases Pasivas del Estado, cualquiera que sea su legislación reguladora, así como a las pensiones causadas al amparo de la legislación especial de guerra.
+Se modifica por la disposición final 11.5 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfundecima.
+ Se modifica por la disposición final 1 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+ Se modifica por la disposición final 3.5 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Se añade por el art. 49.4 de la Ley 50/1998, de 30 de diciembre.Ref. BOE-A-1998-30155
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Suministro de información.
+1. Los organismos competentes dependientes de los Ministerios de Inclusión, Seguridad Social y Migraciones, y de Hacienda o, en su caso, de las comunidades autónomas o de las diputaciones forales y ayuntamientos facilitarán, dentro de cada ejercicio anual, al Instituto Nacional de la Seguridad Social, a efectos de la gestión de las pensiones de Clases Pasivas y de otras prestaciones cuya gestión tienen encomendada en el ámbito de sus competencias, los datos que solicite relativos a la situación laboral, los niveles de renta y demás ingresos de los titulares de prestaciones, así como de los beneficiarios cónyuges y otros miembros de las unidades familiares, siempre que deban tenerse en cuenta para el reconocimiento, mantenimiento o cuantía de dichas prestaciones a fin de verificar si aquellos cumplen en todo momento las condiciones necesarias para la percepción de las prestaciones y en la cuantía legalmente establecida.
+2. El organismo que designe el Ministerio de Justicia facilitará al Instituto Nacional de la Seguridad Social la información que solicite acerca de las inscripciones y datos obrantes en el mismo y que puedan guardar relación con el nacimiento, modificación, conservación o extinción del derecho a las prestaciones económicas cuya gestión tiene encomendada.
+3. Todos los datos relativos a los solicitantes de prestaciones de su competencia que obren en poder del Instituto Nacional de la Seguridad Social, que hayan sido remitidos por otros organismos públicos mediante transmisión telemática o cuando aquellos se consoliden en los sistemas de información de Clases Pasivas, como consecuencia del acceso informático directo a las bases de datos corporativas de otros organismos, surtirán plenos efectos y tendrán la misma validez que si hubieran sido notificados por dichos organismos mediante certificación en soporte papel.
+Se modifica por la disposición final 2.11 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nula, en la redacción dada por la disposición final 1.11 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica por la disposición final 1.11 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade por la disposición final 1.2 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+A efectos de la extinción de las pensiones a favor de familiares del Régimen de Clases Pasivas del Estado reconocidas al amparo de la legislación vigente a 31 de diciembre de 1984, así como a las reconocidas en aplicación de la legislación especial de guerra, se equipara al matrimonio la constitución de una pareja de hecho en los términos que establece el artículo 38.4 del presente texto refundido.
+Se añade por la disposición final 2 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Dependencia económica en las pensiones en favor de padres.
+A efectos del reconocimiento de las pensiones en favor de padres, tanto ordinarias como extraordinarias, se presumirá que concurre el requisito de dependencia económica cuando la suma en cómputo anual de todas las rentas e ingresos de cualquier naturaleza que perciba la unidad familiar sea inferior al doble del salario mínimo interprofesional vigente.
+En el caso de familias monoparentales, se presumirá que concurre el requisito de dependencia económica cuando la suma indicada en el párrafo anterior sea inferior al salario mínimo interprofesional vigente.
+Se añade por la disposición final 1.6 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Plazos.
+Uno. Los efectos económicos derivados del reconocimiento de las prestaciones del Régimen de Clases Pasivas del Estado, cualquiera que sea su legislación reguladora, así como de la legislación especial de guerra, se retrotraerán, como máximo, tres meses a contar desde el día primero del mes siguiente a la presentación de la correspondiente solicitud.
+La retroactividad máxima de tres meses también se aplicará a las rehabilitaciones, reactivaciones, acumulaciones, así como a las revisiones que se efectúen de dichas prestaciones cuando, con posterioridad a la resolución del expediente, se aporten a la Administración nuevos documentos o elementos probatorios que acrediten hechos ignorados o insuficientemente acreditados en el momento de dicha resolución.
+Dos. El derecho de la Administración a solicitar el reintegro de las prestaciones indebidamente percibidas prescribirá a los cuatro años a partir de la fecha de su percepción o de aquella en que pudo ejercitarse la acción para exigir su devolución, con independencia de la causa que originó la percepción indebida.
+Para el cumplimiento de las obligaciones económicas establecidas en el Régimen de Clases Pasivas del Estado, el plazo de prescripción será, asimismo, de cuatro años.
+Se modifica el apartado 2 por la disposición final 2.12 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
+ Se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se modifica el apartado Dos por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Téngase en cuenta que esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Se añade por la disposición final 1.3 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Jubilación voluntaria.
+En la jubilación o el retiro de carácter voluntario, regulado en el artículo 28.2,b) del Texto Refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, el derecho a la correspondiente pensión estará condicionado a que los últimos cinco años de servicios computables estén cubiertos en el Régimen de Clases Pasivas del Estado, cuando para completar los treinta años de servicios exigidos hubieran de computarse períodos de cotización a otros regímenes, por aplicación de las normas sobre cómputo recíproco de cuotas entre regímenes de Seguridad Social.
+Dicha regla será asimismo de aplicación cuando para completar los treinta años de servicios exigidos hubieran de computarse períodos de seguro, residencia o asimilados cubiertos fuera de España, derivados de la aplicación de convenios bilaterales o de reglamentos comunitarios de coordinación de los sistemas de seguridad social, salvo que los referidos períodos correspondan a actividades que de haberse desarrollado en España hubieran dado lugar a la inclusión obligatoria del interesado en el Régimen de Clases Pasivas.
+Lo dispuesto en el primer párrafo no será de aplicación al personal de la Administración del Estado en servicio activo, servicios especiales, excedencia por cuidado de familiares y excedencia por razón de violencia de género que, como consecuencia de la superación de los procesos de acceso y promoción regulada en la normativa general de función pública, cambie de régimen de protección social. A efectos de acceder a la jubilación voluntaria regulada en el artículo 28.2.b) del Texto Refundido de la Ley del Clases Pasivas del Estado a este personal le será de aplicación la normativa vigente a 31 de diciembre de 2010.
+Se añade por la disposición final 1.4 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Extensión al Régimen de Clases Pasivas del Estado de la regulación establecida en el apartado 2 del artículo 210 del texto refundido de la Ley General de la Seguridad Social.
+A las pensiones del Régimen de Clases Pasivas del Estado que se causen a partir de 1 de enero de 2022, les será aplicable lo establecido en el apartado 2 del artículo 210 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
+A los efectos de lo establecido en esta disposición, las referencias hechas en el artículo mencionado en el párrafo anterior a las letras a) y b) del apartado 1 del artículo 205, al apartado 1 del artículo 210 y al artículo 57 del texto refundido de la Ley General de la Seguridad Social, se entenderá que se corresponden, respectivamente, con los artículos 28.2.a), 29, 31 y 27.3 de la presente ley. Asimismo, se entenderá por período de cotización o años de cotización o cotizados, los años de servicios efectivos al Estado según lo previsto en el artículo 32. Por su parte, las referencias a la base reguladora y al tope máximo de la base de cotización vigente en cada momento, en cómputo anual, deben entenderse hechas, respectivamente, a los haberes reguladores contemplados en el artículo 30 y al haber regulador del grupo/subgrupo A1 establecido en la Ley de Presupuestos Generales del Estado para cada ejercicio económico, en cómputo anual.
+Lo establecido en esta disposición únicamente será de aplicación en los supuestos contemplados en el artículo 31 del texto refundido de la Ley de Clases Pasivas del Estado.
+En consecuencia, a los efectos de lo establecido en los artículos 39, 42 y 45 de este texto refundido, la base reguladora de las diferentes pensiones estará constituida por la pensión de jubilación o retiro del fallecido, calculada exclusivamente conforme a lo dispuesto en el artículo 31, sin que en ningún caso sea de aplicación lo previsto en esta disposición adicional.
+Se modifica por el art. 2.2 de la Ley 21/2021, de 28 de diciembre. Ref. BOE-A-2021-21652#a2
+ Se añade por la disposición final 1.1 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Complemento para la reducción de la brecha de género.
+1. Las mujeres que hayan tenido uno o más hijos o hijas y que sean beneficiarias de una pensión de jubilación o retiro de carácter forzoso o por incapacidad permanente para el servicio o inutilidad o viudedad en el Régimen de Clases Pasivas, tendrán derecho a un complemento por cada hijo o hija, debido a la incidencia que, con carácter general, tiene la brecha de género en el importe de las pensiones de las mujeres. El derecho al complemento económico por cada hijo o hija se reconocerá o mantendrá a la mujer siempre que no medie solicitud y reconocimiento del complemento en favor del otro progenitor y si este otro es también mujer, se reconocerá a aquella que perciba pensiones públicas cuya suma sea de menor cuantía.
+Para que los hombres puedan tener derecho al reconocimiento del complemento deberá concurrir alguno de los siguientes requisitos:
+a) Causar una pensión de viudedad por fallecimiento del otro progenitor por los hijos o hijas en común, siempre que alguno de ellos tenga derecho a percibir una pensión de orfandad.
+b) Causar una pensión de jubilación o retiro de carácter forzoso o por incapacidad permanente para el servicio o inutilidad y haber interrumpido o haber visto afectada su carrera profesional con ocasión del nacimiento o adopción, según los siguientes requisitos:
+1.º En el supuesto de hijos o hijas nacidos o adoptados hasta el 31 de diciembre de 1994, tener más de ciento veinte días sin servicios efectivos al Estado, de acuerdo con lo previsto en el artículo 32 de este texto refundido, entre los nueve meses anteriores al nacimiento y los tres años posteriores a dicha fecha o, en caso de adopción, entre la fecha de la resolución judicial por la que se constituya y los tres años siguientes, siempre que la suma de las cuantías de las pensiones reconocidas sea inferior a la suma de las pensiones que le corresponda a la mujer.
+2.º En el supuesto de hijos o hijas nacidos o adoptados desde el 1 de enero de 1995, que el funcionario haya cesado en el servicio activo o haya tenido una reducción de jornada en los veinticuatro meses siguientes al del nacimiento o al de la resolución judicial por la que se constituya la adopción, en más de un 15 por ciento, respecto a la de los veinticuatro meses inmediatamente anteriores, siempre que la suma de las cuantías de las pensiones reconocidas sea inferior a la suma de las pensiones que le corresponda a la mujer.
+3.º Si los dos progenitores son hombres y se dan las condiciones anteriores en ambos, se reconocerá a aquel que perciba pensiones públicas cuya suma sea de menor cuantía.
+4.º El requisito, para causar derecho al complemento, de que la suma de las pensiones reconocidas sea inferior a la suma de las pensiones que le corresponda al otro progenitor se exigirá en el momento en que ambos progenitores causen derecho a una prestación contributiva en los términos previstos en la norma.
+2. El reconocimiento del complemento al segundo progenitor supondrá la extinción del complemento ya reconocido al primer progenitor y producirá efectos económicos el primer día del mes siguiente al de la resolución, siempre que la misma se dicte dentro de los seis meses siguientes a la solicitud o, en su caso, al reconocimiento de la pensión que la cause; pasado este plazo, los efectos se producirán desde el primer día del séptimo mes.
+Antes de dictar la resolución reconociendo el derecho al segundo progenitor se dará audiencia al que viniera percibiendo el complemento.
+3. El importe del complemento por hijo o hija se fijará en la correspondiente Ley de Presupuestos Generales del Estado. La cuantía a percibir estará limitada a cuatro veces el importe mensual fijado por hijo o hija y será incrementada al comienzo de cada año en el mismo porcentaje previsto en la correspondiente Ley de Presupuestos Generales del Estado para las pensiones contributivas.
+La percepción del complemento estará sujeta, además, a las siguientes reglas:
+a) Cada hijo o hija dará derecho únicamente al reconocimiento de un complemento económico.
+A efectos de determinar el derecho al complemento así como su cuantía, únicamente se computarán los hijos o hijas que con anterioridad al hecho causante de la pensión correspondiente hubieran nacido con vida o hubieran sido adoptados.
+b) No se reconocerá el derecho al complemento económico al padre o a la madre que haya sido privado de la patria potestad por sentencia fundada en el incumplimiento de los deberes inherentes a la misma o dictada en causa criminal o matrimonial.
+Tampoco se reconocerá el derecho al complemento al padre que haya sido condenado por violencia contra la mujer en los términos que se defina por la ley o por los instrumentos internacionales ratificados por España, ejercida sobre la madre, ni al padre o a la madre que haya sido condenado o condenada por ejercer violencia contra los hijos o hijas.
+c) El complemento será satisfecho en catorce pagas, junto con la pensión que determine el derecho a la misma.
+d) El importe del complemento no será tenido en cuenta en la aplicación del límite máximo de pensiones previsto en el artículo 27.3.
+e) El importe de este complemento no tendrá la consideración de ingreso o rendimiento de trabajo en orden a determinar si concurren los requisitos para tener derecho al complemento por mínimos previsto en el artículo 27.2. Cuando concurran dichos requisitos, se reconocerá la cuantía mínima de pensión según establezca anualmente la correspondiente Ley de Presupuestos Generales del Estado. A este importe se sumará el complemento para la reducción de la brecha de género.
+f) Cuando la pensión que determina el derecho al complemento, se cause por totalización de períodos de seguro a prorrata temporis en aplicación de normativa internacional, el importe real del complemento será el resultado de aplicar a la cuantía a la que se refiere el apartado anterior, que será considerada importe teórico, la prorrata aplicada a la pensión a la que acompaña.
+4. Sin perjuicio de lo dispuesto en el apartado 2, el complemento se abonará en tanto la persona beneficiaria perciba una de las pensiones citadas en el apartado 1. En consecuencia, su nacimiento, suspensión y extinción coincidirá con el de la pensión que haya determinado su reconocimiento. No obstante, cuando en el momento de la suspensión o extinción de dicha pensión la persona beneficiaria tuviera derecho a percibir otra distinta, de entre las previstas en el apartado 1, el abono del complemento se mantendrá, quedando vinculado al de esta última.
+5. Los complementos que pudieran ser reconocidos en cualquiera de los regímenes de Seguridad Social serán incompatibles entre sí, siendo abonado en el régimen en el que el causante de la pensión tenga más periodos de alta.
+6. El derecho al reconocimiento del complemento para la reducción de la brecha de género se mantendrá en tanto se mantenga la brecha de género de las pensiones de jubilación en los términos previstos en la disposición adicional trigésima séptima del texto refundido de la Ley General de la Seguridad Social aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+7. Para determinar qué pensiones o suma de pensiones de los progenitores tiene menor cuantía se computarán dichas pensiones teniendo en cuenta su importe inicial, una vez revalorizadas, sin computar los complementos que pudieran corresponder.
+Cuando ambos progenitores sean del mismo sexo y coincida el importe de las pensiones computables de cada uno de ellos, el complemento se reconocerá a aquel que haya solicitado en primer lugar la pensión con derecho a complemento.
+Se añade el apartado 7 por la disposición final 1 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#df
+ Téngase en cuenta, sobre el incremento del complemento de brecha de género en el período 2024-2025, la disposición transitoria 1 del citado Real Decreto-ley.
+ Se modifica por el art. 2.1 del Real Decreto-ley 3/2021, de 2 de febrero. Ref. BOE-A-2021-1529#a2
+ Téngase en cuenta para la determinación y aplicación del importe mensual del complemento lo dispuesto en la disposición adicional 1 del citado Real Decreto-ley.
+ Se modifica el apartado 2 por la disposición final 1.13 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+ Esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Téngase en cuenta que se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.13 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
+ Se añade por la disposición final 1.2 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 2016. Ref. BOE-A-2016-438.
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Incremento del porcentaje de determinadas pensiones de viudedad.
+El incremento de 8 puntos aplicable sobre la base reguladora correspondiente para determinar el importe de la pensión de viudedad, establecido en el último párrafo del artículo 39.3, será asimismo de aplicación, con los mismos requisitos, a las pensiones de viudedad causadas al amparo de la legislación vigente a 31 de diciembre de 1984.
+En los supuestos de pensiones de viudedad causadas al amparo de la legislación especial de guerra, este incremento se llevará a cabo en los siguientes términos:
+a) Las pensiones cuyo importe se calcula mediante la aplicación de un determinado porcentaje se incrementarán de acuerdo con lo previsto en el artículo 39.3, con los requisitos establecidos en el mismo.
+b) Las pensiones cuyo importe es igual a la cuantía mínima de las pensiones de viudedad de mayores de 65 años en el sistema de Seguridad Social se incrementarán en la misma cuantía que estas.
+Se modifica por la disposición final 6.4 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-7
+ Se añade por la disposición final 2.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Téngase en cuenta, en cuanto al incremento del porcentaje aplicable, lo dispuesto en la disposición adicional 55 de la citada Ley.
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Pensión de viudedad de parejas de hecho en supuestos excepcionales.
+Con carácter excepcional, se reconocerá derecho a la pensión de viudedad, con efectos de entrada en vigor de la presente disposición, cuando, habiéndose producido el fallecimiento de uno de los miembros de la pareja de hecho con anterioridad a la misma, concurran las siguientes circunstancias:
+a) Que a la muerte del causante no se hubiera podido causar derecho a pensión de viudedad.
+b) Que el beneficiario pueda acreditar en el momento de fallecimiento del causante la existencia de pareja de hecho, en los términos establecidos en el apartado 4 del artículo 38.
+c) Que el beneficiario no tenga reconocido derecho a pensión contributiva de la Seguridad Social.
+d) Para acceder a la pensión regulada en la presente disposición, la correspondiente solicitud deberá ser presentada en el plazo improrrogable de los doce meses siguientes a la entrada en vigor de la misma. La pensión reconocida tendrá efectos económicos desde el día primero del mes siguiente a la solicitud, siempre que se cumplan todos los requisitos previstos en esta disposición.
+Se añade por la disposición final 4.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-4
+
+### Disposición adicional vigésima primera
+
+Disposición adicional vigésima primera. Pensiones mínimas e indicadores de suficiencia en cumplimiento de la recomendación 15 del Pacto de Toledo.
+A las pensiones del régimen de Clases Pasivas del Estado les será de aplicación lo previsto en la disposición adicional quincuagésima tercera del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+Se añade, con efectos de 1 de enero de 2024, por el art. 79 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a7-11
+ Téngase en cuenta que la entrada en vigor de esta disposición es el 1 de enero de 2024 según determina la disposición final 13 del citado Real Decreto-ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. En los términos que se determinen reglamentariamente, el personal funcionario, civil y militar, de la Administración del Estado, ingresado con anterioridad a 1 de enero de 1985, y que antes de dicha fecha hubiera pasado de un cuerpo, escala, plaza o empleo, que tuviera asignado determinado índice de proporcionalidad, a prestar servicios en otro de índice de proporcionalidad superior, tendrá derecho a que se le computen, a los efectos del artículo 31 de este texto, hasta un máximo de diez años de los que efectivamente haya servido en el cuerpo, escala, plaza o empleo del menor de los índices de proporcionalidad, como si hubieran sido prestados en el mayor.
+2. El cómputo de servicios regulados en el número anterior será de aplicación a las pensiones del Régimen de Clases Pasivas que se causen por jubilación o retiro forzoso o por incapacidad permanente o inutilidad y por fallecimiento.
+Se modifica por el art. 49 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+No obstante lo dispuesto en el párrafo segundo del número 2 del artículo 31 de este texto, de conformidad con lo dispuesto en la disposición adicional primera de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, el personal comprendido en las letras a), b) y e) del número 1 del artículo 3 de este texto que con anterioridad a la entrada en vigor de dicha Ley 53/1984 y con arreglo a la legislación hasta entonces vigente hubiera simultaneado el desempeño de dos puestos de trabajo en el sector público, cuyos servicios, aisladamente considerados, pudieran dar origen al reconocimiento de derechos pasivos en su propio favor o en el de sus familiares, podrán causar simultáneamente las pensiones a que hubiera lugar pese a haberlo sido por la misma persona.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Para el personal civil de la Administración del Estado que ocupe destino en servicios centrales o periféricos de Madrid y que pertenezca a Cuerpos o Escalas afectados por el proceso de transferencias de medios y servicios a las Comunidades Autónomas, existirá una clase especial de jubilación anticipada que podrá declararse por el Gobierno, previo informe de la Comisión Superior de Personal, y a propuesta del Ministerio para las Administraciones Públicas.
+Para el cálculo de la correspondiente pensión se tomará como haber regulador el importe de las retribuciones básicas que viniera percibiendo el funcionario al momento de ser declarado jubilado en esta forma y al mismo se aplicará el porcentaje fijo del 150 por 100, sin que en ningún caso su importe pueda exceder del 80 por 100 de las retribuciones totales percibidas en dicho momento por aquél.
+Al cumplir el funcionario acogido a este supuesto especial de jubilación la edad de jubilación forzosa correspondiente, cesará en el percibo de esta pensión y pasará a cobrar la que ordinariamente le hubiera correspondido en el momento de su jubilación, aplica-dos, en su caso, los coeficientes de incremento que correspondan de acuerdo con lo dispuesto en el precedente artículo 27.
+Redactado el párrafo tercero conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. El personal militar retirado que con posterioridad a su retiro hubiese prestado servicios en cualquiera de los sectores o grados de la Administración pública por razón de su procedencia de las Fuerzas Armadas o Fuerzas de Orden Público, y que hubiese cesado en la prestación de estos servicios después de 31 de diciembre de 1984, no tendrá derecho a causar pensión de carácter civil dentro del Régimen de Clases Pasivas aunque dichos servicios, por sí solos, fueran suficientes para ello.
+No obstante, el reconocimiento de los servicios a que se refiere el párrafo anterior servirá para mejorar el importe de la pensión de retiro de la que ya se fuera titular o, en su caso, de las pensiones militares que pudieran causarse en favor de los familiares, mediante la incorporación a las mismas de los nuevos trienios perfeccionados, salvo que por tales servicios se tuviera derecho a pensión en otro régimen público de Seguridad Social.
+Dicha mejora no podrá suponer, en ningún caso, la aplicación de una legislación distinta a la que procedió en el momento del reconocimiento de la pensión de retiro.
+2. El personal militar retirado que con posterioridad a su retiro se hubiera integrado, como consecuencia o no de su procedencia de las Fuerzas Armadas o de Orden Público, en algún Cuerpo o Escala de la Administración pública como funcionario de carrera de carácter civil, incluido en el ámbito personal de cobertura del Régimen de Clases Pasivas previsto en el artículo 2 de este texto refundido, y hubiera sido declarado jubilado después de 31 de diciembre de 1984 conforme a lo establecido en el artículo 28 de esta misma norma o hubiese fallecido con posterioridad a esa fecha sin estar jubilado, tendrá derecho a causar pensión en su favor o en el de sus familiares con arreglo a las normas establecidas en el Título I de este texto legal.
+Esta pensión, tal y como se establece en el artículo 25.2 de esta norma, será incompatible con la de carácter militar que se hubiera podido causar.
+Se modifica por el art. 7 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+El personal comprendido en el ámbito de aplicación de la Ley 5/1976, de 11 de marzo, que, con anterioridad al 1 de enero de 1985, hubiera sufrido lesiones que le dieran derecho a ingresar en el Benemérito Cuerpo de Caballeros Mutilados de Guerra por la Patria conservará después de dicha fecha el derecho a ingresar en el mismo.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+El importe de la pensión de retiro del personal militar al que resulte de aplicación el artículo 4.° de la Ley de 13 de diciembre de 1943, una vez determinado de acuerdo con lo dispuesto en los artículos 30 y 31 de este texto, se corregirá con la aplicación del coeficiente 1,125, sin que, en ningún caso, el importe final pueda superar el que hubiera correspondido por aplicación de la legislación vigente a 31 de diciembre de 1984.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+1. Lo dispuesto en la letra e) del número 1 del artículo 32 de este texto, tendrá efectividad exclusivamente a partir del 1 de enero de 1987.
+2. Con anterioridad a dicha fecha, únicamente se considerarán como servicios efectivos al Estado los años completos de cotización a cualquier régimen público de Seguridad Social o sustitutorio de éste o a la Mutualidad Nacional de Previsión de Administración Local que tuviera acreditados el personal correspondiente y que no le dieran derecho alguno en tales regímenes.
+3. Lo dispuesto en la letra e), número 1, del artículo 32 de este texto y en los dos números anteriores se entenderá vigente hasta tanto se regule el cómputo recíproco de cotizaciones entre los regímenes del sistema de Seguridad Social que prevé la disposición adicional quinta de la Ley 30/1984, de 2 de agosto.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+1. Las pensiones extraordinarias de Clases Pasivas provenientes de actos de terrorismo que se hubieran causado entre el 1 de enero de 1985 y el 1 de enero de 1986 se calcularán conforme a las normas contenidas en el artículo 49, número 2, de este texto.
+2. Asimismo, las pensiones causadas por personal interino entre el 1 de enero de 1985 y el 1 de enero de 1986, se regularán por la legislación vigente a 31 de diciembre de 1984.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Hasta tanto no se dicte por el Gobierno el Reglamento para la aplicación de este texto a que se refiere la siguiente disposición final tercera, se entenderán aplicables a efectos reglamentarios las disposiciones en materia de Clases Pasivas del Estado vigentes a 31 de diciembre de 1984, en cuanto no se opongan a lo que en este texto se establece.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+Lo dispuesto en el artículo 29 de este texto no entrará plenamente en vigor hasta el primer día del año 1995. Hasta dicho momento, los períodos de carencia requeridos en cada momento para la pensión ordinaria de jubilación o retiro serán los fijados a continuación:
+Años
+ Hasta 1989 inclusive
+ 9
+ Durante 1990
+ 10
+ Durante 1991
+ 11
+ Durante 1992
+ 12
+ Durante 1993
+ 13
+ Durante 1994
+ 14
+Se añade por el art. 52.6 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+Lo dispuesto en párrafo segundo de la letra a) del número 2 del artículo 28 de este texto no entrará en vigor hasta el primer día del año 1995. Hasta dicho momento podrán solicitar prórroga en el servicio activo aquellos funcionarios que, en atención al año en que debía producirse su jubilación o retiro forzoso por cumplimiento de edad y el número de años de servicios efectivos al Estado, se encuentren en las circunstancias que establecen en el siguiente cuadro:
+Año en que se cumple
+ la edad de jubilación
+ o retiro forzoso
+ Número mínimo
+ de años de servicio
+ efectivos al Estado
+ Durante 1990
+ 7
+ Durante 1991
+ 8
+ Durante 1992
+ 9
+ Durante 1993
+ 10
+ Durante 1994
+ 11
+En todo caso, el periodo de carencia, de existir prorroga en el servicio activo, será exigido al momento de cumplir el funcionario la edad de jubilación o retiro forzoso.
+Se añade por el art. 2.2 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Téngase en cuenta que la disposición ya estaba añadida por el Real Decreto-Ley 7/1989, de 29 de diciembre.
+ Se añade por el art. 5.2 del Real Decreto-Ley 7/1989, de 29 de diciembre.Ref. BOE-A-1989-30591
+ Redactado conforme a la corrección de errores publicada en BOE núm. 9, de 10 de enero de 1990. Ref. BOE-A-1990-512
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Norma transitoria sobre pensión de viudedad en supuestos de separación judicial o divorcio anteriores al 1 de enero de 2008.
+El reconocimiento del derecho a la pensión de viudedad no quedará condicionado a que la persona divorciada o separada judicialmente sea acreedora de la pensión compensatoria a que se refiere el párrafo primero del apartado 2 del artículo 38 de este texto, cuando concurran en el beneficiario, además de la existencia de hijos comunes en el matrimonio o bien que tenga una edad superior a los 50 años en la fecha del fallecimiento del causante de la pensión, los siguientes requisitos:
+a) El divorcio o la separación judicial se haya producido con anterioridad a 1 de enero de 2008, fecha de entrada en vigor de la Ley 51/2007, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2008.
+b) Entre las fechas del divorcio o separación y del fallecimiento del causante de la pensión de viudedad haya transcurrido un período de tiempo no superior a diez años.
+c) El vínculo matrimonial haya tenido una duración mínima de diez años.
+En los supuestos a que se refiere el primer párrafo de esta disposición transitoria, la persona divorciada o separada judicialmente que hubiera sido deudora de la pensión compensatoria no tendrá derecho a la pensión de viudedad que pudiera causar, en su caso, la persona acreedora de aquélla.
+Lo dispuesto en esta disposición transitoria será también de aplicación a los hechos causantes producidos entre el 1 de enero de 2008 y 31 de diciembre de 2009, e igualmente les será de aplicación lo dispuesto en el artículo 38, apartado 2, de esta Ley.
+Se añade por la disposición final 10.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+
+### Disposición transitoria décima tercera
+
+Disposición transitoria décima tercera. Aplicación retroactiva a las pensiones extraordinarias por actos de terrorismo de la reclasificación de Personal de las Fuerzas y Cuerpos de Seguridad y Fuerzas Armadas.
+1. No obstante lo dispuesto en el párrafo primero del artículo 49.3 de este texto, las pensiones extraordinarias derivadas de actos de terrorismo causadas, en su propio favor o en el de sus familiares, por personal de las Fuerzas y Cuerpos de Seguridad y de las Fuerzas Armadas antes de la reclasificación regulada por el artículo 5 del Real Decreto-Ley 12/1995, de 28 de diciembre, sobre medidas urgentes en materia presupuestaria, tributaria y financiera, se determinarán considerando el haber regulador del grupo de clasificación que habría correspondido al causante de la pensión de haber permanecido en activo con posterioridad a dicha reclasificación.
+2. La aplicación de lo dispuesto en el párrafo anterior tendrá efectos a partir de 1 de enero de 2021. Hasta alcanzar esa fecha, los importes de estas pensiones se incrementarán en la cuantía que resulte de aplicar, a la diferencia entre la pensión que corresponderá en la fecha anterior y la que vinieran percibiendo a 1 de enero de 2017, el porcentaje señalado en la siguiente escala:
+A partir de 1 de enero de 2018: 25 por ciento.
+A partir de 1 de enero de 2019: en el 50 por ciento.
+A partir de 1 de enero de 2020: en el 75 por ciento.
+Se añade por la disposición final 1.3 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+### Disposición transitoria décima cuarta
+
+Disposición transitoria décima cuarta. Mantenimiento transitorio del complemento por maternidad en las pensiones de Clases Pasivas.
+Quienes, en la fecha de entrada en vigor del complemento para la reducción de la brecha de género prevista en la disposición adicional decimoctava, estuvieran percibiendo el complemento por maternidad mantendrán su percibo.
+La percepción de dicho complemento de maternidad será incompatible con el complemento para la reducción de la brecha de género que pudiera corresponder por el reconocimiento de una nueva pensión pública, pudiendo las personas interesadas optar entre uno u otro.
+En el supuesto de que el otro progenitor de alguno de los hijos o hijas que dio derecho al complemento de maternidad por aportación demográfica, solicite el complemento para la reducción de la brecha de género y le corresponda, por aplicación de lo establecido en la disposición adicional decimoctava de esta norma o por aplicación de lo dispuesto en el artículo 60 del texto refundido de la Ley General de la Seguridad Social aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, la cuantía mensual que le sea reconocida se deducirá del complemento por maternidad que se viniera percibiendo, con efectos económicos desde el primer día del mes siguiente al de la resolución, siempre que la misma se dicte dentro de los seis meses siguientes a la solicitud o, en su caso, al reconocimiento de la pensión que la cause; pasado dicho plazo, los efectos se producirán desde el primer día del séptimo mes siguiente a esta.
+Se añade por el art. 2.2 del Real Decreto-ley 3/2021, de 2 de febrero. Ref. BOE-A-2021-1529#a2
+
+### Disposición transitoria décima quinta
+
+Disposición transitoria décima quinta. Norma transitoria para la determinación del límite máximo para la pensión inicial desde 1 de enero de 2025.
+A partir del 1 de enero de 2025, a las pensiones del régimen de Clases Pasivas del Estado les será aplicable lo previsto en la disposición transitoria trigésima novena del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+Se añade por el art. 67 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#a6-9
+ Se deja sin efecto esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre, que la añadía. Ref. BOE-A-2025-1136
+ Se añade por el art. 81 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+1. Quedan derogadas:
+a) Las siguientes normas del texto refundido de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, aprobado por Decreto 1120/1966, de 21 de abril:
+El artículo 7.°, que se entiende sustituido por el artículo 17 de este texto.
+El párrafo tercero del número 5 del artículo 12.
+El número 1 y el número 4 del artículo 14.
+El artículo 15.
+Los números 3, 4 y 5 del artículo 19.
+El número 1 del artículo 32, que se entiende sustituido por el párrafo primero del número 2 del artículo 41 de este texto.
+El inciso «matrimonio anterior, o naturales, o adoptivos» de la letra A) del número 1 del artículo 36.
+La letra C) del número 1 del artículo 36.
+La letra D) del número 1 del mismo artículo 36.
+El inciso «legítimos, naturales o adoptivos» de la letra E) del número 1 del artículo 36.
+Los apartado a) y b) de la letra E) del número 1 del artículo 36, que se sustituye por el número 1 del artículo 41 de este texto.
+El apartado a) de la letra F) del número 1 del artículo 36, que quedará redactado de la siguiente manera: «Si sólo queda madre soltera, viuda o divorciada o padre en iguales circunstancias, recaerá en ella o en él la pensión conservándola mientras no contraiga matrimonio.»
+El apartado b) de la letra F) del número 1 del artículo 36, que quedará redactado como sigue: «Si quedaran ambos padres, la pensión recaerá en ellos conjuntamente, siempre que existiera vínculo matrimonial entre ellos, o que, de no existir, estuvieran solteros, viudos o divorciados.»
+Los apartados c) y d) de la letra F) del número 1 del artículo 36.
+El inciso «C) y D)» del número 2 del mismo artículo 36.
+El inciso «legítimos» del número 3 del mismo artículo 36.
+El número 4 del artículo 36.
+Los incisos «o con hijos naturales o adoptivos del causante o con unos y otros», «hijos adoptivos o naturales» e «hijos adoptivos y naturales» del número 5 del artículo 36.
+El número 1 del artículo 37, en su inciso final desde «sin perjuicio de que al enviudar de nuevo ...».
+Los números 2 y 3 del artículo 37.
+El inciso «varones» del número 1 del artículo 38, así como la referencia de éste a los «veintitrés años», que se entiende sustituida por «veintiún años».
+El inciso «las huérfanas» del número 2 del artículo 38, que se entiende sustituido por «los huérfanos».
+El número 3 del artículo 38.
+El artículo 40.
+b) Las siguientes normas del texto refundido de la Ley de Derechos Pasivos del personal militar y asimilado de las Fuerzas Armadas, la Guardia Civil y la Policía Armada, aprobado por Decreto 1211/1972, de 13 de abril.
+El artículo 6.°, que se entiende sustituido por el artículo 17 de este texto.
+El número 1 y el número 4 del artículo 12.
+Los números 3, 4 y 5 del artículo 16.
+El inciso «de matrimonio anterior, naturales o adoptivos» de la letra A) del número 1 del artículo 31.
+La letra C) del número 1 del artículo 31.
+La letra D) del número 1 del mismo artículo.
+El inciso «legítimos, naturales o adoptivos» de la letra E) del número 1 del artículo 31.
+Los apartados a) y b) de la letra E) del número 1 del artículo 31, que se sustituyen por el número 1 del artículo 41 de este texto.
+El apartado a) de la letra F) del número 1 del artículo 31, que quedará redactado como sigue: «Si sólo queda madre soltera, viuda o divorciada o padre en iguales circunstancias, recaerá en ella o en él la pensión, conservándola mientras no contraiga matrimonio.»
+El apartado b) de la letra F) del número 1 del artículo 31, que quedará redactado como sigue: «Si quedaran ambos padres, la pensión recaerá en ellos conjuntamente, siempre que exista vínculo matrimonial entre ellos, o que, de no existir, estuvieran solteros, viudos o divorciados.»
+Los apartados c) y d) de la letra F) del número 1 del artículo 31.
+El inciso «C) y D)» del número 2 del mismo artículo 31.
+El inciso «legítimos» del número 3 del artículo 31.
+El número 4 del mismo precepto.
+Los incisos «o con hijos naturales o adoptivos del causante o con unos y con otros» e «hijos adoptivos o naturales» del número 5 del artículo 31.
+El número 1 del artículo 32, en su inciso final, desde «sin perjuicio de que al enviudar de nuevo ...».
+Los números 2 y 3 del artículo 32.
+El inciso «varones» del número 1 del artículo 33, así como la referencia de éste a los «veintitrés años», que se entiende sustituida por «veintiún años».
+El inciso «las huérfanas» del número 2 del artículo 33, que se entiende sustituidos por «los huérfanos».
+El número 3 del artículo 33.
+El inciso «legítimos, adoptantes o naturales» del número 5 del artículo 34.
+c) Las siguientes normas del Estatuto de Clases Pasivas, aprobado por Real Decreto de 22 de octubre de 1926 y convalidado con fuerza de Ley por la de 9 de septiembre de 1931:
+El inciso «de las madres viudas» del artículo 18, que se entenderá sustituido por «de los padres».
+El inciso «de las madres viudas» del artículo 25, que se entenderá sustituido por «de los padres».
+El inciso «y sólo en los casos a que se refieren los artículos 65 a 70» del artículo 37, redactado conforme a la Ley 193/1964, de 24 de diciembre.
+El inciso «las viudas, huérfanas o, en su caso, las madres viudas» del artículo 47, redactado conforme a la Ley 193/1964, de 24 de diciembre, que se entenderá sustituidos por «los viudos, huérfanos o, en su caso, los padres».
+El inciso «legítimos, naturales o adoptivos» del artículo 71, redactado conforme a la Ley 193/1964, de 24 de diciembre.
+El inciso «madres viudas» del artículo 79, redactado conforme a la Ley 193/1964, de 24 de diciembre, que se entenderá sustituido por «padres».
+El inciso «de matrimonio anterior o naturales legalmente reconocidos» del primer párrafo del artículo 82, redactado conforme a la Ley 193/1964, de 24 de diciembre.
+El párrafo tercero del mismo artículo.
+El párrafo cuarto del mismo artículo.
+El párrafo quinto del mismo artículo.
+El párrafo sexto del mismo artículo, a partir de «sin perjuicio ...».
+Los párrafos octavo, noveno y décimo del mismo artículo 82.
+El inciso «legítimos naturales legalmente reconocidos o adoptivos por adopción plena» del primer párrafo del artículo 83, redactado de acuerdo con la Ley 193/1964, de 24 de diciembre.
+El párrafo segundo del mismo artículo 83, que se sustituye por el número 1 del artículo 41 de este texto.
+El párrafo tercero del mismo artículo.
+El inciso «tercero, octavo y noveno» en el párrafo cuarto del artículo 83.
+El párrafo sexto del artículo 83 y el inciso «legítimos» del párrafo quinto del mismo precepto.
+El primer párrafo del artículo 84, redactado conforme a la Ley 193/1964 de 24 de diciembre.
+El inciso «las huérfanas» del segundo párrafo del artículo 84, que se entiende sustituido por «los huérfanos».
+El inciso «la huérfana» del tercer párrafo del artículo 84, que se entiende sustituido por «el huérfano».
+El artículo 85.
+El artículo 87, redactado conforme la Ley 193/1964, de 24 de diciembre, que quedará como sigue: «Si al fallecimiento de un funcionario civil o militar, sólo quedasen madre soltera, viuda o divorciada o padre en igualdad de condiciones, recaerá en ella o en él la pensión, que perderán definitivamente si contrajeran matrimonio. Si la viuda o hijos de un funcionario civil o militar perdieran definitivamente la pensión, el derecho podrá transmitirse a la madre o al padre. Si al fallecimiento del funcionario vivieran ambos padres, la pensión la percibirán conjuntamente, siempre que existiera vínculo matrimonial entre ellos o que, de no existir, estuvieran solteros, viudos o divorciados.»
+El artículo 88.
+El artículo 89, redactado conforme la Ley 193/1964, de 24 de diciembre.
+El último párrafo del artículo 93, que se entiende sustituido por el artículo 17 de este texto.
+El último inciso del artículo 94, desde «se exceptúan los casos ...», hasta el final.
+El número 2 del artículo 96, redactado conforme la Ley 193/1964, de 24 de diciembre.
+d) Las siguientes normas del Reglamento para la aplicación del Estatuto de Clases Pasivas del Estado, aprobado por Real Decreto de 21 de noviembre de 1927 y convalidado por fuerza de Ley por la de 9 de septiembre de 1931:
+El inciso «madres» del artículo 174, redactado conforme la Ley 193/1964, de 24 de diciembre, que se entenderá sustituido por el de «padres».
+El inciso «madre viuda» del artículo 178, redactado conforme la Ley 193/1964, de 24 de diciembre, que se entenderá sustituido por la expresión «padres».
+Los incisos «o con hijos naturales o adoptivos del causante o con unos y otros» y «e hijos naturales o adoptivos» del artículo 191, redactado conforme la Ley 193/1964, de 24 de diciembre.
+El inciso «y tercero» y el inciso final «o sea privada de la pensión por aplicación de los párrafos octavo y noveno del citado artículo 82» del artículo 195.
+El artículo 196, redactado conforme la Ley 193/1964, de 24 de diciembre.
+El artículo 198, redactado conforme la Ley 193/1964, de 24 de diciembre.
+El artículo 199, redactado conforme la Ley 193/1964, de 24 de diciembre.
+El artículo 206.
+e) La Ley 82/1961, de 23 de diciembre, de actualización de pensiones de Clases Pasivas.
+f) El artículo 5.° de la Ley 19/1974, de 17 de junio, sobre mejora de Clases Pasivas.
+2. Asimismo, quedan derogados:
+a) El artículo 32, números 1, 2, 3, 4 y 5 de la Ley 30/1984, de 2 de agosto.
+b) Los artículos 26 a 41, ambos inclusive; el artículo 47; la disposición adicional quinta, letras d) y f), y las disposiciones transitorias segunda y cuarta de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985.
+c) El artículo 25 y la disposición adicional 50 de la Ley 46/1985 de 27 de diciembre, de Presupuestos Generales del Estado para 1986.
+d) Los números 3 y 4 del artículo 28 y el artículo 30 de la Ley 21/1986 de 23 de diciembre, de Presupuestos Generales del Estado para 1987.
+Redactados los apartados 1.b) y c) conforme a la corrección de errores publicada en BOE núm. 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en el presente texto.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno dictará, en el plazo de un año, contado a partir de la publicación de este texto, un Reglamento para su aplicación.
+En el mismo se integrarán las disposiciones administrativas que se hubieran dictado en desarrollo de la Ley de Presupuestos Generales del Estado para 1985 o de este mismo texto con anterioridad a la publicación del Reglamento a que se refiere el párrafo anterior.
+Redactado el segundo párrafo conforme a la corrección de errores publicada en BOE núm 171, de 18 de julio de 1987. Ref. BOE-A-1987-16795
+
+### Disposición final segunda
+
+Disposición final segunda.
+El presente texto entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 30 de abril de 1987.
+JUAN CARLOS R.
+El Ministro de Economía y Hacienda,
+CARLOS SOLCHAGA CATALAN
+
+### [Información relacionada]
+
+Información relacionada
+ Las referencias al Consejo Supremo de Justicia Militar deben entenderse hechas a la Dirección General de Personal del Ministerio de Defensa, según establece el art. 52.1 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+ Con efectos de 6 de octubre de 2020, toda referencia hecha por las normas reguladoras del Régiman de Clases Pasivas a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda o a la Dirección General de Personal del Ministerio de Defensa, se entenderá realizada al Instituto Nacional de la Seguridad Social en materia de gestión de prestaciones, en la forma establecida por la disposición adicional 6.6 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#da-6, en relación con la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+ Téngase en cuenta que se declara la inconstitucionalidad y nulidad, diferida hasta el 1 de enero de 2022, de la disposición adicional 6 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024

@@ -1,0 +1,243 @@
+# Ley 38/1991, de 30 de diciembre, de Instalaciones Destinadas a Actividades con Niños y Jóvenes.
+
+- Identificador BOE: `BOE-A-1992-5615`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-5615
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en mombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente
+LEY 38/1991, DE 30 DE DICIEMBRE, DE INSTALACIONES DESTINADAS A ACTIVIDADES CON NIÑOS Y JÓVENES
+Según el artículo 9.26 del Estatuto de Autonomía de Cataluña, la Generalidad tiene competencia exclusiva en materia de juventud.
+La tradición existente en Cataluña en materia de asociacionismo juvenil ha hecho que un número notable de locales e instalaciones, de iniciativa pública o privada, se destinen a la realización de actividades para chicos y chicas.
+Por otro lado, el progresivo aumento de casas habilitadas para la realización de actividades de tiempo libre para niños y jóvenes y la conveniencia de que estas instalaciones dispongan de unas condiciones que permitan ofrecer un buen servicio a los usuarios aconsejaron al Gobierno de la Generalidad la publicación, en uso de sus competencias, de varias disposiciones destinadas a definir los requisitos y los servicios mínimos exigibles a las casas de colonias y los albergues de juventud.
+La experiencia alcanzada desde la publicación de estas normativas, la conveniencia de disponer una ordenación de las instalaciones destinadas preferentemente a los niños y a los jóvenes en su tiempo libre y la necesidad de poder tipificar las infracciones posibles y las sanciones aplicables correspondientes justifican que se considere oportuno regular mediante una ley las características y las condiciones básicas requeridas por la apertura y el funcionamiento de estas instalaciones.
+La necesidad de la presente Ley no implica que deba ser exhaustiva. La variedad de instalaciones existentes y el dinamismo propio del mundo juvenil, que genera constantemente nuevas iniciativas, que piden también nuevos tipos de locales, hacen imposible una regulación completa, por la Ley, de todas las situaciones. Por ello, ésta se limita a determinar algunos principios básicos y posibilita que futuras normativas amplíen y concreten, en cada caso, su desarrollo y alcance.
+La presente Ley se estructura en tres capítulos que establecen, respectivamente, el objeto de la Ley y las instalaciones incluidas en su ámbito (I), a quién corresponde el ejercicio de las competencias reguladas (II) y el régimen sancionador (III). Dos disposiciones transitorias y una final cierran el texto legal.
+Para una adecuada actuación de las distintas Administraciones autonómica y local en un campo que les afecta a ambas, la presente Ley promueve la oportuna colaboración entre la Generalidad y los consejos comarcales y los ayuntamientos estableciendo el ejercicio por los entes locales de potestades de ejecución en la materia objeto de la Ley.
+
+## CAPÍTULO I
+
+Objeto
+
+### Artículo 1
+
+Artículo 1.
+1. La presente Ley tiene por objeto la regulación de las características y los requisitos mínimos de las instalaciones destinadas a actividades de ocio con niños y jóvenes, a centros de enseñanza y a entidades, asociaciones y grupos de niños y jóvenes para la realización de actividades educativas en el tiempo libre y actividades de ocio.
+2. La edad de los niños y la de los jóvenes, a los efectos de la presente ley, es la que establece la normativa sectorial correspondiente.
+Se modifica por la disposición modificativa.1 y 2 de la Ley 33/2010, de 1 de octubre. Ref. BOE-A-2010-16137#dm.
+
+### Artículo 2
+
+Artículo 2.
+1. En cualquier caso, la presente Ley regula las siguientes instalaciones:
+a) Casas de colonias. Se entiende por casa de colonias toda instalación que permanente o temporalmente se destine a dar alojamiento a grupos de niños o de jóvenes participantes en actividades educativas en el tiempo libre, culturales y de ocio.
+b) Albergues de juventud. Se entiende por albergue de juventud toda instalación que permanente o temporalmente se destine a dar alojamiento, como lugar de paso, de estancia o de realización de una actividad, a jóvenes, en forma individual o colectiva, así como, con determinadas condiciones, a familias, adultos y grupos de niños.
+c) Granjas escuela o aulas de naturaleza, entendiendo por tales las casas de colonias que ofrecen equipamientos suficientes y adecuados para el trabajo didáctico en el tiempo libre con niños y jóvenes en técnicas agrarias y ganaderas, en el conocimiento del medio natural y en la educación ambiental.
+d) Campamentos juveniles: Son instalaciones al aire libre dotadas de unos equipamientos básicos; se destinan exclusivamente a la realización de estancias con grupos de niños y jóvenes, organizadas por entidades o instituciones debidamente reconocidas.
+2. El Gobierno de la Generalitat puede determinar qué otras instalaciones destinadas a actividades de ocio con niños y jóvenes se ajustarán a las disposiciones de la presente Ley.
+Se modifica por la disposición modificativa.2 de la Ley 33/2010, de 1 de octubre. Ref. BOE-A-2010-16137#dm.
+
+### Artículo 3
+
+Artículo 3.
+1. El funcionamiento de las instalaciones objeto de la presente ley requiere la comunicación previa a la administración competente, para que se manifieste sobre el cumplimiento de los requisitos que la normativa establece.
+2. La administración competente, una vez recibida la comunicación, tiene que inscribir de oficio la instalación en el Registro de instalaciones destinadas a actividades con niños y jóvenes correspondiente.
+Se modifica el apartado 1 por el art. 212.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+ Se modifica por el art. 18 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a18.
+
+### Artículo 4
+
+Artículo 4.
+1. El Gobierno tiene que establecer por reglamento las condiciones técnicas que tiene que cumplir cada tipo de instalación para garantizar su función educativa, la correcta prestación de los servicios que ofrece, la calidad de vida y la seguridad de los usuarios y usuarias, y la evitación de molestias a terceras personas y de efectos negativos para el entorno.
+2. Las instalaciones tienen que garantizar las condiciones mínimas necesarias de higiene y seguridad que exige la normativa aplicable y tienen que cumplir la normativa sobre medidas preventivas en relación con sustancias que pueden generar dependencia y sobre supresión de barreras arquitectónicas y de accesibilidad.
+3. Todas las instalaciones tienen que contar con un seguro de responsabilidad civil o garantía equivalente que sea adecuada y suficiente. Reglamentariamente se tiene que determinar la forma y la cuantía.
+Se modifica por el art. 19 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a19.
+ Se modifica el apartado 3 por el art. 31.1 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Artículo 5
+
+Artículo 5.
+El funcionamiento de instalaciones destinadas a actividades de ocio con niños y jóvenes situadas en inmuebles declarados bienes culturales de interés nacional o catalogados que, dado su valor cultural, no pueden cumplir las condiciones reglamentarias para estos tipos de establecimientos, requiere la adopción de medidas alternativas para garantizar la falta de riesgo para la seguridad y la higiene de las personas y para la integridad del inmueble. En su caso, la tramitación del expediente debe ajustarse a lo que disponga la normativa sectorial correspondiente.
+Se modifica por el art. 212.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+ Se modifica por la disposición modificativa.2 de la Ley 33/2010, de 1 de octubre. Ref. BOE-A-2010-16137#dm.
+ Se modifica por el art. 20 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a20.
+
+## CAPÍTULO II
+
+Titularidad y ejercicio de las competencias
+
+### Artículo 6
+
+Artículo 6.
+Corresponde a la Administración de la Generalidad el ejercicio de las competencias que son objeto de la presente Ley, sin perjuicio de lo establecido en los artículos 7, 8 y 14.
+
+### Artículo 7
+
+Artículo 7.
+1. De acuerdo con lo que dispone el artículo 71 del Texto refundido de la Ley municipal y de régimen local de Cataluña, aprobado por el Decreto legislativo 2/2003, de 28 de abril, los municipios pueden ejercer por delegación potestades de ejecución en la materia objeto de esta Ley, las cuales tienen que incluir la gestión y tramitación que deriva de la comunicación previa, las facultades de inspección y también las de sanción previstas en el artículo 14, siempre que se adopte un acuerdo expreso en este sentido en el que se justifique la capacidad técnica, financiera y de gestión para llevarlas a cabo. Se tiene que informar a la Administración de la Generalidad de este acuerdo, según lo que prevé la normativa de régimen local.
+2. En los términos de la Ley 6/1987, de 4 abril, de la Organización Comarcal de Cataluña, pueden delegarse en la comarca las potestades de ejecución en la materia objeto de la presente Ley.
+3. La competencia a que se refiere el apartado 2 se ejercerá respecto a las instalaciones ubicadas dentro del término de los municipios comprendidos en la correspondiente demarcación comarcal, salvo aquellos municipios que ejerzan potestades de ejecución en virtud de lo que se establece en el apartado 1.
+Se modifica el apartado 1 por el art. 21 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a21.
+
+### Artículo 8
+
+Artículo 8.
+1. La Administración de la Generalitat se reserva la inspección del cumplimiento y ejecución por los Consejos Comarcales de la normativa específica en la materia objeto de la presente Ley a que se refiere el artículo 7.
+2. En cualquier caso, corresponde a la Administración de la Generalidad:
+a) Ejercer la potestad reglamentaria general.
+b) Formular requerimientos para la corrección de las deficiencias que se observen, de acuerdo con lo dispuesto en el apartado 1 del presente artículo.
+c) Ejercer los controles establecidos por la legislación sobre régimen local.
+
+### Artículo 8 bis
+
+Artículo 8 bis.
+La gestión del Registro de instalaciones destinadas a actividades con niños y jóvenes corresponde al órgano competente en materia de juventud de la Administración de la Generalidad, que la lleva a cabo de acuerdo con el contenido y funcionamiento que se establece por reglamento.
+Se añade por el art. 22 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a22.
+
+### Artículo 9
+
+Artículo 9.
+Las entidades locales tienen que informar al órgano competente en materia de juventud de la Administración de la Generalidad de la documentación que reciben en aplicación del artículo 3.1 y de las sanciones que imponen en cumplimiento de esta Ley.
+Se modifica por el art. 23 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a23.
+
+## CAPÍTULO III
+
+Régimen sancionador
+
+### Artículo 10
+
+Artículo 10.
+1. Son infracciones de la presente Ley las acciones u omisiones que vulneren las disposiciones de la presente Ley o de la normativa que la despliegue.
+2. Las infracciones se califican como leves, graves y muy graves.
+3. Son faltas muy graves contra lo dispuesto en la presente ley:
+a) La reincidencia en las faltas graves.
+b) El funcionamiento de la instalación sin comunicación previa a la Administración competente, y la inexactitud, falsedad u omisión de carácter esencial en los datos, las manifestaciones o los documentos que acompañen una comunicación previa o se incorporen a la misma.
+c) El hecho de que la persona titular de la instalación organice, permita o tolere actividades ilegales en la misma, sin perjuicio de las responsabilidades que se deriven de estas actividades.
+d) Las modificaciones de la instalación que alteren de manera sustancial las condiciones con que se hizo la comunicación previa sin haber hecho una nueva comunicación.
+e) El incumplimiento de cualquier norma sobre locales e instalaciones que signifique un riesgo grave para la seguridad de las personas.
+f) El exceso en el aforo establecido en la comunicación, si comporta un riesgo manifiesto para la salud o la seguridad de los usuarios y usuarias.
+g) La negativa a permitir el acceso a la instalación de las personas inspectoras acreditadas, en el ejercicio de sus funciones.
+h) El deterioro del estado general o de algún elemento determinado de la instalación que implique un peligro grave para la salud o la seguridad de las personas.
+4. Son faltas graves contra lo dispuesto en la presente Ley:
+a) La reincidencia en las faltas leves.
+b) El incumplimiento de cualquier norma sobre locales e instalaciones que signifique un riesgo para la seguridad de las personas.
+c) El exceso no ocasional en el aforo establecido en la comunicación, si no comporta un riesgo para la seguridad de los usuarios y usuarias.
+d) El mal estado de conservación y mantenimiento de los locales, las instalaciones o los servicios, si produce incomodidad a los usuarios o merma la higiene exigible.
+e) Permitir la utilización de dependencias o servicios de la instalación a personas o grupos ajenos a las finalidades de las instalaciones de niños y jóvenes cuando dificulte la actividad normal de sus usuarios y usuarias.
+f) La obstrucción al ejercicio de la función inspectora.
+g) La falta del seguro de responsabilidad civil preceptivo o garantía equivalente.
+5. Son faltas leves las infracciones de la presente Ley que no hayan sido calificadas como graves o muy graves.
+Se modifica el apartado 3 por el art. 212.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+ Se modifica por el art. 24 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a24.
+
+### Artículo 11
+
+Artículo 11.
+1. Las faltas muy graves pueden ser sancionadas con una multa de 6.000 a 30.000 euros y, alternativamente o conjuntamente con esta, puede acordarse el cese temporal en el ejercicio de la actividad correspondiente por un período máximo de doce meses. Esta suspensión debe inscribirse en el Registro de instalaciones destinadas a actividades con niños y jóvenes.
+2. La reincidencia y la reiteración en faltas muy graves y la comisión de las faltas muy graves establecidas por las letras b y d del artículo 10.3 suponen dejar sin efecto la comunicación previa, la anulación de la inscripción en el Registro de instalaciones destinadas a actividades con niños y jóvenes, y el cierre de la instalación.
+3. Las faltas graves pueden ser sancionadas con una multa de 600 a 5.999 euros y, alternativamente o conjuntamente con esta, puede acordarse la imposibilidad de continuar el ejercicio de la actividad correspondiente por un período máximo de seis meses. Esta suspensión debe inscribirse en el Registro de instalaciones destinadas a actividades con niños y jóvenes.
+4. Las faltas leves pueden ser sancionadas con una multa de 150 a 599 euros.
+5. La imposición de multas es independiente del resarcimiento de los daños y de la indemnización de los prejuicios ocasionados por la infracción.
+Se modifica por el art. 212.4 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+ Se modifica por el art. 25 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a25.
+
+### Artículo 12
+
+Artículo 12.
+A efectos del procedimiento sancionador, se considera que existe reincidencia si durante los doce meses inmediatamente anteriores a la comisión de la falta el infractor hubiera sido sancionado por una falta con la misma calificación.
+
+### Artículo 13
+
+Artículo 13.
+Para la graduación de las sanciones se tendrá en cuenta:
+a) Los perjuicios ocasionados.
+b) La reiteración.
+c) La intencionalidad.
+d) La utilidad social de la instalación.
+e) La relación contractual existente entre el titular de la instalación y los usuarios afectados.
+
+### Artículo 14
+
+Artículo 14.
+1. Es aplicable a las sanciones establecidas por la presente ley el procedimiento sancionador regulado por la Ley de procedimiento administrativo.
+2. Son competentes para la incoación de expedientes sancionadores el director o la directora general de Juventud y los presidentes de los entes locales que hayan asumido las competencias ejecutivas de acuerdo con lo establecido por la presente ley.
+3. Son competentes para la resolución de los expedientes sancionadores:
+a) Los presidentes de los entes locales mencionados en el párrafo anterior, para sancionar infracciones con multas de hasta 14.000 euros y con el cese temporal en el ejercicio de la actividad correspondiente por un período máximo de seis meses.
+b) La unidad directiva competente en materia de juventud, para sancionar infracciones con multas de 14.001 a 22.000 euros y el cese temporal en el ejercicio de la actividad correspondiente por un período máximo de doce meses.
+c) El consejero o la consejera competente en materia de juventud, para sancionar infracciones con multas superiores a los 22.000 euros y con el cierre de la instalación.
+4. Contra las resoluciones del director o la directora general de Juventud puede interponerse recurso de alzada ante el titular del departamento competente en materia de juventud.
+5. Contra las resoluciones de los presidentes de los consejos comarcales y de los alcaldes pueden interponerse los recursos que establece la correspondiente legislación aplicable.
+Se modifica por el art. 212.5 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+ Se modifica el apartado 3 por el art. 26 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a26.
+ Se modifica por el art. 2 del Decreto Legislativo 2/1994, de 13 de julio. Ref. DOGC-f-1994-90004.
+
+### Artículo 15
+
+Artículo 15.
+1. Las faltas leves señaladas en la presente Ley prescriben a los seis meses de haberse cometido, las graves al año y las muy graves a los dos años.
+2. Cualquier actuación de la Administración en relación a las faltas interrumpe la prescripción e inicia de nuevo el cómputo de los plazos fijados.
+
+### Artículo 16
+
+Artículo 16.
+Las sanciones firmes por faltas muy graves deben inscribirse en el Registro y deben publicarse con el nombre de las personas infractoras en los medios propios de la dirección general competente en materia de juventud.
+Se modifica por el art. 212.6 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+
+### Artículo 17
+
+Artículo 17. Infracciones en la realización de actividades de educación en el tiempo libre.
+1. Tiene la consideración de falta grave el incumplimiento de la obligación de notificar las actividades de educación en el tiempo libre al departamento competente en materia de juventud, en los términos que establece la normativa reguladora de las actividades de educación en el tiempo libre, independientemente de la instalación o el lugar donde se realice la actividad.
+2. La sanción se aplica a la entidad organizadora de la actividad o, en su defecto, a la entidad promotora de la actividad.
+3. La competencia para resolver el expediente sancionador de esta falta grave corresponde a la unidad directiva competente en materia de juventud, con independencia del importe de la multa propuesta.
+Se añade por el art. 161 de la Ley 5/2020, de 29 de abril. Ref. BOE-A-2020-5569
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se faculta al Gobierno de la Generalidad para actualizar anualmente las cuantías de las sanciones establecidas en la presente Ley, de acuerdo con la realidad socio-económica de Cataluña.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Gobierno de la Generalidad, con la colaboración de las otras administraciones públicas de Cataluña y el Consejo Nacional de la Juventud, elaborará un Mapa de instalaciones destinadas a actividades de ocio con niños y jóvenes de Cataluña a fin de orientar la actuación pública y privada en este campo.
+Se modifica por la disposición modificativa.2 de la Ley 33/2010, de 1 de octubre. Ref. BOE-A-2010-16137#dm.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+A partir de la entrada en vigor del artículo 8 bis, el Registro de instalaciones destinadas a actividades con niños y jóvenes sustituye el libro registro previsto en el Decreto 276/1994, de 14 de octubre, y en el Decreto 140/2003, de 10 de junio.
+Se añade por el art. 27 del Decreto Legislativo 3/2010, de 5 de octubre. Ref. BOE-A-2010-16139#a27.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se dicten las normas que desplieguen la presente Ley, siguen vigentes el Decreto 269/1985, la Orden 25 de septiembre de 1985 y la Orden de 12 de febrero de 1987, en todo cuanto no se opongan a la presente Ley.
+
+### Disposiciones transitorias primera a tercera
+
+Disposiciones transitorias primera a tercera.
+(Derogadas).
+Se derogan por el art. 212.7 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-24
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las solicitudes de autorización de funcionamiento de instalaciones presentadas antes de la fecha de entrada en vigor de la presente Ley se tramitarán de acuerdo con la normativa citada en la Disposición Transitoria Primera.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El Gobierno de la Generalidad impulsará la creación de un grupo de estudio sobre la armonización de la reglamentación catalana y la del resto de la Europa comunitaria relativa a las instalaciones objeto de la presente Ley.
+
+### Disposición final
+
+Disposición final.
+El Gobierno de la Generalidad y el titular del departamento competente en la materia objeto de la presente Ley dictarán las normas precisas para su desarrollo antes de un año, a contar desde la fecha de su publicación en el «Diario Oficial de la Generalidad de Cataluña».
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley, cooperen en su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 30 de diciembre de 1991.
+JORDI PUJOL

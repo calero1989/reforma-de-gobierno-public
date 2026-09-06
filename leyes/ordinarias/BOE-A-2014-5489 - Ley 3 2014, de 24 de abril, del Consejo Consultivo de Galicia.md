@@ -1,0 +1,366 @@
+# Ley 3/2014, de 24 de abril, del Consejo Consultivo de Galicia.
+
+- Identificador BOE: `BOE-A-2014-5489`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2014-5489
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+1
+Con el antecedente de las previsiones sobre la posible existencia de instituciones consultivas autonómicas equivalentes al Consejo de Estado contenidas en la Ley 7/1985, reguladora de las bases del régimen local, en el Texto refundido de las disposiciones legales vigentes en materia de régimen local, aprobado por Real decreto legislativo 781/1986, de 18 de abril, y en la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, y, sobre todo, con el explícito reconocimiento por el Tribunal Constitucional de las facultades de las comunidades autónomas para crear, en virtud de sus potestades de autoorganización, órganos consultivos propios, de las mismas características y con idénticas o semejantes funciones a las del Consejo de Estado, procedió la Comunidad Autónoma de Galicia, mediante la Ley 9/1995, de 10 de noviembre, a la creación del Consejo Consultivo de Galicia, que habría de prestar la garantía que para el interés general y la legalidad objetiva representaba, hasta entonces, la intervención preceptiva del Consejo de Estado en determinados procedimientos y actuaciones de las administraciones públicas de Galicia. Desde tal momento los dictámenes del Consejo de Estado pasaron a ser sustituidos, en materias de competencia autonómica, por los emitidos por esa nueva institución consultiva.
+Los más de tres lustros transcurridos desde la entrada en vigor de dicha ley supusieron un lapso de tiempo suficiente para comprobar la eficacia del Consejo Consultivo de Galicia. Pero ese tiempo también puso de relieve la necesidad de dotar a la institución de unas características que se ajusten mejor al complejo sistema jurídico actual, a la exigencia de satisfacción de los intereses públicos a los que, con objetividad, han de servir los órganos decisores para los cuales la institución consultiva dictamina o informa, y a los principios de eficiencia y economía del gasto público, todo ello con pleno respeto a las garantías institucionales de autonomía orgánica y funcional, que, por definir la esencia de los consejos consultivos, según los criterios establecidos por el Tribunal Constitucional, son infranqueables para el legislador.
+2
+Partiendo de aquellos parámetros, en la revisión que se efectúa a través de la presente ley, en su título I, se comienza definiendo la posición institucional del Consejo Consultivo de Galicia como supremo órgano consultivo de la Xunta de Galicia y de las administraciones públicas integradas en su territorio, con lo cual se precisa el alcance subjetivo de sus funciones, que no solo abarcan a la Administración general de la Comunidad Autónoma de Galicia, con todos los entes que integran el sector público autonómico, sino que también se extienden a las entidades locales y universidades públicas de Galicia.
+Frente al sistema de designación gubernamental de los miembros electivos del órgano consultivo, por el que ha optado el legislador de 1995 en coherencia con las limitadas funciones que al Consejo Consultivo de Galicia se le encomendaban en los procesos de producción normativa, se implanta en el título II de la presente ley, como uno de los rasgos fundamentales que caracterizan a ese órgano, un sistema mixto que da participación al Parlamento en la elección de tres de los miembros electivos del Consejo Consultivo, atendiendo a las nuevas competencias de intervención del mismo en la actividad del legislativo, siquiera lo sea en fase de iniciativa del Gobierno y con carácter facultativo, dotándole también, a su vez, de un necesario equilibrio institucional.
+Por otra parte, el hecho de que la multiplicidad de funciones que se le asignan al Consejo Consultivo giren, en esencia, en torno a materias que afectan específicamente a disciplinas de derecho público, hace oportuno que la elección de los miembros electivos recaiga sobre personas dotadas de unos perfiles técnico-jurídicos que estén en consonancia con tal circunstancia.
+En el título III se amplían las competencias del órgano consultivo, respecto al que le precedió, desde una doble óptica: primero, nivelando las funciones dictaminadoras y las asesoras, de modo que la llamada función dictaminadora, limitada a comprobar si determinadas propuestas de resoluciones o proyectos de textos normativos ya elaborados se ajustan al ordenamiento jurídico y a una correcta técnica, se completa con la función de asesoramiento técnico de los poderes públicos, que abarca la posible redacción de anteproyectos legislativos, la elaboración de propuestas legislativas o de reforma estatutaria, y, sobre todo, la emisión de informes sobre cuestiones concretas de especial trascendencia para la Comunidad Autónoma de Galicia; segundo, ajustando el ámbito competencial del órgano consultivo al vigente marco legal (incluyendo, entre otras, las funciones de dictaminar sobre la revisión de oficio de disposiciones generales, la declaración de nulidad de pleno derecho de los actos dictados en materia tributaria, el planteamiento de conflictos en defensa de la autonomía local, la aprobación de pliegos de cláusulas administrativas generales o las modificaciones de los contratos administrativos), añadiendo otras competencias, que hoy son lugar común en las legislaciones autonómicas (como las relativas a la emisión de dictámenes previos a la interposición por el Consello de la Xunta de recursos de inconstitucionalidad y conflictos de competencia ante el Tribunal Constitucional), y atribuyendo al órgano consultivo competencia para emitir dictámenes facultativos en los procesos de elaboración de leyes de iniciativa de la Xunta.
+La regulación y competencias de los órganos en que se articula el Consejo Consultivo y el procedimiento de adopción de sus acuerdos son el objeto de los títulos IV y V de la presente ley, mereciendo destacarse, en el primer aspecto, la configuración de un órgano de nuevo cuño, la Sección de Estudios e Informes, que va a contar con la aportación de la valiosa y excepcional experiencia de las consejeras y consejeros natos y a la que se le encomienda en la ley la redacción de los anteproyectos legislativos y la elaboración de las propuestas legislativas o de reforma estatutaria que el Consello de la Xunta pueda encomendar al Consejo Consultivo, como asimismo la realización de los informes que la persona titular de la Presidencia de la Xunta de Galicia le solicite.
+Finalmente, en el título VI, y sin perjuicio de las necesarias referencias al personal al servicio del Consejo Consultivo y al cuerpo de personal letrado de la institución, se encomienda el desarrollo pormenorizado de su organización y funcionamiento a un futuro reglamento, que será elaborado por el Consejo Consultivo y aprobado por el Consello de la Xunta.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2 del Estatuto de autonomía de Galicia y con el artículo 24 de la Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidencia, promulgo en nombre del Rey, la Ley del Consejo Consultivo de Galicia.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza.
+El Consejo Consultivo de Galicia es el supremo órgano consultivo de la Xunta de Galicia y de las administraciones públicas de la Comunidad Autónoma de Galicia.
+El Consejo Consultivo de Galicia actúa con independencia respecto a cualquier órgano y, en garantía de la misma, disfruta de autonomía orgánica y funcional, no estando ligados sus miembros por mandato imperativo alguno.
+
+### Artículo 2
+
+Artículo 2. Sede.
+El Consejo Consultivo de Galicia tiene su sede en la ciudad de Santiago de Compostela.
+
+## TÍTULO II
+
+Composición
+
+### Artículo 3
+
+Artículo 3. Miembros y su designación
+1. El Consejo Consultivo de Galicia está integrado por consejeras y consejeros electivos y consejeras y consejeros natos.
+2. Las consejeras y consejeros electivos, en número de cinco, deberán ser juristas de reconocida competencia que cuenten con una experiencia y desempeño efectivo, durante al menos diez años, en cargo, función o actividad profesional relacionados específicamente con aquellas especialidades de derecho público relacionadas con las actividades del Consejo Consultivo.
+El presidente de la Xunta nombrará a los cinco miembros electivos del Consejo Consultivo: dos una vez escuchado el Consello de la Xunta y los otros tres a propuesta del Parlamento de forma proporcional a la representación de los grupos parlamentarios existentes en la Cámara. Las personas candidatas propuestas de forma proporcional por los grupos parlamentarios como miembros electos del Consejo Consultivo de Galicia deberán comparecer ante la comisión correspondiente conforme al Reglamento de la Cámara a fin de examinar su idoneidad para el cargo. Con posteridad el Pleno de la Cámara adoptará el acuerdo por mayoría de tres quintos de sus miembros en primera votación o mayoría absoluta en segunda votación, si fuera necesaria. La Presidencia del Parlamento comunicará este acuerdo al presidente de la Xunta para que proceda a su nombramiento.
+La composición y posterior renovación del Consejo procurará atender a criterios de paridad.
+3. Son consejeras y consejeros natos las personas que ejercieron la Presidencia de la Xunta de Galicia.
+Su incorporación inicial al Consejo Consultivo puede producirse en cualquier momento, pero en todo caso antes de haber cumplido la edad de setenta y cinco años. A tal efecto, formalizarán ante el Consejo Consultivo su deseo de incorporarse al mismo y formularán declaración de no incurrir en causa de incompatibilidad.
+El mandato de las consejeras y consejeros natos del Consejo Consultivo, una vez que se incorporen al mismo, podrá interrumpirse a consecuencia de su nombramiento para un cargo público declarado incompatible. Producido el cese en ese cargo, la persona interesada dispondrá de un plazo de tres meses desde dicho cese para formalizar su reincorporación al Consejo Consultivo por el tiempo que le quede de mandato.
+
+### Artículo 4
+
+Artículo 4. Duración del mandato y sustitución.
+1. Las consejeras y consejeros electivos ejercerán su mandato por un periodo de seis años, salvo remoción por las causas previstas en la presente ley.
+2. Las consejeras y consejeros electivos tendrán como límite máximo de permanencia en sus cargos la edad de setenta y dos años.
+3. El cese anticipado de una consejera o consejero electivo dará lugar a la sustitución del mismo.
+A tal efecto, la persona titular de la Presidencia del Consejo Consultivo pondrá el cese en conocimiento de la persona titular de la Presidencia de la Xunta de Galicia interesando que nombre o, en su caso, solicite del órgano que propuso a la consejera o consejero cesante la realización de nueva propuesta en la forma y con las condiciones previstas para el nombramiento inicial, y que se proceda al nombramiento de una nueva consejera o consejero, cuyo mandato ejercerá por el tiempo que falte para la expiración del mandato de la persona cesante.
+4. Las consejeras y consejeros natos ejercerán su mandato por un periodo de seis años si tuvieran la condición de titular de la Presidencia de la Xunta de Galicia durante cuatro o menos años, o por un periodo de doce años si tuvieran la condición de titular de la Presidencia de la Xunta de Galicia durante más de cuatro años.
+5. Con tres meses de antelación a la expiración del periodo de mandato de una consejera o consejero nato, la persona titular de la Presidencia del Consejo Consultivo se lo comunicará al Consello de la Xunta, quien, cuando las circunstancias concurrentes así lo aconsejen, podrá prorrogar el mandato de la consejera o consejero por un periodo que no excederá en caso alguno la tercera parte del periodo inicial que le correspondiera.
+
+### Artículo 5
+
+Artículo 5. Inmovilidad y cese.
+1. Durante el tiempo de su mandato las consejeras y consejeros serán inamovibles, no pudiendo removerse de sus cargos sino por renuncia, límite de edad, incapacidad, incompatibilidad sobrevenida o incumplimiento grave de los deberes del cargo, así como al resultar condenado por delito doloso en el ejercicio del cargo.
+2. El cese en todos los supuestos será decretado por el Consello de la Xunta, previa aceptación de la renuncia por la Presidencia del Consejo Consultivo y apreciación de las restantes causas del cese por el Pleno del Consejo Consultivo.
+3. En el supuesto de cese por renuncia o límite de edad, la consejera o consejero electivo deberá continuar ejerciendo sus funciones hasta que tome posesión de su cargo quien haya de reemplazarlo.
+
+### Artículo 6
+
+Artículo 6. Incompatibilidades.
+1. La condición de consejera o consejero es incompatible:
+a) Con cualquier cargo de elección popular o designación política.
+b) Con empleo o cargo dotado o retribuido por la Administración del Estado, de las comunidades autónomas, de las entidades locales y de los organismos o empresas dependientes de cualquiera de ellas.
+c) Con el ejercicio de las carreras judicial, fiscal o militar.
+d) Con el desempeño de funciones directivas en partidos políticos, sindicatos de trabajadores o asociaciones empresariales.
+e) Con cargos de toda índole en empresas o sociedades que contraten la prestación de servicios, suministro u obras con cualquier Administración de la Comunidad Autónoma.
+f) Con cualquier actividad profesional o mercantil.
+2. Será compatible con el ejercicio de la actividad docente, previa declaración expresa de compatibilidad por la Presidencia del Consejo Consultivo.
+Asimismo será compatible, sin necesidad de declaración expresa de compatibilidad, con las actividades de producción y creación literaria, científica o técnica y las publicaciones derivadas de las mismas, así como con la participación como director o ponente en congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional.
+3. Si concurriera alguna causa de incompatibilidad en la persona que se designase consejera o consejero electivo y esa causa no fuera removida antes de la fecha señalada para tomar posesión del cargo, se entenderá que renuncia al puesto en el Consejo Consultivo, lo que así se decretará por el Consello de la Xunta, y a continuación se procederá, si se tratara de una consejera o consejero electivo, a efectuar una nueva designación en la forma prevista para los supuestos de cese anticipado.
+
+### Artículo 7
+
+Artículo 7. Abstención.
+Las personas que integran el Consejo Consultivo deberán abstenerse de intervenir en aquellos asuntos que proceda conforme a la Ley de régimen jurídico de las administraciones públicas y del procedimiento administrativo común.
+
+### Artículo 8
+
+Artículo 8. Deber de secreto.
+Las personas que integran el Consejo tienen la obligación de guardar secreto sobre el contenido de las deliberaciones del mismo y no podrán hacer, sin su previa autorización, declaraciones o manifestaciones públicas, valorativas, orales o escritas, o formular del mismo modo opiniones científicas, sobre temas o materias concretas que estén directamente relacionados con asuntos sometidos o que debe conocer el Consejo.
+
+### Artículo 9
+
+Artículo 9. Retribuciones.
+La persona titular de la Presidencia y los miembros del Consejo Consultivo tendrán derecho a las retribuciones por los conceptos y cuantías que anualmente se fijen en la Ley de presupuestos de la Comunidad Autónoma de Galicia.
+
+### Artículo 10
+
+Artículo 10. Renovación de las consejeras y consejeros electivos.
+Con seis meses de antelación a la expiración del mandato de las consejeras y consejeros electivos, la persona titular de la Presidencia del Consejo Consultivo se dirigirá a la Presidencia de la Xunta de Galicia y a la Presidencia del Parlamento interesando que se proceda al nombramiento de nuevas consejeras o consejeros.
+Los miembros electivos del Consejo Consultivo deberán permanecer en el ejercicio de sus cargos hasta la toma de posesión de los nuevos miembros.
+
+## TÍTULO III
+
+Competencias
+
+### Artículo 11
+
+Artículo 11. Dictámenes.
+1. El Consejo Consultivo de Galicia emitirá dictamen en cuantos asuntos, relativos a las materias contempladas en la presente ley, le sean sometidos a su consulta por la Presidencia de la Xunta de Galicia, el Consello de la Xunta o cualquiera de las personas que forman parte del mismo, las administraciones del sector público autonómico, las entidades locales y las universidades públicas de Galicia.
+2. En el desempeño de su función dictaminadora, el Consejo Consultivo de Galicia ejercerá el control previo del rigor técnico jurídico de las actuaciones del órgano consultante, velando por la observancia de la Constitución, Estatuto de autonomía de Galicia y resto del ordenamiento jurídico, sin extenderse a valoraciones de oportunidad o conveniencia, salvo que así lo solicite expresamente el órgano consultante.
+3. La consulta al Consejo Consultivo de Galicia será preceptiva cuando así se establezca por ley.
+Los dictámenes no serán vinculantes, salvo que por ley se disponga expresamente lo contrario.
+4. Los asuntos sobre los cuales haya dictaminado el Consejo Consultivo de Galicia no podrán ser sometidos por el órgano consultante a dictamen posterior de otro órgano o institución consultiva.
+5. Los actos administrativos, disposiciones o proyectos normativos aprobados en asuntos dictaminados preceptivamente por el Consejo Consultivo expresarán si se acuerdan en conformidad con su dictamen o si se apartan de él. En el primer caso, contendrán la fórmula «de acuerdo con el Consejo Consultivo»; en el segundo, la de «oído el Consejo Consultivo» o, si se conforma plenamente con algún voto particular, la de «oído el Consejo Consultivo y de acuerdo con el voto particular formulado por la consejera o el consejero (o consejeras/os)...».
+
+### Artículo 12
+
+Artículo 12. Dictámenes preceptivos.
+El Consejo Consultivo dictaminará preceptivamente sobre los asuntos siguientes:
+a) Anteproyectos de reforma del Estatuto de autonomía elaborados por la Xunta de Galicia.
+b) Proyectos de legislación delegada a que se refiere el artículo 10.1.a) del Estatuto de autonomía de Galicia.
+c) Proyectos de reglamento de ejecución de leyes autonómicas y de desarrollo de normas básicas del Estado y, en su caso, de normas de la Unión Europea, así como sus modificaciones.
+d) Interposición por el Consello de la Xunta de recursos de inconstitucionalidad y planteamiento de conflictos de competencia ante el Tribunal Constitucional, previamente a la presentación del correspondiente procedimiento.
+e) Planteamiento de conflictos en defensa de la autonomía local formulados por las entidades locales de Galicia ante el Tribunal Constitucional, previamente a la presentación del correspondiente procedimiento.
+f) Revisión de oficio de los actos y disposiciones administrativas y recurso administrativo de revisión.
+g) Aprobación del pliego de cláusulas administrativas generales e interpretación, modificación, nulidad y resolución de los contratos administrativos en los casos contemplados en la normativa general de contratación administrativa.
+h) Nulidad, interpretación, modificación y extinción de concesiones administrativas cualquiera que fuera su objeto, en los casos en que así lo exigieran las normas de aplicación.
+i) Nulidad de pleno derecho de los actos dictados en materia tributaria.
+j) Reclamaciones de responsabilidad patrimonial de cuantía superior a 30.000 euros para la Administración autonómica y a 15.000 euros para las administraciones locales.
+k) Creación o supresión de municipios y alteración de términos municipales.
+l) Convenios y acuerdos de cooperación con otras comunidades autónomas.
+m)  Cualquier otro asunto en el cual una ley exija expresamente el dictamen del órgano consultivo.
+
+### Artículo 13
+
+Artículo 13. Dictámenes facultativos.
+Con carácter facultativo, podrá pedirse el dictamen del Consejo Consultivo en los casos siguientes:
+a) Anteproyectos de ley elaborados por el Consello de la Xunta.
+b) Conflictos de atribuciones que se planteen entre diversas consejerías, entre la Administración general de la Comunidad Autónoma y otras administraciones públicas de Galicia o entre las entidades locales de Galicia.
+c) Modificación de los instrumentos de planeamiento urbanístico regulados por ley, cuando tuvieran por objeto una diferente zonificación en el uso urbanístico del suelo rústico especial, en los espacios libres y las zonas verdes destinados a dominio público del plan.
+d) Cualesquiera otros asuntos que afecten a la Administración de la Comunidad Autónoma o a las entidades locales de Galicia cuando, a juicio de la persona titular de la Presidencia de la Xunta de Galicia, lo requiera su especial trascendencia.
+
+### Artículo 14
+
+Artículo 14. Propuestas e informes.
+1. El Consejo de la Xunta podrá encomendar al Consejo Consultivo de Galicia la redacción de anteproyectos legislativos y la elaboración de propuestas legislativas o de reforma estatutaria. Su realización deberá ajustarse estrictamente al ámbito delimitado por los criterios y objetivos expresados por el Consejo de la Xunta.
+2. Podrá también la persona titular de la Presidencia de la Xunta de Galicia, por su exclusiva iniciativa, solicitar del Consejo Consultivo de Galicia la emisión de informes sobre cualquier cuestión concreta cuando, a su juicio, sean de trascendencia para la Comunidad Autónoma de Galicia.
+3. Asimismo, las personas titulares de la presidencia de las entidades locales podrán solicitar del Consejo Consultivo de Galicia la emisión de informes sobre cuestiones concretas de especial trascendencia para la Comunidad Autónoma de Galicia. A estos efectos, se entenderá que una cuestión reviste especial trascendencia para la Comunidad Autónoma de Galicia en los siguientes casos:
+a) Cuando aparezca referida a normas cuya aplicación al caso o cuya interpretación en su aplicación al mismo resulte dudosa.
+b) Cuando trascienda del caso concreto porque presente una cuestión jurídica de relevante y general repercusión económica o social.
+c) Cuando hubiese sido resuelta por distintas administraciones públicas de Galicia con criterios jurídicos contradictorios.
+Se modifica por la disposición final 2.1 de la Ley 4/2016, de 4 de abril. Ref. BOE-A-2016-4174#dfsegunda.
+
+### Artículo 15
+
+Artículo 15. Memoria anual.
+El Consejo Consultivo elevará una memoria anual al Consello de la Xunta de Galicia en la que expondrá su actividad en el ejercicio anterior, así como las sugerencias que estimase oportunas para la mejora de las actuaciones administrativas. De la misma se dará cuenta al Parlamento de Galicia.
+
+## TÍTULO IV
+
+Órganos del Consejo Consultivo
+
+### Artículo 16
+
+Artículo 16. Clases.
+1. El Consejo Consultivo se articula en los siguientes órganos:
+– Presidencia,
+– Pleno,
+– Sección de Dictámenes,
+– Sección de Estudios e Informes,
+– Secretaría General.
+2. Reglamentariamente podrán establecerse otras secciones que se estimen oportunas.
+
+### Artículo 17
+
+Artículo 17. Presidencia.
+1. En la primera reunión del Consejo, cuando esté vacante la presidencia, los miembros electivos procederán a la elección de la persona titular de la Presidencia del Consejo Consultivo por y entre las consejeras y consejeros electivos en votación secreta y por mayoría absoluta, siendo nombrada esta por la Presidencia de la Xunta. Su mandato tendrá una duración coincidente con la de su cargo de consejera o consejero.
+Si no se consiguiera la mayoría absoluta en el plazo de un mes se comunicará a la Presidencia de la Xunta para que proceda a su nombramiento.
+2. La persona titular de la Presidencia del Consejo Consultivo tomará posesión de su cargo ante el Pleno de dicho órgano.
+3. En los supuestos de vacante, ausencia, enfermedad u otro motivo legítimo será reemplazada por la consejera o consejero electivo de más edad.
+
+### Artículo 18
+
+Artículo 18. Funciones de la Presidencia.
+La Presidencia del Consejo Consultivo tendrá las siguientes funciones:
+1. Ostentar la representación del Consejo Consultivo.
+2. Convocar y presidir las sesiones del Pleno y de las secciones, dirimiendo los empates con voto de calidad.
+3. Fijar el orden del día de las sesiones del Pleno y de las secciones.
+4. Autorizar con su firma los acuerdos del Pleno y de las secciones.
+5. Rotar las ponencias de los asuntos entre las personas que integran el Consejo.
+6. Autorizar los gastos referentes a los servicios del Consejo.
+7. Ejercer la superior dirección de las actividades de los órganos técnicos del Consejo.
+8. Ejercer la superior inspección de los servicios del Consejo y de su sede.
+9. Las demás funciones previstas en la presente ley o en el Reglamento de organización y funcionamiento del Consejo Consultivo.
+Se modifica el apartado 6 por la disposición final 3.1 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#df-3
+
+### Artículo 19
+
+Artículo 19. El Pleno.
+1. El Pleno del Consejo Consultivo está constituido por la persona que ostenta la presidencia, las consejeras y consejeros electivos y las consejeras y consejeros natos.
+2. Son funciones del Pleno:
+a) Dictaminar a solicitud de la Presidencia de la Xunta de Galicia sobre los asuntos relativos a anteproyectos de reforma del Estatuto de autonomía, cualquier otro anteproyecto o proyecto de disposiciones legales o reglamentarias, los asuntos relacionados con el Tribunal Constitucional y los convenios y acuerdos de cooperación con otras comunidades autónomas.
+b) Pronunciarse sobre las propuestas legislativas o de reforma estatutaria encomendadas por el Consello de la Xunta y elaboradas por la Sección de Estudios e Informes.
+c) Aprobar la memoria anual de actividades.
+d) Aprobar anualmente el anteproyecto de presupuestos del Consejo, el cual se integrará en los generales de la Comunidad Autónoma en una sección específica.
+e) Las demás funciones que correspondan al Consejo Consultivo y no hayan sido atribuidas expresamente a otros órganos del mismo.
+
+### Artículo 20
+
+Artículo 20. Sección de Dictámenes.
+1. Componen la Sección de Dictámenes la persona titular de la Presidencia del Consejo y las consejeras y consejeros electivos.
+2. La persona titular de la Presidencia podrá delegar en quien legalmente la sustituya la presidencia de la Sección de Dictámenes para la resolución de los asuntos de su competencia.
+3. Compete a esta sección dictaminar sobre los asuntos no atribuidos a la competencia del Pleno.
+
+### Artículo 21
+
+Artículo 21. Sección de Estudios e Informes.
+1. La Sección de Estudios e Informes estará compuesta por la persona titular de la Presidencia del Consejo, quien la presidirá, por una consejera o consejero electivo, que será designado/a anualmente por el Pleno a propuesta de la Presidencia del Consejo, y por las consejeras o consejeros natos.
+En caso de que no existieran consejeras o consejeros natos, la Sección de Estudios e Informes estará compuesta por la personal titular de la Presidencia del Consejo, que la presidirá, y por dos consejeras o consejeros electivas/os, cuya designación se hará anualmente por el Pleno a propuesta de la Presidencia del Consejo. Si durante el mandato de la Sección de Estudios e Informes así constituida se produjese un nombramiento de consejeras o consejeros natos, pasarán a formar parte de la misma de manera automática, sin que este nombramiento determine el cese de una consejera o consejero electivos.
+Una vez finalizado el mandato anual, se procederá a la renovación de la Sección en la forma prevista en el párrafo primero de este artículo, en caso de que existieran consejeras o consejeros natos, y en la forma prevista en el párrafo segundo, en caso contrario.
+2. Compete a esta sección la redacción de los anteproyectos legislativos y la elaboración, para su sometimiento al Pleno, de las propuestas legislativas o de reforma estatutaria que el Consejo de la Xunta encomiende al Consejo Consultivo.
+3. Le compete, asimismo, la realización de los informes que la persona titular de la Presidencia de la Xunta de Galicia y las personas titulares de la presidencia de las entidades locales soliciten.
+En el caso de las entidades locales, en la solicitud de informe deberá exponerse con claridad y precisión la cuestión concreta sobre la que verse dicha solicitud y la justificación de su posible consideración como de especial trascendencia para la Comunidad Autónoma de Galicia, con invocación expresa del supuesto previsto en el artículo 14.3 que se considere de aplicación. La solicitud deberá ir acompañada de la documentación que le sirva de fundamento.
+La Sección de Estudios e Informes examinará la solicitud y, en el caso de que, por mayoría de los miembros asistentes, se aprecie que no concurre ninguno de los supuestos previstos en el artículo 14.3, se acordará la devolución del expediente y el archivo de lo actuado, sin más trámite.
+4. Cuando la realización de un determinado anteproyecto legislativo, de una propuesta legislativa o de reforma estatutaria o de un concreto informe requiera información o asesoramiento técnico especializado, podrá solicitarse la asistencia de personal funcionario de otros cuerpos del sector público autonómico.
+5. Los informes se publicarán transcurrido un mes desde su aprobación, salvo cuando la Administración que formule la consulta solicite expresamente que no sean objeto de publicación.
+Se modifica el apartado 1 y se añade el 5 por el art. único.1 y 2 de la Ley 2/2023, de 14 de marzo. Ref. BOE-A-2023-18340
+ Se modifica por la disposición final 2.2 de la Ley 4/2016, de 4 de abril. Ref. BOE-A-2016-4174#dfsegunda.
+
+### Artículo 22
+
+Artículo 22. Secretaría General y Secretaría del Pleno y Secciones.
+1. El Consejo Consultivo contará con una Secretaría General a la que le corresponderá:
+a) La jefatura directa y la gestión administrativa en materia de personal, así como del régimen interior de los servicios y dependencias del Consejo, sin perjuicio de la superior autoridad de la Presidencia.
+b) La gestión de los créditos presupuestarios en lo relativo a los actos de disposición, reconocimiento de la obligación y ordenamiento del pago.
+c) La tramitación y gestión de la contratación administrativa y la administración del patrimonio.
+d) La expedición de certificaciones en relación con las materias cuya gestión le esté atribuida y la custodia de la documentación que se genere en el ejercicio de sus funciones.
+e) La asistencia a la Presidencia en todos los asuntos y, singularmente, preparar y redactar, cuando aquella lo considere conveniente, los proyectos de dictámenes, informes o propuestas en los asuntos que la persona titular de la Presidencia determine.
+f) Aquellas otras que le sean delegadas por la persona titular de la Presidencia o le atribuya el Reglamento de organización y funcionamiento del Consejo Consultivo.
+2. El puesto de titular de la Secretaría General estará asimilado en su rango al de alto cargo. La persona titular de la Secretaría General deberá ser licenciada en Derecho, o poseedora del título de grado en Derecho, y reunir los requisitos de solvencia profesional que sean necesarios para el desarrollo de la función. Será nombrada y separada por el Pleno a propuesta de la Presidencia del Consejo Consultivo.
+3. Las funciones de la Secretaría del Pleno y de las Secciones serán ejercidas por quien designe la Presidencia de entre el personal funcionario al servicio del Consejo. Ese ejercicio no generará percepción de retribuciones, dietas o indemnizaciones.
+4. Corresponde a la persona que ejerza la Secretaría del Pleno y de las Secciones:
+a) Dar fe de los actos del Consejo.
+b) Asistir a las sesiones del Consejo con voz pero sin voto y levantar y redactar las actas de las sesiones, visadas por la persona titular de la Presidencia.
+c) Custodiar la documentación del Consejo que guarde relación directa con el ejercicio de sus funciones.
+d) Elaborar el orden del día de las sesiones del Pleno y de las Secciones, sometiéndolo a la aprobación de la Presidencia.
+e) Efectuar, por orden de la persona titular de la Presidencia, la convocatoria de las consejeras y consejeros para las sesiones.
+f) Llevar a efecto los acuerdos del Consejo.
+g) Practicar los actos de comunicación del Consejo, con excepción de los que sean realizados por la persona titular de la Presidencia.
+h) Expedir certificaciones de los acuerdos del Consejo, votos particulares y demás documentos confiados a su custodia, visadas por la persona titular de la Presidencia del Consejo.
+i) Facilitar copia de los expedientes a las consejeras y consejeros, así como al personal letrado a quien corresponda su estudio.
+j) Preparar, para su posterior aprobación por el Pleno del Consejo, el proyecto de la memoria de actividades anuales.
+k) Asistir al presidente en todos los asuntos en que la requiera y sea inherente a su condición.
+5. En el caso de ausencia, enfermedad o cualquier imposibilidad temporal, la persona titular de la Secretaría General y la persona funcionaria designada para desempeñar las funciones de la Secretaría del Pleno y de las Secciones se sustituirán entre sí, y, en último término, serán sustituidas por la persona que, ejerciendo funciones de letrada o letrado del Consejo, sea designada por la Presidencia.
+Se modifica por la disposición final 3.2 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#df-3
+
+## TÍTULO V
+
+Procedimiento
+
+### Artículo 23
+
+Artículo 23. Adopción de acuerdos.
+1. En las reuniones del Consejo Consultivo se requerirá, para la validez de las deliberaciones y de los acuerdos, la presencia de la persona titular de la Presidencia o de quien legalmente la sustituya, la de un número de consejeras o consejeros que, con la Presidencia, constituyan mayoría absoluta y la de la persona funcionaria designada para desempeñar las funciones de Secretaría del Pleno y de las Secciones o de quien la sustituya.
+2. Los acuerdos se adoptarán por la mayoría de votos de las consejeras o consejeros asistentes, debe hacerse constar en los mismos si se adoptan por mayoría o por unanimidad y ninguno de los miembros con derecho a voto puede abstenerse en las votaciones, salvo que concurran causas legales de abstención.
+3. En el caso de discrepancias con el acuerdo adoptado, las consejeras o consejeros discrepantes podrán formular por escrito, en el plazo que reglamentariamente se determine, su voto particular razonado, que se adjuntará al acuerdo.
+4. Los miembros natos del Consejo Consultivo actuarán en el Pleno con voz pero sin voto, no computándose, en consecuencia, su asistencia a efectos del quórum de constitución y adopción de acuerdos.
+Se modifica el apartado 1 por la disposición final 3.3 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#df-3
+
+### Artículo 24
+
+Artículo 24. Plazos.
+1. El Consejo Consultivo habrá de emitir sus dictámenes e informes en el plazo de un mes a partir del día siguiente al de recepción de la solicitud. No obstante, cuando en la solicitud se hagan constar motivadamente razones de urgencia, el plazo para emitir el dictamen o informe será de quince días, salvo que, excepcionalmente, la persona titular de la Presidencia de la Xunta de Galicia o el Consello de la Xunta fijen un plazo menor. Transcurridos aquellos plazos se entenderá, tratándose de solicitudes de dictámenes, que no existe objeción alguna a la cuestión planteada.
+2. El plazo para la redacción de anteproyectos legislativos y elaboración de propuestas legislativas o de reforma estatutaria será el que fije la autoridad consultante. En su defecto, el plazo será de seis meses. Dichos plazos empezarán a contarse desde el día siguiente a la recepción de la solicitud de la consulta. Excepcionalmente, cuando por la complejidad de la materia fuera previsible la insuficiencia del plazo establecido, la Presidencia del Consejo solicitará a la autoridad consultante que fije un plazo superior.
+
+### Artículo 25
+
+Artículo 25. Documentación.
+1. El órgano consultante habrá de facilitar al Consejo cuanta documentación precise para pronunciarse sobre la cuestión planteada.
+2. El Consejo, a través de la persona que ostenta su presidencia, y por acuerdo de aquella, podrá solicitar al órgano o institución consultante que se complete la documentación con cuantos antecedentes, informes y pruebas considere necesarios. En este caso se interrumpirá el plazo previsto en el artículo 24 por el tiempo que reglamentariamente se establezca.
+
+### Artículo 26
+
+Artículo 26. Audiencias.
+Las personas o entidades directamente interesadas en los asuntos motivadores de las consultas pueden formular alegaciones ante el Consejo, por acuerdo de este, adoptado de oficio o a petición de aquellas, en los términos previstos en la normativa reguladora del procedimiento administrativo común. El trámite de alegaciones se verificará preferentemente a través de medios electrónicos y, en todo caso, cuando se trate de personas obligadas a relacionarse electrónicamente con las administraciones públicas.
+Se modifica por el art. único.3 de la Ley 2/2023, de 14 de marzo. Ref. BOE-A-2023-18340
+
+### Artículo 27
+
+Artículo 27. Medios electrónicos.
+La comunicación y remisión de informes, propuestas normativas y dictámenes elaborados por el Consejo Consultivo de Galicia se realizará a través de medios electrónicos, en cumplimiento de las prescripciones de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas; la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público; y el Real decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, además de cumplir en este caso con el objetivo de minimizar el gasto en papel, impulsar las nuevas tecnologías y agilizar el funcionamiento de este órgano.
+Se modifica por el art. único.4 de la Ley 2/2023, de 14 de marzo. Ref. BOE-A-2023-18340
+
+## TÍTULO VI
+
+Organización y funcionamiento
+
+### Artículo 28
+
+Artículo 28. Reglamento de organización y funcionamiento
+La organización y funcionamiento del Consejo Consultivo de Galicia se regirá por su propio reglamento de organización y funcionamiento, el cual será elaborado por el Consejo Consultivo y aprobado por el Consello de la Xunta.
+
+### Artículo 29
+
+Artículo 29. Personal.
+1. El Consejo Consultivo de Galicia dispondrá del personal de la categoría, clase y condición necesarias para el desarrollo de sus funciones.
+2. Corresponde al Consejo Consultivo de Galicia establecer la organización del personal a su servicio y proponer a la Xunta de Galicia la aprobación y modificación de la plantilla y de la relación de puestos de trabajo, así como llevar a cabo los procesos de provisión de los puestos de trabajo.
+3. Sin perjuicio de lo dispuesto para el personal letrado, los puestos de trabajo definidos en la relación de puestos de trabajo para personal funcionario podrán ser cubiertos por personal de esta categoría de la Administración general de la Comunidad Autónoma de Galicia, de otras comunidades autónomas o del Estado.
+Se modifica el apartado 2 por la disposición final 3.4 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#df-3
+ Se modifica por la disposición final 4 de la Ley 2/2015, de 29 de abril. Ref. BOE-A-2015-5677#dfcuaa.
+
+### Artículo 30
+
+Artículo 30. Letrados.
+1. El Consejo Consultivo está asistido por personal letrado, dependiente orgánica y funcionalmente del mismo, al cual corresponde, bajo la dirección y responsabilidad de la Presidencia o de las consejeras y consejeros, las funciones del estudio de los asuntos sometidos a consulta del Consejo, la preparación y redacción de los correspondientes proyectos de dictámenes, informes o propuestas y las demás funciones adecuadas a su condición que le atribuya el Reglamento de organización y funcionamiento del Consejo. El número de plazas de personal letrado se determinará en la relación de puestos de trabajo.
+2. La provisión de las plazas de letrados al servicio del Consejo Consultivo de Galicia, de acuerdo con la especial responsabilidad, confianza y cualificación profesional requerida, se efectuará por libre designación con convocatoria pública, de acuerdo con lo dispuesto en la Ley 2/2015, de 29 de abril, del empleo público de Galicia, entre personal funcionario perteneciente a la escala de letrados de la Xunta de Galicia, del cuerpo superior de la Administración general de la Comunidad Autónoma, subgrupo A1, prevista en el punto 1 de la disposición adicional octava de la Ley 2/2015, de 29 de abril, del empleo público de Galicia. En este caso, la dependencia orgánica y funcional del Consejo Consultivo será excepción a lo previsto en el artículo 38.1 de la Ley 4/2016, de 4 de abril, de ordenación de la asistencia jurídica de la Administración general de la Comunidad Autónoma de Galicia y de su sector público.
+Asimismo, en atención a las funciones del órgano y por razones de especialización técnica y, en su caso, de acuerdo con lo que se determine en la relación de puestos de trabajo, las plazas podrán ser cubiertas por personal perteneciente a cuerpos de letrados de la Administración general del Estado, de la administración general de otras comunidades autónomas o de otros consejos consultivos; por personal perteneciente a la escala de funcionarios de Administración local con habilitación de carácter nacional, subescala de secretaría; o por personal letrado del Parlamento de Galicia. En ningún caso esta forma de provisión supondrá la adquisición de derechos de integración en la escala de letrados de la Xunta de Galicia.
+3. La convocatoria y la resolución de los procesos de provisión efectuados de acuerdo con lo indicado en el punto anterior corresponderá a la persona titular de la Presidencia del Consejo Consultivo.
+4. El régimen jurídico del personal letrado será el establecido en esta ley y en el Reglamento de organización y funcionamiento del Consejo Consultivo. De forma supletoria, se aplicará lo establecido para el personal funcionario en la legislación de empleo público de la Comunidad Autónoma de Galicia.
+Se modifica el apartado 1 por el art. único.5 de la Ley 2/2023, de 14 de marzo. Ref. BOE-A-2023-18340
+ Se modifica por la disposición final 3.5 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823#df-3
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Situación de los miembros electivos nombrados al amparo de la normativa que se deroga.
+Si en el momento de la entrada en vigor de la presente ley hubiera transcurrido el periodo de seis años de ejercicio del mandato para el cual han sido nombrados las últimas consejeras y consejeros electivos, y, con arreglo a lo previsto en el artículo 27 del Reglamento de organización y funcionamiento del Consejo Consultivo de Galicia, continuaran en ese momento en el ejercicio de sus cargos, seguirán desempeñando los mismos hasta el nombramiento y toma de posesión, en la forma prevista en esta ley, de las personas que los hayan de sustituir.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Cómputo del mandato de las consejeras y consejeros natos.
+El tiempo de mandato ejercido por las consejeras y consejeros natos incorporados al Consejo Consultivo de Galicia antes de la entrada en vigor de la presente ley se computará a efectos de la aplicación de lo previsto en el artículo 4.4 de la misma.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Reglamento provisional de funcionamiento.
+Hasta el momento en que entre en vigor el nuevo Reglamento de organización y funcionamiento del Consejo Consultivo será de aplicación el aprobado por Decreto 282/2003, de 22 de mayo, en todo lo que no se oponga a lo establecido en la presente ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Sistema transitorio de reconocimiento de la progresión en la carrera administrativa.
+En tanto no se implante un sistema de carrera profesional en el Consejo Consultivo de Galicia, se establecerá, para todo el personal que preste servicios en el órgano, un sistema transitorio de reconocimiento de progresión en la carrera administrativa que permita al personal progresar de manera voluntaria e individualizada y que promueva su actualización y el perfeccionamiento de su cualificación profesional.
+El Consejo Consultivo de Galicia establecerá los criterios necesarios para la aplicación del sistema transitorio previsto en esta disposición, incluidos, entre otros, el procedimiento y los requisitos para el acceso a dicho sistema y para el cobro de la retribución adicional. Cuando se implante el sistema de carrera profesional en el Consejo Consultivo, se tendrá en cuenta el desarrollo profesional alcanzado en aplicación de la presente disposición.
+Se añade por el art. único.6 de la Ley 2/2023, de 14 de marzo. Ref. BOE-A-2023-18340
+
+### Disposición derogatoria
+
+Disposición derogatoria. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley y, expresamente, la Ley 9/1995, de 10 de noviembre, del Consejo Consultivo de Galicia.
+
+### Disposición final primera
+
+Disposición final primera. Reglamento orgánico.
+El Consejo Consultivo elaborará, en el plazo de tres meses a partir de su efectiva renovación, el nuevo Reglamento de organización y funcionamiento y lo elevará al Consello de la Xunta para su aprobación, en el plazo máximo de tres meses.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 24 de abril de 2014.
+El Presidente,
+Alberto Núñez Feijóo.

@@ -1,0 +1,794 @@
+# Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+- Identificador BOE: `BOE-A-1986-6859`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+PREÁMBULO
+Respondiendo fundamentalmente al mandato del artículo 104 de la Constitución –según el cual una Ley Orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad–, la presente Ley tiene, efectivamente, en su mayor parte carácter de Ley Orgánica y pretende ser omnicomprensiva, acogiendo la problemática de las Fuerzas y Cuerpos de Seguridad del Estado, de las Comunidades Autónomas y de las Corporaciones Locales:
+a) El carácter de Ley Orgánica viene exigido por el artículo 104 de la Constitución para las funciones, principios básicos de actuación y estatutos genéricamente de las Fuerzas y Cuerpos de Seguridad; por el artículo 149.1.29.ª, para determinar el marco en el que los Estatutos de Autonomía pueden establecer la forma de concretar la posibilidad de creación de policías de las respectivas comunidades y por el artículo 148.1.22.ª, para fijar los términos dentro de los cuales las Comunidades Autónomas pueden asumir competencias en cuanto a «la coordinación y demás facultades en relación con las policías locales».
+Respecto a la policía judicial, el carácter de Ley Orgánica se deduce del contenido del artículo 126 de la Constitución, ya que, al regular las relaciones entre la policía y el Poder Judicial, determina, indirecta y parcialmente, los Estatutos de ambos y, al concretar las funciones de la policía judicial, incide en materias propias de la Ley de Enjuiciamiento Criminal y concretamente en lo relativo a la «averiguación del delito y descubrimiento y aseguramiento del delincuente», que constituyen zonas de delimitación de derechos fundamentales de la persona.
+Sin embargo, otros aspectos del proyecto de Ley –especialmente los relativos al proceso de integración de los Cuerpos Superior de Policía– y de Policía Nacional en el Cuerpo Nacional de Policía no tienen el carácter de Ley Orgánica, lo que impone la determinación, a través de una disposición final, de los preceptos que tienen carácter de Ley Orgánica.
+b) El objetivo principal de la Ley se centra en el diseño de las líneas maestras del régimen jurídico de las Fuerzas y Cuerpos de Seguridad en su conjunto, tanto de las dependientes del Gobierno de la Nación como de las Policías Autónomas y Locales, estableciendo los principios básicos de actuación comunes a todos ellos y fijando sus criterios estatutarios fundamentales.
+A ello parece apuntar la propia Constitución cuando en el artículo 104.2 se remite a una Ley Orgánica para determinar las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad, en contraposición a la matización efectuada en el número 1 del mismo artículo, que se refiere exclusivamente a las Fuerzas y Cuerpos de Seguridad dependientes del Gobierno de la Nación.
+La seguridad pública constituye una competencia difícil de parcelar, toda vez que no permite delimitaciones o definiciones, con el rigor y precisión admisibles en otras materias. Ello es así porque las normas ordenadoras de la seguridad pública no contemplan realidades físicas tangibles, sino eventos meramente previstos para el futuro, respecto a los cuales se ignora el momento, el lugar, la importancia y, en general, las circunstancias y condiciones de aparición.
+Hay que tener en cuenta a este respecto la ocupación por parte de la seguridad pública de un terreno de encuentro de las esferas de competencia de todas las Administraciones Públicas –aunque el artículo 149.1 de la Constitución la enumere, en su apartado 29, entre las materias sobre las cuales el estado tiene competencia exclusiva– y las matizaciones y condicionamientos con que la configura el texto constitucional, lo que hace de ella una de las materias compartibles por todos los poderes públicos, si bien con estatutos y papeles bien diferenciados.
+Es la naturaleza fundamental y el carácter peculiarmente compartible de la materia lo que determina su tratamiento global en un texto conjunto, a través del cual se obtenga una panorámica general y clarificadora de todo su ámbito, en vez de parcelarla en textos múltiples de difícil o imposible coordinación.
+La existencia de varios colectivos policiales que actúan en un mismo territorio con funciones similares y, al menos parcialmente, comunes, obliga necesariamente a dotarlos de principios básicos de actuación idénticos y de criterios estatutarios también comunes, y el mecanismo más adecuado para ello es reunir sus regulaciones en un texto legal único que constituye la base más adecuada para sentar el principio fundamental de la materia: el de la cooperación recíproca y de coordinación de las Fuerzas y Cuerpos de Seguridad pertenecientes a todas las esferas administrativas.
+II
+Con apoyo directo en el artículo 149.1.29.ª, en relación con el 104.1 de la Constitución, la Ley recoge el mantenimiento de la Seguridad Pública que es competencia exclusiva del estado, correspondiendo su mantenimiento al Gobierno de la Nación y al de las demás Administraciones Públicas, Comunidades Autónomas y Corporaciones Locales, dedicando sendos capítulos a la determinación de los principios básicos de actuación de las Fuerzas y Cuerpos de Seguridad y a la exposición de las disposiciones estatutarias comunes:
+a) Siguiendo las líneas marcadas por el Consejo de Europa, en su «Declaración» sobre la policía, y por la Asamblea General de las Naciones Unidas, en el «Código de conducta para funcionarios encargados de hacer cumplir la Ley», se establecen los principios básicos de actuación como un auténtico «Código Deontológico», que vincula a los miembros de todos los colectivos policiales, imponiendo el respeto de la Constitución, el servicio permanente a la Comunidad, la adecuación entre fines y medios, como criterio orientativo de su actuación, el secreto profesional, el respeto al honor y dignidad de la persona, la subordinación a la autoridad y la responsabilidad en el ejercicio de la función.
+Los principios básicos de actuación de las Fuerzas y Cuerpos de Seguridad son los ejes fundamentales, en torno a los cuales gira el desarrollo de las funciones policiales, derivando a su vez de principios constitucionales más generales, como el de legalidad o adecuación al ordenamiento jurídico, o de características estructurales, como la especial relevancia de los principios de jerarquía y subordinación, que no eliminan, antes potencian, el respeto al principio de responsabilidad por los actos que lleven a cabo.
+La activa e intensa compenetración entre la colectividad y los funcionarios policiales –que constituye la razón de ser de éstos y es determinante del éxito o fracaso de su actuación–, hace aflorar una serie de principios que, de una parte, manifiestan la relación directa del servicio de la policía respecto a la comunidad y, de otra parte, como emanación del principio constitucional de igualdad ante la Ley, le exigen la neutralidad política, la imparcialidad y la evitación de cualquier actuación arbitraria o discriminatoria.
+Por encima de cualquier otra finalidad, la Ley pretende ser el inicio de una nueva etapa en la que destaque la consideración de la policía como un servicio público dirigido a la protección de la comunidad, mediante la defensa del ordenamiento democrático.
+A través de las Fuerzas y Cuerpos de Seguridad se ejerce el monopolio, por parte de las Administraciones Públicas, del uso institucionalizado de la coacción jurídica, lo que hace imprescindible la utilización de armas por parte de los funcionarios de policía. Ello, por su indudable trascendencia sobre la vida y la integridad física de las personas, exige el establecimiento de límites y la consagración de principios, sobre moderación y excepcionalidad en dicha utilización, señalando los criterios y los supuestos claros que la legitiman, con carácter excluyente.
+También en el terreno de la libertad personal entran en tensión dialéctica la necesidad de su protección por parte de la policía y el peligro, no por meramente posible y excepcional menos real, de su invasión; por cuya razón, en torno al tratamiento de los detenidos, se articulan obligaciones terminantes sobre la protección de su vida, integridad física y dignidad moral y sobre el estricto cumplimiento de los trámites, plazos y requisitos exigidos por el ordenamiento jurídico.
+Novedad a destacar es el significado que se da al principio de obediencia debida, al disponer que la misma en ningún caso podrá amparar actos manifiestamente ilegales ordenados por los superiores, siendo también digna de mención la obligación que se impone a los miembros de las Fuerzas y Cuerpos de Seguridad de evitar cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral.
+Hay que señalar, finalmente, en este apartado, la estrecha interdependencia que refleja la Ley, entre el régimen disciplinario del Cuerpo Nacional de Policía –que lógicamente se habrá de tener en cuenta al elaborar los de otras Fuerzas y Cuerpos de Seguridad– y los principios básicos de actuación, como garantía segura del cumplimiento de la finalidad de éstos.
+b) En el aspecto estatutario, la Ley pretende configurar una organización policial, basada en criterios de profesionalidad y eficacia, atribuyendo una especial importancia a la formación permanente de los funcionarios y a la promoción profesional de los mismos.
+Los funcionarios de policía materializan el eje de un difícil equilibrio, de pesos y contrapesos, de facultades y obligaciones, ya que deben proteger la vida y la integridad de las personas, pero vienen obligados a usar armas; deben tratar correcta y esmeradamente a los miembros de la comunidad, pero han de actuar con energía y decisión cuando las circunstancias lo requieran y la balanza capaz de lograr ese equilibrio, entre tales fuerzas contrapuestas, no puede ser otra que la exigencia de una actividad de formación y perfeccionamiento permanentes –respecto a la cual se pone un énfasis especial–, sobre la base de una adecuada selección que garantice el equilibrio psicológico de la persona.
+La constitucionalización del tema de las Fuerzas y Cuerpos de Seguridad es una necesidad y una lógica derivación de su misión trascendental, en cuanto a la protección del libre ejercicio de los derechos y libertades que, en el contexto de la Constitución, son objeto de su título I y principal, ya que integran la Carta Magna del ciudadano español. Esta es la razón que determina el particular relieve con que la Ley resalta la promesa o juramento de acatar y cumplir la Constitución, por parte de los miembros de todos los Cuerpos y Fuerzas de Seguridad, que no constituye un mero trámite o formalismo, sino un requisito esencial, constitutivo de la condición policial y al mismo tiempo símbolo o emblema de su alta misión.
+Por lo demás, con carácter general, se regula la práctica totalidad de los aspectos esenciales, integrantes de su estatuto personal (promoción profesional, régimen de trabajo, sindicación, incompatibilidades, responsabilidad), procurando mantener el necesario equilibrio, entre el reconocimiento y respeto de los derechos personales y profesionales y las obligadas limitaciones a que ha de someterse el ejercicio de algunos de dichos derechos, en razón de las especiales características de la función policial.
+Especial mención merece, a este respecto, la interdicción de la huelga o de las acciones sustitutivas de la misma, que se lleva a cabo, dentro del marco delimitado por el artículo 28 de la Constitución, en aras de los intereses preeminentes que corresponde proteger a los Cuerpos de Seguridad, al objeto de asegurar la prestación continuada de sus servicios, que no admite interrupción. Lógicamente, como lo exige la protección de los derechos personales y profesionales de estos funcionarios, la Ley prevé la determinación de los cauces de expresión y solución de los conflictos que puedan producirse por razones profesionales.
+El sistema penal y procesal diseñado, con carácter general, es el que ya se venía aplicando para las Fuerzas y Cuerpos de Seguridad del Estado, suspendiéndose el expediente disciplinario mientras se tramita el proceso penal, aunque permitiendo la adopción de medidas cautelares hasta tanto se dicte sentencia firme.
+III
+Con fundamentación directa en el artículo 104 e indirecta en el artículo 8, ambos de la Constitución, la Ley declara, a todos los efectos, la naturaleza de Fuerzas y Cuerpos de Seguridad que corresponde al Cuerpo Nacional de Policía –nacido de la integración de los Cuerpos Superior de Policía y de Policía Nacional– y al Cuerpo de la Guardia Civil.
+a) El capítulo II del título II se dedica a enumerar las funciones que deben realizar las Fuerzas y Cuerpos de Seguridad del Estado, siguiendo para ello el reparto de competencias al que se considera que apunta la Constitución. Pero es necesario efectuar algunas precisiones, que afectan al modelo policial que diseña la Ley, para comprender mejor por qué se asignan ciertas competencias al Estado, mientras que otras se otorgan a los demás entes públicos territoriales.
+En primer lugar, hay que tener en cuenta que, en perfecta congruencia con el artículo 149.1.29.ª, el artículo 104.1 de la Constitución atribuye a las Fuerzas y Cuerpos de Seguridad, bajo la dependencia del Gobierno, la misión de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.
+En segundo lugar, hay que aludir a todas las funciones de carácter «extracomunitario» o «supracomunitario», según la expresión usada en los Estatutos de Autonomía para el País Vasco y para Cataluña. Entre ellas, está la competencia en materia de armas y explosivos, que también la propia Constitución ha reservado al Estado de modo expreso y, además, se encuentra la vigilancia de puertos, aeropuertos, costas y fronteras, aduanas, control de entrada y salida del territorio nacional, de españoles y extranjeros, régimen general de extranjería, extradición, e emigración e inmigración, pasaportes y documento nacional de identidad, resguardo fiscal del Estado, contrabando, fraude fiscal al Estado y colaboración y auxilio a policías extranjeras.
+Por lo que se refiere a las funciones propias de información y de Policía Judicial, la atribución es objeto de la adecuada matización. Porque la formulación del artículo 126 de la Constitución concibe la Policía Judicial estrechamente conectada con el Poder Judicial, que es único en toda España –y la Constitución insiste en ello, poniendo de relieve la idea de unidad jurisdiccional (artículo 117.5)– disponiendo su Gobierno por un órgano único, el Consejo General del Poder Judicial (artículo 122.2), estableciendo que los Jueces y Magistrados se integren en un cuerpo único (artículo 122.1) y atribuyendo al Estado competencias plenas en materia de administración de justicia (artículo 149.1.5.ª). Pero no se pueden desconocer las exigencias de la realidad y los precedentes legislativos, constituidos, sobre todo, por la Ley de Enjuiciamiento Criminal, que obligan a admitir la colaboración de los Cuerpos de Policía de las Comunidades Autónomas y de las Corporaciones Locales, en el ejercicio de la indicada función de Policía Judicial.
+En otro aspecto, en cuanto a la distribución de las funciones atribuidas a la Administración del Estado, la Ley sigue los precedentes existentes, que deslindaban expresamente las correspondientes a los diversos Cuerpos de Seguridad del Estado, si bien, en casos excepcionales, al objeto de conseguir la óptima utilización de los medios disponibles y la racional distribución de efectivos, se adoptan las previsiones necesarias para que cualquiera de dichos cuerpos pueda asumir en zonas o núcleos determinados todas o algunas de las funciones asignadas al otro Cuerpo.
+b) De la necesidad de dar cumplimiento al artículo 104.2 de la Constitución, se deduce que el régimen estatutario de la Guardia Civil debe ser regulado en la Ley Orgánica de las Fuerzas y Cuerpos de Seguridad.
+Ello significa que la Guardia Civil, como Cuerpo de Seguridad, sin perjuicio de realizar en determinadas circunstancias misiones de carácter militar, centra su actuación en el ejercicio de funciones propiamente policiales, ya sea en el ámbito judicial o en el administrativo.
+En consecuencia, sin perjuicio del estatuto personal atribuible a los miembros del Cuerpo de la Guardia Civil –por razones de fuero, disciplina, formación y mando–, debe considerarse normal su actuación en el mantenimiento del orden y la seguridad pública, función en la que deben concentrarse, en su mayor parte, las misiones y servicios asumibles por la Guardia Civil.
+Con todo ello, se pretende centrar a la Guardia Civil en la que es su auténtica misión en la sociedad actual: garantía del libre ejercicio de los derechos y libertades reconocidos por la Constitución y la protección de la seguridad ciudadana, dentro del colectivo de las Fuerzas y Cuerpos de Seguridad.
+c) Por lo que se refiere a la Policía, la Ley persigue dotar a la institución policial de una organización racional y coherente; a cuyo efecto, la medida más importante que se adopta es la integración de los Cuerpos Superior de Policía y Policía Nacional en un solo colectivo, denominado Cuerpo Nacional de Policía. De este modo, además de solucionar posibles problemas de coordinación y mando, se homogeneizan, en un solo colectivo, Cuerpos que realizan funciones similares o complementarias, con lo que se puede lograr un incremento en la efectividad del servicio.
+En el aspecto estatutario, se consagra la naturaleza civil del nuevo Cuerpo, si bien, dadas las especiales características que inciden en la función policial y la repercusión que sobre los derechos y libertades tienen sus actuaciones, se establecen determinadas peculiaridades, en materia de régimen de asociación sindical y en cuanto al régimen disciplinario.
+El nuevo Cuerpo se estructura en cuatro Escalas –Superior, Ejecutiva, de Subinspección y Básica–, algunas de las cuales se subdividen en categorías, para posibilitar la mejor prestación de los servicios de un colectivo jerarquizado e incentivar a los funcionarios mediante la promoción interna, y en ellas se irán integrando, en un proceso gradual pero ininterrumpido, los actuales miembros de los dos Cuerpos que se extinguen, siguiendo estrictos criterios de superior categoría o empleo, antigüedad y orden escalafonal.
+Se fija la edad de jubilación forzosa del nuevo Cuerpo en sesenta y cinco años, unificando así la edad de jubilación de la Policía con el resto de los funcionarios públicos; complementariamente, se adopta la previsión de desarrollar por Ley el pase a la segunda actividad, a las edades que exijan las funciones a desarrollar, teniendo en cuenta que las condiciones físicas son especialmente determinantes de la eficacia en el ejercicio de la profesión policial.
+Por lo que respecta al régimen disciplinario, sin perjuicio de respetar las garantías procedimentales exigidas por la Constitución, se configura una regulación específica, rápida y eficaz, inspirada en municipios acordes con la estructura y organización jerarquizada del Cuerpo, con el propósito de conseguir la ejemplaridad, a través de la inmediación de las sanciones.
+En cuanto al derecho de sindicación, se reconoce plenamente su ejercicio, si bien se introducen determinadas limitaciones –amparadas en el artículo 28.1 de la Constitución, y en correspondencia con el tratamiento de la materia, efectuado por el artículo 1.º, 5, de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical–, que se justifican en el carácter de Instituto armado que la Ley atribuye al Cuerpo.
+d) Con antecedente básico en el artículo 126 de la Constitución, en la Ley Orgánica del Poder Judicial, en la Ley de Enjuiciamiento Criminal y en el Estatuto del Ministerio Fiscal, la Ley de Fuerzas y Cuerpos de Seguridad completa el régimen regulador de la Policía Judicial, sentando las bases para la organización de unidades de Policía, encargadas del ejercicio de dicha función.
+La organización se llevará a cabo con miembros de los dos Cuerpos de Seguridad del Estado, que habrán de recibir una formación especializada, configurándose la Policía Judicial, en el terreno doctrinal y docente, como una especialidad policial, y, considerándose el Diploma correspondiente como requisito necesario para desempeñar puestos en las unidades que se constituyan.
+Los avances de la criminalidad moderna exigen que deba lucharse contra la misma con grandes medios y efectivos, utilizando las técnicas de la policía científica y contando con la colaboración de las Policías de otros Estados, por la facilidad con que los delincuentes traspasan las fronteras. Sólo desde la perspectiva del Estado puede hacerse frente con éxito al reto de dicha criminalidad, disponiendo del concurso de unidades de contrastada experiencia y alto índice de eficacia.
+Como las Unidades de Policía Judicial son el puente de unión entre las Fuerzas y Cuerpos de Seguridad y el Poder Judicial, es punto central de regulación de aquéllas, el tratamiento de las correspondientes relaciones de dependencia, respecto a Jueces v Fiscales, así como el procedimiento de adscripción de funcionarios o equipo de Policía de dichas Unidades.
+La Ley concreta el contenido de esta relación de dependencia singular, especificando las facultades que comporta para los Jueces y Tribunales, y saca la consecuencia de la formación especializada de los funcionarios de las Unidades de Policía Judicial en cuanto a su actuación, estrechamente controlada por aquéllos.
+En definitiva, siguiendo el mandato constitucional, se ha procedido a regular la adscripción funcional, como la califica la Constitución, respecto a Jueces, Tribunales y Ministerio Fiscal, con la seguridad de que se cubrirán mejor las necesidades en la medida en que la Policía mantenga su estructura unitaria y su organización vinculadas a mandos únicos. Por ello, y salvo las especialidades concretadas en el capítulo correspondiente de la Ley, será aplicable al personal de las Unidades de Policía Judicial el régimen general de los Cuerpos y Fuerzas de Seguridad del Estado.
+IV
+El título III, con rúbrica «De las Comunidades Autónomas», pretende desarrollar la previsión contenida en el artículo 148.1.22.ª de la Constitución.
+a) Siguiendo a la Constitución, se distingue entre Comunidades Autónomas con Cuerpos de Policía propios, ya creados, Comunidades cuyos Estatutos prevén la posibilidad de creación de Policías y Comunidades cuyos Estatutos no contienen tal previsión; ofreciéndose a las segundas la posibilidad de ejercer sus competencias policiales, acudiendo a la adscripción de Unidades del Cuerpo Nacional de Policía.
+Para comprender el reparto de competencias, entre el Estado y las Comunidades Autónomas, en materia de seguridad, es preciso señalar que tal delimitación tiene dos soportes fundamentales: la presente Ley Orgánica y los Estatutos. En el esquema de ordenación normativa que la Constitución estableció, se encomienda a una Ley Orgánica del Estado la fijación del marco de regulación de las Policías Autónomas, mientras que a los Estatutos les corresponde determinar la forma de creación de las mismas.
+El Tribunal Constitucional ha usado ya, en diversas ocasiones, la noción de «bloque de constitucionalidad», para referirse a los instrumentos normativos que, junto con la Constitución misma y como complemento de ella, es preciso tener en cuenta para fijar con exactitud el régimen de una determinada competencia (Sentencias de 23 de marzo y 24 de mayo de 1981).
+La pieza normativa en la que se relacionan de modo principal las competencias autonómicas es, sin duda, el Estatuto. Pero no es la única, ni es tampoco la norma de aplicación exclusiva para resolver los problemas interpretativos que pueden suscitarse. Son, por el contrario, los preceptos de la Constitución el marco de referencia más general y permanente; «no agotando su virtualidad en el momento de la aprobación del Estatuto de Autonomía, sino que continuarán siendo preceptos operativos en el momento de realizar la interpretación de los preceptos de éste, a través de los cuales se realiza la asunción de competencias por la Comunidad Autónoma» (Sentencia del Tribunal Constitucional de 4 de mayo de 1982).
+b) Una vez sentadas las precedentes consideraciones y como complemento de las, efectuadas al abordar la competencia del Estado, conviene poner de manifiesto que, en la asignación de funciones generales a las Comunidades Autónomas, se distingue entre aquellas competencias necesarias, que ineludiblemente deben respetarse –vigilancia y protección de sus edificios e instalaciones y coordinación de las Policías Locales– y las de libre disposición del legislador estatal.
+Por conexión con las primeras, se ha estimado procedente extenderlas a la protección de las personalidades autonómicas y a la vigilancia y protección de los demás bienes de la Comunidad. Y, de la atribución específica de otras competencias, surge también la relativa al uso de la coacción administrativa, para obtener la objetividad de los actos o decisiones de las Comunidades Autónomas.
+Entre las funciones, calificadas de concurrentes o de colaboración, deben mencionarse especialmente las relativas a la vigilancia de espacios públicos, protección de manifestaciones y mantenimiento del orden en grandes concentraciones humanas, si bien permitiendo la intervención de las Fuerzas y Cuerpos de Seguridad del Estado, a requerimiento de las autoridades de la Comunidad o cuando lo estimen necesario las autoridades estatales competentes.
+Este sistema de competencias tiene una única excepción en el caso de aquellas Comunidades Autónomas que dispongan de Cuerpos de Policía propios, a la entrada en vigor de la presente Ley, a las cuales, por razones de respeto a las situaciones creadas, así como de funcionalidad y eficacia, se les permite mantener su actual régimen de competencias, sin perjuicio de la aplicación directa de las normas estatutarias y orgánicas comunes previstas en la presente Ley.
+Por último, en materia de competencias autonómicas, tiene entidad propia la coordinación de las Policías Locales. Según la Sentencia del Tribunal Constitucional de 28 de abril de 1983, la coordinación es un concepto que usa la Constitución como instrumento para la fijación de medios y sistemas de relación, con objeto de lograr una cierta homogeneidad y hacer posibles, en su caso, actuaciones conjuntas y la colaboración mutua. Atendiendo a esta consideración general y a los preceptos normativos de las Comunidades, el desarrollo del artículo 148.1.22.ª, en cuanto a la coordinación y demás facultades en relación con las Policías Locales, se desarrolla ampliamente, con gran riqueza de posibilidades de coordinación y con carácter común respecto a todas las Comunidades que hayan asumido competencias sobre la materia, ya que estas facultades se han de ejecutar por los órganos de Gobierno de las Comunidades Autónomas y no por las Policías de éstas, lo que hace indiferente, a este respecto, el hecho de que las hayan creado o no.
+c) El régimen estatutario será el que determine la comunidad respectiva, con sujeción a las bases que en la Ley se establecen, como principios mínimos que persiguen una cierta armonización entre todos los colectivos que se ocupan de la seguridad. Tales principios mínimos son los establecidos en los capítulos I y III del título I de la propia Ley, y por ello, únicamente debe resaltarse: el reconocimiento de la potestad reglamentaria de las Comunidades Autónomas; la intervención, en el proceso de creación de los cuerpos, del Consejo de Política de Seguridad, obedeciendo a consideraciones de planificación, de coordinación y de interés general, y la atribución, también de carácter general, con numerosos precedentes históricos y estatutarios, a los jefes y oficiales de las Fuerzas Armadas y mandos de las Fuerzas y Cuerpos de Seguridad del Estado, de la aptitud para su designación como mandos de los Cuerpos de las Policías Autónomas, previa realización de un curso de especialización para tal misión en la Escuela General de Policía.
+d) El artículo 25 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, reconoce competencias a los municipios en materias de seguridad en lugares públicos y de ordenación del tráfico de personas y vehículos en las vías urbanas.
+A partir del reconocimiento de dichas competencias, la Ley de Fuerzas y Cuerpos de Seguridad admite distintas modalidades de ejecución de las mismas, desde la creación de Cuerpos de Policía propios, por parte de las Corporaciones Locales, hasta la utilización de personal auxiliar de custodia y vigilancia.
+Por lo que respecta a las funciones, dado que no existe ningún condicionamiento constitucional, se ha procurado dar a las Corporaciones Locales una participación en el mantenimiento de la seguridad ciudadana, coherente con el modelo diseñado, presidido por la evitación de duplicidades y concurrencias innecesarias y en función de las características propias de los Cuerpos de Policía Local y de la actividad que tradicionalmente vienen realizando.
+Sin la distinción formal, que aquí no tiene sentido, entre competencias exclusivas y concurrentes, se atribuyen a las Policías Locales las funciones naturales y constitutivas de toda policía; recogiéndose como específica la ya citada ordenación, señalización y dirección del tráfico urbano; añadiendo la de vigilancia y protección de personalidades y bienes de carácter local, en concordancia con los cometidos similares de los demás cuerpos policiales, y atribuyéndoles también las funciones de colaboración con las Fuerzas y Cuerpos de Seguridad, en materia de policía judicial y de seguridad ciudadana.
+Y como, obviamente, se reconoce la potestad normativa de las Comunidades Autónomas en la materia y se parte de la autonomía municipal para la ordenación complementaria de este tipo de policía, la Ley Orgánica, en cuanto a régimen estatutario, se limita a reiterar la aplicación a las policías locales de los criterios generales establecidos en los capítulos II y III del título I.
+V
+Sobre la base de la práctica indivisibilidad de la seguridad pública y del consiguiente carácter concurrente del ejercicio de la competencia sobre la misma, dentro del respeto a la autonomía de las distintas esferas de la Administración Pública, la Ley ha querido resaltar la necesidad de intercomunicación entre los cuerpos de seguridad de dichas esferas administrativas y, por ello, inmediatamente después de enumerar en el artículo 2.º cuales son esos cuerpos, proclama en su artículo 3.º, como un elemento constitutivo de todos ellos, el principio de cooperación recíproca y de coordinación orgánica.
+El principio de cooperación recíproca reaparece en el artículo 12 para cualificar las relaciones entre las Fuerzas y Cuerpos de Seguridad del Estado; se vuelve a reflejar al efectuar la clasificación de las funciones de las policías autónomas, en el artículo 38, uno de cuyos grupos es el de las funciones de colaboración con las Fuerzas y Cuerpos de Seguridad del Estado, y se pone de relieve también en el artículo 53, respecto a las funciones de los Cuerpos de Policía Local.
+Pero, precisamente como garantía de eficacia de la colaboración entre los miembros de los cuerpos de policía de las distintas esferas administrativas territoriales, la Ley ha considerado necesario establecer también unos cauces institucionalizados de auxilio y cooperación y unos mecanismos orgánicos de coordinación.
+Los cauces de auxilio y cooperación responden a los supuestos de insuficiencia de medios, que pueden concurrir en algunas Comunidades Autónomas, en cuyos casos, las Fuerzas y Cuerpos de Seguridad del Estado coadyuvarán a la realización de sus funciones policiales, o se llevará a cabo la adscripción funcional de unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas que no dispongan de policía propia, y sí de la posibilidad de crearla, recogida en sus estatutos.
+En cuanto a los mecanismos orgánicos de coordinación, el derecho comparado ofrece modelos acabados de articulación de las diferentes piezas orgánicas en materia de seguridad, con base en los cuales se ha optado por la creación de un órgano político –el Consejo de Política de Seguridad–, de composición paritaria, presidido por el Ministro del Interior e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, asistido por un órgano de carácter técnico, denominado Comité de Expertos.
+Dichos órganos elaborarán fórmulas de coordinación, acuerdos, programas de formación, de información y de actuaciones conjuntas; correspondiéndoles también la elaboración de directrices generales y el dictamen de las disposiciones legales que afecten a los cuerpos de policía.
+En cualquier caso, más que de coordinación coercitiva o jerárquica, se trata de una coordinación de carácter informativo, teniendo en cuenta el carácter paritario de los órganos previstos, de acuerdo con el precedente establecido en el artículo 4.º de la Ley 12/1983, de 14 de octubre, reguladora del proceso autonómico, con apoyo en los pronunciamientos del Tribunal Constitucional.
+En los niveles autonómico y local se recoge la posibilidad de constituir juntas de seguridad en las Comunidades Autónomas y en los municipios que dispongan de cuerpos de policía propios, para armonizar su actuación y la de los Cuerpos y Fuerzas de Seguridad del Estado, como mecanismo complementario de coordinación operativa, puesto que la coordinación general se atribuye a los órganos antes citados.
+
+## TÍTULO I
+
+De los Cuerpos y Fuerzas de Seguridad
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo primero
+
+Artículo primero.
+1. La Seguridad Pública es competencia exclusiva del Estado. Su mantenimiento corresponde al Gobierno de la Nación.
+2. Las Comunidades Autónomas participarán en el mantenimiento de la Seguridad Pública en los términos que establezcan los respectivos Estatutos y en el marco de esta Ley.
+3. Las Corporaciones Locales participarán en el mantenimiento de la seguridad pública en los términos establecidos en la Ley Reguladora de las Bases de Régimen Local y en el marco de esta Ley.
+4. El mantenimiento de la Seguridad Pública se ejercerá por las distintas Administraciones Públicas a través de las Fuerzas y Cuerpos de Seguridad.
+
+### Artículo segundo
+
+Artículo segundo.
+Son Fuerzas y Cuerpos de Seguridad:
+a) Las Fuerzas y Cuerpos de Seguridad del Estado dependientes del Gobierno de la Nación.
+b) Los Cuerpos de Policía dependientes de las Comunidades Autónomas.
+c) Los Cuerpos de Policía dependientes de las Corporaciones Locales.
+
+### Artículo tercero
+
+Artículo tercero.
+Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al principio de cooperación recíproca y su coordinación se efectuará a través de los órganos que a tal efecto establece esta Ley.
+
+### Artículo cuarto
+
+Artículo cuarto.
+1. Todos tienen el deber de prestar a las Fuerzas y Cuerpos de Seguridad el auxilio necesario en la investigación y persecución de los delitos en los términos previstos legalmente.
+2. Las personas y entidades que ejerzan funciones de vigilancia, seguridad o custodia referidas a personal y bienes o servicios de titularidad pública o privada tienen especial obligación de auxiliar o colaborar en todo momento con las Fuerzas y Cuerpos de Seguridad.
+
+## CAPÍTULO II
+
+Principios básicos de actuación
+
+### Artículo quinto
+
+Artículo quinto.
+Son principios básicos de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad los siguientes:
+1. Adecuación al ordenamiento jurídico, especialmente:
+a) Ejercer su función con absoluto respeto a la Constitución y al resto del ordenamiento jurídico.
+b) Actuar, en el cumplimiento de sus funciones, con absoluta neutralidad política e imparcialidad y, en consecuencia, sin discriminación alguna por razón de raza, religión u opinión.
+c) Actuar con integridad y dignidad. En particular, deberán abstenerse de todo acto de corrupción y oponerse a él resueltamente.
+d) Sujetarse en su actuación profesional, a los principios de jerarquía y subordinación. En ningún caso, la obediencia debida podrá amparar órdenes que entrañen la ejecución de actos que manifiestamente constituyan delito o sean contrarios a la Constitución o a las Leyes.
+e) Colaborar con la Administración de Justicia y auxiliarla en los términos establecidos en la Ley.
+2. Relaciones con la comunidad. Singularmente:
+a) Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral.
+b) Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello. En todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas.
+c) En el ejercicio de sus funciones deberán actuar con la decisión necesaria, y sin demora cuando de ello dependa evitar un daño grave, inmediato e irreparable; rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance.
+d) Solamente deberán utilizar las armas en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o las de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana y de conformidad con los principios a que se refiere el apartado anterior.
+3. Tratamiento de detenidos, especialmente:
+a) Los miembros de las Fuerzas y Cuerpos de Seguridad deberán identificarse debidamente como tales en el momento de efectuar una detención.
+b) Velarán por la vida e integridad física de las personas a quienes detuvieren o que se encuentren bajo su custodia y respetarán el honor y la dignidad de las personas.
+c) Darán cumplimiento y observarán con la debida diligencia los trámites, plazos y requisitos exigidos por el ordenamiento jurídico, cuando se proceda a la detención de una persona.
+4. Dedicación profesional.
+Deberán llevar a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana.
+5. Secreto profesional.
+Deberán guardar riguroso secreto respecto a todas las informaciones que conozcan por razón o con ocasión del desempeño de sus funciones. No estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera.
+6. Responsabilidad.
+Son responsables personal y directamente por los actos que en su actuación profesional llevaren a cabo, infringiendo o vulnerando las normas legales, así como las reglamentarias que rijan su profesión y los principios enunciados anteriormente, sin perjuicio de la responsabilidad patrimonial que pueda corresponder a las Administraciones Públicas por las mismas.
+
+## CAPÍTULO III
+
+Disposiciones estatutarias comunes
+
+### Artículo sexto
+
+Artículo sexto.
+1. Los Poderes Públicos promoverán las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad, de acuerdo con los principios de objetividad, igualdad de oportunidades, mérito y capacidad.
+2. La formación y perfeccionamiento de los miembros de las Fuerzas y Cuerpos de Seguridad se adecuará a los principios señalados en el artículo 5.º y se ajustarán a los siguientes criterios:
+a) Tendrá carácter profesional y permanente.
+b) Los estudios que se cursen en los centros de enseñanza dependientes de las diferentes Administraciones públicas podrán ser objeto de convalidación por el Ministerio de Educación y Ciencia, que a tal fin tendrá en cuenta las titulaciones exigidas para el acceso a cada uno de ellos y la naturaleza y duración de dichos estudios.
+c) Para impartir las enseñanzas y cursos referidos se promoverá la colaboración institucional de la Universidad, el Poder Judicial, el Ministerio Fiscal, las Fuerzas Armadas y de otras Instituciones, Centros o establecimientos que específicamente interesen a los referidos fines docentes.
+3. Los miembros de las Fuerzas y Cuerpos de Seguridad deberán jurar o prometer acatamiento a la Constitución como norma fundamental del Estado.
+4. Tendrán derecho a una remuneración justa que contemple su nivel de formación, régimen de incompatibilidades, movilidad por razones de servicio, dedicación y el riesgo que comporta su misión, así como la especificidad de los horarios de trabajo y su peculiar estructura.
+5. Reglamentariamente se determinará su régimen de horario de servicio que se adaptará a las peculiares características de la función policial.
+6. Los puestos de servicio en las respectivas categorías se proveerán conforme a los principios de mérito, capacidad y antigüedad, a tenor de lo dispuesto en la correspondiente reglamentación.
+7. La pertenencia a las fuerzas y Cuerpos de Seguridad es causa de incompatibilidad para el desempeño de cualquier otra actividad pública o privada, salvo aquellas actividades exceptuadas de la legislación sobre incompatibilidades.
+8. Los miembros de las Fuerzas y Cuerpos de Seguridad no podrán ejercer en ningún caso el derecho de huelga, ni acciones sustitutivas del mismo o concertadas con el fin de alterar el normal funcionamiento de los servicios.
+9. El régimen disciplinario, sin perjuicio de la observancia de las debidas garantías, estará inspirado en unos principios acordes con la misión fundamental que la Constitución les atribuye y con la estructura y organización jerarquizada y disciplinada propias de los mismos.
+
+### Artículo séptimo
+
+Artículo séptimo.
+1. En el ejercicio de sus funciones, los miembros de las Fuerzas y Cuerpos de Seguridad tendrán a todos los efectos legales el carácter de agentes de la autoridad.
+2. Cuando se cometa delito de atentado, empleando en su ejecución armas de fuego, explosivos u otros medios de agresión de análoga peligrosidad, que puedan poner en peligro grave la integridad física de los miembros de las Fuerzas y Cuerpos de Seguridad, tendrán al efecto de su protección penal la consideración de autoridad.
+3. La Guardia Civil sólo tendrá consideración de fuerza armada en el cumplimiento de las misiones de carácter militar que se le encomienden, de acuerdo con el ordenamiento jurídico.
+
+### Artículo octavo
+
+Artículo octavo.
+1. La jurisdicción ordinaria será la competente para conocer de los delitos que se cometan contra miembros de las Fuerzas y Cuerpos de Seguridad, así como de los cometidos por éstos en el ejercicio de sus funciones.
+Iniciadas unas actuaciones por los Jueces de Instrucción, cuando éstos entiendan que existen indicios racionales de criminalidad por la conducta de miembros de las Fuerzas y Cuerpos de Seguridad, suspenderán sus actuaciones y las remitirán a la Audiencia Provincial correspondiente, que será la competente para seguir la instrucción, ordenar, en su caso, el procesamiento y dictar el fallo que corresponda.
+Téngase en cuenta que se declara inconstitucional y nulo el párrafo segundo del apartado 1, en cuanto que atribuye la competencia para seguir la instrucción y ordenar, en su caso, el procesamiento de los miembros de las Fuerzas y Cuerpos de Seguridad por delitos cometidos en el ejercicio de sus funciones a la Audiencia correspondiente, por Sentencia del TC 55/1990, de 28 de marzo. Ref. BOE-T-1990-9176
+Cuando el hecho fuese constitutivo de falta, los jueces de instrucción serán competentes para la instrucción y el fallo, de conformidad con las normas de la Ley de Enjuiciamiento Criminal.
+Se exceptúa de lo dispuesto en los párrafos anteriores los supuestos en que sea competente la jurisdicción militar.
+2. El cumplimiento de la prisión preventiva y de las penas privativas de libertad por los miembros de las Fuerzas y Cuerpos de Seguridad, se realizarán en establecimientos penitenciarios ordinarios, con separación del resto de detenidos o presos.
+3. La iniciación de procedimiento penal contra miembros de las Fuerzas y Cuerpos de Seguridad, no impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos. No obstante, la resolución definitiva del expediente sólo podrá producirse cuando la sentencia recaída en el ámbito penal sea firme, y la declaración de hechos probados vinculará a la administración. Las medidas cautelares que puedan adoptarse en estos supuestos podrán prolongarse hasta que recaiga resolución definitiva en el procedimiento judicial, salvo en cuanto a la suspensión de sueldo en que se estará a lo dispuesto en la legislación general de funcionarios.
+Se declara inconstitucional y nulo el párrafo segundo del apartado 1, en cuanto que atribuye la competencia para seguir la instrucción y ordenar, en su caso, el procesamiento de los miembros de las Fuerzas y Cuerpos de Seguridad por delitos cometidos en el ejercicio de sus funciones a la Audiencia correspondiente, por Sentencia del TC 55/1990, de 28 de marzo. Ref. BOE-T-1990-9176
+
+## TÍTULO II
+
+De las Fuerzas y Cuerpos de Seguridad del Estado
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo noveno
+
+Artículo noveno.
+Las Fuerzas y Cuerpos de Seguridad del Estado ejercen sus funciones en todo el territorio nacional y están integradas por:
+a) El Cuerpo Nacional de Policía, que es un Instituto Armado de naturaleza civil, dependiente del Ministro del Interior.
+b) La Guardia Civil, que es un Instituto Armado de naturaleza militar, dependiente del Ministro del Interior, en el desempeño de las funciones que esta Ley le atribuye, y del Ministro de Defensa en el cumplimiento de las misiones de carácter militar que éste o el Gobierno le encomienden. En tiempo de guerra y durante el estado de sitio, dependerá exclusivamente del Ministro de Defensa.
+
+### Artículo diez
+
+Artículo diez.
+1. Corresponde al Ministro del Interior la administración general de la seguridad ciudadana y el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado, así como la responsabilidad de las relaciones de colaboración y auxilio con las Autoridades policiales de otros países, conforme a lo establecido en Tratados y Acuerdos Internacionales.
+2. Bajo la inmediata autoridad del Ministro del Interior, dicho mando será ejercido en los términos establecidos en esta Ley por el Director de la Seguridad del Estado, del que dependen directamente las Direcciones Generales de la Guardia Civil y de la Policía, a través de las cuales coordinará la actuación de los Cuerpos y Fuerzas de Seguridad del Estado.
+3. En cada provincia, el Gobernador Civil ejercerá el mando directo de las Fuerzas y Cuerpos de Seguridad del Estado, con sujeción a las directrices de los órganos mencionados en los apartados anteriores, sin perjuicio de la dependencia funcional de las unidades de Policía Judicial, respecto de los Jueces, de los Tribunales y del Ministerio Fiscal, en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente.
+
+## CAPÍTULO II
+
+De las funciones
+
+### Artículo once
+
+Artículo once.
+1. Las Fuerzas y Cuerpos de Seguridad del Estado tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana mediante el desempeño de las siguientes funciones:
+a) Velar por el cumplimiento de las Leyes y disposiciones generales, ejecutando las órdenes que reciban de las Autoridades, en el ámbito de sus respectivas competencias.
+b) Auxiliar y proteger a las personas y asegurar la conservación y custodia de los bienes que se encuentren en situación de peligro por cualquier causa.
+c) Vigilar y proteger los edificios e instalaciones públicos que lo requieran.
+d) Velar por la protección y seguridad de altas personalidades.
+e) Mantener y restablecer, en su caso, el orden y la seguridad ciudadana.
+f) Prevenir la comisión de actos delictivos.
+g) Investigar los delitos para descubrir y detener a los presuntos culpables, asegurar los instrumentos, efectos y pruebas del delito, poniéndolos a disposición del Juez o Tribunal competente y elaborar los informes técnicos y periciales procedentes.
+h) Captar, recibir y analizar cuantos datos tengan interés para el orden y la seguridad pública, y estudiar, planificar y ejecutar los métodos y técnicas de prevención de la delincuencia.
+i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.
+2. Las funciones señaladas en el párrafo anterior serán ejercidas con arreglo a la siguiente distribución territorial de competencias:
+a) Corresponde al Cuerpo Nacional de Policía ejercitar dichas funciones en las capitales de provincia y en los términos municipales y núcleos urbanos que el Gobierno determine.
+b) La Guardia Civil las ejercerá en el resto del territorio nacional y su mar territorial.
+3. No obstante lo dispuesto en el apartado anterior, los miembros del Cuerpo Nacional de Policía podrán ejercer las funciones de investigación y las de coordinación de los datos a que se refieren los apartados g) y h) del número 1 de este artículo, en todo el territorio nacional.
+La Guardia Civil, para el desempeño de sus competencias propias, podrá asimismo realizar las investigaciones procedentes en todo el territorio nacional, cuando ello fuere preciso.
+En todo caso de actuación fuera de su ámbito territorial, los miembros de cada Cuerpo deberán dar cuenta al otro de las mismas.
+4. Sin perjuicio de la distribución de competencias del apartado 2 de este artículo, ambos Cuerpos deberán actuar fuera de su ámbito competencial por mandato judicial o del Ministerio Fiscal o, en casos excepcionales, cuando lo requiera la debida eficacia en su actuación; en ambos supuestos deberán comunicarlo de inmediato al Gobernador civil y a los mandos con competencia territorial o material; el Gobernador civil podrá ordenar la continuación de las actuaciones o, por el contrario, el pase de las mismas al Cuerpo competente, salvo cuando estuvieren actuando por mandato judicial o del Ministerio Fiscal.
+5. En caso de conflicto de competencias, ya sea positivo o negativo, se hará cargo del servicio el Cuerpo que haya realizado las primeras actuaciones, hasta que se resuelva lo procedente por el Gobernador civil o las instancias superiores del Ministerio del Interior, sin perjuicio de lo dispuesto para la Policía Judicial.
+6. Al objeto de conseguir la óptima utilización de los medios disponibles y la racional distribución de efectivos, el Ministerio del Interior podrá ordenar que cualesquiera de los Cuerpos asuma, en zonas o núcleos determinados, todas o algunas de las funciones exclusivas asignadas al otro Cuerpo.
+
+### Artículo doce
+
+Artículo doce.
+1. Además de las funciones comunes establecidas en el artículo anterior, se establece la siguiente distribución material de competencias:
+A) Serán ejercidas por el Cuerpo Nacional de Policía:
+a) La expedición del documento nacional de identidad y de los pasaportes.
+b) El control de entrada y salida del territorio nacional de españoles y extranjeros.
+c) Las previstas en la legislación sobre extranjería, refugio y asilo, extradición, expulsión, emigración e inmigración.
+d) La vigilancia e inspección del cumplimiento de la normativa en materia de juego.
+e) La investigación y persecución de los delitos relacionados con la droga.
+f) Colaborar y prestar auxilio a las policías de otros países, conforme a lo establecido en los Tratados o Acuerdos Internacionales sobre las Leyes, bajo la superior dirección del Ministro del Interior.
+g) El control de las entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones.
+h) Aquellas otras que le atribuya la legislación vigente.
+B) Serán ejercidas por la Guardia Civil:
+a) Las derivadas de la legislación vigente sobre armas y explosivos.
+b) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando.
+c) La vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas.
+d) La custodia de vías de comunicación terrestre, costas, fronteras, puertos, aeropuertos y centros e instalaciones que por su interés lo requieran.
+e) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, de los recursos hidráulicos, así como de la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.
+f) La conducción interurbana de presos y detenidos.
+g) Aquellas otras que le atribuye la legislación vigente.
+2. Las Fuerzas y Cuerpos de Seguridad del Estado están obligadas a la cooperación recíproca en el desempeño de sus competencias respectivas.
+3. Las dependencias del Cuerpo Nacional de Policía y de la Guardia Civil actuarán recíprocamente como oficinas para la recepción y tramitación de los documentos dirigidos a las autoridades de cualquiera de los dos Institutos.
+
+## CAPÍTULO III
+
+De la Guardia Civil
+
+### Artículo trece
+
+Artículo trece.
+1. El Cuerpo de la Guardia Civil se estructura jerárquicamente según los diferentes empleos, de conformidad con su naturaleza militar.
+2. El régimen estatutario de la Guardia Civil será el establecido en la presente Ley, en las normas que la desarrollan y en el ordenamiento militar.
+
+### Artículo catorce
+
+Artículo catorce.
+1. El Ministerio del Interior dispondrá todo lo concerniente a servicios de la Guardia Civil relacionados con la seguridad ciudadana y demás competencias atribuidas por esta Ley, así como a sus retribuciones, destinos, acuartelamientos y material.
+2. Conjuntamente, los Ministros de Defensa e Interior dispondrán todo lo referente a la selección, formación, perfeccionamiento, armamento y despliegue territorial, y propondrán al Gobierno el nombramiento del titular de la Dirección General de la Guardia Civil, así como la normativa reguladora del voluntariado especial para la prestación del servicio militar en la misma.
+3. El Ministro de Defensa dispondrá lo concerniente al régimen de ascensos y situaciones del personal, así como a las misiones de carácter militar que se encomienden a la Guardia Civil, ejerciendo, respecto al voluntariado especial para la prestación del servicio militar en la misma las competencias que normativamente le correspondan.
+
+### Artículo quince
+
+Artículo quince.
+1. La Guardia Civil, por su condición de instituto armado de naturaleza militar, a efectos disciplinarios, se regirá por su normativa específica. Cuando la Guardia Civil actúe en el cumplimiento de misiones de carácter militar o cuando el personal de dicho Cuerpo se integre en unidades militares, resultará de aplicación el régimen disciplinario de las Fuerzas Armadas.
+En todo caso, será competente para la imposición de la sanción de separación del servicio el Ministro de Defensa, a propuesta del de Interior.
+2. Los miembros de la Guardia Civil no podrán pertenecer a partidos políticos o sindicatos ni hacer peticiones colectivas: individualmente podrán ejercer el derecho de petición en los términos establecidos en su legislación específica.
+Se modifica el apartado 1 por la disposición adicional 6 de la Ley 12/2007, de 22 de octubre. Ref. BOE-A-2007-18392
+
+## CAPÍTULO IV
+
+De la Policía
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+## Sección 1
+
+Sección 1.ª Normas generales, escalas y sistemas de acceso
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+## Sección 2
+
+Sección 2.ª De los derechos de representacion colectiva
+Se deroga por la disposición derogatoria única. 1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veinte
+
+Artículo veinte.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veintidós
+
+Artículo veintidós.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+## Sección 3
+
+Sección 3.ª Del Consejo de Policía
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+ Se declara la inconstitucionalidad del párrafo segundo del apartado 3 por Sentencia del TC 120/2010, de 24 de noviembre. Ref. BOE-A-2010-19818.
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica
+ Se declara la inconstitucionalidad del párrafo segundo del apartado 1 y del párrafo primero del apartado 2 por Sentencia del TC 120/2010, de 24 de noviembre. Ref. BOE-A-2010-19818.
+
+## Sección 4
+
+Sección 4.ª Régimen disciplinario
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+(Derogado)
+Se deroga por la diposición derogatoria única.1 de la Ley Orgánica 4/2010, de 20 de mayo. Ref. BOE-A-2010-8115#ddunica
+ Se declara la inconstitucionalidad y nulidad de la letra j) del apartado 3 por Sentencia del TC 188/2005, de 7 de julio. Ref. BOE-T-2005-13466
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+(Derogado)
+Se deroga por la diposición derogatoria única.1 de la Ley Orgánica 4/2010, de 20 de mayo. Ref. BOE-A-2010-8115#ddunica
+
+## CAPÍTULO V
+
+De la organización de Unidades de Policía Judicial
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+1. Las funciones de Policía Judicial que se mencionan en el artículo 126 de la Constitución serán ejercidas por las Fuerzas y Cuerpos de Seguridad del Estado, a través de las Unidades que se regulan en el presente capítulo.
+2. Para el cumplimiento de dicha función tendrán carácter colaborador de las Fuerzas y Cuerpos de Seguridad del Estado el personal de Policía de las Comunidades Autónomas y de las Corporaciones Locales.
+
+### Artículo treinta
+
+Artículo treinta.
+1. El Ministerio del Interior organizará con funcionarios de las Fuerzas y Cuerpos de Seguridad del Estado que cuenten con la adecuada formación especializada, Unidades de Policía Judicial, atendiendo a criterios territoriales y de especialización delictual, a las que corresponderá esta función con carácter permanente y especial.
+2. Las referidas Unidades orgánicas de Policía Judicial podrán adscribirse, en todo o en parte, por el Ministerio del Interior, oído el Consejo General del Poder Judicial, a determinados Juzgados y Tribunales. De igual manera podrán adscribirse al Ministerio Fiscal, oído el Fiscal General del Estado.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+1. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen orgánicamente del Ministerio del Interior y funcionalmente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación.
+2. Los Jueces o Presidentes de los respectivos órganos del orden jurisdiccional penal, así como los Fiscales Jefes podrán solicitar la intervención en una investigación de funcionarios o medios adscritos a Unidades orgánicas de Policía Judicial por conducto del Presidente del Tribunal Supremo o de los Presidentes de los Tribunales Superiores de Justicia o del Fiscal general del Estado, respectivamente.
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+La Policía Judicial constituye una función cuya especialización se cursará en los Centros de Formación y Perfeccionamiento de los miembros de las Fuerzas y Cuerpos de Seguridad del Estado, con participación de miembros de la Judicatura y del Ministerio Fiscal, o, complementariamente, en el Centro de Estudios Judiciales.
+La posesión del diploma correspondiente será requisito necesario para ocupar puestos en las Unidades de Policía Judicial que se constituyan.
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+Los funcionarios adscritos a las Unidades de Policía Judicial desempeñarán esa función con carácter exclusivo, sin perjuicio de que puedan desarrollar también las misiones de prevención de la delincuencia y demás que se les encomienden, cuando las circunstancias lo requieran, de entre las correspondientes a las Fuerzas y Cuerpos de Seguridad del Estado.
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+1. Los funcionarios de las Unidades de Policía Judicial no podrán ser removidos o apartados de la investigación concreta que se les hubiera encomendado, hasta que finalice la misma o la fase del procedimiento judicial que la originara, si no es por decisión o con la autorización del Juez o Fiscal competente.
+2. En las diligencias o actuaciones que lleven a cabo, por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes de lo Penal, los funcionarios integrantes de las Unidades de Policía Judicial tendrán el carácter de comisionados de dichos Jueces, Tribunales y Fiscales, y podrán requerir el auxilio necesario de las Autoridades y, en su caso, de los particulares.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+Los Jueces y Tribunales de lo Penal y el Ministerio Fiscal tendrán, respecto los funcionarios integrantes de Unidades de Policía Judicial que le sean adscritas y de aquellos a que se refiere el número 2 del artículo 31 de esta Ley, las siguientes facultades:
+a) Les darán las órdenes e instrucciones que sean necesarias, en ejecución de lo dispuesto en las normas de Enjuiciamiento Criminal y Estatutos del Ministerio Fiscal.
+b) Determinarán, en dichas órdenes o instrucciones, el contenido y circunstancias de las actuaciones que interesen a dichas Unidades.
+c) Controlarán la ejecución de tales actuaciones, en cuanto a la forma y los resultados.
+d) Podrán instar el ejercicio de la potestad disciplinaria, en cuyo caso emitirán los informes que puedan exigir la tramitación de los correspondientes expedientes, así como aquellos otros que considere oportunos. En estos casos recibirán los testimonios de las resoluciones recaídas.
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+Salvo lo dispuesto en este capítulo, el régimen funcionarial del personal integrado en las Unidades Policía Judicial será el de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+## TÍTULO III
+
+De las Policías de las Comunidades Autónomas
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+1. Las Comunidades Autónomas en cuyos Estatutos esté previsto podrán crear Cuerpos de Policía para el ejercicio de las funciones de vigilancia y protección a que se refiere el artículo 148.1.22 de la Constitución y las demás que le atribuye la presente Ley.
+2. Las Comunidades Autónomas que no hicieran uso de la posibilidad prevista en el apartado anterior podrán ejercer las funciones enunciadas en el artículo 148.1.22 de la Constitución, de conformidad con los artículos 39 y 47 de esta Ley.
+3. Las Comunidades Autónomas cuyos estatutos no prevean la creación de Cuerpos de Policía también podrán ejercer las funciones de vigilancia y protección a que se refiere el artículo 148.1.22 de la Constitución mediante la firma de acuerdos de cooperación específica con el Estado.
+
+## CAPÍTULO II
+
+De las competencias de las Comunidades Autónomas
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+Las Comunidades Autónomas, a que se refiere el número 1 del artículo anterior, podrán ejercer, a través de sus Cuerpos de Policía, las siguientes funciones:
+1. Con carácter de propias:
+a) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.
+b) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de sus servicios.
+c) La inspección de las actividades sometidas a la ordenación o disciplina de la Comunidad Autónoma, denunciando toda actividad ilícita.
+d) El uso de la coacción en orden a la ejecución forzosa de los actos o disposiciones de la propia Comunidad Autónoma.
+2. En colaboración con las Fuerzas y Cuerpos de Seguridad del Estado:
+a) Velar por el cumplimiento de las Leyes y demás disposiciones del Estado y garantizar el funcionamiento de los servicios públicos esenciales.
+b) Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de esta Ley.
+c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.
+El ejercicio de esta función corresponderá, con carácter prioritario, a los Cuerpos de Policía de las Comunidades Autónomas, sin perjuicio de la intervención de las Fuerzas y Cuerpos de Seguridad del Estado cuando, bien a requerimiento de las Autoridades de la Comunidad Autónoma, o bien por decisión propia, lo estimen necesario las Autoridades estatales competentes.
+3. De prestación simultánea e indiferenciada con las Fuerzas y Cuerpos de Seguridad del Estado:
+a) La cooperación a la resolución amistosa de los conflictos privados cuando sean requeridos para ello.
+b) La prestación de auxilio en los casos de accidente, catástrofe o calamidad pública, participando en la forma prevista en las Leyes, en la ejecución de los planes de protección civil.
+c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+Corresponde a las Comunidades Autónomas, de conformidad con la presente Ley y con la de Bases de Régimen Local, coordinar la actuación de las Policías Locales en el ámbito territorial de la Comunidad, mediante el ejercicio de las siguientes funciones:
+a) Establecimientos de las normas-marco a las que habrán de ajustarse los Reglamentos de Policías Locales, de conformidad con lo dispuesto en la presente Ley y en la de Bases de Régimen Local.
+b) Establecer o propiciar, según los casos, la homogeneización de los distintos Cuerpos de Policías Locales, en materia de medios técnicos para aumentar la eficacia y colaboración de éstos, de uniformes y de retribuciones.
+c) Fijar los criterios de selección, formación, promoción y movilidad de las Policías Locales, determinando los distintos niveles educativos exigibles para cada categoría, sin que, en ningún caso, el nivel pueda ser inferior a graduado escolar.
+d) Coordinar la formación profesional de las Policías Locales, mediante la creación de Escuelas de Formación de Mandos y de Formación Básica.
+
+## CAPÍTULO III
+
+Del régimen estatutario de las Policías de las Comunidades Autónomas
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+El régimen estatutario de los Cuerpos de Policía de las Comunidades Autónomas vendrá determinado, de conformidad con lo establecido en el artículo 149.1.18 de la Constitución, por los principios generales del título I de esta Ley, por lo establecido en este capítulo y por lo que dispongan al efecto los Estatutos de Autonomía y la legislación de las Comunidades Autónomas, así como por los Reglamentos específicos de cada Cuerpo.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+1. Corresponde a los órganos competentes de cada Comunidad Autónoma, previo informe del Consejo, a que se refiere el artículo 48 de esta Ley, la creación de sus Cuerpos de Policía, así como su modificación y supresión en los casos en que así se prevea en los respectivos Estatutos de Autonomía.
+2. Los Cuerpos de Policía de las Comunidades Autónomas son Institutos armados de naturaleza civil, con estructura y organización jerarquizada.
+3. En el ejercicio de sus funciones, los miembros de los citados Cuerpos deberán vestir el uniforme reglamentario, salvo los casos excepcionales que autoricen las Juntas de Seguridad.
+4. Los miembros de los Cuerpos de Policía de las Comunidades Autónomas estarán dotados de los medios técnicos y operativos necesarios para el cumplimiento de sus funciones, pudiendo portar armas de fuego. El otorgamiento de la licencia de armas competerá, en todo caso, al Gobierno de la Nación.
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales.
+No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo, previa autorización del Ministerio del Interior y, cuando proceda, comunicación al órgano de gobierno de la comunidad autónoma correspondiente, con las condiciones y requisitos que se determinen reglamentariamente.
+Se modifica por el art. 2 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+1. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas se designarán por las Autoridades competentes de la Comunidad Autónoma, entre Jefes, Oficiales y Mandos de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado.
+2. Durante su permanencia en la Policía de la Comunidad Autónoma, dichos Jefes, Oficiales y Mandos pasarán a la situación que reglamentariamente corresponda en su Arma o Cuerpo de procedencia, al cual podrán reintegrarse en cualquier momento que lo soliciten.
+3. Un porcentaje de las vacantes de los citados puestos de mando podrá ser cubierto, mediante promoción interna, entre los miembros del propio Cuerpo de Policía de la Comunidad Autónoma, en el número, con las condiciones y requisitos que determinen el Consejo a que se refiere el artículo 48 de esta Ley.
+4. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas habrán de realizar, una vez designados y antes de su adscripción, un curso de especialización homologado por el Ministerio del Interior para el mando peculiar de estos Cuerpos.
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+La selección, el ingreso, la promoción y formación de los miembros de los Cuerpos de Policía de las Comunidades Autónomas se regulará y organizará por las respectivas Comunidades Autónomas, sin perjuicio de lo establecido en los respectivos Estatutos.
+
+## TÍTULO IV
+
+De la colaboración y coordinación entre el Estado y las Comunidades Autónomas
+
+## CAPÍTULO I
+
+De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de policía de las Comunidades Autónomas
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+Los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y de los Cuerpos de Policía de las Comunidades Autónomas deberán prestarse mutuo auxilio e información recíproca en el ejercicio de sus funciones respectivas.
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+1. Cuando las Comunidades Autónomas que, según su Estatuto, puedan crear Cuerpos de Policía no dispongan de los medios suficientes para el ejercicio de las funciones previstas en el artículo 38.1 y 2.c) de la presente Ley, podrán recabar, a través de las Autoridades del Estado el auxilio de las Fuerzas y Cuerpos de Seguridad del Estado, correspondiendo en este caso a las Autoridades gubernativas estatales la determinación del modo y forma de prestar el auxilio solicitado. En caso de considerarse procedente su intervención, las Fuerzas y Cuerpos de Seguridad del Estado actuarán bajo el mando de sus Jefes naturales.
+2. En el resto de los casos, cuando en la prestación de un determinado servicio o en la realización de una actuación concreta concurran, simultáneamente, miembros o Unidades de las Fuerzas y Cuerpos de Seguridad del Estado y de la Policía de la Comunidad Autónoma, serán los Mandos de los primeros los que asuman la dirección de la operación.
+
+## CAPÍTULO II
+
+De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+Las Comunidades Autónomas incluidas en el apartado 2 del artículo 37 de la presente Ley, podrán solicitar del Gobierno de la Nación, a través del Ministerio del Interior, para el ejercicio de las funciones previstas en el artículo 38.1 de aquélla, la adscripción de Unidades del Cuerpo Nacional de Policía.
+Las condiciones de dicha adscripción se determinarán en acuerdos administrativos de colaboración de carácter específico, que deberán respetar, en todo caso, los siguientes principios:
+– La adscripción deberá afectar a Unidades operativas completas y no a miembros individuales del citado Cuerpo.
+– Las Unidades adscritas dependerán, funcionalmente, de las Autoridades de la Comunidad Autónoma, y orgánicamente del Ministerio del Interior.
+– Dichas Unidades actuarán siempre bajo el mando de sus Jefes naturales.
+– En cualquier momento podrán ser reemplazadas por otras, a iniciativa de las Autoridades estatales, oídas las Autoridades de la Comunidad Autónoma.
+
+## CAPÍTULO III
+
+De los órganos de coordinación
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+1. Para garantizar la coordinación entre las políticas de seguridad pública del Estado y de las Comunidades Autónomas se crea el Consejo de Política de Seguridad, que estará presidido por el Ministro del Interior e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas y por un número igual de representantes del Estado designados por el Gobierno de la Nación.
+2. El Consejo de Política de Seguridad ejercerá las siguientes competencias:
+– Aprobar los planes de coordinación en materia de seguridad y de infraestructura policial.
+– Informar las plantillas de los Cuerpos de Policía de las Comunidades Autónomas y sus modificaciones. El Consejo podrá establecer el número máximo de los efectivos de las plantillas.
+– Aprobar directivas y recomendaciones de carácter general.
+– Informar las disposiciones que dicten las Comunidades Autónomas, en relación con sus propios Cuerpos de Policía, así como la de creación de éstos.
+– Informar los convenios de cooperación, en materia de seguridad entre el Estado y las Comunidades Autónomas.
+– Las demás que le atribuya la legislación vigente.
+3. Para su adecuado funcionamiento el Consejo de Política de Seguridad elaborará un Reglamento de régimen interior que será aprobado por el mismo.
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+1. Dentro del Consejo de Política de Seguridad funcionará un Comité de Expertos integrado por ocho representantes, cuatro del Estado y cuatro de las Comunidades Autónomas, designados estos últimos anualmente por los miembros del Consejo de Política de Seguridad que representen a las Comunidades Autónomas. Dicho Comité tendrá la misión de asesorar técnicamente a aquél y preparar los asuntos que posteriormente vayan a ser debatidos en el Pleno del mismo y con carácter específico:
+– Elaborar y proponer fórmulas de coordinación.
+– Preparar acuerdos de cooperación.
+– Proponer programas de formación y perfeccionamiento de las Policías.
+– Elaborar planes de actuación conjunta.
+2. El Reglamento de régimen interior del Consejo de Política de Seguridad determinará las normas de composición y funcionamiento del Comité de Expertos.
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+1. En las Comunidades Autónomas que dispongan de Cuerpos de Policía propios podrá constituirse una Junta de Seguridad, integrada por igual número de representantes del Estado y de las Comunidades Autónomas, con la misión de coordinar la actuación de las Fuerzas y Cuerpos de Seguridad del Estado y de los Cuerpos de Policía de la Comunidad Autónoma, en los términos que reglamentariamente se determinen.
+2. La Junta de Seguridad será el órgano competente para resolver las incidencias que pudieran surgir en la colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y de los Cuerpos de Policía de la Comunidad Autónoma a tal efecto, las Autoridades competentes de las Comunidades Autónomas y los Gobernadores civiles deberán informar periódicamente a dicha Junta acerca de las deficiencias que se observen en la coordinación, mutuo auxilio e información recíproca entre aquéllos, indicando las medidas oportunas para corregir los problemas suscitados.
+
+## TÍTULO V
+
+De las Policías Locales
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno.
+1. Los municipios podrán crear cuerpos de policía propios, de acuerdo con lo previsto en la presente ley, en la Ley de Bases de Régimen Local y en la legislación autonómica.
+2. En los municipios donde no exista policía municipal, los cometidos de ésta serán ejercidos por el personal que desempeñe funciones de custodia y vigilancia de bienes, servicios e instalaciones, con la denominación de guardas, vigilantes, agentes, alguaciles o análogos.
+3. Dichos cuerpos sólo podrán actuar en el ámbito territorial del municipio respectivo, salvo en situaciones de emergencia y previo requerimiento de las autoridades competentes.
+No obstante, cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal respectivo, con autorización del Ministerio del Interior o de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica, cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma.
+Se modifica por el art. 2 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos.
+1. Los Cuerpos de Policía Local son Institutos armados, de naturaleza civil con estructura y organización jerarquizada, rigiéndose, en cuanto a su régimen estatutario, por los principios generales de los capítulos II y III del título I y por la sección cuarta del capítulo IV del título II de la presente Ley, con adecuación que exija la dependencia de la Administración correspondiente, las disposiciones dictadas al respecto por las Comunidades Autónomas y los Reglamentos específicos para cada cuerpo y demás normas dictadas por los correspondientes Ayuntamientos.
+2. Por lo que respecta al ejercicio de los derechos sindicales, y en atención a la especificidad de las funciones de dichos Cuerpos, les será de aplicación la Ley que se dicte en cumplimiento de lo establecido en la disposición adicional segunda, apartado 2, de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
+3. Será también de aplicación a los miembros de dichos Cuerpos lo dispuesto, respecto a los Cuerpos de Policía de las Comunidades Autónomas, en el artículo 41.3 de la presente Ley; si bien la facultad que en el mismo se atribuye a las Juntas de Seguridad corresponderá al Gobernador Civil respectivo.
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres.
+1. Los Cuerpos de Policía Local deberán ejercer las siguientes funciones:
+a) Proteger a las Autoridades de las Corporaciones Locales, y vigilancia o custodia de sus edificios e instalaciones.
+b) Ordenar, señalizar y dirigir el tráfico en el casco urbano, de acuerdo con lo establecido en las normas de circulación.
+c) Instruir atestados por accidentes de circulación dentro del casco urbano.
+d) Policía Administrativa, en lo relativo a las Ordenanzas, Bandos y demás disposiciones municipales dentro del ámbito de su competencia.
+e) Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de esta Ley.
+f) La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pública, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil.
+g) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad.
+h) Vigilar los espacios públicos y colaborar con las Fuerzas y Cuerpos de Seguridad del Estado y con la Policía de las Comunidades Autónomas en la protección de las manifestaciones y el mantenimiento del orden en grandes concentraciones humanas, cuando sean requeridos para ello.
+i) Cooperar en la resolución de los conflictos privados cuando sean requeridos para ello.
+2. Las actuaciones que practiquen los Cuerpos de Policía Local en el ejercicio de las funciones previstas en los apartados c) y g) precedentes deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes.
+3. En los municipios de gran población y en las Ciudades con Estatuto de Autonomía podrá asignarse, por el Pleno de la Corporación o por sus respectivas Asambleas, al ejercicio exclusivo de las funciones previstas en el párrafo b) del apartado 1 a parte de los funcionarios pertenecientes a las mismas, que tendrán la consideración de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, sin integrarse en las Fuerzas y Cuerpos de Seguridad y de manera que ello no comporte un incremento en el número de efectivos ni en los costes de personal.
+Los funcionarios integrantes de los Cuerpos referidos en el párrafo anterior se regirán por las normas contenidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y las demás normas que se dicten en desarrollo y aplicación de la misma.
+Se modifica el párrafo primero del apartado 3 por la disposición final 1 de la Ley Orgánica 9/2013, de 20 de diciembre. Ref. BOE-A-2013-13425.
+ Se añade el apartado 3 por la disposición adicional 15 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro.
+1. En los municipios que tengan Cuerpo de Policía propio, podrá constituirse una Junta Local de Seguridad, que será el órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial.
+2. La constitución de dichas Juntas y su composición se determinará reglamentariamente. La presidencia corresponderá al Alcalde, salvo que concurriera a sus sesiones el Gobernador civil de la provincia, en cuyo caso, la presidencia será compartida con éste.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. En el Cuerpo Nacional de Policía se integrarán los funcionarios de los Cuerpos Superiores de Policía y de Policía Nacional, que quedan extinguidos.
+La integración en las Escalas previstas en el artículo 17 de esta Ley se realizará en la forma siguiente:
+En la Escala Superior:
+Primera categoría: Comisarios Principales, Coroneles y el número de Comisarios y Tenientes Coroneles que reglamentariamente se determine de acuerdo con la disposición adicional tercera 1.
+Segunda categoría: Comisarios, Tenientes Coroneles y Comandantes.
+En la Escala Ejecutiva:
+Primera categoría: Subcomisarios, Capitanes e Inspectores de primera.
+Segunda categoría: Tenientes e Inspectores de segunda y tercera.
+En la Escala de Subinspección:
+Suboficiales.
+En la Escala Básica:
+Primera categoría: Cabos.
+Segunda categoría: Policías Nacionales.
+2. Dentro de cada Escala, la integración se hará por riguroso orden de empleo o categoría y antigüedad en los mismos, sobre la base de otorgar la misma puntuación al empleo de Coronel y a la categoría de Comisario principal; al empleo de Teniente Coronel y a la categoría de Comisario; al empleo de Capitán y a la categoría de Inspector de primera, y al empleo de Teniente y a la categoría de Inspector de segunda.
+3. Los miembros de las Fuerzas Armadas que hasta la entrada en vigor de la presente Ley Orgánica venían prestando servicio en el Cuerpo de Policía Nacional, podrán optar, en el plazo de seis meses desde dicha entrada en vigor, por integrarse definitivamente en las Escalas correspondientes del Cuerpo Nacional de Policía, en cuyo caso pasarán a la situación militar de retirado, o por reintegrarse a su Arma o Cuerpo de procedencia.
+4. El personal del Cuerpo de la Policía Nacional escalafonado como especialista en la Música y Ayudantes Técnicos de Sanidad, se incorporará a las respectivas Escalas y categorías del nuevo Cuerpo Nacional de Policía, en el lugar que les pueda corresponder con arreglo a su empleo y antigüedad, sin perjuicio de que continúen rigiéndose, en cuanto no se oponga a lo dispuesto en esta Ley, y hasta tanto se desarrollen sus especiales características, por las normas que los regulan.
+5. Los miembros del extinguido Servicio de Tráfico, que figuran en escalafón aparte, se incorporarán al nuevo Cuerpo Nacional de Policía, en el lugar que les pueda corresponder con arreglo a su empleo y antigüedad.
+6. Los miembros del Cuerpo de Policía Nacional que ingresaron por convocatorias especiales para el Batallón de Conductores, prestarán los servicios propios de su empleo en cualquier destino que pudiera corresponderles.
+7. Los Subcomisarios, Capitanes e Inspectores de primera, integrados en la Escala Ejecutiva, que en la fecha de promulgación de esta Ley hubieren alcanzado una antigüedad en el Cuerpo o Carrera de procedencia, igual o superior a quince años, podrán quedar integrados en la Escala Superior, previa superación de las pruebas y cursos que al efecto se determinen.
+En todo caso, para concurrir a dichas pruebas, será preciso en el caso de los Oficiales procedentes del Ejército, llevar un mínimo de tres años con destino en la Policía Nacional en la fecha de la convocatoria de estas pruebas.
+8. (Derogado)
+9. A los efectos previstos en esta disposición, serán computables como de carrera militar los cuatro años de estudios en la Academia Militar de los Oficiales procedentes de las Fuerzas Armadas.
+Se deroga el apartado 8 por la disposición derogatoria única.1 de la Ley 26/1994, de 29 de septiembre. Ref. BOE-A-1994-21315
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. La integración a que se refiere la disposición anterior no supondrá variación económica alguna para los funcionarios de los Cuerpos mencionados durante el presente ejercicio, que seguirán percibiendo las retribuciones correspondientes a su anterior empleo o categoría, de acuerdo con la normativa vigente.
+2. Los Oficiales integrados en la Escala Ejecutiva, con arreglo a lo establecido en la disposición anterior, que hubieren alcanzado títulos del grupo A, mantendrán las retribuciones básicas correspondientes a dichos títulos. No obstante, todos los funcionarios integrados en la misma categoría percibirán idénticas remuneraciones globales, en cuanto por su pertenencia a la misma.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Si, como consecuencia de la integración en el Cuerpo Nacional de Policía, de los miembros de los Cuerpos Superior de Policía y Policía Nacional y de la subsiguiente aprobación de las plantillas correspondientes, resultase una inadecuada distribución de efectivos, en las Escalas, categorías o en las Unidades, el personal sobrante podrá optar entre:
+a) El traslado o destino a los servicios en que haya vacantes de la Escala o categoría a que pertenezca, con la correspondiente compensación económica, de conformidad con lo legalmente establecido.
+b) La ocupación de plazas vacantes, en el destino en que se encuentre, cuyas funciones, sin ser exactamente las correspondientes a su Escala, sean las más afines dentro de lo posible, manteniendo las percepciones económicas de la Escala a que pertenezca.
+c) El pase a la situación de segunda actividad, previa concesión del Ministerio del Interior, en el número y condiciones que se determinen, siempre que les resten menos de quince años para alcanzar la edad de jubilación.
+d) El pase a la situación de excedencia forzosa, con los derechos y obligaciones previstos reglamentariamente.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. (Derogado)
+2. Mientras no se lleve a cabo el desarrollo reglamentario del régimen disciplinario del Cuerpo Nacional de Policía, y en aquellos aspectos que no estén directamente regulados en esta Ley, se aplicará a los miembros de los dos colectivos que se integran en dicho Cuerpo las previsiones del Real Decreto 1346/1984, de 11 de julio.
+Se deroga el apartado 1 por la disposición derogatoria única.1 de la Ley 26/1994, de 29 de septiembre. Ref. BOE-A-1994-21315
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. El Gobierno, a propuesta del Ministerio del Interior, aprobará el Reglamento orgánico y de servicio del Cuerpo Nacional de Policía, así como las plantillas de las Escalas y categorías de dicho Cuerpo, por una sola vez.
+2. El Gobierno, a propuesta conjunta de los Ministros de Defensa e Interior, aprobará el Reglamento orgánico y de servicio de la Guardia Civil, así como las plantillas y empleos de dicho Cuerpo, por una sola vez.
+3. Las plantillas orgánicas de las distintas Unidades dependientes de la Dirección de la Seguridad del Estado se fijarán por el Ministro del Interior.
+4. Los Ministerios de Economía y Hacienda y de Interior darán conjuntamente las instrucciones relativas a las misiones de resguardo fiscal, encomendadas al Cuerpo de la Guardia Civil.
+5. El Gobierno, a propuesta conjunta de los Ministerios de Defensa e Interior, determinará la extensión del mar territorial sobre el que se ejercerán las competencias atribuidas por esta Ley al Cuerpo de la Guardia Civil.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las referencias a la Policía y a los Cuerpos Superior de Policía y de Policía Nacional, contenidas en la legislación vigente, se considerarán hechas al Cuerpo Nacional de Policía.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Colaboración para la prestación de servicios de policía local.
+En los supuestos en los que dos o más municipios limítrofes, pertenecientes a una misma Comunidad Autónoma, no dispongan separadamente de recursos suficientes para la prestación de los servicios de policía local, podrán asociarse para la ejecución de las funciones asignadas a dichas policías en esta Ley.
+En todo caso, el acuerdo de colaboración para la prestación de servicios por los Cuerpos de Policía Local dependientes de los respectivos municipios respetará las condiciones que se determinen por el Ministerio del Interior y contará con la autorización de éste o, en su caso, de la Comunidad Autónoma correspondiente con arreglo a lo que disponga su respectivo Estatuto de Autonomía.
+Se añade por el art. único de la Ley Orgánica 16/2007, de 13 de diciembre. Ref. BOE-A-2007-21489
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica.
+ Se añade por la disposición final 1 de la Ley Orgánica 4/2010, de 20 de mayo.Ref. BOE-A-2010-8115
+ El legislador renumera correctamente el precepto por la disposicón final 2.1 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Representación de los funcionarios titulares de las Plazas de Facultativos y Técnicos en el Consejo de Policía.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica.
+ Se añade por la disposición final 2.2 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.
+
+### Disposición final primera
+
+Disposición final primera.
+1. Lo dispuesto en la presente Ley no será de aplicación a la competencia que el artículo 17 del Estatuto de Autonomía atribuye a las instituciones del País Vasco en materia de régimen de la Policía Autónoma, para la protección de las personas y bienes y el mantenimiento del orden público dentro del territorio autónomo, que seguirá regulándose por dicho Estatuto en la forma en que se determina por el mismo.
+2. No obstante lo establecido en el número anterior, los artículos 5, 6, 7 y 8 que contienen los principios básicos de actuación, y las disposiciones estatutarias comunes, por su carácter general, se aplicarán al régimen de la policía autónoma del País Vasco.
+3. La coordinación entre las Fuerzas y Cuerpos de Seguridad del Estado y la Policía Autónoma en el territorio de la Comunidad Autónoma del País Vasco, se realizará por la Junta de Seguridad, de acuerdo con lo dispuesto en el artículo 17 y la disposición transitoria cuarta del Estatuto de Autonomía del País Vasco.
+
+### Disposición final segunda
+
+Disposición final segunda.
+1. La Policía Autónoma de Cataluña se rige por su Estatuto de Autonomía y normas que lo desarrollen, respecto a las que la presente Ley tendrá carácter supletorio, de conformidad con el artículo 13.1 de aquél.
+2. No obstante lo establecido en el número anterior, por su carácter general, serán de aplicación directa al régimen de la Policía Autónoma de Cataluña, los artículos 5, 6, 7 y 8 de esta Ley, y, en virtud de lo dispuesto respectivamente en los apartados 2.c), 7 y 4, del artículo 13 del Estatuto de Cataluña, los artículos 38, 43 y 46 de la misma.
+3. La coordinación entre las Fuerzas y Cuerpos de Seguridad del Estado y la Policía Autónoma en el territorio de la Comunidad Autónoma de Cataluña, se realizará por la Junta de Seguridad, de acuerdo con lo dispuesto en los apartados 6 y 7 del artículo 13 del Estatuto de Autonomía de Cataluña.
+
+### Disposición final tercera
+
+Disposición final tercera.
+1. La Policía Foral de Navarra se regirá por la Ley Orgánica 13/1982,de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra y normas que la desarrollan, respecto de las que la presente Ley tendrá carácter supletorio.
+2. No obstante, lo establecido en el número anterior, por su carácter general, serán de aplicación directa al régimen de la Policía Foral, los artículos 5, 6, 7, 8, 43 y 46 de esta Ley, sin perjuicio de las competencias que corresponden a Navarra en materia de regulación del régimen de Policía, en virtud de la Ley Orgánica 13/1982, de 10 de agosto; asimismo, y de conformidad con el artículo 51.2 de la citada Ley Orgánica, podrán aplicarse los artículos 38 y 39 de esta Ley si así se establece en la normativa propia de la Comunidad Foral de Navarra.
+3. La coordinación entre las Fuerzas y Cuerpos de Seguridad del Estado y la Policía Foral de Navarra se realizará por la Junta de Seguridad, de acuerdo con lo previsto por el artículo 51.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Cuando las Comunidades Autónomas, a que hace referencia el apartado 2 del artículo 37 de esta Ley, ejerzan sus funciones en la forma prevista en el artículo 47, la financiación de las mismas se hará al 50 por 100 con cargo a los Presupuestos Generales del Estado.
+Si las referidas Comunidades Autónomas optasen por crear Cuerpos de Policía propios, conforme a lo dispuesto en el apartado 1 del referido artículo, no les será de aplicación lo establecido en la disposición transitoria primera de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+### Disposición final quinta
+
+Disposición final quinta. Régimen específico del sistema de provisión de puestos de trabajo de los catálogos de las unidades adscritas a la Secretaría de Estado de Seguridad.
+Por razones de confidencialidad y seguridad de la información, se habilita al Gobierno para que regule las especificidades del sistema de provisión de puestos incluidos en los catálogos de puestos de trabajo de aquellas unidades que dependan de la Secretaría de Estado de Seguridad y no dispongan de normativa específica en los términos previstos en el artículo 4 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+Dichas especificidades se referirán, en su caso, al procedimiento de valoración de los méritos en los concursos de provisión de los puestos y al régimen de publicidad, incluyendo las eventuales restricciones al mismo y las garantías de los derechos de los interesados.
+La determinación del sistema de provisión de dichos puestos como de concurso o libre designación se efectuará atendiendo a las razones de confidencialidad y seguridad anteriormente señaladas.
+Se modifica por la disposición final 1.1 de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#dfprimera.
+
+### Disposición final sexta
+
+Disposición final sexta. Carácter de ley orgánica.
+Tienen el carácter de ley orgánica los preceptos que se contienen en los títulos I, III, IV y V y en el título II, salvo los artículos 10, 11.2 a 6 y 12.1, la disposición adicional tercera y las disposiciones finales, excepto la disposición final quinta.
+Se añade por la disposición final 1.2 de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#dfprimera.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A la entrada en vigor de la presente Ley Orgánica, quedan derogadas, en su totalidad, las Leyes de 15 de marzo de 1940; de 23 de noviembre de 1940; de 2 de septiembre de 1941; 24/1970, de 2 de diciembre, y 55/1978, de 4 de diciembre. Quedan, asimismo, derogadas cuantas disposiciones, de igual o inferior rango, se opongan a lo preceptuado en la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a 13 de marzo de 1986.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ.

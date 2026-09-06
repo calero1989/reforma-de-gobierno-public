@@ -1,0 +1,209 @@
+# Ley 1/1994, de 13 de enero, sobre creación del Instituto Canario de la Mujer.
+
+- Identificador BOE: `BOE-A-1994-3921`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-3921
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 1/1994, de 13 de enero, del Instituto Canario de Igualdad" según establece el art. 6.1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+PREAMBULO
+El artículo 9.2 de la Constitución Española contiene un mandato a los poderes públicos para promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, así como para remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social; y en su artículo 14 proscribe cualquier discriminación por razón de sexo, lo que según reciente sentencia del Tribunal Constitucional, implica la decisión constitucional de acabar con una histórica situación de inferioridad atribuida a la mujer mediante la adopción de medidas de acción positivas.
+Por su parte, el Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 10/1982, de 10 de agosto, establece que los poderes públicos canarios, en el marco de sus competencias, asumen la promoción de las condiciones necesarias para el libre ejercicio de los derechos y libertades de los ciudadanos y la igualdad de los individuos y de los grupos en que se integran.
+Pero el reconocimiento por el ordenamiento jurídico de la igualdad entre la mujer y el hombre y la prohibición de cualquier tipo de discriminación por razón de sexo, no bastan para borrar de la realidad la secuela que siglos de una determinada concepción de la mujer han generado en los ámbitos cultural, económico y social. Esta constatación obliga a los poderes públicos, para cumplir con aquel mandato constitucional y conseguir una efectiva igualdad entre los dos sexos, a adoptar ciertas medidas de acción positiva en beneficio de la mujer dispensándole un trato diferenciado en aplicación del principio de igualdad, que supone un trato distinto para situaciones distintas para reequilibrar desiguales situaciones de partida.
+Con esta finalidad reequilibradora y para promocionar y fomentar las condiciones que posibiliten la igualdad entre mujer y hombre en todos los ámbitos de la vida, se crea el Instituto Canario de la Mujer concebido como Organismo Autónomo de carácter administrativo con personalidad jurídica propia.
+Como órgano consultivo de apoyo al Instituto se crea también la Comisión para la Igualdad de la Mujer, en la que se integrarán las representaciones de la Administración Pública Canaria, Sindicatos, empresarios y entidades que trabajen específicamente en programas en favor de la igualdad y la promoción de la mujer.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+El Instituto Canario de Igualdad es un organismo autónomo de carácter administrativo adscrito a la consejería competente en materia de igualdad entre mujeres y hombres.
+Se modifica por el art. 6.2 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se modifica por la disposición adicional 3 de la Ley 1/2010, de 26 de febrero. Ref. BOE-A-2010-4518#da-3
+
+### Artículo 2
+
+Artículo 2.
+El Instituto Canario de Igualdad tiene como objetivo primordial promover las condiciones que hagan real y efectiva la igualdad del hombre y la mujer en todos los ámbitos de la vida política, económica, cultural y social de Canarias.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 3
+
+Artículo 3.
+Para el cumplimiento de sus fines, el Instituto Canario de Igualdad desarrollará las siguientes funciones:
+a) Realizar y fomentar estudios, así como recopilar información y documentación sobre la situación de la mujer en la Comunidad Autónoma orientados a servir de base a la elaboración y adopción de las medidas a que haya lugar en orden a lo dispuesto en el siguiente apartado.
+b) Elaborar directrices destinadas a conseguir la igualdad real y efectiva del hombre y la mujer en todos los ámbitos de la vida política, económica, cultural y social de Canarias e impulsar su aplicación por los distintos poderes públicos canarios.
+c) Realizar el seguimiento de la legislación vigente y su aplicación, así como elaborar las propuestas de reforma legislativa encaminadas a eliminar las trabas que dificulten o impidan la igualdad real y efectiva entre ambos sexos.
+d) Ser oído y tener capacidad de propuesta, en el curso de procedimiento de elaboración de disposiciones generales promovidas por el Gobierno canario, que sirvan de refuerzo a los programas y propuestas que puedan contribuir al desarrollo efectivo de los derechos que el ordenamiento jurídico reconoce a la mujer.
+e) Estudiar y difundir aquellas disposiciones legales que puedan contribuir al desarrollo efectivo de los derechos que el ordenamiento jurídico reconoce a las mujeres.
+f) Realizar campañas de sensibilización, promoción y difusión, a fin de informar a los ciudadanos sobre la problemática de la mujer.
+g) Impulsar programas y actuaciones que contribuyan a incrementar la participación de las mujeres en la vida pública, en el orden económico, cultural y político.
+h) Fomentar la participación de la mujer en el ámbito laboral, promoviendo la formación y promoción profesional en condiciones que contrarresten la desigualdad con los trabajadores varones.
+i) Promover medidas que contribuyan a procurar un tratamiento de la mujer en los medios de comunicación acomodado a los principios constitucionales.
+j) Fomentar la prestación de servicios a favor de la mujer y, en particular, los dirigidos a aquellas que tengan una especial necesidad de ayuda.
+k) Recibir y encauzar, en el orden administrativo, denuncias formuladas por mujeres en casos concretos de discriminación por razón de sexo.
+l) Fomentar y coordinar la prestación de servicios de todo tipo a la mujer, mediante el establecimiento de convenios con entidades públicas y privadas.
+m) Establecer relaciones y cauces de participación con asociaciones, fundaciones y otros entes y organismos que, en razón de sus fines o funciones, contribuyan a la consecución de los objetivos del Instituto, así como con instituciones y organismos análogos de otras Comunidades Autónomas, del Estado y de la comunidad internacional.
+n) Proponer a las Administraciones Públicas canarias, en el ámbito de sus competencias, la adopción de programas de acción positiva a la mujer, así como la revisión y la coordinación de los que ya existieran, con el fin de lograr la superación de la desigualdad.
+o) Cualquier otra función que, relacionada con sus fines, se le pudiera encomendar.
+Se modifica el apartado 1 por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+## CAPITULO II
+
+Organización
+
+### Artículo 4
+
+Artículo 4.
+Son órganos del Instituto Canario de Igualdad:
+El Consejo Rector.
+La Directora.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 5
+
+Artículo 5.
+1. El Consejo Rector es el órgano superior de dirección, de planificación general y de programación de las actividades del Instituto Canario de Igualdad.
+2. En concreto, es función del Consejo Rector:
+a) Aprobar el Reglamento de Régimen Interior del Instituto.
+b) Aprobar el plan anual de actividades, así como la memoria anual sobre gestión y funcionamiento del organismo.
+c) Aprobar el anteproyecto de presupuesto y el de relación de puestos de trabajo del Instituto.
+d) Informar las propuestas sobre políticas de igualdad que afecten al conjunto de la acción gubernamental.
+e) Aprobar los convenios de colaboración con entidades públicas y privadas relacionadas con las tareas del Instituto. No obstante lo anterior, será preciso el previo acuerdo del Gobierno de Canarias para la celebración de convenios de colaboración con las entidades locales que impliquen obligaciones de contenido económico.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 6
+
+Artículo 6.
+El Consejo Rector tiene la siguiente composición:
+a) Presidencia: el Presidente o Presidenta del Gobierno.
+b) Vicepresidencia primera: el consejero o consejera competente en materia de igualdad.
+c) Vicepresidencia segunda: la persona titular de la Dirección del Instituto.
+d) Vocales:
+– Seis personas representantes de la Administración Pública de la Comunidad Autónoma, designadas por los titulares de las consejerías competentes en materia de hacienda, educación, función pública, políticas sociales, empleo y sanidad de entre quienes sean titulares de los órganos superiores de su departamento.
+– Seis personas designadas por la Presidencia del Consejo, a propuesta de la Vicepresidencia primera, en razón de su acreditada trayectoria personal o profesional en favor de la igualdad de derechos entre mujeres y hombres.
+e) Secretaría: la persona designada por la Dirección del Instituto Canario de Igualdad de entre el personal funcionario al servicio del mismo.
+Se modifica por el art. 6.3 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se modifican las letras a) y b) por la disposición adicional 3 de la Ley 1/2010, de 26 de febrero. Ref. BOE-A-2010-4518#da-3
+
+### Artículo 7
+
+Artículo 7.
+1. El Consejo Rector se reunirá, como mínimo, dos veces al año.
+Podrán celebrarse reuniones extraordinarias por iniciativa del Presidente o a instancia de la mayoría absoluta de sus miembros.
+2. El Presidente convoca y preside las reuniones, lo cual podrá delegar en la Vicepresidenta.
+3. Para la válida constitución del consejo rector será necesaria la asistencia a las reuniones, en primera convocatoria, de quienes desempeñen la presidencia y la secretaría, o de quienes les sustituyan, y de la mitad, al menos, de las personas miembros.
+Si en la primera convocatoria no concurriera el número de personas señalado, el consejo rector se reunirá, en segunda convocatoria, una hora más tarde de la señalada para el comienzo de la reunión, para la que será suficiente la presencia de un tercio de las personas miembros, incluida la presidencia y la secretaría, o de quienes las sustituyan.
+4. Los acuerdos serán adoptados por mayoría absoluta de los asistentes, y dirimirá los empates el voto del Presidente.
+5. El Consejo Rector podrá decidir la constitución en su seno de comisiones de trabajo para el estudio de temas específicos.
+Se modifica el apartado 3 por el art. 21 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 8
+
+Artículo 8.
+1. La Directora del Instituto Canario de Igualdad, con rango de Directora general, será nombrada y cesada por el Gobierno de Canarias, a propuesta del Consejero competente en materia de Asuntos Sociales.
+2. Son funciones de la Directora:
+a) Ejercer y desarrollar las funciones del Instituto Canario de Igualdad que no estén expresamente encomendadas al Consejo Rector, y asumir la dirección administrativa del organismo.
+b) Formular y proponer al Consejo Rector el Proyecto del Plan Anual de Actividades.
+c) Elaborar la memoria anual sobre gestión y funcionamiento del Instituto, que habrá de elevar a la consideración del Consejo Rector para su aprobación.
+d) Proponer al Consejo Rector las acciones concretas que, en materia de promoción y fomento de la igualdad de ambos sexos y de la participación de la mujer en la vida política, cultural, económica y social, correspondan al organismo.
+e) Recabar, para el adecuado ejercicio de sus funciones, de los Departamentos del Gobierno canario y demás poderes públicos, cuanta información considere necesaria en relación con la situación de la mujer y, especialmente, de las actuaciones que aquéllos realicen en este campo.
+f) Ejecutar los acuerdos del Consejo Rector.
+g) Elaborar el anteproyecto de presupuesto, ejecutarlo de conformidad con las determinaciones de la Ley Territorial de la Hacienda Pública de la Comunidad Autónoma y someter su liquidación al Consejo Rector.
+h) Ostentar la representación del Instituto.
+i) Ejercer las facultades de órgano de contratación con las limitaciones establecidas en la disposición final segunda de la Ley de Contratos del Estado.
+j) Autorizar los gastos con las limitaciones que se establezcan en la Ley de Presupuestos Generales de la Comunidad Autónoma, así como ordenar los pagos.
+k) Elaborar el anteproyecto de relación de puestos de trabajo y desempeñar las funciones inherentes a la jefatura superior de personal.
+l) Administrar, gestionar y recaudar los derechos económicos del organismo.
+m) Ejercer sobre los bienes y derechos que posea o tenga adscrito el Instituto las competencias que la Ley del Patrimonio de la Comunidad Autónoma de Canarias reconoce a los organismos autónomos.
+n) Cuantas otras funciones se le encomienden por el Consejo de Administración y cualesquiera otras que se le atribuyan reglamentariamente.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 9
+
+Artículo 9.
+1. El Consejo Canario de Igualdad de Género es el órgano de consulta del Instituto Canario de Igualdad y de participación de organizaciones de mujeres y hombres, entidades de iniciativa social y agentes sociales que desarrollan programas o actuaciones de igualdad de género en coordinación con las administraciones públicas canarias y que hayan incorporado a sus estatutos, como objeto social, la consecución de la igualdad entre mujeres y hombres en Canarias, en su ámbito de intervención.
+2. El Consejo Canario de Igualdad de Género ejerce las funciones atribuidas por la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y las demás que se le atribuyan.
+3. La composición, organización y funcionamiento del Consejo Canario de Igualdad de Género se determinarán reglamentariamente.
+Se modifica por el art. 6.4 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+### Artículo 9 bis
+
+Artículo 9 bis.
+El Observatorio de la Igualdad de Género y la Comisión de coordinación de las políticas autonómicas y locales para la igualdad de género se regularán en su normativa específica.
+Se modifica por el art. 6.5 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+## CAPITULO III
+
+Personal al servicio del Instituto
+
+### Artículo 10
+
+Artículo 10.
+El personal del Instituto se seleccionará y regirá conforme a lo establecido en la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, y demás normas que la complementen o desarrollen.
+
+## CAPITULO IV
+
+Patrimonio
+
+### Artículo 11
+
+Artículo 11.
+El patrimonio del Instituto Canario de Igualdad estará constituido por:
+a) Los bienes y derechos que adquiera por cualquiera de los medios admitidos en derecho.
+b) Los bienes que le adscriba la Comunidad Autónoma u otras Administraciones Públicas o instituciones privadas para el cumplimiento de sus fines.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+## CAPITULO V
+
+Régimen económico y financiero
+
+### Artículo 12
+
+Artículo 12.
+Para el cumplimiento de sus fines el Instituto Canario de Igualdad contará con los siguientes recursos:
+a) Los recursos procedentes de su patrimonio.
+b) Los créditos que con destino al Instituto se consignen en los Presupuestos Generales de la Comunidad Autónoma.
+c) Las subvenciones que se le concedan.
+d) Las aportaciones derivadas de los convenios o acuerdos de colaboración que se formalicen con otras Administraciones Públicas o con entidades privadas.
+e) Los ingresos que, en su caso, pueda obtener de la actividad propia del Instituto.
+f) Las aportaciones voluntarias o donaciones que puedan otorgar a su favor personas físicas o jurídicas.
+g) Cualesquiera otros recursos económicos, ordinarios o extraordinarios, que le sean legalmente atribuidos.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Artículo 13
+
+Artículo 13.
+El Instituto Canario de Igualdad someterá su régimen presupuestario a lo establecido en la Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma, a la Ley de Presupuestos de la Comunidad y a la normativa aplicable a los entes de naturaleza análoga en la Administración del Estado.
+Se modifica por la disposición adicional 2 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno para dictar las disposiciones necesarias en desarrollo de la presente Ley en el plazo de seis meses.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Por la Consejería de Economía y Hacienda se realizarán las modificaciones presupuestarias precisas en orden a la habilitación de los créditos necesarios para el cumplimiento de lo previsto en la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial de Canarias".
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, cooperen en su cumplimiento, y que los Tribunales y autoridades a los que corresponda, la cumplan y hagan cumplir.
+Las Palmas de Gran Canaria, 13 de enero de 1994.
+MANUEL HERMOSO ROJAS,
+Presidente del Gobierno

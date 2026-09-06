@@ -1,0 +1,586 @@
+# Ley Foral 9/1994, de 21 de junio, reguladora del régimen fiscal de las cooperativas.
+
+- Identificador BOE: `BOE-A-1994-19853`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-19853
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral Reguladora del Régimen Fiscal de las Cooperativas.
+La disposición adicional tercera de la Ley Foral 12/1989, de 3 de julio, de Cooperativas de Navarra, preveía la elaboración por el Gobierno y el sometimiento al Parlamento de un Estatuto Fiscal de las Cooperativas.
+Con anterioridad a esta Ley Foral, el particular régimen fiscal aplicable a estas entidades se contenía en el Acuerdo de la Diputación Foral de 12 de diciembre de 1969, desarrollado parcialmente por el Acuerdo de 29 de mayo de 1980; pero las profundas modificaciones que, en el régimen jurídico sustantivo de las cooperativas, se han producido tras la aprobación de la Ley Foral 12/1989, siguiendo los pasos de la Ley estatal en la materia, Ley 3/1987, de 2 de abril, General de las Cooperativas, y en el mismo sistema tributario de nuestra Comunidad Foral, a raíz de la reforma fiscal iniciada en 1978, hacen necesaria una nueva regulación que sustituya a la de 1969 y al mismo tiempo reordene y dé cabida en un único cuerpo legal a todas las peculiaridades que en materia fiscal se pueden predicar tanto de las cooperativas como de los socios y asociados de las mismas.
+En el Título I «De las cooperativas» se clasifican éstas, a efectos tributarios, en protegidas y especialmente protegidas.
+Para que una cooperativa reciba el tratamiento fiscal que esta Ley Foral establece ha de haberse constituido de acuerdo a la legislación sustantiva y, además, como requisito adicional que la normativa fiscal impone, no ha de incurrir en ninguna de las causas que el artículo 9 contempla, ya que, de otro modo, perdería su condición, no de cooperativa, sino de cooperativa que merece ser protegida fiscalmente.
+Como excepción a la delimitación inicial del campo de actuación de esta Ley Foral, las reglas especiales que la misma contiene en el Título II «Régimen fiscal de las cooperativas», referidas al Impuesto sobre Sociedades, se aplicarán a todas las cooperativas regularmente constituidas e inscritas. El tipo de gravamen será, en las cooperativas fiscalmente protegidas, del 20 por 100 para los resultados cooperativos y el tipo general para los extracooperativos y, en las restantes, el tipo general del Impuesto.
+Con la clasificación de las cooperativas en protegidas y especialmente protegidas se pretende incentivar en mayor medida a unas (agrarias, de explotación comunitaria de la tierra, de trabajo asociado y de consumidores y usuarios) respecto de otras, en base a la actuación de aquéllas en determinados sectores económicos, a la capacidad económica de sus socios y al respeto del carácter mutualista de las mismas.
+Para las cooperativas protegidas se contemplan beneficios tributarios que afectan al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (exención en operaciones societarias, préstamos y Fondo de Educación y Promoción), al Impuesto sobre Sociedades (libertad de amortización) y a los tributos locales (bonificación del 95 por 100 en Licencia Fiscal y Contribución Rústica y Pecuaria).
+Las especialmente protegidas disfrutarán, además, de la exención en Transmisiones Patrimoniales y Actos Jurídicos Documentados para la adquisición de bienes y derechos y en el Impuesto sobre Sociedades de la bonificación del 50 por 100 de la cuota.
+También se establecen beneficios fiscales para las cooperativas de segundo grado y para las Uniones, Federaciones y Confederaciones de Cooperativas.
+El Título III «De los socios y asociados de las cooperativas» dicta unas normas singulares que afectan a éstos en relación al Impuesto sobre la Renta de las Personas Físicas, a la deducción por doble imposición de dividendos en relación con los retornos cooperativos y a la valoración de sus participaciones en el capital social de estas entidades a efectos del Impuesto sobre el Patrimonio.
+El Título IV se ocupa «De las cooperativas de crédito», distinguiendo entre las que se consideran protegidas y las que no merecen serlo, y declarando aplicables a las primeras los tipos siguientes: el 26 por 100 para los resultados cooperativos y el tipo general para los extracooperativos.
+Finalmente, la disposición adicional segunda establece los beneficios fiscales aplicables a las Sociedades Agrarias de Transformación.
+
+## TÍTULO I
+
+De las cooperativas
+
+## CAPÍTULO I
+
+Normas generales
+
+### Artículo 1
+
+Artículo 1. Ámbito de aplicación.
+1. El régimen fiscal regulado en esta ley foral será aplicable a las cooperativas a las que, de conformidad con lo dispuesto en el Convenio Económico, les resulte de aplicación la normativa foral navarra.
+2. Las disposiciones específicas referentes a las cooperativas fiscalmente protegidas serán aplicables a las que reúnan las condiciones y requisitos que en esta Ley Foral se establecen.
+Se modifica el apartado 1 por el art. 11.1 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+### Artículo 2
+
+Artículo 2. Clasificación de las cooperativas fiscalmente protegidas.
+A efectos tributarios las cooperativas fiscalmente protegidas se clasifican en:
+a) Cooperativas protegidas.
+b) Cooperativas especialmente protegidas.
+
+## CAPÍTULO II
+
+De las cooperativas protegidas
+
+### Artículo 3
+
+Artículo 3. Cooperativas protegidas.
+Las cooperativas se considerarán protegidas cuando se ajusten a los principios y disposiciones de la Ley Foral 12/1989, de 3 de julio, de Cooperativas de Navarra, o de la Ley 3/1987, de 2 de abril, General de Cooperativas, o de las Leyes de Cooperativas de las Comunidades Autónomas con competencia en esta materia, siempre que no concurra cualquiera de los supuestos previstos en el artículo 9 de esta Ley Foral.
+
+## CAPÍTULO III
+
+De las cooperativas especialmente protegidas
+
+### Artículo 4
+
+Artículo 4. Cooperativas especialmente protegidas.
+Se considerarán especialmente protegidas y podrán disfrutar, con los requisitos establecidos en esta Ley Foral, del régimen tributario regulado en los artículos 27 y 28 de la misma las cooperativas de primer grado de las siguientes clases:
+a) Agrarias.
+b) De explotación comunitaria de la tierra.
+c) De trabajo asociado.
+d) De consumidores y usuarios.
+En cuanto a las cooperativas de segundo y ulterior grado se estará a lo dispuesto en el artículo 29 de esta Ley Foral.
+
+### Artículo 5
+
+Artículo 5. Cooperativas agrarias.
+Se considerarán especialmente protegidas las cooperativas agrarias que cumplan los siguientes requisitos:
+1. Que asocien a personas físicas titulares de explotaciones agrícolas, forestales, ganaderas o mixtas, situadas dentro del ámbito geográfico al que se extienda estatutariamente la actividad de la cooperativa.
+También podrán ser socios las personas físicas que presten sus servicios en la cooperativa con contrato de trabajo por tiempo indefinido, así como otras cooperativas agrarias y de explotación comunitaria de la tierra protegidas, sociedades agrarias de transformación de las contempladas en la disposición adicional segunda de esta Ley Foral, entes públicos, sociedades en cuyo capital participen mayoritariamente entes públicos y otras sociedades civiles y comunidades de bienes y derechos que reúnan las condiciones del párrafo anterior, integradas exclusivamente por personas físicas. Asimismo podrán ser socios otro tipo de sociedades que desarrollen la actividad agropecuaria, así como sociedades de promoción empresarial o de comercialización de productos agropecuarios, siempre que el número de estas sociedades en cada ejercicio económico no exceda en su conjunto del 20 por 100 del total de socios de la cooperativa.
+2. Que en la realización de sus actividades agrícolas forestales, ganaderas o mixtas respeten los siguientes límites:
+a) Que las materias, productos o servicios, adquiridos, arrendados, elaborados, producidos, realizados o fabricados por cualquier procedimiento, por la cooperativa, sean destinados exclusivamente a sus propias instalaciones o a las explotaciones de sus socios.
+No obstante podrán ser cedidos a terceros no socios siempre que su cuantía, durante cada ejercicio económico, no supere el 50 por 100 del importe al que se refiere el párrafo anterior.
+Asimismo, las cooperativas agrarias podrán distribuir al por menor productos petrolíferos a terceros no socios con el límite establecido en el artículo 9.º 10.
+b) Que no se conserven, tipifiquen, manipulen, transformen, transporten, distribuyan o comercialicen productos procedentes de otras explotaciones, similares a las explotaciones de la cooperativa o de sus socios, en cuantía superior, durante cada ejercicio económico, al 50 por 100 del importe obtenido por los productos propios.
+3. Que los valores catastrales de la Contribución Territorial o del Impuesto sobre Bienes Inmuebles de los bienes de naturaleza rústica correspondientes a cada socio en régimen de propiedad situados en el ámbito geográfico a que se refiere el apartado 1, no excedan de 500.000 euros.
+Tratándose de cooperativas dedicadas a la comercialización y transformación de productos ganaderos, en las que se integren socios titulares de explotaciones de ganadería independiente, que el volumen de ventas o entregas realizadas en cada ejercicio económico, dentro o fuera de la cooperativa, por cada uno de estos socios, exceptuados los entes públicos y las sociedades en cuyo capital participen éstos mayoritariamente, no supere el límite de 1.000.000 de euros.
+A efectos de la aplicación de estos límites, cuando figuren como socios otras cooperativas o sociedades o comunidades de bienes, los valores catastrales o el volumen de ventas de éstas se imputarán a cada uno de los socios en la proporción que estatutariamente les corresponda.
+Por excepción se admitirá la concurrencia de socios cuyos valores catastrales o volumen de ventas sean superiores a los indicados, siempre que dichas magnitudes no excedan en su conjunto del 30 por 100 de las que correspondan al resto de socios.
+Se modifica el apartado 2.a), con efectos de 1 de enero de 2012, por el art. 9.1 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546.
+ Se modifica por el art. 9.1.1 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+ Se modifican los apartados 2.a) y 3 por el art. 4.1 y 2 de la Ley Foral 20/2000, de 29 de diciembre. Ref. BOE-A-2001-3566.
+
+### Artículo 6
+
+Artículo 6. Cooperativas de explotación comunitaria de la tierra.
+Se considerarán especialmente protegidas las cooperativas de explotación comunitaria de la tierra que cumplan los siguientes requisitos:
+1. Que sus socios sean personas físicas titulares de derechos de uso y aprovechamiento de tierras u otros bienes inmuebles, susceptibles de explotación agraria, que cedan dichos derechos a la cooperativa independientemente de que presten su trabajo o no en la misma. También podrán ser socios otras personas físicas que, sin ceder a la cooperativa derechos de disfrute sobre bienes, presten su trabajo en la misma para la explotación en común de los bienes cedidos por los socios y de los demás que posea la cooperativa por cualquier título.
+En calidad de cedentes de derechos de uso y aprovechamiento podrán también asociarse a la cooperativa otras cooperativas de explotación comunitaria de la tierra o agrarias protegidas, sociedades agrarias de transformación de las contempladas en la disposición adicional segunda de esta Ley Foral, los entes públicos, las sociedades en cuyo capital participen mayoritariamente los entes públicos, las sociedades civiles y comunidades de bienes y derechos integradas por personas físicas, los aprovechamientos agrícolas y forestales, los montes en mano común, y demás instituciones de naturaleza análoga, recogidas en el Derecho Civil Foral o Común.
+2. Que el número de trabajadores asalariados con contrato por tiempo indefinido no exceda del 20 por 100 del total de socios trabajadores. Sin embargo, si el número de socios es inferior a cinco, podrá contratarse un trabajador asalariado.
+La cooperativa podrá emplear trabajadores por cuenta ajena mediante cualquier otra forma de contratación, sin perder su condición de cooperativa fiscalmente protegida, siempre que el número de jornadas legales realizadas por estos trabajadores durante el ejercicio económico no supere el 40 por 100 del total de jornadas legales de trabajo realizadas por los socios trabajadores.
+El cómputo de estos porcentajes se realizará de la forma dispuesta en el apartado 3 del artículo 7 de esta Ley Foral.
+3. Las cooperativas a que se refiere este artículo no perderán su condición de cooperativas especialmente protegidas por el hecho de desarrollar actividades de conservación tipificación, manipulación, transformación, transporte, distribución o comercialización de productos procedentes de explotaciones ajenas hasta un límite máximo en cada ejercicio económico del 50 por 100 del importe obtenido por los productos que procedan de la actividad de la cooperativa.
+4. Que el total de los valores catastrales de la Contribución Territorial o del Impuesto sobre Bienes Inmuebles en los bienes de naturaleza rústica correspondiente a los bienes de la cooperativa dividido entre el número de sus socios, tanto trabajadores como cedentes de derechos de explotación, no exceda de 500.000 euros.
+Se modifica por el art. 9.1.2 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+ Se modifica el apartado 4 por el art. 4.3 de la ley Foral 20/2000, de 29 de diciembre. Ref. BOE-A-2001-3566.
+
+### Artículo 7
+
+Artículo 7. Cooperativas de trabajo asociado.
+Se considerarán especialmente protegidas las cooperativas de trabajo asociado que cumplan los siguientes requisitos:
+1. Que asocien a personas físicas que presten su trabajo personal en la cooperativa para producir en común bienes y servicios para terceros.
+2. Que el importe medio de sus retribuciones totales efectivamente devengadas, incluidos los anticipos, no excedan del 200 por 100 de la media de las retribuciones normales en el mismo sector de actividad que hubieran debido percibir si su situación respecto a la cooperativa hubiera sido la de trabajadores por cuenta ajena.
+3. Que el número de jornadas legales realizadas por los trabajadores por cuenta ajena, con contrato por tiempo indefinido, en una sociedad cooperativa de trabajo asociado no sea en ningún caso superior al 30 por 100 del total de jornadas legales de trabajo realizadas por los socios trabajadores de la entidad.
+4. A efectos fiscales, se asimilará a las cooperativas de trabajo asociado cualquier otra que conforme a sus estatutos adopte la forma de trabajo asociado, resultándole de aplicación las disposiciones correspondientes a esta clase de cooperativas.
+Se modifica el apartado 3 por el art. 2 de la Ley Foral 14/1999, de 6 de abril. Ref. BOE-A-1999-12499.
+
+### Artículo 8
+
+Artículo 8. Cooperativas de consumidores y usuarios.
+Se considerarán especialmente protegidas las cooperativas de consumidores y usuarios que cumplan los siguientes requisitos:
+1. Que asocien a personas físicas, personas jurídicas o a entidades sin personalidad jurídica con el objeto de procurarles bienes y servicios en las mejores condiciones de calidad, información y precio.
+2. Que la media de las retribuciones totales de los socios de trabajo no supere el límite establecido en el artículo 7, apartado 2, de esta Ley Foral.
+3. Que las ventas o las prestaciones de servicios efectuadas a personas no asociadas, dentro del ámbito de las mismas, no excedan del 10 por 100 del total de las realizadas por la cooperativa en cada ejercicio económico o del 50 por 100 si así lo prevén sus estatutos.
+No serán de aplicación las limitaciones de este apartado ni las establecidas en el artículo 9, apartado 10, de esta Ley Foral, a aquellas cooperativas que tengan un mínimo de 30 socios de trabajo y, al menos, 50 socios de consumo por cada socio de trabajo, cumpliendo respecto de éstos con lo establecido en el artículo 7, apartado 3.
+Se modifican los apartados 1 y primer párrafo del 3 por el art. 11.2 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
+
+## CAPÍTULO IV
+
+Disposiciones comunes
+
+### Artículo 9
+
+Artículo 9. Causas de pérdida de la condición de cooperativa fiscalmente protegida.
+Será causa de pérdida de la condición de cooperativa fiscalmente protegida incurrir en alguno de los supuestos que se relacionan a continuación:
+1. No efectuar las dotaciones al Fondo de Reserva Obligatorio y al de Educación y Promoción, en los supuestos, condiciones y por la cuantía exigida legalmente.
+2. Repartir entre los socios durante la vida de la cooperativa los Fondos de Reserva que tengan carácter de irrepartibles y el activo sobrante en el momento de su liquidación.
+3. Aplicar cantidades del Fondo de Educación y Promoción a finalidades distintas de las previstas legalmente.
+4. Incumplir las normas reguladoras del destino del resultado de la regularización del balance de la cooperativa o de la actualización de las aportaciones de los socios al capital social.
+5. Retribuir las aportaciones de los socios o asociados al capital social con intereses superiores a los máximos autorizados en las normas legales o superar tales límites en el abono de intereses por demora en el supuesto de reembolso de dichas aportaciones o por los retornos cooperativos devengados y no repartidos por incorporarse a un Fondo Especial constituido por acuerdo de la Asamblea General.
+6. Acreditar los retornos sociales a los socios en proporción distinta a las entregas, actividades o servicios realizados con la cooperativa o distribuirlos a terceros no socios.
+7. No imputar las pérdidas del ejercicio económico o imputarlas vulnerando las normas establecidas legalmente, en los Estatutos o en los acuerdos de la Asamblea General.
+8. Exceder las aportaciones al capital social de los socios o asociados de los límites legales autorizados.
+9. Participar la cooperativa, en cuantía superior al 25 por 100, en el capital social de entidades no cooperativas.
+No obstante, dicha participación podrá alcanzar el 50 por 100 cuando se trate de entidades que realicen actividades preparatorias, complementarias o subordinadas a las de la propia cooperativa, salvo en el supuesto de que la titularidad de dicha participación la ostente una cooperativa de segundo grado, en cuyo caso podrá alcanzar hasta el 100 por 100.
+El conjunto de estas participaciones no podrá superar el 50 por 100 de los recursos propios de la cooperativa.
+El Servicio de Hacienda Tributaria de Navarra competente para la gestión del Impuesto sobre Sociedades podrá autorizar, previa solicitud, participaciones superiores, sin pérdida de la condición de cooperativa fiscalmente protegida, en aquellos casos en que se justifique que tal participación coadyuva al mejor cumplimiento de los fines sociales cooperativos y no supone una vulneración de los principios fundamentales de actuación de estas entidades.
+Transcurridos dos meses desde la presentación de la solicitud sin que se haya notificado la resolución expresamente a la cooperativa, se entenderá otorgada la autorización.
+10. La realización de operaciones cooperativizadas con terceros no socios, fuera de los casos permitidos en las leyes, así como el incumplimiento de las normas sobre contabilización separada de tales operaciones y destino al Fondo de Reserva Obligatorio de los resultados obtenidos en su realización.
+Ninguna cooperativa, cualquiera que sea su clase, podrá realizar un volumen de operaciones con terceros no socios superior al 50 por 100 del total de las de la cooperativa, sin perder la condición de cooperativa fiscalmente protegida.
+A los efectos de la aplicación del límite establecido en el párrafo anterior, se asimilan a las operaciones con socios los ingresos obtenidos por las secciones de crédito de las cooperativas procedentes de cooperativas de crédito, inversiones en fondos públicos y en valores emitidos por empresas públicas.
+11. Emplear trabajadores asalariados en número superior al autorizado en las normas legales por aquellas cooperativas respecto de las cuales exista tal limitación.
+12. Reducirse el número de socios por debajo del mínimo previsto en las normas legales, sin que se restablezca en un plazo de seis meses desde que se produjo tal situación.
+13. Reducirse el capital social a una cantidad inferior a la cifra mínima establecida estatutariamente, sin que se restablezca en el plazo de seis meses.
+14. Paralizarse la actividad cooperativizada o permanecer inactivos los órganos sociales durante dos años, sin causa justificada.
+15. Concluir la empresa que constituye su objeto o la imposibilidad manifiesta de desarrollar la actividad cooperativizada.
+16. No efectuar la auditoría externa en los casos señalados en las normas legales. La auditoría a la que se refiere el artículo 76.4.c) de la Ley Foral de Cooperativas tendrá, a estos efectos, la consideración de auditoría externa.
+Se modifica el párrafo 4º del apartado 9, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.1 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifica el apartado 10, con efectos de 1 de enero de 2012, por el art. 9.2 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546.
+ Se modifica el apartado 10 por el art 6.1.3 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+ Se modifica el apartado 10 por el art. 4.4 de la Ley Foral 20/2000, de 29 de diciembre. Ref. BOE-A-2001-3566.
+
+### Artículo 10
+
+Artículo 10. Circunstancias excepcionales.
+El Servicio de Hacienda Tributaria de Navarra competente para la gestión del Impuesto sobre Sociedades, mediante acuerdo escrito y motivado, podrá autorizar que no se apliquen los límites previstos en los artículos anteriores para la realización de operaciones con terceros no socios y contratación de personal asalariado, cuando, como consecuencia de circunstancias excepcionales no imputables a la propia cooperativa, esta necesite ampliar dichas actividades por plazo y cuantía determinados.
+Transcurridos dos meses desde la presentación de la solicitud sin que se haya notificado la resolución expresamente a la cooperativa, se entenderá otorgada la autorización.
+Se modifica el párrafo 1º, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.2 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+
+## TÍTULO II
+
+Régimen fiscal de las cooperativas
+
+## CAPÍTULO I
+
+Reglas especiales aplicables en el Impuesto sobre Sociedades
+
+## Sección 1
+
+Sección 1.ª Ámbito de aplicación
+
+### Artículo 11
+
+Artículo 11. Ámbito de aplicación.
+Las normas contenidas en este Capítulo serán de aplicación a todas las cooperativas que se hallen regularmente constituidas e inscritas en el correspondiente Registro de Cooperativas, aun en el supuesto de que incurran en alguna de las causas de pérdida de la condición de cooperativa fiscalmente protegida.
+
+## Sección 2
+
+Sección 2.ª Determinación de la base imponible
+
+### Artículo 12
+
+Artículo 12. Valoración de las operaciones realizadas con socios.
+1. Las operaciones realizadas por las cooperativas con sus socios, en el desarrollo de sus fines sociales, se computarán por su valor de mercado.
+2. Se entenderá por valor de mercado el precio normal de los bienes, servicios y prestaciones que sería concertado entre partes independientes por dichas operaciones.
+Cuando no se produzcan operaciones entre partes independientes dentro de la zona en que conforme a sus normas estatutarias actúe la cooperativa, el valor de mercado de las entregas efectuadas por los socios a la cooperativa se determinará rebajando del precio de venta obtenido por ésta el margen bruto habitual para las actividades de comercialización o transformación realizadas.
+El importe de los anticipos laborales de los socios trabajadores y de trabajo se calculará conforme a las retribuciones normales en la zona para el sector de actividad correspondiente.
+3. No obstante lo dispuesto en los números anteriores, tratándose de cooperativas de consumidores y usuarios, vivienda, agrarias o de aquellas que, conforme a sus estatutos, realicen servicios o suministros a sus socios, se computará como precio de las correspondientes operaciones aquel por el que efectivamente se hubiesen realizado, siempre que no resulte inferior al coste de tales servicios o suministros, incluida la parte correspondiente de los gastos generales de la entidad. En caso contrario, se aplicará este último. En las cooperativas agrarias se aplicará este sistema tanto para los servicios y suministros que la cooperativa realice a sus socios como para los que los socios realicen o entreguen a la cooperativa.
+Se modifica el apartado 3 por el art. 10 de la Ley Foral 23/2010, de 28 de diciembre. Ref. BOE-A-2011-3431.
+
+### Artículo 13
+
+Artículo 13. Partidas que componen la base imponible.
+1. Para la determinación de la base imponible se considerarán separadamente los resultados cooperativos y los extracooperativos.
+2. Son resultados cooperativos los rendimientos determinados conforme a lo previsto en la Sección 3.ª de este Capítulo.
+3. Son resultados extracooperativos los rendimientos extracooperativos y los incrementos y disminuciones patrimoniales a que se refiere la Sección 4.ª de este Capítulo.
+4. Para la determinación de los resultados cooperativos o extracooperativos se imputarán a los ingresos de una u otra clase, además de los gastos específicos necesarios para su obtención, la parte que, según criterios de imputación fundados, corresponda de los gastos generales de la cooperativa.
+5. A efectos de liquidación, la base imponible correspondiente a uno u otro tipo de resultados se minorará en el 50 por 100 de la parte de los mismos que se destine, obligatoriamente, al Fondo de Reserva Obligatorio o al Fondo de Reserva Obligatorio por Subvenciones.
+6. En las cooperativas agrarias, para la confección de la base imponible se aplicará la norma de correlación entre ingresos y gastos de cada campaña, observándose el criterio de imputación temporal consistente en que los ingresos y gastos correspondientes a cada campaña se incorporen a la cuenta de resultados en el momento en que sean conocidos los datos de la liquidación final a practicar a los socios, sin que esta incorporación pueda rebasar la fecha de cierre del ejercicio siguiente.
+
+## Sección 3
+
+Sección 3.ª Resultados cooperativos
+
+### Artículo 14
+
+Artículo 14. Ingresos cooperativos.
+Se considerarán como ingresos de esta naturaleza:
+1. Los procedentes del ejercicio de la actividad cooperativizada realizada con los propios socios.
+2. Las subvenciones corrientes.
+3. Las imputaciones al ejercicio económico de las subvenciones de capital en la forma prevista en las normas contables que sean aplicables.
+4. Los intereses y retornos procedentes de la participación de la cooperativa, como socio o asociado, en otras cooperativas.
+5. Los ingresos financieros procedentes de la gestión de la tesorería ordinaria necesaria para la realización de la actividad cooperativizada.
+6. Las cuotas satisfechas por los socios para cubrir gastos.
+Se modifica el apartado 3, con efectos para los periodos impositivos que se inicien el 1 de enero de 2016, por el art. 4.1 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+
+### Artículo 15
+
+Artículo 15. Supuestos especiales de gastos deducibles.
+En la determinación de los resultados cooperativos tendrán la consideración de gastos deducibles los siguientes:
+1. El importe de las entregas de bienes, servicios o suministros realizados por los socios, las prestaciones de trabajo de los socios y las rentas de los bienes cuyo goce haya sido cedido por los socios a la cooperativa, estimados por su valor de mercado, aunque figuren en contabilidad por un valor inferior, conforme a lo dispuesto en el artículo 12 de esta Ley Foral, sin perjuicio de la aplicación, en su caso, de lo contenido en su número 3.
+2. Las cantidades que las cooperativas destinen, con carácter obligatorio, al Fondo de Educación y Promoción, con los requisitos que se señalan en el artículo siguiente.
+3. Los intereses devengados por los socios y asociados por sus aportaciones obligatorias o voluntarias al capital social y aquellos derivados de retornos cooperativos integrados en el Fondo a que se refiere la letra b) del número 2 del artículo 50 de la Ley Foral 12/1989, de 3 de julio, siempre que el tipo de interés no exceda del básico del Banco de España, incrementado en cinco puntos. El tipo de interés básico que se tomará como referencia será el vigente en la fecha de cierre de cada ejercicio económico.
+
+### Artículo 16
+
+Artículo 16. Requisitos del Fondo de Educación y Promoción.
+1. La cuantía deducible de la dotación al Fondo de Educación y Promoción no podrá exceder en cada ejercicio económico del 30 por 100 de los excedentes netos del mismo.
+El Fondo se aplicará conforme al plan que apruebe la Asamblea General de la cooperativa.
+2. Las dotaciones al Fondo, así como las aplicaciones que requiera el plan, ya se trate de gastos corrientes o de inversiones para el inmovilizado, se reflejarán separadamente en la contabilidad social, en cuentas que indiquen claramente su afectación a dicho Fondo.
+3. Cuando en cumplimiento del plan no se gaste o invierta en el ejercicio siguiente al de la dotación la totalidad de la aprobada, el importe no aplicado deberá materializarse dentro del mismo ejercicio en cuentas de ahorro o en Deuda Pública.
+4. La aplicación del Fondo a finalidades distintas de las aprobadas dará lugar, sin perjuicio de lo dispuesto en el apartado 3 del artículo 9 de esta Ley Foral, a la consideración como ingreso del ejercicio en que aquélla se produzca, del importe indebidamente aplicado.
+De igual forma se procederá con respecto a la parte del Fondo de Reserva Obligatorio que sea objeto de distribución entre los socios, sin perjuicio de lo dispuesto en el apartado 2 del artículo 9 de esta Ley Foral.
+5. Al cierre del ejercicio se cargarán a una cuenta especial de resultados del Fondo los saldos de las cuentas representativas de gastos y disminuciones patrimoniales y, en particular:
+a) Los gastos corrientes de formación, educación y promoción cultural.
+b) Los gastos de conservación, reparación y amortización de los bienes del inmovilizado afectos al Fondo.
+c) Las pérdidas producidas en la enajenación de esos mismos bienes.
+6. En forma análoga se abonarán a la misma cuenta los saldos de las cuentas representativas de ingresos e incrementos patrimoniales y, en particular:
+a) Las subvenciones, donaciones y ayudas recibidas para el cumplimiento de los fines del Fondo.
+b) Las sanciones disciplinarias impuestas por la cooperativa a sus socios.
+c) Los rendimientos financieros de las materializaciones a que se refiere el número 3 anterior.
+d) Los beneficios derivados de la enajenación de bienes del inmovilizado afecto al Fondo.
+7. El saldo de la cuenta de resultados así determinados se llevará a la del Fondo.
+Las partidas de gastos, pérdidas, ingresos y beneficios trasladados a la cuenta de resultados del Fondo no se tendrán en cuenta para la determinación de la base imponible del Impuesto sobre Sociedades de la cooperativa.
+8. Lo dispuesto en el presente artículo será aplicable igualmente a cualquier Fondo de naturaleza y finalidades similares al regulado en este precepto, aunque reciba distinta denominación en virtud de la normativa aplicable al mismo.
+
+### Artículo 17
+
+Artículo 17. Gastos no deducibles.
+No tendrán la consideración de partida deducible para la determinación de la base imponible las cantidades distribuidas entre los socios de la cooperativa a cuenta de sus excedentes, ni el exceso de valor asignado en cuentas a las entregas de bienes, servicios, suministros, prestaciones de trabajo de los socios y rentas de los bienes cuyo goce haya sido cedido por los socios a la cooperativa, sobre su valor de mercado determinado conforme a lo dispuesto en el artículo 12 de esta Ley Foral.
+
+## Sección 4
+
+Sección 4.ª Resultados extracooperativos
+
+### Artículo 18
+
+Artículo 18. Ingresos extracooperativos.
+Se considerarán como ingresos de esta naturaleza, entre otros, los siguientes:
+1. Los procedentes del ejercicio de la actividad cooperativizada cuando fuera realizada con personas no socios.
+2. Los de carácter financiero derivados de inversiones o participaciones en sociedades de naturaleza no cooperativa.
+3. Los obtenidos de actividades económicas o fuentes ajenas a los fines específicos de la cooperativa.
+Dentro de éstos se comprenderán los procedentes de las secciones de crédito de las cooperativas, con excepción de los resultantes de las operaciones activas realizadas con los socios, de los obtenidos a través de cooperativas de crédito y de los procedentes de inversiones en fondos públicos y valores emitidos por empresas públicas.
+
+### Artículo 19
+
+Artículo 19. Incrementos y disminuciones patrimoniales.
+1. Son incrementos y disminuciones patrimoniales las variaciones en el valor del patrimonio de la cooperativa que se pongan de manifiesto con ocasión de cualquier alteración en la composición de aquél, conforme a lo establecido en el Texto Refundido de las disposiciones del Impuesto sobre Sociedades.
+2. No se considerarán incrementos patrimoniales:
+a) Las aportaciones obligatorias o voluntarias de los socios y asociados al capital social, las cuotas de ingreso y las deducciones en las aportaciones obligatorias efectuadas por los socios en los supuestos de baja de los mismos en la cooperativa, destinadas al Fondo de Reserva Obligatorio.
+b) La compensación por los socios de las pérdidas sociales que les hayan sido imputadas.
+c) Los resultados de la regularización de los elementos del activo cuando así se disponga legalmente.
+3. No tendrán la consideración de disminución patrimonial las reducciones del capital social por baja de los socios.
+
+## Sección 5
+
+Sección 5.ª Deuda tributaria
+
+### Artículo 20
+
+Artículo 20. Tipos de gravamen y cuota tributaria.
+1. Las cooperativas fiscalmente protegidas serán gravadas a los siguientes tipos:
+1.º A la base liquidable correspondiente a los resultados cooperativos le será aplicable el tipo del 17 por 100.
+2.º A la base liquidable correspondiente a los resultados extracooperativos le será aplicable el tipo general del Impuesto que proceda de los señalados en el artículo 51.1 de la Ley Foral 26/2016, del Impuesto sobre Sociedades.
+2. A las restantes cooperativas les será de aplicación el tipo general del Impuesto que corresponda de los señalados en el artículo 51.1 de la Ley Foral 26/2016, del Impuesto sobre Sociedades.
+3. La suma algebraica de las cantidades resultantes de aplicar a las bases liquidables, positivas o negativas, los tipos de gravamen a que se refieren los números anteriores tendrá la consideración de cuota íntegra cuando resulte positiva.
+Se modifica, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.3 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifica el apartado 1.1º, con efectos para los periodos impositivos que se inicien el 1 de enero de 2016, por el art. 4.2 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+ Se modifica por el art. 6.1.4 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+
+### Artículo 21
+
+Artículo 21. Compensación de cuotas negativas.
+1. Si la suma algebraica a que se refiere el artículo anterior resultase negativa, su importe podrá compensarse por la cooperativa con las cuotas íntegras positivas de los periodos impositivos que concluyan en los quince años inmediatos y sucesivos, con el límite del 70 por 100 de la cuota íntegra previa a su compensación.
+En todo caso, serán compensables en el periodo impositivo cuotas íntegras por el importe que resulta de multiplicar 1 millón de euros al tipo medio de gravamen de la entidad. Si el periodo impositivo tuviera una duración inferior al año, este límite será el resultado de multiplicar la cifra resultante por la proporción existente entre la duración del periodo impositivo respecto del año.
+Las cuotas negativas tendrán que haber resultado de la oportuna liquidación o autoliquidación. En el supuesto de practicarse la compensación se considerará que no han prescrito los períodos impositivos a los que correspondan las cuotas negativas, a los solos efectos de cuantificar la compensación que proceda.
+La limitación a la compensación de cuotas negativas no resultará de aplicación en el importe de la cuota derivada de rentas correspondientes a quitas o esperas, consecuencia de un acuerdo de los acreedores con el sujeto pasivo. Las cuotas negativas que sean objeto de compensación con dichas cuotas no se tendrán en consideración respecto del importe a que se refiere el último inciso del primer párrafo de este número.
+El límite previsto en este apartado no se aplicará en el periodo impositivo en que se produzca la extinción de la entidad, salvo que la misma sea consecuencia de una operación de reestructuración a la que resulta de aplicación el régimen fiscal establecido en el Capítulo IX del Título X.
+2. En las cooperativas de nueva creación el cómputo del plazo de compensación a que se refiere el número anterior podrá diferirse hasta el inicio del primer período impositivo en que las cuotas fuesen positivas, no resultando de aplicación el límite establecido en el primer párrafo del número 1 en los tres primeros periodos impositivos en que se genere una cuota íntegra positiva.
+No se entenderán incluidos en este número los supuestos de sucesión o continuidad de empresa.
+Se modifica, con efectos para los periodos impositivos que se inicien el 1 de enero de 2016, por el art. 4.3 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+ Se modifica, para los periodos impositivos que se inicien el 1 de enero de 2002. por el art. 11 de la Ley Foral 3/2002, de 14 de marzo. Ref. BOE-A-2002-8354.
+ Se modifica por el art. 3 de la Ley Foral 19/1999, de 30 de diciembre. Ref. BOE-A-2000-1736.
+ Se modifica por la disposición adicional 10.2.1 de la Ley Foral 24/1996, de 30 de diciembre. Ref. BOE-A-1997-1705.
+
+### Artículo 22
+
+Artículo 22. Deducciones por doble imposición.
+La deducción por doble imposición de dividendos y retornos cooperativos o, en su caso, por doble imposición internacional, se practicará por las cooperativas aplicando el tipo de gravamen que corresponda en función del carácter cooperativo o extracooperativo de los rendimientos que originan dicha deducción.
+Tratándose de retornos cooperativos se estará a lo dispuesto en el artículo 34 de esta Ley Foral.
+
+### Artículo 23
+
+Artículo 23. Deducción por creación de empleo.
+Deducción por creación de empleo. La deducción por creación de empleo prevista en el artículo 66 de la Ley Foral 26/2016 del Impuesto sobre Sociedades será de aplicación, además de en los supuestos y con los requisitos establecidos para cada ejercicio económico, a la admisión definitiva, una vez superado el periodo de prueba, de nuevos socios en las cooperativas de trabajo asociado o, en general, de socios de trabajo en cualquier cooperativa.
+Se modifica por el art. 8.1 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+
+## Sección 6
+
+Sección 6.ª Actualización del balance de las cooperativas
+
+### Artículo 24
+
+Artículo 24. Actualización del balance de las cooperativas.
+El balance de las cooperativas podrá ser regularizado en los mismos términos y con los mismos beneficios que se establezcan para las entidades sujetas al Impuesto sobre Sociedades, sin perjuicio de lo establecido en la legislación sobre cooperativas respecto al destino del resultado de la regularización del balance.
+En tal supuesto, no podrá disponerse del saldo de la cuenta de pasivo representativa de la regularización realizada en tanto dicha cuenta no haya sido comprobada o haya transcurrido un año desde la presentación del balance regularizado ante el Servicio de Hacienda Tributaria de Navarra competente para la gestión del Impuesto sobre Sociedades, salvo que la norma que autorice la actualización establezca o disponga lo contrario.
+Se modifica el párrafo 2º, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.4 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+
+## Sección 7
+
+Sección 7.ª Retenciones e ingresos a cuenta
+
+### Artículo 25
+
+Artículo 25. Retenciones e ingresos a cuenta.
+1. Las cooperativas vendrán obligadas a practicar a sus socios y a terceros las retenciones e ingresos a cuenta que procedan de acuerdo con las disposiciones vigentes en esta materia.
+En particular, en el supuesto de socios de cooperativas de trabajo asociado o de socios de trabajo de cualquier otra cooperativa, se distinguirán los rendimientos que procedan del trabajo de los correspondientes al capital mobiliario, considerándose rendimientos del trabajo el importe de los anticipos laborales, en cuantía no superior a las retribuciones normales en la zona para el sector de actividad correspondiente.
+2. A estos efectos, se asimilarán a dividendos la parte del excedente disponible del ejercicio económico que se acredite a los socios en concepto de retorno cooperativo.
+Tendrán la consideración de retorno anticipado las cantidades y excesos de valor asignados en cuenta, que se definen en el artículo 17 de esta Ley Foral como gastos no deducibles.
+3. Las retenciones e ingresos a cuenta se practicarán tanto por las cantidades efectivamente satisfechas como por las abonadas en cuenta, desde el momento en que resulten exigibles.
+
+### Artículo 26
+
+Artículo 26. Reglas especiales.
+1. Los retornos cooperativos no se considerarán rendimientos del capital mobiliario y, por tanto, no estarán sometidos a retención cuando no sean percibidos por el socio por haberlos aplicado a cualquiera de los siguientes destinos:
+a) Incorporación al capital social, incrementando las aportaciones del socio al mismo.
+b) Compensación de las pérdidas sociales de ejercicios anteriores.
+c) Incorporación a un Fondo Especial, regulado por la Asamblea General, hasta tanto no transcurra el plazo de devolución al socio, se produzca la baja de éste o los destine a satisfacer pérdidas o a realizar aportaciones al capital social.
+2. En los supuestos contemplados en la letra c) anterior, el nacimiento de la obligación de retener se produce en el primer día señalado para la disposición de dicho retorno, bajo cualquiera de las modalidades mencionadas anteriormente, y en relación a los intereses que, en su caso, se devenguen, en la fecha señalada para la liquidación de los mismos.
+
+## CAPÍTULO II
+
+Beneficios tributarios
+
+## Sección 1
+
+Sección 1.ª Beneficios tributarios
+
+### Artículo 27
+
+Artículo 27. Beneficios fiscales aplicables a las cooperativas protegidas.
+Las cooperativas protegidas disfrutarán de los siguientes beneficios fiscales:
+1. Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Exención, por cualquiera de los conceptos que puedan ser de aplicación, salvo el gravamen previsto en el artículo 22.1 del Texto Refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Decreto Foral Legislativo 129/1999, de 26 de abril, respecto de los actos, contratos y operaciones siguientes:
+a) Los actos de constitución, ampliación de capital, fusión y escisión.
+b) La constitución y cancelación de préstamos, incluso los representados por obligaciones.
+Téngase en cuenta que queda derogado para las cooperativas de crédito el beneficio fiscal del apartado 1.b), en los supuestos de escrituras de constitución de préstamo con garantía en las que aquellas entidades sean prestamistas, según establece la disposición derogatoria única de la Ley Foral 25/2018, de 28 de noviembre. Ref. BOE-A-2018-17139
+c) Las adquisiciones de bienes y derechos que se integren en el Fondo de Educación y Promoción para el cumplimiento de sus fines.
+2. Impuesto sobre Sociedades.
+Libertad de amortización de los elementos de activo fijo nuevo amortizable, adquiridos en el plazo de tres años a partir de la fecha de su inscripción en el correspondiente Registro de Cooperativas.
+La cantidad fiscalmente deducible en cada ejercicio por aplicación de la libertad de amortización, una vez practicada la amortización normal en cuantía no inferior a la mínima, no podrá exceder del importe del saldo de la cuenta de resultados cooperativos disminuido en las aplicaciones obligatorias al Fondo de Reserva Obligatorio y participaciones del personal asalariado.
+Este beneficio es compatible, en su caso, para los mismos elementos con las deducciones previstas en la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades.
+3. Tributos Locales.
+Bonificación del 95 por 100 de la cuota correspondiente a los siguientes tributos:
+a) Impuesto sobre Actividades Económicas o Licencia Fiscal correspondiente a cooperativas protegidas cuyo importe neto de la cifra de negocios sea igual o superior a 1.000.000 de euros.
+El importe neto de la cifra de negocios se determinará conforme a lo establecido en el artículo 150.1.g) de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra.
+b) Contribución Territorial correspondiente a los bienes de naturaleza rústica de las Cooperativas Agrarias y de Explotación Comunitaria de la Tierra.
+Se modifica el apartado 3.a), con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2021, por el art. 5.1 de la Ley Foral 21/2020, de 29 de diciembre. Ref. BOE-A-2021-1355#a5
+ Se modifica el segundo párrafo del apartado 1 y el último párrafo del apartado 2 por el art. 8.2 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
+ Se modifica el apartado 3.b) por el art. 9.1 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077.
+ Se modifica el apartado 3 por la disposición adicional 7.1 de la Ley Foral 21/1997, de 30 de diciembre. Ref. BOE-A-1998-2917.
+ Se modifica el apartado 3 por la disposición adicional 10 de la Ley Foral 1/1997, de 31 de enero. Ref. BOE-A-1997-10808.
+
+### Artículo 28
+
+Artículo 28. Beneficios fiscales aplicables a las cooperativas especialmente protegidas.
+Las cooperativas especialmente protegidas disfrutarán, además de los beneficios reconocidos en el artículo anterior, de los siguientes:
+1. Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Exención para las operaciones de adquisición de bienes y derechos destinados directamente al cumplimiento de sus fines sociales y estatutarios, así como para la constitución de concesiones administrativas a que se refiere el artículo 3.º1.B) del texto refundido de las disposiciones del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+2. Impuesto sobre Sociedades.
+Bonificación del 50 por 100 de la cuota íntegra a que se refiere el artículo 20 de esta Ley Foral.
+Se modifica el segundo párrafo del apartado 1 por el art. 10 de la Ley Foral 17/2025, de 22 de diciembre. Ref. BOE-A-2026-3910
+
+### Artículo 29
+
+Artículo 29. Cooperativas de segundo grado.
+1. Las cooperativas de segundo y ulterior grado que no incurran en ninguna de las circunstancias señaladas en el artículo 9 de esta Ley Foral disfrutarán de los beneficios fiscales previstos en el artículo 27.
+2. Las cooperativas de segundo y ulterior grado que no incurran en ninguna de las circunstancias señaladas en el artículo 9 de esta Ley Foral y que estén integradas, en más de un 70 por 100, por cooperativas especialmente protegidas disfrutarán, además, de los beneficios fiscales previstos en el artículo 28.
+3. Cuando entre las cooperativas asociadas existan cooperativas especialmente protegidas y su número sea inferior o igual al 70 por 100 del total de las asociadas, además de los beneficios fiscales previstos en el artículo 27, disfrutarán de la bonificación contemplada en el número 2 del artículo 28, que se aplicará, exclusivamente, sobre la cuota íntegra correspondiente a los resultados procedentes de las operaciones realizadas con las cooperativas especialmente protegidas.
+
+### Artículo 30
+
+Artículo 30. Uniones, Federaciones y Confederaciones de cooperativas.
+Las Uniones, Federaciones y Confederaciones de cooperativas constituidas de acuerdo con lo dispuesto en la legislación sobre cooperativas gozarán de los siguientes beneficios tributarios:
+a) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Exención para los mismos actos, contratos y operaciones que las cooperativas especialmente protegidas.
+b) Impuesto sobre Sociedades.
+Exención del Impuesto en los términos establecidos en el capítulo IX del título VII de la Ley Foral 26/2016, del Impuesto sobre Sociedades
+c) Tributos Locales.
+Bonificación del 95 por 100 de la cuota del Impuesto sobre Actividades Económicas o Licencia Fiscal correspondiente a Uniones, Federaciones y Confederaciones de cooperativas cuyo importe neto de la cifra de negocios sea igual o superior a 1.000.000 de euros.
+El importe neto de la cifra de negocios se determinará conforme a lo establecido en el artículo 150.1.g) de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra.
+d) Exención de la tasa por expedición de documentación, de información o de datos, referidos a las explotaciones de sus socios, que figuren en los archivos del Registro de la Riqueza Territorial de Navarra siempre que sean entregados en soporte informático o sean descargados por Internet.
+Se modifica la letra c), con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2021, por el art. 5.2 de la Ley Foral 21/2020, de 29 de diciembre. Ref. BOE-A-2021-1355#a5
+ Se modifica la letra b), con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.5 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifica la letra b), con efectos para los periodos impositivos que se inicien el 1 de enero de 2016, por el art. 4.4 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+ Se añade la letra d) por el art. 9.2.1 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+ Se modifica la letra c) por la disposición adicional 7.2 de la Ley Foral 21/1997, de 30 de diciembre. Ref. BOE-A-1998-2917.
+
+## Sección 2
+
+Sección 2.ª Aplicación y comprobación
+
+### Artículo 31
+
+Artículo 31. Aplicación de los beneficios fiscales y pérdida de los mismos.
+Las exenciones y bonificaciones fiscales previstas en esta Ley Foral se aplicarán a las cooperativas protegidas y, en su caso, a las especialmente protegidas, sin necesidad de previa declaración administrativa sobre la procedencia de su disfrute.
+La concurrencia de alguna de las circunstancias tipificadas en esta Ley Foral como causas de pérdida de la condición de cooperativa fiscalmente protegida determinará la aplicación del régimen tributario general, teniendo en cuenta lo dispuesto en el artículo 11 de esta Ley Foral y la privación de los beneficios disfrutados en el ejercicio económico en que se produzca, sin perjuicio de la aplicación de las sanciones que correspondan.
+
+### Artículo 32
+
+Artículo 32. Comprobación e Inspección.
+La Inspección de la Hacienda de Navarra comprobará que concurren las circunstancias o requisitos necesarios para disfrutar de los beneficios tributarios establecidos en esta Ley Foral y practicará, en su caso, la regularización que resulte procedente de la situación tributaria de la cooperativa.
+La Administración de la Comunidad Foral de Navarra pondrá en conocimiento de la entidad local correspondiente el resultado de la comprobación e inspección en lo que afecte a los tributos locales respectivos.
+
+## TÍTULO III
+
+De los socios y asociados de las cooperativas
+
+### Artículo 33
+
+Artículo 33. Tratamiento de determinadas partidas en el Impuesto sobre la Renta de las Personas Físicas.
+En la aplicación del Impuesto sobre la Renta de las Personas Físicas cuando el sujeto pasivo sea socio de una cooperativa, se tendrán en cuenta las siguientes normas:
+a) Se considerarán rendimientos del capital mobiliario los retornos cooperativos que, conforme a lo dispuesto en los artículos 25 y 26 de esta Ley Foral, estuviesen sometidos a retención o ingreso a cuenta.
+b) No se deducirán en ningún caso para la determinación de la base las pérdidas sociales atribuidas a los socios.
+c) Para determinar la cuantía de las variaciones patrimoniales derivadas de la transmisión o el reembolso de las aportaciones sociales, se adicionarán al coste de adquisición de éstas las cuotas de ingreso satisfechas y las pérdidas de las cooperativas que, habiéndose atribuido al socio conforme a las disposiciones legales sobre cooperativas, hubieran sido reintegradas en metálico o compensadas con retornos de que sea titular el socio y que estén incorporados a un Fondo Especial regulado por la Asamblea General.
+
+### Artículo 34
+
+Artículo 34. Deducción por doble imposición.
+Los socios de las cooperativas protegidas, sean personas físicas o jurídicas, gozarán, en relación con los retornos cooperativos, de una deducción en la cuota del Impuesto sobre la Renta de las Personas Físicas o, en su caso, del Impuesto sobre Sociedades, del 10 por 100 del importe percibido. Cuando, por tratarse de una cooperativa especialmente protegida, dichos rendimientos se hayan beneficiado de la bonificación prevista en el número 2 del artículo 28 de esta Ley Foral, dicha deducción será del 5 por 100 de tales retornos.
+Téngase en cuenta que este artículo queda derogado en lo que resulte de aplicación a los sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas, según establece la disposición derogatoria única.c) de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+
+### Artículo 35
+
+Artículo 35. Valoración a efectos del Impuesto sobre el Patrimonio de las participaciones de los socios o asociados en el capital social de las cooperativas.
+La valoración de las participaciones de los socios o asociados en el capital social de las cooperativas se determinará en función del importe total de las aportaciones sociales desembolsadas, obligatorias o voluntarias, resultante del último balance aprobado con anterioridad a la fecha de devengo del Impuesto, deduciéndose, en su caso, las pérdidas sociales no reintegradas.
+
+## TÍTULO IV
+
+De las cooperativas de crédito
+
+### Artículo 36
+
+Artículo 36. Definición de las cooperativas de crédito a efectos tributarios.
+1. Serán consideradas como cooperativas protegidas, a los efectos de esta Ley Foral, aquellas entidades constituidas con arreglo a los principios y disposiciones de la Ley Foral 12/1989, de 3 de julio, y de la Ley 13/1989, de 26 de mayo, de Cooperativas de Crédito, siempre que hayan sido inscritas en los Registros del Banco de España, Mercantil y en el correspondiente de Cooperativas.
+2. No serán consideradas como tales, aun cuando utilicen esta denominación y no hubieran sido previamente descalificadas, aquellas cooperativas de crédito que cometan infracciones calificadas de graves o muy graves en la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, o incurran en alguno de los supuestos previstos en el artículo 9 de esta Ley Foral, con excepción de los contemplados en sus apartados 6, 10 y 13 que, a efectos de su aplicación a las cooperativas de crédito, quedan sustituidos por los siguientes:
+a) Cuando los retornos fueran acreditados a los socios en proporción distinta a las operaciones activas realizadas con la cooperativa o fuesen distribuidos a terceros no socios. Si existieran socios de trabajo no se perderá la condición de protegida cuando los retornos que se les acrediten sean proporcionales a los anticipos laborales percibidos durante el ejercicio económico.
+b) La realización de operaciones activas con terceros no socios en cuantía superior en el ejercicio económico al 50 por 100 de los recursos totales de la cooperativa.
+No se computarán en el referido porcentaje las operaciones realizadas por las cooperativas de crédito con los socios de las cooperativas asociadas, las de colocación de los excesos de tesorería en el mercado interbancario ni la adquisición de valores y activos financieros de renta fija para la cobertura de los coeficientes legales o para la colocación de los excesos de tesorería.
+c) La reducción del capital social a una cantidad inferior a la cifra que se determine, sin que se restablezca en el plazo que se fije, o la realización por la cooperativa de operaciones fuera de su ámbito territorial sin ampliar previamente su capital en la cuantía obligatoria.
+
+### Artículo 37
+
+Artículo 37. Tipos de gravamen.
+A las cooperativas de crédito protegidas a que se refiere el artículo anterior les serán de aplicación los siguientes tipos de gravamen en el Impuesto sobre Sociedades:
+1. A la base liquidable correspondiente a los resultados cooperativos se aplicará el tipo del 25 por 100. A estos efectos tendrán la consideración de resultados cooperativos, además de los señalados en la sección 3.ª del capítulo I del título II, los procedentes de las operaciones señaladas en el segundo párrafo del artículo 36.2.b).
+2. A la base liquidable correspondiente a los resultados extracooperativos, que deberán ser contabilizados separadamente, se aplicará el tipo del 25 por 100.
+Se modifica, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.6 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se modifica, con efectos para los periodos impositivos que se inicien el 1 de enero de 2016, por el art. 4.4 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.
+ Se modifica por la disposición adicional 10.2.2 de la Ley Foral 24/1996, de 30 de diciembre. Ref. BOE-A-1997-1705.
+
+### Artículo 38
+
+Artículo 38. Beneficios fiscales.
+Gozarán de los beneficios fiscales contemplados en el número 1 del artículo 27 que les sean apli­cables por su naturaleza y actividades.
+Se modifica por el art. 9.2 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077.
+ Se modifica por la disposición adicional de la Ley Foral 25/1994, de 29 de diciembre. Ref. BOE-A-1995-7062.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En lo no previsto expresamente por esta Ley Foral será de aplicación la normativa reguladora de los Impuestos sobre Sociedades y sobre la Renta de las Personas Físicas, así como las demás disposiciones tributarias de carácter general.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las Sociedades Agrarias de Transformación constituidas para el cumplimiento de los fines recogidos en el Real Decreto 1776/1981, de 3 de agosto, e inscritas en el correspondiente Registro, disfrutarán de los siguientes beneficios fiscales:
+a) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados: Exención total para los actos de constitución y ampliación de capital.
+b) En el Impuesto sobre Actividades Económicas o Licencia Fiscal: Bonificación del 95 por 100 de la cuota correspondiente.
+Bonificación del 95 por 100 de la cuota correspondiente a Sociedades Agrarias de Transformación cuyo importe neto de la cifra de negocios sea igual o superior a 1.000.000 de euros. El importe neto de la cifra de negocios se determinará conforme a lo establecido en el artículo 150.1.g) de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra.
+En materia de aplicación y comprobación de los beneficios fiscales antes mencionados se aplicará a las Sociedades Agrarias de Transformación lo dispuesto en los artículos 31 y 32 de esta Ley Foral.
+Se modifica el segundo párrafo de la letra b), con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2021, por el art. 5.3 de la Ley Foral 21/2020, de 29 de diciembre. Ref. BOE-A-2021-1355#a5
+ Se modifica la letra b) por la disposición adicional 7.3 de la Ley Foral 21/1997, de 30 de diciembre. Ref. BOE-A-1998-2917.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La Ley Foral de Presupuestos Generales de Navarra podrá modificar los tipos tributarios, límites cuantitativos y porcentajes establecidos en la presente Ley Foral, así como las causas de pérdida de la condición de cooperativa fiscalmente protegida.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Las cooperativas de trabajo asociado fiscalmente protegidas que integren, al menos, un 50 por 100 de socios minusválidos y que acrediten que, en el momento de constituirse la cooperativa, dichos socios se hallaban en situación de desempleo, gozarán de una bonificación del 90 por 100 de la cuota íntegra del Impuesto sobre Sociedades, durante los cinco primeros años de actividad social, en tanto se mantenga el referido porcentaje de socios.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Los beneficios que se contienen en esta Ley Foral referidos a la Contribución sobre Actividades Diversas, Licencia Fiscal de Actividades Industriales, Comerciales, de Servicios, Profesionales, Artistas y Deportistas y a la Contribución Territorial Rústica y Pecuaria se entenderán aplicables en el futuro a los Impuestos que las sustituyan.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Se autoriza al Gobierno de Navarra a que, una vez derogada la Contribución Territorial Rústica y Pecuaria, fije los nuevos límites cuantitativos que se contienen en los artículos 5 y 6 de esta Ley Foral, por referencia a los valores que se establezcan en el Impuesto que sustituya a la citada Contribución.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+En cumplimiento del artículo 260 de la Ley Foral de Administración Local de Navarra, la minoración en la recaudación de tributos locales que produzca a las entidades locales el régimen de exenciones y bonificaciones previsto en los artículos 27 y 30 y en la disposición adicional segunda de esta Ley Foral será compensada por el Gobierno de Navarra a las entidades afectadas en el ejercicio económico en que se produzca, habilitándose para ello la correspondiente partida en los Presupuestos Generales de Navarra.
+Las entidades locales afectadas vendrán obligadas a comunicar al fin de cada semestre a la Administración de la Comunidad Foral los beneficios fiscales que hayan reconocido en el marco de esta Ley Foral, para que ésta proceda a reintegrarles las cantidades correspondientes a la compensación señalada en el párrafo anterior.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+A las cooperativas de iniciativa social reguladas en la Ley Foral de cooperativas de Navarra, les será de aplicación el régimen tributario establecido en la presente Ley Foral.
+Se añade por el art. 9.2.2 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Régimen de consolidación fiscal.
+La persona titular del departamento competente en materia tributaria dictará las normas necesarias para la adaptación a las especialidades de las Sociedades Cooperativas de las disposiciones que regulan el régimen de consolidación fiscal del Impuesto sobre Sociedades, contenidas en el capítulo VII del título VIII de la Ley Foral 26/2016, del Impuesto sobre Sociedades, y en el Decreto Foral 114/2017, de 20 de diciembre, que aprueba el Reglamento del Impuesto sobre Sociedades.
+Se modifica, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2019, por el art. 7.6 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
+ Se añade por el art. 9 de la Ley Foral 2/2008, de 24 de enero. Ref. BOE-A-2008-3585.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Régimen tributario de las cooperativas mixtas.
+A las cooperativas mixtas les será de aplicación el régimen tributario establecido en esta Ley Foral con la siguiente especialidad: la parte del resultado cooperativo correspondiente a la proporción de los votos que ostenten los socios titulares de partes sociales con voto, tendrá la misma consideración que los resultados extracooperativos a efectos de su tributación en el Impuesto sobre Sociedades.
+Se añade, con efectos de 1 de enero de 2008, por el art. 12.1 de la Ley Foral 22/2008, de 24 de diciembre. Ref. BOE-A-2009-3960.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las cooperativas que, a la fecha de entrada en vigor de esta Ley Foral, superen los porcentajes establecidos en el artículo 9, apartado 9, párrafo primero, de la misma, dispondrán de un plazo de tres meses para poner dicha circunstancia en conocimiento del Departamento de Economía y Hacienda, razonando los motivos que hacen necesario el mantenimiento de dicha participación. Transcurridos dos meses desde la presentación de la comunicación sin que se haya notificado a la cooperativa una resolución expresa denegatoria, se entenderá concedida la autorización a que se refiere el párrafo tercero del apartado 9 del artículo 9.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las bases imponibles negativas del Impuesto sobre Sociedades de ejercicios anteriores pendientes de compensación a la entrada en vigor de la presente Ley Foral se compensarán, previa su transformación en la cuota negativa que resulte de aplicar el tipo de gravamen del ejercicio de procedencia, en la forma prevista en el artículo 21 de la misma Ley Foral y con el límite temporal establecido en el artículo 14 del texto refundido de las disposiciones del Impuesto sobre Sociedades.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+A la entrada en vigor de esta Ley Foral quedarán derogadas cuantas disposiciones del mismo o inferior rango se opongan al contenido de la misma.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de Navarra a dictar cuantas disposiciones sean precisas para el desarrollo y aplicación de esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día 1 de enero de 1995, siendo aplicable, en lo que al Impuesto sobre Sociedades se refiere, a los períodos impositivos iniciados a partir de la mencionada fecha.
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 21 de junio de 1994.
+JUAN CRUZ ALLI ARANGUREN,
+Presidente

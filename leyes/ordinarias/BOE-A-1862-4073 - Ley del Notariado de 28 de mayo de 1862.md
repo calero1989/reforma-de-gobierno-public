@@ -1,0 +1,1056 @@
+# Ley del Notariado de 28 de mayo de 1862.
+
+- Identificador BOE: `BOE-A-1862-4073`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DOÑA ISABEL II,
+Por la gracia de Dios y la Constitución Reina de las Españas.
+A todos los que las presentes vieren y entendieren, sabed: que las Córtes han decretado y Nos sancionado lo siguiente:
+
+## TÍTULO I
+
+De los notarios
+
+### Artículo 1
+
+Artículo 1.
+El Notario es el funcionario público autorizado para dar fe, conforme a las leyes, de los contratos y demás actos extrajudiciales.
+Habrá en todo el Reino una sola clase de estos funcionarios.
+
+### Artículo 2
+
+Artículo 2.
+El Notario que requerido para dar fe de cualquier acto público o particular extrajudicial negare sin justa causa la intervención de su oficio, incurrirá en la responsabilidad a que hubiere lugar con arreglo a las leyes.
+
+### Artículo 3
+
+Artículo 3.
+Cada partido judicial constituye distrito de Notariado, dentro del cual se crearán tantas Notarías cuantas se estimen necesarias para el servicio público, tomando en cuenta la población, la frecuencia y facilidad de las transacciones, las circunstancias de localidad y la decorosa subsistencia de los Notarios.
+
+### Artículo 4
+
+Artículo 4.
+Al tiempo de la creación de las Notarías, fijará el Gobierno el punto de residencia de cada uno de los Notarios, oyendo a la Audiencia del territorio, al Gobernador de la provincia y a la Diputación provincial, y no podrá hacer alteraciones en lo sucesivo sino oyendo a la misma Audiencia y al Consejo de Estado.
+
+### Artículo 5
+
+Artículo 5.
+Cada Notario formará por sí protocolo.
+
+### Artículo 6
+
+Artículo 6.
+En caso de muerte, enfermedad, ausencia, inhabilitación o cualquiera otro género de imposibilidad de un Notario, se encargará del protocolo y le sustituirá el que al tiempo de la creación de las notarías haya sido designado para este objeto.
+En los distritos judiciales cada uno de los Notarios sustituirá al otro en caso de muerte, ausencia o imposibilidad.
+Cuando esto no fuere posible por cualquier causa, el Juez de primera instancia habilitará sustituto accidental de entre los Notarios más inmediatos hasta la resolución del Gobierno, al cual dará parte por medio del Regente de la Audiencia.
+Este, a su vez, dictará las disposiciones convenientes para asegurar el servicio público hasta la resolución del Gobierno.
+El sustituto cesará en el desempeño de su cargo tan luego como tome posesión el nuevamente electo, o deje de existir la imposibilidad del Notario a quien sustituya.
+
+### Artículo 7
+
+Artículo 7.
+La residencia habitual de los Notarios ha de ser el punto designado en la creación de su respectivo oficio.
+
+### Artículo 8
+
+Artículo 8.
+Los Notarios podrán ejercer indistintamente dentro del partido judicial en que se halle su Notaría.
+Las poblaciones en que hubiere más de un Juzgado de primera instancia se reputarán, para el efecto de este artículo, como un solo partido judicial.
+
+### Artículo 9
+
+Artículo 9.
+El Ministro de Gracia y Justicia es el Notario mayor del Reino, con las atribuciones que hasta hoy ha ejercido.
+
+## TÍTULO II
+
+Requisitos para obtener y ejercer la fe pública
+
+### Artículo 10
+
+Artículo 10.
+Los que aspiren a realizar las pruebas selectivas para el ingreso en el Notariado, deben reunir, en la fecha en que termine el plazo de presentación de las instancias, las condiciones siguientes:
+1. Ser español u ostentar la nacionalidad de cualquier país miembro de la Unión Europea.
+2. Ser mayor de edad.
+3. No encontrarse comprendido en ninguno de los casos que incapacitan o imposibilitan para el ejercicio del cargo de Notario.
+4. Ser Doctor o Licenciado en Derecho o haber concluido los estudios de esta Licenciatura.
+Si el título procediera de un Estado miembro de la Unión Europea, deberá presentarse el certificado acreditativo del reconocimiento u homologación del título equivalente, conforme a la Directiva 89/48, de 21 de diciembre de 1988, al Real Decreto 1665/1991, de 24 de octubre y demás normas de transposición y desarrollo.
+Se modifica por la disposición adicional 18 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se deroga por el art. 2 de la Ley de 13 de diciembre de 1940. Ref. BOE-A-1940-12803.
+
+### Artículo 11
+
+Artículo 11.
+Los Notarios serán de nombramiento Real.
+
+### Artículo 12
+
+Artículo 12.
+Las Notarías se proveerán por oposición ante las Audiencias, que propondrán al Gobierno a los tres opositores que crean más beneméritos.
+
+### Artículo 13
+
+Artículo 13.
+Quedan abolidas las prestaciones de Fiat, media annata y otras de esta clase para obtener título de ejercicio.
+Los Notarios pagaran por ejercer su cargo el impuesto al que están sujetas las demás profesiones análogas.
+
+### Artículo 14
+
+Artículo 14.
+El Notario, para tomar posesión de su oficio, constituirá en las Cajas del Estado, en calidad de fianza y como garantía para el ejercicio de su cargo, un depósito en títulos de la Deuda pública que produzca una renta anual según las condiciones de cada localidad, o acreditará que la disfruta en fincas propias, rústicas o urbanas, y quedará suspenso cuando falten estas garantías hasta que las reponga.
+
+### Artículo 15
+
+Artículo 15.
+Los Notarios, para entrar en el ejercicio de su cargo, jurarán ante la Audiencia del territorio obediencia y fidelidad al Rey, guardar la Constitución y las leyes, y cumplir bien y lealmente su cargo.
+
+### Artículo 16
+
+Artículo 16.
+El ejercicio del Notario es incompatible con todo cargo que lleve aneja jurisdicción, con cualquier empleo público que devengue sueldo o gratificación de los presupuestos generales, provinciales o municipales, y con los cargos que le obliguen a residir fuera de su domicilio.
+Sin embargo, en los pueblos que pasen de 20.000 almas podrán admitir, aun fuera de su domicilio, los cargos de Diputados a Cortes o Diputados provinciales.
+
+## TÍTULO III
+
+Del protocolo y copias del mismo que constituyen instrumento público
+
+### Artículo 17
+
+Artículo 17.
+1. El Notario redactará escrituras matrices, intervendrá pólizas, extenderá y autorizará actas, expedirá copias, testimonios, legitimaciones y legalizaciones y formará protocolos y Libros-Registros de operaciones.
+Las escrituras públicas tienen como contenido propio las declaraciones de voluntad, los actos jurídicos que impliquen prestación de consentimiento, los contratos y los negocios jurídicos de todas clases.
+Es escritura matriz la original que el Notario ha de redactar sobre el contrato o acto sometido a su autorización, firmada por los otorgantes, por los testigos instrumentales, o de conocimiento en su caso, y firmada y signada por el mismo Notario.
+Es primera copia el traslado de la escritura matriz que tiene derecho a obtener por primera vez cada uno de los otorgantes. A los efectos del artículo 517.2.4.º de la Ley 1/2000, de 7 de enero, de Enjuiciamiento civil, se considerará título ejecutivo aquella copia que el interesado solicite que se expida con tal carácter. Expedida dicha copia el Notario insertará mediante nota en la matriz su fecha de expedición e interesado que la solicitó.
+Las pólizas intervenidas tienen como contenido exclusivo los actos y contratos de carácter mercantil y financiero que sean propios del tráfico habitual y ordinario de al menos uno de sus otorgantes, quedando excluidos de su ámbito los demás actos y negocios jurídicos, especialmente los inmobiliarios.
+El Notario conservará en su Libro-Registro o en su protocolo ordinario el original de la póliza, en los términos que reglamentariamente se disponga.
+A los efectos de lo dispuesto en el artículo 517.2.5.º de la Ley 1/2000, de 7 de enero, de Enjuiciamiento civil, se considerará título ejecutivo el testimonio expedido por el Notario del original de la póliza debidamente conservada en su Libro-Registro o la copia autorizada de la misma, acompañada de la certificación a que se refiere el artículo 572.2 de la citada Ley.
+Las actas notariales tienen como contenido la constatación de hechos o la percepción que de los mismos tenga el Notario, siempre que por su índole no puedan calificarse de actos y contratos, así como sus juicios o calificaciones.
+Se entiende por protocolo la colección ordenada de las escrituras matrices autorizadas durante un año, y se formalizará en uno o más tomos encuadernados, foliados en letra y con los demás requisitos que se determinen en las instrucciones del caso. En el Libro-Registro figurarán por su orden, separada y diariamente, todas las operaciones en que hubiesen intervenido.
+2. Las matrices de los instrumentos públicos tendrán igualmente reflejo informático en el correspondiente protocolo electrónico bajo la fe del notario. La incorporación al protocolo electrónico o libro registro de operaciones electrónico se producirá en cada caso con la autorización o intervención de la escritura pública o póliza, de lo que se dejará constancia mediante diligencia en la matriz en papel expresiva de su traslado informático. Los instrumentos incorporados al protocolo electrónico se considerarán asimismo originales o matrices. En caso de contradicción entre el contenido de la matriz en soporte papel y del protocolo electrónico prevalecerá el contenido de aquella sobre el de este.
+Corresponde al Consejo General del Notariado la adopción de las medidas técnicas que garanticen la integridad, indemnidad y no manipulación de ese protocolo electrónico.
+Tales medidas serán comunicadas a la Dirección General de Seguridad Jurídica y Fe Pública, que podrá ordenar su modificación o adaptación de considerarlas inadecuadas.
+El protocolo electrónico se custodiará por el notario que esté a cargo de su conservación mediante su depósito electrónico en el Consejo General del Notariado. Dicho depósito electrónico se efectuará encriptando su contenido, pudiendo acceder al mismo exclusivamente el notario custodio del protocolo titular de las claves de encriptación. Las medidas de encriptación y conservación íntegra que permita la legibilidad de su contenido, con independencia del cambio de soporte electrónico, serán adoptadas por el Consejo General del Notariado que las comunicará para su aprobación a la Dirección General de Seguridad Jurídica y Fe Pública. Una matriz en papel que haya sido extraviada o sustraída, sin perjuicio de la responsabilidad en la que, en su caso, pudiera incurrir el notario custodio, será reconstituida mediante nuevo traslado desde el protocolo electrónico, que deberá realizarse en papel notarial y deberá incluir la totalidad de notas o diligencias unidas a la matriz electrónica. Se hará constar en una nueva diligencia esta circunstancia, que además será comunicada al Colegio Notarial del territorio, de lo que asimismo se dejará constancia.
+En el protocolo electrónico constarán, en cada instrumento público, el traslado de las notas y diligencias previstas en la legislación notarial de modificación jurídica y de coordinación con otros instrumentos públicos autorizados o intervenidos por el notario titular del protocolo o por otros notarios respecto de aquellas escrituras o pólizas que rectifiquen las anteriores. Las comunicaciones cursadas por otros notarios se remitirán a través de la sede electrónica notarial, debiendo incorporarse al protocolo electrónico en el mismo día o inmediato hábil posterior. Se habilita al Consejo General del Notariado para la adopción de las medidas técnicas que garanticen la realización de dichas comunicaciones.
+El notario titular del protocolo electrónico consignará en éste en el mismo día o inmediato hábil posterior las comunicaciones recibidas de las autoridades judiciales o administrativas atinentes a resoluciones, hechos o actos jurídicos que por disposición legal deban consignarse en el instrumento público de que se trate. Las comunicaciones se efectuarán electrónicamente a través del Consejo General del Notariado.
+3. Corresponderá al Consejo General del Notariado proporcionar información estadística en el ámbito de su competencia, así como suministrar cuanta información del índice sea precisa a las administraciones públicas que, conforme a la ley, puedan acceder a su contenido.
+A los efectos de la debida colaboración del notario y de su organización corporativa con las administraciones públicas, los notarios estarán obligados a llevar índices informatizados y, en su caso, en soporte papel de los documentos protocolizados e intervenidos. El notario deberá velar por la más estricta veracidad de dichos índices, así como por su correspondencia con los documentos públicos autorizados e intervenidos, y será responsable de cualquier discrepancia que exista entre aquellos y estos, así como del incumplimiento de sus plazos de remisión. Reglamentariamente se determinará el contenido de los índices, pudiéndose delegar en el Consejo General del Notariado la adición de nuevos datos, así como la concreción de sus características técnicas de elaboración, remisión y conservación.
+El Consejo General del Notariado formará un índice único informatizado con la agregación de los índices informatizados que los notarios deben remitir a los Colegios Notariales. A estos efectos, con la periodicidad y en los plazos reglamentariamente establecidos, los notarios remitirán los índices telemáticamente a través de su red corporativa y con las garantías debidas de confidencialidad a los Colegios Notariales, que los remitirán, por idéntico medio, al Consejo General del Notariado.
+En particular, y sin perjuicio de otras formas de colaboración que puedan resultar procedentes, el Consejo General del Notariado suministrará a las administraciones tributarias la información contenida en el índice único informatizado con trascendencia tributaria que precisen para el cumplimiento de sus funciones estando a lo dispuesto en el artículo 94.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, permitirá el acceso telemático directo de las administraciones tributarias al índice y recabará del notario para su posterior remisión la copia del instrumento público a que se refiera la solicitud de información cuando ésta se efectúe a través de dicho Consejo.
+El otorgante o quien acredite interés legítimo, previa su comparecencia electrónica en la sede electrónica notarial mediante sistemas de identificación electrónica debidamente homologados, podrá solicitar al notario a cargo del protocolo, copia electrónica o en papel.
+Mediante idéntico sistema electrónico de comparecencia e identificación, cualquier persona podrá solicitar al Consejo General del Notariado que a través del Índice Único informatizado identifique el notario, número de protocolo y fecha de aquellos documentos públicos notariales en los que estuviese interesado con el fin de solicitar copia de los mismos, siempre que acredite su legitimación al notario competente al efecto. Si el solicitante no fuere el otorgante del documento, deberá acreditar un principio de prueba sobre su interés legítimo. La expedición por el Consejo General del Notariado de dicha información en ningún caso sustituirá el juicio del notario al que se pida la copia, quien deberá valorar el derecho o interés legítimo para su expedición.
+La sede electrónica notarial estará integrada en el Consejo General del Notariado, siendo general y única a nivel nacional, y correspondiéndole al mismo su titularidad, desarrollo, gestión y administración. Sus características técnicas serán comunicadas a la Dirección General de Seguridad Jurídica y Fe Pública. Deberá ser accesible y disponible para los ciudadanos a través de redes de comunicación seguras.
+4. El Consejo General del Notariado podrá acceder al índice único informatizado para el ejercicio de las competencias previstas en la legislación notarial, pudiendo las administraciones públicas conocer su contenido en tanto que sea necesario para el cumplimiento de sus funciones, siempre que una norma con rango de ley les habilite para ello. Dicho acceso se efectuará en los términos y a través del soporte que determine la norma habilitante.
+Téngase en cuenta que esta actualización de los apartados 2 y 3 y el apartado 4, establecidos por el art. 34.1 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entran en vigor el 9 de noviembre de 2023, según determina la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "2. A los efectos de la debida colaboración del Notario y de su organización corporativa con las Administraciones públicas, los notarios estarán obligados a llevar índices informatizados y, en su caso, en soporte papel de los documentos protocolizados e intervenidos. El Notario deberá velar por la más estricta veracidad de dichos índices, así como por su correspondencia con los documentos públicos autorizados e intervenidos, y será responsable de cualquier discrepancia que exista entre aquellos y estos, así como del incumplimiento de sus plazos de remisión. Reglamentariamente se determinará el contenido de tales índices, pudiéndose delegar en el Consejo General del Notariado la adición de nuevos datos, así como la concreción de sus características técnicas de elaboración, remisión y conservación.
+ El Consejo General del Notariado formará un índice único informatizado con la agregación de los índices informatizados que los notarios deben remitir a los Colegios Notariales. A estos efectos, con la periodicidad y en los plazos reglamentariamente establecidos, los notarios remitirán los índices telemáticamente a través de su red corporativa y con las garantías debidas de confidencialidad a los Colegios Notariales, que los remitirán, por idéntico medio, al Consejo General del Notariado.
+ 3. Corresponderá al Consejo General del Notariado proporcionar información estadística en el ámbito de su competencia, así como suministrar cuanta información del índice sea precisa a las Administraciones públicas que, conforme a la Ley, puedan acceder a su contenido, a cuyo efecto podrá crear una unidad especializada.
+ En particular, y sin perjuicio de otras formas de colaboración que puedan resultar procedentes, el Consejo General del Notariado suministrará a las Administraciones tributarias la información contenida en el índice único informatizado con trascendencia tributaria que precisen para el cumplimiento de sus funciones estando a lo dispuesto en el artículo 94.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, permitirá el acceso telemático directo de las Administraciones tributarias al índice y recabará del Notario para su posterior remisión la copia del instrumento público a que se refiera la solicitud de información cuando ésta se efectúe a través de dicho Consejo."
+Se modifican los apartados 2 y 3 y se añade el 4 por el art. 34.1 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+ Se modifica por el art. 6.1 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+
+### Artículo 17 bis
+
+Artículo 17 bis.
+1. Los instrumentos públicos a que se refiere el artículo 17 de esta Ley, no perderán dicho carácter por el sólo hecho de estar redactados en soporte electrónico con la firma electrónica avanzada del notario y, en su caso, de los otorgantes o intervinientes, obtenida la de aquél de conformidad con la Ley reguladora del uso de firma electrónica por parte de notarios y demás normas complementarias.
+2. Reglamentariamente se regularán los requisitos indispensables para la autorización o intervención y conservación del instrumento público electrónico en lo no previsto en este artículo.
+En todo caso, la autorización o intervención notarial del documento público electrónico ha de estar sujeta a las mismas garantías y requisitos que la de todo documento público notarial y producirá los mismos efectos. En consecuencia:
+a) Con independencia del soporte electrónico, informático o digital en que se contenga el documento público notarial, el notario deberá dar fe de la identidad de los otorgantes, de que a su juicio tienen capacidad y legitimación, de que el consentimiento ha sido libremente prestado y de que el otorgamiento se adecua a la legalidad y a la voluntad debidamente informada de los otorgantes o intervinientes.
+b) Los documentos públicos autorizados por Notario en soporte electrónico, al igual que los autorizados sobre papel, gozan de fe pública y su contenido se presume veraz e íntegro de acuerdo con lo dispuesto en esta u otras leyes.
+3. El notario podrá expedir copias autorizadas con su firma electrónica cualificada bajo las mismas condiciones que las copias en papel, con la indicación al pie de copia del destinatario, previa comprobación de su interés legítimo. La copia autorizada se remitirá a través de la sede electrónica notarial. Del mismo modo remitirá copia simple electrónica con mero valor informativo, incorporando la sede electrónica notarial sello electrónico con marca de tiempo confiable.
+4. Si las copias autorizadas, expedidas electrónicamente, se trasladan a papel, para que conserven la autenticidad y garantía notarial, dicho traslado deberá hacerlo el notario al que se le hubiesen remitido.
+5. Las copias electrónicas se entenderán siempre expedidas por el notario autorizante del documento matriz y no perderán su carácter, valor y efectos por el hecho de que su traslado a papel lo realice el notario al que se le hubiese enviado, el cual signará, firmará y rubricará el documento haciendo constar su carácter y procedencia.
+6. También podrán los registradores de la propiedad y mercantiles, así como los órganos de las Administraciones públicas y jurisdiccionales, trasladar a soporte papel las copias autorizadas electrónicas que hubiesen recibido, a los únicos y exclusivos efectos de incorporarlas a los expedientes o archivos que correspondan por razón de su oficio en el ámbito de su respectiva competencia.
+7. (Suprimido)
+8. En lo no previsto en esta norma, la expedición de copia electrónica queda sujeta a lo previsto para las copias autorizadas en la Ley notarial y en su Reglamento.
+Téngase en cuenta que esta actualización, por la que se modifica el apartado 3 y se suprime el 7, establecida por el art. 34.2 y 3 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "3. Las copias autorizadas de las matrices podrán expedirse y remitirse electrónicamente, con firma electrónica avanzada, por el notario autorizante de la matriz o por quien le sustituya legalmente. Dichas copias sólo podrán expedirse para su remisión a otro notario o a un registrador o a cualquier órgano de las Administraciones públicas o jurisdiccional, siempre en el ámbito de su respectiva competencia y por razón de su oficio. Las copias simples electrónicas podrán remitirse a cualquier interesado cuando su identidad e interés legítimo le consten fehacientemente al notario."
+ "7. Las copias electrónicas sólo serán válidas para la concreta finalidad para la que fueron solicitadas, lo que deberá hacerse constar expresamente en cada copia indicando dicha finalidad."
+Se modifica el apartado 3 y se suprime el 7 por el art. 34.2 y 3 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+ Se añade por el art. 115.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+### Artículo 17 ter
+
+Artículo 17 ter.
+1. Se podrá realizar el otorgamiento y autorización a través de videoconferencia como cauce para el ejercicio de la función pública notarial, en los siguientes actos o negocios jurídicos:
+a) Las pólizas mercantiles. En este caso, la remisión de la póliza por la entidad de crédito a la sede electrónica notarial, implicará su consentimiento al negocio documentado, salvo que en el texto de la póliza se dispusiere lo contrario.
+b) La constitución de sociedades, nombramientos y apoderamientos mercantiles de toda clase previstos en la legislación mercantil, así como el otorgamiento de cualquier otro acto societario, siempre que en caso de contener aportaciones de los socios al capital social sean dinerarias.
+c) Los poderes de representación procesal, para la actuación ante las administraciones públicas, así como los electorales, y los poderes para actos concretos. No será posible la autorización por videoconferencia de poderes generales o preventivos.
+d) La revocación de poderes, excepto los generales preventivos.
+e) Las cartas de pago y las cancelaciones de garantías.
+f) Las actas de junta general y las de referencia en sentido estricto.
+g) Los testimonios de legitimación de firmas.
+h) Los testamentos en situación de epidemia declarada mientras dure la obligación de confinamiento.
+i) Las declaraciones de obra nueva sin extinción de condominio, ni adjudicación de propiedad, y la división de la propiedad horizontal.
+j) La conciliación, salvo que el notario considere conveniente la presencia física para el buen fin del expediente.
+k) Aquellos actos y negocios jurídicos para los que, conforme a su naturaleza, se establezca reglamentariamente.
+2. El otorgante accederá a la aplicación abierta en la sede electrónica notarial utilizando los sistemas de identificación electrónica previstos en el artículo 9 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. Dicha aplicación deberá garantizar los principios de neutralidad tecnológica e interoperabilidad para todos aquellos que accedan a su uso.
+3. En el acto del otorgamiento mediante videoconferencia, el notario habrá de exhibir al compareciente el documento a través de la plataforma, de modo que pueda hacer uso de su derecho a leerlo, sin perjuicio de la lectura alternativa por parte del notario y del asesoramiento que debe prestar acerca de su contenido.
+4. Si el otorgante no dispusiera de firma electrónica, se le podrá dotar gratuitamente de la misma, conforme a los medios previstos en el artículo 10 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las administraciones públicas. El sistema proporcionado deberá limitar su ámbito y vigencia al documento público objeto de autorización o intervención.
+5. El notario habrá de denegar la intervención o autorización del documento cuando no concurran los presupuestos establecidos en la Ley del Notariado.
+6. Finalmente, el notario autorizará el documento con su firma electrónica cualificada.
+Téngase en cuenta que este artículo, añadido por el art. 34.4 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+Se añade por el art. 34.4 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Artículo 18
+
+Artículo 18.
+No podrán expedirse segundas o posteriores copias de la escritura matriz sino en virtud de mandato judicial, y con citación de los interesados o del Promotor fiscal cuando se ignoren éstos o estén ausentes del pueblo en que esté la Notaría.
+Será innecesaria dicha citación en los actos unilaterales, y aun en los demás cuando pidan la copia todos los interesados.
+
+### Artículo 19
+
+Artículo 19.
+Los Notarios autorizarán todos los instrumentos públicos con su firma, y con la rúbrica y signo que propongan y se les dé al expedirles los títulos de ejercicio.
+No podrán variar en lo sucesivo, sin Real autorización, la rúbrica ni el signo.
+En cada Audiencia habrá un libro en que los Notarios pongan su firma, rúbrica y signo después de haber jurado su plaza.
+
+### Artículo 20
+
+Artículo 20.
+No podrán autorizar los Notarios ningún instrumento público inter vivos sin la presencia al menos de dos testigos.
+
+### Artículo 21
+
+Artículo 21.
+No podrán ser testigos en los instrumentos públicos los parientes, escribientes o criados del Notario autorizante.
+Tampoco podrán serlo los parientes de las partes interesadas en los instrumentos, ni los del Notario, unos y otros dentro del cuarto grado de consanguinidad o segundo de afinidad.
+
+### Artículo 22
+
+Artículo 22.
+Ningún Notario podrá autorizar contratos que contengan disposición en su favor, o en que alguno de los otorgantes sea pariente suyo dentro del cuarto grado civil o segundo de afinidad.
+
+### Artículo 23
+
+Artículo 23.
+1. Los notarios darán fe en las escrituras públicas y en aquellas actas que por su índole especial lo requieran de que conocen a las partes o de haberse asegurado de su identidad por los medios supletorios establecidos en las leyes y reglamentos.
+Serán medios supletorios de identificación, en defecto del conocimiento personal del Notario, los siguientes:
+a) La afirmación de dos personas, con capacidad civil, que conozcan al otorgante y sean conocidas del Notario, siendo aquéllos responsables de la identificación.
+b) La identificación de una de las partes contratantes por la otra, siempre que de esta última dé fe de conocimiento el Notario.
+c) La referencia a carnets o documentos de identidad con retrato y firma expedidos por las autoridades públicas, cuyo objeto sea identificar a las personas.
+El Notario en este caso responderá de la concordancia de los datos personales, fotografía y firma estampados en el documento de identidad exhibido, con las del compareciente.
+d) El cotejo de firma con la indubitada de un instrumento público anterior en que se hubiere dado por el Notario fe de conocimiento del firmante.
+El Notario que diere fe de conocimiento de alguno de los otorgantes, inducido a error sobre la personalidad de estos por la actuación maliciosa de ellos mismos o de otras personas, no incurrirá en responsabilidad criminal, la cual será exigida únicamente cuando proceda con dolo. En tal supuesto el Notario, sin perjuicio de lo anterior, será inmediatamente sometido a expediente de corrección disciplinaria con la obligación de indemnizar los daños y perjuicios que se hayan producido por tal error a terceros interesados.
+Si se trata de escrituras públicas relativas a actos o contratos por los que se adquieran, declaren, constituyan, transmitan, graven, modifiquen o extingan el dominio y los demás derechos reales sobre bienes inmuebles, o a cualesquiera otros con trascendencia tributaria, los comparecientes acreditarán ante el Notario autorizante sus números de identificación fiscal y los de las personas o entidades en cuya representación actúen, de los que quedará constancia en la escritura.
+Tratándose de escrituras públicas por las que se cree o constituya una entidad con o sin personalidad jurídica el Notario incluirá obligatoriamente en aquellas el número de identificación fiscal. Con carácter previo a la autorización o intervención de cualquier escritura pública, acta o póliza, el notario consultará la lista de números de identificación fiscal revocados. El Notario deberá abstenerse de autorizar o intervenir cualquier instrumento público que se pretenda otorgar por una entidad jurídica con número de identificación fiscal revocado de conformidad con lo previsto en la normativa tributaria.
+2. El interesado o la interesada podrá comparecer electrónicamente en la sede electrónica notarial operativa en la dirección electrónica correspondiente, mediante la utilización de los sistemas de identificación electrónica previstos en el artículo 9 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, debiendo proporcionar su teléfono, correo electrónico y, en su caso, los datos expresivos de su representación. La sede electrónica notarial deberá permitir al otorgante ejercer su derecho a la elección de notario con arreglo a la legislación aplicable, así como la apreciación de su capacidad jurídica, asegurando la inmediación electrónica.
+En todo caso, el notario verificará la documentación remitida para su identificación por el otorgante, y podrá, previo su consentimiento, contrastarla con la información obrante en el índice único y las bases de datos del Ministerio del Interior. El notario archivará copia electrónica de los documentos de identidad solo en los casos en los que lo exija la legislación de prevención de blanqueo de capitales y financiación del terrorismo.
+El interesado o la interesada podrá mediante la comparecencia electrónica:
+a) Aportar los antecedentes precisos para la ulterior autorización de un documento público notarial.
+b) Otorgar electrónicamente los actos o negocios jurídicos que se determine.
+c) Solicitar que se le expida copia simple o autorizada previa apreciación de su interés.
+d) Solicitar previa acreditación de su interés legítimo que se le identifiquen los documentos públicos notariales en que aquél hubiera podido intervenir, a los efectos de solicitar al notario que custodia el protocolo, su sustituto o sucesor, la expedición de copia autorizada electrónica.
+Téngase en cuenta que el apartado 2, añadido por el art. 34.5 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+Se numera su contenido como apartado 1 y se añade el 2 por el art. 34.5 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+ Se modifica por el art. 19.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-9
+ Se modifica la letra a), con efectos de 3 de septiembre de 2021, por el art. 1.1 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se modifica por el art. 6.2 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+ Se modifica por el art. único de la Ley 18 de diciembre de 1946. Ref. BOE-A-1946-12624.
+
+### Artículo 24
+
+Artículo 24.
+En todo instrumento público consignará el Notario su nombre y vecindad, los nombres y vecindad de los testigos, y el lugar, año y día del otorgamiento.
+Los notarios en su consideración de funcionarios públicos deberán velar por la regularidad no solo formal sino material de los actos o negocios jurídicos que autorice o intervenga, por lo que están sujetos a un deber especial de colaboración con las autoridades judiciales y administrativas.
+En consecuencia, este deber especial exige del Notario el cumplimiento de aquellas obligaciones que en el ámbito de su competencia establezcan dichas autoridades.
+En las escrituras relativas a actos o contratos por los que se declaren, transmitan, graven, modifiquen o extingan a título oneroso el dominio y los demás derechos reales sobre bienes inmuebles se identificarán, cuando la contraprestación consistiere en todo o en parte en dinero o signo que lo represente, los medios de pago empleados por las partes. A tal fin, y sin perjuicio de su ulterior desarrollo reglamentario, deberá identificarse si el precio se recibió con anterioridad o en el momento del otorgamiento de la escritura, su cuantía, así como si se efectuó en metálico, cheque, bancario o no, y, en su caso, nominativo o al portador, otro instrumento de giro o bien mediante transferencia bancaria.
+Igualmente, en las escrituras públicas citadas el Notario deberá incorporar la declaración previa del movimiento de los medios de pago aportadas por los comparecientes cuando proceda presentar esta en los términos previstos en la legislación de prevención del blanqueo de capitales. Si no se aportase dicha declaración por el obligado a ello, el Notario hará constar esta circunstancia en la escritura y lo comunicará al órgano correspondiente del Consejo General del Notariado.
+En las escrituras públicas a las que se refieren este artículo y el artículo 23 de esta Ley, el Consejo General del Notariado suministrará a la Administración Tributaria, de acuerdo con lo dispuesto en el artículo 17 de esta Ley, la información relativa a las operaciones en las que se hubiera incumplido la obligación de comunicar al Notario el número de identificación fiscal para su constancia en la escritura, así como los medios de pago empleados y, en su caso, la negativa a identificar los medios de pago. Estos datos deberán constar en los índices informatizados.
+El Consejo General del Notariado establecerá un sistema automatizado para que el Notario a través de aquel suministre a la Administración Tributaria la identificación de aquellas entidades jurídicas con número de identificación fiscal revocado y no rehabilitado que hubieran pretendido otorgar un documento público.
+Se modifica por el art. 19.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-9
+ Se modifica por el art. 6.3 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
+
+### Artículo 25
+
+Artículo 25.
+Los instrumentos públicos se redactarán en lengua castellana, y se escribirán con letra clara, sin abreviaturas y sin blancos.
+Tampoco podrán usarse en ellos guarismos en la expresión de fechas o cantidades.
+Los Notarios darán fe de haber leído a las partes y a los testigos instrumentales la escritura íntegra, o de haberles permitido que la lean, a su elección, antes de que la firmen, y a los de conocimiento lo que a ellos se refiera, y de haber advertido a unos y a otros que tienen el derecho de leerla por sí.
+Para garantizar la accesibilidad de las personas con discapacidad que comparezcan ante Notario, estas podrán utilizar los apoyos, instrumentos y ajustes razonables que resulten precisos, incluyendo sistemas aumentativos y alternativos, braille, lectura fácil, pictogramas, dispositivos multimedia de fácil acceso, intérpretes, sistemas de apoyos a la comunicación oral, lengua de signos, lenguaje dactilológico, sistemas de comunicación táctil y otros dispositivos que permitan la comunicación, así como cualquier otro que resulte preciso.
+Téngase en cuenta que este último párrafo, añadido por el art. 1.2 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+Se añade un párrafo al final, con efectos de 3 de septiembre de 2021, por el art. 1.2 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+
+### Artículo 26
+
+Artículo 26.
+Serán nulas las adiciones, apostillas, entrerenglonaduras, raspaduras y testados en las escrituras matrices, siempre que no se salven al fin de éstas con aprobación expresa de las partes y firmas de los que deban de suscribir el instrumento.
+
+### Artículo 27
+
+Artículo 27.
+Serán nulos los instrumentos públicos:
+1.º Que contengan alguna disposición a favor del Notario que los autorice.
+2.º En que sean testigos los parientes de las partes en ellos interesadas en el grado de que queda hecho mérito, o los parientes, escribientes o criados del mismo Notario.
+3.º Aquellos en que el Notario no de fe del conocimiento de los otorgantes, o no supla esta diligencia en la forma establecida en el artículo 23 de esta Ley, o en que no aparezcan las firmas de las partes y testigos cuando deban hacerlo, y la firma, rúbrica y signo del notario.
+
+### Artículo 28
+
+Artículo 28.
+No producirán efecto las disposiciones a favor de parientes, dentro del grado anteriormente prohibido, del que autorizó el instrumento en que se hicieron.
+
+### Artículo 29
+
+Artículo 29.
+Lo dispuesto en los artículos que preceden, relativamente a la forma de los instrumentos y al número y cualidades de los testigos, y a la capacidad de adquirir lo dejado o mandado por el testador, no es aplicable a los testamentos, y demás disposiciones mortis causa, en las cuales regirá la Ley o leyes especiales del caso.
+
+### Artículo 30
+
+Artículo 30.
+(Derogado)
+Se deroga por el art. 2 de la Ley 43/1985, de 19 de diciembre. Ref. BOE-A-1985-26579.
+
+### Artículo 31
+
+Artículo 31.
+1. Solo el notario a cuyo cargo esté el protocolo podrá dar copias de él.
+2. El notario insertará en la copia autorizada electrónica un código seguro de verificación. Compete al Consejo General del Notariado la adopción de las medidas técnicas de elaboración de tal código, que será individualizado para cada copia autorizada electrónica de la escritura pública o testimonio electrónico de la intervención de póliza mercantil que se expida debiendo comunicar a la Dirección General de Seguridad Jurídica y Fe Pública aquellas medidas, que podrán ser modificadas mediante Instrucción de esta.
+3. El código seguro de verificación será el instrumento técnico para que el otorgante o tercero a quien aquel entregue dicho código pueda, a través de la sede electrónica notarial, acceder con carácter permanente a la verificación de la autenticidad e integridad de la copia autorizada electrónica del documento notarial, así como conocer las notas ulteriores de modificación jurídica y de coordinación con otros instrumentos públicos.
+4. Si no se dispusiera de código seguro de verificación, el notario a cuyo cargo esté legalmente el protocolo valorará el interés legítimo del solicitante, concediendo el acceso solicitado de considerarlo suficiente. En caso contrario y de manera motivada denegará el mismo, pudiendo ser recurrida su decisión ante la Dirección General de Seguridad Jurídica y Fe Pública.
+Si lo solicitara el otorgante, el notario podrá además entregarle un traslado informativo de la escritura matriz o acta autorizada o de la póliza intervenida a la que se adicionará el código seguro de verificación que se remitirá, en todo caso, a través de la sede electrónica notarial.
+Téngase en cuenta que esta actualización, establecida por el art. 34.6 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según determina la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "Sólo el Notario a cuyo cargo esté legalmente el protocolo podrá dar copias de él."
+Se modifica por el art. 34.6 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Artículo 32
+
+Artículo 32.
+Ni la escritura matriz ni el libro protocolo podrán ser extraídos del edificio en que se custodien, ni aun por Decreto judicial u orden superior, salva para su traslación al archivo correspondiente y en los casos de fuerza mayor.
+Podrá, sin embargo, ser desglosada del protocolo la escritura matriz contra la cual aparezcan indicios o méritos bastantes para considerarla cuerpo de un delito, precediendo al efecto providencia del juzgado que conozca de él, y dejando en todo caso testimonio literal de aquélla, con intervención del Ministerio Fiscal.
+Los Notarios no permitirán tampoco sacar de su archivo ningún documento que se halle bajo su custodia por razón de su oficio, ni dejarán examinarlo en todo ni en parte, como ni tampoco el protocolo, no precediendo Decreto judicial, sino a las partes interesadas con derecho adquirido, sus herederos o causa-habientes. En los casos, sin embargo, determinados por las leyes, y en virtud de mandamiento judicial, pondrán de manifiesto en sus archivos el protocolo o protocolos a fin de extender en su virtud las diligencias que se hallen acordadas.
+
+### Artículo 33
+
+Artículo 33.
+Los Notarios remitirán por conducto del Juez de primera instancia del partido al Regente de la Audiencia, en los ocho primeros días de cada mes, índices de las escrituras matrices otorgadas en el anterior, expresando los números ordinales de éstas en el protocolo.
+En los índices se expresará, respecto de cada instrumento, el nombre de los otorgantes, el de los testigos instrumentales, el de los testigos de conocimiento en su caso, la fecha del otorgamiento y el objeto del acto o contrato.
+
+### Artículo 34
+
+Artículo 34.
+Los Notarios llevarán un libro reservado, en que insertarán, con la numeración correspondiente, copia de la carpeta de los testamentos y codicilos cerrados, cuyo otorgamiento hubieren autorizado, y los protocolos de los testamentos y codicilos abiertos cuando los testadores lo solicitaren, y remitirán un índice reservado también al Regente de la Audiencia por conducto del Juez de primera instancia, en los términos establecidos en el artículo anterior. No es necesario que haya un libro para cada año.
+
+### Artículo 35
+
+Artículo 35.
+Salvo que otra cosa dispongan los Convenios Internacionales, las Comisiones rogatorias extrajudiciales, de carácter civil o mercantil, que tengan por objeto la notificación o entrega de documentos, podrán practicarse notarialmente en los términos que reglamentariamente se establezcan.
+Se modifica por la disposición adicional de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
+
+## TÍTULO IV
+
+De la propiedad y custodia de los protocolos e inspección de las notarías
+
+### Artículo 36
+
+Artículo 36.
+El protocolo, cualquiera que sea su naturaleza bien en soporte papel o electrónico, pertenece al Estado. Los notarios los conservarán, con arreglo a las leyes, como archiveros de los mismos y bajo su responsabilidad.
+Téngase en cuenta que esta actualización, establecida por el art. 34.7 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según determina la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "Los protocolos pertenecen al Estado. Los Notarios los conservarán, con arreglo a las leyes, como archiveros de los mismos y bajo su responsabilidad."
+Se modifica por el art. 34.7 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Artículo 37
+
+Artículo 37.
+1. En cada Colegio Notarial se formará un Archivo General de Protocolos en el que se custodiarán de manera ordenada aquellos protocolos y libros registros de operaciones mercantiles y libros indicadores, que cuenten con una antigüedad de, al menos, cinco años.
+2. Corresponde a cada Colegio Notarial la adopción de las medidas precisas para conservar en perfecto estado de guarda y conservación los protocolos y libros de su territorio notarial, debiendo comunicar al Consejo General del Notariado para su remisión a la Dirección General de Seguridad Jurídica y Fe Pública su localización y medidas adoptadas para su custodia y conservación.
+La Dirección General de Seguridad Jurídica y Fe Pública podrá autorizar la destrucción completa por anualidades de los tomos de protocolos especiales de protestos de letras de cambio y de otros documentos mercantiles, que cuenten con una antigüedad de, al menos, cinco años. En caso de autorizarse la destrucción completa, la Dirección General podrá dar instrucciones especiales sobre cómo se efectuará la citada destrucción, así como sobre la conservación de algunas de las actas de protesto de los tomos a destruir, a efecto de preservar una muestra representativa de esta actividad.
+3. Los ficheros relativos al protocolo en soporte electrónico serán remitidos transcurridos veinticinco años desde la autorización o intervención de la escritura matriz, acta o póliza a los Archivos Generales de Protocolos de cada Colegio. Corresponde al Consejo General del Notariado la adopción de las medidas técnicas para garantizar la indemnidad de dicho soporte, así como su traslación o volcado a un nuevo tipo y acceso al mismo por quienes tengan derecho. Del mismo modo tales medidas deberán permitir la práctica de notas en aquéllos, conforme a la legislación notarial que resulte vigente.
+El coste por la entrega del protocolo y demás libros y documentación oficial, cualquiera que sea su naturaleza en soporte papel o electrónico, como consecuencia de la amortización de una notaría efectuada por una demarcación será soportado por el notario titular de la notaría amortizada.
+Téngase en cuenta que esta actualización, establecida por el art. 34.8 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según determina la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "Habrá en cada Audiencia, y bajo su inspección, un archivo general de escrituras públicas.
+ Estos archivos se formarán con los protocolos de las Notarías comprendidas en el territorio respectivo de cada Audiencia que cuenten más de veinticinco años de fecha. Los veinticinco protocolos más modernos formarán el archivo del Notario a cuyo cargo esté la Notaría, que remitirá anualmente, en fin de Diciembre, con seguridad, al regente de la Audiencia, el protocolo que debe ser depositado en el archivo general.
+ El libro y protocolo reservados a que se refieren los artículos 34 y 35 de esta Ley se remitirán en igual forma a los veinticinco años de haberse abierto."
+Se modifica por el art. 34.8 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Artículo 38
+
+Artículo 38.
+1. En los casos de vacancia de una Notaría, y de inhabilitación o incapacidad de un notario, quien con arreglo al artículo 6 de esta ley deba encargarse de la Notaría recibirá bajo inventario el protocolo, libro registro de operaciones, y demás documentación oficial para su entrega con igual formalidad al mismo notario, si se habilitase, o en otro caso a su sucesor en el oficio.
+2. En los supuestos indicados, se entregará al notario para su custodia el Protocolo y, el Libro Registro de operaciones mercantiles, cualquiera que sea su naturaleza en soporte papel o electrónica, correspondiendo a los Colegios Notariales velar por la correcta entrega de estos.
+El Delegado o Subdelegado de las Juntas en el distrito correspondiente hará constar tal circunstancia en el Protocolo, y en el Libro Registro de operaciones, cualquiera que sea su naturaleza en soporte papel o electrónica, expresando la causa por la que queda vacante y los instrumentos públicos autorizados o intervenidos obrantes en aquélla.
+En el protocolo electrónico solo podrán practicarse las diligencias previstas en el artículo 17 de esta ley.
+Téngase en cuenta que esta actualización, establecida por el art. 34.9 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según determina la disposición final 18.5 de la citada Ley.
+ Redacción anterior:
+ "En los casos de vacante de una Notaría, y de inhabilitación o incapacidad de un Notario, el que con arreglo al artículo 6.° de esta Ley deba encargarse de la Notaría recibirá bajo inventario los protocolos y demás documentos para entregarlos con igual formalidad al mismo notario, si se habilitase, o en otro caso a su sucesor en el oficio.
+ El Juez de primera instancia en las cabezas de partido, y el de paz en los demás pueblos, intervendrán en el inventario y en la entrega."
+Se modifica por el art. 34.9 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Artículo 39
+
+Artículo 39.
+En el caso de inutilizarse el todo o parte de un protocolo, el Notario dará cuenta al Juez y al Promotor fiscal del partido, y éstos respectivamente al Regente y Fiscal de la Audiencia, para que instruido con citación de partes el oportuno expediente, cotejados los índices y libros, y examinados los Registros de Hipotecas, se repongan en la parte posible los protocolos y los libros.
+
+### Artículo 40
+
+Artículo 40.
+Los Jueces de primera instancia visitarán cuando lo estimen conveniente las Notarías comprendidas en su partido.
+El Gobierno y el Regente de la Audiencia podrán decretar visitas extraordinarias, para las que sólo nombrarán Magistrados, Jueces o individuos del Ministerio Fiscal.
+
+## TÍTULO V
+
+Del Gobierno y disciplina de los Notarios
+
+### Artículo 41
+
+Artículo 41.
+Habrá Colegios de Notarios en los puntos que el Gobierno designe.
+A cada Colegio pertenecerán todos los Notarios del territorio señalado al mismo.
+
+### Artículo 42
+
+Artículo 42.
+Los Colegios serán dirigidos por Juntas, y en ellas tendrán la Autoridad judicial, y el Ministerio Fiscal la intervención que se establezca en los reglamentos.
+
+### Artículo 43
+
+Artículo 43.
+Por faltas de disciplina y otras que puedan afectar al decoro de la profesión, podrán las Juntas directivas de los Colegios amonestar a los Notarios, reprenderlos por escrito y multarlos gubernativamente hasta en cantidad de 25 duros. En caso de reincidencia, darán parte a las Audiencias, las cuales podrán multar hasta en 100 duros, dando conocimiento además al Ministerio de Gracia y Justicia para que se ponga nota en los respectivos expedientes de los Notarios, todo sin perjuicio de lo demás que procediere en justicia, y salvas también cualesquiera otras atribuciones disciplinarias de los jueces y Audiencias.
+
+### Artículo 44
+
+Artículo 44.
+Los Notarios no podrán ser suspensos ni privados de oficio gubernativamente, exceptuando, en cuanto a la suspensión, el caso prevenido en el artículo 14.
+
+## TÍTULO VI
+
+Derechos y premios de los Notarios
+
+### Artículo 45
+
+Artículo 45.
+El Gobierno, oídas las Audiencias, presentará a las Cortes el correspondiente proyecto de Ley para establecer el arancel que fije los derechos notariales.
+
+### Artículo 46
+
+Artículo 46.
+El Notario que se inutilizare para el ejercicio de su profesión por librar los protocolos de inundación, incendio u otra fuerza mayor, tendrá derecho a una pensión.
+Si muriese por la misma causa, su viuda e hijos menores tendrán igual derecho.
+
+## Disposiciones generales
+
+### Artículo 47
+
+Artículo 47.
+El Gobierno dictará las instrucciones y reglamentos que sean necesarios para el cumplimiento de esta Ley.
+
+### Artículo 48
+
+Artículo 48.
+Se declaran derogadas las leyes, disposiciones y costumbres generales o locales contrarias a su tenor.
+
+## TÍTULO VII
+
+Intervención de los Notarios en expedientes y actas especiales
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO I
+
+Reglas generales
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 49
+
+Artículo 49.
+Los Notarios intervendrán en los expedientes especiales autorizando actas o escrituras públicas:
+1.º Cuando el expediente tenga por objeto la declaración de voluntad de quien lo inste o la realización de un acto jurídico que implique prestación de consentimiento, el Notario autorizará una escritura pública.
+2.º Cuando el expediente tenga por objeto la constatación o verificación de un hecho, la percepción del mismo, así como sus juicios o calificaciones, el Notario procederá a extender y autorizar un acta.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 50
+
+Artículo 50.
+1. En el mes de enero de cada año se interesará por parte del Decano de cada Colegio Notarial de los distintos Colegios profesionales, de entidades análogas, así como de las Academias e instituciones culturales y científicas que se ocupen del estudio de las materias correspondientes al objeto de la pericia el envío de una lista de colegiados o asociados dispuestos a actuar como peritos, que estará a disposición de los Notarios en el Colegio Notarial. Igualmente podrán solicitar formar parte de esa lista aquellos profesionales que acrediten conocimientos necesarios en la materia correspondiente, con independencia de su pertenencia o no a un Colegio Profesional. La primera designación de cada lista se efectuará por sorteo realizado en presencia del Decano del Colegio Notarial, y a partir de ella se efectuarán por el Colegio las siguientes designaciones por orden correlativo conforme sean solicitadas por los Notarios que pertenezcan al mismo.
+2. Cuando haya de designarse perito a persona sin título oficial, práctica o entendida en la materia, previa citación de las partes, se realizará la designación por el procedimiento establecido en el apartado anterior, usándose para ello una lista de personas que cada año se solicitará de sindicatos, asociaciones y entidades apropiadas, y que deberá estar integrada por al menos cinco de aquellas personas. Si, por razón de la singularidad de la materia de dictamen, únicamente se dispusiera del nombre de una persona entendida o práctica, se recabará de las partes su consentimiento y sólo si todas lo otorgan se designará perito a esa persona.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO II
+
+De las actas y escrituras públicas en materia matrimonial
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 1
+
+Sección 1.ª Del acta matrimonial y de la escritura pública de celebración del matrimonio
+Téngase en cuenta que esta Sección, que comprende los arts. 51 y 52, añadida por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima., entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.5 de la Ley 15/2015,en la redacción dada por la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+ Esta Sección entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.5 de la Ley 15/2015,en la redacción dada por la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+
+### Artículo 51
+
+Artículo 51.
+1. Los que vayan a contraer matrimonio para el que se precise acta en la que se constate el cumplimiento de los requisitos de capacidad de ambos contrayentes, la inexistencia de impedimentos o su dispensa, o cualquier género de obstáculos para contraer matrimonio, deberán instar previamente su tramitación ante el Notario que tenga su residencia en el lugar del domicilio de cualquiera de ellos.
+2. La solicitud, tramitación y autorización del acta se ajustarán a lo dispuesto en el artículo 58 de la Ley 20/2011, de 21 de julio, del Registro Civil y, en lo no previsto, en esta Ley.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+ Este artículo entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.5 de la Ley 15/2015,en la redacción dada por la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+
+### Artículo 52
+
+Artículo 52.
+1. Si el acta fuera favorable a la celebración del matrimonio, este se llevará a cabo ante el notario que haya intervenido en la tramitación de aquélla mediante el otorgamiento de escritura pública en la que hará constar todas las circunstancias establecidas en la Ley del Registro Civil y su reglamento.
+2. Cuando los contrayentes, en la solicitud inicial o durante la tramitación del acta, hayan solicitado que la prestación del consentimiento se realice ante Alcalde o Concejal en quien este delegue u otro notario, se remitirá copia del acta al oficiante elegido, el cual se limitará a celebrar el matrimonio y levantará acta u otorgará escritura pública, según proceda, con todos los requisitos legalmente exigidos.
+3. Si el matrimonio se celebrase en peligro de muerte, el notario otorgará escritura pública donde se recoja la prestación del consentimiento matrimonial, previo dictamen médico sobre su aptitud para prestar éste y sobre la gravedad de la situación cuando el riesgo se derive de enfermedad o estado físico de alguno de los contrayentes, salvo imposibilidad acreditada. Con posterioridad, el notario procederá a la tramitación del acta de comprobación de los requisitos de validez del matrimonio.
+Téngase en cuenta que este artículo, modificado por la disposición final 1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "1. Si el acta fuera favorable a la celebración del matrimonio, este se llevará a cabo ante el Notario que haya intervenido en la tramitación de aquélla mediante el otorgamiento de escritura pública en la que hará constar todas las circunstancias establecidas en la Ley del Registro Civil y su reglamento.
+ 2. Cuando los contrayentes, en la solicitud inicial o durante la tramitación del acta, hayan solicitado que la prestación del consentimiento se realice ante Juez de Paz, Alcalde o Concejal en quien este delegue u otro Notario, se remitirá copia del acta al oficiante elegido, el cual se limitará a celebrar el matrimonio y levantará acta u otorgará escritura pública, según proceda, con todos los requisitos legalmente exigidos.
+ 3. Si el matrimonio se celebrase en peligro de muerte, el Notario otorgará escritura pública donde se recoja la prestación del consentimiento matrimonial, previo dictamen médico sobre su aptitud para prestar éste y sobre la gravedad de la situación cuando el riesgo se derive de enfermedad o estado físico de alguno de los contrayentes, salvo imposibilidad acreditada. Con posterioridad, el Notario procederá a la tramitación del acta de comprobación de los requisitos de validez del matrimonio."
+Se modifica, con efectos de 3 de abril de 2025 por la disposición final 1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+ Este artículo entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.5 de la Ley 15/2015,en la redacción dada por la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+
+## Sección 2
+
+Sección 2.ª Del acta de notoriedad para la constancia del régimen económico matrimonial legal
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 53
+
+Artículo 53.
+1. Quienes deseen hacer constar expresamente en el Registro Civil el régimen económico matrimonial legal que corresponda a su matrimonio cuando este no constare con anterioridad deberán solicitar la tramitación de un acta de notoriedad al Notario con residencia en cualquiera de los domicilios conyugales que hubieran tenido, o en el domicilio o residencia habitual de cualquiera de los cónyuges, o donde estuvieran la mayor parte de sus bienes o donde desarrollen su actividad laboral o empresarial, a elección del requirente. También podrá elegir a un Notario de un distrito colindante a los anteriores.
+2. La solicitud de inicio del acta deberá ir acompañada de los documentos acreditativos de identidad y domicilio del requirente. Deberá acreditarse con información del Registro Civil la inexistencia de un régimen económico matrimonial inscrito.
+Los solicitantes deberán aseverar la certeza de los hechos positivos y negativos en que se deba fundar el acta, aportarán la documentación que estimen conveniente para la determinación de los hechos y deberán acompañar los documentos acreditativos de su vecindad civil en el momento de contraer matrimonio y, en caso de no poder hacerlo, deberán ofrecer información de, al menos, dos testigos que aseguren la realidad de los hechos de los que se derive la aplicación del régimen económico matrimonial legal.
+3. Ultimadas las anteriores diligencias, el Notario hará constar su juicio de conjunto sobre si quedan acreditados por notoriedad los hechos y, si considera suficientemente acreditado el régimen económico legal del matrimonio, remitirá, en el mismo día y por medios telemáticos, copia electrónica del acta al Registro Civil correspondiente. En caso contrario, el Notario cerrará igualmente el acta y los interesados no conformes podrán ejercer su derecho en el juicio que corresponda.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 3
+
+Sección 3.ª. De la escritura publica de separación matrimonial o divorcio
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 54
+
+Artículo 54.
+1. Los cónyuges, cuando no tuvieren hijos menores no emancipados o mayores respecto de los que se hayan establecido judicialmente medidas de apoyo atribuidas a sus progenitores, podrán acordar su separación matrimonial o divorcio de mutuo acuerdo, mediante la formulación de un convenio regulador en escritura pública. Deberán prestar su consentimiento ante el Notario del último domicilio común o el del domicilio o residencia habitual de cualquiera de los solicitantes.
+Téngase en cuenta que esta modificación del apartado 1, efectuada por el art. 1.3 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "1. Los cónyuges, cuando no tuvieren hijos menores no emancipados o con la capacidad modificada judicialmente que dependan de ellos, podrán acordar su separación matrimonial o divorcio de mutuo acuerdo, mediante la formulación de un convenio regulador en escritura pública. Deberán prestar su consentimiento ante el Notario del último domicilio común o el del domicilio o residencia habitual de cualquiera de los solicitantes."
+2. Los cónyuges deberán estar asistidos en el otorgamiento de la escritura pública de Letrado en ejercicio.
+3. La solicitud, tramitación y otorgamiento de la escritura pública se ajustarán a lo dispuesto en el Código Civil y en esta ley.
+Se modifica el apartado 1, con efectos de 3 de septiembre de 2021, por el art. 1.3 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO III
+
+De los expedientes en materia de sucesiones
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Sección 1
+
+Sección 1.ª De la declaración de herederos abintestato
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 55
+
+Artículo 55.
+1. Quienes se consideren con derecho a suceder abintestato a una persona fallecida y sean sus descendientes, ascendientes, cónyuge o persona unida por análoga relación de afectividad a la conyugal, o sus parientes colaterales, podrán instar la declaración de herederos abintestato. Esta se tramitará en acta de notoriedad autorizada por Notario competente para actuar en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual, o donde estuviere la mayor parte de su patrimonio, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+2. El acta se iniciará a requerimiento de cualquier persona con interés legítimo, a juicio del Notario, y su tramitación se efectuará con arreglo a lo previsto en la presente Ley y a la normativa notarial.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 56
+
+Artículo 56.
+1. El requerimiento para la iniciación del acta deberá contener la designación y datos identificativos de las personas que el requirente considere llamadas a la herencia e ir acompañado de los documentos acreditativos del parentesco con el fallecido de las personas designadas como herederos, así como de la identidad y domicilio del causante. En todo caso deberá acreditarse el fallecimiento del causante y que éste ocurrió sin título sucesorio mediante información del Registro Civil y del Registro General de Actos de Última Voluntad, o, en su caso, mediante documento auténtico del que resulte a juicio del Notario, indubitadamente, que, a pesar de la existencia de testamento o contrato sucesorio, procede la sucesión abintestato, o bien mediante sentencia firme que declare la invalidez del título sucesorio o de la institución de heredero. Los documentos presentados o testimonio de los mismos quedarán incorporados al acta.
+El requirente deberá aseverar la certeza de los hechos positivos y negativos, en que se haya de fundar el acta y deberá ofrecer información testifical relativa a que la persona de cuya sucesión se trate ha fallecido sin disposición de última voluntad y de que las personas designadas son sus únicos herederos.
+Cuando cualquiera de los interesados fuera menor y careciera de representante legal, o fuera persona con discapacidad sin apoyo suficiente, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial.
+Téngase en cuenta que esta modificación del párrafo tercero del apartado 1, efectuada por el art. 1.4 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Cuando cualquiera de los interesados fuera menor o persona con capacidad modificada judicialmente y careciera de representante legal, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial."
+2. En el acta habrá de constar necesariamente, al menos, la declaración de dos testigos que aseveren que de ciencia propia o por notoriedad les constan los hechos positivos y negativos cuya declaración de notoriedad se pretende. Dichos testigos podrán ser, en su caso, parientes del fallecido, sea por consanguinidad o afinidad, cuando no tengan interés directo en la sucesión.
+El Notario, a fin de procurar la audiencia de cualquier interesado, practicará, además de las pruebas propuestas por el requirente, las que se estimen oportunas, y en especial aquellas dirigidas a acreditar su identidad, domicilio, nacionalidad y vecindad civil y, en su caso, la ley extranjera aplicable.
+Si se ignorase la identidad o domicilio de alguno de los interesados, el Notario recabará, mediante oficio, el auxilio de los órganos, registros, autoridades públicas y consulares que, por razón de su competencia, tengan archivos o registros relativos a la identidad de las personas o sus domicilios, a fin de que le sea librada la información que solicite, si ello fuera posible.
+Si no lograse averiguar la identidad o el domicilio de alguno de los interesados, el Notario deberá dar publicidad a la tramitación del acta mediante anuncio publicado en el “Boletín Oficial del Estado” y podrá, si lo considera conveniente, utilizar otros medios adicionales de comunicación. También deberá exponer el anuncio del acta en los tablones de anuncios de los Ayuntamientos correspondientes al último domicilio del causante, al del lugar del fallecimiento, si fuera distinto, o al del lugar donde radiquen la mayor parte de sus bienes inmuebles.
+Cualquier interesado podrá oponerse a la pretensión, presentar alegaciones o aportar documentos u otros elementos de juicio dentro del plazo de un mes a contar desde el día de la publicación o, en su caso, de la última exposición del anuncio.
+3. Ultimadas las anteriores diligencias y transcurrido el plazo de veinte días hábiles, a contar desde el requerimiento inicial o desde la terminación del plazo del mes otorgado para hacer alegaciones en caso de haberse publicado anuncio, el Notario hará constar su juicio de conjunto sobre la acreditación por notoriedad de los hechos y presunciones en que se funda la declaración de herederos. Cualquiera que fuera el juicio del Notario, terminará el acta y se procederá a su protocolización.
+En caso afirmativo, declarará qué parientes del causante son los herederos abintestato, expresando sus circunstancias de identidad y los derechos que por ley les corresponden en la herencia.
+Se hará constar en el acta la reserva del derecho a ejercitar su pretensión ante los Tribunales de los que no hubieran acreditado a juicio del Notario su derecho a la herencia y de los que no hubieran podido ser localizados. También quienes se consideren perjudicados en su derecho podrán acudir al proceso declarativo que corresponda.
+Realizada la declaración de heredero abintestato, se podrá, en su caso, recabar de la autoridad judicial la entrega de los bienes que se encuentren bajo su custodia, a no ser que alguno de los herederos pida la división judicial de la herencia.
+4. Transcurrido el plazo de dos meses desde que se citó a los interesados sin que nadie se hubiera presentado o si fuesen declarados sin derecho los que hubieren acudido reclamando la herencia y si a juicio del Notario no hay persona con derecho a ser llamada, se remitirá copia del acta de lo actuado a la Delegación de Economía y Hacienda correspondiente por si resultare procedente la declaración administrativa de heredero. En caso de que dicha declaración no correspondiera a la Administración General del Estado, la citada Delegación dará traslado de dicha notificación a la Administración autonómica competente para ello.
+Se modifica el párrafo tercero del apartado 1, con efectos de 3 de septiembre de 2021, por el art. 1.4 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 2
+
+Sección 2.ª De la presentación, adveración, apertura y protocolización de los testamentos cerrados
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 57
+
+Artículo 57.
+1. La presentación, adveración, apertura y protocolización de los testamentos cerrados se efectuará ante Notario competente para actuar en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual, o donde estuviere la mayor parte de su patrimonio, con independencia de su naturaleza de conformidad con la ley aplicable, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+2. Si transcurridos diez días desde el fallecimiento del otorgante, el testamento no fuera presentado conforme a lo previsto en el Código Civil, cualquier interesado podrá solicitar al Notario que requiera a la persona que tenga en su poder un testamento cerrado para que lo presente ante él. Deberán acreditarse los datos identificativos del causante y, mediante información del Registro Civil y del Registro General de Actos de Última Voluntad, el fallecimiento del otorgante y si ha otorgado otras disposiciones testamentarias. Si fuese extraño a la familia del fallecido, además, deberá expresar y acreditar en la solicitud la razón por la que crea tener interés en la presentación del testamento.
+3. Cuando comparezca ante Notario quien tenga en su poder un testamento cerrado en cumplimiento del deber establecido en el artículo 712 del Código Civil y manifestara no tener interés en la adveración y protocolización del testamento, el Notario requerirá a quienes pudieran tener interés en la herencia, de acuerdo con lo manifestado por el compareciente, y, en todo caso si le fueran conocidos, al cónyuge sobreviviente, a los descendientes y a los ascendientes del testador y, en defecto de éstos, a los parientes colaterales hasta el cuarto grado para que promuevan el expediente ante Notario competente, si les interesase.
+Cuando cualesquiera de los interesados fuera menor y careciera de representante legal o persona con discapacidad sin apoyo suficiente, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial.
+Téngase en cuenta que esta modificación del párrafo segundo del apartado 3, efectuada por el art. 1.5 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "Cuando cualesquiera de los interesados fuera menor o persona con capacidad modificada judicialmente y careciera de representante legal, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial."
+4. Si se ignorase la identidad o domicilio de estas personas, el Notario dará publicidad del expediente en los tablones de anuncios de los Ayuntamientos correspondientes al último domicilio o residencia habitual del causante, al del lugar del fallecimiento si fuera distinto y donde radiquen la mayor parte de sus bienes, sin perjuicio de la posibilidad de utilizar otros medios adicionales de comunicación. Los anuncios deberán estar expuestos durante el plazo de un mes.
+5. Transcurridos tres meses desde que se realizaron los requerimientos o desde la finalización del plazo de la última exposición del anuncio sin que se haya presentado el testamento, a pesar del requerimiento, o sin que ningún interesado haya promovido el expediente, se archivará el mismo, sin perjuicio de reanudarlo a solicitud de cualquier interesado.
+Se modifica el párrafo segundo del apartado 3, con efectos de 3 de septiembre de 2021, por el art. 1.5 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 58
+
+Artículo 58.
+1. Quien presente el testamento u otro interesado, podrá solicitar al Notario para que, una vez acreditado el fallecimiento del testador, cite para la fecha más próxima posible al Notario autorizante del testamento, si fuera distinto, y, en su caso, a los testigos instrumentales que hubieran intervenido en el otorgamiento.
+2. Los testigos citados, que hubiesen comparecido en el día señalado, serán examinados y se les pondrá de manifiesto el pliego cerrado para que lo examinen y declaren bajo juramento o promesa si reconocen como legítimas la firma y rúbrica que con su nombre aparecen en él, y si lo hallan en el mismo estado que tenía cuando pusieron su firma.
+3. Cuando no comparezca alguno o algunos de los citados, se preguntará a los demás si vieron que éstos pusieron su firma y rúbrica. El Notario podrá acordar, si lo considera necesario, el cotejo de letras y otras diligencias conducentes a la averiguación de la autenticidad de las firmas de los no comparecidos y del fallecido.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 59
+
+Artículo 59.
+1. Practicadas las diligencias a que se refiere el artículo anterior, y resultando de ellas que en el otorgamiento del testamento se han guardado las solemnidades prescritas por la ley, el Notario abrirá el pliego y leerá en voz alta la disposición testamentaria, a no ser que contenga disposición del testador ordenando que alguna o algunas cláusulas queden reservadas y secretas hasta cierta época, en cuyo caso la lectura se limitará a las demás cláusulas de la disposición testamentaria.
+2. Los parientes del testador u otras personas en quienes pueda presumirse algún interés podrán presenciar la apertura del pliego y lectura del testamento, si lo tienen por conveniente, sin permitirles que se opongan a la práctica de la diligencia por ningún motivo, aunque presenten otro testamento posterior.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 60
+
+Artículo 60.
+1. Cumplidos los anteriores trámites, el Notario extenderá acta de protocolización, de acuerdo con la presente Ley y su reglamento de ejecución.
+2. Cuando el Notario concluya que el testamento no reúne las solemnidades prescritas por la ley o que, a su juicio no quedó acreditada la autenticidad del pliego, lo hará constar así, cerrará el acta y no autorizará la protocolización del testamento.
+Autorizada o no la protocolización, los interesados no conformes podrán ejercer su derecho en el juicio que corresponda.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 3
+
+Sección 3.ª De la presentación, adveración, apertura y protocolización de los testamentos ológrafos
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 61
+
+Artículo 61.
+1. La presentación, adveración, apertura y protocolización de los testamentos ológrafos se efectuará ante Notario competente para actuar en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual, o donde estuviere la mayor parte de su patrimonio, con independencia de su naturaleza de conformidad con la ley aplicable, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+2. Si transcurridos diez días desde el fallecimiento del otorgante, el testamento no fuera presentado conforme a lo previsto en el Código Civil, cualquier interesado podrá solicitar al Notario que requiera a la persona que tenga en su poder un testamento ológrafo para que lo presente ante él. Deberán acreditarse los datos identificativos del causante y, mediante información del Registro Civil y del Registro General de Actos de Última Voluntad, el fallecimiento del otorgante y si ha otorgado otras disposiciones testamentarias. Si fuese extraño a la familia del fallecido, además, deberá expresar en la solicitud la razón por la que crea tener interés en la presentación del testamento.
+3. Cuando comparezca ante Notario quien tenga en su poder un testamento ológrafo en cumplimiento del deber establecido en el artículo 690 del Código Civil y manifestara no tener interés en la adveración y protocolización del testamento, el Notario procederá conforme a lo establecido en el apartado 3 del artículo 57.
+4. No se admitirán las solicitudes que se presenten después de transcurridos cinco años desde el fallecimiento del testador.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 62
+
+Artículo 62.
+1. Una vez presentado el testamento ológrafo, a solicitud de quien lo presente o de otro interesado, el Notario deberá requerir para que comparezcan ante él, en el día y hora que señale, el cónyuge sobreviviente, si lo hubiere, los descendientes y ascendientes del testador y, en defecto de unos y otros, los parientes colaterales hasta el cuarto grado.
+2. Si se ignorase su identidad o domicilio, el Notario dará publicidad del expediente en los tablones de anuncios de los Ayuntamientos correspondientes al último domicilio o residencia del causante, al del lugar del fallecimiento si fuera distinto y donde radiquen la mayor parte de sus bienes, sin perjuicio de la posibilidad de utilizar otros medios adicionales de comunicación. Los anuncios deberán estar expuestos durante el plazo de un mes.
+3. Cuando cualquiera de las referidas personas fuese menor y careciera de representante legal o fuese persona con discapacidad sin apoyo suficiente, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial.»
+Téngase en cuenta que esta modificación del apartado 3, efectuada por el art. 1.6 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "3. Cuando cualquiera de las referidas personas fuese menor o persona con capacidad modificada judicialmente y carezca de representante legal, el Notario comunicará esta circunstancia al Ministerio Fiscal para que inste la designación de un defensor judicial."
+4. Si el solicitante hubiera pedido al Notario la comparecencia de testigos para declarar sobre la autenticidad del testamento, el Notario los citará para que comparezcan ante él en el día y hora que señale.
+5. En el día señalado, el Notario abrirá el testamento ológrafo cuando esté en pliego cerrado, lo rubricará en todas sus hojas y serán examinados los testigos. Cuando al menos tres testigos, que conocieran la letra y firma del testador, declarasen que no abrigan duda racional de que fue manuscrito y firmado por él, podrá prescindirse de las declaraciones testificales que faltaren.
+A falta de testigos idóneos o si dudan los examinados, el Notario podrá acordar, si lo estima conveniente, que se practique una prueba pericial caligráfica.
+6. Los interesados podrán presenciar la práctica de las diligencias y hacer en el acto las observaciones que estimen oportunas sobre la autenticidad del testamento, que, en su caso, serán reflejadas por el Notario en el acta.
+Se modifica el apartado 3, con efectos de 3 de septiembre de 2021, por el art. 1.6 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 63
+
+Artículo 63.
+Si el Notario considera justificada la autenticidad del testamento, autorizará el acta de protocolización y expedirá copia de la misma a los interesados que la soliciten.
+En caso contrario, lo hará constar así, cerrará el acta y no autorizará la protocolización del testamento.
+Autorizada o no la protocolización del testamento, los interesados no conformes podrán ejercer su derecho en el juicio que corresponda.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 4
+
+Sección 4.ª De la presentación, adveración, apertura y protocolización de los testamentos otorgados en forma oral
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 64
+
+Artículo 64.
+1. La presentación, adveración, apertura y protocolización de los testamentos otorgados en forma oral se efectuará ante Notario competente para actuar en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual o donde estuviere la mayor parte de su patrimonio, con independencia de su naturaleza de conformidad con la ley aplicable, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+2. Cualquier interesado podrá solicitar al Notario que otorgue el correspondiente acta de protocolización del testamento otorgado en forma oral.
+3. Deberán acreditarse los datos identificativos del causante y, mediante información del Registro Civil y del Registro General de Actos de Última Voluntad, el fallecimiento del otorgante y si ha otorgado otras disposiciones testamentarias. Si fuese extraño a la familia del fallecido, además, deberá expresar en la solicitud la razón por la que crea tener interés en la presentación del testamento.
+A la solicitud se acompañará la nota, la memoria o el soporte en el que se encuentre grabada la voz o el audio y el vídeo con las últimas disposiciones del testador, siempre que permita su reproducción, y se hubieran tomado al otorgarse el testamento.
+Igualmente se expresarán los nombres de los testigos que deban ser citados por el Notario para que comparezcan ante él a los efectos de su otorgamiento.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 65
+
+Artículo 65.
+1. El Notario, tras aceptar la solicitud, citará a los testigos que hubiere indicado el solicitante, para que comparezcan ante él en el día y hora que se señale. Si el citado como testigo, no compareciese y no alegase causa que justifique su ausencia, el Notario volverá a practicar la citación indicando el día y hora de la nueva comparecencia.
+Cuando la voluntad del testador se hubiere consignado en alguna nota, memoria o soporte magnético o digital duradero, se pondrá de manifiesto a los testigos para que digan si es el mismo que se les leyó o grabó y si reconocen por legítimas sus respectivas firmas y rúbricas, en el caso de haberlas puesto.
+2. Son de aplicación las disposiciones establecidas en los artículos anteriores en cuanto a la citación y presencia de aquellas personas que tuvieran interés en la práctica de dichas actuaciones.
+3. El Notario reflejará todas las actuaciones en el acta y autorizará la protocolización del testamento, con la calidad de sin perjuicio de tercero, cuando de las declaraciones de los testigos resultaran clara y terminantemente acreditadas las circunstancias siguientes:
+1.º Qué concurrió causa legal para el otorgamiento del testamento en forma oral.
+2.º Que el testador tuvo el propósito serio y deliberado de otorgar su última disposición.
+3.º Que los testigos oyeron simultáneamente de boca del testador todas las disposiciones que quería se tuviesen como su última voluntad, bien lo manifestase de palabra, bien leyendo o dando a leer alguna nota o memoria en que se contuviese.
+4.º Que los testigos fueron en el número que exige la ley, según las circunstancias del lugar y tiempo en que se otorgó, y que reúnen las cualidades que se requiere para ser testigo en los testamentos.
+4. Cuando resulte alguna divergencia en las declaraciones de los testigos, se hará constar así en el acta y tan sólo se protocolizarán como testamentarias aquellas manifestaciones en las que todos estuvieren conformes. Si no lo estuvieren en ninguna de las manifestaciones, se archivará el expediente sin protocolización.
+5. Si la última voluntad se hubiere consignado en nota, memoria o soporte magnético o digital duradero, en el acto del otorgamiento, se tendrá como testamento lo que de ella resulte siempre que todos los testigos estén conformes en su autenticidad, aun cuando alguno de ellos no recuerde alguna de sus disposiciones y así se reflejará en el acta de protocolización a la que quedará unida la nota, memoria o soporte magnético o digital duradero.
+6. Si el Notario no considera justificada la autenticidad del testamento lo hará constar así, cerrará el acta y no autorizará la protocolización del testamento.
+Autorizada o no la protocolización del testamento, los interesados no conformes podrán ejercer su derecho en el juicio que corresponda.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 5
+
+Sección 5.ª Del albaceazgo y de los contadores partidores dativos
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 66
+
+Artículo 66.
+1. El Notario autorizará escritura pública:
+a) En los casos de renuncia del albacea a su cargo o de prórroga del plazo del albaceazgo por concurrir justa causa.
+b) Para el nombramiento de contador-partidor dativo en los casos previstos en el artículo 1057 del Código Civil. El nombramiento se realizará de conformidad con lo previsto en el artículo 50.
+c) En los casos de renuncia del contador-partidor nombrado o de prórroga del plazo fijado para la realización de su encargo.
+d) Para la aprobación de la partición realizada por el contador-partidor cuando resulte necesario por no haber confirmación expresa de todos los herederos y legatarios.
+2. Será competente el Notario que tenga su residencia en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual, o donde estuviere la mayor parte de su patrimonio, con independencia de su naturaleza de conformidad con la ley aplicable, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+3. El Notario podrá también autorizar escritura pública, si fuera requerido para ello, de excusa o aceptación del cargo de albacea.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 6
+
+Sección 6.ª De la formación de inventario
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 67
+
+Artículo 67.
+1. Será competente para la formación de inventario de los bienes y derechos del causante a los efectos de aceptar o repudiar la herencia por los llamados a ella, el Notario con residencia en el lugar en que hubiera tenido el causante su último domicilio o residencia habitual, o donde estuviere la mayor parte de su patrimonio, con independencia de su naturaleza de conformidad con la ley aplicable, o en el lugar en que hubiera fallecido, siempre que estuvieran en España, a elección del solicitante. También podrá elegir a un Notario de un distrito colindante a los anteriores. En defecto de todos ellos, será competente el Notario del lugar del domicilio del requirente.
+2. El heredero que solicite la formación de inventario deberá presentar su título de sucesión hereditaria y deberá acreditar al Notario o bien comprobar éste mediante información del Registro Civil y del Registro General de Actos de Última Voluntad el fallecimiento del otorgante y la existencia de disposiciones testamentarias.
+3. Aceptado el requerimiento, el Notario deberá citar a los acreedores y legatarios para que acudan, si les conviniera, a presenciar el inventario. Si se ignorase su identidad o domicilio, el Notario dará publicidad del expediente en los tablones de anuncios de los Ayuntamientos correspondientes al último domicilio o residencia habitual del causante, al del lugar del fallecimiento si fuera distinto y donde radiquen la mayor parte de sus bienes, sin perjuicio de la posibilidad de utilizar otros medios adicionales de comunicación. Los anuncios deberán estar expuestos durante el plazo de un mes.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 68
+
+Artículo 68.
+1. El inventario comenzará dentro de los treinta días de la citación de los acreedores y legatarios.
+2. El inventario contendrá relación de los bienes del causante, así como las escrituras, documentos y papeles de importancia que se encuentren, referidos a bienes muebles e inmuebles. De los bienes inmuebles inscritos en el Registro de la Propiedad, se aportarán o se obtendrán por el Notario certificaciones de dominio y cargas. Del metálico y valores mobiliarios depositados en entidades financieras, se aportará certificación o documento expedido por la entidad depositaria, y si dichos valores estuvieran sometidos a cotización oficial, se incluirá su valoración a fecha determinada. Si por la naturaleza de los bienes considerasen los interesados necesaria la intervención de peritos para su valoración, los designará el Notario con arreglo a lo dispuesto en esta Ley.
+3. El pasivo incluirá relación circunstanciada de las deudas y obligaciones así como de los plazos para su cumplimiento, solicitándose de los acreedores indicación actualizada de la cuantía de las mismas, así como de la circunstancia de estar alguna vencida y no satisfecha. No recibiéndose por parte de los acreedores respuesta, se incluirá por entero la cuantía de la deuda u obligación.
+4. El inventario deberá concluir dentro de los sesenta días a contar desde su comienzo. Si por justa causa se considerase insuficiente el plazo de sesenta días, podrá el Notario prorrogar el mismo hasta el máximo de un año. Terminado el inventario, se cerrará y protocolizará el acta. Quedarán a salvo en todo caso los derechos de terceros.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO IV
+
+De los expedientes en materia de obligaciones
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 1
+
+Sección 1.ª Del ofrecimiento de pago y la consignación
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 69
+
+Artículo 69.
+1. El ofrecimiento de pago y la consignación de los bienes de que se trate podrán efectuarse ante Notario.
+2. El que promueva expediente expresará los datos y circunstancias de identificación de los interesados en la obligación a que se refiera el ofrecimiento de pago o la consignación, el domicilio en que puedan ser hallados así como las razones de la actuación, todo lo relativo al objeto del pago o la consignación y su puesta a disposición del Notario.
+3. Cuando los bienes consignados consistan en dinero, valores e instrumentos financieros, en sentido amplio, serán depositados por el Notario necesariamente en la Entidad financiera colaboradora de la Administración de Justicia.
+Si fueran de distinta naturaleza a los indicados en el apartado anterior, el Notario dispondrá su depósito o encargará su custodia a establecimiento adecuado a tal fin, asegurándose de que se adoptan las medidas necesarias para su conservación, que quedará adecuadamente justificado por diligencia en el acta.
+4. El Notario notificará a los interesados la existencia del ofrecimiento de pago o la consignación, a los efectos de que en el plazo de diez días hábiles acepten el pago, retiren la cosa debida o realicen las alegaciones que consideren oportunas.
+Si el acreedor contestara al requerimiento aceptando el pago o lo consignado en plazo, el Notario le hará entrega del bien haciendo constar en acta tal circunstancia, dando por finalizado el expediente.
+Si transcurrido dicho plazo no procediera a retirarla, no realizara ninguna alegación o se negara a recibirla, se procederá a la devolución de lo consignado sin más trámites y se archivará el expediente.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 2
+
+Sección 2.ª Reclamación de deudas dinerarias no contradichas
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 70
+
+Artículo 70.
+1. El acreedor que pretenda el pago de una deuda dineraria de naturaleza civil o mercantil, cualquiera que sea su cuantía y origen, líquida, determinada, vencida y exigible, podrá solicitar de Notario con residencia en el domicilio del deudor consignado en el documento que acredite la deuda o el documentalmente demostrado, o en la residencia habitual del deudor o en el lugar en que el deudor pudiera ser hallado, que requiera a éste de pago, cuando la deuda, se acredite en la forma documental, que a juicio del Notario, sea indubitada. La deuda habrá de desglosar necesariamente principal, intereses remuneratorios y de demora aplicados.
+No podrán reclamarse mediante este expediente:
+a) Las deudas que se funden en un contrato entre un empresario o profesional y un consumidor o usuario.
+b) Las basadas en el artículo 21 de la Ley 49/1960, de 21 de julio, de Propiedad Horizontal.
+c) Las deudas de alimentos en las que estén interesados menores, ni las que recaigan sobre materias indisponibles u operaciones sujetas a autorización judicial.
+d) Las reclamaciones en la que esté concernida una Administración Publica.
+Téngase en cuenta que esta modificación del apartado 1.c), efectuada por el art. 1.7 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "c) Las deudas de alimentos en las que estén interesados menores o personas con la capacidad modificada judicialmente, ni las que recaigan sobre materias indisponibles u operaciones sujetas a autorización judicial."
+2. A tal efecto, se autorizará acta notarial, que recogerá las siguientes circunstancias: la identidad de acreedor y deudor; el domicilio de ambos, según fueron consignados en el documento que origina la reclamación, salvo que documentalmente se acredite su modificación, en cuyo caso deberán ser consignados ambos y el origen, naturaleza y cuantía de la deuda. También se acompañará al acta el documento o documentos que constituyan el título de la reclamación.
+El Notario no aceptará la solicitud si se tratara de alguna de las reclamaciones excluidas, faltara alguno de los datos o documentos anteriores o no fuera competente.
+3. Una vez aceptada la solicitud del acreedor y comprobada la concurrencia de los requisitos previstos en los apartados anteriores, el Notario requerirá al deudor para que, en el plazo de veinte días hábiles, pague al peticionario.
+Si el deudor no pudiere ser localizado en alguno de los domicilios posibles acreditados en el acta o no se pudiere hacer entrega del requerimiento, el Notario dará por terminada su actuación, haciendo constar tal circunstancia y quedando a salvo el ejercicio del derecho del acreedor por vía judicial.
+5. Se tendrá por realizado válidamente el requerimiento al deudor si es localizado y efectivamente requerido por el Notario, aunque rehusare hacerse cargo de la documentación que lo acompaña, que quedará a su disposición en la Notaría. También será válido el requerimiento realizado a cualquier empleado, familiar o persona con la que conviva el deudor, siempre que sea mayor de edad, cuando se encuentre en su domicilio, debiendo el Notario advertir al receptor que está obligado a entregar el requerimiento a su destinatario o a darle aviso si sabe su paradero. Si el requerimiento se hiciere en el lugar de trabajo no ocasional del destinatario, en ausencia de éste, se efectuará a la persona que estuviere a cargo de la dependencia destinada a recibir documentos u objetos.
+En caso de que el destinatario sea una persona jurídica el Notario entenderá la diligencia con la persona mayor de edad que se encontrare en el domicilio señalado en el documento anteriormente expresado y que forme parte del órgano de administración, que acredite ser representante con facultades suficientes o que a juicio del Notario actúe notoriamente como persona encargada por la persona jurídica de recibir requerimientos o notificaciones fehacientes en su interés.
+Se modifica el apartado 1.c), con efectos de 3 de septiembre de 2021, por el art. 1.7 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 71
+
+Artículo 71.
+1. Una vez practicado el requerimiento, si el deudor compareciere ante el Notario requirente y pagare íntegramente la deuda dentro del plazo de veinte días hábiles siguientes, se hará constar así por diligencia en el acta, que tendrá el carácter de carta de pago. En tal caso el Notario procederá, sin demora a hacer entrega de la cantidad abonada al acreedor en la forma que éste hubiera solicitado.
+Si el deudor pagare directamente al acreedor, y en el plazo establecido, acredita esta circunstancia, con confirmación expresa por el acreedor, el Notario cerrará el acta, dando por terminada la actuación.
+Si no hubiera confirmación expresa por el acreedor en el plazo previsto para el pago, el Notario cerrará, asimismo, el acta, quedando abierta la vía judicial.
+2. Si el deudor compareciera ante el Notario para formular oposición, se recogerán los motivos que fundamenta ésta, haciéndolo constar por diligencia. Una vez comunicada tal circunstancia al acreedor, se pondrá fin a la actuación notarial, quedando a salvo los derechos de aquel para la reclamación de la deuda en la vía judicial.
+Cuando se hubiere requerido a varios deudores por una única deuda, la oposición de uno podrá dar lugar al fin de la actuación notarial respecto de todos, si la causa fuere concurrente, haciendo constar los pagos que hubieran podido realizar alguno de ellos.
+3. Si en el plazo establecido el deudor no compareciere o no alegare motivos de oposición, el Notario dejará constancia de dicha circunstancia.
+En este caso, el acta será documento que llevara aparejada ejecución a los efectos del número 9.º del apartado 2 del artículo 517 de la Ley de Enjuiciamiento Civil. Dicha ejecución se tramitará conforme a lo establecido para los títulos ejecutivos extrajudiciales.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO V
+
+Del expediente de subasta notarial
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 72
+
+Artículo 72.
+1. Las subastas que se hicieren ante Notario en cumplimiento de una disposición legal se regirán por las normas que respectivamente las establezcan y, en su defecto, por las del presente Capítulo.
+Las subastas que se hicieren ante Notario en cumplimiento de una resolución judicial o administrativa, o de cláusula contractual o testamentaria, o en ejecución de un laudo arbitral o acuerdo de mediación o bien por pacto especial en instrumento público, o las voluntarias se regirán, asimismo, por las normas del presente Capítulo.
+2. En todo caso, se aplicarán con carácter supletorio las normas que para las subastas electrónicas se establecen en la legislación procesal siempre que fueren compatibles.
+3. Si no hubiera nada dispuesto, y la subasta fuera celebrada en cumplimiento de una resolución judicial o administrativa, será competente, en defecto de designación por acuerdo de todos los interesados entre los Notarios con residencia en el ámbito de competencia de la autoridad judicial o administrativa, el que designe el titular del bien o derecho subastado o de la mayor parte del mismo, si fueran varios, de entre los competentes. Si los diversos titulares fueran propietarios por partes iguales, la elección del Notario corresponderá a aquel que lo fuera con anterioridad. Si no se pudiera determinar a quién le corresponde la designación del Notario, o si no se comunicara a la autoridad judicial o administrativa por quien corresponda en el plazo de cinco días desde el requerimiento para efectuarla, se procederá a designar conforme a lo establecido reglamentariamente entre los que resulten competentes.
+En los restantes casos, será Notario competente el libremente designado por todos los interesados. En su defecto y a falta de previsión al respecto, será competente el libremente designado por el requirente, si fuera un titular del bien o derecho subastado. Si no lo fuera, será competente el Notario hábil en el domicilio o residencia habitual del titular o de cualquiera de los titulares, si fueran varios, o el de la situación del bien o de la mayor parte de los bienes, a elección del requirente. También podrá elegir a un Notario de un distrito colindante a los anteriores.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 73
+
+Artículo 73.
+1. El Notario, a requerimiento de persona legitimada para instar la venta de un bien, mueble o inmueble, o derecho determinado, procederá a convocar la subasta, previo examen de la solicitud, dando fe de la identidad y capacidad de su promotor y de la legitimidad para instarla.
+La subasta será electrónica y se llevará a cabo en el Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado. En todo caso corresponderá al Notario la autorización del acta que refleje las circunstancias esenciales y el resultado de la subasta y, en su caso, la autorización de la correspondiente escritura pública de venta.
+2. El solicitante acreditará al Notario la propiedad del bien o derecho a subastar o su legitimación para disponer de él, la libertad o estado de cargas del bien o derecho, la situación arrendaticia y posesoria, el estado físico en que se encuentre, obligaciones pendientes, valoración para la subasta y cuantas circunstancias tengan influencia en su valor, así como, en su caso, la representación con que actúe.
+3. El Notario, tras comprobar el cumplimiento de los anteriores extremos y previa consulta al Registro Público Concursal a los efectos previstos en la legislación especial, aceptará, en su caso, el requerimiento. Si acordare su procedencia, el Notario pondrá en conocimiento del Registro Público Concursal la existencia del expediente con expresa especificación del número de identificación fiscal del titular persona física o jurídica cuyo bien vaya a ser objeto de la subasta. El Registro Público Concursal notificará al Notario que esté conociendo del expediente la práctica de cualquier asiento que se lleve a cabo asociado al número de identificación fiscal notificado a los efectos previstos en la legislación concursal.
+El Notario pondrá en conocimiento del Registro Público Concursal la finalización del expediente cuando la misma se produzca.
+4. Acordada su celebración, si se tratara de un inmueble o derecho real inscrito en el Registro de la Propiedad o bienes muebles sujetos a un régimen de publicidad registral similar al de aquéllos, el Notario solicitará por procedimientos electrónicos certificación registral de dominio y cargas. El Registrador expedirá la certificación con información continuada por igual medio y hará constar por nota al margen de la finca o derecho esta circunstancia. Esta nota producirá el efecto de indicar la situación de venta en subasta del bien o derecho y caducará a los seis meses de su fecha salvo que con anterioridad el Notario notifique al Registrador el cierre del expediente o su suspensión, en cuyo caso el plazo se computará desde que el Notario notifique su reanudación.
+El Registrador notificará, inmediatamente y de forma telemática, al Notario y al Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado el hecho de haberse presentado otro u otros títulos que afecten o modifiquen la información inicial.
+El Portal de Subastas recogerá la información proporcionada por el Registro de modo inmediato para su traslado a los que consulten su contenido.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 74
+
+Artículo 74.
+1. El anuncio de la convocatoria de la subasta se publicará, además de los lugares designados por el promotor del expediente, en el “Boletín Oficial del Estado”.
+La convocatoria de la subasta deberá anunciarse con una antelación de, al menos, 24 horas respecto al momento en que se haya de abrir el plazo de presentación de posturas.
+El anuncio contendrá únicamente su fecha, el nombre y apellidos del Notario encargado de la subasta, lugar de residencia y número de protocolo asignado a la apertura del acta, y la dirección electrónica que corresponda a la subasta en el Portal de Subastas. En éste se indicarán las condiciones generales y particulares de la subasta y de los bienes a subastar, así como cuantos datos y circunstancias sean relevantes y la cantidad mínima admisible para la licitación en su caso. La certificación registral, tratándose de bienes sujetos a publicidad registral, podrá consultarse a través del Portal de Subastas, que informará de cualquier alteración en su titularidad o estado de cargas. También se indicará, en su caso, la posibilidad de visitar el inmueble objeto de subasta o de examinar con las necesarias garantías el bien mueble o los títulos acreditativos del crédito, si procediera.
+2. El Notario notificará al titular del bien o derecho, salvo que sea el propio solicitante, la iniciación del expediente, así como todo el contenido de su anuncio y el procedimiento seguido para la fijación del tipo de subasta. También le requerirá para que comparezca en el acta, en defensa de sus intereses.
+La diligencia se practicará bien personalmente, bien mediante envío de carta certificada con acuse de recibo al domicilio fijado registralmente o, en su defecto, en documento público, o tratándose de bienes no registrados, se remitirá al domicilio habitual acreditado. Si el domicilio no fuere conocido, la notificación se realizará mediante edictos.
+La diligencia se practicará bien personalmente, bien mediante envío de carta certificada con acuse de recibo o en cualquiera de las formas previstas por la legislación notarial al domicilio fijado registralmente. Tratándose de bienes no registrados, se dirigirá al domicilio habitual acreditado. Si el domicilio no fuere conocido, la notificación se realizará mediante edictos.
+El Notario comunicará por los mismos medios, en su caso, la celebración de la subasta a los titulares de derechos y de las cargas que figuren en la certificación de dominio, así como a los arrendatarios u ocupantes que consten identificados en la solicitud. Si no pudiera localizarlos, le dará la misma publicidad que la que se prevé para la subasta.
+3. Si la valoración no estuviere contractualmente establecida o no hubiera sido suministrada por el solicitante cuando éste pudiera hacerlo por sí mismo, será fijada por perito designado por el Notario conforme a lo dispuesto en esta Ley. El perito comparecerá ante el Notario para entregar su dictamen y ratificarse sobre el mismo. Dicha valoración constituirá el tipo de la licitación. No se admitirán posturas por debajo del tipo.
+4. Si el titular del bien o un tercero que se considerara con derecho a ello, comparecieran oponiéndose a la celebración de la subasta, el Notario hará constar su oposición y las razones y documentos que para ello aduzcan, con reserva de las acciones que fueran procedentes. El Notario suspenderá el expediente cuando se justifique la interposición de la correspondiente demanda, procediendo a su reanudación si no se admitiera ésta.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 75
+
+Artículo 75.
+1. La subasta electrónica se realizará con sujeción a las siguientes reglas:
+1.ª La subasta tendrá lugar en el Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado, a cuyo sistema de gestión estarán conectados los Notarios a través de los sistemas informáticos del Consejo General del Notariado. Todos los intercambios de información que deban realizarse entre los Notarios y el Portal de Subastas se realizarán de manera telemática.
+2.ª La subasta se abrirá transcurridas, al menos, 24 horas desde la fecha de publicación del anuncio en el “Boletín Oficial del Estado”, una vez haya sido remitida al Portal de Subastas la información necesaria para el comienzo de la misma.
+3.ª Una vez abierta la subasta solamente se podrán realizar pujas electrónicas durante, al menos, un plazo de veinte días naturales desde su apertura. Su desarrollo se ajustará, en todo aquello que no se oponga al presente capítulo, a las normas establecidas en la Ley de Enjuiciamiento Civil que le fueren aplicables. En todo caso, el Portal de Subastas informará durante su celebración de la existencia y cuantía de las pujas.
+4.ª Para poder participar en la subasta será necesario estar en posesión de la correspondiente acreditación para intervenir en la misma, tras haber consignado en forma electrónica el 5 por 100 del valor de los bienes o derechos.
+Si el solicitante quisiera participar en la subasta no le será exigida la constitución de esa consignación. Tampoco le será exigida a los copropietarios o cotitulares del bien o derecho a subastar.
+2. En la fecha de cierre de la subasta y a continuación del mismo, el Portal de Subastas remitirá al Notario información certificada de la postura telemática que hubiera resultado vencedora, así como, por orden decreciente de importe y cronológico en el caso de ser este idéntico, de todas las demás que hubieran optado por la reserva de postura.
+El Notario extenderá la correspondiente diligencia en la que hará constar los aspectos de trascendencia jurídica; las reclamaciones que se hubieren presentado y la reserva de los derechos correspondientes ante los Tribunales de Justicia; la identidad del mejor postor y el precio ofrecido por él, las posturas que siguen a la mejor y la identidad de los postores; el juicio del Notario de que en la subasta se han observado las normas legales que la regulan, así como la adjudicación del bien o derecho subastado por el solicitante. El Notario cerrará el acta, haciendo constar en ella que la subasta ha quedado concluida y el bien o derecho adjudicado, procediendo a su protocolización.
+Si no concurriere ningún postor, el Notario así lo hará constar, declarará desierta la subasta y acordará el cierre del expediente.
+3. En diligencias sucesivas se harán constar, en su caso, el pago del resto del precio por el adjudicatario en el plazo de diez días hábiles en la entidad adherida al Portal de Subastas a disposición del Notario; la entrega por el Notario al solicitante o su depósito a disposición judicial o a favor de los interesados de las cantidades que hubiere percibido del adjudicatario; y la devolución de las consignaciones electrónicas hechas para tomar parte en la subasta por personas que no hayan resultado adjudicatarias.
+La devolución de las consignaciones hechas para tomar parte en la subasta por personas que no hayan resultado adjudicatarias, no se efectuará hasta que no se haya abonado el total del precio de la adjudicación si así se hubiera solicitado por parte de los postores.
+Si el adjudicatario incumpliere su obligación de entrega de la diferencia del precio entre lo consignado y lo efectivamente rematado, la adjudicación se realizará al segundo o sucesivo mejor postor que hubiera solicitado la reserva de su consignación, perdiendo las consignaciones los incumplidores y dándole a éstas el destino establecido en la Ley de Enjuiciamiento Civil.
+No obstante, se procederá a la suspensión provisional del remate o adjudicación hasta que haya transcurrido el plazo establecido para el ejercicio, en su caso, del derecho de adquisición preferente de los socios o, en su caso, de la sociedad.
+4. En todos los supuestos en los que la ley exige documento público como requisito de validez o eficacia de la transmisión, subastado el bien o derecho, el titular o su representante, otorgará ante el Notario escritura pública de venta a favor del adjudicatario al tiempo de completar éste el pago del precio. Si el titular o su representante se negare a otorgar escritura de venta, el acta de subasta será título suficiente para solicitar del Tribunal competente el dictado del correspondiente auto teniendo por emitida la declaración de voluntad, en los términos previstos en el artículo 708 de la Ley de Enjuiciamiento Civil.
+En los demás supuestos, la copia autorizada del acta servirá de título al rematante.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 76
+
+Artículo 76.
+1. La subasta notarial que cause una venta forzosa solo se podrá suspender, y en su caso cerrar el expediente, con base en las siguientes causas:
+a) Cuando se presentare al Notario resolución judicial, aunque no sea firme, justificativa de la inexistencia o extinción de la obligación garantizada y en el caso de bienes o créditos registrables, certificación del registro correspondiente acreditativa de estar cancelada la carga o presentada escritura pública de carta de pago o de la alteración en la situación de titularidad o cargas de la finca.
+El ejecutante deberá consentir expresamente en su continuación pese a la modificación registral del estado de cargas.
+Tratándose de acciones, participaciones sociales o partes sociales en general, certificación, con firma legitimada notarialmente del administrador o secretario no consejero de la sociedad, acreditativa del asiento de cancelación del derecho real o embargo sobre los derechos del socio.
+b) Cuando se acredite documentalmente la existencia de causa criminal que pudiere determinar la falsedad del título en virtud del cual se proceda, la invalidez o ilicitud del procedimiento de venta. La suspensión subsistirá hasta el fin del proceso.
+c) Si se justifica al Notario la declaración de concurso del deudor o la paralización de las acciones de ejecución, en los supuestos previstos en la legislación concursal aunque ya estuvieran publicados los anuncios de la subasta del bien. En este caso solo se alzará la suspensión cuando se acredite, mediante testimonio de la resolución del Juez del concurso, que los bienes o derechos no están afectos, o no son necesarios para la continuidad de la actividad profesional o empresarial del deudor. También se alzará en su caso, cuando se presente la resolución judicial que homologue el acuerdo alcanzado o la escritura pública o la certificación que cierre el expediente junto con su comunicación al Juez competente y al Registro Público Concursal.
+d) Si se interpusiera demanda de tercería de dominio, acompañando inexcusablemente con ella título de propiedad, anterior a la fecha del título en el que base la subasta. La suspensión subsistirá hasta la resolución de la tercería.
+e) Si se acreditare que se ha iniciado un procedimiento de subasta sobre los mismos bienes o derechos. Siendo notarial, esta acreditación se realizará mediante copia autorizada o notificación de los sistemas informáticos del Consejo General del Notariado. Estos hechos podrán ponerse en conocimiento del Juzgado correspondiente, a juicio del Notario.
+2. En los casos precedentes, si la causa de la suspensión afectare sólo a parte de los bienes o derechos comprendidos en la venta extrajudicial, podrá seguir el procedimiento respecto de los demás, si así lo solicitare el acreedor o promotor del procedimiento.
+3. Para el caso de préstamos o créditos personales, o cualquier otro instrumento de financiación hipotecaria o no hipotecaria, sin perjuicio de lo previsto en su normativa especial, se suspenderá la venta extrajudicial cuando se acredite haber planteado ante el Juez competente el carácter abusivo o no transparente de alguna de las cláusulas que constituya el fundamento de la venta extrajudicial o que hubiese determinado la cantidad exigible. Una vez sustanciada la cuestión y siempre que, de acuerdo con la resolución judicial correspondiente, no se trate de una cláusula abusiva o no transparente que constituya el fundamento de la ejecución o hubiera determinado la cantidad exigible, el Notario podrá proseguir la venta extrajudicial a requerimiento del acreedor o promotor del mismo.
+4. La suspensión de la subasta por un periodo superior a 15 días llevará consigo la liberación de las consignaciones o devolución de los avales prestados, retrotrayendo la situación al momento inmediatamente anterior a la publicación del anuncio. La reanudación de la subasta se realizará mediante una nueva publicación del anuncio y una nueva petición de información registral como si de una nueva subasta de tratase.
+5. Tratándose de bienes registrables, si la reclamación del acreedor y la iniciación de la venta extrajudicial tuvieran su base en alguna causa que no sea el vencimiento del plazo o la falta de pago de intereses o de cualquier otra prestación a que estuviere obligado el deudor, se suspenderá dicho procedimiento siempre que con anterioridad a la subasta se hubiere hecho constar en el Registro de la Propiedad o de bienes muebles la oposición al mismo, formulada en juicio declarativo. A este efecto, el Juez, al mismo tiempo que ordene la anotación preventiva de la demanda, acordará que se notifique al Notario la resolución recaída.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 77
+
+Artículo 77.
+Las subastas voluntarias podrán convocarse bajo condiciones particulares incluidas en el pliego de condiciones, debiendo éstas consignarse en el Portal de Subastas. Por ello, el solicitante, en el pliego de condiciones particulares, podrá aumentar, disminuir o suprimir la consignación electrónica previa y tomar cualquier otra determinación análoga a la expresada.
+En todo lo demás, se aplicarán a las subastas voluntarias las reglas generales contenidas en el presente capítulo, sin sujeción de lo dispuesto en el apartado 3 del artículo 74.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO VI
+
+De los expedientes en materia mercantil
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 1
+
+Sección 1.ª Del robo, hurto, extravío o destrucción de título-valor
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 78
+
+Artículo 78.
+1. Estarán legitimados para solicitar del Notario la adopción de las medidas previstas en la legislación mercantil en los casos de robo, hurto, extravío o destrucción de títulos-valores o representación de partes de socio los poseedores legítimos de estos títulos que hubieren sido desposeídos de los mismos o que hubieren sufrido su destrucción o extravío.
+2. Será competente para conocer de estos expedientes el Notario del lugar de pago cuando se trate de un título de crédito; del lugar de depósito en el caso de títulos de depósito; o el del lugar del domicilio de la entidad emisora cuando los títulos fueran valores mobiliarios, según proceda.
+3. El Notario, tras aceptar la solicitud del legitimado y previo examen de la misma, dando fe de la identidad y apreciando la capacidad del promotor y la legitimidad para instarla, lo comunicará, mediante requerimiento, al emisor de los títulos y, si se tratara de un título cotizable, a la Sociedad Rectora de la Bolsa correspondiente, y solicitará la publicación en la sección correspondiente del “Boletín Oficial del Estado” y en un periódico de gran circulación en su provincia. Tanto en el requerimiento como en los anuncios se citará a quien pueda estar interesado en el procedimiento para que comparezca en la Notaría en el día y hora que se señalen.
+4. Si compareciera, el Notario levantará acta de la celebración de la comparecencia y, de conformidad con lo solicitado, instará al promotor del expediente y al emisor de los títulos a que no procedan a su negociación o trasmisión, así como a la suspensión del cumplimiento de la obligación de pago documentada en el título o del pago del capital, intereses o dividendos, o bien al depósito de las mercancías, según proceda en atención al título de que se trate.
+5. Sin perjuicio de lo dispuesto en el apartado anterior, cuando se tratase de un título de tradición, no procederá el depósito de las mercancías si fueran de imposible, difícil o muy costosa conservación o corrieran el peligro de sufrir grave deterioro o de disminuir considerablemente de valor. En ese caso, el Notario instará al porteador o al depositario, previa audiencia del tenedor del título, que entregue las mercancías al solicitante si éste hubiera prestado caución suficiente por el valor de las mercancías depositadas más la eventual indemnización de los daños y perjuicios al tenedor del título si se acreditara posteriormente que el solicitante no tenía derecho a la entrega.
+6. A petición del solicitante, el Notario podrá nombrar un administrador para el ejercicio de los derechos de asistencia y de voto a las juntas generales y especiales de accionistas correspondientes a los títulos que fueran valores mobiliarios, así como para la impugnación de los acuerdos sociales. La retribución del nombrado correrá a cargo del solicitante.
+7. Transcurrido el plazo de seis meses sin que se haya suscitado controversia, el Notario autorizará al que promovió el expediente a cobrar los rendimientos que produzca el título, requiriendo, a su instancia, al emisor para que proceda a su pago.
+8. Transcurrido el plazo de un año sin mediar oposición, el Notario requerirá al emisor para que expida los nuevos títulos, que se entregarán al solicitante.
+9. En ningún caso procederá la anulación del título o títulos, si el tenedor actual que formule oposición los hubiera adquirido de buena fe conforme a la ley de circulación del propio título.
+10. En caso de que no fuera procedente la anulación del título o títulos, quien hubiera sido tenedor legítimo en el momento de la pérdida de la posesión tendrá las acciones civiles o penales que correspondan contra aquella persona que hubiera adquirido de mala fe la posesión del documento.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 2
+
+Sección 2.ª De los depósitos en materia mercantil y de la venta de los bienes depositados
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 79
+
+Artículo 79.
+1. En todos aquellos casos en que, por disposición legal o pacto, proceda el depósito de bienes muebles, valores o efectos mercantiles, podrá realizarse ante Notario mediante acta de depósito, de conformidad con lo dispuesto en la presente Ley y en su reglamento de ejecución.
+2. Si el depósito consistiere en letras de cambio u otros efectos que se pudieran perjudicar por su no presentación en ciertas fechas a la aceptación o al pago, el Notario, a instancias del depositante, podrá proceder a realizar dicha presentación. En caso de serle satisfecho el importe, quedará sustituido el depósito de los efectos por su importe en dinero.
+3. En todos los casos en que, por la legislación mercantil, se permita la venta de los bienes o efectos depositados, el Notario, a instancia del depositante o del propio depositario, podrá convocar y proceder a la venta de los bienes. A ese efecto se procederá según lo previsto en esta Ley para las actas notariales de subasta, y se dará al importe obtenido el destino establecido en la legislación mercantil.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## Sección 3
+
+Sección 3.ª Del nombramiento de peritos en los contratos de seguros
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 80
+
+Artículo 80.
+1. Se aplicará el procedimiento regulado en este artículo cuando en el contrato de seguro, conforme a su legislación específica, no haya acuerdo entre los peritos nombrados por el asegurador y el asegurado para determinar los daños producidos, y aquéllos no estén conformes con la designación de un tercero.
+2. La competencia para proceder al nombramiento corresponderá al Notario al que acudan de mutuo acuerdo el asegurado y la aseguradora. En defecto de acuerdo, cualquiera entre los que tengan su residencia en el lugar del domicilio o residencia habitual del asegurado o donde se encuentre el objeto de la valoración, a elección del requirente. También podrá elegir a un Notario de un distrito colindante a los anteriores.
+3. Podrá promover este expediente cualquiera de las partes del contrato de seguro o ambas conjuntamente.
+4. Se iniciará el expediente mediante escrito presentado por cualquiera de los interesados, en que se hará constar el hecho de la discordia de los peritos designados para valorar los daños sufridos, y se solicitará el nombramiento de un tercer perito. Al escrito se acompañará la póliza de seguro y los dictámenes de los peritos.
+5. Admitida a trámite la solicitud por el Notario, éste convocará a una comparecencia a fin de que los interesados se pongan de acuerdo en el nombramiento de otro perito; si no hubiere acuerdo, se procederá a nombrarlo con arreglo a lo dispuesto en el artículo 50.
+6. Verificado el nombramiento, se hará saber al designado para que manifieste si lo acepta o no, lo que podrá realizar alegando justa causa. Una vez aceptado, se proveerá el consiguiente nombramiento, requiriendo a las partes para que en tres días hagan la provisión de fondos que se considere necesaria, debiendo el perito emitir el dictamen en el plazo previsto por las partes y, en su defecto, en el plazo de treinta días a partir de la aceptación del nombramiento. Emitido el dictamen, se incorporará al acta y se dará por finalizada.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+## CAPÍTULO VII
+
+De los expedientes de conciliación
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 81
+
+Artículo 81.
+1. Podrá realizarse ante Notario la conciliación de los distintos intereses de los otorgantes con la finalidad de alcanzar un acuerdo extrajudicial.
+2. La conciliación podrá realizarse sobre cualquier controversia contractual, mercantil, sucesoria o familiar siempre que no recaiga sobre materia indisponible.
+Las cuestiones previstas en la Ley Concursal no podrán conciliarse siguiendo este trámite.
+Son indisponibles:
+a) Las cuestiones en las que se encuentren interesados los menores.
+b) Las cuestiones en las que estén interesados el Estado, las Comunidades Autónomas y las demás Administraciones públicas, Corporaciones o Instituciones de igual naturaleza.
+c) Los juicios sobre responsabilidad civil contra Jueces y Magistrados.
+d) En general, los acuerdos que se pretendan sobre materias no susceptibles de transacción ni compromiso.
+Téngase en cuenta que esta modificación del apartado 2.a), efectuada por el art. 1.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+ Redacción anterior:
+ "a) Las cuestiones en las que se encuentren interesados los menores y las personas con capacidad modificada judicialmente para la libre administración de sus bienes."
+Se modifica el apartado 2.a), con efectos de 3 de septiembre de 2021, por el art. 1.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ap
+ Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 82
+
+Artículo 82.
+1. La escritura pública que formalice la avenencia entre los interesados o, en su caso, que se intentó sin efecto o avenencia se someterá a los requisitos de autorización establecidos en la legislación notarial.
+2. Si hubiere conformidad entre los interesados en todo o en parte del objeto de la conciliación, se hará constar detalladamente en la escritura pública todo cuanto acuerden y que el acto terminó con avenencia así como los términos de la misma. Si no pudiere conseguirse acuerdo alguno, se hará constar que el acto terminó sin avenencia.
+3. La modificación del contenido pactado habrá de constar, asimismo, en escritura pública notarial siempre que no se hubiere iniciado la ejecución judicial.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Artículo 83
+
+Artículo 83.
+1. La escritura pública notarial que formalice la conciliación gozará en general de la eficacia de un instrumento público y, en especial, estará dotada de eficacia ejecutiva en los términos del número 9.º del apartado 2 del artículo 517 de la Ley de Enjuiciamiento Civil. La ejecución se verificará conforme a lo previsto para los títulos ejecutivos extrajudiciales.
+2. Cualquiera de las partes podrá solicitar del Notario copia autorizada dotada de carácter ejecutivo en tanto no conste en la matriz nota relativa a la modificación de su contenido o su ejecución.
+Se añade por la disposición final 11.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Referencias al Código Civil.
+Las referencias realizadas en esta Ley al Código Civil deberán entenderse realizadas, en su caso, también a las leyes civiles forales o especiales allí donde existan.
+Se añade por la disposición final 11.2 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfundecima.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los sistemas electrónicos notariales serán interoperables con los sistemas de la Administración de Justicia para el cumplimiento de las disposiciones previstas en las leyes procesales.
+Téngase en cuenta que esta disposición, añadida por el art. 34.10 de la Ley 11/2023, de 8 de mayo, Ref. BOE-A-2023-11022#a3-6, entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+Se añade por el art. 34.10 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#a3-6
+ Esta modificación entra en vigor el 9 de noviembre de 2023, según establece la disposición final 18.5 de la citada Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+No obstante la incompatibilidad establecida en el artículo 16 de esta Ley, los Escribanos y Notarios que actualmente, además de sus Escribanías, intervienen en los actos judiciales, continuarán desempeñando uno y otro cargo mientras no vacaren natural o legalmente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los depósitos de escrituras públicas que hoy existieren en poder de particulares pasarán al archivo de las Notarías que el Gobierno designe, previas las formalidades del caso y las indemnizaciones que procedan.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Se reincorporarán al Estado desde luego, previa indemnización, todos los oficios de fe pública enajenados vacantes en la actualidad, y los que no lo estuvieren a medida que fueren vacando.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los dueños de los oficios de la fe pública enajenados o confirmados con la cláusula de reversión a la Corona por el precio de egresión u otra cantidad determinada, serán indemnizados con arreglo a dicha cláusula.
+Los demás dueños de oficios enajenados recibirán por indemnización: primero, el importe de la egresión y confirmación; segundo, la cantidad que conste satisfecha por suplemento.
+Las corporaciones poseedoras de tales oficios, cuyos gastos no se satisfagan por los presupuestos del Estado, se considerarán comprendidas en el párrafo anterior si no han sido indemnizadas con la creación de otros oficios análogos.
+En casos de duda, el Gobierno decidirá, oyendo al Consejo de estado o a alguna de sus Secciones, y dejando a los interesados los recursos de derecho para ante el propio Consejo.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+El derecho a la indemnización se declarará por el Ministerio de Gracia y Justicia. Las indemnizaciones se abonarán por el Ministerio de Hacienda.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los dueños de oficios enajenados que renuncien en debida forma la indemnización de que tratan las disposiciones anteriores tendrán el derecho de presentar para sí, o de presentar por una sola vez en las Notarías que en los mismos pueblos o distrito reemplacen a los oficios suprimidos, a persona que reúna todos los requisitos prescritos en el artículo 10 de esta Ley. En este caso, los dueños o los así presentados no entrarán por oposición, pero sufrirán un examen riguroso en la forma que el Gobierno determine por regla general. Si el dueño o propuesto no reúne las circunstancias requeridas, o no obtuviese aprobación en el examen, podrá hacerse nueva presentación.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Los nombramientos para Notarías vacantes, hechos con anterioridad a la publicación de esta Ley por las corporaciones o particulares que tenían este derecho, surtirán su efecto sin embargo de lo dispuesto en los artículos 7.° y 3.°, quedando sujetos los nombrados a las demás prescripciones de la misma Ley.
+Las Notarías a que se refieran estos nombramientos no estarán en el caso de reincorporarse al Estado hasta nueva vacante.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Los Notarios nombrados con arreglo a esta Ley podrán ser autorizados por el Gobierno para servir en comisión las Escribanías de los Juzgados de primera instancia en los partidos en que la necesidad lo exija hasta que se publique la Ley de organización judicial, o se disponga lo conveniente sobre Escribanos actuarios.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Quedan dispensados de los ejercicios de oposición que establece el artículo 12 de esta Ley los pasantes o aspirantes matriculados en los antiguos Colegios de Notarios antes del 18 de Octubre de 1838 que tienen derechos adquiridos a las plazas que resulten vacantes en sus respectivos Colegios, a quienes se declara con preferencia para obtener dichas plazas a medida que vacaren y por el orden de antigüedad en los aspirantes matriculados, que deberán probar su aptitud, sujetándose a un riguroso examen en la forma que dispondrá el Gobierno, a no haber sido ya examinados y aprobados por las Audiencias al tiempo de publicarse esta Ley.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+El Gobierno queda autorizado para resolver las dudas que ocurran, previa audiencia del Consejo de Estado o de alguna de sus secciones.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+Hasta que los avances tecnológicos hagan posible que la matriz u original del documento notarial se autorice o intervenga y se conserve en soporte electrónico, la regulación del documento público electrónico contenida en este artículo se entenderá aplicable exclusivamente a las copias de las matrices de escrituras y actas así como, en su caso, a la reproducción de las pólizas intervenidas.
+Se añade por el art. 115.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+Por tanto:
+Mandamos a todos los Tribunales, Justicias, Jefes, Gobernadores y demás autoridades, así civiles como Militares y Eclesiásticas, de cualquiera clase y dignidad, que guarden y hagan guadar, cumplir y ejecutar la presente ley en todas sus partes.
+Dado en Palacio a veintiocho de mayo de mil ochocientos sesenta y dos.
+Yo la Reina
+El Ministro de Gracia y Justicia,
+SANTIAGO FERNÁNDEZ NEGRETE

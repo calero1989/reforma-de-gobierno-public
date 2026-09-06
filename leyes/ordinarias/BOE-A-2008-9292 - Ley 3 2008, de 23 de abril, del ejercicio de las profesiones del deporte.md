@@ -1,0 +1,441 @@
+# Ley 3/2008, de 23 de abril, del ejercicio de las profesiones del deporte.
+
+- Identificador BOE: `BOE-A-2008-9292`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-9292
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 65 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 3/2008, de 23 de abril, del Ejercicio de las Profesiones del Deporte.
+PREÁMBULO
+De conformidad con lo establecido por el artículo 134 del Estatuto de Autonomía de Cataluña, la Generalidad tiene atribuidas competencias exclusivas en materia de deporte. En el ejercicio de dicha competencia el Parlamento aprobó varias leyes: la Ley 11/1984, de 5 de marzo, de creación del organismo autónomo Instituto Nacional de Educación Física de Cataluña; la Ley 8/1988, de 7 de abril, del deporte; la Ley 8/1999, de 30 de julio, de la jurisdicción deportiva y de modificación de las mencionadas leyes, y la Ley 9/1999, de 30 de julio, de apoyo a las selecciones catalanas.
+Estas últimas leyes contenían disposiciones en que se autorizaba al Gobierno a refundir en un texto único la Ley 8/1988 y las dos leyes deportivas aprobadas el 30 de julio de 1999. Esta refundición se llevó a cabo mediante el Decreto legislativo 1/2000, de 31 de julio, por el que se aprobó la Ley del Deporte. La disposición adicional octava de este texto único ordenó al Gobierno presentar al Parlamento un proyecto de ley para regular el ejercicio de las profesiones relacionadas con el ámbito de las actividades físicas y deportivas en el territorio de Cataluña.
+Además de la competencia autonómica en materia deportiva, dicha ordenación legal de las profesiones mencionadas está avalada, desde la perspectiva competencial, por el hecho de que Cataluña también tiene, de conformidad con el artículo 125.4 del Estatuto de autonomía, la competencia exclusiva en materia de ejercicio de las profesiones tituladas, sin perjuicio de lo dispuesto por los artículos 36 y 139 de la Constitución.
+La presente ley ha tenido en cuenta la propuesta de recomendación 2006/1063 (COD) del Parlamento Europeo y del Consejo Europeo en el sentido de que los estados miembros deben basarse en el Marco Europeo de Cualificaciones como instrumento de referencia para comparar los niveles de cualificaciones establecidos según los distintos criterios de cualificaciones desde la perspectiva del aprendizaje continuo en el marco europeo.
+En las reuniones del Consejo Europeo de Lisboa y de Barcelona, y en el Proceso de Copenhague de 2004, se había reconocido también que debía alcanzarse previamente la transparencia de las cualificaciones para convertir la diversidad de instituciones y de marcos de la educación en un recurso valioso.
+Asimismo, la Ley ha tenido en cuenta las normas básicas dictadas por el Estado en los ámbitos educativo, de protección de la salud y de lucha contra el dopaje en el deporte.
+Al igual que en otros países, el deporte en Cataluña ha experimentado grandes transformaciones en las últimas décadas. Una vez consolidado el modelo de sociedad del desarrollo y del bienestar, el deporte ocupa un lugar privilegiado en el mercado económico. Las actividades deportivas forman parte de la denominada industria del ocio, de la recreación, del tiempo libre, de la salud, del turismo o de la estética, y ello ha propiciado el nacimiento y la proliferación de numerosas ocupaciones entorno al deporte.
+El creciente interés público por el fenómeno deportivo y la fuerte incidencia de las actividades deportivas en la salud y la seguridad de las personas que las practican hace necesaria una regulación del ejercicio de las profesiones del deporte. Más aún en un mundo como el deportivo, en el cual, pese a que concurren numerosas titulaciones de naturaleza diversa, el ejercicio de las actividades profesionales a menudo es asumido por personas sin una formación mínima específica.
+No puede ocultarse que la delimitación de ámbitos profesionales y el condicionamiento de estos a la obtención de determinados títulos constituyen en todas las áreas sociales, no solo en el deporte, una labor compleja y conflictiva, tal y como reconocen constantemente los tribunales de justicia y la propia doctrina científica.
+La delimitación del ámbito de cada profesión implica casi siempre un conflicto con el ámbito propio de otras profesiones relacionadas. De igual forma, en general, la habilitación para el ejercicio profesional de una determinada titulación académica genera conflicto con otras titulaciones afines.
+Además de las mencionadas dificultades, es evidente que el concepto de profesión ha sido desarrollado fundamentalmente desde la sociología, de conformidad con una serie de presupuestos y circunstancias que han ido evolucionando a lo largo del tiempo. Existe una gran confusión a la hora de identificar profesiones y, de esta dificultad, no escapa, evidentemente, el mundo del deporte, en el cual también a menudo se confunden las profesiones con las titulaciones y los puestos de trabajo.
+En desarrollo del Real decreto 1128/2003, de 5 de septiembre, por el que se crea el Catálogo nacional de cualificaciones profesionales, modificado por el Real decreto 1416/2005, de 25 de noviembre, se establecen las cualificaciones profesionales de la familia profesional de actividades físicas y deportivas. Estas cualificaciones han de ser el referente para la elaboración de los nuevos títulos de formación profesional –en desarrollo del artículo 39 de la Ley orgánica 2/2006, de 3 de mayo, de educación– y de las titulaciones correspondientes a las enseñanzas deportivas, de conformidad con lo establecido por el artículo 64 de la propia Ley orgánica 2/2006.
+La presente ley parte de una situación preocupante en lo que concierne al ejercicio de las profesiones del deporte en Cataluña, ya que existen personas que, sin un mínimo de conocimientos y sin titulación alguna, prestan servicios profesionales con riesgo para la salud y la seguridad de otras personas. Ello explica claramente que el Parlamento ordenase al Gobierno elaborar una ley de regulación de la actividad profesional del deporte, como también puso de manifiesto la Ley orgánica 7/2006, de 21 de noviembre, de protección de la salud y de lucha contra el dopaje en el deporte. Es preciso dar respuesta a una necesidad social de forma que, a partir de la entrada en vigor de la presente ley, las distintas actividades profesionales en el deporte en Cataluña sean ejercidas por personas con una mínima formación en su respectivo campo. Por supuesto, también la cualidad del sistema deportivo catalán depende en gran medida de este proceso de progresiva incorporación de profesionales debidamente cualificados.
+El texto articulado regula los aspectos básicos del ejercicio de algunas –no de todas– de las profesiones propias del ámbito del deporte, determina las competencias necesarias para su ejercicio; establece expresamente cuáles son estas profesiones y la forma de acreditación de estas competencias, y concreta las titulaciones necesarias.
+La presente ley, por supuesto, solo es aplicable al ejercicio profesional en el ámbito territorial de Cataluña, aunque no todo el ejercicio profesional en Cataluña queda sujeto a la misma. No parece razonable que el ejercicio de la profesión de los entrenadores profesionales de equipos deportivos o de deportistas que no pertenecen a Cataluña pero que disputan competiciones estatales e internacionales en Cataluña deba someterse a los preceptos de la presente ley.
+La regulación contenida en la Ley concibe el deporte en un sentido muy amplio y aborda el fenómeno deportivo en todas sus manifestaciones. El sistema deportivo en Cataluña se compone de subsistemas de características muy heterogéneas. Por ello, la presente ley no se circunscribe solo a los ámbitos del espectáculo, de la alta competición o de la competición federada, sino que intenta abarcar las diversas dimensiones del deporte. La práctica deportiva responde también a la demanda de un importante sector de la población de Cataluña que lo considera un instrumento para el tiempo libre, para la recreación o para la adopción de un estilo de vida sana. Estas otras dimensiones del deporte originan también un número considerable de profesiones, y la presente ley también lo refleja. Así, las profesiones que en ella se regulan abarcan los ámbitos educativo, recreativo, competitivo y de la gestión deportiva, en cada uno de los cuales se ha reconocido una profesión.
+La Ley aborda la profesión propia de la enseñanza de la educación física en todos los ciclos, las etapas, los grados, los cursos y los niveles en que se organiza el sistema educativo. En dicho ámbito, la Ley reconoce y regula la profesión de profesor o profesora de educación física, la cual cuenta con una gran tradición que, no obstante, hasta hoy ha carecido del adecuado reconocimiento. Y todo ello en el marco de la legislación básica dictada por el Estado a tal fin.
+El ámbito del deporte de competición es otro de los sectores básicos de demanda de profesionales. El concepto de deporte de competición incluye realidades muy distintas y la Ley es sensible a esta pluralidad. La competición profesional y la competición de alto nivel requieren profesionales de alta especialización en los aspectos técnicos y deportivos. La competición deportiva de nivel medio o básico, que constituye la actividad mayoritaria de los deportistas con licencia, también requiere profesionales, aunque sea con una cualificación menor. En este ámbito de la competición deportiva, la Ley reconoce la profesión de los entrenadores profesionales del correspondiente deporte. Esta profesión permite planificar y dirigir el entrenamiento y la dirección de deportistas y equipos de cara a la competición.
+Las titulaciones requeridas para el ejercicio de la profesión de entrenador o entrenadora profesional son distintas de conformidad con el ámbito material de actuación.
+El ámbito del deporte practicado con finalidades recreativas, estéticas, turísticas, de salud y otras finalidades análogas ofrece un extraordinario campo de actuación profesional. Existen varios factores que constituyen causas de la proliferación de profesionales en este sector. La difusión del deporte para todos y la incorporación de numerosos colectivos a la práctica de la actividad física, así como el interés cada vez mayor de los antiguos deportistas en reprender la práctica deportiva en la edad adulta, son algunas de sus causas. Asimismo, el progresivo aumento del interés por la práctica de los deportes de aventura, de riesgo o en el medio natural, y el mismo fenómeno de la revalorización del propio cuerpo por motivos estéticos o de salud, han alimentado una variada oferta de profesionales que requiere de una urgente regulación. Por ello, la Ley reconoce y regula la profesión de los animadores o monitores deportivos, que también cuenta con una gran tradición en el mundo del deporte. Las titulaciones requeridas para el ejercicio de esta profesión también son distintas de conformidad con los distintos ámbitos materiales de actuación que concreta la Ley.
+Por último, en el ámbito de la gestión también existen numerosos profesionales. La Ley ha optado por reconocer la profesión de los directores deportivos, que permite ejercer el conjunto de actividades profesionales relacionadas con la dirección, la gestión, la programación, la planificación, la coordinación, el control y la supervisión de las actividades deportivas aplicando los conocimientos y técnicas propios de las ciencias del deporte. Al igual que sucede con otras profesiones del deporte, en la dirección deportiva existe una tipología de ámbitos materiales que requieren una titulación específica.
+La Ley no pretende abordar la totalidad de las profesiones relacionadas con el deporte, sino tan solo algunas profesiones del deporte. Habitualmente se confunden las numerosas profesiones relacionadas con el deporte con las profesiones propias del deporte, que son las que debe abordar la presente ley. La Ley tampoco articula la regulación de todas las profesiones específicas del deporte. Se ha optado por dejar sin regulación unas determinadas profesiones propias del deporte. Así, quedan fuera de esta regulación las actividades técnico-deportivas del voluntariado deportivo, es decir, las que no tienen carácter profesional. Es cierto que el voluntariado deportivo tiene un papel trascendental en el campo del deporte en Cataluña, especialmente por medio de los entrenadores y los monitores, pero las personas que ejercen una actividad deportiva de forma altruista y desinteresada, sin remuneración, con las únicas compensaciones de los gastos derivados de la actividad, no pueden ser incluidas en el ámbito de aplicación de una ley que regula el ejercicio profesional. Por ello, en la medida en que la Ley regula las profesiones del deporte, parece razonable que sean otras instancias las que condicionen las actividades de voluntariado a la obtención de determinadas titulaciones.
+Una de las grandes dificultades que han debido afrontarse en esta primera ley que regula el ejercicio de profesiones del deporte en Cataluña es el uso de denominaciones de profesiones con distintas acepciones o que se refieren a distintos ámbitos. Es decir, en cualquier caso, un problema inevitable, cualquiera que sea la denominación elegida; en el vasto campo de las actividades profesionales en el deporte abundan unas mismas denominaciones con significaciones muy distintas.
+La Ley aborda una cuestión tan delicada hasta hoy en el campo de las profesiones relacionadas con la educación física como es la colegiación. Según el Tribunal Constitucional, la exigencia de adscripción forzosa significa, por una parte, una limitación del principio general de libertad y, más concretamente, del libre ejercicio de la profesión.
+Teniendo en cuenta la trascendencia que el ejercicio de las profesiones reguladas por la presente ley tiene en la salud de las personas y las repercusiones negativas que puede provocar un ejercicio no adecuado de las profesiones que se regulan en la misma, como ha puesto de manifiesto el Tribunal Constitucional en la Sentencia 194/1998, se considera absolutamente necesario crear el Registro Oficial de Profesionales del Deporte de Cataluña y establecer la obligatoriedad de inscribirse en él para ejercer la profesión, salvo en los casos de colegiación obligatoria que regula también la presente ley. Dicho registro, al igual que el resto de registros para el ejercicio de distintas actividades profesionales, es una herramienta necesaria para el seguimiento, la valoración de competencias, la asignación de ámbitos de trabajo, el control adecuado del ejercicio de los profesionales y la asignación de las profesiones a los ocho niveles del Marco Europeo de Cualificaciones, ya que estos profesionales tienen también como destinatario principal de sus servicios un colectivo de personas merecedoras de una especial protección, como son los niños, y las personas de la tercera edad o con problemas de salud.
+Los colegios profesionales de adscripción obligatoria que representen a profesionales vinculados con alguna de las profesiones del deporte reguladas por la presente ley deben facilitar al Registro Oficial de Profesionales del Deporte de Cataluña la lista de las personas colegiadas que ejercen alguna de las profesiones reguladas en ella.
+Siguiendo el modelo de otras disposiciones legales, la presente ley incorpora un catálogo de principios y deberes de actuación para ejercer las profesiones objeto de regulación. Una ley que regula unas determinadas profesiones debe ceñirse a la articulación de las disposiciones que les sean propias y específicas; en cuanto al resto, el ejercicio de las profesiones queda sometido al marco común del ejercicio profesional.
+La Ley presta una especial atención a la evolución de las actividades profesionales, que ha dado lugar a la sustitución de la actuación aislada de los profesionales del deporte por el trabajo en equipo. Ello tiene su origen en la creciente complejidad de las actividades profesionales y de las ventajas que derivan de la especialización y la división del trabajo. Así, el ámbito de los servicios profesionales, que incluye las profesiones del ámbito del deporte, tiende a organizarse en sociedades. Por ello, la Ley efectúa una remisión normativa a la legislación general sobre sociedades profesionales.
+La Ley contiene una especial referencia a la responsabilidad civil. De conformidad con la misma, los profesionales objeto de esta regulación quedan obligados a contratar el pertinente seguro de responsabilidad civil profesional, que cubra la indemnización por los daños que puedan causarse a terceros en la prestación de los servicios profesionales.
+Numerosos colectivos relacionados con las titulaciones específicas del deporte vienen denunciando desde hace muchos años el intrusismo que se practica en el mercado laboral del deporte. El intrusismo propiamente dicho consiste en el ejercicio de los actos propios de una profesión sin tener la titulación necesaria, y ello está penalizado por el Código penal. Pero es evidente que para que se pueda hablar de comisión de un delito por actos de una profesión sin tener la titulación para ejercerla se precisa, desde la aprobación del nuevo Estatuto de Autonomía de Cataluña, una ley que defina la profesión y que someta su ejercicio a una determinada titulación. El delito de intrusismo no se comete respecto a los actos propios de una titulación. Por ello, si no están reguladas las profesiones, o si no están determinadas las titulaciones necesarias para ejercerlas, es muy difícil imputar la comisión del delito de intrusismo a determinadas personas. Para que la protección penal sea eficaz es preciso que exista una normativa que determine las titulaciones y «los actos propios de una profesión», es decir, las atribuciones propias de unos profesionales concretos. Y en este sentido la presente ley es fundamental.
+El Instituto Catalán de las Cualificaciones Profesionales (ICQP) en Cataluña y, como referente estatal, el Instituto Nacional de las Cualificaciones (Incual) detectan y determinan las competencias asignadas a una cualificación profesional en el marco de la legislación estatal sobre cualificaciones y formación profesional. La definición de estas competencias debe facilitar la detección del intrusismo y las actuaciones profesionales irregulares, con el fin de garantizar un mejor ejercicio profesional en el ámbito del deporte.
+La presente ley se adapta también a las disposiciones del artículo 11 de la Ley 7/2006, de 31 de mayo, del ejercicio de profesiones tituladas y de los colegios profesionales, en relación con el intrusismo y las actuaciones profesionales irregulares, con el fin de garantizar un óptimo ejercicio profesional en el ámbito del deporte.
+Es evidente que la Ley se limita a regular los aspectos básicos del ejercicio de las profesiones del deporte, establece de forma expresa cuáles son estas profesiones, determina las titulaciones necesarias para ejercerlas y atribuye a cada profesión su propio ámbito funcional general. Por todo ello, las profesiones que se regulan quedan sometidas, en todo cuanto no queda establecido, al marco normativo común a toda actividad profesional que aprueben las instituciones competentes en la materia.
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. El objeto de la presente ley es regular los aspectos esenciales del ejercicio de determinadas profesiones del deporte, reconocer expresamente cuáles son estas profesiones, asignarles las competencias asociadas, especificar las titulaciones o las acreditaciones, determinar las titulaciones necesarias para ejercerlas y atribuir a cada profesión el ámbito funcional específico que le corresponde.
+2. La Ley es de aplicación al ejercicio profesional en el ámbito territorial de Cataluña.
+3. La Ley regula el ejercicio profesional por cuenta propia y por cuenta ajena y es igualmente aplicable tanto si la profesión se ejerce en el sector público como en el sector privado.
+4. Es ejercicio profesional, al efecto de la presente ley, la prestación remunerada de los servicios propios de las profesiones del deporte. Quedan excluidas las actividades ejercidas en el marco de las relaciones de voluntariado, de amistad, familiares y análogas, así como las actividades por la práctica de las cuales solo se percibe la compensación de los gastos que derivan de la misma, sin perjuicio de que dichas actividades puedan tener un régimen jurídico específico y diferenciado del establecido por la presente ley.
+5. Quedan fuera del ámbito de la presente ley las profesiones relacionadas con las actividades náutico-deportivas, las actividades deportivas basadas en la conducción de aparatos o vehículos a motor, con la excepción de los monitores deportivos profesionales y de los entrenadores profesionales de los correspondientes deportes. También quedan fuera del ámbito de la presente ley las profesiones ejercidas por los árbitros y los jueces deportivos.
+6. Al efecto de la presente ley, el término deporte comprende todas las manifestaciones físicas y deportivas establecidas por la Ley del deporte, sin limitarse a las modalidades, disciplinas o especialidades oficialmente reconocidas. En virtud de ello, el término deporte incluye todas las actividades físicas y deportivas ejercidas en el deporte federado, el deporte escolar, el deporte universitario o en toda estructura u organización que promueva, organice o difunda este tipo de actividades, con independencia de la finalidad a qué se destine la actividad, ya sea de competición, iniciación, aprendizaje, tecnificación, salud, turismo, recreación, tiempo libre o con finalidades análogas.
+7. Todos los profesionales en activo que ejerzan tareas reguladas por la presente ley deben tener competencias de asistencia sanitaria inmediata, referidas a la reanimación cardiopulmonar. En caso de que la titulación de acceso a la profesión no permita acreditar dicha competencia, la acreditación debe obtenerse en centros autorizados por la Generalidad.
+Se modifica el apartado 5 por el art. 1 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Artículo 2
+
+Artículo 2. Profesiones propias del deporte y ámbito funcional general.
+1. La profesión del deporte, a efectos de lo establecido por la presente ley, se ejerce específicamente en los distintos ámbitos de las actividades físicas y deportivas, mediante la aplicación de conocimientos y técnicas propios de las ciencias del deporte. Los distintos grados de conocimientos, habilidades y competencias de cada profesión se clasifican, de acuerdo con el marco europeo de cualificaciones (EQF), en ocho niveles.
+1 bis. Los profesionales del deporte disponen de competencias exclusivas dentro del territorio de Cataluña en la planificación, ejecución o supervisión detallada de los planes de ejercicio o entrenamiento fundamentados en la mejor evidencia científica disponible, y en el ejercicio de sus atribuciones tienen que velar por la seguridad de las personas. Las competencias y los conocimientos necesarios para ejercer una profesión del deporte pueden acreditarse mediante titulaciones, certificaciones o la experiencia adecuada acreditada de acuerdo con lo establecido por la correspondiente normativa.
+2. La presente ley reconoce y regula las siguientes profesiones como propias del ámbito del deporte:
+a) Profesores de educación física.
+b) Monitores deportivos.
+c) Entrenadores deportivos (referidos a un deporte específico).
+d) Directores deportivos.
+3. Las listas de actuaciones profesionales de las profesiones reguladas por la presente ley tienen el objeto de establecer un ámbito funcional general para cada profesión y, en consecuencia, tienen un carácter enunciativo y no limitado.
+4. Los profesionales que ejercen las profesiones objeto de regulación por la presente ley, al margen de la lista de actuaciones profesionales vinculadas, tienen los derechos, las facultades y las prerrogativas reconocidos por la normativa vigente, especialmente en cuanto a los ámbitos laboral y social.
+5. Las actuaciones profesionales que, de conformidad con la presente ley, se vinculan a unas determinadas profesiones mediante la posesión de las pertinentes titulaciones no constituyen limitación alguna para el ejercicio del resto de profesiones que permiten dichas titulaciones.
+6. El Departamento competente en materia de deporte debe fomentar las medidas de acción positiva de información, orientación, motivación, asesoramiento u otros procedimientos que faciliten y fomenten la presencia de mujeres en las profesiones propias del ámbito del deporte reguladas por la presente ley. Dicho Departamento debe presentar al Parlamento, cada dos años, un informe sobre las medidas adoptadas y el resultado de estas.
+Se modifican los apartados 1, 2, 6 y se añade el apartado 1. bis por el art. 2 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Artículo 3
+
+Artículo 3. Los profesores de educación física.
+1. La profesión de profesor o profesora de educación física permite impartir, en los correspondientes niveles de enseñanza, la materia de educación física al alumnado y ejercer todas las funciones instrumentales o derivadas, como por ejemplo planificar, programar, coordinar, dirigir, tutorar y evaluar la actividad docente en el marco de la legislación básica dictada por el Estado a tal fin y por la normativa de la Generalidad de desarrollo de las competencias que le son propias. Asimismo, el ejercicio de la profesión permite impulsar, planificar, programar, coordinar, dirigir y evaluar las actividades del deporte escolar que se programen y ejerzan en los centros educativos fuera del horario escolar.
+2. Para ejercer como profesor o profesora de educación física en el marco del sistema educativo debe acreditarse la titulación exigida por la correspondiente legislación. La administración educativa puede valorar la formación universitaria específica en educación física, para la enseñanza primaria, y la formación universitaria en ciencias de la actividad física y el deporte, para la enseñanza secundaria obligatoria, el bachillerato y la formación profesional.
+3. Las disposiciones del presente artículo son de aplicación en los centros, públicos y privados, que imparten educación física en el ámbito territorial de Cataluña.
+4. El requisito de titulación a que se refiere el apartado 2 se entiende sin perjuicio del título profesional de especialización didáctica o de cualquier otro título de posgrado o títulos análogos que la vigente legislación educativa pueda exigir en cada momento y para cada nivel educativo.
+
+### Artículo 4
+
+Artículo 4. Los animadores o monitores deportivos profesionales.
+1. La profesión de animador o animadora o monitor o monitora deportivo profesional de un determinado deporte permite ejercer funciones de instrucción deportiva, formación, animación, acondicionamiento físico, mejora de la condición física, control y demás funciones análogas respecto a las personas que aprenden y practican dicho deporte, si esta práctica no está enfocada a la competición deportiva.
+2. Para ejercer la profesión de animador o animadora o monitor o monitora deportivo profesional en gimnasios, salas de acondicionamiento físico y centros deportivos análogos, de titularidad pública o privada, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) El título de técnico o técnica superior en animación de actividades físicas y deportivas.
+3. Para ejercer la profesión de animador o animadora o monitor o monitora deportivo profesional en centros que organizan actividades físicas y deportivas en lugares o espacios que suponen un riesgo intrínseco –actividades acuáticas, actividades en la nieve y en otros ámbitos del medio natural– se requiere alguna de las siguientes titulaciones.
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en las actividades deportivas en el medio natural.
+b) El título de técnico o técnica superior en animación de actividades físicas y deportivas, con formación o experiencia adecuadas a las actividades de que se trate.
+c) El título de técnico o técnica en conducción de actividades físicas y deportivas en el medio natural, con formación o experiencia en las actividades de que se trate.
+4. Para ejercer la profesión de animador o animadora o monitor o monitora deportivo profesional en actividades físicas y deportivas con personas que requieren una especial atención –deportistas en edad escolar, personas mayores de sesenta y cinco años, personas con alguna discapacidad física o psíquica, personas con problemas de salud y similares– se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) El título de maestro o maestra de primaria, con la especialidad en educación física o el correspondiente título de grado si la actividad se ejerce con niños en el marco de las actividades de deporte escolar.
+c) El título de técnico o técnica superior en animación de actividades físicas y deportivas, con formación o experiencia adecuadas a las actividades de que se trate.
+5. Para ejercer la profesión de animador o animadora o monitor o monitora deportivo profesional en actividades físicas y deportivas con animales se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia adecuadas a las actividades de que se trate.
+b) El título de técnico o técnica en conducción de actividades físicas y deportivas en el medio natural, con formación o experiencia adecuadas a las actividades de que se trate.
+6. En caso de que la actividad profesional de animador o animadora o monitor o monitora deportivo profesional se ejerza en una escuela de deporte con diversas modalidades deportivas, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) El título de maestro o maestra de primaria, con la especialidad en educación física o el correspondiente título de grado, con formación o experiencia adecuadas a las actividades de que se trate.
+c) El título de técnico o técnica superior en animación de actividades físicas y deportivas.
+7. Si la actividad profesional de animador o animadora o monitor o monitora deportivo profesional se ejerce para el acondicionamiento físico de personas particulares, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) El título de técnico o técnica superior en animación de actividades físicas y deportivas, con formación o experiencia adecuadas a las actividades de que se trate.
+8. Para ejercer la actividad profesional de animador o animadora o monitor o monitora deportivo profesional, excepto en los casos regulados por los apartados 1 al 7, se precisa la licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+9. La profesión de animador o animadora o monitor o monitora deportivo profesional, en cualquiera de las diversas tipologías de actividades reguladas por el presente artículo, si se refieren a un deporte o una modalidad deportiva reconocidos por la Secretaría General del Deporte, puede ser ejercida también por las personas que poseen el correspondiente título de técnico o técnica deportivo de grado medio o de grado superior del deporte o la disciplina deportiva, tanto si estos han sido totalmente integrados en el sistema educativo como si se encuentran en período transitorio.
+10. La prestación de los servicios propios de animador o animador o monitor o monitora deportivo profesional requiere la presencia física del profesional o la profesional en el ejercicio de las actividades deportivas.
+
+### Artículo 5
+
+Artículo 5. Los entrenadores profesionales.
+1. La profesión de entrenador o entrenadora profesional de un determinado deporte permite efectuar el entrenamiento, la selección, el asesoramiento, la planificación, la programación, la dirección, el control, la evaluación y el seguimiento de deportistas y equipos, y funciones análogas, de cara a la competición.
+2. Para ejercer la profesión de entrenador o entrenadora profesional de deportistas y equipos durante su participación en competiciones de nivel básico y medio se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en el deporte de que se trate.
+b) El título de técnico o técnica deportivo superior del deporte de que se trate.
+c) El título de técnico o técnica deportivo de grado medio del deporte de que se trate.
+3. Para ejercer la profesión de entrenador o entrenadora profesional de deportistas y equipos en competiciones de alto nivel se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en el deporte de que se trate.
+b) El título de técnico o técnica deportivo superior del deporte de que se trate, tanto si el deporte o la disciplina deportiva se integran totalmente en el sistema educativo como si se encuentra en período transitorio.
+4. Al efecto de la presente ley, se considera que las personas que ayudan al entrenador o entrenadora profesional a conducir o controlar los entrenamientos, a recuperar la condición física de los deportistas lesionados, a aplicar tests de valoración, a dar instrucciones a los deportistas, y a actuaciones análogas, ejercen también la profesión de entrenador o entrenadora profesional y, en consecuencia, deben cumplir los requisitos de titulación establecidos por el presente artículo.
+5. Las titulaciones académicas requeridas por el presente artículo solo son exigibles si los entrenadores ejercen la profesión en entidades deportivas que tienen su domicilio en Cataluña. Las titulaciones mencionadas no son exigibles a los técnicos de grado medio o superior de entidades deportivas o de deportistas de otros ámbitos territoriales que compiten en Cataluña con motivo de competiciones deportivas estatales o internacionales.
+
+### Artículo 6
+
+Artículo 6. Los directores deportivos.
+1. La profesión de director o directora deportivo permite ejercer el conjunto de actividades profesionales relacionadas con la promoción, la dirección, la gestión, la programación, la planificación, la coordinación, el control y la supervisión, y funciones análogas, en centros, servicios y establecimientos deportivos, tanto de titularidad pública como privada, aplicando los conocimientos y las técnicas propios de las ciencias del deporte. Dicha actividad, que también puede incorporar en algunos casos funciones instrumentales de gestión, no requiere la presencia física del director o directora deportivo en el ejercicio de las actividades deportivas.
+2. Si la actividad profesional de director o directora deportivo se ejerce en un centro polideportivo, se requiere alguna de las siguientes titulaciones:
+a) Licenciado o licenciada en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) Técnico o técnica superior en animación de actividades físicas y deportivas.
+3. Si la actividad profesional de director o directora deportivo se ejerce en un centro de alto rendimiento, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado.
+b) El título de técnico o técnica deportivo superior de la modalidad, la disciplina o la especialidad correspondiente al centro de alto rendimiento.
+4. Si la actividad profesional de director o directora deportivo se ejerce en una federación deportiva, una escuela o un centro deportivo de un único deporte, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en el deporte de que se trate.
+b) El título de técnico o técnica deportivo superior del deporte de que se trate.
+5. Si la actividad profesional de director o directora deportivo se ejerce en una escuela deportiva o un centro deportivo de diversos deportes, se requiere la licenciatura de ciencias de la actividad física y del deporte o el correspondiente el título de grado.
+6. Si la actividad profesional de director o directora deportivo se ejerce en una escuela deportiva o un centro deportivo de diversos deportes, pero la dirección deportiva se circunscribe solo a uno de estos deportes, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en el deporte de que se trate.
+b) El título de técnico o técnica deportivo superior del deporte de que se trate.
+7. Si la actividad profesional de director o directora deportivo se ejerce en centros que organizan actividades físicas y deportivas para personas que requieren una especial atención –deportistas en edad escolar, personas mayores de sesenta y cinco años, personas con alguna discapacidad física o psíquica, personas con problemas de salud y similares–, se requiere alguna de las siguientes titulaciones:
+a) La licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en la actividad de que se trate.
+b) El título de técnico o técnica superior en animación de actividades físicas y deportivas, con formación o experiencia en la actividad de que se trate.
+8. Si la dirección deportiva se proyecta sobre actividades físicas y deportivas correspondientes a un deporte, también pueden ejercer la profesión las personas que poseen el título de técnico o técnica deportivo superior del deporte de que se trate.
+9. Si la actividad profesional de director o directora deportivo se ejerce en actividades físicas y deportivas que se desarrollan en lugares o espacios que suponen un riesgo intrínseco –actividades acuáticas, en la nieve, de montaña y en otros ámbitos del medio natural–, se requiere la licenciatura en ciencias de la actividad física y del deporte o el correspondiente título de grado, con formación o experiencia en las actividades de que se trate.
+10. Si la dirección deportiva se proyecta sobre actividades físicas y deportivas correspondientes a un deporte también pueden ejercer la profesión de director o directora deportivo las personas que poseen el título de técnico o técnica deportivo superior del deporte de que se trate.
+
+### Artículo 6 bis
+
+Artículo 6 bis. Acreditación de la formación para el ejercicio profesional.
+1. Para el ejercicio de las profesiones del deporte a las que se refieren los artículos 2 a 6, las distintas formaciones pueden acreditarse mediante los títulos establecidos por la presente ley, y otras nuevas titulaciones exigibles a partir de su implantación, así como con las titulaciones equivalentes y homologadas obtenidas en Estados miembros de la Unión Europea.
+2. Las formaciones pueden acreditarse mediante los siguientes certificados:
+a) Certificado de profesionalidad.
+b) Certificado de créditos, unidades formativas o unidades de competencia.
+c) Certificado de superación de las formaciones mínimas para los monitores deportivos de las actividades de dinamización polideportiva, expedido por la Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña.
+d) Certificado de cursos de formación de las federaciones y los consejos deportivos, para el desarrollo de la iniciación deportiva básica, reconocido por la Escuela Catalana del Deporte.
+e) Certificados que resulten de los preceptos contenidos en el ordenamiento jurídico vigente en cada momento.
+Se añade por el art. 3 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Artículo 7
+
+Artículo 7. Reserva de denominaciones.
+1. Las denominaciones de las profesiones especificadas por los artículos 3 al 6 se pueden utilizar solo si el ejercicio profesional se ajusta a lo establecido por la presente ley y por las restantes normas de aplicación.
+2. No está permitido utilizar otras denominaciones que, por su significado o la similitud, puedan inducir a confusión.
+3. Las denominaciones de animador o animadora o monitor o monitora deportivo y de entrenador o entrenadora pueden utilizarse en cada uno de los deportes específicos si la actividad se ejerce en régimen de voluntariado en el marco del deporte federado.
+4. La denominación de entrenador o entrenadora profesional se entiende sin perjuicio de la denominación que puedan utilizar las organizaciones deportivas de clasificación de los distintos niveles de formación y titulación.
+
+### Artículo 8
+
+Artículo 8. Inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña y colegiación profesional.
+1. Pueden ejercer las profesiones del deporte reguladas por la presente ley las personas que, además de cumplir los requisitos generales que en ella se establecen, estén inscritas en el Registro Oficial de Profesionales del Deporte de Cataluña o, si procede, que sean miembros del correspondiente colegio profesional. El requisito de colegiación solo es exigible si existe el colegio profesional correspondiente.
+2. El Registro Oficial de Profesionales del Deporte de Cataluña depende del departamento competente en materia de deporte.
+3. Han de fijarse por reglamento la estructura, las funciones y el régimen de publicidad y funcionamiento del Registro Oficial de Profesionales del Deporte de Cataluña. Esta reglamentación debe incluir la posibilidad de que el departamento competente en materia de deporte pueda delegar la función pública de gestión del Registro a una corporación de derecho público, a una asociación profesional o a cualquier otra entidad que pueda recibir la delegación de funciones públicas de carácter administrativo.
+4. Todas las personas que, para el ejercicio de la profesión, acrediten los títulos de licenciatura o de grado especificados por la presente ley, o las demás titulaciones que deban colegiarse obligatoriamente de conformidad con la legislación vigente, han de inscribirse obligatoriamente en el colegio profesional correspondiente. En todos estos casos, el colegio debe facilitar, con finalidades informativas y estadísticas, al Registro Oficial de Profesionales del Deporte de Cataluña la lista de los miembros colegiales.
+5. Los requisitos de inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña y, si procede, de colegiación no pueden exigirse a los profesionales vinculados con la Administración pública mediante una relación de servicios regulada por el derecho administrativo o laboral. Sin embargo, estos profesionales deben inscribirse en dicho Registro o, si procede, deben colegiarse para el ejercicio privado de la profesión.
+6. (Anulado).
+Se declara la inconsitucionalidad y nulidad del apartado 6, en la redacción dada por el art. 4 de la Ley 7/2015, de 14 de mayo, por Sentencia 102/2017, de 20 de julio. Ref. BOE-A-2017-9661
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 6 por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Se suspende la vigencia y aplicación del apartado 6 en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se añade el apartado 6 por el art. 4 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Artículo 9
+
+Artículo 9. Principios y deberes en el ejercicio profesional.
+1. En el ejercicio de las profesiones del deporte objeto de la presente ley, los profesionales están obligados a:
+a) Prestar unos servicios adecuados a las condiciones y necesidades personales de las personas destinatarias, de conformidad con el estado de los conocimientos científicos de cada momento y con los grados de cualidad y seguridad establecidos por la normativa vigente.
+b) Velar por la salud de las personas destinatarias de sus servicios y colaborar activamente en la erradicación de las prácticas atentatorias contra la salud de los deportistas.
+c) Difundir, si procede, los valores de juego limpio que han de regir en el deporte de competición.
+d) Colaborar activamente en la realización de cualquier control de dopaje y en el cumplimiento de todas las obligaciones establecidas por la legislación antidopaje.
+d) bis Colaborar en la prevención, el control y la denuncia del uso de sustancias o fármacos prohibidos o métodos prohibidos en la práctica del deporte.
+e) Ejercer su actuación profesional con un escrupuloso cumplimiento de las obligaciones deontológicas.
+f) Respetar la personalidad, la dignidad y la intimidad de las personas destinatarias de sus servicios.
+g) Ofrecer una información suficiente y comprensible de las actividades físicas y deportivas a los deportistas que dirigen.
+h) Identificarse ante los destinatarios de sus servicios como profesionales titulados.
+i) Ejercer la praxis profesional bajo el principio de que el deporte puede contribuir al desarrollo completo y armónico del ser humano, posibilita su formación integral y favorece la consecución de más calidad de vida y bienestar social.
+j) Promover las condiciones que favorecen la igualdad efectiva de las mujeres en el deporte y su incorporación a la práctica deportiva a todos los niveles, y evitar todo acto de discriminación de cualquier naturaleza.
+k) Proyectar la actividad deportiva como opción del tiempo libre y como hábito de salud.
+l) Procurar una actualización y un perfeccionamiento constantes de sus conocimientos.
+m) Colaborar activamente en promover el debido control médico de los deportistas mediante los profesionales de la sanidad y controlar las normas alimentarias adaptadas al sexo de los deportistas y a los respectivos ciclos vitales concretos.
+n) Colaborar activamente con todos los profesionales que puedan ayudar a los deportistas a mejorar su rendimiento o su salud, atendiendo a las distintas necesidades y particularidades derivadas del género respectivo, y acompañar a las deportistas en las transformaciones del cuerpo y en los cuestionamientos que hagan en la protección de sus derechos en relación con la feminidad, sexualidad y reproducción.
+o) Ejercer la actuación profesional fomentando una práctica deportiva exenta de todo tipo de violencia, racismo o xenofobia.
+p) Promover el aprovechamiento del medio natural para ejercer las actividades deportivas y garantizar que este aprovechamiento sea sostenible y respetuoso hacia el medio natural.
+q) Ejercer su actividad profesional protegiendo a los deportistas, especialmente a los menores de edad, de toda explotación abusiva y de cualquier forma de abuso o acoso sexual. No promover el consumo de productos para la práctica de las actividades físicas y deportivas en cuya elaboración se sepa, de forma contrastada, que interviene mano de obra infantil.
+r) Rechazar siempre las retribuciones o gratificaciones de terceros que puedan condicionar negativamente los resultados de sus equipos y deportistas en las competiciones.
+s) Abstenerse de efectuar declaraciones públicas que provoquen perjuicio o descrédito a las profesiones o los profesionales objeto de regulación de la presente ley.
+t) Usar productos deportivos adecuados –calzado, ropa, material y equipamientos– en cuyo proceso de fabricación no se atente contra el medio natural. Si en el ejercicio profesional intervienen animales, deben garantizarse su buen trato y su cuidado.
+2. El incumplimiento de los principios y deberes a que se refiere el apartado 1 da lugar a la exigencia de responsabilidades disciplinarias por las administraciones públicas competentes en la materia y, si procede, por los colegios profesionales.
+Se modifica el apartado 1 por el art. 5 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Artículo 10
+
+Artículo 10. Ejercicio de las profesiones por medio de sociedades profesionales.
+1. El ejercicio de las profesiones reguladas por la presente ley puede realizarse mediante sociedades profesionales, salvo en los casos de acceso a la ocupación pública o en los que no sean admitidos por la legislación en materia educativa o por la legislación de sociedades profesionales.
+2. El ejercicio profesional mediante las sociedades profesionales, en los casos en que esté admitido, debe efectuarse de conformidad con cualquiera de las formas societarias establecidas por ley y debe cumplir los requisitos de la legislación reguladora de las sociedades profesionales.
+
+### Artículo 11
+
+Artículo 11. Seguro de responsabilidad civil.
+1. El ejercicio de las profesiones reguladas por la presente ley, cuando no es exclusivamente por cuenta ajena, requiere la previa contratación de un seguro de responsabilidad civil que cubra la indemnización por el daños que se puedan causar a terceros en la prestación de los servicios profesionales, de acuerdo con lo establecido por el artículo 9 de la Ley 7/2006, de 31 de mayo, del ejercicio de profesiones tituladas y de los colegios profesionales. Los contenidos mínimos de las pólizas de responsabilidad civil deben establecerse por reglamento.
+2. Los colegios profesionales deben adoptar las medidas necesarias para garantizar que todos sus colegiados cumplen la obligación legal de contratar un seguro de responsabilidad civil.
+3. El incumplimiento de la obligación de contratar un seguro de responsabilidad civil se considera una infracción administrativa grave de la Ley del deporte, aprobada mediante el Decreto legislativo 1/2000, del 31 de julio, sin perjuicio de las demás responsabilidades que sean exigibles de conformidad con la legislación vigente.
+Se modifica el apartado 1 por el art. 41 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
+
+### Artículo 12
+
+Artículo 12. Otros requisitos.
+1. Los requisitos de titulaciones para el ejercicio de las profesiones del deporte que regula la presente ley se entienden sin perjuicio de cualquier otra licencia, autorización o título exigible de conformidad con la legislación vigente.
+2. En caso de que la actividad profesional del deporte se ejerza al margen de la correspondiente organización federativa, no es exigible ninguna licencia federativa.
+
+### Artículo 13
+
+Artículo 13. Ejercicio de las profesiones sin el amparo de la ley.
+1. Son constitutivas de la infracción tipificada por el artículo 74.d de la Ley del deporte, sin perjuicio de las responsabilidades penales que procedan de conformidad con la legislación vigente, las siguientes actividades:
+a) Ejercer las profesiones reguladas por la presente ley sin la titulación exigida.
+b) No inscribirse en el pertinente registro.
+c) No colegiarse en caso de que la colegiación sea obligatoria.
+d) No contratar el preceptivo seguro.
+2. Las conductas consistentes en efectuar publicidad u ofertas profesionales, por cualquier tipo de medio, de las actividades deportivas incluidas en la presente ley por personas que no cumplen sus preceptos constituyen la misma infracción a que se refiere el apartado 1. Es objeto de sanción, de conformidad con lo tipificado por el artículo 77.3 de la Ley del deporte, la utilización de las denominaciones reservadas a las profesiones que contravenga a las prescripciones de la presente ley.
+3. El incumplimiento de las disposiciones de la presente ley por empresas o personas, físicas o jurídicas, que ofrecen las actividades inherentes a las profesiones que en ella se regulan da lugar a la exigencia de las responsabilidades a que se refieren los apartados 1 y 2.
+Téngase en cuenta que se suspenden hasta el 1 de enero de 2017, los apartados 1, excepto las letras c) y d), y el apartado 3 en la redacción dada por la Ley 10/2011, de 29 de diciembre, por el art. único.1 del Decreto-ley 5/2014, de 9 de diciembre. Ref. BOE-A-2015-473.
+Se suspenden hasta el 1 de enero de 2017, los apartados 1, excepto las letras c) y d), y el apartado 3 en la redacción dada por la Ley 10/2011, de 29 de diciembre, por el art. único.1 del Decreto-ley 5/2014, de 9 de diciembre. Ref. BOE-A-2015-473.
+ Se suspenden hasta el 1 de enero de 2013 los apartados 1, excepto las letras c) y d), y el apartado 3 por la disposición adicional 3 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
+
+### Artículo 14
+
+Artículo 14. Marco normativo común.
+Las profesiones reguladas por la presente ley quedan sujetas, en lo que no esté establecido, al marco normativo común sobre el ejercicio de profesiones que apruebe la administración competente en la materia.
+
+### Artículo 15
+
+Artículo 15. Reconocimiento de titulaciones obtenidas en otros estados.
+1. El reconocimiento para el ejercicio profesional de las titulaciones obtenidas en estados miembros de la Unión Europea o en estados en los que sean de aplicación la libre circulación de trabajadores, la libertad de establecimiento y la libre prestación de servicios de los profesionales queda sometido a las normas reguladoras de este reconocimiento.
+2. El reconocimiento para el ejercicio profesional de las titulaciones obtenidas en los estados que no están incluidos en el apartado 1 se determina de conformidad con las leyes y los convenios de aplicación en cada caso.
+
+### Artículo 16
+
+Artículo 16. Comisión asesora de las profesiones del deporte.
+(Derogado).
+Se deroga por el art. 222.1 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-34
+ Se modifica el apartado 1 por el art. 42 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Desarrollo del artículo 62.3 de la Ley del deporte.
+El Gobierno, a propuesta del departamento competente en materia de deporte, ha de aprobar, en el plazo de dos años a partir la entrada en vigor de la presente ley, el decreto de desarrollo de las disposiciones del artículo 62.3 de la Ley del deporte.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Habilitación de los títulos obtenidos con anterioridad a la entrada en vigor de la presente ley.
+1. Quedan habilitadas para el ejercicio de las profesiones reguladas por la presente ley, en las mismas condiciones que las establecidas para cada una de las situaciones, todas las personas que, con anterioridad a su entrada en vigor, hayan obtenido otros títulos homologados o equivalentes, por disposición normativa general o como consecuencia de un expediente individual.
+2. Quedan habilitadas las personas que, con anterioridad a la entrada en vigor de la presente ley, hayan obtenido la licenciatura o la diplomatura en educación física, de conformidad con la equivalencia de títulos vigente.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Promoción de la formación de los técnicos deportivos.
+La Secretaría General del Deporte y la Unión de Federaciones Deportivas de Cataluña han de promover conjuntamente programas de formación, presencial y semipresencial, para garantizar la adecuación de todas las formaciones de los técnicos deportivos a las necesidades propias del deporte y de todos los deportes vinculados a las federaciones deportivas de Cataluña, y garantizar su implantación en todo el territorio.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Inscripción de profesionales del sector de la dinamización de actividades polideportivas en Cataluña y del sector del ámbito federativo.
+1.La Administración deportiva de la Generalidad debe inscribir en el Registro Oficial de Profesionales del Deporte de Cataluña a las personas que se dedican a ejercer tareas en el ámbito de las actividades físicas y deportivas para niños y jóvenes menores de edad, incluyendo el personal que se encarga de la dinamización y el desarrollo de las actividades deportivas o polideportivas así como el personal que interviene en acontecimientos deportivos para menores de edad.
+2. Las actividades polideportivas a las que se refiere el apartado 1 son las realizadas en patronatos municipales, Ayuntamientos, consejos comarcales, asociaciones de madres y padres de alumnos, centros educativos, asociaciones deportivas escolares, consejos deportivos y entidades debidamente inscritas o adscritas al Registro de Entidades Deportivas, del Consejo Catalán del Deporte.
+3. La Administración de la Generalidad debe ofrecer una oferta formativa específica de nivel básico en materia polideportiva, atendiendo a los mínimos establecidos por la normativa vigente. Dicha formación debe llevarla a cabo y certificarla, una vez superada, la Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña. Esta escuela también puede expedir un certificado a los alumnos que están cursando el grado de ciencias de la actividad física y del deporte y cumplen el procedimiento establecido por el Consejo Catalán del Deporte. En ambos casos, se llevará a cabo de oficio la inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña como monitor deportivo.
+4. La Administración deportiva de la Generalidad debe inscribir en el Registro Oficial de Profesionales del Deporte de Cataluña a las personas que ejercen la iniciación deportiva básica.
+5. El Consejo Catalán del Deporte, mediante su órgano docente, está facultado para acreditar, mediante una certificación, a los monitores deportivos de la modalidad correspondiente, siempre y cuando cumplan con los requerimientos mínimos establecidos por la legislación estatal referente a la formación de técnicos deportivos. Estos técnicos deben seguir el procedimiento establecido por el Consejo Catalán del Deporte y se inscribirán de oficio en el Registro Oficial de Profesionales del Deporte de Cataluña como monitores deportivos en la modalidad correspondiente.
+6. El Departamento competente en materia de deporte debe crear una plataforma única de bolsa de trabajo de los profesionales del deporte.
+Se declara el levantamiento de la suspensión de la vigencia y aplicación de los apartados 1, 2, 4 y los incisos destacados de los apartados 3 y 5, en la redacción dada por la Ley 7/2015, de 14 de mayo, por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 854/2016, por Sentencia del TC 102/2017, de 20 de julio. Ref. BOE-A-2017-9661
+ Se suspende la vigencia y aplicación de los apartados 1, 2, 4 y los incisos destacados de los apartados 3 y 5, en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se añade por el art. 6 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Acreditación de profesionales de las modalidades y disciplinas deportivas.
+1. La Escuela Catalana del Deporte debe llevar a cabo, de forma transitoria en Cataluña, la formación de las modalidades deportivas que están inscritas en el Registro de Entidades Deportivas, del Consejo Catalán del Deporte, pero que no son reconocidas como modalidades deportivas por el Consejo Superior de Deportes, por lo que no puede desarrollarse su formación oficial y reconocida en el ámbito estatal.
+2. La Escuela Catalana del Deporte debe llevar a cabo, en período transitorio, la formación de las modalidades deportivas reconocidas por el Consejo Superior de Deportes.
+3. La formación debe cumplir los contenidos mínimos establecidos por la normativa vigente, y los profesionales que superen el curso de formación y tengan el certificado acreditativo de la Escuela Catalana del Deporte se inscriben de oficio en el Registro Oficial de Profesionales del Deporte de Cataluña, en la modalidad o especialidad que corresponda.
+Se añade por el art. 7 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Inscripción de profesionales con formación y experiencia contrastada en el ámbito deportivo en el Registro de Profesionales del Deporte de Cataluña.
+1. Las personas con formación y experiencia contrastada en el ámbito deportivo y que ejercen su actividad en el sector deportivo de acuerdo con lo establecido por el artículo 2.2 de la Ley 3/2008 pueden obtener un certificado para la inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña como profesionales del sector deportivo. La Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña, debe expedir dicho certificado, previa presentación de la correspondiente solicitud y del informe preceptivo de la correspondiente federación deportiva catalana que acredite la formación federativa y la experiencia en el ámbito deportivo del solicitante.
+2. La tramitación del certificado a que se refiere el apartado 1 cuenta, de forma excepcional, con una bonificación equiparable a la tasa por la emisión de un duplicado del certificado en el Registro Oficial de Profesionales del Deporte de Cataluña, durante un período máximo de dos años a contar desde la fecha de entrada en vigor de la presente ley.
+Se declara el levantamiento de la suspensión la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 854/2016, por Sentencia del TC 102/2017, de 20 de julio. Ref. BOE-A-2017-9661
+ Se suspende la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se añade por el art. 8 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Inscripción de profesionales del grado profesional de danza.
+Los profesionales que tienen la titulación de grado profesional de danza, regulado por el Decreto 24/2008, de 29 de enero, pueden inscribirse en el Registro Oficial de Profesionales del Deporte de Cataluña como monitores deportivos.
+Se declara el levantamiento de la suspensión la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 854/2016, por Sentencia del TC 102/2017, de 20 de julio. Ref. BOE-A-2017-9661
+ Se suspende la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se añade por el art. 9 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Ejercicio profesional sin la titulación requerida por ley.
+Los requisitos de titulación establecidos por la presente ley no afectan a la situación ni a los derechos de las personas que, a su entrada en vigor, acrediten de forma fehaciente y en las condiciones que se establezcan por reglamento, que ejercen o ejercían las actividades profesionales reguladas. Dichas personas deben inscribirse en el Registro Oficial de Profesionales del Deporte de Cataluña creado a tal fin.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Implantación paulatina de las titulaciones para la profesión de entrenador o entrenadora profesional.
+Los requisitos de titulación que establece la presente ley para la profesión de entrenador o entrenadora profesional de una modalidad, una disciplina o una especialidad deportiva deben ser exigibles a medida que se implanten las titulaciones de técnico o técnica deportivo y técnico o técnica deportivo superior en los correspondientes deportes.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Acreditación e incorporación registral para el ejercicio de las profesiones del deporte de los monitores deportivos y los entrenadores deportivos.
+1. Para el ejercicio de las profesiones de monitor deportivo y de entrenador deportivo, puede solicitarse la inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña si se dispone de alguno de los siguientes certificados:
+a) Certificado de profesionalidad de la familia profesional de actividades físicas y deportivas, expedido por el Departamento competente en materia de empresa y empleo.
+b) Certificado de créditos, unidades formativas o unidades de competencia, expedido de acuerdo con la normativa vigente.
+c) Certificado de superación de las formaciones mínimas para los monitores deportivos de las actividades de dinamización polideportiva, expedido por la Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña.
+d) Certificado de cursos de formación para el desarrollo de la iniciación deportiva básica, expedido por las federaciones deportivas y reconocido por la Escuela Catalana del Deporte.
+e) Certificados que resulten de las prescripciones contenidas en el ordenamiento vigente en cada momento.
+f) Certificado correspondiente al primer nivel o al ciclo inicial del grado medio de las enseñanzas deportivas o de la formación del nivel 1 en período transitorio, con relación a la modalidad deportiva.
+g) Certificado acreditativo de los créditos cursados en el grado de ciencias de la actividad física y del deporte, de acuerdo con los criterios fijados por la Escuela Catalana del Deporte.
+Se declara el levantamiento de la suspensión la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 854/2016, por Sentencia del TC 102/2017, de 20 de julio. Ref. BOE-A-2017-9661
+ Se suspende la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se modifica por el art. 10 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Obligación de colegiación.
+La prohibición del ejercicio de alguna de las profesiones del deporte sin la colegiación establecida por el artículo 8.4 para algunas de las titulaciones que dan acceso a la profesión solo es exigible a partir de la creación de la organización colegial.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Titulaciones de las enseñanzas deportivas de régimen especial y titulaciones federativas.
+1. A los efectos de la presente ley, son técnicos de grado medio y técnicos superiores de un deporte tanto los profesionales que ejercen un deporte incluido en las enseñanzas deportivas de régimen especial, como los profesionales que ejercen uno de los deportes que se encuentran en período transitorio, de conformidad con el Real decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
+2. Todas las titulaciones emitidas de conformidad con la legalidad vigente por las federaciones deportivas de Cataluña siguen siendo válidas y facultan a sus titulares para el ejercicio de las profesiones propias del ámbito del deporte reguladas por la presente ley, en los niveles y la modalidad o disciplina deportiva respectivos. Los titulados federativos pueden inscribirse en el Registro Oficial de Profesionales del Deporte de Cataluña.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña de profesionales de socorrismo acuático en piscinas.
+1. A los efectos de lo dispuesto por el artículo 4.2, específicamente para las actividades deportivas de socorrismo acuático en piscinas, quedan habilitadas para ejercer las funciones propias de los monitores deportivos profesionales en este tipo de actividades las personas que acreditan la formación determinada por el Decreto 95/2000, de 22 de febrero, por el que se establecen las normas sanitarias aplicables a las piscinas de uso público, modificado mediante el Decreto 165/2001, de 12 de junio, u otras formaciones contrastadas referidas a salvamento y socorrismo, y que tienen asimismo reconocida la experiencia profesional en socorrismo acuático en piscinas, como mínimo de dos temporadas, antes de la entrada en vigor del presente apartado 1.
+2. Los profesionales a los que se refiere el apartado 1 pueden obtener un certificado para la inscripción en el Registro Oficial de Profesionales del Deporte de Cataluña como profesionales en socorrismo acuático en piscinas. La Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña, debe expedir dicho certificado, previa presentación de la correspondiente solicitud.
+Se modifica el apartado 1 por el art. 222.2 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-34
+ Se levanta la suspensión acordada en la providencia del TC de 1 de marzo de 2016. Ref. BOE-A-2016-2341. por Auto de 5 de julio de 2016. Ref. BOE-A-2016-6841.
+ Se suspende la vigencia y aplicación de esta disposición, en la redacción dada por la Ley 7/2015, de 14 de mayo, desde el 22 de febrero de 2016 para las partes en el proceso y desde el 8 de marzo de 2016 para los terceros, por providencia del TC de 1 de marzo de 2016, que admite a trámite el recurso de inconstitucionalidad 857/2016. Ref. BOE-A-2016-2341.
+ Se añade por el art. 11 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Régimen temporal de suspensión de la vigencia del régimen sancionador aplicable a determinadas infracciones administrativas respecto a los profesionales del sector del salvamento y socorrismo acuático.
+1. A partir del 1 de octubre de 2020 y hasta el 30 de septiembre 2021, queda en suspenso la vigencia de los apartados 1 y 3 del artículo 13 de esta Ley por lo que respecta a los profesionales de salvamento y socorrismo acuático. Sin embargo, se mantiene la vigencia de las infracciones tipificadas en los epígrafes c y d del apartado 1 de dicho artículo, relativos a la obligación de colegiación en el caso de que sea obligatoria y a la no contratación del seguro preceptivo.
+2. El órgano competente debe resolver de oficio la finalización, por sobreseimiento, de los expedientes sancionadores que estén en tramitación en el momento de la entrada en vigor de la presente disposición transitoria por hechos que no serían constitutivos de infracción administrativa, de acuerdo con el régimen temporal de suspensión de vigencia establecido por el apartado 1.
+Se modifica por el art. 4 del Decreto-ley 14/2021, de 22 de junio. Ref. BOE-A-2021-13683
+ Se modifica por el art. 1 del Decreto-ley 20/2020, de 26 de mayo. Ref. BOE-A-2020-7384#a1
+ Se modifica por el art. único del Decreto-ley 11/2019, de 4 de junio. Ref. DOGC-f-2019-90504
+ Se añade por el art. 222.3 de la Ley 5/2017, de 28 de marzo. Ref. BOE-A-2017-7353#a2-34
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas todas las normas de rango igual o inferior que se opongan a las disposiciones de la presente ley.
+2. Quedan derogados expresamente el artículo 8 y el anexo 2 del Decreto 56/2003, de 20 de febrero, regulador de las actividades físico deportivas en el medio natural, en todo cuanto se oponga a la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley del deporte.
+Se añaden las letras p y q al artículo 74 de la Ley del deporte, relativas a dos nuevas infracciones graves, con el siguiente texto:
+«p) El incumplimiento de la obligación de registro o de colegiación, según los casos, en el libre ejercicio de la profesión establecido por la legislación vigente.
+q) El incumplimiento de la obligación del seguro de la responsabilidad civil de los profesionales del deporte en el libre ejercicio de la profesión establecido por la legislación vigente.»
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación reglamentaria general.
+Se faculta al Gobierno, a propuesta del departamento competente en materia de deporte, para que dicte las disposiciones reglamentarias necesarias para el desarrollo y la ejecución de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Habilitación expresa para la adaptación de las titulaciones.
+Se faculta al Gobierno para que, a propuesta del departamento competente en materia de deporte, adapte los requerimientos de titulación establecidos por la presente ley a las nuevas titulaciones oficiales que se aprueben como consecuencia del proceso de construcción del espacio europeo de educación superior iniciado con la Declaración de Bolonia de 1999, de las recomendaciones de la Comisión Europea y, en nombre de esta, del Centro Europeo para el Desarrollo de la Formación Profesional (Cedefop) o como consecuencia de procesos legales análogos de reforma en materia educativa, incluidas las titulaciones que resulten de las nuevas ofertas formativas.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Habilitación expresa para definir los conceptos y delimitar las atribuciones y los ámbitos materiales de las profesiones.
+Se faculta al Gobierno para que, a propuesta del departamento competente en materia de deporte, defina, si procede, los diversos conceptos a que se refiere la presente ley y delimite con más precisión las atribuciones y los ámbitos materiales de cada profesión, especialmente en lo que concierne a las actividades, colectivas o individuales, cuyo objetivo es la recreación o la salud, habiendo consultado a otras entidades y agentes sociales representativos del deporte en Cataluña.
+
+### Disposición final quinta
+
+Disposición final quinta. Delegación de la gestión del Registro Oficial de Profesionales del Deporte de Cataluña.
+Se faculta al Gobierno para que, a propuesta del departamento competente en materia de deporte, pueda delegar la gestión del Registro Oficial de Profesionales del Deporte de Cataluña a una corporación de derecho público, a una asociación profesional o a otra entidad que pueda recibir la delegación de funciones públicas de carácter administrativo. El Registro Oficial de Profesionales del Deporte de Cataluña ha de informar al Gobierno y, en su nombre, al departamento competente en materia de deporte, de la actividad y la gestión que tiene delegadas.
+
+### Disposición final sexta
+
+Disposición final sexta. Habilitación para ejercer las profesiones del deporte.
+Se faculta al Gobierno para que, a propuesta del Instituto Catalán de Cualificaciones Profesionales, regule las habilitaciones necesarias para ejercer una determinada profesión del deporte a las personas que posean el correspondiente certificado de profesionalidad de la familia profesional de las actividades físicas y deportivas y que acrediten alguna de las titulaciones exigidas por la presente ley para el ejercicio de alguna de las profesiones del deporte; que acrediten las unidades de competencia correspondientes a la profesión de que se trate, mediante los procedimientos establecidos legalmente para acreditar sus competencias profesionales, o que hayan superado los módulos formativos asociados a las unidades de competencia correspondientes a la profesión de que se trate.
+
+### Disposición final séptima
+
+Disposición final séptima. Autorización para regular la acreditación de la formación complementaria y la experiencia profesional.
+Se faculta al Departamento competente en materia de deportes para que determine, mediante una orden, el procedimiento y las condiciones para acreditar la formación complementaria y la experiencia profesional establecidas por la presente ley para poder ejercer alguna de las profesiones reguladas.
+Se modifica por el art. 12 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición final octava
+
+Disposición final octava. Reglamentación federativa y de los consejos deportivos de las actividades de voluntariado y similares.
+1. Con independencia de la exclusión que realiza la presente ley de las actividades en el marco de las relaciones de voluntariado, de amistad, familiares y análogas, las federaciones deportivas y los consejos deportivos pueden regularlas en el marco de las actividades que les son propias, de acuerdo con el texto refundido de la Ley del deporte.
+2. Para garantizar la salud de los practicantes del deporte de los que se trate, o de acuerdo con los riesgos que las actividades puedan conllevar, las federaciones deportivas y los consejos deportivos pueden desarrollar una formación mínima sobre cómo debe actuar el voluntario en la modalidad deportiva que corresponda, que debe incluir las diferencias en la atención a la salud de las mujeres. Dicha formación debe ser determinada por la Escuela Catalana del Deporte, como órgano docente del Consejo Catalán del Deporte de la Generalidad de Cataluña, con la colaboración de las correspondientes federaciones deportivas catalanas y la Unión de Consejos Deportivos de Cataluña. Realizada la formación, la Escuela Catalana del Deporte debe expedir un certificado de asistencia.
+Se modifica por el art. 13 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.
+
+### Disposición final novena
+
+Disposición final novena. Entrada en vigor.
+La presente ley entrará en vigor al día siguiente de su publicación en el Diari Oficial de la Generalitat de Catalunya. Las titulaciones habilitantes para el ejercicio de las profesiones reguladas son exigibles a partir del 1 de enero de 2009.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 23 de abril de 2008.–El Presidente, José Montilla i Aguilera.–El Consejero de la Vicepresidencia, Josep-Lluís Carod-Rovira.
+
+## [INFORMACIÓN RELACIONADA]
+
+INFORMACIÓN RELACIONADA
+ Téngase en cuenta que las referencias a los animadores o monitores deportivos profesionales se entienden hechas a los monitores deportivos y las referencias que hace a los entrenadores profesionales se entienden hechas a los entrenadores deportivos, según establece la disposición adicional 1 de la Ley 7/2015, de 14 de mayo. Ref. BOE-A-2015-6015.

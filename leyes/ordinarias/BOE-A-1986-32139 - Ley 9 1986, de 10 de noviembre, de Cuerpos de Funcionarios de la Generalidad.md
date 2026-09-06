@@ -1,0 +1,118 @@
+# Ley 9/1986, de 10 de noviembre, de Cuerpos de Funcionarios de la Generalidad.
+
+- Identificador BOE: `BOE-A-1986-32139`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-32139
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en DOGC núm. 922, de 2 de diciembre de 1987.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía promulgo la siguiente
+LEY DE CUERPOS DE FUNCIONARIOS DE LA GENERALIDAD
+Los funcionarios, que constituyen el elemento humano básico de la Función Pública de la Administración de la Generalidad de Cataluña, son los que desarrollan los puestos de trabajo permanentes que les están reservados en las correspondientes relaciones de puestos de trabajo, tal como lo establece la Ley 17/1985, de 23 de julio, de la Función Pública de la Administración de la Generalidad.
+Formalmente, los funcionarios de la Administración de la Generalidad se agrupan en cuerpos: Por un lado existen los Cuerpos de Administración General, uno por cada nivel de titulación, creados por dicha Ley 17/1985, y por otro lado existen los cuerpos creados por la presente Ley de Cuerpos de Funcionarios de la Generalidad, también uno por cada nivel de titulación, que llevan a cabo tareas de carácter profesional.
+La presente Ley respeta los niveles de titulación exigidos para ingresar en la Función Pública por el artículo 20 de la mencionada Ley de la Función Pública de la Administración de la Generalidad, los cuales constituyen una de las bases establecidas al amparo del artículo 149.1.18 de la Constitución y evitar asimismo los inconvenientes de un corporativismo rígido y anacrónico ya relegado por las organizaciones modernas.
+La estructura de la Función Pública de la Generalidad queda pues definida por unos grandes encuadres, que son los cuerpos, y por una cuidada clasificación de puestos de trabajo con la correspondiente relación, que será de hecho el verdadero puntal sobre el que ha de descansar la gestión de la Función Pública de la Generalidad. Todo ello, sin perjuicio de lo que prevén la Ley de Finanzas Públicas de la Generalidad de Cataluña y el Estatuto de la Función Interventora.
+Es imprescindible para un buen funcionamiento de la administración que el modelo de función pública diseñado sea racional y sencillo y posibilite una gestión eficaz de los efectivos humanos de la Administración de la Generalidad: ésta es la idea principal que vertebra la presente Ley.
+La organización de la Función Pública de la Generalidad de Cataluña se complementa con la del personal laboral, que ocupa los puestos de trabajo que tienen dicha clasificación en la relación de puestos de trabajo. Así, pues, al complementar el sistema de cuerpos con las relaciones de puestos de trabajo, se establece, de conformidad con las tendencias modernas en materia de personal al servicio de las administraciones públicas, un sistema mucho más flexible y dúctil a las necesidades reales del servicio y se posibilita al mismo tiempo que determinadas áreas puedan ser atendidas por personal laboral.
+Las disposiciones de la presente Ley nos acercan a los sistemas de función pública de la mayoría de países europeos, en donde se impone cada vez más un modelo organizativo mixto que combina las estructuras clásicas de función pública, regidas por el derecho administrativo, con las relaciones de puestos de trabajo, más propias del ámbito laboral.
+
+### Artículo 1
+
+Artículo 1.
+1. Se crea el Cuerpo de Titulación Superior, correspondiente al Grupo A, para ingresar en el cual es requisito imprescindible la posesión del título de Doctor, de Licenciado, de ingeniero o de Arquitecto.
+2. Las funciones que han de desarrollar los miembros del Cuerpo de Titulación Superior son las que corresponden al estudio, la propuesta, el control, la ejecución y la inspección de las tareas técnicas derivadas de su titulación académica.
+Se modifica por la disposición adicional 8.1.b) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 2
+
+Artículo 2.
+1. Se crea el Cuerpo de Diplomatura, correspondiente al Grupo B para ingresar en el cual es requisito imprescindible la posesión del título de Arquitecto técnico, Ingeniero técnico o Diplomado Universitario de primer ciclo.
+2. Las funciones que han de desarrollar los miembros del Cuerpo de Diplomatura son las derivadas del ejercicio profesional de su titulación académica y las de colaboración en las tareas específicas de estudio, control, ejecución e inspección que correspondan a los cuerpos del Grupo A.
+Se modifica por la disposición adicional 8.1.c) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 3
+
+Artículo 3.
+1. Se crea el Cuerpo Técnico de Especialistas, correspondiente al Grupo C, para ingresar en el cual es requisito imprescindible la posesión del título de Bachillerato, Formación Profesional de segundo grado o equivalente.
+2. Las funciones que han de desarrollar los miembros del Cuerpo Técnico de Especialistas son las de ejecución, colaboración y similares adecuadas a su nivel de titulación y especialización.
+Se modifica por la disposición adicional 8.1.d) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 4
+
+Artículo 4.
+1. Se crea el Cuerpo Auxiliar Técnico, correspondiente al Grupo D, para ingresar en el cual es requisito imprescindible la posesión del título de Graduado Escolar, Formación Profesional de primer grado o equivalente.
+2. Las funciones que han de desarrollar los miembros del Cuerpo Auxiliar Técnico son las de ejecución y colaboración adecuadas a su nivel de especialización.
+Se modifica por la disposición adicional 8.1.e) de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 5
+
+Artículo 5.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 5/1994, de 4 de mayo. Ref. BOE-A-1994-12665.
+
+### Artículo 6
+
+Artículo 6.
+1.a) El Cuerpo de Mozos de Escuadra se estructurará en las siguientes escalas y categorías:
+Escala básica, con las categorías de Agente y Cabo.
+Escala intermedia, con las categorías de Sargento y Sargento Mayor.
+b) La escala básica corresponde a todos los efectos al grupo D, y es preciso para acceder a ella la posesión de los títulos de Graduado Escolar, Formación Profesional de primer grado o equivalente.
+c) La escala intermedia corresponde al grupo C, y es preciso para acceder a ella el título de Bachillerato, Formación Profesional de segundo grado o equivalente.
+d) La selección para el ingreso en la categoría de Agente se efectuará mediante el sistema de oposición libre y la superación de un curso de formación de carácter selectivo en la Escuela de Policía de Cataluña. En la correspondiente convocatoria. y de acuerdo con el contenido del proceso de selección, se podrá establecer un período de prácticas, que podrá ser, en su caso, de carácter selectivo.
+e) La selección para el acceso a las categorías de Cabo, Sargento y Sargento Mayor se realizará mediante promoción interna entre el personal que tenga una antigüedad de dos años en la categoría inmediatamente inferior, que cumpla los requisitos de titulación señalados o que pertenezca al correspondiente grupo y por el sistema de concurso-oposición. Se realizará, en su caso, un curso complementario de capacitación, que podrá tener carácter selectivo.
+f) Se integrará en las respectivas categorías de Agentes, Cabos y Sargentos el personal que actualmente pertenece al Cuerpo de Mozos de Escuadra y que, disponiendo de la adecuada titulación, presta servicios con destino definitivo en la Administración de la Generalidad como Mozo, Cabo y Sargento, respectivamente. El personal con destino definitivo que no disponga de la titulación adecuada quedará en plazas singulares del grupo correspondiente.
+2. Las funciones que han de desarrollar los miembros del Cuerpo de Mozos de Escuadra son las atribuidas a la Policía Autonómica de la Generalidad, de conformidad con el artículo 13.2 del Estatuto de Autonomía de Cataluña y con la demás legislación que en cualquier momento sea aplicable.
+Se modifica el apartado 1 por la disposición adicional 24 de la Ley 20/1990, de 28 de diciembre. Ref. BOE-A-1991-3214.
+ Se modifica el apartado 1 por el art. único de la Ley 11/1988, de 7 de noviembre. Ref. BOE-A-1988-27115.
+ Téngase en cuenta la disposición final de esta ley para su aplicación inicial.
+
+### Artículo 7
+
+Artículo 7.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 17/2003, de 4 de julio. Ref. BOE-A-2003-15895.
+
+### Artículo 8
+
+Artículo 8.
+1. A los funcionarios procedentes de otras administraciones públicas, que se integren en la función pública de la Generalidad, se les respetarán el grupo del cuerpo o escala de procedencia y los derechos económicos inherentes al grado personal que tengan reconocido, y les será de aplicación la legislación de la Función Pública de la Generalidad.
+En todo caso, se regirán por las normas relativas a promoción profesional, promoción interna, régimen retributivo, situaciones administrativas y régimen disciplinario de la Administración de la Generalidad.
+2 Los funcionarios procedentes de otras administraciones públicas que se encuentren al servicio de la Generalidad en el momento de entrar en vigor la presente Ley y los que pasen a prestar servicios en adelante en virtud del proceso de transferencia se integrarán en los cuerpos y escalas de la Generalidad, de conformidad con los siguientes requisitos:
+a) Pertenecer a un cuerpo o escala para ingresar en los cuales se ha exigido el mismo nivel de titulación o bien la misma o las mismas titulaciones específicas.
+b) Tener atribuidas el cuerpo o la escala de procedencia funciones coincidentes con las atribuidas a los cuerpos de la Generalidad o que sean reconducibles a ellas.
+3. A efectos de lo dispuesto en la presente Ley, se consideran equivalentes a los grupos A, B, C, D y E los índices de proporcionalidad 10, 8, 6, 4 y 3, respectivamente.
+4. Los funcionarios de otras administraciones públicas que presten servicios con carácter definitivo en la Administración de la Generalidad se consideran integrados en la función pública de esta en plazas singulares del correspondiente grupo, si no existen cuerpos o escalas de la Generalidad de funciones homologables con los de origen.
+Se modifican los apartados 3 y 4 por la disposición adicional 21 del Decreto Legislativo 1/1997, de 31 de octubre. Ref. DOGC-f-1997-90001.
+ Se añaden los apartados 3 y 4 por el art. 73 de la Ley 9/1994, de 29 de junio. Ref. BOE-A-1994-18447.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Por lo que se refiere al personal de investigación, seguridad, penitenciario y bomberos, las vacaciones, licencias y permisos, regulados en el capítulo VII del título V de la Ley 17/1985, de 23 de julio, de la Función Pública de la Administración de la Generalidad, deberán adaptarse por medio de reglamento a los criterios derivados de la función específica que deban desarrollar dichos colectivos. Dicha regulación se verificará después de haber negociado con los representantes sindicales en los términos establecidos por dicha Ley 17/1985.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los funcionarios de los Grupos A y B que no cumplan los requisitos de titulación exigidos y que, por consiguiente, no puedan integrarse en los cuerpos y escalas de la Administración de la Generalidad quedarán en plazas singulares del grupo correspondiente, a extinguir, las cuales, a medida que se vayan extinguiendo, se convertirán en dotaciones del cuerpo o de la escala correspondiente.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Con el fin de poder dar cumplimiento a la presente Ley, se autoriza al Consejo Ejecutivo para que efectúe las transferencias de crédito necesarias en los correspondientes conceptos del Capítulo I del Presupuesto de la Generalidad de Cataluña.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Consejo Ejecutivo a dictar las disposiciones necesarias para el desarrollo de la presente Ley.
+
+Por tanto ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los tribunales y Autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 10 de noviembre de 1986.
+AGUSTI M. BASSOL I PARES
+ JORDI PUJOL
+ Consejero de Gobernación
+ Presidente de la Generalidad de Cataluña

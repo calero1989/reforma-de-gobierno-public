@@ -1,0 +1,128 @@
+# Ley 9/1985, de 10 de diciembre, de los Organos Consultivos de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1986-7101`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-7101
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 9/1985, de 10 de diciembre, de Ios Órganos Consultivos de la Administración Regional.
+Por consiguiente, al amparo del articulo 30.2 del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El derecho de los ciudadanos a participar en los asuntos públicos es un derecho constitucional reconocido en diversos preceptos de la Constitución española.
+Este derecho tiene muy variadas manifestaciones de carácter orgánico, cooperativo o funcional (informaciones públicas, denuncias, ejercicio de acciones populares, derecho de petición e iniciativas y sugerencias, entre otras), manifestaciones contempladas ya en su mayor parte, en la legislación vigente, tanto estatal corno autonómica.
+La Comunidad Autónoma ha contemplado de un modo especial la participación que se concreta en las iniciativas y sugerencias a que se refiere el artículo 34 de la Ley de Procedimiento Administrativo a través de la creación por el Decreto 10/1985, de 22 de febrero, de la Oficina de Información, Iniciativas y Reclamaciones, dependiente de la Secretaría General Técnica de la Consejería de Presidencia y, a través de la Comisión de Peticiones y Defensa del ciudadano, que regulan Ios artículos 162 y 163 del Reglamento de la Asamblea Regional.
+La presente Ley se refiere a la participación ciudadana de carácter orgánico de los grupos sociales organizado, con el objeto de unificar y sistematizar la regulación de esta forma de participación que ya se viene produciendo con una gran intensidad.
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley contiene las normas a las que ha de ajustarse la regulación de los órganos colegiados consultivos de la Administración Pública Regional.
+Se excluyen del ámbito material de aplicación de esta Ley los órganos colegiados de carácter interno de la Comunidad Autónoma, los interadministrativos, los de naturaleza distinta a la señalada en el párrafo anterior y los de igual naturaleza, cuya creación se regule específicamente por otras leyes.
+
+### Artículo 2
+
+Artículo 2.
+Los órganos colegiados consultivos a que se refiere la presente Ley podrán ser de carácter permanente o de carácter temporal.
+Los primeros, recibirán la denominación de Consejos Asesores Regionales, y los segundos, la de Comités Asesores Regionales. En ambos casos, se añadirá a continuación la indicación de la materia a que se refiere su actuación.
+
+### Artículo 3
+
+Artículo 3.
+El asesoramientos de los Consejos Asesores Regionales podrá referirse a toda la materia de la Consejería o a materias sectoriales. La función de asesoramiento de los Comités Asesores Regionales se limitará al sector a que se refiera su actuación.
+En ningún caso, la función asesora de estos órganos se referirá a casos o expedientes concretos que afecten a intereses individualizados. Cuando la función asesora afecte a intereses particulares de cualquiera de sus miembros, aquél no podrá tomar parte en las deliberaciones y votaciones del órgano.
+Cuando sobre un tema que se someta a la Asamblea Regional exista informe, propuesta o dictamen del Consejo o Comité Asesor correspondiente, el Consejo de Gobierno lo remitirá, como parte de la documentación entregada, al órgano legislativo.
+
+### Artículo 4
+
+Artículo 4.
+La determinación del número de miembros de los consejos y comités asesores se hará atendiendo a las funciones que deban desarrollar y de acuerdo con los principios de eficacia y economía, para garantizar la plena objetividad en su actuación global. De acuerdo con lo anterior, el número de miembros de los consejos y comités asesores quedará establecido en su norma de creación, sin’ que pueda exceder de veinte además de su Presidente y Vicepresidente.
+La participación de la Administración Regional se limitará a lo dispuesto en el artículo 5.º, sin perjuicio de que pueda ser asistida por el personal que estime necesario, el cual no tendrá derecho a voto.
+En dichos órganos, podrán participar representantes de otras Administraciones Públicas.
+Se modifica el primer párrafo por el art. 1 de la Ley 1/1994, de 29 de abril. Ref. BOE-A-1994-22252.
+
+### Artículo 5
+
+Artículo 5.
+Los consejos y comités asesores regionales habrán de estar adscritos al departamento de la Administración Regional competente por razón de la materia. La Presidencia de los mismos, que tendrá voto de calidad para dirimir empates en las votaciones, corresponderá, en todo caso, al Presidente, Vicepresidente o Consejero, y la Vicepresidencia al Secretario general, si su competencia se refiere a toda la materia administrativa del departamento, y, si fuera limitada, al Secretario sectorial, si lo hubiere, o Director general.
+Los consejos y comités deberán recoger en su composición y en número no inferior al 75 por 100 de sus miembros con voto, la representación de las organizaciones sociales existentes o el conjunto de expertos externos a la Administración Regional en cada sector; para la determinación del porcentaje referido no se computarán el Presidente ni el Vicepresidente del órgano.
+La Secretaría será desempeñada por un funcionario adscrito al órgano a quien corresponda la Vicepresidencia.
+Se modifica por el art. 2 de la Ley 1/1994, de 29 de abril. Ref. BOE-A-1994-22252.
+
+### Artículo 6
+
+Artículo 6.
+Podrán ser miembros de los Consejos o Comités Asesores Regionales aquellas Organizaciones cuyos fines o actividades se refieran al objeto y denominación de los citados órganos asesores.
+
+### Artículo 7
+
+Artículo 7.
+Los Consejos y Comités Asesores podrán constituir en su seno Comisiones de Trabajo para el mejor cumplimiento de sus funciones.
+
+### Artículo 8
+
+Artículo 8.
+Los Consejos y Comités Asesores Regionales se reunirán con carácter ordinario una vez al cuatrimestre como mínimo. Con carácter extraordinario, se reunirán cuando lo solicite un tercio de sus miembros, estando obligado el Presidente a convocarla en un plazo máximo de quince días.
+Las Comisiones de Trabajo se reunirán con la periodicidad que sus actividades demanden, y, como mínimo, una vez al trimestre.
+
+### Artículo 9
+
+Artículo 9.
+Los Consejos y Comités Asesores Regionales recibirán la asistencia necesaria para el desarrollo de sus funciones del órgano de la Administración Pública Regional al que estén adscritos.
+
+### Artículo 10
+
+Artículo 10.
+La participación en los Consejos Asesores no será retribuida, sin perjuicio del reembolso de los gastos que dicha participación ocasione.
+
+### Artículo 11
+
+Artículo 11.
+El funcionamiento de los consejos y comités asesores regionales se regirá, en todo lo no establecido por esta Ley, por lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica por el art. 3 de la Ley 1/1994, de 29 de abril. Ref. BOE-A-1994-22252.
+
+### Artículo 12
+
+Artículo 12.
+Los Consejos Asesores Regionales serán creados en todo caso por decreto del Consejo de Gobierno, ajustándose a lo establecido en la presente Ley y especificando su denominación, adscripción, composición y funciones.
+Los Comités Asesores Regionales serán creados por orden del Consejero correspondiente, ajustándose a lo establecido en la presente Ley y especificando su denominación, adscripción, composición y funciones.
+De la creación de los Consejos y Comités expresados, se dará conocimiento por el Gobierno a la Asamblea regional.
+
+### Disposición adicional 
+
+Disposición adicional.
+Quedan incluidos en el ámbito de aplicación de la presente Ley los siguientes órganos colegiados asesores.
+1. Adscritos a la Consejería de Economía, Hacienda y Empleo:
+Comisión de Empleo del sector de la madera.
+2. Adscritos a la Consejería de Política Territorial y Obras Públicas:
+Consejo Asesor de Medio Ambiente.
+Consejo Asesor de Transportes.
+3. Adscritos a la Consejería de Cultura y Educación:
+Consejo Asesor de Arqueología.
+Comisión Regional para la Investigación.
+Comisión Regional del Patrimonio Histórico-Artístico.
+Comité de la Región de Murcia para el Año Internacional de la Juventud.
+4. Adscritos a la Consejería de Industria, Comercio y Turismo:
+Consejo de Turismo.
+Comisión Regional de Artesanía.
+5. Adscritos a la Consejería de Agricultura, Ganadería y Pesca:
+Consejo Regional Agrario.
+Consejo de Caza.
+Junta Regional de P esca.
+Junta Regional de Acuicultura.
+6. Adscritos a la Consejería de Sanidad, Consumo y Servicios Sociales:
+Comisión Regional de Lucha contra la Droga.
+Comisión Regional de Lucha contra el Tabaquismo,
+
+### Disposición transitoria 
+
+Disposición transitoria.
+Por Decreto o por Orden, según los casos, se acomodará la denominación y regulación de los órganos de participación existentes a lo dispuesto en esta Ley, dentro de los doce meses siguientes a su entrada en vigor.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que correspondan que la hagan cumplir.
+Murcia, 10 de diciembre de 1985.
+CARLOS COLLADO MENA,
+Presidente

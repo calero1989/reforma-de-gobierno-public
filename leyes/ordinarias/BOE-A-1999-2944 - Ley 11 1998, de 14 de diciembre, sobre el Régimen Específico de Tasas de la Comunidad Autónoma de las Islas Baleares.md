@@ -1,0 +1,9752 @@
+# Ley 11/1998, de 14 de diciembre, sobre el Régimen Específico de Tasas de la Comunidad Autónoma de las Islas Baleares.
+
+- Identificador BOE: `BOE-A-1999-2944`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-2944
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LAS ISLAS BALEARES
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley sobre el Régimen Específico de Tasas de la Comunidad Autónoma de las Islas Baleares.
+EXPOSICIÓN DE MOTIVOS
+I
+La presente Ley, siguiendo las directrices emanadas de la Ley 2/1997, de 3 de junio, de Tasas de la Comunidad Autónoma de las Islas Baleares, procede a la ordenación jurídica de los elementos estructurales de todas y cada una de las tasas propias de la Comunidad Autónoma. De este modo, se da cumplimiento a las exigencias de la legalidad tributaria puesto que en su texto articulado no sólo se recoge la estructura jurídica a la que deben responder todas y cada una de las tasas que tradicionalmente venían exigiéndose en el territorio de la Comunidad Autónoma, sino también la de aquellos otros recursos financieros, que hasta fecha reciente venían exigiéndose siguiendo el régimen jurídico de los precios públicos, que por imperativo de la Sentencia del Tribunal Constitucional 185/1995, de 14 de diciembre, fueron reintegrados al ámbito de las tasas y a través de esta Ley recuperan el respaldo de la legalidad perdida. Por otra parte, se incorporan como tributos propios de la Comunidad Autónoma de las Islas Baleares aquellas exacciones creadas por la normativa estatal y que retribuyen servicios actualmente transferidos a esta Comunidad Autónoma.
+II
+Esta Ley está destinada a convivir con la Ley 2/1997, mencionada anteriormente, que debe actuar como una Ley pragmática reguladora de los principios generales que han de inspirar las tasas, de suerte que la estructura de cada una de las recogidas en el presente texto legal, tenga reflejo en los criterios básicos y comunes recogidos en aquella otra Ley. Este sistema permite, además, la perdurabilidad temporal de la Ley 2/1997, sin que, por tanto, se vea afectada por los procesos de inevitable interinidad a que se verán sometidos los elementos estructurales de cada tasa en particular para adaptarlos a las circunstancias de la realidad cambiante.
+III
+La Ley se estructura en nueve títulos, cada uno de los cuales corresponde a las distintas Consejerías que integran el Gobierno de la Comunidad Autónoma ‒con excepción de la Consejería de Trabajo, ninguno de cuyos servicios queda financiado a través de tasas‒; cada título se divide en diferentes capítulos que comprenden las diferentes tasas gestionadas por las respectivas Consejerías. Esta sistemática permite un mejor seguimiento de los servicios prestados por las distintas Consejerías susceptibles de financiarse vía tasas; se logra también, una mayor facilidad para la localización de los distintos servicios financiados mediante este recurso tributario; y por último, se aprecia así la necesaria conexión entre los servicios prestados y su instrumento de financiación.
+IV
+La estructura jurídica de las tasas aquí reguladas, sigue la tradicional de toda figura tributaria configurándose su presupuesto de hecho por la prestación de servicios públicos, la realización de actividades administrativas que se refieran, afecten o beneficien en particular a los ciudadanos, y por la utilización privativa o el aprovechamiento especial del dominio público de la Comunidad Autónoma. Una vez descrito el hecho imponible de que se trata, el texto normativo regula los obligados al pago de la tasa, ya lo sean en su condición de sujetos pasivos ‒contribuyentes y sustitutos‒, ya en su calificación de responsables tributarios.
+Por lo que se refiere a la cuantía de las tasas, la mayor parte de las aquí reguladas responden a los caracteres de los tributos fijos o de cuota fija, de suerte que sus disposiciones reguladoras no precisan de ninguna operación de cuantificación para el cálculo de la prestación tributaria, por lo tanto, realizado el hecho imponible de la tasa y configurados los obligados a pagarlas, el texto legal pasa a determinar la cuantía en que se concreta la prestación tributaria. Otras, precisan las necesarias operaciones de cuantificación al tratarse de tributos de cuota variable, por lo que en su estructura jurídica debe aparecer el concepto de base imponible para su cuantificación.
+Finalmente, el análisis de la influencia del factor tiempo en la aplicación de las tasas comprendidas en este texto legal, debe realizarse distinguiendo entre el devengo del tributo y su exigibilidad. El devengo nos permite concretar el momento en que se realiza el hecho imponible dando por ello origen a la obligación tributaria, sin que ese instante deba coincidir, necesariamente, con el de la exigibilidad del tributo que puede anteponerse o posponerse en el tiempo al del devengo.
+
+## TÍTULO I
+
+Consejerías competentes en materia de Presidencia, Hacienda y Telecomunicaciones
+Se modifica por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO I
+
+Tasa por la prestación de servicios necesarios para el otorgamiento de concesiones, autorizaciones o certificaciones relacionadas con la radiodifusión sonora a través de ondas métricas con modulación de frecuencia
+
+### Artículo 1
+
+Artículo 1. Hecho imponible.
+Constituye el hecho imponible de esta tasa:
+1. La prestación de los servicios necesarios para otorgar las concesiones y autorizaciones o certificaciones correspondientes a la radiodifusión sonora a través de ondas métricas con modulación de frecuencia.
+2. La tramitación de los expedientes y la expedición de certificaciones correspondientes a la radiodifusión sonora a través de ondas métricas con modulación de frecuencia.
+
+### Artículo 2
+
+Artículo 2. Sujeto pasivo.
+1. Están obligados al pago de esta tasa en su condición de sujetos pasivos contribuyentes, los concesionarios o quienes reciban autorización para la radiodifusión sonora a través de ondas métricas con modulación de frecuencia.
+2. Son también sujetos pasivos por esta tasa quienes soliciten la tramitación de expedientes y la expedición de certificaciones relacionadas con la radiodifusión sonora a través de ondas métricas con modulación de frecuencia.
+
+### Artículo 3
+
+Artículo 3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Conceptos
+ Pesetas
+ Si se trata de autorizaciones
+ 2.970
+ Si se trata de concesiones o certificaciones registrales
+ 6.360
+ Si la autorización o concesión requiere análisis de proyecto técnico
+ 14.840
+ Si se trata de certificaciones
+ 5.350
+
+### Artículo 3 bis
+
+Artículo 3 bis. Bonificación.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifique cualquiera de los casos a que se refiere el hecho imponible de la presente tasa, a excepción de la expedición de certificados.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.1 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 4
+
+Artículo 4. Devengo.
+La tasa se devengará:
+a) En las autorizaciones y concesiones administrativas, en el momento en que se soliciten esos servicios.
+b) En la tramitación de expediente y certificaciones, en el momento en que sean expedidos. No se tramitarán los expedientes ni se expedirán los certificados hasta tanto se haya efectuado el pago de la tasa.
+
+## CAPÍTULO II
+
+Tasas por actuaciones del Registro de Entidades Jurídicas y del protectorado de fundaciones de carácter asistencial
+Se modifica por el art. 27.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a4
+
+### Artículo 5
+
+Artículo 5. Hecho imponible.
+Constituye el hecho imponible de esta tasa:
+a) En relación con las asociaciones:
+a.1 Las inscripciones de constitución.
+a.2 Las inscripciones de modificaciones estatutarias.
+a.3 La inscripción de la identidad de los titulares de los órganos directivos o de gobierno, por cambio, baja o nueva incorporación.
+a.4 La inscripción de apertura o cambio de delegaciones.
+a.5 La inscripción de federaciones, confederaciones y uniones de asociaciones de ámbito autonómico.
+a.6 La inscripción de incorporación de asociaciones a federaciones o confederaciones de ámbito autonómico.
+a.7 La tramitación de la declaración de utilidad pública de las asociaciones.
+a.8 La inscripción de adaptación de estatutos a la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación, con modificación de estatutos.
+a.9 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo.
+b) Por lo que se refiere a las fundaciones:
+b.1 Las inscripciones de constitución.
+b.2 Las inscripciones de modificaciones estatutarias.
+b.3 La inscripción de la identidad de los titulares de los órganos de gobierno de las fundaciones, por cambio, baja o nueva incorporación.
+b.4 La inscripción de apertura o cambio de delegaciones extranjeras.
+b.5 La extinción y liquidación de las fundaciones.
+b.6 La fusión de fundaciones.
+b.7 La solicitud de expedición de certificados negativos de denominación.
+b.8 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo.
+c) Por lo que se refiere a los colegios profesionales:
+c.1 Las inscripciones de constitución.
+c.2 Las inscripciones de modificaciones estatutarias.
+c.3 Los cambios de domicilio de la sede del colegio profesional.
+c.4 La inscripción de la identidad de los titulares de los órganos directivos o de representación (juntas de gobierno, asambleas generales) por baja, cambio o nueva incorporación.
+c.5 La inscripción de delegaciones o demarcaciones de colegios profesionales de ámbito supraautonómico o de las delegaciones o demarcaciones insulares.
+c.6 La inscripción del Consejo de Colegios de ámbito insular.
+c.7 La solicitud de notas informativas.
+c.8 La absorción, fusión, segregación o disolución de un colegio profesional.
+c.9 La extinción y liquidación de un colegio profesional.
+c.10 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo.
+d) De carácter general aplicable a todas las entidades jurídicas descritas:
+d.1 La expedición de certificados.
+d.2 La confrontación de documentos.
+d.3 La confrontación de expedientes.
+d.4 Fotocopias.
+d.5 Copias en soporte informático.
+d.6 Listados.
+Se suprime el apartado d.7 y se modifica el apartado a) por la disposición final 4.1 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica por el art. 27.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a4
+
+### Artículo 6
+
+Artículo 6. Sujeto pasivo.
+Tienen la consideración de sujeto pasivo las personas físicas o jurídicas y entidades del artículo 36 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten alguna de las actividades que constituyen el hecho imponible de la tasa.
+Se modifica por el art. 27.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a4
+
+### Artículo 7
+
+Artículo 7. Cuantía y exenciones.
+1. La cuantía de la tasa será la cuota fija que a continuación se establece por cada actividad.
+a) Registro de asociaciones: conceptos:
+a.1 Por solicitud de inscripción de constitución: 50,64 euros.
+a.2 Por cada solicitud de inscripción de modificaciones estatutarias: 15,27 euros.
+a.3 Por cada solicitud de inscripción de la identidad de los titulares de los órganos directivos o de gobierno, por cambio, baja o nueva incorporación: 15,27 euros.
+a.4 La inscripción de apertura o cambio de delegaciones: 15,27 euros.
+a.5 La inscripción de federaciones, confederaciones y uniones de asociaciones de ámbito autonómico: 69,15 euros.
+a.6 La inscripción de incorporación de asociaciones a federaciones o confederaciones de ámbito autonómico: 25,32 euros.
+a.7 La tramitación de la declaración de utilidad pública de las asociaciones: 18,98 euros.
+a.8 La inscripción de adaptación de estatutos a la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación, con modificación de estatutos: 15,27 euros.
+a.9 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo: 11,90 euros.
+b) Registro de Fundaciones: conceptos:
+b.1 Por la inscripción de la constitución de una fundación: 43,60 euros.
+b.2 Por cada solicitud de inscripción de modificaciones estatutarias: 13,15 euros.
+b.3 Por cada solicitud de inscripción de la identidad de los titulares de los órganos de gobierno de las fundaciones por cambio, baja o incorporación: 13,15 euros.
+b.4 Por cada solicitud de inscripción de apertura o cambio de delegaciones de fundaciones extranjeras: 13,15 euros.
+b.5 Por las solicitudes de inscripción de extinción y liquidación de las fundaciones: 43,60 euros.
+b.6 Por la expedición de certificaciones negativas de denominación: 16,50 euros.
+b.7 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo: 10,25 euros.
+c) Registro de Colegios Profesionales: conceptos:
+c.1 Por la solicitud de inscripción de constitución de un colegio profesional: 43,60 euros.
+c.2 Por cada solicitud de inscripción de modificaciones estatutarias: 13,15 euros.
+c.3 Por cada solicitud de inscripción de cambio de domicilio de la sede del colegio profesional: 13,15 euros.
+c.4 Por cada solicitud de inscripción de la identidad de los órganos directivos o de representación por cambio, baja o nueva incorporación: 13,15 euros.
+c.5 Por cada solicitud de inscripción de delegación o de demarcación de colegios profesionales de ámbito supraautonómico o las delegaciones o demarcaciones insulares: 15,25 euros.
+c.6 Por cada solicitud de nota informativa: 8,25 euros.
+c.7 Por cada solicitud de absorción, fusión, segregación o disolución de un colegio profesional: 43,60 euros.
+c.8 Por la solicitud de extinción y liquidación de un colegio profesional: 43,60 euros.
+c.9 Cualquier otra solicitud de inscripción de actos, hechos o documentos de carácter facultativo: 10,25 euros.
+d) De carácter general aplicable a todas las entidades jurídicas (asociaciones, fundaciones y colegios profesionales) y al protectorado de fundaciones de carácter asistencial:
+d.1 Por cada expedición de certificados: 6 euros.
+d.2 Por confrontación de documentos: 17,90 euros.
+d.3 Por confrontación de expedientes: Hasta 100 hojas: 50,00 euros. De 100 hojas en adelante: 0,50 euros/hoja.
+d.4 Por fotocopias (en blanco y negro) en papel tamaño A4: 0,09 euros/hoja.
+d.5 Por cada copia en soporte informático: 1,25 euros.
+d.6 Por solicitud de listados:
+Primera hoja: 3,27 euros.
+Hojas siguientes: 1,63 euros/hoja.
+2. Están exentas del pago de estas tasas las administraciones públicas.
+Se modifica el apartado 1.a) y d.1) y se suprime el 1.d.7 por la disposición final 4.2 y 3 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica por el art. 27.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a4
+
+### Artículo 8
+
+Artículo 8. Devengo.
+1. La tasa se devengará en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+2. La tasa se exigirá en régimen de autoliquidación y deberá depositarse previamente el importe que resulte exigible. La justificación del ingreso deberá presentarse junto con la solicitud correspondiente, con excepción de los supuestos a que se refieren los puntos d.3, d.4 y d.6 del artículo anterior, casos en que la justificación del ingreso se realizará en el momento de la recogida de los documentos objeto de la solicitud.
+Se modifica por el art. 27.1 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a4
+
+## CAPÍTULO III
+
+Tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor
+Se deroga por la disposición derogatoria única.1.b) de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa regulada en este capítulo, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 bis
+
+Artículo 8 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización por parte de los órganos competentes de la Administración tributaria autonómica de las siguientes actuaciones:
+a) La inscripción de altas en el registro de vehículos afectos a la actividad de arrendamiento sin conductor y la expedición del distintivo o de la marca fiscal.
+b) La inscripción de bajas en dicho registro.
+c) La inscripción de las modificaciones registrales previstas en la normativa reguladora del registro.
+d) La emisión de un duplicado del distintivo o de la marca fiscal en caso de pérdida o deterioro.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículos 8 bis a 8 octies
+
+Artículos 8 bis a 8 octies.
+(Derogados)
+Se derogan por la disposición derogatoria única.1.b) de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se añaden por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 ter
+
+Artículo 8 ter. Sujeto pasivo.
+Son sujetos pasivos de la tasa los sujetos obligados a instar las inscripciones registrales de conformidad con lo dispuesto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 quater
+
+Artículo 8 quater. Exenciones.
+1. Están exentos del pago de la tasa la Administración General del Estado, las administraciones de las comunidades autónomas, las entidades que integran la Administración local y los demás entes de derecho público, territoriales o institucionales, cuando actúan en interés propio y directo para el cumplimiento de sus fines.
+2. La exención se concederá a petición previa de la entidad interesada, que deberá acreditar la concurrencia de los requisitos indicados anteriormente.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 quinquies
+
+Artículo 8 quinquies. Devengo.
+La tasa se devengará al presentar la solicitud que determine la iniciación de las actuaciones administrativas descritas en el hecho imponible o, en defecto de solicitud, cuando dichas actuaciones se inicien de oficio por el órgano competente para ello.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 sixties
+
+Artículo 8 sixties. Autoliquidación y pago.
+1. Los sujetos pasivos de la tasa están obligados a practicar las operaciones de autoliquidación tributaria necesarias para el ingreso de su importe.
+2. El pago de la tasa se realizará en efectivo y con anterioridad a la presentación de la solicitud correspondiente, en la forma establecida en la Orden del consejero de Hacienda y Presupuestos de 15 de diciembre de 2000, por la que se aprueban los modelos y se establece el contenido de los impresos 046 y 048 de ingreso de tasas, precios públicos, multas, sanciones y otros ingresos.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 septies
+
+Artículo 8 septies. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+a) Inscripción por altas y expedición de la marca fiscal:
+Ciclomotores, motocicletas y quads, tengan o no la consideración de vehículos especiales: 15,00 euros.
+Automóviles, vehículos mixtos para transporte de personas, motocaravanas, autocaravanas y cualquier otro vehículo a motor apto para la circulación por vías y terrenos públicos y para el transporte de personas que tenga una capacidad que no exceda de las 9 personas: 70,00 euros.
+b) Inscripción por bajas:
+Ciclomotores, motocicletas y quads, tengan o no la consideración de vehículos especiales: 10,00 euros.
+Automóviles, vehículos mixtos para transporte de personas, motocaravanas, autocaravanas y cualquier otro vehículo a motor apto para la circulación por vías y terrenos públicos y para el transporte de personas que tenga una capacidad que no exceda de las 9 personas: 50,00 euros.
+c) Inscripción por modificaciones:
+Ciclomotores, motocicletas y quads, tengan o no la consideración de vehículos especiales: 25,00 euros.
+Automóviles, vehículos mixtos para transporte de personas, motocaravanas, autocaravanas y cualquier otro vehículo a motor apto para la circulación por vías y terrenos públicos y para el transporte de personas que tenga una capacidad que no exceda de las 9 personas: 40,00 euros.
+d) Emisión de duplicados de distintivos o marcas fiscales:
+Ciclomotores, motocicletas y quads, tengan o no la consideración de vehículos especiales: 5,00 euros.
+Automóviles, vehículos mixtos para transporte de personas, motocaravanas, autocaravanas y cualquier otro vehículo a motor apto para la circulación por vías y terrenos públicos y para el transporte de personas que tenga una capacidad que no exceda de las 9 personas: 25,00 euros.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+### Artículo 8 octies
+
+Artículo 8 octies. Gestión, comprobación e inspección.
+La gestión, comprobación e inspección de las obligaciones derivadas de la tasa corresponderá a los órganos competentes de la consejería competente en materia de hacienda.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
+
+## TÍTULO II
+
+Consejería de Fomento
+
+## CAPÍTULO I
+
+Tasa por la dirección e inspección de las obras de carreteras
+
+### Artículo 9
+
+Artículo 9. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación del trabajo facultativo de dirección e inspección de las obras efectuadas a cargo del Departamento de Carreteras mediante contrato.
+
+### Artículo 10
+
+Artículo 10. Sujeto pasivo.
+Tienen la condición de sujetos pasivos los adjudicatarios de los contratos de ejecución de obras.
+
+### Artículo 11
+
+Artículo 11. Base del tributo.
+La base de la tasa será el importe líquido de las obras ejecutadas, incluyendo las adquisiciones y suministros previstos en los proyectos, según las certificaciones expedidas por el departamento.
+
+### Artículo 12
+
+Artículo 12. Tipo de gravamen.
+El tipo de gravamen será del 4 por 100.
+
+### Artículo 13
+
+Artículo 13. Devengo.
+La tasa se devengará en el momento de la expedición de cada certificación y su ingreso se realizará mediante retención que se practicará en esta certificación.
+
+## CAPÍTULO II
+
+Tasa por control de calidad de las obras públicas en las carreteras
+
+### Artículo 14
+
+Artículo 14. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización, por la Administración, de ensayos y análisis de materiales y unidades de obra que en cada caso resulten pertinentes, de acuerdo con las previsiones de la dirección de obra según la normativa vigente, siempre que el coste a repercutir al sujeto pasivo no supere el 1 por 100 del presupuesto de obra.
+
+### Artículo 15
+
+Artículo 15. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes, habiendo contratado con la Administración la ejecución de obras públicas de carreteras, sean requeridos por la dirección facultativa para que lleven a cabo los ensayos y análisis de materiales y de unidades de obra a que se refiere el hecho imponible.
+
+### Artículo 16
+
+Artículo 16. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas, teniendo en cuenta, sin embargo, que la cuota no puede superar el 1 por 100 del presupuesto de obra:
+Conceptos
+ Pesetas
+ Hormigones. Rotura
+ Curado y rotura a comprensión de probetas cilíndricas de hormigón. UNE 7242. Una probeta
+ 915
+ Refrendo de una probeta cilíndrica de hormigón con mortero de azufre. UNE 7242. Una cara
+ 550
+ Corte, refrentado y rotura a compresión de probeta testigo extraída con trepano. UNE 7241 y UNE 7242. Una probeta
+ 4.750
+ Dosificación, incluyendo: Estudio teórico confección de series de 6 probetas cilíndricas de 15 × 30 centímetros de 3 amasadas distintas, curado, refrendado y rotura de las mismas a compresión a tresedades. Una dosificación
+ 73.000
+ Porosidad en hormigón fraguado. Una muestra
+ 8.220
+ Densidad del hormigón fraguado. Una muestra
+ 8.220
+ Fabricación
+ Toma de muestra de hormigón fresco, incluyendo: Dos determinaciones de su consistencia, confección de una serie de probetas cilíndricas de 15 × 30 centímetros. PNE 83300
+ 6.940
+ Toma de muestra de hormigón, endurecido con trepano de 75 mm de diámetro. Una probeta testigo
+ 13.700
+ Por cada probeta testigo más en el mismo desplazamiento
+ 6.390
+ Toma de muestra de hormigón endurecido con trepano de 100 milímetros. Una probeta testigo
+ 16.435
+ Por cada probeta testigo más en el mismo desplazamiento
+ 8.220
+ Toma de muestra de hormigón endurecido con trepano de 150 milímetros. Una probeta testigo
+ 26.210
+ Por cada probeta testigo más en el mismo desplazamiento
+ 13.700
+ Suelos
+ Toma de muestra (cada una)
+ 290
+ Límites Atterberg
+ 2.910
+ Límites Atterberg (simplificado)
+ 2.210
+ Resultado «no plástico»
+ 1.460
+ Análisis granulométrico por tamizado en seco.
+ 2.330
+ Material que pasa por el tamiz 0.08
+ 1.755
+ Análisis granulométrico completo de suelos.
+ 4.540
+ Determinación de humedad natural
+ 455
+ Equivalente arena
+ 2.300
+ Materia orgánica (agua oxigenada)
+ 2.030
+ Materia orgánica (dicromato)
+ 3.290
+ Determinación de PH
+ 930
+ Proctor normal
+ 5.250
+ Proctor modificado
+ 7.960
+ CBR sin protector (un punto)
+ 7.105
+ CBR sin protector (tres puntos)
+ 15.630
+ CBR completo
+ 23.745
+ Placa de carga VSS
+ 16.875
+ Densidad in situ
+ 1.170
+ Código de Boston
+ 127.855
+ Capas granulares
+ Toma de muestras (cada una)
+ 290
+ Análisis granulométricos en seco
+ 3.970
+ Análisis granulométricos con lavado
+ 4.145
+ Materia que pasa por el tamiz 0,08 UNE
+ 2.330
+ Desgaste Los Ángeles
+ 9.325
+ Peso específico real del árido fino
+ 3.680
+ Peso específico real del árido grueso
+ 4.145
+ Equivalente arena
+ 1.745
+ Materia orgánica (agua oxigenada)
+ 1.105
+ Materia orgánica (dicromato)
+ 3.290
+ Densidad aparente de áridos
+ 1.745
+ Coeficiente de pulimento acelerado
+ 30.685
+ Índice de lajas y agujas
+ 5.250
+ Coeficientes de forma
+ 14.175
+ Estabilidad a los sulfatos (5 ciclos)
+ 9.570
+ Determinación del PH
+ 930
+ Grava cemento
+ Estudio de dosificación por m3(sin contar los granulométricos)
+ 6.445
+ Fabricación y conservación de una serie de probetas compactadas con maza
+ 8.285
+ Fabricación y conservación de una serie de probetas compactadas con martillo vibrante
+ 5.525
+ Rotura a compresión de una probeta grava cemento
+ 1.460
+ Áridos para aglomerados
+ Desgaste Los Ángeles
+ 9.325
+ Coeficiente de pulimento acelerado CPA
+ 30.685
+ Índice de lajas y agujas
+ 5.250
+ Fíller
+ Superficie específica
+ 3.500
+ Granulometría por tamizado
+ 2.295
+ Densidad aparente de tolueno
+ 2.910
+ Densidad relativa
+ 3.180
+ Coeficiente de emulsionabilidad
+ 5.250
+ Coeficiente de actividad hidrofílica
+ 4.080
+ Preparación de mezclas fíller-betún
+ 1.170
+ Capas granulares y áridos para hormigones hidráulicos o asfálticos
+ Desgaste Los Ángeles
+ 9.325
+ Coeficientes de pulimento acelerado CPA
+ 30.685
+ Índice de lajas y agujas
+ 4.960
+ Betunes asfálticos
+ Densidad relativa
+ 3.500
+ Contenido de agua
+ 2.755
+ Viscosidad Saybolt
+ 7.980
+ Penetración a 25o5s
+ 2.330
+ Punto de reblandecimiento (anillo y bola)
+ 2.910
+ Punto de inflamación Cleveland
+ 2.910
+ Pérdida de calentamiento
+ 3.225
+ Punto de fragilidad Fraas
+ 8.750
+ Emulsiones asfálticas
+ Contenido de agua
+ 2.756
+ Destilación
+ 6.995
+ Sedimentación
+ 3.215
+ Estabilidad (al cloruro sódico)
+ 4.670
+ Tamizado
+ 3.015
+ Miscibilidad con agua
+ 3.015
+ Mezcla de cemento
+ 3.015
+ Envuelta con áridos
+ 1.755
+ Helacidad
+ 2.755
+ Residuo por evaporación
+ 2.755
+ Determinación del PH
+ 4.080
+ Resistencia al desplazamiento por agua
+ 2.910
+ Ensayos sobre residuos, mismos precios que betunes asfálticos más el precio de la destilación
+ 4.616
+ Betunes fluidificados
+ Viscosidad Saybolt
+ 4.080
+ Destilación
+ 8.750
+ Equivalente eptano-xileno
+ 6.995
+ Contenido agua
+ 2.755
+ Ensayos sobre residuos, mismos precios que betunes asfálticos más el precio de la destilación
+ 5.770
+ Mezclas bituminosas en caliente
+ Cálculo de dosificación por el método Marshall
+ 16.330
+ Fabricación de probetas Marshall (3 probetas)
+ 15.040
+ Densidad relativa de probetas Marshall
+ 2.330
+ Estabilidad y deformación
+ 2.330
+ Cálculo de huecos
+ 3.500
+ Tumecimientos de mezclas bituminosas
+ 5.825
+ Extracción de betún
+ 6.990
+ Granulometría de áridos extraídos
+ 4.670
+ Extracción de testigos Korit
+ 6.990
+ Medidas de carreteras
+ Deflexiones medidas por viga Benkelman. Por ensayo
+ 17.650
+ Péndulo PRL. Por ensayo
+ 17.650
+ Desplazamiento de coche (pesetas/km)
+ 35
+ Pinturas
+ Determinación de la Retrorreflexión de las marcas viales reflexivas. Por medida
+ 1.270
+ Determinación de las coordenadas cromáticas.
+ Por medida
+ 1.590
+ Determinación del peso de pintura y microesferas de vidrio aplicadas por metro cuadrado en las chapas utilizadas en el control de aplicación de marcas viales. Por ensayo
+ 1.590
+ Medida de la consistencia de pinturas y esmaltes con el viscosímetro Krebs-Stormer. Por ensayo
+ 1.270
+ Cálculo del tiempo de secado en pinturas para bandas de carreteras. Por ensayo
+ 1.270
+ Cálculo del porcentaje de pintura seca. Por ensayo
+ 1.270
+ Otros ensayos
+ Ensayo Cántabro para mezclas bituminosas porosas incluida fabricación de tres probetas
+ 26.500
+ Determinación de la regularidad superficial mediante el uso del perfilómetro. Por metro lineal
+ 160
+ Determinación de la permeabilidad mediante el uso del perméametro LCS. Por ensayo
+ 2.330
+
+### Artículo 17
+
+Artículo 17. Devengo.
+La tasa se devengará en el momento en que sea prestado el servicio administrativo a que se refiere el hecho imponible.
+
+## CAPÍTULO III
+
+Tasa por servicios administrativos generales en materia de transportes
+
+### Artículo 18
+
+Artículo 18. Hecho imponible.
+1. Constituye el hecho imponible de la tasa la prestación de los siguientes servicios:
+a) Expedición de certificados.
+b) Compulsa de documentos.
+c) Diligencias de libros y otros documentos.
+d) Expedición de duplicados o copias de documentos.
+e) Consulta de expedientes archivados.
+f) Inscripción en los registros.
+g) Expedición de modelos oficiales.
+2. No se exigirá esta tasa cuando el hecho imponible se realice de forma simultánea con el de otros, que graven servicios y actuaciones administrativas de las recogidas en el presente título II y en materia de transportes.
+Se añade la letra g) al apartado 1 por la disposición final 3.1 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 19
+
+Artículo 19. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten cualquiera de los servicios o actuaciones que constituyen el hecho imponible o se beneficien directamente de los mismos.
+
+### Artículo 20
+
+Artículo 20. Cuantía.
+Los servicios y actuaciones administrativas cuya prestación constituye el hecho imponible de la tasa quedarán gravados de la siguiente manera:
+Número
+ Conceptos
+ Pesetas
+ A
+ Servicios administrativos:
+ A1
+ Expedición de certificado
+ 795
+ A2
+ Compulsa de documento
+ 370
+ A3
+ Diligencia de libro o documento
+ 795
+ A4
+ Expedición de duplicado o copia de documento
+ 795
+ A5
+ Consulta e expediente archivado
+ 370
+ A6
+ Inscripción en el registro
+ 795
+ A7
+ Expedición de modelos oficiales
+ 3,03 €
+Se añade el concepto A7 por la disposición final 3.2 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 21
+
+Artículo 21. Devengo.
+La tasa se devengará en el momento de presentación de la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+En caso de no hacerse solicitud, la tasa se pagará en el momento de iniciarse la prestación administrativa.
+
+## CAPÍTULO IV
+
+Tasa por autorizaciones de transporte por carretera y de actividades auxiliares y complementarias, por expedición de tarjetas para la utilización del mecanismo de control en el sector del transporte por carretera, y por calificación inicial y formación continua de los conductores de determinados vehículos destinados al transporte por carretera
+Se modifica por la disposición final 2.1 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por el art. 20.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 4.1 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 22
+
+Artículo 22. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los siguientes servicios:
+a) El otorgamiento, la rehabilitación, el visado, la modificación y la renuncia de las autorizaciones habilitadas para la realización del transporte por carretera de viajeros y de mercancías, y de servicio público y privado complementario, así como para el ejercicio de las actividades auxiliares y complementarias del transporte, definidas en la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres, y en la normativa de desarrollo.
+b) La primera y las posteriores solicitudes de la tarjeta para la utilización del mecanismo de control del transporte por carretera a que se refiere el Reglamento CEE 1360/2002, de 24 de septiembre, de modificación del Reglamento 3821/1985.
+c) La homologación de centros y cursos, el visado de los centros, la celebración de los exámenes, la expedición del certificado de aptitud profesional y la expedición, la renovación y el duplicado de la tarjeta de calificación profesional a que se refiere el Real Decreto 1032/2007, de 20 de julio, por el cual se regula la calificación inicial y la formación continua de los conductores de determinados vehículos destinados al transporte por carretera.
+Se modifica la letra a) por la disposición final 1.1 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por el art. 20.2 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se añade el segundo párrafo por el art. 4.2 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 23
+
+Artículo 23. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten cualquiera de los servicios o actuaciones que constituyen el hecho imponible.
+
+### Artículo 24
+
+Artículo 24. Cuantía.
+Los servicios y las actuaciones administrativas, cuya prestación constituye el hecho imponible de la tasa, se gravan de la siguiente manera:
+Conceptos
+ Euros
+ A
+ Autorizaciones del transporte.
+ A1
+ Servicio público de mercancías en vehículo pesado y servicio discrecional de viajeros en vehículos de más de nueve plazas. Otorgamiento de la autorización, aumento de flota, rehabilitación y cambio de titular.
+ 53,73
+ A2
+ Servicio público de mercancías en vehículo pesado y servicio discrecional de viajeros en vehículos de más de nueve plazas. Visado.
+ 40,28
+ A3
+ Servicio público de mercancías en vehículo ligero, servicio discrecional de viajeros en vehículos de hasta nueve plazas y servicio privado complementario. Otorgamiento de la autorización, aumento de flota, rehabilitación y cambio de titular.
+ 40,28
+ A4
+ Servicio público de mercancías en vehículo ligero, servicio discrecional de viajeros en vehículos de hasta nueve plazas y servicio privado complementario. Visado.
+ 22,18
+ A5
+ Servicio público de mercancías y de viajeros y servicio privado complementario. Sustitución de vehículo, modificación de datos y renuncia.
+ 13,45
+ A6
+ Autorizaciones del servicio regular de uso especial. Otorgamiento de la autorización y visado.
+ 40,28
+ A7
+ Autorizaciones del servicio regular de uso especial. Modificación de datos y renuncia.
+ 13,45
+ A8
+ Alquiler de vehículos con conductor. Otorgamiento de la autorización y rehabilitación.
+ 40,28
+ A9
+ Alquiler de vehículos con conductor. Sustitución de vehículo, modificación de datos y renuncia.
+ 13,45
+ B
+ Autorizaciones para el ejercicio de actividades auxiliares y complementarias del transporte.
+ B1
+ Agencias de transporte, transitarios y mayoristas distribuidores. Otorgamiento de la autorización y visado.
+ 53,73
+ B2
+ Agencias de transporte, transitarios y mayoristas distribuidores. Modificación de datos y renuncia.
+ 13,45
+ C
+ Solicitud y expedición de la tarjeta para la utilización del mecanismo de control en el sector del transporte por carretera al que se refiere el Reglamento (CEE) 1360/2002, de 24 de septiembre, de modificación del Reglamento (CEE) 3821/1985 (añadido por el artículo 4 de la Ley 10/2003, de 22 de diciembre, de medidas tributarias y administrativas).
+ C1
+ Cuota fija por solicitud, renovación o duplicado de la tarjeta.
+ 28,67
+ D
+ Calificación inicial y formación continua de los conductores de determinados vehículos destinados al transporte por carretera, a las que se refiere el Real Decreto 1032/2007, de 20 de julio.
+ D1
+ Homologación de centro.
+ 346,70
+ D2
+ Visado de centro.
+ 231,13
+ D3
+ Homologación de curso.
+ 115,57
+ D4
+ Pruebas para la obtención del certificado de aptitud profesional acreditativo de la calificación inicial.
+ 24,27
+ D5
+ Expedición del certificado de aptitud profesional.
+ 7,50
+ D6
+ Expedición, renovación y duplicado de la tarjeta de calificación del conductor.
+ 28,88
+Se modifica por la disposición final 1.2 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade el apartado D) por el art. 20.3 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 4.3 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 24 bis
+
+Artículo 24 bis. Bonificación.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifique cualquiera de los conceptos a que se refieren los apartados A1, A8 y B1 del artículo 24 de esta ley, solo en lo referente a las autorizaciones.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se modifica el apartado 1 por la disposición final 1.4 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.2 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 25
+
+Artículo 25. Devengo.
+La tasa se devengará en el momento de presentación de la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO V
+
+Tasa para la obtención del certificado de competencia profesional de los transportistas y del certificado de formación de los consejeros de seguridad en el transporte de mercancías peligrosas por carretera
+Se modifica por la disposición final 1.3 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 26
+
+Artículo 26. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios y actuaciones inherentes a la verificación del cumplimiento de la exigencia de unos conocimientos mínimos para el acceso a la profesión de transportista y de actividades auxiliares y complementarias del transporte, definidas en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y normativa de desarrollo.
+
+### Artículo 27
+
+Artículo 27. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la admisión para la realización de las pruebas previamente convocadas, inherentes a la verificación de los conocimientos exigibles en que consiste el hecho imponible.
+
+### Artículo 28
+
+Artículo 28. Cuantía.
+Los servicios y las actuaciones administrativas, cuya prestación constituye el hecho imponible, quedan gravados de la manera siguiente:
+Conceptos
+ Euros
+ A
+ Pruebas.
+ A1
+ Para la obtención del certificado de competencia profesional para el transporte público interior e internacional de viajeros por carretera.
+ 24,00
+ A2
+ Para la obtención del certificado de competencia profesional para el transporte público interior e internacional de mercancías por carretera.
+ 24,00
+ A3
+ Para la obtención del título de consejero de seguridad para el transporte de mercancías peligrosas por carretera, ferrocarril o vía navegable.
+ 23,05
+Se modifica por la disposición final 1.5 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica el apartado A3 por el art. 5 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a5
+
+### Artículo 29
+
+Artículo 29. Devengo.
+La tasa se devengará en el momento de presentación de la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO VI
+
+Tasa por la expedición de la tarjeta de movilidad eléctrica
+Se añade por la disposición final 1.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se deja sin contenido por el art. 38.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 30
+
+Artículo 30. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la tarjeta de movilidad eléctrica para entidades jurídicas privadas, tanto en el supuesto de primera expedición como en el de expedición de duplicados.
+Se añade por la disposición final 1.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se deja sin contenido por el art. 38.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 31
+
+Artículo 31. Sujeto pasivo y exenciones.
+1. Son sujetos pasivos de esta tasa las entidades jurídicas privadas que obtengan la primera expedición o el duplicado de la tarjeta de movilidad eléctrica.
+2. Quedan exentos del pago de la tasa los sujetos pasivos que acrediten alguna de las siguientes condiciones:
+a) Ser titular de la tarjeta de movilidad eléctrica expedida por la dirección general competente en materia de energía por lo que respecta a la primera expedición.
+b) La expedición de duplicados de la tarjeta en los casos de funcionamiento deficiente no imputable al titular.
+Se añade por la disposición final 1.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se deja sin contenido por el art. 38.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 32
+
+Artículo 32. Cuantía.
+La tasa se exige de acuerdo con las siguientes cuantías:
+a) Primera expedición: 3,08 €.
+b) Duplicado: 8,22 €.
+Se añade por la disposición final 1.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se deja sin contenido por el art. 38.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 33
+
+Artículo 33. Devengo.
+La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 1.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se deja sin contenido por el art. 38.2 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO VII
+
+Tasa por servicios y actuaciones en materia de arquitectura y vivienda
+
+### Artículo 34
+
+Artículo 34. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de las actuaciones y los servicios siguientes:
+– Apertura y despacho de expediente.
+– Cálculo de precio máximo de venta y renta de viviendas de protección oficial y, si corresponde, de viviendas a precio tasado o rehabilitadas.
+– Visado de contrato.
+– Visado de vivienda a precio tasado.
+– Compulsa de documento.
+– Emisión de certificado.
+– Calificación provisional de vivienda de protección oficial o rehabilitada.
+Se modifica por la disposición final 1.1 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 35
+
+Artículo 35. Sujeto pasivo.
+Son sujetos pasivos de esa tasa quienes soliciten cualesquiera de los servicios o actuaciones que constituyen el hecho imponible de la misma.
+
+### Artículo 36
+
+Artículo 36. Cuantía.
+Las actuaciones y los servicios cuya prestación constituye el hecho imponible de la tasa quedarán gravados de la siguiente manera:
+Concepto
+ Cuantía
+ –
+ Euros
+ 1) Apertura y despacho de expediente.
+ 15,08
+ 2) Cálculo de precio máximo de venta y renta de viviendas de protección oficial y, si corresponde, de viviendas a precio tasado o rehabilitadas.
+ 40,17
+ 3) Visado de contrato.
+ 4,00
+ 4) Visado de vivienda a precio tasado.
+ 4,00
+ 5) Compulsa de documento.
+ 4,00
+ 6) Emisión de certificado.
+ 4,00
+ 7) Calificación provisional de vivienda de protección oficial o rehabilitada.
+ 0,07% sobre el presupuesto protegible
+Se modifica por la disposición final 1.2 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 37
+
+Artículo 37. Devengo.
+La tasa se devengará en el momento en que sea prestado el servicio administrativo que constituye el hecho imponible.
+
+## CAPÍTULO VIII
+
+Tasa por reconocimiento de la capacitación para el ejercicio de actividades náuticas de recreo
+
+### Artículo 38
+
+Artículo 38. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por parte de la Administración competente en materia de enseñanzas náutico-deportivas, de los servicios y actuaciones inherentes a la comprobación, reconocimiento y acreditación de la capacitación para el ejercicio de actividades náuticas de recreo.
+
+### Artículo 39
+
+Artículo 39. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten o reciban cualesquiera de los servicios o actuaciones que constituyen el hecho imponible de la misma.
+
+### Artículo 40
+
+Artículo 40. Cuantía.
+Los servicios y actuaciones administrativas cuya prestación constituye el hecho imponible de la tasa quedarán gravados de la siguiente manera:
+Núm.
+ Conceptos
+ Pesetas
+ A
+ Expedición de Título y tarjeta de identidad náutica de recreo:
+ A1
+ Título y tarjeta de capitán de yate
+ 12.825
+ A2
+ Título y tarjeta de patrón de yate de altura
+ 12.825
+ A3
+ Título y tarjeta de patrón de yate
+ 3.180
+ A4
+ Título y tarjeta de patrón de yate de litoral
+ 3.180
+ A5
+ Título y tarjeta de patrón de embarcaciones de recreo
+ 3.180
+ A6
+ Título y tarjeta de P.E.R. restringido a motor
+ 3.180
+ A7
+ Título y tarjeta de P.E. deportivas a motor de 1.a
+ 1.295
+ A8
+ Título y tarjeta de P.E. deportivas a motor de 2.a
+ 1.295
+ A9
+ Título y tarjeta de P.E. deportivas a vela
+ 1.295
+ A10
+ Título y tarjeta de P.E.R. Por la renovación de una de las tarjetas P.E.E. motor de 1.ao de P.E.E. de vela estando en posesión de ambas (convalidación automática)
+ 3.180
+ A11
+ Convalidación de titulación extranjera
+ 3.180
+ A12
+ Convalidación de titulación nacional
+ 1.295
+ A13
+ Renovación de tarjeta identidad náutica de recreo
+ 740
+ A14
+ Patrón para navegación básica
+ 3.180
+ A15
+ Autorización para el manejo de motos acuáticas
+ 3.180
+ B
+ Exámenes para obtención de titulaciones de náutica de recreo:
+ B1
+ Capitán de yate
+ 10.600
+ B2
+ Patrón de yate
+ 8.480
+ B3
+ Patrón de yate de altura
+ 8.480
+ B4
+ Patrón de embarcaciones de recreo
+ 6.360
+ B5
+ Patrón para navegación básica
+ 6.360
+ B6
+ Autorización para el manejo de motos acuáticas
+ 6.360
+
+### Artículo 41
+
+Artículo 41. Devengo.
+La obligación de pago de la tasa surgirá en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO IX
+
+Tasa por realización de exámenes prácticos para la obtención de titulaciones náuticas de recreo
+
+### Artículo 42
+
+Artículo 42. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por la Administración competente en materia de enseñanzas náutico-deportivas de los servicios y actuaciones inherentes a la comprobación, reconocimiento y acreditación de la capacitación para el ejercicio de actividades náuticas de recreo en su vertiente práctica.
+
+### Artículo 43
+
+Artículo 43. Sujeto pasivo.
+Están obligados al pago de la tasa las personas físicas que lo soliciten o aquellas a las cuales se preste cualesquiera de los servicios o actuaciones que constituyen el hecho imponible de la misma.
+
+### Artículo 44
+
+Artículo 44. Cuantía.
+Los servicios y actuaciones administrativas cuya prestación constituye el hecho imponible de la tasa quedarán gravados de la siguiente manera:
+Núm.
+ Concepto
+ Pesetas
+ E1
+ Capitán de yate.
+ 15.900
+ E2
+ Patrón de yate.
+ 10.600
+ E3
+ Patrón de embarcación de recreo.
+ 8.480
+ E4
+ Patrón para navegación básica.
+ 5.300
+
+### Artículo 45
+
+Artículo 45. Devengo.
+La obligación de pago de la tasa nacerá en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO X
+
+Tasa por alquiler de embarcaciones de recreo
+
+### Artículo 46
+
+Artículo 46. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por la Administración competente en materia de transporte marítimo de los servicios y actuaciones inherentes a la comprobación, reconocimiento y acreditación de la capacitación para el ejercicio de actividades de alquiler de embarcaciones de recreo.
+
+### Artículo 47
+
+Artículo 47. Sujeto pasivo.
+Están obligadas al pago de la tasa las personas que lo soliciten o aquellas a las cuales se preste cualesquiera de los servicios o actuaciones que constituyen el hecho imponible de la misma.
+
+### Artículo 48
+
+Artículo 48. Cuantía.
+Los servicios y las actuaciones administrativas cuya prestación constituye el hecho imponible de la tasa quedaran gravados de la siguiente manera:
+Núm.
+ Concepto
+ Euros
+ C1
+ Autorización referida a embarcaciones de recreo para alquilar, de hasta 10 metros de eslora
+ 51,72
+ C2
+ Autorización referida a embarcaciones de recreo para alquilar, de más de 10 hasta 15 metros de eslora
+ 103,52
+ C3
+ Autorización referida a embarcaciones de recreo para alquilar, de más de 15 hasta 20 metros de eslora
+ 155,23
+ C4
+ Autorización referida a embarcaciones de recreo para alquilar, de más de 20 hasta a 25 metros de eslora
+ 232,84
+ C5
+ Autorización referida a embarcaciones de recreo para alquilar de más de 25 metros de eslora
+ 349,26
+Se modifica por la disposición final 1.1 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 48 bis
+
+Artículo 48 bis. Bonificación.
+1. Se aplicará una bonificación del 75% a la cuantía de la tasa para la autorización del alquiler de embarcaciones cuando se trate de embarcaciones propulsadas por energías renovables y de embarcaciones tradicionales de madera así declaradas por la administración competente, con independencia de su eslora.
+2. El hecho que sea aplicable la bonificación no exime de la obligación de presentar la declaración responsable o solicitud de autorización correspondiente.»
+Se añade por la disposición final 1.2 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 49
+
+Artículo 49. Devengo.
+La obligación de pago de la tasa nacerá en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO XI
+
+Tasa por autorización para el ejercicio de la actividad de escuelas náutico-deportivas y centros lucrativos de actividades náuticas y actividades subacuáticas
+Se modifica por el art. 6.1 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a6
+
+### Artículo 50
+
+Artículo 50. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación por la Administración competente en materia de enseñanzas náuticas y subacuático-deportivas de los servicios y actuaciones inherentes a la comprobación, reconocimiento y acreditación de la capacitación de las escuelas y centros citados para el ejercicio de sus actividades.
+
+### Artículo 51
+
+Artículo 51. Sujeto pasivo.
+Están obligadas al pago de la tasa las personas que lo soliciten o aquellas a las cuales se preste cualesquiera de los servicios o actuaciones que constituyen el hecho imponible de la misma.
+
+### Artículo 52
+
+Artículo 52. Cuantía.
+Los servicios y actuaciones administrativas cuya prestación constituye el hecho imponible de la tasa quedarán gravados de la siguiente manera:
+Núm.
+ Concepto
+ Pesetas
+ D1
+ Autorización para el ejercicio de la actividad de las escuelas náutico-deportivas y centros lucrativos de actividades náuticas y actividades subacuáticas.
+ 5.100 pesetas
+ (30,65 euros)
+Se modifica el apartado D1 por el art. 6.2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a6
+
+### Artículo 52 bis
+
+Artículo 52 bis. Bonificación.
+(Derogado)
+Se deroga por la disposición derogatoria única.b) de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.3 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 53
+
+Artículo 53. Devengo.
+La obligación de pago de la tasa nacerá en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+
+## CAPÍTULO XII
+
+Tasa general por los servicios administrativos en materia de autorización de obras, instalaciones o actividades en los terrenos afectos al ferrocarril
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 53 bis
+
+Artículo 53 bis. Hecho imponible.
+Constituyen el hecho imponible de la tasa las actuaciones administrativas inherentes al procedimiento de autorización para llevar a cabo obras, instalaciones o actividades en las zonas de dominio público y de protección afectos al ferrocarril, incluida la emisión de informes preceptivos de carácter técnico.
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 53 ter
+
+Artículo 53 ter. Sujeto pasivo y exenciones.
+1. Son sujetos pasivos de la tasa a título de contribuyentes las personas físicas o jurídicas solicitantes de las actividades o los servicios públicos que constituyen el hecho imponible.
+2. El hecho de presentar la solicitud de las autorizaciones mencionadas directamente en el ayuntamiento pertinente no exime al sujeto pasivo del pago de la tasa correspondiente a la administración competente en la gestión ferroviaria, que tendrá que hacerse efectiva con carácter previo al inicio de los servicios administrativos.
+3. Quedan exentas del pago de la tasa las administraciones públicas territoriales y también las entidades instrumentales dependientes o vinculadas a cualquiera de estas administraciones.
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 53 quater
+
+Artículo 53 quater. Cuantía.
+La cuota tributaria de esta tasa se determina por la aplicación de una tarifa única de 123,52 euros por solicitud de autorización.
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 53 quinquies
+
+Artículo 53 quinquies. Devengo y pago.
+La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se hará mediante el ingreso de la autoliquidación correspondiente, que se adjunta a la solicitud. No procede ninguna devolución de la tasa en los supuestos de denegación de la autorización o cuando el informe concluya que no es necesaria autorización o informe vinculante.
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+## TÍTULO III
+
+Consejería de la Función Pública e Interior
+
+## CAPÍTULO I
+
+Tasa por la expedición de títulos o certificados por la Escuela Balear de Administración Pública
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.1 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 54
+
+Artículo 54. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la expedición de títulos o certificados de aprovechamiento y de asistencia a las acciones formativas emitidos por la Escuela Balear de Administración Pública.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.2 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 55
+
+Artículo 55. Exenciones.
+Quedará exenta la primera expedición de un título o de un certificado con firma digital.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.3 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 56
+
+Artículo 56. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa todas las personas que soliciten los títulos o certificados a que se refiere el hecho imponible.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ e añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.4 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 57
+
+Artículo 57. Cuantía.
+1. Título o diploma acreditativo de participar en una acción formativa:
+1.1 La primera expedición con firma digital será gratuita.
+1.2 Las sucesivas expediciones:
+a) Formato papel: 5,10 euros.
+b) Formato digital: 4,23 euros.
+2. Certificado curricular alumno y profesor:
+2.1 La primera expedición anual en formato digital será gratuita.
+2.2 Las sucesivas expediciones:
+a) Formato papel: 5,25 €.
+b) Formato digital: 4,35 €.
+Se modifica el apartado 2 y se suprime el 3 por la disposición final 4.1 y 2 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.5 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 58
+
+Artículo 58. Devengo y pago.
+La tasa se devengará en el momento de la solicitud de expedición del correspondiente título o certificado, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, en el momento de la presentación de la solicitud.
+Se modifica por la disposición final 4.3 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 3.3 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se deroga por la disposición derogatoria única 2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#dd
+ Se modifica por el art. 11.6 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+## CAPÍTULO II
+
+Tasa por los servicios de selección de personal
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 59
+
+Artículo 59. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la inscripción en las convocatorias para seleccionar el personal que acceda a la Administración de la comunidad autónoma de las Illes Balears, tanto en condición de personal funcionario como de personal no funcionario, la inscripción en las convocatorias para seleccionar el personal funcionario con habilitación de carácter estatal del ámbito territorial de las Illes Balears y la inscripción en las convocatorias para seleccionar personal de los cuerpos de la policía local del ámbito territorial de las Illes Balears cuando corresponda tramitarlas a la Consejería de Administraciones Públicas, de acuerdo con la normativa en materia de coordinación de las policías locales de las Illes Balears.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.4 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 59 bis
+
+Artículo 59 bis. Exenciones y bonificaciones.
+1. Quedarán exentas del pago de la tasa las personas con discapacidad igual o superior al 33%.
+2. Tendrán una bonificación del 50% el personal laboral al servicio de la Administración de la comunidad autónoma de las Illes Balears que participe en procesos de funcionarización y el personal laboral y funcionario que participe en las convocatorias de promoción interna.
+3. Tendrán una bonificación del 50% las personas que se inscriban en las convocatorias para seleccionar funcionarios interinos y personal laboral temporal al servicio de la Administración de la comunidad autónoma de las Illes Balears.
+Se modifica el apartado 3 por la disposición final 4.4 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.4 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se añade por el art. 12.1 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 60
+
+Artículo 60. Sujeto pasivo.
+Serán sujetos pasivos de la tasa las personas que se inscriban en las convocatorias para seleccionar el personal que ha de acceder a la Administración de la comunidad autónoma de las Illes Balears, tanto en condición de personal funcionario como de personal no funcionario, las que se inscriban en las convocatorias para seleccionar el personal funcionario con habilitación de carácter estatal del ámbito territorial de las Illes Balears y las que se inscriban en las convocatorias para seleccionar personal de los cuerpos de la policía local del ámbito territorial de las Illes Balears que corresponda tramitar a la Consejería de Administraciones Públicas.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.4 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 61
+
+Artículo 61. Cuantía.
+1. La tasa por la inscripción a las pruebas selectivas del personal al servicio de la Administración de la comunidad autónoma de las Illes Balears, del personal funcionario con habilitación de carácter estatal del ámbito territorial de las Illes Balears y en las pruebas selectivas de personal de los cuerpos de la policía local del ámbito territorial de las Illes Balears que corresponda tramitar a la Consejería de Administraciones Públicas se exigirá según la siguiente tarifa:
+a) En convocatorias de acceso a plazas o puestos de trabajo para los cuales se exija el título universitario de grado: 26,79 euros.
+b) En convocatorias de acceso a plazas o puestos de trabajo para los cuales se exijan otras titulaciones de nivel inferior al título universitario de grado: 13,38 euros.
+2. Las cuantías exigibles como tasa han de consignarse expresamente en las resoluciones que convoquen las correspondientes pruebas selectivas.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.4 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 12.2 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 62
+
+Artículo 62. Devengo y pago.
+1. La tasa se devengará en el momento de la solicitud de la inscripción. No obstante, el pago de la tasa será previo a la presentación de la solicitud de inscripción, mediante autoliquidación, en los impresos habilitados al efecto, y ha de realizarse su ingreso en cualquier entidad bancaria autorizada.
+2. A la solicitud de inscripción ha de adjuntarse, en todo caso, una copia de la autoliquidación de la tasa, previamente ingresada.
+3. Cuando por causas no imputables al sujeto pasivo la actividad que constituye el hecho imponible de la tasa no se realice, procederá la devolución del correspondiente importe. Por tanto, no procederá ninguna devolución de la tasa en los supuestos de exclusión de las pruebas selectivas por causas imputables a la persona interesada.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.4 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO III
+
+Tasa por la realización de cursos programados por la Escuela Balear de Administración Pública
+Se deja sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 10.1 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-2
+
+### Artículo 63
+
+Artículo 63. Hecho imponible.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 4.5 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículos 63 a 66
+
+Artículos 63 a 66.
+(Sin contenido)
+Se dejan sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 64
+
+Artículo 64. Sujeto pasivo.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 65
+
+Artículo 65. Cuantía.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica el apartado 2.3 por la disposición final 2.2 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se suprime el apartado 1.3 y se modifican el 2.2.a) y 2.3.b) por la disposición final 4.6 a 8 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 10.2 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-2
+ Se añade la letra c) por el art. 7 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a7
+
+### Artículo 66
+
+Artículo 66. Devengo y pago.
+(Sin contenido)
+Se deja sin contenido por la disposición final 1.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 4.9 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO IV
+
+Tasa de espectáculos
+
+### Artículo 67
+
+Artículo 67. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación o realización, por la Comunidad Autónoma de las Islas Baleares de los servicios o realización de actuaciones que conlleva el control administrativo de los espectáculos, según se especifica en las tarifas del artículo 69.
+
+### Artículo 68
+
+Artículo 68. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten cualesquiera de los servicios o aquellos para quienes se realicen las actuaciones que constituyen el hecho imponible.
+
+### Artículo 69
+
+Artículo 69. Cuantía.
+1. Actos recreativos, fiestas, bailes y verbenas:
+Poblaciones de hasta 3.000 habitantes: 765 pesetas.
+De 3.001 a 20.000: 1.525 pesetas.
+De 20.001 a 200.000: 2.315 pesetas.
+De 200.001 en adelante: 3.840 pesetas.
+2. Actos Deportivos:
+Poblaciones de hasta 3.000 habitantes: 375 pesetas.
+De 3.001 a 20.000: 765 pesetas.
+Entre 20.001 a 200.000: 1.155 pesetas.
+De 200.001 en adelante: 1.925 pesetas.
+3. Espectáculos taurinos:
+Becerradas y noveles: 1.525 pesetas.
+Novilladas sin picadores y nocturnas: 3.840 pesetas.
+Novilladas con picadores: 5.770 pesetas.
+Corridas de toros: 7.675 pesetas.
+Otros espectáculos taurinos: 1.925 pesetas.
+4. En el caso de los espectáculos taurinos en poblaciones de menos de 100.000 habitantes la escala de tarifas se reducirá en un 25 por 100.
+
+### Artículo 70
+
+Artículo 70. Devengo.
+1. La tasa se devengará en el momento del inicio de las actuaciones administrativas que constituyen el hecho imponible.
+2. El pago de la tasa se realizará en el momento de solicitud de las actuaciones administrativas a que se refiere el hecho imponible.
+
+## CAPÍTULO V
+
+Tasa por la prestación de servicios relacionados con la Escuela Balear de Administración Pública
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8
+
+### Artículo 70 bis
+
+Artículo 70 bis. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, por parte de la Escuela Balear de Administración Pública, de los siguientes servicios:
+1.º Copia auténtica de documentos.
+2.º Copia de documentos.
+Se modifica por la disposición final 1.1 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica por la disposición final 1.3 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 11.1 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-3
+ Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8
+
+### Artículo 70 ter
+
+Artículo 70 ter. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa todos los solicitantes de los servicios que constituyen el hecho imponible descrito en el artículo anterior.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8
+
+### Artículo 70 quartum
+
+Artículo 70 quáter. Cuantía.
+La tasa se exigirá de acuerdo con las tarifas siguientes:
+1. Cotejar documentos. Por cada documento cotejado: 0,29 euros.
+2. Expedición de títulos. La primera expedición de títulos será gratuita y para las posteriores y sucesivas expediciones de títulos emitidos: 1,50 euros, por cada expedición de cada título.
+Se modifica por el art. 11.2 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-3
+
+### Artículo 70 quarter
+
+Artículo 70 quater. Cuantía.
+1. La tasa por la prestación de servicios relacionados con la Escuela Balear de Administración Pública se exigirá de acuerdo con las siguientes tarifas:
+Euros
+ 1.1. Copia auténtica de documentos.
+ a) Soporte papel (por hoja).
+ 0,40 €
+ b) Soporte electrónico (por hoja).
+ 0,40 €
+ 1.2. Copias de documentos.
+ 1.2.1. Soporte papel.
+ a) Copias en DIN A4.
+ a.1) Hasta 5 hojas (por hoja).
+ 1 €
+ a.2) De 6 a 25 hojas (por hoja).
+ 0,25 €
+ a.3) De 26 a 100 hojas (por hoja).
+ 0,35 €
+ a.4) Más de 100 hojas (por hoja).
+ 0,50 €
+ b) Copias en DIN A3.
+ b.1) Hasta 5 hojas (por hoja).
+ 2 €
+ b.2) De 6 a 25 hojas (por hoja).
+ 0,25 €
+ b.3) De 26 a 100 hojas (por hoja).
+ 0,35 €
+ b.4) Más de 100 hojas (por hoja).
+ 0,50 €
+ 1.2.2. Soporte electrónico.
+ a) Copias en DIN A4.
+ a.1) Hasta 5 hojas (por hoja).
+ 1 €
+ a.2) De 6 a 25 hojas (por hoja).
+ 0,25 €
+ a.3) De 26 a 100 hojas (por hoja).
+ 0,35 €
+ a.4) Más de 100 hojas (por hoja).
+ 0,50 €
+ b) Copias en DIN A3.
+ b.1) Hasta 5 hojas (por hoja).
+ 2 €
+ b.2) De 6 a 25 hojas (por hoja).
+ 0,25 €
+ b.3) De 26 a 100 hojas (por hoja).
+ 0,35 €
+ b.4) Más de 100 hojas (por hoja).
+ 0,50 €
+2. Quedan exentos de esta tasa los servicios de compulsa que se presten en los procedimientos selectivos o de provisión convocados por la Consejería de Hacienda y Administraciones Públicas y los servicios de compulsa que se presten en los procedimientos que tramita la EBAP que ya estén sujetos al pago de una tasa.
+3. Las familias en situación de protección especial previstas en el artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias, tienen una bonificación de la tasa de un 75%.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica por la disposición final 1.4 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 4.10 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 11.2 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-3
+ Su anterior denominación era artículo 70 quartum.
+
+### Artículo 70 quinquies
+
+Artículo 70 quinquies. Devengo y pago.
+La tasa se devengará cuando se presente la solicitud para la prestación del servicio correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8
+
+## TÍTULO IV
+
+Consejería de Economía y Hacienda
+
+## CAPÍTULO ÚNICO
+
+Tasa por servicios administrativos en materia de casinos, juegos y apuestas
+
+### Artículo 71
+
+Artículo 71. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios relativos a la expedición de documentos, autorizaciones de instalación o explotación de juego, licencias, permisos y demás supuestos señalados en el artículo 73.
+De acuerdo con lo previsto en la disposición adicional única de la presente ley, todas las referencias del artículo 73 a autorizaciones se entenderán efectuadas también a las declaraciones responsables o a las comunicaciones previas que, en su caso, sustituyan a aquéllas.
+Se añade el último párrafo por la disposición final 4.11 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 72
+
+Artículo 72. Sujeto pasivo, contribuyentes y sustitutos.
+1. Son sujetos pasivos de esta tasa, en su condición de contribuyentes, aquellos en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente quienes soliciten las actuaciones administrativas cuando sean prestadas a favor de personas diferentes al solicitante.
+
+### Artículo 73
+
+Artículo 73. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Conceptos
+ Euros
+ A. Autorizaciones de locales y de establecimientos de juego.
+ 1. Casinos de juego.
+ 4.662,03
+ 2. Salas de bingo.
+ 932,38
+ 3. Salas de juego o apuestas.
+ 398,20
+ 4. Otros locales de juego.
+ 74,40
+ 5. Renovación de las autorizaciones de las salas y los locales de juego, de los casinos y de las salas de bingo: 50% del importe correspondiente a la autorización.
+ 6. Modificación de las autorizaciones anteriores: 25% del importe correspondiente a la autorización.
+ 7. Cambio de ubicación de casinos de juego.
+ 4.662,03
+ 8. Autorizaciones especiales para casinos de juego.
+ 117,18
+ 9. Información sobre salas de juego.
+ 29,00
+ 10. Autorizaciones de publicidad de las salas de juego: 30% del importe correspondiente a la autorización.
+ B.Autorización e inscripción de empresas de juego
+ 1. Autorización e inscripción de empresas de juego.
+ 398,20
+ 2. Renovación de las autorizaciones y de las inscripciones de empresas de juego: 50% del importe correspondiente a la autorización o inscripción.
+ 3. Modificación de las condiciones de autorización e inscripción de las empresas de juego: 25% del importe correspondiente a la autorización o inscripción.
+ C. Tramitación de autorizaciones de explotación de máquinas de juego, apuestas y otros documentos
+ 1. Autorización de explotación e instalación de máquinas de juego o apuestas.
+ 48,95
+ 2. (Sin contenido).
+ 20,94
+ 3. Cambio de titularidad de la máquina.
+ 30,30
+ 4. Renovaciones de autorización de explotación de máquina.
+ 30,30
+ 5. (Sin contenido).
+ 20,95
+ 6. Autorización de instalación de sistemas de interconexión de máquinas de juego de tipo B.
+ 65,24
+ 7. Autorización de instalación de sistemas de interconexión de máquinas de juego de tipo C.
+ 97,60
+ 8. Modificación de los sistemas de interconexión: 25% del importe correspondiente a la autorización.
+ 9. Examen de expediente de rifas, tómbolas, combinaciones aleatorias o apuestas.
+ 128,16
+ 10. Baja en el Registro de Interdicciones de Acceso al Juego.
+ 224,05
+ 11. Homologación e inscripción de máquinas en el Registro de Modelos.
+ 343,70
+ 12. Modificación de la homologación e inscripción de máquinas: 50 % del importe correspondiente a la homologación y la inscripción.
+ 13. Homologación de material de juego.
+ 201,50
+ 14. Modificación de la homologación de material de juego: 50% del importe correspondiente a la homologación.
+ 15. Expedición de la guía de circulación, por cada unidad.
+ 13,90
+ 16. Inscripción provisional de cada máquina de juego en el Registro de Modelos.
+ 65,00
+ D. Expedición de duplicados: 50% de las tarifas indicadas en las letras anteriores.
+Se dejan sin contenido los apartados 2 y 5 de la letra C), por la disposición final 1.1 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 1.6 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 4.12 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado C)13 por la disposición final 1.1 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por el art. 1 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se modifica letra C) por el art. 5 y por la disposición derogatoria única.2 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a5
+ Se modifica por el art. 10 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-2
+
+### Artículo 73 bis
+
+Artículo 73 bis. Bonificación.
+1. Se aplicará una bonificación del 100% a la cuota tributaria con respecto a la autorización y la inscripción de empresas de juego a que se refiere el apartado 1 de la letra B) del artículo 73 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.4 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 74
+
+Artículo 74. Devengo.
+La tasa se devengará en el momento de la prestación del servicio. No obstante, se exigirá su pago en el momento de la solicitud del servicio o de la actuación administrativa a que se refiere el hecho imponible.
+
+## TÍTULO V
+
+Consejería de Educación, Cultura y Deportes
+
+## CAPÍTULO I
+
+Tasa por prestación de servicios relacionados con el Arxiu del Regne de Mallorca y el Arxiu Historic de Maó
+
+### Artículo 75
+
+Artículo 75. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios que a continuación se relacionan, por parte del Arxiu del Regne de Mallorca y del Arxiu Históric de Maó:
+a) Expedición de certificación de documentos.
+b) Búsqueda de documentos.
+c) Fotografías en color y en blanco y negro.
+d) Diapositivas.
+
+### Artículo 76
+
+Artículo 76. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la realización de los servicios que constituyen el hecho imponible.
+
+### Artículo 77
+
+Artículo 77. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+1. Expedición de certificación de documentos.
+a) Transcripciones literales:
+Por página mecanografiada actual: 250 pesetas.
+Por año de antigüedad: 25 pesetas por folio original del documento.
+b) Extractos de documentos:
+Por documentos de menos de cien años: 300 pesetas. Por documentos de más de cien años: 2.000 pesetas.
+c) Diligencias de fotocopias: 225 pesetas por página diligenciada.
+2. Búsqueda de documentos: 3.300 pesetas/hora aun cuando el resultado sea negativo.
+3. Fotografías en color (9 × 13 y 13 × 18): 400 pesetas la unidad.
+Otras medidas: 1.100 pesetas la unidad.
+4. Fotografías en blanco y negro (9 × 13 y 13 × 18): 300 pesetas la unidad.
+Otras medidas: 1.100 pesetas la unidad.
+5. Diapositivas: 400 pesetas.
+
+### Artículo 78
+
+Artículo 78. Devengo.
+La tasa se devengará en el momento de solicitarse la realización de las actividades que constituyen el hecho imponible.
+
+## CAPÍTULO II
+
+Tasa por matrícula a las pruebas de lengua catalana
+Se modifica por la disposición final 1.2 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por el art. 27.2 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 79
+
+Artículo 79. Hecho imponible.
+Constituye el hecho imponible de esta tasa la formalización de la matrícula para realizar las pruebas correspondientes a los certificados de conocimientos de la lengua catalana de la Dirección General de Cultura y Juventud.
+Se modifica por la disposición final 1.3 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por el art. 27.2 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 8.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 80
+
+Artículo 80. Exenciones.
+(Suprimido)
+Se suprime por la disposición final 1.4 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por la disposición final 3.6 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 8.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 81
+
+Artículo 81. Sujeto pasivo.
+Son sujetos pasivos quienes soliciten la realización de alguna de las actividades que constituyen el hecho imponible.
+
+### Artículo 82
+
+Artículo 82. Cuantía.
+1. La tasa se exigirá teniendo en cuenta los siguientes conceptos:
+a) Tasa de matrícula para las convocatorias ordinarias y extraordinarias de los niveles A2, B1 y B2: 16,33 euros.
+b) Tasa de matrícula para las convocatorias ordinarias y extraordinarias de los niveles C1, C2 y LA: 23,18 euros.
+2. Tienen derecho a una bonificación del 50% del importe de la tasa:
+a) Los sujetos pasivos que acrediten estar en posesión del Carné Joven Europeo.
+b) Las personas que están en situación de desempleo.
+c) Las personas reclusas en un centro penitenciario.
+d) Las que perciben una pensión pública.
+e)Las familias en situación de protección especial previstas en las letras b), c), d) y e) del artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias, tendrán una bonificación del 50% del importe de la tasa, siempre y cuando acrediten dicha condición por cualquiera de los medios de prueba establecidos en la normativa vigente.
+f) Las que tienen un grado de discapacidad igual o superior al 33%.
+3. Los miembros de familias numerosas tendrán derecho a la exención o a la bonificación de las tarifas que, de acuerdo con su categoría, les correspondan según las disposiciones vigentes, siempre que la soliciten y que acrediten documentalmente su situación en el momento de la inscripción.
+Se añade el la letra e) por la disposición final 1.3 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se deja sin contenido el apartado 2.e) y se añade el 3 por la disposición final 2.3 y 4 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica el apartado 1 por la disposición final 1.7 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 1.5 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por la disposición final 3.7 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 27.2 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 8.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+ Se modifica por el art. 15 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-7
+
+### Artículo 83
+
+Artículo 83. Devengo.
+La tasa se devengará en el momento de formalizar la inscripción de la matrícula.
+
+## CAPÍTULO III
+
+Tasa por la prestación de servicios docentes de los conservatorios profesionales de música y danza de las Illes Balears
+Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 84
+
+Artículo 84. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de servicios derivada de la actividad docente relativa a las enseñanzas artísticas profesionales de danza y a las enseñanzas artísticas profesionales de música que llevan a cabo los conservatorios de música y danza de las Illes Balears.
+Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 12 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-4
+ Se modifica por el art. 11.1 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-3
+
+### Artículo 85
+
+Artículo 85. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la prestación de los servicios a los que se refiere el artículo anterior.
+Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 86
+
+Artículo 86. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+a) Enseñanzas artísticas profesionales de danza:
+– Apertura de expediente: 21,00 euros.
+– Certificado académico: 8,00 euros.
+– Traslado de expediente: 8,00 euros.
+– Servicios generales: 10,00 euros.
+– Matrícula en primer o en segundo curso completo: 290,00 euros.
+– Matrícula en tercer o en cuarto curso completo: 300,00 euros.
+– Matrícula en quinto o en sexto curso completo: 430,00 euros.
+– Matrícula por asignaturas, por cada una: 90,00 euros.
+– Ampliación de matrícula: 110,00 euros.
+– Pruebas de acceso: 40,00 euros.
+b) Enseñanzas artísticas profesionales de música:
+– Apertura de expediente: 21,00 euros.
+– Certificado académico: 8,00 euros.
+– Traslado de expediente: 8,00 euros.
+– Servicios generales: 10,00 euros.
+– Matrícula en primer o en segundo curso completo: 290,00 euros.
+– Matrícula en tercer o en cuarto curso completo: 300,00 euros.
+– Matrícula en quinto o en sexto curso completo: 430,00 euros.
+– Matrícula por asignaturas, por cada una: 90,00 euros.
+– Ampliación de matrícula: 110,00 euros.
+– Pruebas de acceso: 40,00 euros.
+Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica la letra A) por el art. 4.14 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+ Se modifica la letra B) por el art. 6 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+ Se modifica por el art. 12 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-4
+ Se modifica por el art. 11.2 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-3
+
+### Artículo 87
+
+Artículo 87. Exenciones y bonificaciones.
+1. Los miembros de familias numerosas y monoparentales tienen derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les puedan corresponder según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la solicitud.
+2. El alumnado que reciba becas u otras ayudas de carácter oficial no está obligado a pagar la tasa por matrícula. El alumnado que al formalizar la matrícula se acoja a la exención por haber solicitado la concesión de una beca y posteriormente no obtenga la condición de becario o le sea revocada la beca concedida, está obligado a pagar la tasa correspondiente a la matrícula que realizó. El hecho de no pagarla comporta la anulación de esta matrícula en todas las asignaturas.
+3. El traslado de expedientes entre los conservatorios de las Illes Balears, o entre estos y los centros que tienen adscritos, no debe comportar ningún gasto para el alumnado.
+4. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos o hijas, tienen derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición debe acreditarse presentando la correspondiente resolución administrativa. En el caso del cónyuge y los hijos o hijas, debe adjuntarse el libro de familia.
+5. Las personas en situación de dependencia en grado II o III y las personas con un grado de discapacidad igual o superior al 33% quedan exentas del pago de la tasa. También quedan exentos los miembros de su unidad familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la solicitud, que se encuentran en alguna de estas situaciones.
+6. Las víctimas de violencia de género, así como los hijos o hijas que dependan de las mismas, tienen derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición debe acreditarse presentando cualquiera de los documentos previstos en la normativa vigente. En el caso de los hijos o hijas dependientes, también debe presentarse el libro de familia.
+7. Están exentos de pagar la tasa los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en situación de riesgo social, los jóvenes tutelados y extutelados en vía de emancipación, los jóvenes en acogida familiar y las personas sujetas a medidas privativas de libertad. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la solicitud, que se encuentran en alguna de estas situaciones.
+8. La obtención de matrícula de honor de una asignatura da derecho a una bonificación correspondiente a la tasa de matrícula de una asignatura sobre la tasa de matrícula de un curso completo. Los alumnos que a partir del curso 2019-2020 hayan obtenido la calificación de matrícula de honor, se podrán acoger a esta bonificación.
+Se modifican los apartados 5 y 7 por la disposición final 1.1 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade el apartado 8 por la disposición final 1.3 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.5 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.5 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 12 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-4
+
+### Artículo 88
+
+Artículo 88. Devengo.
+La tasa se devenga cuando se solicita la prestación de los servicios que constituyen el hecho imponible, con excepción de los que deban llevarse a cabo sin necesidad de solicitud previa, en cuyo caso la tasa se devengará en el momento de prestarlos.
+Se modifica por la disposición final 3.8 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica por el art. 12 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-4
+
+### Artículo 88 bis
+
+Artículo 88 bis. Tasa por la prestación de servicios docentes al Conservatorio Superior de Música y Danza de las Illes Balears.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de servicios derivada de la actividad docente desarrollada por las escuelas oficiales de idiomas.
+2. Sujeto pasivo. Son sujetos pasivos de esta tasa los que soliciten la prestación de los servicios a que se refiere el apartado anterior.
+3. Cuantía. La tasa se exigirá de acuerdo con las tarifas siguientes:
+1. Alumnos oficiales:
+Apertura de expediente: 17,00 euros.
+Matrícula por asignaturas 108,18 euros.
+Servicios generales 7,50 euros.
+2. Alumnos de enseñanza libre:
+Apertura de expediente 17,00 euros.
+Derechos de examen del ciclo elemental: 60,10 euros.
+Derechos de examen del ciclo superior: 60,10 euros.
+Servicios generales: 7,50 euros.
+4. Exenciones y bonificaciones. Los miembros de las familias numerosas tendrán la exención o reducción de las tarifas de acuerdo con su categoría según las disposiciones vigentes, una vez hayan hecho una solicitud previa a los centros prestadores del servicio y hayan acreditado documentalmente su situación en el momento de la inscripción.
+No estarán obligados a pagar la tasa por servicios académicos los alumnos que reciban becas oficiales.
+Los alumnos que al formalizar la matrícula se acojan a la exención de precios por el hecho de haber solicitado la concesión de una beca y posteriormente no obtengan la condición de becario o les sea revocada la beca concedida se verán obligados al pago de la tasa correspondiente a la matrícula que efectuaron; el hecho de no pagarla conllevará la anulación de la matrícula en todas las materias, asignaturas o disciplinas, de acuerdo con lo que prevé la legislación vigente.
+5. Devengo. La tasa se devengará cuando se soliciten los servicios correspondientes al hecho imponible. Cuando éstos se presten sin necesidad de solicitud previa, las tasas se devengarán en el momento de la prestación.
+Se modifica el apartado 3 por el art. 13 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-5
+ Se modifica por el art. 12 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-4
+ Se añade por el art. 6 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 88 ter
+
+Artículo 88 ter. Tasa por la prestación de servicios docentes en la Escuela Superior de Diseño y de Conservación y Restauración de Bienes Culturales de las Illes Balears.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación de servicios derivada de la actividad docente desarrollada por la Escuela Superior de Diseño y de Conservación y Restauración de Bienes Culturales de las Illes Balears.
+2. Sujeto pasivo. Son sujetos pasivos de esta tasa los que soliciten la prestación de los servicios que constituyen el hecho imponible.
+3. Devengo. La tasa se devengará en el momento de la solicitud de los servicios por parte de los sujetos pasivos.
+4. Cuantía.
+La tasa se exigirá de acuerdo con las tarifas siguientes:
+Matrícula de curso completo: 610,00 euros.
+Matrícula por crédito en primera matrícula: 7,00 euros.
+Matrícula por crédito en segunda matrícula: 8,50 euros.
+Asignatura en primera matrícula (conservación): 76,00 euros.
+Asignatura en segunda matrícula (conservación): 95,00 euros.
+Matrícula por proyecto final de carrera: 89,00 euros.
+Servicios generales: 17,50 euros.
+Prueba de acceso: 45,50 euros.
+Apertura de expediente: 17,00 euros.
+Certificados académicos: 17,00 euros.
+Traslado de expediente: 17,00 euros.
+5. Exenciones, bonificaciones y aplazamientos. Los miembros de las familias numerosas tendrán la exención o reducción de las tarifas de acuerdo con su categoría, según las disposiciones vigentes, una vez hayan hecho una solicitud previa a los centros prestadores del servicio y hayan acreditado documentalmente su situación en el momento de la inscripción.
+No estarán obligados a pagar la tasa por servicios académicos los alumnos que reciban becas u otras ayudas de carácter oficial.
+Los alumnos que al formalizar la matrícula se acojan a la exención de precios por el hecho de haber solicitado la concesión de una beca y posteriormente no obtengan la condición de becario o les sea revocada la beca concedida se verán obligados al pago de la tasa correspondiente a la matrícula que efectuaron; la falta de pago conllevará la anulación de la matrícula en todas las materias, asignaturas o disciplinas, de acuerdo con lo que prevé la legislación vigente.
+Los alumnos solicitantes de becas o ayudas para el estudio podrán formalizar la matrícula en el centro sin tener que hacer el pago de tarifas, siempre que presenten la documentación acreditativa de haber formalizado la solicitud de ayuda. Resuelta la convocatoria de ayudas, los beneficiarios tendrán que justificar esta condición al centro. En caso contrario, tendrán que satisfacer las tarifas correspondientes de acuerdo con las reglas generales.
+Los alumnos podrán fraccionar el pago de las tarifas correspondientes a la matrícula en dos pagos de la misma cantidad. El primero se pagará cuando se formalice la matrícula y el segundo, a lo largo de la segunda quincena del mes de diciembre, circunstancia que deberá hacerse constar en el documento de autoliquidación.
+Se modifica el apartado 4 por el art. 14 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-6
+ Se modifica por el art. 13 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-5
+ Se añade por el art. 7 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 88 quartum
+
+Artículo 88 quartum.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#dd
+ Se añade por el art. 16 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-8
+
+## CAPÍTULO IV
+
+Tasas por amarres, invernajes y estadías en la Escuela de Vela de Calanova
+
+### Artículo 89
+
+Artículo 89. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la prestación de los servicios de amarre y la utilización privativa de dominio público mediante invernaje y estadías de embarcaciones deportivas o recreativas en la Escuela de Vela de Calanova.
+2. La prestación del servicio de amarre incluye la utilización, por las embarcaciones deportivas o recreativas y por sus tripulantes, de las aguas del puerto e instalaciones de balizamiento, de las dársenas, amarres y atraques a muelles y pantanales.
+3. El atraque completo conlleva la posibilidad de recibir suministro por estos servicios:
+a) Atraque en punta de embarcación.
+b) Sistema de amarre (muerto o boya) por el extremo opuesto al amarre.
+c) Suministro de agua potable.
+d) Recogida en tierra de basuras y residuos sólidos depositados por los usuarios en los recipientes instalados al efecto.
+4. Los servicios de agua y energía están sujetos al abono de la tarifa correspondiente y a sus condiciones de aplicación.
+
+### Artículo 90
+
+Artículo 90. Sujeto pasivo y responsables subsidiarios.
+Por la prestación de los servicios de amarre y utilización privativa de dominio público a que se refiere el hecho imponible, son sujetos pasivos de esta tasa los propietarios de la embarcación o sus representantes.
+Tienen la consideración de responsables subsidiarios de la deuda tributaria el capitán o patrón de la embarcación que solicite los servicios o la utilización privativa del dominio público a que se refiere el hecho imponible, de acuerdo con el artículo anterior, o se beneficien directamente.
+
+### Artículo 91
+
+Artículo 91. Base tributaria.
+La base para la liquidación de la tarifa será la superficie en metros resultante del producto de la eslora total de la embarcación por el tiempo de estancia en atraque.
+
+### Artículo 92
+
+Artículo 92. Cuantía.
+1. Por los servicios de amarre, la cuota tributaria se determinará aplicando a la base las tarifas siguientes:
+a) Amarres. Usuarios permanentes:
+Eslora
+ Pesetas/año
+ Hasta 6 metros
+ 113.500
+ Hasta 7 metros
+ 145.000
+ Hasta 8 metros
+ 184.000
+ Hasta 9 metros
+ 228.500
+ Hasta 10 metros
+ 267.900
+ Hasta 11 metros
+ 324.800
+ Hasta 12 metros
+ 396.700
+ Hasta 13 metros
+ 469.800
+ Hasta 14 metros
+ 525.000
+ Hasta 15 metros
+ 598.500
+ Hasta 16 metros
+ 661.000
+b) Amarres. Usuarios transeúntes. De septiembre a junio:
+Eslora
+ Euros/día
+ Euros/mes
+ Hasta 6 m.
+ 15,00
+ 188,00
+ Hasta 7 m.
+ 17,00
+ 200,00
+ Hasta 8 m.
+ 19,00
+ 223,00
+ Hasta 9 m.
+ 24,00
+ 246,00
+ Hasta 10 m.
+ 27,00
+ 270,00
+ Hasta 11 m.
+ 30,00
+ 335,00
+ Hasta 12 m.
+ 34,00
+ 388,00
+ Hasta 13 m.
+ 38,00
+ 441,00
+ Hasta 14 m.
+ 42,00
+ 529,00
+ Hasta 15 m.
+ 46,00
+ 647,00
+De julio a agosto:
+Eslora
+ Euros/día
+ Euros/mes
+ Hasta 6 m.
+ 20,00
+ 240,00
+ Hasta 7 m.
+ 22,00
+ 255,00
+ Hasta 8 m.
+ 25,00
+ 285,00
+ Hasta 9 m.
+ 31,00
+ 315,00
+ Hasta 10 m.
+ 38,00
+ 345,00
+ Hasta 11 m.
+ 45,00
+ 425,00
+ Hasta 12 m.
+ 54,00
+ 490,00
+ Hasta 13 m.
+ 60,00
+ 556,00
+ Hasta 14 m.
+ 68,00
+ 665,00
+ Hasta 15 m.
+ 75,00
+ 740,00
+2. Tratándose de invernajes de embarcaciones, la cuota tributaria será la resultante de aplicar a la base las tarifas siguientes:
+Eslora
+ Pesetas/mes
+ Hasta 10 metros
+ 40.000
+ Hasta 11 metros
+ 47.000
+ Hasta 12 metros
+ 59.000
+ Hasta 13 metros
+ 68.000
+ Hasta 14 metros
+ 77.500
+ Hasta 15 metros
+ 87.000
+ Hasta 16 metros
+ 99.000
+3. Si se trata de estancias en tierra para varada de embarcaciones, la cuota tributaria se determina según la tarifa resultante de las siguientes operaciones:
+a) Los cinco primeros días: eslora x manga x días de estancia en tierra x 0,579548 euros.
+b) Del sexto al decimoquinto día: eslora x manga x días de estancia en tierra x 0,825657 euros.
+c) A partir del decimosexto día: eslora x manga x días de estancia en tierra x 1,159096 euros.
+4. Es condición indispensable para la aplicación de esta tarifa que la embarcación no realice transporte de mercancías y que los pasajeros no viajen sujetos a cruceros o excursiones turísticas.
+Se modifica el apartado 3 por la disposición final 5.2 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica el apartado 1.b) por el art. 2 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 93
+
+Artículo 93. Exenciones.
+1. Quedarán exentas del pago de esta tasa las embarcaciones vinculadas a tareas de enseñanza de la Escuela de Vela de Calanova.
+2. Quedarán exentas del pago de las cuotas tributarias por amarre:
+a) Las embarcaciones de la administración dedicadas a tareas de vigilancia, represión de contrabando, salvamento, lucha contra la contaminación marina y, en general, el material de la administración pública y de sus organismos autónomos en misiones oficiales de su competencia.
+b) Las embarcaciones que participen en cualquier acontecimiento deportivo oficial organizado por la Escuela de Vela de Calanova o en los que la escuela participe. En este caso, deberán tener autorización expresa del director de la Escuela de Vela de Calanova.
+Se modifica por la disposición final 5.3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 94
+
+Artículo 94. Devengo.
+1. Cuando la tasa se exija por la prestación de servicios de amarre, se devengará cuando la embarcación entre en las aguas del puerto. Si la embarcación se encuentra en dique seco, en la zona portuaria sin ser botada, se podrá aplicar la tarifa que le pueda corresponder y se determinará anualmente. Si los servicios se prestan sin petición previa, las tasas se devengarán en el momento de la prestación.
+Las cantidades adeudadas serán exigidas en el momento en que se presente la liquidación. La liquidación de estas tarifas se realizará directamente en las oficinas de la Escuela de Vela de Calanova.
+2. Respecto a la tasa por los servicios de invernaje y estadía, el devengo se producirá por la solicitud de la realización de las actividades que constituyen el hecho imponible. Si los servicios se prestan sin petición previa, las tasas se devengarán en el momento de la prestación.
+Las cantidades adeudadas serán exigibles en el momento en que se presente la liquidación. La liquidación de estas tarifas se realizará directamente en las oficinas de la Escuela de Vela de Calanova.
+
+## CAPÍTULO V
+
+Tasa por expedición de títulos académicos, diplomas y certificados oficiales
+Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 95
+
+Artículo 95. Hecho imponible.
+Constituye el hecho imponible de la tasa la expedición de títulos académicos, diplomas y certificados oficiales correspondientes a las enseñanzas del sistema educativo, excepto de los que corresponden a las enseñanzas obligatorias, cuya expedición es gratuita.
+Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 96
+
+Artículo 96. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la prestación de los servicios a los que se refiere el artículo anterior.
+Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 97
+
+Artículo 97. Devengo.
+La tasa se devenga cuando se solicita la prestación de los servicios que constituyen el hecho imponible.
+Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 98
+
+Artículo 98. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+1. Bachillerato: expedición del título de bachillerato: 57,09 euros.
+2. Formación profesional (sistema educativo):
+– Expedición del título de técnico: 27,02 euros.
+– Expedición del título de técnico superior: 66,34 euros.
+– Expedición del título de especialista: 27,02 euros.
+– Expedición del título de máster de formación profesional: 66,34 euros.
+3. Enseñanzas de régimen especial:
+3.1 Enseñanzas de idiomas:
+Certificado oficial que acredita la superación de un nivel: 8,00 euros.
+Certificación oficial del conocimiento de las lenguas por el alumnado que ha cursado enseñanzas de educación secundaria o de formación profesional: 8,00 euros.
+Certificado de aptitud de un idioma (enseñanzas anteriores a la LOE): 27,47 euros.
+3.2 Enseñanzas artísticas:
+3.2.1 Enseñanzas profesionales de artes plásticas y de diseño:
+Expedición del título de técnico: 23,24 euros.
+Expedición del título de técnico superior: 57,09 euros.
+3.2.2 Estudios superiores de artes plásticas y de diseño:
+Expedición del título superior de diseño, en la especialidad que corresponda, o expedición del título de Máster en Enseñanzas Artísticas: 67,58 €.
+Expedición de un certificado supletorio al título: 36,74 €.
+Expedición del suplemento europeo al título (enseñanzas anteriores a la LOE): 36,74 €.
+3.2.3 Enseñanzas de música, danza y arte dramático:
+Expedición del diploma correspondiente a las enseñanzas elementales de música o danza: 8,95 €.
+Expedición del título correspondiente a las enseñanzas profesionales de música o danza: 104,41 €.
+Expedición del título correspondiente a las enseñanzas superiores de música, de danza o de arte dramático: 173,13 €.
+3.3 Enseñanzas deportivas:
+Expedición del título de técnico deportivo en la modalidad o especialidad correspondiente: 23,24 euros.
+Expedición del título de técnico deportivo superior en la modalidad o especialidad correspondiente: 57,09 euros.
+4. Reexpedición de cualquier título, diploma o certificado oficial: 14,66 euros.
+5. Expedición de títulos académicos, de diplomas o de certificados oficiales que no figuren en los apartados anteriores, que correspondan a estudios realizados de acuerdo con cualquier regulación académica anterior a la vigente y que no estén gravados por tasas de otra administración pública:
+Expedición de un certificado oficial: 8,00 euros.
+Expedición de un diploma: 23,24 euros.
+Expedición de un título académico: 57,09 euros.
+Se modifica el apartado 2 por la disposición final 1.4 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifican los apartados 3.2.2 y 3.2.3 por la disposición final 1.6 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica el apartado 3.2.2 por la disposición final 4.13 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el apartado 3.1 y 4 por el art. 7 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+ Se modifica por el art. 14 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-6
+
+### Artículo 99
+
+Artículo 99. Exenciones y bonificaciones.
+1. Los miembros de familias numerosas y monoparentales tienen derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les corresponda según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la solicitud.
+2. Las personas que soliciten la reexpedición de cualquier título, diploma o certificado oficial con motivo de la rectificación de la mención del sexo en el registro civil estarán exentas del pago de la tasa, siempre que esta situación se acredite documentalmente. Esta exención también será de aplicación respecto de la reexpedición de cualquier título, diploma o certificado oficial previstos en el resto de capítulos del presente título V realizada por la consejería competente en materia de educación.
+3. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, tendrán derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición deberá acreditarse mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el libro de familia.
+4. Las personas en situación de dependencia en grado II o III y las personas con un grado de discapacidad igual o superior al 33% quedan exentas del pago de la tasa. También quedan exentos los miembros de su unidad familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+5. Las víctimas de violencia de género, así como los hijos que dependan de ellas, tendrán derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición se acreditará mediante cualquiera de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también deberá presentarse el libro de familia.
+6. Están exentos de pagar la tasa los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en situación de riesgo social, los jóvenes tutelados y extutelados en vía de emancipación, los jóvenes en acogida familiar y las personas sujetas a medidas privativas de libertad. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+Se modifican los apartados 4 y 6 por la disposición final 1.2 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifican los apartados 1 y se añade el 6 por la disposición final 1.7 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.6 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 3.9 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO VI
+
+Tasa por la inscripción de pruebas selectivas para el acceso a cuerpos docentes
+
+### Artículo 100
+
+Artículo 100. Hecho imponible.
+Constituye el hecho imponible de esta tasa la inscripción en las pruebas para la selección del personal docente que efectúe la Consejería de Educación, Cultura y Deportes.
+
+### Artículo 101
+
+Artículo 101. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los solicitantes de los servicios relacionados en el artículo anterior.
+
+### Artículo 102
+
+Artículo 102. Cuantía.
+La cuantía de la tasa será de 41,86 euros por inscripción en las pruebas selectivas para el acceso a cuerpos docentes.
+Se modifica por la disposición final 1.1 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica por la disposición final 2.7 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 102 bis
+
+Artículo 102 bis. Exenciones.
+Quedan exentos del pago de esta tasa las personas en situación legal de desempleo, las personas con una discapacidad igual o superior al 33%, los miembros de las familias numerosas y las víctimas de violencia de género que tengan reconocida esta condición, y las familias en situación de protección especial previstas en el artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias, y también las víctimas de terrorismo y sus cónyuges e hijos. Para disfrutar de la exención, las personas interesadas han de acreditar documentalmente, en el momento de la inscripción a las pruebas, que se encuentran en alguna de estas situaciones.
+Se modifica por la disposición final 1.4 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica por la disposición final 1.8 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 2.8 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 103
+
+Artículo 103. Devengo.
+1. La tasa se devengará cuando se preste el servicio correspondiente. No obstante, el pago se exigirá por adelantado en el momento en que se formule la solicitud de inscripción o expedición.
+2. El importe de la tasa de devolverá en el caso de exclusión del interesado de las pruebas selectivas convocadas. La solicitud de devolución deberá presentarse en la Consejería de Educación, Cultura y Deportes en el plazo de veinte días naturales, a contar a partir del día siguiente al de la publicación en el «Butlletí Oficial de la Comunitat Autónoma de les Illes Balears» de la relación definitiva de los aspirantes excluidos.
+
+## CAPÍTULO VII
+
+Tasa por la prestación de servicios docentes de las escuelas oficiales de idiomas de las Illes Balears
+Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 bis
+
+Artículo 103 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de servicios derivada de la actividad docente desarrollada por las escuelas oficiales de idiomas.
+Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 ter
+
+Artículo 103 ter. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la prestación de los servicios a que se refiere el artículo anterior.
+Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quater
+
+Artículo 103 quater. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+1. Alumnos oficiales (curso presencial):
+– Apertura de expediente: 21,00 euros.
+– Certificado académico: 8,00 euros.
+– Traslado de expediente: 8,00 euros.
+– Servicios generales: 10,00 euros.
+– Matrícula en un curso presencial: 132,00 euros. La tarifa de la matrícula presencial en el segundo curso de un nivel permite presentarse a las convocatorias de junio y de septiembre de la prueba de certificación del nivel correspondiente.
+– Matrícula en un curso especializado para el perfeccionamiento de competencias en idiomas: 65,00 euros.
+– Expedición de certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 8,00 euros.
+- Matrícula en un curso presencial cuatrimestral de catalán: 71,13 €.
+2. Alumnos de enseñanza libre:
+– Apertura de expediente: 24,40 euros.
+– Certificado académico: 9,29 euros.
+– Traslado de expediente: 9,29 euros.
+– Servicios generales: 11,62 euros.
+– Derechos de examen de la prueba de certificación de un nivel (los derechos de examen permiten presentarse a las convocatorias de junio y de septiembre del año en que se pagan estos derechos): 46,49 euros.
+– Expedición del certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 9,29 euros.
+– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para los alumnos de enseñanza de Educación Secundaria inscritos en el Programa EOIES y para los alumnos del Programa EOICEPA-FP: 23,25 euros.
+Se modifica el apartado 2 por la disposición final 1.2 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade el último párrafo del apartado 2 por la disposición final 1.5 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica el último inciso por la disposición final 2.9 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica el apartado 1 por la disposición final 4.14 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quinquies
+
+Artículo 103 quinquies. Exenciones y bonificaciones.
+1. Los miembros de familias numerosas y monoparentales tienen derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les pueda corresponder según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la solicitud.
+2. El alumnado que reciba becas u otras ayudas de carácter oficial no está obligado a pagar la tasa por matrícula. El alumnado que al formalizar la matrícula se acoja a la exención por haber solicitado la concesión de una beca y posteriormente no obtenga la condición de becario o le sea revocada la beca concedida, está obligado a pagar la tasa correspondiente a la matrícula que realizó. El hecho de no pagarla comporta la anulación de esta matrícula en el curso.
+3. El traslado de expedientes entre las escuelas oficiales de idiomas de las Illes Balears, o entre estas y los centros que tienen adscritos, no debe comportar ningún gasto para el alumnado.
+4. Las personas en situación de paro están exentas de abonar las tasas educativas en las escuelas oficiales de idiomas, siempre que acrediten esta situación en el momento de la solicitud.
+5. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos o hijas, tienen derecho a la exención total de tasas, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición debe acreditarse presentando la correspondiente resolución administrativa. En el caso del cónyuge y los hijos o hijas, debe adjuntarse el libro de familia.
+6. Las personas en situación de dependencia en grado II o III y las personas con un grado de discapacidad igual o superior al 33% quedan exentas del pago de la tasa. También quedan exentos los miembros de su unidad familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+7. Las víctimas de violencia de género, así como los hijos o hijas que dependen de las mismas, tienen derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la solicitud. Esta condición debe acreditarse presentando cualquiera de los documentos previstos en la normativa vigente. En el caso de los hijos o hijas dependientes, también debe presentarse el libro de familia.
+8. Están exentos de pagar la tasa los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en situación de riesgo social, los jóvenes tutelados y extutelados en vía de emancipación, los jóvenes en acogida familiar y las personas sujetas a medidas privativas de libertad. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+Se modifican los apartados 6 y 8 por la disposición final 1.3 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.9 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.10 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade el último párrafo por la disposición final 4.15 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 sexies
+
+Artículo 103 sexies. Devengo.
+La tasa se devenga cuando se solicita la prestación de los servicios que constituyen el hecho imponible, con excepción de los que deban llevarse a cabo sin necesidad de solicitud previa, en cuyo caso la tasa se devengará en el momento de prestarlos.
+Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO VIII
+
+Tasa por la prestación de servicios docentes de los estudios superiores de diseño de la Escuela de Arte y Superior de Diseño de las Illes Balears
+Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 septies
+
+Artículo 103 septies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la prestación de servicios derivados de la actividad docente en los estudios superiores de diseño desarrollados por la Escuela de Arte y Superior de Diseño de las Illes Balears.
+Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ e añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 octies
+
+Artículo 103 octies. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas que soliciten la prestación de los servicios a los que se refiere el artículo anterior.
+Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 nonies
+
+Artículo 103 nonies. Cuantía.
+La tasa se abonará de acuerdo con las siguientes tarifas:
+a) Tasa por la prestación de servicios académicos correspondientes a las enseñanzas artísticas superiores conducentes al título superior de diseño:
+1.º Tasa por crédito de primera matrícula: 12,66 €.
+2.º Tasa por crédito de segunda matrícula: 25,32 €.
+3.º Tasa por crédito de tercera matrícula: 54,87 €.
+4.º Tasa por crédito a partir de la cuarta matrícula: 75,97 €.
+b) Tasa por la prestación de servicios académicos en las enseñanzas artísticas superiores conducentes al título de máster en enseñanzas artísticas:
+1.º Tasa por crédito de primera matrícula: 27,07 €.
+2.º Tasa por crédito a partir de la segunda matrícula: 43,99 €.
+c) Tasa por la prestación de servicios académicos correspondientes a las enseñanzas artísticas superiores (enseñanzas LOGSE):
+(Derogada)
+d) Tasa por la prestación de otros servicios relativos al trámite para matricularse en las enseñanzas artísticas superiores de la Escuela de Arte y Superior de Diseño de las Illes Balears:
+1.º Prueba de acceso: 44,36 €.
+2.º Apertura de expediente: 23,28 €.
+3.º Certificados académicos: 8,87 €.
+4.º Traslado de expediente: 8,87 €.
+5.º Servicios generales: 11,09 €.
+6.º Solicitud de convalidación, adaptación, reconocimiento, transferencia o correspondencia de asignaturas o créditos: 17,27 €.
+Se deroga la letra c) por la disposición derogatoria única.b) de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 decies
+
+Artículo 103 decies. Exenciones y bonificaciones.
+1. Los miembros de familias numerosas y monoparentales tienen derecho a la bonificación de las tasas que, de acuerdo con su categoría, les pueda corresponder según las disposiciones vigentes, siempre que la soliciten en el centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción, de acuerdo con los documentos previstos en la normativa vigente.
+a) Familia numerosa y monoparental de categoría general: bonificación del 50% de las tasas.
+b) La familia numerosa y monoparental de categoría especial queda exenta del pago de la tasa.
+2. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, tendrán derecho a la exención total de tasas, siempre que la soliciten al centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará presentando la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, se adjuntará el libro de familia.
+3. Las familias en riesgo social y víctimas de violencia machista tienen derecho a la exención total de las tasas, siempre que la pidan al centro prestador del servicio y acrediten documentalmente alguna de estas situaciones en el momento de la inscripción. En el caso del cónyuge y los hijos, se tiene que adjuntar el libro de familia.
+3 bis. Las personas en situación de dependencia en grado II o III, y los miembros de su unidad familiar, las personas con un grado de discapacidad igual o superior al 33% y los miembros de su unidad familiar, los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en situación de riesgo social, los jóvenes tutelados y extutelados en vía de emancipación, los jóvenes en acogida familiar y las personas sujetas a medidas privativas de libertad tienen derecho a la exención total de la tasa. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+4. Los alumnos que reciban becas u otras ayudas de carácter oficial no están obligados a pagar la tasa correspondiente a la matrícula del curso o del trabajo final de estudios. Los alumnos que en el momento de formalizar la matrícula se acojan a esta exención están obligados a pagar la tasa si posteriormente no se les concede la beca o se les revoca la beca concedida. El hecho de no pagarla comporta la anulación de la matrícula.
+5. Los alumnos con matrícula de honor o con premio extraordinario en bachillerato o en un ciclo formativo de grado superior de formación profesional, concedido por el ministerio competente o por la Consejería de Educación y Universidad del Gobierno de las Illes Balears, y los alumnos con premio de exención de matrícula obtenido en las olimpiadas de dibujo que organiza la Universidad de las Illes Balears en colaboración con la citada Consejería de Educación y Universidad, pueden acogerse a la exención total de los precios de matrícula de los créditos del primer curso de las enseñanzas artísticas superiores de diseño de que se matriculen por primera en la Escuela de Arte y Superior de Diseño de las Illes Balears.
+6. Los alumnos con premio final de carrera de ciclos formativos de artes plásticas y diseño podrán acogerse a la exención total de los precios de matrícula de los créditos del primer curso de las enseñanzas artísticas superiores de diseño de que se matriculen por primera vez en la Escuela de Arte y Superior de Diseño de las Illes Balears el primer año inmediatamente posterior a la obtención del premio.
+7. La obtención de la mención de matrícula de honor en una asignatura o más de las enseñanzas superiores artísticas de diseño permitirá, en el momento de matricularse posteriormente en las enseñanzas superiores artísticas de diseño, acogerse por una sola vez a la exención de las tasas de matrícula de un número de créditos equivalente al que se haya superado con esta mención. La correspondiente bonificación se aplicará una vez calculado el importe total de la matrícula, y no podrá resultar en ningún caso un importe final negativo.
+8. Para el reconocimiento de créditos por haber participado en actividades comunitarias (actividades artísticas, culturales, deportivas, de representación estudiantil, solidarias y de cooperación), se abonará por cada crédito el 25% de la tasa de primera matrícula.
+9. En el momento de la solicitud de la adaptación, la convalidación, la transferencia o el reconocimiento de créditos o asignaturas de otros estudios superiores artísticos, de estudios universitarios o de otros estudios equivalentes, o por correspondencia con ciclos formativos de grado superior o por la acreditación de experiencia laboral o profesional, se abonará la correspondiente tasa. Esta tasa no se aplicará cuando solo se trate de incorporar al nuevo expediente asignaturas superadas en la Escuela de Arte y Superior de Diseño de las Illes Balears de las que se mantenga la denominación, el número de créditos y el código.
+10. Los alumnos que hayan obtenido la adaptación, la convalidación, el reconocimiento o la transferencia de asignaturas o créditos de otros estudios abonarán por cada crédito el 10% de la tasa de primera matrícula. Esta tasa no se aplicará a las asignaturas superadas en la Escuela de Arte y Superior de Diseño de las Illes Balears que se incorporen al nuevo expediente manteniendo la denominación, el número de créditos y el código.
+10 bis. Los alumnos matriculados en centros propios de enseñanzas artísticas superiores que reúnan determinados criterios académicos o socioeconómicos y que no sean beneficiarios de las becas generales con cargo a los presupuestos generales del Estado, pueden tener derecho a la exención o bonificación de la tasa de matrícula de las enseñanzas oficiales de grado o de máster de enseñanzas artísticas superiores. La bonificación correspondiente se calculará con el precio del crédito, y se aplicará una vez calculado el importe total de la matrícula. En ningún caso puede resultar un importe final negativo.
+Los criterios que deben reunirse para tener derecho a las bonificaciones, así como el alcance de las exenciones o las bonificaciones serán aprobados, con carácter anual, mediante un acuerdo del Consejo de Gobierno.
+11. Las condiciones que dan derecho a las exenciones y bonificaciones en las tasas de matrícula se cumplirán en el momento de formalizar la matrícula y también en la fecha de inicio del año académico. En relación con los precios de los demás servicios, las condiciones que dan derecho a las exenciones y bonificaciones se cumplirán en el momento de la solicitud de la prestación del servicio.
+Excepcionalmente, en el caso de alumnos que hayan seguido estudios de acuerdo con cualquier regulación académica anterior a la vigente, las condiciones que den derecho a las exenciones y bonificaciones en las tasas de matrícula recogidas en los apartados 8 y 10 se cumplirán en el momento de la solicitud de la incorporación al expediente de los créditos correspondientes a estos estudios.
+Se modifica el apartado 10 bis por el art. 63.1 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Este apartado 10 bis había sido añadido por el Decreto-ley 3/2024, de 24 de mayo.
+ Se añade el apartado 10 bis por el art. 63.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a6-5
+ Se modifican los apartados 1.b), 3 y 3 bis por la disposición final 1.4 y 5 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifican los apartados 1 y 4 y se añade el 3 bis por la disposición final 1.10 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se suprime el apartado 12 por la disposición final 1.1 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade el apartado 12 por la disposición final 2.11 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica el apartado 5 por la disposición final 1.10 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 undecies
+
+Artículo 103 undecies. Devengo y pago.
+1. La tasa se devengará en el momento en que se presente la solicitud que motive el servicio o la actuación administrativa que constituya el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, en el momento de la presentación de la correspondiente solicitud.
+2. En el caso de los servicios que se presten sin necesidad de la previa solicitud, la tasa se devengará en el momento en que se preste el servicio, momento en el cual se exigirá su pago.
+Se modifica por la disposición final 4.16 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.11 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO IX
+
+Tasa por la prestación de servicios docentes relativos a las enseñanzas deportivas de régimen especial del sistema educativo
+Se modifica por la disposición final 4.17 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 duodecies
+
+Artículo 103 duodecies. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de servicios derivada de la actividad docente en materia de enseñanzas deportivas del sistema educativo desarrollada por los centros educativos públicos de las Illes Balears.
+Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 terdecies
+
+Artículo 103 terdecies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la prestación de los servicios a los que se refiere el artículo anterior.
+Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quaterdecies
+
+Artículo 103 quaterdecies. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+1. Primer nivel de las enseñanzas que conducen al título de técnico deportivo:
+– Matrícula en el bloque común completo: 80,00 euros.
+– Matrícula por módulos, en primera matrícula: 15,00 euros por cada módulo.
+– Matrícula por módulos, en segunda matrícula o matrículas posteriores: 20,00 euros por cada módulo.
+– Matrícula en el bloque complementario: 20,00 euros.
+– Matrícula en el bloque de formación práctica: 40,00 euros.
+– Inscripción para realizar la prueba de acceso de carácter general: 15,00 euros.
+– Matrícula para los solicitantes de convalidaciones o de correspondencia formativa: 8,42 €.
+2. Segundo nivel de las enseñanzas que conducen al título de técnico deportivo:
+– Matrícula en el bloque común completo: 120,00 euros.
+– Matrícula por módulos, en primera matrícula: 25,00 euros por cada módulo.
+– Matrícula por módulos, en segunda matrícula o matrículas posteriores: 30,00 euros por cada módulo.
+– Matrícula en el bloque complementario: 30,00 euros.
+– Matrícula en el bloque de formación práctica: 50,00 euros.
+– Matrícula para los solicitantes de convalidaciones o de correspondencia formativa: 8,42 €.
+3. Ciclo inicial de las enseñanzas que conducen al título de técnico deportivo (enseñanzas LOE):
+– Matrícula en el bloque común completo: 80,00 euros.
+– Matrícula en el módulo de formación práctica: 40,00 euros.
+– Matrícula por módulos, en primera matrícula: 15,00 euros por cada módulo.
+– Matrícula por módulos, en segunda matrícula o matrículas posteriores: 20,00 euros por cada módulo.
+– Inscripción para realizar la prueba de acceso de carácter general: 15,00 euros.
+– Matrícula para los solicitantes de convalidaciones o de correspondencia formativa: 8,42 €.
+4. Ciclo final de las enseñanzas que conducen al título de técnico deportivo (enseñanzas LOE):
+– Matrícula en el bloque común completo: 120,00 euros.
+– Matrícula en el módulo de formación práctica: 50,00 euros.
+– Matrícula por módulos, en primera matrícula: 25,00 euros por cada módulo.
+– Matrícula por módulos, en segunda matrícula o matrículas posteriores: 30,00 euros por cada módulo.
+– Matrícula para los solicitantes de convalidaciones o de correspondencia formativa: 8,42 €.
+5. Enseñanzas que conducen al título de técnico deportivo superior:
+– Matrícula en el bloque común completo: 180,00 euros.
+– Matrícula por módulos, en primera matrícula: 30,00 euros por cada módulo.
+– Matrícula por módulos, en segunda matrícula o matrículas posteriores: 35,00 euros por cada módulo.
+– Matrícula en el bloque complementario (enseñanzas anteriores a la LOE): 35,00 euros.
+– Matrícula en el bloque de formación práctica (enseñanzas anteriores a la LOE) o en el módulo de formación práctica (enseñanzas LOE): 75,00 euros.
+– Matrícula en el módulo de proyecto final: 35,00 euros.
+– Inscripción para realizar la prueba de acceso de carácter general: 15,00 euros.
+– Matrícula para los solicitantes de convalidaciones o de correspondencia formativa: 8,42 €.
+6. Para cualquiera de las enseñanzas citadas:
+– Apertura de expediente: 21,00 euros.
+– Certificado académico: 8,00 euros.
+– Traslado de expediente: 8,00 euros.
+– Servicios generales: 10,00 euros.
+Se modifican los apartados 1 a 5 por la disposición final 4.18 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quindecies
+
+Artículo 103 quindecies. Exenciones y bonificaciones.
+1. Los miembros de familias numerosas y monoparentales tienen derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les pueda corresponder según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la inscripción.
+2. El alumnado que reciba becas u otras ayudas de carácter oficial no está obligado a pagar la tasa por matrícula. El alumnado que al formalizar la matrícula se acoja a la exención por haber solicitado la concesión de una beca y posteriormente no obtenga la condición de becario o le sea revocada la beca concedida, está obligado a pagar la tasa correspondiente a la matrícula que realizó. El hecho de no pagarla comporta la anulación de esta matrícula en la enseñanza o las enseñanzas en las que esté matriculado.
+3. Las personas en situación de dependencia en grado II o III y las personas con un grado de discapacidad igual o superior al 33% quedan exentas del pago de la tasa. También quedan exentos los miembros de su unidad familiar, siempre que acrediten documentalmente en el momento de la inscripción que se encuentran en alguna de estas situaciones.
+4. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, estarán exentas del pago de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el libro de familia.
+5. Las víctimas de violencia de género, así como los hijos o hijas que dependen de las mismas, tienen derecho a la exención total de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición debe acreditarse presentando cualquiera de los documentos previstos en la normativa vigente. En el caso de los hijos o hijas dependientes, también debe presentarse el libro de familia.
+6. Están exentos de pagar la tasa los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en situación de riesgo social, los jóvenes tutelados y extutelados en vía de emancipación, los jóvenes en acogida familiar y las personas sujetas a medidas privativas de libertad, siempre que acrediten documentalmente en el momento de la inscripción que se encuentran en alguna de estas situaciones.
+Se modifican los apartados 3 y 6 por la disposición final 1.6 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifican los apartados 1, 2 y 5 y se añade el 6 por la disposición final 1.11 y 12 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.12 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 sexdecies
+
+Artículo 103 sexdecies. Devengo.
+La tasa se devenga cuando se solicita la prestación de los servicios que constituyen el hecho imponible, con excepción de los que deban prestarse sin necesidad de solicitud previa, en cuyo caso la tasa se devengará en el momento de prestarlos.
+Se añade por la disposición final 3.12 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO X
+
+Tasa por la realización de las pruebas de acceso a los ciclos formativos de formación profesional y a los ciclos formativos de artes plásticas y diseño
+Se modifica por la disposición final 4.19 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 septdecies
+
+Artículo 103 septdecies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la prestación, por parte de la administración competente en materia educativa, de los servicios y las actuaciones inherentes a la realización de la pruebas de acceso a los ciclos formativos de grado medio, a los ciclos formativos de grado superior de formación profesional y a los ciclos formativos de artes plásticas y diseño.
+Se modifica por la disposición final 4.20 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 octodecies
+
+Artículo 103 octodecies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la inscripción para realizar las pruebas a las que se refiere en artículo anterior.
+Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 novodecies
+
+Artículo 103 novodecies. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+1. Inscripción para realizar las pruebas de acceso a los ciclos formativos de grado medio de formación profesional (incluida la expedición del certificado que acredita que se ha superado la prueba): 23,25 euros.
+2. Inscripción para realizar las pruebas de acceso a los ciclos formativos de grado superior de formación profesional (incluida la expedición del certificado que acredita que se ha superado la prueba): 34,87 euros.
+3. Inscripción para realizar la parte general de las pruebas de acceso a los ciclos formativos de grado medio de artes plásticas y diseño (incluida la expedición del certificado que acredita que se ha superado la prueba): 11,63 euros.
+4. Inscripción para realizar la parte específica de las pruebas de acceso a los ciclos formativos de grado medio de artes plásticas y diseño (incluida la expedición del certificado que acredita que se ha superado la prueba): 11,62 euros.
+5. Inscripción para realizar la parte general de las pruebas de acceso a los ciclos formativos de grado superior de artes plásticas y diseño (incluida la expedición del certificado que acredita que se ha superado la prueba): 17,44 euros.
+6. Inscripción para realizar la parte específica de las pruebas de acceso a los ciclos formativos de grado superior de artes plásticas y diseño (incluida la expedición del certificado que acredita que se ha superado la prueba): 17,43 euros.
+Se modifica por la disposición final 1.3 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 vicies
+
+Artículo 103 vicies. Exenciones y bonificaciones.
+1. Quedan exentos del pago de la tasa:
+a) Las personas en situación legal de desempleo, las personas en situación de dependencia en grado II o III y los miembros de su unidad familiar, las personas con un grado de discapacidad igual o superior al 33% y los miembros de su unidad familiar, los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en riesgo social, las personas sujetas a medidas privativas de libertad, los jóvenes tutelados y extutelados en vía de emancipación y los jóvenes en situación de acogida familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+b) Las personas que hayan sido víctimas de actos terroristas, y también el cónyuge y los hijos o hijas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición debe acreditarse presentando la correspondiente resolución administrativa. En el caso del cónyuge y los hijos o hijas, debe adjuntarse el libro de familia.
+c) Las víctimas de violencia de género, así como los hijos o hijas que dependan de los mismos, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición debe acreditarse presentando cualquiera de los documentos previstos en la normativa vigente. En el caso de los hijos o hijas dependientes, también debe presentarse el libro de familia.
+d) Los miembros de familias numerosas, así como los miembros de familias monoparentales de categoría especial, siempre que la soliciten en el centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción de acuerdo con los documentos previstos en la normativa vigente.
+2. Tienen derecho a una bonificación del 50% de la tasa los miembros de familias monoparentales de categoría general, siempre que la pidan al centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción de acuerdo con los documentos que prevé la normativa vigente.
+Se modifica la letra a) del apartado 1 por la disposición final 1.7 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica el apartado 2 por la disposición final 1.6 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica por la disposición final 1.13 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.13 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 unvicies
+
+Artículo 103 unvicies. Devengo.
+La tasa se devenga cuando se presta el servicio correspondiente. No obstante, el pago debe realizarse en el momento en el que se formaliza la inscripción para efectuar la prueba.
+El importe de la tasa debe devolverse, previa solicitud, en caso de que la persona solicitante no sea admitida a las pruebas convocadas.
+Se modifica por la disposición final 1.14 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO XI
+
+Tasa por la realización de las pruebas para obtener el título de técnico o de técnico superior de formación profesional
+Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 duovicies
+
+Artículo 103 duovicies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, por parte de la administración competente en materia de educación, de los servicios y las actuaciones inherentes a la realización de las pruebas que permiten obtener el título de técnico o de técnico superior de formación profesional.
+Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 tervicies
+
+Artículo 103 tervicies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la inscripción para realizar las pruebas a las que se refiere el artículo anterior.
+Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quatervicies
+
+Artículo 103 quatervicies. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+– Inscripción para realizar la prueba libre (por cada módulo que pertenece a ciclos de grado medio, incluida la expedición del certificado que acredita las calificaciones obtenidas): 8,00 euros.
+– Inscripción para realizar la prueba libre (por cada módulo que pertenece a ciclos de grado superior, incluida la expedición del certificado que acredita las calificaciones obtenidas): 11,00 euros.
+Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 quinvicies
+
+Artículo 103 quinvicies. Exenciones y bonificaciones.
+1. Quedan exentos del pago de la tasa:
+a) Las personas en situación legal de desempleo, las personas en situación de dependencia en grado II o III y los miembros de su unidad familiar, las personas con un grado de discapacidad igual o superior al 33% y los miembros de su unidad familiar, los miembros de las familias en situación de vulnerabilidad económica especial, los miembros de las familias en riesgo social, las personas sujetas a medidas privativas de libertad, los jóvenes tutelados y extutelados en vía de emancipación y los jóvenes en situación de acogida familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+b) Las personas que hayan sido víctimas de actos terroristas, y también el cónyuge y los hijos o hijas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición debe acreditarse presentando la correspondiente resolución administrativa. En el caso del cónyuge y los hijos o hijas, debe adjuntarse el libro de familia.
+c) Las víctimas de violencia de género, así como los hijos o hijas que dependen de las mismas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición debe acreditarse presentando cualquiera de los documentos previstos en la normativa vigente. En el caso de los hijos o hijas dependientes, también debe presentarse el libro de familia.
+d) Los miembros de familias numerosas, así como los miembros de familias monoparentales de categoría especial, siempre que la soliciten en el centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción de acuerdo con los documentos previstos en la normativa vigente.
+2. Tienen derecho a una exención del 50% de la tasa los miembros de familias monoparentales de categoría general, siempre que la soliciten en el centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción de acuerdo con los documentos previstos en la normativa vigente.
+Se modifica la letra a) del apartado 1 por la disposición final 1.8 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.15 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.14 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 103 sexvicies
+
+Artículo 103 sexvicies. Devengo.
+La tasa se devenga cuando se presta el servicio correspondiente. No obstante, el pago debe realizarse en el momento en que se formaliza la inscripción para efectuar la prueba.
+El importe de la tasa debe devolverse, previa solicitud, en caso de que la persona solicitante no sea admitida a las pruebas convocadas.
+Se modifica por la disposición final 1.16 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO XII
+
+Tasa por la implementación de los procesos de reconocimiento de competencias profesionales conseguidas por experiencia laboral
+Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 103 septvicies
+
+Artículo 103 septvicies. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la prestación de servicios derivada de la implementación de los procesos de reconocimiento de competencias profesionales logradas por experiencia laboral en las Illes Balears.
+2. No está sujeta al pago de la tasa la inscripción en el proceso de reconocimiento de competencias profesionales logradas por experiencia laboral o vías no formales de formación.
+Se modifica por la disposición final 1.2 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 103 octovicies
+
+Artículo 103 octovicies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas que soliciten la inscripción en los procesos a que se refiere el anterior artículo.
+Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 103 novovicies
+
+Artículo 103 novovicies. Cuantía.
+La tasa se exige de acuerdo con las tarifas siguientes:
+1. Inscripción en la fase de asesoramiento: 5,00 euros.
+2. Inscripción en la fase de evaluación y acreditación: 2,50 euros por unidad de competencia.
+Se modifica por la disposición final 1.3 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 103 tricies
+
+Artículo 103 tricies. Exenciones.
+Quedan exentas del pago de la tasa:
+a) Las personas en situación legal de desempleo, siempre que presenten el informe de periodo ininterrumpido inscrito en situación de desocupación del Servicio de Empleo de las Illes Balears (SOIB) o el organismo equivalente de fuera de las Illes Balears que acredite que está inscrito como demandante de empleo y la condición de desocupado. La fecha de este documento no puede ser anterior en más de quince días naturales a la fecha de formalización de la inscripción.
+b) Las personas con una discapacidad igual o superior al 33 %, siempre que presenten la tarjeta acreditativa del grado de discapacitado o un certificado expedido por la Dirección General de Atención a la Dependencia, y los miembros de su unidad familiar.
+c) Las personas en situación de dependencia en grado II o III y los miembros de su unidad familiar, siempre que presenten la documentación acreditativa correspondiente.
+d) Los miembros de familias numerosas, siempre que presenten el título de familia numerosa en vigor.
+e) Las familias en situación de vulnerabilidad económica especial, siempre que presenten el certificado correspondiente.
+f) Las familias en situación de riesgo social, siempre que presenten la documentación acreditativa correspondiente.
+g) Las personas sujetas a medidas privativas de libertad, siempre que presenten un certificado expedido por el centro penitenciario.
+h) Los jóvenes en acogida familiar y los jóvenes tutelados y extutelados en vías de emancipación, siempre que presenten el certificado correspondiente.
+i) Las personas que hayan sido víctimas de actos terroristas, y también el cónyuge y los hijos, siempre que acrediten documentalmente esta condición mediante la resolución administrativa correspondiente. En el caso del cónyuge y los hijos, también se tiene que presentar el libro de familia.
+j) Las víctimas de violencia de género, y también los hijos dependientes, siempre que acrediten documentalmente esta condición mediante cualquier de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también se tiene que presentar el libro de familia.
+k) Los miembros de las familias monoparentales, siempre que presenten el título de familia monoparental o la tarjeta individual en vigor.
+Se modifica por la disposición final 1.4 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica la letra a) por la disposición final 1.9 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica la letra a) y se añade la d) por la disposición final 1.17 y 18 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.15 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 103 untricies
+
+Artículo 103 untricies. Devengo.
+La tasa se devenga cuando se presta el correspondiente servicio. No obstante, el pago ha de hacerse en el momento en que se formaliza la inscripción para participar en cada una de las fases del proceso de reconocimiento de competencias profesionales conseguidas por experiencia laboral.
+El importe de la tasa ha de devolverse en el caso de que la persona solicitante no sea admitida en la fase a la cual se ha inscrito. La solicitud de devolución ha de presentarse en el plazo de veinte días naturales a contar desde el día siguiente a la publicación de la relación definitiva de personas admitidas y excluidas.
+Se añade por la disposición final 4.4 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XIII
+
+Tasa para la tramitación de las solicitudes de evaluación para la acreditación del profesorado por parte de la Agencia de Calidad Universitaria de las Illes Balears
+Se añade por la disposición final 2.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 103 duotricies
+
+Artículo 103 duotricies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios inherentes a la tramitación de las solicitudes normalizadas de evaluación para la acreditación del profesorado por parte de la Agencia de Calidad Universitaria de las Illes Balears.
+Se añade por la disposición final 2.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 103 tertricies
+
+Artículo 103 tertricies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que solicitan la evaluación de la acreditación a que se refiere el hecho imponible.
+Se añade por la disposición final 2.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 103 quatertricies
+
+Artículo 103 quatertricies. Cuantía, exenciones y bonificaciones.
+1. El importe de la tasa es de 53,90€ por la evaluación de cada figura contractual.
+2. Tienen derecho a obtener exenciones o bonificaciones de la tasa:
+2.1 Los miembros de familias numerosas tienen derecho a la bonificación de las tasas, siempre que acrediten documentalmente su situación en el momento de la solicitud.
+a) Familia numerosa o monoparental de categoría general: bonificación del 50% de las tasas.
+b) Familia numerosa o monoparental de categoría especial: bonificación del 100% de las tasas.
+2.2 Las personas que hayan sido víctimas de actos terroristas tienen derecho a la exención total de tasas, siempre que acrediten documentalmente su situación en el momento de la inscripción.
+2.3 Las víctimas de violencia de género tienen derecho a la exención total de tasas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acredita presentando cualquiera de los documentos previstos en la normativa vigente.
+2.4 Las personas con una discapacidad igual o superior al 33%, las familias en situación de vulnerabilidad económica especial y las personas sujetas a medidas privativas de libertad, tienen derecho a la exención total de tasas, siempre que acrediten documentalmente su situación en el momento de la inscripción.
+2.5 Las personas que están en situación de desempleo quedan exentas del pago de la tasa. Esta condición se acreditará documentalmente en el momento de presentar la solicitud.
+Se modifica el apartado 2.5 por la disposición final 1.5 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica el apartado 1 por la disposición final 1.10 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica el apartado 2 por la disposición final 1.20 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 2.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 103 quintricies
+
+Artículo 103 quintricies. Devengo y pago.
+1. La tasa se devenga cuando se presente la solicitud de evaluación correspondiente, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se realizará mediante la presentación y el ingreso de la autoliquidación correspondiente, al tiempo de la presentación de la solicitud de evaluación de la acreditación.
+Se añade por la disposición final 2.1 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+## CAPÍTULO XIV
+
+Tasa por la inscripción en la evaluación final de Bachillerato
+Se deroga, con efectos de 1 de enero de 2025, por la disposición derogatoria única.c) de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículos 103 sextricies a 103 quadragies
+
+Artículos 103 sextricies a 103 quadragies.
+(Derogados)
+Se derogan, con efectos de 1 de enero de 2025, por la disposición derogatoria única.c) de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 103 sextricies
+
+Artículo 103 sextricies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios inherentes a la inscripción para la evaluación final de bachillerato, según el tipo de evaluación de que se haya inscrito el alumno.
+Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 103 septricies
+
+Artículo 103 septricies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas que soliciten realizar alguna de las actividades que constituyen el hecho imponible.
+Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 103 octotricies
+
+Artículo 103 octotricies. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes cuantías:
+Evaluación ordinaria final de Bachillerato: 68,28 euros.
+Segunda modalidad de evaluación final de Bachillerato: 23,90 euros.
+Materia suelta en la evaluación final de Bachillerato: 8,34 euros.
+Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 103 novotricies
+
+Artículo 103 novotricies. Bonificaciones y exenciones.
+1. Los miembros de familias numerosas tendrán derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les corresponda según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la inscripción.
+2. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, quedarán exentas del pago de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el libro de familia.
+3. Las víctimas de violencia de género, así como los hijos que dependan de ellas, quedarán exentas del pago de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante cualquiera de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también deberá presentarse el libro de familia.
+4. Los jóvenes tutelados y extutelados en vías de emancipación, así como los jóvenes en proceso de autonomía personal en el marco de la Ley 7/2015, de 10 de abril, por la que se establece el marco regulador de los procesos de autonomía personal de menores que han sido sometidos a una medida de protección o reforma, tendrán derecho a la exención total de la tasa. Esta condición se acreditará mediante el correspondiente certificado acreditativo expedido por la administración competente en el momento de la inscripción.
+5. Quedan exentos del pago de la tasa los miembros de las familias en situación de riesgo social, los miembros de las familias en situación de especial vulnerabilidad económica, las personas en situación de dependencia en grado II o III y los miembros de su unidad familiar, y las personas con un grado de discapacidad igual o superior al 33% y los miembros de su unidad familiar. Los sujetos pasivos de la tasa tienen que acreditar documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+Se añade el apartado 5 por la disposición final 1.11 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 103 quadragies
+
+Artículo 103 quadragies. Devengo y pago.
+1. La tasa se devengará en el momento de solicitar la correspondiente inscripción, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, en el momento de presentar la solicitud de inscripción en la evaluación final de bachillerato.
+Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO XV
+
+Tasas por la prestación de servicios de escolarización básica, complementarios y de refuerzo de la Escuela de Educación Infantil (EI) de Primer Ciclo Can Nebot, de Sant Jordi de Ses Salines, en el término municipal de Sant Josep de Sa Talaia (Eivissa)
+Se deroga, con efectos de 1 de enero de 2025, por la disposición derogatoria única.c) de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 unquadragies a 103 sexquadragies
+
+Artículo 103 unquadragies a 103 sexquadragies.
+(Derogados)
+Se derogan, con efectos de 1 de enero de 2025, por la disposición derogatoria única.c) de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 103 unquadragies
+
+Artículo 103 unquadragies. Hecho imponible.
+1. Constituye el hecho imponible de la tasa la prestación de los servicios educativos, que comprende los servicios de escolarización básica, los complementarios y los de refuerzo, inherentes al servicio público de educación que presta la escuela de educación infantil (EI) de primer ciclo Can Nebot, de Sant Jordi de Ses Salines, en el término municipal de Sant Josep de Sa Talaia (Eivissa), sin perjuicio de que la prestación de estos servicios durante las vacaciones escolares sólo se ofrezca si hay demanda suficiente.
+2. No está sujeta al pago de la tasa la jornada de escolarización básica de 9.00 h a 13.00 h para los niños del primer ciclo de educación infantil de septiembre a junio.
+Se modifica el apartado 2 por la disposición final 1.1 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 duoquadragies
+
+Artículo 103 duoquadragies. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas o entidades a que se refiere el artículo 35 de la Ley general tributaria que soliciten la prestación de los servicios que constituye el hecho imponible de la tasa.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980, producirá efectos a partir del 1 de septiembre de 2023, según establece su disposición final 23.
+ Redacción anterior:
+ "Artículo 103 duoquadragies. Sujeto pasivo.
+ Son sujetos pasivos de la tasa las personas o las entidades a que se refiere el artículo 35 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la prestación de los servicios que constituyen el hecho imponible de la tasa."
+Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 triquadragies
+
+Artículo 103 triquadragies. Devengo y pago.
+1. La tasa se devenga cuando se presenta la solicitud para la prestación del servicio correspondiente, de acuerdo con lo que dispone la letra b) del artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. La tasa se tiene que pagar mediante el documento de ingreso de autoliquidación correspondiente, que se tiene que presentar con la solicitud.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980, producirá efectos a partir del 1 de septiembre de 2023, según establece su disposición final 23.
+ Redacción anterior:
+ "Artículo 103 triquadragies. Devengo y pago.
+ 1. La tasa se merita cuando se presenta la solicitud para la prestación del servicio correspondiente, de acuerdo con lo que dispone la letra b) del artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+ 2. La tasa se tiene que pagar mediante el documento de ingreso de autoliquidación correspondiente, que se tiene que presentar con la solicitud."
+Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 quaterquadragies
+
+Artículo 103 quaterquadragies. Cuota tributaria.
+Los servicios complementarios y los de refuerzo, la prestación de los cuales constituye el hecho imponible, quedan gravados de la siguiente manera:
+Concepto
+ Cuota
+ 1. Tasas por servicios complementarios.
+ 1.1 Servicio de alimentación (de 13.00 h a 14.00 h).
+ 120 €/mes
+ 6 €/día
+ 1.2 Servicio de primera acogida (de 7.30 h a 7.59 h).
+ 30 €/mes
+ 1,50 €/día
+ 1.3 Servicio de acogida (de 8.00 h a 8.45 h).
+ 21 €/mes
+ 1,05 €/día
+ 1.4 Servicio de recogida de 13.15 h a 14.00 h (sin comedor).
+ 21 €/mes
+ 1,05 €/día
+ 1.5 Servicio de recogida de 14.15 h a 15.00 h.
+ 23 €/mes
+ 1,15 €/día
+ 1.6 Servicio de recogida de 15.15 h a 16.00 h.
+ 46 €/mes
+ 2,30 €/día
+ 2. Tasas por servicios de refuerzo.
+ 2.1 Curso de masaje (6 sesiones).
+ 3 €/sesión
+ 2.2 Espacios familiares (10 sesiones semanales de dos horas).
+ 12 €
+ 2.3 Taller de familias (6 sesiones mensuales de dos horas).
+ 12 €
+Los servicios de escolarización básica para el mes de julio, la prestación de los cuales constituye el hecho imponible, quedan gravados de la siguiente manera:
+Concepto
+ Cuota
+ 1. Tasas por servicios educativos.
+ 1.1 Jornada de escolarización básica de 9.00 h a 13.00 h (niños de 1.º de educación infantil).
+ 180 €/mes
+ 1.2 Jornada de escolarización básica de 9.00 h a 13.00 h (niños de 2.º y 3.º de educación infantil).
+ 175 €/mes
+Se modifica por la disposición final 1.2 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 quinquadragies
+
+Artículo 103 quinquadragies. Bonificaciones y exenciones.
+1. Quedan exentos del pago de la tasa:
+a) Los alumnos que se encuentren en situación de acogida acreditada mediante un certificado del director o la directora del centro de acogida o del órgano competente.
+b) Las familias víctimas de violencia de género. Esta condición se tiene que acreditar mediante la presentación de una copia compulsada de la orden de protección a favor de la víctima o, si hay, de la sentencia definitiva condenatoria por hechos constitutivos de violencia de género. También se puede acreditar mediante cualquier de los medios establecidos en el artículo 78.2 de la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres.
+c) Los alumnos que tengan la condición de refugiado o cuyos padres o tutores tengan esta condición.
+2. Tienen derecho a una bonificación del 20% de las tasas por servicios de escolarización básica durante el mes de julio:
+a) Las familias que tengan dos o más hijos matriculados en el centro.
+b) Las familias que tengan un hijo o hija matriculado con necesidades educativas especiales.
+3. Tienen derecho a diferentes bonificaciones de las tasas por los servicios de escolarización básica las familias en situación de protección especial que prevé el artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias. Se incluye dentro de los servicios educativos la jornada de escolarización básica de 9.00 h a 13.00 h de los niños del primer ciclo de educación infantil durante el mes de julio.
+4. Para los alumnos en los cuales concurran condiciones económicas o sociofamiliares desfavorables, la bonificación de las tasas por servicios educativos se tiene que hacer de acuerdo con la siguiente tabla:
+Puntuación
+ Bonificación
+ 20 puntos o más.
+ 100 %
+ De 15 a 19 puntos.
+ 75 %
+ De 10 a 14 puntos.
+ 50 %
+ De 5 a 9 puntos.
+ 25 %
+ Menos de 5 puntos.
+ 0 %
+Para obtener esta puntuación se tienen que tener en cuenta las condiciones que se detallan a continuación:
+a) Las condiciones económicas. Se computan como ingresos familiares la totalidad de los ingresos de la unidad familiar durante el año fiscal inmediatamente anterior a la presentación de la solicitud. Al cociente resultante de dividir todos los ingresos entre el número de unidades de consumo se tiene que adjudicar la siguiente puntuación:
+Ingresos
+ Puntuación
+ Hasta 5.211,18 euros
+ 20 puntos
+ De 5.211,19 euros a 6.253,42 euros
+ 17 puntos
+ De 6.253,43 euros a 7.295,65 euros
+ 14 puntos
+ De 7.295,66 euros a 8.337,89 euros
+ 11 puntos
+ De 8.337,90 euros a 9.380,12 euros
+ 8 puntos
+ De 9.380,13 euros a 10.422,36 euros
+ 5 puntos
+ Más de 10.422,36 euros
+ 0 puntos
+Para calcular las unidades de consumo del núcleo familiar, se tienen que tener en cuenta todos los miembros de la unidad familiar, de acuerdo con los criterios que se indican a continuación:
+a.1) Son miembros de la unidad familiar:
+1.º El alumno para el cual se solicita la ayuda.
+2.º Los padres, tutores o personas encargadas de la guarda del menor.
+3.º Los hermanos menores de edad.
+4.º Los hermanos menores de veinticinco años que conviven en el domicilio familiar.
+5.º Los hermanos, independientemente de la edad, cuando se trata de personas en situación de dependencia o con discapacidad física o psíquica en un grado igual o superior al 33 % que conviven en el domicilio familiar.
+6.º Los ascendientes familiares que conviven en el domicilio familiar.
+a.2) En caso de divorcio o separación legal de los padres, no se considera miembro computable aquel que no conviva con la persona beneficiaria de la ayuda. En los casos de custodia compartida, son computables los dos.
+a.3) Se considera miembro computable la persona que mantenga una relación afectiva con el progenitor o el tutor legal del beneficiario que presenta la solicitud, en condición de cónyuge, pareja de hecho (acreditada de acuerdo con la Ley 18/2001, de 19 de diciembre, de parejas estables) o situación de hecho estable.
+a.4) El primer adulto de la unidad familiar supone una unidad de consumo, y el resto de adultos mayores de catorce años suponen 0,5 unidades de consumo. Los menores de catorce años suponen 0,3 unidades de consumo.
+b) Las circunstancias familiares:
+Circunstancias
+ Puntuación
+ Por cada niño en acogida.
+ 1 punto
+ Por cada persona de la unidad familiar en situación de dependencia o discapacidad física o psíquica (33 % o más).
+ 2 puntos
+ Por familia numerosa general.
+ 1 punto
+ Por familia numerosa especial.
+ 2 puntos
+ Por familia monoparental.
+ 2 puntos
+ Por tener dos o más niños escolarizados en un mismo centro.
+ 1 punto
+c) Las siguientes condiciones sociofamiliares desfavorables:
+c.1) Desatención o maltrato (máximo otorgado en este apartado, 1 punto):
+1.º Maltrato físico, psíquico o emocional.
+2.º Violencia doméstica.
+3.º Negligencia física (en alimentación, higiene, organización familiar, etc.) y psíquica (ignorancia, rechazo, etc.).
+4.º Abuso o explotación sexual o laboral.
+5.º Modelo de vida inadecuado en el hogar (conductas delictivas, etc.).
+6.º Problemas de salud provocados.
+7.º Imposibilidad de cumplimiento de las obligaciones de los padres o tutores (a causa de muerte, prisión o incapacidad).
+c.2) Riesgo (máximo otorgado en este apartado, 1 punto):
+1.º Características familiares: estructura familiar, relaciones familiares, contexto socioeducativo (aislamiento, déficits, etc.), competencia para la educación y crianza de los hijos, salud física o psíquica de los padres.
+2.º Salud física y psicosocial de los niños y las niñas.
+c.3) Dificultades en la atención por motivos de disponibilidad del padre, la madre o los tutores (máximo otorgado en este apartado, 2 puntos):
+1.º Incompatibilidad con el horario laboral o formativo.
+2.º Problemas de salud que impidan la atención de los hijos (por problemas crónicos, físicos o psíquicos del padre, la madre o los tutores u otros miembros de la unidad familiar que puedan ser causa de indisponibilidad).
+c.4) Situación laboral transitoria (la puntuación no es acumulable, se tiene que elegir uno de los supuestos):
+1.º Situación de desempleo de un miembro de la unidad familiar (4 puntos).
+2.º Situación de desempleo de dos o más miembros de la unidad familiar (10 puntos).
+3.º Beneficiarios de prestaciones extraordinarias por COVID-19 o subsidio; beneficiarios de rentas mínimas de inserción, renta social garantizada u otras similares existentes en el momento de la valoración; perceptores de una cuantía igual o inferior al salario mínimo interprofesional.
+Número de menores a cargo
+ (Menores de catorce años)
+ Duración de la situación
+ Menos de seis meses
+ De seis meses o más
+ 1
+ 5 puntos
+ 10 puntos
+ 2
+ 7 puntos
+ 12 puntos
+ 3 o más
+ 9 puntos
+ 14 puntos
+4.º Sin prestación económica por parte de ninguno de los miembros de la unidad familiar (14 puntos).
+c.5) Informe emitido por los servicios sociales correspondientes que aconseje facilitar la ayuda de escolarización a raíz de las circunstancias socioeconómicas desfavorables (5 puntos).
+El Consejo Escolar tiene que aprobar la valoración de las condiciones sociofamiliares desfavorables a partir de la propuesta de valoración hecha por el equipo directivo, con la ayuda del equipo de apoyo, de acuerdo con la información y los documentos que se hayan podido recabar.
+5. Las bonificaciones que establece este artículo no son acumulables.
+Se modifican los apartados 2 y 3 por la disposición final 1.3 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 103 sexquadragies
+
+Artículo 103 sexquadragies. Normas de gestión y pago.
+1. La formalización de la matrícula implica el bloqueo de la plaza, que no puede ser ocupada por ningún otro niño o niña. El sujeto pasivo tiene derecho a la devolución de las tasas indebidamente satisfechas por las causas generales admitidas en derecho y, también, cuando el servicio, la función o la actividad constitutiva del hecho imponible correspondiente no se preste, desarrolle o realice por causas no imputables a él. Sólo en casos de enfermedad o ausencia justificada puede no ocuparse la plaza por un periodo limitado. En este caso, el sujeto pasivo se tiene que hacer cargo del 100 % del importe del servicio educativo.
+En el supuesto que la matrícula se formalice durante la segunda quincena del mes, y siempre que ya haya empezado el curso escolar, este mes tan sólo se tiene que abonar el 50% de la tasa que corresponda.
+La falta de asistencia de un niño o una niña por un periodo superior a quince días sin justificación puede implicar la baja definitiva.
+2. La tasa mensual del servicio del servicio de escolarización básica y de los servicios complementarios contratados se tiene que recaudar en los primeros cinco días del mes, mediante el documento de ingreso de autoliquidación correspondiente. El mes de julio tiene la consideración de lectivo y se tiene que abonar. Durante los primeros cinco días de cada mes, las familias tienen que aportar al centro el resguardo del ingreso efectuado para satisfacer las tasas del mes correspondiente.
+Un retraso en el pago de más de una mensualidad sin un motivo que lo justifique obliga a pedir un informe a la concejalía competente en materia de asuntos sociales, la cual propondrá las medidas pertinentes. Si supone dar de baja el niño o la niña del centro, la dirección del centro tiene que comunicar la baja por escrito a la familia con quince días de antelación.
+3. Los alumnos que utilicen los servicios complementarios de manera esporádica tienen que pagar la parte proporcional del coste, teniendo en cuenta que se considera esporádico un máximo de diez días hábiles mensuales. Esta cuantía se tiene que recaudar durante los cinco primeros días del mes siguiente de acuerdo con el uso que se haya hecho de los servicios.
+Los cambios en los regímenes de utilización de los servicios serán mensuales y se comunicarán a la dirección del centro con una semana de antelación y por escrito.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980, producirá efectos a partir del 1 de septiembre de 2023, según establece su disposición final 23.
+ Redacción anterior:
+ "Artículo 103 sexquadragies. Normas de gestión y pago.
+ 1. La formalización de la matrícula implica el bloqueo de la plaza, que no puede ser ocupada por ninguno otro niño o niña. El sujeto pasivo tendrá derecho a la devolución de las tasas indebidamente satisfechas por las causas generales admitidas en derecho y, también, cuando el servicio, la función o la actividad constitutiva del hecho imponible correspondiente no se hubiera prestado, desarrollado o realizado por causas no imputables a aquel. Solo en casos de enfermedad o ausencia justificada podrá no ocuparse la plaza por un periodo limitado. En este caso el sujeto pasivo deberá hacerse cargo del 100% del importe del servicio educativo.
+ En el supuesto que la matrícula se formalice durante la segunda quincena del mes, y siempre que ya haya empezado el curso escolar, este mes tan solo se tendrá que abonar el 50% de la tasa que corresponda.
+ La falta de asistencia de un niño o una niña por un periodo superior a quince días sin justificación puede implicar la baja definitiva.
+ 2. La tasa mensual del servicio educativo y de los servicios complementarios contratados se recaudará dentro de los primeros cinco días del mes, mediante el documento de ingreso de autoliquidación correspondiente. El mes de julio tiene la consideración de lectivo y se tiene que abonar. Dentro de los primeros cinco días de cada mes, las familias deberán aportar al centro el resguardo del ingreso realizado para satisfacer las tasas del mes correspondiente.
+ Un retraso en el pago de más de una mensualidad sin un motivo que lo justifique obliga a pedir un informe a la concejalía competente en materia de asuntos sociales, la cual propondrá las medidas pertinentes. Si supone dar de baja el niño o la niña del centro, la dirección del centro tiene que comunicar la baja por escrito a la familia con quince días de antelación.
+ 3. Los alumnos que utilicen los servicios complementarios de manera esporádica tienen que pagar la parte proporcional del coste, teniendo en cuenta que se considera esporádico un máximo de diez días hábiles mensuales. Esta cuantía se recaudará dentro de los primeros cinco días del mes siguiente de acuerdo con el uso que se haya hecho de los servicios.
+ Los cambios en los regímenes de utilización de los servicios tienen que ser mensuales y se tienen que comunicar a la dirección del centro con una semana de antelación y por escrito."
+Se modifica, con efectos a partir del 1 de septiembre de 2023 para el curso escolar 2023-2024, por la disposición final 1.5 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica, con efectos a partir del 1 de septiembre de 2022 para el curso escolar 2022-2023, por la disposición final 1.12 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.7 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+## TÍTULO VI
+
+Consejería de Medio Ambiente, Ordenación del Territorio y Litoral
+
+## CAPÍTULO I
+
+Tasa por la elaboración de informes y certificaciones relativos a la ordenación del territorio y el urbanismo
+Se modifica por el art. 27.3 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 104
+
+Artículo 104. Hecho imponible.
+Constituye el hecho imponible de la tasa la emisión de informes de carácter técnico o la expedición de certificaciones en materia de ordenación del territorio y en materia de urbanismo, incluidos los que se emitan por medios electrónicos, informáticos o telemáticos.
+Se modifica por el art. 27.3 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 105
+
+Artículo 105. Exenciones.
+Está exenta de esta tasa la emisión de informes solicitados por entes públicos o institucionales.
+
+### Artículo 106
+
+Artículo 106. Sujeto pasivo.
+Son sujetos pasivos de esta tasa aquellos que soliciten la emisión de informes de carácter técnico o certificaciones en materia de ordenación del territorio y en materia de urbanismo.
+Se modifica por el art. 27.3 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 107
+
+Artículo 107. Cuantía.
+La cuota tributaria de esta tasa se determinará por la aplicación de una tarifa única de 68,79 euros por informe o certificación.
+Se modifica por el art. 27.3 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 108
+
+Artículo 108. Devengo.
+La tasa se devengará con la solicitud de inicio de la del expediente, el cual no se tramitará hasta que no haya sido satisfecha.
+
+## CAPÍTULO II
+
+Tasas por la prestación de determinados servicios relacionados con la Consejería de Medio ambiente y la Consejería de Obras Públicas, Vivienda y Transportes
+Se modifica por el art. 27.4 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+## Sección 1
+
+Sección 1.ª Tasa por la prestación de servicios de fotocopias, copias y expedición de certificados de la Consejería de Medio Ambiente
+Se modifica por el art. 27.4 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se añade por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 108 bis
+
+Artículo 108 bis. Tasa por la prestación de servicios de fotocopias, copias y expedición de certificados.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios que se detallan a continuación por parte de la Consejería de Medio Ambiente:
+1. Copias y fotocopias de documentos en papel A4 en blanco y negro.
+2. Copias y fotocopias de documentos en papel A4 en color.
+3. Copias y fotocopias de documentos en papel A3 en blanco y negro.
+4. Copias y fotocopias de documentos en papel A3 en color.
+5. Copias y fotocopias de planos en blanco y negro.
+6. Copias y fotocopias de planos en color.
+7. Copias en CD.
+8. Expedición de certificado medio ambiental.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que soliciten la prestación de los servicios que constituyen su hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Conceptos:
+Copias y fotocopias de documentos en papel A4 en blanco y negro: 0,09 euros/hoja.
+Copias y fotocopias de documentos en papel A4 en color: 0,12 euros/hoja.
+Copias y fotocopias de documentos en papel A3 en blanco y negro: 0,12 euros/hoja.
+Copias y fotocopias de documentos en papel A3 en color: 0,15 euros/hoja.
+Copias y fotocopias de planos en blanco y negro: 1,50 euros/plano.
+Copias y fotocopias de planos en color: 3,01 euros/plano.
+Copias en CD: 9,02 euros/CD.
+Expedición de certificado medio ambiental:
+a) Certificación y visita de campo 99,17 euros.
+b) Certificación sin visita de campo 33,06 euros.
+4. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación de los servicios que constituyen su hecho imponible.
+Se añade por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+## Sección 2
+
+Sección 2.ª Tasa por la realización de compulsas y autenticación de documentos de la Consejería de Medio Ambiente
+Se modifica por el art. 27.4 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se añade por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 109
+
+Artículo 109. Hecho imponible.
+Constituye el hecho imponible de esta tasa la compulsa y autentificación de documentos.
+Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 110
+
+Artículo 110. Exenciones.
+Están exentos de esta tasa los servicios de compulsa y autentificación de documentos que se presten a solicitud de entes públicos o institucionales.
+Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 111
+
+Artículo 111. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que soliciten la prestación de los servicios que constituyen su hecho imponible.
+Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 112
+
+Artículo 112. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Conceptos:
+1. Compulsa: 2,25 euros por folio o plano.
+2. Autenticación de documentos: 4,53 euros por folio.
+3. Autenticación de documentos: 6,75 euros por plano.
+Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+### Artículo 113
+
+Artículo 113. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación de los servicios que constituyen su hecho imponible.
+Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
+
+## Sección 3
+
+Sección 3.ª Tasa por la realización de compulsas de documentos de la Dirección General de Ordenación del Territorio de la Consejería de Obras Públicas, Vivienda y Transportes
+Se añade por el art. 27.5 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 113 bis
+
+Artículo 113 bis. Tasa por la realización de compulsas de documentos de la Dirección General de Ordenación del Territorio de la Consejería de Obras Públicas, Vivienda y Transportes.
+1. Hecho imponible:
+Constituye el hecho imponible de esta tasa la compulsa de documentos, incluida la emisión de documentos autenticados por medios electrónicos, informáticos o telemáticos.
+2. Exenciones:
+Están exentos los servicios a que se refiere el hecho imponible que se presten a entes públicos o institucionales.
+3. Sujeto pasivo:
+Son sujetos pasivos de esta tasa aquellos que soliciten los servicios a que se refiere el hecho imponible.
+4. Cuantía:
+La cuota tributaria de esta tasa se determinará por la aplicación de una tarifa única de 2,25 euros por compulsa.
+5. Devengo:
+La tasa se devengará cuando se preste el servicio, y puede exigirse el pago antes de que sea efectiva su realización.
+Se añade por el art. 27.5 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## Sección 4
+
+Sección 4.ª Tasa por la realización de fotocopias de la Dirección General de Ordenación del Territorio de la Consejería de Obras Públicas, Vivienda y Transportes
+Se añade por el art. 27.5 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 113 ter
+
+Artículo 113 ter. Tasa por la realización de fotocopias de la Dirección General de Ordenación del Territorio de la Consejería de Obras Públicas, Vivienda y Transportes.
+1. Hecho imponible:
+Constituye el hecho imponible de esta tasa la realización de fotocopias.
+2. Exenciones:
+Están exentos los servicios a que se refiere el hecho imponible que se presten a entes públicos o institucionales.
+3. Sujeto pasivo:
+Son sujetos pasivos de esta tasa aquellos que soliciten los servicios a que se refiere el hecho imponible.
+4. Cuantía:
+La cuota tributaria se fija según estas tarifas:
+a) Fotocopia DIN A4, por hoja, 0,10 euros.
+b) Fotocopia DIN A3, por hoja, 0,15 euros.
+c) Fotocopia DIN A2, por hoja, 0,60 euros.
+d) Fotocopia DIN A1, por hoja, 1,20 euros.
+f) Fotocopia DIN A0, por hoja, 2,40 euros.
+Cuando se trate de fotocopias en color, la cuantía de la tasa será el resultado de multiplicar por 4 las cuantías anteriores.
+5. Devengo:
+La tasa se devengará cuando se preste el servicio, y puede exigirse el pago antes de que sea efectiva su realización.
+Se añade por el art. 27.5 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## Sección 5
+
+Sección 5.ªTasa por la prestación de servicios de fotocopias, copias, expedición de certificados, impresión de horarios y compulsas de documentos del Consorcio de Transportes de Mallorca
+Se añade por la disposición final 4.22 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 113 quater
+
+Artículo 113 quater. Tasa por la prestación de servicios de fotocopias, copias, expedición de certificados, impresión de horarios de transporte público y compulsas de documentos.
+1. Constituirá el hecho imponible de esta tasa la prestación de los servicios que se detallan a continuación por parte del Consorcio de Transportes de Mallorca:
+a) Copias y fotocopias de documentos.
+b) Copias en CD.
+c) Expediciones de certificados de expedientes.
+d) Impresión de horarios de transporte público.
+e) Compulsas de documentos.
+2. Serán sujetos pasivos de esta tasa aquellas personas que soliciten los servicios a los que se refiere el hecho imponible.
+3. La tasa se exigirá de acuerdo con las siguientes cuantías:
+a) Copias y fotocopias de tamaño DIN A4, blanco y negro: 0,10 euros/hoja.
+b) Copias y fotocopias de tamaño DIN A3, blanco y negro: 0,15 euros/hoja.
+c) Copias y fotocopias de tamaño DIN A2, blanco y negro: 0,60 euros/hoja.
+d) Copias y fotocopias de tamaño DIN A1, blanco y negro: 1,20 euros/hoja.
+e) Copias y fotocopias de tamaño DIN A0, blanco y negro: 2,40 euros/hoja.
+f) Copias en CD: 9 euros/CD.
+g) Expediciones de certificados de expedientes: 4 euros/certificado.
+h) Impresión de horarios de transporte público: 0,10 euros/hoja.
+i) Compulsas de documentos: 2,25 euros/hoja.
+Si se trata de fotocopias en color, la cuantía de la tasa será el resultado de multiplicar por 4 las cuantías de las tasas de las fotocopias en blanco y negro.
+4. La tasa se devengará cuando se presente la solicitud de prestación del servicio correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 4.22 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO III
+
+Tasa para los servicios del laboratorio del agua de la Dirección General de Recursos Hídricos
+Se modifica por la disposición final 1.21 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 114
+
+Artículo 114. Hecho imponible.
+1. Constituyen el hecho imponible de la tasa las pruebas y los análisis efectuados por el laboratorio del agua de la Dirección General de Recursos Hídricos que se detallan en el artículo 116 de esta Ley.
+2. Quedan exentos del pago de la tasa los servicios solicitados por los entes públicos e institucionales.
+Se modifica por la disposición final 1.21 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 115
+
+Artículo 115. Sujeto pasivo.
+Son sujetos pasivos aquellos que soliciten los servicios a los que se refiere el hecho imponible o los que se vean afectados.
+Se modifica por la disposición final 1.21 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 116
+
+Artículo 116. Cuantía.
+Conceptos
+ Euros
+ 1. Determinaciones físico-químicas en aguas
+ Ph.
+ 6,20 €
+ Conductividad.
+ 6,20 €
+ Turbiedad.
+ 8,10 €
+ Alcalinidad.
+ 9,40 €
+ Cloruro.
+ 9,80 €
+ Amonio.
+ 11,40 €
+ Nitrito.
+ 7,15 €
+ Nitrato.
+ 8,90 €
+ Fosfato.
+ 7,85 €
+ Aniones (Cl-, Br-,NO3-, SO4-2).
+ 29,55 €
+ Cationes (Na+, K+, Ca+2, Mg+2).
+ 29,55 €
+ Metales por ICP.
+ 176,00 €
+ Mercurio.
+ 59,20 €
+ Compuestos orgánicos volátiles.
+ 120,00 €
+ Compuestos orgánicos semivolátiles.
+ 181,00 €
+ Nitrógeno total.
+ 34,80 €
+ Fósforo total.
+ 14,62 €
+ Demanda biológica de oxígeno (DBO5).
+ 10,60 €
+ Demanda química de oxígeno (DQO).
+ 25,60 €
+ Carbono orgánico total (COT).
+ 38,00 €
+ Sólidos en suspensión.
+ 15,60 €
+ Tensioactivos aniónicos.
+ 28,44 €
+ 2. Determinaciones microbiológicas
+ Coliformes totales.
+ 19,25 €
+ Coliformes fecales.
+ 19,25 €
+ Escherichia coli.
+ 19,25 €
+ Enterococos.
+ 19,25 €
+ 3. Ejercicios interlaboratorio
+ Inscripción en INLABAG por muestra.
+ 93,24 €
+Se modifica por la disposición final 1.21 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 117
+
+Artículo 117. Devengo y pago.
+La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997. El pago de la tasa debe realizarse mediante el ingreso de la autoliquidación correspondiente, que debe adjuntarse a la solicitud.
+Se modifica por la disposición final 1.21 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+## CAPÍTULO IV
+
+Tasas por servicios en materia de contaminación atmosférica
+Se modifica por la disposición final 5.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 21.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 118
+
+Artículo 118. Hecho imponible.
+Constituye el hecho imponible de estas tasas la concesión de las autorizaciones administrativas a las actividades potencialmente contaminantes de la atmósfera, como también las inscripciones, la concesión de las autorizaciones administrativas a los organismos de control en materia de atmósfera, la concesión de las autorizaciones por emisiones de gases de efecto invernadero y la revisión de los informes de emisiones, la inscripción al registro de huella de carbono y la entrega de los planes de reducción de emisiones.
+Se modifica por la disposición final 1.13 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 5.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 21.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 119
+
+Artículo 119. Sujeto pasivo.
+Serán sujetos pasivos aquellos a los que se prestan los servicios a que se refiere el hecho imponible.
+Se modifica por la disposición final 5.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 120
+
+Artículo 120. Cuantía.
+1. Inscripción de la huella de carbono o plan de reducción de emisiones de las grandes y medianas empresas en el Registro balear de huella de carbono.
+1.1 Inscripción huella de carbono: 50,17€.
+1.2 Entrega plan de reducción de emisiones: 50,17€.
+2. Autorización e inscripción de actividad potencialmente contaminante de la atmósfera (APCA).
+2.1 Primera autorización APCA grupo A: 129,39€.
+2.2 Renovaciones o modificaciones de la autorización APCA grupo A: 43,13€.
+2.3 Primera autorización APCA grupo B: 107,83€.
+2.4 Renovaciones o modificaciones de la autorización APCA grupo B: 37,74€.
+2.5 Primera inscripción APCA grupo C: 53,90€.
+2.6 Renovaciones o modificaciones de la inscripción APCA grupo C: 18,34€.
+3. Autorizaciones de organismos de control para la atmósfera.
+3.1 Primera autorización: 129,39€.
+3.2 Renovaciones o modificaciones de la autorización: 43,13€.
+4. Autorizaciones de emisiones de gases de efecto invernadero.
+4.1 Primera autorización: 161,73€.
+4.2 Renovaciones o modificaciones de la autorización: 53,90€.
+5. Informes de emisiones.
+5.1 Revisión de un informe de emisiones hecho por un organismo de control autorizado: 10,78€.
+Se modifica por la disposición final 1.14 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 5.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 21.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 121
+
+Artículo 121. Devengo y pago.
+1. La tasa se devengará cuando se presente la solicitud para la prestación del servicio correspondiente a que se refiere el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifica por la disposición final 5.4 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 21.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+## CAPÍTULO V
+
+Tasa por la emisión de informes de evaluación ambiental
+Se modifica por la disposición final 1.8 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 122
+
+Artículo 122. Hecho imponible.
+1. Constituye el hecho imponible de la tasa de evaluación ambiental la tramitación de evaluaciones de planes, programas y proyectos que deban someterse a la misma de acuerdo con la normativa aplicable y que realice el órgano ambiental de las Illes Balears.
+2. Los documentos de alcance tendrán la consideración de «comunicaciones ambientales» y no supondrán el inicio del procedimiento de evaluación ambiental a los efectos de devengo de la tasa correspondiente.
+Se añade el apartado 2 y se numera el texto existente como apartado 1 por la disposición final 1.1 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+ Se modifica por la disposición final 1.8 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por el art. 38.3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 122 bis
+
+Artículo 122 bis. Exenciones.
+Quedan exentas del pago de esta tasa las tramitaciones de las administraciones públicas territoriales.
+Se añade por la disposición final 1.2 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+
+### Artículo 123
+
+Artículo 123. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, general tributaria, que promuevan el proyecto o el plan o programa sujeto a evaluación ambiental, o que insten su exoneración.
+Se modifica por la disposición final 1.8 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por el art. 38.3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se modifica por el art. 15 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-7
+
+### Artículo 124
+
+Artículo 124. Cuota.
+1. La tasa se exigirá de acuerdo con las siguientes cuotas fijas:
+a) Por evaluación de impacto ambiental ordinaria de proyectos y evaluación ambiental estratégica ordinaria: 718,03 euros.
+b) Por evaluación de impacto ambiental simplificada: 320,45 euros.
+c) Por evaluación ambiental estratégica simplificada: 237,38 euros.
+d) (Derogado)
+e) Por comunicaciones ambientales: 160,23 euros.
+f) Por informe de exclusión del procedimiento de evaluación ambiental: 166,55 euros.
+2. Podrá deducirse de la tasa de evaluación ordinaria el importe satisfecho por la tasa de evaluación simplificada respecto del mismo plan, programa o proyecto, siempre que, en el momento de registrar la correspondiente solicitud, no haya transcurrido el plazo de cuatro años desde el acuerdo de sujeción a evaluación ordinaria.
+3. Se aplicará una bonificación del 75% a la cuantía de la tasa para los proyectos de menos de 10 hectáreas de superficie consistentes en destinar áreas incultas o con vegetación natural o seminatural en la explotación agrícola, así como los consistentes en la tala o destrucción masiva de vegetación forestal para cambiar el tipo de funcionalidad o uso del suelo.
+Se añade el apartado 3 por la disposición final 1.6 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica el apartado 1.f) y se deroga el apartado 1.d) por las disposiciones final 3 y derogatoria.única.3.d) del Decreto Legislativo 1/2020, de 28 de agosto. Ref. BOE-A-2020-11724#df-4
+ Se añade el apartado 2 y se numera el texto existente como apartado 1 por la disposición final 1.3 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
+ Se modifica por la disposición final 1.8 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición adicional 3 de la Ley 11/2006, de 14 de septiembre. Ref. BOE-A-2006-17875#datercera
+ Se añade el apartado 3 por el art. 38.3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se modifica el apartado 2.3 por el art. 4.4 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 125
+
+Artículo 125. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que hay que adjuntar a la solicitud.
+Se modifica por la disposición final 1.8 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por el art. 38.3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO VI
+
+Tasa por la prestación de servicios facultativos en materia de medio ambiente
+
+### Artículo 126
+
+Artículo 126. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, los servicios, la concesión de autorizaciones o permisos que se enumeran en las tarifas correspondientes, ya sean prestadas de oficio o a instancia de parte.
+
+### Artículo 127
+
+Artículo 127. Sujeto pasivo.
+Son sujetos pasivos los receptores de los servicios, autorizaciones, permisos o concesiones relacionados con el hecho imponible de esta tasa.
+
+### Artículo 128
+
+Artículo 128. Cuantía.
+Conceptos
+ Pesetas
+ Por levantamiento de planos:
+ Por levantamiento de itinerarios
+ 320 ptas./km
+ Por confección del plano
+ 50 ptas./Ha
+ Por replanteo de planos:
+ De 1 a 1.000 metros
+ 680 ptas./km
+ De más de 1 km o fracción
+ 680 ptas./km
+ Por deslinde:
+ Por apeo y levantamiento topográfico
+ 1.050 ptas./km
+ Por amojonamiento:
+ Por el replanteo
+ 680 ptas./km
+ Por reconocimiento y recepción de obras
+ 10 por 100 del presupuesto de ejecución.
+ Por cubicación e inventario de existencias:
+ Por inventario de arboles
+ 1 ptas./m3
+ Por cálculo de frutos y otros productos
+ 1 ptas./m3
+ Por existencias apeadas
+ El 5 por 1.000 del valor del inventario.
+ Por cubicación e inventario en montes rasos
+ 13 ptas./Ha
+ Por cubicación e inventario en montes bajos
+ 50 ptas./Ha
+ Por valoraciones:
+ Por valoraciones hasta 50.000 pesetas
+ 2.610 ptas.
+ Por valoraciones superiores a 50.000 pesetas
+ 5.300 ptas.
+ Por ocupaciones y autorizaciones de cultivos agrícolas en terrenos forestales:
+ Por la demarcación o señalamiento del terreno, hasta 20 Ha
+ 60 ptas./Ha
+ Por las restantes
+ 95 ptas./Ha
+ Por la inspección anual del disfrute
+ 5 por 100 del canon o renta anual del disfrute.
+ Por catalogación de montes y formación del mapa forestal, las primeras 1000 Ha
+ 5 ptas./Ha
+ Las restantes
+ 2 ptas./Ha
+ Por informes, el 10 por 100 del importe de la tarifa que corresponda a la ejecución del servicio o trabajo
+ Mínimo 800 ptas.
+ Por memorias informativas de montes, hasta 250 Ha de superficie
+ 20 ptas./Ha
+ De 250,01 Ha a 1000 Ha de superficie
+ 680 ptas./Ha
+ De 1.000,01 Ha a 5.000 Ha de superficie
+ 3 ptas./Ha
+ De más de 5.000,01 Ha de superficie
+ 1 pta./Ha
+ Por señalamiento de inspección de toda clase de aprovechamiento y disfrutes forestales, piscícolas y cinegéticas
+ 260 ptas./Ha
+ En montes catalogados y privados y aguas de dominio público:
+ Maderas:
+ Por señalamiento hasta 100 m3
+ 30 ptas./m3
+ Entre 100.01 hasta 200 m3
+ 25 ptas./m3
+ A partir de 200,01 m3
+ 12 ptas./m3
+ Por cortadas en blanco
+ El 75 por 100 del señalamiento.
+ Por reconocimientos finales
+ El 50 por 100 de los señalamientos.
+ Leñas:
+ Por señalamientos, los primeros 500 estéreos
+ 7 ptas./unid
+ Los restantes
+ 4 ptas./unid
+ Por reconocimientos finales
+ El 75 por 100 del señalamiento.
+ Pastos y ramoneos:
+ Por las operaciones anuales, hasta 500 Ha
+ 11 ptas./unid.
+ De 500,01 a 1.000 Ha
+ 5 ptas./unid.
+ De 1.000,01 a 2.000 Ha
+ 3 ptas./unid.
+ A partir de 2.000,01 Ha
+ 2 ptas./unid.
+ Frutos y semillas:
+ Por reconocimientos anuales, los primeros 1.000 Qm
+ 5 ptas./Qm.
+ Los restantes
+ 2 ptas./unid.
+ Palmito y otras plantas industriales:
+ Por reconocimientos anuales
+ Entrega de toda clase de aprovechamientos:
+ El 1 por 100 de la tasación hasta 5.000 ptas.; el resto incrementado en 0,25 por 100.
+ Gastos diversos.
+ 15 ptas./unid.
+Los gastos de locomoción y dietas se evaluarán en el 50 por 100 del importe total de la tasa.
+Por redacción de planos, estudios y proyectos de ordenaciones y sus revisiones:
+Memorias preliminares de ordenación:
+Hasta 500 hectáreas de superficie: 1.725 pesetas.
+De 500,01 a 1.000 hectáreas: 2.140 pesetas.
+De 1.000,01 a 5.000 hectáreas: 4.315 pesetas.
+De 5.000,01 a 10.000 hectáreas: 6.450 pesetas.
+De más de 10.000 hectáreas: 8.610 pesetas.
+Por la confección de proyectos de ordenación de montes:
+Hasta 1.000 hectáreas: 165 pesetas/hectárea.
+Más de 1.000 hectáreas: 260 pesetas/hectárea.
+Revisiones de proyectos:
+Memorias preliminares hasta 500 hectáreas: 860 pesetas/hectárea.
+De 500,01 a 1.000 hectáreas: 1.070 pesetas/hectárea.
+De 1.000,01 a 5.000 hectáreas: 2.160 pesetas/hectárea.
+De 5.000,01 a 10.000 hectáreas: 3.220 pesetas/hectárea.
+Más de 10.000,01 hectáreas: 4.305 pesetas/hectárea.
+Por las revisiones de planos de ordenaciones: El 50 por 100 del valor del proyecto.
+De obras, trabajos e instalaciones de toda índole: El 3 por 100 presupuestado.
+De comarcas de interés forestal y perímetros de repoblación obligatoria.
+Por la redacción de la Memoria del reconocimiento general: 8.610 pesetas.
+Por la dirección en la ejecución de toda clase de trabajos, obras y aprovechamiento e instalaciones:
+Hasta 200.000 pesetas: El 6 por 100.
+Por el exceso de 200.000 pesetas: El 4,5 por 100.
+Por refundición de dominios y rendición de servidumbres se aplicará aquella tarifa que resulte más acorde con el trabajo a ejecutar.
+Por certificaciones: 3.480 pesetas.
+Por inspecciones: 1.725 pesetas.
+Por inscripciones: 795 pesetas.
+Por sellado de libros: 260 pesetas.
+
+### Artículo 129
+
+Artículo 129. Devengo.
+La tasa se devengará en el momento de la prestación de los servicios que constituyen el hecho imponible. No obstante, su ingreso se exigirá previamente con la solicitud del servicio.
+
+## CAPÍTULO VII
+
+Tasas por licencias y matrículas para cazar en cotos sociales y precintos de artes para la caza
+Se modifica por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+## Sección 1
+
+Sección 1.ª Licencias de caza
+Se añade por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+### Artículo 130
+
+Artículo 130. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de las licencias que son necesarias para practicar la caza y sus recargos.
+Se modifica por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+### Artículo 131
+
+Artículo 131. Sujeto pasivo.
+1. Son sujetos pasivos de la tasa las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que soliciten las licencias a que se refiere el hecho imponible de la misma.
+2. Están exentos del pago de esta tasa los sujetos pasivos que acrediten la condición de pensionista o mayor de 65 años.
+Se modifica el apartado 2 por la disposición final 3.15 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el apartado 2 por el art. 4.5 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+ Se modifica por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+### Artículo 132
+
+Artículo 132. Cuantía y bonificaciones.
+Licencias de caza:
+Conceptos
+ Euros
+ A1.
+ Licencia anual para cazar con armas de fuego y cualquier otro procedimiento autorizado para ciudadanos de estados miembros de la Unión Europea, así como para residentes de países no miembros de la Unión Europea
+ 12,08
+ A2.
+ Licencia para cazar en los mismos términos definidos para la clase A1 cuando los solicitantes del permiso sean menores de 18 años
+ 6,55
+ A3.
+ Licencia temporal para cazar durante dos meses con armas de fuego o cualquier otro procedimiento autorizado para cazadores de estados no miembros de la Unión Europea y no residentes
+ 90,27
+ A4.
+ Prórroga de la licencia A3 para dos meses
+ 45,14
+ B1.
+ Licencia anual para cazar mediante cualquier procedimiento autorizado, excepto armas de fuego, para ciudadanos de estados miembros de la Unión Europea, así como para residentes de estados no miembros de la Unión Europea
+ 6,55
+ B2.
+ Licencia para cazar, en los términos definidos para la clase B1 cuando los cazadores sean menores de 18 años
+ 3,30
+ B3.
+ Licencia para cazar durante dos meses mediante cualquier procedimiento autorizado, excepto armas de fuego, para cazadores de estados no miembros de la Unión Europea y no residentes
+ 45,14
+ B4.
+ Prórroga de la licencia B3 para dos meses
+ 22,54
+ C1.
+ Licencia anual especial para cazar mediante cetrería
+ 21,34
+ C2.
+ Licencia anual especial para cazar con reclamo de perdiz macho
+ 12,04
+ C3.
+ Licencia anual especial para huronear
+ 22,54
+ C4.
+ Licencia anual especial para poseer un hurón con finalidad de cazar
+ 210,00
+Recargos por caza mayor:
+Recargo de la licencia A.1: 6,55 euros.
+Recargo de la licencia A.2: 3,30 euros.
+Recargo de la licencia A.3: 45,00 euros.
+Recargo de la licencia A.4: 22,50 euros.
+Recargo de la licencia B.1: 3,12 euros.
+Recargo de la licencia B.2: 1,56 euros.
+Recargo de la licencia B.3: 21,00 euros.
+Recargo de la licencia B.4: 10,50 euros.
+Bonificaciones. Se aplicará una bonificación del 50% de la tasa correspondiente a la licencia de caza a los solicitantes que acrediten la condición de miembros de la Federación Balear de Caza
+Se modifica el apartado C2 por el art. 27.6 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se modifica por el art. 4.6 y 7 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+ Se modifica por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+### Artículo 133
+
+Artículo 133. Devengo.
+La tasa se devengará en el momento de la expedición de la licencia.
+Se modifica por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+## Sección 2
+
+Sección 2.ª Tasas por matrícula anual de cotos privados de caza y para campos de adiestramiento de perros, así como otras actividades relacionadas con los cotos privados de caza
+Se añade por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+### Artículo 133 bis
+
+Artículo 133 bis. Tasa por matrícula anual de cotos privados de caza y para campos de adiestramiento de perros, así como otras actividades relacionadas con los cotos privados de caza.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la matrícula anual de los cotos privados de caza, el recargo por campo de adiestramiento de perros en cotos no intensivos, y diversas actuaciones administrativas relacionadas con la tramitación de los expedientes de cotos privados de caza.
+2. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que figuren como titulares de los cotos privados.
+3. Cuantía y bonificaciones.
+1. Se establecen dos grupos para el cálculo de la tasa de matrícula anual de cotos de caza: el grupo I, correspondiente a cotos privados de caza, y el grupo II que integra los cotos privados de caza intensivos. Asimismo, se establece un recargo por campo de adiestramiento de perros en cotos privados de caza no intensivos.
+2. El importe de las matrículas anuales estará en función del grupo al que pertenezca el coto y a su superficie, quedando fijadas en las siguientes cuantías por tramos acumulables:
+Superficie (ha) Grupo I: Coto privado, grupo II:
+Coto intensivo:
+Primeras 20, 6,00 euros/ha; 12,00 euros/ha.
+De 20,1 a 125, 0,60 euros/ha; 1,80 euros/ha.
+De 125,1 a 250, 0,45 euros/ha; 1,50 euros/ha.
+De 250,1 a 500, 0,30 euros/ha; 1,20 euros/ha.
+A partir de 500,1, 0,24 euros/ha; 0,90 euros/ha.
+3. Se establece un recargo para campos de adiestramiento de perros en cotos no intensivos de 240,00 euros.
+4. Se aplicará una reducción del 75% de la matrícula anual y de la tasa para campos de entrenamiento de perros a todos los cotos de caza de las Illes Balears de los cuales sean titulares o acrediten la gestión directa sociedades federadas de cazadores.
+5. Cuotas:
+Conceptos:
+Creación, ampliación o segregación de coto de caza 25,00 euros/unidad.
+Por gasto de replanteo 8,00 euros/km.
+Por la realización de informe e inscripción 7,00 euros/unidad.
+Por el cambio de titular o baja del coto 7,00 euros/unidad.
+4. Devengo.
+La tasa se devengará cuando se solicite la actividad administrativa o la prestación del servicio que constituye su hecho imponible, con excepción de aquellas que hayan de ser realizadas sin necesidad de solicitud previa, en cuyo caso la tasa de devengará en el momento de su efectiva realización.
+Se modifica el apartado 3.4 por el art. 27.7 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Se añade por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8
+
+## CAPÍTULO VIII
+
+Tasa por licencia de pesca fluvial y sellos de recargo
+
+### Artículo 134
+
+Artículo 134. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la licencia necesaria para practicar la pesca fluvial y de trucha en los embalses, albuferas y aguas interiores en el ámbito de la Comunidad Autónoma de las Islas Baleares.
+
+### Artículo 135
+
+Artículo 135. Sujeto pasivo.
+1. Son sujetos pasivos contribuyentes de la tasa quienes soliciten las licencias a que se refiere el hecho imponible de la misma.
+2. Están exentos del pago de esta tasa los sujetos pasivos que acrediten la condición de pensionista o mayor de 65 años.
+Se modifica el apartado 2 por la disposición final 3.16 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el apartado 2 por el art. 4.8 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 136
+
+Artículo 136. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Por licencia de pesca fluvial: 1.590 pesetas.
+Por sello recargo pesca de trucha: 1.115 pesetas.
+
+### Artículo 137
+
+Artículo 137. Devengo.
+La tasa se devengará en el momento de la prestación del servicio. No obstante, se podrá anticipar su pago en el momento de la solicitud de la misma.
+
+## CAPÍTULO IX
+
+Tasas relativas al ejercicio de competencias en materia de costas y litoral
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica por el art. 4.9 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+## Sección 1
+
+Sección 1.ª Tasas por autorizaciones en la zona de servidumbre de protección
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 138
+
+Artículo 138. Hecho imponible.
+1. Constituye el hecho imponible de las tasas relativas a las zonas de servidumbre de protección a que se refiere el artículo 23 de la Ley 22/1988, de 28 de julio, de costas, la prestación por parte de la administración de los servicios y las actividades siguientes:
+a) El examen del proyecto en la tramitación de las solicitudes de autorización.
+b) Los trabajos facultativos de replanteo, inspección y comprobación de obras.
+c) La tramitación de autorizaciones de pruebas, competiciones y actividades deportivas.
+d) La tramitación de autorizaciones de actividades audiovisuales (filmaciones, reportajes publicitarios, sesiones fotográficas, etc.).
+2. En el caso de pruebas, competiciones y actividades deportivas en las que se transite por la zona de servidumbre de protección y por la de dominio público marítimo-terrestre, o en el caso de actividades audiovisuales que se lleven a cabo en ambas zonas, sólo se tendrá que abonar la tasa prevista para la zona de dominio público marítimo-terrestre, que se prevé en la sección 2.ª de este capítulo.
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 139
+
+Artículo 139. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los que soliciten o se vean afectados por la prestación o la realización de los servicios y las actividades que constituyen el hecho imponible.
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 140
+
+Artículo 140. Cuantía.
+Las tasas por autorizaciones en la zona de servidumbre de protección tienen las cuantías siguientes:
+1. Examen del proyecto: la base de la tasa es el coste directamente imputable a la prestación del servicio llevado a cabo; la determinación de la cuantía de la tasa (t, en euros) se obtiene mediante la multiplicación de la raíz cúbica del cuadrado del presupuesto comprobado (p, en euros) de ejecución material del proyecto por un coeficiente K, todo eso dividido por 5,5, de acuerdo con la siguiente fórmula:
+t = (K * P2/3) / 5,5
+El coeficiente K es una cuantía fija en función del presupuesto (p) del proyecto:
+Presupuesto (p) en euros
+ Coeficiente K
+ Hasta 6.010,12
+ 1,5
+ De 6.010,13 a 30.050,61
+ 1,4
+ De 30.050,62 a 150.253,03
+ 1,3
+ De 150.253,04 a 300.506,05
+ 1,2
+ De 300.506,06 a 601.012,10
+ 1,1
+Por encima de 601.012,10 euros de presupuesto, se aplica para t la misma cuantía que resulte para el presupuesto de 601.012,10 euros. La tasa mínima es de 150,83 euros.
+2. Trabajos facultativos de replanteo, de inspección y de comprobación de obras que se hagan o se hayan hecho en zonas de servidumbre de protección:
+Concepto
+ Cuantía
+ Por replanteo y comprobación y por reconocimiento final.
+ El 50% de la que resulte del examen del proyecto.
+ Por inspección.
+ El 20% de la que resulte del examen del proyecto.
+ Tasa mínima.
+ 150,83 euros.
+3. Tramitación de autorizaciones de pruebas, competiciones y actividades deportivas en zonas de servidumbre de protección: 339,50 euros.
+4. Tramitación de autorizaciones de actividades audiovisuales (filmaciones, reportajes publicitarios, sesiones fotográficas, etc.) en zonas de servidumbre de protección: 497,82 euros.
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 141
+
+Artículo 141. Bonificación.
+Se establece una bonificación del 50% de la cuantía de la tasa si la solicitud de autorización se presenta con una antelación de tres meses respecto de la fecha de inicio prevista para la actividad.
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica la letra a) por el art. 4.10 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 142
+
+Artículo 142. Devengo y pago.
+1. La tasa se devenga cuando se presenta la solicitud para la prestación del servicio correspondiente a que se refiere el hecho imponible, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se hará mediante la presentación y el ingreso de la autoliquidación correspondiente en el momento de presentar la solicitud.
+Se modifica por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+## Sección 2
+
+Sección 2.ª Tasas relativas a la gestión del dominio público marítimo-terrestre
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 bis
+
+Artículo 142 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los siguientes servicios:
+a) La tramitación de concesiones demaniales a que se refiere el artículo 64 de la Ley 22/1988, de 28 de julio, de costas, y los trámites relacionados con este otorgamiento.
+b) La tramitación de autorizaciones de usos y autorizaciones de actividades o sus modificaciones posteriores a que se refiere el artículo 51 de la Ley 22/1988, de 28 de julio, de costas, y los trámites relacionados con este otorgamiento.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 ter
+
+Artículo 142 ter. Sujeto pasivo.
+Son sujetos pasivos de estas tasas los que soliciten o se vean afectados por la prestación o la realización de los servicios y actividades que constituyen el hecho imponible.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 quater
+
+Artículo 142 quater. Exenciones y no sujeción.
+1. No está sujeta al pago de la tasa la tramitación de expedientes relativos a declaraciones responsables por obras menores en una concesión administrativa en vigor.
+2. Quedan exentas del pago de la tasa por este concepto las administraciones públicas territoriales y los entes del sector público instrumental que dependen de estas.
+3. Quedan exentas del pago de la tasa las pruebas y las competiciones deportivas de las federaciones que formen parte de la final de un campeonato de las Illes Balears.
+4. Las exenciones se aplican a instancia de parte, por lo que los sujetos pasivos deben solicitarlas.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 quinquies
+
+Artículo 142 quinquies. Bonificaciones.
+1. Se establece una bonificación del 50% de la cuantía de la tasa si la solicitud de autorización se presenta con una antelación de tres meses respecto de la fecha de inicio prevista para la actividad, en los supuestos de autorizaciones para cualquier actividad llevada a cabo en zonas de dominio público marítimo-terrestre.
+2. Se establece una bonificación del 50% de la cuantía de las tasas relativas a autorizaciones para las entidades organizadoras sin ánimo de lucro. Si estas entidades presentan la solicitud de autorización con una antelación de tres meses respecto de la fecha de inicio prevista para la actividad, se establece una bonificación total acumulada por ambos conceptos del 70%.
+3. Las bonificaciones se aplican a instancia de parte, por lo que los sujetos pasivos deben solicitarlas.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 sexies
+
+Artículo 142 sexies. Cuantías.
+Las tasas relativas a la gestión del dominio público marítimo-terrestre tienen las siguientes cuantías:
+1. Tramitación de concesiones demaniales a que se refiere el artículo 64 de la Ley 22/1988, de 28 de julio, de costas, y trámites relacionados con este otorgamiento:
+Concepto
+ Cuantía
+ –
+ Euros
+ 1.1 Tasa para tramitar concesiones de ocupación o sus modificaciones en el dominio público marítimo-terrestre (por tramos):
+ a) Presupuesto proyectado superior a 300.506,05 euros.
+ 4.880,84
+ b) Presupuesto proyectado entre 180.303,63 y 300.506,05 euros.
+ 3.904,67
+ c) Presupuesto proyectado entre 60.101,21 y 180.303,62 euros.
+ 1.952,34
+ d) Presupuesto proyectado inferior a 60.101,21 euros.
+ 976,17
+ 1.2 Replanteo y comprobación de obras sobre el dominio público marítimo-terrestre, e inspección y reconocimiento final (por unidad de servicio prestado).
+ 502,68
+ 1.3 Por tramitación y examen del proyecto de autorización de obras dentro de la concesión (cuantía fija).
+ 340,85
+ 1.4 Prórroga de la concesión (cuantía fija).
+ 340,85
+ 1.5 Transmisión de concesión inter vivos y mortis causa (cuantía fija).
+ 340,85
+ 1.6 Expedientes que se tramitan parcialmente como consecuencia de competencias compartidas (vertidos).
+ 271,16
+2. Tramitación de autorizaciones de usos y autorizaciones de actividades o modificaciones posteriores a que se refiere el artículo 51 de la Ley 22/1988, de 28 de julio, de costas, y trámites relacionados con este otorgamiento:
+Concepto
+ Cuantía
+ –
+ Euros
+ 2.1 Tramitación de autorizaciones de ocupación o modificaciones posteriores de servicios de temporada en las playas y en el mar territorial (por tramos):
+ a) Presupuesto proyectado igual o superior a 300.506,05 euros.
+ 1.686,63
+ b) Presupuesto proyectado entre 60.101,21 y 300.506,04 euros.
+ 843,32
+ c) Presupuesto proyectado entre 30.050,61 y 60.101,20 euros.
+ 421,67
+ d) Presupuesto proyectado entre 0,00 y 30.050,60 euros.
+ 210,84
+ 2.2 Replanteo y comprobación de las instalaciones que se lleven a cabo sobre el dominio público marítimo-terrestre, e inspección y reconocimiento final (por unidad de servicio prestado).
+ 233,44
+ 2.3 Aprovechamiento especial del dominio público marítimo-terrestre en el ejercicio de actividades comerciales, de servicios o lúdicas no incluidas en otros apartados (atraque, embarque y desembarque, etc.).
+ 497,82
+ 2.4 Tramitación de autorizaciones de pruebas, competiciones y actividades deportivas en dominio público marítimo-terrestre.
+ 339,50
+ 2.5 Tramitación de autorizaciones de actividades audiovisuales (filmaciones, reportajes publicitarios, sesiones fotográficas, etc.) en dominio público marítimo-terrestre.
+ 497,82
+ 2.6 Expedientes que se tramitan parcialmente como consecuencia de competencias compartidas (vertidos).
+ 271,16
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 septies
+
+Artículo 142 septies. Devengo y pago.
+1. La tasa se devenga cuando se presenta la solicitud para la prestación del servicio correspondiente a que se refiere el hecho imponible, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se hará mediante la presentación y el ingreso de la autoliquidación correspondiente en el momento de presentar la solicitud.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+## Sección 3
+
+Sección 3.ª Tasa para autorizar el vertido de aguas al dominio público marítimo-terrestre
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 octies
+
+Artículo 142 octies. Hecho imponible.
+Constituye el hecho imponible de esta tasa las actuaciones administrativas encaminadas a la concesión de la autorización para verter aguas al dominio público marítimo-terrestre.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 nonies
+
+Artículo 142 nonies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los que soliciten o se vean afectados por la autorización para verter aguas al dominio público marítimo-terrestre.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 decies
+
+Artículo 142 decies. Cuantía.
+La cuota se determinará atendiendo el presupuesto del proyecto, de conformidad con la tarifa siguiente:
+Concepto
+ Cuantía
+ –
+ Euros
+ Proyecto presupuestado igual o superior a 300.506,05 euros.
+ 4.645,61
+ Proyecto presupuestado entre 60.101,21 y 300.506,04 euros.
+ 929,12
+ Proyecto presupuestado entre 30.050,61 y 60.101,20 euros.
+ 482,11
+ Proyecto presupuestado entre 12.020,24 y 30.050,60 euros.
+ 361,56
+ Proyecto presupuestado entre 0,00 y 12.020,23 euros.
+ 271,16
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 142 undecies
+
+Artículo 142 undecies. Devengo.
+La tasa se devenga cuando se presenta la solicitud que inicia la tramitación del expediente de la autorización de vertido, pero, si la autorización se concede de oficio, se tiene que hacer en el momento en que se concede.
+Se añade por la disposición final 1.7 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+## CAPÍTULO X
+
+Tasa por la autorización de sondeo a cargo de la Junta de Aguas
+
+### Artículo 143
+
+Artículo 143. Hecho imponible.
+Constituye el hecho imponible de la presente tasa la realización de las actividades administrativas y el desarrollo de las técnicas que ocasione la tramitación de los expedientes para la autorización de sondeo.
+
+### Artículo 144
+
+Artículo 144. Sujeto pasivo.
+Están obligados al pago de esta tasa quienes soliciten la autorización de sondeo.
+
+### Artículo 145
+
+Artículo 145. Cuantía.
+Por cada autorización de sondeo: 10.600 pesetas.
+
+### Artículo 146
+
+Artículo 146. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la tramitación de la autorización de sondeo.
+
+## CAPÍTULO XI
+
+Tasa por autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas
+
+### Artículo 147
+
+Artículo 147. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización de las actividades administrativas tendentes a la tramitación, autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas.
+
+### Artículo 148
+
+Artículo 148. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas.
+
+### Artículo 149
+
+Artículo 149. Cuantía.
+Por cada expediente de autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas: 15.900 pesetas.
+
+### Artículo 150
+
+Artículo 150. Devengo.
+La tasa se devengará con la presentación de la solicitud que inicie la tramitación del expediente de autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas.
+
+## CAPÍTULO XII
+
+Tasa por la solicitud de alumbramiento y explotación de aguas subterráneas con caudal inferior a 7.000 metros cúbicos anuales
+
+### Artículo 151
+
+Artículo 151. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización, por la Administración, de aquellas actividades tendentes a la tramitación de la solicitud de alumbramiento y explotación de aguas subterráneas con caudal inferior a 7.000 metros cúbicos anuales.
+
+### Artículo 152
+
+Artículo 152. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten el alumbramiento y explotación de aguas subterráneas con caudal inferior a 7.000 metros cúbicos anuales.
+
+### Artículo 153
+
+Artículo 153. Cuantía.
+Por la tramitación del expediente de solicitud de alumbramiento y explotación de aguas subterráneas con caudal inferior a 7.000 metros cúbicos: 26.500 pesetas.
+
+### Artículo 154
+
+Artículo 154. Devengo.
+La tasa se devengará cuando se inicie la tramitación del expediente de solicitud de alumbramiento y explotación de aguas subterráneas con caudal inferior a 7.000 metros cúbicos anuales.
+
+## CAPÍTULO XIII
+
+Tasa por la solicitud de concesión de aguas subterráneas
+
+### Artículo 155
+
+Artículo 155. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización, por parte de la Administración, de las actividades encaminadas a la tramitación de las solicitudes de concesión de aguas subterráneas.
+
+### Artículo 156
+
+Artículo 156. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la concesión de aguas subterráneas.
+
+### Artículo 157
+
+Artículo 157. Cuantía.
+La cuota se determinará según el presupuesto del proyecto de concesión, conforme a las siguientes tarifas:
+a) Presupuesto proyectado superior a 50.000.000: 530.000 pesetas.
+b) Presupuesto proyectado entre 10.000.000 y 50.000.000: 106.000 pesetas.
+c) Presupuesto proyectado inferior a 10.000.000: 53.000 pesetas.
+
+### Artículo 158
+
+Artículo 158. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicia la tramitación del expediente para la concesión de aguas subterráneas.
+
+## CAPÍTULO XIV
+
+Tasa por la solicitud de aguas superficiales
+
+### Artículo 159
+
+Artículo 159. Hecho imponible.
+Constituye el hecho imponible de la presente tasa la realización por parte de la Administración de aquellas actividades encaminadas a la tramitación de las solicitudes de concesión de aguas superficiales.
+
+### Artículo 160
+
+Artículo 160. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la concesión de aguas superficiales.
+
+### Artículo 161
+
+Artículo 161. Cuantía.
+La cuota se determinará atendiendo al presupuesto del proyecto, conforme a las siguientes tarifas:
+a) Presupuesto proyectado superior a 50.000.000: 530.000 pesetas.
+b) Presupuesto proyectado entre 10.000.000 y 50.000.000: 106.000 pesetas.
+c) Presupuesto proyectado inferior a 10.000.000: 53.000 pesetas.
+
+### Artículo 162
+
+Artículo 162. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicia la tramitación del expediente para la concesión de aguas superficiales.
+
+## CAPÍTULO XV
+
+Tasa por la solicitud de concesión de aguas depuradas
+
+### Artículo 163
+
+Artículo 163. Hecho imponible.
+Constituye el hecho imponible de la presente tasa la realización por parte de la Administración de las actividades encaminadas a la tramitación de las solicitudes de concesión de aguas depuradas.
+
+### Artículo 164
+
+Artículo 164. Sujeto pasivo y exenciones.
+1. Son sujetos pasivos de esta tasa quienes soliciten la concesión de aguas depuradas.
+2. Quedan exentas del pago de la tasa las administraciones públicas territoriales y las entidades instrumentales dependientes o vinculadas a cualquiera de estas administraciones, así como las corporaciones de derecho público, siempre que la concesión sea para uso agrario.
+Se modifica por la disposición final 1.8 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+
+### Artículo 165
+
+Artículo 165. Cuantía.
+La cuota se determinará atendiendo al presupuesto del proyecto, conforme a las siguientes tarifas:
+a) Proyecto de presupuesto superior a 50.000.000: 530.000 pesetas.
+b) Proyecto de presupuesto entre 10.000.000 y 50.000.000: 106.000 pesetas.
+c) Proyecto de presupuesto inferior a 10.000.000: 53.000 pesetas.
+
+### Artículo 166
+
+Artículo 166. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la tramitación del expediente de solicitud de concesión de aguas depuradas.
+
+## CAPÍTULO XVI
+
+Tasa por la autorización en zona de dominio público hidráulico y de policía de canales
+
+### Artículo 167
+
+Artículo 167. Hecho imponible.
+Constituye el hecho imponible de esta tasa la concesión de autorizaciones administrativas en zona de dominio público hidráulico y de policía de canales.
+
+### Artículo 168
+
+Artículo 168. Exenciones.
+Queda exenta del pago de esta tasa la concesión de autorizaciones de actividades cuya realización sea beneficiosa para el dominio público hidráulico o necesaria para la prestación de servicios públicos.
+
+### Artículo 169
+
+Artículo 169. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la concesión de autorizaciones administrativas en zona de dominio público hidráulico y de policía de canales.
+
+### Artículo 170
+
+Artículo 170. Cuantía.
+La tasa se exigirá conforme a las siguientes tarifas:
+Núm.
+ Concepto
+ Pesetas
+ A
+ Autorizaciones en zonas de servidumbre y dominio público
+ 26.500
+ B
+ Autorizaciones en zona de policía de canales
+ 15.900
+
+### Artículo 171
+
+Artículo 171. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicia la tramitación del expediente de la autorización en zona de dominio público hidráulico y de policía de canales.
+
+## CAPÍTULO XVII
+
+Tasa por la realización de expedientes de deslinde y amojonamiento de los canales de dominio público hidráulico
+
+### Artículo 172
+
+Artículo 172. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización por parte de la Administración de aquellas actividades encaminadas a la tramitación de los expedientes de deslinde y de amojonamiento de los canales de dominio público hidráulico.
+
+### Artículo 173
+
+Artículo 173. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la realización de expedientes de deslinde y de amojonamiento de los canales de dominio público hidráulico.
+
+### Artículo 174
+
+Artículo 174. Cuantía.
+La presente tasa se exigirá conforme a las siguientes tarifas:
+a) La tarifa mínima será de 106.000 pesetas.
+b) Si se superan diez días de campo, la tarifa mínima se incrementará en 10.600 pesetas diarias hasta el decimoquinto día.
+c) A partir del decimoquinto día, la tarifa calculada conforme a las reglas anteriores se incrementará en 7.950 pesetas por cada uno de los siguientes días.
+
+### Artículo 175
+
+Artículo 175. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la tramitación del expediente de deslinde y de amojonamiento de los canales de dominio público hidráulico.
+
+## CAPÍTULO XVIII
+
+Tasa por la autorización de vertido de aguas
+
+### Artículo 176
+
+Artículo 176. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización por parte de la Administración de aquellas actividades tendentes a la concesión de la autorización para el vertido de aguas.
+
+### Artículo 177
+
+Artículo 177. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten o se vean afectados por la autorización para el vertido de aguas.
+
+### Artículo 178
+
+Artículo 178. Cuantía.
+La cuota se determinará atendiendo al presupuesto del proyecto, conforme a la siguiente tarifa:
+Presupuesto del proyecto:
+a) Presupuesto igual o superior a 300.506,05 euros: 3.185,36 euros.
+b) Presupuesto entre 60.101,21 euros y 300.506,04 euros: 637,07 euros.
+c) Presupuesto entre 30.050,61 euros y 60.101,20 euros: 330,56 euros.
+d) Presupuesto entre 12.020,24 euros y 30.050,60 euros: 247,92 euros.
+e) Presupuesto entre 0,00 euros y 12.020,23 euros: 185,94 euros.
+Se modifica por el art. 17 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-9
+
+### Artículo 179
+
+Artículo 179. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la tramitación del expediente de la autorización de vertido, pero si la autorización se concede de oficio se realizará en el momento en que se conceda.
+
+## CAPÍTULO XIX
+
+Tasa por la autorización de desaladoras de agua marina o salobre
+
+### Artículo 180
+
+Artículo 180. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización por parte de la Administración de aquellas actividades encaminadas a la concesión de autorizaciones para la instalación de desaladoras de agua marina o salobre.
+
+### Artículo 181
+
+Artículo 181. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la concesión de autorizaciones para la instalación de desaladoras de agua marina o salobre.
+
+### Artículo 182
+
+Artículo 182. Cuantía.
+La cuota se determinará atendiendo al presupuesto del proyecto según la siguiente tarifa:
+a) Presupuesto proyectado superior a 50.000.000: 530.000 pesetas.
+b) Presupuesto proyectado inferior a 50.000.000: 106.000 pesetas.
+
+### Artículo 183
+
+Artículo 183. Devengo.
+La tasa se devengará cuando se presente la solicitud que inicie la tramitación del expediente de la autorización de instalación de desaladoras de agua marina o salobre.
+
+## CAPÍTULO XX
+
+Tasa por la realización de informes y otras actuaciones
+
+### Artículo 184
+
+Artículo 184. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de informes técnicos y certificados, así como la realización de actuaciones facultativas que hayan de efectuarse a entidades, empresas o particulares o sean consecuencia de la aplicación de disposiciones en vigor o de los términos de concesiones o autorizaciones otorgadas.
+
+### Artículo 185
+
+Artículo 185. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten los informes, certificados y demás actuaciones facultativas a que se refiere su hecho imponible.
+
+### Artículo 186
+
+Artículo 186. Cuantía.
+La tasa se exigirá conforme a las tarifas siguientes:
+a) Certificaciones simples: 1.060 pesetas.
+b) Certificaciones con visita de campo: 5.300 pesetas.
+c) Compulsa de documento, por folio: 320 pesetas.
+d) Cambios de titularidad: 15.900 pesetas.
+e) Prórrogas: 15.900 pesetas.
+f) Modificación de las condiciones: 15.900 pesetas.
+g) Informes cuya redacción no implique visita de campo: 5.300 pesetas.
+h) Informes cuya redacción implique visita de campo:
+Por el primer día: 15.900 pesetas.
+Por cada uno de los días siguientes: 10.600 pesetas.
+
+### Artículo 187
+
+Artículo 187. Devengo.
+La tasa se devengará en el momento de la solicitud de los servicios constitutivos de su hecho imponible.
+
+## CAPÍTULO XXI
+
+Tasa por la realización de trabajos de campo para deslindes, inspección de obras, levantamientos topográficos y otras actuaciones facultativas
+
+### Artículo 188
+
+Artículo 188. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, por el personal dependiente de la Junta de Aguas de Baleares, de servicios públicos cuya realización implique visitas de campo que tengan su causa en la realización de proyectos, expedientes o peticiones, promovidos por la Administración u ordenados en disposiciones legales o reglamentarias.
+
+### Artículo 189
+
+Artículo 189. Sujeto pasivo.
+Son sujetos pasivos de esta tasa aquellos a quienes se presten los servicios o para los que se ejecuten los trabajos expresados en el hecho imponible.
+
+### Artículo 190
+
+Artículo 190. Cuantía.
+La cuota se calculará atendiendo al número de días en que se han realizado los trabajos de campo, conforme a la siguiente tarifa:
+a) Por el primer día: 15.900 pesetas.
+b) Por cada uno de los días siguientes hasta el decimoquinto día: 10.600 pesetas.
+c) Por cada uno de los siguientes: 7.950 pesetas.
+
+### Artículo 191
+
+Artículo 191. Devengo.
+La tasa se devengará cuando se inicie la prestación efectiva del servicio o trabajo.
+
+## CAPÍTULO XXII
+
+Tasa por la inspección de las condiciones concesionales
+
+### Artículo 192
+
+Artículo 192. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, por el personal dependiente de la Junta de Aguas de Baleares, de servicios públicos cuya realización implique visita al campo y que provoquen la inspección y vigilancia de las condiciones a que están sujetas las autorizaciones y concesiones sobre el dominio público hidráulico.
+
+### Artículo 193
+
+Artículo 193. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes, habiendo solicitado la concesión de autorizaciones sobre el dominio público hidráulico, precisen la inspección de las condiciones en que se haya librado dicha autorización.
+
+### Artículo 194
+
+Artículo 194. Cuantía.
+La cuota tributaria se determinará en función de una cantidad variable en atención al número de días en que se lleven a cabo los trabajos de campo, conforme a la siguiente tarifa:
+a) Por el primer día: 15.900 pesetas.
+b) Por cada uno de los días siguientes hasta el decimoquinto día: 10.600 pesetas.
+c) Por cada uno de los siguientes días: 7.950 pesetas.
+
+### Artículo 195
+
+Artículo 195. Devengo.
+La tasa se devengará cuando se inicie la prestación efectiva del servicio de inspección a que se refiere su hecho imponible.
+
+## CAPÍTULO XXIII
+
+Tasa por dirección o inspección de obras
+
+### Artículo 196
+
+Artículo 196. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización de los trabajos facultativos de replanteo, dirección, inspección y liquidación de obras efectuada por el personal dependiente de la Junta de Aguas de Baleares para la gestión y ejecución de las citadas actividades, ya sea mediante subasta, concurso, contratación directa o destajos.
+
+### Artículo 197
+
+Artículo 197. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los contratistas y adjudicatarios de las subastas, concursos, contratos directos y destajos.
+
+### Artículo 198
+
+Artículo 198. Base y cuantía para proyectos de dirección e inspección de obras.
+Cuando se trate de proyectos de dirección e inspección de obras, la base imponible estará constituida por el importe del presupuesto de ejecución material, incluida cada certificación de obra, añadiendo en su caso las adquisiciones y suministros especificados en los proyectos. El tipo de gravamen será el 4 por 100.
+
+### Artículo 199
+
+Artículo 199. Base y cuantía para replanteo y liquidación de obras.
+1. Para el replanteo de obras el importe de la tasa se fijará tomando como base el presupuesto de gastos que se formule, que comprenderá las dietas, kilometraje y materiales. Su importe no podrá exceder del 1 por 100 del presupuesto de ejecución por contrata.
+2. La cuota tributaria por liquidación de obras se determinará atendiendo a un tipo variable en función del presupuesto de ejecución material y del adicional de liquidación de las obras, según la siguiente tabla:
+1. Hasta 400.000: 1.590 pesetas.
+2. De 400.001 a 800.000: 2,50 por 1.000.
+3. De 800.001 a 4.000.000: 2,00 por 1.000.
+4. De 4.000.001 a 8.000.000: 1,25 por 1.000.
+5. De 8.000.001 a 40.000.000: 0,50 por 1.000.
+6. De 40.000.001 a 80.000.000: 0,35 por 1.000.
+7. De 80.000.001 a 160.000.000: 0,25 por 1.000.
+8. De 160.000.001 a 240.000.000: 0,20 por 1.000.
+9. De 240.000.001 a 320.000.000: 0,17 por 1.000.
+10. De 320.000.001 a 400.000.000: 0,15 por 1.000.
+11. A partir de 400.000.001: 0,13 por 1.000.
+
+### Artículo 200
+
+Artículo 200. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación del trabajo facultativo correspondiente.
+
+## CAPÍTULO XXIV
+
+Tasa por redacción de proyectos, confrontación y tasación de obras y proyectos
+
+### Artículo 201
+
+Artículo 201. Hecho imponible.
+Constituye el hecho imponible de esta tasa la realización de trabajos facultativos para que se realicen proyectos de obras, servicios o instalaciones de entidades, empresas o particulares, así como la tasación de dichas obras, servicios o instalaciones.
+
+### Artículo 202
+
+Artículo 202. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los titulares o peticionarios de concesiones, autorizaciones administrativas o tasaciones a que se refiere el hecho imponible.
+
+### Artículo 203
+
+Artículo 203. Base de tributación.
+La base de la tasa es el importe del presupuesto total de ejecución material del proyecto de obras, servicios o instalaciones y, en caso de tasación, el valor que resulte de la misma.
+
+### Artículo 204
+
+Artículo 204. Cuantía.
+El importe de la tasa se obtendrá multiplicando la raíz cúbica del cuadrado de la base por el coeficiente que a continuación se señala, es decir, por aplicación de la fórmula:
+T = C. P2/3
+a) En el caso de redacción de proyectos de obras, servicios e instalaciones se aplicará el coeficiente: C = 2,7. La tasa mínima será de 31.800 pesetas.
+b) En el caso de confrontación e informes se aplicará el coeficiente: C = 0,8. La tasa mínima será de 15.900 pesetas.
+c) En el caso de tasaciones de obras, servicios o instalaciones, y en el de tasaciones de terrenos o edificios, se aplicará el coeficiente: C = 0,3. La tasa mínima será de 10.600 pesetas.
+
+### Artículo 205
+
+Artículo 205. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación del trabajo facultativo correspondiente.
+
+## CAPÍTULO XXV
+
+Tasa general por servicios administrativos portuarios
+
+### Artículo 206
+
+Artículo 206. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los siguientes servicios:
+1. Formación de expedientes, apertura y tramitación.
+2. Búsqueda de datos o antecedentes archivados.
+3. Expedición de certificaciones simples.
+4. Compulsa y bastanteo de documentos.
+5. Autentificación de documentos y planos.
+6. Informes facultativos, con o sin salida de oficinas.
+7. Registro de concesiones o autorizaciones administrativas.
+8. Copias o fotocopias de documentos y planos.
+
+### Artículo 206 bis
+
+Artículo 206 bis. Exenciones.
+1. Estarán exentos del pago de la tasa definida en el artículo 206.1 los pescadores profesionales, las cofradías de pescadores y sus federaciones, las organizaciones de productores de pesca y las asociaciones pesqueras profesionales.
+2. Asimismo, quedarán exentas del pago de la tasa definida en el artículo 206.4 las personas que se presenten a los procedimientos selectivos o de provisión de personal laboral que convoque Puertos de las Illes Balears, solo a efectos de compulsar la documentación exigida en las bases de la convocatoria.
+Se modifica por la disposición final 1.5 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 22.1 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 207
+
+Artículo 207. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten los servicios a que se refiere el hecho imponible.
+
+### Artículo 208
+
+Artículo 208. Cuantía.
+La cuota tributaria de esta tasa se determinará mediante la aplicación de las siguientes tarifas, en euros:
+1. Por formación de expediente, apertura y tramitación: 76,20 € por unidad.
+2. Por búsqueda de datos o antecedentes archivados: 3,752941 por unidad.
+3. Por certificación simple:
+3.1 Expedición: 15,36 por unidad.
+3.2 Remisión de correo: 1,43 por unidad.
+4. Por compulsa de documentos:
+4.1 Por compulsa de folio (A4): 3,031532 por unidad.
+4.2 Por validación de poderes: 18,58 por unidad.
+5. Por certificación de documentos:
+5.1 Por certificación de folio (A4): 6,152227 por unidad.
+5.2 Por plano (A1): 12,304458 por unidad.
+6. Por informe facultativo:
+6.1 Sin salida: 32,53 por unidad.
+6.2 Con datos de campo: 116,21 por unidad.
+6.3 Por cada día: 88,303523 por unidad.
+7. Por registro de concesiones o autorizaciones: 2,3% del canon establecido, con un mínimo de 18,58.
+8. Por copias y fotocopias:
+8.1 Copias mecanografiadas de textos originales: 2,318231 por unidad.
+8.2 Fotocopias:
+8.2.1 Fotocopias en papel A4, hasta 50 unidades: 0,129690 por unidad.
+8.2.2 Fotocopias en papel A4, a partir de 50 unidades: 0,081058 por unidad.
+8.2.3 Fotocopias en papel A3, hasta 50 unidades: 0,170221 por unidad.
+8.2.4 Fotocopias en papel A3, a partir de 50 unidades: 0,129690 por unidad.
+8.3 Copias de planos:
+8.3.1 De original vegetal A1: 1,434709 por unidad.
+8.3.2 De original vegetal informal: 1,856207 por unidad.
+Se modifica el apartado 1 por la disposición final 1.6 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por el art. 22.2 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 209
+
+Artículo 209. Devengo.
+1. La tasa se devengará en el momento de solicitarse la realización de la actividad administrativa que constituye el hecho imponible.
+2. Cuando la cuantía no se pueda determinar en el momento de solicitarse la actividad, por desconocerse el número de unidades de documentos, copias o fotocopias a entregar al solicitante, se podrá exigir un depósito previo estimado de la cuantía final.
+
+## CAPÍTULO XXVI
+
+Tasa por ocupación o aprovechamiento de dominio público portuario
+
+### Artículo 210
+
+Artículo 210. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la utilización privativa o el aprovechamiento especial del dominio público portuario, mediante concesión o autorización administrativa.
+2. No están sujetos a esta tasa la utilización privativa o el aprovechamiento especial de bienes, obras e instalaciones de uso público que, no siendo objeto de concesión administrativa, se encuentren gravados a través de otras tasas portuarias.
+
+### Artículo 211
+
+Artículo 211. Sujeto pasivo.
+Son sujetos pasivos quienes sean titulares de las concesiones o autorizaciones a que se refiere el hecho imponible de esta tasa.
+
+### Artículo 212
+
+Artículo 212. Base imponible.
+1. La base imponible estará constituida por el valor del bien ocupado o aprovechado, que se determinará de acuerdo con los siguientes criterios:
+A) Ocupación del dominio público portuario.
+a) Ocupación de terrenos e instalaciones. Será el valor de los terrenos y de las instalaciones, que se determinará sobre la base de criterios de mercado teniendo en cuenta su ubicación y la dimensión general del puerto.
+b) Ocupación de las aguas del puerto. Será el valor de los espacios de agua, que se determinará por referencia al valor de los terrenos de la zona de servicio.
+B) Aprovechamiento del dominio público portuario.
+Cuando se trate del aprovechamiento del dominio público portuario, la base imponible estará constituida por el valor de los materiales aprovechados a precio de mercado.
+2. Para la determinación del valor de los terrenos y de las aguas del puerto, la consejería competente en materia de puertos aprobará, a propuesta del ente público Puertos de las Illes Balears, la correspondiente valoración de la zona de servicio del puerto de acuerdo con el siguiente procedimiento:
+a) Elaboración por el ente público Puertos de las Illes Balears de la valoración de terrenos y aguas del puerto, que deberá incluir entre sus antecedentes y estudios necesarios una memoria económico-financiera.
+b) Información pública durante un plazo no inferior a 20 días, que será anunciada en el Butlletí Oficial de les Illes Balears.
+c) Solicitud de un informe preceptivo a la consejería competente en materia de hacienda y presupuestos por parte del ente público Puertos de las Illes Balears que deberá emitirse en un plazo no superior a un mes.
+d) Remisión del expediente a la consejería competente en materia de puertos que, previo informe de los servicios jurídicos competentes, deberá aprobar la valoración correspondiente mediante resolución que se publicará en el Butlletí Oficial de les Illes Balears.
+Los valores contenidos en la citada resolución no serán susceptibles de recurso autónomo, sin perjuicio de los recursos que procedan contra la notificación individual conjunta, del citado valor y de la nueva cuantía de la tasa, a los titulares de las concesiones o autorizaciones correspondientes.
+Las valoraciones, que se actualizarán el 1 de enero de cada año en una proporción equivalente a la variación interanual experimentada por el Índice General de Precios al Consumo para el conjunto autonómico de las Illes Balears en el mes de octubre, podrán ser revisadas para la totalidad de la zona de servicio cada cinco años y, en cualquier caso, deberán revisarse cada diez años. Asimismo, deberán revisarse cuando se produzca cualquier circunstancia que pueda afectar su valor. En todo caso, la revisión de las valoraciones deberá seguir el procedimiento establecido en las letras a), b), c) y d) del primer párrafo del presente apartado.
+Téngase en cuenta que en relación a la exigencia de las cuantías, la disposición transitoria 3 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+Se modifica por el art. 38.17 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Téngase en cuenta que en relación a la exigencia de las cuantías, la disposición transitoria 3 de la citada ley.
+
+### Artículo 213
+
+Artículo 213. Cuantía.
+1. En el supuesto de ocupación de terrenos, instalaciones y aguas del puerto, la cuantía será la que resulte de aplicar a la base imponible el tipo de gravamen del 5 %.
+En el caso de que la ocupación sea para usos portuarios del sector pesquero, y, en todo caso, de lonjas pesqueras, la cuantía ha de ser la que resulte de aplicar a la base imponible el tipo de gravamen del 2,5%.
+2. Cuando se trate del aprovechamiento de bienes de dominio público portuario, la cuota tributaria será la resultante de aplicar a la base imponible el tipo de gravamen del 50 %.
+3. La tasa se actualizará o se revisará periódicamente en la medida en que aumente o disminuya el valor de los elementos que sirvieron de base para determinar la base imponible.
+4. El importe de la tasa satisfecha por los titulares de concesiones de construcción o explotación de puertos deportivos no será repercutible tributariamente sobre los usuarios de los puestos base de amarre.
+5. Cualquier modificación que el concesionario pretenda aplicar al importe de la contraprestación de los servicios portuarios requerirá autorización previa del ente público Puertos de las Illes Balears.
+Se modifica el apartado 1 por el art. 3.1 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se modifica por el art. 38.17 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 214
+
+Artículo 214. Devengo.
+1. La tasa por la utilización privativa del dominio público portuario se devengará, para los titulares de las concesiones o autorizaciones, en el momento del otorgamiento de las mismas y de la aprobación de cada una de las revisiones efectuadas sobre dicha tasa.
+2. La tasa por aprovechamiento especial del dominio público portuario se devengará cuando se produzca el aprovechamiento autorizado y será exigible por cada acto de disfrute que se efectúe de estos aprovechamientos.
+3. No obstante, la tasa se exigirá anualmente y será satisfecha de una sola vez en los plazos que se determinen en la correspondiente concesión o autorización.
+
+## CAPÍTULO XXVII
+
+Tasa por dirección e inspección de obras
+
+### Artículo 215
+
+Artículo 215. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización, por parte de los servicios técnicos de la administración portuaria, de trabajos facultativos de dirección y de inspección correspondientes a obras y proyectos que se realicen en virtud de un contrato administrativo o de un contrato privado.
+Se modifica por la disposición final 1.6 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 216
+
+Artículo 216. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los contratistas adjudicatarios de las subastas, concursos o contratos a que se refiere el artículo regulador del hecho imponible.
+
+### Artículo 217
+
+Artículo 217. Base imponible y cuantía.
+La base imponible estará constituida por el resultado de aplicar, al importe de ejecución material de las obras, el coeficiente de adjudicación del contrato, según las siguientes reglas:
+1. Por el replanteo de las obras: La cuantía de la tasa estará constituida por la suma de la cantidad fija de 37.100 pesetas y el 1 por 1.000 de la base antes señalada, según conste su importe total en el contrato.
+2. Por la dirección e inspección de las obras: La cuantía será el 4 por 100 de la base antes señalada, según conste en cada certificación que se expida.
+3. Por revisión de precios: Cuando en un contrato exista cláusula de revisión, y haya que tramitar un expediente para su aplicación, se exigirá la cuantía fija de 15.900 pesetas y el 1 por 1.000 sobre el importe adicional por revisión que resulte.
+4. Por liquidación de obra: La redacción del proyecto de liquidación dará lugar a la tasa con la cuantía fija de 37.100 pesetas y el 1 por 1.000 sobre el importe adicional del proyecto resultante.
+
+### Artículo 218
+
+Artículo 218. Devengo.
+La tasa se devengará en el momento de la firma del contrato.
+1. En los casos 1, 3 y 4 del artículo anterior será exigible en el momento en que el contratista solicite el replanteo, la revisión o la liquidación de las obras.
+2. En el caso de la dirección e inspección, la tasa podrá exigirse deduciendo su importe de la cantidad a abonar por cada certificación que se expida.
+
+## CAPÍTULO XXVIII
+
+Tasa general por trabajos facultativos de redacción, confrontación y tasación de proyectos
+
+### Artículo 219
+
+Artículo 219. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, por parte de los servicios técnicos correspondientes, de los trabajos facultativos relativos a la solicitud y autorización de concesiones, licitaciones, mediaciones o tasaciones formuladas por los sujetos pasivos.
+
+### Artículo 220
+
+Artículo 220. Sujeto pasivo.
+Son sujetos pasivos quienes sean peticionarios o titulares de concesiones, autorizaciones administrativas o tasaciones ante la Consejería de Medio Ambiente, Ordenación del Territorio y Litoral.
+
+### Artículo 221
+
+Artículo 221. Bases, tipo de gravamen y cuantías mínimas.
+1. La base imponible de esta tasa estará constituida por el importe del presupuesto total de ejecución materiales las obras, incluyendo partidas alzadas, partidas a justificar e imprevistos, si los hubiera, del proyecto de obras, servicios o instalaciones objeto de la prestación del servicio. Cuando el servicio prestado sea la tasación, la base imponible estará constituida por el valor resultante de la misma.
+2. La cuantía de la tasa se obtendrá aplicando la fórmula T=(C*P2/3) / 5,5 en euros, siendo C el coeficiente que para cada caso se señale, y P la base indicada.
+3. El coeficiente C tendrá el valor siguiente:
+En redacción de proyectos: C = 2,7.
+En confrontación e informe: C = 0,8.
+En tasaciones de obras y similares: C = 0,5.
+En tasaciones de proyectos: C = 0,3.
+4. Las cuantías mínimas exigibles serán:
+En redacción de proyectos: 649,73 euros.
+En confrontación e informe: 192,54 euros.
+En tasaciones de obras y similares: 120,35 euros.
+En tasaciones de proyectos: 72,20 euros.
+Se modifican los apartados 2 y 4 por el art. 38.18 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 222
+
+Artículo 222. Devengo.
+La obligación de satisfacer la tasa nace según los casos:
+1. En el caso de petición de redacción de proyectos, en el momento de aceptación por el peticionario del presupuesto formulado por el servicio de la Administración.
+2. En el caso de confrontación e informe, en el momento de la presentación del proyecto que debe tramitarse o, si se formulan objeciones en el bastanteo previo, en el momento en que se produzca su subsanación.
+3. En el caso de petición de tasación de una obra de un proyecto, en el momento de ser admitida la petición.
+
+## CAPÍTULO XXIX
+
+Tasa general por informes y actuaciones facultativas
+
+### Artículo 223
+
+Artículo 223. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la prestación de informes técnicos, trabajos de campo para deslindes, replanteos, inspecciones, reconocimientos o recepciones de obra que exijan levantamiento de actas y/o planos con expedición de certificado, que deban realizarse por la Administración en las tramitaciones instadas ante la Consejería de Medio Ambiente, Ordenación del Territorio y Litoral.
+Asimismo, se entenderá producido el hecho imponible cuando hayan de efectuarse la prestación de informes técnicos, como consecuencia de disposiciones en vigor o de las cláusulas y condiciones impuestas en concesiones o autorizaciones otorgadas.
+2. Quedan exceptuados de esta tasa los informes cuya realización devengue una tasa específica.
+
+### Artículo 224
+
+Artículo 224. Sujeto pasivo.
+Son sujetos pasivos quienes soliciten la realización de alguna de las actividades señaladas en el artículo anterior o en quienes recaiga la actuación por aplicación de cláusula o condición impuesta en las concesiones o autorizaciones de las que sean titulares.
+
+### Artículo 225
+
+Artículo 225. Cuota tributaria o tarifa.
+La cuantía de esta tasa será la cuota en pesetas que para cada prestación se establece a continuación:
+1. Por trabajos de campo para deslindes, replanteos, inspecciones, reconocimientos, recepciones y levantamientos topográficos con levantamiento de acta y plano:
+1.1 El primer día o cuantía mínima: 15.900 pesetas.
+1.2 Por cada día siguiente: 10.600 pesetas.
+2. Por informes técnicos redactados por personal facultativo en virtud del cargo y con certificado final, sin salida: 7.950 pesetas.
+3. Por la inspección de carácter permanente en contratos de explotación y de gestión de servicios, obras tales como concesiones de cantinas, estaciones marítimas, varaderos o de aguas públicas, parques y jardines, se aplicará sobre el valor total de las instalaciones el 1,5 por 100 con una cuantía mínima de 15.000 pesetas.
+
+### Artículo 226
+
+Artículo 226. Devengo.
+La tasa se devengará en el momento de solicitarse la prestación del acto facultativo en virtud del precepto que lo regule, o bien en virtud de las condiciones o cláusulas de la concesión, autorización o contrato de gestión de servicios.
+
+## CAPÍTULO XXX
+
+Tasas del servicio de puertos. Tasa G-1: Barcos
+Se modifica por el art. 9.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 227
+
+Artículo 227. Hecho imponible.
+Constituye el hecho imponible el acceso marítimo de los barcos al puerto y el atraque o fondeo en el lugar que les haya sido asignado, incluyendo las prestaciones que les proporcionen las obras y las instalaciones portuarias y el balizamiento propio del puerto.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 228
+
+Artículo 228. Sujeto pasivo y responsables.
+Son sujetos pasivos los navieros o los consignatarios de los barcos, o sus capitanes en los casos en que aquéllos no estén consignados.
+En cualquier caso, los navieros y los propietarios de los barcos están obligados al pago de la tasa con carácter solidario.
+Tendrán la consideración de responsables subsidiarios en el pago de la deuda tributaria los titulares de muelles, pantalanes, boyas y demás instalaciones portuarias en concesión que no comuniquen al servicio de puertos su llegada en la forma y en el plazo que se establezca.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 229
+
+Artículo 229. Cuantía.
+La base de esta tasa es la unidad de arqueo total (GT) o fracción, y el período de tres horas o fracción con un máximo de cuatro períodos por cada veinticuatro horas para estancias cortas; y la unidad de arqueo total (GT) o fracción y día o fracción, para las estancias prolongadas.
+La cuantía básica de esta tasa es la que se señala a continuación, sin perjuicio de las reducciones que puedan resultar aplicables:
+A) Estancias cortas: cuantía básica de 0,015785 euros (GT/3h).
+a) Reducción por emplear instalaciones en régimen de concesión administrativa construidas por particulares: las concesiones que otorgue el servicio de puertos podrán contener cláusulas en las cuales se establezca una bonificación en la cuantía básica de esta tasa no superior al 50 por 100.
+b) Reducción por falta de calado en el puesto de fondeo o atraque: a los barcos cuyo calado máximo sea superior a la profundidad de la lámina de agua en bajamar máxima en el puesto de fondeo o atraque asignado, se les aplicará la cuantía básica reducida al multiplicarla por el cociente entre esta profundidad y el calado máximo citado.
+c) Reducción por la manera en que el barco está amarrado en puestos de fondeo o atraque: a los barcos que no estén atracados de lado en los muelles se les aplicará el siguiente porcentaje de la cuantía básica: el 92 por 100 a los atracados de punta, el 90 por 100 a los abarloados a otros barcos, y el 88 por 100 a los amarrados a boyas u otros puntos fijos que no tengan la consideración de atraque; a los barcos fondeados utilizando sus propios medios, el 60 por 100 cuando estén fondeados en la zona I, o en el interior de las aguas portuarias, y estarán exentos de esta tasa cuando estén fuera de la zona I.
+Cuando un barco permanezca en la zona I más de cuatro períodos de tres horas o fracción al día cambiando de puesto de fondeo o atraque se facturarán aquellos cuatro períodos con menor reducción.
+d) Reducción por el número de escalas.
+1. A los buques que hagan más de doce escalas en un puerto durante el año natural se les aplicará las tasas siguientes:
+A las escalas 13 a 24: 80 por 100 de la cuantía básica.
+A las escalas 25 a 40: 55 por 100 de la cuantía básica.
+A partir de la escala 41: 30 por 100 de la cuantía básica.
+Excepcionalmente y para los tráficos que tengan una marcada estacionalidad, el servicio de puertos iniciará el cómputo del número de escalas al efecto de esta tasa en la fecha que estime procedente.
+2. En la navegación de línea regular y siempre que antes del nacimiento de la obligación del pago de la tasa esta condición esté suficientemente documentada ante el servicio de puertos, las tasas aplicables a los barcos de las líneas que hagan más de doce escalas en el puerto durante el año natural podrán ser:
+A las escalas 13 a 24: 95 por 100 de la cuantía básica.
+A las escalas 25 a 50: 85 por 100 de la cuantía básica.
+A las escalas 51 a 100: 75 por 100 de la cuantía básica.
+A partir de la escala 101: 65 por 100 de la cuantía básica.
+La denegación de estas reducciones tendrá que ser motivada.
+Para que los buques que se incorporen a una línea regular puedan optar a la aplicación de estas tasas reducidas será condición necesaria que antes de la entrada en puerto de dichos barcos se justifique esta circunstancia documentalmente ante el servicio de puertos acreditando las rutas y frecuencias y, en su caso, las tasas. En ningún caso estas tasas reducidas tendrán carácter retroactivo.
+A efectos del cómputo de las escalas se acumularán en cada puerto todas las entradas de los barcos de una misma compañía naviera y línea regular. También podrán acumularse escalas de buques de diferentes compañías navieras, sirviendo una misma línea regular mediante acuerdos de explotación compartida de sus buques, cuando previamente a la entrada de dichos buques en puerto se justifique este acuerdo ante el servicio de puertos y se comprometan conjuntamente a abonar la tasa “G-3: Mercancías y Pasajeros” correspondiente.
+3. Las reducciones que prevén los números 1 y 2 de la letra d) son incompatibles entre sí, es decir, la reducción por número de escalas aplicable a un barco es incompatible con la aplicable, en su caso, como integrante de una línea regular. La aplicación de una u otra reducción se hará a solicitud del usuario o de su representante en el plazo de quince días desde la entrada en vigor de las tasas, y, en su defecto, se aplicará la reducción prevista en el número 1. El cambio de criterio implicará el inicio del cómputo de las escalas.
+e) Reducción por avituallamiento. A los buques que entren en puerto exclusivamente para avituallarse se les aplicará el 75 por 100 de la cuantía básica, siempre que tal operación se realice dentro de las limitaciones temporales determinadas, en su caso, por el servicio de puertos.
+f) Reducción por prevención de la contaminación (Marpol I, II y IV). El servicio de puertos podrá conceder una reducción en esta tasa de hasta 18,00 euros/tonelada de residuo entregado, con un límite del 10 por 100 de la cuantía básica, a aquellos buques que acrediten haber descargado los residuos oleosos procedentes de sus sentinas incluidos en el anexo I del convenio Marpol 73/78 (los residuos procedentes de deslastres, lavado de tanques o desgasificación no dan derecho a esta reducción), o los residuos químicos incluidos en el anexo II, o las aguas sucias incluidas en el anexo IV, en una instalación del puerto gestionada por una empresa autorizada por el servicio de puertos para expedir certificados Marpol. La aplicación de la reducción exigirá que el barco mantenga el Libro de registro de residuos que refleje de forma sistemática y garantizada la entrega de estos productos a una empresa autorizada para recogerlos y tratarlos, de manera que se pueda comprobar de una forma fiable, a juicio del servicio de puertos, que dicho buque da a sus residuos un tratamiento adecuado permanentemente y que puede ser calificado como “buque limpio”.
+Esta reducción deberá solicitarse al servicio de puertos en un plazo máximo de tres días, contado a partir de la fecha de salida del buque.
+B) Estancias prolongadas.
+A los buques y artefactos flotantes que estén inactivos o se dediquen al tráfico interior, remolque de cualquier tipo, a la acuicultura, a constituir viveros flotantes o viveros de mejillones, se les aplicará una tasa que será como mínimo de 0,016426 euros/GT y como máximo de 0,220000 euros/GT y día de estancia o fracción en el puerto. Los barcos en varaderos o en diques secos o flotantes están exentos del pago de esta tasa mientras no ocupen lámina de agua, sin perjuicio del pago de la tasa correspondiente durante el tiempo en que duren las operaciones de puesta en seco o al agua del barco.
+En cualquier caso resultará de aplicación a los buques y embarcaciones destinadas al transporte marítimo con finalidad turística o recreativa, o excursiones turísticas marítimas costeras (golondrinas) la cuantía máxima señalada.
+En todo caso, para poder aplicar lo dispuesto en esta regla será indispensable que, previamente a la llegada, se haya formulado la solicitud correspondiente al servicio de puertos y que éste haya otorgado su conformidad mediante el establecimiento del correspondiente concierto y que se sitúen en todo momento en la zona de anclaje, amarre o atraque determinada por el servicio de puertos. El concierto determinará la fecha de inicio de la facturación de acuerdo con este apartado B), y mientras tanto será de aplicación la tasa correspondiente a estancias cortas.
+Se suprime el apartado 4) de la letra A) y se modifica la letra B) por la disposición final 1.2 y 3 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifican el párrafo primero de las letras A) y B) por el art. 22.3 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se añade el apartado 4 a la letra A) por el art. 38.19 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 229 bis
+
+Artículo 229 bis. Valor estimado del arqueo.
+En caso de que no se disponga del arqueo de acuerdo con el Convenio Internacional de Arqueo de Barcos (1969) se aplicará el siguiente valor estimado de arqueo:
+Valor estimado de arqueo = 0,4 x E x M x P; donde:
+E = eslora máxima en metros.
+M = manga máxima en metros.
+P = puntal de trazado en metros.
+Se añade por la disposición final 1.4 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+### Artículo 230
+
+Artículo 230. Comienzo y término del período de prestación del servicio.
+El comienzo y el término del período de prestación del servicio se medirá con el tiempo de disponibilidad o reserva del lugar de atraque o fondeo.
+El atraque o el puesto de fondeo se contará desde la hora para la que éstos se hayan reservado hasta el momento de largar el buque la última amarra o leve el ancla del fondo. Sin embargo el servicio de puertos podrá contabilizar dicho período desde el momento en que se dé el primer cabo o se fondee el ancla.
+En el caso de barcos cuyo inicio de reserva de atraque coincida con el comienzo de la primera jornada ordinaria de estiba y desestiba del lunes o del día siguiente a uno festivo, y siempre que el atraque solicitado se encuentre disponible, el servicio de puertos podrá autorizar la ocupación de dicho atraque desde que finalice la jornada laboral inmediatamente anterior, incrementando en tres horas el tiempo de facturación medio a partir de la hora de reserva. Durante este período de espera el buque no podrá realizar operaciones de ningún tipo.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 231
+
+Artículo 231. Anulación de reservas del atraque o del lugar de fondeo.
+La anulación de la reserva del atraque o del puesto de fondeo en un plazo inferior a tres horas antes del comienzo de la reserva, o cuando dicha anulación no se produzca y el buque no llegue a puerto, dará derecho al cobro de la tasa aplicable a dicho buque por día completo en el que ha comenzado la reserva, sin perjuicio de que el atraque o puesto reservado pueda ser utilizado por otro barco.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 232
+
+Artículo 232. Prolongación del tiempo de atraque o fondeo.
+Si algún barco prolonga su estancia en su atraque o en su puesto de fondeo por encima del tiempo normal previsto y sin causa que lo justifique ante el servicio de puertos, este fijará un plazo para que lo abandone, transcurrido el cual queda obligado a largar amarras. Una vez recibida dicha orden, si el buque no la cumple, abonará la tasa siguiente:
+a) Por cada una de las dos primeras horas o fracción el importe de la tasa correspondiente a veinticuatro horas.
+b) Por cada una de las horas restantes tres veces el importe de la tasa correspondiente a veinticuatro horas.
+Si algún barco fondea durante una semana en la zona II o exterior de las aguas portuarias, el servicio de puertos podrá aplicar, a partir del octavo día, la cuantía correspondiente a estancias prolongadas.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 233
+
+Artículo 233. Atraque o fondeo sin autorización.
+Si por cualquier circunstancia un barco hace uso de un atraque o de un puesto de fondeo sin autorización pagará una tasa igual a la fijada en las letras a) y b) del artículo 232, sin que ello le exima de la obligación de abandonar el puesto de fondeo o atraque en cuanto así le sea ordenado e independientemente de las sanciones a que tal actuación dé lugar.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 234
+
+Artículo 234. Devengo y pago.
+La tasa se devengará cuando el barco haya entrado en las aguas de cualquier zona del puerto, haya atracado o bien cuando le hayan autorizado el atraque en el muelle.
+La tasa será exigible en el momento en que se efectúe y se notifique su liquidación correspondiente.
+Se modifica por el art. 9.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+## CAPÍTULO XXXI
+
+Tasa por el aprovechamiento especial del dominio público portuario en el ejercicio de actividades comerciales, industriales y de servicios
+Se añade por la disposición final 1.7 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 235
+
+Artículo 235. Hecho imponible.
+1. Constituirá el hecho imponible de la presente tasa el aprovechamiento especial del dominio público portuario para el ejercicio, en virtud de autorización administrativa, de actividades comerciales, industriales y de servicios en una zona de gestión directa a cargo de Puertos de las Illes Balears.
+2. No estarán sujetos a esta tasa los titulares de una concesión o autorización administrativa específica cuyo objeto sea realizar actividades comerciales, industriales y de servicios cuyo título incluya la ocupación privativa permanente del dominio público en la zona portuaria citada en el apartado anterior.
+3. Esta tasa será independiente de la que se devengue por una ocupación privativa ocasional del dominio público portuario.
+4. Esta tasa se aplicará preferentemente a la que regula el aprovechamiento especial del dominio público con carácter general; en cambio, no será de aplicación cuando la actividad esté gravada por otra tasa de aprovechamiento especial del dominio público más específica.
+Se añade por la disposición final 1.7 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 236
+
+Artículo 236. Sujeto pasivo.
+Serán sujetos pasivos los titulares de las autorizaciones a las que se refiere el hecho imponible.
+Se añade por la disposición final 1.7 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 237
+
+Artículo 237. Cuantía.
+La cuantía de la tasa será de 300 euros anuales.
+Se añade por la disposición final 1.7 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 238
+
+Artículo 238. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la correspondiente solicitud, y anualmente en caso de prorrogarse la autorización.
+Se añade por la disposición final 1.7 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+## CAPÍTULO XXXI BIS
+
+Tasa por servicios del Registro general de usuarios de amarres en instalaciones náutico-deportivas de gestión indirecta dependiente de Puertos de las Illes Balears
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 239
+
+Artículo 239. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa la inscripción, la modificación o la cancelación de los datos en el Registro general de usuarios de amarres en instalaciones náutico-deportivas de gestión indirecta dependiente de Puertos de las Illes Balears.
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 240
+
+Artículo 240. Sujetos pasivos.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten las actuaciones a que se refiere el hecho imponible.
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 241
+
+Artículo 241. Cuantía.
+El importe de la tasa será de 22,00 euros por cada acto de inscripción, modificación o cancelación de los datos del Registro. Si se deniega la inscripción, no se reintegrará el importe de la tasa, a menos que sea por causas no imputables al sujeto pasivo.
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 242
+
+Artículo 242. Exención.
+Se establece una exención para la primera inscripción de los derechos de uso de amarres vigentes en instalaciones náutico-deportivas existentes en el momento de creación del Registro, siempre que dicha inscripción se realice en el plazo que determine la normativa de creación del Registro.
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 243
+
+Artículo 243. Devengo y pago.
+La tasa se devengará en el momento de la solicitud de la inscripción, la modificación o la cancelación de datos en el Registro, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud.
+Se añade por la disposición final 1.8 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+## CAPÍTULO XXXI TER
+
+Tasa por la inscripción en las convocatorias para la selección de personal de Puertos de las Illes Balears
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 244
+
+Artículo 244. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la actividad administrativa derivada de la participación como aspirante en las pruebas de selección de personal para el acceso en la condición de personal laboral o para cubrir de manera interina o temporal las plazas convocadas por Puertos de las Illes Balears.
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 245
+
+Artículo 245. Sujeto pasivo.
+Serán sujetos pasivos de la tasa las personas físicas que soliciten la inscripción para participar como aspirantes en las pruebas de selección convocadas por Puertos de las Illes Balears.
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deja sin contenido por el art. 9.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 245 bis
+
+Artículo 245 bis. Cuantía.
+La tasa por la inscripción en las convocatorias se exigirá según las siguientes tarifas:
+Grupos de clasificación
+ Euros
+ A
+ 25,00
+ B
+ 20,00
+ C
+ 15,00
+ D
+ 12,00
+ E
+ 10,00
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 245 ter
+
+Artículo 245 ter. Exenciones y bonificaciones.
+1. Estarán exentas de pago las personas en situación de desempleo que no reciban percepciones económicas como paradas o que solo reciban algún subsidio de desempleo. Estos requisitos se acreditarán documentalmente en el momento de presentar la solicitud.
+2. Estarán exentas de pago de la tasa las personas con una discapacidad igual o superior al 33%, circunstancia que se acreditará documentalmente en el momento de presentar la solicitud.
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 245 quater
+
+Artículo 245 quater. Devengo y pago.
+La tasa se devengará en el momento de la presentación de la solicitud que motive el servicio o la actuación administrativa que constituya el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio
+Se añade por la disposición final 1.9 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXXII
+
+Tasa G-3: Mercancías y pasajeros
+Se modifica por el art. 10.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 246
+
+Artículo 246. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la utilización, por las mercancías y pasajeros, de las aguas del puerto y dársenas, accesos terrestres, vías de circulación, zonas de manipulación (excluidos los espacios de almacenamiento o depósito) y estaciones marítimas y servicios generales del puerto.
+2. Queda incluido en esta tasa el derecho de las mercancías que se embarcan o desembarcan utilizando medios no rodantes a permanecer en zona de tránsito portuaria el período de tiempo que le asigne la Dirección General de Costas y Puertos sin devengar ninguna otra tasa en relación a la superficie ocupada.
+3. Asimismo, queda incluido en esta tasa el derecho de las mercancías que se embarcan o desembarcan utilizando medios rodantes a que los vehículos y los barcos que las transportan utilicen las rampas fijas y el cantil de los muelles para las operaciones de carga y descarga.
+4. Finalmente, queda incluido en esta tasa el derecho de los pasajeros a la utilización de las rampas fijas y el cantil de los muelles cuando embarquen o desembarquen por su propio pie o utilizando su propio vehículo.
+
+### Artículo 247
+
+Artículo 247. Exigibilidad de la tasa.
+En particular, la tasa se exigirá:
+a) A los pasajeros que viajen en tráfico interior o insular únicamente al embarque.
+b) A los pasajeros que viajen en tráfico interinsular en excursión turística únicamente al embarque de cada puerto.
+c) A los pasajeros que no viajen en tráfico interior, insular o interinsular al embarque y desembarque.
+d) A las mercancías, embarcadas, desembarcadas, transbordadas o que entren y salgan por tierra en la zona de servicio portuaria sin ser embarcadas, excluyendo aquellas cuya entrada tenga como único objeto la tramitación de documentos de control aduanero, sin que se produzcan rupturas de cargas, descargas a tierra ni estancias en dicho espacio superiores a dos horas y su origen y destino sean países miembros de la UE.
+
+### Artículo 248
+
+Artículo 248. Exenciones.
+Está exenta del pago de esta tasa la utilización de maquinaria y elementos móviles necesarios para las operaciones de embarque o desembarque, utilización que queda regulada en otras tasas.
+
+### Artículo 249
+
+Artículo 249. Sujeto pasivo y responsables subsidiarios.
+1. Son sujetos pasivos de esta tasa los armadores o los consignatarios o los representantes de los barcos que utilicen el servicio y los propietarios del medio de transporte cuando la mercancía entre y salga del puerto por medios terrestres.
+2. Son responsables subsidiarios de la deuda tributaria los propietarios de la mercancía y sus representantes autorizados, salvo que prueben haber hecho provisión de fondos a los responsables principales.
+3. Son también responsables subsidiarios los titulares de la concesión en el caso de operaciones en muelle de concesionarios.
+
+### Artículo 250
+
+Artículo 250. Cuantía básica de la tasa de pasajeros y vehículos.
+1. La cuantía básica de la tasa de pasajeros, así como la de vehículos en régimen de pasaje que cada pasajero tiene derecho a embarcar o desembarcar, se determina según el Bloque I o II en el que viaje y el tipo de vehículo de que se trate, según el siguiente cuadro: Por pasajero o vehículo:
+Concepto
+ Navegación interior de las Balears (€)
+ Navegación interior de la UE y cruceros (€)
+ A) Pasajeros.
+ 1. Bloque I.
+ 
+ 3,520101
+ 2. Bloque II.
+ 
+ 1,041824
+ 2.1 De puerto a puerto o a otra isla, o viceversa, interinsular. Temporada alta (*).
+ 0,785313
+ 2.2 De puerto a puerto o a otra isla, o viceversa, interinsular. Temporada baja (*).
+ 0,416957
+ 2.3 De puerto a costa de la misma isla o viceversa, insular.
+ 0,069214
+ De puerto a costa de la misma isla, o viceversa, insular.
+ 0,50
+ B) Vehículos.
+ 1. Motocicletas y vehículos o remolques.
+ 1,385152
+ 1,846869
+ 2. Coches turismo y otros vehículos automóviles.
+ 2,730841
+ 5,461680
+ 3. Autocares y otros vehículos proyectados para el transporte colectivo.
+ 18,891733
+ 25,193187
+ (*) Temporada alta: Del 1 de mayo al 31 de octubre. Temporada baja: El resto del año.
+2. Se aplicará la tasa del bloque I a los pasajeros de camarote de cualquier número de plazas ocupadas por uno o dos pasajeros. Al resto de modalidades de pasaje se le aplicará la tasa del bloque II.
+3. Los pasajeros que realicen un crucero turístico que haga una escala intermedia en puerto pero que no desembarquen no están sujetos a esta tasa. En caso de que bajen, les será aplicada la tasa correspondiente a cada bloque, sin perjuicio que, de acuerdo con los criterios de estimación objetiva que se fijen mediante concierto entre los armadores o sus representantes y el servicio de puertos, se establezca otra forma de cuantificación y pago de la tasa antes de la llegada del barco.
+4. El abono de esta tasa dará derecho a embarcar o a desembarcar, libre del pago de la tasa de mercancías, el equipaje de camarote. Por lo que se refiere a los vehículos y al resto del equipaje deberá satisfacerse la tasa correspondiente como mercancía.
+5. La declaración del número de pasajeros correspondiente a cada bloque se realizará con arreglo al formato que establezca el servicio de puertos y se entregará en el momento de terminarse el embarque y con anterioridad al desembarque.
+6. En caso de inexactitud u ocultación del número de pasajeros, clase de pasaje o tipo de navegación, el importe de la tasa, para cada partida no declarada o declarada de forma incorrecta, será el doble de la cuantía básica establecida en el apartado 1 de este artículo.
+Se modifica el apartado 1 por la disposición final 4.5 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica el apartado A por la disposición final 3.17 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el apartado 1 por el art. 22.4 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 10.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 251
+
+Artículo 251. Concertación del pago de la tasa.
+La Dirección General de Costas y Puertos, cuando las circunstancias lo aconsejen, podrá establecer conciertos para el cobro de la tasa correspondiente a pasajeros en navegación interior o insular por períodos anuales. Este concierto se abonará por adelantado sin derecho a devolución total o parcial.
+
+### Artículo 252
+
+Artículo 252. Cuantía básica de la tasa de mercancías.
+La cuantía básica aplicable a las mercancías será, para cada uno de los supuestos o de las modalidades siguientes, que se consideran excluyentes entre sí, la que se detalla a continuación.
+A) Régimen general por partidas.
+1. A los envases, embalajes, contenedores, cisternas u otros recipientes o elementos que, tengan o no el carácter de efímeros, se utilicen para contener las mercancías durante el transporte, así como los autobuses, coches, camiones y otros vehículos automóviles en régimen de carga, incluso remolques y semirremolques, que, como medios de transporte terrestre se embarquen o se desembarquen, vacíos o no de mercancías, se les aplicará una cuantía básica de 2,012613 euros/tonelada, sin que les sea de aplicación ninguna otra bonificación o recargo.
+2. Al resto de las cargas se les aplicará la cuantía básica de 2,012613 euros/tonelada, con las reducciones y los incrementos aplicables, en su caso, sucesivamente y multiplicativamente, que se detallan a continuación. No obstante, a las mercancías que tengan origen o destino en puertos de la Unión Europea y a las mercancías correspondientes al tráfico interinsular se les podrá aplicar el régimen simplificado a que se refieren, respectivamente, las modalidades B) y C) de este artículo.
+a) Las mercancías que exclusivamente se embarquen tendrán una reducción del 23 por 100, y las que exclusivamente se desembarquen, un incremento del 23 por 100; no obstante, a la pesca congelada, o refrigerada y desembarcada por primera vez tras su captura, no se aplicará el citado incremento siempre que la descarga, el arrastre hasta la lonja o el almacén y cualquier otro trabajo derivado de su manipulación se hayan excluido de la consideración de servicio publico en aplicación de lo establecido en el Real Decreto 2541/1994, de 29 de diciembre.
+b) Las cargas de mercancías que, a juicio del servicio de puertos, no sean manipuladas en condiciones adecuadas de operatividad y respeto del medio ambiente podrán ser objeto de incremento hasta un 20 por 100. Los tráficos que, por su especial peligrosidad, pulverulencia, volumen de operación u otras circunstancias, requieran instalaciones especiales de manipulación o almacenaje podrán ser bonificados hasta un 20 por 100 por el servicio de puertos cuando estas inversiones sean realizadas por los usuarios, operadores o concesionarios. El servicio de puertos sólo podrá conceder esta bonificación cuando se trate de tráfico de mercancías incluidas en la relación que se establezca a tales efectos mediante resolución del consejero competente en materia de puertos. El servicio de puertos establecerá el plazo durante el cual se mantendrá esta bonificación teniendo en cuenta el estudio económico presentado a estos efectos por el usuario, operador o concesionario correspondiente.
+c) Finalmente, a la cuantía básica se le aplicará una bonificación dependiendo del grupo a que pertenezca la mercancía según el repertorio de clasificación que se establezca por resolución del consejero o de la consejera competente en materia de puertos, en la que, junto con la designación de las mercancías, estas tendrán que identificarse mediante el código de cuatro dígitos utilizado por el sistema armonizado de designación y de codificación de las mercancías (SA) convenido internacionalmente, de acuerdo con las siguientes tablas:
+Grupo de bonificación
+ Bonificación sobre cuantía básica
+ –
+ Porcentaje
+ Primero
+ 85
+ Segundo
+ 75
+ Tercero
+ 60
+ Cuarto
+ 30
+ Quinto
+ –
+Grupo de mercancías
+ Navegación Cabotaje UE
+ Navegación interior de las Balears
+ Embarc. Euros/t
+ Desemb. Euros/t
+ Embarc. Euros/t
+ Desemb. Euros/t
+ Primero
+ 0,232832
+ 0,370952
+ 0,181530
+ 0,292025
+ Segundo
+ 0,386738
+ 0,619571
+ 0,303867
+ 0,489341
+ Tercero
+ 0,619571
+ 0,990521
+ 0,489341
+ 0,781369
+ Cuarto
+ 1,085233
+ 1,732427
+ 0,856348
+ 1,365420
+ Tara del elemento portador
+ 2,012613
+ 2,012613
+ 1,511434
+ 1,511434
+ Quinto
+ 1,550897
+ 2,474331
+ 1,219407
+ 1,949473
+B) Régimen simplificado general.
+Al embarque o desembarque de mercancías en contenedores, plataformas o camiones con caja normalizada de acuerdo con las normas ISO, se podrá aplicar en lugar del régimen general por partidas y siempre que se aplique este régimen a la totalidad de la carga de esas características transportada por buques de un mismo naviero y que así lo autorice el servicio de puertos, el siguiente régimen simplificado aplicado a la unidad de carga.
+Tipo de unidad de carga
+ Euros/unidad de carga
+ Con carga
+ Vacío
+ Embarc.
+ Desemb.
+ Contenedor de < 20’.
+ 17,513685
+ 26,771707
+ 4,025228
+ Contenedor de < 40’.
+ 28,823782
+ 43,638197
+ 8,050454
+ Plataforma con contenedor de < 20’.
+ 18,721251
+ 27,979275
+ 6,440362
+ Plataforma con contenedor de < 40’.
+ 31,238919
+ 46,053334
+ 12,880728
+ Semirremolque.
+ 31,238919
+ 46,053334
+ 12,880728
+ Plataforma o camión hasta 6 m.
+ 19,526299
+ 28,784318
+ 8,050454
+ Plataforma o camión hasta 12 m.
+ 32,849011
+ 47,663424
+ 16,100909
+La opción por este régimen simplificado se materializará mediante acuerdo con el naviero correspondiente cuyo período de vigencia se determinará en el documento que se suscriba a tales efectos.
+C) Régimen simplificado para el tráfico interinsular.
+Al embarque y desembarque de cargas con origen y destino dentro de las Illes Balears se podrá aplicar el siguiente régimen simplificado por unidad de carga, sin que sean de aplicación las bonificaciones y los incrementos del régimen general por partidas:
+Tipo de unidad de carga
+ Euros/unidad de carga
+ Con carga
+ Vacío
+ Contenedor de < 20’.
+ 17,513685
+ 1,886332
+ Contenedor de < 40’.
+ 28,823782
+ 2,825551
+ Plataforma con contenedor de < 20’.
+ 18,721251
+ 1,996829
+ Plataforma con contenedor de < 40’.
+ 27,892457
+ 2,793981
+ Semirremolque.
+ 27,892457
+ 2,793981
+ Plataforma o camión con caja hasta 6 m.
+ 19,526299
+ 2,067862
+ Plataforma o camión con caja hasta 12 m.
+ 29,707755
+ 2,967619
+ Furgón.
+ 9,052814
+ 0,907650
+ Automóvil nuevo o usado.
+ 2,612452
+ 2,612452
+En todo caso, las cargas en tránsito marítimo con destino u origen de la carga a otro puerto de las Illes Balears están exentas de esta tasa en el puerto de tránsito, siempre que hayan sido declaradas en tránsito desde el origen o cuando sea comprobable por el servicio de puertos que no salen de su zona de servicio.
+D) Avituallamiento.
+A las mercancías y a los combustibles embarcados para el avituallamiento del barco se les aplicará el 50 por 100 de las cuantías correspondientes al apartado A) de este artículo, siempre que el buque esté situado en la zona I, o interior de las aguas portuarias. En el caso de que dicho buque esté situado en la zona II, o exterior de las aguas portuarias, a las mercancías y combustibles de avituallamiento se les aplicarán las cuantías correspondientes al mencionado apartado A).
+Se modifica por el art. 22.5 a 7 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 10.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 253
+
+Artículo 253. Identificación de las mercancías por grupos.
+El usuario obligado al pago de esta tasa deberá identificar, en la forma que el servicio establezca para su liquidación, el grupo al que pertenece la mercancía con anterioridad a la entrada de ésta en la zona portuaria.
+En caso contrario, se entenderá que existe conformidad por parte de dicho usuario con la identificación de la partida y grupo tasa otorgado por el servicio, que establecerá dicho grupo en los casos en que exista duda al respecto.
+
+### Artículo 254
+
+Artículo 254. Definición de conceptos.
+A los efectos de esta tasa se entenderá:
+a) Por tránsito marítimo, la operación que se realiza con las mercancías que, descargadas de un barco al muelle, vuelven a ser embarcadas en barco distinto o en el mismo barco en distinta escala sin salir del puerto, salvo que, por necesidades de conservación, no se disponga en el puerto de instalaciones apropiadas.
+b) Por transbordo, la operación por la cual se trasladan las mercancías de un barco a otro sin detenerse en los muelles y con presencia simultánea de ambos barcos durante las operaciones.
+c) Por tránsito terrestre, las entradas al puerto y las salidas por vía terrestre, excluidas las justificadas por tramitaciones aduaneras en las condiciones previstas en el artículo 247.d).
+
+### Artículo 255
+
+Artículo 255. Reglas especiales de cuantificación.
+1. La cuantía de la tasa prevista según el artículo 231 para las operaciones de tránsito o transbordo, corresponderá el 50 por 100 a la descarga y el otro 50 por 100 a la carga. Sin embargo, la Dirección General de Costas y Puertos se reserva el derecho de liquidar la tasa completa de la operación en el momento de la descarga de la mercancía.
+2. Cuando un bulto contenga mercancías a las que correspondan tasas de diferentes cuantías se aplicará a su totalidad la mayor de ellas, salvo que aquéllas puedan clasificarse con las pruebas que presenten los interesados, en cuyo caso se aplicará a cada partida la cuantía que le corresponda.
+3. El desembarque a muelle o tierra y embarque desde muelle o tierra que se realice sin estar el barco atracado, por intermedio de embarcaciones auxiliares o cualquier otro procedimiento, pagará con arreglo a las cuantías fijadas en el artículo 252.
+4. Las mercancías desembarcadas en depósito flotante o pontón y que posteriormente se reembarquen en otro barco sin pasar por tierra o muelle abonarán la misma tasa que la señalada para el transbordo.
+
+### Artículo 256
+
+Artículo 256. Actuaciones de comprobación.
+La Dirección General de Costas y Puertos está facultada para proceder a la comprobación del peso y clase de las mercancías, siendo de cuenta del usuario los gastos que se ocasionen como consecuencia de dicha comprobación.
+
+### Artículo 257
+
+Artículo 257. Situaciones especiales.
+1. En el tráfico en régimen de tránsito internacional se podrán establecer anualmente, por parte de la Dirección General, para los tráficos de tránsito, y en función del volumen aportado por cada usuario, coeficientes correctores sobre las cuantías fijadas en el artículo 252.
+2. En el caso particular del tráfico de contenedores se podrá establecer, además, la simplificación de incluir todas las mercancías transportadas en el grupo repertorio de mercancías que ponderadamente les corresponda y de un peso medio por unidad de carga. La consideración de un grupo igual o inferior al cuarto de los establecidos en el artículo 252, en el que se incluyen los contenedores vacíos o de un peso medio de la carga neta inferior a 10 toneladas por TEU, deberá ser especialmente comprobada y justificada en función del tipo de mercancía transportada ante la Dirección General de Costas y Puertos.
+3. Estos regímenes especiales deberán ser aprobados por la Dirección General de Costas y Puertos. En ningún puerto podrá significar una reducción superior al 50 por 100 de la tasa que correspondería abonar por la estricta aplicación de la tasa contenida en el artículo 252.
+
+### Artículo 258
+
+Artículo 258. Avituallamiento del barco y suministro durante el fondeo.
+(Sin contenido)
+Se deja sin contenido por el art. 10.3 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 259
+
+Artículo 259. Liquidación de la tasa.
+1. Para la liquidación de esta tasa, deberá presentarse por el usuario obligado al pago, antes de empezar la descarga o antes de transcurridas veinticuatro horas desde que finalizó la carga, el manifiesto de carga o una declaración de la totalidad de las mercancías transportadas o a transportar, indicando el número de bultos, la clase y peso de las mercancías y su origen y destino, todo ello en la forma que determine el servicio.
+2. Las tasas aplicables a mercancías serán dobles de las señaladas en las reglas anteriores en el caso de retraso en la presentación de la declaración o manifiesto.
+3. En caso de ocultación de mercancías en la declaración o manifiesto o de inexactitud, falseando la clase de mercancías, procedencias o destino de éstas (que pueda afectar a la aplicación de la tasa) o disminución del peso en más de un 10 por 100, se aplicará tasa doble a todas las partidas de la declaración o manifiesto de la que formen parte, además de la sanción que en su caso pudiera corresponder.
+
+### Artículo 260
+
+Artículo 260. Concesiones administrativas.
+1. Esta tasa será de aplicación, en las condiciones que se especifican a continuación, en los puertos que sean gestionados directamente por la Dirección General de Costas y Puertos o por particulares en régimen de concesión o autorización, construidos o no por éstos.
+2. Las mercancías embarcadas, desembarcadas o transbordadas, los pasajeros embarcados o desembarcados y, en general, todo tráfico que utilice instalaciones en régimen de concesión administrativa construidas o no por particulares, abonarán esta tasa con las bonificaciones y exenciones establecidas en las respectivas cláusulas concesionales.
+3. Para las concesiones ya otorgadas se aplicarán las tasas con las reducciones establecidas en las correspondientes concesiones.
+
+### Artículo 261
+
+Artículo 261. Devengo.
+1. La tasa se devengará en el momento en que se inicien las operaciones a que se refiere el hecho imponible.
+2. Las cantidades adeudadas serán exigibles en el momento en que se efectúe la liquidación correspondiente.
+
+### Artículo 261 bis
+
+Artículo 261 bis. Bonificaciones al tráfico marítimo interinsular.
+1. Las exenciones y bonificaciones que el Estado aplique a las tasas que graven el pasaje y las mercancías cuando se trate de tráfico marítimo interinsular por razón de circunstancias de alejamiento y de insularidad en los puertos de interés general, se aplicarán también a la tasa G-3 prevista en este capítulo para los puertos de competencia de la comunidad autónoma de las Illes Balears.
+2. Se faculta al Gobierno para que fije porcentualmente las exenciones y bonificaciones fiscales de la tasa G-3 hasta un máximo de un 100 por cien, de manera que se adapten a la regulación estatal que apruebe el régimen económico específico y de prestación de servicios en los puertos insulares de interés general en lo que se refiere al tráfico marítimo interinsular.
+Se añade por el art. 4.15 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 261 ter
+
+Artículo 261 ter. Bonificaciones al tráfico de cabotaje.
+Se establece una bonificación del 40% de la cuantía básica de las mercancías aplicable al régimen general por partidas para las mercancías del grupo quinto (V) y para la tara del elemento portador de cualquier mercancía que se embarque o se desembarque en navegación de cabotaje. La bonificación se aplicará sobre los importes indicados en la tabla del artículo 252.A.1.
+Se modifica por la disposición final 1.4 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se añade por la disposición final 1.10 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXXIII
+
+Tasa relativa a la pesca fresca (tarifa G-4/15.4.04)
+
+### Artículo 262
+
+Artículo 262. Hecho imponible.
+Constituye el hecho imponible de esta tasa la utilización de las aguas del puerto, muelles, dársenas, zonas de manipulación y servicios generales del puerto, por los buques pesqueros en actividad y por los productos de la pesca marítima fresca.
+
+### Artículo 263
+
+Artículo 263. Sujeto pasivo y responsables subsidiarios.
+1. Son sujetos pasivos de esta tasa el armador del buque o el que, en su representación, realice la primera venta.
+2. El importe se repercutirá sobre el primer comprador de la pesca, si lo hay, quien deberá soportar dicha repercusión siempre que la cuantía de la tasa haya sido abonada previamente por el sujeto pasivo.
+3. La repercusión tributaria se hará constar de manera expresa y separada en factura o documento equivalente.
+4. Son responsables subsidiarios de la deuda tributaria por esta tasa, el primer comprador de la pesca, salvo que demuestre haber soportado efectivamente la repercusión y, en su caso, el representante del armador.
+
+### Artículo 264
+
+Artículo 264. Diferencias aplicativas con otras tasas.
+1. Es condición indispensable para la aplicación de esta tasa, que la embarcación esté despachada para la actividad pesquera por la autoridad competente y que cumpla las condiciones mínimas de profesionalidad que establezca la Consejería de Agricultura, Comercio e Industria de esta Comunidad Autónoma, así como estar al corriente en el cumplimiento de las obligaciones con dicha Consejería. En caso contrario, serían de aplicación las tasas 15.4.01, «Entrada y estancia», y 15.4.02, «Atraque».
+2. Para la acreditación de profesionalidad, el armador o, en su defecto, la cofradía deberán presentar la declaración de las capturas y ventas realizadas y certificación de su actividad, expedida por la Consejería de Agricultura, Comercio e Industria, antes del día 30 de enero del ejercicio vencido. En caso contrario, la Dirección General de Costas y Puertos le librará una liquidación complementaria de las tasas aplicables.
+
+### Artículo 265
+
+Artículo 265. Cuantía.
+1. La cuantía de la tasa será del 2% del valor de la pesca, el cual se determinará de la siguiente manera:
+a) Si la venta se realiza por subasta en las lonjas portuarias, el valor de la pesca será el obtenido por dicha venta.
+b) El valor de la pesca no subastada se determinará por el valor medio obtenido en las subastas de la misma especie realizadas en el día o, en su defecto, en la semana anterior.
+c) También podrá tomarse en consideración el precio medio de la cotización real del mercado para productos iguales de la semana anterior, acreditados por la dirección general competente en materia de mercados pesqueros.
+d) En el caso de la especie de coral rojo (Corallium rubrum) el precio medio de la cotización se estima en 500 euros/kg.
+2. En caso de que este precio no pueda fijarse en la forma que determina el apartado anterior, será fijado por el director del puerto teniendo en cuenta las condiciones habituales del mercado del pescado
+Se modifica por la disposición final 1.5 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifica por la disposición final 1.11 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica el primer párrafo por la disposición final 3.18 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el primer párrafo por el art. 22.8 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 266
+
+Artículo 266. Incremento de la cuantía de la tasa.
+1. La pesca fresca desembarcada en cualquiera de los puertos dependientes de esta Comunidad, y cuya venta se realice en la lonja de Palma, pagará el 50 por 100 de la tasa establecida en el artículo anterior.
+2. Los productos de la pesca fresca que sean autorizados por la Autoridad Portuaria a entrar por medios terrestres en la zona portuaria para la subasta o utilización de las instalaciones portuarias, abonarán el 50 por 100 de la tasa, siempre que acrediten el pago de esta tasa o equivalente en otro puerto de descarga español; en caso contrario, pagarán la tasa completa.
+3. La pesca fresca transbordada de buque a buque en las aguas del puerto, sin pasar por los muelles, abonará el 75 por 100 de la tasa.
+4. Los productos de la pesca fresca descargados que, por cualquier causa, no hayan sido vendidos y vuelvan a ser cargados en el buque, abonarán el 25 por 100 de la cuantía de la tasa establecida en el artículo anterior.
+
+### Artículo 267
+
+Artículo 267. Liquidación de la tasa.
+1. Para la liquidación de esta tasa deberá presentarse por el usuario obligado al pago, antes de empezar la descarga, carga o transbordo, una declaración o manifiesto de pesca, indicando el peso de cada una de las especies que se van a manipular, con arreglo a un formato elaborado por la Dirección General de Costas y Puertos.
+2. Al efecto de la determinación del peso de la pesca, será obligación del armador pasar la misma por la lonja portuaria o establecimiento que la Dirección General de Costas y Puertos disponga en el puerto.
+
+### Artículo 268
+
+Artículo 268. Ocultación y falseamiento.
+1. La tasa aplicable a los productos de la pesca será el doble de las señaladas en las condiciones anteriores en los casos de:
+a) Ocultación de cantidades en la declaración o manifiesto, o retraso en su presentación.
+b) Inexactitud falseando especies, calidades o precios resultantes de las subastas.
+c) Ocultación o inexactitud en los nombres de los compradores.
+2. Este recargo no será repercutible en el comprador.
+
+### Artículo 269
+
+Artículo 269. Supuesto especial de liquidación.
+Los industriales armadores que descarguen habitualmente en un mismo lugar productos de la pesca, con destino a sus fábricas o factorías, sin pasar por lonja, podrán abonar la tasa por liquidaciones mensuales a la Dirección General de Costas y Puertos.
+
+### Artículo 270
+
+Artículo 270. Coordinación con otras tasas.
+1. El abono de esta tasa supone la no exigibilidad al buque del abono de la tarifa G-1/15.4.01, «Tasa por entrada y estancia de barcos», tarifa G-2/15.4.02, «Tasa de atraque», y de la tarifa G-3/15.4.03, «Tasa por mercancías y pasajeros», por un plazo máximo de un mes a partir de la fecha de iniciación de las operaciones de descarga o transbordo.
+2. Transcurrido ese plazo, que se considera agotado cuando a lo largo de un mes no haya habido movimientos comerciales en la lonja o centro de control del peso correspondiente, se devengará, según los casos, la tarifa G-1/15.4.01, «Tasa por entrada y estancia de barcos», y la tarifa G-2/15.4.02, «Tasa por atraque».
+3. La Dirección General de Costas y Puertos podrá ampliar el plazo señalado en el apartado 1 de este artículo, en los casos de inactividad forzosa consecuencia de temporales, vedas costeras, carencia de licencias o cualquier circunstancia que impidiera sus actividades habituales, expresa e individualmente acreditadas por certificación de la autoridad competente.
+4. En estos casos de inactividad, la autoridad competente fijará los lugares en que dichos barcos deban permanecer fondeados o atracados, de acuerdo con las disponibilidades de atraque y las exigencias de la explotación portuaria.
+
+### Artículo 271
+
+Artículo 271. Exclusión de la tasa por mercancías y pasajeros.
+Las embarcaciones pesqueras, mientras permanezcan sujetas a esta tasa en la forma señalada en el artículo anterior, estarán exentas del abono de la tarifa G-3/15.4.03, «Tasa por mercancías y pasajeros», por el combustible, avituallamientos, efectos navales y de pesca, hielo y sal que embarquen para el propio consumo, bien en los muelles pesqueros o en otros muelles habilitados al efecto.
+
+### Artículo 272
+
+Artículo 272. Comprobación.
+La Dirección del Puerto está facultada para proceder a la comprobación del peso y clase de las especies y calidades de la pesca, siendo de cuenta del usuario obligado al pago de la tasa los gastos que se ocasionen como consecuencia de dicha comprobación.
+
+## CAPÍTULO XXXIV
+
+Tasa para embarcaciones deportivas y de recreo (tarifa G-5/15.4.05)
+
+### Artículo 273
+
+Artículo 273. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la utilización de las aguas del puerto, las dársenas y las zonas de anclaje, los servicios generales de policía y, en su caso, las instalaciones de amarre y atraque en muelles o pantalanes, por parte de las embarcaciones deportivas o recreativas y de sus tripulantes y pasajeros, así como las embarcaciones destinadas al alquiler a terceras personas y las embarcaciones matriculadas en la lista 6.ª destinadas a actividades subacuáticas (buceo) y a actividades de temporada en playas y costa (como puedan ser el vuelo náutico, el esquí-bob, el alquiler de motos acuáticas, el esquí acuático, etc.).
+Se modifica por la disposición final 5.5 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 3.19 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 274
+
+Artículo 274. Sujeto pasivo y responsables subsidiarios.
+1. Son sujetos pasivos obligados de esta tasa el propietario de la embarcación o su representante autorizado.
+2. Será responsable subsidiario de la deuda tributaria por esta tasa el capitán o patrón de la embarcación.
+3. Los concesionarios son sujetos pasivos sustitutos de esta tasa.
+Se añade el apartado 3 por el art. 3.2 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 275
+
+Artículo 275. Base imponible.
+La base imponible de esta tasa se determinará en función de la superficie en metros cuadrados de la embarcación que resulte del producto de la eslora máxima por la manga máxima que figuran definidas en el artículo 335, disposiciones comunes, de este título VI, teniendo en cuenta, además, el tiempo de estancia en fondeo o atraque, medido en días o fracción.
+
+### Artículo 276
+
+Artículo 276. Incompatibilidad con otras tasas.
+Es condición indispensable para la aplicación de esta tasa que la embarcación no realice transporte de mercancías y que los pasajeros no viajen sujetos a cruceros o excursiones turísticas, la contratación de los cuales se realice mediante la emisión de billete, incluyéndose en todo caso en esta tasa las embarcaciones que sean objeto de alquiler a terceros para un uso recreativo.
+Se modifica por la disposición final 3.20 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 277
+
+Artículo 277. Devengo.
+La tasa se devengará cuando la embarcación entre en las aguas del puerto, o bien desde que se produzca la reserva temporal o permanente, y será exigible en el momento en que se presente su liquidación.
+
+### Artículo 278
+
+Artículo 278. Cuantía.
+1. Las tarifas aplicables a esta tasa por metro cuadrado y por día natural o fracción para cada servicio independiente que se presta son las siguientes:
+Conceptos
+ Euros/m2 y día
+ A. En instalaciones de la administración portuaria de la comunidad autónoma.
+ a) En base y atraques:
+ a.1) De punta.
+ 0,130491
+ a.2) De costado: 3 veces la cuantía del atraque de punta.
+ b) En tránsito y en temporada alta (del 1/06 al 30/09), atraques:
+ b.1) De punta.
+ 0,565456
+ b.2) De costado: 3 veces la cuantía del atraque de punta.
+ c) En tránsito y en temporada baja (del 1/10 al 31/05), atraques:
+ c.1) De punta.
+ 0,130491
+ c.2) De costado: 3 veces la cuantía del atraque de punta.
+ d) Ancorajes.
+ 0,130491
+ e) Noray.
+ 0,021752
+ f) Toma de agua.
+ 0,021752
+ g) Recogida de basura.
+ 0,021752
+ h) Vigilancia nocturna.
+ 0,043498
+ i) En tránsito de temporada y en temporada alta (del 1/06 al 30/09), atraques:
+ i.1) De punta.
+ 0,347974
+ i.2) De costado: 3 veces la cuantía del atraque de punta.
+ j) En tránsito de temporada y en temporada baja (del 1/10 al 31/05), atraques:
+ j.1) De punta.
+ 0,130491
+ j.2) De costado: 3 veces la cuantía del atraque de punta.
+ B. En instalaciones de concesionarios.
+ Atraque.
+ 0,054368
+2. Los servicios descritos en las letras e), f), g) y h) serán de obligada facturación si las instalaciones disponen de los mismos.
+3. Se entiende por «Muerto de amarre o fondeo» la disponibilidad de una amarra sujeta a un punto fijo del fondo que permita fijar la proa o popa del barco; por atraque de punta, la disponibilidad de un puesto de amarre en pantalán o muelle que permita fijar la proa o popa del barco con sus propios medios, y por vigilancia general, la que presta la Dirección General de Costas y Puertos para la generalidad de la zona de servicio del puerto sin asignación específica, ni garantía respecto de la integridad de las embarcaciones o sus contenidos.
+4. La petición de servicios implica la aceptación de las condiciones en que se prestan por la Dirección General de Costas y Puertos que deberán hacerse públicas, no siendo éste responsable de los incidentes que puedan producirse a causa de la configuración o disposición de las instalaciones, así como de los efectos por causas meteorológicas.
+5. Se establece una bonificación del 80% de la tarifa G-5, aplicable durante el período comprendido entre el 15 de junio y el 15 de septiembre en los puertos y puestos de amarre que, por necesidades de la explotación y con carácter excepcional, Puertos de las Illes Balears determine mediante una resolución, para los usuarios con amarre en base de lista 7.ª que retiren la embarcación de la zona portuaria durante el citado período.
+6. Se establece una bonificación del 10% sobre la cuantía de la tasa G-5 para las embarcaciones tradicionales que dispongan de amarre en base en los puertos gestionados directamente por Puertos de las Illes Balears. En los casos en que las embarcaciones hayan sido construidas antes del año 1935, la bonificación será del 20%.
+Las condiciones mínimas necesarias para solicitar la bonificación serán las siguientes:
+a) Que se trate de una embarcación tradicional de alguna de las tipologías siguientes: pastera, buso, bote cubierto, bote descubierto, laúd, lancha felanitxera, bruixa, bote laúd, bolitgera y mariscadora.
+b) Que conserve el casco original y no haya sido recortada ni alargada, ni que la obra viva haya sido plastificada con carácter irreversible.
+c) Que el propietario de la embarcación sea titular de un derecho de amarre en base en un puerto de gestión directa de Puertos de las Illes Balears.
+d) Que el propietario de la embarcación solicite formalmente por escrito a Puertos de las Illes Balears la aplicación de la bonificación y aporte la documentación que acredite que la embarcación puede ser considerada tradicional con datos sobre el carpintero de ribera, la fecha y el lugar de construcción, fotografías de la embarcación, etc.
+Esta bonificación no será de aplicación a las embarcaciones de tipo tradicional que estén amarradas en tránsito.
+Una vez revisada la documentación aportada y con la inspección previa, en su caso, y la solicitud de informes al respecto, Puertos de las Illes Balears decidirá sobre la aplicación o no de la bonificación.
+7. La cancelación de una reserva de amarre en tránsito confirmada en el sistema de reservas, cuando se haga con una antelación superior a 36 horas respecto de la hora de inicio de la ocupación autorizada, implica la devolución del 50% del importe de la cuota tributaria. Esta cancelación se tiene que hacer por vía telemática, con indicación de todos los datos que, a este efecto, se establezcan en las condiciones de uso de Puertos de las Illes Balears.
+Las cancelaciones de las reservas que no cumplan todas las indicaciones a que se refiere el párrafo anterior no dan lugar a ningún tipo de devolución del importe abonado.
+Se podrá disfrutar de la reserva en otras fechas, incluso cambiando el puerto, siempre que haya disponibilidad y se mantenga el mismo número de días de la reserva inicial. Esta modificación deberá hacerse por vía telemática, con una antelación superior a 36 horas y con indicación de todos los datos que, a este efecto, se establezcan en las condiciones de uso de Puertos de las Illes Balears.
+Se modifica el apartado 7 por la disposición final 1.9 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifican los apartados 1 y 7 por la disposición final 1.4 y 5 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se deroga el apartado 8 por la disposición derogatoria única.b) de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade el apartado 8 por la disposición final 1.15 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se deroga la letra i) del apartado 1.A, se modifica el apartado 2 y se añade el 7 por la disposición derogatoria única.e) y la disposición final 1.22 y 23 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade la letra i) al apartado 1.A) y se modifica el 2 por la disposición final 1.6 y 7 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade el apartado 6 por la disposición final 1.12 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifican los conceptos a.2, b.2 y c.2 del apartado 1.A por la disposición final 4.23 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade el apartado 5 por la disposición final 4.6 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica el apartado A.1 por la disposición final 3.21 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+ Se modifica el apartado 1 por el art. 22.9 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 279
+
+Artículo 279. Pago de la tasa.
+El abono de la tasa por servicios en instalaciones de la Dirección General de Costas y Puertos se efectuará según sigue:
+1.a) Para embarcaciones de paso en el puerto, es decir en tránsito, por adelantado a la llegada y por los días de estancia que declaren; si dicho plazo tuviera que ser superado, el usuario deberá formular nueva petición y abonar nuevamente por adelantado el importe inherente al plazo prorrogado, siempre y cuando la Dirección General pueda proceder a la autorización de la prórroga por no tener comprometido el atraque.
+1.b) Se aplicará a estas embarcaciones la tasa del artículo anterior, apartado A.b) o A.c), según la temporada de que se trate.
+1.c) En el caso que no pueda accederse a la prórroga y se ordene el desatraque, se abonará por cada hora de retraso en efectuar la operación la tasa correspondiente a un día de atraque.
+1.d) Las embarcaciones destinadas al alquiler a terceras personas y las embarcaciones matriculadas en la lista 6ª destinadas a actividades subacuáticas (buceo) y a actividades de temporada en playas y costa (parasailing, agua bus, alquiler de motos acuáticas, esquí acuático, etc.) abonarán la cuantía correspondiente a las embarcaciones en tránsito. No obstante, durante la temporada alta la cuantía anterior se reducirá mediante la aplicación de un coeficiente corrector de 0,8 en los casos de embarcaciones con eslora superior a 9 metros y un coeficiente corrector de 0,9 en el caso de embarcaciones con eslora igual o inferior a 9 metros.
+2.a) Para las embarcaciones con base en el puerto, y por semestres anticipados, el usuario tendrá que domiciliar el abono en una entidad bancaria, si así lo requiriese la administración autonómica portuaria. En caso contrario, deberán realizar el pago antes del 15 de febrero para el primer semestre y del 31 de julio para el segundo.
+2.b) En todo caso, para poder seguir poseyendo la condición de embarcación en base deberá proceder al abono de la tasa por semestres, venciendo el 31 de mayo y 30 de noviembre para el primer y segundo semestre, respectivamente; en cuyos casos no podrá beneficiarse de la bonificación descrita en el apartado anterior y perdiendo la condición de base para el próximo período, si lo hiciera por vía ejecutiva.
+Se modifica el apartado 1.d) por la disposición final 1.13 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade el apartado 1.d) por la disposición final 5.6 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica el apartado 2.a) por el art. 3.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 280
+
+Artículo 280. Solicitud de los servicios.
+1. Todos los servicios deberán ser solicitados a la Dirección General de Costas y Puertos, aplicándose tasa quíntuple a los servicios obtenidos sin su autorización, independientemente de la sanción que pueda proceder por infracción del Reglamento de Servicio y Policía de Puerto.
+2. El abono de esta tasa no exime de la obligación de desatracar la embarcación, de cambiar de lugar de amarre o de fondeo o, incluso, de abandonar el puesto si así fuere ordenado por la autoridad competente. En este último supuesto, no se tendrá más derecho que a la devolución del importe de la ocupación abonada por adelantado y no utilizada.
+
+### Artículo 281
+
+Artículo 281. Servicios e instalaciones de concesionarios.
+La tasa por servicios a las instalaciones de concesionarios ha de cobrarla el concesionario a los usuarios en el momento en que se realice el cobro de las tarifas, y el concesionario está obligado a abonar la citada tasa a la administración autonómica portuaria mediante la liquidación oportuna que se le remita.
+El concesionario debe presentar a la administración autonómica portuaria, trimestralmente y antes del día 15 de cada mes posterior al trimestre considerado, la información por escrito y en soporte informático, de acuerdo con el siguiente modelo:
+Núm. amarre
+ Superficie amarre
+ Matrícula
+ Nombre embarcación
+ Nombre Propietario
+ Dirección Propietario
+ Eslora (m)
+ Manga (m)
+ Núm. días
+ m² por día
+ Importe
+ Total trimestre.
+ Total año acumulado.
+Una vez practicada la liquidación por parte de la administración autonómica portuaria, deberá ingresarse su importe de conformidad con los plazos establecidos en la normativa aplicable. Las liquidaciones que realice la administración autonómica portuaria tendrán una bonificación del 25% de lo que se haya recaudado e ingresado en concepto de tasa por servicios a las instalaciones de concesionarios.
+Se modifica por el art. 3.4 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 282
+
+Artículo 282. Embarcaciones ligeras.
+Las embarcaciones ligeras que ocupen habitualmente plaza en seco del servicio devengan la tasa por embarcaciones deportivas o recreativas atracadas de punta, con una reducción del 30%, independientemente del número de días que naveguen.
+Se modifica por la disposición final 5.7 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO XXXV
+
+Tasa por utilización de puntales y grúas pórtico (tarifa E-1/15.4.06)
+
+### Artículo 283
+
+Artículo 283. Hecho imponible.
+Constituye el hecho imponible de esta tasa, la utilización de los puntales y grúas pórtico convencionales o no especializadas.
+
+### Artículo 284
+
+Artículo 284. Sujeto pasivo y responsable subsidiario.
+1. Son sujetos pasivos de esta tasa los usuarios del servicio a que se refiere el hecho imponible.
+2. Tienen la consideración de responsables subsidiarios de la deuda tributaria, los propietarios de las mercancías o útiles manipulados y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho a éstos provisión de fondos.
+
+### Artículo 285
+
+Artículo 285. Cuantía.
+1. Las cuantías básicas por hora o fracción de los puntales serán de 2.450 pesetas.
+2. Para las grúas convencionales o no especializadas, teniendo en cuenta que la Dirección General no tiene y en el caso que se autorice la instalación a particulares o a empresas especializadas, las tasas serán las presentadas en la propuesta del peticionario y aprobadas por esta Dirección General.
+
+### Artículo 286
+
+Artículo 286. Devengo.
+La tasa se devengará en el momento en que se ponga a disposición de sus usuarios el servicio a que se refiere el hecho imponible y se exigirá su pago con la liquidación de la misma.
+
+### Artículo 287
+
+Artículo 287. Requisitos para la petición de los servicios.
+1. Los servicios de puntales se prestarán previa petición por escrito de los usuarios, haciendo constar:
+a) Operación a realizar y hora de comienzo de la misma.
+b) Tiempo para el que se solicita.
+2. La Dirección General de Costas y Puertos decidirá, de acuerdo con las disposiciones vigentes, con arreglo a su criterio y teniendo en cuenta el orden que más favorezca al interés general, la disponibilidad del mismo.
+
+### Artículo 288
+
+Artículo 288. Responsabilidades de los usuarios de los servicios.
+Los usuarios que soliciten este servicio asumirán la responsabilidad de la dirección y organización en la manipulación de las mercancías y útiles, siendo de su cuenta y riesgo todas las operaciones relacionadas con la manipulación, debiendo destinar a las mismas tanto el material necesario como el personal debidamente cualificado y con experiencia suficiente, pudiendo ser recusados por la Dirección General de Costas y Puertos los que no reúnan las condiciones para ello.
+
+### Artículo 289
+
+Artículo 289. Días de prestación de los servicios.
+Estas tasas son exclusivamente aplicables a servicios prestados en días laborables dentro de la jornada ordinaria establecida para estas actividades por la Dirección General de Costas y Puertos. Los servicios prestados fuera de la jornada ordinaria se podrán facturar con un recargo del 50 por 100.
+
+### Artículo 290
+
+Artículo 290. Tiempo de utilización de los puntales.
+1. El tiempo de utilización de los puntales a efectos de facturación será el comprendido entre la hora en la que se haya puesto a disposición del peticionario y la terminación del servicio.
+2. No obstante lo anterior, las paralizaciones que se produzcan debidas a causas imputables a la Dirección General de Costas y Puertos se descontarán del tiempo de utilización.
+
+## CAPÍTULO XXXVI
+
+Tasa E-2: Por almacenaje
+Se modifica por el art. 11.1 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 291
+
+Artículo 291. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la utilización de espacios, explanadas, cobertizos, tinglados, almacenes, locales y edificios, con sus servicios generales correspondientes, para el almacenaje de mercancías, útiles y vehículos.
+2. Se excluye la ocupación del dominio público portuario para llevar a cabo otras actividades que exijan el otorgamiento de las respectivas autorizaciones o concesiones.
+3. Los espacios destinados a depósitos y almacenamiento de mercancías y otros elementos se clasifican de un modo general en dos zonas:
+a) Zona de tránsito.
+b) Zona de almacenamiento.
+4. La zona de maniobra inmediata a los atraques de los barcos no es zona de depósito de mercancías y otros elementos, salvo excepciones con previa y explícita autorización de la Dirección General de Costas y Puertos.
+5. La identificación y extensión de cada una de estas zonas en los distintos muelles y terminales de la zona de servicio se determinarán por la Dirección General de Costas y Puertos.
+
+### Artículo 292
+
+Artículo 292. Sujeto pasivo y responsables subsidiarios.
+1. Son sujetos pasivos de esta tasa los usuarios de los servicios a que se refiere el hecho imponible.
+2. Tendrán la consideración de responsables subsidiarios para el pago de la deuda tributaria los propietarios de las mercancías o elementos almacenados y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho a éstos provisión de fondos.
+
+### Artículo 293
+
+Artículo 293. Devengo.
+La tasa se devengará en el momento en que se inicie la prestación del servicio, entendiéndose por tal la fecha de reserva del espacio solicitado.
+Las cantidades adeudadas serán exigibles en el momento en que se efectúe la liquidación.
+
+### Artículo 294
+
+Artículo 294. Cuantía.
+La cuantía de la tasa por ocupación con mercancías, vehículos o aparejos será fijada por orden del consejero o la consejera competente en materia de puertos, respetando los mínimos siguientes:
+a) Zona de Tránsito:
+La cuantía mínima será de 0,032174 euros por metro cuadrado y día. Los coeficientes de progresividad que deben aplicarse serán los siguientes: del primero al décimo día, 1; del decimoprimero al trigésimo día, 4; del trigesimoprimero al sexagésimo día, 8; y a partir del sexagésimo primero, 16.
+b) Zona de Almacenaje:
+En la ocupación de superficies, casetas o locales con efectos y aparejos de pesca, embarcaciones y medios auxiliares se aplicarán las siguientes cuantías:
+Superficie
+ Euros/m2 y día
+ Superficie descubierta
+ 0,047355
+ Superficie cubierta y porches sin cerrar
+ 0,078926
+ Almacenes, casetas y locales cerrado
+ 0,126280
+Se modifica el primer párrafo y se suprimen los párrafos 5 y 6 por la disposición final 1.8 y 9 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica por el art. 22.10 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 11.2 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-1270
+
+### Artículo 295
+
+Artículo 295. Cómputo del almacenaje.
+1. El almacenaje se contará desde el día para el que se haya hecho la reserva hasta que la mercancía, vehículo o útiles dejen la superficie libre.
+2. La anulación o modificación de la reserva en un plazo inferior a veinticuatro horas del comienzo de la reserva o cuando dicha anulación no se produzca y la mercancía no llegue a puerto dará derecho a la Dirección General de Costas y Puertos al cobro de la tasa aplicable a la mercancía por día completo en el que ha comenzado la reserva, sin perjuicio de que la superficie reservada pueda ser utilizada por otra mercancía.
+3. Si alguna mercancía prolongase su almacenaje por encima del tiempo reservado, la Dirección General de Costas y Puertos podrá optar por prorrogar la reserva o por dar la orden de removido; cuando se produzca una demora superior a cuarenta y ocho horas en el cumplimiento de la orden de removido, la tasa desde este momento será el quíntuplo de la que con carácter general correspondería, sin perjuicio de que el servicio pueda proceder al removido, pasándose el correspondiente cargo y respondiendo en todo caso el valor de las mercancías de los gastos de manipulación, transporte y almacenaje.
+4. El pago de las tasas en la cuantía establecida no exime al usuario del servicio de su obligación de remover a su cargo la mercancía o elementos del lugar que se encuentren ocupando, si, a juicio de la Dirección General de Costas y Puertos, constituyen un entorpecimiento para la normal explotación del puerto. La demora en más de cuarenta y ocho horas en el cumplimiento de la orden de removido o desalojo en el caso de almacenes, locales y edificios, permitirá a la Dirección General aplicar el apartado anterior.
+
+### Artículo 296
+
+Artículo 296. Medición de los espacios ocupados.
+1. La forma de medir los espacios ocupados por las mercancías, vehículos u otros elementos será por el rectángulo circunscrito exteriormente a la partida total de mercancías o elementos depositados, definido de forma que dos de sus lados sean paralelos al cantil del muelle, redondeando el número de metros cuadrados que resulte para obtener el número inmediato sin decimales. De análoga forma se procederá en tinglados, almacenes, locales, y similares., sirviendo de referencia los lados de ellos.
+2. Se tomará como base de la liquidación la superficie ocupada al final de la descarga.
+3. La Dirección General de Costas y Puertos, atendiendo a criterios de eficacia en la gestión del servicio y a la racionalidad de explotación, decidirá contabilizar la superficie por partidas o bien por el cargamento completo.
+4. Esta superficie se irá reduciendo al levantar la mercancía a efectos de abono, por cuartas partes, tomándose la totalidad hasta tanto no se haya levantado el 25 por 100 de la superficie ocupada, el 75 por 100 cuando el levante exceda del 25 por 100 sin llegar al 50 por 100, el 50 por 100 cuando rebase el 50 por 100 sin llegar al 75 por 100 y el 25 por 100 cuando exceda del 75 por 100 y hasta la total liberación de la superficie ocupada. En todo caso, este último cuartil deberá contabilizarse siempre por partidas. Si la Dirección General de Costas y Puertos lo considera necesario podrá establecer otro sistema de medición con distintos escalonamientos, o bien continuo, en función del proceso de levante de la mercancía.
+5. En cualquier caso, sólo podrá considerarse una superficie libre, a efectos de esta tasa, cuando haya quedado en las mismas condiciones de conservación y limpieza en que se ocupó y sea accesible y útil para otras ocupaciones. El incumplimiento de esta obligación por parte del usuario, tras retirar éste las mercancías, vehículos u otros elementos, permitirá al Servicio de Puertos efectuar por sus propios medios la citada conservación y limpieza, pasándole el cargo correspondiente.
+6. Las mercancías serán depositadas en la forma y con el orden y altura de estiba que determine la Dirección General de Costas y Puertos, observándose las precauciones necesarias para asegurar la estabilidad de las pilas.
+
+### Artículo 297
+
+Artículo 297. Exención de responsabilidad.
+La Dirección General de Costas y Puertos no responderá de robos, siniestros ni deterioros que puedan sufrir las mercancías, vehículos u otros elementos.
+
+### Artículo 298
+
+Artículo 298. Competencias de la Dirección General de Costas y Puertos.
+1. La Dirección General de Costas y Puertos suspenderá la facturación de este servicio respecto de las mercaderías, vehículos, embarcaciones o cualquier otro elemento que previamente declare abandono. En todo caso procederá dicha declaración cuando su posible valor en venta no alcance el importe de la facturación emitida no abonada y a partir de los tres meses del impago por parte de su propietario; ello sin perjuicio de la competencia de la Administración de Aduanas en la determinación del abandono de estos elementos sometidos a procedimiento de despacho.
+2. La Dirección General de Costas y Puertos en relación a mercancías, vehículos, embarcaciones y otros elementos sometidos a procedimientos legales o administrativos exigirá de los propietarios, de acuerdo con las correspondientes sentencias o resoluciones, sus derechos con arreglo al texto de las mismas. A este fin no se podrá efectuar la retirada de dichas mercancías o elementos sin haber hecho efectiva la liquidación correspondiente.
+3. Atendiendo a criterios de eficacia en la gestión del servicio y a la racionalidad de explotación, en la determinación de las superficies ocupadas, la Dirección General de Costas y Puertos podrá celebrar convenios con las Cofradías de Pescadores a propuesta motivada de la Dirección General de Costas y Puertos.
+
+## CAPÍTULO XXXVII
+
+Tasa por suministros de agua y electricidad (tarifa E-3/15.4.08)
+
+### Artículo 299
+
+Artículo 299. Hecho imponible.
+Constituye el hecho imponible de esta tasa el suministro de agua y de energía eléctrica por la Dirección General de Costas y Puertos dentro de la zona portuaria, a los usuarios de estos servicios.
+
+### Artículo 300
+
+Artículo 300. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los usuarios de los servicios de suministro de agua y energía eléctrica dentro de la zona portuaria.
+
+### Artículo 301
+
+Artículo 301. Devengo.
+La tasa se devengará en el momento en que se inicie la prestación del servicio. Las cantidades adeudadas serán exigibles en el momento en que se efectúe la liquidación.
+
+### Artículo 302
+
+Artículo 302. Requerimiento de los servicios.
+1. Los servicios se prestarán previa petición por escrito de los usuarios, haciendo constar las características y detalles del servicio a prestar.
+2. Los servicios se solicitarán con la debida antelación y serán atendidos teniendo en cuenta las necesidades de explotación del puerto.
+3. La Dirección General de Costas y Puertos se reserva el derecho de prestación de servicios cuando las instalaciones de los usuarios no reúnan las condiciones de seguridad que a juicio de la misma se estimen necesarias.
+
+### Artículo 303
+
+Artículo 303. Responsabilidades de los usuarios.
+Los usuarios serán responsables de los desperfectos, averías y accidentes que se ocasionen tanto a las instalaciones y elementos de suministro como en las suyas propias o de terceros que se produzcan durante el suministro a consecuencia de defectos en las instalaciones de los usuarios o de actuaciones indebidas por parte de los mismos.
+
+### Artículo 304
+
+Artículo 304. Exención de responsabilidad.
+La Dirección General de Costas y Puertos no será responsable de los daños y perjuicios debidos a paralizaciones del servicio, ni de los producidos por averías roturas fortuitas o actuaciones indebidas que puedan ocasionarse durante la prestación de los servicios a que se refiere esta tasa. Asimismo no se hace responsable de la calidad del agua suministrada.
+
+### Artículo 305
+
+Artículo 305. Pago de la tasa sin prestación de servicio.
+Si por cualquier causa ajena al servicio de puertos, estando el personal en sus puestos no se realizara la operación solicitada, el usuario se verá obligado a satisfacer el 50 por 100 del importe que hubiera correspondido de haberse efectuado el suministro.
+
+### Artículo 306
+
+Artículo 306. Pago de otras tasas.
+Los suministros no incluidos en esta tasa se regularán, en su caso, por 1, «Tasa de Servicios Diversos», tarifa E-6/15.4.11.
+
+### Artículo 307
+
+Artículo 307. Cuantía.
+La cuantía de esta tasa se determinará de acuerdo con las tarifas siguientes:
+A) Tasa por el servicio de suministro de agua. Tarifa E-3/15.4.08A.
+1. A las embarcaciones de recreo, pesca y a las dedicadas al tráfico interior o insular que tengan base en los puertos gestionados por la administración portuaria de la comunidad autónoma, en amarres donde no haya sistemas de medida del consumo individual del suministro de agua, se les aplicará la tasa siguiente:
+Euros/m² y día
+ Embarcaciones hasta 7 m de eslora.
+ 0,003509
+ Ídem >7<10 m de eslora.
+ 0,006799
+ Ídem >10 m de eslora.
+ 0,013595
+2. A las embarcaciones de recreo y pesca en tránsito, en amarres donde no haya sistemas de medida del consumo individual del suministro de agua, se les aplicará la tasa siguiente:
+Euros/día
+ Embarcaciones hasta 7 m de eslora.
+ 2,794143
+ Ídem >7<10 m de eslora.
+ 4,217577
+ Ídem >10 m de eslora.
+ 5,588293
+3. A las embarcaciones de recreo, tanto en base como en tránsito, a las de pesca y a las dedicadas al tránsito interior o insular que tengan amarre en los puertos gestionados por la administración portuaria de la comunidad autónoma, en amarres donde haya sistemas de medida del consumo individual del suministro de agua, se les tiene que aplicar una tasa de 4,67 euros por servicio más el valor de los metros cúbicos suministrados, que se calcula multiplicando por el coeficiente 1,5 el precio al que haya facturado el metro cúbico la compañía suministradora. Se entiende por precio el resultado de computar todos los factores que forman el recibo al consumo facturado.
+4. A las embarcaciones en varaderos que soliciten este servicio se les aplicará la misma tasa que a las embarcaciones en tránsito.
+Esta tasa se entenderá para suministros normales, los cuales no pueden superar un metro cúbico diario para embarcaciones de más de 7 metros lineales de eslora y 1/3 de un metro cúbico diario para embarcaciones de menos de 7 metros lineales de eslora.
+5. A los barcos o a las embarcaciones no definidos en los apartados anteriores, y a los que superen el consumo máximo diario que se establece en el apartado anterior, se les tiene que aplicar una tasa de 4,67 euros por servicio más el valor de los metros cúbicos suministrados, que se calcula multiplicando por el coeficiente 1,5 el precio al que haya facturado el metro cúbico la compañía suministradora. Se entiende por precio el resultado de computar todos los factores que forman el recibo al consumo facturado.
+6. A los locales y edificios se les liquidará la tasa del mismo modo que en el apartado anterior, sin que sea de aplicación el importe de 4,53 euros por servicio. En este último caso, si no fuera posible que cada usuario disponga de equipos de medición, la administración portuaria de la comunidad autónoma puede prorratear los consumos efectuados entre todos los que estén en una misma toma.
+En el caso de locales o instalaciones destinados a cualquier uso de tipo pesquero, como por ejemplo almacenes, puntos de primera venta de pescado, cámaras de hielo, cámaras frigoríficas o similares, el coeficiente que se aplicará para determinar la tasa es 1, que se multiplicará por el precio al que la compañía suministradora haya facturado el metro cúbico.
+B) Tasa por suministro de electricidad. Tarifa E-3/15.4.08B.
+1. A las embarcaciones de recreo, pesca y a las dedicadas al tráfico interior o insular que tengan base en los puertos gestionados por la administración portuaria de la comunidad autónoma, en amarres donde no haya sistemas de medida del consumo individual del suministro de electricidad, se les aplicará la tasa siguiente:
+Euros/m² y día
+ Embarcaciones hasta 7 m de eslora.
+ 0,003509
+ Ídem >7<10 m de eslora.
+ 0,006799
+ Ídem >10 m de eslora.
+ 0,013595
+2. A las embarcaciones de recreo y pesca en tránsito, en amarres donde no haya sistemas de medida del consumo individual del suministro de electricidad, se les aplicará la tasa siguiente:
+Euros/día
+ Embarcaciones hasta 7 m de eslora.
+ 2,794143
+ Ídem >7<10 m de eslora.
+ 4,217577
+ Ídem >10 m de eslora.
+ 5,588293
+3. A las embarcaciones de recreo, tanto en base como en tránsito, a las de pesca y a las dedicadas al tránsito interior o insular que tengan amarre en los puertos gestionados por la administración portuaria de la comunidad autónoma, en amarres donde haya sistemas de medida del consumo individual del suministro de electricidad, se les tiene que aplicar una tasa de 5,78 euros por servicio más el valor de los kW/h suministrados, que se calcula multiplicando por el coeficiente 1,5 el precio al que haya facturado el kW/h la compañía suministradora. Se entiende por precio el resultado de computar todos los factores que forman el recibo al consumo facturado.
+4. A las embarcaciones en varaderos que soliciten este servicio se les aplicará la misma tasa que a las embarcaciones en tránsito.
+Esta tasa se entenderá para suministros normales, los cuales no pueden superar los 12 kW/h diarios para embarcaciones de más de 7 metros lineales de eslora y los 5 kW/h diarios para embarcaciones de menos de 7 metros lineales de eslora.
+5. A los barcos o a las embarcaciones no definidos en los apartados anteriores, y a los que superen el consumo máximo diario que se establece en el apartado anterior, se les tiene que aplicar una tasa de 5,78 euros por servicio más el valor de los kW/h suministrados, que se calcula multiplicando por el coeficiente 1,5 el precio al que haya facturado el kW/h la compañía suministradora. Se entiende por precio el resultado de computar todos los factores que forman el recibo al consumo facturado.
+6. A los locales y edificios se les liquidará la tasa del mismo modo que en el apartado anterior, sin que sea de aplicación el importe de 5,60 euros. En este último caso, si no fuera posible que cada usuario disponga de equipos de medición, la administración portuaria de la comunidad autónoma puede prorratear los consumos efectuados entre todos los que estén en una misma toma.
+En el caso de locales o instalaciones destinados a cualquier uso de tipo pesquero, como por ejemplo almacenes, puntos de primera venta de pescado, cámaras de hielo, cámaras frigoríficas o similares, el coeficiente que se aplicará para determinar la tasa es 1, que se multiplicará por el precio al que la compañía suministradora haya facturado el kW/h.
+Se modifican los apartados A).3 y 5 y B).3 y 5, por la disposición final 1.6 a 9 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica, en la redacción dada por la Ley 13/2017, de 29 de diciembre, por la disposición final 5.3 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 1.8 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade el último párrafo a los apartados A)5 y B5 por la disposición final 4.24 y 25 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifican los apartados A)4 y B)4 por la disposición final 4.7 y 8 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica por el art. 22.11 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 308
+
+Artículo 308. Facturación obligada.
+Estas tasas serán de obligada facturación a las embarcaciones en base, si las instalaciones dispusieran de los indicados servicios de suministros.
+
+### Artículo 309
+
+Artículo 309. Solicitud de servicios fuera de la jornada de trabajo.
+En caso de solicitar el suministro fuera de la jornada ordinaria de trabajo establecida por la administración portuaria de la comunidad autónoma o en días festivos, y siempre que se disponga de personal para ello, las tasas anteriores se incrementarán en 10,53 euros por servicio.
+Se modifica por el art. 22.12 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+## CAPÍTULO XXXVIII
+
+Tasa por varaderos (tarifa E-4/15.4.09)
+
+### Artículo 310
+
+Artículo 310. Hecho imponible.
+Constituye el hecho imponible de esta tasa la utilización de los elementos, maquinaria y servicios que constituyen la instalación portuaria.
+
+### Artículo 311
+
+Artículo 311. Sujeto pasivo.
+Son sujetos pasivos por esta tasa los usuarios de los correspondientes servicios a que se refiere el hecho imponible.
+
+### Artículo 312
+
+Artículo 312. Base tributaria.
+Las bases para la determinación de esta tasa tomarán en consideración: La operación efectuada, el tiempo de utilización y la eslora de la embarcación.
+
+### Artículo 313
+
+Artículo 313. Devengo.
+La tasa se devengará en el momento de la puesta a disposición del servicio. Las cantidades adeudadas serán exigibles en el momento que se efectúe la liquidación.
+
+### Artículo 314
+
+Artículo 314. Requerimiento de los servicios.
+1. Los servicios se prestarán previa petición del interesado, por escrito, en la que se hará constar los datos necesarios para la prestación del mismo y para la realización de la oportuna liquidación.
+2. Los servicios se solicitarán con la debida antelación y serán atendidos teniendo en cuenta las necesidades de explotación del puerto.
+
+### Artículo 315
+
+Artículo 315. Exención de responsabilidad.
+La Dirección General de Costas y Puertos no responderá, en ningún caso, de las averías que las embarcaciones puedan sufrir durante la prestación del servicio.
+
+### Artículo 316
+
+Artículo 316. Medidas de prevención.
+1. Los capitanes o patrones de las embarcaciones deberán tomar las necesarias precauciones para evitar incendios, explosiones, accidentes de cualquier tipo o vertidos de productos contaminantes; si se produjeran, serán responsables de los perjuicios que ocasionen en las instalaciones, edificios, otras embarcaciones y al medio ambiente.
+2. Además, se deberán tomar, por parte de los usuarios, las medidas necesarias para evitar los posibles accidentes a las embarcaciones a su cargo o instalaciones de las que hagan uso.
+3. La Dirección General de Costas y Puertos podrá negar el permiso para utilizar las instalaciones a las embarcaciones que, por dimensiones, peso o condiciones esenciales, se estimen peligrosas.
+
+### Artículo 317
+
+Artículo 317. Plazo de permanencia de la embarcación.
+El plazo de permanencia máximo de la embarcación en la instalación será fijado por la Dirección General de Costas y Puertos a la vista de los datos contenidos en la solicitud formulada por el peticionario; si, cumplido este plazo, sigue la instalación ocupada, la tasa se incrementará en un 10 por 100 el primer día que exceda del plazo autorizado; en un 20 por 100 el segundo día, en un 30 por 100 el tercer día, y así sucesivamente.
+
+### Artículo 318
+
+Artículo 318. Colaboración.
+El capitán o patrón de la embarcación, con la dotación de la misma y medios de a bordo, prestará el concurso necesario para las maniobras, debiendo atenerse a las instrucciones que se le comuniquen para la realización de las mismas.
+
+### Artículo 319
+
+Artículo 319. Vigilancia de embarcaciones.
+La vigilancia de las embarcaciones, de sus pertrechos y accesorios, así como de las herramientas y materiales de dichas embarcaciones será de cuenta y riesgo del usuario.
+
+### Artículo 320
+
+Artículo 320. Responsabilidad de las embarcaciones.
+Las embarcaciones responden, en todo caso, del importe del servicio que se haya prestado y de las averías que causen a las instalaciones.
+
+### Artículo 321
+
+Artículo 321. Preferencias.
+1. Tendrán preferencia de subida las embarcaciones que corrieran peligro de irse a pique, cuando así se justifique con certificado de la Capitanía Marítima, debiéndose abonar, por estas embarcaciones, derechos dobles.
+2. También tendrán preferencia las embarcaciones propiedad de esta Comunidad Autónoma y las de los contratistas de las obras que se ejecuten en el puerto.
+
+### Artículo 322
+
+Artículo 322. Depósito.
+1. Los peticionarios deberán depositar, si así lo exigiese la Dirección General de Costas y Puertos, una fianza de 1.000 pesetas por metro de eslora.
+2. Las peticiones serán registradas y se asignará a las mismas un número de turno.
+3. Si por causas imputables a la embarcación o a su dueño no pudiera ésta vararse cuando le corresponda turno lo perderá, debiendo realizar una nueva petición si desea utilizar aquel servicio.
+4. No se admitirá permuta de los puestos que hayan correspondido a las embarcaciones en el turno establecido, sin autorización expresa de la Dirección General de Costas y Puertos.
+5. La embarcación que, al corresponderle el turno de subida, no se presentara, perderá la fianza a que se refiere el apartado 1 de este artículo.
+
+### Artículo 323
+
+Artículo 323. Cuantía.
+La cuantía de esta tasa por servicio será la señalada en el siguiente cuadro:
+Embarcaciones (*)
+ Varada (subida o bajada)
+ –
+ Euros
+ Estancias los tres primeros días. Por metro lineal de eslora y día
+ –
+ Euros
+ Estancias. A partir del 4.º día. Por metro lineal de eslora y día
+ –
+ Euros
+ Sin carro y sin cabestrante
+ 1,01
+ 0,170221
+ 0,170221
+ Sin carro y con cabestrante:
+ Eslora <5 m
+ 1,63
+ 0,170221
+ 0,170221
+ Eslora >5 m
+ 2,39
+ 0,170221
+ 0,251277
+ Con carro:
+ Eslora <10 m
+ 2,96
+ 0,672773
+ 1,515768
+ Eslora >10 m
+ 4,47
+ 1,134797
+ 2,277703
+ Con remolque a vehículo:
+ Eslora <5 m
+ 3,23
+ Eslora >5 m
+ 5,39
+ Con grúa:
+ Eslora <5 m
+ 11,50
+ 1,035
+ 1,265
+ Eslora <5 m
+ 17,25
+ 1,035
+ 1,265
+ Con carro elevador:
+ Eslora <5 m
+ 14,95
+ 1,035
+ 1,265
+ Eslora >5 m
+ 14,95
+ 1,035
+ 1,265
+ (*) Salvo que se realicen las dos operaciones el mismo día, en cuyo caso se ha de abonar por la estancia correspondiente a un día.
+Se modifica por el art. 22.13 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 3.5 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 323 bis
+
+Artículo 323 bis. Uso de rampas de lanzamiento de embarcaciones y motos acuáticas mediante vehículos con remolque.
+1. Constituye el hecho imponible de esta tasa la expedición de la autorización por el uso ilimitado de las rampas de lanzamiento de embarcaciones y motos acuáticas matriculadas en la lista 7.ª mediante vehículos con remolque a los puertos e instalaciones de gestión directa de la comunidad autónoma de las Illes Balears, por el número de años autorizados a contar desde la fecha de la solicitud.
+La autorización se expide a nombre de la persona solicitante y para una única embarcación o moto acuática, de la que debe acreditarse la titularidad de al menos un 50%.
+2. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que obtengan la autorización a que se refiere el hecho imponible.
+3. La cuantía de la tasa por autorización de uso de rampa a embarcaciones y motos acuáticas matriculadas en la lista 7.ª es la siguiente:
+Un año: 52,40 euros.
+Dos años: 104,80 euros.
+Tres años: 157,20 euros.
+Cuatro años: 209,60 euros.
+4. La tasa se abona en el momento en que se presenta la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se tiene que hacer mediante el ingreso de la autoliquidación correspondiente, que se tiene que adjuntar a la solicitud del servicio.
+5. Si la autorización se deniega por causas no imputables al sujeto pasivo, será procedente la devolución del importe correspondiente.
+Se modifica el apartado 1 por la disposición final 1.10 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica por la disposición final 1.10 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifican los apartados 1 y 3 por la disposición final 1.24 y 25 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifican los apartados 1 y 3 por la disposición final 1.9 y 10 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifica por la disposición final 1.14 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 4.26 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 323 ter
+
+Artículo 323 ter. Uso de rampas de lanzamiento de embarcaciones mediante vehículos con remolque por parte de empresas dedicadas a la reparación y el mantenimiento de embarcaciones.
+1. Constituye el hecho imponible de esta tasa la expedición de la autorización a empresas dedicadas a la reparación y el mantenimiento de embarcaciones, que permite el uso ilimitado de las rampas de lanzamiento de embarcaciones mediante vehículos con remolque en los puertos y las instalaciones de gestión directa de la comunidad autónoma de las Illes Balears. Estas autorizaciones caducan el 31 de diciembre del año natural en el cual se haya obtenido la autorización correspondiente, independientemente de la fecha de la solicitud.
+La autorización se emite a nombre de la empresa solicitante y sólo se puede usar para embarcaciones de la lista 7.ª en las cuales la entidad solicitante haya hecho trabajos de reparación y mantenimiento o de invernaje. En ningún caso se permitirá el lanzamiento de embarcaciones o motos acuáticas matriculadas en la lista 6.ª
+2. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que obtengan la autorización a que se refiere el hecho imponible.
+3. La cuantía de la tasa es de 314,34 euros.
+4. La tasa se abona en el momento en que se presenta la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se efectuará mediante el ingreso de la autoliquidación correspondiente, que se adjuntará a la solicitud del servicio.
+5. Si la autorización se deniega por causas no imputables al sujeto pasivo, será procedente la devolución del importe correspondiente.
+Se modifica por la disposición final 1.11 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica el apartado 3 por la disposición final 1.26 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 1.15 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXXIX
+
+Tasa por aparcamientos (tarifa E-5/15.4.10)
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 324
+
+Artículo 324. Hecho imponible.
+1. Constituye el hecho imponible la utilización de aparcamientos establecidos sin custodia en las zonas portuarias habilitadas al efecto y debidamente señalizados.
+2. Se establecen los siguientes supuestos:
+a) Estacionamiento sin horario limitado: sujeto a autorización previa.
+b) Estacionamiento con horario limitado: en zonas habilitadas al efecto se establece el límite de estacionamiento máximo por vehículo en dos (2) horas. Transcurrido este periodo el vehículo no puede estacionarse a menos de 200 m. del área que ocupaba anteriormente hasta que hayan transcurrido cuatro (4) horas desde la hora límite de finalización del estacionamiento anterior que figure en el ticket correspondiente.
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 325
+
+Artículo 325. Devengo.
+Las tasas de estacionamiento se devengan cuando se efectúa el estacionamiento en las vías y zonas habilitadas, y son exigibles:
+a) En caso de estacionamiento sujeto a autorización previa en zonas sin horario limitado, en el momento en que Puertos de las Illes Balears presente la liquidación correspondiente.
+b) En caso de estacionamiento en zonas con horario limitado, en el momento del estacionamiento, y son exigibles en régimen de autoliquidación mediante la adquisición de un ticket en las máquinas expendedoras habilitadas al efecto. De la misma manera, se devenga y liquida la tasa de anulación de denuncia mediante la adquisición del boletín en las máquinas expendedoras habilitadas al efecto.
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 326
+
+Artículo 326. Exención de responsabilidad.
+Como se trata de una tasa de ocupación, Puertos de las Illes Balears no es responsable de los daños que puedan producirse en el vehículo aparcado ni tampoco de los posibles robos.
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 327
+
+Artículo 327. Cuantía.
+La cuantía de esta tasa se determina según las siguientes tarifas:
+a) Estacionamiento sin horario limitado:
+Vehículos
+ Euros por día o fracción
+ Motocicletas y similares
+ 0,545330
+ Turismos y similares
+ 1,231387
+ Remolques hasta 5 metros
+ 1,785513
+ Autocares, camiones, remolques T 5 m y similares
+ 8,188728
+ Reserva de plaza de taxi
+ 0,958724
+ Reserva de plaza de autocar de línea
+ 5,031099
+ Reserva de plaza compartida de autocares de línea, por vehículo
+ 2,286862
+b) Estacionamiento con horario limitado:
+Duración estacionamiento
+ Tarifa (€)
+ 30 min.
+ 0,50
+ 45 min.
+ 0,75
+ 60 min.
+ 1,00
+ 75 min.
+ 1,25
+ 90 min.
+ 1,50
+ 105 min.
+ 1,75
+ 120 min.
+ 2,00
+ Anulación de la denuncia
+ 4,00
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 328
+
+Artículo 328. Sujetos pasivos y responsables subsidiarios.
+1. Son sujetos pasivos de esta tasa los conductores de los vehículos que usen el estacionamiento a que se refiere el hecho imponible.
+2. Tendrán la consideración de responsables subsidiarios de la deuda tributaria los propietarios de los vehículos.
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 328 bis
+
+Artículo 328 bis. Exenciones.
+1. Quedan excluidos de la limitación de la duración del estacionamiento y no sujetos a la tasa de estacionamiento con horario limitado los siguientes vehículos:
+1.º Las motocicletas, los ciclos, los ciclomotores y las bicicletas. No obstante, estos vehículos no pueden estacionar en las plazas de aparcamiento de zonas con horario limitado cuando a una distancia inferior a 50 m. haya una zona habilitada para el estacionamiento de estos vehículos.
+2º. Los vehículos estacionados en zonas reservadas para su categoría o actividad.
+3.º Los vehículos eléctricos de más de dos ruedas debidamente identificados con el distintivo de vehículo eléctrico MELIB o con el Distintivo 0 emisiones emitido por la DGT.»Los destinados al transporte de personas de movilidad reducida en los cuales se exhiba la autorización especial correspondiente, con sujeción a las prescripciones y a los límites establecidos en la autorización especial y siempre que se transporte al titular de la autorización.
+4.º Los que sean propiedad de un usuario con autorización temporal por amarre dado que dispone de la tarjeta de usuario expedida por Puertos de las Illes Balears.
+5.º Los vehículos eléctricos de más de dos ruedas debidamente identificados con el distintivo de vehículo eléctrico MELIB o con el Distintivo 0 emisiones emitido por la DGT.»
+2. No están obligados a acreditar la posesión de autorización de estacionamiento, pero sí sometidos a su limitación temporal, los conductores de vehículos turismos en el interior de los cuales haya algún pasajero mayor de edad.
+Se añade el punto 5 en el apartado 1 por la disposición final 1.11 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 328 ter
+
+Artículo 328 ter. Autorización vinculada.
+Los usuarios previamente autorizados por Puertos de las Illes Balears para el amarre de embarcaciones que estén al corriente de pago con el ente público, pueden acceder a una tarjeta acreditativa de usuario que permite estacionar el vehículo durante una jornada completa sin que le resulte de aplicación el horario de los estacionamientos en zonas con horario limitado, de acuerdo con lo que se especifique en la ordenanza correspondiente.
+La tarjeta se solicitará por escrito y se abonará la tasa por formación de expediente, apertura y tramitación. Esta tarjeta tiene un plazo de vigencia máximo que coincidirá con el de la correspondiente autorización temporal de amarre. Si se solicita la renovación del amarre, se debe solicitar una nueva tarjeta acreditativa y se abonará de nuevo la tasa.
+Se modifica por la disposición final 1.12 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade el segundo párrafo por la disposición final 5.8 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 329
+
+Artículo 329. Gestión.
+En caso de que los aparcamientos tengan que estar controlados directa o indirectamente, para una mejor explotación portuaria, mediante ticket, credencial, adhesivo o elementos similares que se deben disponer en el parabrisas, Puertos de las Illes Balears tiene que establecer las reglas particulares de esta prestación.
+Se modifica por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO XL
+
+Disposiciones comunes a las tasas portuarias. Reglas generales de aplicación y definiciones
+
+### Artículo 330
+
+Artículo 330. Aguas del puerto.
+Las aguas de cada uno de los puertos que dependen de la Comunidad Autónoma de las Islas Baleares son las que figuran en los planos anejos a las Actas de Transferencias, levantadas de conformidad con el punto 2 del apartado E, del anexo I del Real Decreto 450/1985, de 20 de febrero, sobre traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de las Islas Baleares, en materia de puertos, y las que se fijen en el futuro por común acuerdo entre ambas Administraciones.
+En el área marítima, delimitada para cada puerto conforme a lo señalado en el párrafo anterior, es donde pueden llevarse a cabo operaciones de fondeo, varada y cualesquiera otras comerciales o portuarias.
+Las aguas del puerto se subdividirán en una zona I específicamente portuaria, y una zona II exterior y aneja a la anterior, que se beneficia de la proximidad o del posible uso de algunos de los servicios.
+
+### Artículo 331
+
+Artículo 331. Clases de navegación.
+1. A los efectos de la aplicación de estas tasas, se considerarán como tipos de navegación los establecidos en los números 2 y 3 del artículo 7 de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+2. No obstante, y dada la condición de insularidad de esta comunidad, se establecen estas otras modalidades de navegación:
+a) Navegación insular: La que permite el tráfico de pasajeros, mercancías o excursiones turísticas, entre dos puertos o instalaciones anejas de una misma isla. Se consideran Eivissa y Formentera una misma isla o entidad geográfica, de igual forma las islas de Cabrera y Dragonera respecto a Mallorca, así como los islotes respecto a la isla mayor de la que dependen.
+b) Navegación interinsular: La que permite el tráfico de excursiones turísticas entre los puertos de las islas del archipiélago balear.
+
+### Artículo 332
+
+Artículo 332. Cruceros turísticos.
+1. Se entenderá que un barco de pasajeros está realizando un crucero turístico, cuando reúna las siguientes circunstancias:
+Que entre en puerto o sea despachado con este carácter por las autoridades competentes.
+Que el número de pasajeros en régimen de crucero supere el 50 por 100 del total de pasajeros.
+2. Son pasajeros en régimen de crucero turístico aquellos cuyo puerto de embarque coincida con el destino final de su viaje, que debe estar amparado por un mismo contrato de transporte.
+3. En la declaración que se debe presentar se indicarán, además de las características del barco y el tiempo de estancia previsto en el puerto, el itinerario del crucero, el número de pasajeros y sus condiciones de pasaje.
+
+### Artículo 333
+
+Artículo 333. Excursión turística.
+Se entenderá por excursión turística la realizada por un barco o embarcación de pasajeros que reúna las siguientes características:
+1. Que sea despachado con este carácter por las autoridades competentes.
+2. Que la totalidad del pasaje esté en régimen de destino final el puerto de embarque y su contrato de transporte así lo especifique.
+
+### Artículo 334
+
+Artículo 334. Arqueo bruto.
+1. Es el que figura en el Certificado Internacional sobre Arqueo de Buques, hecho en Londres el 23 de junio de 1969 («Boletín Oficial del Estado» de 15 de septiembre de 1982). En su defecto, el Certificado de Arqueo vigente emitido por el Estado español, en el caso de buques nacionales: En el caso de buques extranjeros, el que figure el Lloyd’s Register of Shipping y, a falta de ello, el arqueo que le asigne la Dirección General de Costas y Puertos.
+2. A iniciativa del consignatario o del representante del armador, podrá efectuarse por la Dirección General de Costas y Puertos un nuevo arqueo o aceptarse, previas las oportunas comprobaciones, los certificados oficiales de arqueo presentados que contradigan las cifras que figuran en los documentos a que se refiere el párrafo anterior por modificaciones introducidas en el barco.
+3. En cualquier caso, la Dirección General de Costas y Puertos presentará una liquidación para el pago de las tasas basada en el arqueo que figure en los documentos a los que se refiere el párrafo primero, sin perjuicio de las devoluciones que, en su caso, procedan.
+
+### Artículo 335
+
+Artículo 335. Eslora y manga máxima o total.
+Es la que figura en la hoja de asiento actualizada o documento equivalente del barco o embarcación o, si no figura en ésta, la que resulte de la medición que la dirección general competente en la materia practique, tomando la máxima distancia existente entre los extremos de los elementos que salen más de proa y de popa del barco o de la embarcación y sus medios auxiliares.
+Se modifica por la disposición final 4.9 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 336
+
+Artículo 336. Exenciones y bonificaciones.
+1. Estarán exentos del pago de estas tasas los servicios prestados a:
+a) Los buques de guerra y aeronaves militares nacionales y, en régimen de reciprocidad, los extranjeros siempre que no realicen operaciones comerciales y su visita tenga carácter oficial, o de arribada forzosa.
+b) El material de la Dirección General de Costas y Puertos y las embarcaciones dedicadas por las Administraciones Públicas a labores de vigilancia, investigación, protección y regeneración costera, represión del contrabando, salvamento, lucha contra la contaminación marina, enseñanzas marítimas, y, en general, a misiones oficiales de su competencia.
+c) El material y embarcaciones de la Cruz Roja Española dedicados a las labores propias que tiene encomendadas esta institución.
+d) Los buques destinados a actividades de relevante interés humanitario o social.
+En los supuestos de las letras b), c) y d) anteriores, el pago de la tasa de suministros de agua y electricidad y el de la tasa de gestión de residuos quedan excluidos de esta exención.
+2. Quedarán exentas del pago de la tasa de ocupación o aprovechamiento de dominio público portuario, regulada en el capítulo XXVI, las administraciones públicas, para el caso de autorizaciones administrativas para la realización de actividades sin ánimo de lucro y de interés social, cultural, educativo o deportivo, con la solicitud previa de exención a la administración autonómica portuaria y el abono de la tasa correspondiente por formación de expediente, apertura y tramitación regulada en el capítulo XXV de esta ley.
+En caso de que se trate de actividades de regatas o travesías náuticas, deben abonar la tasa G-5 correspondiente al amarre en tránsito de las embarcaciones participantes con un descuento del 25%, y los suministros de agua y electricidad.
+Se añade el último párrafo del apartado 1 y se modifica el 2 por la disposición final 5.9 y 10 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade el apartado 2 por el art. 3.6 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 337
+
+Artículo 337. Prestación de servicio fuera del horario normal.
+1. La prestación de servicios los días festivos o fuera de la jornada ordinaria de los laborales queda supeditada a la posibilidad y la conveniencia de la realización, a juicio de la Dirección General de Costas y Puertos, y la tasa ha de abonarse con los recargos que en cada caso correspondan.
+2. En caso de que sea necesaria la presencia de personal portuario por servicios especiales o por retrasos en la operación de una naviera, con independencia de las sanciones que procedan, han de aplicarse los siguientes recargos:
+a) Recargo por hora del jefe de puerto: 21,38 euros/hora.
+b) Recargo por hora de celador/guarda-muelles: 18,72 euros/hora.
+3. Si se trata de horario nocturno o en el caso de sábados, domingos y festivos, los costes indicados han de multiplicarse por dos para determinar el recargo que corresponde. En cualquier caso ha de liquidarse un mínimo de cuatro horas por agente portuario.
+Se modifica por la disposición final 5.11 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 338
+
+Artículo 338. Garantías para el cobro de las tasas portuarias.
+1. El impago de las tasas devengadas por la prestación de servicios portuarios en cualesquiera de los puertos de titularidad de esta Comunidad Autónoma faculta a la Dirección General de Costas y Puertos para suspender temporalmente la prestación del servicio a las entidades deudoras, previo requerimiento a éstas y comunicación al Capitán Marítimo si afectase a servicios de navegación marítima.
+2. La Dirección General de Costas y Puertos podrá exigir el depósito previo o la constitución de avales al objeto de garantizar el cobro del importe de las tasas por los servicios que se presten en el ámbito de su competencia, sin perjuicio de la liquidación final resultante.
+
+### Artículo 339
+
+Artículo 339. Denegación de servicios.
+La Dirección General de Costas y Puertos podrá denegar los servicios a quienes tengan las deudas tributarias por estas tasas sometidas a procedimiento ejecutivo.
+
+### Artículo 340
+
+Artículo 340. Prestación de servicios portuarios y responsabilidades.
+1. Se presume que los usuarios son conocedores de la prestación de los servicios y de las características técnicas de los suministros y de los equipos y elementos que utilizan.
+2. En los supuestos en que los usuarios de los servicios portuarios se hagan cargo de las funciones de dirección en la prestación de los mismos, los perjuicios y desperfectos producidos por averías, maniobras o paralización del servicio no serán imputables a la Dirección General de Costas y Puertos.
+3. Los usuarios y particulares serán responsables de las lesiones, daños y averías que ocasionen a las instalaciones de la Dirección General de Costas y Puertos o a terceros como consecuencia de su intervención en la utilización de las mismas.
+
+### Artículo 341
+
+Artículo 341. Embarcaciones en base, en tránsito y en tránsito de temporada.
+1. Se consideran embarcaciones con base en el puerto:
+a) Las embarcaciones deportivas y de recreo a las que se asigna el atraque por años naturales completos, mediante el procedimiento establecido por reglamento.
+b) Las embarcaciones de pesca que son despachadas en este sentido por la autoridad competente y a las que la Dirección General de Costas y Puertos asigna un atraque de los disponibles.
+Se modifica por la disposición final 1.12 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+
+### Artículo 342
+
+Artículo 342. Régimen de las autorizaciones.
+1. Son intransferibles todas las autorizaciones que se otorguen para la utilización de los diferentes servicios.
+2. Todo peticionario del servicio acepta conocer los reglamentos y disposiciones del puerto y queda obligado a facilitar con la debida antelación a la Dirección General de Costas y Puertos aquellos datos que, en relación con dicho servicio, le sean requeridos. La petición o aceptación de la prestación del servicio presupone la conformidad del usuario con las condiciones fijadas en estas reglas para la prestación del mismo.
+
+### Artículo 343
+
+Artículo 343. Retirada de embarcaciones o de vehículos o cualquier otro artefacto, mercancía y objeto similar.
+1. En caso de embarcaciones atracadas o de vehículos o cualquier otro artefacto, mercancía u objeto similar depositados en las zonas portuarias de titularidad autonómica sin la autorización oportuna o que hayan recibido una orden de desalojo, retirada o traslado y no la cumplan en el plazo indicado, se exigirán a los propietarios o representantes los gastos ocasionados, independientemente de la sanción que les corresponda.
+2. Asimismo, en caso de que se retiren embarcaciones, vehículos o cualquier otro artefacto, mercancía u objeto similar de zonas de gestión indirecta que hayan sido declarados abandonados a instancia de los concesionarios, se les exigirán los gastos no cubiertos con el producto obtenido de la subasta, sin perjuicio del devengo de la tasa que regula el artículo 343 novodecies de la presente ley.
+Se modifica por la disposición final 2.17 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+## CAPÍTULO XLI
+
+Tasa por la prestación de servicios administrativos relacionados con la dirección general competente en materia de residuos
+Se modifica por la disposición final 1.27 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por el art. 7 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a7
+
+### Artículo 343 bis
+
+Artículo 343 bis. Tasa por la prestación de servicios relacionados con la dirección general competente en materia de residuos.
+1. Hecho imponible:
+Constituye el hecho imponible de esta tasa la prestación de los servicios administrativos relativos a las actividades gestionadas por la dirección general competente en materia de residuos descritos en el punto 3 de este artículo.
+2. Sujeto pasivo:
+Son sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la prestación de servicios a los que se refiere el hecho imponible.
+3. Cuota:
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Concepto
+ Tarifa (euros)
+ 1. Tramitación de expedientes administrativos en materia de residuos.
+ 1.1 Autorizaciones para instalaciones de gestión de residuos (almacenaje y transferencia).
+ 500
+ 1.2 Autorizaciones de operador.
+ 125
+ 1.3 Modificación o ampliación de autorizaciones otorgadas (instalador/operador).
+ 125/40
+ 1.4 Inspecciones ambientales obligatorias y renovaciones.
+ 125
+ 1.5 Certificaciones, convalidaciones, cambio de titular, devoluciones de fianzas depositadas.
+ 50
+ 1.6 Autorizaciones a sistemas colectivos de responsabilidad ampliada del productor (SCRAP).
+ 500
+ 1.7 Autorizaciones a sistemas individuales de responsabilidad ampliada del productor (SCRAP).
+ 250
+ 1.8 Autorizaciones a sistemas de depósito, devolución y retorno en el marco de la responsabilidad ampliada del productor (SDDR).
+ 500
+ 1.9 Expedientes de autorización para la exportación o importación de residuos.
+ 125
+ 1.10 Supervisión de planes de gestión de residuos de construcción y demolición previstos en el Real Decreto 105/2008.
+ 125
+ 2. Tramitación de expedientes administrativos en materia de suelos contaminados o degradados.
+ 2.1 Expedientes de recuperación voluntaria.
+ 250
+ 2.2 Expedientes de declaración de suelo contaminado.
+ 500
+ 2.3 Presentación de informes preliminares de situación y de informes periódicos de situación.
+ 125
+ 3. Tramitación de inscripciones en el registro de producción y gestión de residuos de las Illes Balears.
+ 3.1 Productor de residuos peligrosos o > 1.000 t no peligrosos.
+ 50
+ 3.2 Transportista o recogedor de residuos.
+ 50
+ 3.3 Agente.
+ 50
+ 3.4 Negociante.
+ 50
+ 3.5 Ampliación o modificación de inscripciones existentes.
+ 30
+ 4. Tramitación de documentación.
+ 4.1 Alta en el sistema SINGER (gestores).
+ 100
+ 4.2 Certificado de destrucción de vehículos fuera de uso (unidad).
+ 2
+ 4.3 Notificaciones de traslado (unidad).
+ 3
+ 4.4 Documentos de identificación (unidad).
+ 0,30
+A la tasa correspondiente al concepto 4.2 se le aplicará una bonificación del 60% cuando la tramitación se realice mediante la plataforma electrónica de la consejería competente en materia de residuos.
+4. Devengo y pago:
+La tasa se devenga cuando se presente la solicitud de autorización correspondiente, de acuerdo con lo dispuesto en la letra b) del artículo 10.1 de la Ley 2/1997. El pago de la tasa debe realizarse mediante la presentación y el ingreso de la autoliquidación correspondiente, al mismo tiempo de la presentación de la solicitud.
+Se modifica por la disposición final 1.27 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica el apartado 3 por el art. 4.11 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+ Se añade por el art. 7 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a7
+
+## CAPÍTULO XLII
+
+Tasa por fotografías, filmaciones y producciones audiovisuales en espacios de relevancia ambiental
+Se modifica por la disposición final 1.6 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 2.18 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por el art. 8 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a8
+
+### Artículo 343 ter
+
+Artículo 343 ter. Tasa por fotografías, filmaciones y producciones audiovisuales en espacios de relevancia ambiental.
+1.º Hecho imponible. Constituye el hecho imponible de esta tasa la prestación de servicios derivada de la utilización de cada espacio de relevancia ambiental para hacer fotografías, filmaciones y producciones audiovisuales destinadas al uso comercial amparadas por la autorización o la evaluación de repercusiones ambientales pertinentes.
+Quedan exentas del pago de esta tasa, las fotografías, las filmaciones y las producciones audiovisuales siguientes:
+a) Las relacionadas exclusivamente con la difusión de información relativa al patrimonio natural o cultural del espacio natural.
+b) Las de acontecimientos particulares de tipo familiar o doméstico en fincas privadas.
+c) Las que tengan finalidades científicas.
+d) Las de inspección y vigilancia por el cumplimiento de la normativa vigente.
+e) Las destinadas al mantenimiento de infraestructuras y equipamientos públicos.
+La tasa se aplicará cuando sean espacios de relevancia ambiental de las Illes Balears, con independencia de los precios o las tasas que, si procede, corresponda abonar a otras administraciones.
+2.º Sujeto pasivo. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización o la evaluación de repercusiones ambientales necesaria para llevar a cabo las actividades que constituyen el hecho imponible.
+3.º Tarifas. La tasa se exige de acuerdo con las siguientes tarifas:
+Número de participantes en la producción
+ Euros/día
+ Entre 1 y 4.
+ 120
+ Entre 5 y 20.
+ 480
+ Más de 21.
+ 960
+Asimismo, a efectos de la aplicación de esta tasa, se consideran incluidas las fotografías, las filmaciones y las producciones audiovisuales realizadas con RPA (dron).
+Se aplicarán recargos en los siguientes casos:
+a) Recargo del 50 % de la cuantía, en caso de trabajos nocturnos, entendidos como los que se hacen antes de la salida y después de la puesta del sol.
+b) Recargo de 50 euros por cada una de las modificaciones que se soliciten, durante la tramitación del procedimiento, de las condiciones iniciales objeto de autorización o evaluación, sin que ello incluya la incorporación de nuevos espacios naturales, para lo que deberá presentarse una nueva solicitud.
+4.º Devengo. La tasa se devenga en el momento en que se solicita la prestación de los servicios que constituyen su hecho imponible.
+Se modifica por la disposición final 1.6 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifican los apartados 1, 3 y 4 por la disposición final 1.13 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifica por la disposición final 2.18 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica el apartado 3 por la disposición final 5.12 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por el art. 8 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a8
+
+## CAPÍTULO XLIII
+
+Tasa por tramitación de la solicitud de concesión de la etiqueta ecológica comunitaria
+Se modifica por la disposición final 1.6 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por el art. 27.8 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## Sección 1
+
+Sección 1.ª Tasa por tramitación de la solicitud de concesión de la etiqueta ecológica comunitaria
+Se añade por el art. 27.8 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 343 quater
+
+Artículo 343 quater. Tasa por tramitación de la solicitud de concesión de la etiqueta ecológica comunitaria.
+1.º Hecho imponible. Constituye el hecho imponible de esta tasa la tramitación, por parte de la Consejería de Medio Ambiente, como organismo competente, de la solicitud de concesión de la etiqueta ecológica comunitaria para un producto o servicio determinado.
+2.º Sujeto pasivo. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas, y también las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la realización de las actividades que constituyen el hecho imponible.
+3.º Cuantía. La tasa por la solicitud de concesión de la etiqueta ecológica comunitaria es de 399,27 euros. Esta cuantía no incluye ningún elemento relativo al coste de las pruebas a las cuales se tienen que someter los productos objeto de la solicitud. Estos gastos tienen que ser satisfechas por los solicitantes a las entidades debidamente calificadas para llevar a cabo estas pruebas.
+4.º Bonificaciones. La tasa por solicitud de concesión de la etiqueta ecológica comunitaria será objeto de las reducciones siguientes, que son acumulables:
+a) Reducción del 25% si el sujeto pasivo es una pequeña o mediana empresa.
+b) Reducción del 25% si el sujeto pasivo es fabricante de producto o prestador de servicio de un país en desarrollo.
+5.º Devengo. La tasa por solicitud de concesión de la etiqueta ecológica comunitaria se devenga en el momento de presentar la solicitud que da lugar al inicio de la actuación administrativa, que no se tramitará si no se ha pagado la cuantía correspondiente.
+6.º Autoliquidación y pago. Los sujetos pasivos tienen que autoliquidar la cuantía por la solicitud de concesión de la etiqueta ecológica comunitaria en el momento en que presenten la correspondiente solicitud para iniciar su tramitación. La autoliquidación queda sujeta, en todo caso, a las comprobaciones correspondientes posteriores que haga la Consejería de Medio Ambiente, y también a las validaciones posteriores que haga la administración que sean necesarias.
+Se modifica por la disposición final 1.6 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por el art. 27.8 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## Sección 2
+
+Sección 2.ª Tasa por la utilización de la etiqueta ecológica comunitaria
+Se añade por el art. 27.8 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 343 quinquies
+
+Artículo 343 quinquies. Tasa por la utilización de la etiqueta ecológica comunitaria.
+1. Hecho imponible:
+Constituye el hecho imponible de esta tasa la utilización de la etiqueta ecológica comunitaria concedida por la Consejería de Medio Ambiente, como organismo competente.
+2. Sujeto pasivo:
+Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas, así como las entidades a las que se refiere el artículo 36 de la Ley 58/2003, de 17 de diciembre, general tributaria, que realicen la actividad que constituye el hecho imponible.
+3. Cuantía:
+La cuota a ingresar será la resultante de aplicar el porcentaje del 0,15% sobre el volumen de ventas del producto o servicio en la Unión Europea, durante el período de doce meses desde la fecha de concesión de la etiqueta, con un mínimo de 500,00 euros y un máximo de 25.000,00 euros anuales por categoría de producto y por solicitante. Con el fin de calcular el volumen anual de ventas, se tendrá en cuenta la facturación del producto o del servicio con etiqueta, el cual debe calcularse a partir del precio de fábrica, cuando el producto que haya obtenido la etiqueta sea un bien, y a partir del precio de entrega, cuando se trate de un servicio. Para calcular la base imponible por la utilización de la etiqueta ecológica comunitaria, el interesado podrá optar por el régimen de estimación directa o por el de estimación objetiva, el cual se determinará reglamentariamente.
+4. Bonificaciones:
+Se aplicarán las reducciones siguientes en la cuota, que serán acumulables pero que no podrán, en ningún caso, sobrepasar el 50%:
+a) Reducción del 25%, si el sujeto pasivo es una pequeña o mediana empresa.
+b) Reducción del 25%, si el sujeto pasivo es fabricante de producto o prestador de servicio de un país en desarrollo.
+c) Reducción del 15%, si el sujeto pasivo dispone de la certificación EMAS o ISO 14.001, siempre y cuando se comprometa expresamente en su política ambiental a garantizar que sus productos con etiqueta ecológica comunitaria cumplen los criterios de la etiqueta ecológica durante el período de validez del contrato y que dicho compromiso se incorpore adecuadamente a los objetivos medioambientales de su sistema de gestión ambiental.
+d) Reducción del 25%, a los tres primeros solicitantes que obtengan la etiqueta ecológica comunitaria por cada categoría de productos.
+5. Devengo:
+La tasa se devengará durante un período de doce meses, en los treinta días naturales siguientes a la finalización del período anual de que se trate. Dicho período de doce meses se computará de dos maneras:
+a) En el supuesto de nuevos contratos, desde la firma del contrato entre el organismo competente y el solicitante de la etiqueta ecológica, contrato previsto en el artículo 9 del Reglamento (CE) 1980/2000 del Parlamento Europeo y del Consejo, de 17 de julio de 2000, relativo al sistema comunitario revisado de concesión de etiqueta ecológica, y en la Decisión de la Comisión de 10 de noviembre de 2000, relativa al contrato tipo sobre las condiciones de utilización de la etiqueta ecológica comunitaria.
+b) A partir del segundo y/o en los sucesivos períodos, desde la finalización del período anual anterior.
+6. Autoliquidación y pago:
+Los sujetos pasivos deberán autoliquidar la cuantía dentro de los treinta días naturales siguientes a la finalización del periodo anual de que se trate, sea desde la firma del contrato citado en el artículo anterior o sea desde la finalización del período anual anterior. La autoliquidación quedará sujeta, en todo caso, a las oportunas comprobaciones posteriores que realice la Consejería de Medio Ambiente, así como a las validaciones posteriores realizadas por la Administración que sean necesarias.
+Se añade por el art. 27.8 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## CAPÍTULO XLIV
+
+Tasa por filmaciones y reportajes publicitarios en espacios portuarios
+Se añade por el art. 3.7 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 343 sexies
+
+Artículo 343 sexies. Tasa por filmaciones y reportajes publicitarios en espacios portuarios.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de servicios por parte de la administración autonómica portuaria, derivada de la utilización de los espacios portuarios para la realización de fotografías y reportajes publicitarios destinados al uso comercial de promoción de la firma o entidad amparadas por la autorización correspondiente.
+A este efecto, se entenderán realizadas con finalidades no comerciales las filmaciones y fotografías relacionadas exclusivamente con la difusión de información de carácter cultural o de conservación de la naturaleza. La tasa se aplicará cuando se trate de espacios portuarios de la comunidad autónoma, con independencia de los precios o tasas que puedan corresponder a otras administraciones.
+2. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas, jurídicas y entidades del artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización correspondiente para la realización de las actividades que constituyen el hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Conceptos
+ Euros/día
+ 1. Reportaje fotográfico sin intervención de modelos ni alteración del espacio.
+ 171,68
+ 2. Reportaje fotográfico con modelos o inclusión de productos.
+ 326,01
+ 3. Reportaje cinematográfico o de vídeo sin intervención de modelos ni alteración del espacio.
+ 326,01
+ 4. Reportaje cinematográfico o de vídeo con modelos o inclusión de productos.
+ 652,02
+ 5. Recargo por trabajo nocturno.
+ 50 %
+4. Devengo.
+La tasa se devenga en el momento en que se obtenga la autorización correspondiente de la administración autonómica portuaria para la actividad a la que se refiere el hecho imponible.
+Se modifica el apartado 3 por la disposición final 1.16 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 3.7 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+## CAPÍTULO XLV
+
+Tasa por la prestación de servicios derivada de la reserva de boyas de anclaje en el Parque nacional marítimo-terrestre del archipiélago de Cabrera
+Se añade por la disposición final 2.2 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+### Artículo 343 septies
+
+Artículo 343 septies.
+1. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la prestación de servicios, a cargo del Instituto Balear de la Naturaleza, derivada de la reserva de boyas de anclaje en el Parque nacional marítimo-terrestre del archipiélago de Cabrera, amparada por la pertinente autorización.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas, jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización correspondiente para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuantía.
+1. La cuota tributaria de esta tasa se fija de acuerdo con las siguientes tarifas:
+Concepto
+ Euros/dia
+ A. Anclaje del 1 de octubre al 30 de abril:
+ A.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora)
+ 9,30
+ A.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora)
+ 20,00
+ A.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora)
+ 35,00
+ A.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora)
+ 105,00
+ B. Anclaje del 1 de mayo al 30 de septiembre:
+ B.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora)
+ 18,60
+ B.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora)
+ 40,00
+ B.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora)
+ 90,00
+ B.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora)
+ 275,00
+2. En el caso de que se reserve una boya de capacidad superior a la eslora de la embarcación, el importe de la tarifa será el correspondiente a la boya objeto de la reserva.
+Excepcionalmente, y de acuerdo con los criterios que fije el órgano gestor de los sistemas de anclaje, podrá otorgarse una autorización especial, previa justificación, para embarcaciones de más de 35 metros de eslora. En este caso, la tarifa aplicable será la máxima, es decir, la tarifa establecida en los puntos A.4 y B.4 del apartado 1 anterior.
+4. Devengo y pago.
+1. La tasa se devenga cuando se presente la solicitud de reserva de boyas de anclaje, de acuerdo con lo que dispone el artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se realizará mediante la presentación y el ingreso de la autoliquidación correspondiente, al tiempo de la presentación telemática de la solicitud de reserva de boyas y anclaje.
+5. Devolución.
+La cancelación de la reserva, cuando se realice con una antelación superior a una hora respecto de la hora de inicio de la ocupación autorizada, implicará la devolución del 50 % del importe de la cuota tributaria. Dicha cancelación se realizará por vía telemática, con indicación de todos los datos que, a tal efecto, establezca el órgano gestor de los sistemas de anclaje.
+Las cancelaciones de las reservas que no verifiquen todas las condiciones a que se refiere el párrafo anterior no darán lugar a ningún tipo de devolución de la correspondiente tasa.
+Se modifica el apartado 3.1 por la disposición final 1.11 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifica el apartado 3.1 por la disposición final 2.19 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifican los apartados 1 y 5 por la disposición final 1.17 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 2.2 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
+
+## CAPÍTULO XLVI
+
+Tasa por la realización de actividades en los equipamientos y exteriores de las fincas públicas
+Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 octies
+
+Artículo 343 octies. Tasa por la realización de actividades en los equipamientos y exteriores de las fincas públicas.
+1. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la prestación de servicios derivada de la autorización para realizar actividades y del uso de equipamientos y exteriores en fincas públicas.
+2. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes cuantías:
+Concepto
+ Euros/día
+ Uso de salas en equipamientos de la finca pública:
+ a) Media jornada (mañana o tarde)
+ 199,85
+ b) Jornada completa
+ 255,93
+ c) A partir del segundo día
+ 157,89
+ Uso del espacio exterior adyacente a los equipamientos para realizar eventos:
+ a) Media jornada (mañana o tarde)
+ 307,60
+ b) Jornada completa
+ 432,51
+4. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación de los servicios que constituyan el hecho imponible.
+5. Devolución.
+El sujeto pasivo tendrá derecho a la devolución de las tasas indebidamente satisfechas por las causas generales admitidas en derecho y, también, cuando el servicio, la función o la actividad constitutiva del hecho imponible correspondiente no se haya prestado, desarrollado o realizado por causas que no le sean imputables.
+6. Bonificación.
+Se establece una bonificación del 50 % para las entidades organizadoras cuya actividad fomente la difusión de información de carácter cultural, arqueológico o de conservación de la naturaleza de las fincas públicas o los espacios naturales protegidos. Las bonificaciones se concederán a petición previa de la entidad interesada, que deberá acreditar los requisitos indicados anteriormente.
+7. Exención.
+Quedarán exentas del pago de la tasa las entidades sin fines lucrativos y declaradas de utilidad pública, siempre que la actividad que tengan que desarrollar cumpla las características que dispone el punto 6 Las exenciones se concederán a petición previa de la entidad interesada, que deberá acreditar los requisitos indicados anteriormente.
+Se modifican los apartados 1, 3 y 4 por la disposición final 1.14 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifican los apartados 3, 5 y 6 y se añade el 7 por la disposición final 2.20 a 23 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica el apartado 1 y se añade el 6 por la disposición final 1.19 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO XLVII
+
+Tasa por la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas en espacios de relevancia ambiental y fincas públicas
+Se modifica por la disposición final 2.24 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 nonies
+
+Artículo 343 nonies. Tasa por la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas en espacios de relevancia ambiental y fincas públicas
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de servicios derivada de la tramitación de la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas organizadas por empresas u organizaciones deportivas, recreativas, turísticas o similares en espacios de relevancia ambiental y fincas públicas.
+No estarán sujetas a esta tasa las actividades a las que se refiere el hecho imponible cuando se realicen, individual o colectivamente, al margen de una entidad organizadora.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización o resolución de afección para realizar las actividades a las que se refiere el hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1. Para realizar pruebas y competiciones deportivas en un espacio de relevancia ambiental o en una finca pública:
+ a) Pruebas y competiciones deportivas hasta 50 participantes
+ 62,5
+ b) Pruebas y competiciones deportivas de 51 hasta 75 participantes
+ 112,5
+ c) Pruebas y competiciones deportivas de 76 hasta 100 participantes
+ 175
+ d) Pruebas y competiciones deportivas de 101 hasta 150 participantes
+ 300
+ e) Pruebas y competiciones deportivas de 151 hasta 200 participantes
+ 450
+ f) Pruebas y competiciones deportivas de 201 hasta 300 participantes
+ 750
+ g) Pruebas y competiciones deportivas de 301 hasta 500 participantes
+ 1.375
+ h) Pruebas y competiciones deportivas de más de 500 participantes
+ 2.500
+ 2. Para realizar actividades deportivas en un espacio de relevancia ambiental o en una finca pública
+ 60 € anuales por espacio o finca pública autorizados y actividad
+4. Devengo.
+La tasa se devenga en el momento en que se solicita la prestación de los servicios que constituyen el hecho imponible.
+5. Devolución.
+Procederá la devolución del 35% del importe de la tasa en caso de que no se lleve a cabo la actividad autorizada por causas no imputables a la persona interesada.
+6. Bonificaciones:
+a) Se establece una bonificación del 50% de la cuantía de esta tasa para las entidades organizadoras sin ánimo de lucro.
+b) Se establece una bonificación del 25% de la cuantía de esta tasa para las entidades que organicen pruebas o competiciones deportivas cuyo recorrido sea el mismo que el autorizado o resuelto en el año anterior. Esta bonificación es acumulable con la anterior.
+Las bonificaciones se aplicarán a instancia de parte, por lo que los sujetos pasivos deberán solicitarlas.
+7. Exenciones:
+a) Estarán exentas del pago de la tasa las actividades promovidas y organizadas exclusivamente por la Administración General del Estado, las administraciones de las comunidades autónomas, las entidades que integran la administración local y los otros entes de derecho público, territoriales o institucionales, cuando actúen en interés propio y directo para cumplir sus fines.
+En este sentido, se entiende que la actividad se promueve y organiza con carácter exclusivo cuando todos los trámites relativos a la autorización o a la resolución de afección los lleva a cabo única y exclusivamente la administración solicitante con la Consejería de Medio Ambiente, Agricultura y Pesca, sin perjuicio de que la ejecución de la prueba, competición o actividad deportivas se encargue a un tercero.
+b) La exención se concederá a solicitud previa de la entidad interesada, que deberá acreditar los requisitos indicados anteriormente.
+c) Estarán exentas del pago de la tasa las pruebas y las competiciones deportivas de las federaciones que formen parte de la final de un campeonato de las Illes Balears.
+Se modifican los apartados 4, 6 y 7.a) por la disposición final 1.15 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifica por la disposición final 2.24 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifican los apartados 1 y 3 y se añaden los apartados 6 y 7 por la disposición final 4.27 y 28 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO XLVIII
+
+Tasa de recogida y tratamiento de bengalas y otros residuos
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 decies
+
+Artículo 343 decies. Tasa de recogida y tratamiento de bengalas y otros residuos.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica el apartado 3 por la disposición final 1.18 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO XLIX
+
+Tasa por la utilización de la pasarela móvil (finger)
+Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 undecies
+
+Artículo 343 undecies. Tasa por la utilización de la pasarela móvil (finger).
+1. Hecho imponible.
+Constituirá el hecho imponible de esta tasa el uso de pasarelas móviles que permitan el embarque y el desembarque de pasajeros desde los buques a las estaciones marítimas.
+2. Sujeto pasivo y responsables.
+Serán sujetos pasivos los navieros y los consignatarios de los buques, o sus capitanes en los casos en que los buques no estén consignados.
+En todo caso, los propietarios de los buques serán responsables solidarios del pago de la tasa.
+3. Cuantía.
+La cuantía será la siguiente:
+– Hasta dos horas: 70 euros.
+– Tercera hora y siguientes: 35 euros/hora.
+4. Devengo y pago
+La tasa se devengará en el momento en que se inicie la prestación del servicio al que se refiere el hecho imponible, y será exigible en el momento en que se notifique su liquidación.
+Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO L
+
+Tasa por el servicio de practicaje
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 duodecies
+
+Artículo 343 duodecies. Tasa por el servicio de practicaje.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO LI
+
+Tasa de servicio de información a buques
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 343 terdecies
+
+Artículo 343 terdecies. Tasa de servicio de información a buques.
+(Sin contenido).
+Se deja sin contenido por la disposición final 1.15 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade por la disposición final 5.13 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO LII
+
+Tasa por la expedición de duplicados de la tarjeta intermodal
+Se modifica por la disposición final 1.13 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.29 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 343 quaterdecies
+
+Artículo 343 quaterdecies. Tasa por la expedición de duplicados de la tarjeta intermodal.
+1. Constituye el hecho imponible de esta tasa la expedición de duplicados de la tarjeta intermodal. En los supuestos de expedición de duplicados por pérdida, robo, deterioro o ruptura de la tarjeta intermodal, no se restituyen los viajes remanentes de los títulos de la tarjeta.
+2. Queda exenta del pago de la tasa la expedición de duplicados de la tarjeta intermodal en los casos de funcionamiento deficiente no imputable al titular.
+3. Son sujetos pasivos de esta tasa las personas físicas que obtengan el duplicado de la tarjeta intermodal.
+4. La cuantía de la tasa para la expedición de duplicados es de 8 euros.
+5. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+Se modifica por la disposición final 1.13 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.29 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO LIII
+
+Tasa por la realización de varias actuaciones administrativas relacionadas con especies silvestres
+Se añade por la disposición final 4.30 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 343 quindecies
+
+Artículo 343 quindecies. Tasa por la realización de varias actuaciones administrativas relacionadas con especies silvestres.
+1. Constituirán los hechos imponibles de esta tasa los siguientes trámites administrativos:.
+a) La inscripción de especies silvestres en un registro administrativo.
+b) La entrega de anillas oficiales de aves fringílidas.
+c) La emisión del informe técnico de especies silvestres a instancia de parte.
+2. Serán sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la realización de las actividades que constituyen el hecho imponible.
+3. Estarán exentos del pago de la tasa los sujetos pasivos que acrediten la condición de pensionistas o personas en situación de desempleo.
+4. Las cuantías de la tasa serán las siguientes:
+a) Por inscripción de tenencia de especies silvestres en un registro:
+1.º Sin inspección de campo: 3 € por espécimen.
+2.º Con inspección de campo: 50 € por inspección y 3 € por espécimen.
+b) Por la entrega de anilla de fringílidos: 4 € por anilla (incluye la inscripción en el registro y la anilla).
+c) Por informe técnico a solicitud de particulares o empresas:
+1.º Con trabajos de campo y gabinete: 200 €.
+2.º Con trabajos de gabinete exclusivamente: 30 €.
+5. La tasa se devengará cuando se presente la correspondiente solicitud de inscripción, de entrega de anillas o de informe técnico en el registro, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+6. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, cuando se presente la solicitud o se recojan las anillas.
+Se añade por la disposición final 4.30 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO LIV
+
+Tasa por la solicitud de autorización ambiental integrada y por su modificación
+Se añade por la disposición final 4.30 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 343 sexdecies
+
+Artículo 343 sexdecies. Tasa por la solicitud de autorización ambiental integrada y por su modificación.
+1. Constituirá el hecho imponible de la tasa la actividad administrativa que lleven a cabo los órganos competentes para tramitar las autorizaciones ambientales integradas, así como efectuar su modificación sustancial y no sustancial.
+2. Serán sujetos pasivos de la tasa los titulares de las instalaciones, es decir, las personas físicas o jurídicas que las exploten total o parcialmente, o sean sus poseedores, de conformidad con lo establecido en el artículo 3.7 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y en el artículo 35 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización ambiental integrada o la modificación de esta.
+3. La tasa se devengará cuando se presente la solicitud de autorización ambiental integrada correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+4. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, cuando se presente la solicitud de autorización ambiental integrada.
+5. Las cuantías de la tasa serán las siguientes:
+a) Por solicitud de la autorización ambiental integrada: 2.000 €.
+b) Por modificación sustancial de la autorización ambiental integrada: 1.500 €.
+c) Por modificación no sustancial de la autorización ambiental integrada: 300 €.
+Se añade por la disposición final 4.30 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO LV
+
+Tasa por el amarre en los campos de boyas fuera de la zona portuaria
+Se añade por la disposición final 1.15 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se deja sin contenido por la disposición final 1.10 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 343 septdecies
+
+Artículo 343 septdecies.
+1.º Hecho imponible. Constituye el hecho imponible de esta tasa la prestación del servicio derivada de la reserva de boyas de amarre en los campos de fondeo regulado en la Red Natura 2000 y en el marco del Decreto 25/2018, de 27 de julio, sobre la conservación de la Posidonia oceanica en las Illes Balears. El servicio se prestará, como mínimo, entre el 1 de junio y el 30 de septiembre y se podrá ampliar dentro de los plazos autorizados por Demarcación de Costas si se observa demanda y se considera adecuado para la correcta protección de las praderas de posidonia.
+Las condiciones, los horarios, las normas de uso y las prohibiciones asociadas a la prestación de este servicio se regularán mediante una instrucción aprobada por el Consejo de Administración de Puertos de las Illes Balears.
+El servicio se prestará en los siguientes campos de fondeo regulado:
+– LIC Illa de Sa Dragonera-Sant Elm.
+– LIC Cap Enderrocat-Cap Blanc-Cala Blava.
+– LIC Marina Nord de Menorca-Badia de Fornells.
+– LIC S'Albufera d'Es Grau-Illa d'En Colom-Cala Tamarells.
+– LIC Ses Salines d'Eivissa i Formentera-Platja de Ses Salines.
+– LIC Ses Salines d'Eivissa i Formentera-Badia de S'Alga-S'Espalmador.
+– LIC Ses Salines d'Eivissa i Formentera-Es Caló de S'Oli.
+– LIC Badies de Pollença i Alcúdia-Formentor.
+– LIC Illa de l'Aire.
+– LIC Es Caló-Artà.
+– LIC Cala d'Hort.
+– LIC Porroig.
+– LIC Sa Foradada.
+– Cualquiera otro habilitado para la explotación.
+2.º Sujeto pasivo. Son sujetos pasivos de esta tasa las personas físicas, jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización pertinente para la realización de las actividades a las cuales hace referencia el hecho imponible.
+3.º Cuantía.
+La cuota tributaria de esta tasa se fija de la siguiente manera:
+Concepto
+ Euros/día
+ Bono baño
+ (máximo 4 horas)
+ Estancia diurna (máximo 8 horas)
+ Amarre en boya de embarcación de hasta 8 m de eslora.
+ 13,00
+ 3,25
+ 7,80
+ Amarre en boya de embarcación de hasta 12 m de eslora.
+ 30,00
+ 7,50
+ 18,00
+ Amarre en boya de embarcación de hasta 15 m de eslora.
+ 44,00
+ 11,00
+ 26,40
+ Amarre en boya de embarcación de hasta 20 m de eslora.
+ 75,00
+ –
+ 45,00
+ Amarre en boya de embarcación de hasta 25 m de eslora.
+ 150,00
+ –
+ 90,00
+ Amarre en boya de embarcación de hasta 40 m de eslora.
+ 650,00
+ –
+ 390,00
+La modalidad «bono baño» solo se aplica a las embarcaciones de hasta 15 metros de eslora y solo se permite un bono baño al día.
+4.º Devengo y pago. La tasa se devenga cuando se presenta la solicitud de reserva de boya de fondeo, de acuerdo con el que dispone el artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+El pago de la tasa se tiene que hacer mediante la presentación y el ingreso de la autoliquidación correspondiente, en el momento de la presentación telemática de la solicitud de reserva en línea de boyas de fondeo. En el caso de los bonos baño y de la estancia diurna, sujetos a disponibilidad en el momento del amarre, la solicitud también se tiene que presentar telemáticamente.
+El abono de esta tasa no exime de la obligación de desatracar la embarcación, de cambiar de lugar de anclaje o, incluso, de abandonar el lugar si así lo ordena la autoridad competente por razones del servicio.
+5.º Devolución.
+La cancelación de la reserva, cuando se haga con una antelación superior a 12 horas respecto de la hora de inicio de la ocupación autorizada, implica la devolución del 50 % del importe de la cuota tributaria. Esta cancelación se hará por vía telemática, con indicación de todos los datos que, a tal efecto, se establezcan en las condiciones de uso de Puertos de las Illes Balears.
+Las cancelaciones de las reservas que no cumplan todas las indicaciones a que se refiere el párrafo anterior no dan lugar a ningún tipo de devolución del importe abonado.
+Se puede disfrutar de la reserva en otras fechas, incluso cambiando el campo de fondeo, siempre que haya disponibilidad y se mantenga el mismo número de días de la reserva inicial. En caso de que no se llegue al máximo de días establecido en las condiciones de uso de las boyas, se prevé la posibilidad de ampliar el número de días de la reserva siempre que se respete el número máximo de días y el tiempo mínimo entre reservas, establecidos en las condiciones generales de reserva y uso de los campos de boyas de fondeo en espacios LIC para la protección de la posidonia oceánica, aprobadas por el Consejo de Administración de Puertos de las Illes Balears. Esta modificación se hará por vía telemática, con una antelación superior a doce horas y con indicación de todos los datos que, a tal efecto, se establezcan en las condiciones de uso de este servicio de Puertos de las Illes Balears.
+Se modifica el apartado 3 por la disposición final 1.12 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se modifican los apartados 3 y 5 por la disposición final 1.13 y 14 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica por la disposición final 1.7 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por la disposición final 1.15 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se deja sin contenido por la disposición final 1.10 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifican los apartados 3, 4, 6 y 7 por la disposición final 1.16 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+## CAPÍTULO LVI
+
+Tasa por la prestación del servicio de inspección ambiental de las instalaciones incluidas en el plan de inspección ambiental de las Illes Balears
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 343 octodecies
+
+Artículo 343 octodecies. Tasa por la prestación del servicio de inspección ambiental de las instalaciones incluidas en el plan de inspección ambiental de las Illes Balears.
+1. Hecho imponible. Constituye el hecho imponible de la tasa el servicio de inspección ambiental de las instalaciones incluidas en el plan de inspección ambiental de las Illes Balears.
+2. Sujeto pasivo. Son sujetos pasivos de esta tasa las personas físicas o jurídicas titulares de las instalaciones susceptibles de inspección en los términos previstos en el plan de inspección ambiental de las Illes Balears.
+3. Cuota. La tasa por la prestación del servicio de inspección ambiental será de 425 euros.
+4. Devengo. La tasa se devengará en el momento de la prestación del servicio al que se refiere el hecho imponible.
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+## CAPÍTULO LVII
+
+Tasa por servicios derivados de la declaración de abandono de embarcaciones, vehículos y otros objetos en la zona de servicio de los puertos de gestión indirecta
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 343 novodecies
+
+Artículo 343 novodecies. Tasa por servicios derivados de la declaración de abandono de embarcaciones, vehículos y otros objetos en la zona de servicio de los puertos de gestión indirecta.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación de los servicios derivados de la tramitación, a instancia del concesionario, de la declaración de abandono de embarcaciones, vehículos y otros objetos en situación de abandono en la zona de servicio de los puertos sujetos a concesión administrativa.
+2. Sujetos pasivos. Son sujetos pasivos de esta tasa los concesionarios que soliciten la declaración de abandono a la que se refiere el hecho imponible.
+3. Cuantía. La cuantía de la tasa será de 898,80 euros por cada embarcación, vehículo u objeto del cual se solicita la declaración de abandono.
+4. Devengo y pago. La tasa se devengará cuando se presente la solicitud para la prestación del servicio correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. La tasa se pagará mediante el correspondiente documento de ingreso de autoliquidación, que deberá presentarse junto con la solicitud.
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+## CAPÍTULO LVIII
+
+Tasa por la prestación del servicio de inspección y control del pasaje y del equipaje
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 343 vicies
+
+Artículo 343 vicies. Tasa por la prestación del servicio de inspección y control del pasaje y del equipaje.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación del servicio de inspección y control del pasaje y del equipaje de los buques de transporte marítimo regular y de los buques de crucero turístico, incluyendo la puesta a disposición de un escáner y un arco detector de metales en las estaciones marítimas de los puertos.
+2. Sujetos pasivos. Son sujetos pasivos de esta tasa los navieros y los consignatarios de buques, o los capitanes en los supuestos en que los buques no estén consignados. En todo caso, los propietarios de los buques serán responsables solidarios del pago de la tasa.
+3. Cuantía. La cuota tributaria será de 50,36 por cada operación de embarque de pasajeros de buques de transporte marítimo regular y de buques de crucero turístico.
+4. Devengo y pago. La tasa se devengará en el momento en que se inicie la prestación del servicio al que se refiere el hecho imponible, y será exigible en el momento en el que se notifique su liquidación
+Se añade por la disposición final 2.25 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+## CAPÍTULO LIX
+
+Tasa por la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas en zonas de servicio portuarias
+Se añade por la disposición final 1.17 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+### Artículo 343 unvicies
+
+Artículo 343 unvicies. Tasa por la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas en zonas de servicio portuarias.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de servicios derivada de la tramitación de la autorización o la resolución de afección de pruebas y competiciones deportivas y de actividades deportivas organizadas por empresas u organizaciones deportivas, recreativas, turísticas o similares en zonas de servicio portuarias. No están sujetas a esta tasa las actividades a que se refiere el hecho imponible cuando se lleven a cabo, individualmente o colectivamente, al margen de una entidad organizadora.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización o la resolución de afección para llevar a cabo las actividades a que se refiere el hecho imponible.
+3. Cuantía.
+La tasa se exige de acuerdo con las siguientes tarifas:
+a) Pruebas y competiciones deportivas, sin coste de inscripción para los participantes: 92,20 euros.
+b) Pruebas y competiciones deportivas, con coste de inscripción para los participantes, de 1 hasta 200 participantes: 150 euros.
+c) Pruebas y competiciones deportivas, con coste de inscripción para los participantes, de 201 hasta 500 participantes: 250 euros.
+d) Pruebas y competiciones deportivas, con coste de inscripción para los participantes, de más de 500 participantes: 500 euros.
+4. Devengo.
+La tasa se devengará en el momento en que se solicite la prestación de los servicios que constituyan el hecho imponible.
+5. Devolución.
+Procede la devolución del 50% del importe de la tasa en caso de que no se haga la actividad autorizada por causas no imputables a la persona interesada.
+6. Bonificaciones.
+a) Se establece una bonificación del 50% de la cuantía de esta tasa para las entidades organizadoras sin ánimo de lucro.
+b) Las bonificaciones se aplican a instancia de parte.
+7. Exenciones.
+a) Están exentas del pago de la tasa las actividades promovidas y organizadas exclusivamente por la Administración General del Estado, las administraciones de las comunidades autónomas, las entidades que integran la administración local y los demás entes de derecho público, territoriales o institucionales, cuando actúan en interés propio y directo para cumplir sus fines.
+b) La exención se concede a solicitud previa de la entidad interesada, que debe acreditar los requisitos indicados anteriormente.
+c) Están exentas del pago de la tasa las pruebas y las competiciones deportivas de las federaciones que forman parte de la final de un campeonato de las Illes Balears.
+d) Están exentas del pago de la tasa las pruebas y las competiciones deportivas infantiles o de menores de 18 años.
+Se añade por la disposición final 1.17 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+## CAPÍTULO LX
+
+Tasa por la expedición de autorizaciones para la realización de inmersiones en los espacios naturales protegidos
+Se añade por la disposición final 1.18 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+### Artículo 343 duovicies
+
+Artículo 343 duovicies. Tasa por la expedición de autorizaciones para la realización de inmersiones en los espacios naturales protegidos.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la autorización para el buceo individual y colectivo en los espacios naturales protegidos de las Illes Balears.
+2. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes cuantías:
+Concepto
+ Euros/día
+ Autorización de buceo individual en espacio natural protegido
+ 5,08
+ Autorización de buceo colectivo en espacio natural protegido
+ 66,04
+4. Devengo y pago.
+La tasa se devenga en el momento en que se presente la solicitud de autorización correspondiente.
+Se añade por la disposición final 1.18 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+
+## TÍTULO VII
+
+Consejería de Turismo y Deportes
+Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO ÚNICO
+
+Tasa por la prestación de servicios administrativos en materia turística
+Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO I
+
+Tasa por la prestación de servicios administrativos en materia turística
+Se numera como capítulo I por la disposición final 4.31 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Su anterior denominación era capítulo único.
+
+### Artículo 344
+
+Artículo 344. Hecho imponible.
+Constituyen el hecho imponible de esta tasa:
+a) La tramitación de la declaración responsable de inicio de actividad turística relativa a la apertura de establecimientos turísticos y de comunicaciones relativas a cambios de titularidad, incremento de plazas, cambio de uso, bajas temporales, cierre, cambios de categoría de establecimientos turísticos y cualquier modificación de los datos inscritos en los registros turísticos, así como la habilitación y la expedición de los carnés y el reconocimiento de calificaciones profesionales de las profesiones turísticas regladas.
+b) La emisión de informes técnicos y la expedición de certificados en materia de turismo.
+Se modifica por la disposición final 2.26 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 345
+
+Artículo 345. Exenciones.
+La tasa ha de exigirse siempre que se verifique el hecho imponible, sin ningún tipo de exenciones objetivas ni subjetivas.
+Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 346
+
+Artículo 346. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la realización de una actividad administrativa de las descritas en el hecho imponible y prestada por la consejería competente en materia turística o cualquier ente dependiente, o bien aquellos que resulten afectados o beneficiados por la actividad. la consejería competente en materia turística o cualquier ente dependiente, o bien los que resulten afectados o beneficiados por la actividad.
+Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 347
+
+Artículo 347. Cuantía.
+La cuota tributaria de esta tasa se determina por la aplicación de las siguientes tarifas:
+a) Alojamientos
+a.1) Apertura de establecimiento e incremento del número de plazas de:
+a.1.1) Hoteles, hoteles apartamento, establecimientos de aprovechamiento por turnos de bienes inmuebles y establecimientos coparticipados o compartidos: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.2) Hoteles rurales, agroturismos y turismos de interior: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.3) Apartamentos: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.4) Campings: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.5) Albergues, refugios y hospederías: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.6) Enajenación de unidades de alojamiento: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.7) Comercialización de estancias turísticas en viviendas: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.8) Viviendas turísticas de vacaciones: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.1.9) Hostales, hostales residencia, pensiones, posadas, casas de huéspedes y campamentos de turismo: 35,95 euros por plaza con un mínimo de 323,56 euros.
+a.2) Comunicación de cambios de explotador, de propietario, bajas temporales y cambio de uso del establecimiento: 150 euros.
+a.3) Comunicación de cambios de grupo o de categoría, de explotación conjunta, unificación de establecimientos y reapertura desde baja temporal: 323,56 euros.
+a.4) Obtención de una categoría por parte de los turismos de interior, los agroturismos y los hoteles rurales: 323,56 euros.
+a.5) Informes de viabilidad u otros informes técnicos: 500 euros.
+b) Empresas de intermediación turística: agencias de viajes, mediadores turísticos y centrales de reservas:
+b.1) Apertura de establecimiento de agencia de viajes: 418,18 euros.
+b.2) Apertura de establecimiento de mediador turístico y central de reservas: 211,39 euros.
+b.3) Apertura de un segundo establecimiento y siguientes, incluidos los establecimientos virtuales, por unidad: 158,55 euros.
+b.4) Comunicación de cambio de explotador, de propietario o de baja temporal: 79,27 euros.
+c) Guías turísticos:
+Habilitación, renovación, expedición del carnet, prestación temporal del servicio de guía turístico y reconocimiento de calificaciones profesionales: 52,84 euros.
+d) Oferta de restauración (restaurantes, cafeterías y bares):
+d.1) Apertura:
+d.1.1) Restaurantes: 237,82 euros.
+d.1.2) Bar cafetería y similares: 184,97 euros.
+d.2) Comunicación de cambio de explotador, de propietario, baja temporal, de categoría Gold o reapertura desde baja temporal: 52,84 euros.
+d.3) Comunicación de cambio de grupo, aforo o unificación de establecimientos: 100 euros.
+d.4) Informes técnicos que no tengan señalada una tasa especial: 400 euros.
+e) Empresas que tienen por objeto actividades de entretenimiento, recreativas, deportivas, culturales o lúdicas, o todas las que tengan una naturaleza complementaria del sector turístico:
+e.1) Apertura: 403,27 euros.
+e.2) Comunicación de cambio de explotador, de propietario, de grupo o de baja temporal: el 30% de la tasa de apertura prevista en el supuesto e.1).
+f) Empresas de alquiler de vehículos sin conductor:
+f.1) Apertura: 403,27 euros.
+f.2) Comunicación de cambio de explotador, de propietario, de grupo o de baja temporal: el 30% de la tasa de apertura prevista en el supuesto f.1).
+g) Actividad de entretenimiento y restauración en embarcaciones:
+g.1) Apertura: 403,27 euros.
+g.2) Comunicación de cambio de explotador, de propietario, de grupo o de baja temporal: el 30% de la tasa de apertura prevista en el supuesto g.1).
+h) Servicios administrativos en general:
+h.1) Expedición de certificados, emisión de informes o tareas similares, por expediente: 26,43 euros.
+h.2) Cualquier modificación de los datos inscritos en los registros turísticos diferentes de los expuestos en los puntos anteriores: 26,43 euros.
+Se modifica por la disposición final 1.28 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.27 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 347 bis
+
+Artículo 347 bis. Bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 2.28 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 1.20 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 348
+
+Artículo 348. Devengo.
+La tasa se devengará en el momento de presentar la declaración responsable o la comunicación, cuando se solicite el servicio a que se refiere el hecho imponible o cuando éste se preste en los casos en que la actividad administrativa sea de oficio.
+Se modifica por la disposición final 5.14 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.8 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO II
+
+Tasa por actuaciones del Registro de entidades deportivas de las Illes Balears
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 348 bis
+
+Artículo 348 bis. Hecho imponible.
+Constituirán los hechos imponibles de esta tasa:
+a) La inscripción de la constitución de las entidades deportivas.
+b) La inscripción de la modificación de estatutos de las entidades deportivas.
+c) La inscripción del nombramiento, la suspensión y el cese de los miembros de la junta directiva o del órgano de representación.
+d) La tramitación del procedimiento de declaración de la condición de utilidad pública de los clubes deportivos.
+e) La inscripción de la adaptación de los estatutos de las entidades deportivas a la normativa vigente.
+f) La expedición de certificados.
+g) La solicitud de listados.
+h) Las fotocopias.
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 348 ter
+
+Artículo 348 ter. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten las actuaciones a las que se refiere el hecho imponible.
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 348 quater
+
+Artículo 348 quater. Exenciones
+Estarán exentas del pago de esta tasa las solicitudes de las administraciones públicas.
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 348 quinquies
+
+Artículo 348 quinquies. Cuantía.
+La tasa se exigirá de acuerdo con las tarifas que se indican para cada uno de los siguientes conceptos:
+a) Por la solicitud de inscripción de la constitución de las entidades deportivas: 50,00 €.
+b) Por cada solicitud de inscripción de la modificación de estatutos de las entidades deportivas: 15,00 €.
+c) Por cada solicitud de inscripción del nombramiento, la suspensión y el cese de los miembros de la junta directiva o del órgano de representación: 15,00 €.
+d) Por la solicitud de declaración de la condición de utilidad pública de los clubes deportivos: 20,00 €.
+e) Por la solicitud de inscripción de la adaptación de los estatutos de las entidades deportivas a la normativa vigente: 20,00 €.
+f) Por la expedición de certificados: 5,00 €.
+g) Por la solicitud de listados:
+– Primera hoja: 3,00 €.
+– Hojas siguientes: 1,50 €/hoja.
+h) Por las fotocopias (en blanco y negro) de tamaño DIN A4: 0,09 €/hoja.
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 348 sexies
+
+Artículo 348 sexies. Devengo y pago.
+1. La tasa se devengará en el momento en que se presente la solicitud que motive el servicio o la actuación administrativa que constituya el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. La tasa se exigirá en régimen de autoliquidación. La justificación del ingreso se presentará junto con la correspondiente solicitud, con excepción de los supuestos a los que se refieren las letras f), g) y h) del artículo 348 bis, en los que la justificación del ingreso se realizará en el momento de la recogida de los documentos objeto de la solicitud.
+Se añade por la disposición final 4.32 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## TÍTULO VIII
+
+Consejería de Sanidad y Consumo
+
+## CAPÍTULO I
+
+Tasas por los servicios prestados por la dirección general competente en materia de sanidad mortuoria
+Se modifica por la disposición final 1.29 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 349
+
+Artículo 349. Hecho imponible.
+Constituye el hecho imponible de la tasa la tramitación, a cargo de la dirección general competente en materia de sanidad mortuoria, la emisión de los informes sanitarios y las comprobaciones técnico-sanitarias en materia de sanidad mortuoria.
+Se modifica por la disposición final 1.30 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 350
+
+Artículo 350. Sujeto pasivo.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten las actuaciones a que se refiere el hecho imponible.
+Se modifica por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 351
+
+Artículo 351. Cuantía.
+La cuantía tributaria de la tasa debe fijarse de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 2.1
+ Informe sobre el proyecto de construcción y de ampliación de cementerios.
+ 89,67
+ 2.2
+ Informe de puesta en funcionamiento de cementerios.
+ 184,26
+ 2.3
+ Informe sobre el proyecto de construcción y de ampliación de tanatorios.
+ 88,25
+ 2.4
+ Informe de puesta en funcionamiento de tanatorios.
+ 134,57
+ 2.5
+ Informe sobre el proyecto de construcción de crematorios.
+ 47,65
+ 2.6
+ Informe de puesta en funcionamiento de crematorios.
+ 105,05
+Se modifica por la disposición final 1.31 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se suprime el apartado 3.5 por la disposición final 1.9 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se añaden los apartados 3.6 y 3.7 por la disposición final 4.10 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 351 bis
+
+Artículo 351 bis. Bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 352
+
+Artículo 352. Devengo y pago.
+La tasa se devengará en el momento de la presentación de la solicitud que motive el servicio o la actuación administrativa que constituya el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se modifica por la disposición final 1.21 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO II
+
+Tasa por los servicios de inscripción en el Registro general sanitario de empresas alimentarias y alimentos
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 353
+
+Artículo 353. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la comunicación previa o de la solicitud de autorización de empresas y establecimientos del sector alimentario para la inscripción en el Registro general sanitario de empresas alimentarias y alimentos.
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 354
+
+Artículo 354. Sujeto pasivo.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se presten los servicios previstos en el hecho imponible.
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 355
+
+Artículo 355. Cuantía.
+La cuota tributaria de esta tasa se fijará de acuerdo con las siguientes tarifas:
+1. Empresas y establecimientos del sector alimentario cuya actividad esté sujeta a autorización previa de acuerdo con el Reglamento (CE) 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal.
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 1.1
+ Solicitud de autorización por inscripción inicial de las actividades de la categoría 1 (fabricación, elaboración o transformación).
+ 278,70 €
+ 268,50 €
+ 1.2
+ Solicitud de autorización para la inscripción inicial de otras actividades diferentes a la fabricación, elaboración o transformación.
+ 139,44 €
+ 129,24 €
+ 1.3
+ Solicitud de autorización de cambio de titular.
+ 107,92 €
+ 101,67 €
+ 1.4
+ Solicitud de autorización de ampliación de actividad.
+ 107,92 €
+ 101,67 €
+ 1.5
+ Solicitud de autorización de cambio de domicilio industrial para actividades de la categoría 1 (fabricación, elaboración o transformación).
+ 270,39 €
+ 264,14 €
+ 1.6
+ Solicitud de autorización de cambio de domicilio industrial de otras actividades diferentes a la fabricación, elaboración o transformación.
+ 131,13 €
+ 124,88 €
+ 1.7
+ Solicitud de autorización de cambio de domicilio social.
+ 20,00 €
+ 16,44 €
+ 1.8
+ Solicitud de autorización de ampliación de instalaciones.
+ 107,92 €
+ 101,67 €
+ 1.9
+ Solicitud de autorización de anotación de almacén.
+ 68,11 €
+ 64,54 €
+ 1.10
+ Solicitud de autorización de cambio de denominación social.
+ 20,00 €
+ 16,44 €
+2. Empresas y establecimientos del sector alimentario cuya actividad está sujeta a comunicación previa.
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 2.1
+ Comunicación previa por inscripción inicial de las actividades de la categoría 1 (fabricación, elaboración o transformación).
+ 277,68 €
+ 268,50 €
+ 2.2
+ Comunicación previa para la inscripción inicial de otras actividades diferentes a la fabricación, elaboración o transformación.
+ 138,42 €
+ 129,24 €
+ 2.3
+ Comunicación previa de cambio de titular.
+ 107,92 €
+ 101,67 €
+ 2.4
+ Comunicación previa de ampliación de actividad.
+ 107,92 €
+ 101,67 €
+ 2.5
+ Comunicación previa de cambio de domicilio industrial categoría 1 (fabricación, elaboración o transformación).
+ 270,39 €
+ 264,14 €
+ 2.6
+ Comunicación previa de cambio de domicilio industrial de otras actividades diferentes a la fabricación, elaboración o transformación.
+ 131,13 €
+ 124,88 €
+ 2.7
+ Comunicación previa de cambio de domicilio social.
+ 20,00 €
+ 16,44 €
+ 2.8
+ Comunicación previa de ampliación de instalaciones.
+ 107,92 €
+ 101,67 €
+ 2.9
+ Comunicación previa de anotación de almacén.
+ 68,11 €
+ 64,55 €
+ 2.10
+ Comunicación previa de cambio de denominación social.
+ 20,00 €
+ 16,44 €
+3. Emisión de certificados sobre los datos inscritos: 10,00 €.
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.10 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifican los apartados 3 y 4 por el art. 4.1 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se modifica el apartado 5 y se añade el 6 por el art. 27.9 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 355 bis
+
+Artículo 355 bis. Bonificaciones.
+1. Se aplicará una bonificación del 100 % a la cuota tributaria cuando se verifique cualquiera de los conceptos a que se refieren los puntos 1.1, 1.2, 1.4, 2.1, 2.2 y 2.4 del artículo 355 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 1.11 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 356
+
+Artículo 356. Devengo y pago.
+La tasa se devengará en el momento de la presentación de la solicitud que motive el servicio o la actuación administrativa que constituya el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se modifica por la disposición final 1.22 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO III
+
+Tasa por los servicios de tramitación de autorizaciones administrativas a los centros, establecimientos servicios sanitarios
+
+### Artículo 357
+
+Artículo 357. Hecho imponible.
+Constituirá el hecho imponible de la tasa la prestación, por parte de la consejería competente en materia de sanidad, de los servicios que se indican en el artículo 359 de esta ley, prestados en ejercicio de las funciones que establece el Decreto 100/2010, de 27 de agosto, por el que se regula el procedimiento de autorización sanitaria de los centros, servicios y establecimientos sanitarios y el funcionamiento del Registro de centros, servicios y establecimientos sanitarios de las Illes Balears, o norma que lo sustituya.
+Se modifica por la disposición final 5.15 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 358
+
+Artículo 358. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+
+### Artículo 359
+
+Artículo 359. Cuantía.
+1. Inspección previa al otorgamiento o la denegación de los permisos de funcionamiento y por cada inspección posterior: 85,29 euros.
+2. Certificado sanitario o renovación de los certificados de los vehículos de transporte sanitario: 47,59 euros.
+3. Comunicación de distribución de productos sanitarios y comunicación de venta de productos sanitarios (sin inspección): 32,33 euros.
+4. Autorización de licencias de fabricación de productos sanitarios a medida (protéticos dentales, ortoprotéticos y otros fabricados a medida), con inspección preceptiva: 153,96 euros.
+5. Autorización de instalación de centros con internamiento: 81,70 euros.
+6. Autorización y renovación de funcionamiento de centros con internamiento: 280,16 euros.
+7. Autorización y renovación de funcionamiento de centros sin internamiento: 160,72 euros.
+8. Autorización y renovación de funcionamiento de establecimientos sanitarios: 153,96 euros.
+9. Modificaciones por ampliaciones de servicios de centros con y sin internamiento y de establecimientos sanitarios: 125,77 euros.
+10. Modificaciones por reformas de centros con y sin internamiento y de establecimientos sanitarios: 125,77 euros.
+11. Modificaciones por cambio de titular de centros con y sin internamiento y de establecimientos sanitarios: 21,29 euros.
+12. Autorización y renovación de funcionamiento de los servicios de asistencia sanitaria no vinculados a centros: 66,15 euros.
+13. Autorización y renovación de servicios sanitarios: 148,32 euros.
+14. Autorización de cierre de centros con internamiento: 135,13 euros.
+15. Acreditación de hospitales especializados, de hospitales de media y larga estancia y de hospitales de salud mental y toxicomanías, y acreditación de unidades de gestión clínica y de institutos sanitarios: 636,36 euros.
+16. Acreditación de hospitales generales de entre 15 y 100 camas: 798,14 euros.
+17. Acreditación de hospitales generales de más de 100 camas: 1.209,26 euros.
+18. Autorización de órganos, células y tejidos con inspección preceptiva:
+a) Autorización de actividad en los centros de obtención de células, tejidos y órganos y su renovación: 233,32 euros.
+b) Autorización de actividad en los establecimientos de tejidos y su renovación: 233,32 euros.
+c) Autorización de la aplicación de células, tejidos y trasplantes de órganos y su renovación: 233,32 euros.
+19. Autorización de biobancos con inspección preceptiva y su renovación: 233,32 euros.
+Se añaden los apartados 18 y 19 por la disposición final 5.16 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 1.12 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por la disposición final 4.11 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 359 bis
+
+Artículo 359 bis. Bonificaciones.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por la disposición final 1.23 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 360
+
+Artículo 360. Devengo.
+La tasa se devengará con la realización del hecho imponible, si bien el pago se podrá exigir en el momento de hacer el interesado la solicitud del servicio.
+
+## CAPÍTULO IV
+
+Tasa por los servicios de control sanitario a entidades de seguro libre de asistencia médico-farmacéutica
+
+### Artículo 361
+
+Artículo 361. Hecho imponible.
+Constituye el hecho imponible de la tasa los servicios de control sanitario prestados a las entidades que tienen como finalidad la cobertura libre y voluntaria del riesgo de asistencia sanitaria y farmacéutica, conjunta o aisladamente.
+
+### Artículo 362
+
+Artículo 362. Sujeto pasivo.
+Son sujetos pasivos de la tasa las entidades de seguro libre de asistencia médico-farmacéutica a las que se presta el servicio y por las actividades que llevan a término en las islas Baleares.
+
+### Artículo 363
+
+Artículo 363. Cuantía.
+El 2 por 1.000 de las primas recaudadas por las entidades.
+
+### Artículo 364
+
+Artículo 364. Devengo.
+La tasa se devengará con la realización de los servicios de control a que se refiere el hecho imponible.
+
+## CAPÍTULO V
+
+Tasa por servicios administrativos relacionados con el control de las piscinas de uso público
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.13 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 365
+
+Artículo 365. Hecho imponible.
+Constituirán el hecho imponible de la tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la comunicación de la puesta en funcionamiento de una piscina y de la modificación de los datos de dicha comunicación; la tramitación de la diligencia del libro registro para la anotación de las mediciones diarias de agua, y el autocontrol de las piscinas de uso público, de acuerdo con el Decreto 53/1995, de 18 de mayo, por el que se aprueban las condiciones higiénico-sanitarias de las piscinas de los establecimientos de alojamiento turístico y las de uso colectivo, y con el Real Decreto 742/2013, de 27 de septiembre, por el que se establecen los criterios técnico-sanitarios de las piscinas; así como la tramitación de las autorizaciones relativas a las entidades formadoras de personal socorrista de piscinas y de mantenimiento de piscinas, y la expedición de los correspondientes carnés.
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 366
+
+Artículo 366. Sujeto pasivo.
+Serán sujetos pasivos de la tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se presten los servicios previstos en el hecho imponible.
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 367
+
+Artículo 367. Cuantía.
+La cuota tributaria de la presente tasa se determinará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Diligencia del libro registro para la anotación de las mediciones diarias de agua y autocontrol.
+ 21,61
+ 2
+ Expedición del carné de socorrista de piscinas.
+ 4,37
+ 3
+ Expedición del carné de mantenimiento de piscinas.
+ 4,37
+ 4
+ Solicitud de autorización para impartir formación al personal socorrista de piscinas.
+ 183,75
+ 5
+ Solicitud para impartir formación al personal de mantenimiento de piscinas.
+ 183,75
+ 6
+ Gestión de un curso de formación finalizado.
+ 52,50
+ 7
+ Solicitud de convalidación de la formación.
+ 42,65
+ 8
+ Solicitud de duplicado de carné.
+ 21,88
+ 9
+ Comunicación previa al funcionamiento de una piscina.
+ 107,05
+ 10
+ Comunicación de cambio de explotador de una piscina.
+ 7,77
+ 11
+ Comunicación de modificación de relación de profesorado del curso de formación.
+ 11,19
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se suprimen los apartados 2 y 7 por la disposición final 1.14 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por la disposición final 4.12 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 367 bis
+
+Artículo 367 bis. Bonificaciones.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifique el concepto a que se refiere el apartado 9 del artículo 367 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 1.15 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 368
+
+Artículo 368. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se modifica por la disposición final 1.24 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO VI
+
+Tasa por los servicios de acreditación de laboratorios que realizan pruebas periciales analíticas y de control de calidad en materia de protección al consumidor
+
+### Artículo 369
+
+Artículo 369. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación que se realiza por la Consejería de Sanidad y Consumo de los servicios de acreditación previstos en la Orden del Consejero de Sanidad y Consumo, con fecha de 16 de octubre de 1996.
+
+### Artículo 370
+
+Artículo 370. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a las que se prestan los servicios.
+
+### Artículo 371
+
+Artículo 371. Cuantía.
+1. Acreditación de un producto, grupo de productos o de una determinación o ensayo definido: 79.500 pesetas.
+2. Renovación de la acreditación: 26.500 pesetas.
+3. Reconocimiento de la acreditación de otra Comunidad Autónoma: 26.500 pesetas.
+
+### Artículo 372
+
+Artículo 372. Devengo.
+La tasa se devengará con la realización del hecho imponible, si bien el pago podrá ser exigido en el momento de hacer los interesados la solicitud del servicio.
+
+## CAPÍTULO VII
+
+Tasa por los servicios de controles oficiales adicionales en materia de seguridad alimentaria
+Se modifica por la disposición final 1.25 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por el art. 27.10 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 373
+
+Artículo 373. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa los controles oficiales adicionales que se realicen como consecuencia de la detección de deficiencias en los controles oficiales regulares efectuados en los establecimientos del sector alimentario, de acuerdo con el Reglamento (CE) núm. 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales.
+Se modifica por la disposición final 1.25 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por el art. 27.11 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 374
+
+Artículo 374. Sujeto pasivo.
+Serán sujetos pasivos de la tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, titulares de los establecimientos o las empresas a los que se realicen los controles oficiales o se presten los servicios previstos en el hecho imponible.
+Se modifica por la disposición final 1.25 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 375
+
+Artículo 375. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas según el tipo de control oficial adicional que se realice:
+Concepto
+ Euros
+ 1
+ Visita de inspección adicional.
+ 48,10
+ 2
+ Visita de auditoría adicional del sistema de autocontrol a establecimientos no elaboradores, fabricantes o transformadores inscritos en el Registro general sanitario de empresas alimentarias y alimentos, o a establecimientos inscritos exclusivamente en el Registro de empresas, establecimientos y productos del sector alimentario de las Illes Balears.
+ 106,13
+ 3
+ Visita de auditoría adicional del sistema de autocontrol a establecimientos que elaboran, fabrican o transforman inscritos en el Registro general sanitario de empresas alimentarias y alimentos.
+ 245,35
+ 4
+ Informe adicional de evaluación de acciones correctoras.
+ 58,01
+ 5
+ Comprobación documental adicional.
+ 23,21
+Se modifica por la disposición final 1.25 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.16 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica el apartado 3 por el art. 23 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica el apartado 1 y se suprime el 2 por el art. 4.2 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se modifica el apartado 1 por el art. 27.12 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 375 bis
+
+Artículo 375 bis. Bonificaciones.
+1. La utilización por parte del sujeto pasivo de medios telemáticos en sus relaciones con la Administración representa una bonificación del 50% de la cuota tributaria de la tasa.
+2. Asimismo, se tiene que aplicar una bonificación del 25% en la cuota tributaria cuando se disponga de un sistema de contacto permanente con la Administración, a través de teléfono móvil, para la gestión de las alertas alimenticias.
+Se añade por la disposición final 1.17 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 376
+
+Artículo 376. Devengo y pago.
+La tasa se devengará cuando los servicios de inspección realicen la visita de inspección y la auditoría del programa de seguridad alimentaria, emitan el informe de evaluación de acciones correctoras o revisen la documentación. El pago de la tasa se realizará mediante el ingreso de la liquidación que emita la administración.
+Se modifica por la disposición final 1.25 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO VIII
+
+Tasa por la prestación de servicios relacionados con la Dirección General de Prestaciones y Farmacia
+Se modifica por la disposición final 1.5 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 5.17 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 27.13 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 377
+
+Artículo 377. Hecho imponible.
+Constituye el hecho imponible de esta tasa los servicios prestados por la Dirección General de Prestaciones y Farmacia que se detallan en el artículo 379 de esta ley.
+Se modifica por la disposición final 1.5 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 378
+
+Artículo 378. Sujeto pasivo.
+1. Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, a quienes se prestan los servicios.
+2. En el supuesto que prevé el apartado 1 del artículo siguiente es sujeto pasivo la persona física que solicita participar en el concurso público para la adjudicación de una farmacia previamente autorizada.
+3. En caso de que varias personas soliciten participar conjuntamente en el concurso público para la adjudicación de una farmacia previamente autorizada, cada uno de los solicitantes es considerado sujeto pasivo, y se tiene que meritar íntegramente a cargo de cada uno la cuota tributaria de las tasas.
+4. En los supuestos que prevén los apartados 2 y 3 del artículo siguiente, cuando varias personas hayan participado conjuntamente en el concurso público y hayan obtenido en su favor la adjudicación de una farmacia, únicamente se tiene que meritar una cuota tributaria para el conjunto de los solicitantes.
+Se modifica por la disposición final 1.5 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por el art. 2.1 de la Ley 1/2015, de 19 de febrero. Ref. BOE-A-2015-2389
+ Se modifica por el art. 2.1 del Decreto-ley 1/2014, de 14 de noviembre. Ref. BOE-A-2015-1060
+
+### Artículo 379
+
+Artículo 379. Cuantía.
+La cuota tributaria de esta tasa se exigirá de acuerdo con las siguientes tarifas, en euros:
+1. Solicitud para participar en el concurso público para la adjudicación de una farmacia previamente autorizada:
+a) Cuando en el procedimiento de concurso se convoquen hasta 5 oficinas de farmacia: 523,91.
+b) Cuando en el procedimiento de concurso se convoquen de 6 a 10 oficinas de farmacia: 1.047,83.
+c) Cuando en el procedimiento de concurso se convoquen de 11 a 15 oficinas de farmacia: 1.571,72.
+d) Cuando en el procedimiento de concurso se convoquen más de 15 oficinas de farmacia: 2.095,63.
+2. Solicitud de autorización del local designado para la instalación de una oficina de farmacia: 467,68.
+3. Solicitud de apertura y puesta en funcionamiento de una oficina de farmacia: 93,55.
+4. Solicitud de autorización de traslado o de obras de modificación de una oficina de farmacia: 638,15.
+5. Solicitud de autorización de transmisión de una oficina de farmacia: 1.146,03.
+6. Solicitud de autorización de funcionamiento de servicios o depósitos de medicamentos en mutuas, centros de cirugía ambulatoria y centros de interrupción voluntaria del embarazo: 93,55.
+7. Solicitud de autorización de almacén distribuidor de medicamentos de uso humano y/o almacén distribuidor de medicamentos de uso veterinario: 282,46.
+8. Solicitud de autorización de establecimiento comercial al detalle de medicamentos de uso veterinario: 205,35.
+9. Solicitud de autorización de establecimiento de un botiquín farmacéutico: 432,48.
+10. Solicitud de autorización de cierre definitivo de oficina de farmacia: 315,17.
+11. Comunicación de obras de oficina de farmacia que no suponen modificación: 246,31.
+12. Autorización o renovación de elaboración de fórmulas magistrales a terceros: 80,62.
+13. Autorización o renovación de elaboración de los niveles de formulación magistral: 80,62.
+14. Solicitud de autorización o renovación de una sección de oficina de farmacia (óptica, ortopedia, análisis clínicos, dietética y nutrición): 246,31.
+15. Solicitud de autorización de un servicio de farmacia sociosanitario privado: 140,76.
+16. Solicitud de autorización de un depósito de medicamentos sociosanitario privado: 110,69.
+17. Solicitud de traslado de fabricantes de productos sanitarios a medida: 117,60.
+18. Solicitud de traslado de distribuidores de productos sanitarios: 117,60.
+19. Certificación en buenas prácticas de distribución de medicamentos de uso humano: 564,84.
+20. Certificación en normas de correcta fabricación de medicamentos: 564,84.
+21. Solicitud de modificación de la autorización de una entidad de distribución de medicamentos de uso humano: 219,04.
+22. Solicitud de autorización por el traslado de una entidad de distribución de medicamentos de uso humano: 219,04.
+23. Solicitud de autorización por cierre de una entidad de distribución de medicamentos de uso humano: 155,62.
+24. Comunicación de botiquines veterinarios: 85,07.
+25. Solicitud de autorización por el traslado de un almacén de mayoristas veterinarios: 205,35.
+26. Solicitud de autorización por cierre de un almacén de mayoristas veterinarios: 85,07.
+27. Solicitud de autorización por el traslado de un comercial detallista veterinario: 205,35.
+28. Solicitud de autorización por cierre de un comercial detallista veterinario: 85,07.
+29. Comunicación de venta de medicamentos veterinarios sin prescripción: 56,04€.
+Se añade el apartado 29 por la disposición adicional 6 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.5 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se deja sin contenido el apartado 1 y se modifica el 2 por el art. 2.2 de la Ley 1/2015, de 19 de febrero. Ref. BOE-A-2015-2389
+ Se deja sin contenido el apartado 1 y se modifica el 2 por el art. 2.2 del Decreto-ley 1/2014, de 14 de noviembre. Ref. BOE-A-2015-1060
+ Se añaden los apartados 8 a 10 por la disposición final 5.18 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por la disposición final 4.13 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifican los apartados 2 y 6 y se suprime el 5 por el art. 27.14 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 379 bis
+
+Artículo 379 bis. Bonificaciones.
+1. Se aplicará una bonificación del 100 % a la cuota tributaria cuando se verifique cualquiera de los conceptos a los que se refieren los puntos 8, 9 y 10 del artículo 379 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario
+Se modifica el apartado 1 por la disposición final 2.29 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 1.26 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 380
+
+Artículo 380. Devengo.
+La tasa se devenga cuando se presenta la solicitud o comunicación correspondiente, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se modifica por la disposición final 1.5 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+## CAPÍTULO IX
+
+Tasa por otras actuaciones sanitarias
+
+### Artículo 381
+
+Artículo 381. Hecho imponible.
+Constituye el hecho imponible la emisión de informes, certificaciones, el estudio de proyectos, las declaraciones de interés sanitario, el reconocimiento de títulos de formaciones profesionales sanitarias a los ciudadanos de la Unión Europea y de los países firmantes del Acuerdo sobre el Espacio Económico Único Europeo o la tramitación de cualquier expediente a instancia de parte no incluido en los conceptos anteriores.
+Se modifica por el art. 27.15 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 382
+
+Artículo 382. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación del servicio.
+
+### Artículo 383
+
+Artículo 383. Cuantía.
+La cuota tributaria de esta tasa se determinará según las tarifas siguientes:
+1. Emisión de informes que supongan estudio o examen de proyectos o expedientes: 40,00 euros
+2. Certificados, visados y compulsas de documentos: 20,00 euros
+3. (Sin contenido).
+4. Declaración de interés sanitario: 38,21 euros
+5. Reconocimiento de títulos de formaciones profesionales sanitarias a ciudadanos de la Unión Europea o de los países firmantes del Acuerdo sobre el Espacio Económico Único Europeo: 38,21 euros
+6. Emisión de informes que supongan el estudio o el examen de proyectos o de expedientes con visita de inspección: 93 euros.
+Se deja sin contenido el punto 3 por el art. 7.1 del Decreto-ley 14/2020, de 9 de diciembre. Ref. BOE-A-2021-906
+ Se añade el apartado 6 por la disposición final 4.14 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica por el art. 27.16 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 384
+
+Artículo 384. Devengo.
+La tasa se devengará con la realización del hecho imponible, si bien el pago se podrá hacer cuando se presente la solicitud del servicio por los interesados.
+
+## CAPÍTULO X
+
+Tasa por los servicios de los laboratorios de salud pública de la Consejería de Sanidad y Consumo
+
+### Artículo 385
+
+Artículo 385. Hecho imponible.
+Constituye el hecho imponible de la tasa las pruebas y los análisis efectuados en los laboratorios de salud pública de la Consejería de Sanidad y Consumo consignados en el apartado de las tarifas, en el caso de que los servicios se realicen por disposición normativa expresa o cuando se efectúen de oficio por la Administración.
+
+### Artículo 386
+
+Artículo 386. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas, públicas o privadas, receptoras del servicio de laboratorio.
+
+### Artículo 387
+
+Artículo 387. Cuantía.
+1. La cuota tributaria de esta tasa se determinará de acuerdo con las siguientes tarifas:
+a) Análisis microbiológicos de alimentos.
+Conceptos
+ Euros
+ Recuento de microorganismos cultivables a 30 ºC, estafilococos coagulasa positivos, Clostridium perfringens, enterobacterias, bacterias coliformes, Escherichia coli (precio por parámetro).
+ 28,23
+ Recuento de Listeria monocytogenes.
+ 60,77
+ Recuento de otros microorganismos no especificados (precio por parámetro).
+ 44,51
+ Detección de Salmonellaspp., detección de Listeria monocytogenes por método ISO (precio por parámetro).
+ 60,77
+ Detección de Salmonellaspp., detección de Listeria monocytogenes por método ELFA (precio por parámetro).
+ 31,44
+ Detección de nematodos de la familia Anisakidae.
+ 23,39
+ Detección de larvas de triquina.
+ 23,39
+b) Análisis microbiológicos de aguas.
+Conceptos
+ Euros
+ Recuento de microorganismos cultivables a 22 ºC, microorganismos cultivables a 36 ºC, bacterias coliformes y Escherichia coli, Clostridium perfringens, enterococos intestinales, Pseudomonas aeruginosa (precio por parámetro).
+ 16,93
+ Investigación y recuento de Legionellaspp.
+ 75,90
+ Detección de Salmonellaspp.
+ 60,77
+c) Análisis fisicoquímicos de aguas.
+Conceptos
+ Euros
+ Determinación de pH, color, olor, turbiedad, conductividad, amonio, cianuro, oxidabilidad, cloro libre residual, cloro combinado residual, alcalinidad, calcio, magnesio (precio por parámetro).
+ 11,65
+ Determinación de dureza (incluye calcio y magnesio).
+ 34,95
+ Determinación del índice de Langelier (incluye pH, conductividad, alcalinidad y calcio).
+ 46,60
+ Determinación de aniones inorgánicos (precio por parámetro).
+ 23,07
+ Determinación de aniones inorgánicos (precio por grupo analítico).
+ 92,29
+ Determinación de compuestos orgánicos por GC/LC (precio por parámetro).
+ 84,63
+ Determinación de compuestos orgánicos por GC/LC (precio por grupo analítico).
+ 134,39
+ Determinación de elementos metálicos por ICP-MS (precio por parámetro).
+ 64,39
+ Determinación de elementos metálicos por ICP-MS (precio por grupo analítico).
+ 253,14
+d) Análisis fisicoquímicos de alimentos.
+Conceptos
+ Euros
+ Determinación de contaminantes y residuos zoosanitarios por LC-MS/MS (precio por parámetro).
+ 239,96
+ Determinación de contaminantes y residuos zoosanitarios por LC-MS/MS (precio por grupo analítico).
+ 294,01
+ Determinación de contaminantes por LC-FLD (precio por parámetro).
+ 164,35
+ Determinación de contaminantes por LC-FLD (precio por grupo analítico).
+ 190,30
+ Determinación de elementos metálicos por ICP-MS (precio por parámetro).
+ 82,79
+ Determinación de elementos metálicos por ICP-MS (precio por grupo analítico).
+ 160,68
+ Determinación de alérgenos por EIA (precio por parámetro).
+ 135,93
+ Determinación de la humedad.
+ 11,65
+e) Agrupaciones analíticas de análisis de aguas.
+Conceptos
+ Euros
+ Análisis mínimo (recuento de bacterias coliformes y Escherichia coli, enterococos intestinales, pH, conductividad, cloruros, nitratos).
+ 103,30
+ Análisis de control microbiológico (recuento de microorganismos cultivables a 22 ºC, bacterias coliformes y Escherichia coli, enterococos intestinales, Clostridium perfringens).
+ 67,72
+ Análisis de control (recuento de microorganismos cultivables a 22 ºC, bacterias coliformes y Escherichia coli, enterococos intestinales, Clostridium perfringens, cloruros, color, conductividad, nitratos, olor, pH, sulfatos, turbiedad).
+ 195,18
+ Análisis químico completo (alcalinidad, amonio, cianuro libre, color, conductividad, índice de Langelier, olor, oxidabilidad, pH, turbiedad, aniones inorgánicos, elementos metálicos, compuestos volátiles, compuestos semivolátiles).
+ 730,71
+ Análisis completo (análisis de control microbiológico más análisis químico completo).
+ 798,43
+2. El importe final de la tasa por muestra se calcula mediante la suma de los análisis solicitados sobre esta. Cuando la analítica solicitada no figure en el apartado 1 de este artículo, se aplicará la cuantía de la tasa correspondiente al análisis de un parámetro o técnica de características similares.
+Se modifica por la disposición final 1.16 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se añade el último párrafo por la disposición final 1.9 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 1.27 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.18 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por el art. 27.17 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+ Redactado conforme a la corrección de errores publicada en BOIB núm. 57 de 14 de abril de 2005. BOE-A-2005-7991
+
+### Artículo 388
+
+Artículo 388. Devengo.
+La tasa se devengará con la prestación del servicio. Se puede exigir el pago en el momento en que el interesado formule la solicitud.
+
+## CAPÍTULO XI
+
+Tasa por la evaluación de ensayos clínicos con medicamentos y productos sanitarios, de estudios postautorización y de proyectos de investigación, así como de sus modificaciones sustanciales
+Se modifica por la disposición final 2.30 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 4.15 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se añade por el art. 9 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a9
+
+### Artículo 388 bis
+
+Artículo 388 bis. Tasa por la evaluación de ensayos clínicos con medicamentos y productos sanitarios, de estudios postautorización y de proyectos de investigación, así como de sus modificaciones sustanciales.
+1. Hecho imponible. Constituyen el hecho imponible de esta tasa las actuaciones administrativas para evaluar los ensayos clínicos con medicamentos y productos sanitarios, los estudios postautorización y los proyectos de investigación que se lleven a cabo en las Illes Balears, así como sus modificaciones sustanciales. A efectos de esta norma, se entiende por modificación sustancial el cambio de cualquier aspecto del estudio o el ensayo que pueda tener repercusiones importantes en la seguridad o los derechos de los sujetos del estudio o el ensayo o en la fiabilidad y solidez de los datos obtenidos.
+2. Sujeto pasivo y exenciones. El sujeto pasivo de esta tasa es la persona física o jurídica promotora de las actividades a las que se refiere el hecho imponible. Quedarán exentos del pago de la tasa los investigadores independientes, las entidades o sociedades científicas sin ánimo de lucro y las administraciones públicas.
+3. Cuantía. La cuota tributaria de esta tasa se fijará de acuerdo con las siguientes tarifas:
+Conceptos
+ Euros
+ Evaluación de estudios postautorización y de proyectos de investigación, y de sus modificaciones sustanciales
+ 590,62
+ Evaluación de ensayos clínicos con medicamentos y productos sanitarios (el CEI de las Illes Balears actúa como CEIm), y de sus modificaciones sustanciales
+ 754,68
+4. Devengo y pago. La tasa se devengará cuando se presente la solicitud para la prestación del servicio correspondiente a que se refiere el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. La tasa se pagará mediante el correspondiente documento de ingreso de autoliquidación, que deberá presentarse junto con la solicitud.
+Se modifica por la disposición final 2.30 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 4.15 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se añade por el art. 9 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a9
+
+## CAPÍTULO XII
+
+Tasa por los servicios relativos a la autorización, el reconocimiento y la renovación de cursos para formar al personal que realiza operaciones de mantenimiento higiénico y sanitario de instalaciones por riesgo de legionelosis
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 27.18 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 388 ter
+
+Artículo 388 ter. Tasa por los servicios relativos a la autorización, el reconocimiento y la renovación de cursos para formar al personal que realiza operaciones de mantenimiento higiénico y sanitario de instalaciones por riesgo de legionelosis.
+1. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, del procedimiento de autorización, reconocimiento o renovación de los cursos impartidos en las Illes Balears destinados a formar al personal que realiza operaciones de mantenimiento higiénico y sanitario de instalaciones por riesgo de legionelosis.
+2. Sujetos pasivos.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se prestan los servicios previstos en el hecho imponible.
+3. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Solicitud de autorización para impartir un curso de formación para el personal que realiza operaciones de mantenimiento higiénico y sanitario de instalaciones por riesgo de legionelosis.
+ 111,78
+ 2
+ Solicitud de renovación del curso de formación.
+ 70,72
+ 3
+ Solicitud de reconocimiento del curso.
+ 91,25
+ 4
+ Gestión de un curso de formación finalizado.
+ 19,39
+ 5
+ Certificado de formación supervisado.
+ 1,33
+ 6
+ Solicitud de autorización de modificación de profesorado.
+ 11,19
+4. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se añade por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se suprime por la disposición final 1.19 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se suprime el apartado 3.3 por el art. 4.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se añade por el art. 27.18 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## CAPÍTULO XIII
+
+Tasa por los servicios de supervisión de los planes de gestión de residuos sanitarios
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 27.19 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+### Artículo 388 quater
+
+Artículo 388 quater. Tasa por los servicios de supervisión de los planes de gestión de residuos sanitarios.
+1. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa los servicios que presta la Dirección General de Salud Pública y Consumo para la supervisión de los planes de gestión sobre residuos de las instalaciones sanitarias, así como la emisión de informes respecto de las solicitudes de autorización para la gestión de residuos sanitarios.
+2. Sujeto pasivo.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se presten los servicios previstos en el hecho imponible.
+3. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Solicitud de supervisión de los planes de gestión sobre residuos sanitarios.
+ 69,50
+ 2
+ Solicitud de informe respecto de las autorizaciones para la gestión de residuos sanitarios.
+ 140,27
+4. Bonificación.
+Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifique el concepto a que se refiere el punto 2 del apartado 3.º del presente artículo. En este caso no será necesario presentar la correspondiente declaración tributaria.
+5. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se suprime por la disposición final 1.19 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se suprime el apartado 3.4 por el art. 4.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se añade por el art. 27.19 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
+
+## CAPÍTULO XIV
+
+Tasa por los servicios de valoración epidemiológica del riesgo de exposición a una zoonosis con respecto a agresiones de animales domésticos
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 38.4 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 388 quinquies
+
+Artículo 388 quinquies. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa los servicios que presta la Dirección General de Salud Pública y Consumo para la valoración epidemiológica de agresiones de animales domésticos a personas que le sean notificadas.
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 38.4 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 388 sexies
+
+Artículo 388 sexies. Sujeto pasivo.
+Serán sujetos pasivos de la presente tasa los propietarios o poseedores de los animales agresores.
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 38.4 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 388 septies
+
+Artículo 388 septies. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Valoración de la agresión notificada.
+ 14,12
+ 2
+ Observación del animal agresor por parte de un veterinario oficial.
+ 114,33
+ 3
+ Toma de muestras para la investigación del virus de la rabia.
+ 495,75
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.20 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se suprime el apartado 3.4 por el art. 4.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se añade por el art. 38.4 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 388 octies
+
+Artículo 388 octies. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se modifica por la disposición final 1.28 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por el art. 38.4 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO XV
+
+Tasa por inscribirse en las pruebas selectivas para acceder a la categoría de personal estatutario al servicio de la sanidad pública autonómica
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 nonies
+
+Artículo 388 nonies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad administrativa derivada de la participación como aspirante a las pruebas selectivas para acceder a las categorías de personal estatutario convocadas por la consejería competente en materia de sanidad o por las entidades adscritas.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 decies
+
+Artículo 388 decies. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas físicas que soliciten participar como aspirantes en las pruebas selectivas.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 undecies
+
+Artículo 388 undecies. Devengo.
+1. La tasa se devengará en el momento de solicitar la inscripción. No obstante el importe de la tasa debe ingresarse antes de presentar la solicitud de inscripción.
+2. Se devolverá el importe de la tasa si la persona interesada resulta excluida de las pruebas selectivas convocadas. La solicitud de devolución debe presentarse en el registro del órgano que haya convocado el procedimiento de selección, en el plazo de veinte días naturales contados a partir del día siguiente a la fecha en que se publique en el Butlletí Oficial de les Illes Balears la relación definitiva de aspirantes excluidos.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 duodecies
+
+Artículo 388 duodecies. Exenciones y bonificaciones.
+1. Están exentas de pagar la tasa las personas con una discapacidad igual o superior al 33%.
+2. El personal estatutario al servicio de la sanidad pública autonómica que participe en las convocatorias de promoción interna tiene derecho a una bonificación del 50%.
+3. Las personas que se inscriban en las convocatorias para seleccionar personal estatutario temporal al servicio de la sanidad pública autonómica también tienen derecho a una bonificación del 50%.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 terdecies
+
+Artículo 388 terdecies. Cuantía.
+La tasa para inscribirse en las pruebas selectivas para el acceso a las diferentes categorías del personal estatutario al servicio de la sanidad pública autonómica respetará la misma estructura y cuantías que fija el artículo 61 de esta ley para la inscripción a las pruebas selectivas de personal al servicio de la Administración de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+### Artículo 388 quaterdecies
+
+Artículo 388 quaterdecies. Consignación de las cuantías en las convocatorias.
+Las cuantías exigibles como tasa se consignarán expresamente en las resoluciones que convoquen las pruebas selectivas correspondientes.
+Se añade por la disposición final 3.22 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
+
+## CAPÍTULO XVI
+
+Tasa por servicios del Registro Oficial de Empresas y Servicios Biocidas
+Se modifica por la disposición final 1.21 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se añade por la disposición final 4.16 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 quindecies
+
+Artículo 388 quindecies. Hecho imponible.
+Constituirán el hecho imponible de esta tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la solicitud de inscripción, o de sus modificaciones, en el Registro oficial de establecimientos y servicios biocidas de las Illes Balears; la tramitación de la solicitud de homologación de los cursos de capacitación para realizar tratamientos con biocidas; y la tramitación de la solicitud de expedición del carné de aplicador.
+Se modifica por la disposición final 1.29 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 2.1 de la Ley 3/2012, de 30 de abril. Ref. BOE-A-2012-7445#df-2
+ Se añade por la disposición final 4.16 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 sexdecies
+
+Artículo 388 sexdecies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los fabricantes, los comercializadores, los servicios de aplicación, los aplicadores y los usuarios y, en general, las personas naturales o jurídicas o las entidades del artículo 35.4 de la Ley general tributaria que utilicen, a petición propia o por imperativo de la ley, los servicios de la consejería que se citan en el anterior artículo.
+Se añade por la disposición final 4.16 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 septdecies
+
+Artículo 388 septdecies. Cuantía y bonificaciones.
+1. La cuota tributaria de la presente tasa se determinará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Solicitud de inscripción inicial en el Registro oficial de establecimientos y servicios biocidas de las Illes Balears.
+ 229,70
+ 2
+ Solicitud de cambio de titular de la inscripción en el Registro.
+ 16,32
+ 3
+ Solicitud de cambio de domicilio industrial.
+ 112,53
+ 4
+ Solicitud de ampliación de actividad.
+ 112,53
+ 5
+ Solicitud de homologación de cursos de capacitación.
+ 46,08
+ 6
+ Solicitud de expedición del carné de aplicador.
+ 4,22
+2. Se aplicará una bonificación del 100% en la cuota tributaria cuando se verifiquen los conceptos a los que se refieren los puntos 1 y 4 del apartado 1 del presente artículo.
+3. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se modifica el apartado 2 por la disposición final 1.11 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 1.30 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica por la disposición final 1.22 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se añade por la disposición final 4.16 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 octodecies
+
+Artículo 388 octodecies. Devengo y pago.
+La tasa se devengará cuando se preste el servicio o la actividad que constituye el hecho imponible. La tasa ha de exigirse en régimen de autoliquidación y se ingresará en el mismo momento de su devengo. No obstante, por los servicios prestados a instancia de parte, ha de efectuarse el previo depósito de su importe al mismo tiempo de la solicitud del servicio.
+Se añade por la disposición final 4.16 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XVII
+
+Tasa por determinados servicios relativos a instalaciones de agua de consumo humano
+Se añade por la disposición final 4.17 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 novodecies
+
+Artículo 388 novodecies. Hecho imponible.
+Constituirán el hecho imponible de la tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de las declaraciones responsables de las entidades gestoras de abastecimientos de agua de consumo humano o de cualquier otra actividad relacionada con estos abastecimientos y de su inscripción en el Registro creado por el Decreto 53/2012, de 6 de julio, sobre vigilancia sanitaria de las aguas de consumo humano de las Illes Balears; la emisión de informes sobre instalaciones de aguas de consumo humano, y la supervisión y el control de dichas instalaciones; y la tramitación de solicitudes de autorización sobre la frecuencia analítica y sobre la excepción temporal de analizar determinados valores paramétricos.
+Se modifica por la disposición final 1.31 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 4.17 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 vicies
+
+Artículo 388 vicies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los gestores públicos y privados responsables del suministro de agua de consumo humano y, en general, las personas naturales o jurídicas o las entidades del artículo 35.4 de la Ley general tributaria que utilicen, a petición propia o por imperativo de la ley, los servicios de la consejería indicados en el anterior artículo.
+Se añade por la disposición final 4.17 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 unvicies
+
+Artículo 388 unvicies. Cuantía y bonificaciones.
+1. La cuota tributaria de la presente tasa se determinará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ 1
+ Solicitud de informe sobre reforma o nueva construcción de instalaciones de agua de consumo humano.
+ 150,93
+ 2
+ Solicitud de supervisión de la puesta en funcionamiento de las instalaciones.
+ 150,93
+ 3
+ Solicitud de informe sobre cisternas o depósitos móviles.
+ 107,18
+ 4
+ Declaración responsable de inicio de actividad de una entidad gestora de agua de consumo humano.
+ 169,53
+ 5
+ Declaración responsable de cambio de titularidad.
+ 11,19
+ 6
+ Declaración responsable de ampliación de actividad.
+ 132,87
+ 7
+ Declaración responsable de ampliación de instalaciones.
+ 122,60
+ 8
+ Declaración responsable de cambio de domicilio industrial.
+ 7,77
+ 9
+ Solicitud de autorización para reducir la frecuencia analítica.
+ 47,12
+ 10
+ Solicitud de autorización de situación de excepción temporal de determinados valores paramétricos.
+ 70,72
+ 11
+ Costes derivados de las actividades adicionales de control oficial.
+ 112,34
+2. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifiquen los conceptos a que se refieren los puntos 4 y 6 del apartado 1 del presente artículo. En este caso no será necesario presentar la correspondiente declaración tributaria.
+Se modifica por la disposición final 1.32 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 4.17 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 duovicies
+
+Artículo 388 duovicies. Devengo y pago.
+1. Con carácter general, la tasa se devengará cuando se preste el servicio o la actividad que constituye el hecho imponible. La tasa se exigirá en régimen de autoliquidación y se ingresará en el mismo momento de su devengo. No obstante, por los servicios prestados a instancia de parte, se efectuará el depósito previo de su importe al mismo tiempo de la solicitud del servicio.
+2. En particular, por lo que se refiere a los costes derivados de las actividades de control oficial, la tasa se devengará cuando los servicios de inspección realicen la visita de inspección adicional. El pago de la tasa se realizará mediante el ingreso de la liquidación que emita la administración.
+Se modifica por la disposición final 1.33 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 4.17 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XVIII
+
+Tasa por los servicios de acreditación e inscripción y anotación en el Registro de entidades formadoras en el uso de desfibriladores externos semiautomáticos (DESA)
+Se añade por la disposición final 4.18 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 tervicies
+
+Artículo 388 tervicies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la acreditación y el registro de entidades formadoras de las personas y las entidades implicadas en los procesos de formación y/o utilización de desfibriladores externos semiautomáticos (DESA).
+Se añade por la disposición final 4.18 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 quatervicies
+
+Artículo 388 quatervicies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas o las entidades formadoras a que se refiere el artículo anterior.
+Se añade por la disposición final 4.18 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 quinvicies
+
+Artículo 388 quinvicies. Cuantía.
+La cuota tributaria de esta tasa se determina de acuerdo con las siguientes tarifas:
+1. Acreditación y registro de entidades formadoras: 77,70 euros.
+2. Inspección (por cada visita de inspección): 79,18 euros.
+Se añade por la disposición final 4.18 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 sexvicies
+
+Artículo 388 sexvicies. Devengo y pago.
+La tasa se devengará cuando se realice el hecho imponible, pese a que el pago puede exigirse en el momento en que la persona o entidad interesada haga la solicitud.
+Se añade por la disposición final 4.18 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XIX
+
+Tasa por los servicios de inscripción y anotación en el Registro de desfibriladores externos semiautomáticos (DESA)
+Se añade por la disposición final 4.19 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 septvicies
+
+Artículo 388 septvicies. Hecho imponible.
+Constituye el hecho imponible de esta tasa el Registro de desfibriladores externos semiautomáticos (DESA).
+Se añade por la disposición final 4.19 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 octovicies
+
+Artículo 388 octovicies. Sujetos pasivos.
+Son sujetos pasivos de esta tasa la persona o la entidad titular del establecimiento que disponga de un desfibrilador externo semiautomático (DESA).
+Se añade por la disposición final 4.19 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 novovicies
+
+Artículo 388 novovicies. Cuantía y bonificación.
+1. La cuota tributaria de estas tasas se determina de acuerdo con la siguiente tarifa:
+— Inscripción en el Registro para cada uno de los desfibriladores externos semiautomáticos (DESA), así como las modificaciones: 13,09 euros.
+2. En ambos casos se aplicará una bonificación del 100% a la cuota tributaria.
+Se modifica por la disposición final 1.32 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se añade por la disposición final 4.19 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 tricies
+
+Artículo 388 tricies. Devengo y pago.
+La tasa se devengará cuando se realice el hecho imponible, pese a que el pago puede exigirse en el momento en que la persona o la entidad interesada haga la solicitud.
+Se añade por la disposición final 4.19 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XX
+
+Tasa por los servicios de homologación de cursos para el uso de desfibriladores externos semiautomáticos (DESA)
+Se añade por la disposición final 4.20 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 untricies
+
+Artículo 388 untricies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la homologación de cursos para el uso de desfibriladores externos semiautomáticos (DESA).
+Se añade por la disposición final 4.20 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 duotricies
+
+Artículo 388 duotricies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas o las entidades interesadas en la homologación de cursos.
+Se añade por la disposición final 4.20 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 tertricies
+
+Artículo 388 tertricies. Cuantía.
+La cuota tributaria de esta tasa se determinará de acuerdo con la siguiente tarifa:
+Homologación de curso para el uso de los desfibriladores externos semiautomáticos (DESA): 31,57 euros.
+Se añade por la disposición final 4.20 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Artículo 388 quatertricies 
+
+Artículo 388 quatertricies. Devengo y pago.
+La tasa se devengará cuando se realice el hecho imponible, pese a que el pago puede exigirse en el momento en que la persona o la entidad interesada haga la solicitud.
+Se añade por la disposición final 4.20 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+## CAPÍTULO XXI
+
+Tasa por inspecciones y controles sanitarios de animales y sus productos
+Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 quintricies
+
+Artículo 388 quintricies. Hecho imponible.
+Constituye el hecho imponible de esta tasa la actividad de inspección y de control sanitarios oficiales ante mortem y post mortem de animales sacrificados, el control sanitario de las operaciones de despedazamiento, el control sanitario de las instalaciones de transformación de la caza, el control de la producción láctea y el control de la producción y la comercialización de productos de la pesca y la acuicultura.
+Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 sextricies
+
+Artículo 388 sextricies. Sujeto pasivo.
+Son sujetos pasivos de la tasa los titulares de los establecimientos, personas físicas o jurídicas, donde se lleven a cabo las actividades de sacrificio, despedazamiento o transformación de la caza; los productores lácteos y los productores y los comerciantes de los productos de la pesca y la acuicultura.
+Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 septricies
+
+Artículo 388 septricies. Cuantía.
+La cuota tributaria de esta tasa se fija de acuerdo con las siguientes tarifas:
+a) Inspección y control sanitarios oficiales ante mortem y post mortem de animales sacrificados (cuota por unidad):
+Bovinos pesados: 5,28 euros.
+Bovinos jóvenes: 2,11 euros.
+Solípedos y équidos: 3,17 euros.
+Porcinos de menos de 25 kg: 0,53 euros.
+Porcinos de peso igual o superior a 25 kg: 1,05 euros.
+Ovino y cabrío, peso en canal de menos de 12 kg: 0,16 euros.
+Ovino y cabrío, peso en canal igual o superior a 12 kg: 0,26 euros.
+Aves de corral del género Gallus y pintadas: 0,005070 euros.
+Patos y ocas: 0,010140 euros.
+Pavos: 0,026364 euros.
+Carne de conejo de granja: 0,005070 euros.
+b) Control sanitario de las operaciones de despedazamiento (cuota por tonelada de carne):
+Bovino, porcino, solípedos/équidos, ovino y cabrío: 2,11 euros.
+Aves de corral y conejos de granja: 1,58 euros.
+Caza, silvestre y de cría. Caza menor de pluma y de pelo: 1,58 euros.
+Caza, silvestre y de cría. Pájaros corredores –ratites– (avestruz, emú, ñandú): 3,17 euros.
+Caza, silvestre y de cría. Verracos y rumiantes: 2,11 euros.
+c) Control sanitario de las instalaciones de transformación de la caza (cuota por unidad/animal):
+Caza menor de pluma: 0,005070 euros.
+Caza menor de pelo: 0,010140 euros.
+Pájaros corredores (ratites): 0,527280 euros.
+Mamíferos terrestres. Verracos: 1,581840 euros.
+Mamíferos terrestres. Rumiantes: 0,527280 euros.
+d) Control de la producción láctea: 1,05 euros por 30 toneladas y, posteriormente, 0,53 euros por tonelada.
+e) Control de la producción y la comercialización de productos de la pesca y de la acuicultura:
+Primera comercialización de productos de la pesca y de la acuicultura, 1,05 euros por tonelada por las primeras 50 toneladas de cada mes, y 0,53 euros por tonelada adicional.
+Primera venta en la lonja, 0,53 euros por tonelada por las primeras 50 toneladas de cada mes, y 0,26 euros por tonelada adicional.
+Primera venta en caso de falta o de gradación insuficiente de frescor o medida de conformidad con los reglamentos (CEE) núm. 103/76 y (CEE) núm. 104/76, 1,05 euros por tonelada por las primeras 50 toneladas de cada mes, y 0,53 euros por tonelada adicional.
+Las tasas percibidas por las especias a que se refiere el anexo II del Reglamento (CEE) núm. 3703/85 no tienen que exceder de 50 euros por remesa.
+Se tienen que percibir 0,53 euros por tonelada de productos de la pesca y de la acuicultura transformados.
+Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 octotricies
+
+Artículo 388 octotricies. Bonificaciones.
+1. Se aplicarán las siguientes bonificaciones a los titulares de los establecimientos donde se realicen las actividades a las que se refiere este capítulo:
+a) Si el establecimiento cumple el 80 % o más, hasta el 100 %, del horario regular diurno (de lunes a viernes de 6:00 a 22:00 horas): un 20% de bonificación de la cuota tributaria.
+b) Si el establecimiento cumple entre el 50 % y el 80 % del horario regular diurno: un 10 % de bonificación de la cuota tributaria.
+c) Si el establecimiento dispone de personal de apoyo al control oficial (auxiliar y ayudantes): un 10 % de bonificación de la cuota tributaria.
+2. Las bonificaciones se concederán por resolución de la directora general de Salud Pública y Participación, a petición previa del sujeto pasivo, que deberá acreditar los requisitos indicados anteriormente.
+Se modifica por la disposición final 2.31 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por la disposición final 1.34 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica el primer párrafo por la disposición final 5.19 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 novotricies
+
+Artículo 388 novotricies. Devengo y pago.
+1. La tasa se devengará en el momento en que se realicen las actividades de inspección y control de establecimientos, y de control de la producción y de la comercialización.
+2. La tasa se exigirá en régimen de autoliquidación, entre los días 1 y 20 de los meses de enero, abril, junio y octubre referidos al trimestre natural anterior, salvo en los supuestos de alta o baja de la actividad, en los que estas circunstancias determinarán, respectivamente, el inicio y el final del periodo de liquidación. Para efectuar la autoliquidación podrá utilizarse el modelo publicado en la página web de la Consejería de Salud.
+3. Los órganos de la consejería competente en materia sanitaria ejercerán la gestión, la comprobación y la inspección de las obligaciones derivadas del devengo de la tasa. Además, podrán practicar las liquidaciones provisionales pertinentes con los datos, los elementos, los antecedentes o los documentos de todo tipo de que disponga la administración.
+Se modifica por la disposición final 2.32 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO XXII
+
+Tasa por los servicios de tramitación de la inscripción en el Registro de empresas, establecimientos y productos del sector alimentario de las Illes Balears sujetos a control oficial
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que este capítulo ya fue derogado por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 quadragies
+
+Artículo 388 quadragies. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la comunicación previa presentada por las empresas y los establecimientos minoristas del sector alimentario de las Illes Balears, y de la notificación de la primera puesta en el mercado de complementos alimenticios y de cualquier modificación que afecte a su etiquetado, para su inscripción en el Registro de empresas, establecimientos y productos del sector alimentario de las Illes Balears sujetos a control oficial, creado por el Decreto 99/2012, de 7 de diciembre.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la ey 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 unquadragies
+
+Artículo 388 unquadragies. Sujetos pasivos.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se prestan los servicios previstos en el hecho imponible.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 duoquadragies
+
+Artículo 388 duoquadragies. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+1. Empresas y establecimientos del sector alimentario.
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 1.1
+ Comunicación previa de inscripción inicial.
+ 73,11 €
+ 63,23 €
+ 1.2
+ Comunicación de cambio de titularidad.
+ 15,00 €
+ 10,76 €
+ 1.3
+ Comunicación de ampliación de actividad.
+ 63,11 €
+ 58,87 €
+ 1.4
+ Comunicación de cambio de domicilio industrial.
+ 63,11 €
+ 58,87 €
+ 1.5
+ Comunicación de cambio de domicilio social.
+ 15,00 €
+ 10,76 €
+ 1.6
+ Comunicación para inscribir una sucursal (establecimientos de clave EM-10).
+ 73,11 €
+ 58,87 €
+ 1.7
+ Comunicación de cambio de actividad.
+ 63,11 €
+ 58,87 €
+ 1.8
+ Comunicación de cambio de denominación comercial.
+ 15,00 €
+ 10,76 €
+ 1.9
+ Comunicación de subsanación de defectos.
+ 25,00 €
+ 15,12 €
+2. Complementos alimenticios.
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 2.1
+ Notificación de primera puesta en el mercado.
+ 81,42 €
+ 69,53 €
+ 2.2
+ Cambio de titular del producto.
+ 25,00 €
+ 18,48 €
+ 2.3
+ Cambio de nombre comercial del producto.
+ 2.4
+ Otros cambios de etiquetado.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 terquadragies
+
+Artículo 388 terquadragies. Bonificaciones.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifiquen los conceptos a que se refieren los puntos 1.1 y 1.3 del apartado 1 del artículo 388 duoquadragies de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 triquadragies
+
+Artículo 388 triquadragies. Bonificaciones.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifiquen los conceptos a que se refieren los puntos 1.1 y 1.3 del apartado 1 del artículo 388 duoquadragies de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 quaterquadragies
+
+Artículo 388 quaterquadragies. Devengo y pago.
+La tasa se devengará en el momento en el que se solicita el correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO XXIII
+
+Tasa por los servicios relativos a la tramitación de la comunicación de comercialización de los productos alimenticios destinados a una alimentación especial y de aguas minerales naturales
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que este capítulo ya fue derogado por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 quinquadragies
+
+Artículo 388 quinquadragies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la comunicación de la primera puesta en el mercado de los productos alimenticios destinados a una alimentación especial y de cualquier modificación que afecte a su etiquetado, y de la comunicación de las aguas minerales naturales que tengan que incluirse en la lista de aguas minerales naturales reconocidas en España que hay que comunicar a la Comisión Europea para su publicación en el Diario Oficial de la Unión Europea, así como cualquier modificación que afecte a las aguas incluidas en dicha lista, de acuerdo con su normativa específica de aplicación.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 sexquadragies
+
+Artículo 388 sexquadragies. Sujetos pasivos.
+Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las cuales se presten los servicios previstos en el hecho imponible.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 septquadragies
+
+Artículo 388 septquadragies. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 1
+ Comunicación de la primera puesta en el mercado de los productos alimenticios destinados a una alimentación especial.
+ 81,42 €
+ 69,53 €
+ 2
+ Comunicación inicial de aguas minerales naturales.
+ 81,42 €
+ 69,53 €
+ 3
+ Cambio de titular del producto alimenticio o de las aguas minerales naturales.
+ 25,00 €
+ 18,48 €
+ 4
+ Cambio de nombre comercial del producto alimenticio o de las aguas minerales naturales.
+ 5
+ Otros cambios de etiquetado.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 octoquadragies
+
+Artículo 388 octoquadragies. Bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 388 novoquadragies
+
+Artículo 388 novoquadragies. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se deroga por la disposición derogatoria única.3 de la Ley 13/2012, de 20 de noviembre. Ref. BOE-A-2013-355#ddunica
+ Téngase en cuenta que estos artículos ya fueron derogados por el Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se deroga por la disposición derogatoria única.3 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030
+ Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO XXIV
+
+Tasa por los servicios relativos a la expedición del certificado de competencia regulado en el Reglamento (CE) núm. 1099/2009 del Consejo, de 24 de septiembre de 2009, relativo a la protección de los animales en el momento de la matanza
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 quinquagies
+
+Artículo 388 quinquagies. Hecho imponible.
+Constituirá el hecho imponible de la presente tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la solicitud de expedición del certificado de competencia de bienestar animal en el sacrificio y operaciones conexas que regulan los artículos 7 y 21 del Reglamento (CE) núm. 1099/2009 del Consejo, de 24 de septiembre de 2009, relativo a la protección de los animales en el momento de la matanza.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 unquinquagies
+
+Artículo 388 unquinquagies. Sujetos pasivos.
+Serán sujetos pasivos de la tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la expedición del certificado de competencia.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 duoquinquagies
+
+Artículo 388 duoquinquagies. Cuantía.
+La cuantía de la tasa será de 17,73 euros por certificado.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 terquinquagies
+
+Artículo 388 terquinquagies. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la autoliquidación correspondiente, que se adjuntará a la solicitud del servicio.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXV
+
+Tasa por los servicios relativos a la homologación de los cursos de formación en materia de bienestar animal durante el sacrificio y las operaciones conexas en los mataderos
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 quaterquinquagies
+
+Artículo 388 quaterquinquagies. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa la tramitación, a cargo de la Dirección General de Salud Pública y Consumo, de la solicitud de homologación de los cursos de formación en materia de bienestar animal durante el sacrificio y las operaciones conexas en los mataderos, de acuerdo con el artículo 21 del Reglamento (CE) núm. 1099/2009 del Consejo, de 24 de septiembre de 2009, relativo a la protección de los animales en el momento de la matanza, así como el control posterior para comprobar la veracidad de la información aportada.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 quinquinquagies
+
+Artículo 388 quinquinquagies. Sujetos pasivos.
+Serán sujetos pasivos de la tasa las personas físicas y jurídicas, públicas o privadas, y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la homologación del curso de formación.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 sexquinquagies
+
+Artículo 388 sexquinquagies. Cuantía.
+La cuantía de la tasa será de 94,13 euros por solicitud de homologación.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 septquinquagies
+
+Artículo 388 septquinquagies. Devengo y pago.
+La tasa se devengará en el momento de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que se adjuntará a la solicitud del servicio.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXVI
+
+Tasa por los servicios relativos a la tramitación de la declaración responsable de los laboratorios de salud ambiental y de seguridad alimentaria de las Illes Balears y a la inscripción en el Registro
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 octoquinquagies
+
+Artículo 388 octoquinquagies. Hecho imponible.
+Constituirán el hecho imponible de la presente tasa la tramitación de la declaración responsable presentada por los titulares de los laboratorios de salud ambiental y de seguridad alimenticia de las Illes Balears, de acuerdo con el Decreto 24/2014, de 23 de mayo, por el que se regulan los requisitos que tienen que cumplir los laboratorios de salud ambiental y de seguridad alimenticia, el procedimiento de declaración responsable y el Registro de laboratorios de salud ambiental y seguridad alimenticia, así como la tramitación de las comunicaciones de las modificaciones de la inscripción en el Registro.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 novoquinquagies
+
+Artículo 388 novoquinquagies. Sujetos pasivos.
+Serán sujetos pasivos de la tasa las personas físicas y jurídicas, públicas o privadas, a las cuales se presten los servicios previstos en el hecho imponible.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 sexagies
+
+Artículo 388 sexagies. Cuantía.
+La cuota tributaria de la presente tasa se fijará de acuerdo con las siguientes tarifas:
+Concepto
+ Tramitación presencial
+ Tramitación telemática
+ 1
+ Declaración responsable de inicio de actividad.
+ 91,48 €
+ 80,26 €
+ 2
+ Comunicación de cambio de titularidad.
+ 13,28 €
+ 8,20 €
+ 3
+ Comunicación de cambio de domicilio del laboratorio.
+ 72,99 €
+ 67,91 €
+ 4
+ Comunicación de cambio de responsable técnico.
+ 13,28 €
+ 8,20 €
+ 5
+ Comunicación de cambio de cartera de servicios.
+ 80,19 €
+ 73,06 €
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 unsexagies
+
+Artículo 388 unsexagies. Bonificaciones.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifique el concepto imponible a que se refiere el punto 1 del artículo 388 sexagies de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 388 duosexagies
+
+Artículo 388 duosexagies. Devengo y pago.
+La tasa se devengará en el momento de la presentación de la solicitud del correspondiente servicio, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, en el momento de la presentación de la declaración o comunicación.
+Se añade por la disposición final 1.35 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+## CAPÍTULO XXVII
+
+Tasa por los servicios administrativos de gestión de las solicitudes de acreditación de actividades de formación continuada de las profesiones sanitarias
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 388 tersexagies
+
+Artículo 388 tersexagies. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las actuaciones administrativas que se realizan para resolver las solicitudes de acreditación de actividades de formación continuada de las profesiones sanitarias en las Illes Balears.
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 388 quatersexagies
+
+Artículo 388 quatersexagies. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, general tributaria, que organizan actividades de formación continuada de las profesiones sanitarias y que soliciten la acreditación de dichas actividades.
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 388 quinsexagies
+
+Artículo 388 quinsexagies. Cuantía.
+Esta tasa se exigirá de acuerdo con las siguientes cuotas fijas:
+Concepto
+ Euros
+ 1
+ Solicitud de acreditación de la primera edición de una actividad formativa presencial
+ 35,38
+ 2
+ Solicitud de acreditación de la primera edición de una actividad formativa no presencial o mixta
+ 39,88
+ 3
+ Solicitud de acreditación de ediciones sucesivas de actividades formativas presenciales, no presenciales o mixtas
+ 28,22
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 388 sexsexagies
+
+Artículo 388 sexsexagies. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la autoliquidación correspondiente, que se tiene que adjuntar a la solicitud.
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 388 septsexagies
+
+Artículo 388 septsexagies. Exenciones.
+Quedan exentas del pago de la tasa las actuaciones administrativas dirigidas a acreditar las actividades de formación continuada que tengan por destinatarios los profesionales sanitarios, solicitadas por:
+a) La Administración de la comunidad autónoma de las Illes Balears y las entidades integrantes del sector público autonómico.
+b) Las organizaciones sindicales y los colegios profesionales de las Illes Balears, siempre que las actividades formativas que quieran acreditar formen parte de un plan de formación continuada de las profesiones sanitarias y las personas destinatarias no tengan que pagar su matrícula.
+Se modifica la letra a) por la disposición final 2.33 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+## TÍTULO IX
+
+Consejerías competentes en materia de agricultura, industria y energía
+Se modifica por el art. 38.5 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO I
+
+Tasa por licencias de pesca
+
+### Artículo 389
+
+Artículo 389. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de las licencias que, conforme a la legislación vigente, son necesarias para practicar la pesca.
+
+### Artículo 390
+
+Artículo 390. Sujeto pasivo.
+1. Son sujetos pasivos de estas tasas quienes soliciten la expedición de licencias de pesca, previas las formalidades exigidas con esta finalidad.
+2.(Suprimido)
+Se suprime el apartado 2 por la disposición final 5.20 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 391
+
+Artículo 391. Cuantía.
+Las tasas de pesca se exigirán de acuerdo con las siguientes cuantías:
+a) Licencia de pesca marítima recreativa individual: 26,21 euros.
+b) Licencia de pesca submarina: 28,92 euros.
+c) Licencia de pesca marítima recreativa para embarcaciones de hasta 6 metros de eslora: 47,21 euros.
+d) Licencia de pesca marítima recreativa para embarcaciones de eslora superior a 6 metros: 77,80 euros.
+e) Licencia de pesca marítima recreativa lucrativa para embarcación: 828,04 euros.
+f) Emisión de duplicado de cualquiera de estas licencias: 10,78 euros.
+Se modifica por la disposición final 1.17 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica por la disposición final 5.21 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se modifica por el art. 5.1 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+ Se modifica por el art. 8.1 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 391 bis
+
+Artículo 391 bis. Bonificaciones y exenciones.
+1. Las licencias de pesca recreativa expedidas por vía telemática de forma automática, sin necesidad de verificar documentación ni requisitos, imprimidas por el mismo usuario y que no se tengan que notificar en el domicilio del solicitante, tienen una bonificación de:
+a) 10 euros para las licencias individuales.
+b) 15 euros para las licencias para embarcaciones.
+2. Quedarán exentos del pago de la tasa para la licencia de pesca marítima recreativa individual y de la tasa para la licencia de pesca marítima submarina los sujetos pasivos que acrediten la condición de jubilados o mayores de 65 años.
+3. Tienen una bonificación del 50 % del importe de la tasa de pesca marítima recreativa lucrativa las embarcaciones que acrediten que colaboran en un proyecto de seguimiento científico de la Consejería de Agricultura, Pesca y Medio Natural.
+Se modifica el apartado 1 y se añade el 3 por la disposición final 1.18 y 19 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica apartado el 1 por la disposición final 1.11 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se modifica el apartado 2 por la disposición final 2.34 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se añade por la disposición final 5.23 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 392
+
+Artículo 392. Devengo.
+Las tasas se devengarán en el momento en que la persona interesada solicite los documentos a que se hace referencia en el artículo anterior.
+Se modifica por el art. 8.2 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 392 bis
+
+Artículo 392 bis. Tasa por campeonato de pesca.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de las autorizaciones que de acuerdo con la legislación vigente son necesarias para organizar un campeonato de pesca deportiva.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los clubes, asociaciones deportivas y en general las personas naturales o jurídicas que organicen un concurso o campeonato de pesca deportiva.
+3. Cuantía:
+Campeonato de pesca submarina: 135,23 euros.
+Campeonato de pesca deportiva: 90,17 euros.
+4. Devengo.
+Las tasas se devengarán en el momento en que la persona interesada solicite los documentos a los que se refiere el apartado anterior.
+Se modifica el apartado 3 por la disposición final 1.19 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por el art. 9 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 392 ter
+
+Artículo 392 ter. Tasa por reconocimiento de la capacitación náutico-pesquera y de buceo profesional.
+1. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación, por parte de la Administración competente en materia de enseñanzas náutico-pesqueras profesionales y de buceo profesional, de los servicios y actuaciones inherentes a la comprobación, reconocimiento y acreditación de la capacitación para el ejercicio de las actividades profesionales.
+2. Sujeto pasivo.
+Son sujetos pasivos de estas tasas aquellos que soliciten o reciban cualquiera de los servicios o actuaciones que constituyan el hecho imponible.
+3. Cuantía:
+1. Derechos de examen:
+1.1 Para la obtención de los títulos para el ejercicio de la actividad profesional náutico-pesquera y de buceo:
+1.1.1 Títulos para cuya obtención se requiere un examen único: 2.000 pesetas.
+1.1.2 Títulos para cuya obtención se requiere un examen por módulos: 2.000 pesetas.
+1.1.3 Títulos para cuya obtención se requiere un examen por asignatura: 700 pesetas.
+2. Expedición de títulos y tarjetas:
+2.1 Expedición de títulos y tarjetas de identidad profesional para el ejercicio de la actividad náutico-pesquera y de buceo profesional: 2.000 pesetas. 2.2 Renovación de tarjetas: 2.000 pesetas.
+2.3 Expedición de duplicados de certificados de examen de títulos y de tarjetas: 2.000 pesetas.
+2.4 Convalidaciones automáticas: 1.000 pesetas.
+2.5 Convalidaciones de asignaturas, módulos y títulos: 2.000 pesetas.
+2.6 Eliminación de la nota restrictiva de mando: 2.000 pesetas.
+4. Devengo.
+La obligación de pago de la tasa nacerá en el momento en que se presente la solicitud que motiva el servicio o la actuación administrativa que constituye el hecho imponible.
+5. Bonificaciones.
+Las solicitudes realizadas de forma telemática tendrán una bonificación del 50%.
+Se añade el apartado 5 por la disposición final 1.20 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por el art. 10 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 392 quater 
+
+Artículo 392 quater. Tasa por la expedición del certificado acreditativo de inscripción de los trabajadores autónomos y las empresas de buceo profesional en el Registro general de la actividad subacuática profesional de la comunidad autónoma de las Illes Balears.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la expedición del certificado acreditativo de inscripción de los trabajadores autónomos y las empresas de buceo profesional en el Registro general de la actividad subacuática profesional de la comunidad autónoma de las Illes Balears.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los buceadores autónomos y las empresas de buceo profesional que soliciten el certificado a que se refiere el hecho imponible.
+3. Cuantía.
+Por cada certificado: 14,94 euros.
+4. Devengo.
+La tasa se devenga en el momento de presentar la solicitud de emisión del certificado a que se refiere el hecho imponible.
+Se añade por el art. 5.2 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 392 quinquies
+
+Artículo 392 quinquies. Tasa por la expedición de la libreta de actividades subacuáticas profesionales.
+1. Hecho imponible. Constituye el hecho imponible de esta tasa la expedición de la libreta de actividades subacuáticas profesionales.
+2. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los buceadores profesionales que solicitan la expedición de la libreta de actividades subacuáticas profesionales.
+3. Cuantía.
+Expedición de la libreta de actividades subacuáticas profesionales: 14,94 euros.
+4. Devengo.
+La tasa se devenga en el momento de presentar la solicitud de expedición de la libreta de actividades subacuáticas profesionales por parte de los sujetos pasivos.
+Se añade por el art. 5.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+
+### Artículo 392 sexies
+
+Artículo 392 sexies. Tasa por la expedición, renovación o convalidación del título de buzo deportivo o recreativo.
+1. Hecho imponible: la expedición, renovación o convalidación por la Administración autonómica de los títulos de buzo deportivo y recreativo según la normativa vigente.
+2. Sujeto pasivo: las personas que soliciten la entrega del título, lo renueven o lo quieran convalidar.
+3. La cuantía por cada entrega, renovación o convalidación del título será de 38,00 euros.
+4. Devengo: La tasa se devenga en el momento de la solicitud de la expedición, renovación o convalidación del título de buzo deportivo o recreativo.
+Se añade por el art. 21.2 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 392 septies
+
+Artículo 392 septies. Tasa por la expedición de autorizaciones para la realización de inmersiones en las reservas marinas y espacios naturales protegidos de las Illes Balears.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la autorización para el buceo individual y colectivo en las reservas marinas de las Illes Balears.
+2. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuantía.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+a) Autorización de buceo individual en las reservas marinas, en función del periodo autorizado en cada lugar:
+1. Autorizaciones semanales en la reserva marina de las islas del Toro y de las Malgrats: 15,71 euros.
+2. Autorizaciones quincenales en el resto de reservas marinas de las Illes Balears: 10,47 euros.
+3. Autorizaciones diarias en las reservas marinas de las Illes Balears: 5,24 euros.
+4. Autorizaciones anuales en todas las reservas marinas excepto en las zonas especiales de buceo de la isla del Toro y de las islas Malgrats: 52,82 euros/isla.
+b) Autorización de buceo colectivo en las reservas marinas:
+1. En las reservas marinas y las zonas especiales de buceo con sistema de reserva de boyas: 10,47 euros/reserva de turno de boya o 943,03 euros/año.
+2. En las otras reservas marinas, por isla: 21,13 euros/día o 475,29 euros/año.
+4. Bonificación.
+(Sin contenido)
+5. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifica el apartado 3 por la disposición final 1.20 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifican las letras a) 4 y b) 2 del apartado 3 por el art. 7.2 y 3 del Decreto-ley 14/2020, de 9 de diciembre. Ref. BOE-A-2021-906
+ Se modifica el apartado 3.a) por la disposición final 1.33 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifican los apartados 1 y 3 por la disposición final 1.21 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se modifica el apartado 3 por la disposición final 1.36 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se modifica el apartado 3 y se deja sin contenido el 4 por la disposición final 4.33 y 34 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 5.23 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 392 octies
+
+Artículo 392 octies. Tasa por la expedición de autorizaciones anuales para la pesca submarina en las reservas marinas y en los espacios naturales protegidos de las Illes Balears.
+1. Hecho imponible.
+Constituye el hecho imponible de esta tasa la expedición de la autorización anual para la pesca submarina en cada una de las reservas marinas de las Illes Balears y en los espacios naturales protegidos de las Illes Balears susceptibles de autorización de acuerdo con la normativa vigente.
+2. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuota.
+El importe de la tasa será de 51,45 euros por autorización por reserva marina y por espacio natural protegido.
+4. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifican los apartados 1 y 3 por la disposición final 1.13 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.24 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 392 nonies
+
+Artículo 392 nonies. Expedición de la autorización para el uso de aparatos tradicionales para la pesca marítima recreativa en las Illes Balears.
+1. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la expedición de la autorización para el uso de aparatos tradicionales para la pesca marítima recreativa en las Illes Balears.
+2. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
+3. Cuota.
+El importe de la tasa será de 25 euros por autorización.
+4. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+5. Bonificaciones.
+Las autorizaciones expedidas por vía telemática, imprimidas por el mismo usuario y que no tengan que notificarse en el domicilio del solicitante, tendrán una bonificación de 10 euros.
+Se añade el apartado 5 por la disposición final 1.12 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 5.25 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 392 decies
+
+Artículo 392 decies. Tasa por la tramitación de las solicitudes de autorización para realizar trabajos subacuáticos en aguas de las Illes Balears.
+1. Constituye el hecho imponible de esta tasa la tramitación de los servicios inherentes a la tramitación de las solicitudes de autorización para realizar trabajos subacuáticos en aguas de las Illes Balears.
+2. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización correspondiente para realizar las actividades a que se refiere el hecho imponible.
+3. La tasa se exigirá de acuerdo con la cuota fija de 15 euros.
+4. La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo que dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que hay que adjuntar a la solicitud.
+5. Las solicitudes realizadas de forma telemática tendrán una bonificación del 50%.
+Se añade el apartado 5 por la disposición final 1.22 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por la disposición final 1.14 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 392 undecies
+
+Artículo 392 undecies. Tasa por la tramitación de las solicitudes de autorización para el cambio de puerto base y de uso temporal de puertos diferentes al puerto base de las embarcaciones pesqueras profesionales.
+1. Constituye el hecho imponible de esta tasa la prestación de los servicios inherentes a la tramitación de las solicitudes de autorización para el cambio de puerto base y de uso temporal de puertos diferentes al puerto base de las embarcaciones pesqueras profesionales.
+2. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización correspondiente para realizar las actividades a que se refiere el hecho imponible.
+3. La tasa se exigirá de acuerdo con las siguientes cuotas fijas:
+a) Solicitud de autorización para cambio de puerto: 20 euros
+b) Solicitud para uso temporal de un puerto diferente al puerto base por un plazo superior a tres meses: 20 euros
+c) Solicitud para uso temporal de un puerto diferente al puerto base por un plazo inferior a tres meses: 20 euros
+4. No están sujetos al pago de esta tasa los cambios de puerto incluidos en las resoluciones que contienen las previsiones semestrales de movimientos de embarcaciones pesqueras profesionales a que se refiere el artículo 3 del Decreto 5/2015, de 13 de febrero, por el que se regulan el cambio de puerto base y las autorizaciones de uso temporal de puertos diferentes al puerto base de las embarcaciones pesqueras en la comunidad autónoma de las Illes Balears.
+5. La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que hay que adjuntar a la solicitud.
+6. Las solicitudes realizadas de forma telemática tendrán una bonificación del 50%.
+Se añade el apartado 6 por la disposición final 1.23 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por la disposición final 1.14 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 392 duodecies
+
+Artículo 392 duodecies. Tasa por los servicios inherentes a la tramitación de la solicitud del certificado de profesionalidad pesquera.
+1. Constituye el hecho imponible de esta tasa la prestación de los servicios inherentes a la tramitación de las solicitudes del certificado de profesionalidad pesquera.
+2. Son sujetos pasivos de esta tasa las personas físicas y jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten el certificado de profesionalidad pesquera.
+3. La tasa se exigirá de acuerdo con la cuota fija de 10 euros.
+4. La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la correspondiente autoliquidación, que hay que adjuntar a la solicitud.
+5. Las solicitudes realizadas de forma telemática tendrán una bonificación del 50%.
+Se añade el apartado 5 por la disposición final 1.24 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
+ Se añade por la disposición final 1.14 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+## CAPÍTULO II
+
+Tasas en la ordenación y defensa de las industrias agrícolas, forestales y pecuarias
+
+### Artículo 393
+
+Artículo 393. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios, trabajos y estudios en la ordenación y defensa de las industrias agrícolas, forestales y pecuarias que tiene encomendados la Consejería de Agricultura, Comercio e Industria.
+
+### Artículo 394
+
+Artículo 394. Sujeto pasivo.
+Son sujetos pasivos de esta tasa quienes soliciten la concesión de autorización de instalación, ampliación, sustitución de maquinaria, traslado de industrias, cambio de titular o de denominación social, autorización de funcionamiento y aquellos para las que se realice la comprobación y control de las máquinas, aparatos, utensilios y demás elementos que constituyen la instalación.
+
+### Artículo 395
+
+Artículo 395. Cuantía.
+La presente tasa se exigirá conforme a las siguientes tarifas:
+a) Instalación de nuevas industrias o ampliación de las existentes.
+Capital de instalación o ampliación:
+Hasta 1.000.000: 12.240 pesetas.
+De 1.000.000 a 5.000.000: 17.160 pesetas.
+De 5.000.000 a 20.000.000: 24.600 pesetas.
+Para cada millón más o fracción adicional: 252 pesetas.
+b) Por traslado de industrias.
+Valor de la instalación:
+Hasta 1.000.000: 6.240 pesetas.
+De 1.000.000 a 5.000.000: 8.760 pesetas.
+De 5.000.000 a 20.000.000: 12.630 pesetas. Para cada millón más o fracción adicional: 132 pesetas.
+c) Por sustitución de maquinaria.
+Valor de la nueva maquinaria instalada:
+Hasta 1.000.000: 12.240 pesetas.
+De 1.000.000 a 5.000.000: 17.160 pesetas.
+De 5.000.000 a 20.000.000: 24.600 pesetas.
+Para cada millón más o fracción adicional: 252 pesetas.
+d) Por cambio de titularidad de la industria.
+Valor de la instalación:
+Hasta 1.000.000: 3.240 pesetas.
+De 1.000.000 a 5.000.000: 4.560 pesetas.
+De 5.000.000 a 20.000.000: 6.600 pesetas. Para cada millón más o fracción adicional: 64 pesetas.
+e) Por puesta en funcionamiento de industrias de temporada.
+Valor de la instalación: Hasta 1.000.000: 2.760 pesetas.
+f) Tasa por expedición de certificados relacionados con industrias.
+Valor de la instalación:
+Hasta 1.000.000: 2.640 pesetas.
+De 1.000.000 a 5.000.000: 3.320 pesetas.
+De 5.000.000 a 20.000.000: 3.960 pesetas.
+Para cada millón más o fracción adicional: 252 pesetas.
+
+### Artículo 395 bis
+
+Artículo 395 bis. Bonificaciones.
+1. Se aplicará una bonificación del 100% a la cuota tributaria cuando se verifiquen los conceptos a que se refieren las letras a) y e) del artículo 395 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.37 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 396
+
+Artículo 396. Devengo.
+1. En los supuestos a que se refieren las tarifas a), b), c), d), y f) del artículo anterior, la tasa se devengará en el momento de presentar la solicitud de que se trate, y el pago les será exigido dentro de los ocho días siguientes a la notificación de la correspondiente liquidación.
+2. En el caso de la tarifa e) del artículo anterior, la tasa se devengará cuando el organismo competente comunique a los industriales el acuerdo de practicar la visita de inspección, y será exigible la tasa dentro del plazo de ocho días siguientes al de su notificación.
+
+## CAPÍTULO III
+
+Tasas por gestión técnico-facultativa de los servicios agronómicos
+
+### Artículo 397
+
+Artículo 397. Hecho imponible.
+Constituye el hecho imponible de estas tasas la prestación de los siguientes servicios por los facultativos y técnicos agronómicos:
+Los servicios de defensa de la calidad agroalimentaria contra fraudes.
+La inscripción en registros oficiales.
+La inspección fitosanitaria de productos vegetales.
+La inspección de fabricación, comercialización y utilización.
+La inspección de viveros y vigilancia del comercio de sus productos.
+La emisión de informes y certificados por solicitud. La realización de tomas de muestras y análisis.
+En general, cuantas actividades se refieren al fomento, defensa y mejora de la producción agrícola.
+
+### Artículo 398
+
+Artículo 398. Sujeto pasivo.
+Son sujetos pasivos de esta tasa los importadores, exportadores, agricultores, usuarios o concesionarios de servicios de carácter agronómico y, en general, cuantas personas naturales o jurídicas que utilicen, a petición propia o por imperativo de la Ley, los servicios de la Consejería enumerados en el artículo anterior.
+
+### Artículo 399
+
+Artículo 399. Cuantía.
+La cuota tributaria de estas tasas se determinará de acuerdo con las siguientes tarifas:
+Concepto
+ Euros
+ A. Inscripción en registros oficiales.
+ A.1 Inscripción en el Registro oficial de productores y operadores de medios de defensa fitosanitarios.
+ A.1.1 Inscripción.
+ 39,64
+ A.1.2 Renovación.
+ 20,03
+ A.1.3 Expedición de registro de transacciones con productos fitosanitarios de uso profesional.
+ 20,03
+ A.2. Inscripción en el Registro oficial de comerciantes e importadores de productos vegetales.
+ A.2.1 Inscripción.
+ 40,17
+ A.2.2 Renovación.
+ 20,03
+ A.3 Inscripción en el Registro de semillas y plantas de viveros.
+ A.3.1 Inscripción.
+ 35,19
+ A.3.2 Renovación.
+ 20,03
+ A.4 Inscripción en el Registro de maquinaria agrícola.
+ A.4.1 Maquinaria nueva.
+ 35,19
+ A.4.2 Transferencia.
+ 38,22
+ A.4.3 Duplicados, certificados y bajas temporales.
+ 25,17
+ B. Inspección facultativa.
+ B.1 Emisión de informes y expedición de certificados.
+ B.1.1 Sin visita a la explotación.
+ 25,17
+ B.2.2 Con visita a la explotación.
+ 60,32
+ B.2 Seguimiento de ensayos oficiales.
+ 462,45
+Se modifica por el art. 63.2 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
+ Se modifica por el art. 63.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a6-5
+ Se modifica por la disposición final 1.21 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+ Se modifica por la disposición final 2.35 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 400
+
+Artículo 400. Devengo.
+Las tasas se devengarán en el momento en que se solicite cualquiera de los servicios reseñados en las tarifas del artículo anterior. El plazo de pago será de ocho días, contados a partir de la notificación de la correspondiente liquidación.
+
+## CAPÍTULO IV
+
+Tasa por la prestación de servicios facultativos veterinarios
+
+### Artículo 401
+
+Artículo 401. Hecho imponible.
+Constituyen el hecho imponible de esta tasa los servicios y trabajos descritos en el artículo 403, a consecuencia de proyectos, expedientes o peticiones formuladas a instancia de parte y actuaciones de oficio realizadas por la Administración en virtud de preceptos legales o reglamentarios.
+
+### Artículo 402
+
+Artículo 402. Sujeto pasivo.
+Son sujetos pasivos de esta tasa aquellos a quienes se presten los servicios a que hace referencia el artículo anterior.
+
+### Artículo 403
+
+Artículo 403. Cuantía.
+La cuota tributaria de esta tasa se determinará atendiendo a las siguientes tarifas:
+A) Por la prestación de servicios facultativos y realización de pruebas analíticas, para la obtención de calificaciones sanitarias de las explotaciones ganaderas, a petición de parte:
+Bovino: Afecta a los diagnósticos de las siguientes enfermedades: Tuberculosis, brucelosis, leucosis y perineumonía:
+A.1) Hasta 10 cabezas (por animal): 1.485 pesetas.
+A.2) De 11 en adelante (por animal): 1.380 pesetas.
+Ovino: Afecta al diagnóstico de la brucelosis:
+A.3) Hasta 25 cabezas (por animal): 425 pesetas.
+A.4) De 26 en adelante (por animal): 400 pesetas.
+Caprino: Afecta al diagnóstico de la brucelosis y de la tuberculosis:
+A.5) Hasta 25 cabezas (por animal): 930 pesetas.
+A.6) De 26 en adelante (por animal): 900 pesetas.
+Porcino: Afecta al diagnóstico de la enfermedad de aujeszky y al estudio de los animales portadores de anticuerpos contra la PPA:
+A.7) Hasta 25 cabezas (por animal): 1.695 pesetas.
+A.8) De 26 en adelante (por animal): 1.670 pesetas.
+B) Por la prestación de servicios facultativos a petición de parte no comprendidos en otros conceptos de estas tasas:
+B.1) Por emisión de certificados: 1.060 pesetas.
+B.2) Por visita de inspección realizada: 2.650 pesetas.
+B.3) Por emisión de informes, dictámenes, peritajes y exámenes de proyectos o expedientes: 2.970 pesetas.
+C) Por las inspecciones realizadas de oficio, no comprendidas en otros conceptos de estas tasas, cuando sean motivadas por una denuncia, por sospecha de comisión de infracciones, o por situaciones sanitarias especiales: 2.650 pesetas.
+D) Por la inspección y comprobación anual de las instalaciones y de los libros de registro, de los establecimientos de medicamentos veterinarios que a continuación se relacionan:
+Almacenes distribuidores.
+Comerciales detallistas.
+Botiquines de urgencia.
+Depósitos de las entidades o agrupaciones ganaderas.
+Elaboración de piensos medicamentosos.
+Medicamentos homeopáticos veterinarios: 4.240 pesetas.
+E) Por la inspección y comprobación anual de las instalaciones y de los libros de registro de núcleos zoológicos: 4.240 pesetas.
+F) Por la inspección anual y revisión de las partes de enfermedades y de vacunaciones de los centros de atención sanitaria a los animales de compañía: 4.240 pesetas.
+G) Por la inspección anual y comprobación del registro de los distribuidores comerciales de dosis seminales para animales: 4.240 pesetas.
+H) Por la inspección anual de las plantas de transformación de animales muertos y de desperdicios de origen animal y comprobación de los libros de registro: 10.600 pesetas.
+I) Por los servicios facultativos veterinarios correspondientes a:
+I.1) Los trámites del expediente de autorización e inclusión en el Registro de las plantas de transformación de animales muertos y de desperdicios de origen animal: 20.140 pesetas.
+I.2) La inclusión en el Registro, entrega y diligencia del libro de núcleos zoológicos: 6.360 pesetas.
+I.3) Por la inclusión en el Registro de los centros de atención sanitaria a los animales de compañía: 6.360 pesetas.
+I.4) Por la autorización e inclusión en el Registro de los establecimientos de medicamentos veterinarios y de elaboración de piensos medicamentosos: 6.360 pesetas.
+I.5) Por la autorización de laboratorios de sanidad animal: 19.080 pesetas.
+I.6) Por la autorización e inclusión en el Registro de distribuidores comerciales de dosis seminales: 6.360 pesetas.
+I.7) Por la inscripción en el Registro de los depósitos privados de dosis seminales: 1.060 pesetas.
+J) Por los servicios facultativos correspondientes a la extensión de guías de origen y sanidad e interprovinciales, certificados sanitarios y certificados de protección durante el transporte, que amparen el traslado de animales hacia el territorio de otras comunidades autónomas o de otros países de la UE, y que acrediten que los animales proceden de zona no infectada y no padecen enfermedades infecto-contagiosas o parasitarias difusibles, o que las condiciones de transporte son idóneas:
+Por cada GOSP y guía interprovincial: 850 pesetas.
+Por cada certificado comunitario: 850 pesetas.
+Por cada certificado de transporte: 850 pesetas.
+K) Por los trabajos facultativos veterinarios correspondientes a la inspección sanitaria periódica (anual) de las paradas y centros de inseminación artificial equina: 4.240 pesetas.
+L) Por los servicios facultativos veterinarios relacionados con la intervención y fiscalización de movimientos de entrada de ganado en la Comunidad Autónoma de las Islas Baleares con objeto de prevenir la propagación de epizootías y zoonosis difusibles y garantizar la protección de los animales durante el transporte: 2.650 pesetas.
+M) Por la inspección, revisión de la documentación e identificación de animales vivos en su destino: 2.650 pesetas.
+
+### Artículo 404
+
+Artículo 404. Devengo.
+La tasa se devengará en el momento de prestarse los servicios, siendo exigible el pago en el plazo de ocho días a contar desde la notificación de la liquidación.
+
+## CAPÍTULO V
+
+Tasas por servicios industriales
+Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 405
+
+Artículo 405. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se detallan a continuación, tanto si se prestan de oficio como a instancia de parte:
+1. Verificaciones y mediciones de muestras aleatorias.
+2. Inspecciones, comprobaciones y comunicaciones reglamentarias.
+3. Autorizaciones, puestas en servicio y registros.
+4. Inscripción en el Registro de instalaciones de rayos X con finalidad de diagnóstico médico.
+5. Autorización o modificación de la puesta en funcionamiento de instalaciones radioactivas de segunda y tercera categoría.
+6. Clausura de instalaciones radioactivas.
+7. Rectificación de errores.
+Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 4.35 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añaden los apartados 9 a 11 por el art. 38.6 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 406
+
+Artículo 406. Sujeto pasivo.
+1. Son sujetos pasivos de esta tasa, en la condición de contribuyente, aquellos en interés de los cuales se hagan las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente, aquellos que requieran las actuaciones administrativas cuando sean prestadas a favor de cualquier persona que no sea el solicitante.
+Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 407
+
+Artículo 407. Cuantía.
+La cuota de la tasa se ha de determinar según las siguientes tarifas, en euros:
+1. Verificaciones y mediciones de muestras aleatorias:
+1.1 Comprobación en laboratorio:
+1.1.1 Contadores agua y gas: 1,93.
+1.1.2 Contador eléctrico: 6,45.
+1.1.3 Transformador de intensidad o de tensión: 0,65.
+1.2 Comprobación individualizada:
+1.2.1 Contador de agua: 12,91.
+1.2.2 Otros equipos de medición: 49,01.
+1.3 Otros servicios:
+1.3.1 Tramitación de la aprobación de modelo o autorización de uso de equipos: 122,52.
+1.3.2 Certificado de verificación con el estudio previo del certificado de ensayo, emitido por el laboratorio autorizado: 18,06.
+2. Inspecciones, comprobaciones y comunicaciones reglamentarias:
+2.1 Instalaciones de uso doméstico o particular: 90,27.
+2.2 Otras instalaciones (uso comercial, industrial, público): 232,13.
+2.3 Presentación de certificados o pruebas reglamentarias hechas por un organismo de control autorizado o por otras empresas y comunicaciones reglamentarias: 5,16.
+2.4 Certificados telemáticos automáticos de inspecciones o de revisiones de organismos de control o de otras empresas: 3,55.
+3. Autorizaciones, puestas en servicio y registros:
+3.1 Autorizaciones y puestas en servicio de instalaciones:
+3.1.1 Instalaciones liberalizadas: baja tensión, aparatos elevadores, aparatos de presión, aparatos térmicos, aparatos frigoríficos, productos petrolíferos, almacenamientos de gases combustibles, productos químicos, instalaciones receptoras de gas, instalaciones contra incendios, y otras.
+3.1.1.1 Instalaciones cuya única documentación técnica es el certificado de instalador.
+3.1.1.1.1 Tramitación no automatizada en la UDIT: 23,12.
+3.1.1.1.2 Tramitación automatizada: 15,65.
+3.1.1.2 Instalaciones para usos domésticos.
+3.1.1.2.1 Tramitación no automatizada en la UDIT: 75,35.
+3.1.1.2.2 Tramitación automatizada: 46,76.
+3.1.1.3 Instalaciones para otros usos.
+3.1.1.3.1 Tramitación no automatizada en la UDIT: 92,53.
+3.1.1.3.2 Tramitación automatizada: 55,32.
+3.1.2 Cambio de titularidad de instalaciones y comunicación de alta de conservador o mantenedor de una instalación: 14,19.
+3.2 Agentes habilitados o autorizados, organismos de control, organismos verificadores, laboratorios de metales preciosos, de ensayos o de calibración y otros:
+3.2.1 Primera inscripción: 237,28.
+3.2.2 Renovaciones o modificaciones: 95,43.
+3.3 Registro industrial, registros y certificados de empresas instaladoras y mantenedoras, talleres tacógrafos, talleres de limitadores de velocidad y otros:
+3.3.1 Primera inscripción o habilitación: 58,03.
+3.3.2 Renovaciones o modificaciones: 29,66.
+3.3.3 Cambio de titularidad: 14,19.
+4. Inscripción en el Registro de instalaciones de rayos X con finalidad de diagnóstico médico: 38,69.
+5. Autorización o modificación de la puesta en funcionamiento de instalaciones radioactivas de segunda y tercera categoría: 77,37.
+6. Clausura de instalaciones radioactivas: 38,69.
+7. Rectificación de errores: el 50% de la cuantía correspondiente al concepto que se rectifique.
+Se modifica por la disposición final 1.8 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica el concepto 3 por la disposición final 1.15 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 4.36 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado 3.1.1 por la disposición final 1.24 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se modifica por el art. 24 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+ Se modifica por el art. 38.7 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se modifica el apartado 3 y 3.16 por el art. 4.12 y 13 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
+
+### Artículo 407 bis
+
+Artículo 407 bis. Exenciones y bonificaciones.
+1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables de hasta 15 kW. Esta exención no incluye las modificaciones, ampliaciones o correcciones de errores de instalaciones tramitadas.
+2. En los casos que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional podrá aplicarse una bonificación del 100% a la cuota tributaria a los que se refieren los conceptos 3 –salvo los puntos 3.1.2, 3.2.2, 3.3.2 y 3.3.3–, 4 y 5 del artículo 407 de esta ley, salvo la modificación de la puesta en funcionamiento del concepto correspondiente al punto 5.
+En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria, excepto en los casos en que la tramitación sea telemática y no se haya podido hacer el correspondiente trámite. En estos casos se pagará la tasa sin bonificar y posteriormente se podrá solicitar la devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+Se modifica el apartado 1 por la disposición final 1.16 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica el apartado 1 por la disposición final 1.34 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica por la disposición final 1.16 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.38 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 4.37 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 408
+
+Artículo 408. Devengo.
+1. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+2. Por actuación de oficio, la tasa se devenga cuando se inicia la prestación del servicio o el desarrollo de la actividad sin perjuicio de exigir su depósito previo, de acuerdo con lo dispuesto en el artículo 10.1.a) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+## CAPÍTULO V bis
+
+CAPÍTULO V BIS
+Tasa por servicios de energía
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 408 bis
+
+Artículo 408 bis. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se detallan a continuación, tanto si se prestan de oficio como a instancia de parte:
+1. Autorizaciones, puestas en servicio y registros.
+2. Inspecciones, comprobaciones y comunicaciones reglamentarias.
+3. Rectificación de errores.
+4. Copias de documentos administrativos.
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 408 ter
+
+Artículo 408 ter. Sujeto pasivo.
+1. Son sujetos pasivos de esta tasa, en la condición de contribuyente, aquellos en interés de los cuales se hagan las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente aquellos que requieran las actuaciones administrativas cuando sean prestadas a favor de cualquier persona que no sea el solicitante.
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 408 quater 
+
+Artículo 408 quater. Cuantía.
+La cuota de la tasa se ha de determinar según las siguientes tarifas, en euros:
+1. Autorizaciones, puestas en servicio y registros:
+1.1 Autorizaciones y puestas en servicio de instalaciones de producción eléctrica mediante energías renovables y cogeneración con autoconsumo o sin, hasta 100 kW y que no requieren la declaración de utilidad pública.
+1.1.1 Instalaciones cuya única documentación técnica es el certificado de instalador
+1.1.1.1 Tramitación no automatizada en la UDIT: 23,12.
+1.1.1.2 Tramitación automatizada: 15,65.
+1.1.2 Instalaciones para usos domésticos.
+1.1.2.1 Tramitación no automatizada en la UDIT: 75,35.
+1.1.2.2 Tramitación automatizada: 46,76.
+1.1.3 Instalaciones para otros usos.
+1.1.3.1 Tramitación no automatizada en la UDIT: 92,53.
+1.1.3.2 Tramitación automatizada: 55,32.
+1.2 Instalaciones no liberalizadas: líneas de media y alta tensión, centrales, subestaciones y estaciones transformadoras, almacenamiento, transporte y distribución por canalización de combustible, y otros:
+1.2.1 Hasta a 12.000,00 euros de presupuesto de ejecución: 81,25.
+1.2.2 De 12.000,01 euros a 150.000 euros de presupuesto de ejecución por cada 6.000,00 euros o fracción: 14,588112.
+1.2.3 El resto por cada 6.000,00 euros o fracción: 9,736190.
+1.3 Instalaciones de producción eléctrica mediante energías renovables y cogeneración de más de 100 kW, con autoconsumo o sin, o que requieren la declaración de utilidad pública:
+1.3.1 Con proyecto técnico:
+1.3.1.1 Hasta 30.000,00 euros de presupuesto de ejecución: 81,25.
+1.3.1.2 De 30.000,01 euros a 150.000 euros de presupuesto de ejecución, por cada 6.000,00 euros o fracción: 5,800042.
+1.3.1.3 El resto, por cada 6.000,00 euros o fracción: 3,859973.
+1.3.2 Sin proyecto: 81,25.
+1.4 Cambio de titularidad de instalaciones y comunicación de alta de conservador o mantenedor de una instalación: 14,19.
+1.5 Autorizaciones de suspensiones temporales de servicios de suministro de energía: 5,16.
+1.6 Agentes habilitados o autorizados, organismos de control, organismos verificadores, y otros:
+1.6.1 Primera inscripción: 237,28.
+1.6.2 Renovaciones o modificaciones: 95,43.
+1.7 Registro de certificados de eficiencia energética.
+1.7.1 Tramitación no automatizada en la UDIT. Primera inscripción. Edificio de viviendas completo y terciario de superficie superior a 100 m²: 25,15.
+1.7.2 Tramitación automatizada. Primera inscripción. Edificio de viviendas completo y terciario de superficie superior a 100 m²: 9,71.
+1.7.3 Tramitación no automatizada en la UDIT. Primera inscripción de vivienda unifamiliar o terciario de superficie inferior o igual a 100 m² y actualización de un registro existente: 50 % de la cuantía del concepto 1.7.1.
+1.7.4 Tramitación automatizada. Primera inscripción de vivienda unifamiliar o terciario de superficie inferior o igual a 100 m² y actualización de un registro existente: 50% de la cuantía del concepto 1.7.2.
+2. Inspecciones, comprobaciones y comunicaciones reglamentarias:
+2.1 Instalaciones de uso doméstico o particular: 90,27.
+2.2 Otras instalaciones (uso comercial, industrial o público): 232,13.
+2.3 Presentación de certificados o pruebas reglamentarias hechas por un organismo de control autorizado o por otras empresas y comunicaciones reglamentarias: 5,16.
+2.4 Certificados telemáticos de inspecciones o de revisiones de organismos de control o de otras empresas: 3,55.
+3. Rectificación de errores: el 50% de la cuantía correspondiente al concepto que se rectifique.
+4. Copia de documentos administrativos en formato papel (por página): 4,517678.
+Se modifica el apartado 1 por la disposición final 1.9 y 10 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 408 quínquies
+
+Artículo 408 quinquies. Exenciones y bonificaciones.
+1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio e inscripción de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables de hasta 15 kW. Esta exención no incluye las modificaciones, ampliaciones o correcciones de errores de instalaciones tramitadas.
+2. En los casos que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional podrá aplicarse una bonificación del 100% a la cuota tributaria a que se refiere el concepto 1 –salvo de los puntos 1.4, 1.5, 1.6.2, y 1.7–, del artículo 408 quater de esta ley.
+En caso de que sea aplicable la bonificación no será necesario presentar la declaración tributaria correspondiente, excepto en los casos en que la tramitación sea telemática y no se haya podido hacer el trámite correspondiente. En estos casos se pagará la tasa sin bonificar y posteriormente se podrá solicitar la devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+Se modifica el apartado 1 por la disposición final 1.17 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 408 sexies
+
+Artículo 408 sexies. Devengo.
+1. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+2. Por actuaciones de oficio, la tasa se devenga cuando se inicia la prestación del servicio o el desarrollo de la actividad, sin perjuicio de exigir su depósito previo, de acuerdo con lo dispuesto en el artículo 10.1.a) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+## CAPÍTULO VI
+
+Tasa por servicios en materia de minas y voladuras
+Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por el art. 38.8 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 409
+
+Artículo 409. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se detallan a continuación, tanto si se prestan de oficio como a instancia de parte:
+1. Autorizaciones o ampliaciones de actividades extractivas y proyectos de restauración, o sus modificaciones.
+2. Cambio de titularidad de derechos mineros.
+3. Comunicación del nombramiento o la sustitución del director facultativo o del técnico de restauración.
+4. Autorización de la paralización temporal de labores por causas debidamente justificadas.
+5. Aprobación de la unidad de explotación.
+6. Visitas de inspección a autorizaciones mineras, concesiones, y permisos de explotación y de investigación.
+7. Permisos de explotación, de investigación, de concesiones directas y derivadas, y las prórrogas correspondientes.
+8. Concesión y renovación del carnet de operador de maquinaria móvil.
+9. Expedientes de caducidad de recursos mineros.
+10. Instalaciones que requieren exclusivamente boletín del instalador.
+11. Informe de proyectos de voladuras para actividades no mineras.
+12. Resoluciones mineras que no requieren ningún informe de la consejería correspondiente.
+Se modifica el apartado 4 por la disposición final 1.11 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 4.38 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade el apartado 7 por el art. 38.9 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 410
+
+Artículo 410. Sujeto pasivo.
+1. Son sujetos pasivos de esta tasa, en la condición de contribuyentes, aquellos en interés de los cuales se hagan las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente aquellos que requieran las actuaciones administrativas cuando sean prestadas a favor de cualquier persona que no sea el solicitante.
+Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 411
+
+Artículo 411. Cuantía.
+La cuota de la tasa se ha de determinar según las siguientes tarifas, en euros:
+1. Autorizaciones o ampliaciones de actividades extractivas y proyectos de restauración, o sus modificaciones:
+1.1 Hasta 6.000,00 euros: 73,51.
+1.2 El resto, por cada 6.000,00 euros o fracción: 19,35.
+2. Cambio de titularidad de derechos mineros: 49,01.
+3. Comunicación del nombramiento o la sustitución del director facultativo o del técnico de restauración: 5,12.
+4. Autorización de la paralización temporal de labores por causas debidamente justificadas: 49,01.
+5. Aprobación de la unidad de explotación: 49,01.
+6. Visitas de inspección a autorizaciones mineras, concesiones, y permisos de explotación y de investigación: 225,59.
+7. Permisos de explotación, de investigación, de concesiones directas y derivadas, y las prórrogas correspondientes:
+7.1 Por primera cuadrícula: 2.922,23.
+7.2 Por primera y segunda cuadrícula: 3.897,14.
+7.3 Por primera, segunda y tercera cuadrícula: 5.358,28.
+7.4 Por primera, segunda, tercera y cuarta cuadrícula: 7.545,43.
+7.5 Por cada cuadrícula de exceso: 1.948,58.
+8. Concesión y renovación del carnet de operador de maquinaria móvil:
+8.1 Primera tramitación: 19,35.
+8.2 Renovación: 15,49.
+9. Expedientes de caducidad de recursos mineros: 145,72.
+10. Instalaciones que requieren exclusivamente boletín del instalador: 14,19.
+11. Informe de proyectos de voladuras para actividades no mineras:
+11.1 Hasta 6.000,00 euros: 97,74.
+11.2 De 6.000,01 euros hasta 150.000,00 euros, por cada 6.000,00 euros o fracción: 19,342995.
+11.3 El resto, por cada 6.000,00 euros o fracción: 10,307639.
+12. Resoluciones mineras que no requieren ningún informe de la consejería correspondiente:
+12.1 Aprobación del plan de labores con visita de inspección con informe favorable de una entidad colaboradora de la administración en materia minera: 17,56.
+12.2 Autorización de la reducción del número de tomas de muestras de polvo de un lugar de trabajo a una de anual y las prórrogas correspondientes con informe favorable del Instituto Nacional de Silicosis: 17,56.
+Se modifica el apartado 4 por la disposición final 1.12 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 4.39 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado 6 por la disposición final 4.21 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+ Se modifica por el art. 38.10 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 411 bis
+
+Artículo 411 bis. Bonificaciones.
+1. En los casos que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional, se podrá aplicar una bonificación del 100% a la cuota tributaria cuando se verifiquen los conceptos a que se refieren los apartados 1, 7, salvo el de las prórrogas, y 8.1 del artículo 411 de esta ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria, excepto en los casos en que la tramitación sea telemática y no se haya podido efectuar el correspondiente trámite. En estos casos se pagará la tasa sin bonificar y posteriormente podrá solicitarse la devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.17 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.39 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 412
+
+Artículo 412. Devengo.
+1. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+2. Por actuaciones de oficio, la tasa se devenga cuando se inicia la prestación del servicio o el desarrollo de la actividad, sin perjuicio de exigir su depósito previo, de acuerdo con lo que dispone el artículo 10.1.a) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se modifica por la disposición final 1.9 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+## CAPÍTULO VII
+
+Tasa por servicios administrativos
+Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 413
+
+Artículo 413. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los servicios que se detallan a continuación, tanto si se prestan de oficio como a instancia de parte:
+1. Entrega de documentos.
+2. Expedición y renovación de carnets y certificados de acreditación profesional de instalador, de mantenedor y de conservador.
+3. Derechos de examen.
+4. Comunicaciones, otros certificados, informes y resoluciones a instancia de parte.
+Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 4.40 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añaden los apartados 6 y 7 por el art. 38.11 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 414
+
+Artículo 414. Sujeto pasivo.
+1. Son sujetos pasivos de esta tasa, en la condición de contribuyentes, aquellos en interés de los cuales se hagan las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente aquellos que requieran las actuaciones administrativas cuando sean prestadas a favor de cualquier persona que no sea el solicitante.
+Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Artículo 415
+
+Artículo 415. Cuantía.
+La cuota de la tasa se ha de determinar según las siguientes tarifas en euros:
+1. Entrega de documentos.
+1.1 Investigación de datos o antecedentes de solicitud del sujeto pasivo: 15,49€.
+1.2 Copias en CD proporcionado por la Administración (por cada CD): 10,40€.
+2. Expedición y renovación de carnets y certificados de acreditación profesional de instalador, de mantenedor y de conservador:
+2.1 Primera tramitación: 19,35.
+2.2 Renovaciones: 15,49.
+3. Derechos de examen: 10,31.
+4. Comunicaciones, otros certificados, informes y resoluciones a instancia de parte:
+4.1 Informes y resoluciones: 18,06.
+4.2 Legalización y sellado de libros, y expedición de distintivos, placas y tarjetas RFID identificativas:
+4.2.1 Legalización y sellado de libros, expedición de distintivos: 5,16.
+4.2.2 Expedición de placas metálicas y tarjetas RFID (por unidad): 5,16.
+4.2.3 Expedición de placas no metálicas (por 5 unidades): 5,16.
+4.3 Comunicación de datos no confidenciales: 25,78.
+4.4 Otros servicios a instancia de parte: 49,00.
+4.5 Comunicaciones de empresas y particulares a la Administración: 5,01.
+Se modifica el apartado 1 por la disposición final 1.18 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 4.41 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por el art. 38.12 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 415 bis
+
+Artículo 415 bis. Exenciones y bonificaciones.
+1. Quedan exentas del pago de la tasa a la cual se refiere el punto 4.1 del artículo 415 las administraciones públicas territoriales y también las entidades instrumentales dependientes o vinculadas a cualesquiera de estas administraciones.
+2. En los casos en que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional, se puede aplicar una bonificación del 100% a la cuota tributaria cuando se verifique el concepto a que se refiere el apartado 2.1 del artículo 415 de esta ley.
+3. En caso de que sea aplicable la bonificación no es necesario presentar la declaración tributaria correspondiente, excepto en los casos en que la tramitación sea telemática y no se haya podido efectuar el trámite correspondiente. En estos casos se tiene que pagar la tasa sin bonificar y se puede solicitar posteriormente su devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+4. Los sujetos pasivos quedan exentos del pago de la tasa a la cual se refiere el punto 4.5 del artículo 415 en cuanto a las comunicaciones de baja.
+Se modifica la denominación y se añade el apartado 4 por la disposición final 1.13 y 14 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+ Se modifica por la disposición final 1.19 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
+ Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.18 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.40 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 416
+
+Artículo 416. Devengo.
+1. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo que dispone el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+2. Por actuaciones de oficio, la tasa se devenga cuando se inicia la prestación del servicio o el desarrollo de la actividad, sin perjuicio de exigir su depósito previo, de acuerdo con lo que dispone el artículo 10.1.a) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se modifica por la disposición final 1.10 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+## TÍTULO X
+
+Consejería de Economía, Comercio e Industria
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+## CAPÍTULO I
+
+Tasa por licencia autonómica de gran establecimiento comercial
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+### Artículo 417
+
+Artículo 417. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación a instancia de parte de los servicios de tramitación y de resolución sobre la licencia autonómica relativos a la implantación, la modificación de actividad o la ampliación de grandes establecimientos comerciales.
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+### Artículo 418
+
+Artículo 418. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas o jurídicas que sean receptoras de los servicios que constituyen el hecho imponible.
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+### Artículo 419
+
+Artículo 419. Cuantía.
+La cuota de la tasa es de:
+1. Por cada metro cuadrado de superficie de exposición y venta a implantar o ampliar: 30 euros.
+2. Por cada metro cuadrado de superficie de venta existente, cuando la solicitud esté motivada por un cambio de actividad: 15 euros.
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+### Artículo 420
+
+Artículo 420. Devengo.
+La tasa se devengará en el momento de la realización de las actuaciones administrativas que constituyen el hecho imponible. Ello no obstante, su pago podrá exigirse en el momento de formular la solicitud.
+Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+## CAPÍTULO VIII
+
+Tasa por expedientes de expropiación forzosa de bienes e imposición de servidumbres de paso
+Se añade por el art. 38.13 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 417
+
+Artículo 417. Hecho imponible.
+Constituye el hecho imponible de esta tasa la tramitación, por parte de la consejería competente en materia de industria y energía, de expedientes de expropiación forzosa o de imposición de servidumbres de paso.
+Se añade por el art. 38.13 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 418
+
+Artículo 418. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las que se presten los servicios que constituyen el hecho imponible.
+Se añade por el art. 38.13 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 419
+
+Artículo 419. Cuantía.
+La tasa ha de exigirse conforme a las siguientes tarifas:
+1. Entre 1 y 10 parcelas (por parcela): 100,00 euros.
+2. Entre 11 y 20 parcelas (por parcela): 130,00 euros.
+3. Entre 21 y 30 parcelas (por parcela): 145,00 euros.
+4. Más de 30 parcelas (por parcela): 160,00 euros.
+Se añade por el art. 38.13 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 420
+
+Artículo 420. Devengo y pago.
+a tasa se devenga cuando se preste el servicio o la actividad que constituye el hecho imponible. La tasa ha de exigirse en régimen de autoliquidación que se ingresará en el mismo momento de su devengo. No obstante, para los servicios prestados a instancia de parte, ha de efectuarse el depósito previo de su importe al mismo tiempo de la solicitud del servicio, siendo necesario su pago para continuar la tramitación del procedimiento.
+Se añade por el art. 38.13 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## TÍTULO X
+
+Consejerías competentes en materia de economía y comercio
+Se modifica por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+## CAPÍTULO I
+
+Tasa por licencia autonómica de gran establecimiento comercial
+Se modifica por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+ Se añade por la disposición adicional 2 de la Ley 11/2001, de 15 de junio. Ref. BOE-A-2001-13277#dasegunda
+
+### Artículo 421
+
+Artículo 421. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación, a instancia de parte, de la actividad de tramitación y resolución sobre la licencia autonómica relativa a la implantación, la ampliación o el traslado de las instalaciones destinadas a establecimientos del tipo gran establecimiento comercial.
+Se modifica por el art. 31 de la Ley 8/2009, de 16 de diciembre. Ref. BOE-A-2010-1400
+ Se añade por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 422
+
+Artículo 422. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las que se presten los servicios que constituyen el hecho imponible.
+Se añade por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 423
+
+Artículo 423. Cuantía.
+1. La cuota de la tasa se exigirá según las siguientes tarifas:
+Euros
+ a) Por cada metro cuadrado de superficie útil para la exposición y la venta implantada o ampliada
+ 19,56362
+ b) Por cada metro cuadrado de superficie útil para la exposición y la venta, cuando la solicitud sea motivada por un traslado de las instalaciones comerciales
+ 9,78181
+2. El Gobierno de las Illes Balears podrá proponer anualmente la cuota de la tasa de acuerdo con la normativa aplicable, que será aprobada mediante la Ley de presupuestos generales de la comunidad autónoma de las Illes Balears.
+Se modifica el apartado 1 por la disposición final 2.36 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+ Se modifica por el art. 32 de la Ley 8/2009, de 16 de diciembre. Ref. BOE-A-2010-1400
+ Se añade por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 424
+
+Artículo 424. Devengo.
+La tasa se devenga en el momento de realizar las actuaciones administrativas que constituyen el hecho imponible. No obstante, el pago podrá exigirse en el momento de formular la solicitud.
+Se añade por el art. 38.14 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO II
+
+Tasa por el suministro de información del Registro General de Comercio de las Illes Balears
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 425
+
+Artículo 425. Hecho imponible.
+Constituye el hecho imponible de esta tasa el suministro de información contenida en el Registro General de Comercio de las Illes Balears.
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 426
+
+Artículo 426. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las que se presten los servicios que constituyen el hecho imponible.
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 427
+
+Artículo 427. Cuantía.
+La tasa ha de exigirse conforme a las tarifas siguientes:
+1. Suministro de datos en papel:
+Cuota fija: 4,00 euros.
+Cuota variable: 0,50 euros/página, con excepción de la primera.
+2. Suministro de datos en el soporte magnético: 15,00 euros.
+3. Si los datos suministrados requieren un proceso previo de la Administración: 30,00 euros adicionales a las tarifas anteriores.
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 428
+
+Artículo 428. Devengo y pago.
+La tasa se devenga con la realización del hecho imponible, si bien el pago se exigirá en el momento en que el interesado haga la solicitud del servicio.
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 429
+
+Artículo 429. Exenciones.
+Están exentas del pago de esta tasa las administraciones públicas territoriales.
+Se añade por el art. 38.15 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## CAPÍTULO III
+
+Tasa por actividades o profesiones habilitadas o reguladas por la Dirección General competente en materia Comercio
+Se añade por el art. 38.16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 430
+
+Artículo 430. Hecho imponible.
+Constituye el hecho imponible de esta tasa la prestación de los servicios relativos a las actividades gestionadas por la Dirección General competente en materia de Comercio que se citan a continuación:
+1. Solicitud de derechos de examen para obtener los carnets profesionales o técnicos que habiliten para el ejercicio de actividades la regulación de las cuales corresponda a la Dirección General competente en materia de Comercio, así como la solicitud de la carta de artesano y de maestro artesano.
+2. La expedición de carnets, certificados y otros documentos que acrediten la aptitud para el ejercicio de las citadas actividades.
+3. La renovación de carnets, certificados y otros documentos que acrediten la aptitud para el ejercicio de las citadas actividades.
+4. La solicitud de inspecciones de calificación en general y la solicitud del documento de calificación artesanal.
+Se añade por el art. 38.16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 431
+
+Artículo 431. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, a las que se presten los servicios que constituyen el hecho imponible.
+Se añade por el art. 38.16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 432
+
+Artículo 432. Cuantía.
+La tasa ha de exigirse conforme a las siguientes tarifas:
+1. Solicitud de derechos de examen y solicitud de carta de artesano o maestro artesano: 7,80 euros.
+2. Expedición de carnet, certificado u otro documento de aptitud para el desarrollo de una actividad determinada: 7,80 euros.
+3. Renovación de carnet, certificado u otro documento de aptitud de una actividad determinada: 4,00 euros.
+4. Inspección de calificación y documento de calificación artesanal: 40,00 euros.
+Se añade por el art. 38.16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+### Artículo 432 bis
+
+Artículo 432 bis. Bonificaciones.
+1. Se aplicará una bonificación del 100 % a la cuota tributaria cuando se verifiquen los conceptos a que se refieren los puntos 1 y 2 del artículo 432 de la presente ley.
+2. En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria.
+Se añade por la disposición final 1.41 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+
+### Artículo 433
+
+Artículo 433. Devengo y pago.
+La tasa se devenga con la realización del hecho imponible, si bien el pago se exigirá en el momento en que el interesado haga la solicitud de servicio.
+Se añade por el art. 38.16 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+
+## TÍTULO XI
+
+Consejería de Salud, Familia y Bienestar Social
+Se modifica por la disposición final 1.25 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+ Se añade por el art. 25 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+## CAPÍTULO I
+
+Tasas en materia de mediación familiar
+Se añade por el art. 25 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 434
+
+Artículo 434. Tasa por inscripción de personas mediadoras en el Registro de Mediadores adscrito al Servicio de Mediación Familiar de las Illes Balears.
+1. Hecho imponible.–Constituye el hecho imponible de la tasa la realización, por parte de los órganos competentes, de las inscripciones de altas y bajas en el Registro de Mediadores de las personas mediadoras.
+2. Sujetos pasivos.–Son sujetos pasivos de la tasa las personas físicas mediadoras.
+3. Exenciones.–Está exento del pago de la tasa el personal mediador dependiente de una administración pública que desarrolle la actividad mediadora de acuerdo con la Ley 18/2006, de 22 de noviembre, de mediación familiar.
+4. Cuantía.–La cuantía de la presente tasa es de 20,00 euros por inscripción.
+5. Devengo.–La tasa se devengará en el momento en que el sujeto pasivo presente la solicitud que determine el inicio de las actuaciones administrativas descritas en el hecho imponible.
+6. Autoliquidación y pago.–Los sujetos pasivos de la tasa están obligados a practicar las operaciones de autoliquidación tributaria necesarias para el ingreso de su importe. El pago de la tasa se efectuará en efectivo y con anterioridad a la presentación de la correspondiente solicitud, en la forma establecida en la Orden del consejero de Hacienda y Presupuestos de 15 de diciembre de 2000, por la que se aprueban los modelos y se establece el contenido de los impresos 046 y 048, de ingreso de tasas, precios públicos, multas, sanciones y otros ingresos.
+7. Gestión, comprobación e inspección.–La gestión, comprobación e inspección de las obligaciones derivadas del devengo de la tasa corresponden a los órganos competentes de la consejería competente en materia de familia.
+Se añade por el art. 25 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 435
+
+Artículo 435. Tasa por la inscripción de centros de mediación en el Registro de Centros de Mediación de Colegios Profesionales y de Entidades Públicas o Privadas adscrito al Servicio de Mediación Familiar de las Illes Balears.
+1. Hecho imponible.
+Constituye el hecho imponible de la tasa la realización, por parte de los órganos competentes, de las inscripciones de altas y bajas en el Registro de Centros de Mediación de Colegios Profesionales y de Entidades Públicas o Privadas.
+2. Sujetos pasivos.
+Son sujetos pasivos de la tasa las personas jurídicas públicas o privadas que tengan la condición de centro de mediación de acuerdo con la Ley 18/2006, de 22 de noviembre, de mediación familiar.
+3. Exenciones.
+Están exentos del pago de la tasa los centros de mediación creados por entidades públicas de acuerdo con la Ley 18/2006, de 22 de noviembre, de mediación familiar.
+4. Cuantía.
+La cuantía de la presente tasa es de 50,00 euros por inscripción.
+5. Devengo.
+La tasa se devengará en el momento en que el sujeto pasivo presente la solicitud que determine el inicio de las actuaciones administrativas descritas en el hecho imponible.
+6. Autoliquidación y pago.
+Los sujetos pasivos de la tasa están obligados a practicar las operaciones de autoliquidación tributaria necesarias para el ingreso de su importe. El pago de la tasa se efectuará en efectivo y con anterioridad a la presentación de la correspondiente solicitud, en la forma establecida en la Orden del consejero de Hacienda y Presupuestos de 15 de diciembre de 2000, por la que se aprueban los modelos y se establece el contenido de los impresos 046 y 048, de ingreso de tasas, precios públicos, multas, sanciones y otros ingresos.
+7. Gestión, comprobación e inspección.
+La gestión, comprobación e inspección de las obligaciones derivadas del devengo de la tasa corresponden a los órganos competentes de la consejería competente en materia de familia.
+Se añade por el art. 25 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+## CAPÍTULO II
+
+Tasa para la expedición de la tarjeta sanitaria individual
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 436
+
+Artículo 436. Hecho imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 4.42 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículos 436 a 440
+
+(Derogados)
+Se derogan por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 437
+
+Artículo 437. Exenciones y bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 4.42 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 5.26 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 438
+
+Artículo 438. Sujeto pasivo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 439
+
+Artículo 439. Cuantía.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 440
+
+Artículo 440. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.26 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO III
+
+Tasa por la solicitud de revisión del grado de discapacidad
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 bis
+
+Artículo 440 bis. Hecho imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículos 440 bis a 440 septies
+
+Artículos 440 bis a 440 septies.
+(Derogados)
+Se derogan por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 440 ter
+
+Artículo 440 ter. Sujeto pasivo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 quater
+
+Artículo 440 quáter. Exenciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 quinquies
+
+Artículo 440 quinquies. Cuantía y bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 1.42 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 sexies
+
+Artículo 440 sexies. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 septies
+
+Artículo 440 septies. Pago.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO IV
+
+Tasa por la solicitud de revisión del grado de dependencia
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 octies
+
+Artículo 440 octies. Hecho imponible.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículos 440 octies a 440 terdecies
+
+(Derogados)
+Se derogan por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 440 nonies
+
+Artículo 440 nonies. Sujeto pasivo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 decies
+
+Artículo 440 decies. Exenciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 undecies
+
+Artículo 440 undecies. Cuantía y bonificaciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifica por la disposición final 1.43 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 duodecis
+
+Artículo 440 duodecies. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 terdecies
+
+Artículo 440 terdecies. Pago.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO V
+
+Tasa por los servicios que preste el Registro de parejas estables de las Illes Balears
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 quaterdecies
+
+Artículo 440 quaterdecies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la presentación de la solicitud de inscripción en el Registro de parejas estables de las Illes Balears de las parejas que cumplan los requisitos que establece la Ley 18/2001, de 19 de diciembre, de parejas estables.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 quindecies
+
+Artículo 440 quindecies. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa las personas físicas que presenten la solicitud que constituye el hecho imponible.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 sexdecies
+
+Artículo 440 sexdecies. Cuantía.
+La cuantía de la tasa será de 20 euros por solicitud de inscripción presentada.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 septdecies
+
+Artículo 440 septdecies. Devengo.
+La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 octodecies
+
+Artículo 440 octodecies. Pago.
+El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO VI
+
+Tasa por la utilización privativa o el aprovechamiento especial del dominio público del Servicio de Salud de las Illes Balears
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 novodecies
+
+Artículo 440 novodecies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la utilización privativa o el aprovechamiento especial de bienes de dominio público del Servicio de Salud de las Illes Balears que se lleven a cabo mediante concesión o autorización administrativa.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 vicies
+
+Artículo 440 vicies. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa los titulares de las concesiones o las autorizaciones de utilización privativa o aprovechamiento especial a que se refiere el hecho imponible.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 unvicies
+
+Artículo 440 unvicies. Base imponible.
+1. En los supuestos de utilización privativa de bienes de dominio público, la base de la tasa será el valor del terreno y, en su caso, de las instalaciones ocupadas, tomando como referencia el valor del mercado de los terrenos contiguos o la utilidad derivada de los bienes ocupados.
+2. En los supuestos de aprovechamiento especial de bienes de dominio público, la base de la tasa tomará como referencia la utilidad que produzca su aprovechamiento.
+Cuando sean utilizados procedimientos de licitación pública, la base imponible estará constituida por el valor económico de la proposición sobre la que recaiga la concesión o la autorización.
+Cuando en los pliegos de condiciones o en las cláusulas de la concesión o la autorización se impongan determinadas obligaciones o contraprestaciones al beneficiario que minoren la utilidad económica para éste, la base de la tasa ha de reducirse en la misma proporción.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 duovicies
+
+Artículo 440 duovicies. Cuantía.
+La cuota tributaria de esta tasa debe ser la resultante de aplicar a la base imponible el tipo de gravamen del 5% y del cien por cien, respectivamente, sobre el valor de la base resultante en los supuestos previstos en los apartados 1 y 2 del artículo anterior.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 440 tervicies
+
+Artículo 440 tervicies. Devengo.
+La tasa se devengará en el momento del otorgamiento de la concesión o la autorización y con cada una de las prórrogas de las concesiones o autorizaciones, en su caso, y ha de exigirse en los plazos que se señalen en las condiciones de la mencionada concesión o autorización, mediante la correspondiente liquidación tributaria.
+Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+## CAPÍTULO VII
+
+Tasa por la compulsa de documentos del Servicio de Salud de las Illes Balears
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 quatervicies
+
+Artículo 440 quatervicies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la compulsa de documentos a cargo de los órganos y las unidades del Servicio de Salud de las Illes Balears.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 quinvicies
+
+Artículo 440 quinvicies. Exenciones.
+Estarán exentos de la tasa los servicios a que se refiere el hecho imponible cuando se produzca alguno de los siguientes requisitos:
+a) Que se presten a entes públicos o institucionales.
+b) Que se trate de documentos integrantes de la historia clínica.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 sexvicies
+
+Artículo 440 sexvicies. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa aquellos que soliciten los servicios a que se refiere el hecho imponible.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 septivicies
+
+Artículo 440 septvicies. Cuantía.
+La cuota tributaria de esta tasa se determinará por la aplicación de una tarifa de 0,38 euros por hoja.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 octovicies
+
+Artículo 440 octovicies. Devengo.
+La tasa se devengará cuando se preste el servicio, y podrá exigirse su pago antes de que haga efectivo.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO VIII
+
+Tasa por la realización de fotocopias de documentos del Servicio de Salud de las Illes Balears
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 novovicies
+
+Artículo 440 novovicies. Hecho imponible.
+Constituirá el hecho imponible de esta tasa la realización de fotocopias de documentos del Servicio de Salud de las Illes Balears.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 tricies
+
+Artículo 440 tricies. Exenciones.
+Estarán exentos de la tasa los servicios a que se refiere el hecho imponible cuando se produzca alguno de los siguientes requisitos:
+a) Que se presten a entes públicos o institucionales.
+b) Que se trate de documentos integrantes de la historia clínica.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 untricies
+
+Artículo 440 untricies. Sujeto pasivo.
+Serán sujetos pasivos de esta tasa aquellos que soliciten los servicios a que se refiere el hecho imponible.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 duotricies
+
+Artículo 440 duotricies. Cuantía.
+La cuota tributaria se fijará según las siguientes tarifas:
+a) Fotocopia de tamaño DIN A4, por hoja: 0,10 euros.
+b) Fotocopia de tamaño DIN A3, por hoja: 0,15 euros.
+c) Fotocopia de tamaño DIN A2, por hoja: 0,60 euros.
+d) Fotocopia de tamaño DIN A1, por hoja: 1,20 euros.
+e) Fotocopia de tamaño DIN A0, por hoja: 2,40 euros.
+Cuando se trate de fotocopias en color, la cuantía de la tasa será el resultado de multiplicar por 4 las cuantías anteriores.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 440 tertricies
+
+Artículo 440 tertricies. Devengo.
+La tasa se devengará cuando se preste el servicio, y podrá exigirse su pago antes de que haga efectivo.
+Se añade por la disposición final 4.43 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## TÍTULO XII
+
+Consejería competente en la gestión del Butlletí Oficial de les Illes Balears
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO I
+
+Tasa por la publicación de textos en el Butlletí Oficial de les Illes Balears
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 441
+
+Artículo 441. Hecho imponible.
+El hecho imponible de la tasa es la publicación de textos en el Butlletí Oficial de les Illes Balears.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 442
+
+Artículo 442. Sujetos pasivos.
+1. Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas, públicas o privadas, que soliciten la publicación de textos en el «Boletín Oficial de las Illes Balears».
+En los procedimientos de contratación administrativa y similares, la administración territorial distinta de la Administración de la comunidad autónoma de las Illes Balears, así como cualquier otra personificación, entidad, unidad o ente con personalidad jurídica propia, autonómica o no, son sujetos pasivos contribuyentes de la tasa, sin perjuicio de su repercusión en los particulares. En estos casos, la publicación de los anuncios de licitación es un supuesto de pago previo de la tasa.
+2. En el caso de anuncios de licitaciones en procedimientos de contratación tramitados por la Administración de la comunidad autónoma de las Illes Balears, los adjudicatarios son sustitutos de los contribuyentes y, por lo tanto, deben cumplir todas las obligaciones tributarias propias del sujeto pasivo sin posibilidad de retener ni repercutir la deuda tributaria en los contribuyentes.
+En estos casos, la acreditación, por parte de quien ordenó o solicitó la publicación, del pago del anuncio de licitación es un requisito previo para tramitar la solicitud de publicación del anuncio de adjudicación.
+3. Asimismo, en el caso de anuncios relativos a otros procedimientos tramitados por la Administración de la comunidad autónoma de las Illes Balears, las terceras personas a las que se refiere la letra b) del artículo 444.3 de la presente ley también son sustitutas de los contribuyentes, y se aplicará, en su caso, el mismo régimen establecido en el apartado anterior de este artículo para los procedimientos de contratación.
+Se modifica por la disposición final 1.19 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 443
+
+Artículo 443. Cuantía.
+1. La tasa se exigirá de conformidad con la siguiente tarifa: 0,047 euros por unidad gráfica o espacio tecleado.
+2. En las publicaciones de textos urgentes debe aplicarse un incremento del 50% de la tasa correspondiente. Se entienden por publicaciones urgentes las que se publiquen, a instancia de la persona solicitante, en las setenta y dos horas siguientes a la solicitud de publicación.
+Se modifica el apartado 1 por la disposición final 4.44 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica por la disposición final 2.4 de la Ley 3/2012, de 30 de abril. Ref. BOE-A-2012-7445#df-2
+ Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 444
+
+Artículo 444. Exención y no sujeción.
+1. No está sujeta al pago de la tasa la publicación de leyes, disposiciones y resoluciones que, dado que es obligatoria, se tiene que ubicar en las secciones I, II y III del «Boletín Oficial de las Illes Balears», según el régimen regulador. No obstante, queda sujeta a la tasa la publicación de disposiciones o resoluciones que deban ubicarse en la sección III cuando el importe de la tasa pueda exigirse a una tercera persona en los mismos términos que establece la letra b) del apartado 3 de este artículo.
+2. Todos los anuncios oficiales que, por su carácter como tales, tengan que ubicarse en las secciones IV y V del «Boletín Oficial de las Illes Balears» son de pago, a menos que no estén sujetos a la tasa, estén exentos o el ordenamiento jurídico establezca su gratuidad.
+3. Están exentos del pago de la tasa los anuncios oficiales que tienen que ubicarse en las secciones IV y V cuando la publicación sea obligatoria de acuerdo con una norma legal o reglamentaria.
+En cualquier caso, esta exención no es aplicable:
+a) A los textos publicados a instancia de particulares.
+b) A cualquier otra publicación cuyo importe sea exigible a una tercera persona por el contribuyente. Si no hay ninguna normativa específica, se considerará que el importe de la publicación de anuncios es exigible a una tercera persona cuando se refiera a un procedimiento como resultado del cual esta persona obtenga directa o indirectamente un aprovechamiento privativo o, en general, cualquier beneficio económico.
+c) A las publicaciones correspondientes a procedimientos de contratación administrativa y otros procedimiento previstos en la normativa de carácter patrimonial según lo establecido en el artículo 442.
+d) A las publicaciones derivadas de un procedimiento judicial según lo establecido en el apartado 4.
+4. Las publicaciones derivadas de procedimientos judiciales no están nunca exentas de la tasa, a menos que así lo establezca la correspondiente normativa, que tiene que reflejar expresamente quién ordena la inserción. En el resto de casos, la tasa es de pago previo y es el contribuyente la persona que solicita la publicación, sin perjuicio de que legalmente pueda repercutir su importe.
+5. En cualquier caso, cuando se susciten dudas sobre la obligatoriedad de la publicación, la no sujeción o la exención a la tasa o la gratuidad de la inserción, la carga de fundamentar estos supuestos corresponde a quien los invoque mediante un informe fundamentado del órgano correspondiente o un escrito motivado en casos de particulares. Estas cuestiones no afectan a la obligación de pago, si está establecida como previa, sin perjuicio del derecho de devolución del importe de la tasa, en su caso, una vez resuelta la controversia.
+6. Las referencias a la gratuidad de las publicaciones en el «Boletín Oficial de las Illes Balears» que recogen la Ley 8/2000, de 27 de octubre, de consejos insulares, y las diversas leyes de atribuciones de competencias a los consejos insulares, no implican el establecimiento de ningún nuevo supuesto de gratuidad. De este modo, los supuestos de gratuidad o de pago son los mismos cuando los procedimientos eran tramitados por la Administración de la comunidad autónoma y cuando son tramitados por los consejos insulares, y las eventuales referencias de las leyes antes citadas a la gratuidad de las publicaciones no constituyan por sí mismas supuestos de exención o de no sujeción al margen de los que prevé este artículo.
+Se modifica por la disposición final 1.20 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Se modifican los apartados 1 y 3.b) se añade el 7 por la disposición final 4.45 a 47 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+ Se modifica el apartado 2 por la disposición final 2.5 de la Ley 3/2012, de 30 de abril. Ref. BOE-A-2012-7445#df-2
+ Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 445
+
+Artículo 445. Devengo y gestión.
+1. El devengo de la tasa se produce por la publicación de los textos. No obstante, el pago de la tasa puede ser previo o diferido según lo establecido en esta ley y en la normativa reguladora del funcionamiento del ‘‘Butlletí Oficial de les Illes Balears’’.
+2. La gestión de la tasa puede ser en régimen de autoliquidación o de declaración tributaria. Es en régimen de autoliquidación en los supuestos de pago previo y de declaración en los supuestos de pago diferido. Todo ello sin perjuicio de los otros procedimientos de gestión, recaudación e inspección tributarias establecidos en la legislación vigente. Se pueden fijar otras condiciones de pago de la tasa en la normativa que regula el funcionamiento del ‘‘Butlletí Oficial de les Illes Balears’’.
+3. La normativa que regula el funcionamiento del ‘‘Butlletí Oficial de les Illes Balears’’ puede prever también la constitución de un depósito previo por el importe estimado de la tasa, simultáneo a la solicitud de publicación. Una vez efectuada la publicación y determinada la cuantía exacta exigible, el órgano competente tiene que dictar la liquidación correspondiente y, si corresponde, aprobar la devolución del exceso ingresado.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## CAPÍTULO II
+
+Tasa por la obtención de copias del ‘‘Butlletí Oficial de les Illes Balears’’
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 446
+
+Artículo 446. Hecho imponible.
+El hecho imponible de la tasa es la obtención de copias, en las sedes administrativas, las oficinas de información, las delegaciones territoriales y los otros servicios de acceso público a Internet de la Administración de la comunidad autónoma de las Illes Balears, de textos publicados en el ‘‘Butlletí Oficial de les Illes Balears’’, tanto en soporte informático como en papel.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 447
+
+Artículo 447. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten las copias de textos publicados en el ‘‘Butlletí Oficial de les Illes Balears’’.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 448
+
+Artículo 448. Cuantía.
+La tasa se exige de conformidad con las siguientes tarifas:
+a) Copias en papel en formato DIN-A 4 en blanco y negro: 0,15 euros por hoja.
+b) Copias en CD proporcionado por la Administración: 1,50 euros por CD.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 449
+
+Artículo 449. Exención.
+Está exenta de pago de la tasa la expedición de copias que solicite el personal al servicio de la Administración de la comunidad autónoma para el ejercicio de sus funciones.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+### Artículo 450
+
+Artículo 450. Devengo.
+1. El devengo de la tasa se produce por la expedición de copias de los textos publicados en el ‘‘Butlletí Oficial de les Illes Balears’’.
+2. Esta tasa siempre es de pago previo y se tiene que exigir en régimen de autoliquidación.
+Se añade por la disposición final 1.27 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
+
+## TÍTULO XIII
+
+Servicio de Empleo de las Illes Balears
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO I
+
+Tasas por servicios administrativos generales
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 451
+
+Artículo 451. Hecho imponible.
+1. Constituirá el hecho imponible de la tasa la prestación de los siguientes servicios administrativos:
+a) Fotocopias de documentos.
+b) Compulsa de copias de documentos en soporte papel, electrónico o telemático.
+c) Expedición de documentos autenticados en soporte papel, electrónico o telemático.
+d) Copias en CD.
+2. Quedarán exentos de esta tasa los servicios de compulsa y autenticación de los documentos que se tengan que presentar o sean requeridos en los procedimientos que tramite el Servicio de Empleo de las Illes Balears.
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 452
+
+Artículo 452. Sujeto pasivo.
+Serán sujetos pasivos de la tasa las personas o entidades que soliciten los servicios que constituyen el hecho imponible.
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 453
+
+Artículo 453. Cuantía.
+1. Fotocopias:
+a) Fotocopia de tamaño DIN A4, por hoja: 0,20 euros.
+b) Fotocopia de tamaño DIN A3, por hoja: 0,30 euros.
+c) Fotocopia de tamaño DIN A2, por hoja: 0,50 euros.
+d) Fotocopia de tamaño DIN A1, por hoja: 1,10 euros.
+e) Fotocopia de tamaño DIN A0, por hoja: 2,10 euros.
+Cuando se trate de fotocopias de documentos en color, la cuantía de la tasa será el resultado de multiplicar por 4 las cuantías anteriores.
+2. Compulsa de documentos: 2,25 euros por hoja, con un máximo de 30 euros por documento.
+3. Autenticación de documentos en papel en blanco y negro:
+a) De tamaño DIN A4, por hoja: 2 euros.
+b) De tamaño DIN A3, por hoja: 2,5 euros.
+c) De tamaño DIN A2, por hoja: 3 euros.
+d) De tamaño DIN A1, por hoja: 3,5 euros.
+e) De tamaño DIN A0, por hoja: 4 euros.
+Por cada documento autenticado, la tasa no podrá ser superior a 45 euros.
+4. Cuando se trate de autenticaciones en formato papel de documentos en color, la cuantía de la tasa será el resultado de multiplicar por 4 las cuantías previstas en el apartado 3 anterior.
+5. Expedición de documentos autenticados por medios electrónicos o telemáticos: 3 euros por hoja, con un máximo de 45 euros por documento.
+6. Copias en CD proporcionado por la administración: 10 euros por CD.
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 454
+
+Artículo 454. Devengo y pago.
+La tasa se devengará en el momento de la prestación del servicio. No obstante, se exigirá su pago en el momento de la solicitud del servicio o de la actuación administrativa a que se refiere el hecho imponible, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante la presentación y el ingreso de la correspondiente autoliquidación, en el momento de la presentación de la solicitud.
+Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO II
+
+Tasa por actuaciones administrativas inherentes a los procedimientos del SOIB para autorizar e inscribir centros de formación para impartir grados C del sistema de formación profesional y especialidades formativas del sistema de formación en el trabajo
+Se modifica por la disposición final 1.14 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 455
+
+Artículo 455. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las actuaciones administrativas inherentes a la iniciación de los procedimientos siguientes:
+a) Procedimientos para autorizar centros para impartir formación profesional (grados C – certificados profesionales).
+b) Procedimientos para inscribir centros para impartir formación en el trabajo (especialidades formativas).
+Se modifica por la disposición final 1.14 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 456
+
+Artículo 456. Sujetos pasivos y exenciones.
+1. Son sujetos pasivos de esta tasa las personas físicas o jurídicas que inician los procedimientos administrativos a que se refiere el hecho imponible.
+2. Quedan exentos del pago de esta tasa los centros declarados como propios de la comunidad autónoma de las Illes Balears.
+Se modifica por la disposición final 1.14 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 457
+
+Artículo 457. Cuota tributaria.
+La tasa se exige de acuerdo con las siguientes tarifas:
+a) En los procedimientos de autorizaciones de centros para impartir formación profesional:
+– Primera autorización de grado C: 74,28 euros.
+– Por cada autorización adicional de grado C: 37,15 euros.
+b) En los procedimientos de inscripciones de centros para impartir formación en el trabajo:
+– Primera inscripción de especialidad formativa: 47,26 euros.
+– Por cada inscripción adicional de especialidad formativa: 23,63 euros.
+Se modifica por la disposición final 1.14 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+### Artículo 458
+
+Artículo 458. Devengo y pago.
+1. La tasa se devenga cuando se presenta la solicitud de autorización o la declaración responsable para la inscripción, de acuerdo con lo que dispone la letra b) del artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se hará mediante la presentación y el ingreso de la autoliquidación correspondiente en el momento de presentar la solicitud o la declaración responsable.
+Se modifica por la disposición final 1.14 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
+ Se añade por la disposición final 4.48 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
+
+## CAPÍTULO III
+
+Tasa para la inscripción en el Registro público de personas formadoras para impartir acciones formativas dirigidas a obtener certificados de profesionalidad de las Illes Balears
+Se añade por la disposición final 1.13 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 458 bis
+
+Artículo 458 bis. Hecho imponible.
+Constituyen el hecho imponible de esta tasa las actuaciones administrativas inherentes a la tramitación del procedimiento para verificar el cumplimiento de los requisitos de las personas formadoras para la inscripción en el Registro público de personas formadoras para impartir acciones formativas conducentes a obtener certificados de profesionalidad de las Illes Balears.
+Se añade por la disposición final 1.13 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 458 ter
+
+Artículo 458 ter. Sujeto pasivo.
+Son sujetos pasivos de esta tasa las personas físicas que presenten solicitudes telemáticas de inscripción en el Registro público de personas formadoras para impartir acciones formativas conducentes a obtener certificados de profesionalidad de las Illes Balears.
+Se añade por la disposición final 1.13 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 458 quater
+
+Artículo 458 quater. Cuota tributaria.
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+– Por cada módulo formativo para el cual se solicita la inscripción: 6 euros.
+Se añade por la disposición final 1.13 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 458 quinquies
+
+Artículo 458 quinquies. Devengo y pago.
+1. La tasa se devenga cuando se presenta la correspondiente solicitud, de acuerdo con lo dispuesto en la letra b) del artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears.
+2. El pago de la tasa se hará efectivo mediante la presentación y el ingreso de la correspondiente autoliquidación en el momento de presentar la solicitud.
+Se añade por la disposición final 1.13 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+
+### Artículo 458 sexies
+
+Artículo 458 sexies. Exenciones
+Quedan exentas del pago de la tasa las familias en situación de vulnerabilidad económica o social a las cuales se refiere el apartado 2 del artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias.
+Se añade por la disposición final 1.15 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+## TÍTULO XIV
+
+Tasas aplicables a todas las consejerías de la Administración de la comunidad autónoma y otras entidades instrumentales de derecho público
+Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+## CAPÍTULO ÚNICO
+
+Tasas para la transposición de información en ejercicio del derecho de acceso a la información pública
+Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 459
+
+Artículo 459. Hecho imponible.
+Constituye el hecho imponible de la tasa la prestación de los siguientes servicios administrativos, cuando sea consecuencia del ejercicio del derecho de acceso a la información pública:
+a) La expedición de copias de documentos.
+b) La transposición de la información en papel a formato digital.
+c) La grabación y entrega de los archivos digitales en dispositivos de almacenamiento electrónico.
+Se modifica por la disposición final 1.11 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 460
+
+Artículo 460. Exención.
+Quedan exentas de pago las copias o las transposiciones a formato digital de las primeras veinte hojas en DIN A4 o diez en DIN A3.
+Se modifica por la disposición final 1.12 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 461
+
+Artículo 461. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas o las entidades que solicitan los servicios que constituyen el hecho imponible.
+Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 462
+
+Artículo 462. Cuantía.
+1. Copias en papel o transposición de papel a formato digital:
+a) Tamaño DIN A4, a partir de la copia 21: 0,15 € por hoja.
+b) Tamaño DIN A3, a partir de la copia 11: 0,25 € por hoja.
+c) DIN A2: desde la primera copia: 0,70 € por hoja.
+d) DIN A1: desde la primera copia: 1,5 € por hoja.
+e) DIN A0: desde la primera copia: 2,5 € por hoja.
+2. Cuando se trate de fotocopias en papel de documentos en color, la cuantía de la tasa es el resultado de multiplicar por cuatro las cuantías anteriores.
+3. Cuando no sea posible enviar los archivos de forma electrónica y se tenga que entregar la documentación digitalizada en un dispositivo de almacenamiento electrónico proporcionado por la Administración: 10 € por dispositivo, además de lo que corresponda por la transposición, de conformidad con el apartado 1 de este artículo.
+Se modifica por la disposición final 1.13 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+ Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+### Artículo 463
+
+Artículo 463. Devengo y pago.
+1. La tasa se devenga de acuerdo con lo dispuesto en la letra a) del artículo 10.1 de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears, en el momento en que se inicie la prestación del servicio o el desarrollo de la actividad, sin perjuicio de exigir su depósito previo mediante comunicación por parte del órgano competente de la cuota que se tiene que ingresar.
+2. El pago de la tasa debe hacerse mediante la presentación y el ingreso de la autoliquidación correspondiente.
+Se modifica por la disposición final 1.14 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
+ Se añade por la disposición final 1.21 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+
+## TÍTULO XV
+
+Tasas aplicables a las entidades instrumentales de derecho público
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+## CAPÍTULO ÚNICO
+
+Tasa por los servicios de selección de personal
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Artículo 465
+
+Artículo 465. Hecho imponible.
+Constituye el hecho imponible de esta tasa la inscripción en las convocatorias para seleccionar el personal que tiene que acceder a las entidades integrantes del sector público instrumental de derecho público a que se refiere el título I de la Ley 7/2010, de 21 de julio, del sector público instrumental de la comunidad autónoma de las Illes Balears, de acuerdo con el apartado 3 del artículo 4 de la Ley 58/2003, de 17 de diciembre, general tributaria, y con el apartado 2 del artículo 8 de la Ley 10/2003, de 22 de diciembre, de medidas tributarias y administrativas, salvo que dispongan de una tasa específica en esta ley.
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Artículo 466
+
+Artículo 466. Exenciones.
+Quedan exentas del pago de la tasa las personas con discapacidad igual o superior al 33 % y las familias en situación de vulnerabilidad económica o social a las cuales se refiere el apartado 2 del artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias.
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Artículo 467
+
+Artículo 467. Sujeto pasivo.
+Son sujetos pasivos de la tasa las personas físicas que se inscriben en las convocatorias para seleccionar el personal que tiene que acceder a los entes integrantes del sector público instrumental de derecho público de las Illes Balears, tanto en condición de personal funcionario como de personal laboral.
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Artículo 468
+
+Artículo 468. Cuantía.
+La cuantía de la tasa es la siguiente:
+a) En convocatorias de acceso a plazas o puestos de trabajo para los cuales se exija el título universitario de grado o superior: 28,89 euros.
+b) En convocatorias de acceso a plazas o puestos de trabajo para los cuales se exijan titulaciones de nivel inferior al título universitario de grado: 14,42 euros.
+Las cuantías exigibles como tasa se tienen que consignar expresamente en las convocatorias correspondientes.
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Artículo 469
+
+Artículo 469. Devengo y pago.
+1. La tasa se devenga en el momento de la solicitud de la inscripción. Sin embargo, el pago de la tasa tiene que ser previo a la presentación de la solicitud de inscripción, mediante una autoliquidación, en los impresos habilitados al efecto, y se tiene que hacer el ingreso en cualquier entidad bancaria autorizada.
+2. A la solicitud de inscripción se tiene que adjuntar, en todo caso, una copia de la autoliquidación de la tasa, previamente ingresada.
+3. Cuando por causas no imputables al sujeto pasivo no se haga la actividad que constituye el hecho imponible de la tasa, será procedente la devolución del importe correspondiente. Por lo tanto, no será procedente ninguna devolución de la tasa en los supuestos de exclusión de las pruebas selectivas por causas imputables a la persona interesada.
+Se añade por la disposición final 1.16 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Disposición adicional única
+
+Disposición adicional única. Referencias a autorizaciones de procedimientos administrativos afectados por la Directiva 123/2006 CE.
+Al efecto de la configuración del hecho imponible de las tasas reguladas en esta ley, ha de entenderse que todas las referencias a autorizaciones cuyos procedimientos administrativos resulten afectados por la Directiva 123/2006 CE del Parlamento Europeo y del Consejo, de 12 de diciembre, relativa a los servicios en el mercado interior, incluyen, también, las declaraciones responsables y las comunicaciones previas que, en su caso, las sustituyan.
+Se añade por la disposición final 4.22 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
+
+### Disposición adicional primera
+
+Disposición adicional primera. Referencias a autorizaciones de procedimientos administrativos afectados por la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior.
+Al efecto de la configuración del hecho imponible de las tasas reguladas en esta ley, ha de entenderse que todas las referencias a autorizaciones cuyos procedimientos administrativos resulten afectados por la Directiva 123/2006 CE del Parlamento Europeo y del Consejo, de 12 de diciembre, relativa a los servicios en el mercado interior, incluyen, también, las declaraciones responsables y las comunicaciones previas que, en su caso, las sustituyan.
+Se renumera y se modifica la denominación por la disposición final 1.17 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Habilitación a los entes del sector público instrumental de la comunidad autónoma de las Illes Balears de naturaleza privada.
+Las entidades del sector público instrumental con personalidad jurídico-privada a que se refiere el título segundo de la Ley 7/2010, de 21 de julio, del sector público instrumental de la comunidad autónoma de las Illes Balears, quedan autorizadas para aprobar las tarifas correspondientes a la participación en procesos selectivos, las cuales tienen que respetar la misma estructura y cuantías que fija el artículo 468 de esta ley para la inscripción en las pruebas selectivas de personal al servicio de los entes del sector público instrumental de derecho público.
+Se añade por la disposición final 1.18 de la Ley 11/2022, de 28 de diciembre de 2022. Ref. BOE-A-2023-2980
+
+### Disposición transitoria
+
+Disposición transitoria.
+1. En tanto no se aprueben los correspondientes Decretos de aplicación y ordenación de las tasas previstos en el artículo 2.2 de la Ley 2/1997, de 3 de junio, de Tasas de la Comunidad Autónoma de las Islas Baleares, las normas de gestión y liquidación de las tasas reguladas por la presente Ley deberán continuar rigiéndose la anterior normativa de aplicación.
+2. Por lo que se refiere a la tasa por amarres, invernajes y estadías en la Escuela de Vela Calanova, se aplicará el siguiente procedimiento de liquidación por lo que se refiere al amarre de embarcaciones:
+a) Embarcaciones con base en el puerto: El importe de la tasa se abonará en un único pago antes del día 1 de abril. Para poder seguir teniendo la condición de embarcación con base en el puerto, se deberá proceder al abono de las tarifas en el plazo establecido.
+Se considerarán embarcaciones con base en el puerto aquellas a las que se asigne el atraque por años naturales. En éste caso el importe de la tarifa será independiente de las entradas, salidas o días de ausencia de la embarcación mientras tenga asignado un puesto. Las ausencias por períodos superiores a siete días deberán comunicarse con antelación a la dirección del puerto.
+b) Embarcaciones de paso en el puerto (transeúntes): El importe de la tasa será abonado a su llegada y por días de estancia que se declaren. En el caso de que el plazo inicial declarado tuviera que ser superado, el interesado deberá formular nueva petición y abonar nuevamente por adelantado el importe correspondiente al plazo prorrogado, siempre y cuando el servicio de puerto pueda proceder a la concesión de la prórroga por no tener comprometido el atraque con otro usuario. En el caso de que no fuera posible conceder la prórroga y se ordene el desatraque de la embarcación, deberá abonarse, por cada hora de retraso en que se incurra, la tarifa correspondiente a un día.
+El servicio de atraque ha de solicitarse en las oficinas e la Escuela de Vela Calanova. La ausencia de dicha solicitud implicará el devengo de tarifa doble.
+3. Por lo que se refiere a la tasa por los servicios de control sanitario a entidades de seguro libre de asistencia médico-farmacéutica, la liquidación de la tasa se efectuará mediante declaraciones liquidaciones trimestrales que se presentarán entre los días 1 y 20 de los meses de enero, abril, julio y octubre en relación al trimestre natural anterior.
+4. Durante el año 2021, se bonificará la tasa por la inscripción a la evaluación final de bachillerato en los siguientes términos: cuando uno de los progenitores del alumno esté en situación de paro o afectado por un expediente de regulación temporal de ocupación, la tasa se bonificará en un 50%; cuando los dos progenitores o el progenitor único en caso de familias monoparentales, estén en situación de paro o afectados por un expediente de regulación temporal de ocupación, se eximirá el pago de la tasa.
+Se añade el apartado 4 por la disposición final 1.7 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+A la entrada en vigor de la presente Ley quedarán derogadas cuantas normas de igual o inferior rango se opongan a lo previsto en ella. En particular, quedan derogados:
+a) El anexo de la Ley 7/1986, de 19 de noviembre, de Tasas de la Comunidad Autónoma de la Islas Baleares.
+b) Los artículos 5, 6 y 7 de la Ley 9/1997, de 22 de diciembre, de diversas medidas tributarias y administrativas.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Butlletí Oficial de la Comunitat Autónoma de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a los que correspondan la hagan guardar.
+Palma de Mallorca, 14 de diciembre de 1998.
+Antonio Rami Alós,
+ Jaime Matas Palu,
+ Consejero de Economía y Hacienda
+ Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que las cuantías de las tasas y precios públicos se actualizan, con carácter general, en las leyes de presupuestos generales de cada año y que la Consejería competente en la materia publicará las tarifas vigentes para cada ejercicio.

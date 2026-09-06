@@ -1,0 +1,134 @@
+# Ley 8/2011, de 21 de marzo, del Consejo del Agua de Castilla-La Mancha.
+
+- Identificador BOE: `BOE-A-2011-7841`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-7841
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+El agua se concibe como un patrimonio, un activo social, ambiental y económico directamente relacionado con el bienestar de los ciudadanos. El agua es, efectivamente, un bien común de todas las personas y, en este sentido, los ciudadanos y la sociedad, en general, tenemos el derecho a utilizar y a disfrutar de este recurso; pero al mismo tiempo tenemos la obligación de contribuir a evitar el deterioro de las masas de agua y de preservarlas, en condiciones de cantidad y calidad adecuadas, en beneficio de las generaciones futuras.
+En Castilla-La Mancha, la Agencia del Agua de Castilla-La Mancha fue creada por Ley 6/2009, de 17 de diciembre, y constituida formalmente desde el 7 de julio de 2010. Es hoy el organismo administrativo con el que el Gobierno Regional defiende los derechos de los castellano-manchegos en materia de agua y participa en la planificación hidrológica nacional. Sin embargo, la protección de los recursos hídricos no solo ha de ser un compromiso de los poderes públicos, sino también una responsabilidad de todos los sectores, usuarios y agentes implicados en el uso y gestión del agua y de la ciudadanía en general, que deberá incorporar la eficiencia en el uso del agua y el respeto al medio ambiente a sus actitudes habituales.
+El conjunto de la ciudadanía de Castilla-La Mancha está demostrando, cada vez en mayor medida, una gran sensibilidad y preocupación por la consecución de un modelo de desarrollo sostenible, que haga compatible la garantía de agua suficiente para el crecimiento y el desarrollo económico y poblacional, con el respeto al medio ambiente, en línea con lo establecido en la Directiva 2000/60/CE, del Parlamento Europeo y del Consejo, de 23 de octubre, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas. Esta sensibilidad se traduce en una creciente implicación y participación en la defensa de los derechos del agua en nuestra región. Por ello, resulta imprescindible regular el régimen jurídico de un órgano de consulta y de participación en materia de agua, en el que tengan cabida todas las administraciones públicas, agentes, sectores y usuarios implicados y la sociedad en general, en aras de conseguir una mayor eficacia de las políticas regionales en materia de agua.
+Especial trascendencia tiene este órgano en la revisión de los planes hidrológicos. Castilla-La Mancha, por su situación geográfica en el centro peninsular, está presente en 7 demarcaciones hidrográficas (Tajo, Guadiana, Júcar, Segura, Guadalquivir, Ebro y Duero) y es importante que en todas y cada una de estas demarcaciones hidrográficas puedan verse satisfechas, con todas las garantías, nuestras necesidades hídricas presentes y futuras y que se aseguren caudales ambientales suficientes para garantizar la estructura y funcionalidad de nuestros ecosistemas. En este sentido, el órgano que en virtud de esta Ley se regula, contará, entre sus representantes y en función de su ámbito territorial, con usuarios de las distintas demarcaciones hidrográficas, y participará activamente en todo el proceso de planificación y posterior gestión y seguimiento de los planes hidrológicos que afectan a Castilla-La Mancha.
+Esta norma da cumplimiento al mandato contenido en el artículo 3.3 de la Ley 6/2009, de 17 de diciembre, por la que se crea la Agencia del Agua de Castilla-La Mancha.
+La presente Ley se encuadra en el marco de lo establecido en el artículo 31.1.1.ª del Estatuto de Autonomía de Castilla-La Mancha, que recoge como competencia exclusiva de la Junta de Comunidades de Castilla-La Mancha la organización, régimen y funcionamiento de sus instituciones de autogobierno.
+
+### Artículo 1
+
+Artículo 1. Naturaleza jurídica del Consejo del Agua de Castilla-La Mancha.
+El Consejo del Agua de Castilla-La Mancha es un órgano consultivo y de participación en materia de agua.
+
+### Artículo 2
+
+Artículo 2. Funciones del Consejo.
+El Consejo del Agua de Castilla-La Mancha tiene encomendadas las siguientes funciones:
+a) Informar los anteproyectos de ley y otras disposiciones generales en materia de aguas que hayan de proponerse para su aprobación al Consejo de Gobierno de Castilla-La Mancha.
+b) Informar los planes y proyectos de interés regional que afecten sustancialmente a los usos de agua.
+c) Plantear iniciativas destinadas al uso racional y mejora de la calidad y al buen estado ecológico de las masas de agua en el ámbito de Castilla-La Mancha.
+d) Emitir informes y atender a las consultas planteadas en los supuestos que las normas dispongan.
+e) Emitir informe sobre cuestiones relativas al agua que puedan serle consultadas por el Consejo de Gobierno o por la Agencia del Agua de Castilla-La Mancha y por las Cortes de Castilla-La Mancha.
+f) Participar en la planificación hidrológica que realice la Administración del Estado emitiendo informe sobre cuantos documentos sean sometidos a información pública.
+
+### Artículo 3
+
+Artículo 3. Adscripción.
+El Consejo del Agua de Castilla-La Mancha queda adscrito, a efectos administrativos, a la Agencia del Agua de Castilla-La Mancha.
+
+### Artículo 4
+
+Artículo 4. Composición del Consejo.
+El Consejo del Agua de Castilla-La Mancha tiene la siguiente composición:
+1. Presidencia: La persona titular de la Presidencia de la Agencia del Agua de Castilla-La Mancha.
+2. Vicepresidencia: La persona titular de la Dirección Gerencia de la Agencia del Agua de Castilla-La Mancha.
+3. Las Vocalías natas del Consejo corresponderán a las personas titulares de las siguientes Direcciones Generales de las Consejerías que ostenten las competencias en las siguientes materias:
+a) Medio ambiente.
+b) Agricultura y ganadería.
+c) Desarrollo rural.
+d) Urbanismo y planificación territorial.
+e) Industria, energía y minería.
+f) Salud pública.
+g) Consumo.
+4. Las Vocalías designadas del Consejo del Agua de Castilla-La Mancha, corresponderán a:
+a) Una del Instituto de la Mujer de Castilla-La Mancha.
+b) Dos de la Administración hidráulica del Estado.
+c) Dos de las ONG, cuyo objeto social sea la defensa del medio ambiente, inscrita en el Registro de Asociaciones en Defensa de la Naturaleza de Castilla-La Mancha.
+d) Una de las organizaciones de consumidores y usuarios de Castilla-La Mancha.
+e) Tres de las organizaciones profesionales agrarias con mayor representatividad en Castilla-La Mancha.
+f) Una de cooperativas agroalimentarias de Castilla-La Mancha.
+g) Una de la Federación de regantes de Castilla-La Mancha.
+h) Una de la Red castellanomanchega de desarrollo rural.
+i) Una de la Confederación de Empresarios de Castilla-La Mancha.
+j) Dos de los sindicatos de trabajadores más representativos de la región.
+k) Una de la Federación de Municipios y Provincias de Castilla-La Mancha.
+l) Una de la Universidad de Castilla-La Mancha.
+La designación de las vocalías designadas atenderá al principio de participación equilibrada entre hombres y mujeres.
+5. La Secretaría del Consejo del Agua de Castilla-La Mancha corresponderá a personal funcionario de la Agencia del Agua de Castilla-La Mancha designado por la persona titular de la Presidencia de este órgano, que actuará con voz, pero sin voto.
+Se modifica por la disposición final 4 de la Ley 2/2022, de 18 de febrero. Ref. BOE-A-2022-4920#df-4
+
+### Artículo 5
+
+Artículo 5. Régimen de designación y sustitución.
+1. Las personas integrantes del Consejo del Agua de Castilla-La Mancha enumeradas en los números 1 y 2 del artículo anterior lo serán por razón de su cargo y se renovarán con el mismo. La persona titular de la Vicepresidencia del Consejo sustituye a la persona titular de la Presidencia, en el ejercicio de sus funciones, en caso de vacante, ausencia, enfermedad o imposibilidad de ejercicio.
+2. Las vocalías enumeradas en el número 3 del artículo anterior, lo serán por razón del cargo, y se renovarán con el mismo. Igualmente, se renovarán cuando se produzca una modificación de sus competencias que, por su naturaleza, así lo aconseje. En caso de imposibilidad justificada de asistencia de cualquier persona que ejerza una vocalía nata, esta podrá designar una persona suplente que asumirá sus funciones en la reunión específica para la que haya sido designada.
+3. Las vocalías enumeradas en el número 4 del artículo anterior, en representación de la Administración hidráulica del Estado, administración local, organizaciones sociales, económicas y ambientales serán nombradas y cesadas del siguiente modo:
+Las señaladas en los apartados a) a g) por la Presidencia del Consejo del Agua de Castilla-La Mancha, a propuesta de las administraciones, organizaciones, entidades o sectores a los que representen, los cuales propondrán, al mismo tiempo, un número igual de personas suplentes, que serán nombradas con tal carácter y que sustituirán a la persona titular en caso de imposibilidad de asistencia.
+Las vocalías citadas en el apartado h) por la Presidencia del Consejo del Agua de Castilla-La Mancha. En caso de imposibilidad justificada de asistencia de cualquiera de estas personas, se podrá designar una persona suplente que asumirá sus funciones en la reunión específica para la que haya sido designada.
+4. Las vocalías enumeradas en el número 5 del artículo anterior, en representación de usuarios serán nombradas y cesadas del siguiente modo:
+Las vocalías citadas en los apartado a) a c) por la Presidencia del Consejo del Agua de Castilla-La Mancha, a propuesta de las organizaciones, entidades o sectores a los que representen, los cuales propondrán, al mismo tiempo, un número igual de personas suplentes, que serán nombradas con tal carácter y que sustituirán a la persona titular en caso de imposibilidad de asistencia.
+Las vocalías citadas en el apartado d) por la Presidencia del Consejo del Agua de Castilla-La Mancha. En caso de imposibilidad justificada de asistencia de cualquiera de estas personas designadas, se podrá designar una persona suplente que asumirá sus funciones en la reunión específica para la que haya sido designada.
+
+### Artículo 6
+
+Artículo 6. Convocatorias.
+1. El Consejo del Agua de Castilla-La Mancha se reunirá, a iniciativa de la Presidencia o a petición de la mitad de sus miembros, cuantas veces sea necesario para el ejercicio de las funciones que tiene encomendadas.
+2. Cuando la convocatoria se produzca a petición de la mitad de los miembros del Consejo, estos deberán especificar en escrito dirigido a la Presidencia los asuntos que justifiquen la convocatoria.
+3. La Presidencia del Consejo del Agua de Castilla-La Mancha podrá convocar a las reuniones de este, a cuantos funcionarios públicos u otras personas considere oportuno, de acuerdo con los asuntos a tratar, quienes actuarán con voz y sin voto.
+
+### Artículo 7
+
+Artículo 7. Funcionamiento.
+1. Las convocatorias se realizarán mediante citación, por escrito o por correo electrónico, de la Secretaría del Consejo a cada uno de las personas integrantes del mismo, haciéndose constar en la misma la fecha, hora y lugar de celebración de la sesión, así como el orden del día de la misma.
+2. Las convocatorias serán realizadas con una antelación mínima de 10 días, salvo los casos de urgencia, apreciados motivadamente por la Presidencia, en los que el plazo podrá reducirse a 48 horas, notificándose entonces a las personas integrantes del Consejo telegráficamente, telefónicamente, por correo electrónico o mediante fax.
+A estos efectos, será fehaciente la comunicación practicada por el medio y en el lugar designados al efecto por cada uno de los miembros del Consejo.
+3. La documentación relativa a los puntos incluidos en el orden del día que lo requieran, se remitirá con el escrito de convocatoria, salvo que con carácter excepcional, dicha documentación no esté disponible en ese momento, la cual deberá estar a disposición de los miembros del Consejo, en todo caso, 48 horas antes de su celebración.
+4. El Consejo podrá celebrar reuniones no presenciales, convocadas con esa condición y garantizando que por cualquier medio todas las personas que lo componen puedan deliberar y decidir por comunicación escrita en el plazo a tal efecto establecido y que se cumplen todos los demás requisitos señalados en este artículo.
+5. Para el mejor desempeño de sus funciones el Consejo podrá constituir, mediante acuerdo del Pleno, Comisiones de trabajo, de carácter temporal o permanente, que considere necesarias, cuya composición, cometido y funcionamiento se determinará por el Consejo.
+
+### Artículo 8
+
+Artículo 8. Constitución, sesiones y actas.
+1. Para que el Consejo del Agua de Castilla-La Mancha se considere válidamente constituido, a efectos de celebración de sesiones, deliberación y adopción de acuerdos, se requerirá, en primera convocatoria, la presencia de las personas titulares de la Presidencia y la Secretaría o, en su caso de quienes les sustituyan, y la de la mitad de las personas que ocupen puestos en vocalías. En segunda convocatoria, será suficiente la presencia de las personas titulares de la Presidencia y la Secretaría, o quienes les sustituyan, y la cuarta parte de las personas que ocupen puestos de vocalías del Consejo.
+2. Los acuerdos se adoptarán por mayoría de los votos presentes, válidamente emitidos, dirimiendo los empates el voto de calidad de la Presidencia.
+3. De cada una de las sesiones se levantará acta, por parte de la Secretaría, especificando la relación de asistentes, el orden del día, el lugar y tiempo de celebración de la sesión, los principales puntos de las deliberaciones, así como los acuerdos adoptados.
+Las actas se aprobarán en la siguiente sesión. No obstante, la Secretaría podrá emitir certificación sobre acuerdos específicos que se hayan adoptado, sin perjuicio de la ulterior aprobación del acta, haciendo constar expresamente esta circunstancia.
+4. Las personas que participen en el Consejo del Agua de Castilla-La Mancha y se abstengan o voten en contra de un acuerdo, quedarán exentas de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.
+Las personas del Consejo del Agua de Castilla-La Mancha que discrepen de la mayoría podrán formular votos particulares, que deberán incorporarse al texto aprobado. Los votos particulares habrán de presentarse ante la Secretaría en un plazo máximo de cuarenta y ocho horas a contar desde el final de la sesión.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Designación de representantes del Consejo del Agua de Castilla-La Mancha.
+En el plazo de 30 días desde la entrada en vigor de esta Ley, las organizaciones, entidades o sectores con representación en este Consejo propondrán a la Presidencia, conforme a lo dispuesto en el artículo 5, el nombre de sus representantes y sus respectivos suplentes.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto por esta Ley.
+2. Queda derogado el Decreto 41/2006, de 18 de abril, por el que se crea el Consejo Regional del Agua de Castilla-La Mancha.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo normativo.
+Se habilita al Gobierno de Castilla-La Mancha para desarrollar mediante Decreto lo dispuesto en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+Toledo, 21 de marzo de 2011.
+El Presidente,
+José María Barreda Fontes.

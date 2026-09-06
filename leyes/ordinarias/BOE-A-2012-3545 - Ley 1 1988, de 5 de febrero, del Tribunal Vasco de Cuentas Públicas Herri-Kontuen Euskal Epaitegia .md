@@ -1,0 +1,420 @@
+# Ley 1/1988, de 5 de febrero, del "Tribunal Vasco de Cuentas Públicas" / "Herri-Kontuen Euskal Epaitegia".
+
+- Identificador BOE: `BOE-A-2012-3545`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3545
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 1/1988, de 5 de febrero, del Tribunal Vasco de Cuentas Públicas/Herri-Kontuen Euskal Epaitegia. Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 16 de febrero de 1988.
+El Lehendakari,
+José Antonio Ardanza Garro.
+EXPOSICIÓN DE MOTIVOS
+El artículo 65 de la Ley 12/1983, de 22 de junio, de Principios Ordenadores de la Hacienda General del País Vasco dispone que, sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, el Tribunal Vasco de Cuentas Públicas controlará la actividad económica de la Comunidad Autónoma de Euskadi en los términos contenidos en la normativa que lo cree y regule.
+Por su parte, el artículo 30 de la Ley 27/1983 de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos, determina la configuración básica del Tribunal Vasco de Cuentas Públicas, y su epígrafe 9 establece que una Ley del Parlamento Vasco creará y regulará la composición, organización y funciones de dicho órgano, así como las garantías y procedimiento de sus funciones fiscalizadora y jurisdiccional.
+Partiendo de estas premisas normativas, la presente Ley procede a la creación formal del Tribunal Vasco de Cuentas Públicas así como a su regulación desde una doble perspectiva: por una parte ordena el régimen institucional de este órgano, incluyendo su composición, organización y régimen económico, patrimonial y de personal; por otra parte, contempla el régimen de su funcionamiento, estableciendo los principios fundamentales de actuación del Tribunal en congruencia con la configuración funcional que, del mismo, hace el artículo 30 de la Ley de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos.
+La creación de este Tribunal supone, pues, la culminación del autogobierno económico-financiero en el ámbito territorial de la Comunidad Autónoma de Euskadi.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO PRIMERO
+
+Creación y ámbito competencial
+
+### Artículo 1
+
+Artículo 1. Creación.
+1. Se crea el Herri-Kontuen Euskal Epaitegia/Tribunal Vasco de Cuentas Públicas, en adelante Tribunal Vasco de Cuentas Públicas, como órgano propio de la Comunidad Autónoma de Euskadi dependiente directamente del Parlamento Vasco.
+2. El Tribunal Vasco de Cuentas Públicas tendrá, en el ámbito de sus competencias, el carácter de supremo órgano fiscalizador de las actividades económico-financieras y contables del Sector Público Vasco y ejercerá sus funciones en la Comunidad Autónoma por delegación del Parlamento Vasco.
+
+### Artículo 2
+
+Artículo 2. Ámbito y extensión del control.
+1. Sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, el Tribunal Vasco de Cuentas Públicas extiende su control a:
+a) La actividad del sector público vasco, que a los efectos de esta ley estará integrado por:
+El sector público de la Comunidad Autónoma de Euskadi, en los términos definidos en el texto refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, aprobado por el Decreto Legislativo 1/1997.
+Las juntas generales y las diputaciones forales de cada uno de los territorios históricos y los entes institucionales y sociedades públicas de ellos dependientes.
+Las entidades locales y los entes institucionales y sociedades públicas de ellos dependientes, en razón a las peculiaridades del régimen económico-financiero establecido en la Ley de Concierto Económico.
+Cualquier persona jurídica creada bajo cualquier modalidad admitida en derecho, si está participada o financiada mayoritariamente de forma directa o indirecta por entidades del sector público vasco, o si su participación o financiación minoritaria sumada implica, en un mismo ente, participación o financiación mayoritaria.
+Cualquier otra entidad que administre o utilice caudales o efectos públicos procedentes de los entes anteriormente enumerados.
+b) La actividad de cualquier otra persona física o jurídica no incluida en el apartado anterior que perciba ayudas económicas o financieras del sector público vasco. El control se referirá a la correcta utilización y destino de las ayudas.
+c) Gozarán de la naturaleza de ayudas las subvenciones y las exenciones o beneficios fiscales, así como las aportaciones o cesiones de bienes o industria, los créditos, los avales y otras garantías concedidas por el sector público vasco a título gratuito o por precio inferior al de mercado.
+2. El Tribunal Vasco de Cuentas Públicas asistirá al Parlamento en el control de la actividad económico-financiera vinculada a sus funciones estrictamente administrativas.
+Se modifica el apartado 1 por el art. 6 de la Ley 6/2012, de 1 de marzo. Ref. BOE-A-2012-4594.
+ Se levanta la vigencia y aplicación del apartado 1.a) por auto del TC de 8 de noviembre de 1988. Ref. BOE-A-1988-26746.
+ Téngase en cuenta que se declara extinguido el proceso por desistimiento del recurrente por Auto del TC de 21 de marzo de 1991. Ref. BOE-A-1991-7954.
+ Se suspende la vigencia y aplicación del apartado 1.a) desde el 1 de junio de 1988 para las partes en el proceso y desde el 15 de junio de 1988 para los terceros, por providencia del TC de 6 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad núm. 1013/1988. Ref. BOE-A-1988-14706.
+
+## CAPÍTULO SEGUNDO
+
+Funciones y actuación
+
+### Artículo 3
+
+Artículo 3. Funciones.
+1. Con la extensión a que se refiere el artículo 2, el Tribunal Vasco de Cuentas Públicas ejercerá las siguientes funciones:
+a) la función fiscalizadora.
+b) en materia de enjuiciamiento de la responsabilidad contable actuará de conformidad a lo previsto en la legislación vigente.
+A tales efectos, el Tribunal Vasco de Cuentas Públicas podrá instruir procedimientos jurisdiccionales encaminados al enjuiciamiento de responsabilidades contables en que puedan incurrir quienes tengan a su cargo el manejo de caudales o efectos públicos por delegación del Tribunal de Cuentas.
+Será pública la acción para la exigencia de la responsabilidad contable ante el Tribunal Vasco de Cuentas Públicas quien dará cuenta de su ejercicio al Tribunal de Cuentas mediante el traslado de la correspondiente denuncia y solicitará para sí la correspondiente delegación para el cumplimiento de su función jurisdiccional, de conformidad con el inciso anterior.
+A partir de la iniciación del procedimiento de enjuiciamiento de responsabilidades contables, el Tribunal Vasco de Cuentas Públicas podrá adoptar cuantas medidas precautorias considere oportunas para salvaguardar y proteger los bienes, caudales y efectos públicos, o para garantizar el cumplimiento, por el presunto responsable, de la resolución que, en su caso, le declare incurso en responsabilidad.
+2. Asimismo, tendrá como función propia el asesoramiento al Parlamento Vasco en materia económico-financiera. Dicha función se ejercerá por el Tribunal Vasco de Cuentas Públicas a requerimiento del Pleno del Parlamento Vasco.
+El Tribunal Vasco de Cuentas Públicas, a través de su Presidente podrá recabar cuantos datos, informes y documentos considere necesarios para el cumplimiento de su función de asesoramiento.
+
+### Artículo 4
+
+Artículo 4. Actuación.
+1. El Tribunal Vasco de Cuentas Públicas ejercerá sus funciones con independencia, autonomía en la ejecución del presupuesto aprobado por el Parlamento Vasco y sometimiento pleno al ordenamiento jurídico.
+2. El examen de la ejecución presupuestaria del Tribunal Vasco de Cuentas Públicas será llevado a cabo por una auditoria externa, o bien por alguno de los denominados órganos de control externo (OCEX) de otra comunidad autónoma, para lo que deberá suscribir los correspondientes convenios con dichos organismos públicos. Esta fiscalización se trasladará al Parlamento Vasco como anexo al informe anual al que se hace referencia en el artículo 13.3 de esta ley.
+Se modifica por el art. 1 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+## TÍTULO II
+
+Régimen de funcionamiento
+
+## CAPÍTULO PRIMERO
+
+Disposiciones generales
+
+### Artículo 5
+
+Artículo 5. Colaboración, comprobación e inspección.
+1. En el ejercicio de sus funciones, el Tribunal está facultado para:
+a) Acceder a todos los expedientes y documentos, datos, antecedentes e informes relativos a la gestión del Sector Público Vasco y de las entidades a que se refiere el artículo 2.1 de la presente Ley, así como exigir la entrega de cuantos escritos, informes o aclaraciones considere necesarios. La petición se efectuará por conducto del Departamento o Corporación que corresponda.
+b) Efectuar las comprobaciones que considere necesarias en relación con las existencias en metálico, valores, mercancías, etc.
+c) Decidir, en cada caso, la realización del control en la sede del órgano controlado o del propio Tribunal.
+2. En el ejercicio de las funciones anteriores, el Tribunal se valdrá preferentemente de su propio personal, salvo cuando la necesidad de conocimientos técnicos específicos requiera el recurso a expertos ajenos expresamente habilitados.
+3. El Tribunal podrá fijar plazos para la presentación de la documentación o para la comparecencia oral. Su incumplimiento será considerado obstrucción en los términos establecidos en el artículo 6 de la presente Ley.
+
+### Artículo 6
+
+Artículo 6. Obstrucción.
+1. La no remisión de la información solicitada, la incomparecencia o el incumplimiento de los plazos prefijados podrá dar lugar a la adopción por el Tribunal de las siguientes medidas:
+a) Requerimiento conminatorio, por escrito, a los obligados a colaboración con concesión de nuevo plazo perentorio y comunicación simultánea del incumplimiento a los superiores que deberán dar explicación razonada del mismo.
+b) Comunicación del incumplimiento al órgano superior al que pertenezca el requerido, si no fuera respetado el plazo perentorio concedido.
+2. Con independencia de las medidas anteriores adoptadas por el Tribunal, la obstrucción tendrá el carácter de infracción, pudiendo ser sancionada en los términos que se establezcan en las normas complementarias aprobadas por el Parlamento Vasco con naturaleza de ley.
+En todo caso cualquier conducta obstruccionista será puesta en conocimiento del Parlamento Vasco.
+3. La falta de colaboración y el impedimento o entorpecimiento de las actividades de comprobación e inspección, se encuentran comprendidos, en todo caso, en la referida categoría de obstrucción.
+
+### Artículo 7
+
+Artículo 7. Relaciones institucionales.
+1. La actividad del Tribunal Vasco de Cuentas Públicas, referente a la Administración General e Institucional de la Comunidad Autónoma de Euskadi, se canalizará a través del supremo órgano responsable de la Intervención de la misma cuando se refiera a materias pertenecientes a su ámbito funcional; en otro caso, tal actividad podrá tener lugar directamente entre el Tribunal y el Ente u órgano que proceda, poniéndolo en conocimiento del órgano interventor citado.
+2. La actividad del Tribunal referente a las Juntas Generales, Diputaciones Forales y Corporaciones Municipales, se canalizará a través del órgano que resulte de la normativa que les sea aplicable.
+3. Las relaciones entre el Tribunal Vasco de Cuentas Públicas y el Parlamento se canalizarán a través de la Comisión de Economía, Hacienda y Presupuestos.
+4. El Tribunal, como órgano de control externo, podrá controlar la eficacia de los órganos de control interno que, en todo caso, deberán colaborar con el Tribunal cuando éste lo requiera.
+Asimismo, el Tribunal podrá proponer las medidas que considere adecuadas para lograr la necesaria coordinación y colaboración entre los controles interno y externo.
+
+### Artículo 8
+
+Artículo 8. Accesibilidad.
+1. Las cuentas examinadas por el Tribunal Vasco de Cuentas Públicas en el ejercicio de sus competencias serán accesibles a los miembros del Parlamento Vasco sobre la totalidad de los entes integrantes del Sector Público Vasco, a las Juntas Generales respecto a todos los entes de los Territorios Históricos y a las Corporaciones Municipales sobre las suyas propias y entes de ellas dependientes.
+2. Los ciudadanos podrán obtener copias y certificaciones acreditativas de las cuentas a las que se refiere el párrafo anterior y consultar los archivos y registros del Tribunal Vasco de Cuentas Públicas en los términos en que disponga la legislación que desarrolla el artículo 105 b) de la Constitución.
+3. El Tribunal Vasco de Cuentas Públicas pondrá a disposición de la ciudadanía en el Portal de Transparencia, de una forma centralizada, toda la información sujeta a la obligación de publicidad activa, prevista en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y, en todo caso, los informes definitivos de fiscalización emitidos por el Tribunal Vasco de Cuentas Públicas, su programa anual de trabajo, las memorias anuales y el presupuesto anual aprobado por el Parlamento Vasco.
+Se añade el apartado 3 por el art. 2 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+## CAPÍTULO SEGUNDO
+
+Función fiscalizadora
+
+### Artículo 9
+
+Artículo 9. Contenido.
+1. La fiscalización tiene por objeto verificar la adecuación al ordenamiento jurídico de la actividad económico-financiera de los Entes integrantes del Sector Público Vasco. El Tribunal Vasco de Cuentas Públicas ejercerá su función en relación a la ejecución de los programas de ingresos y gastos públicos.
+2. La fiscalización se extiende también al cumplimiento de la finalidad para la que hayan sido concedidas las ayudas contempladas en el apartado b) del artículo 2.
+3. Dicha fiscalización se extenderá, igualmente, al examen de la eficacia y eficiencia de la actividad económico-financiera de los Entes integrantes del Sector Público Vasco y a la proposición de medidas de racionalización y mejora de la misma respecto a todos o algunos de los indicados entes. Este examen podrá tener por objeto la totalidad o parte de la actividad económico-financiera, pudiendo utilizar procedimientos de muestreo y tendrá el alcance y duración que expresamente se determine.
+4. En el ejercicio de la función fiscalizadora, el Tribunal Vasco de Cuentas Públicas examinará y comprobará la documentación relativa a la liquidación de los presupuestos generales de la Comunidad Autónoma del País Vasco, que se rendirá a tal efecto por el departamento competente en materia de control económico interno y contabilidad al mes siguiente a su confección.
+En el plazo de cuatro meses a partir de la recepción de la liquidación, el Tribunal Vasco de Cuentas Públicas elaborará un informe de fiscalización, el cual deberá pronunciarse necesariamente sobre el cumplimiento de la legislación vigente en materia de gestión de los fondos públicos, la racionalidad en la ejecución de los gastos públicos basados en criterios de economía y eficacia y el sometimiento de la documentación financiera presentada a los principios contables que resulten de aplicación.
+El informe elaborado será remitido, a través del órgano de control económico correspondiente, al Gobierno Vasco para la presentación de las alegaciones que estime oportunas, tras cuyo análisis el Tribunal Vasco de Cuentas Públicas emitirá el informe de fiscalización relativo a la liquidación presupuestaria presentada.
+El informe así emitido por el Tribunal Vasco de Cuentas Públicas será puesto en conocimiento del Gobierno a los efectos oportunos, y sus conclusiones serán publicadas en el Boletín Oficial del País Vasco, y, junto con la documentación relativa a la liquidación de los presupuestos generales de la Comunidad Autónoma del País Vasco, será remitido, por el propio órgano de control externo, al Parlamento Vasco para su consideración y correspondiente tramitación.
+5. Del mismo modo, la documentación relativa a la liquidación de los Presupuestos de las Diputaciones Forales y, cuando así se requiera, de las Corporaciones Municipales, serán remitidas al Tribunal Vasco de Cuentas Públicas en los mismos plazos del número anterior, siendo el informe emitido por el Tribunal puesto en conocimiento del Parlamento y remitido a los entes fiscalizados a quienes corresponde la adopción de las medidas oportunas que resulten del contenido de tal informe. Los informes correspondientes se pronunciarán sobre los extremos expresados en el número anterior.
+Se modifica el apartado 4 por la disposición final 4 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
+ Se modifica el apartado 4 por la disposición final 5 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
+ Se levanta la vigencia y aplicación del apartado 5 por auto del TC de 8 de noviembre de 1988. Ref. BOE-A-1988-26746.
+ Téngase en cuenta que se declara extinguido el proceso por desistimiento del recurrente por Auto del TC de 21 de marzo de 1991. Ref. BOE-A-1991-7954.
+ Se suspende la vigencia y aplicación del apartado 5 desde el 1 de junio de 1988 para las partes en el proceso y desde el 15 de junio de 1988 para los terceros, por providencia del TC de 6 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad núm. 1013/1988. Ref. BOE-A-1988-14706.
+
+### Artículo 10
+
+Artículo 10. Materias objeto de fiscalización.
+El Tribunal Vasco de Cuentas Públicas fiscalizará, entre otras materias, lo siguiente:
+a) Los contratos celebrados por el Sector Público Vasco, en los casos en que así esté establecido, o que el Tribunal considere conveniente. Si se refiere a contratos de obras públicas, la fiscalización se extenderá a la rentabilidad de las obras y a la eficacia de su ejecución.
+b) La situación y variaciones del patrimonio del Sector Público Vasco.
+c) Los créditos adicionales, así como las incorporaciones, transferencias y habilitaciones y demás modificaciones de los créditos presupuestarios iniciales del Sector Público Vasco.
+d) La legalidad, regularidad y eficacia de los ingresos presupuestarios.
+
+### Artículo 11
+
+Artículo 11. Iniciativa y elaboración del Programa anual de Trabajo.
+1. La iniciativa en el ejercicio de la función fiscalizadora corresponderá al Parlamento Vasco y al propio Tribunal Vasco de Cuentas Públicas. En el primer caso se realizará a requerimiento del Pleno del Parlamento Vasco; en el segundo, en su caso, a través del programa anual aprobado por el propio Tribunal Vasco de Cuentas Públicas.
+2. El Tribunal Vasco de Cuentas Públicas, en orden a la elaboración del Programa anual de Trabajo y previamente a su aprobación definitiva, consultará preceptivamente al Parlamento Vasco y Juntas Generales a fin de que, por los mecanismos que dispongan sus reglamentos, expresen las prioridades que, a su juicio, puedan existir en el ejercicio de la función fiscalizadora que debe ejercer el Tribunal.
+
+### Artículo 12
+
+Artículo 12. Medios de actuación.
+Sin perjuicio de lo dispuesto en los artículos 5 y 6 de la presente Ley, el Tribunal Vasco de Cuentas Públicas ejercerá su función fiscalizadora mediante el examen de cuantos datos, antecedentes, informes, documentos y soportes informáticos juzgue preciso recabar en relación a las operaciones presupuestarias, patrimoniales y de tesorería.
+
+### Artículo 13
+
+Artículo 13. Informes.
+1. El ejercicio de la función fiscalizadora del Tribunal Vasco de Cuentas Públicas se materializará en informes que podrán ser ordinarios o extraordinarios.
+Con anterioridad a la elaboración de los informes, el Tribunal Vasco de Cuentas Públicas dará cuenta de los resultados de la fiscalización efectuada a las personas o entes fiscalizados a fin de que aleguen o aporten los documentos o justificaciones que estimen oportuno en la forma y plazos que al efecto se establezcan.
+2. Los informes con la oportuna propuesta serán remitidos al Parlamento Vasco así como a las Juntas Generales en lo que afecte a sus correspondientes Territorios Históricos y a las Corporaciones Municipales en su caso, dando traslado de los mismos al Gobierno y a la respectiva Diputación Foral. Al objeto de dar cuenta del resultado de su labor, las conclusiones de los informes serán publicadas en el plazo de dos meses en los boletines oficiales correspondientes.
+3. Como resultado de su función fiscalizadora el Tribunal Vasco de Cuentas Públicas elaborará un informe anual sobre las cuentas de todas las operaciones del Sector Público Vasco, así como un resumen de todas las actividades desarrolladas durante el ejercicio por el propio Tribunal Vasco de Cuentas Públicas.
+En el citado informe anual se harán constar las medidas que se proponen para la mejora de la gestión económico-financiera del Sector Público Vasco.
+Asimismo, al informe anual relativo a la función fiscalizadora se unirá un informe sobre las actuaciones jurisdiccionales llevadas a cabo por el Tribunal Vasco de Cuentas Públicas en el ejercicio correspondiente.
+Se levanta la vigencia y aplicación del apartado 2 por auto del TC de 8 de noviembre de 1988. Ref. BOE-A-1988-26746.
+ Téngase en cuenta que se declara extinguido el proceso por desistimiento del recurrente por Auto del TC de 21 de marzo de 1991. Ref. BOE-A-1991-7954.
+ Se suspende la vigencia y aplicación del apartado 2 desde el 1 de junio de 1988 para las partes en el proceso y desde el 15 de junio de 1988 para los terceros, por providencia del TC de 6 de junio de 1988, que admite a trámite el recurso de inconstitucionalidad núm. 1013/1988. Ref. BOE-A-1988-14706.
+
+## TÍTULO III
+
+Régimen institucional
+
+## CAPÍTULO PRIMERO
+
+Composición
+
+### Artículo 14
+
+Artículo 14. Número.
+El Tribunal Vasco de Cuentas Públicas está compuesto por siete miembros.
+
+### Artículo 15
+
+Artículo 15. Elección.
+1. Las miembros y los miembros del Tribunal Vasco de Cuentas Públicas serán elegidos entre aquellas personas que estén en posesión de titulación académica superior, entre otras, las personas licenciadas o graduadas en Derecho, en Ciencias Económicas o Empresariales, o con títulos superiores equivalentes, que dispongan de reconocida competencia garantizada en relación con el ámbito funcional del Tribunal y, en todos los casos, con una experiencia profesional de al menos doce años.
+2. Las miembros y los miembros del Tribunal Vasco de Cuentas Públicas serán elegidos por el Pleno del Parlamento Vasco, requiriéndose el voto favorable de sus tres quintas partes. En la presentación de las candidaturas deberá velarse por la presencia equilibrada de hombres y mujeres.
+3. La elección será efectiva desde la fecha en que la persona electa haya tomado posesión de su cargo una vez publicado el correspondiente nombramiento en el "Boletín Oficial del País Vasco".
+Se modifica por el art. 3 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+### Artículo 16
+
+Artículo 16. Ejercicio del cargo.
+1. La condición de miembro del Tribunal Vasco de Cuentas Públicas tiene la naturaleza de cargo público a todos los efectos.
+2. La elección de miembro del Tribunal Vasco de Cuentas Públicas atribuye el derecho a pasar a la situación administrativa de servicios especiales a los funcionarios de carrera, de empleo interinos, y contratados administrativos y el derecho a excedencia forzosa a los contratados laborales de la Comunidad Autónoma de Euskadi, Territorios Históricos y Corporaciones Municipales comprendidos en el ámbito territorial de aquélla. El régimen de servicios especiales será el mismo que rija en cada momento para los miembros del Parlamento Vasco.
+3. Los miembros del Tribunal gozarán de la misma independencia e inamovilidad que los jueces.
+4. Las miembros y los miembros del Tribunal Vasco de Cuentas Públicas estarán sujetos a las mismas causas de incapacidad, incompatibilidades y prohibiciones establecidas para los jueces. Será, en todo caso, incompatible con la condición de:
+a) Parlamentaria o parlamentario vasco.
+b) Diputada o diputado en el Congreso de los Diputados.
+c) Senadora o senador.
+d) Miembro del Tribunal de Cuentas o de cualquier otro órgano de control externo del sector público.
+e) Miembro que ostente funciones directivas o ejecutivas en partidos políticos, en centrales sindicales y en asociaciones empresariales.
+f) Cualquier cargo político o administrativo del Estado, de otras comunidades autónomas o de los entes asimilables a los que se refiere el artículo 2.1.a de esta ley.
+g) Cualquier cargo político o administrativo de la Comunidad Autónoma del País Vasco o de los entes a los que se refiere el artículo 2.1.a de esta ley.
+h) El ejercicio de su profesión o de cualquier otra actividad liberal, mercantil o laboral remunerada o no, a excepción de las previstas en el artículo 17 de la Ley 1/2014, de 26 de junio, Reguladora del Código de Conducta y de los Conflictos de Intereses de los Cargos Públicos, siempre que se cumplan las condiciones establecidas en dicho artículo.
+i) Cualquier otro mandamiento representativo de elección popular, no recogido en los apartados anteriores.
+j) Cualquier cargo político de libre designación.
+k) Desempeño de funciones directivas en una asociación o fundación que tenga la condición de cuentadante en el Tribunal Vasco de Cuentas Públicas.
+l) Permanencia en el servicio activo en cualquier administración pública.
+Las miembros y los miembros del Tribunal Vasco de Cuentas Públicas, mientras se hallen en activo, no podrán desempeñar otros cargos públicos. Así mismo, les estará prohibido actuar en representación de un partido político o sindicato.
+Las miembros y los miembros del Tribunal Vasco de Cuentas Públicas deberán cesar en toda situación de incompatibilidad que pudiese afectarles dentro de los diez días siguientes a su nombramiento y antes de tomar posesión. La renuncia se hará por escrito y se dirigirá a la Mesa del Parlamento, a través de su presidente. En caso contrario se entenderá que renuncia a la designación.
+5. Los miembros del Tribunal Vasco de Cuentas Públicas tendrán los derechos económicos aprobados por el Parlamento incluidos en los Presupuestos Generales de la Comunidad Autónoma de Euskadi.
+6. El mandato de las miembros y los miembros del Tribunal tendrá una duración máxima de seis años, a contar desde el momento de efectividad de su elección, y sus miembros solo podrán ser reelegibles por un mandato más. Cuando la elección se produzca como consecuencia de la cobertura de vacantes, el mandato de la miembro o el miembro así elegido tendrá una duración limitada a la prevista para su predecesor.
+7. Las deliberaciones del Pleno tienen carácter reservado. Tanto las personas que asisten a las deliberaciones, como las que tienen conocimiento de estas por razón de sus funciones en el Tribunal Vasco de Cuentas Públicas, deben guardar secreto sobre las deliberaciones, respetando además la normativa de protección de datos.
+Se modifican loa apartados 4 y 6 y se añade el 7 por los arts. 4 a 6 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+### Artículo 16 bis
+
+Artículo 16 bis. Abstención.
+1. Son causas de abstención para las miembros y los miembros del Tribunal Vasco de Cuentas Públicas las siguientes circunstancias:
+a) Tener interés personal en el asunto, la empresa o el ente fiscalizado, o tener alguna cuestión litigiosa pendiente o una relación de servicio con alguna persona interesada.
+b) Tener parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo grado con alguno de los cuentadantes o administradores del ente objeto de fiscalización.
+c) Tener amistad íntima o enemistad manifiesta con alguna de las personas a las que se refieren los apartados a) y b).
+d) Haber intervenido en los actos o expedientes objeto de fiscalización antes de haber sido designada o designado miembro del Tribunal Vasco de Cuentas Públicas.
+2. En cualquier caso, deberá considerarse que existe interés personal determinante de abstención, en cuanto a una fiscalización concreta, cuando una miembro o un miembro del Tribunal Vasco de Cuentas Públicas se haya encontrado en alguna de las siguientes circunstancias:
+a) Haber tenido a su cargo la gestión, la inspección o la intervención de los ingresos y los gastos del ente en el periodo objeto de la fiscalización.
+b) Haber sido titular de la presidencia o la dirección, o miembro del consejo de administración o de un órgano equivalente, de cualquier entidad integrada en el sector público del País Vasco en el período objeto de fiscalización.
+c) Haber percibido subvenciones del ente fiscalizado o de los entes y organismos que se relacionan con aquel funcionalmente, con cargo a fondos públicos, en el período objeto de fiscalización.
+d) Haber sido cuentadante ante el propio Tribunal en relación con el objeto de la fiscalización.
+e) Haber sido beneficiaria o beneficiario de avales o de exenciones fiscales objeto de una fiscalización.
+3. La miembro o el miembro del Tribunal Vasco de Cuentas Públicas afectado por alguna de las causas de abstención determinadas por el apartado 1 deberá comunicarlo a quien ostente la presidencia del Tribunal para que lo incluya en el orden del día del pleno siguiente. El Pleno deberá decidir si concurre o no la causa de abstención alegada y, en su caso, deberá designar a otra u otro miembro para que se haga cargo de la fiscalización.
+4. En caso de que el Pleno acuerde causa de abstención de una miembro o un miembro del Tribunal Vasco de Cuentas Públicas en relación con un informe elaborado bajo la dirección de otra u otro integrante, la persona afectada por la causa de abstención no podrá participar en el debate y votación de este informe en el pleno.
+Se añade por el art. 7 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+### Artículo 16 ter
+
+Artículo 16 ter. Recusación.
+1. En caso de que una miembro o un miembro del Tribunal Vasco de Cuentas Públicas no se abstenga cuando deba hacerlo, podrá promoverse su recusación mediante el correspondiente procedimiento instado por quien ostente la presidencia de dicho Tribunal o por cualquier persona interesada en el procedimiento en el que concurre la presunta causa de abstención.
+2. Promovida la recusación, quien ostente la presidencia del Tribunal deberá informar de ello al Pleno cuanto antes. Si la miembro o el miembro del Tribunal Vasco de Cuentas Públicas recusado admite la causa de la recusación, deberá seguirse el procedimiento establecido para los casos de abstención.
+3. Si la miembro o el miembro del Tribunal Vasco de Cuentas Públicas recusado niega la causa de la recusación, el Pleno deberá nombrar una ponencia de dos miembros para llevar a cabo, de forma sumaria, las actuaciones indagatorias que se consideren pertinentes. Estas actuaciones sumarias deberán contener las alegaciones de la persona que ha promovido la recusación y las de la miembro o el miembro recusado.
+4. La ponencia, en el plazo de diez días desde que ha sido nombrada, deberá presentar al Pleno un informe que contenga todos los aspectos de las actuaciones realizadas. El Pleno, en una sesión extraordinaria a la que no asistirá la miembro o el miembro recusado, deberá resolver la recusación.
+5. Si en las actuaciones realizadas hay indicios de una actuación dolosa o culposa de la miembro o el miembro del Tribunal recusado por haber intervenido en un asunto en el que debería haberse abstenido, deberá iniciarse un expediente para exigir responsabilidades.
+Se añade por el art. 8 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+### Artículo 17
+
+Artículo 17. Pérdida de la condición de miembro.
+1. Las únicas causas de pérdida de la condición de miembro del Tribunal Vasco de Cuentas Públicas son las siguientes:
+a) Por fallecimiento.
+b) Por extinción del mandato cuando expira el plazo.
+c) Por renuncia escrita presentada al Parlamento Vasco y aceptada por la Mesa de esta institución.
+d) Por incapacidad o inhabilitación declarada por decisión judicial firme.
+e) Por condena mediante sentencia firme por causa de delito.
+f) Por incumplimiento grave de las obligaciones derivadas del cargo.
+2. En los supuestos previstos en los apartados a) y b) del epígrafe anterior, la pérdida de la condición de miembro tendrá eficacia automáticamente, sin necesidad de declaración expresa alguna al respecto. No obstante, cuando el cese se produzca por extinción del mandato del apartado b) del epígrafe anterior, la miembro o el miembro del Tribunal Vasco de Cuentas de que se trate seguirá ejerciendo las funciones del cargo mientras no tome posesión la nueva miembro o el nuevo miembro. En los demás supuestos, tal pérdida de condición se producirá a partir de la publicación en el Boletín Oficial del País Vasco del correspondiente acuerdo del Parlamento Vasco.
+3. En los supuestos previstos en los apartados d), e) y f) del epígrafe 1 anterior, el Parlamento podrá suspender en sus funciones y derechos a la miembro o el miembro del Tribunal, mientras dure el procedimiento de investigación que, en su caso, pueda seguirse y, como máximo, durante seis meses. La suspensión será efectiva desde el momento en que se acuerde, aunque habrá de ser publicada para su general conocimiento en el Boletín Oficial del País Vasco dentro de los cinco días siguientes. La suspensión producirá también, automáticamente y con la misma extensión, la de los cargos que ocupe la miembro o el miembro suspenso en la organización del Tribunal.
+4. En el supuesto previsto en el apartado f) del epígrafe 1 anterior, la pérdida de la condición de miembro del Tribunal se producirá en virtud de la apreciación del incumplimiento grave de las obligaciones por las dos terceras partes del Parlamento Vasco.
+Se modifica por el art. 9 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+## CAPÍTULO SEGUNDO
+
+Organización
+
+### Artículo 18
+
+Artículo 18. Enumeración de órganos.
+1. El Tribunal Vasco de Cuentas Públicas se estructura en los siguientes órganos:
+a) Presidencia.
+b) Vicepresidencia.
+c) Pleno.
+d) Secretaría General.
+2. Las normas de desarrollo de la presente Ley podrán crear otros servicios en dependencia de alguno de los órganos enumerados en el epígrafe anterior.
+
+### Artículo 19
+
+Artículo 19. Presidencia.
+1. El mandato del Presidente del Tribunal Vasco de Cuentas Públicas se divide en dos periodos:
+a) el constituido por los tres primeros años a partir de la renovación total de los miembros del Tribunal. En este periodo ostentará el cargo de Presidente del Tribunal Vasco de Cuentas Públicas el miembro de éste que sea nombrado por el Lehendakari, a propuesta del Pleno de dicho Tribunal, mediante acuerdo adoptado con el voto favorable de la mayoría absoluta de componentes de éste; en el supuesto de que quedare vacante la Presidencia durante dicho periodo, y por lo que reste del mismo, será sustituido por el Vicepresidente del Tribunal.
+b) el constituido por los tres años siguientes. En este periodo se procederá a realizar nuevo nombramiento de Presidente de conformidad al procedimiento descrito en el apartado a) anterior de este mismo artículo; siéndole, asimismo, de aplicación lo allí establecido para el caso de que el cargo quedara vacante.
+2. El nombramiento del Presidente será efectivo a partir de su publicación en el «Boletín Oficial del País Vasco», desde la fecha en que el designado haya tomado posesión de su cargo.
+3. El Presidente del Tribunal tendrá atribuidas específicamente las siguientes competencias y funciones:
+a) La representación judicial y extrajudicial del Tribunal.
+b) La dirección de los servicios técnicos y administrativos del Tribunal.
+c) Autorización y disposición de los gastos así como la ordenación de los pagos que correspondan al Tribunal y la autorización de los documentos de formalización de ingresos.
+d) Suscribir todos los informes que se realicen por el Tribunal en el ejercicio de sus funciones.
+e) Fijar los órdenes del día del Pleno del Tribunal y disponer la ejecución de los acuerdos que se tomen.
+f) Convocar pruebas selectivas para la provisión de puestos de trabajo al servicio del Tribunal.
+g) Ejercer la potestad disciplinaria sobre el personal al Servicio del Tribunal.
+h) Comparecer ante el Parlamento en aclaración de los informes remitidos cuando así sea requerido por el Pleno del Parlamento.
+i) Las que le atribuya la presente Ley.
+j) Las que le atribuya el Pleno del Tribunal.
+4. Constituyen causas de cese del Presidente del Tribunal Vasco de Cuentas Públicas, las siguientes:
+a) pérdida de la condición de miembro del Tribunal.
+b) expiración del periodo de duración de su mandato como Presidente.
+c) incumplimiento grave de las obligaciones del cargo de Presidente, apreciado por las dos terceras partes de componentes del Parlamento Vasco.
+5. En los supuestos previstos en los apartados a) y b) del epígrafe anterior, el cese tendrá eficacia automáticamente, sin necesidad de declaración expresa alguna al respecto. En el supuesto c) del mismo epígrafe, el cese se acordará por el Lehendakari a propuesta del Parlamento Vasco y será efectivo a partir de su publicación en el «Boletín Oficial del País Vasco».
+6. En el supuesto previsto en el apartado c) del epígrafe 4, el Presidente podrá ser suspendido en sus funciones y derechos en los mismos términos señalados en el epígrafe 3 del artículo 18. La suspensión del Presidente no conlleva la de su condición de miembro del Tribunal, sin perjuicio de la aplicación del epígrafe 3 del artículo 17.
+
+### Artículo 20
+
+Artículo 20. Vicepresidencia.
+1. El mandato del Vicepresidente del Tribunal Vasco de Cuentas Públicas se divide en los mismos periodos mencionados en el epígrafe 1 del artículo 19, de la siguiente manera:
+a) en el periodo de mandato a que se refiere el apartado a) del epígrafe 1 del artículo 19, ostentará el cargo de Vicepresidente del Tribunal Vasco de Cuentas Públicas el miembro de éste que sea nombrado por el Lehendakari, a propuesta del Pleno de dicho Tribunal, mediante acuerdo adoptado con el voto favorable de la mayoría absoluta de componentes de éste; en el supuesto de que quedare vacante la Vicepresidencia durante dicho período, se procederá a realizar nuevo nombramiento de la misma manera.
+b) en el periodo de mandato a que se refiere el apartado b) del epígrafe 1 del artículo 19 se procederá a realizar nuevo nombramiento de Vicepresidente del Tribunal Vasco de Cuentas Públicas, de conformidad al procedimiento descrito en el apartado a) anterior de este mismo artículo, siendo, asimismo, de aplicación lo allí establecido para el caso de que el cargo quedara vacante.
+2. El Vicepresidente del Tribunal tendrá atribuidas las siguientes competencias:
+a) la sustitución automática del Presidente en los casos de vacante, ausencia y suspensión del mismo, sin necesidad de declaración alguna al respecto.
+b) la asistencia al Presidente en sus funciones.
+c) las que le atribuye la presente Ley.
+d) las que le atribuye el Pleno del Tribunal.
+e) las que, siendo de competencia del Presidente, le sean delegadas por éste.
+3. Serán de aplicación al Vicepresidente las mismas normas establecidas para el Presidente en los epígrafes 2, 4, 5 y 6 del artículo 19.
+
+### Artículo 21
+
+Artículo 21. Pleno.
+1. El Pleno está integrado por la totalidad de los miembros del Tribunal.
+2. Los cargos de Presidente y Vicepresidente del Pleno serán ostentados, respectivamente, por el Presidente y Vicepresidente del Tribunal. Será Secretario del Pleno el Secretario General, a cuyo efecto podrá asistir a las sesiones de aquél con voz pero sin voto.
+3. El Pleno se reunirá, cuando menos, cuatro veces al año, una dentro de cada trimestre natural, y será convocado por su Presidente. Se entenderá válidamente constituido cuando concurran a la sesión la mayoría absoluta de sus componentes. Para que el Pleno pueda adoptar acuerdos válidamente, se precisará del voto favorable de la mayoría absoluta de asistentes y, en todo caso, de dos de sus componentes, salvo que se establezca otra cosa en la presente Ley; el Presidente tendrá voto de calidad.
+4. Además de las que expresamente le atribuye la presente Ley, serán competencia del Pleno cuantas no estén atribuidas a otros órganos del Tribunal, a no ser que el Reglamento de régimen interno disponga otra cosa al respecto.
+En todo caso, corresponde al Pleno del Tribunal aprobar su Reglamento de régimen interno.
+5. El Pleno, al objeto de facilitar el ejercicio de sus competencias, podrá crear Comisiones y Ponencias, como órganos colegiados o unipersonales respectivamente, compuestos exclusivamente por miembros de aquél, con la duración, organización y competencias que el mismo determine, sin que puedan tener carácter decisorio. El Secretario General podrá asistir a las reuniones de las Comisiones, con voz pero sin voto, cuando se disponga su participación en éstas.
+
+### Artículo 22
+
+Artículo 22. Secretaría General.
+1. El Secretario General del Tribunal Vasco de Cuentas Públicas será designado y cesado por el Pleno a propuesta de su Presidente. La designación será efectiva desde la fecha en que tome posesión de su cargo una vez publicado el correspondiente nombramiento en el «Boletín Oficial del País Vasco»; el cese requerirá, para su efectividad, de la publicación en el citado Boletín Oficial. La renovación total del Tribunal no implicará el cese del Secretario General.
+2. El Secretario General dependerá orgánicamente del Presidente del Tribunal, y tendrá atribuidas las siguientes competencias:
+a) la gestión de los servicios técnicos y administrativos del Tribunal, bajo la dirección del Presidente del mismo.
+b) la asistencia técnica y administrativa de todos los órganos y miembros del Tribunal.
+c) las que le atribuye la presente Ley.
+d) las que le atribuya el Pleno del Tribunal, en relación a las materias a que se refiere el Capítulo Tercero del Título III de la presente Ley.
+e) las que, siendo de competencia del Presidente, le sean delegadas por éste, siempre que pertenezcan a las materias a que se refiere el Capítulo Tercero del Título III de la presente Ley.
+3. El Secretario General estará sometido a las mismas incompatibilidades que los altos cargos de la Administración de la Comunidad Autónoma de Euskadi.
+4. Serán de aplicación al Secretario General las normas contenidas en el epígrafe 1 del artículo 15, salvo lo relativo a la experiencia profesional, y en el epígrafe 5 del artículo 16 de esta Ley.
+
+## CAPÍTULO TERCERO
+
+Régimen económico, patrimonial y de personal
+
+### Artículo 23
+
+Artículo 23. Disposiciones comunes.
+1. El régimen económico, patrimonial y de contratación, y de personal del Tribunal Vasco de Cuentas Públicas será el que rija para la Administración de la Comunidad Autónoma de Euskadi, con las especialidades derivadas de tratarse de un órgano dependiente del Parlamento Vasco y con observancia, en todo caso, de lo dispuesto en este Capítulo.
+2. El Tribunal Vasco de Cuentas Públicas tendrá, respecto a su régimen económico, patrimonial y de contratación y de personal, las mismas competencias que ostente en cada momento la Administración de la Comunidad Autónoma de Euskadi, y las ejercerá a través de sus propios órganos, conforme a lo previsto en el presente Capítulo.
+
+### Artículo 24
+
+Artículo 24. Régimen económico.
+El presupuesto del Tribunal Vasco de Cuentas Públicas estará integrado en los Presupuestos Generales de la Comunidad Autónoma, conformando una Sección de los mismos.
+
+### Artículo 25
+
+Artículo 25. Régimen patrimonial.
+1. La titularidad del patrimonio del Tribunal Vasco de Cuentas Públicas corresponde a la Administración de la Comunidad Autónoma de Euskadi.
+2. El Tribunal podrá requerir de cualquier órgano de la Comunidad Autónoma que le preste la necesaria asistencia técnica en materia de régimen patrimonial y de contratación.
+
+### Artículo 26
+
+Artículo 26. Régimen de personal.
+El personal al servicio del Tribunal Vasco de Cuentas Públicas será, además, incompatible con cualquier actividad que perjudique su imparcialidad o independencia profesional, o guarde relación con entidades que, aun no integrando el Sector Público Vasco, utilicen fondos públicos que deban ser objeto de fiscalización por el citado Tribunal.
+
+### Artículo 27
+
+Artículo 27. Régimen general.
+1. En relación a las materias a que se refiere el presente Capítulo, el Tribunal Vasco de Cuentas Públicas se regirá por la normativa de los actos, procedimientos y control jurisdiccional aplicable a la Administración de la Comunidad Autónoma de Euskadi, disponiendo, en consecuencia, de los mismos poderes, potestades, prerrogativas y facultades que ésta.
+2. Cuando se trate de materias cuyo conocimiento venga atribuido a la Jurisdicción Contencioso-Administrativa, de acuerdo con lo dispuesto en el párrafo 1 del presente artículo, serán de aplicación las siguientes reglas:
+a) los actos del Secretario General serán susceptibles de recurso de alzada ante el Presidente del Tribunal, cuya resolución agotará la vía previa a la jurisdiccional contencioso-administrativa.
+b) los actos del Presidente y Vicepresidente del Tribunal serán susceptibles de recurso de súplica ante el Pleno del mismo, cuya resolución agotará la vía previa a la jurisdiccional contencioso-administrativa. Dicho recurso de súplica se regirá por la misma normativa del recurso de alzada ordinario.
+c) los actos del Pleno agotarán la vía previa a la jurisdiccional contencioso-administrativa.
+3. Con referencia a las materias indicadas en el párrafo 1 del presente artículo, el Tribunal realizará las publicaciones oficiales, cuando venga obligado a ello, en el Boletín Oficial del País Vasco.
+
+### Disposición adicional única
+
+Disposición adicional única. Sobre gastos reservados.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 5/1997, de 30 de mayo. Ref. BOE-A-2012-412.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Tribunal Vasco de Cuentas Públicas aprobará, en el plazo de 12 meses desde la publicación de esta ley, el reglamento de régimen interno de la institución, que se publicará en el Boletín Oficial del País Vasco, así como en la web del Tribunal Vasco de Cuentas Públicas.»
+Se numera por el art. 10 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+ Anterirmente era la disposición adicional única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El reglamento de régimen interno del Tribunal Vasco de Cuentas Públicas deberá contemplar, al menos, la regulación y desarrollo de lo dispuesto en los capítulos segundo y tercero del título III de esta ley.
+Se añade por el art. 11 de la Ley 6/2021, de 28 de octubre. Ref. BOE-A-2021-18820
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Primera elección de los miembros del Tribunal Vasco de Cuentas Públicas.
+En un plazo no superior a los seis meses a contar desde la fecha de entrada en vigor de la presente Ley, se procederá a la primera elección de los miembros del Tribunal Vasco de Cuentas Públicas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Inicio del funcionamiento del Tribunal Vasco de Cuentas Públicas.
+1. El Tribunal Vasco de Cuentas Públicas comenzará a ejercer sus funciones en el momento en que sea efectiva la elección de todos sus componentes.
+2. El ejercicio de estas funciones se adecuará a lo dispuesto en la presente Ley y en las normas complementarias que apruebe el Parlamento Vasco para tal finalidad. Mientras no se aprueben y entren en vigor estas últimas, regirá la normativa aplicable a las funciones del Tribunal de Cuentas del Estado, en tanto no se oponga al contenido de la presente Ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Presupuesto del ejercicio económico en que comience a funcionar el Tribunal Vasco de Cuentas Públicas.
+El Presupuesto del ejercicio económico en que comience a funcionar el Tribunal será aprobado por la Comisión de Economía, Hacienda y Presupuestos del Parlamento Vasco, y su financiación será determinada por la misma con cargo al Presupuesto de la Cámara o, si éste fuera insuficiente, con cargo excepcionalmente a la Sección 99 de los Presupuestos Generales de la Comunidad Autónoma del País Vasco.
+
+### Disposición final primera
+
+Disposición final primera. Normas complementarias.
+Corresponde al Parlamento la aprobación de las normas complementarias de la presente Ley, a excepción de las que lo sean de lo dispuesto en los Capítulos Segundo y Tercero del Título III de la misma, cuya aprobación compete al Pleno del Tribunal Vasco de Cuentas Públicas.
+
+### Disposición final segunda
+
+Disposición final segunda. Informe sobre el ejercicio de las funciones propias.
+El Tribunal Vasco de Cuentas Públicas, en su segundo informe anual, efectuará una valoración específica sobre el ejercicio de las funciones que tiene encomendadas conforme al artículo 3 y, en su caso, propondrá las modificaciones legales que considere convenientes para el mejor ejercicio de dichas funciones.

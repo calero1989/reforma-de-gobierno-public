@@ -1,0 +1,242 @@
+# Ley 5/2006, de 25 de mayo, de creación de la Agència Valenciana d'Avaluació i Prospectiva (AVAP).
+
+- Identificador BOE: `BOE-A-2006-11582`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-11582
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+La educación superior, la investigación científica, el desarrollo y la innovación tecnológica han alcanzado en la sociedad del conocimiento una relevancia central para el desarrollo económico y social de los pueblos. Las sociedades modernas invierten en estos aspectos una importante cantidad de recursos financieros y humanos, fundamentalmente públicos, aunque con una creciente participación privada. La importancia de los recursos dedicados y la relevancia estratégica de estas inversiones requieren que las administraciones públicas pongan el mayor cuidado en garantizar la eficacia y la eficiencia en el uso de esos recursos.
+Con ese objetivo final, la mejora de la eficacia y eficiencia de los recursos dedicados a universidades, ciencia y tecnología, las administraciones responsables de estos aspectos han ido creando durante los últimos años agencias para la evaluación de las actividades universitarias, científicas y tecnológicas. Este fenómeno se ha dado en todos los países, pero en España ha alcanzado recientemente una mayor prioridad debido a las regulaciones que la vigente Ley de Ordenación Universitaria establece en aspectos como la evaluación de profesorado tanto para su contratación por las universidades como para poder recibir complementos retributivos de carácter autonómico.
+Sin embargo, son aspectos mucho más trascendentales para el desarrollo futuro de la Comunitat Valenciana los que inspiran la creación de la Agència Valenciana d'Avaluació i Prospectiva como una Agencia no sólo dedicada a la evaluación de los programas universitarios, científicos y tecnológicos, sino también como una Agencia de prospectiva en esos mismos campos. Este carácter permitirá a la Comunitat Valenciana contar con un observatorio de los cambios previsibles en áreas estratégicas para el desarrollo económico y social de la sociedad valenciana.
+El carácter de la función encomendada a la Agència exige que tenga un modelo organizativo flexible y autónomo. El carácter autónomo es una exigencia funcional para facilitar su trabajo, pero también es una exigencia para poder ser reconocida internacionalmente como una Agencia evaluadora.
+Por estas razones, en el ejercicio de la competencia plena de la Generalitat en la regulación y administración de la enseñanza, reconocida en el Estatuto de Autonomía, y en desarrollo y cumplimiento de lo establecido en los artículos 2.5 y 31.3 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se crea, mediante esta Ley, la Agència Valenciana d'Avaluació i Prospectiva, como una entidad de derecho público, sometida al derecho privado.
+Por último, se incluye en el presente texto legal una modificación de la Ley 5/2002, de 19 de junio, de la Generalitat, mediante la cual los rectores o las rectoras de las universidades privadas reconocidas por decreto del Consell de la Generalitat quedan incluidos en el Pleno del Consejo Valenciano de Universidades.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza.
+1. Se crea la Agència Valenciana d'Avaluació i Prospectiva (AVAP), que se configura como entidad de derecho público sometida al derecho privado, de las previstas en el artículo 5.2 del Texto Refundido de la Ley de Hacienda Pública de la Generalitat.
+2. La Agència Valenciana d’Avaluació i Prospectiva, con personalidad jurídica y patrimonio propios y plena capacidad de obrar para el cumplimiento de sus fines, queda adscrita a la Conselleria competente en materia de universidades.
+Se modifica el apartado 2 por el art. 244 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. La Agència Valenciana d'Avaluació i Prospectiva se regirá por lo preceptuado en la presente Ley, en el reglamento de funcionamiento y demás disposiciones que la desarrollen, en el Texto Refundido de la Ley de Hacienda Pública de la Generalitat, por el derecho privado y por el resto del ordenamiento jurídico.
+2. En el ejercicio de las potestades administrativas que tenga atribuidas, la Agència sujetará su actividad a las normas de derecho público, en especial a la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y disposiciones de desarrollo, así como las demás normas aplicables al desempeño de sus funciones.
+3. La contratación de la Agència se regirá por las previsiones que al respecto se contienen en la legislación vigente sobre contratos de las administraciones públicas, para este tipo de entes.
+
+### Artículo 3
+
+Artículo 3. Fines y funciones.
+1. A la Avap le corresponderán, en el ámbito del sistema valenciano de educación superior, las siguientes funciones generales:
+a) La acreditación y evaluación de las instituciones universitarias y del profesorado y otras actividades afines.
+b) La evaluación de programas tecnológicos, de investigación y de innovación.
+c) La prospectiva y análisis de las nuevas demandas tecnológicas, científicas y universitarias de utilidad para la Comunitat Valenciana.
+2. Para el cumplimiento de sus funciones, la Agència podrá:
+a) Promover el establecimiento de cauces de financiación con el Instituto Valenciano de Finanzas así como con otras instituciones públicas o privadas, pudiendo al efecto formalizar los oportunos convenios o acuerdos de cooperación y, en general, realizar cualquier otra clase de actividad económica o financiera sin más limitación que lo dispuesto en el texto refundido de la Ley de Hacienda Pública de la Generalitat, Leyes de presupuestos y demás disposiciones que en esta materia le sean de aplicación.
+b) Constituir y participar en sociedades mercantiles y entidades sin ánimo de lucro cuyo objeto esté relacionado con los fines de la Agència, sean éstas públicas o privadas.
+c) Conceder subvenciones corrientes y de capital, en los términos y con los requisitos previstos en la normativa de aplicación.
+d) Colaborar con las diferentes administraciones públicas, universidades, y otros entes públicos y privados sin ánimo de lucro.
+e) Establecer acuerdos de colaboración con otras agencias españolas y extranjeras, así como participar en las redes internacionales de agencias similares.
+f) Realizar cualquier otra actividad que ayude a la Agència en sus objetivos.
+Se modifica el apartado 1 por el art. 245 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica el apartado 1 por la disposición final 1 de la Ley 1/2013, de 21 de mayo. Ref. BOE-A-2013-6047#dfsegunda
+ Se modifica por la disposición final 2 del Decreto-ley 7/2012, de 19 de octubre. Ref. DOGV-r-2012-90045
+
+### Artículo 4
+
+Artículo 4. Cooperación.
+Las distintas administraciones y entidades públicas podrán delegar o encomendar a la Agència, en el ámbito de sus atribuciones, la gestión del ejercicio de determinadas competencias, de conformidad con lo establecido en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO II
+
+Órganos rectores
+
+### Artículo 5
+
+Artículo 5. Órganos.
+1. Los órganos rectores de la Agència serán el presidente, el Comité de Dirección y el director o la directora general.
+2. La Agència contará, asimismo, como órgano de carácter consultivo, con un Consejo Asesor, formado por expertos nacionales e internacionales de reconocida competencia y prestigio profesional, que se encargará de la evaluación del funcionamiento de la propia Agència y de asesorar sobre sus planes de actividades. Su composición y funciones específicas se desarrollarán reglamentariamente.
+
+### Artículo 6
+
+Artículo 6. La Presidencia.
+1. La persona que ostente la presidencia de la Agència será el titular de la conselleria competente en materia de universidades.
+2. Corresponden al presidente las siguientes atribuciones:
+a) Ostentar la superior representación y gobierno de la Agència, en todas sus relaciones con entidades públicas y privadas.
+b) Convocar, presidir y moderar las sesiones del Comité de Dirección, dirimiendo, en su caso, los empates con voto de calidad y, en general, en relación con el mencionado órgano, el ejercicio de aquellas funciones genéricas atribuidas a los presidentes de los órganos colegiados en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+c) Emitir las resoluciones de ejecución de los programas de la Agència.
+d) Cualesquiera otras que reglamentariamente le puedan ser atribuidas, excepto las reservadas a otros órganos en ésta u otra Ley.
+e) En general, y de forma amplia, todas aquellas que procuren el mejor desarrollo de los fines de la Agència y que no estén expresamente atribuidas a ningún otro órgano de la misma.
+Se modifica el apartado 1 por el art. 246 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 7
+
+Artículo 7. El Comité de Dirección.
+1. El Comité de Dirección es el órgano colegiado de gobierno y de control de la Agència.
+2. Al Comité de Dirección le corresponde ejercer, sin otras limitaciones que las establecidas en la legislación vigente y sin perjuicio de las atribuciones de su presidencia, cuantas facultades y poderes, en general, sean precisos para el cumplimiento de sus fines y, en particular:
+a) Definir las directrices generales y líneas de actuación de la Agència.
+b) Aprobar, a propuesta del director general de la Agència, el plan anual de actividades de la entidad.
+c) Aprobar y elevar al departamento de adscripción, el anteproyecto de presupuesto de la Agència.
+d) Aprobar los estados de ejecución del presupuesto, la memoria y las cuentas anuales.
+e) Aprobar la plantilla, la organización funcional y el régimen de retribución de todo el personal de la entidad, dentro de las limitaciones legales y presupuestarias y sin perjuicio de las competencias atribuidas a otros órganos de la Generalitat.
+f) La aprobación de las convocatorias de pruebas de admisión para la selección del personal al servicio de la Agència.
+g) Aprobar la propuesta del Reglamento de la Avap.
+h) Todas aquellas que le sean atribuidas reglamentariamente para el cumplimiento de los fines y programas de la Agència.
+3. Reglamentariamente se establecerá su composición, así como su régimen específico de funcionamiento, que, en cualquier caso, se adecuará a lo establecido para los órganos colegiados en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica el apartado 2.g) por el art. 247 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 8
+
+Artículo 8. Dirección General.
+1. La Persona titular de la Dirección General, deberá tener reconocida competencia profesional e integridad necesarias para el buen ejercicio de las funciones de la Agència y será nombrada y cesada por Decreto del Consell, a propuesta del conseller o consellera a cuyo departamento esté adscrita la Agència.
+El director general será persona de reconocida competencia profesional e integridad necesarias para el buen ejercicio de las funciones de la Agència.
+2. Son atribuciones del director general las siguientes:
+a) Asumir la representación ordinaria, administración y gestión de la Agència.
+b) Dirigir el funcionamiento general de la Agència y de su personal, organizando, impulsando, coordinando e inspeccionando sus servicios y dependencias.
+c) Asumir la dirección técnica y metodológica de las acciones a llevar a cabo por la Agència.
+d) Ejecutar los acuerdos del Comité de Dirección.
+e) Elaborar el plan anual de actividades, el anteproyecto de presupuesto de la Agència, la memoria, el balance y la cuenta de pérdidas y ganancias.
+f) Suscribir contratos, acuerdos y convenios en nombre de la Agència y, en general, todas las facultades en materia de contratación administrativa y de derecho privado.
+g) Elaborar la propuesta de plantilla de personal de la Agència, de acuerdo con las limitaciones legales y presupuestarias.
+h) La autorización y disposición de gastos y liquidación y ordenación de pagos.
+i) Ostentar la representación de la Agència en acciones y recursos.
+j) Dictar las resoluciones y actos jurídicos que le competan en el ejercicio de su cargo y, en especial, resolver los procedimientos de acreditación y evaluación del profesorado, así como, en general, en aquellas otras funciones que le sean delegadas.
+k) La gestión del patrimonio propio de la Agència.
+l) Las que expresamente le sean atribuidas reglamentariamente o delegadas por los órganos de gobierno de la Agència.
+Se modifica el apartado 1 por el art. 248 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica por el art. 56 de la Ley 14/2007, de 26 de diciembre. Ref. BOE-A-2008-1338
+
+## CAPÍTULO III
+
+Estructura organizativa
+
+### Artículo 9
+
+Artículo 9. Comisiones de la Avap.
+Para cumplir sus funciones técnicas y facilitar la flexibilidad de la organización de la Agència, dado que el concepto de calidad tiene una definición en evolución permanente de acuerdo con los nuevos requerimientos y exigencias del contexto internacional, la Avap puede crear comisiones, permanentes o temporales. Para el ejercicio de sus funciones, las comisiones técnicas de la Avap actúan en sus ámbitos respectivos con las garantías adecuadas de independencia técnica y profesionalidad.
+Las comisiones permanentes serán nombradas por la presidencia de la Avap, a propuesta de la dirección general, por un período de tres años renovable.
+Las comisiones temporales serán nombradas por la dirección general de la Avap y su actuación quedará vinculada a la duración del trabajo a realizar.
+La composición de las comisiones permanentes o temporales deberá ajustarse a la presencia equilibrada de mujeres y hombres.
+Se modifica por el art. 249 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 9 bis
+
+Artículo 9 bis. Órganos de asesoramiento.
+La Avap en el desarrollo de sus funciones que tiene encomendadas contará con dos órganos de asesoramiento: el Consejo Asesor y la Comisión de Estudiantes.
+El Consejo Asesor de la Avap es el órgano consultivo que colabora con la Avap en el desarrollo de sus estrategias, en la definición y mejora de los procedimientos, así como en la elaboración de sus planes de actuación, para garantizar la calidad de las actividades de la agencia. Su composición se determinará reglamentariamente.
+El Consejo Asesor no estará sometido a dependencia jerárquica y ejercerá funciones consultivas sobre los asuntos que le someta la persona titular de la Dirección General de la Avap.
+La Comisión de Estudiantes es el órgano consultivo, formado por representantes de todas las universidades valencianas, que colabora con la Avap principalmente en la promoción y difusión entre el estudiantado de las actividades de evaluación para el aseguramiento de la calidad universitaria en la Comunitat Valenciana que lleva a cabo la Avap.
+La Comisión de Estudiantes no estará sometida a dependencia jerárquica y ejercerá funciones consultivas sobre los asuntos que le someta la persona titular de la Dirección General de la Avap y su composición se determinará reglamentariamente.
+La composición de los órganos de asesoramiento deberá ajustarse a la presencia equilibrada de mujeres y hombres.
+Se añade por el art. 250 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 10
+
+Artículo 10. Compensación por asistencias.
+El régimen de indemnizaciones y compensaciones por asistencias a las reuniones de los miembros de los diferentes comités de la Agència y demás expertos, en las tareas de evaluación y acreditación de las diversas áreas, se determinará reglamentariamente, en la cuantía que se establezca a tal efecto en los presupuestos de la Agència, previo informe favorable de la Conselleria de Economía, Hacienda y Empleo.
+
+## CAPÍTULO IV
+
+Régimen económico y de personal
+
+### Artículo 11
+
+Artículo 11. Recursos económicos.
+La Agència Valenciana d'Avaluació i Prospectiva dispondrá de los siguientes recursos económicos para el cumplimiento de sus fines:
+a) Las dotaciones correspondientes de los presupuestos de la Generalitat.
+b) Los ingresos ordinarios y extraordinarios generados por el ejercicio de sus actividades.
+c) El rendimiento de las tasas y precios públicos devengados en el ejercicio de sus funciones, de conformidad con lo dispuesto en la disposición adicional cuarta de este texto legal.
+d) Los productos y rentas de su patrimonio.
+e) Los créditos, préstamos, empréstitos y otras operaciones que pueda concertar.
+f) Las subvenciones, herencias, legados, donaciones y cualquier otra aportación voluntaria de las entidades u organismos públicos y privados, y de los particulares.
+g) Los demás ingresos de derecho público o privado que le correspondan conforme con la normativa vigente.
+h) Cualesquiera otros recursos que le pudieran ser atribuidos.
+Se modifica la letra b) por el art. 251 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 12
+
+Artículo 12. Patrimonio.
+El patrimonio de la Agència Valenciana d'Avaluació i Prospectiva estará integrado por los bienes y derechos que le sean adscritos o cedidos por la Generalitat o cualquier otra administración pública, así como los que adquiera por cualquier título. La Agència gozará de autonomía para la gestión de su patrimonio, quedando sujeta al ordenamiento jurídico privado en materia de adquisiciones patrimoniales y por el restante ordenamiento jurídico en lo que le sea aplicable.
+
+### Artículo 13
+
+Artículo 13. Régimen presupuestario.
+El régimen presupuestario, económico-financiero, de contabilidad, de intervención y de control financiero aplicable a la Agència será el establecido, para este tipo de entidades, en la Ley de hacienda pública, del sector público instrumental y de subvenciones de la Generalitat.
+Se modifica por el art. 252 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Artículo 14
+
+Artículo 14. Personal de la Agència Valenciana d'Avaluació i Prospectiva.
+El personal propio de la Agència se regirá por las normas de derecho laboral y que le sean de aplicación, con la excepción del personal funcionario de las administraciones públicas, que se regirá por la legislación de función pública que les resulte de aplicación. El régimen retributivo del personal será el que, con carácter general, esté establecido para el personal al servicio de la Generalitat.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. El personal que preste servicios en órganos de la administración o entidades de la Generalitat, cuyas funciones pasen a ser desempeñadas por la Agència, se adscribirá a ésta, conservando la totalidad de los derechos que tuviera reconocidos, incluida la antigüedad.
+2. La vinculación que pudiera tener con la función pública de la Generalitat el personal al que se refiere el párrafo anterior no se verá alterada por su incorporación a la Agència, manteniéndose dicho personal en la misma situación administrativa en la que se encontraba en el momento de su adscripción.
+3. El mismo régimen se aplicará al personal de la Generalitat que obtenga destino en la Agència, a través de los sistemas de provisión establecidos en la legislación de función pública.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se autoriza al Consell de la Generalitat para que apruebe, con carácter previo a la constitución efectiva y puesta en marcha de la Agència Valenciana d'Avaluació i Prospectiva, los presupuestos de ésta, así como para que, en su caso, realice los ajustes presupuestarios necesarios para tal fin.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Se modifica el artículo 7.1.b) de la Ley 5/2002, de 19 de junio, de la Generalitat, de Creación del Consejo Valenciano de Universidades y de la Comisión Valenciana de Acreditación y Evaluación de la Calidad en el Sistema Universitario Valenciano, que queda redactado en los siguientes términos:
+«Los rectores o las rectoras de las universidades privadas reconocidas por Ley de les Corts Valencianes o, en su caso, por decreto del Consell de la Generalitat.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se cede a la Agència Valenciana d'Avaluació i Prospectiva el rendimiento de las tasas y precios públicos relativos a las funciones que le son propias que, a la entrada en vigor de la presente Ley, vinieran siendo gestionadas por la Conselleria de Empresa, Universidad y Ciencia. Asimismo, se delegan en la citada Agència las facultades de gestión, liquidación y recaudación de dichos ingresos.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El Consell de la Generalitat procederá a la aprobación del reglamento de la Agència en el plazo de tres meses desde la entrada en vigor de la presente Ley.
+Hasta que se produzca la entrada en vigor de dicho reglamento, serán de aplicación las disposiciones comprendidas en el capítulo II de la Ley 5/2002, de 19 de junio, de la Generalitat, de Creación del Consejo Valenciano de Universidades y de la Comisión Valenciana de Acreditación y Evaluación de la Calidad en el Sistema Universitario Valenciano.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta el inicio del ejercicio presupuestario del año 2007, el abono de las retribuciones del personal que, en virtud de lo establecido en la disposición adicional primera, se integre en la Agència Valenciana d'Avaluació i Prospectiva se efectuará con cargo a los créditos del programa presupuestario al que estuvieran adscritos previamente a su integración.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Para la efectiva puesta en funcionamiento de la Agència, el director general podrá ser nombrado según lo establecido en el artículo octavo de la presente Ley. Una vez constituido y oído el Comité de Dirección, se procederá a la ratificación, si procede, del nombramiento.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogado el capítulo II «La Comisión Valenciana de Acreditación y Evaluación de la Calidad» de la Ley 5/2002, de 19 de junio, de la Generalitat, de Creación del Consejo Valenciano de Universidades y de la Comisión Valenciana de Acreditación y Evaluación de la Calidad en el Sistema Universitario Valenciano, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley, sin perjuicio de lo previsto en la disposición transitoria primera.
+
+### Disposición final primera
+
+Disposición final primera.
+A la entrada en vigor de la presente Ley, la Agència se subrogará en todos los bienes, derechos y obligaciones que la Generalitat, en especial, a través de la Comisión Valenciana de Acreditación y Evaluación de la Calidad, tuviera reconocidos para el ejercicio de las funciones que pasan a ser desempeñadas por la Agència.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 25 de mayo de 2006.
+FRANCISCO CAMPS ORTIZ,
+Presidente

@@ -1,0 +1,75 @@
+# Real Decreto-ley 6/1978, de 6 de marzo, por el que se regula la situación de los militares que tomaron parte en la guerra civil.
+
+- Identificador BOE: `BOE-A-1978-6473`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1978-6473
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El Gobierno de Su Majestad, en su deseo de continuar la política inspirada por la Corona de superar las consecuencias que se derivaron de la pasada contienda y continuando la política desarrollada por las Leyes de doce de julio de mil novecientos cuarenta, trece de diciembre de mil novecientos cuarenta y tres, diecisiete de julio de mil novecientos cuarenta y cinco y disposiciones complementarias, considera obligado dictar una norma que armonice la superación de aquélla con el mantenimiento de la mejor organización y moral militar de las Fuerzas Armadas.
+En su virtud, a propuesta del Ministro de Defensa, previa deliberación del Consejo de Ministros en su reunión del día diecisiete de febrero, en uso de la autorización conferida por el artículo trece de la Ley Constitutiva de las Cortes, texto refundido aprobado por Decreto de veinte de abril de mil novecientos sesenta y siete, y oída la Comisión a que se refiere el apartado uno de la disposición transitoria segunda de la Ley uno/mil novecientos setenta y siete, de cuatro de enero, para la Reforma Política,
+DISPONGO:
+
+### Artículo primero
+
+Artículo primero.
+Uno. Los Oficiales, Suboficiales y clases que hubieran consolidado su empleo, o hubieran ingresado como alumnos de las academias militares, con anterioridad al dieciocho de julio de mil novecientos treinta y seis, pertenecientes a las Fuerzas Armadas o fuerzas de Orden Público y que tomaron parte en la guerra civil, tendrán derecho a solicitar los beneficios que se conceden por el presente Real Decreto-ley.
+Dos. No podrán solicitar los beneficios concedidos por este Real Decreto-ley los que hubieren sido condenados por delito o sancionados con separación del servicio o pérdida del empleo por hechos no comprendidos en el Real Decreto-ley diez/mil novecientos setenta y seis, de treinta de julio, y Ley cuarenta y seis/mil novecientos setenta y siete, de quince de octubre.
+
+### Artículo segundo
+
+Artículo segundo.
+Al citado personal se le señalará el haber pasivo tomando en consideración los servicios prestados hasta el diecisiete de julio de mil novecientos treinta y seis, y el tiempo transcurrido desde el dieciocho de julio del mismo año hasta la fecha en que hubieren cumplido la edad reglamentaria para el retiro a efectos de trienios.
+
+### Artículo tercero
+
+Artículo tercero.
+A los efectos de fijar la edad en que les hubiere correspondido la de retiro y de determinar el sueldo regulador, se tomará como base el empleo que, de haber continuado en activo, les hubiera correspondido por antigüedad en el momento de cumplir dicha edad.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Los que deseen acogerse a los beneficios del presente Real Decreto-ley deberán solicitar del Ministerio de Defensa el pase a la situación de retirado con arreglo a lo preceptuado en la presente disposición, al solo efecto del señalamiento del haber pasivo por el Consejo Supremo de Justicia Militar.
+
+### Artículo quinto
+
+Artículo quinto.
+El personal previsto en el artículo primero que tuviese señalado haber pasivo inferior al que resultase de la aplicación del presente Real Decreto-ley podrá solicitar ante el Consejo Supremo de Justicia Militar nuevo señalamiento de haber pasivo.
+
+### Artículo sexto
+
+Artículo sexto.
+A las viudas y huérfanos del personal comprendido en el artículo primero se les concede derecho a pensión con arreglo a sueldo regulador que hubiera correspondido conforme a este Real Decreto-ley, a los causantes del mismo, en el momento de su fallecimiento.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Los comprendidos en la presente disposición deberán solicitar los beneficios que en ella se conceden en el plazo de un año desde su publicación en el «Boletín Oficial del Estado».
+Se amplia el plazo en un año por el art. 1 del Real Decreto-Ley 18/1979, de 19 de octubre. Ref. BOE-A-1979-25377.
+
+### Artículo octavo
+
+Artículo octavo.
+Los efectos económicos que se deriven del presente Real Decreto-ley no tendrán carácter retroactivo y serán aplicados desde la fecha de su publicación.
+
+### Artículo noveno
+
+Artículo noveno.
+Se faculta al Ministerio de Defensa para dictar las normas complementarias para la aplicación del presente Real Decreto-ley.
+
+### Artículo décimo
+
+Artículo décimo.
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado», y del mismo se dará cuenta inmediata a las Cortes.
+
+Dado en Madrid a seis de marzo de mil novecientos setenta y ocho.
+JUAN CARLOS
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta, en cuando al ámbito objetivo de aplicación, la Ley 10/1980, de 14 de marzo. Ref. BOE-A-1980-6531.

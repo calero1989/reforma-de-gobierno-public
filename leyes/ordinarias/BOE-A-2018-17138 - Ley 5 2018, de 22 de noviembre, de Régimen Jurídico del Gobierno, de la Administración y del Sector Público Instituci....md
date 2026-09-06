@@ -1,0 +1,2488 @@
+# Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria.
+
+- Identificador BOE: `BOE-A-2018-17138`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-17138
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria.
+PREÁMBULO
+I
+Desde la primera versión del Estatuto de Autonomía para Cantabria, aprobado por Ley Orgánica 8/1981, de 30 de diciembre, la norma institucional básica de la Comunidad ha remitido a una Ley la regulación del Gobierno, la Administración Pública autonómica, su organización y su funcionamiento en el marco, en su caso, de lo que al efecto se derive de la legislación básica del Estado. La redacción actual del texto estatutario derivado de la reforma operada por Ley Orgánica 11/1998, de 30 diciembre, reitera esas mismas previsiones e insiste en la misma dirección. Y así, el artículo 18.5 del Estatuto dispone que una Ley del Parlamento regulará la organización del Gobierno, las atribuciones y el estatuto personal de sus componentes y, por su parte, el artículo 36 afirma que corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública, dentro de los principios generales y normas básicas del Estado. El artículo 37 del Estatuto de Autonomía se refiere al ejercicio de las competencias administrativas de la Comunidad, que serán ejercidas por su Administración y a través de los organismos y entidades que se establezcan, dependientes del Gobierno. El funcionamiento de esa Administración ha de seguir, obviamente, unas pautas procedimentales; pautas que, por mandato del artículo 149.1. 18.ª de la Constitución, corresponde fijar al Estado con carácter básico pero que, eventualmente, pueden ser desarrolladas por la legislación autonómica.
+Tenemos, pues, un marco constitucional y estatutario dentro del cual la Comunidad Autónoma de Cantabria, como las demás, podrá desarrollar unas facultades organizativas consustanciales a la autonomía que la Constitución y el Estatuto le otorgan. Unas facultades que, como acaba de indicarse, han de ser ejercidas en el marco de la legislación básica del Estado cuando éste haya dictado legislación de ese carácter que encuadra, en lo sustancial, el ejercicio de la potestad legislativa de la Comunidad Autónoma.
+La evolución que han sufrido las Leyes de Cantabria que han contemplado estas cuestiones institucionales y organizativas –y en algún caso, procedimentales– obedece a las pautas que acaban de mencionarse. Así, en un primer momento, en la época fundacional, la entonces Asamblea Regional aprobó la Ley 2/1982, de 4 de octubre, de Régimen Jurídico del Estatuto Personal, atribuciones, y organización del Presidente de la Diputación Regional de Cantabria y de su Consejo de Gobierno, que estuvo en vigor apenas año y medio hasta su sustitución por una norma de mayor calado y articulación como fue la Ley 3/1984, de 26 de abril, de Régimen Jurídico del Gobierno y de la Administración de la Diputación Regional de Cantabria; Ley que, con algunas modificaciones que afectaron a poco más de media docena de preceptos, se erigió en el marco normativo del Gobierno y la Administración durante trece años hasta su derogación por la posterior Ley 2/1997, de 28 de abril, de Régimen Jurídico del Gobierno y de la Administración de la Diputación Regional de Cantabria. Esta Ley no supuso grandes cambios, pero su aprobación fue una consecuencia obligada de la promulgación de la Ley estatal 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, cuyo carácter básico exigía la adecuación a la misma de las Leyes de las Comunidades Autónomas en lo que resultaba afectado por la citada legislación básica. Al tiempo que llevaba a cabo la oportuna adecuación de la anterior Ley 3/1984 a la legislación estatal, la nueva Ley 2/1997, del Gobierno y de la Administración autonómica, aprovechó la ocasión para actualizar la normativa anterior y rellenar aquellas lagunas que la aplicación práctica de la Ley anterior había puesto de manifiesto optándose, en consecuencia, por aprobar un nuevo texto completo de carácter omnicomprensivo.
+La Ley 2/1997 estuvo en vigor poco más de cinco años, hasta su sustitución por la Ley 6/2002, de 10 de diciembre, de Régimen Jurídico del Gobierno y de la Administración de la Comunidad Autónoma de Cantabria, antecesora inmediata de la que ahora se aprueba. Esa nueva Ley de carácter institucional, organizativo y procedimental, traía causa también de los cambios normativos producidos en los ámbitos en ella contemplados. En efecto, desde 1997, se habían producido algunos cambios legislativos muy destacados, el más importante de los cuales fue, sin duda, la reforma estatutaria aprobada por Ley Orgánica 11/1998, de 30 de diciembre, que, como en el Preámbulo de la Ley 6/2002 se dice, «supuso una profunda reforma institucional del Estatuto de Autonomía para Cantabria» que afectó, entre otras materias, a la denominación de las instituciones y a diversas cuestiones terminológicas. Al mismo tiempo, la Ley estatal básica de 1992, la ya citada Ley 30/1992, de 26 de noviembre, fue objeto de una importante y profunda reforma por la Ley 4/1999, de 13 de enero, cuyas modificaciones, en lo que hacía a sus aspectos básicos, como el régimen de los recursos administrativos o el cambio sustancial en la configuración del silencio administrativo, era oportuno y hasta obligado incorporar a la legislación autonómica. Cambios menos significativos pero atendibles venían impuestos también por la Ley Reguladora de los Organismos Públicos de la Comunidad Autónoma de Cantabria, Ley 4/1999, de 24 de marzo. De manera que la incidencia de todas estas innovaciones imponía la aprobación de una nueva Ley para conformar, como decía el Preámbulo de la citada Ley 6/2002, un marco jurídico coherente de las instituciones de autogobierno de la Comunidad Autónoma que integran su poder ejecutivo, esto es, el Gobierno y el Presidente, así como su Administración y dentro de ésta, no sólo la que la propia Ley denomina Administración General, organizada funcionalmente en Consejerías, sino también su Administración instrumental o institucional. La Ley contemplaba la organización administrativa y el régimen de su actividad poniendo así de manifiesto, como seguía diciendo el Preámbulo, «el hecho de que se trata de una norma que pretende tener un alcance omnicomprensivo por lo que a la Administración de la Comunidad Autónoma de Cantabria respecta».
+II
+Han pasado quince años desde la aprobación de la Ley 6/2002. Durante ese tiempo la Ley ha sufrido algunas modificaciones que han afectado a una treintena de sus preceptos. Con esas adaptaciones ha adecuado su contenido a la cambiante realidad normativa de manera que no se han detectado disfunciones importantes en su aplicación. No habría sido necesario, por tanto, abordar la redacción de una nueva Ley si no fuera porque se han producido dos acontecimientos de gran importancia que, de una u otra forma, han incidido en la norma de 2002. Y es que, en efecto, el Estado, fruto de los trabajos de la Comisión para la Reforma de las Administraciones Públicas (CORA), ha aprobado dos nuevas e importantes Leyes referidas, respectivamente, al procedimiento administrativo y a la organización del Sector Público: la Ley 39/2015, de 1 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 40/2015, de 1 octubre, del Régimen Jurídico del Sector Público. Ambas Leyes inciden directa o indirectamente en la Ley de Cantabria 6/2002 e imponen una serie de modificaciones que son, en efecto, las que contempla la presente Ley.
+La adaptación de la Ley de Cantabria 6/2002 a las Leyes estatales 39 y 40/2015, de 1 octubre, tiene distinto significado y admitía varias opciones legislativas. Distinto significado por cuanto la Ley 39/2015, del Procedimiento Administrativo Común, es una Ley básica, que vincula directamente a las Comunidades Autónomas y desplaza las previsiones normativas anteriores que se opongan a ella, en tanto que la Ley 40/2015, de Régimen Jurídico del Sector Público, aunque tiene algunos aspectos básicos, no lo es en gran medida por más que las previsiones de su texto pueden ser un criterio orientativo a la hora de adoptar decisiones normativas en el ámbito de la Comunidad Autónoma, y permitan aprovechar la ocasión para destacar principios y tendencias que son ya de común aceptación en la doctrina y la jurisprudencia. Así, por referir algunos de estos nuevos principios, está el principio de transparencia, el de eficacia en el uso de recursos públicos, la eficacia y racionalidad gestora o la generalizada implantación al servicio de todo ello de las modernas tecnologías.
+La adaptación de la legislación autonómica admite o, mejor, exige una perspectiva diferente en lo que se refiere al procedimiento y en lo que afecta a la organización. Por lo que hace a la Ley 39/2015 no cabe sino completarla o, en su caso, desarrollarla, aunque en la mayor parte de las veces basta la mera referencia y remisión a ella por su aplicabilidad directa. En el caso de los aspectos básicos de la Ley 40/2015 cabe decir lo mismo, pero en los aspectos no básicos –que son muchos– cabe la opción de asumir o no los postulados y opciones que en materia organizativa articula esta Ley estatal.
+La opción por la que se ha apostado ha sido la de desarrollar la Ley 39/2015 en los escasos aspectos en que ésta lo precisa y asumir, en efecto, gran parte de los criterios y contenidos institucionales que inspiran la Ley 40/2015, con algunas excepciones y pequeños cambios. Excepciones y cambios para no recargar más de lo debido un texto legal ya de por sí amplio. Se trata, pues, de asumir las propuestas de la Ley estatal, pero, en ocasiones, simplificando su contenido a partir de la constatación de que muchas de las realidades contempladas en dicha Ley, de ser necesarias, se pueden prever en normas reglamentarias a las que eventualmente la Ley remite, como sucede hasta ahora.
+La nueva Ley actualiza, pues, la Ley de Cantabria 6/2002 despojándola de referencias desactualizadas y aclarando algunos aspectos concretos, bien para adaptarlos a la citada normativa estatal, bien para subvenir a la resolución de problemas o insuficiencias detectadas. A continuación, incorpora una novedosa regulación sobre tres cuestiones que son relativamente nuevas también en la mencionada normativa estatal. De un lado, la regulación unificada y con cierto detalle de la iniciativa normativa, tanto de la propiamente legislativa, en su fase previa a la tramitación parlamentaria, como de la reglamentaria. De otro, la sistematización de las previsiones sobre el llamado Sector público institucional, que es una expresión que va más allá en cuanto a su extensión de la de Administración Institucional, única que contenía la Ley hasta ahora vigente, por cuanto dicho concepto incluye y abarca no sólo entidades de naturaleza pública, sino también privada como son las sociedades mercantiles o las fundaciones; realidad que era necesario contemplar en línea con la ya mencionada Ley estatal 40/2015. Y, en tercer lugar, la regulación de los aspectos básicos de la llamada Administración Electrónica de la que hasta ahora carecía a nivel legal la Comunidad Autónoma.
+La Ley aprovecha también la circunstancia de su reforma, impuesta por los motivos ya indicados, para regular otros aspectos más de detalle, destacando de entre ellos las previsiones relativas a la actividad convencional, modificar algunas previsiones anteriores o llevar a cabo, en paralelo, limitadas reformas de otras leyes autonómicas vigentes.
+En todo caso, el criterio general adoptado ha sido el de conservación y prudencia. No se trataba de cambiar por cambiar o por el mero prurito de mejoras técnicas con escasa proyección real. Al revés, se ha tratado de conservar el mayor número de previsiones de la Ley hasta ahora vigente en cuanto que no han generado destacados problemas en su aplicación práctica. Y ello aun en los casos en los que, quizá, habría sido conveniente la introducción de mejoras técnicas, pero, como se dice, de escaso recorrido y que, por ello, no habrían justificado en sí mismas un cambio normativo de tamaño calado.
+En tales circunstancias y desde un punto de vista práctico había dos opciones para hacer operativa la reforma. La primera era la de una ley de reforma de uno o dos artículos en los que, de forma sistemática y numerada, se incluyeran los cambios que se introducían en el texto hasta ahora vigente, se explicitaran las derogaciones y la nueva numeración de artículos. Para hacer comprensible el resultado final y que los operadores jurídicos pudieran tener un texto completo actualizado, en la citada Ley de reforma se debería incluir el mandato y delegación al Gobierno para que procediera a redactar y publicar un Texto Refundido o, cuando menos, una versión consolidada. La otra opción, por la que finalmente se ha optado, era la de una nueva Ley completa en la que incluyan de manera sistemática todos los cambios operados en la Ley anterior, dejando no obstante claro que se trata de actualizar la Ley 6/2002, pero no de llevar a cabo una modificación radical de sus postulados fundamentales. El hecho de que como consecuencia de las nuevas regulaciones incorporadas resulten afectados, de una u otra manera, más de la mitad de los preceptos de aquélla han aconsejado esta segunda opción por razones operativas y de utilidad práctica.
+III
+La nueva Ley mantiene, como acaba de decirse, la estructura y gran parte del contenido de la anterior Ley 6/2002, pero incorpora modificaciones de distinto calado e importancia, a las más importantes de las cuales cabe ahora hacer una breve referencia.
+La Ley se estructura, en efecto, en cinco Títulos, uno más que la Ley que se deroga, manteniendo, como acaba de indicarse, la misma estructura. Así, el Título Preliminar se refiere al ámbito de aplicación y a la definición tanto del Gobierno como de la Administración, incorporando algunas precisiones que pretenden, de un lado, diferenciar al Gobierno del órgano que reúne a sus miembros, el Consejo de Gobierno, y, de otro, distinguir dentro de la Administración en sentido propio la denominada Administración General y las diversas entidades del sector público adscritas o vinculadas a la Administración General.
+El Título I aborda la regulación del Gobierno y de sus miembros y se divide en seis Capítulos dedicados, respectivamente, al Presidente; el Vicepresidente; el Gobierno y sus órganos de apoyo; los Consejeros; las relaciones del Gobierno y el control del Gobierno, y, por fin, un último y novedoso Capítulo referido a la iniciativa legislativa y a la potestad reglamentaria del Gobierno.
+El Capítulo I de este Título se refiere al Presidente del Gobierno regulando en detalle su elección, nombramiento y cese, así como su estatuto personal, con la única novedad de la supresión de la referencia al tratamiento que se contenía en la regulación a la que esta Ley sustituye, y sus atribuciones con una referencia específica a la estructura de la Presidencia y el Gabinete del Presidente, al que se dota ahora de una configuración similar al de los demás miembros del Gobierno suprimiéndose la previsión que en la anterior Ley 6/2002 introdujo la reforma operada en el artículo 15 por Ley 7/2012, de 18 de diciembre, para posibilitar que pudieran existir "órganos directivos con las funciones y competencias que se determinen en la estructura orgánica de la Presidencia". Al suprimir esa referencia, que se entiende es disfuncional, el órgano de apoyo inmediato y directo al Presidente será en adelante sólo su Gabinete, regulado en los términos convencionalmente consolidados. Sin perjuicio, claro está, del asesoramiento institucional que corresponde a la Consejería de Presidencia.
+Más allá de esta modificación, que va en la línea de suprimir cualquier estructura diferenciada y especial de la Presidencia, no hay en este Capítulo otras novedades de importancia.
+Destaca en el Capítulo I la intención de sistematizar de una forma clara las competencias del Presidente, distinguiendo en artículos diferentes sus atribuciones en su triple condición de representante de la Comunidad Autónoma, representante ordinario del Estado en la Comunidad y Presidente del Gobierno de Cantabria. La regulación del nombramiento y cese del Presidente se mantiene como estaba con anterioridad con levísimas modificaciones. Tampoco hay cambios en el Capítulo II, dedicado a la figura del Vicepresidente, y son pocos igualmente los que se añaden ahora al Capítulo III, en el que se contempla la regulación del Gobierno. Se modifican también algunas de las atribuciones gubernamentales, en particular en lo que hace a la autorización del ejercicio de acciones, donde se incluye como novedad que el Gobierno es quien autoriza "la no interposición de recursos ordinarios" lo que, a la postre, significa que los Servicios Jurídicos no precisan autorización gubernamental para aquietarse y no recurrir cuando lo que procedan sean recursos extraordinarios y, en particular, el recurso de casación, singularmente, en el ámbito de la Jurisdicción Contencioso-Administrativa, que tiene ese carácter, acentuado tras la última reforma procesal. La regla en esos casos parece entonces que debería ser la no interposición y la excepción la hipótesis contraria, de manera que los Servicios Jurídicos podrían adoptar en estos casos la primera decisión sin necesidad de autorización expresa del Gobierno para aquietarse. Una opción legislativa, pues, en línea con la profesionalización de estas decisiones que tiende, además, a reforzar, incluso visualmente, el papel de los Tribunales de Justicia en nuestro Estado de Derecho.
+Se mantiene la previsión de que los miembros del Gobierno puedan reunirse en Pleno, es decir, en Consejo de Gobierno, que será lo habitual, o en Comisiones Delegadas del Gobierno, que son creadas por Decreto a propuesta del Presidente con las competencias que específicamente les atribuya, en su caso, el Decreto de creación y que, ejemplificada mente, se contemplan en el artículo 24.
+En la regulación del Consejo de Gobierno se suprime la anterior referencia del artículo 23 según la cual los acuerdos de dicho órgano se adoptaban por mayoría con la previsión de que en caso de empate dirimía el Presidente. Se trataba de una previsión habitual de cualquier órgano administrativo colegiado, pero que se entiende disfuncional en el caso de un órgano político como el Consejo de Gobierno donde funciona siempre la responsabilidad colectiva y solidaria. Dada, por tanto, esta diferenciación con el resto de órganos colegiados, parece razonable postular que las decisiones políticas no han de seguir el modelo o esquema de las decisiones adoptadas por los órganos propiamente administrativos, de suerte que a los Consejeros discrepantes siempre les queda la opción de dimitir o bien pueden ser destituidos por el Presidente, figura institucional y política que tiene una posición diferente y va más allá de la del Presidente de un órgano estrictamente administrativo.
+Algunas novedades de interés se contienen también en la previsión de los órganos de colaboración y apoyo al Gobierno. En particular, en lo que hace a la Comisión de Secretarios Generales y al Secretariado del Gobierno, que se incorpora como novedad en términos detallados. Lo mismo que la regulación de los Gabinetes de los miembros del Gobierno, ya previstos, pero ahora regulados más pormenorizadamente en línea con la legislación del Estado referida al Gobierno de la Nación.
+En el Capítulo IV dedicado a los Consejeros no hay novedades de interés más allá de la supresión de la referencia al tratamiento que se contenía en la regulación a la que esta Ley sustituye. Supresión que se considera coherente con el hecho de que, en el ámbito estatal, hace ya tres décadas que se suprimió cualquier referencia al tratamiento y parece coherente llevar esa misma previsión al ámbito autonómico, a fin de que el tratamiento que el Estado dispensa al máximo responsable del Ministerio sea el mismo que la normativa autonómica otorga a los máximos responsables de las Consejerías, el equivalente en las Comunidades Autónomas de los Ministerios,
+Los dos últimos Capítulos de este Título I se refieren, uno, a las relaciones del Gobierno con el Parlamento y al control del Gobierno, y el otro, a la iniciativa legislativa. En el primer caso, se mantienen las previsiones anteriores en términos prácticamente idénticos (incluyendo la regulación de la legislación delegada) salvo la incorporación de una Sección dedicada, justamente, al control del Gobierno en la que no hay novedad alguna sino únicamente el recordatorio sistematizado del sometimiento del Gobierno al control político del Parlamento y al control jurisdiccional de los tribunales, sea el Tribunal Constitucional, sean los órganos de la jurisdicción contencioso-administrativa, según los casos y de acuerdo con la legislación específica aplicable. El último Capítulo del Título, el Sexto, es enteramente nuevo y en él se contempla la iniciativa legislativa y reglamentaria del Gobierno, incorporando previsiones similares a las que en relación con el Gobierno de la Nación contempla la actual normativa antes reseñada. Así, se regula en detalle el ejercicio de la iniciativa legislativa y reglamentaria, se contemplan principios de buena regulación, se establece la forma y jerarquía de las disposiciones y resoluciones del Gobierno y se fijan pautas procedimentales para la elaboración de normas con rango de ley o reglamentario. En el primer caso, en lo que hace a la tramitación previa a la presentación de los proyectos de ley en el Parlamento, y en el segundo con una regulación completa de los trámites a desarrollar sobre la base del cumplimiento de los principios de transparencia, incidencia social y económica, previsibilidad de resultados y, sobre todo, de participación social y ciudadana.
+El Título II de la Ley está dedicado, como antes, a la Administración General de la Comunidad Autónoma y, aunque contiene algunos cambios, no son muchas las novedades que incorpora. Dividido en dos Capítulos, en el primero se proclaman los principios de organización de la Administración de la Comunidad con especial atención a la competencia y a los supuestos de modificación de la misma, en particular, la delegación orgánica, la avocación, la encomienda de gestión (respecto de la que se precisa que no podrá tener por objeto prestaciones propias de los contratos), la delegación de firma y la suplencia, desarrollando lo que, con carácter básico, contempla la legislación del Estado.
+En el segundo Capítulo, tras la proclamación de que la Administración General de la Comunidad Autónoma actúa con personalidad jurídica única, se contempla la articulación genérica de dicha Administración con especial referencia a sus órganos superiores y directivos.
+Por lo demás, la Ley regula detalladamente también el régimen de los órganos colegiados previendo expresamente la reunión de los mismos por medios telemáticos y respetando, naturalmente, el carácter básico de algunas previsiones sobre los mismos contenida en la legislación estatal.
+El Título III de la Ley es enteramente nuevo. Se contempla en él el ahora denominado Sector Público Institucional, que abarca no sólo las Entidades de Derecho Público, que antes se ordenaban bajo el rótulo de Administración Institucional (en particular, organismos autónomos, entidades públicas empresariales y consorcios), sino también entes de naturaleza privada, como las fundaciones y las sociedades mercantiles controladas por la Comunidad Autónoma. La Ley, tras fijar los principios generales de actuación del Sector Público Institucional, dedica a cada uno de los citados tipos o clases de entes Capítulos diferenciados en los que se regula su creación, disolución, estructura orgánica, potestades, formas de actuación y régimen económico-financiero, patrimonial, de personal y de contratación, con remisión a la específica normativa sectorial aplicable en cada caso.
+Se unifica así en un cuerpo normativo omnicomprensivo la regulación de estas entidades que tienen tanta importancia práctica por cuanto son utilizadas con frecuencia, tanto en el Estado como, en general, en las Comunidades Autónomas, y en ésta en particular también, para la gestión de singulares competencias específicas o para la consecución de objetivos concretos.
+Destaca igualmente en este Título, una novedosa y detallada regulación de los encargos a medio propio que se formalicen, y que responde a las determinaciones marcadas por la legislación básica estatal en materia de contratos, de conformidad, igualmente, con las consideraciones que el Tribunal de Cuentas ha venido señalando en los últimos años en sus informes de fiscalización.
+El actual Título IV se refiere a la actividad de la Administración y se divide en seis Capítulos en los que se alude a los principios de actuación, las resoluciones administrativas, la revisión de los actos administrativos, la potestad sancionatoria, la responsabilidad patrimonial, la actividad convencional y la contratación pública. En la medida en que buena parte del contenido de este Título contempla aspectos que son objeto de la normativa básica estatal del procedimiento administrativo, la Ley se limita a efectuar las oportunas remisiones a esa legislación de aplicación directa cuando no hay matices y desarrollos que contemplar.
+En este sentido, el Capítulo I hace referencia a los principios generales de funcionamiento y actuación de la Administración, poniendo especial énfasis en el principio de servicio a los ciudadanos, en el de publicidad y transparencia, y el de simplificación de procedimientos. A estos efectos se prevén los contenidos que deberá tener el portal web de las Consejerías, donde los ciudadanos podrán consultar los procedimientos que gestiona la Administración autonómica y, lo que es más importante, los plazos máximos de duración de los mismos y los efectos del silencio para el caso de que transcurran los oportunos plazos sin haberse producido la notificación de la correspondiente resolución expresa. Esta regulación se completa con dos Anexos en los que se refunden y enumeran, de conformidad con la normativa básica, los procedimientos cuyo plazo máximo es superior a seis meses y aquellos en los que, por excepción, el silencio tiene efectos desestimatorios. Se prevé también como novedad el registro electrónico y las oficinas de asistencia al ciudadano y en materia de simplificación se regula la importante cuestión de la aportación de datos por los ciudadanos a los procedimientos donde se contemplan diversos supuestos y se adelanta la solución a potenciales conflictos.
+Las cuestiones reguladas en los Capítulos siguientes suponen, en su mayoría, la remisión a la legislación básica estatal por cuanto se trata de ámbitos materiales sujetos a la misma. No obstante, hay algunas novedades propias que conviene destacar. Así, una novedad importante tiene que ver con la regulación de los actos que agotan la vía administrativa y, en consecuencia, no precisan de recurso de alzada siendo directamente impugnables en vía contencioso-administrativa sin perjuicio del plantear, potestativamente, el oportuno recurso de reposición. Hasta ahora en el ámbito de la Administración de la Comunidad Autónoma únicamente agotaban la vía administrativa los actos del Presidente y del Consejo de Gobierno, pero no los de los Consejeros, salvo cuando éstos resolvían recursos de alzada contra resoluciones de órganos inferiores o, en aquellos supuestos en que por razón de la materia la normativa estatal de aplicación así lo contempla, como por ejemplo en el ámbito de la responsabilidad patrimonial de la Administración. Se trataba de una situación realmente anómala por comparación a lo que venía sucediendo desde hacía tiempo en prácticamente todas, si no todas, las demás Comunidades Autónomas en las que los actos de los Consejeros agotan la vía administrativa, como por lo demás sucede en la Administración del Estado en relación con los actos de los Ministros, órganos equivalentes en esto a los Consejeros. Esta anómala circunstancia suponía, de un lado, que el Consejo de Gobierno tenía, en teoría, que conocer de todos los recursos que potencialmente se plantearan frente a absolutamente todas las decisiones de los Consejeros, lo cual no deja de ser, como se indica, cuando menos anómalo y en el fondo disfuncional y retardatario pues rebaja, incluso simbólicamente, la condición de órganos superiores de los Consejeros. Y, de otra parte, al imponerse como preceptivo el recurso de alzada en estos casos se retrasaba, sin justificación ni ventaja tangible, el acceso del ciudadano a la jurisdicción contencioso-administrativa. Habida cuenta, además, de que el agotamiento de la vía administrativa por los actos de los Consejeros no es óbice para que el ciudadano pueda plantear, potestativamente, el recurso de reposición frente a los actos de los mismos. Por todas estas razones, la Ley prevé sin más que los actos de los Consejeros agotan la vía administrativa al tiempo que se aprovecha la oportunidad de la nueva norma para precisar algunos otros supuestos, en particular, los recursos que caben en el caso de resoluciones de los organismos públicos y, excepcionalmente, de las sociedades mercantiles y fundaciones públicas a las que una Ley sectorial les atribuya, como ahora es posible, el ejercicio de potestades administrativas.
+El resto de novedades que incorporan estos Capítulos hacen referencia a cuestiones de detalle sin mayor trascendencia, salvo en lo que hace a la regulación de la potestad sancionatoria donde se contemplan especialidades procedimentales de notable interés práctico. Así, la previsión expresa de que cuando se produzca el pago voluntario de una sanción pecuniaria en cualquier momento anterior a la resolución del procedimiento sancionador, dicho pago implicará la terminación del procedimiento, sin necesidad de que se dicte resolución expresa. En este supuesto empieza a contar el plazo del eventual recurso a partir del día siguiente a aquel en que tenga lugar el pago, con lo que, sin merma alguna de los derechos del interesado, se otorga certeza al plazo del recurso y se facilita y simplifica la actuación interna de la propia Administración. Una segunda precisión es la fijación de un plazo de seis meses para resolver los procedimientos sancionadores ordinarios. En tercer lugar, la expresa previsión de la vinculación del procedimiento sancionador al orden jurisdiccional penal, contemplando la tradicional regla de la suspensión de dicho procedimiento administrativo cuando los hechos pudieran ser constitutivos de delito y así se comunique al Ministerio Fiscal, o cuando la Administración tenga conocimiento de que se está desarrollando un proceso penal sobre los mismos hechos. Y, finalmente, la muy importante concreción, no del todo prevista en la legislación básica, del momento en que las resoluciones sancionadoras son ejecutivas, disponiéndose al respecto que lo serán cuando no quepa contra ellas recurso administrativo alguno, incluido el recurso de reposición, o cuando, interpuesto el oportuno recurso, el mismo sea resuelto de manera expresa. Ello supone que no será ejecutiva la sanción en tanto no sea notificada la pertinente resolución expresa desestimatoria del recurso administrativo formulado; esto es, cuando aquél haya sido desestimado presuntamente por silencio, supuesto en el que, como se dice, la sanción no adquiere ejecutoriedad, que supone idoneidad para ser ejecutada forzosamente por la Administración, lo que no es óbice para que comience a correr el plazo de prescripción de la sanción, a partir del momento en que se produce la citada desestimación por silencio del recurso administrativo.
+Destaca la nueva regulación en el capítulo V de la denominada Actividad Convencional, regulando tanto la tipología de los distintos instrumentos a celebrar por la Administración en función de las obligaciones asumidas, como los órganos competentes, trámites y requisitos preceptivos para su suscripción en el ámbito de la Comunidad Autónoma de Cantabria.
+Por lo demás, el resto de las previsiones de estos últimos Capítulos remiten a la legislación básica estatal sin más añadidos que las reglas de carácter organizativo y competencial que se contemplan en materia de contratación pública como complemento de la legislación básica estatal.
+Una serie variada de Disposiciones completan la Ley. En ellas se contienen previsiones de diversa naturaleza, como, la modificación de algunos preceptos de otras Leyes de Cantabria como las Leyes 3/2006, de 18 de abril, de Patrimonio de Cantabria, 14/2006, de 24 de octubre, de Finanzas, 10/2006, de 17 de julio, de Subvenciones y 11/2006, de 17 de julio de Organización y Funcionamiento del Servicio Jurídico, y, en particular la creación del Registro Electrónico Autonómico de Convenios.
+IV
+En definitiva, la Ley, como su antecesora, no pretende grandes transformaciones en la organización y el funcionamiento de la Administración y el Sector Público de la Comunidad Autónoma. Pretende simplemente adecuar el marco normativo propio a las transformaciones impuestas por la legislación básica estatal, actualizar sus postulados, sistematizar el régimen de algunos organismos no contemplados con anterioridad y añadir algunas novedades significativas que no rompen la sistemática tradicional, pero suponen cambios de destacada importancia práctica como se ha expuesto antes en este Preámbulo.
+
+## TÍTULO PRELIMINAR
+
+Ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto la regulación de la organización, el funcionamiento y el régimen jurídico del Gobierno, la Administración y el Sector Público Institucional de la Comunidad Autónoma de Cantabria.
+
+### Artículo 2
+
+Artículo 2. El Gobierno de Cantabria.
+El Gobierno de Cantabria, bajo la dirección de su Presidente, es el órgano superior de la Administración de la Comunidad Autónoma de Cantabria.
+
+### Artículo 3
+
+Artículo 3. La Administración de la Comunidad Autónoma de Cantabria.
+1. La Administración de la Comunidad Autónoma de Cantabria desarrolla funciones ejecutivas de carácter administrativo, realizando los cometidos en que se concreta el ejercicio de la acción de gobierno.
+2. La Administración de la Comunidad Autónoma de Cantabria está integrada por la Administración General, y por las entidades de Derecho Público vinculadas o dependientes de ella.
+3. Cada una de las entidades de Derecho Público vinculadas o dependientes de la Administración General tendrá personalidad jurídica propia y consideración de Administración pública. Dichas entidades se adscriben, directamente a la Consejería competente por razón de la materia o al órgano de la Consejería que en cada caso se determine.
+
+### Artículo 4
+
+Artículo 4. El Sector Público Institucional.
+El Sector Público Institucional de la Comunidad Autónoma de Cantabria comprende:
+a) Los organismos públicos, las entidades de derecho público vinculadas o dependientes de la Administración General de la Comunidad Autónoma y los consorcios.
+b) Las entidades de derecho privado vinculadas o dependientes de la Administración General de la Comunidad Autónoma de Cantabria y las fundaciones del sector público, que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a ellas y, en todo caso, cuando ejerzan potestades administrativas.
+c) La Universidad de Cantabria, que se regirá por su normativa específica y supletoriamente por las previsiones de la presente Ley.
+d) Los fondos sin personalidad jurídica.
+Se modifica por el art. 5.1 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+## TÍTULO I
+
+Del Gobierno de la Comunidad Autónoma de Cantabria y de sus miembros
+
+## CAPÍTULO I
+
+Del Presidente
+
+## Sección 1
+
+Sección 1.ª Elección y nombramiento
+
+### Artículo 5
+
+Artículo 5. El Presidente.
+El Presidente de la Comunidad Autónoma de Cantabria preside, dirige y coordina la actuación del Gobierno, ostenta la más alta representación de la Comunidad Autónoma y la ordinaria del Estado en Cantabria.
+
+### Artículo 6
+
+Artículo 6. Elección.
+El Presidente de la Comunidad Autónoma será nombrado por el Rey, previa elección por el Parlamento de Cantabria, de entre sus miembros, conforme al procedimiento establecido en el Estatuto de Autonomía para Cantabria y en el Reglamento del Parlamento.
+
+### Artículo 7
+
+Artículo 7. Nombramiento y toma de posesión.
+1. Otorgada la confianza al candidato, el Presidente del Parlamento lo comunicará al Rey, a los efectos de su nombramiento como Presidente de la Comunidad Autónoma de Cantabria, y al Gobierno de la Nación.
+2. El Real Decreto de nombramiento será publicado en el «Boletín Oficial del Estado» y en el «Boletín Oficial de Cantabria».
+3. El Presidente electo tomará posesión de su cargo en el plazo de cinco días a partir de la última publicación de cualesquiera de los Boletines a que se refiere el apartado anterior.
+
+## Sección 2
+
+Sección 2.ª Estatuto personal
+
+### Artículo 8
+
+Artículo 8. Derechos.
+El Presidente, en razón de su cargo, tiene derecho a:
+a) Utilizar la bandera de Cantabria como guion.
+b) Percibir la remuneración que se consigne en los Presupuestos Generales de la Comunidad Autónoma de Cantabria, así como disponer de los medios que se requieran para el ejercicio de su cargo.
+c) Que le sean rendidos los honores que, en razón de la dignidad de su cargo, se establezcan en las disposiciones vigentes.
+
+### Artículo 9
+
+Artículo 9. Incompatibilidades.
+1. El Presidente de la Comunidad Autónoma de Cantabria no podrá ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.
+2. El Presidente formulará, conforme a las previsiones de la legislación en materia de conflicto de intereses y transparencia, declaración de sus bienes referida al día en que tomó posesión del cargo, así como de cualquier actividad que le produzca ingresos de cualquier clase, en el plazo de los dos meses siguientes a su toma en posesión. Deberá presentar una nueva declaración de bienes referida al día del cese en el plazo de los dos meses siguientes a éste. Ambas serán publicadas en el portal de Transparencia del Gobierno de Cantabria, conforme a las previsiones de la normativa vigente.
+
+## Sección 3
+
+Sección 3.ª Atribuciones
+
+### Artículo 10
+
+Artículo 10. Atribuciones como representante de la Comunidad Autónoma.
+Corresponde al Presidente, como supremo representante de la Comunidad Autónoma de Cantabria:
+a) Mantener relaciones con las demás instituciones del Estado y sus Administraciones.
+b) Firmar los convenios y acuerdos de cooperación que la Comunidad Autónoma de Cantabria celebre con otras Comunidades Autónomas.
+c) Acordar la disolución del Parlamento de Cantabria, convocar elecciones al Parlamento de Cantabria, así como convocar al Parlamento electo en los términos establecidos en el Estatuto de Autonomía y la normativa aplicable en la materia.
+Se modifica la letra c) por el art. 6.1 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 11
+
+Artículo 11. Atribuciones como representante ordinario del Estado en Cantabria.
+Corresponde al Presidente de la Comunidad Autónoma de Cantabria, en su condición de representante ordinario del Estado en Cantabria:
+a) Promulgar en nombre del Rey las Leyes de Cantabria y ordenar su publicación en el plazo máximo de quince días desde su aprobación.
+b) Ordenar la publicación en el «Boletín Oficial de Cantabria» del nombramiento del Presidente del Tribunal Superior de Justicia de Cantabria.
+
+### Artículo 12
+
+Artículo 12. Atribuciones como Presidente del Gobierno de Cantabria.
+El Presidente, como responsable de la dirección y coordinación de las actuaciones del Gobierno de Cantabria, tiene las siguientes atribuciones:
+a) Fijar las directrices generales de la acción de gobierno y asegurar su continuidad y cumplimiento.
+b) Impulsar el programa legislativo del Gobierno.
+c) Ejercer la superior coordinación de la elaboración de normas de carácter general.
+d) Firmar los decretos aprobados por el Consejo de Gobierno.
+e) Dictar los decretos a los que se refieren los artículos 16, 32, 36, 37 y 64 de esta Ley, así como aquellos otros que determine la legislación vigente.
+f) Firmar los protocolos y convenios que autorice el Consejo de Gobierno en los supuestos en los que éste no faculte expresamente a un Consejero.
+g) Recabar de los Consejeros la información oportuna acerca de su gestión, así como de los programas de sus respectivas Consejerías.
+h) Encomendar a un Consejero el despacho de una Consejería en el caso de ausencia, enfermedad, impedimento o cese del titular de la misma.
+i) Convocar las reuniones del Consejo de Gobierno, fijar el orden del día, presidir, suspender y levantar sus sesiones y dirigir sus debates y deliberaciones.
+j) Resolver los conflictos de competencias entre distintas Consejerías cuando no se hubiese alcanzado acuerdo entre sus titulares, oído el Consejo de Gobierno.
+k) Plantear ante el Parlamento, previa deliberación del Gobierno, la cuestión de confianza.
+l) Proponer la celebración de debates generales en el Parlamento de Cantabria entre ellos el debate sobre la orientación política al que se refiere el artículo 39.2 de esta Ley.
+m) Solicitar el dictamen del Consejo de Estado, u órgano equivalente de la Comunidad Autónoma de Cantabria, en los supuestos en que proceda.
+n) Las demás que expresamente le atribuyan las normas vigentes.
+Se suprime la letra m) y se renumeran las letras n) y ñ) como m) y n), por el art. 6.2 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 13
+
+Artículo 13. Delegación temporal.
+1. El Presidente puede delegar con carácter temporal en el Vicepresidente, en su caso, o en un Consejero, cualesquiera de las atribuciones incluidas en el artículo anterior, salvo las correspondientes a los apartados a), e), K) y m) publicando la delegación en el «Boletín Oficial de Cantabria» y dando cuenta por escrito al Parlamento de la delegación conferida. La delegación puede ser revocada en cualquier momento por el Presidente informando de tal decisión al Parlamento, y ordenando la publicación de dicha revocación en el «Boletín Oficial de Cantabria».
+2. La delegación por tiempo superior a un mes precisará la previa autorización del Parlamento.
+
+## Sección 4
+
+Sección 4.ª Suplencia y cese
+
+### Artículo 14
+
+Artículo 14. Suplencia.
+En los casos de ausencia, enfermedad o impedimento temporal, el Presidente del Gobierno será suplido por el Vicepresidente. En defecto de éste por el Consejero a quien el Presidente designe, y a falta de esta designación, por el titular de la Consejería que tenga atribuidas las funciones de Presidencia.
+
+### Artículo 15
+
+Artículo 15. Cese.
+1. El Presidente de la Comunidad Autónoma de Cantabria cesa en sus funciones por las siguientes causas:
+a) Tras la celebración de elecciones al Parlamento de Cantabria.
+b) Pérdida de la condición de Diputado.
+c) Aprobación de una moción de censura en los términos establecidos en el Estatuto de Autonomía.
+d) Denegación de una cuestión de confianza.
+e) Dimisión comunicada formalmente al Presidente del Parlamento.
+f) Notoria y manifiesta incapacidad física o mental, reconocida por los dos tercios de los miembros del Parlamento, que le imposibilite para el ejercicio de su cargo.
+La iniciativa para plantear la declaración de incapacidad corresponderá al Gobierno o a un tercio de los miembros del Parlamento de Cantabria.
+g) Condena penal firme que lleve aparejada la inhabilitación temporal o definitiva para el desempeño de cargo público.
+h) Fallecimiento.
+2. En los supuestos previstos en las letras a), c), d) y e) del apartado anterior el Presidente continuará en funciones hasta la toma de posesión del nuevo Presidente.
+3. En el resto de los casos, el Presidente del Parlamento de Cantabria convocará a la Cámara para la elección del nuevo Presidente, dentro de los veinte días siguientes a producirse el hecho determinante del cese. Hasta la toma de posesión del nuevo Presidente ejercerá sus funciones el Vicepresidente, y en defecto del mismo, el titular de la Consejería que tenga atribuidas las funciones de Presidencia.
+
+## Sección 5
+
+Sección 5.ª Estructura de la presidencia del gobierno
+
+### Artículo 16
+
+Artículo 16. Gabinete del Presidente.
+1. Para la realización de sus funciones, el Presidente podrá disponer como órgano de asesoramiento y apoyo de un Gabinete, cuyo personal eventual será nombrado y cesado libremente.
+2. El Gabinete de la Presidencia del Gobierno se regulará por Decreto del Presidente en el que se determinará, entre otros aspectos, su estructura y funciones, aplicándosele, en todo caso, lo previsto en el artículo 30 de esta ley para los órganos de apoyo a los miembros del Gobierno.
+Cuando en ese Gabinete se haya creado una Unidad Aceleradora de Proyectos, además de las tareas de confianza y asesoramiento especial podrá realizar propuestas a las consejerías competentes para la gestión coordinada de los procedimientos que hayan de sustanciarse en relación con los Proyectos Empresariales Estratégicos y, en general, propuestas que redunden en la mejor y más ágil actuación de los sujetos incluidos en el ámbito de aplicación de la Ley de Simplificación Administrativa.
+Se modifica el apartado 2 por el art. 67.1 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+## CAPÍTULO II
+
+Del Vicepresidente
+
+### Artículo 17
+
+Artículo 17. Nombramiento.
+El Presidente podrá nombrar y separar libremente a un Vicepresidente, que no requerirá la condición de Diputado, informando ante el Pleno del Parlamento en el plazo de quince días, sin perjuicio de la comunicación inmediata y por escrito al mismo.
+
+### Artículo 18
+
+Artículo 18. Atribuciones, estatuto personal y cese.
+1. El Vicepresidente ejercerá las competencias que le atribuya o, en su caso, le delegue el Presidente del Gobierno de Cantabria, además de las funciones que le sean atribuidas normativamente. Ejerce, además, la Vicepresidencia del Consejo de Gobierno, supliendo al Presidente en caso de ausencia de éste.
+2. El Vicepresidente que, por decisión del Presidente del Gobierno, asuma la titularidad de una Consejería, ejercerá, además, las mismas funciones y estará sometido a las mismas normas que por tal concepto le correspondan y sean aplicables a los Consejeros titulares de Departamentos.
+En este supuesto, el Vicepresidente percibirá sólo la remuneración que, para el cargo de Vicepresidente, esté contemplada en los Presupuestos de la Comunidad Autónoma.
+3. El estatuto personal y el cese del Vicepresidente se regirá por lo dispuesto en la presente Ley para los Consejeros.
+
+## CAPÍTULO III
+
+Del Gobierno
+
+## Sección 1
+
+Sección 1.ª Naturaleza y composición
+
+### Artículo 19
+
+Artículo 19. Naturaleza.
+1. El Gobierno es el órgano colegiado que dirige la acción política y la Administración de la Comunidad Autónoma de Cantabria.
+2. A tal fin, ejerce la función ejecutiva, la potestad reglamentaria y la iniciativa legislativa de conformidad con la Constitución, el Estatuto de Autonomía y las Leyes.
+3. El Gobierno, bajo la dirección de su Presidente, establece la política general y coordina la actividad de la Administración de la Comunidad Autónoma.
+4. En el Gobierno ambos sexos estarán representados al menos en un 40 %.
+Se añade el apartado 4 por la disposición final 2.1 de la Ley 2/2019, de 7 de marzo. Ref. BOE-A-2019-4565#df-2
+
+### Artículo 20
+
+Artículo 20. Composición.
+1. El Gobierno está integrado por el Presidente, el Vicepresidente, en su caso, y los Consejeros.
+2. El número de Consejeros con responsabilidad ejecutiva no excederá de diez.
+3. Además de los Consejeros titulares de una Consejería, podrán existir Consejeros sin cartera en número no superior a dos.
+
+## Sección 2
+
+Sección 2.ª Atribuciones
+
+### Artículo 21
+
+Artículo 21. Atribuciones.
+Corresponde al Gobierno:
+a) Desarrollar y ejecutar las directrices generales de la acción de gobierno.
+b) Proponer al Gobierno de la Nación la adopción de cuantas medidas afecten a los intereses de la Comunidad Autónoma de Cantabria, salvo que tal propuesta corresponda al Parlamento.
+c) Aprobar los proyectos de ley y remitirlos al Parlamento, así como acordar, en su caso, la retirada de los mismos, en los términos que establezca el Reglamento del Parlamento.
+d) Dictar decretos legislativos en los términos previstos en el Estatuto de Autonomía y en la presente Ley.
+e) Aprobar decretos en los términos previstos en esta Ley.
+f) Declarar la urgente tramitación de las iniciativas normativas.
+g) Elaborar y aprobar el proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma y remitirlo al Parlamento para su debate, enmienda y aprobación como ley, así como su aplicación.
+h) Aprobar mediante decreto los reglamentos para el desarrollo y ejecución de las Leyes emanadas del Parlamento de Cantabria, así como para el desarrollo de la legislación del Estado, cuando proceda, y ejercer, en general, la potestad reglamentaria en todos los casos en que no esté atribuida al Presidente o a los Consejeros.
+i) Manifestar su criterio respecto a la toma en consideración de las proposiciones de ley, así como dar o denegar de forma motivada la conformidad a la tramitación de aquéllas en cuanto impliquen aumento de gastos o disminución de ingresos presupuestarios.
+j) Deliberar sobre la cuestión de confianza con carácter previo a su planteamiento por el Presidente.
+k) Solicitar que el Parlamento se reúna en sesión extraordinaria.
+l) Autorizar el ejercicio ordinario de acciones judiciales y extrajudiciales y la interposición de demandas o querellas ante cualquier órgano jurisdiccional. En caso de acreditada urgencia la decisión podrá ser adoptada por el titular de la Consejería que tenga atribuidas las funciones de Presidencia, quien dará cuenta inmediatamente al Consejo de Gobierno para que ratifique la decisión o acuerde, en su caso, el desistimiento.
+m) Autorizar el desistimiento de acciones judiciales de cualquier tipo, así como el allanamiento a las pretensiones de la parte contraria.
+n) Autorizar la no interposición de recursos ordinarios o desistir de los interpuestos contra Sentencias que fueren contrarias a la Administración.
+ñ) Acordar la interposición de recursos de inconstitucionalidad y plantear conflictos de competencia con el Estado u otras Comunidades Autónomas, en los términos previstos en la Constitución Española, en el Estatuto de Autonomía para Cantabria y en la Ley Orgánica del Tribunal Constitucional.
+Cuando, con carácter previo al planteamiento de un recurso de inconstitucionalidad que promueva el Estado o la Comunidad Autónoma, se constituya la Comisión Bilateral de Cooperación prevista en la Ley Orgánica del Tribunal Constitucional, corresponde al Consejo de Gobierno pronunciarse, con carácter previo a la suscripción, sobre el acuerdo que resulte de las negociaciones seguidas en la Comisión Bilateral de Cooperación.
+o) Autorizar la celebración de protocolos, convenios y acuerdos de cooperación con otras administraciones públicas territoriales, así como con otras entidades de Derecho público o privado, excepto cuando se trate de convenios por los que se articulan subvenciones nominativas cuya concesión corresponda a los Consejeros. En el caso de celebrarse convenios o acuerdos de cooperación con otras comunidades, se estará a lo dispuesto en el Estatuto de Autonomía para Cantabria.
+p) Adoptar las medidas normativas o administrativas necesarias para ejecutar los Tratados y Convenios Internacionales que afecten a materias de competencia de la Comunidad Autónoma, así como las necesarias para el desarrollo de las Directivas Comunitarias, sin perjuicio de las competencias atribuidas a las distintas Consejerías.
+q) Entender de aquellos asuntos que, a juicio del Presidente o los miembros del Gobierno, por su importancia o naturaleza, requieran el conocimiento o deliberación del Gobierno, y los demás que le sean atribuidos por el Estatuto de Autonomía para Cantabria y el resto del ordenamiento jurídico.
+r) Aprobar las estructuras orgánicas de las Consejerías de la Administración de la Comunidad Autónoma de Cantabria.
+s) Nombrar y cesar a los cargos con categoría igual, superior o asimilable a la de Director General, a propuesta del Consejero correspondiente, así como la de aquellos otros en los supuestos que legalmente pudieran establecerse.
+t) Designar a los representantes de la Comunidad Autónoma de Cantabria en los organismos públicos, instituciones y entidades que corresponda, salvo que expresamente se establezca otro procedimiento de designación.
+u) Ejercer la superior vigilancia de la gestión de los servicios públicos y de los entes y empresas dependientes de la Comunidad Autónoma de Cantabria.
+v) Resolver los requerimientos y los recursos en vía administrativa en los casos previstos por las Leyes.
+w) Autorizar la celebración de contratos cuando su presupuesto fuera indeterminado, siempre que no impliquen gastos de carácter periódico o de tracto sucesivo, o cuando el valor estimado del contrato sea superior a la cantidad que se fije en las Leyes de Presupuestos de la Comunidad Autónoma de Cantabria, salvo en los supuestos contemplados en los apartados a) y b) del artículo 168.2. Asimismo, le corresponde determinar el órgano de contratación cuando los contratos afecten a varias Consejerías.
+x) Autorizar la enajenación de bienes o derechos, así como la administración de los bienes patrimoniales de la Comunidad Autónoma de Cantabria, conforme a lo establecido en la legislación aplicable.
+y) Declarar la urgencia en las expropiaciones autonómicas y locales.
+z) Cualquier otra prevista por la Ley, así como las no atribuidas expresamente a otro órgano.
+Se modifican las letras ñ) y w) por el art. 5.1 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+## Sección 3
+
+Sección 3.ª Funcionamiento
+
+### Artículo 22
+
+Artículo 22. Régimen de actuación.
+Para el ejercicio de las atribuciones del Gobierno, sus miembros pueden reunirse en Consejo de Gobierno y en Comisiones Delegadas del Gobierno.
+
+### Artículo 23
+
+Artículo 23. El Consejo de Gobierno.
+1. El Gobierno de Cantabria, reunido en Pleno, recibe el nombre de Consejo de Gobierno.
+2. El Consejo de Gobierno se reúne previa convocatoria de su Presidente, a quien corresponde la fijación del orden del día de las reuniones.
+3. La válida constitución del Consejo de Gobierno requiere la asistencia del Presidente o de quien legalmente le sustituya y de, al menos, la mitad de los Consejeros, entre los que se encontrará, en todo caso, el Secretario del Consejo o quien legalmente le sustituya.
+4. El Consejo de Gobierno podrá adoptar acuerdos sobre asuntos urgentes no incluidos en el orden del día.
+5. De las sesiones del Consejo de Gobierno se levantará acta en la que se hará constar, además de las circunstancias relativas al tiempo, lugar y miembros asistentes, las decisiones y los acuerdos adoptados. El acta se extenderá por el Secretario del Consejo de Gobierno.
+6. Los miembros del Consejo de Gobierno están obligados a guardar secreto de las deliberaciones, de sus sesiones y de la documentación referida a dichas deliberaciones, mientras no sean hechas públicas oficialmente.
+7. El titular de la Consejería que tenga atribuidas las funciones de Presidencia, actuará como Secretario del Consejo de Gobierno, salvo que el Presidente haga recaer dicha función en otro Consejero.
+
+### Artículo 24
+
+Artículo 24. Las Comisiones Delegadas del Gobierno.
+1. El Gobierno podrá constituir mediante Decreto y a propuesta del Presidente, Comisiones Delegadas, de carácter permanente o temporal.
+2. El Decreto de creación de una Comisión Delegada deberá especificar, en todo caso:
+a) El miembro del Gobierno que asume la presidencia de la Comisión.
+b) Los miembros del Gobierno que la integran.
+c) Las funciones que se atribuyen a la Comisión.
+d) El miembro de la Comisión al que corresponde la Secretaría de la misma.
+e) El régimen interno de funcionamiento y en particular el de convocatorias y suplencias.
+3. Corresponde a las Comisiones Delegadas, como órganos colegiados del Gobierno, el ejercicio de las competencias que le atribuya el Decreto de creación, y, en particular:
+a) Examinar las cuestiones de carácter general que tengan relación con varias de las Consejerías que integran la Comisión.
+b) Estudiar aquellos asuntos que, afectando a varias Consejerías, requieran la elaboración de una propuesta conjunta previa a su resolución por el Consejo de Gobierno.
+c) Resolver los asuntos que, afectando a más de una Consejería, no requieran ser elevados al Consejo de Gobierno.
+4. Las deliberaciones de las Comisiones Delegadas del Gobierno serán secretas.
+
+## Sección 4
+
+Sección 4.ª Cese
+
+### Artículo 25
+
+Artículo 25. Causas de cese del Gobierno.
+El Gobierno cesa:
+a) Tras la celebración de elecciones al Parlamento.
+b) Por dimisión, incapacidad o fallecimiento de su Presidente.
+c) Por la pérdida de confianza del Parlamento, o la adopción de una moción de censura.
+
+### Artículo 26
+
+Artículo 26. El Gobierno en funciones.
+1. El Gobierno cesante continuará en sus funciones hasta la toma de posesión del nuevo Gobierno.
+2. El Gobierno en funciones deberá limitarse a adoptar las decisiones que requiera el funcionamiento normal de los servicios públicos y a propiciar el adecuado desarrollo del procedimiento de nombramiento, formación y toma de posesión del nuevo Gobierno.
+3. En ningún caso, el Gobierno en funciones podrá presentar proyectos de ley al Parlamento de Cantabria, someterse a la cuestión de confianza, o ser objeto de una moción de censura, o alterar la composición del Gobierno.
+
+### Artículo 27
+
+Artículo 27. Caducidad de las delegaciones legislativas.
+Las delegaciones legislativas otorgadas por el Parlamento caducarán al producirse el hecho determinante del cese del Gobierno.
+
+## Sección 5
+
+Sección 5.ª Órganos de colaboración y apoyo del gobierno
+
+### Artículo 28
+
+Artículo 28. Comisión de Secretarios Generales.
+1. El Consejo de Gobierno estará asistido por la Comisión de Secretarios Generales que estará formada por los Secretarios Generales de las distintas Consejerías. El Director/a General del Servicio Jurídico asistirá en condición de asesor, su ausencia en esta Comisión en los supuestos de vacante, ausencia o enfermedad, será suplida por el/la titular de la subdirección general del Servicio Jurídico.
+2. A las reuniones de la Comisión de Secretarios Generales asistirán con voz, pero sin voto, aquellos altos cargos con rango de Director General que sean convocados por su Presidente en atención a la índole de los asuntos a tratar.
+3. La Presidencia de la Comisión de Secretarios Generales corresponde al Secretario del Consejo de Gobierno. En su ausencia, la presidencia recaerá en el Secretario General de la Consejería de la que es titular el Secretario del Consejo de Gobierno, el cual será suplido, en su caso, del modo previsto en el siguiente apartado.
+4. La Secretaría de la Comisión de Secretarios Generales será ejercida por el Secretario General de la Consejería de la que es titular el Secretario del Consejo de Gobierno. En caso de ausencia, vacante, enfermedad o asunción de la presidencia por la vía de suplencia, actuará como tal el Secretario General que corresponda de conformidad con el orden de precedencia de las Consejerías.
+5. Las deliberaciones de la Comisión de Secretarios Generales serán reservadas. En ningún caso la Comisión podrá adoptar decisiones o acuerdos por delegación del Gobierno.
+6. Corresponde a la Comisión de Secretarios Generales:
+a) El examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Gobierno, excepto aquellos que, por razones de urgencia, se sometan directamente a la consideración del Consejo de Gobierno.
+b) El análisis o discusión de aquellos asuntos que, sin ser competencia del Consejo de Gobierno o de sus Comisiones Delegadas, afecten a varias Consejerías y sean sometidos a la Comisión por su Presidente.
+Se modifica el apartado 1 por el art. 5.2 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 29
+
+Artículo 29. Secretariado del Gobierno.
+1. El Secretariado del Gobierno, como órgano administrativo de apoyo del Consejo de Gobierno, de las Comisiones Delegadas del Gobierno y de la Comisión de Secretarios Generales, ejercerá las siguientes funciones:
+a) La remisión de las convocatorias a los miembros de los órganos colegiados antes mencionados.
+b) La colaboración con las Secretarías Generales de las diferentes Consejerías.
+c) El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones.
+d) La vigilancia del cumplimiento de los principios de buena regulación aplicables a las iniciativas normativas y la contribución a la mejora de la calidad técnica de las disposiciones aprobadas por el Gobierno.
+e) La tramitación y gestión técnica de las relaciones con el Parlamento de Cantabria.
+f) La supervisión de la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el Boletín Oficial de Cantabria.
+2. Asimismo, el Secretariado del Gobierno, como órgano de asistencia al Consejero-Secretario del Consejo de Gobierno, ejercerá las siguientes funciones:
+a) Los trámites relativos a la promulgación de las leyes aprobadas por el Parlamento de Cantabria y la expedición de los Decretos del Consejo de Gobierno.
+b) La tramitación de los actos y disposiciones que el ordenamiento jurídico atribuye a la competencia del Presidente del Gobierno de Cantabria.
+3. El Secretariado del Gobierno se integra en la estructura orgánica de la Consejería que tenga atribuidas las funciones de Presidencia, tal como se prevea en el Decreto de estructura de esa Consejería.
+4. De acuerdo a las funciones que tiene atribuidas, el Secretariado del Gobierno propondrá al Consejero-Secretario del Consejo de Gobierno la aprobación de las instrucciones que han de seguirse para la tramitación de asuntos ante los órganos colegiados del Gobierno y los demás previstos en el apartado segundo de este artículo. Las instrucciones preverán expresamente la forma de documentar las propuestas y acuerdos adoptados a través de los medios electrónicos, que deberán asegurar la identidad de los órganos intervinientes y del contenido.
+
+### Artículo 30
+
+Artículo 30. Gabinetes de los miembros del Gobierno.
+1. Los Gabinetes son órganos de apoyo político y técnico del Presidente del Gobierno, del Vicepresidente y de los Consejeros. Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial sin que, en ningún caso, puedan adoptar actos o resoluciones que correspondan a los órganos de la Administración General de la Comunidad Autónoma o de los entes de derecho público vinculados o dependientes de la misma, sin perjuicio de su asistencia o pertenencia a órganos colegiados que adopten decisiones administrativas. Los Directores de los Gabinetes ejercen la dirección y jefatura de la unidad que dirigen.
+En particular, los Gabinetes prestan su apoyo a los miembros del Gobierno en el desarrollo de su labor política, en el cumplimiento de las tareas de carácter parlamentario y en sus relaciones con las instituciones y la organización administrativa.
+2. Los miembros de los Gabinetes tendrán la consideración de personal eventual o de confianza y cesarán cuando cese el cargo que los nombró o cuando éste así lo decida. La condición de miembro de un Gabinete en ningún caso se considerará mérito para el acceso al empleo público, o para el desempeño de puestos de trabajo en el mismo.
+3. Las retribuciones de los miembros de los Gabinetes se determinan por el Gobierno dentro de las consignaciones presupuestarias establecidas al efecto y se adecuarán, en todo caso, a las retribuciones de la Administración General de la Comunidad Autónoma.
+4. Se publicarán en el Portal de Transparencia del Gobierno de Cantabria las remuneraciones de los miembros de los gabinetes, así como su curriculum vitae.
+
+## CAPÍTULO IV
+
+De los Consejeros
+
+## Sección 1
+
+Sección 1.ª Nombramiento
+
+### Artículo 31
+
+Artículo 31. Los Consejeros.
+1. Los Consejeros son los titulares de la Consejería que tuvieren asignada.
+2. Además de los Consejeros titulares de una Consejería, podrán existir Consejeros sin cartera en número no superior a dos, a los que se les atribuirá la responsabilidad de determinadas funciones gubernamentales. En caso de que existan Consejeros sin cartera, por Decreto se determinará el ámbito de sus atribuciones, la estructura administrativa y los medios materiales y personales que queden adscritos a los mismos.
+
+### Artículo 32
+
+Artículo 32. Nombramiento.
+1. Los Consejeros, que no requerirán la condición de Diputados, son nombrados y separados libremente por el Presidente mediante Decreto, informando ante el Pleno del Parlamento en el plazo de quince días, sin perjuicio de la comunicación inmediata y por escrito al mismo.
+2. Los Consejeros inician su mandato con la toma de posesión ante el Presidente, que se llevará a cabo de forma inmediata a la publicación del nombramiento en el «Boletín Oficial de Cantabria».
+
+## Sección 2
+
+Sección 2.ª Estatuto personal
+
+### Artículo 33
+
+Artículo 33. Derechos.
+Los Consejeros, en razón de su cargo, tendrán derecho a:
+a) Percibir la remuneración que se consigne en los Presupuestos Generales de la Comunidad Autónoma de Cantabria, así como disponer de los medios que se requieran para el ejercicio de su cargo.
+b) Que les sean rendidos los honores y respetadas las precedencias que señalen las normas protocolarias establecidas.
+c) Recibir los honores especiales que les correspondan cuando actúen en representación expresa del Presidente.
+
+### Artículo 34
+
+Artículo 34. Incompatibilidades.
+1. Los Consejeros no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.
+2. Los Consejeros formularán, conforme a las previsiones de la legislación en materia de conflicto de intereses y transparencia, declaración de sus bienes referida al día en que tomaron posesión de su cargo, así como de cualquier actividad pública o privada que les haya sido autorizada, en el plazo de dos meses siguientes a su toma de posesión. Deberán presentar una nueva declaración de bienes y actividades referida al día del cese en el plazo de los dos meses siguientes a este. Ambas serán publicadas en el portal de Transparencia del Gobierno de Cantabria, conforme a las previsiones de la normativa vigente.
+
+## Sección 3
+
+Sección 3.ª Atribuciones
+
+### Artículo 35
+
+Artículo 35. Atribuciones.
+Los Consejeros tienen las siguientes atribuciones:
+a) Ostentar la representación de la Consejería.
+b) Ejecutar, en el ámbito de su Consejería, la política establecida por el Gobierno.
+c) Ejercer la iniciativa, dirección, gestión e inspección de todos los servicios de la Consejería respectiva, así como de las entidades vinculadas o dependientes de la misma, sin perjuicio de las competencias que estén atribuidas a otros órganos.
+d) Proponer al Gobierno, para su aprobación, anteproyectos de ley, proyectos de decretos y resoluciones sobre las materias propias de su Consejería.
+e) Formular el anteproyecto de presupuestos de su respectiva Consejería.
+f) Ejercer la potestad reglamentaria y la función ejecutiva en las materias propias de su Consejería.
+g) Formular al Gobierno la propuesta de nombramiento y cese de los altos cargos dependientes de su Consejería.
+h) Resolver los recursos y reclamaciones que les correspondan.
+i) Resolver los conflictos de atribuciones que surjan entre órganos directivos de su Consejería y suscitarlos con otras Consejerías.
+j) Autorizar o disponer los gastos de gestión y ejecución presupuestaria, así como reconocer obligaciones de su Consejería, en los términos previstos legalmente.
+k) Firmar los protocolos y convenios que se celebren para el fomento de actividades de interés público en los supuestos en los que sean expresa y previamente facultados por el Gobierno.
+l) Autorizar y firmar los convenios por los que se articulan subvenciones nominativas en los términos previstos en la legislación de subvenciones.
+m) Formalizar los contratos relativos a materias propias de su competencia.
+n) Firmar, junto con el Presidente, los decretos por él propuestos.
+ñ) Proponer al Gobierno la aprobación de la estructura orgánica de su Consejería.
+o) Proponer al Gobierno la declaración de urgencia en materia de expropiación forzosa.
+p) Designar a los representantes de la Comunidad Autónoma de Cantabria en la Comisión Bilateral de Cooperación prevista en la Ley Orgánica del Tribunal Constitucional.
+Cuando el conflicto constitucional afecte a varias Consejerías, la designación de los representantes corresponderá a la persona titular de la Consejería de Presidencia a propuesta conjunta de las personas titulares de las Consejerías afectadas.
+q) Las demás que les sean atribuidas por el ordenamiento jurídico.
+Se modifica la letra p) y se añade la q) por el art. 5.2 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+## Sección 4
+
+Sección 4.ª Suplencia y cese
+
+### Artículo 36
+
+Artículo 36. Suplencia.
+1. En caso de vacante, ausencia, enfermedad u otro impedimento de un Consejero, su suplencia por otro miembro del Gobierno se hará mediante Decreto del Presidente del Gobierno y se publicará en el Boletín Oficial de Cantabria.
+2. El Gobierno podrá aprobar por decreto normas generales sobre estas suplencias, a los efectos de que puedan conocerse los Consejeros que en los supuestos de suplencia se encarguen del despacho de otro Departamento.
+
+### Artículo 37
+
+Artículo 37. Cese.
+1. Los Consejeros cesan por las siguientes causas:
+a) Cese del Presidente del Gobierno, continuando en funciones hasta la toma de posesión del nuevo Gobierno.
+b) Incapacidad o inhabilitación para el ejercicio de su cargo.
+c) Dimisión aceptada por el Presidente.
+d) Separación de su cargo, decidida libremente por el Presidente.
+e) Incompatibilidad declarada y no subsanada en el plazo de diez días.
+f) Fallecimiento.
+2. El cese producirá efectos a partir de la fecha de publicación en el Boletín Oficial de Cantabria del correspondiente Decreto del Presidente del Gobierno, que será simultáneo al del nombramiento del nuevo Consejero o del encargo del despacho a otro Consejero.
+
+## CAPÍTULO V
+
+De las relaciones del Gobierno con el Parlamento. Del control del Gobierno
+
+## Sección 1
+
+Sección 1.ª Responsabilidad política y control parlamentario
+
+### Artículo 38
+
+Artículo 38. Responsabilidad política.
+1. El Gobierno responde solidariamente ante el Parlamento, sin perjuicio de la responsabilidad directa de cada uno de sus componentes por su gestión.
+2. La delegación temporal de funciones del Presidente o de otros miembros del Gobierno no les exime de su responsabilidad política.
+3. La responsabilidad política del Gobierno es exigible por medio de la moción de censura o la cuestión de confianza.
+
+### Artículo 39
+
+Artículo 39. Control parlamentario.
+1. El control de la acción política del Gobierno se ejerce por el Parlamento en la forma prevista en el Estatuto de Autonomía y en el Reglamento del Parlamento.
+2. Cada año legislativo, durante el segundo periodo de sesiones, el Parlamento de Cantabria celebrará un debate sobre la orientación política del Gobierno a propuesta del Presidente del Gobierno, en los términos previstos en el Reglamento del Parlamento de Cantabria.
+
+## Sección 2
+
+Sección 2.ª Legislación delegada
+
+### Artículo 40
+
+Artículo 40. Decretos legislativos.
+1. El Parlamento podrá delegar en el Gobierno la potestad de dictar normas con rango de ley que no podrán tener por objeto las siguientes materias:
+a) Las que afecten al ordenamiento de las instituciones de autogobierno de la Comunidad Autónoma.
+b) El régimen electoral.
+c) Las materias reservadas a leyes cuya aprobación requiera un procedimiento especial.
+2. Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos Legislativos.
+
+### Artículo 41
+
+Artículo 41. La delegación legislativa.
+1. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la elaboración de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales. En ambos casos, la ley de delegación fijará el plazo de su ejercicio.
+2. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.
+3. Las leyes de bases no podrán, en ningún caso, autorizar la modificación de la propia ley de bases o facultar para dictar normas con carácter retroactivo.
+4. La autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único o si incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
+
+### Artículo 42
+
+Artículo 42. Control de la legislación delegada.
+1. Sin perjuicio de la competencia propia de los tribunales, las leyes de delegación podrán establecer en cada caso fórmulas adicionales de control.
+2. El Gobierno, tan pronto como hubiere hecho uso de la delegación legislativa, dirigirá al Parlamento la correspondiente comunicación que contendrá el texto articulado o refundido objeto de aquélla.
+
+### Artículo 43
+
+Artículo 43. Proposiciones de ley contrarias a las delegaciones legislativas.
+Cuando una proposición de ley o una enmienda fuera contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación. En tal supuesto, podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.
+
+## Sección 3
+
+Sección 3.ª Control del gobierno
+
+### Artículo 44
+
+Artículo 44. Del control de los actos del Gobierno.
+1. El Gobierno está sujeto a la Constitución, al Estatuto de Autonomía y al resto del ordenamiento jurídico.
+2. Toda la actividad del Gobierno está sometida al control político del Parlamento de Cantabria.
+3. La actividad del Gobierno es impugnable ante el Tribunal Constitucional o ante los Juzgados y Tribunales del Orden Jurisdiccional competente, según los casos y de conformidad a lo dispuesto en sus respectivas leyes reguladoras.
+
+## CAPÍTULO VI
+
+De la iniciativa legislativa y la potestad reglamentaria del Gobierno
+
+### Artículo 45
+
+Artículo 45. Del ejercicio de la iniciativa legislativa y de la potestad reglamentaria del Gobierno.
+1. El Gobierno ejerce la iniciativa legislativa y la potestad reglamentaria de conformidad con los principios y reglas establecidos en la legislación del Procedimiento Administrativo Común de las Administraciones Públicas y en el presente Capítulo.
+2. El Gobierno, al inicio de cada periodo de sesiones, informará al Parlamento de Cantabria de la previsión de iniciativas legislativas y disposiciones reglamentarias a desarrollar en dicho periodo legislativo.
+
+### Artículo 46
+
+Artículo 46. Principios de buena regulación aplicables a las iniciativas normativas.
+1. En el ejercicio de su iniciativa normativa, el Gobierno velará para que las normas que se aprueben resulten adecuadas, con objetivos claros, accesibles y transparentes y se ajusten a los criterios de competencia, necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, eficiencia y simplicidad.
+2. El principio de proporcionalidad exige que la iniciativa normativa sea el instrumento más adecuado para garantizar la consecución del objetivo que se persigue tras constatar que no existen otras medidas menos restrictivas que permitan obtener el mismo resultado. De dicho extremo se dejará constancia, en su caso, en la correspondiente Memoria de Impacto de Análisis Normativo.
+3. El principio de seguridad jurídica determina que las facultades normativas se ejerzan de manera coherente con el resto del ordenamiento para generar un marco estable y predecible, que genere confianza en la actuación y toma de decisiones de las personas y empresas.
+4. El principio de simplicidad exige que toda iniciativa atienda a la consecución de un marco normativo claro y poco disperso que facilite el conocimiento y la comprensión del mismo.
+5. Para garantizar la eficacia en el cumplimiento de los objetivos de la iniciativa normativa, ésta debe partir de una identificación clara de los fines y objetivos perseguidos que, además de plasmarse en la Memoria de Impacto de Análisis Normativo, se expondrán en el preámbulo o exposición de motivos de la norma.
+6. En aplicación del principio de transparencia, el Gobierno posibilitará el acceso actualizado a la normativa en vigor y los documentos propios de su proceso de elaboración, en los términos establecidos en la legislación de transparencia, acceso a la información y buen gobierno.
+7. Cuando la iniciativa normativa afecte a los gastos o ingresos públicos presentes o futuros, se deberán cuantificar y valorar sus repercusiones y efectos, y supeditarse al cumplimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera.
+8. En todo caso, se procurará mantener un marco normativo estable, transparente y lo más simplificado posible, fácilmente accesible por los ciudadanos y agentes económicos.
+9. Las habilitaciones para el desarrollo reglamentario de una ley serán conferidas, con carácter general, al Gobierno. La atribución directa a los titulares de las consejerías del Gobierno tendrá carácter excepcional y deberá justificarse en la ley habilitante.
+Las leyes podrán habilitar directamente a las Entidades de Derecho Público la potestad de aprobar normas cuando la naturaleza de la materia así lo exija.
+
+### Artículo 47
+
+Artículo 47. Inderogabilidad singular de los reglamentos.
+Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición administrativa de carácter general, aunque aquéllas procedan de órganos que tengan igual o superior rango a los órganos que aprueben éstas.
+
+### Artículo 48
+
+Artículo 48. Principios de jerarquía y competencia.
+1. La Administración de la Comunidad Autónoma de Cantabria no podrá dictar disposiciones generales contrarias a la Constitución, al Estatuto de Autonomía, o a las leyes, ni regular, salvo autorización expresa de una ley, aquellas materias que sean de la exclusiva competencia del Parlamento.
+2. Ninguna disposición administrativa podrá vulnerar los preceptos de otra de rango superior.
+
+### Artículo 49
+
+Artículo 49. Revisión y mejora regulatoria.
+La Administración de la Comunidad Autónoma revisará periódicamente su normativa propia para verificar su adaptación a los principios de buena regulación y comprobar el grado de cumplimiento de objetivos previstos, la corrección del coste inicialmente contemplado y la justificación de las cargas eventualmente impuestas.
+La revisión y evaluación, que corresponderá a cada una de las Consejerías por razón de la materia, se efectuará de forma coordinada y su resultado se plasmará en un informe elaborado por la Consejería de Presidencia que se hará público en el Portal de Transparencia cada 2 años.
+Se suprime el apartado 2 por el art. 5.3 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 50
+
+Artículo 50. De la forma y jerarquía de las disposiciones de carácter general.
+1. Las disposiciones de carácter general del Gobierno y de sus miembros revisten las formas siguientes:
+a) Decretos Legislativos: las disposiciones que contienen legislación delegada dictada en ejercicio de una delegación legislativa.
+b) Decretos del Presidente del Gobierno: las disposiciones de carácter general del Presidente del Gobierno dictadas en ejercicio de las facultades que le atribuye el Estatuto de Autonomía y, en su caso, las leyes. Estos Decretos irán firmados por el propio Presidente del Gobierno.
+c) Decretos acordados en Consejo de Gobierno: las disposiciones aprobadas por el Consejo de Gobierno que, por tener carácter normativo, deban adoptar dicha forma jurídica. Estos Decretos irán firmados por el Presidente del Gobierno y el Consejero proponente. Cuando el Decreto afecte a las competencias de más de una Consejería, será competente para su firma el consejero que tenga atribuidas las funciones de Presidencia o quien actúe de Secretario del Consejo de Gobierno, a propuesta de los Consejeros interesados.
+d) Órdenes: las disposiciones de los Consejeros. Cuando la disposición afecte a varias Consejerías, la forma será la de Orden del Consejero que tenga atribuidas las funciones de Presidencia, dictada a propuesta de los Consejeros interesados.
+2. Las disposiciones de carácter reglamentario adoptarán el siguiente orden jerárquico:
+a) Disposiciones aprobadas por Decreto del Presidente del Gobierno o acordadas en Consejo de Gobierno.
+b) Disposiciones aprobadas por Orden de los Consejeros.
+Se modifica el apartado 1.c) por el art. 5.4 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 51
+
+Artículo 51. Procedimiento de elaboración de normas con rango de ley y disposiciones de carácter general: Trámites comunes.
+1. El procedimiento de elaboración de los proyectos de ley, proyectos de decreto legislativo y disposiciones de carácter general se iniciará en la Consejería o Consejerías competentes mediante resolución de inicio, ajustándose el procedimiento a los trámites de los apartados siguientes.
+2. Con carácter previo a la elaboración del correspondiente texto se llevarán a cabo el trámite de consulta pública, que se publicará en el BOC y en el portal de transparencia, durante un plazo que en ningún caso será inferior a diez días.
+3. Los anteproyectos de ley, el proyecto de decreto legislativo o el proyecto de disposición de carácter general se someterán al trámite conjunto de audiencia e información pública. A tal efecto, se publicará un anuncio en el BOC que indique el plazo para hacer sugerencias y el portal de transparencia donde se podrá acceder al proyecto normativo, durante un plazo que en ningún caso será inferior a diez días.
+Se podrá prescindir tanto de la consulta previa como del trámite conjunto de audiencia e información pública en el supuesto de normas presupuestarias u organizativas, y, excepcionalmente, cuando concurran graves razones de interés público las cuales han de constar en el expediente.
+En los supuestos de tramitación urgente de proyectos de ley, proyectos de decreto legislativo y disposiciones de carácter general no será necesario realizar la consulta previa a su elaboración.
+4. A lo largo del proceso de elaboración deberán recabarse, además de los informes y dictámenes preceptivos, cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad del texto.
+El órgano administrativo que tramite el procedimiento elaborará una memoria de análisis de impacto normativo, que incorporará los siguientes contenidos:
+a) Oportunidad de la propuesta normativa: justificación de la necesidad de regulación y del rango normativo y adecuación de la regulación a los objetivos y finalidades de la norma.
+b) Contenido: marco normativo en el que se inserta la propuesta, relación de disposiciones vigentes a las que afecta o deroga, adecuación al orden de distribución de competencias y relación con el ordenamiento estatal y europeo.
+c) Análisis de los siguientes impactos:
+1. Impacto económico, que evaluará las consecuencias de la aplicación sobre los sectores, colectivos o agentes afectados por la norma, incluido el efecto sobre la competencia, la unidad de mercado y la competitividad.
+2. Impacto presupuestario, con referencia a la incidencia eventual de la norma en los ingresos y en los gastos del sector público.
+3. Cargas administrativas que comporta la propuesta, incluyendo las cargas que para la Administración implica la aplicación de la propuesta normativa.
+d) Análisis y valoración resumida de las alegaciones presentadas en los trámites de consulta, audiencia e información pública, y de los informes emitidos, y su reflejo en el texto de la propuesta, si procede.
+e) Referencia al procedimiento de elaboración normativa, con la constancia, si procede, de la tramitación urgente.
+f) Evaluación del cumplimiento de los principios de buena regulación.
+g) Cualquier otro aspecto, que resulte relevante a criterio del órgano que tramita el procedimiento, así como otras evaluaciones de impacto previstas en la legislación vigente.
+5. Cuando cualquier clase de proyecto normativo afecte a la organización administrativa de la Administración General de la Comunidad Autónoma o al régimen de personal funcionario no docente o laboral de régimen general, se recabará informe complementario específico previo de la Consejería competente en estas materias. Si transcurridos quince días desde la recepción de estas solicitudes no se hubiere formulado ninguna objeción, se podrá continuar la tramitación.
+Evacuados, en su caso, los trámites de consulta, audiencia, información pública y demás informes, el proyecto o anteproyecto normativo, será remitido al titular de la Secretaría General de la Consejería proponente que recabará un informe de la Asesoría Jurídica sobre la legalidad del mismo.
+Se modifican los apartados 1 y 4.c) por el art. 67.2 y 3 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+ Se modifica el párrafo segundo del apartado 3 por el art. 10.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica por el art. 5.5 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+ Se modifica el apartado 5 por la disposición final 2.3 de la Ley 2/2019, de 7 de marzo. Ref. BOE-A-2019-4565#df-2
+
+### Artículo 51 bis
+
+Artículo 51 bis. Procedimiento de elaboración de normas con rango de ley: Trámites específicos.
+1. Terminada la redacción del texto normativo de que se trate y cumplidos los trámites comunes contemplados en el artículo 51, el Secretario General de la Consejería proponente remitirá el proyecto a las Secretarías Generales de las demás Consejerías a los efectos de la emisión por éstas del correspondiente informe, que deberá ser emitido en el plazo de diez días.
+Asimismo, deberá ser remitido para informe de la Dirección General competente en materia de presupuestos de conformidad con lo previsto en el artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y 26.2 de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, cuando de la memoria de análisis de impacto normativo se desprenda que existe disminución de los ingresos públicos o un aumento de gasto público que la Consejería proponente no pueda asumir con su consignación presupuestaria aprobada por Ley de Presupuestos Generales de Cantabria.
+2. Una vez transcurrido el plazo señalado en el apartado anterior la Consejería proponente remitirá el proyecto, con toda la documentación adicional generada, a la Dirección General del Servicio Jurídico, así como, en su caso, a los órganos consultivos cuyo dictamen tenga carácter preceptivo conforme a las normas vigentes o cuya opinión se estime conveniente para garantizar el acierto y legalidad del proyecto normativo de que se trate. El dictamen de estos órganos consultivos, en su caso, se emitirá en el plazo de quince días si se trata de órganos dependientes de la Comunidad Autónoma o en el previsto en su propia normativa cuando el órgano consultivo dependa o esté vinculado a otra Administración. Salvo en el supuesto de que se requiera informe del Consejo de Estado, de solicitarse dictamen a un órgano consultivo será, en todo caso, previo al informe de la Dirección General del Servicio Jurídico que emitirá el suyo con posterioridad y en el plazo de quince días desde la solicitud por parte de la Consejería proponente.
+3. En los proyectos de ley a remitir al Parlamento el texto irá acompañado de una Exposición de Motivos que exprese los que hubieren dado origen a su elaboración, así como los fines en cada caso perseguidos. Asimismo, el proyecto irá acompañado de la documentación a que se refiere esta Ley y la legislación sobre transparencia, acceso a la información pública y buen gobierno.
+Se modifica el apartado 1 por el art. 6.3 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se añade por el art. 5.5 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 51 ter
+
+Artículo 51 ter. Procedimiento de elaboración de disposiciones de carácter general con forma de decreto: Trámites específicos.
+1. Terminada la redacción del texto normativo de que se trate y cumplidos los trámites comunes contemplados en el artículo 51, el Secretario General de la Consejería proponente remitirá el proyecto a las Secretarías Generales de las demás Consejerías a los efectos de la emisión por éstas del correspondiente informe, que deberá ser emitido en el plazo de diez días.
+Asimismo, deberá ser remitido para informe de la Dirección General competente en materia de presupuestos de conformidad con lo previsto en el artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y 26.2. de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, cuando de la memoria de análisis de impacto normativo se desprenda que existe disminución de los ingresos públicos o un aumento de gasto público que la Consejería proponente no pueda asumir con su consignación presupuestaria aprobada por Ley de Presupuestos Generales de Cantabria.
+2. Una vez transcurrido el plazo señalado en el apartado anterior la Consejería proponente remitirá el proyecto, con toda la documentación adicional generada, a la Dirección General del Servicio Jurídico, así como, en su caso, a los órganos consultivos cuyo dictamen tenga carácter preceptivo conforme a las normas vigentes o cuya opinión se estime conveniente para garantizar el acierto y legalidad del proyecto normativo de que se trate. El dictamen de estos órganos consultivos, en su caso, se emitirá en el plazo de quince días si se trata de órganos dependientes de la Comunidad Autónoma o en el previsto en su propia normativa cuando el órgano consultivo dependa o esté vinculado a otra Administración. Salvo en el supuesto de que se requiera informe del Consejo de Estado, de solicitarse dictamen a un órgano consultivo será, en todo caso, previo al informe de la Dirección General del Servicio Jurídico que emitirá el suyo con posterioridad y en el plazo de quince días desde la solicitud por parte de la Consejería proponente.
+Se modifica el apartado 1 por el art. 6.4 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se añade por el art. 5.5 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 51 quater
+
+Artículo 51 quater. Procedimiento de elaboración de las órdenes de los Consejeros: Trámites específicos.
+1. Cuando las órdenes afecten a las competencias de varias Consejerías será preceptivo el informe de todas las Secretarías Generales afectadas por la orden. Estas órdenes, asimismo, deberán ser informadas por la Dirección General del Servicio Jurídico del Gobierno de Cantabria.
+2. Igualmente, deberá remitirse para informe de la Dirección General competente en materia de presupuestos de conformidad con lo previsto en el artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y 26.2. de la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria, cuando de la memoria de análisis de impacto normativo se desprenda que existe disminución de los ingresos públicos o un aumento de gasto público que la Consejería proponente no pueda asumir con su consignación presupuestaria aprobada por Ley de Presupuestos Generales de Cantabria.
+Se modifica el apartado 2 por el art. 6.5 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se añade por el art. 5.5 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 51 quinquies
+
+Artículo 51 quinquies. Conservación de expedientes en repositorio electrónico seguro.
+Cuando se trate de proyectos de ley, proyectos de decreto legislativo o normas reglamentarias con forma de decreto el expediente administrativo electrónico con toda la documentación derivada del procedimiento al que se refieren los apartados anteriores será conservado en el repositorio electrónico seguro adscrito a la Consejería que tenga atribuidas las funciones de Presidencia.
+Se añade por el art. 5.5 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 52
+
+Artículo 52. Tramitación urgente de iniciativas normativas.
+1. El Consejo de Gobierno, a propuesta del Consejero a quien corresponda la iniciativa normativa, podrá acordar la tramitación urgente del procedimiento en los siguientes casos:
+a) Cuando fuere necesario para que la norma entre en vigor en el plazo establecido por las leyes o exigido para la trasposición de directivas de la Unión Europea.
+b) Cuando concurran circunstancias extraordinarias que, no habiéndose podido prever, exijan la aprobación urgente de la norma.
+La Memoria del Análisis de Impacto Normativo que acompañe a la iniciativa normativa dejará constancia del acuerdo de tramitación urgente, así como de las circunstancias que le sirvan de fundamento.
+2. La tramitación por vía de urgencia implicará que:
+a) Todos los plazos previstos en esta o en otras normas se reducirán a la mitad.
+b) No será precisa la consulta pública a que se refiere el apartado 2 del artículo anterior.
+3. La falta de emisión en plazo de un dictamen o informe preceptivo no impedirá la continuación del procedimiento, sin perjuicio de su incorporación al mismo cuando se produzca su recepción.
+
+### Artículo 53
+
+Artículo 53. Publicación.
+Para que produzcan efectos jurídicos, las disposiciones administrativas de carácter general, habrán de publicarse en el «Boletín Oficial de Cantabria» y entrarán en vigor conforme a lo dispuesto en el artículo 2 del Código Civil.
+
+## TÍTULO II
+
+De la Administración de la Comunidad Autónoma de Cantabria
+
+## CAPÍTULO I
+
+De los principios de organización de la Administración de la Comunidad Autónoma de Cantabria
+
+## Sección 1
+
+Sección 1.ª Principios generales
+
+### Artículo 54
+
+Artículo 54. Principios de organización.
+1. La Administración de la Comunidad Autónoma, bajo la dirección del Gobierno, sirve con objetividad los intereses generales y desarrolla funciones ejecutivas de carácter administrativo con sometimiento pleno a la Constitución, al Estatuto de Autonomía, a la Ley y al resto del ordenamiento jurídico.
+2. La Administración de la Comunidad Autónoma desarrolla su actividad para alcanzar los objetivos que establecen las leyes y el resto del ordenamiento jurídico y su organización se inspirará en los principios señalados en el siguiente apartado.
+3. La organización de la Administración de la Comunidad Autónoma de Cantabria responde al principio de división funcional y observará los siguientes principios:
+a) Jerarquía.
+b) Descentralización funcional.
+c) Desconcentración funcional y territorial.
+d) Economía, suficiencia y adecuación estricta de los medios a los fines institucionales.
+e) Simplicidad, claridad y proximidad a los ciudadanos.
+f) Coordinación.
+4. La Administración de la Comunidad Autónoma se relacionará con las demás Administraciones Públicas, así como con sus órganos y entidades vinculados o dependientes de ella a través de medios electrónicos, que asegurarán la interoperabilidad y seguridad de los sistemas y soluciones adoptadas, garantizarán la protección de los datos de carácter personal y facilitarán preferentemente la prestación conjunta de servicios a los interesados.
+
+## Sección 2
+
+Sección 2.ª Competencia administrativa
+
+### Artículo 55
+
+Artículo 55. Ejercicio de la competencia.
+1. La competencia de los órganos de la Administración de la Comunidad Autónoma de Cantabria es irrenunciable, y se ejercerá precisamente por los órganos que la tengan atribuida como propia, salvo los casos de delegación o avocación en los términos previstos en la Ley.
+2. La delegación de competencias, la encomienda de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevean.
+3. La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.
+4. Las funciones correspondientes a las competencias de una Consejería que no hayan sido asignadas por Ley a un órgano administrativo serán atribuidas al que proceda mediante Decreto del Gobierno de Cantabria, a propuesta del Consejero competente por razón de la materia.
+5. Las potestades y competencias administrativas que tenga atribuida la Administración de la Comunidad Autónoma de Cantabria por el ordenamiento jurídico determinan su capacidad de obrar.
+6. Los órganos y entidades que integran la Administración de la Comunidad Autónoma de Cantabria extienden su competencia a todo el territorio de la Comunidad Autónoma, salvo indicación en contrario de las normas que les sean aplicables.
+
+### Artículo 56
+
+Artículo 56. Delegación de competencias.
+1. El ejercicio de las competencias asignadas a los diversos órganos de la Administración autonómica podrá ser delegado en otros órganos, aunque no sean jerárquicamente dependientes de aquéllos, o de las entidades de Derecho Público vinculadas o dependientes.
+2. En ningún caso podrán ser objeto de delegación las competencias relativas a:
+a) Los asuntos que deban someterse a acuerdo del Gobierno de Cantabria.
+b) La adopción de disposiciones de carácter general.
+c) Los asuntos que se refieran a las relaciones institucionales con la Jefatura del Estado, Presidencia del Gobierno de la Nación, Cortes Generales, Presidencias de los Consejos de Gobierno de las Comunidades Autónomas, Asambleas Legislativas de las Comunidades Autónomas y la Unión Europea.
+d) La resolución de los recursos en los órganos administrativos que hayan dictado los actos objeto del recurso.
+e) Las materias en que así se determine por una norma con rango de ley.
+3. Las delegaciones de competencias y su revocación deberán publicarse en el «Boletín Oficial de Cantabria».
+4. Los actos y resoluciones administrativas dictados por delegación harán constar esta circunstancia y se considerarán dictados por el órgano delegante.
+5. Salvo autorización expresa de una ley, no podrán delegarse las competencias que se ejerzan por delegación.
+No constituye impedimento para que pueda delegarse la competencia para resolver un procedimiento la circunstancia de que la norma reguladora del mismo prevea, como trámite preceptivo, la emisión de un dictamen o informe; no obstante, no podrá delegarse la competencia para resolver un asunto concreto una vez que en el correspondiente procedimiento se haya emitido un dictamen o informe preceptivo acerca del mismo.
+6. La delegación será revocable en cualquier momento por el órgano que la haya conferido.
+7. La delegación de competencias atribuidas a órganos colegiados, para cuyo ejercicio ordinario se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dichas exigencias.
+
+### Artículo 57
+
+Artículo 57. Avocación.
+1. Los órganos superiores de la Administración de la Comunidad Autónoma de Cantabria podrán avocar para sí el conocimiento de un asunto cuya resolución corresponda, ordinariamente o por delegación, a sus órganos administrativos dependientes jerárquicamente, cuando haya circunstancias de índole técnica, económica, social, jurídica o territorial que lo hagan conveniente.
+En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente el conocimiento de un asunto podrá ser avocado únicamente por el órgano delegante.
+2. La avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad a la resolución final que se dicte.
+Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el recurso que, en su caso, se interponga contra la resolución del procedimiento.
+
+### Artículo 58
+
+Artículo 58. Encomienda de gestión.
+1. La realización de actividades de carácter material o técnico de la competencia de los órganos de la Administración General de la Comunidad Autónoma de Cantabria o de las entidades de derecho público de ellos dependientes, podrá ser encomendada a otros órganos o entidades de derecho público, de la misma o de distinta Administración, por razones de eficacia o cuando no se posean los medios idóneos para su desempeño.
+2. Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la legislación básica de contratos del sector público. En tal caso, su naturaleza y régimen jurídico se ajustarán a lo previsto en dicha legislación.
+3. La encomienda de gestión no supone cesión de titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo responsabilidad del órgano o entidad encomendante dictar cuantos actos o resoluciones de carácter jurídico den soporte o en los que se integre la concreta actividad material objeto de encomienda.
+4. La encomienda de gestión a órganos pertenecientes a la misma Consejería o a entidades de derecho público de ella dependientes, deberá ser autorizada por resolución del Consejero correspondiente.
+5. Las encomiendas de gestión a órganos o a entidades de derecho público pertenecientes o dependientes de diferentes Consejerías o entre distintas entidades de derecho público incluidas dentro del sector público autonómico, habrán de ser autorizadas mediante acuerdo del Gobierno.
+6. En el supuesto de encomienda de gestión a órganos de la misma o de distinta Consejería de la Administración de la Comunidad Autónoma de Cantabria o a los organismos o entidades de derecho público dependientes, o estos entre sí, servirá de instrumento de formalización la resolución del Consejero o el acuerdo del Consejo de Gobierno que la autorice. En los demás supuestos, la encomienda se formalizará mediante la firma del correspondiente convenio.
+7. La encomienda de gestión de actividades que sean competencia de otras Administraciones públicas en favor de órganos o entidades de derecho público pertenecientes o dependientes de la Administración de la Comunidad Autónoma de Cantabria, requerirá la previa aceptación del Gobierno y será formalizada mediante la firma del correspondiente convenio.
+8. Para su efectividad, el instrumento en el que se formalice la encomienda de gestión deberá ser publicado en el «Boletín Oficial de Cantabria», con el contenido mínimo siguiente:
+a) Actividad o actividades a que se refiera.
+b) Naturaleza y alcance de la gestión encomendada.
+c) Plazo de vigencia y supuestos en que proceda la finalización anticipada de la encomienda o su prórroga.
+Se modifican los apartados 4 a 6 por el art. 67.4 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 59
+
+Artículo 59. Delegación de firma.
+1. Los titulares de los órganos de la Administración de la Comunidad Autónoma de Cantabria podrán, en materia de su propia competencia, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos que de ellos dependan, dentro de los límites señalados en el artículo 56.
+2. La delegación de la firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.
+3. En las resoluciones y actos que se firmen por delegación se hará constar la autoridad de procedencia. A estos efectos, la firma deberá ir precedida de la expresión «por autorización», con indicación del cargo que autoriza y del órgano autorizado.
+
+### Artículo 60
+
+Artículo 60. Suplencia.
+1. Los titulares de los órganos administrativos podrán ser suplidos temporalmente en los supuestos de vacante, ausencia o enfermedad, así como en los casos en que haya sido declarada su abstención o recusación, por quien designe el órgano competente para el nombramiento de aquellos.
+Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato de quien dependa y para su validez no será necesaria su publicación.
+2. La suplencia no implicará alteración de la competencia.
+3. En las resoluciones y actos que se dicten en virtud de suplencia, se hará constar esta circunstancia y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.
+
+## CAPÍTULO II
+
+De la Administración General de la Comunidad Autónoma de Cantabria
+
+## Sección 1
+
+Sección 1.ª Principios generales de la Administración General de la Comunidad Autónoma de Cantabria
+
+### Artículo 61
+
+Artículo 61. Administración General.
+La Administración General de la Comunidad Autónoma de Cantabria, constituida por órganos jerárquicamente ordenados, actúa, para el cumplimiento de sus fines, con personalidad jurídica única.
+
+### Artículo 62
+
+Artículo 62. Potestades y privilegios de la Administración General.
+La Administración General de la Comunidad Autónoma, en el ejercicio de sus competencias, tiene las mismas potestades y privilegios propios de la Administración del Estado, entre los que se comprenden:
+a) La presunción de legitimidad, validez y la ejecutoriedad de los actos emanados de la Administración General de Cantabria, así como las potestades de ejecución forzosa y revisión de oficio de los mismos.
+b) La potestad de expropiación en las materias de su competencia, incluida la urgente ocupación de los bienes afectados y el ejercicio de las restantes competencias que la legislación expropiatoria atribuye a la Administración del Estado.
+c) Las potestades de investigación, deslinde y recuperación en materia de bienes.
+d) La potestad sancionadora, dentro de los límites que establezca el ordenamiento jurídico.
+e) La inembargabilidad de sus bienes y derechos, así como los privilegios de prelación y preferencia reconocidos a la Hacienda Pública para el cobro de sus créditos, sin perjuicio de los que correspondan en esta materia a la Hacienda del Estado y en igualdad de derechos con las demás Comunidades Autónomas.
+f) La exención de la obligación de prestar toda clase de garantías o cauciones ante los organismos administrativos y ante los jueces y tribunales de cualquier Jurisdicción.
+
+## Sección 2
+
+Sección 2.ª Los órganos de la Administración General de la Comunidad Autónoma de Cantabria
+
+### Artículo 63
+
+Artículo 63. Órganos de la Administración General.
+1. La Administración General de la Comunidad está constituida por órganos jerárquicamente ordenados bajo la dirección del Gobierno.
+2. Son órganos superiores de la Administración General de la Comunidad Autónoma de Cantabria el Presidente, el Gobierno, el Vicepresidente, en su caso, y los Consejeros.
+3. Son órganos directivos de la Administración General de la Comunidad Autónoma de Cantabria los Secretarios Generales, los Directores Generales y los Subdirectores Generales.
+4. Todos los demás órganos de la Administración de la Comunidad Autónoma de Cantabria se encuentran bajo la dependencia o dirección de un órgano superior o directivo.
+5. Corresponde a los órganos superiores establecer los planes de actuación de la organización situada bajo su responsabilidad y a los órganos directivos su desarrollo y ejecución.
+
+### Artículo 64
+
+Artículo 64. Consejerías.
+1. La Administración General de la Comunidad Autónoma de Cantabria se organiza en Consejerías atendiendo al principio de división funcional, correspondiendo a cada una de ellas el desarrollo de uno o varios sectores de actividad administrativa.
+2. El número, creación, denominación, modificación y supresión de Consejerías se acordará por Decreto del Presidente del Gobierno, produciéndose la comunicación inmediata de las mismas al Parlamento.
+
+### Artículo 65
+
+Artículo 65. Órganos directivos.
+1. Bajo la superior dirección del titular de la Consejería, cada Departamento desarrollará sus competencias por medio de los siguientes órganos directivos:
+a) Un Secretario General.
+b) Uno o varios Directores Generales.
+c) Uno o varios Subdirectores Generales.
+2. Los órganos directivos del Gobierno de Cantabria tienen, además, la consideración de Alto Cargo, salvo los Subdirectores Generales.
+3. En el nombramiento de dichos órganos directivos se observará el principio de representación equilibrada entre ambos sexos.
+Se añade el apartado 3 por la disposición final 2.2 de la Ley 2/2019, de 7 de marzo. Ref. BOE-A-2019-4565#df-2
+
+### Artículo 66
+
+Artículo 66. Servicios, Secciones y Negociados.
+1. La Secretaría General y las Direcciones Generales podrán organizarse en Servicios, Secciones y Negociados.
+2. Los Servicios son las unidades orgánicas de las Consejerías, a los que corresponde, como máximo órgano de apoyo a los órganos directivos, además de las competencias específicas que tengan atribuidas, las funciones de informe y propuesta de las cuestiones pertenecientes al área competencial que tienen atribuida, así como las funciones de planificación, coordinación, dirección y control de las Secciones o unidades asimiladas de ellos dependientes.
+3. Las Secciones son órganos internos de los Servicios a los que corresponden las funciones de ejecución, tramitación y, en su caso, informe y propuesta de las cuestiones pertenecientes al área competencial que tienen atribuida, así como la dirección, coordinación y control de las actividades desarrolladas por los Negociados o unidades de ellas dependientes.
+4. Los Negociados, como órganos internos de las Secciones, tienen atribuidas las funciones de tramitación, inventario si procede, y archivo de los asuntos que tengan asignados.
+5. Toda unidad orgánica de nueva creación deberá asimilarse a alguno de los órganos anteriores.
+
+### Artículo 67
+
+Artículo 67. Determinación de competencias y funciones.
+Los reglamentos orgánicos determinarán las competencias de los distintos órganos directivos, y las correspondientes disposiciones de desarrollo delimitarán las funciones de los órganos y unidades administrativas que de ellos dependan.
+
+### Artículo 68
+
+Artículo 68. Órganos que actúan fuera del territorio de la Comunidad.
+Para el ejercicio de competencias propias de la Administración de la Comunidad Autónoma de Cantabria se podrán crear órganos o unidades administrativas que funcionalmente actúen fuera del territorio de la Comunidad Autónoma de Cantabria.
+
+## Sección 3
+
+Sección 3.ª Los Secretarios Generales, Directores Generales y Subdirectores Generales
+
+### Artículo 69
+
+Artículo 69. Nombramiento y estatuto personal.
+1. Los Secretarios Generales y Directores Generales serán nombrados libremente por el Gobierno atendiendo, a criterios de competencia profesional y experiencia, entre personas que reúnan los requisitos de solvencia académica, profesional, técnica o científica que en cada caso sean necesarios para el desarrollo de la función. En todo caso, el Gobierno informará al Parlamento de Cantabria sobre los nombramientos realizados y su justificación.
+2. Los Subdirectores Generales serán nombrados y cesados libremente por el Consejero del que dependan, entre funcionarios de carrera de cualquier Administración, pertenecientes al Subgrupo A1, atendiendo a criterios de solvencia académica, profesional, técnica o científica que en cada caso sean necesarios para el desarrollo de la función.
+3. Los Secretarios Generales y Directores Generales que sean funcionarios de carrera, tendrán derecho a que se les compute el tiempo de desempeño en el cargo a efectos de antigüedad, ascensos y derechos pasivos, así como a la reserva de puesto de trabajo.
+4. La retribución de los Secretarios Generales y Directores Generales será la que se establezca en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria para cada ejercicio.
+5. Los Secretarios Generales y Directores Generales estarán sometidos al régimen de incompatibilidades previsto por las leyes y formularán declaración de actividades e intereses, así como de bienes y derechos patrimoniales en los términos dispuestos por la normativa aplicable en materia de conflicto de intereses y de transparencia en la actividad pública, así como la demás normativa de aplicación.
+
+### Artículo 70
+
+Artículo 70. El Secretario General.
+1. El Secretario General es el titular de la Secretaría General y tiene las siguientes atribuciones:
+a) Ostentar la representación de la Consejería por orden del Consejero.
+b) Coordinar, bajo la dirección del Consejero, los programas y actuaciones de las diferentes Direcciones Generales y organismos adscritos a la Consejería.
+c) Prestar asistencia técnica y administrativa al Consejero en cuantos asuntos éste considere conveniente.
+d) Actuar como órgano de comunicación con las demás Consejerías.
+e) Dirigir y gestionar los servicios comunes del Departamento, así como los órganos y unidades administrativas que se encuentren bajo su dependencia.
+f) Velar por la organización, simplificación y racionalización de la actividad administrativa, proponiendo las modificaciones encaminadas a mejorar y perfeccionar los servicios.
+g) Elaborar los proyectos de planes generales de actuación de la Consejería.
+h) Elaborar el anteproyecto del presupuesto correspondiente a la Consejería y llevar a cabo el seguimiento de la ejecución presupuestaria.
+i) Informar y tramitar los anteproyectos de ley y proyectos de disposiciones administrativas de carácter general de la Consejería.
+j) Informar los anteproyectos de ley de otras Consejerías.
+k) Informar los proyectos de disposiciones administrativas de carácter general de otras Consejerías.
+l) Gestionar los medios materiales adscritos al funcionamiento de la Consejería.
+m) Ejercer la jefatura superior del personal de su Consejería.
+n) Resolver los conflictos de atribuciones que surjan entre los órganos de él dependientes.
+ñ) Proponer al Consejero la resolución que estime procedente en los asuntos de su competencia cuya tramitación le esté encomendada.
+o) Resolver los asuntos de la Consejería que le correspondan.
+p) Las demás atribuciones que se desconcentren o deleguen en él.
+q) Aquellas otras que le sean atribuidas por las disposiciones en vigor.
+2. Será responsable de los servicios de legislación, documentación y publicación de las Consejerías.
+3. Las Secretarías Generales tendrán estructuradas, en los niveles orgánicos necesarios para su más adecuada realización, las funciones siguientes: archivo, registro, información, habilitación de material, contratación, régimen interior del personal, patrimonio e inventario, racionalización y automatización de las estructuras administrativas y funcionamiento de los servicios de la Consejería, recursos administrativos y, en general, las que no estén específicamente atribuidas a otras unidades de la Consejería.
+
+### Artículo 71
+
+Artículo 71. El Director General.
+El Director General es el titular del órgano directivo que le esté encomendado y tiene las siguientes atribuciones:
+a) Elaborar los programas de actuación específicos de la Dirección General.
+b) Dirigir y gestionar los servicios y resolver los asuntos de la Consejería que sean de su competencia.
+c) Vigilar y fiscalizar todas las dependencias a su cargo y ejercer la jefatura inmediata del personal adscrito a la Dirección General.
+d) Resolver los conflictos de atribuciones que surjan entre los órganos de él dependientes.
+e) Elaborar el proyecto de presupuesto y la memoria anual de funcionamiento de su centro directivo.
+f) Dictar, o proponer al Consejero según proceda, las resoluciones en las materias de la competencia del centro directivo.
+g) Informar al Consejero en todos los asuntos atribuidos al centro directivo de su competencia.
+h) Formular propuestas al órgano competente, sobre organización y funcionamiento de los servicios a su cargo.
+i) Las demás atribuciones que se desconcentren o deleguen en él.
+j) Las demás que le asigne el ordenamiento vigente.
+
+### Artículo 72
+
+Artículo 72. El Subdirector General.
+El Subdirector General es el órgano directivo que, bajo la supervisión del Director General de quien dependa, realiza las siguientes funciones:
+a) La coordinación y apoyo en la dirección y gestión de los servicios de la Dirección General.
+b) Ejecución de los proyectos, objetivos o actividades que le sean asignados por el Director General.
+c) Elaborar los programas de actuación específicos de la Subdirección.
+d) Resolver los conflictos de atribuciones que surjan entre los órganos de él dependientes.
+e) Las demás atribuciones que se desconcentren o deleguen en él.
+f) Las demás que le asigne el ordenamiento vigente.
+
+## Sección 4
+
+Sección 4.ª Régimen de los órganos y unidades administrativas
+
+### Artículo 73
+
+Artículo 73. Órganos y demás unidades.
+1. Tendrán la consideración de órganos administrativos, además de los órganos superiores y directivos, aquellas unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.
+2. Las unidades administrativas son los elementos organizativos básicos de las estructuras orgánicas y comprenden al personal vinculado funcionalmente por razón de sus cometidos y orgánicamente por una jefatura superior común. Podrán existir unidades administrativas complejas, que agrupen a dos o más unidades menores.
+3. Los jefes de las unidades administrativas son responsables de la adecuada ejecución de las tareas asignadas a la unidad y, en su caso, de las atribuidas mediante delegación de firma. Asimismo, son responsables inmediatos del personal integrado en la unidad y de promover la racionalización y simplificación de las actividades materiales correspondientes a las tareas encomendadas.
+4. Los actos con relevancia jurídica precisos para el ejercicio de las competencias atribuidas a los órganos administrativos se producen por sus titulares. En todo caso, los titulares de órganos pueden delegar el ejercicio de la firma de sus actos y resoluciones en los de las unidades adscritas a los mismos.
+
+### Artículo 74
+
+Artículo 74. Creación, modificación y supresión.
+1. Sin perjuicio de lo dispuesto en el apartado 2 del artículo 64 de esta Ley, los órganos de la Administración de la Comunidad Autónoma de Cantabria se crean, modifican y suprimen por Decreto del Gobierno, con sujeción a criterios de racionalidad, austeridad y eficacia. Asimismo, se regulará por Decreto su composición y funcionamiento.
+2. La creación de cualquier órgano administrativo exigirá el cumplimiento de los siguientes requisitos:
+a) Determinación de su forma de integración en la Administración de la Comunidad Autónoma de Cantabria y dependencia jerárquica.
+b) Delimitación de sus funciones y competencias.
+c) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
+3. No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de éstos.
+4. La estructura orgánica de cada Consejería será aprobada por Decreto del Consejo de Gobierno.
+5. La creación de órganos directivos nuevos exigirá la comunicación inmediata al Parlamento.
+
+### Artículo 75
+
+Artículo 75. Adecuación de estructuras administrativas.
+1. Los titulares de los órganos superiores y directivos son responsables de realizar o promover, de acuerdo con sus competencias, la adecuación de las estructuras administrativas y los efectivos de personal a su cargo a los objetivos fijados, así como del empleo eficiente de los recursos asignados a la organización que dirigen.
+2. Los órganos específicamente competentes en materia de organización y personal en cada una de las Consejerías y organismos públicos y, en su caso, aquellos órganos cuyas funciones se extienden, en relación con estas materias, a toda la Administración de la Comunidad Autónoma de Cantabria, adoptarán las medidas precisas para adaptar la organización de acuerdo con los criterios establecidos en el apartado anterior, atendiendo a los objetivos y recursos asignados en las Leyes de Presupuestos.
+
+### Artículo 76
+
+Artículo 76. Instrucciones y órdenes de servicio.
+1. Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
+Cuando una disposición específica así lo establezca o se estime conveniente por razón de los destinatarios o de los efectos que puedan producirse, las instrucciones y órdenes de servicio se publicarán en el "Boletín Oficial de Cantabria", sin perjuicio de su difusión de acuerdo con lo previsto en la normativa sobre transparencia, acceso a la información pública y buen gobierno.
+2. En concreto, los Secretarios Generales y los Directores Generales podrán dictar instrucciones y órdenes de servicio para dirigir la actividad de las dependencias y servicios a su cargo. Las mismas podrán publicarse en el «Boletín Oficial de Cantabria», no constituyendo en ningún caso manifestación del ejercicio de la potestad reglamentaria.
+3. El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.
+
+## Sección 5
+
+Sección 5.ª Órganos colegiados
+
+### Artículo 77
+
+Artículo 77. Régimen jurídico.
+1. Son órganos colegiados aquellos que se crean formalmente, están compuestos por tres o más personas a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y actúan integrados en la Administración de la Comunidad Autónoma.
+2. Los órganos colegiados se rigen por las normas que con carácter básico establezcan el régimen jurídico de las Administraciones públicas, las normas contenidas en esta Sección, su normativa de creación, y sus reglamentos de régimen interior.
+3. Los órganos colegiados de la Administración de la Comunidad Autónoma de Cantabria en que participen organizaciones representativas de intereses sociales, podrán establecer o completar sus propias normas de funcionamiento.
+Estos órganos colegiados quedarán integrados en la Administración de la Comunidad Autónoma de Cantabria, aunque sin participar en su estructura jerárquica, salvo que así lo establezcan sus normas de creación, se desprenda de sus funciones o de la propia naturaleza del órgano colegiado.
+4. Los órganos colegiados podrán reunirse con la presencia física de sus integrantes o por medios telemáticos debiendo garantizarse, en todo caso, los requisitos y exigencias de esta Ley.
+
+### Artículo 78
+
+Artículo 78. Requisitos de creación.
+La constitución de un órgano colegiado tendrá como presupuesto indispensable la determinación en su norma de creación o en el convenio con otras Administraciones públicas por el que dicho órgano se cree, de los siguientes extremos:
+a) Sus fines y objetivos.
+b) Su integración administrativa o dependencia jerárquica.
+c) La composición y los criterios para la designación de su Presidente y de los restantes miembros.
+d) Las funciones de decisión, propuesta, asesoramiento, seguimiento y control, así como cualquier otra que se le atribuya.
+e) La dotación de los créditos necesarios, en su caso, para su funcionamiento.
+
+### Artículo 79
+
+Artículo 79. Denominación de los órganos colegiados.
+1. Los órganos colegiados de la Administración de la Comunidad Autónoma de Cantabria, podrán denominarse:
+a) Comisiones, cuando sus miembros procedan de diferentes Consejerías o entidades de derecho público.
+b) Comités, cuando sus componentes procedan de los órganos de una sola Consejería o entidad de derecho público.
+c) Consejos, cuando sus funciones sean fundamentalmente de naturaleza consultiva.
+d) Observatorios, cuando sus funciones sean fundamentalmente de análisis, estudio, consulta e información en un ámbito determinado.
+2. Lo dispuesto anteriormente no impedirá la adopción de denominaciones distintas cuando existan causas que lo justifiquen.
+
+### Artículo 80
+
+Artículo 80. Miembros y composición.
+1. Son miembros de los órganos colegiados el Presidente, el Vicepresidente o Vicepresidentes, de existir, y los Vocales entendiendo por tales todos los que tengan derecho a participar en las deliberaciones y en las votaciones para la adopción de acuerdos. Los Secretarios se considerarán miembros de los órganos colegiados cuando la norma que los regule les otorgue tal derecho.
+2. En los órganos colegiados podrán existir representantes de otras Administraciones públicas, con la finalidad de consulta, cuando éstas lo acepten voluntariamente, cuando un convenio así lo establezca o cuando una norma aplicable a las Administraciones afectadas lo determine.
+3. También podrán participar en los órganos colegiados, cuando así se determine, organizaciones representativas de intereses sociales, así como otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos, en atención a la naturaleza de las funciones asignadas a tales órganos.
+
+### Artículo 81
+
+Artículo 81. Presidente.
+1. En cada órgano colegiado corresponde al Presidente:
+a) Ostentar la representación del órgano.
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros formuladas con la suficiente antelación.
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+d) Dirimir con su voto los empates, a efectos de adoptar acuerdos, excepto si se trata de los órganos colegiados a que se refiere el apartado 3 del artículo 77, en que el voto será dirimente si así lo establecen sus propias normas.
+e) Asegurar el cumplimiento de las Leyes.
+f) Visar las actas y certificaciones de los acuerdos del órgano.
+g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del órgano.
+2. En casos de vacante, ausencia, enfermedad u otra causa legal el Presidente será suplido por el Vicepresidente que corresponda y, en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden, de entre sus componentes.
+Esta norma no será de aplicación a los órganos colegiados previstos en el apartado 3 del artículo 77, en los que el régimen de suplencia del Presidente debe estar específicamente regulado en cada caso, o establecido expresamente por acuerdo del Pleno del órgano colegiado.
+
+### Artículo 82
+
+Artículo 82. Miembros.
+1. En cada órgano colegiado corresponde a sus miembros:
+a) Recibir, con una antelación mínima de cuarenta y ocho horas, la convocatoria conteniendo el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros con la antelación referida.
+b) Participar en los debates de las sesiones.
+c) Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican.
+No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones públicas tengan la condición de miembros de órganos colegiados.
+d) Formular ruegos y preguntas.
+e) Obtener la información precisa para cumplir las funciones asignadas.
+f) Cuantas otras funciones sean inherentes a su condición.
+2. Los miembros de un órgano colegiado no podrán atribuirse las funciones de representación reconocidas a éste, salvo que expresamente se les hayan otorgado por una norma o por acuerdo válidamente adoptado, para cada caso concreto, por el propio órgano.
+3. En caso de ausencia o de enfermedad y, en general, cuando concurra alguna causa justificada, los miembros titulares del órgano colegiado serán sustituidos por sus suplentes, si los hubiera.
+Cuando se trate de órganos colegiados en los que participen organizaciones representativas de intereses sociales, éstas podrán sustituir a sus miembros titulares por otros, acreditándolo ante la Secretaría del órgano colegiado, con respeto a las reservas y limitaciones que establezcan sus normas de organización.
+
+### Artículo 83
+
+Artículo 83. Secretario.
+1. Los órganos colegiados tendrán un Secretario, que podrá ser un miembro del propio órgano o una persona al servicio de la Administración de la Comunidad Autónoma de Cantabria.
+2. La designación y el cese, así como la sustitución temporal del Secretario en supuestos de vacante, ausencia o enfermedad, se realizarán según lo dispuesto en las normas específicas de cada órgano y, en su defecto, por acuerdo del mismo.
+En los casos en los que el Secretario no miembro sea suplido por un miembro del órgano colegiado, éste conservará todos sus derechos como tal.
+3. Corresponde al Secretario del órgano colegiado:
+a) Asistir a las reuniones con voz, pero sin voto si es un funcionario, y con voz y voto si la Secretaría del órgano la ostenta un miembro del mismo.
+b) Efectuar la convocatoria de las sesiones del órgano por orden de su Presidente, así como las citaciones a los miembros del mismo.
+c) Recibir los actos de comunicación de los miembros con el órgano y, por tanto, las notificaciones, peticiones de datos, rectificaciones o cualquiera otra clase de escritos de los que deba tener conocimiento.
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+f) Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+### Artículo 84
+
+Artículo 84. Convocatorias y sesiones.
+1. Para la válida constitución del órgano, así como para la adopción de acuerdos se requerirá, en todo caso, la presencia del Presidente y del Secretario, o de las personas que les sustituyan. Asimismo, será indispensable, con la salvedad del apartado 2, la presencia de al menos la mitad más uno de los miembros del órgano colegiado, computándose a tal efecto al Presidente, en todo caso, y al Secretario si, de acuerdo con la normativa aplicable, éste tuviera la condición de miembro del órgano colegiado.
+Cuando se trate de los órganos colegiados a que se refiere el apartado 3 del artículo 77, el Presidente podrá considerar válidamente constituido el órgano, a efectos de celebración de sesión, si están presentes los representantes de las Administraciones públicas y de las organizaciones representativas de intereses sociales miembros del órgano a los que se haya atribuido la condición de portavoces.
+2. Los órganos colegiados podrán establecer el régimen propio de convocatorias, si éste no está previsto por sus normas de funcionamiento. Tal régimen podrá prever una segunda convocatoria y especificar para ésta el número de miembros necesarios para constituir válidamente el órgano.
+3. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que estén presentes todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+4. Los acuerdos serán adoptados por mayoría de votos, salvo que sus normas específicas prevean otras mayorías.
+5. Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario de un órgano colegiado para que les sea expedida certificación de sus acuerdos.
+
+### Artículo 85
+
+Artículo 85. Actas.
+1. De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
+2. En el acta figurará, a solicitud de los respectivos miembros del órgano, el voto contrario al acuerdo adoptado, su abstención y los motivos que la justifiquen o el sentido de su voto favorable. Asimismo, cualquier miembro tiene derecho a solicitar la trascripción íntegra de su intervención o propuesta, siempre que se refiera a alguno de los puntos del orden del día y aporte en el acto, o en el plazo que señale el Presidente, el texto que se corresponda fielmente con su intervención, haciéndose así constar en el acta o uniéndose copia a la misma.
+3. Los miembros que discrepen del acuerdo mayoritario podrán formular voto particular por escrito en el plazo de cuarenta y ocho horas, que se incorporará al texto aprobado.
+4. Cuando los miembros del órgano voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos.
+5. Las actas se aprobarán en la misma o en la siguiente sesión. El Secretario elaborará el acta con el visto bueno del Presidente y lo remitirá a través de medios electrónicos a los miembros del órgano colegiado, quienes podrán manifestar por los mismos medios su conformidad o reparos al texto, a efectos de su aprobación, considerándose, en caso afirmativo, aprobada en la misma reunión. No obstante, el Secretario podrá emitir certificación sobre los acuerdos específicos que se hayan adoptado, sin perjuicio de la ulterior aprobación del acta.
+En las certificaciones de acuerdos adoptados emitidas con anterioridad a la aprobación del acta se hará constar expresamente tal circunstancia.
+Se modifica el apartado 5 por el art. 5.3 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+## TÍTULO III
+
+Del Sector Público Institucional de la Comunidad Autónoma de Cantabria
+
+## CAPÍTULO I
+
+Organización y funcionamiento del Sector Público Institucional autonómico
+
+### Artículo 86
+
+Artículo 86. El Sector Público Institucional.
+1. El Sector Público Institucional de la Comunidad Autónoma de Cantabria está integrado por las siguientes Entidades:
+a) Los Organismos públicos vinculados o dependientes de la Administración General de la Comunidad Autónoma, que se clasifican en:
+1.º Organismos Autónomos.
+2.º Entidades Públicas Empresariales.
+b) Otras Entidades de Derecho Público vinculadas o dependientes de la Administración General de la Comunidad Autónoma.
+c) Los consorcios.
+d) Las sociedades mercantiles autonómicas.
+e) Las fundaciones del sector público.
+f) La Universidad de Cantabria.
+g) Los fondos sin personalidad jurídica.
+2. La Administración General de la Comunidad Autónoma y las entidades integrantes del Sector Público Institucional no podrán, por sí mismas o en colaboración con otras entidades públicas o privadas, crear o ejercer el control efectivo, directa o indirectamente, sobre ningún otro tipo de entidad distinto de los enumerados en este artículo, sea cual fuere su naturaleza y régimen jurídico.
+3. Las Entidades que conforman el Sector Público Institucional de la Comunidad Autónoma dependen de ésta a través de la Administración General de la Comunidad Autónoma de Cantabria y se adscriben a la Consejería competente por razón de la materia, bien por su previsión en los Estatutos o normas de creación del ente, bien presupuestariamente, correspondiéndole a la misma la dirección estratégica, la evaluación y el control de los resultados de su actividad y el control de eficacia. No podrán ni depender ni adscribirse a otra Entidad de las que conforman el Sector Público Institucional.
+4. La Universidad de Cantabria se rige por su legislación específica y, en lo no previsto en ella, por esta Ley.
+Se modifican los apartados 1 y 3 por el art. 5.6 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 87
+
+Artículo 87. Principios generales de actuación.
+1. Las entidades vinculadas o dependientes de la Administración General de la Comunidad Autónoma se regirán, además de por la legislación básica estatal, por las disposiciones del presente Título y por las que con carácter particular les sean de aplicación.
+2. Las entidades que integran el Sector Público Institucional de la Comunidad Autónoma están sometidas en su actuación a los principios de legalidad, eficiencia, estabilidad presupuestaria y sostenibilidad financiera, así como al de transparencia en su gestión. En particular, se sujetarán en materia de personal, incluido el laboral, a las limitaciones previstas en la normativa presupuestaria y en las previsiones anuales de los presupuestos generales.
+3. El Gobierno de Cantabria, en los términos que reglamentariamente se establezcan, establecerá un sistema de supervisión continua de las entidades que integran el Sector Público Institucional autonómico, con el objeto de comprobar la subsistencia de los motivos que justificaron en su día su creación y su sostenibilidad financiera. Dicho sistema deberá incluir, en su caso, propuestas de mantenimiento, transformación o extinción.
+
+### Artículo 88
+
+Artículo 88. El Inventario de Entidades del Sector Público Autonómico.
+(Derogado).
+Se deroga por el art. 13.1 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 89
+
+Artículo 89. Control de eficacia y supervisión continua.
+1. Las entidades integrantes del Sector Público Institucional autonómico estarán sometidas a un control de eficacia y supervisión continuas. A tal efecto, todas las entidades integrantes del Sector Público Institucional autonómico, deberán contar, en el momento de su creación, con un plan de actuación, que contendrá las líneas estratégicas sobre las que se desenvolverá la actividad de la entidad y que deberá ser modificado, siguiendo el mismo procedimiento que para su aprobación, cuando se produzca una variación de las mismas.
+2. El control de eficacia será ejercido, tal y como se dispone en la legislación de finanzas, por la Consejería a la que esté adscrita la correspondiente entidad y tendrá por objeto evaluar el cumplimiento de los objetivos propios de la actividad específica de la entidad y la adecuada utilización de los recursos asignados, de acuerdo a lo establecido en el plan de actuación, programas de actuación plurianuales y objetivos presupuestarios. El referido control se efectuará sin perjuicio del que compete, de acuerdo a la legislación presupuestaria, a la Intervención General de la Administración General de la Comunidad Autónoma.
+3. Todas las entidades integrantes del Sector Público Institucional Autonómico estarán sujetas a la supervisión continua de la Consejería que tenga atribuidas las competencias en materia de Hacienda, a través de la Intervención General de la Administración General de la Comunidad Autónoma, que vigilará la concurrencia de los requisitos establecidos en esta Ley y, en particular, verificará:
+a) La subsistencia de las circunstancias que justificaron la creación de la entidad.
+b) La sostenibilidad financiera de la entidad.
+c) La concurrencia de la causa de disolución referida al incumplimiento de los fines que estuvieron en la base de la creación de la entidad o la falta de idoneidad de la misma para la consecución de aquellos fines.
+Reglamentariamente se determinarán las actuaciones de planificación, ejecución y evaluación que integran la supervisión continua, así como la entrega, periodicidad y tratamiento de la información económico-financiera necesaria.
+Se modifica por el art. 13.2 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 90
+
+Artículo 90. Consejo de seguimiento de la actividad de los entes del sector público institucional autonómico.
+1. A los efectos de favorecer el seguimiento de la actividad de las entidades integrantes del sector público institucional autonómico, y sin perjuicio de lo dispuesto en el artículo anterior, se crea un Consejo de seguimiento que se encargará de llevar a cabo un análisis de la actividad desarrollada por las entidades públicas empresariales, las sociedades mercantiles, las fundaciones y demás entes del sector público institucional autonómico de acuerdo con su plan de actuación, los principios y objetivos consagrados en su norma de creación, su presupuesto, informes de gestión y los acuerdos adoptados por sus órganos de gobierno y administración.
+2. Este órgano estará formado por los titulares de la Consejerías a las que estén adscritas las entidades o las personas en quien deleguen, uno de los cuales ejercerá la Presidencia; un funcionario con competencias en materia jurídica, que actuará como Secretario, y un representante elegido por cada uno de los grupos parlamentarios.
+Además, formarán parte de este órgano, dos vocales de entre los candidatos presentados por las organizaciones sindicales más representativas de la Comunidad Autónoma de Cantabria, pudiéndose presentar un candidato por cada una de ellas, un vocal de entre los candidatos presentados por la organización empresarial más representativa de la Comunidad Autónoma de Cantabria y un vocal de entre los candidatos presentados por la Universidad de Cantabria.
+3. El Consejo de seguimiento de la actividad de los entes del sector público institucional autonómico, cuyas sesiones ordinarias se celebrarán al menos una vez al año, sin perjuicio de las sesiones extraordinarias que se precisen, dispondrá de los siguientes medios y funciones:
+a) Ser informado de las convocatorias de los órganos de gobierno de los entes, así como del orden del día de las mismas, al mismo tiempo que a los miembros de esos órganos.
+b) Recibir las actas de las reuniones de los órganos de gobierno y administración inmediatamente después de ser aprobadas.
+c) Recibir informes anuales sobre la gestión de las actividades más relevantes que estén siendo o hayan sido desarrolladas durante ese periodo.
+d) Tener acceso a todos los contratos o negocios jurídicos formalizados por cada uno de los entes.
+e) Recibir un informe sobre las principales actuaciones previstas para cada periodo anual que deberá ser entregado al Consejo a lo largo del mes de diciembre del año anterior.
+f) Solicitar las aclaraciones que considere oportunas a los afectos de informar o aclarar cualquier cuestión relativa a la documentación remitida al Consejo.
+g) Acceder, conforme a lo previsto en la legislación vigente en la materia, a la documentación e información que exista en la entidad y que sea necesaria para el ejercicio de la función de seguimiento de la actividad, pudiendo solicitar su puesta a disposición en cualquier momento con el fin de ejecutar fielmente su labor.
+h) Emitir recomendaciones y sugerencias sobre el funcionamiento, programas y gestión para su toma en consideración por parte del órgano competente.
+Se añade el párrafo segundo al apartado 2 por el art. 10.2 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica por el art. 5.7 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 91
+
+Artículo 91. Medio propio y servicio técnico.
+1. Las entidades integrantes del Sector Público Institucional autonómico podrán tener la consideración de medios propios y servicios técnicos de los poderes adjudicadores, cuando cumplan las condiciones y requisitos establecidos en la legislación de contratos del sector público.
+2. Tendrán la consideración de medio propio y servicio técnico cuando se acredite que, además de disponer de medios suficientes e idóneos para realizar prestaciones en el ámbito que se corresponda a su objeto social, de acuerdo a su norma o acuerdo de creación, concurre alguna de las siguientes circunstancias:
+a) Representar una opción más eficiente que la contratación pública y resultar sostenible y eficaz en términos de rentabilidad económica.
+b) Ser necesario por razones de seguridad pública o de urgencia en la necesidad de disponer de los bienes o servicios proporcionados por la entidad.
+La comprobación de la concurrencia de los requisitos a que se refiere este apartado se integrará en el control de eficacia de la correspondiente entidad.
+3. A la propuesta de declaración de medio propio y servicio técnico deberá acompañarse una memoria justificativa que acredite la concurrencia de los requisitos anteriores. Esta propuesta será informada por la Intervención General de la Administración General de la Comunidad Autónoma.
+La declaración de medio propio de las entidades integrantes del Sector Público Institucional autonómico deberá recogerse expresamente en los estatutos de la entidad, que serán aprobados por el Consejo de Gobierno a propuesta de la Consejería a la que esté adscrito. La aprobación o modificación de los estatutos de la entidad implicará la declaración de medio propio y servicio técnico de la Administración
+4. Sin perjuicio de lo dispuesto en la legislación básica estatal, los encargos a medio propio que se formalicen en la Comunidad Autónoma de Cantabria deberán cumplir con las siguientes determinaciones:
+a) Contenido de los encargos, que deberán incluir referencias a:
+1.º Sujetos, capacidad jurídica, y competencia de las partes.
+2.º Objeto del encargo, precisando las actuaciones a realizar por el medio propio. En ningún caso, podrá amparar actividades que supongan una alteración de titularidad de competencias o traslación de ejecución de potestades públicas.
+3.º Compromisos económicos asumidos por el órgano o entidad que realiza el encargo, indicando su distribución temporal por anualidades y su imputación concreta al presupuesto correspondiente de acuerdo con lo previsto en la legislación presupuestaria.
+4.º Regulación expresa de la posible subcontratación debiendo reflejar que, en su caso, debe ser autorizada previamente por el órgano que realiza el encargo.
+5.º Régimen de modificación del encargo.
+6.º Mecanismos de seguimiento y control de la ejecución, así como de justificación de los gastos por el medio propio.
+7.º Plazo.
+8.º Causas de extinción.
+b) Trámites preceptivos para la formalización de los encargos a medio propio y sus efectos:
+1.º En el expediente se incorporarán las memorias, informes o documentos que analicen y justifiquen la elección de la fórmula del encargo, la fijación de precios de mercado, y el cumplimiento por parte del medio propio de los requisitos fijados legalmente.
+2.º Texto del encargo con el contenido mínimo fijado en el apartado anterior.
+3.º Tarifas que deberán ser aprobadas por el Consejo de Gobierno a propuesta de la Consejería a la que se adscriba el ente con los criterios legalmente establecidos y sin que en ningún caso quepa incluir el beneficio industrial. En aquellos supuestos en que los elementos a tarifar no puedan determinarse a priori deben incluirse como gastos a justificar con el fin de que el pago se ajuste al gasto efectivamente realizado.
+4.º Informes jurídicos y fiscales.
+5.º Aprobación por el Consejo de Gobierno a propuesta de la Consejería que propone el encargo.
+6.º Suscripción y formalización por el órgano autorizado por el Gobierno. A falta de autorización expresa, se formalizará por el Consejero, titular por razón de la materia o al que esté adscrito el medio propio; o bien por el órgano competente de las entidades de derecho público que formalice el encargo.
+7.º Deberá ser objeto de publicación tanto en el Perfil del Contratante como en el Portal de Transparencia.
+8.º Será objeto de remisión al Tribunal de Cuentas, en el plazo de tres meses desde su formalización, cuando el importe del encargo supere los 600.000€. Igualmente serán objeto de comunicación a dicho órgano las posibles adendas, prórrogas o extinción de los encargos a medio propio.
+5. También podrán realizar encargos entre sí las entidades del sector público autonómico siempre que la entidad que realiza el encargo y la que lo reciba estén controladas, directa o indirectamente, por la misma entidad de dicho sector y, además, la totalidad del capital social o patrimonio de la entidad destinataria del encargo sea de titularidad pública.
+En estos casos, el requisito de que más del 80 por ciento de las actividades del ente destinatario del encargo se lleven a cabo en el ejercicio de los cometidos que le han sido confiados por la entidad que realiza el encargo y que lo controla o por otras personas jurídicas controladas del mismo modo por la entidad que realiza el encargo, se entenderá cumplido por referencia al conjunto de actividades que se hagan en el ejercicio de los cometidos que le hayan sido confiados por la entidad que realiza el encargo, por la entidad que controla directa o indirectamente tanto a la entidad que realiza el encargo como a la que lo recibe, así como por cualquier otra entidad también controlada directa o indirectamente por la anterior. En estos casos, la compensación a percibir por la entidad que reciba el encargo deberá ser aprobada por el Consejo de Gobierno, debiendo adecuarse dicha compensación y las demás condiciones del encargo a las generales del mercado de forma que no se distorsione la libre competencia.
+Se modifica el apartado 4 y se añade el 5 por el art. 67.5 y 6 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+ Se modifican los apartados 3 y 4 por el art. 5.8 y 9 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 92
+
+Artículo 92. Transformación de las entidades integrantes del Sector Público Institucional autonómico.
+1. Los organismos autónomos, las entidades públicas empresariales, las demás entidades públicas vinculadas o dependientes de la Administración General, las sociedades mercantiles autonómicas y las fundaciones del Sector Público Institucional podrán ser objeto de transformación mediante la adopción de la naturaleza jurídica de cualquiera de las entidades referidas.
+2. La transformación se llevará a cabo por cesión e integración global de todo el activo y el pasivo de la entidad, con sucesión universal de derechos y obligaciones.
+3. La transformación se efectuará mediante Decreto. En el caso que la transformación afecte a entidades cuya creación requiere Ley, la misma requerirá su aprobación por Ley.
+4. El Decreto por el que se autorice la transformación se acompañará de una memoria, que habrá de incluir justificación de la transformación, un análisis de eficiencia, acreditación de inexistencia de duplicidades con las funciones desarrolladas por otras entidades u órganos preexistentes, un análisis de la situación y destino del personal de la entidad objeto de transformación y un informe de la Intervención General que valore el cumplimiento de lo dispuesto en este artículo.
+5. La transformación conllevará la adaptación de los medios personales, materiales y económicos que resulte necesaria. El personal de la entidad originaria podrá ser adscrito a la nueva entidad o a la Administración General de la Comunidad Autónoma de conformidad con los procedimientos de movilidad establecidos en la legislación de función pública o en la normativa laboral aplicable. La transformación no podrá suponer, en ningún caso, la adquisición de la condición de funcionario por parte del personal laboral que viniera prestando sus servicios en la entidad sujeta a transformación, ni aumento de la masa salarial que existiera en la entidad objeto de transformación.
+
+## CAPÍTULO II
+
+Organismos públicos autonómicos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 93
+
+Artículo 93. Definición y actividades propias.
+1. La Comunidad Autónoma de Cantabria, de acuerdo, en su caso, con la legislación básica del Estado, podrá crear organismos públicos con personalidad jurídica diferenciada, patrimonio y tesorería propia, así como autonomía de gestión, en los términos establecidos en la Ley.
+2. Los organismos públicos dependen de la Administración General de la Comunidad Autónoma de Cantabria directamente de acuerdo con el principio de instrumentalización para la realización de actividades administrativas, de fomento, prestación y gestión de servicios públicos o producción de bienes de interés público susceptibles de contraprestación cuyas características justifiquen una organización en régimen de descentralización funcional o el sometimiento a un particular estatuto de independencia.
+Se modifica el apartado 2 por el art. 5.10 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 94
+
+Artículo 94. Creación de organismos públicos autonómicos.
+1. Los organismos públicos se crean por Ley.
+2. La ley de creación establecerá el tipo de organismo, sus fines generales, la Consejería a la que se vincule o adscriba y, en su caso, la financiación, régimen de personal, patrimonial, de contratación, tributario y cualesquiera otras peculiaridades que, por su naturaleza, exijan norma con rango de ley.
+3. El anteproyecto de ley que se eleve al Gobierno irá acompañado de una propuesta de estatutos y de un plan de actuación.
+Se modifica por el art. 13.3 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 95
+
+Artículo 95. Personalidad jurídica y potestades administrativas.
+1. Los organismos públicos tienen personalidad jurídica pública propia.
+2. Los organismos públicos son titulares, en la esfera de su competencia, de las potestades administrativas precisas para el cumplimiento de sus fines, con excepción de la potestad expropiatoria, en los términos previstos en su Ley de creación y en sus estatutos.
+3. Los actos y resoluciones dictados por los organismos públicos en el ejercicio de potestades administrativas son susceptibles de los recursos administrativos previstos en la legislación del procedimiento administrativo común.
+
+### Artículo 96
+
+Artículo 96. Estructura organizativa.
+1. Los Estatutos de cada organismo público determinarán los órganos de gobierno y los órganos ejecutivos del mismo. Salvo otra previsión estatutaria, los órganos superiores de gobierno son el Presidente y el Consejo Rector.
+2. El Gobierno determinará reglamentariamente el número máximo de miembros del Consejo Rector y de los demás órganos colegiados de gobierno, que en todo caso no podrá ser superior a diez, así como el régimen retributivo y la cuantía de la retribución total de los máximos responsables y directivos.
+La limitación en el número máximo de miembros del Consejo Rector, contemplada en el párrafo anterior, no será de aplicación en el caso de los organismos autónomos.
+3. La dirección del organismo público establecerá un sistema de control que asegure el cumplimiento de sus objetivos.
+Se añade un párrafo al apartado 2 por el art. 13.4 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 97
+
+Artículo 97. Contenido de los estatutos de los organismos públicos.
+1. Los estatutos de los organismos públicos regularán, con carácter mínimo, los siguientes extremos:
+a) Las funciones y atribuciones del organismo, con expresión de las potestades administrativas de que sea titular.
+b) La estructura organizativa, con indicación de la composición, funciones, competencias y rango de sus respectivos órganos.
+c) El patrimonio asignado y su sistema de financiación.
+d) El régimen relativo a su personal, patrimonio, presupuesto y contratación. El control financiero y contabilidad será, en todo caso, el establecido o que se establezca en la legislación de finanzas.
+e) La participación en sociedades mercantiles de ser ello necesario para la consecución de los fines del organismo.
+2. Los estatutos de los organismos públicos se aprobarán por Decreto del Consejo de Gobierno a propuesta conjunta de la Consejería que tenga atribuidas las competencias en materia de Hacienda y de la Consejería a la que el organismo esté vinculado o de la que sea dependiente.
+3. La aprobación y publicación de sus estatutos precederá en todo caso a la efectiva puesta en funcionamiento de los organismos públicos.
+
+### Artículo 98
+
+Artículo 98. Contenido y efectos del plan de actuación.
+1. El plan de actuación a que se refiere el apartado 3 del artículo 94 será aprobado definitivamente por el Gobierno una vez creado por Ley el Organismo de que se trate. Dicho plan será propuesto por la Consejería a la que haya de adscribirse el Organismo, deberá contar con el informe favorable de las Consejerías competentes en materia de Presidencia y Hacienda y su contenido incluirá, en todo caso, las siguientes determinaciones:
+a) Razones que justifican la creación del organismo y acreditación de que no supone duplicidad respecto de la actividad que vengan desarrollando otros órganos u organismos.
+b) Justificación de forma jurídica y de la estructura organizativa propuesta.
+c) Justificación de la sostenibilidad del organismo con las previsiones presupuestarias que procedan.
+d) Objetivos generales previstos, programación plurianual diseñada para su consecución y coste global, incluyendo los gastos de personal.
+Por Orden conjunta de las Consejerías con competencia en materia de Presidencia y Hacienda se determinarán los órganos competentes para la emisión de estos informes y el objeto y alcance de los mismos.
+2. Los organismos públicos acomodarán su actividad a las previsiones del plan de actuación, que se actualizará con carácter anual con la propuesta de presupuestos de ingresos y gastos, la memoria de objetivos presupuestarios y el programa plurianual.
+3. El plan de actuación, así como sus modificaciones, se publicarán en la página web del organismo de que se trate, en el Portal del Transparencia y será enviado al Parlamento para su conocimiento.
+Se modifica por el art. 13.5 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 99
+
+Artículo 99. Gestión compartida de servicios comunes.
+1. Las leyes de creación de los organismos públicos impondrán la gestión compartida de todos o de algunos de los servicios comunes que sean prestados por los organismos públicos autonómicos, salvo que la no compartición se justifique en razones de eficiencia, de acuerdo a la legislación sobre estabilidad presupuestaria y sostenibilidad financiera, o para salvaguardar la independencia del organismo de que se trate.
+La organización y gestión compartida de los servicios comunes se llevará a cabo por la Consejería que tenga atribuidas las competencias en materia de Hacienda o Presidencia, o de la Consejería a la que los organismos se encuentren adscritos en caso de ser la misma.
+2. Tendrán la consideración de servicios comunes la gestión de bienes inmuebles, los sistemas de información y comunicación, la asistencia jurídica, la contabilidad y gestión financiera y la contratación pública.
+
+### Artículo 100
+
+Artículo 100. Fusión y modificación de los organismos públicos.
+1. La fusión de organismos públicos de la misma naturaleza y similar finalidad se llevará a cabo conforme a las pautas a que se refiere el artículo 92 para los casos de transformación de entidades del sector público.
+2. La modificación de la organización interna de un organismo público que no suponga alteración de las materias para las que fue creado podrá llevarse a cabo también por Decreto del Consejo de Gobierno a propuesta de la Consejería a la que esté adscrito.
+
+### Artículo 101
+
+Artículo 101. Extinción y disolución de organismos públicos autonómicos.
+1. La extinción y disolución de los organismos públicos se producirá:
+a) Por determinación de una Ley.
+b) Por Decreto del Consejo de Gobierno, a propuesta conjunta de las Consejerías competentes en materia de Presidencia y Hacienda, de acuerdo con el Consejero u órgano máximo del Organismo de adscripción, en los casos siguientes:
+1.º Por las causas establecidas en sus estatutos.
+2.º Por el transcurso del tiempo previsto en la ley de creación.
+3.º Por la asunción de la totalidad de sus fines y objetivos por parte de la Administración General de la Comunidad Autónoma.
+4.º Por el cumplimiento de los fines y objetivos previstos que pongan de relieve la falta de justificación del organismo.
+5.º Por la falta de idoneidad para la consecución de los objetivos inicialmente previstos puesta de manifiesto en los informes derivados de los sistemas de supervisión continúa.
+6.º Por hallarse incursos durante dos ejercicios presupuestarios consecutivos en situación de desequilibrio financiero.
+7.º Por transformación o fusión en los términos establecidos en esta ley.
+2. La norma por la que se adopta el acuerdo de disolución deberá prever el órgano administrativo o entidad que asumirá las funciones de liquidador y que, salvo previsión en contrario, será un órgano de la Consejería que tenga atribuidas las competencias en materia de Hacienda que adoptará las medidas necesarias para la efectiva disolución del organismo incluyendo, en su caso, las propuestas de corrección de los desequilibrios financieros a efectos de subvenir los compromisos eventualmente pendientes.
+3. La norma que decrete la extinción establecerá también las medidas aplicables al personal del organismo afectado en el marco de la legislación reguladora de dicho personal. Asimismo, determinará la integración en el patrimonio de la Comunidad Autónoma de los bienes y derechos que, en su caso, resulten sobrantes de la liquidación del Organismo, para su afectación a servicios de la Administración General de la Comunidad o adscripción a los organismos públicos que procedan conforme a lo previsto en las disposiciones reguladoras del Patrimonio de la Comunidad ingresándose en la Hacienda Pública de la misma el remanente líquido resultante, si lo hubiere.
+4. La Administración General de la Comunidad Autónoma se subrogará en las relaciones jurídicas de cualquier tipo que tuviera el organismo disuelto, asumiendo las deudas contraídas por este último con sus acreedores. La subrogación no alterará las condiciones financieras de las obligaciones asumidas ni implicará la resolución inmediata de las relaciones jurídicas entabladas por el organismo público disuelto.
+
+## Sección 2
+
+Sección 2.ª Organismos autónomos
+
+### Artículo 102
+
+Artículo 102. Definición.
+1. Los organismos autónomos son organismos públicos con personalidad jurídica, tesorería y patrimonio propios a los que se les encomienda, en régimen de descentralización funcional y autonomía de gestión, la realización de actividades de fomento, prestación de servicios públicos y producción de bienes y servicios de interés general, sean o no susceptibles de contraprestación.
+2. Los organismos autónomos dependen de la Administración General de la Comunidad Autónoma de Cantabria y se adscriben a la Consejería competente por razón de la materia, por su previsión en la norma de creación del mismo.
+3. La dirección estratégica, la evaluación y el control de los resultados de su actividad y el control de eficacia de los organismos autónomos corresponde a la Consejería a la que se adscriban
+Se modifican los apartados 2 y 3 por el art. 5.10 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 103
+
+Artículo 103. Nombramiento de los titulares de los órganos.
+El nombramiento de los titulares de los órganos directivos de los organismos autónomos se regirá por las normas aplicables para el nombramiento de los Directores Generales contenidas en la presente Ley.
+
+### Artículo 104
+
+Artículo 104. Régimen jurídico.
+1. Los organismos autónomos se rigen por esta Ley, así como por lo dispuesto en su ley de creación, sus estatutos, la ley de procedimiento administrativo común, la legislación presupuestaria, la reguladora del patrimonio de las Administraciones públicas, y las demás normas del ordenamiento jurídico-administrativo. En su defecto, será de aplicación el derecho privado.
+2. Salvo que en su ley de creación se establezca otra cosa, los actos y resoluciones dictados por los máximos órganos unipersonales o colegiados de los organismos autónomos en el ejercicio de potestades administrativas ponen fin a la vía administrativa y podrán ser recurridos potestativamente en reposición o ser impugnados directamente ante la jurisdicción contencioso-administrativa.
+
+### Artículo 105
+
+Artículo 105. Régimen del personal y de contratación.
+1. El personal al servicio de los organismos autónomos será funcionario, estatutario o laboral, en los mismos términos que los establecidos para la Administración General de la Comunidad Autónoma y se rige por el Estatuto Básico del Empleado Público, por las demás normas reguladoras de los funcionarios públicos de la Comunidad Autónoma y por la normativa laboral.
+El titular del máximo órgano de dirección del organismo tendrá en materia de personal las atribuciones y facultades que le sean asignadas por la Ley de creación del organismo autónomo y por la legislación específica.
+El organismo autónomo aplicará las instrucciones que sobre el personal funcionario no docente y laboral de régimen ordinario dicten las Consejerías competentes en materia de Presidencia y Hacienda, a la que comunicará los acuerdos y resoluciones que, en ejecución de su ley de creación o sus estatutos, adopte al respecto.
+2. La contratación de los organismos autónomos se rige por la legislación de contratos del sector público. La Ley de creación del organismo autónomo determinará su órgano de contratación, que, como regla, será el máximo órgano de dirección del organismo. Sin perjuicio de lo dispuesto en las leyes de presupuestos, el titular de la Consejería a que se halle adscrito podrá fijar la cuantía a partir de la cual será necesaria su autorización para la celebración de los contratos.
+
+### Artículo 106
+
+Artículo 106. Régimen económico-financiero y patrimonial.
+1. Los organismos autónomos tienen, para el cumplimiento de sus fines, patrimonio propio, distinto del de la Administración General de la Comunidad Autónoma e integrado por el conjunto de bienes y derechos de los que sean titulares.
+La gestión y administración del patrimonio propio, así como la de los bienes y derechos de la Administración General de la Comunidad Autónoma que les sean adscritos para el cumplimiento de sus funciones, se llevará a cabo de conformidad a lo establecido para los organismos autónomos por la legislación reguladora del patrimonio de las Administraciones públicas.
+2. Las fuentes de los recursos económicos de los organismos autónomos son:
+a) Los bienes y valores de su patrimonio propio.
+b) Los productos y rentas de dicho patrimonio.
+c) Las consignaciones que se les asignen en los presupuestos generales de la Comunidad Autónoma.
+d) Las transferencias corrientes o de capital provenientes de la Administración General de la Comunidad Autónoma o de otras entidades públicas.
+e) Las donaciones, legados, patrocinios y otras aportaciones de entidades de derecho privado y de particulares.
+f) Las procedentes de cualesquiera otras vías cuya percepción sea pertinente de acuerdo a su normativa específica.
+
+### Artículo 107
+
+Artículo 107. Régimen presupuestario, de contabilidad y control económico-financiero.
+Los organismos autónomos aplicarán el régimen presupuestario, económico-financiero, de contabilidad y de control establecido en la legislación general presupuestaria y de finanzas, estatal y autonómica.
+
+## Sección 3
+
+Sección 3.ª Entidades públicas empresariales
+
+### Artículo 108
+
+Artículo 108. Definición.
+1. Las entidades públicas empresariales son organismos públicos con personalidad jurídica y patrimonio propios que se financian mayoritariamente con ingresos de mercado y a las que se encomienda, en régimen de descentralización funcional y autonomía en su gestión, el ejercicio de potestades administrativas, la realización de actividades prestacionales y la producción de bienes y servicios susceptibles de contraprestación.
+2. Las entidades públicas empresariales dependen de la Administración General de la Comunidad Autónoma de Cantabria y se adscriben a la Consejería competente por razón de la materia, por su previsión en la norma de creación del ente, a la que corresponderá la dirección estratégica, la evaluación de los resultados y el control de eficacia.
+Se modifica el apartado 2 por el art. 5.12 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 109
+
+Artículo 109. Régimen jurídico.
+1. Las entidades públicas empresariales se rigen con carácter general por el derecho privado. No obstante, a la formación de la voluntad de sus órganos, al ejercicio de las potestades administrativas que les sean atribuidas y a los aspectos específicamente señalados al respecto les son de aplicación esta ley, su ley de creación, sus estatutos, la legislación de procedimiento administrativo común, de contratación del sector público y del patrimonio de las Administraciones públicas, así como las demás normas del ordenamiento jurídico-administrativo.
+2. Cuando las entidades públicas empresariales, en los términos señalados en el apartado anterior, ejerciten potestades administrativas y se sometan al régimen jurídico-público, las resoluciones y actos dictados por los máximos órganos unipersonales o colegiados de la entidad ponen fin a la vía administrativa y podrán ser recurridos potestativamente en reposición o ser impugnados directamente ante la jurisdicción contencioso-administrativa. Todo ello salvo previsión legal en contrario.
+
+### Artículo 110
+
+Artículo 110. Ejercicio de potestades administrativas.
+1. Las potestades administrativas atribuidas a las entidades públicas empresariales serán ejercidas por aquellos de sus órganos a los que sus estatutos se refieran expresamente.
+2. No obstante, a los efectos de esta Ley, los órganos de las entidades públicas empresariales no se asimilan en cuanto a su rango administrativo a los órganos de la Administración General de la Comunidad Autónoma, con las salvedades fijadas en sus estatutos.
+
+### Artículo 111
+
+Artículo 111. Régimen del personal.
+1. El personal de las entidades públicas empresariales se rige por el derecho laboral, con las particularidades a que se refiere este artículo. Los funcionarios públicos que eventualmente se les adscriban se rigen por el Estatuto Básico Del Empleado Público y demás normas reguladoras de los funcionarios.
+2. La selección del personal de las entidades públicas empresariales se ajustará a lo establecido en el Estatuto Básico del Empleado Público o norma que lo sustituya y, además a las siguientes reglas:
+a) El nombramiento del personal directivo, cuya determinación efectuarán sus estatutos, se llevará a cabo atendiendo a la experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada.
+b) La selección del resto del personal se producirá en virtud de convocatoria pública, de acuerdo a los principios de igualdad, mérito y capacidad.
+3. La determinación y modificación de las condiciones retributivas del personal directivo y del resto del personal requerirán del informe conjunto, previo y favorable de las Consejerías en materia de Presidencia y Hacienda.
+4. La Consejería competente en materia de Hacienda llevará a cabo, con la adecuada periodicidad, controles específicos acerca de la evolución de los gastos y de la gestión del personal, de conformidad a los criterios establecidos por la misma.
+5. Las leyes de creación fijarán los términos conforme a los que los funcionarios de la Administración General de la Comunidad Autónoma podrán cubrir destinos en las entidades públicas empresariales, con establecimiento de las facultades que en relación a este personal corresponda a la respectiva entidad.
+La entidad pública empresarial aplicará las instrucciones que sobre el personal dicten las Consejerías que tengan atribuidas las competencias en materia de Presidencia y Hacienda, a la que comunicará los acuerdos y resoluciones que, en ejecución de su ley de creación o sus estatutos, adopte al respecto. El Portal de Transparencia publicará el personal adscrito a cada entidad pública empresarial de acuerdo con la normativa de transparencia en la actividad pública.
+
+### Artículo 112
+
+Artículo 112. Contratación.
+1. La contratación de las entidades públicas empresariales se rige por la legislación de contratos del sector público.
+2. La Ley de creación de la Entidad determinará su órgano de contratación, que, como regla, será el máximo órgano de dirección de la entidad. Sin perjuicio de lo dispuesto en las leyes de presupuestos, el titular de la Consejería a que se halle adscrita podrá fijar la cuantía a partir de la cual será necesaria su autorización para la celebración de los contratos.
+3. Los contratos que celebre la entidad pública empresarial tendrán la misma aplicación de la normativa de transparencia que el resto de la Administración General, debiendo publicar los contratos menores de forma trimestral en el Portal de Transparencia.
+
+### Artículo 113
+
+Artículo 113. Régimen económico-financiero y patrimonial.
+1. Las entidades públicas empresariales tienen, para el cumplimiento de sus fines, patrimonio propio, distinto del de la Administración General de la Comunidad Autónoma y del de las restantes entidades del Sector Público Institucional autonómico, integrado por el conjunto de bienes y derechos de los que sean titulares.
+La gestión y administración del patrimonio propio, así como las de los bienes y derechos de la Administración General de la Comunidad Autónoma que les sean adscritos para el cumplimiento de sus funciones, se llevarán a cabo de conformidad a lo establecido en la legislación reguladora del patrimonio de las Administraciones públicas.
+2. La financiación de las entidades públicas empresariales provendrá de los ingresos generados por el desarrollo de su actividad, así como de las siguientes fuentes:
+a) Los bienes y valores de su patrimonio propio.
+b) Los productos y rentas de dicho patrimonio.
+3. Excepcionalmente, cuando así lo prevea la Ley de creación, podrán financiarse con los recursos económicos que provengan de las siguientes fuentes:
+a) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas.
+b) Las donaciones, legados, patrocinios y otras aportaciones de entidades de derecho privado y de particulares.
+c) Las consignaciones asignadas al respecto en los presupuestos generales de la Comunidad Autónoma.
+4. Las entidades públicas empresariales se financiarán mayoritariamente con ingresos de mercado. A estos efectos, se entiende que la financiación mayoritaria proviene de los ingresos de mercado cuando la correspondiente entidad tenga la consideración de productor de mercado de conformidad al Sistema Europeo de Cuentas.
+
+### Artículo 114
+
+Artículo 114. Régimen presupuestario, de contabilidad y control económico-financiero.
+Las entidades públicas empresariales aplicarán el régimen presupuestario, económico-financiero, de contabilidad y de control establecido en la legislación general presupuestaria y de finanzas, estatal y autonómica.
+
+## CAPÍTULO III
+
+Otras entidades de derecho público
+
+### Artículo 115
+
+Artículo 115. Definición y régimen jurídico.
+La Comunidad Autónoma podrá crear por Ley Entidades de Derecho Público vinculadas o dependientes de la Administración General de la Comunidad Autónoma. Dichas entidades se regularán conforme a lo dispuesto en su Ley de creación, sus Estatutos, y la legislación especial de los sectores económicos en los que operen y, supletoriamente y en cuanto sea compatible con su naturaleza y autonomía, por lo dispuesto en esta Ley, en particular lo dispuesto para organismos autónomos, la Ley del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley de Finanzas, la Ley de Contratos del Sector Público y la normativa sobre Patrimonio, así como el resto de las normas de derecho administrativo general y especial que le sea de aplicación. En defecto de norma administrativa, se aplicará el derecho común.
+Se modifica por el art. 5.13 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+## CAPÍTULO IV
+
+Consorcios
+
+### Artículo 116
+
+Artículo 116. Definición, creación y régimen jurídico.
+1. Los consorcios son entidades de derecho público, con personalidad jurídica propia, creadas por varias Administraciones públicas o entidades integrantes del Sector Público Institucional, entre sí o con participación de entidades privadas, para el desarrollo de actividades comunes a todas ellas dentro de sus respectivos ámbitos de atribuciones e intereses.
+2. Los consorcios se crean por convenio suscrito por las correspondientes Administraciones públicas, entidades del Sector Público Institucional y entidades privadas.
+3. La creación de consorcios en los que participen la Administración General de la Comunidad Autónoma y las Entidades del Sector Público Institucional Autonómico se supeditará a los siguientes requisitos:
+a) Autorización de su creación por ley.
+b) Autorización del oportuno convenio por el Gobierno de la Comunidad Autónoma.
+c) Incorporación al convenio de los estatutos, un plan de actuación y una proyección presupuestaria trienal informada favorablemente por la Consejería de Hacienda. El convenio y los estatutos del consorcio, así como sus eventuales modificaciones, se publicarán en el Boletín Oficial de Cantabria.
+4. Los consorcios se regulan por la normativa básica estatal sobre esta materia.
+
+## CAPÍTULO V
+
+Sociedades mercantiles autonómicas
+
+### Artículo 117
+
+Artículo 117. Definición.
+Son sociedades mercantiles públicas aquellas sociedades mercantiles sobre las que recae un control de la Comunidad Autónoma. A estos efectos, se entiende que hay control en los siguientes supuestos:
+a) Cuando la participación directa en el capital social por parte de la Administración General de la Comunidad Autónoma o de alguna de las entidades que integran su Sector Público Institucional, incluidas las sociedades mercantiles, sea superior al cincuenta por ciento. Este porcentaje vendrá referido a la suma de las participaciones de la Administración General de la Comunidad Autónoma y de las demás entidades del Sector Público Institucional.
+b) Cuando la sociedad mercantil se encuentre en los casos previstos al efecto en la legislación sobre el mercado de valores en relación a la Administración General de la Comunidad Autónoma o a cualquiera de las entidades que integran su Sector Público Institucional.
+
+### Artículo 118
+
+Artículo 118. Principios rectores.
+Los titulares del capital social promoverán la eficiencia, la transparencia y el buen gobierno de las sociedades mercantiles autonómicas, a cuyo efecto impondrán las correspondientes buenas prácticas y los oportunos códigos de conducta de acuerdo al objeto social de cada una de ellas, sin perjuicio de la supervisión general en los términos de la legislación reguladora del patrimonio de las Administraciones públicas.
+
+### Artículo 119
+
+Artículo 119. Régimen jurídico y ejercicio de potestades administrativas.
+1. Las sociedades mercantiles autonómicas se rigen por esta ley, por lo establecido en la legislación reguladora del patrimonio de las administraciones públicas y, con carácter general, por el ordenamiento jurídico-privado, salvo en las materias en que les sea de aplicación la normativa presupuestaria, contable, de personal, de control económico-financiero y de contratación.
+2. En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que, excepcionalmente, la Ley pueda atribuirle potestades administrativas. En tal caso su actividad se ajustará al régimen sustantivo en cada caso establecido, así como a la legislación reguladora del procedimiento administrativo común.
+En estos supuestos, las decisiones adoptadas por los órganos supremos de gobierno y dirección de las sociedades mercantiles autonómicas serán recurribles a través del recurso de alzada ante la Consejería a la que la sociedad se halle vinculada o de la que sea dependiente.
+
+### Artículo 120
+
+Artículo 120. Creación y extinción.
+1. La creación de una sociedad mercantil autonómica o la adquisición por una sociedad mercantil de este carácter, en los términos de la legislación societaria, requerirá de aprobación por Decreto del Consejo de Gobierno de la Comunidad Autónoma, que irá acompañado de una propuesta de estatutos y de un plan de actuación. Dicho Plan será propuesto por la Consejería a la que haya de vincularse la Sociedad, deberá contar con el informe favorable de las Consejerías que tengan atribuidas las competencias de Presidencia y de Hacienda y su contenido incluirá, en todo caso, las siguientes determinaciones:
+a) Razones que justifican la creación de la sociedad y acreditación de que no supone duplicidad respecto de la actividad que vengan desarrollando otros órganos o entidades de la Comunidad.
+b) Justificación de forma jurídica y de la estructura organizativa propuestas.
+c) Objetivos generales previstos y programación plurianual que servirá de base para el posterior control de eficacia.
+Por Orden conjunta de las Consejerías con competencia en materia de Presidencia y Hacienda se determinarán los órganos competentes para la emisión de estos informes y el objeto y alcance de los mismos.
+2. Las sociedades mercantiles públicas acomodarán su actividad a las previsiones del plan de actuación, que se actualizará con carácter anual con los presupuestos de explotación y capital, la memoria explicativa de su contenido y el programa de actuación plurianual.
+De dicho plan y de sus modificaciones se dará traslado al Parlamento y se publicará en el Portal de Transparencia.
+3. La liquidación de las sociedades mercantiles públicas recaerá en un órgano de la Administración General de la Comunidad Autónoma o en una entidad integrante del Sector Público Institucional autonómico.
+4. De la creación, constitución o liquidación de una sociedad mercantil pública se dará traslado inmediato al Parlamento de Cantabria, acompañando tal comunicación de toda la documentación obrante en el expediente correspondiente.
+Se modifica por el art. 13.6 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 121
+
+Artículo 121. Responsabilidad de los miembros de los consejos de administración de las sociedades mercantiles autonómicas designados por la Administración General de la Comunidad Autónoma.
+1. La Administración General de la Comunidad Autónoma asumirá de manera directa la responsabilidad en que pudieren incurrir los miembros de los consejos de administración de las sociedades mercantiles autonómicas designados por ella.
+2. En estos supuestos, la Administración General de la Comunidad Autónoma exigirá de los miembros de los consejos de administración, en caso de dolo, o culpa o negligencia grave, el resarcimiento de los daños y la indemnización de los perjuicios irrogados en su patrimonio.
+3. Las mismas previsiones de los apartados anteriores serán de aplicación al empleado público que lleve a cabo las operaciones de liquidación de la sociedad a que se refiere el apartado 3 del artículo 120 de esta Ley.
+
+### Artículo 122
+
+Artículo 122. Tutela de las sociedades mercantiles autonómicas.
+1. El Decreto del Consejo de Gobierno que cree la sociedad mercantil pública atribuirá su tutela a la Consejería que tenga atribuidas las materias que guarden relación con el objeto social de la sociedad.
+2. La Consejería que ejerza las funciones de tutela llevará a cabo el control de eficacia de la actividad desarrollada por la sociedad de acuerdo con el plan de actuación e impartirá las instrucciones oportunas acerca de sus líneas de actuación y su plasmación presupuestaria.
+
+### Artículo 123
+
+Artículo 123. Régimen presupuestario, de contabilidad, control económico-financiero y de personal.
+1. Las sociedades mercantiles autonómicas elaborarán con carácter anual un presupuesto de explotación y capital, y un programa de actuación plurianual de acuerdo con lo establecido en la legislación de finanzas que actualizará el plan de actuación, y que se integrará en los presupuestos generales de la Comunidad Autónoma.
+2. Las sociedades mercantiles autonómicas formularán y rendirán sus cuentas de acuerdo a los principios y normas de contabilidad recogidos en el Código de Comercio, en el Plan General de Contabilidad y en sus disposiciones de desarrollo.
+3. Sin perjuicio de las atribuciones del Tribunal de Cuentas, la gestión económico-financiera de las sociedades mercantiles autonómicas se sujetará al control de la Intervención General de la Administración General de la Comunidad Autónoma.
+4. El personal de las sociedades mercantiles autonómicas, incluido el que tenga la condición de directivo, se regirá por el derecho laboral, así como por las normas que le sean de aplicación en atención a su adscripción al sector público autonómico, en particular las contenidas en la legislación de empleo público, presupuestaria y financiera.
+El régimen específico aplicable a la selección del personal laboral de las sociedades mercantiles autonómicas, se llevará a cabo mediante convocatoria pública, de acuerdo con los principios de igualdad, mérito y capacidad establecidos en el Estatuto Básico del Empleado Público.
+Se modifica por el art. 13.7 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+## CAPÍTULO VI
+
+Fundaciones del Sector Público
+
+### Artículo 124
+
+Artículo 124. Definición y actividades propias.
+1. Son fundaciones del Sector Público Institucional de la Comunidad Autónoma aquellas que reúnan alguno de los siguientes requisitos:
+a) Que se constituyan con una aportación mayoritaria, directa o indirecta, de la Administración General de la Comunidad Autónoma o de alguna de las entidades integrantes del Sector Público Institucional autonómico o reciban dicha aportación con posterioridad a su constitución, siempre que dicha aportación, originaria o sobrevenida, se mantenga, con carácter mayoritario.
+b) Que su patrimonio esté integrado con carácter permanente en más de un cincuenta por ciento por bienes o derechos aportados o cedidos por la Administración General de la Comunidad Autónoma o por entidades integrantes del Sector Público Institucional autonómico.
+2. Son actividades propias de las fundaciones del Sector Público Institucional las llevadas a cabo sin ánimo de lucro para la satisfacción de fines de interés general, ya sea de manera gratuita o mediante contraprestación.
+3. Las fundaciones del Sector Público autonómico no podrán en ningún caso disponer de facultades que impliquen el ejercicio de autoridad pública. Ello, no obstante, excepcionalmente, la Ley puede atribuirles potestades administrativas. En tal caso su actividad se ajustará al régimen sustantivo en cada caso establecido, así como a la legislación reguladora del procedimiento administrativo común.
+En estos supuestos, las decisiones adoptadas por los órganos supremos de gobierno y dirección de las fundaciones del Sector Público Institucional autonómico serán recurribles a través del recurso de alzada ante la Consejería de adscripción.
+4. En la denominación de las fundaciones del sector público autonómico deberá figurar necesariamente la indicación “fundación del sector público” o su abreviatura “F.S.P.”
+5. La financiación de las actividades y el mantenimiento de las fundaciones del Sector Público Institucional autonómico podrá contar con aportaciones del sector privado cuando así se haya previsto expresamente en los estatutos.
+Se modifican los apartados 3 y 4 por el art. 5.14 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 125
+
+Artículo 125. Régimen de adscripción y protectorado de las fundaciones del Sector Público Institucional autonómico.
+1. La adscripción y el protectorado de las fundaciones del Sector Público Institucional autonómico se regulan por lo dispuesto en la normativa estatal sobre esta materia en relación con lo previsto en el artículo 86.3 de esta Ley.
+2. En particular, el protectorado de las fundaciones del Sector Público Institucional autonómico será ejercido por la Consejería competente en materia de Presidencia, que velará por el cumplimiento de los deberes y funciones establecidos en la normativa sobre fundaciones, sin perjuicio del control de eficacia y la supervisión continúa previstos en esta ley.
+Se modifica el apartado 1 por el art. 5.15 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 126
+
+Artículo 126. Régimen jurídico.
+Las fundaciones del Sector Público Institucional autonómico se rigen por esta ley, por la normativa, estatal y autonómica, en materia de fundaciones y, en general, por el ordenamiento jurídico-privado, salvo en lo relativo al régimen presupuestario, contable, de control económico-financiero y de contratación del sector público.
+
+### Artículo 127
+
+Artículo 127. Régimen presupuestario, de contabilidad, control económico-financiero y de personal.
+1. La creación de las fundaciones del Sector Público Institucional autonómico o la adquisición de manera sobrevenida de este carácter se llevará a cabo mediante ley, que establecerá los fines de la fundación y, en su caso, los recursos económicos que le sean atribuidos.
+2. A los efectos de lo previsto en el apartado anterior, el anteproyecto de ley que se eleve al Gobierno de la Comunidad Autónoma irá acompañado de una propuesta de estatutos y de un plan de actuación, en términos similares a lo previsto para los organismos públicos en esta ley. Además, será necesario informe favorable de la Intervención General de la Administración General de la Comunidad Autónoma.
+3. Las fundaciones del Sector Público Institucional autonómico acomodarán su actividad a las previsiones del plan de actuación, que se actualizará con carácter anual con los presupuestos de explotación y capital, la memoria explicativa de su contenido y el programa de actuación plurianual.
+De dicho plan y de sus modificaciones se dará traslado al Parlamento y se publicará en el Portal de Transparencia.
+4. Los estatutos de las fundaciones del Sector Público Institucional autonómico, se aprobarán por Decreto del Consejo de Gobierno, a propuesta conjunta de la Consejería de Hacienda y de la Consejería de adscripción.
+Por acuerdo del Gobierno no podrá modificarse la Consejería a la que inicialmente resulte adscrita la fundación, aun en el caso de que inicialmente se contemplará dicha previsión en la Ley la creación.
+Se modifica el apartado 4 por el art. 6.6 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se modifica por el art. 13.8 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 128
+
+Artículo 128. Estructura organizativa.
+1. La mayoría de los miembros del patronato de las fundaciones del Sector Público Institucional será designada por la Administración General de la Comunidad Autónoma o, en su caso, por una entidad del Sector Público Institucional autonómico.
+2. La Administración General de la Comunidad Autónoma asumirá de manera directa la responsabilidad en que pudieren incurrir los miembros del patronato de las fundaciones del Sector Público Institucional designados por aquélla. En estos supuestos, la Administración General de la Comunidad Autónoma exigirá de los miembros del patronato, en caso de dolo, o culpa o negligencia grave, el resarcimiento de los daños y la indemnización de los perjuicios irrogados en su patrimonio.
+
+### Artículo 129
+
+Artículo 129. Régimen presupuestario, de contabilidad, de control económico-financiero y de personal.
+1. Las fundaciones del Sector Público Institucional autonómico elaborarán con carácter anual un presupuesto de explotación y capital, que se integrará en los presupuestos generales de la Comunidad Autónoma. Asimismo, formularán y rendirán sus cuentas según lo previsto en la normativa sobre fundaciones y de acuerdo a los principios y normas de contabilidad recogidos en la adaptación para las entidades sin fines lucrativos en el Plan General de Contabilidad y sus disposiciones de desarrollo.
+2. El régimen presupuestario, económico-financiero, de contabilidad y de control establecido en la legislación presupuestaria general, estatal y autonómica, será de aplicación a las fundaciones del Sector Público Institucional las cuales quedarán sujetas al control de la Intervención General de la Administración General de la Comunidad Autónoma, sin perjuicio de las atribuciones del Tribunal de Cuentas.
+3. El personal de las fundaciones del Sector Público Institucional, incluido el que tenga la condición de directivo, se regirá por el derecho laboral, así como por las normas que le sean de aplicación en atención a su adscripción al sector público autonómico, en particular las contenidas en la legislación de empleo público, presupuestaria y financiera.
+El régimen específico aplicable a la selección del personal laboral de las fundaciones del Sector Público Institucional, se realizará mediante convocatoria pública de acuerdo con los principios de igualdad, mérito y capacidad.
+
+### Artículo 130
+
+Artículo 130. Fusión, liquidación y extinción.
+1. La modificación de estatutos, fusión, escisión, liquidación y extinción de las fundaciones del Sector Público Institucional autonómico requerirá acuerdo del patronato, previa autorización por Decreto del Consejo de Gobierno a propuesta conjunta de la Consejería de Economía y Hacienda y de la Consejería de adscripción.
+2. En lo no previsto en este artículo será de aplicación lo dispuesto en los artículos 92, 100 y 101 de esta Ley.
+Se modifica el apartado 1 por el art. 6.7 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se modifica el apartado 1 por el art. 13.9 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+## CAPÍTULO VII
+
+Fondos sin personalidad jurídica
+Se añade por el art. 5.16 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 130 bis
+
+Artículo 130 bis. Régimen Jurídico.
+Los fondos sin personalidad jurídica se regirán por lo dispuesto en su Ley de creación; supletoriamente, por la presente Ley y la legislación de finanzas y presupuestos de la Comunidad Autónoma; y finalmente, por la restante legislación estatal y autonómica que les sea de aplicación
+Se añade por el art. 5.16 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+## TÍTULO IV
+
+De la actividad de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria
+
+## CAPÍTULO I
+
+Principios generales de actuación
+
+### Artículo 131
+
+Artículo 131. Principios de funcionamiento.
+1. La Administración General de la Comunidad Autónoma y las Entidades del Sector Público Institucional Autonómico cuando ejerzan potestades administrativas ajustarán su actuación administrativa a las reglas contenidas en la Ley de Procedimiento Administrativo Común, a los contenidos en esta Ley y, en su caso, a lo que al efecto disponga su ley de creación.
+2. La Administración de la Comunidad Autónoma, observará en su actuación los siguientes principios:
+a) Servicio efectivo a los ciudadanos.
+b) Simplicidad, claridad y proximidad al ciudadano.
+c) Participación, objetividad y transparencia de la actuación administrativa.
+d) Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión.
+e) Buena fe, confianza legítima y lealtad institucional.
+f) Responsabilidad por la gestión pública.
+g) Planificación y dirección por objetivos y control de resultados.
+h) Eficacia en el cumplimiento de los objetivos fijados.
+i) Economía, suficiencia y adecuación de los medios a los fines institucionales.
+j) Eficiencia en la asignación y utilización de los recursos públicos.
+k) Cooperación, colaboración y coordinación con las demás Administraciones públicas.
+
+### Artículo 132
+
+Artículo 132. Desarrollo del principio de servicio a los ciudadanos.
+1. La actuación de la Administración de la Comunidad Autónoma de Cantabria debe asegurar a los ciudadanos:
+a) La efectividad, en su ámbito de actuación, de los derechos de los ciudadanos en su relación general con la misma y de los derechos establecidos en la legislación reguladora de los procedimientos, en especial en sus relaciones con las personas con discapacidad asegurando el disfrute efectivo de sus derechos en igualdad de condiciones con el resto de ciudadanos.
+b) La continua mejora de los procedimientos, servicios y prestaciones públicas de acuerdo con las políticas fijadas por el Gobierno y teniendo en cuenta los recursos disponibles, determinando al respecto las prestaciones que proporcionan los servicios autonómicos, sus contenidos y los correspondientes estándares de calidad.
+2. La Administración de la Comunidad Autónoma de Cantabria desarrollará su actividad y organizará las dependencias administrativas de manera que los ciudadanos puedan:
+a) Resolver sus asuntos y ser auxiliados en la redacción formal de documentos administrativos.
+b) Recibir información de interés general por medios telefónicos, informáticos y telemáticos.
+c) Presentar reclamaciones sin el carácter de recursos administrativos, sobre el funcionamiento de las dependencias administrativas.
+3. Todas las Consejerías mantendrán permanentemente actualizadas y a disposición de los ciudadanos, tanto en las oficinas de información y asistencia en materia de registro como en el portal web correspondiente, el esquema de su organización y el de las entidades vinculadas o dependientes de ellas, la guía de información general al administrado y la de expedientes administrativos aplicables en el ámbito de la Comunidad Autónoma de Cantabria, así como las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración de los mismos y de los efectos que produzca el silencio administrativo.
+4. Cuando se trate de procedimientos y trámites relativos al acceso o ejercicio de una actividad de servicios la Administración, habilitará un sistema de ventanilla única, por vía electrónica y a distancia, que permita a los prestadores de servicios:
+a) Obtener toda la información y formularios necesarios para el acceso a su actividad y su ejercicio.
+b) Presentar toda la documentación y solicitudes necesarias.
+c) Conocer el estado de tramitación de los procedimientos en que tengan la condición de interesado y recibir la correspondiente notificación de los actos de trámite preceptivos y la resolución de los mismos por el órgano administrativo competente.
+5. En los procedimientos relativos al acceso a una actividad de servicios y su ejercicio, los ciudadanos tienen derecho a realizar la tramitación a través de una ventanilla única, por vía electrónica y a distancia, y a la obtención de la información prevista en la legislación básica estatal, que deberá ser clara e inequívoca.
+
+### Artículo 133
+
+Artículo 133. Del principio de publicidad.
+1. La actuación de la Administración de la Comunidad Autónoma se realizará con el máximo respeto al principio de publicidad, con el objeto de garantizar la efectividad de los derechos que la legislación atribuye a los ciudadanos.
+2. Corresponde al órgano competente por razón de la materia, apreciar la necesidad de que determinados documentos, por afectar a la intimidad de las personas, deban tener un conocimiento y una difusión restringidos de acuerdo con las exigencias de cada procedimiento.
+
+### Artículo 134
+
+Artículo 134. Registro Electrónico General y Oficinas de Asistencia en materia de Registro.
+1. Para la debida constancia de cuantos escritos, documentos y comunicaciones oficiales se presenten o reciban en los distintos órganos y unidades de la Administración de la Comunidad Autónoma de Cantabria se crea un Registro Electrónico General, adscrito a la Consejería que tenga atribuidas las competencias en materia de Presidencia. Reglamentariamente se determinará su contenido y funcionamiento. También se deberán anotar en el mismo la salida de documentos oficiales dirigidos a particulares.
+2. El Registro Electrónico General se regulará reglamentariamente debiendo especificar la correspondiente disposición la fecha y hora oficial, así como los días declarados como inhábiles. El texto íntegro de esta disposición deberá estar disponible para su consulta en la sede electrónica de acceso al registro.
+3. En la sede electrónica donde se encuentra el punto de acceso al Registro Electrónico General figurará también la relación actualizada de los trámites que pueden iniciarse en el mismo.
+El Registro Electrónico General cumplirá con las garantías y medidas de seguridad previstas en la legislación en materia de protección de datos de carácter personal y demás normativa de aplicación.
+4. En el Registro Electrónico General se anotarán los asientos respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan. Concluido el trámite de registro, de los documentos, solicitudes, escritos y comunicaciones serán remitidas por comunicación electrónica interna sin dilación a sus destinatarios y a las unidades administrativas correspondientes.
+5. El Registro Electrónico General garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente, si procede, y persona u órgano administrativo al que se envía, y, en su caso, referencia al contenido del documento que se registra. Para ello, se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro, así como un recibo acreditativo de otros documentos que, en su caso, lo acompañen, que garantice la integridad y el no repudio de los mismos.
+6. Las oficinas de asistencia en materia de registro proporcionarán atención presencial a los interesados que pretendan acceder al registro electrónico general.
+La Consejería que tenga atribuidas las competencias en materia de Presidencia regulará reglamentariamente el régimen jurídico del funcionamiento y coordinación organizativa de las oficinas de asistencia en materia de registro de toda la Administración autonómica y, asimismo, hará pública y mantendrá actualizada la relación de estas oficinas y su horario de funcionamiento.
+Las entidades de derecho público vinculadas o dependientes de la Administración autonómica dispondrán de sus propias oficinas de asistencia en materia de registro.
+7. Las Oficinas de Asistencia en materia de Registro deberán digitalizar las solicitudes y los documentos presentados de manera presencial para su incorporación al expediente administrativo electrónico. Los documentos originales se devolverán al interesado salvo en aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización.
+8. Toda solicitud, escrito o comunicación dirigido a cualquier órgano de la Administración de la Comunidad Autónoma de Cantabria podrá presentarse:
+a) En el Registro Electrónico General de la Administración de la Comunidad Autónoma de Cantabria.
+b) En los registros electrónicos de la Administración General del Estado, de las Administraciones de las Comunidades Autónomas, de las entidades que integran la Administración Local, de cualesquiera organismos públicos y entidades vinculados o dependientes de las Administraciones Públicas, así como en los registros de las Universidades públicas.
+c) En las oficinas de correos.
+d) En las representaciones diplomáticas u oficinas consulares de España en el extranjero.
+e) En las oficinas de asistencia en materia de registros.
+f) En cualquier otro lugar que establezcan las disposiciones vigentes.
+Se modifica el apartado 6 por el art. 5.4 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifica el apartado 1 por el art. 6.8 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se modifican los apartados 1, 3, 4 y 6 por el art. 5.17 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 135
+
+Artículo 135. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas.
+1. Las personas físicas podrán elegir en todo momento si se comunican con la Administración de la Comunidad Autónoma de Cantabria a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas. El medio elegido por la persona para comunicarse podrá ser modificado por aquella en cualquier momento.
+2. En todo caso, estarán obligados a relacionarse a través de medios electrónicos con la Administración de la Comunidad Autónoma de Cantabria para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos:
+a) Las personas jurídicas.
+b) Las entidades sin personalidad jurídica.
+c) Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con la Administración de la Comunidad Autónoma de Cantabria en ejercicio de dicha actividad profesional. En todo caso, dentro de este colectivo se entenderán incluidos los notarios y registradores de la propiedad y mercantiles.
+d) Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración.
+e) Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ella por razón de su condición de empleado público, en la forma en que se determine reglamentariamente.
+3. Reglamentariamente, la Administración de la Comunidad Autónoma de Cantabria podrá establecer la obligación de presentar determinados documentos o de relacionarse con ella a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.
+4. Si alguno de los sujetos obligados a relacionarse por medios electrónicos presenta una solicitud u otra documentación presencialmente, la Administración Pública le requerirá al interesado para que lo subsane a través de su presentación electrónica. A estos efectos, se considerará como fecha de presentación de la solicitud o del documento, aquélla en la que haya sido realizada la subsanación.
+5. La Administración asistirá a cualquier persona, física o jurídica, en el uso de medios electrónicos, especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.
+Si alguno de los interesados que no estén obligados a relacionarse con ella a través de medios electrónicos no dispone de los medios electrónicos necesarios, su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello. En este caso, será necesario que el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario y preste su consentimiento expreso para esta actuación, de lo que deberá quedar constancia para los casos de discrepancia o litigio.
+6. La Administración de la Comunidad Autónoma mantendrá actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma electrónica. Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de las citadas habilitaciones.
+En este registro o sistema equivalente, al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
+Se modifica el apartado 5 por el art. 67.7 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 136
+
+Artículo 136. Derecho de acceso a la información pública.
+El derecho de los ciudadanos al acceso a la información pública, archivos y registros de la Administración de la Comunidad Autónoma de Cantabria se acomodará a lo dispuesto en la legislación en materia de transparencia y en el resto del ordenamiento jurídico.
+
+### Artículo 137
+
+Artículo 137. Simplificación de procedimientos.
+1. La tramitación de los procedimientos administrativos se apoyará en la utilización de medios electrónicos, informáticos y telemáticos, con respeto de las garantías y cumplimiento de los requisitos previstos en cada caso por el ordenamiento jurídico.
+2. La actividad material de gestión, referida al funcionamiento interno y a la comunicación entre unidades, se regirá por las instrucciones y órdenes de servicio dictadas por los órganos competentes, con los efectos previstos en la legislación básica.
+3. Las Consejerías y entidades de derecho público procederán a la racionalización y actualización periódica de los procedimientos administrativos, así como de las actividades materiales de gestión interna, y elaborarán los correspondientes manuales, en el marco de las directrices técnicas de la Consejería que tenga atribuidas las competencias en materia de Presidencia.
+
+### Artículo 138
+
+Artículo 138. Principios de la intervención para el acceso o ejercicio de una actividad.
+1. Cuando las Administraciones públicas de Cantabria establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberá elegir la medida menos restrictiva y motivar su necesidad para la protección del interés público, así como justificar su adecuación para lograr los fines que se persiguen, sin que en ningún caso se produzcan diferencias de trato discriminatorias.
+Con carácter general, se deberá escoger la declaración responsable o la comunicación, con la única excepción de los supuestos en los que la normativa de la Unión Europea o del Estado, de aplicación directa o básica, exija autorizaciones o licencias previas.
+2. En aplicación de los principios de necesidad y proporcionalidad y de forma motivada, se mantendrán las autorizaciones o licencias previas en los supuestos recogidos en la normativa de garantía de la unidad de mercado.
+3. Las memorias de análisis de impacto normativo de las disposiciones que regulen cualquier forma de intervención administrativa sobre la actividad de los particulares motivarán específicamente las razones por las que se establezca el régimen de autorización o licencia, declaración responsable o comunicación.
+4. Para la realización de las actividades de certificación, informes y validación, los sujetos incluidos en el ámbito de aplicación de esta ley podrán recurrir a las entidades colaboradoras a las que se refieren los artículos 33 y siguientes de la Ley de Simplificación Administrativa de Cantabria, sin perjuicio, en todo caso, de las potestades de intervención de la Administración.
+Los sujetos incluidos en el ámbito de aplicación de esta ley deberán publicar en sus portales la información necesaria para que los interesados conozcan los requisitos exigibles para la instalación, implantación o ejercicio de cualquier actividad económica, empresarial, profesional, industrial o comercial, de tal forma que puedan presentar las declaraciones responsables y comunicaciones con observancia de todos los requisitos exigibles.
+Se modifica por el art. 67.8 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 139
+
+Artículo 139. Autorización, declaración responsable y comunicación previa.
+1. A los efectos de esta Ley, se entenderá por régimen de autorización cualquier procedimiento en virtud del cual el prestador o destinatario está obligado a obtener un pronunciamiento previo de la Administración Pública sobre el cumplimiento de los requisitos previstos en las disposiciones vigentes para el reconocimiento de un derecho o facultad o para su ejercicio.
+2. A los efectos de esta Ley, se entenderá por declaración responsable el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para acceder al reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante el periodo de tiempo inherente a dicho reconocimiento o ejercicio.
+Los requisitos a los que se refiere el párrafo anterior deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable.
+3. A los efectos de esta Ley, se entenderá por comunicación aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos y demás requisitos exigibles para el ejercicio de un derecho o el inicio de una actividad.
+4. Las declaraciones responsables y las comunicaciones previas producirán los efectos que se determinen en cada caso por la legislación correspondiente y permitirán, con carácter general, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tenga atribuidas la Administración Pública.
+No obstante, lo dispuesto en el párrafo anterior, la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad, cuando la legislación correspondiente lo prevea expresamente.
+5. La presentación de la declaración responsable o de la comunicación faculta a la Administración Pública para comprobar, en cualquier momento, la veracidad de todos los documentos, datos y cumplimiento de los requisitos por cualquier medio admitido en Derecho. A tal efecto, se impulsará la función inspectora de los órganos competentes, al objeto de comprobar la veracidad de los datos declarados y de instar, si procede, la potestad sancionadora.
+6. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a una declaración responsable o a una comunicación, o la no presentación ante la Administración competente de la declaración responsable o comunicación, determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.
+Asimismo, la resolución que declare tales circunstancias, podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente, así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un periodo de tiempo determinado, todo ello conforme a los términos establecidos en las normas sectoriales de aplicación.
+7. Las Administraciones Públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación que en todo caso se podrán presentar a distancia y por vía electrónica.
+8. Para el inicio de una misma actividad o la obtención del reconocimiento de un mismo derecho o facultad para su ejercicio solamente se podrá exigir bien una declaración responsable, bien una comunicación, pero no acumulativamente ambos documentos.
+
+### Artículo 140
+
+Artículo 140. Aportación de datos y documentos a los procedimientos administrativos.
+1. Las normas reguladoras de los procedimientos administrativos no podrán exigir a los interesados la presentación de documentos que no sean estrictamente necesarios para el cumplimiento del fin que persiguen.
+2. La normativa reguladora de cada procedimiento concretará, en todo caso, el momento idóneo para la aportación de la documentación por parte de los interesados, exigiéndola únicamente a quienes resulte estrictamente necesario.
+3. A fin de poder obtener la documentación que el interesado no está obligado a aportar de acuerdo con lo establecido en la legislación básica, los órganos gestores recabarán electrónicamente, a través del sistema de información de intercambio de datos en entorno cerrado o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto, los datos o documentos necesarios para la resolución del procedimiento, salvo que el interesado se opusiera a ello, en los términos y con los efectos regulados en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas.
+4. En el caso de que en el procedimiento a tramitar electrónicamente se requiera la aportación de escrituras notariales, el interesado deberá aportar la certificación registral electrónica correspondiente o al menos expresar el código seguro u otro sistema de acceso y verificación del documento electrónico.
+Se modifica por el art. 67.9 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 141
+
+Artículo 141. Plazo máximo para resolver y notificar.
+1. De conformidad con lo establecido en la legislación básica, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Como regla general, en todos los procedimientos de competencia de la Administración de la Comunidad Autónoma de Cantabria, el plazo máximo en el que debe notificarse la resolución expresa será de tres meses, salvo en los procedimientos cuyo plazo máximo para resolver y notificar se establezca por norma estatal con rango de ley o por norma de Derecho de la Unión Europea o de Derecho Internacional aplicable en España, o se trate de los procedimientos relacionados en el anexo I de la presente ley.
+2. Excepcionalmente, podrá establecerse un plazo superior, de hasta seis meses, mediante norma con rango de ley por razones imperiosas de interés general. La memoria justificativa de la norma con rango de ley deberá concretar expresamente las razones de interés general que justifiquen el plazo que se proponga establecer, especificando los daños para los intereses generales ponderándolos con los legítimos intereses de sus destinatarios.
+Se modifica por el art. 67.10 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 142
+
+Artículo 142. Silencio administrativo positivo.
+1. En todos los procedimientos de competencia de la Administración de la Comunidad Autónoma de Cantabria iniciados a solicitud del interesado, el vencimiento del plazo máximo sin haberse notificado la resolución le legitima para entenderla estimada por silencio administrativo salvo en aquéllos cuyos efectos desestimatorios vengan establecidos por una ley estatal o de Derecho de la Unión Europea o de Derecho internacional que resulte de aplicación, o los relacionados en el anexo II de la presente ley.
+2. Excepcionalmente podrá también establecerse el sentido desestimatorio del silencio mediante norma con rango de ley por razones imperiosas de interés general. La memoria justificativa de la norma con rango de ley deberá concretar expresamente las razones de interés general que justifiquen el sentido desestimatorio del silencio, especificando los daños para los intereses generales ponderándolos con los legítimos intereses de sus destinatarios.
+Se modifica por el art. 67.11 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+## CAPÍTULO II
+
+De las Resoluciones Administrativas
+
+### Artículo 143
+
+Artículo 143. Resoluciones.
+1. Adoptarán la forma de Resoluciones o Acuerdos los actos administrativos de carácter particular, los que decidan cuestiones planteadas por los interesados y todos los que resuelvan expedientes administrativos, recursos y reclamaciones.
+2. Las resoluciones o acuerdos del Consejo de Gobierno y del Presidente de la Comunidad Autónoma de Cantabria que no tengan naturaleza normativa podrán adoptar la forma de Decretos, que serán publicados en todo caso en el «Boletín Oficial de Cantabria», sin que ello suponga su consideración como disposición de carácter general.
+3. Las resoluciones o acuerdos de los Consejeros que no tengan naturaleza normativa podrán adoptar la forma de Órdenes, que serán publicadas en todo caso en el «Boletín Oficial de Cantabria», sin que ello suponga su consideración como disposición de carácter general.
+4. Las resoluciones y acuerdos que dicte y adopte la Administración autonómica, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose al procedimiento establecido.
+
+### Artículo 144
+
+Artículo 144. De la ejecución de los actos administrativos.
+El procedimiento para la ejecución forzosa se llevará a efecto por la Consejería competente por razón de la materia objeto del acto, o en su caso, por los órganos que tengan atribuida esta competencia por razón de la especialidad del procedimiento, de conformidad con de los preceptos contenidos en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas.
+
+## CAPÍTULO III
+
+Anulación, revisión y revocación de actos y disposiciones
+
+## Sección 1
+
+Sección 1.ª Principio general
+
+### Artículo 145
+
+Artículo 145. Remisión a la legislación estatal del Procedimiento Administrativo Común.
+La anulación, revisión y revocación de los actos y disposiciones en vía administrativa se regirá por lo establecido en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de las especialidades propias derivadas de la organización de la Administración de la Comunidad Autónoma de Cantabria que se regulan en la presente Ley.
+
+## Sección 2
+
+Sección 2.ª Recursos administrativos
+
+### Artículo 146
+
+Artículo 146. Principio general.
+1. Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualesquiera de los motivos de nulidad o anulabilidad previstos en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas.
+2. Contra los actos firmes en vía administrativa sólo procederá el recurso extraordinario de revisión cuando concurran alguna de las circunstancias previstas en la Ley de Procedimiento Administrativo Común.
+
+### Artículo 147
+
+Artículo 147. Fin de la vía administrativa.
+1. En la Administración de la Comunidad Autónoma de Cantabria ponen fin a la vía administrativa:
+a) Todos los actos y las resoluciones dictadas por el Presidente de la Comunidad Autónoma, por el Consejo de Gobierno y por sus Comisiones Delegadas.
+b) Los actos de los Consejeros.
+c) Los actos de todos los órganos administrativos cuando resuelvan recursos de alzada.
+d) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
+e) Las demás resoluciones a las que se refiere la Ley del Procedimiento Administrativo Común y aquellas otras en las que una disposición legal o reglamentaria así lo establezca.
+2. Los actos y las resoluciones emanadas de órganos colegiados, excepto los del Consejo de Gobierno, se considerarán a efectos de la interposición de recursos, como dictados por su Presidente.
+3. En los organismos públicos y entidades derecho público vinculados o dependientes de la Administración de la Comunidad Autónoma de Cantabria, ponen fin a la vía administrativa los actos emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa.
+
+### Artículo 148
+
+Artículo 148. Recurso de alzada.
+1. Las resoluciones y actos de los órganos de la Administración de la Comunidad Autónoma de Cantabria a que se refiere el apartado 1 del artículo 146 que no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior del que los dictó.
+Asimismo, procede el recurso de alzada contra las resoluciones de los órganos internos de los organismos públicos excepto los emanados de los máximos órganos de dirección unipersonales o colegiados, que agotarán la vía administrativa salvo que por ley se disponga otra cosa, en cuyo caso la alzada impropia procederá ante los titulares de las Consejerías a las que se adscriba o vincule el organismo de que se trate.
+En el caso de que una Ley atribuya a las sociedades mercantiles o fundaciones autonómicas el ejercicio de potestades administrativas, las decisiones adoptadas por sus máximos órganos de gobierno serán recurribles en alzada ante el titular de la Consejería a la que la sociedad o fundación se halle vinculada o de la que dependa.
+2. El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.
+Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente. El titular del órgano que dictó el acto recurrido será responsable directo del cumplimiento de lo previsto en el párrafo anterior.
+3. Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en la legislación básica estatal.
+4. A estos efectos tendrán la consideración de órgano superior.
+a) Los Consejeros respecto de los actos de los Secretarios Generales y Directores Generales.
+b) Los Secretarios Generales y Directores Generales en virtud de su competencia material, respecto de los actos dictados por las unidades administrativas que de ellos dependan.
+5. Los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.
+6. La jerarquía en el resto de los órganos administrativos vendrá determinada por las disposiciones de su estructura orgánica.
+
+### Artículo 149
+
+Artículo 149. Recurso potestativo de reposición.
+1. Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado, o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.
+2. Contra la resolución de un recurso de alzada, reposición, extraordinario de revisión o cualquier otro recurso administrativo no podrá interponerse recurso potestativo de reposición.
+3. No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente, o se haya producido la desestimación presunta del recurso de reposición interpuesto.
+
+### Artículo 150
+
+Artículo 150. Recurso extraordinario de revisión.
+1. Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión cuando se den las circunstancias que establece la legislación estatal.
+2. Será competente para conocer del recurso extraordinario de revisión el órgano administrativo que haya dictado el acto o la resolución objeto del recurso.
+
+### Artículo 151
+
+Artículo 151. Reclamaciones económico-administrativas.
+1. Los actos de gestión, liquidación y recaudación de tributos propios de la Comunidad Autónoma de Cantabria y de otros ingresos de Derecho público de la misma, así como los de reconocimiento o liquidación de obligaciones tributarias y cuestiones relacionadas con las operaciones de pago de las mismas realizadas con cargo a la Tesorería General de la Comunidad Autónoma de Cantabria, son susceptibles de reclamación económico-administrativa, sin perjuicio de la posibilidad de interponer previamente con carácter potestativo recurso de reposición en los términos previstos en la legislación específica.
+2. El conocimiento y resolución de las reclamaciones económico-administrativas corresponderá a la Junta Económico-Administrativa.
+3. La composición de la Junta Económico-Administrativa se determinará en función del número y la naturaleza de las reclamaciones y su funcionamiento se ajustará a los principios de legalidad, gratuidad, inmediación y rapidez.
+4. Las resoluciones de la Junta Económico-Administrativa pondrán fin a la vía administrativa y serán recurribles en vía contencioso-administrativa.
+Se suprime el párrafo segundo del apartado 2 por el art. 5.18 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+## Sección 3
+
+Sección 3.ª Requerimientos previos
+
+### Artículo 152
+
+Artículo 152. Requerimientos previos.
+1. En los litigios entre Administraciones públicas no cabe interponer recurso en vía administrativa. No obstante, cuando la Administración de la Comunidad Autónoma de Cantabria interponga recurso contencioso-administrativo contra otra, el Gobierno, a propuesta motivada de la Consejería o Consejerías afectadas, y previo informe de la Dirección General del Servicio Jurídico, podrá requerirla previamente para que derogue la disposición, anule o revoque el acto, haga cesar o modifique la actuación material o inicie la actividad a que esté obligada.
+2. El Gobierno será el órgano competente para conocer de los requerimientos que otras Administraciones dirijan a la Administración de la Comunidad Autónoma de Cantabria. Los acuerdos en esta materia serán adoptados por el Gobierno a propuesta motivada de la Consejería o Consejerías afectadas, y previo informe de la Dirección General del Servicio Jurídico.
+
+## Sección 4
+
+Sección 4.ª Revisión de oficio de actos y disposiciones
+
+### Artículo 153
+
+Artículo 153. Revisión de oficio de actos y disposiciones nulos.
+1. Corresponde al órgano autor del acto o disposición incoar el procedimiento de revisión de oficio, así como tramitar, en su caso, las solicitudes de los interesados.
+2. Corresponde en todo caso al Gobierno resolver los procedimientos de revisión de oficio de disposiciones y actos nulos.
+3. En el caso de las entidades de derecho público corresponde al Gobierno resolver los procedimientos de revisión de oficio de los actos y disposiciones dictadas por el máximo órgano de dirección unipersonal o colegiada. En otro caso, la resolución corresponde a los máximos órganos rectores de la entidad.
+
+### Artículo 154
+
+Artículo 154. Declaración de lesividad.
+1. Los procedimientos para declarar la lesividad de los actos anulables serán incoados por el órgano autor del acto.
+2. La declaración previa de lesividad para los actos anulables se adoptará siempre por el Gobierno.
+
+## Sección 5
+
+Sección 5.ª Revocación de actos y rectificación de errores
+
+### Artículo 155
+
+Artículo 155. Revocación y rectificación.
+La revocación de los actos de gravamen o desfavorables y la rectificación de los errores materiales, de hecho, o aritméticos corresponderá al propio órgano administrativo que haya dictado el acto.
+
+## CAPÍTULO IV
+
+De la potestad sancionadora y la responsabilidad patrimonial
+
+### Artículo 156
+
+Artículo 156. Régimen de la potestad sancionadora y especialidades en materia del procedimiento de naturaleza sancionadora.
+1. El ejercicio por la Administración de la Comunidad Autónoma de Cantabria de la potestad sancionadora, se ajustará a los principios de legalidad, irretroactividad, tipicidad, responsabilidad, proporcionalidad, prescripción y de no concurrencia de sanciones previstos en la Ley 40/2015, de 1 de octubre, y el procedimiento administrativo a lo establecido en la Ley 39/2015, de 1 de octubre, sin perjuicio del desarrollo normativo y de las peculiaridades previstas en la Ley.
+2. Cuando la sanción prevista en la legislación sectorial tenga carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario, pero se ha justificado la improcedencia de la segunda, el pago voluntario en cualquier momento anterior a la resolución implicará la terminación del procedimiento sancionador de conformidad con lo dispuesto en la normativa básica estatal del procedimiento administrativo. A tal efecto, el instructor del expediente, comunicará al interesado junto con el acuerdo de incoación, las reducciones que correspondan que serán, como mínimo, del veinte por ciento sobre el importe total de la sanción prevista, advirtiéndole que una vez realizado el pago voluntario de la multa se tendrá por concluido el procedimiento sancionador sin necesidad de dictar resolución expresa, empezando a contar desde el día siguiente a aquél en que tenga lugar el pago el plazo para interponer el recurso contencioso-administrativo.
+3. Sin perjuicio de lo que eventualmente puedan prever las leyes sectoriales aplicables, el plazo máximo que la Administración tendrá para resolver y notificar cualquier procedimiento sancionador ordinario será de seis meses, salvo que una norma reglamentaria de carácter sectorial contemple un plazo menor.
+
+### Artículo 157
+
+Artículo 157. Vinculación con el orden jurisdiccional penal.
+1. En cualquier momento del procedimiento sancionador en que los órganos competentes estimen que los hechos también pudieran ser constitutivos de ilícito penal, lo comunicarán al Ministerio Fiscal.
+En estos supuestos, así como cuando los órganos competentes tengan conocimiento de que se está desarrollando un proceso penal sobre los mismos hechos, solicitarán del órgano judicial la correspondiente comunicación sobre las actuaciones adoptadas, en la forma dispuesta por la legislación procesal.
+2. Recibida la comunicación, y si se estima que existe identidad de sujeto, hecho y fundamento entre la infracción administrativa y la infracción penal que pudiera corresponder, el órgano competente para la resolución del procedimiento acordará su suspensión hasta que recaiga resolución judicial.
+3. En todo caso, los hechos declarados probados por resolución judicial penal firme vinculan a los órganos administrativos respecto de los procedimientos sancionadores que substancien.
+
+### Artículo 158
+
+Artículo 158. Ejecutoriedad de las resoluciones sancionadoras.
+1. La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa, incluido el potestativo de reposición. En caso de que el infractor interponga recurso administrativo contra la resolución que impone la sanción, ésta no será ejecutiva en tanto no se resuelva de manera expresa el recurso interpuesto.
+2. En el caso de desestimación presunta del recurso administrativo interpuesto contra la resolución por la que se impone la sanción el plazo de prescripción de ésta comenzará a contarse desde el día siguiente a aquel en que se produzca el silencio administrativo.
+
+### Artículo 159
+
+Artículo 159. Especialidades en materia de responsabilidad patrimonial.
+1. Los procedimientos de responsabilidad patrimonial se tramitarán con arreglo a lo dispuesto en la legislación estatal, con las especialidades derivadas de la organización de la Administración de la Comunidad Autónoma de Cantabria.
+2. Sin perjuicio del preceptivo dictamen de la Dirección General del Servicio Jurídico cuando, de acuerdo con su normativa reguladora, éste sea necesario, en los expedientes de responsabilidad patrimonial deberá emitirse informe por el servicio que tenga encomendado el asesoramiento jurídico de la Consejería que haya instruido el procedimiento o de la que dependa el organismo público que lo haya sustanciado.
+3. Cuando la cuantía de las indemnizaciones reclamadas determine que el procedimiento de responsabilidad patrimonial deba ser resuelto por el Gobierno será preceptivo solicitar dictamen del Consejo de Estado.
+4. Los procedimientos de responsabilidad patrimonial serán resueltos por el Consejero respectivo hasta el límite establecido para la contratación respecto de los contratos de obras y por el Gobierno en los demás casos o cuando expresamente se disponga por ley. En las entidades de derecho público la reclamación se resolverá por los órganos a quien corresponda según la norma de creación de los mismos.
+
+## CAPÍTULO V
+
+De los Convenios
+
+### Artículo 160
+
+Artículo 160. Ámbito de aplicación.
+1. Los convenios que suscriba la Administración General de la Comunidad Autónoma de Cantabria y las demás entidades de derecho público integrantes del Sector Público Institucional autonómico con otras Administraciones, con Universidades Publicas, con entidades de derecho público o de derecho privado vinculadas o dependientes de una Administración General o con particulares se rigen, sin perjuicio de lo dispuesto en este Capítulo y en la legislación sectorial que resulte de aplicación, por la legislación estatal en la materia.
+2. Quedan fuera del ámbito de aplicación de este capítulo y se regirán por su normativa específica:
+a) Los convenios patrimoniales y urbanísticos.
+b) Los convenios que tengan por objeto prestaciones propias de los contratos.
+c) Las encomiendas de gestión.
+d) Los acuerdos de terminación convencional de los procedimientos administrativos.
+e) Los protocolos generales.
+f) Los convenios que suscriba la Comunidad Autónoma de Cantabria con otras Comunidades Autónomas para la gestión y prestación de servicios propios.
+g) Los convenios en virtud de los cuales se canalicen subvenciones.
+h) Cualesquiera otros convenios o acuerdos que, atendiendo a su naturaleza singular, cuenten con legislación específica.
+Se modifica el apartado 2 por el art. 67.12 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Artículo 161
+
+Artículo 161. Tipología y denominación.
+Sin perjuicio de lo previsto en la legislación básica estatal, en función de su contenido obligacional, los convenios que suscriba la Administración de la Comunidad Autónoma de Cantabria podrán adoptar la siguiente denominación:
+1. Convenio Marco: acuerdo que tiene por objeto fijar un marco genérico de colaboración, estableciendo incluso acuerdos susceptibles de generar obligaciones jurídicas entre las partes, pero cuya efectividad requiere la posterior formalización de convenios que identifiquen los compromisos concretos que adquieren las partes.
+2. Convenio: acuerdo en virtud del cual se asumen, con efectos jurídicos, compromisos concretos para la realización de actuaciones determinadas dentro del ámbito de competencia o actuación propio de las partes.
+
+### Artículo 162
+
+Artículo 162. Contenido de los convenios.
+Sin perjuicio de lo previsto en la legislación estatal de régimen jurídico del sector público, los convenios deberán incluir las siguientes cuestiones:
+a) Duración determinada, que no podrá ser superior a cinco años, cuando se trate de convenios. Esta previsión no será de aplicación para los convenios marco cuya vigencia será la prevista en el propio instrumento.
+b) La posibilidad, en su caso, de acordar la prórroga del convenio hasta cinco años adicionales. En ausencia de previsión específica al respecto se entenderá que no es posible su prórroga.
+c) Causas de resolución, así como identificación del órgano competente para autorizar y suscribir, en su caso, la resolución del correspondiente convenio.
+
+### Artículo 163
+
+Artículo 163. Competencia y eficacia.
+1. Corresponde al Gobierno autorizar la celebración de los convenios en los términos previstos en el art. 21.o) de esta Ley.
+2. La firma de los convenios corresponde al Presidente o miembro del Gobierno en quien delegue. No obstante, la autorización prevista en el apartado anterior podrá determinar el titular del órgano a quien corresponde la firma del convenio.
+3. La eficacia de los convenios quedará supeditada a su publicación en el “Boletín Oficial de Cantabria” debiendo inscribirse en todo caso en el Registro Electrónico Autonómico de Convenios en el plazo de quince días desde su suscripción. No obstante, cuando se trate de convenios suscritos con la Administración General del Estado o alguno de sus organismos públicos o entidades de derecho público vinculadas o dependientes, y sin perjuicio de su publicación en el “Boletín Oficial de Cantabria”, su eficacia se sujetará a lo establecido en el artículo 48.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se modifica el apartado 3 por el art. 6.9 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 164
+
+Artículo 164. Trámites y requisitos preceptivos para la suscripción de los convenios.
+1. La preparación de los convenios a que se refiere este Capítulo, estará integrada, además de por los que con carácter preceptivo prevea la legislación estatal y autonómica en la materia, por los siguientes documentos:
+a) Memoria justificativa en la que se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión, así como el cumplimiento de lo previsto en la legislación estatal y autonómica.
+b) Los informes preceptivos que establezca la normativa sectorial.
+c) Informe del servicio jurídico de la Consejería o Consejerías competentes por razón de la materia, o a la que se adscriba la entidad de derecho público afectada.
+d) Informe de la Dirección General del Servicio Jurídico salvo que el instrumento convencional se acomode a un modelo previamente informado por el citado órgano, en cuyo caso, el informe tendrá carácter facultativo.
+e) Fiscalización de la Intervención si del instrumento convencional se derivan obligaciones económicas, salvo en los supuestos en los que resulte aplicable el régimen de control financiero permanente.
+f) Certificación acreditativa de la autorización previa del Consejo de Gobierno expedida por el Consejero-Secretario.
+2. En el caso de convenios y acuerdos de carácter plurianual, la aportación de fondos por la Administración General de la Comunidad Autónoma de Cantabria o las entidades de derecho público del Sector Público Institucional autonómico estará condicionada a la existencia de crédito adecuado y suficiente en los correspondientes presupuestos.
+
+### Artículo 165
+
+Artículo 165. Modificaciones y adendas.
+1. La modificación del convenio, así como cualquier añadido o complemento se llevará a cabo mediante adenda al mismo.
+2. La adenda requerirá la misma tramitación que la firma del convenio originario salvo que no suponga modificaciones sustanciales del mismo.
+Se consideran modificaciones sustanciales, en todo caso, aquellas que supongan una mayor colaboración financiera para la Administración de la Comunidad Autónoma.
+3. La adenda que no implique modificaciones sustanciales podrá ser suscrita por el órgano firmante del convenio, previo informe del servicio jurídico de la Consejería competente o, a la que se adscriba la entidad de derecho público afectada, dando posterior comunicación al Gobierno.
+
+## CAPÍTULO VI
+
+De la contratación
+
+### Artículo 166
+
+Artículo 166. Régimen.
+Los contratos que celebre la Administración General y el Sector Publico Institucional de la Comunidad Autónoma se regirán por la legislación básica del Estado y por la normativa autonómica de desarrollo de la misma.
+
+### Artículo 167
+
+Artículo 167. Órganos de contratación.
+1. Los Consejeros son los órganos ordinarios de contratación de la Administración General de la Comunidad Autónoma de Cantabria, sin perjuicio de las facultades que en esta materia tiene atribuidas el Gobierno, y están facultados para celebrar en su nombre los contratos en el ámbito de su competencia.
+2. La ley de creación de las entidades de derecho público determinará los órganos de contratación de sus respectivos entes, pudiendo fijar los titulares de las Consejerías a que se hallen adscritos la cuantía a partir de la cual será necesaria su autorización para la celebración de los contratos.
+
+### Artículo 168
+
+Artículo 168. Autorización del Gobierno.
+1. Será necesaria la autorización del Gobierno para la celebración de los contratos, en los siguientes supuestos:
+a) Cuando el presupuesto fuera indeterminado, siempre que no impliquen gastos de carácter periódico o de tracto sucesivo.
+b) Cuando el valor estimado del contrato sea superior a la cantidad que se fije en las Leyes de Presupuestos de la Comunidad Autónoma de Cantabria.
+2. No será necesaria la autorización del Gobierno, en los siguientes supuestos:
+a) Cuando, de acuerdo al artículo 47 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, el Gobierno haya aprobado el compromiso de carácter plurianual para la tramitación del contrato.
+b) Cuando se trate de contratos basados y contratos específicos derivados de acuerdos marco y sistemas dinámicos de adquisición, respectivamente, los cuales hayan sido autorizados previamente por Consejo de Gobierno por el supuesto recogido en el apartado 1.b anterior.
+La autorización del Consejo de Gobierno en relación con los contratos del Servicio Cántabro de Salud se regirá por su normativa específica.
+3. En los contratos que, de acuerdo con lo previsto en los párrafos anteriores, requieran la autorización del Gobierno, ésta se producirá con carácter previo a la aprobación del expediente de contratación que, al igual que la aprobación del gasto, corresponderá al órgano de contratación.
+4. El Gobierno podrá reclamar discrecionalmente el conocimiento y autorización de cualquier otro contrato. Igualmente, el órgano de contratación podrá elevar un contrato no comprendido en los supuestos precedentes a la consideración del Gobierno.
+5. Cuando el Gobierno autorice la celebración del contrato deberá autorizar igualmente su modificación siempre que ésta implique un incremento del gasto o se altere el número de anualidades, y su resolución, pero no su prórroga, salvo que esta última suponga incremento de gasto.
+6. Las facultades de contratación podrán ser objeto de desconcentración mediante decreto aprobado por el Consejo de Gobierno.
+7. El régimen de autorizaciones exigibles a los contratos privados patrimoniales se rige por lo dispuesto en la legislación del Patrimonio de la Comunidad Autónoma.
+Se modifica el apartado 5 por el art. 67.13 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+ Se modifica por el art. 6.10 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+
+### Artículo 169
+
+Artículo 169. Aprobación de pliegos.
+1. Corresponde al Gobierno, previo informe de la Dirección General del Servicio Jurídico, y del Consejo de Estado u órgano autonómico equivalente, por este orden, la aprobación de los pliegos de cláusulas administrativas generales.
+2. Asimismo, le corresponde al Gobierno la aprobación de los pliegos de prescripciones técnicas generales, los de cláusulas administrativas particulares en los que se proponga la inclusión de estipulaciones contrarias a las previstas en aquéllos, así como la aprobación de modelos tipo de pliegos de cláusulas administrativas particulares, y de contratos tipo de general aplicación a los contratos de naturaleza análoga.
+3. Corresponde a los Consejeros, previo informe de la unidad de asesoramiento jurídico de su Consejería respectiva, la aprobación de los pliegos de cláusulas administrativas particulares que hayan de servir de base a cada contrato, salvo que se utilicen modelos tipo en cuyo caso no será necesario informe jurídico.
+4. Corresponde a los Consejeros aprobar los proyectos técnicos y los pliegos de prescripciones técnicas particulares.
+5. Las entidades de derecho público, ejercerán las competencias a que se refieren los apartados precedentes de conformidad con su normativa reguladora.
+
+### Artículo 170
+
+Artículo 170. Competencias procedimentales.
+1. Corresponden a la Consejería o entidad de derecho público competente por razón de la materia, a través del órgano que tenga asignada la función, las actuaciones administrativas preparatorias del contrato, su adjudicación, la ejecución del mismo, su seguimiento y su control, así como todos los trámites hasta la liquidación del contrato y autorización de la devolución de las garantías que, en su caso, se hubieran constituido.
+2. Corresponde a la Consejería que tenga atribuidas las competencias en materia de Presidencia, a través de los órganos que tengan asignada la función, la tramitación de los expedientes de contratación y de los expedientes correspondientes a la adjudicación, suspensión, modificación y extinción de los contratos que se liciten a través de la Mesa de Contratación común para la Administración General de la Comunidad Autónoma de Cantabria, sin perjuicio de los trámites que correspondan a los órganos de las Consejerías u organismos públicos promotores de la contratación.
+Se modifica por el art. 5.5 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Esta modificación se aplicará a los procedimientos de contratación ya iniciados a la entrada en vigor de la citada ley, según establece su disposición transitoria primera.
+
+### Artículo 171
+
+Artículo 171. Contratos menores.
+1. Quedan exceptuados de lo previsto en el artículo anterior los denominados contratos menores, definidos así por su cuantía, que será la que establezca el Gobierno, dentro siempre de los límites máximos que fije la legislación estatal sobre contratación pública. La tramitación del expediente corresponderá a los Secretarios Generales de las distintas Consejerías que tengan competencia por razón de la materia.
+2. La tramitación del expediente en las entidades de derecho público corresponderá a los órganos determinados por su normativa reguladora.
+3. Los contratos menores serán publicados conforme establecen la normativa de contratos del sector público y sobre transparencia.
+Se modifica el apartado 3 por el art. 5.19 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Artículo 172
+
+Artículo 172. Garantías.
+1. La prestación de garantías por los licitadores y adjudicatarios de los contratos se realizará en las formas previstas en la legislación de contratos del Sector público y se constituirán en la Tesorería General a disposición de la Comunidad Autónoma de Cantabria.
+2. Por resolución del órgano de contratación se autorizará la devolución de las garantías cuando legalmente proceda.
+Se modifica el apartado 2 por el art. 5.6 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Esta modificación se aplicará a los procedimientos de contratación ya iniciados a la entrada en vigor de la citada ley, según establece su disposición transitoria primera.
+
+### Artículo 173
+
+Artículo 173. Formalización de contratos.
+Cada órgano de contratación será el facultado para formalizar todos los contratos que correspondan al ámbito de su competencia.
+
+### Artículo 174
+
+Artículo 174. Registro público de contratos.
+La Consejería que tenga atribuidas las competencias en materia de Presidencia gestionará un registro público de los contratos que celebre tanto la Administración como las Entidades del Sector Público Institucional de la Comunidad Autónoma de Cantabria y dará cuenta de los contratos celebrados, de sus modificaciones, prórrogas o variaciones de plazo y de su extinción en los términos establecidos en la legislación contractual del sector público y demás que resulte aplicable. Su contenido será publicado en el Portal de Transparencia.
+
+### Artículo 175
+
+Artículo 175. Contratación centralizada.
+1. El Gobierno de la Comunidad Autónoma de Cantabria promoverá la contratación centralizada. Así podrá declarar la contratación centralizada de los suministros, obras y servicios que se contraten de forma general y con características esencialmente homogéneas por los órganos y entidades del sector público autonómico.
+2. El acuerdo por el que se declare la contratación centralizada determinará tanto la clase de bienes, obras o servicios a que se refiere como los órganos y entidades del sector público autonómico cuyas necesidades se trata de satisfacer.
+3. La Consejería que tenga atribuidas las competencias en materia de Presidencia operará como central de compras, salvo que en el acuerdo previsto en el apartado anterior se prevea otra cosa, correspondiendo la financiación de los contratos al organismo peticionario.
+
+### Artículo 176
+
+Artículo 176. Prerrogativas de la Administración.
+1. Corresponde al órgano de contratación dentro de los límites y con sujeción a los requisitos y efectos señalados en la presente Ley y en la legislación básica, ostentar la prerrogativa de interpretar los contratos administrativos, resolver las dudas que ofrezca su cumplimiento, modificarlos por razones de interés público, acordar su resolución y determinar los efectos de ésta.
+2. Los acuerdos correspondientes pondrán fin a la vía administrativa y serán inmediatamente ejecutivos.
+3. En el correspondiente expediente se dará audiencia al contratista.
+4. En la Administración de la Comunidad Autónoma, los acuerdos a que se refieren los apartados anteriores deberán ser adoptados previo informe de la unidad de asesoramiento jurídico de la Consejería que haya tramitado el procedimiento o de la que dependa la entidad de derecho público que lo haya sustanciado.
+5. No obstante lo anterior, será preceptivo el informe del Consejo de Estado u órgano autonómico equivalente, en los casos previstos en la legislación de contratos del Sector Público.
+6. Los procedimientos de resolución contractual deberán ser instruidos, resueltos y notificados en el plazo máximo de ocho meses.
+Se añade el apartado 6 por el art. 5.7 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Esta modificación se aplicará a los procedimientos no iniciados a la entrada en vigor de la citada ley, según establece su disposición transitoria primera.
+ Se modifica el apartado 4 por el art. 10.3 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 177
+
+Artículo 177. Mesa de Contratación.
+1. Existirá una Mesa de Contratación común para la Administración General de la Comunidad Autónoma de Cantabria, para todas las Consejerías, que ejercerá las funciones que le encomiende la legislación vigente.
+2. La Mesa de Contratación común para la Administración General estará integrada por:
+a) La Presidencia, que ocupará la persona que desempeñe la jefatura de la unidad de contratación de la Consejería de Presidencia o persona en quien delegue de la Secretaría General de la Consejería.
+b) Cuatro vocales, que serán desempeñados por una persona representante del órgano de contratación a que el contrato se refiera; un Letrado de la Dirección General del Servicio Jurídico; una persona representante de la Intervención General designada por su titular, y un funcionario técnico especializado en la materia del contrato, designado por el órgano de contratación de la Consejería al que el contrato se refiera.
+c) La Secretaría, que será desempeñada por una persona funcionaria de la unidad de contratación de la Consejería de Presidencia designado por el jefe de esa unidad.
+Asimismo, la Mesa de Contratación común de la Administración General actuará como Mesa de Contratación del sistema autonómico de contratación centralizada.
+3. A salvo lo dispuesto en la Ley 11/2006, de 17 de julio, de Organización y Funcionamiento del Servicio Jurídico, no podrán formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas los cargos de designación política ni el personal eventual. Podrá formar parte de la Mesa personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente. Tampoco podrá formar parte de las Mesas de contratación el personal que haya participado en la redacción de la documentación técnica del contrato de que se trate.
+Se modifica por el art. 5.8 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+### Artículo 178
+
+Artículo 178. Tramitación de emergencia.
+Los órganos de contratación darán cuenta al Consejo de Gobierno, en el plazo máximo de treinta días, de los acuerdos de contratación que se adopten acudiendo al procedimiento de emergencia.
+En caso de que no exista crédito adecuado y suficiente, una vez adoptados dichos acuerdos, se procederá a su dotación de conformidad con lo establecido en la Ley 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+Se añade por el art. 3 de la Ley 5/2026, de 28 de abril. Ref. BOE-A-2026-10431
+
+### Disposición adicional primera
+
+Disposición adicional primera. Procedimientos administrativos en materia tributaria.
+1. Los procedimientos administrativos en materia tributaria y, en particular, los procedimientos de gestión, liquidación, comprobación, investigación y recaudación de los diferentes tributos se regirán por su normativa específica y, subsidiariamente, por las disposiciones de la presente Ley.
+2. La revisión de actos en vía administrativa en materia tributaria se ajustará a lo dispuesto en la presente Ley, en la Ley General Tributaria y en las disposiciones dictadas en desarrollo y aplicación de las mismas.
+3. Sin perjuicio de lo dispuesto en el apartado anterior, corresponderá:
+a) Al titular de la Consejería competente en materia de Hacienda, resolver sobre la declaración de nulidad de pleno derecho y sobre la declaración de lesividad de actos y actuaciones de aplicación de los tributos y actos de imposición de sanciones tributarias que correspondan a la Administración de la Comunidad Autónoma.
+b) Al titular de la Dirección General competente en materia de Hacienda, declarar la revocación de los actos y actuaciones de aplicación de los tributos y actos de imposición de sanciones tributarias que correspondan a la Administración de la Comunidad Autónoma, salvo que hubiera dictado el acto objeto de la misma, en cuyo caso será el titular de la Consejería que tenga atribuidas las funciones en materia de Hacienda el órgano competente para revocar.
+c) Al Órgano administrativo que dictó el acto objeto de revisión, el reconocimiento del derecho a la devolución de ingresos indebidos derivado del procedimiento previsto en el artículo 221 de la Ley General Tributaria.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Procedimiento de elaboración de estructuras y relaciones de puestos de trabajo.
+Los procedimientos administrativos de elaboración de estructuras y relaciones de puestos de trabajo se regirán por su normativa específica y, subsidiariamente, por las disposiciones de esta Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Órganos colegiados de Gobierno.
+Las disposiciones de la presente Ley relativas a órganos colegiados, incluidas en la Sección 5.ª del Capítulo II del Título II, no son de aplicación ni al Consejo de Gobierno ni a las Comisiones Delegadas del Gobierno, en tanto en cuanto son órganos colegiados del Gobierno de la Comunidad Autónoma de Cantabria.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen jurídico del Servicio Cántabro de Salud.
+Al Servicio Cántabro de Salud le serán aplicables las previsiones de esta Ley, salvo lo dispuesto en el párrafo siguiente.
+El régimen de personal, económico-financiero, patrimonial, presupuestario y contable del Servicio Cántabro de Salud, así como el relativo a la impugnación y revisión de sus actos y resoluciones, será el establecido por su legislación específica, por las leyes anuales de Presupuestos Generales de la Comunidad Autónoma de Cantabria en las materias que sean de aplicación, y supletoriamente por esta Ley.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Competencias procedimentales y mesas de contratación ya constituidas.
+Lo dispuesto en el apartado 2 del artículo 170, en el apartado dos del artículo 172 y en el artículo 177 se entiende sin perjuicio de las competencias procedimentales que corresponden a las Consejerías u organismos públicos en los que existen mesas de contratación ya constituidas a la entrada en vigor de la presente Ley.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Actualización de los Anexos.
+El Gobierno, mediante decreto, procederá a la actualización de los Anexos incluidos en la presente Ley cuando las leyes de la Comunidad Autónoma de Cantabria, o los decretos a los que se refiere la disposición adicional séptima, introduzcan modificaciones en el sentido del silencio o en el plazo en el que debe dictarse y notificarse la resolución expresa en alguno de los procedimientos administrativos.
+Mediante Orden de la Consejería de Presidencia se adecuarán las denominaciones de las consejerías recogidas en los anexos a la reorganización de las consejerías acordadas por el Presidente mediante el Decreto.
+Se añade el segundo párrafo por el art. 5.9 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Habilitación al Gobierno para reducir los supuestos de silencio negativo o desestimatorio.
+Se habilita al Gobierno para proceder, mediante decreto, a la adaptación de los procedimientos en los que el silencio administrativo tiene efectos desestimatorios, a los efectos de otorgarles efectos estimatorios.
+Se exceptúan aquellos supuestos en los que los efectos desestimatorios vengan establecidos por una norma estatal o de Derecho de la Unión Europea o de Derecho internacional que resulte de aplicación a la Comunidad Autónoma de Cantabria.
+En ningún caso se podrán establecer por decreto del Gobierno nuevos supuestos de desestimación por silencio.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Registro Electrónico Autonómico de Convenios.
+1. Se crea el Registro Electrónico Autonómico de Convenios dependiente de la Secretaría General de la Consejería que tenga atribuidas las competencias en materia de Presidencia.
+2. La suscripción, extinción, prórroga o adenda de cualquier convenio, incluido o no en el ámbito de aplicación de esta ley, o acuerdo de cooperación celebrado por la Administración de la Comunidad Autónoma deberá ser comunicada al Registro Electrónico Autonómico de Convenios.
+3. La regulación y funcionamiento de este Registro será objeto de desarrollo reglamentario en el plazo de seis meses desde la entrada en vigor de la presente Ley.
+4. Los órganos responsables de los convenios vigentes disponen del plazo de seis meses, a contar desde la entrada en funcionamiento del presente Registro, para solicitar su inscripción.
+Se modifica el apartado 2 por el art. 67.14 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+
+### Disposición adicional novena
+
+Disposición adicional novena. Especialidades por razón de materia.
+Los procedimientos administrativos regulados en leyes especiales por razón de la materia que no exijan alguno de los trámites previstos en esta Ley o regulen trámites adicionales o distintos se regirán, respecto a éstos, por lo dispuesto en dichas leyes especiales.
+Se añade por el art. 13.10 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Disposición adicional décima
+
+Disposición adicional décima. Planes de actuación de los entes del sector público ya existentes a la entrada en vigor de la Ley.
+Los entes ya existentes a la entrada en vigor de la Ley deberán tener aprobado antes del 31 de agosto de 2022 un plan de actuación inicial fijando las líneas estratégicas sobre las que desenvuelven su actividad y en el que se analice:
+a) La subsistencia de las circunstancias que justificaron la creación de la entidad.
+b) Su forma jurídica y estructura organizativa.
+c) Justificación de la sostenibilidad del organismo con las previsiones presupuestarias que procedan
+d) Objetivos generales previstos, programación plurianual diseñada para su consecución y coste global, incluyendo los gastos de personal.
+Su modificación y actualización se llevará a cabo en los términos establecidos en esta Ley.
+Se añade por el art. 13.11 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Principio de Ruralidad.
+Todos los actos y elaboración de normas del ordenamiento jurídico que han de realizar los órganos y entidades regulados en esta Ley, se realizarán aplicando el Principio de Ruralidad a cada uno de ellos como fórmula para garantizar la posibilidad de aplicación de las mismas en el entorno y medio rural de Cantabria con el fin de favorecer el desarrollo sostenible, el reto demográfico y evitar la despoblación de nuestros pueblos.
+Se añade por el art. 13.12 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Procedimientos iniciados a la entrada en vigor de la Ley.
+A los procedimientos ya iniciados antes de la entrada en vigor de la presente Ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Tramitación y registro de convenios.
+1. Las normas contenidas en esta ley relativas a los convenios suscritos por la Administración General de la Comunidad Autónoma de Cantabria y las demás entidades de derecho público integrantes del Sector Público Institucional autonómico, se aplicarán a los convenios que no hayan sido autorizados a la fecha de su entrada en vigor.
+2. Se mantiene la vigencia del Decreto 108/1995, de 10 noviembre, del Registro Central de Convenios en lo que no se oponga a lo establecido en esta Ley, hasta que se dicten las normas reglamentarias de desarrollo relativas al Registro de Instrumentos Convencionales.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Adaptación de las sociedades mercantiles autonómicas y de las fundaciones del sector público.
+En el plazo de un año a partir de la entrada en vigor de esta Ley, las sociedades mercantiles autonómicas y las fundaciones del sector público se adaptarán a la configuración que de estas entidades se efectúa en la presente Ley.
+Se exceptúan de la obligación de adaptación establecida en el párrafo anterior las fundaciones constituidas con anterioridad a la entrada en vigor de la presente Ley en cuya constitución hubieran participado otras administraciones y en cuyo patronato no exista mayoría de miembros de la Administración autonómica, que se sujetarán al régimen establecido en los pactos de constitución y en los estatutos, sin perjuicio de la sujeción al régimen presupuestario, de control económico-financiero, de contabilidad, intervención y de control financiero cuando tales fundaciones se integren en el sector público de la Comunidad Autónoma de Cantabria.
+En estos casos, la dirección estratégica, la evaluación y el control de los resultados de su actividad y el control de eficacia no corresponderá a la Consejería de adscripción, sino que se seguirá el régimen establecido en los pactos constitutivos y en los estatutos de la fundación.
+Se modifica por el art. 5.11 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Procedimientos de elaboración de disposiciones normativas iniciados a la entrada en vigor de la ley.
+A los procedimientos de elaboración de normas con rango de ley y disposiciones de carácter general ya iniciados a la entrada en vigor de la modificación operada por el apartado cuarto del artículo 5 de la Ley de Medidas Fiscales y Administrativas para 2020 no les será de aplicación la misma, rigiéndose por la normativa anterior.
+Se añade por el art. 5.20 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas derogadas.
+Quedan derogadas todas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en la presente Ley y, especialmente, la Ley de Cantabria 6/2002, de 10 de diciembre, de Régimen Jurídico del Gobierno y de la Administración de la Comunidad Autónoma de Cantabria, la Disposición Adicional Novena bis de la Ley de Cantabria 10/2006, de 17 de julio, de Subvenciones de Cantabria y, el artículo 7 de la Ley de Cantabria 9/2001, de 22 de diciembre, de Medidas Fiscales y Administrativas de la Comunidad Autónoma para el año 2002.
+
+### Disposición final primera
+
+Disposición final primera. Normas de desarrollo y adaptación.
+Se autoriza al Gobierno de Cantabria a dictar cuantas disposiciones reglamentarias sean necesarias para el desarrollo de esta Ley, así como para la adaptación a la misma de los distintos procedimientos administrativos.
+El Gobierno, en un plazo de seis meses, regulará mediante Decreto el régimen de funcionamiento del Consejo de seguimiento de la actividad de los entes del sector público institucional autonómico.
+Se modifica por el art. 5.21 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley de Cantabria 3/2006, de 18 de abril, de Patrimonio de Cantabria.
+El apartado 1 del artículo 2 de la Ley de Cantabria 3/2006, de 18 de abril, de Patrimonio de Cantabria, queda redactado en los siguientes términos:
+«1. La presente Ley es de aplicación al patrimonio de la Administración General de la Comunidad Autónoma de Cantabria, y demás entidades que integran el Sector Público Institucional autonómico, al del Parlamento de Cantabria y al de los órganos estatutarios de la Comunidad Autónoma.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley de Cantabria 10/2006, de 17 de julio, de Subvenciones.
+1. Se añade una nueva letra d), al apartado 1 del artículo 3 de la Ley de Cantabria 10/2006, de 17 de julio, de Subvenciones de Cantabria, con la siguiente redacción:
+«d) Las entidades de derecho privado vinculadas o dependientes de la Administración de la Comunidad Autónoma.»
+2. Se suprime y deroga el apartado 2 del artículo 3 de la Ley de Cantabria 10/2006, de 17 de julio, de Subvenciones de Cantabria.
+3. El apartado 3 del artículo 3 de la Ley de Cantabria 10/2006, de 17 de julio, de Subvenciones de Cantabria, pasa a ser el apartado 2 de ese mismo artículo.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+1. El párrafo e) del apartado 1 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, queda redactado en los siguientes términos:
+«e) Las sociedades mercantiles autonómicas. Son sociedades mercantiles autonómicas aquellas sociedades mercantiles sobre las que recae un control de la Comunidad Autónoma. A estos efectos, se entiende que hay control en los siguientes supuestos:
+– Cuando la participación directa en el capital social por parte de la Administración General de la Comunidad Autónoma o de alguna de las entidades que integran el Sector Público Institucional autonómico, incluidas las sociedades mercantiles, sea superior al cincuenta por ciento. Este porcentaje vendrá referido a la suma de las participaciones de la Administración General de la Comunidad Autónoma y de las demás entidades del Sector Público Institucional autonómico.
+– Cuando la sociedad mercantil se encuentre en los casos previstos al efecto en la legislación sobre el mercado de valores en relación a la Administración General de la Comunidad Autónoma o a cualquiera de las entidades que integran el Sector Público Institucional autonómico.»
+2. El párrafo f) del apartado 1 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, queda redactado en los siguientes términos:
+«e) Las fundaciones del Sector Público Institucional autonómico entendiendo por tales aquellas fundaciones en las que concurran alguna de las siguientes circunstancias:
+– Que se constituyan con una aportación mayoritaria, directa o indirecta, de la Administración General de la Comunidad Autónoma o de alguna de las entidades integrantes del Sector Público Institucional autonómico o reciban dicha aportación con posterioridad a su constitución, siempre que dicha aportación, originaria o sobrevenida, se mantenga con carácter mayoritario.
+– Que su patrimonio fundacional esté integrado con carácter permanente en más de un cincuenta por ciento por bienes o derechos aportados o cedidos por la Administración General de la Comunidad Autónoma o por entidades integrantes del Sector Público Institucional autonómico.»
+3. El párrafo h) del apartado 1 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, pasa a ser el párrafo g) de estos mismos apartado y artículo de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, quedando derogada y sin contenido la letra g) del citado apartado.
+4. Se suprime el inciso «No obstante, su régimen de contabilidad y control quedará sometido en todo caso a lo establecido en dichas normas, sin que les sea aplicables en las citadas materias lo establecido en esta Ley» del apartado 3 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria.
+5. El apartado 4 del artículo 2 de la Ley de Cantabria 14/2006, de 24 de octubre, de Finanzas de Cantabria, queda redactado en los siguientes términos:
+«La Universidad de Cantabria se rige por su legislación específica, aplicándose esta Ley con carácter supletorio. En todo caso, le será de aplicación de manera directa lo establecido en esta Ley en relación al endeudamiento de las entidades de derecho público a que se refiere este artículo.»
+
+### Disposición final quinta
+
+Disposición final quinta. Modificación de la Ley de Cantabria 11/2006, de 17 de julio, de Organización y Funcionamiento del Servicio Jurídico.
+1. Se modifica el apartado f) del artículo 14 que queda redactado en los siguientes términos:
+«f) Recursos administrativos que deban ser resueltos o planteados por el Gobierno.»
+2. Se modifica el apartado h) del artículo 14 que queda redactado en los siguientes términos:
+«h) Las encomiendas de gestión.»
+3. Se modifica el apartado n) del artículo 14 que queda redactado en los siguientes términos:
+«n) En materia de contratación, los pliegos de cláusulas administrativas generales y los proyectos de contratos sometidos al Derecho privado salvo que se utilicen modelos tipo previamente informados por esta Dirección.»
+4. Se modifica el apartado p) del artículo 14 que queda redactado en los siguientes términos:
+«p) Los protocolos, convenios y demás instrumentos, salvo que el convenio o acuerdo se acomode a un modelo previamente informado en cuyo caso el informe tendrá carácter facultativo.»
+5. El apartado s) del artículo 14 pasa a ser el u).
+6. Se incorporan dos nuevos apartados s) y t) en el artículo 14 con la siguiente redacción:
+«s) Los encargos a medio propio previstos en la legislación de contratos.
+t) Las instrucciones internas de contratación de las entidades del Sector Público Institucional que tengan la condición de poder adjudicador.»
+7. El apartado 2 del artículo 24, queda redactado en los siguientes términos:
+«La autorización prevista en el apartado anterior será necesaria también para desistir válidamente de acciones, apartarse de querellas o allanarse a las pretensiones de la parte contraria, que deberá adoptarse previa comunicación a la Consejería competente que podrá mostrar su parecer al respecto.»
+8. El artículo 26, queda redactado en los siguientes términos:
+«Frente a las sentencias y demás resoluciones judiciales que decidan definitivamente el pleito o causa y que fueren contrarias a la Administración, los letrados interpondrán los recursos ordinarios que procedan, salvo que mediara autorización del Gobierno, bien para no formular recurso, bien para desistir del ya interpuesto, por considerar que aquéllas son conformes a derecho, previa comunicación a la Consejería competente que podrá mostrar su parecer al respecto, y propuesta motivada de la Dirección General del Servicio Jurídico.»
+
+### Disposición final sexta
+
+Disposición final sexta. Cláusula de género.
+Todas las referencias contenidas en esta Ley expresadas en masculino gramatical, cuando se refieran a personas físicas deben entenderse referidas indistintamente a hombres y mujeres y a sus correspondientes adjetivaciones masculinas o femeninas.
+
+### Disposición final séptima
+
+Disposición final séptima. Habilitación reglamentaria encargo a medio propio.
+El Gobierno de Cantabria en el plazo de un año a partir de la entrada en vigor de esta Ley, aprobará un Decreto que establezca, en el marco de la legislación básica estatal, el régimen jurídico de los encargos a medio propio en el ámbito de la Administración de la Comunidad Autónoma de Cantabria.
+
+### Disposición final octava
+
+Disposición final octava. Entrada en vigor.
+La presente Ley entrará en vigor en el plazo de un mes desde su publicación en el «Boletín Oficial de Cantabria.
+No obstante, las previsiones relativas al registro electrónico, punto de acceso general electrónico de la Administración, archivo electrónico y, en general, las previsiones que dependan de la implantación efectiva de la administración electrónica, producirán efectos en la forma prevista en la legislación básica estatal.
+Palacio del Gobierno de Cantabria, 22 de noviembre de 2018.–El Presidente de la Comunidad Autónoma de Cantabria, Miguel Ángel Revilla Roíz.
+
+## ANEXO I
+
+Relación de Procedimientos Administrativos cuyo plazo máximo para notificar la resolución expresa es superior a seis meses
+Téngase en cuenta, en lo relativo al sentido del silencio y plazos de los procedimientos, que los anexos podrán ser actualizados mediante decreto del Gobierno publicado únicamente en el "Boletín Oficial de Cantabria" en los términos establecidos en las disposiciones adicionales 6 y 7 de la presente ley.
+COMÚN PARA TODAS LAS CONSEJERÍAS Y ENTIDADES DEL SECTOR PÚBLICO
+En los contratos sujetos a la legislación de contratos del sector público, el plazo máximo para la resolución y notificación del expediente de resolución contractual será de ocho meses.
+INNOVACIÓN, INDUSTRIA, TURISMO Y COMERCIO
+1. Procedimiento sancionador en materia de transportes terrestres.
+Plazo: un año.
+2. Otorgamiento de permisos de investigación de recursos mineros, secciones C y D.
+Plazo: ocho meses (a contar de la fecha en que se declare definitivamente admitida la solicitud).
+3. Procedimiento sancionador por infracciones de la normativa de turismo.
+Plazo: un año.
+4. Procedimiento sancionador por infracciones de la normativa de cumplimiento de consumidores y usuarios.
+Plazo: Nueve meses.
+5. Procedimiento sancionador en materia de minas.
+Plazo: un año.
+ECONOMÍA, HACIENDA Y EMPLEO
+1. Solicitud de aplazamiento o fraccionamiento del pago de deudas, tanto en período voluntario como ejecutivo.
+Plazo: siete meses.
+2. Reclamaciones Económico-Administrativas.
+Plazo: un año.
+EDUCACIÓN, CULTURA, Y DEPORTE
+1. Declaración de Bien de Interés Cultural.
+Plazo: doce meses.
+2. Declaración de Bien de Interés Local.
+Plazo: doce meses.
+3. Dejar sin efecto la declaración de Bien de Interés Cultural y Bien de Interés Local.
+Plazo: doce meses.
+4. Procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades de cuerpos docentes.
+Plazo: Dieciocho meses.
+5. Procedimiento disciplinario del personal docente.
+Plazo: doce meses.
+OBRAS PÚBLICAS Y VIVIENDA
+1. Procedimiento sancionador por infracciones en materia de viviendas de protección oficial.
+Plazo: doce meses.
+2. Procedimiento de reclamación de daños y perjuicios causados en el dominio público viario.
+Plazo: doce meses.
+3. Procedimiento sancionador en materia de carreteras autonómicas.
+Plazo: doce meses.
+UNIVERSIDADES E INVESTIGACIÓN, MEDIO AMBIENTE Y POLÍTICA SOCIAL
+1. Procedimiento sancionador en materia de control ambiental integrado.
+Plazo: 12 meses.
+Consejería de Educación, Formación Profesional y Turismo [Sic]:
+– Procedimiento de inscripción y cancelación de empresas o actividades turísticas en el Registro General de Empresas Turísticas de Cantabria.
+Plazo: doce meses.
+– Procedimiento para ordenar la modificación o el cese de actividad turística.
+Plazo: doce meses.
+– Procedimiento para declarar la inexactitud, falsedad, omisión o dejar sin efecto la declaración responsable de inicio, ampliación o reforma.
+Plazo: doce meses.
+– Procedimiento sancionador en materia de turismo.
+Plazo: doce meses.
+Consejería de Universidades, Igualdad, Cultura y Deporte [Sic].
+Procedimiento sancionador en materia de Patrimonio Cultural.
+Plazo: doce meses.
+Se modifica por el art. 5.10 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifica por el art. 6.11 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+ Se modifica por el art. 5.22 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
+
+## ANEXO II
+
+Relación de Procedimientos Administrativos iniciados a solicitud del interesado en los que el silencio administrativo tiene efectos desestimatorios
+Téngase en cuenta, en lo relativo al sentido del silencio y plazos de los procedimientos, que los anexos podrán ser actualizados mediante decreto del Gobierno publicado únicamente en el "Boletín Oficial de Cantabria" en los términos establecidos en las disposiciones adicionales 6 y 7 de la presente ley.
+Procedimientos en materia de personal.
+- Solicitudes en materia de gestión de personal, salvo en materia de vacaciones, permisos y licencias.
+Procedimientos en materia de justicia gratuita.
+- Declaración de mejor fortuna del beneficiario de asistencia jurídica gratuita a solicitud del interesado.
+Procedimiento en materia de juego y espectáculos.
+- Procedimientos que se substancien en materia de juego.
+- Autorizaciones para la celebración de actividades recreativas deportivas.
+Procedimientos en materia de entidades jurídicas.
+- Solicitudes de inscripción en el Registro de Colegios Profesionales de Estatutos y sus modificaciones.
+- Solicitudes de inscripción en el Registro de Fundaciones de la constitución, extinción, escisión y fusión de las Fundaciones, así como de las relativas a la dotación, aceptación y cese de los patronos o patronas y modificación de los estatutos.
+Procedimientos en materia de aguas y puertos.
+- Autorización de modificación de trazado y/o cruce de conducciones de abastecimiento de agua y/o afectación de zona de servidumbre de conducción de agua.
+- Autorización de suministro de combustible mediante camiones cisterna en Puertos de titularidad de la Comunidad Autónoma de Cantabria.
+- Autorización de vertidos desde tierra al dominio público marítimo terrestre de la Comunidad Autónoma de Cantabria.
+- Autorizaciones de uso de puesto de amarre.
+- Autorizaciones o concesiones en dominio público portuario.
+- Permiso de vertido a Colector Autonómico.
+Procedimientos en materia de obras públicas
+- Autorizaciones para la realización de obras e instalaciones en la zona de influencia de las carreteras de la red autonómica fuera de los tramos urbanos.
+- Autorizaciones para las construcciones de estaciones de servicio fuera de los tramos urbanos.
+- Reversión de fincas objeto de expropiación forzosa.
+Procedimientos en materia de transporte y comunicaciones.
+- Autorización arrendamiento de vehículos con conductor (VTC) y sin conductor (ASCC y ASC-S).
+- Autorización de actividades auxiliares y complementarias del transporte, agencias (operadores de transporte), transitarios, almacenistas y distribuidores.
+- Autorización de instalación de transporte privado de personas por cable.
+- Autorización de Operador de Transportes, Central y Sucursal.
+- Autorización de transporte privado complementario de mercancías (MPC) y de viajeros en autobús (VPC).
+- Autorización de transporte público de mercancías en vehículo ligero (MDL) y en vehículo pesado (MDP).
+- Autorización de transporte público discrecional de viajeros en autobús (VD).
+- Autorización de transporte regular de uso especial para playas, equipos de fútbol, transporte a rutas de montaña, zonas de alta montaña, por rutas turísticas, escolares por carretera, obreros, etcétera.
+- Autorización transporte taxis (VT).
+- Autorizaciones de transporte sanitario público y vehículo fúnebre (VF).
+- Tramitación de proyectos de nuevos servicios públicos de transporte por cable sujetos a concesión.
+Procedimientos en materia de vivienda.
+- Calificación de arrendamiento como alquiler protegido de una vivienda ubicada en un municipio o núcleo de población de pequeño tamaño.
+- Calificación de la promoción o rehabilitación de viviendas para personas mayores y personas con discapacidad.
+- Calificación de la promoción o rehabilitación de viviendas protegidas en arrendamiento.
+- Calificación de rehabilitación protegida.
+- Calificación de vivienda vacía movilizada para su arrendamiento.
+- Calificación de viviendas protegidas.
+- Calificación del arrendamiento de la vivienda como alquiler protegido.
+- Calificación habitacional para la obtención de las ayudas a las víctimas de violencia de género, personas objeto de desahucio de su vivienda habitual, personas sin hogar y otras personas especialmente vulnerables.
+- Descalificación voluntaria de una vivienda protegida de promoción privada.
+- Solicitud de autorización o visado de los contratos privados de compraventa, arrendamiento o cualesquiera otros negocios jurídicos que permitan ocupación o uso de las viviendas protegidas.
+Procedimientos en materia de urbanismo y ordenación del territorio.
+- Aprobación de la declaración de interés regional de un proyecto singular a instancia de terceros.
+- Autorización de construcciones, instalaciones y usos en suelo rústico.
+- Autorización de usos en la zona de servidumbre de protección de costas.
+Procedimientos en materia de medio ambiente.
+- Resoluciones y Certificaciones relacionadas con el Real Decreto 283/2001 por el que se regula la deducción por inversiones destinadas a la Protección del Medio Ambiente.
+- Autorización de Gestión de Residuos Peligrosos.
+- Autorización de Gestión de Aceites Usados.
+- Autorización de Gestión de Residuos no Peligrosos.
+- Autorización de sistemas Integrados de Gestión de Residuos de Envases y Envases Usados.
+- Procedimientos de evaluación ambiental.
+- Planes de seguimiento de emisiones de gases de efecto invernadero (GEI), aprobación, modificaciones.
+- Procedimientos de autorización ambiental integrada.
+- Solicitud de autorización de las operaciones de recogida y tratamiento de residuos.
+- Solicitud de autorización de los sistemas colectivos de responsabilidad ampliada.
+- Solicitud de declaración de suelo descontaminado.
+- Solicitud de aprobación del proyecto de recuperación voluntaria de suelo contaminado.
+- Procedimiento de exigencia de responsabilidad medioambiental iniciado a solicitud de persona interesada.
+- Solicitud de prórroga de la vigencia de la declaración de impacto ambiental.
+- Solicitud de prórroga de la vigencia del informe de impacto ambiental.
+- Solicitud de autorización de comprobación ambiental.
+- Solicitud de utilización de la etiqueta ecológica de la UE.
+- Solicitud de registro de la inscripción en el sistema EMAS.
+Procedimientos en materia tributaria.
+- Devolución de ingresos indebidos de naturaleza tributaria.
+- Solitud de aplazamiento o fraccionamiento del pago de deudas, tanto en periodo voluntario, como ejecutivo.
+- Fraccionamiento en el impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, en la compra de vivienda habitual.
+- Aplazamiento o fraccionamiento en el impuesto sobre sucesiones y donaciones, en los casos de adquisiciones "mortis causa".
+- Suspensión de los plazos de presentación en el impuesto sobre sucesiones y donaciones.
+- Reclamación económico-administrativa ante la Junta Económico-Administrativa.
+- Compensación de deudas en periodo ejecutivo.
+- Reembolso del coste de las garantías.
+Procedimientos en materia de patrimonio.
+- Autorizaciones y concesiones sobre bienes de dominio público.
+Procedimientos en materia de educación.
+- Autorización de apertura y funcionamiento de los centros docentes privados para impartir enseñanzas artísticas, así como la modificación o extinción de la autorización regulada en el artículo 11.2 del Decreto 25/2007, de 8 de marzo.
+- Autorización para el establecimiento en Cantabria de centros que imparten enseñanzas conducentes a la obtención de títulos extranjeros universitarios y de educación superior de ámbito similar al universitario.
+- Autorización para impartir docencia en centros privados.
+- Autorización para la implantación de las Enseñanzas Universitarias Oficiales en el Marco del Espacio Europeo de Educación Superior en la Comunidad Autónoma de Cantabria.
+- Expedición de los títulos y certificados académicos y profesionales al alumnado que ha finalizado en centros docentes de Cantabria estudios correspondientes a niveles no universitarios.
+- Autorización de apertura y funcionamiento de los centros educativos privados de la Comunidad Autónoma de Cantabria, a excepción de los que impartan enseñanzas universitarias, así como la modificación o extinción de la autorización regulada en el artículo 11.2 del Decreto 25/2007, de 8 de marzo.
+- Revisión de calificaciones finales del alumnado de centros públicos y de las decisiones de promoción y/o titulación en las diferentes etapas educativas no universitarias.
+Procedimientos en materia de cultura y patrimonio cultural.
+- Autorización para intervenciones en cavidades naturales.
+- Autorización de actividades (visitas, exploraciones espeleológicas y de otras características) en cavidades naturales con interés arqueológico.
+- Autorización de actuaciones en Bienes de Interés Cultural, Bienes de Interés Local o sus entornos de protección y sus prórrogas.
+- Autorización de actuaciones que afecten al patrimonio arqueológico.
+- Autorización para la realización de obras en Conjuntos Históricos o en Lugares Culturales.
+- Autorización de actuación arqueológica y su prórroga.
+- Intervención sobre bienes muebles declarados o sobre los que se haya incoado la declaración de Bien de Interés Cultural (B.I.C.) o Bien de Interés Local (B.I.L.) y su prórroga.
+- Solicitud de iniciación de procedimiento de declaración de Bien de Interés Cultural, Interés Local o Inventariado.
+- Solicitud de iniciación de procedimiento para dejar sin efecto una declaración de Bien de Interés Cultural, Interés Local o Inventariado.
+Procedimientos en materia de turismo.
+- Declaración de Fiesta de Interés Turístico.
+- Autorización de apertura o cambio de categoría de campamentos de turismo.
+Procedimientos en materia de ganadería.
+- Autorización vaciado sanitario de explotaciones.
+- Autorización de traslado de animales.
+- Guía de origen y sanidad pecuaria.
+- Autorización y expedición de documentación sanitaria para el intercambio intracomunitario de animales, esperma, óvulos y embriones.
+Procedimientos en materia de pesca, acuicultura y actividades subacuáticas.
+- Licencias para la realización de actividades extractivas.
+- Renovación del carné de mariscador profesional.
+- Autorización para el cambio de motor principal en buques pesqueros.
+- Autorización de cambio de puerto base dentro de la Comunidad Autónoma.
+- Autorización de concesiones e instalaciones de acuicultura.
+- Autorización de concursos de pesca.
+- Autorización de creación de arrecifes artificiales en aguas interiores.
+- Autorización para la utilización de embarcación para el desplazamiento a zonas de pesca y el transporte de capturas de marisco.
+- Autorización para realizar muestreos en el medio marino de la Comunidad Autónoma de Cantabria.
+- Autorización de modificación de días de descanso semanal obligatorio dentro de la actividad pesquera.
+- Concesión de licencias de pesca marítima de recreo de primera clase y segunda clase.
+- Expedición y actualización del Libro de Actividades Subacuáticas.
+- Inscripción en el Censo de Facultativos Especialistas en Medicina Subacuática e Hiperbárica de Cantabria.
+Procedimientos en materia de caza y pesca fluvial.
+- Creación o Renovación de Cotos de Caza.
+- Zonas de Adiestramiento de Perros.
+- Instalaciones de piscicultura.
+- Solicitud de permisos para pescar en acotados de salmón y trucha.
+- Permisos de batida de jabalí en época de veda.
+- Permiso de caza mayor y menor en la reserva nacional de caza de Saja.
+- Licencia de caza y pesca fluvial.
+Procedimientos en materia de montes.
+- Adquisición mediante permuta de montes particulares o catalogados.
+- Autorización de actividades en Dominio Público Forestal.
+- Aprovechamientos forestales en Montes de Utilidad Pública: solicitud de inclusión en el Plan de Aprovechamientos, solicitudes de licencia, rebaja de precios, prórrogas, apertura de pistas, etc...
+- Autorización de planes particulares de mejoras.
+- Autorización de aprovechamiento forestal de especies de crecimiento lento en montes particulares.
+- Concesión administrativa por interés público en Montes de Utilidad Pública.
+- Concesión administrativa por interés privativo en Montes de Utilidad Pública.
+- Deslinde y amojonamiento de montes catalogados.
+- Declaración de utilidad pública de montes.
+- Catalogación y descatalogación de montes de utilidad pública.
+- Legitimación de gravámenes.
+- Autorización para la realización de quemas controladas y prescritas en Cantabria.
+Procedimientos en materia de biodiversidad.
+- Solicitud, Informes y Autorizaciones en los espacios incluidos en la Red de Espacios Naturales Protegidos de Cantabria.
+- Actuaciones en cursos fluviales, ríos y riberas.
+Procedimientos en materia de desarrollo rural.
+- Autorización para segregación de fincas de dimensión inferior a la unidad mínima de cultivo.
+- Solicitud de permuta de fincas de reemplazo en procedimientos de concentración parcelaria.
+- Solicitud de reclamación de propiedad de fincas de desconocidos en procedimientos de concentración parcelaria.
+- Reclamaciones sobre diferencias de superficies tras la toma de posesión de las nuevas fincas de reemplazo del acuerdo firme resultado del proceso de concentración parcelaria.
+- Solicitud de modificación potestativa del expediente de concentración parcelaria.
+Procedimientos en materia de industria.
+- Emisión de certificado para la manipulación de gases fluorados.
+- Concentración, paralización y prórrogas de trabajos mineros.
+- Transmisión de derechos mineros.
+- Aprovechamiento de recursos minerales de la sección A.
+- Autorizaciones o concesiones de aprovechamiento de recursos minerales de la sección B.
+- Permisos de exploración, investigación y concesiones de explotación de recursos mineros Sección C y D.
+- Otorgamiento de una demasía minera a una concesión de explotación de recursos de las Secciones C y D.
+- Declaración de la condición de agua como mineral (minero-medicinal o minero-industrial) o termal.
+- Declaración de yacimientos de origen no natural como recurso de la Sección B.
+- Ampliación del recurso. Aprovechamiento de un nuevo recurso descubierto en una concesión de explotación.
+- Autorización para utilizar una estructura subterránea.
+- Autorización de la constitución de cotos mineros.
+- Reclasificación de una autorización de explotación en una concesión de explotación de recursos de la Sección C.
+- Autorización de cierre y abandono definitivo de labores.
+- Autorización de instalaciones de preparación, concentración o beneficio de los recursos comprendidos en el ámbito de la Ley de Minas.
+- Autorización de proyectos para sostenimiento de obras en labores subterráneas.
+- Autorización de proyectos técnicos para consumos eventuales de explosivos.
+- Autorización de proyectos-tipo para consumos habituales de explosivos.
+- Certificado de autorización de voladuras especiales.
+- Autorización para el transporte y distribución de gases canalizados (GLP y Gas Natural).
+- Autorización de funcionamiento, modificación, clausura o notificación de instalaciones radiactivas de segunda y tercera categoría con fines científicos, médicos, agrícolas, comerciales o industriales.
+- Autorización de instalaciones de producción, transporte y distribución de energía eléctrica
+- Proyectos empresariales estratégicos de Cantabria.
+Procedimientos en materia de empleo.
+- Extensión de convenios colectivos de trabajo.
+- Exclusión de alumnado de acciones formativas (solicitud presentada por los centros que imparten formación en el trabajo).
+- Inscripción en el Registro de Cooperativas.
+- Emisión de certificados profesionales y acreditaciones parciales acumulables del sistema de formación en el trabajo.
+- Gestión de ofertas de empleo para personas trabajadoras extranjeras.
+- Autorización de prácticas formativas en centros de trabajo del Servicio Cántabro de Empleo.
+- Autorización a personas o entidades especializadas para desarrollar la actividad de auditoría del sistema de prevención de riesgos laborales.
+- Acreditación a entidades especializadas para actuar como servicios de prevención ajenos a las empresas.
+Procedimientos en materia de salud.
+- Autorización sanitaria de funcionamiento y convalidación de industrias y establecimientos sujetos a inscripción en el Registro General Sanitario de Alimentos.
+- Autorización sanitaria de funcionamiento y convalidación de los establecimientos que realizan actividades de elaboración, distribución y comercio de comidas preparadas, no sujetos a inscripción en el Registro General Sanitario de Alimentos, y de carnicerías-salchicherías en el Registro Sanitario de la Comunidad Autónoma de Cantabria.
+- Autorización y registro de empresas y entidades de formación de manipuladores de alimentos.
+- Autorizaciones en materia de policía mortuoria.
+- Autorizaciones en materia de centros, servicios y establecimientos sanitarios, incluidos los establecimientos de óptica.
+- Autorización y homologación de bancos de semen, de centros de inseminación artificial, de centros de fecundación "in vitro" y de laboratorios de semen para capacitación espermática.
+- Autorización de actividades relativas a la utilización clínica de tejidos humanos.
+- Reconocimiento de oficialidad y de interés sanitario de cursos en materia de sanidad y de reuniones científico-técnicas.
+- Habilitación profesional de higienistas dentales y protésicos dentales.
+- Reconocimiento de títulos obtenidos en la Unión Europea a efectos profesionales (sanitarios).
+- Acreditación y renovación de la acreditación de Comités Éticos y de centros, establecimientos y servicios de tratamientos de personas dependientes a opiáceos.
+- Inscripciones registrales en materia de sanidad.
+- Acceso a tratamientos de ortodoncia bucodental infantil.
+- Autorización de apertura, transmisión, traslado y modificaciones de local de oficinas de farmacia.
+- Autorización de instalación de botiquines y de servicios farmacéuticos y depósitos de medicamentos.
+- Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
+Procedimientos en materia de infancia, adolescencia y familia.
+- Concesión de la conformidad a los programas de desplazamiento temporal de menores extranjeros.
+- Habilitación de instituciones colaboradoras en materia de protección de menores.
+- Procedimientos en materia de adopción internacional.
+- Programa de familias acogedoras (solicitud de participación y prestación económica).
+- Servicio de apoyo postadoptivo y búsqueda de orígenes.
+- Servicio de punto de encuentro familiar.
+Procedimientos en materia de servicios sociales.
+- Autorizaciones y acreditaciones en materia de centros y establecimientos de servicios sociales y de menores.
+- Concesión de préstamos de productos de apoyo.
+- Concesión y modificación de Renta Social Básica, prestaciones económicas de emergencia social y otras prestaciones sociales y de menores.
+- Gestión de pensiones no contributivas.
+- Habilitación excepcional y provisional para gerocultores/as, cuidadores/as, auxiliares de ayuda a domicilio y asistentes personales.
+- Reclamación administrativa previa en materias cuyo conocimiento corresponda a la jurisdicción social.
+- Reconocimiento de la situación de dependencia y del derecho a las prestaciones del sistema para la autonomía y atención a la dependencia.
+- Reconocimiento, declaración, calificación y revisión del grado de discapacidad.
+- Habilitación para la prestación de servicios sociales.
+- Solicitudes de concertación de plazas y solicitudes de ingreso en centros de salud mental, de atención a personas en situación de dependencia y de servicios sociales.
+Procedimientos en materia de subvenciones de concesión directa.
+- Solicitudes de concesión directa de ayudas gestionadas por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades del sector público.
+Procedimientos derivados de la normativa del procedimiento administrativo común de las Administraciones Públicas.
+- Procedimientos cuya desestimación sea consecuencia de la aplicación de lo dispuesto en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica el apartado «Procedimientos en materia de medio ambiente» por la disposición adicional 4 de la Ley 9/2026, de 23 de julio. Ref. BOE-A-2026-17287#da-4
+ Téngase en cuenta que el texto recogido en el anexo fue establecido por el Decreto 84/2025, de 4 de diciembre, publicado en el BOC núm. 23, de 5 de diciembre de 2025.
+ Se suprimen los procedimientos indicados por el art. 67.15 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a6-9
+ Se modifica por el art. 4 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se modifica por el art. 10.4 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+ Se modifica por el art. 5.23 y 24 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504

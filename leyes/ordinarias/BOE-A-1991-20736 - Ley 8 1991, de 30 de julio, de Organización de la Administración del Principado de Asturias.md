@@ -1,0 +1,160 @@
+# Ley 8/1991, de 30 de julio, de Organización de la Administración del Principado de Asturias.
+
+- Identificador BOE: `BOE-A-1991-20736`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-20736
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias. vengo en promulgar la siguiente Ley de Organización de la Administración del Principado de Asturias.
+PREÁMBULO
+La organización de la Administración de la Comunidad Autónoma se halla básicamente contenida en la Ley 1/1982, de 24 de mayo, de Organización y Funcionamiento de la Administración del Principado de Asturias, convalidada y modificada parcialmente por la Ley 9/1983, de 12 de diciembre, habiendo sufrido con posterioridad modificaciones puntuales en lo que respecta al número, denominación y competencias de las Consejerías que integran dicha Administración por sendos Decretos del Presidente, en virtud de las autorizaciones específicas contenidas en las Leyes de Presupuestos Generales del Principado, correspondientes a los años de celebración de elecciones a la Asamblea Legislativa de la Comunidad Autónoma.
+La necesidad de conseguir la mayor eficacia en el ejercicio del programa de gobierno que resultó aprobada por la Junta General del Principado de Asturias con motivo de la elección de Presidente del Principado, a consecuencia de la renovación de dicha Asamblea Legislativa, por las elecciones celebradas el 26 de mayo pasado, exige la aprobación de la presente Ley, en la que se recogen las normas básicas que han de facilitar una organización de la Administración de la Comunidad Autónoma que haga factible el expresado propósito.
+
+### Artículo 1
+
+Artículo 1.
+1. Los órganos superiores de la Administración del Principado de Asturias son el Consejo de Gobierno, su Presidente y los Consejeros.
+2. Los demás órganos de la Administración del Principado de Asturias se hallan bajo la dependencia del Presidente del Consejo de Gobierno o del Consejero correspondiente.
+
+### Artículo 2
+
+Artículo 2.
+El Consejo de Gobierno es el órgano colegiado que dirige la política regional y la Administración del Principado de Asturias, correspondiéndole ejercer la iniciativa legislativa, las funciones ejecutiva y administrativa y la potestad reglamentaria no reservada a la Junta General en el Estatuto de Autonomía para Asturias.
+
+### Artículo 3
+
+Artículo 3.
+1. El Consejo de Gobierno se integra por el Presidente y los Consejeros por él designados.
+2. El Presidente podrá nombrar, de entre los Consejeros que reúnan a su vez la condición de Diputados de la Junta general, un Vicepresidente.
+Se deroga el último inciso del apartado 1 por la disposición derogatoria 1 de la Ley autonómica 15/1999, de 15 de julio. Ref. BOE-A-1999-16833.
+
+### Artículo 4
+
+Artículo 4.
+1. El Consejo de Gobierno podrá crear en su seno Comisiones Delegadas para examinar en su conjunto las materias de carácter general que tengan relación con varias de las Consejerías que integren la Comisión; estudiar aquellos asuntos que, afectando a más de una Consejería, exijan la elaboración de una propuesta conjunta previa a la resolución por el Consejo; coordinar la acción de las Consejerías interesadas, a la vista de objetivos comunes, y redactar programas conjuntos de actuación; acordar los nombramientos y resolver los asuntos que, afectando a más de una Consejería de la Comisión respectiva, no requieran, atendida su importancia, ser elevadas a decisión del Consejo, y cualquier otra atribución que les confieran las disposiciones vigentes.
+2. Las Comisiones Delegadas serán creadas por acuerdo del Consejo de Gobierno, que adoptará la forma de Decreto.
+El Decreto de creación regulará la composición, atribuciones y régimen de funcionamiento de las Comisiones, que serán presididas por el Presidente del Consejo o Consejero en quien delegue. Igualmente se determinará el apoyo administrativo que precisen para su funcionamiento, que será cubierto con medios y personal de la Administración del Principado.
+
+### Artículo 5
+
+Artículo 5.
+El Presidente del Principado preside el Consejo de Gobierno, cuya actividad dirige, coordina la Administración de la Comunidad Autónoma y designa y separa a los Consejeros, correspondiéndole resolver los conflictos de atribuciones entre las distintas Consejerías.
+
+### Artículo 6
+
+Artículo 6.
+1. El Vicepresidente, además del ejercicio de las competencias que le correspondan como titular de su Consejería, asumirá las funciones de Presidente en los casos de fallecimiento o enfermedad de éste, o de ausencia, sin perjuicio de las demás que pudiera delegarle.
+2. El cese, como Consejero, de quien haya sido designado Vicepresidente, llevará aparejado el cese en la Vicepresidencia.
+
+### Artículo 7
+
+Artículo 7.
+1. Los Consejeros son miembros del Consejo de Gobierno y ejercen la titularidad de las Consejerías que integran la Administración del Principado, correspondiéndoles respecto a las mismas ejercer las competencias que, conforme a la estructura orgánica y funcional de aquélla, les fueren atribuidas por razón de la materia, salvo las expresamente reservadas al Presidente y al Consejo de Gobierno.
+2. Actuará de Secretario de las reuniones del Consejo de Gobierno el Consejero de Interior y Administraciones Públicas.
+
+### Artículo 8
+
+Artículo 8.
+La creación, modificación y supresión de las Consejerías se establecerán por Decreto del Presidente del Principado de Asturias
+Se modifica por el art. único de la Ley autonómica 4/2008, de 24 de noviembre. Ref. BOE-A-2009-1260.
+
+### Artículo 9
+
+Artículo 9.
+1. La estructura de la Administración del Principado se podrá integrar en cada Consejería por órganos centrales, órganos directivos, órganos desconcentrados y órganos de asesoramiento y apoyo.
+2. Tendrán la consideración de órganos centrales aquellos que integran la estructura básica de cada Consejería cuya competencia se extiende a todo el ámbito de la Comunidad Autónoma.
+3. Serán órganos directivos aquellos que, en el ámbito de los órganos centrales que establece esta ley, tengan atribuido el ejercicio de funciones directivas definidas como tales en la legislación de empleo público.
+4. Se considerarán órganos desconcentrados aquellos que tengan atribuida la competencia de gestión de un establecimiento, de un servicio público o el ejercicio de una función específica o esté referida aquella a un área territorial determinada de la Comunidad Autónoma.
+5. Serán órganos de asesoramiento y apoyo los que tengan encomendadas funciones de esta naturaleza con relación a los órganos centrales y desconcentrados.
+Se modifica por la disposición final 2.1 de la Ley 2/2023, de 15 de marzo. Ref. BOE-A-2023-10348
+
+### Artículo 10
+
+Artículo 10.
+1. Son órganos centrales de las consejerías la Secretaría General Técnica, las direcciones generales y la Intervención General, cuyos titulares tendrán la consideración de altos cargos. Con la naturaleza de órgano central y consideración para sus titulares de alto cargo podrán crearse viceconsejerías. El número de viceconsejerías no podrá ser superior al de consejerías.
+2. A las Viceconsejerías les corresponde la gestión de un determinado sector de actividad administrativa en materias preferentemente homogéneas, así como la dirección y coordinación de las Direcciones Generales que estén bajo su dependencia directa, respondiendo ante el titular de la Consejería.
+3. A las Secretarías Generales Técnicas, directamente dependientes de los titulares de las Consejerías, les corresponde el desarrollo de funciones de asesoramiento, estudio, producción normativa y dirección de los servicios comunes de la Consejería respectiva.
+4. A las Direcciones Generales les competerá la dirección y coordinación de los servicios que estén bajo su dependencia, respondiendo ante el titular de la Consejería y, en su caso, ante el titular de la Viceconsejería.
+5. El Interventor General es el órgano fiscalizador de la actividad económica y financiera de la Administración del Principado y de sus organismos autónomos y el centro directivo de la contabilidad pública de la Comunidad Autónoma.
+6. Los titulares de las Viceconsejerías y de las Direcciones Generales serán nombrados y separados por decreto del Consejo de Gobierno, a propuesta de los respectivos titulares de las Consejerías. Para su nombramiento se atenderá a criterios de competencia profesional y experiencia.
+7. Los titulares de las Secretarías Generales Técnicas, así como el de la Intervención General, serán nombrados y separados por decreto del Consejo de Gobierno, a propuesta de los respectivos titulares de las Consejerías entre funcionarios de carrera de cualquiera de las Administraciones Públicas pertenecientes a cuerpos o escalas clasificadas dentro del grupo A, subgrupo A1.
+8. Son órganos directivos las Subdirecciones Generales, a las que corresponde la ejecución de proyectos, actividades, programas, planes o la gestión de las áreas funcionales que les sean asignadas, de acuerdo con los criterios e instrucciones de quien dependan, con autonomía funcional, sujeción al programa anual de objetivos y siempre que conlleven el desarrollo de funciones directivas.
+9. Los Subdirectores Generales serán funcionarios de carrera del grupo A, subgrupo A1 nombrados por el procedimiento que establezca la legislación aplicable en materia de empleo público.
+Se modifica el apartado 1 por la disposición final 2 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
+ Se añaden los apartados 8 y 9 por la disposición final 2.2 de la Ley 2/2023, de 15 de marzo. Ref. BOE-A-2023-10348
+ Se modifica por el art. 2.1 de la Ley 7/2014, de 17 de julio. Ref. BOE-A-2014-10576.
+
+### Artículo 11
+
+Artículo 11.
+1. Los órganos centrales se estructurarán orgánicamente, con carácter ordinario, en servicios, secciones y negociados.
+2. Los órganos desconcentrados y los de asesoramiento y apoyo adoptarán la estructura que corresponda más adecuadamente a sus respectivas peculiaridades.
+3. En el ámbito de cada Dirección General que tenga cuatro o más unidades orgánicas con rango de Servicio, podrá haber una Subdirección General, siempre que su desempeño conlleve el ejercicio de funciones directivas. Se podrán crear Subdirecciones Generales adicionales manteniendo esa proporción.
+Los nombramientos realizados en virtud de lo dispuesto en el presente apartado tendrán una vigencia temporal máxima de cuatro años, prorrogables de forma motivada.
+4. Fuera del supuesto definido en el apartado anterior, se podrán crear de forma motivada Subdirecciones Generales con carácter excepcional directamente dependientes de los Consejeros y Viceconsejeros, y siempre que se justifique por la necesidad de dirigir, desarrollar e implantar un proyecto en el marco de la acción gubernativa, que exija el ejercicio de funciones directivas, y las notas de especialidad, responsabilidad y confianza». En este supuesto, será posible la exención del requisito de tener la condición de funcionario de carrera del grupo A, subgrupo A1 para ser Subdirector General, en los términos que establezca la legislación aplicable en materia de empleo público.
+Las Subdirecciones Generales creadas en virtud de lo dispuesto en el presente apartado tendrán un carácter temporal definido y determinado, y por lo tanto quedarán sujetas al plazo de duración de las circunstancias excepcionales que hayan dado lugar a su creación.
+Se modifica el apartado 3 y se añade el 4 por la disposición final 2.3 de la Ley 2/2023, de 15 de marzo. Ref. BOE-A-2023-10348
+ Se añade el apartado 3 por el art. 2.2 de la Ley 7/2014, de 17 de julio. Ref. BOE-A-2014-10576.
+
+### Artículo 12
+
+Artículo 12.
+1. Los servicios son las unidades orgánicas a las que corresponden, además de las competencias específicas que tengan atribuidas, las funciones de planificación, coordinación, dirección y control de las secciones u otras unidades orgánicas de ellos dependientes.
+2. Las secciones son unidades orgánicas internas de los servicios y les corresponden las funciones de ejecución, informe y propuesta al superior jerárquico de las cuestiones pertenecientes al área funcional que tienen atribuida, así como la coordinación, dirección y control de las actividades desarrolladas por los negociados o unidades de ellas dependientes.
+3. Los negociados son unidades orgánicas internas de las secciones y se les atribuyen las funciones de tramitación, inventario, si procede, y archivo de los asuntos que tengan asignados.
+Se modifica por el art. 2.3 de la Ley 7/2014, de 17 de julio. Ref. BOE-A-2014-10576.
+
+### Artículo 13
+
+Artículo 13.
+1. Sin perjuicio de la estructura organizativa, regulada en los artículos precedentes, se podrán crear Agencias que serán estructuradas orgánicamente en la forma más adecuada a los fines para los que sean creadas, de acuerdo con lo establecido en el artículo 11.2 de la presente Ley.
+2. Al frente de cada Agencia habrá un Director que será nombrado y separado por decreto del Consejo de Gobierno, a propuesta del titular de la Consejería respectiva. Para su nombramiento se atenderá a criterios de competencia profesional y experiencia.
+3. La dotación de los restantes puestos de trabajo de las Agencias se efectuará mediante la adscripción a las mismas de personal de la Administración del Principado. Las necesidades transitorias de personal de las Agencias podrán ser objeto de contratación temporal, dentro de los límites de las consignaciones presupuestarias, a través de la Consejería de Interior y Administraciones Públicas.
+4. El Decreto de creación de las Agencias determinará necesariamente:
+a) La Consejería a la que quedarán adscritas.
+b) Las atribuciones propias del Director, así como las facultades que ejercerá por delegación.
+c) El régimen económico de las mismas y, en su caso, las dotaciones presupuestarias que afecten al cumplimiento de sus fines.
+d) La estructura organizativa, así como los medios personales y materiales que se les adscriban.
+e) La extinción de las Agencias al cumplir la finalidad para la que fueron creadas.
+Se modifica el apartado 2 por el art. 2.4 de la Ley 7/2014, de 17 de julio. Ref. BOE-A-2014-10576.
+
+### Artículo 14
+
+Artículo 14.
+La creación de todo órgano administrativo que suponga un incremento del gasto público irá precedida por un estudio económico del coste de su funcionamiento y del rendimiento o utilidad de sus servicios.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Sin perjuicio de lo establecido en la presente Ley, la Presidencia del Principado podrá estructurarse en la forma organizativa que considere más adecuada, teniendo, en todo caso, el personal que asista a la misma la consideración de personal eventual, en los términos y con los límites que se establezcan por la Junta en la correspondiente normativa presupuestaria, y de acuerdo con lo regulado en la Ley de Ordenación de la Función Pública de la Administración del Principado de Asturias.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se modifican los siguientes preceptos de la Ley del Principado 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias, los cuales quedan redactados del siguente modo:
+Artículo 12, apartado 1:
+«1. Cuando el cese se produzca por alguna de las causas previstas en los párrafos e), f) y g) del apartado 1 del artículo 11 de esta Ley, ejercerá las funciones de Presidente el Vicepresidente y, en su defecto, el titular de la Consejería que corresponda, según el orden establecido en esta Ley reguladora de la Organización de la Administración del Principado de Asturias.»
+Artículo 14, apartado 1:
+«1. En los casos de ausencia temporal o enfermedad que no origine incapacidad, el Presidente del Principado será sustituido en la forma prevista en el artículo 12.1 de esta Ley.»
+Artículo 22:
+«1. El Consejo de Gobierno se integra por el Presidente y los Consejeros, cuyo número no podrá exceder de diez.
+2. El Presidente podrá nombrar, de entre los Consejeros que reúnan a su vez la condición de Diputados de la Junta General, un Vicepresidente.»
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las referencias contenidas en la Ley 1/1982, de 24 de mayo, de Organización y Funcionamiento de la Administración del Principado de Asturias, convalidada y modificada parcialmente por la Ley 9/1983, de 12 de diciembre, y en la Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias, al Consejero de la Presidencia, a la Consejería de la Presidencia, al Consejero de Hacienda y Economía y a la Consejería de Hacienda y Economía, deben entenderse efectuadas al Consejero de Interior y Administraciones Públicas; a la Consejería de Interior y Administraciones Públicas; al Consejero de Hacienda, Economía y Planificación, y a la Consejería de Hacienda, Economía y Planificación, respectivamente.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan expresamente derogados los artículos que comprenden la sección primera, excepto el artículo 6; la sección segunda y la sección cuarta, excepto el apartado 3 del artículo 12, de la Ley 1/1982, de 24 de mayo, de Organización y Funcionamiento de la Administración del Principado de Asturias, convalidada y modificada parcialmente por la Ley 9/1983, de 12 de diciembre.
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y autoridades que la guarden y la hagan guardar.
+Oviedo, 30 de julio de 1991.
+JUAN LUIS RODRÍGUEZ-VIGIL RUBIO
+Presidente del Principado de Asturias

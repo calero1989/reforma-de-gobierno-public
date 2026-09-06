@@ -1,0 +1,110 @@
+# Ley 4/2012, de 30 de abril, por la que se establece el régimen sancionador en diversas materias en el ámbito de la Comunidad Autónoma de las Illes Balears y se fijan medidas administrativas urgentes en materia de juego.
+
+- Identificador BOE: `BOE-A-2012-7446`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-7446
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 48.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 25 de la Constitución Española establece que nadie podrá ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento.
+Con respecto a la potestad sancionadora de la Administración, la jurisprudencia constitucional ha establecido que son aplicables los principios de reserva de ley, tipicidad, non bis in idem, irretroactividad de normas desfavorables, derecho a la defensa, presunción de inocencia y tutela judicial efectiva.
+La previsión de reserva de ley se fundamenta en los principios de legalidad y tipicidad, en virtud de los cuales los límites de la actividad sancionadora de las administraciones públicas se deberán fijar por ley, de conformidad con el artículo 25 de la Constitución Española, que exige la reserva de ley en materia sancionadora, un rango necesario de las normas que tipifican las conductas ilícitas y que regulan las correspondientes sanciones con la finalidad de respetar y hacer respetar las garantías de la ciudadanía en un estado social y democrático de derecho.
+La presente ley, que cumple el mandato legal teniendo en cuenta las exigencias constitucionales citadas, toma en consideración, asimismo, lo establecido en las disposiciones comunitarias que exigen a los estados miembros de la Unión Europea la adopción de las normas necesarias para aplicar sanciones en caso de incumplimiento de las disposiciones nacionales y, por extensión, en el caso del Estado español, de las normas de las comunidades autónomas.
+II
+La Ley Orgánica 2/1983, de 25 de febrero, del Estatuto de Autonomía de las Illes Balears, después de la reforma de la Ley Orgánica 1/2007, de 28 de febrero, reconoce en el artículo 30 una serie de competencias exclusivas de la comunidad autónoma de las Illes Balears:
+«29. Casinos, juegos y apuestas, con exclusión de las apuestas mutuas deportivo-benéficas.»
+«34. Industria, sin perjuicio de lo que determinen las normas del Estado por razones de seguridad, sanitarias o de interés militar y las normas relacionadas con las industrias sujetas a la legislación de minas, hidrocarburos o energía nuclear. El ejercicio de la competencia se realizará de acuerdo con las bases y la ordenación de la actividad económica general. Seguridad de las instalaciones, de los procesos y de los productos industriales.»
+«47. Defensa de los consumidores y de los usuarios, en el marco de las bases y la ordenación de la actividad económica general y en el marco de las bases y la coordinación general de la sanidad, en los términos de lo dispuesto en los artículos 38, 131 y en los números 11, 13 y 16 del apartado 1 del artículo 149 de la Constitución.»
+La necesidad de la presente ley se evidencia, por una parte, por las recientes modificaciones de la normativa estatal. Así, la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, añadió dos nuevas infracciones graves a la Ley 21/1992, de 16 de julio, de industria. La introducción de estos dos nuevos tipos de infracción es insuficiente para la consecución de un régimen sancionador consolidado que llegue a todos los incumplimientos de la normativa en materia de industria, particularmente con respecto a determinadas conductas constitutivas de incumplimientos normativos de naturaleza meramente formal o procedimental o que no comportan peligro o daño grave para las personas, las cosas o el medio ambiente, y que, en buena lógica, tienen que implicar infracciones de carácter leve. En este sentido, justamente, la Sentencia del Tribunal Constitucional 162/2008, de 15 de diciembre, declaró nulo e inconstitucional el artículo 31.3.a) de la Ley 21/1992, de 16 de julio, de industria, en materia de infracciones leves, lo cual exige una nueva tipificación por parte del legislador autonómico.
+Por otra parte, y en materia de juego, la Ley 13/2011, de 27 de mayo, de regulación del juego, ha derogado la Ley 34/1987, de 26 de diciembre, de potestad sancionadora de la Administración pública en materia de juegos de suerte, envite o azar, y ha introducido un nuevo régimen sancionador en el marco de la competencia estatal en esta materia. Así pues, en este sector de actividad administrativa debe tenerse en cuenta que, hasta ahora, la comunidad autónoma de las Illes Balears aplicaba el régimen sancionador que establece la Ley 34/1987 citada, la cual, de acuerdo con su contenido, se entendía susceptible de aplicación por las diversas administraciones públicas, estatal y autonómica, con competencias en esta materia; mientras que la nueva Ley 13/2011 sólo prevé el régimen sancionador estatal. De esta manera, y ante las dudas y la inseguridad jurídica que pueda suponer la aplicación supletoria de este régimen sancionador, en principio de ámbito estatal, es preciso que el legislador autonómico establezca un régimen sancionador propio en el ámbito de sus competencias, con el fin de no caer en un vacío normativo que dificulte o imposibilite la persecución de los hechos constitutivos de infracción administrativa en este sector de actividad.
+Finalmente, y con respecto a la legislación autonómica en materia de consumo, hay que actualizar las cuantías correspondientes a las sanciones que fijó inicialmente la Ley 1/1998, de 10 de marzo, del Estatuto de los consumidores y usuarios de la comunidad autónoma de las Illes Balears, claramente desfasadas actualmente, a fin de que cumplan efectivamente su función preventiva y punitiva, inherente a cualquier norma sancionadora. En este último sentido, lo cierto es que hay una íntima conexión entre la tipificación de la infracción y la cuantificación de la sanción. Tanto es así que el establecimiento de las tipificaciones de las conductas administrativas ilícitas consideradas infracción van precedidas siempre de la sanción correspondiente, siempre respetando el principio de proporcionalidad y guardando la adecuación debida entre la gravedad del hecho constitutivo de la infracción y la sanción que se deba imponer. En este contexto, y de la misma manera que hace el Estado en su ámbito competencial, se ha considerado conveniente trasladar al ámbito de las sanciones graves en esta materia de consumo la regla que la Ley 1/1998 fijaba únicamente para las sanciones muy graves, consistente en la posibilidad de incrementar la cuantía de la sanción hasta llegar al quíntuple del valor de los productos o servicios objeto de la infracción, de manera que la comisión de la infracción no resulte más beneficiosa para el infractor que el cumplimiento de la norma infringida.
+III
+Con respecto a la adopción de medidas administrativas en el ámbito propio del sector del juego, se tiene que señalar que, atendiendo al marco jurídico estatal vigente aplicable a la instalación de máquinas, terminales o equipos de juego, y a la concesión de autorizaciones de actividades de juego, la comunidad autónoma de las Illes Balears tiene la necesidad de establecer un régimen jurídico propio que dé cobertura al régimen de autorizaciones de las actividades reservadas en los locales de hostelería y en el ejercicio de las actividades no reservadas con respecto a la apertura de establecimientos presenciales específicos.
+IV
+La presente ley consta de una exposición de motivos, una parte dispositiva (tres artículos) –cuyo objeto es regular el régimen sancionador de diversas materias atendiendo a la competencia exclusiva de la comunidad autónoma de las Illes Balears de acuerdo con el Estatuto de Autonomía–, cuatro disposiciones adicionales, una disposición derogatoria única y tres disposiciones finales.
+
+### Artículo 1
+
+Artículo 1. Normas sancionadoras en materia de industria.
+1. Se tipifican como infracciones leves en materia de industria las siguientes acciones:
+a) Fabricar, importar, vender, transportar, instalar o utilizar productos, aparatos o elementos sujetos a seguridad industrial que no cumplan las normas reglamentarias cuando no comporten peligro o daño grave para las personas, la flora, la fauna, las cosas o el medio ambiente, o cuando el riesgo, el peligro o el daño sean leves o mínimos dadas las circunstancias concurrentes.
+b) No subsanar las deficiencias de las instalaciones o de los establecimientos industriales detectadas en las inspecciones o en las revisiones reglamentarias, en el plazo otorgado, a no ser que de estas deficiencias se derive un riesgo o daño grave o muy grave constitutivo de infracción grave o muy grave.
+c) No comunicar a la administración competente, en los plazos establecidos reglamentariamente, los datos a que se refieren los artículos 22 y 23 de la Ley 21/1992, de 16 de julio, de industria, cuando no constituya falta grave.
+d) No colaborar con las administraciones públicas en el ejercicio de las funciones reglamentarias que se derivan de la Ley 21/1992 cuando no implique resistencia constitutiva de falta grave.
+e) Incumplir los plazos otorgados por la autoridad competente a las personas interesadas para presentar documentos solicitados por el órgano competente, cuando no implique resistencia constitutiva de falta grave.
+f) No aportar cualquiera de los datos obligatorios, o de sus modificaciones, en la declaración responsable o en la comunicación que deban presentar las personas interesadas ante la administración competente en materia de industria cuando no constituya falta grave.
+2. El pago voluntario de la sanción resultante de la comisión de cualquiera de las infracciones leves a que se refiere el apartado anterior en cualquier momento anterior a la resolución del procedimiento sancionador, de acuerdo con la propuesta de sanción que se haga constar en la resolución de inicio o en la propuesta de resolución, determinará una reducción del 50% de la sanción que corresponda en el caso de que el pago voluntario se realice antes de la notificación de la propuesta de resolución, o del 25% en el caso de que se realice tras la notificación de dicha propuesta, así como, en todo caso, la terminación del procedimiento mediante la resolución oportuna.
+Se modifica por la disposición final 16 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
+
+### Artículo 2
+
+Artículo 2. Normas sancionadoras en materia de juego.
+(Derogado)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Artículo 3
+
+Artículo 3. Normas sancionadoras en materia de consumo.
+Se modifica el artículo 51 de la Ley 1/1998, de 10 de marzo, del Estatuto de los consumidores y usuarios de la comunidad autónoma de las Illes Balears, que queda redactado de la manera siguiente:
+«Artículo 51. Cuantías de las sanciones de multa.
+Por la comisión de infracciones en materia de defensa del consumidor se podrán imponer las siguientes sanciones:
+a) Multa de hasta 6.000 € en caso de infracciones leves.
+b) Multa comprendida entre 6.000,01 y 24.000,00 € para las faltas graves, y podrá sobrepasar esta cuantía hasta llegar al quíntuple del valor de los productos o los servicios objeto de la infracción.
+c) Multa comprendida entre 24.000,01 y 660.000,00 € para las faltas muy graves, y podrá sobrepasar esta cuantía hasta llegar al quíntuple del valor de los productos o servicios objeto de la infracción.»
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen aplicable a la instalación de máquinas, terminales o equipos de juego.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Régimen de autorizaciones de establecimientos de juego.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Informes preceptivos en materia de casinos, juegos y apuestas.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen de explotación provisional de apuestas hípicas.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas que se derogan.
+Queda derogado el Decreto Ley 7/2011, de 23 de diciembre, y todas aquellas otras disposiciones que se opongan, contradigan o resulten incompatibles con lo que dispone la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Efectos sobre normas estatales.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición final segunda
+
+Disposición final segunda. Normas reglamentarias.
+(Derogada)
+Se deroga por la disposición derogatoria única.a) de la Ley 8/2014, de 1 de agosto. Ref. BOE-A-2014-8888#dd
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor al día siguiente de su publicación en el «Butlletí Oficial de les Illes Balears».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que corresponda la hagan guardar.
+Palma, 30 de abril de 2012.–El Presidente, José Ramón Bauzá Díaz.–El Vicepresidente Económico, de Promoción Empresarial y de Empleo, José Ignacio Aguiló Fuster.

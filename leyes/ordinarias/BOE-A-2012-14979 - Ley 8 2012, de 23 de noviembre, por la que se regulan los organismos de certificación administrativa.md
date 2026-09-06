@@ -1,0 +1,272 @@
+# Ley 8/2012, de 23 de noviembre, por la que se regulan los organismos de certificación administrativa.
+
+- Identificador BOE: `BOE-A-2012-14979`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-14979
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley.
+PREÁMBULO
+La Ley 2/2012, de 14 de junio, de medidas urgentes de apoyo a la iniciativa empresarial y a los emprendedores, microempresas y pequeñas y medianas empresas (pyme) de la Comunitat Valenciana, se dictó, dentro del contexto de la «extraordinaria y urgente necesidad» que lo justifica, con el fin de desarrollar «una serie de iniciativas dirigidas de forma expresa a revitalizar y apoyar el tejido productivo y a favorecer la puesta en marcha de nuevas actividades económicas que generen empleo en el ámbito de la Comunitat Valenciana».
+Asimismo, su finalidad se centra en coadyuvar el «impulso de la iniciativa empresarial y del emprendimiento», «impulsar la creación de empresas y la generación de empleo» y, en general, en el apoyo a la «reactivación económica» dentro de un marco basado en la confianza y el bienestar social.
+En este sentido, dicha ley, entre sus diversas novedades e iniciativas, ha introducido modificaciones sustanciales en el procedimiento de apertura de establecimientos públicos mediante declaración responsable previsto en el artículo 9 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos.
+En concreto, tales modificaciones afectan, sobre todo, a la función de los denominados organismos de certificación administrativa (OCA) que, en lo que atañe a sus atribuciones, van a ejercer labores de comprobación, informe y certificación de los establecimientos públicos sujetos a la normativa vigente en esta materia.
+Este tipo de entidades certificadoras resultan una novedad en este ámbito. En particular, si bien ya mencionadas en el Decreto 52/2010, de 26 de marzo, del Consell, fueron introducidos en su actual dimensión en virtud de la referida Ley 14/2010; una ley que, como tal, necesita ser objeto de complemento normativo a los efectos de fijar la naturaleza, funciones y régimen jurídico de dichas entidades.
+La regulación originaria de los OCA les atribuía un papel complementario, que no excluyente, de la labor administrativa. Un papel centrado, básicamente, en la necesidad de abreviar plazos y tareas burocráticas, pero sin perder de vista la decisión última de la administración en este ámbito.
+Sin perjuicio de ello, con la nueva regulación operada en virtud de la citada Ley 2/2012, estos organismos pasan a ostentar un mayor protagonismo y responsabilidad dentro del procedimiento de apertura de locales abiertos a la pública concurrencia.
+En este contexto, los cambios introducidos por dicha ley configuran un modelo de apertura por el que, si obra certificación de OCA junto con la documentación anexa presentada con la declaración responsable, el titular o prestador podrá abrir el establecimiento de manera inmediata sin que sea necesario el otorgamiento de licencia municipal. En otras palabras, se atribuye al OCA una función en cierto modo equivalente a la labor administrativa, de modo que su labor, efectuada de acuerdo con los requisitos normativamente establecidos, sea suficiente para la referida apertura.
+Con estas premisas, si la Ley 2/2012 es una norma basada en la «extraordinaria y urgente necesidad», sobre todo por el substrato socioeconómico actual, la presente norma supone una continuación y una vía directa de desarrollo de aquél, concebida para posibilitar su necesaria aplicación práctica.
+El vínculo inmediato entre una y otra norma supone, entre otros motivos, la consolidación de una normativa destinada al fomento de la economía, a la necesidad de dotar al sistema de elementos o mecanismos prácticos para este fin, a la creación de herramientas que favorezcan el quehacer de los emprendedores, así como, en definitiva, en asentar el principio de «confianza en la ciudadanía» tal y como se desprende de la regulación estatal y europea en esta materia.
+Además de lo anterior, esta ley reguladora de los OCA goza de personalidad propia. Una autonomía motivada en la aparición de una figura inexistente en el panorama jurídico valenciano en este ámbito, de modo que su actividad, siguiendo una serie de premisas, se considera plena respecto a los requisitos, condiciones y aplicación de la diversa normativa sectorial a los efectos de apertura de un local público destinado al ocio y al entretenimiento.
+Por este motivo principal, la regulación que debe efectuarse de los OCA obliga a establecer una previsión normativa que determine, de manera indubitada, unas condiciones y unos requisitos precisos y exigentes destinados a evitar, en todo caso, disfuncionalidades y vacíos no deseados en el control de la seguridad de los espectáculos públicos, actividades recreativas y establecimientos públicos.
+Una regulación, en todo caso, necesaria y de inmediata aplicación, por cuanto se trata de una figura demandada por los sectores sociales y empresariales afectados y porque, asimismo, su actuación facilitaría la apertura de los locales públicos de una manera evidente.
+En este sentido, la elección de la forma de decreto ley para aprobar esta norma está plenamente justificada, constituyendo el hecho habilitante de la extraordinaria y urgente necesidad, que exige el artículo 44 del Estatuto de Autonomía de la Comunitat Valenciana, el dotar de continuidad a otras normas concebidas para aportar medidas urgentes en tiempos requeridos de ello y, de igual modo, presentar en el panorama jurídico una herramienta que haga posible la aplicación práctica de este objetivo sin más dilación ni tardanza.
+Por lo expuesto, al amparo de lo previsto en los artículos 44 y 49 del Estatuto de Autonomía de la Comunitat Valenciana, a propuesta del Conseller de Gobernación y previa deliberación del Consell, en la reunión del día 29 de junio de 2012, se adoptó el Decreto-ley 4/2012, por el que se regulan los organismos de certificación administrativa. Este decreto ley fue convalidado por el Pleno de Les Corts en la sesión del 12 de julio de 2012 y se acordó su tramitación como proyecto de ley,
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. Es objeto de la presente norma la regulación de las condiciones, requisitos y funciones y la creación del registro de los organismos de certificación administrativa (OCA) que, con independencia del lugar de su domicilio, efectúen las funciones de comprobación, informe y certificación en el ámbito territorial de la Comunitat Valenciana.
+2. El ámbito de actuación de los OCA atenderá a lo dispuesto en Ley 14/2010, de 3 de diciembre, de espectáculos públicos, actividades recreativas y establecimientos públicos, en la Ley 6/2014, de 25 de julio, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana y en el resto de normativa que les resulte aplicable.
+Se modifica por el art. 98.1 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica por el art. 93.1 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 2
+
+Artículo 2. Concepto.
+1. A los efectos de esta norma, se entenderá por organismo de certificación administrativa (OCA) toda persona física o jurídica con capacidad de obrar que ejerza funciones de comprobación, informe y certificación dentro del ámbito de aplicación de la presente ley.
+2. Los OCA, además de lo establecido en la presente ley sobre sus medios personales y materiales, deberán estar acreditados por organismo oficial para cada uno de los ámbitos y actuaciones que constituyan su contenido de actuación atendiendo a los requisitos y condiciones que disponga cada una de estos.
+3. Los OCA, una vez atendido a lo indicado en el apartado anterior, deberán inscribirse en el registro oficial que se cree al efecto. Dicha inscripción tendrá carácter constitutivo.
+4. Los OCA podrán comprobar y certificar todas o parte de las condiciones o ámbitos de control de los establecimientos, espectáculos, actividades, instalaciones y demás elementos que constituyan su objeto.
+5. Las funciones de los OCA no sustituyen las potestades de comprobación propias de la administración. En este sentido, tanto la Administración local como la autonómica podrán, en cualquier momento, verificar las funciones y actuaciones desarrolladas por aquellos.
+Se modifica por el art. 98.2 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica el apartado 1 y se añaden los apartados 3 a 5 por el art. 93.2 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 118 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 3
+
+Artículo 3. De los colegios profesionales que se constituyan como OCA.
+Los colegios profesionales cuyos colegiados puedan realizar las funciones previstas en esta norma podrán constituirse en OCA de acuerdo con los requisitos y condiciones exigidos, siéndoles aplicable el régimen previsto en el mismo.
+Los colegios profesionales que se constituyan como OCA atenderán al régimen de incompatibilidad indicado en el artículo 16 de esta norma y cualquiera otra de las incompatibilidades emanadas de la legislación vigente en cada momento.
+
+### Artículo 4
+
+Artículo 4. Clasificación de los OCA.
+1. Teniendo en cuenta la tipología y el riesgo de los espectáculos, actividades y establecimientos objeto de comprobación, informe y certificación, así como de acuerdo con los medios personales y materiales, los OCA se clasifican en tres categorías o grupos:
+a) Grupo A: organismos habilitados para emitir certificación de los establecimientos, actividades o espectáculos contenidos en el artículo 9 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, y actividades contenidas en el artículo 66 de la Ley 6/2014, de 25 de julio, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana.
+b) Grupo B: organismos habilitados para emitir certificación de los establecimientos, actividades o espectáculos contenidos en el artículo 10 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, y cuyo aforo no exceda de 3.000 personas en locales cubiertos o 10.000 personas en locales descubiertos, y actividades contenidas en el artículo 51 de la Ley 6/2014, de 25 de julio, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana.
+c) Grupo C: organismos habilitados para emitir certificación de los establecimientos, actividades o espectáculos contenidos en el artículo 10 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, y cuyo aforo exceda de 3.000 personas en locales cubiertos o 10.000 personas en locales descubiertos, y actividades contenidas en el artículo 24 de la Ley 6/2014, de 25 de julio, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana.
+2. Los OCA habilitados para emitir certificación a establecimientos, actividades o espectáculos dentro de los grupos indicados en el apartado anterior podrán, así mismo, efectuar tales funciones a los referidos en los grupos de menor exigencia.
+Se modifica por el art. 118 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+## CAPÍTULO II
+
+Condiciones de los OCA
+
+### Artículo 5
+
+Artículo 5. Condiciones generales de los OCA.
+1. Los OCA deberán disponer de los medios personales y materiales suficientes para el desempeño específico de su labor y estar al corriente de sus obligaciones fiscales y de Seguridad Social.
+2. A los efectos de la realización de las comprobaciones, informes y certificaciones en el ámbito de la contaminación acústica y seguridad industrial, los OCA, sin perjuicio de lo indicado en el artículo 9 de la presente norma, deberán estar acreditados por el organismo o departamento competente de acuerdo con lo establecido en la normativa sectorial.
+
+### Artículo 6
+
+Artículo 6. Seguro de responsabilidad civil.
+1. Los OCA que se constituyan deberán suscribir una póliza de seguro suficiente con el fin de cubrir las responsabilidades civiles que de su actuación pudieren derivarse. Dicha cuantía estará en función de la tipología y las facultades de comprobación y certificación que realicen estas entidades, siendo el mínimo de:
+a) Grupo A: Seguro mínimo de 1.800.000 euros.
+b) Grupo B: Seguro mínimo de 3.000.000 de euros.
+c) Grupo C: Seguro mínimo de 4.500.000 euros.
+2. Esta cantidad deberá ser objeto de actualización de acuerdo con las variaciones anuales del Índice de Precios de Consumo, a computar desde la fecha de entrada en vigor de esta ley.
+
+### Artículo 7
+
+Artículo 7. Medios personales y materiales.
+1. El OCA deberá disponer de personal cualificado, con titulación de arquitecto, ingeniero, arquitecto técnico o ingeniero técnico, en número y formación acorde a la clasificación del mismo a los efectos de la realización de las funciones de comprobación, informe y certificación.
+En este sentido, se exigirá una experiencia profesional en el campo o materia de acreditación del OCA durante el tiempo indicado en el artículo siguiente. Esta experiencia deberá estar debidamente demostrada mediante contratos, prácticas laborales o becas de formación, o bien en virtud de trabajos profesionales o coberturas de seguro de responsabilidad civil que cubran los referidos trabajos.
+2. A los efectos de la equivalencia entre el tiempo de contratación o práctica laboral efectuada y la realización de trabajos profesionales, se entenderá, a los efectos procedentes, que el informe o la realización de diez proyectos de actividad o de tres proyectos cuando tengan por objeto grandes superficies o grandes locales equivalen a un año de tiempo trabajado. En todo caso, dichos informes o la realización de los proyectos deberán haberse efectuado en los últimos cinco años al de la presentación de la documentación para la acreditación como OCA de las personas físicas o jurídicas interesadas.
+3. A los efectos de esta norma, se entenderá por grandes superficies o grandes locales a los establecimientos cuyo aforo supere las 500 personas. La realización del informe o la ejecución del proyecto podrá haber sido realizada a título unipersonal o en sociedad, figurando el técnico interesado, en este último caso, en el equipo redactor del proyecto.
+4. Los OCA deberán disponer del material y equipamiento apropiado para realizar las tareas de comprobación, informe y certificación a que hace referencia esta ley.
+
+### Artículo 8
+
+Artículo 8. Requisitos de los medios personales.
+1. En función de la clasificación de los OCA previsto en el artículo 4 de esta norma, los requisitos de los medios personales mínimos serán:
+a) Grupo A: Una persona con la titulación académica requerida en esta norma más dos años de experiencia profesional. El tiempo de experiencia profesional podrá ser de dieciocho meses cuando se posea una titulación o formación adicional en materia de espectáculos, actividades o seguridad frente a incendios de 12 créditos ECTS o de 240 horas.
+b) Grupo B: Tres personas con la titulación requerida, de las que, al menos, dos de ellas deberán disponer de tres años de experiencia profesional o dos años de experiencia profesional y titulación o formación adicional en materia de espectáculos, actividades o seguridad frente a incendios de 18 créditos ECTS o de 360 horas.
+c) Grupo C: Cinco personas con la titulación requerida, de las que, al menos, tres de ellas deberán disponer de cinco años de experiencia profesional o tres años de experiencia profesional más titulación o formación adicional en materia de actividades o seguridad contra incendios de 60 créditos ECTS o de 1.200 horas.
+2. La acreditación de la titulación o formación adicional a que se refiere este artículo quedará referida a universidades o escuelas universitarias públicas o privadas del territorio español, colegios profesionales competentes y servicios de formación y empleo de las comunidades autónomas o del Estado.
+En otros supuestos, el interesado deberá acreditar la homologación de su titulación o formación adicional de acuerdo con la normativa en vigor.
+
+## CAPÍTULO III
+
+Funciones y obligaciones de los OCA
+
+### Artículo 9
+
+Artículo 9. Funciones de los OCA.
+1. Los OCA deberán realizar por sí mismos las funciones a las que se refiere la presente norma. No obstante, en lo referente a la comprobación, informe y certificación en materia de contaminación acústica y de seguridad industrial, las personas físicas o jurídicas que se constituyan como OCA podrán subcontratar este cometido con entidades que estén debidamente acreditadas para ello de acuerdo con lo previsto en la normativa sectorial correspondiente. El certificado emitido por estas entidades acreditadas se incorporará a la certificación emitida por el OCA como un elemento más de ésta.
+En el supuesto de la exigencia de responsabilidades, dicha responsabilidad será solidaria entre el OCA y las entidades u organismos acreditados en materia de contaminación acústica y seguridad industrial cuando, en este caso, el motivo de controversia sea esta concreta certificación.
+Funciones de los OCA […].
+2. Son funciones de los OCA las siguientes:
+a) Realizar las comprobaciones, informes y certificaciones que constituyan su objeto, de acuerdo con lo establecido en la Ley 14/2010, de 3 de diciembre, de espectáculos públicos, actividades recreativas y establecimientos públicos, y en la Ley 6/2014, de 25 de julio, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana y en el resto de normativa aplicable incluida en su ámbito de aplicación de acuerdo con lo indicado en el artículo 1 de esta Ley.
+El informe derivado de la visita de comprobación deberá ir firmado por persona técnica competente de acuerdo con la titulación exigida.
+El certificado derivado de la comprobación y el informe estará firmado por persona técnica competente que efectúe la comprobación y por la persona gerente o máxima responsable del OCA.
+En el supuesto de los establecimientos regulados en el artículo 10 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, y las actividades contenidas en los artículos 24 y 51 de la Ley 6/2014, de 25 de julio, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunitat Valenciana, este certificado constituirá título habilitante suficiente a efectos de la apertura y funcionamiento de las actividades, instalaciones y establecimientos.
+b) Emitir un documento resumen en el que consten los requisitos principales del establecimiento, de acuerdo con lo indicado en el artículo 13 de esta ley. Este documento, lo situará el titular o el prestamista en un lugar visible y legible para terceros.
+Se modifica el apartado 2.a) por el art. 98.3 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica el apartado 2.a) por el art. 93.3 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica el apartado 2 por el art. 118 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 10
+
+Artículo 10. Obligaciones de los OCA.
+Serán obligaciones de los OCA:
+1. Crear y mantener un registro de certificaciones emitidas de los establecimientos informados. Este registro tendrá carácter permanente.
+2. Mantener los expedientes y la documentación derivada de sus funciones en formato que permita su consulta, garantizando la confidencialidad en cumplimiento de lo establecido en la normativa sobre protección de datos.
+3. Mantener los requisitos y condiciones que justificaron su inscripción en el registro de OCA, incluyendo las obligaciones que éstos comportan.
+4. Cumplir las condiciones contenidas en la resolución de inscripción y las establecidas en la presente norma y en las que se dicten en desarrollo de ésta.
+5. Emplear los métodos, sistemas y medios materiales oficialmente aprobados en la normativa en vigor, aquellos acreditados por entidad oficial de acreditación o, en su defecto, los adoptados por organismos nacionales o internacionales de reconocida solvencia.
+6. Proceder a la renovación técnica necesaria (procedimientos y medios materiales) para llevar a efecto las distintas actuaciones que comprende el objeto del OCA.
+7. Disponer de modelos de hojas de reclamaciones de acuerdo con lo previsto en la normativa en vigor.
+8. Las demás obligaciones que se deriven de esta ley.
+
+### Artículo 11
+
+Artículo 11. Supuestos de comprobación.
+Serán supuestos de comprobación, a los efectos de certificación por parte de los OCA a los que se refiere la presente norma, los referidos a condiciones de seguridad de utilización y accesibilidad en las actividades, establecimientos y espectáculos, protección contra incendios activa y pasiva, evacuación, dotaciones higiénico-sanitarias, aforo, compatibilidad urbanística, impacto ambiental si procede, contaminación acústica y seguridad industrial, sin perjuicio de lo indicado en el artículo 9, así como los demás elementos exigidos por la normativa sectorial para la apertura de los establecimientos públicos.
+Se modifica por el art. 98.4 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica por el art. 93.4 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 12
+
+Artículo 12. Requisitos de certificación.
+1. El certificado emitido por el OCA deberá contemplar el informe o informes favorables derivados de la comprobación referida en el artículo anterior.
+2. A estos efectos, el OCA certificará los aspectos indicados en el artículo 11 de acuerdo con lo indicado en la normativa sectorial reguladora de las condiciones y requisitos establecidos para la apertura de establecimientos públicos y demás regulación habilitante prevista al respecto.
+3. En materia de contaminación acústica, el OCA, por sí mismo o la entidad acreditada que subcontrate, comprobará que las conclusiones del estudio acústico del proyecto de actividad son conformes con la normativa sectorial y que el proyecto se puede ejecutar al efecto. Asimismo, verificará las condiciones de aislamiento acústico de los cerramientos del local, mediante la realización de mediciones efectuadas en función de lo previsto en la regulación por la que se establecen las normas de prevención y corrección.
+El OCA que certifique por sí mismo en materia de contaminación acústica deberá estar acreditado como entidad certificadora de acuerdo con lo previsto en la normativa sectorial.
+
+### Artículo 13
+
+Artículo 13. Contenido mínimo del documento resumen emitido por el OCA.
+El contenido mínimo del documento resumen previsto en el artículo 9.2.b de esta ley es el siguiente:
+1. Nombre, razón social y domicilio de las personas titulares o promotoras.
+2. Emplazamiento del establecimiento, industria o instalación.
+3. Objeto, actividad o espectáculo que se preste.
+4. En su caso, aforo máximo del establecimiento.
+5. El resto de los requisitos y condiciones consideradas esenciales según la tipología del establecimiento, industria o instalación.
+Se modifica por el art. 98.5 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica por el art. 93.5 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+ Se modifica por el art. 118 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 14
+
+Artículo 14. Información a remitir a las administraciones públicas competentes.
+Los OCA remitirán a la Conselleria competente en materia de espectáculos, y al ayuntamiento de la localidad en cuyo término municipal se ubique el establecimiento certificado, la siguiente información:
+1. Con carácter mensual: copia de las certificaciones emitidas y, en su caso, los informes de aquellos establecimientos cuyo resultado haya sido desfavorable. Esta documentación se remitirá en fichero electrónico según el modelo proporcionado por la Generalitat.
+2. Con carácter anual: declaración responsable de estar al corriente de sus obligaciones fiscales y de Seguridad Social, así como certificación del pago de la prima del seguro de responsabilidad civil.
+
+### Artículo 15
+
+Artículo 15. Confidencialidad en el ejercicio de las funciones.
+Los OCA deberán garantizar la confidencialidad respecto de la información que obtengan en el desarrollo y ejecución de sus funciones. El incumplimiento de esta obligación será considerada como causa de revocación de la inscripción en el Registro previsto en esta norma.
+
+### Artículo 16
+
+Artículo 16. Incompatibilidades.
+1. En ningún caso, el OCA podrá tener relación de dependencia o asociación respecto a las personas, entidades o empresas que lo contraten, a los efectos del menoscabo de su capacidad o independencia profesional. Esta circunstancia será aplicable, asimismo, respecto a la persona redactora del proyecto de actividad, a la ejecutora de las obras y a las entidades u organismos de control en materia de contaminación acústica y seguridad industrial que, en su caso, se subcontraten, garantizándose que a título personal o societario el OCA o alguno de sus componentes no podrá ser coincidente o tener alguna relación de dependencia o intereses societarios con la persona técnica o sociedad redactora del proyecto o ejecutora de las obras. A tal efecto, se considerará que existe tal dependencia cuando se den las causas de abstención y recusación previstas en la normativa reguladora del régimen jurídico del sector público.
+2. La certificación efectuada por un OCA no producirá efectos cuando exista relación o vínculo de dependencia demostrados entre el citado organismo y la persona y entidades referidos en el apartado anterior.
+3. Los técnicos colegiados adscritos a los OCA constituidos por los colegios profesionales deberán presentar una declaración jurada al colegio en cuya virtud se comunique que no están incursos en causa de incompatibilidad y que, en consecuencia, no tienen ninguna vinculación técnica, comercial, financiera o de cualquier otro tipo que pueda afectar a su independencia, ni influenciar, asimismo, el resultado de sus actividades de comprobación, informe y certificación respecto al titular o prestador o persona vinculada al proyecto presentado u obras ejecutadas.
+Se modifica el apartado 1 por el art. 98.6 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica el apartado 1 por el art. 93.6 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 17
+
+Artículo 17. Control de los OCA.
+De acuerdo con lo indicado en esta norma, los órganos competentes de las administraciones local y autonómica podrán requerir al OCA, en cualquier momento, y a los efectos de la verificación y el control oportunos, información sobre la actividad objeto de certificación efectuada. El OCA deberá permitir el acceso de las personas representantes de la Administración autonómica o local a sus instalaciones y oficinas y facilitarles la documentación requerida.
+Se modifica por el art. 98.7 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se modifica por el art. 93.7 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Artículo 18
+
+Artículo 18. Del Registro de Organismos de Certificación Administrativa (OCA).
+Se crea el Registro de Organismos de Certificación Administrativa (OCA). La regulación de este registro se efectuará mediante norma de desarrollo de lo previsto en esta ley.
+Para poder efectuar las funciones de comprobación, informe y certificación así como aquellas que se deriven de la normativa vigente, los OCA deberán estar inscritos en el Registro de Organismos de Certificación Administrativa. En el caso de que se cancele su inscripción, se procederá a lo que se establezca en la normativa de desarrollo de esta ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Regla de no gasto.
+La implementación y posterior desarrollo de esta ley no podrá tener incidencia alguna en la dotación de todos y cada uno de los capítulos de gasto asignados a las Consellerías y, en todo caso, deberá ser atendido con los medios personales y materiales de las Consellerías competentes por razón de la materia.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Inaplicación del procedimiento de apertura de establecimientos públicos previsto en la Ley 2/2006, de 5 de mayo, de la Generalitat.
+No resultará aplicable el procedimiento, ni el régimen de licencias, contemplados en la Ley 2/2006, de 5 de mayo, de la Generalitat, de Prevención de la Contaminación y Calidad Ambiental, cuando estén referidos a la apertura de locales o establecimientos públicos sujetos a la Ley 14/2010, de 3 de diciembre, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Remisión de documentación.
+Los ayuntamientos, respecto a los establecimientos abiertos por el procedimiento indicado en el artículo 9 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, remitirán a la Conselleria competente en materia de espectáculos la declaración responsable, el proyecto de actividad y la licencia de apertura o certificado emitido por el OCA.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Controles acústicos.
+A la puesta en marcha de la actividad y con la periodicidad que establezca la normativa vigente, se deberá realizar una auditoría acústica para comprobar que se cumplen con los requisitos establecidos en la normativa sectorial en materia de contaminación acústica.
+En el caso concreto de actividades que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios con este uso, se eximirá de la realización de una nueva verificación del aislamiento acústico en su primera auditoría acústica, de acuerdo con lo previsto en la normativa en vigor. Para el resto de supuestos, se deberá dar cumplimiento a los requisitos establecidos en la normativa sectorial en materia de contaminación acústica.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Controles en materia de seguridad industrial.
+Los controles que en materia de seguridad industrial se efectúen, se realizarán de acuerdo con lo indicado en la normativa sectorial en vigor.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+En tanto no se adapte el Decreto 7/2014, de 10 de enero, del Consell, a lo dispuesto en la presente ley, las entidades colaboradoras OCA podrán realizar las funciones previstas en la Ley 6/2014, de 25 de julio, de prevención, calidad y control ambiental de actividades de la Comunitat Valenciana.
+Se modifica por el art. 98.8 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-10
+ Se añade por el art. 93.8 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del artículo 51 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos.
+Se modifican los apartados 2 y 3 y se incluyen tres apartados nuevos en el artículo 51 de la Ley 14/2010, de 3 de diciembre, de la Generalitat, con la siguiente redacción:
+Modificación del apartado 2, que queda con la siguiente redacción:
+«2. Realizar, sin efectuar oportuna declaración responsable, modificaciones sustanciales en los establecimientos o instalaciones cuando dichas modificaciones presupongan el otorgamiento de una nueva licencia, certificación del OCA o la presentación de la oportuna declaración responsable ante el órgano competente.»
+Modificación del apartado 3, que queda con la siguiente redacción:
+«3. La dedicación de los establecimientos e instalaciones a actividades distintas de las indicadas en la licencia, declaración responsable o documento certificado por el organismo de certificación administrativa (OCA).»
+Incorporación de los apartados 32, 33 y 34 con la siguiente redacción:
+«32. La celebración de espectáculos públicos y actividades recreativas o la apertura de establecimientos públicos sin haber presentado ante el Ayuntamiento la declaración responsable y toda o parte de la documentación anexa indicada en esta ley.»
+«33. La celebración de espectáculos públicos y actividades recreativas o la apertura de establecimientos públicos en contra o sin contar con el certificado emitido por un OCA de acuerdo con lo indicado en esta ley.»
+«34. Prestar o efectuar actividades en contra o modificando las condiciones establecidas en la licencia de apertura, declaración responsable o certificación del OCA, cuando no supongan, en este último caso, una modificación sustancial.»
+
+### Disposición final segunda
+
+Disposición final segunda. Nuevo artículo 6 bis de la Ley 14/2010, de 3 de diciembre, de la Generalitat.
+Se introduce un nuevo artículo 6 bis en la Ley 14/2010, de 3 de diciembre, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos, con la siguiente redacción:
+«Artículo 6 bis. Procedimiento único.
+1. El procedimiento para la apertura de los establecimientos públicos en que se celebren espectáculos públicos y/o actividades recreativas será el regulado en la presente ley de acuerdo con lo dispuesto en los artículos 9 y 10.
+2. No obstante, los informes y certificaciones incluidos en dicho procedimiento, así como los controles, informes y régimen sancionador determinados en las distintas normativas sectoriales relacionados con aquél, serán, en todo caso, competencia de los órganos administrativos que los tengan atribuidos como propios por la normativa sectorial correspondiente.»
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo normativo.
+Se autoriza al Conseller competente en la materia regulada en la presente ley para desarrollar las previsiones contenidas en la misma mediante las disposiciones reglamentarias correspondientes.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Comunitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 23 de noviembre de 2012.–El President de la Generalitat, Alberto Fabra Part.

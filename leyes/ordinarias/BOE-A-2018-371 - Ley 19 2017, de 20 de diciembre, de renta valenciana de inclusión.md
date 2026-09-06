@@ -1,0 +1,1049 @@
+# Ley 19/2017, de 20 de diciembre, de renta valenciana de inclusión.
+
+- Identificador BOE: `BOE-A-2018-371`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2018-371
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada, con efectos desde el 20 de octubre de 2026, por Ley 2/2026, de 14 de abril. Ref. BOE-A-2026-9799#dd
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley.
+PREÁMBULO
+I
+El artículo 25 de la Declaración universal de derechos humanos y los diversos instrumentos de desarrollo de la misma reconocen a toda persona el derecho a un nivel de vida adecuado que asegure, a ella y a su familia, la salud y el bienestar y, en especial, la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios. En términos semejantes se pronuncia el artículo 11 del Pacto internacional de los derechos económicos, sociales y culturales. Este derecho a un nivel de vida adecuado es el fundamento de la protección social en casos de vulnerabilidad o exclusión social o en riesgo de estarlo y, en consecuencia, comporta la responsabilidad de los poderes públicos ante las personas que por circunstancias diversas se encuentran en tales situaciones.
+La estrategia europea para la protección y la inclusión social (Estrategia europea 2020) propone un enfoque global de la promoción de la integración de las personas más desfavorecidas a través del desarrollo de una estrategia integrada compuesta por tres pilares: unos mercados laborales que favorezcan la inserción, un complemento de recursos adecuado y el acceso a servicios de calidad.
+Cabe resaltar igualmente que mediante la Resolución 70/1, de 25 de septiembre de 2015, de la Asamblea General de Naciones Unidas, por la que se aprueba la Agenda 2030 para el desarrollo sostenible, se fija, entre otros objetivos y metas, el de reducir la desigualdad dentro de los países y entre ellos, y en particular, que desde 2015 a 2030 se debe lograr progresivamente, y mantener el crecimiento de los ingresos del 40% más pobre de la población a una tasa superior a la media nacional de cada país, y que se debe potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición.
+De otro lado, la Carta de los derechos fundamentales de la Unión Europea, de 7 de diciembre de 2000, con el fin de combatir la exclusión social y la pobreza, proclama el reconocimiento del derecho a «una ayuda social y a una ayuda a la vivienda para garantizar una existencia digna a todos aquellos que no dispongan de recursos suficientes».
+Las situaciones de necesidad de las personas exigen de los poderes públicos una inmediata y adecuada respuesta, de acuerdo con los principios rectores de la política social y económica reconocidos en el título I de la Constitución española. Así, dichos poderes públicos deben desarrollar una acción eficaz de prevención, tutela e intervención en favor del bienestar social de toda la población, fomentando con ello el desarrollo comunitario, la cohesión social, la justicia distributiva, la igualdad de oportunidades y una mayor calidad de vida de la ciudadanía.
+II
+En el ámbito autonómico, el Estatuto de autonomía establece, en su artículo 15, que «con el fin de combatir la pobreza y facilitar la inserción social, la Generalitat garantiza el derecho de los ciudadanos valencianos en estado de necesidad a la solidaridad y a una renta de ciudadanía en los términos previstos en la Ley».
+Con la aplicación del artículo 15 del Estatuto de autonomía se aprobó la Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana y, posteriormente, el reglamento que la desarrolla, mediante el Decreto 93/2008, de 4 de julio, del Consell. No obstante, el transcurso de los años y las nuevas realidades sociales que han emergido han constatado que el sistema que se puso en marcha con la aprobación de ambas normas ya no se corresponde con las características y necesidades de la sociedad valenciana actual.
+Asimismo, el artículo 17 de la Ley 4/2012, de 15 de octubre, por la que se aprueba la Carta de derechos sociales de la Comunitat Valenciana, establece que «la Generalitat garantiza el derecho de la ciudadanía a una renta mínima, en los términos previstos en la Ley», configurándose esta como «una prestación económica de carácter universal, que permite favorecer la inserción sociolaboral de las personas que carezcan de recursos suficientes para mantener un adecuado bienestar personal y familiar, atendiendo a principios de igualdad, solidaridad, subsidiariedad y complementariedad». Dicha renta «será gestionada por la red pública de servicios sociales, y su prestación queda vinculada al compromiso de las personas destinatarias de promover de modo activo su inserción sociolaboral».
+III
+La población empobrecida o que se encuentra en riesgo de pobreza sufre las consecuencias de ver abatidas sus condiciones materiales de vida y experimenta cómo desaparece la posibilidad de aspirar a ser hombres y mujeres libres, en la medida en que no pueden acceder al pleno ejercicio de sus derechos de ciudadanía. No se trata simplemente de una cuestión de desigualdad social, se trata de la libertad de la mayoría: quien no tiene la existencia material garantizada no puede ser libre.
+La nueva pobreza, golpeada por la exclusión del mercado de trabajo, la precariedad laboral, el agotamiento o carencia de acceso a otras prestaciones, el aumento de la desigualdad, así como las consecuencias problemáticas que se producen por la carencia de ingresos básicos, precisa un nuevo modelo de renta que favorezca la inclusión social y laboral de las personas vulnerables en riesgo de exclusión, por estar superada la actual renta garantizada de ciudadanía por la realidad económica y técnica de intervención social.
+Los estudios disponibles sobre la pobreza y exclusión social, y la experiencia del sistema público de servicios sociales, de los agentes sociales más representativos y de las organizaciones no gubernamentales implicadas en la lucha contra la exclusión social, ponen de manifiesto una dimensión de la población en situación de pobreza grave y severa superior a la que la habitualmente es beneficiaria de los programas y prestaciones vigentes.
+En la Comunitat Valenciana nos encontramos ante una situación de alarma social, caracterizada por, entre otros, los siguientes indicadores: elevada tasa de desempleo con especial incidencia en los menores de 25 años; reducción paulatina de los salarios medios; reducción de las rentas por unidades de consumo que afecta a toda la población; alto porcentaje de trabajadores y trabajadoras con ingresos inferiores al salario mínimo interprofesional, con incidencia mayor en las mujeres; descenso acusado de las tasas de cobertura de las prestaciones por desempleo; incremento de los porcentajes de riesgo de pobreza, siendo esta mucho más acusada –extensa e intensa– en las mujeres; incremento del número de pensiones no contributivas en el período 2008-2015, con importes mensuales medios en el límite de la pobreza severa; un gran número de pensiones cuya cuantía no alcanza el umbral de pobreza relativa y severa; incremento de la tasa de pobreza severa, que afecta actualmente a unas 400.000 personas; una tasa de privación material severa, que afecta a más de 330.000 valencianas y valencianos, o una tasa de riesgo de pobreza y exclusión social para 2015 del 27,6 % del total poblacional y que alcanza al 32,6% en el caso de menores. Es decir, que alrededor de 1.370.000 personas se encuentran en situación de pobreza o en riesgo de pobreza y exclusión social.
+IV
+El aumento del número y heterogeneidad de las situaciones de riesgo y empobrecimiento, que afectan en la actualidad a sectores cada vez más amplios de la sociedad de la Comunitat Valenciana, obliga a dar respuesta a realidades diferentes, de forma que no es suficiente vincular el derecho exclusivamente a situaciones de exclusión, sino también a personas y familias empobrecidas, que no se encuentran necesariamente en esta situación de exclusión social, pero sí en riesgo de padecerla debido a la merma de sus ingresos. Situaciones que, además, no solo responden a motivos estrictamente sociales, sino también a la paulatina precarización que está sufriendo el mercado laboral –contratos y salarios–, con grave incidencia en los perfiles laborales menos cualificados y de las personas jóvenes.
+Las políticas sociales han de hacer frente a situaciones de riesgo y procesos de empobrecimiento que afectan a sectores cada vez más amplios de la sociedad valenciana, en los que la pobreza o carencia de rentas no van necesariamente unidas a situaciones de exclusión.
+V
+En todo este marco, es más necesario concretar el acceso a un nuevo derecho básico, subjetivo y de ciudadanía, que garantice a la vez una cuantía económica mínima, junto con la puesta en marcha de servicios tecnológicos, técnicos y profesionales que hagan posible el derecho a la inclusión social mediante el acompañamiento a las personas que así lo precisen y la prevención de la situaciones de riesgo de exclusión social por carencia de medios económicos suficientes que garanticen una calidad de vida.
+El proyecto normativo que nos ocupa tiene por objeto la aprobación de una nueva regulación con rango de Ley, que pretende dar respuesta de manera eficaz a la necesidad de esas nuevas realidades sociales, construyendo un nuevo paradigma en la configuración del derecho reconocido en el artículo 15 del Estatuto de autonomía de la Comunitat Valenciana antes citado, tanto desde el punto de vista material como formal. Así como desarrollar el derecho fundamental de los valencianos y valencianas a los recursos y prestaciones suficientes para vivir de forma acorde con la dignidad humana, el establecimiento por el Consell de los medios oportunos de prevención y lucha contra la exclusión social en el ámbito territorial y competencial, atendiendo al acervo y los criterios comunes de la Unión Europea, complementando, en su caso, el desarrollo del sistema de protección social establecido en España.
+La Ley de renta valenciana de inclusión pretende ofrecer una respuesta digna y de justicia social, acorde con el principio de eficiencia y proporcionalidad, poniendo en marcha una nueva política autonómica dirigida a superar las deficiencias en materia de lucha contra la exclusión social, mediante el establecimiento de un sistema de garantía de ingresos mínimos, dirigido a superar las situaciones de pobreza grave y severa, sobre la base de la unidad económica de convivencia, como prestación diferencial, complementaria y subsidiaria de otros ingresos. Para ello se hace imprescindible contar con la implicación y colaboración del resto de sistemas de protección social, fomentando la participación, en los procesos de inclusión social y laboral como agentes colaboradores, de las entidades sociales sin ánimo de lucro.
+La Ley define, por primera vez, la promoción de la inclusión social como una prestación básica de los servicios sociales de entidades locales y se le dota de medios profesionales, programas y prestaciones económicas, lo que permitirá extender y consolidar el sistema público de servicios sociales al conjunto de la Comunitat Valenciana.
+De esta manera, la Ley apuesta por el municipalismo, reconociendo como actores principales en la inclusión social a los municipios. Si bien las causas de las situaciones de exclusión social pueden ser extraterritoriales, su abordaje debe ser territorial, desde la máxima proximidad. Para ello se garantiza la coordinación entre los departamentos del Consell con competencias en materias del ámbito de la Ley y las diferentes administraciones públicas.
+En efecto, la Ley pretende impulsar el cambio y la transformación social a través del empoderamiento personal, utilizando como metodología de intervención la acción comunitaria y como instrumentos, el diagnóstico social y los programas personalizados de inclusión social.
+De este modo, la renta valenciana de inclusión que se regula en la Ley se apoya en tres ejes fundamentales, a saber: el reconocimiento del derecho subjetivo de una prestación económica para cubrir necesidades básicas a la unidad de convivencia que carece de los recursos suficientes para la cobertura de las mismas, el derecho subjetivo de la inclusión social de dichas personas y la configuración de nuevos procesos administrativos, a través de la administración electrónica y las TIC, garantizando así el principio de transparencia a la vez que convirtiéndolos en más racionales, ágiles y eficaces, al facilitar el efectivo ejercicio de ambos derechos.
+En definitiva, la presente Ley, elaborada con la participación de la ciudadanía, entidades sociales, agentes sociales y administraciones públicas, es una respuesta a la realidad social acorde con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia que deben presidir la actuación de las administraciones públicas.
+VI
+La presente Ley dispone en su estructura y contenido del título preliminar, que contiene las previsiones generales de la norma, como su objeto y la definición de las situaciones de exclusión social protegidas y de las personas titulares, beneficiarias y destinatarias de la renta valenciana de inclusión, junto con el novedoso reconocimiento del derecho a la inclusión social, que se configura como el derecho a recibir los apoyos y el acompañamiento personalizado orientado a la inclusión plena y efectiva en la sociedad.
+Por su parte, el título I establece el régimen jurídico de la renta valenciana de inclusión, incluyendo su conceptualización, sus características, las modalidades que admite, los requisitos de acceso, las incompatibilidades, el importe de la renta valenciana de inclusión en cada una de sus modalidades, las reglas para el cálculo de la prestación que en cada caso corresponda y los complementos a la misma, entre otros aspectos.
+En este sentido, destaca como novedad, frente al anterior régimen jurídico establecido por la citada Ley 9/2007, de 12 de marzo, el desdoblamiento de la renta valenciana de inclusión en dos grandes modalidades, en función del carácter complementario o no de la prestación respecto de otros ingresos procedentes del trabajo o de otras prestaciones. Así, por un lado se regula la renta complementaria de ingresos y, por otro, la renta de garantía.
+El título II está dedicado a la regulación de los instrumentos de inclusión social e inserción laboral, incluyendo los acuerdos, programas personalizados e itinerarios de inclusión social así como los itinerarios de inserción laboral. Dichos instrumentos se configuran como un derecho para lograr la inclusión educativa, social, económica o laboral y sanitaria impulsando la coordinación formal entre los servicios sociales de entidades locales, los servicios públicos de empleo y formación así como los servicios y prestaciones del resto de sistemas de protección social de competencia autonómica.
+Se concreta también el papel que desarrollarán los equipos técnicos de los servicios sociales de entidades locales, optando por un modelo de intervención integral que aborde la situación de las personas desde todos sus aspectos. Las personas que accedan a los servicios sociales de entidades locales contarán con un o una profesional de referencia, que será un trabajador o trabajadora social, de acuerdo con el vigente Catálogo de referencia de servicios sociales, publicado por el Ministerio de Sanidad, Servicios Sociales e Igualdad, mediante la Resolución de 23 de abril de 2013, de la Secretaría de Estado de Servicios Sociales e Igualdad, por la que se publica el Acuerdo del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia en el BOE de 16 de mayo de 2013.
+En el título III se establece como novedad la eliminación de la distinción entre entidades municipales colaboradoras y no colaboradoras, apostando a favor de la municipalización en la instrucción, tramitación y seguimiento de la renta de garantía, en sus dos modalidades, quedando asignadas las competencias de resolución y pago de la prestación que corresponda a la Generalitat, a través de las direcciones territoriales de la conselleria con competencias en materia de renta valenciana de inclusión. Dichas direcciones territoriales serán, asimismo, las competentes para la instrucción y resolución de las solicitudes de prestación de renta complementaria de ingresos. Finalmente, merece destacar que el plazo de resolución se establece en cuatro meses, estableciéndose además el carácter estimatorio del silencio administrativo.
+El título IV contiene las reglas relativas al régimen de financiación, a través de los correspondientes créditos presupuestarios destinados a satisfacer el pago de las prestaciones económicas que se regulan en esta Ley, que tendrán el carácter de ampliables, y con la posibilidad de aportaciones económicas que puedan efectuar al respecto las diputaciones provinciales a través de los correspondientes convenios, en el marco de las relaciones de colaboración y cooperación entre administraciones públicas.
+El título V establece el régimen competencial y organizativo, la distribución de competencias y de atribuciones, en diferentes grados de responsabilidad, entre Generalitat, las entidades municipales y las diputaciones provinciales, a través de los instrumentos de cooperación, coordinación y participación que allí se regulan.
+El título VI regula la planificación, coordinación, calidad y evaluación de las políticas del Consell en distintos ámbitos sectoriales, con incidencia directa en la lucha contra la pobreza y la exclusión social, como son el ámbito educativo, el de empleo, la vivienda, la salud, la formación y los servicios sociales, incluyendo normas para la mejora de la calidad, evaluación y seguimiento de la renta.
+Finalmente, se recogen las disposiciones adicionales, transitorias, derogatoria y finales, incluyendo el calendario de implantación progresiva de la Ley.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto establecer, en el marco del sistema público de servicios sociales de la Comunitat Valenciana, el régimen jurídico de la renta valenciana de inclusión, definida en esta ley, garantizando con ello:
+a) El derecho subjetivo a una prestación económica para cubrir necesidades básicas a la unidad de convivencia que carezca de los recursos económicos suficientes para la cobertura de las mismas.
+b) El derecho subjetivo a la inclusión social mediante una prestación profesional a la unidad de convivencia que requiera dicho proceso orientado tanto a favorecer su inclusión social, a prevenir el riesgo de exclusión social, como a facilitar el proceso de emancipación de las personas en situación de empobrecimiento.
+Se modifica por el art. 1 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 2
+
+Artículo 2. Del derecho a la inclusión social.
+1. A los efectos de esta Ley, el derecho a la inclusión social se define como el derecho a recibir los apoyos y el acompañamiento personalizado orientado a la inclusión plena y efectiva en la sociedad, en todas sus dimensiones (económica, social, laboral, sanitaria, educativa, habitacional, cultural…) que garantice un nivel de vida y bienestar adecuados.
+2. Serán titulares de este derecho todas las personas con residencia en la Comunitat Valenciana que se encuentren en situación de exclusión social o de riesgo de exclusión social.
+Se modifica el apartado 2 por el art. 2 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+1. Renta valenciana de inclusión. La renta valenciana de inclusión es un derecho subjetivo que se concreta a través de una prestación económica y/o una prestación profesional para realizar un proceso de inclusión social dirigidas a cubrir las necesidades básicas que garanticen la calidad de vida combatiendo la exclusión y la vulnerabilidad social.
+2. Situación de exclusión social. Se entiende por situaciones de exclusión social, a los efectos de esta ley, aquellas situaciones en las que las personas no tienen los recursos necesarios para cubrir sus necesidades básicas, para el ejercicio de sus derechos sociales, con limitaciones en su participación social, y se encuentran en un estado de dificultad personal o social para su inclusión social y, en su caso, inserción laboral.
+3. Condición de vulnerabilidad social. Se define la condición de vulnerabilidad social como una situación de riesgo, de dificultad que inhabilita e invalida, de manera inmediata o en el futuro, a las personas o grupos afectados, en la satisfacción de su subsistencia y de calidad de vida.
+4. Unidad de convivencia. Se considera unidad de convivencia, a los efectos de esta ley, a la persona sola o al grupo de personas que, conviviendo en un mismo domicilio, están unidas entre sí por vínculos matrimoniales o relación permanente análoga a la conyugal, por adopción, por consanguinidad o afinidad hasta el segundo grado, tutela, guarda o acogimiento, de forma que sus integrantes resultarán, en su caso, personas beneficiarias de la renta valenciana de inclusión.
+5. Vivienda o alojamiento. Se considera vivienda o alojamiento el marco físico de residencia permanente e independiente donde residen la persona o personas que componen la unidad de convivencia. Asimismo, se asimilan a vivienda o alojamiento aquellos espacios físicos de residencia colectiva, utilizados de forma independiente por las unidades de convivencia, de acuerdo con los requisitos que se determinen reglamentariamente.
+6. Prestación económica. Se considera prestación económica a la entrega dineraria, de carácter periódico, reconocida a la unidad de convivencia, cuyo importe se determina en función de la modalidad y número de personas integrantes de la unidad de convivencia y cuya finalidad es la cobertura de necesidades básicas que garanticen la calidad de vida suficiente.
+7. Prestación profesional. Se define como prestación profesional de inclusión social de la renta valenciana de inclusión al conjunto de intervenciones de carácter temporal o permanente dirigidas a la prevención, rehabilitación, diagnóstico, atención en las situaciones de necesidad social o laboral, de promoción de la autonomía y la inclusión social de la ciudadanía, así como la atención sociosanitaria y socioeducativa de esta.
+8. Ingreso mínimo vital. El Ingreso Mínimo Vital es una prestación no contributiva de la Seguridad Social regulada mediante Real Decreto ley 20/2020, que garantiza unos ingresos mínimos a quienes carecen de ellos. Esta prestación se considera compatible con la renta valenciana de inclusión, no computable a los efectos del cálculo económico y no acumulable en su cuantía a la de la renta valenciana de inclusión.
+9. Modulo garantizado. Cuantía de los ingresos mínimos garantizados a través de la prestación económica de la renta valenciana de inclusión.
+10. Importe reconocido. Cuantía de la prestación económica de la renta valenciana de inclusión que resulta de deducir al módulo garantizado, los ingresos compatibles y computables de cualquier naturaleza de que disponga cualquier miembro de la unidad de convivencia.
+11. Importe a percibir. Cuantía total que se abonará mensualmente en concepto de renta valenciana de inclusión.
+Se modifica por el art. 3 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 4
+
+Artículo 4. Personas titulares, beneficiarias y destinatarias de la renta valenciana de inclusión.
+A los efectos de la presente ley, las personas destinatarias de la renta valenciana de inclusión serán tanto la persona titular como la o las personas beneficiarias que componen la unidad de convivencia definida en el artículo siguiente, siendo:
+1. Titular, la persona que solicita y a cuyo favor se concede la renta valenciana de inclusión, en nombre propio o en representación de la unidad de convivencia y que resulta ser la perceptora material de la misma, así como, en su caso, a cuyo nombre se establece el correspondiente instrumento de inclusión social y, en su caso, inserción laboral.
+2. Beneficiarias y beneficiarios, la persona o personas que conviven con la persona titular como miembros de la unidad de convivencia.
+3. Destinatarias, la persona titular y la persona o personas beneficiarias a que se refieren los apartados anteriores.
+Se modifica por el art. 4 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 5
+
+Artículo 5. Unidad de convivencia.
+A los efectos de esta ley, se entenderá como unidad de convivencia la formada por:
+1. Las personas que viven solas en una vivienda o alojamiento. Quedan excluidas de esta consideración las personas que, incluso viviendo solas, estén unidas a otras por matrimonio u otra forma de relación permanente análoga a la conyugal, excepto los casos siguientes:
+a) Cuando se encuentran iniciados los trámites judiciales de nulidad, separación o divorcio, o el de baja en el Registro de Uniones de Hecho, si procede.
+b) Cuando se trate de mujeres víctimas de violencia de género, de violencia sexual, de trata así como de otras violencias sobre la mujer recogidas en el artículo 3 de la Ley 7/2012, acreditadas según el artículo 9 de la mencionada ley, siempre que se acredite la no convivencia.
+c) Cuando se trate de personas que tengan la condición de refugiadas o hayan realizado la solicitud para el reconocimiento de tal condición y esta solicitud se haya admitido a trámite, y su cónyuge o persona con la cual mantengan una forma de relación permanente análoga a la conyugal no resida en el territorio español.
+d) Cuando se trate de personas migrantes, y su cónyuge o persona con la cual mantengan una forma de relación permanente análoga a la conyugal no resida en el territorio español, siempre que haya un informe social de los servicios sociales de atención primaria correspondientes; en estos supuestos, la condición de unidad de convivencia podrá mantenerse por un periodo máximo de doce meses.
+2. Dos o más personas que vivan en una misma vivienda o alojamiento y que estén unidas entre sí por un vínculo matrimonial o de una relación permanente análoga a la conyugal, o filiación cualquiera que sea su naturaleza incluida la tutela ordinaria, de parentesco por consanguinidad o afinidad hasta el segundo grado o por una relación de acogimiento familiar, o de delegación de guarda con fines de adopción. También formarán parte de la unidad de convivencia las personas menores de edad que se encuentren bajo la guarda de hecho de una de las personas destinatarias de forma temporal y en las condiciones que se determine reglamentariamente.
+3. Sin perjuicio de lo dispuesto en el apartado anterior y por un período máximo de 24 meses, las personas que, aun uniéndolas un vínculo de hasta segundo grado de consanguinidad o afinidad, compartan vivienda o alojamiento podrán formar unidades de convivencia diferenciadas siempre y cuando esta situación venga de forma sobrevenida por alguno de los siguientes supuestos:
+a) Personas prostituidas, víctimas de explotación sexual o trata y las víctimas de violencia de género o intrafamiliar, que hayan abandonado su domicilio habitual solas o acompañadas de sus hijas, hijos o personas menores de edad en régimen de guarda con fines de adopción o acogimiento familiar permanente o de otros familiares hasta el segundo grado por consanguinidad o afinidad.
+b) Personas acompañadas o no de sus hijas, hijos o personas menores de edad en régimen de guarda con fines de adopción o acogimiento familiar permanente y sus familiares hasta el segundo grado por consanguinidad o afinidad, como consecuencia de una ruptura matrimonial por separación o divorcio, o por ruptura de otra forma de relación permanente análoga a la conyugal.
+c) Personas acompañadas o no de sus hijas, hijos o personas menores de edad en régimen de guarda con fines de adopción o acogimiento familiar permanente y sus familiares hasta el segundo grado por consanguinidad o afinidad que hayan abandonado su domicilio habitual, como consecuencia de la ausencia de recursos económicos suficientes para sufragar los gastos de alojamiento, procedentes de un proceso de desahucio o por alguna otra situación extrema que así lo determine.
+d) Personas entre 16 y 24 años con menores de edad a su cargo.
+e) Personas entre 18 y 24 años que hayan estado sujetas al sistema de protección de menores o al sistema judicial de reeducación en algún período de los tres años anteriores a la mayoría de edad.
+f) Personas entre 16 y 18 años que participen en programas para la preparación de la vida independiente como complemento a una medida de protección jurídica de la persona menor de edad, de acuerdo al artículo 22 bis de la Ley orgánica 1/1996, de 15 de enero, de medidas de protección jurídica del menor, de modificación parcial del Código civil y de la ley de enjuiciamiento civil.
+g) Personas menores de 25 años con pensión de orfandad.
+4. En ningún caso se podrá formar parte de dos unidades de convivencia con carácter simultáneo, salvo las personas menores de edad en régimen legal de guarda y custodia compartida de acuerdo con lo que se establezca reglamentariamente.
+5. Una persona individual o varias personas unidas por vínculos familiares entre sí hasta el segundo grado por consanguinidad o afinidad cuando compartan vivienda con otra u otras unidades de convivencia con las que no mantengan vínculos familiares, se entenderá que son unidades de convivencia diferentes a efectos de la prestación. Así, se podrá considerar la existencia de dos o más unidades de convivencia en una misma vivienda o alojamiento, según se establezca reglamentariamente.
+Se modifica por el art. 5 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Se modifica por el art. 46 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+## TÍTULO I
+
+La renta valenciana de inclusión
+
+### Artículo 6
+
+Artículo 6. Concepto de renta valenciana de inclusión.
+La renta valenciana de inclusión es un derecho subjetivo que se concreta a través de una prestación económica y/o una prestación profesional para realizar un proceso de inclusión social dirigidas a cubrir las necesidades básicas que garanticen la calidad de vida combatiendo la exclusión y la vulnerabilidad social, que podrá estar vinculada a los instrumentos y actuaciones de apoyo regulados en esta ley, facilitando el acceso a la educación, la formación, el empleo, la vivienda, la promoción de la salud y de la autonomía personal y la autodeterminación, la cultura, el acceso y formación a las tecnologías de la información y la comunicación, la movilidad, la participación social y la formación en igualdad de género y oportunidades
+Se modifica y renumera por el art. 7 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 7.
+
+## TÍTULO I
+
+La renta valenciana de inclusión
+
+### Artículo 7
+
+Artículo 7. Características.
+La renta valenciana de inclusión presenta, con carácter general, las siguientes características:
+a) Es complementaria respecto de los recursos económicos de que disponga la persona titular y las personas integrantes de la unidad de convivencia, en su caso, hasta el importe del módulo garantizado que corresponda percibir en concepto de renta valenciana de inclusión.
+b) Es complementaria respecto del ingreso mínimo vital regulado por Real Decreto ley 20/2020, de 29 de mayo o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, hasta el importe del módulo garantizado que corresponda percibir en concepto de renta valenciana de inclusión.
+c) Es intransferible, por lo que no podrá ofrecerse en garantía de obligaciones, ni ser objeto de cesión total o parcial, ni de compensación o descuento, salvo para el reintegro de las prestaciones indebidamente percibidas, ni podrá ser objeto de retención o embargo de conformidad con lo establecido en el Código civil, en la ley de enjuiciamiento civil y demás normas del orden civil.
+d) Se configura como una prestación económica y/o profesional que dependiendo de la modalidad estará condicionada a la obligación de participar en actividades de inclusión social o inserción laboral.
+e) Es una prestación periódica y de duración indefinida, siempre que se mantengan en el tiempo los requisitos y condiciones que originaron el derecho a su percepción y que permitan su renovación.
+f) La prestación económica es incompatible con la renuncia o la falta de solicitud de las prestaciones económicas públicas a las que tengan derecho las personas destinatarias, desde cualquiera de los sistemas de rentas.
+Se modifica y renumera por el art. 8 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 8.
+
+### Artículo 8
+
+Artículo 8. Modalidades de la renta valenciana de inclusión.
+La renta valenciana de inclusión se constituye en las siguientes modalidades de prestaciones económicas y/o prestación profesional de inclusión social, en función de la situación de vulnerabilidad económica, social o laboral de la persona y su unidad de convivencia:
+1. Renta complementaria de ingresos, que comprende las siguientes modalidades:
+a) Renta complementaria de ingresos del trabajo.
+b) Renta complementaria de ingresos por prestaciones.
+2. Renta de garantía, que comprende las siguientes modalidades:
+a) Renta de garantía de ingresos mínimos.
+b) Renta de garantía de inclusión social.
+Se modifica y renumera por el art. 9 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 9.
+
+### Artículo 9
+
+Artículo 9. Renta complementaria de ingresos.
+La renta complementaria de ingresos comprende las modalidades de renta complementaria de ingresos procedentes del trabajo y de la renta complementaria de ingresos procedentes de prestaciones.
+1. La renta complementaria de ingresos del trabajo es la prestación periódica, de naturaleza económica y/o profesional, dirigida a complementar el nivel de ingresos de la unidad de convivencia que, aun disponiendo de ingresos procedentes del trabajo, cuente con un nivel mensual de recursos económicos que resulten insuficientes para atender los gastos asociados a las necesidades básicas para el mantenimiento de una vida digna y que no alcanza en el importe que se determina para esta modalidad de renta. Esta modalidad se gestionará entre la conselleria con competencias en materia de renta valenciana de inclusión y la conselleria con competencias en materia de empleo.
+2. La renta complementaria de ingresos por prestaciones es la prestación periódica, de naturaleza económica y/o profesional, dirigida a complementar el nivel de ingresos de la unidad de convivencia que, aun disponiendo de ingresos procedentes de ciertas pensiones o prestaciones sociales que no sean incompatibles, cuente con un nivel mensual de recursos económicos que resultan insuficientes para hacer frente a los gastos asociados al mantenimiento de una vida digna y que no alcanzan el importe para esta modalidad de renta.
+Las siguientes prestaciones no excluirán el establecimiento de otras ayudas públicas por esta modalidad de prestación de acuerdo con lo que se establezca reglamentariamente:
+a) Pensiones no contributivas en su modalidad de invalidez y jubilación, excepto las prestaciones no contributivas de invalidez con complemento por tercera persona y aquellas que tengan compatibilizada la percepción de la pensión no contributiva con el trabajo remunerado.
+b) Prestación del Fondo Nacional de Asistencia Social (FAS) en aquellos casos en que, habiendo solicitado la pensión no contributiva no le reconozcan el derecho a la misma, y siempre que no tengan derecho a otras prestaciones públicas.
+c) Las prestaciones del Seguro Obligatorio de Vejez e Invalidez (SOVI) no concurrentes.
+d) Las prestaciones por Incapacidad Permanente del Sistema Nacional de la Seguridad Social.
+Se modifica el apartado 2 por el art. 36 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica y renumera por el art. 10 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 10.
+
+### Artículo 10
+
+Artículo 10. Renta de garantía.
+1.La renta de garantía comprende las modalidades de renta de garantía de ingresos mínimos y la de renta garantía de inclusión social.
+a) La renta de garantía de ingresos mínimos es la prestación periódica, de naturaleza económica y/o profesional, dirigida a las unidades de convivencia conformadas únicamente por personas mayores de edad en situación de exclusión social o de riesgo de exclusión social cuyo nivel de recursos económicos no alcance el importe correspondiente de la renta de garantía de ingresos mínimos, resultando insuficiente para atender los gastos asociados a las necesidades básicas de la vida diaria. En todo caso, la persona titular de la prestación adquirirá el compromiso de favorecer el acceso a los derechos sociales básicos a las personas destinatarias que formen parte de la unidad de convivencia garantizando el acceso a planes personalizados de intervención.
+b) La renta de garantía de inclusión social es la prestación periódica, de naturaleza económica y/o profesional dirigida a garantizar el derecho a la inclusión a las unidades de convivencia en situación de exclusión social o de riesgo de exclusión social cuyo nivel de recursos económicos no alcance el importe de la renta de garantía de inclusión social, resultando insuficiente para atender los gastos asociados a las necesidades básicas de la vida diaria y en la que la persona titular o la persona o personas beneficiarias suscriban voluntariamente el acuerdo de inclusión social regulado en el artículo 22 de esta ley y su desarrollo reglamentario.
+2. La renta de garantía tiene carácter subsidiario de las prestaciones económicas vigentes y previstas en el resto de sistemas de protección social, incluido el ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, tanto estatales como autonómicos, a las que pudieran tener derecho la o las personas destinatarias, constituyéndose como el último recurso de protección social al que poder acceder.
+3. Reglamentariamente se establecerán los casos en que, excepcionalmente, y por prescripción del trabajador o trabajadora social de los servicios sociales de entidades locales, se podrá prescindir de la suscripción del acuerdo para el cumplimiento del programa personalizado de inclusión, sin perjuicio del oportuno seguimiento por el equipo técnico de los servicios sociales de entidades locales, de acuerdo a los requisitos que se desarrollarán reglamentariamente.
+Se modifica y renumera por el art. 11 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 11.
+ Se modifica por el art. 56 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 11
+
+Artículo 11. Derechos y obligaciones de las personas destinatarias de la renta valenciana de inclusión.
+1. Derechos de las personas destinatarias de la renta valenciana de inclusión.
+1.º Derechos básicos:
+a) Obtener una información completa, veraz, continuada, comprensible, accesible, suficiente y eficaz sobre la renta valenciana de inclusión y sobre las condiciones de acceso a la misma.
+b) Recibir una atención personalizada integral, en la que se consideren los aspectos individuales, familiares y comunitarios.
+c) Disponer de un análisis de necesidades individuales, familiares o sociales a través de un plan personalizado de intervención, de cuya copia dispondrá por escrito y en formato accesible.
+d) Participar en la elaboración de los planes personalizados de intervención que les afecten y en la toma de decisiones relativas a ellas, contando con los apoyos humanos, materiales, técnicos o tecnológicos necesarios.
+e) Realizar sugerencias y reclamaciones, por medio de procedimientos reglados ágiles, accesibles y transparentes, y que estos se tengan en cuenta en el proceso de seguimiento y evaluación de la intervención.
+f) La asignación de una persona profesional de referencia que sea la persona interlocutora principal y que vele por la coherencia, la coordinación con los otros sistemas de protección social y la globalidad y continuidad del proceso de atención.
+g) Elegir libremente entre las diferentes prestaciones, atendiendo a la valoración técnica del equipo de profesionales que atiendan su situación.
+h) Recibir atención en un entorno que garantice la privacidad y la confidencialidad, con objeto de preservar su intimidad personal, su dignidad y el respeto de sus derechos y libertades fundamentales.
+i) Renunciar a las prestaciones concedidas, salvo que la renuncia afecte a los intereses de personas menores de edad o de personas con capacidad modificada judicialmente, o cuando se trate de medidas cuya aplicación o ejecución estén impuestas por ley.
+2.º Derechos de valoración específica para acceso a recursos:
+La condición de persona destinataria de la renta valenciana de inclusión constituirá un supuesto de valoración específico a tener en cuenta en el acceso a los siguientes recursos, de acuerdo con lo que se disponga al respecto en la normativa sectorial:
+a) Ayudas económicas de emergencia social y las que fomentan el desarrollo o autonomía personal y la accesibilidad tanto de personas con diversidad funcional como mayores.
+b) Vivienda social en régimen de tenencia o alquiler.
+c) Obtención de plaza en escuela infantil pública.
+d) Obtención de plaza en centros educativos en cualquier etapa educativa y de formación reglada, así como en los cursos preparatorios para el acceso a los ciclos formativos de cualquier nivel del sistema educativo.
+e) Obtención plaza de ocio educativo inclusivo.
+3.º Derechos de acceso directo a otros recursos:
+Las personas destinatarias de la renta valenciana de inclusión tendrán garantizado el acceso directo como beneficiarias, en los términos que establezca la normativa autonómica y municipal en la materia que se desarrollarán reglamentariamente:
+a) A las becas de educación infantil desde el primer ciclo de 0 a 3 años en centros sostenidos con fondos públicos.
+b) A las ayudas de libros de texto y material curricular en todas las etapas de la educación obligatoria.
+c) A las becas de comedor escolar para alumnos y alumnas de educación infantil de segundo ciclo, de cero a tres años de la red pública y de educación obligatoria, escolarizados en centros que dispongan del servicio de comedor escolar.
+d) A los gastos derivados de la matrícula de educación secundaria y formación profesional y ayudas cuya concesión corresponda a la Generalitat.
+e) A las becas de gastos de matrícula y ayudas para la realización de estudios universitarios cuya concesión corresponda a la Generalitat.
+f) A los programas y acciones de orientación, formación y empleo propios de los servicios públicos de empleo y formación.
+g) A la sanidad universal y a la prestación farmacéutica y ortoprotésica, mediante la adaptación de medidas, por parte de la Conselleria competente en sanidad, que eliminen los obstáculos en el acceso al tratamiento médico y al establecimiento de la salud, de conformidad con la legislación estatal.
+h) A los programas preventivos y de promoción de la salud del sistema valenciano de salud con perspectiva de equidad, favoreciendo la participación de las personas titulares y beneficiarias de la renta valenciana de inclusión.
+i) Al Carnet Jove.
+2. Obligaciones de las personas destinatarias de la renta valenciana de inclusión.
+1.º Obligaciones a todas las personas destinatarias:
+a) Destinar la cuantía económica de la prestación a la finalidad para la cual se ha otorgado.
+b) Comunicar, en el plazo máximo de 20 días hábiles, los hechos sobrevenidos que, de conformidad con lo dispuesto en la presente ley, pudieran dar lugar a la modificación, suspensión o extinción del derecho a la prestación.
+c) Reclamar, durante todo el periodo de duración de la prestación, cualquier derecho económico, incluyendo el ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, que les pueda corresponder a cualquier persona miembro de la unidad de convivencia por cualquier título y ejercitar las acciones correspondientes para hacerlo efectivo.
+d) Mantener el empadronamiento y la residencia efectiva en la Comunitat Valenciana durante todo el periodo de percepción de la prestación.
+e) Comunicar, en el plazo máximo de 20 días hábiles, cualquier cambio relativo al domicilio habitual de la unidad de convivencia o el cambio del domicilio facilitado a efectos de notificaciones a los servicios sociales de atención primaria y, en su caso, a los servicios públicos de empleo. Así como las salidas voluntarias del territorio nacional.
+f) Reintegrar el importe de las prestaciones indebidamente percibidas o percibidas en cuantía indebida.
+g) Comparecer y atender los requerimientos de la administración y colaborar con las actuaciones de comprobación, seguimiento, revisión y modificación que esta lleve a cabo.
+h) Las personas titulares de la renta valenciana de inclusión que no dispusieran de número de identificación fiscal, deberán solicitarlo, en el momento en que obre en su poder la notificación de la resolución, para dar cumplimiento a lo recogido en el artículo 20 del Reglamento General de las actuaciones y los procedimientos de aplicación de los tributos aprobados por Real decreto 1065/2007, de 27 de julio.
+i) Aportar al procedimiento administrativo los datos y documentos que se le requieran por parte de la Administración Pública de acuerdo con lo dispuesto en la normativa.
+2.º Obligaciones de las personas destinatarias de la modalidad de renta de garantía de ingresos mínimos.
+Las personas destinatarias de la modalidad de renta de garantía de ingresos mínimos deberán solicitar el cambio a la modalidad de renta de garantía de inclusión social en el caso en que a la unidad de convivencia se incorporara alguna persona menor de edad.
+3.º Obligaciones de las personas destinatarias de la modalidad renta de garantía de inclusión social.
+Las personas titulares de la renta de garantía de inclusión social y, en su caso, la persona o personas beneficiarias de la unidad de convivencia, además de las obligaciones establecidas en el apartado 2,1.º, estarán obligadas de acuerdo con el plan personalizado de intervención a:
+a) Cumplir con los compromisos y obligaciones específicas que se hayan acordado en el plan personalizado de intervención.
+b) Comparecer, cuando haya sido previamente requerido, ante las personas profesionales de atención primaria competentes, el servicio público de empleo y formación (LABORA), el servicio público de empleo local y las entidades sin ánimo de lucro que figuren inscritas en el Registro General de los Titulares de Actividades de Acción Social y de los Servicios y Centros de Acción Social en la Comunitat Valenciana (en adelante, Registro de Titulares de Actividades de Acción Social) y estén desarrollando itinerarios en colaboración con los servicios sociales de atención primaria o el servicio público de empleo y formación.
+c) Solicitar la inscripción como demandante de empleo y participar en las acciones de mejora de la empleabilidad en las que fuese prescrito en el correspondiente itinerario, una vez determinada la idoneidad y aptitud para ello.
+d) Participar en el itinerario de inclusión social desarrollado por los servicios sociales de atención primaria o en colaboración por entidades de iniciativa social sin ánimo de lucro que figuren inscritas en el Registro de Titulares de Actividades de Acción Social o en el itinerario de inserción laboral desarrollado por los servicios públicos de empleo o por entidades sociales acreditadas para ello.
+e) Asistir a las entrevistas con las personas profesionales de los equipos de servicios sociales de atención primaria y a realizar las actuaciones prescritas como parte de su itinerario familiar o individualizado contempladas en el plan personalizado de intervención.
+f) Participar en el proyecto de intervención social y educativo familiar establecido a partir de la declaración de riesgo, en el plan de protección o, en su caso, en el programa de reunificación familiar, o en el plan de protección para adolescentes, cuando la unidad de convivencia esté siendo objeto de intervención por parte de la entidad pública de protección de personas menores de edad, o en cualquier otra medida exigida en la ley 26/2018, de 21 de diciembre, de la Generalitat, de derechos y garantías de la Infancia y la adolescencia.
+g) Asumir y cumplir la responsabilidad que le corresponde en su propio proceso de intervención social, especialmente cuando este proceso implique a personas con menores de edad a su cargo.
+4.º Obligaciones de las personas titulares de la modalidad de renta complementaria de ingresos del trabajo.
+Las personas titulares de la renta complementaria de ingresos del trabajo, además de las obligaciones establecidas en el apartado 2,1.º, estarán obligadas a ser demandantes de mejora de empleo, tanto en el momento de presentar la solicitud como durante el periodo de concesión de la prestación. Deberán participar en acciones de orientación, formación y mejora de la empleabilidad si así se determinara por parte de los servicios públicos de empleo y formación y en el desarrollo reglamentario.
+Se modifica la letra g del ordinal 3º del apartado 1 por el art. 37 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica y renumera por el art. 12 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 14.
+ Se modifica el apartado 1 por el art. 6 del Decreto-ley 4/2020, de 17 de abril. Ref. DOGV-r-2020-90115#a6
+
+## TÍTULO II
+
+Prestaciones económicas
+Se añade por el art. 13 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 12
+
+Artículo 12. Prestación económica.
+La prestación económica de la renta valenciana de inclusión consiste en un apoyo de naturaleza económica y percepción periódica que se configura como una ayuda destinada a cubrir las necesidades básicas y a paliar la ausencia o insuficiencia de ingresos de una unidad de convivencia, mientras dure su situación de necesidad y con objeto de mejorar las situaciones de vulnerabilidad económica, social, laboral y facilitar la inclusión social.
+Se modifica por el art. 14 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Se modifica el apartado 2 por el art. 56 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 13
+
+Artículo 13. Requisitos de acceso.
+1. Con carácter general tendrán derecho a la prestación económica de la renta valenciana de inclusión aquellas personas que cumplan los siguientes requisitos:
+a) Estar empadronadas o tener la residencia efectiva durante un mínimo de doce meses, de manera continuada, en cualquier municipio o municipios de la Comunitat Valenciana, inmediatamente anteriores a la fecha de solicitud.
+También cumple este requisito la persona que haya estado empadronada o haya tenido la residencia efectiva un total de cinco años, de manera continuada o interrumpida, de los diez inmediatamente anteriores a la solicitud.
+Los ayuntamientos facilitarán el empadronamiento de todas las personas sin hogar que residan habitualmente en el municipio, con independencia de su lugar de pernocta, en los términos determinados en cada momento por la administración general del Estado.
+En el caso de personas asiladas, solicitantes de asilo, refugiadas, extranjeras exiliadas o apátridas, personas valencianas que hayan residido en el exterior de la Comunitat Valenciana y que tengan la consideración de personas retornadas según lo que establezca la normativa autonómica en esta materia, así como las personas prostituidas, víctimas de explotación sexual o trata y las víctimas de violencia de género o intrafamiliar no se exigirá tiempo mínimo de residencia.
+A los efectos de acreditación de residencia efectiva se considerará tener asignada asistencia médica o estar inscrita como demandante de empleo o tener personas descendientes escolarizadas. Para su práctica, o a falta de inscripción en el padrón, y con el fin de acreditar el requisito de residencia efectiva, los servicios sociales de atención primaria podrán requerir apoyo y colaboración de entidades de iniciativa social que figuren inscritas en el Registro de Titulares de Actividades de Acción Social que lleven a cabo programas de intervención con colectivos en situación de exclusión social u otros supuestos que se consideren reglamentariamente.
+b) No disponer de recursos económicos o, en caso de disponer de alguno, que estos sean inferiores a la cuantía mensual de la prestación económica de la modalidad de renta valenciana de inclusión que pudiera corresponder a la persona titular o la unidad de convivencia.
+c) No disponer de bienes muebles o inmuebles, distintos a los de la vivienda habitual, sobre los que se posea un derecho de propiedad, posesión, usufructo o cualquier otro que, por sus características, valoración, posibilidad de explotación o venta, indique la existencia de medios suficientes y superiores al importe de la prestación económica de la renta valenciana de inclusión, de acuerdo a su modalidad y la unidad de convivencia, de la forma que se determinará reglamentariamente. Quedarán exceptuados de esta prohibición aquellos que formen parte de un patrimonio especialmente protegido de las personas con discapacidad, constituido de conformidad con lo establecido en su normativa específica.
+d) No ocupar una plaza en centro de atención residencial, excepto en los casos en que así se determine reglamentariamente.
+2. Las personas menores de 25 años, además de los requisitos establecidos en el apartado 1 de este artículo, tendrán que cumplir de la manera que se determinará reglamentariamente alguno de estos requisitos:
+a) Ser mayor de 18 años y haber permanecido en situación de alta en cualquiera de los regímenes que integran el sistema de la seguridad social entre uno y dos años antes de la solicitud de la renta valenciana de inclusión, y siempre que se acredite haber tenido anteriormente a la solicitud un hogar independiente de la familia de origen.
+b) Ser mayor de 18 años y haber estado sujeto, en algún periodo de los tres años anteriores a la mayoría de edad, a una medida administrativa de protección de menores, o del sistema judicial de reeducación, en las condiciones que se establezcan reglamentariamente.
+c) Ser mayor de 18 años y encontrarse en situación de dependencia o diversidad funcional.
+d) Ser mayor de 16 años y tener a su cargo hijas o hijos, personas con diversidad funcional o en situación de dependencia; así como ser persona prostituida, víctima de explotación sexual o trata o víctima de violencia de género o intrafamiliar.
+e) Ser mayor de 16 años y participar en programas de preparación para la vida independiente de los menores, de acuerdo con el artículo 22 bis de la Ley orgánica 1/1996, de 15 de enero, de medidas de protección jurídica del menor, de modificación parcial del Código civil y de la ley de enjuiciamiento civil.
+f) Tener entre 18 y 25 años y estar en situación de orfandad.
+3. Las personas entre los 18 y los 65 años, con un grado de diversidad funcional igual o superior al 65% y las personas de 65 años o edad superior, únicamente podrán acceder a las modalidades de renta complementaria de ingresos que prevé el artículo 8.1.b.
+No obstante, y con carácter excepcional, estas personas podrán acceder a las modalidades de renta de garantía en aquellos casos en que, tratándose de una persona titular individual o con personas menores de edad a su cargo, no tengan derecho al reconocimiento de cualesquiera otras prestaciones, contributivas o no contributivas, públicas o privadas y cumplan con el resto de requisitos para ser titulares de renta valenciana de inclusión.
+4. No podrán acceder a la prestación económica de la renta valenciana de inclusión las personas en quienes concurran alguna de las siguientes circunstancias:
+a) Cuando una de las personas que conforman la unidad de convivencia tenga derecho legalmente a percibir una pensión compensatoria o alimenticia y no la reciba, sin haber hecho uso de su derecho para percibirla, o renuncie voluntariamente a su percepción, excepto cuando la persona titular de la renta valenciana de inclusión acredite ser víctima de violencia de género, o se encuentre en otros supuestos excepcionales que justifiquen no hacer uso o la renuncia del citado derecho según se determine reglamentariamente.
+b) La renuncia de derechos o la falta de solicitud de las prestaciones económicas públicas, incluyendo el ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, a las que tenga derecho cualquier persona de la unidad de convivencia tanto en el momento de la solicitud como en el tiempo de vigencia de la percepción de la prestación económica de la renta valenciana de inclusión.
+5. Las personas individuales o unidades de convivencia que tengan reconocida la prestación del ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, tendrán derecho a la prestación económica de la renta valenciana de inclusión, previa solicitud, cumpliendo los requisitos establecidos en esta ley.
+6. No podrán acceder a las modalidades de renta de garantía del artículo 8.2 aquellas personas que puedan acceder a las modalidades de renta complementaria de ingresos que prevé el artículo 8.1, según lo que se establezca reglamentariamente.
+7. No podrán acceder a la modalidad de renta de garantía de ingresos mínimos del artículo 8.2.a. las unidades de convivencia en las que alguna de sus personas integrantes sea menor de edad.
+8. Asimismo con carácter excepcional, y siempre que así se justifique expresamente en el informe social que a tal efecto elaboren los y las trabajadoras sociales de los servicios sociales de atención primaria, podrán ser personas destinatarias de la prestación económica de la renta valenciana de inclusión aquellas personas en las que, aun no cumpliendo todos los requisitos establecidos, concurran circunstancias extraordinarias que las haga considerar en situación de especial vulnerabilidad, de acuerdo con lo que se establezca reglamentariamente.
+Se modifica la letra a) del apartado 1 por el art. 39 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica y renumera por el art. 15 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 12.
+
+### Artículo 14
+
+Artículo 14. Incompatibilidades.
+La prestación económica de la renta valenciana de inclusión estará sujeta a las siguientes incompatibilidades:
+1. Solo podrá concederse una prestación económica por unidad de convivencia.
+2. La percepción por la persona titular de otras prestaciones económicas que tengan por finalidad la inclusión social, la inserción laboral o la garantía de unos ingresos mínimos a excepción del ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla y la renta activa de inserción (RAI) por violencia de género o violencia doméstica o prestación de idéntica naturaleza que la sustituya.
+Se modifica y renumera por el art. 16 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 13.
+
+### Artículo 15
+
+Artículo 15. Importe del módulo garantizado por la renta valenciana de inclusión.
+1. Para la renta complementaria de ingresos del trabajo, el módulo garantizado se definirá como porcentajes del salario mínimo interprofesional (SMI) vigente en 2019, actualizado con el índice de precios de consumo (IPC) (siempre que el IPC no sea a la baja y que, una vez acumulado, no supere el SMI vigente), calculado en doce mensualidades, para la unidad de convivencia definida en el artículo 5 de esta ley, de acuerdo con el número de miembros en los términos siguientes:
+a) Una persona: 80% del SMI.
+b) Dos personas: 88% del SMI.
+c) Tres personas: 96% del SMI.
+d) Cuatro personas: 104% del SMI.
+e) Cinco personas: 112% del SMI.
+f) Seis personas o más personas: 120% del SMI.
+2. Para la renta complementaria de ingresos por prestaciones podrán ser complementadas las prestaciones recogidas en el artículo 9.2 de esta ley, de acuerdo con la correspondiente legislación que las regula y el régimen de incompatibilidades entre ellas. En estos casos, el módulo garantizado se definirá como porcentajes del SMI vigente en 2019, actualizado con el IPC (siempre que el IPC no sea a la baja y que, una vez acumulado, no supere el SMI vigente), calculado en doce mensualidades, para la unidad de convivencia definida en el artículo 5 de esta ley, de acuerdo con el número de miembros en los términos siguientes:
+a) Una persona: 70% del SMI.
+b) Dos personas: 82% del SMI.
+c) Tres personas: 90% del SMI.
+d) Cuatro personas: 96% del SMI.
+e) Cinco personas: 102% del SMI.
+f) Seis o más personas: 110% del SMI.
+En aquellas prestaciones susceptibles de ser complementadas que por su propia normativa la aplicación del módulo pudiera suponer la pérdida del derecho a las mismas, se complementará hasta el máximo legal permitido, de acuerdo a lo que se establezca reglamentariamente.
+3. Para la renta de garantía de ingresos mínimos, el módulo garantizado se definirá como porcentajes del SMI vigente en 2019, actualizado con el IPC (siempre que el IPC no sea a la baja y que, una vez acumulado, no supere el SMI vigente), calculado en doce mensualidades, para la unidad de convivencia definida en el artículo 5 de esta ley, de acuerdo con el número de miembros en los términos siguientes:
+a) Una persona: 35% del SMI.
+b) Dos personas: 42% del SMI.
+c) Tres personas: 45% del SMI.
+d) Cuatro personas: 47% del SMI.
+e) Cinco personas: 51% del SMI.
+f) Seis o más personas: 55% del SMI.
+4. Para la renta de garantía de inclusión social el módulo garantizado incluirán el apoyo económico a los procesos de inclusión social e inserción laboral vinculado a los acuerdos e itinerarios en los términos previstos en el título III de esta ley. Se definirá como porcentajes del SMI vigente en 2019, actualizado con el IPC, (siempre que el IPC no sea a la baja y que, una vez acumulado, no supere el SMI vigente), calculado en doce mensualidades, para la unidad de convivencia definida en el artículo 5 de esta ley, de acuerdo con el número de miembros en los términos siguientes:
+a) Una persona: 70% del SMI.
+b) Dos personas: 82% del SMI.
+c) Tres personas: 90% del SMI.
+d) Cuatro personas: 96% del SMI.
+e) Cinco personas: 102% del SMI.
+f) Seis o más personas: 110% del SMI.
+5. Las actualizaciones del módulo garantizado de acuerdo con el IPC, siempre que este no sea a la baja y que, una vez acumulado, no supere el SMI vigente, se producirán con efecto del día 1 de enero de cada año.
+Se modifica por el art. 17 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Se modifica por el art. 6 del Decreto-ley 4/2020, de 17 de abril. Ref. DOGV-r-2020-90115#a6
+ Téngase en cuenta que la actualización, mediante su referencia al IPC, de las diferentes rentas valencianas de inclusión, entrará en vigor el 1 de enero de 2021, según se establece en la disposición final 4 del citado Decreto-ley.
+
+### Artículo 16
+
+Artículo 16. Cálculo del importe reconocido de la prestación económica.
+1. El importe mensual reconocido de la prestación económica de la renta valenciana de inclusión se fija partiendo del importe del módulo garantizado que, en su caso, corresponda por la modalidad de renta y el número de personas que conforman la unidad de convivencia.
+2. Al módulo garantizado se le deducirá:
+a) Los recursos económicos de los que disponga la persona titular y las personas que conforman la unidad de convivencia en concepto rendimientos compatibles. No obstante no se computará la prestación del ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, ni la renta activa de inserción (RAI) por violencia de género o violencia doméstica o prestación de idéntica naturaleza que la sustituya, así como las prestaciones que se establezcan reglamentariamente.
+b) Cualquier tipo de ingreso del que disponga la persona titular y las que conforman la unidad de convivencia, incluido el rendimiento que se atribuya a los inmuebles, en cómputo mensual, siempre y cuando no se trate de la vivienda habitual. A los efectos de esta ley, el rendimiento de los citados inmuebles será del 2% anual de su valor catastral.
+3. El resultado de la deducción será el importe reconocido mensual. Se establece un mínimo de 50 euros mensuales como importe reconocido siempre que los recursos económicos no superen el importe garantizado de la renta valenciana de inclusión en su caso; excepto en la renta complementaria de ingresos por prestaciones, en la que la cuantía mínima se establecerá reglamentariamente en función de la normativa que regula las prestaciones a complementar.
+4. Con carácter excepcional y a los efectos del cálculo del importe reconocido, en los términos que se establezcan reglamentariamente, no se computarán como recursos económicos de la unidad de convivencia las cantidades que puedan percibirse mensualmente durante el plazo máximo de tres meses por cualquier integrante de la unidad de convivencia en concepto de rentas procedentes del trabajo siempre que estas sean inferiores en cómputo mensual al salario mínimo interprofesional (SMI) vigente calculado en doce mensualidades o a la cuantía mensual que estuvieran percibiendo o tuvieran derecho a percibir si esta es superior al SMI. No serán aplicables a estos supuestos las reglas sobre modificación y suspensión de la prestación establecidas en el título IV de esta ley.
+Será requisito indispensable que las personas destinatarias de la renta valenciana de inclusión comuniquen a la entidad correspondiente el inicio y la finalización de la actividad laboral a que se refieren los párrafos anteriores, en el plazo máximo de veinte días hábiles desde el inicio o fin de la misma.
+Se modifica por el art. 18 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Se modifica por el art. 6 del Decreto-ley 4/2020, de 17 de abril. Ref. DOGV-r-2020-90115#a6
+ Téngase en cuenta que la actualización, mediante su referencia al IPC, de las diferentes rentas valencianas de inclusión, entrará en vigor el 1 de enero de 2021, según se establece en la disposición final 4 del citado Decreto-ley.
+
+### Artículo 17
+
+Artículo 17. Complementos de la prestación económica.
+1. En los términos que se establezcan reglamentariamente, el importe a percibir en concepto de prestación económica de renta valenciana de inclusión se podrá incrementar hasta el 30 % de su importe reconocido para estas prestaciones, para sufragar los gastos derivados del alquiler o del pago de cuota hipotecaria de la vivienda habitual de la persona titular de la vivienda y para garantizar su acceso a los suministros energéticos básicos, siempre que ninguna persona beneficiaria reciba ninguna cuantía por el mismo concepto procedente de cualquier administración. En el caso de que la vivienda o alojamiento no ocasiono gasto a las personas destinatarias ni de alquiler ni de cuota hipotecaría, con el fin de garantizar los derechos energéticos, se incrementara en un 15 % del importe reconocido en la modalidad de la prestación de renta valenciana de inclusión que le corresponda. Respecto de las rentas complementarias de ingresos, el incremento antes referido por estos conceptos se determinará reglamentariamente, con la voluntad de hacer compatible este incremento con otras ayudas que puedan recibir otras administraciones por estos conceptos y de llegar a incrementos de la cuantía total recibida de un 30 %. Este complementos tendrán que aplicarse a la finalidad para la cual se han otorgante.
+2. Para unidades de convivencia conformadas por más de seis personas, el importe reconocido de la prestación económica de renta valenciana de inclusión se incrementará en 60 euros por cada persona miembro adicional.
+3. En el caso de las personas prostituidas, víctimas de explotación sexual o trata que se comprometan a un itinerario de inclusión social que incluya salir de la situación de prostitución, el importe reconocido mensual de la prestación económica de la modalidad de renta de garantía de inclusión social se incrementará en 320 euros.
+Se modifica el apartado 1 por la disposición adicional 8 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#da-8
+ Se modifica por el art. 67 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-9
+ Se modifica por el art. 19 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Téngase en cuenta que se establece el 30 de noviembre de 2020 como fecha de aplicación del nuevo complemento recogido en el apartado 2, según se determina en la disposición final 2 del citado Decreto-ley.
+
+## TÍTULO II
+
+Instrumentos de inclusión social y de inserción laboral
+
+## CAPÍTULO I
+
+Instrumentos de inclusión social: Diagnóstico de exclusión social o vulnerabilidad, acuerdo de inclusión, programa personalizado de inclusión e itinerarios de inclusión social
+
+### Artículo 18
+
+Artículo 18. Importe a percibir en concepto de prestación económica.
+1. El importe que la persona titular percibirá mensualmente siempre que no varíen sus circunstancias o las de la unidad de convivencia, será el importe reconocido de la prestación económica que figura en el artículo 16 de esta ley, sumados los complementos que le puedan corresponder recogidos en el artículo 17 de esta ley.
+2. En el supuesto de que la persona titular o alguna de las personas de la unidad de convivencia sea beneficiaría del ingreso mínimo vital o de cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, o de la renta activa de inserción (RAI) por violencia de género o violencia doméstica o de una prestación de idéntica naturaleza que la sustituya, el importe que se perciba por estas prestaciones se restará de la cuantía a percibir.
+En el supuesto de que el importe percibido por las prestaciones mencionadas supere el importe a percibir en concepto de renta valenciana de inclusión, la prestación económica se reconocerá a importe cero, se mantendrá a la persona como titular de la prestación y se le reconocerá el derecho a la prestación profesional, así como del resto de ayudas y recursos (alquiler, becas de comedor, de libros, etc.) establecidos en esta ley, salvo que la persona titular solicite la extinción.
+3. Las variaciones del ingreso mínimo vital, o de cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, que den lugar a una modificación en el importe a percibir en concepto de prestación económica de renta valenciana de inclusión, se aplicarán a partir del mes siguiente al de su comunicación por parte del órgano encargado de su gestión.
+Se modifica por el art. 42 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica por el art. 20 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+## TÍTULO III
+
+Prestaciones profesionales para la inclusión social
+Se modifica y renumera por el art. 21 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Título II.
+
+## CAPÍTULO I
+
+Instrumentos de inclusión social: Diagnóstico de exclusión social o vulnerabilidad, acuerdo de inclusión, plan personalizado de intervención e itinerarios de inclusión social
+Se modifica por el art. 22 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 19
+
+Artículo 19. Prestaciones profesionales para la inclusión social.
+1. La prestación profesional para la inclusión social consiste en el conjunto de planes, itinerarios, instrumentos, actuaciones y prescripciones, de carácter individual, familiar o grupal, elaborados, implementados, coordinados y evaluados por las personas profesionales de servicios sociales de atención primaria.
+Estas prestaciones están orientadas a promover y facilitar la plena inclusión social de las personas en situación de vulnerabilidad o exclusión social en el ámbito de la educación, la formación, el empleo, la alfabetización digital y las tecnologías de la información y la comunicación, la vivienda, la salud, la sanidad, la movilidad, el deporte, la cultura, la participación social y la igualdad de género y de oportunidades y la sociabilidad y comunicación con el entorno y redes de apoyo social.
+Su objetivo es apoyar a las personas destinatarias y sus comunidades incidiendo en su empoderamiento, la ampliación y mejora de sus recursos, capacidades y habilidades y acompañarlas en el proceso de emancipación haciendo especial incidencia en la ruptura de la transmisión generacional de su situación de empobrecimiento. Desde un enfoque holístico y de participación efectiva de la persona en su propio proceso de cambio hacia una inclusión plena.
+2. Son unas prestaciones que se enmarcan en el catálogo general de prestaciones profesionales del Sistema Público Valenciano de Servicios Sociales descritas en el artículo 36 de la Ley 3/2019, de 18 de febrero, de la Generalitat, de servicios sociales inclusivos de la Comunitat Valenciana.
+Se modifica por el art. 23 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 20
+
+Artículo 20. Requisitos de acceso.
+Con carácter general, tendrán derecho a las prestaciones profesionales para la inclusión social de la renta valenciana de inclusión todas aquellas personas con residencia efectiva en cualquier municipio de la Comunitat Valenciana que sean destinatarias de cualquier modalidad de la renta valenciana de inclusión independientemente de la conformación de su unidad familiar y que acepten libremente y de forma voluntaria esta prestación a través de un acuerdo de inclusión.
+Se modifica por el art. 24 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 21
+
+Artículo 21. Diagnóstico de exclusión social o vulnerabilidad.
+Este instrumento trata de determinar la situación de exclusión social o vulnerabilidad de la persona solicitante y de su unidad de convivencia, entendiéndolo como un proceso que sintetiza, interpreta y conceptualiza la naturaleza y magnitud de las necesidades sociales en sus efectos, génesis y causas personales y sociales. Para efectuar el diagnóstico y la valoración técnica servirán de base los criterios e indicadores sociales que se desarrollaran reglamentariamente.
+El diagnóstico de exclusión social o vulnerabilidad servirá de punto de partida para la elaboración del plan personalizado de intervención.
+Se modifica por el art. 25 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+## CAPÍTULO II
+
+Instrumentos de inserción laboral
+
+### Artículo 22
+
+Artículo 22. Acuerdo de inclusión.
+1. El acuerdo de inclusión, a los efectos de la presente ley, se entiende como el compromiso voluntario realizado por la persona solicitante en nombre propio y de las personas beneficiarias de recibir la prestación profesional orientada a la inclusión social. Este acuerdo supone el compromiso de participar de forma activa en el proceso de mejora e inclusión social y la colaboración con las personas profesionales de los servicios sociales de atención primaria responsables de la atención, seguimiento y evaluación de la intervención en la unidad de convivencia. Asumiendo además el cumplimiento responsable que le corresponde en el proceso de intervención social, la asistencia a las entrevistas con las personas profesionales de los servicios sociales de atención primaria, así como a realizar las actuaciones prescritas como parte de los itinerarios en el proceso de inclusión social o laboral. El acuerdo de inclusión será obligatorio para las personas titulares y beneficiarias, en su caso, en las modalidades de renta de garantía de inclusión social y en la renta complementaria del trabajo, favorecerá la implicación, el compromiso y el alcance de los objetivos a cumplir.
+2. Los compromisos incluirán, Asimismo, la adhesión al proyecto de intervención social y educativo familiar establecido a partir de la declaración de la situación de riesgo, en el plan individualizado de protección o, en su caso, en el programa de reintegración familiar, de acuerdo con los artículos 17 y 19 bis de la Ley orgánica 1/1996, de 15 de enero, de protección jurídica del menor, de modificación parcial del Código civil y de la ley de enjuiciamiento civil, cuando la unidad de convivencia está siendo objeto de intervención por parte de la entidad pública de protección de personas menores de edad.
+3. Reglamentariamente se establecerán los supuestos en que las personas destinatarias de la renta valenciana de inclusión podrán ser eximidas de participar en el plan personalizado de intervención cuando se entienda que no concurren elementos de riesgo de exclusión en la unidad de convivencia.
+4. En caso de negativa a la suscripción de acuerdos, incumplimiento o discrepancias entre las personas profesionales de atención primaria de los servicios sociales y la persona o personas destinatarias, estas últimas podrán presentar alegaciones de acuerdo a lo que se especifique en el desarrollo reglamentario, ante la comisión técnica de inclusión social de la renta valenciana de inclusión que se creará reglamentariamente para este fin en la dirección general competente en materia de renta valenciana de inclusión.
+Se modifica el apartado 4 por el art. 38 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica y renumera por el art. 26 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 18.
+
+## CAPÍTULO III
+
+Otros instrumentos de inclusión social y de inserción laboral
+
+### Artículo 23
+
+Artículo 23. Plan personalizado de intervención.
+1. El plan personalizado de intervención se formulará en función del diagnóstico social y del acuerdo de inclusión realizado por las trabajadoras y los trabajadores sociales e incluirá la valoración de la situación de exclusión social o de riesgo de exclusión social, los objetivos y acciones específicas de carácter personal, familiar, educativa, formativa, social y laboral oportunas para prevenir o mejorar la situación o el riesgo de exclusión social de la persona titular y del conjunto de los miembros de su unidad de convivencia. En su caso, conllevará, además, los itinerarios de inclusión social o los itinerarios de inserción laboral con el fin, en todo caso, de facilitar su inclusión social o inserción laboral. Es el instrumento técnico que recogerá el diagnóstico de la situación, las propuestas de intervención, objetivos, actuaciones y tareas, así como los indicadores y metas a nivel común de la unidad de convivencia y a nivel individualizado de cada miembro. Será elaborado por las personas profesionales de los servicios sociales de atención primaria, y comprenderá la aplicación de las actuaciones básicas contempladas en los módulos operativos de intervención.
+Con carácter general los servicios sociales de atención primaria mantendrán entrevistas con las personas destinatarias que así se determine en el acuerdo de inclusión a fin de conocer y analizar sus necesidades, capacidades, habilidades y demás circunstancias y basándose en esta información, se elaborará un diagnóstico de la situación y pronóstico diseñará un itinerario personalizado de inclusión, que podrá conllevar diferentes actuaciones.
+Deberá ajustarse a las preferencias, capacidades y circunstancias de las personas a quienes se dirige y adecuarse a un modelo integral de intervención, contemplando todas las actuaciones que se consideren necesarias para la consecución de los objetivos de inserción, tanto desde el ámbito de los servicios sociales, como, en su caso, de los de empleo y formación, educación, vivienda, salud, participación social, deporte y cultura.
+Además, en él quedará reflejada la necesidad, posibilidad y conveniencia de realizar la intervención, o bien si existen motivos de exoneración de realizar el plan personalizado de intervención cuando a su juicio profesional se considere.
+2. Se establecerán reglamentariamente los instrumentos de medición de la exclusión social, así como la configuración del plan personalizado de intervención y la evaluación de los instrumentos de inclusión social.
+3. A los efectos de esta ley, el plan personalizado de intervención es un proceso dinámico, revisable y susceptible de modificación en función del cumplimiento de objetivos, de nuevos itinerarios o de aparición de nuevas necesidades, así como de la valoración conjunta de los resultados de la persona profesional de los servicios sociales de atención primaria y, en su caso, de las acciones de las políticas activas de la inserción laboral efectuadas por los servicios públicos de empleo a través de los orientadores o las orientadoras o figuras similares de servicios de empleo locales.
+4. Formarán parte del plan personalizado de intervención aquellos programas en los que participe la unidad de convivencia con motivo de una situación de desprotección infantil previstos en la Ley 26/2018, de 21 de diciembre, de la Generalitat, de derechos y garantías de la Infancia y la adolescencia.
+5. El proceso de renovación de la prestación económica de la renta valenciana de inclusión supondrá con carácter obligatorio, en el caso de la modalidad de renta de garantía de inclusión social, la evaluación del plan personalizado de intervención de la persona o personas destinatarias, en su caso, así como la formulación de un nuevo plan para el nuevo período.
+Se modifica y renumera por el art. 27 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 19.
+
+### Artículo 24
+
+Artículo 24. Itinerario de inclusión.
+El itinerario de inclusión es el conjunto de actuaciones, instrumentos y procedimientos técnicos que darán cuerpo al plan personalizado de intervención.
+Estará conformado por los módulos operativos de intervención, entendiendo estos como los marcos de referencia básicos para analizar, identificar las necesidades y establecer las actuaciones básicas o servicios y programas de intervención social. Estos se desarrollaran reglamentariamente.
+Se podrán establecer dentro de un mismo plan personalizado de intervención, tanto itinerarios familiares como individuales.
+La intervención consiste en la atención integral centrada en la persona, familia o unidad de convivencia, desde un enfoque de desarrollo positivo, sistémico y de efectiva participación de la persona en el proceso de intervención, así como de las personas menores de edad en su caso. La intervención se realizará en horario extenso y flexible.
+La intervención será diseñada e implementada de forma interdisciplinar mediante la metodología participativa y basada en el trabajo en equipo, a partir de una valoración integral de las necesidades, de una evaluación conjunta de las actuaciones que estará orientada a garantizar el empoderamiento y la atención integral de las necesidades de las personas.
+El proceso de atención se basará en un enfoque grupal y comunitario y tendrá especialmente en cuenta la necesidad de intervenir simultáneamente con otros sistemas de protección social, como por ejemplo, el sistema sanitario o el sistema educativo, entre otros, incluidas todas las medidas necesarias para conseguir una mejora en las condiciones de la calidad de vida de las personas.
+Las actuaciones acordadas se formalizarán en un modelo normalizado, que será firmado por las personas destinatarias del acuerdo de inclusión social y por la persona profesional de los servicios sociales de atención primaria correspondiente. En dicho documento se establecerán las acciones específicas a realizar por las partes intervinientes en el proceso de inserción social, en la forma en que se determine reglamentariamente.
+En situaciones consideradas especiales por la persona profesional de los servicios sociales de atención primaria, se podrá posponer o eximir temporalmente su participación en dicho itinerario (violencia de género o intrafamiliar, situaciones sobrevenidas, etc.).
+Se modifica y renumera por el art. 28 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 20.
+
+## TÍTULO III
+
+Procedimiento
+
+### Artículo 25
+
+Artículo 25. Funciones de las personas profesionales de los servicios sociales de atención primaria con respecto a los instrumentos de inclusión social.
+1. Corresponde a las personas profesionales de los servicios sociales de atención primaria:
+a) La detección de las personas en situación de exclusión social o de riesgo de exclusión social, y a las trabajadoras y los trabajadores sociales de referencia la realización del diagnóstico social, así como la suscripción de los acuerdos de inclusión.
+b) La implementación de programas y actuaciones por parte de las personas profesionales de atención primaria que favorezcan la inclusión social de grupos vulnerables con características homogéneas, desarrolladas por el equipo de intervención social, con figuras de diversos perfiles profesionales.
+c) Colaborar y coordinarse con la atención primaria de carácter básico y específico o con la atención secundaria y con otros agentes institucionales del Sistema Público Valenciano de Servicios Sociales, bajo el principio de unidad de acción y, en su caso, en la elaboración, implementación, seguimiento y evaluación del plan personalizado de intervención social.
+d) Estrategias de empoderamiento personal, así como la promoción de actuaciones formativas, ocupacionales, socioeducativas y de inclusión social.
+e) Asesoramiento, prevención y rehabilitación, en su caso, ante situaciones de vulnerabilidad o riesgo.
+f) Elaboración y seguimiento del plan personalizado de intervención social.
+g) Acompañamiento, atención integral y protección ante situaciones de vulnerabilidad, riesgo o protección individual y familiar.
+2. Para el ejercicio de estas funciones, el personal de los servicios sociales de las entidades locales se coordinará con profesionales de otros ámbitos de actuación, en particular, de educación, empleo, salud y vivienda. Podrán participar profesionales de las entidades sin ánimo de lucro inscritas en el Registro de titulares de actividades de acción social que desarrollan actuaciones específicas incluidas en los planes personalizados de intervención. Reglamentariamente, se establecerán los procedimientos de colaboración y coordinación.
+Se modifica y renumera por el art. 29 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 21.
+
+## CAPÍTULO II
+
+Instrumentos de inserción laboral
+
+### Artículo 26
+
+Artículo 26. Itinerario personal de inserción laboral.
+1. Se elaborará desde una visión integral por el personal de los servicios de empleo y formación con competencia en la materia. Debe contemplar todas las acciones que se consideren necesarias para alcanzar los objetivos de inserción laboral, adecuándolo a las competencias profesionales y a las necesidades del sistema productivo.
+2. El diagnóstico de empleabilidad se realizará por los profesionales competentes en la materia de cada una de las administraciones o entidades que tengan competencia en materia de empleo y formación.
+3. Reglamentariamente, se establecerán las circunstancias especiales que permiten prescindir temporalmente de la prescripción de los itinerarios laborales, manteniéndose, en su caso, el resto de compromisos acordados en el Plan de inclusión social.
+Se modifica y renumera por el art. 30 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 22.
+ Se modifica por el art. 56 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+ Se modifica el apartado 3 por el art. 46 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Artículo 27
+
+Artículo 27. Otros programas de los servicios sociales de atención primaria para la inclusión social.
+1. Los programas de prestaciones económicas individualizadas dirigidos a la cobertura de necesidades básicas de diferente índole, podrán incluir manutención, transporte a los centros de formación, adquisición de material básico para la formación. Asimismo, la conselleria competente en materia de empleo podrá contribuir en la financiación de ayuda relacionada con las acciones de inserción laboral.
+2. Las personas profesionales de los servicios sociales de atención primaria de entidades locales realizarán programas específicos de naturaleza grupal o comunitaria que favorezcan la inclusión social de las personas destinatarias de la renta de garantía de inclusión social y serán financiados por la conselleria competente en materia de renta valenciana de inclusión o por las diputaciones provinciales, en los términos que establece la Ley 3/2019, de 18 de febrero, de Servicios Sociales Inclusivos de la Comunitat Valenciana, o en la norma que la sustituya en su caso, o bien en los términos en que se acuerde en los convenios de colaboración entre ambas administraciones para la implementación y desarrollo de la presente ley.
+3. Cualquier persona individual, empresas suministradoras de servicios y entidades de iniciativa social sin ánimo de lucro pueden colaborar en la detección de las situaciones de exclusión o vulnerabilidad social. Asimismo, podrán colaborar en los programas de inclusión social las entidades sin ánimo de lucro que estén inscritas en el Registro de Titulares de Actividades de Acción Social.
+4. Los programas de atención familiar, los de autonomía personal y los de acción comunitaria dirigidos a favorecer la accesibilidad y la igualdad de oportunidades, y desarrollados tanto por las entidades locales como por las de iniciativa social sin ánimo de lucro que incluyan itinerarios de inclusión social, podrán ser financiados por la Generalitat y por las diputaciones provinciales en los términos en que se acuerde en los convenios de colaboración entre ambas para la implementación y desarrollo de la presente Ley.
+5. Las entidades locales podrán elaborar planes de inclusión social territoriales, programas y proyectos de inclusión social que incluyan actuaciones vinculadas a esta Ley de renta valenciana de inclusión.
+Se modifica y renumera por el art. 31 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 23.
+
+### Artículo 28
+
+Artículo 28. Programas de inserción laboral.
+1. Los servicios públicos de empleo y formación realizarán programas y medidas específicas, dentro del ámbito de su competencia y del catálogo de servicios de los que disponen, para aumentar la empleabilidad y la capacitación de las personas destinatarias de la renta valenciana de inclusión. Estas medidas se desarrollarán reglamentariamente.
+2. Las administraciones públicas con competencia en materia de formación profesional y empleo coordinarán sus actuaciones con las competentes en inclusión social, al objeto de garantizar la eficacia y eficiencia del conjunto de actuaciones. Reglamentariamente, se desarrollarán los instrumentos de coordinación entre ambos sistemas.
+3. Las administraciones introducirán cláusulas sociales de acuerdo a la Ley 18/2018, de 13 de julio, de la Generalitat, para el fomento de la responsabilidad social en las contrataciones públicas que otorgan prioridad a las entidades que contratan a personas en situación de exclusión o en proceso de incorporación laboral.
+Se modifica y renumera por el art. 32 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 24.
+ Se modifica la letra a) del apartado 2 por el art. 46 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+## TÍTULO IV
+
+Procedimiento
+Se modifica y renumera por el art. 33 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Título III.
+
+### Artículo 29
+
+Artículo 29. Solicitud de la renta valenciana de inclusión.
+El procedimiento administrativo para el reconocimiento del derecho a percibir la renta valenciana de inclusión atenderá a los criterios de simplificación, coordinación interadministrativa e interdepartamental y gestión telemática.
+1. Renta complementaria de ingresos. Las personas que reúnan los requisitos presentarán la solicitud junto a la documentación requerida en el registro de la Generalitat, sin perjuicio de lo dispuesto en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+Cuando los documentos necesarios para completar la solicitud no puedan ser comprobados por la administración de forma telemática o no obren en su poder y no puedan ser aportados por la persona interesada en el momento de la solicitud, se podrán sustituir por una declaración responsable de la persona solicitante en la que conste que se obliga a presentar esa documentación durante la instrucción del procedimiento.
+En el supuesto que la documentación descrita en la declaración responsable no se aporte, con carácter previo a emitir la correspondiente resolución, el órgano instructor de esta fase del procedimiento le requerirá que en el plazo de 10 días aporte la documentación y si transcurrido dicho plazo no hubiere presentado la documentación requerida, se entenderá por desistido y se archivará el expediente.
+2. Renta de garantía. Las personas interesadas presentarán la solicitud preferentemente en el registro oficial del ayuntamiento del domicilio donde tenga su residencia efectiva la persona solicitante. Asimismo, también podrá presentarse en los registros oficiales de la Generalitat, o mediante cualquiera de las modalidades previstas en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+Cuando los documentos necesarios para completar la solicitud no puedan ser comprobados por la administración de forma telemática o no obren en su poder y no puedan ser aportados por la persona interesada en el momento de la solicitud, se podrán sustituir por una declaración responsable de la persona solicitante en la que conste que se obliga a presentar esa documentación durante la instrucción del procedimiento. No obstante lo anterior, en el caso de las personas extranjeras que no dispongan de NIE, se deberá presentar, en todo caso, el pasaporte o la cédula de inscripción original, y sí éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según lo establecido en los artículos 27 y 28 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+En el supuesto que la documentación descrita en la declaración responsable no se aporte, con carácter previo a emitir el informe propuesta preceptivo, la entidad local como órgano instructor de esta fase del procedimiento le requerirá para que en plazo de 10 días aporte la documentación y si transcurrido dicho plazo no hubiere presentado la documentación requerida, se entenderá por desistido y se propondrá el archivo del expediente.
+3. En ambos casos también, las personas solicitantes podrán firmar la autorización expresa para la consulta y verificación de sus datos: de identidad, de la Agencia Estatal de la Administración Tributaria, del INSS, de la Tesorería General de la Seguridad Social, del Labora (servicio valenciano de empleo y formación), del Instituto Nacional de Estadística y cualquier otro dato necesario para el reconocimiento o el mantenimiento de la percepción de la renta valenciana de inclusión.
+4. Las personas solicitantes también presentarán autorización expresa para ceder sus datos a otras administraciones y a las organizaciones no gubernamentales sin ánimo de lucro inscritas en el Registro de Titulares de Actividades de Acción Social que colaboren con los planes individualizados de intervención.
+5. Asimismo, las personas solicitantes y las personas que conforman la unidad de convivencia, podrán prestar conformidad expresa para facilitar sus datos a otros departamentos de la Generalitat Valenciana, al Instituto Nacional de la Seguridad Social y otras administraciones cualquiera que sea su ámbito para el reconocimiento de cualquier prestación que pueda beneficiar a la unidad de convivencia, especialmente para la prestación del ingreso mínimo vital, o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla.
+6. Mediante convenio de colaboración entre la Generalitat y el Instituto Nacional de la Seguridad Social para la posible gestión compartida del ingreso mínimo vital de acuerdo con la posibilidad establecida en la disposición adicional cuarta del Real Decreto ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital, se podrá acordar, en su caso, la tramitación conjunta de las solicitudes de la prestación estatal y de su correspondiente modalidad de renta valenciana de inclusión.
+Se modifica el segundo párrafo del apartado 2, y los apartados 3 y 5 por el art. 39 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica y renumera por el art. 34 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 25.
+
+### Artículo 30
+
+Artículo 30. Solicitud anticipada de la renta valenciana de inclusión.
+En los casos en que no se cumplan todos los requisitos para poder ser persona titular de la renta valenciana de inclusión pero exista una fecha objetiva y conocida en que se cumplirán, se podrá presentar solicitud de la renta valenciana de inclusión en cualquiera de sus modalidades dentro de los seis meses anteriores a la fecha prevista del cumplimiento de los requisitos.
+Podrán acogerse a esta posibilidad, entre otros, los casos siguientes:
+a) Cuando se vaya a cumplir la edad mínima en el supuesto que corresponda a la persona de los recogidos en el artículo 13.2 de esta ley.
+b) Cuando se deje de ocupar una plaza residencial en algún recurso incompatible de los indicados en el artículo 13.1.d.
+c) Cuando sea conocida la fecha de finalización de una prestación incompatible con la renta valenciana de inclusión.
+d) Asimismo con carácter excepcional, y siempre que así se justifique expresamente en el informe social que a tal efecto elaboren los y las trabajadoras sociales de los servicios sociales de atención primaria, se podrá instar solicitud anticipada en aquellos casos en los que concurran circunstancias extraordinarias que los haga considerar en situación de especial vulnerabilidad que requieran este tipo de solicitud.
+Se modifica por el art. 35 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 31
+
+Artículo 31. Instrucción de la renta valenciana de inclusión.
+1. La instrucción del expediente de la renta complementaria de ingresos en su modalidad de ingresos por prestaciones corresponderá a la dirección general competente en materia de renta valenciana de inclusión.
+La instrucción del expediente de la renta complementaria de ingresos en su modalidad de ingresos del trabajo corresponderá a la conselleria competente en materia de renta valenciana de inclusión y a la conselleria competente en materia de empleo de la forma que se determine reglamentariamente.
+2. La instrucción del expediente de la renta de garantía en sus dos modalidades, la efectuará el servicio correspondiente de los servicios sociales de atención primaria, que elevará el informe-propuesta de resolución, el cual incluirá el importe a percibir, a la dirección general competente en materia de renta valenciana de inclusión. Este informe-propuesta será firmado por una persona responsable técnica y será preceptivo y vinculante, excepto error material, de hecho o de cálculo.
+3. El informe-propuesta de resolución de la renta de garantía en sus dos modalidades será remitida a la dirección general competente en materia de renta valenciana de inclusión, en el plazo máximo de tres meses desde la entrada de la solicitud, acompañado de toda la documentación necesaria, en el registro de la Administración correspondiente.
+4. Cuando la prestación a conceder consista en la renta de garantía de inclusión social, antes de formular el informe-propuesta de resolución, se exigirá el compromiso voluntario de la persona solicitante, mediante la suscripción de acuerdo de inclusión social, de acuerdo con el artículo 22 de esta ley. En caso de que la persona solicitante manifestara su negativa a la suscripción del acuerdo, se hará constar dicha circunstancia en el expediente y sus motivos, y se remitirá dicha información al órgano gestor competente con la propuesta de asignación en la modalidad de renta de garantía de ingresos mínimos.
+En todos los casos en que la unidad de convivencia la integran personas menores de edad y atendiendo al interés superior de estas, se podrá justificar expresamente el mantenimiento de la modalidad de renta de garantía de inclusión social en el informe social que a tal efecto elaboren los trabajadores y las trabajadoras sociales de los servicios de atención primaria.
+Se modifican los apartados 1, 2 y 3 por el art. 40 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Téngase en cuenta, para su aplicación, la disposición transitoria única de la citada Ley.
+ Se modifica y renumera por el art. 36 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 26.
+
+### Artículo 32
+
+Artículo 32. Solicitantes víctimas de violencia de género.
+Las solicitudes de mujeres que sean víctimas de violencia de género para ser titulares de la renta valenciana de inclusión se tramitarán mediante el procedimiento de urgencia regulado en el artículo 42.a de esta Ley.
+Se modifica por el art. 41 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica y renumera por el art. 37 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 27.
+
+### Artículo 33
+
+Artículo 33. Resolución.
+1. En el caso de la renta complementaria de ingresos, en sus dos modalidades:
+a) La dirección general competente en materia de renta valenciana de inclusión resolverá sobre su concesión en el plazo de seis meses desde la fecha de registro de la solicitud y la documentación preceptiva, según se establezca reglamentariamente.
+b) Transcurrido el plazo de seis meses desde la entrada de la solicitud en el registro de la Generalitat y la documentación pertinente, según se establezca reglamentariamente, sin que la resolución fuera dictada y notificada, se entenderá estimada la solicitud por silencio administrativo.
+2. En el caso de la renta de garantía, en sus dos modalidades:
+a) La dirección general competente en materia de renta valenciana de inclusión resolverá sobre la concesión de la renta de garantía en el plazo de tres meses desde la entrada en el registro de la Generalitat del informe-propuesta de resolución de la autoridad municipal.
+b) Transcurrido el plazo de seis meses desde la entrada de la solicitud en el registro general del ayuntamiento correspondiente o de la Generalitat y de la documentación pertinente según se establezca reglamentariamente, sin que la resolución fuera dictada y notificada, se entenderá estimada la solicitud por silencio administrativo, sin perjuicio de la posible suspensión del plazo por causas imputables a la persona solicitante.
+3. En el caso de las solicitudes que se hayan tramitado de manera anticipada al cumplimiento de los requisitos de cualquiera de sus modalidades, se entenderá estimada la solicitud por silencio administrativo cuando concurran las dos condiciones siguientes:
+a) Haya transcurrido el plazo de seis meses desde la entrada de la solicitud en el registro general de la Administración correspondiente y de la documentación pertinente según se establezca reglamentariamente, sin que la resolución fuera dictada y notificada.
+b) Haya cumplido los requisitos establecidos en esta ley.
+4. Las resoluciones de la renta valenciana de inclusión en cualquiera de sus modalidades, tendrán una vigencia de tres años desde la fecha de su resolución, transcurridos los cuales deberá procederse a su renovación, en los términos señalados en el artículo 39 de la presente ley.
+Se modifica la letra a) del apartado 1 y la letra a) del apartado 2 por el art. 42 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Téngase en cuenta, para su aplicación, la disposición transitoria única de la citada Ley.
+ Se modifica y renumera por el art. 38 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 28.
+
+### Artículo 34
+
+Artículo 34. Devengo y pago.
+1. Los efectos económicos de la prestación de la renta valenciana de inclusión se producirán a partir del día primero del mes siguiente de la fecha de la solicitud.
+En el caso de las solicitudes realizadas de manera anticipada al cumplimiento de los requisitos, los efectos económicos de la prestación se producirán a partir del día primero del mes siguiente de la fecha en que se hayan cumplido dichos requisitos.
+2. El abono de la prestación económica de la renta valenciana de inclusión se realizará directamente a la persona titular de la misma por la Generalitat, mediante ingreso en cuenta en una entidad de crédito, o a través de medios de prepago proporcionados por la dirección general competente en materia de renta valenciana de inclusión, a elección de la persona titular.
+Los pagos posteriores se efectuarán por mensualidades vencidas desde la fecha de su devengo, antes del quinto día hábil del mes siguiente.
+3. Sin perjuicio de lo establecido en el apartado 2, en caso de privación de libertad de la persona titular, podrán percibir la renta valenciana de inclusión las personas beneficiarias, siempre y cuando se justifique su oportunidad en el informe social.
+4. Excepcionalmente y por causas objetivas debidamente justificadas en el informe social, podrá realizarse el abono a las personas titulares a través de entidades sin ánimo de lucro inscritas en el Registro de Titulares de Actividades de Acción Social, en los términos que se establezcan reglamentariamente.
+Se modifica el apartado 2 por el art. 89 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica y renumera por el art. 39 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 35
+
+Artículo 35. Reintegro de pagos indebidos.
+1. La conselleria competente en materia de renta valenciana de inclusión ejercerá las acciones de resarcimiento que le puedan corresponder contra las personas o entidades que hayan percibido la prestación indebidamente. Este reintegro tendrá la consideración de derechos de ingreso público a efectos del procedimiento aplicable a su cobro.
+2. A estos procedimientos de reintegro no les será aplicable el cálculo del interés de demora excepto en el supuesto de que la percepción de los ingresos indebidos sea consecuencia del incumplimiento de la obligación de comunicar, dentro del plazo establecido a tal efecto, los cambios en las circunstancias personales o económicas ocurridos en la unidad de convivencia.
+Se modifica por el art. 43 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica y renumera por el art. 40 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 30.
+ Se modifica por el art. 57 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 36
+
+Artículo 36. Recursos.
+Contra la resolución que haya recaído respecto a la renta valenciana de inclusión, la persona solicitante podrá interponer los recursos que sean procedentes, en atención a lo dispuesto en la normativa básica sobre procedimiento administrativo común.
+Se renumera por el art. 41 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 31.
+ Se modifica por el art. 57 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+## TÍTULO IV
+
+Régimen de financiación
+
+### Artículo 37
+
+Artículo 37. Revisiones.
+1. El órgano competente para resolver podrá proceder a la rectificación de errores materiales o de hecho y los aritméticos, así como las revisiones motivadas por la constatación de omisiones o inexactitudes en la solicitud e instrucción del expediente.
+2. Para comprobar si se mantienen las causas que motivaron la concesión de la renta de inclusión, los servicios sociales de atención primaria correspondientes harán anualmente revisiones periódicas de oficio, mediante una muestra elegida de manera aleatoria, sobre el cumplimiento de los requisitos de acceso a la prestación por las personas titulares de la renta de garantía, a cuyo efecto podrán recabar, del resto de administraciones públicas y entidades que colaboran en la renta valenciana de inclusión, los datos e informes que resulten necesarios para el correcto ejercicio de las funciones de revisión y supervisión.
+3. Para comprobar si se mantienen las causas que motivaron la concesión de la renta complementaria de ingresos, la dirección general competente en materia de renta valenciana de inclusión hará anualmente revisiones periódicas de oficio, mediante una muestra elegida de manera aleatoria, sobre el cumplimiento de los requisitos de acceso a la prestación por las personas titulares de la renta complementaria de ingresos, a cuyo efecto podrán recabar, del resto de administraciones públicas y entidades que colaboran en la renta valenciana de inclusión, los datos e informes que resulten necesarios para el correcto ejercicio de las funciones de revisión y supervisión.
+Se modifica el apartado 3 por el art. 43 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Téngase en cuenta, para su aplicación, la disposición transitoria única de la citada Ley.
+ Se modifica y renumera por el art. 42 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 32.
+
+### Artículo 38
+
+Artículo 38. Modificación.
+1. El importe a percibir de la prestación económica de la renta valenciana de inclusión, en cualquiera de sus modalidades podrá ser modificada como consecuencia de cambios, tanto personales como económicos, ocurridos en la unidad de convivencia.
+2. El procedimiento de modificación de la prestación económica se podrá iniciar de oficio o a instancia de parte y se instruirá en los términos que se establezcan reglamentariamente.
+El plazo máximo en el que deberá resolverse y notificarse la resolución será de tres meses desde la adopción del acuerdo de iniciación, o desde la presentación de la solicitud y la documentación pertinente, según se establezca reglamentariamente, en el registro de la administración correspondiente.
+Transcurrido dicho plazo sin resolver y notificar la resolución, se entenderán desestimadas las pretensiones de la persona solicitante.
+En el caso de modificaciones instadas de oficio, transcurrido el plazo máximo para resolver y notificar lo citado anteriormente, se estará a lo dispuesto en el artículo 25.1 de la ley del procedimiento administrativo común de las administraciones públicas.
+3. La modificación que dé lugar a la disminución del importe a percibir se aplicará a partir del primer día del mes siguiente al de la fecha de la causa que origine la modificación. La misma regla se aplicará a la modificación que dé lugar al aumento del importe de la prestación, cuando se comunique dentro del plazo legalmente establecido al efecto. Cuando la modificación de aumento se presente fuera de plazo, se aplicará a partir del primer día del mes siguiente al de la fecha de comunicación.
+Se modifica el apartado 3 por el art. 40 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica y renumera por el art. 43 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 33.
+
+### Artículo 39
+
+Artículo 39. Renovación.
+1. El procedimiento de renovación se desarrollará reglamentariamente, sin que en ningún caso se interrumpa el abono de la prestación económica ni la implementación de la prestación profesional de inclusión social hasta la fecha en que se produzca la nueva resolución. Las renovaciones correspondientes a las modalidades de renta complementaria de ingresos se instruirán desde la dirección general competente en materia de renta valenciana de inclusión o desde las direcciones territoriales de la conselleria con competencias en materia de empleo. Las renovaciones correspondientes a las modalidades de renta de garantía se instruirán desde los servicios sociales de atención primaria que correspondan, resolviéndose en todos los casos por la dirección general competente en materia de renta valenciana de inclusión.
+2. La renovación de la renta valenciana de inclusión deberá realizarse a los tres años desde la fecha de su resolución. Esta renovación en cualquiera de las modalidades, se efectuará para favorecer la intervención social y a solicitud de la persona titular y se deberá poder acreditar en ese momento el cumplimiento de los requisitos exigibles, durante el último semestre anterior al fin de la vigencia de la resolución de concesión del derecho a la prestación y, en todo caso, antes del último trimestre, en el registro del ayuntamiento del municipio donde se encuentre empadronada y tenga su residencia efectiva, o en el registro de la Generalitat, según corresponda, sin perjuicio de lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+3. El proceso de renovación de la renta de garantía de inclusión social supondrá con carácter obligatorio, en todos los casos, la evaluación del plan personalizado de intervención de la persona destinataria, en su caso, así como la formulación del nuevo plan para el nuevo período.
+Se modifica el apartado 1 por el art. 44 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Téngase en cuenta, para su aplicación, la disposición transitoria única de la citada Ley.
+ Se modifica y renumera por el art. 44 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 34.
+
+## TÍTULO V
+
+Régimen competencial y organizativo
+
+## CAPÍTULO I
+
+Régimen competencial
+
+### Artículo 40
+
+Artículo 40. Suspensión.
+1. El derecho a la renta valenciana de inclusión se podrá suspender por las siguientes causas:
+a) Pérdida temporal de alguno de los requisitos exigidos para su reconocimiento.
+b) Incumplimiento temporal por parte de la persona titular o de cualquier integrante de su unidad de convivencia de las obligaciones y compromisos asumidos al acceder a la prestación, incluyendo el incumplimiento del plan personalizado de inclusión.
+2. La suspensión del derecho a la renta valenciana de inclusión implicará la suspensión del pago de la prestación a partir del primer día del mes siguiente al de la fecha de la resolución y se mantendrá mientras persistan las circunstancias que hubieran dado lugar a la misma, por un periodo máximo de doce meses. No obstante, si la causa de la suspensión fuera por percepción de ayudas y prestaciones estatales de desempleo y para el empleo en cualquiera de sus modalidades, exceptuando para las personas perceptoras de la prestación de la renta activa de inserción (RAI) dirigida a las víctimas de violencia de género o violencia doméstica o prestación de idéntica naturaleza que la sustituya, la suspensión del pago sería a partir del primer día del mes siguiente de la fecha del reconocimiento de la ayuda y prestación estatal de desempleo y para el empleo a la que tuviera derecho la persona titular de la renta valenciana de inclusión.
+3. El reconocimiento del derecho de la prestación podrá reanudarse si desaparecen las circunstancias que motivaron su suspensión, en los términos que se establezcan reglamentariamente.
+Se modifica y renumera por el art. 45 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 35.
+
+### Artículo 41
+
+Artículo 41. Extinción.
+1. El derecho a la renta valenciana de inclusión, en cualquiera de sus modalidades, se extinguirá por las siguientes causas:
+a) Transcurrido el periodo de tres años desde la fecha de resolución sin haberse solicitado por parte de la persona titular el procedimiento de renovación.
+b) Modificación de las condiciones tenidas en cuenta para la concesión de la prestación, de forma que sitúen a la persona titular fuera de los requisitos exigibles para su percepción.
+c) Pérdida definitiva de alguno de los requisitos exigidos para su reconocimiento.
+d) Falseamiento en la declaración de ingresos o cualquier otra actuación fraudulenta dirigida a obtener o conservar la renta valenciana de inclusión.
+e) Mantenimiento de una situación de suspensión por periodo continuado superior a doce meses.
+f) Renuncia de la persona titular.
+g) Incumplimiento injustificado y reiterado de las obligaciones previstas en el artículo 11.2 de esta ley.
+h) Fallecimiento de la persona titular. Cuando esta fuera perceptora de la renta de garantía, y al objeto de que, las otras personas destinatarias de su unidad de convivencia no se queden en situación de desamparo, se establecerá un procedimiento para la modificación de la persona titular de dicha renta de garantía, en los términos y condiciones que se establezcan reglamentariamente, sin interrupción de la prestación.
+i) La percepción por parte de la persona titular de, prestación o ayuda para el fomento del empleo o de desempleo incompatible con la renta valenciana de inclusión y de duración inicial prevista superior a 12 meses.
+2. En las modalidades de renta de garantía, será causa de extinción de las prestaciones ya reconocidas, el cumplimiento de los 65 años por la persona titular o el reconocimiento de un grado de diversidad funcional igual o superior al 65% a las personas titulares entre 18 y 65 años, desde la fecha del cumplimiento de la edad o desde la fecha de la resolución del reconocimiento del grado de diversidad funcional, a excepción de los supuestos contemplados en el artículo 13.3 de esta ley.
+No obstante, si en la fecha en que se produjera el hecho causante de la extinción, los ingresos percibidos en concepto de renta valenciana de inclusión motivaran una reducción en la cuantía de la pensión no contributiva que debe reclamarse o su denegación, excepcionalmente podrá mantenerse la percepción de la renta valenciana de inclusión hasta el 31 de diciembre del año en que se produzca el hecho causante, produciéndose en esa fecha la extinción automática de la misma.
+3. La extinción del derecho a la renta valenciana de inclusión implicará el cese del pago de la prestación y surtirá efectos desde el primer día del mes siguiente a aquel en que concurran las causas que dieron lugar a la extinción. No obstante, si la causa de la extinción fuera por percepción de ayudas y prestaciones estatales de desempleo y i para el empleo en cualquiera de sus modalidades, exceptuando para las personas perceptoras de la prestación de la renta activa de inserción (RAI) dirigida a las víctimas de violencia de género o violencia doméstica o prestación de idéntica naturaleza que la sustituya, la suspensión del pago sería a partir del primer día del mes siguiente de la fecha del reconocimiento de la ayuda y prestación estatal de desempleo y para el empleo a la que tuviera derecho la persona titular de la renta valenciana de inclusión.
+Se modifica y renumera por el art. 46 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 36.
+
+### Artículo 42
+
+Artículo 42. Procedimiento de urgencia.
+Se establece un procedimiento de urgencia tanto para nuevas solicitudes como para modificaciones y extinciones de expedientes existentes, consistente en la reducción a la mitad de los plazos estandarizados y dando preferencia a estos expedientes. Se tramitará con carácter de urgencia en los siguientes supuestos:
+a) En los casos de persona prostituida, víctima de explotación sexual o trata o víctima de violencia de género o intrafamiliar. La acreditación de estas circunstancias podrá realizarse por cualquiera de los medios previstos en el artículo 9 de la Ley 7/2012, de 23 de noviembre, de la Generalitat, integral contra la violencia sobre la mujer en el ámbito de la Comunitat Valenciana.
+b) En los casos de personas valencianas que hayan residido en el exterior de la Comunitat Valenciana y que tengan la consideración de personas retornadas según lo que establezca la normativa autonómica en esta materia.
+c) Cuando se formule solicitud anticipada por el cumplimiento de la edad mínima de acuerdo a lo recogido en el artículo 30.a.
+d) Los expedientes iniciados como consecuencia del fallecimiento de la persona titular de la prestación y se haya formulado una nueva solicitud por alguna de las personas beneficiarias de esa unidad de convivencia y que dicha solicitud se realice en el período máximo de 3 meses desde el fallecimiento de la persona titular.
+e) En las situaciones de emergencia social previstas en el punto 4 del artículo 70 de la Ley 3/2019, de 18 de febrero, de servicios sociales inclusivos de la Comunitat Valenciana.
+f) Asimismo con carácter excepcional, y siempre que así se justifique expresamente en el informe social que a tal efecto elaboren los y las trabajadoras sociales de los servicios sociales de atención primaria, podrán ir por procedimiento de urgencia aquellos casos en los que concurran circunstancias extraordinarias que los haga considerar en situación de especial vulnerabilidad.
+Se modifica por el art. 41 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+ Se modifica la letra a), se suprime la c) y se reordenan las letras d) a f) como c) a e) por el art. 45 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica la letra c) por el art. 69 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-11
+ Se modifica por el art. 47 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+## TÍTULO V
+
+Régimen de financiación
+Se renumera por el art. 48 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Título IV.
+
+### Artículo 43
+
+Artículo 43. Fuentes de financiación.
+1.El órgano competente para resolver podrá proceder a la rectificación de errores materiales o de hecho y los aritméticos, así como las revisiones motivadas por la constatación de omisiones o inexactitudes en la solicitud e instrucción del expediente.
+2. Las diputaciones provinciales podrán aportar dotaciones económicas para contribuir a la financiación adecuada y suficiente de la renta valenciana de inclusión, mediante la suscripción del correspondiente convenio de colaboración con la Generalitat, que podrán ser tanto para sufragar los gastos de la prestación económica o profesional como los recursos necesarios para su gestión.
+Se modifica y renumera por el art. 49 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 37.
+
+## CAPÍTULO II
+
+Cooperación, coordinación y participación
+
+### Artículo 44
+
+Artículo 44. De los créditos de la Generalitat.
+(Suprimido)
+Se suprime por el art. 90 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+ Se modifica y renumera por el art. 50 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 38.
+
+### Artículo 45
+
+Artículo 45. Financiación de los instrumento de inclusión social y de inserción laboral.
+1. Los instrumentos de inclusión social serán financiados con cargo a los presupuestos de la conselleria competente en materia de renta valenciana de inclusión y de las diputaciones provinciales mediante la suscripción del correspondiente convenio de colaboración con la Generalitat para el desarrollo e implantación de la presente Ley.
+2. Los instrumentos de inserción laboral serán financiados con cargo a los presupuestos de las consellerias competentes en materia de empleo y formación.
+Se modifica y renumera por el art. 51 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 39.
+
+## TÍTULO VI
+
+Régimen competencial y organizativo
+Se modifica y renumera por el art. 52 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Título V.
+
+## CAPÍTULO I
+
+Régimen competencial
+Se renumera por el art. 52 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Capítulo I del Título V.
+
+### Artículo 46
+
+Artículo 46. Disposición general.
+Las competencias en materia de renta valenciana de inclusión, en el marco de los servicios sociales generales, corresponderán a la Generalitat, a las diputaciones provinciales y a las entidades locales en su respectivo ámbito territorial, y deberán ejercerse bajo los principios generales de coordinación y cooperación, sin perjuicio de la autonomía que corresponde a cada una de ellas, y de acuerdo con lo previsto en el Estatuto de autonomía de la Comunitat Valenciana, en la legislación autonómica de servicios sociales y en la legislación de régimen local.
+Se renumera por el art. 53 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 40.
+
+## CAPÍTULO III
+
+Gobernanza y participación
+
+### Artículo 47
+
+Artículo 47. Generalitat.
+Corresponde a la Generalitat el ejercicio de las siguientes competencias:
+a) La elaboración de las normas de desarrollo de la presente Ley.
+b) La resolución, financiación y pago de la renta valenciana de inclusión, así como de todas aquellas medidas contempladas en esta Ley.
+c) La planificación, el control y la evaluación general de las medidas contempladas en la presente Ley.
+d) La aprobación de la planificación adecuada en el marco del Plan estratégico valenciano de servicios sociales.
+Se renumera por el art. 54 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 41.
+
+### Artículo 48
+
+Artículo 48. Entidades locales.
+En la consecución de la finalidad perseguida por la presente ley, las entidades locales, a través de los servicios sociales de atención primaria, dada su consideración de prestación básica del sistema público de servicios sociales, desarrollarán las siguientes atribuciones:
+a) La detección de las personas o las unidades de convivencia que se encuentren en situación de exclusión o riesgo de exclusión, y la realización de las prestaciones profesionales a través de los diferentes instrumentos de inclusión social: configuración del diagnóstico social, la suscripción con las personas interesadas del acuerdo de inclusión social, elaboración del plan personalizado de intervención, itinerario social, familiar o individualizado y también participar, en su caso, en la elaboración del itinerario de inserción laboral en coordinación con los servicios públicos de empleo.
+b) La instrucción y presentación del expediente, del informe social, en su caso, así como del informe-propuesta de resolución sobre la concesión de la renta valenciana de inclusión, en la modalidad que corresponda, en el registro de la dirección general competente en materia de renta valenciana de inclusión.
+c) El seguimiento, revisión y evaluación de los instrumentos de inclusión social a través de los servicios sociales de atención primaria mediante un acompañamiento personalizado orientado a la inclusión plena y efectiva en la sociedad utilizando instrumentos de inserción laboral en colaboración y coordinación con los equipos profesionales de los servicios de empleo locales y el servicio público de empleo y formación (LABORA).
+Se modifica la letra b) por el art. 46 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Téngase en cuenta, para su aplicación, la disposición transitoria única de la citada Ley.
+ Se modifica y renumera por el art. 55 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 42.
+
+## TÍTULO VI
+
+Planificación, coordinación, calidad y evaluación
+
+### Artículo 49
+
+Artículo 49. Diputaciones provinciales.
+En la consecución de la finalidad perseguida por la presente ley, las diputaciones provinciales valencianas desarrollarán las atribuciones que les correspondan según la Ley 3/2019, de 18 de febrero, de servicios sociales inclusivos de la Comunitat Valenciana, o norma que la sustituya, en su caso, y las que se determinen en los convenios que puedan suscribir con la Generalitat, cooperando en la implantación de esta ley con la aportación de los medios económicos, técnicos, materiales y humanos que se consideren en los mismos, y de acuerdo a lo establecido en los artículos 30 y 106 de la citada ley.
+Se modifica y renumera por el art. 56 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 43.
+
+## CAPÍTULO II
+
+Cooperación y coordinación
+Se modifica y renumera por el art. 57 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Capítulo II del Título V.
+
+### Artículo 50
+
+Artículo 50. Deber de cooperación y coordinación entre administraciones públicas.
+1. Las administraciones públicas valencianas deben prestarse entre sí la cooperación y coordinación necesarias para garantizar la máxima eficacia y eficiencia en el funcionamiento de la renta valenciana de inclusión.
+2. La administración de la Generalitat colaborará con las diferentes administraciones para la adecuada gestión de la renta valenciana de inclusión, promoviendo acuerdos precisos para el intercambio de información, en particular, en lo referente a la concurrencia de incompatibilidades o supuestos de subsidiariedad, mejoras en la gestión de la prestación y aquellos otros aspectos que se consideren adecuados a la finalidad de la prestación.
+3. Reglamentariamente se establecerá el órgano de coordinación permanente entre la administración de la Generalitat, las entidades locales, supramunicipales y las diputaciones provinciales, para asegurar la eficacia y coherencia del sistema público de servicios sociales conforme a lo dispuesto en la legislación valenciana de servicios sociales.
+4. Se podrán suscribir convenios para el desarrollo e implementación del contenido de esta Ley así como para el Plan valenciano de inclusión y cohesión social.
+Se renumera por el art. 58 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 44.
+
+### Artículo 51
+
+Artículo 51. Colaboración con la Administración General del Estado.
+En el marco de la prestación estatal del ingreso mínimo vital y de acuerdo a lo recogido en la disposición adicional cuarta del Real Decreto ley 20/2020, de 29 de mayo que lo regula, se procederá, en su caso, a la celebración de un convenio de colaboración donde se contemplen las posibles fórmulas de gestión de la prestación del ingreso mínimo vital y de la renta valenciana de inclusión.
+Este convenio podrá establecer los mecanismos para la solicitud mediante un proceso único de ambas prestaciones y los mecanismos de inclusión social más adecuados a través de la prestación profesional de inclusión social de la renta valenciana de inclusión.
+Se modifica por el art. 59 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Artículo 52
+
+Artículo 52. Departamentos y organismos de la Generalitat.
+1. Los departamentos y organismos de la administración de la Generalitat colaborarán en la definición y ejecución de las actividades que se determinen en los instrumentos orientados a la inclusión social y la inserción laboral, especialmente en las áreas de empleo, educación, vivienda y salud, a través de las formas de colaboración que se establecerán reglamentariamente.
+2. La conselleria competente en materia de renta valenciana de inclusión ofrecerá, a través de la plataforma autonómica de interoperabilidad, información sobre las personas perceptoras de las prestaciones de la renta valenciana de inclusión, en su caso, a los departamentos de la administración de la Generalitat con competencias en materia de empleo, formación, educación, vivienda, sanidad, transporte y hacienda, con el fin de favorecer y facilitar su acceso a los diferentes servicios públicos.
+Se renumera por el art. 60 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 45.
+
+### Artículo 53
+
+Artículo 53. Cooperación con las entidades sociales.
+Las entidades locales podrán suscribir convenios de colaboración con entidades sociales públicas o privadas sin ánimo de lucro, o utilizar cualquiera de las fórmulas reguladas en la legislación vigente en materia de contratación pública con criterios de calidad, sostenibilidad y de carácter social, incluyendo cláusulas sociales, para el desarrollo del contenido de las acciones vinculadas a los itinerarios de inclusión social.
+Se modifica y renumera por el art. 61 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 46.
+
+## CAPÍTULO III
+
+Gobernanza y participación
+
+### Artículo 54
+
+Artículo 54. Gobernanza de la Ley y comisión técnica de seguimiento e implementación.
+1. Con el fin de garantizar la máxima eficiencia y utilidad de la presente Ley para la ciudadanía valenciana, la coordinación política y presupuestaria residirá en la comisión delegada de inclusión y derechos sociales del Consell.
+2. La coordinación técnica residirá en la comisión técnica de seguimiento e implementación de la renta valenciana de inclusión, adscrita a la conselleria competente en materia de renta valenciana de inclusión, que se constituirá con la participación de personal directivo y técnico de la conselleria con competencias en materia de renta valenciana de inclusión y de la conselleria y de las direcciones territoriales con competencias en materia de inserción laboral o sociolaboral, así como de las administraciones locales y de las diputaciones provinciales. Su composición, funciones y régimen jurídico se determinarán reglamentariamente, respetando en todo caso el principio de presencia equilibrada de mujeres y hombres.
+Se modifica el apartado 2 por el art. 47 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se renumera por el art. 62 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 47.
+
+### Artículo 55
+
+Artículo 55. Órganos de participación social.
+La participación ciudadana y de los agentes implicados en la implementación de esta ley se materializará en el consejo valenciano de inclusión y derechos sociales y en el seno de los consejos locales de inclusión y derechos sociales de ámbito local o zonal, de acuerdo a lo establecido en la Ley 3/2019, de 18 de febrero, de servicios sociales inclusivos de la Comunitat Valenciana.
+Estos realizarán, en su respectivo ámbito territorial, acciones de sensibilización, coordinación, análisis y propuestas de mejora para la aplicación de esta ley.
+En los organismos de participación se respetará la presencia equilibrada de mujeres y hombres.
+Se modifica y renumera por el art. 63 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 48.
+
+## TÍTULO VII
+
+Planificación, coordinación, calidad y evaluación
+Se modifica y renumera por el art. 64 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era Título VI.
+
+### Artículo 56
+
+Artículo 56. Disposiciones generales.
+1. La planificación de la implementación de la presente ley se materializará, en el ámbito autonómico, a través del Plan estratégico de servicios sociales de la Comunitat Valenciana y del Plan valenciano de inclusión y cohesión social, debiendo garantizarse en su elaboración la participación directa de todas las administraciones públicas valencianas, así como la de otras entidades públicas que intervengan en el sector y del resto de agentes implicados.
+2. Podrán elaborarse planes específicos o territoriales para barrios, municipios, comarcas u otros ámbitos geográficos que, por su mayor vulnerabilidad y por sus elevadas tasas de pobreza y exclusión social, precisen de una acción integral a corto o medio plazo, en coordinación con las líneas marcadas en los planes estratégicos de carácter zonal y en el Plan estratégico de servicios sociales de la Comunitat Valenciana y en el Plan valenciano de inclusión y cohesión social.
+Se modifica y renumera por el art. 65 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 49.
+
+### Artículo 57
+
+Artículo 57. De los planes generales.
+Corresponde al Consell el impulso y fomento de los servicios sociales, la educación, la formación, el empleo, la vivienda, la promoción de la salud, la cultura, el acceso y formación a las tecnologías de la información y la comunicación, la movilidad, la participación social y la formación en igualdad de género y oportunidades y todos aquellos aspectos que faciliten la inclusión social y laboral de las personas en situación de exclusión social o de vulnerabilidad social, mediante la implantación y el desarrollo de actuaciones o planes generales, que deberán contemplar las medidas de inclusión propuestas, en colaboración con las entidades locales.
+Se modifica y renumera por el art. 66 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 50.
+
+### Artículo 58
+
+Artículo 58. De la coordinación de las actuaciones.
+Las actuaciones referentes tanto a la renta valenciana de inclusión como a la inserción social y laboral determinadas en esta Ley que impliquen intervenciones de distintas consellerias, se coordinarán a través de la correspondiente comisión interdepartamental, en los términos que se establezcan reglamentariamente con la finalidad de garantizar la eficacia del conjunto de las actuaciones, la utilización racional de los recursos y la continuidad de la atención a las personas en situación de exclusión o vulnerabilidad.
+Se renumera por el art. 67 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 51.
+
+### Artículo 59
+
+Artículo 59. Mejora de la calidad de la atención, formación de profesionales e investigación.
+1. Al objeto de garantizar una atención de calidad y la mejora de los estándares de atención, la conselleria competente en materia de renta valenciana de inclusión fomentará la aplicación de métodos acreditados de evaluación externa y mejora continua de la calidad que contribuyan a determinar las disfunciones o los déficits que se produzcan en la satisfacción de las necesidades y en el funcionamiento de las estructuras de gestión de la renta valenciana de inclusión.
+2. Las administraciones públicas valencianas se coordinarán para promover y planificar la formación de la totalidad de agentes y profesionales que intervienen en la implementación de los instrumentos orientados a la inclusión social e inserción laboral, en particular, de figuras profesionales especializadas en incorporación social y laboral, en intervención social y educación familiar y en mediación intercultural, dotando de los recursos económicos necesarios para ello.
+3. La conselleria competente en materia de renta valenciana de inclusión fomentará, en colaboración con las universidades de la Comunitat Valenciana, la investigación en el ámbito de la inclusión social y determinará los ejes prioritarios de estudio y evaluación con vistas a favorecer la eficacia de las políticas públicas de protección e intervención social y el mejor aprovechamiento de la innovación.
+4. La conselleria competente en materia de renta valenciana de inclusión articulará los medios necesarios para proceder a la identificación y el seguimiento de las buenas prácticas desarrolladas tanto en el ámbito territorial de la Comunitat Valenciana como en otras comunidades autónomas y en otros países del entorno europeo.
+5. Con objeto de garantizar y mejorar la calidad de la atención, la formación de profesionales y la investigación en el ámbito de la inclusión social se contará con la colaboración del Instituto Valenciano de Formación, Investigación y Calidad en Servicios Sociales (IVAFIQ), regulado en la Ley 3/2019, de 18 de febrero, de la Generalitat, de servicios sociales inclusivos de la Comunitat Valenciana.
+Se modifica y renumera por el art. 68 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 52.
+
+### Artículo 60
+
+Artículo 60. Evaluación y seguimiento.
+1. La evaluación y seguimiento general de la renta valenciana de inclusión, que incluirá la valoración de sus resultados y objetivos conseguidos así como la articulación de propuestas de mejora general de la prestación, la realizará la comisión técnica de seguimiento e implementación de la renta valenciana de inclusión, prevista en el artículo 54.2 de esta ley.
+2. Con carácter bienal dicha comisión técnica realizará un informe de impacto de la ley, en el que se incluirán los perfiles de las personas perceptoras, los resultados de inclusión social e inserción laboral, la coordinación de los departamentos del Consell y de las distintas administraciones implicadas para garantizar la inclusión social. Asimismo, con el fin de recoger propuestas para un mejor desarrollo y alcance de la finalidad de la ley, se trasladará dicho informe al Comité Econòmic i Social de la Comunitat Valenciana, al consejo valenciano de inclusión y derechos sociales y, en su caso, a otras entidades cuyos fines guarden relación directa con el objeto de esta norma. Se garantizará la independencia y objetividad en la evaluación. La Comisión Delegada del Consell de Inclusión y Derechos Sociales a propuesta de la comisión técnica prevista en el artículo 54.2 deberá analizar el informe, así como las propuestas y adoptará cuantas medidas sean procedentes para la mejora de la gestión y alcance de la ley.
+Se modifica y renumera por el art. 69 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era art. 53.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Cesión de datos de las personas beneficiarias entre administraciones.
+Respetando lo dispuesto en la normativa de protección de datos de carácter personal, podrán cederse entre administraciones los datos correspondientes a las personas destinatarias de la prestación, con el objeto tanto de promover las medidas de inclusión como de controlar el fraude. Se garantizará la confidencialidad de los datos obtenidos en la tramitación de los expedientes en los términos previstos en la citada norma.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Personas perceptoras de la renta garantizada de ciudadanía a la entrada en vigor de la Ley.
+Los titulares que, a la entrada en vigor de la presente Ley, estén percibiendo la renta garantizada de ciudadanía deberán esperar a la finalización del plazo de concesión de la misma antes de proceder a solicitar la renta valenciana de inclusión.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Personas perceptoras de rentas mínimas procedentes de otras comunidades autónomas.
+Para aquellos casos en que se produzca un traslado de residencia del titular o la titular de una renta mínima, concedida en otra comunidad autónoma y que pase a fijar su residencia en cualquier municipio de la comunidad, se habilitará reglamentariamente un procedimiento de urgencia. En estos casos, no será exigible el requisito establecido en el artículo 12.1.a), siendo suficiente acreditar el empadronamiento y residencia efectiva en la fecha de presentación de la solicitud.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Personas con diversidad funcional.
+A los efectos de esta Ley tendrán la consideración de personas con diversidad funcional las así definidas en el artículo 4 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. No discriminación por motivos de identidad de género en el cómputo del plazo de residencia para ser persona beneficiaria de la renta valenciana de inclusión.
+Modificación de la disposición adicional primera de la Ley 8/2017, de 7 de abril, de la Generalitat, integral del reconocimiento del derecho a la identidad y a la expresión de género en la Comunitat Valenciana, para adaptarla a la derogación de la Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana, cambiando las referencias a esta renta por las disposiciones resultantes de la aprobación de este texto.
+Se supime y renumera por el art. 70 y 71 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Su anterior numeración era disposición adicional 6.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. No discriminación por motivos de identidad de género en el cómputo del plazo de residencia para ser persona beneficiaria de la renta valenciana de inclusión.
+Modificación de la disposición adicional primera de la Ley 8/2017, de 7 de abril, de la Generalitat, integral del reconocimiento del derecho a la identidad y a la expresión de género en la Comunitat Valenciana, para adaptarla a la derogación de la Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana, cambiando las referencias a esta renta por las disposiciones resultantes de la aprobación de este texto.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Establecimiento de otros medios de pago.
+Con el fin de atender y hacer efectiva la posibilidad de recibir el abono de la prestación a través de medios de prepago u otros medios similares, se suscribirá el correspondiente instrumento jurídico en el plazo de seis meses desde la entrada en vigor de la presente disposición.
+La implementación de medios de prepago, en el ámbito de la renta valenciana de inclusión, así como su correspondiente instrumentación jurídica deberá realizarse en coordinación con el centro directivo competente en materia de Tesorería.
+Se añade por el art. 91 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Expedientes de renta garantizada de ciudadanía pendientes de resolver a la entrada en vigor de la presente Ley.
+1. Los expedientes de renta garantizada de ciudadanía iniciados con anterioridad a la entrada en vigor de esta Ley sin que haya recaído resolución, se resolverán de acuerdo a su normativa de aplicación, salvo la renuncia de las personas interesadas de acuerdo a la Ley 39/2015 que regula el procedimiento administrativo.
+2. La gestión y tramitación de dichos expedientes corresponderá a las direcciones territoriales de la conselleria competente en materia de renta valenciana de inclusión. No obstante, los expedientes que estén tramitándose por una entidad que tenga la consideración de entidad colaboradora conforme a la normativa reguladora de la Ley de renta garantizada de ciudadanía, serán tramitados por dichas entidades, siguiendo para ello el procedimiento previsto en título III de la presente Ley.
+3. A los efectos de lo previsto en la presente disposición, el plan familiar de inserción que, en su caso, se hubiere aprobado conforme a la normativa de renta garantizada de ciudadanía, equivaldrá al acuerdo de inclusión regulado en el artículo 18 de esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Plazo de tramitación y resolución.
+Durante el primer año de vigencia de la presente Ley, los plazos previstos en el artículo 28.2 serán de seis meses respecto del apartado a y de nueve meses respecto del apartado b.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Durante el primer año de vigencia de esta Ley, la conselleria competente en materia de renta de inclusión habilitará y coordinará con los ayuntamientos los recursos necesarios para la tramitación y estudio de las solicitudes presentadas.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Las cuantías del conjunto de las prestaciones reguladas por esta Ley serán revisadas al alza ante posibles mejoras en la financiación autonómica que nos permita acceder a un gasto por habitante superior.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Mientras no se realice una modificación de la normativa sectorial que regula la obtención de plaza en una escuela infantil pública y en centros educativos en cualquier etapa educativa y de formación reglada, tal como se establece en el artículo 17.1 de esta Ley, en los procedimientos anteriores, la condición de persona beneficiaria de la renta valenciana de inclusión supondrá que, en los casos en que exista un criterio de renta en el proceso de admisión correspondiente, la puntuación que se le asignará por este criterio a las rentas más bajas, será incrementada en un 50% para las personas que tengan acreditada esta condición.
+Se añade por el art. 47 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Régimen transitorio para las personas destinatarias de la renta valenciana de inclusión.
+1. Al amparo de lo recogido en los artículos 6.1.e y 9.2.h del Reglamento (UE) 2016/679 del Parlamento y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/45/CE, la Conselleria competente en materia de renta valenciana de inclusión facilitará al Instituto Nacional de la Seguridad Social los datos de las personas destinatarias de la renta valenciana de inclusión con el objeto que les pueda ser reconocida la prestación del ingreso mínimo vital regulado por Real Decreto ley 20/2020, de 29 de mayo.
+2. Sin perjuicio del anterior, se establece un régimen transitorio para todas las personas destinatarias de la renta valenciana de inclusión que reúnan los requisitos para el acceso a la prestación del ingreso mínimo vital regulado por el Real decreto-ley 20/2020, de 29 de mayo, para que aporten una justificación de la solicitud del ingreso mínimo vital ante la dirección general competente en materia de renta valenciana de inclusión con anterioridad al 31 de mayo de 2021.
+En el caso de no aportarse este justificante y en virtud de lo dispuesto en el artículo 11.2.c) respecto a la obligación de «reclamar, durante todo el periodo de duración de la prestación, cualquier derecho económico, incluido el ingreso mínimo vital o cualquier otra prestación de garantía de ingresos mínimos de carácter estatal que pueda sustituirla, que le pueda corresponder a cualquier persona miembro de la unidad de convivencia por cualquier título y ejercer las acciones correspondientes para hacerlo efectivo», se procederá a la suspensión de la renta valenciana de inclusión con fecha 30 de junio de 2021.
+3. Además de la obligación contenida en el apartado anterior, las unidades de convivencia que tengan reconocido el derecho en la modalidad de renta de garantía de ingresos mínimos y que estén integradas por alguna persona menor de edad, deberán solicitar el cambio de modalidad a la renta de garantía de inclusión social antes del 31 de diciembre de 2020, en caso contrario se procederá a su suspensión en virtud de la obligación recogida en el artículo 11.2.2.º.
+Se modifica el apartado 2 por el art. 68 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-10
+ Se añade por el art. 72 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Régimen transitorio para las solicitudes de la renta valenciana de inclusión pendientes de resolución.
+Las solicitudes de renta valenciana de inclusión pendientes de resolver que se hayan formulado con anterioridad a la entrada en vigor del Real Decreto ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital, continuarán con su tramitación, estableciéndose para estos casos el siguiente régimen:
+Aquellas personas solicitantes o que formen parte de la unidad de convivencia que alguna de ellas reúna los requisitos para el acceso al ingreso mínimo vital, deberán adjuntar a su expediente de renta valenciana de inclusión, el justificante de la solicitud del ingreso mínimo vital.
+Esta aportación deberá realizarse con anterioridad a la resolución del expediente, si esta aportación no se hubiese realizado, el órgano instructor correspondiente procederá a su requerimiento y si en el plazo de 10 días este no si hubiese atendido se entenderá, por desistida la solicitud y se procederá al archivo del expediente.
+Se añade por el art. 73 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Colaboración con la Administración General del Estado.
+La Generalitat impulsará la colaboración con la Administración general del Estado para una mejor gestión del periodo transitorio recogido en el Real Decreto ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital.
+Se modifica por el art. 48 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se añade por el art. 74 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Régimen de aplicación de los artículos 11.2.1.f y 35 de la Ley 19/2017, de 20 de diciembre, de renta valenciana de inclusión.
+La suspensión de la aplicación de los artículos 11.2.1.f y 35 de la Ley 17/2019, de 20 de diciembre, de renta valenciana de inclusión, contemplada en la disposición final segunda de la citada norma, en su redacción dada por el artículo 49 de la Ley 7/2021, de 29 de diciembre, de la Generalitat, de medidas fiscales, de gestión administrativa y financiera y de organización de la Generalitat 2021, quedará sin efecto a partir del 22 de abril 2023.
+Se añade por el art. 44 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Regularización de las variaciones económicas en RVI por el IVM.
+El reconocimiento y las variaciones del ingreso mínimo vital que tengan efectos retroactivos y afecten a las cuantías percibidas en concepto de renta valenciana de inclusión, se regularizarán conforme a lo que establezcan los instrumentos de colaboración y compensación entre el Instituto Nacional de la Seguridad Social, que gestiona el ingreso mínimo vital, y la Generalitat Valenciana, que gestiona la renta valenciana de inclusión.
+Se añade por el art. 45 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo establecido en esta Ley y, en particular, las siguientes:
+a) La Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana.
+b) El Decreto 93/2008, de 4 de julio, del Consell, por el que se desarrolla la Ley de renta garantizada de ciudadanía de la Comunitat Valenciana.
+c) De la Ley 3/2017, de 3 de febrero, de la Generalitat, para paliar y reducir la pobreza energética (electricidad, agua y gas) en la Comunitat Valenciana, los siguientes artículos: 3, 4, 5, 6 y 7.
+Las referencias contenidas en normas vigentes a las normas que se derogan expresamente deberán entenderse efectuadas a las disposiciones de esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación normativa.
+Se habilita al Consell para aprobar las disposiciones generales precisas para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor a los cuatro meses de su publicación en el Diari Oficial de la Generalitat Valenciana. Sin embargo, las previsiones relativas a la modalidad de renta complementaria de ingresos por prestaciones tendrán efectos a partir del año de la entrada en vigor de la ley, y las relativas a la modalidad de renta complementaria de ingresos del trabajo, a los cuatro años de la entrada en vigor de la ley y en todo caso, seis meses después de la entrada en vigor del reglamento estatal que desarrolle la nueva prestación del ingreso mínimo vital.
+Mientras no se haya implementado la modalidad de renta complementaria de ingresos del trabajo de la renta valenciana de inclusión no se aplicarán, con carácter retroactivo al momento de entrada en vigor de la norma, los artículos 11.2. 1.ºf y 35 de la presente ley.
+Véase, sobre el cese de efectos de la suspensión de los arts. 11.2.1º.f) y 35, con fecha 22 de abril de 2023, lo establecido en la disposición transitoria [sic] de la presente ley, en la redacción dada por la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
+Las prestaciones que podrán ser complementadas mediante la modalidad de renta complementaria de ingresos por prestaciones recogidas en el artículo 9.2.c, prestaciones de Seguro Obligatorio de Vejez e Invalidez (SOVI) no concurrentes, y las recogidas en el artículo 9.2.d, prestaciones por Incapacidad Permanente del Sistema Nacional de la Seguridad Social, no están excluidas para poder percibir la prestación de la renta complementaria de ingresos por prestaciones, de acuerdo a lo establecido reglamentariamente, a partir del 30 de noviembre de 2020.
+Asimismo, se establece el 30 de noviembre de 2020 como fecha de aplicación del nuevo complemento recogido en el artículo 17.2 de esta ley para unidades de convivencia conformadas por más de seis personas miembros, a las cuales, el importe reconocido de la prestación económica de renta valenciana de inclusión se incrementará en 60 euros por cada persona miembro adicional.
+Se modifica por el art. 49 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+ Se modifica por el art. 70 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a7-2
+ Se modifica por el art. 75 del Decreto-ley 7/2020, de 26 de junio. Ref. BOE-A-2020-9590
+ Se modifica por el art. 56 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 20 de diciembre de 2017.
+El President de la Generalitat,
+Ximo Puig i Ferrer.

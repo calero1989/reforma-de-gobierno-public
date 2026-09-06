@@ -1,0 +1,37 @@
+# Ley 2/1992, de 28 de julio, de fijación de la cuantía del recargo sobre las cuotas mínimas del Impuesto sobre Actividades Económicas.
+
+- Identificador BOE: `BOE-A-1993-1774`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1993-1774
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 2/1992, de 28 de julio, sobre fijación de la cuantía del recargo sobre las cuotas mínimas del Impuesto sobre Actividades Económicas.
+Por consiguiente, al amparo del artículo 30, dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El Real Decreto Legislativo 780/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de régimen local, recogía en sus artículos 288 a), 313 a), 396 d) y 409 la aplicación de un recargo provincial sobre las cuotas de licencia fiscal de actividades comerciales e industriales y de profesionales y artistas, cuya cuantía se fijaba en un 40 por 100.
+Por otra parte, la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, establece el Impuesto sobre Actividades Económicas, que comenzará a exigirse a partir del 1 de enero de 1992, en sustitución de las antiguas licencias fiscales. determinando expresamente en su artículo 124 la posibilidad de que las Diputaciones Provinciales establezcan un recargo sobre el mismo no superior al 40 por 100, posibilidad que se hace extensiva a las comunidades autónomas uniprovinciales en virtud de la disposición adicional decimoséptima.
+La disposición adicional 19.3 de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, modifica la disposición transitoria 3.1 de la Ley 39/1988, de Haciendas Locales, estableciendo con efectos exclusivos para el período impositivo de 1992 y en orden a la exacción del impuesto que se devenga el 1 de enero de ese año, la obligatoriedad de publicación del recargo provincial que haya de ser aplicado a dicho período impositivo.
+Por último, la Ley 4/1991, de 26 de diciembre, de Establecimiento y Fijación del Recargo sobre el Impuesto de Actividades Económicas para la Comunidad Autónoma de Murcia, establece en su artículo segundo que la fijación del recargo a aplicar, dentro del límite máximo del 40 por 100, se efectuará por Ley de la Asamblea, a propuesta del Consejo de Gobierno, una vez conocidos los datos del censo de contribuyentes del impuesto.
+En cumplimiento de ese imperativo legal y de conformidad con el artículo 45 del Estatuto de Autonomía, se aprueba la presente Ley en aras a no sufrir merma en los ingresos propios de esta Comunidad Autónoma y con la vocación de no incrementar la presión fiscal sobre los sujetos pasivos del Impuesto sobre Actividades Económicas.
+
+### Artículo único
+
+Artículo único.
+Se fija el recargo sobre las cuotas mínimas del Impuesto sobre Actividades Económicas en el 15 %.
+Se modifica, con efectos de 1 de enero de 2016, por el art. 59 de la Ley 1/2016, de 5 de febrero. Ref. BOE-A-2016-3540
+ Se modifica por el art. 56 de la Ley 13/2014, de 23 de diciembre. Ref. BOE-A-2015-946
+ Se modifica por el art. 4 de la Ley 13/1997, de 23 de diciembre. Ref. BORM-s-1997-90003
+ Se modifica por la disposición adicional 7 de la Ley 11/1996, de 23 de diciembre. Ref. BOE-A-1997-12055
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Región de Murcia», retrotrayéndose sus efectos al día 1 de enero de 1992.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan y a los Tribunales y Autoridades que correspondan que la hagan cumplir.
+Murcia, 28 de julio de 1992.–El presidente, Carlos Collado Mena.

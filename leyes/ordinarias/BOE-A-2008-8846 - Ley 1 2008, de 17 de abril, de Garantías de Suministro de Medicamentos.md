@@ -1,0 +1,172 @@
+# Ley 1/2008, de 17 de abril, de Garantías de Suministro de Medicamentos.
+
+- Identificador BOE: `BOE-A-2008-8846`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-8846
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+La presente Ley tiene por objeto adoptar las medidas oportunas para garantizar el servicio farmacéutico, así como el suministro efectivo de medicamentos de uso humano que requieran receta médica a los ciudadanos. Evidentemente, con independencia de la obligación que tienen los almacenes de distribución de poseer en todo momento unas existencias mínimas y suficientes de los medicamentos para el abastecimiento de las farmacias y demás establecimientos autorizados para la dispensación, la Conselleria de Sanidad debe poder garantizar el suministro efectivo de medicamentos que requieran receta médica a los ciudadanos de la Comunitat Valenciana.
+La materia que se pretende regular tiene implicaciones jurídicas de hondo calado constitucional. Así lo ha venido advirtiendo el Tribunal Constitucional en las Sentencias 152/2003, de 17 de julio y 109/2003, de 5 de junio, en lo referente a los distintos títulos competenciales existentes entre el Estado y las Comunidades Autónomas. Evidentemente, la materia que se pretende regular no la podemos imputar a la competencia exclusiva que el artículo 149.1.16.ª de la Constitución Española reconoce al Estado: legislación sobre productos farmacéuticos. La legislación sobre productos farmacéuticos, en todo lo referente a la distribución, suministro o dispensación, así como en lo referente a la garantía de dichas actividades propias del servicio farmacéutico, se yuxtapone con la legislación sobre establecimientos farmacéuticos y, por tanto, con la legislación vigente en materia de sanidad. Son, por tanto, discernibles dos vertientes, con regulación diferenciada y títulos competenciales distintos. Por un lado, la que tiene que ver con el medicamento mismo, tendente a garantizar la seguridad de los medicamentos prescritos, que se incardinaría dentro de la «legislación farmacéutica» y, por tanto, en el título competencial del artículo 149.1.16.ª de la Constitución Española. Por otro lado, la que tiene que ver con la actividad de dispensar y garantizar el suministro del establecimiento sanitario y del propio servicio farmacéutico.
+II
+El régimen jurídico de dichos establecimientos y del servicio farmacéutico debe incardinarse en el título competencial de sanidad. Las comunidades autónomas asumen competencia legislativa de desarrollo en materia de ordenación farmacéutica y establecimientos y servicios de atención farmacéutica, afirmando el derecho constitucional de protección de la salud y dando cumplimiento a lo previsto en el artículo 103 de la Ley 14/1986, de 25 de abril, General de Sanidad, no pudiendo esta competencia quedar enervada por la competencia estatal de «legislación sobre productos farmacéuticos». Las medidas que se pretenden con esta ley inciden directamente en la distribución y la dispensación, afectando el ejercicio ordinario de la actividad de estos establecimientos sanitarios, sin que ello afecte a los principios relativos a garantizar la seguridad de las prescripciones médicas, o la salud de los pacientes derivada del consumo de los medicamentos, fines éstos que persigue la legislación de productos farmacéuticos o medicamentos.
+Por otro lado, en la legislación básica estatal, en particular, en el capítulo II de la Ley 16/2003, de 18 de mayo, de Cohesión y Calidad del Sistema Sanitario, queda clara la competencia estatal en materia de servicio farmacéutico. El artículo 30 establece que el Estado asume competencias en materia de evaluación, registro, autorización, vigilancia y control de medicamentos de uso humano y veterinario; competencias para decidir su financiación pública y para la fijación de precios. Queda excluida la ordenación farmacéutica y, en particular, el control y las garantías para las actividades de suministro, dispensación en establecimientos y centros de atención farmacéutica. Por su parte, el artículo 33 establece la obligación que tienen los establecimientos del servicio farmacéutico de colaborar con el Sistema Nacional de Salud a fin de garantizar el uso racional del medicamento.
+No obstante lo anterior, las nuevas normas reguladoras de los requisitos de existencias mínimas y las garantías de suministro no han de quebrantar las prescripciones que en pro de la garantía de la salud de los pacientes haya establecido el Estado. Ello no excluye que las comunidades autónomas puedan establecer condiciones de distribución y dispensación siempre que se asegure que no se enerva el ámbito garantista que debe quedar asegurado en la dispensación del medicamento a los ciudadanos, que es competencia exclusiva del Estado.
+III
+La presente ley tiene, por tanto, su habilitación directa en el mismo bloque de constitucionalidad, pieza fundamental en el ordenamiento jurídico español para determinar la correcta distribución de competencias entre el Estado y las comunidades autónomas. Así, el Estatut d'Autonomia de la Comunitat Valenciana, aprobado por Ley Orgánica 5/1982, de 1 de julio, reconocía en su artículo 31.19 la competencia exclusiva a la Generalitat en la ordenación farmacéutica, sin perjuicio de lo dispuesto en la Constitución; y, en su artículo 38.1, el desarrollo legislativo y ejecución de la legislación del Estado en lo relativo a la sanidad interior. Hoy el nuevo Estatut d'Autonomia, aprobado por Ley Orgánica 1/2006, de 10 de abril, de modificación de la Ley Orgánica 5/1982, de 1 de julio, no altera en nada el reparto competencial en esta materia. Pues bien, en ejercicio de dichas competencias exclusivas y de desarrollo, la Comunitat Valenciana ha promulgado la Ley 6/1998, de 22 de junio, de la Generalitat, de Ordenación Farmacéutica de la Comunitat Valenciana, que, en sus artículos 52, 53 y 54, regula la distribución de medicamentos y productos farmacéuticos. Con la presente Ley se pretende garantizar el servicio farmacéutico de la Comunitat Valenciana como servicio público impropio incardinado dentro del Sistema Sanitario español, y, con ello, el uso racional y efectivo del medicamento, máximo objetivo de la Ley 29/2006, de 26 de julio, de Garantías y Uso Racional de los Medicamentos y Productos Sanitarios.
+IV
+Se introducen el capítulo IV y el artículo 10 para modificar los artículos 48, 49 y 64, apartado B, punto 3, así como para la inclusión de un nuevo punto en dicho apartado B, de la Ley 6/1998, de 22 de junio, de ordenación farmacéutica de la Comunitat Valenciana, a fin de que dicha ley regule la figura de los botiquines sociosanitarios y su organización.»
+V
+La garantía en el suministro de medicamentos plantea, por tanto, dos cuestiones principales: la necesidad de garantizar unas existencias mínimas en los establecimientos de distribución, así como la necesidad de que los propios establecimientos autorizados para la distribución y dispensación queden obligados a adoptar una serie de medidas cautelares con objeto de paliar las consecuencias de una falta de suministro y, con ello, evitar situaciones de desabastecimiento. Por ello, los almacenes de distribución deberán disponer de unas existencias mínimas que garanticen la provisión permanente de medicamentos. El antecedente de la necesidad de disponer de existencias mínimas resulta del deber de respetar el principio de continuidad en la prestación del servicio a la comunidad garantizado en el artículo 2 de la Ley 29/2006, de 26 de julio, de Garantías y Uso Racional de los Medicamentos y Productos Sanitarios. Así, las Comunidades Autónomas elaborarán una lista de medicamentos que por las peculiaridades sanitarias de su territorio se consideren necesarios para la adecuada asistencia. Dentro de las legislaciones autonómicas más recientes cabe destacar la Ley 5/2005, de 27 de junio, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha, que, en su artículo 70, establece que los almacenes farmacéuticos deberán disponer en todo momento de un surtido suficiente de medicamentos y sustancias medicinales y demás productos farmacéuticos adecuado para el abastecimiento de los centros y establecimientos a los que provean de modo habitual; añade que la consejería competente en materia de sanidad elaborará la lista de medicamentos que por las peculiaridades sanitarias del territorio de Castilla-La Mancha considere necesarios para la adecuada asistencia. Por su parte, el artículo 72.3 de la Ley 4/2005, de 13 de julio, de Ordenación Farmacéutica de Canarias, con el fin de asegurar el abastecimiento continuado de medicamentos en las oficinas de farmacia y servicios farmacéuticos, prevé que la Administración actuante pueda organizar turnos de guardia entre los almacenes de distribución de medicamentos.
+VI
+No obstante lo anterior, la experiencia de los últimos años acredita que estas medidas no son suficiente para garantizar la adquisición de los medicamentos prescritos a los ciudadanos. Es por ello que, en el ejercicio de la competencia exclusiva que el Estatut d'Autonomia reconoce a la Comunitat Valenciana en materia de ordenación farmacéutica y de legislación de desarrollo en materia de sanidad, el Consell quiera ir más allá para asegurar la continuidad en el servicio farmacéutico y poder garantizar el suministro a los ciudadanos de la Comunitat Autónoma Valenciana. Con ello se pretende que los pacientes en la Comunitat Valenciana puedan tener, en todo caso, acceso a aquellos medicamentos que sean necesarios en las farmacias, evitando la sistematización de sustituciones de medicamentos o que los pacientes tengan que volver necesariamente a su centro de salud a fin de que se produzca un cambio del tratamiento prescrito por problemas de falta de suministro, con los riesgos que esa demora en la aplicación de los medicamentos pueda conllevar a la salud de las personas. Es por ello, que la Generalitat, a iniciativa de la conselleria competente en materia de sanidad, propone la presente Ley, regulando aspectos que se entienden fundamentales en la distribución y dispensación de medicamentos con objeto de establecer las condiciones que se deben cumplir y las medidas que se deben adoptar tanto por la Administración actuante como por las entidades y establecimientos implicados para que el suministro quede garantizado.
+Es objeto principal de esta ley, además de asegurar el abastecimiento continuado de medicamentos en las oficinas de farmacia y servicios farmacéuticos autorizados, definir las situaciones de falta de suministro, estableciendo las obligaciones y medidas que han de cumplir a requerimiento de la Conselleria de Sanidad los titulares, comercializadores, distribuidores y dispensadores de medicamentos con objeto de garantizar el acceso final de los medicamentos a los ciudadanos y así toda la cadena de distribución y comercialización de los mismos.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Ámbito.
+1. La presente ley tiene por objeto garantizar, en el ámbito de las competencias de la Comunitat Valenciana, el efectivo suministro de medicamentos de uso humano que requieren receta médica y estén financiados por el Sistema Nacional de Salud, mediante la intervención necesaria en la distribución y dispensación de los medicamentos dentro del territorio de la Comunitat Valenciana.
+2. Dicha intervención se llevará a cabo con sujeción a lo establecido en la presente ley y normas reglamentarias de desarrollo, afectando tanto a las entidades autorizadas para la distribución de medicamentos como a las oficinas de farmacia legalmente autorizadas.
+Se modifica el apartado 1 por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 2
+
+Artículo 2. Continuidad en el servicio.
+(Suprimido).
+Se suprime por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 3
+
+Artículo 3. Declaración de situación de «suministro insuficiente».
+1.Con independencia de los problemas de suministro que establezca el Ministerio de Sanidad, la Conselleria competente en materia de sanidad, con objeto de evitar problemas graves de suministro, podrá declarar la situación de «suministro insuficiente» de uno o más medicamentos cuando se den alguno de los siguientes supuestos:
+a) Cuando, al menos, dos departamentos de salud de la Conselleria competente en materia de sanidad comuniquen el problema de suministro de un medicamento, tras haberlo solicitado sus hospitales o centros de salud, durante más de diez días.
+b) Cuando a través del sistema de información aprobado por la administración sanitaria para la gestión de la prestación farmacéutica, se compruebe la sustitución sistemática de la prescripción de un determinado medicamento durante el periodo de un mes.
+c) Cuando sea comunicado por agentes del sector de la dispensación y/o distribución de medicamentos, siempre que sea contrastado por la Administración Sanitaria.
+2. Para que la Conselleria de Sanidad pueda declarar la situación de «suministro insuficiente» e iniciar el procedimiento previsto en el presente artículo, los problemas de suministro definidos en los apartados anteriores deberán extenderse a uno o más departamentos de salud, haber sido comunicados por la Conselleria de Sanidad al laboratorio interesado y no haber obtenido respuesta, o cuando de ella se pueda atribuir al laboratorio la situación de suministro insuficiente, después de considerar su justificación y documentos aportados sobre el medicamento en cuestión.
+3. El inicio del procedimiento para declarar la situación de «suministro insuficiente» obligará a los establecimientos y servicios farmacéuticos ubicados en la Comunitat Valenciana a adoptar las medidas cautelares contempladas en la presente Ley, con independencia del resultado del procedimiento.
+4. El inicio del procedimiento para declarar la situación de «suministro insuficiente» se comunicará a todos los agentes incluidos en el sistema operativo, así como al laboratorio titular de la comercialización del medicamento afectado.
+5. Sin perjuicio de lo anterior, habrá una «situación de desabastecimiento» cuando no se abasteciera el mercado de un medicamento porque el titular cuenta con autorización de la Agencia Española de Medicamentos y Productos Sanitarios para suspender definitiva o temporalmente la comercialización del mismo o tenga problemas en la fabricación. En todo caso, corresponderá al Estado la declaración de esta situación.
+Se modifica el apartado 1 por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 4
+
+Artículo 4. Sistema operativo de alerta de suministro de medicamentos.
+(Suprimido).
+Se suprime por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 5
+
+Artículo 5. Comunicación de incidencias.
+La comunicación entre los agentes incluidos en el ámbito de esta Ley será preferentemente electrónica, y sólo excepcionalmente se utilizarán instrumentos en soporte papel. Las incidencias deben comunicarse en el plazo máximo de 48 horas desde su detección.
+Se modifica por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+## CAPÍTULO II
+
+Medidas para garantizar el suministro
+
+### Artículo 6
+
+Artículo 6. Oficinas de farmacia.
+Las oficinas de farmacia de la Comunitat Valenciana están obligadas a comunicar de inmediato, de acuerdo con lo que se establezca reglamentariamente, a la Conselleria de Sanidad, a través del colegio oficial de farmacéuticos de su provincia, cualquier falta de suministro que afecte a la dispensación de uno o varios medicamentos que requieran receta médica y estén financiados por el Sistema Nacional de Salud.
+Se modifica por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 7
+
+Artículo 7. Almacenes mayoristas de distribución.
+Los almacenes mayoristas legalmente autorizados en la Comunitat Valenciana están obligados a comunicar de inmediato a la Conselleria de Sanidad, cualquier falta de suministro que detecten respecto de un determinado medicamento que requiera receta médica y estén financiados por el Sistema Nacional de Salud, en los términos que se fijen reglamentariamente.
+Se modifica por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+## CAPÍTULO III
+
+Régimen sancionador
+
+### Artículo 8
+
+Artículo 8. Infracciones.
+Se tipifican como infracciones las siguientes:
+1. Son infracciones leves:
+a) El incumplimiento por parte de las oficinas de farmacia y almacenes de distribución del deber de informar a la Conselleria de Sanidad sobre los «suministros insuficientes» detectados con medicamentos que requieran receta médica financiados por el Sistema Nacional de Salud.
+b) El incumplimiento del deber de colaboración con la Conselleria de Sanidad por parte de los laboratorios titulares de la autorización de comercialización, almacenes mayoristas de distribución y oficinas de farmacia, a los requerimientos de la Conselleria competente en materia de sanidad solicitando información referente al suministro de medicamentos.
+c) El incumplimiento de las condiciones, obligaciones o prohibiciones que determina la presente ley cuando, de acuerdo con lo previsto en este artículo, no sean calificadas como infracción grave o muy grave.
+2. Son infracciones graves:
+a) La negativa injustificada a distribuir, suministrar o dispensar determinados medicamentos o su distribución, suministro o dispensación incumpliendo las medidas correctoras adoptadas en virtud de lo dispuesto en la presente ley.
+b) El incumplimiento de los requerimientos de la Conselleria competente en materia de sanidad en orden a la adopción de medidas cautelares una vez detectados problemas de suministro, cuando se produzcan por primera vez.
+c) La obstrucción, negativa o cualquier acción u omisión que dificulte la actuación de la inspección, en particular, la realización de las inspecciones en locales o establecimientos de distribución o dispensación autorizados con objeto de comprobar el suministro de medicamentos.
+3. Son infracciones muy graves: cualquier actuación que tenga la calificación de infracción muy grave en la normativa especial aplicable en el ámbito de esta ley.
+Se modifica por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+### Artículo 9
+
+Artículo 9. Sanciones.
+1. Las infracciones en esta materia serán sancionadas aplicando una graduación que se determinará en función del perjuicio cometido tanto al sistema como a los pacientes, la cuantía del eventual beneficio obtenido a causa de la infracción, en función de la negligencia o grado de intencionalidad del infractor, fraude o connivencia, incumplimiento de las advertencias previas, la gravedad de la alteración sanitaria y social que se pudiera producir, cifra de negocio de la empresa, y permanencia o transitoriedad del problema de suministro detectado.
+2. Las infracciones leves se castigarán con multa de 1.000 a 3.000 euros. Las infracciones graves con multa de 3.001 a 30.000 euros. Las infracciones muy graves con multa de 30.001 a 90.000 euros.
+Se modifica por el art. 131 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
+
+## CAPÍTULO IV
+
+Modificación de la Ley 6/1998, de 22 de junio, de Ordenación Farmacéutica de la Comunitat Valenciana
+
+### Artículo 10
+
+Artículo 10.
+Por el que se modifican los artículos 48, 49 y 64 de la Ley 6/1998, de 22 de junio, de Ordenación Farmacéutica de la Comunitat Valenciana, cuyos textos quedarán como sigue:
+«Artículo 48. Centros sociosanitarios y empresas.
+1. A los efectos de esta ley, tendrán la consideración de centros sociosanitarios aquellos que atiendan a sectores de la población tales como ancianos, discapacitados y cualesquiera otros cuyas condiciones de salud requieran, además de las atenciones sociales que les presta el centro, determinada asistencia sanitaria.
+Los centros sociosanitarios, previa autorización de los servicios médicos por la conselleria competente, estarán obligados a establecer servicios de farmacia, botiquines sociosanitarios o depósitos de medicamentos en los casos y términos que se determinen reglamentariamente.
+Los depósitos de medicamentos de los centros sociosanitarios de carácter privado estarán vinculados a una oficina de farmacia y, de tratarse de centros sociosanitarios de carácter público, a un servicio de farmacia de otro centro, preferentemente del mismo sector sanitario.
+En caso de establecerse botiquines sociosanitarios, estos estarán vinculados a una oficina de farmacia establecida en la misma zona farmacéutica, preferentemente en el mismo municipio. En aquellos municipios en los que exista más de una zona básica de salud, el botiquín sociosanitario estará vinculado preferentemente a una oficina de farmacia de la misma zona básica de salud. En caso de existir unas cuantas oficinas de farmacia, se establecerá un turno rotatorio entre las mismas, todo ello sin coartar la libertad del usuario del centro sociosanitario a la elección de la oficina de farmacia.
+En caso de que no exista una oficina de farmacia para realizar este servicio en la misma zona farmacéutica, el botiquín sociosanitario se podrá vincular a una oficina de farmacia de otra zona farmacéutica limítrofe y, si no hay otro remedio, a un servicio de farmacia de centro sociosanitario o a un servicio de farmacia hospitalario establecido en su área de salud.
+Reglamentariamente se determinarán las condiciones de la vinculación de los botiquines sociosanitarios a las oficinas de farmacia.
+2. Todos los centros sociosanitarios en los que se establezca servicio de farmacia, botiquines sociosanitarios o depósitos de medicamentos en el propio centro, estarán obligados a disponer de una localización adecuada y una buena comunicación interna, determinándose las diferentes áreas que deben componerlos, a fin de ejercer adecuadamente las funciones encomendadas.
+La prescripción de medicamentos en los centros sociosanitarios se integrará con los dispositivos de prescripción asistida de la Agencia Valenciana de Salud, y la dispensación en los botiquines sociosanitarios se realizará a través de receta médica, preferentemente a través de oficinas de farmacia con servicio de receta electrónica de la conselleria competente.
+Reglamentariamente se determinarán los requisitos que han de cumplir los centros sociosanitarios de día, para adecuarse a lo establecido para los centros en régimen de internado en la presente ley, así como los que habrán de cubrir las empresas públicas o privadas que, por sus dimensiones o especiales características, hayan de disponer de estos servicios.
+3. A los efectos previstos en los apartados anteriores, los citados centros sociosanitarios tendrán la consideración de centros hospitalarios.
+4. La oficina de farmacia a la que quede vinculado un botiquín o depósito de medicamentos de un centro sociosanitario será la única autorizada para la dispensación o suministro de medicamentos en dicho centro sociosanitario, y asumirá el total de las funciones previstas para ellos en el artículo 49 de esta ley.»
+Artículo 49. Funciones de los servicios de farmacia, botiquines sociosanitarios y de los depósitos de medicamentos de los centros sociosanitarios.
+«1. Para lograr el uso racional de los medicamentos, los servicios farmacéuticos de los centros sociosanitarios, bajo la responsabilidad de un farmacéutico con presencia física del mismo, realizarán las siguientes funciones:
+a) Garantizar y asumir la responsabilidad técnica de la adquisición, sin perjuicio en su caso del sistema de selección, de la calidad, correcta conservación, cobertura de las necesidades, custodia, preparación de fórmulas magistrales o preparados oficinales y dispensación de los medicamentos precisos para las actividades propias de éstos.
+b) Establecer sistemas eficaces y seguros de suministro de medicamentos y productos sanitarios, tomar las medidas para garantizar su correcta dispensación y cumplimiento del tratamiento, custodiar y dispensar los productos en fase de investigación clínica, debidamente autorizados por el Comité Ético de Ensayos Clínicos competente y de acuerdo con lo preceptuado en la normativa vigente en materia de ensayos clínicos, así como velar por el cumplimiento de la legislación sobre estupefacientes y psicótropos o de cualquier otro medicamento que requiera un control especial.
+c) Establecer un servicio de información de medicamentos para todo el personal sanitario. Colaborar con los sistemas de farmacovigilancia, realizar estudios de utilización de medicamentos y actividades de farmacocinética clínica.
+d) Llevar a cabo actividades de promoción, prevención de la salud y educación sanitaria sobre cuestiones de su competencia dirigidas al personal social y a los pacientes de los centros sociosanitarios.
+e) Efectuar trabajos de investigación propios o en colaboración con otras unidades o servicios y participar en los ensayos clínicos con medicamentos, debidamente autorizados por el Comité Ético de Ensayos Clínicos competente y de acuerdo con lo preceptuado en la normativa vigente en materia de ensayos clínicos.
+f) Colaborar con las estructuras de Atención Primaria y Especializada en el desarrollo de las funciones que garanticen el uso racional de los medicamentos.
+g) Realizar cuantas funciones puedan redundar en un mejor uso y control de los medicamentos.
+h) Intervenir en los programas relacionados con la nutrición en estos centros.
+i) Integrarse en el equipo multidisciplinario de los centros sociosanitarios para lograr una atención integral, dirigida a mejorar la calidad de vida del paciente.
+2. Los botiquines sociosanitarios y los depósitos de medicamentos de los centros sociosanitarios deberán desarrollar como mínimo las funciones previstas en los epígrafes a, b, c, d y e del punto 1 del presente artículo.
+3. Los servicios de farmacia y los depósitos de medicamentos de los centros sociosanitarios establecerán un régimen interno que permita la disponibilidad de los medicamentos durante las 24 horas del día.
+Los botiquines sociosanitarios establecerán un sistema de dispensación de urgencia fuera del horario de apertura.»
+Artículo 64. Clasificación.
+Se modifica el apartado B3, cuyo texto debe ser el siguiente:
+«3. La falta de servicios de farmacia, de depósitos de medicamentos o de botiquines en los centros hospitalarios, sociosanitarios y penitenciarios que estén obligados a disponer de ellos.»
+Se añade en apartado B infracciones graves, un nuevo punto con la redacción siguiente:
+«13 bis. La dispensación o suministro de medicamentos en centros sanitarios, sociosanitarios y penitenciarios por oficinas de farmacia no vinculadas a los mismos.»
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en esta ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se autoriza al Consell para que dicte cuantas disposiciones sean necesarias para desarrollar y aplicar la presente Ley. El desarrollo reglamentario de la misma se realizará en el plazo de un año desde su publicación en el Diari Oficial de la Comunitat Valenciana.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el Diari Oficial de la Comunitat Valenciana.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 17 de abril de 2008.–El President de la Generalitat, Francisco Camps Ortiz.

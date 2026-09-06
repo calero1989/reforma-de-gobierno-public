@@ -1,0 +1,301 @@
+# Ley Foral 16/2019, de 26 de marzo, de reconocimiento y reparación de las víctimas por actos de motivación política provocados por grupos de extrema derecha o funcionarios públicos.
+
+- Identificador BOE: `BOE-A-2019-5738`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2019-5738
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD FORAL DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de reconocimiento y reparación de las víctimas por actos de motivación política provocados por grupos de extrema derecha o funcionarios públicos.
+Preámbulo
+En los últimos años se han dado avances significativos en la reparación y reconocimiento hacia las víctimas de diferentes episodios trágicos de nuestra historia en relación con actos violentos y de terrorismo por motivaciones políticas.
+En el marco legislativo estatal, es reseñable la Ley 52/2007, de 26 de diciembre, por la que se reconocen y amplían derechos y se establecen medidas en favor de quienes padecieron persecución o violencia durante la guerra civil y la dictadura, más conocida como «Ley de Memoria histórica», que venía a corregir parcial y tardíamente años de olvido institucional hacia las víctimas del franquismo que habían sufrido un sinfín de penurias y humillaciones. Según se expresa en su exposición de motivos «la Ley sienta las bases para que los poderes públicos lleven a cabo políticas públicas dirigidas al conocimiento de nuestra historia y al fomento de la memoria democrática». Mediante el Real Decreto 1803/2008, de 3 de noviembre, por el que se regulan las condiciones y el procedimiento para el abono de las indemnizaciones reconocidas en la Ley 52/2007 a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa de la Democracia y en desarrollo de la misma, se crea una Comisión de Evaluación facultada para realizar de oficio las actuaciones que estime pertinentes para la comprobación de los hechos o datos alegados a fin de esclarecer los hechos causantes y contribuir a la determinación del nexo causal que puedan dar lugar al reconocimiento y reparación solicitados. A dicha Comisión corresponde la tramitación de las solicitudes que al respecto se formulen, así como su estudio, valoración y resolución.
+Posteriormente, la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo, vino a proteger social, económica y políticamente a las víctimas causadas por la violencia de organizaciones terroristas entre las que se encuentran grupos como ETA, GAL y BVE. En el pasado estas víctimas no habían tenido el reconocimiento social preciso y tocaba, en este caso, dignificar su memoria. Esta ley contempla la posibilidad de acreditar ante el órgano competente de la Administración, por cualquier medio de prueba admisible en derecho, la condición de víctima o derechohabiente, la entidad de los daños sufridos, la naturaleza de los actos o hechos causantes y los demás requisitos legalmente exigidos.
+En Navarra también se ha realizado un esfuerzo normativo por reparar en lo posible el daño causado por la violencia de motivación política, con la aprobación de dos leyes relevantes.
+La Ley Foral 9/2010, de 28 de abril, de ayuda a las víctimas del terrorismo, ordenó y articuló la forma en la que las administraciones navarras han de desarrollar el tratamiento hacia las víctimas del terrorismo estableciendo una serie de mecanismos económicos y sociales, dando protección así a los derechos que asisten a estas víctimas. Esta ley foral estableció en su artículo 5 que, para acogerse a lo en ella dispuesto, es requisito que los daños producidos a los que se refiere sean consecuencia de un acto terrorista, condición que puede ser determinada por sentencia judicial o por las fuerzas y cuerpos de seguridad del Estado o también por resolución de la Administración competente en la que se determine expresamente dicha calificación.
+Por otro lado, la Ley Foral 33/2013, de 26 de noviembre, de reconocimiento y reparación moral de las ciudadanas y ciudadanos navarros asesinados y víctimas de la represión a raíz del golpe militar de 1936, corrigió años de imperdonable olvido oficial hacia las más de 3.400 personas asesinadas en Navarra por defender los valores republicanos y democráticos, siendo pionera en el Estado español.
+Interesa también en este punto observar algunas disposiciones desarrolladas en el ámbito internacional, empezando por los grandes pactos y acuerdos alcanzados en el marco multilateral de las Naciones Unidas. Queremos empezar honrando la Declaración de los Derechos Humanos de 1948 y todos sus desarrollos posteriores (como los Pactos de Derechos), que son la fuente de Derecho Internacional Público en la que se enraíza esta iniciativa. No podemos avanzar en el reconocimiento de las víctimas y, por tanto, en la profundización de la democracia, sin honrar este primer pacto colectivo en el que se sustentan los Derechos Humanos de todas las personas en todas las partes del planeta.
+Por otra parte, también queremos apelar a un acuerdo de muy reciente creación, la Agenda 2030 de Desarrollo Sostenible, firmada apenas hace tres años en septiembre de 2015 en el marco de las Naciones Unidas. Y, en concreto, a la consecución del «Objetivo n.º 16: Paz, Justicia e Instituciones Sólidas», cuya finalidad es promover sociedades Justas, Pacíficas e Inclusivas. Un objetivo que consideramos que no se puede alcanzar si no se hace un debido ejercicio de memoria y de reconocimiento y reparación de las víctimas allá donde hayan existido situaciones de conflicto.
+Asimismo, cabe mencionar el Convenio n.º 116 del Consejo de Europa, de 24 de noviembre de 1983, sobre Indemnización a las Víctimas de Delitos Violentos, ratificado por España el 31 de octubre de 2001, que contempla que «la indemnización prevista se concederá incluso si el autor no puede ser perseguido o castigado» y, en el seno de la UE, es de resaltar también al respecto la Directiva 2004/80/CE del Consejo, de 29 de abril, que impone a los Estados miembros la obligación de establecer un régimen de indemnizaciones para las víctimas de delitos violentos, designando las autoridades públicas u organismos competentes y diseñando los correspondientes procedimientos administrativos.
+Igualmente la ONU ha desarrollado ciertos instrumentos de recomendación, orientativos para la actuación de los Estados. Como ejemplo, su Consejo de Derechos Humanos aprobó el 24 de septiembre de 2008 la Resolución 9/11 sobre el Derecho a la Verdad, en la que reconoce la importancia de respetar y garantizar el derecho a la verdad para contribuir a promover y proteger los derechos humanos. Con ella se acoge con satisfacción la creación en varios Estados de mecanismos no judiciales, como las comisiones de la verdad y la reconciliación, que complementan el sistema judicial, para investigar las violaciones de los derechos humanos y del derecho internacional humanitario, alentando a otros Estados a dotarse de similares mecanismos.
+Con carácter previo, mediante Resolución 60/147 de 16 de diciembre de 2005, la Asamblea General de Naciones Unidas había aprobado los «Principios y directrices básicos sobre el derecho de las víctimas de violación manifiesta de las normas internacionales de derechos humanos y violaciones graves del derecho internacional humanitario a interponer recursos y obtener reparaciones», documento que prevé el mecanismo de las vías administrativas públicas para la restitución, reparación, rehabilitación y satisfacción por los daños sufridos. Pues bien, enmarcada en ese conjunto normativo internacional, estatal, autonómico y foral diseñado e implantado con la finalidad de reconocer y reparar en lo posible a las víctimas de delitos violentos y de terrorismo, por motivaciones políticas y con la intención de complementarlo y completarlo, se considera ahora la necesidad de aprobar esta Ley Foral de Reconocimiento y Reparación de las Víctimas por Actos de Motivación Política Provocados por Grupos de Extrema Derecha o Funcionarios Públicos para dar amparo a un conjunto de víctimas de vulneraciones de derechos humanos que hasta ahora no encontraban acomodo en la legislación previa. Se instituye, a través de esta norma, un procedimiento administrativo al objeto de adoptar medidas administrativas de reconocimiento y reparación de las víctimas delimitadas en su ámbito de aplicación. En este sentido, es importante reseñar que la presente ley foral no tiene, en ningún caso, finalidad punitiva, y respeta con plena garantía el deber de abstención, concurrencia y sujeción a los pronunciamientos judiciales.
+El derecho a la verdad configurado en la presente ley foral se sustenta en el conocimiento, documentación y determinación de los hechos que coadyuven a la resolución de los expedientes administrativos y favorezcan el reconocimiento y la reparación de las víctimas de vulneraciones de Derechos Humanos por actos de motivación política.
+Con base en todo lo expuesto, la presente ley foral viene a enmendar y sustituir a la Ley Foral 16/2015, de 10 de abril, de reconocimiento y reparación de las víctimas por actos de motivación política provocados por grupos de extrema derecha o funcionarios públicos, que quedará derogada a la entrada en vigor de la presente norma.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. Es objeto de esta ley foral configurar el derecho al reconocimiento y, en su caso, reparación de las víctimas de motivación política generadas por la acción violenta de grupos de extrema derecha o por parte de funcionarios públicos, regulando los medios y mecanismos para que sean reconocidas como tales víctimas y, en su caso, como personas beneficiarias de los correspondientes derechos de reconocimiento y reparación integral.
+2. Esta ley foral se enmarca en un conjunto normativo internacional, estatal, autonómico y foral diseñado e implantado con la finalidad de reconocer y reparar a las víctimas de violencia por motivaciones políticas. A tal fin se instituye un procedimiento administrativo al objeto de adoptar medidas administrativas que den amparo a las personas delimitadas en su ámbito de aplicación subjetivo.
+
+### Artículo 2
+
+Artículo 2. Ámbito subjetivo.
+Constituyen el ámbito subjetivo de la presente ley foral aquellas personas que hayan visto vulnerados sus derechos humanos en las circunstancias y con las consecuencias siguientes:
+a) Que las vulneraciones se hayan producido en un contexto de violencia por motivación política.
+b) Que las vulneraciones se hayan realizado en un contexto de actuaciones de motivación política en las que hubieran podido intervenir funcionarios públicos o particulares que actuaban en grupo o de forma aislada e incontrolada.
+c) Que como consecuencia de la vulneración de derechos humanos se haya producido un perjuicio a la vida o a la integridad física, psíquica, moral o sexual de las personas.
+En el caso de que, como consecuencia directa de la vulneración de los derechos humanos de una persona, se hubiera producido su fallecimiento, sus causahabientes tendrán derecho a solicitar la declaración de víctima y a beneficiarse de la compensación económica, de acuerdo con las reglas que se establecen al efecto en el artículo 12.5 de esta ley foral.
+Quedan expresamente excluidas de la aplicación de esta ley foral las personas que resultaran fallecidas o heridas por la manipulación de armas o explosivos con el fin de realizar alguna actividad violenta, incluido el caso de que con dicha manipulación lo que se pretendiera fuera repeler o evitar actuaciones legítimas de las fuerzas y cuerpos de seguridad.
+Se modifica el párrafo segundo por el art. único.1 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+
+### Artículo 3
+
+Artículo 3. Ámbito temporal.
+La presente ley foral se dirige al reconocimiento y reparación de las víctimas de motivación política en ella especificadas que hayan tenido o puedan tener causa en acciones acontecidas a partir del 1 de enero de 1950.
+
+### Artículo 4
+
+Artículo 4. Ámbito territorial.
+La presente ley foral será de aplicación a las personas físicas que, dentro de su ámbito subjetivo, hayan sufrido daños en Navarra o que, ostentando la condición política de navarros, hayan sufrido daños fuera del territorio de la Comunidad Foral en lo que esos daños no hayan sido objeto de reparación por las instituciones del Estado o de otra comunidad autónoma.
+
+### Artículo 5
+
+Artículo 5. Principios de actuación.
+1. Principio de colaboración interinstitucional, de manera que las instituciones y entidades públicas suministrarán, en tiempo y forma, todos los datos que les sean solicitados y facilitarán la colaboración, tanto de autoridades como del personal técnico a su servicio, que sea precisa para la resolución de los expedientes.
+A tal fin, todas las instituciones y entidades públicas de la Comunidad Foral de Navarra han de adoptar las medidas precisas para:
+a) Facilitar y favorecer al máximo el análisis y documentación de las vulneraciones de derechos humanos y las solicitudes presentadas al respecto para facilitar las resoluciones administrativas procedentes que han de dar cauce a esta ley foral.
+b) Reparar y rehabilitar a las víctimas de motivación política, favoreciendo su visualización, dentro del máximo respeto a su dignidad y voluntad, y adoptando las medidas que tiendan a paliar, en la medida de lo posible, los daños sufridos.
+c) Fomentar en la sociedad navarra los valores contenidos en la Declaración Universal de los Derechos Humanos y promover la cultura de la paz, contribuyendo al conocimiento y la reflexión en torno a la gravedad de las vulneraciones de Derechos Humanos, mediante el reconocimiento institucional y social hacia las víctimas de vulneración de los Derechos Humanos previstas en esta ley foral.
+2. Principio de celeridad, evitando trámites formales que alarguen o dificulten innecesariamente el reconocimiento de los derechos y su reparación. La administración no podrá requerir documentación a la persona interesada para probar hechos notorios o circunstancias cuya acreditación conste en los archivos o antecedentes de la administración actuante.
+3. Principio de no discriminación y trato favorable a las víctimas, teniendo en cuenta la especial situación de vulnerabilidad y desigualdad en que puedan encontrarse, adoptando las medidas necesarias para que el procedimiento no dé lugar a nuevos procesos traumáticos.
+4. Principio de participación social y conocimiento de la ciudadanía, a través de la colaboración entre los poderes públicos y los órganos y organismos del Gobierno de Navarra con competencias en materia de derechos humanos, promoción de la memoria o convivencia democrática para contribuir al conocimiento de la verdad histórica sobre las vulneraciones de derechos humanos a los que se refiere esta ley foral.
+5. Principio de garantía de los derechos de terceras personas. Los expedientes administrativos tramitados al amparo de esta ley foral no podrán suponer, en ningún caso, vulneración ni afección alguna a las garantías jurídicas y constitucionales de terceras personas.
+6. Principio de subsidiariedad del procedimiento administrativo respecto del penal. El procedimiento administrativo establecido en esta ley foral está sujeto a la ausencia de finalidad punitiva y respeta con plena garantía los deberes y obligaciones de abstención, concurrencia y sujeción a los pronunciamientos judiciales.
+
+## CAPÍTULO II
+
+Verdad, reconocimiento y reparación
+
+### Artículo 6
+
+Artículo 6. Derecho a la verdad.
+Los poderes públicos navarros, en el ámbito de aplicación de esta ley foral, colaborarán con los órganos y organismos del Gobierno de Navarra que ejerzan funciones en materia de derechos humanos y de promoción de la memoria para, en el marco de las respectivas competencias, contribuir al conocimiento de la verdad sobre las vulneraciones de derechos humanos a las que se refiere esta ley foral, a través de acciones para facilitar a las personas el acceso a los archivos oficiales y examinar las posibles vulneraciones de derechos humanos a que hace referencia esta ley foral.
+Téngase en cuenta que se declara la no inconstitucionalidad del párrafo primero, interpretado en los términos del fundamento jurídico 5.d), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021. En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+Los poderes públicos navarros colaborarán, dentro de sus competencias, para que las personas declaradas víctimas al amparo de esta ley foral tengan la información sobre los recursos disponibles y, en su caso, la que permita incoar los procesos judiciales que puedan proceder en cada caso concreto.
+En todo caso, cuando la Comisión de Reconocimiento y Reparación considere que del inicio del expediente pudiera desprenderse alguna actuación ilegal, lo comunicará a los órganos judiciales y lo pondrá en conocimiento de la administración competente.
+Los expedientes administrativos que concluyan estimando la solicitud presentada serán remitidos al Instituto de la Memoria, para que pueda desarrollar las políticas que son de su competencia, siempre dentro del respeto a la legislación sobre protección de datos.
+Se declara la no inconstitucionalidad del párrafo primero, interpretado en los términos del fundamento jurídico 5.d), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021
+ En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+
+### Artículo 7
+
+Artículo 7. Derecho al reconocimiento.
+1. A los efectos de esta ley foral, la declaración de víctima de vulneraciones de derechos humanos producidas en un contexto de violencia de motivación política implicará, en todo caso, el derecho al reconocimiento público de la condición de víctimas. Este reconocimiento público deberá compaginarse con el derecho de la víctima, cuando lo solicite expresamente, a preservar su intimidad.
+2. Las Administraciones Públicas de la Comunidad Foral de Navarra impulsarán medidas activas para asegurar, dentro del máximo respeto y dignificación de las víctimas y mediante actos, símbolos o elementos análogos, el recuerdo y el reconocimiento de las víctimas de vulneración de derechos humanos previstas en esta ley foral.
+
+### Artículo 8
+
+Artículo 8. Derecho a la reparación.
+A efectos de esta ley foral y dentro de su ámbito de aplicación, el derecho a la reparación comprenderá una compensación económica y, en su caso, la asistencia sanitaria para superar o paliar los daños sufridos como consecuencia de las vulneraciones de derechos humanos acaecidos.
+
+## CAPÍTULO III
+
+Procedimiento
+
+### Artículo 9
+
+Artículo 9. Iniciación del procedimiento.
+1. Las solicitudes podrán ser promovidas y presentadas por las personas a las que se hace referencia en el ámbito subjetivo de esta ley foral. Tendrán también legitimación activa las personas o entidades que, sin estar comprendidas en el mencionado ámbito, hayan tenido conocimiento directo y riguroso de hechos que entren dentro del ámbito de aplicación de esta ley foral. Dichas solicitudes podrán ser presentadas en el plazo inicial de cuatro años y seis meses desde el día siguiente a la publicación en el "Boletín Oficial de Navarra" de la correspondiente orden foral de la persona titular del departamento competente en la materia, por la que se abra el plazo de presentación de solicitudes.
+2. Las solicitudes para la declaración de la condición de víctima de motivación política conforme a esta ley foral se dirigirán al departamento del Gobierno de Navarra competente en la materia, actualmente la Dirección General de Paz, Convivencia y Derechos Humanos, que dará traslado de la misma al órgano administrativo competente para su examen que, conforme a esta ley foral, es la Comisión de Reconocimiento y Reparación
+3. La solicitud deberá contener una descripción lo más detallada posible de los hechos, y podrá ir acompañada de cuantos documentos o informes consideren oportunos, sin perjuicio de las actuaciones y gestiones que pueda realizar la Comisión para la documentación y acreditación de los mismos.
+Téngase en cuenta que se declara la no inconstitucionalidad del inciso destacado del apartado 3, interpretado en los términos del fundamento jurídico 5.b) (ii), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021. En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+Se modifica el apartado 1 por el art. único.2 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+ Se declara la no inconstitucionalidad del inciso destacado del apartado 3, interpretado en los términos del fundamento jurídico 5.b) (ii), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021
+ En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+
+### Artículo 10
+
+Artículo 10. Instrucción del procedimiento.
+1. Recibida la solicitud, la Comisión de Reconocimiento y Reparación deberá resolver en el plazo de un mes sobre la admisión a trámite de la misma.
+2. Admitida a trámite la solicitud, la Comisión de Reconocimiento y Reparación podrá, para el cumplimiento de sus funciones y siempre que lo considere oportuno, practicar alguna de las siguientes actuaciones:
+a) Escuchar a la persona solicitante, al objeto de completar la información sobre los documentos e informes presentados por su parte. A estos efectos, citará a la persona solicitante a una entrevista en la sede de la Comisión o, en su defecto, en el lugar que se acuerde con ella, siguiendo los principios de cercanía geográfica a su domicilio. De esta entrevista se levantará acta por la secretaría técnica de la Comisión de Reconocimiento y Reparación pudiéndose, con la conformidad de la persona solicitante, grabar por medios audiovisuales su declaración.
+b) Recabar los antecedentes, datos o informes que pudieran constar en los departamentos y organismos dependientes del Gobierno de Navarra, así como en otros registros públicos de la Administración Foral, donde pudiera haber quedado constancia de los mismos.
+c) Solicitar información a otras entidades públicas, entidades u órganos privados o públicos de los antecedentes, datos o informes que puedan resultar necesarios para la tramitación de los expedientes, siempre dentro de los límites fijados por la legislación vigentes en materia de transparencia y protección de datos.
+d) Solicitar informe o testimonio de personas que, bien por su conocimiento directo o indirecto de los hechos, o bien por su experiencia o pericial técnica, pudieran aportar información relevante sobre la solicitud presentada, cuya declaración podrá, igualmente, ser objeto de grabación.
+e) Llevar a cabo cuantas actuaciones estime precisas en orden al mejor estudio y comprobación de los hechos, circunstancias y consecuencias aducidas y a una mejor resolución de la solicitud presentada.
+Téngase en cuenta que se declara la no inconstitucionalidad de la letra e) del apartado 2, interpretado en los términos del fundamento jurídico 5.b) (iii), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021. En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+3. Las entidades públicas y personas privadas relacionadas con el cumplimiento de los objetivos de la Comisión de Reconocimiento y Reparación habrán de prestar la colaboración que les sea requerida, al objeto de facilitar el estudio de los hechos en el marco de los expedientes tramitados al amparo de la presente ley foral. A este respecto suministrarán, en tiempo y forma, todos los datos y la colaboración del personal técnico que les sea requerida y, en caso de que sean citadas, comparecerán ante la Comisión para responder directamente a los requerimientos de información.
+4. La Comisión, en el ámbito de sus competencias, podrá mantener las relaciones que estime necesarias con cualquier autoridad o sus agentes, así como intercambiar informaciones y recibir las colaboraciones de organismos y de entidades públicas y privadas.
+5. En los casos en que la Comisión de Reconocimiento y Reparación tenga conocimiento de la existencia de causas judiciales abiertas, el órgano encargado de resolver el expediente suspenderá la tramitación del procedimiento hasta que la vía judicial se haya agotado. Igual suspensión se producirá cuando se tenga conocimiento de la existencia de procedimientos administrativos sancionadores abiertos, hasta que los mismos sean firmes en la vía administrativa.
+6. En cada expediente habrá de constar un informe técnico emitido por, al menos, dos peritos forenses pertenecientes al Instituto Navarro de Medicina Legal, que formen parte de la Comisión de Reconocimiento y Reparación, en el que, en el ámbito de las funciones que tienen atribuidas en la citada Comisión, se pronuncien sobre la compatibilidad del maltrato o lesiones alegadas, con los hechos causantes. En los casos de gran invalidez, incapacidad permanente parcial, total o absoluta, acreditada mediante certificado expedido por la autoridad competente, los respectivos informes técnicos habrán de pronunciarse sobre el grado de vinculación de las lesiones acreditadas con los hechos alegados en el marco de cada expediente. En los casos en que el informe concluya que existe un determinado grado de invalidez o incapacidad permanente que no se encuentra acreditado por certificado emitido por la autoridad competente, desde la Comisión se indicará el procedimiento para lograr su obtención.
+7. Corresponde a la Comisión de Reconocimiento y Reparación, con carácter exclusivo e independiente, proponer, de forma motivada, la inadmisión a trámite de las solicitudes, así como analizar las solicitudes admitidas y acordar, motivadamente, la propuesta de declaración de la condición de víctima o de denegación de la solicitud presentada.
+Se declara la no inconstitucionalidad del apartado 2.e), interpretado en los términos del fundamento jurídico 5.b) (iii), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021
+ En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+
+### Artículo 11
+
+Artículo 11. Resolución de las solicitudes.
+1. Una vez analizada la documentación y los demás elementos de prueba que consten en el expediente, la Comisión de Reconocimiento y Reparación elaborará un informe motivado de cada solicitud presentada en el que se analizará el cumplimiento de los requisitos establecidos en el ámbito de aplicación de la ley foral, realizará un resumen de los hechos que ocasionaron la vulneración de los derechos humanos de la víctima e incluirá una valoración sobre la relación de causalidad entre los hechos y los perjuicios acreditados, detallando los medios de prueba en los que se fundamenta y propondrá en su caso, la declaración de víctima, a los efectos de esta ley foral, así como las medidas reparadoras que consideren oportunas.
+El citado informe deberá ser elaborado en el plazo de un año desde la recepción de la solicitud, salvo que concurrieran circunstancias excepcionales que justifiquen la ampliación motivada de dicho plazo.
+Téngase en cuenta que se declara la no inconstitucionalidad del inciso destacado del apartado 1, párrafo pimero, interpretado en los términos del fundamento jurídico 5.b) (iv), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021. En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+2. El informe elaborado será trasladado al responsable competente en materia de paz, convivencia y derechos humanos, quien dictará en el plazo máximo de tres meses la correspondiente Resolución, desestimando o reconociendo la solicitud.
+3. La resolución será comunicada al interesado en el plazo de un mes, indicándole en su caso la posibilidad de interponer los correspondientes recursos.
+El plazo máximo para resolver el procedimiento y notificar la resolución será de dieciséis meses, salvo en el supuesto de que se haya ampliado el plazo en base al apartado 1 de este artículo.
+4. Cuando proceda el reconocimiento de la condición de víctima de la persona que haya padecido las vulneraciones de derechos previstos en esta ley foral la resolución determinará, en su caso, los derechos derivados de dicho reconocimiento.
+Se modifica el apartado 3 por el art. único.3 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+ Se declara la no inconstitucionalidad del inciso destacado del apartado 1, párrafo pimero, interpretado en los términos del fundamento jurídico 5.b) (iv), por Sentencia del TC 108/2021, de 13 de mayo. Ref. BOE-A-2021-10021
+ En el mismo sentido se pronuncia, conforme al fundamento jurídico 3, la Sentencia del TC 135/2021, de 24 de junio. Ref. BOE-A-2021-13019
+
+### Artículo 12
+
+Artículo 12. Efectos de la declaración como víctima.
+1. Las personas que sean declaradas víctimas conforme a las disposiciones de esta ley foral tendrán reconocidas, además de la asistencia sanitaria, indemnizaciones económicas por daños físicos, psicológicos o materiales.
+Estas indemnizaciones económicas son compatibles con las cantidades que se hubieran percibido o se tuviera derecho a percibir por los mismos hechos de otros organismos, siempre que sean inferiores a las compensaciones económicas reconocidas al amparo de esta ley foral. En consecuencia, cuando las cantidades percibidas o reconocidas por otras entidades sean inferiores a las concedidas por la Administración de la Comunidad Foral, el destinatario solo percibirá de esta la diferencia entre ambas ayudas.
+El pago de las indemnizaciones económicas deberá realizarse en un plazo máximo de cuatro años a contar desde la fecha de la resolución estimatoria de la solicitud, no siendo de aplicación a las obligaciones reconocidas y liquidadas por dicho concepto el plazo general de prescripción del derecho a exigir su pago establecido en el artículo 25.1b) de la Ley 13/2007, de 4 de abril, de la Hacienda Pública de Navarra.
+2. Las cuantías de las indemnizaciones económicas por los daños físicos o psicológicos sufridos serán las siguientes:
+a) Por fallecimiento: 250.000 euros.
+b) Por gran invalidez: 500.000 euros.
+c) Por incapacidad permanente absoluta: 180.000 euros.
+d) Por incapacidad permanente total: 100.000 euros.
+e) Por incapacidad permanente parcial: 75.000 euros.
+f) Las cuantías de las indemnizaciones previstas en los apartados anteriores serán incrementadas en una cantidad fija de 20 mensualidades del indicador público de renta que corresponda, en razón de cada uno de los descendientes o menores acogidos que dependiesen económicamente de la víctima en el momento del fallecimiento o, en su caso, de la acción violenta que causó la lesión, respectivamente.
+g) Por lesiones permanentes no invalidantes: el importe se determinará de acuerdo con el sistema de valoración de los daños y perjuicios causados a las personas en accidentes de circulación, vigente en el momento de presentación de la solicitud, y con arreglo al baremo resultante de la aplicación de la legislación de seguridad social sobre cuantías de las indemnizaciones de las lesiones, mutilaciones y deformaciones definitivas y no invalidantes, causadas por accidente de trabajo o enfermedades profesionales. El importe total no podrá exceder, en ningún caso, del importe señalado para la incapacidad permanente parcial.
+h) Por incapacidad temporal: el duplo del indicador público de renta diario que corresponda al periodo en que se encuentre en situación de incapacidad temporal, hasta el límite de 18 mensualidades (IPREM/día x 2, hasta el límite de 18 mensualidades). A estos efectos, se entenderá que la víctima se encuentra en situación de incapacidad temporal mientras reciba asistencia sanitaria y esté impedida para el ejercicio de sus actividades profesionales o habituales.
+i) Por situación de dependencia, reconocida a las víctimas en cualquiera de sus grados y niveles por el departamento competente en la materia, se incrementarán las cantidades concedidas por la Administración de la Comunidad Foral en los porcentajes siguientes:
+– Un 30 por 100 de incremento para las personas valoradas en grado III. Gran dependencia, niveles 1 y 2.
+– Un 20 por 100 de incremento para las personas valoradas en grado ll. Dependencia severa, niveles 1 y 2.
+– Un 10 por 100 de incremento para las personas valoradas en grado l. Dependencia moderada, niveles 1 y 2.
+Estas cuantías serán compatibles con cualesquiera otras a que tuvieran derecho las víctimas, siempre que no lo fueran por el mismo concepto.
+3. La Administración de la Comunidad Foral de Navarra, a través del Servicio Navarro de Salud/Osasunbidea, prestará la asistencia sanitaria o psicológica que resulte necesaria a las personas que sean declaradas víctimas conforme a las disposiciones de esta ley foral, a fin de recuperar, en la medida de lo posible, las condiciones anteriores al hecho causante. Cuando esto no sea posible y deba prestarse en otros centros, se abonarán los gastos devengados por los servicios y tratamientos individuales requeridos por dicha Administración.
+La asistencia sanitaria comprenderá el tratamiento médico, la implantación de prótesis o mejoras periódicas de las mismas, así como los gastos derivados de la necesidad de rehabilitación, diagnosticados por el Servicio Navarro de Salud/Osasunbidea.
+La asistencia psicológica se podrá recibir, previa prescripción facultativa, desde la aparición de los trastornos psicológicos causados o evidenciados por la acción violenta desencadenante de los mismos.
+4. Los resarcimientos por daños materiales comprenderán los causados en las viviendas, objetos personales, en los establecimientos mercantiles o industriales y los producidos en vehículos. La reparación de los daños comprenderá las actuaciones necesarias para recuperar sus anteriores condiciones de habitabilidad o de funcionamiento.
+Los resarcimientos por daños materiales tendrán carácter subsidiario respecto de los reconocidos por las Administraciones Públicas o derivados de contratos de seguro, reduciéndose en la cantidad recibida por estos conceptos.
+5. Serán titulares del derecho de resarcimiento por fallecimiento, con referencia a la fecha en que este se hubiera producido:
+a) La o el cónyuge de la persona fallecida, si no estuvieran legalmente separados, o la persona que hubiere venido conviviendo con ella de forma permanente con análoga relación de afectividad al menos los dos años inmediatamente anteriores al momento del fallecimiento, salvo que hubieran tenido descendencia en común, en cuyo caso bastará la mera convivencia; y los hijos e hijas de la persona fallecida.
+b) En el caso de inexistencia de los anteriores, serán destinatarios, por orden sucesivo y excluyente, los padres, los hermanos y hermanas, los nietos y nietas, y los abuelos y abuelas de la persona fallecida.
+c) En defecto de los anteriores, los hijos e hijas de la persona conviviente y menores en acogimiento familiar permanente o preadoptivo de la persona fallecida, cuando dependieren económicamente de ella.
+6. De concurrir simultáneamente varias personas beneficiarias en alguno de los supuestos previstos en el apartado anterior, la distribución de la cuantía correspondiente al resarcimiento se efectuará de la siguiente manera:
+a) En el supuesto contemplado en el apartado 5. a), la cantidad se repartirá por mitades, correspondiendo una a la o el cónyuge no separado legalmente o conviviente y otra a los hijos e hijas, distribuyéndose esta última por partes iguales.
+b) En el supuesto contemplado en el apartado 5. b), la cuantía se repartirá por partes iguales entre las personas con el mismo parentesco.
+c) En el supuesto contemplado en el apartado 5. c), la cuantía se repartirá por partes iguales entre las personas beneficiarias concurrentes.
+7. A los efectos de este artículo, se entenderá que una persona depende económicamente de la persona fallecida cuando, en el momento del fallecimiento, viviera total o parcialmente a expensas de esta y no percibiera en cómputo anual rentas o ingresos de cualquier naturaleza superiores al 150 por ciento del indicador público de renta que correspondiera en aquel momento, también en cómputo anual.
+Se modifica el apartado 1 por la disposición final 2 de la Ley Foral 19/2024, de 26 de diciembre. Ref. BOE-A-2025-718
+ Se modifica por el art. único.4 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+
+## CAPÍTULO IV
+
+Comisión de reconocimiento y reparación
+
+### Artículo 13
+
+Artículo 13. Creación.
+1. Se crea la Comisión de Reconocimiento y Reparación, como órgano colegiado independiente destinado a valorar las solicitudes presentadas y proponer, al amparo de esta ley foral, la admisión o inadmisión de las solicitudes y, cuando proceda, la propuesta de declaración de la condición de víctima y, en su caso, las medidas de reparación.
+2. La Comisión de Reconocimiento y Reparación se adscribirá orgánicamente al departamento del Gobierno de Navarra competente en materia de paz, convivencia y derechos humanos, y en el ejercicio de las funciones que la presente ley foral le atribuye, actuará con autonomía y plena independencia, debiendo cumplir las funciones asignadas con objetividad, profesionalidad, integridad, imparcialidad, confidencialidad y sometimiento al ordenamiento jurídico.
+
+### Artículo 14
+
+Artículo 14. Composición.
+1. La Comisión estará integrada por nueve miembros con arreglo a la siguiente distribución:
+a) Las personas que ostenten la dirección general competente en materia de Paz, Convivencia y Derechos Humanos y la dirección del Instituto Navarro de la Memoria u organismos análogos serán miembros natos.
+b) Dos peritos forenses y un psicólogo o psicóloga designados por el Instituto Navarro de Medicina Legal, todos ellos con experiencia en materia de víctimas.
+c) El resto de miembros serán elegidos por el Parlamento entre los ciudadanos y ciudadanas mayores de edad que disfruten del pleno uso de sus derechos civiles y políticos y que cumplan las condiciones de idoneidad, probidad, cualificación y experiencia necesarias para ejercer el cargo.
+2. Las personas designadas serán elegidas por el Pleno del Parlamento de Navarra por mayoría absoluta por un período de seis años.
+3. Las personas candidatas a ocupar el cargo serán propuestas al Parlamento de Navarra por los grupos parlamentarios y/o por las organizaciones sociales que desarrollen actividad en materia de Derechos Humanos y Memoria en la Comunidad Foral de Navarra.
+
+### Artículo 15
+
+Artículo 15. Nombramiento y toma de posesión.
+1. Mediante orden foral dictada por la persona titular del departamento competente en materia de derechos humanos, se procederá al nombramiento de los miembros de la Comisión de Reconocimiento y Reparación designados en la forma prevista en el artículo anterior.
+2. Las personas nombradas tomarán posesión de su cargo dentro de los treinta días naturales posteriores a la fecha de la publicación de su nombramiento.
+
+### Artículo 16
+
+Artículo 16. Organización y funcionamiento.
+1. Para la válida constitución de la Comisión de Reconocimiento y Reparación, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, será necesaria la asistencia de, al menos, cinco de sus miembros. Los acuerdos se adoptarán por mayoría de votos de los miembros asistentes. En caso de empate decidirá la Presidencia con su voto de calidad.
+2. La Presidencia de la Comisión y la Secretaría serán elegidas de entre sus miembros, por mayoría de los mismos en la sesión constitutiva de la Comisión.
+3. Las y los miembros de la Comisión podrán solicitar que conste en acta su voto contra el acuerdo adoptado o el sentido de su voto favorable. Asimismo, cuando algún miembro discrepe del acuerdo mayoritario podrá formular voto particular por escrito, en el plazo de dos días desde la adopción del acuerdo, que se incorporará al texto aprobado.
+4. Corresponde a la Comisión aprobar las normas internas de funcionamiento.
+5. Las personas que integran la Comisión de Reconocimiento y Reparación, que no sean miembros de la Administración Pública, tendrán derecho a percibir, en compensación por el ejercicio de sus funciones, las indemnizaciones por dietas y gastos de locomoción o desplazamiento que se establezcan por Acuerdo del Gobierno de Navarra. No se devengará más de una dieta por día.
+Además, las personas designadas por el Instituto Navarro de Medicina Legal percibirán la indemnización que a tales efectos se determine por Acuerdo de Gobierno, por su participación en la elaboración del informe técnico establecido en el apartado 6, del artículo 10 de la presente ley foral.
+6. Las y los miembros de la Comisión de Reconocimiento y Reparación podrán, de acuerdo con la normativa aplicable al respecto, utilizar en las reuniones cualesquiera de las dos lenguas oficiales de la Comunidad Foral de Navarra. Así mismo, en las convocatorias de las reuniones, en el orden del día, en las actas y en los diferentes escritos que elabore esta Comisión de Reconocimiento y Valoración se garantizará el uso de las dos lenguas oficiales de la Comunidad Foral de Navarra.
+Se añade el segundo párrafo al apartado 5 por la disposición final 5 de la Ley Foral 2/2024, de 13 de marzo. Ref. BOE-A-2024-5989
+ Se modifica el apartado 5 por el art. único.5 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+
+### Artículo 17
+
+Artículo 17. Medios.
+1. La Comisión de Reconocimiento y Reparación debe disponer de los recursos económicos, materiales y personales necesarios y adecuados para el cumplimiento eficaz de las funciones asignadas, que serán garantizadas por el Gobierno de Navarra.
+2. La Comisión podrá requerir los servicios de especialistas y peritos o expertos en las materias de su ámbito de competencia. Estos servicios especializados estarán sujetos al mismo régimen de integridad, neutralidad, responsabilidad, imparcialidad y confidencialidad que el resto del personal miembro de la Comisión.
+
+### Artículo 18
+
+Artículo 18. Memoria de actividad.
+Anualmente la Comisión elaborará y publicará una memoria, en la que dará cuenta de las solicitudes recibidas, los resultados de los trabajos realizados, la situación de los expedientes y las propuestas de resolución emitidas. Dicha memoria será presentada ante el Parlamento de Navarra en la Comisión competente en materia de paz convivencia y derechos humanos.
+
+## CAPÍTULO V
+
+Obligaciones de las personas beneficiarias
+
+### Artículo 19
+
+Artículo 19. Obligaciones de las personas víctimas de vulneración de derechos humanos.
+Las personas víctimas de vulneración de derechos humanos están obligadas a:
+a) Admitir, en todo momento, la verificación, por el organismo competente en materia de derechos humanos, de los datos y documentos aportados, así como facilitar cuanta información les fuese requerida, a los efectos de controlar y completar el expediente.
+b) Cumplir con los requisitos establecidos en la normativa general para obtener la condición de persona beneficiaria y con las obligaciones que para las mismas establece la citada normativa, en aquellos casos en los que la declaración de víctima lleve aparejado el reconocimiento a una compensación económica de las incluidas en la presente ley foral.
+c) Someterse a las actuaciones de comprobación a efectuar por la entidad concedente, así como al control que corresponde a la Hacienda Foral, en relación con las ayudas percibidas con cargo a los presupuestos generales de la Comunidad Foral de Navarra.
+
+### Artículo 20
+
+Artículo 20. Incumplimiento de las condiciones y requisitos.
+El incumplimiento por parte de la persona víctima de vulneración de derechos humanos en los términos establecidos en la presente ley foral o la falsedad de los datos presentados determinará la pérdida del reconocimiento de víctima y, en su caso, la pérdida de la compensación económica o de las prestaciones reconocidas, previa tramitación del oportuno expediente incoado al efecto con audiencia de las personas interesadas. Ello conllevará la obligación de reintegrar a la Hacienda Foral las cantidades percibidas, más los correspondientes intereses legales que correspondan, sin perjuicio de las demás acciones que procedan.
+
+## CAPÍTULO VI
+
+Fomento de la cultura de la paz y la convivencia
+
+### Artículo 21
+
+Artículo 21. Informes y conclusiones.
+La Comisión remitirá al Instituto de la Memoria u organismo análogo competente en materia de paz, memoria y convivencia las memorias anuales relativas a sus actuaciones. Con base en estas memorias y los trabajos complementarios que haya podido desarrollar sobre la materia que concierne en esta ley foral, el citado organismo elaborará en el plazo máximo de cuatro años desde la constitución de la Comisión dos informes globales. El primero se referirá al periodo comprendido desde el 2 de enero de 1950 hasta el 28 de diciembre de 1978, y el segundo desde esta última fecha hasta nuestros días. Estos informes se presentarán ante el Parlamento de Navarra.
+
+### Artículo 22
+
+Artículo 22. Educación para la paz y la convivencia.
+En el marco del programa anual de Educación para la Paz y los Derechos Humanos y en el marco de los programas desarrollados por el departamento competente en materia de educación, se incluirán los objetivos y principios contenidos en la presente ley foral.
+
+### Artículo 23
+
+Artículo 23. Sensibilización.
+El Gobierno de Navarra pondrá en marcha ciclos, cursos, seminarios o congresos para la información a la sociedad en general y de reflexión en torno a la gravedad e importancia de las vulneraciones de derechos humanos producidas en el contexto de la violencia de motivación política.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Medios personales y materiales.
+1. El Gobierno de Navarra financiará el funcionamiento de la Comisión de Reconocimiento y Reparación de víctimas a través de una partida específica anual en los Presupuestos Generales de Navarra.
+2. El Gobierno de Navarra garantizará que la Comisión de Reconocimiento y Reparación cuente con los medios personales y materiales necesarios para su funcionamiento.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Habilitación de créditos.
+El Gobierno de Navarra determinará, en el ámbito de sus competencias, la habilitación de los créditos necesarios para poder hacer frente a las ayudas establecidas en la presente ley foral.
+Se modifica por el art. único.6 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Desarrollo reglamentario.
+El Gobierno de Navarra dictará las disposiciones reglamentarias necesarias para el desarrollo y aplicación de las previsiones contenidas en la presente norma.
+Se modifica por el art. único.7 de la Ley Foral 22/2022, de 1 de julio. Ref. BOE-A-2022-12942
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley foral y, específicamente, la Ley Foral 16/2015, de 10 de abril, de Reconocimiento y Reparación de las Víctimas por Actos de Motivación Política Provocados por Grupos de Extrema Derecha o por Funcionarios Públicos.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+Esta ley foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 26 de marzo de 2019.–La Presidenta de la Comunidad Foral de Navarra, Uxue Barkos Berruezo.

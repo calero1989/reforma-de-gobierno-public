@@ -1,0 +1,660 @@
+# Ley 1/2001, de 29 de marzo, por la que se establece la duración máxima y el régimen de silencio administrativo de determinados procedimientos.
+
+- Identificador BOE: `BOE-A-2001-11964`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-11964
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+1
+Antecedentes y justificación
+El 14 de enero de 1999 se publicó en el «Boletín Oficial del Estado» la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Entre las novedades más relevantes que introdujo dicha reforma, destaca la exigencia de rango de Ley para las normas de derecho interno que prevean plazos de resolución de procedimientos que excedan de seis meses (artículo 42.2) y para las que atribuyan efectos desestimatorios a la falta de resolución expresa de los procedimientos iniciados a solicitud de interesado e incluidos en la regla general de silencio positivo (artículo 43.2).
+A raíz de estas previsiones, la Asamblea aprobó la Ley 8/1999, de 9 de abril, de Adecuación de la Normativa de la Comunidad de Madrid a la Ley estatal 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común («Boletín Oficial de la Comunidad de Madrid» de 13 de abril de 1999). Dicha Ley estableció la duración máxima y el régimen del silencio aplicable a determinados procedimientos.
+Concretamente, se incluyeron en su anexo los procedimientos para cuya regulación era exigible el rango de Ley por razón del plazo o de los efectos del silencio.
+Posteriormente, el legislador estatal ha vuelto a ocuparse del régimen de la resolución de los procedimientos con ocasión de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social («Boletín Oficial del Estado» de 30 de diciembre de 2000), aunque esta vez la regulación se circunscribe a los procedimientos cuya regulación es de competencia estatal.
+En su disposición adicional vigésima novena, la Ley 14/2000 establece plazos de resolución y notificación superiores a seis meses para determinadas materias (apartado 1 y anexo 1) y, en relación con otra serie de procedimientos, prevé el régimen de silencio negativo (apartado 2 y anexo 2).
+La presente Ley se centra de nuevo en los dos aspectos mencionados:
+Plazo máximo para dictar y notificar la resolución de procedimientos y efectos de la falta de resolución expresa en plazo, con el fin de dar cobertura legal a aquellos supuestos que la precisan de conformidad con los artículos 42.2 y 43.2 de la Ley 30/1992, de 26 de noviembre, modificada por la Ley 4/1999, de 13 de enero.
+2
+Duración máxima de los procedimientos y régimen del silencio administrativo
+En su artículo 1.1, la presente Ley establece el plazo máximo en que se debe dictar y notificar la resolución de los procedimientos que se relacionan en el anexo. Por su rango, esta norma es apta para fijar plazos que excedan de los seis meses, cosa que hace aquellos supuestos, poco numerosos, en que esta duración se encuentra justificada por la especial complejidad del procedimiento.
+En su artículo 1.2, esta Ley prevé los efectos del vencimiento del plazo máximo sin que se haya dictado y notificado la resolución expresa del procedimiento. Dicho en otros términos, establece el régimen del silencio administrativo de los procedimientos incluidos en el anexo.
+Los casos de silencio negativo ahora establecidos se añaden a los previstos en la Ley 8/1999, de 9 de abril, en cuyo preámbulo se anunciaba ya «un análisis más detenido de la situación» dirigido a «valorar la conveniencia de establecer nuevos supuestos de silencio negativo mediante una nueva Ley». Entonces y ahora, se ha considerado que, en determinados procedimientos, el servicio al interés general resulta incompatible con la estimación de las solicitudes de los interesados por el mero transcurso del plazo de resolución sin que ésta se dicte y notifique.
+En efecto, si bien es fundamental que la Administración de la Comunidad de Madrid dicte y notifique dentro de plazo la resolución de los procedimientos de su competencia, en determinados supuestos el perjuicio al interés general que se derivaría de la vulneración de este deber no se vería atenuado sino, por el contrario, acrecentado, si a ello se uniera la atribución de efectos estimatorios al silencio administrativo.
+Los casos en que esta Ley atribuye efectos desestimatorios al silencio administrativo son de dos clases: Supuestos en que se establece «ex novo» el silencio negativo y supuestos en que se mantiene el sentido que tenían asignado hasta la fecha en virtud de una norma reglamentaria cuya validez –en lo que se refiere estrictamente al sentido del silencio– expirará en breve plazo.
+A este respecto, cabe recordar que la Ley 8/1999, de 9 de abril, estableció un período transitorio, que vence el 14 de abril de 2001, durante el cual conserva su validez el sentido del silencio administrativo previsto en las normas reglamentarias autonómicas que regulan los distintos procedimientos (artículo 2). Transcurrido dicho período, los efectos desestimatorios (silencio negativo) previstos en normas meramente reglamentarias que carezcan de la cobertura legal exigida por la Ley 30/1992, de 26 de noviembre, se convertirán en efectos estimatorios (silencio positivo). La proximidad de la fecha señalada es precisamente la razón fundamental por la que se ha considerado oportuno aprobar esta Ley en este momento.
+En materia de silencio administrativo, conviene matizar que, como ya ocurría en la Ley 8/1999, de 9 de abril, en determinadas ocasiones es la propia naturaleza del procedimiento la que desencadena los efectos desestimatorios, aplicando las reglas establecidas por el legislador básico. En estos casos el anexo se limita a reflejar el régimen derivado de la Ley 30/1992, de 26 de noviembre, que establece el silencio negativo respecto de los procedimientos iniciados de oficio con efectos favorables (artículo 44.1) y de los iniciados a solicitud de interesado pero incluidos en alguna de las categorías exceptuadas de la regla de silencio positivo por su artículo 43.2.
+3
+Anexo único y habilitación para la modificación reglamentaria
+Se ha optado por integrar todos los procedimientos regulados en esta Ley en un anexo único, porque las dos determinaciones –plazo y silencio– están estrechamente relacionadas y de esta forma el interesado recibe una información más clara y completa que si tuviese que consultar dos anexos de la misma Ley. Además, se indican siempre los dos extremos respecto de cada procedimiento, aun en el caso de que sólo uno de ellos sea la causa de su inclusión en el anexo.
+Las decisiones anteriores conducen a dotar de rango de Ley a ciertas previsiones que no lo requieren (plazos que no excedan de seis meses y efectos estimatorios del silencio), lo que obligaría en principio a recurrir al mismo tipo de norma para modificarlas en el futuro, por efecto de lo que se ha dado en llamar congelación de rango. Para evitar los inconvenientes derivados de esta rigidez, la propia Ley habilita al Gobierno para que pueda modificar las determinaciones del anexo, siempre –claro está– que por su contenido la norma correspondiente no requiera rango de Ley de acuerdo con la Ley 30/1992, de 26 de noviembre. En virtud de esta previsión, el Gobierno podrá en el futuro variar los plazos de los procedimientos, siempre con el límite máximo de los seis meses. Y podrá asimismo cambiar el sentido del silencio de negativo a positivo, pero no al revés.
+Por las mismas razones, y en las mismas condiciones, se habilita al Gobierno para que pueda modificar las determinaciones del anexo de la Ley 8/1999, de 9 de abril.
+4
+Suscripción de convenios
+La modificación del artículo 4 de la Ley 8/1999, de 9 de abril, referido a la suscripción de convenios, tiene como finalidad ajustar las reglas establecidas por dicho precepto, sin introducir no obstante cambios sustanciales en la norma.
+Entre los aspectos más destacados de la nueva regulación, cabe señalar la supresión del trámite de autorización previa del Gobierno respecto de aquellos convenios que en principio le correspondería suscribir al Consejero, pero que firma el Presidente en atención a su relevancia institucional; y, en lo relativo a los convenios y acuerdos de cooperación con otras Comunidades Autónomas, la sustitución de dicho trámite por el de aprobación previa del proyecto de convenio o acuerdo, que se considera más congruente con la competencia del Gobierno para la elaboración de tales proyectos [artículo 21.j) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid].
+En relación con el mismo artículo procede realizar dos aclaraciones.
+En primer lugar, la referencia a los organismos autónomos y entes de derecho público debe entenderse que abarca a todas las entidades que integran la Administración Institucional de la Comunidad de Madrid, con la única excepción de las sociedades mercantiles. En segundo término, la supresión de las diversas alusiones de la redacción anterior del artículo 4 a la delegación de firma no persigue en modo alguno impedir el recurso a esta técnica, sino que, por el contrario, trata de salir al paso de posibles interpretaciones que intenten limitar su aplicación a los supuestos en que estaba expresamente mencionada en dicho artículo. Con la nueva redacción, se obvia toda mención expresa, precisamente porque se considera que la delegación será posible siempre que lo permitan las reglas generales, asegurando así la celeridad y eficacia en la actuación administrativa.
+5
+Cómputo de plazos en la Consejería de Presidencia y Hacienda
+El artículo 42.3.b) de la Ley 30/1992 dispone que los plazos de resolución de procedimientos se contarán «en los iniciados a solicitud de interesado, desde la fecha en que la solicitud haya tenido entrada en el Registro del órgano competente para su tramitación».
+De conformidad con esta norma, la Ley 8/1999 estableció que, a estos efectos, «se entiende por órgano competente para la tramitación de una solicitud, cualquiera de los Registros de la Consejería competente en cada caso para iniciar la tramitación de la misma» (disposición adicional, apartado 1, párrafo primero); y añadió acto seguido que «a tal efecto, el Registro General de la Comunidad de Madrid será considerado como Registro de la Consejería de Presidencia» (disposición adicional, apartado 1, párrafo segundo).
+Se deroga ahora esta última previsión, con el fin de que los plazos de resolución de los procedimientos que aplica la Consejería de Presidencia y Hacienda, que cuenta ya con su propio Registro General, distinto del Registro General de la Comunidad de Madrid, no empiecen a contar hasta que la solicitud tenga entrada en uno de sus Registros, al igual que sucede en el caso de las demás Consejerías.
+6
+Títulos competenciales
+La presente Ley se basa en la competencia de la Comunidad de Madrid en materia de procedimiento administrativo (artículo 26.1.3 del Estatuto de Autonomía) y régimen jurídico de su Administración Pública (artículo 27.2 del Estatuto de Autonomía), así como en los títulos competenciales referidos a las materias sustantivas cuyo procedimiento se ve afectado.
+
+### Artículo 1
+
+Artículo 1. Duración de procedimientos y efectos del silencio.
+1. El plazo máximo para dictar y notificar la resolución expresa de los procedimientos recogidos en el anexo será el establecido en el mismo.
+2. El vencimiento de dicho plazo máximo sin que se haya dictado y notificado la resolución expresa del procedimiento producirá los efectos señalados en el anexo.
+
+### Artículo 2
+
+Artículo 2. Habilitación para la modificación reglamentaria.
+1. El Consejo de Gobierno, mediante Decreto, podrá reducir los plazos de duración máxima de los procedimientos previstos en el Anexo, siempre que no excedan de seis meses, así como modificar el efecto desestimatorio en estimatorio por la falta de resolución expresa en el plazo establecido.
+El aumento de la duración máxima de los procedimientos, así como la modificación del efecto estimatorio en desestimatorio por la falta de resolución expresa en el plazo establecido, deberá aprobarse mediante norma con rango de ley.
+2. En los mismos términos y condiciones, mediante Decreto del Gobierno se podrán modificar las determinaciones del anexo de la Ley 8/1999, de 9 de abril, de Adecuación de la Normativa de la Comunidad de Madrid a la Ley estatal 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se modifica el apartado 1 por el art. 8.1 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen transitorio de los procedimientos.
+A los procedimientos iniciados antes de la entrada en vigor de la presente Ley no les será de aplicación la misma, rigiéndose por la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+1. Quedan derogadas cuantas normas de igual o inferior rango contradigan o se opongan a la presente Ley.
+2. En particular, y en lo referido exclusivamente a las normas que contienen sobre el plazo de resolución de procedimientos y los efectos del silencio administrativo, se derogan las siguientes disposiciones:
+El artículo 13.2 de la Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid.
+Los apartados 3.8, 3.12 y 5.3 del anexo de la Ley 8/1999, de 9 de abril, de adecuación de la normativa de la Comunidad de Madrid a la Ley estatal 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Los artículos 7.2, 17.1 y 20.3 de la Ley 9/1999, de 9 de abril, de Museos de la Comunidad de Madrid.
+3. Queda derogado el párrafo segundo del apartado 1 de la disposición adicional de la Ley 8/1999, de 9 de abril, de adecuación de la normativa de la Comunidad de Madrid a la Ley estatal 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del artículo 4 de la Ley 8/1999, de 9 de abril.
+Se modifica el artículo 4 de la Ley 8/1999, de 9 de abril, de adecuación de la normativa de la Comunidad de Madrid a la Ley estatal 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, que queda redactado como sigue:
+«Artículo 4. Suscripción de convenios.
+1. Corresponde al Presidente de la Comunidad de Madrid la firma de los convenios y acuerdos de cooperación que se celebren con otras Comunidades Autónomas, previa aprobación del proyecto por parte del Gobierno.
+Corresponde asimismo al Presidente la firma de los convenios con los órganos constitucionales, así como la de los que se celebren con la Administración General del Estado y suscriban los titulares de los Departamentos ministeriales.
+Las reglas anteriores se aplicarán aun en el caso de que la ejecución del convenio, por parte de la Comunidad de Madrid, corresponda a un organismo autónomo o a un ente de derecho público.
+2. La firma de los convenios de Conferencia Sectorial corresponde al Consejero competente por razón de la materia.
+3. En los demás supuestos, se observarán las siguientes reglas:
+a) Firmará los convenios el Consejero correspondiente y, si afectasen a varias Consejerías, podrá firmarlos el Consejero competente en materia de relaciones institucionales.
+b) La firma de los convenios que celebren los organismos autónomos y los entes de derecho público corresponde al órgano que ostente su representación, salvo que su ley de creación disponga otra cosa.
+En ambos casos, no obstante, si por su relevancia institucional se considerase oportuno, se podrá elevar el convenio a la firma del Presidente.
+4. El régimen establecido en este artículo será también aplicable a la suscripción de los protocolos generales a los que se refiere el artículo 6.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. La facultad de firma de los convenios no altera las competencias relativas al procedimiento de gasto.»
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación al Gobierno.
+El Gobierno de la Comunidad de Madrid dictará las disposiciones de desarrollo y aplicación de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+Madrid, 29 de marzo de 2001.
+ALBERTO RUIZ GALLARDÓN,
+Presidente
+
+## ANEXO
+
+Plazo máximo de duración y efectos del silencio administrativo de los procedimientos que se relacionan
+Procedimiento
+ Plazo máximo
+ de resolución
+ Efecto
+ del silencio
+ 1.
+ Vicepresidencia, Consejería de Cultura y Deporte y Portavocía del Gobierno.
+ 1.1
+ Reconocimiento e Inscripción en el registro de Entidades Deportivas de las Federaciones Deportivas de la Comunidad de Madrid.
+ Tres meses.
+ Estimatorio.
+ 1.2
+ Inclusión en el inventario de bienes culturales a instancia de parte.
+ Tres meses.
+ Desestimatorio.
+ 1.3
+ Inclusión en el patrimonio documental madrileño de documentos, fondo de archivo o colecciones que, sin alcanzar la antigüedad señalada en los artículos 6 y 7 de la Ley 4/1993, de 21 de abril, merezcan dicha inclusión.
+ Tres meses.
+ Desestimatorio.
+ 1.4
+ Integración en la Red de archivos de uso público de centros de archivo de titularidad pública o privada.
+ Tres meses.
+ Estimatorio.
+ 1.5
+ Autorización de la salida temporal de los documentos que se encuentren en los centros de archivo autonómicos.
+ Tres meses.
+ Desestimatorio.
+ 1.6
+ Autorización excepcional para el acceso a documentos constitutivos del Patrimonio Documental excluidos de consulta pública.
+ Dos meses.
+ Desestimatorio.
+ 1.7
+ Autorización de la creación de museos y colecciones por Ayuntamientos, organismos públicos y personas físicas y jurídicas.
+ Dos meses.
+ Estimatorio.
+ 1.8
+ Autorización para el traslado o salida de fondos de museos y colecciones y para la disgregación de colecciones.
+ Dos meses.
+ Desestimatorio.
+ 1.9
+ Autorización de la reparación o restauración de los fondos de museos y colecciones.
+ Dos meses.
+ Estimatorio.
+ 1.10
+ Autorización de derechos económicos de ingresos y acceso a fondos de utilización de instalaciones para fines propios y de actividades museísticas, de los Museos y colecciones que integran el Sistema Regional de Museos.
+ Seis meses.
+ Desestimatorio.
+ 1.11
+ Autorización de copias y reproducciones, con fines de explotación comercial, de los fondos de museos y colecciones de titularidad de la Comunidad de Madrid.
+ Tres meses.
+ Desestimatorio.
+ 1.12
+ Autorización administrativa e inscripción en el registro de Bibliotecas Públicas y de interés público.
+ Seis meses.
+ Estimatorio.
+ 2.
+ Consejería de Presidencia, Justicia e Interior.
+ 2.1
+ Inscripción en el Registro de Colegios Profesionales de la Comunidad de Madrid.
+ Cuatro meses.
+ Estimatorio.
+ 2.2
+ Cambio de denominación de los Colegios Profesionales.
+ Cuatro meses.
+ Estimatorio.
+ 2.3
+ Inscripción de actos que establece la Ley relativos a fundaciones.
+ Cuatro meses.
+ Estimatorio.
+ 2.4
+ Depósito por los protectorados de la documentación contable de las fundaciones.
+ Seis meses.
+ Estimatorio.
+ 2.5
+ Solicitud de compatibilidad para el desempeño de segunda actividad en el sector público.
+ Tres meses.
+ Estimatorio.
+ 2.6
+ Solicitud de compatibilidad para el desempeño de segunda actividad en el sector privado.
+ Tres meses.
+ Estimatorio.
+ 2.7
+ Préstamos y anticipos.
+ Un mes.
+ Desestimatorio.
+ 2.8
+ Ayuda por cuidado de hijos.
+ Un mes.
+ Desestimatorio.
+ 2.9
+ Autorización de la alteración de términos municipales.
+ Un año.
+ Desestimatorio.
+ 2.10
+ Autorización de la alteración del nombre y capitalidad de los municipios.
+ Un año.
+ Desestimatorio.
+ 2.11
+ Declaración de urgente ocupación de bienes afectados por expropiación forzosa en expedientes instruidos por las Corporaciones Locales.
+ Seis meses.
+ Desestimatorio.
+ 2.12
+ Autorización y/o aprobación de ordenanzas especiales y normas reguladoras de las formas de aprovechamiento de los bienes comunales de las entidades locales.
+ Seis meses.
+ Desestimatorio.
+ 2.13
+ Autorización de espectáculos y actividades recreativas extraordinarias.
+ Cinco días.
+ Desestimatorio.
+ 2.14
+ Ampliación de horario de espectáculos y actividades recreativas.
+ Cuatro meses.
+ Desestimatorio.
+ 2.15
+ Autorización de espectáculos y actividades taurinas que se llevan a cabo con presencia de público.
+ Diez días.
+ Desestimatorio.
+ 2.16
+ Registro de uniones de hecho.
+ Quince días.
+ Desestimatorio.
+ 2.17
+ Autorizaciones para instalar máquinas recreativas con premio programado en bares y cafeterías.
+ Dos meses.
+ Estimatorio.
+ 2.18
+ Autorización de locales destinados a establecimientos de juegos colectivos de dinero y azar.
+ Tres meses.
+ Estimatorio.
+ 2.19
+ Autorización de locales destinados a salones de juego.
+ Tres meses.
+ Desestimatorio.
+ 2.20
+ Autorización para la organización y comercialización de apuestas.
+ Seis meses.
+ Desestimatorio.
+ 2.21
+ Autorización de locales específicos de apuestas y otros locales y zonas de apuestas.
+ Tres meses.
+ Desestimatorio.
+ 2.22
+ Homologación de máquinas recreativas de juego y azar.
+ Seis meses.
+ Desestimatorio.
+ 2.23
+ Homologación de sistemas técnicos para la práctica de juegos y apuestas de carácter presencial o a distancia.
+ Seis meses.
+ Desestimatorio.
+ 2.24
+ Homologación de sistemas técnicos de interconexión, de medios de pago y de control de acceso a establecimientos de juego.
+ Seis meses.
+ Desestimatorio.
+ 2.25
+ Obtención y renovación de la acreditación de la actividad de control de acceso a espectáculos y actividades recreativas.
+ Tres meses.
+ Desestimatorio.
+ 3.
+ Consejería de Economía y Hacienda.
+ 
+ Desestimatorio.
+ 3.1
+ (Sin contenido).
+ 3.2
+ (Sin contenido).
+ 3.3
+ (Sin contenido).
+ 3.4
+ (Sin contenido).
+ 3.5
+ (Sin contenido).
+ 3.6
+ Autorización para el uso de la denominación de algunos símbolos de la Comunidad de Madrid en marcas o signos distintivos de productos, mercancías y servicios.
+ Dos meses.
+ Estimatorio.
+ 3.7
+ Autorización para el funcionamiento como laboratorio de ensayo.
+ Seis meses.
+ Estimatorio.
+ 3.8
+ Inscripción en el Registro de licitadores de la Comunidad de Madrid.
+ Tres meses.
+ Estimatorio.
+ 3.9
+ Expedientes de resolución contractual que se rijan por la legislación sobre contratos públicos.
+ Ocho meses.
+ Caducidad (iniciados de oficio).
+ Desestimatorio (iniciados a instancia del contratista).
+ 3.10
+ Integración de funcionarios de carrera en Cuerpos y Escalas o Especialidades de la Comunidad de Madrid.
+ Tres meses.
+ Desestimatorio.
+ 3.11
+ Reconocimiento de grado.
+ Tres meses.
+ Desestimatorio.
+ 3.12
+ Reconocimiento de servicios previos.
+ Tres meses.
+ Desestimatorio.
+ 3.13
+ Sancionador en materia de consumo.
+ Nueve meses.
+ Caducidad.
+ 4.
+ Consejería de Transportes e Infraestructuras.
+ 4.1
+ Autorización de Transporte Regular de Uso Especial (expedientes de competencia propia de la Comunidad Autónoma).
+ Tres meses.
+ Desestimatorio.
+ 4.2
+ Autorización de transportes regulares temporales (expedientes de competencia propia de la Comunidad Autónoma).
+ Tres meses.
+ Desestimatorio.
+ 4.3
+ Accesos a carreteras.
+ Cinco meses.
+ Desestimatorio.
+ 4.4
+ Accesos e instalaciones complementarias al servicio de la carretera.
+ Cinco meses.
+ Desestimatorio.
+ 4.5
+ Autorización de establecimiento de áreas de Servicio.
+ Cinco meses.
+ Estimatorio.
+ 5.
+ Consejería de Educación.
+ 5.1
+ Inscripción en el Registro de Formación Permanente del Profesorado de la Comunidad de Madrid.
+ Un mes.
+ Desestimatorio
+ 6.
+ Consejería de Medioambiente, Vivienda y Ordenación del Territorio.
+ 6.1
+ Inscripción en el Registro de Industrias Agrarias de la Comunidad de Madrid de la instalación y modificaciones de las citadas industrias.
+ Dos meses.
+ Estimatorio.
+ 6.2
+ Inscripción en el registro de agentes económicos organizaciones, organismos independientes de control y de pliegos de condiciones aprobados sobre etiquetado de carne de vacuno en la Comunidad de Madrid.
+ Tres meses.
+ Estimatorio.
+ 6.3
+ Inscripción en el registro de clasificadores de canales de bovino pesado de la Comunidad de Madrid.
+ Cuatro meses.
+ Estimatorio.
+ 6.4
+ Inscripción en el Registro de Envasadores y Embotelladores de Vinos y Bebidas Alcohólicas de la Comunidad de Madrid.
+ Dos meses.
+ Estimatorio.
+ 6.5
+ Inscripción en el Registro de Productos Enológicos de la Comunidad de Madrid.
+ Dos meses.
+ Estimatorio.
+ 6.6
+ Inscripción en el Registro de Viñas, de Bodegas de Elaboración, de Bodegas de Crianza, de Bodegas de Almacenamiento y de Plantas Embotelladoras, del Consejo Regulador de la Denominación de Origen «Vinos de Madrid».
+ Dos meses.
+ Estimatorio.
+ 6.7
+ Inscripción en el Registro de Ganaderías de Vacas Nodrizas, de Cebaderos, de Mataderos y de Salas de Despiece y Expedición, del Consejo Regulador de la Indicación Geográfica Protegida «Carne de la Sierra de Guadarrama».
+ Dos meses.
+ Estimatorio.
+ 6.8
+ Inscripción en los Registros de Operadores del Comité de Agricultura Ecológica.
+ Un mes.
+ Estimatorio.
+ 6.9
+ Autorización de utilización de la Denominación de Calidad «Aceitunas de Campo Real».
+ Dos meses.
+ Estimatorio.
+ 6.10
+ Inscripción en el Registro de elaboradores y envasadores de la Denominación Geográfica «Chinchón».
+ Dos meses.
+ Estimatorio.
+ 6.11
+ Regularización de situaciones de ocupación irregular de viviendas de promoción pública del IVIMA.
+ Cuatro meses para la rescisión del contrato y cuatro meses para la regularización.
+ Caducidad para la 1ª etapa. Desestimatorio para la 2.ª
+ 6.12
+ Solicitud de cambio de titularidad por fallecimiento o por separación o divorcio en contratos de compraventa de viviendas o plazas de garaje de Promoción Pública del IVIMA.
+ Tres meses.
+ Desestimatorio.
+ 6.13
+ Calificación de actuación protegida de rehabilitación.
+ Tres meses (provisional)
+ Tres meses (definitivas).
+ Desestimatorio (provisional)
+ Desestimatorio (definitiva).
+ 6.14
+ Concesión de ayudas a la rehabilitación de edificios y viviendas.
+ Seis meses.
+ Desestimatorio.
+ 6.15
+ Adjudicación de viviendas de la Comunidad de Madrid mediante sorteo.
+ Seis meses.
+ Desestimatorio.
+ 6.16
+ Adjudicación de viviendas de la Comunidad de Madrid mediante baremo en situaciones de especial necesidad.
+ Seis meses.
+ Desestimatorio.
+ 6.17
+ Concesión de cambios o permutas de viviendas adjudicadas por la Comunidad de Madrid.
+ Cuatro meses.
+ Desestimatorio.
+ 6.18
+ Autorización de descalificación voluntaria de viviendas sometidas a algún régimen de protección pública.
+ Cinco meses.
+ Desestimatorio.
+ 6.19
+ Calificación de Viviendas de Protección Oficial de Promoción Privada y Pública (calificación provisional, modificación de proyectos y calificación definitiva).
+ Tres meses para la calificación provisional.
+ Tres meses para la calificación definitiva.
+ Estimatorio para la calificación provisional.
+ Desestimatorio para la calificación definitiva.
+ 6.20
+ Calificación de Viviendas con Protección Pública (Calificación Provisional, Modificación de Proyectos y Calificación Definitiva).
+ Tres meses.
+ Estimatorio (Calif. Provisional y Modificación Proyecto).
+ Desestimatorio (Calificación Definitiva).
+ 6.21
+ Concesión de ayudas para la adquisición de viviendas de protección oficial y viviendas ya construidas.
+ Seis meses.
+ Desestimatorio.
+ 6.22
+ Concesión de ayudas para la adquisición de viviendas con protección pública.
+ Seis meses.
+ Desestimatorio.
+ 6.23
+ Reducción del precio de la renta de las viviendas administradas por el Instituto de la Vivienda de Madrid.
+ Tres meses.
+ Desestimatorio.
+ 6.24
+ Registro especial de arrendamientos rústicos de la Comunidad de Madrid.
+ Tres meses.
+ Estimatorio.
+ 6.25
+ Inscripción en el Registro de Sociedades Agrarias de Transformación de la Comunidad de Madrid.
+ Dos meses.
+ Estimatorio.
+ 6.26
+ Autorización para la fabricación, distribución, dispensación, prescripción, aplicación y uso de medicamentos veterinarios y piensos medicamentosos en la Comunidad de Madrid.
+ Dos meses.
+ Desestimatorio.
+ 6.27
+ Autorización para realizar actividades de gestión de residuos peligrosos.
+ Tres meses.
+ Desestimatorio.
+ 6.28
+ Declaración de suelos contaminados.
+ Nueve meses.
+ Caducidad.
+ 6.29
+ Autorización de industrias o actividades generadoras o importadoras de productos de cuyo uso pudieran derivarse residuos peligrosos.
+ Seis meses.
+ Desestimatorio.
+ 6.30
+ Autorización de productores de residuos peligrosos.
+ Cuatro meses.
+ Desestimatorio.
+ 6.31
+ Autorización o aprobación de acuerdos voluntarios y convenios de colaboración celebrados por los responsables de la puesta en el mercado de productos que con el uso se transforman en residuos.
+ Seis meses.
+ Desestimatorio.
+ 6.32
+ Autorización para realizar actividades de valorización y/o de eliminación de residuos no peligrosos.
+ Tres meses.
+ Desestimatorio.
+ 6.33
+ Registro de agentes comerciales e intermediarios que pongan residuos en el mercado o realicen con los mismos operaciones jurídicas que impliquen cambio de titularidad posesoria.
+ Dos meses.
+ Estimatorio.
+ 6.34
+ Registro de actividades de gestión de residuos que no necesitan autorización.
+ Tres meses.
+ Estimatorio.
+ 6.35
+ Inscripción en el Registro de pequeños productores de residuos peligrosos.
+ Dos meses.
+ Desestimatorio.
+ 6.36
+ Certificación de la convalidación de la Inversión medioambiental.
+ Dos meses.
+ Estimatorio.
+ 6.37
+ Adhesión de centros al sistema comunitario de gestión y auditorías medioambientales.
+ Dos meses.
+ Estimatorio.
+ 6.38
+ Solicitudes de concesión de etiqueta ecológica.
+ Seis meses.
+ Estimatorio.
+ 6.39
+ Autorización para la quema de rastrojos, utilización de fuego y, en general, para cualquier actividad a realizar en montes de la Comunidad de Madrid que pueda implicar peligro de incendio.
+ Quince días.
+ Desestimatorio.
+ 6.40
+ Cambios de uso forestal.
+ Dos meses.
+ Desestimatorio.
+ 6.41
+ Autorizaciones para la realización de actividades relacionadas con las especies de flora y fauna catalogadas.
+ Tres meses.
+ Desestimatorio.
+ 6.42
+ Autorizaciones sobre actuaciones a realizar en el ámbito de los montes gestionados por la Comunidad de Madrid.
+ Tres meses.
+ Desestimatorio.
+ 6.43
+ Declaración de Zonas de Especial Interés Hidrológico-Forestal.
+ Tres meses.
+ Estimatorio.
+ 6.44
+ Declaración de prevalencia de nuevo uso.
+ Tres meses.
+ Desestimatorio.
+ 6.45
+ Declaración de Zonas de Actuación Urgente.
+ Tres meses.
+ Desestimatorio.
+ 6.46
+ Autorización para la realización de actividades en alguno de los Espacios Naturales Protegidos de la Comunidad de Madrid.
+ Seis meses.
+ Desestimatorio.
+ 7.
+ Consejería de Sanidad.
+ 7.1
+ Reconocimiento de títulos y certificados de formación expedidos en los Estados miembros de la Unión Europea en relación con las profesiones del sector sanitario enumeradas en el Anexo IV del Real Decreto 1396/1995, de 4 de agosto.
+ Cuatro meses.
+ Desestimatorio.
+ 7.2
+ Reconocimiento de interés sanitario y/o social para actos de carácter científico en la Comunidad de Madrid.
+ Un mes.
+ Estimatorio.
+ 7.3
+ Acreditación de actividades y centros de formación continuada de profesiones sanitarias.
+ Cuatro meses.
+ Desestimatorio.
+ 7.4
+ Autorización y registro de centros, servicios y establecimientos sanitarios de la Comunidad de Madrid.
+ Instalación: dos meses.
+ Funcionamiento: tres meses.
+ Modificación: tres meses.
+ Cierre: tres meses.
+ Desestimatorio.
+ 7.5
+ Sancionador en materia sanitaria.
+ Nueve meses.
+ Caducidad.
+ 7.6
+ Acreditación de Comités Éticos de Investigación Clínica.
+ Un mes.
+ Desestimatorio.
+ 7.7
+ Autorizaciones de establecimientos de óptica y secciones de óptica en oficinas de farmacia.
+ Dos meses.
+ Estimatorio.
+ 7.8
+ Autorización de homologación de Centros y Servicios Sanitarios relacionados con las técnicas de reproducción humana asistida en la Comunidad de Madrid.
+ Tres meses.
+ Desestimatorio.
+ 7.9
+ Procedimiento de autorización de instalación de parques acuáticos.
+ Dos meses.
+ Desestimatorio.
+ 7.10
+ Autorización de Veterinarios Colaboradores para el control sanitario de carnes procedentes de matanzas domiciliarias de cerdos, cacerías y monterías.
+ Tres meses.
+ Desestimatorio.
+ 7.11
+ Autorización e inspección de piscinas de uso colectivo.
+ Un mes.
+ Desestimatorio.
+ 7.12
+ Expedición de certificación técnico-sanitaria para vehículos-ambulancia.
+ Dos meses.
+ Desestimatorio.
+ 7.13
+ Autorización de cementerios, tanatorios y empresas funerarias.
+ Tres meses.
+ Estimatorio.
+ 8.
+ Consejería de Familia y Asuntos Sociales
+ 8.1
+ Autorización de Centros de Servicios Sociales.
+ Dos meses.
+ Estimatorio.
+ 8.2
+ Declaración y calificación del grado de discapacidad.
+ Tres meses.
+ Desestimatorio.
+ 8.3
+ Acreditación de Instituciones Colaboradoras de Adopción Internacional.
+ Dos meses.
+ Estimatorio.
+ 8.4
+ Procedimiento de reconocimiento de grado y nivel de dependencia.
+ Seis meses.
+ Desestimatorio.
+ 8.5
+ Procedimiento para la determinación del Programa Individual de Atención (PIA).
+ Seis meses.
+ Desestimatorio.
+ 8.6
+ Renta Mínima de Inserción.
+ Tres meses.
+ Desestimatorio.
+ 9
+ Consejería de Empleo y Mujer
+ 9.1
+ Inscripción de acuerdos sociales de Sociedades Cooperativas Madrileñas.
+ 9.1.1
+ Inscripción de acuerdos sociales de fusión, escisión, cesión de activo y pasivo, disolución y liquidación-extinción de cooperativas; legalización de libros sociales de cooperativas y depósito de cuentas.
+ Tres meses.
+ Desestimatorio.
+ 9.1.2
+ Expedición de certificados de inexistencia de obstáculos al acuerdo social de transformación de cooperativas en entidades de otra naturaleza.
+ Dos meses.
+ Estimatorio.
+ 9.1.3
+ Reserva de denominación de cooperativas.
+ Dos meses.
+ Estimatorio.
+ 9.1.4
+ Inscripción de acuerdos sociales de cambio de domicilio de cooperativas.
+ Dos meses.
+ Estimatorio.
+ 9.1.5
+ Inscripción de acuerdos sociales de modificación de estatutos de cooperativas y de otros acuerdos sociales de cooperativas distintos del anterior.
+ Dos meses.
+ Estimatorio.
+ 9.2
+ Inscripción de escritura de constitución de Sociedades Cooperativas Madrileñas.
+ Tres meses.
+ Estimatorio.
+ 9.3
+ Tramitación de la solicitud de inscripción en el Registro de Asociaciones de Mujeres de la Comunidad de Madrid.
+ Dos meses.
+ Estimatorio.
+Se modifica el punto 2.15 y se añade el 2.25 por la disposición final 1 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se modifica el punto 8.2 por el art. 3 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+ Se modifica por el art. 31 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se modifica por el art. 8.2 de la Ley 8/2009, de 21 de diciembre. Ref. BOE-A-2010-4181.
+ Se modifica por el art. 17 de la Ley 4/2006, de 22 de diciembre. Ref. BOE-A-2007-9769.
+ Se modifica por el art. 16 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732.
+ Se modifica por el art. 7 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Se modifica por el art. 14 y la disposición derogatoria 2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.

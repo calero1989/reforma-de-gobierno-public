@@ -1,0 +1,55 @@
+# Ley Foral 19/1998, de 1 de diciembre, de Retribuciones del Profesorado de la Universidad Pública de Navarra.
+
+- Identificador BOE: `BOE-A-1999-2046`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-2046
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Retribuciones del Profesorado de la Universidad Pública de Navarra.
+EXPOSICIÓN DE MOTIVOS
+El artículo 22 de la Ley Foral 1/1997, de 31 de enero, de Presupuestos Generales de Navarra para 1997, estableció una partida, a integrar en el capítulo de gastos de personal del presupuesto de la Universidad Pública de Navarra, «a fin de incrementar, de conformidad con la legislación vigente, las retribuciones del personal docente universitario. No obstante, la disposición de la citada cuantía quedará condicionada a la decisión que, con efectos de 1 de enero de 1993, y a propuesta de los órganos competentes, adopte el Parlamento de Navarra en materia de retribuciones del personal docente universitario de la Universidad Pública de Navarra».
+
+### Artículo 1
+
+Artículo 1.
+El Consejo Social de la Universidad Pública de Navarra podrá acordar, con carácter individual, a propuesta de la Junta de Gobierno, la asignación de conceptos retributivos, conforme a lo dispuesto en el artículo 46.2 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, para funcionarios docentes pertenecientes a los Cuerpos a los que se refiere el apartado 1 del artículo 33 de la precitada Ley Orgánica.
+El Consejo Social de la Universidad Pública de Navarra remitirá al Parlamento, para su conocimiento, los criterios tenidos en cuenta para la concesión individual de un complemento retributivo a los Profesores, previo a la ejecución de dicho complemento individual.
+
+### Artículo 2
+
+Artículo 2.
+En el presupuesto anual de la Universidad se especificarán:
+a) La cuantía total resultante de la aplicación de los conceptos retributivos a los que se refiere el artículo 1, dentro del capítulo de gastos de personal.
+b) Los criterios de distribución de dicha cuantía total que hayan sido adoptados por el Consejo Social a propuesta de la Junta de Gobierno, en relación con cada beneficiario individual, con arreglo a lo dispuesto en el artículo 46.2 de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria.
+c) La relación individualizada de las personas que vayan a percibir cada uno de estos conceptos retributivos individuales, especificando las cuantías que correspondan a cada perceptor.
+
+### Artículo 3
+
+Artículo 3.
+(Derogado)
+Se deroga por la disposicion adicional 3 de la Ley Foral 1/2016, de 29 de enero. Ref. BOE-A-2016-2285
+
+### Disposición adicional
+
+Disposición adicional.
+La decisión sobre la aplicación de las cantidades abonadas al personal de la Universidad Pública de Navarra en concepto de abonos por los denominados complementos de residencia, dedicación docente o equiparación docente, entre el 1 de enero de 1993 y el 1 de enero de 1998, será adoptada por el Consejo Social, de conformidad con lo dispuesto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, sin que pueda implicar en ningún caso incremento de la cuantía total efectivamente abonada en cada ejercicio presupuestario.
+
+### Disposición transitoria
+
+La cuantía total máxima autorizada para el ejercicio presupuestario de 1998 podrá aplicarse, de conformidad con lo dispuesto en el artículo 1, con efectos de 1 de enero de 1998.
+
+### Disposición final
+
+Disposición final.
+La presente Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de Su Majestad el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado», y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 1 de diciembre de 1998.
+MIGUEL SANZ SESMA,
+Presidente

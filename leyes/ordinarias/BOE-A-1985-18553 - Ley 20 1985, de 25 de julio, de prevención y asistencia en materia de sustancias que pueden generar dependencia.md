@@ -1,0 +1,601 @@
+# Ley 20/1985, de 25 de julio, de prevención y asistencia en materia de sustancias que pueden generar dependencia.
+
+- Identificador BOE: `BOE-A-1985-18553`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-18553
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado, y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY DE PREVENCIÓN Y ASISTENCIA EN MATERIA DE SUSTANCIAS QUE PUEDEN GENERAR DEPENDENCIAS
+PREÁMBULO
+La dependencia originada por el consumo de diversos tipos de sustancias psicoorgánicamente activas es hoy en Cataluña un fenómeno social de carácter epidémico, sobre el que los poderes públicos y toda la sociedad deben actuar con firmeza para aliviar sus efectos nocivos, tanto en lo que se refiere a la salud individual como al bienestar colectivo.
+El uso de drogas no institucionalizadas, especialmente la heroína, la cocaína y los derivados de la «cannabis» está, lamentablemente, extendido entre nosotros, y la conflictividad e inseguridad que genera son motivo de gran preocupación social. Este fenómeno, favorecido por el tráfico ilegal fomentado por los narcotraficantes, tiene un origen diverso, en el que intervienen sin duda la transformación de las condiciones de vida, la alienación y la falta de perspectivas sociales. Es especialmente doloroso contemplar hasta qué punto se ha extendido el consumo de drogas originadoras de toxicomanía tan peligrosas como la heroína y la cocaína. También determinados productos utilizados inicialmente como medicamentos crean a veces situaciones de dependencia análogas a las originadas por las drogas no institucionalizadas.
+Por otra parte, es bien sabido que el elevado consumo de bebidas alcohólicas es uno de los principales factores favorecedores de la aparición de problemas sociales y de problemas de salud. La importancia de estos problemas guarda correlación con el nivel de consumo por habitante, y es preocupante constatar que en Cataluña este nivel ha aumentado considerablemente en el curso de los últimos veinte años, especialmente en lo que se refiere a los productos destilados de alta graduación.
+También se ha incrementado el consumo de tabaco en Cataluña, especialmente entre los jóvenes y las mujeres. Las enfermedades relacionadas con este producto son causas importantes de incapacidad laboral y de muerte prematura, de modo que hoy la lucha contra el tabaquismo debe considerarse como un programa prioritario de prevención para mejorar la salud y la expectativa de vida.
+La presente Ley atiende de una manera global las vertientes preventivas y asistenciales, tanto en lo que se refiere a las diferentes sustancias como a las medidas a adoptar.
+La tarea preventiva es fundamental y básica en materia de dependencias; sin ella, la puesta en marcha de recursos asistenciales específicos sería hasta cierto punto poco satisfactoria. Por ello, la presente Ley prevé en primer lugar las acciones preventivas como peldaño esencial en la lucha contra las dependencias.
+En el ámbito de la prevención, la presente Ley pone especial esmero en disponer medidas dirigidas a los niños y a los jóvenes, puesto que es en la edad en que se forjan los valores cuando es necesario promover unos hábitos saludables de vida, y establece asimismo ciertas medidas limitativas en orden a la protección de los jóvenes, de los grupos sociales más vulnerables y de toda la población en general para reducir la promoción, la venta y el consumo de los productos que generan dependencia a los límites que la preservación de la salud y el bienestar colectivo exigen.
+Se potencia la adecuación de los recursos destinados a la atención de las personas con dependencias y se establecen las bases para la planificación, ordenación y coordinación de todos los servicios, todo ello dentro del actual sistema asistencial, Especialmente se impulsa la asistencia a nivel primario, y se fija una sistemática asistencial que enlaza ampliamente el proceso sanitario con el de servicios sociales.
+La presente Ley facilita el aprovechamiento, la consolidación y la coordinación de los recursos existentes.
+La presente Ley estructura también un conjunto de mecanismos que permitirán hacer frente a aquellos problemas con criterios científicos y a la vez respetuosos de las libertades personales, y tiene como grandes objetivos la preservación y mejora de la salud pública y la consecución del bienestar social.
+Como principio fundamental en la lucha contra las dependencias y sus efectos, es necesario que los poderes públicos y toda la población se esfuercen y colaboren con voluntad solidaria y diligencia en la consecución de un buen clima social y de un amplio conjunto de estructuras culturales, educativas, económicas, laborales y políticas, y que reconozcan en las medidas limitativas y asistenciales unos efectos paliativos.
+La presente Ley responde al mandato que el artículo 43.2 de la Constitución Española hace a los poderes públicos para que organicen y tutelen la salud pública mediante medidas preventivas y mediante las prestaciones y los servicios necesarios, y se promulga como desarrollo de las competencias que el Estatuto de Autonomía de Cataluña otorga a la Generalidad en materia de higiene, sanidad, asistencia social, régimen local, juventud, comercio interior, instituciones penitenciarias, publicidad, estadística e investigación.
+
+## TÍTULO I
+
+Del objeto de la Ley
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto establecer y regular, en el marco de las competencias que el Estatuto de Autonomía de Cataluña asigna a la Generalidad en el ámbito territorial de Cataluña, las medidas y las acciones que permitirán una actuación efectiva de las Administraciones públicas de Cataluña en el campo de la prevención y asistencia de las situaciones a que dan lugar las sustancias que pueden generar dependencia con el fin de coadyuvar al esfuerzo solidario de toda la sociedad para mejorar la atención social y sanitaria de las personas afectadas por la problemática generada por el uso o abuso de dichas sustancias.
+
+### Artículo 2
+
+Artículo 2.
+1. El ámbito de aplicación de la presente Ley se extiende a las acciones de promoción, acceso, información, educación sanitaria, atención, asistencia, rehabilitación y reinserción en materia de sustancias que pueden generar dependencia.
+2. El ejercicio de cualquiera de las acciones incluidas en el apartado 1, tanto individuales como colectivas, de titularidad pública o privada, está sujeto a las prescripciones de la presente Ley.
+
+### Artículo 3
+
+Artículo 3.
+1. Las sustancias que pueden generar dependencia contempladas en la presente Ley son las drogas no institucionalizadas, las bebidas alcohólicas, el tabaco, ciertos medicamentos y algunos productos de uso industrial o vario.
+2. A los efectos de la presente Ley se entiende por:
+a) Droga: Sustancia que, administrada al organismo, es capaz de originar una dependencia, provocar cambios en la conducta y producir efectos perniciosos para la salud.
+b) Drogas no institucionalizadas: La heroína, la cocaína, la «cannabis» y sus derivados, el ácido lisérgico y otras drogas de uso no integrado en la estructura social.
+c) Dependencia: Estado psicoorgánico que resulta de la absorción repetida de una sustancia caracterizado por el desencadenamiento en el organismo de una serie de fuerzas que impulsan al consumo continuado de dicha sustancia.
+d) Desintoxicación: Proceso terapéutico orientado a la interrupción de la intoxicación producida por una sustancia exógena al organismo.
+e) Deshabituación: Proceso terapéutico de eliminación de una dependencia.
+f) Rehabilitación: Proceso de recuperación de los aspectos de comportamiento individuales en la sociedad.
+g) Reinserción: Proceso de inserción de una persona en la sociedad como ciudadano responsable y autónomo.
+
+## TÍTULO II
+
+De las medidas preventivas generales
+
+### Artículo 4
+
+Artículo 4.
+1. El Consejo Ejecutivo debe desarrollar programas y acciones de información y educación sanitarias de la población sobre los efectos nocivos de las sustancias que pueden generar dependencia.
+2. Dichas actuaciones deben dirigirse especialmente a los niños y a los jóvenes y también a los colectivos sociales implicados.
+3. El Consejo Ejecutivo impulsará la actuación de la Administración pública y apoyará las iniciativas de la sociedad en dichas materias.
+Corresponderá a las Administraciones Públicas, en el marco de las competencias que les reconoce la presente Ley, la realización de las actuaciones de prevención tendentes a limitar la oferta y la promoción de sustancias que puedan generar dependencia y el desarrollo de programas de educación para la salud dirigidos a los distintos sectores de la población.
+Se añade el párrafo final por el art. 1 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 5
+
+Artículo 5.
+Los poderes públicos facilitarán el acceso de la población a la información sobre las drogodependencias y los recursos de intervención existentes.
+En este sentido y en el marco de la planificación general sanitaria y de servicios sociales, el Consejo Ejecutivo determinará las áreas territoriales en las que deben existir los servicios informativos que faciliten asesoramiento y orientación individuales, familiares y comunitarios sobre la prevención y el tratamiento de las dependencias, sin perjuicio de las funciones de información y asesoramiento que deban cumplir los servicios en los que sean atendidas personas afectadas por dependencias.
+Se modifica por el art. 2 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 6
+
+Artículo 6.
+Los entes locales, en el ámbito de su competencia, desarrollarán acciones de información y educación sanitaria de la población en las materias reguladas por la presente Ley, cuyas secciones estarán coordinadas necesariamente con las actuaciones del Consejo Ejecutivo en este campo.
+
+### Artículo 7
+
+Artículo 7.
+Deberá impulsarse una acción social preventiva con relación a las dependencias y deberá promoverse, prioritariamente, la cobertura de los servicios sociales de atención primaria en las zonas donde se detecte un elevado grado de incidencia y en que se dé un mayor riesgo de dependencia.
+El Consejo Ejecutivo desarrollará programas de educación para la salud en los ámbitos sanitario, social, de la enseñanza y laboral.
+Se añade el párrafo 2 por el art. 3 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+## TÍTULO III
+
+De las medidas de prevención y asistencia de la dependencia de drogas no institucionalizadas
+
+### Artículo 8
+
+Artículo 8.
+Las acciones que se realicen en Cataluña en el ámbito de la información y educación sanitarias, de la asistencia de las dependencias de drogas no institucionalizadas y de la rehabilitación y reinserción de las personas con dependencias, se basarán en las directrices siguientes:
+a) En todas las actuaciones, especialmente en las informativas y educativas dirigidas a las familias y responsables implicados, se prestará una especial atención a aquellas situaciones en las que el joven es más vulnerable.
+b) Se arbitrarán prioritariamente soluciones preventivas y asistenciales para la persona dependiente de la droga y se evitará en todo momento: que la identidad resulte afectada, un etiquetaje social, y una criminalización del sujeto. Se favorecerá asimismo la intervención de los servicios asistenciales lo más pronto posible en los casos de dependencia de drogas no institucionalizadas en jóvenes y adolescentes.
+c) Toda persona afectada por la dependencia de drogas no institucionalizadas necesita asistencia y tiene el derecho a someterse al tratamiento sanitario y social más adecuado para superar su problemática y recuperar su plena autonomía.
+d) Los equipos terapéuticos de desintoxicación serán básicamente de carácter médico, y los de deshabituación, rehabilitación y reinserción serán pluridisciplinarios.
+e) En el tratamiento terapéutico de las personas dependientes de estas drogas, se promoverá la actuación sobre todos los posibles integrantes del medio social del afectado.
+f) Se coordinarán los recursos sanitarios y de servicios sociales de toda Cataluña para dependencias de drogas y se dispondrá la creación de los centros y equipamientos que sean indispensables.
+g) Para las personas que hubiesen seguido un proceso de desintoxicación y deshabituación de la droga se propugnará la adecuada rehabilitación psicosocial y su reinserción en la sociedad.
+
+### Artículo 9
+
+Artículo 9.
+1. El Consejo Ejecutivo velará para que las personas que presenten dependencia de drogas no institucionalizadas puedan recibir la atención y la asistencia sanitaria y social.
+2. A los efectos de asistencia, se considera la dependencia de drogas no institucionalizadas como una enfermedad común.
+3. Las personas afectadas por la dependencia de drogas no institucionalizadas pueden recibir siempre voluntariamente la asistencia sanitaria y social, sin perjuicio de las determinaciones judiciales ni de lo establecido por las disposiciones legales que se refieren a esta materia.
+
+### Artículo 10
+
+Artículo 10.
+1. En los centros hospitalarios de Cataluña que atienden urgencias generales se prestará atención urgente por intoxicación aguda o por manifestaciones psicoorgánicas originadas por la dependencia de drogas no institucionalizadas.
+2. Los hospitales especializados y los hospitales generales que reglamentariamente se determine, del sector público o vinculados a éste mediante concierto o convenio, dispondrán de una unidad de desintoxicación, con camas para ingreso, dentro de un área reservada del hospital.
+3. La desintoxicación de enfermos con dependencia de drogas no institucionalizadas también podrá efectuarse, en régimen ambulatorio, en los centros a que se refiere el apartado 2 y en aquellos que están autorizados para ello.
+4. Las medidas de atención y de asistencia especificadas en el presente artículo abarcan los ámbitos de actuación funcional y territorial de cada centro y servicio.
+
+### Artículo 11
+
+Artículo 11.
+1. El Consejo Ejecutivo promoverá el desarrollo de las acciones asistenciales para la desintoxicación y la deshabituación de las personas con dependencia de drogas no institucionalizadas en los servicios asistenciales primarios, mediante el establecimiento de programas, la adecuación de sus equipos profesionales y la habilitación de locales.
+Las Instituciones públicas podrán establecer conciertos, de acuerdo con la legislación sanitaria, y establecer subvenciones para la prestación de servicios a Instituciones privadas, legalmente constituidas y debidamente registradas, siempre que cumplan los requisitos que se establezcan reglamentariamente. Asimismo, debe fomentarse la función del voluntariado social que colabore con las Administraciones públicas y las Entidades privadas, sin afán de lucro, en las tareas de prestación de servicios de prevención, asistencia y reinserción.
+2. Las terapéuticas ambulatorias, las comunidades terapéuticas y demás procedimientos de desintoxicación y deshabituación prestados por instituciones públicas o privadas deberán cumplir la normativa dictada en virtud de los artículos 35, 36 y 37.
+3. El Departamento de Sanidad y Seguridad Social velará para que en las comunidades terapéuticas no puedan crearse situaciones de falta de asistencia médica y sicológica.
+Se añade el párrafo 2 del apartado 1 por el art. 4 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 12
+
+Artículo 12.
+Las entidades, instituciones y personas que colaboren sin finalidad de lucro en la rehabilitación y reinserción de personas afectadas por dependencia de drogas serán especialmente consideradas y reconocidas, de acuerdo con la reglamentación que se establezca.
+
+### Artículo 13
+
+Artículo 13.
+1. El Departamento de Sanidad y Seguridad Social, junto con el de Enseñanza, adoptará medidas para sensibilizar a los profesionales de la sanidad y de los servicios sociales y perfeccionar su información con relación a la problemática de la dependencia de drogas no institucionalizadas y para conseguir la mejor asistencia posible.
+2. El Departamento de Sanidad y Seguridad Social definirá la función de los centros sanitarios y de servicios sociales, y especialmente de los centros de atención primaria, con relación a la educación sanitaria y la orientación, atención y asistencia de las personas con dependencia de drogas y de sus familias.
+
+### Artículo 14
+
+Artículo 14.
+El Departamento de Sanidad y Seguridad Social y el de Justicia implantarán programas de desintoxicación y deshabituación de los reclusos que presenten dependencia de drogas no institucionalizadas. A tal fin, se dotará a los establecimientos penitenciarios de los medios adecuados. Corresponde al Departamento de Justicia, en el marco de la legislación penitenciaria, adoptar las medidas adecuadas para evitar que entren drogas en los establecimientos penitenciarios.
+
+## TÍTULO IV
+
+De las medidas de control de la promoción de bebidas alcohólicas y de medidas de asistencia en la dependencia alcohólica
+
+## CAPÍTULO I
+
+De las medidas de control
+
+### Artículo 15
+
+Artículo 15.
+1. a) La promoción pública de bebidas alcohólicas, mediante ferias, exposiciones, muestras y actividades similares, será realizada en espacios diferenciados cuando tenga lugar dentro de otras manifestaciones públicas.
+b) En estas actividades de promoción no estarán permitidos ni el ofrecimiento ni la degustación gratuitos de bebidas alcohólicas.
+c) Tampoco se permitirá el acceso a menores de edad no acompañados de personas mayores de edad.
+2. Se prohíbe la promoción de bebidas alcohólicas en establecimientos, locales y otros espacios autorizados para su suministro y consumo realizada mediante ofertas que se anuncian con nombres como «barra libre», «2 × 1», «3 × 1», o similares, que inciten al consumo abusivo o ilimitado.
+3. Se prohíbe la publicidad de las actividades promocionales a que se refiere el apartado 2 hecha por cualquier medio.
+Se modifica el apartado 2 por el art. 132 de la Ley 9/2011, de 29 de diciembre. Ref. BOE-A-2012-546.
+ Se modifica el apartado 2 y se añade el apartado 3 por la disposición final 1.1 de la Ley 18/2009, de 22 de octubre. Ref. BOE-A-2009-18178#dfprimera.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 50, de 26 de febrero de 2010. Ref. BOE-A-2010-3101.
+ Se modifica por el art. 5 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 16
+
+Artículo 16.
+1. No se podrá enviar ni distribuir a menores de edad prospectos, carteles, invitaciones y ninguna clase de objeto en que se mencionen bebidas alcohólicas, sus marcas o sus empresas productoras o los establecimientos en que se realice su consumo.
+2. En las visitas a los Centros de producción, elaboración y distribución de bebidas alcohólicas, no podrá ofrecerse ni hacer probar los productos a los menores de edad.
+Se modifica por el art. 6 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 17
+
+Artículo 17.
+1. Ni en los establecimientos de venta y consumo de bebidas alcohólicas ni en otros lugares públicos está permitido vender ni suministrar ningún tipo de bebida alcohólica a los menores de dieciocho años.
+2. No está permitida la adquisición de bebidas alcohólicas por parte de mayores de edad para proporcionarlas a menores de edad o facilitarles su consumo.
+3. En los establecimientos de venta y consumo de bebidas alcohólicas debe haber una señalización en un lugar perfectamente visible, de la forma que se determine por reglamento, que haga patente la prohibición de vender, suministrar o proporcionar bebidas alcohólicas a los menores de dieciocho años o facilitarles su consumo.
+Se modifica por el art. 91.1 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica por el art. único de la Ley 1/2002, de 11 de marzo. Ref. BOE-A-2002-6701
+ Se modifica por el art. 7 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237
+
+### Artículo 18
+
+Artículo 18.
+1. No se pueden vender ni consumir bebidas alcohólicas de más de veinte grados centesimales en:
+a) Los centros, los servicios y los establecimientos de protección de la salud y de atención sanitaria y sociosanitaria.
+b) Las universidades y otros centros de enseñanza superior.
+c) Los centros deportivos dependientes de las Administraciones Públicas.
+d) Las áreas de servicio y de descanso de las autopistas.
+2. No se pueden vender ni consumir bebidas alcohólicas en:
+a) Los centros educativos, tanto públicos como privados, no incluidos en la letra b) del apartado 1, tanto los dedicados a enseñanza reglada como los dedicados a otras enseñanzas.
+b) Los locales y los centros para niños y jóvenes, incluidos los de atención social.
+c) Los locales de trabajo de las empresas de transporte público.
+d) Las áreas de servicio y de descanso de las autopistas y las gasolineras, de las 22 horas a las 8 horas del día siguiente.
+e) Todo tipo de establecimiento, desde las 22 horas a las 8 horas del día siguiente, salvo los establecimientos en los que la venta de bebidas alcohólicas esté destinada a consumirlas en el interior del local. Queda incluida en esta prohibición la venta realizada en establecimiento comercial, por teléfono o por cualquier otro medio, seguida del reparto en el domicilio o en el lugar indicado si dicho reparto se realiza dentro de la franja horaria indicada.
+f) La vía pública y el resto de lugares de concurrencia pública, cuando lo establezcan las ordenanzas municipales por razones de seguridad pública, excepto los lugares donde esté debidamente autorizado.
+3. La expedición de bebidas alcohólicas mediante máquinas automáticas solamente se puede realizar en lugares cerrados. La situación de las máquinas permitirá el control de las mismas por las personas responsables del establecimiento o sus representantes, de forma que se impida el acceso a los menores de edad. En la superficie frontal de las máquinas se hará constar la prohibición de consumir bebidas alcohólicas por menores de edad.
+4. No se permite el consumo de bebidas alcohólicas de las 22 horas a las 8 horas del día siguiente en los establecimientos de venta de productos de alimentación no destinados al consumo inmediato.
+5. Se prohíbe la exposición de bebidas alcohólicas en las zonas exteriores de los establecimientos comerciales, así como en mostradores o ventanas visibles desde el exterior, salvo los establecimientos comerciales que tengan como negocio exclusivo la venta de bebidas alcohólicas.
+Se modifican las letras d) y e) del apartado 2, el apartado 4 y se añade el 5 por el art. 91.2 a 5 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+ Se modifica por el art. único de la Ley 8/1998 de 10 de julio. Ref. BOE-A-1998-20136
+ Se modifica por el art. 8 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237
+
+### Artículo 19
+
+Artículo 19.
+1. Se prohíben todas las formas de publicidad de bebidas alcohólicas de más de 20 grados centesimales en los medios de comunicación dependientes de la Generalidad y en los dependientes de la Administración Local de Catalunya. Dicha prohibición no incluye la publicidad indirecta que pueda derivarse de programas no específicamente publicitarios, como las retransmisiones deportivas, por razón del patrocinio o de la publicidad estática, siempre y cuando no induzca directamente al consumo.
+Asimismo, se prohíbe, en los susodichos términos, la publicidad de bebidas alcohólicas en publicaciones principalmente dirigidas a menores de edad.
+2. No está permitida la publicidad de bebidas alcohólicas de más de 23 grados centesimales en:
+a) Las playas, ''campings'', balnearios, centros recreativos, centros de ocio y esparcimiento para menores, las piscinas, parques acuáticos, de atracciones, temáticos y zoológicos.
+b) Las calles, plazas, parques, carreteras y demás vías públicas, en vallas, plafones, señales y otros soportes de publicidad exterior, excepto las señales indicativas propias de centros de producción y venta.
+c) Los cines, teatros y auditorios.
+d) Los centros y estadios deportivos, excepción hecha de la publicidad estática y la del patrocinador.
+e) Los medios de transporte públicos.
+f) Todos los lugares donde esté prohibida su venta o su consumo.
+g) Los lugares similares a los mencionados que se determinen reglamentariamente.
+3. La publicidad de bebidas alcohólicas por medio de la televisión se someterá a lo dispuesto en el artículo 8 de la Ley del Estado 34/1988, de 11 de noviembre, General de Publicidad.
+4. La publicidad de bebidas alcohólicas de menos de 20 grados en los medios de comunicación dependientes de la Administración de la Generalidad y de la Administración Local respetará los siguientes criterios:
+a) No podrá dirigirse específicamente a los menores de edad o a las gestantes ni, en particular, presentar a menores de edad o a gestantes consumiendo dichas bebidas.
+b) No debe asociarse el consumo de estas bebidas a una mejora del rendimiento físico o a la conducción de vehículos.
+c) No debe sugerirse que el consumo de estas bebidas contribuye al éxito social o sexual.
+d) No debe sugerirse que estas bebidas comportan propiedades terapéuticas o un efecto estimulante o sedante o constituyen un medio para la resolución de conflictos.
+e) No debe estimularse el consumo inmoderado de bebidas alcohólicas u ofrecer una imagen negativa de la abstinencia o la sobriedad.
+f) No debe subrayarse como cualidad positiva de las bebidas su contenido alcohólico.
+Se modifica por el art. 9 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+## CAPÍTULO II
+
+De las medidas de asistencia
+
+### Artículo 20
+
+Artículo 20.
+1. El Consejo Ejecutivo velará para que las personas con dependencia del alcohol reciban la atención y asistencia sanitaria y social debidas.
+2. A efectos asistenciales, el alcoholismo está considerado como una enfermedad común.
+3. Las personas con dependencia del alcohol podrán recibir voluntariamente asistencia sanitaria y social, sin perjuicio de las determinaciones judiciales ni de lo establecido por las disposiciones legislativas sobre la materia.
+
+### Artículo 21
+
+Artículo 21.
+1. En los centros hospitalarios de Cataluña que atiendan urgencias generales se presentará una urgente atención por intoxicación aguda o por manifestaciones psicoorgánicas originadas por la dependencia alcohólica.
+2. De acuerdo con lo establecido reglamentariamente, los hospitales especializados y los hospitales generales de Cataluña que se determinen, del sector público o vinculados a éste mediante concierto o convenio, dispondrán de camas o de una unidad de ingreso para la desintoxicación de enfermos alcohólicos.
+3. El tratamiento de personas afectadas por alcoholismo podrá realizarse en régimen de ingreso hospitalario o con carácter ambulatorio en los centros y los servicios autorizados.
+4. Las medidas de atención y asistencias especificadas en el presente artículo abarcan los ámbitos de actuación funcional y territorial de cada centro y servicio.
+
+### Artículo 22
+
+Artículo 22.
+1. El Consejo Ejecutivo potenciará el desarrollo de las acciones asistenciales para la desintoxicación y deshabituación de las personas afectadas por alcoholismo en los servicios asistenciales primarios.
+2. Se fomentarán las medidas destinadas a mejorar la identificación y el tratamiento precoz del enfermo alcohólico.
+3. Los centros y servicios que realizan la desintoxicación y la deshabituación de alcohólicos deben cumplir la normativa dictada en virtud de los artículos 35, 36 y 37.
+
+### Artículo 23
+
+Artículo 23.
+1. Se propugnará la adecuada rehabilitación psicosocial y la reinserción en la sociedad de las personas que han seguido un proceso de desintoxicación y deshabituación del alcohol. El Consejo Ejecutivo promoverá centros, talleres, equipos de servicios sociales y programas laborales y culturales que permitan conseguir la rehabilitación y reinserción referidas.
+2. Las entidades, instituciones y personas que colaboren benévolamente o sin finalidad de lucro en la rehabilitación y la reinserción de alcohólicos serán especialmente consideradas y reconocidas, de acuerdo con la reglamentación que se establezca.
+3. Las asociaciones de auto-ayuda constituidas por ex alcohólicos recibirán el apoyo de la Administración pública, que facilitará el desarrollo de sus actividades.
+
+## TÍTULO V
+
+De las medidas de control de la promoción del tabaco y demás medidas
+
+## CAPITULO I
+
+De las medidas limitativas
+
+### Artículo 24
+
+Artículo 24.
+1. No podrán venderse productos del tabaco en:
+a) Los Centros sanitarios y sus recintos.
+b) Los Centros de enseñanza de cualquier nivel.
+c) Los Centros deportivos.
+d) Los Centros, locales o establecimientos de atención social, los casales o los Centros infantiles y juveniles de esparcimiento.
+e) Los locales o establecimientos similares a los mencionados que se determinen reglamentariamente.
+2. Se prohíbe la venta a menores de edad de productos destinados a ser fumados, inhalados, chupados o masticados constituidos total o parcialmente por tabaco, ni tampoco los productos que lo imiten o que induzcan al hábito de fumar y sean nocivos para la salud. Dicha prohibición debe advertirse, en forma y lugar perfectamente visible de la forma que se determine reglamentariamente, en los establecimientos donde se expidan productos del tabaco.
+3. Se prohíbe la distribución de muestras de los productos del tabaco en el territorio de Cataluña, sean o no gratuitas.
+4. La expedición de tabaco o de productos del tabaco mediante máquinas automáticas de venta sólo podrá realizarse en lugares cerrados y deberá constar en la superficie frontal de la máquina que el tabaco es nocivo para la salud y que los menores de edad tienen prohibido utilizar la máquina.
+5. El texto de advertencia sobre los riesgos del consumo del tabaco que debe constar en la parte exterior de los paquetes de productos del tabaco que se comercialicen en Cataluña estará redactado en catalán, en castellano o en ambos idiomas.
+Se modifica por el art. 10 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 25
+
+Artículo 25.
+1. Se prohíben todas las formas de publicidad de los productos del tabaco y de los productos relacionados con su consumo en los medios de comunicación dependientes de la Generalidad y en los dependientes de la Administración Local de Cataluña. Dicha prohibición no incluye la publicidad indirecta que pueda derivarse de programas no específicamente publicitarios, como las retransmisiones deportivas, por razón del patrocinio o de la publicidad estática, siempre y cuando no induzca directamente al consumo.
+Asimismo, se prohíbe, en los susodichos términos, la publicidad de productos del tabaco en publicaciones principalmente dirigidas a menores de edad, así como la participación de menores de edad en la confección de anuncios publicitarios que promuevan la venta de dichos productos.
+2. No podrá realizarse publicidad de los productos del tabaco ni de los productos relacionados con su consumo en:
+a) Las playas, ''campings'', balnearios, centros recreativos y turísticos, centros de ocio y esparcimiento, las piscinas, parques acuáticos, de atracciones, temáticos y zoológicos.
+b) Las calles, plazas, parques, carreteras y demás vías públicas, en vallas, plafones, señales y otros soportes de publicidad exterior, excepto las señales indicativas propias de los centros de producción y venta.
+c) Los cines, teatros y auditorios.
+d) Los centros y estadios deportivos, excepto la publicidad estática y la del patrocinador.
+e) Los medios de transporte públicos.
+f) Todos los lugares donde esté prohibida su venta o su consumición.
+g) Los lugares similares a los mencionados que se determinen reglamentariamente.
+3. La publicidad del tabaco mediante la televisión se someterá a lo dispuesto en el artículo 8 de la Ley del Estado 34/1988, de 11 de noviembre, General de Publicidad.
+Se modifica por el art. 11 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 26
+
+Artículo 26.
+1. Se prohíbe fumar en los medios de transporte colectivo, tanto urbano como interurbano, en los que se admitan viajeros de pie. Dicha prohibición también se aplica a funiculares, teleféricos y ascensores.
+2. En los transportes colectivos interurbanos sobre los que la generalidad tiene competencia deben reservarse para los no fumadores la mitad de los asientos de los vehículos en que no se admitan viajeros de pie. En los transportes dependientes de la generalidad, dicha reserva podrá establecerse por vehículos completos.
+3. Se prohíbe fumar en los vehículos de transporte escolar, en todos los vehículos destinados al transporte de menores de edad y en los vehículos destinados al transporte sanitario.
+4. Las autoridades locales podrán establecer la prohibición de fumar en los vehículos autotaxi pertenecientes a su término municipal. En ausencia de una norma específica, prevalecerá el derecho del no fumador, tanto si es el conductor como si es un pasajero.
+Se modifican los apartados 2 a 4 por el art. 12 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 27
+
+Artículo 27.
+1. No se puede fumar en:
+a) Los Centros sanitarios y sus recintos.
+b) Los Centros, locales o establecimientos de atención social, los casales o los Centros infantiles y juveniles de esparcimiento.
+c) Los recintos deportivos cerrados.
+d) Los Centros de enseñanza de cualquier nivel.
+e) Las salas de teatro, cines y auditorios.
+f) Los estudios de radio y televisión destinados al público.
+g) Las oficinas de la Administración pública destinadas a la atención directa al público.
+h) Las grandes superficies comerciales.
+i) Las galerías comerciales.
+j) Los museos y las salas de lectura, de exposiciones y de conferencias.
+k) Las áreas laborales donde trabajen mujeres embarazadas.
+l) Los lugares de trabajo donde haya un riesgo para la salud del trabajador por razón de combinarse la nocividad del tabaco con el perjuicio ocasionado por un contaminante industrial.
+m) Las salas de espera de uso general y público.
+n) Los espacios cerrados de uso general y público de las estaciones de autocar, de metro y de ferrocarril y de los aeropuertos y puertos de interés general.
+o) La zona de playa de las piscinas y de los parques acuáticos, de conformidad con la normativa vigente.
+p) Los balnearios.
+q) Los lugares similares a los mencionados que se determinen reglamentariamente.
+2. Los Directores de los centros, de las empresas y de los locales a que se refieren las letras a, b, c, d, h, i, m, n y p del apartado 1 reservarán áreas bien delimitadas para fumadores y las señalizarán adecuadamente.
+3. Tampoco está permitido fumar:
+a) En los locales en los que se elaboren, se manipulen, se transformen, se preparen y se vendan alimentos.
+b) A los manipuladores de alimentos, de conformidad con la legislación sobre la materia.
+c) En las zonas reservadas a los no fumadores en los restaurantes y demás lugares destinados principalmente al consumo de alimentos, que estarán señalizadas adecuadamente.
+4. Debe solicitarse a los Comités de seguridad e higiene en el trabajo y a los Comités de Empresa, de conformidad con las funciones que la legislación vigente les asigne, su colaboración en la vigilancia del cumplimiento de la normativa establecida en la presente Ley.
+Se modifica por el art. 13 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 28
+
+Artículo 28.
+1. En atención a la promoción y la defensa de la salud individual y colectiva, el derecho a la salud de los no fumadores, en las circunstancias en que pueda verse afectada, prevalecerá sobre el derecho a consumir productos del tabaco.
+2. Las prohibiciones de fumar y vender tabaco establecidos en los artículos 24, 25, 26 y 27 serán objeto de señalización adecuada en los vehículos, los centros, los locales y los establecimientos a los que son de aplicación.
+3. Las zonas para fumadores de los vehículos, los Centros, los locales y los establecimientos donde deban habilitarse las mismas estarán señalizadas adecuadamente. En los rótulos señalizadores constará necesariamente la advertencia de que fumar perjudica al fumador activo y al pasivo, según el mensaje y las características que se determinen reglamentariamente.
+4. Asimismo, se fijarán en estas áreas, en lugares perfectamente visibles, mensajes disuasivos para sensibilizar y concienciar a los conductores de los peligros derivados de la influencia de las bebidas alcohólicas en la conducción de vehículos de motor, cuyo contenido y características se determinarán reglamentariamente.
+5. Los titulares o los Directores de los servicios, Centros, locales y establecimientos afectados por la presente Ley informarán a los usuarios de la existencia de hojas de reclamación, cuya regulación se realizará reglamentariamente.
+6. Los titulares o los Directores de los medios de transporte, los locales, los establecimientos y los centros a que se refieren los artículos 16; 17; 18; 24, 1, 2, 3 y 4; 26, 1 y 2, y 31, 1, serán responsables de la observancia de lo dispuesto en los apartados 2, 3 y 4 de este artículo.
+7. Los sujetos de la actividad publicitaria son responsables del incumplimiento de lo dispuesto en la presente Ley, sin perjuicio de la responsabilidad de los titulares o los Directores de los medios de transporte, Centros, locales o establecimientos en que se exhiba publicidad ilícita.
+8. La responsabilidad por el incumplimiento de lo establecido en el artículo 15 recaerá en el organizador o el patrocinador de la actividad en cuestión.
+Se modifica por el art. 14 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+## CAPÍTULO II
+
+De otras medidas
+
+### Artículo 29
+
+Artículo 29.
+El Departamento de Sanidad y Seguridad Social analizará periódicamente, a los efectos de la presente Ley, la cantidad de nicotina y la capacidad de formación de alquitranes que contienen y de monóxido de carbono que producen los cigarrillos de los tipos de tabaco habitualmente vendidos en Cataluña. Un informe de dicho análisis se publicará y divulgará.
+
+### Artículo 30
+
+Artículo 30.
+El Departamento de Sanidad y Seguridad Social promoverá, en el marco del sistema sanitario de Cataluña, la asistencia a las personas que presenten afectación psicoorgánica por dependencia del tabaco.
+
+## TÍTULO VI
+
+De otras dependencias
+
+### Artículo 31
+
+Artículo 31.
+1. Se prohíbe la venta a menores de edad de colas y otras sustancias o productos industriales inhalables de venta autorizada que puedan producir efectos nocivos para la salud y creen dependencia o produzcan efectos euforizantes o depresivos.
+2. El Consejo Ejecutivo determinará reglamentariamente la relación de productos a que se refiere el apartado 1.
+Se modifica el apartado 1 por el art. 15 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 32
+
+Artículo 32.
+El Departamento de Sanidad y Seguridad Social elaborará y facilitará a los usuarios de los servicios sanitarios y a los profesionales de la sanidad información actualizada sobre la utilización en Cataluña de fármacos psicoactivos y demás medicamentos y productos capaces de producir dependencia.
+
+## TÍTULO VII
+
+De las medidas de ordenación y demás medidas generales
+
+## CAPÍTULO I
+
+De la ordenación
+
+### Artículo 33
+
+Artículo 33.
+1. El Departamento de Sanidad y Seguridad Social analizará, planificará y evaluará las necesidades, demanda y recursos respecto a las materias que son objeto de la presente Ley. Este Departamento cumplirá las mencionadas funciones coordinadamente con los entes locales.
+2. El Departamento de Sanidad y Seguridad Social elaborará un plan de actuaciones en el que se reunirán de forma global las acciones previstas para un periodo trienal.
+
+### Artículo 34
+
+Artículo 34.
+1. Constituirán el programa asistencial catalán para dependencias los centros y servicios de titularidad de la Generalidad o gestionados por ella, los de las entidades locales de Cataluña y los de titularidad pública o privada que tengan concierto con la Generalidad o reciban ayudas de ella, destinados a la desintoxicación, deshabituación, rehabilitación y reinserción.
+2. Las entidades locales colaborarán en la definición de la planificación a que se refiere el artículo 33.
+
+### Artículo 35
+
+Artículo 35.
+1. El Departamento de Sanidad y Seguridad Social registrará los centros que, dentro del ámbito territorial de la Generalidad, presten funciones de atención y asistencia para la desintoxicación, deshabituación, rehabilitación y reinserción en esta materia. La inscripción y autorización previas, de acuerdo con lo establecido reglamentariamente, serán obligatorias para poder prestar estos servicios.
+2. Los centros se sujetarán a las medidas de inspección, control, acreditación e información estadística y sanitaria vigentes.
+
+### Artículo 36
+
+Artículo 36.
+1. El Departamento de Sanidad y Seguridad Social establecerá un programa de registro, análisis, tipificación y evaluación de las distintas modalidades terapéuticas, de rehabilitación y de reinserción, susceptibles de aplicarse a personas con dependencia de las drogas. El previo registro de la modalidad o las modalidades a utilizar será obligatorio para los centros públicos y para los que quieran establecer un concierto o convenio o bien disfrutar de alguna subvención o ayuda pública.
+2. Con fines asistenciales, el citado Departamento deberá determinar un laboratorio de referencia para la estandarización y normalización de las determinadas analíticas.
+
+### Artículo 37
+
+Artículo 37.
+El Departamento de Sanidad y Seguridad Social estructurará un sistema de información y vigilancia sobre la frecuencia asistencial, morbilidad y mortalidad por dependencias, preservando el derecho al anonimato.
+
+### Artículo 38
+
+Artículo 38.
+1. El Instituto Catalán de la Salud y el Instituto Catalán de Asistencia y Servicios Sociales, en las materias reguladas por la presente Ley, desarrollarán las competencias que les correspondan de acuerdo con la Ley 12/1983, de 14 de julio.
+2. Especialmente estos Institutos realizarán la graduación, continuidad y seguimiento de la asistencia de los enfermos, dentro de los ámbitos de actuación respectivos.
+
+## CAPÍTULO II
+
+De la coordinación
+
+### Artículo 39
+
+Artículo 39.
+1. El Consejo Ejecutivo coordinará, planificará y ordenará las iniciativas privadas y las del sector público, en materia de prevención, atención, asistencia, rehabilitación y reinserción de las dependencias reguladas por la presente Ley.
+2. El Departamento de Sanidad y Seguridad Social podrá establecer convenios y conciertos con las entidades públicas, entidades benéficas privadas sin ánimo de lucro y entidades privadas que tengan por objeto la prevención y la asistencia en la materia. En el establecimiento de conciertos y convenios el Departamento cumplirá esta prelación.
+
+### Artículo 40
+
+Artículo 40.
+Se crea una comisión de coordinación y de lucha contra las dependencias de drogas, cuya composición y funcionamiento se determinarán reglamentariamente. Será su presidente el Conseller de Sanidad y Seguridad Social y estarán representados en ella los Departamentos y órganos de la Generalidad, así como los de la Administración local, implicados en la materia.
+
+### Artículo 41
+
+Artículo 41.
+1. En función de las áreas territoriales vigentes en sanidad y en servicios sociales, se establecerán comisiones de participación integradas por las autoridades locales del área, por representantes de los sindicatos y asociaciones patronales más representativos, por las organizaciones y las asociaciones relacionadas con la materia y por los profesionales de asistencia, comisiones que, además de cumplir funciones de análisis y seguimiento de la problemática de las dependencias de drogas dentro de su ámbito territorial, propondrán a los órganos correspondientes adoptar las medidas más adecuadas.
+2. Los municipios podrán establecer comisiones locales dentro de su ámbito competencial y territorial con finalidades de estudio, orientación de las actuaciones públicas y propuesta de acciones a los órganos correspondientes; estas comisiones actuarán en coordinación con las previstas en el apartado 1.
+
+## CAPÍTULO III
+
+De la investigación
+
+### Artículo 42
+
+Artículo 42.
+1. En el ámbito de la presente Ley, el Departamento de Sanidad y Seguridad Social:
+a) Realizará encuestas periódicas y estudios epidemiológicos, económicos y sociales para conocer el prevalecimiento, implicaciones y problemática de las dependencias.
+b) Establecerá un servicio de documentación sobre dependencias, abierto a todos los organismos públicos y privados dedicados al estudio y asistencia en esta área.
+c) Elaborará un informe anual sobre la situación de las dependencias en Cataluña.
+2. El Consejo Ejecutivo promoverá líneas de investigación, estudio y formación con relación a la problemática social, sanitaria y económica relativa a las dependencias.
+3. Un comité de expertos multidisciplinario constituido por personas de reconocida experiencia en la prevención y asistencia de dependencias, asesorará al Departamento de Sanidad y Seguridad Social para que evalúe las acciones, centros, modalidades terapéuticas y programas realizados en Cataluña.
+
+## CAPÍTULO IV
+
+De la financiación
+
+### Artículo 43
+
+Artículo 43.
+1. El Departamento de Sanidad y Seguridad Social contará con un fondo económico para la construcción, ampliación, modificación y reforma de los centros con una estructura asistencial adecuada para asistir a las personas afectadas por las dependencias.
+2. El Departamento de Sanidad y Seguridad Social habilitará reglamentariamente un sistema de ayudas financieras para la creación, ampliación, modificación, reforma, equipamiento y mantenimiento de centros y servicios destinados a la asistencia de personas con dependencias, a cargo de entidades e instituciones públicas o privadas sin finalidad de lucro. Solamente podrán recibir estas ayudas las instituciones que cumplan las condiciones fijadas por la presente Ley y las normas que la desarrollen.
+
+### Artículo 44
+
+Artículo 44.
+El Presupuesto de la Generalidad debe prever anualmente las partidas presupuestarias correspondientes para realizar las actividades reguladas por la presente Ley.
+
+## CAPÍTULO V
+
+Del régimen sancionador
+
+### Artículo 45
+
+Artículo 45.
+1. Son infracciones leves de la presente Ley:
+a) El incumplimiento de lo dispuesto en los artículos 26 y 27.
+b) El incumplimiento de las prescripciones de la presente Ley que no comporte un perjuicio directo para la salud, y siempre que el mismo no esté tipificado en los apartados 2 y 3 de este artículo como infracción grave o muy grave.
+2. Son infracciones graves de la presente Ley:
+a) El incumplimiento de lo dispuesto en los artículos 15, 16, 17, 18, 19, 24, 25, 28 y 31.1.
+b) Las que sean concurrentes con infracciones sanitarias leves o hayan servido para facilitar o encubrir su comisión.
+c) El incumplimiento de los requerimientos específicos que formulen las autoridades sanitarias, si se produjera por vez primera.
+d) La resistencia a suministrar datos, facilitar información o prestar colaboración a las autoridades o a los agentes de las mismas.
+e) La reincidencia en la comisión de infracciones leves.
+3. Se tipifican como infracciones muy graves de la presente Ley:
+a) El incumplimiento de lo dispuesto en los artículos 35 y 36.
+b) El incumplimiento reiterado de los requerimientos específicos formulados por las autoridades sanitarias.
+c) Las que sean concurrentes con infracciones sanitarias graves o hayan servido para facilitar o encubrir su comisión.
+d) La negativa absoluta a facilitar información o a prestar colaboración a los servicios de control e inspección y el falseamiento de la información suministrada.
+e) La resistencia, coacción, amenaza, represalia, desacato o cualquier otra forma de presión ejercita sobre las autoridades sanitarias o sus agentes.
+f) La reincidencia en la comisión de faltas graves.
+Se modifica por el art. 16 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 46
+
+Artículo 46.
+1. Las infracciones de la presente Ley serán sancionadas de conformidad con la siguiente graduación:
+a) Las infracciones leves, con una multa de hasta 500.000 pesetas, excepto las relativas al consumo de tabaco y de bebidas alcohólicas por parte de los usuarios de centros, locales, establecimientos o servicios, de conformidad con lo dispuesto en los artículos 26 y 27, que no podrán exceder de 5.000 pesetas.
+b) Las infracciones graves, con una multa de 500.001 a 2.500.000 pesetas.
+c) Las infracciones muy graves, con una multa de 2.500.001 a 100.000.000 de pesetas.
+2. Dentro de cada tipo de infracción la multa debe ser proporcionada a la infracción cometida y la cuantía debe graduarse:
+a) Según la alteración social producida por la actuación infractora y el riesgo que comporte para la salud pública.
+b) Según el volumen económico, la posición en el mercado, el grado de intencionalidad y la reincidencia del infractor. Se entiende, por reincidencia la comisión de infractores tipificadas en la presente Ley en un período de tiempo inferior a los dos años, contados desde la fecha de imposición de la sanción.
+3. En los casos de especial gravedad, de reiteración continuada o de trascendencia sanitaria de la infracción, el Consejo Ejecutivo podrá acordar como sanción complementaria la suspensión de la actividad de la Empresa, el servicio o el establecimiento infractores hasta un plazo máximo de cinco años, el cierre de la Empresa o la clausura del servicio o establecimiento.
+4. En los casos a que se refiere el apartado 3, se acordará necesariamente la supresión, la cancelación o la suspensión, total o parcial, de todo tipo de ayuda especial de carácter financiero que la Empresa, el servicio o el establecimiento infractores hayan obtenido o solicitado de la Generalidad.
+Se modifica por el art. 17 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+ Se mantiene la suspensión de la vigencia y aplicación de las letras a) y b) del apartado 3, en lo relativo a las expresiones "o definitiva" y "o definitivo", por Auto del TC de 29 de abril de 1986. Ref. BOE-A-1986-11554.
+ Se desestima el recurso de inconstitucionalidad, por Sentencia del TC 136/1991, de 20 de junio. Ref. BOE-T-1991-18823.
+ Se suspende la vigencia y aplicación de las letras a) y b) del apartado 3, en lo relativo a las expresiones "o definitiva" y "o definitivo" desde el 7 de noviembre de 1985, por providencia del TC de 13 de noviembre de 1985 que admite a trámite el recurso de inconstitucionalidad 986/1985. Ref. BOE-A-1985-24818.
+
+### Artículo 47
+
+Artículo 47.
+1. El control del cumplimiento de la presente Ley y la competencia para la imposición de sanciones corresponderán, de acuerdo con lo establecido reglamentariamente, a los órganos del Consejo Ejecutivo responsables de las materias afectadas y a las entidades locales, según los límites de cuantía que la legislación del régimen local autoriza.
+2. El procedimiento para imponer las sanciones fijadas por la presente Ley se ajustará a lo dispuesto por la Ley de Procedimiento Administrativo sobre procedimiento sancionador y revisión de actos por vía administrativa.
+3. No tendrá carácter de sanción la resolución de cierre de los establecimientos o de suspensión de las actividades que no cuenten con la autorización de operatividad o que incumplan las normas materiales fijadas por la presente Ley hasta que no se rectifiquen los defectos o se cumplan los requisitos, ni la retirada de anuncios que infrinjan la presente Ley. Simultáneamente, podrá incoarse un expediente sancionador.
+4. El órgano a quien corresponda la competencia sancionadora podrá acordar como medida precautoria y, en su caso, como sanción accesoria, el decomiso de las mercancías objeto de contravención: Los gastos de transporte y de desmontaje irán a cargo del infractor.
+5. Las infracciones de las medidas limitativas establecidas por la presente Ley para el personal al servicio de la Administración pública y del sector privado serán sancionadas según las normas que regulan su régimen disciplinario.
+
+### Artículo 48
+
+Artículo 48.
+1. Las infracciones de la presente Ley prescriben al cabo de cinco años, a contar de la fecha de comisión de la infracción. El plazo de prescripción se interrumpirá en el momento en que el procedimiento se dirija contra el presunto infractor.
+2. Una vez conocida por la Administración la existencia de una infracción a la presente Ley, la acción para perseguirla caduca si, habiendo transcurrido seis meses desde la conclusión de las diligencias dirigidas al esclarecimiento de los hechos, la autoridad competente no ha ordenado incoar el pertinente procedimiento.
+3. Una vez transcurridos doce meses desde el acuerdo de incoación del procedimiento sancionador sin que se haya notificado la resolución, este procedimiento caduca, excepto en el caso de los procedimientos sancionadores abreviados, en que el plazo de caducidad es de seis meses.
+Se modifica el apartado 3 por la disposición final 1.2 de la Ley 18/2009, de 22 de octubre. Ref. BOE-A-2009-18178#dfprimera.
+ Se modifica por el art. 18 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Artículo 49
+
+Artículo 49.
+1. Para las multas no ingresadas en período voluntario, la Administración podrá recurrir por vía de apremio.
+2. La acción para exigir el pago de las multas prescribirán en los plazos fijados por el artículo 64 de la Ley General Tributaria.
+
+### Disposición adicional
+
+Disposición adicional.
+En el ámbito de competencias de la Generalidad, las entidades públicas de Cataluña y entidades privadas que disfruten o quieran disfrutar de cualquier ayudas financiera de la Generalidad, deberán adecuar sus acciones informativas y sanitarias sobre la dependencia de drogas no institucionalizadas al marco de referencia que definirá el Departamento de Sanidad y Seguridad Social.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el ámbito de competencias de la Generalidad, las entidades públicas de Cataluña y entidades privadas que disfruten o quieran disfrutar de cualquier ayudas financiera de la Generalidad, deberán adecuar sus acciones informativas y sanitarias sobre la dependencia de drogas no institucionalizadas al marco de referencia que definirá el Departamento de Sanidad y Seguridad Social.
+Se numera por el art. 19 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+ Anteriormente se denominaba disposición adicional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Sin perjuicio de lo dispuesto en la presente Ley, el titular de un centro, local o establecimiento abierto al público puede establecer la prohibición de fumar en el mismo, de lo que informará a los usuarios mediante la adecuada señalización.
+Se añade por el art. 19 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los órganos administrativos competentes, las asociaciones de consumidores y usuarios, las personas naturales o jurídicas afectadas y, en general, las que tengan un derecho subjetivo o un interés legítimo en la misma, podrán solicitar al anunciante, así como a la autoridad judicial competente, el cese o la rectificación de la publicidad ilícita, de conformidad con lo establecido en el título IV de la Ley del Estado 34/1988, de 11 de noviembre, General de Publicidad.
+Se añade por el art. 20 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. La publicidad de bebidas alcohólicas y de tabaco en los medios de comunicación social no contemplados en la presente Ley podrá limitarse reglamentariamente, en el ámbito de las competencias de la generalidad, en orden a la protección de la salud y la seguridad de las personas y de acuerdo con la Ley del Estado 14/1986, de 25 de abril, General de Sanidad, y de la Ley del Estado 34/1988, de 11 de noviembre, General de Publicidad. El incumplimiento de dichas medidas estará sujeto a las sanciones fijadas en el capítulo V de la presente Ley.
+2. La administración promoverá la formalización de convenios de autocontrol con los anunciantes y con las agencias, empresas y medios de publicidad, con el fin de restringir, para todo lo que la presente Ley no regule, la actividad publicitaria de bebidas alcohólicas, de productos del tabaco y de los relacionados con su consumo.
+Se añade por el art. 21 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Disposición final primera
+
+Disposición final primera.
+En función de lo establecido por la presente Ley y la legislación aplicable, el Consejo Ejecutivo fijará el alcance de las prestaciones y los servicios que los centros del Instituto Catalán de la Salud y el Instituto Catalán de Asistencia y Servicios Sociales deberán ofrecer.
+
+### Disposición final segunda
+
+Disposición final segunda.
+A los cuatro meses de entrada en vigor de la presente Ley el Consejo Ejecutivo aplicará las medidas limitativas y de control que en ella se establecen. Previamente reglamentará el procedimiento sancionador.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En el plazo de tres meses, el Consejo Ejecutivo aprobará y presentará al Parlamento el plan de actuaciones previsto por el artículo 33.2.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+El Consejo Ejecutivo revisará cada tres años las cuantías mínimas y máximas fijadas en el artículo 46, teniendo en cuenta los índices de precios al consumo.
+Se modifica por el art. 22 de la Ley 10/1991, de 10 de mayo. Ref. BOE-A-1991-14237.
+
+### Disposición final quinta
+
+Disposición final quinta.
+Se autoriza al Consejo Ejecutivo para dictar las normas necesarias para el desarrollo y aplicación de la presente Ley.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y Autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 25 de julio de 1985.
+JOSEP LAPORTE I SALAS,
+ JORDI PUJOL,
+ Consejero de Sanidad y Seguridad Social
+ Presidente de la Generalidad

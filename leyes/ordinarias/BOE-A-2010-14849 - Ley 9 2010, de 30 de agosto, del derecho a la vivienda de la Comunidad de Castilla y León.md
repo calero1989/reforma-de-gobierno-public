@@ -1,0 +1,1335 @@
+# Ley 9/2010, de 30 de agosto, del derecho a la vivienda de la Comunidad de Castilla y León.
+
+- Identificador BOE: `BOE-A-2010-14849`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2010-14849
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que las referencias a la "calificación provisional" se entenderán hechas a la "calificación" regulada en el art. 53, y que las referencias hechas a la "calificación definitiva" de las viviendas de protección pública, se entenderán hechas a la "licencia de primera ocupación", según establece la disposición adicional 2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#dfsegunda.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 25.5 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La Constitución Española en su artículo 47 recoge el derecho que tienen todos los españoles a disfrutar de una vivienda digna y adecuada. La Constitución viene así a reconocer tal derecho como uno de los principios rectores de la política social, en virtud del cual los poderes públicos tienen la obligación de actuar cuando el ciudadano se encuentre en una situación de necesidad que le impida satisfacer este derecho.
+Por ello, los poderes públicos deben adoptar medidas de regulación y de remoción de obstáculos para garantizar una vivienda digna y adecuada a quien verdaderamente la necesita y no pueda obtenerla razonablemente por otros medios; bien proporcionándole directa o indirectamente los medios necesarios para acceder a una vivienda adecuada, bien incluso, cuando sea absolutamente necesario, procurándole una vivienda directamente o a través de fórmulas de colaboración con la iniciativa pública y privada.
+En otro orden de cosas, debe destacarse que una de las manifestaciones del principio de autonomía es la capacidad legislativa de la Comunidad de Castilla y León para dotarse de instrumentos legales que permitan una adecuada ordenación de las competencias que tiene atribuidas por el Estatuto de Autonomía de Castilla y León, aprobado por la Ley Orgánica 4/1983, de 25 de febrero, en la redacción dada por la Ley Orgánica 14/2007, de 30 de noviembre. Dicho Estatuto, dentro de los principios rectores de las políticas públicas, recoge, por un lado, el acceso en condiciones de igualdad de todos los castellanos y leoneses a una vivienda digna mediante la generación de suelo y la promoción de vivienda de protección pública y de vivienda protegida, con especial atención a los grupos sociales en desventaja; por otro, la plena integración de los jóvenes en la vida pública y en la sociedad, facilitando su autonomía, en especial mediante el acceso a la formación, al empleo y a la vivienda.
+Pero además, y directamente relacionado con la vivienda, cabe recordar que el artículo 70.1.6 del Estatuto de Autonomía atribuye a la Comunidad de Castilla y León la competencia exclusiva en materia de vivienda, correspondiendo a la misma la capacidad legislativa y reglamentaria así como la función ejecutiva y la de inspección.
+Asimismo, el artículo 71.1.5 del Estatuto de Autonomía se refiere a las competencias de desarrollo normativo y de ejecución que la Comunidad de Castilla y León tiene en materia de defensa de los consumidores y usuarios; es por ello por lo que la ley contempla la especial protección que adquirentes y arrendatarios deben tener en relación con la vivienda y, a tal efecto, se regula la publicidad y la información en materia de vivienda.
+Por todo ello, la Ley del Derecho a la Vivienda de la Comunidad de Castilla y León, en orden a lograr el efectivo derecho de los castellanos y leoneses al acceso a una vivienda digna y adecuada, establece las bases necesarias para ello, mediante la ejecución de políticas activas en materia de vivienda en coordinación con todas las Administraciones Públicas y de acuerdo con los necesarios criterios de planificación que se deriven de un conocimiento exhaustivo de la demanda real de vivienda.
+Del mismo modo, la ley trata de garantizar que para los castellanos y leoneses el acceso a la vivienda no signifique el deterioro de su calidad de vida, de forma que el esfuerzo económico que hagan para la compra o el alquiler de una vivienda protegida no impida su desarrollo social, económico o familiar, estableciéndose las bases para lograr que las familias castellanas y leonesas no dediquen más de una tercera parte de sus ingresos en el acceso a una vivienda protegida.
+II
+La presente ley constituye un paso muy importante en la regulación que, en materia de vivienda, ha llevado a cabo la Comunidad de Castilla y León, no sólo por ser la primera que se dicta, sino, sobre todo, porque se configura como la gran norma de la Comunidad Autónoma que compila una materia que se encontraba dispersa a través de una multiplicidad de normas tanto estatales, algunas de ellas preconstitucionales, como autonómicas; y resultaba, por ello, compleja para los agentes intervinientes, en su conocimiento y en su aplicación.
+Desde el punto de vista de la normativa estatal, cabe citar, a título de ejemplo, el Real Decreto Ley 31/1978, de 31 de octubre, sobre política de vivienda; el Real Decreto 3148/1978, de 10 de noviembre, por el que se desarrolla aquél, y el Decreto 2114/1968, de 24 de julio, por el que se aprueba el reglamento para la aplicación de la ley sobre viviendas de protección oficial.
+Entre la normativa autonómica producida con anterioridad cabe destacar la Ley 2/1999, de 19 de febrero, reguladora del depósito del importe de fianzas de contratos de arrendamiento y de suministro y servicios que afecten a fincas urbanas; el Decreto 52/2002, de 27 de marzo, de desarrollo y aplicación del Plan Director de Vivienda y Suelo de Castilla y León 2002-2009; el Decreto 99/2005, de 22 de diciembre, por el que se regula la promoción, adquisición y arrendamiento protegido de la vivienda joven de Castilla y León; el Decreto 100/2005, de 22 de diciembre, por el que se crea y regula la Reserva de Viviendas vacías en alquiler de Castilla y León; el Decreto 55/2008, de 24 de julio, por el que se regula la promoción, adquisición y arrendamiento protegido de la vivienda de precio limitado para familias en Castilla y León; la Orden FOM/1884/2006, de 22 de noviembre, por la que se regula el Registro Público de Demandantes de Viviendas Protegidas de Castilla y León; y la Orden FOM/1982/2008, de 14 de noviembre, por la que se regula el procedimiento para la selección de adquirentes y arrendatarios de viviendas protegidas en Castilla y León.
+Pese a la utilidad y validez de estas normas, su carácter reglamentario y su dispersión, aconsejaba la elaboración de un texto único, con rango de ley, en el que se recogieran muchos preceptos contenidos en aquéllas o los principios que inspiraron su redacción. De esta manera se aprueba un texto normativo completo, coherente y sencillo, sin perjuicio de que sea necesario en muchos aspectos, el correspondiente desarrollo reglamentario.
+Asimismo la ley concibe la vivienda no solo desde el punto de vista de la vivienda en sí, sino que sirve de unión con otras materias íntimamente relacionadas con la misma, como son el urbanismo y la ordenación del territorio, y se destaca la estrecha relación de esta ley con los objetivos y principios regulados en la legislación autonómica de aquellas materias. Una y otras, comparten objetivos y, a su vez, se complementan; la vivienda exige un urbanismo eficiente e incide en la ordenación de los espacios urbanos e incluso, desde la dimensión regional, esta materia es imprescindible para la ordenación del territorio. A su vez el urbanismo incide de manera decisiva en materia de vivienda ya que regula aspectos tan importantes como las reservas obligatorias de vivienda protegida en el planeamiento urbanístico, así como la regulación completa de los patrimonios públicos de suelo.
+La ley establece las bases para la determinación del valor del suelo en la promoción de viviendas de protección pública así como las condiciones para que, en la promoción de vivienda protegida en los suelos destinados a ésta, se guarde un necesario equilibrio entre las diferentes tipologías de vivienda protegida para atender a la también diferente demanda de cada una de ellas.
+En definitiva, la Ley del Derecho a la Vivienda de la Comunidad de Castilla y León, junto con el resto de legislación en materia de urbanismo y ordenación del territorio, pretende constituir un cuerpo legislativo integral que contemple la vivienda desde sus múltiples y variadas perspectivas.
+III
+Independientemente del momento y circunstancias en las que nace, la presente ley tiene una vocación de permanencia en el tiempo, y debe servir para establecer de forma ordenada y transparente las condiciones necesarias que permitan estimular la promoción y rehabilitación de viviendas en general y de viviendas protegidas en particular. Para ello, la ley se marca como objetivo el establecimiento de los pilares con los que construir un mercado inmobiliario transparente y ágil, para que, por un lado los promotores conozcan el marco legal de su actividad profesional y, por otro, para que quien compre o alquile una vivienda conozca sus derechos y esté lo más informado posible y, así, pueda decidir de forma correcta si quiere comprar o alquilar una vivienda. La seguridad jurídica y la confianza son principios que resultan fundamentales para el mercado inmobiliario.
+Esta participación activa de los poderes públicos debe coexistir con el respeto absoluto al principio de libertad de empresa que consagra la Constitución Española, que implica un reconocimiento a la iniciativa privada y a la libertad de decisión, no sólo para crear empresas promotoras o constructoras, sino también para dirigir y planificar su actividad en atención a sus recursos y a las propias condiciones del mercado. Actividad empresarial que, por fundarse en una libertad constitucionalmente garantizada, ha de ejercerse en condiciones de igualdad, pero también, de otra parte, con plena sujeción a la normativa sobre ordenación del mercado y de la actividad económica general.
+IV
+La ley no puede obviar las peculiaridades que desde el punto de vista del territorio y de la población presenta la Comunidad de Castilla y León. Baste recordar que nuestra Comunidad es una de las más extensas de la Unión Europea con sus 94.147 kilómetros cuadrados, y que la componen 2.248 municipios, de los que tan solo 25 de ellos tienen una población superior a los 10.000 habitantes. Pero, a mayor abundamiento, merece la pena citar dos datos especialmente relevantes; por un lado, más del 26% del territorio de Castilla y León se encuentra incluido en la Red Natura 2000 y, por otro, que existen más de 120 conjuntos históricos que significan un importante acervo cultural de gran valor patrimonial.
+Por tanto, el factor territorial o la dispersión de la población no son cuestiones ajenas a esta ley, ya que los mismos condicionan las estrategias, los objetivos y actuaciones que configuran la política de vivienda de Castilla y León.
+Continuando con la política de vivienda que en el medio rural se venía desarrollando hasta ahora, la ley da un paso más en esa línea regulando una nueva tipología de vivienda de protección pública en el medio rural con características propias y diferentes a la vivienda del medio urbano.
+La ley da protagonismo a las entidades locales en materia de vivienda y las hace partícipes de la política de vivienda, regulando expresamente los planes municipales de vivienda para municipios de más de 20.000 habitantes, así como la financiación de las actuaciones que éstos pueden llevar a cabo en materia de promoción y gestión de viviendas, fundamentalmente de viviendas de protección pública, sobre suelos incluidos en los distintos patrimonios públicos de suelo.
+Pero además, se prevé la posibilidad de planes de ámbito supramunicipal para aquellos municipios que, sin llegar a los 20.000 habitantes, necesiten de un instrumento propio en materia de vivienda, adaptado a sus necesidades específicas.
+En todo caso, se garantiza la participación ciudadana en la elaboración de los instrumentos de planificación señalados.
+V
+La ley parte de unos principios que impregnan todo el texto normativo, dentro de los cuales debemos destacar el de la transparencia e igualdad en el acceso a una vivienda de protección pública; sin olvidar otros principios como el de la sostenibilidad, accesibilidad, habitabilidad y calidad de los edificios y viviendas.
+Pero a la vez, y no menos importante que lo anterior, la ley se concibe de tal manera que trata de resolver las distintas cuestiones que en materia de vivienda en general y de vivienda protegida en particular han ido surgiendo a lo largo de estos años de andadura de la Comunidad Autónoma.
+La presente ley se estructura en nueve títulos: el preliminar, relativo al objeto y los principios generales de la política de vivienda; el título primero, relativo a las competencias y a la planificación en materia de vivienda; el título segundo, dedicado a la calidad de las viviendas; el título tercero, relativo a la protección de los adquirentes y arrendatarios de viviendas; el título cuarto abarca todo el régimen de las viviendas de protección pública; el título quinto, las actuaciones para el fomento del alquiler; el título sexto se refiere a la colaboración público privada; el título séptimo regula los órganos colegiados en materia de vivienda; el octavo y último título se dedica a regular el régimen sancionador. Además se recogen dos disposiciones adicionales, cinco disposiciones transitorias, una derogatoria y siete finales.
+VI
+En el Título Preliminar se establece el objeto de la ley que no es otro que regular el derecho a la vivienda de los ciudadanos de Castilla y León. Para hacer efectivo este derecho, la ley regula pormenorizadamente, siguiendo una sistemática lógica, las competencias y planificación en materia de vivienda; la calidad y habitabilidad de las viviendas; la protección de los adquirentes y arrendatarios de viviendas; el régimen legal de las viviendas de protección pública, y el régimen sancionador.
+En este título se fijan los principios generales que impregnan todo el texto normativo; dentro de los cuales destaca el principio de igualdad en el derecho de acceso a una vivienda de protección pública. Se trata de consagrar, a nivel legal, este derecho, que por otra parte la Comunidad de Castilla y León ya había establecido en la regulación del Registro de Demandantes de Viviendas Protegidas en Castilla y León y del Procedimiento para la Selección de los adquirentes y arrendatarios de viviendas protegidas en Castilla y León.
+Por último, en este título se recogen los colectivos o personas que van a tener una especial protección a lo largo del texto legal.
+VII
+El Título I tiene por objeto el establecimiento, de acuerdo con los planteamientos expresados por el Tribunal Constitucional en su sentencia 152/1988, de las competencias que en materia de vivienda les corresponde a las distintas Administraciones Públicas. Con ello, se persigue un doble fin. Por una parte, se gana en seguridad jurídica para los distintos actores que participan en el mercado inmobiliario, que van a conocer desde el primer instante a cuál, de los distintos poderes públicos, le corresponde actuar en cada momento. Ello va a suponer un nivel de exigencia por parte de aquéllos y de continua mejora por parte de éstos, en beneficio de la sociedad y del ciudadano. Y por otra parte, se ha querido dar un mayor protagonismo a las entidades locales, fomentando la concertación de la Administración General de la Comunidad Autónoma con éstas y con la iniciativa pública y privada, con el fin de impulsar y fomentar el mercado de la vivienda protegida a lo largo de todo el territorio de Castilla y León.
+Además este Título Primero regula la planificación en materia de vivienda. Se configura el Plan de Vivienda de Castilla y León como el elemento integrador de las medidas de fomento, esto es, de impulso y de incentivo, que desde la Administración de Castilla y León se pretende realizar. Modulando, en su caso, las actuaciones o medidas contempladas por la Administración General del Estado en sus distintos planes de financiación, ya que las competencias del Estado se circunscriben a las bases de ordenación del crédito y a las de planificación y coordinación de la actividad económica (artículo 149.1.11.ª y 13.ª de la Constitución Española).
+VIII
+El Título II regula la calidad de las viviendas y de los edificios con el fin de asegurar un nivel adecuado y suficiente de durabilidad, de accesibilidad y de eficiencia energética, que permitan mejorar las condiciones de confort de aquéllas.
+La ley propone el establecimiento de una arquitectura bioclimática que tenga en cuenta el clima, tan variado en el territorio de Castilla y León, y las condiciones del entorno, con el fin de conseguir un confort térmico interior. El uso de ciertos materiales autóctonos con propiedades térmicas, el abrigo del suelo o los ventanales orientados adecuadamente son algunas de las posibilidades que permite este tipo de arquitectura que, en definitiva, no sólo va a redundar en beneficio de los propios usuarios de las viviendas, sino también en beneficio de la sociedad en general.
+En este Título se regula de forma pormenorizada el Libro del Edificio, que se configura como una gran herramienta técnica para un adecuado mantenimiento y conservación de los edificios de viviendas, pero también como una gran herramienta jurídica para hacer valer los derechos de los usuarios finales de los mismos, al recoger las distintas obligaciones que pesan sobre los distintos agentes del proceso edificatorio. Y es de gran trascendencia para conocer la génesis del edificio y del proceso constructivo.
+Por último, se regula la Inspección Técnica de los edificios y se considera que debe ser esta ley la que regule y ponga las bases para un desarrollo reglamentario posterior. La Inspección Técnica de los edificios se configura como el instrumento que permitirá mantener en perfectas condiciones de uso y habitabilidad los distintos edificios, con independencia de la edad de los mismos. El resultado de las inspecciones se incorporará en el Libro del Edificio, garantizando, de esta manera, su continua actualización.
+IX
+El Título III, bajo la rúbrica «Protección de los adquirentes y arrendatarios de viviendas», trata de profundizar en los derechos de quienes compren o arrienden una vivienda, con especial atención cuando se trate de una vivienda de protección pública.
+Se establece el carácter vinculante para el promotor y exigible por parte del comprador o arrendatario de las características y condiciones de las viviendas, y sus anejos, ofrecidas en la publicidad.
+Se regula de forma pormenorizada la información que los promotores o los propietarios de las viviendas deben facilitar a los compradores o arrendatarios. En todo caso, se exige un plus de información en el caso de que la vivienda a comprar, en primera o ulterior transmisión, o a alquilar sea una vivienda de protección pública. En este sentido, resulta fundamental conocer el precio máximo de venta o renta, los derechos y prerrogativas de la Administración y el conjunto de limitaciones y prohibiciones a la facultad de disponer que tiene la vivienda de protección pública.
+Además, en este título se establece el régimen de las cantidades anticipadas para la construcción de las viviendas y el régimen del depósito de las fianzas de los contratos de arrendamiento y de suministro y servicios que afecten a fincas urbanas.
+X
+El Título IV dispone el régimen de protección pública, de forma que se regulan en un único texto legal, sin perjuicio de su desarrollo reglamentario, todos los aspectos que afectan a la vivienda de protección pública, siguiendo una secuencia lógica y comprensible para los distintos operadores jurídicos.
+En este sentido, la ley parte de la regulación exhaustiva de la vivienda de protección pública, a) su definición; b) los aspectos que se refieren al régimen de uso, teniendo en cuenta, junto a los tradicionales de venta o alquiler, la posibilidad del alquiler con opción de compra; c) las clases de viviendas de protección pública; d) la particularidad de la vivienda de protección pública en el medio rural y el alojamiento protegido en suelo dotacional; e) el valor del suelo en la promoción de viviendas de protección pública; f) el plazo del régimen legal de protección y la prohibición de la descalificación voluntaria; g) el precio máximo de venta y el precio de referencia para el alquiler; h) la calidad de las viviendas de protección pública; i) la calificación provisional y la definitiva, manteniendo el tradicional régimen dual por la propia dinámica del proceso constructivo, puesto que el promotor necesita una declaración administrativa previa de acogimiento al régimen de viviendas protegidas, con objeto de obtener la financiación oportuna, entre otras finalidades, y la Administración debe reservarse la competencia para decidir que el resultado edificatorio final se ajusta a las condiciones previas presentadas en el proyecto inicial y que sirvió de base para el otorgamiento de la calificación provisional; j) finalmente, el destino y ocupación de las viviendas.
+Se concretan, asimismo, las distintas formas de promoción de la vivienda protegida, distinguiendo en primer lugar entre promoción pública y promoción privada. Igualmente se regula la figura del autopromotor y del promotor para uso propio, entendiendo como tal a las personas físicas, agrupadas en cooperativas de viviendas, en comunidades de propietarios o en cualquier otra entidad cuya naturaleza determine que sus socios o partícipes resulten adjudicatarios o arrendatarios de viviendas, que decidan, impulsen, programen y financien, con medios propios o ajenos, viviendas de protección pública destinadas a satisfacer la necesidad de vivienda de sus socios o partícipes.
+Este título de la ley determina el acceso a las viviendas de protección pública, estableciendo como principio fundamental el de la igualdad. En este sentido, se distingue entre titulares y destinatarios o usuarios de las viviendas protegidas. Se regula de forma clara cuáles son los requisitos para poder acceder a las viviendas de protección pública, distintos, en su caso, de los necesarios para acceder a la financiación de éstas. Se da rango legal a la existencia del Registro Público de Demandantes de Viviendas Protegidas de Castilla y León, como el instrumento para hacer efectivo el principio de igualdad en el acceso a las viviendas de protección pública.
+Asimismo se regulan las formas de transmisión de las viviendas de protección pública, las cláusulas obligatorias y el visado de los contratos de compraventa y arrendamiento, los plazos de entrega a sus destinatarios y los cambios de uso o destino así como las prohibiciones y limitaciones a la facultad de disponer.
+Seguidamente, se establecen los derechos y prerrogativas de las Administraciones Públicas. En este sentido, la calificación de una vivienda como de protección pública supone la sujeción de ésta a los derechos de adquisición preferente y retracto a favor de la Administración de la Comunidad de Castilla y León o del Ayuntamiento respectivo en el caso de Patrimonios Municipales de Suelo.
+También se regula la potestad de desahucio y de imponer multas coercitivas a favor de las Administraciones Públicas y, por último, la posibilidad de declarar otras actuaciones protegidas.
+XI
+El Título V se refiere al fomento del alquiler y se centra en las actuaciones que comprende el programa del mismo nombre así como enumerando los incentivos que tanto para arrendadores y arrendatarios tiene el mismo.
+XII
+El Título VI, bajo la rúbrica de la «Colaboración público privada», hace referencia a la necesidad de establecer cauces de colaboración y participación entre los distintos agentes o actores que forman parte del mercado inmobiliario, entre los cuales hay que hacer referencia a los Notarios y Registradores de la Propiedad; los Colegios Profesionales directamente relacionados con la vivienda, como arquitectos y aparejadores, entre otros; las Cámaras de la Propiedad Urbana; las entidades financieras; y cualesquiera otros que están directamente relacionados con esta materia.
+XIII
+El Título VII regula los órganos colegiados en materia de vivienda. En primer lugar, se regula el Consejo de Vivienda de Castilla y León como órgano consultivo destinado a asegurar la coordinación administrativa y la participación social en la elaboración y ejecución de la planificación en materia de vivienda. Y en segundo lugar, las Comisiones Territoriales de Vivienda en las distintas provincias de Castilla y León como uno de los órganos que tiene como función, entre otras, la de intervenir en los procesos de selección de adquirentes y arrendatarios de viviendas de protección pública en Castilla y León.
+XIV
+El Título VIII regula el régimen sancionador en materia de vivienda. El cumplimiento de los principios de legalidad y tipicidad de las infracciones y sanciones administrativas establecidos en el artículo 25 de la Constitución Española y en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, exigía dotar a la Comunidad de Castilla y León de una ley que de forma completa regulase las infracciones y sanciones en materia de vivienda en general, y de vivienda protegida en particular. Se actualiza el catálogo de infracciones administrativas, así como los importes de las sanciones que pueden llegar hasta 90.000 euros en el caso de infracciones muy graves, sin que, en ningún caso, la multa suponga un beneficio para el infractor.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente ley tiene como objeto establecer las normas pertinentes para hacer efectivo en Castilla y León el derecho a disfrutar de una vivienda digna y adecuada.
+2. A tal efecto, la ley regula:
+a) Las medidas administrativas de fomento y garantía de la calidad de las viviendas.
+b) El régimen de las viviendas de protección pública.
+c) La protección de adquirentes y arrrendatarios de viviendas.
+d) Las competencias de las Administraciones Públicas de Castilla y León en materia de vivienda.
+e) El establecimiento de técnicas de planificación y de coordinación, cooperación y colaboración que garanticen la eficacia de la actuación pública en materia de vivienda.
+f) El programa de fomento del alquiler.
+g) Los órganos colegiados con competencias en materia de vivienda.
+h) El régimen sancionador en materia de vivienda.
+
+### Artículo 2
+
+Artículo 2. Principios generales de la política de vivienda.
+La política de vivienda de las Administraciones Públicas de Castilla y León, al servicio de los ciudadanos de Castilla y León, se sujetará a los siguientes principios:
+a) La contribución a hacer efectivo el derecho a disfrutar de una vivienda digna, adecuada y accesible a las personas que tengan algún tipo de discapacidad, en condiciones de igualdad, con atención preferente a los colectivos de especial protección recogidos en la presente ley.
+b) La protección de los derechos de los ciudadanos en la adquisición o arrendamiento de una vivienda.
+c) La garantía de la calidad, habitabilidad, uso y diseño de la vivienda, libre de ruido y otras inmisiones contaminantes, emplazada en un entorno urbano adecuado, y accesible a las personas con algún tipo de discapacidad.
+d) La promoción e impulso de la construcción de las viviendas necesarias de forma sostenible y compatible con el medio ambiente y los recursos naturales, mediante la aplicación de técnicas de eficiencia energética y energías renovables.
+e) La garantía, en condiciones de igualdad, de acceso de todos los castellanos y leoneses a una vivienda de protección pública, en razón de sus características socioeconómicas y patrimoniales.
+f) La contribución a que el esfuerzo económico de las familias castellanas y leonesas para acceder a una vivienda de protección pública no supere una tercera parte de sus ingresos.
+g) El equilibrio entre las diferentes tipologías de vivienda de protección pública, para atender a la también diferente demanda de cada una de ellas, en aquellos suelos que, de acuerdo con los instrumentos de planeamiento urbanístico, estén reservados a la promoción de viviendas de protección pública.
+h) La transparencia en la transmisión y arrendamiento de las viviendas de protección pública mediante el establecimiento de mecanismos y procedimientos que garanticen la igualdad, publicidad y concurrencia en el acceso a la misma.
+i) La conservación y mantenimiento del patrimonio inmobiliario de Castilla y León mediante la actuación rehabilitadora.
+j) El acceso de los ciudadanos a los servicios de información que presta la Comunidad de Castilla y León.
+k) El establecimiento, desarrollo y ejecución de una planificación en materia de vivienda de acuerdo con las necesidades reales de los ciudadanos y de sus circunstancias personales, sociales, económicas y laborales.
+l) La satisfacción de las necesidades de vivienda en el marco de la economía de mercado garantizando la libertad de empresa y la no distorsión de la libre concurrencia.
+m) El ejercicio, de forma coordinada y de acuerdo con el principio de lealtad institucional, de las competencias que cada una de las Administraciones Públicas tienen en materia de vivienda mediante el establecimiento de los oportunos cauces de cooperación y colaboración para ello.
+
+### Artículo 3
+
+Artículo 3. Concepto de vivienda y anejos.
+1. A los efectos de esta ley, se entiende por vivienda la edificación habitable destinada a residencia de las personas físicas, independientemente de su titularidad jurídica.
+2. Las viviendas deberán reunir los requisitos de calidad, diseño, superficie, uso, entorno y ubicación que se establezcan en la presente ley y en su desarrollo reglamentario.
+3. A los efectos de esta ley, tendrán la consideración de anejos, los garajes, trasteros y otros elementos vinculados o no a la vivienda.
+
+### Artículo 4
+
+Artículo 4. Igualdad en el derecho de acceso a una vivienda de protección pública.
+1. Es obligación de todas las Administraciones Públicas de Castilla y León, dentro de sus respectivas competencias, adoptar las medidas necesarias para, cuando se acredite que la necesidad de vivienda no puede satisfacerse de otro modo mediante un esfuerzo razonable, hacer efectivo el derecho de acceso a una vivienda de protección pública en condiciones de igualdad; de conformidad con la regulación sobre procedimientos de selección de adquirentes y arrendatarios de viviendas de protección pública en la Comunidad de Castilla y León.
+2. El acceso a las viviendas de protección pública se supeditará al cumplimiento de los requisitos y condiciones establecidos en la presente ley, en sus disposiciones de desarrollo y en los correspondientes planes de vivienda.
+
+### Artículo 5
+
+Artículo 5. Colectivos de especial protección en el acceso a la vivienda de protección pública.
+1. Tendrán la consideración de colectivos de especial protección en el acceso a la vivienda de protección pública, los siguientes:
+a) Las familias, y en particular las familias numerosas, las familias monoparentales con hijos menores de edad a cargo, o bien con hijos mayores de edad en situación de dependencia, así como las familias con parto múltiple o adopción simultánea, conforme a la Ley 1/2007, de 7 de marzo, de medidas de apoyo a las familias de la Comunidad de Castilla y León.
+b) Las personas dependientes o con discapacidad, así como las familias en las que convivan.
+c) Las personas mayores de 65 años, así como las familias en las que convivan.
+d) Los jóvenes menores de 36 años.
+e) Las víctimas de violencia de género y de terrorismo.
+f) Las unidades familiares o de convivencia en riesgo de exclusión social por alguna de las siguientes circunstancias:
+– Que todos sus miembros se encuentren en situación de desempleo o afectados por expedientes de regulación de empleo.
+– Que sus ingresos familiares máximos corregidos no superen 1,5 veces el Indicador Público de Renta de Efectos Múltiples (IPREM).
+g) Los deudores hipotecarios que se encuentren en un procedimiento de ejecución hipotecaria judicial o extrajudicial.
+h) Las personas que pierdan el derecho a usar la vivienda que constituya su residencia habitual y permanente por sentencia firme de separación, divorcio o nulidad matrimonial.
+i) Las personas que habiten una vivienda sujeta a expediente de expropiación o situada en un inmueble que haya sido declarado en ruina.
+j) Las personas que habiten un alojamiento provisional como consecuencia de operaciones de emergencia o situaciones catastróficas que hayan implicado la pérdida de la vivienda, u otro tipo de alojamiento cedido en precario por administraciones públicas u otras personas jurídicas.
+k) Las personas que habiten, mediante título legal, una vivienda con deficientes condiciones de habitabilidad o superficie inadecuada a la composición familiar, entendiendo como tales:
+– Las viviendas de superficie útil total inferior a 30 metros cuadrados.
+– Las viviendas con una superficie útil por persona inferior a 10 metros cuadrados.
+– Las viviendas con deficiencias de habitabilidad cuyo coste de reparación ascienda a más del 50 por ciento del valor de venta de las mismas.
+– Las viviendas donde habiten personas con movilidad reducida y que, a causa de sus propias condiciones o de los elementos comunes del edificio, no tengan la consideración de accesibles, conforme a la normativa de accesibilidad.
+l) Castellanos y leoneses en el exterior que se encuentren en condiciones de especial necesidad y soliciten ser retornados.
+2. A los inmigrantes que residan legalmente en la Comunidad de Castilla y León les serán de aplicación los derechos y obligaciones previstos en la presente ley en la adquisición, arrendamiento y uso de una vivienda.
+3. El acceso a una vivienda de protección pública de los colectivos recogidos en este artículo estará condicionado al cumplimiento de los requisitos establecidos.
+4. Reglamentariamente se establecerá la priorización entre los colectivos a que se refiere el apartado uno de este artículo en función de la mayor necesidad de protección.
+Se modifica el apartado 1.d) por el art. 22.1 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 1 y se añade el 4 por la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a3.
+ Se modifica el apartado 1 por el art. 3 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+## TÍTULO I
+
+Competencias y planificación
+
+## CAPÍTULO I
+
+Competencias de las Administraciones Públicas
+
+### Artículo 6
+
+Artículo 6. Competencias de la Administración de la Comunidad de Castilla y León.
+1. La Administración de la Comunidad de Castilla y León es competente para desarrollar una política propia en materia de vivienda que incluya, entre otras, las siguientes facultades:
+a) El desarrollo reglamentario y aplicación de la legislación autonómica y estatal sobre edificación, seguridad, higiene, habitabilidad, diseño y calidad de las viviendas, así como en materia de protección del consumidor y usuario de éstas, y cuantas otras competencias no hayan sido atribuidas a otras Administraciones Públicas.
+b) El fomento y la promoción de la construcción de viviendas de protección pública que sean necesarias en función de la demanda, con el fin de contribuir a garantizar la efectividad del derecho a la vivienda.
+c) El ejercicio de la potestad reglamentaria en materia de vivienda de protección pública, y en particular, la regulación de los requisitos objetivos y subjetivos para acceder a este tipo de viviendas y a las ayudas públicas que se otorguen, las clases de ayudas públicas y las limitaciones de uso, destino y disposición que sean precisas.
+d) La integración, en su política general de vivienda, de las medidas de financiación y modalidades de ayudas estatales para el cumplimiento de las finalidades a que responden, con capacidad suficiente para modular, en su caso, las reglas generales.
+e) Cualquier otra que se le atribuya en las leyes y sus normas de desarrollo.
+2. Para el ejercicio de esas competencias, la Administración de la Comunidad actuará de acuerdo con los principios de coordinación y colaboración con los entes locales, así como de colaboración y concertación con los distintos agentes de iniciativa privada o pública que actúan sobre el mercado de la vivienda.
+
+### Artículo 7
+
+Artículo 7. Competencias de las Entidades Locales.
+1. Los municipios, bajo el principio de autonomía para la gestión de sus intereses, ejercerán sus competencias de vivienda de acuerdo con lo establecido por la legislación de régimen local, la legislación urbanística, la presente ley y cualquier otra normativa que resulte de aplicación.
+Asimismo podrán llevar a cabo la suscripción de convenios y concertar actuaciones con otras administraciones y agentes de iniciativa pública y privada que actúan sobre el mercado de vivienda de protección pública y libre.
+2. Los municipios que, por su dimensión o por falta de recursos, tengan dificultades para ejercer sus competencias en materia de vivienda podrán solicitar a la Diputación Provincial la prestación de asistencia técnica, financiera y jurídica, sin perjuicio de la cooperación económica, técnica y administrativa que la Administración de la Comunidad de Castilla y León puede prestar a través de convenios u otras fórmulas jurídicas de colaboración.
+
+### Artículo 8
+
+Artículo 8. Transmisiones de suelos en el sector público.
+Las Administraciones Públicas de Castilla y León competentes, y las empresas públicas de su titularidad que tengan por objeto la actividad urbanizadora o la promoción de viviendas de protección pública, podrán transmitir directamente, a título oneroso o gratuito, con reserva o no de titularidad, suelo destinado a la promoción y construcción de viviendas sujetas a algún tipo de protección pública, sin perjuicio del cumplimiento de lo previsto en la legislación local y patrimonial de las Administraciones públicas.
+En todo caso, y con referencia a los patrimonios públicos de suelo será de aplicación la legislación urbanística.
+
+## CAPÍTULO II
+
+Planificación
+
+### Artículo 9
+
+Artículo 9. El Plan de Vivienda de Castilla y León.
+1. El Plan de Vivienda de Castilla y León es el instrumento estratégico para la racionalización y gestión eficaz del conjunto de actuaciones públicas que en materia de vivienda se desarrollarán en Castilla y León, y constituye el elemento integrador fundamental de la totalidad de las medidas que desde la Administración Autonómica se pretenden realizar en materia de vivienda.
+2. El Plan de Vivienda de Castilla y León comprenderá las previsiones, objetivos y programación de las actuaciones en materia de vivienda así como la adecuación, en su caso, de las medidas de financiación de las restantes Administraciones Públicas.
+
+### Artículo 10
+
+Artículo 10. Contenido.
+(Derogado)
+Se deroga por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 11
+
+Artículo 11. Tramitación y aprobación.
+1. La Consejería competente en materia de vivienda elaborará el Plan de Vivienda correspondiendo su aprobación a la Junta de Castilla y León.
+2. El Plan podrá ser objeto de desarrollo mediante planes específicos referidos a ámbitos territoriales, actuaciones o colectivos específicos.
+
+### Artículo 12
+
+Artículo 12. Los Planes Municipales de Vivienda.
+Los planes municipales de vivienda son el instrumento para la planificación y gestión eficaz del conjunto de actuaciones que en materia de vivienda desarrollan las entidades locales y contendrán las propuestas y los compromisos municipales en política de vivienda.
+
+### Artículo 13
+
+Artículo 13. Contenido de los Planes Municipales de Vivienda.
+(Derogado)
+Se deroga por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio.Ref. BOCL-h-2013-90021.
+
+### Artículo 14
+
+Artículo 14. Tramitación y aprobación de los Planes Municipales de Vivienda.
+1. La tramitación y aprobación de los planes municipales de vivienda debe ajustarse a lo que la legislación de régimen local establece respecto al régimen de funcionamiento y de adopción de acuerdos.
+El Ayuntamiento debe comunicar el acuerdo de aprobación del plan municipal de vivienda a la Consejería competente en materia de vivienda y deberá ser objeto de publicación en el Boletín Oficial de Castilla y León.
+2. En los municipios con población igual o superior a 20.000 habitantes o que cuenten con Plan General de Ordenación Urbana resultará obligatoria la aprobación de un Plan Municipal de Vivienda, conforme a lo establecido en los artículos anteriores, para realizar políticas de concertación o de colaboración en materia de vivienda con la Administración de la Comunidad de Castilla y León, siempre que incluyan financiación o aportación de recursos económicos por parte de ésta.
+
+### Artículo 15
+
+Artículo 15. Los planes de vivienda en áreas rurales.
+1. Cuando en una determinada área rural, concurran motivos de índole territorial, económica, social o demográfica, podrán aprobarse planes territoriales de vivienda que afecten a varios municipios siempre que tengan características homogéneas.
+2. Estos planes contendrán las previsiones que la presente ley señala para los planes municipales de vivienda, adaptándose al ámbito territorial al que se refieren.
+3. La aprobación de los planes de vivienda en áreas rurales corresponderá a la Consejería competente en materia de vivienda, previo informe de la Diputación o Diputaciones Provinciales correspondientes, a propuesta de los municipios afectados, conforme a lo dispuesto en la legislación local.
+
+## TÍTULO II
+
+Calidad de las viviendas
+
+## CAPÍTULO I
+
+Exigencias técnicas
+
+### Artículo 16
+
+Artículo 16. Requisitos de la edificación.
+Las viviendas de obra nueva y las que resulten de la alteración de la configuración arquitectónica de los edificios deben cumplir las condiciones de calidad relativas a la funcionalidad, seguridad, salubridad, accesibilidad y sostenibilidad fijadas en la normativa vigente.
+
+### Artículo 17
+
+Artículo 17. Fomento de accesibilidad.
+1. La Comunidad de Castilla y León impulsará medidas de fomento de la accesibilidad en las viviendas, a fin de que se lleven a cabo las obras de transformación necesarias para que los interiores de las mismas, o los elementos y los servicios comunes del edificio, sean utilizables por todas las personas, y en especial las que tengan algún tipo de discapacidad, con los requisitos establecidos en la legislación aplicable.
+2. Cuando deban llevarse a cabo en los edificios de viviendas las obras necesarias para el cumplimiento de la normativa en materia de accesibilidad y supresión de barreras arquitectónicas, de conformidad con la legislación sectorial aplicable así como la normativa en materia de propiedad horizontal, concurrirá interés social como causa para el ejercicio de la potestad expropiatoria por la Administración local y para la urgencia a los fines expropiatorios.
+El beneficiario de la expropiación deberá justificar la necesidad de llevar a cabo las obras de adecuación con un informe técnico y una memoria en los que se contenga la información precisa sobre la obra a realizar así como la acreditación de la imposibilidad de acudir a otras alternativas que resulten menos gravosas al derecho de propiedad.
+
+### Artículo 18
+
+Artículo 18. Garantías de la calidad.
+1. La Consejería competente en materia de vivienda elaborará un Plan Integral de Calidad, en el que se recogerán las medidas de garantía de la calidad aplicables tanto en el control de los proyectos, de los materiales y de las unidades de obra, como en las pruebas de servicio correspondientes, y las relativas a las condiciones de uso y mantenimiento de las viviendas.
+2. (Derogado).
+Se deroga el apartado 2 por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este apartado ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga el apartado 2 por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 19
+
+Artículo 19. Ahorro energético y sostenibilidad.
+1. La Comunidad de Castilla y León promoverá e incentivará las condiciones necesarias para la adopción de soluciones técnicas que comporten medidas de ahorro y eficiencia de energía y agua, y, en general, las exigencias de la arquitectura sostenible de acuerdo con criterios bioclimáticos.
+2. En particular, fomentará la utilización de materiales reciclados y no contaminantes que, por su composición o estructura, se adecuen mejor a las condiciones climáticas y de construcción propias de la zona en que se realice la obra, con el objeto de racionalizar el mantenimiento y evitar impactos ambientales negativos.
+3. También se impulsará la preservación del medio ambiente, mediante la utilización de fuentes de energía renovables para el calentamiento de agua, la producción de electricidad y para calefacción y refrigeración, así como la gestión de los residuos generados por la construcción.
+4. (Derogado)
+5. Igualmente fomentará la investigación e innovación en el sector de la construcción.
+Se deroga el apartado 4 por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este apartado ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga el apartado 4 por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+## CAPÍTULO II
+
+Libro del Edificio
+
+### Artículo 20
+
+Artículo 20. Concepto y contenido.
+1. El Libro del Edificio es el conjunto de documentos, cualquiera que sea su soporte, que recoge la información técnica y jurídica del edificio así como las incidencias que puedan afectarle.
+2. Sin perjuicio de lo previsto en la legislación sobre ordenación de la edificación, el Libro del Edificio contendrá los siguientes documentos y/o especificaciones:
+a) Identificación del edificio y plano de su emplazamiento.
+b) Las fechas de la licencia de obras, del comienzo y finalización de la obra y de la licencia de primera ocupación o de la presentación de su solicitud, y copia de la misma si ya se hubiera obtenido y, en su caso, la calificación definitiva.
+c) Datos identificativos de los agentes intervinientes en el proceso de edificación.
+d) Los datos técnicos de la construcción.
+e) El acta de recepción.
+f) Información sobre la situación jurídica del edificio.
+g) Las instrucciones de uso y mantenimiento del edificio y de sus instalaciones.
+h) Identificación de los seguros de daños materiales o de caución a que hace referencia el artículo 19 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación.
+3. Los propietarios tienen la obligación de consignar en el Libro del Edificio las obras de reforma o rehabilitación que se realicen así como las tareas de mantenimiento, inspecciones técnicas y posibles incidencias.
+4. Reglamentariamente se desarrollarán los aspectos relativos al contenido del Libro del Edificio.
+
+### Artículo 21
+
+Artículo 21. Entrega y depósito.
+1. Los promotores deben entregar el Libro del Edificio al primer adquirente y, en posteriores transmisiones, el libro debe entregarse siempre al nuevo adquirente. En caso de una comunidad de propietarios, debe entregarse el libro a su presidente, dando conocimiento de su existencia al resto de propietarios, así como que lo tienen a su disposición.
+2. En los términos previstos en la normativa que resulte de aplicación, el promotor deberá proceder al depósito de un ejemplar del Libro del Edificio, acompañado de la certificación del arquitecto director de la obra, en que se acredite que ése es el Libro del edificio y que le ha sido entregado al promotor.
+
+## CAPÍTULO III
+
+Inspección técnica de los edificios de viviendas
+
+### Artículo 22
+
+Artículo 22. Responsabilidad en el uso y habitabilidad de la vivienda.
+1. Es responsabilidad de los titulares y usuarios de las viviendas mantenerlas en condiciones de uso y habitabilidad, y llevar a cabo las obras que fueren precisas para su mantenimiento o reposición.
+2. A fin de verificar el cumplimiento de las condiciones previstas en el apartado anterior, deberán llevarse a cabo periódicamente inspecciones técnicas de los edificios de viviendas, en los términos previstos en la normativa urbanística, así como en la normativa que en desarrollo de la presente ley pudiera dictarse.
+
+## TÍTULO III
+
+Protección de los adquirentes y arrendatarios de viviendas
+
+## CAPÍTULO I
+
+Publicidad e información
+
+### Artículo 23
+
+Artículo 23. La publicidad de la vivienda.
+1. Toda publicidad destinada a promover la adquisición o arrendamiento de las viviendas debe ajustarse a los siguientes principios:
+a) Claridad, exactitud y veracidad de la información relativa a las características de las viviendas, sus servicios e instalaciones, así como a las condiciones jurídicas y económicas de adquisición o arrendamiento.
+b) No omisión de datos esenciales, que pueda inducir a los destinatarios a error con repercusiones económicas.
+2. La publicidad deberá contener, como mínimo, las siguientes referencias:
+a) La identificación del promotor o propietario.
+b) Emplazamiento del edificio.
+c) La descripción de la vivienda con mención de superficie útil y construida y, en su caso, de los anejos vinculados o no a ésta.
+d) Especificación de si las viviendas se encuentran terminadas, en fase de construcción o sólo proyectadas.
+e) Precio de venta o de arrendamiento y, en su caso, las condiciones básicas de financiación.
+f) Entidad que, en su caso, garantiza las cantidades entregadas a cuenta.
+g) Cuando se trate de viviendas de protección pública deberá hacerse mención expresa de tal circunstancia.
+
+### Artículo 24
+
+Artículo 24. La publicidad de los anejos.
+1. La publicidad relativa a viviendas con trasteros, plazas de garaje u otros espacios análogos que puedan prestar un servicio accesorio, indicará necesariamente si se trata o no de anejos jurídicamente vinculados, e incluirá información complementaria sobre sus características concretas.
+2. En la publicidad deberá ofrecerse, en su caso, información separada y diferenciada sobre la vivienda y sobre la superficie útil de los anejos, su precio y ubicación.
+
+### Artículo 25
+
+Artículo 25. Exigibilidad del contenido de la publicidad.
+Las características y condiciones de las viviendas, sus anejos, servicios e instalaciones comunes, ofrecidas en la publicidad para promover su venta o arrendamiento serán exigibles por el comprador o arrendatario, aun en el caso de que no se hiciera mención específica a alguna de ellas en el contrato.
+
+### Artículo 26
+
+Artículo 26. Información.
+Los ciudadanos deberán recibir, por parte de todos los intervinientes en la edificación destinada a la venta o arrendamiento de las viviendas, una información veraz, objetiva y suficiente, de forma que no pueda inducir a error o confusión.
+
+### Artículo 27
+
+Artículo 27. Información para la venta en primera transmisión.
+Los promotores deberán proporcionar en su oferta de venta a los adquirentes de viviendas en primera transmisión, la información básica sobre sus características, que necesariamente incluirá los siguientes aspectos:
+a) Identificación del promotor y constructor: nombre o razón social, domicilio e inscripción en el registro mercantil o los registros públicos correspondientes.
+b) Condiciones económicas de la transmisión: precio total, con indicación de las tasas y de los impuestos que la gravan y que legalmente le corresponden al comprador, y los demás gastos inherentes al contrato que le son imputables; pagos aplazados y sus intereses, así como las condiciones para su aplicación; garantías para el aseguramiento del cobro de las cantidades entregadas a cuenta, mencionando la entidad garante y la cuenta especial en la que hayan de efectuarse los ingresos con sujeción a la normativa aplicable.
+c) Características esenciales de la vivienda: los materiales utilizados en la construcción, la orientación principal, el grado de aislamiento térmico y acústico, las medidas de ahorro energético, los servicios e instalaciones de que dispone, tanto individuales como comunes del edificio o complejo inmobiliario del que forma parte. Igualmente se acompañará plano de emplazamiento y plano acotado a escala de la vivienda.
+d) Información jurídica del inmueble: identificación registral de la finca, con la referencia de las cargas, gravámenes y afecciones de cualquier naturaleza y la cuota de participación fijada en el título de propiedad, en su caso.
+e) Información administrativa: en el caso de una oferta de transmisión de viviendas en proyecto o en construcción, información sobre la licencia de obras y, si las obras han finalizado, la fecha de la licencia de primera ocupación o de su solicitud si no se hubiera otorgado aún. Además, en el caso de viviendas de protección pública, la indicación de la fecha de la calificación provisional o definitiva, el precio máximo de venta fijado en aquélla así como los derechos y prerrogativas de la Administración y las limitaciones y prohibiciones a la facultad de disponer previstos en la presente ley.
+
+### Artículo 28
+
+Artículo 28. Información para la venta en segunda y posteriores transmisiones.
+La información de la oferta para la venta de viviendas en segunda o posteriores transmisiones deberá contener, al menos, los siguientes aspectos:
+a) Identificación del vendedor y, en su caso, de la persona física o jurídica que intervenga, en el marco de una actividad profesional o empresarial, para la mediación entre el vendedor y el comprador de la vivienda.
+b) Condiciones económicas de la transmisión: precio total y conceptos en éste incluidos, así como las condiciones de financiación que, en su caso, pudieran establecerse.
+c) Características esenciales de la vivienda: acreditación de la superficie útil y construida; la antigüedad del edificio, los servicios e instalaciones de que dispone, tanto individuales como comunes, y el estado de ocupación de la vivienda.
+d) Información jurídica del inmueble: la identificación registral de la finca, con la referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de participación fijada en el título de propiedad.
+e) En el caso de viviendas de protección pública, además de lo anterior, indicación expresa de tal circunstancia y de la sujeción al régimen legal de protección que le sea aplicable.
+
+### Artículo 29
+
+Artículo 29. Información para el arrendamiento.
+1. En los términos previstos en la legislación civil aplicable, los arrendadores deben proporcionar a los potenciales arrendatarios información suficiente sobre las condiciones esenciales de la vivienda, así como de las condiciones básicas del contrato.
+2. En particular, los arrendadores deben proporcionar información relativa a la descripción y condiciones físicas de la vivienda, con indicación de la superficie útil y de los servicios, instalaciones y suministros con que cuente así como los servicios comunes que tenga el edificio.
+3. En el caso de viviendas de protección pública deberá acompañarse información relativa a la calificación definitiva, en especial el precio máximo de renta.
+
+## CAPÍTULO II
+
+Especial protección en la compraventa de viviendas
+
+### Artículo 30
+
+Artículo 30. Reserva de viviendas.
+1. Para la reserva de vivienda, el vendedor deberá dar a conocer al comprador las características de la vivienda: su ubicación dentro del edificio, su superficie útil, el precio máximo de venta –haciendo referencia, si es el caso, a los anejos, con indicación expresa de si están vinculados o no– así como las fechas estimadas de inicio, finalización de obra y formalización del contrato de compraventa.
+2. En el caso de viviendas de protección pública, la cantidad en concepto de reserva no podrá ser superior al 1% del precio máximo de venta vigente en el momento de la firma del contrato.
+3. Las cantidades entregadas en concepto de reserva deberán ser garantizadas en los mismos términos que las cantidades anticipadas a cuenta del precio en las compraventas de viviendas, o, al menos, ser depositadas en una cuenta especial de titularidad del vendedor, independiente de cualquier otra clase de fondos; sin que pueda disponerse de ellas hasta la constitución de las garantías de las cantidades anticipadas a que se refiere el artículo 35 de la presente ley.
+
+### Artículo 31
+
+Artículo 31. Entrega de materiales de construcción.
+El promotor de las viviendas estará obligado a entregar al adquirente de las mismas un porcentaje de aquellos materiales que, en caso de rotura o deterioro, puedan ser sustituidos por el propietario de la vivienda, en los términos previstos reglamentariamente.
+
+## CAPÍTULO III
+
+Régimen de las cantidades anticipadas para la construcción de viviendas
+
+### Artículo 32
+
+Artículo 32. Cantidades anticipadas.
+1. En los términos previstos en la legislación vigente, los promotores podrán recibir de los compradores cantidades anticipadas, en concepto de reserva o adquisición de la vivienda.
+2. La entrega de cantidades anticipadas obligará al promotor a garantizar su devolución en el caso de que, por cualquier causa, la construcción no llegue a iniciarse o a concluirse en los plazos establecidos en el contrato.
+3. Para poder percibir cantidades anticipadas para la construcción de viviendas de protección pública, el promotor deberá haber obtenido la calificación provisional.
+En este caso, sólo se podrá percibir de los adquirentes hasta un máximo del 20% del precio total de la vivienda y de sus anejos, vinculados o no. No obstante, este porcentaje podrá ser mayor, sin que pueda superarse el 40%, cuando, a solicitud del adquiriente, lo autorice el órgano competente para dictar la calificación provisional de las viviendas.
+4. Excepcionalmente, en las promociones de viviendas realizadas por cooperativas de vivienda, comunidades de propietarios o cualquier otra entidad cuya naturaleza determine que sus socios o partícipes resulten adjudicatarios o arrendatarios de las viviendas, podrán percibirse de los interesados además de lo recogido en el apartado anterior las cantidades precisas para la adquisición del suelo en el que se emplazarán las viviendas.
+
+### Artículo 33
+
+Artículo 33. Constitución de las garantías de las cantidades anticipadas.
+1. Las cantidades entregadas como anticipo serán garantizadas mediante aval concedido por una entidad financiera o por seguro de caución. La garantía cubrirá el principal y los intereses legales desde la fecha de entrega de las cantidades hasta la fecha en que se haga efectiva la devolución.
+2. Los promotores no podrán repercutir el coste de constitución de las garantías a los adquirentes de las viviendas.
+3. Las cantidades anticipadas deberán ser ingresadas en una cuenta especial y sólo se podrá disponer de ellas para atender los gastos derivados de la construcción de las viviendas.
+4. Las cooperativas de vivienda, comunidades de propietarios -o cualquier otra entidad, cuya naturaleza determine que sus socios o partícipes resulten adjudicatarios o arrendatarios de las viviendas-, que perciban de los socios y comuneros cantidades anticipadas para la adquisición del suelo y la construcción de las viviendas, las depositarán en cuenta especial de titularidad del vendedor, con separación de otra clase de fondos, y sólo podrán disponer de las mismas para atender los gastos derivados de la construcción de las viviendas.
+
+### Artículo 34
+
+Artículo 34. Extinción y cancelación de las garantías de las cantidades anticipadas.
+Las garantías de las cantidades anticipadas sólo se extinguirán cuando, además de haberse obtenido la licencia de primera ocupación, se ponga la vivienda a disposición del adquirente.
+
+## CAPÍTULO IV
+
+Arrendamiento de viviendas
+
+### Artículo 35
+
+Artículo 35. Requisitos para el arrendamiento de viviendas.
+1. La formalización de los contratos de arrendamiento de viviendas en edificios cuya declaración de obra nueva terminada se produzca con posterioridad a la entrada en vigor de la presente ley, requerirá la previa obtención de la licencia de primera ocupación.
+2. En el caso de viviendas de protección pública será necesaria, además, la formalización y la obtención por escrito de la calificación definitiva.
+Excepcionalmente, en los supuestos previstos reglamentariamente, podrá formalizarse el contrato de arrendamiento, sin que se haya dictado la calificación definitiva, cuando el órgano competente para dictar ésta autorice la ocupación anticipada de la vivienda, a solicitud del arrendador y siempre que se hubiera obtenido la licencia de primera ocupación.
+
+### Artículo 36
+
+Artículo 36. Prestación de fianza en los contratos de arrendamiento de viviendas.
+1. En la formalización de los contratos de arrendamiento de vivienda es obligatoria la prestación de una fianza en los términos establecidos por la legislación sobre arrendamientos urbanos.
+2. Dicha fianza deberá depositarse en la forma y condiciones establecidas en el capítulo siguiente.
+
+## CAPÍTULO V
+
+Depósito de las fianzas de los contratos de arrendamiento y de suministro y servicios que afecten a fincas urbanas
+
+### Artículo 37
+
+Artículo 37. Obligatoriedad del depósito.
+1. Los arrendadores y subarrendadores de viviendas, estén o no destinadas a uso de vivienda, y del resto de fincas urbanas sujetos a la legislación vigente en materia de arrendamientos urbanos, estarán obligados a depositar a disposición del órgano de la Administración de la Comunidad que se determine reglamentariamente, el importe de las fianzas reguladas en dicha legislación, en el plazo de un mes a contar desde la fecha de formalización del contrato de arrendamiento.
+2. En aquellos casos en que sea exigible la prestación de fianzas para la formalización de contratos que afecten a fincas urbanas en garantía del pago del precio del servicio prestado en virtud del contrato, las empresas de suministros y servicios estarán obligadas a depositar su importe a disposición del órgano de la Administración de la Comunidad que se determine reglamentariamente.
+3. Los depósitos a los que se refieren los apartados anteriores no devengarán interés alguno.
+4. Están exentos de la obligación señalada en este artículo las Administraciones Públicas y el resto de entidades del sector público.
+Se modifica el apartado 1 por el art. 30.1 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+
+### Artículo 38
+
+Artículo 38. Realización del depósito.
+1. El depósito del importe de las fianzas a que se refiere el artículo anterior se realizará, según se determine reglamentariamente, por alguno o algunos de los modos siguientes:
+a) En régimen general, bien directamente en las oficinas correspondientes de la Caja General de Depósitos de la Comunidad de Castilla y León, o bien, en virtud del correspondiente convenio, en las Cámaras de la Propiedad Urbana u otras entidades análogas.
+b) Mediante un régimen de concierto con arrendadores cuyas fianzas superen la cantidad que se determine, así como con las empresas de suministros y servicios.
+2. Los arrendadores que se acojan al régimen de concierto y las empresas de suministros y servicios, a las que se aplicará en todo caso dicho régimen, deberán presentar durante el mes de enero de cada año declaración-liquidación que contenga un estado demostrativo de las fianzas constituidas, devueltas o aplicadas a las finalidades a que estén afectadas durante el año anterior. El saldo resultante determinará el depósito a realizar en función del porcentaje que sobre aquél se establezca reglamentariamente.
+
+### Artículo 39
+
+Artículo 39. Comunicación al arrendatario.
+El arrendador comunicará por escrito al arrendatario la realización del depósito en el plazo de un mes a contar desde la formalización del contrato, y le entregará una copia del documento acreditativo del depósito.
+
+### Artículo 40
+
+Artículo 40. Inspección.
+Los órganos competentes de la Administración de la Comunidad podrán desarrollar las tareas de inspección necesarias respecto del cumplimiento de las obligaciones establecidas en el presente capítulo. El personal al que se encomienden estas tareas tendrá la consideración de agente de la autoridad y las actas que levante gozarán de presunción de veracidad.
+
+### Artículo 41
+
+Artículo 41. Naturaleza de los depósitos.
+A efectos de las prerrogativas establecidas en las disposiciones en materia de hacienda de la Comunidad de Castilla y León, las cantidades que deban depositarse de acuerdo con esta ley tienen la consideración de derechos de naturaleza pública de la Comunidad.
+
+### Artículo 42
+
+Artículo 42. Devolución del depósito.
+Acreditada la extinción del contrato que dio lugar a la constitución del depósito, se devolverá la cantidad depositada, en los términos previstos reglamentariamente.
+La devolución deberá producirse en el plazo de un mes desde la presentación de la solicitud por parte del obligado a depositarla; el incumplimiento de dicha obligación devengará el interés legal correspondiente desde la fecha del vencimiento del citado plazo hasta la fecha efectiva de devolución.
+
+## TÍTULO IV
+
+Régimen de protección pública
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 43
+
+Artículo 43. Conceptos.
+1. Tendrán la consideración de viviendas de protección pública las viviendas que sean así calificadas por la Administración de la Comunidad de Castilla y León y cumplan los requisitos que se establecen en esta ley y en sus disposiciones de desarrollo; con independencia de que se trate de viviendas de nueva construcción, en proceso de construcción o rehabilitación, o ya terminadas o rehabilitadas, o de que tuvieran previamente condición de viviendas libres, o de que obtengan o no financiación pública.
+2. Tendrán la consideración de viviendas colaborativas protegidas las edificaciones habitables con servicios comunes que sean así calificadas por la Administración de la Comunidad de Castilla y León por destinarse al alojamiento en alquiler de personas incluidas en colectivos de especial protección, particularmente jóvenes, o bien mediante cesión en precario cuando se trate de personas en riesgo de exclusión social, y cumplir las demás condiciones que se señalan en el artículo 48 de esta Ley.
+Se modifica el apartado 2 por el art. 10.1 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se modifica por el art. 4.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a4.
+ Se modifica por el art. 4.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 44
+
+Artículo 44. Régimen de uso de las viviendas de protección pública.
+Las viviendas de protección pública podrán ser destinadas a venta, uso propio, arrendamiento -con o sin opción de compra- u otras formas de uso justificadas por razones sociales, conforme a su correspondiente régimen jurídico.
+
+### Artículo 45
+
+Artículo 45. Clases de viviendas de protección pública.
+1. Las viviendas de protección pública, con independencia de quien las promueva, se calificarán en alguna de las siguientes clases:
+a) Vivienda de protección pública general.
+b) Vivienda joven.
+c) Vivienda de precio limitado para familias.
+d) Vivienda de protección pública en el medio rural.
+2. Podrán calificarse como viviendas de protección pública general aquellas cuya superficie útil no sea inferior a 40 ni superior a 90 metros cuadrados, aunque podrán alcanzar los 120 metros cuadrados cuando sus destinatarios sean familias numerosas, personas con movilidad reducida o bien quienes tengan a su cargo personas en situación de dependencia.
+3. Podrán calificarse como viviendas jóvenes aquellas cuya superficie útil no sea inferior a 40 ni superior a 70 metros cuadrados y cuyos destinatarios sean menores de 36 años; excepcionalmente, cuando resulte acreditado que no existe demanda de menores de 36 años, podrán ser destinatarios de las mismas quienes no ostenten dicha condición.
+4. Podrán calificarse como viviendas de precio limitado para familias aquellas cuya superficie útil no sea inferior a 70 ni superior a 120 metros cuadrados y cuyos destinatarios sean unidades familiares que tengan a su cargo hijo o hijos menores o personas en situación de dependencia. Cuando se trate de familias numerosas de categoría especial, en los términos del artículo 4.1 de la Ley 40/2003, de 18 de noviembre, de protección a las familias numerosas, la superficie útil máxima será el resultado de sumar a 120 metros cuadrados, 15 metros cuadrados más por cada miembro de la unidad familiar que exceda de los considerados para clasificarla de categoría especial, con el límite máximo de 240 metros cuadrados; a tal efecto dichas familias podrán adquirir más de una vivienda de protección pública, siempre que horizontal o verticalmente puedan constituir una sola unidad registral.
+5. Podrán calificarse como viviendas de protección pública en el medio rural aquellas cuya superficie útil no sea inferior a 70 ni superior a 120 metros cuadrados, y que estén situadas en las localidades o municipios cuya relación se aprobará mediante orden de la consejería competente en materia de vivienda. Para estas viviendas se aplicarán las siguientes reglas:
+a) En su construcción se fomentará la utilización de tipologías de edificación tradicional y de materiales procedentes de la zona, así como la aplicación de criterios de sostenibilidad y respeto al medio ambiente y al paisaje.
+b) Tendrán la consideración de anejos, que deberán estar vinculados a la vivienda, tanto en proyecto como registralmente, aquellos espacios en los que se desarrollen actividades propias del medio rural, tales como las vinculadas a la agricultura, la ganadería, la actividad forestal, la artesanía, la restauración, el alojamiento turístico, las actividades de ocio y tiempo libre, la elaboración de productos alimenticios con métodos tradicionales y otras análogas.
+Se modifica el apartado 3 por el art. 22.2 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 5 por el art. 10.2 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se modifica el apartado 2 por el art. 10.1 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se modifica la rúbrica y el primer párrafo del apartado 5 por el art. 30.2 y 3 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+ Se modifica por el art. 4.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a4.
+ Se modifica por el art. 4.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 46
+
+Artículo 46. Otros elementos susceptibles de protección.
+1. Cuando la calificación provisional se refiera a una promoción completa de viviendas, la protección pública se extenderá a los garajes, trasteros y otros anejos, vinculados o no, cualquiera que sea su denominación.
+Asimismo la protección se extenderá a los locales comerciales y edificaciones complementarias.
+2. Cuando la calificación provisional no se refiera a una promoción completa, las viviendas de protección pública deberán tener obligatoriamente como anejos vinculados, al menos, una plaza de garaje y un trastero, si existen en la promoción, quedando sometidos éstos al régimen de protección pública establecido en la calificación.
+3. (Derogado)
+4. En todo caso, la adquisición de una vivienda de protección pública no podrá condicionarse a la compra de plazas de garaje no vinculadas a la vivienda.
+Se deroga el apartado 3 por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+
+### Artículo 47
+
+Artículo 47. Vivienda de protección pública en el medio rural.
+(Derogado)
+Se deroga por la disposición derogatoria única 1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 48
+
+Artículo 48. Viviendas colaborativas protegidas.
+Las viviendas colaborativas protegidas se regirán por las reglas establecidas en los capítulos I y II de este título para las viviendas de protección pública y en la legislación urbanística, con las especialidades señaladas en el artículo 43 y además las siguientes:
+a) Su superficie útil no será inferior a 15 ni superior a 65 metros cuadrados.
+b) A partir de su calificación, quedarán sometidas con carácter permanente al régimen legal de protección, quedando prohibida su descalificación.
+c) Podrán ser construidas sobre suelos dotacionales de equipamiento de cualquier clase, sin que ello altere la clasificación y calificación urbanística de los mismos.
+d) No serán tenidas en cuenta a efectos de los límites de densidad y edificabilidad establecidos en la normativa urbanística ni a efectos de la gestión urbanística, ni generarán la necesidad de reservar suelo para nuevas dotaciones urbanísticas.
+e) Cuando el titular del suelo sea una administración pública o una entidad del sector público, su construcción y gestión podrá realizarse directamente o a través de lo previsto en la legislación patrimonial y de contratos del sector público.
+Se modifica por el art. 10.3 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+ Se modifica por el art. 4.3 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a4.
+ Se modifica por el art. 4.3 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 49
+
+Artículo 49. El valor del suelo en la promoción de viviendas de protección pública.
+1. En las transmisiones de suelo destinado a la promoción de vivienda de protección pública, su valor se determinará teniendo en cuenta el valor de los terrenos y el presupuesto de las obras de urbanización.
+Dicho valor no podrá exceder del 25% del precio máximo de venta de las viviendas de protección pública y anejos, más el precio de venta de mercado de las edificaciones complementarias que no estén sometidas a precio máximo de venta y, en su caso, el valor de repercusión de las obras de urbanización.
+2. Reglamentariamente se podrá modular el porcentaje señalado anteriormente en función de la clase de vivienda de protección pública, respetando el máximo previsto.
+3. Lo previsto en este artículo será a los solos efectos de la enajenación de suelo que la normativa urbanística establezca como obligatoria para la construcción de viviendas de protección pública.
+
+### Artículo 50
+
+Artículo 50. Duración del régimen legal de protección.
+1. La duración del régimen legal de protección de las viviendas de protección pública, contada desde la fecha de otorgamiento de la licencia de primera ocupación, será de 15 años.
+2. Las viviendas de protección pública de promoción privada podrán ser descalificadas, previa solicitud del interesado, cuando se cumplan las siguientes condiciones:
+a) Que hayan transcurrido 10 años desde la fecha de otorgamiento de la licencia de primera ocupación.
+b) Que el suelo sobre el que se sustente la promoción no haya sido cedido ni enajenado por una administración pública, salvo en caso de conformidad expresa de dicha administración.
+c) Que, en caso de haberse obtenido ayudas, las mismas sean previamente reintegradas conforme a la normativa aplicable, y se cancele el préstamo hipotecario obtenido con financiación pública, o se modifiquen sus condiciones adaptándolo a las nuevas circunstancias.
+Se modifica por el art. 5.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a5.
+ Se modifica por el art. 5.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 51
+
+Artículo 51. Precio.
+1. El precio máximo de venta de las viviendas de protección pública, tanto en primera como en segunda y posteriores transmisiones, así como el precio de referencia para el alquiler de la vivienda, en ambos casos por metro cuadrado de superficie útil, se determinarán aplicando los coeficientes establecidos por orden de la consejería competente en materia de vivienda al módulo básico estatal vigente, o cualquier otra denominación que le sustituya, o en su defecto al precio básico autonómico que se establezca, en su caso, mediante la citada orden.
+2. Para los anejos, vinculados o no, el precio máximo de venta y el precio de referencia para el alquiler, por metro cuadrado de superficie útil, no podrán exceder del 60 por ciento del precio calculado conforme a lo dispuesto en el apartado anterior.
+3. Por orden de la consejería competente en materia de vivienda se establecerán:
+a) Los coeficientes aplicables a los ámbitos territoriales en los que se divida el territorio de la Comunidad, en función de las circunstancias sociales, económicas y territoriales.
+b) Las superficies útiles máximas computables de los anejos, a efectos de su precio.
+Se modifica por el art. 5.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a5.
+ Se modifica por el art. 5.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 52
+
+Artículo 52. Calidad.
+Las viviendas de protección pública deberán cumplir las normas de calidad, diseño, superficie y demás condiciones que se establecen en la presente ley, en sus disposiciones de desarrollo y en la normativa sectorial aplicable.
+
+### Artículo 53
+
+Artículo 53. Procedimiento de calificación.
+1. La calificación es el acto administrativo en virtud del cual las viviendas quedan sometidas al régimen legal de protección pública previsto en esta ley y en sus disposiciones de desarrollo, y se expide a los únicos efectos de comprobar el cumplimiento de la normativa aplicable en materia de viviendas de protección pública.
+2. Los efectos de la calificación están sujetos a una condición resolutoria que operará en caso de que no sea otorgada la licencia de primera ocupación.
+3. La solicitud de calificación deberá presentarse por el promotor de las viviendas, adjuntando la siguiente documentación y la que, en su caso, se determine reglamentariamente:
+a) Cuando se trate de viviendas de nueva construcción, o que estén en proceso de construcción o rehabilitación:
+– Certificado registral de titularidad de los terrenos y libertad de cargas y gravámenes; cuando el solicitante no sea titular de los terrenos, deberá aportar documento suficiente en derecho que acredite la facultad para construir sobre los mismos.
+– Proyecto de ejecución redactado por técnico competente junto con certificado expedido por el mismo técnico de que el proyecto se sujeta a la normativa aplicable.
+– Licencia urbanística municipal.
+b) Cuando se trate de viviendas ya terminadas o rehabilitadas, además de la documentación citada en la letra anterior deberá aportarse:
+– Certificado final de obra.
+– Licencia de primera ocupación.
+4. La solicitud de calificación podrá referirse a la totalidad del edificio o solo a parte de las viviendas incluidas en el mismo, y abarcar diferentes clases de viviendas de protección pública; en las edificaciones donde se promuevan diferentes clases de viviendas, o viviendas de protección pública junto con otras que no tuvieran dicha condición, el proyecto que acompañe a la solicitud identificará de forma clara y precisa las viviendas de protección pública.
+5. El plazo máximo para resolver y notificar la resolución de calificación será de tres meses desde que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación; transcurrido dicho plazo sin que se haya notificado la resolución, la calificación podrá entenderse desestimada por silencio administrativo. En las resoluciones emitidas fuera de plazo no se podrá consignar un precio máximo de venta o de referencia para el alquiler superior al que hubiera correspondido de haberse dictado la resolución en plazo.
+6. Podrá autorizarse el cambio de titularidad sobre todas o algunas de las viviendas incluidas en la calificación, manteniéndose inalterable el resto de condiciones, previa solicitud conjunta de los interesados. Si sobre la vivienda existiera un préstamo hipotecario con financiación pública, deberá acreditarse la conformidad de la entidad financiera como requisito previo a la autorización.
+7. El órgano competente para otorgar la calificación, previa solicitud del interesado, podrá modificar aquella a efectos de autorizar cambios de proyecto o del cuadro de vinculaciones, o bien la realización de obras, modificaciones y reformas de las viviendas que alteren su configuración y demás elementos a los que se extienda la calificación, si se ajustan a lo establecido en la normativa técnica de edificación aplicable, y previa obtención de las autorizaciones e informes preceptivos.
+8. La renuncia a la calificación otorgada impedirá que posteriormente se pueda solicitar de nuevo para las mismas viviendas. No se admitirá la renuncia cuando el suelo sobre el que se sustente la promoción haya sido cedido o enajenado por una administración pública, salvo en caso de conformidad expresa de dicha administración.
+9. El plazo para solicitar la licencia de primera ocupación será de 48 meses a contar desde la fecha de concesión de la calificación.
+10. A efectos de lo dispuesto en el apartado 2, los informes previos al otorgamiento de la licencia de primera ocupación citados en el apartado 1.b) del artículo 99 de la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León, harán referencia al cumplimiento de los extremos y condiciones incluidos en la calificación de las viviendas de protección pública.
+11. Copia de la licencia de primera ocupación será remitida por el Ayuntamiento al órgano que dictó la calificación.
+Se modifica por el art. 6.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a6.
+ Se modifica por el art. 6.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 54
+
+Artículo 54. Garantías de los adquirentes de viviendas de protección pública.
+Cuando por causa imputable al promotor la calificación sea denegada u opere la condición resolutoria por no haber sido otorgada la licencia de primera ocupación, los adquirentes de las viviendas podrán:
+a) Resolver el contrato de compraventa en los términos previstos en la legislación civil y, en su caso, ejecutar las garantías de las cantidades anticipadas a que se refiere el artículo 33 de esta Ley.
+b) Solicitar al órgano competente para el otorgamiento de la calificación la rehabilitación del expediente a su favor; en tal caso se aplicarán las siguientes reglas:
+1.ª Los adquirentes deberán comprometerse a terminar las obras y a subsanar las deficiencias que impidieron que la calificación o la licencia de primera ocupación fueran otorgadas, en el plazo y con el presupuesto que se determine por un técnico competente.
+2.ª La rehabilitación del expediente implica la subrogación de los compradores en el préstamo del promotor, previo acuerdo con la entidad financiera.
+3.ª Del precio final de venta de la vivienda a abonar al promotor se deducirán las cantidades invertidas por los adquirentes en las obras y trabajos necesarios para obtener la calificación o la licencia de primera ocupación.
+Se modifica por el art. 6.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a6.
+ Se modifica por el art. 6.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 55
+
+Artículo 55. Destino y ocupación de las viviendas de protección pública.
+Las viviendas de protección pública se destinarán exclusivamente a residencia habitual y permanente de sus adquirentes o arrendatarios y, en su caso, de los miembros de su unidad familiar, debiendo ser ocupadas en el plazo de 3 meses desde la fecha de formalización de la escritura de compraventa.
+
+### Artículo 56
+
+Artículo 56. Arbitraje.
+La Administración de la Comunidad de la Castilla y León impulsará la inclusión de cláusulas en los contratos de compraventa de viviendas de protección pública, así como en los de arrendamientos, que permitan la resolución de las controversias que pudieran originarse en el cumplimiento de tales contratos mediante el arbitraje, de conformidad con la normativa sectorial aplicable.
+
+### Artículo 57
+
+Artículo 57. Adquisición de derechos relacionados con las viviendas de protección pública.
+En ningún caso podrán adquirirse por silencio administrativo derechos relacionados con las viviendas de protección pública en contra de lo dispuesto en la presente ley y sus disposiciones de desarrollo.
+
+## CAPÍTULO II
+
+Promoción
+
+### Artículo 58
+
+Artículo 58. Promoción de las viviendas de protección pública.
+1. Las viviendas de protección pública podrán ser de promoción pública o promoción privada.
+2. Tendrán la consideración de promoción pública las viviendas que sean promovidas por una administración pública o por entidades del sector público. Estas viviendas se destinarán a personas cuyos ingresos familiares corregidos no excedan de 5 veces el IPREM y cumplan los requisitos de acceso a una vivienda de protección pública señalados en el artículo 63 de esta Ley.
+3. Tendrán la consideración de promoción privada las viviendas promovidas por una persona física o jurídica distinta de las señaladas en el apartado anterior.
+4. Las viviendas de protección pública, con independencia de que tengan la consideración de promoción pública o privada, podrán calificarse en cualquiera de los regímenes de protección o clases de viviendas de protección pública previstas en la normativa autonómica.
+Se modifica el apartado 2 por el art. 18 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+ Se modifica el apartado 2 por la disposición final 13 de la Ley 1/2021, de 22 de febrero. Ref. BOE-A-2021-4321
+ Se modifica el apartado 2 por el art. 7.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a7.
+ Se modifica el apartado 2 por el art. 7.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 59
+
+Artículo 59. Autopromotor.
+Tendrá la consideración de autopromotor la persona física, individualmente considerada, que decida, impulse, programe y financie, con medios propios o ajenos la construcción, reforma o rehabilitación, directa o indirectamente, de una vivienda de protección pública, destinada a satisfacer su necesidad de vivienda.
+
+### Artículo 60
+
+Artículo 60. Promotores para uso propio.
+1. Tendrán la consideración de promotores para uso propio, las personas físicas, agrupadas en cooperativas de vivienda, comunidades de propietarios o cualquier otra entidad cuya naturaleza determine que sus socios o partícipes resulten adjudicatarios o arrendatarios de las viviendas, que decidan, impulsen, programen y financien, con medios propios o ajenos, la construcción de viviendas de protección pública destinadas a satisfacer la necesidad de vivienda de sus socios o partícipes.
+2.(Derogado)
+3. Para el otorgamiento de la calificación de las viviendas de protección pública promovidas por las entidades a las que se refiere este artículo será necesario que presenten, junto con la solicitud, una relación de al menos el 80 por ciento de los socios o partícipes beneficiarios de las viviendas, completada con los documentos que acrediten que todos ellos cumplen los requisitos de acceso a una vivienda de protección pública establecidos en el artículo 63 de esta Ley.
+No obstante, cuando algún socio o partícipe beneficiario incumpliera dichos requisitos por ser titular de otra vivienda o de otros bienes inmuebles, deberá aportar compromiso de venta de dicha vivienda o de dichos bienes, sin que pueda visarse el contrato de adjudicación de la nueva vivienda de protección pública hasta que se acredite la formalización de la citada venta.
+4. No será obstáculo para que las promociones de viviendas de protección pública a las que se refiere este artículo obtengan licencia de primera ocupación el hecho de que no estén adjudicadas todas las viviendas de la promoción.
+Se deroga el apartado 2 y se modifican los apartados 3 y 4 por la disposición derogatoria única.1.a) y por el art. 7.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este apartado 2 ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga el apartado 2 y se modifican los apartados 3 y 4 por la disposición derogatoria única.a) y por el art. 7.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 61
+
+Artículo 61. Medidas de fomento para la promoción.
+1. Las Administraciones Públicas, dentro de su respectivo ámbito de competencias, fomentarán la promoción de viviendas de protección pública a las que se refiere la presente ley mediante el establecimiento de medidas económicas, fiscales, urbanísticas y de cualquier otra naturaleza que favorezcan tales actuaciones.
+2. El importe y requisitos de concesión de las ayudas económicas se establecerán en la correspondiente normativa reguladora, pudiendo ser, entre otras, las siguientes:
+a) Préstamos cualificados o convenidos, con garantía hipotecaria o personal, concedidos por entidades de crédito dentro de los convenios suscritos a tal efecto.
+b) Subvenciones.
+c) Subsidios de préstamos cualificados o convenidos.
+d) Cualquier otra que se establezca en la normativa reguladora.
+3. Cuando se hubieran agotado los fondos previstos en los convenios con entidades de crédito a que se refiere el apartado anterior, o cuando dichos convenios hubieran finalizado su vigencia y no se hubiera prorrogado la misma, o en su caso firmado nuevos convenios, podrá otorgarse la calificación sin reconocimiento de financiación.
+Se añade el apartado 3 por el art. 7.3 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a7.
+ Téngase en cuenta que este apartado ya había sido añadido por el Decreto-ley 1/2013, de 31 de julio.
+ Se añade el apartado 3 por el art. 7.3 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+## CAPÍTULO III
+
+Acceso
+
+### Artículo 62
+
+Artículo 62. Titulares de las viviendas de protección pública.
+Las personas físicas o jurídicas, públicas o privadas, podrán ser titulares de viviendas de protección pública.
+
+### Artículo 63
+
+Artículo 63. Destinatarios de las viviendas de protección pública.
+1. Los destinatarios o usuarios que adquieran o arrienden una vivienda de protección pública serán personas físicas, unidades familiares o unidades de convivencia que cumplan los siguientes requisitos:
+a) Estar inscritos en el Registro Público de Demandantes de Vivienda de Protección Pública de Castilla y León, conforme a lo dispuesto en el artículo siguiente.
+b) Tener unos ingresos familiares que no excedan de 6,5 veces el IPREM, y, en caso de adquisición en primera transmisión, no inferiores a una vez el IPREM, calculados con los criterios que se determinen mediante orden de la consejería competente en materia de vivienda.
+c) No ser titular del pleno dominio o de un derecho real de uso o de disfrute sobre otra vivienda en España, o que siendo titular de tales derechos no pueda ocupar la vivienda por causas que no le sean imputables, incluidas situaciones de proindiviso o aquellas otras en el que el puesto de trabajo se localice a más de 50 kilómetros de la vivienda. No obstante, podrán ser titulares de otras viviendas las familias que necesiten una vivienda de mayor superficie por el aumento del número de sus miembros, así como las personas mayores de 65 años, las personas con movilidad reducida y las víctimas de violencia de género o del terrorismo, cuando se trate de acceder a otra vivienda más adaptada a sus necesidades. En todos estos casos, la vivienda anterior deberá ser vendida o alquilada dentro del plazo de un año a contar desde la firma del contrato de compraventa o alquiler de la vivienda nueva; este plazo podrá prorrogarse cuando la vivienda anterior no haya podido ser vendida o alquilada por causas no imputables al interesado.
+2. Los requisitos señalados en el apartado anterior deberán cumplirse por los destinatarios de la vivienda en la fecha en la que se solicite el visado del contrato de compraventa o arrendamiento, excepto los autopromotores, que deberán cumplirlas en el momento de solicitar la declaración de actuación protegida o la calificación. Cuando se aplique el procedimiento de selección previsto en la normativa reguladora, el requisito de edad deberá cumplirse en el momento en el que se dicte la resolución por la que se convoque el proceso de selección.
+3. Los requisitos establecidos en el apartado primero de este artículo no serán exigibles en las adquisiciones mortis causa de viviendas de protección pública, sin perjuicio de lo dispuesto en el artículo 55 de esta ley. Tampoco serán exigibles en el ámbito de las actuaciones de regeneración y renovación urbana, en lo relativo a las personas con residencia principal acreditada en el ámbito.
+4. Las personas jurídicas públicas y las privadas sin ánimo de lucro podrán ser destinatarias de una vivienda de protección pública en los siguientes casos:
+a) Cuando en la vivienda se vayan a desarrollar actividades de interés público o social previstas en su objeto social.
+b) Cuando la vivienda se destine a realojar personas incluidas en alguno de los colectivos de especial protección.
+Se modifica el apartado 1.c) por la disposición final 6 de la Ley 7/2015, de 30 de diciembre. Ref. BOE-A-2016-1884.
+ Se modifican los apartados 1.b) y 3 y por el art. 30.4 y 5 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+ Se modifica por el art. 8.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a8.
+ Véase, en cuanto a su aplicación, el art. 23. Ref. BOE-A-2014-375#a23.
+ Se modifica por el art. 8 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 64
+
+Artículo 64. El Registro Público de Demandantes de Viviendas de Protección Pública de Castilla y León.
+1. El Registro Público de Demandantes de Viviendas de Protección Pública de Castilla y León constituye uno de los instrumentos para contribuir a garantizar a los ciudadanos los principios de igualdad, concurrencia y publicidad en el acceso a una vivienda de protección pública, a fin de eliminar cualquier tipo de fraude en las primeras y posteriores transmisiones de dichas viviendas.
+2. Reglamentariamente se establecerá el régimen de la inscripción y del funcionamiento del Registro Público de Demandantes de Viviendas de Protección Pública de Castilla y León.
+
+### Artículo 64 bis
+
+Artículo 64 bis. Procedimientos de selección de adquirentes y arrendatarios.
+1. A fin de hacer efectivo el principio de igualdad en el acceso a la vivienda, quienes deseen acceder a una vivienda de protección pública deberán participar en un procedimiento de selección con sujeción a los principios de concurrencia, objetividad, publicidad y transparencia, en los siguientes casos:
+a) Viviendas de protección pública de promoción pública en arrendamiento.
+b) Viviendas de protección pública de promoción pública en primera transmisión.
+c) Viviendas de protección pública de promoción privada en primera transmisión, cuando el suelo que sustente la promoción haya sido cedido o enajenado por una administración pública.
+2. Con carácter general, el procedimiento para seleccionar a los adquirentes o arrendatarios será el sorteo entre las personas inscritas en el Registro Público de Demandantes de Vivienda de Protección Pública de Castilla y León.
+3. Cuando concurran circunstancias relacionadas con la necesidad de vivienda de personas incluidas en los colectivos de especial protección, las viviendas citadas en el apartado 1 podrán ser adjudicadas mediante declaración de actuación singular por la consejería competente en materia de vivienda.
+4. Las viviendas citadas en el apartado 1 que no hayan podido ser adjudicadas en su convocatoria podrán ser vendidas o arrendadas por su promotor a cualquier persona que cumpla los requisitos de acceso a una vivienda de protección pública.
+Se añade por el art. 8.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a8.
+
+### Artículo 65
+
+Artículo 65. Formas de transmisión de las viviendas de protección pública.
+1. Las viviendas de protección pública podrán ser objeto de transmisión, arrendamiento, o cualesquiera otros negocios jurídicos que permitan su ocupación o uso.
+2. Las viviendas de protección pública en régimen de arrendamiento podrán ser transmitidas, por promociones completas y sin sujeción a los precios máximos de venta, a sociedades que incluyan en su objeto social el arrendamiento de viviendas, o a fondos de inversión inmobiliaria, previa autorización administrativa. El adquirente se subrogará en las condiciones, compromisos, plazos y rentas máximas previstas en la calificación de las viviendas.
+3. Los titulares de viviendas de protección pública con destino a arrendamiento podrán enajenarlas en los términos y condiciones previstos reglamentariamente, teniendo preferencia para su adquisición los inquilinos que hayan permanecido al menos cinco años en alquiler en el momento de la venta o del ejercicio de la opción de compra.
+
+### Artículo 66
+
+Artículo 66. Cláusulas obligatorias en los contratos de compraventa y arrendamiento sobre las viviendas de protección pública.
+1. Los contratos de compraventa y arrendamiento de las viviendas de protección pública deberán formalizarse por escrito.
+2. Además de cuanto deban contener de conformidad con la legislación civil o sectorial aplicable, habrán de constar en ellos, al menos, los siguientes extremos:
+a) La calificación de la vivienda como de protección pública, en la modalidad que corresponda, con expresa constancia de las prohibiciones y limitaciones a la facultad de disponer y los derechos y prerrogativas de las Administraciones Públicas sobre tales viviendas, conforme a lo dispuesto en la presente ley.
+b) La identificación de los anejos que, vinculados o no a la vivienda, son objeto de transmisión o arrendamiento.
+c) La indicación de que el adquirente o arrendatario cumple los requisitos de acceso a la vivienda.
+d) El precio de venta o arrendamiento.
+3. Reglamentariamente se podrán establecer aquellas otras menciones o cláusulas que deban contener dichos contratos de compraventa o arrendamiento.
+
+### Artículo 67
+
+Artículo 67. El visado de las transmisiones y arrendamientos.
+1. Mientras dure el régimen legal de protección y su precio de venta o renta esté limitado, las transmisiones de viviendas de protección pública y sus contratos de arrendamiento, así como los de sus anejos, vinculados o no, deberán presentarse para su visado ante la consejería competente en materia de vivienda, en el plazo máximo de 15 días desde su formalización. Los obligados a presentar la solicitud de visado son, en la primera transmisión, el promotor, en la segunda y posteriores, el adquirente, y en caso de arrendamiento, el arrendador.
+2. Además del documento en el que se formalice la transmisión o el arrendamiento, deberá presentarse la documentación acreditativa de que el adquirente o arrendatario reúne las condiciones exigidas para acceder a este tipo de viviendas, que será determinada por orden de la consejería competente en materia de vivienda.
+3. El visado consiste en una resolución por la que se declara acreditado el cumplimiento de los requisitos objetivos y subjetivos en la adquisición o arrendamiento de una vivienda de protección pública y sus anejos vinculados, y la inclusión de las cláusulas obligatorias. No obstante, en los siguientes casos el visado se limitará a comprobar que el precio de venta o alquiler no exceda del precio máximo legal vigente en el momento de la transmisión:
+a) Cuando el adquirente de la vivienda ya sea titular de parte de la misma.
+b) En caso de transmisiones de anejos no vinculados a una vivienda de protección pública.
+c) En el caso de transmisiones o arrendamientos de una vivienda de protección pública a personas jurídicas públicas o privadas.
+4. El plazo para resolver y notificar la resolución será de un mes desde que la solicitud haya tenido entrada en el registro del órgano competente para resolver; transcurrido dicho plazo sin que se haya notificado la resolución podrá entenderse estimada la solicitud por silencio administrativo.
+5. En caso de arrendamiento, la resolución se notificará al arrendador y al arrendatario.
+Se modifica el apartado 3.c) por el art. 30.6 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+ Se modifica por el art. 9.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a9.
+ Se modifica por el art. 9.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 68
+
+Artículo 68. Plazo de entrega y puesta a disposición.
+1. Los promotores deberán otorgar la escritura pública de compraventa y entregar las viviendas a sus adquirentes en el plazo de tres meses a contar desde la notificación de la licencia de primera ocupación, o desde la fecha de visado del contrato de compraventa si éste fuera posterior.
+2. Los promotores o titulares de las viviendas con destino a arrendamiento deberán poner las mismas a disposición de los arrendatarios en el plazo máximo de tres meses desde la fecha del contrato de arrendamiento, salvo que en el contrato se establezca uno inferior.
+3. Excepcionalmente y previa autorización de la Administración de la Comunidad de Castilla y León, podrán prorrogarse los plazos previstos en los números anteriores cuando concurran circunstancias ajenas al promotor o titular de las viviendas que impidan su cumplimiento.
+Se modifica el apartado 1 por el art. 9.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a9.
+ Se modifica el apartado 1 por el art. 9.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 69
+
+Artículo 69. Cambios de uso.
+1. Quienes adquieran una vivienda de protección pública destinada a venta podrán solicitar su cambio de uso para destinarla a arrendamiento, cuando no puedan ocupar la vivienda por alguna de las siguientes causas:
+a) Falta de adecuación de la vivienda a la composición de la unidad familiar o de la unidad de convivencia, o bien a las necesidades de las personas mayores de 65 años y de las personas con movilidad reducida.
+b) Cambio de residencia a una provincia diferente por motivos laborales.
+c) Tener la condición de víctimas de violencia de género o de terrorismo.
+d) Otras causas justificadas que se determinen reglamentariamente.
+2. Si no hubiera transcurrido el plazo establecido en el artículo 71, será necesaria la previa cancelación o novación del préstamo hipotecario con financiación pública y devolución de las ayudas que hubiera podido recibir más los intereses legales desde su percepción.
+3. Quienes sean propietarios de una vivienda de protección pública destinada al arrendamiento podrán solicitar, en cualquier momento, su cambio de uso para proceder a su venta, previamente a la cual deberán cancelar o novar el préstamo hipotecario con financiación pública y devolver las ayudas que hubiera podido recibir más los intereses legales desde su percepción.
+4. La autorización del cambio de uso no implica alteración o modificación de la duración del régimen legal de protección.
+5. Será competente para autorizar los cambios de uso de las viviendas de protección pública el órgano que lo sea para la calificación de la vivienda.
+Se modifica por el art. 9.3 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a9.
+ Se modifica por el art. 9.3 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 70
+
+Artículo 70. Medidas de fomento para adquirentes y arrendatarios.
+1. Las Administraciones Públicas, dentro de su respectivo ámbito de competencias, fomentarán las actuaciones protegibles a las que se refiere la presente ley mediante el establecimiento de medidas económicas, fiscales y de cualquier otra naturaleza que incentiven tales actuaciones.
+2. El importe y requisitos de concesión de las ayudas económicas se establecerán en las correspondientes convocatorias o planes de vivienda, pudiendo ser, entre otras, las siguientes:
+a) Préstamos cualificados o convenidos, con garantía hipotecaria o personal, concedidos por entidades de crédito dentro de los convenios suscritos a tal efecto.
+b) Subvenciones.
+c) Subsidios de préstamos cualificados o convenidos.
+d) Avales para el pago de la entrada de una vivienda o las cuotas de amortización del préstamo hipotecario.
+e) Cualquier otra que se establezca en los planes de vivienda.
+
+## CAPÍTULO IV
+
+Prohibiciones y limitaciones a la facultad de disponer
+
+### Artículo 71
+
+Artículo 71. Prohibiciones y limitaciones en general.
+1. Los adquirentes de viviendas de protección pública y los promotores individuales para uso propio, no podrán transmitir inter vivos las viviendas ni ceder su uso por ningún título durante un plazo de 5 años, contados, en caso de adquisición, desde la fecha de formalización de la escritura de compraventa, y en caso de promotores para uso propio, desde la fecha de notificación de la licencia de primera ocupación.
+2. La limitación establecida en el apartado anterior podrá dejarse sin efecto en los supuestos previstos en el apartado 1 del artículo 69 de esta Ley, mediante autorización administrativa.
+3. Las viviendas de protección pública quedarán gravadas con una afección de naturaleza real, en garantía de la devolución de las ayudas y subvenciones recibidas, cuando tenga lugar su transmisión dentro del plazo de vigencia de las limitaciones a que se refiere este artículo.
+Se modifica por el art. 10.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a10.
+ Se modifica por el art. 10.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 72
+
+Artículo 72. Prohibiciones y limitaciones en las viviendas de promoción pública.
+1. Para las viviendas de protección pública de promoción pública el plazo citado en el artículo anterior será de 10 años a contar desde la fecha del contrato de compraventa.
+2. Las viviendas de protección pública de promoción pública podrán ser objeto de cesión a otras administraciones públicas o a entidades dependientes de las mismas, a fin de arrendarlas a personas incluidas en los colectivos de especial protección, previa autorización del órgano competente en materia de vivienda de la administración promotora.
+3. En el caso de viviendas promovidas por la Administración General de la Comunidad, el adquirente en segunda o posterior transmisión sólo podrá acceder a ellas si reúne los requisitos y condiciones que, en la fecha de la compraventa y según la clase de vivienda, le sean exigibles conforme a lo dispuesto en esta ley. A tal efecto se requerirá:
+a) La previa autorización del órgano competente en materia de vivienda.
+b) Que el adquirente autorizado se subrogue, en su caso, en las cantidades que estén pendientes de pago a la administración.
+4. La limitación establecida en el apartado primero podrá dejarse sin efecto en los supuestos previstos en el apartado 1 del artículo 69 de esta Ley, mediante autorización administrativa.
+Se modifica por el art. 10.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#a10.
+ Se modifica por el art. 10.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+## CAPÍTULO V
+
+Mantenimiento y restauración de la legalidad
+
+### Artículo 73
+
+Artículo 73. Derechos y prerrogativas de las Administraciones Públicas.
+1. La calificación de una vivienda y de sus anejos vinculados como de protección pública supone, mientras dure el régimen legal de protección aplicable a cada vivienda, su sujeción a los derechos de adquisición preferente y retracto establecidos en la presente ley a favor de la Administración de la Comunidad de Castilla y León o del Ayuntamiento respectivo, cuando se trate de viviendas construidas sobre patrimonios municipales de suelo, o de entidades públicas designadas por aquéllas.
+2. Igualmente se reconoce a las Administraciones Públicas la potestad de desahucio administrativo contra las personas que ocupen una vivienda de protección pública de titularidad pública en los términos y condiciones establecidos en la presente ley y en sus disposiciones de desarrollo.
+3. Las Administraciones Públicas podrán imponer multas coercitivas en los términos y condiciones establecidos en la presente ley y en sus disposiciones de desarrollo.
+
+### Artículo 74
+
+Artículo 74. Derecho de adquisición preferente.
+1. La Administración de la Comunidad de Castilla y León ostenta un derecho de adquisición preferente en la segunda y posterior transmisión de las viviendas de protección pública y sus anejos vinculados, excepto en los casos en los que la transmisión tenga lugar entre cónyuges, entre miembros de una pareja inscrita en el Registro de Uniones de Hecho de Castilla y León o entre parientes hasta el segundo grado por consanguinidad, cuando se trate de la transmisión de una cuota indivisa de la vivienda a favor de quien ya fuese cotitular de ésta, en las transmisiones mortis causa, así como en los casos de subasta o adjudicación de la vivienda por ejecución judicial del préstamo.
+2. El derecho de adquisición preferente deberá ejercitarse por la Administración en el plazo de dos meses a partir del día siguiente en el que se comunique a la Administración pública correspondiente la decisión de transmitir la vivienda; dicha comunicación deberá incluir, al menos, la identificación de la vivienda, nombre y domicilio del que pretende adquirir la misma así como el precio y resto de condiciones de la transmisión.
+Transcurrido dicho plazo sin que se haya notificado al transmitente el ejercicio de tal derecho se considera que la Administración renuncia a éste.
+3. Si en el plazo de seis meses no se formalizara en documento público la transmisión, quedará sin efecto la renuncia de la Administración al ejercicio del derecho de adquisición preferente. Dicho plazo se contará a partir del día siguiente a aquel en el que se notifique la renuncia del ejercicio del derecho de adquisición preferente o, en su caso, desde que se hayan producido los efectos del silencio administrativo.
+4. El derecho de adquisición preferente regulado en este artículo podrá ser ejercido por las entidades locales, o entidades de ellas dependientes, cuando la vivienda que se pretenda enajenar proceda de sus patrimonios públicos de suelo. También podrá ejercitarse tal derecho a favor de una persona o unidad familiar que cumpla los requisitos para acceder a ella.
+
+### Artículo 75
+
+Artículo 75. Derecho de retracto.
+1. La Administración de la Comunidad de Castilla y León, o el Ayuntamiento respectivo cuando se trate de viviendas construidas sobre patrimonios municipales de suelo, ostentan, mientras dure el régimen legal de protección, el derecho de retracto legal sobre las segundas y posteriores transmisiones de las viviendas de protección pública y sus anejos vinculados, y se puede ejercitar conforme a lo dispuesto en la presente ley y su normativa de desarrollo.
+2. En el plazo de un mes desde el otorgamiento de la escritura pública de compraventa, deberá presentarse en la Administración pública correspondiente una copia simple de la misma.
+3. El derecho de retracto podrá ejercerse por la Administración en el plazo de dos meses a contar desde el día siguiente al de la recepción de la copia a la que se refiere el apartado anterior en los siguientes casos:
+a) Cuando no se hubiera realizado la comunicación prevista en el artículo anterior o en ésta se hubieran omitido cualquiera de los extremos señalados en dicho precepto.
+b) Cuando se formalice la transmisión de la vivienda y no hubiera transcurrido el plazo para el ejercicio del derecho de adquisición preferente.
+c) Cuando la transmisión se haya realizado en condiciones diferentes a las incluidas en la comunicación de la decisión de vender.
+4. Transcurrido el plazo de dos meses sin que se hubiera notificado al adquirente la resolución por la que se ejercita el retracto, se considera que la Administración renuncia a su ejercicio.
+5. El derecho de retracto regulado en este artículo podrá ser cedido por la Consejería competente en materia de vivienda a otras administraciones públicas territoriales así como a empresas y fundaciones públicas.
+
+### Artículo 76
+
+Artículo 76. Competencia para el ejercicio del derecho de adquisición preferente y de retracto.
+En la Administración de la Comunidad de Castilla y León, corresponde al titular de la Consejería competente en materia de vivienda el ejercicio del derecho de adquisición preferente y de retracto previsto en los artículos anteriores, sin perjuicio de la desconcentración o delegación que pudiera realizarse.
+
+### Artículo 77
+
+Artículo 77. El desahucio administrativo.
+Procederá el desahucio administrativo contra adjudicatarios u ocupantes de las viviendas de titularidad pública, o de sus zonas comunes, locales y edificaciones complementarias, por las siguientes causas:
+a) La falta de pago de las cantidades pactadas en el contrato de compraventa o arrendamiento, así como de las cantidades que sean exigibles por servicios, gastos comunes o cualesquiera otras establecidas en la legislación vigente.
+b) No destinar la vivienda a domicilio habitual y permanente u ocupar la misma por personas ajenas a la unidad familiar sin haber obtenido la preceptiva autorización administrativa.
+c) La cesión total o parcial de la vivienda, local o edificación bajo cualquier título.
+d) Destinar la vivienda, local o edificación complementaria a un uso indebido o no autorizado.
+e) Ocupar una vivienda o sus zonas comunes, locales o edificación complementaria sin título legal para ello.
+
+### Artículo 78
+
+Artículo 78. El procedimiento de desahucio administrativo.
+1. El procedimiento para el ejercicio del desahucio administrativo se ajustará a lo dispuesto en la normativa reguladora del procedimiento administrativo común, con las especialidades previstas en este artículo.
+2. Cuando el desahucio se fundamente en la causa prevista en la letra a) del artículo anterior, se requerirá a la persona obligada al pago para que abone en el plazo de quince días los importes vencidos y exigibles, apercibiéndole, si no lo hiciere, de desahucio.
+Expirado dicho plazo sin que se hubiere abonado en su totalidad la cantidad adeudada, se dictará resolución de desahucio, que se notificará al interesado concediéndole un plazo de diez días para que haga efectivo el pago con apercibimiento de que, en caso contrario, deberá entregar las llaves de la vivienda, y de no hacerlo, se procederá a su lanzamiento, así como de cuantas personas, mobiliario o enseres hubieren en ella.
+Si en un período de cinco años se hubieren dictado tres resoluciones de desahucio por falta de pago contra una misma persona, en la tercera resolución que se dicte no se permitirá la enervación del desahucio mediante el pago de la deuda contraída, debiendo ejecutarse el desahucio en todo caso.
+3. Cuando el desahucio se fundamente en la causa prevista en la letra b) del artículo anterior, la resolución por la que se imponga la sanción podrá declarar, además, el desahucio administrativo.
+Si se declarara el desahucio se concederá un plazo de quince días al interesado para que entregue las llaves de la vivienda, apercibiéndole de que si así no lo hiciere se procederá a su lanzamiento, así como de cuantas personas, mobiliario o enseres hubieren en ella.
+4. Cuando el desahucio se fundamente en las causas previstas en las letras c), d), e) y f) del artículo anterior, se notificará al interesado la existencia de dicha circunstancia con indicación de que en el plazo de quince días, formule alegaciones, presente la documentación que estime oportuna y proponga cuantas pruebas considere pertinentes.
+En las resoluciones que acuerden el desahucio, se concederá un plazo de quince días para que el ocupante entregue las llaves de la vivienda, apercibiéndole de que, en caso contrario, se procederá a su lanzamiento, así como de cuantas personas, mobiliario o enseres hubiere en ella.
+5. Si fuese necesario entrar en el domicilio del sujeto afectado, la Administración Pública deberá obtener la preceptiva autorización judicial.
+6. En la Administración de la Comunidad de Castilla y León será competente para dictar las resoluciones que declaren el desahucio el titular de la Consejería competente en materia de vivienda, sin perjuicio de la desconcentración o delegación que pudiera hacerse.
+
+### Artículo 79
+
+Artículo 79. Multas coercitivas.
+1. Sin perjuicio de las posibles sanciones, se podrán imponer multas coercitivas, hasta un máximo de tres, para asegurar la eficacia de los actos administrativos frente al incumplimiento de las obligaciones previstas en la presente ley, cuando se trate de actos personalísimos en los que no quepa la compulsión directa sobre la persona del obligado, o actos cuya ejecución pueda el obligado encargar a otra persona.
+2. El importe de las multas coercitivas será el del mínimo que la presente ley establece para cada una de las infracciones en función de su calificación como leve, grave o muy grave, incrementándose en un 50% para la segunda multa coercitiva y en un 100% para la tercera.
+3. Será competente para la imposición de multas coercitivas el titular de la Delegación Territorial de la Junta de Castilla y León en la provincia donde se haya cometido la infracción en el caso de que ésta sea calificada como leve o grave y el titular de la Consejería competente en materia de vivienda cuando la infracción sea calificada como muy grave.
+
+## CAPÍTULO VI
+
+Otras actuaciones protegidas
+
+### Artículo 80
+
+Artículo 80. Calificación o declaración de actuación protegida.
+Se entiende por calificación o declaración de actuación protegida el acto administrativo por el que el órgano competente califica o declara protegida alguna de las actuaciones previstas en el artículo siguiente, sometiéndose, en su caso, al régimen de protección establecido en la presente ley y a las disposiciones que en su desarrollo pudieran dictarse.
+
+### Artículo 81
+
+Artículo 81. Actuaciones protegidas.
+Tendrán la consideración de actuaciones protegidas las siguientes:
+a) La generación, adquisición, promoción y urbanización de suelo con destino a la construcción de viviendas de protección pública en cualquiera de sus clases.
+b) La adquisición de viviendas usadas.
+c) La rehabilitación de edificios para destinarlos a vivienda de protección pública.
+d) La rehabilitación de edificios y viviendas.
+e) Las actuaciones de regeneración y renovación urbana.
+f) El arrendamiento de viviendas y, especialmente, el de viviendas que hayan estado vacías y desocupadas en el año inmediatamente anterior al de formalización de la declaración de actuación protegida.
+g) Las ayudas a colectivos de especial protección para el acceso a la vivienda.
+h) Cualquiera otra actuación que se establezca reglamentariamente.
+Se modifica la letra e) por el art. 30.7 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+
+### Artículo 82
+
+Artículo 82. Contenido de la calificación o declaración de actuación protegida.
+El contenido de la calificación o declaración de actuación protegida recogidas en el artículo anterior se establecerá reglamentariamente, sin perjuicio de lo dispuesto en esta ley para la calificación provisional y definitiva de las viviendas de protección pública.
+
+## TÍTULO V
+
+Fomento del alquiler
+
+### Artículo 83
+
+Artículo 83. Programa de fomento del alquiler.
+La Administración de la Comunidad de Castilla y León, a través de la Consejería competente en materia de vivienda, llevará a cabo, directa o indirectamente, políticas activas para el fomento y potenciación del alquiler mediante el establecimiento de incentivos que permitan la puesta en el mercado del alquiler de viviendas vacías y desocupadas.
+
+### Artículo 84
+
+Artículo 84. Actuaciones del programa de fomento del alquiler.
+El programa de fomento del alquiler podrá comprender, entre otras, las siguientes actuaciones:
+a) Intermediación en el arrendamiento de vivienda entre su propietario y el futuro arrendatario.
+b) Puesta de la vivienda, por parte de su propietario, a disposición directamente de la Consejería competente en materia de vivienda, de organismos autónomos y entes públicos de derecho privado que integran la Administración Institucional de la Comunidad de Castilla y León, de fundaciones públicas, o de sociedades que incluyan en su objeto social el arrendamiento de viviendas.
+
+### Artículo 85
+
+Artículo 85. Incentivos del programa de fomento del alquiler.
+1. Los propietarios de viviendas que las incluyan en el programa del fomento de alquiler podrán obtener, entre otros, los siguientes incentivos:
+a) Contratación de un seguro que garantice los eventuales impagos de la renta por parte del arrendatario.
+b) Contratación de un seguro que garantice los posibles desperfectos en la vivienda una vez finalizado el arrendamiento o, en su caso, la cesión.
+c) Información, asesoramiento y apoyo a la tramitación para llevar a cabo actuaciones de rehabilitación en la vivienda para posteriormente destinarla al arrendamiento, así como respecto de cualesquiera ayudas que pudieran corresponder por destinar la vivienda al arrendamiento.
+d) Información y asesoramiento para la celebración del contrato de arrendamiento.
+2. Los arrendatarios de las viviendas incluidas en el programa del fomento de alquiler podrán obtener, entre otros, los siguientes incentivos:
+a) Garantía de que la vivienda se encuentra en perfectas condiciones de uso y habitabilidad y dispone de todos los servicios necesarios.
+b) Fijación de un precio máximo de arrendamiento que, en el momento de formalizar el contrato de arrendamiento, no podrá ser superior al precio legal de referencia de una vivienda de protección pública en la misma localidad.
+c) Establecimiento de un máximo de ingresos que la unidad familiar del arrendatario destine al pago del precio del arrendamiento.
+d) Contratación de un seguro multirriesgo del hogar.
+e) Información y asesoramiento para la celebración del contrato de arrendamiento.
+f) Información, asesoramiento y apoyo a la tramitación de cualquier ayuda que pudiera corresponderle.
+3. Reglamentariamente se establecerán las condiciones y alcance de los incentivos establecidos en los apartados anteriores de este artículo.
+
+### Artículo 86
+
+Artículo 86. Requisitos para acceder al programa de fomento del alquiler.
+Reglamentariamente se determinarán tanto los requisitos objetivos que deben cumplir las viviendas, como los requisitos subjetivos que deben cumplir los propietarios de las viviendas y los futuros arrendatarios de las mismas, incluyéndose en todo caso, la obligatoriedad de estar inscritos en los correspondientes registros.
+
+## TÍTULO VI
+
+Colaboración público-privada
+
+### Artículo 87
+
+Artículo 87. Colaboración entre Administraciones Públicas.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con otras Administraciones Públicas, especialmente con las entidades locales de Castilla y León, mediante la celebración de convenios en los que se establecerán el contenido, alcance, procedimientos y características de la mutua colaboración para la programación, planificación, impulso, ejecución, seguimiento y control de la política de vivienda en Castilla y León.
+
+### Artículo 88
+
+Artículo 88. Colaboración con Notarios y Registradores de la Propiedad y Mercantiles.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con el Colegio Notarial de Castilla y León o con el Decanato Autonómico de los Registradores de la Propiedad y Mercantiles de Castilla y León, mediante la celebración de convenios, sin perjuicio de los ya celebrados, en los que se establecerán el contenido, alcance, procedimientos y características de la colaboración.
+
+### Artículo 89
+
+Artículo 89. Colaboración con Colegios Profesionales.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con los Colegios Profesionales directamente relacionados en materia de vivienda, mediante la celebración de convenios en los que se establecerán el contenido, alcance, procedimientos y características de la colaboración.
+
+### Artículo 90
+
+Artículo 90. Colaboración con el Consejo General de Cámaras de la Propiedad Urbana de Castilla y León.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con el Consejo General de Cámaras de la Propiedad Urbana de Castilla y León, mediante la celebración de convenios en los que se establecerán el contenido, alcance, procedimientos y características de la colaboración, de acuerdo con los fines y funciones previstos en la Ley 5/2006, de 16 de junio de Cámaras de la Propiedad Urbana de Castilla y León y su Consejo General.
+
+### Artículo 91
+
+Artículo 91. Colaboración con entidades financieras.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con entidades financieras mediante la celebración del oportuno convenio en el que se establecerá el contenido, alcance, procedimientos y características para que las mismas puedan ser consideradas entidades colaboradoras con sujeción a las disposiciones previstas en la Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de Castilla y León y demás normativa básica de aplicación en materia de subvenciones.
+
+### Artículo 92
+
+Artículo 92. Colaboración con otros agentes relacionados con la materia de vivienda.
+La Administración de la Comunidad de Castilla y León podrá establecer cauces de cooperación y colaboración con otros agentes relacionados con la materia de vivienda, no contemplados en los artículos anteriores, mediante la celebración del oportuno convenio en el que se establecerá el contenido, alcance, procedimientos y características de la colaboración.
+
+## TÍTULO VII
+
+Órganos colegiados en materia de vivienda
+
+## CAPÍTULO I
+
+El Consejo de Vivienda de Castilla y León
+
+### Artículo 93
+
+Artículo 93. Constitución y carácter.
+1. El Consejo de Vivienda de Castilla y León se constituirá como el órgano consultivo y cauce permanente de coordinación administrativa y participación social en la elaboración y ejecución de la planificación en materia de vivienda y, en general, en la actividad de esta materia en Castilla y León.
+2. El Consejo desarrollará sus funciones adscrito a la Consejería competente en materia de vivienda.
+
+### Artículos 93 a 96
+
+Artículos 93 a 96.
+(Derogados)
+Se derogan por la disposición derogatoria única.2.l) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 94
+
+Artículo 94. Funciones.
+Sin perjuicio de lo dispuesto en la Ley 8/2008, de 16 de octubre, para la creación del Consejo del Diálogo Social y Regulación de la Participación Institucional y de las disposiciones que en su desarrollo pudieran dictarse, las funciones del Consejo de Vivienda de Castilla y León serán las siguientes:
+a) Realizar, encargar y promover estudios e investigaciones, así como propuestas y sugerencias sobre cualquier asunto en materia de vivienda.
+b) Impulsar y facilitar la coordinación de las actuaciones relativas a la ejecución de los planes de vivienda y evaluar su ejecución.
+c) Valorar las propuestas que puedan efectuar los distintos organismos relacionados con la materia de vivienda.
+d) Elaborar los informes y dictámenes que le solicite la Junta de Castilla y León o el titular de la Consejería competente en materia de vivienda sobre disposiciones normativas y proyectos de planes.
+e) Cualquier otra que fuera atribuida por las disposiciones que en desarrollo de la presente ley pudieran dictarse.
+
+### Artículo 95
+
+Artículo 95. Composición.
+1. El Consejo de Vivienda de Castilla y León estará integrado por el Presidente que será el titular de la Consejería competente en materia de vivienda, y como vocales, el Director General competente en materia de vivienda, y representantes de la Administración local, de los promotores públicos y privados y los constructores de viviendas, de los colegios profesionales con competencias en materia de vivienda, de las entidades financieras, de los consumidores y usuarios, de los agentes sociales, sindicales y empresariales, así como otros agentes vinculados al sector de la vivienda.
+2. Será Secretario del Consejo de Vivienda de Castilla y León un funcionario de la dirección general que tenga encomendadas específicamente las competencias en materia de vivienda que actuará con voz, pero sin voto, y que será designado por el titular de la Consejería competente en dicha materia.
+
+### Artículo 96
+
+Artículo 96. Funcionamiento.
+1. El funcionamiento del Consejo de Vivienda de Castilla y León se ajustará a lo dispuesto en los preceptos básicos contenidos en el capítulo II, del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León.
+2. El voto del Presidente será dirimente en el caso de empate.
+3. El Consejo de Vivienda de Castilla y León se reunirá como mínimo una vez al año en sesión ordinaria.
+
+## CAPÍTULO II
+
+Las Comisiones Territoriales de Vivienda
+
+### Artículo 97
+
+Artículo 97. Carácter.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículos 97 a 100
+
+Artículos 97 a 100.
+(Derogados)
+Se derogan por la disposición derogatoria única.1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que estos artículos ya estaban derogados por el Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 98
+
+Artículo 98. Funciones.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 99
+
+Artículo 99. Composición.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 100
+
+Artículo 100. Funcionamiento.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que este artículo ya estaba derogado por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+## TÍTULO VIII
+
+Régimen sancionador
+Véase, en relación con la reducción del pago de las sanciones pecunarias, el art. 5 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 101
+
+Artículo 101. Principios de la potestad sancionadora.
+En la imposición de sanciones previstas en la presente ley se observarán los principios de la potestad sancionadora previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 102
+
+Artículo 102. Infracciones muy graves.
+Tendrán la calificación de muy graves las siguientes infracciones:
+a) Falsear los requisitos exigidos para el acceso a una vivienda de protección pública o para la obtención de financiación en la promoción, adquisición, arrendamiento o rehabilitación de viviendas.
+b) Destinar la financiación obtenida para la promoción de viviendas de protección pública a fines distintos de los que motivaron su otorgamiento.
+c) No ajustar la ejecución final de las viviendas de protección pública al proyecto calificado provisionalmente por la Administración, de manera que impida la obtención de la calificación definitiva.
+d) La percepción de sobreprecio, tanto en primera como en segunda o posteriores transmisiones, en virtud de compraventa o arrendamiento de vivienda de protección pública que supere los precios o rentas máximas establecidos en la normativa aplicable.
+e) Percibir de los compradores de viviendas de protección pública cantidades a cuenta del precio o en concepto de reserva, señal u otro, sin el cumplimiento de los requisitos establecidos en la presente ley.
+f) Dedicar las viviendas de protección pública a usos no autorizados o alterar el régimen de uso y utilización previsto en su calificación definitiva sin la preceptiva autorización.
+g) La ocupación de una vivienda de protección pública sin título legal.
+h) No destinar a domicilio habitual y permanente, o mantener deshabitadas sin causa justificada durante un plazo superior a seis meses, las viviendas de protección pública.
+i) La cesión de la titularidad del expediente de promoción de viviendas de protección pública, sin haber obtenido la autorización expresa de la Administración.
+j) Las acciones u omisiones, por culpa o negligencia, de promotores, constructores o facultativos durante la ejecución de las obras de viviendas de protección pública, que diesen lugar a vicios o defectos graves que afecten a la edificación o habitabilidad de las viviendas en los términos previstos en materia de ordenación de la edificación.
+k) No solicitar la calificación definitiva transcurrido el plazo máximo determinado, incluidas las prórrogas que pudieran concederse, desde la obtención de la calificación provisional, siempre que se produzca un perjuicio a los terceros adquirentes de éstas.
+l) El incumplimiento de la normativa vigente en materia de habitabilidad de las viviendas.
+m) El suministro por parte de las compañías suministradoras de agua, gas o electricidad e infraestructuras de telecomunicaciones a usuarios de viviendas, sin la previa presentación de la licencia de primera ocupación o de la calificación definitiva, en el caso de primera ocupación de viviendas de protección pública.
+n) La no realización del plan de control de calidad en las obras de edificación en que sea obligatorio, según la normativa vigente en materia de control de calidad.
+o) La omisión de la realización de las obras de reparación necesarias en las viviendas de protección pública cedidas en régimen de arrendamiento para mantenerlas en condiciones de salubridad e higiene, conforme a las normas aplicables en la materia.
+p) El incumplimiento de la normativa vigente en materia del Libro del Edificio.
+q) El incumplimiento de la obligación de depositar las fianzas de arrendamientos urbanos en el plazo de un mes desde la fecha de la formalización del contrato de arrendamiento cuando la cuantía de la fianza sea superior a 6.000 euros.
+Se modifica la letra q) por el art. 30.8 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+
+### Artículo 103
+
+Artículo 103. Infracciones graves.
+Tendrán la calificación de graves las siguientes infracciones:
+a) La obtención de financiación cualificada cuando se carezca de los requisitos y condiciones para el acceso a ella.
+b) No incluir en los contratos de compraventa y arrendamiento de viviendas de protección pública las cláusulas establecidas como obligatorias.
+c) La omisión del visado por la Administración de los contratos de viviendas de protección pública, así como la de cualquier autorización prevista en la presente ley.
+d) Incumplir la obligación de ocupar la vivienda en los plazos normativamente establecidos, salvo causa de fuerza mayor.
+e) La utilización de más de una vivienda de protección pública, salvo cuando se trate de titulares de familia numerosa en los términos autorizados por la legislación vigente.
+f) La ejecución de obras en viviendas de protección pública, sin la previa autorización del órgano competente de la Administración, que modifique el proyecto aprobado, aunque se ajusten a las normas técnicas y constructivas que sean aplicables.
+g) La ejecución, sin la previa autorización del órgano competente de la Administración, de cualquier construcción no prevista en el proyecto en terrazas u otros elementos comunes del inmueble, una vez obtenida la calificación definitiva.
+h) El incumplimiento por parte del promotor del deber de elevar a escritura pública, en el plazo señalado en la presente ley, los contratos privados de compraventa.
+i) La obstrucción o negativa a suministrar datos o facilitar las funciones de información, vigilancia o inspección a la Administración competente.
+j) El incumplimiento de la obligación de conservación y mantenimiento de las viviendas de protección pública por parte de sus ocupantes.
+k) La venta de viviendas de protección pública infringiendo las limitaciones y prohibiciones a la facultad de disponer establecidas en la presente ley.
+l) La falta de comunicación a la Administración de la transmisión de una vivienda de protección pública, a los efectos del ejercicio de los derechos de adquisición preferente y retracto.
+m) La imposibilidad de la suscripción del contrato de compraventa, tras la reserva de la vivienda, por causa imputable al promotor de ésta.
+n) La omisión de los requisitos establecidos en la presente ley en la publicidad de venta de las viviendas de protección pública.
+o) El incumplimiento de la obligación de depositar las fianzas de arrendamientos urbanos en el plazo de un mes desde la fecha de la formalización del contrato de arrendamiento cuando la cuantía de la fianza sea superior a 600 euros, la obstrucción de la labor inspectora y la presentación fuera de plazo de la declaración anual en el régimen de concierto.
+p) En la publicidad para la venta o arrendamiento de viviendas, la vulneración de los principios de veracidad y de objetividad, la inducción a confusión y la omisión de los requisitos establecidos al efecto por la normativa aplicable.
+q) Carecer de cualquiera de los documentos exigibles para formalizar la venta o arrendamiento de viviendas.
+r) El incumplimiento de los requisitos previos exigibles para proceder a la venta o arrendamiento de una vivienda en proyecto, en construcción o terminada.
+s) La falta de contratación de los seguros obligatorios establecidos legalmente para todo tipo de viviendas.
+t) El incumplimiento de lo dispuesto en la presente ley en relación con la inspección técnica de edificios.
+Se modifica la letra o) por el art. 30.9 de la Ley 7/2014, de 12 de septiembre. Ref. BOE-A-2014-9961#a30.
+
+### Artículo 104
+
+Artículo 104. Infracciones leves.
+Tendrán la calificación de leves las siguientes infracciones:
+a) No exponer en sitio visible durante el período de construcción el cartel indicador, según modelo oficial, de que la construcción está acogida al régimen de viviendas de protección pública.
+b) La inexistencia del libro de órdenes y visitas en las obras de edificación de viviendas de protección pública.
+c) La ocupación de las viviendas de protección pública antes de la calificación definitiva, sin la previa autorización administrativa.
+d) La obstaculización reiterada e injustificada por parte del ocupante de una vivienda de titularidad pública de la ejecución de las obras de reparación impuestas por la Administración, y siempre que esta obstaculización conste acreditada por cualquier medio admitido en Derecho.
+e) El incumplimiento de las obligaciones de presentación de declaraciones y de colaboración con la Administración en materia de fianzas de arrendamientos urbanos, cuando no constituyan infracción grave.
+f) La temeridad en la denuncia de supuestas infracciones tipificadas en la presente ley.
+g) El incumplimiento de cualquier obligación impuesta por la presente ley y que no tengan la calificación de muy grave o grave.
+
+### Artículo 105
+
+Artículo 105. Sanciones y graduación.
+1. Las cuantías de las sanciones serán las siguientes:
+a) Las infracciones leves se sancionarán con multa de hasta 3.000 euros.
+b) Las infracciones graves se sancionarán con multa de 3.001 hasta 15.000 euros.
+c) Las infracciones muy graves se sancionarán con multa de 15.001 hasta 90.000 euros.
+2. En el supuesto de que el beneficio por la comisión de la infracción fuese superior al importe de la sanción, se impondrá como sanción accesoria una cantidad igual al beneficio obtenido.
+3. Además de las sanciones anteriores, se impondrán a los infractores, cuando proceda, las siguientes obligaciones:
+a) Adecuar a la legalidad la situación alterada.
+b) Realizar las obras de reparación y conservación que sean necesarias.
+c) Cuando la sanción se haya impuesto como consecuencia de percibir sobreprecio por la venta o arrendamiento de una vivienda de protección pública: reintegrar al comprador o arrendatario la totalidad del sobreprecio con los intereses legales desde la fecha de pago hasta la de devolución.
+d) Cuando la infracción sea la tipificada en el apartado e) del artículo 102: reintegrar a los compradores las cantidades indebidamente percibidas.
+4. En la graduación de la sanción se tendrá en cuenta el daño producido, el enriquecimiento obtenido injustamente, la concurrencia de intencionalidad y la reincidencia por cometer en un año más de una infracción de igual naturaleza cuando así haya sido declarado por resolución firme.
+Se modifica el apartado 3 por la disposición final 1.1 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#dfprimera.
+ Se modifica el apartado 3 por la disposición final 1.1 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 106
+
+Artículo 106. Prescripción de las infracciones y sanciones.
+1. Las infracciones leves prescribirán al año, las graves a los tres años y las muy graves a los cinco años.
+Dicho plazo se contará desde el día en que fue cometida la infracción y se interrumpirá con la notificación de la iniciación del procedimiento sancionador al interesado; se reanudará el plazo si el procedimiento sancionador estuviera paralizado durante más de dos meses por causa no imputable al presunto infractor.
+2. Las sanciones leves prescribirán al año, las graves a los tres años y las muy graves a los cinco años.
+Dicho plazo se contará desde el día en que adquiera firmeza la resolución por la que se impone la sanción y se interrumpirá mediante la iniciación, con conocimiento del interesado, del procedimiento de ejecución; se reanudará el plazo de prescripción si el procedimiento de ejecución estuviera paralizado durante más de dos meses por causa no imputable al infractor.
+
+### Artículo 107
+
+Artículo 107. Competencia para la iniciación y resolución de procedimientos sancionadores.
+1. Cuando se trate de infracciones que afecten a viviendas de protección pública:
+a) Será competente para la iniciación del procedimiento sancionador por infracciones leves y graves la persona titular del Departamento Territorial competente en materia de vivienda en la provincia donde presuntamente se haya cometido la infracción, y la persona titular de la Dirección General competente en materia de vivienda en el caso de infracciones muy graves.
+b) Será competente para la imposición de sanciones por la comisión de infracciones leves y graves la persona titular de la Delegación Territorial de la Junta de Castilla y León en la provincia donde se haya cometido la infracción, y la persona titular de la consejería competente en materia de vivienda cuando la infracción sea calificada como muy grave.
+2. Cuando se trate de infracciones que afecten a viviendas libres, las competencias citadas en el apartado anterior corresponderán a los órganos municipales que sean competentes en cada caso conforme a la legislación de régimen local.
+Se modifica por la disposición final 1.2 de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#dfprimera.
+ Se modifica por la disposición final 1.2 del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Artículo 108
+
+Artículo 108. Procedimiento sancionador.
+El procedimiento para la imposición de las sanciones previstas en la presente ley, y sin perjuicio de sus especialidades, será el previsto en las disposiciones normativas por las que se regula el procedimiento sancionador de la Administración de la Comunidad de Castilla y León.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Adquisición de viviendas de promoción directa destinadas al arrendamiento.
+(Derogada)
+Se deroga por la disposición derogatoria única.1a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que esta disposición ya estaba derogada por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Utilización de medios telemáticos.
+En las actuaciones a las que se refiere la presente ley se impulsará la utilización de medios telemáticos que permitan la utilización de la firma electrónica y el acceso electrónico de los ciudadanos a los servicios públicos en materia de vivienda, garantizando los principios generales establecidos en la normativa vigente en dicha materia.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Concesión directa de ayudas previstas en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025.
+A los efectos previstos en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025, se reconoce a la Comunidad de Castilla y León la condición de adjudicataria directa de las ayudas.
+Se añade por el art. 10.4 del Decreto-ley 2/2022, de 23 de junio. Ref. BOCL-h-2022-90195
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Régimen de la vivienda de protección pública a los efectos de lo dispuesto en la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda.
+A los efectos de lo dispuesto en el artículo 16 y en la disposición transitoria primera de la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda, el régimen jurídico aplicable a la vivienda de protección pública en Castilla y León es el previsto en la legislación autonómica en materia de vivienda, con independencia de que el suelo sobre el que se promuevan las viviendas proceda o no de la obligación de reserva para construcción de viviendas sujetas a un régimen de protección pública establecida en la legislación vigente.
+Se añade por el art. 22.3 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Procedimiento de mediación previo a la admisión de determinadas demandas de grandes tenedores de vivienda.
+1. Se regula este procedimiento de mediación, que será aplicable cuando se exija como requisito previo para que los grandes tenedores de vivienda puedan interponer determinadas demandas.
+2. A efectos de este procedimiento:
+a) La condición de persona en situación de vulnerabilidad económica se acreditará mediante dictamen emitido por el servicio competente en materia de asistencia social del Ayuntamiento, o en su defecto de la Diputación Provincial, conforme a lo previsto en el apartado 4 de esta disposición.
+b) Actuará como órgano mediador el servicio territorial de la Junta de Castilla y León competente en materia de vivienda de la provincia donde radique el inmueble.
+3. El procedimiento de mediación se iniciará a instancia del gran tenedor mediante solicitud ante el órgano mediador, indicando el objeto de la controversia y la identidad y datos de localización de la persona susceptible de ser demandada, si los conoce, así como de quien, en su caso, ejerza su representación con la debida acreditación.
+4. Recibida la solicitud, el órgano mediador:
+a) La notificará a la persona susceptible de ser demandada.
+b) Informará a dicha persona del procedimiento a seguir y de las consecuencias que le supondría la aceptación o no de la mediación.
+c) Solicitará a dicha persona:
+1.º Su conformidad para participar en el procedimiento de mediación.
+2.º Su autorización para que el servicio competente en materia de asistencia social acredite su condición de persona en situación de vulnerabilidad económica.
+3.º Su autorización para acceder a los datos económicos y demás circunstancias de carácter personal que acrediten su vulnerabilidad económica, o alternativamente, que presente la documentación acreditativa de dicha situación de vulnerabilidad.
+d) En caso de que no se conozcan los datos de identificación o de localización de la persona, o no haya sido posible practicar la notificación, el órgano mediador procederá a la notificación edictal de las solicitudes citadas en la letra anterior.
+e) En caso de que no se reciba respuesta de la persona en el plazo de diez días hábiles desde el día siguiente a la fecha de notificación o de publicación del edicto, o en caso de que se reciba respuesta en la que la persona exprese su disconformidad para participar en el procedimiento, se entenderá intentado este, y así se le comunicará al gran tenedor, el cual podrá proceder conforme a lo dispuesto en el apartado 8.
+f) Cuando la persona preste su conformidad, constando que otorga un consentimiento informado, el órgano mediador lo trasladará, junto con la documentación acreditativa de sus circunstancias económicas y personales, al servicio competente en materia de asistencia social para que emita el dictamen citado en el apartado 2.b) en un plazo no superior a veinte días hábiles, que podrá ir acompañado de una propuesta de alternativas dirigida al órgano mediador. Trascurrido dicho plazo sin su emisión, o si éste determinase que no existe vulnerabilidad, se dará por terminado el procedimiento, y así se comunicará al gran tenedor, el cual podrá proceder conforme a lo dispuesto en el apartado 8.
+5. Obtenido el dictamen de vulnerabilidad, el órgano mediador citará a las partes o a sus representantes, para celebrar una sesión de mediación conforme a las siguientes reglas:
+a) La incomparecencia injustificada del presunto vulnerable conllevará la finalización del procedimiento con los efectos previstos en el apartado 8. Si la incomparecencia fuese del gran tenedor se entenderá que desiste del procedimiento.
+b) El órgano mediador dirigirá la sesión, facilitando a las partes la exposición de sus posiciones y su comunicación de modo igual y equilibrado, proponiendo alternativas viables en función de los medios con que se cuente tras el análisis de las circunstancias de las partes y de las posibles ayudas y subvenciones existentes en materia de vivienda, y orientándoles a la adopción de acuerdos. Asimismo les informará del desarrollo del procedimiento y del marco jurídico aplicable al objeto de la controversia.
+c) Oídas las partes, el órgano mediador informará de las consecuencias jurídicas del acuerdo alcanzado, o en su defecto, de los trámites posteriores.
+d) El órgano mediador levantará acta en la que hará constar:
+1.º El objeto de la controversia.
+2.º La identidad de las partes, y si estas comparecen o no.
+3.º El resultado del procedimiento, detallando en su caso el contenido de los acuerdos alcanzados, los compromisos de cada parte, con su temporización, así como las medidas y prestaciones de apoyo que pudieran activarse por la administración.
+e) El acta será facilitada a las partes y tendrá una vigencia de tres meses.
+6. La duración del procedimiento de mediación no podrá superar los dos meses desde la fecha de entrada de la solicitud. En caso de que transcurra dicho plazo sin resolución, se estará a lo dispuesto en el apartado 8.
+7. El procedimiento de mediación, incluida la documentación utilizada en el mismo, es de carácter confidencial. La obligación de confidencialidad incumbe tanto al órgano mediador como a las partes intervinientes, ninguna de las cuales podrá revelar la información que hayan podido obtener derivada del procedimiento.
+8. En caso de que el procedimiento no se lleve a cabo por incomparecencia de la persona susceptible de ser demandada, por ausencia de su conformidad para participar en el procedimiento, por la emisión del dictamen de vulnerabilidad fuera de plazo, por no iniciarse el procedimiento en el plazo de dos meses desde la fecha de la solicitud o por demorarse más de dos meses desde su inicio, la parte que solicitó el inicio del procedimiento podrá presentar ante el órgano judicial correspondiente declaración responsable de que ha acudido al procedimiento de mediación, y que lo ha hecho con cinco meses de antelación a la presentación de la demanda judicial, junto con justificante acreditativo de ello emitido por el órgano mediador. Si el justificante no se emitiera en el plazo de 5 días hábiles desde la fecha de su solicitud, se entenderá evacuado en sentido acreditativo.
+9. Lo dispuesto en este artículo será también de aplicación, en lo que corresponda, a otros procedimientos que requieran la previa acreditación de la condición de vulnerable económico o la celebración de un procedimiento de mediación.
+10. El acta resultante de la mediación servirá para poder elaborar, juntamente con los servicios sociales que hayan dictaminado la vulnerabilidad, una propuesta de medidas alternativas que recoja las prestaciones o recursos correspondientes a cada ámbito competencial, en relación con las posibles alternativas habitacionales o necesidades de atención inmediata.
+Se añade por el art. 22.4 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Exigibilidad del Libro del Edificio.
+En el caso de los edificios de viviendas que en el momento de la entrada en vigor de la presente ley no tengan Libro del Edificio, éste será exigible en los supuestos y con el contenido que se establezca reglamentariamente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Viviendas de protección pública calificadas provisionalmente.
+Las viviendas de protección pública calificadas provisionalmente con anterioridad a la entrada en vigor de la presente ley se sujetarán al régimen jurídico al amparo del cual se calificaron.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Comisiones Territoriales de Vivienda.
+(Derogada)
+Se deroga por la disposición derogatoria única.1a) de la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#ddunica.
+ Téngase en cuenta que esta disposición ya estaba derogada por el Decreto-ley 1/2013, de 31 de julio.
+ Se deroga por la disposición derogatoria única.a) del Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Departamentos territoriales competentes en materia de vivienda.
+Las competencias que la presente ley atribuye a los Departamentos Territoriales competentes en materia de vivienda se entenderán atribuidas a los Servicios Territoriales competentes en materia de vivienda en tanto en cuanto dichos Departamentos no hayan sido creados conforme a lo dispuesto en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Derechos de adquisición preferente y retracto.
+Los derechos de adquisición preferente y retracto regulados en la presente ley serán de aplicación en las segundas y posteriores transmisiones de viviendas de protección pública, y de sus anejos vinculados, que se realicen a partir de la entrada en vigor de la presente ley. En este sentido, se considera que se realiza la transmisión en la fecha en que se firme el contrato privado de compraventa o, en caso de no existir, en la fecha en que se formalice la escritura pública en la que se documente la transmisión.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la Ley 2/1999, de 19 de febrero, reguladora del Depósito del Importe de Fianzas de Contratos de Arrendamiento y de Suministro y Servicio que afecten a Fincas Urbanas, el artículo 129 de la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del artículo 110 de la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León.
+Se modifica el artículo 110 de la Ley 5/1999, de 8 de abril, que queda redactado en los siguientes términos:
+«Artículo 110. Inspección técnica de construcciones.
+1. Los propietarios de construcciones situadas en los ámbitos geográficos que se determinen reglamentariamente, deberán promover su inspección periódica por técnico competente, para evaluar su estado de conservación y el cumplimiento de los deberes urbanísticos establecidos en el artículo 8 y de las condiciones que señale, en su caso, la normativa aplicable a cada tipo de construcción.
+2. El técnico competente emitirá un certificado de haber realizado la inspección, al que adjuntará como anexo inseparable un informe en el que evalúe el estado de conservación de la construcción y el grado de cumplimiento de los deberes citados en el apartado anterior.
+3. El certificado y su informe anexo se remitirán al Ayuntamiento, el cual podrá dictar órdenes de ejecución para que se cumplan los deberes citados en el apartado primero. Cuando los propietarios no acrediten la realización de la inspección en el plazo correspondiente, el Ayuntamiento podrá requerirles para hacerlo dentro de un plazo máximo de tres meses, transcurrido el cual podrá realizar la inspección de oficio, a costa de los propietarios.
+4. Reglamentariamente se determinarán los plazos y demás condiciones en las que debe llevarse a cabo la inspección técnica de construcciones.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación del apartado 2 de la Disposición Adicional de la Ley 11/2006, de 26 de octubre, de Patrimonio de la Comunidad de Castilla y León.
+Se modifica el apartado 2 de la disposición adicional primera de la Ley 11/2006, de 26 de octubre, de Patrimonio de la Comunidad de Castilla y León, que queda redactado en los siguientes términos:
+«Disposición Adicional Primera. Gestión Patrimonial en materia de Vivienda.
+2. La Consejería competente en materia de hacienda, a propuesta de la Consejería competente en materia de vivienda, podrá ceder o enajenar inmuebles propiedad de la Administración General de la Comunidad de Castilla y León a favor de empresas, públicas o privadas, únicamente a los efectos de promover la construcción de viviendas de protección pública, y en las condiciones establecidas en la presente Ley.»
+
+### Disposición final tercera
+
+Disposición final tercera. Superficies.
+Los criterios para la medición de las superficies, tanto construida como útil, de viviendas y de sus anejos, garajes, trasteros y otros elementos se establecerá reglamentariamente.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Normas de diseño y habitabilidad.
+En el plazo de un año desde la fecha de entrada en vigor de la presente ley, la Junta de Castilla y León deberá aprobar el Decreto por el que se regulan las normas de diseño y habitabilidad de las viviendas de protección pública de Castilla y León.
+
+### Disposición final quinta
+
+Disposición final quinta. Actualización de sanciones.
+Se autoriza a la Junta de Castilla y León para que, mediante Decreto, se actualice periódicamente el importe de las sanciones previstas en la presente ley.
+
+### Disposición final sexta
+
+Disposición final sexta. Desarrollo reglamentario.
+Se faculta a la Junta de Castilla y León a dictar cuantas disposiciones fueran necesarias en desarrollo o aplicación de los preceptos de esta ley.
+
+### Disposición final séptima
+
+Disposición final séptima. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Castilla y León.
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 30 de agosto de 2010.
+El Presidente de la Junta de Castilla y León,
+Juan Vicente Herrera Campo.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que, respecto de las novedades introducidas por el Decreto-ley 1/2013, de 31 de julio. Ref. BOCL-h-2013-90021#dftercera y por la Ley 10/2013, de 16 de diciembre. Ref. BOE-A-2014-375#dftercera, por orden de la consejería competente en materia de vivienda podrán modificarse los órganos competentes para ordenar, tramitar y resolver los procedimientos regulados en las citadas normas, así como, en cuanto al régimen de las viviendas de protección pública, las excepciones a los límites de superficies y a los requisitos de los destinatarios, las especialidades del visado de las transmisiones y los contratos de arrendamientos y los supuestos de autorización de cambio de uso, según establecen sus disposiciones finales 3.1.
+ Téngase en cuenta que el importe de las sanciones se actualizarán periódicamente mediante Decreto de la Junta de Castilla y León, publicado únicamente en el "Boletín Oficial de Castilla y León", según se establece en la disposición final quinta de la presente Ley.

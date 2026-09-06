@@ -1,0 +1,77 @@
+# Real Decreto-ley 10/2008, de 12 de diciembre, por el que se adoptan medidas financieras para la mejora de la liquidez de las pequeñas y medianas empresas, y otras medidas económicas complementarias.
+
+- Identificador BOE: `BOE-A-2008-20149`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-20149
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 304, de 18 de diciembre de 2008. Ref. BOE-A-2008-20486
+
+## Preámbulo
+
+En los últimos meses se ha venido deteriorando profundamente la situación de los mercados financieros internacionales, con el consiguiente impacto negativo sobre la actividad económica real y sobre la confianza de los agentes económicos. Una de las consecuencias más destacables de la crisis financiera es la disminución de la capacidad de las entidades financieras para captar recursos en los mercados de capitales. La incertidumbre sobre los riesgos de crédito y contrapartida ha distorsionado el buen funcionamiento de los mercados, dificultando la captación de recursos por parte de las entidades financieras y, en último término, la financiación a empresas y familias.
+Aunque las entidades de crédito españolas se encuentran en una posición sólida, no son inmunes a la situación de los mercados financieros internacionales, lo que está provocando importantes restricciones en el acceso al crédito para empresas y familias. En particular, la actividad de las empresas está vinculada a la disponibilidad de crédito suficiente en el mercado, tanto para atender sus proyectos de inversión, como sus gastos operativos, lo que tiene importantes implicaciones para la actividad económica, tanto a corto plazo, como para el potencial de crecimiento a medio y largo plazo.
+Ante las circunstancias extraordinarias que se están produciendo en los mercados financieros, los Gobiernos europeos y, en particular, el Gobierno español han venido adoptando un conjunto de medidas excepcionales cuyo objetivo último es permitir que los flujos de crédito puedan llegar con normalidad a familias y empresas, de forma que las decisiones de consumo, ahorro e inversión puedan adoptarse en un entorno adecuado. La situación actual de los mercados financieros y la restricción de la financiación a pequeñas y medianas empresas, ha conducido a una situación realmente extraordinaria y a la necesidad de corregir sus efectos de manera urgente.
+En este contexto, el Gobierno español ha considerado indispensable aprobar una nueva línea de mediación del Instituto de Crédito Oficial para atender las necesidades de financiación de capital circulante de aquellas pequeñas y medianas empresas que, siendo solventes y viables, estén sometidas a una situación de fuerte restricción de crédito. La dotación de esta línea asciende a diez mil millones de euros, de los cuales la mitad será aportada por las entidades de crédito y la otra mitad por el Instituto de Crédito Oficial.
+Para que el Instituto de Crédito Oficial pueda gestionar esta línea, este real decreto-ley recoge las previsiones legales necesarias para que se pueda proceder a articular un crédito del Tesoro al Instituto de Crédito Oficial por importe de cinco mil millones de euros, y para la concesión de un crédito extraordinario al objeto de hacer frente presupuestariamente a dicho crédito. Por tanto, para dar cumplimiento a lo dispuesto en este real decreto-ley, resulta necesario conceder un crédito extraordinario al presupuesto en vigor del ejercicio 2008 para atender los pagos de la línea de mediación ICO-LIQUIDEZ, por importe de 5.000 millones de euros.
+Asimismo, por las necesidades de financiación de las nuevas líneas de financiación previstas, el límite de endeudamiento que se prevea para el Instituto de Crédito Oficial para 2009 se deberá incrementar en una cuantía adicional de hasta 15.000 millones de euros.
+El presente real decreto-ley aborda otras medidas complementarias que afectan al ordenamiento jurídico mercantil. Así, la norma dicta con una vigencia temporal limitada un régimen excepcional para las reducciones obligatorias de capital y las disoluciones de sociedades anónimas y de responsabilidad limitada como consecuencia de pérdidas. La reciente evolución de la actividad económica internacional nos sitúa en un contexto excepcional. Las pérdidas por deterioro, coyunturalmente significativas en determinadas compañías, al incorporarse a la cuenta de pérdidas y ganancias habrían de computar a los efectos del cálculo de la pérdida del patrimonio neto en los supuestos señalados de reducción de capital y disolución. Por esta razón se suspende, con una vigencia temporal de dos años y únicamente para los casos de pérdidas por deterioro del inmovilizado material, de las inversiones inmobiliarias y de las existencias, el régimen societario aplicable, sin que ello suponga, por lo demás, alteración del correspondiente régimen contable.
+Otra de las modificaciones del ordenamiento mercantil que incorpora el presente real decreto-ley se refiere al artículo 36, apartado 1, letra c) del Código de Comercio, que tiene como finalidad definir la eficacia mercantil de las variaciones de valor en los instrumentos utilizados en las operaciones de cobertura de flujos de efectivo, reconocidas en contabilidad, excluyendo las citadas variaciones del patrimonio neto a los efectos de reducción de capital, distribución de beneficios y causa de disolución.
+La urgencia de la aprobación de esta norma deriva de la actual situación económica que motiva la adopción de una serie de medidas legales como la que se emprende por medio de esta norma, con su necesaria y pronta implantación al objeto de aminorar las consecuencias de aquella situación, sin que su aprobación deba ser demorada por un ordinario procedimiento de tramitación legislativa.
+En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y del Ministro de Justicia, y previa deliberación del Consejo de Ministros en su reunión del día 12 de diciembre de 2008,
+D I S P O N G O :
+Redactado conforme a la corrección de errores publicada en BOE núm. 304, de 18 de diciembre de 2008. Ref. BOE-A-2008-20486
+
+### Artículo 1
+
+Artículo 1. Concesión de crédito.
+Se autoriza la concesión de un crédito por la Administración General del Estado al Instituto de Crédito Oficial por un importe máximo de cinco mil millones de euros, cuya finalidad será la creación y puesta en marcha de una nueva línea de mediación del Instituto de Crédito Oficial para atender las necesidades de financiación de capital circulante de las pequeñas y medianas empresas que, siendo solventes y viables, estén sometidas a una situación transitoria de restricción de crédito.
+
+### Artículo 2
+
+Artículo 2. Condiciones financieras del crédito.
+El Ministerio de Economía y Hacienda, a través de la Dirección General del Tesoro y Política Financiera y el Instituto de Crédito Oficial procederán a la firma de un convenio de colaboración donde se determinarán las condiciones financieras del crédito a que se refiere el artículo 1 de este real decreto-ley.
+
+### Artículo 3
+
+Artículo 3. Límite presupuestario de endeudamiento del Instituto de Crédito Oficial.
+El límite de endeudamiento para el Instituto de Crédito Oficial que resulte de la Ley de Presupuestos Generales del Estado para el año 2009 se verá incrementado adicionalmente en el importe de 15.000 millones de euros.
+
+### Artículo 4
+
+Artículo 4. Crédito extraordinario.
+1. Para dar cumplimiento a lo dispuesto en el artículo 1 de este real decreto-ley, se concede un crédito extraordinario al presupuesto en vigor de la Sección 15 «Ministerio de Economía y Hacienda», Servicio 16 «Secretaría de Estado de Economía», Programa 931M «Previsión y Política Económica», Concepto 822 «Préstamo al Instituto de Crédito Oficial para financiación de la línea ICO‑ LIQUIDEZ», por importe de 5.000 millones de euros.
+2. El crédito extraordinario que se concede en el párrafo anterior se financiará con deuda pública.
+
+### Disposición adicional única
+
+Disposición adicional única. Cómputo de pérdidas en los supuestos de reducción obligatoria de capital social en la sociedad anónima y de disolución en las sociedades anónimas y de responsabilidad limitada.
+1. A los solos efectos de la determinación de las pérdidas para la reducción obligatoria de capital regulada en el artículo 327 del Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y para la disolución prevista en el artículo 363.1.e) del citado Texto Refundido, así como respecto del cumplimiento del presupuesto objetivo del concurso contemplado en el artículo 2 de la Ley 22/2003, de 9 de julio, Concursal, no se computarán las pérdidas por deterioro reconocidas en las cuentas anuales, derivadas del Inmovilizado Material, las Inversiones Inmobiliarias y las Existencias o de préstamos y partidas a cobrar.
+2. Lo dispuesto en el apartado anterior únicamente será de aplicación excepcional en los ejercicios sociales que se cierren en el año 2014.
+Se modifica por la disposición final 7 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
+ Se modifica por la disposición final 7 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
+ Se modifica por la disposición final 3 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se prorroga la aplicación de lo dispuesto en el apartado 1 por el art. 1 del Real Decreto-Ley 5/2010, de 31 de marzo. Ref. BOE-A-2010-5294
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en el presente real decreto-ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del Código de Comercio.
+Se modifica el artículo 36, apartado 1, letra c) del Código de Comercio, que queda redactado como sigue:
+«Patrimonio neto: constituye la parte residual de los activos de la empresa, una vez deducidos todos sus pasivos. Incluye las aportaciones realizadas, ya sea en el momento de su constitución o en otros posteriores, por sus socios o propietarios, que no tengan la consideración de pasivos, así como los resultados acumulados u otras variaciones que le afecten.
+A los efectos de la distribución de beneficios, de la reducción obligatoria de capital social y de la disolución obligatoria por pérdidas de acuerdo con lo dispuesto en la regulación legal de las sociedades anónimas y sociedades de responsabilidad limitada, se considerará patrimonio neto el importe que se califique como tal conforme a los criterios para confeccionar las cuentas anuales, incrementado en el importe del capital social suscrito no exigido, así como en el importe del nominal y de las primas de emisión o asunción del capital social suscrito que esté registrado contablemente como pasivo. También a los citados efectos, los ajustes por cambios de valor originados en operaciones de cobertura de flujos de efectivo pendientes de imputar a la cuenta de pérdidas y ganancias no se considerarán patrimonio neto.»
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+El presente Real Decreto-ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 12 de diciembre de 2008.
+JUAN CARLOS R.
+La Presidenta del Gobierno en funciones,
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

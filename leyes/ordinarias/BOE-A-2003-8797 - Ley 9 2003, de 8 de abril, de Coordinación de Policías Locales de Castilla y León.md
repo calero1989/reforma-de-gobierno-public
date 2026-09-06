@@ -1,0 +1,583 @@
+# Ley 9/2003, de 8 de abril, de Coordinación de Policías Locales de Castilla y León.
+
+- Identificador BOE: `BOE-A-2003-8797`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-8797
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La Constitución Española reserva en el artículo 149.1.29 la competencia exclusiva sobre seguridad pública al Estado, mientras que en el artículo 148.1.22 atribuye a las Comunidades Autónomas la competencia respecto de la coordinación y demás facultades en relación con las Policías Locales.
+Por su parte, el artículo 33 del Estatuto de Autonomía, aprobado por Ley Orgánica 4/1983, de 25 de febrero, en redacción ordenada por Ley Orgánica 4/1999, de 8 de enero, reserva a la Comunidad de Castilla y León la coordinación de Policías Locales, sin perjuicio de su dependencia por las autoridades locales.
+La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad regula, entre otras cuestiones, diversos aspectos relativos a la organización y funciones de las Policías Locales y que constituyen el marco de actuación de la Comunidad Autónoma.
+Y, por último, la Ley 12/1990, de 28 de noviembre, de Coordinación de Policías Locales de Castilla y León acomoda la Policía Local a las características de dispersión y singularidad de los municipios de nuestra Comunidad, estableciendo los órganos que van a intervenir y los criterios básicos de coordinación de Policías Locales de nuestra Comunidad.
+II
+Si bien la Ley anteriormente citada ha constituido un punto de partida y una referencia para los municipios de Castilla y León con Cuerpos de Policía Local, la andadura durante doce años y la experiencia adquirida desde entonces han motivado la necesidad de su modificación y, en aras de la seguridad jurídica y del principio codificador, de su posterior derogación.
+La transformación producida en la realidad jurídica de la Comunidad de Castilla y León, así como los cambios producidos en las demandas y necesidades de los ciudadanos en materia de seguridad pública municipal, han exigido unos Cuerpos de Policía Local cada vez mejor dotados y más preparados.
+La proximidad al ciudadano y la exigencia de una eficiente Policía Local adaptada a las singulares condiciones de cada municipio han obligado a intensificar los esfuerzos desde el ámbito autonómico y local en el campo formativo y en la dotación de medios materiales y humanos.
+Este marco de la realidad existente exige un cambio de las estructuras legales que refuercen la coordinación de los Cuerpos de Policía Local, que fijen de manera concreta las funciones y actividades de estos, que configure lo que se llama su Estatuto Personal y que dé la máxima cobertura legal a todos aquellos aspectos que lo requieran.
+Desde esta exigencia, con el máximo respeto a la autonomía local y con la convicción de que las Entidades Locales se encuentran concienciadas de la importancia de una seguridad pública profesionalizada y cercana al ciudadano se hace necesaria la aprobación de un nuevo texto legal que describa y delimite lo que, tras el desarrollo reglamentario correspondiente, constituya el acervo legal en materia de Policías Locales.
+III
+El presente proyecto de ley consta de 48 artículos agrupados en tres Títulos, tres disposiciones adicionales, cinco disposiciones transitorias, dos disposiciones derogatorias y tres finales.
+El Título I hace referencia a las Policías Locales y a sus funciones, estableciendo el marco de disposiciones generales donde se inserta el conjunto del articulado. Establece la forma y exigencias para la creación de Cuerpos de Policía Local, la figura del Vigilante Municipal y aspectos generales como la uniformidad, el registro o el armamento.
+El capítulo II de este Título se refiere al ejercicio de las funciones y la exigencia de la gestión directa del servicio y de la posible existencia de convenios de colaboración con la Junta de Castilla y León en materias propias de su competencia. Los principios básicos de actuación y las relaciones con el ciudadano se contienen en el capítulo III. El capítulo IV de dicho Título regula las actuaciones extramunicipales mediante la celebración de Convenios de Colaboración entre municipios.
+Por su parte, el Título II se refiere a la coordinación de las Policías Locales, título de la presente disposición y también título, en este caso habilitante, para el ejercicio de las competencias en esta materia. Se entiende por coordinación el establecimiento de marcos de actuación integrados dentro del sistema de la seguridad pública dirigidos al funcionamiento homogéneo de los Cuerpos de Policía Local de la Comunidad de Castilla y León.
+Esta coordinación persigue la integración de todas las partes o de todos los subsistemas en un todo o en el conjunto del sistema, tal y como recuerda la jurisprudencia constitucional, reduciendo las disfunciones que pudieran existir y que impedirían o dificultarían la existencia propia del sistema o del conjunto.
+La coordinación debe dirigirse a la fijación de medios y relaciones que hagan posible la información recíproca, la homogeneidad técnica y la acción conjunta, de tal forma que se alcance con éxito la idea de integrar las distintas actuaciones parciales en la globalidad del sistema.
+Por ello, se establece el campo donde actúe la Comunidad de Castilla y León, y se potencia y regula el máximo órgano de representación y coordinación de las partes intervinientes y de los agentes sociales afectados en esta materia: la administración autonómica, municipal, los sindicatos y los mandos de Policía Local.
+Cierra el Título II la formación de las Policías Locales, que por su importancia requiere un capítulo, el segundo, independiente.
+El Título III, el más reglamentado, describe el estatuto jurídico de los Policías Locales, en el marco de la legislación sobre Función Pública y sobre Régimen Local y sin perjuicio de la autonomía local.
+La profesionalización, cada vez mayor, y el aumento de las funciones de los Cuerpos de Policías Locales han motivado la reorganización de sus escalas y categorías, simplificando y racionalizando su estructura.
+El régimen de selección y promoción ha sido también objeto de una rigurosa y detallada regulación en el Capítulo III. Las convocatorias de selección, la promoción interna y la movilidad horizontal son objeto de atención preferente.
+El Estatuto Personal se regula en el capítulo IV mediante preceptos relativos a la jubilación y a la segunda actividad, así como los deberes específicos, los derechos y los premios y condecoraciones, entre otros.
+Por último, correcto en la sistemática, cierra el Capítulo V, tanto el Título III como el articulado del proyecto de Ley, mediante el otorgamiento de la máxima cobertura legal al régimen disciplinario de los miembros integrantes de los Cuerpos de Policías Locales.
+Completan el edificio jurídico las tres disposiciones adicionales que incorporan materias no previstas en el articulado. Aunque proyectada para el futuro, esta disposición general ha cuidado las situaciones y conflictos que la aplicación de la norma pudiera producir en el presente con un sistema de disposiciones transitorias que respetan los principios de mérito y capacidad, los derechos consolidados y las expectativas de terceros interesados.
+La derogación de la Ley 12/1990, de 28 de noviembre, de Coordinación de Policías Locales de Castilla y León, las debidas autorizaciones de desarrollo normativo y el momento de entrada en vigor ponen punto final y agotan el cuerpo de la presente Ley que se ha caracterizado por el consenso alcanzado en el momento de su preparación.
+
+## TÍTULO I
+
+De las Policías Locales y sus funciones
+
+## CAPÍTULO I
+
+Disposiciones Generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de la presente Ley es el establecimiento de los criterios básicos para la coordinación de la actuación de las Policías Locales en el ámbito territorial de la Comunidad de Castilla y León, de conformidad con las funciones atribuidas en la legislación de Régimen Local y en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y con respeto a la autonomía local.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de general aplicación a los Cuerpos de Policía Local de los municipios de Castilla y León.
+Se modifica por el art. único.1 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 3
+
+Artículo 3. Naturaleza Jurídica.
+1. Los Cuerpos de Policía Local son Institutos Armados de naturaleza civil, con estructura y organización jerarquizada, cuyo régimen estatutario queda sometido a la presente Ley, dentro de los principios generales de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, a los Reglamentos específicos de cada Cuerpo y demás normas dictadas por los correspondientes Ayuntamientos.
+2. En cada municipio, la Policía Local se organiza en un cuerpo único, que estará bajo la superior autoridad y dependencia directa del Alcalde.
+3. En el ejercicio de sus funciones los miembros de los Cuerpos de Policía Local tendrán, a todos los efectos legales, el carácter de agentes de la autoridad.
+
+### Artículo 4
+
+Artículo 4. Ámbito territorial.
+Los Cuerpos de Policía Local solo podrán actuar en el ámbito territorial del municipio respectivo, salvo en los supuestos previstos en la presente Ley.
+
+### Artículo 5
+
+Artículo 5. Denominación.
+1. Los Cuerpos de Policía de las Corporaciones Locales tendrán la denominación genérica de Cuerpos de Policía Local.
+2. No obstante lo dispuesto en el apartado anterior, las Policías Locales, por razones de tradición histórica, y siempre que lo acuerde la respectiva Corporación Local, pueden recibir también la denominación específica de Policía Municipal.
+
+### Artículo 6
+
+Artículo 6. Cuerpos de Policía Local.
+1. Los municipios de la Comunidad de Castilla y León podrán crear Cuerpos de Policía propios, siempre que lo estimen oportuno en función de sus necesidades, de acuerdo con lo previsto en la presente ley, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, así como en la legislación de Régimen Local.
+2. Con carácter general, y con independencia de otras limitaciones legales, todos los municipios que cuenten con Cuerpos de Policía Local propios deberán disponer de dependencias específicas y adecuadas a sus funciones, de medios técnicos idóneos y suficiente dotación presupuestaria.
+3. Específicamente, los municipios cuyos Cuerpos de Policía Local estén integrados por siete o más efectivos, deberán cumplir las siguientes condiciones:
+a) Contar, como mínimo, con una plantilla de: un Subinspector, un Oficial y cinco Agentes.
+b) Cubrir el servicio de forma permanente.
+Se modifica por el art. único.2 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 7
+
+Artículo 7. Adscripción de personal de apoyo.
+1. Sin perjuicio de las funciones de apoyo a la actividad policial a desempeñar por los policías locales en situación de segunda actividad, los Cuerpos de Policía Local podrán tener adscrito personal técnico, administrativo o de oficios que se considere necesario. Dicho personal realizará las funciones propias de sus categorías respectivas, no pudiendo ejercer tareas policiales o que requieran la condición de agente de la autoridad.
+2. Las disposiciones de la presente Ley no serán de aplicación al personal señalado en el apartado anterior, estando sometido al régimen administrativo establecido con carácter general para el resto del personal del Ayuntamiento correspondiente.
+
+### Artículo 8
+
+Artículo 8. Vigilantes Municipales.
+(Suprimido).
+Se suprime por el art. único.3 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 9
+
+Artículo 9. Uniformidad.
+1. En el ejercicio de sus funciones, los miembros de los Cuerpos de Policía Local deberán vestir el uniforme reglamentario, con las excepciones previstas en la normativa.
+2. La uniformidad será homogénea para todos los Cuerpos de Policía Local de la Comunidad de Castilla y León, e incorporará necesariamente el emblema de la Comunidad Autónoma, el del municipio correspondiente y el número de identificación profesional del funcionario.
+3. El vestuario estará constituido por el conjunto de prendas reglamentarias que constituyen el uniforme necesario para el desempeño de las diferentes funciones asignadas a la Policía Local, el cual será regulado por la Consejería competente en materia de coordinación de Policías Locales.
+4. Todos los miembros de los Cuerpos de Policía Local estarán provistos de un documento de acreditación profesional expedido por la correspondiente Corporación Local, ajustándose al modelo que defina la Consejería competente en materia de coordinación de Policías Locales, en el que, al menos, constará el nombre del municipio, el del funcionario, su categoría y el número de identificación profesional del funcionario.
+
+### Artículo 10
+
+Artículo 10. Registro.
+Adscrito a la Consejería competente en materia de coordinación de Policías Locales se constituirá, a efectos estadísticos, un Registro de miembros de los Cuerpos de Policía Local y de los Vigilantes Municipales de la Comunidad de Castilla y León, en el que se inscribirá a quienes pertenezcan a los mismos.
+
+### Artículo 11
+
+Artículo 11. Armamento.
+1. Los miembros de los Cuerpos de Policía Local, como integrantes de un Instituto Armado, llevarán el armamento reglamentario que se les asigne. A tal fin se proporcionarán por las Corporaciones Locales competentes los medios técnicos necesarios para su eficacia.
+2. A fin de garantizar una adecuada preparación en el uso del arma, las Corporaciones Locales deberán promover la realización de un número mínimo anual de prácticas de ejercicio de tiro.
+Se suprime el apartado 3 por el art. único.4 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+## CAPÍTULO II
+
+Del ejercicio de las funciones
+
+### Artículo 12
+
+Artículo 12. Gestión directa.
+El ejercicio de las competencias de las Corporaciones Locales en el mantenimiento de la seguridad pública será prestado directamente por aquellas, no pudiéndose reservar su ejercicio a sistemas de gestión indirecta del servicio.
+
+### Artículo 13
+
+Artículo 13. Funciones.
+1. Son funciones de los Cuerpos de Policía Local las señaladas en el artículo 53 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+2. Previo convenio entre la Junta de Castilla y León y los respectivos municipios, las Policías Locales también podrán ejercer en su término municipal las siguientes funciones:
+1) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma, con especial atención a las materias relativas a la mujer, la protección del menor y del medio ambiente.
+2) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de sus servicios.
+3) La inspección de las actividades sometidas a la ordenación o disciplina de la Comunidad Autónoma, denunciando toda actividad ilícita.
+4) El uso de la coacción en orden a la ejecución forzosa de los actos o disposiciones de la propia Comunidad Autónoma.
+
+## CAPÍTULO III
+
+Principios básicos de actuación
+
+### Artículo 14
+
+Artículo 14. Principios básicos de actuación.
+Los miembros de los Cuerpos de Policía Local deberán sujetarse en su actuación a los principios básicos recogidos en el capítulo II del Título I de la Ley Orgánica 2/1986, de 13 de octubre, de Fuerzas y Cuerpos de Seguridad.
+
+## CAPÍTULO IV
+
+Actuaciones extramunicipales
+
+### Artículo 15
+
+Artículo 15. Ámbito territorial de actuación.
+1. Sin perjuicio de lo previsto en el artículo 16 de la presente Ley, los Cuerpos de Policía Local podrán actuar fuera del ámbito territorial de su municipio siempre que sean requeridos por la autoridad competente y siempre en situaciones de emergencia.
+Para ello deberán ser autorizados por la Junta Local de Seguridad respectiva o, en su caso, por el Alcalde de su municipio y los servicios que se realicen fuera del propio término municipal se harán bajo la dependencia directa de los mandos inmediatos y del Alcalde del municipio donde actuaren impartiendo las ordenes e instrucciones a través del mando de mayor categoría desplazado al municipio.
+2. Las funciones de protección de las autoridades de las Corporaciones Locales que les atribuye la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, así como de las personas a que se refiere el artículo 13.2.2) de la presente Ley, podrán ser ejercidas por los policías locales, previamente dispensados de la uniformidad, cuando las autoridades o el personal protegidos salgan del término municipal.
+
+### Artículo 16
+
+Artículo 16. Convenios de colaboración entre municipios.
+Para atender eventualmente las necesidades municipales que no requieran un aumento permanente de plantilla, los Ayuntamientos de la Comunidad de Castilla y León podrán convenir entre sí que miembros de los Cuerpos de Policía Local, previa aceptación de los mismos, puedan actuar fuera de sus propios términos municipales, por tiempo determinado, en comisión de servicios, percibiendo las retribuciones e indemnizaciones que les correspondan. Los servicios se prestarán bajo la superior jefatura del Alcalde del municipio donde se realicen y bajo el mando directo de los mandos de ese municipio. Estos convenios deberán ser comunicados a la Consejería competente en materia de coordinación de Policías Locales de la Comunidad de Castilla y León en el plazo de un mes desde la celebración de los mismos.
+
+### Artículo 17
+
+Artículo 17. Juntas Locales de Seguridad.
+De conformidad con lo dispuesto en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, se podrá constituir una Junta Local de Seguridad en los municipios que tengan Cuerpo de Policía Local propio.
+
+## TÍTULO II
+
+De la coordinación de las Policías Locales
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 18
+
+Artículo 18. Coordinación.
+1. A los efectos de la presente Ley, se entiende por coordinación el establecimiento de marcos de actuación integrados dentro del sistema de la seguridad pública dirigidos al funcionamiento homogéneo de los Cuerpos de Policía Local de la Comunidad de Castilla y León.
+2. La Junta de Castilla y León, a través de la Consejería competente, coordinará la actuación de las Policías Locales en su ámbito territorial mediante el ejercicio de las siguientes funciones:
+1) El establecimiento de normas-marco a las que habrán de ajustarse los Reglamentos municipales de Policía Local.
+2) La homogeneización de los medios técnicos para aumentar su eficacia, en especial los sistemas de información e intercomunicación, así como de la uniformidad, de la acreditación profesional y el sistema retributivo.
+3) La unificación de los criterios de selección, formación, promoción y movilidad de las Policías Locales, así como la fijación de criterios para determinar las categorías y puestos que impliquen mando y que integrarán las correspondientes plantillas de los Cuerpos de Policía Local.
+4) El asesoramiento técnico en materia de coordinación de Policías Locales a los municipios de la Comunidad de Castilla y León.
+5) Impulsar la homogeneización de métodos y protocolos de actuación de los Cuerpos de Policía Local de la Comunidad de Castilla y León.
+6) La coordinación de la formación profesional de las Policías Locales a través de la Escuela Regional de Policía Local de la Comunidad de Castilla y León.
+7) Posibilitar el establecimiento de una red de transmisiones que enlazará a todos los servicios de las policías locales de Castilla y León, y un banco de datos relativo a sus funciones, al que podrán tener acceso todos los municipios a través de sistemas informáticos.
+
+### Artículo 19
+
+Artículo 19. Órgano de asesoramiento, participación y coordinación.
+1. El Consejo de Cooperación Local será el órgano asesor en materia de policías locales y servirá como cauce de participación de los municipios y policías para la coordinación de las actuaciones que les atañen.
+2. En relación con las Policías Locales, el Consejo de Cooperación Local ejercerá las siguientes funciones:
+a) Conocer los anteproyectos de ley y los proyectos de disposiciones generales que afecten a la actuación de las Policías Locales que elaboren tanto la Comunidad de Castilla y León como sus Ayuntamientos.
+b) Informar los criterios de homogeneización sobre los medios técnicos, uniformidad y retribuciones económicas, cursos selectivos, actualización y especialización y de interés policial de las Policías Locales previstos en la Ley 9/2003, de 8 de abril, de Policías Locales de Castilla y León.
+c) Conocer los procesos de selección y promoción de las Policías Locales, así como de las actividades y cursos de formación impartidos por la Escuela Regional de Policía Local de la Comunidad de Castilla y León.
+d) Conocer las plantillas de los Cuerpos de Policía Local elaboradas por los Ayuntamientos.
+e) Conocer la concesión e imposición de las medallas y premios previstas en la Ley 9/2003, de 8 de abril, de Policías Locales de Castilla y León.
+f) Actuar como órgano de mediación en los conflictos colectivos que se susciten entre las Corporaciones Locales y los funcionarios de Policía a su servicio, cuando lo solicite al menos una de las partes.
+g) Cualesquiera otras que se le atribuyan por las disposiciones legales y reglamentarias, así como las que se le encomienden o deleguen.
+Se modifica por el art. 16.1 de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 20
+
+Artículo 20. Composición de la Comisión Regional de Coordinación de Policías Locales.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.c) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 21
+
+Artículo 21. Régimen de convocatorias de la Comisión Regional de Coordinación de Policías Locales.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.c) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 22
+
+Artículo 22. Régimen de funcionamiento de la Comisión Regional de Coordinación de Policías Locales.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.c) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+### Artículo 23
+
+Artículo 23. Funciones de la Comisión Regional de Coordinación de Policías Locales.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.c) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959.
+
+## CAPÍTULO II
+
+La formación de las Policías Locales
+
+### Artículo 24
+
+Artículo 24. La formación profesional de las Policías Locales.
+1. Corresponde a la Junta de Castilla y León, a través de la Consejería competente en la materia, la coordinación de la formación profesional de las Policías Locales de la Comunidad de Castilla y León, de acuerdo con lo establecido en la presente Ley.
+2. La Escuela Regional de Policía Local, dependiente de la Consejería competente en la materia, ejercerá, además de otras que puedan serle atribuidas, las siguientes competencias:
+a) Ordenación, programación y ejecución de los cursos selectivos de formación tanto de acceso libre como de promoción interna y movilidad vertical, incluyendo la tutorización del período de prácticas vinculado a los diferentes procesos selectivos.
+b) Programación y realización de cursos de perfeccionamiento, especialización y reciclaje, así como jornadas y seminarios técnicos de interés para los Cuerpos de Policía Local. Todo ello sin perjuicio de las competencias de otras Administraciones Públicas.
+c) Homologación, teniendo en cuenta los diferentes contenidos formativos, número de horas y cualificación del profesorado, de los cursos de actualización y especialización de interés policial impartidos tanto por municipios de la Comunidad de Castilla y León que posean Centros de Formación, como, previa celebración del correspondiente Convenio, por Centros de Formación policial de las Comunidades Autónomas. Igualmente, la Escuela Regional de Policía Local podrá homologar cursos de interés policial impartidos por centros y organismos oficiales, públicos o privados.
+d) Elaboración, publicación y difusión de estudios y trabajos en el ámbito de su actividad y fines.
+e) Asesoramiento y apoyo a las Corporaciones Locales en los procesos selectivos y de formación de sus Policías.
+3. De conformidad con la legislación vigente y para dar cumplimiento a la previsión contenida en el apartado anterior, la Junta de Castilla y León, a través de la Consejería competente en la materia, podrá establecer los convenios de colaboración que estime conveniente para la realización de las actividades formativas que le son propias. Asimismo podrá establecer y organizar, en colaboración con centros universitarios, cursos específicos dirigidos a la obtención de Títulos Propios en materia de seguridad, que podrán sustituir, a todos los efectos, los cursos selectivos de formación tanto de acceso libre como de promoción interna.
+
+## TÍTULO III
+
+Del Régimen Jurídico de los Cuerpos de Policía Local
+
+## CAPÍTULO I
+
+Organización y estructura
+
+### Artículo 25
+
+Artículo 25. Escalas, Categorías y Grupos.
+1. Los Cuerpos de Policía Local se estructurarán en las siguientes Escalas y Categorías:
+1) Escala Superior, que comprende las categorías siguientes:
+a) Superintendente.
+b) Intendente.
+c) Mayor.
+Las categorías de Superintendente, Intendente y Mayor se clasifican en el Grupo A.
+2) Escala Técnica, que comprende las categorías siguientes:
+a) Inspector.
+b) Subinspector.
+Las categorías de Inspector y Subinspector se clasifican en el Grupo B.
+3) Escala Ejecutiva, que comprende las categorías siguientes:
+a) Oficial.
+b) Agente.
+Las categorías de Oficial y Agente se clasifican en el Grupo C.
+2. El acceso a cada una de las Escalas y Categorías exigirá estar en posesión de la titulación académica requerida para los grupos correspondientes por la vigente legislación sobre Función Pública.
+
+### Artículo 26
+
+Artículo 26. Plantillas.
+1. Corresponde a cada Ayuntamiento aprobar la plantilla del respectivo Cuerpo de Policía Local, que integrará todos los puestos de trabajo correspondientes a cada categoría, señalando su denominación y características esenciales, requisitos exigidos para su desempeño, niveles y complementos retributivos.
+2. La Junta de Castilla y León establecerá reglamentariamente los criterios para determinar las categorías y puestos que impliquen mando que, en función del número de policías y del factor poblacional, integrarán las correspondientes plantillas de cada Cuerpo de Policía Local.
+
+### Artículo 27
+
+Artículo 27. Jefatura del Cuerpo.
+1. El Jefe inmediato del Cuerpo será el miembro de la plantilla de mayor jerarquía. En caso de igualdad se hará el nombramiento por el sistema de libre designación. Igualmente se designará quien deba sustituir al Jefe del Cuerpo en caso de ausencia.
+2. En los Ayuntamientos correspondientes a capitales de provincia así como en los de municipios de población igual o superior a 50.000 habitantes, la Jefatura del Cuerpo será desempeñada por funcionario perteneciente al Grupo A. Reglamentariamente se fijarán los grupos de pertenencia de las Jefaturas de los restantes Cuerpos de Policía Local.
+3. Corresponderá al Jefe del Cuerpo la dirección, coordinación y supervisión de las actuaciones operativas del Cuerpo, así como la administración que asegure su eficacia, debiendo informar a sus superiores sobre el funcionamiento del servicio.
+4. En los Cuerpos de Policía Local podrá existir un Subjefe del Cuerpo que será normado por el Alcalde, a propuesta del jefe de la Plantilla, entre los funcionarios de su misma categoría, si los hubiere, o de la inmediata inferior.
+
+## CAPÍTULO II
+
+Régimen estatutario
+
+### Artículo 28
+
+Artículo 28. Régimen estatutario.
+Los Cuerpos de Policía Local estarán integrados exclusivamente por funcionarios de carrera de los municipios respectivos. Únicamente adquirirán tal condición de miembros del Cuerpo de la Policía Local una vez superado el proceso selectivo, y subsiguientes nombramiento y toma de posesión. Dichos miembros estarán sometidos, en cuanto a su régimen estatutario, a la presente Ley, a la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, a la legislación de Régimen Local y a las disposiciones generales de aplicación en materia de Función Pública.
+
+## CAPÍTULO III
+
+Régimen de Selección y Promoción
+
+### Artículo 29
+
+Artículo 29. Acceso al Cuerpo.
+1. Sin perjuicio de lo establecido en los artículos 32 y 33 de la presente Ley, referidos a promoción interna y movilidad entre efectivos de los distintos Cuerpos de Policía Local de la Comunidad de Castilla y León, el acceso a los Cuerpos de Policía Local se realizará siempre mediante oposición o concurso-oposición libre, de acuerdo con los principios de publicidad, igualdad, mérito y capacidad, siendo necesario el curso selectivo impartido a tal efecto por la Escuela Regional de Policía Local, el cual incluirá un periodo de prácticas municipal.
+2. Los requisitos establecidos en las bases de convocatoria deberán ser los siguientes:
+a) Ser español.
+b) Tener dieciocho años de edad y no superar la edad que para la jubilación forzosa se determine en la legislación vigente en materia de Fuerzas y Cuerpos de Seguridad.
+c) Estar en posesión o en condiciones de obtener las titulaciones académicas exigibles correspondientes a los grupos de clasificación de funcionarios en que se encuentren encuadradas las plazas convocadas.
+d) Cumplir las condiciones físicas y psíquicas exigibles para ejercer adecuadamente las correspondientes funciones.
+e) No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, para el acceso al cuerpo o escala de funcionario, o para ejercer funciones similares a las que desempeñaban en el caso del personal laboral, en el que hubiese sido separado o inhabilitado.
+f) Carecer de antecedentes penales por delitos dolosos.
+g) (Derogada)
+h) Estar en posesión de los permisos de conducir vehículos de motor que se determinen reglamentariamente.
+i) Declaración jurada de compromiso de portar armas y de utilizarlas en los casos previstos en la Ley.
+3. Todos los requisitos establecidos en el apartado anterior deberán ser reunidos por el aspirante el día en que finalice el plazo para la presentación de instancias de la correspondiente convocatoria, salvo los permisos de conducción de vehículos a motor que se determinen reglamentariamente, que deberán poseerse antes de la toma de posesión como funcionario.
+4. Las bases de ingreso en los Cuerpos de Policía Local a través de la categoría de agente podrán determinar una reserva de un máximo del 20 por 100 de las plazas convocadas para el acceso libre de militares profesionales de tropa y marinería con más de cinco años de servicio que cumplan los requisitos establecidos para el ingreso en aquellos Cuerpos. Las plazas reservadas no cubiertas se acumularán al resto de las convocadas.
+Se deroga la letra g) del apartado 2 por la disposición derogatoria de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+ Se modifica el apartado 2 y se añade el 4 por la disposición final 5.1 y 2 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+ Téngase en cuenta para su aplicación el apartado 8 de la citada disposición final 5.3.
+
+### Artículo 30
+
+Artículo 30. Pruebas selectivas para el acceso al Cuerpo.
+1. Se incluirán en la fase de oposición las siguientes pruebas, que tendrán, en todo caso, carácter eliminatorio:
+– Reconocimiento médico, orientado a la función policial a desempeñar.
+– Pruebas psicotécnicas, homologadas por el Escuela Regional de Policía Local de la Comunidad de Castilla y León, orientadas a la función policial a desarrollar.
+– Pruebas físicas, adecuadas a la capacidad necesaria para las funciones a realizar.
+– Pruebas teóricas de conocimientos, relacionadas con el contenido del temario de la correspondiente convocatoria.
+Cuando se trate del acceso a las Categorías de Inspector o Intendente, se incluirá, además de las pruebas señaladas anteriormente, como última prueba de la fase de oposición la presentación y defensa oral de un proyecto profesional relacionado con el puesto a desempeñar.
+2. El número de aspirantes propuestos para la realización de las siguientes fases del proceso selectivo no podrá ser superior al de plazas a cubrir.
+3. Para el acceso por turno libre, los aspirantes deberán superar un curso cuya duración no será inferior a nueve meses, impartido en la Escuela Regional de Policía Local, y en el que se incluirá un periodo de prácticas municipal.
+
+### Artículo 31
+
+Artículo 31. Convocatorias de pruebas selectivas.
+1. La convocatoria para el acceso a dichos Cuerpos será formulada por los respectivos Ayuntamientos dentro de las previsiones de su Oferta de Empleo Pública anual, dichas convocatorias deberán publicarse en el Boletín Oficial de la Comunidad de Castilla y León, ajustándose a los requisitos exigidos por la legislación básica del Estado.
+2. La Junta de Castilla y León podrá asumir la convocatoria unificada de las plazas vacantes en aquellos Ayuntamientos que así lo acuerden mediante los oportunos convenios de colaboración.
+Cuando así se determine en la convocatoria unificada, podrán ofertarse en el mismo proceso selectivo, a resultas, los puestos de trabajo que, de conformidad con los correspondientes ayuntamientos, resulten vacantes por haber obtenido los efectivos policiales que los ocupaban nueva plaza tras la resolución del proceso selectivo unificado al que corresponde la convocatoria, y siempre que dichos efectivos policiales fueran integrantes de Cuerpos de Policía Local de ayuntamientos que hubieran participado en dicho proceso selectivo unificado.
+Las plazas a resultas se ofertarán, por una sola vez, a aquellos aspirantes que resulten aptos en la relación complementaria aprobada por el tribunal calificador a los efectos previstos en el párrafo 2.º del artículo 61.8 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+3. La Comunidad de Castilla y León participará en los Tribunales de Selección de Policías Locales en la forma que establezca reglamentariamente.
+4. Los miembros de los Tribunales y asesores deberán abstenerse de formar parte de los mismos cuando concurran las causas previstas en el artículo 28 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, notificándolo a la autoridad convocante.
+Se modifica el apartado 2 por el art. 16 de la Ley 4/2024, de 9 de mayo. Ref. BOE-A-2024-14546
+
+### Artículo 32
+
+Artículo 32. Promoción interna.
+Las plazas vacantes de funcionarios de categoría de Oficial y superiores se cubrirán por el sistema de promoción interna.
+Reglamentariamente se determinarán las condiciones y requisitos de la promoción interna, que necesariamente deberán incluir los siguientes:
+a) proceso selectivo consistente en concurso-oposición,
+b) exigencia de la titulación correspondiente al grupo.
+
+### Artículo 33
+
+Artículo 33. Movilidad horizontal.
+1. La Corporación Local, cuando no existan aspirantes de promoción interna o estos no superen dicha fase, podrá cubrir las vacantes por miembros de la misma categoría de otros Cuerpos de Policía Local.
+2. Cuando las plazas convocadas por este último sistema queden vacantes, las mismas se acumularán al número de plazas convocadas para la cobertura por el sistema de acceso libre.
+3. El sistema de selección de las convocatorias de movilidad horizontal se determinará reglamentariamente.
+
+### Artículo 34
+
+Artículo 34. Cobertura de la plaza de la categoría que implique la Jefatura del Cuerpo de Policía Local.
+En las convocatorias para la provisión de la plaza de la categoría que implique la Jefatura del Cuerpo. La Corporación Local podrá optar por cualquiera de los sistemas selectivos previstos para la cobertura de las correspondientes categorías.
+Se modifica por la Ley 13/2006, de 13 de noviembre. Ref. BOE-A-2006-21910.
+
+## CAPÍTULO IV
+
+Estatuto Personal
+
+### Artículo 35
+
+Artículo 35. Definición, causas y características de la segunda actividad.
+1. La segunda actividad es una modalidad de la situación administrativa de servicio activo de los funcionarios de los cuerpos de policía local mediante la que se pretende garantizar que los servicios de la policía local sean desarrollados por los funcionarios que cuenten con la adecuada capacidad.
+2. Los miembros de la policía local podrán pasar a la situación de segunda actividad, voluntariamente por cumplimiento de las edades que se determinan para cada escala, o por disminución de aptitudes físicas o psíquicas, debidamente acreditada mediante el procedimiento establecido en los artículos siguientes.
+3. La segunda actividad se desarrollará prestando servicio en destino adecuado a la categoría que se ostente y determinado por el Ayuntamiento, preferentemente en el cuerpo de policía local y si ello no fuese posible, en otros puestos de trabajo del resto de los servicios municipales. A estos efectos se entenderán como puestos de la misma categoría los que tengan el mismo nivel administrativo.
+4. El pase a la situación de segunda actividad no supondrá disminución de las retribuciones básicas y complementarias, excepto aquéllas derivadas de las condiciones de desempeño vinculadas al destino de prestación del servicio.
+5. En la situación de segunda actividad no se podrá participar en procedimientos de promoción o movilidad en los cuerpos de la policía local.
+Se modifica por la disposición final 5.3 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+ Téngase en cuenta para su aplicación el apartado 8 de la citada disposición final 5.3.
+
+### Artículo 35 bis
+
+Artículo 35 bis. Segunda actividad por razón de edad.
+1. El pase a la situación de segunda actividad por razones de edad, que será irrevocable una vez concedida, podrá tener lugar al cumplirse las siguientes edades mínimas:
+a) Escalas técnica y superior: Sesenta y dos años.
+b) Escala básica: Sesenta años.
+2. El procedimiento se iniciará mediante solicitud del interesado, que deberá presentarse al menos con nueve meses de antelación a la fecha en la que el funcionario quiera pasar a segunda actividad.
+3. En el plazo de tres meses el Alcalde resolverá lo que proceda, previo informe del jefe del cuerpo de policía local, dando cuenta a los órganos de representación de los funcionarios. Transcurrido dicho plazo sin que se produzca resolución expresa, se entenderá aceptada la declaración de segunda actividad.
+Se añade por la disposición final 5.4 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+ Téngase en cuenta para su aplicación el apartado 8 de la citada disposición final 5.3.
+
+### Artículo 35 ter
+
+Artículo 35 ter. Segunda actividad por disminución de aptitudes físicas o psíquicas.
+1. Pasarán a la situación de segunda actividad, sin la exigencia de las edades determinadas en el artículo anterior, los funcionarios de los cuerpos de policía local que sufran disminución de las aptitudes físicas o psíquicas, de acuerdo con el procedimiento establecido en los apartados siguientes, siempre y cuando la disminución de dichas aptitudes no sean causa de incapacidad permanente.
+2. La evaluación de la disminución se realizará, de oficio o a instancia del interesado, por los servicios médicos municipales o, en caso de no existir, por facultativos designados por el Ayuntamiento. A petición del interesado, la evaluación se realizará por un tribunal médico compuesto por tres facultativos, uno a propuesta de la consejería competente en materia de sanidad, otro a propuesta del Ayuntamiento y el tercero a propuesta del interesado.
+3. El dictamen médico emitido a que se refiere el apartado anterior se elevará al órgano municipal competente, que resolverá en el plazo de tres meses a contar desde la recepción del dictamen médico. Transcurrido dicho plazo sin que se produzca resolución expresa, en los expedientes iniciados a instancia del interesado, se entenderá desestimada la declaración de segunda actividad por disminución de aptitudes físicas o psíquicas.
+4. Podrá acordarse, de oficio o a solicitud del interesado, el reingreso en el servicio activo, en el caso de que hayan desaparecido las causas que motivaron la disminución de aptitudes físicas o psíquicas, previo dictamen médico, emitido en las mismas condiciones y procedimiento determinados en los apartados anteriores.
+Se añade por la disposición final 5.5 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+ Téngase en cuenta para su aplicación el apartado 8 de la citada disposición final 5.3.
+
+### Artículo 35 quáter
+
+Artículo 35 quáter. Jubilación.
+La jubilación forzosa se producirá al cumplir el funcionario la edad que se determine en la legislación vigente en materia de Fuerzas y Cuerpos de Seguridad.
+Se añade por la disposición final 5.6 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+ Téngase en cuenta para su aplicación el apartado 8 de la citada disposición final 5.3.
+
+### Artículo 36
+
+Artículo 36. Deberes específicos.
+Sin perjuicio de lo establecido en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, en la legislación general sobre funcionarios y en la presente Ley, son deberes específicos de los miembros de los Cuerpos de Policía Local:
+1) Los integrantes de los Cuerpos de Policía Local deberán presentarse en todo momento en perfecto estado de uniformidad y aseo personal, manteniendo en buen estado de conservación tanto el vestuario como los equipos que le fueren entregados o encomendados para su uso o custodia.
+2) Estarán obligados a cumplir íntegramente su jornada de trabajo. Si alguna indisposición les obligase a abandonar el servicio, intentarán, por todos los medios a su alcance, ponerlo previamente en conocimiento de su superior jerárquico, y, si esto no fuera posible, lo comunicarán cuanto antes después de abandonar el servicio.
+3) Saludar a las Autoridades locales, autonómicas y estatales y a sus símbolos e himnos en actos oficiales, así como a sus mandos y a cualquier ciudadano al que se dirijan.
+4) Portar armas y utilizarlas en los casos y en la forma prevista en la legislación vigente.
+
+### Artículo 37
+
+Artículo 37. Derechos.
+Los miembros de las Policías Locales tendrán los derechos que les correspondan como funcionarios de las Administraciones Locales, los derivados de su régimen estatutario, los contenidos en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad y en la presente de Ley. Reglamentariamente se determinará su alcance y las condiciones para su ejercicio.
+
+### Artículo 38
+
+Artículo 38. Salud laboral.
+1. Las Corporaciones Locales pondrán a disposición de los miembros de los Cuerpos de Policía Local los medios e instalaciones adecuados para el desarrollo de sus funciones. Asimismo garantizarán la vigilancia periódica del estado de salud de los efectivos policiales mediante una revisión anual de carácter médico.
+2. En el caso de que se adviertan alteraciones en el normal desarrollo de las funciones policiales, el Ayuntamiento, de oficio o a instancia del funcionario afectado, mediante resolución motivada, podrá solicitar la realización de un reconocimiento médico y psicológico, a fin de que puedan ser adoptadas las medidas orientadas a preservar la salud del funcionario.
+En dicha resolución se podrá acordar la retirada cautelar del arma reglamentaria cuando existiesen indicios razonables de que la tenencia de la misma pudiera implicar graves riesgos para la integridad física del funcionario afectado o la de terceras personas.
+3. En materia de salud laboral será de aplicación lo establecido en la Ley de Prevención de Riesgos Laborales, y demás disposiciones aplicables en la materia.
+
+### Artículo 39
+
+Artículo 39. Premios y condecoraciones.
+1. La Junta de Castilla y León podrá establecer y en su caso conceder premios, distinciones y condecoraciones para premiar a aquellos miembros de los Cuerpos de Policía Local que se distingan en el desempeño de sus funciones.
+2. Los Reglamentos específicos de cada Cuerpo de Policía Local podrán establecer un régimen de otorgamiento de distinciones y recompensas a sus miembros en premio al desempeño de sus funciones en determinados supuestos o circunstancias.
+
+## CAPÍTULO V
+
+Régimen Disciplinario
+
+### Artículo 40
+
+Artículo 40. Régimen disciplinario.
+El régimen disciplinario aplicable a los Cuerpos de Policía Local será el establecido en cada momento para el Cuerpo Nacional de Policía.
+Se modifica por el art. único.5 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 41
+
+Artículo 41. Faltas graves.
+(Suprimido).
+Se suprime por el art. único.6 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 42
+
+Artículo 42. Faltas leves.
+(Suprimido).
+Se suprime por el art. único.6 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 43
+
+Artículo 43. Sanciones.
+(Suprimido).
+Se suprime por el art. único.6 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 44
+
+Artículo 44. Graduación de las sanciones.
+(Suprimido).
+Se suprime por el art. único.6 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 45
+
+Artículo 45. Prescripción.
+(Suprimido).
+Se suprime por el art. único.6 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 46
+
+Artículo 46. Procedimiento disciplinario.
+El procedimiento disciplinario se regirá por lo establecido en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Estatuto Básico del Empleado Público y en el Real Decreto 33/1986, de 10 de enero, de Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
+Se modifica por el art. único.7 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 47
+
+Artículo 47. Órgano competente.
+1. El Alcalde será competente para acordar la incoación de expediente disciplinario y, en su caso, sancionar a los miembros de los Cuerpos de Policía Local.
+2. El órgano competente para acordar la incoación de expediente disciplinario lo será también para nombrar instructor y, en su caso, secretario del mismo.
+Se modifica el título por el art. único.8 de la Ley 3/2018, de 2 de julio. Ref. BOE-A-2018-11414#au
+
+### Artículo 48
+
+Artículo 48. Medidas preventivas.
+Al inicio de la tramitación de un procedimiento sancionador o durante aquella, el órgano competente para sancionar podrá adoptar algunas de las siguientes medidas preventivas:
+1) Suspensión provisional por una duración no superior a los seis meses que, en su caso, será computada a efectos del cumplimiento de la sanción y supondrá una privación temporal del ejercicio de las funciones de Policía Local.
+2) Retirada temporal del arma y de la credencial reglamentaria.
+3) Prohibición de acceso a las dependencias del Cuerpo de Policía Local sin autorización.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Participación en el Consejo de Política de Seguridad.
+Corresponde a la Consejería de la Junta de Castilla y León que tenga atribuidas las competencias en materia de coordinación de Policías Locales la representación de la misma en el Consejo de Política de Seguridad previsto en el artículo 48 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Convalidación de estudios.
+De conformidad con lo establecido en el artículo 6.o2.b) de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, la Consejería competente en la materia someterá a las autoridades educativas competentes, a los efectos de su convalidación, los estudios que se cursen en el Escuela Regional de Policía Local de la Comunidad de Castilla y León.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Categorías a integrar.
+Conforme a lo dispuesto en la Disposición Transitoria Primera, se integran en la categoría de Agente, los funcionarios pertenecientes a la categoría de Policía.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Servicios en la Administración Regional.
+(Sin contenido)
+Se deja sin contenido por la disposición final 5.7 de la Ley 10/2014, de 22 de diciembre. Ref. BOE-A-2015-1117.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Observatorio para la implantación de la Ley.
+Con la finalidad de realizar un seguimiento y evaluación del proceso de desarrollo y aplicación de la presente Ley y en particular de la adaptación de los Reglamentos Municipales de Policía Local a las Normas Marco y de las repercusiones económicas derivadas de la aplicación de esta Ley se crea el Observatorio para la implantación de la Ley de Coordinación de Policías Locales.
+Este estará compuesto por dos representantes de la Administración Regional dos representes de la Federación Regional de Municipios y Provincias en representación de las Corporaciones Locales y dos representantes de las centrales sindicales más representativas.
+En el plazo máximo de un año desde la aprobación de la presente Ley este Observatorio elaborará un informe comprensivo tanto del nivel de implantación de la Ley como de los costes económicos derivados de la misma a fin de establecer un procedimiento de cofinanciación entre la Administración Regional y las Corporaciones Locales.
+La Junta de Castilla y León incorporará al Proyecto de Presupuestos Generales de la Comunidad a partir del correspondiente al ejercicio 2004 las previsiones presupuestarias necesarias para hacer frente a las obligaciones financieras derivadas del procedimiento de cofinanciación.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Reclasificaciones de grupos de titulación.
+1. Los funcionarios de la Policía Local que a la entrada en vigor de la presente Ley estén en posesión de la titulación académica requerida para el nuevo grupo se integrarán en el mismo a todos los efectos.
+2. Los funcionarios de los Cuerpos de Policía Local que a la entrada en vigor de la presente Ley carezcan de la titulación académica que conforme a la misma corresponda al nuevo grupo, se integran en la categoría y en el nuevo grupo exclusivamente a efectos retributivos, y se les mantendrá en el mismo en situación «a extinguir» hasta que acrediten haber obtenido los niveles de titulación exigidos en cada caso. Podrán obtener la titulación mediante la superación de los cursos que específicamente convoque y realice la Escuela Regional de Policía Local, en función de los convenios que para la formación profesional de Policías Locales establezca con las Universidades de la Comunidad, y con el preceptivo reconocimiento a tales fines.
+3. Los Auxiliares de Policía que a la entrada en vigor de la presente Ley carezcan de la titulación académica que conforme a la misma corresponda a su grupo de pertenencia se les integrará en el nuevo grupo de titulación como situación «a extinguir», percibiendo las retribuciones correspondientes a dicho grupo.
+Los Auxiliares de Policía que a la entrada en vigor de esta Ley tuviesen la titulación correspondiente al Grupo D, quedarán automáticamente integrados en la categoría de Vigilante Municipal del Grupo D.
+Sin perjuicio de lo establecido en el primer párrafo del presente apartado, los Auxiliares de Policía que no teniendo a la entrada en vigor de esta Ley la titulación correspondiente al Grupo D, obtuviesen con posterioridad dicha titulación académica, serán automáticamente reclasificados en la categoría de Vigilante Municipal del Grupo D.
+Se modifica el apartado 2 por la Ley 13/2006, de 13 de noviembre. Ref. BOE-A-2006-21910.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Efectos retributivos de la reclasificación.
+La reclasificación de grupos de titulación que resulte de la aplicación de la presente Ley y de sus normas de desarrollo no implicará necesariamente, el incremento de las retribuciones totales de los funcionarios, por cuanto el incremento de las retribuciones básicas motivada por la reclasificación anteriormente mencionada se detraerá de las retribuciones complementarias, sin perjuicio de los acuerdos adoptados en Pleno en los diferentes Ayuntamientos.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Procesos selectivos en curso.
+Los procesos de selección convocados con anterioridad a la entrada en vigor de la presente Ley se regirán en sus aspectos sustantivos y procedimentales por las normas vigentes en el momento de su convocatoria.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Integraciones en la categoría de Agente.
+Las plazas de la categoría de Agente que convoquen los Ayuntamientos que tengan cubiertas plazas de la categoría de Vigilante Municipal y constituyan posteriormente el Cuerpo de Policía Local serán provistas conforme a lo dispuesto en la presente Ley, si bien se reservará un número igual de plazas de dicha categoría al de plazas cubiertas de la categoría de Vigilante Municipal para su cobertura a través de un procedimiento de concurso-oposición, cuyo contenido será reglamentariamente determinado, siendo asimismo necesario superar un Curso Selectivo de Formación impartido por el Escuela Regional de Policía Local.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Adaptación de Cuerpos de Policía.
+Los Ayuntamientos cuyo Cuerpo de Policía Local no se ajuste a lo dispuesto en el artículo 6.3 de la presente Ley deberán adaptar su estructura a lo que en él se indica en el plazo máximo de tres años.
+
+### Disposición derogatoria primera
+
+Disposición derogatoria primera.
+Queda derogada la Ley 12/1990, de 28 de noviembre, de Coordinación de las Policías Locales de Castilla y León.
+
+### Disposición derogatoria segunda
+
+Disposición derogatoria segunda.
+Asimismo, quedan derogadas todas las normas de igual o inferior rango en lo que contradiga o se oponga a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Reglamento Marco de Organización.
+1. Por la Junta de Castilla y León se dictarán en el plazo máximo de seis meses las normas necesarias para el desarrollo y aplicación de la presente Ley.
+2. En tanto se produce el desarrollo reglamentario previsto en el apartado anterior, continuarán en vigor aquellos preceptos del Decreto 55/1997, de 13 de marzo, por el que se aprueban las Normas Marco a las que han de ajustarse los Reglamentos de las Policías Locales en el ámbito de la Comunidad de Castilla y León, en lo que no se oponga a lo establecido en la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Reglamentos de los Cuerpos de Policía Local.
+1. Los Ayuntamientos, en el plazo de un año desde la entrada en vigor de las Normas Marco reglamentarias previstas en la Disposición Final Primera, aprobarán el Reglamento del Cuerpo de Policía Local o, si ya existiera, lo adaptarán a los preceptos de la presente Ley y a sus normas de desarrollo.
+2. Hasta la entrada en vigor de los nuevos Reglamentos de los Cuerpos de Policía Local, se aplicarán los vigentes en todo lo que no se oponga a la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los veinte días de su publicación en el Boletín Oficial de la Comunidad de Castilla y León.
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 8 de abril de 2003.
+JUAN VICENTE HERRERA CAMPO,
+Presidente.

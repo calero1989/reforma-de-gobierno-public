@@ -1,0 +1,2766 @@
+# Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía.
+
+- Identificador BOE: `BOE-A-2008-3178`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2008-3178
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren,
+Sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de Régimen Jurídico y Económico de los Puertos de Andalucía.
+EXPOSICIÓN DE MOTIVOS
+I
+Andalucía es una de las Comunidades Autónomas de España de mayor litoral, con 812 kilómetros de costa. Los puertos andaluces han sido testigos activos de una milenaria historia y en la actualidad constituyen una importante fuente de ingresos, no solo por las actividades que tienen en ellos su base, como la pesca, el tráfico de pasajeros o el de mercancías, sino también por el turismo, que se ve atraído en gran medida por las instalaciones de los numerosos puertos deportivos. Estos puertos conforman un sistema que crea un «efecto red», que ha de ser objeto de análisis y tratamiento normativo en su conjunto. Este tratamiento normativo debe regular, en primer lugar, el espacio físico ocupado por los puertos y, en segundo lugar, el elemento funcional constituido por los servicios públicos portuarios que, sobre este soporte físico, se prestan a cuantos particulares y empresas tienen en el puerto la base de sus actividades pesqueras, comerciales y deportivas.
+La titularidad autonómica o estatal de los puertos situados en el litoral andaluz responde a la distribución de competencias que en esta materia se hace tanto en la Constitución Española como en el Estatuto de Autonomía para Andalucía. Así, el artículo 149.1.20.ª de la Constitución Española, de 27 de diciembre de 1978, reserva al Estado la competencia exclusiva sobre puertos de interés general. Por otra parte, la Comunidad Autónoma de Andalucía, en el ejercicio de la competencia exclusiva atribuida por el artículo 13.11 del Estatuto de Autonomía para Andalucía antes de la reforma del Estatuto llevada a cabo en el año 2007, asumió la titularidad de los puertos estatales que no tenían la consideración de interés general, en virtud del Real Decreto 3137/1983, de 25 agosto.
+En el ejercicio de dicha competencia se aprobó también una normativa propia articulada en torno a la Ley 6/1986, de 5 de mayo, sobre determinación y revisión de tarifas y cánones en puertos e instalaciones portuarias de la Comunidad Autónoma; a la Ley 8/1988, de 5 de mayo, de Puertos Deportivos de la Comunidad Autónoma, y a la creación de la Empresa Pública de Puertos de Andalucía mediante la disposición adicional décima de la Ley 3/1991, de 28 de diciembre, de Presupuestos de la Comunidad Autónoma de Andalucía para 1992.
+Este marco competencial, que ha servido para determinar los puertos de titularidad autonómica y el marco normativo aplicable a los mismos, ha sido objeto de una reformulación con ocasión de la reforma del Estatuto de Autonomía para Andalucía, llevada a cabo por Ley Orgánica 2/2007, de 19 de marzo. El nuevo texto del Estatuto de Autonomía para Andalucía establece, con carácter general, un nuevo marco competencial que profundiza en el autogobierno, extrayendo al efecto las posibilidades descentralizadoras que ofrece la Constitución para aproximar la Administración a la ciudadanía.
+En el ámbito portuario, los artículos 48, 56 y 64 del vigente Estatuto establecen el nuevo marco competencial en la materia, dentro del cual debe destacarse lo siguiente: en primer lugar, dejando a un lado los puertos pesqueros cuya competencia se recoge en el artículo 48.4, en el artículo 64, no solo se recoge en su apartado 1 la competencia exclusiva en puertos de refugio, puertos deportivos y, en general, puertos que no tengan la calificación legal de interés general del Estado, sino que, en relación con estos últimos, el apartado 2 de este mismo artículo dispone que la Comunidad Autónoma de Andalucía tiene competencias de ejecución sobre puertos con calificación de interés general, cuando el Estado no se reserve su gestión directa. Esta última competencia autonómica permitirá a la Comunidad Autónoma asumir, no solo la gestión de un puerto comercial considerado como una sola unidad, sino también la gestión de aquellas instalaciones portuarias existentes en un puerto de interés general respecto de las que el Estado no se reserve su explotación.
+En segundo lugar, en relación con la competencia estatal prevista en el artículo 149.1.20.ª de la Constitución, la reforma del Estatuto reconoce también de forma expresa una competencia que ha venido siendo demandada por la Administración autonómica. A tal efecto, según se contiene en el artículo 64.5, la Comunidad Autónoma emitirá un informe previo sobre la calificación de interés general de un puerto, en cuya gestión podrá participar o asumirla en los términos previstos en las leyes. Si esta calificación se precisa hacer sobre un puerto de titularidad de la Comunidad Autónoma, además del informe previo, será necesario que se ejecute mediante un convenio de colaboración.
+Por último, también tiene que ser tenida en cuenta la competencia que, con ocasión de la reforma operada en materia de ordenación del litoral, atribuye a la Comunidad Autónoma el artículo 56.6 del Estatuto de Autonomía, en la medida en la que tiene una relación directa con la actividad portuaria, al incluirse la gestión de los títulos de ocupación y uso del dominio público marítimo-terrestre, especialmente el otorgamiento de autorizaciones y concesiones y, en todo caso, las concesiones de instalaciones fijas en el mar, así como sobre la regulación y gestión del régimen económico financiero de dicho demanio público.
+El nuevo marco estatutario, así como el tiempo transcurrido desde la aprobación de la legislación autonómica preexistente, aconsejan una normativa portuaria adaptada al escenario actual que, respetando un uso racional de los recursos naturales, regule el Sistema Portuario de Andalucía como un conjunto material, organizativo y funcional que cubra las necesidades del transporte y del uso del medio marino en su triple vertiente, comercial, pesquera y deportiva, y que se puede configurar básicamente en dos grupos de puertos atendiendo a la gestión: los puertos gestionados directamente por la Administración y los puertos construidos y explotados en régimen de concesión administrativa, con participación de la inversión privada.
+II
+La presente ley se estructura en seis títulos y una parte final con cinco disposiciones adicionales, seis disposiciones transitorias, una disposición derogatoria y dos disposiciones finales.
+El Título I, «Del Sistema Portuario de Andalucía», regula el objeto y ámbito de aplicación de la norma, así como los principios del Sistema Portuario de Andalucía, entre los que destacan los de respeto al medio ambiente, solidaridad, gestión integrada, accesibilidad, sostenibilidad, así como seguridad y salud laboral e igualdad de oportunidades entre hombres y mujeres en la gestión del citado sistema. Asimismo, los artículos siguientes recogen la atribución de competencias a la administración del sistema portuario, conformada por el Consejo de Gobierno, la Consejería competente en materia de puertos y la Agencia Pública de Puertos de Andalucía.
+En el Título II, bajo la rúbrica «Construcción y ampliación de puertos. Ordenación funcional y urbanística», se establecen importantes previsiones que pretenden un modelo cooperativo y coordinado de planificación y construcción de nuevos puertos o ampliación de los existentes.
+Se incluyen tres capítulos: el primero está dedicado a la «Construcción y ampliación», regulando aspectos procedimentales y de competencia para la construcción o ampliación de los puertos; el segundo, sobre «Ordenación funcional», regula los Planes de Usos de los Espacios Portuarios como instrumentos sectoriales básicos para la ordenación de las instalaciones portuarias, y el tercero, bajo la rúbrica «Los puertos en la ordenación territorial y en la planificación urbanística», establece, entre otras determinaciones, que los instrumentos de planeamiento general del municipio calificarán los puertos como sistema general portuario, que se desarrollará mediante un plan especial.
+El Título III, «Del dominio público portuario de Andalucía», aborda la regulación completa y sistemática de los puertos, como espacio físico que, al permitir la realización de determinadas actividades y servicios, materializa la realidad que constituye el puerto.
+El Título comienza en su Capítulo I con la determinación del dominio público portuario de Andalucía. Se establece que los puertos de competencia de la Comunidad Autónoma son bienes de dominio público e integran el dominio público portuario. El criterio seguido para determinar el dominio público portuario reside en su afectación al servicio portuario de Andalucía, como el elemento expresivo de las competencias que en materia de puertos ha asumido la Comunidad Autónoma, respetando, no obstante, la condición y titularidad estatal de dominio público marítimo-terrestre de los bienes adscritos por el Estado para la construcción de los puertos autonómicos.
+En cuanto a los usos en el dominio público portuario, se dispone cuáles tienen la consideración de usos portuarios, delimitando así las actividades habituales y normales que pueden realizarse en los puertos, así como los usos complementarios y compatibles con los anteriores. Cabe destacar que el uso hotelero en dominio público portuario requiere autorización del Consejo de Gobierno. Por último, no podrán constituirse derechos de uso exclusivo sobre los espacios de agua y los atraques, admitiéndose tan solo derechos de carácter preferente.
+En relación con la gestión de los puertos, en los Capítulos siguientes se distingue entre los de gestión directa y los de gestión indirecta. El Capítulo II se dedica a los puertos de gestión directa, en los que la regulación sujeta a la obtención del pertinente título habilitante cualquier utilización que presente circunstancias de exclusividad, intensidad, peligrosidad o rentabilidad sobre el dominio público portuario. La Sección 2.ª de este Capítulo se dedica a la autorización, que es el título exigido para la ocupación del dominio público portuario con bienes muebles o instalaciones desmontables o sin ellos por plazo inferior a tres años, y establece sus características, el procedimiento y las condiciones para su otorgamiento. En la Sección 3.ª se regula la concesión, título necesario para la ocupación del dominio público portuario con obras o instalaciones fijas, así como la ocupación por plazo superior a tres años, recogiéndose sus características y el procedimiento y las condiciones para su otorgamiento, con las debidas garantías de transparencia y publicidad.
+El Capítulo III se dedica al régimen de los puertos en gestión indirecta. Los puertos que actualmente se explotan en tal régimen fueron construidos al amparo de concesiones demaniales, participando de la naturaleza de las de servicio público. Esta ley, al constituir los puertos genuinas obras públicas, se adapta a la nueva figura del contrato de concesión de obras públicas cuando es un tercero quien va a realizar la explotación del puerto. A estos fines, la concesión de obras públicas tiene por objeto, en el ámbito portuario, la construcción, reparación, mantenimiento y explotación de un puerto o una parte de un puerto susceptible de explotación independiente, y las infraestructuras de defensa, abrigo, accesos marítimos y obras de atraque de carácter fijo. La ley no pretende, sin embargo, regular por entero esta modalidad contractual, sino únicamente las especificidades que presenta cuando su objeto es una obra pública portuaria. Por ello, la regulación se centra en los aspectos que guardan relación con la explotación del puerto una vez que se ha construido por la persona concesionaria.
+El Capítulo IV, «De los servicios públicos portuarios y de las actividades comerciales o industriales», define como servicios públicos portuarios de titularidad de la Comunidad Autónoma de Andalucía aquellos que garantizan y satisfacen las operaciones y necesidades de los tráficos marítimos, portuarios, náutico-recreativos y pesqueros. Su régimen jurídico se desarrolla en la Sección 1.ª, destacando que el régimen de prestación de cada servicio se sujetará a los requisitos y condiciones que se establezcan en el reglamento que corresponda. La Sección 2.ª, por su parte, está dedicada a la regulación de las actividades industriales y comerciales que se desarrollan en el puerto y que se prestan en régimen de libre concurrencia. Finalmente, el Capítulo V crea el Registro de Usos del Dominio Público Portuario como instrumento que coadyuve al control administrativo de las concesiones y cesiones existentes en los puertos andaluces, y que a la vez dé publicidad y transparencia de las mismas.
+Las tasas portuarias son objeto de regulación en el Título IV de la ley, uno de sus ejes configuradores, conformando en un único texto legal tanto el régimen jurídico como el régimen económico de los puertos de Andalucía.
+Este extenso título se vertebra a su vez en tres capítulos. El Capítulo I está dedicado a las disposiciones generales, determinando la prelación de fuentes aplicables a esta materia. El Capítulo II regula el régimen de las tasas por la prestación de los servicios públicos portuarios. La regulación persigue la claridad, lo que se evidencia desde su misma estructura sistemática, dedicando un solo precepto para cada tasa, pero diferenciando con rúbricas distintas cada uno de sus elementos esenciales. El Capítulo III, dedicado al régimen económico del dominio público portuario, regula la tasa por ocupación o aprovechamiento especial y la tasa por licencia para el aprovechamiento especial del dominio público para el ejercicio de actividades comerciales, industriales y de servicios.
+El Título V, bajo la rúbrica «Puertos y medio ambiente», regula el desarrollo sostenible en la programación y construcción de nuevos puertos, las zonas de exclusión en la planificación territorial para su implantación, la prohibición de los vertidos, las obligaciones del concesionario en relación con el medio ambiente, recepción de residuos, así como las cuestiones relativas a las obras de dragado. Se ha de destacar que los nuevos puertos se ubicarán fuera de las zonas de exclusión determinadas en su caso por la planificación territorial.
+Por último, el Título VI regula la policía portuaria y el régimen sancionador. En el Capítulo I se atribuye a la administración del Sistema Portuario de Andalucía la potestad de inspección y de vigilancia con relación a los servicios y las operaciones que se desarrollan en los puertos y en el resto de instalaciones incluidas en el ámbito de aplicación de la presente ley, cualquiera que sea el régimen de utilización del dominio público portuario.
+En el Capítulo II se procede a una clasificación de las infracciones en leves, graves y muy graves, en atención a la propia entidad de las acciones constitutivas de infracción y en función de criterios tales como la trascendencia o importancia de los daños ocasionados, el riesgo para las personas o para el medio ambiente, y la perturbación de la actividad portuaria.
+Asimismo, se ha procedido a precisar las circunstancias agravantes y atenuantes, configurando un sistema que satisface el principio de legalidad sancionadora y las exigencias de lex certa dimanantes del artículo 25 de la Constitución Española. Otra novedad reseñable es la regulación de las personas responsables, destacando, en el supuesto de obras, instalaciones y actividades sin título suficiente que como tales se considera, en su caso, al promotor de la actividad, al empresario que la ejecuta, al director técnico, y al cesionario de derechos de uso sobre elementos portuarios.
+III
+La parte final se divide en cinco disposiciones adicionales, seis disposiciones transitorias, una disposición derogatoria y dos disposiciones finales.
+En las disposiciones adicionales debe señalarse lo siguiente: en primer lugar, en la disposición adicional primera, se dispone el cambio de denominación de la Empresa Pública de Puertos de Andalucía, que pasa a denominarse Agencia Pública de Puertos de Andalucía, aunque conservando la misma naturaleza jurídica; en la disposición adicional cuarta se prevé la integración en el Sistema Portuario de Andalucía de la gestión de puertos, instalaciones y otros títulos estatales sobre el dominio público marítimo terrestre, de acuerdo con las previsiones y el futuro desarrollo del Estatuto de Autonomía para Andalucía.
+En las disposiciones transitorias se regula el régimen de acomodación de la entrada en vigor de esta ley, en los servicios públicos portuarios que se vienen prestando y en los procedimientos administrativos en tramitación.
+En la disposición transitoria segunda, en su apartado 1, se dispone que, hasta tanto se apruebe el desarrollo reglamentario del nuevo texto, continuarán en vigor la Ley 6/1986, de 5 de mayo, sobre determinación y revisión de tarifas y cánones en puertos e instalaciones portuarias de la Comunidad Autónoma de Andalucía, y sus normas de desarrollo.
+En la disposición transitoria sexta se establece la obligación que tienen los concesionarios de puertos de gestión indirecta de presentar una propuesta técnica para incorporar al título concesional la ordenación funcional actualizada de los correspondientes puertos siempre que no estuviera definida dicha ordenación de forma precisa, en el plazo de dos años desde la entrada en vigor de la presente ley.
+Por último, en las disposiciones finales se realizan las previsiones para el desarrollo y la ejecución de la presente ley.
+
+## TÍTULO I
+
+Del Sistema Portuario de Andalucía
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. Constituye el objeto de la presente ley el régimen jurídico de los puertos que son competencia de la Comunidad Autónoma de Andalucía, que comprende la planificación, utilización y gestión del dominio público portuario, la prestación de servicios en dichos puertos, las tasas exigibles, así como el régimen sancionador y las medidas de policía portuaria.
+2. Son puertos competencia de la Comunidad Autónoma de Andalucía, que conforman el Sistema Portuario de Andalucía:
+a) Los puertos pesqueros.
+b) Los puertos deportivos.
+c) Los puertos de refugio.
+d) Los puertos comerciales u otros puertos que no tengan la calificación legal de interés general del Estado.
+3. Tendrán la consideración de puertos de la Comunidad Autónoma de Andalucía los espacios pesqueros y los destinados a usos náuticos deportivos que, estando adscritos a puertos de interés general, deban ser segregados de la zona de servicio por poseer infraestructuras portuarias independientes, espacios terrestres y marítimos diferenciados, y no dividir ni interrumpir la zona de servicio del puerto de modo que pueda afectar a la explotación de este.
+
+### Artículo 2
+
+Artículo 2. Principios.
+1. El Sistema Portuario de Andalucía, como elemento de desarrollo socioeconómico, se regirá por los principios de respeto al medio ambiente, solidaridad, gestión integrada, accesibilidad y sostenibilidad.
+2. Asimismo, la gestión de los puertos se realizaráatendiendo a la utilización multifuncional de las instalaciones y la oferta turística de su entorno, a la autosuficiencia financiera y a la razonable rentabilidad de los activos públicos, estando sujeta a la observancia de los principios de seguridad y salud laboral y de igualdad de oportunidades entre hombres y mujeres, y al respeto a las expectativas, derechos y legítimos intereses de los ciudadanos y las ciudadanas en su condición de consumidores y usuarios.
+3. Los principios de eficacia, coordinación y cooperación regirán las actuaciones en las relaciones con las Administraciones estatal y local, especialmente en orden a la integración de la planificación sectorial y una adecuada ordenación urbanística.
+4. El Sistema Portuario asume la intermodalidad como principio para alcanzar la máxima eficiencia de las cadenas de transporte y la creación de áreas logísticas para facilitar la incorporación de valor añadido a los procesos productivos. Igualmente, considerará las oportunidades del transporte marítimo de corta distancia y de las autopistas del mar definidas en el ámbito de la Unión Europea.
+
+### Artículo 3
+
+Artículo 3. Administración del Sistema Portuario de Andalucía.
+Las competencias de la Comunidad Autónoma en materia de puertos se ejercerán por el Consejo de Gobierno, por la Consejería competente en materia de puertos y por la Agencia Pública de Puertos de Andalucía, en adelante Agencia, de acuerdo con lo que establecen la presente ley, las normas reglamentarias que la desarrollen y las demás normas que resulten de aplicación.
+
+### Artículo 4
+
+Artículo 4. Competencias del Consejo de Gobierno.
+Corresponden al Consejo de Gobierno, además de las atribuciones que le son propias como órgano superior colegiado de la Junta de Andalucía de acuerdo con la normativa de aplicación, las siguientes competencias:
+a) La aprobación del proyecto o, en su caso, del anteproyecto para la construcción de un nuevo puerto o de la ampliación de los existentes en el supuesto previsto en el artículo 7.2.
+b) (Anulada).
+c) La imposición, a propuesta de la Consejería competente en materia de puertos, de multas de cuantía igual o superior a 600.001 euros.
+Se declara inconstitucional y nula la letra b) por Sentencia del TC 34/2014, de 27 de febrero. Ref. BOE-A-2014-3244
+ Se mantiene la suspensión de la vigencia y aplicación de la letra b), en los términos expresados en el fundamento jurídico 7, por auto del TC de 27 de enero de 2009. Ref. BOE-A-2009-2272
+ Se suspende la vigencia y aplicación de la letra b), desde el 26 de septiembre de 2008 para las partes del proceso y desde el 24 de octubre de 2008 para los terceros, por providencia del TC de 7 de octubre de 2008 que admite a trámite el recurso de inconstitucionalidad 7258-2008. Ref. BOE-A-2008-17041
+
+### Artículo 5
+
+Artículo 5. Competencias de la Consejería competente en materia de puertos.
+Corresponden a la Consejería competente en esta materia, además de las atribuciones que le son propias de acuerdo con la normativa de aplicación, las siguientes competencias:
+a) Determinar la modalidad de gestión de cada puerto o de su ampliación.
+b) La aprobación del proyecto o anteproyecto de construcción de nuevos puertos o de ampliación de los existentes, excepto en el supuesto previsto en el artículo 7.2.
+c) La aprobación de los Planes de Usos de los Espacios Portuarios.
+d) La emisión de informe preceptivo y motivado en relación con la aprobación o innovación del instrumento de planeamiento urbanístico que incida directamente sobre los puertos.
+e) El otorgamiento, la modificación sustantiva o la extinción de las concesiones de obras públicas en materia portuaria.
+f) Aprobar las revisiones de las tasas de las concesiones en los puertos de gestión indirecta, previo informe favorable de la Consejería competente en materia de tributos.
+g) La potestad de inspección y control en relación a los servicios, operaciones, ocupaciones y actividades en general que se desarrollen en los puertos, cualquiera que sea el régimen de uso del espacio portuario o la forma de prestación de los servicios.
+h) La imposición, a propuesta de la Agencia, de multas desde 300.001 hasta 600.000 euros.
+i) Cualesquiera competencias en materia de puertos que no estuviesen atribuidas de forma expresa a otro órgano administrativo.
+
+### Artículo 6
+
+Artículo 6. Competencias de la Agencia Pública de Puertos de Andalucía.
+Corresponde a la Agencia:
+a) El otorgamiento, modificación o extinción de licencias, autorizaciones y concesiones de dominio público portuario en los puertos de gestión directa.
+b) La modificación no sustantiva de las concesiones de obras públicas en materia portuaria.
+c) La redacción y participación en la tramitación de los planes especiales de ordenación de los puertos.
+d) La gestión, liquidación y recaudación en período voluntario de las tasas portuarias.
+e) Las revisiones de tasas, excepto las que se correspondan con la concesiones de obras públicas en los puertos de gestión indirecta, previo informe favorable de la Consejería competente en materia de tributos.
+f) Auxiliar a la Consejería competente en materia depuertos en el ejercicio de la potestad de inspección y llevar a cabo las tareas de vigilancia con relación a los servicios, operaciones, ocupaciones y actividades en general que se desarrollen en los puertos, cualquiera que sea el régimen de uso del espacio portuario o la forma de prestación de los servicios.
+g) La imposición de multas para el resto de lasinfracciones tipificadas en esta ley cuando no corresponda su imposición al Consejo de Gobierno ni a la Consejería competente en materia de puertos.
+h) Cuantas otras competencias se le atribuyen expresamente por esta ley.
+
+## TÍTULO II
+
+Construcción y ampliación de puertos. Ordenación funcional y urbanística
+
+## CAPÍTULO I
+
+Construcción y ampliación
+
+### Artículo 7
+
+Artículo 7. Proyectos.
+1. La construcción de un puerto o su ampliación, cualquiera que fuese la modalidad de gestión prevista, exigirá la aprobación del correspondiente proyecto por la Consejería competente en materia de puertos, previa solicitud de informes a las Administraciones Públicas afectadas y, de forma simultánea, del trámite de audiencia a los propietarios y titulares de derechos y de información pública, en ambos casos, por el plazo mínimo de un mes.
+Igualmente, deberá someterse al correspondiente procedimiento de prevención y control ambiental, de acuerdo con la legislación aplicable.
+2. Si el puerto o su ampliación no estuviera previsto en el planeamiento territorial, urbanístico o sectorial con incidencia en la ordenación del territorio, y el municipio manifestara de forma motivada su disconformidad, se abrirá un período de consultas de dos meses. Si transcurrido el mismo persistiera el desacuerdo, el Consejo de Gobierno, previo informe de la Consejería competente en materia de ordenación del territorio, decidirá si procede ejecutar la actuación, y, en este caso, acordará la modificación o revisión del planeamiento afectado, que deberá acomodarse en el plazo de un año desde su aprobación.
+3. El proyecto, que tendrá el contenido que se determine reglamentariamente, contendrá el desarrollo completo de la solución adoptada, con el detalle necesario para hacer factible su construcción y posterior explotación, así como sus conexiones con la red viaria y los sistemas generales de comunicaciones.
+Igualmente, en el proyecto deberá figurar la relación concreta e individualizada de los bienes y derechos afectados, con su descripción material.
+4. Con carácter previo a la redacción del proyecto podrá aprobarse un anteproyecto, en los términos en los que reglamentariamente se determine, que, definiendo los aspectos geométricos de la obra portuaria, así como la definición concreta de los bienes y derechos afectados, se tramite y apruebe conforme a lo dispuesto en los apartados 1 y 2 de este artículo.
+La aprobación de este anteproyecto conllevará los efectos previstos en el artículo 8.3.
+5. La construcción de un puerto o su ampliación,cuando estuviese prevista en un planeamiento territorial o sectorial con incidencia en la ordenación del territorio, se llevará a cabo con arreglo a las determinaciones del propio plan, siéndole de aplicación lo dispuesto en este artículo de forma supletoria.
+
+### Artículo 8
+
+Artículo 8. Efectos de la aprobación de los proyectos.
+1. Los puertos de nueva construcción y las ampliaciones de los existentes tienen la consideración de obras públicas de interés de la Comunidad Autónoma con los efectos previstos en este artículo en relación con la aprobación del proyecto y en el artículo 13.1, respecto a la ejecución de las obras.
+2. La aprobación del proyecto implicará la necesidad de adaptación del planeamiento urbanístico, que debe incluirlo como sistema general portuario, conforme a lo dispuesto en el artículo 11.2.
+3. La aprobación de los proyectos llevará implícita ladeclaración de utilidad pública, la necesidad de urgente ocupación de los bienes y adquisición de derechos a los fines de expropiación forzosa y ocupación temporal.
+La declaración de utilidad pública y la necesidad de urgente ocupación se referirá también a los bienes y derechos comprendidos en el replanteo del proyecto y en las modificaciones de obras que puedan aprobarse posteriormente con los mismos requisitos señalados en el párrafo anterior.
+
+## CAPÍTULO II
+
+Ordenación funcional
+
+### Artículo 9
+
+Artículo 9. Delimitación de los Espacios y Usos Portuarios.
+1. Sin perjuicio de lo dispuesto en el Capítulo siguiente en relación con la ordenación territorial y planificación urbanística de los puertos, la ordenación funcional en los puertos de gestión directa será la que se establezca en su correspondiente Delimitación de los Espacios y Usos Portuarios. Para ello, en las instalaciones portuarias competencia de la Administración de la Junta de Andalucía se determinará una zona de servicio portuaria que estará integrada por los espacios de tierra y de agua necesarios para el desarrollo de las actividades que resulte justificado encuentren soporte en el dominio público portuario, incluyendo los espacios de reserva que garanticen la posibilidad de evolución de la actividad portuaria, y aquellos que puedan destinarse a la articulación de la integración entre el puerto y la ciudad.
+2. La Delimitación de los Espacios y Usos Portuarios determinará los usos previstos para los diferentes espacios que comprenda y su estructura básica, con justificación de su necesidad o conveniencia y deberá contener:
+a) La delimitación de la zona portuaria, incluyendo las adscripciones y afecciones demaniales correspondientes.
+b) La asignación de usos en los que se ordena el espacio portuario, así como, en su caso, las medidas dirigidas a satisfacer adecuadamente la prestación de los servicios portuarios y a garantizar la seguridad de los mismos.
+3. En el supuesto de que la zona delimitada pretenda incluir pertenencias del dominio público marítimo-terrestre no adscritas, la Delimitación de los Espacios y Usos Portuarios integrará las correspondientes determinaciones para su consideración como proyecto a los efectos de la tramitación del informe previsto en el artículo 49 de la Ley 22/1988, de 28 de julio, de Costas, y en el Real Decreto 62/2011, de 21 de enero, sobre traspaso de funciones y servicios de la Administración del Estado a la Comunidad Autónoma de Andalucía en materia de ordenación y gestión del litoral.
+4. La Delimitación de los Espacios y Usos Portuarios podrá ser aprobada para un solo puerto o para un conjunto de puertos o zonas de servicio, aunque estén emplazados en diferentes términos municipales y no presenten continuidad física, cuando razones geográficas, económicas, técnicas, operativas u organizativas así lo aconsejen conformando un Ámbito Portuario integrado por una o varias zonas de servicio.
+5. En los puertos de gestión indirecta, la zona de servicio de una instalación portuaria otorgada en concesión o mediante contrato de concesión de obras o de servicios estará compuesta por el dominio público cuya ocupación haya sido autorizada y los espacios que, procedentes de otra titularidad, hayan sido incorporados a él en virtud de lo dispuesto en el título concesional. A estos efectos se considera zona de servicio de un puerto aquellas superficies de tierra y de agua necesarias para la ejecución de sus actividades, así como las destinadas a tareas complementarias de ellas y los espacios de reserva que garanticen la posibilidad de desarrollo de la actividad portuaria.
+La ordenación funcional de estos puertos formará parte del título concesional tomando como base el anteproyecto y proyecto de obra pública aprobados.
+La referida ordenación tendrá los mismos contenidos y efectos que para la Delimitación de los Espacios y Usos Portuarios prevé esta ley y su modificación requerirá de un documento de similares características que la Delimitación de los Espacios y Usos Portuarios.
+Se modifica por el art. 64.1 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 10
+
+Artículo 10. Procedimiento y efectos de aprobación de la Delimitación de Espacios y Usos Portuarios.
+1. En la elaboración, tramitación y aprobación de la Delimitación de los Espacios y Usos Portuarios se garantizará la información pública y la intervención de las administraciones y organismos públicos con competencias afectadas.
+2. La Agencia redactará y planteará la propuesta de Delimitación de Espacios y Usos Portuarios, y recabará informes sobre las materias de su competencia a los municipios afectados por razón de su ubicación territorial y a las administraciones con competencias sectoriales en el ámbito portuario que puedan verse afectadas.
+El plazo para la emisión del informe será el previsto en la legislación sectorial salvo que dicha legislación no contenga previsión al respecto, en cuyo caso el plazo será de un mes. Transcurrido el plazo para la emisión de los informes solicitados sin que los mismos se hayan emitido, estos se considerarán favorables, salvo lo dispuesto en las leyes sectoriales y se proseguirá la tramitación del expediente.
+3. Simultáneamente a la solicitud de los informes antes detallados, se someterá a información pública la Delimitación de Espacios y Usos Portuarios por el plazo de un mes, durante el cual las personas interesadas podrán formular alegaciones.
+4. La aprobación de la Delimitación de Espacios y Usos Portuarios corresponde a la Consejería competente en materia de puertos mediante orden y la misma supondrá dejar sin efectos el Plan de Usos existente. La resolución de aprobación, así como la Delimitación de Espacios y Usos Portuarios, deberá publicarse en el Boletín Oficial de la Junta de Andalucía.
+5. La aprobación de la Delimitación de Espacios y Usos Portuarios determinará la necesidad de modificar los planes urbanísticos que se vieran afectados, a través del procedimiento legalmente previsto para ello. El acuerdo de inicio del procedimiento podrá acordar la suspensión de los efectos de los planes.
+Asimismo, dicha aprobación llevará implícita la declaración de utilidad pública y necesidad de urgente ocupación a los efectos de expropiación de los bienes y derechos de propiedad particular, y de rescate de las concesiones que requiera el desarrollo de la Delimitación, así como la adscripción y afectación al uso portuario de los bienes de dominio público y de los bienes patrimoniales incluidos en la zona de servicio que sean de interés para el puerto, de acuerdo con lo previsto en la legislación aplicable.
+Del mismo modo, la aprobación de la Delimitación de Espacios y Usos Portuarios habilita para la revocación sin indemnización de las autorizaciones que resulten incompatibles.
+Las concesiones otorgadas que resulten incompatibles con la nueva Delimitación de los Espacios y Usos Portuarios deberán adaptarse a la misma.
+A tal efecto, podrá procederse a la revisión o, en su caso, al rescate de la concesión según lo establecido en los artículos 27, 31 y 33 de esta ley, en función de las necesidades de explotación y gestión portuaria.
+Transitoriamente, las concesiones seguirán sujetas a las mismas condiciones en que se otorgaron, sin que pueda autorizarse prórroga del plazo de la concesión, o modificación de la misma sin que se haya producido la expresada revisión de las condiciones.
+Se modifica por el art. 64.2 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 10 bis
+
+Artículo 10 bis. Modificación de la Delimitación de los Espacios y Usos Portuarios.
+1. Las modificaciones de la Delimitación de los Espacios y Usos Portuarios que sean sustanciales se someterán al mismo procedimiento de aprobación que se determina en el artículo anterior. Las modificaciones no sustanciales, serán aprobadas por la Agencia Pública de Puertos de Andalucía.
+Se entenderá por modificación no sustancial:
+a) Aquella producida por razones de explotación portuaria que no suponga alteración significativa de las superficies asignadas a cada uso.
+b) Aquella que no implique una alteración significativa de la delimitación interna de las zonas en las que se divide el puerto, a efectos de la asignación de los usos previstos en la presente ley.
+c) La ampliación dentro de la zona de servicio de infraestructuras y otras instalaciones portuarias que resulten complementarias de las ya existentes y que no supongan una alteración significativa de las superficies asignadas a cada uso o impliquen la introducción del uso compatible.
+2. A los efectos previstos en los apartados a), b) y c) anteriores, tendrán la consideración de alteración significativa aquella que suponga una variación aislada o acumulada superior al diez por ciento de la superficie atribuida a un determinado uso.
+3. Aprobada la modificación sustancial de la delimitación de los espacios y usos portuarios, se publicará en el Boletín Oficial de la Junta de Andalucía.
+Se añade por el art. 64.3 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+## CAPÍTULO III
+
+Los puertos en la ordenación territorial y en la planificación urbanística
+
+### Artículo 11
+
+Artículo 11. Ordenación territorial y urbanística de los puertos.
+1. Los Planes de Ordenación del Territorio de ámbito subregional que afecten al litoral incluirán la localización de nuevos puertos y la ampliación de los existentes.
+2. Los instrumentos de planeamiento general delmunicipio calificarán el puerto como sistema general portuario, debiendo contener, en relación con este sistema general, las determinaciones básicas relativas a su accesibilidad y conectividad, a efectos de garantizar la coherencia con el modelo territorial y con la estructura general y orgánica que configura el Plan.
+3. La superficie del sistema general portuario no computará a los efectos de determinación de dotaciones, reservas y equipamientos según los distintos tipos de suelo.
+
+### Artículo 12
+
+Artículo 12. Planes especiales de ordenación de los puertos.
+1. El sistema general de cada puerto se desarrollará urbanísticamente mediante un plan especial de ordenación, que formulará la Agencia Pública de Puertos de Andalucía, y aprobará la Consejería competente en materia de urbanismo, por su carácter supralocal, a propuesta de aquella. No obstante, justificadamente podrán aprobarse planes especiales para ámbitos más reducidos inferiores a la globalidad del espacio portuario.
+El Plan Especial de Ordenación del Puerto se tramitará y aprobará de acuerdo con la normativa urbanística de aplicación.
+2. La Delimitación de los Espacios y Usos Portuarios podrá tramitarse de manera simultánea al plan especial que ordene dicha zona de servicio, debiendo estar aprobada dicha delimitación con carácter previo o simultaneo a la aprobación definitiva del plan especial de ordenación.
+Dentro de los usos que recogerá la misma, se podrán incluir intervenciones singulares en materia de integración puerto-ciudad, siempre que resulten compatibles con los usos antes definidos y no comprometan globalmente el desarrollo del espacio portuario ni su operatividad.
+3. El Plan Especial recogerá la ordenación integral del puerto y las determinaciones necesarias que garanticen la integración de este sistema general en la ordenación urbanística del municipio, conforme a las previsiones del proyecto aprobado y de la Delimitación de los Espacios y Usos Portuarios o de la concesión, del contrato de concesión de obras o servicios, con criterios de flexibilidad que, teniendo en cuenta las particularidades de la gestión portuaria, hagan posible su adecuación a los cambios que coyunturalmente procedan.
+Además, debe contener las determinaciones exigibles conforme a la normativa urbanística y especialmente las siguientes:
+a) La ordenación de las actuaciones de integración puerto-ciudad.
+b) Los parámetros urbanísticos, tales como la altura máxima, volumen de la edificación, tipología, ocupación máxima de la parcela, condiciones y características de las edificaciones y construcciones.
+c) Los supuestos de modificación y revisión del Plan Especial.
+Se modifica por el art. 64.4 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 13
+
+Artículo 13. Ejecución de obras.
+1. La aprobación del proyecto de construcción de unnuevo puerto o de su ampliación legitimará inmediatamente su ejecución, siendo sus determinaciones directamente aplicables, supeditando en todo momento su viabilidad al planeamiento existente que corresponda, siempre con la participación y conocimiento de las Administraciones Públicas afectadas.
+La construcción y puesta en funcionamiento de las obras públicas que formen parte de la infraestructura portuaria, las edificaciones vinculadas a la actividad portuaria y las de sus conexiones con la red viaria y los sistemas generales de comunicaciones no estarán sujetas a licencias ni, en general, a actos de control preventivo municipal, por considerarse obras públicas de interés general, sin perjuicio del deber de informar al municipio afectado previamente al inicio de las obras.
+2. Las demás obras públicas directamente relacionadas con la actividad portuaria y no contempladas en el proyecto deberán ser compatibles con el Plan de Usos de los Espacios Portuarios y adaptarse al Plan Especial de Ordenación del Puerto, si estuviera aprobado el mismo.
+A estas obras les será de aplicación lo dispuesto en el párrafo segundo del apartado anterior, en relación con la no exigencia de control preventivo municipal. No obstante, se deberá recabar del municipio en el que se localice el puerto un informe sobre la adecuación de las obras proyectadas al citado Plan Especial, que deberá emitirse en el plazo de dos mes.
+
+### Artículo 14
+
+Artículo 14. Coordinación interadministrativa.
+1. En relación con los instrumentos de planeamiento urbanístico que puedan incidir directamente sobre los puertos, el órgano competente para la aprobación inicial podrá remitir, con anterioridad a la misma, el documento a la Consejería competente en materia de puertos para que esta formule, en el plazo de un mes, las sugerencias y observaciones que estime convenientes.
+En todo caso, se considera que inciden directamente sobre los puertos los instrumentos de planeamiento que ordenen los terrenos colindantes con el puerto, y los que afecten a las conexiones con las redes de comunicaciones del sistema general portuario.
+2. Aprobado inicialmente el instrumento de planeamiento urbanístico al que se refiere el apartado anterior, este se someterá a informe de la Consejería competente en materia de puertos en aquellos aspectos que afecten a la actividad portuaria, que tendrá carácter vinculante y deberá estar motivado.
+Este informe deberá emitirse en el plazo de tres meses y se entenderá favorable en caso de no emitirse en dicho plazo, salvo que afecte al dominio o al servicio público de titularidad autonómica.
+3. El Ayuntamiento deberá solicitar informe a la Agencia para la ejecución de las obras que incidan en la accesibilidad del puerto y las obras en los inmuebles más próximos al puerto con ocasión, en su caso, de la tramitación de la correspondiente licencia, a fin de asegurar que las operaciones portuarias no sean perturbadas por las actuaciones proyectadas. Este informe se entenderá favorable transcurrido el plazo de dos meses sin que se hubiese emitido.
+El Plan de Usos de los Espacios Portuarios delimitará el ámbito espacial y la tipología de obras que son objeto de este informe.
+Se modifica el apartado 2 por la disposición final 4 del Decreto-ley 5/2012, de 27 de noviembre. Ref. BOJA-b-2012-90047
+
+## TÍTULO III
+
+Del dominio público portuario de Andalucía
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 15
+
+Artículo 15. Concepto y bienes que lo integran.
+1. Los puertos de competencia de la ComunidadAutónoma de Andalucía son bienes de dominio público e integran el dominio público portuario de Andalucía.
+2. Pertenecen al dominio público portuario de Andalucía:
+a) Los terrenos, obras e instalaciones fijas de la Comunidad Autónoma afectados al servicio o uso portuario.
+b) Los terrenos incorporados con ocasión de unaconcesión de construcción o ampliación y explotación de un puerto.
+c) Las obras e instalaciones construidas por los titulares de una concesión de dominio público cuando reviertan a la administración del Sistema Portuario de Andalucía.
+3. Igualmente, se integrarán en el dominio público portuario los bienes de dominio público marítimo terrestre adscritos por la Administración del Estado, sin perjuicio de la titularidad dominical del mismo.
+4. Cuando los bienes y derechos de dominio público portuario adscritos dejasen de ser necesarios para el cumplimiento de los fines propios de la Comunidad Autónoma, estos serán objeto de reversión al Estado. A estos efectos, por parte de la persona titular de la Consejería competente en materia de puertos se elevará propuesta al Consejo de Gobierno para que inste la reversión en los términos previstos en la normativa básica en materia de costas.
+Se añade el apartado 4 por el art. 64.5 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 16
+
+Artículo 16. Usos en el dominio público portuario.
+1. En el dominio público portuario se llevarán a cabo actividades, instalaciones y construcciones acordes con los siguientes usos:
+a) Usos correspondientes al tráfico comercial marítimo, incluidos la carga y descarga, el transbordo y almacenamiento de mercancías de cualquier tipo relacionados con el intercambio entre modos de transporte, el embarque y desembarque de pasajeros, y otras actividades portuarias comerciales.
+b) Usos pesqueros, incluidas las actividades de acuicultura marina, y pesquero-turísticos.
+c) Usos náutico-deportivos.
+d) Usos auxiliares y complementarios de los anteriores, así como los correspondientes a mantenimiento y reparación de embarcaciones, y servicios a las tripulaciones, actividades logísticas y los que correspondan a empresas industriales o comerciales cuya localización en la zona de servicio esté justificada por razón del tráfico portuario o por los servicios que prestan a las personas usuarias del puerto.
+e) Otros usos compatibles con la actividad portuaria, correspondientes a equipamientos culturales, deportivos, educativos, recreativos, certámenes feriales, exposiciones, así como actividades industriales o comerciales no portuarias, que puedan encontrar soporte en el dominio portuario, contribuyendo a la integración urbana y territorial de los puertos y su equilibrio social y económico, a la generación de empleo, al crecimiento de la economía andaluza y a la articulación de las relaciones entre el puerto y el espacio urbano y que por su intensidad, y relevancia en la articulación de las relaciones entre el puerto y el espacio urbano trasciendan las previsiones de los usos auxiliares y complementarios.
+2. Excepcionalmente, por razones de utilidad pública debidamente acreditadas, el Consejo de Gobierno podrá instar al Consejo de Ministros que autorice instalaciones hoteleras, en los espacios de dominio público portuario destinados a usos compatibles. El plan especial del ámbito portuario correspondiente regulará tales usos, una vez levantada la prohibición y autorizadas las instalaciones hoteleras.
+3. No podrán constituirse derechos de uso exclusivo sobre cualquier superficie de agua en el interior de los puertos y, especialmente, el derecho de uso exclusivo de amarre sobre los puestos de atraque.
+En consecuencia, la facultad de cesión de tales elementos, prevista en los artículos 26.1.b) y 39.2, tendrá como objeto el uso preferente y no exclusivo de los mismos. El uso preferente y no exclusivo permitirá a los titulares de la gestión, la utilización o cesión temporal de los elementos portuarios mientras estos no estén ocupados por sus cesionarios.
+Se modifica por el art. 64.6 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+ Se modifica el apartado 4 por el art. único.1 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se declara inconstitucional y nulo el apartado 3 y no es inconstitucional el apartado 2, siempre que se interprete de conformidad con el fundamento jurídico 5, por Sentencia del TC 34/2014, de 27 de febrero. Ref. BOE-A-2014-3244
+ Se mantiene la suspensión de la vigencia y aplicación del apartado 3, en los términos expresados en el fundamento jurídico 7, y se levanta la del apartado 2, por auto del TC de 27 de enero de 2009 Ref. BOE-A-2009-2272.
+ Se suspende la vigencia y aplicación de los apartados 2 y 3, desde el 26 de septiembre de 2008 para las partes del proceso y desde el 24 de octubre de 2008 para los terceros, por providencia del TC de 7 de octubre de 2008 que admite a trámite el recurso de inconstitucionalidad 7258-2008. Ref. BOE-A-2008-17041
+
+### Artículo 17
+
+Artículo 17. Régimen de acceso a los puertos.
+1. Los puertos destinados a usos náuticos deportivosson de acceso libre, sin más limitaciones que las requeridas por razón de seguridad o explotación.
+2. En los puertos destinados a usos pesqueros ocomerciales, se determinarán en el correspondiente Plan de Usos los espacios portuarios de acceso libre, dentro del horario establecido siempre con la participación de las organizaciones del sector pesquero.
+3. Los espacios correspondientes a viales de accesoal puerto, viales interiores y de libre acceso y cualquier zona donde no haya restricción para el acceso a los viandantes son de uso común general, público y gratuito, sin más limitaciones que las derivadas de su correcta utilización y de las normas de policía del puerto.
+El acceso de vehículos será regulado a través de las correspondientes normas de ordenación de la circulación en el puerto, aprobadas por la Agencia.
+
+### Artículo 18
+
+Artículo 18. Modalidades de gestión de los puertos.
+1. Se entiende por gestión directa de un puerto la realizada por la Agencia, sin intervención de un concesionario. Dicha gestión directa será compatible con la existencia de contratos administrativos o títulos demaniales que puedan otorgarse sobre espacios concretos del mismo y que no impliquen explotación del puerto en los términos del apartado siguiente.
+2. Se entiende por gestión indirecta aquella en la que se faculta a un tercero concesionario, mediante el contrato que legalmente corresponda, para la construcción y explotación o solamente para la explotación de un puerto.
+A estos efectos, se entiende por explotación la puesta a disposición de los bienes que integran el dominio público portuario para su ocupación, utilización o aprovechamiento, así como la prestación de los servicios portuarios a las personas usuarias, a cambio de la correspondiente contraprestación económica.
+3. Sin perjuicio de lo dispuesto en el apartado anterior, la construcción y gestión de un puerto se podrá realizar a través de una concesión demanial, de acuerdo con el régimen jurídico que le es propio. En este supuesto, la construcción o explotación del puerto, o ambas cosas, se realizarán a cuenta y riesgo del concesionario demanial, en los términos que disponga el título concesional.
+4. La modalidad y modo de gestión de cada puerto se determinará por la Consejería competente en materia de puertos, a propuesta de la Agencia Pública de Puertos de Andalucía.
+5. Corresponde en todo caso a la administración del Sistema Portuario de Andalucía la potestad de inspección y policía, así como la potestad sancionadora en relación con la conservación del dominio público portuario, su correcta utilización o aprovechamiento y la prestación regular de los servicios portuarios.
+Se modifica por el art. 64.7 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 19
+
+Artículo 19. Derechos legales de tanteo y retracto de la Agencia de Puertos de Andalucía.
+1. Se reconoce derecho de tanteo y retracto legal a favor de la Agencia en las cesiones de las concesiones de obra pública y en las transmisiones intervivos de concesiones demaniales, ya sean voluntarias o resultado de la ejecución de actos administrativos o judiciales.
+2. El derecho de tanteo en las citadas transmisionesse debe ejercitar en el plazo previsto para autorizar la correspondiente transmisión, conforme establece el artículo 28.2 en relación con las concesiones demaniales, y el artículo 39.1 en relación con las concesiones de obra pública.
+A tal efecto, si la Agencia pretendiera hacer efectivo tal derecho, deberá notificar tal circunstancia a las partes, vendedor y adquirente, en transmisiones voluntarias, y a la autoridad judicial o administrativa, en las forzosas.
+3. En el caso del retracto, el plazo para el ejercicio delderecho será de tres meses y se computará desde la fecha en que se tenga conocimiento fehaciente por la Agencia de la transmisión habida.
+4. Notificado el ejercicio de los derechos de tanteo oretracto, en el plazo de dos meses desde dicha notificación, deberá formalizarse en documento público la transmisión a favor de la Agencia.
+El ejercicio del derecho de retracto no enerva la responsabilidad que resulte de la omisión de la preceptiva notificación de la transmisión.
+5. Los mismos derechos se reconocen en las transmisiones de derechos sobre elementos cedibles en las concesiones demaniales y de obra pública, que se regulan en los artículos 26.1.b) y 39.3, respectivamente.
+
+## CAPÍTULO II
+
+Gestión del dominio público portuario
+Se modifica por el art. 64.12 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 20
+
+Artículo 20. Utilización del dominio público portuario.
+1. La utilización del dominio público portuario se regirá por lo establecido en esta ley y en sus normas de desarrollo.
+2. La utilización del dominio público portuario para usos que presenten circunstancias de exclusividad, intensidad, peligrosidad o rentabilidad exigirá la obtención de la correspondiente concesión o autorización administrativa de conformidad con lo dispuesto en la presente ley.
+3. Solo podrán otorgarse concesiones para los usos y actividades permitidos en el artículo 16 que sean conformes con las determinaciones establecidas en la Delimitación de los Espacios y Usos Portuarios.
+Singularmente, podrán otorgarse autorizaciones para usos distintos cuando sean compatibles con la actividad portuaria, de conformidad con lo previsto en el artículo 16.
+Cuando una solicitud de concesión no sea acorde con la Delimitación de los Espacios y Usos Portuarios, pero la Agencia la considere de especial relevancia económica o social, podrá instar de la Consejería competente en materia de puertos su declaración como de interés relevante.
+Tal declaración habilitará para la tramitación simultanea de la modificación de la Delimitación de Espacios Portuarios y Usos Portuarios y de la solicitud de concesión.
+La tramitación de estas Delimitaciones de Espacios y Usos Portuarios tendrá la consideración de preferente y urgente, reduciéndose los plazos a la mitad. La aprobación de la modificación de la Delimitación de los Espacios y Usos Portuarios deberá en todo caso ser previa al otorgamiento de la concesión.
+4. La autorización o la concesión para la utilizacióndel dominio público portuario no exime a su titular de obtener los permisos, licencias o autorizaciones que sean exigibles por otras disposiciones legales.
+5. La Agencia conserva en todo momento las facultades de control y policía a fin de garantizar el uso adecuado del dominio público portuario. A estos efectos, tanto las personas usuarias como las titulares de las autorizaciones y concesiones quedan obligadas a informarle de las incidencias que se produzcan y a cumplir las instrucciones que dicte la Administración.
+Se modifica el apartado 3 por el art. 64.8 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+ Se declara que no es inconstitucional el apartado 3, siempre que se interprete de conformidad con lo señalado en el fundamento jurídico 5, por Sentencia 34/2014, de 27 de febrero. Ref. BOE-A-2014-3244
+ Se levanta la suspensión de la vigencia y aplicación del apartado 3, por auto del TC de 27 de enero de 2009 Ref. BOE-A-2009-2272.
+ Se suspende la vigencia y aplicación del apartado 3, desde el 26 de septiembre de 2008 para las partes del proceso y desde el 24 de octubre de 2008 para los terceros, por providencia del TC de 7 de octubre de 2008 que admite a trámite el recurso de inconstitucionalidad 7258-2008. Ref. BOE-A-2008-17041.
+
+## Sección 2
+
+Sección 2.ª Autorizaciones
+
+### Artículo 21
+
+Artículo 21. Ámbito.
+1. La ocupación del dominio público portuario conbienes muebles o instalaciones desmontables o sin ellos estará sujeta a autorización de la Agencia.
+2. La duración máxima de las autorizaciones es detres años, incluidas sus prórrogas.
+3. Las autorizaciones demaniales se otorgan a títulode precario, con carácter personal e intransferible ínter vivos, y su uso no podrá ser cedido a terceros.
+
+### Artículo 22
+
+Artículo 22. Procedimiento para el otorgamiento.
+1. El procedimiento para el otorgamiento de autorizaciones, en los términos en los que se establezca reglamentariamente, podrá iniciarse a solicitud del interesado o por concurso convocado al efecto por la Agencia.
+2. En el supuesto de iniciación a solicitud del interesado, la petición deberá detallar, en planos o proyectos, la delimitación del dominio público a ocupar, los bienes muebles o instalaciones que sean necesarios y la actividad a desarrollar.
+3. En el supuesto de concurso, el órgano competentepara la resolución aprobará el pliego de bases que ha de regirlo, los criterios para su adjudicación, así como el pliego de condiciones que regulará la autorización. La convocatoria se publicará en el «Boletín Oficial de la Junta de Andalucía».
+4. La resolución de otorgamiento, en los casos previstos en los apartados 2 y 3 anteriores, deberá dictarse y notificarse en el plazo de 6 meses desde la presentación de la solicitud o desde el inicio del procedimiento de concurso. Transcurrido el mismo sin que la resolución se haya dictado y notificado, se podrá entender desestimada dicha solicitud.
+5. Siempre que no haya concurrencia, que el solicitante tenga un título habilitante que vaya a finalizar, y solicite un nuevo título para la ocupación y explotación del dominio público portuario que se realice en las mismas condiciones que el vigente, en el procedimientos de otorgamiento de autorizaciones regulado en el presente artículo, se sustituirá la autorización prevista en el mismo, por la presentación por el interesado de una declaración responsable de cumplimiento de requisitos cumplimentada en el modelo que a estos efectos publicará la Agencia Pública de Puertos de Andalucía en su página web.
+La declaración responsable faculta para proceder desde el mismo día de su presentación y una vez finalizado el título vigente, a continuar con la ocupación prevista en la solicitud del interesado por un plazo máximo de tres años, siempre que vaya acompañada de la documentación requerida en cada caso. Ello sin perjuicio de las facultades de comprobación, control e inspección posterior que correspondan.
+De conformidad con lo previsto en la legislación básica de Procedimiento Administrativo Común, por resolución de la Agencia Pública de Puertos de Andalucía, se declarará el cese de la ocupación y la orden de desalojo del bien inmueble, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar, desde el momento en que se tenga constancia de alguna de las siguientes circunstancias:
+a) La inexactitud, falsedad u omisión de carácter esencial en cualquier dato, manifestación o documento que se acompañe o incorpore a la declaración responsable.
+b) La no presentación, ante la Agencia Pública de Puertos de Andalucía, de la documentación requerida, en su caso, para acreditar el cumplimento de lo declarado.
+c) La inobservancia de los requisitos impuestos por la normativa aplicable.
+d) El incumplimiento de los requisitos necesarios para la ocupación.
+e) La existencia de alguno de los supuestos previstos en los artículos 30 o 31 de la presente ley, o de los previstos en el título otorgado inicialmente.
+Se añade el apartado 5 por el art. 64.9 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 23
+
+Artículo 23. Condiciones de la autorización.
+1. Los títulos de autorización deberán tener, al menos, el siguiente contenido:
+a) Objeto de la autorización.
+b) Bienes muebles e instalaciones autorizadas.
+c) Plazo de duración con las prórrogas que procedan.
+d) Extensión del dominio público cuya ocupación se autoriza.
+e) Condiciones de protección de las personas, bienes y medio ambiente conforme a la normativa de aplicación.
+f) Determinación de los requisitos mínimos de calidad en la actividad a realizar.
+g) Tasas que procedan.
+h) Garantía de utilización.
+i) Causas generales y específicas de caducidad, si se prevén, y sus efectos.
+j) Régimen de seguros de obligatoria cobertura por el autorizado.
+2. Durante la vigencia de la autorización, su titular vendrá obligado a mantener en buen estado tanto el dominio público portuario como sus instalaciones, debiendo realizar a su cargo las reparaciones que sean precisas.
+La Agencia podrá inspeccionar el estado de conservación de los bienes objeto de autorización y señalar las reparaciones que deben acometerse sobre los mismos.
+3. Las autorizaciones se inscribirán en el Registro de Usos del Dominio Público Portuario regulado en el Capítulo V de este Título. Extinguida la autorización, la inscripción en el Registro de Usos será cancelada de oficio.
+Reglamentariamente podrán establecerse categorías objetivas de autorizaciones exentas del trámite preceptivo de inscripción, en función de la duración y de la superficie de la ocupación.
+
+## Sección 3
+
+Sección 3.ª Concesiones
+
+### Artículo 24
+
+Artículo 24. Ámbito y plazo.
+1. La ocupación del dominio público portuario con obras o instalaciones fijas, así como cualquier tipo de ocupación por plazo superior a tres años, estará sujeta a concesión.
+El título de otorgamiento determinará el plazo de la concesión y sus posibles prórrogas, sin que el plazo total pueda exceder de 50 años.
+Para la fijación del mismo se tendrán en cuenta los siguientes criterios:
+a) Vinculación del objeto de la concesión a la actividad portuaria.
+b) Disponibilidad de espacio de dominio público portuario.
+c) Volumen de inversión y estudio económico-financiero.
+d) Plazo de ejecución de las obras contenidas en el proyecto.
+e) Adecuación a la planificación y gestión portuarias.
+f) Incremento de actividad que genere el puerto y creación de empleo consecuencia de dicho incremento.
+g) Vida útil de la inversión a realizar por el concesionario.
+h) Compromisos de mejora medioambiental en el puerto y su entorno durante la concesión.
+2. El plazo de la concesión será improrrogable, excepto en los siguientes supuestos:
+A) Cuando en el título de otorgamiento se haya previsto expresamente o, de no haberse previsto, concurra el supuesto establecido en el artículo 27.2 d) de la presente ley. En estos casos, a petición de la concesionaria y a juicio de la Administración portuaria, podrá ser prorrogada la concesión, sin que la suma de los plazos de las prórrogas pueda superar la mitad del plazo inicialmente otorgado, y en ningún caso este plazo inicial, unido al de las prórrogas, podrá superar el plazo máximo de 50 años.
+En los supuestos establecidos en el artículo 27.2 d), tanto la inversión a realizar por el solicitante como el procedimiento a seguir se realizarán conforme a lo previsto en el apartado siguiente.
+B) Excepcionalmente, aunque en el título de otorgamiento no se haya previsto la posibilidad de prórroga, en aquellas concesiones de puertos deportivos y de instalaciones en zonas portuarias de uso náutico-deportivo destinadas a la prestación del servicio a las embarcaciones deportivas y de ocio, que sean de interés estratégico o relevante para el sistema portuario andaluz o para el desarrollo económico del mismo, cuando la concesionaria se comprometa a llevar a cabo alguna de las actuaciones previstas en los apartados siguientes y concurran razones de interés público de orden económico, social, turístico o estratégico que así lo aconsejen, la Consejería competente en materia de Puertos podrá autorizar prórrogas no previstas en los títulos.
+Las referidas actuaciones son:
+B1) Llevar a cabo un nueva inversión relevante, no prevista en el título original, que suponga una mejora cualitativa y cuantitativa del empleo, de la eficacia global y de la competitividad de la actividad desarrollada, tanto en la concesión como, en su caso, en la concesión modificada por ampliación de su superficie, siempre que formen una unidad de explotación y que, a juicio de la referida Administración, sea de interés para mejorar la productividad, la eficiencia energética o la calidad ambiental de las operaciones portuarias y la prevención de daños medioambientales en el entorno portuario, la mejora de la sostenibilidad ambiental y la sensibilización para la preservación y mejora del medioambiente o suponga la introducción de nuevas tecnologías, como la digitalización de infraestructuras o procesos que incrementen su competitividad y que, en todo caso, sea superior al 20% del valor actualizado de las instalaciones objeto de concesión, se entiende este como el correspondiente al inicialmente previsto en la concesión, así como a las inversiones de desarrollo de dicho proyecto inicial aprobadas durante la vida de concesión (presupuesto de ejecución material).
+B2) Llevar a cabo una aportación económica, que no tendrá naturaleza tributaria, a la financiación de infraestructuras portuarias para la mejora de la posición competitiva de los puertos de Andalucía, cuyo importe, en todo caso, sea superior al 20% del valor actualizado de las instalaciones objeto de concesión.
+B3) Una combinación de ambos supuestos, siempre que la suma de los importes comprometidos no sea inferior al 20% del valor actualizado de las instalaciones objeto de concesión.
+Los compromisos descritos en los apartados anteriores deberán estar íntegramente ejecutados en el plazo de los cuatro primeros años, a contar desde la resolución de prórroga.
+En el supuesto de que la entidad concesionaria sea un club náutico u otra entidad deportiva sin fines lucrativos, dichos compromisos deberán ejecutarse en el plazo de los seis primeros años, a contar desde la resolución de prórroga.
+La prórroga establecida en el apartado B se regulará conforme al procedimiento previsto en los apartados 5 y 6 del artículo 25 de la presente ley, con las especialidades establecidas en los apartados 3, 4 y 5 del presente artículo.
+3. Las concesionarias deberán presentar una solicitud en la que indicarán la concesión respecto de la que solicita la prórroga, el plazo por el que la solicita y la inversión o aportación económica que se propone. Dicha solicitud será resuelta por la Consejería competente en materia de Puertos, previo informe de la Agencia Pública de Puertos de Andalucía.
+A la referida solicitud habrán de adjuntar la siguiente documentación:
+a) Documento técnico que describa las características de las obras o debida referencia al mismo, en caso de que este obrase en la Agencia, así como la documentación o estudios necesarios para la obtención del instrumento de prevención y control ambiental a que se encuentre sometido.
+b) Estudio económico-financiero de viabilidad de la concesión, que justifique la necesidad de la prórroga y los nuevos compromisos que se pretenden cumplir, entre los que figurarán la previsión de la creación de empleo y la metodología utilizada para dicha estimación.
+c) Documentación acreditativa de las inversiones tanto inicialmente previstas en la concesión como de desarrollo del proyecto inicial, ejecutadas y aprobadas por la Administración competente.
+d) Cuentas anuales aprobadas y depositadas en el Registro Mercantil o registro oficial en que el empresario deba estar inscrito y auditadas por firma auditora externa, de los tres últimos ejercicios.
+e) Dictamen emitido por una auditoría técnica externa e independiente, que verifique el cumplimiento de sus obligaciones de mantenimiento de las obras e instalaciones de la infraestructura necesaria para la prestación de los servicios portuarios que constituyen el soporte material de la concesión. Para estos cometidos, la Agencia designará a la entidad encargada de realizar el dictamen de entre las cinco propuestas por la concesionaria, a su costa, en base a los parámetros fijados por la Agencia.
+f) Propuesta de Reglamento de Explotación y Tarifas Máximas, actualizado de conformidad con las prescripciones establecidas por la Agencia Pública de Puertos de Andalucía, vigentes al tiempo de presentarse la solicitud.
+g) Certificados de encontrarse al corriente de las obligaciones tributarias con el Estado y la Comunidad Autónoma de Andalucía y de las obligaciones con la Seguridad Social.
+h) Declaración responsable de no estar incurso en incapacidad o prohibición para contratar.
+La solicitud deberá presentarse, en todo caso, con anterioridad al inicio del penúltimo año del plazo de concesión, siendo requisito indispensable para su tramitación que el interesado se encuentre al corriente del cumplimiento de las obligaciones concesionales establecidas en la presente ley y las que resulten del título otorgado.
+4. El informe al que se refiere el presente artículo se emitirá teniendo en cuenta:
+a) Si las concesiones son de interés estratégico o relevante para el sistema portuario andaluz o para el desarrollo económico del mismo y concurren razones de interés público de orden económico, social, turístico o estratégico que aconsejen su prórroga.
+b) Si, durante la vida de la concesión, el titular de la misma ha cumplido las prescripciones previstas en el título de otorgamiento, no habiendo sido sancionado por infracción grave.
+c) Si la inversión propuesta o aportación económica tiene las características detalladas en el apartado B) del presente artículo.
+d) El volumen de inversión y/o aportación económica comprometida y el plazo en el que se comprometen a realizarlos.
+e) La vida útil de la inversión.
+f) La memoria económico-financiera de la concesión en el momento de su otorgamiento y en el momento de la solicitud de prórroga de plazo.
+5. La prórroga de la concesión determinará la modificación de las condiciones de la misma, que deberán ser aceptadas por la concesionaria con anterioridad a la resolución de otorgamiento.
+En estos supuestos, la prórroga no podrá ser superior al plazo inicialmente previsto en su título de otorgamiento y, en ningún caso, el plazo total del otorgamiento unido al de la prórroga podrá superar el plazo máximo de 50 años, y excepcionalmente para las estratégicas o relevantes podrá llegar hasta los 75 años. Asimismo, se requerirá que haya transcurrido al menos una tercera parte del plazo de la concesión inicial.
+En las concesiones prorrogadas por el plazo máximo de 75 años, el correspondiente instrumento de prevención y control ambiental deberá contener una evaluación bianual del cumplimiento de las indicaciones y medidas protectoras y correctoras en él contenidas. De dicha evaluación deberá trasladarse copia a la Agencia Pública de Puertos de Andalucía y al ayuntamiento en cuyo término municipal se asiente la instalación portuaria.
+La prórroga de la concesión determinará la aprobación del Reglamento de Explotación y Tarifas Máximas, actualizado de conformidad con las prescripciones establecidas por la Agencia Pública de Puertos de Andalucía, vigentes al tiempo de presentarse la solicitud.
+Si una vez realizada la prórroga la concesionaria impugna las cláusulas que fueron aceptadas por ella, la Agencia Pública de Puertos de Andalucía estará facultada para declarar extinguido el título, salvo cuando aquellas hubiesen sido declaradas ilegales.
+La prórroga del plazo de la concesión no será tenida en cuenta a efectos de la valoración del rescate, de la revisión de la concesión o de la indemnización por cualquier causa a la concesionaria.
+Se modifica por el art. único.1 de la Ley 2/2020, de 12 de noviembre. Ref. BOE-A-2020-15403
+
+### Artículo 25
+
+Artículo 25. Procedimiento de otorgamiento.
+1. El procedimiento de otorgamiento podrá iniciarse a solicitud del interesado o por concurso convocado al efecto por la Agencia. No obstante, podrá acordarse el otorgamiento directo cuando el interesado sea otra administración pública, o en general, cualquier persona jurídica de derecho público o privado perteneciente al sector público, cuando se den las circunstancias excepcionales para ello, debidamente justificadas.
+En los supuestos en los que sean iniciados a solicitud de los interesados, el mismo se iniciará con una solicitud en la que se describa la ocupación solicitada, la actividad a desarrollar y, en su caso, la inversión a realizar, a la cual se adjuntará la documentación detallada por la Agencia Pública de Puertos a través del Portal de la Junta de Andalucía.
+Transcurrido el plazo de seis meses de la presentación de la solicitud o, en el caso de procedimientos iniciados por concurso, desde que termine el plazo de presentación de solicitudes, sin que la resolución se haya dictado y notificado, se podrá entender desestimada dicha solicitud.
+En el supuesto de tramitación del concurso se estará a lo establecido en el artículo 22 de esta ley, con las especialidades previstas los apartados siguientes.
+2. La tramitación de los procedimientos de otorgamiento de concesiones podrá ser ordinaria o simplificada.
+3. En la tramitación ordinaria, la Agencia, tras la recepción de la solicitud y el análisis de su suficiencia y viabilidad, realizará un trámite de competencia de solicitudes mediante anuncio en el Boletín Oficial de la Junta de Andalucía. En el mismo, se indicará la apertura de un plazo de entre diez días y tres meses, en función de la complejidad de la documentación a aportar por los licitadores, para la presentación de otras solicitudes que, según se determine por la Agencia, puedan tener el mismo o distinto objeto que aquella pero que por su localización resulten incompatibles.
+Concluido el trámite de competencia de solicitudes, el procedimiento continuará conforme a lo previsto en el apartado siguiente.
+Si de acuerdo con lo dispuesto en este apartado existieran solicitudes en concurrencia, la Agencia seleccionará aquella solicitud que, a su juicio, tenga mayor interés portuario, motivado en criterios de captación de nuevos tráficos, compatibilidad con otros usos, inversión, rentabilidad y empleo, entre otros, continuándose la tramitación conforme a lo indicado en los apartados anteriores. Estos criterios deben ser incluidos en el anuncio a que se refiere los citados apartados. No obstante, la Agencia podrá convocar un concurso cuando la concurrencia existente en dicho trámite ponga de manifiesto tal necesidad.
+4. En aquellos supuestos en los que el solicitante pretenda realizar obras, la Agencia realizará la confrontación del documento técnico requerido según la legislación vigente, sobre el terreno y espacio de agua.
+En estos supuestos, la solicitud seleccionada se someterá a información pública en el Boletín Oficial de la Junta de Andalucía para que, durante un plazo de veinte días hábiles desde su publicación, puedan presentarse alegaciones simultáneamente a la solicitud de los informes preceptivos para el otorgamiento de la concesión por idéntico plazo. Transcurrido el referido plazo para la emisión de los informes solicitados sin que los mismos se hayan emitido, se podrá continuar con la tramitación del procedimiento.
+Este trámite de información pública podrá servir para cumplimentar el concerniente al procedimiento de evaluación de impacto ambiental, en los casos en los que sea preceptivo el mismo.
+El trámite de información pública no será preceptivo en los supuestos en que la concesión se refiera a la utilización total o parcial de edificaciones existentes, siempre que no se produzca una modificación relevante de su arquitectura exterior que suponga un cambio importante en la altura o el volumen de la edificación.
+La publicación de los trámites de competencia de proyectos y el de información pública, a que se refieren los apartados anteriores, en el Boletín Oficial de la Junta de Andalucía estará exenta del pago de las tasas reguladas en el Capítulo I del Título II de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía.
+Con carácter previo al otorgamiento, se fijarán las condiciones que regularán la concesión, sin cuya aceptación expresa por el peticionario no será otorgada.
+Conforme al procedimiento previsto en este apartado se regulará la prórroga establecida en el apartado 2 B) del artículo 24.
+5. El trámite de información pública referido en el apartado anterior podrá considerarse cumplimentado y subsumido en el trámite de competencia a que se refiere el apartado anterior, siempre que el proyecto seleccionado sea el que dio lugar al inicio de este último trámite, sin modificación alguna, y el mismo hubiese estado a disposición de todos los posibles interesados en dicho trámite. A estos efectos, en el anuncio del trámite de solicitud se hará constar de forma expresa este último extremo.
+6. La Agencia podrá acordar la utilización del procedimiento con tramitación simplificada cuando la ocupación sea inferior a 1.500 m² o se realice sobre edificios preexistentes siempre que no se pretenda la ejecución de obras de nuevo establecimiento, y la ocupación solicitada no esté sujeta a instrumentos de prevención ambiental a excepción de la calificación ambiental.
+Recibida una solicitud, la tramitación simplificada se iniciará con el trámite de competencia de solicitudes mediante anuncio en Boletín Oficial de la Junta de Andalucía, otorgándose un plazo de diez días para la presentación de solicitudes alternativas.
+Transcurrido este plazo sin que exista concurrencia, se procederá al otorgamiento de la concesión, previa aceptación expresa por el peticionario de las condiciones que regularán la concesión y previa solicitud, en su caso, de los informes que resulten preceptivos conforme a la normativa sectorial de aplicación.
+En caso de que exista concurrencia se procederá conforme a lo previsto en el apartado 3 in fine.
+7. Se podrá prescindir del trámite de competencia de solicitudes:
+a) Cuando quien formula la solicitud sea un órgano o entidad de cualquier administración pública para el cumplimiento de los fines de su competencia, siempre que se trate de usos o actividades que, por su relación directa con la actividad portuaria, hayan de desarrollarse necesariamente dentro de dicho espacio o cuando la solicitud sea formulada por un club náutico u otro deportivo sin fines lucrativos, siempre que las condiciones de la concesión establezcan una limitación de, al menos, un sesenta y cinco por ciento de los atraques disponibles a embarcaciones con eslora inferior o igual a doce metros.
+b) Cuando el objeto de ocupación sea una lonja y la solicitante tenga condición de entidad representativa del sector pesquero declarada por la Consejería competente en materia de pesca.
+c) Cuando fuera declarado desierto el concurso convocado para el otorgamiento de una concesión, o este hubiera resultado fallido a consecuencia del incumplimiento de las obligaciones previas a la formalización del otorgamiento por parte de la persona adjudicataria, siempre que no haya transcurrido más de dos años desde la fecha de la resolución poniendo fin a dicho procedimiento, el objeto concesional sea el mismo y las condiciones de otorgamiento sean las anunciadas para el concurso o de aquellas en las que se hubiera producido la adjudicación.
+En caso de que el concurso hubiera resultado fallido, se requerirá al licitador siguiente por el orden en el que hayan quedado clasificadas las ofertas, de acuerdo con lo dispuesto en el pliego de bases del concurso, para que aporte la documentación necesaria a fin de iniciar el procedimiento de otorgamiento de la concesión.
+d) Cuando la superficie a ocupar por la concesión sea igual o inferior a 500 metros cuadrados o para instalaciones lineales, tales como tuberías de abastecimiento, saneamiento, emisarios submarinos, redes de telecomunicaciones, líneas telefónicas o eléctricas y conducciones de gas, entre otras, que sean de uso público o aprovechamiento general, así como para instalaciones destinadas a uso público general y gratuito.
+8. En los supuestos de concursos convocados por la Agencia, una vez resuelto el mismo, la tramitación del procedimiento de otorgamiento de la concesión será la ordinaria o simplificada en función de las características del objeto de la concesión conforme a los previsto en los apartados 3 y 6 del presente artículo.
+9. Una vez otorgado el título, y con carácter previo a su firma, el interesado deberá aportar la documentación detallada en la página web de la Agencia Pública de Puertos de Andalucía.
+El otorgamiento se publicará en el Boletín Oficial de la Junta de Andalucía con indicación, al menos, de la información relativa al objeto, plazo, superficie concedida y titular de la concesión.
+A tal efecto, se publicará un anuncio con carácter anual de todas las concesiones otorgadas.
+Se modifica el apartado 1 por el art. 250 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+ Se modifica por el art. 64.10 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 26
+
+Artículo 26. Condiciones de otorgamiento.
+1. Además de las condiciones y obligaciones que se señalan para las autorizaciones en el artículo 23, el título de otorgamiento debe recoger:
+a) Obras o instalaciones fijas con referencia al proyecto y las prescripciones técnicas, así como los plazos de inicio y finalización. En el caso de ocupación de espacios de agua, deberá señalar el balizamiento que deba establecerse.
+b) La posibilidad, en su caso, de ceder elementos portuarios a terceros, previa autorización de la Agencia.
+c) La obligación de facilitar la información técnica y económica que le solicite la Agencia en el ejercicio de sus competencias.
+d) El régimen de utilización, pública o privada, de los servicios y de los espacios portuarios, con la obligación del concesionario de establecer y de mantener los accesos adecuados para el uso público de las zonas de dominio público.
+e) Las tarifas o los precios máximos a percibir de los usuarios, si procede, con el detalle de los factores constitutivos como base de futuras actualizaciones.
+f) La obligación del concesionario de mantener enbuen estado el dominio público, las obras y las instalaciones, de hacer a su cargo las reparaciones que sean necesarias, de facilitar la tarea de inspección y de control que lleve a cabo la Agencia y de colaborar con la misma.
+g) Las condiciones que se consideren necesarias, como resultado de la evaluación de efectos, para no perjudicar el medio, y también las medidas indispensables para mantener la calidad de las aguas marítimas.
+h) Las causas generales y específicas de extinción de la concesión, si se prevén, y los efectos que producen.
+i) Aquellas otras que hayan servido de base para otorgar la concesión
+2. El otorgamiento, modificación y extinción de las concesiones deberán acceder al Registro de la Propiedad y al Registro de Usos del Dominio Público Portuario.
+
+### Artículo 27
+
+Artículo 27. Revisión y modificación.
+1. La Agencia, de oficio o a instancia de parte, podrá revisar una concesión modificando sus condiciones si concurre alguna de las siguientes circunstancias:
+a) En caso de fuerza mayor.
+b) Cuando por alteración de los supuestos determinantes de su otorgamiento no sea posible mantener la finalidad de la concesión.
+c) Cuando lo exija su adecuación a las obras previstas en el planeamiento portuario.
+d) Cuando lo exija su adecuación al Plan de Usos delos Espacios Portuarios o al Plan Especial de Ordenación del Puerto.
+En los dos últimos supuestos, la persona concesionaria tendrá derecho a una indemnización por los perjuicios derivados de la revisión del título, que se determinará de acuerdo con lo dispuesto en el artículo 33.
+2. La Agencia podrá autorizar modificaciones en las condiciones de la concesión a petición de su titular. Cuando la modificación sea sustancial, deberá tramitarse de acuerdo con lo establecido en el apartado 4 del artículo 25. Se entenderán modificaciones sustanciales las siguientes:
+a) Cambio relevante del objeto de la concesión.
+b) La ampliación de la superficie de la concesión, de la obra o la construcción en más de un 10%.
+c) Cambio de ubicación de la concesión.
+d) Prórrogas no previstas en el título concesional. Estas prórrogas solo podrán otorgarse en supuestos excepcionales, por razones de interés estratégico o relevante para el puerto, y siempre que la persona o entidad concesionaria lleve a cabo nuevas inversiones con la debida correspondencia con la prórroga solicitada.
+Se modifica el apartado 2 por el art. 64.11 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 28
+
+Artículo 28. Transmisión y gravamen.
+1. Las concesiones podrán transmitirse por actosínter vivos, previa autorización expresa de la Agencia, subrogándose el nuevo titular en los derechos y obligaciones derivados de la concesión. Serán nulas de pleno derecho las transmisiones realizadas sin dicha autorización.
+Estas transmisiones deberán formalizarse en escritura pública, de la que las partes remitirán copia a la Agencia en el plazo de un mes desde su otorgamiento.
+2. La resolución de autorización para la transmisióndeberá dictarse en el plazo de tres meses, pudiéndose entender desestimada la solicitud por silencio administrativo una vez transcurrido el mismo.
+3. Para que se autorice la transmisión de la concesión se deberán cumplir las siguientes condiciones:
+a) Que la persona concesionaria se encuentre al corriente en el cumplimiento de todas las obligaciones de la concesión.
+b) Que el nuevo titular reúna los requisitos exigidos para la prestación del servicio o para el ejercicio de la actividad de la que la concesión demanial sea soporte.
+c) Que desde la fecha de puesta en marcha de la instalación haya transcurrido, al menos, un plazo de dos años.
+Además, deberán especificarse necesariamente en la solicitud las condiciones relativas al precio y a la forma de pago, a efecto del ejercicio de los derechos previstos en el artículo 19.
+4. Si la concesionaria fuera una persona jurídica, se considerará transmisión cualquier cambio en la titularidad de las acciones o participaciones que suponga sustitución de los socios o accionistas que lo fueren al tiempo de otorgamiento de la concesión, en porcentaje igual o superior al 50% del capital social.
+5. Los causahabientes de la persona concesionariapodrán subrogarse mortis causa en el título, previa autorización de la Agencia, en el plazo de un año desde el fallecimiento. Transcurrido dicho plazo sin solicitud expresa al respecto ante la Agencia, se entenderá que se renuncia a la subrogación en la concesión, produciéndose la extinción del título.
+La Agencia denegará tal autorización si los herederos no acreditaren los requisitos de solvencia exigidos para la prestación del servicio o para el ejercicio de la actividad de la que la concesión demanial sea soporte, en cuyo caso tendrán derecho a transmitir la concesión a quien reúna el exigido perfil de solvencia, en el plazo de un año desde la notificación por la Agencia de la resolución denegatoria.
+6. En los supuestos de adjudicación de la concesiónmediante remate judicial o administrativo o en el caso de adjudicación de bienes por impago de créditos hipotecarios, la nueva persona concesionaria se subrogará en las obligaciones y derechos derivados de la concesión. Para poder participar en estos procedimientos de adjudicación será preceptiva la autorización de la Agencia que acredite que el peticionario cumple los requisitos para la prestación del servicio o para el ejercicio de la actividad de la que la concesión sea soporte.
+7. La constitución de hipotecas y otros derechos degarantía sobre las concesiones deberá ser previamente autorizada por la Agencia, sin cuyo requisito serán nulos de pleno derecho dichos gravámenes.
+8. No se inscribirá en el Registro de la Propiedad latransmisión de las concesiones o la constitución de derechos reales sobre las mismas sin que se acredite el cumplimiento de los requisitos exigidos en este artículo.
+
+## Sección 4
+
+Sección 4.ª Disposiciones comunes para las autorizaciones y concesiones
+
+### Artículo 29
+
+Artículo 29. Garantías.
+1. El titular de una autorización tiene la obligación deconstituir una garantía de utilización, que responderá de todas las obligaciones derivadas de la misma y de los daños y perjuicios que se pudieran ocasionar, siendo devuelta, si procede, a la extinción del título.
+Su cuantía se determinará en función del valor del suelo e instalaciones cedidos, por un importe del 5%.
+2. En relación con las concesiones, habrán de constituirse las siguientes garantías:
+a) Garantía provisional por importe del 2% del presupuesto de las obras o instalaciones, para solicitar o participar en el proceso de selección de la concesión. Dicha garantía podrá ser excepcional y motivadamente incrementada en expedientes cuyas circunstancias así lo aconsejen, hasta un máximo del 10%.
+b) Garantía de construcción de obras, una vez otorgada la concesión, por un importe del 5 % del presupuesto de las obras e instalaciones fijas, que excepcional y motivadamente podrá elevarse hasta un máximo del 10%.
+c) La garantía de construcción se transformará, una vez realizado el reconocimiento final de las obras, en garantía de utilización, con la misma finalidad que la prevista en el apartado 1 para las autorizaciones. Asimismo, la garantía responderá por eventuales vicios de la construcción.
+3. La no constitución en el plazo de un mes de las garantías de utilización, en el caso de las autorizaciones, y de construcción, en el de las concesiones, dará lugar a la resolución de tales títulos.
+
+### Artículo 30
+
+Artículo 30. Causas de extinción.
+1. Las autorizaciones y concesiones se extinguirán por:
+a) Vencimiento del plazo de otorgamiento.
+b) Renuncia del titular, que solo podrá ser aceptada cuando no cause perjuicio al dominio público portuario, a la correcta prestación de los servicios públicos portuarios o a terceros.
+c) Mutuo acuerdo.
+d) Revocación.
+e) Caducidad por incumplimiento.
+f) Rescate de las concesiones.
+g) Fallecimiento del titular, en los supuestos previstos en el artículo 28.
+h) Extinción o disolución de la sociedad, salvo en supuestos de fusión o escisión.
+2. Corresponde a la Agencia acordar la extinción de las concesiones y de las autorizaciones, previa audiencia del titular, conforme al procedimiento que se determine reglamentariamente, salvo en los supuestos previstos en los párrafos a) y g) del apartado anterior, en los que la extinción se producirá de forma automática.
+El plazo máximo en que debe notificarse la resolución expresa en la que así se acuerde será de seis meses computados desde el acuerdo de inicio.
+
+### Artículo 31
+
+Artículo 31.
+1. Las autorizaciones podrán revocarse sin derecho aindemnización por fuerza mayor, por resultar incompatibles con obras o planes aprobados con posterioridad o por entorpecer la normal explotación del puerto.
+2. Las concesiones podrán revocarse sin derecho a indemnización por causa de fuerza mayor, o por alteración de los supuestos determinantes de su otorgamiento que impliquen la imposibilidad material o jurídica de la continuación en el disfrute de la concesión, siempre que no sea posible la modificación o revisión del título de otorgamiento.
+
+### Artículo 32
+
+Artículo 32. Caducidad.
+1. Procederá declarar la caducidad de la autorización o de la concesión por los siguientes incumplimientos:
+a) No iniciación, paralización o no terminación de las obras durante el plazo que se fije en las condiciones del título, salvo que medie causa justificada.
+b) Abandono o falta de utilización del dominio público portuario sin mediar causa justificada durante el periodo establecido en el título, que nunca excederá de seis meses, salvo que en el título se hubiese dispuesto otro menor.
+c) Impago de las tasas durante el plazo de seis meses en el caso de autorizaciones, y de un año en el caso de concesiones. Para iniciar el procedimiento de caducidad será suficiente que no se haya efectuado el ingreso en periodo voluntario. Una vez iniciado, el titular podrá enervar el efecto de caducidad, por una sola vez en el caso de autorizaciones y hasta un máximo de tres en concesiones, para toda la vigencia del título, si durante la tramitación del expediente y antes de su resolución abona la integridad de la deuda, incluidos intereses y recargos, con reposición en su caso del importe detraído de la garantía.
+d) Ocupación del dominio público en más de un 10% sobre lo otorgado, a salvo de la sanción que corresponda en todo supuesto de ocupación no autorizada.
+e) Aumento de la superficie, volumen o altura de lasobras o instalaciones en más del 10% sobre el proyecto autorizado, además de la sanción que corresponda en todo supuesto de obra no acorde al antedicho proyecto.
+f) Utilización del dominio público para actividades distintas a las habilitadas en el título.
+g) Incumplimiento de las condiciones que rigen la actividad o la prestación del servicio público del que la autorización o concesión demanial sea soporte.
+h) Transmisión o constitución de derechos de garantía sin autorización.
+i) Cesión de uso de elementos de la concesión sin habilitación.
+j) No reposición o complemento de las garantías deconstrucción o de utilización, previo requerimiento de la Agencia.
+k) Incumplimiento de otras condiciones cuya inobservancia esté expresamente prevista en el título de otorgamiento como causa de caducidad.
+2. La declaración de caducidad conllevará la pérdida de las garantías constituidas.
+
+### Artículo 33
+
+Artículo 33. Rescate de las concesiones.
+1. Si fuera preciso demoler las obras autorizadas o disponer de los bienes otorgados en concesión para la ejecución de obras o instalaciones declaradas de interés público, o cuando las concesiones resulten incompatibles con los planes de usos de los espacios portuarios o con los planes especiales del sistema general portuario, la Agencia podrá proceder al rescate de la concesión, previa indemnización al titular.
+2. Si el rescate implicare la necesidad de ocupación de solo una parte de la concesión, el titular podrá solicitar su rescate total si la actividad que pueda mantener en la parte no rescatada le resulta antieconómica.
+3. Para la valoración de las concesiones, en caso de rescate total o parcial, se atenderá a los siguientes conceptos:
+a) El coste de las obras rescatadas actualizadas con el Índice Nacional General del Sistema de Índices de Precios al Consumo o referencia que eventualmente lo sustituya, multiplicado por el cociente entre el período de concesión restante y el total. No se tendrán en cuenta las obras e instalaciones realizadas sin autorización, que pasarán sin derecho a indemnización al dominio público, salvo que se ordene su levantamiento o demolición a costa de la persona concesionaria.
+b) La pérdida de beneficios imputables al rescate durante el período que reste de concesión, con un máximo de tres anualidades. Para ello se computará el beneficio medio anual declarado de las actividades realizadas en la concesión en los cuatro ejercicios anteriores, o en los dos últimos ejercicios si es más favorable para la persona concesionaria.
+4. El pago del valor del rescate podrá realizarse en metálico, mediante el otorgamiento de otra concesión o, en caso de rescate parcial, con la modificación de las condiciones de esta. Estos dos últimos supuestos se condicionan a la conformidad expresa de la persona concesionaria.
+
+### Artículo 34
+
+Artículo 34. Efectos de la extinción.
+1. El titular tiene la obligación de retirar, al tiempo dela extinción del título, aquellos elementos que no estén unidos de manera fija al inmueble, de modo que no se produzca quebrantamiento de los mismos.
+Si este no lo efectuara en el plazo y condiciones fijadas por la Agencia, esta podrá acordar su ejecución subsidiaria a costa del obligado.
+2. Extinguida una concesión se suscribirá un Acta de Reconocimiento de Obras, en la que se describirán con el debido detalle los terrenos, obras e instalaciones sujetos a reversión o su levantamiento y retirada del dominio público, en la forma dispuesta en el apartado anterior. Si procediera su mantenimiento, el titular procederá a la reparación de las obras e instalaciones en el plazo y según las indicaciones fijadas por la Agencia.
+3. Producida la reversión, quedarán automáticamente extinguidos los derechos que pudieran ostentar terceras personas sobre los mencionados bienes.
+4. La Agencia no asumirá ni será responsable de ningún tipo de obligación, laboral o económica, del titular del derecho extinguido, esté o no vinculada a la actividad objeto de la autorización o concesión.
+
+## CAPÍTULO III
+
+Contrato de concesión portuaria
+Se modifica por el art. 64.12 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 35
+
+Artículo 35. Contrato de concesión.
+1. La Administración del Sistema Portuario podrá promover la construcción de obras públicas portuarias mediante el contrato administrativo de concesión de obra pública portuaria.
+2. En el ámbito portuario, el contrato de concesión de obra pública portuaria tendrán por objeto la construcción y explotación de un nuevo puerto o una parte de un puerto que sean susceptibles de explotación totalmente independiente, técnica y económicamente, siempre que se encuentren abiertas al uso público o aprovechamiento general.
+El contrato de concesión de servicio portuario tendrá por objeto la mera explotación de un puerto.
+3. La construcción y explotación de la obra pública portuaria objeto de la concesión se efectuará a riesgo y ventura del concesionario, quien asumirá los riesgos económicos derivados de su ejecución y explotación, en los términos previstos en la normativa de contratación.
+El contrato de concesión de obras o servicios portuarios reconocerá al concesionario el derecho a percibir una retribución consistente en la explotación de la totalidad o de parte de la obra, o dicho derecho acompañado del de percibir un precio o cualquier otra modalidad de financiación de las obras reguladas en la legislación general reguladora del contrato de concesión de obras.
+A estos efectos, se entiende por explotación de una obra portuaria la puesta a disposición de la misma a favor de terceros para su ocupación, utilización o explotación o aprovechamiento, a cambio de la correspondiente retribución económica.
+4. El contrato de concesión de obras portuarias habilitará directamente para la ocupación del dominio público en el que deba construirse la obra portuaria que constituya su objeto, siendo de aplicación lo dispuesto en esta ley a los efectos del régimen de utilización del dominio público portuario.
+5. Los contratos de concesión de obras o servicios portuarios, de acuerdo con lo que establezcan los pliegos durante su licitación, establecerá los términos en que, en su caso, habilita al contratista para prestar los servicios portuarios establecidos en esta ley, sobre la obra que constituye su objeto.
+6. Los contratos de concesión de obras o servicios portuarios se regirá por lo dispuesto en la legislación reguladora del contrato de concesión de obras con las especialidades previstas en esta ley.
+Se modifica por el art. 64.13 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 36
+
+Artículo 36. Plazo.
+1. Las concesiones de construcción y explotación deobras públicas portuarias se otorgarán por el plazo que se acuerde en el pliego de cláusulas administrativas particulares, que no podrá exceder del plazo máximo fijado en la legislación básica estatal para el contrato de concesión de obra pública, con las especialidades que resulten en materia de dominio público marítimo-terrestre portuario.
+2. Los plazos fijados en los pliegos de condiciones podrán ser prorrogados potestativamente, superando los establecidos en el apartado anterior, para los supuestos y dentro de los límites temporales regulados en la normativa básica en materia de contratos de concesión de obra pública.
+
+### Artículo 37
+
+Artículo 37. Continuación de la explotación.
+(Derogado)
+Se deroga por la disposición derogatoria única.2.e) del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+
+### Artículo 38
+
+Artículo 38. Inscripciones obligatorias.
+1. Otorgada la concesión de obra pública portuaria, su titular queda obligado a inscribirla en el Registro de la Propiedad, especificando con el debido detalle los bienes, obras e instalaciones sujetas a reversión de acuerdo con el título concesional. En caso de que posteriormente se aprueben modificaciones en el proyecto, le alcanzará idéntica obligación en relación con las nuevas unidades de obra, instalaciones o bienes que resulten de aquellas.
+2. Terminada la construcción y previamente a la aprobación del acta de reconocimiento final de las obras, la persona concesionaria deberá aportar certificación registral de la inscripción referida en el apartado anterior. En ningún caso se autorizará la apertura de la obra pública ni su explotación en tanto no se presente dicha certificación.
+3. La concesión se inscribirá de oficio en el Registro de Usos del Dominio Público Portuario.
+
+### Artículo 39
+
+Artículo 39. Cesión del contrato de concesión de obra pública y de elementos portuarios.
+1. La cesión del contrato de concesión de obra pública requerirá de la autorización expresa de la Consejería competente en materia de puertos, conforme a lo previsto en la normativa en materia de contratos de las Administraciones Públicas.
+2. La concesión de obra pública portuaria es indivisible, sin perjuicio de la cesión de elementos portuarios conforme a lo previsto en el presente artículo, siendo nulas de pleno derecho las cesiones realizadas que no se ajusten a lo establecido en el mismo.
+3. La persona concesionaria podrá celebrar contratos con personas físicas o jurídicas cuyo objeto sea la cesión temporal de los derechos de explotación y de uso de elementos portuarios de acuerdo con las prescripciones del título concesional.
+En ningún caso se podrán celebrar estos contratos sin que se hayan cumplido los requisitos relativos a la inscripción registral establecidos en el artículo 38.
+4. Los contratos de cesión de elementos portuarios se regirán por el derecho privado en lo que afecta a los derechos y obligaciones de las partes. En ningún caso será válida la determinación de contraprestaciones más allá de los límites establecidos en el título concesional e instrumentos de desarrollo.
+5. Los contratos de cesión de elementos portuarios deberán formalizarse mediante escritura pública y comunicarse con carácter previo a la Agencia.
+En ningún caso se entenderán adquiridas mediante esta actuación comunicada facultades en contra de la legislación básica o autonómica en materia de bienes de dominio público.
+6. Los cesionarios de elementos de la concesión y las personas usuarias de la misma por cualquier título están obligados a cumplir las prescripciones que rigen para la concesión.
+7. La vigencia de los contratos de cesión de elementos portuarios será la establecida por las partes en dichos contratos. En todo caso, la extinción de la concesión implicará automáticamente la resolución de los contratos de cesión de elementos portuarios de la misma que se hubieran realizado.
+Se modifica el apartado 5 por el art. 64.14 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 40
+
+Artículo 40. Control administrativo.
+1. Corresponden a la administración del SistemaPortuario de Andalucía las funciones de inspección, vigilancia, policía, así como la potestad sancionadora en los puertos en régimen de concesión, en lo que afecta a la conservación y reparación de las obras e instalaciones, y también en lo que concierne a la explotación y a la prestación regular de los servicios públicos portuarios.
+2. En los términos fijados en el contrato, la personaconcesionaria deberá remitir a la Agencia una memoria en la que se especifique la actividad de explotación y de prestación de los servicios públicos portuarios, así como los resultados económicos de la gestión debidamente auditados.
+
+## CAPÍTULO IV
+
+De los servicios públicos portuarios y de las actividades comerciales o industriales
+
+## Sección 1
+
+Sección 1.ª De los servicios públicos portuarios y su régimen de prestación en los puertos de gestión directa
+
+### Artículo 41
+
+Artículo 41. Servicios públicos portuarios.
+1. Tienen la consideración de servicios públicos portuarios las actividades destinadas a garantizar y satisfacer las operaciones y necesidades de los tráficos marítimos. A tal efecto, tienen esta consideración: a) Servicios al buque.
+b) Servicio de pasajeros.
+c) Servicio de mercancías.
+d) Servicio de pesca fresca.
+e) Servicios a embarcaciones deportivas o de recreo.
+f) Uso de equipo e instalaciones.
+g) Servicio de ocupación de superficie.
+h) Servicio de suministros.
+i) Servicios operativos específicos.
+j) Servicios administrativos.
+k) Recepción de desechos generados por buques.
+2. El objeto de los servicios a los que se refiere el apartado anterior es el que aparece recogido en relación con el hecho imponible de las diferentes tasas, así como en el artículo 62 en relación con el recargo por la recepción de desechos generados por buques, reguladas en el Capítulo II del Título IV de esta ley.
+3. A los efectos de lo previsto en el apartado 1.e) del artículo 26, las tarifas o precios máximos a percibir de los usuarios a recoger en el título de otorgamiento serán exclusivamente las que tengan por objeto alguno de los servicios a que se refieren los apartados anteriores del presente artículo, y que constituyen el hecho imponible de las tasas portuarias y del recargo por la recepción de desechos generados por buques.
+Aquellas previsiones de los títulos y Reglamentos de Explotación y Tarifas de las autorizaciones y concesiones en vigor en instalaciones portuarias de competencia de la Junta de Andalucía, cualquiera que fuera la fecha de otorgamiento de las mismas, contrarias a lo dispuesto en este apartado, quedarán en el ámbito de la relación jurídico privada existente entre el concesionario y el usuario.
+Se añade el apartado 3 por la disposición final 5.1 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+
+### Artículo 42
+
+Artículo 42. Formas de prestación.
+1. La prestación de los servicios públicos portuarios podrá realizarse directamente por la Agencia o mediante gestión indirecta por cualquier procedimiento reconocido en la legislación vigente de contratos, siempre que no implique ejercicio de autoridad y el prestador del servicio hubiese obtenido el correspondiente título habilitante que le faculte para ello.
+2. En los supuestos en que la gestión indirecta del servicio precise del otorgamiento de concesión o autorización de ocupación del dominio público portuario, ambas relaciones, gestión del servicio y de la ocupacion del dominio público, serán objeto de expediente único y su eficacia quedará vinculada recíprocamente.
+3. En los supuestos en que los servicios públicos portuarios se presten en régimen de gestión indirecta, la Agencia aprobará las tarifas máximas a abonar por las personas usuarias.
+4. La Agencia podrá celebrar convenios con otras Administraciones Públicas para la gestión y prestación de los servicios públicos portuarios, que continuarán siendo de su titularidad.
+
+### Artículo 43
+
+Artículo 43. Régimen de los servicios públicos portuarios.
+1. La Agencia elaborará las prescripciones particulares de cada servicio, que deberán ajustarse al Reglamento que corresponda y podrán aprobarse para diferentes zonas del puerto, para toda su zona de servicio o para más de un puerto. La Agencia podrá modificar las prescripciones particulares del servicio cuando existan desajustes entre las características de la oferta y las necesidades de la demanda que afecten a la correcta prestación del servicio. Asimismo, por vía reglamentaria, se elaborará una carta de derechos y deberes de los usuarios de los servicios portuarios conforme a la normativa vigente.
+2. Los servicios a embarcaciones deportivas o de recreo se prestarán a través de los contratos de atraque regulados en el artículo 56 de la presente Ley.
+Los contratos de atraque que se suscriban identificarán su sujeto y objeto. La transmisión de la embarcación, objeto del mismo, no conllevará la subrogación en la titularidad del contrato. Dicha embarcación no podrá sustituirse por otra, salvo autorización expresa por la Administración en aquellos supuestos en que la persona titular del contrato acredite que la nueva embarcación es de su titularidad y aquella sea susceptible de uso en la categoría de atraque asignado.
+3. La prestación de servicios específicos, en días festivos o fuera de la jornada ordinaria en los laborables, quedará supeditada a la posibilidad y oportunidad de su realización por la Agencia.
+El servicio a embarcaciones de medidas especiales, considerando tales aquellas cuya relación eslora/manga sea inferior a 1,75 o superior a 4, o arqueo bruto/eslora sea superior a 3, quedará condicionado a la previa autorización al respecto de la Administración, que resolverá en función de la capacidad operativa de la instalación portuaria.
+En estos casos, deberá calcularse la cuota según los criterios legalmente definidos, pudiendo denegarse la prestación si la persona usuaria no formaliza previamente su conformidad al respecto.
+Se modifica por el art. único.2 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## Sección 2
+
+Sección 2.ª De las actividades comerciales o industriales
+
+### Artículo 44
+
+Artículo 44. Licencia de actividad.
+1. La habilitación para la prestación de actividades comerciales o industriales en el espacio portuario, cuando no requiera título de ocupación, estará sujeta a la presentación de una declaración responsable previa suscrita por el interesado según modelo aprobado por la Agencia en el que manifestará, bajo su responsabilidad, que cumple con la normativa vigente para obtener el reconocimiento del derecho para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Agencia cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante su ejercicio.
+2. Cuando las actuaciones del apartado anterior requieran de alguna autorización o informe administrativo previo para el ejercicio del derecho conforme a la normativa sectorial de aplicación no podrá presentarse la declaración responsable sin que la misma se acompañe de los mismos o, en su caso, del certificado administrativo del silencio producido.
+3. La declaración responsable faculta para llevar a cabo las actuaciones previstas en el apartado 1 desde el día de su presentación, siempre que vaya acompañada de la documentación requerida en cada caso, y sin perjuicio de las facultades de comprobación, control e inspección posterior que correspondan por la Agencia.
+4. De conformidad con lo previsto en la legislación básica de procedimiento administrativo común por resolución del órgano competente se declarará la imposibilidad de continuar la actuación solicitada, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar, desde el momento en que se tenga constancia de alguna de las siguientes circunstancias:
+a) La inexactitud, falsedad u omisión de carácter esencial en cualquier dato, manifestación o documento que se acompañe o incorpore a la declaración responsable.
+b) La no presentación de la documentación requerida, en su caso, para acreditar el cumplimento de lo declarado.
+c) La inobservancia de los requisitos impuestos por la normativa aplicable.
+d) El incumplimiento de los requisitos necesarios para la actuación.
+Se modifica por el art. 64.15 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+## Sección 3
+
+Sección 3.ª Puertos de gestión indirecta
+
+### Artículo 45
+
+Artículo 45. Título de concesión.
+En los puertos de gestión indirecta, la prestación de los servicios públicos portuarios a la que se refiere el artículo 42 y la de las actividades comerciales o industriales a la que se refiere el artículo 44 deberá estar habilitada en las prescripciones del título concesional y sus instrumentos de desarrollo.
+
+## CAPÍTULO V
+
+Registro de Usos del Dominio Público Portuario
+
+### Artículo 46
+
+Artículo 46. Creación, contenido y funcionamiento.
+1. Se crea el Registro de Usos del Dominio PúblicoPortuario, en el que deberán inscribirse las concesiones administrativas tanto demaniales como de obras públicas portuarias otorgadas por la administración del Sistema Portuario de Andalucía, las modificaciones autorizadas que se produzcan en su titularidad o en sus características, así como las cesiones autorizadas de elementos portuarios.
+2. Serán objeto de inscripción igualmente las autorizaciones administrativas, con el régimen de exenciones a que alude el artículo 23.
+3. La llevanza del Registro de Usos corresponde a laAgencia, y su organización y normas de funcionamiento se desarrollarán reglamentariamente.
+4. El Registro de Usos del Dominio Público Portuarioes un registro administrativo de carácter público, pudiendo solicitarse a la Agencia las oportunas certificaciones sobre su contenido.
+
+## TÍTULO IV
+
+De las tasas portuarias
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 47
+
+Artículo 47. Concepto, objeto y régimen jurídico.
+1. Las tasas portuarias son tributos propios de laComunidad Autónoma de Andalucía que son exigidas por la prestación de servicios públicos, por la ocupación privativa o aprovechamiento especial del dominio público portuario y por el otorgamiento de licencias de actividad en el ámbito de los puertos.
+Estas tasas se han de entender sin perjuicio de la exigibilidad de otros tributos que correspondan a la Administración General del Estado, Entidades locales u otras entidades públicas.
+2. Las tasas portuarias se regirán por lo establecidoen la presente ley; por la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; por la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía; por la Ley 58/2003, de 17 de diciembre, General Tributaria, y por la normativa que resulte de aplicación.
+3. Atendiendo a las circunstancias socioeconómicas del sector pesquero y del de transportes, de conformidad con lo previsto en el artículo 6 de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, las tasas por servicios T1, T2, T3 y T4 establecidas en el Capítulo II de este Título tienen la condición de reguladoras, determinándose sus respectivas cuantías en valor inferior al coste del servicio.
+
+### Artículo 48
+
+Artículo 48. Competencias de gestión, recaudación, inspección y revisión.
+1. Los ingresos procedentes de las tasas constituyen recursos económicos de la Agencia, estando afectados al desarrollo y cumplimiento de su objeto.
+2. Corresponde a la Agencia la gestión, liquidación yrecaudación en periodo voluntario de las tasas portuarias.
+3. La inspección tributaria y la recaudación en periodo ejecutivo corresponde a la Consejería competente en materia de tributos.
+4. Los actos de aplicación de las tasas portuarias y los de imposición de sanciones tributarias podrán ser objeto de reclamación ante los órganos económicos administrativos de la Comunidad Autónoma de Andalucía, sin perjuicio del potestativo recurso de reposición ante el órgano que dictó el acto objeto del recurso.
+
+### Artículo 49
+
+Artículo 49. Determinación y pago de la deuda tributaria.
+1. El procedimiento para la liquidación y pago de las deudas tributarias derivadas de la aplicación de las tasas portuarias reguladas en esta Ley será el de declaración tributaria y liquidación administrativa, según se determina en el Capítulo II del presente Título, sin perjuicio de las especialidades que se establecen en el artículo 65 bis para la determinación de las tasas por ocupación privativa y aprovechamiento especial.
+2. El procedimiento de liquidación de las tasas por prestación de servicios portuarios se iniciará mediante la presentación de una declaración por el obligado tributario, conforme a los modelos que al efecto apruebe la Consejería competente en materia de hacienda, conjuntamente con la Consejería competente en materia de puertos, en la que manifieste la realización del hecho imponible y comunique los datos necesarios para realizar la gestión tributaria. A falta de presentación de la declaración, la liquidación se realizará de oficio.
+Todo ello, salvo lo dispuesto con carácter específico para cada tasa en esta Ley o en las normas de desarrollo de la misma.
+3. A efectos de la aplicación de las bonificaciones previstas en esta Ley, se considera temporada baja el periodo comprendido entre los meses de octubre y mayo, ambos inclusive.
+Este periodo podrá ser modificado por Orden de la Consejería competente en materia de puertos.
+Se modifica por el art. único.3 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 49 bis
+
+Artículo 49 bis. Reglas generales de determinación de la cuota tributaria.
+1. Al objeto de fomentar la rentabilidad, eficacia y calidad de los servicios en las instalaciones del sistema portuario autonómico, y de optimizar la ocupación de los espacios destinados a dichos servicios, la Consejería competente en materia de puertos podrá proponer para determinados puertos la aprobación de un coeficiente corrector, hasta un valor máximo de 1,30, a las tasas al buque (T1), al pasaje (T2), a las mercancías (T3), a embarcaciones deportivas y de recreo (T5) y por ocupación privativa o aprovechamiento especial cuando la concesión o autorización se otorgue para la ocupación y el ejercicio de actividades en locales comerciales o rampas de varada.
+2. La diferencia entre los índices de cada tasa al buque, al pasaje y a las mercancías no podrá exceder de 0,30.
+3. La determinación del coeficiente corrector aplicable a la tasa a embarcaciones deportivas y de recreo (T5) deberá tener en cuenta:
+a) Las distintas modalidades de estancia de embarcaciones existentes: contratos de base ordinarios, contratos de base de larga duración, contratos de base especial y en tránsito.
+b) El tipo de instalación náutico-deportiva, dependiendo de si su gestión es directa por parte de la agencia, o indirecta, a través de un tercero habilitado.
+c) Los grupos de esloras de las embarcaciones.
+4. La propuesta de aprobación de dichos coeficientes correctores habrá de quedar condicionada a los requisitos de obtención de objetivos concretos de rentabilidad y a la observancia de los principios de fomento de la competitividad en el área de influencia económica, autosuficiencia de la administración portuaria, prohibición de prácticas de competencia desleal, eficacia y calidad de los servicios.
+5. La aprobación de dichos coeficientes se llevará a cabo mediante su determinación anual en la Ley del Presupuesto o en la que, en su caso, se apruebe a estos efectos.
+Se modifica por la disposición final 3.1 de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+ Se modifica el apartado 1 por el art. único.4 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifica el apartado 1 por la disposición final 9.1 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+ Se añade por la disposición final 4.1 de la Ley 12/2010, de 27 de diciembre. Ref. BOE-A-2011-1436
+
+### Artículo 50
+
+Artículo 50. Actualización y revisión de tasas.
+1. El importe de las tasas será objeto de actualización anual, en proporción a la variación experimentada en el año natural anterior por el Índice Nacional General del Sistema General de Índices de Precios al Consumo de ámbito nacional, o parámetro que lo sustituya, salvo que en la Ley del Presupuesto se contemple otra determinación.
+Esta actualización anual no será de aplicación a la tasa por aprovechamiento especial del dominio público portuario, cuya cuantía se determinará para cada periodo impositivo conforme a lo previsto en el artículo 64.
+2. La cuantía de la tasa por ocupación privativa del dominio público portuario regulada por el artículo 63 podrá ser revisada cada cinco años, previo estudio analítico de los elementos de cuantificación de la cuota tributaria establecidos en dicho artículo.
+Los importes establecidos para esta tasa, ya sea al otorgamiento del título tras su modificación sustancial o como resultado de la correspondiente revisión, permanecerán vigentes durante el plazo anteriormente establecido hasta la siguiente revisión, sin perjuicio de su actualización anual conforme a lo previsto en el apartado 1.
+3. Las cuantías de las tasas por prestación de servicios serán objeto de revisión cuando así proceda, para su debida correspondencia con el coste de los mismos.
+4. Las cantidades ofertadas en los procedimientos para el otorgamiento de las concesiones, autorizaciones o licencias, cuyos pliegos prevean importes adicionales a los establecidos para las correspondientes tasas, aunque carecen de naturaleza tributaria, serán objeto de actualización anual conforme a lo establecido en el apartado 1.
+Se modifica por la disposición final 4.1 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se modifica por el art. único.5 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 51
+
+Artículo 51. Definiciones.
+A los efectos de las determinaciones del presente Título, se establecen las siguientes definiciones:
+a) Eslora máxima: La eslora máxima vendrá determinada por la longitud horizontal de una embarcación, determinada por la distancia entre el punto más saliente de la proa y la popa.
+b) Manga máxima: La manga máxima vendrá determinada por la anchura horizontal de una embarcación, determinada por la distancia entre el punto más saliente de estribor y babor.
+c) Vela ligera: Embarcación de vela sin elemento de propulsión mecánica y con una eslora inferior a seis metros. Se entenderá además, por asimilación, cualquier artefacto flotante sin propulsión mecánica y eslora inferior a seis metros.
+d) Embarcaciones de base: Embarcaciones deportivas y de recreo que mantengan un contrato de estancia de al menos un año, y las embarcaciones de otra tipología inscritas en el correspondiente registro de embarcaciones de base.
+e) Marina seca: Edificio o explanada cubierta y acotada, ubicados en la zona de servicio del puerto, con acceso controlado, donde se depositan las embarcaciones para su permanencia en seco.
+f) Arqueo Bruto (GT): Es la medida del volumen del buque, cuyo valor figura en el Certificado Internacional extendido de acuerdo con el Convenio Internacional sobre Arqueo de Buques, firmado en Londres el 23 de junio de 1969, ratificado por España mediante publicación en el Boletín Oficial del Estado de 15 de septiembre de 1982, y, en su defecto, el que figura en el “Lloyd’s Register of Shipping”.
+En el caso de que el buque presente un certificado de su arqueo bruto medido según el procedimiento del Estado de su bandera, denominado abreviadamente TRB, o en el caso de que sea éste el que aparezca en el “Lloyd’s Register of Shipping” (en letra negrita en la versión de 1994, o la que le sustituyera), se asignará un arqueo nuevo a partir de las dimensiones básicas del buque. Esta asignación se realizará aplicando la siguiente fórmula:
+GT (Londres provisional) = 0,4 x E x M x P
+Donde: “E” representa la eslora máxima o total; “M” representa la manga máxima; y “P” representa el puntal de trazado.
+A iniciativa de la persona o entidad consignataria o armadora, o quienes las representen, podrá efectuarse un nuevo arqueo o aceptarse, previas las oportunas comprobaciones, los certificados oficiales de arqueo presentados que contradigan las cifras que figuran en los documentos a que se refieren los párrafos anteriores, por modificaciones introducidas en el barco.
+En cualquier caso, se girará una liquidación para el pago de las tasas basada en el arqueo que figure en los documentos a los que se refiere el párrafo primero, sin perjuicio de los ajustes que, en su caso, procedan.
+g) Puntal: Dimensión vertical que se medirá en crujía, desde la parte inferior de la cubierta de arqueo a la parte superior del doble fondo o varengas según sea el caso.
+h) Calado máximo del buque: Es el calado de trazado definido según la regla 4.2 del Reglamento para la determinación de los arqueos bruto y neto de los buques, que figura como anexo I del Convenio internacional sobre Arqueo de Buques de 23 de junio de 1969 y, en su defecto, el que figura en el “Lloyd’s Register of Shipping”.
+i) Tipos de navegación:
+– Navegación Interior: la que transcurre íntegramente dentro del ámbito de un determinado puerto (tráfico interior), de otras aguas interiores españolas, así como en aguas interiores mareales fronterizas. Igualmente, se entenderá como navegación interior, los tráficos de pasajeros y pasajeras entre puertos de la Comunidad Autónoma de Andalucía.
+– Navegación de Cabotaje: Es la que no siendo navegación interior, según la definición anterior, se efectúa entre puertos o puntos situados en zonas en las que España ejerce soberanía, derechos soberanos o jurisdicción.
+– Navegación Exterior: Es la que se efectúa desde puertos o puntos situados en zonas en las que España ejerce soberanía, derechos soberanos o jurisdicción hacia puertos o puntos situados fuera de dicha zona.
+j) Transbordo: Se entenderá por transbordo la operación por la cual se trasladan las mercancías de un barco a otro, sin detenerse en los muelles y con presencia simultánea de ambos barcos durante la operación.
+k) Línea regular: Servicios regulares de transporte marítimo de mercancías y/o personas en una o varias rutas específicas, entre distintos puertos y con arreglo a horarios y fechas de viaje previamente anunciados, a los que pueda acceder, a título oneroso, incluso de forma ocasional, toda persona usuaria de transporte.
+l) Operaciones en varadero:
+– Varada: Se entiende por servicio de varada las operaciones necesarias para que la embarcación quede apoyada firmemente y en condiciones de seguridad sobre una superficie terrestre o, en determinadas condiciones sobre una superficie terrestre inundable o elemento auxiliar flotante sumergible.
+– Botadura: Se entiende por servicio de botadura las operaciones necesarias para permitir que la embarcación abandone la superficie donde se encontraba apoyada para dejar la embarcación a flote sobre las aguas.
+– Suspensión de embarcación: Se entiende por suspensión de embarcación las operaciones necesarias para el sustento de la embarcación sin apoyo en superficie terrestre por tiempo inferior a una hora, con la finalidad de realizar labores de comprobación de su estado o inspección.
+m) Lista de espera: Documento en el que se integran las solicitudes de contrato ordinario de base en relación a los atraques gestionados directamente por la administración portuaria y cuyas normas operativas se ajustan al sistema, aprobado por la Agencia, bajo los principios de publicidad, concurrencia, servicio público e interés general, requiriéndose, para la inscripción en la misma, la constitución de una fianza que será devuelta a la formalización del contrato.
+Los contratos de base de larga duración tendrán un régimen de adjudicación específico y distinto al de la lista de espera de contrato de base ordinario, acorde a las determinaciones de la presente Ley, y a las determinaciones de las bases de la licitación, quedando, en todo caso, sujetos a idénticos principios de publicidad, concurrencia, servicio público e interés general.
+n) Contratos de atraque: Son aquellos cuyo objeto consiste en la prestación del servicio de estancia de embarcaciones amarradas a puntos de dimensiones preestablecidas con derecho de uso preferente y no exclusivo del atraque, conforme al artículo 16.4 de esta Ley.
+Se modifica por el art. único.6 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## CAPÍTULO II
+
+Tasas por la prestación de los servicios públicos portuarios
+
+## Sección 1
+
+Sección 1.ª Régimen jurídico de las tasas
+
+### Artículo 52
+
+Artículo 52. T1: Tasa al buque.
+I. Hecho imponible.
+Constituye el hecho imponible la entrada de las embarcaciones y demás artefactos navegables en las aguas del puerto, con aprovechamiento de accesos, balizamiento, obras de abrigo o zonas de fondeo y otras instalaciones.
+Está asimismo sujeta la permanencia de la embarcación en las instalaciones portuarias con derecho al uso de las instalaciones destinadas al atraque, amarre o fondeo.
+II. Devengo.
+La tasa se entenderá devengada cuando el buque haya entrado en las instalaciones portuarias y se produzca el atraque, amarre o fondeo.
+III. Exenciones.
+Están exentos del pago de la tasa:
+1. Los buques militares nacionales, comunitarios y extranjeros, a título de reciprocidad, que no realicen operaciones comerciales, cuando su visita tenga carácter oficial o de forzosa arribada.
+2. Las embarcaciones de los servicios marítimos de las fuerzas de Seguridad del Estado y Protección Civil, así como aquellas destinadas a la vigilancia fiscal.
+3. Las embarcaciones de la Cruz Roja Española, asícomo el material destinado al servicio de Búsqueda y Salvamento, y demás embarcaciones sanitarias.
+4. Las embarcaciones, material y utillaje titularidad de la Junta de Andalucía, necesarios para el ejercicio de sus competencias.
+5. Las embarcaciones pesqueras en inactividad forzosa por temporales, parada biológica o vedas costeras, certificada por la Consejería competente en materia de pesca, durante el período en que concurra tal circunstancia. Igualmente, las embarcaciones pesqueras en inactividad a la espera de desguace, por el plazo determinado en la autorización emitida por el Ministerio competente en materia de Fomento con un máximo de seis meses.
+Vencido tal plazo sin que se hubiera materializado íntegramente el desguace y retirada de materiales del dominio público portuario, la exención quedará sin efecto, liquidándose el servicio prestado durante toda la estancia.
+Si por causa no imputable a la persona armadora se demorase el desguace, la Administración podrá atender solicitudes de prórroga del periodo exencionable, hasta un máximo de dos meses adicionales al plazo determinado en la autorización del referido Ministerio.
+6. Las embarcaciones efectivamente gravadas por latasa de embarcaciones deportivas y de recreo, T5.
+7. Las embarcaciones pesqueras en activo, sujetas a la tasa de pesca fresca, que únicamente tributarán por esta última.
+IV. Obligados tributarios.
+1. Serán sujetos pasivos, a título de contribuyentes y solidariamente, los navieros y armadores de los buques.
+2. Serán sujetos pasivos, en calidad de sustitutos, los consignatarios, así como, si el buque no estuviere consignado, el capitán o patrón.
+3. En caso de incumplimiento de sus obligaciones por parte de los sustitutos, en especial en caso de impago de la tasa, la Agencia podrá exigir a los contribuyentes su cumplimiento.
+V. Elementos de cuantificación.
+La cuantía de esta tasa se determinará teniendo en cuenta el arqueo bruto (GT) de la embarcación y el tiempo de permanencia. Asimismo, se tendrá en cuenta la eslora máxima de la embarcación, en relación con la exigencia de profundidad de las aguas.
+VI. Cuota. Normas de aplicación.
+1. La cuota de esta tasa será la siguiente:
+ENTRADA Y ESTANCIA
+ Euros por metro lineal de eslora o fracción y día o fracción, en función del calado
+ Calado mayor de 12 metros
+ 5,986869 € /m.l./día
+ Calado mayor de 8 metros y hasta 12 metros
+ 3,658642 € /m.l./día
+ Calado igual o mayor de 6 metros y hasta 8 metros
+ 2,439094 € /m.l./día
+ Calado menor de 6 metros
+ 1,552151 € /m.l./día
+Con carácter adicional, se devengarán 0,166302 euros por cada unidad de arqueo bruto (GT) y día o fracción de estancia, que se modulará mediante la aplicación de un coeficiente de 1,25 en las primeras 24 horas de estancia o atraque.
+El calado de referencia, a los efectos de determinación de la cuota, será el del muelle en el que se encuentre atracada la embarcación.
+Para las embarcaciones fondeadas, se concretará por el calado medio del puerto, siempre que existan estudios batimétricos que lo soporten. En caso contrario se liquidará por el menor calado existente en la anterior tabla de cuotas.
+2. La cuota calculada conforme a lo dispuesto en el apartado anterior se modulará, reduciéndose o incrementándose, de acuerdo con los siguientes criterios:
+a) En atención al interés de la modalidad de tráfico portuario y número de escalas comprometidas por el armador dentro del período anual, se bonificará en los siguientes porcentajes:
+Líneas regulares
+ Líneas no regulares
+ Entrada 48.ª a 96.ª
+ 10 %
+ 15 %
+ " 97.ª a 144.ª
+ 20 %
+ 30 %
+ " 145.ª a 192.ª
+ 30 %
+ 45 %
+ " 193.ª a 240.ª
+ 45 %
+ 60 %
+ De 241.ª a siguientes.
+ 55 %
+ 70 %
+Estas bonificaciones se aplicarán en función del plan anual de entradas autorizado por la Administración. En caso de que el número de entradas anuales reales difiera del establecido en el plan anual se realizará una liquidación complementaria en la que se regularizará la bonificación practicada.
+A efectos del cómputo de entradas, se sumarán todas las realizadas por los barcos de la misma compañía, aplicándose dichos porcentajes sobre el total resultante.
+b) En atención al tipo de atraque: Buques abarloados a otros ya atracados: el 50 % de la cuota resultante.
+– Buques atracados de punta a los muelles: el 60 % de la cuota resultante.
+– En supuestos de embarcaciones fondeadas: el 50 % de la cuota resultante.
+3. En los supuestos de buques pesqueros, incluidos los dedicados a la acuicultura marina, o mercantes que se encuentren inactivos o en reparación a flote, se bonificará la cuota con los siguientes porcentajes:
+a) A aquellas embarcaciones pesqueras en inactividad respecto a las que sus titulares acrediten haber solicitado y estar a la espera de autorización por el Ministerio de Fomento para su desguace, se le aplicará una bonificación del 75 por ciento, computada desde la fecha de presentación de dicho documento de solicitud en el registro de la Administración.
+b) Para el resto de embarcaciones en inactividad forzosa, así como cualquier embarcación en situación de reparación a flote, previa acreditación documental de tal circunstancia ante la Administración, se aplicará una bonificación del 25 por ciento, con un periodo máximo de bonificación de sesenta días anuales.
+De no materializarse el desguace o realizarse la reparación se perderá íntegramente el derecho de bonificación.
+4. Para los buques de tráfico interior, tráfico de pasajeros y remolcadores, con base en el puerto, se aplicará una bonificación del 50 por ciento, previa autorización de la actividad por la Administración.
+Para las dragas, aljibes, gánguiles, gabarras y artefactos análogos, con base en el puerto, autorizados por la Administración, la bonificación será del 30 por ciento.
+5. En el caso de operaciones programadas que incluyan más de una entrada diaria, tales operaciones se computarán como una sola entrada diaria a efectos de liquidación de la tarifa.
+Las liquidaciones se realizarán, en los supuestos de operaciones programadas, con la periodicidad que se detalle en la autorización dada por la Administración, sin que en ningún caso en el cálculo de la cuota se exceda del cómputo anual.
+En ausencia de autorización de operaciones programadas, la liquidación y pago habrá de realizarse en base a la declaración del obligado tributario, y a falta de presentación de la misma, se realizará la liquidación de oficio.
+6. Las embarcaciones que, no estando exentas de acuerdo con el apartado III.7 de este artículo, estén efectivamente gravadas por la tasa a la pesca fresca T4, podrán deducir de la cuota de la presente tasa una cantidad máxima equivalente a la satisfecha en el año precedente por el referido concepto de pesca fresca, sin que en ningún supuesto tal deducción de derecho a devolución.
+VII. Gestión.
+La tasa, en su aplicación al sector pesquero, será objeto de liquidaciones anuales por la Agencia, al objeto de la debida aplicación de las deducciones de la tasa T4, pesca fresca.
+Se modifican los apartados III.5 y VI por el art. único.7 y 8 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifican los apartados III.7 y VI.4 por la disposición final 9.2 y 3 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Artículo 53
+
+Artículo 53. T2: Tasa al pasaje.
+I. Hecho imponible.
+Constituye el hecho imponible la realización de operaciones de embarque, desembarque o tránsito de pasajeros por medios marítimos. Asimismo, estarán sujetas las operaciones de embarque o desembarque de vehículos y remolques en régimen de pasaje.
+II. Devengo.
+La tasa se devengará en el momento de iniciarse las operaciones de embarque, desembarque o tránsito.
+III. Exenciones.
+Estarán exentas del pago de la tasa:
+1. Las operaciones descritas en el hecho imponiblecuando tengan por objeto el tránsito de tropas o de personal sanitario en el ejercicio de sus funciones.
+2. La segunda y ulteriores realizaciones del hechoimponible de la tasa, durante la misma escala, por los pasajeros en tránsito.
+3. Las operaciones descritas en el hecho imponiblecuando se realicen por las tripulaciones de las embarcaciones sometidas a la tasa de embarcaciones deportivas y de recreo, T5, así como por las personas que en ellas se embarquen, sin contraprestación económica, en la medida en que sus embarcaciones estén simultánea y efectivamente sujetas a esta tasa.
+IV. Obligados tributarios.
+1. Serán sujetos pasivos, a título de contribuyentes y solidariamente, los navieros y armadores de los buques.
+2. Serán sujetos pasivos, en calidad de sustitutos, losconsignatarios, así como, si el buque no estuviere consignado, el capitán o patrón.
+3. En caso de incumplimiento de sus obligaciones porparte de los sustitutos, en especial en caso de impago de la tasa, la Agencia podrá exigir a los contribuyentes su cumplimiento.
+V. Elementos de cuantificación.
+1. Los elementos de cuantificación de esta tasa se determinarán en atención al número de pasajeros, vehículos, remolques y clase de navegación. En el supuesto de vehículos, se atenderá, además, al tipo de vehículo.
+2. Cuando no se disponga de medios para la determinación del número de pasajeros o vehículos, se aplicarán valores medios de ocupación, en función de la capacidad de plazas disponibles de la embarcación, según la temporada anual, conforme a lo siguiente:
+Julio-Agosto
+ Resto año
+ 80 %
+ 50 %
+VI. Cuotas. Normas de aplicación.
+1. La presente tasa se exigirá conforme a lo dispuesto en los siguientes cuadros de tarifas:
+Euros por pasajero embarcado, desembarcado o en tránsito
+Navegación Interior
+ Navegación Cabotaje
+ Navegación Exterior
+ 0,066521
+ 1,097593
+ 4,268416
+Vehículos en régimen de pasaje
+Euros por vehículo embarcado o desembarcado
+Nav. Interior € /Veh.
+ Nav. Cabotaje € /Veh.
+ Nav. Exterior € /Veh.
+ Bloque A
+ 0,04213
+ 1,844843
+ 2,792763
+ Bloque B
+ 0,08426
+ 5,452485
+ 8,388268
+ Bloque C
+ 0,169628
+ 25,163694
+ 37,746096
+A los efectos de la aplicación de las tarifas de vehículos de la tabla anterior se atenderá a los siguientes criterios:
+Bloque A: Motocicletas.
+Bloque B: Automóviles.
+Bloque C: Autocares, camiones y demás vehículos destinados al transporte colectivo.
+Los remolques devengarán la tasa en cuantía adicional, idéntica a la del vehículo tractor.
+2. Por semanas vencidas y dentro de la inmediatamente siguiente, los sujetos pasivos presentarán ante la Administración, en el modelo normalizado aprobado por la Consejería competente en materia de hacienda, conjuntamente con la Consejería competente en materia de puertos, información detallada del embarque y desembarque de pasaje, vehículos y/o remolques y clase de navegación.
+En base a dicha información se realizarán las correspondientes liquidaciones, con carácter mensual.
+Los datos declarados en dichos documentos estarán sujetos a la comprobación por la Administración.
+3. En los supuestos de navegación entre puertos de gestión directa, se abonará la tarifa solo al embarque en el primer puerto de cada pasajero.
+4. Serán de aplicación las siguientes bonificaciones:
+a) Para el tráfico portuario de pasajeros y pasajeras, se aplicarán los siguientes porcentajes de bonificación, en función del volumen mínimo de tráfico comprometido durante el año natural:
+Pasajeros/as
+ % bonificación
+ Hasta 30.000
+ 5 %
+ De 30.001 a 50.000
+ 10 %
+ De 50.001 a 70.000
+ 25 %
+ Desde 70.001
+ 40 %
+b) La misma regla se aplicará para el tráfico de vehículos con los siguientes porcentajes:
+Vehículos
+ % bonificación
+ De 11 a 30
+ 5 %
+ De 31 a 50
+ 10 %
+ De 51 a 100
+ 25 %
+ De 101 en adelante
+ 40 %
+Las compañías armadoras que realicen operaciones programadas deberán presentar a efectos de cómputo de tales operaciones para la liquidación de la tarifa un plan anual de entradas, al inicio de la actividad, y de cada anualidad, ajustándose en la primera liquidación de cada nuevo ejercicio la liquidación de la anualidad precedente, en función de las entradas efectivas de pasajeros y pasajeras y/o vehículos, y la bonificación que de ello resulte.
+Se modifica los apartados V.2 y VI por el art. único.10 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 54
+
+Artículo 54. T3: Tasa a las mercancías.
+I. Hecho imponible.
+Constituye el hecho imponible la realización de operaciones de carga, descarga, transporte o transbordo de mercancías, por medios marítimos o terrestres, dentro de las instalaciones portuarias, con utilización de las aguas del puerto y dársenas, accesos terrestres, vías de circulación, zonas de manipulación, estaciones marítimas o cualesquiera otros servicios generales.
+II. Devengo.
+La tasa se devengará en el momento de iniciarse las operaciones de carga, descarga, transbordo o transporte.
+III. Exenciones.
+Están exentas las operaciones descritas en el hecho imponible cuando tengan por objeto:
+1. Material de guerra y efectos con destino a buques de guerra y aeronave, así como el material sanitario y demás mercancías con destino a programas de ayuda y cooperación internacional.
+2. Suministros de víveres para consumo a bordo, así como el equipaje personal de pasajeros y tripulaciones.
+3. Suministro de agua, hielo y combustible realizadodesde instalaciones fijas del puerto destinadas a este fin, o desde camiones cisternas.
+4. Los productos frescos de la pesca en cuanto gravadas efectivamente con la tasa a la pesca fresca, T4.
+5. Las mercancías cuyo origen o destino sean paísesmiembros de la Unión Europea y su entrada en el espacio portuario tenga como objeto la tramitación de documentos de control aduanero, siempre que no se produzcan rupturas de cargas, descarga a tierra, ni estancias en el espacio aduanero superiores a la necesaria para la efectiva cumplimentación documental.
+IV. Obligados tributarios.
+1. Serán sujetos pasivos, a título de contribuyentes y solidariamente, los navieros y armadores de las embarcaciones que realicen las operaciones de embarque, desembarque o transbordo de mercancías, así como, en los supuestos de utilización de medios exclusivamente terrestres, el titular de la mercancía y el de la instalación en que se realice la operación.
+2. Serán sujetos pasivos, en calidad de sustitutos, los consignatarios de la mercancía o el buque. Asimismo, si el buque no estuviere consignado, el capitán o patrón, así como el transitario u operador logístico que representen a la mercancía.
+3. En caso de incumplimiento de sus obligaciones por parte de los sustitutos, en especial en caso de impago de la tasa, la Agencia podrá exigir a los contribuyentes su cumplimiento.
+V. Elementos de cuantificación.
+Los elementos de cuantificación de esta tasa se determinarán teniendo en cuenta el peso de la mercancía, ponderado en atención a su clasificación en uno de los cinco grupos que reglamentariamente se determinen en función del valor de las mercancías y coste, en su caso, del servicio a prestar, identificándose las mismas de acuerdo con los códigos asignados en la clasificación de mercancías recogida en la normativa comunitaria.
+En caso de tráfico en contenedores normalizados, la base del cálculo del importe de la tasa se determinará por unidad de contenedor.
+VI. Cuota. Normas de aplicación
+1. La cuota de la tasa será la siguiente:
+Mercancías
+Grupo
+ Euros por tonelada métrica o fracción
+ Primero
+ 1,223839
+ Segundo
+ 1,746366
+ Tercero
+ 2,622516
+ Cuarto
+ 3,843392
+ Quinto
+ 5,242066
+Unidad de contenedor
+Grupo
+ Euros por tonelada métrica o fracción
+ Vacío
+ 3,326038 euros la unidad
+ Con carga
+ 33,260381 euros la unidad
+Los grupos en los que se clasificarán las mercancías serán los establecidos en el Anexo de esta Ley.
+2. A las mercancías embarcadas, en razón del volumen total de toneladas embarcadas en cada escala, se aplicarán los siguientes porcentajes de bonificaciones:
+De 1.000 a 1.500 toneladas
+ 15%
+ De 1.501 a 2.000 toneladas
+ 25%
+ De 2.001 a 2.500 toneladas
+ 30%
+ De 2.501 a 3.000 toneladas
+ 35%
+ Superiores a 3.000 toneladas
+ 40%
+3. Con objeto de potenciar el tráfico de mercancías y por el interés de tales tipos de tráfico, se aplicarán bonificaciones de hasta el 40 por ciento para las mercancías de los grupos primero, segundo y tercero, que se determinarán conforme a los siguientes criterios:
+a) El porcentaje mínimo de bonificación será del 10 por ciento, salvo para las siguientes mercancías a las que se vincula los porcentajes mínimos que se relacionan:
+Códigos
+ Bonificación
+ Descripción
+ 2505
+ 25%
+ Arenas naturales.
+ 2520
+ 25%
+ Yeso natural.
+ 2515
+ 15%
+ Mármoles y demás piedras calizas de talla o troceados.
+ 2511
+ 15%
+ Sulfato o carbonato de bario natural.
+b) La determinación del porcentaje adicional de bonificación, hasta el máximo del 40 por ciento, se concretará atendiendo a la evolución de los objetivos concretos de rentabilidad de la Agencia, fijados en el Plan de Actuación, Inversión y Financiación, así como en función del interés de incentivar la carga de determinadas mercancías no habituales en el puerto, con la finalidad de conseguir la autosuficiencia financiera de la Agencia, y todo ello con observancia de los principios de fomento de la competitividad en el área de influencia económica, autosuficiencia de la administración portuaria, prohibición de prácticas de competencia desleal, eficacia y calidad de los servicios.
+Los objetivos de rentabilidad se establecerán ponderando la capacidad máxima de tráfico portuario o de almacenamiento de carga de cada instalación portuaria, en relación a la demanda anual existente en la misma.
+En todo caso, la determinación y cambio de los porcentajes de bonificación requerirá en cada supuesto de la elaboración de una memoria justificativa que detalle las circunstancias que anteceden.
+4. Para potenciar la intermodalidad, la integración de los puertos en las cadenas logísticas nacionales e internaciones y el cabotaje comunitario se aplicarán las siguientes bonificaciones, incompatibles entre sí, para los tráficos considerados sensibles para la economía local o de gran relevancia para la comunidad portuaria:
+a) A los buques que presten un servicio regular entre puertos de la Unión Europea con un 20 %.
+b) A los buques tipo ro-ro que presten un servicio regular entre puertos de la Unión Europea con el 50 %.
+Se modifica el apartado VI por el art. único.11 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 55
+
+Artículo 55. T4: Tasa a la pesca fresca.
+I. Hecho imponible.
+1. Constituye el hecho imponible la utilización de las aguas del puerto, así como de los accesos terrestres, vías de circulación y zonas de maniobras, a los solos efectos del embarque, desembarque, transbordo o entrada en la zona de servicio del puerto, de los productos de la pesca fresca, excluidas las instalaciones de comercialización, desde los buques pesqueros en actividad, los afectos a explotación de instalaciones de acuicultura marina autorizados, y por cualquier otro medio de transporte.
+2. A estos efectos, serán considerados productos de la pesca fresca los que, desde su captura, no han sido sometidos a proceso de conservación. No se considera proceso de conservación, a efectos de esta tasa, la adición de hielo o sal, o el mantenimiento en refrigeración, siempre y cuando los productos no lleguen a alcanzar un estado de congelación física y, en general, los productos que no puedan ser identificados, según la normativa propia, como congelados o ultracongelados.
+II. Devengo.
+1. La tasa se devengará en el momento de iniciarse las operaciones de embarque, desembarque o transbordo o entrada en la zona de servicio del puerto de los productos de la pesca.
+2. A efectos de determinación del peso de la pesca, será obligación del armador someter la misma al control de la Agencia, en la forma y condiciones que esta establezca.
+3. En el caso de pesca que no pase por lonja, para la liquidación de esta tasa deberá presentarse por el sujeto pasivo, antes de empezar la descarga, carga o trasbordo, una declaración o manifiesto de pesca, indicando el peso de cada una de las especies con arreglo al formato establecido al respecto.
+III. Obligados tributarios.
+1. Será sujeto pasivo, a título de contribuyente:
+a) El armador cuando la pesca acceda a puerto desde buques pesqueros.
+b) El naviero y el propietario de la pesca, cuando lo haga desde buques mercantes.
+c) El transportista o propietario cuando lo haga por tierra.
+2. Serán sujetos pasivos, a título de sustitutos, quienes en representación de los contribuyentes realicen la primera venta, quedando sujetos al deber de repercutir el importe de la tasa en el precio de remate de la subasta de la pesca fresca a los compradores, quienes quedarán sometidos al deber de soportar la repercusión de aquel. El importe repercutido se hará constar de forma expresa y separada en la correspondiente factura.
+3. Mensualmente, los sustitutos deberán declarar lasoperaciones realizadas a fin de que la Agencia realice la liquidación del importe de las tasas repercutidas. A la declaración tributaria mensual deberá adjuntarse la relación de facturas expedidas a los compradores. Anualmente se realizará la entrega, en soporte informático facilitado por la Agencia, del resumen anual de operaciones por quienes realicen las primeras ventas, con el deber de repercutir el importe de la tasa a la pesca fresca.
+4. Serán responsables tributarios solidarios los titulares del servicio de las lonjas. A fin de verificar el proceso de liquidación se podrá requerir a estos para que aporten la documentación que obre en su poder en relación con las operaciones de las subastas realizadas en las diferentes lonjas.
+5. En los supuestos de descarga de pesca fresca en una instalación portuaria distinta de aquella en que se va a proceder a su subasta, los sujetos pasivos contribuyentes asumirán los deberes tributarios de declaración tributaria, a fin de que se verifique la correspondiente liquidación por parte de la Agencia. Cuando esa pesca sea objeto de subasta en la lonja correspondiente, se procederá mediante el mismo procedimiento que se fija en el punto 2 de este apartado.
+6. En cualquiera de los supuestos en que la pesca fresca no sea objeto de subasta en la lonja o esta no se remate por cualquier causa, el importe de la tasa se repercutirá en la factura que se extienda por el vendedor y se procederá de acuerdo con el procedimiento descrito en los puntos 2 y 3 de este apartado. El titular del servicio de lonja tendrá el carácter de responsable solidario del pago de la tasa correspondiente, en los términos a que se refiere el apartado 4 de este precepto.
+7. En los supuestos de capturas mediante el sistema de almadrabas, los sujetos pasivos contribuyentes asumirán el deber de declaración del importe de la venta realizada, que se hará con periodicidad mensual durante la temporada de captura mediante almadraba. La Agencia podrá requerir el soporte documental de las declaraciones realizadas por lo contribuyentes, a fin de proceder a la correspondiente liquidación.
+IV. Elementos de cuantificación.
+1. El importe de la tasa se determinará atendiendo al valor obtenido en la subasta, si esta se llevare a efectos en lonja.
+2. En los supuestos en que no se llevare a cabo la subasta a que se refiere el párrafo anterior, la base será su valor de mercado determinado por referencia al valor medio obtenido en las subastas de la misma especie, o productos similares subastados en la fecha más próxima en el mismo puerto o, en su defecto, en los del entorno, correspondiendo a la Administración el establecimiento de estos valores. El sujeto pasivo cumplimentará un documento de declaración de descarga, según modelo aprobado conjuntamente por las Consejerías competentes en materia de hacienda y de puertos, en el que se establecerá tanto la especie como el peso desembarcado por cada una de las descargas.
+La Administración podrá establecer medios para el control y/o supervisión del peso de la pesca fresca declarado.
+3. En los supuestos de almadrabas, conserveros e industria de transformación en general, la tasa se podrá determinar con referencia a los precios marco establecidos en los convenios de compra, que serán el resultado de la negociación entre la persona armadora o explotadora de la almadraba, conservera o industria de transformación y la compradora que deberán ser sometidos, a efectos de liquidación de la tasa, a autorización previa y preceptiva por parte de la Administración.
+V. Cuota. Normas de aplicación.
+1. El importe de la tasa será el resultado de aplicar el tipo del 2% a la base determinada, de acuerdo con las reglas del anterior apartado IV.
+2. Al importe determinado conforme al punto anterior se aplicarán los siguientes coeficientes:
+a) En los supuestos en los que la pesca sea transbordada de buque a buque en las aguas del puerto, sin utilización de los muelles, al importe determinado de acuerdo con las reglas del punto anterior se aplicará un coeficiente del 0.75.
+b) En los supuestos en que no se produjera la ventade los productos de la pesca fresca y volvieran a ser cargados en el buque, el coeficiente a aplicar sería del 0.75.
+c) Cuando se produzca la autorización de entrada en las instalaciones portuarias de productos de pesca fresca por medios terrestres en la zona portuaria, el coeficiente a aplicar será del 0.50, siempre que se acredite la declaración de descarga que permita la posterior liquidación de la tasa a la pesca fresca, T4, o equivalente, en el puerto de desembarco de la captura, en el ámbito de la Unión Europea.
+d) En los supuestos de embarcaciones cuyo puertobase sea un puerto que no dispone de lonja, cuando se produzca la autorización de entrada en las instalaciones portuarias de productos de pesca fresca por medios terrestres en la zona portuaria, no se aplicará coeficiente, siempre que se acredite la declaración de descarga que permita la posterior liquidación de la tasa a la pesca fresca, T4 o equivalente, en el puerto de desembarco de la captura, en el ámbito de la Unión Europea, siempre que se trate de un puerto gestionado directamente por la Administración portuaria.
+Se modifica el apartado IV por el art. único.12 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 56
+
+Artículo 56. T5: Tasa a embarcaciones deportivas y de recreo.
+I. Hecho imponible.
+1. Constituye el hecho imponible la entrada de embarcaciones deportivas y de recreo en las instalaciones portuarias ubicadas en puertos de gestión directa que dé lugar a la estancia de las mismas con derecho a la utilización, en su caso, de accesos, balizamiento marítimo, obras de abrigo o zonas de fondeo, así como de todo tipo de instalaciones.
+Constituye, asimismo, el hecho imponible el atraque de embarcaciones de cualquier tipo en los puertos e instalaciones deportivas o de recreo en puertos de gestión directa.
+2. La afección de la embarcación a usos lucrativos determinará, adicionalmente, la sujeción de la actividad al régimen del artículo 64 de esta Ley, que regula la tasa por prestación de servicios al público y el desarrollo de actividades comerciales o industriales.
+II. Devengo.
+1. Se entenderá devengada la tasa con la solicitud de entrada de las embarcaciones a que se refiere el apartado anterior o, en todo caso, cuando hayan entrado en las instalaciones portuarias o se produzca el atraque, amarre o fondeo.
+2. Para las embarcaciones en tránsito, el devengo de la presente tasa, según lo establecido en el apartado anterior, determinará la obligación de pago anticipado de la misma por todo el período de prestación concertado.
+Tienen la consideración de contratos de tránsito aquellos que se celebren con duración inferior al año, sin que en ningún caso sean susceptibles de prórroga tácita.
+En caso de que la entrada de la embarcación se solicite mediante reserva previa, según las condiciones fijadas por la Agencia Pública de Puertos de Andalucía, la tasa correspondiente al periodo concertado se devengará cuando se presente la solicitud, momento en el que será exigible el pago del 30 % del importe de la tasa. El pago del 70 % restante será exigible con la entrada de la embarcación en las instalaciones portuarias por el periodo del servicio a prestar dentro del periodo concertado.
+La Agencia Pública de Puertos de Andalucía deberá definir en los planes de usos, o en su ausencia mediante resolución específica al efecto, el porcentaje de atraques afectos al servicio de tránsito, que en ningún caso será inferior al 10 por ciento.
+3. La obligación de pago en los supuestos de contratos de base, entendiendo por tales aquellos que se celebren con la Agencia con una duración al menos de un año, se realizará conforme a lo previsto para cada modalidad del mismo en este apartado, distinguiéndose, en función de la duración inicialmente prevista, entre ordinarios, suscritos por plazo de un año, de larga duración, con plazo inicial superior y especiales por plazo de dos años prorrogables:
+a) Contratos de base ordinarios: Siendo de duración anual, el primer periodo del mismo concluirá en todo caso a 31 de diciembre del año de su celebración, sometiéndose en la posibilidad de prórroga al sistema de tácita reconducción, y en consecuencia, si un mes antes del vencimiento del plazo, esto es, a 1 de diciembre, la persona usuaria o la Agencia no hubieran notificado por escrito su voluntad de dar el contrato por finalizado, se prorrogará por plazo de una anualidad desde el 1 de enero siguiente.
+No obstante, la referida prórroga tácita no será efectiva en los supuestos en que la persona usuaria no estuviera al corriente de sus obligaciones en los pagos de tasas portuarias o no hubiera acreditado ante la Agencia, cuando le sea requerido, la ausencia de modificación de las circunstancias relativas a la titularidad de la embarcación afecta al contrato y vigencia de las pólizas de seguro.
+Las personas titulares de embarcaciones con contrato de base ordinario podrán optar por efectuar el pago anual anticipado de la tasa o mediante pagos fraccionados en trimestres anticipados.
+En el caso de rescisión anticipada del contrato de base ordinario, el importe de la tasa se reducirá en función del período de permanencia desde el momento en que la Agencia haya recibido la notificación de la citada rescisión.
+b) Contratos de base de larga duración: Sin que por ello quede alterado el régimen de uso preferente y no exclusivo de la cesión de atraques, establecido en el artículo 16.4 de esta Ley, la Agencia podrá formalizar contratos de atraque de duración superior al año, y hasta un máximo de treinta, sujetos a la concurrencia de los siguientes requisitos y circunstancias:
+1.º Que se realicen para atender necesidades de financiación de la Agencia, relacionadas con la ejecución de obras públicas portuarias.
+2.º Observancia de los requisitos de objetividad, publicidad y concurrencia en la determinación de las bases de adjudicación.
+3.º Determinación de las condiciones de transmisión por parte de la persona adjudicataria, para lo que la Agencia, en la redacción de las bases, optará entre:
+– Fijar un precio máximo de transmisión a terceras personas, establecido en función del tiempo transcurrido, y mediante aplicación de la fórmula de capitalización de la tasa establecida en el apartado IV.3 de este artículo, con derecho de tanteo para la propia Agencia.
+– Garantizar al adquirente un derecho de recompra por la Agencia, una vez transcurridos tres años desde la transmisión y por un precio calculado de la misma forma que el antedicho para transmisiones a terceras personas.
+4.º Concreción de las obligaciones formales de la persona cesionaria, relacionadas con la identificación de la embarcación afecta al atraque cedido, y las comunicaciones de salidas de puerto, al objeto de atender la demanda de tránsitos. Los contratos de base de larga duración se abonarán en la forma que se determine en las bases de la convocatoria, preferentemente de forma anticipada al inicio de la prestación, excepto en el porcentaje del 20 por ciento del pago anual, referido en el apartado IV.3 del presente artículo, que se liquidará al inicio de cada ejercicio.
+c) Contratos de base especial: Aquellos que se suscriban por plazo de dos años, prorrogables bienalmente, para la prestación a una embarcación deportiva de servicios portuarios adicionales al servicio de atraque o que permitan la estancia de una embarcación deportiva en más de un puerto o ambos supuestos. El régimen de pago de estos contratos será el establecido para el contrato de base ordinario.
+4. Lo dispuesto en los números anteriores no será de aplicación en las instalaciones en régimen de concesión o autorización, en las que la persona concesionaria o autorizada, en su condición de sustituto, abonará la tasa en la forma y plazo que determine su título de concesión o autorización.
+III. Obligados tributarios.
+1. Serán sujetos pasivos, a título de contribuyentes, el titular de la embarcación y quien solicite el atraque de la embarcación, solidariamente.
+Se entenderá por titular de la embarcación la persona que así resulte según el documento oficial que corresponda expedido por la Autoridad Marítima con competencias en materia de registro de buques.
+2. Serán sujetos pasivos, a título de sustitutos, en los supuestos de explotación de alguna instalación en régimen de autorización administrativa o concesión dentro de un puerto de gestión directa, las personas autorizadas o concesionarias.
+IV. Elementos de cuantificación.
+1. El importe de la tasa se determinará en los supuestos de amarre o fondeo, atendiendo al resultado de multiplicar la eslora máxima por la manga máxima de la embarcación, y su resultado por el número de días de estancia asignados, computados a razón de una unidad por cada día o fracción.
+2. En los supuestos de atraque se realizará idéntico cálculo, con la exclusiva diferencia del cálculo de superficie con referencia al valor asignado al puesto cuyo uso, no exclusivo, se ceda.
+3. En los contratos de base de larga duración, la cuantía de pago anticipado, se determinará mediante la siguiente formula de capitalización:
+Siendo:
+– T5, el valor de dicha tasa en el año en el que se realice el contrato,
+– a, la tasa de actualización prevista para dicha tasa en las Leyes del Presupuesto de la Comunidad Autónoma de Andalucía,
+– n el número de años de servicios contratados,
+– r, el rendimiento o tipo de interés utilizado para el descuento.
+Este valor de r se estimará en función de la situación del mercado financiero en el momento de la formalización del contrato.
+El coeficiente 0,8 resulta de diferir el 20 por ciento al pago anual, con carácter previo al inicio de cada ejercicio, tomando como referencia el importe de la tasa en el momento de devengo.
+V. Cuota. Normas de aplicación.
+I. Instalaciones gestionadas directamente por la Agencia.
+I.1. Embarcaciones en atraques predefinidos, entendiendo por tales los de dimensiones fijas, identificados unívocamente, ubicados en instalaciones deportivas dotadas de aseos o duchas para las personas usuarias y de marinería permanente o servicios análogos: el importe de la tasa será el resultante de aplicar un coeficiente de 0,5274275 euros por metro cuadrado de superficie computable de atraque y día o fracción.
+En el supuesto de atraques predefinidos para embarcaciones con eslora superior a 12 metros, el coeficiente será de 0,448313euros.
+Los titulares de embarcaciones multicasco podrán optar entre ocupar el atraque que le corresponda en función de su manga, o bien el correspondiente a su eslora. En este último caso, cuando resulte necesaria la ocupación en todo o en parte de un segundo atraque por la embarcación multicasco, se considerará para la determinación de la tasa la superficie de uno, y el mayor de los dos cuando sean de diferente tamaño.
+I.2. Otros supuestos: el importe de la tasa será el resultante de aplicar un coeficiente de 0,155215 euros por metro cuadrado a la superficie resultante de multiplicar la eslora máxima por la manga máxima de la embarcación, por día o fracción.
+Atendiendo a las condiciones concretas de prestación del servicio, a la cantidad que resulte se le aplicará un segundo coeficiente, en la cuantía que a continuación se determina:
+TIPO
+ SUBTIPO
+ COEFICIENTE
+ Fondeado
+ 
+ 0,75
+ Amarrado
+ a muerto
+ 1,0
+ a escollera o playa de punta y con fondeo
+ 1,0
+ a escollera o playa de punta y con muerto
+ 1,25
+ a escollera de costado
+ 1,75
+ a otros muelles de punta
+ 1,75
+ a otros muelles de costado
+ 2,5
+I.3. Se establecen las siguientes bonificaciones:
+a) Los titulares de embarcaciones con contrato de base disfrutarán de una bonificación del 50 % en servicios de atraque de tránsito en otras instalaciones gestionadas directamente por la Agencia, en los supuestos de haber formalizado por escrito la petición de reserva ante el puerto de destino, con al menos 24 horas de antelación a la llegada a puerto.
+De no mediar la citada formalización de reserva en plazo, en caso de que a la llegada a puerto hubiera disponibilidad para atender el servicio, la bonificación quedará reducida al 20 por ciento.
+Tal beneficio tendrá una limitación máxima de siete días de estancia en cada instalación portuaria, y para su aplicación deberá acreditarse documentalmente a la llegada al puerto de tránsito la notificación a la administración del puerto de base del período de ausencia de la embarcación, con carácter previo a la salida de la misma.
+b) Con la finalidad de promover la demanda, las personas usuarias con contrato de base ordinario o especial en atraque predefinido en puertos en servicio en los que no exista lista de espera cerrada tendrán derecho a una bonificación de un 30 por ciento. En el caso de atraques no predefinidos, dicha bonificación será de un 10 por ciento.
+Si una vez suscrito o prorrogado el citado contrato de base ordinario o especial en atraque predefinido se crea tal lista de espera cerrada integrada por al menos una embarcación de cada eslora, las siguientes anualidades, de continuar la vigencia del citado contrato, serán bonificadas en el 20 por ciento el primer año, el 10 por ciento el segundo, y sin que la tercera y sucesivas gocen de bonificación alguna.
+c) En instalaciones gestionadas de forma directa, la Agencia podrá suscribir convenios de colaboración con entidades públicas o privadas radicadas en el puerto con título concesional o autorización administrativa habilitante, que tengan por objeto la promoción y organización de actividades náutico-deportivas de acuerdo con las condiciones generales que se establezcan por la Agencia, siempre atendiendo el interés social de las mismas, y en correspondencia a las prestaciones que por tales entidades se realicen en favor de los fines que le son propios a la Administración del Sistema Público portuario.
+En dichos convenios se establecerán las condiciones que permitan a los miembros de estas entidades el derecho a una bonificación de hasta un 10 % en su contrato base con la Agencia.
+Para determinar el porcentaje exacto de bonificación se tendrá en cuenta el número de personas asociadas, número y relevancia de las actividades deportivas a realizar, así como la cuota a satisfacer por las personas usuarias que se beneficien de la bonificación por ser miembro de dicha entidad.
+Dicha determinación se efectuará de forma motivada en cada caso, aplicando idénticos criterios para todos los sujetos pasivos en las mismas condiciones.
+d) Se aplicará una bonificación del 30 % en los contratos de tránsito o de base que se suscriban con entidades públicas de la Junta de Andalucía que no se encuentren exentas por aplicación de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, y un 10 % a los que se suscriban con cualesquiera otras entidades públicas.
+e) Se aplicará una bonificación del 5 % a las personas usuarias de base que realicen el pago anual anticipado, perdiéndose la misma con carácter automático, y sin perjuicio de los intereses de demora, recargos o sanciones tributarias que procedan, si el ingreso no se realizara en plazo y forma.
+f) Para la debida optimización de la ocupación de las instalaciones, se aplicará una bonificación del 50 % en temporada baja para las embarcaciones con contratos de base ordinario o de tránsito. El referido 50 % se adicionará, en su caso, al resto de bonificaciones del presente apartado.
+g) Se aplicará una bonificación de un 90 % a embarcaciones deportivas utilizadas por asociaciones declaradas de utilidad pública que se comprometan con la Agencia a desarrollar actividades que fomenten alguno de los principios que rigen el Sistema Portuario de Andalucía, establecidos en el artículo 2.1 de esta Ley. El número de atraques destinados a este fin no podrá superar el 2 % del total de la instalación portuaria y se accederá a ellos previa convocatoria pública de la Agencia.
+h) Las personas usuarias con contrato de base de larga duración en puertos en que se pretenda incentivar la demanda de tales tipos de contrato, podrán ser bonificados en la determinación de su cuota, en la forma que se determine en las bases de convocatoria, con un máximo del 30 por ciento.
+i) A las personas participantes en regatas, campeonatos náuticos o eventos deportivos análogos oficiales que hagan uso autorizado de instalaciones portuarias gestionadas por la Agencia, se les aplicará una bonificación del 50 %. Dicha bonificación se aplicará a las fechas de celebración del evento, así como a un periodo adicional máximo de diez días, a distribuir entre los puertos de salida y llegada. Esta bonificación se aplicará también en dicho periodo adicional a los participantes de las regatas que organice directamente la Agencia y a los que se aplica la exención contemplada en el apartado VI de este artículo.
+j) A las personas con contrato base que tengan reconocida una pensión contributiva por jubilación en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, conforme a la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero, se les aplicará una bonificación de la tasa del 50%.
+II. Acceso de embarcaciones deportivas y de recreo a instalaciones gestionadas por terceros habilitados por la Agencia en los puertos de gestión directa.
+El importe de la tasa por día o fracción de estancia será el resultante de aplicar un tipo de 0,03535 euros por metro cuadrado a la superficie resultante de multiplicar la eslora por la manga de la embarcación.
+La tasa podrá exigirse en régimen de estimación simplificada, salvo renuncia expresa del concesionario o autorizado, en cuyo caso éste deberá aportar la totalidad de datos necesarios para su cálculo, inclusive los datos de identificación de la embarcación que genere el devengo de la tasa o, caso de carecer de matrícula, de la persona titular de la misma, a efectos de que sea posible la inspección tributaria. Dichos datos se facilitarán en el formato informático requerido por la Administración. No obstante, en todo caso, la aportación defectuosa o la falta de aportación de tales datos, determinará la liquidación de la tasa en régimen de estimación simplificado.
+En el régimen simplificado, la superficie a la que se aplicará el tipo establecido en el primer párrafo será del 70 % de la superficie de la estructura de atraque aprobada, tomando en cuenta la media de los datos estadísticos de ocupación de la concesión o autorización de los dos últimos años. El primer y segundo ejercicio desde la entrada en actividad de la concesión o autorización se calculará con base en los datos recogidos en la memoria técnico-económica integrante del título habilitante.
+Se podrá aplicar una bonificación de hasta el 30 % por ciento de la cuota en favor de los usuarios de las instalaciones gestionadas por entidades públicas o privadas titulares de concesiones o autorizaciones al objeto de incentivar su demanda o en correspondencia a las prestaciones que realicen en favor de los fines que le son propios a la Administración del Sistema Público Portuario.
+A tal efecto, la Administración podrá suscribir convenios con dichas entidades quedando sujeto el otorgamiento de la bonificación a la presentación de un detallado programa de actividades, y al cumplimiento estricto por las citadas entidades de sus obligaciones concesionales, especialmente en materia de pago de tasas, ya sea como sujetos pasivos o sustitutos tributarios, y en general al cumplimiento en la gestión de la información necesaria para la liquidación de los servicios, así como al correcto mantenimiento de las instalaciones entregadas en concesión.
+VI. Exenciones.
+Estarán exentas de esta tasa las personas participantes en las regatas organizadas por la Agencia durante las fechas de celebración de dichos eventos.
+Asimismo, estarán exentas de esta tasa las embarcaciones exentas de la tasa al buque en virtud de lo dispuesto en los números 1 a 4 del artículo 52.III de esta Ley a quienes la Agencia les habilite el uso de instalaciones náutico-deportivas, con los mismos requisitos y condiciones que en dicho artículo 52.III se indican.
+Las personas usuarias con contrato de base especial disfrutarán de exención en servicios de atraque de tránsito en las instalaciones gestionadas directamente por la Agencia.
+Para la aplicación de esta exención, se deberán cumplir los requisitos previstos para la aplicación de la bonificación regulada en el párrafo a) del artículo 56.V.I.3. En cuanto a formalización de reserva, aviso sobre ausencia en el puerto base y necesaria disponibilidad en el puerto de destino, así como en cuanto a la limitación temporal que a estos efectos se establece en 30 días naturales al año, limitándose a una semana por puerto, realizándose su prestación de acuerdo con las prescripciones que al respecto se aprueben de acuerdo con el artículo 43 de esta Ley. De no mediar la citada formalización de reserva en plazo, no será aplicable dicha exención aun cuando hubiera disponibilidad para atender el servicio.»
+Se modifican los apartados I.1, III.2 y V.II por la disposición final 4.2 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se modifica el apartado II.1 y 2 por la disposición final 3.2 de la Ley 7/2024, de 23 de diciembre. Ref. BOE-A-2025-413
+ Se modifica el epígrafe III por la disposición final 7.1 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se modifica el párrafo primero del apartado V.I.1 por la disposición final 1 de la Ley 10/2021, de 28 de diciembre. Ref. BOE-A-2022-758#df
+ Se modifican los apartados II, V y VI por la disposición final 5.2 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+ Se modifica la letra j) al apartado V.I.3 por la disposición final 7 de la Ley 3/2019, de 22 de julio. Ref. BOE-A-2019-12122
+ Se añade la letra j) al apartado V.I.3 por el art. 42 de la Ley 5/2017, de 5 de diciembre. Ref. BOE-A-2018-1098
+ Se modifica por el art. único.13 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifican los puntos I.3.d) y II del apartado V por la disposición final 9.4 y 5 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Artículo 57
+
+Artículo 57. T6: Tasa de uso de equipo e instalaciones.
+I. Hecho imponible.
+Constituye el hecho imponible la puesta a disposición del sujeto pasivo por la Agencia de elementos, maquinarias, instalaciones y el utillaje portuario destinado a la operación, reparación, conservación y mantenimiento de todo tipo de embarcaciones y utillaje auxiliar, así como la solicitud de servicios cuya prestación haga necesario el uso de los citados elementos.
+II. Devengo.
+1. La tasa se devengará en el momento de la solicitud del servicio o de la puesta a disposición del sujeto pasivo de los equipos correspondientes, si bien, en este último caso, su pago se exigirá por anticipado, al tiempo de la solicitud.
+2. En el servicio de rampa la tasa se devengará y deberá ser pagada en el momento de su solicitud.
+Cuando el usuario comunique la intención de cesar en el uso del servicio, procederá la devolución del importe correspondiente al periodo abonado no disfrutado, aplicando la tarifa agrupada en tramos por este orden: trimestral, mensual y diario, sumando el resultado hasta computar el total del periodo de uso. Se aplicará la tarifa del tramo superior completa cuando esta sea más beneficiosa para el sujeto pasivo.
+3. La prestación de servicios a embarcaciones de características especiales, entendiendo por tales aquellas cuya relación eslora/manga sea inferior a 1,75 o superior a 4, o gt/eslora sea superior a 3, en los supuestos en que sea factible realizar el movimiento solicitado por la persona interesada, quedará condicionada a la aceptación y abono previo por el sujeto pasivo del importe de la tasa en que por la administración se estime tal prestación.
+III. Obligados tributarios.
+Serán sujetos pasivos de la tasa, en condición de contribuyentes, quien solicite el servicio, así como la persona titular de la embarcación, cuando esta sea objeto de operaciones para las que sea necesaria la utilización de los equipos o instalaciones.
+IV. Exenciones.
+Las personas usuarias con contrato de atraque de base, en sus modalidades ordinario y de larga duración, o con contrato anual en seco, estarán exentas de esta tasa, por el concepto de servicio de rampa, para la embarcación afecta a dicho contrato. Asimismo, estarán exentas de dicho concepto las embarcaciones deportivas que participen en la celebración de regatas, campeonatos náuticos o eventos deportivos análogos oficiales que hagan uso autorizado de instalaciones portuarias gestionadas por la Agencia, cuando el uso de rampa sea necesario durante la celebración del evento.
+V. Elementos de cuantificación.
+El importe de la tasa se determinará en atención al tiempo de empleo de los equipos, así como a la clase y dimensiones de los elementos objeto del servicio.
+VI. Cuota. Normas de aplicación.
+1. La tasa se exigirá conforme a lo dispuesto en el siguiente cuadro de tarifas:
+Uso de equipos:
+Utilización de grúa/carretilla elevadora
+ Euros por hora o fracción
+ Mayor de 5 Tm hasta 10 Tm
+ 35,686576
+ Mayor de 3 Tm hasta 5 Tm
+ 27,849862
+ Hasta 3 Tm
+ 21,731783
+Uso de instalaciones:
+Utilización abonada de rampa para lanzamiento y varada por una misma embarcación
+ Movimiento
+ –
+ Euros
+ Mensual
+ –
+ Euros
+ Trimestral
+ –
+ Euros
+ Anual
+ –
+ Euros
+ Vela ligera y piraguas
+ 2,913054
+ 14,571908
+ 36,429769
+ 72,866175
+ Eslora hasta 6 metros
+ 5,826108
+ 29,143816
+ 72,859538
+ 145,732349
+ Eslora entre 6 y 8 metros
+ 8,739163
+ 43,715723
+ 109,289309
+ 218,605160
+ Eslora de más de 8 metros
+ 14,571909
+ 72,872810
+ 182,162118
+ 364,330873
+Servicio de varada o botadura mediante grúas pórtico tipo Travelift:
+Eslora total
+ Importe, euros por servicio
+ Hasta 5 metros
+ 38,445000
+ Hasta 6 metros
+ 43,102500
+ Hasta 7 metros
+ 47,760000
+ Hasta 8 metros
+ 52,634479
+ Hasta 9 metros
+ 65,789757
+ Hasta 10 metros
+ 80,408219
+ Hasta 11 metros
+ 92,474462
+ Hasta 12 metros
+ 105,262275
+ Hasta 13 metros
+ 118,785021
+ Hasta 14 metros
+ 133,042698
+ Hasta 15 metros
+ 148,028626
+ Hasta 16 metros
+ 163,749485
+ Hasta 17 metros
+ 180,191914
+ Hasta 18 metros
+ 197,369275
+ Metro adicional o fracción
+ 18,273077
+Para embarcaciones con características especiales, con relación eslora/manga o Unidad de Arqueo Bruto (GT)/ eslora superiores o inferiores a las que se establezcan reglamentariamente, la prestación del servicio quedará condicionada a la aceptación y abono previo por el sujeto pasivo del importe en que se estime tal prestación.
+La Agencia no responderá por los daños y perjuicios que pudieran derivarse de este servicio, cuando sean consecuencia de la omisión de la declaración de las características especiales de las embarcaciones en el impreso de solicitud del servicio.
+2. Si la prestación de servicios se operara en díaslaborables, fuera de la jornada ordinaria se aplicará un coeficiente del 1,25. Si se tratara de días festivos, el coeficiente será del 1,50, con un mínimo a efectos de liquidación de dos horas, en usos de equipos. A estos efectos, la jornada ordinaria se fijará por la Agencia y estará expuesta al público en el tablón de anuncios del puerto.
+3. A los efectos de la aplicación de las tarifas, la duración de la utilización de los equipos será el comprendido entre la hora en que se hayan puesto a disposición del peticionario y la terminación del servicio. El cálculo se hará por horas completas. Solo podrán descontarse las paralizaciones superiores a treinta minutos debidas a averías de la maquinaria o ausencia de fluido eléctrico.
+4. Se podrá aplicar una bonificación de hasta el 30 % en la varada, lanzamiento y botadura en los siguientes casos, no acumulables entre sí:
+a) Embarcaciones con base en puertos de gestión directa, para los movimientos de varada, suspensión o botadura:
+Tipo de embarcación conforme a las listas de matrícula en el Registro de Buques
+ Meses de julio, agosto y de noviembre a febrero
+ Resto del año
+ Lista 3.ª
+ 25 %
+ 20 %
+ Lista 4.ª
+ 20 %
+ 15 %
+ Lista 7.ª
+ 15 %
+ 10 %
+ Otras listas
+ 10 %
+ 5 %
+A efectos de esta bonificación se entenderá por embarcaciones deportivas con base en el puerto, aquellas con contrato anual en agua en puertos gestionados directamente por la Agencia. Estas embarcaciones podrán beneficiarse de esta bonificación en cualquier varadero directamente gestionado por la Agencia.
+b) Las personas usuarias del servicio que mediante convenio se comprometan a realizar un determinado número de operaciones periódicas, y en concreto:
+– Para los movimientos de rampa de embarcaciones de vela ligera y piraguas, se podrán suscribir convenios con asociaciones o entidades públicas o privadas que integren al menos 15 embarcaciones que garanticen un mínimo de 100 operaciones anuales, bonificándose los contratos anuales con el 30 por ciento.
+– Para los movimientos de varada, suspensión o botadura, se podrán realizar convenios con entidades autorizadas para el desarrollo de su actividad en varadero, que se comprometan a realizar más de 11 movimientos en el mes natural durante los meses de julio, agosto y de noviembre a febrero, ambos inclusive, en cuyo caso se bonificarán los movimientos en función de la siguiente tabla:
+Movimientos por meses naturales
+ Porcentaje de bonificación
+ Del 11.º al 20.º
+ 10 %
+ Del 21.º en adelante
+ 15 %
+El periodo de bonificación de los movimientos de varada, suspensión o botadura podrá ser modificado mediante Orden conjunta de las Consejerías competentes en materia de hacienda y de puertos.
+Se modifica el apartado 2 del epígrafe II por la disposición final 7.2 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se modifican los apartados II, IV y VI por el art. único.14 a 16 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 58
+
+Artículo 58. T7: Tasa por ocupación de superficie.
+I. Hecho imponible.
+Constituye el hecho imponible la utilización de superficies de agua o tierra, cubiertas o sin cubrir, ubicadas en la zona de servicio portuaria, tales como explanadas, cobertizos, tinglados, almacenes, depósitos, locales, cuartos, pañoles, superficies de varadero y marina seca para estancia de embarcaciones, y la utilización de superficies para estacionamiento de vehículos o remolques en localizaciones expresamente habilitadas de acceso regulado.
+II. Devengo.
+La tasa se devengará una vez aceptada por la Administración la prestación del servicio solicitado y antes de la ocupación de las instalaciones, con obligación de pago anticipado de la misma, sin perjuicio de lo que a continuación se establece.
+Si la ocupación se solicita sin determinación de la fecha cierta de conclusión, siempre que la gestión de la zona portuaria permita la permanencia de la ocupación, el pago se materializará anticipando liquidaciones semanales, mensuales, trimestrales o anuales, dependiendo de la duración que estime la persona solicitante. En el supuesto en que la ocupación concluyera antes de la finalización del correspondiente periodo anticipado, se efectuará la regularización del importe de la tasa en función de la estancia efectiva, con devolución de la cantidad correspondiente.
+En supuestos de ocupación de cuartos de armadores, pañoles y análogos en que haya compromiso de ocupación por parte de la persona interesada, el pago se producirá en la forma recogida en el referido compromiso en los términos aceptados por la Administración.
+En el caso de embarcaciones intervenidas por mandato de un órgano judicial o de cualquier Administración Pública el devengo se producirá cuando se depositen en aguas del puerto, debiendo efectuarse el pago a la finalización de la ocupación.
+En el supuesto de estacionamiento de vehículos, la obligación de pago se producirá a la finalización de la ocupación, salvo en los supuestos de aparcamiento con regulación de rotación.
+III. Obligado tributario.
+Serán sujetos pasivos de la tasa a título de contribuyentes:
+a) En ocupaciones de superficie, solidariamente quiensolicite el servicio y la persona propietaria de los elementos ocupantes de la superficie.
+b) En varadero y marina seca, solidariamente quien solicite el servicio y el armador de la embarcación.
+c) En estacionamiento de vehículos o remolques, solidariamente quien solicite el servicio y la persona titular del vehículo remolque.
+IV. Elementos de cuantificación.
+La cuantía de la tasa se determinará en atención al tipo de superficie ocupada, así como al tiempo de duración de la ocupación.
+A efectos de cómputo del tiempo de ocupación, solo podrá considerarse una superficie libre cuando haya quedado en las mismas condiciones de conservación y limpieza en que se ocupó, y sea accesible y útil para otras ocupaciones.
+El contribuyente podrá optar por la aplicación de un régimen de estimación objetiva en los supuestos de ocupación de superficie con áridos a granel en los que se prevea una rotación de estas mercancías elevada, resultando la ocupación de la superficie por el árido en cada instante muy variable. A tal efecto, realizará la opción por la estimación objetiva a la presentación de la solicitud para la ocupación, computándose a tales efectos un metro cuadrado de superficie ocupado por tonelada acopiada cada día o fracción.
+V. Cuota y normas de aplicación.
+1. La tasa se exigirá conforme a lo dispuesto en el siguiente cuadro:
+Ocupación de superficie
+ 
+ Metro cuadrado de superficie de agua o tierra ocupada por día o fracción
+ Euros1
+ Superficie descubierta.
+ 0,047820
+ Superficie cubierta mediante contenedores.
+ 0,071729
+ Superficie cubierta.
+ 0,095639
+ Varadero/Vela ligera/Invernada.
+ 0,215192
+ Marina seca.
+ 0,274967
+ 1 Importes actualizados a 2024.
+En los supuestos de formalizarse compromiso de ocupación por períodos iguales o superiores a un mes, se establecen las siguientes bonificaciones para embarcaciones depositadas en estanterías en zona descubierta:
+– Contratos mensuales: 10 %.
+– Contratos trimestrales: 20 %.
+– Contratos anuales: 30 %.
+La vela ligera gozará de dichas bonificaciones con independencia de su depósito en suelo o estantería.
+La rescisión anticipada determinará la liquidación del tiempo disfrutado sin la aplicación de la bonificación.
+La Agencia podrá establecer duraciones máximas, así como temporadas, en las diferentes zonas terrestres por motivos de explotación, las cuales serán identificadas de forma adecuada por aquella, estableciéndose los siguientes coeficientes, dependientes de la zona, su forma y tiempo de estancia, y con el fin de agilizar y permitir la correcta explotación de las diferentes zonas terrestres utilizadas para la ubicación de embarcaciones:
+ZONA
+ COEFICIENTE
+ ZONA DE VELA LIGERA
+ 
+ 1
+ VARADERO
+ PERSONAS USUARIAS DE BASE
+ Estancias de hasta 1 mes
+ 0,5
+ Resto de estancias
+ 1
+ RESTO DE PERSONAS USUARIAS
+ 1
+ ZONA DE INVERNADA
+ Tres primeros meses de plazo
+ 1
+ Resto
+ 0,40
+Se podrá bonificar hasta un 30 % mediante convenios con entidades públicas, así como entidades privadas, atendiendo a su interés social.
+2. Para zonas de maniobra y operaciones portuarias, las cuantías que se establezcan se afectarán con los coeficientes que se indican a continuación, en función de los días de estancia.
+Días
+ Mercancías para embarcar o desembarcadas
+ Útiles y artes de pesca
+ Vehículos, remolques, embarcaciones y otros objetos
+ 1 a 3
+ 1,00
+ 1,00
+ 1,00
+ 4 a 10
+ 1,00
+ 1,00
+ 25,00
+ Más de 10
+ 10,00
+ 10,00
+ 20,00
+3. En supuestos de utilización de almacenes o cuartos, u ocupaciones de superficies descubiertas, con instalaciones desmontables, a la cuantía resultante de la aplicación del apartado 1, ocupación de superficie, se aplicarán los siguientes coeficientes:
+Armadores o instituciones públicas con necesaria presencia en el puerto para el almacenaje de elementos propios de su actividad: 1,00.
+Compradores/exportadores: 1,50.
+Oficinas y servicios exclusivamente relacionados con la actividad pesquera: 1,60.
+Almacenes de pertrechos para flota deportiva: 2,00
+Actividades no lucrativas relacionadas con la flota deportiva: 1,30.
+Actividades comerciales o de servicios: 2,00.
+Actividades que sin suponer servicio específico para el puerto utilicen las características del recinto portuario para obtener valor añadido a su oferta: 3,00.
+4. El importe de la tasa por estacionamiento de vehículos se calculará mediante la aplicación de los siguientes criterios:
+Uso de plaza de aparcamiento
+ €/Hora
+ €/Día
+ €/Mes
+ €/Trimestre
+ €/Año
+ Motocicletas o remolques de 2 ruedas
+ 0,554340
+ 4,434718
+ 93,129064
+ 223,953225
+ 803,79515
+ Turismos o similares
+ 1,108680
+ 8,869434
+ 186,258127
+ 446,797770
+ 1.607,585028
+ Autocares/Camiones
+ 1,663019
+ 11,363962
+ 232,822660
+ 558,774383
+ 2.011,144305
+ Caravanas/Autocaravanas
+ 1,330415
+ 9,978114
+ 203,996997
+ 491,144943
+ 1.768,343532
+La tarifa por minutos será el resultado de dividir la tarifa por horas entre 60.
+En aquellas zonas de aparcamiento cuyo principal objetivo sea dar servicio a las industrias u operadores comerciales implantados en el puerto, se aplicará una bonificación del 40 % de acuerdo con las bases que al respecto se aprueben por la Administración portuaria.
+5. Otros tipos de remolques devengarán la tasa encuantía adicional, idéntica a la del vehículo tractor.
+VI. Exenciones.
+Estará exenta de la tasa T7 la ocupación de superficie en tierra que sea esencial para la realización de regatas, campeonatos náuticos o eventos deportivos análogos oficiales, que hagan uso autorizado de instalaciones portuarias gestionadas por la Agencia.
+Asimismo, estará exenta durante un periodo máximo de seis meses la ocupación realizada por las personas usuarias con contrato de base especial en varadero, invernada o marina seca cuando este servicio se refiera a la embarcación objeto del contrato de base especial regulado en el párrafo c) del apartado II.3 del artículo 56, salvo en el periodo de marzo a junio en el cual se limitará dicha gratuidad a un mes.
+Se modifica el cuadro del epígrafe V.1 por la disposición final 2.1 de la Ley 12/2023, de 26 de diciembre. Ref. BOE-A-2024-447
+ Se modifica el párrafo segundo del epígrafe VI por la disposición final 7.3 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se modifica el apartado VI por la disposición final 5.3 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+ Se modifican los apartados II, IV y V y se añade el VI por el art. único.17 a 20 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifica el apartado V.1 por la disposición final 9.6 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Artículo 59
+
+Artículo 59. T8: Tasa de suministros.
+I. Hecho imponible.
+Constituye el hecho imponible la puesta a disposición del sujeto pasivo, por la Agencia, de productos o servicios de terceros a través de las instalaciones del puerto, y la utilización de estas para su efectiva prestación.
+II. Devengo.
+La tasa se devengará en el momento en que comience la prestación del servicio, exigiéndose su pago por anticipado, al tiempo de la solicitud.
+III.Obligados tributarios.
+Serán sujetos pasivos, a titulo de contribuyente y solidariamente, quien solicite el servicio, así como el titular de la embarcación a la que se destinara, en su caso, el suministro.
+IV. Elementos de cuantificación.
+La base de cálculo del importe de la tasa se determinará en atención al número de unidades suministradas y al coste de las mismas.
+V. Cuotas y normas de aplicación.
+1. El importe de la tasa será el resultado de aplicar un coeficiente de 1,30 al coste del suministro para la Agencia, siempre que aquel se realice a través de las redes o usando las instalaciones portuarias. La finalidad de dicho coeficiente es cubrir los costes adicionales de gestión que la prestación suponga para la Agencia, incluida la amortización de las instalaciones.
+En los casos de suministros que no sean susceptibles de estimación cierta del coste, la prestación del servicio quedará condicionada a la aceptación y abono previo por el sujeto pasivo del importe en que se estime la prestación del servicio.
+2. Se exceptúan del régimen tarifario establecido en el punto anterior los suministros de agua y electricidad, en los que la tasa se calculará según el siguiente cuadro de tarifas, en función de la situación de la embarcación:
+A) Suministros de agua y electricidad en varadero o estancia en seco:
+Esloras
+ 
+ Agua
+ 
+ 
+ Electricidad
+ Euros/Día
+ Euros/Mes
+ Euros/Trimestre
+ Euros/Día
+ Euros/Mes
+ Euros/Trimestre
+ Temporada ordinaria
+ Hasta 10 m.
+ 1,33624
+ 13,3624
+ 33,406
+ 1,670299
+ 16,70299
+ 41,757475
+ Entre 10 y 12 m.
+ 2,004359
+ 30,065385
+ 76,165642
+ 2,338419
+ 35,076285
+ 88,859922
+ Mayor de 12 m.
+ 2,672479
+ 53,44958
+ 133,62395
+ 3,00654
+ 60,1308
+ 150,327
+ Temporada baja
+ Hasta 10 m.
+ 1,33624
+ 8,01744
+ 17,37112
+ 1,670299
+ 10,021794
+ 21,713887
+ Entre 10 y 12 m.
+ 2,004359
+ 20,04359
+ 42,091539
+ 2,338419
+ 23,38419
+ 49,106799
+ Mayor de 12 m.
+ 2,672479
+ 34,742227
+ 74,829412
+ 3,00654
+ 39,08502
+ 84,18312
+B) Suministros de agua y electricidad en atraques y amarres:
+Esloras
+ 
+ Agua
+ 
+ 
+ Electricidad
+ Euros/Día
+ Euros/Mes
+ Euros/Trimestre
+ Euros/Anual
+ Euros/Día
+ Euros/Mes
+ Euros/Trimestre
+ Euros/Anual
+ Temporada ordinaria
+ Entre 10 y 12 m.
+ 0,260221
+ 2,602219
+ 6,505548
+ 22,899448
+ 0,325277
+ 3,252774
+ 8,131935
+ 28,624376
+ Hasta 10 m.
+ 0,487915
+ 7,318742
+ 18,540812
+ 68,3081
+ 0,813193
+ 12,197904
+ 30,901355
+ 113,84702
+ Mayor de 12 m.
+ 0,975832
+ 19,51664
+ 48,791613
+ 179,553088
+ 1,398693
+ 27,973857
+ 69,934645
+ 257,35951
+ Temporada baja
+ Hasta 10 m.
+ 0,260221
+ 1,561332
+ 3,382884
+ 
+ 0,325277
+ 1,951665
+ 4,228607
+ Entre 10 y 12 m.
+ 0,487915
+ 4,879162
+ 10,246239
+ 
+ 0,813193
+ 8,131935
+ 17,077064
+ Mayor de 12 m.
+ 0,975832
+ 12,68582
+ 27,323302
+ 
+ 1,398693
+ 18,183008
+ 39,163402
+El suministro en atraques y amarres se considera de recepción obligatoria, liquidándose de forma simultánea con la tasa a embarcaciones deportivas y de recreo, T-5.
+Para los suministros de agua y electricidad en estancias inferiores al año, la escala se aplicará al plazo de tal estancia separándolo por temporadas ordinaria y baja, y liquidando la tarifa agrupada en tramos por este orden: trimestral, mensual y diario, sumando el resultado hasta computar el total del periodo de estancia.
+Se aplicará la tarifa del tramo superior completa, cuando ésta sea más beneficiosa para el sujeto pasivo.
+C) La puesta a disposición de las embarcaciones, desde muelle y sin atraque, de los servicios de toma de energía eléctrica y agua devengará la presente tasa de suministro, en cuantía diaria del 0,15 por ciento de la tasa de embarcaciones deportivas y de recreo, T5.
+D) Suministro de agua en rampa de varada.
+Euros día
+ Euros mes
+ Euros trimestre
+ Euros año
+ 0,304994
+ 3,049957
+ 7,624891
+ 26,839520
+El suministro en rampa de varada se considera de recepción obligatoria, liquidándose de forma simultánea con la T6, tasa de uso de equipo e instalaciones.
+Sin perjuicio de los cuadros tarifarios anteriores, la Agencia Pública de Puertos de Andalucía podrá instalar contadores individuales para verificar el consumo real de agua y electricidad. En tal caso, la cuota se determinará aplicando un coeficiente del 1,30 al coste real del correspondiente suministro. No obstante, si el resultado fuera inferior al derivado de la aplicación de los cuadros tarifarios, prevalecerán estos últimos.
+Se modifica el apartado V.2 por la disposición final 4.3 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se añade la letra D) al apartado 2 del epígrafe V por la disposición final 7.4 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se modifica el apartado V.2.B por el art. único. 21 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 60
+
+Artículo 60. T9: Tasa de servicios operativos específicos.
+I. Hecho imponible.
+Constituye el hecho imponible la aportación por parte de la Agencia de medios humanos y/o materiales, distintos de los contemplados en los artículos anteriores.
+II. Devengo.
+La tasa se devengará cuando se inicie la prestación del servicio, previa aceptación de la determinación de su importe, con obligación de pago anticipado al tiempo de la solicitud.
+III. Obligados tributarios.
+Será sujeto pasivo de la tasa, a titulo de contribuyente y solidariamente, quien solicite el servicio, así como, si se prestara el servicio sin mediar solicitud, quienes estén afectos o se beneficien de modo particular por la prestación del servicio.
+IV. Elementos de cuantificación.
+La base de cálculo del importe de la tasa se determinará en atención al número de horas por persona necesarias, al valor de los productos consumidos, a la amortización de los equipos empleados, así como al coste de los servicios de terceros que sean necesarios para la prestación del servicio especial.
+A tal efecto, el coste de personal básico de la Agencia empleado (portuarios, marineros o administrativo) se calculará aplicando una tarifa de 21 euros por persona y hora.
+V. Cuotas y normas de aplicación.
+El importe de la tasa será el resultado de aplicar un coeficiente de 1.20 al coste real de los medios empleados.
+
+### Artículo 61
+
+Artículo 61. T10: Tasa de servicios administrativos y profesionales.
+I. Hecho imponible.
+Constituye el hecho imponible la tramitación de expedientes, supervisión de proyectos técnicos, realización de informes, compulsas, emisión de certificaciones y realización de inspecciones en el ámbito de su actuación como administración del Sistema Portuario de Andalucía.
+Asimismo, constituye hecho imponible la inscripción en el Registro de Usos del Dominio Público Portuario de las concesiones y autorizaciones otorgadas por la administración del Sistema Portuario de Andalucía, y de las cesiones de elementos concesionales en los puertos o instalaciones marítimas gestionadas en régimen de concesión, así como su modificación y la emisión, por la Agencia, de todo tipo de certificaciones al respecto.
+II. Devengo.
+1. La tasa se devengará a la solicitud del servicio y,en su defecto, en el momento de su prestación.
+2. En los servicios administrativos relativos al Registro de Usos del Dominio Público Portuario, la tasa se devengará cuando se notifique el otorgamiento o modificación de la autorización o concesión, y de la autorización de la cesión de elementos concesionales. En el caso de las certificaciones, la tasa se devengará en el momento de la solicitud de las mismas por la persona interesada.
+3. El pago de la tasa se efectuará al presentar la solicitud, excepto en supuestos de asientos en el Registro de Usos del Dominio Público Portuario, en cuyo caso la deuda tributaria resultante de la liquidación practicada por la Administración se ingresará en los plazos previstos en el artículo 62.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+III. Obligados tributarios.
+1. Será sujeto pasivo de la tasa, a titulo de contribuyente y solidariamente, quien solicite el servicio, así como, si se prestara el servicio sin mediar solicitud, quienes se beneficien por la prestación del mismo.
+2. En la modalidad relativa al Registro de Usos del Dominio Público Portuario será sujeto pasivo de la tasa en calidad de contribuyente la persona titular del derecho de uso y, en caso de transmisión, su adquirente. Asimismo, en el caso de las certificaciones será sujeto pasivo quien solicite la certificación.
+IV. Tarifas y normas de aplicación.
+La tasa se exigirá en función de la modalidad de actuación administrativa conforme a lo dispuesto en el siguiente cuadro de tarifas:
+Modalidad de servicio administrativo
+ Euros
+ Tramitación de expedientes de autorizaciones, concesiones y licencias.
+ Autorización o licencia: 50 euros.
+ Concesión: 150 euros.
+ 0,0025 % del importe del Presupuesto de ejecución material de las obras.
+ Supervisión de proyectos en expedientes de concesiones y/o autorizaciones.
+ Compulsas.
+ 1,00 euro por documento, más 0,15 euros por cada página adicional a las 10 primeras.
+ Emisión de certificaciones.
+ 9,03 euros por cada certificación.
+ Inspecciones.
+ 200 euros por jornada de inspector, más el coste efectivo de los medios materiales incrementado en un 20 %.
+ Registro de Usos del Dominio Público Portuario Inscripción inicial (por elemento susceptible de cesión): 150 euros.
+ Inscripción de modificación de elemento inscrito: 60 euros.
+ Inscripción de transmisión: 50 euros.
+ Expedición de nota simple de la inscripción: 20 euros.
+ Expedición de certificación completa: 30 euros.
+A efectos de cómputo de costes, la jornada de inspector se entenderá devengada por cada día en que se materialice su actuación, con independencia del número efectivo de horas que esta requiera.
+Se modifica el apartado IV por el art. único.22 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## Sección 2
+
+Sección 2.ª Recargos para financiación de medidasde desarrollo sostenible
+
+### Artículo 62
+
+Artículo 62. Equipamiento y actuaciones para el tratamiento de desechos generados por embarcaciones.
+I. Régimen.
+La Administración repercutirá, se haga o no uso del servicio de recepción de desechos generados por embarcaciones, un porcentaje del 3 % de la tasa devengada en concepto de T1, buque, T4, pesca fresca, y T5, embarcaciones deportivas o de recreo, en concepto de equipamiento y actuaciones para el tratamiento de desechos generados por embarcaciones.
+El recargo comprende las actividades de recogida de desechos generados por embarcaciones y, en su caso, de almacenamiento, clasificación y tratamiento previo de los mismos en la zona de servicio del puerto, y su traslado a una instalación de tratamiento autorizada por la Administración competente.
+No se devengará este recargo sobre la tasa T5 en las instalaciones a que se refiere el artículo 56.V.II de esta Ley, siempre que la persona autorizada o concesionaria dispusiere del equipamiento aprobado administrativamente y prestara de forma efectiva el servicio de tratamiento de estos desechos a las personas usuarias de la instalación.
+A los efectos de esta Ley, se entiende por desechos generados por embarcaciones todos los desechos, incluidas las aguas residuales y los residuos distintos de los de carga, producidos por las embarcaciones y que están regulados por los Anexos I y IV (líquidos) y V (sólidos) del Convenio internacional para prevenir la contaminación ocasionada por los buques, de 1973, modificado por su Protocolo de 1978, en su versión vigente (MARPOL 73/78), así como los desechos relacionados con la carga según se definen en las directrices para la aplicación del Anexo V del referido Convenio. Los desechos generados por embarcaciones se considerarán residuos en el sentido de la letra a) del artículo 3 de la Ley 10/1998, de 21 de abril, de Residuos.
+II. Bonificaciones.
+El recargo se reducirá hasta el 1 % en las embarcaciones que acrediten la implantación de un sistema homologado y eficaz de gestión medioambiental. A tal efecto, se considerará acreditada la implantación de un sistema homologado y eficaz de gestión medioambiental, en aquellas embarcaciones que cuenten con el certificado UNE EN ISO 14001, o análogo certificado aprobado oficialmente.
+Se modifica por el art. único.23 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## CAPÍTULO III
+
+Tasas por ocupación privativa y aprovechamiento especial del dominio público portuario
+
+### Artículo 63
+
+Artículo 63. Tasa por ocupación privativa.
+I. Hecho imponible.
+Constituye el hecho imponible de la tasa la ocupación del dominio público portuario en virtud de concesión, de obra pública y demanial, o autorización.
+II. Obligados tributarios.
+Son sujetos pasivos de la tasa, a título de contribuyentes, según proceda, las personas titulares de la concesión o autorización administrativa.
+III. Período impositivo, devengo y exigibilidad.
+1. El período impositivo coincidirá con el año natural, salvo en los siguientes supuestos:
+a) Cuando la ocupación del dominio público portuario tenga un plazo inferior al año, el período impositivo coincidirá con el determinado en el título habilitante.
+b) Cuando, siendo el período de ocupación superior al año, el inicio o el cese de la misma sea en días diferentes del 1 de enero o 31 de diciembre, respectivamente, el período impositivo coincidirá con el período de ocupación durante el año.
+2. La tasa se devengará el día 1 de enero de cada ejercicio, con las siguientes excepciones:
+a) El año de inicio de la ocupación del dominio público portuario, la tasa se devengará en la fecha de formalización del título habilitante.
+b) En los supuestos de concesión cuyo término se vincule a la fecha de extinción de otra concesión o a la fecha de finalización de obras que ejecute la administración del Sistema Portuario de Andalucía, el devengo se producirá en el momento de la puesta a disposición de los terrenos.
+3. Los elementos de cuantificación de la cuota serán los regulados en la normativa vigente en la fecha del devengo, conforme a lo dispuesto en los números 1 y 2 anteriores del presente apartado III.
+4. La tasa será exigible por adelantado, con las actualizaciones y, en su caso, revisiones que se efectúen, y en los plazos que figuren en las cláusulas del correspondiente título, que no podrán ser superiores a un año.
+No obstante, la Agencia podrá autorizar pagos anticipados a cuenta de la tasa por plazos superiores, para financiar la ejecución de obras a cargo de la misma.
+5. Exigibilidad de la tasa en las concesiones de superficies de ocupación del dominio público portuario superiores a 1.500 metros cuadrados que tengan por único objeto:
+a) El ejercicio de aquellas actividades que constituyan otros usos compatibles con la actividad portuaria, correspondientes a equipamientos culturales, deportivos, educativos, recreativos, certámenes feriales, exposiciones, así como actividades industriales o comerciales no portuarias, a que se refiere el artículo 16.1.e) de esta ley, que contribuyan a la integración urbana y territorial de los puertos, a su equilibrio social y económico, a la generación de empleo, al crecimiento de la economía andaluza y a la articulación de las relaciones entre el puerto y el espacio urbano y que por su intensidad, y relevancia en la articulación de las relaciones entre el puerto y el espacio urbano trasciendan las previsiones de los usos auxiliares y complementarios.
+b) O el ejercicio de la actividad habitacional, residencial y hotelera, y sus servicios complementarios, siempre que dichos usos sean autorizados por el Consejo de Ministros, conforme a lo previsto en el artículo 25.3 de la Ley 22/1988, de 28 de julio, de Costas.
+La tasa se exigirá del siguiente modo:
+a) El 55 % de la tasa en la fecha de formalización del título habilitante.
+b) El 45 % restante cuando se realice el reconocimiento de las obras y la autorización de inicio de la explotación por parte de la Agencia Pública de Puertos de Andalucía. En caso de reconocimientos parciales de las obras, se aplicará el porcentaje que proceda en función de la superficie lucrativa puesta en uso.
+Asimismo, cuando estas concesiones conlleven la ocupación de una edificación de nueva construcción ejecutada a cargo de la Administración del Sistema Portuario, se exigirá el pago anticipado, en el momento de la firma del título, del importe correspondiente al 100 % del valor de amortización del edificio durante todo el periodo concesional, sin que en ningún caso el importe sea inferior al 1,5 % del coste histórico de los mismos.
+IV. Cuota.
+En las concesiones indicadas en el apartado III.5 del presente artículo la cuota se calculará en función de la superficie ocupada, medida en metros cuadrados y la tarifa que corresponda en función de la actividad desarrollada, de conformidad con lo dispuesto en el apartado 6 del presente apartado. En las demás concesiones, la cuantía de la tasa de ocupación se calculará mediante la adición, en su caso, de las cantidades que resulten de los siguientes apartados:
+1. Ocupación de terrenos.
+Será el 5% del valor de dichos terrenos. A estos efectos, se considerarán como terrenos o suelo las superficies situadas más a tierra de la línea de bajamar máxima viva equinoccial, que se integren en la concesión o autorización portuarias.
+1.a) Categorías de puertos.
+Se establecen las siguientes categorías de puertos:
+Categoría 1. Valor de suelo superior a 100 €/m² e inferior o igual a 125 €/m².
+Categoría 2. Valor de suelo superior a 125 €/m² e inferior o igual a 175 € /m².
+Categoría 3. Valor de suelo superior a 175 €/m² e inferior o igual a 235 €/m².
+Categoría 4. Valor de suelo superior a 235 €/m² e inferior o igual a 325 €/m².
+Categoría 5. Valor de suelo superior a 325 €/m² e inferior o igual a 500 €/m².
+Categoría 6. Valor de suelo superior a 500 €/m².
+A efectos de establecer el valor del metro cuadrado de los terrenos portuarios, todos los puertos de la Comunidad Autónoma de Andalucía quedarán clasificados en alguna de las categorías de puertos establecidas. A tal efecto, el valor que determine la inclusión de un puerto en una de dichas categorías se calculará en función de la valoración del suelo en el entorno del puerto, considerándose como tal el término municipal en que se sitúe, y del que se tomarán los valores medios catastrales de suelo urbano obtenidos de los datos estadísticos de la Dirección General del Catastro del Ministerio de Hacienda y referidos a 31 de diciembre del ejercicio anterior en que se establezca la tasa, a los que se aplicarán los coeficientes publicados en el anexo II de la presente norma.
+Los referidos coeficientes podrán ser objeto de actualización en la Ley del Presupuesto o en la que, en su caso, se apruebe a estos efectos, cuando se justifique por variaciones relevantes en los valores de mercado del suelo, adecuadamente justificadas en una memoria económica específica para este fin.
+El valor de referencia para la valoración de los terrenos será el mínimo del rango correspondiente a la categoría asignada.
+Aquellos puertos en los que el valor del suelo resulte inferior a 100 €/m² se incluirán en la categoría 1.
+1.b) Valor de los terrenos.
+El valor del suelo correspondiente a la categoría del puerto será ponderado mediante la aplicación de los siguientes coeficientes que a cada zona del terreno ocupado corresponda, en función de los usos autorizados y proximidad al núcleo urbano, que se aplicarán de forma acumulada:
+a) Utilidad:
+Usos
+ Área de movimiento de la edificación
+ Obras de abrigo viario y espacios libres
+ Aparcamientos
+ Varaderos
+ Ocupación del subsuelo que no impide el uso privativo de la superficie
+ Coeficientes.
+ 0,89
+ 0
+ 0,71
+ 0,45
+ 0,50
+Se consideran áreas de movimiento de la edificación los espacios de la zona de servicio susceptibles de explotación comercial, ya sea mediante edificios o instalaciones de carácter desmontable. Se consideran dentro de este uso los títulos otorgados exclusivamente sobre edificaciones, aunque estas se encuentren adosadas a la explanada de varada.
+Se considerará superficie de aparcamientos la destinada a tal fin, a la que se sumará la superficie del viario para el acceso a las plazas desde el viario general cuando dicho acceso sea restringido. Dentro del uso de varadero, se consideran incluidas las explanadas destinadas a estancias en seco, invernada y movimiento de embarcaciones, izado o botado, y aquellas edificaciones que se encuentren en las referidas explanadas y sean objeto de título habilitante para su ocupación y explotación junto con las mismas.
+Los terrenos de la zona de servicio ocupados por el viario o por espacios libres, de acuerdo con la ordenación aprobada, y cuyo uso no sea objeto de retribución a la persona concesionaria, serán valorados aplicando un coeficiente 0.
+En el caso de ocupación del subsuelo con líneas eléctricas, suministro de agua, evacuación de residuos u otras instalaciones inherentes a la urbanización, siempre que no impidan el uso privativo de la superficie, se aplicará un coeficiente corrector del 0,5.
+b) Proximidad al núcleo urbano:
+Distancia.
+ L ≤ 100 m
+ 100 m < L ≤ 500 m
+ 500 m < L
+ Coeficientes.
+ 0,89
+ 0,53
+ 0,27
+A los efectos de determinar la distancia, se considerará como borde urbano la línea descrita por el deslinde del dominio público marítimo-terrestre. Dicha línea, desplazada hacia el mar una distancia L= 100 m y L= 500 m, determinará las zonas en las que han de quedar incluidos los terrenos que se otorguen en concesión. Respecto a los locales de un edificio que se encuentre sobre la línea delimitadora de 100 metros o sobre la de 500 metros, se considerará la proximidad del edificio en función de la mayor superficie de ocupación del mismo, aplicándose este coeficiente para todos los locales del edificio. El valor final del terreno se establecerá mediante la aplicación acumulada de los referidos coeficientes de uso y proximidad a las distintas áreas operativas de la zona de servicio.
+1.c) Los terrenos de titularidad privada aportados por la persona concesionaria no computarán a efectos de determinación de la base imponible.
+1.d) En aquellas concesiones o autorizaciones que se otorguen sobre locales integrantes de un edificio portuario se repercutirá la superficie de ocupación del edificio entre los locales o dependencias integrados en el edificio y susceptibles de explotación.
+2. Ocupación de las aguas del puerto:
+Será el 5 % del valor de la lámina de agua, que se determinará según el valor del suelo correspondiente a la categoría asignada al puerto, ponderada mediante los coeficientes que se señalan en este apartado.
+A estos efectos, se considerarán lámina de agua las superficies situadas más a mar de la línea de bajamar máxima viva equinoccial que se integren en la concesión o autorización.
+El cálculo de la ocupación de las aguas se realiza en función de la situación del dominio público portuario en el momento en que se otorga la concesión o autorización administrativa. En los supuestos de posterior incremento de la superficie otorgada, para el cálculo de ocupación respecto a las superficies añadidas se considerará la situación en el momento de aprobarse la modificación.
+2.a) Abrigo:
+Aguas abrigadas: 0,71.
+Aguas no abrigadas: 0,18.
+Se considera agua abrigada la lámina de agua comprendida en el interior de las obras de abrigo y que se encuentra al resguardo de las acciones producidas por las dinámicas atmosféricas y marinas, en las que los buques pueden permanecer atracados o fondeados en condiciones de seguridad, y desarrollar a salvo de forma eficiente las operaciones portuarias, delimitada por el contorno interior de la obra portuaria y la línea que une los centros de los morros de las obras de abrigo.
+Se considera agua no abrigada la lámina de agua que, para cumplir los requisitos anteriormente expuestos, precisan para su resguardo de la ejecución de obras de abrigo, considerándose éstas como las infraestructuras básicas para la conceptualización de áreas marítimas y terrestres artificiales.
+En el supuesto de no existir obras de abrigo, se considerará como abrigada la totalidad del agua objeto de concesión, salvo que el proyecto proponga su ejecución.
+2.b) Profundidad: Utilizando como nivel de referencia la bajamar viva equinoccial (BMVE):
+Menor o igual a 1,5 m.
+ 0,18
+ Superior a 1,5 m y menor o igual a 3,0 m.
+ 0,71
+ Superior a 3 m y menor o igual a 6 m.
+ 0,53
+ Superior a 6 m.
+ 0,27
+2.c) Distancia a la orilla: Utilizando como nivel de referencia la línea de bajamar viva equinoccial (BMVE), la misma tabla indicada para determinar el coeficiente de proximidad al núcleo urbano del apartado 1b) anterior.
+El valor final de la lámina de agua se establecerá mediante la aplicación acumulada de los referidos coeficientes de abrigo, profundidad y distancia a la ribera.
+2.d) La lámina de agua que se otorgue en concesión o autorización y que se destine a campos de fondeo se valorará con arreglo a lo establecido en el presente apartado 2, aplicándole un coeficiente adicional de 0,06.
+3. Ocupación de terrenos o agua en las que se proyecte la transformación de las mismas de tierra a agua o viceversa, mediante ejecución de obras: se valorarán con arreglo a lo establecido en los apartados 1 y 2 aquellos terrenos o espacios situados más a tierra de la línea de bajamar viva equinoccial que, mediante las obras previstas en el proyecto aprobado, pasen a ser parte de la lámina de agua en concesión. El coeficiente de utilidad indicado será 1 y el coeficiente de profundidad se obtendrá de lo previsto en el proyecto aprobado.
+Asimismo, se valorarán con arreglo a lo establecido en los apartados 1 y 2 las aguas entregadas y que mediante obras de relleno previstas en el proyecto concesional aprobado pasen a ser explanadas, considerándose en este caso aguas no abrigadas.
+4. Ocupación de obras e instalaciones: Se computará el 100 % de la anualidad de amortización de las obras, equipos e instalaciones entregadas sin que, en ningún caso, el importe sea inferior al 1,5 % del coste histórico de las obras, equipos e instalaciones entregadas.
+5. Cuando la ocupación del dominio público portuario incluya un uso consuntivo del mismo, el valor de este será el de los materiales consumidos a precio de mercado.
+6. Cuota para concesiones de superficies de ocupación del dominio público portuario superiores a 1.500 metros cuadrados, que tengan por único objeto:
+a) El ejercicio de aquellas actividades a que se refiere el artículo 16.1.e) de esta ley que contribuyan a la integración urbana y territorial de los puertos, a su equilibrio social y económico, a la generación de empleo, al crecimiento de la economía andaluza y a la articulación de las relaciones entre el puerto y el espacio urbano y que por su intensidad, y relevancia en la articulación de las relaciones entre el puerto y el espacio urbano trasciendan las previsiones de los usos auxiliares y complementarios.
+b) O el ejercicio de la actividad habitacional, residencial y hotelera, y sus servicios complementarios, siempre que dichos usos sean autorizados por el Consejo de Ministros conforme a lo previsto en el artículo 25.3 de la Ley 22/1988, de 28 de julio, de Costas.
+La cuota de la tasa será el resultado de aplicar a la superficie ocupada, medida en metros cuadrados, la tarifa que corresponda en función de la actividad desarrollada y el mayor o menor espacio ocupado, en relación con el tiempo de ocupación, determinado en días o fracción, conforme a la siguiente tarifa:
+Tipo de actividad/superficie ocupada
+ Euros/m2/día o fracción 1
+ Actividades a que se refiere el artículo 16.1.e).
+ Superficie superior a 1.500 m2 y hasta 5.000 m2.
+ 0,041918
+ Actividades a que se refiere el artículo 16.1.e).
+ Superficie superior a 5.000 m2 y hasta 10.000 m2.
+ 0,036328
+ Actividades a que se refiere el artículo 16.1.e).
+ Superficie superior a 10.000 m2y hasta 20.000 m2.
+ 0,027945
+ Actividades a que se refiere el artículo 16.1.e).
+ Superficie superior a 20.000 m2.
+ 0,019562
+ Habitacional, residencial y hotelero.
+ Superficie superior a 1.500 m2 hasta 6.000 m2.
+ 0,083835
+ Habitacional, residencial y hotelero.
+ Superficie superior a 6.000 m2 y hasta 10.000 m2.
+ 0,055890
+ Habitacional residencial y hotelero.
+ Superficie superior a 10.000 m2.
+ 0,033534
+ 1 Importes actualizados a 2024.
+En las actividades a que se refiere el artículo 16.1.e) de esta ley a desarrollar en superficies de hasta 10.000 m2, a los usuarios que desarrollen una actividad complementaria a la principal objeto de la concesión se les incrementará, en toda la superficie, la tarifa antes indicada con un importe de 0,008383 €/m2 día o fracción.
+En las actividades a que se refiere el artículo 16.1.e) de esta ley y en la habitacional, residencial y hotelera, desarrolladas en los puertos ubicados en la provincia de Málaga, al importe resultante de aplicar la tarifa por el número de m2 se le aplicará un recargo adicional del 130 %.
+Asimismo, cuando estas concesiones conlleven la ocupación de una edificación ejecutada a cargo de la Administración del Sistema Portuario Andaluz, se computará, además de los importes anteriormente referidos, el 100 % de la anualidad de amortización de los activos inmobiliarios, sin que en ningún caso el importe sea inferior al 1,5 % del coste histórico de los mismos.
+7. Vencido el plazo, y hasta tanto se materialice la reversión efectiva de los bienes ocupados, se reputará vigente el título ocupacional con todas las obligaciones que el mismo supone para el autorizado o concesionario, devengándose en consecuencia la tasa correspondiente, con las actualizaciones que en su caso proceda.
+Se modifica el apartado IV.1.b) por la disposición final 4.4 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se modifica el apartado 6 por la disposición final 2.2 de la Ley 12/2023, de 26 de diciembre. Ref. BOE-A-2024-447
+ Se modifica el párrafo 1.a) del apartado 1 del epígrafe IV por la disposición final 7.5 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se modifican los apartados III y IV por la disposición final 5.4 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+ Se modifica el apartado IV por el art. único.24 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifican los apartados III y IV.a) por la disposición final 9.7 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Artículo 64
+
+Artículo 64. Tasa por aprovechamiento especial para la prestación de servicios públicos portuarios o el ejercicio de actividades comerciales o industriales en los puertos.
+I. Hecho imponible.
+Constituye el hecho imponible la prestación de servicios públicos portuarios o el ejercicio de actividades comerciales o industriales en los puertos.
+En el supuesto de que las anteriores actividades impliquen la ocupación del dominio público portuario, serán exigibles las tasas que procedan por ambos conceptos, distinguiendo entre los conceptos de tasa por ocupación y tasa por actividad o prestación del servicio.
+No obstante, se aplicará únicamente lo establecido en el artículo 63 para la tasa por ocupación privativa, en cuanto a obligados tributarios, periodo impositivo, devengo, exigibilidad y cuota, en las concesiones de superficies de ocupación del dominio público portuario superiores a 1.500 metros cuadrados que tengan por único objeto:
+a) El ejercicio de actividades comerciales o industriales que contribuyan a la integración urbana y territorial de los puertos, a su equilibrio social y económico, a la generación de empleo, al crecimiento de la economía andaluza y a la articulación de las relaciones entre el puerto y el espacio urbano.
+b) O el ejercicio de la actividad habitacional, residencial y hotelera, y sus servicios complementarios, siempre que dichos usos sean autorizados por el Consejo de Ministros conforme a lo previsto en el artículo 25.3 de la Ley 22/1988, de 28 de julio, de Costas.
+II. Obligados tributarios.
+Será sujeto pasivo de la tasa, a titulo de contribuyente, quien preste el servicio público portuario, ejerza la actividad comercial o industrial en el puerto, o, en su caso, la persona titular de la concesión o autorización de ocupación del dominio, según proceda.
+III. Período impositivo, devengo y exigibilidad.
+1. El período impositivo coincidirá con el año natural, salvo en los siguientes supuestos:
+a) Cuando el aprovechamiento especial tenga un plazo inferior al año, el período impositivo coincidirá con el determinado en el título habilitante.
+b) Cuando, siendo el plazo del aprovechamiento especial superior al año, el inicio o el cese de la actividad o prestación del servicio sea en días diferentes del 1 de enero o 31 de diciembre, respectivamente, el período impositivo coincidirá con la duración del período de actividad o prestación del servicio durante ese año.
+2. La tasa se devengará el día 1 de enero de cada ejercicio, con las siguientes excepciones:
+a) El año de inicio de la actividad, la tasa se devengará en la fecha en que se inicia la misma, o, en el caso de actividades que impliquen la ocupación del dominio público portuario, en el momento en que se cumpla el plazo máximo para el inicio de la actividad establecido en el título que ampare la prestación del servicio público o el ejercicio de la actividad industrial o comercial.
+b) En el supuesto de que por ejecución de obras u otras causas justificadas se produjese una demora en el inicio de la actividad, el devengo de la tasa no se producirá hasta el momento en que se inicie la misma.
+3. Los elementos de cuantificación de la cuota serán los regulados en la normativa vigente en la fecha del devengo, conforme a lo dispuesto en los números 1 y 2 anteriores del presente apartado III.
+4. La tasa será exigible de conformidad con lo establecido en las cláusulas del título habilitante, sin que se pueda establecer un plazo de liquidación superior a un año. En el supuesto de que la tasa sea exigible por adelantado, su cuantía se calculará, para el primer ejercicio, sobre las estimaciones efectuadas en relación con el volumen del tráfico o de negocio, y, en los ejercicios sucesivos, sobre los datos del año anterior, procediéndose a la regularización de la misma al final del ejercicio en curso.
+5. La cuota correspondiente al primer período impositivo se fijará en el momento de otorgamiento de la autorización por la Agencia y deberá figurar necesariamente en las condiciones de la licencia de actividad o, en su defecto, de la concesión u ocupación privativa del dominio público, sin perjuicio de las actualizaciones anuales y, en su caso, revisiones que se efectúen, de conformidad con lo dispuesto en la Ley.
+IV. Base imponible y cuota.
+1. La base imponible de esta tasa se define como el volumen de facturación de la actividad o servicio gravado, tomando como referencia el que resulte de las cuentas anuales correspondientes al último ejercicio cuyos plazos de aprobación y de depósito en el Registro Mercantil hayan vencido a la fecha del devengo de la tasa.
+Para aquellos sujetos pasivos que no estén obligados a formular y depositar cuentas anuales en el Registro Mercantil, la base imponible se determinará a partir de la documentación contable o fiscal equivalente que refleje de manera fidedigna el volumen de facturación del último ejercicio cerrado disponible a la fecha del devengo.
+Dicho volumen de facturación será comunicado por el sujeto pasivo ante la Agencia Pública de Puertos de Andalucía mediante declaración responsable dentro de los primeros veinte días naturales del mes de octubre del año siguiente al que se refiera la facturación.
+De manera subsidiaria, en los ejercicios en que, por concurrir alguna de las circunstancias previstas en el artículo 53 de la Ley 58/2003, de 17 de diciembre, no se pueda disponer de los datos necesarios para la determinación completa de la base imponible, se aplicará el método de estimación indirecta, en los términos de dicho artículo.
+A tal efecto, se tomarán como referencia los datos correspondientes a una explotación normal de la actividad objeto del título administrativo, para lo cual se utilizará la información obrante en la Administración Portuaria de ejercicios anteriores, la facturación estimada que conste en el estudio económico presentado para el otorgamiento del título administrativo o cualquier otro medio previsto en el artículo 53.2 de la Ley 58/2003, de 17 de diciembre.
+En aquellos supuestos en los que la entidad concesionaria, autorizada o titular de la licencia de actividad desarrolle actividades distintas de las comprendidas en el objeto del título administrativo y aporte los datos desglosados, se computarán únicamente los ingresos imputables a dicho título que se integren en los ingresos de explotación.
+Respecto de las entidades sin fines lucrativos, los ingresos correspondientes a cuotas, participaciones, aportaciones dinerarias o conceptos análogos, debidamente periodificados, efectuados por los socios, asociados, comuneros, participantes o análogos, se considerarán como imputables a los efectos de determinar el volumen de facturación.
+Todo ello, sin perjuicio de los procedimientos de gestión o inspección tributaria que puedan iniciarse para la comprobación o verificación de la información declarada, conforme a lo previsto en la Ley 58/2003, de 17 de diciembre, y su normativa de desarrollo.
+La omisión o aportación de forma defectuosa de la declaración responsable a la que se refiere el presente apartado o de la información o documentación sobre facturación requerida durante el desarrollo de un procedimiento de gestión o inspección tributaria podrá constituir infracción leve o grave, según las circunstancias, tipificada en los artículos 78.l) y 79.2.h) de esta ley.
+2. La cuota se determinará aplicando a la base imponible un porcentaje, que oscilará entre el 0,5% y el 4,5%, en función del interés portuario y de su influencia en la consolidación y captación de nuevos tráficos, así como del nivel de inversión privada.
+A tal efecto, se fijan los siguientes porcentajes de las distintas actividades y servicios, aplicando mayores porcentajes a las actividades y servicios menos relacionados de forma directa con la actividad portuaria, conforme a la siguiente clasificación y graduación:
+Porcentaje
+ Directamente incluidos dentro del sector pesquero extractivo y de comercialización en primera venta de productos frescos de la pesca.
+ 0,5
+ Auxiliares de servicio directo al sector pesquero extractivo.
+ 1
+ Vinculadas al sector pesquero no extractivo (de servicios, industriales o comercialización excluida la primera venta).
+ 2
+ Actividades industriales y de servicio directo a embarcaciones comerciales y de recreo.
+ 3,5
+ Actividades complementarias no esencialmente portuarias (comerciales, de servicios, industrial no vinculadas a embarcaciones y otras).
+ 4,5
+Si en el ejercicio de la actividad concesional se desarrollaran más de una de las actividades descritas en la tabla anterior, constituirá el tipo de gravamen a aplicar el resultado de la ponderación de los tipos de gravamen establecidos, en atención a la participación relativa de cada actividad en el conjunto por la facturación o por la superficie. Si no fuera posible determinar tal participación de cada actividad, se considerará que lo hacen en igual presencia, aplicando la media de la suma de los porcentajes aplicables.
+3. Para garantizar la adecuada explotación del dominio público portuario se establece una cuantía mínima que será la mayor resultante, en el caso concreto, de la aplicación de los siguientes instrumentos de cálculo:
+3.a) La cantidad resultante de aplicar los porcentajes que correspondan según la actividad que soportan, de acuerdo con la tabla del apartado 1 de la cuota de esta tasa, a un volumen de facturación de 75 euros anuales por metro cuadrado de:
+a) Agua neta determinada como el total de la superficie de lámina de agua prevista para atraque de embarcaciones afectada por el coeficiente 0,7.
+b) Suelo destinado a área de movimiento de las edificaciones o exclusivizado mediante cerramientos.
+c) Aparcamientos, considerando como tal la superficie destinada a tal fin, a la que se sumará la superficie del viario para el acceso a las plazas desde el viario general cuando dicho acceso sea restringido.
+d) La mitad de la superficie de las explanadas destinadas a estancia en seco o invernada y al movimiento de embarcaciones para su izado o botado, no incluyéndose los edificios ni el resto de superficies cubiertas.
+3.b) La cantidad resultante de aplicar los porcentajes que se relacionan en la siguiente tabla al valor de las obras, instalaciones y equipos concesionados o autorizados, excepto en las concesiones otorgadas al sector pesquero.
+Cuando un título administrativo tenga por objeto más de una actividad afectada con un coeficiente diferente de la tabla que a continuación se detalla, se ponderará el porcentaje en función de la superficie de las diferentes actividades realizadas por el concesionario o autorizado.
+Porcentaje
+ Actividades auxiliares de sector pesquero y servicio directo al mismo.
+ 0,25
+ Actividades industriales y de servicio a embarcaciones comerciales y de recreo.
+ 0,75
+ Actividades complementarias y no portuarias.
+ 1,5
+4. Para aquellas actividades de carácter esporádico en las que prime la intensidad del uso sobre la explotación, tales como eventos, grabaciones, rodajes, ferias y otros, mediante Orden de la persona titular de la Consejería competente en materia de puertos, se establecerán, en función de los distintos supuestos de la actividad a desarrollar, la cuantía mínima a efectos de aplicación de la tasa.
+5. Vencido el plazo, y hasta tanto se materialice la reversión efectiva de los bienes ocupados, se reputará vigente el título ocupacional con todas las obligaciones que el mismo supone para el autorizado o concesionario, devengándose en consecuencia la tasa correspondiente, con las actualizaciones que en su caso proceda.
+Se modifica el apartado IV por la disposición final 4.5 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+ Se modifica el apartado I por la disposición final 5.5 de la Ley 3/2020, de 28 de diciembre. Ref. BOE-A-2021-797
+ Se modifica el apartado IV por el art. único.25 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se modifican los apartados III y IV por la disposición final 9.8 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Artículo 65
+
+Artículo 65. Bonificaciones en tasas por ocupación privativa o aprovechamiento especial.
+La Administración aplicará bonificaciones en las tasas reguladas en el presente Capítulo en los siguientes supuestos:
+a) Cuando los sujetos pasivos realicen inversiones en obras de relleno, consolidación o mejora de terrenos. La cuantía de la bonificación se determinará en función de la inversión realizada por el sujeto pasivo y la superficie total de suelo resultante integrado en la concesión otorgada, estableciéndose en función de la relación entre la inversión unitaria y el valor del terreno según la siguiente escala:
+R = Is/Vs * 100
+ Bonificación ( %)
+ 10 > R ≥ 0
+ 5
+ 20 > R ≥ 10
+ 15
+ 30 > R ≥ 20
+ 25
+ 40 > R ≥ 30
+ 35
+ 50 > R ≥ 40
+ 45
+ R ≥ 50
+ 50
+Donde:
+- Is = Inversión unitaria (€/m²) actualizada al momento en que se realice la determinación de la tasa. Sólo se tomarán las Inversiones aprobadas por la Administración Portuaria.
+Para su cálculo se dividirá el importe del coste de inversión de las obras, por la superficie total de suelo resultante integrado en la concesión otorgada.
+- Vs = Valor del suelo del Puerto en el momento de la determinación de acuerdo con la categoría en la que esté incluido.
+- R = Relación entre la inversión en obras de relleno, consolidación o mejora de terrenos y el valor de los terrenos ( %).
+La referida bonificación se aplicará a la cuantía de la tasa por ocupación privativa, correspondiente al apartado de ocupación de terrenos y no podrá exceder del 50 % de la cuantía correspondiente al mismo.
+b) Cuando la persona titular de la concesión o autorización sea algún órgano de las Administraciones públicas y el objeto de las mismas sean actividades de interés cultural o social, incluyendo las encaminadas al desarrollo, la investigación o la diversificación del sector pesquero. El importe de la bonificación será del 50 % de la cuantía del sumando de la tasa correspondiente a la ocupación de los terrenos, siempre que las actividades no estén subvencionadas por fondos públicos.
+c) Cuando la persona titular de la concesión de una terminal de manipulación de mercancías acredite la implantación de un sistema de gestión y auditoría medioambiental debidamente validado.
+La cuantía de la bonificación se determinará de conformidad con la siguiente escala, que atiende a las inversiones realizadas y a las medidas de mejora de la protección ambiental establecidas:
+Inversión (€ *106)
+ Bonificación
+ Menor de 50
+ 5 %
+ De 50 hasta 75
+ 4 %
+ De 75 hasta 100
+ 3,25 %
+ Mayor o igual a 100
+ 2,5 %
+La bonificación que resulte no podrá exceder del 5 % de la cuantía del sumando de la tasa correspondiente a la ocupación de los terrenos o, en su caso, de las aguas del puerto.
+d) Cuando la persona titular de la concesión o autorización sea una entidad perteneciente al sector pesquero y el objeto de las mismas sea la explotación de lonjas o fábricas de hielo, podrá aplicarse una bonificación de hasta el 75 % de la cuantía del sumando de la tasa por ocupación privativa, en función de las circunstancias socioeconómicas que concurran.
+Dicha bonificación se aplicará en función de los volúmenes de ventas frescas que se registren en las lonjas.
+Cuando el importe de la tasa por ocupación privativa represente un porcentaje superior al 15 % con respecto al volumen de ingresos previstos para el concesionario, estimado en un 3,5 % del total de la venta fresca en lonja, se aplicará una bonificación del 75 %.
+Cuando el importe de la tasa por ocupación privativa represente entre el 10 y el 15 %, se aplicará una bonificación del 65 %.
+Cuando el importe de la tasa por ocupación privativa represente entre el 5 y el 10 %, se aplicará una bonificación del 55 %.
+e) Cuando parte de la flota pesquera base de un puerto se encuentre en inactividad forzosa por parada biológica o vedas costeras, certificada por la Consejería competente en materia de pesca, podrá aplicarse durante el período en que concurra tal circunstancia, una bonificación del 95 % de la cuantía de las tasas por ocupación privativa y aprovechamiento especial devengadas en el título habilitante para la explotación de la lonja del puerto, siempre que tal circunstancia provoque que la venta mensual total en dicha lonja sufra una disminución superior al 20 % del volumen medio mensual de venta de pesca fresca registrado el año anterior y que la persona titular de la concesión o autorización sea una entidad perteneciente al sector pesquero.
+f) En supuestos excepcionales, y por razones de interés general, se podrá bonificar transitoriamente la tasa por aprovechamiento especial devengada por licencias de prestación de servicios portuarios con problemas de equilibrio económico, con sometimiento a los siguientes requisitos:
+– Solicitud de la persona titular de la licencia, detallando las razones del citado desequilibrio económico, acompañada de estudio económico que justifique la viabilidad técnica y económica de la explotación del servicio, del resultado de la bonificación interesada, y demás actuaciones que se comprometan, así como de las cuentas de los tres ejercicios precedentes.
+– Informe técnico de la Agencia valorando favorablemente la solicitud cursada, con especial referencia al interés general en la continuidad del servicio, la falta de personas prestadoras alternativas en caso de no continuidad, garantías ofrecidas sobre condiciones de transparencia económica de la actividad y el análisis del estudio de viabilidad presentado, junto a las cuentas que se acompañen.
+En ningún caso la bonificación aplicada excederá del treinta por ciento, siendo su período máximo de vigencia tres años, sin que dicho período exceda de la cuarta parte del total del título.
+g) Cuando el sujeto pasivo sea una asociación o entidad deportiva sin ánimo de lucro y el objeto de su título sea la gestión de atraques para la prestación de los servicios portuarios a embarcaciones deportivas o de recreo, se aplicará una bonificación del 35 por ciento de la cuota correspondiente a la tasa de ocupación privativa asociada a los espacios terrestres, los de agua y a las obras e instalaciones, destinados exclusivamente a la realización de actividades náuticas, a cuyo efecto se incluirá en cada título un plano en el que se determinen la superficie, obras e instalaciones dedicadas a dicha finalidad y siempre que se destine, al menos, un 65 por ciento de los atraques disponibles a embarcaciones con eslora inferior o igual a doce metros y se presente y ejecute un programa anual de actividades náuticas abiertas al público en general, sean o no miembros de la entidad, que suponga un gasto mínimo equivalente al importe objeto de bonificación.
+Cada entidad o asociación deberá presentar antes del 15 de septiembre el programa anual de actividades del año siguiente. La Agencia procederá a su aprobación en el plazo de tres meses siempre que dicho programa cumpla los requisitos establecidos en el primer párrafo de este apartado g).
+A estos efectos, dicho programa deberá incluir un estudio económico de las actividades a realizar y la descripción de los espacios en los que se desarrollarán las mismas.
+En el último trimestre de cada año, la Agencia comprobará el cumplimiento de los requisitos y condiciones para la aplicación de la bonificación, y en caso de que proceda, la bonificación se calculará sobre la cuota del ejercicio en el que se cumplan los requisitos y será de aplicación a la cuota del ejercicio siguiente.
+Se añade la letra g) por la disposición final 7.6 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Téngase en cuenta la disposición transitoria segunda de la citada Ley en cuanto a la aplicación de la bonificación prevista en la letra g) en el año 2023.
+ Se modifica por el art. único.26 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se añade la letra d) por la disposición final 4.2 de la Ley 12/2010, de 27 de diciembre. Ref. BOE-A-2011-1436
+
+### Artículo 65 bis
+
+Artículo 65 bis. Procedimiento de determinación de las tasas por ocupación privativa o aprovechamiento especial.
+1. El importe de las tasas por ocupación privativa o aprovechamiento especial se determinará al otorgamiento de la autorización, concesión administrativa o licencia, o la adjudicación de contrato de concesión de explotación, y a su modificación sustancial, sin perjuicio de su posterior actualización y, en su caso, revisión de conformidad con lo previsto en esta Ley y normas de desarrollo.
+En los supuestos de modificación no sustancial, se recalculará dicho importe cuando afecte a los elementos determinantes de la cuota, aplicando las determinaciones fijadas antes de esta modificación.
+2. En los procedimientos de revisión de las tasas, se dará audiencia a la persona titular de la concesión o licencia sobre la cuota resultante, los elementos determinantes de la obligación tributaria y su motivación, por un plazo no inferior a un mes.
+Transcurrido el plazo indicado, se emitirá el correspondiente informe de determinación de las tasas que se notificará junto con la primera liquidación que se emita tras la revisión, limitándose las siguientes liquidaciones a hacer expresa referencia al mismo, sin perjuicio de expresar los datos de la actualización que corresponda, bonificaciones vinculadas al periodo de devengo, o cualquier otra circunstancia que, no encontrándose en aquel informe, afecte a la cuota tributaria.
+El plazo máximo para la tramitación del procedimiento de revisión será de ocho meses, computado desde el acuerdo de inicio. Transcurrido dicho plazo, el procedimiento se considerará caducado, no pudiendo volver a iniciarse un nuevo procedimiento de revisión hasta el ejercicio siguiente.
+Se añade por el art. único.27 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## TÍTULO V
+
+Puertos y medio ambiente
+
+### Artículo 66
+
+Artículo 66. Desarrollo sostenible.
+La programación y construcción de nuevos puertos, así como la ampliación de los existentes, se realizará conforme a los principios de protección del dominio público marítimo-terrestre, desarrollo sostenible, equilibrio territorial e integración con el entorno, equilibrio de la oferta portuaria en la línea de costa y rentabilidad económica y social.
+
+### Artículo 67
+
+Artículo 67. Zonas de exclusión.
+1. La planificación territorial determinará, en su caso, las zonas de exclusión a efectos de las intervenciones reguladas en la presente ley, los niveles de protección y las prescripciones que deberán incorporar las iniciativas, con objeto de asegurar:
+a) El uso racional de los recursos naturales.
+b) La debida conservación de los ecosistemas costeros.
+c) La integración de las obras e instalaciones en el medio físico.
+d) La armonización del paisaje.
+e) La protección del patrimonio histórico.
+f) La compatibilidad con los sistemas generales y demás determinaciones urbanísticas.
+
+### Artículo 68
+
+Artículo 68. Vertidos.
+1. En el dominio público portuario se prohíbe cualquier tipo de vertido o emisión contaminante sea cual sea su procedencia, arrojar tierras, escombros, basuras, restos de la pesca, cascotes o cualquier otro material y, asimismo, los productos resultantes de la limpieza de las sentinas de los buques y otras embarcaciones.
+Quienes realizaran, aun accidentalmente, los referidos vertidos prohibidos serán responsables de cuantos costes resulten de la plena regeneración de las aguas, además de las sanciones que procedieran.
+2. No tendrán la consideración de vertidos las obras de relleno con materiales de origen terrestre o marítimo para la modificación o ampliación de puertos. En caso de vertidos de materiales no autorizados, la Agencia ordenará a quienes resulten responsables la recogida y limpieza de las aguas. En caso de incumplimiento, la Administración procederá a la ejecución subsidiaria a cargo de las personas responsables.
+3. La Agencia colaborará con las Administracionescompetentes en la prevención y control de las emergencias por contaminación accidental en la zona de servicio de los puertos que gestionen.
+
+### Artículo 69
+
+Artículo 69. Obligaciones de la persona concesionaria en relación con el medio ambiente.
+1. La persona concesionaria ejecutará, a su cargo,las medidas protectoras y correctoras establecidas en el correspondiente instrumento de prevención y control ambiental y aplicará el programa de vigilancia ambiental definido en el mismo, integrándose tanto las medidas citadas como el plan de vigilancia ambiental en las condiciones de la concesión. La vigilancia del cumplimiento de las condiciones ambientales establecidas en el instrumento de prevención y control ambiental por parte de la persona concesionaria será llevada a cabo por el organismo que establezca la normativa vigente, sin perjuicio de las funciones que corresponden a la Consejería competente en materia de puertos, para lo cual la persona concesionaria suministrará la información necesaria.
+2. La persona concesionaria establecerá y mantendrá a su cargo las instalaciones y maquinaria necesarias para asegurar la calidad de las aguas marítimas en el interior del recinto portuario, de acuerdo con las prescripciones del pliego de condiciones y la legislación sectorial aplicable en materia de protección del medio ambiente. A estos efectos, la persona concesionaria debe permitir la práctica de los controles y las inspecciones que realice el órgano administrativo competente y colaborar en ello, estando obligada a aplicar a su cargo las medidas correctoras que a consecuencia de las actuaciones mencionadas se señalen como necesarias.
+
+### Artículo 70
+
+Artículo 70. Recepción de residuos.
+Las instalaciones situadas dentro de la zona de servicio portuario y, especialmente, las que utilicen sustancias petrolíferas, químicas y petroquímicas o combustibles líquidos, cualquiera que sea su actividad, así como los astilleros y las instalaciones de reparación naval, dispondrán de instalaciones para la recepción y el tratamiento de residuos de esta naturaleza y para la limpieza de aceites, grasas y otros productos contaminantes. Además, dispondrán de los medios suficientes para prevenir y combatir los vertidos.
+
+### Artículo 71
+
+Artículo 71. Obras de dragado.
+1. Las obras de dragado en el dominio público portuario requieren autorización de la Agencia. Se requerirá informe vinculante de la Administración del Estado en los supuestos en que las obras proyectadas puedan afectar a la seguridad de la navegación, a los canales de acceso a la zona de servicio portuario, o en la determinación de las zonas de anclaje o de maniobra.
+2. El proyecto de obras de dragado contendrá los estudios técnicos y de análisis de su incidencia sobre el medio ambiente que le sean exigibles según el instrumento de prevención y control ambiental al que esté sometido en aplicación de la normativa vigente. En dicho análisis se deberá prestar especial atención a la evaluación de los efectos sobre la sedimentología y la dinámica litoral, los hábitats y especies marinas y submarinas y la posible localización de restos arqueológicos. Quedan exentos de lo anterior, salvo el estudio arqueológico si se profundiza a cotas inferiores a las alcanzadas con anterioridad, los dragados de reposición de calados nominales en el interior de los puertos, sin perjuicio de la legislación ambiental.
+3. El proyecto, junto con los estudios mencionados, se remitirá a las Consejerías competentes en materia de medio ambiente, de pesca y de cultura, para que emitan informe y cumplan los trámites previstos en la normativa de aplicación.
+4. Sin perjuicio de lo establecido en la legislación ambiental que resulte de aplicación, para la modificación o ampliación de puertos podrán realizarse obras de dragado y de relleno con materiales de origen terrestre o marítimo que por su naturaleza, disposición final o aislamiento protector no den origen a procesos de contaminación.
+
+## TÍTULO VI
+
+Policía portuaria y régimen sancionador
+
+## CAPÍTULO I
+
+Policía portuaria
+
+### Artículo 72
+
+Artículo 72. Inspección y vigilancia.
+1. Sin perjuicio de las competencias de otras Consejerías y Administraciones Públicas, se atribuye a la administración del Sistema Portuario la potestad de inspección y de vigilancia necesaria para garantizar el cumplimiento de esta ley, con relación a los servicios, operaciones, ocupaciones y actividades en general, que se desarrollen en los puertos, cualquiera que sea el régimen de uso del espacio portuario o la forma de prestación de los servicios.
+2. El personal de la Agencia Pública de Puertos de Andalucía, encargado de la inspección y vigilancia, tiene la consideración de agente de la autoridad en el ejercicio de sus funciones y los hechos constatados que se formalicen en un documento público tienen valor probatorio, en los términos establecidos por la legislación sobre procedimiento administrativo común.
+3. La potestad de inspección y vigilancia comprende,entre otras, las facultades siguientes:
+a) Acceso a las obras, construcciones e instalacionesubicadas en el recinto portuario, y el resto de los servicios, aunque sean prestados en régimen de gestión indirecta, así como a los terrenos de propiedad privada donde deban hacerse las comprobaciones y actuaciones correspondientes, sin perjuicio de la obtención de autorización judicial para la entrada en domicilio de no haber consentimiento del titular.
+b) Acceder a la documentación necesaria para elejercicio de la función inspectora, con la posibilidad de requerir, a este efecto, los informes, documentos y antecedentes que se estimen pertinentes.
+c) Proceder a la práctica de cualquier diligencia de investigación, examen o prueba que sea necesaria para la comprobación del cumplimiento de la normativa aplicable.
+d) Formular denuncias, realizar informes, levantarlas actas de inspección que se formulen en materia portuaria, pudiendo proponerse en ellas la adopción de medidas cautelares.
+e) Requerir, en el ejercicio de sus funciones, el auxilio de los Cuerpos y Fuerzas de Seguridad.
+4. Las personas concesionarias están obligadas a desarrollar labores de vigilancia, adoptando las medidas oportunas para la prevención de infracciones y presentando de forma inmediata denuncia de producirse aquellas. Asimismo prestará a la Administración portuaria asistencia en el ejercicio de la potestad de inspección.
+Se modifica el apartado 2 por el art. 64.16 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Artículo 73
+
+Artículo 73. Abandono de barcos, vehículos y otros enseres.
+1. La Agencia podrá adoptar las medidas necesarias para garantizar el tráfico portuario y la disponibilidad de los espacios portuarios, atraques y puntos de amarre. A tales efectos, podrá adoptar la declaración de situación de abandono de un barco, lo que permitirá su traslado, varada, fondeo o tratamiento como residuo.
+2. La adopción del citado acuerdo exige, con carácter previo, la audiencia al titular, armador o consignatario, y, en el caso de que no fuera esta posible, su publicación en el «Boletín Oficial de la Junta de Andalucía», tramitándose el correspondiente procedimiento.
+En las situaciones que requieran urgente intervención por requerirlo el tráfico portuario y la navegabilidad, como los supuestos en los que el fondeo o localización de un barco en aguas portuarias obstaculizara el acceso al canal de navegación o impidiera el paso de la bocana del puerto, la Agencia podrá adoptar las medidas provisionales de emergencia que sean necesarias.
+3. A los efectos de esta ley se consideran abandonados:
+a) Los barcos que permanezcan atracados, amarrados o fondeados en el mismo lugar dentro del puerto, durante más de seis meses consecutivos, sin actividad apreciable exteriormente, cuando no se hubieran abonado las tasas o tarifas correspondientes a dichos períodos.
+b) Los barcos que no tengan matrícula o los datos suficientes para la identificación de la persona titular o consignataria de los mismos, que se encuentren en el puerto sin autorización.
+4. Corresponde a la Agencia la propiedad de los buques que hayan sido declarados en situación de abandono de acuerdo con esta ley.
+5. La Agencia, sin perjuicio de las competencias municipales, podrá declarar en abandono los vehículos, maquinaria y enseres en general, en el ámbito del dominio público portuario, siempre que permanezcan por un período superior a un mes en el mismo lugar y presenten desperfectos que permitan presumir racionalmente la situación de abandono.
+
+### Artículo 74
+
+Artículo 74. Medidas para garantizar la seguridad en los espacios portuarios.
+1. La Agencia podrá prohibir o limitar el tránsito depersonas y vehículos en los espacios portuarios por razones de seguridad, al objeto de impedir accidentes, preservar el dominio público portuario o las embarcaciones.
+2. Dichas limitaciones se regularán en los Planes de Usos de los Espacios Portuarios, títulos concesionales, o mediante resolución específica al respecto de la Agencia.
+3. Para el otorgamiento de licencias de actividad o de títulos de ocupación, ya sea por autorización, concesión o a través del contrato de atraque, la Agencia podrá exigir la contratación de pólizas de seguros de responsabilidad civil y/o de daños para la correspondiente cobertura de riesgos que garanticen las responsabilidades derivadas de las lesiones, daños, y averías que ocasionen al dominio público portuario o a su personal o a terceros, como consecuencia del ejercicio de la actividad autorizada o de la utilización de obras e instalaciones portuarias. Asimismo, podrá denegar la prestación de servicios portuarios, rescindir los contratos formalizados para prestación de los mismos, o las licencias para el desarrollo de actividades comerciales o industriales, o resolver por caducidad la correspondiente autorización o concesión, de no acreditarse la vigencia de dichas pólizas de seguros.
+4. La Agencia, cuando una embarcación presente peligro de hundimiento en el puerto, si, requerido el titular, armador o consignatario para que abandone el puerto o repare el barco, este no lo hace, podrá trasladarlo o proceder a su hundimiento, a costa de aquel, en donde no perjudique la actividad portuaria, la navegación o la pesca.
+En los supuestos de hundimiento de buques en las aguas del puerto, la Agencia indicará a sus titulares, armadores o a las compañías aseguradoras dónde deben situar sus restos o el buque una vez reflotado, dentro del plazo que al efecto determine, así como las garantías o medidas de seguridad a tomar para evitar un nuevo hundimiento.
+Si incumplieran los acuerdos de la Agencia, esta podrá utilizar para el rescate del buque hundido los medios de ejecución forzosa previstos en el ordenamiento jurídico.
+5. Las operaciones y actividades productivas que se desarrollen en el puerto se programarán y ejecutarán con sujeción a lo dispuesto en la normativa en materia de prevención de riesgos laborales.
+Se modifica el apartado 3 por el art. único.28 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 75
+
+Artículo 75. Medidas para garantizar el cobro de los ingresos.
+1. El impago reiterado de las tasas por la prestaciónde los servicios portuarios faculta a la Agencia a suspender temporalmente la prestación del servicio a las personas deudoras. Se considerará impago reiterado el impago de tres liquidaciones consecutivas o cinco alternas en un período de dos años.
+2. En los supuestos de personas, físicas o jurídicas con deudas pendientes con la Agencia o que no acrediten domicilio en España, la Agencia podrá exigir la constitución de garantías o el pago anticipado, en los términos que se establezcan reglamentariamente, con objeto de garantizar el cobro del importe de las tasas, pudiendo ser causa de denegación de la prestación requerida el no atender el requerimiento al respecto.
+3. En los casos de afección del servicio portuario a un bien concreto, embarcaciones, mercancías, vehículos o cualquier objeto, la Agencia podrá condicionar su prestación a la debida identificación de la persona titular, mediante matrícula o instrumento análogo, en la forma que por la propia Agencia se determine, así como en caso de no estar previsto su pago anticipado, a la constitución de garantía, estando facultada para retener, con devengo de las tasas que correspondan por ocupación u otros conceptos, el bien, sin autorizar la salida, hasta el pago íntegro de la deuda.
+Se añade el apartado 3 por el art. único.29 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Artículo 76
+
+Artículo 76. Prerrogativas de la Administración.
+1. La administración del Sistema Portuario de Andalucía dispondrá de las prerrogativas necesarias para adoptar las medidas que garanticen el interés común en orden a la óptima gestión del puerto. En tal sentido, la contratación del servicio, incluso previo abono de su correspondiente tarifa, no impedirá que la Administración pueda motivadamente suspender o cancelar la prestación del mismo y, en consecuencia, ordenar retirar o trasladar la mercancía o elemento, desatracar la embarcación, cambiar de lugar de amarre o fondeo o, incluso, abandonar el puerto si así fuera ordenado por la administración del Sistema Portuario de Andalucía. En estos supuestos se tendrá derecho a la devolución del importe de los servicios abonados por adelantado.
+2. La administración del Sistema Portuario de Andalucía, con independencia de la tramitación de expediente sancionador, podrá ordenar la paralización inmediata de las obras, el precinto de las instalaciones, y la suspensión de los usos y de las actividades que no dispongan del título administrativo correspondiente o que no se ajusten a las condiciones del título otorgado.
+3. La Agencia podrá proceder a la inmovilización decualquier embarcación, vehículo, mercancía o cualquier objeto que se encuentre en el puerto sin autorización o en lugar distinto al autorizado, así como a su traslado al lugar del recinto portuario que se estime conveniente, sin perjuicio del devengo de la tasa que corresponda y del correspondiente procedimiento sancionador, si procediera.
+Dicha inmovilización se mantendrá en los supuestos de transmisión del bien, que quedará en todo caso afecto a la deuda resultante de la estancia en el puerto.
+
+## CAPÍTULO II
+
+Régimen sancionador
+
+## Sección 1
+
+Sección 1.ª Infracciones
+
+### Artículo 77
+
+Artículo 77. Concepto y clasificación de las infracciones.
+1. Son infracciones administrativas en materia depuertos competencia de la Comunidad Autónoma de Andalucía las acciones u omisiones tipificadas y sancionadas por la presente ley.
+2. Las infracciones se clasifican en leves, graves ymuy graves.
+
+### Artículo 78
+
+Artículo 78. Infracciones leves.
+Son infracciones leves las acciones u omisiones que, no teniendo la consideración de infracción grave o muy grave, estén tipificadas en alguno de los apartados siguientes:
+a) El incumplimiento de las obligaciones contenidas en el reglamento que corresponda y de las prescripciones para cada servicio dictadas por la Agencia, así como de las medidas adoptadas en uso de sus potestades de policía portuaria de conformidad con esta ley.
+b) La realización de operaciones marítimas con peligro para las obras, las instalaciones, los equipos portuarios, los barcos o las personas, o sin adoptar las medidas de seguridad establecidas.
+c) La ocupación del dominio público portuario sin elcorrespondiente título habilitante o el incumplimiento de las condiciones del otorgado, siempre que no se obstaculice el desarrollo normal de las actividades portuarias.
+d) La realización de obras o instalaciones sin elcorrespondiente título habilitante o el incumplimiento de las condiciones del otorgado, siempre que no se obstaculice el desarrollo normal de las actividades portuarias y el valor de la obra ejecutada sea inferior a 100.000 euros, en los supuestos en que se atiendan en el plazo otorgado los requerimientos de paralización.
+e) La pesca en las aguas interiores del puerto.
+f) El baño en las aguas interiores del puerto.
+g) El desembarco irregular de la pesca, el transportede la misma sin la preceptiva autorización, o el ejercicio de actividad comercial o industrial sin la correspondiente licencia.
+h) Cualquier actuación u omisión que cause daño o menoscabo a los bienes del dominio público portuario, o a su uso o explotación, siempre que no se obstaculice el desarrollo normal de las actividades portuarias.
+i) El vertido no autorizado procedente de barcos o artefactos flotantes de productos sólidos, líquidos o gaseosos en las aguas portuarias, cuando no constituya infracción grave o muy grave.
+j) La cesión de derechos sobre los elementos portuarios sin cumplir los requisitos establecidos en esta ley.
+k) La obstrucción a las actuaciones de inspección o vigilancia que no deba ser calificada como grave.
+l) La omisión o aportación de forma defectuosa, intencionada o por negligencia inexcusable de la información que se tenga que suministrar a la Administración portuaria en virtud de disposición legal o reglamentaria.
+
+### Artículo 79
+
+Artículo 79. Infracciones graves.
+1. Son infracciones graves las acciones u omisiones tipificadas como infracciones leves en las letras a), b), f), h), i), k), y l) del artículo 78 cuando concurra alguna de las siguientes circunstancias:
+a) Provoquen lesiones a las personas que puedanmotivar su baja por incapacidad laboral no superior a siete días o, aun no dando lugar a lesiones, hayan producido un riesgo grave para la salud o la integridad física de las personas.
+b) Provoquen daños o perjuicios superiores a 6.000 euros e inferiores a 60.000 o impidan parcialmente el normal funcionamiento de las instalaciones durante más de veinticuatro horas.
+2. Además, constituyen infracciones graves:
+a) La ocupación del dominio público portuario sin elcorrespondiente título habilitante o el incumplimiento de las condiciones del otorgado, cuando se obstaculice el desarrollo normal de las actividades portuarias, siempre que se haya atendido el requerimiento expreso de la Agencia para la cesación de la conducta abusiva. Todo ello sin perjuicio de la revocación del título si procediese.
+b) La realización de obras o instalaciones, sin el correspondiente título habilitante o el incumplimiento de las condiciones del otorgado, cuando se obstaculice el desarrollo normal de las actividades portuarias, o el valor de la obra ejecutada sea igual o superior a 100.000 euros e inferior a 300.000, siempre que se haya atendido el requerimiento expreso de la Agencia para la cesación de la conducta abusiva. Todo ello sin perjuicio de la revocación del título si procediese.
+c) La realización de obras o instalaciones, sin el correspondiente título habilitante o el incumplimiento de las condiciones del otorgado, cuando, siendo el valor de la obra ejecutada inferior a 100.000 euros, se haya desatendido el requerimiento expreso de la Agencia para la cesación de la conducta abusiva. Todo ello sin perjuicio de la revocación del título si procediese.
+d) El falseamiento de cualquier información aportada a la Administración portuaria en cumplimiento de una obligación legal o a requerimiento de esta.
+e) El incumplimiento de la normativa establecidapara las operaciones de estiba o desestiba en su legislación específica.
+f) El vertido no autorizado procedente de barcos oartefactos flotantes de productos sólidos, líquidos o gaseosos en las aguas portuarias, cuando supongan un riesgo grave a la salud de las personas o al medio ambiente.
+g) La obstrucción a las actuaciones de inspección o vigilancia que impida el ejercicio de las funciones que legal o reglamentariamente tenga atribuidas la Agencia.
+h) La omisión o aportación de forma defectuosa, intencionada o por negligencia inexcusable de la información que se tenga que suministrar a la Administración portuaria en virtud de disposición legal o reglamentaria, cuando se haya desatendido el requerimiento de la Administración.
+
+### Artículo 80
+
+Artículo 80. Infracciones muy graves.
+1. Son infracciones muy graves las acciones u omisiones tipificadas como infracciones leves siempre que concurra alguna de las siguientes circunstancias:
+a) Provoquen lesiones a las personas que puedanmotivar su baja por incapacidad laboral superior a siete días o, aun no dando lugar a lesiones, hayan producido un riesgo muy grave para la salud o la integridad física de las personas.
+b) Provoquen daños o perjuicios que sean iguales o superiores a 60.000 euros o impidan totalmente el normal funcionamiento de los bienes o de las instalaciones.
+2. Además, constituyen infracciones muy graves:
+a) La ocupación del dominio público portuario sin elcorrespondiente titulo habilitante o el incumplimiento de las condiciones del otorgado, cuando se obstaculice el desarrollo normal de las actividades portuarias, siempre que se haya desatendido el requerimiento expreso de la Agencia para la cesación de la conducta abusiva. Todo ello sin perjuicio de la revocación del título si procediese.
+b) La realización de obras o instalaciones sin elcorrespondiente título habilitante o el incumplimiento de las condiciones del otorgado, o cuando el valor de la obra ejecutada sea superior a 300.000 euros.
+c) La realización de obras o instalaciones, sin el correspondiente título habilitante o el incumplimiento de las condiciones del otorgado, cuando, siendo el valor de la obra ejecutada superior a 100.000 euros e igual o inferior a 300.000 euros, se haya desatendido el requerimiento expreso de la Agencia para la cesación de la conducta abusiva. Todo ello sin perjuicio de la revocación del título si procediese.
+d) El vertido no autorizado desde barcos o artefactos flotantes de productos sólidos, líquidos o gaseosos en las aguas portuarias, cuando supongan un riesgo muy grave a la salud de las personas o al medio ambiente.
+e) El incumplimiento de las normas e instrucciones sobre la manipulación y almacenamiento en tierra de mercancías peligrosas o la ocultación de estas o de su condición.
+
+### Artículo 81
+
+Artículo 81. Prescripción de las infracciones.
+1. El plazo de prescripción de las infracciones será decinco años para las muy graves, tres años para las graves y un año para las leves. El plazo comenzará a contarse desde el día en que la infracción se haya cometido.
+2. En los supuestos de infracciones continuadas, el plazo se iniciará desde el momento de cese de las mismas.
+3. Aunque haya transcurrido el plazo de prescripción de las infracciones administrativas, podrá exigirse la restitución de las cosas y su reposición a su estado anterior mientras no hayan prescrito las correspondientes acciones civiles, instruyéndose al efecto el correspondiente procedimiento.
+
+### Artículo 82
+
+Artículo 82. Responsables de las infracciones.
+1. Son responsables de las infracciones recogidas en esta ley las personas autoras de los hechos u omisiones tipificados, y en particular:
+a) En el caso de incumplimiento de las condiciones de un contrato o de un título administrativo, la persona titular de este o tercera cesionaria. En los supuestos de omisiones en la autorización e inscripción de la cesión, la responsabilidad será solidaria entre la persona titular formal del uso y disfrute de la instalación y la autora material.
+b) En el supuesto de infracciones relacionadas con las embarcaciones, los titulares, armadores y consignatarios con carácter solidario y, subsidiariamente, los capitanes o patrones.
+c) En el caso de obras, instalaciones y actividades sintítulo suficiente, quien promueva la actividad, el empresario o empresaria que la ejecute, quien desempeñe la dirección técnica y la persona cesionaria de derechos de uso sobre elementos portuarios, cuando concurran.
+d) En el caso de infracciones por manipulación demercan cías, con carácter solidario, el personal que manipule las mismas y la empresa estibadora responsable de dichas operaciones y, subsidiariamente, el consignatario de las mercancías.
+2. Las personas jurídicas son responsables de las infracciones cometidas por sus órganos o agentes.
+3. Cuando una infracción sea imputada a una persona jurídica, serán responsables subsidiarios las personas que integren sus órganos rectores o de dirección, siempre que la infracción sea imputable a su conducta dolosa o negligente.
+4. En los supuestos de herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o patrimonio separado, serán responsables solidarios las personas copartícipes o cotitulares, en proporción a sus respectivas participaciones.
+
+## Sección 2
+
+Sección 2.ª Sanciones
+
+### Artículo 83
+
+Artículo 83. Normas generales.
+1. Las acciones u omisiones constitutivas de infracción serán sancionadas según las disposiciones contenidas en esta ley.
+2. Las sanciones por la comisión de infracciones se impondrán con independencia de las demás medidas de restauración del orden jurídico previstas en esta ley. En particular, resultará exigible en todo caso la restitución de las cosas y su reposición a su estado anterior.
+3. Las sanciones que se impongan a las distintaspersonas responsables de una misma infracción tienen entre sí carácter independiente.
+
+### Artículo 84
+
+Artículo 84. Concurrencia de infracciones. Infracciones continuadas.
+1. A la persona responsable de dos o más infracciones tipificadas en esta ley se le impondrán las sanciones correspondientes a cada una de ellas.
+2. Lo dispuesto en el apartado anterior no es aplicable en el caso de que un solo hecho constituya dos o más infracciones, o cuando una de ellas sea medio para cometer la otra.
+En estos casos se aplicará en su mitad superior la sanción prevista para la infracción más grave, sin que pueda exceder de la que represente la suma de las que correspondería aplicar si se sancionaran separadamente las infracciones. Cuando la sanción así computada exceda de este límite, se sancionarán las infracciones por separado.
+3. En los supuestos de infracción continuada, en los que la realización de una pluralidad de acciones u omisiones infringen el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión, se aplicará también en la mitad superior la sanción prevista para la infracción más grave.
+
+### Artículo 85
+
+Artículo 85. Concurrencia de normas. Vinculaciones con el orden penal.
+1. Las sanciones de esta ley no impedirán la imposición de las previstas en otras leyes por los mismos hechos y cuando los intereses públicos protegidos sean distintos.
+2. En cualquier momento del procedimiento sancionador en que los órganos instructores estimen que los hechos también pudieran ser constitutivos del ilícito penal, lo comunicarán al Ministerio Fiscal.
+En estos supuestos, así como cuando se tenga conocimiento de la sustanciación de actuaciones penales por los mismos hechos, si se estima que existe identidad de sujeto, hecho y fundamento entre la infracción administrativa y la infracción penal que pudiera corresponder, el órgano competente para la resolución del procedimiento acordará la suspensión hasta que recaiga resolución judicial firme.
+La sanción penal excluirá la imposición de la sanción administrativa en los casos en que se aprecie identidad de sujeto, hecho y fundamento. De no haberse estimado la existencia de delito o falta, la Administración continuará la tramitación del procedimiento sancionador, teniendo en cuenta los hechos declarados probados en la resolución del órgano judicial competente.
+
+### Artículo 86
+
+Artículo 86. Clasificación.
+Las infracciones se sancionarán en los términos siguientes:
+a) Las leves, con multa de hasta 60.000 euros.
+b) Las graves, con multa de 60.001 a 200.000 euros.
+c) Las muy graves, con multa de 200.001 a 1.200.000 euros.
+No obstante, las infracciones graves y muy graves establecidas en los artículos 79.2 c) y 80.2 c) serán sancionadas con multas del 50% del valor de las obras e instalaciones ejecutadas, con un importe mínimo, en todo caso, de 3.000 euros.
+
+### Artículo 87
+
+Artículo 87. Sanciones accesorias. Comiso del beneficio ilícito.
+1. En los supuestos de infracciones graves o muy graves se podrá acordar, además de la de multa, alguna de las sanciones siguientes:
+a) Suspensión del ejercicio de las actividades empresariales o profesionales en la zona de servicio del puerto, durante un plazo de hasta dos años.
+b) Inhabilitación para ser titular de autorizaciones,licencias y concesiones administrativas, o de contratos de gestión de servicios, por un plazo de hasta dos años en el caso de infracciones graves, y de dos a cuatro años en el caso de infracciones muy graves.
+2. Se podrá imponer también, junto con las sanciones que procedan de conformidad con los artículos anteriores, el comiso del beneficio obtenido con la infracción.
+Este beneficio se calculará, cuando no pueda ser determinado exactamente, con criterios estimativos, e incluirá el aumento de ingresos y el ahorro de gastos que haya supuesto directa o indirectamente la infracción, sin descontar las multas ni los gastos o daños dimanantes de la misma.
+
+### Artículo 88
+
+Artículo 88. Graduación de las sanciones.
+1. Para determinar el importe de la sanción se atenderá a las circunstancias agravantes y atenuantes establecidas en el artículo 89.
+2. Estas circunstancias, agravantes o atenuantes, nose apreciarán en aquellos supuestos en los que esta ley las haya incluido en el tipo infractor o hayan sido tenidas en cuenta para calificar la gravedad de la infracción.
+
+### Artículo 89
+
+Artículo 89. Agravantes y atenuantes.
+1. Son circunstancias agravantes:
+a) La intencionalidad en la comisión de la infracción.
+b) El empleo de violencia o cualquier otro tipo de coacción sobre el funcionario o personal público encargado del cumplimiento de la legalidad, salvo que los hechos sean constitutivos de ilícito penal
+c) El aprovechamiento en beneficio propio de una grave necesidad pública o de los particulares perjudicados.
+d) La reincidencia. A efectos de la graduación de sanciones, se considera reincidencia la comisión de una infracción de la misma naturaleza antes del plazo establecido para la prescripción de la primera infracción, cuando así haya sido declarado por resolución firme en vía administrativa.
+e) El incumplimiento de disposiciones en materia de planificación de emergencias ante la contaminación del litoral.
+2. Son circunstancias atenuantes:
+a) La ausencia de intención de causar un daño tan grave a los intereses públicos o privados afectados.
+b) La reparación voluntaria y espontánea del daño causado.
+c) La paralización de las obras o el cese en la actividad o uso, de modo voluntario, antes del inicio del expediente sancionador.
+
+### Artículo 90
+
+Artículo 90. Prescripción de las sanciones.
+1. Las sanciones impuestas por infracciones muygraves prescriben a los tres años, las impuestas por infracciones graves a los dos años y las impuestas por infracciones leves al año. El plazo de prescripción de las sanciones se inicia el día siguiente a aquel en que ha adquirido firmeza la resolución que las impone.
+2. La iniciación del procedimiento de ejecución conconocimiento de la persona interesada interrumpirá la prescripción, volviendo a transcurrir el plazo si aquel se paraliza durante más de un mes por causa no imputable a la persona infractora.
+
+## Sección 3
+
+Sección 3.ª Medidas no sancionadoras
+
+### Artículo 91
+
+Artículo 91. Medidas de carácter no sancionador.
+1. Las acciones u omisiones que sean constitutivas de infracción, además de la imposición de las sanciones procedentes, darán lugar a la adopción, en su caso, de las siguientes medidas:
+a) Obligación de restituir los bienes y de reponer la situación alterada al estado anterior a la comisión de la infracción.
+b) Obligación de indemnizar los daños y los perjuicios causados.
+c) Retirada de embarcaciones, vehículos y cualquier clase de objetos con estancia no autorizada o en lugares no permitidos.
+d) Caducidad del título administrativo, cuando sea procedente por incumplimiento de sus condiciones.
+e) Obligación del pago de la tasa correspondiente alos servicios disfrutados sin autorización, o desobediencia de orden de salida.
+2. En el supuesto de que la reparación de un daño sea urgente para garantizar el buen funcionamiento del puerto, la entidad pública o privada encargada de la explotación la llevará a cabo de forma inmediata, siendo los gastos a cargo de quien lo haya causado.
+3. En los supuestos de cesión de elementos concesionales, cuando no sea posible determinar el responsable de la realización de las obras o instalaciones no autorizadas, la reparación será a costa de la persona cesionaria en concepto de responsabilidad subsidiaria, sin perjuicio de las acciones de regreso que pudieran corresponder.
+4. Si la restitución y la reposición al estado anteriorfuera inviable, las personas responsables de la infracción abonarán las indemnizaciones que correspondan. La cuantía de la indemnización se fijará según los siguientes criterios, aplicando aquel que proporcione mayor valor:
+a) El valor teórico de la restitución y la reposición.
+b) El valor de los bienes maltrechos.
+
+## Sección 4
+
+Sección 4.ª Competencia y procedimiento
+
+### Artículo 92
+
+Artículo 92. Órganos competentes y tramitación.
+1. La competencia para imposición de las sancionesprevistas en la presente ley corresponde a la administración del Sistema Portuario de Andalucía, de acuerdo con lo que dispone el Título I de la presente ley y los reglamentos que la desarrollen.
+2. El procedimiento administrativo sancionador se tramitará de acuerdo con lo que disponen la presente ley y la normativa sobre procedimiento sancionador general en la legislación vigente de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. El plazo máximo para resolver y notificar en el procedimiento sancionador será de un año, a contar desde la fecha de su iniciación.
+4. Transcurrido el plazo máximo para resolver sin que se hubiese dictado y notificado la resolución, se declarará caducado el procedimiento. En el supuesto de que la infracción no estuviera prescrita, deberá iniciarse un nuevo procedimiento sancionador.
+
+### Artículo 93
+
+Artículo 93. Medidas provisionales.
+1. En cualquier momento de instrucción de los procedimientos sancionadores, la Administración portuaria podrá adoptar, mediante acuerdo motivado, las medidas de carácter provisional que sean necesarias para asegurar la eficacia de la resolución que pueda recaer, para preservar los intereses generales o para evitar el mantenimiento de los efectos de la infracción.
+2. La Administración portuaria puede ordenar la paralización inmediata de las obras o de las instalaciones, y la suspensión de los usos y de las actividades que no disponen de título administrativo, o que no se ajustan a las condiciones del título.
+3. La Administración portuaria podrá acordar la retirada de los materiales, de la maquinaria o de los equipos que se utilizan en las obras o actividades a cargo del interesado y el precinto de las obras o de las instalaciones, para asegurar la efectividad de la resolución a que se refiere el apartado 2. A estos efectos, podrá requerir la colaboración de las Fuerzas y Cuerpos de Seguridad del Estado.
+4. La Administración portuaria podrá ordenar laadopción inmediata de las medidas necesarias para evitar la contaminación generada por todo tipo de vertidos.
+5. Antes de la iniciación del procedimiento se podránadoptar, en los casos de urgencia y para la protección provisional de los intereses implicados, las medidas provisionales que resulten necesarias, incluida la suspensión de la actividad y la paralización de las obras, de acuerdo con el artículo 72. 2 de la Ley 30/1992, de 27 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 94
+
+Artículo 94. Ejecución forzosa. Multas coercitivas.
+1. La Administración portuaria podrá proceder a la ejecución forzosa de sus actos administrativos, de conformidad con la legislación de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Para la ejecución de los actos derivados de losprocedimientos sancionadores y de aquellos que sean dictados en el ejercicio de las funciones de policía portuaria, en la cuantía que reglamentariamente se determine, la Administración portuaria podrá imponer multas coercitivas, que pueden reiterarse hasta la realización completa de la conducta exigida, de acuerdo con el artículo 99.1 de la Ley 30/1992, de 27 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La competencia para fijar las multas coercitivas esdel mismo órgano competente para la resolución del expediente sancionador, y el importe de cada una de ellas no puede ser superior al 20% de la cuantía de la multa o del valor económico de las obras o actuaciones exigidas.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Agencia Pública de Puertos de Andalucía.
+La Empresa Pública de Puertos de Andalucía, creada en virtud de la disposición adicional décima de la Ley 3/1991, de 28 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 1992, pasa a denominarse Agencia Pública de Puertos de Andalucía.
+En el ejercicio de sus competencias, la Agencia estará investida, en su caso, de las potestades inherentes al carácter administrativo de las mismas, con plena sujeción al ordenamiento jurídico público. Igualmente la Agencia asume las competencias que venia ejerciendo la Empresa Pública de Puertos de Andalucía de conformidad con lo previsto en la Ley 5/2001, de 4 de junio, por la que se regulan las áreas de transporte de mercancías en la Comunidad Autónoma de Andalucía.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Revisión de la cuantía de las multas y las expresadas como criterios de gradación.
+Se habilita al Consejo de Gobierno para que reglamentariamente revise el importe de las multas previstas en esta ley y las cuantías expresadas como criterios de gradación.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Planes Especiales de ordenación de los puertos competencia del Estado
+La ordenación del sistema general portuario en los puertos de interés general de competencia estatal se llevará a cabo a través de un Plan Especial, conforme a lo dispuesto en el artículo 14.1 a) de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía, teniendo, a los efectos previstos en la citada normativa, por su objeto y naturaleza incidencia e interés supramunicipal.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Puertos, instalaciones y otros títulos estatales a integrar en el Sistema Portuario de Andalucía.
+1. En cumplimiento de las previsiones recogidas en el Estatuto de Autonomía para Andalucía, se integrarán en el Sistema Portuario de Andalucía:
+a) La gestión de los puertos de interés general cuando el Estado no se reserve su gestión directa de conformidad con el artículo 64.2.1.ª del Estatuto.
+b) La gestión de los títulos de ocupación y uso deldominio público marítimo terrestre, especialmente el otorgamiento de autorizaciones y concesiones, incluyendo lo relativo a su régimen económico financiero, cuando el uso previsto sea complementario de la actividad portuaria, de conformidad con el artículo 56.6 del Estatuto.
+La integración en el Sistema Portuario de Andalucía será efectiva cuando la gestión de los puertos y los títulos sea asumida por la Comunidad Autónoma.
+2. Asimismo, podrá integrarse en el Sistema Portuario de Andalucía la gestión de las instalaciones pesqueras y náutico-deportivas situadas en estos puertos de interés general cuando no sean gestionadas directamente por el Estado.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Declaración de Interés Autonómico del proyecto ALETAS.
+Se declara de Interés Autonómico el proyecto de desarrollo de actividades logísticas, empresariales, industriales tecnológicas y científicas (ALETAS) en la reserva de terrenos delimitada en la zona de Las Aletas, de la Bahía de Cádiz, y tendrá la consideración de sistema general de interés supramunicipal.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Aplicación del régimen de tasas por ocupación privativa y aprovechamiento especial.
+Tras la entrada en vigor de la presente Ley, el régimen de tasas por ocupación privativa y aprovechamiento especial para la prestación de servicios públicos portuarios o el ejercicio de actividades comerciales o industriales en los puertos, establecido en los artículos 63 y 64, resultará de aplicación a todas las concesiones y autorizaciones en vigor en instalaciones portuarias de competencia de la Junta de Andalucía, cualquiera que fuera la fecha de otorgamiento de las mismas.
+Véase, sobre mantenimiento de las tasas señaladas en esta disposición, la disposición adicional única del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+ Se añade por la disposición final 9.9 de la Ley 5/2012, de 26 de diciembre. Ref. BOE-A-2013-497
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Especialidad del personal del organismo portuario autonómico.
+De acuerdo con la disposición adicional vigesimotercera del Real Decreto legislativo 2/2011, de 5 de septiembre, por el que se aprueba el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, no será de aplicación al personal del organismo portuario autonómico lo dispuesto en el apartado 2 del artículo 9 del Texto Refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto legislativo 5/2015, de 30 de octubre.
+Se añade por el art. 64.19 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Expedientes de concesiones y autorizaciones pendientes de resolución.
+Los expedientes de concesiones y autorizaciones que a la entrada en vigor de la presente ley se hallen pendientes de resolución se adaptarán a las disposiciones de la misma, salvando los trámites ya evacuados.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Normas aplicables.
+1. (Derogado).
+2. (Derogado).
+3. Las cuantías de las tasas reguladas en esta ley están referidas al año 2007.
+Se derogan los apartados 1 y 2 por la disposición derogatoria única del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Cesión de derechos de elementos portuarios.
+Antes del 1 de enero de 2009, deberán establecerse en todos los supuestos en que existiera omisión al respecto, en el título o en sus instrumentos de desarrollo, las contraprestaciones máximas previstas en el artículo 39.4 de la ley, de aplicación a las concesiones preexistentes, determinándose así, sin excepción, los precios máximos de transmisión de elementos cedibles en la generalidad del Sistema Portuario autonómico.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Tasas para las actividades del sector pesquero extractivo y de comercialización en primera venta de productos frescos de la pesca.
+A la entrada en vigor de la presente ley será de aplicación lo dispuesto en la disposición transitoria tercera, apartado 2, de la Ley 15/2001, de 26 de diciembre, de Medidas fiscales, presupuestarias, de control y administrativas, por la que tales actividades mantendrán por el periodo que les quede, cuando les resulte más favorable, el régimen de determinación de cánones establecido en el artículo 9 de la Ley 6/1986, de 5 de mayo, sobre determinación y revisión de tarifas y cánones en puertos e instalaciones portuarias de la Comunidad Autónoma, así como el Decreto 176/1995, de 18 de julio, por el que se regula la determinación del sumando de actividad del canon de concesiones en puertos e instalaciones portuarias de la Comunidad Autónoma de Andalucía.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Transformación en nominativos de los títulos y deber de constitución de sociedades con objeto social básico.
+1. En el plazo de dos años, a contar desde la entrada en vigor de la presente ley, y a efectos del debido control de las transmisiones de títulos, las sociedades mercantiles titulares de concesiones administrativas de puertos competencia de la Comunidad Autónoma de Andalucía, cuyos títulos sean al portador, transformarán dichos títulos en nominativos.
+2. En idéntico plazo las antedichas sociedades mercantiles cuyo objeto básico no fuera la gestión de concesiones administrativas de puertos, deberán modificar el mismo, o constituir una sociedad específica con este objeto social básico, y acciones nominativas, solicitando de la Agencia Pública de Puertos de Andalucía autorización para la debida subrogación en el título de la nueva entidad.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Ordenación funcional de los puertos de gestión indirecta.
+En el plazo de dos años computados desde la entrada en vigor de esta ley, las personas titulares de concesiones de puertos de gestión indirecta que no incluyan en su regulación una definición precisa de la delimitación física del puerto, la asignación de usos para los diferentes espacios incluidos en el recinto portuario y la justificación de la necesidad o conveniencia de los usos, deberán presentar ante la Agencia Pública de Puertos de Andalucía propuesta técnica en relación con tales extremos.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Plazo máximo de las concesiones vigentes a la entrada en vigor de esta ley que fueron otorgadas con anterioridad a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+Se considera en todo caso incompatible con los criterios de ocupación del dominio público portuario establecidos en esta ley el mantenimiento de concesiones otorgadas por plazo superior al máximo plazo inicial de las concesiones portuarias del Estado previsto en el artículo 24.1 de la presente norma, a contar desde la entrada en vigor de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante. En todos estos casos, las concesiones vigentes a la entrada en vigor de la presente disposición se entenderán otorgadas por el plazo previsto en su título, sin que en ningún caso pueda exceder del plazo inicial de las concesiones portuarias del Estado previsto en el artículo 24.1 de la presente norma, que se contará desde la entrada en vigor de la referida Ley 27/1992, sin que quepa ampliación de la concesión, salvo en los casos contemplados en la disposición transitoria octava de la presente ley.
+Se añade por el art. único.2 de la Ley 2/2020, de 12 de noviembre. Ref. BOE-A-2020-15403
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Ampliación, hasta su período inicial del plazo de las concesiones vigentes que fueron otorgadas con anterioridad a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, y cuyo plazo máximo se ha reducido por aplicación de lo previsto en la disposición transitoria séptima.
+1. Excepcionalmente, y cuando concurran razones de interés público de orden económico, social, turístico o estratégico que así lo aconsejen, el plazo inicial de las concesiones vigentes que sean de interés estratégico o relevante para el sistema portuario andaluz o para el desarrollo económico del mismo, que fueron otorgadas con anterioridad a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, y a las que la aplicación de lo previsto en la disposición transitoria anterior suponga una extinción anticipada del título concesional, podrá ser ampliado hasta 50 años más como máximo, siempre que la concesionaria se comprometa a la realización de inversiones relevantes, para el puerto o sistema portuario andaluz, que supongan una mejora de la eficacia global y de la competitividad de la actividad desarrollada, tanto en la concesión como, en su caso, en la concesión modificada por ampliación de su superficie, siempre que formen una unidad de explotación.
+Dicha ampliación se otorgará, a petición del titular y previo informe de la Agencia Pública de Puertos de Andalucía, por la Consejería competente en materia de Puertos, de conformidad con lo previsto en la presente disposición.
+El otorgamiento de la ampliación tendrá carácter reglado, siempre que la entidad concesionaria se encuentre al corriente del cumplimiento de las obligaciones concesionales establecidas en la presente ley y las que resulten del título otorgado.
+2. Serán susceptibles de ser consideradas inversiones relevantes a los efectos previstos en el apartado anterior las que reúnan los requisitos siguientes:
+a) No estar previstas en el título constitutivo original.
+b) No haber sido computadas a efectos de prórrogas previamente adoptadas.
+c) Mejorar alguno de los siguientes aspectos: la productividad; la eficiencia energética; la calidad ambiental, la mejora de la sostenibilidad ambiental y la sensibilización para la preservación y mejora del medio ambiente; las operaciones portuarias; la introducción de nuevas tecnologías, como la digitalización de las infraestructuras; los nuevos procesos que incrementen la competitividad, y la responsabilidad social corporativa y mejora social y de la población.
+La inversión mínima que la concesionaria deberá efectuar será del 0,50% del valor actualizado de las instalaciones objeto de concesión, se entiende éste como el correspondiente al inicialmente previsto en la concesión, así como a las inversiones de desarrollo de dicho proyecto inicial aprobadas durante la vida de la concesión (presupuesto de ejecución material) en el momento de efectuar la solicitud, por cada año de ampliación solicitado, con una inversión mínima que se sitúe en el 20% para las estratégicas y máximo del 5% para el resto del referido valor de las instalaciones, según las características de la empresa concesionaria, debiendo estar ejecutada como máximo en un plazo equivalente a la mitad de la ampliación.
+3. Las titulares de las concesiones deberán presentar una solicitud en la que indicarán la concesión respecto de la que solicita la ampliación, el plazo por el que la solicita y la inversión que se propone para su calificación como relevante a efectos de la ampliación.
+A la referida solicitud habrán de adjuntar la siguiente documentación:
+a) Memoria descriptiva de las circunstancias excepcionales que motivan la ampliación.
+b) Documento técnico que describa las características de las inversiones o debida referencia al mismo, en caso de que éste obrase en la Agencia.
+c) Estudio económico-financiero que justifique la viabilidad de la concesión con los nuevos compromisos que se pretenden cumplir y la ampliación solicitada.
+d) Documentación acreditativa de las inversiones, tanto inicialmente previstas en la concesión como de desarrollo del proyecto inicial, ejecutadas y aprobadas por la Administración competente.
+e) Cuentas anuales aprobadas y depositadas en el Registro Mercantil o registro oficial en que el empresario deba estar inscrito y auditadas por firma auditora externa, de los tres últimos ejercicios.
+f) Dictamen emitido por una auditoría técnica externa e independiente, que verifique el cumplimiento de sus obligaciones de mantenimiento de las obras e instalaciones de la infraestructura necesaria para la prestación de los servicios portuarios que constituyen el soporte material de la concesión. Para estos cometidos, la Agencia designará a la entidad encargada de realizar el dictamen de entre las cinco propuestas presentadas por la concesionaria, a su costa, en base a los parámetros fijados por la Agencia.
+g) Propuesta de Reglamento de Explotación y Tarifas Máximas, actualizado de conformidad con las prescripciones establecidas por la Agencia Pública de Puertos de Andalucía, vigentes al tiempo de presentarse la solicitud.
+h) Certificados de encontrarse al corriente de las obligaciones tributarias con el Estado y la Comunidad Autónoma de Andalucía y de las obligaciones con la Seguridad Social.
+i) Declaración responsable de no estar incurso en incapacidad o prohibición para contratar.
+La solicitud de ampliación deberá presentarse en el plazo de dos años a contar desde la entrada en vigor de la presente disposición, siendo requisito indispensable para su tramitación que el interesado se encuentre al corriente del cumplimiento de las obligaciones concesionales establecidas en la presente ley y las que resulten del título otorgado.
+En lo no previsto en la presente disposición transitoria en cuanto al procedimiento, resultará de aplicación lo dispuesto en el artículo 24 de la presente norma.
+4. Tramitado el procedimiento, la Agencia Pública de Puertos de Andalucía emitirá informe, y la Consejería competente en materia de Puertos resolverá, teniendo en cuenta:
+a) El tiempo restante de vigencia de la concesión inicial.
+b) El volumen de inversión realizada durante la vigencia de la concesión y autorizada por la Administración portuaria, en su caso.
+c) El volumen de inversión nueva comprometida.
+d) La vida útil de la inversión, tanto realizada como nueva.
+e) La memoria económico-financiera de la concesión en el momento de su otorgamiento, si obrara, y en el momento de la solicitud de ampliación de plazo.
+La ampliación se podrá otorgar por un plazo que no podrá superar las dos quintas partes del plazo previsto en el título original.
+Asimismo, la ampliación de la concesión determinará la modificación de las condiciones de la misma, que deberán ser aceptadas por el concesionario con anterioridad a la resolución de otorgamiento de la ampliación y la aprobación del Reglamento de Explotación y Tarifas Máximas actualizado de conformidad con las prescripciones establecidas por la Agencia Pública de Puertos de Andalucía, vigentes al tiempo de presentarse la solicitud.
+Si la modificación de las condiciones implicara un aumento elevado de las tasas de ocupación privativa y aprovechamiento especial del título, sin que haya cambiado la superficie, éste será aplicado de forma escalonada lineal.
+La concesionaria deberá comprometerse a respetar los derechos de uso que ostenten terceras personas sobre elementos integrantes de la concesión por el plazo original por el que fueron constituidos o cedidos.
+Se añade por el art. único.2 de la Ley 2/2020, de 12 de noviembre. Ref. BOE-A-2020-15403
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Régimen de prórrogas de las concesiones que fueron otorgadas con anterioridad a la entrada en vigor de la presente disposición.
+1. A las concesiones vigentes a la entrada en vigor de la presente disposición les será de aplicación el régimen de prórrogas previsto en el artículo 24, siempre que cumplan los requisitos establecidos en el mismo, a excepción de la limitación del plazo objeto de la prórroga, el cual podrá llegar al plazo inicialmente previsto en el título de otorgamiento.
+La presente prórroga será compatible con la ampliación prevista en la disposición anterior.
+2. Asimismo, el régimen de prórrogas previsto en el artículo 24.2B) de la presente ley también resultará de aplicación a aquellas concesiones de puertos deportivos y de instalaciones en zonas portuarias de uso náutico-deportivo destinadas a la prestación del servicio a las embarcaciones deportivas y de ocio que se encuentren en la situación prevista en los artículos 63.6 y 64.6 de la presente ley con título vigente el 1 de enero de 2018, que sean de interés estratégico o relevante para el sistema portuario andaluz o para el desarrollo económico del mismo, cuando las concesionarias sean administraciones o entidades sin ánimo de lucro y concurran razones de interés público de orden económico, social, turístico o estratégico que así lo aconsejen.
+3. En los supuestos detallados en los apartados anteriores, serán computadas como nuevas inversiones relevantes, a efectos de lo previsto en el artículo 24.2.B1), aquellas que sean realizadas por la entidad concesionaria tras la entrada en vigor de la presente disposición, siempre que sean aprobadas por la Administración portuaria a tales efectos y se ajusten a los parámetros establecidos en el referido apartado B1).
+Su cómputo se llevará a cabo mediante la actualización de los importes de la inversión en el momento de otorgarse la prórroga.
+Se añade por el art. único.2 de la Ley 2/2020, de 12 de noviembre. Ref. BOE-A-2020-15403
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Portuarios Normas urbanísticas de aplicación directa.
+En tanto no se proceda a la aprobación de los planes especiales de ordenación portuaria, las obras promovidas por particulares que estén sujetas a control preventivo municipal, se ajustarán, en lo que respecta a parámetros urbanísticos, a las siguientes normas de aplicación directa, las cuales tendrán carácter subsidiario del plan especial de ordenación urbanístico del puerto y no vinculan ni limitan la definición de la estructura general y usos pormenorizados en el ámbito portuario que corresponden al plan especial:
+a) Usos permitidos: los indicados en esta ley.
+b) Normas de edificación:
+1.ª Alturas: la altura máxima de coronación de las edificaciones será de doce metros, exceptuándose de esta delimitación aquellas instalaciones singulares destinadas al servicio del puerto, tales como silos, grúas, depósitos, frío, torres de alumbrado y balizamiento.
+2.ª Superficie edificable: máximo de 1,5 metros cuadrados de superficie construida por cada metro cuadrado sobre la superficie en planta de la edificación resultante.
+3.ª Normas estéticas: las edificaciones deberán integrarse estéticamente en el conjunto del puerto, sin provocar rupturas con el entorno por diseño, color o remates, debiéndose cumplir las prescripciones que, en su caso, establezca la Agencia en ese sentido.
+Se añade por el art. 64.18 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Comunicación de datos para la liquidación de la tasa por aprovechamiento especial del artículo 64 devengada el 1 de enero del 2026.
+Para la determinación de la base imponible de la tasa por aprovechamiento especial regulada en el artículo 64, los obligados tributarios deberán realizar la comunicación del volumen de facturación a la que se refiere el apartado 1 del número IV de dicho artículo con anterioridad al 31 de enero de 2026, tomando como referencia el que resulte de la documentación que corresponda según lo establecido en dicho apartado.
+Se añade por la disposición final 4.6 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones legales o reglamentarias se opongan a lo establecido en la presente ley y, en particular, la Ley 8/1988, de 2 de noviembre, de Puertos Deportivos de la Comunidad Autónoma de Andalucía.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+El desarrollo reglamentario de esta ley se llevará a efecto de acuerdo con lo dispuesto en los artículos 112 y 119.3 del Estatuto de Autonomía para Andalucía y en el artículo 44 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación del artículo 42 de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos.
+Se modifica el artículo 42 de la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos, con la siguiente redacción:
+«Artículo 42. Régimen Jurídico.
+Las tasas portuarias se regirán por las disposiciones de la Ley de Régimen Jurídico y Económico de los Puertos de Andalucía, con aplicación supletoria de la presente ley.»
+
+### Disposición final tercera
+
+Disposición final tercera.
+Las referencias que se realizan en la presente Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía, al Plan de Usos de los Espacios Portuarios deben entenderse realizadas a los instrumentos de ordenación funcional de los puertos o parte de ellos a los que se hace referencia en el Título II de la presente norma.
+Se añade por el art. 64.17 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-6
+
+Sevilla, 18 de diciembre de 2007.
+El Presidente,
+Manuel Chaves González.
+
+## ANEXO
+
+ANEXO I
+Clasificación de mercancías
+A los efectos del sistema de determinación de cuotas de la tasa a las mercancías, T3, establecido en el artículo 54.VI.1 de esta Ley, se establecen los siguientes grupos de clasificación:
+Códigos
+ Grupo
+ Descripción
+ Del 01 -- al 05 --
+ Quinto
+ Animales vivos y productos de origen animal.
+ Del 06 -- al 12 --
+ Tercero
+ Plantas en general, verduras, hortalizas, frutas, frutos, cereales y semillas.
+ Del 13 -- al 15 -- a granel
+ Cuarto
+ Materias y Productos vegetales no incluidos en otras partidas.
+ Del 13 -- al 15 -- envasado
+ Quinto
+ Materias y Productos vegetales no incluidos en otras partidas.
+ Del 16 -- al 21 --
+ Quinto
+ Preparaciones y conservas de carne, pescado, crustáceos, moluscos y cereales.
+ 2201ª
+ Tercero
+ Agua envasada.
+ 2201 B y C
+ Primero
+ Agua a granel.
+ Del 2202 al 22 -- a granel
+ Cuarto
+ Bebidas incluido alcohol etílico y vinagre.
+ Del 2202 al 22 -- envasado
+ Quinto
+ Bebidas incluido alcohol etílico y vinagre.
+ 23 --
+ Tercero
+ Salvados y Residuos de cereales y similares.
+ 24 --
+ Quinto
+ Cigarros y tabacos.
+ Del 2501 al 2502
+ Primero
+ Sal y cloruro de sodio puro y Piritas de hierro sin tostar.
+ Del 2503 al 2504
+ Segundo
+ Azufre y Grafito natural.
+ Del 2505 al 2510
+ Primero
+ Arenas, Cuarzo, Caolín, Arcillas, Atapulguita, Bentonita y Creta.
+ Del 2511 al 2515
+ Segundo
+ Mármol, Piedras Calizas, Pizarra, Baritina.
+ Del 2516 al 2518
+ Primero
+ Granitos, Piedras, Cantos, Grava para la construcción.
+ 2519
+ Cuarto
+ Compuestos químicos de Magnesio.
+ Del 2520 al 2522
+ Primero
+ Yeso natural o calcinado, Piedras para fabricar cal o cemento, Cal.
+ 2523A
+ Segundo
+ Cementos hidráulicos envasados.
+ 2523B
+ Primero
+ Cementos hidráulicos a granel.
+ Del 2524 al 2530
+ Tercero
+ Amianto, Mica, Esteatita, Boratos, Feldespato.
+ 2601
+ Primero
+ Mineral de Hierro.
+ Del 2602 al 2617
+ Tercero
+ Minerales varios.
+ Del 2618 al 2710A
+ Primero
+ Escorias y cenizas. Aceites y Fuel.
+ 2710B
+ Tercero
+ Keroseno, gasolina y petróleo refinado.
+ 2710C y D
+ Quinto
+ Lubricantes y Aceites minerales REPEX.
+ 2710E y F
+ Segundo
+ Naftas y Gasóleo.
+ 2711A
+ Cuarto
+ Gases del Petróleo.
+ 2711B
+ Segundo
+ Gas Natural.
+ 2711C
+ Tercero
+ Butano y Propano.
+ 2712
+ Quinto
+ Vaselina, parafina y ceras.
+ Del 2713 al 2715
+ Primero
+ Coques de petróleos, Betunes y asfaltos naturales.
+ 28 --
+ Cuarto
+ Flúor, cloro, Carbono, Hidrógeno y Compuestos químicos incluidos en este código.
+ Del 29 -- al 30 --
+ Quinto
+ Compuestos orgánicos y medicamentos.
+ 31 --
+ Segundo
+ Abonos origen animal o vegetal.
+ Del 32 -- al 43 --
+ Quinto
+ Productos varios incluidos en estos códigos.
+ 4401A
+ Primero
+ Leña, aserrín y desechos madera.
+ 4401B, 4402A, 4403B y C
+ Segundo
+ Madera y Carbón vegetal envasado.
+ 4402B
+ Primero
+ Carbón vegetal a granel.
+ 4403A y del 4404 al 4410
+ Cuarto
+ Madera aserrada y Tableros.
+ Del 4411 al 6808
+ Quinto
+ Productos varios incluidos en estos códigos.
+ Del 6809 al 6903
+ Tercero
+ Manufacturas de yeso, cemento, piedras, ladrillos.
+ 6904
+ Primero
+ Ladrillos construcción, bovedillas, cubrevigas y artículos similares de cerámica.
+ Del 6905 al 6908
+ Segundo
+ Tejas, canalones, tuberías y placas cerámicas.
+ Del 6909 al 6914
+ Quinto
+ Demás manufacturas de cerámica.
+ 7001
+ Primero
+ Desperdicios y desechos de vidrio, vidrio en masa.
+ Del 7002 al 71 --
+ Quinto
+ Productos varios incluidos en estos códigos.
+ 7201
+ Segundo
+ Fundición en bruto y especular.
+ 7202
+ Quinto
+ Ferroaleaciones.
+ 7203
+ Segundo
+ Productos férreos obtenidos por reducción directa de minerales de hierro.
+ 7204
+ Primero
+ Desperdicios y desechos de fundición o lingotes de chatarra de hierro.
+ Del 7205 al 7303
+ Tercero
+ Productos de hierro incluidos en estos códigos.
+ Del 7304 al 9990
+ Quinto
+ Productos varios incluidos en estos códigos.
+Se numera por la disposición final 7.7 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604
+ Se añade por el art. único.30 del Decreto-ley 14/2014, de 15 de noviembre. Ref. BOJA-b-2014-90495
+
+## ANEXO II
+
+Coeficientes de actualización de valores catastrales medios a efectos del cálculo de la tasa de ocupación privativa prevista en el apartado 1.a) del epígrafe IV del artículo 63
+Provincia
+ Puerto
+ Municipio
+ Coeficiente
+ Almería.
+ Adra.
+ Adra.
+ 1,45
+ Aglomeración Urbana.
+ Almería.
+ 1,19
+ Carboneras.
+ Carboneras.
+ 2,45
+ Villaricos: La Balsa, La Esperanza.
+ Cuevas de Almanzora.
+ 2,58
+ Garrucha.
+ Garrucha.
+ 1,73
+ San José.
+ Níjar.
+ 1,41
+ Roquetas de Mar, Aguadulce.
+ Roquetas de Mar.
+ 1,29
+ Almerimar.
+ Ejido (El).
+ 1,26
+ POT Levante Almeriense.
+ Mojácar.
+ 1,45
+ POT Levante Almeriense.
+ Pulpí.
+ 2,01
+ Cádiz.
+ Barbate.
+ Barbate.
+ 1,61
+ Puerto América.
+ Cádiz.
+ 1,72
+ Conil de la Frontera.
+ Conil de la Frontera.
+ 1,81
+ Sancti Petri.
+ Chiclana de la Frontera.
+ 1,75
+ Chipiona.
+ Chipiona.
+ 1,48
+ La Atunara.
+ La Línea de la Concepción.
+ 1,77
+ Río San Pedro.
+ Puerto Real.
+ 1,58
+ Rota.
+ Rota.
+ 2,09
+ Gallineras.
+ San Fernando.
+ 2,00
+ Bonanza.
+ Sanlúcar de Barrameda.
+ 2,02
+ Sotogrande.
+ San Roque.
+ 1,30
+ Granada.
+ Punta de la Mona.
+ Almuñécar.
+ 2,44
+ POT Costa tropical de Granada.
+ Motril.
+ 1,23
+ POT Costa tropical de Granada.
+ Salobreña.
+ 1,39
+ POT Costa tropical de Granada.
+ Lújar.
+ 2,30
+ POT Costa tropical de Granada.
+ Albuñol.
+ 1,69
+ Huelva.
+ Ayamonte, Punta del Moral.
+ Ayamonte.
+ 1,86
+ El Rompido, San Miguel, Nuevo Portil, Río Piedras (m. izquierdo).
+ Cartaya.
+ 2,70
+ Isla Cristina.
+ Isla Cristina.
+ 1,78
+ El Terrón, Río Piedras (m. derecho).
+ Lepe.
+ 1,55
+ Mazagón.
+ Palos de la Frontera.
+ 2,50
+ Punta Umbría.
+ Punta Umbría.
+ 1,17
+ Sanlúcar de Guadiana.
+ Sanlúcar de Guadiana.
+ 1,37
+ Málaga.
+ Benalmádena.
+ Benalmádena.
+ 1,22
+ Estepona.
+ Estepona.
+ 1,44
+ Fuengirola.
+ Fuengirola.
+ 1,11
+ El Candado.
+ Málaga.
+ 1,41
+ La Duquesa.
+ Manilva.
+ 1,29
+ Deportivo Marbella, José Banús, Cabopino, Marina La Bajadilla.
+ Marbella.
+ 1,37
+ Caleta de Vélez.
+ Vélez-Málaga.
+ 1,10
+ POT Sol Oriental – Axarquía.
+ Nerja.
+ 1,69
+ POT Sol Oriental – Axarquía.
+ Torrox.
+ 1,44
+ Sevilla.
+ Gelves.
+ Gelves.
+ 2,48
+Se añade por la disposición final 7.7 de la Ley 1/2022, de 27 de diciembre. Ref. BOE-A-2023-1604

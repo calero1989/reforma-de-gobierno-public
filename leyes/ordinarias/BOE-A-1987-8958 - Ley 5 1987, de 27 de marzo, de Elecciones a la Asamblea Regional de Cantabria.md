@@ -1,0 +1,474 @@
+# Ley 5/1987, de 27 de marzo, de Elecciones a la Asamblea Regional de Cantabria.
+
+- Identificador BOE: `BOE-A-1987-8958`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-8958
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse "Ley 5/1987, de 27 de marzo, de Elecciones al Parlamento de Cantabria", según establece el art. 1.I de la Ley 6/1999, de 24 de marzo. Ref. BOE-A-1999-10365.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley 5/1987, de 27 de marzo, de Elecciones a la Asamblea Regional de Cantabria.
+EXPOSICIÓN DE MOTIVOS
+El artículo 10 de la Ley Orgánica 8/1981, de 30 de diciembre, del Estatuto de Autonomía para Cantabria, establece en su apartado uno que la Asamblea Regional de Cantabria estará constituida por diputados elegidos por sufragio universal, directo y secreto, y de acuerdo con un sistema proporcional.
+Los apartados dos y tres del citado artículo 10 fijan como circunscripción electoral la del actual territorio de la Comunidad Autónoma de Cantabria y diferentes preceptos inamovibles, tales como la duración del mandato de los Diputados, que será de cuatro años; el mecanismo de convocatoria de las elecciones, que habrán de celebrarse entre los treinta y sesenta días desde la terminación del mandato parlamentario, y los mecanismo de convocatoria y disolución de la Asamblea Regional de Cantabria.
+El apartado cuatro, por último, establece la necesidad de una Ley de la Asamblea Regional de Cantabria reguladora del procedimiento electoral, fija el número mínimo y máximo de los Diputados a elegir entre 35 y 45, y ordena al legislador regional que en el citado texto legal se articulen las causas de ineligibilidad e incompatibilidad que afecten a los puestos o cargos que vayan a desempeñar los Diputados dentro y fuera del ámbito territorial de la Comunidad Autónoma de Cantabria.
+Esta Ley da cumplimiento al citado precepto estatutario en la medida en que se respetan escrupulosamente los principios que en el mismo se contienen y las disposiciones comunes para todas las elecciones por sufragio universal directo contenidas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General. Se establece, además, el marco jurídico adecuado para la convocatoria y la celebración de las elecciones a la Asamblea Regional de Cantabria.
+Quedan así plenamente garantizados, tanto el carácter representativo de esta alta Institución cántabra y su adecuación a la voluntad libremente expresada del pueblo cántabro, como el derecho fundamental de los habitantes de Cantabria a participar en los asuntos públicos.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley, en cumplimiento de las previsiones contenidas en el Estatuto de Autonomía para Cantabria, tiene por objeto regular el procedimiento para la elección de los miembros de la Asamblea Regional de Cantabria, sin perjuicio de la aplicación de los preceptos contenidos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Derecho de sufragio activo
+
+### Articulo 2
+
+Artículo 2.
+1. Son electores los que, gozando del derecho de sufragio activo, tengan la condición política de ciudadano de la Comunidad Autónoma de Cantabria, conforme al artículo cuatro del Estatuto de Autonomía.
+2. Para el ejercicio al derecho de sufragio es indispensable la inscripción en el censo electoral vigente, referido al territorio de la Comunidad Autónoma.
+
+## CAPÍTULO II
+
+Derecho de sufragio pasivo
+
+### Artículo 3
+
+Artículo 3.
+1. Tienen la condición de elegibles todos los electores que no se encuentren incursos en alguna de las causas de inelegibilidad previstas en las disposiciones comunes de la Ley Orgánica del Régimen Electoral General.
+2. Son inelegibles, además:
+a) Los Directores regionales y Secretarios generales Técnicos de las Consejerías, así como cargos de libre designación.
+b) Los Parlamentarios de las Asambleas Legislativas de otras Comunidades Autónomas.
+c) Los miembros de los Consejos de Gobierno de las demás Comunidades Autónomas, así como los cargos de libre designación de los citados Consejos.
+d) Los que ejerzan funciones o cargos conferidos y remunerados por Estados extranjeros.
+e) El Director regional, o equivalente, del Ente Público Radio y Televisión de Cantabria, si lo hubiere, y los Directores de sus Sociedades o emisoras.
+f) Ministros y Secretarios de Estado del Gobierno de la Nación.
+g) Los miembros de las Juntas Electorales.
+
+### Artículo 4
+
+Artículo 4.
+La calificación de inelegibilidad procederá respecto a quienes incurran en alguna de las causas comprendidas en los apartados anteriores el mismo día de la presentación de su candidatura o en cualquier momento posterior hasta la celebración de las elecciones.
+
+### Artículo 5
+
+Artículo 5.
+La calificación de las inelegibilidades se verificará de conformidad con lo establecido en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+## CAPÍTULO III
+
+Incompatibilidades
+
+### Artículo 6
+
+Artículo 6.
+1. Todas las causas de inelegibilidad lo son también de incompatibilidad.
+2. Además de las comprendidas en los supuestos del artículo 155,2, a), b), c) y d), de la Ley Orgánica de Régimen Electoral General, son también incompatibles con la condición de Diputado o Diputada del Parlamento de Cantabria:
+a) Los Diputados y Diputadas del Congreso.
+b) Los Senadores y Senadoras, salvo los designados por el Parlamento en representación de la Comunidad Autónoma de Cantabria.
+c) Los Diputados y Diputadas del Parlamento Europeo.
+d) Los Presidentes de Consejos de Administración, Consejeros, Administradores, Directores generales, Gerentes y cargos similares de entes públicos y empresas en que la Comunidad Autónoma de Cantabria tenga participación de capital igual o superior al 50 por 100 cualquiera que sea su forma, incluidas las Cajas de Ahorro de fundación pública, salvo que concurriera en ellos la cualidad de miembro del Gobierno o Presidente de corporación local.
+Se modifica por el art. único de la Ley 1/2000, de 24 de mayo. Ref. BOE-A-2000-12604.
+
+### Artículo 7
+
+Artículo 7.
+1. Los Diputados y Diputadas tienen el derecho a percibir las asignaciones económicas que les permitan cumplir eficaz y dignamente su función. A estos efectos, las modalidades y el régimen de dedicación es el que se recoge en los párrafos siguientes:
+a) Los Diputados y Diputadas del Parlamento de Cantabria percibirán una indemnización con objeto de atender los gastos derivados del ejercicio de la función parlamentaria.
+b) Sin perjuicio de lo establecido en el párrafo anterior, todos los Diputados y Diputadas del Parlamento de Cantabria podrán acogerse al régimen de dedicación parcial o al régimen de dedicación absoluta, respetando, en cada caso, el régimen de incompatibilidades establecido en la presente Ley.
+De acuerdo con lo establecido en los párrafos anteriores, la Mesa del Parlamento, oída la Junta de Portavoces, determinará la cuantía a percibir por cada una de las modalidades de dedicación, así como en concepto de indemnización por gastos.
+2. Los Diputados y Diputadas del Parlamento de Cantabria no podrán percibir más de una retribución con cargo a los presupuestos de los órganos constitucionales, de la Comunidad Autónoma o de las Administraciones Públicas, sus organismos autónomos, entes públicos y empresas con participación pública mayoritaria, directa o indirecta, sin perjuicio de las dietas, indemnizaciones por gastos o asistencias que pudieran corresponderles.
+3. Los Diputados y Diputadas del Parlamento de Cantabria que se acojan a los regímenes de dedicación parcial o absoluta no podrán simultanear su retribución con la percepción de una pensión de derechos pasivos o por cualquier régimen de la Seguridad Social pública y obligatoria. El derecho a devengo por dichas pensiones se recuperará automáticamente desde el mismo momento de extinción de la condición de Diputado o Diputada.
+4. El régimen de dedicación parcial de los Diputados y Diputadas del Parlamento de Cantabria es incompatible con el ejercicio de las siguientes actividades privadas:
+a) La actividad de contratista o fiador de obras, servicios, suministros o asistencias de carácter público o que impliquen cualquier relación de naturaleza contractual, prestacional, de concierto o convenio que se remunere con fondos o avales de la Comunidad Autónoma de Cantabria, así como formar parte de los órganos de dirección, gestión, representación o asesoramiento de empresas o sociedades mercantiles que se dediquen a dichas actividades.
+b) La participación superior al 10 por 100, adquirida, en todo o en parte, con posterioridad a la fecha de su elección como Diputado o Diputada del Parlamento de Cantabria, salvo que fuere por herencia, en empresas o sociedades que tengan contratos de obras, servicios, suministros o, en general, cualesquiera otros que se paguen con fondos de organismos o empresas del sector público estatal, autonómico o local.
+5. El régimen de dedicación absoluta de los Diputados y Diputadas del Parlamento de Cantabria impide el desempeño, por sí o mediante apoderamiento, de cualquier otra actividad pública o privada, ya sea por cuenta propia o ajena.
+Se exceptúan de la prohibición del ejercicio de actividades públicas o privadas, de los Diputados y Diputadas que opten por el régimen de dedicación absoluta, las siguientes:
+a) La mera administración del patrimonio personal o familiar. Sin embargo, en ningún caso tendrán esta consideración las actividades privadas cuando el interesado, su cónyuge o persona vinculada a aquél en análoga relación de convivencia afectiva y descendientes menores de edad, conjunta o separadamente, tengan participación superior al 10 por 100 en actividades empresariales o profesionales de toda índole que tengan conciertos, concesiones o contratos.
+b) El desempeño de funciones representativas o de participación en órganos colegiados de municipios, organismos, corporaciones, fundaciones o instituciones análogas, o sociedades dependientes de las mismas, no pudiendo percibir por tales actividades asignación económica, sin perjuicio de las dietas, indemnizaciones por gastos o asistencias que pudieran corresponderles.
+c) Cargos de órganos colegiados en entes, empresas o sociedades cuya designación corresponda al Parlamento de Cantabria o a los órganos de gobierno y administración de la Administración autonómica o del Estado, no pudiendo percibir por tales actividades asignación económica, sin perjuicio de las dietas, indemnizaciones por gastos o asistencias que pudieran corresponderles.
+d) Las actividades de producción literaria, artística, científica o técnica y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente en congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo, de prestaciones de servicios o supongan menoscabo del estricto cumplimiento de sus deberes.
+e) El ejercicio de funciones docentes siempre que no supongan menoscabo de la dedicación en el desempeño del cargo público. Por el ejercicio de estas funciones sólo podrán percibir las indemnizaciones reglamentariamente establecidas.
+6. Las actividades privadas distintas de las recogidas en el apartado anterior podrán ser autorizadas por la Comisión del Estatuto de los Diputados y Diputadas del Parlamento de Cantabria, previa petición expresa de los interesados. En cualquier caso, para la adopción de la decisión en cada supuesto, se tendrá en cuenta como criterio preferente la no interferencia de la compatibilidad solicitada con la dedicación absoluta a la actividad parlamentaria.
+Se modifica por el art. único de la Ley 1/2000, de 24 de mayo. Ref. BOE-A-2000-12604.
+
+### Artículo 8
+
+Artículo 8.
+1. Los Diputados y Diputadas del Parlamento de Cantabria están obligados a formular declaración de todas las actividades que puedan constituir causa de incompatibilidad de las enumeradas en esta Ley, y de cualesquiera otras actividades que les proporcionen o puedan proporcionar ingresos económicos o ventajas patrimoniales, así como de sus bienes.
+2. Las declaraciones de actividades y bienes deberán presentarse ante la Cámara tanto al adquirir la condición de parlamentario como cuando se modifiquen sus circunstancias. Dichas declaraciones se formularán por separado de acuerdo con el modelo que apruebe la Mesa del Parlamento.
+3. La declaración de actividades incluirá:
+a) Cualesquiera actividades que se ejercieren y que puedan constituir causa de incompatibilidad conforme a los apartados 4 y 5 del artículo 7.
+b) Las que, con arreglo a la presente Ley, puedan ser ejercicio compatible.
+c) En general, cualesquiera actividades que proporcionen o puedan proporcionar ingresos económicos.
+4. Las declaraciones de actividades y bienes se inscribirán en un Registro de Intereses, constituido en la Cámara bajo la dependencia directa del Presidente del Parlamento y que se regirá por las normas de régimen interior que establezca la Cámara.
+5. El contenido del Registro de Intereses tendrá carácter público, a excepción de lo que se refiere a bienes patrimoniales.
+Se modifica por el art. único de la Ley 1/2000, de 24 de mayo. Ref. BOE-A-2000-12604.
+ Se modifica el apartado 1 por el art. único.1 de la Ley 4/1991, de 22 de marzo. Ref. BOE-A-1991-9979.
+
+### Artículo 8 bis
+
+Artículo 8 bis.
+De acuerdo con el Reglamento del Parlamento, el Pleno de la Cámara resolverá sobre la posible incompatibilidad, a propuesta de la Comisión del Estatuto de los Diputados y Diputadas, que deberá ser motivada y basarse en los supuestos previstos en el artículo 7 de esta Ley. Si se declarare la incompatibilidad, el parlamentario deberá optar entre el escaño y el cargo, actividad, percepción o participación incompatible. En el caso de no ejercitarse la opción, en el plazo establecido en el Reglamento, se entenderá que el Diputado o Diputada renuncia al escaño.
+Se añade por el art. único de la Ley 1/2000, de 24 de mayo. Ref. BOE-A-2000-12604.
+
+## TÍTULO II
+
+Administración Electoral
+
+### Artículo 9
+
+Artículo 9.
+1. La Administración Electoral tiene por finalidad garantizar en los términos de la presente Ley la transparencia y objetividad del proceso electoral y del principio de igualdad.
+2. La Administración Electoral de las elecciones a la Asamblea Regional de Cantabria estará integrada por la Junta Electoral Central, la Junta Electoral de Cantabria, las Juntas Electorales de Zona y las Mesas Electorales.
+
+### Artículo 10
+
+Artículo 10.
+1. La Junta Electoral de Cantabria es un órgano permanente y estará compuesta por:
+a) Tres Vocales, Magistrados del Tribunal Superior de Justicia de Cantabria, designados, mediante insaculación, por el propio Tribunal.
+b) Dos Vocales, Catedráticos o Profesores titulados de Derecho o Juristas de reconocido prestigio residentes en Cantabria, designados a propuesta conjunta de los partidos, federaciones, coaliciones o agrupaciones electorales con representación en la Asamblea Regional de Cantabria.
+2. La designación de los Vocales se realizará dentro de los noventa días siguientes a la sesión constitutiva de la Asamblea Regional. Cuando la propuesta de las personas previstas en el apartado 1. b), no tengan lugar a dicho plazo, la Mesa de la Asamblea Regional procederá a su designación oída la Junta de Portavoces, teniendo en cuenta la representación existente en el Parlamento.
+3. Los Vocales serán nombrados por Decreto del Consejo de Gobierno de Cantabria y continuará su mandato hasta la toma de posesión de la nueva Junta Electoral, al inicio de la siguiente legislatura. La referida toma de posesión tendrá lugar pasado el plazo de cien días, contados a partir de la fecha de las elecciones.
+4. El Secretario de la Junta Electoral de Cantabria es el Letrado Secretario general de la Asamblea Regional, que participa en sus deliberaciones, con voz y sin voto, y se encarga de la custodia de la documentación correspondiente a la Junta Electoral.
+5. Asimismo, participará en las reuniones de la Junta Electoral de Cantabria, con voz pero sin voto, el Delegado Provincial de la Oficina del Censo Electoral.
+
+### Artículo 11
+
+Artículo 11.
+La Junta Electoral de Cantabria tiene su sede en la Asamblea Regional.
+Sin perjuicio de las facultades y obligaciones que corresponden al Consejo de Gobierno de la Diputación Regional de Cantabria respecto a la disposición en favor de dicha Junta de los medios personales y materiales necesarios para el ejercicio de sus funciones, la Asamblea Regional coadyuvará en la aportación de dichos medios personales y materiales en la medida de sus posibilidades.
+
+### Artículo 12
+
+Artículo 12.
+Los Vocales de la Junta Electoral de Cantabria eligen, de entre los de origen judicial, al Presidente y Vicepresidente de la misma en una sesión constitutiva que se celebrará, a convocatoria del Secretario, dentro de los quince días siguientes a la publicación del Decreto de nombramiento.
+
+### Artículo 13
+
+Artículo 13.
+1. Los miembros de la Junta Electoral de Cantabria son inamovibles y sólo podrán ser suspendidos por delitos o faltas electorales mediante expediente incoado por la Junta Electoral en virtud de acuerdo de la mayoría absoluta de sus componentes, sin perjuicio del procedimiento judicial correspondiente.
+2. En el supuesto previsto en el número anterior, así como en los casos de muerte, incapacidad, renuncia justificada y aceptada por el Presidente o pérdida de la condición por la que ha sido elegido, se procederá a la sustitución de los miembros de la Junta conforme a las siguientes reglas:
+a) Los Vocales, conforme al mismo procedimiento de su designación.
+b) El Letrado Secretario general de la Asamblea, por el Letrado más antiguo y, en caso de igualdad, por el de mayor edad.
+
+### Artículo 14
+
+Artículo 14.
+1. Las sesiones de la Junta Electoral de Cantabria son convocadas por su Presidente de oficio o a petición de dos Vocales. El Secretario sustituye al Presidente en el ejercicio de dicha competencia cuando éste no puede actuar por causa justificada.
+2. Para que cualquier reunión se celebre válidamente es indispensable que concurran, al menos, tres de los miembros de la Junta.
+3. Los acuerdos se adoptan por mayoría de votos de los miembros presentes, siendo voto de calidad el del Presidente.
+
+### Artículo 15
+
+Artículo 15.
+1. Los partidos políticos, asociaciones, coaliciones o federaciones y agrupaciones electorales podrán elevar consultas a la Junta electoral de Cantabria cuando se trate cuestiones de carácter general.
+2. Las autoridades y corporaciones públicas de Cantabria podrán consultar directamente a la Junta.
+Las consultas se formularán por escrito y se resolverán por la Junta, salvo que ésta, por la importancia de la misma, según su criterio de carácter general, decida elevarla a la Junta Central.
+
+### Artículo 16
+
+Artículo 16.
+Corresponde a la Junta Electoral de Cantabria:
+a) Resolver las consultas que le eleven las Juntas de Zona y dictar instrucciones a las mismas en materia de su competencia.
+b) Resolver las quejas, reclamaciones y recursos que se le dirijan de acuerdo con la presente Ley o con cualquier otra disposición que le atribuya esa competencia.
+c) Ejercer jurisdicción disciplinaria sobre todas las personas que intervengan con carácter oficial en las operaciones electorales.
+d) Corregir las infracciones que se produzcan en el procedimiento electoral siempre que no sean constitutivas de delito y no estén reservadas a los Tribunales o a la Junta Electoral Central, e imponer multas hasta la cantidad de 150.000 pesetas, conforme a lo establecido por la Ley.
+e) Proclamar a los diputados electos.
+Igualmente corresponde a la Junta Electoral de Cantabria, en el procedimiento para la elección de los miembros de la Asamblea Regional, las funciones que a las Juntas Electorales Provinciales se atribuyen en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General y, especialmente, las que se señalan en su artículo 75.
+
+## TÍTULO III
+
+Sistema electoral
+
+### Artículo 17
+
+Artículo 17.
+1. El Parlamento de Cantabria está integrado por treinta y cinco diputados elegidos en una circunscripción electoral que comprenderá todo el territorio de Cantabria.
+2. La atribución de escaños se hará en la forma establecida en el artículo 163.1, letras b), c), d) y e) de la Ley Orgánica del Régimen Electoral General.
+3. No se tendrán en cuenta aquellas candidaturas que no hubieran obtenido, al menos, el 5 por 100 de los votos válidos emitidos.
+Se modifica el apartado 1 por la disposición adicional 9 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709.
+
+## TÍTULO IV
+
+Convocatoria de elecciones
+
+### Artículo 18
+
+Artículo 18.
+1. La convocatoria de elecciones al Parlamento de la Comunidad Autónoma de Cantabria se efectuará mediante Decreto del Presidente de la Comunidad Autónoma, que se publicará en el "Boletín Oficial de Cantabria" y en el "Boletín Oficial del Estado", con sujeción al artículo 10.3 del Estatuto de Autonomía y en los términos previstos en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+No obstante, en el supuesto de que en el mismo año coincidan para su celebración en un espacio de tiempo no superior a cuatro meses, con elecciones al Parlamento Europeo, se estará a lo establecido en la disposición adicional tercera del Estatuto de Autonomía y a la disposición adicional quinta de la citada Ley Orgánica.
+2. El Decreto de convocatoria fijará:
+a) La fecha de celebración de la elección.
+b) La duración de la campaña.
+c) La fecha de la sesión constitutiva de la nueva Asamblea Regional, que deberá tener lugar dentro de los veinticinco días siguientes a la celebración de las elecciones.
+3. El Decreto será difundido antes de cinco días por los Medios de Comunicación Social de Cantabria.
+Se modifica el apartado 1 por el art. 1.II de la Ley 6/1999, de 24 de marzo. Ref. BOE-A-1999-10365.
+ Se modifica por el art. único.2 de la Ley 4/1991, de 22 de marzo. Ref. BOE-A-1991-9979.
+
+### Artículo 19
+
+Articulo 19.
+1. En caso de fallecimiento, incapacidad o renuncia de un Diputado, el escaño será atribuido al candidato siguiente o, en su caso, al suplente de la misma lista, atendiendo a su orden de colocación.
+2. La Mesa de la Asamblea Regional de Cantabria, una vez en conocimiento de la sustitución que debe realizarse, dará traslado del hecho a la Junta Electoral de Cantabria, que deberá proceder en el plazo máximo de cinco días a la designación del diputado que corresponda, de acuerdo con el acta del escrutinio general de las últimas elecciones regionales.
+
+## TÍTULO V
+
+Procedimiento electoral
+
+## CAPÍTULO I
+
+Representantes de las candidaturas ante la Administración Electoral
+
+### Artículo 20
+
+Artículo 20.
+1. Los partidos, federaciones, coaliciones y agrupaciones que pretendan concurrir a las elecciones designarán a las personas que deban representarles ante la Administración Electoral, como representantes generales o de candidaturas.
+2. Los representantes de las candidaturas lo son los candidatos incluidos en ella. Al lugar designado expresamente o, en su defecto, a su domicilio, se les remitirán las notificaciones, citaciones, emplazamientos y requerimientos dirigidos por la Administración Electoral a los candidatos, y reciben de éstos, por la sola aceptación de la candidatura, un apoderamiento general para actuar en procedimientos judiciales de carácter electoral.
+
+### Artículo 21
+
+Artículo 21.
+1. A los efectos previstos en el artículo anterior, los partidos, federaciones y coaliciones que pretendan concurrir a las elecciones designarán un representante general y un suplente, mediante escrito presentado a la Junta Electoral de Cantabria antes del noveno día posterior al de la convocatoria de elecciones. El mencionado escrito habrá de expresar la aceptación de las personas elegidas. El suplente sólo podrá actuar en caso de renuncia, muerte o incapacidad del representante general.
+2. En el plazo de dos días, la Junta Electoral de Cantabria comunicará a las Juntas de Zona las designaciones a que se refiere el número anterior.
+3. Los promotores de las agrupaciones de electores designarán a los representantes de sus candidaturas y sus suplentes en el momento de presentación de las mismas. Dichas designaciones deben ser aceptadas en ese acto.
+
+## CAPÍTULO II
+
+Presentación y proclamación de candidatos
+
+### Artículo 22
+
+Artículo 22.
+1. La Junta Electoral de Cantabria será la competente para todas las actuaciones previstas en relación con la presentación y proclamación de candidatos para las elecciones a la Asamblea Regional de Cantabria.
+2. Para presentar candidaturas, las agrupaciones electorales necesitarán, al menos, la firma del 1 por 100 de los inscritos en el censo electoral de la circunscripción. Cada elector sólo podrá apoyar una agrupación electoral.
+
+### Artículo 23
+
+Artículo 23.
+1. La presentación de candidaturas habrá de realizarse entre el decimoquinto y el vigésimo día posterior a la convocatoria, mediante listas que deben incluir tantos candidatos como escaños a elegir y, además, cinco suplentes como mínimo, expresando el orden de colocación de todos ellos.
+2. Junto al nombre de los candidatos puede hacerse constar su condición de independiente o, en caso de coaliciones electorales la denominación del partido al que cada uno pertenezca.
+3. No pueden presentarse candidaturas con símbolos que reproduzcan la bandera o el escudo de la Comunidad Autónoma de Cantabria o alguno de sus elementos constitutivos.
+4. Las candidaturas que presenten los partidos políticos, federaciones, coaliciones o agrupaciones de personas electoras deberán mantener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista de personas candidatas cada uno de los sexos supongan como mínimo el cuarenta por ciento. Cuando el número de puestos a cubrir sea inferior a cinco, la proporción de mujeres y hombres será lo más cercana posible al equilibrio numérico.
+También se mantendrá la proporción mínima del cuarenta por ciento en cada tramo de cinco puestos. Cuando el último tramo de la lista no alcance los cinco puestos, la referida proporción de mujeres y hombres en ese tramo será lo más cercana posible al equilibrio numérico, aunque deberá mantenerse en cualquier caso la proporción exigible respecto del conjunto de la lista.
+A las listas de suplentes se aplicarán las reglas contenidas en los anteriores apartados.
+Se añade el apartado 4 por la disposición final 4 de la Ley 2/2019, de 7 de marzo. Ref. BOE-A-2019-4565#df-4
+
+### Artículo 24
+
+Articulo 24.
+1. Las candidaturas presentadas deben ser publicadas al vigésimo segundo día posterior al de la convocatoria en el «Boletín Oficial de Cantabria» y serán expuestas en los locales de la Junta Electoral de Cantabria, en los de las respectivas Juntas de Zona y en los Ayuntamientos.
+2. Dos días después, la Junta Electoral comunicará a los representantes de las candidaturas las irregularidades apreciadas en ellas, de oficio o a instancia de los representantes de cualquier candidatura. El plazo para subsanar las irregularidades es de setenta y dos horas.
+3. La Junta Electoral realizará la proclamación de candidatos el vigésimo séptimo día posterior al de la convocatoria y publicará las candidaturas en el «Boletín Oficial de Cantabria» el vigésimo octavo día.
+
+### Artículo 25
+
+Artículo 25.
+1. Las candidaturas no podrán ser modificadas una vez presentadas, salvo en el plazo habilitado para subsanar las irregularidades previstas en el artículo anterior y sólo por fallecimiento o renuncia del titular y como consecuencia del propio trámite de subsanación.
+2. Las bajas producidas después de la proclamación se entenderán cubiertas por los candidatos sucesivos y, en su caso, por los suplentes.
+
+## CAPÍTULO III
+
+Campaña electoral
+
+### Artículo 26
+
+Artículo 26.
+1. Se entiende por campaña electoral el conjunto de actividades lícitas llevadas a cabo por los candidatos, partidos, federaciones, coaliciones o agrupaciones en orden a la captación de sufragios.
+2. Durante la campaña electoral, el Gobierno de Cantabria de Cantabria podrá realizar una campaña de carácter institucional destinada a informar e incentivar la participación en las elecciones, sin influir en la orientación del voto de los electores.
+
+### Artículo 27
+
+Artículo 27.
+Durante la campaña electoral los partidos, federaciones, coaliciones o agrupaciones que concurran a las elecciones tendrán derecho a espacios gratuitos de propaganda en los distintos medios de comunicación de titularidad pública que operen en el ámbito regional.
+
+### Artículo 28
+
+Artículo 28.
+1. La Junta Electoral de Cantabria será la competente para distribuir los espacios gratuitos de propaganda electoral, a propuesta de la Comisión de Control a que se refiere el número siguiente.
+2. La Comisión de Control será designada por la Junta Electoral y estará integrada por un representante de cada partido, federación, coalición o agrupación que concurra a las elecciones y tenga representación en la Asamblea Regional de Cantabria. Dichos representantes votarán ponderadamente, de acuerdo con la composición de la Asamblea.
+3. La Junta Electoral de Cantabria elige al presidente de la Comisión de Control de entre los representantes nombrados conforme al apartado anterior.
+
+### Artículo 29
+
+Artículo 29.
+La distribución del tiempo gratuito de propaganda electoral en cada medio de comunicación de titularidad pública y en los distintos ámbitos de programación que éstos tengan se efectúa conforme al siguiente baremo:
+a) Quince minutos para los partidos, federaciones, coaliciones o agrupaciones de electores que no concurrieron o no obtuvieron representación en las anteriores elecciones autonómicas, o habiéndola obtenido, no alcanzaron el 5 por 100 del total de votos emitidos en el territorio de la Comunidad Autónoma de Cantabria.
+b) Treinta minutos para los partidos, federaciones y coaliciones que, habiendo concurrido a las anteriores elecciones autonómicas, alcanzaron entre el 5 y el 15 por 100 del total de votos a que se hace referencia en el apartado anterior.
+c) Un máximo de cuarenta y cinco minutos para los partidos, federaciones y coaliciones que, habiendo concurrido a las anteriores elecciones autonómicas, hubieran alcanzado más del 15 por 100 del total de los votos a que se hace referencia en el apartado a) de este artículo.
+
+### Artículo 30
+
+Artículo 30.
+Para determinar el momento y el orden de emisión de los espacios gratuitos de propaganda electoral a que tienen derecho los partidos, federaciones, coaliciones y agrupaciones que concurran a las elecciones, de acuerdo con lo previsto en esta ley, La Junta Electoral de Cantabria tendrá en cuenta las preferencias de aquéllos en función del número de votos que obtuvieron en las anteriores elecciones autonómicas.
+
+### Artículo 31
+
+Artículo 31.
+En todo lo no expresamente previsto en esta Ley, la utilización de los medios de comunicación social se regirá por lo dispuesto en la sección VI del capítulo VI, del título I de la Ley Orgánica del Régimen Electoral General.
+
+## CAPÍTULO IV
+
+Papeletas y sobres electorales
+
+### Artículo 32
+
+Artículo 32.
+La Junta Electoral de Cantabria aprueba el modelo oficial de las papeletas de votación de acuerdo a los criterios establecidos en esta Ley o en otras normas de rango reglamentario.
+
+### Artículo 33
+
+Artículo 33.
+Las papeletas electorales contendrán las siguientes indicaciones:
+a) La denominación, sigla y símbolo del partido, federación, coalición o agrupación de electores que presente la candidatura.
+b) Los nombres y apellidos de los candidatos y de los suplentes, según su orden de colocación, así como, en su caso la condición de independientes de los candidatos que concurran con tal carácter o, en caso de coaliciones electorales la denominación del partido al que pertenezca cada uno si así se ha hecho constar en la presentación de la candidatura.
+
+### Artículo 34
+
+Artículo 34.
+El Consejo de Gobierno de Cantabria asegurará la disponibilidad de papeletas y de los sobres de votación en número suficiente, que en ningún caso sobrepasará al de las personas inscritas en el Censo Electoral y a todos los grupos que hayan presentado candidaturas, sin perjuicio de su eventual confección por aquellos que concurran a las elecciones. El Consejo de Gobierno asegurará además la entrega de papeletas y sobres de votación a cada una de las Mesas Electorales, al menos una hora antes del momento en que deban iniciarse las votaciones.
+
+## CAPÍTULO V
+
+Voto por correo
+
+### Artículo 35
+
+Artículo 35.
+Los electores que prevean que en la fecha de la votación no se hallaran en la localidad donde les corresponda ejercer su derecho de voto, o que no pueden personarse, podrán emitir su voto por correo de acuerdo con lo dispuesto en la Ley Orgánica del Régimen Electoral General.
+
+## CAPÍTULO VI
+
+Apoderados e Interventores
+
+### Artículo 36
+
+Artículo 36.
+El representante de cada candidatura podrá nombrar, con el alcance y en los términos previstos en la Ley Orgánica del Régimen Electoral General, Apoderados e Interventores para representar a las candidaturas en los actos y operaciones electorales.
+
+## TÍTULO VI
+
+Gastos y subvenciones electorales
+
+## CAPÍTULO I
+
+Gastos electorales y sus límites
+
+### Artículo 37
+
+Artículo 37.
+Se considerarán gastos electorales los que realicen los partidos políticos, federaciones, coaliciones o agrupaciones de electores participantes en las elecciones desde el día de la convocatoria hasta el día de la votación, por los conceptos a que hace referencia el artículo 130 de la Ley Orgánica del Régimen Electoral General.
+
+### Artículo 38
+
+Artículo 38.
+1. En las elecciones a la Asamblea Regional de Cantabria, el límite de los gastos electorales de cada partido político, federación, coalición o agrupación de electores será el que resulte de multiplicar por cuarenta el número de habitantes correspondientes a la población de derecho de Cantabria. Ningún partido político, federación, coalición o agrupación de electores podrá realizar gastos electorales que superen dicho límite.
+2. La cantidad mencionada en el apartado anterior se entenderá referida a pesetas constantes. Por Orden del Consejero de Economía, Hacienda y Comercio se fijará la cantidad actualizada en los cinco días siguientes al de la convocatoria de las elecciones.
+3. En el supuesto de coincidencia de elecciones al Parlamento de Cantabria con otro proceso electoral por sufragio universal directo, los partidos, federaciones, coaliciones y agrupaciones de electores concurrentes, se adecuarán, en cuanto al límite de gastos, a lo dispuesto en el artículo 131.2 de la Ley Orgánica del Régimen Electoral General.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Orden publicada en el Boletín Oficial de Cantabria.
+Se añade el apartado 3 por el art. 1.III de la Ley 6/1999, de 24 de marzo. Ref. BOE-A-1999-10365.
+
+## CAPÍTULO II
+
+Financiación electoral
+
+### Artículo 39
+
+Artículo 39.
+1. El Gobierno de la Diputación Regional de Cantabria concederá a los partidos políticos, federaciones, coaliciones o agrupaciones de electores las siguientes subvenciones:
+a) 750.000 pesetas por cada uno de los escaños obtenidos.
+b) 60 pesetas por cada uno de los votos conseguidos por las candidaturas que hubieran obtenido, al menos, un escaño.
+2. A dichas subvenciones les será aplicable lo establecido en el apartado 2 del artículo anterior.
+3. En ningún caso, la subvención correspondiente a cada grupo político podrá sobrepasar la cifra de gastos electorales declarados justificados por el Tribunal de Cuentas en el ejercicio de su función fiscalizadora.
+Téngase en cuenta que las cantidades establecidas en este artículo se actualizan periódicamente por Orden publicada en el Boletín Oficial de Cantabria.
+Se añade el apartado 3 por el art. 1.IV de la Ley 6/1999, de 24 de marzo. Ref. BOE-A-1999-10365.
+
+### Artículo 40
+
+Artículo 40.
+1. El Consejo Gobierno de la Diputación Regional de Cantabria concederá anticipos de las subvenciones establecidas en el artículo anterior a los partidos políticos, federaciones o coaliciones que hubiesen obtenido representantes en las últimas elecciones a la Asamblea Regional de Cantabria. El importe de dichos anticipos no podrá exceder del 30 por 100 de la subvención percibida en las referidas elecciones.
+2. Las solicitudes de anticipo deberán ser presentadas por los administradores electorales ante la Junta Electoral de Cantabria entre los días vigésimo primero y vigésimo tercero posteriores al de la convocatoria. Dicha Junta dará traslado de las solicitudes presentadas al Consejo de Gobierno de la Diputación Regional de Cantabria.
+3. A partir del vigésimo noveno día posterior al de la convocatoria, el Consejo de Gobierno de la Diputación Regional de Cantabria pondrá a disposición de los administradores electorales los anticipos correspondientes.
+4. Los anticipos se devolverán, después de las elecciones, en la cuantía en que superen el importe de la subvención que finalmente hubiera correspondido a cada partido político, federación o coalición.
+
+## CAPÍTULO III
+
+Control de la contabilidad electoral y adjudicación de las subvenciones
+
+### Artículo 41
+
+Artículo 41.
+1. El control de contabilidad electoral y la adjudicación de las subvenciones se efectuará en la forma y plazos señalados en la legislación electoral general, con las especialidades señaladas en este capítulo.
+2. El Consejo de Gobierno, en el plazo de treinta días siguientes a la presentación ante el Tribunal de Cuentas de la contabilidad electoral y en concepto de adelanto mientras no concluyan las actuaciones de este Tribunal, entregará a los administradores electorales el 60 por 100 del importe de las subvenciones que, de acuerdo con lo establecido en esta Ley, le correspondan de acuerdo con los resultados generales publicados en el "Boletín Oficial de Cantabria"; computándose en ese porcentaje, en su caso, el anticipo a que se refiere el artículo anterior.
+3. El Consejo de Gobierno entregará, con la limitación establecida antes, el importe de las subvenciones a que se refiere el apartado precedente, salvo que los administradores electorales de las Entidades que deban percibirlas hubieran notificado a la Junta Electoral, que sean abonadas, en todo o en parte, a las Entidades bancarias que designen, para compensar los anticipos o créditos que les hayan otorgado. El Consejo de Gobierno verificará el pago conforme a los términos de dicha notificación, que no podrá ser revocada sin consentimiento de la Entidad de crédito beneficiaria.
+4. El informe del Tribunal de Cuentas, en el ejercicio de sus funciones fiscalizadoras, se remitirá por el mismo al Consejo de Gobierno y a la Mesa de la Asamblea Regional, o en su caso, a la Diputación Permanente.
+A la vista del informe, la Asamblea Regional se pronunciará sobre la no adjudicación o reducción de la subvención al partido, federación, coalición o agrupación de que se trate, ello en el caso de que se hubiesen apreciado irregularidades en dicha contabilidad o violaciones de las restricciones establecidas en materia de ingresos y gastos electorales. En todo caso, se comunicará al Consejo de Gobierno, a los efectos de lo dispuesto en el apartado siguiente.
+5. El Consejo de Gobierno proveerá a los gastos electorales que le correspondan, con sujeción a la Ley de Cantabria 7/1984, de 21 de diciembre, de Finanzas de la Diputación Regional de Cantabria, y disposiciones complementarias.
+Se modifica por el art. único.3 de la Ley 4/1991, de 22 de marzo. Ref. BOE-A-1991-9979.
+
+### Artículo 42
+
+Artículo 42.
+Los partidos, federaciones, coaliciones y agrupaciones de electores que presenten candidatos a la Asamblea Regional de Cantabria, deberán nombrar un administrador electoral con el alcance y en los términos previstos en la Ley Orgánica del Régimen Electoral General.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En todo lo no previsto en la presente Ley serán de aplicación las normas vigentes para las elecciones legislativas contenidas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Se faculta al Consejo de Gobierno de Cantabria para dictar cuantas disposiciones sean precisas para el cumplimiento, desarrollo y ejecución de esta Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los plazos a los que se refiere esta Ley serán improrrogables y se entenderán referidos siempre a días naturales.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+En el supuesto de que la celebración de elecciones a la Asamblea Regional sea simultánea con la de otras elecciones convocadas por el Gobierno de la Nación, actuará como Administración Electoral la Junta Electoral Provincial, la cual ejercerá las funciones que la presente Ley atribuye a la Junta Electoral de Cantabria.
+Se añade por el art. único.4 de la Ley 4/1991, de 22 de marzo. Ref. BOE-A-1991-9979.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no entre en funcionamiento el Tribunal Superior de Justicia de Cantabria, todas las atribuciones al mismo contenidas en el artículo 8 de esta Ley se entienden referidas a la Audiencia Provincial.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La primera designación de los miembros de la Junta Electoral de Cantabria debe realizarse, según el procedimiento del título II, dentro de los quince días siguientes a las entrada en vigor de la presente Ley. En el mismo plazo se procederá al nombramiento de Presidente y Vicepresidente.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+El régimen de incompatibilidades dispuesto en esta Ley entrará en vigor a partir de las próximas elecciones al Parlamento de Cantabria.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su íntegra publicación en el «Boletín Oficial de Cantabria».
+
+Palacio de la Diputación, Santander, 27 de marzo de 1987.
+ÁNGEL DÍAZ DE ENTRESOTOS Y MIER
+Presidente del Consejo de Gobierno.
+
+## [Información relacionada]
+
+Información relacionada
+ Las denominaciones Diputación Regional de Cantabria, Asamblea Regional de Cantabria o Consejo de Gobierno de Cantabria se sustituyen por las de Comunidad Autónoma de Cantabria, Parlamento de Cantabria o Gobierno de Cantabria, respectivamente, según establece el art. 2 de la Ley 6/1999, de 24 de marzo. Ref. BOE-A-1999-10365.

@@ -1,0 +1,284 @@
+# Ley Foral 18/1986, de 15 de diciembre, del vascuence.
+
+- Identificador BOE: `BOE-A-1987-1257`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-1257
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Esta norma pasa a denominarse Ley Foral 18/1986, de 15 de diciembre, del Euskera, por el art. 1 de la Ley Foral 9/2017, de 27 de junio. Ref. BOE-A-2017-8667, asímismo, las referencias hechas a la expresión "vascuence" a lo largo del texto se entienden referidas a la expresión "euskera", según establece la disposición adicional de la misma ley.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral del Vascuence.
+Dentro del patrimonio cultural de las Comunidades, las lenguas ocupan un lugar preeminente. Su carácter instrumental de vehículo de comunicación humana por excelencia, hace de ellas soporte fundamental de la vida social, elemento de identificación colectiva y factor de convivencia y entendimiento entre los miembros de las sociedades. Al mismo tiempo, las lenguas son símbolo y testimonio de la historia propia, en la medida que recogen, conservan y transmiten a lo largo de las generaciones la experiencia colectiva de los pueblos que las emplean.
+La condición dinámica del fenómeno lingüístico y la complejidad y variedad de los factores que en él intervienen, han dado lugar históricamente a continuas fluctuaciones en lo que a la implantación de las lenguas en las comunidades se refiere: La expansión de unas y el retroceso de otras, forzados en ocasiones por motivos de orden extralingüístico, son sin duda las más significativas. En estos cambios han intervenido frecuentemente actitudes opuestas a las que fundamentan el hecho comunicativo, propiciadas por quienes atribuyen erróneamente a las lenguas, un poder disgregador o no alcanzan a ver la riqueza última que esconde la pluralidad de lenguas.
+Aquellas Comunidades que, como Navarra, se honran en disponer en su patrimonio de más de una lengua, están obligadas a preservar ese tesoro y evitar su deterioro o su pérdida. Más la protección de tal patrimonio no puede ni debe ejercerse desde la confrontación u oposición de las lenguas, sino como establece el artículo 3.3 de la Constitución, reconociendo en ellas un patrimonio cultural que debe ser objeto de especial respeto y protección.
+Sobre estos principios se asienta esta Ley Foral que viene a dar cumplimiento al referido mandato constitucional y desarrollar las previsiones contenidas en el artículo 9 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. Esta Ley Foral tiene por objeto la regulación del uso normal y oficial del vascuence en los ámbitos de la convivencia social, así como en la enseñanza.
+2. Son objetivos esenciales de la misma:
+a) Amparar el derecho de los ciudadanos a conocer y usar el vascuence y definir los instrumentos para hacerlo efectivo.
+b) Proteger la recuperación y el desarrollo del vascuence en Navarra, señalando las medidas para el fomento de su uso.
+c) Garantizar el uso y la enseñanza del vascuence con arreglo a principios de voluntariedad, gradualidad y respeto, de acuerdo con la realidad sociolingüística de Navarra.
+3. Las variedades dialectales del vascuence en Navarra serán objeto de especial respeto y protección.
+
+### Artículo 2
+
+Artículo 2.
+1. El castellano y el vascuence son lenguas propias de Navarra y, en consecuencia, todos los ciudadanos tienen derecho a conocerlas y a usarlas.
+2. El castellano es la lengua oficial de Navarra. El vascuence lo es también en los términos previstos en el artículo 9 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra y en los de esta Ley Foral.
+
+### Artículo 3
+
+Artículo 3.
+1. Los poderes públicos adoptarán cuantas medidas sean necesarias para impedir la discriminación de los ciudadanos por razones de lengua.
+2. Los poderes públicos respetarán la norma idiomática en todas las actuaciones que se deriven de lo dispuesto en esta Ley Foral y en las disposiciones que la desarrollen.
+3. La Institución consultiva oficial, a los efectos del establecimiento de las normas lingüísticas, será la Real Academia de la Lengua Vasca, a la que los poderes públicos solicitarán cuantos informes o dictámenes consideren necesarios para dar cumplimiento a lo establecido en el apartado anterior.
+
+### Artículo 4
+
+Artículo 4.
+Los ciudadanos podrán dirigirse a los Jueces y Tribunales, de acuerdo con la legislación vigente, para ser amparados en los derechos lingüísticos que se establecen en esta Ley Foral.
+
+### Artículo 5
+
+Artículo 5.
+1. A los efectos de esta Ley Foral, Navarra tiene:
+a) Una zona vascófona, integrada por los términos municipales de: Abaurregaina/Abaurrea Alta, Abaurrepea/Abaurrea Baja, Altsasu/Alsasua, Anue, Araitz, Arakil, Arano, Arantza, Arbizu, Areso, Aria, Aribe, Arruazu, Atetz/Atez, Auritz/Burguete, Bakaiku, Basaburua, Baztan, Beintza-Labaien, Bera, Bertizarana, Betelu, Donamaria, Doneztebe/Santesteban, Elgorriaga, Eratsun, Ergoiena, Erroibar/Valle de Erro, Esteribar, Etxalar, Etxarri Aranatz, Ezkurra, Garaioa, Garralda, Goizueta, Hiriberri/Villanueva de Aezkoa, lgantzi, lmotz, lrañeta, lrurtzun, lturen, lturmendi, Lakuntza, Lantz, Larraun, Leitza, Lekunberri, Lesaka, Luzaide/Valcarlos, Oiz, Olazti/Olazagutía, Orbaizeta, Orbara, Orreaga/Roncesvalles, Saldias, Sunbilla, Uharte Arakil, Ultzama, Urdazubi/Urdax, Urdiain, Urroz, Ziordia, Zubieta y Zugarramurdi.
+b) Una zona mixta integrada por los términos municipales de: Abáigar, Abárzuza/Abartzuza, Adiós, Aibar/Oibar, Allín/Allin, Améscoa Baja, Ancín/Antzin, Ansoáin/Antsoain, Añorbe, Aoiz/Agoitz, Aranarache/Aranaratxe, Aranguren, Arce/Artzi, Arellano, Artazu, Barañáin/Barañain, Bargota, Belascoáin, Beriáin, Berrioplano/Berriobeiti, Berriozar, Bidaurreta, Biurrun-Olcoz, Burgui/Burgi, Burlada/Burlata, Cabredo, Cendea de Olza/Oltza Zendea, Cirauqui/Zirauki, Ciriza/Ziritza, Cizur, Dicastillo, Echarri/Etxarri, Enériz/Eneritz, Etxauri, Eulate, Ezcároz/Ezkaroze, Esparza de Salazar/Espartza Zaraitzu, Estella-Lizarra, Ezcabarte, Galar, Gallués/Galoze, Garde, Garínoain, Goñi, Güesa/Gorza, Guesálaz/Gesalatz, Huarte/Uharte, lsaba/Izaba, Iza/Itza, lzagaondoa, lzalzu/Itzaltzu, Jaurrieta, Juslapeña, Larraona, Leoz/Leotz, Lerga, Lezáun, Lizoáin-Arriasgoiti/Lizoain-Arriasgoiti, Lónguida/Longida, Mendigorría, Metauten, Mirafuentes, Murieta, Nazar, Obanos, Ochagavía/Otsagabia, Odieta, Oláibar, Olite/Erriberri, Orkoien, Oronz/Orontze, Oroz-Betelu/Orotz-Betelu, Oteiza, Pamplona/Iruña, Puente la Reina/Gares, Pueyo, Roncal/Erronkari, Salinas de Oro/Jaitz, Sangüesa/Zangoza, Sarriés/Sartze, Tafalla, Tiebas-Muruarte de Reta, Tirapu, Unzué/Untzue, Ujué/Uxue, Urraúl Bajo, Urroz Villa, Urzainqui/Urzainki, Uztárroz/Uztarroze, Valle de Egüés/Eguesibar, Valle de Ollo/Ollaran, Valle de Yerri/Deierri, Vidángoz/Bidankoze, Villava/Atarrabia, Villatuerta, Zabalza/Zabaltza, Zizur Mayor/Zizur Nagusia y Zúñiga.
+Esta zona mixta podrá ser ampliada automáticamente al municipio de Noáin (Valle de Elorz)/Noain (Elortzibar), siempre que así lo acuerde previamente, por mayoría absoluta, el pleno municipal de su corporación, debiendo ser publicado dicho acuerdo en el Boletín Oficial de Navarra para que tenga plena efectividad.
+c) Una zona no vascófona, integrada por los restantes términos municipales.
+2. La determinación realizada en el apartado anterior podrá ser objeto de revisión, con arreglo al procedimiento establecido en los artículos 9 y 20.2 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+3. El Gobierno de Navarra ordenará periódicamente la elaboración de estudios de la realidad sociolingüística del vascuence de los que dará cuenta al Parlamento.
+Se modifica el apartado 1.a) y b) por el art. 2 y 3 de la Ley Foral 9/2017, de 27 de junio. Ref. BOE-A-2017-8667
+ Redactado conforme a la corrección de erratas publicada en BON núm. 134, de 12 de julio de 2017. Ref. BOE-A-2017-90407 y a la corrección de errores publicada en BON núm. 156, de 14 de agosto de 2017. Ref. BOE-A-2017-90448
+ Se modifica el apartado 1.a) y b) por el art. único de la Ley Foral 2/2010, de 23 de febrero. Ref. BOE-A-2010-5107.
+
+## TÍTULO I
+
+Del uso normal y oficial
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 6
+
+Artículo 6.
+Se reconoce a todos los ciudadanos el derecho a usar tanto el vascuence como el castellano en sus relaciones con las Administraciones Públicas, en los términos establecidos en los capítulos siguientes.
+
+### Artículo 7
+
+Artículo 7.
+El «Boletín Oficial de Navarra» y el «Boletín Oficial del Parlamento de Navarra» se publicarán en castellano y en vascuence, en ediciones separadas y simultáneas.
+
+### Artículo 8
+
+Artículo 8.
+1. Los topónimos de la Comunidad Foral, tendrán denominación oficial en castellano y en vascuence, de conformidad con las siguientes normas:
+a) En la zona vascófona, la denominación oficial será en vascuence, salvo que exista denominación distinta en castellano, en cuyo caso se utilizarán ambas.
+b) En las zonas mixta y no vascófona, la denominación oficial será la actualmente existente, salvo que, para las expresadas en castellano, exista una denominación distinta, originaria y tradicional en vascuence, en cuyo caso se utilizarán ambas.
+2. El Gobierno de Navarra, previo informe de la Real Academia de la Lengua Vasca, determinará, de conformidad con lo previsto en el apartado primero de este artículo, los topónimos de la Comunidad Foral, así como los nombres oficiales de los territorios, los núcleos de población y las vías interurbanas, y deberá dar cuenta de ello al Parlamento. El nombre de las vías urbanas será fijado por el Ayuntamiento correspondiente.
+3. Las denominaciones adoptadas por el Gobierno, a tenor de lo dispuesto en los apartados anteriores, serán las legales, a todos los efectos, dentro del territorio de Navarra y la rotulación deberá ser acorde con ellas. El Gobierno de Navarra reglamentará la normalización de la rotulación pública, respetando, en todos los casos, las normas internacionales que el Estado haya asumido.
+
+### Artículo 9
+
+Artículo 9.
+El Gobierno de Navarra establecerá en Pamplona una unidad administrativa de traducción oficial vascuence-castellano.
+
+## CAPÍTULO II
+
+Del uso oficial en la zona vascófona
+
+### Artículo 10
+
+Artículo 10.
+Todos los ciudadanos tienen derecho a usar tanto el vascuence como el castellano en sus relaciones con las Administraciones Públicas y a ser atendidos en la lengua oficial que elijan.
+A tal efecto, se adoptarán las medidas oportunas y se arbitrarán los medios necesarios para garantizar de forma progresiva el ejercicio de este derecho.
+En los expedientes o procedimientos en los que intervenga más de una persona, los poderes públicos utilizarán la lengua que establezcan de mutuo acuerdo las partes que concurran.
+
+### Artículo 11
+
+Artículo 11.
+Serán válidas y tendrán plena eficacia jurídica todas las actuaciones administrativas cualquiera que sea la lengua oficial empleada. En consecuencia, todos los actos en que intervengan órganos de las Administraciones Públicas, así como las notificaciones y comunicaciones administrativas, deberán ser redactadas en ambas lenguas, salvo que todos los interesados elijan expresamente la utilización de una sola.
+
+### Artículo 12
+
+Artículo 12.
+Los documentos públicos deberán redactarse en la lengua oficial que el otorgante elija o, si hubiese más de un otorgante, en la que éstos acuerden.
+Los fedatarios públicos deberán expedir en castellano o vascuence, según lo solicite el interesado, las copias o los testimonios y traducir cuando sea necesario matrices y documentos bajo su responsabilidad.
+En todo caso, deberán expedir en castellano las copias que deban tener efecto fuera de la zona vascófona.
+
+### Artículo 13
+
+Artículo 13.
+1. En los Registros Públicos, los asientos se extenderán en la lengua oficial en que esté redactado el documento y, en todo caso, también en castellano.
+2. La expedición de copias y certificaciones se realizará en cualquiera de las lenguas oficiales.
+
+### Artículo 14
+
+Artículo 14.
+En sus relaciones con la Administración de Justicia, todo ciudadano podrá utilizar la lengua oficial de su elección, de conformidad con lo dispuesto en la legislación vigente.
+
+### Artículo 15
+
+Artículo 15.
+1. Las Administraciones Públicas y las Empresas de carácter público promoverán la progresiva capacitación en el uso del vascuence del personal que preste servicio en la zona vascófona.
+2. En el ámbito de sus respectivas competencias, cada Administración especificará las plazas para las que sea preceptivo el conocimiento del vascuence y para las demás se considerará como mérito cualificado entre otros.
+
+### Artículo 16
+
+Artículo 16.
+Las Entidades Locales de la zona vascófona utilizarán el castellano y el vascuence en todas sus disposiciones, publicaciones, rotulaciones de vías urbanas y nombres propios de sus lugares, respetando, en todo caso, los tradicionales.
+
+## CAPÍTULO III
+
+Del uso en la zona mixta
+
+### Artículo 17
+
+Artículo 17.
+Todos los ciudadanos tienen derecho a usar tanto el vascuence como el castellano para dirigirse a las Administraciones Públicas de Navarra.
+Para garantizar el ejercicio de este derecho, dichas Administraciones podrán:
+a) Especificar en la oferta pública de empleo de cada año, las plazas para acceder a las cuales sea preceptivo el conocimiento del vascuence.
+b) Valorar como mérito el conocimiento del vascuence en las convocatorias para el acceso a las demás plazas.
+
+## CAPÍTULO IV
+
+Del uso en la zona no vascófona
+
+### Artículo 18
+
+Artículo 18.
+Se reconoce a los ciudadanos el derecho a dirigirse en vascuence a las Administraciones Públicas de Navarra. Estas podrán requerir a los interesados la traducción al castellano o utilizar los servicios de traducción previstos en el artículo 9.
+
+## TÍTULO II
+
+De la enseñanza
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 19
+
+Artículo 19.
+Todos los ciudadanos tienen derecho a recibir la enseñanza en vascuence y en castellano en los diversos niveles educativos, en los términos establecidos en los capítulos siguientes.
+
+### Artículo 20
+
+Artículo 20.
+El Gobierno de Navarra regulará la incorporación del vascuence a los planes de enseñanza y determinará los modos de aplicación a cada centro, en el marco de lo dispuesto por esta Ley Foral para las distintas zonas.
+
+### Artículo 21
+
+Artículo 21.
+El Gobierno de Navarra llevará a cabo, en el ámbito de sus competencias, las acciones necesarias para que los planes de estudio de los centros superiores de formación del profesorado, garanticen la adecuada capacitación del profesorado necesario para la enseñanza vascuence.
+
+### Artículo 22
+
+Artículo 22.
+Las Administraciones Públicas proporcionarán los medios personales, técnicos y materiales precisos para hacer efectivo lo dispuesto en los artículos anteriores.
+
+### Artículo 23
+
+Artículo 23.
+Los planes oficiales de estudio considerarán el vascuence como patrimonio cultural de Navarra y se adaptarán a los objetivos de esta Ley Foral.
+
+## CAPÍTULO II
+
+De la enseñanza en la zona vascófona
+
+### Artículo 24
+
+Artículo 24.
+1. Todos los alumnos recibirán la enseñanza en la lengua oficial que elija la persona que tenga atribuida la patria potestad o tutela o, en su caso, el propio alumno.
+2. En los niveles educativos no universitarios será obligatoria la enseñanza del vascuence y del castellano, de tal modo que los alumnos, al final de su escolarización básica, acrediten un nivel suficiente de capacitación en ambas lenguas.
+3. Los alumnos que hayan iniciado sus estudios de Educación General básica fuera de la zona vascófona o aquellos que justifiquen debidamente su residencia no habitual en la misma, podrán ser eximidos de la enseñanza del vascuence.
+
+## CAPÍTULO III
+
+De la enseñanza en la zona mixta
+
+### Artículo 25
+
+Artículo 25.
+1. La incorporación del vascuence a la enseñanza, se llevará a cabo de forma gradual, progresiva y suficiente, mediante la creación, en los centros, de líneas donde se imparta enseñanza en vascuence para los que lo soliciten.
+2. En los niveles educativos no universitarios se impartirán enseñanzas de vascuence a los alumnos que lo deseen, de tal modo que al final de su escolarización puedan obtener un nivel suficiente de conocimiento de dicha lengua.
+
+## CAPÍTULO IV
+
+De la enseñanza en la zona no vascófona
+
+### Artículo 26
+
+Artículo 26.
+1. La incorporación del vascuence a la enseñanza se llevará a cabo de forma gradual, progresiva y suficiente, mediante la creación, en los centros públicos existentes, de líneas en las que se imparta enseñanza en vascuence en función de la demanda.
+2. Se impartirán enseñanzas de vascuence, en los niveles educativos no universitarios, a todo el alumnado que así lo demande, de tal modo que al final de su escolarización pueda obtener un nivel suficiente de conocimiento de dicha lengua.
+3. A efectos de atender la demanda en la red pública se tendrá en cuenta el número mínimo de alumnos que, respondiendo a criterios objetivos, utilice la Administración educativa en cualquiera de los modelos de enseñanza para la configuración de una unidad escolar.
+Se modifica por el art. único.2 de la Ley Foral 4/2015, de 24 de febrero. Ref. BOE-A-2015-2967.
+
+## TÍTULO III
+
+De los medios de comunicación social
+
+### Artículo 27
+
+Artículo 27.
+1. Las Administraciones Públicas promoverán la progresiva presencia del vascuence en los medios de comunicación social públicos y privados.
+A tal fin, el Gobierno de Navarra elaborará planes de apoyo económico y material para que los medios de comunicación empleen el vascuence de forma habitual y progresiva.
+2. En las emisoras de televisión y radio, y en los demás medios de comunicación gestionados por la Comunidad Foral, el Gobierno de Navarra velará por la adecuada presencia del vascuence.
+
+### Artículo 28
+
+Artículo 28.
+Las Administraciones Públicas de Navarra protegerán las manifestaciones culturales y artísticas, la edición de libros, la producción audiovisual y cualesquiera otras actividades que se realicen en vascuence.
+
+### Disposición adicional
+
+Disposición adicional.
+El Gobierno de Navarra, a través del Servicio de Cultura, Institución Príncipe de Viana, llevará a cabo las actuaciones precisas para dar cumplimiento a lo establecido en el artículo 1.3, de esta Ley Foral.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El Gobierno de Navarra, a través del Servicio de Cultura, Institución Príncipe de Viana, llevará a cabo las actuaciones precisas para dar cumplimiento a lo establecido en el artículo 1.3, de esta Ley Foral.
+Se numera por el art. 4 de la Ley Foral 9/2017, de 27 de junio. Ref. BOE-A-2017-8667
+ Su anterior denominación era Disposición adicional.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Las entidades locales de Navarra podrán aprobar, en el ámbito de sus competencias, ordenanzas que regulen o fomenten el uso del euskera en su término, sin que puedan contener disposiciones opuestas a lo establecido en esta ley foral.
+Se añade por el art. 5 de la Ley Foral 9/2017, de 27 de junio. Ref. BOE-A-2017-8667
+
+### Disposición transitoria
+
+Disposición transitoria.
+En el plazo de tres meses, el Gobierno de Navarra creará la unidad administrativa de traducción oficial vascuence-castellano a que se refiere el artículo 9.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de Navarra para dictar cuantas disposiciones sean precisas para el desarrollo y la aplicación de esta Ley Foral.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado», y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 15 de diciembre de 1986.
+GABRIEL URRALBURU TAINTA,
+Presidente del Gobierno de Navarra

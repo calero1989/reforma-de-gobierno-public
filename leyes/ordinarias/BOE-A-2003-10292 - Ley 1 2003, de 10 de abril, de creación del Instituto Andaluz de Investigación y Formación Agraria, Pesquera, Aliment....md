@@ -1,0 +1,216 @@
+# Ley 1/2003, de 10 de abril, de creación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica.
+
+- Identificador BOE: `BOE-A-2003-10292`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-10292
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presenten vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley de creación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica.
+EXPOSICIÓN DE MOTIVOS
+La Junta de Andalucía es consciente de la importancia que los sectores agrario, pesquero y alimentario tienen para la sociedad y la economía andaluza, así como de la necesidad de su modernización para preservar y ampliar su proyección social y económica. Para ello es esencial dotarse de aquellos medios que garanticen su capacidad de respuesta ante los cambios, presentes y futuros y, especialmente, de los recursos humanos competentes y formados en los sectores agrario, pesquero y alimentario, así como de la disponibilidad de un sistema eficiente de investigación y de transferencia de tecnología.
+Este sistema, instrumento esencial para la modernización, propiciará, además, la cooperación entre las administraciones públicas y, de éstas, con el sector privado, actuando como elemento de coordinación para optimizar los recursos y los esfuerzos de investigación y de transferencia de tecnología en el sistema agroalimentario y pesquero de Andalucía.
+La creación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica, como instrumento de innovación para estos sectores, se fundamenta en los títulos competenciales recogidos en la Ley Orgánica 6/1981, de 30 de diciembre, del Estatuto de Autonomía de Andalucía, en sus artículos 13.1 en materia de autoorganización; 18.1.4.ª, relativo a la agricultura; 13.18, relativo a la pesca; 18.1.5.ª, relativo a la industria; 13.29, relativo a la investigación, y en el 19.2, que establece de manera específica que: «... los poderes de la Comunidad Autónoma velarán por que los contenidos de la enseñanza y de la investigación en Andalucía guarden una esencial conexión con las realidades, tradiciones, problemas y necesidades del pueblo andaluz».
+La Administración de la Junta de Andalucía, y concretamente la Consejería de Agricultura y Pesca, es la competente en materia de políticas de investigación, transferencia de tecnología y formación agraria y pesquera, para lo que dispone de una red de centros y recursos humanos «investigadores, técnicos y personal auxiliar» con una dilatada trayectoria profesional y un alto grado de especialización. Sin embargo, el contexto internacional en el que los sectores agrario, pesquero, acuícola y alimentario se desenvuelven en la actualidad, los retos de futuro y, en particular, el desarrollo de sistemas agrarios sostenibles y la progresiva implementación científica y tecnológica de la agricultura ecológica, obligan a introducir importantes cambios estructurales y organizativos en el sistema de investigación, desarrollo y formación de la Consejería de Agricultura y Pesca.
+Este nuevo organismo ha de diseñarse con una orientación inequívoca hacia objetivos de política sectorial y de interacción con los agentes socioeconómicos, de manera que impulse la investigación, la innovación tecnológica y la formación de los sectores agroalimentarios y pesqueros de Andalucía; facilite la transferencia y puesta en valor de logros científicos propios; eleve el nivel tecnológico de estos sectores mediante programas de formación y transferencia de tecnología, y proporcione a la agricultura, la ganadería y la acuicultura ecológicas el soporte científico y tecnológico necesario para su desarrollo sostenible. Todo ello realizado en estrecha colaboración con los representantes de los sectores interesados y en coordinación con otras instituciones y entidades públicas y privadas que desarrollen similares actividades.
+En este sentido, la legislación vigente contempla la regulación de entidades jurídicas capaces de conjugar la agilidad y eficiencia que la realización de actividades de investigación, transferencia y formación actualmente necesitan, con los requerimientos y controles administrativos que la propia Ley fija.
+Por ello, el Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica que con esta Ley se crea ha sido diseñado para alcanzar unos objetivos ambiciosos, ser ágil y eficaz en su funcionamiento, realista y pragmático en sus programas de actuación, capaz de abordar eficazmente las demandas del complejo agrario, pesquero y alimentario andaluz y adaptarse a la dinámica y variabilidad propia de estos sectores, anticipándose estratégicamente a las necesidades de los mismos.
+La capacidad científica, tecnológica y de transferencia de conocimientos está íntimamente relacionada con la formación disciplinar y metodológica de quienes tienen que realizarla. En este sentido, la Ley posibilita que en los Estatutos del Organismo se pueda establecer un sistema específico de acceso del personal a las especialidades que se crean en la propia Ley.
+El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica deberá promover y contribuir a dar la necesaria respuesta a las demandas de los sectores. A tal efecto participará en acciones coordinadas con cualesquiera otras entidades públicas u órganos de la Administración de la Comunidad Autónoma de Andalucía o de otras Administraciones Públicas. Se dará también con ello respuesta a los imperativos de coordinación establecidos por la Comunidad Autónoma de Andalucía para sus instrumentos de planificación en materia de investigación y formación profesional, teniendo, además, en consideración las previsiones contenidas en el Plan Andaluz de Investigación y Desarrollo Tecnológico.
+
+## CAPÍTULO I
+
+Naturaleza y funciones
+
+### Artículo 1
+
+Artículo 1. Creación, naturaleza y ámbito.
+1. Se crea el Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica, adscrito a la Consejería de Agricultura y Pesca, como organismo autónomo que tendrá personalidad jurídica y patrimonio propio, conforme a lo previsto en el artículo 4.1 a) de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía.
+2. El ámbito de actuación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica se extenderá a todo el territorio de la Comunidad Autónoma de Andalucía, sin perjuicio de su proyección nacional e internacional en razón de sus objetivos.
+
+### Artículo 2
+
+Artículo 2. Objetivos y funciones.
+1. Los objetivos del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica serán contribuir a la modernización de los sectores agrario, pesquero y alimentario de Andalucía y a la mejora de su competitividad a través de la investigación, la innovación, la transferencia de tecnología y la formación de agricultores, pescadores, técnicos y trabajadores de esos sectores.
+2. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica podrá desarrollar cuantas funciones sean necesarias para el cumplimiento de los objetivos previstos en el apartado anterior, sin perjuicio de las competencias que puedan corresponder a otras Consejerías.Específicamente tendrá las siguientes funciones:
+a) Apoyar el desarrollo de las políticas agrarias, pesqueras, alimentarias y de producción ecológica de la Administración de la Junta de Andalucía en los ámbitos científico y formativo.
+b) Diseñar y realizar los planes de investigación sectorial, con participación de los agentes implicados, teniendo en cuenta los objetivos, programas e instrumentos de los Planes de Investigación y Desarrollo Tecnológico vigentes en cada momento en Andalucía.
+c) Planificar y llevar a la práctica los programas de información y formación de agricultores, pescadores, trabajadores y técnicos a través de la transferencia de tecnología, basados en los resultados de la investigación propia o ajena o de otras fuentes de conocimiento, así como evaluar sus resultados en función del grado de adaptación de aquellas tecnologías. Todo ello con sujeción y de acuerdo con los términos contenidos en el Plan Andaluz de Formación Profesional.
+d) Servir de instrumento de apoyo a los sectores agrario, pesquero y alimentario mediante la prestación de servicios, la realización de estudios y asesoramiento y de las actuaciones complementarias que redunden en la mejora de los sistemas productivos.
+e) Fomentar las relaciones y la coordinación en programas y actividades de investigación y transferencia de tecnología con instituciones y entidades públicas y privadas, estableciendo los mecanismos de colaboración que sean necesarios, con especial referencia a las Universidades andaluzas.
+f) Contribuir a mejorar la eficacia de los programas de formación agraria, pesquera, alimentaria y de la producción ecológica, incluyendo la formación del personal investigador, que se desarrollan en Andalucía mediante fórmulas organizativas y de gestión que permitan una mayor coordinación de los recursos de la propia Admi nistración de la Junta de Andalucía, y de los de ésta con otras instituciones o entidades, públicas y privadas, teniendo en cuenta las directrices contenidas, al efecto, en el artículo 2 del Decreto 451/1994, de 15 de noviembre, por el que se crea el Consejo Andaluz de Formación Profesional.
+g) Fomentar la investigación, innovación, desarrollo y aplicación de sistemas de producción agrícolas, ganaderos, pesqueros y acuícolas que redunden en beneficio de las explotaciones, los consumidores o el medio ambiente.
+h) Proporcionar las bases científicas y tecnológicas para fomentar el desarrollo sostenible de la agricultura, ganadería y acuicultura ecológicas.
+i) Apoyar el desarrollo de las políticas agrarias, pesqueras y alimentarias de la Administración de la Junta de Andalucía, de acuerdo con el Programa Marco de Investigación Europeo.
+j) Aquellas otras que le atribuya la Consejería de Agricultura y Pesca y cuantas funciones le puedan venir asignadas por la normativa que le resulte de aplicación, sin perjuicio de las que puedan corresponder a otros órganos o entidades.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 3
+
+Artículo 3. Órganos de gobierno y asesoramiento.
+1. Los órganos de gobierno del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica son el Consejo Social y el Presidente.
+2. El Consejo Asesor es el órgano consultivo y de asesoramiento de carácter técnico, científico y formativo.
+
+### Artículo 4
+
+Artículo 4. El Consejo Social: composición y funciones.
+1. El Consejo Social, que estará presidido por el titular de la Consejería de Agricultura y Pesca, es el órgano del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica a través del cual participan las Consejerías de la Junta de Andalucía cuyas competencias estén relacionadas con sus objetivos, las organizaciones empresariales y sindicales más representativas en el ámbito de la Comunidad Autónoma de Andalucía, las organizaciones profesionales agrarias y las organizaciones de cooperativas agrarias, hasta un máximo de 30 miembros, y cuya composición se determinará reglamentariamente.
+2. Las funciones del Consejo Social serán:
+a) La aprobación del Anteproyecto de Presupuesto y la asignación de los recursos disponibles para alcanzar los objetivos científicos y formativos establecidos.
+b) Aprobar el Plan de Actuación y la Memoria Anual del Organismo.
+c) Elaborar las normas de funcionamiento interno del propio Consejo Social y la creación de Comisiones Sectoriales para el estudio de temas específicos.
+d) Informar las modificaciones de los Estatutos del Organismo.
+e) Promover la cooperación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica con los sectores agroalimentario, pesquero y acuícola.
+f) Cualesquiera otras que le sean expresamente atribuidas.
+
+### Artículo 5
+
+Artículo 5. El Presidente.
+1. El Presidente ostentará la representación legal del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica, ejercerá la dirección, coordinación y supervisión de todas sus actividades, de acuerdo con las directrices de la Consejería de Agricultura y Pesca de la Junta de Andalucía y del Consejo Social.
+2. Garantizará la necesaria coordinación con las distintas Consejerías de la Junta de Andalucía y con otras entidades vinculadas o dependientes de la Administración de la Junta de Andalucía que, al margen de las propias Consejerías, puedan desempeñar funciones relacionadas con las del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica.
+3. El Presidente del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica, con rango de Director General, será nombrado por el Consejo de Gobierno, a propuesta del titular de la Consejería de Agricultura y Pesca.
+
+### Artículo 6
+
+Artículo 6. El Consejo Asesor: composición y funciones.
+1. El Consejo Asesor es el órgano consultivo y de asesoramiento de carácter técnico, científico y formativo del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica. Estará presidido por el titular de la Presidencia del Organismo.
+2. El Consejo Asesor, que tendrá un máximo de 15 miembros, conforme a la composición que se determinará reglamentariamente, estará integrado, además de por representantes del propio Instituto y de otras Consejerías y Organismos de la Junta de Andalucía, con competencia en materia de investigación o formación, por personalidades relevantes del campo científico, formativo y de los sectores agrario, pesquero, acuícola, alimentario y de la producción ecológica.
+3. Las funciones del Consejo Asesor serán las siguientes:
+a) Asesorar a los órganos de gobierno del Instituto en la definición de líneas o aspectos estratégicos de índole científica, tecnológica y organizativa, así como formular propuestas y elaborar informes, sobre las cuestiones indicadas.
+b) El Consejo Asesor deberá informar los siguientes asuntos:
+1. El Plan de Actuación del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica.
+2. Las directrices de la política de investigación, desarrollo y formación (I+D+F), de relaciones institucionales, así como presupuestaria y de personal a desarrollar por el Organismo.
+3. Cualesquiera otros que someta a su consideración el titular de la Consejería, el Presidente del Organismo o el Consejo Social.
+
+## CAPÍTULO III
+
+Régimen de funcionamiento y patrimonio
+
+### Artículo 7
+
+Artículo 7. Régimen jurídico.
+1. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica se regirá por lo establecido en la presente Ley, por sus Estatutos, por la Ley 5/1983, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, sin perjuicio de las especialidades que resulten del presente texto, y por la normativa de carácter general o específica que resulte de aplicación.
+2. En el ámbito de sus competencias, los contratos y negocios jurídicos derivados de la actividad comercial directa del Instituto se regirán por lo dispuesto en el Real Decreto Legislativo 2/2002, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas, en el Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas, y en la restante normativa que le sea de aplicación.
+
+### Artículo 8
+
+Artículo 8. Convenios de colaboración y participación institucional.
+1. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica podrá articular acuerdos, para el cumplimiento de sus objetivos, con la Administración de la Junta de Andalucía, a través de sus Consejerías. Asimismo podrá celebrar convenios de colaboración con cualesquiera entidades o instituciones públicas o privadas, para el desarrollo de programas de actuación en los ámbitos de la investigación, de la transferencia de tecnología o de la formación en materia agraria, pesquera y alimentaria.
+Los convenios podrán prever el establecimiento de centros mixtos y recogerán las características y organización de estos y las condiciones de participación de las entidades intervinientes.
+2. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica podrá establecer relaciones contractuales o de cooperación con instituciones y entidades públicas o privadas para el desarrollo de sus funciones.
+3. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica podrá participar en otras entidades de fines análogos.
+
+### Artículo 9
+
+Artículo 9. Cláusulas de confidencialidad y exclusividad.
+Los convenios, acuerdos y contratos que realice el Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica con entidades privadas, podrán establecer cláusulas relativas a la confidencialidad y exclusividad para la explotación de los resultados obtenidos como consecuencia de las actividades realizadas, siempre que el proyecto de investigación y el personal investigador sean mayoritariamente financiados por las mismas.
+
+### Artículo 10
+
+Artículo 10. Evaluación de actividades.
+1. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica articulará los mecanismos e instrumentos necesarios y preceptivos para la evaluación de sus actividades y funcionamiento y, especialmente, el impacto socioeconómico de sus actuaciones.
+2. Estos mecanismos e instrumentos específicos de evaluación se concretarán en los Estatutos del Organismo.
+
+### Artículo 11
+
+Artículo 11. Recursos financieros.
+El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica dispondrá, para el cumplimiento de sus funciones, de los siguientes recursos financieros:
+a) El rendimiento de su patrimonio.
+b) Los ingresos generados por el ejercicio de su actividad y la prestación de sus servicios.
+c) Los créditos que le sean asignados en el Presupuesto de la Comunidad Autónoma de Andalucía.
+d) Las subvenciones que le sean concedidas.
+e) Las cantidades procedentes de la enajenación de sus bienes o productos.
+f) Cualesquiera otros ingresos o recursos que pudiera recibir de acuerdo con la normativa que resultare de aplicación.
+
+### Artículo 12
+
+Artículo 12. Patrimonio.
+1. El patrimonio del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica estará constituido por el conjunto de bienes y derechos cuya titularidad le corresponda. Se le podrán, asimismo, adscribir otros bienes y derechos, para el desarrollo de sus funciones.
+2. El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica podrá adquirir, poseer, enajenar y gravar bienes de todas clases, así como realizar la comercialización y venta de los bienes y productos generados en el ejercicio de su actividad. Las referidas actuaciones se desarrollarán de acuerdo con lo previsto en la normativa que resulte de aplicación a los organismos autónomos.
+
+## CAPÍTULO IV
+
+Recursos humanos
+
+### Artículo 13
+
+Artículo 13. Régimen jurídico del personal del Instituto.
+El régimen jurídico del personal del Instituto será el establecido con carácter general en la Administración general de la Junta de Andalucía con las especificidades que se establecen en los artículos siguientes.
+
+### Artículo 14
+
+Artículo 14. Creación de las especialidades de Investigación Agraria y Pesquera y Desarrollo Agrario y Pesquero en los Cuerpos Superior Facultativo y de Técnicos de Grado Medio de la Junta de Andalucía.
+1. Se crea la especialidad de Investigación Agraria y Pesquera en el Cuerpo Superior Facultativo de la Junta de Andalucía, incluyéndose en el Grupo A de los señalados en la Disposición Adicional Quinta de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía.
+Corresponden a la especialidad de Investigación Agraria y Pesquera las tareas de investigación, transferencia de tecnología y formación especializada, de conformidad con su nivel profesional, en los sectores agrario y pesquero de acuerdo con el marco de objetivos y funciones que tiene asignados el Instituto en los términos regulados en el artículo 2 de la presente Ley.
+2. Se crea la especialidad de Desarrollo Agrario y Pesquero en el Cuerpo de Técnicos de Grado Medio de la Junta de Andalucía incluido en el Grupo B de los señalados en la Disposición Adicional Quinta de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía.
+Corresponden a esta especialidad las tareas de desarrollo y transferencia de tecnología en los sectores agrario y pesquero, así como las que puedan serle atribuidas en materia de investigación según su nivel profesional, todo ello en el marco de los objetivos y funciones que tiene asignados el Instituto de conformidad con lo establecido en el artículo 2 de la presente Ley.
+3. Se integran en las especialidades reguladas en los anteriores apartados 1 y 2 los funcionarios de los Cuerpos Superior Facultativo y de Técnicos de Grado Medio de la Junta de Andalucía, respectivamente, que, a la entrada en vigor de la Ley, desempeñan puestos con funciones correspondientes a las descritas en los apartados mencionados en la actual Dirección General de Investigación y Formación Agraria y Pesquera, así como en los centros que le han sido adscritos por el Decreto 53/2002, de 29 de febrero, por el que se modifica el Decreto 4/1996, de 9 de enero, sobre las Oficinas Comarcales Agrarias y otros servicios y centros periféricos de la Consejería.
+4. En los Estatutos del Instituto podrán regularse de manera específica el acceso a las especialidades creadas en los mencionados apartados 1 y 2, atendiendo a los criterios de especialización, formación, capacitación y experiencia profesional adecuada para los puestos de trabajo que se han de desempeñar; la adscripción con carácter exclusivo a dichas especialidades de los puestos de trabajo de la Relación de Puestos de Trabajo de la Junta de Andalucía cuyas funciones se correspondan con las establecidas en los apartados referidos, y el diseño de un sistema de evaluación de la actividad investigadora y formativa.
+
+### Artículo 15
+
+Artículo 15. Contratos laborales para fines de investigación y de actividades científico-técnicas.
+1. Al objeto de dar cumplimiento a los objetivos de este Instituto regulados en el apartado 1 del artículo 2 de la presente ley, así como para el desarrollo de sus funciones enumeradas en el apartado 2 del mismo artículo, y de conformidad con los artículos 13 y 20 de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, así como el artículo 39 de la Ley 16/2007, de 3 de diciembre, Andaluza de la Ciencia y el Conocimiento, el Instituto podrá celebrar, dentro de sus disponibilidades presupuestarias:
+a) Contratos predoctorales para la realización de tareas de investigación. Este contrato se ajustará a la modalidad de contrato de trabajo específica del personal investigador, recogida en el artículo 20.1.a) y en el artículo 21 de la Ley 14/2011, de 1 de junio. Comprende tareas de investigación en el ámbito de un proyecto específico por un periodo mínimo de un año y máximo de cuatro años, incluidas prórrogas, o seis años si es persona con discapacidad, incluidas prórrogas.
+b) Contratos de acceso de personal investigador doctor. Este contrato se ajustará a la modalidad de contrato de trabajo específica del personal investigador, recogida en el artículo 20.1.b) y en el artículo 22 de la Ley 14/2011, de 1 de junio. Comprende tareas de investigación, desarrollo, transferencia de conocimiento e innovación, orientadas a la obtención por el personal investigador de un elevado nivel de perfeccionamiento y especialización profesional, por un período mínimo de tres años y máximo de seis años, incluidas prórrogas, u ocho años si es persona con discapacidad, incluidas prórrogas.
+Para estas dos modalidades de contratos se tendrá en cuenta en todo caso lo establecido en el artículo 20.3 de la Ley 14/2011, de 1 de junio, respecto de las previsiones de la Ley del Presupuesto vigente de la Comunidad Autónoma de Andalucía para los contratos de duración determinada en relación con la autorización previa de la Consejería competente en materia de sector público instrumental para realizar este tipo de contratos.
+c) Contratos de actividades científico-técnicas. Este contrato se ajustará a la modalidad de contrato de carácter laboral por tiempo indefinido, recogida en el artículo 20.1.d) y en el artículo 23 bis de la Ley 14/2011, de 1 de junio.
+2. Los contratos señalados en el apartado anterior deberán ir precedidos de convocatorias públicas en las que se garanticen los principios de igualdad, mérito, capacidad, publicidad y concurrencia, y estar vinculados a financiación externa o financiación procedente de convocatorias de ayudas públicas en concurrencia competitiva en su totalidad.
+3. Su régimen retributivo se establecerá por Resolución de la Presidencia del Instituto, con informe previo favorable de las Consejerías competentes en materia de Hacienda y de administración pública.
+4. El régimen jurídico aplicable a estas modalidades de contrato de trabajo será el que se establece en los preceptos de aplicación general de la sección 2.ª, capítulo I, título II de la Ley 14/2011, de 1 de junio, en la Ley 16/2007, de 3 de diciembre, Andaluza de la Ciencia y el Conocimiento, en la presente ley y sus normas de desarrollo; en la Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía; en el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, y en sus normas de desarrollo, así como, en su caso, en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
+Se modifica por la disposición final 3 de la Ley 8/2025, de 22 de diciembre. Ref. BOE-A-2026-945
+
+### Artículo 16
+
+Artículo 16. Participación e intercambios de personal en programas científicos o formativos.
+El Instituto podrá celebrar convenios con otras administraciones, organismos o entidades de investigación en los que se contemple la participación de personal del Instituto en sus programas científicos o formativos, así como, recíprocamente, contemplar la participación del personal de esas administraciones, organismos o entidades en los programas del Instituto. Los Estatutos del Instituto establecerán las condiciones a las que habrán de ajustarse estos convenios.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Subrogación.
+El Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica se subrogará en los derechos y obligaciones de la Comunidad Autónoma de Andalucía generados en el ámbito de los objetivos asignados al mismo, respetando en todo caso los derechos de los terceros afectados.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adscripción de medios.
+Mediante acuerdo del Consejo de Gobierno, y con carácter previo a la aprobación de los Estatutos del Organismo, se adscribirán al Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica los medios materiales, económicos y personales necesarios para el cumplimiento de sus objetivos. El carácter y procedimiento de dicha adscripción se realizará de acuerdo con la normativa que resulte de aplicación. Se integrarán en su estructura orgánica y funcional la actual Dirección General de Investigación y Formación Agraria y Pesquera así como los centros que le han sido adscritos por el Decreto 53/2002, de 19 de febrero, por el que se modifica el Decreto 4/1996, de 9 de enero, sobre las Oficinas Comarcales Agrarias y otros servicios y centros periféricos de la Consejería.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Modificación de la Disposición Adicional Quinta de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía.
+Se añaden dos nuevos subepígrafes en la Disposición Adicional Quinta de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, en la siguiente forma:
+a) En el apartado correspondiente al grupo «A» de los cuerpos en ella relacionados y dentro del Cuerpo Superior Facultativo de la Junta de Andalucía la siguiente expresión:
+«Especialidad:
+A.2.2 Investigación Agraria y Pesquera».
+b) En el apartado correspondiente al grupo «B» de los cuerpos en ella relacionados y dentro del Cuerpo de Técnicos de Grado Medio de la Junta de Andalucía la siguiente expresión:
+«Especialidad:
+B.2.2 Desarrollo Agrario y Pesquero».
+
+### Disposición transitoria única
+
+Disposición transitoria única. Funciones asignadas.
+Hasta tanto se proceda a la reestructuración de órganos administrativos, así como a la aprobación de la correspondiente relación de puestos de trabajo, las funciones que le son asignadas por esta Ley al Instituto continuarán siendo ejercidas por los órganos administrativos que actualmente las tienen atribuidas.
+
+### Disposición final primera
+
+Disposición final primera. Reglamento de Organización y Funcionamiento.
+Mediante Decreto del Consejo de Gobierno se aprobarán los Estatutos del Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo.
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo previsto en la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente Ley entrará en vigor a los tres meses de su publicación en el Boletín Oficial de la Junta de Andalucía.
+
+Sevilla, 10 de abril de 2003.‒El Presidente, Manuel Chaves González.

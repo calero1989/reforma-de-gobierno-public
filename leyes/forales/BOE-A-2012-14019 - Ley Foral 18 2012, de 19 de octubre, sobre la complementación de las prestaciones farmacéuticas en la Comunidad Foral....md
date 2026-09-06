@@ -1,0 +1,99 @@
+# Ley Foral 18/2012, de 19 de octubre, sobre la complementación de las prestaciones farmacéuticas en la Comunidad Foral de Navarra.
+
+- Identificador BOE: `BOE-A-2012-14019`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-14019
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Se suspende la vigencia y aplicación de esta ley foral desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553, se levanta la suspensión de los arts. 2.1 y 4.1 y de las disposiciones adicional y final 2, y se mantiene la suspensión de los demás preceptos, por el levantamiento de la suspensión de vigencia del art. 4.1 y de las disposiciones adicional y final 2 y el mantenimiento de la suspensión de los demás preceptos, por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+
+## Preámbulo
+
+LA PRESIDENTA DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral sobre la complementación de las prestaciones farmacéuticas en la Comunidad Foral de Navarra.
+EXPOSICIÓN DE MOTIVOS
+La prestación farmacéutica ambulatoria del Sistema Nacional de Salud se encuentra regulada en la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, como prestación pública cuya provisión se realiza mediante dispensación ambulatoria y está sujeta a aportación de la persona usuaria, rigiéndose por su normativa específica que lidera la Ley 29/2006, de 26 de junio, de garantías y uso racional de los medicamentos y productos sanitarios.
+Esta Ley ha sido objeto de remodelación por el Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones, que comprende una serie de normas programáticas y de gestión en diversos ámbitos del llamado ciclo del medicamento y, en particular, en el ámbito de actuación de las Administraciones públicas sanitarias encargadas de gestionar y financiar la prestación pública en sí misma, lo que comprende la intermediación con el conjunto de las oficinas de farmacia a través de las cuales se dispensan los medicamentos objeto de la misma y la fundamental aportación de la financiación pública para garantizar el funcionamiento del sistema.
+La presente Ley Foral incide en ese contexto con un primer objetivo de procurar la aplicabilidad de la nueva normativa básica estatal, lo que supone articular las medidas necesarias para que la función de prescripción se vea enriquecida con la información que va a generar el sistema, en relación con el mecanismo de aportación de las personas usuarias, y para que pueda ser capaz a su vez de transmitir los nuevos elementos de gestión que garanticen las mejores condiciones para la prestación farmacéutica.
+Por otra parte, es también objetivo de esta Ley Foral profundizar en un desarrollo del ordenamiento básico que nos permita en la Comunidad Foral consolidar nuestras propias directrices de política sanitaria. A tal fin, y siempre desde el respeto al principio de legalidad y a los objetivos y principios sobre racionalización del gasto público que ha transmitido la nueva normativa básica estatal, es sin embargo nuestra convicción proceder a extender el compromiso que tenemos con la ciudadanía mediante la complementación del estatus prestacional básico estatal, hasta el límite de mantener los niveles de protección que hemos alcanzado en Navarra.
+Esta Ley Foral permitirá la complementación de las condiciones financieras básicas en que se desarrolla la prestación farmacéutica ambulatoria del Sistema Nacional de Salud en el ámbito de la Comunidad Foral, en las mismas condiciones y para todas las personas que tengan acceso a dicha prestación según se contempla en el artículo 11 de la Ley Foral 17/2010, de derechos y deberes de las personas en materia de salud.
+Esta capacidad de desarrollo del marco estatal se proyecta sobre el espacio que tal norma ha fijado con un amparo indeterminado en diversos títulos competenciales del Estado, pero que a tenor de la doctrina del Tribunal Constitucional, fijada asimismo con notable claridad a partir de la sentencia 98/2004, de 25 de mayo, se precisa, para el aspecto concreto del establecimiento de la prestación farmacéutica y su financiación pública, en la competencia del Estado en materia de «bases de la sanidad» que acoge el artículo 149.1.16.ª de la Constitución, entre otras razones, porque la pérdida de la naturaleza contributiva de la prestación de asistencia sanitaria del sistema de seguridad social ha contribuido definitivamente a la reubicación y asentamiento del concepto a través del cual se percibe el sistema de prestaciones públicas en el Sistema Nacional de Salud, actualmente financiado de forma exclusiva con cargo a los tributos generales.
+La presente Ley Foral pretende la ampliación o mejora del ordenamiento básico que le es propio al espacio competencial de nuestra Comunidad Foral con capacidades de desarrollo y ejecución de las políticas públicas correspondientes.
+Esta iniciativa no puede influir de ningún modo negativo sobre el devenir ordinario que tenga establecida la aplicación de la normativa correspondiente del Sistema Nacional de Salud, ni por supuesto debe influir sobre el mantenimiento escrupuloso de las garantías de equidad e igualdad efectiva en el acceso a la prestación en todo el Sistema Nacional de Salud, teniendo en cuenta además que no se trata de ninguna reserva singular específica de fármacos o productos sanitarios, que por concepto tienen un sentido limitativo conforme al régimen jurídico que establece la Ley 29/2006, de 26 de junio, de garantías y uso racional de los medicamentos y productos sanitarios.
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley Foral tiene por objeto regular en la Comunidad Foral de Navarra la complementación de las condiciones financieras básicas en que se desarrolla la prestación farmacéutica.
+
+### Artículo 2
+
+Artículo 2. Titulares de derecho.
+Tendrán derecho de acceso a la complementación de las prestaciones farmacéuticas que en la presente norma se describen:
+1. Las personas incluidas en el ámbito de aplicación de la asistencia sanitaria con cargo a fondos públicos a través del Sistema Nacional de Salud por tener la condición de asegurados o beneficiarios del mismo.
+2. (Anulado)
+Se declara inconstitucional y nulo el apartado 2, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se levanta la suspensión del apartado 1 y se mantiene la suspensión del apartado 2, por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+### Artículo 3
+
+Artículo 3. Normas para la aplicación del régimen de la prestación farmacéutica ambulatoria del Sistema Nacional de Salud.
+1. La dispensación en la Comunidad Foral de Navarra de los medicamentos y productos sanitarios que integran la prestación farmacéutica pública ambulatoria del Sistema Nacional de Salud se hará conforme a la normativa básica estatal, a la presente Ley Foral y a las demás normas de desarrollo o aplicación de la misma.
+2. Los sistemas de información para apoyo a la prescripción en el ámbito de los servicios sanitarios del Servicio Navarro de Salud-Osasunbidea, que incorporan diversos subsistemas de información e interacción junto al nomenclátor de medicamentos incluidos en la prestación farmacéutica del Sistema Nacional de Salud, añadirán la información integrada por las determinaciones sobre el ámbito subjetivo que establece la normativa y, en particular, esta Ley Foral respecto al sistema de aportación de las personas usuarias a la prestación farmacéutica.
+3. La prescripción de los medicamentos y productos sanitarios se cumplimentará en los modelos oficiales de receta y órdenes de enfermería elaborados al efecto que sean válidos en el Sistema Nacional de Salud.
+
+### Artículo 4
+
+Artículo 4. Normas para la extensión de la cobertura financiera pública de la prestación farmacéutica ambulatoria del Sistema Nacional de Salud en la Comunidad Foral de Navarra.
+(Anulado)
+Se declara inconstitucional y nulo por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se levanta la suspensión del apartado 1 y se mantiene la suspensión de los apartados 2 y 3 por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+### Artículo 5
+
+Artículo 5. Alcance de la extensión de la cobertura financiera.
+1. La cobertura prevista en el artículo anterior, en cuanto a la aportación de las personas usuarias a la prestación farmacéutica ambulatoria del Sistema Nacional de Salud supone las siguientes condiciones económicas:
+a) (Anulada)
+b) Con carácter singular, estarán exentos de aportación los usuarios y sus beneficiarios que pertenezcan a alguna de las siguientes categorías:
+i. (Anulada)
+ii. Personas afectadas de síndrome tóxico y personas con discapacidad en los supuestos contemplados en su normativa específica.
+iii. Personas perceptoras de Renta de Inclusión Social.
+iv. Personas paradas que han perdido el derecho a percibir el subsidio de desempleo en tanto subsista su situación.
+v. Personas con tratamientos derivados de accidente de trabajo y enfermedad profesional.
+vi. (Anulada)
+2. La referida aportación se realizará en el momento de la dispensación.Si la dispensación se realiza en una oficina de farmacia ubicada fuera de la Comunidad Foral de Navarra, el reintegro de lo abonado en exceso se ajustará a lo dispuesto en el artículo 4.3.
+Téngase en cuenta que se declara inconstitucional y nulo el apartado 1.a) y b).i y vi. y el inciso destacado del apartado 2, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+Se declara inconstitucional y nulo el apartado 1.a) y b).i y vi. y el inciso destacado del apartado 2, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se mantiene la suspensión por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+### Disposición adicional
+
+Disposición adicional.
+(Anulada)
+Se declara inconstitucional y nula, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se levanta la suspensión por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta a la Consejera de Salud para que realice las adaptaciones del modelo oficial de receta y órdenes de enfermería que se precisen para su actualización o adaptación a la normativa o a los requerimientos operativos que requiera la prestación farmacéutica en la Comunidad Foral de Navarra, así como para dictar las disposiciones precisas para el establecimiento del procedimiento de reintegro de gastos previsto en el artículo 5.2 de la presente Ley Foral.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+Se declara inconstitucional y nulo el inciso destacado del apartado 2, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se mantiene la suspensión por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley Foral entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Navarra».
+Se levanta la suspensión por Auto del TC de 23 de abril de 2013. Ref. BOE-A-2013-4616
+ Téngase en cuenta que declara la desestimación del recurso de inconstitucionalidad, por Sentencia del TC 140/2017, de 30 de noviembre. Ref. BOE-A-2018-283
+ Se suspende la vigencia y aplicación desde el 28 de enero de 2013, para las partes en el proceso y desde el 14 de febrero de 2013 para los terceros, por providencia del TC 501/2013, de 12 de febrero de 2013, por la que se admite a trámite el recurso de inconstitucionalidad nº 501/2013. Ref. BOE-A-2013-1553
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 19 de octubre de 2012.–La Presidenta del Gobierno de Navarra, Yolanda Barcina Angulo.

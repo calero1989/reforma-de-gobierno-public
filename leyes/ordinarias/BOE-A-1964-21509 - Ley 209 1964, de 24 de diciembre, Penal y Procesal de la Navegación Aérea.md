@@ -1,0 +1,822 @@
+# Ley 209/1964, de 24 de diciembre, Penal y Procesal de la Navegación Aérea.
+
+- Identificador BOE: `BOE-A-1964-21509`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1964-21509
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Ley de veintisiete de diciembre de mil novecientos cuarenta y siete, que aprobó las Bases para publicar un Código de Navegación Aérea, estableció tanto las concernientes a los principios generales de ésta y a su regulación en todos los aspectos de organización, personal, material, tráfico, accidentes, seguros, indemnizaciones, policía y otros análogos, como a la jurisdicción penal y procesal en la misma navegación. Desarrolladas las expresadas Bases en el primero y más amplio aspecto de los indicados, por la reciente Ley de veintiuno de julio de mil novecientos sesenta, resta hacerlo sólo con respecto a la parte penal y procesal.
+Para ello se formula ahora este proyecto que, aparte de desenvolver las Bases veintiuna, veintidós y veintitrés de aquélla, tiene también su razón de ser en la previsión del artículo noveno, apartado e) del Código de Justicia Militar, que al fijar la competencia de la Jurisdicción Militar Aérea, dejó en pie la posibilidad de exceptuar y sustraer, por tanto, de su rigorismo las actividades de la navegación aérea, mediante una Ley especial, que es precisamente la que aquí se ofrece, con tipos delictivos y penalidades distintos acomodados la naturaleza, complejidad y rango de los intereses que con ellas se quiere proteger.
+Por otra parte, la supresión del General Jefe de la Jurisdicción Aérea y la concesión de jurisdicción a los Generales Jefes de las Regiones y Zona Aérea, dispuesta por la Ley de diecisiete de julio de mil novecientos cincuenta y tres así como la modificación de la cuantía de la multa como pena leve en el Código Penal, que han aconsejado que el Proyecto se aparte en tales extremos de la Ley de Bases de veintisiete de diciembre de mil novecientos cuarenta y siete hacen también necesario seguir las formalidades propias de una Ley.
+Por lo demás, poco o nada hay que añadir a la exposición que el preámbulo de la referida Ley de Bases contiene sobre éstas, de que al presente se trata, huyendo de dogmatismos, se articula sencillamente la materia con estructuración idéntica a la del Código Penal, a cuyos conceptos y enunciados de su Libro I se remite a veces el actual Proyecto, bien de modo expreso, bien invocándolos genéricamente como supletorios sin perjuicio también de acoger, por su parte, peculiaridades aconsejadas por la especialidad del tráfico que se quiere amparar, cuales son: simplificar las penas con amplio arbitrio en su imposición y abrir cauce a la aplicación de medidas determinadas, conducentes todas a eliminar peligros personales e incertidumbres para la navegación, que pueden provenir del ejercicio profesional aeronáutico sin las necesarias garantías de eficiencia y seguridad en el vuelo, de un comportamiento trasgresor de las Empresas concesionarias o de actividades generadoras o derivadas de conductas culpables.
+Los delitos y faltas se configuran en particular sistematizando los que la Base veintiuna definió como especiales de la navegación aérea, a cada uno de los cuales se deja señalada la pena que con ponderación de circunstancias, se estima adecuada a la mayor o menor gravedad y trascendencia que revista la infracción a sancionar.
+Y, en fin, por lo que afecta a la organización y procedimiento de esta jurisdicción penal de la propia navegación aérea, se siguen igualmente patrones tradicionales acomodados en lo indispensable a la diversa índole, de los Tribunales y Autoridades que han de ejercerla, cuyas atribuciones, función y forma de actuar, en la respectiva esfera, queden bien puntualizadas, dentro siempre de las normas básicas tantas veces mencionadas.
+La disposiciones transitorias y derogatorias, son las corrientes al publicarse nueva legislación penal.
+La Ley Penal y Procesal de la Navegación Aérea viene a representar un logro importante en la legislación aeronáutica española, a la vez que eficaz garantía de un tráfico aéreo ordenado y seguro.
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas.
+DISPONGO:
+
+### Artículo primero
+
+Artículo primero.
+Se aprueba la Ley Penal y Procesal de la Navegación Aérea que seguidamente se inserta.
+
+### Artículo segundo
+
+Artículo segundo.
+Por el Ministerio de Hacienda se habilitarán los créditos necesarios para cumplimiento de lo dispuesto en la presente Ley.
+
+Dada en el Palacio de El Pardo a veinticuatro de diciembre de mil novecientos sesenta y cuatro.
+FRANCISCO FRANCO
+
+## LEY
+
+LEY PENAL Y PROCESAL DE LA NAVEGACIÓN AÉREA
+
+## LIBRO PRIMERO
+
+Disposiciones penales
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Se consideran delitos y faltas aeronáuticos los comprendidos en esta Ley.
+
+### Artículo 2
+
+Artículo 2.
+Las causas de exención de responsabilidad criminal serán las comprendidas en el Código Penal.
+Las circunstancias modificativas de dicha responsabilidad serán las comprendidas en el mismo Código y se apreciarán por los Tribunales según su prudente arbitrio, en consideración a la personalidad del delincuente y a la gravedad o trascendencia del hecho.
+
+### Artículo 3
+
+Artículo 3.
+Cuando los hechos perseguidos sean susceptibles de calificación con arreglo a dos o más preceptos de esta Ley o de otras, el Tribunal podrá aplicar aquel que asigne mayor pena al delito o falta cometidos.
+
+### Artículo 4
+
+Artículo 4.
+Las penas que se pueden imponer con arreglo a esta Ley son las siguientes:
+Penas graves:
+Reclusión mayor.
+Reclusión menor.
+Prisión mayor.
+Prisión menor.
+Arresto mayor.
+Pérdida del título profesional o aeronáutico.
+Suspensión del título profesional o aeronáutico de seis meses y un día a seis años.
+Multa de 30.000 a 300.000 pesetas.
+Penas leves:
+Arresto menor.
+Suspensión del título profesional o aeronáutico hasta seis meses.
+Multa inferior a 30.000 pesetas.
+Amonestación.
+Se modifica por el art. 2 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 5
+
+Artículo 5.
+Las penas de reclusión, prisión, arresto o multa, tendrán la misma extensión, efectos y accesorias que los señalados para las de igual denominación en el Código Penal.
+La pérdida del título profesional o aeronáutico, producirá la inhabilitación permanente para su ejercicio y la incapacidad para adquirirlo en lo sucesivo. La suspensión del título profesional o aeronáutico, privará mientras dure de todas las funciones inherentes al mismo.
+
+### Artículo 6
+
+Artículo 6.
+Las penas se impondrán con libertad de criterio por el Tribunal dentro de la extensión fijada por la Ley.
+Cuando concurran dos o más circunstancias atenuantes o una muy cualificada podrá imponer la pena inferior en uno o dos grados a la señalada al delito.
+Podrá imponerse la pena inmediatamente superior:
+1.° Si del hecho se derivase grave entorpecimiento en el tráfico aéreo o servicio público, o peligro para la vida o integridad de las personas.
+2.° Si el culpable fuere el Comandante de la aeronave.
+Se modifica el párrafo tercero por el art. 2 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 7
+
+Artículo 7.
+Las medidas de seguridad que, como consecuencia de los delitos o faltas o como complemento de pena podrán acordarse con arreglo a esta Ley son las siguientes:
+1.º La suspensión del título profesional o aeronáutico.
+2.º La pérdida del título profesional o aeronáutico.
+3.º La suspensión de entidades, sociedades o empresas.
+4.º La incautación, demolición o reforma de instalaciones, aparatos, locales y, en general, de materiales y elementos que se hayan empleado en la delincuencia, sean efectos de ella o signifiquen un serio peligro para la navegación aérea.
+Estas medidas se aplicarán con libertad de criterio por el Tribunal.
+
+### Artículo 8
+
+Artículo 8.
+El Tribunal en sus sentencias, además de las penas principales y accesorias correspondientes al delito, podrá imponer, a su prudente arbitrio, como complemento de pena, las medidas del artículo anterior, con arreglo a las siguientes normas:
+1.ª La suspensión del título profesional o aeronáutico, cuando se cometa un delito con infracción de los deberes del cargo que desempeñe el culpable o haciendo uso de la ocasión o medios que proporcione el mismo. La duración se determinará según las circunstancias del hecho, sin que pueda exceder de seis años, cualquiera que sea la pena privativa de libertad impuesta.
+2.ª La pérdida del título profesional o aeronáutico, cuando la gravedad o trascendencia del hecho así lo aconsejen en las circunstancias del apartado anterior.
+3.ª La suspensión por tiempo máximo de un año de personas jurídicas o empresas, cuando los individuos que las representen cometan, prevaliéndose de los medios que las normas les proporcionan, varios delitos de cualquier clase definidos en la presente Ley, o uno que produzca alarma pública o perjuicio a la navegación aérea.
+La suspensión se pondrá en conocimiento del Ministerio del Aire para que, a la vista de los antecedentes, pueda acordar la revocación de los derechos de tráfico aéreo concedido.
+4.ª La incautación, destrucción o reforma de instalaciones, aparatos, locales y, en general, de materiales y elementos, cuando se hayan empleado en la delincuencia, sean efectos de ella o signifiquen un grave peligro para la navegación aérea.
+
+### Artículo 9
+
+Artículo 9.
+El Tribunal, ante una actuación que, sin ser constitutiva de delito, signifique peligro para la navegación, podrá interesar a la Autoridad judicial aérea la aplicación de las medidas de seguridad reguladas en esta Ley.
+
+### Artículo 10
+
+Artículo 10.
+Las disposiciones de esta Ley, relativas a los Comandantes de aeronave, se aplicarán a quienes, con cualquier denominación, manden la aeronave.
+
+### Artículo 11
+
+Artículo 11.
+Para la aplicación de lo establecido en esta Ley se observarán las reglas siguientes:
+1.ª Bajo la denominación genérica de Tribunal o Tribunales, se comprende a la Autoridad u Organismo que, según el Libro II de esta Ley, debe conocer del hecho.
+2.ª Constituyen la tripulación todas aquellas personas que, mediante contrato de trabajo u otra adscripción legal o reglamentaria, presten servicio a bordo de la aeronave, con inclusión del Comandante.
+3.ª Son actos del servicio aquellos que el personal afecto a la navegación aérea está obligado a realizar, con arreglo a las disposiciones legales o reglamentarias o a sus respectivos contratos.
+4.ª Se entenderá que la navegación aérea comienza en el momento en que una aeronave se pone en movimiento con su propia fuerza motriz para emprender el vuelo y termina, cuando, realizado el aterrizaje, queda aquella inmovilizada y son parados sus motores.
+5.ª Las penas y las medidas de seguridad que se impongan con arreglo a esta Ley a quienes pertenezcan a la inscripción aeronáutica y la aplicación de los beneficios de la remisión condicional, se pondrán en conocimiento del Ministerio del Aire para que se anote en el registro especial, que, al efecto, se lleve.
+
+### Artículo 12
+
+Artículo 12.
+En todo lo no previsto especialmente en este Título se aplicarán como normas supletorias de sus disposiciones, los preceptos del Libro I del Código Penal.
+
+## TÍTULO II
+
+De los delitos
+
+## CAPÍTULO I
+
+Delitos contra la seguridad de la aeronave
+
+### Artículo 13
+
+Artículo 13.
+El que maliciosamente causare la destrucción total o parcial de una aeronave durante la navegación, será castigado con la pena de reclusión menor a reclusión mayor.
+Cuando la destrucción no tuviere lugar durante la navegación, podrá imponerse la pena inmediatamente inferior.
+Si a consecuencia del delito se ocasionare la muerte o lesiones graves de alguna persona, se impondrá la pena de reclusión mayor.
+Se modifica el párrafo tercero por el art. 2 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 14
+
+Artículo 14.
+El encargado del Servicio de Protección de Vuelo que no diese las ayudas o informes que le demande una aeronave, los diera equivocados o incompletos o no comunicase los datos necesarios para que aquella mantenga su vuelo en zona de seguridad o interfiriese los de otras estaciones, incurrirá en la pena de arresto mayor.
+En igual pena incurrirá el Comandante de aeronave o miembro de la tripulación, en su caso, que estando sometido a un control de circulación aérea no le diera datos que éste le reclamase o los diera equivocados o incompletos con peligro para la seguridad de la navegación.
+La pena podrá aumentarse hasta prisión mayor, si, como consecuencia de la acción u omisión, se hubiese producido el siniestro de la aeronave, a no ser que el hecho constituyera delito más grave.
+
+### Artículo 15
+
+Artículo 15.
+El Comandante de aeronave que maliciosamente, con riesgo para la navegación, emprenda el vuelo sin la presentación y aprobación del plan correspondiente o lo quebrante después de modo manifiesto y sin justificación, y el que no lo modifique cuando le sea expresamente ordenado, incurrirá en la pena de arresto mayor o suspensión del título aeronáutico.
+
+### Artículo 16
+
+Artículo 16.
+Serán castigados con arresto mayor o multa hasta cien mil pesetas, o con las dos penas conjuntamente según las circunstancias, los que no cumplieren las órdenes que hubieren recibido de la Autoridad aérea competente de paralizar o hacer desaparecer construcciones, plantaciones, u otras que contraviniesen las normas reguladoras de las servidumbres aeronáuticas a que se halle sometido el lugar de emplazamiento de aquéllas. Todo ello sin perjuicio de las facultades de la propia Autoridad para la ejecutoriedad de sus órdenes.
+
+### Artículo 17
+
+Artículo 17.
+El Comandante de aeronave que realice vuelos arriesgados o acrobáticos en espacio aéreo prohibido o que sobrevuele aglomeraciones urbanas a una altura inferior a la de seguridad o a la que esté especialmente autorizado, será castigado con la pena de perdida del título aeronáutico, suspensión del mismo o multa de 5.000 a 25.000 pesetas.
+
+### Artículo 18
+
+Artículo 18.
+El Comandante de aeronave que, a sabiendas, emprenda vuelo con exceso de peso, o con mala distribución de la carga que pueda poner en grave riesgo la seguridad de la aeronave, será castigado con la pena de suspensión del título aeronáutico o prisión menor.
+
+### Artículo 19
+
+Artículo 19.
+Los atentados contra las personas cometidos en la aeronave y que afecten o puedan afectar a la seguridad de la navegación serán castigados con las penas señaladas en el Código Penal para los respectivos casos, o con la inmediatamente superior.
+
+## CAPÍTULO II
+
+Delitos contra el tráfico aéreo
+
+## Sección primera
+
+Sección primera. Sedición
+
+### Artículo 20
+
+Artículo 20.
+Serán castigados con la pena de prisión menor, como reos de sedición, los tripulantes, pasajeros, empleados o personas concertadas con ellos que, en aeropuertos o aeronaves, se alzaren colectivamente para cualquiera de los fines relacionados con la navegación aérea que a continuación se expresan:
+1.º Oponerse al cumplimiento de órdenes que dicten el Comandante de aeronave o Jefe de aeropuerto, en uso de sus atribuciones.
+2.º Impedirles el libre ejercicio de sus funciones o ejecutar con otro fin coacción sobre ellos.
+3.º Realizar algún acto de odio o venganza en sus personas o bienes.
+Con la misma pena serán castigados los miembros de la tripulación de aeronaves o empleados de aeropuertos que, en número suficiente para perturbar el servicio, abandonen colectivamente sus funciones en la aeronave o el aeropuerto, en actitud de protesta, desobediencia coactiva o represalia contra el Comandante o Jefe respectivo.
+
+### Artículo 21
+
+Artículo 21.
+Se impondrá la pena de prisión menor a prisión mayor:
+1.º Si el hecho se comete con la intención de interrumpir la navegación o de variar la ruta.
+2.º Si los tripulantes llegan a apoderarse de la aeronave o ejercer mando sobre la misma.
+3.º Si se produce la sedición en el extranjero o determina, por su trascendencia, la intervención de la fuerza pública del país.
+4.º Si los sedicioso están armados.
+5.º Al jefe de la sedición, en todo caso.
+
+### Artículo 22
+
+Artículo 22.
+A los meros ejecutores que no pertenezcan a la tripulación o aeropuerto se impondrá la pena señalada en los dos artículos precedentes en su grado mínimo.
+
+### Artículo 23
+
+Artículo 23.
+Será considerado jefe de la sedición, si no fuese posible identificar al que lo sea de hecho, al Oficial de la aeronave o empleado de aeropuerto de mayor categoría o antigüedad que intervenga en la comisión del delito.
+
+### Artículo 24
+
+Artículo 24.
+Los tripulantes de aeronave o empleados de aeropuerto que no cooperasen con sus superiores para reprimir la sedición, serán castigados con arresto mayor o suspensión.
+
+### Artículo 25
+
+Artículo 25.
+La negligencia en la represión de la sedición por el Comandante de aeronave o Jefe de aeropuerto, se castigará con la pena de suspensión o la de multa.
+
+### Artículo 26
+
+Artículo 26.
+Quedarán exentos de responsabilidad:
+1.º Los meros ejecutores que se sometan a la primera intimación que se haga.
+2.º Los que hallándose comprometidos a perpetrar el delito, lo denuncien a sus superiores, en tiempo hábil para evitarlo.
+
+### Artículo 27
+
+Artículo 27.
+Si durante la sedición o con ocasión de ella se cometen otros delitos, serán éstos castigados también con arreglo a la Ley en que estén comprendidos.
+
+## Sección segunda
+
+Sección segunda. Abandono de la aeronave o del servicio
+
+### Artículo 28
+
+Artículo 28.
+El Comandante que, sin causa justificada, haga dejación del mando de la aeronave o la abandone, será castigado con la pena de suspensión o pérdida del título profesional o aeronáutico, o multa hasta 10.000 pesetas.
+Si del hecho se deriva riesgo o trastorno para la navegación, podrá imponerse, además, la pena de arresto mayor a prisión menor.
+
+### Artículo 29
+
+Artículo 29.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.
+
+### Artículo 30
+
+Artículo 30.
+El abandono a que se refiere el artículo anterior, podrá castigarse con la pena de prisión menor, cuando el hecho se hubiere cometido:
+1.º Con empleo de armas o de cualquier otra clase de violencia o amenaza, sin perjuicio de las responsabilidades derivadas de este hecho.
+2.º Por persona designada para el pilotaje o navegación de la aeronave.
+
+### Artículo 31
+
+Artículo 31.
+El Comandante que al emprender el vuelo o durante la navegación se encontrase bajo la influencia de bebidas alcohólicas, narcóticos o estupefacientes, que puedan afectar a la capacidad para ejercicio de sus funciones, incurrirá en la pena de prisión menor o pérdida del título profesional o aeronáutico, pudiendo imponerse ambas conjuntamente.
+
+### Artículo 32
+
+Artículo 32.
+El individuo de la tripulación o el controlador de tráfico que durante la prestación del servicio que tenga encomendado, o en el momento en que deba asumirlo, se encontrase bajo la influencia de bebidas alcohólicas, narcóticos o estupefacientes, que disminuyan su capacidad para el ejercicio de sus funciones, será castigado con la pena de arresto mayor o con la suspensión del título profesional o aeronáutico, pudiendo imponerse ambas conjuntamente.
+La reincidencia en este delito será castigada con la pena de arresto mayor a prisión menor y la pérdida del título profesional o aeronáutico.
+
+### Artículo 33
+
+Artículo 33.
+El Comandante que en caso de abandono de la aeronave en peligro no lo haga en último lugar o no adopte, pudiendo hacerlo, las disposiciones necesarias para el salvamento de pasajeros y tripulantes, incurrirá en las penas de pérdida del título profesional o aeronáutico y de arresto mayor a prisión menor.
+No obstante lo dispuesto en el párrafo anterior, cuando el Comandante justifique que el no haber abandonado la aeronave el último fue por el incumplimiento de la orden de abandono que diera a los tripulantes y pasajeros con la debida antelación, o por causa de fuerza mayor, quedará exento de pena.
+
+### Artículo 34
+
+Artículo 34.
+El individuo de la tripulación que, sin orden del Comandante, se lance con paracaídas o de otro modo abandone la aeronave en peligro, será castigado con la pena de arresto mayor y pérdida del título profesional o aeronáutico.
+
+## Sección tercera
+
+Sección tercera. De otros delitos contra el trafico aéreo
+
+### Artículo 35
+
+Artículo 35.
+Serán castigados con la pena de prisión menor, el Comandante o explotador que, sin la oportuna autorización, embarque en una aeronave municiones, explosivos, armas, gases tóxicos, sustancias inflamables o cualesquiera otras nocivas o peligrosas para las personas, el cargamento o la aeronave.
+En igual pena incurrirá el tripulante o empleado que embarque clandestinamente cualesquiera de los efectos o sustancias mencionadas en el párrafo anterior.
+Cuando ese delito fuere cometido por otras personas se sancionará con arresto mayor a prisión menor.
+Las penas señaladas en los párrafos anteriores se impondrán, sin perjuicio de las responsabilidades que puedan ser exigibles con arreglo a esta u otra ley penal.
+
+### Artículo 36
+
+Artículo 36.
+El que con infracción de las disposiciones, vigentes usare a bordo aparatos de fotografía o de transmisión radioeléctrica, será castigado con la pena de multa hasta 25.000 pesetas, a no ser que el hecho fuera constitutivo de delito más grave.
+
+### Artículo 37
+
+Artículo 37.
+El que asuma o retenga indebidamente el mando de una aeronave, será castigado con la pena de arresto mayor a prisión menor.
+
+### Artículo 38
+
+Artículo 38.
+Los que ejerzan funciones de tripulantes de una aeronave que exijan título aeronáutico, sin estar legalmente habilitados para ello, serán castigados con la pena de prisión menor.
+
+## CAPÍTULO III
+
+Delitos contra el derecho de gentes
+
+### Artículo 39
+
+Artículo 39.
+El que se apodere con violencia o intimidación de una aeronave, de personas o cosas que se hallen a bordo, en circunstancias de lugar y tiempo que imposibiliten la protección de un Estado, será castigado con la pena de reclusión mayor.
+La pena de reclusión mayor podrá imponerse en su grado máximo:
+1.° Si el medio violento empleado para la aprehensión de la aeronave la pone en peligro de siniestro.
+2.° Si se hubiere dejado a alguna persona sin medios para salvarse.
+Se modifica el párrafo segundo por el art. 2 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 40
+
+Artículo 40.
+Serán castigados con las mismas penas señaladas en el artículo anterior, según los casos:
+1.º Los que con violencia o intimidación se apoderen de la aeronave en que vuelen o faciliten a otros su apoderamiento.
+2.º Los que desde el aire, tierra o mar, y por cualquier medio, provoquen la caída, pérdida, incendio, aterrizaje o amaraje de una aeronave, con el propósito de apoderarse de ella o de atentar contra las personas o cosas que se encuentren a bordo.
+
+### Artículo 41
+
+Artículo 41.
+El que despojare de sus vestidos u otros objetos a las víctimas de un accidente de aviación, en el lugar del siniestro, sufrirá la pena de arresto mayor.
+La pena podrá aumentarse hasta la reclusión menor, si al despojar al herido, se le causaren otras lesiones o se agravase notablemente su estado.
+Las penas señaladas en este artículo se impondrán sin perjuicio de las que pudieran aplicarse con arreglo al Código Penal.
+
+### Artículo 42
+
+Artículo 42.
+El Comandante de aeronave o Capitán de buque que durante la navegación y en la medida en que esté a su alcance no preste auxilio a una aeronave que en cualquier forma se la pida, pudiendo hacerlo sin riesgo para la seguridad de la aeronave o el buque de su mando, será castigado con la pena de prisión menor a prisión mayor y la suspensión o pérdida del titulo.
+En igual penalidad incurrirá el Comandante de aeronave que, en las mismas circunstancias, no preste el referido auxilio a un buque.
+
+### Artículo 43
+
+Artículo 43.
+Los tripulantes de aeronave o buque que conocedores de alguna de la situaciones de peligro a que se refiere el artículo anterior, no dieren cuenta de ella a sus superiores, serán castigados con la pena de arresto mayor a prisión menor.
+
+### Artículo 44
+
+Artículo 44.
+Los que no presten el auxilio que esté a su alcance a los tripulantes o pasajeros de una aeronave siniestrada, heridos o aislados, de las rutas ordinarias de comunicación, serán castigados con la pena de arresto mayor a prisión menor o multa hasta 50.000 pesetas.
+
+## CAPÍTULO IV
+
+Delitos contra la autoridad
+
+## Sección primera
+
+Sección primera. Insulto al mando.
+
+### Artículo 45
+
+Artículo 45.
+El tripulante de aeronave que en acto de servicio o en relación con éste, maltrate de obra a un superior será castigado:
+1.º Con la pena de reclusión mayor, si se ocasionare la muerte del superior agredido.
+2.º Con la de prisión mayor a reclusión menor, si dicho superior hubiera sufrido lesiones graves de las comprendidas en los números uno y dos del artículo 420 del Código Penal.
+3.º Con la de prisión menor, en los demás casos.
+Con las mismas penas se castigará en los respectivos casos el maltrato de obra en acto de servicio o con su ocasión, al Comandante del aeropuerto, por un empleado del mismo.
+Se modifica el párrafo 1 por el art. 2 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 46
+
+Artículo 46.
+El tripulante o empleado que en acto de servicio o en relación con él, intimide, amenace o de otro modo atente contra la libertad del superior, será castigado con arresto mayor a prisión menor.
+La pena será de prisión menor, cuando concurra alguna de las circunstancias siguientes:
+1.º Si los hechos se verifican con armas.
+2.º Si se pone mano en el superior.
+3.º Si, por consecuencia de la coacción, se accede a las exigencias del culpable.
+4.º Si el hecho se realiza públicamente.
+
+### Artículo 47
+
+Artículo 47.
+El que en acto de servicio o con ocasión de él ofenda de palabra a un superior en su presencia, por escrito dirigido a él o en otra forma equivalente, incurrirá en la pena de arresto mayor a prisión menor.
+
+## Sección segunda
+
+Sección segunda. Atentados y desacatos.
+
+### Artículo 48
+
+Artículo 48.
+Los atentados y desacatos cometidos por los pasajeros contra el Comandante de la aeronave o quien haga sus veces, serán castigados con arreglo a lo dispuesto en el Código Penal.
+
+## Sección tercera
+
+Sección tercera. Desobediencia
+
+### Artículo 49
+
+Artículo 49.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.f) de la Ley Orgánica 10/1995, de 23 de noviembre. Ref. BOE-A-1995-25444.
+
+### Artículo 50
+
+Artículo 50.
+El pasajero que durante su permanencia en la aeronave no obedezca una orden relativa a la seguridad de la misma, será castigado con multa hasta 50.000 pesetas.
+
+## CAPÍTULO V
+
+Abuso de autoridad y negligencia en el ejercicio del mando
+
+### Artículo 51
+
+Artículo 51.
+El superior que, excediéndose arbitrariamente en sus atribuciones, maltrate de obra o irrogue de otro modo perjuicio grave a un individuo de la tripulación que le esté subordinado, incurrirá en la pena de arresto mayor o suspensión del título profesional o aeronáutico.
+En la misma pena incurrirá el Comandante o individuo de la tripulación que veje, ofenda o someta a un pasajero a medidas no autorizadas por el Reglamento.
+
+### Artículo 52
+
+Artículo 52.
+El Comandante que abandone arbitrariamente a cualquier miembro de la tripulación o pasaje desembarcándole, impidiéndole la vuelta a bordo o anticipando a tal fin la partida de la aeronave, será castigado con la pena de arresto mayor.
+Si el hecho se realizase fuera del territorio nacional, podrá elevarse la pena hasta prisión menor.
+
+### Artículo 53
+
+Artículo 53.
+Incurrirá en la pena de arresto mayor o pérdida del título profesional el Comandante que no emplee los medios que estén a su alcance para reprimir cualquier acto de indisciplina si del mismo pudiere derivarse dificultad o perturbación para el servicio público, o peligro para la vida de las personas, la seguridad de la aeronave o del cargamento.
+
+## CAPÍTULO VI
+
+Delitos de falsedad
+
+### Artículo 54
+
+Artículo 54.
+El comandante que tripulare una aeronave desprovista de marcas de matricula o nacionalidad, o que las lleve irregularmente será castigado con la pena de arresto mayor a prisión menor.
+La pena será de prisión menor y multa hasta 50.000 pesetas si se tratare de una aeronave extranjera que ostente marca de nacionalidad española.
+
+### Artículo 55
+
+Artículo 55.
+Se impondrá la pena de prisión menor al que haga uso de documentos de a bordo de otra aeronave, a la que hubiese usurpado la marca de matrícula.
+
+### Artículo 56
+
+Artículo 56.
+El que para obtener un beneficio, procurárselo a tercero o hacer recaer en otro un daño, se valga de documento de trabajo aeronáutico perteneciente a distinta persona, será castigado con la pena de arresto mayor.
+
+### Artículo 57
+
+Artículo 57.
+El que maliciosamente se declare propietario en todo o en parte de una aeronave, con el fin de poderla inscribir en el Registro y atribuirle nacionalidad española, incurrirá en la pena de prisión menor y multa hasta 100.000 pesetas.
+
+### Artículo 58
+
+Artículo 58.
+La falsificación de los libros y documentos de a bordo será castigada con las penas señaladas en el Código Penal común para la falsificación de documentos públicos.
+Si dicha falsedad es realizada por miembro de la tripulación, serán considerados éstos como funcionarios públicos.
+
+## CAPÍTULO VII
+
+Delitos contra la propiedad
+
+## Sección primera
+
+Sección primera. Robo y hurto
+
+### Artículo 59
+
+Artículo 59.
+El robo y el hurto cometidos a bordo de aeronave por individuos de la tripulación o en aeropuerto por empleados del mismo, serán castigados con la pena señalada en el Código Penal, impuesta en su grado máximo.
+La misma pena o la superior en grado podrá imponerse al robo o hurto de la aeronave o de elementos de la misma, cuando se halle dispuesta para la navegación o se hallare en vuelo.
+
+### Artículo 60
+
+Artículo 60.
+El Comandante de aeronave que la empleare ilegítimamente en provecho propio o de un tercero, será castigado con la pena de arresto mayor a prisión menor. Si tal empleo fuera para cometer un delito o procurar la impunidad de éste o de cualquier otro, podrá imponerse hasta la pena de prisión mayor.
+Cualquier otra persona, que sin la debida autorización o sin causa lícita, usare o participare a sabiendas en el uso de una aeronave ajena, será castigado con la pena de arresto mayor. Si la aeronave se empleare para cometer un delito o procurar impunidad de éste o de cualquier otro, se impondrá la pena de prisión menor.
+
+### Artículo 61
+
+Artículo 61.
+La apropiación de todo o parte del cargamento de una aeronave por individuos de la tripulación a quienes hubiese sido entregado para su custodia, será castigada con las penas señaladas en el Código Penal, en su grado máximo, o con el grado mínimo de la superior inmediata.
+
+## Sección segunda
+
+Sección segunda. Daños.
+
+### Artículo 62
+
+Artículo 62.
+Las averías causadas maliciosamente en una aeronave o en su cargamento que pongan en peligro la navegación, serán castigadas con la pena de prisión menor a prisión mayor.
+Si como consecuencia de la avería se producen los efectos señalados en el artículo 13, se aplicarán las penas establecidas en éste.
+Si no hubiere peligro para la navegación, se castigará como delito de daños según el Código Penal.
+Se entiende por avería, a los efectos de este articulo, todo daño o desperfecto que se ocasione en la aeronave, instrumentos, motores o instalaciones de a bordo, o en el cargamento, desde que éste se reciba a bordo hasta que se descargue en el punto de destino.
+
+### Artículo 63
+
+Artículo 63.
+El que modifique, destruya o deteriore instalaciones, balizas o señales de ayuda a la navegación aérea con posible perturbación para ésta será castigado con la pena de arresto mayor a prisión menor.
+
+## Sección tercera
+
+Sección tercera. Polizonaje
+
+### Artículo 64
+
+Artículo 64.
+El que clandestinamente entre sin billete en una aeronave comercial con el propósito de hacer viaje o continúe a bordo, también clandestinamente, con el mismo fin, una vez recorrido el trayecto a que diere derecho el billete adquirido, será castigado con la pena de arresto mayor o multa hasta 20.000 pesetas.
+Los tripulantes de la aeronave o empleados del aeropuerto que cooperen a la comisión del delito serán sancionados con las penas señaladas a los autores del mismo.
+
+## CAPÍTULO VIII
+
+Delitos de imprevisión, imprudencia o impericia en el tráfico aéreo
+
+### Artículo 65
+
+Artículo 65.
+El que en el ejercicio de funciones de la navegación aérea ejecute, por imprevisión, imprudencia o impericia graves un hecho que, si mediare malicia constituiría delito, será castigado con la pena de prisión menor.
+Cuando el hecho se ejecutare por simple imprudencia, imprevisión o impericia, con infracción de reglamentos, será castigado con la pena de arresto mayor a prisión menor.
+Lo dispuesto en los dos primeros párrafos de este artículo no tendrá lugar cuando la pena señalada al delito sea igual o menor que las contenidas en los mismos, en cuyo caso los Tribunales aplicarán la inmediatamente inferior a la que corresponda al delito doloso, en el grado que estimen conveniente.
+Cuando se produjera muerte o lesiones graves a consecuencia de impericia o negligencia profesional, se impondrán en su grado máximo las penas señaladas en este artículo, pudiéndose aumentar dichas penas en uno o dos grados, según los casos, a juicio del Tribunal, si los daños causados fuesen de extrema gravedad, debiendo además aplicarse como complemento de pena la pérdida del título profesional o aeronáutico. En ningún caso se impondrá pena que resultare igual o superior a la que correspondería al mismo delito cometido intencionadamente.
+
+## TÍTULO III
+
+De las faltas
+
+### CAPÍTULO I
+
+CAPÍTULO PRIMERO
+Faltas contra la policía y seguridad de la navegación aérea
+
+### Artículo 66
+
+Artículo 66.
+Serán castigados con arresto que no exceda de treinta días y multa hasta 2.500 pesetas:
+1.º Los que ocupen un espacio de dominio aeronáutico impidiendo su empleo público o lleven a cabo allí instalaciones no autorizadas.
+2.º Los que en las zonas de servidumbres de aeropuertos, aeródromos u otras instalaciones aeronáuticas, realicen plantaciones de cualquier género, contraviniendo lo dispuesto en las leyes.
+3.º Los que en dichos lugares y en las mismas circunstancias manejen sustancias inflamables o explosivas.
+4.º Los que enciendan luces, fuegos, emitan señales radioeléctricas o de cualquier otra clase que puedan inducir a error en la navegación aérea, si de ello no se deriva ningún daño.
+5.º Los que contravengan las normas reglamentarias sobre balizaje de obstáculos, o las relativas a señales para ayuda a la navegación aérea.
+
+### Artículo 67
+
+Artículo 67.
+Serán castigados con multa inferior a 5.000 pesetas:
+1.º Los que sin la autorización correspondiente ejerzan funciones a bordo que no exijan título aeronáutico.
+2.º Los que teniendo conocimiento del aterrizaje o partida de una aeronave fuera de aeropuerto o aeródromo no lo comuniquen dentro de sus medios a la autoridad más próxima.
+
+### Artículo 68
+
+Artículo 68.
+Será castigado con arresto hasta treinta días o suspensión:
+1.º El Comandante de una aeronave que navegue sin tener a bordo los aparatos y los documentos reglamentarios, lleve irregularmente la lista de la tripulación o el plan de vuelo o no ejecute las anotaciones prescritas.
+2.º El Comandante que no cumpla la orden de aterrizaje urgente en cualquier aeropuerto próximo a su ruta.
+3.º El Comandante de aeronave que sin autorización expresa entre en espacio reglamentariamente reservado.
+4.º El Comandante que transporte pasajeros en una aeronave no calificada o autorizada para dicho transporte.
+
+### Artículo 69
+
+Artículo 69.
+Serán castigados con multa inferior a 5.000 pesetas o amonestación:
+1.º El Comandante que sin incurrir en el delito prevenido en el artículo 17 aterrice en aeropuertos o aeródromos no previstos en el plan de vuelo o no lo modifique en la forma que lo ordene la Autoridad competente.
+El Comandante de una aeronave que en caso de aterrizaje forzoso fuera de aeropuerto o aeródromo no dé el correspondiente aviso.
+
+## CAPÍTULO II
+
+Faltas contra la policía de aeropuertos
+
+### Artículo 70
+
+Artículo 70.
+Serán castigados con multa que no exceda de 2.500 pesetas o arresto hasta treinta días:
+1.º Los que se dediquen a la enseñanza de pilotaje aéreo sin la correspondiente autorización o realicen prácticas en espacios prohibidos.
+2.º La autoridad de un aeropuerto que teniendo conocimiento de la próxima partida de alguna aeronave sin la documentación reglamentaria, o sin comprobación de ella, no tome las medidas para impedirlo.
+
+### Artículo 71
+
+Artículo 71.
+Serán castigados con arresto hasta treinta días o suspensión:
+1.º El tripulante de una aeronave o el Oficial o funcionario de servicios de ayuda a la navegación que no anote con la debida exactitud las indicaciones reglamentarias en los libros a su cargo o en otros sistemas de registro reglamentariamente admitidos.
+2.º El Comandante de aeronave que lleve pasajeros sin cumplir con las normas reglamentarias de seguridad para los mismos o que los transporte en mayor número que el de asientos debidamente autorizados para cada viaje.
+
+## CAPÍTULO III
+
+De otras faltas
+
+### Artículo 72
+
+Artículo 72.
+Serán sancionadas con arresto hasta treinta días, multa inferior a 5.000 pesetas o amonestación, las faltas de asistencia o puntualidad en la incorporación al servicio de individuos de la tripulación de una aeronave o funcionarios de un aeropuerto que, a juicio del Jefe de éste, originen interrupciones o posible perturbación en la ejecución de horarios de vuelo.
+
+### Artículo 73
+
+Artículo 73.
+Los que desde una aeronave arrojen objetos no clasificados como lastre reglamentario de la misma serán sancionados, si fuesen tripulantes, con arresto hasta treinta días y multa hasta 2.500 pesetas, y si fuesen pasajeros, con multa inferior a 5.000 pesetas.
+
+### Artículo 74
+
+Artículo 74.
+Será castigado con multa inferior a 5.000 pesetas o amonestación el que a bordo de una aeronave o dentro del aeropuerto incumpla las normas reglamentarias de policía.
+
+### Artículo 75
+
+Artículo 75.
+Los que por simple imprudencia o negligencia, sin mediar infracción de reglamentos, ejecutasen un hecho en el ejercicio de funciones de la navegación aérea, que si mediare malicia constituiría un delito de los comprendidos en esta Ley, serán castigados con la pena de arresto menor o multa interior a 5.000 pesetas,
+
+## LIBRO SEGUNDO
+
+De la jurisdicción
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+## TÍTULO ÚNICO
+
+De la jurisdicción penal en la navegación aérea
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+## CAPÍTULO I
+
+Competencia organización y procedimientos
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículos 76 a 85
+
+Artículos 76 a 85.
+(Derogados).
+Se derogan por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 76
+
+Artículo 76.
+La jurisdicción penal aeronáutica, que se establece por la presenta Ley, será la competente para conocer de los delitos y faltas previstos en esta Ley y se compondrá de los siguientes órganos:
+1.º Los Comandantes de aeronaves.
+2.º Los Jefes de aeropuerto o aeródromo.
+3.º Los Jefes del sector aéreo.
+4.º El Tribunal Aeronáutico.
+5.º Los Jefes de Región o Zona aérea.
+6.º El Consejo Supremo de Justicia Militar.
+La competencia se extenderá a los delitos conexos con los comprendidos en esta Ley y a la aplicación, si procediera, de otras Leyes penales que señalaran mayor castigo a los hechos incluidos en la presente.
+Las normas de competencia del Código de Justicia Militar prevalecerán sobre las establecidas en esta Ley que además será supletoria de dicho Código cuando conozca de los hechos la jurisdicción militar.
+
+### Artículo 77
+
+Artículo 77.
+Los Comandantes de las aeronaves serán competentes para sancionar las faltas que cometan los tripulantes y demás personas a bordo de aquéllas durante la navegación aérea. Procederán a la formación de primeras diligencias por los delitos castigados en esta ley, cometidos en la aeronave y desde la aeronave o contra la aeronave.
+
+### Artículo 78
+
+Artículo 78.
+Los Jefes de aeropuerto o aeródromo tendrán las mismas atribuciones que el artículo anterior asigna a los Comandantes de aeronave cuando los hechos ocurran en el espacio aéreo o territorio jurisdiccional de los primeros y no estuvieren reservados a los segundos.
+Iguales atribuciones corresponderán a los Jefes de Sector Aéreo dentro de su jurisdicción respecto de los hechos que ocurran fuera del espacio aéreo o territorio pertenecientes a un aeropuerto o aeródromo.
+
+### Artículo 79
+
+Artículo 79.
+El Tribunal Aeronáutico conocerá de las causas que se instruyan por los delitos comprendidos en esta Ley no reservados al Consejo Supremo de Justicia Militar.
+
+### Artículo 80
+
+Artículo 80.
+El Tribunal Aeronáutico se compondrá de un Presidente con categoría de General y cuatro Vocales con la de General o Jefe. El Presidente y dos de los Vocales deberán ser pilotos pertenecientes al Arma de Aviación en servicio activo. Los otros dos Vocales, uno de los cuales actuará como ponente, pertenecerán al cuerpo Jurídico del Aire, con preferencia para quienes posean el diploma en Estudios Superiores de Derecho internacional Aéreo e Industrial.
+Se designarán además dos Vocales suplentes, pilotos pertenecientes al Arma de Aviación, en servicio activo, para el caso de que los titulares de esta clase no puedan actuar por causa legalmente justificada.
+Igualmente se designarán dos Vocales suplentes del Cuerpo Jurídico del Aire a los mismos efectos.
+Igual nombramiento se hará por el Ministerio del Aire para un período de cuatro años, pudiendo los designados serlo de nuevo al finalizar dicho período.
+
+### Art 81
+
+Art. 81.
+El Tribunal Aeronáutico, que será único para toda la Nación se reunirá en la residencia de la autoridad judicial aérea que conozca de la causa, y excepcionalmente en el lugar donde ésta se tramite, o en otra plaza cuando razones extraordinarias así lo aconsejen.
+
+### Art 82
+
+Art. 82.
+Los Jefes de Región y Zona Aérea tendrán, con sus auditores y en el respectivo territorio, las funciones de autoridad judicial de esta jurisdicción penal aeronáutica.
+
+### Art 83
+
+Art. 83.
+El Consejo Supremo de Justicia Militar ejercerá la superior jurisdicción.
+
+### Art 84
+
+Art. 84.
+Las funciones del Ministerio público estarán a cargo de un General o Jefe del Cuerpo Jurídico del Aire. En el Consejo Supremo se encomendarán al Teniente Fiscal Togado del Aire.
+
+### Art 85
+
+Art. 85.
+Todo lo concerniente a organización, atribuciones y modo de actuar de los Tribunales y sus elementos auxiliares, así como el procedimiento aplicable para el trámite y resolución de los asuntos e incidencias de ello en la Jurisdicción Penal Aeronáutica, se regirá en primer lugar por lo dispuesto en esta Ley, y en lo no previsto en la misma, por los preceptos pertinentes en cada caso de los tratados primero y tercero del Código de Justicia Militar.
+No obstante lo dispuesto en el párrafo anterior, la intervención de los perjudicados y de las terceras personas responsables civilmente con carácter subsidiario como consecuencia de la responsabilidad penal derivada de los delitos o faltas previstos y penados en esta Ley, en los procesos a que su aplicación dé lugar, se regirá por lo dispuesto en el título cuarto del libro primero y del título décimo del libro segundo y demás disposiciones concordantes de la Ley de Enjuiciamiento Criminal en cuanto al ejercicio de cuantas acciones, excepciones y facultades de defensa puedan corresponderles, tanto con carácter penal como civilmente.
+Cuando al ser calificado el procedimiento por el Ministerio Fiscal se solicite la aplicación de la medida de seguridad de suspensión de Entidades, Sociedades o Empresas, a que se refiere número tres del artículo séptimo de esta Ley, dichas personas o Entidades podrán personarse para su defensa en la misma forma y por los mismos trámites que en el párrafo anterior se señalan para los terceros responsables civiles subsidiarios, Si dicha posibilidad de personación no se ha producido, el Tribunal, en su sentencia no podrá adoptar la indicada medida de seguridad, debiendo llamar la atención de la autoridad judicial, si lo estima justo, para que por los tramites del capítulo tercero, título único del libro segundo de esta Ley, resuelva lo procedente.
+Se modifica por el art. 1 de la Ley 6/1972, de 26 de febrero. Ref. BOE-A-1972-314.
+
+## CAPÍTULO II
+
+Del procedimiento para la corrección de las faltas
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Arts. 86 a 90
+
+Arts. 86 a 90.
+(Derogados).
+Se derogan por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 86
+
+Artículo 86.
+El comandante de la aeronave corregirá las faltas que cometan los tripulantes o personas embarcadas, extendiendo un acta, que contendrá la exposición del hecho realizado, las manifestaciones del inculpado y la resolución recaída, elevando copia de dicha acta al Jefe de la Región o Zona Aérea.
+Únicamente podrá imponer las penas de multa y amonestación sin perjuicio de acudir al Jefe del aeropuerto en escrito razonado, cuando entienda que el hecho debe ser castigado con pena de mayor gravedad.
+El acta se notificará al inculpado, con la advertencia expresa de que puede en ese momento recurrir de la penalidad mediante manifestación verbal que se consignará a continuación en el propio documento, o acudir ante el Jefe de la Región o Zona Aérea por escrito en el plazo de cinco días.
+En estos casos el importe de la multa deberá ser entregado al Jefe del aeropuerto español de destino del inculpado o, en el momento de presentar el recurso, ante el Jefe de la Región o Zona Aérea, a reserva de la decisión del recurso.
+
+### Artículo 87
+
+Artículo 87.
+Consentida y abonada que fuere la multa, el Comandante entregará la cantidad que reciba con el acta al Jefe del aeropuerto para inversión de aquélla en papel de pagos al Estado, enviando a la Subsecretaría de Aviación Civil para archivo un parte del pliego que ha de unirse al expediente con la restante documentación.
+
+### Artículo 88
+
+Artículo 88.
+En caso de recurso el Comandante de la aeronave, al llegar al aeropuerto español a que se dirija el sancionado, tratándose de viajero, o al de conclusión de viaje, si es tripulante, presentará al Jefe de aeropuerto el presunto culpable con entrega del acta, que podrá ampliar con otros informes, si se consideran necesarios, y el recurso interpuesto.
+El Jefe de aeropuerto elevará el recurso con sus antecedentes al Jefe de Región o Zona Aérea, quien resolverá de acuerdo con su Auditor lo que sea procedente. Esta resolución será firme.
+En caso de impago de la multa impuesta se sustituirá por arresto, con arreglo a la legislación vigente.
+
+### Artículo 89
+
+Artículo 89.
+El Jefe de aeropuerto y el Jefe del Sector Aéreo sancionarán con las mismas formalidades y garantías las faltas que se cometan en su territorio o espacio aéreo de su jurisdicción. Igualmente corregirán, en su caso, las que se cometan a bordo de la aeronave por tripulantes o personas embarcadas, cuando el Comandante de ella entienda que deben ser castigados con la privación de libertad y así lo proponga.
+
+### Artículo 90
+
+Artículo 90.
+Las faltas que cometieren el Jefe del Sector Aéreo, el Jefe de aeropuerto o el Comandante de aeronave serán esclarecidas en expediente tramitado por el Instructor y Secretario designados al efecto por el Jefe de la Región o Zona Aérea, que resolverá de acuerdo con el Auditor.
+El expediente contendrá las pruebas de la existencia de la falta y de la responsabilidad del inculpado, a quien se recibirá declaración no jurada practicándose las diligencias que solicite, si el instructor las estima pertinentes.
+Contra la resolución dictada por la autoridad judicial solo se dará recurso de súplica ante la misma, en término de cinco días, a contar de la notificación.
+
+## CAPÍTULO III
+
+Del procedimiento para la imposición de medidas de seguridad
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículos 91 a 97
+
+Artículos 91 a 97.
+(Derogados).
+Se derogan por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Artículo 91
+
+Artículo 91.
+Las medidas de seguridad, cuando no sean impuestas por Tribunal aeronáutico en las sentencias que dicte, sólo podrán decretarse en procedimiento ordenado por la Autoridad judicial, a instancia de aquél, por excitación del Ministerio Fiscal o por el propio conocimiento de hechos que puedan significar peligro para la navegación aérea.
+Si dentro de los límites de su respectiva competencia los comandantes de aeronave, Jefes de aeropuerto o de Sector estimaren procedente la adopción de una medida de seguridad, lo propondrán por escrito razonado a la Autoridad judicial.
+
+### Artículo 92
+
+Artículo 92.
+El procedimiento será instruido por Juez y Secretario designados con arreglo a las normas generales. En él se oirá al interesado, y la Subsecretaría de Aviación Civil Informará en el plazo de diez días sobre los hechos y los antecedentes del inculpado.
+El Ministerio Fiscal podrá intervenir en las diligencias desde su iniciación.
+
+### Artículo 93
+
+Artículo 93.
+Recibida declaración al presunto culpable, o cuando se trate de Sociedades a su representante legal, unido informe de la Subsecretaría de Aviación Civil y practicadas las demás comprobaciones que el Juez, de oficio o a instancia del Ministerio Fiscal estime procedentes, se dará vista de todas las actuaciones al inculpado, quien podrá dentro del término de cinco días, proponer las pruebas que estime conducentes a su descargo.
+Las pruebas habrán de referirse siempre a la comprobación de los hechos o de sus circunstancias, y el Juez resolverá sin ulterior recurso sobre la admisión de aquéllas.
+
+### Artículo 94
+
+Artículo 94.
+Practicadas las pruebas se pondrá el expediente de manifiesto por término de cinco días, durante el cual el Ministerio Fiscal y el interesado podrán alegar por escrito lo que estimen conveniente.
+
+### Artículo 95
+
+Artículo 95.
+Transcurrido el termino anterior, el Juez remitirá lo actuado al Jefe de la Región o Zona Aérea, quien dictará, de acuerdo con su Auditor, la resolución fundada que sea pertinente.
+
+### Artículo 96
+
+Artículo 96.
+Cuando se impongan algunas de las medidas expresadas en los números 2, 3 y 4 del artículo 8.º contra la resolución de la Autoridad judicial se dará recurso ante la Sala de Justicia del Consejo Supremo de Justicia Militar en el plazo de seis días, a contar desde la notificación. En otro caso, únicamente cabrá la súplica en igual término ante la propia Autoridad judicial.
+
+### Artículo 97
+
+Artículo 97.
+Las penas y medidas de seguridad impuestas con arreglo a esta Ley se comunicarán al Registro Central de Penados y Rebeldes dependiente del Ministerio de Justicia y a la Subsecretaría de Aviación civil, en la que se llevará también un registro de ellas.
+
+### Disposición transitoria
+
+Disposición transitoria.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Disposición final primera
+
+Disposición final primera.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Derogada)
+Se deroga por la disposición derogatoria 1 de la Ley Orgánica 1/1986, de 8 de enero. Ref. BOE-A-1986-904.
+
+### [Información relacionada]
+
+INFORMACIÓN RELACIONADA
+ Los artículos en los que se señala pena compuesta por la de muerte y otra u otras de privación de libertad, quedan modificados en el sentido de la pena máxima a imponer, salvo en tiempos de guerra, es de treinta años, según establece el art. 2 del Real Decreto-Ley 45/1978, de 21 de diciembre. Ref. BOE-A-1978-30962.

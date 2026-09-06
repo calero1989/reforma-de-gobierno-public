@@ -1,0 +1,762 @@
+# Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+
+- Identificador BOE: `BOE-A-1985-12978`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1985-12978
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que las referencias a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se contienen en la Ley Orgánica 2/2006, de 3 de mayo, según establece su disposición adicional 16. Ref. BOE-A-2006-7899#dadecimosexta.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+PREAMBULO
+La extensión de la educación básica, hasta alcanzar a todos y cada uno de los ciudadanos, constituye, sin duda, un hito histórico en el progreso de las sociedades modernas. En efecto, el desarrollo de la educación, fundamento del progreso de la ciencia y de la técnica, es condición de bienestar social y prosperidad material, y soporte de las libertades individuales en las sociedades democráticas. No es de extrañar, por ello, que el derecho a la educación se haya ido configurando progresivamente como un derecho básico, y que los estados hayan asumido su provisión como un servicio público prioritario.
+Por las insuficiencias de su desarrollo económico y los avatares de su desarrollo político, en diversas épocas, el Estado hizo dejación de sus responsabilidades en este ámbito, abandonándolas en manos de particulares o de instituciones privadas, en aras del llamado principio de subsidiariedad. Así hasta tiempos recientes, la educación fue más privilegio de pocos que derecho de todos.
+En el último cuarto de siglo y tras un sostenido retroceso de la enseñanza pública, las necesidades del desarrollo económico y las transformaciones sociales inducidas por éste elevaron de modo considerable la demanda social de educación. El incremento consiguiente fue atendido, primordialmente por la oferta pública, con la consiguiente alteración de las proporciones hasta entonces prevalentes entre el sector público y el privado. De este modo, acabaron de configurarse los contornos característicos del actual sistema educativo en España: Un sistema de carácter mixto o dual, con un componente público mayoritario y uno privado de magnitud considerable.
+La Ley General de Educación de 1970 estableció la obligatoriedad y gratuidad de una educación básica unificada. Concebía ésta como servicio público, y responsabilizaba prioritariamente al Estado de su provisión. Ello no obstante, reconociendo y consagrando el carácter mixto de nuestro sistema educativo, abría la posibilidad de que centros no estatales pudieran participar en la oferta de puestos escolares gratuitos en los niveles obligatorios, obteniendo en contrapartida un apoyo económico del Estado.
+A pesar de que el proyectado régimen de conciertos nunca fue objeto del necesario desarrollo reglamentario, diversas disposiciones fueron regulando en años sucesivos la concesión de subvenciones a centros docentes privados, en cuantía rápidamente creciente, que contrastaba con el ritmo mucho más parsimonioso de incremento de las inversiones públicas. En ausencia de la adecuada normativa, lo que había nacido como provisional se perpetuó, dando lugar a una situación irregular, falta del exigible control, sujeta a incertidumbre y arbitrariedad, y en ocasiones sin observancia de las propias disposiciones legales que la regulaban. A pesar de ello, la cobertura con fondos públicos de la enseñanza obligatoria no cesó de extenderse, hasta abarcar la práctica totalidad de la misma, pese al estancamiento relativo del sector público.
+No es de extrañar que ante tan confusa e insatisfactoria evolución fueran consolidándose opciones educativas alternativas, cuando no contrapuestas, que prolongaban de hecho las fracturas ideológicas que secularmente habían escindido a la sociedad española en torno a la educación.
+Este trasfondo histórico explica la complejidad de elementos que configuran el marco educativo establecido por la Constitución Española, un marco de compromiso y concordia que, al tiempo que reconoce implícitamente el sistema mixto heredado, proporciona el espacio normativo integrador en el que pueden convivir las diversas opciones educativas. Así, tras el derecho a la educación (artículo 27.1 a) se afirma la libertad de enseñanza (artículo 27.1 b); al lado del derecho de los padres a elegir la formación religiosa y moral que estimen más oportuna para sus hijos (artículo 27.3), figuran el derecho a la libertad de cátedra (artículo 20.1) y la libertad de conciencia (artículos 14, 16, 20 y 23). Y si se garantiza la libertad de creación de centros docentes (artículo 27.6), también se responsabiliza a los poderes públicos de una programación general de la enseñanza (artículo 27.5) orientada a asegurar un puesto escolar a todos los ciudadanos. Finalmente, la ayuda a los centros docentes (artículo 27.9) tiene que compaginarse con la intervención de profesores, padres y alumnos en el control y gestión de esos centros sostenidos con fondos públicos (artículo 27.7). Corresponde al legislador el desarrollo de estos preceptos, de modo que resulten modelados equilibradamente en su ulterior desarrollo normativo.
+Sin embargo, el desarrollo que del artículo 27 de la Constitución hizo la Ley Orgánica del Estatuto de Centros Escolares, ha supuesto un desarrollo parcial y escasamente fiel al espíritu constitucional, al soslayar, por un lado, aspectos capitales de la regulación constitucional de la enseñanza como son los relativos a la ayuda de los poderes públicos a los centros privados y a la programación general de la enseñanza y, por otro, al privilegiar desequilibradamente los derechos del titular del centro privado sobre los de la comunidad escolar, supeditando la libertad de cátedra al ideario e interpretando restrictivamente el derecho de padres, profesores y alumnos a la intervención en la gestión y control de los centros sostenidos con fondos públicos.
+Se impone, pues, una nueva norma que desarrolle cabal y armónicamente los principios que, en materia de educación, contiene la Constitución Española, respetando tanto su tenor literal como el espíritu que presidió su redacción, y que garantice al mismo tiempo el pluralismo educativo y la equidad. A satisfacer esta necesidad se orienta la Ley Orgánica reguladora del Derecho a la Educación.
+En estos principios debe inspirarse el tratamiento de la libertad de enseñanza, que ha de entenderse en un sentido amplio y no restrictivo, como el concepto que abarca todo el conjunto de libertades y derechos en el terreno de la educación. Incluye, sin duda, la libertad de crear centros docentes y de dotarlos de un carácter o proyecto educativo propio, que se halla recogida y amparada en el Capítulo III del Título I. Incluye, asimismo, la capacidad de los padres de poder elegir para sus hijos centros docentes distintos de los creados por los poderes públicos, así como la formación religiosa y moral que esté de acuerdo con sus convicciones, tal como se recoge en el artículo 4.º Pero la libertad de enseñanza se extiende también a los propios profesores, cuya libertad de cátedra está amparada por la Constitución por cuanto constituye principio básico de toda sociedad democrática en el campo de la educación. Y abarca, muy fundamentalmente, a los propios alumnos, respecto de los cuales la protección de la libertad de conciencia constituye un principio irrenunciable que no puede supeditarse a ningún otro.
+Tras la definición de los grandes fines de la actividad educativa y de los derechos y libertades de todos y cada uno de los integrantes de la comunidad escolar, la Ley clasifica los centros docentes atendiendo conjuntamente a los criterios de titularidad jurídica y origen y carácter de los recursos que aseguran su sostenimiento. Distingue así los centros privados que funcionan en régimen de mercado, mediante precio, y los centros sostenidos con fondos públicos, y dentro de éstos los privados concertados y los de titularidad pública.
+A la red dual integrada por estos dos últimos tipos de centros encomienda la ley la provisión de la educación obligatoria en régimen de gratuidad. La regulación de ésta se asienta en dos principios de importancia capital en el sistema educativo diseñado por la Constitución, programación y participación, cuyo juego hace posible la cohonestación equilibrada del derecho a la educación y de la libertad de enseñanza.
+Al Estado y a las Comunidades Autónomas, por medio de la programación general de la enseñanza, corresponde asegurar la cobertura de las necesidades educativas, proporcionando una oferta adecuada de puestos escolares, dignificando una enseñanza pública insuficientemente atendida durante muchos años y promoviendo la igualdad de oportunidades. El mecanismo de la programación general de la enseñanza, que debe permitir la racionalización del uso de los recursos públicos destinados a educación, se halla regulado en el Título II.
+Tal programación debe asegurar simultáneamente el derecho a la educación y la posibilidad de escoger centro docente dentro de la oferta de puestos escolares gratuitos, pues tal libertad no existe verdaderamente si no está asegurado aquel derecho para todos.
+El Título III se ocupa de los órganos de gobierno de los centros públicos, y el Título IV hace lo propio con los concertados. La estructura y el funcionamiento de unos y otros se inspiran, en coherencia con lo prescrito por el artículo 27.7 de la Constitución en una concepción participativa de la actividad escolar. En uno y otro caso, y con las peculiaridades que su distinta naturaleza demandan, la participación de la comunidad escolar se vehicula a través del consejo escolar del centro. Además de constituir medio para el control y gestión de fondos públicos, la participación es mecanismo idóneo para atender adecuadamente los derechos y libertades de los padres, los profesores y, en definitiva, los alumnos, respetando siempre los derechos del titular. La participación amplía, además, la libertad de enseñanza, al prolongar el acto de elegir centro en el proceso activo de dar vida a un auténtico proyecto educativo y asegurar su permanencia. Finalmente, la opción por la participación contenida en la Constitución es una opción por un sistema educativo moderno, en el que una comunidad escolar activa y responsable es coprotagonista de su propia acción educativa.
+El Título IV regula, asimismo, el régimen de conciertos a través del cual se materializa el sostenimiento público de los centros privados concertados que, junto con los públicos, contribuyen a hacer eficaz el derecho a la educación gratuita, y, de acuerdo con el artículo 27.9 de la Constitución, establece los requisitos que deben reunir tales centros.
+Sobre la base de la regulación conjunta de los derechos y libertades que en materia educativa contiene la Constitución, los postulados de programación de la enseñanza y participación son principios correlativos y cooperantes de ayuda a los centros docentes que se contempla en el artículo 27.9, pues contribuyen a satisfacer las exigencias que del texto constitucional se derivan para el gasto público: Por un lado, que por su distribución sea equitativa y que se oriente a financiar la gratuidad ?y a ello se dirige la programación?; por otro, optimizar el rendimiento educativo del gasto y velar por la transparencia de la Administración y calidad de la educación, lo que se asegura a través de la participación. En el ámbito educativo, ese control social y esa exigencia de transparencia han sido encomendados, más directamente que a los poderes públicos, a padres, profesores y alumnos, lo que constituye una preferencia por la intervención social frente a la intervención estatal.
+En suma, la Ley Orgánica Reguladora del Derecho a la Educación, se orienta a la modernización y racionalización de los tramos básicos del sistema educativo español, de acuerdo con lo establecido en el mandato constitucional en todos sus extremos. Es por ello, una ley de programación de la enseñanza, orientada a la racionalización de la oferta de puestos escolares gratuitos, que a la vez que busca la asignación racional de los recursos públicos permite la cohonestación de libertad e igualdad. Es también una ley que desarrolla el principio de participación establecido en el artículo 27.7, como salvaguarda de las libertades individuales y de los derechos del titular y de la comunidad escolar. Es, además, una ley de regulación de los centros escolares y de sostenimiento de los concertados. Es, por fin, una norma de convivencia basada en los principios de libertad, tolerancia y pluralismo, y que se ofrece como fiel prolongación de la letra y el espíritu del acuerdo alcanzado en la redacción de la Constitución para el ámbito de la educación.
+Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+## TÍTULO PRELIMINAR
+
+### Artículo primero
+
+Artículo primero.
+1. Todos los españoles tienen derecho a una educación básica que les permita el desarrollo de su propia personalidad y la realización de una actividad útil a la sociedad. Esta educación será obligatoria y gratuita en el nivel de educación general básica y, en su caso, en la formación profesional de primer grado, así como en los demás niveles que la ley establezca.
+2. Todos, asimismo, tienen derecho a acceder a niveles superiores de educación, en función de sus aptitudes y vocación, sin que en ningún caso el ejercicio de este derecho esté sujeto a discriminaciones debidas a la capacidad económica, nivel social o lugar de residencia del alumno.
+3. Los extranjeros residentes en España tendrán también derecho a recibir la educación a que se refieren los apartados uno y dos de este artículo.
+
+### Artículo segundo
+
+Artículo segundo.
+La actividad educativa, orientada por los principios y declaraciones de la Constitución, tendrá, en los centros docentes a que se refiere la presente Ley, los siguientes fines:
+a) El pleno desarrollo de la personalidad del alumno.
+b) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
+c) La adquisición de hábitos intelectuales y técnicas de trabajo, así como de conocimientos científicos, técnicos, humanísticos, históricos y estéticos.
+d) La capacitación para el ejercicio de actividades profesionales.
+e) La formación en el respeto de la pluralidad lingüística y cultural de España.
+f) La preparación para participar activamente en la vida social y cultural.
+g) La formación para la paz, la cooperación y la solidaridad entre los pueblos y para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal, familiar y social.
+Se modifican las letras b) y g) por la disposición adicional 3.1 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### Artículo tercero
+
+Artículo tercero.
+Los profesores, en el marco de la Constitución, tienen garantizada la libertad de cátedra. Su ejercicio se orientará a la realización de los fines educativos, de conformidad con los principios establecidos en esta Ley.
+
+### Artículo cuarto
+
+Artículo cuarto.
+1. Los padres, madres o tutores, en relación con la educación de sus hijos e hijas o pupilos y pupilas, tienen los siguientes derechos:
+a) A que reciban una educación, con la máxima garantía de calidad, conforme con los fines establecidos en la Constitución, en el correspondiente Estatuto de Autonomía y en las leyes educativas.
+b) A escoger centro docente tanto público como distinto de los creados por los poderes públicos.
+c) A que reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.
+d) A estar informados sobre el progreso del aprendizaje e integración socio-educativa de sus hijos e hijas.
+e) A participar en el proceso de enseñanza y aprendizaje de sus hijos e hijas.
+f) A participar en la organización, funcionamiento, gobierno y evaluación del centro educativo, en los términos establecidos en las leyes.
+g) A ser oídos en aquellas decisiones que afecten a la orientación académica y profesional de sus hijos e hijas.
+2. Asimismo, como primeros responsables de la educación de sus hijos e hijas o pupilos y pupilas, les corresponde:
+a) Adoptar las medidas necesarias, o solicitar la ayuda correspondiente en caso de dificultad, para que sus hijos e hijas o pupilos y pupilas cursen las enseñanzas obligatorias y asistan regularmente a clase.
+b) Proporcionar, en la medida de sus disponibilidades, los recursos y las condiciones necesarias para el progreso escolar. Asimismo, deberán informar de las dificultades que puedan tener sus hijos o hijas en sus procesos de aprendizaje o socialización.
+c) Estimularles para que lleven a cabo las actividades de estudio que se les encomienden.
+d) Participar de manera activa en las actividades que se establezcan en virtud de los compromisos educativos que los centros establezcan con las familias, para mejorar el rendimiento de sus hijos e hijas.
+e) Conocer, participar y apoyar la evolución de su proceso educativo, en colaboración con el profesorado y los centros.
+f) Respetar y hacer respetar las normas establecidas por el centro, la autoridad y las indicaciones u orientaciones educativas del profesorado.
+g) Fomentar el respeto por todos los componentes de la comunidad educativa.
+h) Participar de forma cooperativa en aquellos proyectos y tareas que se les propongan desde el centro educativo.
+Se modifica por la disposición final 1.1 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 1.1 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo quinto
+
+Artículo quinto.
+1. Los padres de alumnos tienen garantizada la libertad de asociación en el ámbito educativo.
+2. Las asociaciones de padres de alumnos asumirán, entre otras, las siguientes finalidades:
+a) Asistir a los padres o tutores en todo aquello que concierne a la educación de sus hijos o pupilos.
+b) Colaborar en las actividades educativas de los centros.
+c) Promover la participación de los padres de los alumnos en la gestión del centro.
+3. En cada centro docente podrán existir asociaciones de padres de alumnos integradas por los padres o tutores de los mismos.
+4. Las asociaciones de padres de alumnos podrán utilizar los locales de los centros docentes para la realización de las actividades que les son propias, a cuyo efecto, los directores de los centros facilitarán la integración de dichas actividades en la vida escolar, teniendo en cuenta el normal desarrollo de la misma.
+5. Las Administraciones educativas favorecerán el ejercicio del derecho de asociación de madres y padres, así como la formación de federaciones y confederaciones.
+6. Reglamentariamente se establecerán, de acuerdo con la Ley, las características específicas de las asociaciones de padres de alumnos.
+Se modifica el apartado 5 por la disposición final 1.2 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica el apartado 5 por la disposición final 1.2 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se deroga al apartado 5 por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo sexto
+
+Artículo sexto.
+1. Todos los alumnos y alumnas tienen los mismos derechos y deberes, sin más distinciones que las derivadas de su edad y del nivel que estén cursando.
+2. Todos los alumnos y alumnas tienen el derecho y el deber de conocer la Constitución Española y el respectivo Estatuto de Autonomía, con el fin de formarse en los valores y principios reconocidos en ellos.
+3. Se reconocen al alumnado los siguientes derechos básicos:
+a) A recibir una formación integral que contribuya al pleno desarrollo de su personalidad.
+b) A que se respeten su identidad, integridad y dignidad personales.
+c) A que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad.
+d) A recibir orientación educativa y profesional.
+e) A una educación inclusiva y de calidad.
+f) A que se respete su libertad de conciencia, sus convicciones religiosas y sus convicciones morales, de acuerdo con la Constitución.
+g) A la protección contra toda intimidación, discriminación y situación de violencia o acoso escolar.
+h) A expresar sus opiniones libremente, respetando los derechos y la reputación de las demás personas, en el marco de las normas de convivencia del centro.
+i) A participar en el funcionamiento y en la vida del centro, de conformidad con lo dispuesto en las normas vigentes.
+j) A recibir las ayudas y los apoyos precisos para compensar las carencias y desventajas de tipo personal, familiar, económico, social y cultural, especialmente en el caso de presentar necesidades educativas especiales, que impidan o dificulten el acceso y la permanencia en el sistema educativo.
+k) A la protección social, en el ámbito educativo, en los casos de infortunio familiar o accidente.
+4. Son deberes básicos de los alumnos y las alumnas:
+a) Estudiar y esforzarse para conseguir el máximo desarrollo según sus capacidades.
+b) Participar en las actividades formativas y, especialmente, en las escolares y en las complementarias gratuitas.
+c) Seguir las directrices del profesorado.
+d) Asistir a clase con puntualidad.
+e) Participar y colaborar en la mejora de la convivencia escolar y en la consecución de un adecuado clima de estudio en el centro, respetando el derecho de sus compañeros y compañeras a la educación y la autoridad y orientaciones del profesorado.
+f) Respetar la libertad de conciencia, las convicciones religiosas y morales, y la diversidad, dignidad, integridad e intimidad de todos los miembros de la comunidad educativa.
+g) Respetar las normas de organización, convivencia y disciplina del centro educativo,
+h) Conservar y hacer un buen uso de las instalaciones del centro y materiales didácticos.
+Se modifica por la disposición final 1.3 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 1.3 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre.Ref. BOE-A-2002-25037
+
+### Artículo séptimo
+
+Artículo séptimo.
+1. Los alumnos podrán asociarse, en función de su edad, creando organizaciones de acuerdo con la Ley y con las normas que, en su caso, reglamentariamente se establezcan.
+2. Las asociaciones de alumnos asumirán, entre otras, las siguientes finalidades:
+a) Expresar la opinión de los alumnos en todo aquello que afecte a su situación en los centros.
+b) Colaborar en la labor educativa de los centros y en las actividades complementarias y extraescolares de los mismos.
+c) Promover la participación de los alumnos en los órganos colegiados del centro.
+d) Realizar actividades culturales, deportivas y de fomento de la acción cooperativa y de trabajo en equipo.
+3. Las Administraciones educativas favorecerán el ejercicio del derecho de asociación de los alumnos y alumnas, así como la formación de federaciones y confederaciones.
+Se modifica el apartado 3 por la disposición final 1.4 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se añade el apartado 3 por la disposición final 1.4 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se deroga el apartado 2.e) por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo octavo
+
+Artículo octavo.
+Se garantiza en los centros docentes el derecho de reunión de los profesores, personal de administración y de servicios, padres de alumnos y alumnos, cuyo ejercicio se facilitará de acuerdo con la legislación vigente y teniendo en cuenta el normal desarrollo de las actividades docentes.
+A fin de estimular el ejercicio efectivo de la participación del alumnado en los centros educativos y facilitar su derecho de reunión, los centros educativos establecerán, al elaborar sus normas de organización y funcionamiento, las condiciones en las que sus alumnos y alumnas pueden ejercer este derecho. En los términos que establezcan las Administraciones educativas, las decisiones colectivas que adopte el alumnado, a partir del tercer curso de educación secundaria obligatoria, con respecto a la asistencia a clase no tendrán la consideración de faltas de conducta ni serán objeto de sanción, cuando estas hayan sido resultado del ejercicio del derecho de reunión y sean comunicadas previamente a la dirección del centro.
+Se modifica el último párrafo por la disposición final 1.5 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se añade el último párrafo por la disposición final 1.5 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+
+## TÍTULO PRIMERO
+
+TÍTULO I
+De los centros docentes
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo noveno
+
+Artículo noveno.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo diez
+
+Artículo diez.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo once
+
+Artículo once.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se modifica el apartado 2 por la disposición adicional 6 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo doce
+
+Artículo doce.
+1. Los centros docentes españoles en el extranjero tendrán una estructura y un régimen singularizados a fin de acomodarlos a las exigencias del medio y a lo que, en su caso, dispongan los convenios internacionales.
+2. Sin perjuicio de lo establecido en los convenios internacionales o, en su defecto, del principio de reciprocidad, los centros extranjeros en España se ajustarán a lo que el Gobierno determine reglamentariamente.
+
+### Artículo trece
+
+Artículo trece.
+Todos los centros docentes tendrán una denominación específica y se inscribirán en un registro público dependiente de la Administración educativa competente, que deberá dar traslado de los asientos registrales al Ministerio de Educación y Ciencia, en el plazo máximo de un mes. No podrán emplearse por parte de los centros identificaciones diferentes a las que figuren en la correspondiente inscripción registral.
+
+### Artículo catorce
+
+Artículo catorce.
+1. Todos los centros docentes deberán reunir unos requisitos mínimos para impartir las enseñanzas con garantía de calidad. El Gobierno establecerá reglamentariamente dichos requisitos mínimos.
+2. Los requisitos mínimos se referirán a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas y número de puestos escolares.
+
+### Artículo quince
+
+Artículo quince.
+En la medida en que no constituya discriminación para ningún miembro de la comunidad educativa, y dentro de los límites fijados por las leyes, los centros tendrán autonomía para establecer materias optativas, adaptar los programas a las características del medio en que estén insertos, adoptar métodos de enseñanza y organizar actividades culturales escolares y extraescolares.
+Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+## CAPÍTULO II
+
+De los centros públicos
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+La creación y supresión de centros públicos se efectuará por el Gobierno o por el Consejo de Gobierno de la Comunidad Autónoma correspondiente, en el ámbito de sus respectivas competencias.
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+1. Todos los centros públicos desarrollarán sus actividades con sujeción a los principios constitucionales, garantía de neutralidad ideológica y respeto de las opciones religiosas y morales a que hace referencia el artículo 27.3 de la Constitución.
+2. La Administración educativa competente y, en todo caso, los órganos de gobierno del centro docente velarán por la efectiva realización de los fines de la actividad educativa, la mejora de la calidad de la enseñanza y el cumplimiento de lo dispuesto en el apartado anterior de este artículo.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+En concordancia con los fines establecidos en la presente ley, el principio de participación de los miembros de la comunidad escolar inspirará las actividades educativas y la organización y funcionamiento de los centros públicos. La intervención de los profesores, de los padres y, en su caso, de los alumnos en el control y gestión de los centros públicos se ajustará a lo dispuesto en el Título tercero de esta ley.
+
+### Artículo veinte
+
+Artículo veinte.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+## CAPÍTULO III
+
+De los centros privados
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+1. Toda persona física o jurídica de carácter privado y de nacionalidad española tiene libertad para la creación y dirección de centros docentes privados, dentro del respeto a la Constitución y lo establecido en la presente Ley.
+2. No podrán ser titulares de centros privados:
+a) Las personas que presten servicios en la Administración educativa estatal, autonómica o local.
+b) Quienes tengan antecedentes penales por delitos dolosos.
+c) Las personas físicas o jurídicas expresamente privadas del ejercicio de este derecho por sentencia judicial firme.
+d) Las personas jurídicas en las que las personas incluidas en los apartados anteriores desempeñen cargos rectores o sean titulares del 20 por 100 o más del capital social.
+
+### Artículo veintidós
+
+Artículo veintidós.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+La apertura y funcionamiento de los centros docentes privados que impartan enseñanzas, tanto de régimen general como de régimen especial, se someterán al principio de autorización administrativa. La autorización se concederá siempre que reúnan los requisitos mínimos que se establezcan de acuerdo con lo dispuesto en el artículo 14 de esta ley. Estos centros gozarán de plenas facultades académicas. La autorización se revocará cuando los centros dejen de reunir estos requisitos.
+Se modifica por la disposición adicional 6 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+1. Los centros privados que impartan enseñanzas que no conduzcan a la obtención de un título con validez académica quedarán sometidos a las normas de derecho común. Estos centros no podrán utilizar ninguna de las denominaciones establecidas para los centros docentes, ni cualesquiera otras que pudieran inducir a error o confusión con aquellas.
+2. Por razones de protección a la infancia, los centros privados que acogen de modo regular niños de edades correspondientes a la educación infantil, quedarán sometidos al principio de autorización administrativa a que se refiere el artículo 23.
+Se modifica por la disposición adicional 6 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+Dentro de las disposiciones de la presente Ley y normas que la desarrollan, los centros privados no concertados gozarán de autonomía para establecer su régimen interno, seleccionar su profesorado de acuerdo con la titulación exigida por la legislación vigente, elaborar el proyecto educativo, organizar la jornada en función de las necesidades sociales y educativas de sus alumnos y alumnas, ampliar el horario lectivo de áreas o materias, determinar el procedimiento de admisión del alumnado, establecer las normas de convivencia y definir su régimen económico.
+Se modifica por la disposición final 1.6 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 1.6 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+1. Los centros privados no concertados podrán establecer en sus respectivos reglamentos de régimen interior órganos a través de los cuales se canalice la participación de la comunidad educativa.
+2. La participación de los profesores, padres y, en su caso, alumnos en los centros concertados se regirá por lo dispuesto en el Título cuarto de la presente ley.
+
+## TÍTULO SEGUNDO
+
+TÍTULO II
+De la participación en la programación general de la enseñanza
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+1. Los Poderes públicos garantizarán el ejercicio efectivo del derecho a la educación mediante una programación general de la enseñanza, con la participación efectiva de todos los sectores afectados, que atienda adecuadamente las necesidades educativas y la creación de centros docentes.
+2. A tales efectos, el Estado y las Comunidades Autónomas definirán las necesidades prioritarias en materia educativa, fijarán los objetivos de actuación del período que se considere y determinarán los recursos necesarios, de acuerdo con la planificación económica general del Estado.
+3. La programación general de la enseñanza que corresponda a las Comunidades Autónomas en su ámbito territorial comprenderá en todo caso una programación específica de los puestos escolares en la que se determinarán las comarcas, municipios y zonas donde dichos puestos hayan de crearse.
+La programación específica de puestos escolares de nueva creación en los niveles gratuitos deberá tener en cuenta, en todo caso, la oferta existente de centros públicos y concertados.
+Se modifica el párrafo segundo del apartado 3 por la disposición final 1.1 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+A los fines previstos en el artículo anterior, y con carácter previo a la deliberación del Consejo Escolar del Estado, se reunirá la Conferencia de Consejeros titulares de educación de los Consejos de Gobierno de las Comunidades Autónomas y el Ministro de Educación y Ciencia, convocada y presidida por éste. Asimismo, la Conferencia se reunirá cuantas veces sea preciso para asegurar la coordinación de la política educativa y el intercambio de información.
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+Los sectores interesados en la educación participarán en la programación general de la enseñanza a través de los órganos colegiados que se regulan en los artículos siguientes.
+
+### Artículo treinta
+
+Artículo treinta.
+El Consejo Escolar del Estado es el órgano de ámbito nacional para la participación de los sectores afectados en la programación general de la enseñanza y de asesoramiento respecto de los proyectos de ley o reglamentos que hayan de ser propuestos o dictados por el Gobierno.
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+1. En el Consejo Escolar del Estado, cuyo Presidente será nombrado por Real Decreto, a propuesta del Ministro de Educación y Ciencia de entre personas de reconocido prestigio en el ámbito educativo, estarán representados:
+a) Los profesores, cuya designación se efectuará por sus centrales y asociaciones sindicales más representativas, de modo que sea proporcional su participación, así como la de los diferentes niveles educativos y las de los sectores público y privado de la enseñanza.
+b) Los padres de los alumnos, cuya designación se efectuará por las confederaciones de asociaciones de padres de alumnos más representativas.
+c) Los alumnos, cuya designación se realizará por las confederaciones de asociaciones de alumnos más representativas.
+d) El personal de administración y de servicios de los centros docentes, cuya designación se efectuará por sus centrales y asociaciones sindicales de mayor representatividad.
+e) Los titulares de los centros privados, cuya designación se producirá a través de las organizaciones de titulares y empresariales de enseñanza más representativas.
+f) Las centrales sindicales y organizaciones patronales de mayor representatividad en los ámbitos laboral y empresarial.
+g) La Administración educativa del Estado, cuyos representantes serán designados por el Ministro de Educación y Ciencia.
+h) Las Universidades, cuya participación se formalizará a través del órgano superior de representación de las mismas.
+i) Las Entidades locales a través de la asociación de ámbito estatal con mayor implantación.
+j) Las personalidades de reconocido prestigio en el campo de la educación, de la renovación pedagógica y de las instituciones y organizaciones confesionales y laicas de mayor tradición y dedicación a la enseñanza, designadas por el Ministro de Educación y Ciencia.
+k) Las organizaciones de mujeres con implantación en todo el territorio del Estado.
+l) El Instituto de la Mujer.
+m) Personalidades de reconocido prestigio en la lucha para la erradicación de la violencia sexual y de género.
+n) Los Consejos Escolares de ámbito autonómico.
+2. El Gobierno, a propuesta del Ministerio de Educación y Ciencia, aprobará las normas que determinen la representación numérica de los miembros del Consejo Escolar del Estado, así como su organización y funcionamiento. La representación de los miembros de la comunidad educativa a que se refieren los apartados a), b), c) y d) de este artículo no podrá ser en ningún caso inferior a un tercio del total de los componentes de este Consejo.
+Se modifica la letra m) del apartado 1, con efectos desde el 7 de octubre de 2022, por la disposición final 2 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-2
+ Se añade la letra n) por la disposición final 1.7 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se añaden las letras k), l) y m) al apartado 1 por la disposición adicional 3.2 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se modifica el apartado 1.e) por la disposición final 1.2 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se reordena la letra i) como j) y se añade una letra i) al apartado 1 por el art. 1 de la Ley Orgánica 10/1999, de 21 de abril. Ref. BOE-A-1999-8930
+ Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+1. El Consejo Escolar del Estado será consultado preceptivamente en las siguientes cuestiones:
+a) La programación general de la enseñanza.
+b) Las normas básicas que haya de dictar el Estado para el desarrollo del artículo 27 de la Constitución Española o para la ordenación del sistema educativo.
+c) Los proyectos de reglamento que hayan de ser aprobados por el Gobierno en desarrollo de la legislación básica de la enseñanza.
+d) La regulación de las condiciones para la obtención, expedición y homologación de los títulos académicos y su aplicación en casos dudosos o conflictivos.
+e) Las disposiciones que se refieran al desarrollo de la igualdad de derechos y oportunidades y al fomento de la igualdad real y efectiva entre hombres y mujeres en la enseñanza.
+f) La ordenación general del sistema educativo y la determinación de los niveles mínimos de rendimiento y calidad.
+g) La determinación de los requisitos mínimos que deben reunir los Centros docentes para impartir las enseñanzas con garantía de calidad.
+2. Asimismo, el Consejo Escolar del Estado informará sobre cualquiera otra cuestión que el Ministerio de Educación y Ciencia decida someterle a consulta.
+3. El Consejo Escolar del Estado, por propia iniciativa, podrá formular propuestas al Ministerio de Educación y Ciencia sobre cuestiones relacionadas con los puntos enumerados en los apartados anteriores y sobre cualquier otra concerniente a la calidad de la enseñanza.
+Se modifica el apartado 1.e) por la disposición adicional 3.3 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+1. El Consejo Escolar del Estado elaborará y hará público anualmente un informe sobre el sistema educativo, donde deberán recogerse y valorarse los diversos aspectos del mismo, incluyendo la posible situación de violencia ejercida en la comunidad educativa. Asimismo se informará de las medidas que en relación con la prevención de violencia y fomento de la igualdad entre hombres y mujeres establezcan las Administraciones educativas.
+2. El Consejo Escolar del Estado se reunirá al menos una vez al año con carácter preceptivo.
+Se modifica el apartado 1 por la disposición adicional 3.4 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+En cada Comunidad Autónoma existirá un Consejo Escolar para su ámbito territorial, cuya composición y funciones serán reguladas por una Ley de la Asamblea de la Comunidad Autónoma correspondiente que, a efectos de la programación de la enseñanza, garantizará en todo caso la adecuada participación de los sectores afectados.
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+Los poderes públicos, en el ejercicio de sus respectivas competencias, podrán establecer Consejos Escolares de ámbitos territoriales distintos al que se refiere el artículo anterior, así como dictar las disposiciones necesarias para la organización y funcionamiento de los mismos. En todo caso, deberá garantizarse la adecuada participación de los sectores afectados en los respectivos Consejos.
+
+## TÍTULO TERCERO
+
+TÍTULO III
+De los órganos de Gobierno de los Centros públicos
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículos treinta y seis a cuarenta y seis
+
+Artículos treinta y seis a cuarenta y seis.
+(Derogados)
+Se derogan los arts. 36 a 46 por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo treinta y seis
+
+Artículos treinta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Se modifica en cuanto se oponga por la disposición final 4.3 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Se modifica el apartado 1.f) en cuanto se oponga por la disposición final 4.3 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cuarenta y cuatro
+
+Artículo cuarenta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Se modifica en cuanto se oponga por la disposición final 4.3 de la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172
+
+### Artículo cuarenta y cinco
+
+Artículo cuarenta y cinco.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+### Artículo cuarenta y seis
+
+Artículo cuarenta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+## TÍTULO CUARTO
+
+TÍTULO IV
+De los centros concertados
+
+### Artículo cuarenta y siete
+
+Artículo cuarenta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo cuarenta y ocho
+
+Artículo cuarenta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo cuarenta y nueve
+
+Artículo cuarenta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se modifican los apartados 2 y 3 y se añade el 7 por la disposición final 1.1 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+### Artículo cincuenta
+
+Artículo cincuenta.
+Los centros concertados cuya titularidad sea reconocida como entidad sin ánimo de lucro o en régimen de cooperativa se considerarán asimilados a las fundaciones benéfico-docentes a efectos de la aplicación a los mismos de los beneficios, fiscales y no fiscales, que estén reconocidos a las citadas entidades, con independencia de cuantos otros pudieran corresponderles en consideración a la actividad educativa que desarrollan.
+Se modifica por la disposición final 1.7 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+
+### Artículo cincuenta y uno
+
+Artículo cincuenta y uno.
+1. El régimen de conciertos que se establece en el presente Título implica, por parte de los titulares de los centros, la obligación de impartir gratuitamente las enseñanzas objeto de los mismos.
+2. En los centros concertados, las actividades escolares complementarias y las extraescolares y los servicios escolares no podrán tener carácter lucrativo. El cobro de cualquier cantidad a los alumnos en concepto de actividades escolares complementarias deberá ser autorizado por la Administración educativa correspondiente.
+3. En los centros concertados, las actividades extraescolares, así como las correspondientes cuotas que deban aportar los usuarios, deberán ser aprobadas por el Consejo Escolar del centro y comunicadas a la Administración educativa correspondiente. Estas actividades no podrán formar parte del horario escolar del centro. Las Administraciones educativas establecerán el procedimiento de aprobación de los servicios escolares que presten los centros y de sus correspondientes cuotas. El cobro de ambos tipos de actividades podrá contribuir al mantenimiento y mejora de las instalaciones.
+4. Las Administraciones educativas regularán las actividades escolares complementarias extraescolares y los servicios escolares de los centros concertados, que en todo caso tendrán carácter voluntario.
+Se modifican los apartados 2, 3 y 4 por la disposición final 1.2 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cincuenta y dos
+
+Artículo cincuenta y dos.
+1. (Derogado)
+2. En todo caso, la enseñanza deberá ser impartida con pleno respeto a la libertad de conciencia.
+3. Toda práctica confesional tendrá carácter voluntario.
+Se deroga el apartado 1 por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo cincuenta y tres
+
+Artículo cincuenta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo cincuenta y cuatro
+
+Artículo cincuenta y cuatro.
+1. Los centros concertados tendrán, al menos, los siguientes órganos:
+a) Director.
+b) Consejo Escolar.
+c) Claustro de Profesores.
+2. Las facultades del director o directora serán:
+a) Dirigir y coordinar todas las actividades educativas del centro, de acuerdo con las disposiciones vigentes, sin perjuicio de las funciones del Consejo Escolar del centro.
+b) Ejercer la jefatura del personal docente.
+c) Convocar y presidir los actos académicos y las reuniones de todos los órganos colegiados del centro.
+d) Visar las certificaciones y documentos académicos del centro.
+e) Ejecutar los acuerdos de los órganos colegiados en el ámbito de sus facultades.
+f) Imponer las medidas correctoras que correspondan a los alumnos y alumnas en cumplimiento de la normativa vigente, sin perjuicio de las competencias atribuidas al consejo escolar
+g) Cuantas otras facultades le atribuyan las normas de organización y funcionamiento del centro.
+3. Los demás órganos de gobierno, tanto unipersonales como colegiados, se determinarán, en su caso, en el citado reglamento de régimen interior.
+4. Las Administraciones educativas podrán disponer que los centros concertados con más de un nivel o etapa financiado con fondos públicos tengan un único Director, Consejo Escolar y Claustro de profesores para todo el centro.
+Se modifica el apartado 2 por la disposición final 1.8 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica el apartado 2 por la disposición final 2.1 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifican los apartados 1 y 2 por la disposición final 1.3 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se añade el apartado 4 por la disposición final 1.3 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cincuenta y cinco
+
+Artículo cincuenta y cinco.
+Los profesores, los padres de los alumnos y, en su caso, los alumnos, intervendrán en el control y gestión de los centros concertados a través del consejo escolar del centro, sin perjuicio de que en sus respectivos reglamentos de régimen interior se prevean otros órganos para la participación de la comunidad escolar.
+
+### Artículo cincuenta y seis
+
+Artículo cincuenta y seis.
+1. El Consejo Escolar de los centros privados concertados estará constituido por:
+El director o directora.
+Tres representantes del titular del centro.
+Cuatro representantes del profesorado.
+Cuatro representantes de los padres, madres o tutores de los alumnos y alumnas, elegidos por y entre ellos.
+Dos representantes del alumnado elegidos por y entre el mismo, a partir del primer curso de educación secundaria obligatoria.
+Un representante del personal de administración y servicios.
+Un representante del Ayuntamiento en cuyo término municipal se halle radicado el centro, en las condiciones que dispongan las Administraciones educativas.
+En la composición del Consejo Escolar se deberá promover la presencia equilibrada de mujeres y hombres.
+Una vez constituido el Consejo Escolar del centro, este designará una persona que impulse medidas educativas que fomenten la igualdad real y efectiva de mujeres y hombres y la prevención de la violencia de género, promoviendo los instrumentos necesarios para hacer un seguimiento de las posibles situaciones de violencia de género que se puedan dar en el centro.
+Además, en los centros específicos de educación especial y en aquellos que tengan aulas especializadas, formará parte también del Consejo Escolar un representante del personal de atención educativa complementaria.
+Uno de los representantes de las familias en el Consejo Escolar será designado por la asociación de madres y padres más representativa en el centro.
+Asimismo, los centros concertados que impartan formación profesional podrán incorporar a su Consejo Escolar un representante del mundo de la empresa, designado por las organizaciones empresariales, de acuerdo con el procedimiento que las Administraciones educativas establezcan.
+2. A las deliberaciones del consejo escolar del centro podrán asistir, con voz pero sin voto, siempre que sean convocados para informar sobre cuestiones de su competencia, los demás órganos unipersonales de acuerdo con lo que establezca el reglamento de régimen interior.
+3. El Consejo Escolar del centro se renovará por mitades cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan. Las Administraciones educativas regularán el procedimiento de renovación parcial, que se realizará de modo equilibrado entre los distintos sectores de la comunidad educativa que lo integran. Asimismo, regularán el procedimiento transitorio para la primera renovación parcial, una vez constituido el Consejo Escolar de acuerdo con lo dispuesto en la presente Ley.
+Se modifica el apartado 1 por la disposición final 1.9 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 23 de febrero de 2021. Ref. BOE-A-2021-2761
+ Se modifica el apartado 1 por la disposición final 2.2 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifica el apartado 1 por la disposición final 1.8 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se añade un séptimo guión al apartado 1 por la disposición adicional 3.5 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se modifica el apartado 1 por la disposición final 1.4 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se modifican los apartados 1 y 3 por la disposición final 1.4 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cincuenta y siete
+
+Artículo cincuenta y siete.
+Corresponde al Consejo Escolar del centro, en el marco de los principios establecidos en esta Ley:
+a) Intervenir en la designación del director del centro, de acuerdo con lo dispuesto en el artículo 59.
+b) Intervenir en la selección del profesorado del centro, conforme con el artículo 60.
+c) Participar en el proceso de admisión del alumnado, garantizando la sujeción a las normas sobre el mismo.
+d) Impulsar la adopción y seguimiento de medidas educativas que fomenten el reconocimiento y protección de los derechos de las personas menores de edad.
+d bis) Conocer las conductas contrarias a la convivencia en el centro y la aplicación de las medidas correctoras, velando por que se atengan a la normativa vigente. Cuando las medidas disciplinarias adoptadas por el director o directora correspondan a conductas del alumnado que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de madres, padres o tutores, podrá valorar la situación y proponer, en su caso, las medidas oportunas.
+e) Aprobar el presupuesto del centro en relación con los fondos provenientes de la Administración y con las cantidades autorizadas, así como la rendición anual de cuentas.
+f) Informar y evaluar la programación general del centro que con carácter anual elaborará el equipo directivo.
+g) Proponer, en su caso, a la Administración la autorización para establecer percepciones a las familias de los alumnos y alumnas por la realización de actividades escolares complementarias.
+h) Participar en la aplicación de la línea pedagógica global del centro e informar las directrices para la programación y desarrollo de las actividades escolares complementarias, actividades extraescolares y servicios escolares.
+i) Aprobar, a propuesta del titular del centro, las aportaciones de las familias de los alumnos y alumnas para la realización de actividades extraescolares y los servicios escolares cuando así lo hayan determinado las Administraciones educativas.
+j) Informar los criterios sobre la participación del centro en actividades culturales, deportivas y recreativas, así como en aquellas acciones asistenciales a las que el centro pudiera prestar su colaboración.
+k) Favorecer relaciones de colaboración con otros centros, con fines culturales y educativos.
+l) Informar, a propuesta del titular, el reglamento de régimen interior del centro.
+m) Participar en la evaluación de la marcha general del centro en los aspectos administrativos y docentes.
+n) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad de trato y la no discriminación, la igualdad de mujeres y hombres, la prevención de la violencia de género y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.
+Se modifican las letras c), d), f), n) y se añade la letra d bis) por la disposición final 1.10 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 2.3 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifican las letras c), d), f) y m) por la disposición final 1.9 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se añade la letra m) por la disposición adicional 3.6 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
+ Se deroga la letra d) y se modifica la letra f) por la disposición derogatoria única.3 y la disposición final 1.5 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se modifican las letras g), h) e i) por la disposición final 1.5 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo cincuenta y ocho
+
+Artículo cincuenta y ocho.
+Los alumnos participarán en las deliberaciones y decisiones del Consejo Escolar del centro.
+Se modifica por la disposición final 1.6 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+
+### Artículo cincuenta y nueve
+
+Artículo cincuenta y nueve.
+1. El director o directora de los centros concertados será nombrado por el titular, de entre el profesorado del centro con un año de permanencia en el mismo o tres de docencia en otro centro docente de la misma entidad titular, previo informe del Consejo Escolar del centro, que será adoptado por mayoría de sus miembros.
+2. El mandato del director tendrá una duración de tres años. No obstante lo anterior, el titular podrá destituir al director antes de la finalización de dicho plazo cuando concurran razones justificadas de las que dará cuenta al Consejo Escolar del centro.
+Se modifica el apartado 1 por la disposición final 1.11 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 2.4 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifica por la disposición final 1.7 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
+ Se modifica el apartado 3 por la disposición final 1.6 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo sesenta
+
+Artículo sesenta.
+1. Las vacantes del personal docente que se produzcan en los centros concertados se anunciarán públicamente.
+2. A efectos de su provisión, el Consejo Escolar del centro, a propuesta del titular, establecerá los criterios de selección, que atenderán básicamente a los principios de mérito y capacidad en relación al puesto docente que vayan a ocupar.
+3. El titular del centro junto con el director o directora procederá a la selección del personal, de acuerdo con los criterios de selección establecidos.
+4. El titular del centro dará cuenta al Consejo Escolar del mismo de la provisión de profesores o profesoras que efectúe.
+5. La extinción de la relación laboral de profesores o profesoras de los centros concertados deberá ser comunicada al Consejo Escolar del centro para que, en su caso, puedan establecerse los procesos de conciliación necesarios.
+6. La Administración educativa competente verificará que los procedimientos de selección y extinción de la relación laboral del profesorado se realice de acuerdo con lo dispuesto en la normativa y procedimientos que resulten de aplicación.
+Se modifica por la disposición final 1.12 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
+ Se modifica por la disposición final 2.5 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifica por la disposición final 1.7 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo sesenta y uno
+
+Artículo sesenta y uno.
+1. En caso de incumplimiento de las obligaciones derivadas del régimen de concierto, se constituirá una Comisión de Conciliación que podrá acordar, por unanimidad, la adopción de las medidas necesarias, dentro del marco legal, para corregir la infracción cometida por el centro concertado.
+2. La Comisión de conciliación estará compuesta por un representante de la Administración educativa competente, el titular del centro o persona en quien delegue y un representante del Consejo Escolar elegido por mayoría absoluta de sus componentes entre profesores o padres de alumnos que tengan la condición de miembros del mismo.
+3. Las Administraciones educativas regularán el procedimiento al que deben someterse las comisiones de conciliación.
+4. El incumplimiento del acuerdo de la Comisión de conciliación supondrá un incumplimiento grave del concierto educativo.
+5. En el supuesto que la Comisión no llegue al acuerdo citado, la Administración educativa, vista el acta en que aquélla exponga las razones de su discrepancia, decidirá la instrucción del oportuno expediente en orden a la determinación de las responsabilidades en que hubieran podido incurrir las partes en litigio, adoptando, en su caso, las medidas provisionales que aconseje el normal desarrollo de la vida del centro.
+6. Con ocasión de solicitud de autorización de cese de actividades, las Administraciones educativas correspondientes podrán imponer el cese progresivo de actividades a los centros que estén concertados o que lo hubieran estado en los dos años inmediatamente anteriores a la formulación de dicha solicitud, si se acreditan en el expediente correspondiente necesidades de escolarización en la zona de influencia del centro.
+7. La Administración educativa no podrá adoptar en ningún caso medidas que supongan su subrogación en las facultades respectivas del titular o del Consejo Escolar del centro.
+Se modifica el apartado 1 por la disposición final 2.6 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+ Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
+ Se modifica por la disposición final 1.8 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+
+### Artículo sesenta y dos
+
+Artículo sesenta y dos.
+1. Son causa de incumplimiento leve del concierto por parte del titular del centro las siguientes:
+a) Percibir cantidades por actividades escolares complementarias o extraescolares o por servicios escolares que no hayan sido autorizadas por la Administración educativa o por el Consejo Escolar del centro, de acuerdo con lo que haya sido establecido en cada caso.
+b) Infringir las normas sobre participación previstas en el presente título.
+c) Proceder a despidos del profesorado cuando aquéllos hayan sido declarados improcedentes por sentencia de la jurisdicción competente.
+d) Infringir la obligación de facilitar a la Administración los datos necesarios para el pago delegado de los salarios.
+e) Infringir el principio de voluntariedad y no discriminación de las actividades complementarias, extraescolares y servicios complementarios.
+f) Cualesquiera otros que se deriven de la violación de las obligaciones establecidas en el presente título, o en las normas reglamentarias a las que hace referencia los apartados 3 y 4 del artículo 116 de la Ley Orgánica de Educación o de cualquier otro pacto que figure en el documento de concierto que el centro haya suscrito.
+2. Son causas de incumplimiento grave del concierto por parte del titular del centro las siguientes:
+a) Las causas enumeradas en el apartado anterior cuando del expediente administrativo instruido al efecto y, en su caso, de sentencia de la jurisdicción competente, resulte que el incumplimiento se produjo por ánimo de lucro, con intencionalidad evidente, con perturbación manifiesta en la prestación del servicio de la enseñanza o de forma reiterada o reincidente.
+b) Impartir las enseñanzas objeto del concierto contraviniendo el principio de gratuidad.
+c) Infringir las normas sobre admisión de alumnos.
+d) Separarse del procedimiento de selección y despido del profesorado establecido en los artículos precedentes.
+e) Lesionar los derechos reconocidos en los artículos 16 y 20 de la Constitución, cuando así se determine por sentencia de la jurisdicción competente.
+f) Incumplir los acuerdos de la Comisión de Conciliación.
+g) Cualesquiera otros definidos como incumplimientos graves en el presente título o en las normas reglamentarias a que hacen referencia los apartados 3 y 4 del ar­tículo 116 de la Ley Orgánica de Educación.
+No obstante lo anterior, cuando del expediente administrativo instruido al efecto resulte que el incumplimiento se produjo sin ánimo de lucro, sin intencionalidad evidente y sin perturbación en la prestación de la enseñanza y que no existe reiteración ni reincidencia en el incumplimiento, éste será calificado de leve.
+2 bis. Son causas de incumplimiento muy grave del concierto la reiteración o reincidencia de incumplimientos graves.
+3. La reiteración de incumplimientos a los que se refieren los apartados anteriores se constatará por la Administración educativa competente con arreglo a los siguientes criterios:
+a) Cuando se trate de la reiteración de los incumplimientos cometidos con anterioridad, bastará con que esta situación se ponga de manifiesto mediante informe de la inspección educativa correspondiente.
+b) Cuando se trate de un nuevo incumplimiento de tipificación distinta al cometido con anterioridad, será necesaria la instrucción del correspondiente expediente administrativo.
+4. El incumplimiento leve del concierto dará lugar:
+a) Apercibimiento por parte de la Administración educativa.
+b) Si el titular no subsanase el incumplimiento leve, la administración impondrá una multa de entre la mitad y el total del importe de la partida «otros gastos» del módulo económico de concierto educativo vigente en el periodo en que se determine la imposición de la multa. La Administración educativa sancionadora determinará el importe de la multa, dentro de los límites establecidos y podrá proceder al cobro de la misma por vía de compensación contra las cantidades que deba abonar al titular del centro en aplicación del concierto educativo.
+5. El incumplimiento grave del concierto educativo dará lugar a la imposición de multa, que estará comprendida entre el total y el doble del importe de la partida «otros gastos» del módulo económico de concierto educativo vigente en el periodo en el que se determine la imposición de la multa. La Administración educativa sancionadora determinará el importe de la multa, dentro de los límites establecidos y podrá proceder al cobro de la misma por vía de compensación contra las cantidades que deba abonar al titular del centro en aplicación del concierto educativo.
+6. El incumplimiento muy grave del concierto dará lugar a la rescisión del concierto. En este caso, con el fin de no perjudicar a los alumnos ya escolarizados en el centro, las Administraciones educativas podrán imponer la rescisión progresiva del concierto.
+7. El incumplimiento y la sanción muy grave prescribirán a los tres años, el grave a los dos años y el leve al año. El plazo de prescripción se interrumpirá con la constitución de la Comisión de Conciliación para la corrección del incumplimiento cometido por el centro concertado.
+Se añade el apartado 2 bis por la disposición final 1.10 de la Ley Orgánica 2/2006, de 3 de mayo, en la redacción dada por el art. 2.4 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.
+ Se modifica por la disposición final 1.10 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
+ Se modifican los apartados 1.b), 2 y 3 por la disposición final 1.9 de la Ley Orgánica 9/1995, de 20 de noviembre. Ref. BOE-A-1995-25202
+ Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+### Artículo sesenta y tres
+
+Artículo sesenta y tres.
+1. En los supuestos de rescisión del concierto, la Administración educativa competente adoptará las medidas necesarias para escolarizar a aquellos alumnos que deseen continuar bajo régimen de enseñanza gratuita, sin que sufran interrupción en sus estudios.
+2. Si la obligación incumplida hubiera consistido en la percepción indebida de cantidades, la rescisión del concierto supondrá para el titular la obligación de proceder a la devolución de las mismas en la forma que en las normas generales se establezcan.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición final 2.7 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Las Corporaciones locales cooperarán con las Administraciones educativas competentes, en el marco de lo establecido por la legislación vigente y, en su caso, en los términos que se acuerden con ellas, en la creación, construcción y mantenimiento de los centros públicos docentes, así como en la vigilancia del cumplimiento de la escolaridad obligatoria.
+2. La creación de centros docentes públicos, cuyos titulares sean las Corporaciones locales, se realizará por convenio entre éstas y la Administración educativa competente, al objeto de su inclusión en la programación de la enseñanza a que se refiere el artículo 27.
+Dichos centros se someterán, en todo caso, a lo establecido en el Título tercero de esta ley. Las funciones que en el citado Título competen a la Administración educativa correspondiente, en relación con el nombramiento y cese del director y del equipo directivo, se entenderán referidas al titular público promotor.
+Se modifica el apartado 1 por el art. 2 de la Ley Orgánica 10/1999, de 21 de abril. Ref. BOE-A-1999-8930
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los centros privados de niveles no obligatorios que en la fecha de promulgación de esta ley estén sostenidos total o parcialmente con fondos públicos se ajustarán a lo establecido en la misma para los centros concertados. A tal efecto se establecerán los correspondientes conciertos singulares.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+No será de aplicación lo previsto en el artículo 59 de la presente ley a los titulares de centros actualmente autorizados, con menos de diez unidades, que, ostentando la doble condición de figurar inscritos en el registro de centros como personas físicas y ser directores de los mismos, se acojan al régimen de conciertos. En tal caso, el director ocupará una de las plazas correspondientes a la representación del titular en la composición del consejo escolar del centro.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. Los centros privados que impartan la educación básica y que se creen a partir de la entrada en vigor de la presente ley, podrán acogerse al régimen de conciertos si lo solicitan al iniciarse el procedimiento de autorización administrativa y siempre que, de acuerdo con los principios de esta ley, formalicen con la Administración un convenio en el que se especifiquen las condiciones para la constitución del consejo escolar del centro, la designación del director y la provisión del profesorado.
+2. Los centros privados de nueva creación que, al iniciarse el procedimiento de autorización administrativa no hicieren uso de lo establecido en el apartado anterior, no podrán acogerse al régimen de conciertos hasta que hayan transcurrido cinco años desde la fecha de su autorización.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta tanto no se constituya el Consejo Escolar del Estado creado por la presente ley, continuará ejerciendo sus funciones el Consejo Nacional de Educación.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta tanto no se desarrolle reglamentariamente el régimen de conciertos, se mantendrán las subvenciones a la enseñanza obligatoria.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+1. Los centros privados actualmente subvencionados, que al entrar en vigor el régimen general de conciertos previstos en la presente ley, no puedan acogerse al mismo por insuficiencia de las consignaciones presupuestarias correspondientes, se incorporarán a dicho régimen en un plazo no superior a tres años.
+2. Durante este período, el Gobierno establecerá para los citados centros un régimen singular de conciertos en el que se fijarán las cantidades que puedan percibir de los alumnos en concepto de financiación complementaria a la proveniente de fondos públicos, sin perjuicio de su sujeción a lo preceptuado en el Título cuarto de esta Ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los centros docentes actualmente en funcionamiento, cuyos titulares sean las Corporaciones locales, se adaptarán a lo prevenido en la presente ley en el plazo de un año a contar desde su publicación.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En las materias cuya regulación remite la presente Ley a ulteriores disposiciones reglamentarias y en tanto éstas no sean dictadas serán de aplicación en cada caso las normas de este rango hasta ahora vigentes.
+
+### Disposición derogatoria 
+
+Disposición derogatoria.
+1. Queda derogada la Ley Orgánica 5/1980, de 19 de junio, por la que se regula el Estatuto de Centros Escolares.
+2. De la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, quedan derogados:
+a) El Título preliminar, los Capítulos primero y tercero del Título segundo, el Título cuarto y el Capítulo primero del Título quinto.
+b) Los artículos 60, 62, 89.2, 3 y 4, 92, 135, 138, 139, 140, 141.2 y 145.
+c) Los artículos 59, 61, 89.6, 101, 136.3 y 4 en cuanto se opongan a lo preceptuado en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+El Gobierno y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, podrán dictar cuantas disposiciones sean precisas para la aplicación de la presente Ley.
+
+### Disposición final segunda 
+
+Disposición final segunda.
+Se autoriza al Gobierno para adaptar lo dispuesto en esta Ley a las peculiaridades de los centros docentes de carácter singular que estén acogidos a convenios entre el Ministerio de Educación y Ciencia y otros Ministerios, o cuyo carácter específico esté reconocido por acuerdos internacionales de carácter bilateral.
+Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 1985. Ref. BOE-A-1985-21594
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guaden y hagan guardar esta Ley Orgánica.
+Palacio de la Zarzuela, Madrid, a 3 de julio de 1985.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

@@ -1,0 +1,1201 @@
+# Real Decreto Legislativo 1/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Catastro Inmobiliario.
+
+- Identificador BOE: `BOE-A-2004-4163`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2004-4163
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, en su disposición final segunda, autoriza al Gobierno para refundir en el plazo máximo de 15 meses y en un solo texto las disposiciones vigentes reguladoras del Catastro Inmobiliario, comprendidas su regularización, aclaración y armonización.
+Tal y como apunta la propia exposición de motivos de la ley citada, la historia del Catastro en España discurre pareja al nacimiento y evolución del Estado moderno, y sus momentos de mayor o menor significación han sido, generalmente, un reflejo de las situaciones por las que ha atravesado la Hacienda pública. De forma paralela, las normas que regulan el Catastro fueron sucediéndose en el tiempo hasta llegar, el 23 de marzo de 1906, a la promulgación de la Ley que establece el Catastro Topográfico Parcelario, norma más antigua de las que ahora son objeto de refundición y último texto autónomo de este rango que reguló la institución, cuyos principios rectores, dado que el origen y principal uso del Catastro en nuestro país es, sin duda alguna, el tributario, han permanecido desde entonces unidos a las leyes reguladoras de diversas figuras tributarias.
+Sin embargo, junto a esta finalidad tributaria, las dos últimas décadas han sido testigos de una evolución en la que el Catastro Inmobiliario se ha convertido en una gran infraestructura de información territorial disponible para todas las Administraciones públicas, fedatarios, empresas y ciudadanos en general, puesta ante todo al servicio de los principios de generalidad y justicia tributaria, pero capacitada también para facilitar la asignación equitativa de los recursos públicos ; en los comienzos de un nuevo siglo, es ya sin duda notable la colaboración del Catastro en la aplicación material de tales principios constitucionales, como lo prueba su utilización generalizada para la gestión o el control de subvenciones nacionales o comunitarias, o la paulatina incorporación de la información gráfica y de la identificación catastral de las fincas tanto a las actuaciones notariales como al Registro de la Propiedad.
+Ahora bien, la utilización múltiple de la información catastral no desvirtúa la naturaleza tributaria de la institución, sino que la preserva al servir aquélla como elemento de referencia para la gestión de diversas figuras tributarias de los tres niveles territoriales de la Hacienda pública y así lo ha reconocido expresamente el Tribunal Constitucional en su Sentencia 233/1999, de 16 de diciembre, en la que refleja que la organización del Catastro, justamente por tratarse de una institución común e indispensable para la gestión de alguno de los impuestos estatales más relevantes, es una competencia que ha de incardinarse, sin lugar a dudas, en la de Hacienda general del artículo 149.1.14.ª de la Constitución Española, correspondiendo, por tanto, de manera exclusiva al Estado. Es en esta justificación donde se apoya la adscripción legal del Catastro al Ministerio de Hacienda y su atribución como competencia exclusiva del Estado y, por derivación de ello, la competencia de los tribunales económicos-administrativos del Estado para la revisión de los actos resultantes de los procedimientos catastrales.
+Los tres lustros transcurridos desde la publicación de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, última que, a su vez, disciplinaba también el Catastro, hasta la promulgación de la Ley 48/2002, de 23 de diciembre, que lo regula de manera exclusiva y específica, han visto también crecer la importancia de coordinar y unificar todas las tareas relacionadas con la elaboración y el mantenimiento actualizado de la base de datos que constituye su principal activo.
+En este contexto, han sido numerosas las disposiciones de diverso rango que han modificado o completado la normativa inicialmente contenida en la primera de las leyes citadas. La Ley 51/2002, de 27 de diciembre, de reforma de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, y la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, incorporaron, en lo sustancial, el contenido de las modificaciones introducidas por la Ley 53/1997, de 27 de noviembre, por la que se modifica parcialmente la propia Ley 39/1988, de 28 de diciembre, y se establece una reducción en la base imponible del Impuesto sobre Bienes Inmuebles, y por las Leyes 42/1994, de 30 de diciembre, 55/1999, de 29 de diciembre, y 14/2000, de 29 de diciembre, todas de medidas fiscales, administrativas y del orden social, así como parte del contenido de las Leyes 13/1996, de 30 de diciembre, y 50/1998, de 30 de diciembre, ambas también de medidas fiscales, administrativas y del orden social.
+En ejercicio de la autorización concedida, se refunden ahora las disposiciones vigentes reguladoras del Catastro Inmobiliario y, especialmente, la normativa sobre la materia contenida en la Ley 48/2002, de 23 de diciembre, así como en la Ley de 23 de marzo de 1906, que establece el Catastro Topográfico Parcelario; la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía; la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales; la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, y la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social.
+II
+Parte sustancial del texto refundido lo constituye por tanto, como es lógico, el contenido de la Ley 48/2002, de 23 de diciembre, cuyos preceptos, con el necesario grado de desarrollo y sistematización, configuran parte del título preliminar, así como la casi totalidad de los títulos I, II y VIII y buena parte del título IV. La Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, había recogido, en términos generales, el núcleo de la normativa anterior, procurando, por una parte, sistematizarla y enriquecerla a la luz de la experiencia adquirida y, por otra, acomodarla al marco básico y común que regula los procedimientos administrativos. Dicha ley tuvo especialmente en cuenta, además, y sin perjuicio de la competencia estatal, las aspiraciones de los ayuntamientos en orden a desempeñar un mayor protagonismo en la gestión del Catastro, extendiendo el ámbito de la colaboración municipal a nuevos aspectos que deben redundar en mejoras sustanciales tanto para ambas esferas de la Administración como para los ciudadanos.
+El texto refundido recibe así de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, ante todo, una definición objetiva del Catastro como lo que realmente es, un registro administrativo puesto al servicio de los principios constitucionales ya citados y, por ende, del conjunto de las Administraciones públicas, fedatarios y ciudadanos, todo ello sin perjuicio de la competencia y funciones atribuidas al Registro de la Propiedad, único que tiene efectos de fe pública respecto de la titularidad y derechos reales sobre bienes inmuebles. No debe pasar desapercibido, por otra parte, el esfuerzo realizado para configurar de manera precisa los conceptos catastrales de bien inmueble y de titular, ambas piezas fundamentales de la institución y, por consecuencia, del Impuesto sobre Bienes Inmuebles, y por ofrecer, respecto de tal titular, una regulación de su posición ante la Administración que puede calificarse de auténticamente estatutaria. El texto refundido mantiene así mismo la novedosa regulación de los procedimientos de incorporación de los bienes inmuebles al Catastro Inmobiliario, erigida en piedra angular de la nueva normativa, con eficacia inmediata, en particular, en el sistema tributario local.
+Estos procedimientos se caracterizan tanto por su adecuación a la normativa general contenida en las Leyes General Tributaria y de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, como por el establecimiento de modalidades simplificadas o abreviadas, en buena medida basadas en la colaboración municipal, con el objetivo claro de facilitar a los interesados el cumplimiento de sus obligaciones. Muestra de ello son los denominados procedimientos de incorporación mediante comunicaciones establecidos por la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, que amplió la línea emprendida por la Ley 13/1996, de 30 de diciembre, que posibilitaba la actualización de las titularidades catastrales mediante la cooperación de las notarías y de los registros de la propiedad, y que en el texto refundido reciben un completo tratamiento. Del mismo modo, se permite rectificar de oficio, en determinados supuestos, la información catastral, prestándose igualmente la necesaria atención a cuestiones como la efectividad de los diversos actos de gestión catastral y su régimen de notificación.
+Aportación también notable de la Ley 48/2002, de 23 de diciembre, es la precisa y sistemática regulación del valor catastral, concepto sobre el que en la anterior normativa recaía el principal acento y que ahora, aun manteniendo su singular importancia, pasa a integrarse en el más amplio de la descripción catastral.
+Manteniendo en lo esencial los aspectos más arraigados, las innovaciones de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, se dirigieron, también aquí, a sistematizar y simplificar los distintos mecanismos necesarios para la determinación de los valores y a reforzar el principio de legalidad y consagrar el de moderación en su configuración. Otros aspectos que fueron objeto de atención y regulación en la ley refundida son la referencia catastral, la actualización de valores por grupos de municipios atendiendo a su homogeneidad inmobiliaria, el deber de colaboración y el régimen sancionador.
+III
+En cumplimiento del mandato legal, el texto refundido recoge también específicamente la normativa sobre la materia catastral contenida en la Ley de 23 de marzo de 1906, que establece el Catastro Topográfico Parcelario. De esta norma se han incorporado tradicionales conceptos en materia de cartografía catastral, y se ha procurado, a pesar de la antigüedad de la ley, respetar en lo posible su terminología para dar virtualidad a la labor refundidora, introduciendo las adaptaciones mínimas necesarias para evitar discordancias con la terminología actual.
+Las normas catastrales contenidas en la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, configuran la práctica totalidad de los títulos V y VII, dedicados, respectivamente, a la constancia documental de la referencia catastral y a la regulación de las tasas catastrales. La refundición ha permitido dotar a esta regulación de la sustantividad que requiere y mejorar la articulación de su contenido manteniendo, respecto a la constancia documental de la referencia catastral, los principios y objetivos que informaron la regulación contenida en la Ley 13/1996, de 30 de diciembre: favorecer el cumplimiento de las obligaciones fiscales y evitar el fraude fiscal en el sector inmobiliario. Parte sustancial del título VI, que regula el acceso a la información catastral, procede de la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social. Los restantes aspectos de estas normas se han incorporado a otros varios artículos de la refundición. Por lo que hace a la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, al haberse vaciado casi por completo su contenido catastral en la Ley 48/2002, de 23 de diciembre, tan solo ha quedado para ser refundido el contenido del apartado 1 de su disposición transitoria segunda, en lo relativo a la determinación del valor de los bienes inmuebles rústicos.
+Otras normas, finalmente, que han nutrido el texto refundido, bien en una labor de refundición directa, bien en uso de la facultad de regularizar, aclarar y armonizar, han sido las Leyes de 6 de agosto de 1932 y de 26 de septiembre de 1941; la Ley 58/2003, de 17 de diciembre, General Tributaria; la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía; la Ley 1/1998, de 26 de febrero, de Derechos y Garantías de los Contribuyentes; y la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+En su virtud, a propuesta del Ministro de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de marzo de 2004,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único. Aprobación del texto refundido de la Ley del Catastro Inmobiliario.
+Se aprueba el texto refundido de la Ley del Catastro Inmobiliario que se inserta a continuación.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las disposiciones de igual o de inferior rango que se opongan a esta ley y, en particular, las siguientes:
+a) La Ley de 23 de marzo de 1906, que establece el Catastro Topográfico Parcelario.
+b) El artículo 15 de la Ley de 26 de septiembre de 1941, por la que se dictan normas para la ordenación de la contribución.
+c) El apartado 1 de la disposición transitoria segunda de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, en cuanto afecta a la determinación del valor catastral de los bienes inmuebles rústicos.
+d) El artículo 33; el artículo 50; el artículo 51; el artículo 52; el artículo 53, apartados 1, 3, 4 y 11; el artículo 54; el artículo 55; el artículo 56, y la disposición transitoria octava de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+e) La disposición final tercera de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+f) La disposición adicional segunda de la Ley 6/1998, de 13 de abril, sobre Régimen del Suelo y Valoraciones.
+g) El artículo 31, la disposición adicional segunda, la disposición adicional tercera y la disposición transitoria decimoséptima de la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social.
+h) La Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario.
+i) La disposición adicional cuarta y la disposición final primera de la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente real decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid, a 5 de marzo de 2004.
+JUAN CARLOS R.
+El Ministro de Hacienda,
+CRISTÓBAL MONTORO ROMERO
+
+## TEXTO REFUNDIDO
+
+TEXTO REFUNDIDO DE LA LEY DEL CATASTRO INMOBILIARIO
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Definición, naturaleza y ámbito de aplicación.
+1. El Catastro Inmobiliario es un registro administrativo dependiente del Ministerio de Hacienda en el que se describen los bienes inmuebles rústicos, urbanos y de características especiales tal y como se definen en esta ley.
+2. Esta ley será de aplicación en todo el territorio nacional, sin perjuicio de lo previsto en los regímenes forales especiales vigentes en el País Vasco y Navarra.
+
+### Artículo 2
+
+Artículo 2. Principios informadores del Catastro Inmobiliario.
+1. La información catastral estará al servicio de los principios de generalidad y justicia tributaria y de asignación equitativa de los recursos públicos, a cuyo fin el Catastro Inmobiliario colaborará con las Administraciones públicas, los juzgados y tribunales y el Registro de la Propiedad para el ejercicio de sus respectivas funciones y competencias. Asimismo, estará a disposición de las políticas públicas y de los ciudadanos que requieran información sobre el territorio, en los términos previstos en el título VI.
+2. Lo dispuesto en esta ley se entenderá sin perjuicio de las competencias y funciones del Registro de la Propiedad y de los efectos jurídicos sustantivos derivados de la inscripción de los inmuebles en dicho registro.
+
+### Artículo 3
+
+Artículo 3. Contenido.
+1. La descripción catastral de los bienes inmuebles comprenderá sus características físicas, económicas y jurídicas, entre las que se encontrarán la localización y la referencia catastral, la superficie, el uso o destino, la clase de cultivo o aprovechamiento, la calidad de las construcciones, la representación gráfica, el valor de referencia, el valor catastral y el titular catastral, con su número de identificación fiscal o, en su caso, número de identidad de extranjero. Cuando los inmuebles estén coordinados con el Registro de la Propiedad se incorporará dicha circunstancia junto con su código registral.
+2. La certificación catastral descriptiva y gráfica acreditativa de las características indicadas en el apartado anterior y obtenida, preferentemente, por medios telemáticos, se incorporará en los documentos públicos que contengan hechos, actos o negocios susceptibles de generar una incorporación en el Catastro Inmobiliario, así como al Registro de la Propiedad en los supuestos previstos por ley. Igualmente se incorporará en los procedimientos administrativos como medio de acreditación de la descripción física de los inmuebles.
+3. Salvo prueba en contrario y sin perjuicio del Registro de la Propiedad, cuyos pronunciamientos jurídicos prevalecerán, los datos contenidos en el Catastro Inmobiliario se presumen ciertos.
+Se modifica el apartado 1 por el art. 14.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifica el apartado 1 por la disposición final 20.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
+ Se modifica el apartado 1 por el art. 2.1 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica por la disposición final 18.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 4
+
+Artículo 4. Competencias.
+La formación y el mantenimiento del Catastro Inmobiliario, así como la difusión de la información catastral, es de competencia exclusiva del Estado. Estas funciones, que comprenden, entre otras, la valoración, la inspección y la elaboración y gestión de la cartografía catastral, se ejercerán por la Dirección General del Catastro, directamente o a través de las distintas fórmulas de colaboración que se establezcan con las diferentes Administraciones, entidades y corporaciones públicas.
+No obstante lo dispuesto en el párrafo anterior, la superior función de coordinación de valores y la de aprobación de las ponencias de valores se ejercerán en todo caso por la Dirección General del Catastro.
+
+### Artículo 5
+
+Artículo 5. Órganos colegiados.
+1. La Comisión Técnica de Cooperación Catastral es un órgano colegiado de naturaleza administrativa dependiente de la Dirección General del Catastro que, presidido por el Director General del Catastro o funcionario en quien delegue, está integrado por seis representantes del citado centro directivo y otros seis de la asociación de entidades locales de ámbito nacional con mayor implantación. Sus funciones son el estudio y asesoramiento en materia catastral y la cooperación en el desarrollo de las fórmulas de colaboración en la gestión catastral y en la gestión tributaria del Impuesto sobre Bienes Inmuebles que se establezcan. Su régimen de funcionamiento será el previsto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. En cada municipio podrá constituirse una junta pericial para intervenir, como órgano de asesoramiento, apoyo y colaboración, en la tramitación de los procedimientos catastrales que afecten a bienes inmuebles rústicos. La composición y funciones de las juntas periciales se regularán reglamentariamente.
+Se modifica el apartado 2 por el art. 2.2 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+## TÍTULO I
+
+De la regulación del catastro inmobiliario
+
+## CAPÍTULO I
+
+Bienes inmuebles a efectos catastrales
+
+### Artículo 6
+
+Artículo 6. Concepto y clases de bienes inmuebles.
+1. A los exclusivos efectos catastrales, tiene la consideración de bien inmueble la parcela o porción de suelo de una misma naturaleza, enclavada en un término municipal y cerrada por una línea poligonal que delimita, a tales efectos, el ámbito espacial del derecho de propiedad de un propietario o de varios pro indiviso y, en su caso, las construcciones emplazadas en dicho ámbito, cualquiera que sea su dueño, y con independencia de otros derechos que recaigan sobre el inmueble.
+2. Tendrán también la consideración de bienes inmuebles:
+a) Los diferentes elementos privativos que sean susceptibles de aprovechamiento independiente, sometidos al régimen especial de propiedad horizontal, así como el conjunto constituido por diferentes elementos privativos mutuamente vinculados y adquiridos en unidad de acto y, en las condiciones que reglamentariamente se determinen, los trasteros y las plazas de estacionamiento en pro indiviso adscritos al uso y disfrute exclusivo y permanente de un titular. La atribución de los elementos comunes a los respectivos inmuebles, a los solos efectos de su valoración catastral, se realizará en la forma que se determine reglamentariamente.
+b) Los comprendidos en el artículo 8 de esta Ley.
+c) El ámbito espacial de un derecho de superficie y el de una concesión administrativa sobre los bienes inmuebles o sobre los servicios públicos a los que se hallen afectos, salvo que se den los supuestos previstos en las letras anteriores.
+3. A cada bien inmueble se le asignará como identificador una referencia catastral, constituida por un código alfanumérico que permite situarlo inequívocamente en la cartografía oficial del Catastro.
+Dicha identificación deberá figurar en todos los documentos que reflejen relaciones de naturaleza económica o con trascendencia tributaria vinculadas al inmueble, conforme establece el título V de esta Ley.
+4. Los bienes inmuebles se clasifican catastralmente en urbanos, rústicos y de características especiales.
+Se modifica el apartado 2 por el art. 2.3 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 3 por la disposición final 18.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 2, con efectos de 1 de enero de 2005, por la disposición adicional 34.1 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 7
+
+Artículo 7. Bienes inmuebles urbanos y rústicos.
+1. El carácter urbano o rústico del inmueble dependerá de la naturaleza de su suelo.
+2. Se entiende por suelo de naturaleza urbana:
+a) El clasificado o definido por el planeamiento urbanístico como urbano, urbanizado o equivalente.
+b) Los terrenos que tengan la consideración de urbanizables o aquellos para los que los instrumentos de ordenación territorial y urbanística aprobados prevean o permitan su paso a la situación de suelo urbanizado, siempre que se incluyan en sectores o ámbitos espaciales delimitados y se hayan establecido para ellos las determinaciones de ordenación detallada o pormenorizada, de acuerdo con la legislación urbanística aplicable.
+c) El integrado de forma efectiva en la trama de dotaciones y servicios propios de los núcleos de población.
+d) El ocupado por los núcleos o asentamientos de población aislados, en su caso, del núcleo principal, cualquiera que sea el hábitat en el que se localicen y con independencia del grado de concentración de las edificaciones.
+e) El suelo ya transformado por contar con los servicios urbanos establecidos por la legislación urbanística o, en su defecto, por disponer de acceso rodado, abastecimiento de agua, evacuación de aguas y suministro de energía eléctrica.
+f) El que esté consolidado por la edificación, en la forma y con las características que establezca la legislación urbanística.
+Se exceptúa de la consideración de suelo de naturaleza urbana el que integre los bienes inmuebles de características especiales.
+3. Se entiende por suelo de naturaleza rústica aquel que no sea de naturaleza urbana conforme a lo dispuesto en el apartado anterior, ni esté integrado en un bien inmueble de características especiales.
+4. A efectos catastrales, tendrán la consideración de construcciones:
+a) Los edificios, sean cualesquiera los materiales de que estén construidos y el uso a que se destinen, siempre que se encuentren unidos permanentemente al suelo y con independencia de que se alcen sobre su superficie o se hallen enclavados en el subsuelo y de que puedan ser transportados o desmontados.
+b) Las instalaciones industriales, comerciales, deportivas, de recreo, agrícolas, ganaderas, forestales y piscícolas de agua dulce, considerándose como tales, entre otras, los diques, tanques, cargaderos, muelles, pantalanes e invernaderos, y excluyéndose en todo caso la maquinaria y el utillaje.
+c) Las obras de urbanización y de mejora, tales como las explanaciones, y las que se realicen para el uso de los espacios descubiertos, como son los recintos destinados a mercados, los depósitos al aire libre, los campos para la práctica del deporte, los estacionamientos y los espacios anejos o accesorios a los edificios e instalaciones.
+No tendrán la consideración de construcciones aquellas obras de urbanización o mejora que reglamentariamente se determinen, sin perjuicio de que su valor deba incorporarse al del bien inmueble como parte inherente al valor del suelo, ni los tinglados o cobertizos de pequeña entidad.
+Se modifica la letra b) del apartado 2 por el art. 2.4 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 2 por el art. 10.1 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 8
+
+Artículo 8. Bienes inmuebles de características especiales.
+1. Los bienes inmuebles de características especiales constituyen un conjunto complejo de uso especializado, integrado por suelo, edificios, instalaciones y obras de urbanización y mejora que, por su carácter unitario y por estar ligado de forma definitiva para su funcionamiento, se configura a efectos catastrales como un único bien inmueble.
+2. Se consideran bienes inmuebles de características especiales los comprendidos, conforme al apartado anterior, en los siguientes grupos:
+a) Los destinados a la producción de energía eléctrica y gas y al refino de petróleo, y las centrales nucleares.
+b) Las presas, saltos de agua y embalses, incluido su lecho o vaso, excepto las destinadas exclusivamente al riego.
+c) Las autopistas, carreteras y túneles de peaje.
+d) Los aeropuertos y puertos comerciales.
+3. A efectos de la inscripción de estos inmuebles en el Catastro y de su valoración no se excluirá la maquinaria integrada en las instalaciones, ni aquélla que forme parte físicamente de las mismas o que esté vinculada funcionalmente a ellas.
+Se añade el apartado 3 por la disposición adicional 7.1 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023
+ Téngase en cuenta que la entrada en vigor de esta modificación es el 6 de julio de 2007 en lugar de 1 de enero de 2008, según establece la disposición final 2 de la Ley 16/2007, de 4 de julio, en la redacción dada por la disposición final 4.2 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744.
+
+## CAPÍTULO II
+
+Titular catastral
+
+### Artículo 9
+
+Artículo 9. Titulares catastrales y representación.
+1. Son titulares catastrales las personas naturales y jurídicas dadas de alta en el Catastro Inmobiliario por ostentar, sobre la totalidad o parte de un bien inmueble, la titularidad de alguno de los siguientes derechos:
+a) Derecho de propiedad plena o menos plena.
+b) Concesión administrativa sobre el bien inmueble o sobre los servicios públicos a que se halle afecto.
+c) Derecho real de superficie.
+d) Derecho real de usufructo.
+2. Cuando la plena propiedad de un bien inmueble o uno de los derechos limitados a que se refiere el apartado anterior pertenezca pro indiviso a una pluralidad de personas, la titularidad catastral se atribuirá a la comunidad constituida por todas ellas, que se hará constar bajo la denominación que resulte de su identificación fiscal o, en su defecto, en forma suficientemente descriptiva. También tendrán la consideración de titulares catastrales cada uno de los comuneros, miembros o partícipes de las mencionadas entidades, por su respectiva cuota.
+3. Cuando alguno de los derechos a que se refiere el apartado 1 sea común a los dos cónyuges, conforme a las disposiciones o pactos reguladores del correspondiente régimen económico matrimonial, la titularidad catastral corresponderá a ambos y se atribuirá por mitad a cada uno de ellos, salvo que se justifique otra cuota de participación.
+4. En caso de discrepancia entre el titular catastral y el del correspondiente derecho según el Registro de la Propiedad sobre fincas respecto de las cuales conste la referencia catastral en dicho registro, se tomará en cuenta, a los efectos del Catastro, la titularidad que resulte de aquél, salvo que la fecha del documento por el que se produce la incorporación al Catastro sea posterior a la del título inscrito en el Registro de la Propiedad.
+5. A efectos de sus relaciones con el Catastro, los titulares catastrales se regirán por las siguientes reglas:
+a) Cuando concurran varios titulares catastrales en un mismo inmueble, éstos deberán designar un representante. A falta de designación expresa, se considerará como tal al que deba ostentar la condición de contribuyente en el Impuesto sobre Bienes Inmuebles o, si existiera, preferentemente al sustituto del contribuyente. Si concurrieran en esta condición una pluralidad de titulares, la representación recaerá en cualquiera de los comuneros, miembros o partícipes.
+b) Cuando la titularidad catastral de los bienes inmuebles corresponda a los dos cónyuges, se presumirá otorgada la representación indistintamente a cualquiera de ellos, salvo que se produzca manifestación expresa en contrario.
+c) En los demás supuestos, o cuando existiera una entidad sin personalidad, la representación se regirá por lo previsto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Lo dispuesto en este apartado se entenderá sin perjuicio del derecho de los representados a ser informados en todo momento de las actuaciones realizadas en relación al inmueble, así como de las resoluciones que pudieran adoptarse.
+Se modifica por el art. 2.5 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica, con efectos de 1 de enero de 2005, por la disposición adicional 34.2 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 10
+
+Artículo 10. Derechos y deberes.
+1. En sus relaciones con el Catastro Inmobiliario, los titulares catastrales ostentan los derechos reconocidos en el artículo 34 de la Ley 58/2003, de 17 de diciembre, General Tributaria, con las especialidades previstas en esta ley.
+2. Los titulares catastrales tienen el deber de colaborar con el Catastro Inmobiliario, suministrándole cuantos datos, informes o antecedentes resulten precisos para su gestión, bien sea con carácter general, bien a requerimiento de los órganos competentes de aquél conforme a lo reglamentariamente establecido. La presunción establecida en el artículo 3 no aprovechará al titular catastral que incumpla dicha obligación.
+
+## TÍTULO II
+
+De la formación y mantenimiento del catastro inmobiliario
+
+## CAPÍTULO I
+
+Procedimientos de incorporación y régimen jurídico
+
+### Artículo 11
+
+Artículo 11. Obligatoriedad de la incorporación y tipos de procedimientos.
+1. La incorporación de los bienes inmuebles en el Catastro Inmobiliario, así como de las alteraciones de sus características, que conllevará, en su caso, la asignación de valor catastral, es obligatoria y podrá extenderse a la modificación de cuantos datos sean necesarios para que la descripción catastral de los inmuebles afectados concuerde con la realidad.
+2. Dicha incorporación se realizará mediante alguno de los siguientes procedimientos:
+a) Declaraciones, comunicaciones y solicitudes.
+b) Subsanación de discrepancias y rectificación.
+c) Inspección catastral.
+d) Valoración.
+3. En caso de fincas que hayan sido objeto de coordinación conforme a la legislación hipotecaria, se tomará en cuenta, a los efectos del Catastro, la descripción gráfica coordinada, salvo que la fecha del documento por el que se produce la incorporación al Catastro sea posterior a la de la coordinación.
+Se añade el apartado 3 por el art. 2.6 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 2 por la disposición final 18.3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 12
+
+Artículo 12. Régimen jurídico.
+1. Los procedimientos a que se refiere el artículo anterior tendrán naturaleza tributaria y se regirán por lo dispuesto en esta ley, siendo de aplicación supletoria las disposiciones de la Ley 58/2003, de 17 de diciembre, General Tributaria, y de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como sus disposiciones de desarrollo.
+2. A efectos catastrales, no será de aplicación lo establecido en los artículos 54 y 55 del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, en el artículo 33 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, y en las demás normas concordantes, a las escrituras y documentos que contengan hechos, actos o negocios susceptibles de inscripción en el Catastro Inmobiliario.
+3. Los actos resultantes de los procedimientos de incorporación serán motivados con referencia a los hechos y fundamentos de derecho. Cuando el acto incluya la determinación de un nuevo valor catastral, éste se motivará mediante la expresión de la ponencia de la que traiga causa y, en su caso, de los módulos básicos de suelo y construcción, el valor en polígono, calle, tramo, zona o paraje, el valor tipo de las construcciones y de las clases de cultivo, la identificación de los coeficientes correctores aplicados y la superficie de los inmuebles.
+4. Los actos citados en el apartado anterior son susceptibles de ser revisados en los términos establecidos en el título V de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin que la interposición de la reclamación económico-administrativa suspenda su ejecutoriedad, salvo que excepcionalmente sea acordada la suspensión por el tribunal económico-administrativo competente, cuando así lo solicite el interesado y justifique que su ejecución pudiera causar perjuicios de imposible o difícil reparación, ordenando, en su caso, la adopción de las medidas cautelares que sean necesarias para asegurar la protección del interés público y la eficacia de la resolución impugnada.
+5. En los procedimientos a que se refiere el artículo anterior, las actuaciones se entenderán con el obligado a realizar la declaración o comunicación o con quien formule la solicitud, según los casos.
+Se deroga el apartado 6 por la disposición final 18.4 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## CAPÍTULO II
+
+Declaraciones, comunicaciones y solicitudes
+
+### Artículo 13
+
+Artículo 13. Procedimiento de incorporación mediante declaraciones.
+1. Son declaraciones los documentos por los que se manifiesta o reconoce ante el Catastro Inmobiliario que se han producido las circunstancias determinantes de un alta, baja o modificación de la descripción catastral de los inmuebles. Las declaraciones se realizarán en la forma, plazos, modelos y condiciones que se determinen por el Ministerio de Hacienda y Administraciones Públicas.
+2. Los titulares de los derechos a que se refiere el artículo 9 están sujetos a la obligación de formalizar las declaraciones conducentes a la incorporación en el Catastro Inmobiliario de los inmuebles y de sus alteraciones, excepto en los supuestos de comunicación previstos en este Capítulo. Asimismo están obligados a colaborar con el Catastro Inmobiliario suministrándole cuanta información resulte precisa para su gestión, bien sea con carácter general, bien a requerimiento de los órganos competentes de aquél conforme a lo reglamentariamente establecido. Cuando fueran varios los obligados a declarar un mismo hecho, acto o negocio, cumplida la obligación por uno, se entenderá cumplida por todos.
+Se modifica por el art. 2.7 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 2 y se añade el apartado 3, con efectos de 1 de enero de 2005, por la disposición adicional 34.3 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 14
+
+Artículo 14. Procedimiento de incorporación mediante comunicaciones.
+1. Son comunicaciones:
+a) La información que los notarios y registradores de la propiedad deben remitir conforme a lo dispuesto en el artículo 36, en cuanto se refiera a documentos por ellos autorizados o inscritos cuyo contenido suponga la adquisición o consolidación de la propiedad, o la adquisición o constitución de los derechos de usufructo, superficie o de una concesión administrativa, ya se refieran a la totalidad del inmueble o a una cuota indivisa del mismo previamente incorporada en el Catastro, siempre que los interesados hayan aportado la referencia catastral en los términos a que se refiere el Título V y se formalice en escritura pública o se solicite su inscripción en el Registro de la Propiedad.
+Asimismo constituirá comunicación la información que deben remitir los notarios referida a la segregación, división, agregación o agrupación de los bienes inmuebles, siempre que, realizadas las actuaciones que prevé el apartado 2 del artículo 47, conste la referencia catastral de los inmuebles afectados, exista correspondencia entre los inmuebles objeto de dichas actuaciones y la descripción que figura en el Catastro y que se aporte el plano, representado sobre la cartografía catastral, que permita la identificación de esas alteraciones.
+b) Las que formulen los ayuntamientos que, mediante ordenanza fiscal, se obliguen a poner en conocimiento del Catastro Inmobiliario los hechos, actos o negocios susceptibles de generar un alta, baja o modificación catastral, derivados de actuaciones para las que se haya otorgado la correspondiente licencia o autorización municipal, en los términos y con las condiciones que se determinen por la Dirección General del Catastro.
+c) Las que las Administraciones actuantes deben formalizar ante el Catastro Inmobiliario en los supuestos de concentración parcelaria, de deslinde administrativo, de expropiación forzosa y de los actos de planeamiento y de gestión urbanísticos que se determinen reglamentariamente. La comunicación comprenderá la correspondiente certificación administrativa expedida por el órgano actuante.
+Cuando las actuaciones mencionadas hayan sido inscritas en el Registro de la Propiedad, la información será igualmente objeto de comunicación al Catastro por el registrador, siempre que, realizadas las actuaciones que prevé el artículo 48.5, conste la referencia catastral de los inmuebles afectados, así como el plano que permita la identificación de dichas actuaciones sobre la cartografía catastral.
+También constituirá comunicación la información que los registradores de la propiedad deben remitir, referida a los actos de parcelación que consistan en la segregación, división, agregación o agrupación de los bienes inmuebles, siempre que se cumplan los requisitos expresados en el párrafo anterior y que se solicite su inscripción en el Registro de la Propiedad en el plazo de dos meses desde el hecho, acto o negocio de que se trate.
+d) La información con trascendencia catastral que debe remitir la Agencia Estatal de Administración Tributaria al Catastro, en los supuestos y condiciones que se determinen reglamentariamente, de la que tenga conocimiento a través de los procedimientos de aplicación de los tributos, que permita completar la titularidad de los inmuebles inscritos en el Catastro con las cuotas de participación no inscritas del cónyuge y de los comuneros, miembros o partícipes de las comunidades o entidades sin personalidad, así como la referida a los datos identificativos, domicilio fiscal y lugar declarado de residencia habitual de los titulares catastrales, con independencia de la fecha de realización de los actos, hechos o negocios jurídicos correspondientes.
+e) La información con trascendencia catastral que debe remitir el Ministerio competente en materia de agricultura, alimentación y medio ambiente, relativa a los cambios de los cultivos o aprovechamientos de los bienes inmuebles rústicos, de la que tenga conocimiento con motivo de las solicitudes de ayudas de la Política Agrícola Común.
+f) Las que formulen las entidades locales o, en su caso, las entidades que ejerzan la gestión tributaria del Impuesto sobre Bienes Inmuebles, que pongan en conocimiento del Catastro Inmobiliario los hechos, actos o negocios susceptibles de generar un alta, baja o modificación catastral, derivados de actuaciones para las que se haya otorgado la correspondiente licencia o autorización municipal, siempre que se cumplan los términos y condiciones que se determinen por la Dirección General del Catastro.
+g) Los datos, informes o antecedentes suministrados a la Dirección General del Catastro en virtud de lo dispuesto en el artículo 36, siempre que incorporen la totalidad de la documentación necesaria para acreditar la correspondiente alteración catastral de acuerdo con los términos y condiciones establecidos por aquella.
+2. Las comunicaciones previstas en las letras f) y g) anteriores no eximirán de la obligación de declarar salvo que se produzcan con anterioridad a la finalización del plazo máximo para cumplir con dicha obligación, en cuyo caso la Dirección General del Catastro advertirá de esta circunstancia en el correspondiente acuerdo.
+3. El procedimiento de comunicación podrá iniciarse directamente con la notificación de la propuesta de resolución en aquellos supuestos en que no existan terceros afectados. En este caso, el expediente se pondrá de manifiesto para la presentación de alegaciones durante un plazo de 15 días. Cuando, transcurrido este plazo, los interesados no hayan formulado alegaciones, la propuesta de resolución se convertirá en definitiva, entendiéndose dictado y notificado el acuerdo que contiene el día siguiente al de la finalización del mencionado plazo, procediéndose al cierre y archivo del expediente.
+Se modifica por el art. 14.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifican las letras a) y d) y se añade la e) por el art. 2.8 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifican los párrafos a) y c) por la disposición final 18.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se añade el párrafo d), con efectos de 1 de enero de 2005, por la disposición adicional 34.4 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 15
+
+Artículo 15. Procedimiento de incorporación mediante solicitud.
+Podrá formular solicitud de baja en el Catastro Inmobiliario, que se acompañará de la documentación acreditativa correspondiente, quien, figurando como titular catastral, hubiera cesado en el derecho que originó dicha titularidad.
+Se modifica por el art. 2.9 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica, con efectos de 1 de enero de 2005, por la disposición adicional 34.5 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 16
+
+Artículo 16. Reglas comunes a las declaraciones y comunicaciones.
+1. Las declaraciones y comunicaciones tendrán la presunción de certeza establecida en el artículo 108.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin perjuicio de la facultad de la Dirección General del Catastro de requerir al interesado la documentación que en cada caso resulte pertinente.
+2. Serán objeto de declaración o comunicación, según proceda, los siguientes hechos, actos o negocios:
+a) La realización de nuevas construcciones y la ampliación, rehabilitación, reforma, demolición o derribo de las ya existentes, ya sea parcial o total. No se considerarán tales las obras o reparaciones que tengan por objeto la mera conservación y mantenimiento de los edificios, y las que afecten tan sólo a características ornamentales o decorativas.
+b) La modificación de uso o destino y los cambios de clase de cultivo o aprovechamiento.
+c) La segregación, división, agregación y agrupación de los bienes inmuebles.
+d) La adquisición de la propiedad por cualquier título, así como su consolidación.
+e) La constitución, modificación o adquisición de la titularidad de una concesión administrativa y de los derechos reales de usufructo y de superficie.
+f) Las variaciones en la cuota de participación que corresponda a cada uno de los cónyuges en los bienes inmuebles comunes, así como en la composición interna y en la cuota de participación de cada uno de los comuneros, miembros y partícipes en los supuestos de concurrencia de varios titulares o de existencia de las entidades sin personalidad a que se refiere el artículo 9.
+Se modifican las letras e) y f) del apartado 2 por el art. 2.10 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 2.e) y f), con efectos de 1 de enero de 2005, por la disposición adicional 34.6 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 17
+
+Artículo 17. Notificación y eficacia de los actos dictados en los procedimientos de incorporación mediante declaración, comunicación y solicitud.
+1. Los actos dictados como consecuencia de los procedimientos regulados en este capítulo podrán notificarse a los interesados mediante notificación electrónica, por comparecencia presencial o por notificación personal y directa por medios no electrónicos.
+En el caso de que deban notificarse a un mismo titular actos dictados en procedimientos de una misma naturaleza, dichos actos podrán agruparse en una o varias notificaciones cuando razones de eficiencia lo aconsejen y resulte técnicamente posible.
+2. Las notificaciones se practicarán obligatoriamente mediante comparecencia electrónica o mediante la dirección electrónica habilitada, en los términos en que se regule mediante orden del Ministerio de Economía y Hacienda, en los siguientes supuestos:
+a) Personas jurídicas.
+b) Entidades sin personalidad jurídica que tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+c) Colectivos de personas físicas que por razón de su capacidad económica o técnica, dedicación profesional u otros motivos acreditados tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+d) Administración General del Estado, Administraciones de las Comunidades Autónomas, entidades que integran la Administración Local, organismos públicos, universidades públicas, entidades de derecho público que con independencia funcional o con una especial autonomía reconocida por la ley tengan atribuidas funciones de regulación o control de carácter externo sobre un determinado sector o actividad, entidades de derecho público vinculadas a una o varias administraciones públicas o dependientes de la misma y consorcios administrativos.
+En los supuestos de obligatoriedad previstos en las letras anteriores, no procederá practicar la notificación electrónica o por comparecencia presencial reguladas en el apartado siguiente, ni la notificación personal y directa por medios no electrónicos.
+3. Los interesados no obligados a la notificación electrónica podrán ser notificados mediante la dirección electrónica habilitada, con los requerimientos y efectos previstos en la Ley 11/2007, de 22 de junio. En los mismos términos de voluntariedad, la notificación podrá practicarse mediante comparecencia electrónica o presencial.
+El consentimiento para el uso de medios electrónicos se podrá recabar y expresar electrónicamente. La constancia en el sistema informático de la fecha y hora en que se haya producido la puesta a disposición de la notificación y el acceso a la misma acreditará la práctica de esta y se incorporará al expediente.
+Mediante comunicación sin acuse de recibo y con carácter previo a la notificación, se informará al interesado sobre el procedimiento que motiva la notificación, la forma de efectuar la comparecencia, ya sea electrónica o presencial, el lugar y plazo para realizarla, que no podrá ser inferior a un mes contado desde el día siguiente a aquel en que se hubiera dictado el acto objeto de notificación, y la clave concertada a efectos de comparecencia electrónica.
+Para la comparecencia en la sede electrónica del Catastro el interesado se identificará mediante la clave concertada proporcionada por la Dirección General del Catastro o firma electrónica, de conformidad con lo establecido en la Ley 11/2007, de 22 de junio, y su normativa de desarrollo. El interesado podrá comparecer empleando medios electrónicos propios o a través de los proporcionados gratuitamente en las Gerencias y Subgerencias del Catastro, en los puntos de información catastral ubicados en las Administraciones Públicas y en el Ayuntamiento del término municipal en que se ubiquen los inmuebles.
+Para la comparecencia presencial, el interesado podrá personarse en la correspondiente Gerencia o Subgerencia del Catastro, así como en el Ayuntamiento del término municipal en que se ubiquen los inmuebles.
+4. Cuando no se hubiera practicado la notificación en los términos previstos en el apartado anterior, ésta se practicará de manera personal y directa por medios no electrónicos, de conformidad con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+5. En el supuesto de que como consecuencia de la utilización de distintos medios electrónicos o no electrónicos, se practicaran varias notificaciones, se entenderán producidos todos los efectos jurídicos derivados de la notificación, incluido el inicio del plazo para la interposición de los recursos que procedan, a partir de la primera de las notificaciones correctamente practicada.
+6. Los actos dictados en los procedimientos de incorporación mediante declaración, comunicación y solicitud tendrán eficacia desde la fecha en que se produjo el hecho, acto o negocio que originó la incorporación o modificación catastral, con independencia del momento en que se notifiquen.
+7. Para la realización de las actuaciones reguladas en este artículo, se podrá recabar la colaboración de las corporaciones locales o de otras administraciones y entidades públicas.
+Se modifica el apartado 6 por el art. 14.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifica por la disposición final 8.1 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+
+## CAPÍTULO III
+
+Subsanación de discrepancias
+
+### Artículo 18
+
+Artículo 18. Procedimientos de subsanación de discrepancias y de rectificación.
+1. El procedimiento de subsanación de discrepancias se iniciará de oficio por acuerdo del órgano competente, cuando la Administración tenga conocimiento, por cualquier medio, de la falta de concordancia entre la descripción catastral de los bienes inmuebles y la realidad inmobiliaria y su origen no se deba al incumplimiento de la obligación de declarar o comunicar a que se refieren los artículos 13 y 14. La iniciación del procedimiento se comunicará a los interesados, concediéndoles un plazo de 15 días para que formulen las alegaciones que estimen convenientes.
+La resolución que se dicte tendrá efectividad desde el día siguiente a la fecha en que el Catastro hubiera tenido constancia documentada de la discrepancia y se notificará a los interesados de conformidad con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria. El plazo máximo en que debe notificarse la resolución expresa será de seis meses desde la notificación del acuerdo de iniciación a los interesados. El vencimiento del plazo máximo de resolución determinará la caducidad del expediente y el archivo de todas las actuaciones.
+No obstante, en aquellos supuestos en que no existan terceros afectados por el procedimiento, éste podrá iniciarse directamente con la notificación de la propuesta de resolución. En este caso, el expediente se pondrá de manifiesto para la presentación de alegaciones durante un plazo de 15 días. Cuando, transcurrido este plazo, los interesados no hayan formulado alegaciones, la propuesta de resolución se convertirá en definitiva y se procederá al cierre y archivo del expediente.
+2. Con ocasión de la autorización de un hecho, acto o negocio en un documento público podrán subsanarse las discrepancias relativas a la configuración o superficie de la parcela, de conformidad con el siguiente procedimiento:
+a) El notario ante el que se formalicen los correspondientes hechos, actos o negocios jurídicos solicitará de los otorgantes que le manifiesten si la descripción que contiene la certificación catastral a que se refiere el artículo 3.2 se corresponde con la realidad física del inmueble en el momento del otorgamiento del documento público.
+b) Si los otorgantes le manifestaran la identidad entre la realidad física y la certificación catastral, el notario describirá el inmueble en el documento público de acuerdo con dicha certificación y hará constar en el mismo la manifestación de conformidad de los otorgantes.
+Cuando exista un título previo que deba ser rectificado, los nuevos datos se consignarán con los que ya aparecieran en aquél. En los documentos posteriores sólo será preciso consignar la descripción actualizada.
+c) Si los otorgantes le manifestaran la existencia de una discrepancia entre la realidad física y la certificación catastral, el notario solicitará su acreditación por cualquier medio de prueba admitido en derecho. Cuando el notario entienda suficientemente acreditada la existencia de la discrepancia lo notificará a los titulares que resulten de lo dispuesto en el apartado 4 del artículo 9 que, en su condición de colindantes, pudieran resultar afectados por la rectificación, para que en el plazo de veinte días puedan alegar lo que a su derecho convenga. De no manifestarse oposición a la misma, el notario incorporará la nueva descripción del bien inmueble en el mismo documento público o en otro posterior autorizado al efecto, en la forma establecida en la letra b) anterior.
+El notario informará a la Dirección General del Catastro sobre la rectificación realizada, por medios telemáticos, en el plazo máximo de cinco días desde la formalización del documento público. Una vez validada técnicamente por la citada Dirección General la rectificación declarada, se incorporará la correspondiente alteración en el Catastro. En los supuestos en que se aporte el plano, representado sobre la cartografía catastral, la alteración se realizará en el plazo de cinco días desde su conocimiento por el Catastro, de modo que el notario pueda incorporar en el documento público la certificación catastral descriptiva y gráfica de los inmuebles afectados que refleje su nueva descripción.
+d) En los supuestos en que alguno de los interesados manifieste su oposición para la subsanación de la discrepancia o cuando ésta no resultara debidamente acreditada, el notario dejará constancia de ella en el documento público y, por medios telemáticos, informará de su existencia a la Dirección General del Catastro para que, en su caso, ésta incoe el procedimiento oportuno.
+La descripción de la configuración y superficie del inmueble conforme a la certificación catastral descriptiva y gráfica actualizada a la que se hace referencia en los párrafos b) y c) se incorporará en los asientos de las fincas ya inscritas en el Registro de la Propiedad, sin perjuicio de las funciones que correspondan al registrador en el ejercicio de sus competencias.
+Cuando exista identidad, en los términos que establece el artículo 45, con la correspondiente finca registral inscrita, en los asientos posteriores se tomará como base la nueva descripción física y gráfica.
+En los supuestos en que no exista dicha identidad, el registrador de la propiedad, por medios telemáticos, pondrá esta circunstancia en conocimiento de la Dirección General de Catastro que, tras analizar la motivación expuesta, emitirá informe cuyas conclusiones se harán constar en el Registro de la Propiedad e incoará, en su caso, el procedimiento oportuno.
+Mediante resolución de la Dirección General del Catastro, previo informe favorable de la Dirección General de los Registros y Notariado, se podrán determinar otros elementos de la descripción del bien inmueble que serán objeto de rectificación de discrepancias con arreglo al procedimiento previsto en este apartado.
+3. La Dirección General del Catastro podrá rectificar de oficio la información contenida en la base de datos catastral cuando la rectificación se derive de uno de los procedimientos de coordinación con el Registro de la Propiedad a los que se refiere el artículo 10 de la Ley Hipotecaria, en los que se hayan utilizado otros medios distintos de la cartografía catastral para la descripción gráfica de las fincas.
+A tal efecto, una vez tramitado el correspondiente procedimiento de conformidad con la normativa hipotecaria, el Registrador informará a la Dirección General del Catastro sobre la rectificación realizada, por medios electrónicos y en el plazo máximo de cinco días desde la inscripción. Una vez validada técnicamente por la citada Dirección General se incorporará la correspondiente rectificación en el Catastro. La Dirección General del Catastro comunicará la incorporación al Registro de la Propiedad junto con la certificación descriptiva y gráfica actualizada, para que éste haga constar la circunstancia de la coordinación e incorpore al folio real la nueva representación gráfica de la misma.
+A través de este procedimiento no procederá incorporar al Catastro Inmobiliario ninguna alteración catastral que deba ser objeto de alguno de los procedimientos de comunicación regulados en el artículo 14.
+4. La Dirección General del Catastro podrá rectificar de oficio la información contenida en la base de datos catastral en cuanto sea necesario para efectuar correcciones de superficie dentro del margen de tolerancia técnica que se defina reglamentariamente, así como para reflejar cambios en los identificadores postales o en la cartografía, o cuando se lleven a cabo otras operaciones de carácter general, legalmente previstas, que tengan por finalidad mantener la adecuada concordancia entre el Catastro y la realidad inmobiliaria.
+Cuando la operación de carácter general consista en la rectificación de la descripción de los inmuebles que deba realizarse con motivo de ajustes a la cartografía básica oficial o a las ortofotografías inscritas en el Registro Central de Cartografía, se anunciará en la sede electrónica de la Dirección General del Catastro el inicio del procedimiento de rectificación por ajustes cartográficos en los municipios afectados y calendario de actuaciones. Tras dicho anuncio se abrirá un periodo de exposición pública en el Ayuntamiento donde se ubiquen los inmuebles durante un mínimo de quince días y la subsiguiente apertura del plazo de alegaciones durante el mes siguiente. Cuando como consecuencia de estas actuaciones se produzcan rectificaciones que superen el diez por ciento de la superficie de los inmuebles, la resolución por la que se aprueben las nuevas características catastrales, que tendrá efectividad el día siguiente a aquel en que se hubiera dictado, se notificará a los interesados de conformidad con lo previsto en el artículo 29, no siendo necesario el anuncio previsto en el apartado 1 de dicho artículo.
+Se modifica el apartado 1 por el art. 14.4 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifican las letras c) y d) del apartado 2 y el apartado 3 y se añade el 4 por el art. 2.11 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica por la disposición final 18.6 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 2 por la disposición final 8.2 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+
+## CAPÍTULO IV
+
+Inspección catastral
+
+### Artículo 19
+
+Artículo 19. Naturaleza y clases de actuaciones inspectoras.
+1. Las actuaciones de inspección catastral tendrán naturaleza tributaria y se regirán por lo dispuesto en esta ley, siendo de aplicación supletoria la Ley 58/2003, de 17 de diciembre, General Tributaria, así como sus disposiciones de desarrollo.
+Dichas actuaciones podrán ser de comprobación y de investigación de los hechos, actos, negocios y demás circunstancias relativas a los bienes inmuebles susceptibles de originar una incorporación o modificación en el Catastro Inmobiliario, así como de obtención de información, de valoración y de informe y asesoramiento.
+2. Las actuaciones de comprobación e investigación tendrán por objeto verificar el adecuado cumplimiento de las obligaciones y deberes establecidos en la normativa catastral, para lo cual la Inspección comprobará la integridad, exactitud y veracidad de las declaraciones y comunicaciones reguladas en esta ley e investigará la posible existencia de hechos, actos o negocios que no hayan sido declarados o comunicados o que lo hayan sido parcialmente.
+
+### Artículo 20
+
+Artículo 20. Documentación y eficacia de las actuaciones inspectoras.
+1. Las actuaciones de la inspección catastral se documentarán en diligencias, comunicaciones, actas e informes, cuyo contenido y especialidades se determinarán por orden del Ministro de Hacienda.
+2. La incorporación en el Catastro Inmobiliario de bienes inmuebles o la modificación de su descripción por virtud de actuaciones inspectoras tendrán eficacia desde la fecha en que se produjo el hecho, acto o negocio a que se refieren dichas actuaciones, sin perjuicio de la posibilidad de iniciar, en su caso, el correspondiente procedimiento sancionador dentro del plazo de los seis meses siguientes a la fecha en que se hubiese notificado o se entendiese notificado el correspondiente acto de alteración catastral.
+3. En aquellos supuestos en que se cuente con datos suficientes y no existan terceros afectados por el procedimiento de inspección, este podrá iniciarse directamente con la notificación del acta de inspección, en la que se incluirá la propuesta de regularización de la descripción del bien inmueble, así como una referencia expresa a este artículo y a los recursos que procedan frente a la resolución definitiva. En este caso, el expediente se pondrá de manifiesto a los interesados, para la presentación de alegaciones, durante un plazo de 15 días. Cuando, transcurrido este plazo, los interesados no hayan formulado alegaciones, la propuesta de regularización incluida en el acta de inspección se convertirá en definitiva, entendiéndose dictado y notificado el acuerdo que contiene, el día siguiente al de la finalización del mencionado plazo y procediéndose al cierre y archivo del expediente.
+Se modifica el apartado 2 por el art. 14.5 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se añade el apartado 3 por el art. 16.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Artículo 21
+
+Artículo 21. Planes de inspección.
+1. La actuación investigadora se desarrollará conforme a los planes de inspección aprobados por la Dirección General del Catastro.
+2. La Dirección General del Catastro podrá llevar a cabo actuaciones de inspección conjuntas con los ayuntamientos y entidades que ejerzan la gestión tributaria del Impuesto sobre Bienes Inmuebles, a petición de aquéllos, en los términos que reglamentariamente se determinen.
+Dichas actuaciones se concretarán en los planes de inspección a que se refiere el apartado anterior y se extenderán a la investigación de los hechos, actos o negocios no declarados o declarados de forma parcial o inexacta, quedando excluidos aquellos que deban ser objeto de comunicación.
+
+## CAPÍTULO V
+
+Valoración
+
+## SECCIÓN 1
+
+Sección 1.ª El valor catastral y su determinación
+
+### Artículo 22
+
+Artículo 22. Valor catastral.
+El valor catastral es el determinado objetivamente para cada bien inmueble a partir de los datos obrantes en el Catastro Inmobiliario y estará integrado por el valor catastral del suelo y el valor catastral de las construcciones.
+
+### Artículo 23
+
+Artículo 23. Criterios y límites del valor catastral.
+1. Para la determinación del valor catastral se tendrán en cuenta los siguientes criterios:
+a) La localización del inmueble, las circunstancias urbanísticas que afecten al suelo y su aptitud para la producción.
+b) El coste de ejecución material de las construcciones, los beneficios de la contrata, honorarios profesionales y tributos que gravan la construcción, el uso, la calidad y la antigüedad edificatoria, así como el carácter histórico-artístico u otras condiciones de las edificaciones.
+c) Los gastos de producción y beneficios de la actividad empresarial de promoción, o los factores que correspondan en los supuestos de inexistencia de la citada promoción.
+d) Las circunstancias y valores del mercado.
+e) Cualquier otro factor relevante que reglamentariamente se determine.
+2. El valor catastral de los inmuebles no podrá superar el valor de mercado, entendiendo por tal el precio más probable por el cual podría venderse, entre partes independientes, un inmueble libre de cargas, a cuyo efecto se fijará, mediante orden del Ministro de Hacienda, un coeficiente de referencia al mercado para los bienes de una misma clase.
+En los bienes inmuebles con precio de venta limitado administrativamente, el valor catastral no podrá en ningún caso superar dicho precio.
+3. Reglamentariamente, se establecerán las normas técnicas comprensivas de los conceptos, reglas y restantes factores que, de acuerdo con los criterios anteriormente expuestos y en función de las características intrínsecas y extrínsecas que afecten a los bienes inmuebles, permitan determinar su valor catastral.
+
+### Artículo 24
+
+Artículo 24. Determinación del valor catastral.
+1. La determinación del valor catastral, salvo en los supuestos a los que se refieren las letras c), d), g) y h) del apartado 2 del artículo 30, se efectuará mediante la aplicación de la correspondiente ponencia de valores.
+2. Toda incorporación o modificación en el Catastro Inmobiliario practicada en virtud de los procedimientos previstos en esta Ley, incluirá, cuando sea necesario, la determinación individualizada del valor catastral del inmueble afectado de acuerdo con sus nuevas características. Dicho valor catastral se determinará mediante la aplicación de la ponencia de valores vigente en el municipio en el primer ejercicio de efectividad de la incorporación o modificación del Catastro o, en su caso, mediante la aplicación de los módulos establecidos para el ejercicio citado para la tramitación del procedimiento simplificado de valoración colectiva.
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de la aplicación de posteriores ponencias de valores o módulos que afecten al inmueble y de los coeficientes de actualización establecidos por las sucesivas leyes de presupuestos generales del Estado.
+Se modifica por el art. 2.12 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+## SECCIÓN 2
+
+Sección 2.ª Ponencias de valores
+
+### Artículo 25
+
+Artículo 25. Contenido de las ponencias de valores.
+1. La ponencia de valores recogerá, según los casos y conforme a lo que se establezca reglamentariamente, los criterios, módulos de valoración, planeamiento urbanístico y demás elementos precisos para llevar a cabo la determinación del valor catastral, y se ajustará a las directrices dictadas para la coordinación de valores.
+2. Las ponencias de valores podrán contener, en los términos que reglamentariamente se establezcan, los elementos y criterios necesarios para la valoración de los bienes inmuebles que, por modificación de planeamiento, adquieran la clase a que se refiere dicha ponencia con posterioridad a su aprobación, a cuyo efecto establecerán las bandas de valores que, en función de tipologías, usos, aprovechamientos urbanísticos y grados de desarrollo del planeamiento y convenientemente coordinados con los del resto del municipio, puedan asignarse a los bienes inmuebles afectados.
+
+### Artículo 26
+
+Artículo 26. Clases de ponencias de valores.
+1. Las ponencias de valores serán de ámbito municipal, salvo cuando circunstancias de carácter territorial, económico, administrativo o de otra índole justifiquen una extensión mayor.
+2. Dentro de su ámbito territorial, las ponencias de valores podrán ser:
+a) Totales, cuando se extiendan a la totalidad de los bienes inmuebles de una misma clase.
+b) Parciales, cuando se circunscriban a los inmuebles de una misma clase de alguna o varias zonas, polígonos discontinuos o fincas, o a inmuebles con características constructivas que requieran su valoración singularizada de acuerdo con lo que se determine reglamentariamente.
+c) Especiales, cuando afecten exclusivamente a uno o varios grupos de bienes inmuebles de características especiales.
+Se modifica la letra b) del apartado 2 por el art. 2.13 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+### Artículo 27
+
+Artículo 27. Elaboración, aprobación e impugnación de las ponencias de valores.
+1. La elaboración de las ponencias de valores se llevará a cabo por la Dirección General del Catastro, directamente o a través de los convenios de colaboración que se celebren con cualesquiera Administraciones públicas en los términos que reglamentariamente se establezca.
+2. Previamente a su aprobación, las ponencias de valores totales y parciales se someterán a informe del ayuntamiento o ayuntamientos interesados, en el plazo y con los efectos señalados en el artículo 83 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Los acuerdos de aprobación de las ponencias de valores se publicarán por edicto en la sede electrónica de la Dirección General del Catastro.
+La publicación de dichos acuerdos, que indicará en todo caso el lugar y plazo de exposición al público de las ponencias a que se refieran, se realizará antes del 1 de julio del año en que se adopten, en caso de ponencias de valores totales, y antes del 1 de octubre, en caso de ponencias de valores parciales y especiales.
+Téngase en cuenta que se amplía, con vigencia exclusiva para el ejercicio 2023, el plazo para la aprobación y publicación de las ponencias de valores totales previsto en el apartado 3, hasta el 31 de julio de 2023, según establece la disposición transitoria 3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#dt-3
+4. Las ponencias de valores serán recurribles en vía económico-administrativa, sin que la interposición de la reclamación suspenda la ejecutoriedad del acto.
+Se amplía, con vigencia exclusiva para el ejercicio 2023, el plazo para la aprobación y publicación de las ponencias de valores totales previsto en el apartado 3, hasta el 31 de julio de 2023, según establece la disposición transitoria 3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#dt-3
+ Véase la disposición transitoria 3 del Real Decreto-ley 27/2018, de 28 de diciembre, por la que se amplía hasta el 31 de julio, con vigencia exclusiva para el ejercicio 2019, el plazo para la aprobación y publicación de las ponencias de valores totales previsto en el apartado 3. Ref. BOE-A-2018-17991
+ Se modifica el apartado 3 por el art. 2.14 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+## SECCIÓN 3
+
+Sección 3.ª Procedimientos de valoración catastral
+
+### Artículo 28
+
+Artículo 28. Valoración catastral de bienes inmuebles urbanos y rústicos.
+1. El valor catastral de los bienes inmuebles urbanos y rústicos se determinará mediante el procedimiento de valoración colectiva o de forma individualizada en los términos establecidos en el artículo 24.2.
+2. El procedimiento de valoración colectiva de bienes inmuebles de una misma clase podrá iniciarse de oficio o a instancia del ayuntamiento correspondiente cuando, respecto a una pluralidad de bienes inmuebles, se pongan de manifiesto diferencias sustanciales entre los valores de mercado y los que sirvieron de base para la determinación de los valores catastrales vigentes, ya sea como consecuencia de una modificación en el planeamiento urbanístico o de otras circunstancias.
+3. El procedimiento de valoración colectiva podrá ser:
+a) De carácter general, cuando requiera la aprobación de una ponencia de valores total. Este procedimiento, en el que se observarán las directrices que se establezcan para garantizar la coordinación nacional de valores, sólo podrá iniciarse una vez transcurridos, al menos, cinco años desde la entrada en vigor de los valores catastrales derivados del anterior procedimiento de valoración colectiva de carácter general y se realizará, en todo caso, a partir de los 10 años desde dicha fecha.
+b) De carácter parcial, cuando requiera la aprobación de una ponencia de valores parcial. En este procedimiento se garantizará la coordinación de los nuevos valores catastrales con los del resto de los inmuebles del municipio.
+c) De carácter simplificado, cuando tenga por objeto determinar nuevos valores catastrales en los supuestos contemplados en el artículo 30.
+
+### Artículo 29
+
+Artículo 29. Procedimientos de valoración colectiva de carácter general y parcial.
+1. Los procedimientos de valoración colectiva de carácter general y parcial se iniciarán con la aprobación de la correspondiente ponencia de valores, excepto cuando se trate de una ponencia de valores parcial de ámbito nacional que se circunscriba a inmuebles urbanos o rústicos con características constructivas que requieran su valoración singularizada.
+Los valores catastrales individualizados resultantes de estos procedimientos podrán notificarse a los titulares catastrales mediante notificación electrónica, por comparecencia presencial o por notificación personal y directa por medios no electrónicos. En el caso de bienes inmuebles que correspondan a un mismo titular catastral, dichos valores individualizados podrán agruparse en una o varias notificaciones, cuando razones de eficiencia lo aconsejen y resulte técnicamente posible.
+El trámite de la notificación se iniciará mediante la publicación de un anuncio en la sede electrónica de la Dirección General del Catastro.
+2. Las notificaciones se practicarán obligatoriamente mediante comparecencia electrónica en la sede electrónica del Catastro o mediante la dirección electrónica habilitada, en los términos en que se regule mediante orden del Ministerio de Economía y Hacienda, en los siguientes supuestos:
+a) Personas jurídicas.
+b) Entidades sin personalidad jurídica que tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+c) Colectivos de personas físicas que por razón de su capacidad económica o técnica, dedicación profesional u otros motivos acreditados tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+d) Administración General del Estado, Administraciones de las Comunidades Autónomas, entidades que integran la Administración Local, organismos públicos, universidades públicas, entidades de derecho público que con independencia funcional o con una especial autonomía reconocida por la ley tengan atribuidas funciones de regulación o control de carácter externo sobre un determinado sector o actividad, entidades de derecho público vinculadas a una o varias Administraciones Públicas o dependientes de la misma y consorcios administrativos.
+En los supuestos de obligatoriedad previstos en las letras anteriores, no procederá practicar las notificaciones por comparecencia electrónica o presencial reguladas en el apartado siguiente, ni la personal y directa por medios no electrónicos.
+Cuando se hubiera establecido la comparecencia electrónica obligatoria, el acto objeto de notificación estará disponible en la sede electrónica del Catastro durante el mes de noviembre del año de aprobación de la correspondiente ponencia de valores. Transcurridos diez días naturales desde la finalización del plazo de comparecencia electrónica sin que se acceda al contenido del acto se entenderá que la notificación ha sido rechazada en los términos previstos en el artículo 28.3 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+3. Cuando se trate de titulares catastrales no obligados a notificación electrónica, una vez publicado el anuncio a que se refiere el apartado 1 de este artículo, se informará al interesado mediante comunicación sin acuse de recibo sobre el procedimiento que motiva la notificación, la forma de efectuar la comparecencia, ya sea electrónica o presencial, el lugar y plazo para realizarla y la clave concertada para comparecer electrónicamente.
+A efectos de comparecencia en la sede electrónica del Catastro, el interesado se identificará mediante la clave concertada proporcionada por la Dirección General del Catastro o firma electrónica, de conformidad con lo establecido en la Ley 11/2007, de 22 de junio, y su normativa de desarrollo. El interesado podrá comparecer empleando medios electrónicos propios o a través de los proporcionados gratuitamente en las Gerencias y Subgerencias del Catastro, en los puntos de información catastral ubicados en las Administraciones Públicas y en el Ayuntamiento del término municipal en que se ubiquen los inmuebles.
+En el supuesto de que el titular catastral no hubiera comparecido electrónicamente, podrá hacerlo de forma presencial en la correspondiente Gerencia o Subgerencia del Catastro, así como en el Ayuntamiento del término municipal en que se ubiquen los inmuebles.
+4. Cuando no se hubiera producido la comparecencia electrónica o presencial de los titulares catastrales no obligados a notificación electrónica, se procederá a notificarles de manera personal y directa en los siguientes términos:
+a) Se practicará la notificación, por cualquier medio que permita tener constancia de su recepción, así como de la fecha, la identidad de quien la recibe y el contenido del acto notificado, incorporándose al expediente la acreditación de la notificación efectuada.
+b) Cuando no sea posible realizar la notificación al interesado o a su representante por causas no imputables a la Administración, y una vez intentado por dos veces, o por una sola si constara como desconocido, se hará así constar en el expediente con expresión de las circunstancias de los intentos de notificación. En estos casos se publicará anuncio en el "Boletín Oficial del Estado", en el que se indicará lugar y plazo de exposición pública de la relación de titulares con notificaciones pendientes.
+Esta relación, en la que constará el procedimiento que motiva la notificación, el órgano responsable de su tramitación y el lugar y plazo en que el destinatario de aquélla deberá comparecer para ser notificado, se expondrá en los lugares destinados al efecto en el Ayuntamiento y en la Gerencia del Catastro correspondiente al término municipal en que se ubiquen los inmuebles, sin perjuicio de su publicación en la sede electrónica de la Dirección General del Catastro para su consulta individual. La comparecencia deberá producirse en el plazo de diez días contados desde el siguiente a la publicación del anuncio en el "Boletín Oficial del Estado".
+c) Cuando transcurrido el plazo de diez días a que se refiere el párrafo anterior no se hubiera comparecido, la notificación se entenderá producida a todos los efectos legales desde el día siguiente al del vencimiento del plazo señalado para comparecer.
+d) Lo dispuesto en materia de notificaciones por la Ley 58/2003, de 17 de diciembre, General Tributaria, será de aplicación supletoria a la notificación de valores catastrales por medios no electrónicos prevista en este apartado.
+5. Los acuerdos adoptados tendrán efectividad el 1 de enero del año siguiente a aquel en que se produzca su notificación. No obstante, para aquellos bienes inmuebles que con posterioridad a la aprobación de la ponencia de valores vean modificada la naturaleza de su suelo y las ponencias de valores contengan los elementos y criterios a que se refiere el artículo 25.2, los acuerdos surtirán efectos el día 1 de enero del año siguiente a aquel en el que tuvieran lugar las circunstancias que originen dicha modificación, con independencia del momento en que se produzca la notificación del acto.
+6. Los actos objeto de notificación podrán ser recurridos en vía económico-administrativa sin que la interposición de la reclamación suspenda su ejecutoriedad.
+La Dirección General del Catastro comunicará a los Ayuntamientos, como destinatarios del Impuesto de Bienes Inmuebles y sujetos activos del mismo, la presentación de las reclamaciones económico-administrativas que interpongan los titulares catastrales de bienes inmuebles de características especiales contra la notificación de valores. Asimismo, los Ayuntamientos podrán solicitar a la Dirección General del Catastro que les comunique la presentación de otras reclamaciones económico-administrativas relativas a un ámbito concreto que la entidad local deberá definir de forma expresa en cada caso.
+7. Con referencia exclusiva para los casos de notificación de valores a los que se refiere el presente artículo, el plazo para la interposición del recurso de reposición o reclamación económico-administrativa será de un mes, contado a partir del día siguiente:
+a) Al de efectuarse la notificación en los términos previstos en losl apartados 2, 3 ó 4.a) de este artículo.
+b) Al de comparecer efectivamente en el supuesto previsto en el apartado 4.b) de este artículo.
+c) Al de la finalización del plazo de diez días a que se refiere el apartado 4.c) de este artículo.
+En el supuesto de que como consecuencia de la utilización de distintos medios electrónicos o no electrónicos, se practicaran varias notificaciones, se entenderán producidos todos los efectos jurídicos derivados de la notificación, incluido el inicio del plazo para la interposición de los recursos que procedan, a partir de la primera de las notificaciones correctamente practicada.
+8. Para la realización de las actuaciones reguladas en este artículo se podrá recabar la colaboración de las corporaciones locales o de otras administraciones y entidades públicas.
+Se modifica el apartado 1 por el art. 2.15 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica la letra b) del apartado 4 por el art. 27 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+ Téngase en cuenta la disposición transitoria 7 de la citada ley para su aplicación.
+ Se modifica por la disposición final 8.3 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+ Se añade el párrafo segundo al apartado 4 por la disposición adicional 69 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+
+### Artículo 30
+
+Artículo 30. Procedimiento simplificado de valoración colectiva.
+1. El procedimiento simplificado se iniciará mediante acuerdo que se publicará por edicto en la sede electrónica de la Dirección General del Catastro y no requerirá la elaboración de una nueva ponencia de valores.
+2. Este procedimiento se regirá por las siguientes reglas:
+a) Cuando tuviera por causa una modificación de planeamiento que varíe el aprovechamiento urbanístico de los bienes inmuebles, manteniendo los usos anteriormente fijados, se determinarán los nuevos valores catastrales de las fincas afectadas por aplicación del valor recogido para esos usos en la ponencia vigente conforme a los parámetros urbanísticos mencionados.
+b) Cuando tuviera por causa una modificación de planeamiento que varíe el uso de los bienes inmuebles, dichos bienes se valorarán tomando como valor del suelo el mínimo que corresponda a su nuevo uso, de los previstos en el polígono de valoración de la ponencia vigente en el que se hallen enclavados o, en defecto del mismo, el mínimo para dicho uso de los incluidos en la mencionada ponencia. Dicha valoración deberá respetar en todo caso los criterios de coordinación de valores del municipio.
+c) Cuando, con motivo de la modificación o desarrollo del planeamiento, los suelos adquieran la consideración de suelo de naturaleza urbana de conformidad con lo dispuesto en la letra b) del apartado 2 del artículo 7, podrán ser valorados mediante la aplicación de los módulos específicos para los distintos usos que se establezcan por orden del Ministro de Hacienda y Administraciones Públicas.
+d) Se podrá aplicar el procedimiento de valoración previsto en el párrafo anterior cuando en los suelos a que se refiere la letra b) del apartado 2 del artículo 7, los valores que sirvieron de base para la determinación de sus valores catastrales no se correspondan con los módulos específicos establecidos en la mencionada orden.
+e) Cuando, con motivo de la modificación o aprobación del planeamiento, los suelos adquieran la consideración de suelo de naturaleza urbana de conformidad con lo dispuesto en la letra a) del apartado 2 del artículo 7, podrán ser valorados tomando como valor de suelo el mínimo de los previstos en la ponencia vigente para el uso de que se trate, sin perjuicio de la consideración, en su caso, de la urbanización pendiente de realizar. Dicha valoración deberá respetar en todo caso los criterios de coordinación de valores del municipio.
+f) A partir del momento de aprobación del correspondiente proyecto de reparcelación u otro instrumento de gestión urbanística, las parcelas resultantes ubicadas en los suelos a que se refiere la letra b) del apartado 2 del artículo 7, se podrán valorar tomando como valor de suelo el que corresponda a su nuevo estado de desarrollo y de acuerdo con los criterios del párrafo anterior.
+g) Cuando, con motivo de la anulación o modificación del planeamiento el suelo de los inmuebles pierda la consideración de suelo de naturaleza urbana, no estando incluidos en los supuestos recogidos en las letras c), d), e) y f) del apartado 2 del artículo 7, se podrán valorar como bienes inmuebles rústicos, considerando, en su caso, su localización.
+h) Cuando, con motivo de la aprobación o modificación de instrumentos de ordenación territorial y urbanística se clasifiquen suelos como urbanizables o se prevea o permita su paso a la situación de suelo urbanizado y se incluyan en sectores o ámbitos espaciales delimitados, y en tanto no cuenten con determinaciones de ordenación detallada o pormenorizada, los inmuebles rústicos afectados se valorarán considerando, en todo caso, su localización.
+3. Los actos dictados como consecuencia de los procedimientos regulados en este artículo se notificarán a los interesados de conformidad con lo dispuesto en el artículo 17 y tendrán efectividad, con independencia del momento en que se produzca la notificación de su resolución, el día 1 de enero del año siguiente a aquel en que tuviere lugar la aprobación, modificación o anulación del instrumento de ordenación o gestión urbanística del que traigan causa, excepto en el supuesto contemplado en la letra d) del apartado anterior, que tendrá eficacia el 1 de enero del año en que se inicie el procedimiento.
+En todo caso, el plazo máximo en que debe notificarse la resolución expresa será de seis meses a contar desde la fecha de publicación del acuerdo de inicio. El incumplimiento del plazo máximo de notificación determinará la caducidad del procedimiento respecto de los inmuebles afectados por el incumplimiento sin que ello implique la caducidad del procedimiento ni la ineficacia de las actuaciones respecto de aquellos debidamente notificados.
+Se modifica por el art. 2.16 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifica el apartado 3 por la disposición final 8.4 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
+
+### Artículo 31
+
+Artículo 31. Procedimiento de determinación del valor catastral de los bienes inmuebles de características especiales.
+1. El procedimiento de valoración de los bienes inmuebles de características especiales se iniciará con la aprobación de la correspondiente ponencia especial.
+2. La notificación, efectividad e impugnación de los valores catastrales resultantes de este procedimiento se regirán por lo previsto en el artículo 29.
+
+### Artículo 32
+
+Artículo 32. Actualización de valores catastrales.
+1. Las leyes de presupuestos generales del Estado podrán actualizar los valores catastrales por aplicación de coeficientes, que podrán ser diferentes para cada uno de los grupos de municipios que se establezcan reglamentariamente o para cada clase de inmuebles.(1)
+2. Asimismo, las leyes de presupuestos generales podrán actualizar los valores catastrales de los inmuebles urbanos de un mismo municipio por aplicación de coeficientes en función del año de entrada en vigor de la correspondiente ponencia de valores del municipio.
+Los Ayuntamientos podrán solicitar la aplicación de los coeficientes previstos en este apartado cuando concurran los siguientes requisitos:
+a) Que hayan transcurrido al menos cinco años desde la entrada en vigor de los valores catastrales derivados del anterior procedimiento de valoración colectiva de carácter general.
+b) Que se pongan de manifiesto diferencias sustanciales entre los valores de mercado y los que sirvieron de base para la determinación de los valores catastrales vigentes, siempre que afecten de modo homogéneo al conjunto de usos, polígonos, áreas o zonas existentes en el municipio.
+c) Que la solicitud se comunique a la Dirección General del Catastro antes del 31 de mayo del ejercicio anterior a aquel para el que se solicita la aplicación de los coeficientes.
+Corresponde al Ministro de Hacienda y Administraciones Públicas apreciar la concurrencia de los requisitos enumerados en el párrafo anterior, mediante orden ministerial que se publicará en el “Boletín Oficial del Estado” con anterioridad al 30 de septiembre de cada ejercicio, en la que se establecerá la relación de municipios concretos en los que resultarán de aplicación los coeficientes que, en su caso, establezca la Ley de Presupuestos Generales del Estado para el ejercicio siguiente.(2)
+La aplicación de los coeficientes previstos en este apartado, excluirá la de los coeficientes de actualización a que se refiere el apartado uno de este artículo.
+(1) En relación con lo previsto en el apartado primero, los coeficientes de actualización establecidos en las últimas Leyes de Presupuestos Generales del Estado, con respecto a los vigentes para el año correspondiente anterior, han sido los siguientes:
+ AÑO
+ INMUEBLES URBANOS
+ INMUEBLES RÚSTICOS
+ OBSERVACIONES
+ Para 1981
+ C.T.U.
+ 1,35 (*)
+ C.T.R.P.
+ -
+ (*) Aplicables hasta la revisión, excepto para las altas producidas por nueva construcción a partir del 1-1-1980.
+ (**) Aplicable a municipios no revisados, hasta la próxima revisión y sólo para inmuebles edificados.
+ (***) Aplicable a todos los inmuebles no revisados y hasta la revisión de valores.
+ Para 1984
+ 1,36 (**)
+ -
+ Para 1986
+ 1,20 (***)
+ -
+ Para 1987
+ 1,05
+ -
+ Para 1988
+ 1,03
+ -
+ Para 1989
+ 1,03
+ -
+ Para 1990
+ I.B.I.
+ 1,05
+ I.B.I.
+ 1,05
+ Artículo 25 Ley 5/1990, de 29 de junio.
+ Para 1991
+ 1,05
+ 1,5
+ Artículo 70 Ley 31/1990, de 27 de diciembre.
+ Para 1992
+ 1,05
+ 1,05
+ Artículo 77 Ley 31/1991, de 31 de diciembre.
+ Para 1993
+ 1,05
+ 1,05
+ Artículo 74 Ley 39/1992, de 29 de diciembre.
+ Para 1994
+ 1,035
+ 1,035
+ Artículo 71 Ley 21/1993, de 29 de diciembre.
+ Para 1995
+ 1,035
+ 1,035
+ Artículo 74 Ley 41/1994, de 30 de diciembre.
+ Para 1996
+ 1,035
+ 1,035
+ Artículo 25 R.D.L. 12/1995, de 28 de diciembre.
+ Para 1997
+ 1,026
+ 1,026
+ Artículo 60 Ley 12/1996, de 30 de diciembre.
+ Para 1998
+ 1,021
+ 1,021
+ Artículo 66 Ley 65/1997, de 30 de diciembre.
+ Para 1999
+ 1,018
+ 1,018
+ Artículo 67 Ley 49/1998, de 30 de diciembre.
+ Para 2000
+ 1,02
+ 1,02
+ Artículo 69 Ley 54/1999, de 29 de diciembre.
+ Para 2001
+ 1,02
+ 1,02
+ Artículo 62 Ley 13/2000, de 28 de diciembre.
+ Para 2002
+ 1,02
+ 1,02
+ Artículo 61 Ley 23/2001, de 27 de diciembre.
+ Para 2003
+ 1,02
+ 1,02
+ Artículo 60 Ley 52/2002, de 30 de diciembre.
+ Para 2004
+ 1,02
+ 1,02
+ Artículo 60 Ley 61/2003, de 30 de diciembre.
+ Para 2005
+ 1,02
+ 1,02
+ Artículo 63 Ley 2/2004, de 27 de diciembre.
+ Para 2006
+ 1,02
+ 1,02
+ Artículo 62 Ley 30/2005, de 29 de diciembre.
+ Para 2007
+ 1,02
+ 1,02
+ Artículo 64 Ley 42/2006, de 28 de diciembre.
+ Para 2008
+ 1,02
+ 1,02
+ Artículo 70 Ley 51/2007, de 26 de diciembre.
+ Para 2009
+ 1,02
+ 1,02
+ Artículo 72 Ley 2/2008, de 23 de diciembre.
+ Para 2010
+ 1,01
+ 1,01
+ Artículo 78 Ley 26/2009, de 23 de diciembre.
+ Para 2011
+ 1,00
+ 1,00
+ Artículo 77 Ley 39/2010, de 22 de diciembre.
+ (2) En relación con lo previsto en el apartado segundo, véase el art. 73 de la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014 Ref. BOE-A-2013-13616#a73., el art. 62 de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015 Ref. BOE-A-2014-13612#a62., el art. 67 de la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para el año 2016 Ref. BOE-A-2015-11644#a67, el art. 7 del Real Decreto-ley 3/2016, de 2 de diciembre, por el que se adoptan medidas en el ámbito tributario dirigidas a la consolidación de las finanzas públicas y otras medidas urgentes en materia social Ref. BOE-A-2016-11475#a7, el art. 1 del Real Decreto-ley 20/2017, de 29 de diciembre, por el que se prorrogan y aprueban diversas medidas tributarias y otras medidas urgentes en materia social. Ref. BOE-A-2017-15836#a1 y el art. 5 del Real Decreto-ley 27/2018, de 28 de diciembre, por el que se adoptan determinadas medidas en materia tributaria y catastral. Ref. BOE-A-2018-17991#a5 y su corrección de errores publicada en BOE núm. 18, de 21 de enero de 2019. Ref. BOE-A-2019-646 y el art. 6 del Real Decreto-ley 18/2019, de 27 de diciembre Ref. BOE-A-2019-18611, para el año 2020.
+Véase el art. 6 del Real Decreto-ley 18/2019, de 27 de diciembre Ref. BOE-A-2019-18611, en relación a los coeficientes de actualización a que se refiere el apartado 2 para el año 2020.
+ Véase el art. 5 del Real Decreto-ley 27/2018, de 28 de diciembre, en relación a los coeficientes de actualización a que se refiere el apartado 2. Ref. BOE-A-2018-17991#a5 y su corrección de errores, publicada en BOE núm. 18, de 21 de enero de 2019. Ref. BOE-A-2019-646
+ Téngase en cuenta que el plazo establecido en el apartado 2.c) se amplía hasta el 31 de julio, con vigencia exclusiva para el ejercicio 2019, por la disposición transitoria 2 del citado Real Decreto-ley.
+ Se modifica el apartado 2.c) por el art. 9.1 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+ Se modifica por el art. 16.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+## TÍTULO III
+
+De la cartografía catastral
+
+### Artículo 33
+
+Artículo 33. Concepto.
+1. La representación gráfica de los bienes inmuebles a que se refiere el artículo 3 comprenderá en todo caso su descripción cartográfica en el modo que en este título se establece.
+2. La base geométrica del Catastro Inmobiliario está constituida por la cartografía parcelaria elaborada por la Dirección General del Catastro. Dicha cartografía catastral constituirá la base para la georreferenciación de los bienes inmuebles.
+3. La cartografía catastral estará a disposición de los ciudadanos y de las empresas, así como de las Administraciones y entidades públicas que requieran información sobre el territorio o sobre bienes inmuebles concretos, preferentemente a través de un servidor de mapas gestionado por la Dirección General del Catastro o de los servicios que a tal efecto se establezcan en su sede electrónica.
+Mediante Resolución de la Dirección General del Catastro se determinarán los formatos, condiciones de acceso y suministro, así como las restantes características necesarias para la prestación de dichos servicios.
+4. Con el fin de facilitar la utilización de la cartografía catastral como cartografía básica para la identificación de las fincas en el Registro de la Propiedad, la Dirección General del Catastro proporcionará acceso al servicio de identificación y representación gráfica de dichas fincas sobre la cartografía catastral, mediante un sistema interoperable que responderá a las especificaciones que se determinen por Resolución de la Dirección General del Catastro.
+En los supuestos en que se hubieran utilizado medios o procedimientos distintos de la cartografía catastral para la identificación gráfica de las fincas en el Registro de la Propiedad podrá aplicarse el procedimiento de rectificación por ajustes cartográficos establecido en el artículo 18.3 de esta Ley.
+5. Será de aplicación a la cartografía catastral lo dispuesto en la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía, en las escalas y con las especialidades establecidas reglamentariamente.
+Se modifica por la disposición final 18.7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 34
+
+Artículo 34. Contenido de la cartografía catastral.
+1. La cartografía catastral definirá, entre otras características que se consideren relevantes, la forma, dimensiones y situación de los diferentes bienes inmuebles susceptibles de inscripción en el Catastro Inmobiliario, cualquiera que sea el uso o actividad a que estén dedicados, constituyendo en su conjunto el soporte gráfico de éste.
+2. En particular, dicha cartografía contendrá:
+a) Los polígonos catastrales, determinados por las líneas permanentes del terreno y sus accidentes más notables, como ríos, canales, arroyos, pantanos, fuentes, lagunas, vías de comunicación, límite del término municipal y clases de suelo.
+b) Las parcelas o porciones de suelo que delimitan los bienes inmuebles, así como las construcciones emplazadas en ellas y, en su caso, las subparcelas o porciones de sus distintos cultivos o aprovechamientos.
+
+### Artículo 35
+
+Artículo 35. Carácter temático de la cartografía catastral.
+1. La cartografía catastral tiene el carácter de temática, por cuanto incorpora la información adicional específica, y se obtiene a partir de la cartografía básica realizada de acuerdo con una norma establecida por la Administración General del Estado mediante procesos directos de medición y observación de la superficie terrestre. A tal fin, en los trabajos topográfico-catastrales se utilizarán las técnicas adecuadas para asegurar el enlace de las redes topográficas catastrales con la red geodésica nacional.
+La cartografía básica que elabore la Dirección General del Catastro para la obtención de la cartografía temática será objeto de inscripción obligatoria en el Registro Central de Cartografía, la cual se practicará en los términos establecidos en la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía.
+2. La cartografía catastral incluirá, como medios auxiliares, los siguientes elementos:
+a) Ortofotografías y fotografías aéreas.
+b) Los planos de cada término municipal con las líneas de sus límites.
+c) Los planos de planta de los edificios y de las parcelas catastrales.
+d) Los polígonos de valoración a que se refiere el artículo 30, así como cualesquiera otros aspectos susceptibles de representación gráfica que sean necesarios para la correcta instrucción de los procedimientos regulados en el capítulo V del título II.
+
+## TÍTULO IV
+
+De la colaboración e intercambio de información
+
+### Artículo 36
+
+Artículo 36. Deber de colaboración.
+1. Toda persona natural o jurídica, pública o privada, está sujeta al deber de colaboración establecido en el artículo 93 de la Ley 58/2003, de 17 de diciembre, General Tributaria, en relación con los datos, informes o antecedentes que revistan trascendencia para la formación y mantenimiento del Catastro Inmobiliario.
+2. Las Administraciones y demás entidades públicas, los fedatarios públicos y quienes, en general, ejerzan funciones públicas estarán obligados a suministrar al Catastro Inmobiliario, en los términos previstos en el artículo 94 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuantos datos o antecedentes relevantes para su formación y mantenimiento sean recabados por éste, bien mediante disposición de carácter general, bien a través de requerimientos concretos. A tal fin, facilitarán el acceso gratuito a dicha información en los términos que acaban de indicarse, a través de medios telemáticos.
+En particular, las entidades locales y demás Administraciones actuantes deberán suministrar a la Dirección General del Catastro, en los términos que reglamentariamente se determinen, aquella información que revista trascendencia para el Catastro Inmobiliario relativa a la ordenación y a la gestión tributaria del Impuesto sobre Bienes Inmuebles, así como al planeamiento y gestión urbanística, concentraciones parcelarias, deslindes administrativos y expropiación forzosa. Igualmente las Administraciones públicas competentes deberán remitir a la Dirección General del Catastro la información obtenida con motivo de la gestión de ayudas agrarias sobre los bienes inmuebles rústicos que revista transcendencia para el Catastro Inmobiliario.
+3. Los notarios y registradores de la propiedad remitirán telemáticamente al Catastro, dentro de los 20 primeros días de cada mes, información relativa a los documentos por ellos autorizados o que hayan generado una inscripción registral en el mes anterior, en los que consten hechos, actos o negocios susceptibles de inscripción en el Catastro Inmobiliario. En dicha información se consignará de forma separada la identidad de las personas que hayan incumplido la obligación de aportar la referencia catastral establecida en el artículo 40. Asimismo, remitirán la documentación complementaria incorporada en la escritura pública que sea de utilidad para el Catastro.
+Cuando dicho suministro se refiera a las comunicaciones que deben realizar los notarios conforme a lo dispuesto en el artículo 14. a), la remisión de la información deberá producirse dentro de los 5 días siguientes a la autorización del documento público que origine la alteración.
+Mediante Resolución de la Dirección General del Catastro, previo informe favorable de la Dirección General de los Registros y Notariado, se regularán los requisitos técnicos para dar cumplimiento a las obligaciones de suministro de información tributaria establecidas en este apartado.
+4. La cesión al Catastro Inmobiliario de datos de carácter personal en virtud de lo dispuesto en los apartados anteriores no requerirá el consentimiento del afectado.
+Se modifica el apartado 2 por el art. 2.17 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se modifican los apartados 2 y 3 por la disposición final 18.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 37
+
+Artículo 37. Suministro de información a otras Administraciones tributarias.
+1. La Dirección General del Catastro remitirá, en el plazo más breve posible, a la Administración tributaria estatal y a la Administración autonómica del territorio en el que radiquen los bienes inmuebles, copia de la información suministrada por los notarios y los registradores de la propiedad sobre personas que hayan incumplido la obligación de aportar la referencia catastral establecida en el artículo 40.
+2. La Dirección General del Catastro remitirá a las Administraciones tributarias de los tres niveles territoriales, a petición de éstas, la información catastral necesaria para la gestión, liquidación, recaudación e inspección de los tributos cuya aplicación les corresponde, en los términos que reglamentariamente se determinen.
+
+## TÍTULO V
+
+De la constancia documental de la referencia catastral
+
+### Artículo 38
+
+Artículo 38. Constancia documental y registral de la referencia catastral.
+La referencia catastral de los bienes inmuebles deberá figurar en los instrumentos públicos, mandamientos y resoluciones judiciales, expedientes y resoluciones administrativas y en los documentos donde consten los hechos, actos o negocios de trascendencia real relativos al dominio y demás derechos reales, contratos de arrendamiento o de cesión por cualquier título del uso del inmueble, contratos de suministro de energía eléctrica, proyectos técnicos o cualesquiera otros documentos relativos a los bienes inmuebles que se determinen reglamentariamente. Asimismo, se hará constar en el Registro de la Propiedad, en los supuestos legalmente previstos.
+Se modifica por el art. 10.2 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 39
+
+Artículo 39. Excepciones.
+No será preciso hacer constar la referencia catastral en:
+a) Los documentos en que conste la cancelación de derechos reales de garantía.
+b) Los actos administrativos por los que se adopten o cancelen medidas tendentes a asegurar el cobro de deudas de derecho público.
+c) Los procedimientos que tengan por objeto los aplazamientos o fraccionamientos de pago regulados en la normativa recaudatoria y en los procedimientos de comprobación, investigación y liquidación tributaria, cuando dicha referencia sea ya conocida por la Administración tributaria.
+d) Las anotaciones que deban practicarse en el Registro de la Propiedad en cumplimiento y ejecución de una resolución judicial o de una resolución administrativa dictada en procedimiento de apremio.
+
+### Artículo 40
+
+Artículo 40. Sujetos obligados.
+1. Están obligados a aportar la referencia catastral de los bienes inmuebles:
+a) Ante la autoridad judicial o administrativa competente para instruir o resolver un procedimiento que afecte a los bienes inmuebles incluidos en el ámbito de aplicación de esta Ley, los titulares de derechos reales o con trascendencia real sobre los citados bienes inmuebles.
+b) Ante el Notario, los requirentes u otorgantes del documento notarial en el que conste el hecho, acto o negocio constituido sobre el inmueble de que se trate.
+c) Ante el Registro de la Propiedad, quienes soliciten del registrador la práctica de un asiento registral relativo a bienes inmuebles.
+d) Ante las compañías prestadoras del suministro a que se refiere el artículo 38 de esta Ley, quienes contraten dichos suministros y, en los contratos privados de arrendamiento o de cesión por cualquier título del uso del inmueble, los arrendadores o cedentes.
+e) Fuera de los supuestos previstos en los párrafos anteriores, las partes o interesados consignarán por sí la citada referencia en los documentos que otorguen o expidan.
+2. En los casos de modificaciones de fincas será suficiente la aportación de la referencia catastral de las fincas de origen, junto con el plano o proyecto, si fuera necesario para la operación de que se trate, que refleje las modificaciones realizadas.
+3. Si fueran varios los obligados a aportar la referencia catastral, cumplida la obligación por uno, se entenderá cumplida por todos los obligados que pudieran concurrir con aquél.
+Se modifica el apartado 1 por el art. 10.3 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 41
+
+Artículo 41. Documentos acreditativos de la referencia catastral.
+1. La referencia catastral de los inmuebles se hará constar en los expedientes y resoluciones administrativas, en los instrumentos públicos y en el Registro de la Propiedad por lo que resulte del documento que el obligado exhiba o aporte, que deberá ser uno de los siguientes, siempre que en éste conste de forma indubitada dicha referencia:
+a) Certificación catastral electrónica obtenida por los procedimientos telemáticos que se aprueben por resolución de la Dirección General del Catastro.
+b) Certificado u otro documento expedido por el Gerente o Subgerente del Catastro.
+c) Escritura pública o información registral.
+d) Último recibo justificante del pago del Impuesto sobre Bienes Inmuebles.
+2. Cuando la autoridad judicial o administrativa, o los notarios o registradores de la propiedad obtengan directamente las certificaciones catastrales a que se refiere el párrafo a) del apartado 1, los otorgantes del documento público o solicitantes de la inscripción registral quedarán excluidos de la obligación a que se refiere el artículo anterior.
+3. La competencia para expedir u obtener el certificado a que se refiere el párrafo b) del apartado 1 podrá ser delegada en órganos de la propia o distinta Administración.
+
+### Artículo 42
+
+Artículo 42. Plazo de aportación.
+La referencia catastral de los bienes inmuebles deberá aportarse ante la autoridad judicial o administrativa en el plazo de 10 días a contar desde aquel en que se practique el correspondiente requerimiento; ante el notario, con anterioridad a la autorización del documento y ante el registrador de la propiedad, durante el plazo de despacho de aquél. En los demás supuestos, la referencia catastral deberá aportarse en el momento de la expedición del documento o de la firma del contrato.
+Cuando los inmuebles carezcan de referencia catastral en el momento en el que debe ser aportada, según lo previsto en el párrafo anterior, los obligados a que se refiere el artículo 40 de esta Ley deberán comunicarla a la autoridad judicial o administrativa de que se trate, o a la correspondiente compañía prestadora del servicio de suministro de energía eléctrica, en el plazo de un mes desde que les sea notificada.
+Se modifica por el art. 10.4 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 43
+
+Artículo 43. Advertencia de incumplimiento.
+1. El órgano competente para instruir el procedimiento administrativo, el notario o el registrador de la propiedad deberá advertir a los interesados, de forma expresa y escrita, en los casos en que incurran en incumplimiento de la obligación establecida en este título.
+2. Asimismo, en los casos en que no se cumplan los requisitos establecidos en el párrafo a) del artículo 14, los notarios y registradores de la propiedad deberán advertir expresamente a los interesados de que subsiste la obligación de declarar prevista en el apartado 2 del artículo 13.
+
+### Artículo 44
+
+Artículo 44. Efectos del incumplimiento de la obligación de aportar la referencia catastral.
+1. La falta de aportación de la referencia catastral en el plazo legalmente previsto se hará constar en el expediente o resolución administrativa, en el propio documento notarial o en nota al margen del asiento y al pie del título inscrito en el Registro de la Propiedad.
+2. La falta de aportación de la referencia catastral:
+a) No suspenderá la tramitación del procedimiento ni impedirá su resolución.
+b) No impedirá que los notarios autoricen el documento ni afectará a su eficacia o a la del hecho, acto o negocio que contenga.
+3. La no constancia de la referencia catastral en los documentos inscribibles o su falta de aportación no impedirá la práctica de los asientos correspondientes en el Registro de la Propiedad, conforme a la legislación hipotecaria.
+4. Lo dispuesto en el apartado 2 se entiende sin perjuicio de lo especialmente regulado para supuestos concretos en los que se exija la aportación de determinada documentación catastral como requisito para continuar el procedimiento o de lo legalmente establecido para el caso de que la resolución fuera inscribible en el Registro de la Propiedad.
+
+### Artículo 45
+
+Artículo 45. Correspondencia de la referencia catastral con la identidad de la finca.
+A efectos de lo dispuesto en este título, se entenderá que la referencia catastral se corresponde con la identidad de la finca en los siguientes casos:
+a) Siempre que los datos de situación, denominación y superficie, si constara esta última, coincidan con los del título y, en su caso, con los del Registro de la Propiedad.
+b) Cuando existan diferencias de superficie que no sean superiores al 10 por ciento y siempre que, además, no existan dudas fundadas sobre la identidad de la finca derivadas de otros datos descriptivos. Si hubiera habido un cambio en el nomenclátor y numeración de calles, estas circunstancias deberán acreditarse, salvo que le constaran al órgano competente, notario o registrador.
+
+### Artículo 46
+
+Artículo 46. Constancia de la referencia catastral en documentos administrativos.
+1. El órgano competente para instruir un procedimiento administrativo que afecte a los bienes inmuebles incluidos en el ámbito de aplicación de esta ley requerirá a los titulares de derechos reales o de trascendencia real sobre éstos para que aporten la documentación acreditativa de la referencia catastral a que se refiere el artículo 41, salvo que la pueda obtener por procedimientos telemáticos. En la resolución que ponga fin al procedimiento se hará constar la referencia catastral, así como el justificante en su caso aportado, haciendo constar si la referencia catastral se corresponde con la identidad de la finca en los términos establecidos en el artículo anterior.
+2. Cuando del procedimiento administrativo resulten modificaciones en el inmueble de acuerdo con lo previsto en el artículo 40.2, el órgano administrativo remitirá al Catastro copia de los planos de situación, para que por éste se expidan y comuniquen, en el plazo de cinco días, las nuevas referencias catastrales de los bienes inmuebles afectados.
+Se añade el apartado 2 y se numera el anterior como 1 por la disposición final 18.9 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 47
+
+Artículo 47. Constancia de la referencia catastral en documentos notariales.
+1. Los notarios deberán solicitar a los otorgantes o requirentes de los instrumentos públicos a que se refiere el artículo 38 que aporten la documentación acreditativa de la referencia catastral conforme a lo previsto en el artículo 41, salvo que la pueda obtener por procedimientos telemáticos, y transcribirán en el documento que autoricen dicha referencia catastral, incorporando a la matriz el documento aportado para su traslado en las copias.
+2. Cuando las modificaciones a que se refiere el artículo 40.2 consistan en agrupaciones, agregaciones, segregaciones o divisiones de fincas o se trate de la constitución sobre ellas del régimen de propiedad horizontal, el notario remitirá al Catastro, en el plazo de cinco días desde la autorización del documento, copia simple de la escritura junto con el plano o proyecto, si se lo presentase el interesado, para que se expida una nueva referencia catastral. El Catastro comunicará la nueva referencia catastral al notario autorizante del documento público en el plazo de 24 horas, para su constancia en la matriz por diligencia o nota al margen.
+La misma documentación se aportará para la asignación notarial de la referencia catastral provisional en los supuestos de obra nueva en construcción en régimen de propiedad horizontal.
+Se modifica el apartado 2 por la disposición final 18.10 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 48
+
+Artículo 48. Constancia registral de la referencia catastral.
+1. La constancia de la referencia catastral en los asientos del Registro de la Propiedad tiene por objeto, entre otros, posibilitar el trasvase de información entre el Registro de la Propiedad y el Catastro Inmobiliario.
+2. El registrador, una vez calificada la documentación presentada, recogerá en el asiento como uno más de los datos descriptivos de la finca y con el carácter y efectos establecidos en el artículo 6.3, la referencia catastral que se le atribuya por los otorgantes en el documento inscribible, cuando exista correspondencia entre la referencia catastral y la identidad de la finca en los términos expresados en el artículo 45.
+3. No obstante lo dispuesto en el apartado anterior, se podrá reflejar registralmente la identificación catastral de las fincas como operación específica, de acuerdo con lo legalmente previsto.
+4. Si la referencia catastral inscrita sufriera alguna modificación que no se derive de una modificación de las características físicas de la finca, bastará para su constancia la certificación expedida al efecto por el Catastro.
+5. En caso de inscripción de actos de naturaleza urbanística, el registrador remitirá a la Dirección General del Catastro copia del plano el día siguiente al de su presentación en el Registro de la Propiedad. El Catastro devolverá al registrador, en el plazo de cinco días, las referencias catastrales de las fincas objeto del acto de que se trate.
+6. Las discrepancias en la referencia catastral no afectarán a la validez de la inscripción.
+Se modifica por la disposición final 18.11 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 49
+
+Artículo 49. Constatación de la referencia catastral.
+1. Cuando el órgano competente para instruir un procedimiento administrativo, el notario o el registrador de la propiedad considere que la referencia catastral que resulte de los documentos aportados por el interesado, no obstante haber identidad en los términos expresados en el artículo 45, pueda no coincidir con la correspondiente al inmueble objeto del hecho, acto o negocio jurídico documentado, lo comunicará al Catastro solicitando certificación o documento informativo, que le será remitido por cualquier medio que permita su constancia, en el plazo más breve posible, y siempre dentro de los cinco días hábiles siguientes al de recepción de la solicitud.
+2. En los procedimientos administrativos dicha certificación se incorporará al expediente previa audiencia de los interesados, aunque este estuviera ya resuelto.
+3. No obstante lo dispuesto en el apartado 1, en los documentos notariales, el notario, en caso de urgencia alegada por los otorgantes, podrá autorizar el documento haciéndolo constar así, transcribiendo en él la referencia catastral, reseñando el justificante aportado y expresando su duda sobre la correspondencia de la referencia catastral con el inmueble. Autorizado el documento, el notario se abstendrá de hacer constar la referencia comunicada por el Catastro sin que medie consentimiento para ello de los otorgantes.
+4. El registrador de la propiedad, cuando le sea remitido el certificado o documento informativo, previa calificación favorable, hará constar la referencia en el asiento, o si éste ya se hubiera practicado, por nota al margen de él, consignándolo, en su caso, también por nota, al pie del título.
+
+## TÍTULO VI
+
+Del acceso a la información catastral
+
+### Artículo 50
+
+Artículo 50. Normativa aplicable.
+1. La difusión de la información catastral a que se refieren los artículos 2 y 4 se regirá por lo dispuesto en este título.
+2. La entrega y utilización de información catastral gráfica y alfanumérica estarán sujetas a la legislación sobre la propiedad intelectual. Los derechos de autor corresponderán, en todo caso, a la Administración General del Estado.
+De igual forma, dicha entrega y utilización estará sujeta a la exacción de las tasas que correspondan, de conformidad con lo establecido en el título VII.
+3. De conformidad con lo dispuesto en los artículos 4.3 y 37.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, el acceso a la información catastral podrá ser denegado de forma motivada por la Dirección General del Catastro cuando su ejercicio pueda causar un perjuicio grave a sus intereses o al cumplimiento de sus propias funciones o afectar a la eficacia del funcionamiento del servicio público.
+4. La información catastral únicamente se facilitará en los formatos disponibles en la Dirección General del Catastro, utilizando siempre que sea posible técnicas y medios electrónicos, informáticos y telemáticos.
+
+### Artículo 51
+
+Artículo 51. Datos protegidos.
+A efectos de lo dispuesto en este título, tienen la consideración de datos protegidos el nombre, apellidos, razón social, código de identificación y domicilio de quienes figuren inscritos en el Catastro Inmobiliario como titulares, así como el valor catastral y los valores catastrales del suelo y, en su caso, de la construcción de los bienes inmuebles individualizados.
+
+### Artículo 52
+
+Artículo 52. Condiciones generales del acceso.
+1. Todos podrán acceder a la información de los inmuebles de su titularidad y a la información de datos no protegidos contenidos en el Catastro Inmobiliario.
+2. La Dirección General del Catastro podrá autorizar la transformación y posterior distribución de la información catastral en los términos previstos en el artículo 21 del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, previa petición del interesado en la que deberá constar el número de copias del producto transformado que se pretenda distribuir.
+
+### Artículo 53
+
+Artículo 53. Acceso a la información catastral protegida.
+1. El acceso a los datos catastrales protegidos sólo podrá realizarse mediante el consentimiento expreso, específico y por escrito del afectado, o cuando una ley excluya dicho consentimiento o la información sea recabada en alguno de los supuestos de interés legítimo y directo siguientes:
+a) Para la ejecución de proyectos de investigación de carácter histórico, científico o cultural auspiciados por universidades o centros de investigación, siempre que se califiquen como relevantes por el Ministerio de Hacienda.
+b) Para la identificación y descripción de las fincas, así como para el conocimiento de las alteraciones catastrales relacionadas con los documentos que autoricen o los derechos que inscriban o para los que se solicite su otorgamiento o inscripción, por los notarios y registradores de la propiedad, de conformidad con lo establecido en esta Ley y en la legislación hipotecaria. Asimismo los notarios podrán acceder a los acuerdos catastrales derivados de dichas alteraciones para su entrega, en su caso, a los interesados.
+c) Para la identificación de las parcelas colindantes, con excepción del valor catastral de cada uno de los inmuebles, por quienes figuren en el Catastro Inmobiliario como titulares.
+d) Por los titulares o cotitulares de derechos de trascendencia real o de arrendamiento o aparcería que recaigan sobre los bienes inmuebles inscritos en el Catastro Inmobiliario, respecto a dichos inmuebles.
+e) Por los herederos y sucesores, respecto de los bienes inmuebles del causante o transmitente que figure inscrito en el Catastro Inmobiliario.
+2. No obstante, podrán acceder a la información catastral protegida, sin necesidad de consentimiento del afectado:
+a) Los órganos de la Administración General del Estado y de las demás Administraciones públicas territoriales, la Agencia Estatal de Administración Tributaria y las entidades gestoras y servicios comunes de la Seguridad Social, con las limitaciones derivadas de los principios de competencia, idoneidad y proporcionalidad.
+b) Las comisiones parlamentarias de investigación, el Defensor del Pueblo y el Tribunal de Cuentas, así como las instituciones autonómicas con funciones análogas.
+c) Los jueces y tribunales y el Ministerio Fiscal.
+d) Los organismos, corporaciones y entidades públicas, para el ejercicio de sus funciones públicas, a través de la Administración de la que dependan y siempre que concurran las condiciones exigidas en el párrafo a).
+Se modifica la letra b) del apartado 1 por el art. 2.18 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+### Artículo 54
+
+Artículo 54. Recurso de alzada.
+Corresponderá al Director General del Catastro la competencia para resolver el recurso de alzada establecido en la sección 2.ª del capítulo II del título VII de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, que se interponga contra las resoluciones dictadas en aplicación de lo previsto en este título.
+
+## TÍTULO VII
+
+De la tasa de acreditación catastral
+Se modifica el título y se suprime la división en capítulos, con efectos de 1 de enero de 2005, por el art. 3.1 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+## CAPÍTULO I
+
+Tasa por inscripción catastral
+(Suprimido)
+Se suprime la división en capítulos, con efectos de 1 de enero de 2005, por el art. 3.1 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 55
+
+Artículo 55. Objeto y naturaleza.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículos 55 a 60
+
+Artículos 55 a 60.
+(Derogados)
+Se derogan por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 56
+
+Artículo 56. Hecho imponible.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 57
+
+Artículo 57. Sujetos pasivos.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 58
+
+Artículo 58. Exención.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 59
+
+Artículo 59. Devengo.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 60
+
+Artículo 60. Elementos cuantitativos.
+(Derogado)
+Se deroga por la disposición derogatoria.a) de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+## CAPÍTULO II
+
+Tasa de acreditación catastral
+(Suprimido)
+Se suprime la división en capítulos, con efectos de 1 de enero de 2005, por el art. 3.1 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 61
+
+Artículo 61. Objeto y naturaleza.
+La tasa de acreditación catastral es un tributo estatal que grava la expedición de documentos por la Dirección General del Catastro, a petición de parte.
+
+### Artículo 62
+
+Artículo 62. Hecho imponible.
+1. Constituye el hecho imponible de la tasa de acreditación catastral la expedición por la Dirección General del Catastro o por las Gerencias y Subgerencias del Catastro, a instancia de parte, de certificaciones en las que figuren datos que consten en el Catastro Inmobiliario y de copia de los siguientes documentos:
+a) Ortofotografía.
+b) Fotografía aérea.
+c) Cartografía.
+d) Información alfanumérica digital.
+e) Copias de información no gráfica de expedientes.
+2. La expedición de las certificaciones y documentos a que se refiere el apartado anterior no quedará sujeta a dicha tasa cuando su obtención se produzca directamente por medios telemáticos.
+Se modifica por la disposición final 18.12 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 63
+
+Artículo 63. Sujetos pasivos.
+Serán sujetos pasivos de la tasa de acreditación catastral las personas naturales y jurídicas, y las comunidades y entidades sin personalidad a las que se refiere el artículo 9.3, que soliciten el correspondiente documento o certificación catastral.
+
+### Artículo 64
+
+Artículo 64. Exención.
+1. Estarán exentos de la tasa de acreditación catastral la Administración General del Estado, las Administraciones de las comunidades autónomas, las entidades que integran la Administración local y los demás entes públicos territoriales e institucionales, cuando actúen en interés propio y directo para el cumplimiento de sus fines, siempre que necesiten disponer de información catastral para el ejercicio de sus competencias. Estas exenciones se concederán previa petición de la entidad interesada, que deberá acreditar la concurrencia de los requisitos anteriormente indicados.
+Estas mismas entidades estarán exentas cuando la información catastral solicitada se destine a la tramitación de procedimientos iniciados a instancia de parte que tengan por objeto la concesión de ayudas y subvenciones públicas.
+2. Asimismo, gozarán de exención:
+a) Las instituciones que soliciten la información catastral para la tramitación de los procedimientos de asistencia jurídica gratuita.
+b) Los notarios y registradores de la propiedad, en los casos previstos en el título V, respecto a datos necesarios para la constancia documental de la referencia catastral.
+c) Las entidades que hayan firmado con la Dirección General del Catastro un convenio o acuerdo de colaboración para el mantenimiento, actualización o generación de la información catastral.
+
+### Artículo 65
+
+Artículo 65. Devengo.
+La tasa de acreditación catastral se devengará en el momento de la entrega del documento acreditativo solicitado por el sujeto pasivo, sin perjuicio de la posibilidad de exigir su depósito previo.
+
+### Artículo 66
+
+Artículo 66. Productos y tarifas.
+1. La cuantía de la tasa de acreditación catastral será:
+a) Por certificaciones catastrales literales: 4 euros por cada documento expedido, que se incrementará en 4 euros por cada uno de los bienes inmuebles a que se refiera el documento.
+b) Por certificaciones catastrales descriptivas y gráficas referidas únicamente a un inmueble, la cuantía será de 15,50 euros por documento expedido. Cuando las certificaciones descriptivas y gráficas incorporen, a petición del interesado, datos de otros inmuebles, la cuantía se incrementará en 4 euros por cada inmueble.
+2. La cuantía de la tasa por las certificaciones a que se refiere el apartado anterior se incrementará en 39 euros cuando incorporen algún dato referido a una fecha anterior en más de cinco años al momento de la solicitud.
+3. No obstante, por cada uno de los documentos que específicamente se relacionan las cuantías de la tasa serán las siguientes:
+a) Ortofotografías en papel fotográfico o diapositiva: 39 euros/unidad.
+b) Ortofotografías en papel opaco: 15,50 euros/unidad.
+c) Ortofotografías en soporte digital: 39 euros /unidad.
+d) Fotografía aérea en positivo por contacto: 11,75 euros/unidad.
+e) Fotografía aérea en papel opaco: 7,75 euros/unidad.
+f) Cartografía en papel opaco DIN A-3 o DIN A-4: 7,75 euros/unidad.
+g) Cartografía en papel opaco en tamaño superior a DIN A-3: 15,50 euros/unidad.
+h) Cartografía en papel reproducible: 39 euros/unidad.
+i) Cartografía digitalizada de bienes inmuebles urbanos y de características especiales: 4 euros/ hectárea.
+j) Cartografía digitalizada de bienes inmuebles urbanos y de características especiales para su transformación y distribución: 6,00 euros por soporte o fichero, más 0,65 euros/hectárea por cada copia que se autorice a distribuir.
+k) Cartografía digitalizada de bienes inmuebles rústicos: 6,00 euros por soporte o fichero, más 0,26 euros/hectárea.
+l) Cartografía digitalizada de bienes inmuebles rústicos para su transformación y distribución: 6,00 euros por soporte o fichero más, por cada copia que se autorice a distribuir, 0,40 euros por cada 10 hectáreas o fracción de cartografía que contenga dicha copia.
+m) Información alfanumérica en formato digital estandarizado: 60 euros/municipio, más 0,0006 euros/registro.
+n) Expedición de copias de información no gráfica de expedientes: 0,50 euros/hoja.
+4. Cuando la obtención del producto solicitado requiera procesar información catastral mediante procedimientos informáticos no estandarizados o distintos de los adecuados para la obtención de los productos descritos en el apartado anterior, la cuantía de la tasa se determinará por agregación de los siguientes componentes:
+a) Cuantía que resulte de las tarifas expresadas en las letras i), j), k), l) y m).
+b) Por cada hora de programación necesaria para la realización de la consulta: 60 euros. Esta cuantía se prorrateará por minutos.
+c) Por cada 1.000 registros procesados o fracción: 0,60 euros.
+Estos productos se suministrarán siempre en soporte magnético.
+Se modifican los apartados 3.j), k) y l) y 4.c), con efectos de 1 de enero de 2007, por el art. 71 de la Ley 42/2006, de 28 de diciembre. Ref. BOE-A-2006-22865
+ Se modifica, con efectos de 1 de enero de 2005, por el art. 3.2 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+## CAPÍTULO III
+
+Liquidación, gestión y pago de las tasas catastrales
+(Suprimido)
+Se suprime la división en capítulos, con efectos de 1 de enero de 2005, por el art. 3.1 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 67
+
+Artículo 67. Liquidación.
+La tasa de acreditación catastral será objeto de liquidación por la Dirección General del Catastro o las Gerencias y Subgerencias del Catastro.
+Se modifica, con efectos de 1 de enero de 2005, por el art. 3.3 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 68
+
+Artículo 68. Gestión.
+La gestión de la tasa de acreditación catastral corresponde a la Dirección General del Catastro o a las Gerencias y Subgerencias del Catastro que expidan las certificaciones o los documentos.
+Se modifica, con efectos de 1 de enero de 2005, por el art. 3.3 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+### Artículo 69
+
+Artículo 69. Pago.
+El pago de la tasa se realizará en efectivo por el procedimiento establecido en la normativa que regula la gestión recaudatoria de las tasas de la Hacienda pública, y deberá justificarse en el momento de la entrega del documento acreditativo solicitado por el sujeto pasivo.
+Se modifica, con efectos de 1 de enero de 2005, por el art. 3.3 de la Ley 4/2004, de 29 de diciembre. Ref. BOE-A-2004-21831
+
+## TÍTULO VIII
+
+De las infracciones y sanciones
+
+### Artículo 70
+
+Artículo 70. Infracciones.
+Constituirán infracción tributaria simple los siguientes hechos o conductas, siempre que no operen como elemento de graduación de la sanción:
+a) La falta de presentación de las declaraciones, no efectuarlas en plazo y la presentación de declaraciones falsas, incompletas o inexactas. Si fueran varios los obligados a presentar una declaración, cumplida la obligación por uno de ellos, se entenderá cumplida por todos.
+b) El incumplimiento del deber de aportar la referencia catastral a que se refiere el artículo 40 de esta Ley, o la aportación de una referencia catastral falsa o falseada. No obstante, los obligados quedan exonerados de responsabilidad cuando dicha referencia no exista o no pueda ser conocida por los medios a los que se refiere el artículo 41.1 de esta Ley o directamente a través de la oficina virtual del Catastro.
+c) El incumplimiento del deber de comunicación a que se refiere el artículo 14.
+d) El incumplimiento del deber de suministrar datos, informes o antecedentes a que se refiere el artículo 36.
+e) La resistencia, excusa o negativa a las actuaciones de la Administración catastral, ya sea en fase de gestión o de inspección.
+Se modifica el párrafo b) por el art. 10.5 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+
+### Artículo 71
+
+Artículo 71. Régimen sancionador.
+1. Las infracciones tipificadas en el artículo anterior se sancionarán con multa de 60 a 6.000 euros, salvo que se trate de la presentación de declaraciones falsas, incompletas o inexactas, o de la conducta prevista en el párrafo d) del citado artículo, en cuyo caso la multa será de seis a 60 euros por cada dato omitido, falseado o incompleto que debiera figurar en las declaraciones o ser aportado en virtud de los requerimientos efectuados y sin que la cuantía total de la sanción pueda exceder de 6.000 euros. Si, como consecuencia de la resistencia del sujeto infractor, la Administración no pudiera conocer la información solicitada ni el número de datos que ésta debiera comprender, la infracción se sancionará con multa de 1.000 a 6.000 euros.
+2. Las sanciones se graduarán atendiendo en cada caso concreto a los siguientes criterios, conforme a las reglas de aplicación que se determinen reglamentariamente:
+a) La comisión repetida de infracciones tributarias.
+b) La resistencia, negativa u obstrucción a la acción investigadora de la Administración catastral.
+c) La utilización de medios fraudulentos en la comisión de la infracción o la comisión de ésta por medio de persona interpuesta. A estos efectos, se considerará medio fraudulento el empleo de documentos falsos o falseados.
+d) La falta de cumplimiento espontáneo o el retraso en el cumplimiento de las obligaciones o deberes formales o de colaboración.
+e) La trascendencia para la eficacia de la gestión catastral de los datos, informes o antecedentes no facilitados y, en general, del incumplimiento de las obligaciones formales y de colaboración o información a la Administración tributaria.
+
+### Disposición adicional única
+
+Disposición adicional única. Renovación del catastro rústico.
+1. Sólo podrá procederse a la determinación de valores catastrales en el ámbito de los bienes inmuebles rústicos con arreglo a lo dispuesto en título II de esta ley, cuando en el respectivo municipio se haya efectuado, previa o simultáneamente, la renovación del Catastro.
+A estos efectos, se considerará ya renovado el Catastro de los bienes inmuebles rústicos de los municipios en los que la rectificación de las características catastrales se realizó sobre ortofotomapa y que disponían de cartografía digitalizada a la entrada en vigor de la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social, cuya relación fue publicada en el "Boletín Oficial del Estado" mediante Resolución de la Dirección General del Catastro, de 9 de mayo de 2002.
+2. La renovación, que se iniciará mediante anuncio publicado en el boletín oficial de la provincia y se desarrollará de oficio, tendrá por objeto la rectificación general, a partir de bases gráficas actualizadas, de las características catastrales de los citados bienes, entre las que se encontrará su valor catastral obtenido de conformidad con lo establecido en la disposición transitoria segunda de esta ley.
+Previo anuncio en el boletín oficial de la provincia, las características catastrales renovadas se expondrán al público en el ayuntamiento durante un plazo mínimo de 15 días. En este período y durante los 15 días siguientes a su finalización los interesados podrán presentar alegaciones.
+La resolución por la que se aprueben las nuevas características catastrales, cuyos efectos se producirán con arreglo a lo dispuesto en el artículo 57.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se notificará a los interesados mediante su publicación en el ayuntamiento por un plazo de 15 días, previo anuncio de exposición en el boletín oficial de la provincia, sin perjuicio de que, si así lo solicitan en el expresado plazo, puedan obtener gratuitamente copia de las características catastrales de sus inmuebles.
+3. Las nuevas características catastrales se incorporarán al padrón catastral del año siguiente a su aprobación.
+El plazo máximo de resolución de este procedimiento será de 18 meses contados a partir de su inicio. No obstante, podrá ampliarse dicho plazo por otros 18 meses por circunstancias excepcionales o cuando se trate de actuaciones que revistan especial complejidad. El incumplimiento de este plazo producirá la caducidad del expediente.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Renovación del catastro rústico.
+1. Sólo podrá procederse a la determinación de valores catastrales en el ámbito de los bienes inmuebles rústicos con arreglo a lo dispuesto en título II de esta ley, cuando en el respectivo municipio se haya efectuado, previa o simultáneamente, la renovación del Catastro.
+A estos efectos, se considerará ya renovado el Catastro de los bienes inmuebles rústicos de los municipios en los que la rectificación de las características catastrales se realizó sobre ortofotomapa y que disponían de cartografía digitalizada a la entrada en vigor de la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social, cuya relación fue publicada en el "Boletín Oficial del Estado" mediante Resolución de la Dirección General del Catastro, de 9 de mayo de 2002.
+2. La renovación, que se iniciará mediante anuncio publicado en el boletín oficial de la provincia y se desarrollará de oficio, tendrá por objeto la rectificación general, a partir de bases gráficas actualizadas, de las características catastrales de los citados bienes, entre las que se encontrará su valor catastral obtenido de conformidad con lo establecido en la disposición transitoria segunda de esta ley.
+Previo anuncio en el boletín oficial de la provincia, las características catastrales renovadas se expondrán al público en el ayuntamiento durante un plazo mínimo de 15 días. En este período y durante los 15 días siguientes a su finalización los interesados podrán presentar alegaciones.
+La resolución por la que se aprueben las nuevas características catastrales, cuyos efectos se producirán con arreglo a lo dispuesto en el artículo 57.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se notificará a los interesados mediante su publicación en el ayuntamiento por un plazo de 15 días, previo anuncio de exposición en el boletín oficial de la provincia, sin perjuicio de que, si así lo solicitan en el expresado plazo, puedan obtener gratuitamente copia de las características catastrales de sus inmuebles.
+3. Las nuevas características catastrales se incorporarán al padrón catastral del año siguiente a su aprobación.
+El plazo máximo de resolución de este procedimiento será de 18 meses contados a partir de su inicio. No obstante, podrá ampliarse dicho plazo por otros 18 meses por circunstancias excepcionales o cuando se trate de actuaciones que revistan especial complejidad. El incumplimiento de este plazo producirá la caducidad del expediente.
+Se numera como disposición adicional primera por la disposición final 18.13 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Colaboración de notarios y registradores.
+Mediante Orden del Ministro de Presidencia, dictada a propuesta de los Ministros de Economía y Hacienda y de Justicia se desarrollarán los aspectos procedimentales que sean precisos para dar cumplimiento a las obligaciones establecidas en esta Ley, siempre que no se hayan previsto en ésta de modo específico otros desarrollos normativos.
+Se añade por la disposición final 18.13 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Procedimiento de regularización catastral.
+1. Sin perjuicio de lo establecido en el artículo 11 de este Texto Refundido, la incorporación al Catastro Inmobiliario de los bienes inmuebles urbanos y de los bienes inmuebles rústicos con construcción, así como de las alteraciones de sus características, podrá realizarse mediante el procedimiento de regularización catastral.
+Este procedimiento se iniciará de oficio en los supuestos de incumplimiento de la obligación de declarar de forma completa y correcta las circunstancias determinantes de un alta o modificación, con el fin de garantizar la adecuada concordancia de la descripción catastral de los bienes inmuebles con la realidad inmobiliaria.
+Será de aplicación el procedimiento de regularización, en lo no previsto por esta disposición, el régimen jurídico establecido en los artículos 11 y 12 de este Texto Refundido.
+2. El procedimiento de regularización se aplicará en aquellos municipios y durante el período que se determinen mediante resolución de la Dirección General del Catastro, que deberá publicarse en el “Boletín Oficial del Estado”. No obstante, el plazo previsto en dicha resolución podrá ser ampliado por decisión motivada del mismo órgano, que igualmente habrá de ser publicada en el “Boletín Oficial del Estado”.
+Una vez publicada en el “Boletín Oficial del Estado” la citada resolución y durante el período al que se refiere la misma, las declaraciones que se presenten fuera del plazo previsto por la correspondiente normativa no serán objeto de tramitación conforme al procedimiento de incorporación mediante declaraciones regulado en el artículo 13, sin perjuicio de que la información que en ellas se contenga y los documentos que las acompañen se entiendan aportados en cumplimiento del deber de colaboración previsto en el artículo 36 y sean tenidos en cuenta a efectos del procedimiento de regularización.
+Las actuaciones objeto de regularización quedarán excluidas de su tramitación a través de fórmulas de colaboración.
+3. La tramitación del procedimiento de regularización se realizará conforme a las siguientes previsiones:
+a) El procedimiento de regularización se iniciará de oficio por acuerdo del órgano competente. La iniciación se comunicará a los interesados, a quienes se concederá un plazo de 15 días para que formulen las alegaciones que estimen convenientes.
+Sin perjuicio del deber de colaboración regulado en el artículo 36 de este Texto Refundido, las actuaciones podrán entenderse con los titulares de los derechos previstos en el artículo 9, aún cuando no se trate de los obligados a realizar la declaración.
+b) En aquellos supuestos en que no existan terceros afectados por el procedimiento, éste podrá iniciarse directamente con la notificación de la propuesta de regularización, junto con la liquidación de la tasa de regularización catastral prevista en el apartado 8. En dicha propuesta de regularización se incluirá una referencia expresa al presente precepto y a los recursos que procedan frente a la resolución definitiva.
+El expediente se pondrá de manifiesto a los interesados para la presentación de las alegaciones que estimen oportunas durante un plazo de 15 días desde la fecha de la notificación. Cuando, transcurrido este plazo, los interesados no hayan formulado alegaciones, la propuesta de regularización se convertirá en definitiva y se procederá al cierre y archivo del expediente, entendiéndose dictado y notificado el correspondiente acuerdo de alteración contenido en la propuesta de regularización desde el día siguiente al de finalización del mencionado plazo.
+c) La notificación a los interesados se practicará de conformidad con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria. El plazo máximo en que debe notificarse la resolución expresa será de seis meses desde que se notifique a los interesados el acuerdo de iniciación o la propuesta de regularización. El vencimiento del plazo máximo de resolución determinará la caducidad del expediente y el archivo de todas las actuaciones.
+4. La incorporación en el Catastro de los bienes inmuebles o la modificación de su descripción resultante de la regularización, tendrá eficacia desde la fecha en que se produjeron los hechos, actos o negocios que originen la incorporación o modificación catastral, con independencia del momento en que se notifiquen, sin perjuicio de lo dispuesto en el párrafo tercero de la disposición adicional cuarta para aquellos bienes inmuebles que tengan naturaleza rústica y cuenten con construcciones indispensables para el desarrollo de las explotaciones agrícolas, ganaderas o forestales.
+5. La regularización de la descripción catastral de los inmuebles en virtud del procedimiento regulado en esta disposición, excluirá la aplicación de las sanciones que hubieran podido exigirse por el incumplimiento de la obligación de declarar de forma completa y correcta las circunstancias determinantes del alta o modificación de los mismos.
+6. La determinación de la base liquidable del Impuesto sobre Bienes Inmuebles para los bienes que sean objeto de regularización se realizará por la Dirección General del Catastro conforme a lo previsto en los artículos 67.1.b).4.º y concordantes del Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
+7. Las actuaciones desarrolladas en el procedimiento de regularización tendrán la consideración de trabajos de formación y mantenimiento del Catastro Inmobiliario a efectos de lo previsto en la disposición adicional décima de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+8. Se crea la tasa de regularización catastral, con el carácter de tributo estatal, que se rige por lo dispuesto en esta disposición y por las demás fuentes normativas que se establecen en el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos:
+a) Hecho imponible: Constituye el hecho imponible de esta tasa la regularización de la descripción de los bienes inmuebles resultante del procedimiento que se establece en esta disposición.
+b) Sujetos pasivos: Serán sujetos pasivos de la tasa de regularización las personas físicas o jurídicas y los entes a los que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria que, de conformidad con lo previsto en el Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, deban tener la condición de sujeto pasivo del Impuesto sobre Bienes Inmuebles en el ejercicio en el que se haya iniciado el procedimiento de regularización.
+c) Devengo: La tasa de regularización catastral se devengará con el inicio del procedimiento de regularización.
+d) Cuantía: La cuantía de la tasa de regularización catastral será de 60 euros por inmueble objeto del procedimiento.
+e) Gestión: La gestión de la tasa de regularización catastral corresponde a la Dirección General del Catastro.
+f) Recaudación: La recaudación de la tasa se efectuará conforme a lo dispuesto en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y su normativa de desarrollo.
+Se modifica el apartado 4 por el art. 14.6 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifica el título y el apartado 2 por la disposición final 20.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
+ Se añade por el art. 16.3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Valoración de las construcciones indispensables para el desarrollo de explotaciones agrícolas, ganaderas o forestales ubicadas en suelo rústico.
+En aquellos municipios en los que no se haya realizado un procedimiento de valoración colectiva de carácter general con posterioridad al 1 de enero de 2006, a partir de la publicación de la resolución a la que se refiere el apartado 2 de la disposición adicional tercera, se determinará un nuevo valor catastral para aquellos bienes inmuebles que, con arreglo a la normativa anterior a la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, tengan naturaleza rústica y cuenten con construcciones indispensables para el desarrollo de las explotaciones agrícolas, ganaderas o forestales.
+Estos valores, en tanto no se aprueben las nuevas normas reglamentarias de valoración de inmuebles rústicos, se obtendrán por la aplicación de las reglas contenidas en la disposición transitoria primera, referidas a la ponencia de valores vigente en el municipio.
+Los valores tendrán efectividad el día 1 de enero siguiente a aquel en que se publique la mencionada resolución, con independencia de la fecha en que se notifiquen.
+Se modifica por el art. 2.19 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se añade por el art. 16.4 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Anuncios de notificación por comparecencia
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+ Se añade por el art. 9.2 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Clasificación de bienes inmuebles y contenido de las descripciones catastrales.
+1. La clasificación de bienes inmuebles rústicos y urbanos establecida por esta Ley será de aplicación a partir del primer procedimiento de valoración colectiva de carácter general que se realice con posterioridad al 1 de enero de 2003, manteniendo hasta ese momento los inmuebles que figuren o se den de alta en el Catastro la naturaleza que les correspondería conforme a la normativa anterior a la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, sin perjuicio de lo dispuesto en la disposición transitoria séptima.
+No obstante lo dispuesto en el párrafo anterior, las construcciones ubicadas en suelo rústico que no resulten indispensables para el desarrollo de las explotaciones agrícolas, ganaderas o forestales, mantendrán su naturaleza urbana hasta la realización, con posterioridad al 1 de enero de 2006, de un procedimiento de valoración colectiva de carácter general, cualquiera que sea la clase de inmuebles a los que éste se refiera, o de carácter parcial que los incluya expresamente.
+En estos casos se determinará simultáneamente un nuevo valor catastral para todos aquellos inmuebles que cuenten con una construcción en suelo de naturaleza rústica, con la excepción de aquellos cuyo valor haya sido determinado de acuerdo con lo dispuesto en la disposición adicional cuarta de esta Ley. Estos valores, en tanto no se aprueben las nuevas normas reglamentarias de valoración de inmuebles rústicos, se obtendrán por la aplicación de las siguientes reglas:
+a) El valor del suelo de la superficie ocupada por las construcciones se determinará por aplicación de los módulos específicos que se aprueben por Orden del Ministro de Hacienda y Administraciones Públicas.
+b) El valor de la construcción se obtendrá por aplicación de idénticas reglas a las que se determinen para la obtención del valor de las construcciones de los bienes inmuebles urbanos en la ponencia de valores de la que trae causa el procedimiento de valoración colectiva.
+c) El valor catastral del inmueble resultará de la suma de dos componentes, de las cuales el primero se calculará mediante la suma de los valores resultantes de las reglas anteriores afectada por el coeficiente de referencia al mercado vigente para los inmuebles urbanos, y el segundo estará constituido, en su caso, por el valor catastral vigente del suelo del inmueble no ocupado por construcciones.
+En defecto de norma específica, al procedimiento de determinación del valor catastral y de la base liquidable del Impuesto sobre Bienes Inmuebles de los inmuebles rústicos a que se refiere este apartado le será de aplicación la regulación propia del procedimiento de valoración colectiva de carácter general o parcial, especialmente en lo relativo a la competencia para la determinación del valor catastral y de la base liquidable, a la realización del trámite de audiencia, a la notificación y efectividad de los valores catastrales y bases liquidables y a la impugnación de los actos que se dicten.
+En los municipios en los que se realice el procedimiento de valoración colectiva a que se refiere este apartado y hasta que entre en vigor el citado desarrollo reglamentario, se aplicarán estas mismas reglas a la valoración tanto de las variaciones que experimenten las construcciones en suelo rústico, como de las nuevas construcciones que sobre el mismo se levanten.
+2. Los bienes inmuebles de características especiales que, a la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, constaran en el Catastro Inmobiliario conforme a su anterior naturaleza, mantendrán, hasta la entrada en vigor de los nuevos valores resultantes de las ponencias especiales que se aprobarán antes del 31 de diciembre de 2007 su valor catastral, sin perjuicio de su actualización cuando proceda, así como el régimen de valoración.
+La incorporación al Catastro Inmobiliario de los restantes inmuebles que, conforme a esta Ley, tengan la condición de bienes inmuebles de características especiales se practicará antes del 31 de diciembre de 2005.
+3. La descripción de los bienes inmuebles contenida en el Catastro Inmobiliario a la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, se mantendrá hasta que tenga lugar la práctica de otra posterior conforme a los procedimientos de incorporación regulados en esta ley o hasta que por cualquier otro medio se modifique, sin perjuicio de la actualización de valores.
+No obstante, será a partir del 1 de enero de 2005 cuando se incorporen las titularidades que correspondan conforme a los supuestos y reglas de esta ley, siempre que así resulte de los procedimientos de declaración, comunicación, solicitud, subsanación de discrepancias e inspección catastral previstos en ella e iniciados con posterioridad a la citada fecha.
+Se modifican los apartados 1 y 2 por el art. 2.20 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se amplía el plazo del primer párrafo del apartado 2 por la disposición adicional 7.4 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023
+ Téngase en cuenta que la entrada en vigor de esta modificación es el 6 de julio de 2007 en lugar de 1 de enero de 2008, según establece la disposición final 2 de la Ley 16/2007, de 4 de julio, en la redacción dada por la disposición final 4.2 de la Ley 34/2007, de 15 de noviembre. Ref. BOE-A-2007-19744.
+ Se modifica el apartado 1 por el art. 10.6 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843
+ Se modifican los apartados 1 y 2, con efectos de 1 de enero de 2005, por la disposición adicional 34.7 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Valoración catastral de bienes inmuebles rústicos.
+1. Lo establecido en el título II de esta Ley para la determinación del valor catastral queda en suspenso respecto a los bienes inmuebles rústicos hasta que mediante ley se establezca la fecha de su aplicación.
+Hasta ese momento, el valor catastral de los referidos bienes será el resultado de capitalizar al tres por ciento el importe de las bases liquidables vigentes para la exacción de la Contribución Territorial Rústica y Pecuaria correspondiente al ejercicio 1989, obtenidas mediante la aplicación de los tipos evaluatorios de dicha contribución, prorrogados en virtud del Real Decreto-Ley 7/1988, de 29 de diciembre, sobre prórroga y adaptación urgentes de determinadas normas tributarias o de los que se hayan aprobado posteriormente en sustitución de ellos, y sin perjuicio de su actualización anual mediante los coeficientes establecidos y los que establezcan las Leyes de Presupuestos Generales del Estado, una vez incorporadas las alteraciones catastrales que hayan experimentado o experimenten en cada ejercicio.
+Estos tipos evaluatorios, correspondientes a los distintos cultivos y aprovechamientos, se recogerán para su aplicación en los cuadros nacional, provinciales y municipales, aprobados mediante resolución del director general del Catastro.
+2. No obstante lo dispuesto en el apartado anterior, tratándose de inmuebles rústicos cuyo suelo haya sido clasificado como urbanizable por los instrumentos de ordenación territorial y urbanística aprobados o cuando éstos prevean o permitan su paso a la situación de suelo urbanizado, siempre que se incluyan en sectores o ámbitos espaciales delimitados y en tanto no cuenten con determinaciones de ordenación detallada o pormenorizada, la valoración catastral se realizará mediante la aplicación de los módulos que, en función de su localización, se establezcan por Orden del Ministro de Hacienda y Administraciones Públicas.
+En tanto se dicta dicha orden ministerial, el valor catastral del suelo de la parte del inmueble afectada por dicha clasificación y no ocupada por construcciones, será el resultado de multiplicar la citada superficie por el valor unitario obtenido de aplicar un coeficiente de 0,60 a los módulos de valor unitario de suelo determinados para cada municipio para los usos distintos del residencial o industrial, de acuerdo a los artículos 1 y 2 de la Orden EHA/3188/2006, de 11 de octubre, por la que se determinan los módulos de valoración a efectos de lo establecido en el artículo 30 y en la disposición transitoria primera del Texto Refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, y por el coeficiente de referencia al mercado de 0,5.
+Estos criterios de valoración serán de aplicación a los inmuebles rústicos afectados a partir del primer procedimiento simplificado de valoración colectiva que se inicie con posterioridad a la entrada en vigor de la Ley 13/2015, de 24 de junio. de reforma de la Ley Hipotecaria aprobada por Decreto de 8 de febrero de 1946 y del texto refundido de la Ley del Catastro Inmobiliario aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+Se modifica el apartado 1 por la disposición final 18 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-19
+ Se modifica por el art. 2.21 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Constancia documental y registral de la referencia catastral de bienes inmuebles rústicos.
+No será de aplicación lo establecido en el título V de esta ley a los bienes inmuebles rústicos situados en los municipios en los que no haya finalizado la renovación del Catastro Rústico conforme a lo previsto en la disposición adicional única de esta ley.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Normativa preexistente.
+Hasta tanto se lleven a efecto las previsiones de desarrollo reglamentario contenidas en esta ley, continuarán en vigor, en cuanto no se opongan a ésta, las normas reglamentarias existentes, así como cualquier otra dictada en desarrollo de la normativa anterior a la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario.
+Las referencias contenidas en dicha normativa anterior a revisiones catastrales, fijaciones, revisiones y modificaciones de valores y modificaciones de ponencias se entenderán hechas a los procedimientos de valoración colectiva general o parcial, o, en su caso, al procedimiento de determinación del valor catastral de los bienes inmuebles de características especiales, y las realizadas a alteraciones de orden físico, económico o jurídico concerniente a los bienes inmuebles, a los hechos, actos o negocios susceptibles de incorporación en el Catastro Inmobiliario. Igualmente, las referencias anteriores a los cambios de cultivo o aprovechamiento se entenderán realizadas a los cambios de clase de cultivo o aprovechamiento.
+De igual forma, las referencias al procedimiento previsto para cambios de naturaleza y aprovechamiento en el artículo 71.3 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, en su redacción dada por la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, se entenderán hechas al procedimiento simplificado de valoración colectiva.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Procedimientos en tramitación.
+1. A los procedimientos iniciados antes de la entrada en vigor de la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario, ésta no les será de aplicación, ni tampoco esta ley, rigiéndose por la normativa anterior.
+2. Los procedimientos de rectificación general de las características catastrales de los bienes inmuebles de naturaleza rústica iniciados y no finalizados a la entrada en vigor de la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social, se regirán por lo establecido en la disposición adicional única de esta ley, incluido el plazo máximo de 18 meses para la resolución del procedimiento, si bien éste comenzará a contarse a partir del 1 de enero de 2002.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Referencias a la Ley General Tributaria.
+Hasta la entrada en vigor de la Ley 58/2003, de 17 de diciembre, General Tributaria, las remisiones a dicha norma contenidas en esta ley se entenderán realizadas a la Ley 230/1963, de 28 de diciembre, General Tributaria, y a la Ley 1/1998, de 26 de febrero, de Derechos y Garantías de los Contribuyentes. En particular, las remisiones contenidas en el apartado 1 del artículo 16, en el apartado 2 del artículo 29 y en los apartados 1 y 2 del artículo 36 de esta ley se entenderán realizadas, respectivamente, al artículo 116, a los apartados 4 y 5 del artículo 105 y a los artículos 111 y 112 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Régimen transitorio para la aplicación de la modificación de la letra b) del apartado 2 del artículo 7.
+El cambio de naturaleza de los bienes inmuebles urbanos cuya clasificación no se corresponda con la letra b) del apartado 2 del artículo 7 en la redacción dada al mismo por la Ley 13/2015, de 24 de junio, de reforma de la Ley Hipotecaria aprobada por Decreto de 8 de febrero de 1946 y del texto refundido de la Ley del Catastro Inmobiliario aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, será de aplicación a partir del primer procedimiento simplificado de valoración colectiva que se inicie con posterioridad a su entrada en vigor. A tales efectos los Ayuntamientos deberán suministrar a la Dirección General del Catastro información sobre los suelos que se encuentren afectados. Dicho procedimiento se ajustará a lo dispuesto en la letra g) del apartado 2 del artículo 30, con excepción de su efectividad, que tendrá lugar el 1 de enero del año en que se inicie dicho procedimiento.
+Los inmuebles rústicos que a la entrada en vigor de la Ley 13/2015, de 24 de junio, de reforma de la Ley Hipotecaria aprobada por Decreto de 8 de febrero de 1946 y del texto refundido de la Ley del Catastro Inmobiliario aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, se encuentren en la situación prevista en el apartado 2 de la disposición transitoria segunda, se podrán valorar de acuerdo con los criterios contenidos en dicho apartado a través del procedimiento simplificado de valoración colectiva previsto en la letra h) del apartado 2 del artículo 30, con excepción de su efectividad, que tendrá lugar el 1 de enero del año en que se inicie dicho procedimiento.
+Se modifica por el art. 2.22 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
+ Se añade, con efectos de 1 de enero de 2005, por la disposición adicional 34.8 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Utilización de medios electrónicos.
+La vigencia de los plazos previstos en los artículos 18.2, 36.3, 46.2, 47.2 y 48.5 de esta Ley se producirá transcurrido un año desde la entrada en vigor de la Ley de Economía Sostenible. Entre tanto, serán de aplicación los plazos establecidos en dichos artículos conforme a la redacción vigente a la entrada en vigor de dicha Ley.
+Se añade por la disposición final 18.14 de la ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Régimen transitorio para la determinación del valor de referencia de cada inmueble.
+En tanto no se apruebe el desarrollo reglamentario, la aplicación de los módulos de valor medio previstos en la disposición final tercera para la determinación del valor de referencia de cada inmueble se realizará de acuerdo con las siguientes directrices:
+a) Para los bienes inmuebles urbanos, los criterios y reglas de cálculo se ajustarán a lo previsto en las normas técnicas de valoración y cuadro marco de valores del suelo y de las construcciones para determinar el valor catastral de los bienes inmuebles de naturaleza urbana.
+Serán de aplicación los módulos básicos de suelo y construcción de cada municipio, que se aprueben de acuerdo con las directrices dictadas para la coordinación de valores.
+Los valores de suelo de zona permitirán la reproducción de los módulos de valor medio de los productos inmobiliarios representativos en cada ámbito territorial homogéneo de valoración.
+La resolución a aprobar por la Dirección General del Catastro definirá su ámbito de aplicación y concretará criterios y reglas de cálculo, módulos básicos de suelo y construcción, valores de suelo de zona y costes de construcción, así como, en su caso, campos de aplicación de coeficientes correctores.
+b) Para los inmuebles rústicos sin construcciones, la resolución a aprobar por la Dirección General del Catastro definirá su ámbito de aplicación, y concretará criterios y reglas de cálculo, así como, en su caso, importes y campos de aplicación de coeficientes correctores de localización, agronómicos y socioeconómicos.
+El informe anual del mercado inmobiliario al que hace referencia la disposición final tercera determinará los coeficientes correctores aplicables, así como sus importes.
+Se modifica por el art. 14.7 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se modifica por la disposición final 20.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
+ Se modifica por la disposición final 4 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se añade por el art. 16.5 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Esta ley se dicta al amparo de lo establecido en el artículo 149.1.14.ª de la Constitución Española.
+
+### Disposición final segunda
+
+Disposición final segunda. Facultad de desarrollo de la ley.
+Se faculta al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Valor de referencia.
+La Dirección General del Catastro determinará de forma objetiva y con el límite del valor de mercado, a partir de los datos obrantes en el Catastro, el valor de referencia, resultante del análisis de los precios comunicados por los fedatarios públicos en las compraventas inmobiliarias efectuadas.
+A este efecto, incluirá las conclusiones del análisis de los citados precios en un informe anual del mercado inmobiliario, y en un mapa de valores que contendrá la delimitación de ámbitos territoriales homogéneos de valoración, a los que asignará módulos de valor medio de los productos inmobiliarios representativos. El citado mapa se publicará en la sede electrónica de la Dirección General del Catastro.
+Con el fin de que el valor de referencia de los inmuebles no supere el valor de mercado se fijará, mediante orden de la Ministra de Hacienda, un factor de minoración al mercado para los bienes de una misma clase.
+Con periodicidad anual, la Dirección General del Catastro aprobará, mediante resolución, los elementos precisos para la determinación del valor de referencia de cada inmueble por aplicación de los citados módulos de valor medio y de los factores de minoración correspondientes, en la forma en la que reglamentariamente se determine.
+Esta resolución se publicará por edicto en la Sede Electrónica de la Dirección General del Catastro antes del 30 de octubre del año anterior a aquel en que deba surtir efecto, previo trámite de audiencia colectiva. A este efecto, se publicará un edicto en el «Boletín Oficial del Estado» en el que se anunciará la apertura del mencionado trámite por un periodo de diez días, durante el cual los interesados podrán presentar las alegaciones y pruebas que estimen convenientes.
+La citada resolución será recurrible en vía económico-administrativa, o potestativamente mediante recurso de reposición, por los interesados y en el plazo de un mes desde su publicación, sin que la interposición de la reclamación suspenda su ejecución.
+En los 20 primeros días del mes de diciembre, la Dirección General del Catastro publicará en el ''Boletín Oficial del Estado'' anuncio informativo para general conocimiento de los valores de referencia de cada inmueble, que, al no tener condición de datos de carácter personal, podrán ser consultados de forma permanente a través de la Sede Electrónica del Catastro.
+Se modifica por el art. 14.8 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
+ Se añade por la disposición final 20.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21

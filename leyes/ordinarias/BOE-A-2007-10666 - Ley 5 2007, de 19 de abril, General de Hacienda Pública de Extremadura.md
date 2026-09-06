@@ -1,0 +1,1979 @@
+# Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura.
+
+- Identificador BOE: `BOE-A-2007-10666`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-10666
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 49.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Constitución Española de 1978 consagra en su artículo 156 el principio de autonomía financiera de las Comunidades Autónomas para el desarrollo y ejecución de sus competencias, con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.
+La Comunidad Autónoma de Extremadura, asumió el ejercicio de su autogobierno regional a través de la Ley Orgánica 1/1983, de 25 de febrero, de aprobación de su Estatuto de Autonomía, el cual constituye su norma institucional básica, dedicando su Título V a regular los principios inspiradores de la Hacienda Autonómica.
+La primera plasmación sistemática y completa de la ordenación de la Hacienda Autonómica se efectuó en la Ley 3/1985, de 19 de abril, General de Hacienda Pública de Extremadura, en cuya exposición de motivos se afirma que «la aprobación del Estatuto de Autonomía impone la necesidad de sentar como punto de partida para ulterior desarrollo legislativo en materia económico-financiera el de una Ley General de Hacienda Pública, que sin perjuicio de su inspiración en la Ley General Presupuestaria del Estado se adapte a nuestras necesidades y peculiaridades regionales».
+El transcurso de los más de veinte años que distan de aquel momento ha motivado que la Ley haya dejado de cumplir la misión que motivó su creación: servir como documento jurídico de referencia en la regulación del funcionamiento financiero del sector público autonómico. Y ello por diversos motivos.
+En primer lugar, porque desde su aprobación las sucesivas Leyes de Presupuestos de la Comunidad han ido modificando aspectos concretos de su configuración inicial, lo que ha dificultado su comprensión y generado cierta inseguridad jurídica en su aplicación cotidiana.
+En segundo lugar, porque en este periodo de tiempo transcurrido el sector público autonómico ha aumentado sus dimensiones a medida que el marco competencial se ha ido ampliando con el traspaso de funciones y servicios procedentes del Estado, y como consecuencia de ello se han incorporado al mismo una diversidad de entidades públicas, algunas con regímenes económico-financieros específicos, por lo que es necesario adaptar el marco regulador de la actividad económico-financiera al escenario actual en que se desarrolla aquélla.
+Además, la normativa estatal en la que se inspiró, la Ley General Presupuestaria de 1977, en la actualidad se encuentra completamente desfasada. Prueba de ello es la aprobación en el año 2003 de la vigente Ley General Presupuestaria, que configura un novedoso régimen hacendístico para la Administración General del Estado.
+En el ámbito del ordenamiento jurídico autonómico extremeño, los cambios que se han producido en la regulación de la Administración Institucional tras la promulgación de la Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura, no han tenido reflejo en la Ley 3/1985, lo que ha determinado la obsolescencia de muchos de los conceptos contenidos en la misma, algunos de ellos de especial importancia.
+Junto a las razones expuestas, que por sí solas harían ineludible la necesidad de abordar la elaboración de una nueva Ley, existen otras que justifican su aprobación, como la introducción de las modernas teorías y técnicas de presupuestación en el ámbito de la gestión pública, especialmente las que van encaminadas a recoger el principio de plurianualidad.
+De todo lo anterior se deduce la conveniencia de que la Comunidad Autónoma de Extremadura se dote en el momento actual de la normativa necesaria para la adecuada regulación del funcionamiento económico-financiero del sector público autonómico.
+II
+La presente Ley mantiene la estructura de la anterior Ley reguladora de la Hacienda Pública de Extremadura, si bien aglutina en un solo título la regulación de la Tesorería, el endeudamiento y los avales, dividiéndose así en seis títulos:
+Título Preliminar. Principios Generales.
+Título I. Del régimen de Hacienda de la Comunidad Autónoma de Extremadura.
+Título II. Del Presupuesto.
+Título III. De la Tesorería, del endeudamiento y de los avales.
+Título IV. De la contabilidad.
+Título V. De la Intervención.
+Título VI. De las responsabilidades.
+En concreto, la Ley se compone de ciento cincuenta y nueve artículos, tres disposiciones adicionales, una disposición derogatoria y dos disposiciones finales.
+El Título Preliminar, denominado «Principios Generales», se inicia con la definición del objeto de la Ley y del sector público autonómico como ámbito sobre el que actúa la Ley, y su división en tres subsectores: administrativo, empresarial y fundacional.
+De esta forma se recoge, por un lado, la nomenclatura utilizada por la Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura, y al mismo tiempo se definen algunos de los sujetos del sector público autonómico que carecían hasta el momento de esta conceptualización.
+El artículo 4 establece una definición de la Hacienda de la Comunidad Autónoma y de los derechos que la integran, concepto esencial para la aplicación de la regulación contenida en el resto del articulado de la Ley.
+Los artículos 8 al 12 recogen una relación de las competencias de los órganos e instituciones que intervienen en la actividad económico-financiera de la Administración autonómica, la cual debe completarse con aquellas otras competencias que les son atribuidas en los distintos títulos reguladores de las materias que son objeto de esta Ley.
+El Título I, relativo al «Régimen de la Hacienda de la Comunidad Autónoma de Extremadura», se divide en dos capítulos; el primero destinado a los derechos de la Hacienda Pública de Extremadura, se inicia con una relación de los mismos, de igual forma que el artículo 57 del Estatuto de Autonomía, y contiene una distinción del régimen aplicable en función de su naturaleza pública o privada, si bien también se establecen una serie de normas comunes a ambos.
+El segundo capítulo, relativo a las obligaciones de la Hacienda Pública, determina el nacimiento, extinción y exigibilidad de las obligaciones, así como las prerrogativas de la Administración Autonómica en relación a las mismas.
+Sin duda es en el Título II relativo al «Presupuesto» donde la nueva regulación implica un mayor cambio sobre la que contenía la Ley 3/1985, tanto desde el punto de vista cuantitativo como cualitativo.
+Como ya se ha expresado anteriormente, el contenido de este título debía ser objeto de una profunda adaptación al régimen presupuestario que está vigente en nuestro país, en el marco de los criterios fijados por la Unión Europea y las normas básicas del Estado sobre estabilidad presupuestaria, lo que obliga a una mayor racionalización del proceso presupuestario.
+Por ello, aborda una regulación completa de todo el ciclo presupuestario, que se inicia con el establecimiento de una serie de principios aplicables a la programación y gestión presupuestaria.
+Se incluye dentro del proceso presupuestario la figura de la programación presupuestaria mediante la fijación de escenarios presupuestarios plurianuales y los objetivos que se pretenden alcanzar.
+En el capítulo tercero, que aborda la elaboración de los Presupuestos, se contiene una definición de los créditos y los programas presupuestarios, se determina la estructura del presupuesto de ingresos y de gastos, y se regula el procedimiento de elaboración de los Presupuestos y la documentación que tiene que acompañar al proyecto de ley.
+El capítulo cuarto, «De los créditos y sus modificaciones», recoge los principios de especialidad cuantitativa y cualitativa de los créditos y las reglas sobre las vinculaciones jurídicas de los mismos. De especial interés es la regulación de los compromisos de gasto de carácter plurianual, adaptada al régimen que estos últimos años habían venido estableciendo a este respecto las Leyes de Presupuestos de la Comunidad Autónoma.
+Junto a ello se definen los distintos supuestos de modificaciones de crédito contemplados en la ley: las transferencias, generaciones, ampliaciones e incorporaciones de créditos y los créditos extraordinarios, al tiempo que se suprime la figura de los suplementos de crédito, que se reconduce dentro de estos últimos. La razón de esta reconducción es que el rango distintivo que existía entre ambas figuras de la existencia previa de crédito en el caso de los suplementos de crédito se ha difuminado por los propios mecanismos de redistribución de los créditos que posibilita la normativa vigente.
+También dentro de este capítulo se da carácter estable a la distribución de competencias en materia de modificaciones de créditos, que anualmente se recogía en la Ley de Presupuestos de la Comunidad Autónoma de Extremadura, siendo destacable como novedad la atribución al Consejo de Gobierno de la competencia para conceder créditos extraordinarios hasta el límite máximo del 2% del presupuesto inicial consolidado ante situaciones de urgencia e imprevistas y siempre que se financien con recursos distintos al endeudamiento.
+El capítulo sexto, referente a la gestión presupuestaria, contiene los principios aplicables a la gestión económico-financiera, la gestión por objetivos, y consecuentemente con ello, se establece la obligación de los titulares de los centros gestores del gasto de elaborar un balance de resultados y un informe de gestión relativo al cumplimiento de los objetivos asignados a su área de actuación. También este capítulo relaciona y define las distintas fases de la gestión de los gastos.
+El Título III engloba la regulación de la Tesorería, el endeudamiento y los avales en tres capítulos separados. El primero, relativo a la Tesorería, define y delimita sus funciones, así como la Caja General de Depósitos, las relaciones con las entidades de crédito, el procedimiento y los medios de pago, los embargos sobre los derechos de cobro, y el Plan de Disposición de Fondos de Tesorería, al que habrán de acomodarse la expedición de las órdenes de pago.
+El capítulo segundo, «Del Endeudamiento», de capital importancia en una norma como ésta que debe respetar el principio de estabilidad presupuestaria plasmado en las normas comunitarias y estatales vigentes, destina su sección 1.ª establecer las normas generales en esta materia, la segunda al endeudamiento de la Administración autonómica, sus organismos autónomos y el resto de los entes públicos con presupuesto limitativo, y la sección tercera a las entidades pertenecientes al sector administración pública según las prescripciones del Sistema Europeo de Cuentas Nacionales y Regionales y otras entidades del sector público autonómico.
+El capítulo tercero establece una regulación de los avales que se podrán conceder por parte de los distintos entes integrantes del sector público autonómico, siguiendo el mismo planteamiento establecido en el capítulo anterior.
+Los Títulos IV y V se dedican, respectivamente, a la contabilidad y a la intervención, conservando prácticamente la actual regulación de dichas materias, con las mínimas adecuaciones necesarias para adaptarla a los aspectos novedosos de esta Ley.
+Así, la contabilidad es objeto de regulación en el Título IV, donde se contiene un capítulo I relativo a normas generales, un capítulo II que establece una distribución de las competencias en esta materia y, finalmente, el capítulo III, «Información contable», se divide a su vez en dos secciones, relativas respectivamente a la elaboración, verificación y control de las cuentas, y a la Cuenta General de la Comunidad Autónoma.
+El Título V, denominado «De la intervención», mantiene, en general, el contenido de la Ley 3/1985, estructurándose en tres capítulos, dedicados a las normas generales en esta materia, a la función interventora previa y al control financiero.
+El último Título de la Ley, el VI, está dedicado a las responsabilidades derivadas de la causación de un daño o perjuicio a la Hacienda Pública autonómica o a las entidades integrantes del sector público autonómico, ampliándose el ámbito subjetivo de la anterior regulación tanto desde el punto de vista de los autores como de los entes públicos afectados, estableciendo distintas responsabilidades en función de si concurre en la actuación infractora dolo o culpa grave, y regulándose específicamente la responsabilidad de los interventores y ordenadores de pago.
+Se establecen asimismo tres disposiciones adicionales, que se dedican respectivamente, la primera a clarificar el régimen jurídico de los organismos autónomos creados con anterioridad al nuevo diseño de la Administración Institucional operado por la Ley 1/2002, la segunda a determinar la gestión económica de los centros docentes públicos no universitarios y la tercera a la gestión de los gastos de la Política Agraria Común.
+La disposición derogatoria única deroga expresamente la anterior Ley General de la Hacienda Pública de Extremadura y cuantas normas de igual o inferior rango se opongan a lo que dispone esta Ley; mientras las dos disposiciones finales contienen habilitaciones normativas para el desarrollo de la presente Ley y el régimen especial de su entrada en vigor.
+Se modifica el párrafo diecisiete del epígrafe II por la disposición final 2.1 del Decreto-ley 1/2022, de 2 de marzo de 2022. Ref. BOE-A-2022-6453#df-2
+
+## TÍTULO PRELIMINAR
+
+Principios Generales
+
+## CAPÍTULO I
+
+Ámbito de aplicación y organización del sector público autonómico
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Constituye el objeto de esta Ley la regulación del régimen presupuestario, económico-financiero, de contabilidad y de control interno del sector público autonómico.
+
+### Artículo 2
+
+Artículo 2. Sector público autonómico.
+1. A los efectos de esta ley forman parte del sector público autonómico:
+a) La Junta de Extremadura o Administración general de la comunidad.
+b) La Asamblea de Extremadura y otras instituciones estatutarias, según lo establecido en el artículo 15 de la Ley Orgánica 1/2011, de 28 de enero, de Reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura.
+c) El sector público institucional autonómico.
+2. Integran el sector público institucional autonómico las siguientes entidades:
+a) Los organismos públicos vinculados o dependientes de la Junta de Extremadura, los cuales se clasifican en:
+1.º Organismos autónomos.
+2.º Entidades públicas empresariales.
+b) Las empresas públicas creadas a tenor de lo dispuesto en el artículo 75 de la Ley Orgánica 1/2011, de 28 de enero, de Reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura.
+c) Las sociedades mercantiles autonómicas.
+d) Los consorcios adscritos a la Comunidad Autónoma de Extremadura.
+e) Las fundaciones del sector público autonómico.
+f) Los fondos sin personalidad jurídica.
+g) La Universidad de Extremadura.
+3. Asimismo, forman parte del sector público autonómico las entidades clasificadas como Sector Administraciones Públicas de la Comunidad Autónoma de Extremadura, a efectos del Sistema Europeo de Cuentas, por el Comité Técnico de Cuentas Nacionales, creado por la Ley Orgánica 6/2013, de 14 de noviembre, de Creación de la Autoridad Independiente de Responsabilidad Fiscal.
+4. La aplicación de esta ley a la Asamblea de Extremadura se realizará sin perjuicio del régimen establecido en las normas que regulan su funcionamiento y de su autonomía presupuestaria. No obstante, se observará la coordinación necesaria para la elaboración del Proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma de Extremadura.
+5. La Ley de Presupuestos detallará las entidades que en cada ejercicio forman parte del sector público autonómico y que, por tanto, se integran en el presupuesto de la comunidad.
+Se modifica por el art. 9.1 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se añade el apartado 1 bis por el art. 3.1 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 3
+
+Artículo 3. Sector público administrativo, empresarial y fundacional.
+A los efectos de esta ley, el sector público autonómico se divide en los siguientes:
+1. El sector público administrativo, integrado por:
+a) La Junta de Extremadura, la Asamblea de Extremadura y otras instituciones estatutarias, los organismos autónomos y la Universidad de Extremadura.
+b) Cualesquiera organismos y entidades de derecho público vinculados o dependientes de la Junta de Extremadura, los consorcios y los fondos sin personalidad jurídica que cumplan alguna de las dos características siguientes:
+1.º Que su actividad principal no consista en la producción en régimen de mercado de bienes y servicios destinados al consumo individual o colectivo, o que efectúen operaciones de redistribución de la renta y de la riqueza nacional, en todo caso sin ánimo de lucro.
+2.º Que no se financien mayoritariamente con ingresos comerciales, entendiéndose como tales a los efectos de esta ley, los ingresos, cualquiera que sea su naturaleza, obtenidos como contrapartida de las entregas de bienes o prestaciones de servicios.
+2. El sector público empresarial, integrado por:
+a) Las entidades públicas empresariales.
+b) Las empresas públicas.
+c) Las sociedades mercantiles autonómicas.
+d) Cualesquiera organismos y entidades de derecho público vinculados o dependientes de la Junta de Extremadura, los consorcios y los fondos sin personalidad jurídica no incluidos en el sector público administrativo.
+3. El sector público fundacional, integrado por las fundaciones del sector público autonómico.
+Se modifica por el art. 9.2 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+### Artículo 4
+
+Artículo 4. Concepto y derechos integrantes de la Hacienda Pública de Extremadura.
+1. La Hacienda de la Comunidad Autónoma de Extremadura está constituida por el conjunto de derechos y de obligaciones de contenido económico, cuya titularidad corresponde a la Administración de la Comunidad Autónoma de Extremadura, a sus organismos autónomos y a los entes públicos a que se refiere la letra b) del apartado 1 del artículo anterior de esta Ley.
+2. La Hacienda Pública de Extremadura gozará del mismo tratamiento que la Ley establece para el Estado, tanto en sus prerrogativas como en sus beneficios fiscales.
+
+### Artículo 5
+
+Artículo 5. Normativa reguladora.
+1. La Hacienda Pública de Extremadura se regirá:
+a) Por la presente Ley.
+b) Por las Leyes especiales que se dicten en esta materia por la Asamblea de Extremadura.
+c) Por las Leyes anuales de Presupuestos de la Comunidad Autónoma de Extremadura.
+d) Por las normas dictadas en desarrollo de las anteriores leyes.
+2. En caso de ausencia legal o vacío normativo serán de aplicación supletoria las disposiciones generales dictadas por el Estado en la materia y, en su defecto, las restantes normas del Derecho Administrativo y las disposiciones del Derecho Común.
+
+### Artículo 6
+
+Artículo 6. Convenios de colaboración y acuerdos de cooperación.
+Los convenios de colaboración y los acuerdos de cooperación suscritos con otras Administraciones Públicas en que se comprometan recursos de la Hacienda de la Comunidad Autónoma de Extremadura no podrán contener ninguna cláusula o estipulación contraria a lo dispuesto en esta Ley.
+
+### Artículo 7
+
+Artículo 7. Principios rectores de la actividad económico-financiera.
+1. La Hacienda Pública de Extremadura organizará y desarrollará sus sistemas y procedimientos de gestión económico-financiera con sometimiento pleno a la Ley y al derecho y servirá con objetividad a los intereses generales de la región en el marco de su Estatuto de Autonomía.
+2. El gasto público de la Comunidad Autónoma de Extremadura realizará una asignación equitativa de los recursos públicos. Su programación y ejecución responderá a los principios de eficacia, eficiencia y economía, así como a los principios de solidaridad, equilibrio y territorialidad y procurará la objetividad y transparencia exigibles en la administración de los recursos públicos.
+
+## CAPÍTULO II
+
+Competencias
+
+### Artículo 8
+
+Artículo 8. Competencias de la Asamblea de Extremadura.
+1. Será competencia de la Asamblea de Extremadura el examen, enmienda, aprobación y control de los Presupuestos de la Comunidad Autónoma.
+2. Se regularán por Ley de la Asamblea de Extremadura las siguientes materias relativas a la Hacienda Pública:
+a) La concesión de créditos extraordinarios, en los términos indicados en esta Ley.
+b) El establecimiento, la modificación y la supresión de los tributos propios de la Comunidad Autónoma y el ejercicio de la capacidad normativa sobre los tributos cedidos por el Estado en los términos establecidos en el Estatuto de Autonomía, en la Ley Orgánica de Financiación de las Comunidades Autónomas y en las Leyes de cesión de tributos que afecten a Extremadura.
+c) El régimen de la deuda pública y demás operaciones de crédito concertadas por la Comunidad Autónoma de Extremadura.
+d) El régimen del patrimonio de la Comunidad, en el marco de la legislación básica del Estado.
+e) El régimen de la contratación pública, en el marco de la legislación básica del Estado.
+f) El régimen de concesión de avales por la Comunidad.
+g) El régimen general y especial en materia financiera de las entidades que, de conformidad con el artículo 2 de esta Ley, integran el sector público autonómico.
+h) Aquellas otras cuestiones en materia de Hacienda que, según las leyes, deban ser reguladas por normas de este rango.
+
+### Artículo 9
+
+Artículo 9. Competencias del Consejo de Gobierno.
+En las materias objeto de esta Ley, corresponden al Consejo de Gobierno las siguientes funciones:
+a) La determinación de las directrices básicas de la política económica y financiera de la Comunidad Autónoma.
+b) El ejercicio de la potestad reglamentaria dentro del marco establecido por la Ley.
+c) La aprobación del proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma de Extremadura y su remisión a la Asamblea.
+d) La presentación de los proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos, dentro del mismo ejercicio presupuestario.
+e) Autorizar créditos extraordinarios en los casos previstos en la letra a) del artículo 75 de esta Ley.
+f) Autorizar los gastos en los supuestos previstos en las leyes.
+g) Las demás funciones y competencias que le atribuyan ésta u otras leyes.
+
+### Artículo 10
+
+Artículo 10. Competencias del titular de la Consejería competente en materia de Hacienda.
+En las materias objeto de la presente Ley, corresponde al titular de la Consejería competente en materia de Hacienda:
+a) Elaborar y someter a la aprobación del Consejo de Gobierno el anteproyecto de Ley de Presupuestos Generales de la Comunidad Autónoma de Extremadura.
+b) Administrar, gestionar y recaudar los derechos económicos de la Administración de la Comunidad Autónoma de Extremadura.
+c) Establecer las normas reguladoras de la ejecución del presupuesto de gastos aplicables a los distintos procedimientos de gestión, de acuerdo con lo establecido en esta Ley.
+d) Ejercer la superior autoridad en materia de ordenación de pagos.
+e) Velar por la ejecución de los Presupuestos Generales de la Comunidad Autónoma de Extremadura y por el cumplimiento de las disposiciones de carácter financiero.
+f) Dictar las normas de desarrollo que específicamente le encomiende la presente Ley.
+g) Proponer al Consejo de Gobierno, en el marco de la política económico-presupuestaria, las directrices a que deberán ajustarse los gastos de personal de la Junta de Extremadura, sus organismos autónomos y el resto de entidades del sector público administrativo autonómico incluidos en el ámbito de aplicación de la legislación de función pública, así como autorizar cualquier medida relativa al personal que pueda suponer un incremento del gasto.
+h) Autorizar las propuestas de modificación de las dotaciones o sustituciones de los proyectos incluidos en los Fondos de Compensación Interterritorial, de conformidad con lo dispuesto en su normativa reguladora.
+i) Aprobar las modificaciones presupuestarias que, en su caso, conlleven las propuestas a las que se refiere la letra anterior.
+j) Las demás funciones y competencias que le atribuyan las leyes, así como cualesquiera otras de naturaleza económico-financiera que no hubieran sido atribuidas a otros órganos de la Comunidad Autónoma.
+
+### Artículo 11
+
+Artículo 11. Competencias de las Consejerías y de otros órganos de la Comunidad Autónoma.
+Dentro de sus respectivas competencias y en los términos previstos en la presente Ley, son funciones de los titulares de las Consejerías y del resto de órganos con dotaciones diferenciadas en los Presupuestos Generales de la Comunidad Autónoma de Extremadura:
+a) Elaborar las propuestas de sus estados de gastos y de ingresos a los efectos establecidos en el artículo 55 de esta Ley.
+b) Administrar los créditos para gastos consignados en el Presupuesto de la Comunidad Autónoma.
+c) Autorizar los gastos que no sean competencia del Consejo de Gobierno y elevar a la aprobación del Consejo de Gobierno los que sean competencia de este último.
+d) Reconocer las obligaciones e interesar de la Consejería competente en materia de Hacienda la ordenación y el pago de las mismas.
+e) Las demás que les confieran las leyes.
+
+### Artículo 12
+
+Artículo 12. Competencias de los organismos autónomos.
+Son funciones de los organismos autónomos de la Comunidad Autónoma de Extremadura, dentro del ámbito de sus respectivas competencias y conforme a lo dispuesto en esta Ley:
+a) La administración, gestión y recaudación de los derechos económicos del propio organismo autónomo.
+b) Autorizar los gastos y ordenar los pagos.
+c) Elaborar el anteproyecto de presupuestos anuales del organismo autónomo.
+d) Las demás que le asignen las leyes.
+
+## TÍTULO I
+
+Del Régimen de Hacienda de la Comunidad Autónoma de Extremadura
+
+## CAPÍTULO I
+
+Los derechos
+
+## Sección 1
+
+Sección 1.ª Derechos de la Hacienda Pública de Extremadura. Clasificación
+
+### Artículo 13
+
+Artículo 13. Derechos de la Hacienda Pública de Extremadura.
+Constituyen los derechos de la Hacienda Pública de Extremadura:
+a) El rendimiento de sus propios impuestos, tasas y contribuciones especiales.
+b) El rendimiento de los tributos cedidos total o parcialmente por el Estado.
+c) La participación en los ingresos del Estado.
+d) Los recargos sobre los tributos estatales.
+e) Las transferencias de los Fondos de Compensación Interterritorial y otros Fondos para el Desarrollo Regional.
+f) Otras asignaciones que se establezcan con cargo a los Presupuestos Generales del Estado o de la Unión Europea.
+g) El producto del endeudamiento y otras operaciones de crédito.
+h) El producto de las multas y sanciones en el ámbito de sus competencias.
+i) Los ingresos de precios públicos.
+j) Los ingresos procedentes de su patrimonio y demás de derecho privado.
+k) Cualesquiera otros que le correspondan de acuerdo con las leyes.
+
+### Artículo 14
+
+Artículo 14. Clasificación de los derechos económicos de la Hacienda Pública de Extremadura.
+Los derechos de la Hacienda Pública de Extremadura se clasifican en derechos de naturaleza pública y de naturaleza privada.
+Son derechos de naturaleza pública de la Hacienda Pública de Extremadura los tributos y los demás derechos de contenido económico cuya titularidad corresponde a la Administración de la Comunidad Autónoma de Extremadura, a sus organismos autónomos y a los entes públicos a que se refiere la letra b) del apartado 1 del artículo 3 que deriven del ejercicio de potestades administrativas, así como aquellos respecto de los cuales la ley lo disponga expresamente.
+Son derechos de naturaleza privada de la Hacienda de la Comunidad los que pertenezcan a la Administración de la Comunidad Autónoma de Extremadura, a sus organismos autónomos y a los entes públicos a que se refiere la letra b) del apartado 1 del artículo 3, y que no estén comprendidos en el apartado anterior y, en todo caso, los rendimientos o productos de cualquier naturaleza de sus bienes patrimoniales, los que adquieran a título de herencia, legado o donación, y cualquier otro que obtengan de relaciones regidas por el derecho privado.
+
+## Sección 2
+
+Sección 2.ª Normas comunes a los derechos de la Hacienda Pública de Extremadura
+
+### Artículo 15
+
+Artículo 15. Afectación de recursos.
+Los recursos de la Hacienda Pública de Extremadura se destinarán a satisfacer el conjunto de sus obligaciones, salvo que por ley se establezca su afectación a fines determinados.
+
+### Artículo 16
+
+Artículo 16. Competencias y administración.
+1. La administración de los recursos de la Hacienda Pública de Extremadura corresponde, según su titularidad, a la Consejería competente en materia de Hacienda o a los organismos autónomos, en las condiciones establecidas en esta Ley, sin perjuicio de las competencias que legalmente pudieran atribuirse a otros departamentos o entidades del sector público autonómico.
+2. El manejo o custodia de fondos o valores de naturaleza pública podrá encomendarse a personas o entidades privadas, que deberán prestar garantía en los casos, cuantía y forma que se determine reglamentariamente.
+
+### Artículo 17
+
+Artículo 17. Régimen común de los derechos de la Hacienda Pública de Extremadura.
+1. No se pueden enajenar, gravar ni arrendar los derechos económicos de la Hacienda Pública de Extremadura, salvo en los casos establecidos en las Leyes.
+2. Tampoco pueden concederse exenciones, condonaciones, rebajas ni moratorias en el pago de los derechos de la Hacienda Pública de Extremadura, salvo en los casos y en la forma que determinen las leyes, y sin perjuicio de lo establecido en el artículo 27.
+3. No se puede transigir judicial ni extrajudicialmente sobre los derechos de la Hacienda Pública de Extremadura, ni someter a arbitraje las contiendas que se susciten sobre los mismos, sino mediante Decreto del Consejo de Gobierno de la Junta de Extremadura, previo dictamen del Consejo Consultivo de Extremadura.
+4. La suscripción y celebración de acuerdos y convenios previstos en la legislación concursal requiere únicamente autorización del órgano que determine el titular de la Consejería competente en materia de Hacienda.
+5. La extinción, total o parcial, de las deudas que la Administración del Estado, sus organismos autónomos, la Seguridad Social, las Corporaciones Locales y otras entidades de derecho público tengan con la Comunidad Autónoma de Extremadura podrá realizarse por vía de compensación, cuando se trate de deudas vencidas, líquidas y exigibles.
+
+### Artículo 18
+
+Artículo 18. Ejercicio de acciones judiciales.
+La Administración de la Comunidad Autónoma de Extremadura y sus organismos autónomos podrán ejercitar las acciones judiciales que sean precisas para la mejor defensa de sus derechos.
+
+## Sección 3
+
+Sección 3.ª Régimen de los derechos de naturaleza pública
+
+### Artículo 19
+
+Artículo 19. Normas generales.
+1. Los derechos de naturaleza pública de la Hacienda Púlica de Extremadura nacen y se adquieren de conformidad con lo establecido en la normativa reguladora de cada derecho. En particular, la aplicación de los tributos se ajustarará lo dispuesto en la Ley General Tributaria, de acuerdo con su sistema de fuentes.
+2. Los derechos de naturaleza pública de la Hacienda Pública de Extremadura se extinguen por las causas previstas en la Ley General Tributaria y las demás previstas en las leyes.
+Sin perjuicio de lo establecido en esta Ley y en la normativa reguladora de cada derecho, el procedimiento, efectos y requisitos de las formas de extinción de los derechos de naturaleza pública de la Hacienda Pública de Extremadura se someterán a lo establecido en la Ley General Tributaria.
+
+### Artículo 19 bis
+
+Artículo 19 bis. Responsabilidad solidaria y subsidiaria en el pago de las deudas a favor de la Hacienda de la Comunidad Autónoma.
+1. Salvo precepto legal expreso en contrario, la responsabilidad será siempre subsidiaria.
+2. Responderán solidariamente del pago de deudas derivadas de la obligación de reintegro de subvenciones y de pagos indebidos, del pago de sanciones pecuniarias y de cualquier otra deuda no tributaria que se rija por el derecho público:
+a) Los miembros, partícipes o cotitulares de las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición, en proporción a sus respectivas participaciones respecto de las obligaciones de pago de dichas entidades.
+b) Las personas o entidades que sean causantes o colaboren activamente en la realización de infracciones administrativas.
+3. Serán responsables subsidiariamente del pago de deudas derivadas de la obligación de reintegro de subvenciones y de pagos indebidos, del pago de sanciones pecuniarias y de cualquier otra deuda no tributaria que se rija por el derecho público:
+a) Los administradores de hecho o de derecho de las sociedades mercantiles o aquellos que ostenten la representación legal de otras personas jurídicas en los siguientes supuestos:
+1.º Cuando no hubieran realizado los actos necesarios de su incumbencia para el cumplimiento de las obligaciones infringidas.
+2.º Cuando hubieran adoptado acuerdos que hicieran posibles los incumplimientos.
+3.º Cuando hubiesen consentido el incumplimiento de quienes dependan de ellos.
+4.º Cuando las deudas correspondan a personas jurídicas que hubiesen cesado en sus actividades, por las obligaciones de pago devengadas que se encuentren pendientes en el momento del cese, siempre que no hubieran hecho lo necesario para su pago o hubieren adoptado acuerdos o tomado medidas para su impago.
+b) Los integrantes de la administración concursal y los liquidadores de sociedades y entidades en general, cuando no hubiesen realizado las gestiones necesarias para el íntegro cumplimiento de las obligaciones devengadas con anterioridad a dichas situaciones e imputables a los respectivos obligados. De las obligaciones y sanciones posteriores a dichas situaciones responderán como administradores cuando tengan atribuidas funciones de administración.
+c) Las personas o entidades que tengan el control efectivo, total o parcial, directo o indirecto, de las personas jurídicas y las personas o entidades de las que los obligados al pago tengan el control efectivo, total o parcial, o en las que concurra una voluntad rectora común, cuando resulte acreditado que las personas jurídicas o entidades han sido creadas o utilizadas de forma abusiva o fraudulenta como medio de elusión la responsabilidad patrimonial universal frente a la Hacienda Pública, siempre que concurran, ya sea una unicidad de personas o esferas económicas, ya una confusión o desviación patrimonial. La responsabilidad se extenderá también a las obligaciones por infracciones y sanciones.
+4. La derivación de la acción administrativa para exigir el pago de las deudas a que se refiere el apartado anterior a los responsables requerirá una resolución administrativa por la que, previa audiencia, se declare la responsabilidad y se determine su alcance, sin perjuicio de las medidas cautelares que puedan adoptarse.
+La derivación de la acción administrativa a los responsables subsidiarios requerirá la previa declaración de fallido del deudor principal y de los demás responsables solidarios, si los hubiere.
+Se modifica por el art. 51 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+ Se añade por el art. 3.2 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 19 ter
+
+Artículo 19 ter. Procedimiento de derivación de la responsabilidad.
+1. El procedimiento de derivación de responsabilidad frente a los responsables, se iniciará con un trámite de audiencia donde se podrán formular las alegaciones que se estimen pertinentes y aportar la documentación que consideren necesaria.
+2. El acto de declaración de responsabilidad será notificado al interesado, con el siguiente contenido:
+a) Texto íntegro del acuerdo de declaración de responsabilidad, con indicación del presupuesto de hecho habilitante y las liquidaciones a las que alcanza dicho presupuesto.
+b) Medios de impugnación que pueden ser ejercidos contra dicho acto, órgano ante el que hubieran de presentarse y plazo para interponerlos.
+c) Lugar, plazo y forma en que deba ser satisfecho el importe exigido al responsable.
+3. En el recurso o reclamación contra el acuerdo de declaración de responsabilidad podrá impugnarse el presupuesto de hecho habilitante y las liquidaciones a las que alcanza dicho presupuesto, sin que como consecuencia de la resolución de estos recursos o reclamaciones puedan revisarse las liquidaciones que hubieran adquirido firmeza para otros obligados al pago, sino únicamente el importe de la obligación del responsable que haya interpuesto el recurso o reclamación.
+Se añade por el art. 52 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 19 quáter
+
+Artículo 19 quáter. Procedimiento para exigir la responsabilidad solidaria y subsidiaria.
+1. El procedimiento para exigir la responsabilidad solidaria, según los casos, será el siguiente:
+a) Cuando la responsabilidad haya sido declarada y notificada al responsable en cualquier momento anterior al vencimiento del período voluntario de pago de la deuda que se deriva, bastará con requerirle al pago una vez transcurrido dicho período.
+b) En los demás casos, una vez transcurrido el período voluntario de pago de la deuda que se deriva, el órgano competente dictará acto de declaración de responsabilidad que se notificará al responsable.
+2. El procedimiento para exigir la responsabilidad subsidiaria requerirá, que una vez declarados fallidos el deudor principal y, en su caso, los responsables solidarios, la Administración dictará el acto de declaración de responsabilidad, que se notificará al responsable subsidiario.
+Se añade por el art. 53 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 19 quinquies
+
+Artículo 19 quinquies. Procedimiento de recaudación frente a los sucesores.
+1. Fallecido cualquier obligado al pago de la deuda, el procedimiento de recaudación continuará con sus herederos y, en su caso, legatarios, sin más requisitos que la constancia del fallecimiento de aquél y la notificación a los sucesores, con requerimiento del pago de la deuda y costas pendientes del causante.
+Cuando el heredero alegue haber hecho uso del derecho a deliberar, se suspenderá el procedimiento de recaudación hasta que transcurra el plazo concedido para ello, durante el cual podrá solicitar de la Administración tributaria la relación de las deudas pendientes del causante, con efectos meramente informativos.
+2. Mientras la herencia se encuentre yacente, el procedimiento de recaudación de las deudas pendientes podrá continuar dirigiéndose contra sus bienes y derechos, a cuyo efecto se deberán entender las actuaciones con quien ostente su administración o representación.
+3. Disuelta y liquidada una sociedad o entidad, el procedimiento de recaudación continuará con sus socios, partícipes o cotitulares, una vez constatada la extinción de la personalidad jurídica. Disuelta y liquidada una fundación, el procedimiento de recaudación continuará con los destinatarios de sus bienes y derechos.
+4. La Administración podrá dirigirse contra cualquiera de los socios, partícipes, cotitulares o destinatarios, o contra todos ellos simultánea o sucesivamente, para requerirles el pago de la deuda y costas pendientes.
+Se añade por el art. 54 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 20
+
+Artículo 20. Prerrogativas.
+1. La Hacienda Pública de Extremadura goza de las prerrogativas establecidas legalmente a favor de la Hacienda del Estado para el cobro de tributos, precios públicos, cantidades que hubieran de percibirse en virtud de actos o contratos administrativos o cualesquiera otros derechos de naturaleza pública y actuará conforme a los procedimientos administrativos correspondientes.
+En especial, la Hacienda de la Comunidad Autónoma podrá abstenerse en los procesos concursales en los supuestos establecidos por la legislación aplicable a estos procesos, en cuyo curso, no obstante podrá suscribir los acuerdos o convenios previstos en aquélla, así como acordar, de conformidad con el deudor y con las garantías que se estimen oportunas, unas condiciones singulares de pago, que no podrán ser más favorables para el deudor que las recogidas en el acuerdo o convenio que ponga fin al proceso judicial concursal. Igualmente, podrá acordar la compensación de dichos créditos en los términos previstos en la normativa reguladora de los ingresos públicos.
+2. A los fines previstos en el apartado anterior, la Hacienda Pública de Extremadura gozará de las prerrogativas, facultades y garantías previstas en la Ley General Tributaria.
+3. En caso de concurrencia de derechos, prevalecerán los de la Administración de la Comunidad Autónoma de Extremadura sobre los de las restantes entidades que forman el sector público autonómico.
+
+### Artículo 21
+
+Artículo 21. Gestión y liquidación de tributos y precios públicos.
+1. Corresponde a la Hacienda de la Comunidad Autónoma la gestión, en todas las fases del procedimiento, de sus propios tributos y precios públicos, así como el ejercicio de las facultades de revisión, sin perjuicio de la colaboración que pueda establecerse con otras Administraciones Públicas, ajustándose, en su caso, el ejercicio de dichas facultades a lo dispuesto en el Estatuto de Autonomía, las Leyes de la Asamblea de Extremadura, a los reglamentos aprobados por el Consejo de Gobierno en la materia y a las normas de desarrollo dictadas por el titular de la Consejería competente en materia de Hacienda en virtud de autorizaciones que le sean concedidas, sin perjuicio de la aplicación de la normativa estatal en los casos que sea procedente.
+2. La gestión, liquidación, recaudación, inspección y revisión de los tributos cedidos por el Estado que asuma la Comunidad Autónoma se ajustará a lo que disponga la normativa de cesión.
+
+### Artículo 22
+
+Artículo 22. Recaudación.
+1. El pago de las deudas correspondiente a los derechos de naturaleza pública se realizará en período voluntario o en período ejecutivo.
+2. El período voluntario será el establecido en las normas aplicables a los distintos derechos. En defecto de norma legal o reglamentaria expresa, el período voluntario será el establecido al efecto en la Ley General Tributaria.
+3. El inicio del período ejecutivo comporta, para las deudas de derecho público no tributarias, el mismo régimen de recargos y costas procesales que se establece con carácter general en la normativa tributaria, así como los intereses de demora a que se refiere el artículo 24.
+
+### Artículo 22 bis
+
+Artículo 22 bis. Medidas cautelares.
+1. Para asegurar el cobro de las deudas para cuya recaudación sea competente, la Administración Tributaria de la Comunidad Autónoma de Extremadura podrá adoptar medidas cautelares de carácter provisional en los términos y condiciones, y con el cumplimiento de los requisitos, establecidos en el artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando existan indicios racionales de que, en otro caso, dicho cobro se vería frustrado o gravemente dificultado.
+2. Las medidas cautelares, que tendrán que notificarse a los afectados con expresa mención de los motivos que las justifican, podrán adoptarse desde el momento en que la Administración de la Comunidad Autónoma de Extremadura esté en condiciones de acreditar, de forma motivada y suficiente, la existencia de dichos indicios. En todo caso, estas medidas tienen que ser proporcionadas al daño que se pretenda evitar y en la cuantía estrictamente necesaria para asegurar el cobro de la deuda, quedando proscritas aquellas que pudieren producir perjuicios de difícil o imposible reparación.
+3. Las medidas cautelares podrán consistir en:
+a) La retención de otros pagos que deba realizar la Comunidad Autónoma de Extremadura a favor de los afectados por las medidas cautelares.
+b) El embargo preventivo de bienes y derechos, del que se practicará, en su caso, anotación preventiva.
+c) La prohibición de enajenar, gravar o disponer de bienes o derechos.
+d) Cualquier otra legalmente prevista.
+4. Los efectos de las medidas cautelares cesarán en el plazo de seis meses desde su adopción, salvo en los siguientes supuestos:
+a) Que se conviertan en embargos en el procedimiento de apremio o en medidas cautelares judiciales, que tendrán efectos desde la fecha de adopción de la medida cautelar.
+b) Que desaparezcan las circunstancias que motivaron su adopción.
+c) Que, a solicitud del interesado, se acordase su sustitución por otra garantía que se estime suficiente.
+En todo caso, las medidas cautelares deberán ser levantadas si el obligado tributario presenta aval solidario de entidad de crédito o sociedad de garantía recíproca o certificado de seguro de caución que garantice el cobro de la cuantía de la medida cautelar.
+d) Que se amplíe dicho plazo mediante acuerdo motivado.
+Se añade por el art. 55 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 23
+
+Artículo 23. Procedimiento de apremio.
+1. La providencia de apremio expedida por el órgano competente, acreditativa del descubierto de las deudas correspondientes a derechos de naturaleza pública, es título suficiente que inicia el procedimiento de apremio y tiene la misma fuerza ejecutiva que la sentencia judicial para proceder contra los bienes y derechos de los obligados al pago.
+2. El procedimiento de apremio puede suspenderse en la forma y con los requisitos previstos en las disposiciones reguladoras de los recursos y procedimientos económico-administrativos.
+3. Se suspenderá inmediatamente el procedimiento de apremio, sin necesidad de prestar garantía, cuando el interesado demuestre que se ha producido en su perjuicio un error material, aritmético o de hecho en la determinación de la deuda, o bien que dicha deuda ha prescrito o ha sido ingresada, condonada, compensada, aplazada o suspendida.
+4. Cuando un tercero, que no tenga responsabilidad frente a la Hacienda Pública de Extremadura en virtud de obligación o gestión propia, o transmitida en relación con los créditos objeto del procedimiento, pretenda el levantamiento del embargo por entender que le pertenece el dominio de los bienes o derechos trabados, o bien considere que tiene derecho a ser reintegrado de su crédito con preferencia a la Hacienda Pública de Extremadura, deberá formular la correspondiente reclamación de tercería ante el órgano competente.
+5. Interpuesta la reclamación de tercería, se procederá de la siguiente forma:
+a) Tratándose de una tercería de dominio, una vez que se hayan tomado las medidas de aseguramiento procedentes, se suspenderá el procedimiento de apremio sólo en la parte que se refiere a los bienes y derechos controvertidos, debiendo sustanciarse este incidente en la vía administrativa como previa a la vía judicial. Cuando la reclamación fuera denegada en vía administrativa, continuará el apremio, salvo justificación documental, en el plazo legalmente establecido, de la interposición de la correspondiente demanda judicial.
+No obstante lo anterior, si se hubiera continuado el procedimiento de apremio sobre el resto de los bienes o derechos del obligado al pago no cuestionados por tercería, y con su producto hubiera quedado totalmente satisfecha la deuda, se dejará sin efecto el embargo sobre los bienes objeto de la reclamación de tercería sin que ello suponga reconocimiento alguno de la titularidad del reclamante.
+b) Si se tratase de una tercería de mejor derecho, se proseguirá el procedimiento hasta la realización de los bienes embargados y el producto obtenido se consignará en depósito a las resultas de la tercería.
+
+### Artículo 23 bis
+
+Artículo 23 bis. Prohibición de disposición sobre bienes muebles e inmuebles de una sociedad cuando el socio que tenga el control efectivo de ella tenga embargadas sus acciones.
+1. La Administración tributaria de la Comunidad Autónoma de Extremadura podrá acordar la prohibición de disponer sobre los bienes muebles e inmuebles de una sociedad, sin necesidad de que el procedimiento recaudatorio se dirija contra ella, en el caso de que se hubiesen embargado al obligado tributario acciones o participaciones de aquélla y éste ejerza el control efectivo, total o parcial, directo o indirecto, sobre la sociedad titular de los bienes muebles o inmuebles en cuestión en los términos previstos en el artículo 42 del Código de Comercio y aunque no estuviere obligado a formular cuentas consolidadas.
+2. El recurso contra la prohibición de disponer únicamente podrá basarse en la falta de alguno de los presupuestos de hecho que permiten su adopción.
+3. La medida se alzará cuando por cualquier causa se extinga el embargo de las participaciones o acciones pertenecientes al obligado tributario.
+4. La Administración tributaria podrá acordar asimismo el levantamiento de la prohibición de disponer cuando su mantenimiento pudiera producir perjuicios de difícil o imposible reparación, y estos se acrediten debidamente por la sociedad, o cuando, a petición del interesado, se sustituya la medida por otra garantía que se estime suficiente.
+5. Podrá tomarse anotación preventiva de la prohibición de disponer en la hoja abierta a las fincas en el Registro de la Propiedad competente en virtud del correspondiente mandamiento en que se justificará la validez de la medida cautelar contra persona distinta del titular registral por referencia a la existencia de la correspondiente relación de control cuyo presupuesto de hecho se detallará en el propio mandamiento.
+Se añade por el art. 56 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 23 ter
+
+Artículo 23 ter. Embargo de dinero en cuentas a la vista abiertas en entidades de crédito.
+El embargo de fondos, valores u otros bienes entregados o confiados a una entidad de crédito, en los términos establecidos por el artículo 171 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en relación con las deudas tributarias cuya recaudación en periodo ejecutivo tenga encomendada la Administración Tributaria de la Comunidad Autónoma de Extremadura, se realizará siempre por proceso telemático, con independencia del importe de la deuda que motive dicha actuación.
+Se añade por el art. 57 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 24
+
+Artículo 24. Intereses de demora.
+1. Las cantidades adeudadas a la Hacienda Pública de Extremadura por los conceptos contemplados en esta sección devengarán el interés de demora desde el día siguiente a su vencimiento. Se incluyen en este apartado las cantidades recaudadas a través de cuentas restringidas, entidades colaboradoras y demás entidades recaudadoras por cuenta de la Hacienda Pública de Extremadura que no sean ingresadas por dichas entidades en la Tesorería en los plazos establecidos.
+2. El interés de demora resultará de la aplicación, para cada año o período de los que integren el período de cálculo, del interés legal fijado en la Ley de Presupuestos del Estado para cada ejercicio.
+3. En los supuestos de reintegro de subvenciones se devengará el interés legal antes mencionado incrementado en un 25 %, salvo que la propia Ley de Presupuestos establezca uno diferente.
+4. Lo dispuesto en este artículo se entiende sin perjuicio de las especialidades en materia tributaria o las establecidas en las normas específicas que resulten aplicables.
+
+### Artículo 25
+
+Artículo 25. Aplazamiento o fraccionamiento.
+1. Podrán aplazarse o fraccionarse, devengando el correspondiente interés de demora, las cantidades adeudadas a la Hacienda Pública de Extremadura en virtud de una relación jurídica de derecho público, en los casos, por los medios y a través del procedimiento establecidos reglamentariamente.
+2. Dichas cantidades deberán garantizarse, salvo en los casos siguientes:
+a) Las de baja cuantía, entendiéndose por tales aquellas inferiores a la cifra que fije la Consejería competente en materia de Hacienda.
+b) Cuando el deudor carezca de suficientes bienes para garantizar la deuda y la ejecución de su patrimonio afectara sustancialmente al mantenimiento de su capacidad productiva y del nivel de empleo de la actividad económica respectiva, salvo que ello produjera grave quebranto para los intereses de la Hacienda Pública de Extremadura.
+
+### Artículo 26
+
+Artículo 26. Prescripción de los derechos.
+1. Salvo lo establecido en las leyes reguladoras de los distintos recursos, prescribirán a los cuatro años los derechos de la Hacienda Pública de Extremadura:
+a) A reconocer o liquidar créditos a su favor, contándose dicho plazo desde el día en que el derecho pudo ejercitarse.
+b) Al cobro de los créditos reconocidos o liquidados, a contar desde la fecha de su notificación, o si ésta no fuera preceptiva, desde su vencimiento.
+2. La prescripción de los derechos de la Hacienda Pública de Extremadura se interrumpirá conforme a lo establecido en la Ley General Tributaria, y se aplicará de oficio.
+3. Los derechos de la Hacienda Pública de Extremadura declarados prescritos serán dados de baja en las respectivas cuentas, previa la tramitación del oportuno expediente.
+4. La declaración y exigencia de las responsabilidades a que, en su caso, haya lugar por la prescripción de créditos de la Hacienda Pública de Extremadura se ajustará a lo prevenido en el Título VI de esta Ley.
+
+### Artículo 27
+
+Artículo 27. Derechos económicos de baja cuantía.
+El titular de la Consejería competente en materia de Hacienda podrá disponer la no liquidación o, en su caso, la anulación y baja en contabilidad de todas aquellas liquidaciones de las que resulten deudas inferiores a la cuantía que se fije como insuficiente para la cobertura del coste de su exacción y recaudación.
+
+## Sección 4
+
+Sección 4.ª Régimen de los derechos de naturaleza privada
+
+### Artículo 28
+
+Artículo 28. Derechos de naturaleza privada.
+La efectividad de los derechos de naturaleza privada de la Hacienda Pública de Extremadura se llevará a cabo de acuerdo con las normas y procedimientos del derecho privado.
+
+### Artículo 29
+
+Artículo 29. Aplazamiento o fraccionamiento.
+Podrán aplazarse o fraccionarse las cantidades adeudadas a la Hacienda Pública de Extremadura en virtud de una relación jurídica de derecho privado en los casos y con las condiciones que establezca el titular de la Consejería competente en materia de Hacienda.
+
+## CAPÍTULO II
+
+Las obligaciones
+
+### Artículo 30
+
+Artículo 30. Nacimiento y extinción de las obligaciones.
+1. Las obligaciones económicas de la Hacienda Pública de Extremadura nacen de la Ley, de los negocios jurídicos y de los actos o hechos que, según derecho, las generen.
+2. Las obligaciones de la Hacienda Pública Autonómica se extinguen por el pago, la compensación, la prescripción o cualquier otro medio en los términos establecidos en esta Ley y en las disposiciones especiales que resulten de aplicación.
+
+### Artículo 31
+
+Artículo 31. Exigibilidad de las obligaciones.
+1. Las obligaciones de pago solamente podrán exigirse de la Hacienda Pública de Extremadura cuando resulten de la ejecución de sus Presupuestos, de sentencia judicial firme o de operaciones no presupuestarias legalmente autorizadas.
+2. Si dichas obligaciones tienen por causa prestaciones o servicios a la Comunidad Autónoma de Extremadura, el pago no podrá realizarse hasta que el acreedor no haya cumplido o garantizado su correlativa obligación.
+
+### Artículo 32
+
+Artículo 32. Prerrogativas.
+1. Ningún juez, tribunal o autoridad administrativa podrá despachar mandamiento de ejecución o dictar providencia de embargo contra los bienes de dominio público de la Comunidad Autónoma de Extremadura, ni tampoco contra sus bienes o derechos patrimoniales cuando se encuentren materialmente afectados a un servicio o función pública, cuando sus rendimientos o el producto de su enajenación estén legalmente afectados a fines diversos, o cuando se trate de valores o títulos representativos del capital social de empresas públicas que ejecuten políticas públicas o presten servicios de interés económico general.
+A estos efectos, se considerarán siempre materialmente afectados a un servicio público o a una función pública, el dinero, los valores, los créditos y demás recursos financieros de la Hacienda de la Comunidad Autónoma de Extremadura, incluidos todos los saldos existentes en cualquier clase de cuentas abiertas en el Banco de España y en las entidades de crédito.
+2. El cumplimiento de las resoluciones judiciales que determinen obligaciones a cargo de la Hacienda Pública de Extremadura corresponde exclusivamente a la autoridad administrativa competente por razón de la materia, la cual acordará el pago con cargo al crédito correspondiente, en la forma y con los límites que establezca el respectivo presupuesto, sin perjuicio de la posibilidad de instar, en su caso, otras modalidades de ejecución de acuerdo con la Constitución y las leyes.
+3. Si para el pago fuera necesario realizar una modificación presupuestaria, deberá concluirse el procedimiento correspondiente dentro de los tres meses siguientes al día de la notificación de la resolución judicial.
+Se añade el párrafo segundo del apartado 1 por la disposición adicional 8 de la Ley 1/2012, de 24 de enero. Ref. BOE-A-2012-1794.
+
+### Artículo 33
+
+Artículo 33. Intereses de demora.
+En las materias tributarias, de contratación administrativa y de expropiación forzosa se aplicará para la exigencia a la Hacienda Pública autonómica de intereses de demora lo dispuesto en sus legislaciones específicas.
+En las materias no contempladas en el párrafo anterior, si la Administración no pagara al acreedor de la Hacienda Pública Autonómica dentro de los tres meses siguientes al día de notificación de la resolución judicial o del reconocimiento de la obligación, habrá de abonarle el interés señalado en el apartado 2 del artículo 24 de esta Ley, sobre la cantidad debida, desde que el acreedor, una vez transcurrido dicho plazo, reclame por escrito el cumplimiento de la obligación.
+
+### Artículo 34
+
+Artículo 34. Prescripción de las obligaciones.
+1. Salvo lo establecido en leyes especiales, prescribirán a los cuatro años:
+a) El derecho al reconocimiento o liquidación por la Hacienda Pública de Extremadura de toda obligación que no se hubiese solicitado con la presentación de los documentos justificativos. El plazo se contará desde la fecha en que se concluya el servicio o prestación determinante de la obligación o desde el día en que el derecho pudo ejercitarse.
+b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, si no fuera reclamado por los acreedores legítimos o sus derechohabientes. El plazo se contará desde la fecha de la notificación del reconocimiento o liquidación de la respectiva obligación.
+2. La prescripción se interrumpirá conforme a las disposiciones del Código Civil, salvo que otra cosa se establezca en leyes especiales.
+3. Las obligaciones a cargo de la Hacienda Pública de Extremadura que hayan prescrito serán baja en las respectivas cuentas, previa la tramitación del oportuno expediente.
+
+## TÍTULO II
+
+De los Presupuestos Generales de la Comunidad Autónoma
+
+## CAPÍTULO I
+
+Principios de la programación y de la gestión presupuestaria
+
+### Artículo 35
+
+Artículo 35. Principios de la programación presupuestaria.
+1. La programación presupuestaria se regirá por los principios de estabilidad presupuestaria, plurianualidad, transparencia y eficiencia en la asignación y utilización de los recursos públicos, conforme a lo dispuesto en la legislación básica del Estado en materia de estabilidad presupuestaria y en esta Ley.
+2. Las disposiciones legales y reglamentarias en fase de elaboración y aprobación, los actos administrativos, los contratos, los convenios y cualquier otra actuación de los sujetos que componen el sector público autonómico que afecte a los gastos públicos, deben valorar sus repercusiones y efectos, y supeditarse de forma estricta a las disponibilidades presupuestarias y a los límites de los escenarios presupuestarios plurianuales.
+
+### Artículo 36
+
+Artículo 36. Principios de la gestión presupuestaria.
+1. La gestión del sector público autonómico está sometida al régimen de presupuesto anual aprobado por la Asamblea y enmarcado en los límites de un escenario plurianual.
+2. Los créditos presupuestarios de la Administración de la Comunidad Autónoma, sus organismos autónomos y de las entidades integrantes del sector público autonómico con presupuesto limitativo se destinarán exclusivamente a la finalidad específica para la que hayan sido autorizados por la Ley de Presupuestos Generales de la Comunidad Autónoma o por las modificaciones realizadas conforme a esta Ley. El carácter limitativo de dichos créditos será el correspondiente al nivel de vinculación con que se especifique.
+3. Los recursos de la Administración de la Comunidad Autónoma, los de cada uno de sus organismos autónomos y los de las entidades integrantes del sector público autonómico con presupuesto limitativo se destinarán a satisfacer el conjunto de sus respectivas obligaciones, salvo que por Ley se establezca su afectación a fines determinados.
+4. Los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, sin que puedan atenderse obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que la Ley lo autorice de modo expreso.
+Se exceptúan de lo dispuesto en el párrafo anterior las devoluciones de ingresos que se declaren indebidos por el tribunal o autoridad competentes y las previstas en la normativa reguladora de dichos ingresos, el reembolso del coste de las garantías aportadas por los administrados para obtener la suspensión cautelar del pago de los ingresos presupuestarios, en cuanto adquiera firmeza la declaración de su improcedencia, y las participaciones en la recaudación de los tributos cuando así esté previsto legalmente.
+A los efectos de este apartado se entenderá por importe íntegro el resultante después de aplicar las exenciones y bonificaciones que sean procedentes.
+5. El presupuesto y sus modificaciones contendrán información suficiente y adecuada para permitir la verificación del cumplimiento de los principios que los rigen y de los objetivos que se proponga alcanzar.
+
+## CAPÍTULO II
+
+Programación presupuestaria
+
+### Artículo 37
+
+Artículo 37. Escenarios presupuestarios plurianuales.
+Los escenarios presupuestarios plurianuales, en los que se enmarcarán anualmente los Presupuestos Generales de la Comunidad Autónoma, constituyen la programación de la actividad del sector público autonómico con presupuesto limitativo en la que se definirán los equilibrios presupuestarios básicos, la previsible evolución de los ingresos y los recursos a asignar a las políticas de gasto, en función de sus correspondientes objetivos estratégicos y los compromisos de gasto ya asumidos. Los escenarios presupuestarios plurianuales determinarán los límites, referidos a los tres ejercicios siguientes, que la acción de gobierno debe respetar en los casos en que sus decisiones tengan incidencia presupuestaria.
+
+### Artículo 38
+
+Artículo 38. Contenido de los escenarios presupuestarios plurianuales.
+1. Los escenarios presupuestarios plurianuales estarán integrados por un escenario de ingresos y un escenario de gastos.
+El escenario de ingresos tendrá en cuenta los efectos tendenciales de la economía, los coyunturales que puedan estimarse y los derivados de cambios previstos en la normativa que los regula.
+El escenario de gastos asignará los recursos disponibles de conformidad con las prioridades establecidas para la realización de las distintas políticas de gasto, teniendo en cuenta, en todo caso, las obligaciones derivadas de la actividad del sector público que tengan su vencimiento en el período a considerar y los compromisos de gasto existentes en el momento de su elaboración que puedan generar obligaciones con vencimiento en el período que comprenda.
+2. Los escenarios presupuestarios plurianuales, en su caso, contendrán la actualización de las previsiones contenidas en los escenarios presupuestarios aprobados en el ejercicio anterior.
+
+### Artículo 39
+
+Artículo 39. Elaboración de los escenarios presupuestarios plurianuales.
+Los escenarios presupuestarios plurianuales serán confeccionados por la Consejería competente en materia de Hacienda y aprobados por el Consejo de Gobierno, con anterioridad a la aprobación del proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma de cada año.
+
+### Artículo 40
+
+Artículo 40. Programas plurianuales de las Consejerías.
+1. Los programas presupuestarios de carácter plurianual consisten en el conjunto de gastos que se considera necesario realizar en el desarrollo de actividades orientadas a la consecución de determinados objetivos preestablecidos.
+2. El programa plurianual de cada Consejería contendrá los programas de todos los centros gestores que de él dependan, siendo aprobado por el titular de la Consejería.
+3. Los programas de actuación plurianual de las entidades integrantes del sector público autonómico empresarial se integrarán, a efectos informativos, en los programas plurianuales de las Consejerías de que dependan funcionalmente.
+
+### Artículo 41
+
+Artículo 41. Elaboración de los programas plurianuales.
+1. Para la elaboración de los escenarios presupuestarios plurianuales cada consejería remitirá anualmente a la Consejería competente en materia de Hacienda los programas plurianuales, referidos a los tres ejercicios siguientes, y ajustados a sus previsiones y límites, en los que por centros gestores se establecerán los objetivos a conseguir y las acciones necesarias para alcanzarlos así como las dotaciones de los programas presupuestarios.
+2. El procedimiento de elaboración y la estructura de los programas plurianuales y de actuación plurianual se establecerá por orden del titular de la Consejería competente en materia de Hacienda, en la que se determinará el plazo y la forma de remisión.
+
+### Artículo 42
+
+Artículo 42. Contenido de los programas plurianuales.
+1. Los programas plurianuales establecerán su contenido referido a los extremos siguientes:
+a) Los objetivos plurianuales expresados de forma objetiva, clara y mensurable a alcanzar en el período y estructurados por programas presupuestarios.
+b) La actividad a realizar para la consecución de los objetivos.
+c) Los indicadores de ejecución asociados a cada uno de los objetivos que permitan la medición, seguimiento y evaluación del resultado en términos de eficacia, eficiencia, economía y calidad.
+d) Los medios económicos, materiales y personales necesarios con especificación de los créditos que, para el logro de los objetivos anuales que dichos programas establezcan, se propone poner a disposición de los centros gestores del gasto responsables de su ejecución.
+e) Las inversiones reales y financieras a realizar.
+2. Los programas plurianuales deberán tener un contenido coherente con los planes sectoriales y otros programas de actuación existentes en el ámbito de cada Consejería.
+
+### Artículo 43
+
+Artículo 43. Adecuación a los escenarios presupuestarios plurianuales.
+1. Los Presupuestos Generales de la Comunidad Autónoma se adecuarán a los escenarios presupuestarios plurianuales y atenderán a la consecución de los objetivos que se hayan establecido en los programas plurianuales de las distintas Consejerías, con sujeción, en todo caso, a las restricciones que en orden al cumplimiento de los objetivos de política presupuestaria determine el Consejo de Gobierno para el ejercicio a que se refieran.
+2. Las asignaciones presupuestarias a los centros gestores de gasto se efectuarán tomando en cuenta, entre otras circunstancias, el nivel de cumplimiento de los objetivos en ejercicios anteriores.
+Los objetivos de carácter instrumental habrán de ponerse en relación con los objetivos finales en cuya consecución participan.
+
+## CAPÍTULO III
+
+Contenido, estructura y elaboración de los presupuestos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 44
+
+Artículo 44. Definición.
+Los Presupuestos Generales de la Comunidad Autónoma constituyen la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los órganos y entidades que forman parte del sector público autonómico.
+
+### Artículo 45
+
+Artículo 45. Ámbito orgánico.
+Los Presupuestos Generales de la Comunidad Autónoma de Extremadura estarán integrados por:
+a) Los presupuestos de las entidades del sector público autonómico a las que resulte de aplicación el régimen de vinculaciones de créditos y de modificaciones regulado en la presente Ley o cuya normativa específica confiera a su presupuesto carácter limitativo y de los órganos con dotación diferenciada que, careciendo de personalidad jurídica, no están integrados en la Administración y forman parte del sector público autonómico.
+b) Los presupuestos estimativos de las entidades de los sectores públicos empresarial y fundacional y de los consorcios, fondos sin personalidad jurídica y restantes entidades del sector público administrativo no incluidas en la letra anterior.
+Se modifica por el art. 15.1 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+ Se modifica la letra b) por el art. 3.3 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 46
+
+Artículo 46. Contenido.
+Los Presupuestos Generales de la Comunidad Autónoma determinarán:
+a) Las obligaciones económicas que, como máximo, pueden reconocer y los derechos a liquidar durante el correspondiente ejercicio los sujetos referidos en el apartado a) del artículo anterior.
+b) Los gastos e ingresos y las operaciones de inversión y financieras a realizar por las entidades contempladas en la letra b) del artículo anterior.
+c) La estimación de los beneficios fiscales que afecten a los tributos de la Comunidad Autónoma.
+
+### Artículo 47
+
+Artículo 47. Ámbito temporal.
+El ejercicio presupuestario coincidirá con el año natural, y a él se imputarán:
+a) Los derechos económicos liquidados durante el ejercicio, cualquiera que sea el período del que deriven.
+b) Las obligaciones económicas reconocidas hasta el fin del mes de diciembre, siempre que correspondan a adquisiciones, obras, servicios, prestaciones o, en general, gastos realizados dentro del ejercicio y con cargo a los respectivos créditos, sin perjuicio de lo establecido en el artículo siguiente.
+
+### Artículo 48
+
+Artículo 48. Imputación de obligaciones generadas en ejercicios anteriores.
+1. No obstante lo dispuesto en el artículo anterior, se aplicarán a los créditos del presupuesto vigente, las obligaciones siguientes:
+a) Las que resulten de la liquidación de atrasos a favor del personal que perciba sus retribuciones con cargo a los Presupuestos Generales de la Comunidad Autónoma.
+b) Las que tengan su origen en resoluciones judiciales.
+c) Las generadas en ejercicios anteriores como consecuencia de compromisos de gasto adquiridos, de conformidad con el ordenamiento jurídico, para los que hubiera crédito disponible en el ejercicio de procedencia.
+De tales operaciones se dejará constancia de las causas que las justifican.
+2. Cuando en los supuestos contemplados en el punto anterior no exista crédito adecuado en el ejercicio corriente, se procederá a su habilitación mediante la tramitación de la modificación presupuestaria que corresponda en los términos previstos en esta Ley.
+
+### Artículo 49
+
+Artículo 49. Créditos presupuestarios.
+1. Son créditos presupuestarios cada una de las asignaciones individualizadas de gasto, que figuran en los presupuestos de los órganos y entidades con presupuesto limitativo, puestas a disposición de los centros gestores para la cobertura de las necesidades para las que hayan sido aprobados. Su especificación vendrá determinada, de acuerdo con la agrupación orgánica, por programas y económica que en cada caso proceda, sin perjuicio de los desgloses necesarios a efectos de la adecuada contabilización de su ejecución.
+2. Los créditos incluidos en el estado de gastos no atribuyen competencias ni reconocen obligaciones.
+
+### Artículo 50
+
+Artículo 50. Programas presupuestarios.
+1. Constituye un programa de gasto del presupuesto anual el conjunto de créditos presupuestarios que, para el logro de los objetivos anuales que el mismo establezca, se ponen a disposición del gestor responsable de su ejecución. Los mismos constituyen la concreción anual de los programas presupuestarios de carácter plurianual.
+2. Las actividades propias de servicios horizontales y las instrumentales podrán configurarse como programas de apoyo para una mejor ordenación y gestión de los créditos necesarios para su realización.
+3. La comprobación del grado de cumplimiento de un programa presupuestario se efectuará en función de los resultados cuando éstos sean mensurables e identificables. Cuando los resultados no sean mensurables la efectividad del programa se hará mediante indicadores que permitan su medición indirecta.
+
+## Sección 2
+
+Sección 2.ª Estructuras presupuestarias
+
+### Artículo 51
+
+Artículo 51. Estructura de los presupuestos.
+La estructura de los Presupuestos Generales de la Comunidad Autónoma y de sus anexos se determinará, de acuerdo con lo establecido en esta Ley, por la Consejería competente en materia de Hacienda teniendo en cuenta la organización del sector público autonómico, la naturaleza económica de los ingresos y de los gastos y las finalidades y objetivos que se pretenda conseguir.
+
+### Artículo 52
+
+Artículo 52. Estructura de los estados de gastos.
+Los estados de gastos de los presupuestos de la Administración de la Comunidad Autónoma, sus organismos autónomos y de las entidades del sector público autonómico con presupuesto limitativo se estructurarán de acuerdo con las siguientes clasificaciones:
+a) La clasificación orgánica agrupará por secciones y servicios los créditos asignados a los distintos centros gestores de gasto con dotación diferenciada en los presupuestos.
+b) La clasificación funcional permitirá a los centros gestores agrupar sus créditos en atención a las finalidades u objetivos que se pretendan conseguir y establecer, de acuerdo con la Consejería competente en materia de Hacienda, un sistema de objetivos que sirvan de marco a su gestión presupuestaria y que haga posible, de conformidad con ellos, clasificar los créditos por programas. La estructura de programas se adecuará a los contenidos de las políticas de gasto contenidas en la programación plurianual.
+Los programas se agregarán sucesivamente en subfunciones, funciones y grupos de función.
+c) La clasificación económica, que agrupará los créditos por capítulos separando las operaciones corrientes, las de capital, las financieras y el Fondo de contingencia.
+En los créditos para operaciones corrientes se distinguirán los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias corrientes.
+El Fondo de contingencia recogerá la dotación para atender necesidades inaplazables de carácter no discrecional e imprevistas en la forma establecida en el artículo 66 bis de esta Ley.
+En los créditos para operaciones de capital se distinguirán las inversiones reales y las transferencias de capital.
+En los créditos para operaciones financieras se distinguirán las de activos financieros y las de pasivos financieros.
+Los capítulos se desglosarán en artículos y éstos, a su vez, en conceptos que podrán dividirse en subconceptos.
+Se modifica la letra c) por el art. 27.1 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 53
+
+Artículo 53. Estructura de los estados de ingresos.
+Los estados de ingresos de los presupuestos de la Administración de la Comunidad Autónoma, sus organismos autónomos y de las entidades del sector público autonómico con presupuesto limitativo se estructurarán siguiendo las clasificaciones orgánica y económica:
+a) La clasificación orgánica distinguirá los ingresos correspondientes a la Administración de la Comunidad Autónoma y los correspondientes a cada uno de los organismos autónomos y los de otras entidades, según proceda.
+b) La clasificación económica agrupará los ingresos, separando los corrientes, los de capital y las operaciones financieras.
+En los ingresos corrientes se distinguirán: impuestos directos; impuestos indirectos; tasas, precios públicos y otros ingresos; transferencias corrientes e ingresos patrimoniales.
+En los ingresos de capital se distinguirán: enajenación de inversiones reales y transferencias de capital.
+En las operaciones financieras se distinguirán: activos financieros y pasivos financieros.
+Los capítulos se desglosarán en artículos y éstos, a su vez, en conceptos que podrán dividirse en subconceptos.
+
+## Sección 3
+
+Sección 3.ª Elaboración del Presupuesto
+
+### Artículo 54
+
+Artículo 54. Procedimiento de elaboración.
+1. La fijación anual del límite de gasto no financiero que deben respetar los Presupuestos Generales de la Comunidad Autónoma se efectuará con la extensión y de la forma previstas en el artículo 30 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+2. El titular de la Consejería competente en materia de Hacienda establecerá, mediante Orden, el procedimiento por el cual se regirá la elaboración de los Presupuestos Generales de la Comunidad Autónoma.
+3. Las propuestas y demás documentación necesaria para la elaboración de los Presupuestos Generales de la Comunidad Autónoma se formularán y tramitarán sirviéndose de los medios informáticos que establezca al efecto la Consejería competente en materia de Hacienda, quien asimismo fijará los plazos para su presentación.
+Se renumeran los apartados 1 y 2 como 2 y 3 y se añade el apartado 1 por el art. 27.2 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 55
+
+Artículo 55. Elaboración del anteproyecto de presupuestos.
+1. Las Consejerías y los demás órganos de la Comunidad Autónoma con dotaciones diferenciadas en los Presupuestos Generales de la Comunidad Autónoma, remitirán a la Consejería competente en materia de Hacienda sus correspondientes propuestas de presupuestos de gastos, acomodándose, en todo caso, a las directrices sobre distribución del gasto establecidas por el Consejo de Gobierno, a los compromisos contraídos en ejercicios anteriores al de elaboración y a la normativa vigente que sea de aplicación.
+Del mismo modo, las distintas Consejerías remitirán a la competente en materia de Hacienda las propuestas de presupuestos de ingresos y gastos de cada uno de los organismos autónomos y de las entidades del sector público autonómico a ellas adscritas con presupuesto limitativo.
+Asimismo, las Consejerías remitirán las propuestas que contengan los presupuestos de explotación y de capital de las entidades integrantes del sector público autonómico empresarial y fundacional y de los fondos a que se refiere el apartado 1 bis del artículo 2 de esta Ley, que dependan funcionalmente de cada una de ellas.
+2. El presupuesto de ingresos de la Administración de la Comunidad Autónoma será elaborado por la Consejería competente en materia de Hacienda.
+3. Corresponderá al titular de la Consejería competente en materia de Hacienda elevar al acuerdo del Consejo Gobierno el anteproyecto de la Ley de Presupuestos Generales de la Comunidad Autónoma.
+Se modifica el apartado 1 por el art. 3.4 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 56
+
+Artículo 56. Documentación del Proyecto de Presupuestos.
+El proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma consta de la siguiente documentación:
+a) Texto articulado.
+b) Estados de ingresos y gastos.
+c) Anexo de proyectos de gastos y programación plurianual, que incluirá su clasificación territorial.
+d) Anexo de personal.
+e) Estados consolidados de los presupuestos.
+f) Memorias explicativas de los contenidos de cada presupuesto, con especificación de las principales modificaciones que presenten en relación con los vigentes.
+g) Memorias descriptivas de los programas de gasto y sus objetivos anuales.
+h) Memoria de los beneficios fiscales.
+i) Liquidación de los Presupuestos del año anterior y un avance de la liquidación del ejercicio corriente.
+j) Informe socio-económico.
+k) Presupuestos de las entidades autonómicas del sector público empresarial y del sector público fundacional.
+
+### Artículo 57
+
+Artículo 57. Remisión a la Asamblea.
+El proyecto de Ley de Presupuestos Generales de la Comunidad Autónoma será remitido a la Asamblea para su examen, enmienda y aprobación, en su caso, antes del 15 de octubre del año anterior al que se refiera.
+
+### Artículo 58
+
+Artículo 58. Prórroga de los Presupuestos.
+1. Si la Ley de Presupuestos Generales de la Comunidad Autónoma no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los presupuestos iniciales del ejercicio anterior hasta la aprobación y publicación de los nuevos en el Diario Oficial de Extremadura.
+2. La prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan.
+3. La estructura orgánica del presupuesto prorrogado se adaptará, sin alteración de la cuantía total, a la organización administrativa en vigor en el ejercicio en que el presupuesto deba ejecutarse.
+
+## CAPÍTULO IV
+
+De los créditos y sus modificaciones
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 59
+
+Artículo 59. Especialidad cualitativa de los créditos.
+Los créditos para gastos se destinarán exclusivamente a la finalidad orgánica, funcional y económica para la que hayan sido autorizados por la Ley de Presupuestos Generales de la Comunidad Autónoma o por las modificaciones aprobadas conforme a esta Ley.
+
+### Artículo 60
+
+Artículo 60. Vinculación de los créditos.
+En el presupuesto de la Administración de la Comunidad Autónoma, sus organismos autónomos y demás entidades del sector público autonómico con presupuesto limitativo los créditos para gastos tendrán, de acuerdo con el orden de prioridad que se establece, los siguientes niveles de vinculación, sin perjuicio de su contabilización al nivel que se especifique en las distintas clasificaciones que conforman la estructura presupuestaria:
+1.º Al nivel de desagregación orgánica, por programas, económica y fuente de financiación con que figuren en el estado de gastos los siguientes créditos:
+a) Los créditos extraordinarios que se concedan durante el ejercicio.
+b) Los declarados ampliables conforme a lo establecido en esta Ley.
+c) Los destinados a atenciones protocolarias y representativas.
+d) Y los que establezcan subvenciones nominativas.
+2.º A nivel de concepto, dentro de cada servicio u organismo presupuestario, programa y fuente de financiación, los créditos destinados a satisfacer los tributos.
+3.º A nivel de capítulo, dentro de cada servicio u organismo presupuestario, programa y fuente de financiación, todos los créditos cuya financiación sea afectada o distinta de CA.
+4.º Por su importe global, los créditos financiados con recursos propios CA y relativos al organismo presupuestario “Centro de Investigaciones Científicas y Tecnológicas de Extremadura”, salvo los correspondientes a gastos de personal que vincularán por su cuantía total.
+5.º A nivel de capítulo, dentro de cada servicio u organismo presupuestario y programa, todos los créditos financiados con recursos propios “CA” relativos al capítulo 6 «Inversiones reales».
+6.º Y a nivel de artículo, dentro de cada servicio u organismo presupuestario y programa, los restantes créditos financiados con recursos propios CA.
+Se modifica por el art. 15.2 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+
+### Artículo 61
+
+Artículo 61. Vinculación de los proyectos de gasto.
+Los créditos asignados a proyectos de gastos quedan sujetos a las vinculaciones establecidas en el artículo anterior para las aplicaciones presupuestarias con cargo a las que se ha previsto su realización. Además, el crédito asignado a un proyecto de gasto podrá ser vinculante en sí mismo, quedando sujeto a las limitaciones que este hecho implica, según su consideración en el correspondiente anexo de proyectos de gasto de los presupuestos.
+
+### Artículo 62
+
+Artículo 62. Especialidad cuantitativa de los créditos.
+Los créditos para gastos son limitativos. No podrán adquirirse compromisos de gasto por cuantía superior al importe de los créditos autorizados en los estados de gastos, siendo nulos de pleno derecho los actos administrativos y las disposiciones generales con rango inferior a ley que incumplan esta limitación, sin perjuicio de las responsabilidades reguladas en el título VI de esta Ley.
+
+### Artículo 63
+
+Artículo 63. Compromisos de gastos de carácter plurianual.
+1. Podrán adquirirse compromisos de gastos que hayan de extenderse a ejercicios posteriores a aquel en que se autoricen, siempre que no superen los límites y anualidades fijados en el apartado siguiente.
+2. El número de ejercicios a que pueden aplicarse los gastos no será superior a cuatro. Además, para las inversiones reales y transferencias de capital, el gasto que se impute a cada uno de los ejercicios posteriores no podrá exceder de la cantidad que resulte de aplicar al crédito inicial a que corresponda la operación, minorado o aumentado por las transferencias de créditos negativas o positivas, en su caso, los siguientes porcentajes: en el ejercicio inmediato siguiente, el 70 por 100, en el segundo ejercicio, el 60 por 100, y en los ejercicios tercero y cuarto, el 50 por 100.
+Estos porcentajes serán del 100 por 100 en cada uno de dichos ejercicios para el resto de operaciones.
+El empleo de los límites señalados en este apartado se efectuará teniendo en cuenta los niveles de vinculación para las aplicaciones presupuestarias, en las que las retenciones de créditos y autorizaciones de gasto sobre los créditos disponibles computarán a efectos de aquellos.
+Estas limitaciones no serán de aplicación a los gastos derivados de la carga financiera de la deuda, de los arrendamientos de inmuebles, incluidos los contratos mixtos de arrendamiento y adquisición, las medidas de desarrollo rural destinadas a las ayudas agroambientales, forestales y a la jubilación anticipada, los gastos derivados de generaciones de crédito que hayan de extenderse a ejercicios futuros, la subsidiación de intereses y los que, en su caso, se establezcan en la Ley de Presupuestos de cada ejercicio.
+3. Los compromisos de gastos futuros se especificarán en los escenarios presupuestarios plurianuales y deberán ser objeto de contabilización separada.
+
+### Artículo 64
+
+Artículo 64. Modificación de los porcentajes de compromisos futuros.
+1. El titular de la Consejería competente en materia de hacienda, a iniciativa de la Consejería correspondiente y previo informe de la Dirección General competente en materia de presupuestos en el que se acredite su coherencia con la programación presupuestaria de la Consejería y los recursos a asignar a las políticas de gasto, podrá acordar la modificación de los porcentajes anteriores, incrementar el número de anualidades o autorizar la adquisición de compromisos de gastos que hayan de atenderse en ejercicios posteriores en el caso de que no exista crédito inicial.
+Se modifica por el art. 9.3 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+### Artículo 65
+
+Artículo 65. Adquisiciones de bienes inmuebles con pago aplazado.
+Podrá ser diferido el vencimiento de la obligación de pago del precio de compra de bienes inmuebles adquiridos directamente, sin que, en ningún caso, el desembolso inicial a la firma de la escritura pueda ser inferior al 25 por 100 del precio, pudiendo distribuirse el resto en los cuatro ejercicios siguientes dentro de las limitaciones porcentuales contenidas en el artículo 63 de esta Ley.
+
+### Artículo 66
+
+Artículo 66. Temporalidad de los créditos.
+Los créditos para gastos que en el último día del ejercicio presupuestario no estén afectados al cumplimiento de obligaciones ya reconocidas, quedarán anulados de pleno derecho, sin perjuicio de lo establecido en el artículo 76 de esta Ley.
+
+### Artículo 66 bis
+
+Artículo 66 bis. Fondo de contingencia.
+1. El presupuesto de la Comunidad Autónoma, a fin de hacer frente durante el ejercicio presupuestario a necesidades inaplazables, de carácter no discrecional y para las que no se hubiera previsto la adecuada dotación de crédito en todo o en parte, incluirá un concepto presupuestario bajo la rúbrica «Fondo de contingencia» por importe máximo del dos por ciento del total de gastos para operaciones no financieras.
+2. El Fondo únicamente financiará, cuando proceda, las siguientes modificaciones de crédito:
+a) Las ampliaciones de crédito.
+b) Los créditos extraordinarios.
+c) Las incorporaciones de crédito.
+En ningún caso podrá utilizarse el Fondo para financiar modificaciones destinadas a dar cobertura a gastos o actuaciones que deriven de decisiones discrecionales de la Administración que carezcan de cobertura presupuestaria.
+3. La aplicación del Fondo de contingencia se aprobará, a propuesta del Consejero competente en materia de Hacienda, mediante acuerdo del Consejo de Gobierno, previamente a la autorización de las respectivas modificaciones de crédito. Trimestralmente se remitirá a la Asamblea de Extremadura, a través del Consejero de Hacienda, un informe acerca de la utilización del Fondo de contingencia.
+4. La cuantía del Fondo de contingencia podrá incrementarse durante el ejercicio presupuestario mediante transferencias de créditos de dotaciones no utilizadas, respetando el límite cuantitativo establecido en el punto primero, en cualquier caso.
+5. El remanente de crédito a final de cada ejercicio en el Fondo de contingencia no podrá ser objeto de incorporación a ejercicios posteriores.
+6. La gestión presupuestaria del Fondo de contingencia corresponderá a la Consejería competente en materia de Hacienda; en ningún caso podrán tramitarse gastos con cargo a los créditos del Fondo de contingencia.
+Se añade por el art. 27.3 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+## Sección 2
+
+Sección 2.ª De las modificaciones de créditos
+
+### Artículo 67
+
+Artículo 67. Modificación de los créditos iniciales.
+1. La cuantía y finalidad de los créditos contenidos en los presupuestos limitativos de gastos sólo podrán ser modificadas durante el ejercicio, dentro de los límites y con arreglo al procedimiento establecido en los artículos siguientes, mediante:
+a) Transferencias.
+b) Generaciones.
+c) Ampliaciones.
+d) Créditos extraordinarios.
+e) Incorporaciones de créditos.
+2. Todo acuerdo de modificación de créditos será comunicado a la Comisión de Hacienda y Presupuesto de la Asamblea en el plazo de un mes a contar desde la adopción de tal acuerdo por el órgano competente.
+
+### Artículo 68
+
+Artículo 68. Transferencias de créditos.
+Las transferencias de créditos son aquellas modificaciones del presupuesto de gastos que, sin alterar la cuantía total del mismo y manteniendo el equilibrio presupuestario, traslada el importe total o parcial de un crédito a otra u otras partidas presupuestarias y proyectos de gasto, en su caso, con diferente vinculación.
+
+### Artículo 69
+
+Artículo 69. Limitaciones en las transferencias de créditos.
+1. Teniendo en cuenta el régimen de vinculación de los créditos presupuestarios, podrán autorizarse transferencias entre los créditos de los estados de gastos con las siguientes limitaciones:
+a) No podrán realizarse desde créditos para operaciones financieras o de capital a créditos para operaciones corrientes.
+b) No minorarán créditos extraordinarios o créditos que se hayan ampliado en el ejercicio.
+c) No podrán incrementarse los créditos que hayan sido minorados mediante transferencias, salvo cuando afecten a créditos de personal. Dicha limitación se aplicará al correspondiente nivel de vinculación de los créditos. No obstante, se entenderán referidas a nivel de concepto para aquellos casos en que la vinculación esté establecida a un nivel de agregación superior. Esta limitación no afectará a las minoraciones que se realicen sobre un presupuesto prorrogado, cuando el presupuesto del año en curso se apruebe una vez iniciado el ejercicio.
+2. Las anteriores restricciones no afectarán a las transferencias que se refieran a:
+a) Los créditos del programa de imprevistos y funciones no clasificadas.
+b) Los créditos modificados como consecuencia de reorganizaciones administrativas.
+c) Los créditos procedentes del traspaso de nuevas competencias.
+d) Los créditos del programa del endeudamiento público.
+3. En ningún caso las transferencias podrán crear créditos destinados a subvenciones nominativas salvo que éstas deriven de norma con rango de ley.
+Se modifica el apartado 1 por la disposición final 5 de la Ley 2/2026, de 3 de agosto. Ref. BOE-A-2026-17839
+ Se modifica la letra c) del apartado 1 por el art. 3.5 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 70
+
+Artículo 70. Generaciones de créditos.
+1. Las generaciones son modificaciones que incrementan los créditos como consecuencia de la realización de determinados ingresos no previstos o superiores a los contemplados en el presupuesto inicial.
+2. Podrán dar lugar a generaciones los ingresos formalizados en el propio ejercicio como consecuencia de:
+a) Aportaciones del Estado, de sus organismos o instituciones, de la Unión Europea o de otras personas naturales o jurídicas, públicas o privadas, para financiar total o conjuntamente gastos que por su naturaleza estén comprendidos en los fines u objetivos asignados a la Comunidad Autónoma.
+b) Aportaciones de la Administración de la Comunidad Autónoma a los organismos autónomos o a las entidades con presupuesto limitativo, así como de los organismos autónomos y las entidades con presupuesto limitativo a la Administración de la Comunidad Autónoma, otros organismos autónomos o entidades con presupuesto limitativo para financiar total o conjuntamente gastos que por su naturaleza estén comprendidos en los fines u objetivos asignados a los mismos.
+c) Préstamos concedidos a la Administración de la Comunidad Autónoma por otras administraciones públicas, sus organismos o instituciones para financiar total o conjuntamente gastos que por su naturaleza estén comprendidos en los fines u objetivos asignados a la misma.
+d) Ingresos obtenidos por reintegros de pagos indebidos de presupuestos cerrados para la reposición de los créditos afectados con cargo al presupuesto corriente.
+e) Recursos legalmente afectados a la realización de actuaciones determinadas.
+3. La generación sólo podrá realizarse cuando se hayan efectuado los correspondientes ingresos que la justifican. No obstante, la generación como consecuencia de los supuestos previstos en las letras a), b) y c) del apartado anterior podrá realizarse una vez efectuado el reconocimiento del derecho o cuando exista un compromiso firme de aportación.
+Cuando proceda cofinanciación por parte de la Administración Autonómica, las aportaciones correspondientes de ésta se realizarán preferentemente con bajas en otros créditos presupuestarios o, excepcionalmente, con cargo al remanente de tesorería al fin del ejercicio anterior que no haya sido aplicado en el presupuesto.
+4. Con carácter excepcional podrán generar crédito en el Presupuesto del ejercicio los ingresos realizados en el último trimestre del ejercicio anterior, para los mismos supuestos anteriores.
+Se modifica por el art. 27.4 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 71
+
+Artículo 71. Compromiso firme de aportación.
+El compromiso firme de aportación es el acto por el que cualesquiera entes o personas, públicas o privadas, se obligan, mediante norma, programa, conferencia sectorial, acuerdo o concierto con la Comunidad Autónoma, sus organismos o instituciones a financiar total o parcialmente un gasto determinado de forma pura o condicionada, de tal forma que cumplidas por la Comunidad Autónoma, sus organismos o instituciones las obligaciones que, en su caso, hubiesen asumido en el correspondiente documento, el compromiso de ingreso dará lugar a un derecho de cobro exigible.
+
+### Artículo 72
+
+Artículo 72. Compromiso firme de futuro.
+Podrán formalizarse compromisos firmes de aportación que hayan de extenderse a ejercicios posteriores a aquel en que se concierten, imputando secuencialmente los recursos al presupuesto de ingresos del año en que deban hacerse efectivos.
+
+### Artículo 73
+
+Artículo 73. Créditos ampliables.
+1. Las ampliaciones de créditos son aquellas modificaciones destinadas a atender obligaciones específicas del respectivo ejercicio, derivadas de normas con rango de ley, que de modo taxativo y debidamente explicitados se relacionen en los presupuestos y, en su virtud, podrá ser incrementada su cuantía hasta el importe que alcancen las respectivas obligaciones.
+2. La financiación de las ampliaciones de crédito en el presupuesto de la Comunidad Autónoma podrá realizarse con cargo a la parte del remanente de tesorería al fin del ejercicio anterior que no haya sido aplicada en el presupuesto, mediante baja en los créditos del Fondo de contingencia conforme a lo previsto en el artículo 66 bis de esta Ley, o con baja en otros créditos del presupuesto.
+3. Asimismo, en los organismos autónomos o entidades con presupuesto limitativo pertenecientes a subsectores distintos al de Administración General, tendrán la condición de minorables los créditos que sean necesarios para reflejar las repercusiones que en los mismos tengan las modificaciones de los créditos que figuran como transferencias internas entre subsectores en los Presupuestos Generales de la Comunidad Autónoma.
+4. Tendrán la condición de ampliables los créditos que sean necesarios para atender las obligaciones de ejercicios anteriores relativas a los productos farmacéuticos y hemoderivados, y a materiales sanitarios para consumo y reposición. Al final del ejercicio, la titular de la Consejería competente en materia de hacienda procederá de oficio a dar de baja créditos que se encuentren disponibles por la misma cuantía.
+Se añade el apartado 4 por el art. 9.4 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se añade el apartado 3 por el art. 3.6 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+ Se modifica el apartado 2 por el art. 27.5 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 74
+
+Artículo 74. Créditos extraordinarios.
+1. Cuando haya de realizarse con cargo al Presupuesto de la Comunidad Autónoma algún gasto que no pueda demorarse hasta el ejercicio siguiente, y no exista crédito adecuado o sea insuficiente el consignado y su dotación no resulte posible aumentar a través de las restantes figuras de modificación, deberá procederse a la tramitación de un crédito extraordinario.
+2. La financiación de éstos se realizará de la forma que se indica a continuación:
+a) Con cargo a la parte del remanente de tesorería al fin del ejercicio anterior que no haya sido aplicada en el presupuesto.
+b) Con nuevos ingresos sobre los totales previstos en el presupuesto corriente.
+c) Mediante baja de otros créditos.
+d) Con los recursos de operaciones de crédito para financiar gastos de inversión.
+
+### Artículo 75
+
+Artículo 75. Autorizaciones de los créditos extraordinarios.
+La competencia para autorizar créditos extraordinarios corresponderá:
+a) Al Consejo de Gobierno, para atender necesidades de gastos urgentes e imprevistas hasta un límite máximo en el ejercicio del dos por ciento del presupuesto inicial consolidado no financiero cuando se financien con recursos distintos al endeudamiento.
+b) A la Asamblea, mediante la remisión de un proyecto de ley por el Consejo de Gobierno a propuesta del titular de la Consejería competente en materia de hacienda, previo informe del órgano competente en materia de presupuestos.
+Se modifica por la disposición final 2.2 del Decreto-ley 1/2022, de 2 de marzo de 2022. Ref. BOE-A-2022-6453#df-2
+ Se modifica por el art. 27.6 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 76
+
+Artículo 76. Incorporaciones de créditos.
+1. No obstante lo dispuesto en el artículo 66, se podrán incorporar a los correspondientes créditos de un ejercicio los remanentes de créditos del ejercicio anterior, en los siguientes casos:
+a) Cuando así lo disponga una norma de rango legal.
+b) Los que resulten de créditos extraordinarios que hayan sido concedidos mediante norma con rango de ley en el último trimestre del ejercicio presupuestario anterior.
+c) Los créditos que amparen compromisos de gasto contraídos antes de finalizar el ejercicio presupuestario y que, por causas justificadas, no hayan podido realizarse durante el mismo.
+d) Los procedentes de créditos para operaciones de capital.
+e) Los derivados de créditos para gastos cuya financiación sea afectada.
+2. Los remanentes de créditos se incorporarán manteniendo la misma clasificación orgánica, funcional y económica que los créditos de procedencia; no obstante, se adaptarán a las estructuras vigentes los créditos afectados por reclasificaciones.
+Se modifica el apartado 2 por el art. 27.7 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 77
+
+Artículo 77. Financiación de las incorporaciones.
+La financiación de las incorporaciones de créditos se realizará de la forma que se indica a continuación:
+a) Con cargo a la parte del remanente de tesorería al fin del ejercicio anterior que no haya sido aplicada en el presupuesto.
+b) Con cargo a los excesos de financiación y los compromisos firmes de aportación afectados a los remanentes que se pretende incorporar.
+c) Mediante baja en los créditos del Fondo de contingencia, conforme a lo previsto en el artículo 66 bis de esta Ley, o en otros créditos del presupuesto.
+Se modifica por el art. 27.8 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 78
+
+Artículo 78. Anticipos de tesorería.
+1. Los anticipos de tesorería son autorizaciones en el presupuesto de gastos con carácter provisional, para dar cobertura a gastos inaplazables que carecen de consignación presupuestaria, hasta tanto concluya la tramitación de un crédito extraordinario.
+2. Con carácter excepcional, el Consejo de Gobierno, a propuesta del Consejero competente en materia de Hacienda, podrá conceder anticipos de Tesorería para atender gastos inaplazables, con el límite máximo en cada ejercicio del dos por ciento de los créditos autorizados por la Ley de Presupuestos Generales de la Comunidad Autónoma, en los siguientes casos:
+a) Cuando se haya aprobado por el propio Consejo de Gobierno el proyecto de ley de concesión de un crédito extraordinario.
+b) Cuando se hubiera promulgado una Ley por la que se establezcan obligaciones cuyo cumplimiento exija la concesión de crédito extraordinario.
+3. Si la Asamblea no aprobase el proyecto de Ley de Concesión del Crédito Extraordinario, el Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de Hacienda, dispondrá la cancelación del anticipo de Tesorería con cargo a los créditos de la respectiva Consejería, organismo autónomo o entidad, en su caso, cuya minoración ocasione menos trastornos para el servicio público.
+
+## Sección 3
+
+Sección 3.ª Competencias en materia de modificaciones de créditos
+
+### Artículo 79
+
+Artículo 79. Competencias del Consejo de Gobierno.
+1. Corresponde al Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de Hacienda, y a iniciativa de los Centros gestores afectados, autorizar las siguientes modificaciones presupuestarias:
+a) Las transferencias de créditos entre diferentes secciones presupuestarias, salvo las señaladas en el artículo siguiente.
+b) Los créditos extraordinarios a los que se refiere la letra a) del artículo 75.
+c) Los anticipos de tesorería.
+d) Las transferencias de créditos destinadas a modificar las dotaciones de los fondos carentes de personalidad jurídica.
+2. El Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de Hacienda, podrá autorizar transferencias de crédito de las dotaciones no utilizadas en las distintas secciones del presupuesto, a los distintos créditos de imprevistos y funciones no clasificadas, dotando los créditos que sean necesarios a tal efecto, para su ulterior reasignación.
+Se añade la letra d) al apartado 1 por el art. 3.7 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 80
+
+Artículo 80. Competencias del titular de la Consejería competente en materia de Hacienda.
+Corresponde al titular de la Consejería competente en materia de Hacienda:
+1. Autorizar las siguientes modificaciones presupuestarias:
+a) Las transferencias de créditos, salvo las señaladas en el artículo 79 y 81 de esta Ley.
+b) Las generaciones de créditos.
+c) Las ampliaciones de créditos.
+d) Las incorporaciones de créditos.
+e) Las minoraciones de créditos.
+2. Autorizar modificaciones en la financiación y vinculación asignadas a los proyectos de gastos siempre que existan los derechos reconocidos o compromisos de ingresos finalistas que lo justifiquen.
+Se modifica por el art. 27.9 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 81
+
+Artículo 81. Competencias de los Consejeros y de los Presidentes y Directores de las entidades públicas con presupuesto limitativo.
+1. Los titulares de las Consejerías podrán autorizar, respecto a sus presupuestos y previo informe favorable de la Intervención competente, transferencias de créditos dentro de un mismo servicio u organismo presupuestario, incluso con la creación de créditos nuevos previamente contemplados en los códigos que definen la clasificación económica, siempre que no afecten a los créditos para gastos de personal y a los créditos cuya financiación sea afectada.
+2. Los Presidentes y Directores de los organismos autónomos y demás entidades públicas con presupuesto limitativo ejercerán, referidas a sus respectivos presupuestos, las establecidas en este artículo a favor de los Consejeros, quienes podrán avocarlas en todo o en parte. Los acuerdos de avocación serán comunicados a la Dirección General competente en materia de Presupuestos.
+3. Una vez autorizadas las modificaciones presupuestarias a que se refiere este artículo, se remitirán a la Dirección General competente en materia de Presupuestos, para su conocimiento, contabilización, en su caso, y para el posterior traslado a la Asamblea.
+Se modifica el apartado 1 por el art. 9.5 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se modifica la letra a) del apartado 1 por el art. 3.8 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+## CAPÍTULO V
+
+De las entidades integrantes del sector público autonómico, empresarial y fundacional
+
+### Artículo 82
+
+Artículo 82. Presupuesto.
+1. Las entidades integrantes del sector público autonómico empresarial y fundacional elaborarán un presupuesto de explotación que detallará los recursos y dotaciones anuales correspondientes y un presupuesto de capital con el mismo detalle. Los presupuestos de explotación y de capital se integrarán en los Presupuestos Generales de la Comunidad Autónoma.
+Los fondos a que se refiere el apartado 1 bis del artículo 2 de esta Ley elaborarán, igualmente, presupuestos de explotación y de capital.
+2. Los presupuestos de explotación y de capital estarán constituidos por una previsión de la cuenta de resultados y del cuadro de financiación del correspondiente ejercicio. Como anexo a dichos presupuestos se acompañará una previsión del balance de la entidad.
+Las entidades remitirán los estados financieros señalados en el párrafo anterior referidos, además de al ejercicio relativo al proyecto de Presupuestos Generales de la Comunidad Autónoma, a la liquidación del último ejercicio cerrado y al avance de la liquidación del ejercicio corriente.
+3. Junto con los presupuestos de explotación y de capital, se remitirá por las entidades una memoria explicativa de su contenido, de la ejecución del ejercicio anterior, y de la previsión de la ejecución del ejercicio corriente.
+Se modifica el apartado 1 por el art. 3.9 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 83
+
+Artículo 83. Tramitación.
+1. La estructura básica de los presupuestos de explotación y de capital, y la documentación complementaria que deberá acompañarlos se establecerá por la Consejería competente en materia de Hacienda, y se desarrollará por cada entidad con arreglo a sus necesidades.
+2. Las entidades que deban elaborar los presupuestos de explotación y de capital que posean, directa o indirectamente, la mayoría de capital social de una o varias sociedades mercantiles autonómicas podrán presentar sus presupuestos de explotación y de capital y, en su caso, sus programas de actuación plurianual de forma consolidada con dichas sociedades mercantiles autonómicas, relacionando las sociedades objeto de presentación consolidada. Esta norma no se aplicará a aquellas sociedades mercantiles autonómicas que, a su vez, estén participadas mayoritariamente, de forma directa o indirecta, por otra entidad que deba elaborar los presupuestos de explotación y de capital.
+3. Deberán presentar, en todo caso, el presupuesto de explotación y de capital, y en su caso, el programa de actuación plurianual de forma individualizada, todas las entidades empresariales, resto de entes del sector público sometidos a los principios y normas de contabilidad recogidos en el Plan General de Contabilidad de la empresa española y las fundacionales o consorcios integrantes del sector público autonómico recogido en el artículo 2 de esta ley, con independencia de la naturaleza de la financiación aportada en cada ejercicio presupuestario.
+Se modifica el apartado 3 por el art. 9.6 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+## CAPÍTULO VI
+
+De la gestión presupuestaria
+
+## Sección 1
+
+Sección 1.ª Principios generales y gestión por objetivos
+
+### Artículo 84
+
+Artículo 84. Principios de la gestión económico-financiera.
+1. Los sujetos que integran el sector público autonómico adecuarán su gestión económico-financiera al cumplimiento de la eficacia en la consecución de los objetivos fijados y de la eficiencia en la asignación y utilización de recursos públicos, en un marco de objetividad y transparencia en su actividad administrativa.
+2. La programación y ejecución de la actividad económico-financiera del sector público autonómico tendrá como finalidad el desarrollo de objetivos y el control de la gestión de los resultados, contribuyendo a la continua mejora de los procedimientos, servicios y prestaciones públicas, de acuerdo con las políticas de gasto establecidas por el Consejo de Gobierno y en función de los recursos disponibles.
+3. La Administración de la Comunidad Autónoma observará los adecuados cauces de cooperación y coordinación con otras Administraciones Públicas, a fin de racionalizar el empleo de los recursos con los que se dota el sector público autonómico.
+4. Los titulares de los entes y órganos administrativos que componen el sector público autonómico serán responsables de la consecución de los objetivos fijados, promoviendo un uso eficiente de los recursos públicos y prestando un servicio de calidad a los ciudadanos.
+
+### Artículo 85
+
+Artículo 85. Gestión por objetivos.
+1. Los centros gestores del gasto responsables de los distintos programas presupuestarios establecerán, a través de la elaboración de los programas plurianuales a que se refiere el artículo 40 de esta Ley, un sistema de objetivos a cumplir en su respectiva área de actuación, adecuado a la naturaleza y características de ésta.
+2. Los sistemas de gestión y control de los gastos públicos deberán orientarse a asegurar la realización de los objetivos finales de los programas presupuestarios y a proporcionar información sobre su cumplimiento, las desviaciones que pudieran haberse producido y sus causas.
+
+### Artículo 86
+
+Artículo 86. Informe sobre la consecución de objetivos.
+Los titulares de los centros gestores del gasto responsables de los distintos programas presupuestarios formularán un balance de resultados y un informe de gestión relativos al cumplimiento de los objetivos fijados para ese ejercicio en el programa plurianual correspondiente a dicho centro gestor del gasto, que se incorporarán a la memoria de las correspondientes cuentas anuales.
+
+## Sección 2
+
+Sección 2.ª Gestión de los Presupuestos Generales de la Comunidad Autónoma
+
+### Artículo 87
+
+Artículo 87. Fases de la gestión de los gastos.
+1. La gestión del presupuesto de gastos de la Administración de la Comunidad Autónoma y de sus organismos autónomos se realizará a través de las siguientes fases:
+a) Aprobación del gasto.
+b) Compromiso de gasto.
+c) Reconocimiento de la obligación y propuesta de pago.
+d) Ordenación del pago.
+e) Pago.
+2. Cuando la naturaleza de la operación o gasto así lo determinen, se acumularán en un solo acto las fases de ejecución precisas, produciendo los mismos efectos que si dichas fases se acumularan en actos administrativos separados.
+
+### Artículo 88
+
+Artículo 88. Aprobación del gasto.
+1. La aprobación es el acto mediante el cual se autoriza la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin la totalidad o parte de un crédito presupuestario.
+2. La aprobación inicia el procedimiento de ejecución del gasto, sin que implique relaciones con terceros ajenos a la Hacienda Pública autonómica.
+
+### Artículo 89
+
+Artículo 89. Compromiso del gasto.
+1. El compromiso es el acto mediante el cual se acuerda con un tercero, tras el cumplimiento de los trámites legalmente establecidos, la realización de gastos previamente aprobados, por un importe determinado o determinable.
+2. El compromiso es un acto con relevancia jurídica para con terceros, vinculando a la Hacienda Pública Autonómica a la realización del gasto a que se refiera en la cuantía y condiciones establecidas.
+
+### Artículo 90
+
+Artículo 90. Reconocimiento de la obligación y propuesta de pago.
+1. El reconocimiento de la obligación es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública Autonómica, derivado de un gasto aprobado y comprometido, y comporta la propuesta de pago correspondiente.
+2. El reconocimiento de obligaciones con cargo a la Hacienda Pública autonómica se producirá previa acreditación documental ante el órgano competente de la realización de la prestación o el derecho del acreedor de conformidad con los acuerdos que en su día aprobaron y comprometieron el gasto.
+3. El titular de la Consejería competente en materia de Hacienda, a propuesta de la Intervención General de la Comunidad Autónoma, determinará los documentos y requisitos que, conforme a cada tipo de gastos, justifiquen el reconocimiento de la obligación.
+
+### Artículo 91
+
+Artículo 91. Competencias en materia de gastos.
+1. Corresponde a los titulares de las Consejerías y a los titulares de los demás órganos de la Comunidad Autónoma con dotaciones diferenciadas en los Presupuestos Generales de la Comunidad Autónoma aprobar y comprometer los gastos propios de los servicios a su cargo, salvo los casos reservados por la Ley a la competencia del Consejo de Gobierno, así como reconocer las obligaciones correspondientes, e interesar del Ordenador General de Pagos de la Comunidad Autónoma la realización de los correspondientes pagos.
+2. Con la misma salvedad legal, compete a los presidentes o directores de los organismos autónomos de la Comunidad Autónoma la aprobación y compromiso del gasto, así como el reconocimiento y el pago de las obligaciones.
+3. Las facultades anteriores podrán desconcentrarse mediante decreto acordado en Consejo de Gobierno, o ser objeto de delegación en los términos establecidos legalmente.
+
+### Artículo 92
+
+Artículo 92. Competencias en materia de convenios.
+1. Los órganos de las Consejerías y de sus Organismos Autónomos competentes para la suscripción de convenios de colaboración o contratos-programas con otras Administraciones Públicas o con entidades de Derecho Público necesitarán autorización del Consejo de Gobierno cuando el gasto que se derive de ellos para la Hacienda Autonómica sea superior al que se establezca en la Ley de Presupuestos Generales de la Comunidad Autónoma.
+2. Con carácter previo a la suscripción se tramitará el oportuno expediente de gasto, en el cual figurará el importe máximo de las obligaciones a adquirir y, en caso de gastos de carácter plurianual, la correspondiente distribución de anualidades.
+
+### Artículo 93
+
+Artículo 93. Ordenación de pagos.
+1. La ordenación del pago es el acto mediante el cual el órgano competente emite la correspondiente orden de pago de las obligaciones exigibles contra la Hacienda de la Comunidad Autónoma previamente reconocidas y propuestas al pago, en los términos que permitan su materialización a favor de sus legítimos acreedores, adecuando su ritmo de cumplimiento a las prescripciones del Plan de Disposición de Fondos y de acuerdo con las disponibilidades líquidas de cada momento.
+2. Bajo la superior autoridad del titular de la Consejería competente en materia de Hacienda, corresponde a la Dirección General con competencia en materia de Tesorería la función de Ordenador General de Pagos. Los presidentes o directores de los Organismos Autónomos y demás entes a que se refiere la letra b) del apartado 1 del artículo 3, como ordenadores de pagos dentro del ámbito de sus competencias, estarán bajo la autoridad del titular de la Consejería competente en materia de Hacienda.
+3. Sin perjuicio de lo dispuesto en el apartado anterior, el titular de la Consejería competente en materia de Hacienda podrá nombrar ordenadores de pago secundarios con objeto de facilitar el servicio.
+4. La expedición de las órdenes de pago se ajustará, en su caso, al Plan de Disposición de Fondos a que se refiere el artículo 108.
+5. Las órdenes de pago se expedirán a favor del acreedor que figura en la correspondiente propuesta de pago. No obstante, por Orden del titular de la Consejería competente en materia de Hacienda, se podrán regular los supuestos en que puedan expedirse a favor de las Habilitaciones, así como de las entidades colaboradoras y otros agentes mediadores en el pago, que actuarán como intermediarias para su posterior entrega a los acreedores.
+
+### Artículo 94
+
+Artículo 94. Limitaciones en materia de gastos.
+1. El Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de Hacienda, podrá acordar, por razones de coyuntura presupuestaria, la no disponibilidad de créditos consignados en el presupuesto de gastos.
+2. El titular de la Consejería competente en materia de Hacienda podrá acordar la declaración de no disponibilidad, mediante la inmovilización de la totalidad o parte del saldo de crédito, en los siguientes supuestos:
+a) Partidas de gastos con financiación afectada, hasta tanto exista constancia del compromiso de ingreso correspondiente.
+b) Transferencias internas corrientes o de capital destinadas a los organismos autónomos y entidades integrantes del sector público autonómico, cuando como consecuencia de la existencia de suficientes disponibilidades líquidas, pudieran no resultar necesarias para el ejercicio de su actividad presupuestada.
+Asimismo, podrá requerir el ingreso en la Tesorería de la totalidad o parte de dichas disponibilidades líquidas, cuando no fueran necesarias para financiar el ejercicio de la actividad indicada.
+
+### Artículo 95
+
+Artículo 95. Pagos indebidos y demás reintegros.
+1. A los efectos de esta Ley se entiende por pago indebido el que se realiza por error material, aritmético o de hecho, en favor de persona que no ostente derecho alguno de cobro frente a la Administración con respecto a dicho pago o en cuantía superior a la consignada en el acto o documento que reconoció el derecho del acreedor.
+2. El perceptor de un pago indebido total o parcial queda obligado a su restitución. El órgano que en cada caso resulte competente, de oficio o por comunicación del órgano administrativo proponente del pago, dispondrá de inmediato la restitución de las cantidades indebidamente pagadas conforme a los procedimientos que reglamentariamente se establezcan.
+3. La revisión de los actos de los que se deriven reintegros distintos a los correspondientes a los pagos indebidos a que se refiere el punto 1 de este artículo se realizará de acuerdo con los procedimientos de revisión de oficio de actos nulos o anulables, previstos en la Ley 1/2002, de 28 de febrero, del Gobierno y la Administración de la Comunidad Autónoma de Extremadura, o de conformidad con los procedimientos específicos de reintegro establecidos en las normas reguladoras de los distintos ingresos, según la causa que determine su invalidez.
+4. A salvo de lo establecido por la normativa reguladora de los distintos reintegros, el reintegro de pagos indebidos o declarados inválidos devengará el interés previsto en el artículo 24 de esta Ley desde el momento en que se produjo el cobro hasta la fecha en que se acuerde la procedencia del reintegro. No devengarán intereses de demora los reintegros por pagos indebidos a que se refiere el apartado 1 de este artículo, siempre que el perceptor, con anterioridad a cualquier actuación administrativa tendente al reintegro de lo indebidamente ingresado, comunique a la Administración la existencia de un pago indebido a su favor y proceda a su restitución en la forma prevista reglamentariamente.
+
+### Artículo 96
+
+Artículo 96. Anticipos de caja fija.
+1. Los anticipos de caja fija son provisiones de fondos de carácter extrapresupuestario y permanente que se realizan a las habilitaciones para la atención inmediata y posterior aplicación al presupuesto del año en que se realicen, de gastos periódicos o repetitivos.
+2. Reglamentariamente se determinarán las normas que regulan los pagos satisfechos mediante anticipos de caja fija, especificando los conceptos presupuestarios a los que serán aplicables y los límites cuantitativos establecidos para cada uno de ellos.
+
+### Artículo 97
+
+Artículo 97. Pagos a justificar.
+1. Cuando, excepcionalmente, no pueda aportarse la documentación justificativa de las obligaciones en el momento de su reconocimiento, podrán tramitarse propuestas de pagos presupuestarios y librarse fondos con el carácter de a justificar.
+2. Además, se podrán autorizar propuestas de pago a justificar en los siguientes supuestos:
+a) Cuando los servicios y prestaciones a que se refieran se realicen en moneda extranjera.
+b) Cuando por razones de oportunidad y otras debidamente motivadas se considere necesario para agilizar la gestión de los créditos, mediante resolución del titular de la Consejería competente en materia de Hacienda.
+c) En aquellos otros supuestos que por Decreto acuerde el Consejo de Gobierno.
+3. Los preceptores de estas órdenes de pago a justificar quedan obligados a rendir cuentas justificativas de la aplicación de las cantidades recibidas y son responsables, en los términos previstos en esta Ley, de la custodia y uso de los fondos y de la rendición de la cuenta.
+4. Reglamentariamente se determinarán las normas que regulan estos pagos, especificando plazos y formas de rendición de la referida cuenta justificativa.
+
+### Artículo 98
+
+Artículo 98. Fases de la gestión de los ingresos.
+1. La gestión del Presupuesto de ingresos se realizará en las siguientes fases sucesivas o simultáneas:
+a) Reconocimiento del derecho.
+b) Extinción del derecho.
+2. El reconocimiento del derecho es el acto que, conforme a la normativa aplicable a cada recurso específico, declara y liquida un crédito a favor de la Administración.
+3. La extinción del derecho podrá producirse por su cobro en metálico, así como en especie, o por compensación, en los casos previstos en las disposiciones especiales que sean de aplicación. Las extinciones de derechos por otras causas serán objeto de contabilización diferenciada, distinguiendo entre las producidas por anulación de la liquidación y las producidas en el proceso de recaudación por prescripción, condonación o insolvencia.
+
+### Artículo 99
+
+Artículo 99. Devoluciones de ingresos.
+En la gestión de devoluciones de ingresos se distinguirá el reconocimiento del derecho a la devolución, cuyo origen será la realización de un ingreso indebido u otra causa legalmente establecida, y el pago de la devolución.
+
+## TÍTULO III
+
+De la Tesorería, del endeudamiento y de los avales
+
+## CAPÍTULO I
+
+De la Tesorería
+
+### Artículo 100
+
+Artículo 100. La Tesorería.
+1. La Tesorería de la Comunidad Autónoma de Extremadura depende de la Consejería competente en materia de Hacienda, sirve al principio de unidad de caja y está constituida por todos los recursos financieros, ya sean dinero, valores o créditos, de la Administración de la Comunidad Autónoma, sus Organismos Autónomos y los entes públicos a que se refiere la letra b) del apartado 1 del artículo 3 de esta Ley.
+2. Las disponibilidades de la Tesorería y sus variaciones quedarán sujetas a intervención y al régimen de contabilidad publica.
+
+### Artículo 101
+
+Artículo 101. Funciones de la Tesorería.
+Son funciones de la Tesorería:
+a) Recaudar los derechos, recoger los flujos monetarios de toda clase de ingresos y pagar las obligaciones.
+b) Servir al principio de unidad de caja, mediante la centralización de los fondos y valores generados por operaciones presupuestarias y no presupuestarias.
+c) Distribuir en el tiempo y en el territorio las disponibilidades necesarias para la puntual satisfacción de las obligaciones.
+d) Responder de los avales contraídos por la Administración de la Comunidad Autónoma, según las disposiciones de esta Ley, así como custodiar los avales que se depositen en la Caja General de Depósitos.
+e) Las demás que se deriven o relacionen con éstas.
+
+### Artículo 102
+
+Artículo 102. Registro de cuentas.
+Reglamentariamente se regulará el funcionamiento del registro de cuentas de la Comunidad Autónoma, en el que se inscribirán todas las cuentas financieras de titularidad de las distintas entidades que forman parte del sector público autonómico.
+
+### Artículo 103
+
+Artículo 103. Caja General de Depósitos.
+1. Dependiendo de la Tesorería existirá la Caja General de Depósitos de la Comunidad Autónoma.
+2. En la Caja General de Depósitos se constituirán, a disposición de la autoridad administrativa correspondiente, los depósitos definitivos realizados en metálico, valores y avales que deben constituirse a favor de la Administración de la Comunidad Autónoma de Extremadura, sus Organismos Autónomos y los entes públicos a que se refiere la letra b) del apartado 1 del artículo 3 de esta Ley. Estas funciones podrán organizarse en régimen de desconcentración, en los términos que reglamentariamente se determinen.
+3. Así mismo, se constituirán en la Caja General de Depósitos los depósitos y garantías que se determinen por ley, disposición reglamentaria, acto administrativo o resolución judicial.
+4. Las cantidades depositadas no devengarán interés alguno y prescribirán a favor de la Comunidad cuando en el plazo de veinte años no se realice gestión alguna por los interesados en ejercicio de su derecho de propiedad.
+
+### Artículo 104
+
+Artículo 104. Relación con entidades de crédito.
+1. Los recursos de la Tesorería se situarán en entidades de crédito debidamente autorizadas por el Banco de España para el ejercicio de su actividad, en cuentas de las que, en todo caso, ostentará su titularidad la Junta de Extremadura, sus Organismos Autónomos o los entes públicos a que se refiere la letra b) del apartado 1 del artículo 3 de la presente Ley.
+2. El régimen de autorizaciones para la apertura de cuentas en las que se sitúen fondos, la naturaleza de las mismas, el tipo de interés mínimo al que serán retribuidas, las comisiones máximas a pagar en su caso, y la situación, disposición y control de determinado tipo de recursos de la Hacienda de la Comunidad Autónoma, se determinará reglamentariamente. Los fondos situados en estas cuentas quedarán excluidos de la facultad de compensación.
+3. La Consejería competente en materia de Hacienda podrá suscribir convenios con las entidades de crédito, tendentes a determinar el régimen de funcionamiento de las cuentas en que se encuentren situados fondos de la Tesorería y, en especial, el tipo de interés al que serán retribuidas, las comisiones a pagar, en su caso, los medios de pago asociados a las mismas y las demás obligaciones y servicios asumidos por las entidades.
+4. La Consejería con competencias en materia de Hacienda, en relación con las cuentas abiertas en entidades de crédito podrá recabar del órgano administrativo gestor o de la entidad de crédito, cualquier dato relativo a las mismas, a fin de comprobar el cumplimiento de las condiciones de su utilización. Igualmente, podrá ordenar su cancelación o paralizar su utilización cuando se compruebe que no persisten o se han modificado las razones que determinaron su apertura.
+5. Las entidades de crédito podrán prestar servicios de mediación en los ingresos y pagos de la Tesorería.
+
+### Artículo 105
+
+Artículo 105. Medios de pago.
+1. Los ingresos y los pagos de la Tesorería podrán realizarse mediante efectivo, cheque, transferencia, domiciliación bancaria o cualesquiera otros medios de pago, sean o no bancarios, en los términos que se establezcan reglamentariamente.
+2. No obstante lo anterior, la Consejería competente en materia de Hacienda podrá exigir que, en la realización de determinados ingresos o pagos, sólo puedan utilizarse determinados medios, estableciéndose como preferente la transferencia bancaria.
+
+### Artículo 106
+
+Artículo 106. Pago, compensación de oficio y convenios de información de pagos.
+1. El pago es el acto por el cual se produce la salida material de fondos de la Tesorería.
+2. Serán compensables, de oficio una vez transcurrido el plazo de ingreso en período voluntario, o a instancia del obligado al pago en cualquier momento, las deudas a favor de la Hacienda Pública de Extremadura derivadas de la gestión de sus tributos propios y demás ingresos de derecho público con los créditos reconocidos a favor de los deudores. Esta compensación se efectuará mediante la oportuna retención en las órdenes de pago expedidas a favor del deudor.
+3. Se podrán suscribir convenios con órganos pertenecientes a otras administraciones a efectos del intercambio de información contable relacionado con las propuestas de pago a favor de los acreedores de la Hacienda de la Comunidad.
+
+### Artículo 107
+
+Artículo 107. Embargo de derechos de cobro.
+1. Las providencias y diligencias de embargo, mandamientos de ejecución, acuerdos de inicio de procedimiento administrativo de compensación y actos de contenido análogo, dictados por órganos judiciales o administrativos, en relación con derechos de cobro que los particulares ostenten frente a la Administración General de la Comunidad Autónoma y que sean pagaderos a través de la Tesorería de la Comunidad, se comunicarán necesariamente al órgano directivo competente en materia de Tesorería para su debida práctica, y contendrán al menos la identificación del afectado, con expresión del nombre o denominación social y su número de identificación fiscal y el importe del embargo, ejecución o retención
+2. Recibidas las providencias, diligencias de embargo, mandamientos de ejecución y actos de contenido análogo, la Tesorería procederá al descuento y pago de los importes indicados sobre los derechos de cobro existentes. Si no existiesen derechos de cobro procederá a anotar la incidencia si existiese vigente alguna relación comercial con el tercero afectado, practicando el descuento y pago de los importes en el momento en que se liquiden los correspondientes derechos de cobro. Finalizada la relación comercial o en el caso de que no existir, la Tesorería comunicará al órgano ejecutante dicha circunstancia, entendiéndose atendida la misma.
+3. En el supuesto de que los derechos de cobro a que se refieren los apartados anteriores hubieran sido objeto de cualquier tipo de transmisión, cesión o endoso, con independencia de la naturaleza jurídica de éstos, y siempre que se haya seguido la tramitación administrativa y contable según los procedimientos establecidos, el órgano directivo competente en materia de Tesorería lo pondrá en conocimiento del órgano judicial o administrativo embargante haciendo constar los datos que figuren en el sistema contable sobre dicha transmisión, cesión o endoso, además de comunicar al cesionario o endosatario el descuento que se practique sobre el derecho de cobro, para el ejercicio de las acciones que, en defensa de su derecho pudiera ejercitar ante el órgano embargante.
+4. Si los derechos de cobro corresponden a interesados declarados en concurso de acreedores, la efectividad para la Comunidad Autónoma en cuanto al pago, quedará condicionada a la recepción por el órgano directivo competente en materia de Tesorería de la notificación de la diligencia judicial en la que se especifique el destinatario y la forma de pago acordados en el procedimiento de concurso.
+5. En todo caso, serán los interesados, en su condición de beneficiarios, contratistas, cesionarios o endosatarios, los que deban realizar las actuaciones necesarias en defensa de sus intereses ante los órganos judiciales o administrativos embargantes, quedando exonerada la Comunidad Autónoma de cualquier responsabilidad derivada del embargo de los derechos de cobro.
+Se modifica por la disposición final 1 de la Ley 3/2021, de 30 de diciembre. Ref. BOE-A-2022-1060
+ Se añaden los apartados 3 a 5 por el art. 27.10 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 108
+
+Artículo 108. Plan de Disposición de Fondos de Tesorería.
+1. La persona titular de la Consejería competente en materia de Hacienda, al objeto de conseguir una adecuada distribución temporal de los pagos y una correcta estimación de las necesidades de endeudamiento de la comunidad, aprobará anualmente, a propuesta del órgano directivo competente en materia de Tesorería, un Plan de Disposición de Fondos de Tesorería al que habrá de acomodarse la expedición de las órdenes de pago. También contendrá dicho Plan una previsión sobre los ingresos de la Comunidad Autónoma. Dicho Plan será remitido a la Asamblea de Extremadura para su conocimiento.
+2. Para la elaboración del mismo, el órgano directivo competente en materia de Tesorería podrá recabar del sector público autonómico cuantos datos, previsiones y documentación estime oportuna sobre los pagos e ingresos que puedan tener incidencia en el mencionado Plan.
+3. El Plan de Disposición de Fondos de Tesorería podrá ser modificado a lo largo de un ejercicio en función de los datos sobre su ejecución o cambios en las previsiones de ingresos o de pagos. Para su modificación se seguirá la tramitación establecida en el apartado 1 de este artículo para su aprobación.
+4. A los efectos de asegurar la gestión eficiente de la Tesorería de la Comunidad Autónoma, el órgano directivo competente en materia de Tesorería podrá retener las propuestas de pago a favor de las entidades del sector público autonómico cuyos recursos financieros integran la Tesorería de la Comunidad Autónoma, como consecuencia de la existencia de suficientes disponibilidades líquidas y no resultar necesarias para el ejercicio de su actividad presupuestada, sin interferir en las competencias que tienen atribuidas.
+5. Con carácter general, la cuantía de los pagos ordenados en cada momento se ajustará al Plan de Disposición de Fondos de Tesorería.
+6. El Ordenador de Pagos aplicará criterios objetivos en la expedición de las órdenes de pago, tales como la fecha de expedición, el importe de la operación, aplicación presupuestaria y forma de pago, entre otros.
+Se modifica por el art. 15.3 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+
+### Artículo 109
+
+Artículo 109. Excedentes de tesorería.
+La Consejería competente en materia de Hacienda podrá concertar operaciones financieras activas cuando tengan por objeto colocar transitoriamente excedentes de tesorería, siempre que éstas reúnan las condiciones adecuadas de liquidez, seguridad y rentabilidad económica.
+En el caso de concesión de préstamos a favor de las entidades reguladas en los artículos 119 y 120 de esta Ley, se requerirá autorización previa del Consejo de Gobierno (…).
+Se modifica por el art. 15.4 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+
+## CAPÍTULO II
+
+Del endeudamiento
+
+## Sección 1
+
+Sección 1.ª Normas generales
+
+### Artículo 110
+
+Artículo 110. Conceptos.
+1. Constituye el endeudamiento de la Comunidad Autónoma de Extremadura el conjunto de capitales tomados a préstamo, a corto o largo plazo, en moneda nacional o en divisas, por las entidades pertenecientes al sector público autonómico de Extremadura.
+2. Igualmente formará parte de su endeudamiento, en los términos reflejados en el apartado anterior, el correspondiente a las demás entidades que se clasifiquen en el sector administración pública en el ámbito de esta Comunidad Autónoma con arreglo a las normas del Sistema Europeo de Cuentas Nacionales y Regionales.
+3. El endeudamiento de la Comunidad Autónoma de Extremadura podrá adoptar cualquiera de las siguientes modalidades:
+a) Empréstitos representados por medio de títulos, anotaciones en cuenta o cualquier otro documento que formalmente los reconozca.
+b) Operaciones de crédito, o préstamo concertadas con personas físicas o jurídicas.
+c) Cualquier otra apelación al crédito público o privado admitida en derecho.
+4. Se entiende por endeudamiento a corto plazo el formado por aquellas operaciones cuyo vencimiento se produzca en un plazo no superior a doce meses desde su formalización.
+5. Se entiende por endeudamiento a largo plazo el formado por aquellas operaciones cuyo vencimiento se produzca en un plazo superior a doce meses desde su formalización.
+
+## Sección 2
+
+Sección 2.ª Endeudamiento de la Administración de la Comunidad Autónoma, los organismos autónomos y entes públicos con presupuesto limitativo del sector público autonómico
+
+### Artículo 111
+
+Artículo 111. Operaciones a corto plazo.
+La Administración de la Comunidad Autónoma podrá realizar operaciones de endeudamiento a corto plazo con objeto de cubrir necesidades transitorias de tesorería, con el límite de que el saldo vivo de todas las operaciones de esta naturaleza, cualquiera que sea la forma como se documente, no podrá superar el 10 % del importe inicial del estado de ingresos por operaciones corrientes.
+
+### Artículo 112
+
+Artículo 112. Operaciones a largo plazo.
+1. La Administración de la Comunidad Autónoma podrá realizar operaciones de endeudamiento por plazo superior a un año, siempre que se cumplan los siguientes requisitos:
+a) Que el importe total del crédito se destine a financiar gastos de inversión.
+b) Que el importe total de las anualidades de amortización, por capital e intereses, no exceda del 25 por 100 de los ingresos corrientes.
+2. También tendrán la consideración de operaciones de endeudamiento a largo plazo aquellas que respondan a necesidades de financiación de operaciones de capital que, por condiciones favorables del mercado que permitan reducir el coste de dicha financiación, convenga formalizar en instrumentos de uso en el corto plazo, en el marco de programas financieros acordados.
+Se modifica por el art. 58 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+
+### Artículo 113
+
+Artículo 113. Otras operaciones financieras.
+Se autoriza al Consejero competente en materia de Hacienda a:
+a) Acordar operaciones de canje, conversión, amortización anticipada total o parcial, refinanciación, sustitución o modificación de las condiciones de las operaciones de endeudamiento, al amparo de lo dispuesto en las respectivas normas de emisión o contracción, o por mutuo acuerdo de acreedores, cuando la situación del mercado u otras circunstancias lo aconsejen.
+b) Acordar la realización de operaciones de intercambio financiero o derivados financieros tales como seguros, permutas, opciones y cualquier otra operación que tenga por finalidad limitar, diversificar o modificar el riesgo cambiario o el riesgo y coste del endeudamiento debido a la evolución de los tipos de interés, facilitar su colocación, negociación o administración, o mejorar la gestión y distribución de la carga financiera.
+c) Concertar convenios de colaboración con entidades financieras e instituciones de inversión colectiva u otros inversores institucionales con el fin de promover la mejor colocación del endeudamiento y la liquidez de su mercado.
+
+### Artículo 114
+
+Artículo 114. Aplicación íntegra de los ingresos y gastos provenientes del endeudamiento y excepciones.
+El producto, la amortización y los gastos por intereses y por conceptos derivados de las operaciones de endeudamiento se aplicarán por su importe íntegro al respectivo presupuesto, con las siguientes excepciones, que tendrán la consideración de operaciones no presupuestarias:
+a) Las operaciones de intercambio financiero o derivados financieros tales como seguros, permutas, opciones o cualquiera otra prevista en el artículo 113 b), respecto de las que se imputará únicamente al Presupuesto el resultado neto total producido durante el ejercicio por el conjunto de operaciones de esta naturaleza.
+No obstante, cuando alguna de las dos partes de los derivados financieros tenga un período de liquidación fraccionario distinto de la otra, las diferencias se imputarán al Presupuesto del ejercicio de la liquidación del período más largo, manteniéndose entre tanto el producto de las liquidaciones fraccionarias en una cuenta de operaciones no presupuestarias.
+b) Los flujos que durante el ejercicio pudieran producirse como consecuencia de contratos de colateralización o acuerdos de cesiones en garantía, a excepción de los intereses y rendimientos a ellos asociados.
+c) El producto y la amortización de las operaciones de endeudamiento a corto plazo por necesidades transitorias de tesorería.
+d) Las operaciones comprendidas en los supuestos contemplados en el artículo 113 a), materializadas mediante la formalización de nuevas operaciones de endeudamiento y siempre que lleven aparejadas la amortización anticipada total o parcial de operaciones contratadas con anterioridad, cuando dichas amortizaciones anticipadas no se encuentren contempladas en los estados de gastos de las correspondientes leyes anuales de presupuestos.
+Se modifica el apartado b) por el art. 14.1 de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-226.
+ Se modifica por el art. 59 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+ Se modifica por el art. único de la Ley 3/2014, de 23 de mayo. Ref. BOE-A-2014-6213.
+ Se modifica por el art. único del Decreto-ley 1/2014, de 22 de abril. Ref. BOE-A-2014-5117.
+
+### Artículo 115
+
+Artículo 115. Habilitación legal para la creación del endeudamiento a largo plazo.
+La creación del endeudamiento a largo plazo habrá de ser autorizada por las Leyes anuales de presupuestos o por las que se dicten al efecto, que deberán fijar, de acuerdo con la normativa aplicable en materia de estabilidad presupuestaria, el importe máximo autorizado y, en su caso, los requisitos, características y modalidades del mismo.
+
+### Artículo 116
+
+Artículo 116. Competencia para la formalización del endeudamiento.
+1. Sin perjuicio de lo dispuesto en el artículo 113 de esta ley, corresponderá al titular de la Consejería competente en materia de Hacienda la contratación y formalización de las operaciones de endeudamiento, previa autorización del Consejo de Gobierno.
+2. No obstante lo anterior, cuando se trate de la formalización de préstamos concedidos por otras Administraciones Públicas o Entidades pertenecientes a su Sector Público, la contratación y formalización de dichas operaciones corresponderá al titular de la Consejería competente por razón de la materia, siempre que no afecten al cumplimiento del objetivo de deuda pública. En todo caso será necesario autorización expresa previa del titular de la Consejería competente en materia de Hacienda.
+3. En cualquier caso, las autorizaciones previas requerirán informe de la Consejería competente en materia de Hacienda en relación con el efecto de las citadas operaciones sobre los compromisos asumidos en materia de endeudamiento.
+Se modifica el apartado 2 por el art. 15.5 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+ Se modifica por el art. 60 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+ Se modifica por el art. 27.11 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 117
+
+Artículo 117. Régimen jurídico.
+1. Las operaciones de endeudamiento se realizarán en los mercados financieros conforme a las normas, reglas, técnicas, condiciones y cláusulas usuales en tales mercados, pudiendo acordar el sometimiento a arbitraje o la remisión a una legislación o tribunales extranjeros, siempre que se observe lo dispuesto en el artículo 17 de esta Ley, respetando lo establecido en la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y demás normativa aplicable en materia de estabilidad presupuestaria.
+2. La concertación de las operaciones financieras reguladas en este capítulo, excepto aquellas que corresponda a préstamos concedidos por otras Administraciones Públicas o Entidades de su Sector Público y las contempladas en el apartado a) del artículo 113 de esta Ley, se realizará mediante procedimientos que garanticen, en todo caso, el principio de concurrencia.
+3. El endeudamiento gozará, según su modalidad y características, de los mismos beneficios y prerrogativas que la Deuda del Estado.
+4. A los valores representativos del endeudamiento, cuando éste se realice mediante empréstitos o emisiones de deuda, les será de aplicación el régimen establecido por el ordenamiento jurídico general, según la modalidad y las características de los mismos.
+5. Se dará cuenta a la Asamblea de Extremadura de todas las operaciones de endeudamiento formalizadas en el plazo de un mes desde la fecha de formalización.
+Se modifican los apartados 1 y 2 por el art. 14.2 de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-226.
+ Se modifica el apartado 2 por el art. 27.12 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 118
+
+Artículo 118. Prescripción.
+1. Prescribirán a los cinco años las acciones para reclamar los intereses del endeudamiento y para devolver los capitales llamados a reembolso, contados respectivamente, a partir del vencimiento de los intereses y del día del llamamiento a reembolso. En los supuestos de llamada a conversión o canje obligatorio, prescribirá la obligación de reembolso de capitales a los diez años contados desde el último día del plazo establecido para la obligación.
+2. Cuando los capitales llamados a reembolso se hallasen afectos a fianzas constituidas ante la Administración, el plazo de prescripción de la obligación de reembolso empezará a contar desde la fecha en que, con conocimiento del interesado, deje de ser necesaria la fianza o se acuerde su levantamiento.
+3. Los capitales del endeudamiento prescribirán a los veinte años cuando su titular no haya percibido sus intereses durante este tiempo ni realizado acto alguno ante la Administración de la Hacienda de la Comunidad que suponga o implique el ejercicio de su derecho.
+4. La prescripción se interrumpirá conforme a las disposiciones del Código Civil.
+
+### Artículo 119
+
+Artículo 119. Endeudamiento de los organismos autónomos y entes públicos.
+1. Los organismos autónomos y entes públicos recogidos en la letra b) apartado 1 del artículo 3 de esta Ley no podrán concertar operaciones de endeudamiento, salvo que la Ley de Presupuestos Generales de la Comunidad Autónoma, o leyes especiales a tal efecto, en base a la especial naturaleza de las condiciones y actividad a realizar, así lo autorice. Dicha ley establecerá los términos y límites en que dicho endeudamiento debiera realizarse.
+2. En ese caso, las competencias señaladas en los artículos 113 y 116 de esta Ley se entenderán referidas al presidente o director de la entidad correspondiente.
+3. En cuanto a la autorización del Consejo de Gobierno, las competencias de la Consejería competente en materia de Hacienda, las disposiciones con cargo al Fondo de Financiación a Comunidades Autónomas y las obligaciones de información, será aplicable, en todo caso, lo establecido en el artículo 120.
+Se modifica el apartdo 3 por el art. 15.6 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+
+## Sección 3
+
+Sección 3.ª Endeudamiento de las entidades del Sector Administración Pública y otras entidades del sector público autonómico
+
+### Artículo 120
+
+Artículo 120. Endeudamiento de las entidades del Sector Administración Pública de la Comunidad Autónoma.
+1. Las entidades distintas a las mencionadas en la sección anterior que se clasifiquen en el Sector Administración Pública de la Comunidad Autónoma, con arreglo a las normas del Sistema Europeo de Cuentas Nacionales y Regionales, podrán concertar operaciones de endeudamiento a corto y largo plazo, en coordinación con la ejecución de la política de endeudamiento de la Administración General de la Comunidad Autónoma.
+Las disposiciones realizadas con cargo al Fondo de Financiación a Comunidades Autónomas implicarán la formalización de una operación de endeudamiento a largo plazo con la Consejería competente en materia de Hacienda por importe equivalente al dispuesto, siendo esta última la competente para atender los vencimientos del referido Fondo.
+2. La creación de endeudamiento para cada entidad deberá ser autorizada por la Ley de Presupuestos, o leyes especiales que se dicten a tal efecto, que fijará el importe máximo de estas operaciones, sus requisitos, características y destino.
+3. Corresponde al Consejo de Gobierno acordar la autorización de dichas operaciones, a propuesta conjunta de los titulares de la Consejería competente en materia de Hacienda y de la Consejería a la que corresponda por razón de la adscripción administrativa de la entidad, o de la que resulte su dependencia presupuestaria.
+No obstante, cuando se trate de operaciones a corto plazo para cubrir necesidades transitorias de tesorería por importe inferior a 600.000 euros, o bien de préstamos concedidos por otras Administraciones Públicas o Entidades pertenecientes a su Sector Público, la autorización corresponderá al titular de la Consejería competente en materia de Hacienda, siempre que no afecten al cumplimiento del objetivo de deuda pública.
+En cualquier caso, las autorizaciones previas requerirán informe por la Consejería competente en materia de Hacienda, en relación con el efecto de dichas operaciones sobre los compromisos asumidos por la Comunidad Autónoma en materia de endeudamiento.
+4. Corresponderá al representante autorizado de la entidad la contratación y formalización de las operaciones. No obstante, las tareas de contratación, formalización y gestión de dicho endeudamiento podrán ser asumidas por la Consejería competente en materia de Hacienda, si así lo considerara conveniente la citada Consejería, a fin de conseguir mejores condiciones financieras para las operaciones.
+5. Deberán cumplirse los requisitos de información a la Asamblea de Extremadura establecidos para la Administración de la Comunidad Autónoma en el apartado 5 del artículo 117 de esta Ley, que se realizarán a través de la Consejería competente en materia de Hacienda.
+6. Durante los diez primeros días de cada trimestre, las entidades deberán poner en conocimiento del centro directivo competente en materia de endeudamiento la situación detallada de su endeudamiento vivo al final del trimestre anterior, así como de las operaciones financieras activas.
+Se modifican los apartados 1 y 3 por el art. 15.7 y 8 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a1-7
+ Se modifica el apartado 6 por el art. 9.7 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se añaden los apartados 4 a 6 por el art. 14.3 de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-226.
+ Se modifica por el art. 61 de la Ley 1/2015, de 10 de febrero. Ref. BOE-A-2015-2340.
+ Se modifican los apartados 3 y 4 por el art. 27.13 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 121
+
+Artículo 121. Endeudamiento de otras entidades del sector público autonómico.
+1. Las entidades del sector público autonómico no reguladas en los artículos anteriores podrán concertar operaciones de endeudamiento a largo y corto plazo, en coordinación con la ejecución de la política de endeudamiento de la Administración General de la Comunidad Autónoma.
+2. Las citadas entidades deberán informar a la Consejería competente en materia de Hacienda de las operaciones de endeudamiento reguladas en este artículo en el plazo de un mes desde la fecha de su formalización.
+En lo relativo a la información trimestral a suministrar a la Dirección General competente en materia de endeudamiento se estará a lo dispuesto en el punto 6 del artículo anterior.
+Igualmente, antes de finalizar cada ejercicio, las citadas entidades deberán poner en conocimiento de la Consejería competente en materia de Hacienda las previsiones de endeudamiento a largo plazo para el ejercicio siguiente.
+
+## CAPÍTULO III
+
+De los avales
+
+### Artículo 122
+
+Artículo 122. Objeto de los avales y límites.
+1. La Administración de la Comunidad Autónoma de Extremadura podrá afianzar las obligaciones derivadas de operaciones de crédito concertadas por personas naturales o jurídicas, públicas o privadas, mediante garantías que revestirán necesariamente la forma de aval.
+2. El importe total de los avales a prestar y el límite individual de cada uno de ellos dentro de la cuantía global, serán determinados por la Ley de Presupuestos de cada ejercicio, o las leyes especiales que se dicten al efecto.
+3. El límite anual se entenderá referido al principal de las operaciones avaladas. El aval concedido no podrá garantizar más que el pago del principal y los intereses, salvo disposición en contrario establecida en la Ley de Presupuestos o leyes especiales.
+
+### Artículo 123
+
+Artículo 123. Competencias.
+1. La concesión y modificación de los avales de la Administración de la Comunidad Autónoma de Extremadura serán autorizadas por el Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de Hacienda, previa solicitud de la Consejería competente en función del beneficiario del aval.
+2. La autorización del Consejo de Gobierno podrá referirse específicamente a cada operación o comprender varias de ellas, con determinación, en todo caso, de la identidad de los avalados, del plazo dentro del cual deberán ser otorgados los avales, y de su importe máximo individual o global.
+3. Los acuerdos de autorización de los avales deberán ser publicados en el Diario Oficial de Extremadura.
+4. A la Consejería competente en materia de Hacienda le corresponderá el control y seguimiento de los avales otorgados, debiendo aportar las entidades afectadas la información que en su caso les fuera solicitada.
+
+### Artículo 124
+
+Artículo 124. Formalización de los avales.
+1. La formalización de avales de la Administración de la Comunidad Autónoma corresponde al titular de la Consejería competente en materia de Hacienda quien, sin perjuicio de los límites que puedan haberse establecido en la preceptiva autorización del Consejo de Gobierno, podrá concertar los pactos y condiciones que resulten usuales en los mercados financieros.
+En particular, podrá acordar:
+a) La renuncia al beneficio de excusión que establece el artículo 1830 del Código Civil.
+b) Excepcionalmente, en los avales que garanticen operaciones de crédito exterior, el sometimiento a arbitraje o la remisión a una legislación o tribunales extranjeros, siempre que se observe lo dispuesto en el artículo 17 de esta ley.
+2. Los avales se presumirán otorgados con carácter subsidiario, salvo que al concederse se hubiera dispuesto expresamente lo contrario.
+3. Salvo que en ella se indicara expresamente lo contrario, se entenderá revocada la autorización del Consejo de Gobierno cuando el aval no se formalizase en el plazo de un año a contar desde la fecha de dicho acuerdo. El Consejo de Gobierno podrá, en su caso y antes de finalizar dicho plazo, acordar su prórroga sin que este hecho afecte al límite al que se refiere el artículo 122.
+
+### Artículo 125
+
+Artículo 125. Limitación de riesgos.
+1. Sin perjuicio de lo dispuesto en el acuerdo de autorización del Consejo de Gobierno, el titular de la Consejería competente en materia de Hacienda podrá establecer las contra garantías y demás mecanismos que considere oportunos para limitar el riesgo de ejecución de los avales prestados por la Administración de la Comunidad Autónoma.
+2. En particular, si como consecuencia de las actuaciones de control se observara una notoria disminución de la solvencia del avalado durante la vigencia del aval, la Consejería competente en materia de Hacienda podrá exigirle la presentación de las garantías oportunas para la seguridad de su eventual obligación de reembolso.
+
+### Artículo 126
+
+Artículo 126. Devengo de comisión.
+Los avales prestados por la Administración de la Comunidad Autónoma devengarán, a favor de la misma, la comisión que para cada operación se hubiera determinado en la autorización del Consejo de Gobierno.
+
+### Artículo 127
+
+Artículo 127. Facultades de inspección.
+La Consejería competente en materia de Hacienda, a través de la Intervención General, podrá inspeccionar las operaciones o inversiones financiadas con créditos avalados por la Administración de la Comunidad Autónoma de Extremadura, para comprobar su aplicación y rentabilidad, dando cuenta de los resultados al Consejo de Gobierno.
+
+### Artículo 128
+
+Artículo 128. Obligación de información.
+1. El Consejero competente en materia de Hacienda informará trimestralmente al Consejo de Gobierno acerca de las incidencias que se hayan producido en la concesión, reducción, modificación o cancelación de los avales y, en su caso, de los riesgos efectivos a los que la Administración de la Comunidad Autónoma de Extremadura haya hecho frente directamente como consecuencia del ejercicio de su función de avalista.
+2. Todo acuerdo de concesión o modificación de avales será comunicado a la Comisión de Hacienda y Presupuesto de la Asamblea de Extremadura en el plazo de un mes desde su formalización.
+
+### Artículo 129
+
+Artículo 129. Operaciones garantizadas por Sociedades de Garantía Recíproca.
+La Administración de la Comunidad Autónoma de Extremadura podrá afianzar operaciones de crédito concertadas por empresas avaladas por Sociedades de Garantía Recíproca, conforme a lo establecido en la presente Ley.
+
+### Artículo 130
+
+Artículo 130. Avales concedidos por organismos autónomos y entes públicos con presupuesto limitativo.
+1. Los organismos autónomos y entes públicos recogidos en la letra b) apartado 1 del artículo 3 de esta Ley no podrán prestar avales, salvo que la Ley de Presupuestos Generales de la Comunidad Autónoma, o leyes especiales a tal efecto, en base a la especial naturaleza de las condiciones y actividad a realizar, así lo autoricen, y siempre que estén autorizados para ello en sus leyes de creación. Dicha ley establecerá los términos y límites en que dichas operaciones debieran realizarse.
+2. En ese caso, las competencias señaladas en el artículo 124 de esta Ley, en materia de concertación, se entenderán referidas al presidente o director de la entidad correspondiente.
+3. En cuanto a régimen de autorizaciones, competencias de la Consejería competente en materia de Hacienda y obligaciones de información, les será aplicable, en todo caso, lo establecido en el artículo 131 para los entes clasificados en el sector administración pública de la Comunidad Autónoma con arreglo a las normas del Sistema Europeo de Cuentas Nacionales y Regionales, así como lo establecido en el apartado 3 del artículo 124.
+
+### Artículo 131
+
+Artículo 131. Avales concedidos por otras entidades del sector público autonómico y entidades del Sector Administración Pública de la Comunidad Autónoma.
+1. Se entiende regulado en este artículo lo inherente en materia de avales a las entidades que formen parte del sector público autonómico, así como a aquellas que se clasifiquen en el Sector Administración Pública de la Comunidad Autónoma, con arreglo a las normas del Sistema Europeo de Cuentas Nacionales y Regionales, no recogidas en los apartados anteriores y siempre que estén autorizadas para ello por sus leyes de creación.
+2. Dichas entidades podrán prestar avales en las condiciones y hasta el límite máximo fijado para las mismas dentro de cada ejercicio por la Ley de Presupuesto, o leyes especiales que se dicten a tal efecto.
+3. Se requerirá autorización del Consejo de Gobierno, previo informe favorable de la Consejería competente en materia de Hacienda, cuando el avalista sea un ente clasificado en el sector administración pública de la Comunidad Autónoma con arreglo a las normas del Sistema Europeo de Cuentas Nacionales y Regionales.
+4. En cualquier caso, dichas operaciones se formalizarán respetando lo dispuesto en la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y demás disposiciones aplicables en materia de estabilidad presupuestaria y sostenibilidad financiera.
+5. Las entidades comprendidas en el presente artículo deberán dar cuenta a la Consejería competente en materia de Hacienda de cada uno de los avales concedidos en el plazo de quince días desde su concesión.
+6. Todos las entidades reguladas en este artículo deberán remitir con carácter trimestral, y durante los primeros quince días de cada trimestre, a la Consejería competente en materia de Hacienda, información relativa a la situación de los avales concedidos.
+7. La Consejería competente en materia de Hacienda controlará, a través de la Intervención General, el destino de los créditos avalados para conocer en cada momento la aplicación de los mismos.
+Se añade el apartado 4 por el art. 14.4 de la Ley 8/2016, de 12 de diciembre. Ref. BOE-A-2017-226.
+ Se deroga el apartado 4 por la disposición derogatoria única.2 de la Ley 20/2010, de 28 de diciembre. Ref. BOE-A-2011-1145.
+
+## TÍTULO IV
+
+De la contabilidad
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+Véase, en cuanto a la aplicación de las modificaciones hechas a este Título por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9, lo dispuesto en la disposición final 12 de la citada Ley.
+
+## CAPÍTULO I
+
+Normas generales
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 132
+
+Artículo 132. Principios generales. Aplicación de principios contables.
+1. La contabilidad del sector público autonómico se configura como un sistema de información económico-financiera y presupuestaria que tiene por objeto mostrar, a través de estados e informes, la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución del presupuesto de cada una de las entidades integrantes del mismo.
+2. Las entidades integrantes del sector público autonómico quedan sometidas a la obligación de rendir cuentas de sus operaciones, cualquiera que sea su naturaleza, al Tribunal de Cuentas y al Consejo de Cuentas por conducto de la Intervención General de la Junta de Extremadura, de acuerdo con los criterios recogidos en el capítulo IV de este título.
+3. Las entidades integrantes del sector público autonómico deberán aplicar, para reflejar toda clase de operaciones, costes y resultados de su actividad, y facilitar datos e información con trascendencia económica, los principios contables que correspondan según lo establecido a continuación:
+a) Deberán aplicar los principios contables públicos previstos en el artículo 134, así como el desarrollo de los principios y las normas establecidas en el Plan General de Contabilidad Pública y sus normas de desarrollo, las entidades integrantes del sector público autonómico con presupuesto limitativo.
+b) Deberán aplicar los principios y normas de contabilidad recogidos en el Código de Comercio, la Ley de Sociedades de Capital y el Plan General de Contabilidad de la empresa española, así como en sus adaptaciones y disposiciones que lo desarrollan, las entidades públicas empresariales, las empresas públicas, las sociedades mercantiles autonómicas y los fondos sin personalidad jurídica.
+c) Deberán aplicar los principios y normas de contabilidad recogidos en la adaptación del Plan General de Contabilidad a las entidades sin fines lucrativos y disposiciones que lo desarrollan, las entidades del sector público autonómico con presupuesto estimativo no contempladas en el apartado anterior.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 133
+
+Artículo 133. Fines de la contabilidad del sector público autonómico y destinatarios de la información contable.
+1. La contabilidad del sector público autonómico debe permitir el cumplimiento de los siguientes fines de gestión, de control y de análisis e información:
+a) Mostrar la ejecución de los presupuestos, poniendo de manifiesto los resultados presupuestarios, y proporcionar información para el seguimiento de los objetivos previstos en los presupuestos generales de la comunidad.
+b) Poner de manifiesto la composición y situación del patrimonio, así como sus variaciones, y determinar los resultados desde el punto de vista económico patrimonial.
+c) Suministrar información para la determinación de los costes de los servicios públicos.
+d) Proporcionar información para la elaboración de todo tipo de cuentas, estados y documentos que hayan de rendirse o remitirse al Estado, Tribunal de Cuentas, Consejo de Cuentas y demás órganos y autoridades de control.
+e) Suministrar información para la elaboración de las cuentas económicas de las Administraciones públicas, sociedades no financieras públicas e instituciones financieras públicas, de acuerdo con el Sistema Europeo de Cuentas Nacionales y Regionales.
+f) Proporcionar información para el ejercicio de los controles de legalidad, financiero, de economía, eficiencia y eficacia.
+g) Suministrar información para posibilitar el análisis de los efectos económicos y financieros de la actividad de los entes públicos.
+h) Suministrar información económica y financiera útil para la toma de decisiones.
+i) Suministrar información útil para otros destinatarios.
+2. La información que suministre la contabilidad de las entidades del sector público irá dirigida a los órganos de representación política, a los de control externo e interno y a los organismos internacionales, en los términos y con los límites previstos reglamentariamente, sin perjuicio de la información que deba publicarse obligatoriamente.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## CAPÍTULO II
+
+Competencias en materia contable
+
+### Artículo 134
+
+Artículo 134. Principios contables públicos.
+1. Las entidades del sector público autonómico con presupuesto limitativo deberán aplicar los siguientes principios contables de carácter económico-patrimonial:
+a) Salvo prueba en contrario, se presumirá que continúa la actividad de la entidad por tiempo indefinido.
+b) El reconocimiento de activos, pasivos, patrimonio neto, gastos e ingresos debe realizarse, desde el punto de vista económico-patrimonial, en función de la corriente real de bienes y servicios que los mismos representan, sin perjuicio de los criterios que se deban seguir para su imputación presupuestaria.
+c) No se variarán los criterios contables de un ejercicio a otro.
+d) Se deberá de mantener cierto grado de precaución en los juicios de los que se derivan estimaciones bajo condiciones de incertidumbre, de manera que los activos, obligaciones, ingresos y gastos no se sobrevaloren ni se minusvaloren.
+e) No podrán compensarse las partidas del activo y del pasivo, ni las de gastos e ingresos que integran las cuentas anuales, y se valorarán separadamente los elementos integrantes de las cuentas anuales, salvo aquellos casos en que de forma excepcional así se regule.
+f) La aplicación de estos principios deberá estar presidida por la consideración de la importancia en términos relativos que los mismos y sus efectos pudieran presentar, siempre que no se vulnere una norma de obligado cumplimiento.
+2. Los elementos de las cuentas anuales figurarán de acuerdo con los criterios y normas de valoración establecidos en el Plan General de Contabilidad Pública.
+3. La imputación de las transacciones o hechos contables debe efectuarse, desde el punto de vista económico-patrimonial, a activos, pasivos, gastos o ingresos de acuerdo con las reglas establecidas en el Plan General de Contabilidad Pública. Además, aquellas operaciones que deban aplicarse a los presupuestos de gastos e ingresos, se registrarán, desde el punto de vista presupuestario, de acuerdo con las reglas previstas en el título II de esta ley.
+4. En los casos de conflicto entre los anteriores principios contables, deberá prevalecer el que mejor conduzca a que las cuentas anuales reflejen la imagen fiel del patrimonio, de la situación financiera y del resultado económico-patrimonial de la entidad.
+5. Cuando la aplicación de estos principios contables no sea suficiente para mostrar la imagen fiel, deberá suministrarse en la Memoria de las cuentas anuales la información complementaria precisa para alcanzar dicho objetivo.
+6. En aquellos casos excepcionales en los que la aplicación de un principio contable sea incompatible con la imagen fiel que deben mostrar las cuentas anuales, se considerará improcedente dicha aplicación, lo cual se mencionará en la Memoria de las cuentas anuales, explicando su motivación e indicando su influencia sobre el patrimonio, la situación financiera y los resultados económico-patrimoniales de la entidad.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## CAPÍTULO II
+
+Competencias en materia contable
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 135
+
+Artículo 135. Competencias del titular de la Consejería competente en materia de hacienda.
+Corresponde al titular de la Consejería competente en materia de hacienda, a propuesta de la Intervención General de la Junta de Extremadura:
+a) Aprobar el Plan General de Contabilidad Pública y las normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público autonómico en los que se recogerán y desarrollarán los principios contables públicos.
+b) Determinar los criterios generales de registro de datos, presentación de la información contable, contenido de las cuentas anuales que deben rendirse al Tribunal de Cuentas y Consejo de Cuentas, y los procedimientos de remisión de las mismas regulando, a tales efectos, la utilización de medios electrónicos, informáticos o telemáticos.
+c) Determinar el contenido, la estructura, las normas de elaboración y los criterios de consolidación o agregación de la cuenta general de la comunidad.
+d) Establecer la rendición de cuentas anuales consolidadas, respecto de las entidades del sector público autonómico.
+e) Determinar el régimen de presupuesto y contabilidad de las entidades del sector público autonómico en los casos en que nada se disponga al efecto en esta ley o en la normativa de creación o regulación.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+ Se añade la letra e) por el art. 3.10 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 136
+
+Artículo 136. Competencias de la Intervención General de la Junta de Extremadura.
+1. La Intervención General de la Junta de Extremadura es el centro directivo de la contabilidad pública al que compete:
+a) Promover el ejercicio de la potestad reglamentaria en materia contable atribuida al titular de la Consejería competente en materia de hacienda por esta ley y proponer a éste la aprobación del Plan General de Contabilidad Pública.
+b) Aprobar la normativa de desarrollo del Plan General de Contabilidad Pública y los planes parciales o especiales que se elaboren conforme al mismo, así como los de las entidades a que se hace referencia en el apartado 3.b del artículo 132 de esta ley que se elaboren conforme al Plan General de Contabilidad de la empresa española.
+c) Aprobar las instrucciones de contabilidad mediante las cuales se establezcan las reglas contables a las que habrán de someterse los entes que deban aplicar los principios contables públicos, así como los modelos y estructura de los documentos contables y cuentas, estados e informes contables en general.
+d) Establecer los requerimientos funcionales y, en su caso, los procedimientos informáticos relativos al sistema de información contable, que deberán aplicar las entidades del sector público autonómico sujetas a los principios contables públicos.
+e) Autorizar la implantación de los sistemas de información contable en las entidades que conforman el sector público autonómico.
+f) Informar, con carácter previo a su aprobación, la normativa de elaboración de los presupuestos generales de la comunidad acerca de su estructura contable y de la aplicación de principios y normas de contabilidad.
+g) Establecer los principios básicos de la contabilidad analítica de las entidades del sector público autonómico que deban aplicar los principios contables públicos.
+h) Establecer los principios y criterios generales a los que debe responder el seguimiento de objetivos establecidos en los presupuestos generales de la comunidad en las entidades del sector público autonómico.
+i) Inspeccionar la actividad de las oficinas de contabilidad de las entidades del sector público autonómico.
+j) Determinar las especificaciones, procedimiento y periodicidad de la información contable a remitir por las entidades del sector público autonómico a la Intervención General de la Junta de Extremadura.
+k) Establecer los criterios, procedimientos y excepciones para la centralización en la Intervención General de la Junta de Extremadura de las bases de datos de los sistemas de información contable de las entidades del sector público autonómico.
+l) Aprobar las normas de contabilidad aplicables a los fondos regulados en el apartado 2 del artículo 2 de esta ley.
+2. La Intervención General de la Junta de Extremadura es el centro gestor de la contabilidad pública, al que compete:
+a) Gestionar la contabilidad de la Junta de Extremadura y formar su cuenta anual.
+b) Establecer los planes y programas de informatización de la contabilidad de la Junta de Extremadura, dirigiendo y controlando los medios y recursos informáticos destinados al desarrollo y mantenimiento del sistema de información contable, sin perjuicio de la adscripción departamental de los mismos.
+c) Recabar y centralizar la información contable de las distintas entidades integrantes del sector público autonómico.
+d) Recabar la presentación de las cuentas que hayan de rendirse al Tribunal de Cuentas y al Consejo de Cuentas.
+e) Formar la cuenta general de la Comunidad.
+f) Vigilar e impulsar la organización de las oficinas de contabilidad existentes en todas las secciones presupuestarias y entidades del sector público que aplican principios contables públicos.
+g) Recabar todos los informes y dictámenes económico-contables que se realicen por las entidades por su conducto deban rendir cuentas al Tribunal de Cuenta y al Consejo de Cuentas. Asimismo, se podrá tener acceso directo a las bases de los sistemas de información contable de dichas entidades.
+h) Diseñar los mecanismos y realizar las actuaciones oportunas para garantizar y proteger la integridad, coherencia y confidencialidad de los datos contenidos en los sistemas de información contable.
+i) Resolver las consultas que se le planteen en materia contable.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## CAPÍTULO III
+
+Información contable
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## Sección 1
+
+Sección 1. Cuentas anuales
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+Téngase en cuenta que esta sección, modificada por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9, se aplicará al primer ejercicio cerrado a partir de la entrada en vigor y siguientes según establece su disposición final 12.
+
+### Artículo 137
+
+Artículo 137. Cuentas anuales de las entidades del sector público autonómico.
+1. Todas las entidades del sector público autonómico deberán formular sus cuentas anuales de acuerdo con los principios contables que les sean de aplicación y ponerlas a disposición de los auditores que corresponda según lo previsto en los artículos 152 y 152 bis de esta ley.
+2. Las cuentas anuales de las entidades que deben aplicar los principios contables públicos comprenderán: El Balance, la cuenta del resultado económico-patrimonial, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo, el estado de liquidación del presupuesto y la Memoria. Estos documentos forman una unidad. En el Plan General de Contabilidad Pública se determinará el contenido y la estructura de los documentos anteriores.
+3. Las cuentas anuales de las entidades que deben aplicar los principios y normas de contabilidad recogidos en el Plan General de Contabilidad de la empresa española, así como en sus adaptaciones y disposiciones que lo desarrollan, serán las previstas en dicho plan. Deberán formularse en el plazo máximo de tres meses, contados a partir del cierre del ejercicio económico.
+4. Las cuentas anuales de las entidades que deben aplicar los principios y normas de contabilidad recogidos en la adaptación al Plan General de Contabilidad a las entidades sin fines lucrativos serán las previstas en dicha norma. Deberán formularse en el plazo máximo de tres meses, contados a partir del cierre del ejercicio económico.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 137 bis
+
+Artículo 137 bis. Cuenta anual de la Junta de Extremadura.
+1. A propuesta de la Intervención General, el titular de la Consejería competente en materia de hacienda remitirá la cuenta anual de la Junta de Extremadura al Consejo de Gobierno para su aprobación antes del 31 de julio del año siguiente al que vaya referido dicha cuenta.
+2. Para la aprobación en Consejo de Gobierno, en la cuenta anual se podrán sustituir los estados que contengan información de detalle por estados resumidos. En el ámbito presupuestario se resumirá por secciones presupuestarias, grupos de función y capítulos económicos.
+Se añade por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## Sección 2
+
+Sección 2. Cuenta general de la Comunidad Autónoma de Extremadura
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+Téngase en cuenta que esta sección, modificada por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9, se aplicará al primer ejercicio cerrado a partir de la entrada en vigor y siguientes según establece su disposición final 12.
+
+### Artículo 138
+
+Artículo 138. Contenido de la cuenta general de la Comunidad.
+1. La cuenta general de la Comunidad contendrá los siguientes documentos:
+a) Las cuentas anuales de todas las entidades que conforman el sector público autonómico.
+b) Los estados resultantes de la consolidación de las cuentas anuales de las entidades del sector público autonómico.
+c) Los estados consolidados comprenderán el balance consolidado, la cuenta del resultado económico patrimonial consolidada, el estado de cambios en el patrimonio neto consolidado, el estado de flujos de efectivo consolidado, el estado de liquidación del presupuesto consolidado y la Memoria consolidada. En el caso del sector público empresarial se podrá efectuar la consolidación mediante la agregación de cuentas anuales consolidadas.
+d) Información sobre el grado de cumplimiento de los objetivos de estabilidad presupuestaria, deuda pública, regla de gasto y periodo medio de pago a proveedores.
+2. La Intervención General de la Junta de Extremadura podrá recabar de las distintas entidades la información que considere necesaria para efectuar los procesos de agregación o consolidación contable.
+3. La falta de remisión de cuentas no constituirá obstáculo para que la Intervención General pueda formar la cuenta general con las cuentas recibidas. Se informará sobre el perímetro de información en la Memoria de la cuenta consolidada.
+4. Se podrán agregar o consolidar las cuentas de una entidad aunque en el preceptivo informe de auditoría de cuentas se hubiera denegado opinión, emitido informe desfavorable o con salvedades, si bien estas circunstancias se harán constar en la Memoria consolidada.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 138 bis
+
+Artículo 138 bis. Formación y remisión de la cuenta general.
+La cuenta general de la Comunidad de cada año se formará por la Intervención General de la Junta de Extremadura y se elevará al Consejo de Gobierno para su remisión a la Asamblea de Extremadura, al Tribunal de Cuentas y al Consejo de Cuentas antes del día 31 de octubre del año siguiente al que se refiera.
+La cuenta general se publicará en la sede electrónica de la Junta de Extremadura en el mes siguiente a su remisión.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## Sección
+
+Sección 3. Información periódica
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 139
+
+Artículo 139. Información a remitir a la Asamblea de Extremadura.
+Sin perjuicio de la facultad de la Asamblea de Extremadura de solicitar del Gobierno la información que estime oportuna, el titular de la Consejería competente en materia de hacienda remitirá trimestralmente a la Comisión de Hacienda y Presupuesto de la Asamblea de Extremadura un informe sobre la ejecución del presupuesto de ingresos, haciendo constar la previsión inicial, las modificaciones hasta la fecha del informe y los derechos reconocidos. Igualmente, remitirá un informe sobre la ejecución del presupuesto de gastos por secciones, capítulos y programas, haciendo constar los créditos iniciales, las modificaciones, los créditos definitivos y las obligaciones reconocidas hasta dicha fecha. Dicho informe tendrá toda la información anterior referida a las entidades del sector público autonómico que aplican principios contables públicos.
+Además, en el primer semestre del ejercicio se dará cuenta a la Asamblea de las obligaciones reconocidas por la Junta de Extremadura en el ejercicio anterior y que se encuentren pendientes de pago, debidamente clasificadas económica y orgánicamente.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 139 bis
+
+Artículo 139 bis. Transparencia en el gasto público.
+1. En cumplimiento de lo dispuesto en el artículo 14 de la Ley 4/2013, de 21 de mayo, de Gobierno Abierto de Extremadura, y con independencia de la información a rendir regulada en este título, la Intervención General publicará la información establecida en los apartados siguientes según el tipo de entidad, así como los plazos y la periodicidad.
+2. Las entidades del sector público autonómico que aplican principios contables públicos publicarán:
+a) Información trimestral. En el mes siguiente al último del trimestre que corresponda, a excepción del cuarto trimestre que formará parte de la información anual, se publicará en el “Diario Oficial de Extremadura” y en la sede electrónica de la Junta de Extremadura, de cada una de las entidades, información:
+1.º Sobre la ejecución del presupuesto de gastos, clasificado orgánicamente por secciones presupuestarias, funcionalmente por grupos de función y económicamente por capítulos.
+2.º Sobre las modificaciones del presupuesto de gastos según el tipo de modificación, clasificado orgánicamente por secciones presupuestarias, funcionalmente por grupos de función y económicamente por capítulos.
+3.º Sobre la ejecución del presupuesto de ingresos clasificado económicamente por capítulos.
+Si la información de este apartado contiene la totalidad de los datos del informe al que hace referencia el primer párrafo del artículo 139 de esta ley, puede sustituirse la remisión a la Asamblea por la publicación de dicha información en el “Diario Oficial de Extremadura”.
+b) Información anual. En el primer semestre del ejercicio siguiente al que vaya referida la información, se publicará en el “Diario Oficial de Extremadura” y en la sede electrónica de la Junta de Extremadura, de cada una de las entidades, la información detallada en el apartado a anterior, referida al cierre del ejercicio. Además, en términos consolidados, se publicará la siguiente información e indicadores presupuestarios:
+1.º Cálculo de la capacidad o necesidad de financiación en términos de Contabilidad Nacional.
+2.º Evolución del endeudamiento durante el ejercicio.
+3.º Conjunto de indicadores presupuestarios que informen, entre otros aspectos, del superávit o déficit en relación con el número de habitantes y el PIB regional; del nivel de endeudamiento referido al número de habitantes, PIB regional y presupuesto total de la comunidad; ingresos fiscales por habitante; gasto no financiero por habitante; inversión realizada por habitante.
+También deberán publicarse en el mes de noviembre de cada ejercicio, referido al ejercicio anterior, en la sede electrónica de la Junta de Extremadura, formando parte de la cuenta general, las cuentas anuales de cada una de las entidades, así como el detalle de las partidas presupuestarias que componen el presupuesto y su ejecución al cierre del ejercicio.
+3. Entidades del sector público autonómico que no aplican principios contables públicos. En el mes de noviembre de cada ejercicio, referido al ejercicio anterior, formando parte de la cuenta general de la Comunidad, se publicarán en la sede electrónica de la Junta de Extremadura las cuentas anuales de cada una de las entidades del sector público autonómico y, cuando proceda, el informe de auditoría de las mismas.
+Cuando las entidades anteriores formulen cuentas anuales consolidadas, se publicarán también las cuentas anuales consolidadas y el informe de auditoría.
+Se añade por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## CAPÍTULO IV
+
+Rendición de cuentas
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+Téngase en cuenta que este capítulo, modificado por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9, se aplicará al primer ejercicio cerrado a partir de la entrada en vigor y siguientes según establece su disposición final 12.
+
+## Sección 2
+
+Sección 2.ª La Cuenta General de la Comunidad Autónoma de Extremadura
+
+### Artículo 140
+
+Artículo 140. Obligación de rendir cuentas.
+Las entidades integrantes del sector público autonómico rendirán a la Asamblea de Extremadura, al Tribunal de Cuentas y al Consejo de Cuentas, por conducto de la Intervención General de la Junta de Extremadura, la información contable regulada en la sección 1 del capítulo III de este título.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 141
+
+Artículo 141. Cuentadantes.
+1. Serán cuentadantes los titulares de las entidades y órganos sujetos a la obligación de rendir cuentas, y en todo caso:
+a) Las autoridades y los funcionarios que tengan a su cargo la gestión de los ingresos y la realización de gastos, así como las demás operaciones de la Junta de Extremadura.
+b) Los Presidentes o Directores de los organismos autónomos y de las entidades públicas empresariales y demás entidades del sector público autonómico.
+c) Los Presidentes de los Consejos de Administración de las empresas públicas y sociedades mercantiles autonómicas.
+d) Los liquidadores de las empresas públicas y sociedades mercantiles autonómicas en proceso de liquidación, o los órganos equivalentes que tengan atribuidas las funciones de liquidación en el caso de otras entidades.
+e) Los Presidentes del Patronato, o quienes tengan atribuidas funciones ejecutivas en las fundaciones del sector público autonómico.
+2. Los cuentadantes mencionados en el apartado anterior son responsables de la información contable y les corresponde rendir, en los plazos fijados al efecto y debidamente autorizadas, las cuentas que hayan de enviarse a la Asamblea de Extremadura, al Tribunal de Cuentas y al Consejo de Cuentas.
+La responsabilidad de suministrar información veraz en que se concreta la rendición de cuentas es independiente de la responsabilidad contable regulada en el título VI de esta ley, en la que incurren quienes adoptaron las resoluciones o realizaron los actos reflejados en dichas cuentas.
+3. También deberán rendir cuentas, en la forma en que reglamentariamente se establezca, los particulares que, excepcionalmente, administren, recauden o custodien fondos o valores de la Comunidad, sin perjuicio de que sean intervenidas las respectivas operaciones.
+4. Si una entidad deja de formar parte del sector público autonómico, tendrá obligación de rendir cuentas por el periodo comprendido desde el inicio del ejercicio hasta dicho momento. A tal efecto, deberá elaborar unos estados financieros específicos correspondientes al citado periodo, aplicando los mismos criterios contables que los que debe seguir para la elaboración de sus cuentas anuales y con el mismo contenido que estas.
+La obligación de rendición de dichos estados financieros específicos corresponderá a quien ostente la Presidencia del Consejo de Administración de la empresa pública o de la sociedad mercantil, del Patronato de la fundación o la Presidencia o Dirección del consorcio o entidad a la fecha en la que se produzca la citada rendición.
+En cuanto al procedimiento a seguir para la formulación y rendición de dichos estados financieros específicos, será aplicable lo establecido en los artículos 137 y 142 de esta ley.
+5. Si una entidad del sector público autonómico se disuelve, iniciándose un proceso de liquidación, la entidad tendrá la obligación de rendir las correspondientes cuentas anuales hasta el final del año natural en el que se ha producido su disolución o hasta que finalice el proceso de liquidación, si este momento fuese anterior. Posteriormente, durante el proceso de liquidación la entidad deberá rendir las correspondientes cuentas anuales.
+Cuando la normativa reguladora de estas entidades establezca la obligación de elaborar estados financieros específicos, se efectuará la rendición de dichos estados.
+6. El titular de la Consejería competente en materia de hacienda, a propuesta de la Intervención General de la Junta de Extremadura, regulará el procedimiento de rendición de cuentas anuales en los casos de modificaciones estructurales entre entidades del sector público que supongan la extinción de entidades públicas sin que exista un proceso de liquidación, teniendo en cuenta si dichas modificaciones estructurales afectan a entidades dentro del mismo sector público administrativo, empresarial o fundacional o no, así como la normativa aplicable a cada sector.
+Con carácter general, la obligación de rendición de las cuentas anuales de la entidad extinguida corresponderá al Presidente o Director de la entidad absorbente en la fecha de la citada rendición.
+En el caso de que la entidad absorbente fuera la Junta de Extremadura, el cuentadante será el titular de la Consejería que asuma la gestión de la mayor parte de bienes, derechos y obligaciones de la entidad extinguida en la fecha de la citada rendición.
+Cuando los bienes, derechos y obligaciones de la entidad extinguida se integran en varias entidades, el cuentadante será el de la entidad absorbente que reciba la mayor parte de los bienes, derechos y obligaciones de la entidad extinguida en la fecha de la citada rendición. Si dicha entidad absorbente fuera la Junta de Extremadura, el cuentadante será el titular de la Consejería que asuma la gestión de la mayor parte de los bienes, derechos y obligaciones de la entidad extinguida en la fecha de la citada rendición.
+7. En cuanto al procedimiento a seguir para la formulación y rendición de cuentas en los casos establecidos en los apartados 4, 5 y 6 anteriores, será aplicable lo establecido en los artículos 137 y 142 de esta ley.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 142
+
+Artículo 142. Procedimiento de rendición de cuentas.
+1. En cumplimiento de su obligación de rendir cuentas, los cuentadantes deberán remitir, dentro de los siete meses siguientes a la terminación del ejercicio económico, sus cuentas anuales aprobadas a la Intervención General de la Junta de Extremadura, acompañadas del informe de auditoría que corresponda.
+2. A estos efectos, la Intervención General de la Junta de Extremadura incluirá en la cuenta general de la Comunidad la documentación indicada en el apartado anterior, la cual será rendida a la Asamblea de Extremadura, al Tribunal de Cuentas y al Consejo de Cuentas siguiendo el procedimiento y plazo establecido en el artículo 138 bis de esta ley.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+### Artículo 143
+
+Artículo 143. Rendición de cuentas por los fondos carentes de personalidad jurídica.
+A los fondos carentes de personalidad jurídica a que se refiere el artículo 2.2 de esta ley les serán de aplicación las normas contenidas en este capítulo IV, teniendo la condición de cuentadantes los titulares de los órganos de decisión en relación con su administración o gestión.
+El encargado de formular y aprobar las cuentas anuales de dichos fondos será el cuentadante, salvo que en su normativa reguladora se establezca otro criterio.
+Se modifica por el art. 9.8 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Téngase en cuenta para su aplicación lo dispuesto en la disposición final 12 de la citada Ley.
+
+## TÍTULO V
+
+De la Intervención
+
+## CAPÍTULO I
+
+Normas generales
+
+### Artículo 144
+
+Artículo 144. Control interno.
+Todos los actos, documentos y expedientes de la Administración de la Comunidad Autónoma de Extremadura de los que se deriven derechos y obligaciones de contenido económico, serán intervenidos y contabilizados con arreglo a lo dispuesto en la presente Ley y por las disposiciones que la desarrollan.
+
+### Artículo 145
+
+Artículo 145. Función interventora.
+La función interventora tiene por objeto controlar todos los actos que den lugar al reconocimiento de derechos y obligaciones de contenido económico, así como los ingresos y pagos que de ellos se deriven; y la recaudación, inversión o aplicación en general de los caudales públicos con el fin de asegurar que la administración de la Hacienda de la Comunidad Autónoma de Extremadura se ajuste a las disposiciones aplicables en cada caso.
+Asimismo, serán objeto de control los expedientes de modificaciones de créditos presupuestarios.
+Se añade el párrafo segundo por el art. 27.14 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 146
+
+Artículo 146. Funciones de la Intervención General.
+La Intervención General de la Junta de Extremadura, con plena autonomía respecto a los órganos y entidades sujetos a fiscalización, tendrán el doble carácter de centro de control interno y centro directivo de la contabilidad pública de la Junta de Extremadura.
+
+### Artículo 147
+
+Artículo 147. Contenido de la función interventora.
+1. El ejercicio de la función interventora comprenderá:
+a) La intervención crítica o previa de todo acto, documento o expediente susceptible de producir obligaciones de contenido económico o movimiento de fondos y valores.
+La función interventora de los actos o acuerdos de reconocimiento de obligaciones, que acompañados de la documentación justificativa correspondiente, respondan a compromisos de gastos fiscalizados previamente de forma favorable o exentos de fiscalización previa, podrá realizarse una vez reconocidos al tiempo de contabilización de la obligación del gasto.
+b) La intervención formal del pago y de su ordenamiento.
+c) La intervención material del pago.
+d) La intervención de la aplicación o empleo de las cantidades destinadas a obras, suministros o adquisiciones y servicios, que comprenderá tanto la intervención material como el examen documental.
+e) La fiscalización previa de los derechos será sustituida por la inherente a la toma de razón en contabilidad y se establecerán las actuaciones comprobatorias posteriores que determine la Intervención General de la Junta de Extremadura.
+f) La función interventora podrá ejecutarse aplicando técnicas de muestreo o comprobaciones periódicas de los actos, documentos o expedientes relacionados con los gastos de subvenciones, en la forma que reglamentariamente se determine.
+2. Son inherentes a la función interventora:
+a) Interponer los recursos y reclamaciones que autoricen las disposiciones vigentes.
+b) Recabar de los órganos competentes, cuando la naturaleza del acto, documento o expediente a intervenir así lo requiera, los asesoramientos jurídicos y los informes técnicos que considere necesarios, juntamente con los antecedentes y documentos precisos para el mejor ejercicio de esta función.
+c) La comprobación de los efectivos de personal y las existencias de metálico, valores y demás bienes de todas las dependencias y establecimientos de la Junta de Extremadura.
+Se modifica el apartado 1.e) por el art. 9.9 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+## CAPÍTULO II
+
+De la función interventora previa
+
+### Artículo 148
+
+Artículo 148. Excepciones a la intervención previa.
+1. No estarán sometidos a intervención previa los gastos de material no inventariable, contratos menores, así como los de carácter periódico y demás de tracto sucesivo, una vez fiscalizado el gasto correspondiente al periodo inicial del acto o contrato del que deriven o sus modificaciones, así como otros gastos menores de la cantidad que cada año se establezca en la Ley de Presupuestos cuyo pago se realice mediante el procedimiento especial de anticipos de caja fija.
+2. El Consejo de Gobierno podrá acordar, a propuesta del titular de la Consejería competente en materia de hacienda, que la fiscalización o intervención previa en cualquiera de los centros gestores del gasto, dependencias y organismos, para los gastos que se determinen, se limite a comprobar los extremos siguientes:
+a) La existencia de crédito presupuestario adecuado a la naturaleza del gasto que se pretende.
+En los casos en los que se trate de contraer compromisos de gastos de carácter plurianual, se comprobará, además, si se cumple lo preceptuado en el artículo 63 de esta ley.
+b) Que los gastos u obligaciones se generan por órgano competente.
+c) Aquellos otros extremos que, dentro del ámbito objetivo y subjetivo de aplicación de las normas que ampara el gasto, y por su trascendencia en el proceso de gestión, determine mediante acuerdo el Consejo de Gobierno a propuesta de la Consejería competente en materia de hacienda.
+Las obligaciones o gastos sometidos a este régimen de fiscalización vendrán sujetos a control financiero conforme a lo establecido en el artículo 152 de esta ley.
+2 bis. Cuando los actos o expedientes objeto de fiscalización previa se tramiten a través de medios informáticos, electrónicos o telemáticos o se trate de gastos de personal, mediante acuerdo del Consejo de Gobierno a propuesta de la Consejería competente en materia de hacienda, se determinarán el alcance y contenido de los extremos a comprobar en fiscalización previa y, en su caso, las aplicaciones informáticas en las que se realizará.
+3. Lo dispuesto en el apartado 2 anterior no será de aplicación respecto de los gastos de cuantía indeterminada y aquellos que deban ser aprobados por el Consejo de Gobierno de la Junta de Extremadura.
+Se modifica el apartado 2 por el art. 9.10 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se modifica y se renumera la letra d) como c) del apartado 2 por el art. 27.15 de la Ley 4/2012, de 28 de diciembre. Ref. BOE-A-2013-629.
+
+### Artículo 149
+
+Artículo 149. Reparos.
+Si la Intervención discrepase con el fondo o con la forma de los actos, documentos o expedientes examinados, formulará sus objeciones por escrito.
+Si la disconformidad se refiere al reconocimiento o liquidación de derechos a favor de la Hacienda de la Junta de Extremadura, la oposición se formalizará en nota de reparo, y si subsiste la discrepancia, mediante la interposición de los recursos o reclamaciones que procedan.
+
+### Artículo 150
+
+Artículo 150. Efectos del reparo sobre la tramitación del expediente.
+Si el reparo afecta a la disposición de los gastos, reconocimiento de obligaciones y ordenación de pago suspenderá, hasta que sea solventado, la tramitación del expediente en los siguientes casos:
+a) Si hay insuficiencia de crédito o el presupuesto no se considera adecuado.
+b) Si se aprecian graves irregularidades en la documentación justificativa de las órdenes de pago o no se acredita suficientemente el derecho del perceptor.
+c) Si faltan en el expediente requisitos o trámites esenciales, o se estime que la continuación de la gestión administrativa pudiera causar quebrantos económicos a la Junta de Extremadura o a un tercero.
+d) Cuando el reparo derive de comprobaciones materiales de obras, suministros, adquisiciones y servicios.
+
+### Artículo 151
+
+Artículo 151. Discrepancias.
+1. Si el órgano al que afecta el reparo no estuviera conforme con el mismo, se procederá a formular discrepancia en el plazo de diez días contados desde el siguiente a la recepción del informe de fiscalización de la siguiente forma:
+a) Cuando haya sido formulado por una Intervención Delegada, corresponderá a la Intervención General conocer de la discrepancia y su resolución será obligatoria para aquella.
+b) Cuando el reparo emane de la Intervención General o esta haya confirmado el de una Intervención Delegada, subsistiendo la discrepancia, corresponderá a la Junta de Extremadura su resolución.
+2. La Intervención podrá emitir informe favorable siempre que los requisitos o trámites incumplidos no sean esenciales, pero la eficacia del acto quedará condicionada a la subsanación de aquellos dando cuenta a dicha oficina.
+3. En caso de no formular discrepancia en dicho plazo, si el órgano gestor estima continuar con el procedimiento de gasto objeto de informe, procederá a subsanar las objeciones planteadas y a elevar de nuevo el expediente que corresponda a la Intervención para su fiscalización.
+Se modifica por el art. 9.11 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+### Artículo 151 bis
+
+Artículo 151 bis. Omisión de fiscalización.
+1. En los supuestos en los que, con arreglo a lo establecido en las disposiciones aplicables, la función interventora fuera preceptiva y se hubiese omitido, no se podrá reconocer la obligación, ni tramitar el pago, ni intervenir favorablemente estas actuaciones hasta que se subsane dicha omisión en los términos previstos en este artículo.
+2. En dichos supuestos, será preceptiva la emisión de un informe por parte del órgano de la Intervención General de la Junta de Extremadura que tenga conocimiento de dicha omisión que se remitirá al titular de la Consejería de la que dependa el órgano gestor que hubiera desarrollado las actuaciones y a la Intervención General.
+Este informe no tiene naturaleza de fiscalización y habrá de referirse como mínimo a los siguientes extremos:
+a) Las infracciones del ordenamiento jurídico que se hubieran puesto de manifiesto de haber sometido el expediente a fiscalización o intervención previa en el momento oportuno.
+b) Las prestaciones que se hayan realizado como consecuencia de dicho acto.
+c) La procedencia de la revisión de los actos dictados con infracción del ordenamiento.
+d) La existencia de crédito adecuado y suficiente para hacer frente a las obligaciones pendientes.
+3. Corresponderá al titular de la Consejería a la que pertenezca el órgano responsable de la tramitación del expediente o al que esté adscrito el organismo autónomo o ente de derecho público, sin que dicha competencia pueda ser objeto de delegación, acordar, en su caso, el sometimiento del asunto al Consejo de Gobierno para que adopte la resolución procedente.
+4. El acuerdo favorable del Consejo de Gobierno no eximirá de la exigencia de las responsabilidades a que, en su caso, hubiera lugar.
+Se añade por el art. 3.11 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 151 ter
+
+Artículo 151 ter. Documentación y plazo.
+1. Una vez que hayan sido emitidos los informes, y estando, por tanto, en disposición de que se dicte acuerdo por quien corresponda, la Intervención ejercerá la función interventora a la vista del expediente con la documentación que sea necesaria para su fiscalización.
+2. El expediente será fiscalizado en el plazo de diez días contados a partir del siguiente a la fecha de recepción, que se reducirá a cinco días computados de igual forma cuando se declarase urgente la tramitación del expediente.
+3. Cuando la Intervención haga uso de la facultad de solicitar de los órganos competentes el asesoramiento jurídico o los informes técnicos que se precisen en función de la naturaleza del acto, documento o expediente intervenido, así como los antecedentes y documentos necesarios para el ejercicio de dicha función, se suspenderá el plazo mencionado en el número 2 anterior, debiendo dar cuenta de dicha circunstancia al órgano gestor proponente del gasto.
+Se añade por el art. 9.12 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+
+## CAPÍTULO III
+
+Del control financiero
+
+### Artículo 152
+
+Artículo 152. Control financiero.
+1. El control financiero, que será ejercido con plena autonomía e independencia respecto de las autoridades y entidades cuya gestión se controle, se realizará por la Intervención General de la Junta de Extremadura a través de sus Servicios, Intervenciones Delegadas y los funcionarios que aquélla designe, de conformidad con lo previsto en esta Ley y demás disposiciones legales o reglamentarias.
+2. El control financiero tendrá por objeto verificar a posteriori, de forma planificada y mediante la aplicación de procedimientos de revisión selectivos, el funcionamiento de la actividad económico-financiera de un ente, a fin de pronunciarse sobre el cumplimiento de la normativa y directrices que le son aplicables, así como si la misma se ajusta a los principios de buena gestión financiera, estabilidad presupuestaria y equilibrio financiero.
+3. El control financiero se ejercerá mediante auditorías u otras técnicas de control, de conformidad con lo establecido en la presente Ley, en sus normas de desarrollo y en las normas de auditoría e instrucciones que dicte la Intervención General de la Junta de Extremadura.
+4. El control financiero promoverá, además, la mejora de las técnicas y procedimientos de gestión económico-financiera, a través de las propuestas que se deduzcan de los resultados del mismo. De los informes de control se podrá extraer información que permita una mejor aplicación de los principios de eficacia, eficiencia y economía en la programación y ejecución del gasto público.
+5. El control financiero podrá realizarse en régimen ordinario o permanente, concebido este último como una especialidad del control financiero de régimen ordinario cuando concurran las circunstancias reguladas en el apartado siguiente. El control financiero en régimen ordinario se llevará a cabo bajo la modalidad de auditoría pública en los términos y condiciones que se describen en el apartado 7 de este artículo.
+6. Se entiende por control financiero permanente la verificación de una forma continua de la situación y el funcionamiento de las entidades del sector público autonómico en el aspecto económico-financiero, para comprobar el cumplimiento de la normativa y directrices que les rigen y, en general, que su gestión se ajusta a los principios de buena gestión financiera y en particular al cumplimiento del objetivo de estabilidad presupuestaria y de equilibrio financiero. El control financiero permanente incluirá en su caso los siguientes objetivos:
+a) Verificación del cumplimiento de la normativa y procedimientos aplicables a los aspectos de la gestión económica a los que no se extiende la función interventora.
+b) Seguimiento de la ejecución presupuestaria y verificación del cumplimiento de los objetivos asignados a los programas de los centros gestores del gasto y verificación del balance de resultados e informe de gestión.
+c) Comprobación de la planificación, gestión y situación de la tesorería.
+d) Las actuaciones previstas en los restantes títulos de esta Ley y en las demás normas presupuestarias y reguladoras de la gestión económica del sector público autonómico, atribuidas a las intervenciones delegadas o servicios de la Intervención General de la Junta de Extremadura.
+e) Análisis de las operaciones y procedimientos, con el objeto de proporcionar una valoración de su racionalidad económico-financiera y su adecuación a los principios de buena gestión, a fin de detectar sus posibles deficiencias y proponer las recomendaciones en orden a la corrección de aquéllas.
+f)  Verificación mediante técnicas de auditoría, que los datos e información con trascendencia económica proporcionados por los órganos gestores como soporte de la información contable, reflejan razonablemente las operaciones derivadas de su actividad. La Intervención General de la Junta de Extremadura establecerá el procedimiento, alcance y periodicidad de las actuaciones a desarrollar.
+g) El seguimiento de planes de equilibrio financiero u otras actuaciones vinculadas a las normas sobre estabilidad presupuestaria y sostenibilidad financiera.
+h) En su caso, examen de las cuentas anuales, con objeto de emitir un dictamen sobre si las mismas se gestionan y presentan de acuerdo con los principios, criterios y normas contables aplicables al efecto.
+i)  Examen y juicio crítico sobre la gestión de los programas asignados a la entidad sujeta a control, con objeto de verificar si su ejecución se ha desarrollado en forma económica, eficaz y eficiente.
+En sustitución de la intervención previa respecto de los sujetos a que se refiere el artículo 152 bis.1.a) de esta Ley, por Acuerdo del Consejo de Gobierno a propuesta de la Consejería competente en materia de Hacienda, podrá establecerse el sometimiento a control financiero permanente de determinados organismos, entes de derecho público, órganos o áreas de gestión de los mismos, en los que se considere adecuada dicha fórmula de control. De igual forma, podrá adoptarse al procedimiento de control financiero permanente para aquellas entidades públicas no sujetas a intervención previa en las que pudiera ser aplicable.
+Por la Intervención General de la Junta de Extremadura se establecerán las condiciones del ejercicio del control financiero permanente, una vez adoptado el Acuerdo a que se refiere el apartado anterior.
+Las actuaciones de control financiero permanente a efectuar en cada ejercicio y el alcance específico fijado para las mismas se determinará en el plan anual de control financiero permanente elaborado por la Intervención General de la Junta de Extremadura, que podrá ser modificado cuando se produzcan circunstancias que lo justifiquen.
+7. La auditoría pública consistirá en la verificación posterior y sistemática de la actividad económico-financiera del sector público mediante procedimientos de revisión selectivos según normas de auditoría propias o comúnmente aceptadas. La auditoría pública podrá adoptar cualquiera de las modalidades previstas en las normas de auditoría internacionalmente aceptadas. La Intervención General de la Junta de Extremadura podrá determinar la realización de auditorías en las que se combinen objetivos de auditoría de regularidad, de cumplimiento, financiera y operativa.
+La Intervención General de la Junta de Extremadura elaborará anualmente un plan de auditorías en el que se incluirán las actuaciones a realizar durante el correspondiente ejercicio. Asimismo, el Plan anual de auditorías incluirá las actuaciones correspondientes a ayudas y subvenciones públicas. La Intervención General de la Junta de Extremadura podrá modificar las auditorías previstas inicialmente en el plan anual cuando existan circunstancias que lo justifiquen.
+La auditoría pública podrá incluir entre otras, las actuaciones previstas en el apartado anterior para el control financiero permanente.
+Para su ejecución podrá recabarse cuando sea necesaria, la colaboración de empresas privadas de auditoría que deberán ajustarse a las normas e instrucciones que determine la Intervención General de la Junta de Extremadura.
+Se modifica por el art. 3.12 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 152 bis
+
+Artículo 152 bis. Ámbito y prerrogativas.
+1. Estarán sujetos a control financiero:
+a) Los órganos de la Administración de la Comunidad Autónoma de Extremadura, organismos autónomos o entes de derecho público, vinculados o dependientes de la misma.
+b) Las entidades públicas empresariales, empresas públicas, sociedades, fundaciones, consorcios y demás entidades u órganos que formen parte del sector público autonómico.
+c) Los fondos carentes de personalidad jurídica previstos en el apartado 1.bis del artículo 2 de esta Ley.
+d) Las sociedades mercantiles, fundaciones y los consorcios con participación del sector público autonómico previstos en la disposición adicional novena de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, cuando sus normas de creación, sus estatutos o cualquier acuerdo o pacto entre las diferentes administraciones partícipes hayan atribuido la actividad de auditoría a la Intervención General de la Junta de Extremadura, en los términos que se fijen en las citadas normas o acuerdos.
+e) Los consorcios, las fundaciones y demás entidades con personalidad jurídica propia que hayan tenido una financiación mayoritaria de la Junta de Extremadura en un ejercicio económico, aunque no estén incluidos en el sector público autonómico, someterán la gestión de ese ejercicio económico al control financiero previsto en esta Ley siempre que exista una participación en su patrimonio, un compromiso de aportación o una representación en sus órganos de gobierno, directa o indirecta, por parte de la Administración Autonómica.
+f)  Los beneficiarios de subvenciones y entidades colaboradoras en los términos y condiciones previstos en la Ley de Subvenciones de la Comunidad Autónoma de Extremadura.
+El control financiero sustituirá a la función interventora previa, en los sujetos recogidos desde la letra b) a la letra e) anteriores, sin perjuicio de lo señalado en el apartado 6 del artículo 152.
+2. La auditoría de cuentas de los entes que formando parte del sector público autonómico, estén incluidos en el ámbito de aplicación del Real Decreto Legislativo 1/2011, de 1 de julio, por el que se aprueba el Texto Refundido de la Ley de Auditoría de Cuentas, se ejercerá en los términos previstos en dicha Ley. No obstante, la Intervención General, en función de los medios materiales y personales de que disponga, podrá establecer que dicha auditoría de cuentas sea realizada directamente por personal de la Intervención General de la Junta de Extremadura o contratada directamente por ésta con auditores privados que actuarán bajo la tutela y directrices de la Intervención General de la Junta de Extremadura. En el ejercicio de sus funciones de control, la Intervención General de la Junta de Extremadura podrá acceder a la documentación de auditoría que haya servido de base a los informes de auditoría realizados por auditores privados en relación con el control de cualquier organismo o entidad pública sometido al control financiero regulado en esta Ley.
+3. Además, la Intervención General de la Junta de Extremadura realizará anualmente las auditorías financieras de todos los organismos, entes públicos y fondos carentes de personalidad jurídica previstos en el apartado 1 bis del artículo 2 de esta Ley, no incluidos en el ámbito de aplicación del Real Decreto Legislativo 1/2011, de 1 de julio, por el que se aprueba el Texto Refundido de la Ley de Auditoría de Cuentas, que se incluyan en el Plan de Auditorías o aquellas otras que vengan impuestas por una norma de rango legal o reglamentario.
+4. Las auditorías que deban realizarse sobre fondos de la Unión Europea como consecuencia de disposiciones de rango comunitario, cuando dichos fondos sean responsabilidad de la Administración de la Comunidad Autónoma de Extremadura o de entidades del Sector público autonómico se ejercerán de acuerdo con lo establecido en la normativa comunitaria, aplicándose lo previsto en esta Ley en todo lo que no se oponga a la reglamentación comunitaria.
+5. Con independencia de la modalidad que se aplique, el control financiero podrá consistir en:
+a) El examen de registros contables, cuentas o estados financieros, mediante la aplicación de concretos procedimientos de análisis.
+b) El examen de operaciones individualizadas y concretas.
+c) La comprobación de aspectos parciales y concretos de una serie de actos efectuados por el ente controlado.
+d) La comprobación material de inversiones y otros activos o servicios.
+e) La revisión de los sistemas informáticos de gestión económico-financiera, que abarcará el examen de las funciones y operaciones efectuadas en éstos, con el objeto de verificar que la información responde a los principios de fiabilidad, integridad, precisión y disponibilidad
+f)  Las actuaciones concretas de control que deban realizarse conforme con lo que en cada caso establezca la normativa vigente.
+g) Otras comprobaciones decididas por la Intervención General de la Junta de Extremadura en atención a las características especiales de las actividades realizadas por los entes sometidos a control.
+6. Los datos, informes o antecedentes obtenidos en el desarrollo de las funciones de control reguladas en este Título sólo podrán utilizarse para los fines del control y, en su caso, para la denuncia de hechos que puedan ser constitutivos de infracción administrativa, responsabilidad contable o de delito.
+7. En los casos que proceda legalmente el acceso a los informes de control, la solicitud de los mismos se dirigirá directamente a sus destinatarios.
+8. Las actuaciones de control financiero se podrán desarrollar en los siguientes lugares:
+a) En las dependencias u oficinas de la entidad controlada o donde ésta desarrolle parte de su actividad o se encuentre custodiada la documentación justificativa del periodo a auditar.
+b) En las dependencias u oficinas de otras entidades o servicios en los que exista documentación, archivos, información o activos cuyo examen se considere relevante para la realización de las actuaciones.
+c) En los locales de firmas privadas de auditoría cuando sea necesario utilizar documentos soporte del trabajo realizado por dichas firmas de auditoría por encargo de las entidades auditadas.
+d) En las dependencias de las distintas unidades de la Intervención General de la Junta de Extremadura encargadas de la realización de dichas actuaciones.
+9. El personal responsable del control podrá personarse sin previa comunicación en las empresas, oficinas, dependencias, instalaciones o almacenes del ente auditado.
+10. Para la aplicación de los procedimientos de control financiero podrán desarrollarse las siguientes actuaciones:
+a) Examinar cuantos documentos y antecedentes de cualquier clase afecten directa o indirectamente a la gestión económico financiera del personal, órgano, organismo o ente auditado.
+b) Requerir cuanta información y documentación se considere necesaria para el ejercicio de la auditoría.
+c) Solicitar o consultar la información fiscal, de Seguridad Social, mercantil, administrativa, financiera o bancaria, contable, laboral o de cualquier otro tipo de los órganos, organismos y entidades públicas que se considere relevante a los efectos de la realización de la auditoría.
+d) Solicitar de los terceros relacionados con el servicio, órgano, organismo o entidad auditada información sobre operaciones realizadas por el mismo, sobre los saldos contables generados por éstas y sobre los costes o ingresos y pagos o cobros. Las solicitudes de información se efectuarán de forma directa por los órganos de control salvo que éste considere que existen razones que aconsejen la solicitud a través de la entidad auditada.
+e) Verificar la seguridad y fiabilidad de los sistemas informáticos que soportan la información económico-financiera y contable.
+f)  Efectuar las comprobaciones materiales de cualquier clase de activos de los entes auditados, a cuyo fin los auditores tendrán libre acceso a los mismos.
+g) Solicitar los asesoramientos y dictámenes jurídicos y técnicos que sean necesarios.
+h) Cuantas otras actuaciones se consideren necesarias para obtener evidencia en la que soportar las conclusiones.
+11. Los encargados del control podrán solicitar de los responsables y empleados del órgano, organismo o entidad auditada confirmación verbal o escrita de la información disponible respecto de hechos o circunstancias que se consideren relevantes y, en su caso, de aquellas manifestaciones que hayan servido o vayan a servir de base para decidir el contenido, alcance y momento de realización de las pruebas de auditoría. En aquellos supuestos en que se apreciara obstrucción o falta de colaboración con el personal de la Intervención General de la Junta de Extremadura encargado de la ejecución de la auditoría, éste comunicará tal circunstancia al titular del órgano, organismo o entidad auditada, con objeto de que proceda a adoptar las medidas correctoras oportunas.
+12. Toda persona natural o jurídica, pública o privada, estará obligada a proporcionar, previo requerimiento del órgano de control de la Intervención General de la Junta de Extremadura actuante, toda clase de datos, informes o antecedentes, deducidos directamente de sus relaciones económicas, profesionales o financieras con otras personas, con trascendencia para las actuaciones de control que desarrolle.
+13. Los funcionarios que desempeñan las funciones de control deberán guardar la confidencialidad y el secreto respecto de los asuntos que conozcan por razón de su trabajo.
+Se añade por el art. 3.13 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 152 ter
+
+Artículo 152 ter. Procedimiento de control financiero.
+1. El órgano que haya desarrollado el control deberá emitir informe escrito comprensivo de los hechos puestos de manifiesto y de las conclusiones y recomendaciones que se deduzcan de los mismos. En los informes se podrán contener propuestas concretas para mejorar la gestión económico-financiera, eliminar los defectos observados y obtener un mejor rendimiento de los fondos públicos. En el caso de existir deficiencias admitidas por el órgano controlado, éste indicará las medidas necesarias y el calendario previsto para solucionarlas. La Intervención General de la Junta de Extremadura realizará un seguimiento continuado sobre las medidas correctoras que se hayan decidido como consecuencia de las deficiencias detectadas en los informes.
+2. El plazo para concluir el control financiero será de doce meses, a contar desde la comunicación al ente auditado, si bien podrá ser prorrogado por causas justificadas mediante resolución de la Intervención General de la Junta de Extremadura con el alcance y los requisitos que se determinen reglamentariamente.
+3. En todo caso, los informes se remitirán al titular del organismo o entidad controlada, al competente en materia de hacienda y al del departamento del que dependa o al que esté adscrito el órgano o entidad controlada. Los Presidentes de los organismos públicos, sociedades mercantiles, fundaciones del sector público y resto de entes públicos que cuenten con Consejo de Administración u otro órgano de dirección colegiado similar o con Comité de auditoría deberán remitir a los mismos los informes de auditoría relativos a la entidad.
+4. Cada Consejería elaborará un plan de acción que determine las medidas concretas a adoptar para subsanar las debilidades, deficiencias, errores e incumplimientos relevantes que se pongan de manifiesto en los informes de control financiero elaborados por la Intervención General de la Junta de Extremadura, relativos tanto a la gestión de la propia Consejería como a la de los organismos y entidades públicas adscritas o dependientes y de las que ejerza la tutela.
+5. El plan de acción se elaborará y se remitirá a la Intervención General de la Junta de Extremadura en el plazo de tres meses desde que la Consejería reciba los informes de control financiero, y contendrá las medidas adoptadas por esta, en el ámbito de sus competencias, para corregir las debilidades, deficiencias, errores e incumplimientos que se hayan puesto de manifiesto en los informes remitidos y, en su caso, el calendario de actuaciones pendientes de realizar para completar las medidas adoptadas. La Consejería deberá realizar el seguimiento de la puesta en marcha de estas actuaciones pendientes e informar a la Intervención General de la Junta de Extremadura de su efectiva implantación.
+6. La Intervención General de la Junta de Extremadura valorará la adecuación del plan de acción para solventar las deficiencias señaladas y, en su caso, los resultados obtenidos. Si la Intervención General de la Junta de Extremadura no considerase adecuadas y suficientes las medidas propuestas en el plan de acción, lo comunicará motivadamente al titular de la Consejería correspondiente, el cual dispondrá de un plazo de un mes para modificar el plan en el sentido manifestado. En caso contrario, y si la Intervención General de la Junta de Extremadura considerase graves las debilidades, deficiencias, errores o incumplimientos cuyas medidas correctoras no son adecuadas, o ante la falta de remisión del correspondiente plan de acción en el plazo previsto, lo elevará al Consejo de Gobierno, a través de la Consejería competente en materia de hacienda, para su toma de razón.
+7. La Intervención General de la Junta de Extremadura presentará anualmente al Consejo de Gobierno, a través del consejero con competencias en materia de hacienda, un informe general con los resultados más significativos de la ejecución del Plan Anual de Control Financiero Permanente y del Plan Anual de Auditorías de cada ejercicio. No obstante, la Intervención General de la Junta de Extremadura podrá elevar a la consideración del Consejo de Gobierno, a través del consejero con competencias en materia de hacienda, los informes de control financiero que, por razón de sus resultados, estime conveniente anticipar su conocimiento.
+La Intervención General de la Junta de Extremadura elaborará los informes anuales de control y los dictámenes que vengan motivados por normas nacionales o comunitarias en relación con el control de fondos estatales o comunitarios.
+El informe general incorporará la situación de los Planes de Acción que afecten al ejercicio controlado. Un extracto de los informes generales de control, una vez presentados al Consejo de Gobierno, será objeto de publicación en la página web de la Intervención General de la Junta de Extremadura.
+Se modifica por el art. 9.13 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#ar-9
+ Se añade por el art. 3.14 de la Ley 2/2014, de 18 de febrero. Ref. BOE-A-2014-2384.
+
+### Artículo 152 quater
+
+Artículo 152 quater. Sistema de supervisión continua.
+1. Todas las entidades integrantes del sector público institucional autonómico están sujetas, desde su creación hasta su extinción, a la supervisión continua de la Intervención General de la Junta de Extremadura, que verificará la concurrencia, al menos, de los siguientes requisitos:
+a) La subsistencia de las circunstancias que justificaron su creación.
+b) Su sostenibilidad financiera.
+c) La concurrencia de la causa de disolución referida al incumplimiento de los fines que estuvieron en la base de la creación de la entidad o la falta de idoneidad de la misma para la consecución de aquellos fines.
+2. Para ello, todas las entidades integrantes del sector público institucional deberán contar, antes del comienzo de cada ejercicio, con un plan de actuación aprobado por sus máximos órganos estatutarios, que contendrá las líneas estratégicas en torno a las cuales se desenvolverá la actividad de la entidad, que se revisarán cada tres años, y que se completará con planes anuales, aprobados de la misma manera, que desarrollarán el plan de actuación para el ejercicio siguiente.
+3. Las entidades sujetas al sistema de supervisión continua están obligadas a colaborar con la Intervención General y a suministrar todos los antecedentes, documentos, programas o archivos, preferentemente en soporte informático, salvo que ya se disponga de la información, con la finalidad de cumplir los objetivos del sistema.
+4. Asimismo, los órganos de adscripción o tutela de las entidades que integran el ámbito de aplicación del sistema deberán facilitar la información que le solicite la Intervención General para el cumplimiento de los objetivos de control.
+5. Los resultados de la evaluación efectuada se plasmarán en informes sujetos a procedimiento contradictorio que, según las conclusiones que se hayan obtenido, podrá contener recomendaciones de mejora o una propuesta de transformación o supresión de la entidad. Estos resultados formarán parte del informe general que se presenta anualmente al Consejo de Gobierno.
+6. Las actuaciones de planificación, ejecución y evaluación correspondientes a la supervisión continua se determinarán reglamentariamente con base en normas de auditoría del sector público y normativa reguladora de la ejecución de controles financieros.
+Se añade por la disposición final 2 de la Ley 1/2024, de 5 de febrero. Ref. BOE-A-2024-3213
+
+## TÍTULO VI
+
+De las responsabilidades
+
+### Artículo 153
+
+Artículo 153. Principio general.
+Las autoridades y demás personal al servicio de las entidades contempladas en el artículo 2 de esta Ley que por dolo o culpa graves adopten resoluciones o realicen actos con infracción de las disposiciones de esta Ley, estarán obligados a indemnizar a la Hacienda Pública de Extremadura o, en su caso, a la respectiva entidad los daños y perjuicios que sean consecuencia de aquellos, con independencia de la responsabilidad penal o disciplinaria que les pueda corresponder.
+
+### Artículo 154
+
+Artículo 154. Hechos que pueden generar responsabilidad.
+1. Constituyen infracciones a los efectos del artículo anterior:
+a) Haber incurrido en alcance o malversación en la administración de los fondos públicos.
+b) Administrar los recursos y demás derechos de la Hacienda Pública regional sin sujetarse a las disposiciones que regulan su liquidación, recaudación o ingreso en la Tesorería.
+c) Comprometer gastos, liquidar obligaciones y ordenar pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en esta Ley o en la de Presupuestos que sea aplicable.
+d) Dar lugar a pagos reintegrables, de conformidad con lo establecido en el artículo 95 de esta Ley.
+e) No justificar la inversión de los fondos a los que se refieren los artículos 96 y 97 de esta Ley y la normativa reguladora de las subvenciones.
+f) Cualquier otro acto o resolución con infracción de esta Ley, cuando concurran los supuestos establecidos en el artículo anterior.
+2. Las infracciones tipificadas en el número anterior darán lugar, en su caso, a la obligación de indemnizar establecida en el artículo precedente.
+
+### Artículo 155
+
+Artículo 155. Tipos de responsabilidad.
+1. Cuando el acto o la resolución se dictase mediando dolo, la responsabilidad alcanzará a todos los daños y perjuicios que conocidamente deriven de la resolución adoptada con infracción de esta Ley.
+2. En el caso de culpa grave, las autoridades y demás personal de los entes del sector público autonómico sólo responderán de los daños y perjuicios que sean consecuencia necesaria del acto o resolución ilegal.
+A estos efectos, la Administración tendrá que proceder previamente contra los particulares para el reintegro de las cantidades indebidamente percibidas.
+3. La responsabilidad de quienes hayan participado en la resolución o en el acto será mancomunada, excepto en los casos de dolo, que será solidaria.
+
+### Artículo 156
+
+Artículo 156. Responsabilidad de los Interventores y ordenadores de los pagos.
+En las condiciones fijadas en los artículos anteriores, están sujetos a la obligación de indemnizar a la Hacienda Pública de la Comunidad Autónoma o, en su caso, a la respectiva entidad, además de los que adopten la resolución o realicen el acto determinante de aquélla, los interventores en el ejercicio de la función interventora, respecto a los extremos a los que se extiende la misma, y los ordenadores de pago que no hayan salvado su actuación en el respectivo expediente, mediante observación escrita acerca de la improcedencia o ilegalidad del acto o resolución.
+
+### Artículo 157
+
+Artículo 157. Órgano competente y procedimiento.
+1. Sin perjuicio de las competencias del Tribunal de Cuentas, la responsabilidad será exigida en expediente administrativo instruido al interesado.
+2. El acuerdo de incoación, el nombramiento de instructor y la resolución del expediente corresponderán al Consejo de Gobierno cuando se trate de personas que, de conformidad con el ordenamiento vigente, tengan la condición de autoridad, y en los demás casos al titular de la Consejería competente en materia de Hacienda.
+3. La resolución que, previo informe del Gabinete Jurídico de la Junta de Extremadura, ponga fin al expediente tramitado con audiencia de los interesados, se pronunciará sobre los daños y perjuicios causados a los bienes y derechos de la Hacienda Pública de Extremadura o, en su caso, de la entidad, imponiendo a los responsables la obligación de indemnizar en la cuantía y en el plazo que se determine.
+4. El plazo máximo para dictar la resolución será de doce meses, contados desde el día siguiente a la notificación del acuerdo de incoación.
+Dicha resolución será recurrible ante la Sala de Justicia del Tribunal de Cuentas en el plazo de dos meses, contados desde el día siguiente al de su notificación.
+
+### Artículo 158
+
+Artículo 158. Régimen jurídico del importe de los perjuicios irrogados.
+1. Los perjuicios declarados en los expedientes de responsabilidad, tendrán la consideración de derechos de la Hacienda Pública autonómica o del ente respectivo.
+Dichos derechos gozarán del régimen a que se refiere el artículo 20 y se procederá a su cobro, en su caso, por la vía de apremio.
+2. La Hacienda Pública autonómica, o en su caso la entidad correspondiente, tienen derecho al interés previsto en el artículo 24, sobre el importe de los alcances, malversaciones, daños y perjuicios a sus bienes y derechos, desde el día que se irroguen los perjuicios. Cuando por insolvencia del deudor directo se derive la acción a los responsables subsidiarios, el interés se calculará a contar del día en que se les requiera el pago.
+
+### Artículo 159
+
+Artículo 159. Diligencias previas.
+Tan pronto como se tenga noticia de que se ha producido un hecho constitutivo de las infracciones a que se refiere el artículo 154 o hayan transcurrido los plazos señalados en los correspondientes artículos de esta Ley sin haber sido justificadas las órdenes de pago o los fondos a que el mismo se refiere, los jefes de los presuntos responsables y los ordenadores de pagos, respectivamente, instruirán las diligencias previas y adoptarán, con igual carácter, las medidas necesarias para asegurar los derechos de la Hacienda Pública autonómica o los de la respectiva entidad, dando inmediato conocimiento al Tribunal de Cuentas o al titular de la Consejería competente en materia de Hacienda, en cada caso, para que procedan según sus competencias y conforme a los procedimientos establecidos.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen de los organismos autónomos anteriores a la Ley del Gobierno y de la Administración.
+Los organismos autónomos creados con anterioridad a la Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura, sean de carácter administrativo o de carácter comercial, industrial, financiero o análogo, se entenderán a todos los efectos como organismos autónomos de los previstos en la letra a) del apartado 1 del artículo 111 de la citada Ley 1/2002, y pasarán a ser considerados como integrantes del sector público administrativo autonómico e incluidos en la letra b) del apartado 1 del artículo 2 de esta Ley.
+Su régimen presupuestario, económico-financiero, de contabilidad, de intervención y de control financiero será el establecido para los organismos autónomos en esta Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Gestión económica de los centros docentes no universitarios.
+La gestión económica de los centros docentes públicos no universitarios se regirá por su normativa específica, y en su caso, por la regulación que establezca el Consejo de Gobierno de la Junta de Extremadura, resultando de aplicación supletoria las disposiciones de esta Ley.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Gestión de los gastos de la Política Agraria Común.
+La gestión de los gastos de la Política Agraria Común se regirá, en cuanto a su ejecución y gestión, por las normas y procedimientos establecidos en los Reglamentos de la Unión Europea que sean de aplicación, por las normas básicas del Estado en esta materia, y por las que, en su caso, pueda dictar la Comunidad Autónoma.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Exención de garantías.
+Estarán exentas de la obligación de constituir garantía por las aportaciones económicas que reciban de manera anticipada con cargo a los Presupuestos de la Comunidad Autónoma de Extremadura:
+a) Las entidades integrantes del sector público autonómico incluidas en el artículo 2 de esta Ley.
+b) Las entidades locales de la Comunidad Autónoma de Extremadura y los organismos de ellas dependientes.
+c) La Universidad de Extremadura.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Especialidades presupuestarias de la Asamblea.
+La Mesa de la Asamblea de Extremadura podrá aprobar transferencias, generaciones e incorporaciones de crédito en la Sección del Presupuesto correspondiente a dicho órgano legislativo.
+Las dotaciones presupuestarias a la Asamblea de Extremadura se librarán por cuartas partes, en firme y sin justificación a petición del Presidente de la misma.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Generación de créditos destinado a financiar gastos corrientes del Servicio Extremeño de Salud.
+Mientras tenga vigencia lo dispuesto en el artículo 1 del Real Decreto-Ley 12/2005, de 16 de septiembre, por el que se aprueban determinadas medidas en materia de financiación sanitaria, se autoriza al Consejo de Gobierno a generar créditos en el estado de gastos del Servicio Extremeño de Salud destinados a bienes y servicios de naturaleza corriente, financiándose con anticipos de tesorería a cuenta de la liquidación de los tributos cedidos y del Fondo de Suficiencia, que autorice el Tesoro del Estado, por importe superior a las previsiones iniciales contempladas en el presupuesto de ingresos.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo que dispone esta Ley y, en especial, la Ley 3/1985, de 19 de abril, General de Hacienda Pública de Extremadura.
+
+### Disposición final primera
+
+Disposición final primera. Habilitaciones normativas.
+1. Se habilita al Consejo de Gobierno para dictar las disposiciones reglamentarias necesarias para la aplicación y el desarrollo de la presente Ley.
+2. Se habilita al titular de la Consejería competente en materia de Hacienda para regular la utilización de medios electrónicos, informáticos y telemáticos en las materias contempladas en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta Ley entrará en vigor a los cuatro meses de su publicación en el «Diario Oficial de Extremadura». No obstante, entrarán en vigor el día 1 de enero de 2008 los siguientes capítulos y artículos:
+Los Capítulos II y IV del Título II.
+Los artículos 83, 85 y 86, en lo que se refiere a la elaboración de los escenarios presupuestarios plurianuales.
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta Ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 19 de abril de 2007.
+El Presidente de la Junta de Extremadura,
+Juan Carlos Rodríguez Ibarra

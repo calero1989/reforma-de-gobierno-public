@@ -1,0 +1,169 @@
+# Ley 5/2021, de 5 de noviembre, reguladora del Fondo de Cooperación Municipal de los Municipios y Entidades Locales Menores de la Comunitat Valenciana.
+
+- Identificador BOE: `BOE-A-2021-21668`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2021-21668
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+En el contexto social, económico y político actual urge que la Generalitat actúe decididamente como garante del municipalismo, subraye la importancia estratégica de lo local e intervenga para corregir desequilibrios y desigualdades. Es necesario un sistema de financiación local, en el ámbito de la Comunitat Valenciana, que sea eficiente y estructurado y fortalezca el nivel básico, el municipal, donde radica el poder político y la representación democrática más próxima a la ciudadanía.
+En el ámbito local se ha visto cómo el crecimiento de su capacidad de actuación y la vigorización de su espacio en la cohesión social nunca han venido acompañados del fortalecimiento de la autonomía local ni de la suficiencia financiera. Desde los años ochenta del siglo pasado el municipalismo ha planteado, sin demasiada suerte, la doble reivindicación institucional y financiera. La hora local ha sido un clásico en su formulación y un tópico en su aplazamiento. El pacto local y la segunda descentralización han quedado siempre como declaraciones de intenciones, proclamas electorales o compromisos incumplidos.
+Las competencias propias y la financiación incondicionada constituyen la expresión de la autonomía local. Por eso esta ley profundiza en la garantía de un sistema estable de financiación local con el objetivo de asegurar una gestión pública de calidad en el ejercicio de las competencias municipales.
+Los niveles central y autonómico tienen la obligación constitucional de garantizar la suficiencia financiera a los ayuntamientos. La cultura de la subvención hacia los entes locales conlleva disfunciones del sistema que producen una jerarquía impropia a la hora de determinar las prioridades y las políticas en lo que le corresponde decidir al ayuntamiento en función de sus competencias. A tal efecto, la presente ley aborda la dotación de un fondo autonómico de financiación local que, de una manera incondicionada, objetiva y transparente, le dé cobertura al principio de autonomía local y proporcione estabilidad al sistema.
+La Constitución española garantiza, en su artículo 140, la autonomía de los municipios y determina, en su artículo 142, que las haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las comunidades autónomas. Así, la comunidad autónoma es constitucionalmente responsable, junto con el Estado, de garantizar la suficiencia financiera de los entes locales.
+El principio de suficiencia financiera supone la necesidad de que las administraciones públicas estén dotadas de poder financiero suficiente para la ejecución de sus competencias materiales. Esta suficiencia, en la vertiente del ingreso público, conlleva también, en el caso de las entidades locales, no solo que puedan establecer su propio sistema de recursos, sino que además tales recursos sean de una cuantía suficiente para afrontar las políticas públicas en materias de su competencia.
+Por su parte, la Ley orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera, ha convertido la sostenibilidad financiera en principio rector de la actuación económico-financiera de las administraciones públicas, conforme indica en su preámbulo y establece en su articulado.
+En la Comunitat Valenciana, el Estatuto de autonomía establece, en el apartado 3 de su artículo 64, que, para potenciar la autonomía local sobre la base del principio de subsidiariedad, por ley de Les Corts Valencianes, se creará el Fondo de Cooperación Municipal de la Comunitat Valenciana con los mismos criterios que el fondo estatal.
+En cumplimiento de dicho mandato estatutario, en el artículo 201 de la Ley 8/2010, de 23 de junio, de la Generalitat, de régimen local de la Comunitat Valenciana, se creó formalmente el Fondo de Cooperación Municipal de la Comunitat Valenciana. Este precepto dispone que serán beneficiarios del fondo todos los municipios de la Comunitat Valenciana y prescribe que, a través de este, se financiarán servicios, infraestructuras y equipamientos básicos de los municipios de la Comunitat Valenciana y se establecerán sus dotaciones en cada ley de presupuestos de la Generalitat. Se indica finalmente que por reglamento se desarrollará la participación de los municipios en las dotaciones del Fondo de Cooperación Municipal de la Comunitat Valenciana. El desarrollo reglamentario se realizó finalmente mediante el Decreto 51/2017, de 7 de abril, del Consell, por el que se regula el Fondo de Cooperación Municipal Incondicionado de la Comunitat Valenciana.
+Las diputaciones provinciales, que ostentan, entre sus competencias propias, las de asistencia y cooperación jurídica, económica y técnica a los municipios, conforme al apartado 1.b del artículo 36 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, pueden participar voluntariamente en la implementación del Fondo de Cooperación Municipal.
+Por tanto, resulta necesario un nuevo marco jurídico, incluido en el Plan normativo de la Administración de la Generalitat para 2020, con el fin de garantizar, mediante una norma con rango de ley, que el sistema de financiación local goce de estabilidad y de las máximas garantías de permanencia y equidad territorial para los municipios y las entidades locales menores, que están prestando servicios públicos esenciales desde la proximidad, con el fin de asegurar la sostenibilidad financiera de los municipios y la cobertura de las necesidades básicas de la ciudadanía en el marco de sus competencias. Esta ley resulta el instrumento normativo más adecuado para la plena efectividad de la consecución de este objetivo y sustituye la breve regulación actual del citado artículo 201 de la Ley 8/2010, de 23 de junio, de la Generalitat, de régimen local de la Comunitat Valenciana, y su desarrollo reglamentario.
+En virtud de los principios de necesidad y eficacia, esta ley se justifica por razones de interés general, puesto que pretende establecer un sistema de financiación estable y con vocación de permanencia para las entidades locales que prestan servicios públicos esenciales desde la proximidad, con el fin de garantizar la cobertura de las necesidades básicas de la ciudadanía en el marco de sus competencias, resultando el instrumento más adecuado para garantizar su consecución.
+Respecto al principio de proporcionalidad, esta ley contiene la regulación imprescindible para atender las necesidades de financiación de las entidades locales de la Comunitat Valenciana, sin que conlleve medidas restrictivas de derechos ni imponga obligaciones a las personas destinatarias.
+Con el fin de garantizar el principio de seguridad jurídica, el contenido de esta ley es coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, y pretende generar en el ámbito de la financiación local un marco normativo estable, predecible, integrado, claro y de certidumbre, que facilite su conocimiento y comprensión y, en consecuencia, la actuación y la toma de decisiones de las entidades locales afectadas.
+En aplicación del principio de transparencia, se han definido claramente los objetivos de esta norma y su justificación en esta exposición de motivos y se ha posibilitado la participación activa de las personas y las entidades destinatarias en su elaboración. Finalmente, en aplicación del principio de eficiencia, este anteproyecto no conlleva ningún tipo de cargas administrativas innecesarias o accesorias.
+Se modifica por el art. 31 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+## CAPÍTULO PRELIMINAR
+
+Disposición general
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta ley tiene por objeto regular el Fondo de Cooperación Municipal de la Comunitat Valenciana establecido en el Estatuto de autonomía de la Comunitat Valenciana, así como la creación y regulación de la comisión de seguimiento del mismo.
+Se modifica por el art. 32 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+## CAPÍTULO I
+
+El Fondo de Cooperación Municipal de la Comunitat Valenciana
+
+### Artículo 2
+
+Artículo 2. Fines y principios del Fondo de Cooperación Municipal.
+1. El Fondo de Cooperación Municipal de la Comunitat Valenciana tiene por finalidad garantizar la suficiencia financiera de las entidades locales de la Comunitat Valenciana y potenciar su autonomía local sobre la base del principio de subsidiariedad, financiando globalmente su actividad. Este fondo se basa en los principios de objetividad transparencia, publicidad y equidad, constituyendo un factor de articulación, equilibrio y cohesión territorial.
+2. Este fondo promoverá el equilibrio económico de los entes locales de la Comunitat Valenciana y la realización interna del principio de solidaridad, al objeto de contribuir a que los diferentes núcleos y las entidades de población cuenten con la dotación adecuada para la prestación de los servicios de competencia local.
+Se modifica por el art. 33 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 3
+
+Artículo 3. Naturaleza incondicionada del Fondo de Cooperación Municipal.
+1. El Fondo de Cooperación Municipal tiene naturaleza incondicionada y no finalista. Los municipios y las entidades locales menores podrán destinar los recursos que reciban al desarrollo general de sus competencias, sin vinculación a un objetivo o finalidad concreto.
+2. Las aportaciones del Fondo de Cooperación Municipal de la Comunitat Valenciana tienen el carácter de transferencias a los municipios y las entidades locales menores, con objeto de financiar globalmente las actividades y los servicios que les correspondan en virtud de las competencias que hayan asumido según la legislación vigente, y son compatibles con la percepción de las aportaciones de las líneas específicas del Fondo de Cooperación Municipal para la lucha contra el despoblamiento de los municipios de la Comunitat Valenciana y del Fondo de Cooperación Municipal para los municipios turísticos de la Comunitat Valenciana, así como con aquellas que se puedan crear legal o reglamentariamente.
+3. Dichas transferencias forman parte y están vinculadas al sistema de financiación autonómica de las corporaciones locales valencianas, sin que en ningún caso tengan naturaleza de subvención.
+
+### Artículo 4
+
+Artículo 4. Entidades beneficiarias.
+1. Son entidades beneficiarias del Fondo de cooperación municipal de la Comunitat Valenciana todos los municipios y las entidades locales menores de la Comunitat Valenciana.
+2. Para ser entidad beneficiaria de este fondo será necesario haber cumplido la obligación de presentar la cuenta general ante la Sindicatura de Comptes de la Comunitat Valenciana en los términos establecidos en su normativa reguladora.
+Se modifica por el art. 88 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
+
+### Artículo 5
+
+Artículo 5. Dotación.
+1. La dotación anual máxima del Fondo de Cooperación Municipal de la Comunitat Valenciana vendrá determinada por el crédito presupuestario que se consigne en la correspondiente Ley de presupuestos de la Generalitat y en su caso, por el importe que las diputaciones provinciales adheridas a este fondo consignen a tal fin en sus respectivos presupuestos anuales.
+2. Corresponde al órgano directivo con competencia en materia de administración local, realizar todas las actuaciones necesarias para la correcta gestión y distribución del Fondo de Cooperación Municipal de la Comunitat Valenciana.
+Se modifica por el art. 34 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 6 por Sentencia del TC 124/2023, de 26 de septiembre. Ref. BOE-A-2023-22419
+
+### Artículo 6
+
+Artículo 6. Procedimiento de distribución de la cuantía presupuestada por la Generalitat.
+El procedimiento para la asignación anual de la cuantía presupuestada por la Generalitat correspondiente a cada entidad beneficiaria se iniciará de oficio por la persona titular del departamento con competencias en administración local, a quien corresponderá emitir la resolución de reconocimiento de conformidad con las reglas de distribución contenidas en esta ley, previo conocimiento por la Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana. En esta resolución se establecerá el procedimiento de pago de dichas cuantías.
+Se modifica por el art. 35 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 7
+
+Artículo 7. Reglas de distribución.
+La asignación de los recursos económicos que correspondan a cada entidad beneficiaria se efectuará mediante criterios objetivos que serán objeto de desarrollo reglamentario mediante decreto del Consell, de conformidad con los criterios de distribución establecidos por el artículo 64.3 del Estatuto de autonomía de la Comunitat Valenciana.
+Se modifica por el art. 36 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+ Se declara la inconstitucionalidad y nulidad por Sentencia del TC 124/2023, de 26 de septiembre. Ref. BOE-A-2023-22419
+
+### Artículo 8
+
+Artículo 8. Participación de las diputaciones provinciales.
+1. Las diputaciones de Alicante, Castellón y València, como entidades locales de la Comunitat Valenciana, en el ejercicio de sus competencias de vertebración del territorio previstas en el artículo 50 de la Ley de régimen local de la Comunitat Valenciana, podrán participar a través de sus presupuestos anuales en el Fondo de Cooperación Municipal de la Comunitat Valenciana, regulado en el artículo 64.3 del Estatuto de autonomía de la Comunitat Valenciana, mediante las aportaciones dinerarias previstas en el artículo 2.2 de la Ley 38/2003, de 17 de noviembre, general de subvenciones.
+2. Las diputaciones provinciales que mediante el correspondiente acuerdo de su órgano competente se adhieran a la participación en el Fondo de Cooperación Municipal, podrán destinar su asignación presupuestaria a los municipios y entidades locales menores de su provincia, distribuyendo la misma utilizando, bien las mismas reglas de distribución que la Generalitat y bajo el mismo régimen de transferencias incondicionadas, o bien adoptando su propio régimen jurídico y reglas de distribución atendiendo a los principios de objetividad y equidad.
+Se modifica por el art. 37 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 9
+
+Artículo 9. Líneas específicas del Fondo de Cooperación Municipal.
+1. Con carácter complementario a la línea general del Fondo de Cooperación Municipal regulada mediante esta ley, se podrán establecer mediante decreto otras líneas específicas de este Fondo de Cooperación Municipal, que deberán tener naturaleza incondicionada y no finalista, con objeto de financiar globalmente las actividades y los servicios de las entidades beneficiarias. Estas líneas específicas serán compatibles con la percepción de las aportaciones de la línea general del Fondo de Cooperación Municipal.
+2. En los referidos decretos se regularán los objetivos de la línea específica, los requisitos para ser entidad beneficiaria, el procedimiento y los criterios de distribución.
+
+## CAPÍTULO II
+
+La Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana
+Se modifica por el art. 38 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 10
+
+Artículo 10. Comisión de Seguimiento del Fondo de Cooperación Municipal.
+1. Se crea la Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana, que es el órgano de participación encargado de la implementación, el seguimiento y el control de la ejecución anual del Fondo de Cooperación Municipal de la Comunitat Valenciana.
+2. Esta comisión está adscrita al departamento de la Generalitat con competencias en administración local.
+Se modifica por el art. 39 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 11
+
+Artículo 11. Composición y funcionamiento de la comisión de seguimiento.
+1. La Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana se integra, en primer lugar, por los siguientes miembros:
+a) Presidencia: la persona titular del órgano superior al que esté adscrita la dirección general competente en materia de administración local o persona que designe en su sustitución. La Presidencia tendrá voto de calidad en caso de empate en las votaciones que pudieran realizarse.
+b) Vicepresidencias: la persona titular de la secretaria autonómica competente en materia de hacienda, y las de las presidencias de las diputaciones provinciales que se hayan adherido al Fondo de Cooperación Municipal de la Comunitat Valenciana durante el correspondiente ejercicio.
+2. Asimismo, también se integran como personas miembros de esta comisión las siguientes vocalías:
+a) La persona titular de la dirección general competente en materia de administración local o persona que designe en su sustitución.
+b) La persona titular de la dirección general competente en materia de presupuestos o persona que designe en su sustitución.
+c) La persona titular de la dirección general competente en materia de transparencia o persona que designe en su sustitución.
+d) La persona titular de la Presidencia de la Federación Valenciana de Municipios y Provincias o persona que designe en su sustitución.
+e) Tres personas titulares de alcaldías designadas por los órganos competentes de la Federación Valenciana de Municipios y Provincias.
+f) Una persona representante y designada por cada una de las diputaciones provinciales participantes en el Fondo de Cooperación.
+3. La Secretaría será desempeñada por la persona del centro directivo con competencias en materia de administración local, designada por quien sea su titular, o persona que se designe en su sustitución, que actuará con voz, pero sin voto.
+4. El régimen jurídico de funcionamiento de la comisión será el regulado por la normativa básica sobre funcionamiento de los órganos colegiados, por la normativa autonómica que la desarrolle, así como por las normas que pueda aprobar la comisión para completar su régimen de funcionamiento.
+5. La composición de la Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana se ajustará al principio de presencia equilibrada de mujeres y hombres.
+Se modifica por el art. 40 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 12
+
+Artículo 12. Funciones de la comisión de seguimiento.
+La Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana asumirá las siguientes funciones:
+a) Estudiar y proponer anualmente la determinación de las cuantías a consignar presupuestariamente durante cada ejercicio por cada una de las administraciones adheridas al Fondo de Cooperación Municipal de la Comunitat Valenciana.
+b) Presentar propuestas relativas a las reglas de distribución del Fondo de Cooperación Municipal de la Comunitat Valenciana.
+c) Solicitar, a efectos estadísticos y de estudio, toda la información que precise, a los municipios y entidades locales menores, relativas a la aplicación de las cantidades recibidas del mismo.
+Se modifica por el art. 41 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Disposición adicional primera
+
+Disposición adicional primera. Efectos en materia de estabilidad presupuestaria.
+A efectos de lo establecido en el apartado 4 del artículo 12 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera, y del resto de legislación en materia de estabilidad presupuestaria, el Fondo de Cooperación regulado en esta ley sustituye al creado mediante el Decreto 51/2017, de 7 de abril, del Consell, por el que se regula el Fondo de Cooperación Municipal incondicionado de la Comunitat Valenciana, por lo que a los municipios les resulta de aplicación el régimen de cambio normativo que comporta un aumento permanente de la recaudación de las corporaciones municipales afectadas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Importes adicionales al Fondo de Cooperación.
+(Suprimida)
+Se suprime por el art. 42 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogado el capítulo II del título XI de la Ley 8/2010, de 23 de junio, de régimen local de la Comunitat Valenciana, y el Decreto 51/2017, de 7 de abril, del Consell, por el que se regula el Fondo de Cooperación Municipal incondicionado de la Comunitat Valenciana, excepto el capítulo II, que se mantiene en vigor únicamente en aquello que no contradiga a esta ley, y toda disposición normativa anterior adoptada por la Generalitat que se oponga a las previsiones de esta ley.
+La línea específica del Fondo de Cooperación Municipal para la lucha contra el despoblamiento de los municipios de la Comunitat Valenciana regulada por el Decreto 182/2018, de 10 de octubre, del Consell, y la línea del Fondo de Cooperación para municipios turísticos, regulada por el Decreto 142/2020, de 25 de septiembre, del Consell, se mantienen en vigor en todo lo que no contradiga la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Rango reglamentario.
+La composición de la Comisión de Seguimiento del Fondo de Cooperación Municipal de la Comunitat Valenciana, que se regula en el artículo 11, es de rango reglamentario.
+Se modifica por el art. 43 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 5 de noviembre de 2021.–El President de la Generalitat, Ximo Puig I Ferrer.

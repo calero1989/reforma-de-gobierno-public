@@ -1,0 +1,1478 @@
+# Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado.
+
+- Identificador BOE: `BOE-A-2001-6008`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 2001. Ref. BOE-A-2001-14163
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La tradición e importancia de la actividad pesquera de la flota española y de nuestro comercio de productos de la pesca, con la existencia de regiones altamente dependientes de dichas actividades, han configurado un subsector económico de gran importancia en el conjunto de la economía nacional, que obliga al establecimiento de un marco legislativo enunciador de los principios generales orientadores del régimen jurídico del sector económico y productivo de la pesca.
+En efecto, la flota española es la más importante de la Comunidad Europea, aunque la importancia económica y social del sector pesquero no puede estimarse únicamente teniendo en cuenta la actividad estrictamente extractiva, ya que las especiales características de la actividad le confieren un efecto multiplicador extraordinario. Así, lo que genéricamente conocemos como sector económico pesquero es un conglomerado de actividades íntimamente relacionadas que, basadas en la explotación y aprovechamiento de los recursos marinos vivos, abarca actividades como la pesca extractiva, la comercialización, la transformación, la construcción naval, la industria auxiliar y los servicios relacionados, que configuran un conjunto económico y social inseparable.
+El hecho de que la actividad pesquera se base en la explotación de recursos vivos renovables, confiere a la correcta gestión de los mismos una importancia preponderante sobre el resto de los aspectos de la política pesquera. Sin recursos, ninguna de las demás actividades relacionadas que configuran el sector pesquero en su conjunto tienen sentido alguno. Es por tanto de capital importancia asegurar que el aprovechamiento de los mismos se realice bajo cánones que aseguren la sostenibilidad de la actividad, como único medio para lograr un aprovechamiento óptimo y duradero.
+Las poblaciones de peces se distribuyen en determinadas áreas de los mares y océanos, sin entender de fronteras políticas. Es biológicamente imposible pretender la gestión de una parte del conjunto de la población sin contar con el resto de la comunidad, que mantiene entre sí estrechas interacciones. Por este motivo, a menudo la cooperación internacional constituye el "sine qua non" de una adecuada gestión de los recursos pesqueros.
+El artículo 130.1 de nuestra Constitución emplaza a los poderes públicos en orden a modernizar y desarrollar todos los sectores económicos, con especial referencia al sector pesquero. Los principios constitucionales de libertad de empresa en el marco de la economía de mercado y la función social de la riqueza nacional, contenidos en los artículos 38 y 128, son la base de la regulación del sector pesquero contenida en esta Ley.
+Desde la integración de España en las Comunidades Europeas, las Instituciones Comunitarias han asumido buena parte de las competencias que el Estado tenía en la materia, conforme a la previsión contenida en los artículos 93 y 96 de la Constitución. El derecho comunitario, y por tanto la política pesquera común, han pasado a formar parte del ordenamiento interno.
+La política pesquera común y la gestión de la pesca marítima se basan en la protección de los recursos, y tienden a lograr el desarrollo sostenible del sector pesquero, mediante un régimen basado en el equilibrio de las disponibilidades existentes y su explotación racional y responsable, de modo que se consiga el empleo óptimo de los factores de producción, favoreciendo así la rentabilidad y mejorando las condiciones socioeconómicas del sector pesquero a medio y largo plazo, especialmente la de las poblaciones locales dependientes de la pesca.
+En el orden internacional, la Convención de las Naciones Unidas sobre Derecho del Mar de 1982, ratificada por España mediante instrumento de 20 de diciembre de 1996, emplaza a los Estados para que incorporen a su ordenamiento interno las medidas de gestión responsable de los recursos pesqueros, tanto en sus zonas económicas exclusivas como en alta mar, correspondiendo a la Comunidad Europea la obligación de establecer las medidas necesarias en relación con los nacionales de los Estados miembros, así como la competencia para cooperar con terceros países y Organismos internacionales con la finalidad de conservar y proteger los recursos vivos. Las conferencias y convenios internacionales establecen compromisos para los Estados, que han de orientar su política pesquera hacía objetivos concretos.
+Así, los objetivos derivados de la Conferencia de las Naciones Unidas sobre Medio Ambiente y Desarrollo Sostenible y el Código de Conducta de la FAO para la Pesca Responsable forman parte, asimismo, del marco jurídico aplicable a la actividad pesquera.
+Por su parte, los múltiples Acuerdos de pesca entre la Comunidad Europea y países terceros en nombre de los Estados miembros, contienen la normativa que ha de respetar nuestra flota en aguas de dichos Estados, con la correspondiente obligación de velar por su cumplimiento.
+A su vez, el ámbito de la actividad comercial de los productos de la pesca se ha visto modificado por la política pesquera común, los acuerdos de la Organización Mundial del Comercio y el Espacio Económico Europeo, que han producido modificaciones sustanciales en los intercambios comerciales.
+De conformidad con la jurisprudencia del Tribunal Constitucional, el ejercicio de la potestad normativa estatal exige una interpretación del alcance y los límite de la competencia legislativa del Estado definida en la Constitución y en los Estatutos, imprescindible, en todo caso, en el "iter" de elaboración de toda norma o acto de los poderes públicos.
+El artículo 149.1.19.a de la Constitución atribuye al Estado la competencia exclusiva en materia de pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas. A su vez el artículo 148.1.11.a, establece la competencia exclusiva de las Comunidades Autónomas en materia de pesca en aguas interiores, marisqueo y acuicultura. Los Estatutos de Autonomía atribuyen a las Comunidades Autónomas competencias de desarrollo legislativo y ejecución de la normativa básica del Estado en materia de ordenación del sector pesquero. La doctrina del Tribunal Constitucional ha dotado de contenido material a los títulos competenciales "pesca marítima" y "ordenación del sector pesquero". La Ley regula el ámbito estricto de la pesca marítima, competencia exclusiva del Estado y por tanto vedada a la acción normativa y ejecutiva de las Comunidades Autónomas, y contiene las imprescindibles garantías de certidumbre jurídica en la definición de la normativa básica en materia de ordenación del sector pesquero, lo que permitiría a las Comunidades Autónomas ejercer sus competencias de desarrollo y ejecución del marco jurídico estatal estableciendo los ordenamientos complementarios que satisfagan sus propios intereses.
+La Ley establece, asimismo, al amparo del artículo 149.1.13.a de la Constitución, la normativa básica sobre la comercialización de los productos pesqueros, regulando la importación de los mismos en base a la competencia exclusiva del Estado establecida en el artículo 149.1.10.a La necesaria coherencia de la política económica exige un marco jurídico común que asegure un tratamiento uniforme en todo el territorio nacional de dicha actividad comercial, en orden a la consecución de los objetivos económicos del sector pesquero, evitando que se produzcan disfunciones por la estrecha interdependencia de las actuaciones comerciales, no sólo entre sí sino también en relación directa con la actividad extractiva, ya que la prohibición de comercializar productos capturados contraviniendo la normativa sobre protección y conservación de los recursos pesqueros es la forma más eficaz de disuasión de capturas ilegales y la mejor garantía de una política de pesca responsable. Corresponde a las Comunidades Autónomas, en el ejercicio de las competencias estatutarias asumidas en materia de comercio interior, el desarrollo y ejecución de la normativa básica en su ámbito territorial, con el fin de lograr un mercado nacional de productos pesqueros transparente, dinámico, competitivo y con información veraz a los consumidores, lo que supondrá el aumento del valor añadido de dichos productos en beneficio del sector pesquero y de la economía nacional, en función de su mayor aportación al producto interior bruto.
+La política de fomento de la investigación pesquera y oceanográfica, realizada por el Instituto Español de Oceanografía, es el instrumento indispensable que permitirá orientar el diseño de una política pesquera realista, adecuando la actividad extractiva a las disponibilidades existentes y, en su caso, a la explotación por nuestra flota de nuevas especies en otros caladeros.
+En efecto, el hecho de tratarse de la gestión de recursos vivos hace que la investigación pesquera y oceanográfica revista una importancia capital para conocer los factores biológicos que influyen en la abundancia de las poblaciones de peces, de sus interacciones con el medio marino, del efecto del índice de mortalidad de pesca, así como de otros tales como los métodos, zonas y épocas de captura.
+La presente Ley regula, finalmente, el régimen de infracciones y sanciones que recoge los criterios sustantivos contenidos en la jurisprudencia del Tribunal Constitucional, diferenciando el ámbito material correspondiente a la pesca marítima, competencia exclusiva del Estado, del correspondiente a la ordenación del sector pesquero y la comercialización de productos pesqueros, materias de competencia compartida, en la que corresponde a las Comunidades Autónomas el desarrollo legislativo y la ejecución de la normativa básica del Estado.
+De acuerdo con ello, el régimen sancionador propio de la pesca marítima es competencia exclusiva del Estado y se aplica en las aguas exteriores. En materia de ordenación del sector y de comercialización de productos pesqueros, la Ley establece el catálogo mínimo de infracciones y sanciones de aplicación común y uniforme en todo el territorio y en las aguas bajo jurisdicción o soberanía nacional. Así, todas las Comunidades Autónomas, tanto las del litoral por su competencia de desarrollo y ejecución de la normativa básica en materia de "ordenación del sector pesquero", como las del interior, por tener atribuciones estatutarias en materia de "comercio interior", conforme a sus respectivos Estatutos de Autonomía, son competentes para inspeccionar y sancionar las conductas tipificadas por la Ley.
+En conclusión, la Ley es una exigencia formal y material para la funcionalidad de las Administraciones públicas en cuanto acota el ámbito de la competencia exclusiva estatal sobre "pesca marítima" y determina el marco normativo básico que deben tener en cuenta las Comunidades Autónomas para poder ejercer sus competencias en materia de "ordenación del sector pesquero" y de "comercio interior" de productos pesqueros.
+La Ley consta de seis Títulos, ordenados en capítulos y éstos, a su vez, en secciones.
+El Título Preliminar contiene disposiciones generales sobre el objeto y fines de la Ley.
+El Título I regula la pesca marítima, estableciendo el ámbito de aplicación y las medidas de conservación, protección y regeneración de los recursos pesqueros, el régimen de gestión de la actividad pesquera, la regulación de la pesca no profesional y las medidas de control e inspección de la pesca marítima.
+La gestión del esfuerzo pesquero, basado en la distribución de cuotas o posibilidades de pesca atribuidas a nuestra flota, se instrumenta fundamentalmente mediante medidas directas, que determinan el número de buques y sus características técnicas, así como el tiempo de pesca. Dicha distribución se ha realizado tradicionalmente en base a los criterios objetivos de la habitualidad en la pesquería y de la idoneidad del buque para la modalidad de pesca de que se trate, sin perjuicio de valorar otras circunstancias que puedan concurrir en el buque, la situación del caladero y el estado de sus recursos, pudiendo ser atribuidas tales posibilidades a buques o grupo de buques pertenecientes a uno o varios censos y para determinadas zonas o pesquerías, estando cifradas generalmente en volumen de capturas o tiempo de pesca, sin perjuicio de utilizar otro criterio propio de la política pesquera. Para la gestión de los recursos, el Ministerio de Agricultura, Pesca y Alimentación podrá adoptar Planes de Pesca específicos de regulación de la actividad pesquera, por flotas, pesquerías, zonas o caladeros.
+El régimen de acceso a los recursos pesqueros y el derecho constitucional a la libertad de empresa, están necesariamente limitados por la patente escasez de los recursos pesqueros que justifica la adopción por la Ley de medidas de limitación de la actividad pesquera, ya que, sin perjuicio de la consideración de los intereses individuales, el ordenamiento jurídico ha de garantizar y amparar el fin social común de los recursos pesqueros.
+Esta confrontación ente el derecho a pescar y la obligación del estado de "delimitar el contenido del derecho de propiedad en relación con cada tipo de bienes", conforme establecen los artículos 33, 40, 45, 128 y 130 de la Constitución, es el núcleo de la regulación de la actividad pesquera contenida en esta Ley.
+En principio, las posibilidades de pesca generadas por el buque en razón de su habitualidad en el caladero y de su idoneidad, son consecuencia de su inclusión en el censo correspondiente. Dicho derecho no conlleva la exclusividad en el aprovechamiento de los recursos.
+La exclusión de un buque del censo sólo podrá llevarse a cabo por razones de política pesquera, previo cumplimiento de los requisitos que establece esta Ley.
+La Ley dispone que el reajuste o la necesaria reducción de las posibilidades de pesca impuestas por la Unión Europea o los Tratados y Acuerdos internacionales ha de afectar a cada uno de los buques de forma proporcional, de acuerdo con el principio de equidad, razón por la cual las medidas de reajuste de las posibilidades ante esta nueva situación, garantizarán que las empresas afectadas mantengan entre sí la misma posición relativa que tenían antes de la restricción.
+La Ley contempla, asimismo, el supuesto contrario al expuesto, es decir, el aumento de las posibilidades de pesca para la flota. En este caso, serán determinantes las razones de política pesquera para que el Gobierno acuerde atribuírselas a los buques dedicados a la pesquería o bien a otros buques afectados por medidas de reducción del esfuerzo pesquero, en defensa del interés general. De nuevo la Ley recurre a medidas de equidad como justificativas de que las meras expectativas de ampliación de derechos sean desplazadas por razones de interés general, cuyo predominio sobre la mera consideración individual y subjetiva del titular de un derecho patrimonial impone la Constitución y consagra la jurisprudencia.
+Por otro lado, la Ley prevé la redistribución de las posibilidades de pesca cuando sus titulares no hagan uso de ellas, o lo hagan de forma parcial. Dicha medida se ajusta a los principios constitucionales de libertad de empresa en el marco de la economía de mercado, y de defensa de la productividad, consagrados en el artículo 38 de la Constitución. Precisamente, en aras de dichos principios, la Ley prevé la posible prescripción del derecho a las posibilidades de pesca no utilizadas o infrautilizadas.
+La regulación de la cesión de las posibilidades de pesca pretende racionalizar la actividad pesquera y fomentar la libre competencia, velando al tiempo porque no se vean perjudicados terceros con mejor derecho y no se produzcan situaciones de monopolio u oligopolio en el sector pesquero.
+La actividad pesquera de los buques está condicionada a su inclusión en el Censo de Buques de Pesca Marítima, así como en el censo correspondiente a su modalidad o pesquería, caladero o área, a la obtención de la Licencia como documento inherente al buque y, en su caso, al permiso de pesca especial.
+El régimen de gestión de los recursos se completa con la regulación de los artes, aparejos, útiles o instrumentos de pesca, el establecimiento de la talla o peso de las especies, la declaración de zonas de veda o cualquier otra medida que la conservación, protección y regeneración de los recursos pesqueros exija para determinadas especies, pesquerías o caladeros.
+Las medidas de conservación de los recursos pesqueros establecidas en la Ley abarcan, junto a la pesca responsable, medidas de protección y regeneración de los recursos pesqueros que conllevan el establecimiento de zonas de protección pesqueras, las cuales, por las especiales características del medio marino, son idóneas para la protección, regeneración y desarrollo de las especies pesqueras. En estas zonas, el ejercicio de la pesca podrá estar prohibido o limitado a determinados artes, conforme a la normativa específica establecida en la declaración de Reserva Marina, Zona de Acondicionamiento Marino o Zona de Repoblación Marina.
+Asimismo, la Ley establece medidas de protección de los recursos pesqueros respecto de aquellas actividades, sea cual fuere su naturaleza, que puedan alterar el estado de los recursos pesqueros, condicionando dichas actividades a la emisión de informe preceptivo del Ministerio de Agricultura, Pesca y Alimentación.
+La efectividad del cumplimiento de las normas de conservación de los recursos pesqueros se garantiza mediante la adopción de medidas de inspección y control encomendadas a los Inspectores de Pesca Marítima en su calidad de agentes de la autoridad, tanto en la mar como en tierra con ocasión del desembarque, descarga y depósito de las capturas y las artes de pesca. En aras de dicha efectividad, el Ministerio de Agricultura, Pesca y Alimentación podrá establecer que la descarga o desembarque de determinados productos pesqueros se realice en los puertos designados al efecto.
+Finalmente, se establecen las obligaciones de los capitanes o patrones de los buques de llevar y cumplimentar el Diario de Pesca y las Declaraciones de Desembarque y Transbordo, así como de comunicar periódicamente las entradas y salidas de los caladeros y la salida y llegada a puerto, que permiten un seguimiento y control de la actividad pesquera de los buques.
+La aplicación a la pesca marítima de recreo de las medidas de conservación y protección de los recursos establecidos en esta Ley para la pesca profesional, sin perjuicio de las limitaciones específicas que para la misma establezca el Ministerio de Agricultura, Pesca y Alimentación, es imprescindible para evitar que estas actividades puedan llegar a comprometer la efectividad de tales medidas, y garantiza la compatibilidad de estas actividades con la de los profesionales del sector.
+Mención aparte merecen las actividades de pesca recreativa realizadas desde embarcaciones como actividad comercial. En efecto, el desarrollo del sector turístico en España, y del sector del ocio en general, está favoreciendo la proliferación de embarcaciones cuya finalidad comercial no reside en la captura de productos pesqueros para su comercialización, sino en facilitar la actividad de pesca recreativa a terceros. Es evidente que este tipo de actividades, tanto por su propia naturaleza como por la mayor incidencia en los recursos pesqueros, exigen un mayor control para evitar desequilibrios que incidirían negativamente tanto en el propio sector de ocio y turismo, como en la pesca profesional. Por este motivo se hace necesario llevar un control de las embarcaciones y, en su caso, la asignación de cupos anuales de determinadas especies, sin perjuicio de las competencias asumidas por las Comunidades Autónomas en materia de ordenación y promoción del turismo o del deporte en su ámbito territorial, cuando dicha actividad sea calificada como turística o deportiva de acuerdo con la normativa autonómica aplicable.
+El Título II establece la normativa básica de ordenación del sector pesquero.
+La eficacia de las medidas de gestión de los recursos pesqueros expuesta en el Título I, necesita ser complementada por una adecuada política de estructuras pesqueras, ya que su interrelación condiciona la óptima utilización de las posibilidades de pesca, especialmente la adecuada dimensión de la flota pesquera y su capacidad competitiva, así como la formación y reciclaje de los profesionales del sector dedicados a la actividad pesquera y demás agentes del sector económico y productivo de la pesca.
+La normativa básica de ordenación de la flota pesquera, orientada por la política de estructuras comunitaria, está dirigida a adaptar la capacidad de nuestra flota a nuestras posibilidades de pesca, evitando la infrautilización o sobredimensión de la misma. En consideración a los programas de orientación plurianuales aprobados por la Comisión para España, la política de construcción, modernización y reconversión de buques está dirigida a no aumentar el esfuerzo pesquero salvo en supuestos excepcionales.
+A efectos de facilitar la diversificación de las actividades de la flota, y para favorecer el abastecimiento del mercado y de la industria de transformación de los productos de la pesca, la Ley encomienda al Gobierno el fomento de la creación de sociedades mixtas u otras modalidades contractuales entre armadores nacionales y de países terceros, de forma que, bien temporalmente o con carácter definitivo, algunos de nuestros buques accedan bajo esta fórmula a los recursos pesqueros de países terceros, manteniendo el mayor porcentaje posible de tripulación comunitaria.
+Las actividades desarrolladas por armadores y profesionales de la pesca españoles en países terceros reviste una importancia creciente para el abastecimiento de pescado al mercado español y de materias primas a la industria de transformación. Con el fin de realizar un adecuado seguimiento de las actividades de estas empresas, se crea el Registro de Empresas Pesqueras en Países Terceros, que incluye tanto a las sociedades mixtas como a las empresas radicadas en terceros países, que cumplan determinados requisitos de empleo de trabajadores españoles y de participación en el capital social.
+La normativa básica estatal sobre los conocimientos y requisitos de los titulados náutico-pesqueros, en el mar co del sistema educativo cuando conlleva título académico, y la normativa de desarrollo legislativo que dicten las Comunidades Autónomas en el ejercicio de sus competencias, estará dirigida a la formación actualizada y permanente de los profesionales de la pesca, de conformidad con las recomendaciones de la Organización Internacional de Trabajo y de lo dispuesto en los Convenios de la Organización Marítima Internacional. La expedición por las Comunidades Autónomas de las tarjetas acreditativas de los títulos correspondientes, constará en el Registro de Profesionales del Sector Pesquero del Ministerio de Agricultura, Pesca y Alimentación.
+La Ley reconoce la tradicional implantación de las Cofradías de Pescadores en el litoral, y su naturaleza jurídica de corporaciones de derecho público sin ánimo de lucro, y establece las bases de su régimen democrático de composición y funcionamiento que será desarrollado, ampliado y objeto de control por las Comunidades Autónomas. La Federación Nacional podrá integrar, en su caso, a las Cofradías y actuará como órgano interlocutor entre éstas y la Administración General del Estado en materia de pesca marítima, realizando aquellas actuaciones que por delegación le encomiende la Administración General del Estado.
+La Ley regula los requisitos del reconocimiento de las organizaciones de productores y las obligaciones derivadas de las importantes intervenciones que les atribuye la normativa comunitaria respecto a la adaptación de la oferta a las exigencias de los mercados pesqueros.
+La concesión para el establecimiento del puerto base de un buque es otorgada por la Comunidad Autónoma que autoriza su construcción, debiendo, en su caso, corresponder necesariamente al litoral del caladero nacional en el que esté autorizado a ejercer la actividad pesquera. Las solicitudes de cambios de base entre puertos de una Comunidad Autónoma las autoriza la Comunidad correspondiente, previa verificación del cumplimiento de los requisitos establecidos en la Ley para evitar desequilibrios de esfuerzo de pesca, correspondiendo al Ministerio de Agricultura, Pesca y Alimentación autorizar los cambios de base entre puertos de distintas Comunidades Autónomas, previo informe de aquéllas.
+La primera venta de los productos pesqueros frescos se realizará a través de las lonjas de los puertos autorizados para el desembarque, con excepción de los centros que, para los productos del marisqueo autoricen las Comunidades Autónomas. Se considera que el sistema idóneo para la formación de los precios de los productos y evitar distorsiones en el mercado, es que los precios de los productos se formen en los mismos puertos donde se descarga la mercancía. No obstante, la Ley admite la posibilidad de que la primera venta se realice en la lonja de un puerto distinto al de desembarque, en cuyo caso los productos deberán ir acompañados de una documentación cumplimentada por el transportista, en la que constará, en todo caso, las cantidades transportadas de cada especie, el origen del envío y el lugar de destino de los productos, sin perjuicio de aquellos otros datos que reglamentariamente se establezcan. Asimismo, podrán establecerse excepciones para la primera venta en lonja de capturas realizadas con determinadas modalidades de pesca.
+De conformidad con las medidas de conservación de los recursos pesqueros, está prohibida la tenencia, depósito, transporte, tránsito, almacenamiento, exposición y venta de productos pesqueros de cualquier origen o procedencia de talla inferior a la reglamentaria, que será sancionada como infracción grave de conformidad con lo establecido en el Título V de esta Ley.
+El Título III establece las bases de la comercialización y transformación de los productos pesqueros en todo el territorio nacional, desde que se ha realizado su primera venta hasta su llegada al consumidor final, garantizándose que los productos objeto de dichas operaciones han sido capturados de conformidad con la normativa sobre conservación y protección de los recursos pesqueros.
+La necesaria transparencia de mercado y la información veraz a los consumidores sobre los productos pesqueros, en todas las fases de la cadena de comercialización, exigen el establecimiento de medidas de normalización de los productos y la correcta identificación de los mismos en todo momento, con precisión de la especie, su origen, calidad y características.
+Con objeto de incrementar el valor añadido de los productos pesqueros y favorecer su eficaz aprovechamiento, el Gobierno fomentará, a nivel nacional e internacional, la mejora de su calidad, favorecerá el consumo de los tradicionales, artesanales e infrautilizados, así como las denominaciones de calidad, lo que conllevará una más adecuada adaptación entre la oferta y la demanda, en beneficio del sector pesquero, tanto de los profesionales dedicados a la actividad extractiva como de los agentes dedicados a la actividad comercial, así como de los propios consumidores.
+A su vez el fomento de la calidad de los productos y su promoción por todas las Administraciones redundará en un mercado transparente, dinámico y competitivo, en beneficio del sector, de los consumidores y de la economía nacional.
+El Título IV regula la investigación pesquera y oceanográfica que se realice por el Instituto Español de Oceanografía, en el marco del Plan Nacional de Investigación Científica y Desarrollo Tecnológico, lo que permitirá conocer el estado de los recursos y del medio marino en aguas españolas y en cualesquiera otros caladeros en que faene nuestra flota y así orientar el diseño de una política nacional pesquera adecuada a las necesidades del sector, que es en definitiva la defensa del interés general y fin primordial de esta Ley.
+El Título V establece el régimen de control para la protección de los recursos pesqueros.
+La Ley recoge los criterios sustantivos contenidos en la jurisprudencia constitucional para diferenciar los ámbitos materiales correspondientes a la pesca marítima y a la ordenación del sector pesquero y comercialización de productos pesqueros.
+La necesidad del régimen sancionador es mayor ante el hecho de que el Reglamento CEE 2847/93, del Consejo de 12 de octubre, por el que se establece un régimen de control de la política pesquera común, impone a los Estados miembros velar por el cumplimiento de la normativa comunitaria en sus aguas, tanto de sus buques como de otros Estados miembros y países terceros.
+Asimismo, los Estados miembros velarán por la actividad pesquera de sus buques en todas las aguas, incluida la alta mar, y controlarán el cumplimiento de la normativa comunitaria, estando obligados a adoptar las medidas sancionadoras apropiadas.
+De acuerdo con ello, la Ley viene a establecer, de una parte, el ámbito competencial propio y exclusivo del Estado, esto es, el referido a las infracciones y sanciones en materia de pesca marítima y, de otra, las normas básicas para definir un marco unitario de infracciones y sanciones en materia de ordenación del sector y comercialización de productos pesqueros, marco dirigido a asegurar de manera homogénea y en condiciones de igualdad, el interés general y a establecer las imprescindibles garantías de certidumbre jurídica que permitan a las Comunidades Autónomas el ejercicio de sus competencias sancionadoras en estas materias.
+Redactado conforme a la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 2001. Ref. BOE-A-2001-14163
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente Ley, de conformidad con los principios y reglas de la política pesquera común y de los Tratados y Acuerdos internacionales, tiene por objeto:
+a) La regulación de la pesca marítima, competencia exclusiva del Estado, conforme a lo establecido por el artículo 149.1.19.a de la Constitución.
+b) El establecimiento de la normativa básica de ordenación del sector pesquero, de acuerdo con lo previsto en el artículo 149.1.19.a de la Constitución.
+c) El establecimiento de normas básicas de ordenación de la actividad comercial de productos pesqueros, y la regulación del comercio exterior de los mismos, de acuerdo con lo establecido en el artículo 149.1.13.a y 10.a, respectivamente, de la Constitución.
+d) La programación de la investigación pesquera y oceanográfica de competencia del Estado, en el ámbito de la política de pesca marítima, de acuerdo con el artículo 149.1.15.a de la Constitución.
+e) El establecimiento del régimen de infracciones y sanciones en materia de pesca marítima en aguas exteriores, de la normativa básica de ordenación del sector pesquero y comercialización de los productos pesqueros.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de esta ley se establecen las siguientes definiciones:
+Actividad pesquera: (Derogada).
+Aguas exteriores: aguas marítimas bajo soberanía o jurisdicción española, situadas por fuera de las líneas de base, tal y como se contemplan en la Ley 20/1967, de 8 de abril, sobre extensión de jurisdicción marítima a doce millas, a efectos de pesca, y en el Real Decreto 2510/1977, de 5 de agosto, de aguas jurisdiccionales, líneas de base rectas para su delimitación.
+Aguas interiores: (Derogada).
+Arte de pesca: (Derogada).
+Arrecife artificial: (Derogada).
+Buque habitual: aquel buque que ha ejercido una pesquería de forma continuada, reiterada e ininterrumpida, considerándose como tal la no interrupción voluntaria de dicha actividad durante dos años consecutivos.
+Caladero nacional: las aguas marítimas bajo jurisdicción o soberanía española.
+Capturas históricas: las realizadas habitualmente por un buque desde una fecha determinada reglamentariamente.
+Diversificación pesquera o acuícola: El desarrollo de actividades complementarias realizadas por profesionales del sector pesquero, con el fin de reforzar la economía de las comunidades pesqueras.
+Esfuerzo pesquero: (Derogada).
+Lonja: la instalación prevista para la exposición y primera venta de los productos pesqueros frescos, situada en el recinto portuario y autorizada por los órganos competentes de las comunidades autónomas en materia de ordenación del sector pesquero.
+Ordenación de la actividad comercial de los productos de la pesca, del marisqueo y de la acuicultura: la regulación de las operaciones que se realizan respecto a dichos productos, desde que finaliza la primera venta hasta su llegada al consumidor final, y en especial lo relativo al transporte, almacenamiento, transformación, exposición y venta.
+Ordenación del sector pesquero: la regulación del sector económico o productivo de la pesca, en especial lo relativo a los agentes del sector pesquero, la flota pesquera, el establecimiento de puertos base y cambios de base, y la primera venta de los productos pesqueros.
+Pesca marítima: (Derogada).
+Pesca-turismo: tipo de actividad de turismo pesquero o marinero desarrollada a bordo de embarcaciones pesqueras por parte de profesionales del sector, mediante contraprestación económica, que tiene por objeto la valorización y difusión de su trabajo en el medio marino, en la que los turistas embarcados no podrán ejercer la actividad pesquera.
+Pesquería: (Derogada).
+Posibilidades de pesca de los buques: (Derogada).
+Recursos pesqueros: (Derogada).
+Turismo acuícola: actividad desarrollada por los colectivos de profesionales que desarrollan la actividad de la acuicultura, mediante contraprestación económica, orientadas a la valorización y difusión de su actividad y de los productos del medio acuícola.
+Turismo pesquero o marinero: Actividad desarrollada por los colectivos de profesionales del mar, mediante contraprestación económica, orientada a la valorización y difusión de las actividades y productos del medio marino, así como de las costumbres, tradiciones, patrimonio y cultura marinera, que por ello trasciende la mera actividad extractiva y comercial.
+Zona o caladero de pesca: área geográfica sujeta a medidas de gestión o conservación singulares, en base a criterios biológicos.
+Se derogan las definiciones señaladas por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo, así como el resto de definiciones en todo aquello que contradiga las recogidas en la citada Ley. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. único.1 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 2001. Ref. BOE-A-2001-14163
+
+### Artículo 3
+
+Artículo 3. Fines.
+Son fines de la presente Ley:
+a) Velar por la explotación equilibrada y responsable de los recursos pesqueros, favoreciendo su desarrollo sostenible y adoptar las medidas precisas para proteger, conservar y regenerar dichos recursos y sus ecosistemas.
+b) Mejorar las condiciones en que se realizan las actividades pesqueras, y el nivel de vida de los pescadores.
+c) Adaptar el esfuerzo de la flota a la situación de los recursos pesqueros.
+d) Potenciar el desarrollo de empresas competitivas y económicamente viables en el sector pesquero, facilitando su adaptación a los mercados.
+e) Fomentar la mejora de las estructuras productivas de los sectores extractivo, comercializador y transformador, mejorando el aprovechamiento e incrementando el valor añadido de los productos pesqueros.
+f) Promover la formación continuada de los profesionales del sector pesquero.
+g) Fomentar el asociacionismo en el sector pesquero.
+h) Promover medidas compensatorias de los desequilibrios económicos y sociales que puedan producirse en las regiones dependientes de la pesca.
+i) Asegurar el abastecimiento y fomentar el consumo de los productos, con especial incidencia en los excedentarios e infraexplotados.
+j) Fomentar un comercio responsable de los productos pesqueros, que contribuya a la conservación de los recursos.
+k) Mejorar la calidad de los productos, la transparencia del mercado y la información al consumidor.
+l) Fomentar la investigación oceanográfica y pesquera.
+
+### Artículo 3 bis
+
+Artículo 3 bis. Igualdad de trato y oportunidades.
+Las actuaciones y medidas contenidas en la presente ley deberán respetar el principio de igualdad de trato y oportunidades, con el fin de evitar, en el desarrollo de las distintas actividades reguladas en esta ley, situaciones de discriminación de hecho por razón de sexo, origen racial o étnico, discapacidad, orientación sexual, edad, creencias o religión, o cualquier otra condición o circunstancia personal o social.
+Se añade por el art. único.2 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## TÍTULO I
+
+De la pesca marítima en aguas exteriores
+
+## CAPÍTULO I
+
+Ámbito de aplicación
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 4
+
+Artículo 4. Delimitación del ámbito.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 5
+
+Artículo 5. Medidas de la política de pesca marítima en aguas exteriores.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO II
+
+Medidas de conservación de los recursos pesqueros
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 6
+
+Artículo 6. Acceso a los recursos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 7
+
+Artículo 7. Medidas de regulación de la actividad pesquera.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 8
+
+Artículo 8. Regulación del esfuerzo pesquero.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se añaden las letras d) y e) por el art. único.3 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 9
+
+Artículo 9. Limitación de las capturas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 10
+
+Artículo 10. Artes de pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 11
+
+Artículo 11. Talla o peso de las especies.
+(derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 12
+
+Artículo 12. Vedas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO III
+
+Medidas de protección y regeneración de los recursos pesqueros
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 1
+
+Sección 1.ª Zonas de protección pesquera
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 13
+
+Artículo 13. Declaración de zonas de protección pesquera.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 14
+
+Artículo 14. Las reservas marinas.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. único.4 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 15
+
+Artículo 15. Zonas de acondicionamiento marino.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 15 bis
+
+Artículo 15 bis. Arrecifes artificiales.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se añade por el art. único.5 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 16
+
+Artículo 16. Zonas de repoblación marina.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 17
+
+Artículo 17. Informes previos a la repoblación marina.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 18
+
+Artículo 18. Régimen aplicable en los espacios protegidos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 2
+
+Sección 2.ª Actividades susceptibles de alterar los recursos pesqueros
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 19
+
+Artículo 19. Extracción de flora.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 20
+
+Artículo 20. Obras, instalaciones y demás actividades en el mar.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 21
+
+Artículo 21. Vertidos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO IV
+
+Gestión de las actividades pesqueras
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 1
+
+Sección 1.ª Requisitos generales para el ejercicio de la actividad pesquera
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 22
+
+Artículo 22. Censo de la Flota Pesquera Operativa.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. único.6 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 23
+
+Artículo 23. Autorizaciones de pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 2
+
+Sección 2.ª Requisitos especiales para el ejercicio de la actividad pesquera
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 24
+
+Artículo 24. Cambio temporal de actividad de pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 25
+
+Artículo 25. Permiso especial de pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 26
+
+Artículo 26. Censos específicos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 3
+
+Sección 3.ª Medidas de gestión de las posibilidades de pesca
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 27
+
+Artículo 27. Reparto.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se añade el apartado 5 por el art. 112.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 28
+
+Artículo 28. Transmisibilidad.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica el apartado 1.d) por el art. 112.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 29
+
+Artículo 29. Incremento y reducción.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 30
+
+Artículo 30. Prescripción.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 31
+
+Artículo 31. Planes de Pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## Sección 4
+
+Sección 4.ª Documentos y comunicaciones relativas a la gestión de la actividad pesquera
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 32
+
+Artículo 32. Comunicaciones desde los buques.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 33
+
+Artículo 33. El diario de pesca.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. único.7 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 34
+
+Artículo 34. La declaración de desembarque.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se añade el apartado 4 por el art. único.8 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 35
+
+Artículo 35. La declaración de transbordo.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO V
+
+Pesca recreativa en aguas exteriores
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 36
+
+Artículo 36. Condiciones de ejercicio.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 37
+
+Artículo 37. Explotación lucrativa de la pesca recreativa.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. 37 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
+
+## CAPÍTULO VI
+
+Control e inspección de la actividad de pesca marítima
+
+### Artículo 38
+
+Artículo 38. Los inspectores de pesca marítima en aguas exteriores.
+1. Los inspectores de pesca marítima en aguas exteriores tendrán la condición de agentes de la autoridad en el desempeño de su actividad inspectora, sin perjuicio de las competencias de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado.
+2. Los inspectores, que deberán acreditar su identidad y condición en el ejercicio de sus funciones, tendrán acceso a todas las dependencias, registros y documentos, y levantarán acta reflejando las circunstancias y el resultado de sus actuaciones.
+3. Las personas responsables de los buques pesqueros, productos o instalaciones objeto de inspección prestarán su colaboración para la realización de la función inspectora. La falta de dicha colaboración o la obstrucción, en su caso, al ejercicio de dicha función será sancionada conforme al Título V de esta Ley.
+Se modifica el apartado 1 por el art. único.9 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 39
+
+Artículo 39. Medidas de control.
+1. Se adoptarán las medidas de inspección y control necesarias para garantizar el cumplimiento de la normativa de pesca marítima en aguas exteriores.
+2. La función inspectora en materia de pesca marítima en aguas exteriores podrá realizarse, en todo caso, mientras el buque esté en la mar o en muelle o en puerto.
+3. Respecto de las artes y de las capturas, la función inspectora podrá realizarse con ocasión de su desembarque o descarga, antes de la primera venta de los productos o antes de la iniciación del transporte cuando se trate de productos no vendidos en la lonja del puerto de desembarque. Además, en las importaciones de productos pesqueros podrá realizarse en su desembarque o descarga en territorio nacional.
+4. Cuando las condiciones del ejercicio de la actividad lo permitan, podrá exigirse que previamente a la descarga o desembarque se realice un preaviso de llegada por parte de la empresa, o que la descarga o desembarque se produzcan en presencia de inspectores de pesca. Asimismo, el Ministerio de Agricultura, Pesca y Alimentación, cuando sea necesario para el ejercicio de la función inspectora, podrá establecer que la descarga o desembarque de ciertos productos pesqueros se realice en determinados puertos, de entre los autorizados por las Comunidades Autónomas.
+5. Los capitanes de los buques de terceros países que transporten productos pesqueros y deseen desembarcar en puertos nacionales deberán comunicar a las autoridades competentes del Ministerio de Agricultura, Pesca y Alimentación el puerto de desembarque que deseen utilizar y la hora prevista de llegada, debiendo enviar una declaración cuyos datos se establecerán reglamentariamente. Las autoridades competentes del puerto de desembarque no permitirán el desembarque hasta que el capitán del buque o su representante les presenten la autorización expresa del Ministerio de Agricultura, Pesca y Alimentación que deberá producirse en el plazo que reglamentariamente se establezca.
+Asimismo las operaciones que competen a las autoridades aduaneras sólo podrán efectuarse después de serles presentada dicha autorización.
+6. Los capitanes de los buques que deseen realizar operaciones de transbordo deberán comunicarlo previamente a las autoridades competentes del Ministerio de Agricultura, Pesca y Alimentación, con la antelación y los datos que reglamentariamente se establezcan. Los buques de países terceros deberán obtener autorización.
+
+### Artículo 40
+
+Artículo 40. Cooperación en la función inspectora.
+El Ministerio de Agricultura, Pesca y Alimentación podrá establecer convenios de colaboración con las Comunidades Autónomas para el mejor ejercicio de la función inspectora en aguas exteriores e interiores, respectivamente, sin perjuicio de los convenios de cooperación existentes en el ámbito de la Administración General del Estado y de los planes futuros de cooperación, e intercambiarán cuanta información sea necesaria para el ejercicio de sus respectivas competencias, garantizando en todo momento la confidencialidad de los datos.
+
+### Artículo 40 bis
+
+Artículo 40 bis. Control de la pesca ilegal, no declarada y no reglamentada.
+1. Se adoptarán las medidas de control e inspección necesarias para asegurar que los productos de la pesca importados en España y exportados desde España han sido capturados respetando las medidas internacionales de conservación y ordenación y, en su caso, las demás normas pertinentes aplicables al buque pesquero de que se trate, y no proceden de la pesca ilegal, no declarada y no reglamentada.
+2. Dichas medidas estarán particularmente encaminadas a prevenir, desalentar y eliminar la actividad de buques apátridas, buques con pabellón de países calificados reglamentariamente como de abanderamiento de conveniencia o buques de países terceros identificados por la Organizaciones Internacionales por haber incurrido en actividades de pesca ilegal.
+3. Se promoverán las acciones necesarias para disuadir eficazmente a los nacionales españoles de realizar operaciones de pesca ilegal, no declarada y no reglamentada, o facilitar su realización por buques abanderados en terceros países que faenen fuera de las aguas comunitarias, lo que incluirá medidas para identificar a dichos nacionales, así como la comprobación de las actividades de los nacionales que tengan relación con buques de terceros países que faenen fuera de las aguas comunitarias.
+Se añade por el art. único.10 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## TÍTULO II
+
+Ordenación del sector pesquero
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 41
+
+Artículo 41. Instrumentos de la política de ordenación del sector pesquero.
+La política de ordenación del sector pesquero se realizará a través de:
+a) Medidas tendentes a la mejora de la capacitación de los profesionales del sector.
+b) Medidas de fomento y regulación de las entidades asociativas del sector.
+c) Medidas de construcción, modernización y reconversión de los buques pesqueros para conseguir una flota pesquera moderna, competitiva y adaptada a las actuales pesquerías y a la explotación de otras nuevas, en condiciones que garanticen la eficiencia de la actividad, condiciones apropiadas de trabajo a bordo y la mejora de la calidad de los productos.
+d) Medidas de adaptación de la capacidad de la flota al estado de los recursos pesqueros.
+e) Medidas de fomento de la creación de empresas mixtas, así como de otras fórmulas para el aprovechamiento de los recursos pesqueros de países terceros.
+f) La regulación del establecimiento de puertos base, así como de los cambios de puerto base.
+g) Medidas de regulación del desembarque y primera venta de los productos pesqueros independientemente del origen de éstos.
+
+## CAPÍTULO II
+
+Los agentes del sector pesquero
+
+## Sección 1
+
+Sección 1.ª Ordenación de las profesiones del sector
+
+### Artículo 42
+
+Artículo 42. Idoneidad y titulación de los profesionales del sector.
+El Gobierno, a propuesta del Ministro de Agricultura, Pesca y Alimentación, regulará las titulaciones de los profesionales del sector pesquero, en el marco, cuando proceda, del sistema educativo general, estableciendo los requisitos de idoneidad y las atribuciones profesionales correspondientes a cada título, sin perjuicio de las competencias del Ministerio de Fomento. Debido a la constante evolución de la tecnología aplicada a la navegación y la explotación pesquera, se establecerán las ayudas y medidas necesarias para la actualización de conocimientos e implantación de nuevas técnicas, de forma continuada, para el reciclaje de los titulados.
+
+### Artículo 43
+
+Artículo 43. Acreditación de la capacitación profesional.
+1. En el marco de la normativa básica estatal a que se refiere el artículo anterior y de la que en su desarrollo establezcan las Comunidades Autónomas competentes en materia de ordenación del sector pesquero, corresponde a éstas la expedición de los títulos y demás acreditaciones de carácter profesional que se establezcan.
+2. Las tarjetas acreditativas se expedirán al menos en castellano. Las Comunidades Autónomas con lengua cooficial distinta del castellano podrán expedir las tarjetas y certificados en castellano y en la otra lengua oficial de la Comunidad Autónoma en igual tamaño y tipo de letra.
+
+### Artículo 44
+
+Artículo 44. El Registro de Profesionales del Sector Pesquero.
+1. En el Registro de Profesionales del Sector Pesquero del Ministerio de Agricultura, Pesca y Alimentación deberán inscribirse todas las personas que estén en posesión de la correspondiente titulación náutico-pesquera, sin perjuicio de la inscripción en otros Registros legalmente previstos para el ejercicio de su profesión.
+2. La llevanza de dicho Registro será descentralizada, correspondiendo la misma a las Comunidades Autónomas competentes en sus respectivos territorios 3. Las Comunidades Autónomas trasladarán al Ministerio de Agricultura, Pesca y Alimentación, para su constancia en el Registro de Profesionales del Sector Pesquero, las inscripciones y bajas de profesionales del sector pesquero que las mismas realicen.
+
+## Sección 2
+
+Sección 2.ª Las Cofradías de Pescadores
+
+### Artículo 45
+
+Artículo 45. Concepto.
+1. Las Cofradías de Pescadores son corporaciones de derecho público, sin ánimo de lucro, representativas de intereses económicos, que actúan como órganos de consulta y colaboración de las administraciones competentes en materia de pesca marítima y de ordenación del sector pesquero.
+2. Las Cofradías de Pescadores gozan de personalidad jurídica plena y capacidad de obrar para el cumplimiento de sus fines.
+3. En todo caso, podrán ser miembros de las Cofradías de Pescadores los armadores de buques de pesca y los trabajadores del sector extractivo.
+
+### Artículo 46
+
+Artículo 46. Funciones.
+Son funciones de las Cofradías de Pescadores:
+a) Actuar como órganos de consulta de las Administraciones públicas competentes y ejercer las funciones que les encomienden la Administración General del Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias.
+b) Prestar servicios a sus miembros y representar y defender sus intereses.
+c) Administrar los recursos propios de su patrimonio.
+
+### Artículo 47
+
+Artículo 47. Federación Nacional de Cofradías de Pescadores.
+Existirá una Federación Nacional de Cofradías de Pescadores en la que podrán integrarse las Cofradías de Pescadores, así como sus Federaciones.
+
+### Artículo 48
+
+Artículo 48. Órganos representativos.
+1. Los órganos representativos de las Cofradías de Pescadores son la Junta General, el Cabildo y el Patrón Mayor. Todos los cargos serán elegidos entre los miembros de la Cofradía de Pescadores mediante sufragio libre, igual y secreto.
+2. El mandato de los cargos electos para los órganos representativos de las Cofradías de Pescadores tendrá una duración de cuatro años, pudiendo ser reelegidos por períodos de igual duración máxima el número de veces que determine la normativa de las Comunidades Autónomas.
+
+### Artículo 49
+
+Artículo 49. La Junta General.
+La Junta General estará integrada por el mismo número de trabajadores y armadores en representación de los distintos sectores de la Cofradía y ejercerá las funciones que establezcan los respectivos Estatutos cuya aprobación le corresponde, así como las que establezcan las Comunidades Autónomas.
+
+### Artículo 50
+
+Artículo 50. El Cabildo.
+El Cabildo estará integrado por el mismo número de trabajadores y de armadores en representación de los distintos sectores de la Cofradía y ejercerá la función de gestión y administración ordinarias de la misma, así como las que establezcan las Comunidades Autónomas.
+
+### Artículo 51
+
+Artículo 51. El Patrón Mayor.
+El Patrón Mayor será elegido por la Junta General, de entre sus miembros y ejercerá la función de dirección de la Cofradía de Pescadores, así como las que establezcan los Estatutos.
+
+## Sección 3
+
+Sección 3.ª Las organizaciones de productores
+
+### Artículo 52
+
+Artículo 52. Concepto.
+Las organizaciones de productores son entidades reconocidas oficialmente, constituidas a iniciativa de los productores con el fin de garantizar el ejercicio racional de la pesca y la mejora de las condiciones de venta de su producción.
+
+### Artículo 53
+
+Artículo 53. Funciones.
+Los productores que se integren en organizaciones tendrán, entre otras, las siguientes obligaciones:
+a) Dar salida a través de la organización al producto o productos para los cuales se hayan asociado, salvo disposición expresa de la propia organización.
+b) Aplicar las normas adoptadas por la organización con el fin de mejorar la calidad de los productos, adaptar el volumen de la oferta a las exigencias del mercado y mejorar el proceso de comercialización.
+
+### Artículo 54
+
+Artículo 54. Condiciones para su reconocimiento.
+Para el reconocimiento oficial de las organizaciones de productores podrá exigirse, entre otras condiciones y en los términos que el Gobierno establezca reglamentariamente, que las mismas realicen una actividad económica suficiente y desarrollada en determinados ámbitos geográficos, sin perjuicio de las competencias de las Comunidades Autónomas para el desarrollo legislativo y de ejecución de las bases estatales.
+
+### Artículo 55
+
+Artículo 55. Otorgamiento y retirada del reconocimiento oficial.
+1. El reconocimiento oficial de las organizaciones de productores, de su representatividad y su carácter exclusivo en una zona, corresponde:
+a) A las Comunidades Autónomas cuando se trate de organizaciones de productores cuya producción pertenezca principalmente a una sola Comunidad Autónoma, en los porcentajes y en los términos que reglamentariamente se establezcan.
+b) Al Ministerio de Agricultura, Pesca y Alimentación, en los demás supuestos.
+2. El Ministerio de Agricultura, Pesca y Alimentación y las Comunidades Autónomas podrán retirar el reconocimiento a las organizaciones de productores de su competencia cuando las mismas dejasen de cumplir los requisitos que determinaron su reconocimiento, o incumplan lo reglamentado en cuanto a su funcionamiento.
+
+## Sección 4
+
+Sección 4.ª Otras entidades representativas del sector pesquero
+
+### Artículo 56
+
+Artículo 56. Entidades asociativas y organizaciones sindicales.
+Las asociaciones de armadores, así como las demás entidades asociativas jurídicamente reconocidas y las organizaciones sindicales de profesionales del sector tendrán la consideración de entidades representativas a efectos de su interlocución y colaboración en la toma de aquellas decisiones que puedan afectar a los intereses que representan.
+
+## CAPÍTULO III
+
+De la flota pesquera
+
+### Artículo 57
+
+Artículo 57. Registro General de la Flota Pesquera.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+ Se modifica por el art. único.11 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Téngase en cuenta para su aplicación la disposición transitoria tercera de la citada Ley.
+
+### Artículo 58
+
+Artículo 58. Programas de construcción, modernización y reconversión.
+1. La construcción, modernización y reconversión de buques pesqueros se realizará en el marco de los programas destinados a ello por parte del Gobierno con la participación de las Comunidades Autónomas en el ámbito de sus respectivas competencias, para la adaptación del esfuerzo pesquero al estado de los recursos, a la situación de las pesquerías existentes y a los planes de gestión de pesquerías específicas en vigor.
+2. Las alteraciones del arqueo y/o de la potencia propulsora de los buques de la lista tercera del Registro de Buques y Empresas Navieras realizadas sin las preceptivas autorizaciones, darán lugar a la obligación de aportar bajas censadas equivalentes a los aumentos producidos en el arqueo y/o potencia propulsora, sin perjuicio de las demás consecuencias que legal o reglamentariamente se deriven de la ausencia de tales autorizaciones.
+Se modifica por el art. único.12 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 59
+
+Artículo 59. Nuevas construcciones de buques pesqueros.
+1. La autorización de construcción de buques pesqueros requerirá que las unidades que se vayan a construir substituyan a uno o más buques aportados como bajas inscritos en el Registro General de la Flota Pesquera, en las condiciones que reglamentariamente se establezcan.
+Dichas condiciones afectarán al arqueo, potencia y demás requisitos técnicos de los buques pesqueros, según las modalidades de pesca o las pesquerías a que los mismos se destinen.
+2. Sin perjuicio de las competencias del Ministerio de Fomento, las autorizaciones para nuevas construcciones corresponden a la comunidad autónoma en la que el buque haya de tener su puerto base.
+La comunidad autónoma otorgará dicha autorización tendiendo en cuenta la normativa básica correspondiente y el previo informe favorable del Ministerio de Agricultura, Alimentación y Medio Ambiente sobre los aspectos de su competencia exclusiva en materia de pesca marítima.
+Se modifica por el art. único.13 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 60
+
+Artículo 60. Modernización y reconversión.
+1. La modernización y reconversión de los buques pesqueros tendrá como finalidad la modificación de las condiciones técnicas de los mismos con el fin de adaptarlos a la normativa vigente en materia de prevención de riesgos laborales, mejorar las condiciones de habitabilidad, racionalizar las operaciones de pesca y perfeccionar los procesos de manipulación y conservación de los productos a bordo.
+2. Cuando las obras de modernización y reconversión supongan incremento de esfuerzo de pesca se exigirá la aportación de bajas de otros buques inscritos en el Registro General de la Flota Pesquera, en la forma o con las excepciones que reglamentariamente se establezcan.
+3. Las obras de modernización y reconversión serán autorizadas por la Comunidad Autónoma de acuerdo con la normativa básica correspondiente, previo informe favorable del Ministerio de Agricultura, Pesca y Alimentación sobre los aspectos de su competencia exclusiva en materia de pesca marítima, sin perjuicio de las competencias del Ministerio de Fomento.
+4. Las ayudas públicas que se concedan para la modernización y reconversión de buques pesqueros serán condicionadas a la objetivación de las mejoras sociales contempladas en el apartado 1 de este artículo.
+Se modifica el apartado 2 por el art. único.14 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 61
+
+Artículo 61. Adaptación de la flota a la situación de las pesquerías.
+Con el fin de adaptar la flota a la situación de los recursos, y propiciar la recuperación y mejor aprovechamiento de los mismos, el Gobierno y las Comunidades Autónomas, en el marco de sus respectivas competencias, previa consulta a los agentes sociales, podrán incentivar las siguientes medidas:
+a) La paralización temporal o definitiva de determinados buques pesqueros.
+b) La formación de empresas mixtas.
+
+### Artículo 62
+
+Artículo 62. Paralización definitiva de buques pesqueros.
+1. Se entiende por paralización definitiva de un buque pesquero el cese de toda actividad pesquera por parte del mismo.
+2. La paralización definitiva de buques pesqueros se aplicará a aquellas flotas y pesquerías cuya situación aconseje un ajuste estructural a largo plazo, con el fin de reducir el esfuerzo pesquero y propiciar la recuperación de los recursos.
+3. La paralización definitiva de un buque pesquero conllevará su baja en el Registro General de la Flota Pesquera y en la lista tercera del Registro de Buques y Empresas Navieras.
+4. Reglamentariamente se determinarán las condiciones de compensación de las consecuencias de la paralización, previa consulta a las Comunidades Autónomas y los agentes sociales, tanto en lo que se refiere al armador como a los trabajadores.
+5. La paralización definitiva de buques de pesca irá, asimismo, acompañada de la puesta en marcha de programas específicos de formación y reciclaje de los trabajadores afectados para facilitar su reinserción en la economía productiva.
+6. Cuando la paralización definitiva de buques pesqueros incida de forma importante en el empeoramiento de las condiciones de vida en territorios dependientes de la actividad de estos buques se arbitrarán por el Gobierno en colaboración con las Comunidades Autónomas afectadas medidas compensatorias para reactivar la economía de estos territorios.
+Se modifica el apartado 3 por el art. único.15 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 63
+
+Artículo 63. Paralización temporal de buques pesqueros.
+1. Se entiende por paralización temporal de un buque pesquero el cese de su actividad durante un período de tiempo determinado.
+2. La paralización temporal es una medida coyuntural con la finalidad de reducción del esfuerzo pesquero, como consecuencia de circunstancias excepcionales.
+3. Reglamentariamente se determinarán las condiciones en que procede la compensación con cargo a fondos estatales de las pérdidas derivadas de la paralización temporal, previa consulta a las Comunidades Autónomas y los agentes sociales. En cualquier caso, estas compensaciones no se otorgarán cuando la causa que motiva la paralización sea un exceso de esfuerzo de pesca con carácter estructural, o cuando la paralización temporal sea un requisito implícito para el ejercicio de la actividad.
+4. El Ministerio de Agricultura, Pesca y Alimentación determinará para cada modalidad, en su caso, la extensión del descanso obligatorio, correspondiendo a las Comunidades Autónomas la localización de los días y horarios de dicho descanso en la actividad.
+
+### Artículo 64
+
+Artículo 64. Empresas mixtas.
+1. Con el fin de tener acceso a los recursos en aguas bajo jurisdicción de países terceros y mejorar el grado de abastecimiento del mercado comunitario, el Gobierno, oídas las Comunidades Autónomas, podrá adoptar medidas para el fomento de empresas mixtas, u otras modalidades contractuales previstas reglamentariamente, con carácter temporal o permanente, con socios de países distintos de los de la Unión Europea.
+2. En las medidas de fomento que en su caso se dispongan, el Gobierno, oídas las Comunidades Autónomas, otorgará preferencia a aquellos proyectos que mantengan un porcentaje significativo de tripulantes o trabajadores comunitarios, en condiciones socio-laborales equiparables a las que disfrutan en el ámbito de la Unión Europea.
+3. El Ministerio de Agricultura, Pesca y Alimentación llevará un Registro público de las empresas mixtas, y de las demás modalidades contractuales reglamentariamente previstas, donde se inscribirán las que cumplan determinados requisitos relativos a su actividad, composición del capital social, o trabajadores empleados, entre otros. Los beneficios que se dispongan para estas empresas estarán condicionados a su inscripción en el Registro.
+
+## CAPÍTULO IV
+
+Establecimiento de puertos base y cambios de base
+
+### Artículo 65
+
+Artículo 65. Concepto de puerto base.
+Para los buques del caladero nacional, el puerto base será aquél desde el cual el buque desarrolle la mayor parte de sus actividades de inicio de las mareas, despacho y comercialización de las capturas.
+Para los buques que faenan fuera del caladero nacional, el puerto base será aquél con el que se mantenga una vinculación socioeconómica destacable, de acuerdo con lo que se establezca reglamentariamente.
+
+### Artículo 66
+
+Artículo 66. Establecimiento de puerto base.
+1. La autorización de construcción de todo buque pesquero conllevará el establecimiento de su puerto base.
+2. El establecimiento del puerto base será otorgado por la Comunidad Autónoma que autorice la construcción del buque y corresponderá a uno de los puertos de su litoral, previo informe, en su caso, de la Autoridad Portuaria.
+3. En el caso de los buques que faenan en el caladero nacional, el establecimiento de puerto base corresponderá necesariamente al caladero para el cual se autoriza la actividad del buque.
+4. El establecimiento del puerto base se entenderá sin perjuicio de la libre elección del astillero de construcción del buque.
+
+### Artículo 67
+
+Artículo 67. Cambios de puerto base.
+1. Los cambios de base entre puertos de una misma Comunidad Autónoma serán autorizados por la Comunidad Autónoma correspondiente, previo informe, en su caso, de la Autoridad Portuaria y de la Cofradía de Pescadores.
+2. Los cambios de base entre puertos de distintas Comunidades Autónomas serán autorizados por el Ministerio de Agricultura, Pesca y Alimentación previo informe de aquéllas.
+3. Cuando por razón de la actividad pesquera se prevea utilizar un puerto distinto del puerto base durante períodos superiores a tres meses, deberá solicitarse una autorización específica. Excepcionalmente, en el supuesto de normativa específica de acceso a determinadas zonas de pesca, reglamentariamente se establecerán las condiciones en que los buques afectados puedan utilizar un puerto diferente al que tengan fijada su base.
+4. Entre el Ministerio de Agricultura, Pesca y Alimentación y las Comunidades Autónomas se establecerán mecanismos de información mutua sobre los establecimientos y cambios de puerto base que se autoricen.
+5. El cambio de puerto base no supondrá perjuicio o minoración de los derechos sociolaborales de los trabajadores.
+
+### Artículo 68
+
+Artículo 68. Requisitos para los cambios de base.
+1. Para ser autorizados los cambios de base deberán cumplirse los siguientes requisitos:
+a) Que las características y particularidades del puerto se adapten a las necesidades del buque.
+b) En el caso de los buques autorizados a ejercer la actividad pesquera en el caladero nacional, sólo se podrán autorizar cambios de base que impliquen cambio de caladero cuando el buque correspondiente haya obtenido del Ministerio de Agricultura, Pesca y Alimentación la licencia de pesca que le autorice a ejercer la actividad en el caladero en cuyo litoral se localice el nuevo puerto base cuyo otorgamiento se solicita.
+c) Que existan posibilidades de comercialización y de prestación de servicios.
+d) Que no se contravengan, en su caso, las medidas específicas de contención del esfuerzo pesquero.
+2. El Gobierno en el ámbito de sus competencias podrá establecer otros requisitos previos para que puedan autorizarse los cambios de base, a fin de evitar que de éstos se deriven desequilibrios en el esfuerzo de pesca que se ejerce sobre los distintos caladeros.
+
+## CAPÍTULO V
+
+Puertos de desembarque y primera venta de los productos pesqueros
+
+### Artículo 69
+
+Artículo 69. Puertos de desembarque de productos pesqueros.
+1. Los buques pesqueros o mercantes que desembarquen productos pesqueros en el territorio nacional, procedentes de buques de pabellón comunitario, habrán de hacerlo en los puertos que al efecto se determinen por las Comunidades Autónomas.
+2. Dentro de cada puerto, el desembarque se producirá en los muelles y lugares delimitados, en su caso, por las autoridades portuarias.
+Las Comunidades Autónomas mantendrán puntualmente informado al Ministerio de Agricultura, Pesca y Alimentación de los puertos y lugares autorizados.
+3. En todo caso, dichos puertos habrán de cumplir los siguientes requisitos:
+a) Disponer de instalaciones aptas y seguras para las faenas de atraque y descarga de los buques.
+b) Disponer de instalaciones adecuadas para la manipulación y conservación de los productos de la pesca en condiciones higiénico-sanitarias óptimas.
+c) Disponer de los medios necesarios para un eficiente ejercicio de las labores de control de la pesca marítima.
+
+### Artículo 70
+
+Artículo 70. Primera venta de productos pesqueros.
+1. A los efectos de la presente Ley, se entiende por primera venta la que se realice por primera vez dentro del territorio de la Unión Europea y en la cual se acredite documentalmente el precio del producto.
+2. La primera venta de productos pesqueros frescos se realizará a través de las lonjas de los puertos. No obstante, las Comunidades Autónomas podrán autorizar centros para la primera venta, como son los centros de expedición de moluscos y depuradoras, ubicados en el recinto portuario o fuera del mismo, sin perjuicio, en su caso, de las competencias de la Autoridad Portuaria sobre la ubicación de dichos centros. Asimismo podrán establecerse reglamentariamente excepciones de la venta en lonja para capturas realizadas con determinadas modalidades de pesca.
+3. Excepcionalmente, cuando se trate de territorios insulares donde no existan lonjas, podrán autorizarse otros sistemas para la primera venta de los productos pesqueros frescos, siempre que se garantice suficientemente el control de los productos.
+4. La primera venta de productos pesqueros congelados o transformados a bordo se realizará en los establecimientos autorizados por las Comunidades Autónomas.
+
+### Artículo 71
+
+Artículo 71. El transporte anterior a la primera venta.
+Los productos pesqueros frescos que hayan de ser objeto de su primera venta a través de una lonja de un puerto distinto al de desembarque, así como los congelados o transformados a bordo que hayan de ser transportados antes de producirse su primera venta, deberán ir acompañados, desde su salida del recinto portuario hasta que se produzca su primera venta, de la documentación que se establezca reglamentariamente, entre la que constará, en todo caso, las cantidades transportadas de cada especie, el origen del envío y el lugar de destino de los productos.
+
+### Artículo 72
+
+Artículo 72. Remisión de información.
+En el marco de la normativa comunitaria a efectos de la necesaria integración de los controles de competencia del Estado y de las Comunidades Autónomas, ambas Administraciones se intercambiarán mutuamente las informaciones resultantes de los documentos relacionados con la primera venta, así como de la evolución del nivel de las capturas de las especies contingentadas.
+
+### Artículo 73
+
+Artículo 73. Medidas reglamentarias.
+Queda prohibida la tenencia, transporte, tránsito, almacenamiento, transformación, exposición y venta de productos pesqueros de cualquier origen o procedencia, que sean de talla o peso inferior a lo reglamentado en el ámbito internacional, comunitario, estatal y autonómico.
+Los viveros artificiales de peces y moluscos tendrán una reglamentación específica.
+
+### Artículo 74
+
+Artículo 74. Prohibición de comercializar las capturas procedentes de la pesca no profesional.
+Queda prohibida la comercialización, por cualquier medio, de las capturas procedentes de la pesca no profesional.
+
+## CAPÍTULO VI
+
+Medidas de diversificación pesquera y acuícola
+Se añade por el art. único.16 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 74 bis
+
+Artículo 74 bis. Coordinación y fomento de la diversificación económica del sector pesquero y acuícola.
+El Ministerio de Agricultura, Alimentación y Medio Ambiente potenciará las medidas de diversificación económica del sector pesquero y acuícola, en particular, el turismo acuícola, el turismo pesquero o marinero, y la pesca-turismo, sin perjuicio de las competencias del Ministerio de Industria, Energía y Turismo, y de las comunidades autónomas.
+Se añade por el art. único.16 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 74 ter
+
+Artículo 74 ter. Condiciones de la pesca-turismo.
+1. Para el ejercicio de la pesca-turismo se deberá contar con el previo informe favorable del Ministerio de Fomento, relativo a las condiciones de seguridad marítima, de la navegación, de la vida humana en la mar y de la prevención de la contaminación, y con la previa comunicación al Ministerio de Agricultura, Alimentación y Medio Ambiente, sin perjuicio de las exigencias previstas en la legislación correspondiente para los operadores legalmente establecidos en territorio español.
+2. La realización de esta actividad será compatible con la pesca extractiva para la que el buque esté autorizado, siempre y cuando dichos buques reúnan las condiciones de seguridad y habitabilidad que reglamentariamente se establezcan. En todo caso, los turistas embarcados a bordo de estas embarcaciones no podrán ejercer la actividad pesquera.
+Reglamentariamente, consultadas las comunidades autónomas, se establecerán las condiciones de complementariedad y compatibilidad de la actividad de pesca extractiva y pesca-turismo y las condiciones del embarque del pasaje.
+3. De conformidad con el apartado primero, dichas actividades serán realizadas en todo caso por profesionales del sector, sujetos por tanto al Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+4. El Ministro de Agricultura, Alimentación y Medio Ambiente, consultadas las comunidades autónomas, podrá establecer medidas específicas para la pesca-turismo en aguas exteriores por razón de protección y conservación de los recursos pesqueros.
+5. El Ministerio de Agricultura, Alimentación y Medio Ambiente deberá ser informado de los buques que desarrollan esta actividad.
+6. Aquellas embarcaciones que opten por desarrollar las actividades de pesca-turismo deberán suscribir un seguro u otra garantía financiera equivalente para cubrir la responsabilidad civil en los términos que reglamentariamente se establezcan de conformidad con la legislación marítima.
+7. Reglamentariamente podrán regularse las condiciones de comercialización de los productos pesqueros así obtenidos.
+Se añade por el art. único.16 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## TÍTULO III
+
+Comercialización y transformación de productos pesqueros
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 75
+
+Artículo 75. Instrumentos de la política de comercialización y transformación de los productos pesqueros.
+La política de comercialización y transformación de los productos de la pesca, el marisqueo y la acuicultura se realizará a través de:
+a) Medidas para la normalización de los productos a lo largo de toda la cadena comercial, para dotar de transparencia al mercado y posibilitar una adecuada información al consumidor, en especial acerca de la naturaleza y el origen de los productos.
+b) Normas que aseguren durante toda la cadena de comercialización que los productos de la pesca y del marisqueo se adaptan a las normas de conservación de los recursos aplicables en cada caso.
+c) Medidas dirigidas al fomento de la transformación de los productos pesqueros.
+d) Medidas para la mejora de la calidad y para la promoción de los productos.
+
+## CAPÍTULO II
+
+Comercialización de los productos pesqueros
+
+### Artículo 76
+
+Artículo 76. Concepto.
+A los efectos de la presente Ley, se entiende por comercialización de los productos de la pesca, el marisqueo y la acuicultura, cada una de las operaciones que transcurren desde la primera venta hasta su consumo final, y que comprende, entre otras, la tenencia, transporte, almacenamiento, exposición y venta, incluida la que se realiza en los establecimientos de restauración.
+
+### Artículo 77
+
+Artículo 77. Normalización.
+A lo largo de todo el proceso de comercialización, los productos deberán estar correctamente identificados y deberán cumplir la normativa estatal y autonómica de comercialización que se establezca, que se referirá, entre otras materias, a la frescura, calibrado, denominación, origen, presentación y etiquetado.
+
+### Artículo 78
+
+Artículo 78. Principios generales de la identificación.
+La identificación de los productos pesqueros a través del etiquetado, presentación y publicidad estará sujeta a los siguientes principios:
+a) Deberán incorporar o permitir de forma cierta y objetiva una información eficaz, veraz y suficiente sobre su origen y sus características esenciales.
+b) No dejarán lugar a dudas respecto de la naturaleza del producto, debiendo constar en cualquier caso la especie.
+c) No inducirán a error o engaño por medio de inscripciones, signos, anagramas, dibujos o formas de presentación que puedan inducir a confusión con otros productos.
+d) No se omitirán o falsearán datos de modo que con ello pueda propiciarse una imagen falsa del producto.
+e) Declararán la calidad del producto o de sus elementos principales en base a normas específicas de calidad.
+
+### Artículo 79
+
+Artículo 79. Prohibiciones.
+1. Quedan prohibidas las operaciones de comercialización de productos de la pesca y del marisqueo de cualquier origen o procedencia, incluyendo la tenencia, posesión, transporte, tráfico, almacenamiento, transformación, exposición y venta, en los siguientes casos:
+a) Que sean de talla o peso inferior a lo reglamentado en la normativa internacional, comunitaria, estatal y autonómica de aplicación en cada caso.
+b) Que procedan de la pesca ilegal, no declarada y no reglamentada.
+c) Que su modo de obtención no haya sido conforme con la normativa internacional, comunitaria, estatal y autonómica de aplicación.
+d) Que incumplan la normativa sanitaria aplicada.
+Se modifica por el art. único.17 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## CAPÍTULO III
+
+De la transformación de los productos pesqueros
+
+### Artículo 80
+
+Artículo 80. Concepto.
+1. Se entiende por transformación de los productos pesqueros el conjunto de operaciones que modifican las características físicas o químicas de los productos, con el objetivo de prepararlos para su comercialización.
+2. El concepto de transformación comprende las operaciones de preparación, tratamiento y conservación.
+
+### Artículo 81
+
+Artículo 81. Fomento de la transformación.
+1. El Gobierno y las Comunidades Autónomas podrán adoptar medidas de fomento de las operaciones de transformación de los productos de la pesca, el marisqueo y la acuicultura.
+2. Las medidas de fomento se dirigirán preferentemente hacia:
+a) La diversificación de los productos.
+b) La mejora de la calidad.
+c) La innovación tecnológica.
+d) El aprovechamiento de los recursos excedentarios o infrautilizados.
+e) El desarrollo de interprofesiones con la colaboración del sector extractivo.
+f) El aprovechamiento de los subproductos.
+g) La reducción del impacto sobre el medio ambiente.
+
+## CAPÍTULO IV
+
+Mejora de la calidad de los productos pesqueros
+
+### Artículo 82
+
+Artículo 82. Promoción de los productos pesqueros.
+En las campañas que el Ministerio de Agricultura, Pesca y Alimentación promueva, a nivel nacional o internacional, con la colaboración, en su caso, de las Administraciones competentes, la promoción de los productos pesqueros se dirigirá preferentemente a:
+a) Favorecer el consumo de productos infrautilizados o excedentarios.
+b) Facilitar la comercialización de productos tradicionales y artesanales.
+c) Contribuir a la adaptación entre la oferta y la demanda.
+d) Divulgar el conocimiento de las producciones autóctonas.
+e) Impulsar el desarrollo de las denominaciones de calidad.
+f) Contribuir a una adecuada información al consumidor acerca de las características de los productos.
+
+### Artículo 83
+
+Artículo 83. Mejora de la calidad de los productos pesqueros.
+En la elaboración de las normas que afecten a la comercialización de los productos de la pesca, el marisqueo y la acuicultura, y en las medidas de fomento que afecten a esta actividad, el Gobierno tendrá en cuenta el objetivo de mejorar la calidad de los mismos, con el fin de incrementar el valor añadido y favorecer un eficaz aprovechamiento de los recursos.
+
+## TÍTULO IV
+
+La investigación pesquera y oceanográfica
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO I
+
+Principios generales
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 84
+
+Artículo 84. Fomento de la investigación.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 85
+
+Artículo 85. Objetivos.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 86
+
+Artículo 86. Planificación y programación.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 87
+
+Artículo 87. Colaboración del sector.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## CAPÍTULO II
+
+De la investigación pesquera y oceanográfica del Estado
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Artículo 88
+
+Artículo 88. El Instituto Español de Oceanográfica.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+## TÍTULO V
+
+Infracciones y sanciones
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Téngase en cuenta la disposición transitoria primera de la citada Ley en cuanto a la aplicación de la legislación más favorable para las infracciones cometidas con anterioridad a su entrada en vigor.
+
+## CAPÍTULO I
+
+Objeto y principios generales
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Redactado conforme a la corrección de erratas publicada en BOE núm. 174, de 21 de julio de 2001. Ref. BOE-A-2001-14163
+
+### Artículo 89
+
+Artículo 89. Objeto.
+El presente título tiene por objeto:
+a) Establecer el régimen sancionador en materia de pesca marítima, cuya aplicación corresponde a los órganos competentes de la Administración General del Estado.
+b) Establecer la normativa básica del régimen sancionador en materia de ordenación del sector pesquero y de la actividad comercial de productos pesqueros, cuyo desarrollo legislativo y ejecución corresponde a los órganos competentes de las comunidades autónomas.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 90
+
+Artículo 90. Ámbito de aplicación.
+Los preceptos del presente título son de aplicación a las conductas o hechos cometidos:
+a) Dentro del territorio y aguas marítimas bajo soberanía o jurisdicción españolas.
+b) Fuera del territorio o aguas marítimas bajo soberanía o jurisdicción españolas por personas físicas o jurídicas, a bordo de buques de pabellón nacional o sirviéndose de los mismos.
+c) Fuera del territorio o aguas marítimas bajo soberanía o jurisdicción españolas por personas físicas o jurídicas de nacionalidad española, a bordo de buques apátridas o sin nacionalidad; o de buques de pabellón extranjero o sirviéndose de los mismos, en este último supuesto siempre que el Estado de bandera no haya ejercido su competencia sancionadora según la normativa en vigor.
+d) Además de lo dispuesto en los apartados anteriores, será también de aplicación a los hechos o conductas detectados en territorio o aguas marítimas bajo soberanía o jurisdicción españolas y considerados como pesca ilegal, no declarada y no reglamentada según los términos y condiciones establecidos en la normativa comunitaria o internacional, aún cuando hayan sido cometidas fuera de dicho ámbito, independientemente de la nacionalidad de sus autores y del pabellón del buque.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade el apartado 3 por el art. 112.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 91
+
+Artículo 91. Responsables.
+1. Serán responsables de las infracciones tipificadas en esta ley las personas físicas o jurídicas que las cometan por sí, o mediante personas jurídicas en las que ejerzan el control societario según la legislación mercantil en vigor, aun cuando estén integradas en uniones temporales de empresas, agrupaciones o comunidades de bienes sin personalidad.
+2. Responsables solidarios:
+a) Cuando la infracción sea imputable a varias personas y no sea posible determinar el grado de participación de cada una, responderán solidariamente:
+1.º Los propietarios de buques, armadores, fletadores, importadores y sus representantes, remolcadores, consignatarios, titulares de la concesión de lonjas pesqueras, responsables autorizados para la primera venta, mercados mayoristas, responsables de instalaciones de engorde de atún rojo u otros recursos pesqueros, capitanes y patrones o personas que dirijan las actividades pesqueras, en los supuestos de infracciones de pesca marítima.
+2.º Los transportistas o cualesquiera personas que participen en el transporte de productos pesqueros con respecto al supuesto de infracción previsto en el artículo 103 d).
+3.º Los propietarios de empresas comercializadoras o transformadoras de productos pesqueros y personal responsable de las mismas en los casos de infracciones que afecten a estas actividades.
+b) Cuando el cumplimiento de las obligaciones previstas en una disposición legal corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan.
+c) Serán responsables solidarios por el incumplimiento de las obligaciones impuestas por la ley que conlleven el deber de prevenir la infracción administrativa cometida por otros, las personas físicas y jurídicas sobre las que tal deber caiga, cuando así lo determine la presente ley.
+3. Los propietarios de embarcaciones y/o armadores, en el caso de mediar una denuncia por supuesta infracción administrativa de pesca marítima, debidamente requeridos para ello, tienen el deber de identificar al patrón y/o persona responsable de la embarcación, y si incumplen esta obligación serán sancionados como autores de una infracción grave de falta de colaboración u obstrucción a las labores de inspección.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 92
+
+Artículo 92. Concurrencia de responsabilidades.
+1. La responsabilidad por las acciones u omisiones tipificadas en la presente ley es de naturaleza administrativa y no excluye las de otro orden a que hubiere lugar.
+2. Las sanciones que se impongan a distintos sujetos como consecuencia de una misma infracción tendrán entre sí carácter independiente.
+3. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+4. En los supuestos en que la conducta pudiera ser constitutiva de delito, la Administración pasará el tanto de culpa a la jurisdicción competente y se abstendrá de seguir el procedimiento sancionador mientras la autoridad judicial no dicte sentencia firme, tenga lugar el sobreseimiento o el archivo de las actuaciones o se produzca la devolución del expediente por el Ministerio Fiscal.
+5. De no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará el expediente sancionador. Los hechos declarados probados en la resolución judicial firme vincularán al órgano administrativo.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 93
+
+Artículo 93. Prescripción de infracciones y sanciones.
+1. Las infracciones administrativas previstas en la presente ley prescribirán: en el plazo de tres años las muy graves, en el de dos años las graves y en el de un año las leves.
+2. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los tres años, en tanto que las impuestas por graves o leves lo harán a los dos años y al año, respectivamente.
+3. Para el cómputo de los plazos de prescripción de infracciones y sanciones se estará a lo dispuesto en el artículo 132.2 y 3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+En los supuestos de infracciones continuadas el plazo de prescripción comenzará a contar desde el momento de la finalización de la actividad o del último acto con el que la infracción se consuma. En el caso de que los hechos o actividades constitutivos de infracción fueran desconocidos por carecer de signos externos, dicho plazo se computará desde que éstos se manifiesten.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 94
+
+Artículo 94. Plazo de tramitación del procedimiento sancionador.
+1. El plazo máximo para tramitar, resolver y notificar la resolución sancionadora será de seis meses para las infracciones leves, y de nueve meses para las infracciones graves y muy graves. Dicho plazo se computará desde la adopción del acuerdo de iniciación del procedimiento.
+2. Transcurrido este plazo, el órgano competente para resolver declarará la caducidad de las actuaciones, sin perjuicio de solicitar asimismo al órgano competente el inicio de un nuevo procedimiento, en tanto no haya prescrito la infracción.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifica el apartado 3 por el art. 112.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## CAPÍTULO II
+
+De las infracciones administrativas en materia de pesca marítima en aguas exteriores
+
+### Artículo 95
+
+Artículo 95. Actuaciones previas y de investigación.
+1. En el marco de unas actuaciones previas o de la instrucción de un procedimiento sancionador, los funcionarios competentes podrán investigar a las personas físicas o jurídicas que directa o indirectamente pudieran tener algún tipo de relación jurídica, mercantil, financiera o de cualquier otro tipo con la actividad pesquera o la comercialización de productos pesqueros.
+2. Las personas físicas, así como los administradores, representantes y empleados de las personas jurídicas citadas en el apartado 1 vendrán obligadas a prestar su colaboración a los funcionarios competentes en el ejercicio de sus funciones, y a aportar la documentación que les sea requerida al objeto de facilitar las labores de investigación o instrucción.
+3. Las actuaciones de investigación o instrucción podrán consistir en el examen de documentos, libros, contabilidad principal y auxiliar, ficheros, facturas, justificantes, correspondencia con trascendencia a los efectos de la investigación, bases de datos informatizadas, programas, registros y archivos informáticos relativos a actividades económicas, así como en la inspección de bienes, elementos, explotaciones y cualquier otro antecedente o información que deba facilitarse a la Administración o que sea necesario para la exigencia de las obligaciones establecidas en la normativa de pesca y comercialización de productos pesqueros.
+4. Cuando las actuaciones de investigación, inspección o de instrucción lo requieran, los funcionarios que desarrollen estas funciones podrán entrar, de conformidad con la normativa comunitaria de control y lucha contra la pesca INDNR, en todas las dependencias de los buques, así como en las fincas, locales de negocio y demás establecimientos o lugares en que se desarrollen actividades que pudieran estar relacionados con la actividad pesquera o de comercialización de productos pesqueros.
+5. Cuando en el ejercicio de las actuaciones de investigación sea necesario entrar en domicilio constitucionalmente protegido, la Administración deberá obtener el consentimiento de aquél o la oportuna autorización judicial.
+6. El personal inspector podrá ser asistido por personal de apoyo para la realización de tareas de asistencia en las inspecciones, sin que esta circunstancia exima en ningún caso a los inspectores de ejercer las funciones que tienen encomendadas.
+7. Al efectuarse una visita de inspección, los agentes y autoridades deberán comunicar su presencia, a menos que consideren que dicha comunicación pueda perjudicar el éxito de sus funciones.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade el párrafo f) por el art. 112.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 96
+
+Artículo 96. Notificaciones.
+1. De conformidad con lo dispuesto en los artículos 58 y 59 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los capitanes y patrones, o las personas interesadas que dirijan las actividades pesqueras, se entenderán notificados una vez practicada la notificación al titular de la licencia de pesca con el que prestaren su servicio.
+2. El Ministro de Agricultura, Alimentación y Medio Ambiente podrá establecer, en relación a los actos que deban ser notificados por la Administración General del Estado en el marco de los procedimientos sancionadores en materia de pesca marítima, la utilización obligatoria y/o voluntaria de medios electrónicos para aquellos titulares de licencias de pesca que por razón de su capacidad económica o técnica, dedicación u otros motivos que se desarrollen reglamentariamente tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifica la letra v) y se añade la x) en el apartado 1 por el art. 112.6 y 7 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 97
+
+Artículo 97. Medidas provisionales.
+1. Las autoridades competentes en materia de pesca marítima y los agentes y autoridades que actúen por delegación o en virtud de cualquier otra forma jurídica prevista en derecho, podrán adoptar, desde el momento en que tengan conocimiento de la comisión de una presunta infracción, las medidas provisionales precisas, incluidas la suspensión de las autorizaciones de pesca, el apresamiento y la retención de la embarcación, y el decomiso de los artes, aparejos y útiles de pesca, de las capturas pesqueras o de los productos de la pesca o de los productos o bienes obtenidos en la comisión de las infracciones en los supuestos de infracciones graves o muy graves, para asegurar, entre otras, la eficacia de la resolución que pudiera recaer, el buen fin del procedimiento, evitar el mantenimiento de los efectos de la infracción y/o garantizar los intereses generales. Todas estas medidas se podrán adoptar acumulativamente.
+2. En todo caso, tendrán la consideración de medidas provisionales las identificadas como medidas coercitivas en la normativa internacional y comunitaria contra la pesca ilegal, no declarada y no reglamentada.
+3. La adopción de estas medidas se realizará de forma motivada. Cuando resulte preciso, por razones de urgencia o de necesidad, las autoridades competentes adoptarán tales medidas de forma verbal, dando razón de su proceder, debiendo reflejar el acuerdo y su motivación por escrito a la mayor brevedad posible y, en todo caso, en un plazo no superior a cinco días, dando traslado del mismo a los interesados.
+4. Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, dentro del plazo de quince días desde su adopción. Las medidas adoptadas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
+5. Las medidas provisionales se adoptarán basándose en un juicio de razonabilidad y eligiéndose aquélla que menos dañe la situación jurídica del administrado.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifica la letra i) y se añade la j) por el art. 112.8 y 9 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## CAPÍTULO III
+
+Infracciones en materia de ordenación del sector pesquero y de comercialización de productos pesqueros
+
+### Artículo 98
+
+Artículo 98. Del apresamiento o retención de buques y el decomiso de los artes, aparejos y útiles de la pesca o de las capturas pesqueras, productos de la pesca o de los productos o bienes obtenidos como medida provisional.
+1. Los buques apresados y/o retenidos, serán liberados sin dilación, previa constitución de una fianza u otra garantía financiera prevista normativamente cuya cuantía será fijada por el órgano competente, mediante el correspondiente acto administrativo, no pudiendo exceder del importe de la sanción que pudiera corresponder por la infracción o infracciones cometidas. El plazo para la prestación de la fianza será de un mes desde su fijación, pudiendo ser prorrogado por idéntico tiempo y por causas justificadas. De no prestarse fianza en el plazo establecido, el buque quedará a disposición del Ministerio de Agricultura, Alimentación y Medio Ambiente, que podrá decidir sobre su ubicación y destino de acuerdo con la legislación vigente y la regulación del Derecho Internacional derivada de la Convención de las Naciones Unidas del Derecho del Mar y de la jurisprudencia del Tribunal Internacional de Derecho del Mar con sede en Hamburgo.
+2. Los artes, aparejos o útiles de pesca antirreglamentarios decomisados serán destruidos. Los reglamentarios decomisados serán devueltos al interesado, previa constitución de fianza u otra garantía financiera legalmente prevista, según los mismos términos, procedimiento y consecuencias expresados en el apartado anterior.
+3. Las capturas pesqueras y/o productos de la pesca decomisados, en el supuesto de que tuvieran posibilidades de sobrevivir, deberán devolverse al medio marino sin dilación. En caso contrario, cuando sean aptos para el consumo, podrán:
+a) Distribuirse entre entidades benéficas y otras instituciones públicas y privadas sin ánimo de lucro. Esta opción tendrá carácter preferente.
+b) Venderse en lonja o lugar autorizado, quedando el importe de dicha venta en depósito a disposición del órgano competente para iniciar el procedimiento sancionador.
+c) Con carácter subsidiario, y cuando no sea posible la venta en lonja, se acordará el inicio del procedimiento de subasta pública, en los términos que reglamentariamente se desarrollen.
+d) Como última opción y únicamente en los casos en que ninguna de las opciones anteriores sea posible, se categorizarán como subproductos animales no destinados al consumo humano, y se tratarán conforme a la normativa que les sea de aplicación, salvo que en todo caso proceda su destrucción.
+4. En caso de capturas pesqueras y/o productos de la pesca decomisados no aptos para el consumo, se procederá a su clasificación y tratamiento como subproductos animales no destinados al consumo humano, conforme a la normativa que les sea de aplicación, salvo que en todo caso proceda su destrucción.
+5. Los gastos derivados de la adopción de medidas provisionales y cautelares, o de las sanciones, en su caso, correrán a cargo del presunto infractor.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifica el apartado a) por el art. 112.10 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## CAPÍTULO II
+
+De las infracciones administrativas en materia de pesca marítima en aguas exteriores
+Se añade por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 99
+
+Artículo 99. Infracciones leves.
+A los efectos de la presente ley se consideran infracciones leves:
+a) Cualquier actualización de los datos y circunstancias personales que figuren en la licencia cuando no requiera autorización administrativa previa, sin efectuar la comunicación prevista legalmente.
+b) La realización de faenas de pesca y selección de pescado cuando se dificulte la visibilidad de las luces utilizadas reglamentariamente.
+c) La anotación incorrecta en el diario de pesca, diario electrónico de a bordo, en su caso, y en la declaración de desembarque que no supongan una alteración de los datos relativos a las capturas, al esfuerzo de pesca, o a la posición geográfica de los lances de pesca.
+d) El ejercicio de la pesca de recreo sin portar la licencia o las autorizaciones, disponiendo de las mismas en vigor.
+e) El incumplimiento de las preceptivas obligaciones de información a la Administración General del Estado o su comunicación incumpliendo los plazos o las condiciones de las mismas, cuando no esté tipificada como grave o muy grave, incluyendo cuanta información registral sea preceptiva.
+f) El ejercicio de la pesca de recreo con caña desde tierra sin disponer de la correspondiente licencia o autorización.
+g) Las acciones u omisiones que supongan incumplimiento de las obligaciones establecidas en la legislación pesquera comunitaria o previstas en Tratados Internacionales en materia de pesca y que no constituyan infracción grave o muy grave.
+h) Cualquier infracción de lo establecido en esta ley o en el resto de la legislación vigente en materia de pesca marítima, cuando no esté tipificada como grave o muy grave.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 100
+
+Artículo 100. Infracciones graves.
+A los efectos de la presente ley se consideran infracciones graves:
+1. En lo relativo al ejercicio de la actividad:
+a) El ejercicio o realización de actividades de pesca sin disponer de licencia o de las correspondientes autorizaciones.
+b) El incumplimiento de las condiciones establecidas en las autorizaciones de pesca.
+c) El incumplimiento de las normas vigentes sobre modalidades de pesca.
+d) El cambio de modalidad de pesca sin contar con la preceptiva autorización.
+e) El ejercicio o la realización de actividades de pesca sin estar incluido en el censo específico correspondiente.
+f) El ejercicio de actividades de pesca en fondos prohibidos, en caladeros, zonas o períodos de tiempo no autorizados o en zonas de veda.
+g) El incumplimiento de las normas relativas al esfuerzo pesquero o de tiempo de calamento de los artes o aparejos.
+h) La utilización o tenencia a bordo de boyas o balizas que no cumplan la normativa vigente, o cualquier otro incumplimiento de la normativa en materia de señalización.
+i) El incumplimiento de la obligación de respetar las distancias mínimas para buques y artes establecidas en la normativa vigente.
+j) La obtención de autorizaciones de pesca en número superior a las permitidas legalmente por causas imputables al interesado.
+k) La organización de concursos de pesca de recreo sin contar con la preceptiva autorización, o incumpliendo las condiciones de la misma.
+l) Toda conducta tipificada como leve en materia de pesca marítima, cometida por las personas físicas o jurídicas a que se refiere el artículo 91 de esta ley, vinculadas jurídicamente a buques apátridas, a buques con pabellón de países calificados reglamentariamente como de abanderamiento de conveniencia o a buques de países terceros identificados por las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales por haber incurrido en actividades de pesca ilegal, no declarada y no reglamentada o contrarias a las medidas de conservación y gestión de los recursos pesqueros.
+m) El incumplimiento de las obligaciones establecidas en virtud de los Tratados Internacionales en materia de pesca marítima o Normas establecidas en el seno de las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales, cuando suponga una vulneración de las medidas de conservación y gestión de los recursos pesqueros.
+2. En lo relativo al control e inspección de la actividad pesquera:
+a) La alteración de los datos y circunstancias que figuren en la licencia de pesca o en las correspondientes autorizaciones de pesca.
+b) La no llevanza a bordo del diario de pesca o no tener instalado el diario de a bordo electrónico, conforme a lo exigido por la normativa vigente.
+c) La no cumplimentación del diario de pesca, el diario de a bordo electrónico o la declaración de desembarque, o hacerlo alterando los datos relativos a las capturas, al esfuerzo de pesca, a la posición geográfica de los lances de pesca o infringiendo la normativa en vigor.
+d) La inobservancia de la obligación de llevar a bordo del buque las autorizaciones de pesca, los planos de bodega, así como cualquier otro documento exigido por la normativa vigente.
+e) El incumplimiento de la obligación de entregar a las autoridades competentes las hojas del diario de pesca y de la declaración de desembarque a la llegada a puerto, en los plazos y forma establecidos en la normativa vigente.
+f) El incumplimiento de la obligación de transmitir a las autoridades competentes las grabaciones del diario de a bordo electrónico, según la normativa vigente.
+g) La identificación incorrecta o ausencia de identificación en las cajas o embalajes de las especies a bordo.
+h) El incumplimiento de la obligación de comunicar los desplazamientos, los transbordos, el preaviso de llegada a puerto, las capturas que se lleven a bordo o la ausencia de las mismas, y la información sobre esfuerzo pesquero, según lo exigido en la normativa vigente.
+i) El incumplimiento de comunicar a las autoridades españolas competentes, en el supuesto de desembarque de capturas fuera del territorio de la Unión Europea, de las especies, cantidades y fecha de dicho desembarque, así como la zona en que se realizaron las capturas, o hacerlo falseando u ocultando datos.
+j) El incumplimiento de la obligación de comunicar a las autoridades españolas competentes el enrolamiento en buques de terceros países.
+k) La no llevanza a bordo del dispositivo de control vía satélite o de cualquier otra naturaleza instalado, establecido en la normativa vigente, por causas imputables al interesado.
+l) La no tenencia de los dispositivos de control operativos o encendidos, así como la manipulación, apagado, alteración, daño o interferencia en sus comunicaciones o funcionamiento.
+m) La falta de envío de posiciones manuales de localización cuando así lo estipule la normativa vigente.
+n) La eliminación, alteración, ocultación o encubrimiento de pruebas que pudieran obtenerse en el transcurso de las labores o procedimientos de control e inspección.
+ñ) La no disposición de escala de viento conforme a la normativa en vigor, la falta de colaboración con las autoridades competentes en materia de pesca marítima, agentes y observadores que actúen por delegación o en virtud de cualquier otra forma jurídica prevista en derecho, así como la obstrucción de las labores de inspección, sin llegar a impedir su ejercicio.
+o) El incumplimiento por parte de los buques pesqueros no comunitarios de la obligación de efectuar los desembarques en los puertos autorizados, y en presencia de los funcionarios encargados del control, cuando así lo exija la normativa vigente.
+p) El desembarque, llegada y entrada a puerto o utilización de los servicios portuarios por buques pesqueros no comunitarios sin efectuar las notificaciones y/o declaraciones previstas en la normativa vigente, o sin contar con las autorizaciones oportunas.
+q) El desembarque o descarga de los productos de la pesca en lugares distintos a los autorizados de modo que impida o dificulte las funciones de control e inspección pesquera en relación con los productos objeto de desembarque o descarga.
+r) El incumplimiento de la obligación de llevar visible, en la forma prevista por la normativa en vigor, el folio y la matrícula de la embarcación o cualquier otro distintivo, así como la manipulación de los mismos o impedir su visualización.
+s) El incumplimiento de las obligaciones y requisitos establecidos por la normativa vigente en materia de captura, remolque y enjaule de atún rojo.
+t) El incumplimiento de las obligaciones y requisitos establecidos por la normativa vigente en materia de pesaje antes de la primera venta.
+u) El incumplimiento de las obligaciones y requisitos establecidos por la normativa vigente en materia de prohibición de descartes.
+3. En lo relativo a las especies:
+a) La realización de cualquier actividad que perjudique la gestión y conservación de los recursos marinos vivos, así como de las actividades subacuáticas sin disponer de autorización en aquellas zonas en las que sea exigible conforme a la normativa vigente.
+b) La repoblación marina sin la correspondiente autorización o cuando se incumplan las condiciones establecidas en la misma.
+c) La tenencia, transbordo, desembarque, custodia o almacenamiento, antes de su primera venta, de especies pesqueras cuya procedencia no esté acreditada conforme a la normativa en vigor.
+d) La captura, tenencia, transbordo, desembarque, custodia o almacenamiento, antes de su primera venta, de especies pesqueras sin contar con las autorizaciones necesarias o en condiciones distintas de las establecidas en las mismas.
+e) La captura, tenencia, transbordo, desembarque, custodia o almacenamiento, antes de su primera venta, de especies pesqueras no autorizadas o de las que se hubieran agotado los totales admisibles de capturas (TACs) o cuotas.
+f) La captura, tenencia, transbordo, desembarque, custodia o almacenamiento, antes de su primera venta, de especies pesqueras de talla o peso inferiores a los permitidos o, en su caso, cuando se superen los márgenes permitidos para determinadas especies.
+g) El incumplimiento de la normativa sobre topes máximos de captura y/o desembarque permitidos.
+4. En lo relativo a los artes, aparejos, útiles, instrumentos y equipos de pesca:
+a) El incumplimiento de las medidas técnicas relativas a su modo de empleo.
+b) La utilización o tenencia a bordo de los prohibidos, no autorizados o antirreglamentarios.
+c) El incumplimiento de la normativa sobre el transporte y arrumaje de los artes o aparejos.
+d) La utilización de dispositivos que reduzcan la selectividad de los artes o aparejos.
+e) El ejercicio de la pesca de recreo, haciendo uso de luces artificiales de superficie o sumergidas, o de cualquier otro medio irregular para la atracción, detección o concentración artificial de especies pesqueras.
+f) El ejercicio de la pesca submarina de recreo, haciendo uso de equipos de respiración autónomos o semiautónomos, o de cualquier otro sistema que permita la respiración en inmersión, o utilizando hidroplanos o vehículos similares.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## CAPÍTULO IV
+
+De las sanciones
+
+### Artículo 101
+
+Artículo 101. Infracciones muy graves.
+A los efectos de la presente ley se consideran infracciones muy graves:
+a) El ejercicio o realización de actividades profesionales de pesca marítima sin estar incluido en el Censo de la Flota Pesquera Operativa.
+b) La realización de actividades con el objeto de impedir el derecho al ejercicio de la actividad pesquera.
+c) La presentación de documentos, datos, circunstancias o información falsos para la obtención de autorizaciones, permisos o licencias de cualquier clase.
+d) La presentación de documentos, datos, circunstancias o información falsos para la obtención de ayudas públicas a la actividad pesquera, así como destinar las mismas a fines distintos de los previstos.
+e) El ejercicio de la actividad pesquera sin autorización en aguas del mar territorial o zona económica exclusiva españoles por parte de buques pesqueros no comunitarios.
+f) La tenencia a bordo o desembarque en puertos españoles, por parte de buques pesqueros no comunitarios, de productos pesqueros cuyo origen no esté identificado de conformidad con la normativa en vigor.
+g) El desembarque o descarga en cualquier parte del territorio nacional de productos pesqueros de países no comunitarios sin haber obtenido la previa autorización establecida en la normativa en vigor.
+h) La utilización para la pesca de explosivos, armas, sustancias tóxicas, venenosas, soporíferas o corrosivas.
+i) La resistencia, desobediencia u obstrucción grave a las autoridades competentes en materia de pesca marítima, agentes y observadores que actúen por delegación o en virtud de cualquier otra forma jurídica prevista en derecho, impidiendo el ejercicio de su actividad.
+j) La violación de las obligaciones establecidas en virtud de los Tratados Internacionales en materia de pesca marítima o Normas establecidas en el seno de las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales, cuando su incumplimiento pueda poner en peligro o atente contra la normal ejecución de los mismos, o suponga o pueda suponer un incumplimiento de las obligaciones asumidas por el Estado.
+k) La participación en transbordos o en operaciones conjuntas de pesca con buques apátridas o buques de países terceros identificados por las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales, por haber incurrido en actividades de pesca ilegal, no declarada y no reglamentada o contrarias a las medidas de conservación y gestión de los recursos pesqueros, o la prestación de apoyo o reabastecimiento de tales buques.
+l) La participación en la explotación, gestión y propiedad de buques apátridas, o buques de países terceros identificados por las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales por haber incurrido en actividades de pesca ilegal, no declarada y no reglamentada o contrarias a las medidas de conservación y gestión de los recursos pesqueros, o el ejercicio de actividades mercantiles, comerciales, societarias o financieras relacionadas con los mismos.
+m) Toda conducta tipificada como grave en materia de pesca marítima, cometida por las personas físicas o jurídicas a que se refiere el artículo 91 de esta ley, vinculadas jurídicamente a buques apátridas, a buques con pabellón de países calificados reglamentariamente como de abanderamiento de conveniencia o a buques de países terceros identificados por las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales por haber incurrido en actividades de pesca ilegal, no declarada y no reglamentada o contrarias a las medidas de conservación y gestión de los recursos pesqueros.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## CAPÍTULO III
+
+Infracciones en materia de ordenación del sector pesquero y de comercialización de productos pesqueros
+Se añade por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 102
+
+Artículo 102. Infracciones leves.
+A los efectos de la presente ley se consideran infracciones leves:
+a) El incumplimiento de las preceptivas obligaciones de información a las Administraciones Públicas o su comunicación incumpliendo los plazos o las condiciones de las mismas, cuando no esté tipificada como grave o muy grave.
+b) El cargar productos pesqueros fuera de los lugares o puertos fijados al efecto.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifica por la disposición final 2 del Real Decreto 114/2003, de 15 de febrero. Ref. BOE-A-2013-2209.
+
+### Artículo 103
+
+Artículo 103. Infracciones graves.
+A los efectos de la presente ley se consideran infracciones graves:
+a) La comercialización de especies pesqueras incumpliendo la normativa sobre categorías de frescura y calibrado, o sin contar con las autorizaciones necesarias o en condiciones distintas de las establecidas en dichas autorizaciones.
+b) La realización de operaciones de construcción o modernización de buques pesqueros al margen o incumpliendo las preceptivas autorizaciones de los órganos competentes de las comunidades autónomas, o del Estado, en el ámbito de sus respectivas competencias.
+c) La tenencia, la consignación, el transporte, el tránsito, el almacenamiento, la transformación, la exposición y la venta, en cualquiera de las formas previstas legalmente, de productos pesqueros prohibidos o de talla o peso inferiores a los reglamentarios. En los supuestos en que estas conductas afecten a las diferentes especies de moluscos y se realicen en lonja o en cualquiera de los establecimientos autorizados para la primera venta, el volumen total vendido de talla o peso inferior al mínimo en un día deberá ser superior al 10 % del total comercializado para esa especie. En el caso de que este porcentaje sea inferior o igual al 10 %, y su captura se considere no intencionada se considerará infracción leve, no pudiendo ser objeto de comercialización.
+d) El transporte de productos pesqueros sin la correspondiente documentación exigida en la legislación vigente.
+e) El incumplimiento de la normativa vigente relativa a la potencia de los motores u otros parámetros establecidos para los buques respecto de cada caladero o modalidad de pesca.
+f) El cambio de base del buque pesquero sin obtener previamente la correspondiente autorización administrativa, o su no utilización conforme a lo establecido en el artículo 65, excepto supuesto de fuerza mayor.
+g) La obstrucción de las labores de inspección, sin llegar a impedir su ejercicio.
+h) La entrada o salida del puerto fuera del horario establecido para el ejercicio de la actividad pesquera, salvo que dichas maniobras tengan lugar como consecuencia de estado de necesidad o fuerza mayor, sin perjuicio de las competencias de la autoridad portuaria.
+i) El incumplimiento de los descansos de pesca establecidos.
+j) La realización de actividades de venta de productos pesqueros en lugar o en forma no autorizados legalmente o incumpliendo los requisitos exigidos, así como la no expedición de la nota de venta, existiendo obligación de ello, o la inclusión de datos falsos en la misma.
+k) El ejercicio de actividades profesionales pesqueras sin estar en posesión de la titulación que acredita la capacitación y formación profesional náutico-pesquera.
+l) El desembarque o descarga de especies y productos pesqueros en condiciones distintas de las establecidas.
+m) La identificación incorrecta en las cajas o embalajes de las especies contenidas.
+n) La contratación de personal que no disponga del título o tarjeta profesional exigidos por la normativa vigente.
+ñ) La permisión de que la realización de una función o servicio a bordo se lleve a cabo por alguien sin la debida titulación o la correspondiente dispensa.
+o) La obtención, mediante fraude o documentación falsa, de un contrato para ejercer alguna de las funciones, o desempeñar una determinada tarea para las cuales la normativa vigente prescribe la necesidad de hallarse en posesión de un determinado título o de la correspondiente dispensa.
+p) La tenencia, consignación, transporte, tránsito, almacenamiento, transformación, exposición y venta, en cualquiera de las formas previstas legalmente, de productos pesqueros que no cumplen los requisitos de trazabilidad, etiquetado, higiene o información al consumidor exigidos por la normativa vigente.
+Se modifica la letra c) por la disposición final 2 del Real Decreto-ley 19/2020, de 26 de mayo. Ref. BOE-A-2020-5315#df-2
+ Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se modifican las letras b) y c) del apartado 1 y b) del apartado 2 por el art. 112.11 y 12 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 104
+
+Artículo 104. Infracciones muy graves.
+1. A los efectos de la presente ley se consideran infracciones muy graves:
+a) La obtención de las autorizaciones precisas con base en documentos o informaciones falsas.
+b) La resistencia o desobediencia grave a las autoridades de inspección, impidiendo el ejercicio de la misma.
+c) Toda conducta tipificada como grave, cuando suponga un incumplimiento de las obligaciones establecidas en virtud de Tratados Internacionales o normas de terceros países, que estén relacionadas con actividades de pesca de buques apátridas, buques con pabellón de países calificados reglamentariamente como de abanderamiento de conveniencia o buques de países terceros identificados por las Organizaciones Regionales de Ordenación Pesquera u otras Organizaciones Internacionales por haber incurrido en actividades de pesca ilegal, no declarada y no reglamentada o contrarias a las medidas de conservación y gestión de los recursos pesqueros.
+2. La obtención de subvenciones, préstamos y, en general, cualquier tipo de ayuda, con base en datos falsos, así como destinarlas a fines distintos de los previstos, se regirá conforme a la normativa aplicable en materia de subvenciones.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## CAPÍTULO IV
+
+De las sanciones
+Se añade por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 105
+
+Artículo 105. Clases.
+1. Las sanciones que pueden aplicarse por la comisión de las infracciones previstas en la presente ley son las siguientes:
+a) Apercibimiento.
+b) Amonestación pública.
+c) Sanción pecuniaria.
+d) Asignación de puntos conforme a la normativa en vigor.
+e) Inhabilitación para el ejercicio o desarrollo de actividades pesqueras.
+f) Decomiso de artes, aparejos o útiles de la pesca.
+g) Decomiso de las capturas pesqueras o los productos de la pesca o de los productos o bienes obtenidos en la comisión de las infracciones.
+h) Suspensión, retirada o no renovación de las autorizaciones, licencias o permisos.
+i) Imposibilidad de obtención de préstamos, subvenciones o ayudas públicas.
+j) Incautación del buque.
+k) Inmovilización temporal del buque.
+l) Suspensión del estatuto de operador económico autorizado.
+m) Reducción o anulación de los derechos o posibilidades de pesca.
+Todas ellas podrán imponerse con carácter principal, acumulándose cuando proceda.
+2. La imposición de dichas sanciones se realizará de acuerdo con los siguientes requisitos:
+a) El apercibimiento sólo podrá imponerse para infracciones leves.
+b) La amonestación pública sólo podrá imponerse para infracciones leves y graves.
+c) La sanción pecuniaria podrá imponerse de acuerdo con las reglas previstas en el artículo 106.
+d) La asignación de puntos se realizará de acuerdo con la normativa en vigor.
+e) La inhabilitación para el ejercicio o desarrollo de actividades pesqueras no podrá ser superior a un periodo de tres años en caso de infracciones graves y de cinco años en caso de infracciones muy graves. No cabrá en el caso de infracciones leves.
+f) El decomiso de artes, aparejos o útiles de pesca sólo podrá imponerse en caso de infracciones muy graves e infracciones graves relativas a las especies, y relativas a los artes, aparejos, útiles, instrumentos y equipos de pesca.
+g) El decomiso de las capturas pesqueras o los productos de la pesca o los productos o bienes obtenidos en la comisión de las infracciones podrá imponerse con independencia de la calificación de la infracción.
+h) La suspensión, retirada o no renovación de las autorizaciones, licencias o permisos no podrá ser superior a un periodo de tres años en caso de infracciones graves ni de siete en caso de infracciones muy graves. No cabrá en el caso de infracciones leves.
+i) La imposibilidad de obtención de préstamos, subvenciones o ayudas públicas no podrá ser superior a un periodo de dos años en caso de infracciones leves, tres años en caso de infracciones graves ni de siete en caso de infracciones muy graves.
+j) La incautación del buque sólo podrá imponerse en caso de infracciones muy graves.
+k) La inmovilización temporal del buque no podrá ser superior a un periodo de seis meses en caso de infracciones leves, un año en caso de infracciones graves ni de tres en caso de infracciones muy graves.
+l) La suspensión del estatuto de operador económico autorizado no podrá ser superior a un periodo de dos años en caso de infracciones leves, tres años en caso de infracciones graves ni de siete en caso de infracciones muy graves.
+m) La reducción o anulación de los derechos o posibilidades de pesca podrá imponerse en caso de infracciones muy graves e infracciones graves relativas al control e inspección de la actividad pesquera, y relativas a las especies.
+3. Con independencia de las que puedan corresponder en concepto de sanción, el órgano sancionador podrá acordar la imposición de multas coercitivas con arreglo a lo dispuesto en el artículo 99 de la Ley 30/1992, de 26 de noviembre, una vez transcurridos los plazos señalados en el requerimiento correspondiente. La cuantía de cada una de dichas multas no superará el 20% de la sanción pecuniaria fijada por la infracción correspondiente.
+4. No obstante lo dispuesto en el 92.5, cuando se hubiere utilizado el buque pesquero para efectuar tráfico de drogas tóxicas, estupefacientes, sustancias psicotrópicas, transporte ilegal de inmigrantes, o para cualquier otra actividad constitutiva de delito y se haya determinado por resolución judicial firme la responsabilidad de los autores, éstos quedarán inhabilitados para el ejercicio o desarrollo de las actividades pesqueras durante un periodo de diez años.
+5. La obtención de subvenciones, préstamos y, en general, cualquier tipo de ayuda con base en datos falsos, destinados a fines distintos de los previstos o utilizados de forma indebida dará lugar al reintegro de las cantidades obtenidas de acuerdo con la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 106
+
+Artículo 106. Graduación de las sanciones pecuniarias.
+1. Las sanciones pecuniarias se impondrán de acuerdo con los siguientes tramos:
+a) Las infracciones leves serán sancionadas con multa de 60 a 600 euros.
+b) Las infracciones graves serán sancionadas con sanción pecuniaria de 601 a 60.000 euros.
+c) Las infracciones muy graves serán sancionadas con sanción pecuniaria de 60.001 a 600.000 euros.
+2. Dentro de los tramos precedentes, las sanciones pecuniarias se impondrán en los grados mínimo, medio o máximo del siguiente modo:
+a) Sanción pecuniaria por infracción leve:
+1.º Grado mínimo: de 60 a 200 euros.
+2.º Grado medio: de 201 a 400 euros.
+3.º Grado máximo: de 401 a 600 euros.
+b) Sanción pecuniaria por infracción grave:
+1.º Grado mínimo: de 601 a 15.000 euros.
+2.º Grado medio: de 15.001 a 40.000 euros.
+3.º Grado máximo: de 40.001 a 60.000 euros.
+c) Sanción pecuniaria por infracción muy grave:
+1.º Grado mínimo: de 60.001 a 120.000 euros.
+2.º Grado medio: de 120.001 a 240.000 euros.
+3.º Grado máximo: de 240.001 a 600.000 euros.
+3. Las sanciones pecuniarias se impondrán motivadamente en los grados mínimo, medio o máximo en atención, entre otros, a los siguientes criterios:
+a) Beneficio económico que obtenga o espere obtener el presunto infractor como consecuencia de la infracción cometida.
+b) Tamaño y potencia de la embarcación.
+c) Naturaleza de los perjuicios causados, en especial a los fondos marinos, ecosistemas y organismos vivos, recursos económicos, bienes de dominio público o terceros o afección a zonas con protección medioambiental o pesquera.
+d) Posibilidad de restitución del daño causado como consecuencia de la comisión de la infracción.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 107
+
+Artículo 107. Ejecución de sanciones en materia de pesca marítima en aguas exteriores.
+La resolución será ejecutiva cuando ponga fin a la vía administrativa.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 108
+
+Artículo 108. Reducción de la sanción pecuniaria en materia de pesca marítima en aguas exteriores.
+Finalizado el procedimiento sancionador en materia de pesca marítima en aguas exteriores, y notificada la resolución sancionadora a los responsables, éstos dispondrán de un plazo de 20 días naturales para realizar el pago voluntario con reducción de la sanción pecuniaria en los términos y condiciones previstos en el artículo siguiente.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Téngase en cuenta para su aplicación la disposición transitoria segunda de la citada Ley.
+
+## TÍTULO VI
+
+Regularización de buques pesqueros en el Censo de la Flota Pesquera Operativa y en el Registro de Buques y Empresas Navieras
+Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 109
+
+Artículo 109. Requisitos y efectos de la reducción de la sanción pecuniaria.
+1. El pago voluntario con reducción de la sanción pecuniaria será aplicable a las sanciones pecuniarias impuestas por infracciones administrativas en materia de pesca marítima en aguas exteriores de carácter leve o grave, cuyo importe no supere los 15.000 euros y siempre que no haya recaído sobre los interesados resolución sancionadora firme por infracciones graves o muy graves en materia de pesca marítima en aguas exteriores durante los dos años anteriores a la comisión de la infracción, y en la resolución sancionadora no se hayan asignado puntos, de conformidad con la normativa vigente.
+2. En el supuesto de procedimientos sancionadores seguidos por la comisión de más de una infracción, no será aplicable esta reducción a ninguna de las sanciones pecuniarias si la suma de las mismas supera los 20.000 euros.
+3. El pago voluntario realizado bajo las condiciones y plazos fijados en la presente ley, conllevará las siguientes consecuencias:
+a) La reducción del 30 por ciento del importe de la sanción pecuniaria impuesta en la resolución sancionadora.
+b) La reducción del 50 por ciento del importe de la sanción pecuniaria impuesta en aquellos procedimientos finalizados porque el interesado manifieste su acuerdo con la propuesta de sanción en cualquier momento anterior a la resolución del procedimiento si media la conformidad del órgano competente para resolver.
+c) La firmeza de la sanción en vía administrativa desde el momento del pago, produciendo plenos efectos desde el día siguiente a la realización del mismo, siendo recurrible únicamente ante el orden jurisdiccional contencioso-administrativo.
+d) El plazo para interponer recurso contencioso-administrativo se iniciará el día siguiente a aquél en que tenga lugar el pago voluntario, salvo que se interponga recurso potestativo de reposición.
+4. En ningún caso cabrá esta reducción cuando se haya acordado la suspensión condicional prevista en el artículo siguiente.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Téngase en cuenta para su aplicación la disposición transitoria segunda de la citada Ley.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 110
+
+Artículo 110. Suspensión condicional.
+1. En las sanciones en materia de pesca marítima, dictada la resolución que pone fin a la vía administrativa, el infractor podrá solicitar en el plazo de un mes, contado a partir de la notificación, la suspensión condicional de la ejecución de la sanción impuesta, mediante escrito debidamente motivado, dirigido al Ministro de Agricultura, Alimentación y Medio Ambiente, manifestando el compromiso de sujetarse a las condiciones que para su otorgamiento se establezcan, en orden a garantizar, durante el plazo de suspensión, un comportamiento de respeto de la normativa reguladora del ejercicio de la actividad pesquera. La presentación de la solicitud determinará la suspensión automática de la ejecución de la sanción hasta la resolución del expediente sobre la suspensión condicional.
+El plazo de suspensión condicional será de seis a nueve meses para las faltas leves y de nueve a dieciséis meses para las faltas graves, atendiendo en ambos casos a las circunstancias de la infracción cometida. No cabrá suspensión en el caso de comisión de infracción muy grave.
+2. Serán requisitos para solicitar la suspensión condicional:
+a) Que no haya sido sancionado en los últimos cinco años.
+b) Que la cuantía de la sanción impuesta en caso de ser sanción pecuniaria no exceda de 30.000 euros.
+3. A los efectos de la resolución de suspensión condicional de la ejecución, se concederá audiencia al interesado y podrán solicitarse informes de las entidades asociativas del sector afectado y de otros organismos públicos interesados. Podrán, asimismo, solicitarse todos aquellos informes que se estimen convenientes para resolver sobre la suspensión condicional.
+Una vez acreditado el cumplimiento de los requisitos establecidos, el Ministro de Agricultura, Alimentación y Medio Ambiente podrá resolver la concesión o denegación de la suspensión condicional de la ejecución de la sanción.
+4. La resolución denegatoria de la suspensión condicional, debidamente motivada, le será notificada al interesado, procediéndose a continuar la tramitación de la ejecución de la sanción impuesta. Asimismo, la resolución favorable, debidamente motivada, será notificada a los interesados, y expresará las condiciones en que se llevará a cabo, así como que la misma suspende los plazos de prescripción de la sanción establecida en la presente ley. Los interesados podrán entender desestimada por silencio administrativo su solicitud.
+5. Las condiciones de obligado respeto por el infractor, durante el período de suspensión, incluirán en todo caso:
+a) No cometer ninguna infracción pesquera.
+b) Cumplimentar debidamente las medidas cautelares impuestas y mantenidas, en su caso.
+c) Las medidas cautelares serán en todo caso prolongadas automáticamente durante el periodo de vigencia de la suspensión condicional.
+6. Si el interesado, durante el plazo de suspensión fijado, incumpliera las obligaciones o condiciones impuestas o hubiera sido sancionado por otras infracciones pesqueras, el órgano competente, previa audiencia de aquél, revocará la suspensión condicional de la ejecución de la infracción y se continuará la tramitación de la ejecución de la sanción impuesta.
+7. Una vez cumplido el tiempo establecido de suspensión, si el infractor, a la vista de los informes que pueden ser requeridos al efecto, ha cumplido las condiciones establecidas y no hubiera sido sancionado por otras infracciones pesqueras, el Ministro de Agricultura, Alimentación y Medio Ambiente acordará la remisión de la sanción impuesta siempre que la resolución administrativa sancionadora sea firme y no haya recaído sentencia judicial.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 111
+
+Artículo 111. Función inspectora en materia de ordenación del sector pesquero y comercialización de productos pesqueros.
+1. La función inspectora de las comunidades autónomas en materia de ordenación del sector pesquero se inicia desde el momento mismo del desembarque o descarga de las capturas en los términos que su legislación establezca.
+2. La función inspectora de las comunidades autónomas en materia de comercialización de productos de la pesca, independientemente del origen de éstos, se iniciará después de la primera comercialización en las lonjas de los puertos o desde la primera comercialización cuando los productos no se vendan por primera vez en dichas lonjas.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 112
+
+Artículo 112. Competencia sancionadora en materia de pesca marítima en aguas exteriores.
+La competencia para la imposición de las sanciones correspondientes a las infracciones en materia de pesca marítima corresponderá:
+a) A los Delegados del Gobierno en el supuesto de infracciones leves.
+b) Al Director General de Recursos Pesqueros y Acuicultura en el supuesto de infracciones graves.
+c) Al Secretario General de Pesca en el supuesto de infracciones muy graves si la cuantía de la sanción pecuniaria no excede de 300.000 euros.
+d) Al Ministro de Agricultura, Alimentación y Medio Ambiente, cuando la infracción sea calificada como muy grave si la cuantía de la sanción pecuniaria excede de 300.000 euros.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 113
+
+Artículo 113. Competencia sancionadora en materia de ordenación del sector y de comercialización de productos pesqueros.
+Corresponde a los órganos competentes de las comunidades autónomas el desarrollo legislativo, la tramitación y resolución de los expedientes correspondientes a las infracciones en materia de ordenación del sector pesquero y de comercialización de productos pesqueros tipificadas en esta ley.
+Se modifica por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Artículo 114
+
+Artículo 114. Financiación y dotación de medios para el control pesquero y la conservación, protección y regeneración de los recursos pesqueros.
+De conformidad con lo establecido en los artículos 3 del Reglamento (UE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, y 5 del Reglamento (CE) n.º 1224/2009 del Consejo, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la Política Pesquera Común, se instrumentarán los medios necesarios para la consecución por parte de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente de los objetivos de control pesquero, así como de los objetivos de investigación pesquera y oceanográfica, definidos conforme a lo dispuesto en el artículo 84 y siguientes de la presente ley, en colaboración con el Instituto Español de Oceanografía, en el marco de la política de conservación, protección y regeneración de los recursos pesqueros según los títulos I y IV de la presente ley.
+Se añade por el art. único.18 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+## TITULO VI
+
+TÍTULO VI
+Regularización de buques pesqueros en el Censo de la Flota Pesquera Operativa y en el Registro de Buques y Empresas Navieras
+Se deroga por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Se añade por la disposición adicional 5 de la Ley 35/2011, de 4 de octubre. Ref. BOE-A-2011-15625.
+
+### Arts. 115 a 119
+
+Artículos 115 a 119.
+(Derogado)
+Se derogan, con efectos de 31 de julio de 2015, por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Artículo 115
+
+Artículo 115. Regularización de buques.
+Se establece un procedimiento de regularización de las inscripciones en el Registro de Buques y Empresas Navieras, dependiente del Ministerio de Fomento, así como en el Censo de la Flota Pesquera Operativa, dependiente del Ministerio de Medio Ambiente, y Medio Rural y Marino, de aquellas embarcaciones de pesca en las que el material del casco, la potencia propulsora o los valores de eslora, manga, puntal o arqueo no coincidan con sus correspondientes datos registrales, que cumplan las condiciones establecidas en esta Ley.
+Se renumera por el art. único.18 y quedará derogado a partir de 31 de julio de 2015 por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Su anterior numeración era art. 109.
+
+### Artículo 116
+
+Artículo 116. Condiciones de regularización.
+1. Se podrán acoger a este procedimiento los armadores o propietarios que hubieran presentado en plazo la solicitud de regularización en el marco de la Ley 9/2007, de 22 de junio, sobre regularización y actualización de inscripciones de embarcaciones pesqueras en el Registro de Buques y Empresas Navieras y en el Censo de la Flota Pesquera Operativa, y no fueron admitidas a trámite o hubieran sido desestimadas en virtud de lo establecido en el artículo 3 de la citada Ley. Este procedimiento será de aplicación a los expedientes instruidos y pendientes de aportación de bajas o resueltos cuya eficacia quedó demorada hasta el momento de la aportación de bajas.
+2. Podrán acogerse también, aquellos propietarios o armadores de embarcaciones que hubiesen presentado su solicitud antes del 31 de diciembre de 2007, en la regularización citada en el párrafo primero.
+3. En ningún caso la regularización o actualización del Censo o Registro perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del asiento que se rectifique.
+Se renumera por el art. único.18 y quedará derogado a partir de 31 de julio de 2015 por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Su anterior numeración era art. 110.
+
+### Artículo 117
+
+Artículo 117. Requisitos para la aportación de bajas.
+1. En el supuesto de que las variaciones producidas respecto a los datos inscritos supongan un incremento del arqueo o la potencia propulsora de la embarcación, sus propietarios o armadores deberán aportar como baja las unidades pesqueras operativas necesarias para compensar dichos incrementos, de acuerdo con los criterios aplicables a la construcción y modernización de buques pesqueros establecidos en el Real Decreto 1549/2009 de 9 de octubre, sobre ordenación del sector pesquero y adaptación al Fondo Europeo de la Pesca, con excepción de lo previsto en el artículo 3.c) de dicho Real Decreto. Se admitirá una tolerancia en arqueo de 1,00 GT para embarcaciones menores de 10 metros de eslora total y de 0,8 GT para las restantes, y hasta 20 caballos de vapor en ambos casos.
+2. Las bajas necesarias se aportarán en el plazo que se establezca por la autoridad competente para la resolución del expediente, pudiendo proceder de cualquier censo por modalidades de pesca o caladero sin limitación de puerto base y admitiéndose la aportación de una o varias bajas, que necesariamente serán desguazadas, para la regularización de varias embarcaciones.
+3. Durante el periodo de aportación de bajas ninguno de los datos registrales podrá sufrir variaciones, a excepción de los cambios de titularidad por motivos de fallecimiento o incapacidad permanente del propietario.
+El incumplimiento de lo establecido en el parágrafo anterior supondrá la resolución desestimatoria de la regularización solicitada.
+4. Los buques regularizados con la aportación de las bajas correspondientes deberán ejercer la actividad pesquera de forma continuada y permanecer de alta en el Censo de la Flota Pesquera Operativa y en el Registro de Buques y Empresas Navieras, durante al menos dos años desde la anotación de las nuevas dimensiones en la hoja de asiento, para poder ser aportados como baja en los procedimientos de construcción o modernización de buques pesqueros o para poder recibir ayudas a la paralización definitiva de las actividades pesqueras y siempre que reúnan los requisitos establecidos para ello.
+5. En defecto de aportación de la baja correspondiente resultante de los procedimientos instruidos en el marco de la Ley 9/2007, de 22 de junio, y de esta Ley, se procederá a la anotación de las características reales en el Registro de Buques y Empresas Navieras y en el Censo de la Flota Pesquera Operativa. A partir de dicha anotación ninguno de los datos registrales podrá sufrir variación hasta su baja definitiva, a excepción de los cambios de titularidad por motivos de fallecimiento o incapacidad permanente del propietario, trasmisión ínter vivos entre familiares de primer grado que no sean titulares de otra embarcación o modificaciones técnicas justificativas que sean certificadas por la autoridad competente del puerto base. Estas embarcaciones no podrán recibir ningún tipo de ayuda pública ni ser aportadas como baja en ningún caso durante su vida útil, al final de la cual deberán ser desguazadas sin ninguna subvención, lo que figurará anotado en los anteriores registros.
+6. No obstante, si una vez realizada la anotación de las características reales a que hace referencia el apartado anterior, el armador aportara las bajas correspondientes a las diferencias existentes entre los datos reales anotados y los datos registrales anteriores, conforme a lo establecido en el artículo 53.3 del Real Decreto 1549/2009, de 9 de octubre, los efectos restrictivos establecidos en el apartado anterior quedarán anulados.
+Se renumera por el art. único.18 y quedará derogado a partir de 31 de julio de 2015 por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Su anterior numeración era art. 111.
+
+### Artículo 118
+
+Artículo 118. Procedimiento.
+Los Ministerios de Medio Ambiente, y Medio Rural y Marino y de Fomento, consultadas las Comunidades Autónomas afectadas, establecerán el procedimiento administrativo para la tramitación y resolución de la regularización.
+Se renumera por el art. único.18 y quedará derogado a partir de 31 de julio de 2015 por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Su anterior numeración era art. 112.
+
+### Artículo 119
+
+Artículo 119. Efectos de la regularización.
+Aquellos armadores o propietarios de buques, incluidos en el ámbito de aplicación del artículo 110 que no soliciten su regularización, serán dados de baja provisional en el Censo de la Flota Pesquera Operativa, no pudiendo realizar actividad pesquera alguna.
+Se renumera por el art. único.18 y quedará derogado a partir de 31 de julio de 2015 por la disposición derogatoria única de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+ Su anterior numeración era art. 113.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Órganos de coordinación y consulta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 5/2023, de 17 de marzo. Ref. BOE-A-2023-7052#dd
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Título competencial.
+1. Constituyen legislación de pesca marítima y se dictan al amparo del artículo 149.1.19.ª de la Constitución, el título I y los artículos 57 (y concordantes reguladores del Registro General de la Flota Pesquera), 89 a), 90 en el ámbito de sus competencias, 95 en el ámbito de la pesca marítima en aguas exteriores, 97 a 101, 105 a 110, 112, 114, disposiciones adicionales primera y sexta y disposición transitoria única.
+2. Constituyen legislación básica de ordenación del sector pesquero y se dictan al amparo del artículo 149.1.19.ª de la Constitución el título II, salvo el artículo 57 (y concordantes reguladores del Registro General de la Flota Pesquera), el capítulo V en materia de trazabilidad y control, y el capítulo VI; y los artículos 89 b), 90 en el ámbito de sus competencias, 102 a 106, 111.1, 113 y disposición adicional quinta.
+3. Constituyen legislación básica de ordenación de la actividad comercial y se dictan al amparo del artículo 149.1.13.ª de la Constitución, el título III y los artículos 89 b), 103 a), c), d), j), m) y q), 104 a) y c), 105 apartado 1 letras a), b), c), e), g), h), i) y l), y apartados 2 y 3, 106, 111.2, 113 y disposición adicional quinta.
+El capítulo V del título II se dicta al amparo del mencionado artículo 149.1 en su regla 13.ª en materia de trazabilidad y control, y conjuntamente con la 19.ª, que atribuye al Estado competencia exclusiva en materia de ordenación del sector pesquero, en el ámbito de sus competencias.
+El capítulo VI del título II se dicta al amparo del mencionado artículo 149.1 en su regla 13.ª, conjuntamente con la 20.ª, que atribuye al Estado competencia exclusiva en materia de marina mercante.
+4. Constituyen bases del régimen jurídico de las Administraciones públicas y se dictan al amparo del artículo 149.1.18.ª de la Constitución, los artículos 91, 92, 93, 94, 95 en los ámbitos de ordenación del sector pesquero y de ordenación de la actividad comercial, y 96.
+5. El título IV se dicta al amparo de la competencia del Estado sobre el fomento y la coordinación general de la investigación científica y técnica, de acuerdo con el artículo 149.1.15.ª de la Constitución.
+Se modifica por el art. único.20 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Transmisión de datos.
+1. Los Ministerios de Agricultura, Alimentación y Medio Ambiente y de Fomento, establecerán los mecanismos de coordinación y de traspaso de información precisos entre el Registro General de la Flota Pesquera y el Registro de Buques y Empresas Navieras. Ambos Ministerios garantizarán un acceso recíproco, permanente y directo a los datos necesarios existentes en ambos Registros, a efectos de consulta.
+El Ministerio de Fomento requerirá un informe previo del Ministerio de Agricultura, Alimentación y Medio Ambiente sobre cualquier modificación en las anotaciones de la lista tercera y cuarta del Registro de Buques y Empresas Navieras.
+2. De igual forma, el Ministerio de Agricultura, Alimentación y Medio Ambiente, el Ministerio de Fomento y el Ministerio de Empleo y Seguridad Social procederán a facilitarse mutuamente la información de sus registros y bases de datos a efectos de consulta, y establecerán los mecanismos de coordinación y de traspaso de información necesarios respecto a las empresas con buques pesqueros y trabajadores inscritos en el Régimen Especial de la Seguridad Social del Mar.
+Se modifica por el art. único.21 de la Ley 33/2014, de 26 de diciembre. Ref. BOE-A-2014-13516.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Importaciones de productos pesqueros.
+Corresponde al Ministerio de Agricultura, Pesca y Alimentación, sin perjuicio de las competencias concurrentes de otros Departamentos, el control de los productos pesqueros procedentes de países no comunitarios con ocasión de su desembarque o descarga en territorio nacional. A estos efectos y demás derivados de la competencia estatal sobre comercio exterior, el Gobierno designará los puertos y lugares de desembarque o descarga autorizados.
+Los capitanes de buques de pesca que enarbolen pabellón de un país tercero y los consignatarios de los productos pesqueros procedentes de dichos países, deberán comunicar el puerto o lugar y la hora prevista de desembarque o descarga, no pudiendo efectuarse la operación si el Ministerio de Agricultura, Pesca y Alimentación no confirma haber recibido dicha comunicación anticipada.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Tenencia ilegal de especies.
+La tenencia de especies prohibidas o de talla o peso inferior a lo reglamentado por alguna persona en mercado, tienda, almacén, establecimiento u otro lugar, contenedor u objeto de análogas características, o por vendedor ambulante en cualquier sitio, se considerará posesión con fines de comercialización o venta, salvo prueba en contrario.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Silencio administrativo en materia de autorizaciones de pesca.
+En cumplimiento de lo previsto en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, el vencimiento del plazo máximo para resolver las solicitudes de autorizaciones de pesca marítima se entenderá como silencio administrativo negativo.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Legislación en vigor.
+1. La aplicación de la presente Ley se llevará a cabo sin perjuicio de la vigencia de las siguientes leyes:
+a) Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+b) Ley 14/1986, de 25 de abril, General de Sanidad.
+c) Ley 22/1988, de 28 de julio, de Costas.
+d) Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+e) Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+2. Esta Ley se dicta, asimismo, sin perjuicio de lo establecido en las normas sanitarias aplicables a la producción y comercialización de los moluscos bivalvos vivos, de los productos pesqueros y de la acuicultura.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Pesca de litoral y pesca marítima de recreo.
+1. Se establecerán cauces de colaboración y, en su caso, hacer uso de las correspondientes previsiones constitucionales, a los efectos de implantar una actuación administrativa unificada en el ámbito de la pesca marítima de litoral que tenga por objeto una mayor eficacia de las actuaciones públicas. Se entiende por pesca marítima de litoral la flota pesquera que realiza mareas de duración inferior a veinticuatro horas.
+2. Asimismo, en relación con la pesca marítima de recreo el Ministerio de Agricultura, Pesca y Alimentación y las Comunidades Autónomas podrán establecer convenios de colaboración o convenios de encomienda de gestión, al objeto de garantizar el cumplimiento de las medidas de protección, conservación y mejora de los recursos pesqueros en el ámbito de sus respectivas competencias.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Censos publicados antes de la entrada en vigor de esta ley.
+1. A la entrada en vigor de la presente Ley seguirán vigentes los censos publicados en el "Boletín Oficial del Estado", así como las posibilidades de pesca que en los mismos se reconocen a las empresas o asociaciones de empresas titulares de los buques incluidos en dichos censos, hasta la elaboración de los nuevos censos de conformidad con lo establecido en el artículo 26 de esta Ley.
+2. Los propietarios o armadores cuyos buques pesqueros no figuran incluidos en el Censo de la Flota Pesquera Operativa, creado por Orden Ministerial de 30 de enero de 1989, podrán solicitar la reactivación de su embarcación en el plazo máximo de seis meses contados a partir de la entrada en vigor de la Ley 62/2003, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, siempre que cumplan con las disposiciones vigentes establecidas al efecto.
+Se modifica por el art. 112.13 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Disposición transitoria única
+
+Disposición transitoria única. Aplicación de la legislación más favorable.
+Las infracciones cometidas durante la vigencia de la Ley 14/1998, de 1 de junio, por la que se establece el régimen de control para la protección de los recursos pesqueros, serán objeto de la sanción que resulte más favorable para el presunto infractor.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley, y expresamente la siguiente norma: Ley 14/1998, de 1 de junio, por la que se establece el régimen de control para la protección de los recursos pesqueros.
+
+### Disposición final primera
+
+Disposición final primera. Actualización de sanciones.
+Se faculta al Gobierno para actualizar, por Real Decreto, el importe de las sanciones previstas en esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+Se autoriza al Gobierno y, en su caso, al Ministro de Agricultura, Pesca y Alimentación, en el ámbito de sus competencias, para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente Ley.
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 26 de marzo de 2001.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

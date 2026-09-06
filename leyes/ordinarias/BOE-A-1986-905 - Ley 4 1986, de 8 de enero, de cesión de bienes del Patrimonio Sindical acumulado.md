@@ -1,0 +1,169 @@
+# Ley 4/1986, de 8 de enero, de cesión de bienes del Patrimonio Sindical acumulado.
+
+- Identificador BOE: `BOE-A-1986-905`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-905
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 37, de 12 de febrero de 1986. Ref. BOE-A-1986-3778
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+Exposición de Motivos
+1. Dos son los problemas fundamentales cuya solución aborda la presente Ley; por una parte, el grave y complejo problema de la titularidad de los bienes y derechos procedentes de la antigua Organización Sindical y de las demás Entidades Sindicales anteriores al nuevo sistema de libertad y pluralidad sindicales consagrado por la Constitución y, por otra, el contenido histórico derivado de la incautación de los bienes de las Organizaciones Sindicales democráticas, como consecuencia de la guerra civil española, al tener que cumplir, hoy día, con las funciones que la propia Norma fundamental española les reconoce y garantiza.
+Y al abordar ambas cuestiones, se han tenido siempre presentes los principios de seguridad jurídica y de respeto a esa misma libertad sindical.
+Con ello, el Gobierno, al patrocinar esta norma mediante su iniciativa legislativa, cumple el compromiso que adquirió en el Acuerdo Económico y Social, elaborando el oportuno Proyecto de Ley, tras haber consultado a las Organizaciones Sindicales y Empresariales más representativas.
+2. Se han venido realizando, desde la Administración, asignaciones particulares a los Sindicatos y Organizaciones Empresariales de concretos y determinados bienes, con el fin de permitirles cumplir mejor sus fines propios cerca de los trabajadores o empresarios respectivos. Sin embargo, estas cesiones tenían lugar fuera de un marco generar normativo que las regulase adecuadamente y se hacía, consecuentemente, imprescindible llevar a cabo una normación específica que viniera a configurar de manera clara la posibilidad de asignar a los sujetos de las actividades sindicales el uso de aquellos bienes, en base a las funciones que la propia Constitución les asigna.
+3. En primer término, se persigue dar un único y coherente tratamiento jurídico al actual estado de desconexión en que los originarios patrimonios de naturaleza sindical se encuentren y, para ello, bajo una rúbrica de Patrimonio Sindical acumulado, consagrada por la continuada práctica sindical y reflejada, incluso, en textos internacionales, se integran dos grandes conjuntos patrimoniales que, al desaparecer la antigua Organización Sindical, habían perdido su anterior relación: el propio de dicha Organización Sindical, por una parte, y los varios patrimonios de otros tantos variados Entes que, pese a depender jerárquica u organizativamente de aquélla, tenían, no obstante, un patrimonio separado, propio y exclusivo.
+Por otro lado, una vez reunidos todos esos conjuntos patrimoniales, la cuestión de la atribución de la titularidad sobre ellos, con carácter único aparece como obligado corolario en atención al principio de seguridad jurídica. La solución jurídica a los diferentes patrimonios sindicales, aunados en la categoría del Patrimonio Sindical Acumulado, exige atribuir su titularidad unitariamente a la Administración del Estado, mas no con el carácter global de bienes de dominio público por faltar en aquellos elementos patrimoniales la suficiente coherencia interna, cualitativa y teleológica para ello. El régimen jurídico uniforme de tales bienes ha de ser, por el contrario, el derivado de- su inclusión dentro del Patrimonio del Estado.
+De igual manera, el mismo principio de seguridad jurídica exigirá también dejar a salvo de la integración armonizadora que se establece por ministerio de la Ley para todos los patrimonios de origen o naturaleza sindical, a aquellas titularidades jurídicas que con anterioridad ya se hubieran consolidado legalmente en poder de terceras personas, tanto físicas como jurídicas, públicas o privadas.
+4. El particular régimen jurídico de Patrimonio Sindical Acumulado dentro del restante Patrimonio del Estado, habrá de estar delimitado por la finalidad de su posible cesión en uso a los Sindicatos de trabajadores y a las Organizaciones Empresariales. La admisibilidad genérica de las cesiones gratuitas de bienes a los Sindicatos por parte de la Administración, ha sido, admitida inequívocamente, por lo demás, por el Tribunal Constitucional, quien en su Sentencia, de la Sala Segunda, 99/1983, de 16 de noviembre, fundamento 2, señaló que «en sí misma considerada la cesión de locales a unas Centrales Sindicales para el ejercicio de las funciones que les son propias no puede considerarse atentatoria a la libertad sindical». Y, como correlato necesario de esta posibilidad genérica de cesión, será imprescindible definir el completo marco en el que estas especiales cesiones jurídico administrativas habrían de tener cabida. Asimismo, parece conveniente enmarcar esta Ley dentro de las directrices que establece la Ley Orgánica de Libertad Sindical, como por la doctrina jurisprudencial mantenida por el Tribunal Constitucional, en su sentencia número 98/1985, de 29 de julio.
+El criterio subjetivo desencadenante de las cesiones habría de ser el que con tal carácter figura en la correspondiente Ley Orgánica de Libertad Sindical. Los destinatarios de las cesiones del Patrimonio Sindical Acumulado serán congruentemente, los Sindicatos y preferentemente los más representativos, en proporción a su representatividad. El criterio, por lo demás, se complementará con la posterior referencia a las Organizaciones Empresariales.
+En el ámbito formal, la Ley ha configurado un particular régimen jurídico administrativo para estas cesiones, tildándolas de jurídicamente limitadas, gratuitas y, sobre todo, causales, sirviendo como pauta de definición jurídica el criterio teleológico o de la finalidad a la que los bienes y derechos constitutivos del Patrimonio Sindical Acumulado sirvieron en su momento, criterio este destacado por el Comité de Libertad Sindical de la OIT, singularmente en el caso número 900. Por lo demás, la articulación formal de estas cesiones obliga, por un lado, a que se forme por la Administración un inventario fiel y exacto de todo el activo y pasivo del Patrimonio Sindical Acumulado; camino imprescindible para cualquier intento de solución adecuada; y, en segundo lugar, a que se constituya en el seno de la propia organización administrativa un órgano encargado de la gestión directa cerca de la Autoridad decisoria de todo el régimen de entregas limitadas que se prevé, contando con la participación institucional de los Sindicatos y Organizaciones Empresariales.
+5. Por otra parte, utilizando el cauce formal que le ofrece la regulación del Patrimonio Sindical Acumulado, el legislador ha querido, sin embargo, regular aquellos bienes y derechos que en su día fueron incautados a los Sindicatos, de manera que se restituya a éstos en el presente lo que otrora se les incautó. Para ello, se exigirá, no obstante, un doble condicionamiento, subjetivo y objetivo. Subjetivamente, la restitución se hará a los Sindicatos que acrediten ser los legítimos sucesores de los que en su momento existieron, dando a la expresión «sucesor» el sentido que le confieren los reiterados informes del propio Comité de Libertad Sindical de la OIT. Objetivamente, la restitución alcanzaría a los propios bienes que en su momento se incautaron, de ahí que si esta restitución no fuera ya posible, bien por haber pasado los bienes a poder de terceros, bien por haber aquéllos desaparecido o sufrido alteraciones sustanciales que impidan su concordancia íntegra con los bienes originarios, el Estado compensaría su valor a los Sindicatos en cuestión.
+6. En definitiva, se ha tratado de solucionar, mediante el instrumento normativo del mayor rango, la cesión a las Organizaciones Sindicales y Empresariales de los bienes integrantes del denominado Patrimonio Sindical Acumulado y la devolución o, en su caso, compensación de los bienes del denominado Patrimonio Sindical Histórico, compatibilizando los principios, por una parte, de libertad y representatividad sindical y, por otra, de seguridad jurídica.
+Redactados los apartados 1 y 4 conforme a la corrección de errores publicada en BOE núm. 37, de 12 de febrero de 1986. Ref. BOE-A-1986-3778
+
+### Artículo primero
+
+Artículo primero.
+Uno. Constituyen el Patrimonio Sindical Acumulado, todos los bienes, derechos y obligaciones de contenido patrimonial, que habiendo pertenecido a la antigua Organización Sindical se transfirieron íntegramente al Organismo Autónomo Administración Institucional de Servicios Socio-Profesionales por virtud del Real Decreto-Ley 19/1976, de 8 de octubre, así como todos aquellos que constituían los patrimonios privativos de los antiguos Sindicatos y demás Entidades Sindicales que, conforme a la Ley Sindical 2/1971, de 17 de febrero, tenían personalidad jurídica propia.
+Dos. El Patrimonio Sindical Acumulado se integra en el Patrimonio del Estado, subrogándose la Administración del Estado en las titularidades activas y pasivas, referidas a tales patrimonios en los mismos términos que correspondieran a los anteriores Entes titulares.
+Tres. La certificación administrativa expedida por el Ministerio de Trabajo y Seguridad Social será título suficiente para inmatricular en el Registro de la Propiedad a favor de la Administración del Estado los inmuebles que no estén inscritos a favor de persona alguna, con arreglo a lo que dispone la Ley Hipotecaria. Tratándose de bienes inscritos a nombre de personas distintas de la Administración del Estado que, con arreglo a la Ley, hayan pasado a pertenecer a ésta, bastará con la solicitud dirigida por el citado Ministerio al Registrador de la Propiedad para inscribirlos a nombre de la Administración del Estado.
+
+### Artículo segundo
+
+Artículo segundo.
+De la integración establecida en el artículo anterior se exceptuarán únicamente los bienes y derechos cuya titularidad dominical con anterioridad a la entrada en vigor de la presente Ley, hubiera sido legítimamente adquirida por terceros o hubiese sido transferida, con arreglo a las disposiciones vigentes en cada caso.
+
+### Artículo tercero
+
+Artículo tercero.
+Los bienes y derechos a que se refiere el artículo primero de la presente Ley, serán objeto de cesión en uso en favor de los Sindicatos de Trabajadores y de las Asociaciones Empresariales, con preferencia de quienes ostenten la condición de más representativos con arreglo a lo dispuesto en la Ley Orgánica 11/1985, de Libertad Sindical, y el resto del Ordenamiento Jurídico. Los bienes, derechos y obligaciones del Patrimonio Sindical Acumulado que no sean cedidos a los Sindicatos y Asociaciones Empresariales, ni retenidos para la finalidad a que se refiere el artículo 4.1 de la presente Ley, quedarán integrados en el Patrimonio del Estado y sujetos en todo a las disposiciones de su Ley Reguladora, previa la realización del inventario a que hace referencia la disposición adicional primera de la presente Ley.
+
+### Artículo cuarto
+
+Artículo cuarto.
+Uno. La distribución entre los distintos adjudicatarios de los bienes integrantes del Patrimonio Sindical Acumulado se hará conforme al criterio de finalidad a que estuvieron destinados dichos bienes en la antigua Organización Sindical y en los demás Entes Sindicales Personificados.
+Dos. El objeto de las cesiones a los Sindicatos de Trabajadores y Organizaciones Empresariales es el de satisfacer directamente sus necesidades de funcionamiento y organización y, en especial, las de aquellos, que por su condición de más representativos, deban cumplir las funciones que les atribuye la Ley Orgánica de Libertad Sindical y el resto del Ordenamiento Jurídico.
+
+### Artículo quinto
+
+Artículo quinto.
+El régimen jurídico de las cesiones de los bienes y derechos integrantes del Patrimonio Sindical Acumulado se ajustará a las reglas siguientes:
+Uno. Las cesiones atribuirán a las entidades beneficiarias y a las federadas en ellas el derecho a utilizar los bienes conforme a su destino, con arreglo a las normas generales del Ordenamiento Jurídico administrativo, no pudiendo, el cesionario transmitir o ceder a terceros, por ningún título, todo o parte de los bienes cedidos, ni alterar, en modo alguno, los requisitos y términos de la cesión. En cualquier caso, la propiedad seguirá perteneciendo al Patrimonio del Estado, y así se hará constar, en su caso, en el Registro de la Propiedad al inscribir los títulos atributivos de las correspondientes cesiones.
+Dos. La preferencia a que se refiere el artículo tres y las cesiones efectuadas en virtud de la misma, estarán supeditadas siempre al mantenimiento de la condición de más representativa de la entidad beneficiaría correspondiente, caducando, en todo caso, por incumplimiento de los requisitos a los que se condicionó su otorgamiento.
+Tres. Las cesiones tendrán carácter gratuito, debiendo reintegrarse los bienes en el mismo estado originario en el que fueron cedidos. Sin perjuicio de ello, el retorno de los bienes se hará con todas las accesiones y con todas las mejoras necesarias y útiles que hubiesen experimentado, quedando todo ello en favor del Patrimonio del Estado.
+Todos los gastos derivados del uso y mantenimiento de los bienes cedidos serán a cargo de los respectivos cesionarios. Sin embargo, si se tratase de cargas o gravámenes de naturaleza tributaria, se estará a lo previsto en cada caso por las respectivas normas tributarias aplicables.
+Cuatro. Las cesiones se efectuarán de acuerdo con criterios de distribución geográfica por Comunidades Autónomas, con las correcciones de carácter provincial o, en su caso, local, precisas para asegurar siempre la adecuada distribución entre las diferentes entidades beneficiarias, en atención a su representatividad global.
+Cinco. Si las cesiones comprendieran bienes inmuebles, se efectuarán en las condiciones técnicas y jurídicas que permitan la utilización adecuada de los bienes por los cesionarios conforme a la presente Ley.
+
+### Artículo sexto
+
+Artículo sexto.
+El régimen jurídico de la gestión de los bienes y derechos integrantes del Patrimonio Sindical Acumulado, se ajustará a las reglas siguientes:
+Uno. Los actos administrativos de gestión, cesión, alteración y revocación relativos a los bienes y derechos del Patrimonio Sindical Acumulado serán dictados por el Ministro de Trabajo y Seguridad Social, oída en todo caso la Comisión Consultiva.
+Dos. La Comisión Consultiva dependerá del Ministro de Trabajo y Seguridad Social y se integrará por representantes de la Administración del Estado y de las Organizaciones Sindicales y Empresariales más representativas.
+Tres. Corresponde a la Comisión Consultiva:
+a) Efectuar propuestas de cesiones de los bienes y derechos a que se refiere esta Ley.
+b) Informar las solicitudes de cesiones de bienes y derechos que presenten los interesados.
+c) Informar las alteraciones y revocaciones que hayan de experimentar los actos administrativos de cesión.
+d) Conocer e informar de la gestión que las entidades beneficiarias efectúen, respecto dé los bienes cedidos, proponiendo la adopción de las medidas que considere pertinentes.
+e) Conocer de las sustituciones y permutas del patrimonio que se vayan a efectuar.
+Se declara la inconstitucionalidad del inciso destacado del apartado 2 por Sentencia del TC 183/1992, de 16 de noviembre. Ref. BOE-T-1992-27981
+
+### Articulo séptimo
+
+Articulo séptimo.
+1. La adquisición a título oneroso de los bienes inmuebles para el cumplimiento de los fines previstos en esta Ley se efectuará por el Ministerio de Trabajo y Seguridad Social mediante concurso público, salvo que, en atención a las peculiaridades de las necesidades a satisfacer o la urgencia de la adquisición a efectuar, el Ministro de Trabajo y Seguridad Social autorice la adquisición directa.
+2. La enajenación de bienes inmuebles integrados en el Patrimonio Sindical Acumulado se realizará por el Ministerio de Trabajo y Seguridad Social cuando su valor, según tasación pericial, no exceda de 2.000 millones de pesetas, o por el Gobierno, cuando sobrepasando dicha cuantía no exceda de 4.000 millones de pesetas. La enajenación de los bienes inmuebles, valorados en más de 4.000 millones de pesetas, deberá ser autorizada mediante Ley.
+La enajenación de los bienes inmuebles se realizará mediante subasta pública, salvo cuando el Consejo de Ministros, a propuesta del Ministro de Trabajo y Seguridad Social, autorice su enajenación directa. Cuando se trate de bienes de valor no superior a 1.000 millones de pesetas, la enajenación directa deberá ser autorizada por el Ministro de Trabajo y Seguridad Social.
+3. El importe de la enajenación de bienes integrados en el Patrimonio Sindical Acumulado se destinará a la adquisición de bienes de valor equivalente, obras de construcción, conservación, reforma, acondicionamiento y mejora de los bienes del Patrimonio Sindical Acumulado y, en general, a las finalidades previstas en esta Ley y en su Reglamento ejecutivo.
+Asimismo, se destinará al pago de los arrendamientos a que se refiere la disposición adicional novena de la presente Ley.
+4. Asimismo podrán permutarse, mediante autorización del Ministerio de Trabajo y Seguridad Social, bienes inmuebles integrados en el Patrimonio Sindical Acumulado por bienes de valor equivalente pertenecientes a otras personas con igual finalidad que la expresada en el número anterior.
+5. La Comisión Consultiva Tripartita será oída, en todo caso, en los actos de disposición a que se refiere el presente artículo.
+Se modifica el apartado 3 por la disposición final 1.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+ Se modifica por el art. 129 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+ Se modifica el párrafo segundo por el art. 27 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+
+### Artículo octavo
+
+Artículo octavo.
+Todo acto contrario a lo dispuesto en la presente Ley para las cesiones patrimoniales referidas, será nulo de pleno derecho, tanto si se trata de actos de la Administración, como de los cesionarios.
+
+### DISPOSICIÓN TRANSITORIA
+
+Las cesiones del uso de bienes a los que se refiere la presente Ley, que hubiesen sido efectuadas con anterioridad a la entrada en vigor de la misma, deberán ser objeto de la correspondiente regularización mediante Resolución dictada por el Ministro de Trabajo y Seguridad Social, previo informe de la Comisión Consultiva, prevista en el artículo sexto.
+
+## DISPOSICIONES ADICIONALES
+
+### Primera
+
+Primera.
+En el plazo de dieciocho meses, la Administración confeccionará un Inventario actualizado de todos los bienes, derechos y obligaciones que componen el Patrimonio Sindical Acumulado, oída en todo caso la Comisión Consultiva del artículo sexto.
+
+### Segunda
+
+Segunda.
+Se autoriza al Gobierno para desarrollar reglamentariamente cuanto se establece en la presente Ley, pudiendo, incluso, determinar que las cesiones se refieran sólo a bienes de naturaleza inmobiliaria. En todo lo no previsto en esta Ley y en sus disposiciones reglamentarias de desarrollo, se aplicará supletoriamente la legislación reguladora del Patrimonio del Estado.
+
+### Tercera
+
+Tercera.
+Sin perjuicio de lo dispuesto en la presente Ley, el Patrimonio de aquellas corporaciones de derecho público, creadas al amparo de la Disposición Adicional Segunda del Real Decreto-Ley 31/1977, de 2 de junio, que con posterioridad a la entrada en vigor de la presente Ley, quedaren extinguidas en virtud de disposición legal, se incorporara al Patrimonio Sindical Acumulado una vez practicadas las operaciones que prevea la correspondiente ley extintiva, aplicándose, en todo caso, para su cesión en uso el criterio de finalidad, establecido en el artículo 4.1 de la presente Ley.
+
+### Cuarta
+
+Cuarta.
+(Anulado).
+Se declara inconstitucional y nula, con el alcance establecido en el fundamento jurídico 5, en la redacción dada por el Real Decreto-Ley 13/2005, de 28 de octubre. Ref. BOE-A-2005-18073 por Sentencia 125/2016, de 7 de julio. Ref. BOE-A-2016-7732.
+ Se modifica por el art. único del Real Decreto-Ley 13/2005, de 28 de octubre. Ref. BOE-A-2005-18073
+
+### Quinta
+
+Quinta.
+Todos los actos o negocios que hayan de efectuarse, por virtud de lo dispuesto en la presente Ley, estarán exentos de tributación. Los instrumentos públicos y los asientos que, en su caso, se practiquen en el Registro de la Propiedad u otros Registros Públicos, gozarán de los mismos beneficios que los establecidos en favor del Estado en la legislación vigente respecto a los honorarios que hubieren de satisfacerse.
+
+### Sexta
+
+Sexta.
+Queda suprimido el Organismo Autónomo Administración Institucional de Servicios Socioprofesionales, subrogándose la Administración del Estado en todas las titularidades jurídicas activas y pasivas que con anterioridad correspondían a aquél.
+
+### Séptima
+
+Séptima.
+Los cambios de titularidad que se produzcan en los contratos de arrendamiento, como consecuencia de lo dispuesto en la presente Ley, no darán por si solos derecho al arrendador para extinguir o renovar el contrato.
+
+### Octava
+
+Octava.
+1. Corresponde al Ministro de Trabajo y Asuntos Sociales autorizar, previo informe de la Intervención Delegada en el Departamento, las generaciones de crédito contempladas en los apartados b) y c) del artículo 71 del texto refundido de la Ley General Presupuestaria, motivadas por ingresos procedentes de la enajenación y de la explotación de los bienes y derechos integrantes del Patrimonio Sindical Acumulado, y las incorporaciones de los créditos generados por las operaciones anteriormente descritas.
+2. Los remanentes incorporados según lo prevenido en el apartado anterior podrán ser aplicados dentro del ejercicio presupuestario en que la incorporación se acuerde o en los ejercicios subsiguientes.
+Se añade por el art. 146 de la Ley 13/1996, de 30 de diciembre. Ref. BOE-A-1996-29117
+
+### Novena
+
+Novena. Arrendamientos.
+A fin de garantizar la seguridad de las personas e inmuebles y atender las necesidades de espacios para uso vinculado a los fines de esta Ley, el Ministerio de Empleo y Seguridad Social podrá arrendar inmuebles para su posterior cesión en uso a sindicatos de trabajadores y organizaciones empresariales en los términos previstos en el artículo tercero de la presente Ley.
+Esta facultad se podrá utilizar en los siguientes supuestos:
+a) Cuando, por la realización de una obra de carácter estructural e inaplazable, sea necesario desalojar un edificio adscrito a Patrimonio Sindical Acumulado cedido a interlocutores sociales y durante el tiempo que medie hasta la recepción final de la obra.
+b) Cuando los edificios de que es titular el Estado a los fines de esta Ley no reúnan las condiciones de habitabilidad normativamente exigibles para su uso como centro de trabajo, ni sea posible realizar obras de rehabilitación de los mismos.
+Los contratos de arrendamiento tendrán una vigencia máxima de 5 años.
+En todo caso, la cesión de inmuebles arrendados para los usos citados se ajustará al procedimiento previsto en esta Ley
+Se añade por la disposición final 1.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
+
+### DISPOSICIÓN FINAL
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley, que entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 8 de enero de 1986.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

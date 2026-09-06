@@ -1,0 +1,173 @@
+# Ley 10/2009, de 20 de noviembre, de creación del Comité Valenciano para los Asuntos Europeos.
+
+- Identificador BOE: `BOE-A-2009-20073`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2009-20073
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+I
+En los últimos veinte años, el proceso de integración europea se ha visto inmerso en un importante proceso de ampliación geográfica y de profundización, que se ha traducido no solo en una progresiva asunción de competencias por parte de la actualmente denominada Unión Europea, sino en una participación, cada vez mayor, en el proceso de adopción de las decisiones comunitarias, de los entes regionales.
+Desde la Unión Europea se han dado pasos significativos para integrar progresivamente la diversidad regional en la vida de la Unión Europea. Fruto de ello fue la creación, en 1994, del Comité de las Regiones, como órgano consultivo integrado por representantes de las autoridades regionales y locales de Europa. Así mismo, la redacción dada por el Tratado de Maastrich al artículo 203 del Tratado Constitutivo de la Comunidad Europea, ha permitido que en las delegaciones nacionales en el Consejo de la Unión puedan participar las autoridades regionales, siempre que una normativa interna del Estado miembro lo permita. En este sentido, en España, tras los acuerdos de la Conferencia para Asuntos Relacionados con las Comunidades Europeas (CARCE), de diciembre de 2004, se ha articulado un sistema que permite la participación de las comunidades autónomas en el Consejo de Ministros de la Unión Europea, otorgándoles una excelente oportunidad de estar presentes en una institución esencial en el proceso decisorio de la Unión.
+Existen otros ejemplos de las vías que se han ido abriendo para fomentar el papel de las regiones en el proceso de integración europeo, por ejemplo, la interlocución habitual entre la Comisión Europea y las oficinas en Bruselas de representación de las regiones; o la posibilidad de que, ocasionalmente, se utilicen a otras lenguas oficiales de los estados miembros y que no están reconocidas como lenguas oficiales de la Unión Europea. Sin olvidar tampoco la posibilidad de que las regiones puedan acceder al Tribunal de Justicia de la Unión en defensa de sus derechos e intereses.
+La Generalitat es consciente de la influencia cada vez mayor de la acción de la Unión Europea en todos los ámbitos de la vida jurídica, económica, social y medioambiental de los ciudadanos valencianos, y en numerosos ámbitos de actuación del Consell.
+En la actualidad, tras las sucesivas reformas de los tratados constitutivos de las comunidades europeas, y la profundización en el proceso de integración, la acción de las instituciones europeas va más allá de las funciones de contenido puramente económico de sus orígenes, y afecta a múltiples aspectos de la vida cotidiana de los ciudadanos. Hoy en día, además de las políticas estrechamente vinculadas con la configuración de un mercado común sin fronteras interiores, como la política de transportes, la agricultura, la política aduanera y comercial, otras muchas materias ocupan la agenda de las instituciones europeas. La Unión Europea del siglo XXI debe afrontar retos importantes, como el control y la coordinación de los flujos migratorios, la cooperación al desarrollo para hacer frente a la pobreza en el mundo, la lucha contra el terrorismo y el crimen organizado a escala supranacional, la participación en las misiones humanitarias de restablecimiento de la paz impulsadas de las Naciones Unidas, o la lucha contra el cambio climático.
+La Unión Europea tiene cada vez una mayor influencia en asuntos que son estratégicos para la Comunitat Valenciana como el turismo, la inmigración o el medioambiente. Más de un 80 por ciento de las normas europeas son desarrolladas, a nivel estatal, por las comunidades autónomas.
+Por ello resulta del mayor interés establecer mecanismos que permitan la evaluación de opciones e iniciativas autonómicas vinculadas a las políticas europeas, y permitan fijar las estrategias a seguir para incrementar la influencia de nuestra comunidad en los asuntos europeos, en colaboración y con la participación del conjunto de la sociedad civil valenciana.
+II
+El Estatut d’Autonomia de la Comunitat Valenciana aprobado en 1982 no hacía mención expresa a la participación de nuestra comunidad autónoma en los asuntos europeos, y ello fruto de la situación que se vivía por aquel entonces en la que la integración de España en las llamadas comunidades europeas era todavía un anhelo y no una realidad.
+Hoy en día, más veinte años después del ingreso de España en las comunidades europeas, nuestro Estatuto, con las modificaciones introducidas por la Ley Orgánica 1/2006, de 10 de abril, se hace eco de la situación real de lo que implica la participación de la Comunitat Valenciana, como comunidad autónoma española, en todo el proceso de integración europea. El Estatut, en su nueva redacción, dedica su título VI a las relaciones de la Comunitat Valenciana con la Unión Europea, regulando en él todos los derechos que, sin perjuicio de la legislación estatal, corresponden a la Comunitat Valenciana como región de la Unión Europea. Entre estos derechos destacan, entre otros, el derecho a participar en los mecanismos de control del principio de subsidiariedad previstos en el derecho de la Unión Europea, o el derecho a participar en todos los procesos que establezca el Estado para configurar la posición española en el seno de las instituciones comunitarias. Así mismo, el artículo 61.3.d del Estatut d’Autonomia establece que la Generalitat ostenta la competencia exclusiva para el desarrollo y ejecución de las normas y disposiciones europeas en el ámbito de sus competencias.
+Como complemento a las disposiciones estatutarias que regulan el ejercicio de los derechos y deberes que corresponden a la Comunitat Valenciana como región europea, el artículo 61.5 del Estatut d’Autonomia prevé la creación del Comité Valenciano para los Asuntos Europeos. El Estatut configura el Comité como un órgano de carácter consultivo, encargado de asesorar y realizar estudios y propuestas para mejorar la participación en las cuestiones europeas, y plantear acciones estratégicas de la Comunitat Valenciana. El Comité estará compuesto por personalidades de diversos ámbitos que hayan destacado por su contribución y actividad relacionada con la Unión Europea. Los vocales del Comité serán designados en función de su experiencia, competencia académica y conocimientos de la realidad europea.
+La presente ley configura, como órgano técnico de apoyo al Comité, el Observatorio de Políticas Europeas. Dicho Observatorio está orientado al análisis continuo de las políticas europeas y de las normativas comunitarias, con el objetivo de informar de su impacto en la región y garantizar su plena incorporación en las políticas y normas regionales.
+La presente ley se aprueba en desarrollo del artículo 61.5 del Estatut d’Autonomia de la Comunitat Valenciana.
+
+### Artículo 1
+
+Artículo 1. Creación, naturaleza y adscripción.
+1. Mediante la presente ley se crea el Comité Valenciano para los Asuntos Europeos.
+2. El Comité Valenciano para los Asuntos Europeos es un órgano colegiado, de naturaleza administrativa y carácter consultivo, encargado de asesorar al Consell, y realizar estudios y propuestas, encaminadas a mejorar la participación en las cuestiones europeas, y plantear acciones estratégicas de la Comunitat Valenciana, que mejor defiendan los intereses de la misma en dicho ámbito de actuación.
+3. El Comité Valenciano para los Asuntos Europeos estará adscrito a la conselleria competente en materia de relaciones con la Unión Europea, que le proporcionará los medios materiales y personales necesarios para su funcionamiento.
+
+### Artículo 2
+
+Artículo 2. Sede.
+El Comité tendrá su sede oficial en la ciudad de Valencia, sin perjuicio de que pueda realizar reuniones en cualquier otro municipio de la Comunitat Valenciana.
+
+### Artículo 3
+
+Artículo 3. Órganos.
+El Comité se estructura en los siguientes órganos:
+1. El Comité en Pleno.
+2. El Observatorio de Políticas Europeas, como órgano de apoyo técnico del Comité.
+3. Los grupos de trabajo que el Pleno del Comité decida constituir para cometidos específicos.
+
+### Artículo 4
+
+Artículo 4. Ámbito de actuación del Comité.
+El Comité, a la hora de realizar sus estudios y formular sus propuestas, podrá pronunciarse sobre todas aquellas materias que, siendo de la competencia propia de la Comunitat Valenciana, sean objeto de una actuación por parte de las instituciones comunitarias. Así mismo, podrá pronunciarse sobre todas aquellas materias que, sin ser de la competencia propia de la Comunitat Valenciana, le afecten directa o indirectamente o presenten un especial interés estratégico.
+
+### Artículo 5
+
+Artículo 5. Funciones.
+Serán funciones del Comité, entre otras, las siguientes:
+1. El asesoramiento, información y consulta en el ámbito de los asuntos europeos que afecten a la Comunitat Valenciana, en particular sobre las materias que pertenezcan al ámbito de actuación del Consell o que tengan especial relevancia para la Comunitat Valenciana.
+2. La realización de jornadas y seminarios sobre temas de la actualidad europea, y otras actividades que puedan contribuir a la difusión y al debate de los asuntos europeos en la Comunitat Valenciana.
+3. La elaboración de los estudios específicos que considere oportunos sobre los distintos aspectos relacionados con la Unión Europea, y de aquellos que, en el ámbito de sus competencias, le sean encargados por el Consell. En particular, los estudios podrán versar sobre las nuevas propuestas normativas de las instituciones europeas, cuyo desarrollo y ejecución correspondan a la Comunitat Valenciana.
+4. La formulación ante el Consell de las propuestas que estime oportunas para mejorar la participación de la Comunitat Valenciana, y en particular del Consell, en las cuestiones europeas, y en los organismos europeos en los que quepa la participación de los entes regionales. Así mismo, el Comité podrá asesorar al Consell sobre las medidas más adecuadas para fomentar el uso y la difusión de la lengua y la cultura valenciana en los foros europeos.
+5. La presentación de propuestas sobre actuaciones estratégicas de la Comunitat Valenciana ante la Unión Europea. En concreto, el Comité podrá proponer líneas estratégicas de actuación en aquellos ámbitos que sean de gran interés para la Comunitat Valenciana, y en los que las instituciones comunitarias tengan prevista una determinada actuación.
+
+### Artículo 6
+
+Artículo 6. Materias.
+Las materias sobre las que asesorará el Comité Valenciano son:
+1. Las reformas institucionales de la Unión Europea, y de los tratados constitutivos, y sus repercusiones en la Comunitat Valenciana.
+2. El desarrollo sostenible, la protección del medioambiente y la lucha contra el cambio climático.
+3. La política en el ámbito del agua, la utilización y reutilización de los recursos hídricos y la solidaridad entre regiones en materia de agua.
+4. La política regional europea y de cohesión económica y social.
+5. La promoción, fomento, desarrollo y fortalecimiento del turismo.
+6. Las políticas comunitarias en el ámbito de la inmigración, y la integración de las personas provenientes de terceros países, dentro del marco legal establecido por los estados y la Unión Europea, así como las políticas europeas en materia de seguridad y justicia.
+7. La protección de los consumidores, y la observación de las políticas y programas comunitarios relativos a la salud alimentaria.
+8. El fomento de la investigación y el desarrollo tecnológico en base a los programas marco de investigación y desarrollo de la Unión Europea, y aquellos derivados de las políticas de I+D+i de la Unión.
+9. El seguimiento de la política agrícola común de la Unión Europea, y sus afecciones sobre agricultores, ganaderos y pescadores de la Comunitat Valenciana.
+10. Las acciones europeas en materia de educación y cultura. El uso del valenciano en las instituciones europeas, y la promoción de la cultura valenciana en Europa.
+11. Las políticas de la Unión Europea en materia de energía, transportes y logística, y la implementación de las autopistas del mar.
+12. La política europea de cooperación al desarrollo y ayuda humanitaria.
+13. Las políticas europeas para garantizar la libre competencia. Asuntos económicos, comerciales, financieros y fiscalidad.
+14. La política audiovisual y medios de comunicación.
+15. Las políticas comunitarias de empleo, asuntos sociales e igualdad de oportunidades y formación profesional para el empleo.
+16. Cualquier otra materia que sea incluida por el tratado como materia de competencia de la Unión.
+17. Cualquier otra materia que le sea solicitada por el Consell o establecida reglamentariamente.
+
+### Artículo 7
+
+Artículo 7. Composición.
+1. El Comité Valenciano para los Asuntos Europeos está formado por 15 personas nombrados por Decreto del Consell, entre ellos una persona que ejerza la Presidencia, una persona que ejerza la Vicepresidencia, una persona que ejerza la Secretaría y doce vocalías.
+2. La persona secretaria del Comité, que actuará con voz y voto, será la titular de la secretaría autonómica competente en materia de relaciones con la Unión Europea. De acuerdo con lo dispuesto en el artículo 1.3, el apoyo material y de medios personales se realizará asimismo por la mencionada secretaría autonómica.
+3. Las personas titulares de la presidencia, la vicepresidencia y las vocalías serán elegidas entre profesionales de reconocido prestigio dentro del ámbito político, académico, parlamentario, diplomático, socio-económico y de la cooperación al desarrollo, que hayan destacado por su contribución y actividad relacionada con la Unión Europea, por su experiencia, competencia académica o conocimiento de la realidad europea, así como por razón de su cargo en instituciones públicas y organizaciones de la sociedad civil de la Comunitat Valenciana. Excepcionalmente, y por razón de la especialidad de la materia a tratar, podrán incorporarse a este comité personas miembros del Consell y titulares de altos cargos de la administración de la Generalitat.
+4. La composición del Comité se hará en función del mérito y la capacidad de sus integrantes. Esta composición, deberá respetar el principio de igualdad entre mujeres y hombres, entendiéndose, a los efectos de esta ley cuando haya una presencia mínima del 50% de mujeres.
+Se modifica por el art. 110 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-22
+
+### Artículo 8
+
+Artículo 8. Nombramiento, mandato y cese de las personas integrantes del Comité.
+1. Las personas integrantes del Comité serán nombradas por Decreto del Consell, a propuesta del miembro del Consell a quien corresponda el ejercicio de las competencias en materia de relaciones con la Unión Europea.
+2. Serán nombradas por un período de cinco años, pudiendo ser renovadas hasta un máximo de tres períodos. En el caso de producirse alguna vacante durante la duración del mandato, la nueva persona designada lo será por el tiempo que reste el mandato.
+3. El presidente, vicepresidente y los titulares de las vocalías, durante el periodo para el que fueron elegidos, son inamovibles, y cesarán en su condición en los siguientes casos:
+a) Por defunción.
+b) Por renuncia expresa.
+c) Por extinción del periodo para el que fueron elegidos. No obstante, seguirán ejerciendo plenamente sus funciones hasta la toma de posesión de los nuevos miembros.
+d) Por inhabilitación declarada por resolución judicial firme
+4. La persona titular de la secretaría, en su calidad de alto cargo de la Generalitat, será miembro del Comité en tanto en cuanto su mandato siga vigente. El cese como titular de la secretaría autonómica en materia de relaciones con la Unión Europea conllevará automáticamente el cese como miembro del Comité. De igual modo procederá en el caso excepcional de las personas titulares de las vocalías del Comité que sean alto cargo de la administración autonómica, y en el caso de las restantes vocalías cuyo nombramiento se deba a su condición de persona representante de una institución u organización. En todos estos casos el cese conllevará su sustitución automática como vocal del Comité por la persona que la sustituya.
+Se modifica por el art. 110 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-22
+
+### Artículo 9
+
+Artículo 9. Organización.
+1. El presidente del Comité convoca y fija el orden del día de las reuniones del Pleno y las preside, coordina las actividades del Comité y supervisa la ejecución de las iniciativas que hayan sido acordadas por éste.
+2. El Pleno del Comité estará integrado por todos sus miembros.
+3. Los miembros del Pleno podrán ser suplidos temporalmente, en los supuestos de ausencia o enfermedad, por otro miembro del Comité, a quien designe el miembro suplido, comunicándolo previamente al secretario.
+4. Corresponderá al Pleno:
+a) La aprobación de las normas de organización y funcionamiento del Comité.
+b) La creación de los grupos de trabajo que estime necesarios.
+c) La valoración y aprobación, en su caso, de los proyectos, estudios, informes y propuestas que les sometan, en su caso, los grupos de trabajo o los vocales.
+5. El secretario efectuará las convocatorias cuando se lo ordene el presidente, confeccionará las actas de las sesiones y prestará apoyo al presidente en la coordinación de las actividades del Comité.
+6. El Comité podrá constituir en su seno grupos de trabajo encargados de cometidos específicos. Los grupos de trabajo que se constituyan elaborarán informes, estudios y propuestas, que se elevarán al Pleno para su consideración y aprobación.
+7. Podrán asistir a las reuniones del Comité, previa convocatoria de su presidente, con voz pero sin voto, los altos cargos de la administración del Consell responsables de las áreas sectoriales afectadas por las cuestiones que se debatan en el orden del día, así como otros profesionales de reconocido prestigio en las materias que sean objeto de estudio por el Comité, y representantes de asociaciones o entidades representativas de intereses económicos y sociales cuya actividad pudiera quedar afectada por las decisiones que se debatan en el Comité.
+8. El pleno del Comité se reunirá en sesión ordinaria dos veces al año.
+
+### Artículo 10
+
+Artículo 10. Funcionamiento.
+1. El Comité se regirá en su funcionamiento por las normas al efecto aprobadas por el Pleno.
+2. El funcionamiento del Comité estará regido por lo dispuesto para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y por las normas que, en su marco, adopte el Comité.
+3. Las personas miembros del Comité tendrán derecho a percibir la gratificación por asistencia y la indemnización por gastos de transporte a las sesiones en las que deban participar, previstas en la normativa aplicable al personal de la Generalitat sobre indemnizaciones por razón de servicio y gratificaciones. Este apartado no será de aplicación a las personas que ostenten la condición de miembro del Consell, alto cargo o personal de la administración de la Generalitat.
+Se modifica por el art. 110 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-22
+
+### Artículo 11
+
+Artículo 11. El observatorio de políticas europeas.
+1. El Observatorio de Políticas Europeas, cuya presidencia corresponde a la persona titular de la secretaría del Comité, estará compuesto por personal técnico de los departamentos, organismos o entidades dependientes del Consell, designados al efecto por la persona titular de la presidencia del Observatorio, en función de las competencias asignadas al órgano al que pertenecen, o de su probada competencia en asuntos europeos y demás requisitos que, en su caso, se establezcan reglamentariamente. En todo caso será miembro del observatorio una persona de la dirección general con competencias en materia de fondos europeos, a propuesta de la misma dirección general.
+2. El Observatorio podrá acordar la asistencia a sus reuniones de otro personal experto dentro de la Generalitat y su sector público, o de personas expertas externas que puedan contribuir al mejor cumplimiento de las funciones que tiene encomendadas el Observatorio. En este último caso, tendrán derecho a las compensaciones económicas referidas en el artículo 10.3.
+3. Las normas de organización y funcionamiento del Observatorio las fija el Pleno del Comité.
+Se modifica por el art. 110 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-22
+
+### Artículo 12
+
+Artículo 12. Funciones del Observatorio.
+El Observatorio tendrá, además de las que expresamente le encomiende el Comité, las siguientes funciones:
+1. El seguimiento de todas las políticas europeas, especialmente de aquellas que tienen especial interés para la Comunitat Valenciana, mediante la elaboración de fichas informativas y su continua actualización.
+2. El establecimiento de un «sistema de alerta» de los proyectos normativos de las instituciones europeas, desde los orígenes del proceso legislativo, con el fin de ir analizando las posibles repercusiones de dichos proyectos en la normativa autonómica, o en los diversos sectores socio-económicos valencianos.
+3. La organización de seminarios que acerquen a la sociedad valenciana la actualidad de las políticas europeas existentes o futuras, para hacerlas más próximas, comprensibles y aumente la conciencia sobre su necesaria aplicación y cumplimiento en tiempo y forma.
+4. La organización de sesiones de trabajo para los funcionarios del Consell o del personal especialmente involucrado en la transposición y aplicación de la normativa comunitaria.
+5. El servicio de consulta, a través del que cualquier persona física o jurídica podrá trasladar su duda o cuestión acerca de una política en concreto o de una normativa europea.
+6. La coordinación con la Fundación CV-Región Europea.
+7. Las demás funciones que, en su caso, le atribuyan las disposiciones reglamentarias que desarrollen la presente ley.
+
+### Disposición adicional única
+
+Disposición adicional única. Constitución del Comité.
+El Comité Valenciano para los Asuntos Europeos deberá quedar constituido en el plazo de los tres meses siguientes a la entrada en vigor de la presente ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogado el Decreto 85/2002, de 30 de mayo, del Consell, por el que se creó el Consejo de la Comunitat Valenciana para el Debate sobre el Futuro de Europa.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+Se faculta al Consell para que dicte cuantas normas de carácter reglamentario sean necesarias para el desarrollo de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente ley entrará en vigor el día siguiente al de su publicación en el Diari Oficial de la Comunitat Valenciana.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 20 de noviembre de 2009.–El President de la Generalitat, Francisco Camps Ortiz.

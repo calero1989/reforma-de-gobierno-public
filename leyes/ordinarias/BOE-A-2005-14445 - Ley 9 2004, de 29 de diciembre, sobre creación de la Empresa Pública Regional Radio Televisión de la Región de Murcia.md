@@ -1,0 +1,372 @@
+# Ley 9/2004, de 29 de diciembre, sobre creación de la Empresa Pública Regional Radio Televisión de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2005-14445`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-14445
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 9/2004, de 29 de diciembre, sobre creación de la empresa Pública Regional Radio Televisión de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+El artículo 11.5 del Estatuto de Autonomía de la Región de Murcia, aprobado por Ley Orgánica 4/1982, de 9 de junio, establece que corresponde a la Comunidad Autónoma el desarrollo legislativo y la ejecución en materia de radio y televisión en el marco de las normas básicas del Estado. Del mismo modo, le corresponde, en el marco de las normas básicas del Estado, el desarrollo legislativo y la ejecución del régimen de prensa, y, en general, de todos los medios de comunicación social.
+En el mismo sentido, el artículo 14 del Estatuto de Autonomía para la Región de Murcia dispone que, en materia de medios audiovisuales de comunicación social del Estado, la Comunidad Autónoma ejercerá todas las potestades y competencias que le correspondan en los términos y casos establecidos en la Ley Reguladora de Estatuto Jurídico de Radio y Televisión.
+Dicho Estatuto Jurídico está constituido por la Ley 4/1980, de 10 de enero, así como por la Ley 46/1983, de 26 de diciembre, reguladora del tercer canal. Con arreglo a las mismas, el Gobierno de la nación podrá conceder a las comunidades autónomas la gestión directa de un canal de televisión de titularidad estatal que se cree específicamente para el ámbito territorial de cada Comunidad Autónoma.
+A este fin, y con carácter previo a la concesión de la Comunidad Autónoma solicitante, regulará mediante ley la organización y el control parlamentario del referido tercer canal.
+En este marco normativo, el objeto de la presente Ley es la creación de una empresa pública regional para la gestión de los servicios públicos de radiodifusión y televisión de la Región de Murcia, así como la regulación de estos mismos servicios en el ámbito regional, con arreglo a los principios contenidos en la legislación básica estatal.
+La Ley se estructura en cinco capítulos, divididos en veintisiete artículos; cuatro disposiciones adicionales, dos transitorias, una derogatoria y dos finales. A lo largo de su articulado se contienen las normas relativas al objeto, ámbito de aplicación y principios generales, creación y organización de la empresa pública regional, gestión mercantil, programación y control parlamentario, régimen presupuestario, patrimonial y de personal.
+
+## CAPÍTULO I
+
+Objeto, ámbito de aplicación y principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+La presente ley tiene por objeto regular el servicio público de comunicación audiovisual de titularidad de la Comunidad Autónoma de la Región de Murcia y establecer el régimen jurídico del ente público empresarial al que se encomienda la gestión directa del servicio público de comunicación audiovisual radiofónico de ámbito autonómico y el control del cumplimiento de las obligaciones de servicio público de la gestión indirecta del servicio de comunicación audiovisual televisivo de ámbito autonómico.
+De acuerdo a lo establecido en el Título IV de la Ley 7/2010 General de la Comunicación Audiovisual, el servicio público de comunicación audiovisual es un servicio esencial de interés económico general que tiene como misión difundir contenidos que fomenten los principios y valores constitucionales, contribuir a la formación de una opinión pública plural, dar a conocer la diversidad cultural y lingüística de España, y difundir el conocimiento y las artes, con especial incidencia en el fomento de una cultura audiovisual. Asimismo los prestadores del servicio público de comunicación audiovisual atenderán a aquellos ciudadanos y grupos sociales que no son destinatarios de la programación mayoritaria.
+En cumplimiento de las misiones establecidas en el párrafo anterior, el servicio público de comunicación audiovisual de ámbito autonómico, tendrá por objeto la producción, edición y difusión de un conjunto de canales de radio, televisión y servicios de información en línea con programaciones diversas y equilibradas para el conjunto de la población murciana, cubriendo todos los géneros, destinadas a satisfacer las necesidades de información, cultura, educación y entretenimiento de la sociedad murciana y a preservar el pluralismo en los medios de comunicación.
+El conjunto de las producciones y emisiones de radio y televisión del Ente Radiotelevisión de la Región de Murcia, deberá cumplir con las obligaciones de servicio público de esta Ley, que se concretarán en los objetivos generales fijados en el mandato marco y serán desarrollados por los sucesivos contratos programa.
+Se modifica por el art. único.1 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 2
+
+Artículo 2.
+La actividad de los medios de comunicación social gestionados por la Región de Murcia a que se refiere la presente Ley se inspirará en los principios siguientes:
+a) El respeto a la libertad de expresión, así como la objetividad, la veracidad y la imparcialidad de las informaciones.
+b) La separación entre informaciones y opiniones, la identificación de quienes sustenten estas últimas y su libre expresión, con los límites del apartado cuarto del artículo 20 de la Constitución.
+c) El respeto al pluralismo político, cultural, religioso y social.
+d) La protección de la juventud y de la infancia.
+e) El fomento de los valores de igualdad y no discriminación por razón de nacimiento, raza, sexo o cualquier circunstancia personal o social.
+f) El respeto al honor, a la intimidad personal y familiar y a la propia imagen.
+g) La promoción de los valores históricos y culturales de la Región de Murcia.
+h) El respeto, promoción y defensa de los demás principios que informan la Constitución española y el Estatuto de Autonomía para la Región de Murcia y de los demás derechos y libertades que en ellos se reconocen y garantizan.
+i) La prestación de un servicio público de calidad y promoviendo el respeto y el ejercicio del código ético profesional en el tratamiento informativo.
+
+## CAPÍTULO II
+
+Creación y organización
+
+## Sección 1
+
+Sección 1.ª Creación de la empresa pública regional Radiotelevisión de la Región de Murcia
+
+### Artículo 3
+
+Artículo 3. Naturaleza jurídica.
+1. Se crea el ente público empresarial Radiotelevisión de la Región de Murcia (RTRM), al que se le atribuye la gestión directa del servicio público de comunicación audiovisual radiofónico de ámbito autonómico y el control del cumplimiento de las obligaciones de servicio público de la gestión indirecta del servicio de comunicación audiovisual televisivo de ámbito autonómico.
+RTRM se adscribe a la consejería competente en materia de comunicación institucional.
+2. RTRM tiene personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines. Se regirá por la presente ley y sus disposiciones de desarrollo y, en lo no previsto en las mismas, por la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual, y por la Ley 7/2004, de 28 de diciembre, de Organización y Régimen Jurídico de la Administración Pública de la Comunidad Autónoma de la Región de Murcia.
+3. En materia de contratación se somete a la normativa de contratos del sector público. En cualquier otra relación jurídica externa, así como en el ámbito laboral, RTRM se rige por el Derecho privado.
+Se modifica por el art. único.2 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+## Sección 2
+
+Sección 2.ª Órganos de Radiotelevisión de la Región de Murcia
+
+### Artículo 4
+
+Artículo 4. Estructura.
+Radiotelevisión de la Región de Murcia se estructura, en cuanto a su funcionamiento, administración general, dirección y asesoramiento, en los siguientes órganos:
+a) Consejo de Administración.
+b) Director General.
+Se modifica por el art. único.3 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+## Sección 3
+
+Sección 3.ª El Consejo de Administración
+
+### Artículo 5
+
+Artículo 5. Consejo de Administración.
+1. El Consejo de Administración constará de once miembros elegidos para cada legislatura por la Asamblea Regional en proporción a la representación parlamentaria, entre personas de reconocido prestigio. Su composición deberá reflejar el pluralismo político y social de la Región de Murcia. Su constitución tendrá lugar dentro de los tres primeros meses de cada legislatura.
+2. Los miembros del Consejo de Administración cesarán en sus cargos al término de la correspondiente legislatura, aunque seguirán ejerciendo sus funciones hasta la toma de posesión de los nuevos locales.
+3. La condición de miembro del Consejo de Administración es incompatible con cualquier vinculación directa o indirecta con empresas publicitarias, editoriales, periodísticas, cinematográficas y agencias de prensa o de producción de programas filmados o registrados en magnetoscopios o radiofónicos; con empresas discográficas o con cualquier tipo de entidad relacionada con el suministro o la dotación de material o de programas al ente público empresarial RTRM, así como a la empresa que resulte adjudicataria de la gestión indirecta del servicio público de comunicación audiovisual televisivo.
+Se entiende por vinculación indirecta la causada por relación de matrimonio, por parentesco de afinidad hasta segundo grado o consanguinidad en cuarto grado, con personas con intereses económicos en las agencias, medios o empresas antes mencionadas.
+La condición de miembro del Consejo de Administración es, asimismo, incompatible con la de miembro de la Asamblea Regional o del Gobierno regional, con el ejercicio de cualquier cargo de elección o designación política y con funciones de alta dirección en partidos políticos, organizaciones sindicales o empresariales.
+4. El Consejo de Administración podrá celebrar sus sesiones de forma presencial o a distancia por medios electrónicos. Para que el Consejo se entienda válidamente constituido será necesaria la participación de la mayoría absoluta de sus miembros.
+Los acuerdos del Consejo de Administración se adoptarán por la mayoría de los miembros participantes en sus sesiones, salvo en aquellos casos en los que la presente Ley exija una mayoría cualificada.
+5. La Presidencia del Consejo de Administración será puramente funcional y se ejercerá de forma rotatoria, trimestralmente, entre sus miembros. En caso de sustitución de algún consejero, el sustituto ocupará, a los efectos de turno rotatorio en la Presidencia, el lugar que corresponda al sustituido.
+6. La Vicepresidencia del Consejo de Administración la ejercerá el miembro al que le corresponda la Presidencia en el siguiente turno. Sus funciones serán las mismas del Presidente en los casos en que sustituya a éste.
+Se modifica el apartado 1 por el art. único de la Ley 4/2024, de 21 de noviembre. Ref. BOE-A-2024-25870
+ Téngase en cuenta para su aplicación lo que establece la disposición transitoria primera de la citada Ley.
+ Se modifica el apartado 4 por el art. 9.1 del Decreto-ley 7/2020, de 18 de junio. Ref. BORM-s-2020-90236#a9
+ Se modifican los apartados 1 y 3 por el art. único.4 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 6
+
+Artículo 6. Retribuciones.
+Los miembros del Consejo de Administración no tendrán derecho a retribución por el ejercicio de sus funciones, sin perjuicio de la percepción de indemnizaciones por desplazamiento y asistencia a las sesiones, en la cuantía que fije la normativa regional o, en su defecto, en la que establezca la Asamblea Regional para los miembros de la Cámara no sujetos al régimen de dedicación exclusiva.
+Se modifica por el art. único.5 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 7
+
+Artículo 7.
+1. Los miembros del Consejo de Administración cesarán en sus funciones en los siguientes casos:
+a) Al término de la legislatura.
+b) Por fallecimiento.
+c) A petición propia.
+d) Por declaración legal de incapacidad.
+e) Por incurrir en alguna de las causas de incompatibilidad o conflicto de interés del apartado 3 del artículo 5.
+2. Las vacantes que se produzcan serán cubiertas por la Asamblea Regional en la forma señalada en el apartado 1 del artículo 5.
+Se modifica la letra e) del apartado 1 por el art. único.6 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 8
+
+Artículo 8. Competencias del Consejo de Administración.
+1. Corresponden al Consejo de Administración las competencias siguientes:
+a. Elaborar los criterios rectores de la dirección editorial.
+b. Emitir su parecer sobre el nombramiento del Director General, que, para ser afirmativo, deberá formularse por acuerdo de dos tercios de sus miembros. Si no se alcanzara esta mayoría se entenderá que el Consejo de Administración se abstiene de emitir su parecer sobre el nombramiento del Director General, dándose por cumplido el trámite.
+c. Aprobar, a propuesta del Director General, el plan anual de actividades de RTRM para el servicio de comunicación audiovisual radiofónico y de supervisión del contrato-programa para el servicio de comunicación audiovisual televisivo.
+d. Aprobar la memoria anual relativa al desarrollo de las actividades de la entidad.
+e. Aprobar las directrices básicas en materia de personal.
+f. Aprobar el régimen de retribución del personal de Radiotelevisión de la Región de Murcia, de acuerdo con lo establecido para el personal al servicio del sector público autonómico.
+g. Aprobar el anteproyecto de presupuesto de Radiotelevisión de la Región de Murcia.
+h. Aprobar convenios generales o que supongan una relación de continuidad con entidades públicas o privadas para coproducir o difundir producciones ajenas.
+i. Dictar instrucciones sobre la emisión de publicidad institucional y privada en Radiotelevisión de la Región de Murcia, teniendo en cuenta el control de la calidad del contenido de los mensajes publicitarios, la adecuación del tiempo de publicidad a la programación y las necesidades de estos medios, garantizando el cumplimiento de la normativa básica española, así como la de la Unión Europea.
+j. Determinar semestralmente el porcentaje de horas de programación destinadas a los grupos políticos y sociales significativos, fijando los criterios de distribución entre ellos en el cumplimiento de lo establecido en el artículo 20 de la Constitución y en el artículo 21 de esta ley.
+k. Conocer de aquellas cuestiones que, aun no siendo de su competencia, el Director General someta a su consideración.
+l. Conocer periódicamente la gestión presupuestaria y emitir su parecer sobre la misma.
+m. Todas aquellas no atribuidas expresamente a otro órgano.
+2. Los acuerdos se adoptarán por mayoría simple, excepto aquellos a los que se refieren los apartados c, e, f, g y j, que se tomarán por mayoría absoluta de los miembros del Consejo de Administración y sin perjuicio de lo dispuesto en el apartado b. En lo que respecta al apartado g y en el caso en que no se alcance acuerdo por mayoría absoluta, el anteproyecto de presupuesto se remitirá a la Consejería de Hacienda en el plazo legal, haciendo constar el sentido del voto de cada uno de los miembros del Consejo de Administración.
+Se modifica por el art. único.7 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 9
+
+Artículo 9.
+1. El Consejo de Administración se reunirá en sesión ordinaria, al menos una vez al mes, y también por razón de urgencia a criterio del Presidente, o cuando lo solicite la mayoría absoluta de sus miembros o el Director General. La convocatoria se efectuará por escrito y deberá incluir, en todo caso, el orden del día.
+2. Para tratar asuntos no incluidos en el orden del día será preciso que el Consejo lo acepte por mayoría absoluta.
+3. El Consejo de Administración designará un secretario de actas que, sin voz ni voto, tendrá las funciones que reglamentariamente se le asignen, sin que pueda recaer dicha designación en persona que forme parte de dicho Consejo.
+4. En todo lo no previsto en esta Ley, el Consejo de Administración se regirá subsidiariamente por lo regulado para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, pudiendo aprobar por mayoría absoluta un reglamento de funcionamiento interno basado en ambas normas.
+Se modifica el apartado 4 por el art. 9.2 del Decreto-ley 7/2020, de 18 de junio. Ref. BORM-s-2020-90236#a9
+
+## Sección 4
+
+Sección 4.ª El Consejo Asesor
+Se suprime por el art. único.8 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 10
+
+Artículo 10.
+(Suprimido).
+Se suprime por el art. único.8 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+## Sección 5
+
+Sección 5.ª El Director General
+
+### Artículo 11
+
+Artículo 11.
+1. El Director General de Radiotelevisión de la Región de Murcia será nombrado por el Consejo de Gobierno, entre personas de reconocido prestigio. Su designación corresponderá a la Asamblea Regional de entre los candidatos propuestos por los distintos grupos parlamentarios. El candidato designado deberá obtener una mayoría de dos tercios de los miembros de la Asamblea Regional en primera votación, o mayoría absoluta en una segunda votación a efectuar no más tarde de siete días de la primera. El plazo para la designación del nuevo Director General será de dos meses desde la constitución de la Asamblea Regional en cada período legislativo.
+2. El Director General será el órgano ejecutivo de la entidad, y tendrá las mismas incompatibilidades que los miembros del Consejo de Administración, señaladas en el artículo 5.3, de la presente Ley. Además será incompatible con cualquier actividad pública o privada, salvo la que se derive de la administración de su propio patrimonio o de la Dirección, en su caso, de las sociedades a que se refiere el artículo 14, por la que no percibiría retribución alguna. Además será incompatible con cualquier mandato electivo de base popular y con el ejercicio de cargos en las administraciones públicas.
+3. El Consejo de Gobierno determinará la retribución que, con cargo al Presupuesto de Radiotelevisión de la Región de Murcia, percibirá el Director General, así como las condiciones de desempeño de dicho cargo, no previstas en la presente Ley.
+4. El Director General podrá asistir con voz y sin voto a las reuniones del Consejo de Administración, con la sola excepción de las cuestiones que le afecten personalmente.
+5. El mandato del Director General será de la misma duración que la legislatura de la Asamblea Regional en que haya sido designado. No obstante, permanecerá en el ejercicio del cargo hasta la designación del nuevo Director General.
+Se modifica el apartado 1 por el artículo único.1 de la Ley 15/2015, de 29 de octubre. Ref. BOE-A-2015-12821
+ Se modifica el apartado 4 por el art. único.8 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 12
+
+Artículo 12. Funciones del Director General, Competencias del Consejo de Administración.
+Corresponde al Director General:
+a. Cumplir y hacer cumplir las disposiciones que regulen Radiotelevisión de la Región de Murcia y los acuerdos adoptados por el Consejo de Administración en las materias que sean de competencia de este órgano colegiado.
+b. Someter a la aprobación del Consejo de Administración, con antelación suficiente, el plan anual de actividades, la memoria anual y los anteproyectos de presupuesto de Radiotelevisión de la Región de Murcia, así como las cuestiones a que se refieren las letras f), g) e i), del apartado 1 del artículo 8 de esta ley.
+c. Desempeñar la jefatura de personal de RTRM y dictar las instrucciones y circulares relativas al funcionamiento y a la organización interna.
+d. Actuar como órgano de contratación de Radiotelevisión de la Región de Murcia.
+e. Autorizar los gastos y ordenar los pagos de Radiotelevisión de la Región de Murcia.
+f. Nombrar con criterios de profesionalidad el personal directivo, atendiendo a principios de mérito y capacidad, previa notificación al Consejo de Administración.
+g. Ordenar la programación, de acuerdo con los principios básicos y las líneas generales aprobados por el Consejo de Administración.
+h. Ostentar la representación de Radiotelevisión de la Región de Murcia y, en consecuencia, ejercitar las acciones procedentes, sin perjuicio de los poderes que pueda o deba otorgar.
+i. Negociar y suscribir los convenios colectivos con el personal laboral del ente público empresarial, de acuerdo con los criterios generales de la consejería competente en materia de función pública.
+Se modifica por el art. único.9 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 13
+
+Artículo 13.
+1. El cese del Director General de Radiotelevisión de la Región de Murcia solo podrá producirse por alguna de las siguientes causas:
+a) Por renuncia, a petición propia.
+b) Por incompatibilidad sobrevenida.
+c) Por imposibilidad física o enfermedad continuada, superior a tres meses.
+d) Por condena, en sentencia firme, por delito doloso.
+e) Por solicitud del Consejo de Administración, por mayoría de dos tercios del número de sus miembros.
+f) Por revocación de su cargo por mayoría absoluta de los miembros de la Asamblea Regional.
+Se modifica por el artículo único.2 de la Ley 15/2015, de 29 de octubre. Ref. BOE-A-2015-12821
+
+## CAPÍTULO III
+
+Gestión mercantil
+
+### Artículo 14
+
+Artículo 14. Modo de Gestión.
+1. El servicio público de comunicación audiovisual radiofónico de ámbito autonómico será gestionado de forma directa por el ente público empresarial RTRM.
+2. El servicio público de comunicación audiovisual televisivo de ámbito autonómico se gestionará de forma indirecta. RTRM se encargará de asegurar que los contenidos responden a las obligaciones de servicio público, que serán definidos en función de contratos programa basados en el mandato marco dictado por la Asamblea Regional, como se establece en los siguientes artículos.
+3. La competencia para la contratación de la empresa prestadora del servicio público de comunicación audiovisual televisivo se atribuye a la consejería competente en materia de infraestructuras y servicios de telecomunicaciones.
+4. Tanto la gestión directa de la radio, como indirecta de la televisión, no incluyen los aspectos relacionados con el transporte y difusión de la señal, que serán gestionados por la consejería competente en materia de infraestructuras y servicios de telecomunicaciones.
+5. En el caso de que la normativa estatal implique la compartición de canal radioeléctrico entre los licenciatarios de televisión autonómica privada y del servicio público televisivo de ámbito autonómico, los primeros quedarán obligados a la participación en el contrato suscrito por la Administración, contribuyendo a su mantenimiento en un porcentaje económico equivalente al espectro asignado a su emisión.
+Se modifica por el art. único.10 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 15
+
+Artículo 15. Mandato marco.
+Corresponde a la Asamblea Regional de Murcia, por una mayoría cualificada de dos tercios, establecer los objetivos generales de la función de servicio público de comunicación audiovisual, en desarrollo de lo dispuesto en la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual. Entre dichos objetivos, se incluirá el fomento de la producción audiovisual murciana y el impulso y desarrollo industrial del sector audiovisual regional. Estos objetivos generales se fijarán en un mandato marco para un periodo de nueve años.
+Se modifica por el art. único.11 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 16
+
+Artículo 16. Contrato programa.
+1. Corresponde al Consejo de Gobierno, en aplicación del mandato marco regulado en el artículo anterior, aprobar, para un periodo mínimo de 3 años, los contratos programa a los que se refiere la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual.
+2. En estos contratos programa se identificarán de manera expresa los contenidos de servicio público en materia radiofónica y televisiva y se concretarán los porcentajes de géneros de programación que deban emitirse. En el ámbito televisivo se concretará el porcentaje de la financiación destinado a la producción independiente realizada por el sector audiovisual regional.
+3. El Director General de RTRM suscribirá el contrato programa del servicio público de comunicación audiovisual radiofónico con el titular de la consejería a la que esté adscrito el ente. Dicho contrato programa incluirá la subvención a RTRM para cada uno de los años de vigencia del mismo, que el Gobierno le otorgará para el cumplimiento de sus obligaciones de servicio público.
+Se modifica por el art. único.12 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 17
+
+Artículo 17.
+(Suprimido).
+Se suprime por el art. único.13 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+## CAPÍTULO IV
+
+Programación y control parlamentario
+
+### Artículo 18
+
+Artículo 18.
+Los principios que han de inspirar la programación de los medios de comunicación social a que se refiere esta Ley, son los señalados en su artículo 2.
+
+### Artículo 19
+
+Artículo 19.
+El Consejo de Gobierno de la Región de Murcia podrá disponer que se difundan las declaraciones o comunicaciones oficiales de interés público que crea necesarias, con indicación de su origen. Por razones de urgencia, apreciadas por el órgano de procedencia, estos comunicados y declaraciones tendrán efecto inmediato.
+
+### Artículo 20
+
+Artículo 20.
+Durante las campañas electorales se aplicará el régimen especial que establezcan las normas electorales. La aplicación y el control de las normas corresponderán a la Junta Electoral competente, que habrá de cumplir su cometido a través del Consejo de Administración, o, en caso de urgencia, del Director General.
+
+### Artículo 21
+
+Artículo 21.
+La ordenación de los espacios de radio y televisión se hará de forma que tengan acceso a los mismos los grupos políticos y sociales más significativos, debiéndose adecuar el acceso a las minorías de uno u otro carácter. Con esta finalidad, el Consejo de Administración y el Director General, en el ejercicio de sus competencias respectivas, habrán de tener en cuenta criterios objetivos, tales como la representación parlamentaria, la implantación política, sindical, social y cultural, el ámbito territorial de actuación y otros del mismo carácter.
+
+### Artículo 22
+
+Artículo 22.
+El derecho de rectificación y la protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen, en relación con las informaciones difundidas por los medios de Radiotelevisión de la Región de Murcia, se regirán por lo dispuesto en la normativa estatal y autonómica de aplicación.
+
+### Artículo 23
+
+Artículo 23.
+1. Una comisión de la Asamblea Regional ejercerá el control parlamentario de la actuación de la empresa pública regional Radiotelevisión de la Región de Murcia.
+
+## CAPÍTULO V
+
+Régimen presupuestario, patrimonial y de personal
+
+### Artículo 24
+
+Artículo 24.
+1. El presupuesto del ente público empresarial Radiotelevisión de la Región de Murcia se ajustará a la normativa presupuestaria vigente y a las singularidades que establece la presente ley.
+2. Los anteproyectos de presupuestos de la empresa pública y de cada una de sus sociedades filiales, se remitirán a la Consejería de Hacienda a los efectos de su integración en el anteproyecto de Ley de Presupuestos Generales de la Comunidad Autónoma y su aprobación como proyecto de ley por el Consejo de Gobierno.
+Los presupuestos se elaborarán y gestionarán bajo el principio de equilibrio presupuestario.
+3. (Suprimido).
+4. Sin perjuicio de los controles legalmente establecidos, el director general de Radiotelevisión de la Región de Murcia rendirá cuentas, al menos una vez al año, de la gestión presupuestaria ante la Comisión a que se refiere el artículo 23 de esta ley.
+5. Radiotelevisión de la Región de Murcia ajustará su contabilidad y su ejecución presupuestaria a la normativa aplicable a las entidades de derecho público regionales.
+Se modifican los apartados 1, 4 y 5 y se suprime el apartado 3 por el art. único.14 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 25
+
+Artículo 25. Financiación.
+La Radiotelevisión de la Región de Murcia se financiará con cargo a las cantidades consignadas en las leyes de presupuestos generales de la Comunidad Autónoma para compensar el cumplimiento de la misión de servicio público de comunicación audiovisual y mediante los ingresos y rendimientos de sus propias actividades, incluidos los de las comunicaciones comerciales.
+Se modifica por el art. único.15 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 26
+
+Artículo 26. Patrimonio.
+El patrimonio del ente público empresarial Radiotelevisión de la Región de Murcia quedará integrado, a todos los efectos, en el patrimonio de la Comunidad Autónoma y tendrá la consideración de dominio público como patrimonio afecto al servicio público correspondiente y, por lo tanto, gozará en el orden tributario de las exenciones que sean pertinentes.
+Se modifica por el art. único.16 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Artículo 27
+
+Artículo 27.
+1. Las relaciones laborales en la empresa pública regional Radiotelevisión de la Región de Murcia y de sus sociedades filiales, se regirán por la legislación laboral común, en cualquier caso, según lo acordado y establecido en el Pacto por la Estabilidad en el Empleo de la Región de Murcia del año 2002, se promoverán relaciones contractuales estables en aquellas actividades de carácter permanente.
+2. La pertenencia al Consejo de Administración no generará ningún derecho de carácter laboral.
+3. Los funcionarios de la Comunidad Autónoma que se incorporen a la empresa pública regional Radiotelevisión de la Región de Murcia o a cualquiera de sus sociedades filiales, quedarán en la situación administrativa que legalmente corresponda.
+4. La contratación de personal con carácter fijo se realizará mediante las correspondientes pruebas de admisión establecidas y convocadas por el Director General, de acuerdo con el Consejo de Administración, bajo los principios de igualdad, mérito, capacidad y publicidad.
+5. Se fomentará el desarrollo de la formación profesional permanente como sistema de promoción y perfeccionamiento.
+Se modifica el apartado 2 por el art. único.17 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Disposición adicional primera
+
+Disposición adicional primera. Cese de la actividad de Onda Regional de Murcia, S.A. y Televisión Autonómica de Murcia, S.A.
+1. Radiotelevisión de la Región de Murcia deberá proceder a realizar todas las actuaciones y operaciones societarias necesarias para el cese de su actividad, en cualquier caso antes del 31 de diciembre de 2012, de la sociedad mercantil Onda Regional de Murcia, S.A. (ORM,S.A.) y de la sociedad mercantil regional Televisión Autonómica de Murcia, S.A. (TAM, S.A.) mediante la cesión global de sus activos y pasivos a RTRM, la cual se subrogará en los derechos y obligaciones de las sociedades extinguidas, a excepción de lo contemplado para el transporte y difusión de la señal.
+Se autoriza al Consejo de Gobierno a ampliar hasta un máximo de seis meses el plazo establecido en el párrafo anterior si fuera necesario.
+2. Hasta que se proceda a la autorización de las operaciones descritas en el apartado anterior, las citadas sociedades mercantiles continuarán rigiéndose por lo dispuesto en la Ley 9/2004, de 29 de diciembre, de Creación de Radiotelevisión de la Región de Murcia, y por sus respectivos decretos de creación.
+3. Todas las operaciones societarias, transmisiones patrimoniales y actos derivados directa o indirectamente de la aplicación de esta disposición gozarán del mismo tratamiento fiscal que las propias de la Comunidad Autónoma de la Región de Murcia.
+4. Radiotelevisión de la Región de Murcia sucederá a ORM, S.A., y TAM, S.A., en todos los bienes, contratos y, en general, derechos y obligaciones que se deriven de la cesión global de activos y pasivos a la que se refiere el párrafo primero. A este fin, RTRM quedará subrogada en la misma posición jurídica que ostentaba ORM, S.A., y TAM, S.A., en todos sus bienes, derechos, obligaciones, relaciones jurídicas, procedimientos administrativos o judiciales en curso. La subrogación de RTRM en los contratos de arrendamientos de los inmuebles de los que fueran titulares OMR, S.A., y TAM, S.A., no dará lugar por sí sola a la extinción de los contratos ni al aumento de la renta o la percepción de cantidad alguna por el arrendador.
+5. La consejería competente en materia de infraestructuras y servicios de telecomunicaciones se subrogará en los contratos de transporte y difusión de la señal de las sociedades filiales de RTRM.
+Se modifica por el art. único.18 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Personal de Onda Regional de Murcia, S.A. y de Televisión Autonómica de Murcia, S.A.
+El personal laboral de Onda Regional de Murcia, S.A., y de Televisión Autonómica de Murcia, S.A., quedará integrado en Radiotelevisión de la Región de Murcia desde la entrada en vigor de esta ley, respetando su régimen jurídico actual.
+Se modifica por el art. único.18 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Aprobación del mandato marco y del contrato programa.
+Se someterá a la aprobación de la Asamblea Regional de Murcia el primer mandato marco regulado en el artículo 15, en el plazo de tres meses desde la entrada en vigor de esta ley.
+Asimismo, se insta al Consejo de Gobierno a aprobar el primer contrato programa, regulado en el artículo 16 de la presente ley en el plazo de tres meses a contar desde la aprobación del mandato marco por la Asamblea Regional.
+Para sucesivos contratos programa, dentro del mismo mandato marco, el Consejo de Gobierno deberá aprobar los mismos con una antelación mínima de dos meses a la finalización del que estuviera vigente.
+Se modifica por el art. único.18 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-1873
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. Los bienes de la empresa pública Onda Regional de Murcia, que resulten necesarios para garantizar la prestación del Servicio de Radiodifusión regulado por la presente Ley, quedarán, a propuesta del Director General, como patrimonio afecto a la sociedad anónima encargada de la gestión mercantil del servicio público de radiodifusión, sin perjuicio de su consideración de bienes integrados a todos los efectos, de conformidad con lo establecido en el artículo 26, en el patrimonio de la Comunidad Autónoma.
+2. El resto de bienes que no se consideren necesarios para garantizar el servicio de radiodifusión revertirá a la Comunidad Autónoma con sujeción a lo establecido en la Ley 3/1992, de 30 de julio, de Patrimonio de la Comunidad Autónoma de la Región de Murcia.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Sin perjuicio de lo dispuesto en la disposición adicional segunda, los órganos de Onda Regional de Murcia continuarán en la plenitud de las funciones y competencias que les atribuye la Ley regional 7/1994, de 17 de noviembre, hasta que, cumplidos los procedimientos y ejecutados los actos precisos para la aplicación de esta Ley, se constituya la sociedad anónima encargada de la gestión mercantil del servicio público de radiodifusión.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. El Director General de Radiotelevisión de la Región de Murcia deberá proceder, en el plazo de tres meses desde su toma de posesión a la liquidación de Onda Regional de Murcia y a la adopción de cuantas decisiones y medidas resulten procedentes.
+2. El Consejo de Gobierno podrá prorrogar, a propuesta del Director General y de resultar ello necesario, el plazo de tres meses concedido en el apartado primero de esta transitoria, así como prestarle la asistencia técnica y jurídica que precise.
+3. De todas estas medidas dará cuenta a la Asamblea Regional.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Sin perjuicio de lo dispuesto en las disposiciones adicionales y transitorias de esta Ley, queda derogada la Ley 7/1994, de 17 de noviembre, por la que se extingue Radio Televisión Murciana y se regula el Servicio Público de Radiodifusión de la Región de Murcia, su organización y control parlamentario y demás normas de desarrollo, así como cualquiera otras disposiciones de igual o inferior rango, que se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Consejo de Gobierno para que dicte las disposiciones necesarias para el desarrollo y ejecución de esta Ley.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 29 de diciembre de 2004.
+RAMÓN LUIS VALCÁRCEL SISO,
+Presidente
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que se entenderán suprimidas todas las referencias normativas a las sociedades filiales recogidas en el articulado de la presente ley, según establece la disposición derogatoria única de la Ley 10/2012, de 5 de diciembre. Ref. BOE-A-2013-1873

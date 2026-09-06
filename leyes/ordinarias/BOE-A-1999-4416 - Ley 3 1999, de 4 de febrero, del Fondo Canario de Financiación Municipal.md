@@ -1,0 +1,330 @@
+# Ley 3/1999, de 4 de febrero, del Fondo Canario de Financiación Municipal.
+
+- Identificador BOE: `BOE-A-1999-4416`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-4416
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOC núm. 19, de 12 de febrero de 1999. Ref. BOC-j-1999-90259
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+1
+La reivindicación planteada por la Federación Canaria de Municipios de la dotación de recursos a las haciendas municipales, la voluntad decidida del Gobierno de mejorar las haciendas municipales sin menoscabar su autonomía y la acción coordinadora que tan eficaces resultados ha venido dando desde el plan de saneamiento económico-financiero, constituyen el fundamento de esta Ley.
+Tras largas y prolijas negociaciones de más de dos años de duración se ha llegado a un consenso para aceptar un texto que constituye un sistema que financia en parte a los ayuntamientos con fondos de libre disposición, sin perder de vista en su totalidad el sistema de coordinación y saneamiento de las haciendas municipales, en su otra parte.
+2
+Contiene el proyecto, según su propia sistemática, las siguientes figuras esenciales:
+Unas disposiciones generales sobre la creación del Fondo, sus dos finalidades, el sistema de adhesión permanente, salvo revocación expresa, y los criterios de distribución con sus respectivos porcentajes.
+Las normas para la distribución del Fondo, destacando detalladamente las fuentes de obtención de los datos necesarios para cada uno de los criterios de distribución, e incluyendo los indicadores de saneamiento económico-financiero (remanente de tesorería, ahorro neto y endeudamiento a largo plazo) y los condicionantes de cuantía de la parte del Fondo de libre disposición (gestión recaudatoria y esfuerzo fiscal). Conviene destacar que se especifican los porcentajes exigibles para la gestión recaudatoria hasta el año 2003 (alcanzando un 78 por 100 en ese momento), así como la fórmula para la determinación del esfuerzo fiscal, que en todo caso debe ser superior al 80 por 100 de la media del de los Ayuntamientos adheridos. Con esta técnica se pretende un sistema deslizante completado con la habilitación al Gobierno para la modificación coyuntural de tales datos y, en todo caso, para la aprobación de la valoración a tener en cuenta a partir del sexto año de vigencia de la Ley.
+El procedimiento de distribución del Fondo, previendo las auditorías de gestión sobre la liquidación del presupuesto, la audiencia a la Federación Canaria de Municipios, y el anticipo del 40 por 100 del importe correspondiente del Fondo.
+Las normas sobre justificación y comprobación del destino del Fondo, así como los supuestos de incumplimiento (no obtener la valoración de los indicadores de saneamiento económico-financiero o de los condicionantes de libre disposición, según los casos) y las consecuencias del mismo: Afectación a saneamiento de la parte correspondiente del Fondo y reducción, en su caso, de la otra parte del Fondo por incumplimiento de los condicionantes de libre disposición.
+Las disposiciones adicionales regulan, fundamentalmente, que los créditos no utilizados en un ejercicio acrezcan al siguiente; que las leyes de presupuestos consignen la cuantía del Fondo, fijándose la del año 1999 en 18.300.000.000 de pesetas.
+La disposición transitoria primera intenta la conexión entre las previsiones de esta Ley y el sistema que haya regido hasta el momento de su entrada en vigor (último de los Decretos del Gobierno que vienen sucediéndose anualmente) para determinar la finalidad que deba tener el Fondo.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Fondo Canario de Financiación Municipal.
+1. El Fondo Canario de Financiación Municipal tiene por objeto dotar a los municipios canarios de recursos económicos para las siguientes finalidades:
+a) El 50 por 100 con destino a saneamiento económico-financiero o, si se cumplen los indicadores previstos en esta Ley, a inversión.
+b) El otro 50 por 100 para gastos de libre disposición.
+2. El fondo será dotado con los créditos que se consignen en las leyes de presupuestos generales de la Comunidad Autónoma de Canarias, que tendrán la consideración de transferencias y se regirán, en todo caso, por lo establecido en la presente ley.
+El importe consignado será revisado anualmente de forma provisional, en función de la evolución de las previsiones iniciales de los ingresos no financieros consolidados de las leyes de Presupuestos Generales de la Comunidad Autónoma de Canarias, sin incluir los relativos a la financiación afectada externa.
+El importe definitivo del fondo en cada año será el que resulte de computar la evolución de los derechos reconocidos netos de los mencionados ingresos de la liquidación del ejercicio presupuestario correspondiente respecto de los del ejercicio inmediato anterior.
+La liquidación resultante de la diferencia entre el fondo definitivo y el fondo provisional, calculado en la forma expresada en los dos apartados anteriores, se incluirá en el presupuesto del año siguiente al que se realice la misma.
+La cuantía resultante de la liquidación señalada en el párrafo anterior se distribuirá conforme a los criterios del ejercicio de procedencia y su destino será el previsto para el ejercicio en que se consigne presupuestariamente.
+En cualquier caso, la cuantía anual del fondo no será inferior a la acordada por el Gobierno para el año 2012 (206.532.903,10 euros).
+Se modifica el apartado 2 por la disposición final 7 de la Ley 11/2015, de 29 de diciembre. Ref. BOE-A-2016-1607
+ Se modifica el apartado 2 por el art. 29.1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+
+### Artículo 2
+
+Artículo 2. Adhesión al Fondo.
+1. La participación en el Fondo es de carácter voluntario.
+2. La adhesión, que se producirá por acuerdo plenario, mantendrá su vigencia mientras no se produzca revocación expresa del mismo, que tendrá efectos en el propio ejercicio en el que se adopte el acuerdo.
+3. Producida una revocación, la nueva adhesión al Fondo tendrá efectos en el ejercicio siguiente al que haya sido adoptado el acuerdo.
+
+### Artículo 3
+
+Artículo 3. Criterios de distribución del Fondo.
+1. Del importe global de las dotaciones del Fondo Canario de Financiación Municipal se detraerá el 1 por 100, que se abonará por la Consejería competente en materia de régimen local a la Federación Canaria de Municipios.
+2. El resto del Fondo se distribuirá conforme a los siguientes criterios y porcentajes:
+a) La población, en un 68 por 100.
+b) La solidaridad, en un 16 por 100.
+c) La insularidad periférica, en un 1 por 100.
+d) La extensión territorial, en un 2 por 100.
+e) Los espacios naturales protegidos, en un 2 por 100.
+f) Las plazas alojativas turísticas, en un 2 por 100.
+g) La dispersión territorial, en un 5 por 100.
+h) Las unidades escolares, en un 4 por 100.
+3. A los efectos previstos en la letra b) del número 2, se asignará a los municipios menores de 10.000 habitantes el 11 por 100 y a los restantes el 5 por 100.
+4. La distribución por los citados criterios será de forma directamente proporcional, excepto la solidaridad y la insularidad periférica, que será de forma igualitaria.
+
+## TÍTULO I
+
+Normas para la distribución del Fondo
+
+## CAPÍTULO I
+
+Criterios de distribución
+
+### Artículo 4
+
+Artículo 4. Población.
+A los efectos de distribución del Fondo por esta variable se tendrán en cuenta los datos de población suministrados por el Instituto Nacional de Estadística, correspondientes al 1 de enero del ejercicio anterior al de la distribución.
+
+### Artículo 5
+
+Artículo 5. Insularidad periférica.
+A efectos de esta Ley se considera insularidad periférica la pertenencia de los municipios a islas donde no radiquen las capitales de la Comunidad Autónoma de Canarias.
+Entre tales municipios se distribuirá una cantidad igual en atención a esta variable.
+
+### Artículo 6
+
+Artículo 6. Extensión superficial.
+La superficie de los municipios se obtendrá de los datos del Instituto Canario de Estadística (ISTAC).
+
+### Artículo 7
+
+Artículo 7. Superficie declarada espacio natural protegido.
+Se considerará a efectos de esta variable la superficie en relación con la extensión total del término municipal declarada espacio natural protegido en cada municipio, según los datos suministrados por la Consejería competente en materia de medio ambiente. La distribución por este criterio se efectuará en proporción directa a la superficie relativa, en base cien, declarada espacio natural protegido en cada municipio, conforme a la siguiente fórmula:
+Y=
+ ENPM × 100
+ ETM
+ 
+ Y × 100
+ = X
+ TENPC
+ 
+ ΣY
+donde:
+Y = Superficie relativa declarada espacio natural protegido de cada municipio.
+ENPM = Superficie declarada espacio natural protegido en el municipio.
+ETM = Extensión territorial del municipio.
+TENPC = Total superficie declarada espacio natural protegido en Canarias.
+ΣY = Suma de las superficies relativas declaradas espacios naturales protegidos en cada municipio.
+X = Porcentaje de espacio natural protegido que corresponde a cada municipio (aproximación 4 decimales).
+Se modifica por el art. 1.1 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+
+### Artículo 8
+
+Artículo 8. Plazas alojativas turísticas.
+El censo de camas alojativas turísticas tendrá carácter bianual. Inicialmente se tomarán en cuenta las existentes en cada municipio a 1 de enero del año 1999, obtenidas a partir de las autorizaciones de apertura otorgadas por los cabildos insulares y acreditadas mediante certificación expedida por el Registro General de Empresas, Establecimientos y Actividades Turísticas de la Consejería competente en materia de turismo.
+Se modifica por el art. 1.2 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+
+### Artículo 9
+
+Artículo 9. Dispersión territorial.
+1. La distribución de la parte del Fondo correspondiente al criterio de dispersión territorial, se calculará atendiendo a la siguiente fórmula:
+Donde:
+P = Población del municipio.
+PC = Población de la capital del municipio.
+N.o E = Número de entidades de población del municipio.
+2. Los datos serán obtenidos de la base estadística elaborada por el Instituto Nacional de Estadística, correspondientes al 1 de enero del ejercicio anterior al de la distribución.
+
+### Artículo 10
+
+Artículo 10. Unidades escolares.
+Se considerará a efectos de ésta el número de grupos de alumnos de los centros públicos de educación infantil, preescolar, primaria y primer ciclo de secundaria.
+El número de grupos de alumnos de los centros en cada municipio se referirá al del curso académico que finalice durante el ejercicio presupuestario en que se realice el reparto, según resulte de los datos proporcionados por la Consejería competente en materia de educación.
+
+## CAPÍTULO II
+
+Indicadores de saneamiento económico-financiero
+
+### Artículo 11
+
+Artículo 11. Indicadores de saneamiento económico-financiero.
+Los indicadores de saneamiento económico-financiero, medidos sobre la liquidación del presupuesto de la propia entidad municipal correspondiente al ejercicio inmediato anterior al que se refiere la distribución del fondo, son los siguientes:
+1. Remanente de tesorería superior al 1 por 100 de la suma de los derechos reconocidos netos por los capítulos I al V de ingresos en la liquidación del presupuesto, deducidos de dicha suma los derechos liquidados por contribuciones especiales y por la parte del Fondo destinada a libre disposición.
+El remanente de tesorería para gastos generales se cuantificará de acuerdo con lo establecido en la normativa vigente que resulte de aplicación, deduciendo, como mínimo, en concepto de derechos pendientes de cobro de difícil o dudosa recaudación, el 95 por 100 de todos los derechos pendientes de cobro por impuestos, tasas y precios públicos con antigüedad de devengo igual o superior a cinco años, el 70 por 100 de los de antigüedad de cuatro años o inferior a cinco, y el 40 por 100 de los de tres años o inferior a cuatro, contados a partir del 31 de diciembre del ejercicio al que se refiere la liquidación.
+Asimismo siendo el remanente de tesorería para gastos generales una parte del total, a efecto de dicha cuantificación, es requisito necesario que en la liquidación del presupuesto se incluya el estado de seguimiento y control de los gastos con financiación afectada a fin de poder determinar las desviaciones, positivas o negativas, de financiación, conforme a la normativa vigente.
+2. Ahorro neto superior al 10 por 100 de los derechos reconocidos netos por capítulos I al V de ingresos en la liquidación del presupuesto anual, deducidos los derechos liquidados por contribuciones especiales y por el Fondo por operaciones corrientes.
+Este indicador se obtendrá deduciendo de los derechos reconocidos netos con las deducciones expresadas, el volumen de las obligaciones reconocidas por capítulos I a IV de gastos en la liquidación y el de las amortizaciones correspondientes a las operaciones de crédito a largo plazo vigentes y dividiendo el importe resultante entre los indicados derechos reconocidos netos y deducciones.
+3. Endeudamiento a largo plazo inferior al 70 por 100 de los derechos reconocidos netos por capítulos I al V de ingresos en la liquidación del presupuesto, deducidos los derechos liquidados por contribuciones especiales y por el Fondo por operaciones corrientes.
+Este indicador se obtendrá dividiendo el importe pendiente de devolución por operaciones de crédito a largo plazo vigentes a 31 de diciembre entre los indicados derechos reconocidos netos y deducciones.
+Se modifica el primer párrafo por el art. 6.1 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+ Se modifica el apartado 1 por el art. 1.3 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+
+## CAPÍTULO III
+
+Condicionantes de cuantía de libre disposición
+
+### Artículo 12
+
+Artículo 12. Condicionantes de cuantía de libre disposición.
+Los condicionantes de la cuantía de libre disposición, medidos sobre la liquidación del presupuesto de la propia entidad municipal, correspondiente al ejercicio inmediato anterior al que se refiere la distribución del Fondo, son la gestión recaudatoria y el esfuerzo fiscal en los términos de los artículos siguientes.
+Se modifica el primer párrafo por el art. 6.2 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Artículo 13
+
+Artículo 13. Gestión recaudatoria.
+Se tendrá en cuenta la gestión recaudatoria superior al tanto por ciento de los derechos reconocidos netos por capítulos I a III de ingresos de la liquidación del indicado presupuesto, que a continuación se expresan:
+Para el año 1999, el 74 por 100.
+Para el año 2000, el 75 por 100.
+Para el año 2001, el 76 por 100.
+Para el año 2002, el 77 por 100.
+Para el año 2003, el 78 por 100.
+A los efectos del cálculo de este condicionante se tendrá en cuenta el porcentaje resultante de dividir la suma de la recaudación líquida obtenida durante el ejercicio por los capítulos I al III de ingresos, entre las sumas de los derechos reconocidos netos por dichos capítulos. De las sumas de los derechos reconocidos netos y recaudación líquida se deducirán, en su caso, las correspondientes a contribuciones especiales.
+Véase la disposición final 1 de la presente ley.
+Se modifica el último párrafo por el art. 1.4 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+
+### Artículo 14
+
+Artículo 14. Esfuerzo fiscal.
+Se considerará el esfuerzo fiscal del Ayuntamiento superior al 80 por 100 de la media del de los ayuntamientos adheridos al fondo que hubiesen remitido en plazo la documentación necesaria para la determinación de este condicionante.
+El esfuerzo fiscal se obtendrá mediante la aplicación de la siguiente fórmula:
+Efm =
+ Rm(1)/Dpm(1)
+ R(1)/Dp(1)
+Donde:
+Efm = Esfuerzo fiscal del municipio.
+Rm(1) = Derechos reconocidos netos del municipio por los Impuestos sobre Bienes Inmuebles; Actividades Económicas; Construcciones, Instalaciones y Obras; Vehículos de Tracción Mecánica e Incremento del Valor de los Terrenos de Naturaleza Urbana.
+Dpm(1) = Derechos potencialmente liquidables en el municipio por los Impuestos mencionados.
+R(1) = Derechos reconocidos netos en el conjunto de los municipios participantes en la distribución por los Impuestos antes referidos.
+Dp(1) = Derechos potencialmente liquidables en el conjunto de los municipios participantes en la distribución por dichos Impuestos.
+Para proceder a la distribución del fondo a que se refiere esta Ley por esta variable, la Consejería competente en materia de régimen local determinará la documentación necesaria y el plazo para remitirla por los Ayuntamientos.»
+2. A efectos de calcular la potencialidad fiscal del municipio, se aplicarán los siguientes criterios:
+a) Impuesto sobre Bienes Inmuebles: Los tipos máximos de gravamen para los bienes inmuebles de naturaleza urbana y rústica serán los que, según los tramos de población de los municipios, se señalen en la legislación local de aplicación.
+En el caso de que se hubiera producido una revisión catastral en el municipio, para calcular los derechos potencialmente liquidables en el Impuesto sobre Bienes Inmuebles se utilizará la base liquidable del Impuesto que resulte de aplicar las reducciones que establece la Ley sobre la base imponible.
+b) Impuesto sobre Actividades Económicas: Las cuotas de tarifa se incrementarán mediante la aplicación sobre las mismas del coeficiente único máximo fijado para los municipios, según su población, por la escala prevista en la legislación local de aplicación. A las cuotas máximas así obtenidas, en el caso de que el ayuntamiento aplique índices para ponderar la situación física de los establecimientos dentro del término municipal, atendiendo a la categoría de las calles en que éstos radiquen, se les aplicará un índice de situación medio del 1,35.
+c) Impuesto sobre Vehículos de Tracción Mecánica: A las tarifas del impuesto legalmente aprobadas para el ejercicio considerado se aplicarán los coeficientes de incremento máximo fijados para los municipios, según su población, por la normativa de aplicación.
+d) Impuesto sobre Construcciones, Instalaciones y Obras: Se aplicará el tipo de gravamen máximo que para los municipios, según su población, fija la normativa vigente de aplicación y se dividirá el producto obtenido por el tipo de gravamen fijado en la Ordenanza Fiscal correspondiente.
+e) Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana: Se aplicará el producto de la media aritmética de los porcentajes anuales máximos de incremento de valor, legalmente establecido en cada caso, según el tramo de población del municipio, por el tipo máximo de gravamen correspondiente según la normativa de aplicación y se dividirá el resultado entre el producto resultante de la media aritmética de porcentaje anual de incremento por el tipo de gravamen, fijados por el ayuntamiento según la Ordenanza Fiscal correspondiente.
+Véase la disposición final 1 de la presente ley.
+Se modifica el primer párrafo y los apartado 1 y 2.a) por el art. 6.3 y 4 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+ Redactado conforme a la corrección de errores publicada en BOC núm. 19, de 12 de febrero de 1999. Ref. BOC-j-1999-90259
+
+## CAPÍTULO IV
+
+Procedimiento de distribución del Fondo
+
+### Artículo 15
+
+Artículo 15. Procedimiento para la distribución del Fondo.
+Para la distribución del Fondo se seguirá el procedimiento siguiente:
+1. Por la Consejería competente en materia de régimen local se procederá a comprobar la situación de cumplimiento de los indicadores de saneamiento económico-financiero y de los criterios condicionantes de la cuantía de libre disposición, sobre la liquidación del presupuesto municipal del ejercicio inmediato anterior al de la distribución del Fondo, mediante auditorías de gestión, que deberán ser aprobadas por el Consejero competente en materia de régimen local, previa acreditación de haber sido tomadas en consideración por los plenos respectivos.
+Por la Consejería competente en materia de régimen local se determinará anualmente la documentación necesaria para proceder a dichas comprobaciones y el plazo en que deba ser remitida por los ayuntamientos.
+2. El titular del Departamento citado solicitará los datos precisos para la aplicación de los criterios de distribución del Fondo a los organismos que conforme a esta Ley deban suministrarlos.
+3. Recibida la documentación a que se refiere el número 2 anterior, el titular del citado Departamento elevará al Gobierno propuesta de distribución del Fondo, que comprenderá la aprobación del gasto correspondiente a la respectiva anualidad.
+4. De la indicada propuesta se dará audiencia por un periodo de un mes a la Federación Canaria de Municipios.
+5. Adoptado el acuerdo de distribución del Fondo por el Gobierno, la consejería competente en materia de régimen local procederá, dentro del primer cuatrimestre del ejercicio, al libramiento del 70 por ciento del importe del Fondo previsto en la letra b) del apartado 1 del artículo 1.
+Aprobadas las auditorías de gestión y de acuerdo con las mismas, se procederá al libramiento de las cantidades correspondientes a cada ayuntamiento de la parte del Fondo prevista en la letra a) del apartado 1 del artículo 1.
+Con anterioridad a la finalización del ejercicio, se procederá a librar la cantidad que corresponda a cada ayuntamiento del 30 por ciento restante del importe del Fondo previsto en la letra b) del apartado 1 del artículo 1, una vez deducidas las penalizaciones que correspondan de acuerdo con lo previsto en el artículo 19.
+Se modifica el apartado 5 por el art. 29.2 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se modifica el apartado 5 por el art. 6.5 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+## TÍTULO II
+
+Seguimiento, comprobación e incumplimientos
+
+## CAPÍTULO I
+
+Seguimiento y comprobación
+
+### Artículo 16
+
+Artículo 16. Justificación de incorporación al presupuesto municipal.
+Las corporaciones remitirán a la Consejería competente en materia de régimen local certificación acreditativa de incorporación de las cantidades recibidas a sus respectivos presupuestos con destino a las finalidades para las que fueron libradas, en el plazo de dos meses a partir de la recepción de las correspondientes transferencias.
+
+### Artículo 17
+
+Artículo 17. Comprobación.
+Sin perjuicio de las competencias de control atribuidas a la Intervención General de la Administración de la Comunidad Autónoma de Canarias por la normativa vigente, la Consejería competente en materia de régimen local exigirá certificación del Secretario acreditativa de que efectivamente se hayan aplicado los importes librados a los fines para los que están destinados, pudiendo exigir, además, cualquier otro documento que permita la comprobación de la aplicación del Fondo.
+
+## CAPÍTULO II
+
+Incumplimientos
+
+### Artículo 18
+
+Artículo 18. Supuestos de incumplimiento.
+A los efectos de esta Ley se consideran incumplimientos:
+a) No obtener los porcentajes de los indicadores de saneamiento económico-financiero previstos en el artículo 11.
+b) No obtener los valores de los condicionantes de importe de libre disposición previstos en el artículo 12.
+c) La no remisión en plazo de la documentación necesaria para la determinación del esfuerzo fiscal.
+d) La no remisión de la documentación exigida para la realización de la auditoría de gestión con anterioridad a la finalización del ejercicio.
+e) La no remisión, con anterioridad a la finalización del ejercicio, del acuerdo plenario por el que se toma en consideración la auditoría de gestión.
+f) No destinar los recursos económicos del Fondo Canario de Financiación Municipal a las finalidades legalmente previstas.
+Se modifica la letra d) y se añaden las letras e) y f) por la disposición final 10.1 de la Ley 3/2016, de 29 de diciembre. Ref. BOE-A-2017-6861
+ Se añade la letra d) por el art. 29.3 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se añade la letra c) por el art. 6.6 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Artículo 19
+
+Artículo 19. Consecuencia del incumplimiento.
+1. En caso de incumplimiento de los indicadores de saneamiento económico-financiero, el Fondo previsto en la letra a) del apartado 1 del artículo 1 mantendrá dicho destino.
+2. En caso de incumplimiento de los condicionantes de la cuantía de libre disposición, el Fondo previsto en la letra b) del apartado 1 del artículo 1 se reducirá en un 10 por 100 por cada condicionante incumplido.
+3. En caso de no remitirse en plazo la documentación necesaria para la determinación del esfuerzo fiscal, el fondo previsto en la letra b) del apartado 1 del artículo 1 de esta Ley se reducirá en un 20 por 100.
+La aplicación de la presente reducción por incumplimiento de plazo no se aplicará conjuntamente con la prevista en el apartado anterior por incumplimiento del indicador de esfuerzo fiscal, de tal modo que presentada la documentación fuera de plazo y detectándose incumplimiento del citado indicador sólo se aplicará reducción por incumplimiento de plazo.
+4. En caso de que la auditoría de gestión prevista en el artículo 15 detecte un incumplimiento de los previstos en el artículo 18, se dará audiencia a la corporación afectada. Por el Consejero competente en materia de régimen local se dictará resolución conteniendo el incumplimiento detectado y la consecuencia del mismo, informando al Parlamento.
+5. Los ayuntamientos que no presenten la documentación exigida para la realización de las auditorías de gestión con anterioridad a la finalización del ejercicio, perderán el derecho a percibir las cantidades que le correspondan de la parte del fondo prevista en la letra a) del apartado 1 del artículo 1, y del 30 por ciento del importe del fondo previsto en la letra b) del apartado 1 del artículo 1.
+6. Los ayuntamientos que con anterioridad a la finalización del ejercicio no presenten el acuerdo plenario por el que se toma en consideración la auditoría de gestión, perderán el derecho a percibir la cantidad que integra la parte anticipada del fondo prevista en el primer párrafo del apartado 5 del artículo 15 y habrán de reintegrar la misma previa tramitación del oportuno expediente de reintegro con arreglo a las determinaciones previstas en la Ley General de Subvenciones.
+7. En caso de no destinarse los recursos económicos del Fondo Canario de Financiación Municipal a las finalidades legalmente previstas, se habrá de reintegrar el importe no destinado a su correspondiente finalidad con arreglo al procedimiento previsto en la Ley General de Subvenciones, sin perjuicio de las demás responsabilidades en que haya podido incurrir.
+Se modifica el apartado 5 y se añaden el 6 y 7 por la disposición final 10.2 de la Ley 3/2016, de 29 de diciembre. Ref. BOE-A-2017-6861
+ Se añade el apartado 5 por el art. 29.4 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se modifica el apartado 3 y se añade el 4 por el art. 6.7 y 8 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Disposición adicional primera
+
+Disposición adicional primera. Incorporación de remanentes.
+(Sin contenido)
+Se deja sin contenido por el art. 29.5 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282
+ Se modifica por la disposición 31 de la Ley 9/2005, de 27 de diciembre. Ref. BOE-A-2006-8509
+ Se modifica por el art. 6.9 de la Ley 2/2002, de 27 de marzo. Ref. BOE-A-2002-7712
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Dotación presupuestaria del Fondo.
+Las leyes de presupuestos generales de la Comunidad Autónoma de Canarias consignarán los créditos precisos para financiar la elaboración de las auditorías de gestión que sean necesarias.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Importe del Fondo para el ejercicio 1999.
+Para el año de 1999, el importe del Fondo será de 18.300.000.000 de pesetas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Excepción del régimen de incumplimientos.
+Sin perjuicio de lo establecido en el artículo 19, en el ejercicio 2000 no se aplicará a los Ayuntamientos reducción de su participación en el Fondo por incumplimiento de los condicionantes de libre disposición.
+Se modifica por el art. 1.5 de la Ley 2/2000, de 17 de julio. Ref. BOE-A-2000-15425
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Iniciación de oficio del procedimiento de adhesión.
+Con anterioridad al 31 de marzo del primer año de vigencia de esta Ley, la Consejería competente en materia de régimen local se dirigirá a todos los ayuntamientos para que remitan acuerdo plenario de adhesión voluntaria al Fondo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Conexión con el sistema normativo anterior.
+Antes de procederse a la distribución del Fondo correspondiente a la primera anualidad de vigencia de esta Ley se confeccionarán por la Consejería competente en materia de régimen local los diagnósticos económico-financieros que se hubiesen previsto en la normativa que se encuentre vigente en ese momento. Este diagnóstico sustituye a la auditoría de gestión prevista en el artículo 15.1 de la presente Ley para el ejercicio de 1999.
+Si conforme a dicho diagnóstico no se cumpliesen los indicadores de saneamiento económico-financiero previstos en la citada normativa, de ser diferentes a los contenidos en esta Ley, del Fondo correspondiente al ejercicio de 1999, y conforme al artículo 1 de la presente Ley, el 50 por 100 del mismo se destinará al cumplimiento de los indicadores de saneamiento económico-financiero previstos en la presente Ley y, en caso contrario, a inversión; destinándose el otro 50 por 100 para gastos de libre disposición.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Datos relativos a plazas alojativas turísticas.
+Hasta tanto el Registro General de empresas, establecimientos y actividades turísticas no esté en disposición de expedir el certificado a que alude el artículo 8 de esta Ley, se estará a los datos facilitados por los Cabildos Insulares o por el Instituto Canario de Estadística.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+1. Se habilita al Gobierno para modificar por Decreto los indicadores de saneamiento económico-financiero y los condicionantes de la cuantía de libre disposición previstos en esta Ley, así como para determinar, igualmente mediante Decreto, a partir del sexto año inclusive de la vigencia de la presente Ley, la valoración de los condicionantes de importes de libre disposición prevista en los artículos 13 y 14.
+Con carácter previo al ejercicio por el Gobierno de las facultades que le atribuye el párrafo anterior se dará audiencia a la Federación Canaria de Municipios por un periodo de quince días.
+2. Se autoriza al Gobierno para dictar las normas que fueran precisas para el desarrollo y ejecución de esta Ley.
+Téngase en cuenta que estas modificaciones serán realizadas por Decreto publicado únicamente en el Boletín Oficial de Canarias.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de Canarias».
+
+### [firma]
+
+Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Santa Cruz de Tenerife, 4 de febrero de 1999.–El Presidente, Manuel Hermoso Rojas.

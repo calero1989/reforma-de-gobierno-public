@@ -1,0 +1,1585 @@
+# Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+
+- Identificador BOE: `BOE-A-2000-544`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-544
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 20, de 24 de enero de 2000. Ref. BOE-A-2000-1432.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Delimitación del ámbito.
+1. Se consideran extranjeros, a los efectos de la aplicación de la presente Ley, a los que carezcan de la nacionalidad española.
+2. Lo dispuesto en esta Ley se entenderá, en todo caso, sin perjuicio de lo establecido en leyes especiales y en los Tratados internacionales en los que España sea parte.
+3. Los nacionales de los Estados miembros de la Unión Europea y aquellos a quienes sea de aplicación el régimen comunitario se regirán por las normas que lo regulan, siéndoles de aplicación la presente Ley en aquellos aspectos que pudieran ser más favorables.
+Se modifica el apartado 3 por el art. único.1 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade el apartado 3 por el art. 1.1 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica por el artículo 1.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 2
+
+Artículo 2. Exclusión del ámbito de la ley.
+Quedan excluidos del ámbito de aplicación de esta ley:
+a) Los agentes diplomáticos y los funcionarios consulares acreditados en España, así como los demás miembros de las misiones diplomáticas permanentes o especiales y de las oficinas consulares y sus familiares que, en virtud de las normas del Derecho internacional, estén exentos de las obligaciones relativas a su inscripción como extranjeros y a la obtención de la autorización de residencia.
+b) Los representantes, delegados y demás miembros de las Misiones permanentes o de las Delegaciones ante los Organismos intergubernamentales con sede en España o en Conferencias internacionales que se celebren en España, así como sus familiares.
+c) Los funcionarios destinados en Organizaciones internacionales o intergubernamentales con sede en España, así como sus familiares, a quienes los Tratados en los que sea parte España eximan de las obligaciones mencionadas en el párrafo a) de este artículo.
+Se modifica la letra b) por el art. único.2 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se sustituye el término «permiso» por «autorización» según establece la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
+
+### Artículo 2.bis
+
+Artículo 2 bis. La política inmigratoria.
+1. Corresponde al Gobierno, de conformidad con lo previsto en el artículo 149.1.2.ª de la Constitución, la definición, planificación, regulación y desarrollo de la política de inmigración, sin perjuicio de las competencias que puedan ser asumidas por las Comunidades Autónomas y por las Entidades Locales.
+2. Todas las Administraciones Públicas basarán el ejercicio de sus competencias vinculadas con la inmigración en el respeto a los siguientes principios:
+a) la coordinación con las políticas definidas por la Unión Europea;
+b) la ordenación de los flujos migratorios laborales, de acuerdo con las necesidades de la situación nacional del empleo;
+c) la integración social de los inmigrantes mediante políticas transversales dirigidas a toda la ciudadanía;
+d) la igualdad efectiva entre mujeres y hombres;
+e) la efectividad del principio de no discriminación y, consecuentemente, el reconocimiento de iguales derechos y obligaciones para todos aquellos que vivan o trabajen legalmente en España, en los términos previstos en la Ley;
+f) la garantía del ejercicio de los derechos que la Constitución, los tratados internacionales y las leyes reconocen a todas las personas;
+g) la lucha contra la inmigración irregular y la persecución del tráfico ilícito de personas;
+h) la persecución de la trata de seres humanos;
+i) la igualdad de trato en las condiciones laborales y de Seguridad Social;
+j) la promoción del diálogo y la colaboración con los países de origen y tránsito de inmigración, mediante acuerdos marco dirigidos a ordenar de manera efectiva los flujos migratorios, así como a fomentar y coordinar las iniciativas de cooperación al desarrollo y codesarrollo.
+3. El Estado garantizará el principio de solidaridad, consagrado en la Constitución, atendiendo a las especiales circunstancias de aquellos territorios en los que los flujos migratorios tengan una especial incidencia.
+Se añade por el artículo único.3 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 2.ter
+
+Artículo 2 ter. Integración de los inmigrantes.
+1. Los poderes públicos promoverán la plena integración de los extranjeros en la sociedad española, en un marco de convivencia de identidades y culturas diversas sin más límite que el respeto a la Constitución y la ley.
+2. Las Administraciones Públicas incorporarán el objetivo de la integración entre inmigrantes y sociedad receptora, con carácter transversal a todas las políticas y servicios públicos, promoviendo la participación económica, social, cultural y política de las personas inmigrantes, en los términos previstos en la Constitución, en los Estatutos de Autonomía y en las demás leyes, en condiciones de igualdad de trato.
+Especialmente, procurarán, mediante acciones formativas, el conocimiento y respeto de los valores constitucionales y estatutarios de España, de los valores de la Unión Europea, así como de los derechos humanos, las libertades públicas, la democracia, la tolerancia y la igualdad entre mujeres y hombres, y desarrollarán medidas específicas para favorecer la incorporación al sistema educativo, garantizando en todo caso la escolarización en la edad obligatoria, el aprendizaje del conjunto de lenguas oficiales, y el acceso al empleo como factores esenciales de integración.
+3. La Administración General del Estado cooperará con las Comunidades Autónomas, las Ciudades de Ceuta y Melilla y los Ayuntamientos para la consecución de las finalidades descritas en el presente artículo, en el marco de un plan estratégico plurianual que incluirá entre sus objetivos atender a la integración de los menores extranjeros no acompañados. En todo caso, la Administración General del Estado, las Comunidades Autónomas y los Ayuntamientos colaborarán y coordinarán sus acciones en este ámbito tomando como referencia sus respectivos planes de integración.
+4. De conformidad con los criterios y prioridades del Plan Estratégico de Inmigración, el Gobierno y las Comunidades autónomas acordarán en la Conferencia Sectorial de Inmigración programas de acción bienales para reforzar la integración social de los inmigrantes. Tales programas serán financiados con cargo a un fondo estatal para la integración de los inmigrantes, que se dotará anualmente, y que podrá incluir fórmulas de cofinanciación por parte de las Administraciones receptoras de las partidas del fondo.
+Se deja sin efecto para el ejercicio 2018 lo previsto en el apartado 4 por la disposición adicional 105 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#da-106
+ Se deja sin efecto para el ejercicio 2017 lo previsto en el apartado 4 por la disposición adicional 104 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+ Se deja sin efecto para el ejercicio 2016 lo previsto en el apartado 4 por la disposición adicional 75 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+ Se deja sin efecto para el ejercicio 2015 lo previsto en el apartado 4 por la disposición adicional 72 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+ Se suspende para 2014 la aplicación del apartado 4 por la disposición adicional 82 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se deja sin efecto en 2013 el apartado 4 por la disposición adicional 86 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se deja sin efecto en 2012 el apartado 4 por la disposición adicional 44 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se añade por el artículo único.4 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+## TÍTULO I
+
+Derechos y libertades de los extranjeros
+
+## CAPÍTULO I
+
+Derechos y libertades de los extranjeros
+
+### Artículo 3
+
+Artículo 3. Derechos de los extranjeros e interpretación de las normas.
+1. Los extranjeros gozarán en España de los derechos y libertades reconocidos en el Título I de la Constitución en los términos establecidos en los Tratados internacionales, en esta Ley y en las que regulen el ejercicio de cada uno de ellos. Como criterio interpretativo general, se entenderá que los extranjeros ejercitan los derechos que les reconoce esta Ley en condiciones de igualdad con los españoles.
+2. Las normas relativas a los derechos fundamentales de los extranjeros serán interpretadas de conformidad con la Declaración Universal de Derechos Humanos y con los tratados y acuerdos internacionales sobre las mismas materias vigentes en España, sin que pueda alegarse la profesión de creencias religiosas o convicciones ideológicas o culturales de signo diverso para justificar la realización de actos o conductas contrarios a las mismas.
+Se modifica el apartado 2 por el art. único.5 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican la rúbrica y el apartado 1 por el artículo 1.2 de la Ley Orgánica 8/2000, de 22 de diciembre de 2000.Ref. BOE-A-2000-23660.
+
+### Artículo 4
+
+Artículo 4. Derecho a la documentación.
+1. Los extranjeros que se encuentren en territorio español tienen el derecho y el deber de conservar la documentación que acredite su identidad, expedida por las autoridades competentes del país de origen o de procedencia, así como la que acredite su situación en España.
+2. Todos los extranjeros a los que se haya expedido un visado o una autorización para permanecer en España por un período superior a seis meses, obtendrán la tarjeta de identidad de extranjero, que deberán solicitar personalmente en el plazo de un mes desde su entrada en España o desde que se conceda la autorización, respectivamente. Estarán exceptuados de dicha obligación los titulares de un visado de residencia y trabajo de temporada.
+Reglamentariamente se desarrollarán los supuestos en que se podrá obtener dicha tarjeta de identidad cuando se haya concedido una autorización para permanecer en España por un periodo no superior a seis meses.
+3. Los extranjeros no podrán ser privados de su documentación, salvo en los supuestos y con los requisitos previstos en esta Ley Orgánica y en la Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana.
+Se modifica por el art. único.6 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se renumera el apartado 2 como 3 y se añade un apartado 2 por el art. 1.2 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 5
+
+Artículo 5. Derecho a la libertad de circulación.
+1. Los extranjeros que se hallen en España de acuerdo con lo establecido en el Título II de esta Ley, tendrán derecho a circular libremente por el territorio español y a elegir su residencia sin más limitaciones que las establecidas con carácter general por los tratados y las leyes, o las acordadas por la autoridad judicial, con carácter cautelar o en un proceso penal o de extradición en el que el extranjero tenga la condición de imputado, víctima o testigo, o como consecuencia de sentencia firme.
+2. No obstante, podrán establecerse medidas limitativas específicas cuando se acuerden en la declaración de estado de excepción o de sitio, en los términos previstos en la Constitución, y, excepcionalmente por razones de seguridad pública, de forma individualizada, motivada y en proporción a las circunstancias que concurran en cada caso, por resolución del Ministro del Interior, adoptada de acuerdo con las garantías jurídicas del procedimiento sancionador previsto en la Ley. Las medidas limitativas, cuya duración no excederá del tiempo imprescindible y proporcional a la persistencia de las circunstancias que justificaron la adopción de las mismas, podrán consistir en la presentación periódica ante las autoridades competentes y en el alejamiento de fronteras o núcleos de población concretados singularmente.
+Se modifica por el art. único.7 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 por el artículo 1.3 de la Ley Orgánica 8/2000, de 22 de diciembre de 2000.Ref. BOE-A-2000-23660.
+
+### Artículo 6
+
+Artículo 6. Participación pública.
+1. Los extranjeros residentes en España podrán ser titulares del derecho de sufragio, en las elecciones municipales, en los términos establecidos en la Constitución, en los tratados internacionales, en su caso, y en la Ley.
+2. Los extranjeros residentes, empadronados en un municipio, tienen todos los derechos establecidos por tal concepto en la legislación de bases de régimen local, pudiendo ser oídos en los asuntos que les afecten de acuerdo con lo que disponga la normativa de aplicación.
+3. Los Ayuntamientos incorporarán al padrón a los extranjeros que tengan su domicilio habitual en el municipio y mantendrán actualizada la información relativa a los mismos.
+4. Los poderes públicos facilitarán el ejercicio del derecho de sufragio de los extranjeros en los procesos electorales democráticos del país de origen.
+Se modifica por el art. único.8 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el artículo 1.4 de la Ley Orgánica 8/2000, de 22 de diciembre de 2000.Ref. BOE-A-2000-23660.
+
+### Artículo 7
+
+Artículo 7. Libertades de reunión y manifestación.
+1. Los extranjeros tienen el derecho de reunión en las mismas condiciones que los españoles.
+2. Los promotores de reuniones o manifestaciones en lugares de tránsito público darán comunicación previa a la autoridad competente con la antelación prevista en la Ley Orgánica reguladora del Derecho de Reunión, la cual no podrá prohibirla o proponer su modificación sino por las causas previstas en dicha Ley.
+Se modifica el apartado 1 por el art. único.9 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se declara la inconstitucionalidad del apartado 1, con los efectos que se indican en el fundamento jurídico 17, por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+ En el mismo sentido se pronuncian:
+ Sentencia del TC 259/2007, de 19 de diciembre. Ref. BOE-T-2008-1083.
+ Sentencia del TC 260/2007, de 20 de diciembre. Ref. BOE-T-2008-1084.
+ Sentencia del TC 261/2007, de 20 de diciembre. Ref. BOE-T-2008-1085.
+ Sentencia del TC 262/2007, de 20 de diciembre. Ref. BOE-T-2008-1086.
+ Sentencia del TC 263/2007, de 20 de diciembre. Ref. BOE-T-2008-1087.
+ Sentencia del TC 264/2007, de 20 de diciembre. Ref. BOE-T-2008-1088.
+ Sentencia del TC 265/2007, de 20 de diciembre. Ref. BOE-T-2008-1089.
+ Se modifica el apartado 1 por el art. 1.5 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 8
+
+Artículo 8. Libertad de asociación.
+Todos los extranjeros tienen el derecho de asociación en las mismas condiciones que los españoles.
+Se modifica por el art. único.10 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se declara la inconstitucionalidad del artículo, con los efectos que se indican en el fundamento jurídico 17, por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+ En el mismo sentido se pronuncian:
+ Sentencia del TC 259/2007, de 19 de diciembre. Ref. BOE-T-2008-1083.
+ Sentencia del TC 260/2007, de 20 de diciembre. Ref. BOE-T-2008-1084.
+ Sentencia del TC 261/2007, de 20 de diciembre. Ref. BOE-T-2008-1085.
+ Sentencia del TC 262/2007, de 20 de diciembre. Ref. BOE-T-2008-1086.
+ Sentencia del TC 263/2007, de 20 de diciembre. Ref. BOE-T-2008-1087.
+ Sentencia del TC 264/2007, de 20 de diciembre. Ref. BOE-T-2008-1088.
+ Sentencia del TC 265/2007, de 20 de diciembre. Ref. BOE-T-2008-1089.
+ Se modifica por el artículo 1.6 de la Ley 8/2000, de 22 de diciembre de 2000. Ref. BOE-A-2000-23660.
+
+### Artículo 9
+
+Artículo 9. Derecho a la educación.
+1. Los extranjeros menores de dieciséis años tienen el derecho y el deber a la educación, que incluye el acceso a una enseñanza básica, gratuita y obligatoria. Los extranjeros menores de dieciocho años también tienen derecho a la enseñanza posobligatoria.
+Este derecho incluye la obtención de la titulación académica correspondiente y el acceso al sistema público de becas y ayudas en las mismas condiciones que los españoles.
+En caso de alcanzar la edad de dieciocho años en el transcurso del curso escolar, conservarán ese derecho hasta su finalización.
+2. Los extranjeros mayores de dieciocho años que se hallen en España tienen derecho a la educación de acuerdo con lo establecido en la legislación educativa. En todo caso, los extranjeros residentes mayores de dieciocho años tienen el derecho a acceder a las demás etapas educativas posobligatorias, a la obtención de las titulaciones correspondientes, y al sistema público de becas en las mismas condiciones que los españoles.
+3. Los poderes públicos promoverán que los extranjeros puedan recibir enseñanzas para su mejor integración social.
+4. Los extranjeros residentes que tengan en España menores a su cargo en edad de escolarización obligatoria, deberán acreditar dicha escolarización, mediante informe emitido por las autoridades autonómicas competentes, en las solicitudes de renovación de su autorización o en su solicitud de residencia de larga duración.
+Se modifica por el art. único.11 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 3 por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+ Se modifica por el art.1.7 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 10
+
+Artículo 10. Derecho al trabajo y a la Seguridad Social.
+1. Los extranjeros residentes que reúnan los requisitos previstos en esta Ley Orgánica y en las disposiciones que la desarrollen tienen derecho a ejercer una actividad remunerada por cuenta propia o ajena, así como a acceder al sistema de la Seguridad Social, de conformidad con la legislación vigente.
+2. Los extranjeros podrán acceder al empleo público en los términos previstos en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+Se modifica por el art. único.12 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.8 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+
+### Artículo 11
+
+Artículo 11. Libertad de sindicación y huelga.
+1. Los extranjeros tienen derecho a sindicarse libremente o a afiliarse a una organización profesional, en las mismas condiciones que los trabajadores españoles.
+2. Los extranjeros podrán ejercer el derecho a la huelga en las mismas condiciones que los españoles.
+Se modifica por el art. único.13 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 259/2007, de 19 de diciembre. Ref. BOE-T-2008-1083.
+ Se declara la inconstitucionalidad del apartado 1, exclusivamente respecto al derecho a sindicarse libremente, con los efectos que se indican en el fundamento jurídico 17, por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+ En el mismo sentido se pronuncian:
+ Sentencia del TC 259/2007, de 19 de diciembre. Ref. BOE-T-2008-1083.
+ Sentencia del TC 260/2007, de 20 de diciembre. Ref. BOE-T-2008-1084.
+ Sentencia del TC 261/2007, de 20 de diciembre. Ref. BOE-T-2008-1085.
+ Sentencia del TC 262/2007, de 20 de diciembre. Ref. BOE-T-2008-1086.
+ Sentencia del TC 263/2007, de 20 de diciembre. Ref. BOE-T-2008-1087.
+ Sentencia del TC 264/2007, de 20 de diciembre. Ref. BOE-T-2008-1088.
+ Sentencia del TC 265/2007, de 20 de diciembre. Ref. BOE-T-2008-1089.
+ Se modifica por el artículo 1.9 de la Ley 8/2000, de 22 de diciembre de 2000.Ref. BOE-A-2000-23660.
+
+### Artículo 12
+
+Artículo 12. Derecho a la asistencia sanitaria.
+Los extranjeros tienen derecho a la asistencia sanitaria en los términos previstos en la legislación vigente en materia sanitaria.
+Se modifica por la disposición final 3 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
+ Se modifica por el art. único.14 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 13
+
+Artículo 13. Derechos en materia de vivienda.
+Los extranjeros residentes tienen derecho a acceder a los sistemas públicos de ayudas en materia de vivienda en los términos que establezcan las leyes y las Administraciones competentes. En todo caso, los extranjeros residentes de larga duración tienen derecho a dichas ayudas en las mismas condiciones que los españoles.
+Se modifica por el art. único.15 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el artículo 1.10 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+
+### Artículo 14
+
+Artículo 14. Derecho a la Seguridad Social y a los servicios sociales.
+1. Los extranjeros residentes tienen derecho a acceder a las prestaciones y servicios de la Seguridad Social en las mismas condiciones que los españoles.
+2. Los extranjeros residentes tienen derecho a los servicios y a las prestaciones sociales, tanto a las generales y básicas como a las específicas, en las mismas condiciones que los españoles. En cualquier caso, los extranjeros con discapacidad, menores de dieciocho años, que tengan su domicilio habitual en España, tendrán derecho a recibir el tratamiento, servicios y cuidados especiales que exija su estado físico o psíquico.
+3. Los extranjeros, cualquiera que sea su situación administrativa, tienen derecho a los servicios y prestaciones sociales básicas.
+Se modifica por el art. único.16 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 15
+
+Artículo 15. Sujeción de los extranjeros a los mismos impuestos que los españoles.
+1. Sin perjuicio de lo dispuesto en los acuerdos aplicables sobre doble imposición internacional, los extranjeros estarán sujetos, con carácter general, a los mismos impuestos que los españoles.
+2. Los extranjeros tienen derecho a transferir sus ingresos y ahorros obtenidos en España a su país, o a cualquier otro, conforme a los procedimientos establecidos en la legislación española y de conformidad con los acuerdos internacionales aplicables. El Gobierno adoptará las medidas necesarias para facilitar dichas transferencias.
+Se modifica el apartado 2 por el art. único.17 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+## CAPÍTULO II
+
+Reagrupación familiar
+Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 16
+
+Artículo 16. Derecho a la intimidad familiar.
+1. Los extranjeros residentes tienen derecho a la vida en familia y a la intimidad familiar en la forma prevista en esta Ley Orgánica y de acuerdo con lo dispuesto en los Tratados internacionales suscritos por España.
+2. Los extranjeros residentes en España tienen derecho a reagrupar con ellos a los familiares que se determinan en el artículo 17.
+3. El cónyuge que hubiera adquirido la residencia en España por causa familiar y sus familiares con él agrupados conservarán la residencia aunque se rompa el vínculo matrimonial que dio lugar a la adquisición.
+Reglamentariamente se podrá determinar el tiempo previo de convivencia en España que se tenga que acreditar en estos supuestos.
+Se modifican los apartados 2 y 3 por el art. 1.12 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+
+### Artículo 17
+
+Artículo 17. Familiares reagrupables.
+1. El extranjero residente tiene derecho a reagrupar con él en España a los siguientes familiares:
+a) El cónyuge del residente, siempre que no se encuentre separado de hecho o de derecho, y que el matrimonio no se haya celebrado en fraude de ley. En ningún caso podrá reagruparse a más de un cónyuge aunque la ley personal del extranjero admita esta modalidad matrimonial. El extranjero residente que se encuentre casado en segundas o posteriores nupcias por la disolución de cada uno de sus anteriores matrimonios sólo podrá reagrupar con él al nuevo cónyuge si acredita que la disolución ha tenido lugar tras un procedimiento jurídico que fije la situación del cónyuge anterior y de sus hijos comunes en cuanto al uso de la vivienda común, a la pensión compensatoria a dicho cónyuge y a los alimentos que correspondan a los hijos menores, o mayores en situación de dependencia. En la disolución por nulidad, deberán haber quedado fijados los derechos económicos del cónyuge de buena fe y de los hijos comunes, así como la indemnización, en su caso.
+b) Los hijos del residente y del cónyuge, incluidos los adoptados, siempre que sean menores de dieciocho años o personas con discapacidad que no sean objetivamente capaces de proveer a sus propias necesidades debido a su estado de salud. Cuando se trate de hijos de uno solo de los cónyuges se requerirá, además, que éste ejerza en solitario la patria potestad o que se le haya otorgado la custodia y estén efectivamente a su cargo. En el supuesto de hijos adoptivos deberá acreditarse que la resolución por la que se acordó la adopción reúne los elementos necesarios para producir efecto en España.
+c) Los menores de dieciocho años y los mayores de esa edad que no sean objetivamente capaces de proveer a sus propias necesidades, debido a su estado de salud, cuando el residente extranjero sea su representante legal y el acto jurídico del que surgen las facultades representativas no sea contrario a los principios del ordenamiento español.
+d) Los ascendientes en primer grado del reagrupante y de su cónyuge cuando estén a su cargo, sean mayores de sesenta y cinco años y existan razones que justifiquen la necesidad de autorizar su residencia en España. Reglamentariamente se determinarán las condiciones para la reagrupación de los ascendientes de los residentes de larga duración en otro Estado miembro de la Unión Europea, de los trabajadores titulares de la tarjeta azul de la U.E. y de los beneficiarios del régimen especial de investigadores. Excepcionalmente, cuando concurran razones de carácter humanitario, podrá reagruparse al ascendiente menor de sesenta y cinco años si se cumplen las demás condiciones previstas en esta Ley.
+2. Los extranjeros que hubieran adquirido la residencia en virtud de una previa reagrupación podrán, a su vez, ejercer el derecho de reagrupación de sus propios familiares, siempre que cuenten ya con una autorización de residencia y trabajo, obtenida independientemente de la autorización del reagrupante, y acrediten reunir los requisitos previstos en esta Ley Orgánica.
+3. Cuando se trate de ascendientes reagrupados, éstos sólo podrán ejercer, a su vez, el derecho de reagrupación familiar tras haber obtenido la condición de residentes de larga duración y acreditado solvencia económica.
+Excepcionalmente, el ascendiente reagrupado que tenga a su cargo un o más hijos menores de edad, o hijos con discapacidad que no sean objetivamente capaces de proveer a sus propias necesidades debido a su estado de salud, podrá ejercer el derecho de reagrupación en los términos dispuestos en el apartado segundo de este artículo, sin necesidad de haber adquirido la residencia de larga duración.
+4. La persona que mantenga con el extranjero residente una relación de afectividad análoga a la conyugal se equiparará al cónyuge a todos los efectos previstos en este capítulo, siempre que dicha relación esté debidamente acreditada y reúna los requisitos necesarios para producir efectos en España.
+En todo caso, las situaciones de matrimonio y de análoga relación de afectividad se considerarán incompatibles entre sí.
+No podrá reagruparse a más de una persona con análoga relación de afectividad, aunque la ley personal del extranjero admita estos vínculos familiares.
+5. Reglamentariamente, se desarrollarán las condiciones para el ejercicio del derecho de reagrupación así como para acreditar, a estos efectos, la relación de afectividad análoga a la conyugal.
+Se modifica por el art. único.18 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 y se añaden el 3 y 4 por el art. 1.3 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica el apartado 1 y se añade el apartado 2 por el artículo 1.13 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+## CAPITULO III
+
+CAPÍTULO III
+Garantías jurídicas
+
+### Artículo 18
+
+Artículo 18. Requisitos para la reagrupación familiar.
+1. Los extranjeros podrán ejercer el derecho a la reagrupación familiar cuando hayan obtenido la renovación de su autorización de residencia inicial, con excepción de la reagrupación de los familiares contemplados en el artículo 17.1 d) de esta Ley, que solamente podrán ser reagrupados a partir del momento en que el reagrupante adquiera la residencia de larga duración.
+La reagrupación de los familiares de residentes de larga duración, de los trabajadores titulares de la tarjeta azul de la U.E. y de los beneficiarios del régimen especial de investigadores, podrá solicitarse y concederse, simultáneamente, con la solicitud de residencia del reagrupante. Cuando tengan reconocida esta condición en otro Estado miembro de la Unión Europea, la solicitud podrá presentarse en España o desde el Estado de la Unión Europea donde tuvieran su residencia, cuando la familia estuviera ya constituida en aquél.
+2. El reagrupante deberá acreditar, en los términos que se establezcan reglamentariamente, que dispone de vivienda adecuada y de medios económicos suficientes para cubrir sus necesidades y las de su familia, una vez reagrupada.
+En la valoración de los ingresos a efectos de la reagrupación, no computarán aquellos provenientes del sistema de asistencia social, pero se tendrán en cuenta otros ingresos aportados por el cónyuge que resida en España y conviva con el reagrupante.
+Las Comunidades Autónomas o, en su caso, los Ayuntamientos informarán sobre la adecuación de la vivienda a los efectos de reagrupación familiar.
+Las Administraciones Públicas promoverán la participación de los reagrupados en programas de integración socio-cultural y de carácter lingüístico.
+3. Cuando los familiares a reagrupar sean menores en edad de escolarización obligatoria, la Administración receptora de las solicitudes deberá comunicar a las autoridades educativas competentes una previsión sobre los procedimientos iniciados de reagrupación familiar, a los efectos de habilitar las plazas necesarias en los centros escolares correspondientes.
+Se modifica por el art. único.19 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 y se suprime el apartado 4 por el art. 1.4 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.13 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 18.bis
+
+Artículo 18 bis. Procedimiento para la reagrupación familiar.
+1. El extranjero que desee ejercer el derecho a la reagrupación familiar deberá solicitar una autorización de residencia por reagrupación familiar a favor de los miembros de su familia que desee reagrupar, pudiendo solicitarse de forma simultánea la renovación de la autorización de residencia y la solicitud de reagrupación familiar.
+2. En caso de que el derecho a la reagrupación se ejerza por residentes de larga duración en otro Estado miembro de la Unión Europea que residan en España, la solicitud podrá presentarse por los familiares reagrupables, aportando prueba de residencia como miembro de la familia del residente de larga duración en el primer Estado miembro.
+Se añade por el art. único.20 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 19
+
+Artículo 19. Efectos de la reagrupación familiar en circunstancias especiales.
+1. La autorización de residencia por reagrupación familiar de la que sean titulares el cónyuge e hijos reagrupados cuando alcancen la edad laboral, habilitará para trabajar sin necesidad de ningún otro trámite administrativo.
+2. El cónyuge reagrupado podrá obtener una autorización de residencia independiente cuando disponga de medios económicos suficientes para cubrir sus propias necesidades.
+En caso de que la cónyuge reagrupada fuera víctima de violencia de género, sin necesidad de que se haya cumplido el requisito anterior, podrá obtener la autorización de residencia y trabajo independiente, desde el momento en que se hubiera dictado a su favor una orden de protección o, en su defecto, informe del Ministerio Fiscal que indique la existencia de indicios de violencia de género.
+3. Los hijos reagrupados podrán obtener una autorización de residencia independiente cuando alcancen la mayoría de edad y dispongan de medios económicos suficientes para cubrir sus propias necesidades.
+4. Reglamentariamente se determinará la forma y la cuantía de los medios económicos considerados suficientes para que los familiares reagrupados puedan obtener una autorización independiente.
+5. En caso de muerte del reagrupante, los familiares reagrupados podrán obtener una autorización de residencia independiente en las condiciones que se determinen.
+Se modifica por el art. único.21 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.5 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.13 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+## CAPITULO III
+
+CAPÍTULO III
+Garantías jurídicas
+Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 20
+
+Artículo 20. Derecho a la tutela judicial efectiva.
+1. Los extranjeros tienen derecho a la tutela judicial efectiva.
+2. Los procedimientos administrativos que se establezcan en materia de extranjería respetarán en todo caso las garantías previstas en la legislación general sobre procedimiento administrativo, especialmente en lo relativo a publicidad de las normas, contradicción, audiencia del interesado y motivación de las resoluciones, salvo lo dispuesto en el artículo 27 de esta Ley.
+3. En los procedimientos administrativos estarán legitimadas para intervenir como interesadas las organizaciones constituidas legalmente en España para la defensa de los inmigrantes, expresamente designadas por éstos.
+4. En los procesos contencioso-administrativos en materia de extranjería estarán legitimadas para intervenir las entidades que resulten afectadas en los términos previstos por el artículo 19.1.b) de la Ley reguladora de dicha jurisdicción.
+Se modifican los apartados 2 y 3, se añade el 4, y se renumera por el art. 1.14 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 18.
+
+## CAPÍTULO IV
+
+De las medidas antidiscriminatorias
+
+### Artículo 21
+
+Artículo 21. Derecho al recurso contra los actos administrativos.
+1. Los actos y resoluciones administrativas adoptados en relación con los extranjeros serán recurribles con arreglo a lo dispuesto en las leyes.
+2. El régimen de ejecutividad de los actos administrativos dictados en materia de extranjería será el previsto con carácter general en la legislación vigente, salvo lo dispuesto en esta Ley para la tramitación de expedientes de expulsión con carácter preferente.
+Se modifica el apartado 2 y se renumera por el art. 1.15 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 19.
+
+### Artículo 22
+
+Artículo 22. Derecho a la asistencia jurídica gratuita.
+1. Los extranjeros que se hallen en España tienen derecho a la asistencia jurídica gratuita en los procesos en los que sean parte, cualquiera que sea la jurisdicción en la que se sigan, en las mismas condiciones que los ciudadanos españoles.
+2. Los extranjeros que se hallen en España tienen derecho a asistencia letrada en los procedimientos administrativos que puedan llevar a su denegación de entrada, devolución, o expulsión del territorio español y en todos los procedimientos en materia de protección internacional, así como a la asistencia de intérprete si no comprenden o hablan la lengua oficial que se utilice. Estas asistencias serán gratuitas cuando carezcan de recursos económicos suficientes según los criterios establecidos en la normativa reguladora del derecho de asistencia jurídica gratuita.
+3. En los procesos contencioso-administrativos contra las resoluciones que pongan fin a la vía administrativa en materia de denegación de entrada, devolución o expulsión, el reconocimiento del derecho a la asistencia jurídica gratuita requerirá la oportuna solicitud realizada en los términos previstos en las normas que regulan la asistencia jurídica gratuita. La constancia expresa de la voluntad de interponer el recurso o ejercitar la acción correspondiente deberá realizarse de conformidad con lo previsto en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, o en caso de que el extranjero pudiera hallarse privado de libertad, en la forma y ante el funcionario público que reglamentariamente se determinen.
+A los efectos previstos en este apartado, cuando el extranjero tuviera derecho a la asistencia jurídica gratuita y se encontrase fuera de España, la solicitud de la misma y, en su caso, la manifestación de la voluntad de recurrir, podrán realizarse ante la misión diplomática u oficina consular correspondiente.
+Se modifica por el art. único.22 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 236/2007, de 7 de noviembre. Ref. BOE-T-2007-21162.
+ Se modifica y se renumera por el art. 1.16 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 20
+
+## TÍTULO II
+
+Régimen jurídico de las situaciones de los extranjeros
+
+## CAPÍTULO IV
+
+De las medidas antidiscriminatorias
+Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 23
+
+Artículo 23. Actos discriminatorios.
+1. A los efectos de esta Ley, representa discriminación todo acto que, directa o indirectamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en la raza, el color, la ascendencia o el origen nacional o étnico, las convicciones y prácticas religiosas, y que tenga como fin o efecto destruir o limitar el reconocimiento o el ejercicio, en condiciones de igualdad, de los derechos humanos y de las libertades fundamentales en el campo político, económico, social o cultural.
+2. En cualquier caso, constituyen actos de discriminación:
+a) Los efectuados por la autoridad o funcionario público o personal encargado de un servicio público, que en el ejercicio de sus funciones, por acción u omisión, realice cualquier acto discriminatorio prohibido por la ley contra un extranjero sólo por su condición de tal o por pertenecer a una determinada raza, religión, etnia o nacionalidad.
+b) Todos los que impongan condiciones más gravosas que a los españoles, o que impliquen resistencia a facilitar a un extranjero bienes o servicios ofrecidos al público, sólo por su condición de tal o por pertenecer a una determinada raza, religión, etnia o nacionalidad.
+c) Todos los que impongan ilegítimamente condiciones más gravosas que a los españoles o restrinjan o limiten el acceso al trabajo, a la vivienda, a la educación, a la formación profesional y a los servicios sociales y socioasistenciales, así como a cualquier otro derecho reconocido en la presente Ley Orgánica, al extranjero que se encuentre regularmente en España, sólo por su condición de tal o por pertenecer a una determinada raza, religión, etnia o nacionalidad.
+d) Todos los que impidan, a través de acciones u omisiones, el ejercicio de una actividad económica emprendida legítimamente por un extranjero residente legalmente en España, sólo por su condición de tal o por pertenecer a una determinada raza, religión, etnia o nacionalidad.
+e) Constituye discriminación indirecta todo tratamiento derivado de la adopción de criterios que perjudiquen a los trabajadores por su condición de extranjeros o por pertenecer a una determinada raza, religión, etnia o nacionalidad.
+Se modifica el apartado 2.a) por el art. único.23 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica la letra e) del apartado 2, y se renumera por el art. 1.17 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 21.
+
+### Artículo 24
+
+Artículo 24. Aplicabilidad del procedimiento sumario.
+La tutela judicial contra cualquier práctica discriminatoria que comporte vulneración de derechos y libertades fundamentales podrá ser exigida por el procedimiento previsto en el artículo 53.2 de la Constitución en los términos legalmente establecidos.
+Se renumera por el art. 3.4 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 22
+
+## TITULO II
+
+TÍTULO II
+Régimen jurídico de los extranjeros
+Se reordena y se modifica la rúbrica por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+## CAPITULO I
+
+CAPÍTULO I
+De la entrada y salida del territorio español
+Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 25
+
+Artículo 25. Requisitos para la entrada en territorio español.
+1. El extranjero que pretenda entrar en España deberá hacerlo por los puestos habilitados al efecto, hallarse provisto del pasaporte o documento de viaje que acredite su identidad, que se considere válido para tal fin en virtud de convenios internacionales suscritos por España y no estar sujeto a prohibiciones expresas. Asimismo, deberá presentar los documentos que se determinen reglamentariamente que justifiquen el objeto y condiciones de estancia, y acreditar medios de vida suficientes para el tiempo que pretenda permanecer en España, o estar en condiciones de obtener legalmente dichos medios.
+2. Salvo en los casos en que se establezca lo contrario en los convenios internacionales suscritos por España o en la normativa de la Unión Europea, será preciso, además, un visado.
+No será exigible el visado cuando el extranjero se encuentre provisto de la tarjeta de identidad de extranjero o, excepcionalmente, de una autorización de regreso.
+3. Lo dispuesto en los párrafos anteriores no será de aplicación a los extranjeros que soliciten acogerse al derecho de asilo en el momento de su entrada en España, cuya concesión se regirá por lo dispuesto en su normativa específica.
+4. Se podrá autorizar la entrada en España de los extranjeros que no reúnan los requisitos establecidos en los párrafos anteriores cuando existan razones excepcionales de índole humanitaria, interés público o cum plimiento de compromisos adquiridos por España. En estos casos, se procederá a hacer entrega al extranjero de la documentación que se establezca reglamentariamente.
+5. La entrada en territorio nacional de los extranjeros a los que no les sea de aplicación el régimen comunitario, podrá ser registrada por las autoridades españolas a los efectos de control de su período de permanencia legal en España, de conformidad con la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+Se añade el apartado 5 por el art. único.24 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 por el art. 1.6 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica el apartado 1, y se renumera por el art. 1.18 de la Ley Orgánica 8/2000 de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 23.
+
+### Artículo 25 bis
+
+Artículo 25 bis. Tipos de visado.
+1. Los extranjeros que se propongan entrar en territorio español deberán estar provistos de visado, válidamente expedido y en vigor, extendido en su pasaporte o documento de viaje o, en su caso, en documento aparte, salvo lo dispuesto en el apartado 2 del artículo 25 de esta Ley.
+2. Los visados a que se refiere el apartado anterior serán de una de las clases siguientes:
+a) Visado de tránsito, que habilita a transitar por la zona de tránsito internacional de un aeropuerto español o a atravesar el territorio español. No será exigible la obtención de dicho visado en casos de tránsito de un extranjero a efectos de repatriación o alejamiento por vía aérea solicitado por un Estado miembro de la Unión Europea o por un tercer estado que tenga suscrito con España un acuerdo internacional sobre esta materia.
+b) Visado de estancia, que habilita para una estancia ininterrumpida o estancias sucesivas por un período o suma de períodos cuya duración total no exceda de tres meses por semestre a partir de la fecha de la primera entrada.
+c) Visado de residencia, que habilita para residir sin ejercer actividad laboral o profesional.
+d) Visado de residencia y trabajo, que habilita para la entrada y estancia por un período máximo de tres meses y para el comienzo, en ese plazo, de la actividad laboral o profesional para la que hubiera sido previamente autorizado. En este tiempo deberá producirse el alta del trabajador en la Seguridad Social, que dotará de eficacia a la autorización de residencia y trabajo, por cuenta propia o ajena. Si transcurrido el plazo no se hubiera producido el alta, el extranjero quedará obligado a salir del territorio nacional, incurriendo, en caso contrario, en la infracción contemplada en el artículo 53.1.a) de esta Ley.
+e) Visado de residencia y trabajo de temporada, que habilita para trabajar por cuenta ajena hasta nueve meses en un período de doce meses consecutivos.
+f) Visado de estudios, que habilita a permanecer en España para la realización de cursos, estudios, trabajos de investigación o formación, intercambio de alumnos, prácticas no laborales o servicios de voluntariado, no remunerados laboralmente.
+g) Visado de investigación, que habilita al extranjero a permanecer en España para realizar proyectos de investigación en el marco de un convenio de acogida firmado con un organismo de investigación.
+3. Reglamentariamente, se desarrollarán los diferentes tipos de visados.
+Se modifica por el art. único.25 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.7 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 26
+
+Artículo 26. Prohibición de entrada en España.
+1. No podrán entrar en España, ni obtener un visado a tal fin, los extranjeros que hayan sido expulsados, mientras dure la prohibición de entrada, así como aquellos que la tengan prohibida por otra causa legalmente establecida o en virtud de convenios internacionales en los que sea parte España.
+2. A los extranjeros que no cumplan los requisitos establecidos para la entrada, les será denegada mediante resolución motivada, con información acerca de los recursos que puedan interponer contra ella, plazo para hacerlo y autoridad ante quien deben formalizarlo, y de su derecho a la asistencia letrada, que podrá ser de oficio, y de intérprete, que comenzará en el momento mismo de efectuarse el control en el puesto fronterizo.
+Se modifica y se renumera por el art. 1.19 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 24.
+
+## CAPÍTULO II
+
+SItuaciones de los extranjeros
+
+### Artículo 27
+
+Artículo 27. Expedición del visado.
+1. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o en los supuestos en los que el Estado español, de acuerdo con la normativa comunitaria sobre la materia, haya acordado su representación con otro Estado miembro de la Unión Europea en materia de visados de tránsito o estancia.
+2. La concesión del visado:
+a) Habilitará al extranjero para presentarse en un puesto fronterizo español y solicitar su entrada.
+b) Habilitará al extranjero, una vez se ha efectuado la entrada en territorio español, a permanecer en España en la situación para la que hubiese sido expedido, sin perjuicio de la obligatoriedad de obtener, en su caso, la tarjeta de identidad de extranjero.
+3. Reglamentariamente se establecerá la normativa específica del procedimiento de concesión y expedición de visados, conforme a lo previsto en la disposición adicional undécima de la Ley 30/1992, de 26 de noviembre. En dicho procedimiento podrá requerirse la comparecencia personal del solicitante.
+4. El ejercicio de la potestad de otorgamiento o denegación de visados se sujetará a los compromisos internacionales vigentes en la materia y se orientará al cumplimiento de los fines de la política exterior del Reino de España y de otras políticas públicas españolas o de la Unión Europea, como la política de inmigración, la política económica y la de seguridad ciudadana.
+5. Para supuestos excepcionales podrán fijarse por vía reglamentaria otros criterios a los que haya de someterse el otorgamiento y denegación de visados.
+6. La denegación de visado deberá ser motivada cuando se trate de visados de residencia para reagrupación familiar o para el trabajo por cuenta ajena, así como en el caso de visados de estancia o de tránsito. Si la denegación se debe a que el solicitante del visado está incluido en la lista de personas no admisibles prevista en el Convenio de aplicación del Acuerdo de Schengen de 14 de junio de 1990, se le comunicará así de conformidad con las normas establecidas por dicho Convenio. La resolución expresará los recursos que contra la misma procedan, órgano ante el que hubieran de presentarse y plazo para interponerlos.
+Se modifican los apartados 1 y 6 por el art. único.26 y 27 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.8 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.20 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 25.
+
+### Artículo 28
+
+Artículo 28. De la salida de España.
+1. Las salidas del territorio español podrán realizarse libremente, excepto en los casos previstos en el Código Penal y en la presente Ley. La salida de los extranjeros a los que no les sea de aplicación el régimen comunitario, podrá ser registrada por las autoridades españolas a los efectos de control de su período de permanencia legal en España de conformidad con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Excepcionalmente, el Ministro del Interior podrá prohibir la salida del territorio español por razones de seguridad nacional o de salud pública. La instrucción y resolución de los expedientes de prohibición tendrá siempre carácter individual.
+3. La salida será obligatoria en los siguientes supuestos:
+a) Expulsión del territorio español por orden judicial, en los casos previstos en el Código Penal.
+b) Expulsión o devolución acordadas por resolución administrativa en los casos previstos en la presente Ley.
+c) Denegación administrativa de las solicitudes formuladas por el extranjero para continuar permaneciendo en territorio español, o falta de autorización para encontrarse en España.
+d) Cumplimiento del plazo en el que un trabajador extranjero se hubiera comprometido a regresar a su país de origen en el marco de un programa de retorno voluntario.
+Se modifica por el art. único.28 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica la letra c) del apartado 3 y se renumera por el art. 1.21 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su numeración anterior era art. 26
+
+## CAPÍTULO II
+
+De la Autorización de estancia y de residencia
+Se modifica por el art. único.29 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 29
+
+Artículo 29. Enumeración de las situaciones.
+1. Los extranjeros podrán encontrarse en España en las situaciones de estancia o residencia.
+2. Las diferentes situaciones de los extranjeros en España podrán acreditarse mediante pasaporte o documento de viaje que acredite su identidad, visado o tarjeta de identidad de extranjero, según corresponda.
+Se modifica el apartado 2 por el art. único.30 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.9 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añaden los apartados 2 y 3, y se renumera por el art. 1.22 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 27.
+
+### Artículo 30
+
+Artículo 30. Situación de estancia.
+1. Estancia es la permanencia en territorio español por un período de tiempo no superior a 90 días, sin perjuicio de lo dispuesto en el artículo 33 para la admisión a efectos de estudios, intercambio de alumnos, prácticas no laborales o servicios de voluntariado.
+2. Transcurrido dicho tiempo, para permanecer en España será preciso obtener o una prórroga de estancia o una autorización de residencia.
+3. En los supuestos de entrada con visado, cuando la duración de éste sea inferior a tres meses, se podrá prorrogar la estancia, que en ningún caso podrá ser superior a tres meses, en un período de seis meses.
+4. En los supuestos de entrada sin visado, cuando concurran circunstancias excepcionales que lo justifiquen, podrá autorizarse la estancia de un extranjero en el territorio español más allá de tres meses.
+Se modifica el apartado 1 por el art. único.31 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 y se sustituye el término «permiso» por «autorización» en el apartado 2 por el art. 1.10 y la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica el apartado 3, se añade el apartado 4, y se renumera por el art. 1.23 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 28.
+
+### Artículo 30 bis
+
+Artículo 30 bis. Situación de residencia.
+1. Son residentes los extranjeros que se encuentren en España y sean titulares de una autorización para residir.
+2. Los residentes podrán encontrarse en la situación de residencia temporal o de residencia de larga duración.
+Se modifica el apartado 2 por el art. único.32 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.11 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 31
+
+Artículo 31. Situación de residencia temporal.
+1. La residencia temporal es la situación que autoriza a permanecer en España por un período superior a 90 días e inferior a cinco años. Las autorizaciones de duración inferior a cinco años podrán renovarse, a petición del interesado, atendiendo a las circunstancias que motivaron su concesión. La duración de las autorizaciones iniciales de residencia temporal y de las renovaciones se establecerá reglamentariamente.
+2. La autorización inicial de residencia temporal que no comporte autorización de trabajo se concederá a los extranjeros que dispongan de medios suficientes para sí y, en su caso, para los de su familia. Reglamentariamente se establecerán los criterios para determinar la suficiencia de dichos medios.
+3. La Administración podrá conceder una autorización de residencia temporal por situación de arraigo, así como por razones humanitarias, de colaboración con la Justicia u otras circunstancias excepcionales que se determinen reglamentariamente.
+En estos supuestos no será exigible el visado.
+4. La autorización inicial de residencia temporal y trabajo, que autorizará a realizar actividades lucrativas por cuenta propia y/o ajena, se concederá de acuerdo a lo dispuesto por los artículos 36 y siguientes de esta Ley.
+5. Para autorizar la residencia temporal de un extranjero será preciso que carezca de antecedentes penales en España o en los países anteriores de residencia, por delitos existentes en el ordenamiento español, y no figurar como rechazable en el espacio territorial de países con los que España tenga firmado un convenio en tal sentido.
+6. Los extranjeros con autorización de residencia temporal vendrán obligados a poner en conocimiento de las autoridades competentes los cambios de nacionalidad, estado civil y domicilio.
+7. Para la renovación de las autorizaciones de residencia temporal, se valorará en su caso:
+a) Los antecedentes penales, considerando la existencia de indultos o las situaciones de remisión condicional de la pena o la suspensión de la pena privativa de libertad.
+b) El incumplimiento de las obligaciones del extranjero en materia tributaria y de seguridad social.
+A los efectos de dicha renovación, se valorará especialmente el esfuerzo de integración del extranjero que aconseje su renovación, acreditado mediante un informe positivo de la Comunidad Autónoma que certifique la asistencia a las acciones formativas contempladas en el artículo 2 ter de esta Ley.
+Se modifica por el art. único.33 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 1, 3, 4 y 5 y se suprimen los apartados 6 y 7 por el art. 1.12 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifican los apartados 2, 3, 4 y 5, se añaden los apartados 6 y 7, y se renumera por el art. 1.24 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 29
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 31 bis
+
+Artículo 31 bis. Residencia temporal y trabajo de mujeres extranjeras víctimas de violencia de género o de violencias sexuales.
+1. Las mujeres extranjeras, cualquiera que sea su situación administrativa, tienen garantizados los derechos reconocidos en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, en caso de que sean víctimas de violencia de género; y los derechos reconocidos en la Ley Orgánica de garantía integral de la libertad sexual, en caso de que sean víctimas de violencias sexuales; así como, en ambos casos, a las medidas de protección y seguridad establecidas en la legislación vigente.
+2. Si al denunciarse una situación de violencia de género o de violencia sexual contra una mujer extranjera se pusiera de manifiesto su situación irregular, no se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a), y se suspenderá el expediente administrativo sancionador que se hubiera incoado por la comisión de dicha infracción con anterioridad a la denuncia o, en su caso, la ejecución de las órdenes de expulsión o de devolución eventualmente acordadas.
+3. La mujer extranjera que se halle en la situación descrita en el apartado anterior podrá solicitar una autorización de residencia y trabajo por circunstancias excepcionales a partir del momento en que se hubiera dictado una orden de protección a su favor o, en su defecto, informe del Ministerio Fiscal que indique la existencia de indicios de violencia de género o sexual. Dicha autorización no se resolverá hasta que concluya el procedimiento penal. En el momento de presentación de la solicitud, o en cualquier otro posterior a lo largo del proceso penal, la mujer extranjera, por sí misma o a través de representante, también podrá solicitar una autorización de residencia por circunstancias excepcionales a favor de sus hijos menores de edad o que tengan una discapacidad y no sean objetivamente capaces de proveer a sus propias necesidades, o una autorización de residencia y trabajo en caso de que fueran mayores de dieciséis años y se encuentren en España en el momento de la denuncia.
+Sin perjuicio de lo anterior, la autoridad competente para otorgar la autorización por circunstancias excepcionales concederá una autorización provisional de residencia y trabajo a favor de la mujer extranjera y, en su caso, las autorizaciones de residencia provisionales a favor de sus hijos menores de edad o con discapacidad, o de residencia y trabajo si fueran mayores de dieciséis años, previstas en el párrafo anterior, que se encuentren en España en el momento de la denuncia. Las autorizaciones provisionales eventualmente concedidas concluirán en el momento en que se concedan o denieguen definitivamente las autorizaciones por circunstancias excepcionales.
+4. Cuando el procedimiento penal concluyera con una sentencia condenatoria o con una resolución judicial de la que se deduzca que la mujer ha sido víctima de violencia de género o de violencia sexual, incluido el archivo de la causa por encontrarse el investigado en paradero desconocido o el sobreseimiento provisional por expulsión del denunciado, se notificará a la interesada la concesión de las autorizaciones solicitadas. En el supuesto de que no se hubieran solicitado, se le informará de la posibilidad de concederlas, otorgándole un plazo para su solicitud.
+Si del procedimiento penal concluido no pudiera deducirse la situación de violencia de género o sexual, se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a) o se continuará, en el supuesto de que se hubiera suspendido inicialmente.
+Se modifica, con efectos desde el 7 de octubre de 2022, por la disposición final 6 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-6
+ Se modifica por el art. 1 de la Ley Orgánica 10/2011, de 27 de julio. Ref. BOE-A-2011-12962.
+ Se añade por el art. único.34 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 32
+
+Artículo 32. Residencia de larga duración.
+1. La residencia de larga duración es la situación que autoriza a residir y trabajar en España indefinidamente, en las mismas condiciones que los españoles.
+2. Tendrán derecho a residencia de larga duración los que hayan tenido residencia temporal en España durante cinco años de forma continuada, que reúnan las condiciones que se establezcan reglamentariamente. A los efectos de obtener la residencia de larga duración computarán los periodos de residencia previa y continuada en otros Estados miembros, como titular de la tarjeta azul de la UE. Se considerará que la residencia ha sido continuada aunque por períodos de vacaciones u otras razones que se establezcan reglamentariamente el extranjero haya abandonado el territorio nacional temporalmente.
+3. Los extranjeros residentes de larga duración en otro Estado miembro de la Unión Europea podrán solicitar por sí mismos y obtener una autorización de residencia de larga duración en España cuando vayan a desarrollar una actividad por cuenta propia o ajena, o por otros fines, en las condiciones que se establezcan reglamentariamente. No obstante, en el supuesto de que los extranjeros residentes de larga duración en otro estado miembro de la Unión Europea deseen conservar el estatuto de residente de larga duración adquirido en el primer estado miembro, podrán solicitar y obtener una autorización de residencia temporal en España.
+3 bis. Los extranjeros a quienes España u otro Estado miembro de la Unión Europea hubiese reconocido protección internacional y que se encuentren en España, podrán solicitar por sí mismos y obtener una autorización de residencia de larga duración en España en las condiciones que se establezcan reglamentariamente.
+No se reconocerá la condición de residente de larga duración en España al beneficiario de protección internacional cuyo estatuto hubiese sido revocado, cesado, finalizado, o cuya renovación hubiese sido denegada, de acuerdo con las normas de la Unión Europea aplicables, y en las condiciones que se establezcan reglamentariamente.
+4. Con carácter reglamentario se establecerán criterios para la concesión de otras autorizaciones de residencia de larga duración en supuestos individuales de especial vinculación con España.
+5. La extinción de la residencia de larga duración se producirá en los casos siguientes:
+a) Cuando la autorización se haya obtenido de manera fraudulenta.
+b) Cuando se dicte una orden de expulsión en los casos previstos en la Ley.
+c) Cuando se produzca la ausencia del territorio de la Unión Europea durante 12 meses consecutivos. Reglamentariamente se establecerán las excepciones a la pérdida de la autorización por este motivo, así como el procedimiento y requisitos para recuperar la autorización de residencia de larga duración.
+d) Cuando se adquiera la residencia de larga duración en otro Estado miembro.
+e) Cuando, obtenida la autorización por la persona a quien otro Estado miembro reconoció protección internacional, las autoridades de dicho Estado hubieran resuelto el cese o la revocación de la citada protección.
+6. Las personas extranjeras que hayan perdido la condición de residentes de larga duración podrán recuperar dicho estatuto mediante un procedimiento simplificado que se desarrollará reglamentariamente.
+Dicho procedimiento se aplicará sobre todo en el caso de personas que hayan residido en otro Estado miembro para la realización de estudios.
+Se añade el apartado 3 bis y la letra e) al apartado 5 por la disposición final 2.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.
+ Se modifica por el art. único.35 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 y se renumera por el art. 1.25 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 30.
+
+## CAPITULO III
+
+CAPÍTULO III
+Del permiso de trabajo y regímenes especiales
+
+### Artículo 33
+
+Artículo 33. Régimen de admisión a efectos de estudios, intercambio de alumnos, prácticas no laborales o servicios de voluntariado.
+1. Podrá ser autorizado, en régimen de estancia, conforme a lo dispuesto en la presente ley, el extranjero que tenga como fin único o principal realizar una de las siguientes actividades de carácter no laboral:
+a) Cursar o ampliar estudios.
+b) Realizar actividades de investigación o formación, sin perjuicio del régimen especial de los investigadores.
+c) Participar en programas de intercambio de alumnos en cualesquiera centros docentes o científicos, públicos o privados, oficialmente reconocidos.
+d) Realizar prácticas no laborales.
+e) Realizar servicios de voluntariado.
+2. La vigencia de la autorización coincidirá con la duración del curso para el que esté matriculado, de los trabajos de investigación, del intercambio de alumnos, de las prácticas o del servicio de voluntariado. En el caso de los estudios superiores, en los supuestos en los que el solicitante vaya a estudiar más de un curso académico, la vigencia de la autorización coincidirá con la duración oficial de los estudios en las condiciones que reglamentariamente se determinen, que incluirán el mantenimiento y comprobación de los requisitos que dieron lugar al otorgamiento de la autorización.
+3. La autorización se prorrogará con el límite de un año en cada prórroga en los términos y con los periodos de cada actividad de conformidad con su legislación específica siempre y cuando el titular demuestre que sigue reuniendo las condiciones requeridas en la autorización inicial y que cumple los requisitos exigidos con carácter general y los específicos de cada una de ellas.
+4. Los extranjeros admitidos con fines de estudio, prácticas no laborales o voluntariado podrán ser autorizados para ejercer una actividad retribuida por cuenta propia o ajena, en la medida en que ello no limite la prosecución de los estudios o actividad asimilada, en los términos que reglamentariamente se determinen.
+5. La realización de trabajo en una familia para compensar la estancia y mantenimiento en la misma, mientras se mejoran los conocimientos lingüísticos o profesionales se regulará de acuerdo con lo dispuesto en los acuerdos internacionales sobre colocación «au pair».
+6. Se facilitará la entrada y permanencia en España, en los términos establecidos reglamentariamente, de los estudiantes extranjeros que participen en programas de la Unión Europea destinados a favorecer la movilidad con destino a la Unión o en la misma.
+7. Todo extranjero, admitido en calidad de estudiante en otro Estado miembro de la Unión Europea, que solicite cursar parte de sus estudios ya iniciados o completar éstos en España podrá solicitar una autorización de estancia por estudios y obtenerla, si reúne los requisitos reglamentarios para ello, no siendo exigible el visado.
+A fin de que todo extranjero admitido en calidad de estudiante en España pueda solicitar cursar parte de sus estudios ya iniciados o completar éstos en otro Estado miembro de la Unión Europea, las Autoridades españolas facilitarán la información oportuna sobre la permanencia de aquél en España, a instancia de las Autoridades competentes de dicho Estado miembro.
+8. Se someten al régimen de estancia previsto en este artículo los extranjeros que cursen en España estudios de formación sanitaria especializada de acuerdo con la Ley 44/2003, de 11 de noviembre, de profesiones sanitarias, salvo que ya contaran con una autorización de residencia previamente al inicio de los mismos, en cuyo caso podrán continuar en dicha situación.
+Se modifican los apartados 1, 2 y 3 por la disposición final 3.2 de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#df-3
+ Se modifica por el art. único.36 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 y se suprime el párrafo segundo del apartado 4 por el art. 1.13 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.26 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su numeración anterior era art. 40.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 34
+
+Artículo 34. Residencia de apátridas, indocumentados y refugiados.
+1. El Ministro del Interior reconocerá la condición de apátrida a los extranjeros que manifestando que carecen de nacionalidad reúnen los requisitos previstos en la Convención sobre el Estatuto de Apátridas, hecha en Nueva York el 28 de septiembre de 1954, y les expedirá la documentación prevista en el artículo 27 de la citada Convención. El estatuto de apátrida comportará el régimen específico que reglamentariamente se determine.
+2. En cualquier caso, el extranjero que se presente en dependencias del Ministerio del Interior acreditando que no puede ser documentado por las autoridades de ningún país y que desea ser documentado por España, una vez verificada la pertinente información y siempre que concurran y se acrediten razones excepcionales de índole humanitaria, interés público o cumplimiento de compromisos adquiridos por España, podrá obtener, en los términos que reglamentariamente se determinen, un documento identificativo que acredite su inscripción en las referidas dependencias. En todo caso, se denegará la documentación solicitada cuando el peticionario esté incurso en alguno de los supuestos del artículo 26, o se haya dictado contra él una orden de expulsión.
+3. La resolución favorable sobre la petición de asilo en España supondrá el reconocimiento de la condición de refugiado del solicitante, el cual tendrá derecho a residir en España y a desarrollar actividades laborales, profesionales y mercantiles de conformidad con lo dispuesto en la Ley 5/1984, de 26 de marzo, reguladora del derecho de asilo y de la condición de refugiado, modificada por la Ley 9/1994, de 19 de mayo, y su normativa de desarrollo. Dicha condición supondrá su no devolución ni expulsión en los términos del artículo 33 de la Convención sobre el Estatuto de los Refugiados, hecha en Ginebra el 28 de julio de 1951.
+Se modifica el apartado 2 por el art. 1.14 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.27 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 31.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 35
+
+Artículo 35. Menores no acompañados.
+1. El Gobierno promoverá el establecimiento de Acuerdos de colaboración con los países de origen que contemplen, integradamente, la prevención de la inmigración irregular, la protección y el retorno de los menores no acompañados. Las Comunidades Autónomas serán informadas de tales Acuerdos.
+2. Las Comunidades Autónomas podrán establecer acuerdos con los países de origen dirigidos a procurar que la atención e integración social de los menores se realice en su entorno de procedencia. Tales acuerdos deberán asegurar debidamente la protección del interés de los menores y contemplarán mecanismos para un adecuado seguimiento por las Comunidades Autónomas de la situación de los mismos.
+3. En los supuestos en que los Cuerpos y Fuerzas de Seguridad del Estado localicen a un extranjero indocumentado cuya minoría de edad no pueda ser establecida con seguridad, se le dará, por los servicios competentes de protección de menores, la atención inmediata que precise, de acuerdo con lo establecido en la legislación de protección jurídica del menor, poniéndose el hecho en conocimiento inmediato del Ministerio Fiscal, que dispondrá la determinación de su edad, para lo que colaborarán las instituciones sanitarias oportunas que, con carácter prioritario, realizarán las pruebas necesarias.
+4. Determinada la edad, si se tratase de un menor, el Ministerio Fiscal lo pondrá a disposición de los servicios competentes de protección de menores de la Comunidad Autónoma en la que se halle.
+5. La Administración del Estado solicitará informe sobre las circunstancias familiares del menor a la representación diplomática del país de origen con carácter previo a la decisión relativa a la iniciación de un procedimiento sobre su repatriación. Acordada la iniciación del procedimiento, tras haber oído al menor si tiene suficiente juicio, y previo informe de los servicios de protección de menores y del Ministerio Fiscal, la Administración del Estado resolverá lo que proceda sobre el retorno a su país de origen, a aquel donde se encontrasen sus familiares o, en su defecto, sobre su permanencia en España. De acuerdo con el principio de interés superior del menor, la repatriación al país de origen se efectuará bien mediante reagrupación familiar, bien mediante la puesta a disposición del menor ante los servicios de protección de menores, si se dieran las condiciones adecuadas para su tutela por parte de los mismos.
+6. A los mayores de dieciséis y menores de dieciocho años se les reconocerá capacidad para actuar en el procedimiento de repatriación previsto en este artículo, así como en el orden jurisdiccional contencioso administrativo por el mismo objeto, pudiendo intervenir personalmente o a través del representante que designen.
+Cuando se trate de menores de dieciséis años, con juicio suficiente, que hubieran manifestado una voluntad contraria a la de quien ostenta su tutela o representación, se suspenderá el curso del procedimiento, hasta el nombramiento del defensor judicial que les represente.
+7. Se considerará regular, a todos los efectos, la residencia de los menores que sean tutelados en España por una Administración Pública o en virtud de resolución judicial, por cualquier otra entidad. A instancia del organismo que ejerza la tutela y una vez que haya quedado acreditada la imposibilidad de retorno con su familia o al país de origen, se otorgará al menor una autorización de residencia, cuyos efectos se retrotraerán al momento en que el menor hubiere sido puesto a disposición de los servicios de protección de menores. La ausencia de autorización de residencia no impedirá el reconocimiento y disfrute de todos los derechos que le correspondan por su condición de menor.
+8. La concesión de una autorización de residencia no será obstáculo para la ulterior repatriación cuando favorezca el interés superior del menor, en los términos establecidos en el apartado cuarto de este artículo.
+9. Reglamentariamente se determinarán las condiciones que habrán de cumplir los menores tutelados que dispongan de autorización de residencia y alcancen la mayoría de edad para renovar su autorización o acceder a una autorización de residencia y trabajo teniendo en cuenta, en su caso, los informes positivos que, a estos efectos, puedan presentar las entidades públicas competentes referidos a su esfuerzo de integración, la continuidad de la formación o estudios que se estuvieran realizando, así como su incorporación, efectiva o potencial, al mercado de trabajo. Las Comunidades Autónomas desarrollarán las políticas necesarias para posibilitar la inserción de los menores en el mercado laboral cuando alcancen la mayoría de edad.
+10. Los Cuerpos y Fuerzas de Seguridad del Estado adoptarán las medidas técnicas necesarias para la identificación de los menores extranjeros indocumentados, con el fin de conocer las posibles referencias que sobre ellos pudieran existir en alguna institución pública nacional o extranjera encargada de su protección. Estos datos no podrán ser usados para una finalidad distinta a la prevista en este apartado.
+11. La Administración General del Estado y las Comunidades Autónomas podrán establecer convenios con organizaciones no gubernamentales, fundaciones y entidades dedicadas a la protección de menores, con el fin de atribuirles la tutela ordinaria de los menores extranjeros no acompañados.
+Cada convenio especificará el número de menores cuya tutela se compromete a asumir la entidad correspondiente, el lugar de residencia y los medios materiales que se destinarán a la atención de los mismos.
+Estará legitimada para promover la constitución de la tutela la Comunidad Autónoma bajo cuya custodia se encuentre el menor. A tales efectos, deberá dirigirse al juzgado competente que proceda en función del lugar en que vaya a residir el menor, adjuntando el convenio correspondiente y la conformidad de la entidad que vaya a asumir la tutela.
+El régimen de la tutela será el previsto en el Código Civil y en la Ley de Enjuiciamiento Civil. Además, serán aplicables a los menores extranjeros no acompañados las restantes previsiones sobre protección de menores recogidas en el Código Civil y en la legislación vigente en la materia.
+12. Las Comunidades Autónomas podrán llegar a acuerdos con las Comunidades Autónomas donde se encuentren los menores extranjeros no acompañados para asumir la tutela y custodia, con el fin de garantizar a los menores unas mejores condiciones de integración.
+Se modifica por el art. único.37 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica y se renumera por el art. 1.28 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 32.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 35 bis
+
+Artículo 35 bis. Contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada.
+1. La Conferencia Sectorial de Infancia y Adolescencia podrá adoptar mediante Acuerdo por unanimidad tanto los requisitos para la declaración de la situación de contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada, como el Plan de respuesta a dicha situación, así como finalmente los criterios para la aplicación de dicho Plan, que incluirán, en todo caso, los necesarios para determinar en qué supuestos procede que se ordene el traslado de personas menores extranjeras no acompañadas de una comunidad o ciudad autónoma a otra por resolución de la persona que presida la Conferencia Sectorial de Infancia y Adolescencia, previa comunicación y acreditación de dicha contingencia por parte de la comunidad o ciudad autónoma afectada. El Acuerdo, de adoptarse, debe ser único y recoger el conjunto de estos elementos.
+En defecto de dicho acuerdo unánime, los requisitos para la declaración de la situación de contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada, el Plan de respuesta a dicha situación, y los criterios para la aplicación de dicho Plan se regularán de conformidad con lo dispuesto en esta ley.
+2. Se declarará la situación de contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada en aquellas comunidades o ciudades autónomas cuyo sistema de protección y tutela de personas menores de edad extranjeras no acompañadas exceda en ocupación tres veces su capacidad ordinaria en los términos de la disposición adicional undécima.
+La aprobación de dicha declaración se realizará en un plazo máximo de cinco días naturales desde la comunicación por parte de la comunidad o ciudad autónoma afectada, y será trasladada al conjunto de integrantes de la Conferencia Sectorial de Infancia y Adolescencia.
+3. Dicha situación de contingencia migratoria extraordinaria determinará que se establezca por el órgano competente de la Administración General del Estado cuál será la comunidad o ciudad autónoma a la que se traslade para su ubicación a la persona menor de edad extranjera no acompañada, en cada caso, en los términos previstos en los artículos 35 ter y 35 quáter.
+Se añade por el art. único.1 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+### Artículo 35 ter
+
+Artículo 35 ter. Modelo de gestión de contingencias migratorias extraordinarias para la infancia y la adolescencia migrante no acompañada.
+1. El Modelo de gestión de contingencias migratorias extraordinarias para la infancia y la adolescencia migrante no acompañada contendrá:
+a) El conjunto de criterios objetivos para la determinación, por el órgano competente de la Administración General del Estado, de cuál será la ubicación de las personas menores de edad extranjeras no acompañadas en las diferentes comunidades o ciudades autónomas.
+b) La regulación del mecanismo de derivación de las personas menores de edad extranjeras no acompañadas a otras comunidades o ciudades autónomas.
+c) Los criterios para la determinación del número de plazas por comunidad autónoma o ciudad autónoma, para atender a las personas menores de edad extranjeras no acompañadas en caso de derivación.
+2. En defecto del acuerdo unánime a que se refiere el artículo 35 bis.1, los criterios objetivos para la determinación, por el órgano competente de la Administración General del Estado, de cuál será la ubicación de las personas menores de edad extranjeras no acompañadas en las diferentes comunidades autónomas, serán los siguientes:
+a) Un 50 por ciento de las niñas y niños en razón a la población de las comunidades o ciudades autónomas de acogida según los datos recogidos en la Estadística continua de población.
+b) Un 13 por ciento de las niñas y niños en razón a la Renta disponible bruta per cápita de los hogares de las comunidades o ciudades autónomas de acogida, publicada por el Instituto Nacional de Estadística.
+c) Un 15 por ciento en razón inversa a la Tasa de paro según la Encuesta de Población Activa del último cuatrimestre de las comunidades o ciudades autónomas de acogida.
+d) Un 6 por ciento atendiendo al esfuerzo en atención a personas menores no acompañadas, valorando, en sentido inverso, el esfuerzo de la comunidad o ciudad autónoma en la atención a niñas, niños y adolescentes acogidos con base en los siguientes parámetros: promedio de niños, niñas y adolescentes extranjeros no acompañados atendidos en los últimos seis meses; ratio de niños, niñas y adolescentes extranjeros no acompañados por cada 100.000 habitantes de la población de la comunidad o ciudad autónoma.
+e) Un 10 por ciento en razón inversa al dimensionamiento estructural de sistema de plazas de acogida estimado por el Ministerio de Juventud e Infancia, a partir de los acogimientos residenciales del Boletín de datos estadísticos de medidas de protección a la infancia y la adolescencia (Boletín número 26), actualizados a 19 de febrero de 2025, con la información comunicada por comunidades autónomas. Se calculará en razón a la diferencia de plazas existentes con respecto al promedio deseable de disponer de una plaza por cada 2.500 habitantes.
+f) Un 2 por ciento en razón a su realidad de ciudad fronteriza estableciéndose una ponderación negativa a la Ciudad de Melilla del -100 % para atender a su situación fronteriza.
+g) Un 2 por ciento en razón a la insularidad estableciéndose una ponderación negativa a Islas Baleares del -100 % para atender a su situación de insularidad.
+h) Un 2 por ciento atendiendo a la dispersión de la población.
+Se añade por el art. único.2 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+### Artículo 35 quáter
+
+Artículo 35 quáter. Plan de respuesta solidaria ante la situación de contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada.
+1. El Plan de respuesta solidaria ante una situación de contingencia migratoria extraordinaria para la protección del interés superior de la infancia y la adolescencia migrante no acompañada (Plan de respuesta solidaria) recogerá el conjunto de actuaciones a desarrollar ante la declaración de una situación de esta naturaleza, y comprenderá las que se regulan en este artículo, las previstas en los criterios de aplicación del Plan de respuesta solidaria a que se refiere el artículo siguiente, las establecidas en el Protocolo Marco de Menores Extranjeros No Acompañados previsto en el reglamento de desarrollo de esta ley (Protocolo Marco), así como aquellas contempladas en la restante normativa de aplicación.
+2. Declarada la situación de contingencia migratoria extraordinaria recogida en el artículo 35 bis, si se localiza a una persona menor extranjera no acompañada se realizarán las actuaciones contenidas en el Protocolo Marco con las especialidades y plazos recogidos en este artículo. Tanto si su minoría de edad es indubitada, como si se trata de personas menores de edad extranjeras no acompañadas indocumentadas cuya minoría de edad no pudiera ser establecida con seguridad, se procederá a realizar su reseña inmediata o a la mayor brevedad posible, y a su inscripción, si no estuvieran ya inscritos, en el Registro de Menores Extranjeros No Acompañados dentro de las veinticuatro horas siguientes desde que se realice esta reseña en la que se refleje la minoría de edad de la persona extranjera no acompañada, acreditada esta o no.
+3. Mientras se mantenga la situación de contingencia migratoria extraordinaria recogida en el artículo 35 bis, la persona extranjera no acompañada, con independencia de que su minoría de edad sea indubitada o no pudiera ser establecida con seguridad, será trasladada en el plazo máximo de quince días naturales a contar desde la fecha de inscripción en el Registro de Menores Extranjeros No Acompañados, a la comunidad o ciudad autónoma de destino, que será la que corresponda de acuerdo con lo establecido en el artículo 35 quinquies.
+La propuesta de ubicación en una comunidad o ciudad autónoma se adoptará por el órgano competente de la Administración General del Estado de forma simultánea a su inscripción en el Registro de Menores Extranjeros No Acompañados.
+4. La resolución de ubicación y traslado a una concreta comunidad o ciudad autónoma por el órgano competente de la Administración General del Estado será dictada dentro del plazo de quince días naturales desde su inscripción en el Registro de Menores Extranjeros No Acompañados, dentro de los cuales la persona menor afectada y la comunidad o ciudad autónoma de destino habrán de ser oídas, dando conocimiento al Ministerio Fiscal en garantía del interés superior del menor y de los derechos que le confiere el ordenamiento jurídico.
+Asimismo, se garantiza la intervención del Ministerio Fiscal cuando así lo aprecie de oficio en cualesquiera de las actuaciones previstas en este artículo.
+En todo caso, dicha resolución de ubicación y traslado deberá inscribirse en el Registro de Menores Extranjeros No Acompañados indicando la comunidad o ciudad autónoma de destino en la que será ubicada la persona menor extranjera.
+5. En el supuesto de la persona menor extranjera no acompañada indocumentada cuya minoría de edad no pudiera ser establecida con seguridad al que se refiere el apartado 2, se practicarán en la comunidad o ciudad autónoma de destino las actuaciones del expediente de determinación de edad a que se refiere el artículo 35.3, en su caso, y las restantes que procedan conforme a la normativa de aplicación y al Protocolo Marco.
+6. En lo no previsto en este artículo se aplicará, en cuanto a las actuaciones a realizar tras la localización de personas extranjeras no acompañadas que sean indubitadamente menores de edad, o personas que no porten documentación cuya minoría de edad no pueda ser establecida con seguridad, el Protocolo Marco. Las entidades cuyo objeto se refiera total o parcialmente a la atención de personas menores extranjeras no acompañadas, así como las personas que actúen en su representación o encuadradas en su actividad de manera habitual, estarán obligadas a poner en conocimiento de la autoridad correspondiente la localización de personas menores de edad extranjeras no acompañadas a fin de que pueda procederse en los términos del referido Protocolo Marco respecto de las mismas.
+7. En los criterios de aplicación del Plan de respuesta solidaria se incluirán las medidas que se estimen necesarias para establecer una financiación suficiente para el mismo.
+8. Se entregará a las personas menores de edad extranjeras no acompañadas si su grado de madurez lo permite, o a sus representantes legales en otro caso, una certificación de los datos que consten en el Registro de Menores Extranjeros No Acompañados que les afecten, incluyendo los datos correspondientes a su identidad y la comunidad o ciudad autónoma a la que se encuentren asignados.
+Se añade por el art. único.3 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+### Artículo 35 quinquies
+
+Artículo 35 quinquies. Criterios de aplicación del Plan de respuesta solidaria ante la situación de contingencia migratoria extraordinaria para la infancia y la adolescencia migrante no acompañada.
+1. En defecto del acuerdo unánime de la Conferencia Sectorial de Infancia y Adolescencia a que se refiere el artículo 35 bis.1, los criterios de aplicación del Plan de respuesta solidaria serán adoptados en el seno de la Conferencia Sectorial de Infancia y Adolescencia en ejercicio de las funciones de coordinación de la Administración General del Estado, en los términos del artículo 151.2.a) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Los órganos competentes de las comunidades o ciudades autónomas deberán realizar las actuaciones necesarias para garantizar la atención a las personas menores de edad extranjeras no acompañadas que deban ubicarse en su territorio en los plazos previstos por los criterios de aplicación aprobados en el seno de la Conferencia Sectorial de Infancia y Adolescencia de acuerdo con la resolución a la que se refiere el artículo 35 quáter.4.
+2. Dicho acuerdo recogerá los criterios objetivos para la determinación de la reasignación territorial de las personas menores de edad extranjeras no acompañadas, así como la asignación de la tutela y custodia por parte de los servicios de protección de las comunidades o ciudades autónomas en las que hayan sido redistribuidas.
+3. Los criterios de aplicación del Plan de respuesta solidaria, una vez aprobados, serán comunicados por la Secretaría de la Conferencia Sectorial de Infancia y Adolescencia a todas las comunidades y ciudades autónomas afectadas por conducto de las personas titulares de la Consejerías competentes en materia de juventud e infancia, quienes darán traslado, a su vez, a los servicios de su titularidad, así como a otras Administraciones de su territorio que pudieran resultar afectadas y al Ministerio Fiscal.
+4. En cuanto al régimen de tutela, guarda y acogimiento de las personas menores de edad extranjeras no acompañadas se estará a lo dispuesto en la legislación civil. Las personas menores de edad extranjeras no acompañadas que se desplacen, sin autorización, fuera del territorio de la comunidad o ciudad autónoma titular de su guarda o tutela podrán ser conducidas nuevamente por los servicios competentes, una vez localizadas, a su territorio y, en cualquier caso, deberán ser puestas a disposición de la autoridad correspondiente.
+5. Las actuaciones a desarrollar por los órganos competentes de las comunidades o ciudades autónomas en ejecución del Plan de respuesta solidaria y de sus criterios de aplicación podrán ser ejercidas en el ámbito de la Comunidad Autónoma del País Vasco por las Diputaciones Forales de los Territorios Históricos de acuerdo con la distribución de competencias que se derive de su propia normativa de aplicación. A estos efectos, podrán participar en la Conferencia Sectorial de Infancia y Adolescencia en los términos que establezca la legislación autonómica.
+Se añade por el art. único.4 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+## CAPITULO III
+
+CAPÍTULO III
+De las autorizaciones para la realización de actividades lucrativas
+Se modifica por el art. único.38 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se reordena por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 36
+
+Artículo 36. Autorización de residencia y trabajo.
+1. Los extranjeros mayores de dieciséis años precisarán, para ejercer cualquier actividad lucrativa, laboral o profesional, de la correspondiente autorización administrativa previa para residir y trabajar. La autorización de trabajo se concederá conjuntamente con la de residencia, salvo en los supuestos de penados extranjeros que se hallen cumpliendo condenas o en otros supuestos excepcionales que se determinen reglamentariamente.
+2. La eficacia de la autorización de residencia y trabajo inicial se condicionará al alta del trabajador en la Seguridad Social. La Entidad Gestora comprobará en cada caso la previa habilitación de los extranjeros para residir y realizar la actividad.
+3. Cuando el extranjero se propusiera trabajar por cuenta propia o ajena, ejerciendo una profesión para la que se exija una titulación especial, la concesión de la autorización se condicionará a la tenencia y, en su caso, homologación del título correspondiente y, si las leyes así lo exigiesen, a la colegiación.
+4. Para la contratación de un extranjero, el empleador deberá solicitar la autorización a que se refiere el apartado 1 del presente artículo, que en todo caso deberá acompañarse del contrato de trabajo que garantice una actividad continuada durante el periodo de vigencia de la autorización.
+5. La carencia de la autorización de residencia y trabajo, sin perjuicio de las responsabilidades del empresario a que dé lugar, incluidas las de Seguridad Social, no invalidará el contrato de trabajo respecto a los derechos del trabajador extranjero, ni será obstáculo para la obtención de las prestaciones derivadas de supuestos contemplados por los convenios internacionales de protección a los trabajadores u otras que pudieran corresponderle, siempre que sean compatibles con su situación. En todo caso, el trabajador que carezca de autorización de residencia y trabajo no podrá obtener prestaciones por desempleo.
+Salvo en los casos legalmente previstos, el reconocimiento de una prestación no modificará la situación administrativa del extranjero.
+6. En la concesión inicial de la autorización administrativa para trabajar podrán aplicarse criterios especiales para determinadas nacionalidades en función del principio de reciprocidad.
+7. No se concederá autorización para residir y realizar una actividad lucrativa, laboral o profesional, a los extranjeros que, en el marco de un programa de retorno voluntario a su país de origen, se hubieran comprometido a no retornar a España durante un plazo determinado en tanto no hubiera transcurrido dicho plazo.
+8. Reglamentariamente se determinarán las condiciones y requisitos para hacer posible la participación de trabajadores extranjeros en sociedades anónimas laborales y sociedades cooperativas.
+Se modifica por el art. único.39 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 1, 2 y 3 por el art. 1.15 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.29 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 33.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 37
+
+Artículo 37. Autorización de residencia y trabajo por cuenta propia.
+1. Para la realización de actividades económicas por cuenta propia habrá de acreditarse el cumplimiento de todos los requisitos que la legislación vigente exige a los nacionales para la apertura y funcionamiento de la actividad proyectada, así como los relativos a la suficiencia de la inversión y la potencial creación de empleo, entre otros que reglamentariamente se establezcan.
+2. La autorización inicial de residencia y trabajo por cuenta propia se limitará a un ámbito geográfico no superior al de una Comunidad Autónoma, y a un sector de actividad. Su duración se determinará reglamentariamente.
+3. La concesión de la autorización inicial de trabajo, en necesaria coordinación con la que corresponde al Estado en materia de residencia, corresponderá a las Comunidades Autónomas de acuerdo con las competencias asumidas en los correspondientes Estatutos.
+Se modifica por el art. único.40 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.16 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.30 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 34.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 38
+
+Artículo 38. Autorización de residencia y trabajo por cuenta ajena.
+1. Para la concesión inicial de la autorización de residencia y trabajo, en el caso de trabajadores por cuenta ajena, se tendrá en cuenta la situación nacional de empleo.
+2. La situación nacional de empleo será determinada por el Servicio Público de Empleo Estatal con la información proporcionada por las Comunidades Autónomas y con aquella derivada de indicadores estadísticos oficiales y quedará plasmada en el Catálogo de Ocupaciones de Difícil Cobertura. Dicho catálogo contendrá una relación de empleos susceptibles de ser satisfechos a través de la contratación de trabajadores extranjeros y será aprobado previa consulta de la Comisión Laboral Tripartita de Inmigración.
+Igualmente, se entenderá que la situación nacional de empleo permite la contratación en ocupaciones no catalogadas cuando de la gestión de la oferta se concluya la insuficiencia de demandantes de empleo adecuados y disponibles. Reglamentariamente se determinarán los requisitos mínimos para considerar que la gestión de la oferta de empleo es considerada suficiente a estos efectos.
+3. El procedimiento de concesión de la autorización de residencia y trabajo inicial, sin perjuicio de los supuestos previstos cuando el extranjero que se halle en España se encuentre habilitado para solicitar u obtener una autorización de residencia y trabajo, se basará en la solicitud de cobertura de un puesto vacante, presentada por un empresario o empleador ante la autoridad competente, junto con el contrato de trabajo y el resto de documentación exigible, ofrecido al trabajador extranjero residente en un tercer país. Verificado el cumplimiento de los requisitos, la autoridad competente expedirá una autorización cuya eficacia estará condicionada a que el extranjero solicite el correspondiente visado y que, una vez en España, se produzca el alta del trabajador en la Seguridad Social.
+4. El empresario o empleador estará obligado a comunicar el desistimiento de la solicitud de autorización si, mientras se resolviera la autorización o el visado, desapareciera la necesidad de contratación del extranjero o se modificasen las condiciones del contrato de trabajo que sirvió de base a la solicitud. Asimismo, cuando el extranjero habilitado se hallase en España deberá registrar en los Servicios Públicos de Empleo el contrato de trabajo que dio lugar a la solicitud y formalizar el alta del trabajador en la Seguridad Social, y si no pudiera iniciarse la relación laboral, el empresario o empleador estará obligado a comunicarlo a las autoridades competentes.
+5. La autorización inicial de residencia y trabajo se limitará, salvo en los casos previstos por la Ley y los Convenios Internacionales firmados por España, a un determinado territorio y ocupación. Su duración se determinará reglamentariamente.
+6. La autorización de residencia y trabajo se renovará a su expiración:
+a) Cuando persista o se renueve el contrato de trabajo que motivó su concesión inicial, o cuando se cuente con un nuevo contrato.
+b) Cuando por la autoridad competente, conforme a la normativa de la Seguridad Social, se hubiera otorgado una prestación contributiva por desempleo.
+c) Cuando el extranjero sea beneficiario de una prestación económica asistencial de carácter público destinada a lograr su inserción social o laboral.
+d) Cuando concurran otras circunstancias previstas reglamentariamente, en particular, los supuestos de extinción del contrato de trabajo o suspensión de la relación laboral como consecuencia de ser víctima de violencia de género.
+7. A partir de la primera concesión, las autorizaciones se concederán sin limitación alguna de ámbito geográfico u ocupación.
+8. La concesión de la autorización inicial de trabajo, en necesaria coordinación con la que corresponde al Estado en materia de residencia, corresponderá a las Comunidades Autónomas de acuerdo con las competencias asumidas en los correspondientes Estatutos.
+Se modifica por el art. único.41 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica y se renumera por el art. 1.31 de la Ley Orgánica 8/2000, de 23 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 35.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 38 bis
+
+Artículo 38 bis. Régimen especial de los investigadores.
+(Derogado).
+Se deroga por la disposición derogatoria única del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#dd
+ Se añade por el art. único.42 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 38 ter
+
+Artículo 38 ter. Residencia y trabajo de profesionales altamente cualificados.
+(Derogado).
+Se deroga por la disposición derogatoria única.a) de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#dd
+ Se añade por el art. único.43 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 39
+
+Artículo 39. Gestión colectiva de contrataciones en origen.
+1. El Ministerio de Trabajo e Inmigración, teniendo en cuenta la situación nacional de empleo, podrá aprobar una previsión anual de las ocupaciones y, en su caso, de las cifras previstas de empleos que se puedan cubrir a través de la gestión colectiva de contrataciones en origen en un período determinado, a los que sólo tendrán acceso aquellos que no se hallen o residan en España. Asimismo, podrá establecer un número de visados para búsqueda de empleo en las condiciones que se determinen, dirigidos a hijos o nietos de español de origen o a determinadas ocupaciones. La mencionada previsión tendrá en cuenta las propuestas que, previa consulta de los agentes sociales en su ámbito correspondiente, sean realizadas por las Comunidades Autónomas, y será adoptada previa consulta de la Comisión Laboral Tripartita de Inmigración.
+2. El procedimiento de concesión de la autorización inicial de residencia y trabajo mediante tramitación colectiva de los contratos en origen, estará basado en la gestión simultánea de una pluralidad de autorizaciones, presentadas por uno o varios empleadores, respecto de trabajadores seleccionados en sus países, con la participación, en su caso, de las autoridades competentes. En la gestión del mismo se actuará coordinadamente con las Comunidades Autónomas competentes para la concesión de la autorización de trabajo inicial.
+3. Las ofertas de empleo realizadas a través de este procedimiento se orientarán preferentemente hacia los países con los que España haya firmado acuerdos sobre regulación de flujos migratorios.
+Se modifica por el art. único.44 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.17 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.32 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 37.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 40
+
+Artículo 40. Supuestos específicos de exención de la situación nacional de empleo.
+1. No se tendrá en cuenta la situación nacional de empleo cuando el contrato de trabajo vaya dirigido a:
+a) Los familiares reagrupados en edad laboral, o el cónyuge o hijo de extranjero residente en España con una autorización renovada, así como al hijo de español nacionalizado o de ciudadanos de otros Estados miembros de la Unión Europea y de otros Estados parte en el Espacio Económico Europeo, siempre que estos últimos lleven, como mínimo, un año residiendo legalmente en España y al hijo no le sea de aplicación el régimen comunitario.
+b) Los titulares de una autorización previa de trabajo que pretendan su renovación.
+c) Los trabajadores necesarios para el montaje por renovación de una instalación o equipos productivos.
+d) Los que hubieran gozado de la condición de refugiados, durante el año siguiente a la cesación de la aplicación de la Convención de Ginebra de 28 de julio de 1951, sobre el Estatuto de los Refugiados, por los motivos recogidos en el supuesto 5 de la sección C de su artículo 1.
+e) Los que hubieran sido reconocidos como apátridas y los que hubieran perdido la condición de apátridas el año siguiente a la terminación de dicho estatuto.
+f) Los extranjeros que tengan a su cargo ascendientes o descendientes de nacionalidad española.
+g) Los extranjeros nacidos y residentes en España.
+h) Los hijos o nietos de español de origen.
+i) Los menores extranjeros en edad laboral con autorización de residencia que sean tutelados por la entidad de protección de menores competente, para aquellas actividades que, a criterio de la mencionada entidad, favorezcan su integración social, y una vez acreditada la imposibilidad de retorno con su familia o al país de origen.
+j) Los extranjeros que obtengan la autorización de residencia por circunstancias excepcionales en los supuestos que se determinen reglamentariamente y, en todo caso, cuando se trate de víctimas de violencia de género o de trata de seres humanos.
+k) Los extranjeros que hayan sido titulares de autorizaciones de trabajo para actividades de temporada, durante dos años naturales, y hayan retornado a su país.
+l) Los extranjeros que hayan renunciado a su autorización de residencia y trabajo en virtud de un programa de retorno voluntario.
+2. Tampoco se tendrá en cuenta la situación nacional de empleo, en las condiciones que se determinen reglamentariamente para:
+a) La cobertura de puestos de confianza y directivos de empresas.
+b) Los profesionales altamente cualificados, incluyendo técnicos y científicos contratados por entidades públicas, universidades o centros de investigación, desarrollo e innovación dependientes de empresas, sin perjuicio de la aplicación del régimen específico de autorización aplicable de conformidad con la presente Ley.
+c) Los trabajadores en plantilla de una empresa o grupo de empresas en otro país que pretendan desarrollar su actividad laboral para la misma empresa o grupo en España.
+d) Los artistas de reconocido prestigio.
+Se modifica por el art. único.45 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica la letra b) y se añade la letra l) por el art. 1.18 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.33 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 41
+
+Artículo 41. Excepciones a la autorización de trabajo.
+1. No será necesaria la obtención de autorización de trabajo para el ejercicio de las actividades siguientes:
+a) Los técnicos y científicos extranjeros, invitados o contratados, por el Estado, las comunidades autónomas o los entes locales o los organismos que tengan por objeto la promoción y desarrollo de la investigación promovidos o participados mayoritariamente por las anteriores.
+b) Los profesores extranjeros invitados o contratados por una universidad española.
+c) El personal directivo y el profesorado extranjeros, de instituciones culturales y docentes dependientes de otros Estados, o privadas, de acreditado prestigio, oficialmente reconocidas por España, que desarrollen en nuestro país programas culturales y docentes de sus países respectivos, en tanto limiten su actividad a la ejecución de tales programas.
+d) Los funcionarios civiles o militares de las Administraciones estatales extranjeras que vengan a España para desarrollar actividades en virtud de acuerdos de cooperación con la Administración española.
+e) Los corresponsales de medios de comunicación social extranjeros, debidamente acreditados, para el ejercicio de la actividad informativa.
+f) Los miembros de misiones científicas internacionales que realicen trabajos e investigaciones en España, autorizados por el Estado.
+g) Los artistas que vengan a España a realizar actuaciones concretas que no supongan una actividad continuada.
+h) Los ministros, religiosos o representantes de las diferentes iglesias y confesiones, debidamente inscritas en el Registro de Entidades Religiosas, en tanto limiten su actividad a funciones estrictamente religiosas.
+i) Los extranjeros que formen parte de los órganos de representación, gobierno y administración de los sindicatos homologados internacionalmente, siempre que limiten su actividad a funciones estrictamente sindicales.
+j) Los menores extranjeros en edad laboral tutelados por la entidad de protección de menores competente, para aquellas actividades que, a propuesta de la mencionada entidad, mientras permanezcan en esa situación, favorezcan su integración social.
+2. Reglamentariamente se establecerá el procedimiento para acreditar la excepción. En todo caso, este procedimiento será el mismo tanto para el personal de instituciones públicas como de organismos promovidos o participados mayoritariamente por una Administración pública.
+Se suprimen la letra j) del apartado 1, pasando la letra k) a ser j); y el apartado 3 por el art. único.46 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 1 y 2 y se sustituye el término «permiso» por «autorización» por el art. 1.19 y la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y renumera por el art. 1.34 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su numeración anterior era art. 39.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 42
+
+Artículo 42. Régimen especial de los trabajadores de temporada.
+1. El Gobierno regulará reglamentariamente la autorización de residencia y trabajo para los trabajadores extranjeros en actividades de temporada o campaña que les permita la entrada y salida del territorio nacional, así como la documentación de su situación, de acuerdo con las características de las citadas campañas y la información que le suministren las Comunidades Autónomas donde se promuevan.
+2. Para conceder las autorizaciones de residencia y trabajo deberá garantizarse que los trabajadores temporeros serán alojados en condiciones de dignidad e higiene adecuadas.
+3. Las Administraciones públicas promoverán la asistencia de los servicios sociales adecuados.
+4. Las ofertas de empleo de temporada se orientarán preferentemente hacia los países con los que España haya firmado acuerdos sobre regulación de flujos migratorios.
+5. Las Comunidades Autónomas, los Ayuntamientos y los agentes sociales promoverán los circuitos que permitan la concatenación de los trabajadores de temporada, en colaboración con la Administración General del Estado.
+6. Reglamentariamente se determinarán las condiciones para que los trabajadores en plantilla de una empresa o grupo de empresas que desarrollen su actividad en otro país puedan ser autorizados a trabajar temporalmente en España para la misma empresa o grupo.
+Se modifica por el art. único.47 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añaden los apartados 4 y 5 por el art. 1.20 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.35 de la Ley Orgánica 8/200, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 41
+
+## CAPÍTULO IV
+
+De las tasas por autorizaciones administrativas para trabajar en España
+
+### Artículo 43
+
+Artículo 43. Trabajadores transfronterizos y prestación transnacional de servicios.
+1. Los trabajadores extranjeros que, residiendo en la zona limítrofe, desarrollen su actividad en España y regresen a su lugar de residencia diariamente deberán obtener la correspondiente autorización administrativa, con los requisitos y condiciones con que se conceden las autorizaciones de régimen general, siéndoles de aplicación en cuanto a los derechos de seguridad social lo establecido en el artículo 14.1 de esta Ley
+2. Reglamentariamente se establecerán las condiciones para la autorización de residencia y trabajo en el marco de prestaciones transnacionales de servicios, de acuerdo con la normativa vigente.
+Se modifica por el art. único.48 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica y se renumera por el art. 1.36 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 42.
+
+## CAPÍTULO IV
+
+De las tasas por autorizaciones administrativas y por tramitación de las solicitudes de visado y de los precios públicos
+Se modifica la rúbrica por la disposición final 3.1 de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#df-3
+ Se modifica por el art. 1.21 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se reordena y se modifica la rúbrica por el art. 3.1 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 44
+
+Artículo 44. Hecho imponible.
+1. Las tasas se regirán por la presente Ley y por las demás fuentes normativas que para las tasas se establecen en el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+2. Constituye el hecho imponible de las tasas la tramitación de las autorizaciones administrativas y de los documentos de identidad previstos en esta Ley, así como de sus prórrogas, modificaciones y renovaciones; en particular:
+a) La tramitación de autorizaciones para la prórroga de la estancia en España.
+b) La tramitación de las autorizaciones para residir en España.
+c) La tramitación de autorizaciones de trabajo, salvo que se trate de autorizaciones para un período inferior a seis meses.
+d) La tramitación de tarjetas de identidad de extranjeros.
+e) La tramitación de documentos de identidad a indocumentados.
+f) La tramitación de visado.
+3. Se podrán establecer precios públicos por la prestación de servicios de tramitación de visados por parte de proveedores de servicios externos, de conformidad con la normativa aplicable.
+Se añade el apartado 3 por la disposición final 3.3 de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#df-3
+ Se modifica por el art. único.49 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 2 y se añade el apartado 3 por el art. 1.22 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.37 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 43.
+
+### Artículo 45
+
+Artículo 45. Devengo.
+1. Las tasas se devengarán cuando se solicite la autorización, la prórroga, la modificación, la renovación, o el visado.
+En el caso de las Comunidades Autónomas que tengan traspasadas las competencias en materia de autorización de trabajo, les corresponderá el devengo del rendimiento de las tasas.
+2. En los casos de autorización de residencia y trabajo por cuenta ajena a favor de trabajadores de servicio doméstico de carácter parcial o discontinuo, el devengo de la tasa se producirá en el momento de afiliación y/o alta del trabajador en la Seguridad Social.
+3. En los casos de renovación de la autorización de residencia y trabajo por cuenta ajena, en ausencia de empleador, y cuando se trate de trabajadores de servicio doméstico de carácter parcial o discontinuo, el devengo de la tasa se producirá en el momento de alta del trabajador en la Seguridad Social.
+4. El importe de las tasas se establecerá por orden ministerial de los departamentos competentes. Cuando las Comunidades Autónomas tengan traspasadas las competencias en materia de autorización inicial de trabajo, éstas se regirán por la legislación correspondiente.
+Se modifica por el art. único.50 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.23 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.38 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+## TITULO III
+
+TÍTULO III
+De las infracciones en materia de extranjería y su régimen sancionador
+
+### Artículo 46
+
+Artículo 46. Sujetos pasivos.
+1. Serán sujetos pasivos de las tasas los solicitantes de visado y las personas en cuyo favor se concedan las autorizaciones o se expidan los documentos previstos en el artículo 44, salvo en las autorizaciones de trabajo por cuenta ajena, en cuyo caso será sujeto pasivo el empleador o empresario, excepto en el supuesto de relaciones laborales en el sector del servicio doméstico de carácter parcial o discontinuo, en que lo será el propio trabajador.
+2. Será nulo todo pacto por el que el trabajador por cuenta ajena asuma la obligación de pagar en todo o en parte el importe de las tasas establecidas.
+Se modifica por el art. único.51 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por el art. 1.24 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.39 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 44.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 47
+
+Artículo 47. Exención.
+No vendrán obligados al pago de las tasas por la concesión de las autorizaciones para trabajar los nacionales iberoamericanos, filipinos, andorranos, ecuatoguineanos, los sefardíes, los hijos y nietos de español o española de origen, y los extranjeros nacidos en España cuando pretendan realizar una actividad lucrativa, laboral o profesional, por cuenta propia.
+Las solicitudes de visado presentadas por nacionales de terceros países beneficiarios de derecho comunitario en materia de libre circulación y residencia estarán exentas del pago de las tasas de tramitación.
+Las entidades públicas de protección de menores estarán exentas del pago de las tasas derivadas de las autorizaciones que están obligadas a solicitar para éstos en ejercicio de la representación legal que de ellos ostentan.
+En aplicación de la normativa comunitaria sobre la materia, quedarán exentos del pago de la tasa relativa a visados de tránsito o estancia, los niños menores de seis años; los investigadores nacionales de terceros países que se desplacen con fines de investigación científica en los términos establecidos por la Recomendación 2005/761/CE, del Parlamento y del Consejo; y los representantes de organizaciones sin ánimo de lucro que no sean mayores de 25 años y vayan a participar en seminarios, conferencias o acontecimientos deportivos o educativos, organizados por organizaciones sin ánimo de lucro.
+Se modifica por el art. único.52 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.25 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.40 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 48
+
+Artículo 48. Cuantía de las tasas.
+1. El importe de las tasas se establecerá por Orden ministerial de los Departamentos competentes, sin perjuicio de lo dispuesto por la normativa comunitaria en relación con procedimientos de solicitud de visados de tránsito o estancia.
+2. Las normas que determinen la cuantía de las tasas deberán ir acompañadas de una memoria económico-financiera sobre el coste de la actividad de que se trate y sobre la justificación de la cuantía propuesta, la cual deberá ajustarse a lo establecido en los artículos 7 y 19.2 de la Ley 8/1989, de 13 de abril.
+3. Se consideran elementos y criterios esenciales de cuantificación que sólo podrán modificarse mediante norma del mismo rango, los siguientes:
+a) En la tramitación de la solicitud de visado, los gastos administrativos de tramitación, la limitación de los efectos del visado de tránsito aeroportuario, la duración de la estancia, el número de entradas autorizadas, el carácter de la residencia, así como, en su caso, el hecho de que se expida en frontera. También se tendrán en cuenta los costes complementarios que se originen por la expedición de visados, cuando, a petición del interesado, deba hacerse uso de procedimientos tales como mensajería, correo electrónico, correo urgente, telefax, telegrama o conferencia telefónica.
+b) En la concesión de autorizaciones para la prórroga de estancia en España, la duración de la prórroga.
+c) En la concesión de autorizaciones de residencia, la duración de la autorización, así como su carácter definitivo o temporal, y, dentro de estas últimas, el hecho de que se trate de la primera o ulteriores concesiones o sus renovaciones.
+d) En la concesión de autorizaciones de trabajo, la duración de la misma, su extensión y ámbito, el carácter y las modalidades de la relación por cuenta ajena, así como, en su caso, el importe del salario pactado.
+e) En la expedición de tarjetas de identidad de extranjeros, la duración de la autorización y el hecho de que se trate de la primera o ulteriores concesiones o sus renovaciones.
+En todo caso, será criterio cuantitativo de las tasas el carácter individual o colectivo de las autorizaciones, prórrogas, modificaciones o renovaciones.
+4. Los importes de las tasas por tramitación de la solicitud de visado se adecuarán a la revisión que proceda por aplicación del derecho comunitario. Se acomodarán, asimismo, al importe que pueda establecerse por aplicación del principio de reciprocidad.
+Se modifica el apartado 1 por el art. único.53 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 3 y 4 por el art. 1.26 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.41 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 45.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 49
+
+Artículo 49. Gestión, recaudación y autoliquidación.
+1. La gestión y recaudación de las tasas corresponderá a los órganos competentes para la concesión de las autorizaciones, modificaciones, renovaciones y prórrogas, la expedición de la documentación a que se refiere el artículo 44 y la tramitación de la solicitud de visado.
+2. Los sujetos pasivos de las tasas estarán obligados a practicar operaciones de autoliquidación tributaria y a realizar el ingreso de su importe en el Tesoro cuando así se prevea reglamentariamente.
+Se modifica el apartado 1 por el art. único.54 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por el art. 1.27 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.42 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+## TITULO III
+
+TÍTULO III
+De las infracciones en materia de extranjería y su régimen sancionador
+Se reordena por el art. 3.2 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+
+### Artículo 50
+
+Artículo 50. La potestad sancionadora.
+El ejercicio de la potestad sancionadora por la comisión de las infracciones administrativas previstas en la presente Ley Orgánica, se ajustará a la dispuesto en la misma y en sus disposiciones de desarrollo, y en la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se renumera por el art. 1.43 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 46.
+
+### Artículo 51
+
+Artículo 51. Tipos de infracciones.
+1. Incurrirán en responsabilidad administrativa quienes sean autores o participen en cualquiera de las infracciones tipificadas en los artículos siguientes.
+2. Las infracciones administrativas establecidas en la presente Ley Orgánica se clasifican en leves, graves y muy graves.
+Se renumera por el art. 1.44 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 47.
+
+### Artículo 52
+
+Artículo 52. Infracciones leves.
+Son infracciones leves:
+a) La omisión o el retraso en la comunicación a las autoridades españolas de los cambios de nacionalidad, de estado civil o de domicilio, así como de otras circunstancias determinantes de su situación laboral cuando les sean exigibles por la normativa aplicable.
+b) El retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado.
+c) Encontrarse trabajando en España sin haber solicitado autorización administrativa para trabajar por cuenta propia, cuando se cuente con autorización de residencia temporal.
+d) Encontrarse trabajando en una ocupación, sector de actividad, o ámbito geográfico no contemplado por la autorización de residencia y trabajo de la que se es titular.
+e) La contratación de trabajadores cuya autorización no les habilita para trabajar en esa ocupación o ámbito geográfico, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados.
+f) La ausencia de comunicación a la autoridad pública por parte de las entidades cuyo objeto se refiera total o parcialmente a la atención de personas menores de edad extranjeras no acompañadas, así como de las personas que actúen en su representación o encuadradas en su actividad de manera habitual, de la localización de personas menores de edad extranjeras no acompañadas a fin de que pueda procederse en consecuencia.
+Se añade la letra f) por el art. único.5 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+ Se añaden las letras d) y e) por el art. único.55 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se sustituye el término «permiso» por «autorización» según establece la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
+ Se modifica y se renumera por el art. 1.45 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su numeración anterior era art. 48.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 22 de diciembre de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 53
+
+Artículo 53. Infracciones graves.
+1. Son infracciones graves:
+a) Encontrarse irregularmente en territorio español, por no haber obtenido la prórroga de estancia, carecer de autorización de residencia o tener caducada más de tres meses la mencionada autorización, y siempre que el interesado no hubiere solicitado la renovación de la misma en el plazo previsto reglamentariamente.
+b) Encontrarse trabajando en España sin haber obtenido autorización de trabajo o autorización administrativa previa para trabajar, cuando no cuente con autorización de residencia válida.
+c) Incurrir en ocultación dolosa o falsedad grave en el cumplimiento de la obligación de poner en conocimiento de las autoridades competentes los cambios que afecten a nacionalidad, estado civil o domicilio, así como incurrir en falsedad en la declaración de los datos obligatorios para cumplimentar el alta en el padrón municipal a los efectos previstos en esta Ley, siempre que tales hechos no constituyan delito. Cuando cualquier autoridad tuviera conocimiento de una posible infracción por esta causa, lo pondrá en conocimiento de las autoridades competentes con el fin de que pueda instruirse el oportuno expediente sancionador.
+d) El incumplimiento de las medidas impuestas por razón de seguridad pública, de presentación periódica o de alejamiento de fronteras o núcleos de población concretados singularmente, de acuerdo con lo dispuesto en la presente Ley.
+e) La comisión de una tercera infracción leve, siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas leves de la misma naturaleza.
+f) La participación por el extranjero en la realización de actividades contrarias al orden público previstas como graves en la Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana.
+g) Las salidas del territorio español por puestos no habilitados, sin exhibir la documentación prevista o contraviniendo las prohibiciones legalmente impuestas.
+h) Incumplir la obligación del apartado 2 del artículo 4.
+2. También son infracciones graves:
+a) No dar de alta, en el Régimen de la Seguridad Social que corresponda, al trabajador extranjero cuya autorización de residencia y trabajo por cuenta ajena hubiera solicitado, o no registrar el contrato de trabajo en las condiciones que sirvieron de base a la solicitud, cuando el empresario tenga constancia de que el trabajador se halla legalmente en España habilitado para el comienzo de la relación laboral. No obstante, estará exento de esta responsabilidad el empresario que comunique a las autoridades competentes la concurrencia de razones sobrevenidas que puedan poner en riesgo objetivo la viabilidad de la empresa o que, conforme a la legislación, impidan el inicio de dicha relación.
+b) Contraer matrimonio, simular relación afectiva análoga o constituirse en representante legal de un menor, cuando dichas conductas se realicen con ánimo de lucro o con el propósito de obtener indebidamente un derecho de residencia, siempre que tales hechos no constituyan delito.
+c) Promover la permanencia irregular en España de un extranjero, cuando su entrada legal haya contado con una invitación expresa del infractor y continúe a su cargo una vez transcurrido el período de tiempo permitido por su visado o autorización. Para graduar la sanción se tendrán en cuenta las circunstancias personales y familiares concurrentes.
+d) Consentir la inscripción de un extranjero en el Padrón Municipal por parte del titular de una vivienda habilitado para tal fin, cuando dicha vivienda no constituya el domicilio real del extranjero. Se incurrirá en una infracción por cada persona indebidamente inscrita.
+Se modifica por el art. único.56 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica la letra a) y se añade la letra h) por el art. 1.28 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.46 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 49.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 20, de 24 de enero de 2000. Ref. BOE-A-2000-1432.
+
+### Artículo 54
+
+Artículo 54. Infracciones muy graves.
+1. Son infracciones muy graves:
+a) Participar en actividades contrarias a la seguridad nacional o que pueden perjudicar las relaciones de España con otros países, o estar implicados en actividades contrarias al orden público previstas como muy graves en la Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana.
+b) Inducir, promover, favorecer o facilitar con ánimo de lucro, individualmente o formando parte de una organización, la inmigración clandestina de personas en tránsito o con destino al territorio español o su permanencia en el mismo, siempre que el hecho no constituya delito.
+c) La realización de conductas de discriminación por motivos raciales, étnicos, nacionales o religiosos, en los términos previstos en el artículo 23 de la presente Ley, siempre que el hecho no constituya delito.
+d) La contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados, siempre que el hecho no constituya delito.
+e) Realizar, con ánimo de lucro, la infracción prevista en la letra d) del apartado 2 del artículo anterior.
+f) Simular la relación laboral con un extranjero, cuando dicha conducta se realice con ánimo de lucro o con el propósito de obtener indebidamente derechos reconocidos en esta Ley, siempre que tales hechos no constituyan delito.
+g) La comisión de una tercera infracción grave siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas graves de la misma naturaleza.
+2. También son infracciones muy graves:
+a) El incumplimiento de las obligaciones previstas para los transportistas en el artículo 66, apartados 1 y 2.
+b) El transporte de extranjeros por vía aérea, marítima o terrestre, hasta el territorio español, por los sujetos responsables del transporte, sin que hubieran comprobado la validez y vigencia, tanto de los pasaportes, títulos de viaje o documentos de identidad pertinentes, como, en su caso, del correspondiente visado, de los que habrán de ser titulares los citados extranjeros.
+c) El incumplimiento de la obligación que tienen los transportistas de hacerse cargo sin pérdida de tiempo del extranjero o transportado que, por deficiencias en la documentación antes citada, no haya sido autorizado a entrar en España, así como del extranjero transportado en tránsito que no haya sido trasladado a su país de destino o que hubiera sido devuelto por las autoridades de éste, al no autorizarle la entrada.
+Esta obligación incluirá los gastos de mantenimiento del citado extranjero y, si así lo solicitan las autoridades encargadas del control de entrada, los derivados del transporte de dicho extranjero, que habrá de producirse de inmediato, bien por medio de la compañía objeto de sanción o, en su defecto, por medio de otra empresa de transporte, con dirección al Estado a partir del cual haya sido transportado, al Estado que haya expedido el documento de viaje con el que ha viajado o a cualquier otro Estado donde esté garantizada su admisión.
+3. No obstante lo dispuesto en los apartados anteriores, no se considerará infracción a la presente Ley el hecho de transportar hasta la frontera española a un extranjero que, habiendo presentado sin demora su solicitud de protección internacional, ésta le sea admitida a trámite, de conformidad con lo establecido en la Ley 12/2009, de 30 de octubre reguladora del derecho de asilo y de la protección subsidiaria.
+Se modifica por el art. único.57 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 1.b) y 2 por el art. 1.29 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.47 de la Ley Orgánica 8/2000, de 22 de enero. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 50.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 55
+
+Artículo 55. Sanciones.
+1. Las infracciones tipificadas en los artículos anteriores serán sancionadas en los términos siguientes:
+a) Las infracciones leves con multa de hasta 500 euros.
+b) Las infracciones graves con multa de 501 hasta 10.000 euros. En el supuesto contemplado en el artículo 53.2.a) de esta Ley, además de la sanción indicada, el empresario también estará obligado a sufragar los costes derivados del viaje.
+c) Las infracciones muy graves con multa desde 10.001 hasta 100.000 euros, excepto la prevista en el artículo 54.2.b), que lo será con una multa de 5.000 a 10.000 euros por cada viajero transportado o con un mínimo de 750.000 euros a tanto alzado, con independencia del número de viajeros transportados. La prevista en el artículo 54.2.a) en relación con el artículo 66.1 lo será con una multa de 10.001 hasta 100.000 euros por cada viaje realizado sin haber comunicado los datos de las personas transportadas o habiéndolos comunicado incorrectamente, con independencia de que la Autoridad gubernativa pueda adoptar la inmovilización, incautación y decomiso del medio de transporte, o la suspensión provisional o retirada de la autorización de explotación.
+2. La imposición de sanciones por las infracciones administrativas establecidas en la presente Ley Orgánica corresponderá al Subdelegado del Gobierno o al Delegado del Gobierno en las Comunidades Autónomas uniprovinciales. Cuando una Comunidad Autónoma tenga atribuidas competencias en materia de autorización inicial de trabajo de extranjeros la imposición de las sanciones establecidas en esta Ley en los supuestos de infracción a que se refiere el párrafo siguiente corresponderá a la Comunidad Autónoma y se ejercerá por la Autoridad que la misma determine, dentro del ámbito de sus competencias.
+En los supuestos calificados como infracción leve del artículo 52.c), d) y e), graves del artículo 53.1.b), y 53.2.a), y muy grave del artículo 54.1.d) y f), el procedimiento sancionador se iniciará por acta de la Inspección de Trabajo y Seguridad Social, de acuerdo con lo establecido en el procedimiento sancionador por infracciones del orden social, correspondiendo la imposición de las sanciones a las autoridades referidas en el párrafo anterior.
+En los supuestos de participación en actividades contrarias a la seguridad nacional o que pueden perjudicar las relaciones de España con otros países, previstos en el artículo 54.1.a), de acuerdo con lo establecido en el procedimiento sancionador que se determine reglamentariamente, la competencia sancionadora corresponderá al Secretario de Estado de Seguridad.
+3. Para la graduación de las sanciones, el órgano competente en imponerlas se ajustará a criterios de proporcionalidad, valorando el grado de culpabilidad y, en su caso, el daño producido o el riesgo derivado de la infracción y su trascendencia.
+4. Para la determinación de la cuantía de la sanción se tendrá especialmente en cuenta la capacidad económica del infractor.
+5. A no ser que pertenezcan a un tercero no responsable de la infracción, en el supuesto de la letra b) del apartado 1 del artículo 54, serán objeto de decomiso los vehículos, embarcaciones, aeronaves, y cuantos bienes muebles o inmuebles, de cualquier naturaleza que sean, hayan servido de instrumento para la comisión de la citada infracción.
+A fin de garantizar la efectividad del comiso, los bienes, efectos e instrumentos a que se refiere el apartado anterior podrán ser aprehendidos y puestos a disposición de la autoridad gubernativa, desde las primeras intervenciones, a resultas del expediente sancionador que resolverá lo pertinente en relación con los bienes decomisados.
+6. En el supuesto de la infracción prevista en la letra d) del apartado 1 del artículo 54 de la presente Ley, la autoridad gubernativa podrá adoptar, sin perjuicio de la sanción que corresponda, la clausura del establecimiento o local desde seis meses a cinco años.
+7. Si el sancionado por una infracción prevista en los artículos 52.e) o 54.1.d) de esta Ley fuera subcontratista de otra empresa, el contratista principal y todos los subcontratistas intermedios que conocieran que la empresa sancionada empleaba a extranjeros sin contar con la correspondiente autorización, responderán, solidariamente, tanto de las sanciones económicas derivadas de las sanciones, como de las demás responsabilidades derivadas de tales hechos que correspondan al empresario con las Administraciones públicas o con el trabajador. El contratista o subcontratista intermedios no podrán ser considerados responsables si hubieran respetado la diligencia debida definida en el cumplimiento de sus obligaciones contractuales.
+Se modifica por el art. único.58 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por el art. 1.30 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se convierte a euros las cuantías contempladas en el apartado 1, por el anexo de la Resolución de 22 de octubre de 2001. Ref. BOE-A-2001-20475.
+ Se modifica y se renumera por el art. 1.48 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 51.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de diciembre. Ref. BOE-A-2001-3663.
+
+### Artículo 56
+
+Artículo 56. Prescripción de las infracciones y de las sanciones.
+1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.
+2. Las sanciones impuestas por infracciones muy graves prescribirán a los cinco años, las graves a los dos años y las impuestas por infracciones leves al año.
+3. Si la sanción impuesta fuera la de expulsión del territorio nacional la prescripción no empezará a contar hasta que haya transcurrido el período de prohibición de entrada fijado en la resolución con un máximo de diez años.
+Se renumera por el art. 1.49 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 52
+
+### Artículo 57
+
+Artículo 57. Expulsión del territorio.
+1. Cuando los infractores sean extranjeros y realicen conductas de las tipificadas como muy graves, o conductas graves de las previstas en los apartados a), b), c), d) y f) del artículo 53.1 de esta Ley Orgánica, podrá aplicarse, en atención al principio de proporcionalidad, en lugar de la sanción de multa, la expulsión del territorio español, previa la tramitación del correspondiente expediente administrativo y mediante la resolución motivada que valore los hechos que configuran la infracción.
+2. Asimismo, constituirá causa de expulsión, previa tramitación del correspondiente expediente, que el extranjero haya sido condenado, dentro o fuera de España, por una conducta dolosa que constituya en nuestro país delito sancionado con pena privativa de libertad superior a un año, salvo que los antecedentes penales hubieran sido cancelados.
+3. En ningún caso podrán imponerse conjuntamente las sanciones de expulsión y multa.
+4. La expulsión conllevará, en todo caso, la extinción de cualquier autorización para permanecer legalmente en España, así como el archivo de cualquier procedimiento que tuviera por objeto la autorización para residir o trabajar en España del extranjero expulsado. No obstante, la expulsión podrá revocarse en los supuestos que se determinen reglamentariamente.
+En el caso de las infracciones previstas en las letras a) y b) del artículo 53.1 de esta Ley, salvo que concurran razones de orden público o de seguridad nacional, si el extranjero fuese titular de una autorización de residencia válida expedida por otro Estado miembro, se le advertirá, mediante diligencia en el pasaporte, de la obligación de dirigirse de inmediato al territorio de dicho Estado. Si no cumpliese esa advertencia se tramitará el expediente de expulsión.
+5. La sanción de expulsión no podrá ser impuesta, salvo que la infracción cometida sea la prevista en el artículo 54, letra a) del apartado 1, o suponga una reincidencia en la comisión, en el término de un año, de una infracción de la misma naturaleza sancionable con la expulsión, a los extranjeros que se encuentren en los siguientes supuestos:
+a) Los nacidos en España que hayan residido legalmente en los últimos cinco años.
+b) Los residentes de larga duración. Antes de adoptar la decisión de la expulsión de un residente de larga duración, deberá tomarse en consideración el tiempo de su residencia en España y los vínculos creados, su edad, las consecuencias para el interesado y para los miembros de su familia, y los vínculos con el país al que va a ser expulsado.
+c) Los que hayan sido españoles de origen y hubieran perdido la nacionalidad española.
+d) Los que sean beneficiarios de una prestación por incapacidad permanente para el trabajo como consecuencia de un accidente de trabajo o enfermedad profesional ocurridos en España, así como los que perciban una prestación contributiva por desempleo o sean beneficiarios de una prestación económica asistencial de carácter público destinada a lograr su inserción o reinserción social o laboral.
+Tampoco se podrá imponer o, en su caso, ejecutar la sanción de expulsión al cónyuge del extranjero que se encuentre en alguna de las situaciones señaladas anteriormente y que haya residido legalmente en España durante más de dos años, ni a sus ascendientes e hijos menores, o mayores con discapacidad que no sean objetivamente capaces de proveer a sus propias necesidades debido a su estado de salud, que estén a su cargo.
+6. La expulsión no podrá ser ejecutada cuando ésta conculcase el principio de no devolución, o afecte a las mujeres embarazadas, cuando la medida pueda suponer un riesgo para la gestación o la salud de la madre.
+7. a) Cuando el extranjero se encuentre procesado o imputado en un procedimiento judicial por delito o falta para el que la Ley prevea una pena privativa de libertad inferior a seis años o una pena de distinta naturaleza, y conste este hecho acreditado en el expediente administrativo de expulsión, en el plazo más breve posible y en todo caso no superior a tres días, el Juez, previa audiencia del Ministerio Fiscal, la autorizará salvo que, de forma motivada, aprecie la existencia de circunstancias que justifiquen su denegación.
+En el caso de que el extranjero se encuentre sujeto a varios procesos penales tramitados en diversos juzgados, y consten estos hechos acreditados en el expediente administrativo de expulsión, la autoridad gubernativa instará de todos ellos la autorización a que se refiere el párrafo anterior.
+b) No obstante lo señalado en el párrafo a) anterior, el juez podrá autorizar, a instancias del interesado y previa audiencia del Ministerio Fiscal, la salida del extranjero del territorio español en la forma que determina la Ley de Enjuiciamiento Criminal.
+c) No serán de aplicación las previsiones contenidas en los párrafos anteriores cuando se trate de delitos tipificados en los artículos 312.1, 313.1 y 318 bis del Código Penal.
+8. Cuando los extranjeros, residentes o no, hayan sido condenados por conductas tipificadas como delitos en los artículos 312.1, 313.1 y 318 bis del Código Penal, la expulsión se llevará a efecto una vez cumplida la pena privativa de libertad.
+9. La resolución de expulsión deberá ser notificada al interesado, con indicación de los recursos que contra la misma se puedan interponer, órgano ante el que hubieran de presentarse y plazo para presentarlos.
+10. En el supuesto de expulsión de un residente de larga duración de otro Estado miembro de la Unión Europea que se encuentre en España, dicha expulsión sólo podrá efectuarse fuera del territorio de la Unión cuando la infracción cometida sea una de las previstas en los artículos 53.1.d) y f) y 54.1.a) y b) de esta Ley Orgánica, y deberá consultarse al respecto a las Autoridades competentes de dicho Estado miembro de forma previa a la adopción de esa decisión de expulsión. En caso de no reunirse estos requisitos para que la expulsión se realice fuera del territorio de la Unión, la misma se efectuará al Estado miembro en el que se reconoció la residencia de larga duración.
+11. Cuando, de acuerdo con la normativa vigente, España decida expulsar a un residente de larga duración que sea beneficiario de protección internacional reconocida por otro Estado miembro de la Unión Europea, las autoridades españolas competentes en materia de extranjería solicitarán a las autoridades competentes de dicho Estado miembro información sobre si dicha condición de beneficiario de protección internacional continúa vigente. Dicha solicitud deberá ser respondida en el plazo de un mes, entendiéndose, en caso contrario, que la protección internacional sigue vigente.
+Si el residente de larga duración continúa siendo beneficiario de protección internacional, será expulsado a dicho Estado miembro.
+Lo dispuesto en los dos párrafos anteriores será de aplicación para las solicitudes cursadas por autoridades de otros Estados miembros de la Unión Europea respecto a los extranjeros a los que España hubiera concedido la condición de beneficiario de protección internacional.
+De conformidad con sus obligaciones internacionales, y de acuerdo con las normas de la Unión Europea, España podrá expulsar al residente de larga duración a un país distinto al Estado miembro de la Unión Europea que concedió la protección internacional si existen motivos razonables para considerar que constituye un peligro para la seguridad de España o si, habiendo sido condenado por sentencia firme por un delito de especial gravedad, constituye un peligro para España. En todo caso, cuando la protección internacional hubiera sido reconocida por las autoridades españolas, la expulsión sólo podrá efectuarse previa tramitación del procedimiento de revocación previsto en la normativa vigente en España en materia de protección internacional.
+Se añade el apartado 11 por la disposición final 2.2 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.
+ Se modifica por el art. único.59 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 4 y 7 por el art. 2.1 y 2 de la Ley Orgánica 11/2003, de 29 de septiembre. Ref. BOE-A-2003-18088.
+ Se modifica y se renumera por el art. 1.50 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 53.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 58
+
+Artículo 58. Efectos de la expulsión y devolución.
+1. La expulsión llevará consigo la prohibición de entrada en territorio español. La duración de la prohibición se determinará en consideración a las circunstancias que concurran en cada caso y su vigencia no excederá de cinco años.
+2. Excepcionalmente, cuando el extranjero suponga una amenaza grave para el orden público, la seguridad pública, la seguridad nacional o para la salud pública, podrá imponerse un período de prohibición de entrada de hasta diez años.
+En las circunstancias que se determinen reglamentariamente, la autoridad competente no impondrá la prohibición de entrada cuando el extranjero hubiera abandonado el territorio nacional durante la tramitación de un expediente administrativo sancionador por alguno de los supuestos contemplados en las letras a) y b) del artículo 53.1 de esta Ley Orgánica, o revocará la prohibición de entrada impuesta por las mismas causas, cuando el extranjero abandonara el territorio nacional en el plazo de cumplimiento voluntario previsto en la orden de expulsión.
+3. No será preciso expediente de expulsión para la devolución de los extranjeros en los siguientes supuestos:
+a) Los que habiendo sido expulsados contravengan la prohibición de entrada en España.
+b) Los que pretendan entrar ilegalmente en el país.
+4. En el supuesto de que se formalice una solicitud de protección internacional por personas que se encuentren en alguno de los supuestos mencionados en el apartado anterior, no podrá llevarse a cabo la devolución hasta que se haya decidido la inadmisión a trámite de la petición, de conformidad con la normativa de protección internacional.
+Tampoco podrán ser devueltas las mujeres embarazadas cuando la medida pueda suponer un riesgo para la gestación o para la salud de la madre.
+5. La devolución será acordada por la autoridad gubernativa competente para la expulsión.
+6. Cuando la devolución no se pudiera ejecutar en el plazo de 72 horas, se solicitará de la autoridad judicial la medida de internamiento prevista para los expedientes de expulsión.
+7. La devolución acordada en el párrafo a) del apartado 3 de este artículo conllevará la reiniciación del cómputo del plazo de prohibición de entrada que hubiese acordado la resolución de expulsión quebrantada. Asimismo, toda devolución acordada en aplicación del párrafo b) del mismo apartado de este artículo llevará consigo la prohibición de entrada en territorio español por un plazo máximo de tres años.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 7 (antiguo apartado 6 en la redacción dada por la Ley Orgánica 14/2003) por Sentencia de TC 17/2013, de 31 de enero. Ref. BOE-A-2013-2167.
+Se declara inconstitucional y nulo el inciso destacado del apartado 7 por Sentencia del TC 17/2013, de 31 de enero. Ref. BOE-A-2013-2167.
+ Téngase en cuenta que el fallo declara inconstitucional y nulo el inciso del apartado 6 en la redacción dada por la Ley Orgánica 14/2003, pasando a ser el apartado 7 por la modificación efectuada por la Ley Orgánica 2/2009.
+ Se modifica por el art. único.60 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 5 y se añade el apartado 6 por el art. 1.31 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se modifica y se renumera por el art. 1.51 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 54.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 59
+
+Artículo 59. Colaboración contra redes organizadas.
+1. El extranjero que se encuentre irregularmente en España y sea víctima, perjudicado o testigo de un acto de tráfico ilícito de seres humanos, inmigración ilegal, explotación laboral o de tráfico ilícito de mano de obra o de explotación en la prostitución abusando de su situación de necesidad, podrá quedar exento de responsabilidad administrativa y no será expulsado si denuncia a los autores o cooperadores de dicho tráfico, o coopera y colabora con las autoridades competentes, proporcionando datos esenciales o testificando, en su caso, en el proceso correspondiente contra aquellos autores.
+2. Los órganos administrativos competentes encargados de la instrucción del expediente sancionador informarán a la persona interesada sobre las previsiones del presente artículo a fin de que decida si desea acogerse a esta vía, y harán la propuesta oportuna a la autoridad que deba resolver, que podrá conceder una autorización provisional de residencia y trabajo a favor del extranjero, según el procedimiento previsto reglamentariamente.
+El instructor del expediente sancionador informará de las actuaciones en relación con este apartado a la autoridad encargada de la instrucción del procedimiento penal.
+3. A los extranjeros que hayan quedado exentos de responsabilidad administrativa se les podrá facilitar, a su elección, el retorno asistido a su país de procedencia o la autorización de residencia y trabajo por circunstancias excepcionales, y facilidades para su integración social, de acuerdo con lo establecido en la presente Ley velando, en su caso, por su seguridad y protección.
+4. Cuando el Ministerio Fiscal tenga conocimiento de que un extranjero, contra el que se ha dictado una resolución de expulsión, aparezca en un procedimiento penal como víctima, perjudicado o testigo y considere imprescindible su presencia para la práctica de diligencias judiciales, lo pondrá de manifiesto a la autoridad gubernativa competente para que valore la inejecución de su expulsión y, en el supuesto de que se hubiese ejecutado esta última, se procederá de igual forma a los efectos de que autorice su regreso a España durante el tiempo necesario para poder practicar las diligencias precisas, sin perjuicio de que se puedan adoptar algunas de las medidas previstas en la Ley Orgánica 19/1994, de 23 de diciembre, de protección a testigos y peritos en causas criminales.
+5. Las previsiones del presente artículo serán igualmente de aplicación a extranjeros menores de edad, debiendo tenerse en cuenta en el procedimiento la edad y madurez de éstos y, en todo caso, la prevalencia del principio del interés superior del menor.
+6. Reglamentariamente se desarrollarán las condiciones de colaboración de las organizaciones no gubernamentales sin ánimo de lucro que tengan por objeto la acogida y protección de las víctimas de los delitos señalados en el apartado primero.
+Se modifica por el art. único.61 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se renumera por el art. 1.52 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 55.
+
+### Artículo 59 bis
+
+Artículo 59 bis. Víctimas de la trata de seres humanos.
+1. Las autoridades competentes adoptarán las medidas necesarias para la identificación de las víctimas de la trata de personas conforme a lo previsto en el artículo 10 del Convenio del Consejo de Europa sobre la lucha contra la trata de seres humanos, de 16 de mayo de 2005.
+2. Los órganos administrativos competentes, cuando estimen que existen motivos razonables para creer que una persona extranjera en situación irregular ha sido víctima de trata de seres humanos, informarán a la persona interesada sobre las previsiones del presente artículo y elevarán a la autoridad competente para su resolución la oportuna propuesta sobre la concesión de un período de restablecimiento y reflexión, de acuerdo con el procedimiento previsto reglamentariamente.
+Dicho período de restablecimiento y reflexión tendrá una duración de, al menos, noventa días, y deberá ser suficiente para que la víctima pueda decidir si desea cooperar con las autoridades en la investigación del delito y, en su caso, en el procedimiento penal. Tanto durante la fase de identificación de las víctimas, como durante el período de restablecimiento y reflexión, no se incoará un expediente sancionador por infracción del artículo 53.1.a) y se suspenderá el expediente administrativo sancionador que se le hubiere incoado o, en su caso, la ejecución de la expulsión o devolución eventualmente acordadas. Asimismo, durante el período de restablecimiento y reflexión, se le autorizará la estancia temporal y las administraciones competentes velarán por la subsistencia y, de resultar necesario, la seguridad y protección de la víctima y de sus hijos menores de edad o con discapacidad, que se encuentren en España en el momento de la identificación, a quienes se harán extensivas las previsiones del apartado 4 del presente artículo en relación con el retorno asistido o la autorización de residencia, y en su caso trabajo, si fueren mayores de 16 años, por circunstancias excepcionales. Finalizado el período de reflexión las administraciones públicas competentes realizarán una evaluación de la situación personal de la víctima a efectos de determinar una posible ampliación del citado período.
+Con carácter extraordinario la Administración Pública competente velará por la seguridad y protección de aquellas otras personas, que se encuentren en España, con las que la víctima tenga vínculos familiares o de cualquier otra naturaleza, cuando se acredite que la situación de desprotección en que quedarían frente a los presuntos traficantes constituye un obstáculo insuperable para que la víctima acceda a cooperar.
+3. El periodo de restablecimiento y reflexión podrá denegarse o ser revocado por motivos de orden público o cuando se tenga conocimiento de que la condición de víctima se ha invocado de forma indebida. La denegación o revocación deberán estar motivadas y podrán ser recurridas según lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+4. La autoridad competente podrá declarar a la víctima exenta de respon-sabilidad administrativa y podrá facilitarle, a su elección, el retorno asistido a su país de procedencia o la autorización de residencia y trabajo por circunstancias excepcionales cuando lo considere necesario a causa de su cooperación para los fines de investigación o de las acciones penales, o en atención a su situación personal, y facilidades para su integración social, de acuerdo con lo establecido en la presente Ley. Asimismo, en tanto se resuelva el procedimiento de autorización de residencia y trabajo por circunstancias excepcionales, se le podrá facilitar una autorización provisional de residencia y trabajo en los términos que se determinen reglamentariamente.
+En la tramitación de las autorizaciones referidas en el párrafo anterior se podrá eximir de la aportación de aquellos documentos cuya obtención suponga un riesgo para la víctima.
+5. Las previsiones del presente artículo serán igualmente de aplicación a personas extranjeras menores de edad, debiendo tenerse en cuenta la edad y madurez de éstas y, en todo caso, la prevalencia del interés superior del menor.
+6. Reglamentariamente se desarrollarán las condiciones de colaboración de las organizaciones no gubernamentales sin ánimo de lucro que tengan por objeto la acogida y protección de las víctimas de la trata de seres humanos.
+Se modifica el apartado 2 por la disposición final 2 de la Ley Orgánica 8/2015, de 22 de julio. Ref. BOE-A-2015-8222#dfsegunda.
+ Se modifican los apartados 2 y 3 por el art. 2 de la Ley Orgánica 10/2011, de 27 de julio. Ref. BOE-A-2011-12962.
+ Se añade por el art. único.62 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+## TITULO IV
+
+TÍTULO IV
+Coordinación de los poderes públicos en materia de inmigración
+
+### Artículo 60
+
+Artículo 60. Efectos de la denegación de entrada.
+1. Los extranjeros a los que en frontera se les deniegue la entrada según lo previsto por el artículo 26.2 de esta Ley, estarán obligados a regresar a su punto de origen.
+La resolución de la denegación de entrada conllevará la adopción inmediata de las medidas necesarias para que el extranjero regrese en el plazo más breve posible. Cuando el regreso fuera a retrasarse más de setenta y dos horas, la autoridad que hubiera denegado la entrada se dirigirá al Juez de Instrucción para que determine el lugar donde hayan de ser internados hasta ese momento.
+2. Los lugares de internamiento para extranjeros no tendrán carácter penitenciario, y estarán dotados de servicios sociales, jurídicos, culturales y sanitarios. Los extranjeros internados estarán privados únicamente del derecho ambulatorio.
+3. El extranjero durante su internamiento se encontrará en todo momento a disposición de la autoridad judicial que lo autorizó, debiéndose comunicar a ésta por la autoridad gubernativa cualquier circunstancia en relación a la situación de los extranjeros internados.
+4. La detención de un extranjero a efectos de proceder al regreso a consecuencia de la denegación de entrada será comunicada al Ministerio de Asuntos Exteriores y a la embajada o consulado de su país.
+Se modifica por el art. único.63 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica y se renumera por el art. 1.53 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 56.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 61
+
+Artículo 61. Medidas cautelares.
+1. Desde el momento en que se incoe un procedimiento sancionador en el que pueda proponerse la expulsión, el instructor, a fin de asegurar la resolución final que pudiera recaer, podrá adoptar alguna de las siguientes medidas cautelares:
+a) Presentación periódica ante las autoridades competentes.
+b) Residencia obligatoria en determinado lugar.
+c) Retirada del pasaporte o documento acreditativo de su nacionalidad, previa entrega al interesado del resguardo acreditativo de tal medida.
+d) Detención cautelar, por la autoridad gubernativa o sus agentes, por un período máximo de 72 horas previas a la solicitud de internamiento.
+En cualquier otro supuesto de detención, la puesta a disposición judicial se producirá en un plazo no superior a 72 horas.
+e) Internamiento preventivo, previa autorización judicial en los centros de internamiento.
+f) Cualquier otra medida cautelar que el juez estime adecuada y suficiente.
+2. En los expedientes sancionadores en la comisión de infracciones por transportistas, si éstos infringen la obligación de tomar a cargo al extranjero transportado ilegalmente, podrá acordarse la suspensión de sus actividades, la prestación de fianzas, avales, o la inmovilización del medio de transporte utilizado.
+Se añade un letra f) al apartado 1 por el art. único.64 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por el art. 2.3 de la Ley Orgánica 11/2003, de 29 de septiembre. Ref. BOE-A-2003-18088.
+ Se modifica y se renumera por el art. 1.54 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 57.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 62
+
+Artículo 62. Ingreso en centros de internamiento.
+1. Incoado el expediente por alguno de los supuestos contemplados en las letras a) y b) del artículo 54.1, en las letras a), d) y f) del artículo 53.1 y en el artículo 57.2 de esta Ley Orgánica en el que pueda proponerse expulsión del territorio español, el instructor podrá solicitar al Juez de Instrucción competente que disponga el ingreso del extranjero en un centro de internamiento en tanto se realiza la tramitación del expediente sancionador.
+El Juez, previa audiencia del interesado y del Ministerio Fiscal, resolverá mediante auto motivado, en el que, de acuerdo con el principio de proporcionalidad, tomará en consideración las circunstancias concurrentes y, en especial, el riesgo de incomparecencia por carecer de domicilio o de documentación identificativa, las actuaciones del extranjero tendentes a dificultar o evitar la expulsión, así como la existencia de condena o sanciones administrativas previas y de otros procesos penales o procedimientos administrativos sancionadores pendientes. Asimismo, en caso de enfermedad grave del extranjero, el juez valorará el riesgo del internamiento para la salud pública o la salud del propio extranjero.
+2. El internamiento se mantendrá por el tiempo imprescindible para los fines del expediente, siendo su duración máxima de 60 días, y sin que pueda acordarse un nuevo internamiento por cualquiera de las causas previstas en un mismo expediente.
+3. Cuando hayan dejado de cumplirse las condiciones descritas en el apartado 1, el extranjero será puesto inmediatamente en libertad por la autoridad administrativa que lo tenga a su cargo, poniéndolo en conocimiento del Juez que autorizó su internamiento. Del mismo modo y por las mismas causas, podrá ser ordenado el fin del internamiento y la puesta en libertad inmediata del extranjero por el Juez, de oficio o a iniciativa de parte o del Ministerio Fiscal.
+4. No podrá acordarse el ingreso de menores en los centros de internamiento, sin perjuicio de lo previsto en el artículo 62 bis 1. i) de esta Ley. Los menores extranjeros no acompañados que se encuentren en España serán puestos a disposición de las entidades públicas de protección de menores conforme establece la Ley Orgánica de Protección Jurídica del Menor y de acuerdo con las normas previstas en el artículo 35 de esta Ley.
+5. La incoación del expediente, las medidas cautelares de detención e internamiento y la resolución final del expediente de expulsión del extranjero serán comunicadas al Ministerio de Asuntos Exteriores y a la embajada o consulado de su país.
+6. A los efectos del presente artículo, el Juez competente para autorizar y, en su caso, dejar sin efecto el internamiento será el Juez de Instrucción del lugar donde se practique la detención. El Juez competente para el control de la estancia de los extranjeros en los Centros de Internamiento y en las Salas de Inadmisión de fronteras, será el Juez de Instrucción del lugar donde estén ubicados, debiendo designarse un concreto Juzgado en aquellos partidos judiciales en los que existan varios. Este Juez conocerá, sin ulterior recurso, de las peticiones y quejas que planteen los internos en cuanto afecten a sus derechos fundamentales. Igualmente, podrá visitar tales centros cuando conozca algún incumplimiento grave o cuando lo considere conveniente.
+Se modifica por el art. único.65 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica el apartado 1 por el art. 2.4 de la Ley Orgánica 11/2003, de 29 de septiembre. Ref. BOE-A-2003-18088.
+ Se modifica y se renumera por el art. 1.55 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 58.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 62 bis
+
+Artículo 62 bis. Derechos de los extranjeros internados.
+1. Los centros de internamiento de extranjeros son establecimientos públicos de carácter no penitenciario; el ingreso y estancia en los mismos tendrá únicamente finalidad preventiva y cautelar, salvaguardando los derechos y libertades reconocidos en el ordenamiento jurídico, sin más limitaciones que las establecidas a su libertad ambulatoria, conforme al contenido y finalidad de la medida judicial de ingreso acordada. En particular, el extranjero sometido a internamiento tiene los siguientes derechos:
+a) A ser informado de su situación.
+b) A que se vele por el respeto a su vida, integridad física y salud, sin que puedan en ningún caso ser sometidos a tratos degradantes o a malos tratos de palabra o de obra y a que sea preservada su dignidad y su intimidad.
+c) A que se facilite el ejercicio de los derechos reconocidos por el ordenamiento jurídico, sin más limitaciones que las derivadas de su situación de internamiento.
+d) A recibir asistencia médica y sanitaria adecuada y ser asistidos por los servicios de asistencia social del centro.
+e) A que se comunique inmediatamente a la persona que designe en España y a su abogado el ingreso en el centro, así como a la oficina consular del país del que es nacional.
+f) A ser asistido de abogado, que se proporcionará de oficio en su caso, y a comunicarse reservadamente con el mismo, incluso fuera del horario general del centro, cuando la urgencia del caso lo justifique.
+g) A comunicarse en el horario establecido en el centro, con sus familiares, funcionarios consulares de su país u otras personas, que sólo podrán restringirse por resolución judicial.
+h) A ser asistido de intérprete si no comprende o no habla castellano y de forma gratuita, si careciese de medios económicos.
+i) A tener en su compañía a sus hijos menores, siempre que el Ministerio Fiscal informe favorablemente tal medida y existan en el centro módulos que garanticen la unidad e intimidad familiar.
+Téngase en cuenta que se declara inaplicable el inciso destacado en negrita de la letra i) por Sentencia del TS de 10 de febrero de 2015. Ref. BOE-A-2015-5487.
+j) A entrar en contacto con organizaciones no gubernamentales y organismos nacionales, internacionales y no gubernamentales de protección de inmigrantes.
+2. Los centros dispondrán de servicios de asistencia social y sanitaria con dotación suficiente. Las condiciones para la prestación de estos servicios se desarrollarán reglamentariamente.
+3. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes y los organismos internacionales pertinentes podrán visitar los centros de internamiento; reglamentariamente se desarrollarán las condiciones de las mismas.
+Se declara inaplicable el inciso destacado en negrita del apartado 1.i) por Sentencia del TS de 10 de febrero de 2015. Ref. BOE-A-2015-5487.
+ Se modifica por el art. único.66 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 62 ter
+
+Artículo 62 ter. Deberes de los extranjeros internados.
+El extranjero sometido a internamiento estará obligado:
+a) A permanecer en el centro a disposición del Juez de Instrucción que hubiere autorizado su ingreso.
+b) A observar las normas por las que se rige el centro y cumplir las instrucciones generales impartidas por la dirección y las particulares que reciban de los funcionarios en el ejercicio legítimo de sus funciones, encaminadas al mantenimiento del orden y la seguridad dentro del mismo, así como las relativas a su propio aseo e higiene y la limpieza del centro.
+c) A mantener una actividad cívica correcta y de respeto con los funcionarios y empleados del centro, con los visitantes y con los otros extranjeros internados, absteniéndose de proferir insultos o amenazas contra los mismos, o de promover o intervenir en agresiones, peleas, desórdenes y demás actos individuales o colectivos que alteren la convivencia.
+d) A conservar el buen estado de las instalaciones materiales, mobiliario y demás efectos del centro, evitando el deterioro o inutilización deliberada, tanto de éstos como de los bienes o pertenencias de los demás extranjeros ingresados o funcionarios.
+e) A someterse a reconocimiento médico a la entrada y salida del centro, así como en aquellos casos en que, por razones de salud colectiva, apreciadas por el servicio médico, y a petición de éste, lo disponga el director del centro.
+Se modifica por el art. único.67 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 62 quáter
+
+Artículo 62 quáter. Información y reclamaciones.
+1. Los extranjeros recibirán a su ingreso en el centro información escrita sobre sus derechos y obligaciones, las cuestiones de organización general, las normas de funcionamiento del centro, las normas disciplinarias y los medios para formular peticiones o quejas. La información se les facilitará en un idioma que entiendan.
+2. Los internados podrán formular, verbalmente o por escrito, peticiones y quejas sobre cuestiones referentes a su situación de internamiento.
+Dichas peticiones o quejas también podrán ser presentadas al director del centro, el cual las atenderá si son de su competencia o las pondrá en conocimiento de la autoridad competente, en caso contrario.
+Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 62 quinquies
+
+Artículo 62 quinquies. Medidas de seguridad.
+1. Las actuaciones de vigilancia y seguridad interior en los centros podrán suponer, en la forma y con la periodicidad que se establezca, inspecciones de los locales y dependencias y siempre que fuera necesario para la seguridad en los centros registros de personas, ropas y enseres de los extranjeros internados.
+2. Se podrán utilizar medios de contención física personal o separación preventiva del agresor en habitación individual para evitar actos de violencia o lesiones de los extranjeros, impedir actos de fuga, daños en las instalaciones del centro o ante la resistencia al personal del mismo en el ejercicio legítimo de su cargo. El uso de los medios de contención será proporcional a la finalidad perseguida, no podrán suponer una sanción encubierta y sólo se usarán cuando no exista otra manera menos gravosa para conseguir la finalidad perseguida y por el tiempo estrictamente necesario.
+3. La utilización de medios de contención será previamente autorizada por el director del centro, salvo que razones de urgencia no lo permitan, en cuyo caso se pondrá en su conocimiento inmediatamente. El director deberá comunicar lo antes posible a la autoridad judicial que autorizó el internamiento la adopción y cese de los medios de contención física personal, con expresión detallada de los hechos que hubieren dado lugar a dicha utilización y de las circunstancias que pudiesen aconsejar su mantenimiento. El juez, en el plazo más breve posible y siempre que la medida acordada fuere separación preventiva del agresor, deberá si está vigente, acordar su mantenimiento o revocación.
+Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 62 sexies
+
+Artículo 62 sexies. Funcionamiento y régimen interior de los centros de internamiento de extranjeros.
+En cada centro de internamiento de extranjeros habrá un director responsable de su funcionamiento para lo cual deberá adoptar las directrices de organización necesarias, coordinando y supervisando su ejecución. Asimismo será el responsable de adoptar las medidas necesarias para asegurar el orden y la correcta convivencia entre extranjeros y asegurar el cumplimiento de sus derechos, y de la imposición de medidas a los internos que no respeten las normas de correcta convivencia o régimen interior.
+Se añade por el art. 1.32 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 63
+
+Artículo 63. Procedimiento preferente.
+1. Incoado el expediente en el que pueda proponerse la expulsión por tratarse de uno de los supuestos contemplados en el artículo 53.1.d), 53.1.f), 54.1.a), 54.1.b), y 57.2, la tramitación del mismo tendrá carácter preferente.
+Igualmente, el procedimiento preferente será aplicable cuando, tratándose de las infracciones previstas en la letra a) del apartado 1 del artículo 53, se diera alguna de las siguientes circunstancias:
+a) riesgo de incomparecencia.
+b) el extranjero evitara o dificultase la expulsión, sin perjuicio de las actuaciones en ejercicio de sus derechos.
+c) el extranjero representase un riesgo para el orden público, la seguridad pública o la seguridad nacional.
+En estos supuestos no cabrá la concesión del período de salida voluntaria.
+2. Durante la tramitación del procedimiento preferente, así como en la fase de ejecución de la expulsión que hubiese recaído, podrán adoptarse las medidas cautelares y el internamiento establecidas en los artículos 61 y 62.
+3. Se garantizará el derecho del extranjero a asistencia letrada, que se le proporcionará de oficio, en su caso, y a ser asistido por intérprete, si no comprende o no habla castellano, y de forma gratuita en el caso de que careciese de medios económicos.
+4. Iniciado el expediente, se dará traslado al interesado del acuerdo de iniciación debidamente motivado y por escrito, para que alegue lo que considere adecuado, en el plazo de 48 horas, advirtiéndole de las consecuencias de no hacerlo así.
+5. Si el interesado, o su representante, no efectuase alegaciones ni realizasen proposición de prueba sobre el contenido del acuerdo de iniciación, o si no se admitiesen, por improcedentes o innecesarias, de forma motivada, por el instructor las pruebas propuestas, sin cambiar la calificación de los hechos, el acuerdo de iniciación del expediente será considerado como propuesta de resolución con remisión a la autoridad competente para resolver.
+De estimarse la proposición de prueba, esta se realizará en el plazo máximo de tres días.
+6. En el supuesto de las letras a) y b) del apartado 1 del artículo 53 cuando el extranjero acredite haber solicitado con anterioridad autorización de residencia temporal conforme a lo dispuesto en el artículo 31.3 de esta Ley, el órgano encargado de tramitar la expulsión suspenderá la misma hasta la resolución de la solicitud, procediendo a la continuación del expediente en caso de denegación.
+7. La ejecución de la orden de expulsión en los supuestos previstos en este artículo se efectuará de forma inmediata.
+Se modifica por el art. único.68 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 2 y 3 por el art. 1.33 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.56 de la Ley Orgánica 8/2000, de 22 de diciembre.Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 63 bis
+
+Artículo 63 bis. Procedimiento ordinario.
+1. Cuando se tramite la expulsión para supuestos distintos a los previstos en el artículo 63 el procedimiento a seguir será el ordinario.
+2. La resolución en que se adopte la expulsión tramitada mediante el procedimiento ordinario incluirá un plazo de cumplimiento voluntario para que el interesado abandone el territorio nacional. La duración de dicho plazo oscilará entre siete y treinta días y comenzará a contar desde el momento de la notificación de la citada resolución.
+El plazo de cumplimiento voluntario de la orden de expulsión podrá prorrogarse durante un tiempo prudencial en atención a las circunstancias que concurran en cada caso concreto, como pueden ser, la duración de la estancia, estar a cargo de niños escolarizados o la existencia de otros vínculos familiares y sociales.
+3. Tanto en la fase de tramitación del procedimiento como durante el plazo de cumplimiento voluntario, podrá adoptarse alguna o algunas de las medidas cautelares establecidas en el artículo 61, excepto la de internamiento prevista en la letra e).
+Se añade por el art. único.69 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Artículo 64
+
+Artículo 64. Ejecución de la expulsión.
+1. Expirado el plazo de cumplimiento voluntario sin que el extranjero haya abandonado el territorio nacional, se procederá a su detención y conducción hasta el puesto de salida por el que se deba hacer efectiva la expulsión. Si la expulsión no se pudiera ejecutar en el plazo de setenta y dos horas, podrá solicitarse la medida de internamiento regulada en los artículos anteriores, que no podrá exceder del período establecido en el artículo 62 de esta Ley.
+2. Tanto en los supuestos de prórroga del plazo de cumplimiento voluntario como de aplazamiento o suspensión de la ejecución de la expulsión, lo que se acreditará en documento debidamente notificado al interesado, se tendrá en cuenta la garantía para el extranjero afectado de:
+a) El mantenimiento de la unidad familiar con los miembros que se hallen en territorio español.
+b) La prestación de atención sanitaria de urgencia y tratamiento básico de enfermedades.
+c) El acceso para los menores, en función de la duración de su estancia, al sistema de enseñanza básica.
+d) Las necesidades especiales de personas vulnerables.
+3. La ejecución de la resolución de expulsión se efectuará, en su caso, a costa del empleador que hubiera sido sancionado por las infracciones previstas en el artículo 53.2 a) o 54.1.d) de esta Ley o, en el resto de los supuestos, a costa del extranjero si tuviere medios económicos para ello. De no darse ninguna de dichas condiciones, se comunicará al representante diplomático o consular de su país, a los efectos oportunos.
+4. Cuando un extranjero sea detenido en territorio español y se constate que contra él se ha dictado una resolución de expulsión por un Estado miembro de la Unión Europea, se procederá a ejecutar inmediatamente la resolución, sin necesidad de incoar nuevo expediente de expulsión. Se podrá solicitar la autorización del Juez de instrucción para su ingreso en un centro de internamiento, con el fin de asegurar la ejecución de la sanción de expulsión, de acuerdo con lo previsto en la presente Ley.
+5. Se suspenderá la ejecución de la resolución de expulsión cuando se formalice una petición de protección internacional, hasta que se haya inadmitido a trámite o resuelto, conforme a lo dispuesto en la normativa de protección internacional.
+6. No será precisa la incoación de expediente de expulsión:
+a) para proceder al traslado, escoltados por funcionarios, de los solicitantes de protección internacional cuya solicitud haya sido inadmitida a trámite en aplicación de la Ley 12/2009, de 30 de octubre reguladora del derecho de asilo y de la protección subsidiaria, al ser responsable otro Estado del examen de la solicitud, de conformidad con los convenios internacionales en que España sea parte, cuando dicho traslado se produzca dentro de los plazos que el Estado responsable tiene la obligación de proceder al estudio de la solicitud.
+b) para proceder al traslado, escoltados por funcionarios, manutención, o recepción, custodia y transmisión de documentos de viaje, de los extranjeros que realicen un tránsito en territorio español, solicitado por un Estado miembro de la Unión Europea, a efectos de repatriación o alejamiento por vía aérea.
+Se modifica por el art. único.70 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se renumeran los apartados 3 y 4 como 4 y 5 y se añade un apartado 3 por el art. 1.34 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.57 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 65
+
+Artículo 65. Carácter recurrible de las resoluciones sobre extranjeros.
+1. Las resoluciones administrativas sancionadoras serán recurribles con arreglo a lo dispuesto en las leyes. El régimen de ejecutividad de las mismas será el previsto con carácter general.
+2. En todo caso, cuando el extranjero no se encuentre en España, podrá cursar los recursos procedentes, tanto en vía administrativa como jurisdiccional, a través de las representaciones diplomáticas o consulares correspondientes, quienes los remitirán al organismo competente.
+Se renumera por el art. 1.58 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 59.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 66
+
+Artículo 66. Obligaciones de los transportistas.
+1. Cuando así lo determinen las autoridades españolas respecto de las rutas procedentes de fuera del Espacio Schengen en las que la intensidad de los flujos migratorios lo haga necesario, a efectos de combatir la inmigración ilegal y garantizar la seguridad pública, toda compañía, empresa de transporte o transportista estará obligada, en el momento de finalización del embarque y antes de la salida del medio de transporte, a remitir a las autoridades españolas encargadas del control de entrada la información relativa a los pasajeros que vayan a ser trasladados, ya sea por vía aérea, marítima o terrestre, y con independencia de que el transporte sea en tránsito o como destino final, al territorio español.
+La información será transmitida por medios telemáticos, o, si ello no fuera posible, por cualquier otro medio adecuado, y será comprensiva del nombre y apellidos de cada pasajero, de su fecha de nacimiento, nacionalidad, número de pasaporte o del documento de viaje que acredite su identidad y tipo del mismo, paso fronterizo de entrada, código de transporte, hora de salida y de llegada del transporte, número total de personas transportadas, y lugar inicial de embarque. Las autoridades encargadas del control de entrada guardarán los datos en un fichero temporal, borrándolos tras la entrada y en un plazo de veinticuatro horas desde su comunicación, salvo necesidades en el ejercicio de sus funciones. Los transportistas deberán haber informado de este procedimiento a los pasajeros, estando obligados a borrar los datos en el mismo plazo de veinticuatro horas.
+2. Toda compañía, empresa de transporte o transportista estará obligada a enviar a las autoridades españolas encargadas del control de entrada la información comprensiva del número de billetes de vuelta no utilizados por los pasajeros que previamente hubiesen transportado a España, ya sea por vía aérea, marítima o terrestre, y con independencia de que el transporte sea en tránsito o como destino final, de rutas procedentes de fuera del Espacio Schengen.
+Cuando así lo determinen las autoridades españolas, en los términos y a los efectos indicados en el apartado anterior, la información comprenderá, además, para pasajeros no nacionales de la Unión Europea, del Espacio Económico Europeo o de países con los que exista un convenio internacional que extienda el régimen jurídico previsto para los ciudadanos de los Estados mencionados, el nombre y apellidos de cada pasajero, su fecha de nacimiento, nacionalidad, número de pasaporte o del documento de viaje que acredite su identidad.
+La información señalada en el presente apartado deberá enviarse en un plazo no superior a 48 horas desde la fecha de caducidad del billete.
+3. Asimismo, toda compañía, empresa de transporte o transportista estará obligada a:
+a) Realizar la debida comprobación de la validez y vigencia, tanto de los pasaportes, títulos de viaje o documentos de identidad pertinentes, como, en su caso, del correspondiente visado de los que habrán de ser titulares los extranjeros.
+b) Hacerse cargo inmediatamente del extranjero que hubiese trasladado hasta la frontera aérea, marítima o terrestre correspondiente del territorio español, si a éste se le hubiera denegado la entrada por deficiencias en la documentación necesaria para el cruce de fronteras.
+c) Tener a su cargo al extranjero que haya sido trasladado en tránsito hasta una frontera aérea, marítima o terrestre del territorio español, si el transportista que deba llevarlo a su país de destino se negara a embarcarlo, o si las autoridades de este último país le hubieran denegado la entrada y lo hubieran devuelto a la frontera española por la que ha transitado.
+d) Transportar a los extranjeros a que se refieren los párrafos b) y c) de este apartado hasta el Estado a partir del cual le haya transportado, bien hasta el Estado que haya expedido el documento de viaje con el que ha viajado, o bien a cualquier otro Estado que garantice su admisión y un trato compatible con los derechos humanos.
+La compañía, empresa de transportes o transportista que tenga a su cargo un extranjero en virtud de alguno de los supuestos previstos en este apartado deberá garantizar al mismo unas condiciones de vida adecuadas mientras permanezca a su cargo.
+4. Lo establecido en este artículo se entiende también para el caso en que el transporte aéreo o marítimo se realice desde Ceuta o Melilla hasta cualquier otro punto del territorio español.
+Se modifica el apartado 1, párrafo segundo por el art. único.71 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica por el art. 1.35 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade por el art. 1.59 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+
+## TITULO IV
+
+TÍTULO IV
+Coordinación de los poderes públicos
+Se reordena por el art. 3.3 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2003-23660.
+
+### Artículo 67
+
+Artículo 67. Coordinación de los órganos de la Administración del Estado.
+1. El Gobierno llevará a cabo una observación permanente de las magnitudes y características más significativas del fenómeno inmigratorio con objeto de analizar su impacto en la sociedad española y facilitar una información objetiva y contrastada que evite o dificulte la aparición de corrientes xenófobas o racistas.
+2. El Gobierno unificará en Oficinas provinciales los servicios existentes, dependientes de diferentes órganos de la Administración del Estado con competencia en inmigración, al objeto de conseguir una adecuada coordinación de su actuación administrativa.
+3. El Gobierno elaborará planes, programas y directrices sobre la actuación de la Inspección de Trabajo previa al procedimiento sancionador destinados especialmente a comprobar el cumplimiento del principio de igualdad y no discriminación de los trabajadores extranjeros, así como el cumplimiento efectivo de la normativa en materia de autorización de trabajo de extranjeros, todo ello sin perjuicio de las facultades de planificación que correspondan a las Comunidades Autónomas con competencias en materia de ejecución de la legislación laboral.
+Se sustituye el término «permiso» por «autorización» según establece la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
+ Se renumera por el art. 1.60 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 60.
+
+### Artículo 68
+
+Artículo 68. Coordinación de las Administraciones Públicas.
+1. La Conferencia Sectorial de Inmigración es el órgano a través del cual se asegurará la adecuada coordinación de las actuaciones que desarrollen las Administraciones Públicas en materia de inmigración.
+2. Las Comunidades Autónomas que asuman competencias ejecutivas en la concesión de la autorización inicial de trabajo, deberán desarrollarlas en necesaria coordinación con las competencias estatales en materia de extranjería, inmigración y autorización de residencia, de manera que se garantice la igualdad en la aplicación de la normativa de extranjería e inmigración en todo el territorio, la celeridad de los procedimientos y el intercambio de información entre las Administraciones necesario para el desarrollo de sus respectivas competencias. La coordinación deberá realizarse preservando la capacidad de autoorganización de cada Comunidad Autónoma así como su propio sistema de descentralización territorial.
+3. Con carácter previo a la concesión de autorizaciones por arraigo, las Comunidades Autónomas o, en su caso, los Ayuntamientos, emitirán un informe sobre la integración social del extranjero cuyo domicilio habitual se encuentre en su territorio. Reglamentariamente se determinarán los contenidos de dicho informe. En todo caso, el informe tendrá en cuenta el periodo de permanencia, la posibilidad de contar con vivienda y medios de vida, los vínculos con familiares residentes en España, y los esfuerzos de integración a través del seguimiento de programas de inserción sociolaborales y culturales.
+4. Las Comunidades Autónomas que hayan asumido competencias en materia de seguridad ciudadana y orden público mediante la creación de una policía propia, podrán aportar, en su caso, un informe sobre afectación al orden público en todos los procedimientos de autorización de residencia o su renovación, referidas a extranjeros que se encuentran en España, en los que se prevea la necesidad de informe gubernativo. Tal informe se incorporará al expediente al igual que el que, en su caso, aporten las Fuerzas y Cuerpos de Seguridad del Estado en el ejercicio de sus competencias sobre seguridad pública.
+Se modifica por el art. único.72 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifican los apartados 1 y 2, se renumera el apartado 3 como 4 y se añade un apartado 3 por el art. 1.36 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+ Se añade el apartado 3 y se renumera por el art. 1.61 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 61.
+
+### Artículo 69
+
+Artículo 69. Apoyo al movimiento asociativo de los inmigrantes.
+Los poderes públicos impulsarán el fortalecimiento del movimiento asociativo entre los inmigrantes y apoyarán a los sindicatos, organizaciones empresariales y a las organizaciones no gubernamentales que, sin ánimo de lucro, favorezcan su integración social, facilitándoles ayuda económica, tanto a través de los programas generales como en relación con sus actividades específicas.
+Se renumera por el art. 1.62 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 62.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 70
+
+Artículo 70. El Foro para la Integración Social de los Inmigrantes.
+1. El Foro para la Integración Social de los Inmigrantes, constituido de forma tripartita y equilibrada, por representantes de las Administraciones Públicas, de las asociaciones de inmigrantes y de otras organizaciones con interés e implantación en el ámbito migratorio, incluyendo entre ellas a las organizaciones sindicales y empresariales más representativas, constituye el órgano de consulta, información y asesoramiento en materia de integración de los inmigrantes.
+2. Reglamentariamente se determinará su composición, competencias, régimen de funcionamiento y adscripción administrativa.
+Se modifica el apartado 1 por el art. único.73 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se renumera por el art. 1.63 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior numeración era art. 63.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 23 de febrero de 2001. Ref. BOE-A-2001-3663.
+
+### Artículo 71
+
+Artículo 71. Observatorio Español del Racismo y la Xenofobia.
+Se constituirá el Observatorio Español del Racismo y la Xenofobia, con funciones de estudio y análisis, y con capacidad para elevar propuestas de actuación, en materia de lucha contra el racismo y la xenofobia.
+Se añade por el art. 1.37 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Artículo 72
+
+Artículo 72. Comisión Laboral Tripartita de Inmigración.
+1. La Comisión Laboral Tripartita de Inmigración es el órgano colegiado adscrito al Ministerio competente en materia de inmigración, de la que forman parte las organizaciones sindicales y empresariales más representativas.
+2. La Comisión Laboral Tripartita de Inmigración será informada sobre la evolución de los movimientos migratorios en España y, en todo caso, será consultada sobre las propuestas de Catálogo de ocupaciones de difícil cobertura, las previstas en el artículo 39 de esta Ley y las de contratación de trabajadores de temporada que se determinen.
+3. Mediante Orden Ministerial se determinará su composición, forma de designación de sus miembros, competencias y régimen de funcionamiento.
+Se añade por el art. único.74 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Plazo máximo para resolución de expedientes.
+1. El plazo general máximo para notificar las resoluciones de las solicitudes de autorizaciones que formulen los interesados a tenor de lo previsto en esta Ley será de tres meses, contados a partir del día siguiente al de la fecha en que hayan tenido entrada en el registro del órgano competente para tramitarlas; ello, sin perjuicio del plazo máximo de 15 días naturales establecido por la normativa comunitaria en relación con procedimientos de solicitud de visado de tránsito o estancia (así como de las excepciones previstas en la misma para su posible ampliación). Transcurrido el plazo para notificar las resoluciones de las solicitudes, salvo lo dispuesto en el apartado siguiente, éstas podrán entenderse desestimadas.
+2. Las solicitudes de prórroga de la autorización de residencia, la renovación de la autorización de trabajo, así como las solicitudes de autorización de residencia de larga duración que se formulen por los interesados a tenor de lo dispuesto en la presente Ley Orgánica se resolverán y notificarán en el plazo máximo de tres meses contados a partir del día siguiente al de la fecha en que hayan tenido entrada en el registro del órgano competente para tramitarlas. Transcurrido dicho plazo sin que la Administración haya dado respuesta expresa, se entenderá que la prórroga o renovación han sido concedidas.
+3. Las solicitudes de modificación de la limitación territorial o de ocupación de las autorizaciones iniciales de residencia y trabajo se resolverán y notificarán por la administración autonómica o estatal competente en el plazo máximo de un mes. Transcurrido dicho plazo sin que la Administración haya dado respuesta expresa, se entenderá que la solicitud ha sido concedida.
+Se modifican los apartados 1 y 2 y se añade el 3 por el art. único.75 y 76 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se modifica y se numera por el art. 2.1 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+ Su anterior denominación era disposición adicional única.
+
+### Disposición adicional única
+
+Disposición adicional única. Plazo máximo para resolución de expedientes.
+Las solicitudes de prórroga del permiso de residencia así como la renovación del permiso de trabajo que se formulen por los interesados a tenor de lo dispuesto en la presente Ley Orgánica se resolverán en el plazo máximo de tres meses contados a partir del día siguiente al de la presentación de la solicitud. Transcurrido dicho plazo sin que la Administración haya dado respuesta expresa, se entenderá que la prórroga o renovación han sido concedidas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Subcomisiones de Cooperación.
+En atención a la situación territorial y a la especial incidencia del fenómeno migratorio y a las competencias que tengan reconocidas en sus respectivos Estatutos de Autonomía en materia de ejecución laboral y en materia de asistencia social, y en concordancia con los mismos, se podrán constituir subcomisiones en el seno de las Comisiones Bilaterales de Cooperación entre el Estado y las Comunidades Autónomas, en concordancia con lo que prevean sus respectivos Estatutos de Autonomía, para analizar cuestiones sobre trabajo y residencia de extranjeros que les afecten directamente.
+En particular, en atención a la situación geográfica del archipiélago canario, a la fragilidad de su territorio insular y a su lejanía con el continente europeo, de acuerdo con lo establecido en el artículo 37.1 de su Estatuto de Autonomía, en el seno de la Comisión Bilateral de Cooperación Canarias-Estado se constituirá una subcomisión que conocerá de las cuestiones que afecten directamente a Canarias en materia de residencia y trabajo de extranjeros.
+Se añade por el art. 2.2 de la Ley Orgánica 8/2000, de 22 de diciembre. Ref. BOE-A-2000-23660.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Lugares de presentación de las solicitudes y exigencia de comparecencia personal.
+1. Cuando el sujeto legitimado se encuentre en territorio español habrá de presentar personalmente las solicitudes relativas a las autorizaciones de residencia y de trabajo en los registros de los órganos competentes para su tramitación. Igualmente, en los procedimientos en los que el sujeto legitimado fuese un empleador, las solicitudes podrán ser presentadas por éste, o por quien válidamente ostente la representación legal empresarial. Reglamentariamente se podrán establecer excepciones a la presentación ante el órgano competente para su tramitación o a la necesidad de presentación personal de solicitudes.
+2. Cuando el sujeto legitimado se encuentre en territorio extranjero, la presentación de solicitudes de visado y su recogida se realizarán personalmente ante la misión diplomática u oficina consular en cuya demarcación aquél resida. Excepcionalmente, cuando el interesado no resida en la población en que tenga su sede la misión diplomática u oficina consular y se acrediten razones que obstaculicen el desplazamiento, como la lejanía de la misión u oficina o dificultades de transporte que hagan el viaje especialmente gravoso, podrá acordarse que la solicitud de visado pueda presentarse por representante debidamente acreditado. Las solicitudes relativas a los visados también podrán presentarse electrónicamente mediante las aplicaciones específicas de tramitación que existan. Asimismo, se podrán presentar en los locales de un proveedor de servicios externo con el que el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación mantenga un contrato de concesión de servicios, con sujeción a las condiciones previstas en la normativa comunitaria sobre visados.
+Sin perjuicio de lo dispuesto en el párrafo anterior, en los supuestos de presentación de solicitudes y recogida de visado de estancia, tránsito y de residencia por reagrupación familiar de menores, ambos trámites podrán realizarse mediante representante debidamente acreditado.
+En cualquier caso, la misión diplomática u oficina consular podrá requerir la comparecencia del solicitante y, cuando lo estime necesario, mantener una entrevista personal.
+Lo dispuesto en este apartado se entenderá sin perjuicio de lo establecido en la normativa comunitaria que desarrolla la política común de visados en lo relativo a la posibilidad de celebrar acuerdos con otros Estados miembros de la Unión Europea a efectos de representación en terceros Estados, en cuanto a procedimientos de solicitud de visados de tránsito o estancia.
+3. Asimismo, no se requerirá la comparecencia personal en los procedimientos de contratación colectiva de trabajadores, en los supuestos contemplados en un convenio o acuerdo internacional, en cuyo caso se estará a lo dispuesto en el mismo.
+Se modifica el primer párrafo del apartado 2 por la disposición final 3.4 de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#df-3
+ Se modifican los apartados 1 y 2 por el art. único.77 y 78 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.38 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. La autoridad competente para resolver inadmitirá a trámite las solicitudes relativas a los procedimientos regulados en esta ley, en los siguientes supuestos:
+a) Falta de legitimación del solicitante, o insuficiente acreditación de la representación.
+b) Presentación de la solicitud fuera del plazo legalmente establecido.
+c) Cuando se trate de reiteración de una solicitud ya denegada, siempre que las circunstancias que motivaron la denegación no hayan variado.
+d) Cuando conste un procedimiento administrativo sancionador contra el solicitante en el que pueda proponerse la expulsión o cuando se haya decretado en contra del mismo una orden de expulsión, judicial o administrativa salvo que, en este último caso, la orden de expulsión hubiera sido revocada o se hallase en uno de los supuestos regulados por los artículos 31 bis, 59, 59 bis o 68.3 de esta ley.
+e) Cuando el solicitante tenga prohibida su entrada en España.
+f) Cuando se trate de solicitudes manifiestamente carentes de fundamento.
+g) Cuando se refieran a extranjeros que se encontrasen en España en situación irregular, salvo que pueda encontrarse en uno de los supuestos del artículo 31, apartado 3.
+h) Cuando dicha solicitud no sea realizada personalmente y dicha circunstancia sea exigida por ley.
+2. En los procedimientos relativos a solicitudes de visado de tránsito o estancia, la autoridad competente para resolver inadmitirá a trámite las solicitudes, en los siguientes supuestos:
+a) Presentación de la solicitud fuera del plazo de los tres meses anteriores al comienzo del viaje.
+b) Presentación de la solicitud en documento distinto al modelo oficialmente establecido a los efectos.
+c) No aportación de documento de viaje válido al menos hasta tres meses después de la fecha (en su caso, última fecha) prevista de salida del territorio de los Estados miembros de la Unión Europea; en el que figuren al menos dos páginas en blanco; y expedido dentro de los diez años anteriores a la presentación de la solicitud de visado.
+d) Cuando no se aporte fotografía del solicitante, acorde a lo dispuesto en la normativa reguladora del Sistema de Información de Visados (VIS) de la Unión Europea.
+e) Cuando no se hayan tomado los datos biométricos del solicitante.
+f) Cuando no se haya abonado la tasa de visado.
+Se modifica por el art. único.79 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.39 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Acceso a la información, colaboración entre Administraciones públicas y gestión informática de los procedimientos.
+1. En el cumplimiento de los fines que tienen encomendadas, y con pleno respeto a la legalidad vigente, las Administraciones públicas, dentro de su ámbito competencial, colaborarán en la cesión de datos relativos a las personas que sean consideradas interesados en los procedimientos regulados en esta Ley Orgánica y sus normas de desarrollo.
+2. Para la exclusiva finalidad de cumplimentar las actuaciones que los órganos de la Administración General del Estado competentes en los procedimientos regulados en esta Ley Orgánica y sus normas de desarrollo tienen encomendadas, la Agencia Estatal de Administración Tributaria, la Tesorería General de la Seguridad Social y el Instituto Nacional de Estadística, este último en lo relativo al Padrón Municipal de Habitantes, facilitarán a aquéllos el acceso directo a los ficheros en los que obren datos que hayan de constar en dichos expedientes, y sin que sea preciso el consentimiento de los interesados, de acuerdo con la legislación sobre protección de datos.
+Igualmente, los anteriores organismos facilitarán a las Comunidades Autónomas la información necesaria para ejercer sus competencias sobre autorizaciones iniciales de trabajo sin que tampoco sea preciso el consentimiento de los interesados.
+3. La tramitación de los procedimientos en materia de extranjería derivados del cumplimiento de lo dispuesto en la presente Ley Orgánica, se realizará sobre una aplicación informática común cuya implantación y coordinación respecto de los restantes Departamentos implicados corresponderá al Ministerio de Trabajo e Inmigración. Dicha aplicación, garantizando la protección de datos de carácter personal, registrará la información y datos relativos a los extranjeros y ciudadanos de la Unión Europea residentes en España y sus autorizaciones, impulsará el cumplimiento de lo establecido por la legislación en materia de acceso electrónico de los ciudadanos a los servicios públicos y permitirá el conocimiento, en tiempo real, de la situación de las solicitudes de autorización reguladas en esta Ley por parte de los órganos administrativos que sean competentes en cada una de las fases del mismo, así como su intervención en la fase que recaiga dentro de su ámbito de competencias. Asimismo, la aplicación informática permitirá la generación de bases de datos estadísticas por las administraciones intervinientes para la obtención de la información actualizada y fiable sobre las magnitudes relativas a la inmigración y la extranjería.
+En cumplimiento de lo establecido por la normativa comunitaria sobre la materia, la tramitación de procedimientos relativos a visados de tránsito y de estancia se realizará sobre la aplicación informática específicamente creada a los efectos, dependiente del Ministerio de Asuntos Exteriores y de Cooperación, que estará interconectada con la aplicación informática común, en orden a que en la base de datos de esta última conste información sobre los datos de los visados solicitados y concedidos en las Oficinas consulares o Misiones diplomáticas españolas en el exterior.
+El Ministerio del Interior, de acuerdo con sus competencias en materia de orden público, seguridad pública y seguridad nacional, mantendrá un Registro central de extranjeros. Reglamentariamente, se establecerá la interconexión que, en su caso, resulte necesaria para que en la aplicación informática común conste la información que pueda repercutir en la situación administrativa de los extranjeros en España.
+4. Cuando las Comunidades Autónomas, en el ámbito de sus competencias, intervengan en alguno de los procedimientos regulados en esta Ley, se garantizará que su participación en los procedimientos informatizados responda a estándares comunes que garanticen la necesaria coordinación de la actuación de todos los órganos administrativos intervinientes. Igualmente, la aplicación informática común dará acceso a las Comunidades Autónomas con competencias en materia de autorización de trabajo a la información necesaria para el ejercicio de sus competencias, entre la que se encontrará aquella relativa a la concesión y extinción de autorizaciones de reagrupación familiar concedidas en su territorio así como de las altas en Seguridad Social de las autorizaciones de trabajo iniciales concedidas por ellas.
+5. El Observatorio Permanente de la Inmigración aunará el conjunto de la información estadística disponible en materia de extranjería, inmigración, protección internacional y nacionalidad, con independencia de la Administración Pública, Departamento ministerial u Organismo responsable de su elaboración, con la finalidad de servir como sistema de análisis e intercambio de la información cualitativa y cuantitativa relacionada con los movimientos migratorios al servicio de las entidades responsables de gestionar las políticas públicas en dichas materias.
+Se modifica por el art. único.80 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.40 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Acuerdos de readmisión.
+A los extranjeros que, en virtud de los acuerdos que regulen la readmisión de las personas en situación irregular suscritos por España, deban ser entregados o enviados a los países de los que sean nacionales o desde los que se hayan trasladado hasta el territorio español, les será de aplicación lo dispuesto en los citados acuerdos así como su normativa de desarrollo.
+Dichos acuerdos contendrán cláusulas de respeto a los derechos humanos en virtud de lo que establecen en esta materia los tratados y convenios internacionales.
+En el caso de que el titular de la tarjeta azul de la U.E. concedida en España fuera objeto de una medida de repatriación en otro Estado miembro, por haberse extinguido la vigencia de la autorización originaria para permanecer en dicho Estado o por denegarse su solicitud para residir en él, se le readmitirá sin necesidad de ninguna otra formalidad, incluyendo, en su caso, a los miembros de su familia previamente reagrupados.
+Se modifica por el art. único.81 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+ Se añade por el art. 1.41 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Delimitación del Espacio Schengen.
+A los efectos de lo dispuesto en esta ley, se entenderá por Espacio Schengen el conjunto de los territorios de los Estados a los que se apliquen plenamente las disposiciones relativas a la supresión de controles en las fronteras interiores y circulación de personas, previstas en el título II del Convenio para la aplicación del Acuerdo de Schengen, de 19 de junio de 1990.
+Se añade por el art. 1.42 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Ayudas al retorno voluntario.
+El Gobierno contemplará anualmente la financiación de programas de retorno voluntario de las personas que así lo soliciten y planteen proyectos que supongan su reasentamiento en la sociedad de la que partieron y siempre que los mismos sean de interés para aquella comunidad.
+Se añade por el art. 1.43 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Autorizaciones autonómicas de trabajo en origen.
+En el marco de los procedimientos de contratación colectiva en origen, las comunidades autónomas con competencias ejecutivas en materia de autorizaciones de trabajo podrán establecer servicios que faciliten la tramitación de los correspondientes visados ante los consulados españoles, así como promover el desarrollo de programas de acogida para los trabajadores extranjeros y sus familias.
+Se añade por el art. único.82 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Régimen especial de Ceuta y Melilla.
+1. Los extranjeros que sean detectados en la línea fronteriza de la demarcación territorial de Ceuta o Melilla mientras intentan superar los elementos de contención fronterizos para cruzar irregularmente la frontera podrán ser rechazados a fin de impedir su entrada ilegal en España.
+2. En todo caso, el rechazo se realizará respetando la normativa internacional de derechos humanos y de protección internacional de la que España es parte.
+3. Las solicitudes de protección internacional se formalizarán en los lugares habilitados al efecto en los pasos fronterizos y se tramitarán conforme a lo establecido en la normativa en materia de protección internacional.
+Se declara que esta disposición es conforme a la Constitución, siempre que se interprete tal y como se ha indicado en el fundamento jurídico 2 e), por la Sentencia del TC 13/2021, de 28 de enero. Ref. BOE-A-2021-2832
+ Se declara que esta disposición es conforme a la Constitución, en la redacción dada por la disposición final 1.1 de la Ley Orgánica 4/2015, de 30 de marzo, siempre que se interprete tal y como se ha indicado en el FJ 8 C), por Sentencia del TC 172/2020, de 19 de noviembre. Ref. BOE-A-2020-16819
+ Se añade por la disposición final 1.1 de la Ley Orgánica 4/2015, de 30 de marzo. Ref. BOE-A-2015-3442#dfprimera.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Capacidad ordinaria de los sistemas para la adecuada protección y tutela de las personas menores de edad extranjeras no acompañadas.
+1. En defecto del acuerdo unánime de la Conferencia Sectorial de Infancia y Adolescencia a que se refiere el artículo 35 bis, la capacidad ordinaria del sistema de protección y tutela de menores se obtendrá de dividir la población total de cada comunidad autónoma a 31 de diciembre del año anterior, por el cociente resultante de dividir la población total de España a 31 de diciembre del año anterior entre el número máximo de personas menores de edad extranjeras no acompañadas atendidas por el conjunto del sistema de protección español, según los datos que envíen las comunidades autónomas antes del 31 de marzo de 2025, y previa inscripción en el registro de menores y certificación del Ministerio de Juventud e Infancia.
+2. Mediante real decreto, previa información a la Conferencia Sectorial de Infancia y Adolescencia, se aprobará anualmente cuál es la capacidad ordinaria del sistema de protección y tutela de personas menores de edad extranjeras no acompañadas, en los términos recogidos en la presente disposición adicional.
+3. A tal efecto las ciudades y comunidades autónomas deberán remitir a la persona titular de la Presidencia de la Conferencia Sectorial de Infancia y Adolescencia antes del 15 de enero de cada año certificación del titular de la Consejería competente del número máximo de personas menores de edad extranjeras no acompañadas atendidas por el sistema de protección de la ciudad o comunidad autónoma en el año anterior, recogiendo la identidad de los menores y la fecha considerada, y excluyendo las comunidades o ciudades autónomas de origen a los efectos de esta certificación el cómputo de los menores que hayan sido efectivamente trasladados a otra comunidad o ciudad autónoma, dentro del año considerado, en razón a la declaración de una situación de contingencia migratoria extraordinaria en la comunidad o ciudad autónoma de origen.
+4. Mediante el Real Decreto-ley 2/2025, de 18 de marzo, por el que se aprueban medidas urgentes para la garantía del interés superior de la infancia y la adolescencia ante situaciones de contingencias migratorias extraordinarias, se crea un Fondo adscrito al Ministerio con competencia en materia de infancia para compensar íntegramente a las comunidades y ciudades autónomas por los costes ocasionados por la sobreocupación por menores extranjeros no acompañados trasladados desde otra comunidad o ciudad autónoma, entendiendo que excede la ocupación la capacidad ordinaria de su sistema de protección y tutela de menores extranjeros no acompañados en los términos del apartado 1, y siempre que acredite un número de plazas de acogida por encima de la media del total de las plazas existentes en el conjunto del Estado por cada 100.000 habitantes, mientras dicha situación perdure.
+Para dotar dicho fondo en el año 2025 se concede un crédito extraordinario en el presupuesto de la sección 31 “Ministerio de Juventud e Infancia”, servicio 04 “Dirección General de Derechos de la Infancia y la Adolescencia”, programa 231G “Atención a la Infancia y a las Familias”, concepto 452 “Fondo para la atención a niños, niñas y adolescentes migrantes no acompañados para cubrir los costes ocasionados por la sobreocupación y/o traslado de menores”, por un importe de 100.000.000 de euros.
+El crédito extraordinario que se concede en el párrafo anterior de este apartado se financiará de conformidad con el artículo 59 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+5. La capacidad ordinaria de los sistemas de protección y tutela de personas menores de edad extranjeras no acompañadas establecida en esta disposición adicional, solo podrá prorrogarse un año, mediante real decreto y previo informe de la Conferencia Sectorial de Infancia y Adolescencia. Posteriormente, se requerirá el acuerdo unánime de la Conferencia Sectorial de Infancia y Adolescencia o, en su defecto, el acuerdo por mayoría absoluta del Congreso de los Diputados, previa remisión de la propuesta elaborada por el Gobierno.
+A partir de transcurrido el primer año de prórroga, sin Acuerdo unánime de la Conferencia Sectorial sobre la capacidad ordinaria de los sistemas de protección y tutela de personas menores de edad extranjeras no acompañadas actualizada anualmente, las resoluciones derivadas de la aplicación de esta ley que pueda establecer la Administración General del Estado sobre la reubicación de las personas menores de edad extranjeras no acompañadas no resultarán de cumplimiento obligatorio para las comunidades y ciudades autónomas.
+Se añade por el art. único.6 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Alcance de las decisiones de la Administración General del Estado sobre la capacidad de los sistemas de protección y tutela de personas menores de edad extranjeras no acompañadas.
+Sin perjuicio de lo establecido en la disposición adicional undécima para el año 2025 y su prórroga, no podrá acordarse por la Administración General del Estado sin el Acuerdo unánime de la Conferencia Sectorial de Infancia y Adolescencia la reubicación obligatoria de personas menores de edad extranjeras no acompañadas procedentes de otra comunidad o ciudad autónoma en su territorio, ni atribuirse de manera obligatoria la atención o tutela de las mismas a aquellas comunidades y ciudades autónomas que acrediten la ocupación efectiva de un número de plazas de acogida de personas menores de edad, ya sean extranjeras o no, por encima de la media del total de las plazas existentes en el conjunto del Estado por cada 100.000 habitantes.
+Se añade por el art. único.7 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Regularización de extranjeros que se encuentren en España.
+El Gobierno, mediante Real Decreto, establecerá el procedimiento para la regularización de los extranjeros que se encuentren en territorio español antes del día 1 de junio de 1999 y que acrediten haber solicitado en alguna ocasión autorización de residencia o trabajo o que lo hayan tenido en los tres últimos años.
+Se sustituye el término «permiso» por «autorización» según establece la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Validez de las autorizaciones vigentes.
+Las distintas autorizaciones o tarjetas que habilitan para entrar, residir y trabajar en España a las personas incluidas en el ámbito de aplicación de la Ley que tengan validez a la entrada en vigor de la misma, la conservarán por el tiempo para el que hubieren sido expedidas.
+Se sustituye el término «permiso» por «autorización» según establece la disposición adicional única de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Normativa aplicable a procedimientos en curso.
+Los procedimientos administrativos en curso se tramitarán y resolverán de acuerdo con la normativa vigente en el momento de la iniciación, salvo que el interesado solicite la aplicación de la presente Ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley Orgánica 7/1985, de 1 de julio, sobre derechos y libertades de los extranjeros en España, y cuantas disposiciones se opongan a lo establecido en esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del artículo 312 del Código Penal.
+El apartado 1 del artículo 312 del Código Penal queda redactado de la forma siguiente:
+"Artículo 312.
+1. Serán castigados con las penas de prisión de dos a cinco años y multa de seis a doce meses, los que trafiquen de manera ilegal con mano de obra."
+
+### Disposición final segunda
+
+Disposición final segunda. Inclusión de un nuevo Título XV bis en el Código Penal.
+Se introduce un nuevo Título XV bis con la siguiente redacción:
+"Título XV bis. Delitos contra los derechos de los ciudadanos extranjeros.
+Artículo 318 bis.
+1. Los que promuevan, favorezcan o faciliten el tráfico ilegal de personas desde, en tránsito o con destino a España serán castigados con las penas de prisión de seis meses a tres años y multa de seis a doce meses.
+2. Los que realicen las conductas descritas en el apartado anterior con ánimo de lucro, o empleando violencia, intimidación o engaño o abusando de una situación de necesidad de la víctima, serán castigados con las penas de prisión de dos a cuatro años y multa de doce a veinticuatro meses.
+3. Se impondrán las penas correspondientes en su mitad superior a las previstas en los apartados anteriores, cuando en la comisión de los hechos se hubiere puesto en peligro la vida, la salud o la integridad de las personas o la víctima sea menor de edad.
+4. En las mismas penas del apartado anterior y además en la inhabilitación absoluta de seis a doce años incurrirán los que realicen los hechos prevaliéndose de su condición de autoridad, agente de ésta o funcionario público.
+5. Se impondrán las penas superiores en grado a las previstas en los apartados anteriores, en sus respectivos casos, cuando el culpable perteneciere a una organización o asociación, incluso de carácter transitorio que se dedicare a la realización de tales actividades."
+
+### Disposición final tercera
+
+Disposición final tercera. Modificaciones en los artículos 515, 517 y 518 del Código Penal.
+1. Se añade un nuevo apartado 6.º en el artículo 515 con la siguiente redacción:
+"6.º Las que promuevan el tráfico ilegal de personas."
+2. Se modifica el primer párrafo del artículo 517, que quedará redactado de la siguiente forma:
+"En los casos previstos en los números 1.º y 3.º al 6.º del artículo 515 se impondrán las siguientes penas:"
+3. Se modifica el artículo 518, que quedará redactado de la siguiente forma:
+"Los que con su cooperación económica o de cualquier otra clase, en todo caso relevante, favorezcan la fundación, organización o actividad de las asociaciones comprendidas en los números 1.º y 3.º al 6.º del artículo 515, incurrirán en la pena de prisión de uno a tres años, multa de doce a veinticuatro meses, e inhabilitación para empleo o cargo público por tiempo de uno a cuatro años."
+
+### Disposición final cuarta
+
+Disposición final cuarta. Preceptos no orgánicos.
+1. Tienen naturaleza orgánica los preceptos contenidos en los siguientes artículos de esta Ley: 1, 2, 3, 4.1, 4.3, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 18 bis, 19, 20, 21, 22.1, 23, 24, 25, 25 bis, 27, 29, 30, 30 bis, 31, 31 bis, 33, 34, 36, 37, 39, 40, 41, 42, 53, 54, 55, 57, 58, 59, 59 bis, 60, 61, 62, 62 bis, 62 ter, 62 quáter, 62 quinquies, 62 sexies, 63, 63 bis, 64, 66, 71, las disposiciones adicionales tercera a octava y décima y las disposiciones finales.
+2. Los preceptos no incluidos en el apartado anterior no tienen naturaleza orgánica.
+Se modifica por la disposición final 1.2 de la Ley Orgánica 4/2015, de 30 de marzo. Ref. BOE-A-2015-3442#dfprimera.
+ Se modifica por el art. único.83 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Disposición final quinta
+
+Disposición final quinta. Apoyo al sistema de información de Schengen.
+El Gobierno, en el marco de lo previsto en el Convenio de aplicación del Acuerdo de Schengen, adoptará cuantas medidas fueran precisas para mantener la exactitud y la actualización de los datos del sistema de información de Schengen, facilitando el ejercicio del derecho a la rectificación o supresión de datos a las personas cuyos datos figuren en el mismo.
+
+### Disposición final quinta bis
+
+Disposición final quinta bis.Código Comunitario de Visados.
+Las previsiones de la presente Ley en materia de visados de tránsito y estancia se entenderán sin perjuicio de lo establecido en el Reglamento (CE) n.º 810/2009, de 13 de julio, por el que se establece un Código Comunitario sobre Visados.
+Se añade por el art. único.84 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
+
+### Disposición final sexta
+
+Disposición final sexta. Reglamento de la Ley.
+El Gobierno en el plazo de seis meses aprobará el Reglamento de esta Ley Orgánica.
+
+### Disposición final séptima
+
+Disposición final séptima. Información sobre la Ley a organismos y organizaciones interesados.
+Desde el momento de la entrada en vigor de esta Ley, el Gobierno adoptará las medidas necesarias para informar a los funcionarios de las diversas Administraciones públicas, a los directivos de asociaciones de inmigrantes, a los Colegios de Abogados, a los sindicatos y a las organizaciones no gubernamentales de los cambios que sobre la aplicación de la normativa anterior supone la aprobación de esta Ley Orgánica.
+
+### Disposición final octava
+
+Disposición final octava. Habilitación de créditos.
+El Gobierno dictará las disposiciones necesarias para hacer frente a los gastos originados por la aplicación y desarrollo de la presente Ley.
+
+### Disposición final novena
+
+Disposición final novena. Entrada en vigor.
+Esta Ley Orgánica entrará en vigor a los veinte días de su completa publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 11 de enero de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

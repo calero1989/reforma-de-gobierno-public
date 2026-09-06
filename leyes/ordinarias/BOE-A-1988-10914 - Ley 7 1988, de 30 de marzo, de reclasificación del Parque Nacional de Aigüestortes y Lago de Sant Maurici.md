@@ -1,0 +1,249 @@
+# Ley 7/1988, de 30 de marzo, de reclasificación del Parque Nacional de Aigüestortes y Lago de Sant Maurici.
+
+- Identificador BOE: `BOE-A-1988-10914`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1988-10914
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY DE RECLASIFICACIÓN DEL PARQUE NACIONAL DE AIGÜESTORTES Y LAGO DE SANT MAURICI
+El Parque Nacional de Aigüestortes y Lago de Sant Maurici fue creado por Decreto de 21 de octubre de 1955, de acuerdo con la Ley de Parques Nacionales de 1916. Actualmente está pendiente de reclasificación por Ley con el fin de cumplir lo establecido por la Ley 12/1985, de 13 de junio, de Espacios Naturales, la cual determina que los parques nacionales deben ser creados por Ley.
+Sito en la sierra axial pirenaica, en ese lugar existe una magnífica representación de las formaciones geológicas así como de la flora y la fauna de los Pirineos. Asimismo, se trata de una de las mejores representaciones de los fenómenos glaciales del cuaternario, con un protagonista principal: El agua. Más de cincuenta lagos, junto con ríos, torrentes, cascadas y marjales, hacen que sea uno de los paisajes más majestuosos del Pirineo. Un paisaje de extraordinaria belleza, constituido por un mosaico de vegetación de bosques de pinos, abetos abedules y hayas, moteado de prados y rocas. Dentro de la fauna típica de la alta montaña destacan el rebeco, el urogallo, el águila real, la perdiz nival y el pito negro.
+Los parajes que se protegen están situados en unas comarcas que vivieron el arte románico en todo su esplendor. El conjunto románico del valle de Boí es el más completo de todo el Pirineo, con preciosas iglesias decoradas con bellas pinturas murales y campanarios que, con su esbeltez, puntean todo el valle: Sant Feliú, en Barruera; Sant Joan Baptista, en Boí; Santa María, en Cardet; Santa María, en Coll; Santa Eulália, en Erill-la-Vall; La Nativitat y Sant Quirze, en Durro; Sant Llorenç, en Sarahís, y Sant Martí, Santa María y Sant Climent, en Taúll. En el otro valle, el de Espot, se halla esta localidad, que posee el interés de las poblaciones de alta montaña.
+Todo ello hace que sea imperiosa la necesidad de declarar los terrenos que configuran estos parajes como Parque Nacional por Ley del Parlamento de Cataluña, con el fin de cumplir lo establecido por la legislación de la Generalidad de Cataluña sobre espacios naturales de protección especial.
+
+### Artículo 1
+
+Artículo 1. Finalidad.
+1. La finalidad de la presente Ley es establecer un régimen jurídico especial para el Parque Nacional de Aigüestortes y Lago de Sant Maurici, y reclasificarlo de acuerdo con lo dispuesto por la Ley 12/1985, de 13 de junio, de Espacios Naturales.
+2. Dicho régimen jurídico especial se establecerá para preservar este espacio de todas las intervenciones que puedan alterar su fisonomía, la integridad y la evolución de sus sistemas naturales.
+
+### Artículo 2
+
+Artículo 2. Ámbito territorial.
+El Parque Nacional de Aigüestortes y Lago de Sant Maurici, con una superficie total de 10.230 hectáreas, afecta a los términos municipales de Barruera y Espot, en las comarcas del Pallars Jussà y el Pallars Sobirà, respectivamente.
+Los límites geográficos del Parque Nacional son los que figuran en el anexo 1 de la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Protección.
+1. En el interior del Parque Nacional no se permitirá, y deberá eliminarse, cualquier actividad de explotación de los recursos naturales que provoque la alteración de su entidad ecológica, geomorfológica y paisajística, salvo los usos tradicionales y agrarios actualmente existentes, el aprovechamiento del agua y las actividades científicas, educativas y recreativas, que deberán estar siempre de acuerdo con la regulación que se establezca en los textos normativos de los instrumentos de planeamiento que desarrollen la presente Ley. Se prohíben de forma expresa la caza, captura o perturbación de las especies animales, las actividades extractivas, la destrucción de la vegetación, la contaminación de las aguas y la ejecución de cualquier obra o instalación, salvo las necesarias para el desarrollo de las instalaciones e infraestructuras del Parque o las que por su utilidad pública o interés social sean autorizadas con carácter extraordinario y restringido por el Consejo Ejecutivo, previo informe del Consejo de Protección de la Naturaleza, previa demostración expresa de la falta de alternativas viables, y la adopción de las necesarias medidas correctoras para disminuir su impacto sobre el medio natural.
+2. El ejercicio de los usos tradicionales, en cada caso, de la actividad agraria y del aprovechamiento del agua, las actividades de regeneración, así como el uso a que deban destinarse las instalaciones y estructuras existentes serán regulados por el Plan Rector de Uso y Gestión.
+Y estarán siempre de acuerdo con lo establecido en el planeamiento especial para la protección del medio y del paisaje, redactado de acuerdo con lo que determina el artículo 5.º de la Ley de Espacios Naturales y previsto en la disposición final segunda de la presente Ley.
+
+### Artículo 4
+
+Artículo 4. Zona periférica de protección.
+1. Se delimita una zona de protección exterior continua y periférica, con el fin de garantizar una completa protección de los recursos naturales que han justificado la creación del Parque y evitar los posibles impactos ecológicos y paisajísticos procedentes del exterior. Sus límites geográficos son los fijados en el anexo 2 de la presente Ley, y afecta a los términos municipales de Vielha e Mijaran y Naut Aran, en la comarca de la Val d'Aran; de Alt Aneu, Esterri d'Aneu, la Guingueta d'Aneu, Espot y Sort, en la comarca del Pallars Sobira; de la Torre de Cabdella, en la comarca del Pallars Jussà, y de Barruera y Vilaller, en la comarca de la Alta Ribagorça.
+2. Sólo se permitirán en esta zona los usos y aprovechamientos tradicionales compatibles con las finalidades de protección y conservación del medio del Parque. Cualquier aprovechamiento, obra o actividad nueva deberá cumplir los requisitos establecidos en cada caso y ser autorizado de forma previa y expresa por la Dirección General de Política Forestal, la cual solicitará informe previo del Patronato del Parque.
+Se modifica el apartado 1 por el art. 1 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+### Artículo 5
+
+Artículo 5.
+1. De acuerdo con lo establecido por los artículos 18 y 5.4 de la Ley 12/1985, de 15 de junio, los terrenos afectados por la declaración del Parque Nacional y la zona periférica de protección gozarán, de forma preventiva, del régimen de suelo no urbanizable de especial protección fijado por los artículos 85 y 86 de la Ley del Suelo.
+2. En el plazo de dos años desde la aprobación definitiva del plan especial, los Ayuntamientos afectados adecuarán su planteamiento urbanístico a las directrices del plan especial, clasificando el suelo como no urbanizable con el régimen específico de la zona del Parque de que se trate.
+
+### Artículo 6
+
+Artículo 6. Zona de influencia.
+1. A los efectos de la presente Ley, se considerará como zona de influencia del Parque Nacional de Aigüestortes y Lago de Sant Maurici el territorio de los términos municipales de Espot, Barruera, Alt Aran, Alt Aneu, Sort y la Torre de Cabdella.
+2. El establecimiento de esta zona de influencia tendrá las siguientes finalidades:
+a) Fomentar las actividades tradicionales siempre que aseguren un uso adecuado de los recursos naturales.
+b) Ordenar las actividades tradicionales que aseguren un uso adecuado de sus recursos naturales y fomentar otras nuevas, compatibles con el Parque Nacional, especialmente aquellas que faciliten el conocimiento y la visita del mismo.
+c) Mantener el nivel demográfico y la actual distribución de la población del Parque mediante el fomento de las actividades antes mencionadas y la dotación de un nivel adecuado de servicios.
+d) Mantener la cultura, las tradiciones y los paisajes de estos valles, así como la arquitectura popular y monumental.
+e) Integrar a los habitantes de la zona de influencia en las actividades generadas por el Parque Nacional.
+3. Para conseguir estos objetivos se confeccionará un programa de inversiones y actuaciones que afectará a los términos municipales que constituyen la zona de influencia, teniendo en cuenta lo dispuesto por la legislación específica de montaña y de zonas desfavorecidas.
+
+### Artículo 7
+
+Artículo 7. Gestión.
+1. La gestión del Parque Nacional corresponderá a la Generalidad de Cataluña, a través del Departamento de Agricultura, Ganadería y Pesca, y a sus Organismos adscritos.
+2. El Departamento de Agricultura, Ganadería y Pesca, a través de la Dirección General de Política Forestal, redactará el Plan Rector de Uso y Gestión del Parque Nacional de Aigüestortes y Lago de Sant Maurici, que será sometido a información pública y, tras su aprobación provisional por el Patronato, será elevado al Consejo Ejecutivo para que lo apruebe de forma definitiva.
+3. Dicho Plan de Gestión, que tendrá una vigencia de cuatro años y será revisable –ya sea al finalizar este plazo, ya sea antes si fuera necesario–, no podrá contradecirse con las determinaciones del planeamiento especial y deberá contemplar:
+a) Las directrices generales de ordenación y uso del Parque Nacional.
+b) Las normas de gestión y actuación necesarias para conservar y proteger sus valores naturales, así como para garantizar el cumplimiento de las finalidades de investigación, interpretación del fenómeno de la naturaleza, educación ambiental y uso y disfrute para los visitantes.
+c) La zonificación del Parque Nacional, con la delimitación de las áreas de distinta utilización y destinación, entre las que se incluirán las destinadas a servicios, y la especificación de los grados de protección y de las zonas de reserva integrales o dirigidas.
+d) La regulación específica de la acampada, el excursionismo y el montañismo en todas sus modalidades, así como de otras prácticas deportivas, turísticas y científicas.
+e) La regulación del tránsito de personas y vehículos dentro del Parque Nacional.
+4. Todo proyecto de obra, de trabajos o de aprovechamientos que no figure de forma expresa en el Plan Especial o en el Plan de Gestión y cuya ejecución se considere necesaria para la buena gestión del Parque Nacional deberá ser debidamente justificado, teniendo en cuenta las directrices de los instrumentos de planeamiento aprobados y autorizados por la Dirección General de Política Forestal, previo informe del Patronato del Parque, teniendo en cuenta lo dispuesto por el artículo 3.º para las obras e instalaciones.
+
+### Artículo 8
+
+Artículo 8. Planes específicos.
+La Dirección General de Política Forestal redactará programas específicos que desarrollen el Plan de Gestión, los cuales deberán ser aprobados por el Patronato. La vigencia de estos planes estará delimitada por la del propio Plan Rector. Como mínimo deberán redactarse planes específicos para regular:
+a) Las medidas tendentes a la eliminación de la explotación de los recursos naturales del Parque Nacional, con excepción de las actividades a las que se refiere el artículo 3.2.
+b) Las actividades de gestión necesarias para el mantenimiento de los equilibrios biológicos existentes y la investigación aplicada que las fundamente.
+c) La organización de la interpretación e información del Parque Nacional para un mejor disfrute de los visitantes y la promoción de su educación ambiental.
+
+### Artículo 9
+
+Artículo 9. Patronato.
+(Derogado)
+Téngase en cuenta que la composición y funcionamiento del Patronato y la Comisión Permanente se llevarán a cabo mediante disposición del Gobierno de la Generalitat publicada únicamente en el DOGC, según se establece en la disposición final 6, en relación con el art. 18 de la Ley 5/2007, de 3 de abril. Ref. BOE-A-2007-7108.
+Se deroga por la disposición derogatoria b) de la Ley 12/2006, de 27 de julio. Ref. BOE-A-2006-15005.
+ Se modifica el apartado 1 por el art. 2 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+### Artículo 10
+
+Artículo 10. Comisión permanente.
+(Derogado)
+Téngase en cuenta que la composición y funcionamiento del Patronato y la Comisión Permanente se llevarán a cabo mediante disposición del Gobierno de la Generalitat publicada únicamente en el DOGC, según se establece en la disposición final 6, en relación con el art. 18 de la Ley 5/2007, de 3 de abril. Ref. BOE-A-2007-7108.
+Se deroga, en la redacción dada por la Ley 22/1990, de 8 de diciembre. Ref. BOE-A-1991-2941., por la disposición derogatoria c) de la Ley 12/2006, de 27 de julio. Ref. BOE-A-2006-15005.
+ Se modifica por el art. 3 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+### Artículo 11
+
+Artículo 11. Director-Conservador.
+La responsabilidad de la Administración del Parque Nacional corresponde a un Director-Conservador, nombrado por el Consejo Ejecutivo a propuesta del Consejero de Agricultura, Ganadería y Pesca. Este cargo recaerá en una persona con titulación universitaria superior e idónea.
+Se modifica por el art. 4 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+### Artículo 12
+
+Artículo 12. Tanteo y retracto.
+1. La Generalidad de Cataluña, a través del Departamento de Agricultura, Ganadería y Pesca, podrá ejercer derechos de tanteo y retracto en todas las transmisiones onerosas de bienes y derechos ínter vivos de bienes inmuebles sitos en el interior del Parque Nacional, en la forma que reglamentariamente se determine.
+2. El derecho de tanteo se ejercerá dentro de los tres meses siguientes a la notificación previa de la transmisión. Los Notarios y Registradores no podrán autorizar ni inscribir, respectivamente, las correspondientes escrituras sin que se acredite previamente la práctica de dicha notificación.
+3. En caso de que faltara la notificación, o que las condiciones expresadas en ésta no coincidieran con las de la transmisión efectiva, la Generalidad de Cataluña podrá ejercer el derecho de retracto dentro de los seis meses, contados desde la inscripción de la transmisión en el Registro de la Propiedad.
+
+### Artículo 13
+
+Artículo 13. Medios económicos.
+El Departamento de Agricultura, Ganadería y Pesca, con cargo a sus presupuestos, atenderá los gastos necesarios para la ejecución de las actividades, los trabajos y las obras de conservación, mejora e investigación, y, en general, para la correcta gestión del Parque. A estos efectos contarán como ingresos los procedentes:
+a) De las partidas que para estas finalidades se hubieran incluido en el Presupuesto General de la Generalidad de Cataluña.
+b) De las tasas que puedan establecerse por acceso al Parque y utilización de servicios y de las tarifas que se aprueben.
+c) De toda clase de aportaciones y subvenciones de Entidades públicas y privadas, así como de particulares.
+d) De concesiones y autorizaciones para la utilización de servicios al Parque Nacional, en la forma determinada por el Plan de Gestión o por sus programas específicos.
+
+### Artículo 14
+
+Artículo 14. Participación de las Corporaciones Locales.
+Los Ayuntamientos de los municipios incluidos en la demarcación del Parque Nacional tendrán derecho preferente para la obtención de las concesiones y autorizaciones de establecimientos y de prestación de servicios de utilización pública establecidos en el Plan de Gestión o en sus programas específicos.
+
+### Artículo 15
+
+Artículo 15. Régimen de sanciones.
+La inobservancia o infracción de la normativa aplicable a este Parque Nacional será sancionada de acuerdo con lo dispuesto por la Ley 12/1985, de Espacios Naturales, y de conformidad con la legislación específica que, según la naturaleza de la infracción, sea aplicable.
+
+### Artículo 16
+
+Artículo 16. Acción pública.
+La acción para exigir, ante los Organismos administrativos y Tribunales contencioso-administrativos, la estricta observancia de las normas de protección de este Parque Nacional será pública.
+
+### Artículo 17
+
+Artículo 17. Concesión y explotación de aguas.
+Con el fin de conseguir la protección definida por el artículo 1.º de la presente Ley, no podrán tramitarse expedientes de concesión y explotación de aguas superficiales o subterráneas dentro del recinto del Parque, sin el previo informe favorable del Patronato.
+
+### Artículo 18
+
+Artículo 18. Colaboraciones.
+1. El Departamento de Agricultura, Ganadería y Pesca, de acuerdo con el Patronato, solicitará la colaboración del Estado, de otros Organismos públicos de Cataluña y, en la medida de lo posible, de personas físicas y Entidades privadas del Estado o del extranjero para conseguir el mejor cumplimiento de las finalidades del Parque Nacional.
+2. Los Organismos públicos de Cataluña deberán prestar la colaboración que les sea solicitada, de acuerdo con lo dispuesto por el presente artículo.
+
+### Artículo 19
+
+Artículo 19. Limitación de derechos.
+1. La creación del Parque Nacional de Aigüestortes y Lago de Sant Maurici comportará la calificación de utilidad publica de todos los terrenos que lo constituyen, a efectos de expropiación de bienes y derechos.
+2. No se permitirá ningún tipo de trabajo de búsqueda y explotación de sustancias minerales, ni la tala o extracción de especies vegetales no introducidas por el hombre, dentro de los límites señalados en el anexo 1 de la presente Ley.
+
+### Disposición adicional
+
+Disposición adicional.
+Puede formar parte de la Comisión permanente uno de los representantes de ICONA que se haya incorporado al Patronato, a partir del momento en que comunique su decisión al Consejero de Agricultura, Ganadería y Pesca.
+Se añade por el art. 5 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+### Disposición final primera
+
+Disposición final primera.
+En un plazo máximo de un año, el Consejo Ejecutivo, previo informe del Patronato, dictará las normas necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En el plazo de un año desde la entrada en vigor de la presente Ley, los Organismos competentes promoverán y aprobarán inicialmente el planteamiento especial necesario para la gestión del Parque.
+
+### Disposición final tercera
+
+Disposición final tercera.
+El Patronato del Parque Nacional de Aigüestortes y Lago de Sant Maurici deberá quedar constituido dentro del plazo de dos meses a partir de la entrada en vigor de la presente Ley.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+La presente Ley entrará en vigor al día siguiente de ser publicada en el «Diari Oficial de la Generalitat de Catalunya».
+
+### Disposición final quinta
+
+Disposición final quinta.
+En todo aquello que no esté previsto por la presente Ley se aplicará la Ley 12/1985, de 13 de junio, de Espacios Naturales.
+
+### Disposición final sexta
+
+Disposición final sexta.
+Cuando se produzcan cambios administrativos o modificaciones en las Entidades representadas en el Patronato, el Gobierno de la Generalidad, por acuerdo del Consejo Ejecutivo, a propuesta del Departamento de Agricultura, Ganadería y Pesca, adecuará la composición del Patronato y, en su Caso, de la Comisión Permanente a dichos cambios o modificaciones.
+
+### Disposición final séptima
+
+Disposición final séptima.
+La Generalidad de Cataluña, por acuerdo del Consejo Ejecutivo, podrá incorporar al Parque Nacional otros terrenos confinantes que reúnan las características adecuadas para esta finalidad, en cualquiera de los siguientes supuestos:
+a) Que sean propiedad de la Generalidad de Cataluña o de alguno de sus Organismos Autónomos.
+b) Que sean expropiados para esta finalidad.
+c) Que sean aportados a todos los efectos por sus propietarios, sean estos el Estado o cualquiera de sus Organismos, Entidades locales o particulares.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen a su cumplimiento y que los Tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 30 de marzo de 1988.
+JOSEP MIRO I ARDEVOL
+ JORDI PUJOL
+ Consejero de Agricultura, Ganadería y Pesca
+ Presidente de la Generalidad de Cataluña
+
+## ANEXO 1
+
+Límites del Parque Nacional de Aigüestortes y Lago de Sant Maurici
+Norte: Partiendo del bony de Aiguissi, el límite del Parque, siempre por divisoria de aguas y en confrontación con el monte del Estado «Riberas de Sant Nicolau», «Caldes», «Llacs» y otros, del término municipal de Barruera, sigue por la Pala Alta de Serrader, collet de Contraig, pic de Contraig, coll de Contraig, creu de Colomers y pic de L’estany de Contraig. A partir de aquí, teniendo como límite el monte número 257 del CUP, «Ribera derecha e izquierda del río Valarties», propiedad de Arties, del término municipal de Alt Aran, sigue hasta el Pic Blanc y el Gran Tuc de Colomers. Desde este último pico, en confrontación con el monte número 297 del CUP, «Bandolés», «Dossal» «Beret» «Ruda»y «Aigüamoix» propiedad de Salardú y Tredòs, del término municipal antedicho, sigue por el portal de Colomers, pic de Ratera y port de Ratera. A partir de aquí, confronta con el monte número 183 del CUP, «Port de la Bonaigua», propiedad de Sorpe, Son del Pi, València d’Aneu y Esterrí d’Aneu, del término municipal de Alt Aneu, y sigue por el tuc de Saboredo, pic d’Amitges, pic de Bassiero y coll de Bassiero. En este collado, dentro del mismo término municipal, tiene como límite el monte clave L-1105 del elenco «Bosc de Son», propiedad del Estado, y sigue por el Pui Pla, coll del Pui Pla, pic de Pinató hasta el coll de Pinató.
+Este: A partir del Coll de Pinató deja la divisoria de aguas y toma el barranco del mismo nombre, y confronta con el monte número 321 del CUP, «Montaña de Espot», propiedad de Espot, del mismo término municipal. Antes de llegar al río Escrita roza las propiedades particulares de Josep Sebastiá Farrando, «Pirineus Espot, S. A.», Jaume Sebastiá Catalina y Emili Castells Farrando, hasta el río Escrita. Cruzado el río vuelve a limitar con el monte número 321 del CUP, sube por el barranco del prado de Piarró hasta el Pui de Linya, donde cambia de dirección y desciende por el canal de la Font Grossa hasta llegar al río Peguera. Desde el río se dirige hacia el pic Carbonero, pic de la Pala de l’Eixe y coll dels Estanyets.
+Sur: Desde el coll dels Estanyets, siempre por divisoria de aguas, confrontando con el monte clave L-1028 del elenco (19-4t del CUP) «Serra del Rei», propiedad del Estado, del término municipal de Sort, sigue por la cresta de l’Avió hasta el pic de Mainera. A partir de este pico tiene como límite el monte número 192-b del CUP, «Comunals de Cabdella», propiedad de Espui, Aiguabella, Cabdella y la Torre de Cabdella, del término municipal de este último nombre, y sigue la línea de crestas definida por el coll de Saburó, tuc de Saburó, pic de Peguera, coll de Peguera, pic de Mar, pic Morto, pic de Subenuix, collada dels Gavatxos, pic de Cubeso, collet de Dellui, pic de Dellui y pic Neriolo. Cambia el afrontamiento y encuentra el monte «Montaña de Rus», de propiedad particular, que sigue por la colladeta de Morrano, Cap de Reguera, coll de Dalt, pic de Mussoles y pic del Pessó. A partir de aquí limita con el monte del Estado «Riberas de Sant Nicolau», «Caldes», «Llacs» y otros, del término municipal de Barruera, hasta la colladeta de l’Ossor, pic Roi, collada de Muntanyó y tuc de Caranç .
+Oeste: A partir del tuc de Caranç, confrontando con la misma propiedad del límite sur, sigue por el tuc de les Costes, cap de les Cometes, collada Barrada, bony Negre, collada de Bony Blanc y colladeta de la Cometa de la Questió. Desde aquí, en línea recta, hacia el bony Esbonyllat, siguiendo por los clotets de la pleta del Pago hasta el río Sant Nicolau, asciende por el barranco de Sant Nicolau y limita en primer lugar con la propiedad particular de Josep Viladavay Llong y a continuación con la del Estado antes mencionada hasta la pleta Negra, donde toma una línea recta en dirección al bony d’Aiguissi.
+
+## ANEXO 2
+
+Límites de la zona periférica de protección del Parque Nacional de Aigüestortes y Lago de Sant Maurici
+Norte:
+El límite de la zona periférica de protección del Parque comienza por el norte en el collado de Rius, en la confrontación de los términos municipales de Vielha e Mijaran y Naut Aran (Arties), y sigue el linde entre estos dos términos hacia el norte, hasta el collado de Bargadera. Sigue después, siempre siguiendo el citado linde, en dirección este, pasa por el pico de Betren y llega al pico de Era Aubeta.
+En este punto, el linde entre dichos términos municipales gira hacia el norte, en dirección al Pui d'Albo, mientras el límite de la zona periférica sigue hacia el nordeste primero y después hacia el este, bajando por una cresta de fuerte pendiente, hasta el puente de Ressec, donde gira hacia el sudeste, siguiendo el valle del río Valarties y dejando fuera de la zona periférica las bordas de Ressec, el campamento de Ressec y las fincas de propiedad privada situadas en la ribera de Valarties, en la confrontación con el monte número 257 del Catálogo de Utilidad Publica (CUP), de Arties.
+Cruzado el río Valarties, el límite sigue el confín de las propiedades particulares hasta dar con el camino de Losseron, y toma este camino hasta los muros, donde vuelve a confrontar con las fincas particulares que bordean el río Losseron. Sigue los confines de las fincas que forman los prados de Losseron, a la orilla izquierda del río Rencules, hasta cruzar el río en el cruce con el camino que va al lago de Montcasau, donde sube en dirección al pico de Era Solana. Baja desde el pico, ya en el monte número 297, propiedad de Salardú y Tredos, cruza el camino forestal y baja hasta la ribera del río de Aiguamòg, en el punto llamado "Salt d'Aigüestortes".
+En la ribera del río de Aiguamòg, el límite de la zona periférica respeta las fincas de propiedad particular que suben por la riba a ambas orillas del río y, dada la vuelta a dichas propiedades, vuelve a ascender en dirección al pico Cendrosa de Son, dando la vuelta al monte número 301, propiedad el pueblo de Son, del municipio de Naut Aran. Sigue todo el perímetro norte del término de Naut Aran y vuelve a bajar en línea recta hasta el río Garona de Ruda, donde sigue, como en el caso de los ríos anteriormente citados, la delimitación de las fincas privadas que ocupan la ribera de río, que quedan fuera de la zona periférica.
+Después, el límite de la zona periférica sigue la orilla derecha del Garona de Ruda y sube por el linde entre los términos de Naut Aran y Alt Aneu, hasta la cima del puerto de la Bonaigua. En este punto, gira hacia el sudeste, sube por la cresta, en fuerte pendiente, por la colina de la Peulla, gira al sudeste en línea recta hasta dar con el camino que sube al Lago Gerber, 300 metros por debajo de una laguna, y, desde aquí, baja en línea recta en dirección este, hacia el río de la Bonaigua, con el cual da en la última curva de la carretera, una vez pasado el refugio de la Mare de Deu de les Ares.
+Desde aquí, el límite sigue el río de la Bonaigua, aguas abajo, dentro del monte número 183, y confronta a continuación con el monte número 181, del pueblo de Sorpe, y con propiedades particulares del mismo pueblo, hasta el puente de Sorpe, donde la carretera cruza el río. Al llegar al puente, sigue por carretera, limitando con propiedades particulares de Sorpe y de València d'Aneu, hasta el cruce con la carretera que va a Son, donde toma esta vía hasta el confín del monte número 1.107, Denominado "La Mata de València".
+Este:
+El límite de la zona periférica sube por la cresta que delimita el monte número 1.107 hasta llegar a la línea que separa el monte número 1.105, llamado "El Bosc de Son", de las propiedades particulares del pueblo de Son, punto desde el cual sube hacia el oeste, dejando fuera de la zona periférica los citados prados y campos.
+Donde acaban estas propiedades, el límite gira hacia el sudeste, siempre siguiendo el confín del monte número 1.105, hasta llegar a la Riera del Tinter, donde, siguiendo aun dicho confín, gira hacia el nordeste, después hacia el sur y finalmente hacia el sudoeste, hasta llegar al linde entre los términos municipales de Alt Aneu y Esterri d'Aneu. Sigue dicho linde y cruza en dirección este hacia el Barranco de Arrosa, donde da con el linde entre los términos municipales de Esterri d'Aneu y la Guingueta d'Aneu, linde que sigue hasta llegar al camino del Bosque de Esterri. Toma este camino hacia el este, hasta llegar a las fincas particulares de Jou, y sigue el confin de estas fincas particulares hasta el Barranco de Jou. Baja por este barranco hasta llegar otra vez a las fincas, en el camino de Jou a Estais, el cual sigue hasta el linde entre los términos de la Guingueta d'Aneu y Espot. Sigue dicho linde hacia el oeste y, pasando por el pico de Buliera, llega al pico Vellendo, también llamado de Quartiules.
+Desde el pico Vellendo, en la confrontación de los términos municipales de Alt Aneu y Espot, el límite se adentra en el monte número 321, "de la Muntanya d'Espot", baja por el Barranco del Vedal, a la izquierda del río Escrita, y sube por la orilla izquierda de este, confrontando con los prados de propiedad particular, hasta llegar a la confluencia con el barranco llamado "Del Abeurador".
+En este punto, el límite de la zona periférica de protección cruza el río Escrita, gira hacia el este y sigue el curso del río aguas bajo, hasta dar, cerca del pueblo de Espot, con nuevas propiedades privadas en la vertiente del monte llamado "La Muntanya".
+El límite bordea y deja fuera de la zona periférica las citadas fincas privadas, situadas en la solana de dicho monte, hasta llegar al barranco o río de Peguera, afluente del Escrita por la orilla derecha. Sigue este río hasta el puerto de Platets y, desde aquí, corta hacia el sur del llano de la Escariella, en el punto donde se halla una gran roca, llamada "El Penyal", en la cima de los prados de la Escariella.
+El límite sube por este barranco hasta los llanos del pie de la escarpa de Eixe.
+Queda fuera de la zona periférica de protección la escarpa que acoge las infraestructuras, cafetería, instalaciones del telesilla y demás equipamientos de la estación de esquí de Superespot.
+Bordeando este llano, el límite sigue hacia el sur, hasta el barranco de Estanyets, desde el cual sube por la loma de la Socarrada hasta el collado de la Creu de l'Aixol.
+Sigue por la cresta, en confrontación, a partir de la cruz, con el monte número 127, denominado "Santa Bárbara, el Bosc Negre i la Molina", de Escaló y Escart, hasta la altura del refugio de Quatrepins, donde baja, cruza el camino forestal y, siguiendo aún la línea divisoria, llega a la collada de la Fuente Blanca, punto en el que cambia de dirección hacia el barranco del mismo nombre, sube por la umbría y vuelve a seguir la cresta hasta el confín del término municipal de Rialp. A partir del encuentro con este término municipal confronta con el monte número 187, llamado "El Bosc Negre i els Baixants", de Caregue, hasta la próxima cresta, donde halla la línea fronteriza del término municipal de Sort. En todo el municipio de Sort confronta con el monte de la Muntanya de Llesui, de propiedad particular, hasta la línea divisoria de la sierra del Montsent, en concreto en el collado del Triador, donde pasa al término municipal de la Torre de Cabdella.
+Sur:
+Desde el collado del Triador, el límite de la zona periférica sigue hacia el norte hasta llegar a la cámara de agua de la central de Cabdella y, desde aquí, continúa por la parte superior de la cámara, unos 100 metros por encima de la explanación del antiguo ferrocarril, hasta el barranco de Ricossanto.
+Sigue el canal en dirección norte hasta llegar al lago Gento, dejando fuera de la zona periférica las construcciones existentes. Sigue por el margen del lago Gento hasta el teleférico, bordea el embalse de Sallente y asciende por el fuerte pendiente hasta el cerro de Espasa, donde baja en línea recta hacia el barranco de Maineras y, aguas abajo de este, hasta el río Serna. Sube por el barranco de Rus, que confronta con el monte número 192b, hasta el puerto de Las Cabeçades, donde confronta ya con el término municipal de Sarroca de Bellera. Desde el puerto sigue la cresta hasta la cruz de término, confrontando con el monte número 217, denominada "La Muntanya de Manyanet", del término municipal de Sarroca de Bellera, hasta el cerro de La Mina, el pico de Moro, el paso de Moro y el Cap de les Raspes Roges.
+Oeste:
+A partir del Cap de les Raspes Roges, el límite de la zona periférica abandona la cresta, entra en el término municipal de Barruera, en la finca propiedad de "Boi-Tahull, Sociedad Anónima", y baja por la pendiente máxima hasta llegar al nacimiento del barranco de Collbirros. Sigue este barranco aguas abajo, hasta llegar al camino forestal que discurre por el margen derecho del torrente de Ginebrell, y toma este camino en dirección norte hasta cruzar el barranco llamado "De la Font de la Ribaviola". En este punto, el límite sigue la cota de los 1.800 metros en dirección norte-nordeste hasta la confluencia del barranco de Carants con el torrente de Sant Marti.
+Desde este punto, el límite de la zona periférica sigue en dirección noroeste la línea divisoria entre el monte del estado, llamado "Las Riberas de Sant Nicolau, Caldes, Llacs i Altres", y las propiedades particulares de Taull y, confrontando siempre con las propiedades particulares de Taull y de Boi, sigue esta línea hasta el camino de Sant Nicolau y el río del mismo nombre.
+El límite sube por la orilla izquierda del río de Sant Nicolau, bordeando fincas particulares, hasta la pasarela o puente de La Molina que atraviesa el río, donde gira y, por este puente, pasa a la orilla derecha. Desde aquí, sigue bordeando hacia el oeste las fincas particulares, que quedan fuera de la zona periférica, y sube hacia el norte por la línea en que las fincas particulares que bordean el Noguera del Tor, que quedan fuera de la zona periférica, confinan con el citado monte del Estado, "De les Riberes de Sant Nicolau, Caldes, Llacs i Altres", hasta llegar unos 200 metros por encima del puente de Toirigo en la carretera de Cavallers sobre el Noguera de Tor, en la Ribera de Caldes.
+Desde aquí, el límite gira y baja por la orilla derecha de este río, y delimita y deja fuera de la zona periférica los prados de propiedad privada hasta el barranco de Serrado, por el cual sube hasta llegar al límite del monte número 214, "La Muntanya d'Erill la Vall", con cuyo perímetro norte confronta en toda su extensión. Sube por la loma del Bierro, la peña de Alba y la loma de Roques Blanques, cruza el barranco de Comamiana y llega al pico del Mon.
+Desde aquí, el límite sigue hacia el sur por la confrontación del monte con fincas de propiedad privada, hasta el barranco de Erill la Vall. Dejando fuera de la zona periférica las bordas de Erill la Vall, el límite continúa hacia el noroeste hasta la cota de los 1.700 metros, y la sigue hacia el oeste. Sube en pendiente hasta el collado de Erill la Vall y, desde este punto, asciende por la cresta hasta la cota de los 2.200 metros, y sigue esta cota hacia el linde entre los términos municipales de Barruera y Vilaller (Senet).
+Desde este punto, el límite sigue aún, dentro del término municipal de Vilaller, la cota de los 2.200 metros, entra en el monte número 224, denominado "Fenarroi, Besiberri y Gelada", propiedad de Senet, y lo atraviesa longitudinalmente en dirección norte por la cota de los 2.200 metros, hasta llegar al linde entre los términos municipales de Vilaller y de Vielha e Mijaran. Ya dentro de este término municipal, sigue la curva de nivel de los 2.300 metros, gira primero hacia el norte y después hacia el este, haciendo curva otra vez hacia el norte y llegando asi al linde entre los términos municipales de Vielha e Mijaran y de Naut Aran (Arties), en el collado de Rius, donde termina el límite de la zona periférica de protección del Parque.
+Se modifica por el art. 6 de la Ley 22/1990, de 28 de diciembre. Ref. BOE-A-1991-2941.
+
+## [INFORMACIÓN RELACIONADA]
+
+INFORMACIÓN RELACIONADA
+ Véase, en cuanto a las actividades practicadas en los terrenos incluidos en la zona periférica de protección, la disposición adicional de la Ley 22/1990, de 28 de diciembre.Ref. BOE-A-1991-2941.
+ Téngase en cuenta que el Gobierno de la Generalitat, mediante disposición publicada únicamente en el Diario Oficial de la Generalitat de Cataluña, podrá incorporar al Parque Nacional otros terrenos confinantes, según se establece en la disposición final 7

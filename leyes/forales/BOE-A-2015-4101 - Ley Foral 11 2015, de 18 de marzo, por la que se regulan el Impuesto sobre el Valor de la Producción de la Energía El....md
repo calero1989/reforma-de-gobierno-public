@@ -1,0 +1,285 @@
+# Ley Foral 11/2015, de 18 de marzo, por la que se regulan el Impuesto sobre el Valor de la Producción de la Energía Eléctrica, el Impuesto sobre los Gases Fluorados de Efecto Invernadero y el Impuesto sobre los Depósitos en las Entidades de Crédito.
+
+- Identificador BOE: `BOE-A-2015-4101`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2015-4101
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral por la que se regulan el Impuesto sobre el Valor de la Producción de la Energía Eléctrica, el Impuesto sobre los Gases Fluorados de Efecto Invernadero y el Impuesto sobre los Depósitos en las Entidades de Crédito.
+EXPOSICIÓN DE MOTIVOS
+En virtud de los acuerdos suscritos por el Estado y la Comunidad Foral de Navarra en la Comisión Negociadora del Convenio Económico, la exacción del Impuesto sobre el Valor de la Producción de la Energía Eléctrica corresponderá a Navarra cuando la instalación productora de energía eléctrica esté situada en su territorio. Cuando la instalación esté situada en territorio navarro y en territorio común la exacción del impuesto corresponderá a la Administración competente para su autorización.
+En la exacción de este impuesto, que grava la realización de actividades de producción e incorporación al sistema eléctrico de energía eléctrica, la Comunidad Foral aplicará normas sustantivas y formales de idéntico contenido que las establecidas por el Estado.
+Igualmente, se ha llegado a un acuerdo entre el Estado y la Comunidad Foral de Navarra para la exacción del Impuesto sobre los Gases Fluorados de Efecto Invernadero. En este tributo, que recae sobre el consumo de dichos gases atendiendo a su potencial de calentamiento atmosférico, la Comunidad Foral aplicará normas sustantivas y formales de idéntico contenido que las establecidas por el Estado.
+La exacción del mencionado Impuesto sobre los Gases Fluorados de Efecto Invernadero corresponderá a Navarra cuando los consumidores finales utilicen los productos objeto del impuesto en instalaciones, equipos o aparatos radicados en Navarra. Cuando los gases fluorados de efecto invernadero sean objeto de autoconsumo, la exacción corresponderá a la Comunidad Foral en el supuesto de que dicho autoconsumo se produzca en su territorio.
+En los mismos acuerdos suscritos entre el Estado y la Comunidad Foral de Navarra en la citada Comisión Negociadora, se ha pactado que la exacción del Impuesto sobre los Depósitos en las Entidades de Crédito corresponderá a Navarra cuando la sede central, sucursales u oficinas donde se mantengan los fondos de terceros estén situadas en su territorio. Por otra parte, el impuesto correspondiente a los fondos mantenidos mediante sistemas de comercialización no presenciales y aquellos otros no susceptibles de territorialización se atribuirán a la Comunidad Foral en la proporción que le corresponda según su participación en los depósitos territorializados.
+En la exacción de este Impuesto sobre los Depósitos en las Entidades de Crédito, que grava los depósitos constituidos en las entidades de crédito, la Comunidad Foral aplicará normas sustantivas y formales de idéntico contenido que las establecidas por el Estado. Sin perjuicio de ello, la Comunidad Foral podrá establecer los tipos de gravamen de este impuesto dentro de los límites y en las condiciones vigentes en cada momento en territorio común.
+
+### Artículo primero
+
+Artículo primero. Impuesto sobre el Valor de la Producción de la Energía Eléctrica.
+Apartado uno. Régimen jurídico y normativa aplicable.
+El Impuesto sobre el Valor de la Producción de la Energía Eléctrica se exigirá por la Comunidad Foral con sujeción a lo establecido en el artículo 31 bis del Convenio Económico, y de conformidad con lo dispuesto en el presente artículo y en las disposiciones que lo desarrollen.
+Apartado dos. Naturaleza del impuesto.
+El Impuesto sobre el Valor de la Producción de la Energía Eléctrica es un tributo de carácter directo y naturaleza real que grava la realización de actividades de producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, a través de cada una de las instalaciones indicadas en el apartado cuatro.
+Apartado tres. Exacción del impuesto.
+De conformidad con lo establecido en el artículo 31 bis del Convenio Económico, la exacción del impuesto corresponderá a la Comunidad Foral cuando las instalaciones de producción de energía eléctrica radiquen en Navarra.
+Cuando la instalación esté situada en territorio navarro y en territorio común, la exacción del impuesto corresponderá a la Administración competente para su autorización.
+Los pagos a cuenta de este impuesto se exigirán por una u otra Administración, según los criterios contenidos en los párrafos anteriores.
+Apartado cuatro. Hecho imponible.
+1. Constituye el hecho imponible la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, en cualquiera de las instalaciones a las que se refiere la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+2. La producción en barras de central, a efectos de este artículo, se corresponderá con la energía medida en bornes de alternador minorada en los consumos auxiliares en generación y en las pérdidas hasta el punto de conexión a la red.
+3. Respecto a los conceptos y términos con sustantividad propia que aparecen en este artículo, salvo los definidos en él, se estará a lo dispuesto en la normativa del sector eléctrico de carácter estatal.
+Apartado cinco. Contribuyentes.
+Son contribuyentes del impuesto las personas físicas o jurídicas y las entidades a que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, que realicen las actividades señaladas en el apartado Cuatro de este artículo.
+Apartado seis. Período impositivo y devengo.
+1. El período impositivo coincidirá con el año natural, salvo en el supuesto de cese del contribuyente en el ejercicio de la actividad en la instalación, en cuyo caso finalizará el día en que se entienda producido dicho cese.
+2. El impuesto se devengará el último día del período impositivo.
+Apartado siete. Base imponible.
+1. La base imponible del impuesto estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica, medida en barras de central, por cada instalación, en el período impositivo.
+A estos efectos, en el cálculo del importe total se considerarán las retribuciones previstas en todos los regímenes económicos que se deriven de lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, en el período impositivo correspondiente, así como las previstas en el régimen económico específico para el caso de actividades de producción e incorporación al sistema eléctrico de energía eléctrica en los territorios insulares y extrapeninsulares.
+Cuando se realicen operaciones entre personas o entidades vinculadas, conforme a lo dispuesto en la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades, la retribución no podrá ser inferior al valor de mercado. Se entenderá por valor de mercado aquel que se habría acordado por personas o entidades independientes en condiciones que respeten el principio de libre competencia. A estos efectos, para la determinación del valor de mercado se aplicará cualquiera de los métodos recogidos en la Ley Foral 26/2016, de 28 de diciembre.
+2. La base imponible definida en este apartado se determinará para cada instalación en la que se realicen las actividades señaladas en el apartado Cuatro de este artículo.
+Apartado ocho. Tipo de gravamen.
+El impuesto se exigirá al tipo del 0 por 100.
+Téngase en cuenta que esta última actualización del apartado ocho, establecida por el art. 4.2 del Decreto Foral Legislativo 2/2026, de 29 de julio, Ref. BOE-A-2026-17838, producirá efectos el 1 de enero de 2028.
+ Desde el 1 de enero de 2027 hasta el 31 de diciembre de 2027, el apartado ocho tendrá la siguiente redacción, según establece el art. 4.1 del citado Decreto Foral Legislativo:
+ «Apartado Ocho. Tipo de gravamen.
+ El impuesto se exigirá al tipo del 3,5 por 100.»
+ Y hasta el 31 de diciembre de 2026, se mantiene con la redacción anterior:
+ «Apartado Ocho. Tipo de gravamen.
+ El impuesto se exigirá al tipo del 7 por 100.»
+Apartado nueve. Cuota íntegra.
+La cuota íntegra es la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+Apartado diez. Liquidación y pago.
+1. Los contribuyentes estarán obligados a autoliquidar el impuesto e ingresar la cuota dentro del mes de noviembre posterior al de devengo del impuesto, de conformidad con las normas y modelos que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo. A estos efectos deberán tenerse en cuenta las medidas definitivas de la producción eléctrica.
+2. Entre el día 1 y el 20 de los meses de mayo, septiembre, noviembre y febrero del año siguiente, los contribuyentes que realicen el hecho imponible deberán efectuar un pago fraccionado correspondiente al período de los tres, seis, nueve o doce meses de cada año natural, de acuerdo con las normas y modelos que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo.
+3. Los pagos fraccionados se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada desde el inicio del período impositivo hasta la finalización de los tres, seis, nueve o doce meses a que se refiere el número 2 anterior, aplicándose el tipo impositivo previsto en el apartado Ocho y deduciendo el importe de los pagos fraccionados previamente realizados.
+A estos efectos, se tomará como valor de la producción el importe total que corresponda percibir por el contribuyente, por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación en el correspondiente período.
+No obstante, cuando el valor de la producción, incluidas todas las instalaciones, no supere 500.000 euros en el año natural anterior, los contribuyentes estarán obligados a efectuar exclusivamente el pago fraccionado cuyo plazo de liquidación está comprendido entre el día 1 y 20 del mes de noviembre.
+Tratándose de contribuyentes que hubieran desarrollado la actividad por un plazo inferior al año natural durante el año anterior, el valor de la producción se elevará al año.
+4. En caso de inicio de la actividad con posterioridad a 1 de enero, los pagos fraccionados a cuenta de la liquidación correspondiente al período impositivo que esté en curso se realizarán, en su caso, en el plazo de liquidación correspondiente al trimestre en el que el valor de la producción calculado desde el inicio del período impositivo supere los 500.000 euros, incluidas todas las instalaciones.
+5. Si el importe total que corresponda percibir al contribuyente no resultara conocido en el momento de la realización de los pagos fraccionados, el contribuyente deberá fijarlo provisionalmente en función de la última liquidación provisional realizada por el operador del sistema y, en su caso, por la Comisión Nacional de Energía, con anterioridad al inicio del plazo de realización del pago correspondiente.
+Apartado once. Infracciones y sanciones.
+Las infracciones tributarias relativas a este impuesto serán calificadas y sancionadas de conformidad con lo previsto en la Ley Foral 13/2000, de 14 de diciembre, General Tributaria.
+Apartado doce. Disposición transitoria única. Autoliquidación y pago fraccionado a realizar en noviembre de 2015 por determinados contribuyentes.
+Los contribuyentes que en el periodo impositivo de 2014 hayan sido titulares o cotitulares de instalaciones de producción de energía eléctrica de carácter renovable situadas en Navarra, cuya potencia instalada nominal no superase los 100 kW por instalación, y que en el año 2015 sigan siendo titulares o cotitulares de ellas, solamente deberán efectuar el pago fraccionado, relativo a dichas instalaciones, cuyo plazo de liquidación esté comprendido entre el día 1 y 20 del mes de noviembre del año 2015.
+Por el contrario, esos mismos contribuyentes no deberán ingresar la cuota correspondiente a la autoliquidación de los meses de octubre, noviembre y diciembre del período impositivo de 2014.
+Apartado trece. Disposición adicional primera. Determinación de la base imponible y del importe de los pagos fraccionados del Impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2018.
+Para el ejercicio 2018 la base imponible del impuesto sobre el valor de la producción de la energía eléctrica estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación en el periodo impositivo minorada en las retribuciones correspondientes a la electricidad incorporada al sistema durante el último trimestre natural.
+Los pagos fraccionados del último trimestre se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada durante el periodo impositivo minorado en las retribuciones correspondientes a la electricidad incorporada al sistema durante el último trimestre natural, aplicándose el tipo impositivo previsto en el apartado ocho de este artículo.
+Apartado catorce. Disposición adicional segunda. Determinación de la base imponible y del importe de los pagos fraccionados del Impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2019.
+Para el ejercicio 2019 la base imponible del impuesto sobre el valor de la producción de la energía eléctrica estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación en el periodo impositivo minorada en las retribuciones correspondientes a la electricidad incorporada al sistema durante el primer trimestre natural.
+Los pagos fraccionados se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada durante el periodo impositivo minorado en las retribuciones correspondientes a la electricidad incorporada al sistema durante el primer trimestre natural, aplicándose el tipo impositivo previsto en el apartado ocho de este artículo
+Se modifica el apartado 8, con efectos de 1 de enero de 2028, y se establece que, desde el 1 de enero de 2027 hasta el 31 de diciembre de 2027, el tipo de gravamen será del 3,5 por 100, y se mantiene el tipo de gravamen del 7 por 100 de la redacción anterior hasta el 31 de diciembre de 2026, según establece el art. 4.1 y 2 del Decreto Foral Legislativo 2/2026, de 29 de julio. Ref. BOE-A-2026-17838
+ Se modifica, con efectos desde el 27 de junio de 2022, el apartado 7.1 por el art. 1 del Decreto Foral Legislativo 4/2022, de 5 de julio. Ref. BOE-A-2022-13476#ap
+ Se añaden los apartados 13 y 14, con efectos de 7 de octubre de 2018, por el art. 2.1 del Decreto Legislativo 2/2018, de 28 de noviembre. Ref. BOE-A-2019-401
+
+### Artículo segundo
+
+Artículo segundo. Impuesto sobre los Gases Fluorados de Efecto Invernadero.
+Uno. Régimen jurídico y normativa aplicable.
+El Impuesto sobre los Gases Fluorados de Efecto Invernadero se exigirá por la Comunidad Foral con sujeción a lo establecido en el artículo 36 del Convenio Económico y de conformidad con lo dispuesto en el presente artículo y en las disposiciones que lo desarrollen.
+Dos. Naturaleza del impuesto.
+El Impuesto sobre los Gases Fluorados de Efecto Invernadero es un tributo de naturaleza indirecta que recae sobre la utilización en el territorio español de dichos gases.
+Tres. Ámbito objetivo.
+A los efectos de este impuesto, tienen la consideración de “gases fluorados de efecto invernadero”: los hidrofluorocarburos (HFC), perfluorocarburos (PFC) y el hexafluoruro de azufre (SF6) que figuran en el anexo I del Reglamento (UE) n.º 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n.º 842/2006, así como las mezclas que contengan cualquiera de esas sustancias.
+Cuatro. Definiciones.
+1. A efectos de este Impuesto se entenderá por:
+a) “Adquisición intracomunitaria”: La obtención del poder de disposición sobre los gases objeto del impuesto expedidos o transportados al territorio de aplicación del impuesto, excepto Canarias, Ceuta y Melilla, con destino al adquirente, desde otro Estado miembro de la Unión Europea, por el transmitente, el propio adquirente o un tercero en nombre y por cuenta de cualquiera de los anteriores.
+Se considerarán, asimismo, operaciones asimiladas a las adquisiciones intracomunitarias la recepción de los gases objeto del impuesto por su propietario en el territorio de aplicación del impuesto, excepto Canarias, Ceuta y Melilla, cuyo envío haya realizado él desde otro Estado miembro.
+b) “Almacenista de gases fluorados”: La persona física o jurídica o entidad a la que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, autorizada por la oficina gestora, en los términos que reglamentariamente se establezcan, a adquirir los gases objeto del impuesto con aplicación del régimen previsto en el apartado ocho.4.
+c) “Destrucción”: Proceso de transformación o descomposición permanente de la totalidad o de la mayor parte de un gas fluorado de efecto invernadero en una o más sustancias estables que no sean gases fluorados de efecto invernadero.
+d) “Equipo militar”: Armas, municiones y material de guerra destinados específicamente a fines militares, que resultan necesarios para la protección de intereses fundamentales de seguridad de los Estados miembros.
+e) “Fabricación”: La obtención de productos objeto del impuesto.
+No tendrá la consideración de fabricación la realización de operaciones de reciclado y regeneración de gases fluorados de efecto invernadero. Tampoco tendrá la consideración de fabricación la obtención de mezclas.
+f) “Importación”: Tendrán esta consideración las siguientes operaciones:
+1.º) La entrada en el territorio de aplicación del impuesto distinto de Ceuta y Melilla de los productos objeto del mismo procedentes de territorios no comprendidos en el territorio aduanero de la Unión, cuando dé lugar al despacho a libre práctica de los mismos de conformidad con el artículo 201 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión.
+2.º) La entrada en Canarias de los productos objeto del impuesto procedentes de territorios comprendidos en el territorio aduanero de la Unión que no formen parte del territorio de aplicación del impuesto, cuando dicha entrada hubiese dado lugar a un despacho a libre práctica si los productos objeto del impuesto procedieran de territorios no comprendidos en el territorio aduanero de la Unión.
+3.º) La entrada en Ceuta y Melilla de los productos objeto del impuesto procedentes de territorios que no formen parte del territorio de aplicación del impuesto, cuando dicha entrada hubiese dado lugar a un despacho a libre práctica si en dichas ciudades resultara de aplicación el Reglamento (UE) n.º 952/2013.
+g) “Mezcla”: Un fluido compuesto de dos o más sustancias, de las cuales al menos una es una sustancia enumerada en el anexo I del Reglamento (UE) n.º 517/2014.
+h) “Oficina gestora”: El órgano de la Hacienda Foral de Navarra que sea competente en materia de gestión del Impuesto sobre los Gases Fluorados de Efecto Invernadero.
+i) “Potencial de calentamiento atmosférico” o “PCA”: Potencial de calentamiento climático de un gas de efecto invernadero respecto al del dióxido de carbono (CO2), calculado en términos de potencial de calentamiento a lo largo de cien años de 1 kilogramo de gas de efecto invernadero respecto al de 1 kilogramo de CO2, según lo dispuesto en el anexo I del Reglamento (UE) n.º 517/2014. El PCA de una mezcla se calcula como la media ponderada de la suma de las fracciones en peso de cada uno de los gases fluorados objeto del impuesto multiplicados por sus PCA.
+j) “Reciclaje”: El tratamiento en el territorio de aplicación del impuesto de gases fluorados de efecto invernadero mediante procedimiento básico de limpieza.
+k) “Regeneración”: El tratamiento y mejora en el territorio de aplicación del impuesto de gases fluorados de efecto invernadero recuperados mediante procedimientos o tratamientos físico-químicos para restablecer los niveles conformes a la norma de las cualidades técnicas del gas fluorado.
+l) “Tenencia irregular”: La posesión, comercialización, transporte o utilización de gases objeto del impuesto cuando quien posea, comercialice, transporte o utilice dichos gases no acredite haber realizado su fabricación, importación, adquisición intracomunitaria o su adquisición en el ámbito territorial de aplicación del impuesto o que dichos gases se encuentran bajo vigilancia aduanera de conformidad con el Reglamento (UE) n.º 952/2013.
+m) “Territorio tercero”: Aquel no comprendido en el ámbito territorial de aplicación del impuesto.
+2. Respecto a los conceptos y términos con sustantividad propia que aparecen en este artículo, salvo los definidos en este apartado, se estará a lo dispuesto en la normativa de la Unión Europea y de carácter estatal relativa a los gases fluorados de efecto invernadero.
+Cinco. Hecho imponible.
+1. Está sujeta al impuesto la fabricación, importación, adquisición intracomunitaria o tenencia irregular de los gases fluorados de efecto invernadero.
+2. El hecho imponible se entenderá realizado tanto si dichos gases se presentan contenidos en envases o como incorporados en productos, equipos o aparatos.
+Seis. Supuestos de no sujeción.
+1. No estará sujeta al impuesto:
+a) La fabricación, importación, adquisición intracomunitaria o tenencia irregular en el territorio de aplicación del impuesto de los gases objeto del impuesto con un PCA igual o inferior a 150.
+b) La fabricación de aquellos gases objeto del impuesto que se destinen a ser enviados directamente por el fabricante, o por un tercero en su nombre o por su cuenta, a un territorio distinto al de aplicación del impuesto.
+c) El envío fuera del ámbito territorial de aplicación del impuesto de los gases fluorados de efecto invernadero a los que se haya aplicado el régimen previsto en el apartado ocho.4.
+2. La efectividad de lo previsto en el número 1.b) y c) quedará condicionada a que se acredite la realidad de la salida efectiva de los gases objeto del impuesto del territorio de aplicación del impuesto.
+Siete. Exenciones.
+1. Estarán exentas en las condiciones que, en su caso, reglamentariamente se establezcan:
+a) La fabricación, importación o adquisición intracomunitaria de los gases objeto del impuesto que se destinen a ser utilizados como materia prima para su transformación química en un proceso en el que estos gases son enteramente alterados en su composición. Estos gases deberán estar etiquetados indicando que se destinan para tal fin conforme con lo dispuesto en el artículo 12 del Reglamento (UE) n.º 517/2014.
+b) La importación o adquisición intracomunitaria de los gases objeto del impuesto que se destinen a ser comercializados para su destrucción. Deberán estar etiquetados con la indicación de que el contenido del recipiente está exclusivamente destinado a su destrucción conforme a lo establecido en el artículo 12 del Reglamento (UE) n.º 517/2014.
+c) La fabricación, importación o adquisición intracomunitaria de los gases objeto del impuesto que se destinen a ser usados en equipos militares. Deberán estar etiquetados con la indicación de que el contenido del recipiente está exclusivamente destinado a ese fin conforme a lo establecido en el artículo 12 del Reglamento (UE) n.º 517/2014.
+d) La adquisición intracomunitaria de los gases objeto del impuesto y que, con anterioridad a la finalización del plazo de presentación de la autoliquidación del impuesto correspondiente a dicho hecho imponible, se destinen a ser enviados directamente por el adquirente intracomunitario, o por un tercero en su nombre o por su cuenta, a un territorio distinto al de aplicación del impuesto.
+La efectividad de esta exención quedará condicionada a que se acredite la realidad de la salida efectiva de los productos del territorio de aplicación del impuesto.
+e) La importación o adquisición intracomunitaria de gases objeto del impuesto contenidos en los productos que formen parte del equipaje personal de los viajeros procedentes de un territorio tercero, siempre que no constituyan una expedición comercial.
+No se considerará que forman parte del equipaje personal de los viajeros aquellos recipientes que contengan gases objeto del impuesto destinados a hacer recargas en equipos o aparatos.
+Se considerará que los productos conducidos por los viajeros no constituyen una expedición comercial cuando se trate de bienes adquiridos ocasionalmente, que se destinen al uso personal o familiar de los viajeros o a ser ofrecidos como regalos y que, por su naturaleza y cantidad, no pueda presumirse que sean el objeto de una actividad comercial.
+f) La fabricación, importación o adquisición intracomunitaria de gases objeto del impuesto destinados a ser incorporados en los buques o aeronaves que realicen navegación marítima o aérea internacional, excluida la privada de recreo.
+Los contribuyentes que realicen la primera entrega o puesta a disposición de los gases objeto del impuesto a favor de los adquirentes deberán recabar de estos una declaración previa en la que manifiesten el destino de dichos productos. Dicha declaración se deberá conservar durante los plazos de prescripción relativos al impuesto a que se refiere el artículo 55 de la Ley Foral 13/2000, de 14 de diciembre.
+2. La efectividad de las exenciones a que se refieren las letras a), b), c) y f) del número 1 quedará condicionada a que se acredite el destino efectivo dado a dichos gases.
+Ocho. Devengo.
+1. En los supuestos de fabricación, el devengo del impuesto se producirá en el momento en que se realice la primera entrega o puesta a disposición a favor del adquirente, en el territorio de aplicación del impuesto, de los gases objeto del impuesto por el fabricante o, en su caso, cuando el fabricante utilice los gases objeto del impuesto fabricados por él.
+No obstante lo dispuesto en el párrafo anterior, si se realizan pagos anticipados anteriores a la realización del hecho imponible, el impuesto se devengará en el momento del cobro total o parcial del precio por los importes efectivamente percibidos.
+Se presumirá, salvo prueba en contrario, que la diferencia en menos de existencias de gases objeto del impuesto fabricados se debe a que han sido objeto de utilización, de entrega o de puesta a disposición, en el territorio de aplicación del impuesto por parte del fabricante. En este caso, el devengo se producirá en el momento del descubrimiento de la diferencia, salvo prueba en contrario.
+2. En los supuestos de importación, el devengo del impuesto se producirá en el momento en que hubiera tenido lugar el devengo de los derechos de importación, de acuerdo con la legislación aduanera, independientemente de que dichas importaciones estén o no sujetas a los mencionados derechos de importación.
+3. En los supuestos de adquisiciones intracomunitarias, el devengo del impuesto se producirá el día 15 del mes siguiente a aquel en el que se inicie la expedición o el transporte de los gases objeto del impuesto con destino al adquirente, salvo que con anterioridad a dicha fecha se expida la factura por dichas operaciones, en cuyo caso el devengo del impuesto tendrá lugar en la fecha de expedición de la misma.
+4. No obstante lo establecido en los números anteriores, cuando tras la fabricación de los gases objeto del impuesto estos sean objeto de entrega o puesta a disposición a un almacenista de gases fluorados, o cuando el fabricante, importador o el adquirente intracomunitario tenga la condición de almacenista, el devengo del impuesto se producirá en el momento en el que este último realice la entrega o puesta a disposición a quien no ostente tal condición o cuando se realice la utilización de los gases.
+Para la aplicación de lo dispuesto en el párrafo anterior el almacenista de gases fluorados deberá acreditar dicha condición ante el vendedor de los gases objeto del impuesto o ante la aduana de importación mediante la aportación de la correspondiente autorización de la oficina gestora.
+Se presumirá, salvo prueba en contrario, que la diferencia en menos de existencias de gases objeto del impuesto recibidos se debe a que los mismos han sido objeto de utilización por el almacenista, de entrega o de puesta a disposición por este, en el territorio de aplicación del impuesto a quien no ostenta la condición de almacenista. En este caso, el devengo se producirá en el momento del descubrimiento de la diferencia, salvo prueba en contrario.
+5. En los supuestos de tenencia irregular, el devengo del impuesto se producirá en el momento en el que se constate dicha tenencia irregular, salvo prueba en contrario.
+Nueve. Contribuyentes y demás obligados tributarios.
+1. En los supuestos comprendidos en el apartado cinco.1, son contribuyentes del impuesto las personas físicas o jurídicas y entidades a las que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, que realicen la fabricación, importación o adquisición intracomunitaria de los gases objeto del impuesto.
+Se considerarán importadores quienes ostenten dicha condición conforme a lo establecido en el artículo 86 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+2. No obstante lo anterior, en los supuestos del apartado ocho.4, son contribuyentes del impuesto los almacenistas de gases fluorados.
+3. En los casos de tenencia irregular de los gases objeto del impuesto será contribuyente quien posea, comercialice, transporte o utilice dichos gases.
+4. En los supuestos de irregularidades en relación con la justificación del uso o destino dado a los gases objeto del impuesto que se han beneficiado de una exención en razón de su destino, estarán obligados al pago del Impuesto y de las sanciones que pudieran imponerse los contribuyentes, en tanto no justifiquen la recepción de los productos por el adquirente facultado para recibirlos mediante la aportación de la declaración previa a la que se refiere el apartado ocho; a partir de tal recepción, la obligación recaerá sobre los adquirentes.
+Diez. Base imponible.
+1. La base imponible estará constituida por el peso de los gases objeto del impuesto, expresada en kilogramos.
+2. No obstante lo anterior, en el caso de productos, equipos o aparatos que contengan gases que forman parte del ámbito objetivo del impuesto, y no se disponga de los datos necesarios para la determinación de la base imponible conforme a lo dispuesto en el número anterior, se presumirá, salvo prueba en contrario que la cantidad de gas contenida en ellos es la siguiente:
+a) Refrigeradores y congeladores domésticos: 0,250 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+b) Compartimentos industriales e instalaciones comerciales de refrigeración: 1,5 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+c) Compartimentos industriales e instalaciones comerciales de congelación: 2,5 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+d) Equipos de aire acondicionado portátiles: 0,250 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+e) Equipos de refrigeración para sistemas de aire acondicionado de edificios, bombas de calor y deshumidificadores: 0,500 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+f) Aire acondicionado para vehículos de turismo: 0,600 kilogramos por vehículo.
+g) Aire acondicionado para furgonetas, camiones y carretillas transportadoras elevadoras: 1 kilogramo por vehículo.
+h) Aire acondicionado para caravanas, autocaravanas y vehículos especiales: 2 kilogramos por vehículo.
+i) Aire acondicionado para autobuses o autocares: 5 kilogramos por vehículo.
+j) Aerosoles con capacidad total igual o inferior a 250 mililitros: 0,125 kilogramos por envase.
+k) Aerosoles con capacidad total igual o inferior a 500 mililitros y superior a 250 mililitros: 0,250 kilogramos por envase.
+l) Aerosoles con capacidad total superior a 500 mililitros e igual o inferior a 1.000 mililitros: 0,5 kilogramos por envase.
+m) Puertas y portones aislados: 0,25 kilogramos por m2.
+n) Espuma sellante: 500 gramos por kilogramo de producto.
+ñ) Poliestireno extruido para aislamiento: 2,5 kilogramos por m3.
+o) Paneles para cámaras frigoríficas y congeladores: 6 kilogramos por m3.
+p) Tanques de enfriamiento de leche, sistema de refrigeración indirecta: 1 kilogramo por cada unidad de potencia de refrigeración expresada en kW.
+q) Tanques de enfriamiento de leche, sistema de expansión directa: 2 kilogramos por cada unidad de potencia de refrigeración expresada en kW.
+Once. Tipo Impositivo.
+El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico que corresponda a cada gas objeto del impuesto en el momento de realización del hecho imponible de acuerdo con la normativa vigente en dicho momento, con el límite máximo de 100 euros por kilogramo.
+En el caso de productos, equipos o aparatos que contengan gases objeto del impuesto y se desconozca su potencial de calentamiento atmosférico, se presumirá, salvo prueba en contrario, que el tipo impositivo a aplicar es de 100 euros por kilogramo.
+Doce. Cuota íntegra.
+La cuota íntegra es la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+Trece. Deducciones.
+1. En la autoliquidación correspondiente a cada periodo de liquidación en que se produzcan las circunstancias siguientes, y en las condiciones que, en su caso, reglamentariamente se establezcan, los contribuyentes podrán minorar de las cuotas devengadas del impuesto en dicho periodo el importe del impuesto pagado respecto de los gases que hayan sido enviados por el contribuyente, o por un tercero en su nombre o por su cuenta, fuera del territorio de aplicación del impuesto.
+La aplicación de la deducción recogida en este apartado quedará condicionada a que el envío de los gases fuera del territorio de aplicación del impuesto sea probado ante Hacienda Foral de Navarra por cualquiera de los medios de prueba admisibles en derecho, así como a la acreditación del pago del impuesto.
+2. Cuando la cuantía de las deducciones procedentes conforme al número 1 supere el importe de las cuotas devengadas en un periodo de liquidación, el exceso podrá ser compensado en las autoliquidaciones posteriores, siempre que no hayan transcurrido cuatro años contados a partir de la finalización del periodo de liquidación en el que se produjo dicho exceso.
+Catorce. Devoluciones.
+1. Tendrán derecho a solicitar la devolución del importe del impuesto pagado en las condiciones que, en su caso, reglamentariamente se establezcan:
+a) Los importadores de los gases objeto del impuesto que hayan sido enviados por ellos, o por un tercero en su nombre o por su cuenta, fuera del territorio de aplicación del impuesto.
+b) Los adquirentes de los gases objeto del impuesto que, no ostentando la condición de contribuyentes, acrediten el envío de los mismos fuera del territorio de aplicación de aquel.
+c) Los adquirentes de los gases objeto del impuesto que, no ostentando la condición de contribuyentes, acrediten que el destino de dichos gases es el que hubiera dado lugar a la aplicación de la exención recogida en el apartado siete.1.f).
+2. La efectividad de las devoluciones recogidas en el número anterior quedará condicionada a que la existencia de los hechos enumerados en las letras de aquel sea probada ante la Hacienda Foral de Navarra por cualquiera de los medios de prueba admisibles en derecho, así como a la acreditación del pago del impuesto.
+3. En los términos que, en su caso, reglamentariamente se establezcan, los contribuyentes cuyas cuantías de deducción superen el importe de las cuotas devengadas en el último período de liquidación del año natural tendrán derecho a solicitar la devolución del saldo existente a su favor en la autoliquidación correspondiente a dicho período de liquidación.
+Quince. Normas generales de gestión.
+1. Los contribuyentes estarán obligados a autoliquidar e ingresar el impuesto. El periodo de liquidación coincidirá con el trimestre natural.
+No obstante, en las importaciones, el impuesto se liquidará en la forma prevista para la deuda aduanera según lo dispuesto en la normativa aduanera.
+2. La persona titular del Departamento competente en materia tributaria establecerá los modelos, plazos, requisitos y condiciones para la presentación de las autoliquidaciones a que se refiere el número anterior y, en su caso, para la solicitud de las devoluciones del impuesto.
+3. En los términos que se determinen reglamentariamente, los contribuyentes que realicen la fabricación, importación o adquisición intracomunitaria de los gases objeto del impuesto, así como los almacenistas de los mismos, estarán obligados a inscribirse en el Registro territorial del Impuesto sobre los Gases Fluorados de Efecto Invernadero. Reglamentariamente se establecerá el contenido de dicho Registro, así como los procedimientos para la inscripción, baja y revocación.
+La inscripción deberá efectuarse con anterioridad al inicio de la actividad y, si se trata de actividades ya iniciadas a la entrada en vigor de este artículo, durante el mes siguiente a la entrada en vigor de la regulación del citado registro.
+4. Sin perjuicio de las obligaciones contables establecidas por las normas mercantiles y otras normas fiscales, los contribuyentes que realicen la fabricación de los gases objeto del impuesto, los almacenistas y, en su caso, determinados importadores o adquirentes intracomunitarios de dichos gases, deberán llevar una contabilidad por medios electrónicos de los mismos, y, en su caso, de las materias primas necesarias para su obtención.
+Reglamentariamente se determinarán los supuestos en los que no es preciso el cumplimiento de la obligación anterior, así como los requisitos de la llevanza de dicha contabilidad.
+5. Los contribuyentes no establecidos en territorio español estarán obligados a nombrar una persona física o jurídica para que les represente ante la Administración tributaria en relación con sus obligaciones por este impuesto, y a efectuar dicho nombramiento, debidamente acreditado, con anterioridad a la realización de la primera operación que constituya el hecho imponible de este impuesto.
+Las personas físicas o jurídicas que representen a los contribuyentes no establecidos en el territorio de aplicación del impuesto, con las excepciones que reglamentariamente se establezcan, deberán inscribirse en el Registro territorial del Impuesto sobre los Gases Fluorados de Efecto Invernadero durante el mes siguiente a la entrada en vigor de la normativa reguladora del citado registro.
+Dieciséis. Infracciones y sanciones.
+1. Sin perjuicio de las disposiciones especiales previstas en este apartado, las infracciones tributarias del incumplimiento de la normativa reguladora de este impuesto se calificarán y sancionarán conforme a lo establecido en la Ley Foral 13/2000, de 14 de diciembre, y demás normas de desarrollo.
+2. Constituirán infracciones tributarias:
+a) El incumplimiento de la obligación de inscripción en el Registro territorial del Impuesto sobre los Gases Fluorados de Efecto Invernadero prevista en el apartado quince.3 y 5.
+b) El incumplimiento de la obligación de nombramiento de un representante por los contribuyentes no establecidos en el territorio de aplicación del impuesto prevista en el apartado quince.5.
+c) La existencia de diferencias en menos de los gases objeto del impuesto en los fabricantes o en los almacenistas de gases fluorados a los que se haya aplicado lo previsto en el apartado ocho.4.
+d) El disfrute indebido por parte de los adquirentes de los gases objeto del impuesto de las exenciones recogidas en el apartado siete cuando, en su caso, no se justifique el destino efectivo de los gases en virtud del cual se aplicó la correspondiente exención.
+3. Las infracciones contenidas en el número 1 serán graves y se sancionarán con arreglo a las siguientes normas:
+a) Las establecidas en el número 2.a) y b), con una multa pecuniaria fija de 1.500 euros.
+b) La establecida en el número 2.c), con una multa pecuniaria proporcional del 100 por ciento del importe de la cuota que hubiese correspondido a dichos gases.
+c) La establecida en el número 2.d), con una multa pecuniaria proporcional del 150 por ciento del beneficio fiscal indebidamente disfrutado, con un importe mínimo de 1.000 euros.
+4. A las sanciones previstas en este apartado les serán de aplicación, en su caso, las reducciones previstas en el artículo 71 de la Ley Foral 13/2000, de 14 de diciembre.
+Diecisiete. Comunicación del saldo de existencias, presentación de la correspondiente autoliquidación y régimen sancionador derivado del incumplimiento de dichas obligaciones.
+Los fabricantes de gases fluorados y quienes tengan la condición de revendedores conforme a lo dispuesto en el apartado cinco.8 de este artículo en su redacción anterior, deberán comunicar a la Hacienda Foral de Navarra, durante el mes de septiembre de 2022, la cantidad de gases fluorados existentes en sus instalaciones a la fecha de 1 de septiembre de 2022.
+En las condiciones señaladas en el párrafo anterior también deberán efectuar la comunicación los empresarios que destinan los gases fluorados de efecto invernadero a su incorporación por primera vez a equipos o aparatos nuevos, y se benefician de la exención prevista en el apartado Siete.1.d) de este artículo segundo en su redacción anterior.
+Constituye infracción tributaria grave no presentar en plazo, o presentar de forma incompleta, inexacta o con datos falsos la comunicación anterior. La sanción consistirá en sanción pecuniaria fija de 500 euros y le serán de aplicación las reducciones previstas en el artículo 71 de la Ley Foral 13/2000, de 14 de diciembre.
+En los términos que reglamentariamente se establezcan, los revendedores que no ostenten la condición de almacenistas deberán presentar, en el periodo comprendido desde el 1 de septiembre hasta el 30 de noviembre de 2022, una autoliquidación con las cuotas correspondientes a las existencias de gases fluorados habidos en sus instalaciones a fecha 1 de septiembre de 2022, y efectuar simultáneamente el pago de la deuda tributaria resultante.
+Dieciocho. Régimen especial para el hexafluoruro de azufre utilizado en la fabricación de sistemas eléctricos.
+Hasta el 31 de diciembre de 2023 estará exenta, en los términos que reglamentariamente se determinen, la fabricación, importación o adquisición intracomunitaria de hexafluoruro de azufre destinado a la fabricación de productos eléctricos. Deberán estar etiquetados con la indicación de que el contenido del recipiente está exclusivamente destinado a ese fin conforme a lo establecido en el artículo 12 del Reglamento (UE) n.º 517/2014.
+Diecinueve. Régimen especial para los gases objeto del impuesto destinados a ser utilizados en inhaladores dosificadores para el suministro de ingredientes farmacéuticos.
+Hasta el 31 de diciembre de 2026 estará exenta, en los términos que reglamentariamente se determinen, la fabricación, importación o adquisición intracomunitaria de los gases objeto del impuesto que se destinen a ser utilizados en inhaladores dosificadores para el suministro de ingredientes farmacéuticos. Estos gases deberán estar etiquetados indicando que se destinan para tal fin conforme con lo dispuesto en el artículo 12 del Reglamento (UE) n.º 517/2014.
+Se modifica, con efectos desde el 1 de septiembre de 2022, por el art. único del Decreto Foral Legislativo 5/2022, de 31 de agosto. Ref. BOE-A-2022-15288
+ Se modifica por el art. 3 del Decreto Legislativo 2/2018, de 28 de noviembre. Ref. BOE-A-2019-401
+ Se modifica, con efectos de 1 de septiembre de 2018, el apartado once por el art. 3 del Decreto Foral Legislativo 1/2018, de 4 de julio. Ref. BOE-A-2018-10998
+ Se modifica el apartado dieciocho por el art. único del Decreto Foral Legislativo 3/2015, de 16 de diciembre. Ref. BOE-A-2016-33.
+
+### Artículo tercero
+
+Artículo tercero. Impuesto sobre los Depósitos en las Entidades de Crédito.
+Apartado uno. Régimen Jurídico y normativa aplicable.
+El Impuesto sobre los Depósitos en las Entidades de Crédito se exigirá por la Comunidad Foral con sujeción a lo establecido en el artículo 31 quáter del Convenio Económico y de conformidad con lo dispuesto en el presente artículo y en las disposiciones que lo desarrollen.
+Apartado dos. Naturaleza del impuesto.
+El Impuesto sobre los Depósitos en las Entidades de Crédito es un tributo de carácter directo que grava los depósitos constituidos en las entidades de crédito, en la forma y condiciones previstas en este artículo.
+Apartado tres. Exacción del impuesto.
+De conformidad con lo establecido en el artículo 31 quáter del Convenio Económico:
+1. La exacción del impuesto corresponderá a la Comunidad Foral cuando la sede central, sucursales u oficinas donde se mantengan los fondos de terceros estén situadas en su territorio.
+2. El impuesto correspondiente a los fondos mantenidos mediante sistemas de comercialización no presenciales y aquellos otros no susceptibles de territorialización se atribuirán a la Comunidad Foral en la proporción que le corresponda según su participación en los depósitos territorializados.
+3. Los pagos a cuenta del impuesto se exigirán por una u otra Administración conforme al criterio contenido en los números anteriores de este apartado.
+Apartado cuatro. Hecho imponible.
+Constituye el hecho imponible del impuesto el mantenimiento de fondos de terceros, cualesquiera que sea su naturaleza jurídica, por los contribuyentes señalados en el apartado Seis, y que comporten la obligación de restitución, a excepción de los fondos mantenidos en sucursales fuera del territorio español.
+Apartado cinco. Exenciones.
+Estarán exentos del impuesto:
+– El Banco de España y las autoridades de regulación monetaria.
+– El Banco Europeo de Inversiones.
+– El Banco Central Europeo.
+– El Instituto de Crédito Oficial.
+Apartado seis. Contribuyentes.
+Son contribuyentes del impuesto:
+a) Las entidades de crédito definidas en el artículo 1 de la ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+b) Las sucursales en territorio de la Comunidad Foral de entidades de crédito extranjeras.
+Apartado siete. Base imponible.
+La base imponible del impuesto está constituida por el importe resultante de promediar aritméticamente el saldo final de cada uno de los meses del año natural, con independencia de la duración del periodo impositivo, correspondiente a la partida 4 «Depósitos de la clientela» del pasivo del Balance reservado de las entidades de crédito, incluidos en los estados financieros individuales.
+A estos efectos, el saldo final se minorará en las cuantías de los «Ajustes por valoración» incluidos en las partidas 4.1.5, 4.2.5, 4.3.2 y 4.4.5.
+Los parámetros a que se refiere este apartado se corresponden con los definidos en el título II y en el anejo IV de la Circular 4/2004, de 22 de diciembre, del Banco de España, a entidades de crédito, sobre normas de información financiera pública y reservada y modelos de estados financieros, o norma que la sustituya.
+Cuando una entidad o una sucursal se extinga o cese en la actividad en territorio español antes del 31 de diciembre y transmita los depósitos sujetos a este impuesto a otro contribuyente, en el caso de que la transmisión de los depósitos se hubiera acordado con efectos contables a 1 de enero del año de la operación, estos depósitos solo deberán ser tenidos en consideración a efectos de este impuesto por el adquirente.
+Apartado ocho. Cuota tributaria.
+La cuota íntegra será el resultado de aplicar a la base imponible el tipo de gravamen del 0,03 por 100.
+La cuota diferencial se obtendrá como resultado de deducir de la cuota íntegra, en su caso, el pago a cuenta realizado.
+Apartado nueve. Periodo impositivo y devengo.
+El periodo impositivo será el año natural.
+No obstante, el periodo impositivo en que se produzca el inicio de la actividad en territorio de la Comunidad Foral abarcará desde la fecha de comienzo de la actividad hasta el final del año natural. En todo caso, el periodo impositivo concluirá cuando la entidad o sucursal se extinga o cese su actividad en el territorio de la Comunidad Foral.
+El impuesto se devengará el último día del periodo impositivo.
+Apartado diez. Autoliquidación.
+Los contribuyentes deberán presentar la autoliquidación del impuesto en el mes de julio del año siguiente al del periodo impositivo, en el lugar y forma que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo.
+Los contribuyentes deberán desagregar el importe resultante correspondiente a los fondos mantenidos mediante sistemas de comercialización no presenciales y a aquellos otros no susceptibles de territorialización.
+Apartado once. Obligación de realizar pago a cuenta.
+Los contribuyentes están obligados a presentar una autoliquidación de pago a cuenta en el mes de julio de cada ejercicio, correspondiente al periodo impositivo en curso, en el lugar y forma que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo, por importe del 50 por 100 de la cuota que resulte de aplicar el tipo de gravamen vigente en ese periodo impositivo a la base imponible del periodo impositivo anterior.
+Los contribuyentes deberán desagregar el importe del pago a cuenta resultante correspondiente a los fondos mantenidos mediante sistemas de comercialización no presenciales y a aquellos otros no susceptibles de territorialización.
+Apartado doce. Infracciones y sanciones.
+Las infracciones tributarias relativas a este impuesto serán calificadas y sancionadas de conformidad con lo previsto en la Ley Foral 13/2000, de 14 de diciembre, General Tributaria.
+Apartado Trece. Disposición transitoria única. Pago a cuenta de 2015.
+El importe del pago a cuenta correspondiente al periodo impositivo de 2015 será el 50 por ciento resultante de aplicar el tipo de gravamen vigente en 2015 a la base imponible del periodo impositivo de 2014, calculada con arreglo a lo previsto en este artículo.
+Apartado Catorce. Disposición derogatoria.
+Con efectos a partir del 1 de enero de 2015, queda derogada la Ley Foral 6/2014, de 14 de abril, del Impuesto sobre los Depósitos en las Entidades de Crédito.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+El Gobierno de Navarra y la persona titular del Departamento de Economía, Hacienda, Industria y Empleo dictarán cuantas disposiciones sean necesarias para el desarrollo y aplicación de esta ley foral.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta ley foral entrará en vigor el día de su publicación en el «Boletín Oficial de Navarra», con efectos a partir del día 1 de enero de 2015.
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S.M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 18 de marzo de 2015.
+La Presidenta del Gobierno de Navarra,
+Yolanda Barcina Angulo.

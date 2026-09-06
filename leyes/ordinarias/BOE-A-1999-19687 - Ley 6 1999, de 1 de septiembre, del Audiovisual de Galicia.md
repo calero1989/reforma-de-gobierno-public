@@ -1,0 +1,218 @@
+# Ley 6/1999, de 1 de septiembre, del Audiovisual de Galicia.
+
+- Identificador BOE: `BOE-A-1999-19687`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-19687
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Comunidad Autónoma de Galicia, en virtud de lo dispuesto por la Constitución Española en su título VIII, capítulo III, artículos 148.1.17.º y 149.1.27.º , 2 y 3; en el Estatuto de Autonomía de Galicia, título II, capítulo I, artículos 27.19, 32 y 34; en el Real Decreto 2434/1982, de 24 de julio; en las normas de aplicación de la Unión Europea incorporadas al ordenamiento jurídico español, como la Directiva 89/552/CEE, sobre coordinación de disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al ejercicio de actividades de radiodifusión televisiva, y el Convenio Europeo sobre televisión transfronteriza, hecho en Estrasburgo el 5 de mayo de 1989, y en los programas europeos de desarrollo y apoyo a la industria audiovisual, debe y tiene la potestad para legislar sobre esta materia en el ámbito de la Comunidad Autónoma de Galicia.
+Todos los elementos que conforman el campo del audiovisual están situándose en un primer plano dentro de los sectores industrial y económico en todo el mundo, generando en las últimas décadas un gran volumen de negocio y de empleo directo e indirecto, así como desarrollando de forma paralela nuevos sectores de la enseñanza universitaria, profesional y de investigación; por ello, dentro de la Comunidad Autónoma de Galicia, estos acontecimientos tienen que contemplarse y regularse por unas líneas fundamentales que puedan servir como marco normativo, para su posterior desarrollo reglamentario.
+Por otra parte, es necesario articular los mecanismos para que todos los gallegos puedan tener acceso a un sector audiovisual que favorezca el aumento y la mejora de sus capacidades y posibilidades de información y comunicación, objetivo promovido y apoyado por la Xunta de Galicia y sus departamentos, procurando una política coordinada que contribuya de un modo decisivo a la integración de la sociedad gallega en el contexto de la sociedad de la información europea.
+Asimismo, siempre con respecto a la libertad de expresión y creación, es preciso establecer unos principios inspiradores del sector audiovisual gallego que respeten los principios recogidos en la Constitución y en el Estatuto de autonomía, que serán armónicos con el marco legislativo vigente, y establezcan los cauces para el desarrollo de las competencias que en la materia corresponde a la Comunidad Autónoma.
+Por ello, teniendo en cuenta la importancia cultural y económica del sector audiovisual, es preciso que se estimule y potencie el crecimiento y desarrollo de este sector estratégico con la creación de un marco legal que permita a los ciudadanos expresarse con los medios oportunos dentro de nuestro espacio audiovisual y cultural.
+Se estima adecuado crear un consorcio de las diversas administraciones, autonómica, local e institucional, y de instituciones y empresas que una esfuerzos para la potenciación de la industria audiovisual gallega y que propicie la implicación y colaboración de otras administraciones, instituciones y empresas públicas y privadas para el mismo fin.
+Se quiere, a la vez, dar un impulso más al Consejo Asesor de las Telecomunicaciones y del Audiovisual de Galicia, por considerarlo un mecanismo que impulsa la sociedad de Galicia en la mejora y el prestigio de su sector audiovisual, creando la Comisión del Usuario, así como propiciando el autocontrol de los agentes del sector en el respeto a los principios que rigen su actividad, en orden al adecuado respeto del público destinatario de su actividad, a la vez que se establece la posibilidad de utilización de mecanismos arbitrales de resolución de conflictos que puedan surgir entre particulares.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.21 del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Xunta y de su Presidente, promulgo en nombre del Rey la Ley del Audiovisual de Galicia.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1. La presente Ley establece, en el ejercicio de las competencias que son propias a la Comunidad Autónoma, en el ámbito territorial de Galicia, los principios generales y las líneas de acción institucional en el sector audiovisual, así como sus mecanismos de fomento.
+2. Es objeto de la presente Ley regular la actividad cinematográfica y audiovisual (videograma) y el apoyo a la producción, comercialización y difusión de cine y vídeo gallegos, y en gallego, así como las relaciones de éstos con los otros medios audiovisuales.
+3. Los poderes públicos de Galicia reconocen la importancia cultural, económica y social de las actividades cinematográficas y del audiovisual, del papel que pueden desempeñar como creación artística, información, conocimiento e imagen de Galicia, en aras de la consecución de la normalización cultural y lingüística de Galicia, por lo cual los consideran sector estratégico y prioritario.
+4. Consecuentemente, los poderes públicos optan por fomentar la actividad cinematográfica y la producción audiovisual gallegas, su comercialización y difusión, asumiendo las competencias de estas actividades en Galicia, asegurando su cumplimiento y coordinando las relaciones entre cine, vídeo y televisión en Galicia y divulgando su conocimiento en el interior y el exterior.
+5. A los efectos de la presente Ley, se entiende por sector audiovisual el conjunto de actividades que utilizan como cauce de desarrollo y transmisión del mensaje los medios auditivos y visuales.
+6. Para los conceptos generales de largometraje, cortometraje, publicitario, comercial o videograma se toman como referencia las normas de transposición de las directivas de la Unión Europea.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley se aplica al sector audiovisual de Galicia, a aquellas empresas o personas que pretendan realizar actividades audiovisuales, a las que las instituciones de autogobierno de Galicia estimen susceptibles de recibir aportaciones para su fomento y, en general, a los contenidos audiovisuales, cualquiera que sea la tecnología que se utilice para su difusión en el territorio de Galicia.
+
+### Artículo 3
+
+Artículo 3. Ejercicio de las competencias propias de la Comunidad Autónoma de Galicia.
+1. Corresponde a la Xunta de Galicia, a través de su Gobierno y de la Consejería que tenga atribuidas las funciones en la materia objeto de la presente Ley, el fomento de todas las actividades relacionadas con la creación, producción, investigación y conservación de obras audiovisuales gallegas, así como la regulación de su difusión dentro de las normas básicas del Estado.
+2. Corresponde al Consejo de la Xunta de Galicia:
+a) La definición de la política general de la Xunta de Galicia en el campo del audiovisual.
+b) La aprobación de los reglamentos necesarios para el desarrollo de la presente Ley.
+c) La coordinación de las actividades de los órganos dependientes de la Consejería competente en el audiovisual con las de los restantes departamentos de la Xunta de Galicia, a través de una Comisión, cuya dependencia orgánica, composición y competencias se determinarán reglamentariamente.
+3. Corresponde a la Consejería competente en el audiovisual, en el ámbito de sus competencias:
+a) La propuesta de definición de la política general de la Xunta de Galicia en materia audiovisual.
+b) La ejecución de programas y acciones para el desarrollo del sector audiovisual.
+c) La elaboración del anteproyecto de presupuestos en materia audiovisual.
+d) La elaboración de los proyectos de reglamentos de desarrollo de la presente Ley.
+e) El control del cumplimiento de la normativa general del audiovisual en el ámbito de la Comunidad Autónoma de Galicia.
+
+### Artículo 4
+
+Artículo 4. Principios generales de la actividad audiovisual.
+Las actividades recogidas en la presente ley se basarán en los siguientes principios:
+a) El respeto y la defensa de los principios que informan la Constitución Española y el Estatuto de autonomía de Galicia y de los derechos y de las libertades que en ellos se reconocen y garantizan.
+b) La promoción y difusión de la cultura y lengua gallegas, así como la defensa de la identidad de Galicia.
+c) El fomento de la producción audiovisual propia y de emisiones que coadyuven a la proyección de Galicia hacia el exterior y de información a las comunidades gallegas del exterior.
+d) El reflejo del pluralismo ideológico, político, cultural y social de Galicia.
+e) El respeto a la dignidad humana, al honor, a la intimidad personal y a la propia imagen.
+f) La promoción activa de la igualdad entre hombres y mujeres, que incluye la igualdad de trato y de oportunidades, el respeto a la diversidad y a la diferencia, la integración de la perspectiva de género, el fomento de acciones positivas y el uso del lenguaje no sexista.
+g) La protección de la juventud y de la infancia.
+h) La objetividad, imparcialidad, veracidad y neutralidad informativa, así como el respeto a la libertad de expresión y a la formación de una opinión pública plural.
+i) La separación entre informaciones y opiniones, la identificación de quien sostiene estas últimas y su libre expresión dentro de los límites constitucionales y estatutarios.
+j) La garantía de la máxima continuidad en la prestación del servicio y la plena cobertura del conjunto del territorio.
+k) La búsqueda del desarrollo del sector audiovisual desde el punto de vista de la mejora de su contribución a la economía de la comunidad autónoma.
+l) La garantía del derecho de las personas con discapacidad al acceso de forma efectiva a los contenidos emitidos.
+m) La garantía de los derechos de los consumidores y usuarios en relación con la programación, la publicidad y las otras modalidades de promoción comercial.
+n) El fomento del conocimiento de los valores ecológicos y del respeto y protección del medio ambiente.
+Se modifica por la disposición final 3.1 de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Artículo 5
+
+Artículo 5. Principios generales de la acción institucional.
+1. La Xunta de Galicia reconoce el carácter estratégico y prioritario del sector audiovisual por su importancia cultural, social y económica, como instrumento para la expresión del derecho a la promoción y divulgación de la cultura de Galicia, de su historia y de su lengua, como datos de autoidentificación.
+2. Los poderes públicos de Galicia promoverán las actividades del sector audiovisual gallego, tanto público como privado, mediante mecanismos que fomenten su presencia.
+3. Los poderes públicos garantizan y promueven el pluralismo cultural en el audiovisual, potenciando el sector mediante el apoyo a iniciativas educativas, profesionales e industriales.
+4. Los poderes públicos impulsarán la producción propia de la programación de radio y televisión de forma que esta abarque la mayoría de los programas difundidos en los canales generalistas.
+Se modifica por la disposición final 3.2 de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Artículo 6
+
+Artículo 6. Líneas fundamentales de las acciones institucionales.
+La Administración de la Comunidad Autónoma de Galicia mantendrá las siguientes líneas fundamentales de actuación en el sector audiovisual:
+1. Impulsar la política integral de coordinación del sector audiovisual en Galicia, basada en las siguientes medidas:
+a) La coordinación entre los diferentes departamentos de la Xunta de Galicia y organismos dependientes.
+b) La coordinación en el conjunto de las administraciones públicas, organizaciones empresariales y profesionales y otras entidades relacionadas con el sector.
+c) La adopción de las medidas necesarias para la coordinación de las acciones de la Comunidad en materia audiovisual con las acciones que promuevan el Estado español y la Unión Europea en relación con el sector audiovisual.
+2. Favorecer la promoción de la cultura y lengua gallegas dentro y fuera de Galicia, en especial en aquellas zonas en que existan comunidades gallegas en el exterior.
+3. Promover la coordinación técnica en el sector audiovisual, facilitando el avance de las nuevas tecnologías.
+4. Conservar y potenciar el patrimonio audiovisual de Galicia.
+5. Favorecer la competencia y la presencia internacional de las empresas gallegas.
+6. Incentivar la producción propia de animación, con ayudas específicas a los establecimientos de producción, y la creación, en particular, por parte de los dibujantes y humoristas gallegos.
+7. Estudiar formas de apoyo a los establecimientos técnicos de Galicia que sirvan para desarrollar la actividad cinematográfica y audiovisual, de forma que se cubran las necesidades en este campo y se impulse la producción propia, capacitando en las técnicas apropiadas.
+
+### Artículo 7
+
+Artículo 7. Comunicaciones de interés público.
+(Derogado)
+Se deroga por la disposición derogatoria única.1.b) de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+## CAPÍTULO II
+
+Actividades de fomento del sector audiovisual
+
+### Artículo 8
+
+Artículo 8. De los objetivos de las actividades de fomento.
+Las acciones de fomento del sector audiovisual en Galicia tendrán los siguientes objetivos:
+a) Promover un mejor conocimiento de la historia, el arte, la literatura, la música, las producciones culturales y, en general, la realidad social gallega a través de las producciones cinematográficas y audiovisuales.
+b) Promover y potenciar la enseñanza del audiovisual y de las nuevas tecnologías interactivas en la práctica docente de la educación.
+c) Promover y potenciar la actividad profesional en el sector audiovisual dentro de su territorio.
+d) Fomentar la actividad empresarial y la creación de empleo en el sector audiovisual, especialmente de actores y actrices y de técnicos.
+e) Impulsar la producción propia de la programación de la radio y televisión de forma que esta abarque la mayoría de los programas difundidos en los canales generalistas.
+f) Producir, editar y difundir un conjunto de canales de radio, televisión y servicios de información en línea con programaciones diversas y equilibradas para todo tipo de público, cubriendo todos los géneros, destinadas a satisfacer las necesidades de información, cultura, educación y entretenimiento de la sociedad y a preservar el pluralismo en los medios de comunicación.
+g) Promover la investigación y el desarrollo tecnológico en el sector audiovisual.
+h) Promover la utilización del idioma gallego mediante su uso en los medios audiovisuales, especialmente apoyando su utilización en salas de exhibición y promoviendo la asistencia a éstas en municipios de más de 35.000 habitantes.
+i) Promover la utilización de los medios audiovisuales entre los ciudadanos discapacitados.
+j) Divulgar las obras audiovisuales gallegas en el propio territorio, en el del Estado español, en el de Portugal, en el de la Unión Europea y en todos los territorios donde existan comunidades gallegas.
+Se modifica por la disposición final 3.3 de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Artículo 9
+
+Artículo 9. Potenciación de las acciones institucionales: Del Consorcio Audiovisual de Galicia.
+1. Para la potenciación institucional de las acciones tendentes al desarrollo del sector audiovisual de Galicia, las administraciones y entidades interesadas convendrán la constitución del Consorcio Audiovisual de Galicia.
+2. La Consejería competente en materia audiovisual promoverá la constitución de dicho Consorcio, con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.
+3. Dicho Consorcio tendrá la condición de entidad de derecho público de carácter interadministrativo y contará con un patrimonio propio.
+4. En este Consorcio podrán participar entidades privadas sin ánimo de lucro que persigan los fines de interés público concurrentes con los de las administraciones y entidades públicas consorciadas.
+5. El Consorcio se financiará con aportaciones de las entidades que lo constituyan, sin perjuicio de los demás medios económicos que le correspondan con arreglo a su régimen jurídico.
+6. El Consorcio promoverá la celebración de convenios de colaboración con fundaciones, asociaciones y empresas que tengan interés en el desarrollo del sector audiovisual gallego. Simultáneamente, promoverá la creación de una oficina del audiovisual («film comission») para fomentar y facilitar los rodajes en Galicia.
+
+## CAPÍTULO III
+
+De la exhibición
+
+### Artículo 10
+
+Artículo 10. Promoción y difusión.
+1. La Xunta de Galicia promoverá la difusión de obras audiovisuales gallegas y coproducciones en las salas de exhibición cinematográficas de la Comunidad Autónoma de Galicia, así como en cine clubes, entidades privadas sin ánimo de lucro, asociaciones, centros educativos, hospitales y organismos de asistencia social que oferten sesiones de cine a sus usuarios.
+2. La Xunta de Galicia velará porque la producción cinematográfica gallega esté presente en el cupo de exhibiciones de filmes de los Estados miembros de la Unión Europea.
+
+### Artículo 11
+
+Artículo 11. Ayudas.
+A fin de procurar la pervivencia de las salas de exhibición cinematográfica sitas en las zonas rurales o de baja rentabilidad, la Xunta de Galicia fomentará la exhibición de cine mediante ayudas, otorgadas con arreglo a los criterios que se determinen reglamentariamente.
+
+### Artículo 12
+
+Artículo 12. Calificación e inspección.
+La Xunta de Galicia adoptará las medidas oportunas para que la exhibición de obras y demás contenidos audiovisuales en los medios de difusión de la Comunidad Autónoma respeten la legislación vigente, ejerciendo funciones de calificación e inspección en coordinación con el Consejo Asesor de las Telecomunicaciones y del Audiovisual de Galicia.
+
+## CAPÍTULO IV
+
+Del Consejo Asesor de las Telecomunicaciones y del Audiovisual de Galicia
+Se suprime por el art. 26 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 13
+
+Artículo 13. Consejo Asesor de las Telecomunicaciones y del Audiovisual de Galicia.
+(Suprimido)
+Se suprime por el art. 26 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Artículo 14
+
+Artículo 14. Funciones de arbitraje.
+(Suprimido)
+Se suprime por el art. 26 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+ Se modifica por la disposición final 3.4 de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Artículo 15
+
+Artículo 15. De las comisiones.
+(Suprimido)
+Se suprime por el art. 26 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Comunidad Autónoma de Galicia ejercerá las competencias que le correspondan según lo que establezcan las leyes estatales en materia de televisión local por ondas terrestres y de telecomunicaciones por cable y las desarrollará regulando expresamente los contenidos audiovisuales que tengan que ser difundidos por cualquier sistema de telecomunicaciones dentro del territorio de la Comunidad Autónoma.
+Asimismo, por Decreto del Consejo de la Xunta se creará el registro de empresas, asociaciones de profesionales del sector, asociaciones de usuarios y grupos operadores cuyo ámbito de actuación sea la Comunidad Autónoma de Galicia.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.c) de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.c) de la Ley 9/2011, de 9 de noviembre. Ref. BOE-A-2012-549.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Centro Gallego de las Artes de la Imagen se regirá a través de lo dispuesto en su Decreto de creación y regulación y se dotará de plena capacidad para el cumplimiento de sus fines, respetando lo establecido en el artículo 4 y concordantes de la presente Ley.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas aquellas disposiciones de igual o menor rango en lo que se opongan o contradigan lo dispuesto en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Consejo de la Xunta para el desarrollo reglamentario de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 1 de septiembre de 1999.
+MANUEL FRAGA IRIBARNE,
+Presidente

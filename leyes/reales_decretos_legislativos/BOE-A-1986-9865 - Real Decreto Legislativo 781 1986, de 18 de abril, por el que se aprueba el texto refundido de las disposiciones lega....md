@@ -1,0 +1,3956 @@
+# Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local.
+
+- Identificador BOE: `BOE-A-1986-9865`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-9865
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en BOE núms. 165, de 11 de julio de 1986 Ref. BOE-A-1986-18436 y 282, de 25 de noviembre de 1986. Ref. BOE-A-1986-31005
+
+## Preámbulo
+
+La disposición final primera de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, autorizó al Gobierno de la Nación para refundir en un solo texto las disposiciones legales vigentes en materia de Régimen Local, de acuerdo con lo dispuesto en su disposición derogatoria, en cuanto no se opongan, contradigan o resulten incompatibles con las disposiciones de dicha Ley.
+En cumplimiento de tal autorización, se ha procedido a redactar el Texto Refundido, adecuando los preceptos no derogados de la legislación anterior, con las aclaraciones y armonizaciones procedentes.
+En su virtud, a propuesta del Ministro de Administración Territorial y, además, en cuanto al título VIII, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de abril de 1986,
+DISPONGO:
+
+### Artículo único
+
+Artículo único.
+De conformidad con lo establecido en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local, que se inserta a continuación.
+
+Dado en Madrid a 18 de abril de 1986.
+JUAN CARLOS R.
+El Ministro de Administración Territorial,
+FELIX PONS IRAZAZABAL
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LAS DISPOSICIONES LEGALES VIGENTES EN MATERIA DE REGIMEN LOCAL
+
+## TITULO I
+
+Disposiciones generales
+
+### Art 1
+
+Art. 1.
+1. Para el cumplimiento de sus fines, los Ayuntamientos, en representación de los Municipios, las Diputaciones u otras Corporaciones de carácter representativo, en representación de las Provincias, y los Consejos y Cabildos, en representación de las Islas, tendrán plena capacidad jurídica para adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes, celebrar contratos, establecer y explotar obras y servicios públicos, obligarse, interponer los recursos establecidos y ejercitar las acciones previstas en las leyes.
+2. La misma capacidad jurídica tendrán los órganos correspondientes en representación de las respectivas Entidades de ámbito territorial inferior al municipal.
+3. Los Municipios, las Provincias, las Islas y las otras Entidades locales territoriales estarán exentos de impuestos del Estado y de las Comunidades Autónomas, en los términos de la Ley.
+
+## TITULO II
+
+El Municipio
+
+## CAPITULO I
+
+Territorio y población
+
+### Art 2
+
+Art. 2.
+Cada Municipio pertenecerá a una sola provincia.
+
+### Art 3
+
+Art. 3.
+1. La alteración de términos municipales podrá producirse:
+a) Por incorporación de uno o más Municipios a otro u otros limítrofes.
+b) Por fusión de dos o más Municipios limítrofes.
+c) Por segregación de parte del territorio de uno o varios Municipios para constituir otro independiente.
+d) Por segregación de parte del territorio de un Municipio para agregarlo a otro limítrofe.
+2. En ningún caso la alteración de términos municipales podrá suponer modificación de los límites provinciales.
+
+### Art 4
+
+Art. 4.
+La incorporación de uno o más Municipios a otro u otros limítrofes solamente podrá acordarse cuando se den notorios motivos de necesidad o conveniencia económica o administrativa.
+
+### Art 5
+
+Art. 5.
+La fusión de Municipios limítrofes a fin de constituir uno solo podrá realizarse:
+a) Cuando separadamente carezcan de recursos suficientes para atender los servicios mínimos exigidos por la Ley.
+b) Cuando se confundan sus núcleos urbanos como consecuencia del desarrollo urbanístico.
+c) Cuando existan notorios motivos de necesidad o conveniencia económica o administrativa.
+
+### Art 6
+
+Art. 6.
+La segregación de parte del territorio de uno o varios Municipios para constituir otro independiente podrá realizarse cuando existan motivos permanentes de interés público, relacionados con la colonización interior, explotación de minas, instalación de nuevas industrias, creación de regadíos, obras públicas u otras análogas.
+
+### Art 7
+
+Art. 7.
+La segregación de parte del territorio de un Municipio para agregarlo a otro limítrofe, podrá realizarse cuando concurra alguna de las causas señaladas en los apartados b) y c) del artículo 5.
+
+### Art 8
+
+Art. 8.
+1. No podrá segregarse parte de un Municipio si con ello se privara a éste de las condiciones previstas en el artículo 13.2 de la Ley 7/1985, de 2 de abril.
+Tampoco podrá segregarse ningún núcleo de población de un término municipal cuando se halle unido por calle o zona urbana a otro del Municipio originario.
+2. En los supuestos de segregación parcial de un término municipal, conjuntamente con la división del territorio se hará la de los bienes, derechos y acciones, así como la de las deudas y cargas, en función del número de habitantes y de la riqueza imponible del núcleo que se trate de segregar.
+
+### Art 9
+
+Art. 9.
+1. El procedimiento para la alteración de los términos municipales en los supuestos previstos por los artículos 4, 5, 6 y 7 de esta Ley, se iniciará de oficio por la correspondiente Comunidad Autónoma o a instancia del Ayuntamiento interesado, de la respectiva Diputación o de la Administración del Estado. En todo caso, será preceptiva la audiencia de la Diputación Provincial y de los Ayuntamientos interesados.
+2. En los supuestos de fusión o de incorporación voluntaria de Municipios limítrofes, el procedimiento se promoverá por acuerdo de los respectivos Ayuntamientos, adoptado con el voto favorable de las dos terceras partes del número de hecho y, en todo caso, de la mayoría absoluta del número legal de miembros de la Corporación. Los acuerdos se someterán a información pública, y las alegaciones y reclamaciones que puedan formularse serán resueltas por los mismos Ayuntamientos con idéntica mayoría.
+3. En los casos de segregación parcial de carácter voluntario se cumplirán los mismos requisitos del número anterior, salvo que haya mediado previamente petición escrita de la mayoría de los vecinos residentes en la porción que haya de segregarse, en cuyo caso el expediente se elevará al órgano competente para su resolución definitiva, aun cuando los acuerdos municipales no hubieran sido favorables.
+4. En todos los casos de alteración de términos municipales será necesario el previo dictamen del órgano consultivo superior del Consejo de Gobierno de la respectiva Comunidad Autónoma, si existiere o, en su defecto, del Consejo de Estado. Simultánea-mente a la petición del dictamen se dará conocimiento del expediente a la Administración del Estado.
+5. La resolución definitiva del procedimiento se hará por Decreto del Consejo de Gobierno de la Comunidad Autónoma correspondiente, del que se dará traslado a la Administración del Estado a efectos de lo previsto en el artículo 14.1 de la Ley 7/1985, de 2 de abril.
+
+### Art 10
+
+Art. 10.
+Las cuestiones que se susciten entre Municipios sobre deslinde de sus términos municipales serán resueltas por la correspondiente Comunidad Autónoma, previo informe del Instituto Geográfico Nacional y dictamen del órgano consultivo superior del Consejo de Gobierno de aquélla, si existiere o, en su defecto, del Consejo de Estado.
+
+### Art 11
+
+Art. 11.
+1. La alteración del nombre y capitalidad de los Municipios podrá llevarse a efecto por el Consejo de Gobierno de la Comunidad Autónoma, previo acuerdo del Ayuntamiento e informe de la Diputación Provincial respectiva.
+2. El acuerdo corporativo deberá ser adoptado con la mayoría prevista en el artículo 47.2.d), de la Ley 7/1985, de 2 de abril.
+3. De la resolución que adopte el Consejo de Gobierno de la Comunidad Autónoma deberá darse traslado a la Administración del Estado a los efectos previstos en el artículo 14.1 de la citada Ley.
+
+### Art 12
+
+Art. 12.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 13
+
+Art. 13.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
+ Se modifica por la disposición adicional 25.1 de la Ley 4/1990, de 29 de junio. Ref. BOE-A-1990-15347
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 14
+
+Art. 14.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
+
+### Art 15
+
+Art. 15.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
+
+### Art 16
+
+Art. 16.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 4/1996, de 10 de enero. Ref. BOE-A-1996-753
+
+### Art 17
+
+Art. 17.
+Para cuanto se refiere a la administración económica local y al régimen de derechos y obligaciones que de ella emanen para los residentes, los propietarios ausentes tendrán obligación de comunicar a la Alcaldía el nombre de la persona que los represente. Faltando esta comunicación, tendrán la consideración de representantes de los propietarios por las fincas que labren, ocupen o administren:
+1.° Los administradores, apoderados o encargados de los propietarios forasteros.
+2.° En defecto de los anteriores, los colonos, arrendatarios o aparceros de las fincas rústicas cuando sus propietarios o administradores no residieran en el término municipal.
+3.° Los inquilinos de fincas urbanas cuando cada una de ellas estuviere arrendada a una sola persona o no residiere en la localidad el dueño, administrador o encargado.
+
+## CAPITULO II
+
+Organización
+
+### Art 18
+
+Art. 18.
+Antes de comenzar el ejercicio de sus funciones, el Alcalde deberá jurar o prometer el cargo ante el Ayuntamiento Pleno.
+
+### Art 19
+
+Art. 19.
+Los Alcaldes de Madrid y Barcelona tendrán tratamiento de Excelencia: los de las demás capitales de provincia, tratamiento de Ilustrísima; y los de los Municipios restantes, tratamiento de Señoría. Se respetan, no obstante, los tratamientos que respondan a tradiciones reconocidas por disposiciones legales.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 20
+
+Art. 20.
+1. En cada uno de los poblados y barriadas separados del casco urbano y que no constituyan Entidad local, el Alcalde podrá nombrar un representante personal entre los vecinos residentes en el mismo.
+2. También podrá nombrar el Alcalde dichos representantes en aquellas ciudades en que el desenvolvimiento de los servicios así lo aconseje. El representante habrá de estar avecindado en el propio núcleo en el que ejerza sus funciones.
+3. Lo dispuesto en los dos números anteriores sólo será de aplicación en los términos que disponga el Reglamento orgánico propio de la Corporación.
+
+### Art 21
+
+Art. 21.
+Cuando el Alcalde se ausente del término municipal por más de veinticuatro horas sin haber conferido la delegación, o cuando por una causa imprevista le hubiere resultado imposible otorgarla, le sustituirá el Teniente de Alcalde a quien corresponda, quien deberá dar cuenta de ello al resto de la Corporación.
+
+### Art 22
+
+Art. 22.
+En los Municipios con Comisión de Gobierno, el número de Tenientes de Alcalde no podrá exceder del número de miembros de aquélla. En aquellos otros en que no exista tal Comisión, el número de Tenientes de Alcalde no podrá exceder del tercio del número legal de los miembros de la Corporación.
+
+### Art 23
+
+Art. 23.
+1. Además de las señaladas en el artículo 22 de la Ley 7/1985, de 2 de abril, corresponden al Pleno, una vez constituido conforme a lo dispuesto en la legislación electoral, las siguientes atribuciones:
+a) (Derogada)
+b) La regulación del aprovechamiento de los bienes comunales en los términos previstos en la legislación aplicable.
+c) (Derogada)
+d) La aprobación de los proyectos de obras cuando la contratación de su ejecución sea de su competencia, conforme al apartado anterior.
+e) El reconocimiento extrajudicial de créditos, siempre que no exista dotación presupuestaria, operaciones de crédito o concesión de quita y espera.
+f) La defensa en los procedimientos incoados contra el Ayuntamiento,
+2. El ejercicio de las atribuciones establecidas en el número anterior será delegable, salvo en los supuestos previstos en el artículo 47 de la Ley 7/1985, de 2 de abril.
+Se derogan los apartados 1.a) y c) por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 24
+
+Art. 24.
+Además de las previstas en el artículo 21.1 de la Ley 7/1985, de 2 de abril, el Alcalde ejercerá las siguientes atribuciones:
+a) Decidir los empates con voto de calidad.
+b) La organización de los servicios administrativos de la Corporación, en el marco del Reglamento orgánico.
+c) (Derogada).
+d) Todas las atribuciones en materia de personal que no competan al Pleno.
+e) La concesión de licencias, salvo que las Ordenanzas o las Leyes sectoriales la atribuyan expresamente al Pleno o a la Comisión de Gobierno.
+f) El desarrollo de la gestión económica conforme al presupuesto aprobado.
+g) Publicar, ejecutar y hacer cumplir los acuerdos del Ayuntamiento.
+h) Presidir las subastas y concursos para ventas, arrendamientos, suministros y toda clase de adjudicaciones de servicios y obras municipales.
+Se deroga la letra c) por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+ Redactadas las letras c) y f) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## TITULO III
+
+La provincia
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Art 25
+
+Art. 25.
+1. El Territorio de la Nación española se divide en cincuenta provincias con los límites, denominación y capitales que tienen actualmente.
+2. Sólo mediante Ley aprobada por las Cortes Generales puede modificarse la denominación y capitalidad de las provincias. Cualquier alteración de sus límites requerirá Ley Orgánica.
+
+## CAPITULO II
+
+Organización
+
+### Art 26
+
+Art. 26.
+Antes de comenzar el ejercicio de sus funciones, el Presidente de la Diputación deberá jurar o prometer el cargo ante el Pleno de la misma.
+
+### Art 27
+
+Art. 27.
+Los Presidentes de las Diputaciones provinciales tendrán el tratamiento de Ilustrísima, salvo el de la de Barcelona, que tendrá el de Excelencia. Se respetan, no obstante, los tratamientos que respondan a tradiciones reconocidas por disposiciones legales.
+
+### Art 28
+
+Art. 28.
+1. Además de las señaladas en el artículo 33.2 de la Ley 7/1985, de 2 de abril, corresponden al Pleno de la Diputación, una vez constituido conforme a lo dispuesto en la legislación electoral, las siguientes funciones:
+a) La creación, modificación y disolución de organismos y establecimientos provinciales.
+b) Informar en los expedientes de fusión, agregación o segregación de Municipios de su territorio.
+c) (Derogada)
+d) (Derogada)
+e) La provincialización de servicios.
+f) La aprobación de planes generales de carreteras y el establecimiento de servicios de comunicaciones provinciales y de suministro de energía eléctrica.
+2. El ejercicio de las atribuciones establecidas en el número anterior será delegable, salvo las de los apartados a), b), e) y f).
+Se derogan los apartados 1.c) y d) por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 29
+
+Art. 29.
+Además de las establecidas en el artículo 34 de la Ley 7/1985, de 2 de abril, corresponden al Presidente de la Diputación las siguientes atribuciones:
+a) Todas las facultades en materia de personal que no tenga atribuidas el Pleno.
+b) (Derogada)
+c) El desarrollo de la gestión económica conforme al presupuesto aprobado.
+d) Rendir cuentas de las operaciones efectuadas en cada ejercicio económico.
+e) El cumplimiento de las cargas que impongan las Leyes a la Administración Provincial.
+Se deroga la letra b) por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### CAPÍTULO III
+
+CAPITULO III
+Competencias
+Reordenado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 30
+
+Art. 30.
+1. La Diputación cooperará a la efectividad de los servicios municipales, preferentemente de los obligatorios, aplicando a tal fin:
+a) Los medios económicos propios de la misma que se asignen.
+b) Las subvenciones o ayudas financieras que concedan el Estado o la Comunidad Autónoma.
+c) Las subvenciones o ayudas de cualquier otra procedencia.
+d) El producto de operaciones de crédito.
+2. La cooperación podrá ser total o parcial, según aconsejen las circunstancias económicas de los Municipios interesados.
+3. Los servicios a que debe alcanzar la cooperación serán, en todo caso, los relacionados como mínimos en el artículo 26 de la Ley 7/1985, de 2 de abril.
+4. La preferencia entre los distintos servicios mínimos a que alude el número anterior, se determinará sobre la base de los objetivos a que se refiere el artículo 36.2.a) de la Ley 7/1985, de 2 de abril, atendiendo a las circunstancias de cada Municipio y con respeto de las prioridades sectoriales que se determinan en la forma establecida en el artículo 59 de dicha Ley.
+5. También cooperará la Diputación en la elaboración de planes territoriales y urbanísticos, redacción de proyectos, dirección de obras o instalaciones, informes técnicos previos al otorgamiento de licencias y gestión tributaria, construcción y conservación de caminos y vías rurales y demás obras y servicios de la competencia municipal.
+6. Las formas de cooperación serán:
+a) La asistencia administrativa en el ejercicio de las funciones públicas necesarias.
+b) El asesoramiento jurídico, económico y técnico.
+c) Ayudas de igual carácter en la redacción de estudios y proyectos.
+d) Subvenciones a fondo perdido.
+e) Ejecución de obras e instalación de servicios.
+f) La concesión de créditos y la creación de Cajas de Crédito para facilitar a los Ayuntamientos operaciones de este tipo,
+g) La creación de consorcios u otras formas asociativas legalmente autorizadas.
+h) La suscripción de convenios administrativos.
+i) Cualesquiera otras que establezca la Diputación con arreglo a la Ley.
+
+### Art 31
+
+Art. 31.
+La aportación de los Municipios para el establecimiento de servicios por el sistema de cooperación, se fijará en cada caso con arreglo a su capacidad económica, pudiendo hacerse efectiva con cargo a sus propios ingresos o por créditos de la Diputación provincial. En este último supuesto, y sin perjuicio de cualesquiera otras garantías, los ingresos que produzca el servicio establecido quedarán afectos preceptivamente al reintegro de los mismos hasta su total extinción.
+
+### Art 32
+
+Art. 32.
+1. Para el desarrollo de la cooperación, las Diputaciones, con participación de los Ayuntamientos, redactarán los planes provinciales establecidos en el artículo 36 de la Ley 7/1985, de 2 de abril.
+2. Su contenido podrá diferenciarse por servicios o zonas.
+3. Dichos planes se insertarán en el "Boletín Oficial de la Provincia" para que puedan formularse alegaciones y reclamaciones sobre los mismos durante un plazo de diez días.
+4. Los planes de cooperación serán aprobados por las Diputaciones después de haber dado participación a las Administraciones del Estado y de la Comunidad Autónoma, y previo informe de la Comisión Provincial de Colaboración con las Corporaciones Locales.
+5. Aprobados definitivamente los planes, cualquier modificación requerirá el cumplimiento de los mismos trámites prevenidos en este artículo.
+Redactados los apartados 3 y 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 33
+
+Art. 33.
+En la formación y ejecución de los planes se observarán las siguientes reglas:
+1.ª La subvención estatal para su financiación se librará a las Diputaciones.
+2.ª La ejecución corresponde a la Diputación sin perjuicio de la posibilidad de que la asuman los Municipios afectados, siempre que así lo soliciten
+3.ª Las obras y adquisiciones se efectuarán por los procedimientos señalados en la legislación sobre contratación de las Entidades locales, pudiendo agrupar los proyectos por servicios o zonas, a fin de obtener ventajas económicas y facilitar la concurrencia de licitadores de reconocida solvencia.
+4.ª Efectuada la recepción definitiva de las obras que se ejecuten por las Diputaciones, se entregarán las mismas a la Entidad local que corresponda, a cuyo cargo correrá su conservación y mantenimiento.
+
+### Art 34
+
+Art. 34.
+Con independencia de las cuentas generales que hayan de remitir las Diputaciones, enviarán al Ministerio de Administración Territorial, con la periodicidad que reglamentariamente se establezca, un estado comprensivo del desarrollo económico de los créditos destinados a cooperación, así como una Memoria detallada de las realizaciones conseguidas en el año anterior.
+
+## TITULO IV
+
+Otras Entidades Locales
+
+### Art 35
+
+Art. 35.
+1. Para que los Municipios se mancomunen no será indispensable que pertenezcan a la misma provincia ni que exista entre ellos continuidad territorial, si ésta no es requerida por la naturaleza de los fines de la Mancomunidad.
+2. Las Mancomunidades no podrán asumir la totalidad de las competencias asignadas a los respectivos Municipios.
+3. De acuerdo con lo dispuesto en el artículo 47.3 b) de la Ley 7/1985, de 2 de abril, los acuerdos aprobatorios de la constitución y Estatutos de la Mancomunidad deberán adoptarse por cada Ayuntamiento con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación, previa información pública por plazo de un mes. Cuando se trate de Municipios que sean de distintas Provincias habrá de darse audiencia a las Diputaciones Provinciales respectivas.
+4. El órgano de gobierno de la mancomunidad estará integrado por representantes de los Municipios mancomunados en la forma que determinen los correspondientes Estatutos.
+
+### Art 36
+
+Art. 36.
+Los Estatutos de las Mancomunidades municipales habrán de expresar al menos:
+1.º Los Municipios que comprenden.
+2.° El lugar en que radiquen sus órganos de gobierno y administración.
+3.° El número y forma de designación de los representantes de los Ayuntamientos que han de integrar los órganos de gobierno de la Mancomunidad.
+4.° Los fines de ésta.
+5.° Los recursos económicos.
+6.° El plazo de vigencia.
+7.º El procedimiento para modificar los Estatutos, y
+8.º Las causas de disolución.
+
+### Art 37
+
+Art. 37.
+Las Entidades conocidas con las denominaciones de Mancomunidades o Comunidades de Tierra o de Villa y Tierra, o de Ciudad y Tierra, Asocios, Reales Señoríos, Universidades, Comunidades de Pastos, Leñas, Aguas, y otras análogas, continuarán rigiéndose por sus normas consuetudinarias o tradicionales y, sin perjuicio de la autonomía de que disfrutan, deberán ajustar su régimen económico a lo prescrito en la legislación de régimen local sobre formación de presupuestos y rendición de cuentas, liquidaciones, inventarios y balances.
+
+### Art 38
+
+Art. 38.
+Las Entidades locales de ámbito territorial inferior al municipal tendrán las siguientes competencias:
+a) La construcción, conservación y reparación de fuentes, lavaderos y abrevaderos.
+b) La policía de caminos rurales, montes, fuentes y ríos.
+c) La limpieza de calles.
+d) La mera administración y conservación de su patrimonio, incluido el forestal, y la regulación del aprovechamiento de sus bienes comunales.
+e) La ejecución de obras y la prestación de servicios comprendidos en la competencia municipal y de exclusivo interés de la Entidad, cuando no esté a cargo del respectivo Municipio.
+
+### Art 39
+
+Art. 39.
+El Alcalde pedáneo, órgano unipersonal ejecutivo de la Entidad local, preside la Junta Vecinal y es elegido conforme a la Ley Electoral.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 40
+
+Art. 40.
+El Alcalde pedáneo tendrá las atribuciones que la Ley señale al Alcalde, circunscritas a la administración de su Entidad, y en particular las siguientes:
+a) Convocar y presidir las sesiones de la Junta o Asamblea vecinal, dirigir sus deliberaciones y decidir los empates con voto de calidad.
+b) Ejecutar y hacer cumplir los acuerdos de la Junta o Asamblea vecinal.
+c) Aplicar el Presupuesto de la Entidad, ordenando pagos con cargo al mismo, y rendir cuentas de su gestión.
+d) Vigilar la conservación de caminos rurales, fuentes públicas y montes, así como los servicios de policía urbana y de subsistencias.
+e) Todas las demás facultades de administración de la Entidad no reservadas expresamente a la Junta o Asamblea vecinal.
+
+### Art 41
+
+Art. 41.
+1. La Junta o Asamblea vecinal tendrá las siguientes atribuciones:
+a) La aprobación de Presupuestos y Ordenanzas de exacciones, la censura de cuentas y el reconocimiento de créditos, siempre que no exista dotación presupuestaria.
+b) La administración y conservación de bienes y derechos propios de la Entidad y la regulación del aprovechamiento de bienes comunales.
+c) El ejercicio de acciones judiciales y administrativas.
+d) En general, cuantas atribuciones se asignan por la Ley al Ayuntamiento Pleno con respecto a la administración del Municipio, en el ámbito de la Entidad.
+2. Los acuerdos de la Junta o Asamblea vecinal sobre disposiciones de bienes y operaciones de crédito y expropiación forzosa deberán ser ratificados por el Ayuntamiento respectivo.
+
+### Art 42
+
+Art. 42.
+1. La constitución de nuevas Entidades locales de ámbito territorial inferior al municipal estará sujeta al cumplimiento de los siguientes requisitos:
+a) Petición escrita de la mayoría de los vecinos residentes en el territorio que haya de ser base de la Entidad, o alternativamente acuerdo del Ayuntamiento.
+b) Información pública vecinal.
+c) Informe del Ayuntamiento, y
+d) Resolución definitiva por el Consejo de Gobierno de la Comunidad Autónoma.
+2. No podrá constituirse en Entidad local de ámbito territorial inferior al Municipio el núcleo territorial en que resida el Ayuntamiento.
+
+### Art 43
+
+Art. 43.
+1. Una vez constituida la Entidad se establecerán sus límites territoriales y se hará la separación patrimonial.
+2. Los acuerdos municipales en esta materia requerirán la aprobación del órgano competente de la Comunidad Autónoma, que se entenderá otorgada si no resolviere en el término de tres meses.
+
+### Art 44
+
+Art. 44.
+La modificación y supresión de Entidades locales de ámbito territorial inferior al municipal podrá llevarse a efecto:
+a) A petición de la propia Entidad cumpliendo los requisitos consignados en el artículo 42.
+b) Por acuerdo del Consejo de Gobierno de la respectiva Comunidad Autónoma adoptado previa audiencia de las Entidades y Ayuntamientos interesados, con informe del órgano consultivo superior de aquél, donde existiere o, en su defecto, del Consejo de Estado y conforme a lo dispuesto en el artículo siguiente.
+
+### Art 45
+
+Art. 45.
+Para que el Consejo de Gobierno de la Comunidad Autónoma acuerde la supresión de Entidades Locales de ámbito territorial inferior al municipal, será necesario instruir el oportuno expediente en el que se demuestre la insuficiencia de recursos para sostener los servicios mínimos que le estén atribuidos, o se aprecien notorios motivos de necesidad económica o administrativa.
+
+## TITULO V
+
+Disposiciones comunes a las Entidades Locales
+
+## CAPITULO I
+
+Régimen de funcionamiento
+
+### Art 46
+
+Art. 46.
+Las Comisiones Municipales y Provinciales de Gobierno celebrarán sesión ordinaria con la periodicidad que establezca el Reglamento orgánico de la Corporación.
+Corresponde al Presidente de cada Comisión fijar el día en que deba celebrarse la sesión.
+
+### Art 47
+
+Art. 47.
+1. Las Corporaciones locales podrán establecer ellas mismas su régimen de sesiones. Los días de las reuniones ordinarias serán fijados previamente por acuerdo de la Corporación.
+2. Salvo en casos de urgencia, no se tratarán más asuntos que los señalados en el orden del día de cada sesión, que formará el Presidente y se distribuirá a los miembros de la Corporación con antelación mínima de dos días hábiles.
+
+### Art 48
+
+Art. 48.
+1. Cuando la cuarta parte de los miembros que legalmente integran la Corporación solicite la celebración de sesión extraordinaria del Pleno, el Presidente vendrá obligado a convocarla dentro de los cuatro días siguientes al de la solicitud.
+2. La convocatoria de sesión extraordinaria del Pleno de las Corporaciones locales habrá de hacerse, al menos, con dos días de antelación al de su celebración, salvo en supuestos de urgencia debidamente motivada y con expresión de los asuntos a que se han de circunscribir las deliberaciones y acuerdos, sin que puedan tratarse otros distintos.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 49
+
+Art. 49.
+Las sesiones se celebrarán en la Casa Consistorial o en el Palacio Provincial que constituya la sede de la respectiva Corporación. En los casos de fuerza mayor, podrán celebrarse en edificio habilitado al efecto.
+
+### Art 50
+
+Art. 50.
+De cada sesión se extenderá acta por el Secretario de la Corporación o, en su caso, del órgano correspondiente, haciendo constar, como mínimo, la fecha y hora de comienzo y fin; los nombres del Presidente y demás asistentes; los asuntos tratados; el resultado de los votos emitidos y los acuerdos adoptados. En las sesiones plenarias deberán recogerse sucintamente las opiniones emitidas.
+
+### Art 51
+
+Art. 51.
+Serán nulos los acuerdos adoptados en sesiones extraordinarias sobre asuntos no comprendidos en su convocatoria, así como los que se adopten en sesiones ordinarias sobre materias no incluidas en el respectivo orden del día, salvo especial y previa declaración de urgencia hecha por el órgano correspondiente, con el voto favorable de la mayoría prevista en el artículo 47.3 de la Ley 7/1985, de 2 de abril.
+
+### Art 52
+
+Art. 52.
+1. El libro de actas tiene la consideración de instrumento público solemne, y deberá llevar en todas sus hojas, debidamente foliadas, la rúbrica del Presidente y el sello de la Corporación.
+2. No serán válidos los acuerdos no reflejados en el correspondiente libro de actas que reúna los requisitos expresados en el apartado anterior.
+
+### Art 53
+
+Art. 53.
+Las Juntas o Asambleas vecinales de las Entidades locales de ámbito territorial inferior al municipal ajustarán, también, su funcionamiento a lo dispuesto en los artículos anteriores, que se aplicarán, asimismo, para las Asambleas vecinales en el régimen de Concejo abierto en todo aquello que no sea específico de este régimen ni se oponga a los usos, costumbres o tradiciones locales. Los acuerdos se adoptarán siempre por mayoría de votos.
+
+### Art 54
+
+Art. 54.
+1. Será necesario el informe previo del Secretario, y, además, en su caso, del Interventor o de quienes legalmente les sustituyan, para la adopción de los siguientes acuerdos:
+a) En aquellos supuestos en que así lo ordene el Presidente de la Corporación o cuando lo solicite un tercio de sus miembros con antelación suficiente a la celebración de la sesión en que hubieren de tratarse.
+b) Siempre que se trate de asuntos sobre materias para las que se exija una mayoría especial.
+2. Los informes que se emitan deberán señalar la legislación, en cada caso aplicable y la adecuación a la misma de los acuerdos en proyecto.
+3. Los acuerdos para el ejercicio de acciones necesarias para la defensa de los bienes y derechos de las Entidades locales deberán adoptarse previo dictamen del Secretario, o, en su caso, de la Asesoría Jurídica y, en defecto de ambos, de un Letrado.
+4. En cuanto a la representación y defensa en juicio de las Entidades locales, se estará a lo dispuesto por la Ley Orgánica del Poder Judicial.
+
+### Art 55
+
+Art. 55.
+En la esfera de su competencia, las Entidades locales podrán aprobar Ordenanzas y Reglamentos, y los Alcaldes dictar Bandos. En ningún caso contendrán preceptos opuestos a las leyes.
+
+### Art 56
+
+Art. 56.
+La aprobación de las Ordenanzas locales se ajustará al procedimiento establecido en el artículo 49 de la Ley 7/1985, de 2 de abril.
+Para la modificación de las Ordenanzas y Reglamentos deberán observarse los mismos trámites que para su aprobación.
+
+### Art 57
+
+Art. 57.
+Serán de aplicación a las infracciones de las Ordenanzas, Reglamentos y Bandos los plazos de prescripción que establece el Código Penal para las faltas, sin perjuicio de lo que, en cada caso, establezcan las leyes.
+
+### Art 58
+
+Art. 58.
+Para la exacción de multas por infracción de Ordenanzas, en defecto de pago voluntario, se seguirá el procedimiento administrativo de apremio.
+
+### Art 59
+
+Art. 59.
+Las multas por infracción de Ordenanzas no podrán exceder, salvo previsión legal distinta, de 25.000 pesetas en Municipios de más de 500.000 habitantes; de 15.000 pesetas en los de 50.001 a 500.000; de 10.000 pesetas en los de 20.001 a 50.000; de 5.000 pesetas en los de 5.001 a 20.000, y de 500 pesetas en los demás Municipios.
+
+### Art 60
+
+Art. 60.
+Las autoridades y funcionarios de cualquier orden que, por dolo o culpa o negligencia, adopten resoluciones o realicen actos con infracción de las disposiciones legales, estarán obligados a indemnizar a la Corporación Local los daños y perjuicios que sean consecuencia de aquéllos, con independencia de la responsabilidad penal o disciplinaria que les pueda corresponder.
+
+## CAPITULO II
+
+Relaciones interadministrativas
+
+### Art 61
+
+Art. 61.
+La Administración del Estado colaborará con las Entidades locales en los términos y para los fines previstos en la Ley 7/1985, de 2 de abril.
+
+### Art 62
+
+Art. 62.
+La asistencia técnica consistirá en cualquier ayuda prevista por las leyes, y, en especial, la elaboración de estudios y proyectos relativos a la ejecución de obras, prestación de servicios o cualquier otra actividad propia de las Entidades locales o de interés común.
+
+### Art 63
+
+Art. 63.
+1. La ayuda financiera se llevará a cabo mediante subvenciones incluidas en los Presupuestos Generales del Estado o en los de otros Organismos estatales.
+2. Serán condiciones indispensables para la concesión de subvenciones:
+a) Que tengan por objeto la realización de obras o prestación de servicios cuyos efectos sociales o administrativos se contraigan al territorio de la Entidad local subvencionada.
+b) Que tales obras o servicios sean gestionados por las Corporaciones locales, según las formas determinadas en el artículo 85 de la Ley 7/1985, de 2 de abril.
+
+### Art 64
+
+Art. 64.
+La constitución con las Entidades locales de entes de gestión de carácter público o privado se regirá por la legislación de régimen local.
+
+### Art 65
+
+Art. 65.
+La colaboración de la Administración del Estado será objeto de especial consideración cuando se trate de municipios que se encuentren en alguna de las circunstancias objetivas siguientes:
+a) Los de reconocido valor histórico-artístico.
+b) Los de marcado interés turístico.
+c) Los que, por el emplazamiento o forma de asentamiento de su población, experimenten un mayor costo en los servicios considerados esenciales.
+d) Los que presenten un índice de expansión extraordinario en el aspecto industrial o urbano, y
+e) Los que hayan sufrido las consecuencias de fenómenos catastróficos que, por la magnitud de los daños, volumen de la población afectada y carencia de recursos locales, exijan asistencia especial temporal.
+
+### Art 66
+
+Art. 66.
+El Estado y las Comunidades Autónomas podrán delegar en las Entidades Locales la realización de obras, ejecución de servicios y, en general, el ejercicio de actividades propias de su competencia. Los Municipios podrán recibir delegaciones de las otras Entidades locales.
+
+### Art 67
+
+Art. 67.
+1. La delegación habrá de referirse a funciones en cuya gestión sea conveniente la participación de los representantes de los intereses locales. por razón de su trascendencia municipal o provincial.
+2. Al acordarse la delegación, se determinarán las facultades de dirección y fiscalización que se reserve la Administración delegante, en los términos de los artículos 7.3 y 27.2 de la Ley 7/1985, de 2 de abril.
+3. La delegación podrá acordarse en favor de una o de varias Entidades locales vinculadas entre sí, siempre que éstas cuenten con los medios técnicos y de gestión convenientes, y que les sean cedidos los necesarios medios financieros. La aceptación expresa de las Entidades delegadas será indispensable para que la delegación se produzca válidamente, salvo en lo dispuesto en el artículo 27 3 de la Ley 7/1985, de 2 de abril.
+4. El ejercicio de las facultades delegadas se realizará conforme al ordenamiento estatal o autonómico, según de quien proceda la delegación, y sin perjuicio de que las Entidades locales se atengan al ordenamiento local para su ejecución.
+
+### Art 68
+
+Art. 68.
+1. A petición de las Entidades locales Interesadas, el Gobierno o el Consejo de Gobierno de las Comunidades Autónomas podrán delegar en aquéllas la realización de funciones, obras o servicios. El acuerdo preverá la oportuna dotación económica con cargo a los Presupuestos del Estado o de las Comunidades Autónomas.
+2. Además de las facultades de dirección y fiscalización, la Administración del Estado o de la Comunidad Autónoma delegante, podrá reservarse potestades decisorias en mayor o menor grado, apreciadas las circunstancias de cada caso, y, especialmente, la trascendencia municipal o provincial de las funciones, la conveniencia de participación en su ejercicio de las Entidades locales, los medios técnicos y de gestión con que cuenten éstas y los recursos financieros que tengan o les sean cedidos.
+
+### Art 69
+
+Art. 69.
+Las competencias compartidas o concurrentes podrán ser ejercidas conjuntamente por la Administración del Estado o de la Comunidad Autónoma y la Local, mediante la constitución de entes instrumentales de carácter público o privado, conforme a lo dispuesto en el artículo 61 de esta Ley.
+
+### Art 70
+
+Art. 70.
+Mediante el correspondiente acuerdo, las Entidades locales podrán también asumir, o, en su caso, colaborar en la realización de obras o en la gestión de servicios del Estado, incluidos los de la Seguridad Social, a través de cualquiera de las formas de gestión previstas por las leyes, y, en todo caso, mediante consorcio o convenio.
+
+### Art 71
+
+Art. 71.
+Sin perjuicio de los supuestos de financiación concurrentes previstos por Ley, las Corporaciones locales no costearán servicios del Estado o de las Comunidades Autónomas, salvo las fórmulas de colaboración voluntaria a la prestación de los mismos.
+
+## CAPITULO III
+
+Estatuto de los miembros de las Corporaciones locales
+
+### Art 72
+
+Art. 72.
+1. Los miembros de las Corporaciones locales están obligados a concurrir a todas las sesiones, salvo justa causa que se lo impida, que deberán comunicar con la antelación necesaria al Presidente de la Corporación.
+2. Las ausencias fuera del término municipal que excedan de ocho días deberán ser puestas en conocimiento de los respectivos Presidentes.
+
+### Art 73
+
+Art. 73.
+Los límites de las sanciones que podrán imponer los Presidentes de las Corporaciones locales a los miembros de las mismas serán los establecidos en el artículo 59 de esta Ley sin perjuicio de lo que determinen las Leyes de las Comunidades Autónomas, de acuerdo con el artículo 78.4 de la Ley 7/1985, de 2 de abril.
+
+## TITULO VI
+
+Bienes, actividades y servicios y contratación
+
+## CAPITULO I
+
+Bienes
+
+### Art 74
+
+Art. 74.
+1. Son bienes de uso público local los caminos y carreteras, plazas, calles. paseos, parques, aguas, fuentes, canales, puentes y demás obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de la competencia de la Entidad local.
+2. Son bienes de servicio público los destinados al cumplimiento de fines públicos de responsabilidad de las Entidades locales, tales como Casas Consistoriales, Palacios Provinciales y, en general, edificios que sean sede de las mismas, mataderos, mercados, lonjas, hospitales, hospicios, museos, así como los montes catalogados de propiedad provincial.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 75
+
+Art. 75.
+1. El aprovechamiento y disfrute de bienes comunales se efectuará preferentemente en régimen de explotación colectiva o comunal.
+2. Cuando este aprovechamiento y disfrute general simultáneo de bienes comunales fuere impracticable, regirá la costumbre u Ordenanza local, al respecto y, en su defecto, se efectuarán adjudicaciones de lotes o suertes a los vecinos, en proporción directa al número de familiares a su cargo e inversa a su situación económica.
+3. Si esta forma de aprovechamiento y disfrute fuere imposible, el órgano competente de la Comunidad Autónoma podrá autorizar su adjudicación en pública subasta, mediante precio, dando preferencia en igualdad de condiciones a los postores que sean vecinos.
+4. Los Ayuntamientos y Juntas vecinales que, de acuerdo con normas consuetudinarias u Ordenanzas locales tradicionalmente observadas, viniesen ordenando el disfrute y aprovechamiento de bienes comunales, mediante concesiones periódicas de suertes o cortas de madera a los vecinos, podrán exigir a éstos, como condición previa para participar en los aprovechamientos forestales indicados, determinadas condiciones de vinculación y arraigo o de permanencia, según costumbre local, siempre que tales condiciones y la cuantía máxima de las suertes o lotes sean fijadas en Ordenanzas especiales, aprobadas por el órgano competente de la Comunidad Autónoma, previo dictamen del órgano consultivo superior del Consejo de Gobierno de aquella, si existiere, o, en otro caso, del Consejo de Estado.
+
+### Art 76
+
+Art. 76.
+Son bienes patrimoniales o de propios los que, siendo propiedad de la Entidad local, no estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuente de ingresos para el erario de la Entidad.
+
+### Art 77
+
+Art. 77.
+En casos extraordinarios, y previo acuerdo municipal, adoptado por la mayoría absoluta del número legal de miembros de la Corporación, podrá fijarse una cuota anual que deberán abonar los vecinos por la utilización de los lotes que se les adjudiquen, para compensar estrictamente los gastos que origine la custodia, conservación y administración de los bienes.
+
+### Art 78
+
+Art. 78.
+1. Los bienes comunales que por su naturaleza intrínseca o por otras causas, no hubieren sido objeto de disfrute de esta índole durante más de diez años, aunque en alguno de ellos se haya producido acto aislado de aprovechamiento, podrán ser desprovistos de su carácter comunal mediante acuerdo de la Entidad local respectiva. Este acuerdo requerirá, previa información pública, el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación y posterior aprobación de la Comunidad Autónoma.
+2. En el supuesto de que tales bienes resultasen calificados como patrimoniales y fueren susceptibles de aprovechamiento agrícola, deberán ser arrendados a quienes se comprometieren a su explotación, otorgándose preferencia a los vecinos del Municipio.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 79
+
+Art. 79.
+1. Toda enajenación, gravamen o permuta de bienes inmuebles habrá de comunicarse al órgano competente de la Comunidad Autónoma. Si su valor excediera del 25 por 100 de los recursos ordinarios del presupuesto anual de la Corporación requerirá, además, autorización de aquél.
+2. Los bienes inmuebles patrimoniales no podrán cederse gratuitamente salvo a Entidades o Instituciones públicas y para fines que redunden en beneficio de los habitantes del término municipal, así como a las instituciones privadas de interés público sin ánimo de lucro.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 80
+
+Art. 80.
+Las enajenaciones de bienes patrimoniales habrán de realizarse por subasta pública. Se exceptúa el caso de enajenación mediante permuta con otros bienes de carácter inmobiliario.
+
+### Art 81
+
+Art. 81.
+Cuando se trate de enajenaciones o gravámenes que se refieran a monumentos, edificios u objetos de índole artística o histórica, será necesario el informe previo del órgano estatal o autonómico competente de acuerdo con la legislación sobre Patrimonio Histórico y Artístico.
+
+### Art 82
+
+Art. 82.
+1. No implicarán enajenación ni gravamen las cesiones de parcelas de terrenos del patrimonio municipal a favor de vecinos braceros, aunque el disfrute de éstos haya de durar más de diez años, ni las que se otorguen a vecinos para plantar arbolado en terrenos del mismo patrimonio no catalogados como de utilidad pública.
+2. Dichas cesiones habrán de ser acordadas por el Ayuntamiento Pleno con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.
+3. Los vecinos cesionarios se harán, en su caso, dueños del arbolado que cultiven, y durante los cinco años primeros podrán acotar las parcelas plantadas para preservarlas de los ganados. Si esta acotación perjudicara aprovechamientos comunales y hubiera reclamaciones de vecinos, quedará en suspenso la cesión hasta que sobre ella recaiga nuevamente acuerdo del Ayuntamiento Pleno.
+
+### Art 83
+
+Art. 83.
+El arrendamiento de bienes patrimoniales de las Entidades locales se regirá, en todo caso, en cuanto a su preparación y adjudicación por las normas jurídico-públicas que regulen la contratación.
+
+### Art 84
+
+Art. 84.
+1. Las Entidades locales tendrán la facultad de explotar los montes de su propiedad y realizarán el servicio de conservación y fomento de los mismos, todo ello con arreglo a lo establecido en la legislación específica sobre montes y aprovechamientos forestales.
+2. Corresponde a las Entidades locales la repoblación forestal, ordenación y mejora de los montes de su pertenencia, estén o no declarados de utilidad pública, con intervención de la Administración del Estado o de !a Comunidad Autónoma en los planes y trabajos de acuerdo con la legislación de montes.
+3. Si para el cumplimiento de tales fines precisaren aquellas Entidades auxilio o colaboración de la Administración del Estado o de la Comunidad Autónoma, podrán establecerse con éstas o con las Entidades públicas que ejerzan sus derechos forestales los acuerdos que crean convenientes.
+4. Las Entidades locales poseedoras de montes, declarados o no de utilidad pública, despoblados en superficie igual o superior a cien hectáreas, deberán proceder con sus propios medios o con el auxilio o la colaboración antes mencionada a la repoblación de la cuarta parte de dicha superficie, conforme a las normas dictadas por la Administración competente en materia de agricultura.
+5. Si no lo hiciesen, a pesar de la colaboración de las Administraciones del Estado o de la Comunidad Autónoma, éstas podrán efectuar por su cuenta la repoblación a que viene obligada la Entidad local, concediendo a la misma opción para adquirir la propiedad del monte formado, mediante el reintegro con o sin interés del capital invertido, deducción hecha, en su caso, de la parte concedida como subvención o reservándose una participación en las masas arbóreas creadas con arreglo al valor del suelo.
+
+### Art 85
+
+Art. 85.
+Las Entidades locales deberán inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, siendo suficiente a tal efecto la certificación que, con relación al inventario aprobado por la respectiva Corporación, expida el Secretario, con el visto bueno del Alcalde o Presidente y que producirá iguales efectos que una escritura pública.
+
+### Art 86
+
+Art. 86.
+Las Entidades locales están obligadas a formar inventario valorado de todos los bienes y derechos que les pertenecen, del que se remitirá copia a las Administraciones del Estado y de la Comunidad Autónoma y que se rectificará anualmente, comprobándose siempre que se renueve la Corporación.
+
+### Art 87
+
+Art. 87.
+Los valores mobiliarios podrán depositarse, por acuerdo plenario, en establecimientos bancarios en que exista intervención del Estado. Los resguardos de depósito se conservarán en la Caja de la Entidad local.
+
+## CAPITULO II
+
+Actividades y servicios
+
+### Art 88
+
+Art. 88.
+Tendrán la consideración de obras locales todas las de nueva planta, reforma, reparación o entretenimiento que ejecuten las Entidades locales, tanto con sus propios fondos como con auxilio de otras Entidades públicas o particulares, para la realización de servicios de su competencia.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 89
+
+Art. 89.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 90
+
+Art. 90.
+Todo proyecto de obra deberá constar de planos, presupuesto de realización y memoria en que se incluya relación detallada y valoración aproximada de terrenos y construcciones que hayan de ocuparse y, en su caso, expropiarse, así como condiciones económicas y facultativas, las cuales podrán ser ampliadas con anterioridad al anuncio de la subasta o concurso.
+
+### Art 91
+
+Art. 91.
+Los planes de ordenación urbana, los proyectos de obras y de instalación de servicios, cuando los Ayuntamientos carezcan de personal técnico, estarán a cargo de la respectiva Diputación Provincial.
+
+### Art 92
+
+Art. 92.
+Se estimarán expropiables los edificios respecto a los cuales el Municipio tenga adquirido compromiso firme de ceder en el momento oportuno al Estado, Provincia o Entidad pública, para destinarlos a fines que redunden en pro de los intereses de la comunidad municipal. La cesión habrá de ser autorizada, en su caso, por el órgano competente de la Comunidad Autónoma.
+
+### Art 93
+
+Art. 93.
+La aprobación de los proyectos de obras locales se ajustará al procedimiento legalmente establecido. En todo caso, las provinciales, una vez tomados en consideración los proyectos por la Diputación Provincial, serán sometidos a información pública con carácter previo a su resolución definitiva.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 94
+
+Art. 94.
+Las obras comprendidas en los planes de obras y servicios locales, incluidos los planes provinciales de cooperación, llevarán aneja la declaración de utilidad pública y la necesidad de ocupación de los terrenos y edificios en ellos comprendidos a efectos de su expropiación forzosa.
+
+### Art 95
+
+Art. 95.
+1. Los servicios públicos locales, incluso los ejercidos en virtud de la iniciativa pública prevista en el artículo 86 de la Ley 7/1985, de 2 de abril, podrán ser gestionados directa o indirectamente. Sin embargo, los servicios que impliquen ejercicio de autoridad sólo podrán ser ejercidos por gestión directa.
+2. (Derogado)
+Se deroga el apartado 2 por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 96
+
+Art. 96.
+La iniciativa de las Entidades locales para el ejercicio de actividades económicas, cuando lo sea en régimen de libre concurrencia, podrá recaer sobre cualquier tipo de actividad que sea de utilidad pública y se preste dentro del término municipal y en beneficio de sus habitantes.
+
+### Art 97
+
+Art. 97.
+1. Para el ejercicio de actividades económicas por las Entidades locales se requiere:
+a) Acuerdo inicial de la Corporación, previa designación de una Comisión de estudio compuesta por miembros de la misma y por personal técnico.
+b) Redacción por dicha Comisión de una memoria relativa a los aspectos social, jurídico, técnico y financiero de la actividad económica de que se trate, en la que deberá determinarse la forma de gestión, entre las previstas por la Ley, y los casos en que debe cesar la prestación de la actividad. Asimismo, deberá acompañarse un proyecto de precios del servicio, para cuya fijación se tendrá en cuenta que es lícita la obtención de beneficios aplicable a las necesidades generales de la Entidad local como ingreso de su Presupuesto, sin perjuicio de la constitución de fondos de reserva y amortizaciones.
+c) Exposición pública de la memoria después de ser tomada en consideración por la Corporación, y por plazo no inferior a treinta días naturales, durante los cuales podrán formular observaciones los particulares y Entidades, y
+d) Aprobación del proyecto por el Pleno de la Entidad local.
+2. Para la ejecución efectiva en régimen de monopolio de las actividades reservadas de acuerdo con lo dispuesto en el artículo 86.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, se requerirá el cumplimiento de los trámites previstos en el número anterior referidos a la conveniencia del régimen de monopolio y se recabará informe de la autoridad de competencia correspondiente, si bien el acuerdo a que se refiere su apartado d) deberá ser optado por mayoría absoluta del número legal de miembros de la Corporación.
+Recaído acuerdo de la Corporación, se elevará el expediente completo al órgano competente de la Comunidad Autónoma. El Consejo de Gobierno de ésta deberá resolver sobre su aprobación en el plazo de tres meses.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado, en la redacción dada por la disposición final 1 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756#dfprimera., por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+Si se solicitase dictamen del Consejo de Estado o del órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, donde existiese, no se computará el tiempo invertido en evacuar la consulta.
+Se declara inconstitucional y nulo el inciso destacado del párrafo segundo del apartado 2, en la redacción dada por la disposición final 1 de la Ley 27/2013, de 27 de diciembre, por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+ Se modifica el apartado 2 por la disposición final 1 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756#dfprimera.
+
+### Art 98
+
+Art. 98.
+Todo acuerdo por el que se disponga la efectiva ejecución en régimen de monopolio de alguna de las actividades a que se refiere el artículo 86.3 de la Ley 7/1985, de 2 de abril, llevará aneja, cuando requiera la expropiación de empresas, la declaración de utilidad pública y la necesidad de ocupación de los bienes afectos al servicio.
+
+### Art 99
+
+Art. 99.
+1. En los casos en que se requiera la expropiación de empresas Industriales o comerciales o el rescate de concesiones, se dará aviso a los interesados con seis meses de anticipación, por lo menos.
+2. Para la determinación del justo precio se seguirán las reglas y el procedimiento establecidos en el Capítulo III del Título II de la Ley de Expropiación Forzosa de 16 de diciembre de 1954, si bien en el Jurado provincial de expropiación el funcionario técnico a que se refiere el apartado b) del artículo 32 de la misma será designado por la Corporación local interesada
+
+### Art 100
+
+Art. 100.
+Los servicios monopolizados en los términos del artículo 86.3 de la Ley 7/1985, de 2 de abril, podrán ser prestados por gestión directa a cargo de personal directamente dependiente en su actuación de los acuerdos y actos de los órganos de gobierno de la Corporación local.
+
+### Art 101
+
+Art. 101.
+1. Cuando la gestión directa de los servicios se realice mediante una organización especializada, habrá de constituirse un Consejo de Administración que será presidido por un miembro de la Corporación.
+2. A propuesta de dicho Consejo, el Alcalde o Presidente designará al Gerente.
+
+### Art 102
+
+Art. 102.
+1. La organización especializada tendrá, dentro del presupuesto único previsto en el artículo 112 de la Ley 7/1985, de 2 de abril, sección presupuestaria propia, constituida por las partidas consignadas a tal fin y nutrida por el producto de la prestación y por las subvenciones o auxilios que se recibiesen.
+2. Los servicios prestados mediante una organización especializada llevarán, con independencia de la contabilidad general de la Entidad local, una contabilidad especial, debiendo publicarse los balances y las liquidaciones.
+3. La liquidación o compensación de las pérdidas se hará en la forma prevista en el acuerdo de establecimiento. Con cargo a las ganancias se constituirán fondos de reserva en la cuantía que establezcan las Ordenanzas.
+
+### Art 103
+
+Art. 103.
+1. En los casos en que el servicio o actividad se gestione directamente en forma de empresa privada, habrá de adoptarse una de las formas de Sociedad mercantil de responsabilidad limitada. La Sociedad se constituirá y actuará conforme a las disposiciones legales mercantiles, y en la escritura de constitución constará el capital, que deberá ser aportado íntegramente por la Entidad local, la forma de constituir el Consejo de Administración y la determinación de quienes tengan derecho a emitir voto representando al capital social.
+2. Cuando las pérdidas excedan de la mitad del capital social, será obligatoria la disolución de la Sociedad, y la Corporación resolverá sobre la continuidad y forma de prestación del servicio.
+
+### Art 104
+
+Art. 104.
+1. Para la gestión indirecta de los servicios podrán las Entidades locales utilizar las formas de Sociedad mercantil o cooperativa cuyo capital social sólo parcialmente pertenezca a la Entidad.
+2. En el acuerdo constitutivo podrán establecerse las especialidades internas tanto estructurales como funcionales que, sin perjuicio de terceros, exceptúen la legislación societaria aplicable, en la medida necesaria para promover y desarrollar la empresa mixta de carácter mercantil o cooperativo.
+En todo caso, deberá determinarse si la participación de los particulares ha de obtenerse únicamente por suscripción de acciones, participaciones o aportaciones de la empresa que se constituya o previo concurso en que los concursantes formulen propuestas respecto a la cooperación municipal y a la particular en la futura Sociedad, fijando el modo de constituir el capital social y la participación que se reserve la Entidad local en la dirección de la Sociedad y en sus posibles beneficios o pérdidas y demás particulares que figuren en la convocatoria.
+3. Las Entidades locales podrán aportar exclusivamente la concesión, debidamente valorada a efectos de responsabilidad económica, u otra clase de derechos, así como instalaciones, equipamientos o numerario, siempre que tengan la condición de bienes patrimoniales. La escritura de constitución consignará, en todo caso, las facultades reservadas a quienes representen en la empresa a la Entidad local, así como los casos en que proceda la disolución.
+4. En estas empresas podrán participar como socios, junto a la Entidad local, cualesquiera personas físicas o jurídicas, sea cual fuere la clase y el nivel o grado de la Sociedad resultante.
+
+### Art 105
+
+Art. 105.
+En las Sociedades mercantiles o cooperativas a que se refiere el artículo anterior, la responsabilidad de la Entidad local se limitará a lo que expresamente conste en la escritura de constitución, sin que, en ningún caso, sea inferior al valor de los bienes o derechos aportados por aquélla.
+
+### Art 106
+
+Art. 106.
+Los actos de gestión del servicio en sus relaciones con los usuarios estarán sometidos a las normas del propio servicio y, en su caso, a la legislación del Estado y de la Comunidad Autónoma que regule la materia.
+
+### Art 107
+
+Art. 107.
+1. La determinación de las tarifas de los servicios que, con arreglo a la legislación sobre política general de precios, deban ser autorizadas por las Comunidades Autónomas u otra Administración competente, deberá ir precedida del oportuno estudio económico. Transcurridos tres meses desde la fecha de entrada del expediente en la Administración autorizante sin que haya recaído resolución, las tarifas se entenderán aprobadas.
+2. Las tarifas deberán ser suficientes para la autofinanciación del servicio de que se trate. No obstante, cuando las circunstancias aconsejaren mantener la cuantía de las tarifas con módulos inferiores a los exigidos por la referida autofinanciación, la Comunidad Autónoma o Administración competente podrá acordarlo así, autorizando simultáneamente las compensaciones económicas pertinentes.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 108
+
+Art. 108.
+En los casos de prestación indirecta de la actividad, con la única excepción de los servicios concedidos, regirán las siguientes normas:
+A) Se fijará el término del convenio de acuerdo con las características del servicio, sin que en ningún caso pueda exceder de cincuenta años.
+B) Se determinarán los precios de prestación del servicio, así como los plazos y condiciones de su revisión.
+C) Se establecerán las garantías precisas para que, al término del convenio, las instalaciones, bienes y material integrante del servicio reviertan al patrimonio de la Entidad en condiciones normales de uso.
+D) Se señalarán las condiciones de rescisión de los contratos y
+E) Se fijará, en su caso, el canon anual que haya de satisfacerse a la Corporación, determinándose, además, la participación que la Entidad local tenga en la dirección de la empresa, así como en sus beneficios y pérdidas.
+En cualquier caso, será necesario obtener la previa autorización de la Corporación para introducir mejoras en la prestación del servicio, sin perjuicio de que tales mejoras puedan ser impuestas por aquella Corporación mediante adecuada indemnización.
+
+### Art 109
+
+Art. 109.
+Si el monopolio de un servicio afecta a varios términos municipales, deberán adoptar el acuerdo todos los Ayuntamientos respectivos, aun cuando el servicio haya de ser prestado a través de Mancomunidades u otras formas asociativas.
+
+### Art 110
+
+Art. 110.
+(Derogado).
+Téngase en cuenta que esta derogación, establecida por la disposición derogatoria única.b) de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#ddunica., entra en vigor el 2 de octubre de 2016, según determina su disposición final 18.1.
+ Redacción anterior:
+ "Art. 110.
+ 1. Las Entidades pueden constituir Consorcios con otras Administraciones públicas para fines de interés común o con entidades privadas sin ánimo de lucro que persigan fines de interés público concurrentes con los de las Administraciones públicas.
+ 2. Los Consorcios gozarán de personalidad jurídica propia.
+ 3. Los Estatutos de los Consorcios determinarán los fines de los mismos, así como las particularidades del régimen orgánico, funcional y financiero.
+ 4. Sus órganos de decisión estarán integrados por representantes de todas las Entidades consorciadas, en la proporción que se fije en los Estatutos respectivos.
+ 5. Para la gestión de los servicios de su competencia podrán utilizarse cualquiera de las formas previstas en la legislación de Régimen local."
+Se deroga, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.b) de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#ddunica.
+
+## CAPITULO III
+
+Contratación
+
+### Art 111
+
+Art. 111.
+Las Entidades locales podrán concertar los contratos, pactos o condiciones que tengan por conveniente, siempre que no sean contrarios al interés público, al ordenamiento jurídico o a los principios de buena administración, y deberán cumplirlos a tenor de los mismos, sin perjuicio de las prerrogativas establecidas, en su caso, en favor de dichas Entidades.
+
+### Art 112
+
+Art. 112.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 113
+
+Art. 113.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 114
+
+Art. 114.
+1. El órgano de la Entidad local competente para contratar según la Ley ostenta también la prerrogativa de interpretar tos contratos administrativos y resolver las dudas que ofrezca su cumplimiento. Igualmente, podrá modificar, por razón de interés público, los contratos celebrados y acordar su resolución dentro de los límites y con sujeción a los requisitos y efectos señalados legalmente.
+2. Las facultades establecidas en el número anterior se entienden sin perjuicio de la obligada audiencia del contratista y de las responsabilidades e indemnizaciones a que hubiere lugar.
+3. Los acuerdos que, previo informe de la Secretaría y de la Intervención de la Corporación, dicte el órgano competente, en cuanto a la interpretación, modificación y resolución de los contratos serán inmediatamente ejecutivos. En los casos de interpretación y resolución, cuando el precio del contrato exceda de la cantidad fijada por la legislación estatal sobre contratación administrativa, y en los de modificación de estos últimos, cuando la cuantía de aquélla exceda del 20 por 100 del precio del contrato, será, además, preceptivo el dictamen del órgano consultivo superior de la Comunidad Autónoma, si existiere o, en su defecto, del Consejo de Estado.
+
+### Art 115
+
+Art. 115.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 116
+
+Art. 116.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 117
+
+Art. 117.
+1. Cuando las Entidades locales tengan que realizar obras, servicios, adquisiciones o suministros de emergencia, a causa de acontecimientos catastróficos, situaciones que supongan grave peligro o necesidades que afecten directamente a la seguridad pública, se estará al siguiente régimen excepcional:
+1.° El Pleno de la Corporación podrá ordenar la directa ejecución de las obras, prestación de los servicios o realización de adquisiciones o suministros indispensables o contratarlos libremente, en todo o en parte, sin sujetarse a los requisitos formales legalmente establecidos.
+Podrá, igualmente, ejercer dicha facultad el Presidente de la Corporación local, debiendo dar conocimiento al Pleno de la Corporación en la primera sesión que se celebre.
+2.° Simultáneamente, se autorizará el libramiento de los fondos precisos para hacer frente a los gastos con el carácter de a justificar, sin perjuicio de instruir el oportuno expediente de modificación de créditos, cuando fuere necesario.
+2. El resto de las obras, servicios, suministros o adquisiciones que puedan ser necesarios se contratará de conformidad con los requisitos formales legalmente establecidos.
+
+### Art 118
+
+Art. 118.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 119
+
+Art. 119.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 120
+
+Art. 120.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 121
+
+Art. 121.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 122
+
+Art. 122.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+### Art 123
+
+Art. 123.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 124
+
+Art. 124.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 125
+
+Art. 125.
+(Derogado)
+Se deroga por la disposición derogatoria única.c) de la Ley 30/2007, de 30 de octubre. Ref. BOE-A-2007-18874
+
+## TITULO VII
+
+Personal al servicio de las Entidades locales
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Art 126
+
+Art. 126.
+1. Las plantillas, que deberán comprender todos los puestos de trabajo debidamente clasificados reservados a funcionarios, personal laboral y eventual, se aprobarán anualmente con ocasión de la aprobación del Presupuesto y habrán de responder a los principios enunciados en el artículo 90.1 de la Ley 7/1985, de 2 de abril. A ellas se unirán los antecedentes, estudios y documentos acreditativos de que se ajustan a los mencionados principios.
+2. Las plantillas podrán ser ampliadas en los siguientes supuestos:
+a) Cuando el incremento del gasto quede compensado mediante la reducción de otras unidades o capítulos de gastos corrientes no ampliables.
+b) Siempre que el incremento de las dotaciones sea consecuencia del establecimiento o ampliación de servicios de carácter obligatorio que resulten impuestos por disposiciones legales.
+Lo establecido en este apartado será sin perjuicio de las limitaciones específicas contenidas en leyes especiales o coyunturales.
+3. La modificación de las plantillas durante la vigencia del Presupuesto requerirá el cumplimiento de los trámites establecidos para la modificación de aquél.
+4. Las relaciones de los puestos de trabajo, que tendrán en todo caso el contenido previsto en la legislación básica sobre función pública, se confeccionarán con arreglo a las normas previstas en el artículo 90.2 de la Ley 7/1985, de 2 de abril.
+
+### Art 127
+
+Art. 127.
+Una vez aprobada la plantilla y la relación de puestos de trabajo, se remitirá copia a la Administración del Estado y, en su caso, a la de la Comunidad Autónoma respectiva, dentro del plazo de treinta días, sin perjuicio de su publicación íntegra en el «Boletín Oficial de la Provincia», junto con el resumen del Presupuesto.
+
+### Art 128
+
+Art. 128.
+1. Las Corporaciones locales aprobarán y publicarán anualmente, dentro del plazo de un mes desde la aprobación de su Presupuesto, la oferta de empleo público para el año correspondiente, ajustándose a la legislación básica del Estado sobre función pública y a los criterios que reglamentariamente se establezcan en desarrollo de la normativa básica estatal para su debida coordinación con las ofertas de empleo del resto de las Administraciones Públicas.
+2. No podrá nombrarse personal interino para plazas que no se hayan incluido en la oferta de empleo público, salvo cuando se trate de vacantes realmente producidas con posterioridad a su aprobación.
+El personal que ostentare la condición de interino cesará automáticamente al tomar posesión como funcionarios de carrera los aspirantes aprobados en la respectiva convocatoria. Sólo podrá procederse al nombramiento del nuevo personal interino para las plazas que continúen vacantes una vez concluidos los correspondientes procesos selectivos.
+
+### Art 129
+
+Art. 129.
+1. Corresponde al Gobierno, a propuesta del Ministro de Administración Territorial:
+a) Establecer los límites máximos y mínimos de las retribuciones complementarias de los funcionarios de Administración Local.
+b) Establecer límites de carácter general a los gastos de personal de las Entidades locales, sin perjuicio de los que puedan establecerse en las Leyes de Presupuestos Generales del Estado o en otras Leyes.
+c) Establecer las normas básicas específicas de la carrera administrativa, especialmente en cuanto se refiere a la promoción y movilidad.
+d) Aprobar los demás proyectos de normas básicas de aplicación a la función pública local que deban revestir la forma de Real Decreto.
+2. Corresponde al Ministerio de Administración Territorial:
+a) Establecer las normas con arreglo a las cuales hayan de confeccionarse en las Entidades locales las relaciones de puestos de trabajo, la descripción de puestos de trabajo tipo y las condiciones requeridas para su creación.
+b) En relación con los funcionarios con habilitación de carácter nacional:
+1.° El desarrollo de su régimen legal general.
+2.° La convocatoria de las pruebas selectivas para el acceso a los cursos para la obtención de la habilitación y la aprobación de las bases y programas correspondientes.
+3.º La expedición de los títulos acreditativos de la habilitación de carácter nacional a quienes superen los cursos de formación.
+4.° El establecimiento de las normas básicas de los concursos para la provisión de las plazas reservadas a funcionarios con habilitación de carácter nacional, incluyendo los méritos generales de preceptiva valoración.
+5.º (Derogado)
+6.° (Derogado)
+7.° Las acumulaciones y comisiones de servicio de funcionarios con habilitación de carácter nacional, cuando excedan del ámbito territorial de una Comunidad Autónoma.
+8.º Acordar la destitución del cargo o la separación del servicio de los funcionarios con habilitación de carácter nacional previo expediente instruido al efecto en la forma prevista en los artículos 149 y 150 de esta Ley.
+3. Corresponde a los órganos de la Corporación local, según la distribución de competencias prevista en la Ley 7/1985, de 2 de abril, las restantes competencias en materia de personal a su servicio y, en particular, las siguientes:
+a) La aprobación de plantillas y relaciones de puestos de trabajo y sus modificaciones.
+b) El establecimiento de escalas, subescalas y clases de funcionarios y la clasificación de los mismos.
+c) La determinación del procedimiento de ingreso en las Subescalas de Administración Especial.
+Los acuerdos de las Corporaciones que versen sobre estas materias deberán ser comunicados al Ministerio de Administración Territorial, y al órgano competente en materia de régimen local de la Comunidad Autónoma, dentro del plazo de treinta días, a partir del siguiente a la fecha de su adopción, y sin perjuicio del deber general de comunicación de acuerdos a que se refiere el artículo 56.1 de la Ley 7/1985, de 2 de abril.
+Se modifica el apartado 2.b).7º por el art. 64.2 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se modifica el apartado 2.b).7º por el art. 2.1 del Real Decreto Legislativo 2/1994, de 25 de junio. Ref. BOE-A-1994-14961
+ Se derogan los apartados 2.b).5º y 6º por la disposición derogatoria única.b) de la Ley 10/1993, de 21 de abril. Ref. BOE-A-1993-10455
+ Téngase en cuenta que estos apartados ya estaban derogados parcialmente por la Ley 31/1991, de 30 de diciembre.
+ Se derogan los apartados 2.b).5º y 6º en la forma indicada por la disposición adicional 8.5 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+
+## CAPITULO II
+
+Disposiciones comunes a los funcionarios de carrera
+
+### Art 130
+
+Art. 130.
+1. Son funcionarios de la Administración Local las personas vinculadas a ella por una relación de servicios profesionales y retribuidos, regulada por el Derecho Administrativo.
+2. Son funcionarios de carrera de la Administración Local los que, en virtud de nombramiento legal, desempeñen servicios de carácter permanente en una Entidad local, figuren en las correspondientes plantillas y perciban sueldos o asignaciones fijas con cargo a las consignaciones de personal del presupuesto de las Corporaciones.
+
+### Art 131
+
+Art. 131.
+1. Los funcionarios de carrera que no ocupen puestos de trabajo reservados a funcionarios con habilitación de carácter nacional se integrarán en las escalas, subescalas, clases y categorías de cada Corporación, con arreglo a lo que se previene en la presente Ley.
+2. Las subescalas, clases y categorías quedarán agrupadas conforme a la legislación básica del Estado en los grupos que ésta determine, de acuerdo con la titulación exigida para su ingreso.
+
+### Art 132
+
+Art. 132.
+Corresponde a los funcionarios de carrera el desempeño de los puestos de trabajo que tengan atribuidas las funciones señaladas en el artículo 92.2 de la Ley 7/1985, de 2 de abril, así como las que en su desarrollo y en orden a la clasificación de puestos, se determinen en las normas estatales sobre confección de las relaciones de puestos de trabajo y descripción de puestos de trabajo-tipo.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 133
+
+Art. 133.
+El procedimiento de selección de los funcionarios de Administración Local se ajustará a la legislación básica del Estado sobre función pública, y se establecerá teniendo en cuenta la conexión entre el tipo de pruebas a superar y la adecuación a los puestos de trabajo que se hayan de desempeñar, incluyendo a tal efecto las pruebas prácticas que sean precisas.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 134
+
+Art. 134.
+1. Las convocatorias serán siempre libres. No obstante, podrán reservarse para promoción interna hasta un máximo del 50 por 100 de las plazas convocadas para funcionarios que reúnan la titulación y demás requisitos exigidos en la convocatoria.
+2. Serán aplicables las normas de la presente Ley, y las que dicte el Estado en uso de las autorizaciones contenidas en los artículos 98.1 y 100.2 de la Ley 7/1985, de 2 de abril; en lo no previsto en ellas, la reglamentación que para el ingreso en la función pública establezca la respectiva Comunidad Autónoma, y supletoriamente, el Real Decreto 2223/1984, de 19 de diciembre (*), por el que se aprueba el Reglamento general de ingreso del personal al servicio de la Administración del Estado.
+(*) Actualmente, el Real Decreto 364/1995, de 10 de marzo. Ref. BOE-A-1995-8729.
+
+### Art 135
+
+Art. 135.
+Para ser admitido a las pruebas para el acceso a la Función Pública local será necesario:
+a) Ser español.
+b) Tener cumplidos 18 años de edad.
+c) Estar en posesión del título exigible, o en condiciones de obtenerlo, en la fecha en que termine el plazo de presentación de instancias, en cada caso.
+d) No padecer enfermedad o defecto físico que impida el desempeño de las correspondientes funciones.
+e) No haber sido separado, mediante expediente disciplinario, del servicio al Estado, a las Comunidades Autónomas, o a las Entidades locales, ni hallarse inhabilitado para el ejercicio de funciones públicas.
+Se modifica la letra b) por el art. 58 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Art 136
+
+Art. 136.
+1. El nombramiento de los aspirantes que superen las pruebas establecidas y, en su caso, los correspondientes cursos selectivos, corresponderá al Alcalde o Presidente, o al miembro de la Corporación, que, por delegación de aquél, ostente la jefatura directa de personal.
+2. Será nulo el nombramiento como funcionario de la Entidad local de quienes estén incursos en causas de incapacidad específica, conforme a la normativa vigente. Idénticas reglas serán de aplicación al personal interino a que se refiere el artículo 128.2.
+
+### Art 137
+
+Art. 137.
+La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:
+a) Superar las pruebas de selección, y en su caso, los cursos de formación preceptivos.
+b) Nombramiento conferido por la autoridad competente.
+c) Prestar juramento o promesa en la forma legalmente establecida.
+d) Tomar posesión dentro del plazo señalado reglamentariamente.
+
+### Art 138
+
+Art. 138.
+1. La condición de funcionario de carrera de la Administración local se pierde en virtud de alguna de las causas siguientes:
+a) Renuncia.
+b) Pérdida de la nacionalidad española.
+c) Sanción disciplinaria de separación del servicio.
+d) Por imposición de la pena de inhabilitación absoluta o inhabilitación especial.
+e) Por jubilación forzosa o voluntaria.
+2. La renuncia a la condición de funcionario no inhabilita para nuevo ingreso al servicio de la Administración local.
+3. En el caso de recuperación de la nacionalidad española se podrá solicitar la rehabilitación de la cualidad de funcionario de la Administración local.
+4. La pérdida de la condición de funcionario, prevista en los apartados c) y d) del número 1 tiene carácter definitivo, sin perjuicio de los supuestos de rehabilitación.
+5. La relación funcionarial cesa durante el tiempo de la condena a la pena de suspensión de cargo público.
+
+### Art 139
+
+Art. 139.
+1. La jubilación de los funcionarios tendrá lugar:
+a) Forzosamente por cumplimiento de la edad.
+b) De oficio o a petición del interesado, por incapacidad permanente para eI ejercicio de sus funciones.
+c) A instancia del interesado, por haber cumplido sesenta años de edad y haber completado treinta años de servicios efectivos.
+2. La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.
+3. Los derechos pasivos de los funcionarios de Administración Local se regirán por su legislación específica, que deberá ser homologada a la normativa general de los funcionarios civiles del Estado. De igual forma, cuando se trate de funcionarios con jornada reducida, se aplicarán principios análogos a los establecidos para los funcionarios del Estado.
+Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 140
+
+Art. 140.
+1. Las situaciones en que pueden hallarse los funcionarios de carrera de la Administración local serán las siguientes:
+a) Servicio activo.
+b) Servicio en Comunidades Autónomas.
+c) Excedencia forzosa o voluntaria.
+d) Servicios especiales.
+e) Suspensión.
+2. Dichas situaciones se regularán por la normativa básica estatal, y por la legislación de función pública de la respectiva Comunidad Autónoma y, supletoriamente, por la legislación de los funcionarios de la Administración del Estado, teniéndose en cuenta las peculiaridades del régimen local.
+
+### Art 141
+
+Art. 141.
+1. Se asegura a los funcionarios de carrera en las Entidades locales el derecho al cargo, sin perjuicio de su adscripción a unos u otros puestos de trabajo, efectuada dentro de sus competencias respectivas por los distintos órganos competentes en materia de funcionarios públicos locales. Los funcionarios con habilitación de carácter nacional gozarán, asimismo, del derecho a la inamovilidad en la residencia. También estarán asistidos del derecho de inamovilidad en la residencia los demás funcionarios, en cuanto el servicio lo consienta.
+2. Las Corporaciones locales dispensarán a sus funcionarios la protección que requiere el ejercicio de sus cargos, y les otorgarán los tratamientos y consideraciones sociales debidos a su rango y a la dignidad de la función pública.
+
+### Art 142
+
+Art. 142.
+Los funcionarios de la Administración local tendrán derecho a las recompensas, permisos, licencias y vacaciones retribuidas previstas en la legislación sobre función pública de la Comunidad Autónoma respectiva y, supletoriamente, en la aplicable a los funcionarios de la Administración del Estado.
+
+### Art 143
+
+Art. 143.
+Las Entidades locales, sin perjuicio de lo establecido en la Disposición adicional de esta Ley y disposiciones dictadas en su desarrollo, estarán obligadas en los términos de la legislación vigente a facilitar a sus funcionarios una adecuada asistencia médico-farmacéutica, que incluirá la quirúrgica y de especialidades.
+
+### Art 144
+
+Art. 144.
+Los funcionarios de Administración local tienen las obligaciones determinadas por la legislación sobre función pública de la correspondiente Comunidad Autónoma y, en todo caso, las previstas en la legislación básica del Estado sobre función pública.
+
+### Art 145
+
+Art. 145.
+El régimen de incompatibilidades de los funcionarios de la Administración local es el establecido con carácter general para la función pública en la Ley 53/1984, de 26 de diciembre, y en las normas que se dicten por el Estado para su aplicación a los funcionarios de la Administración local.
+
+### Art 146
+
+Art. 146.
+1. Las faltas cometidas por los funcionarios de la Administración local en el ejercicio de sus cargos serán calificadas de leves, graves y muy graves.
+2. Las faltas leves prescribirán al mes; las graves, a los dos años, y las muy graves, a los seis años.
+3. Reglamentariamente se determinará la forma de computar dichos plazos de prescripción.
+
+### Art 147
+
+Art. 147.
+1. Las faltas muy graves serán las tipificadas por la legislación básica de la función pública.
+2. Las faltas graves y leves serán las establecidas en la legislación de función pública de la respectiva Comunidad Autónoma y supletoriamente en la legislación de funcionarios civiles del Estado.
+
+### Art 148
+
+Art. 148.
+1. Por razón de las faltas a que se refiere el artículo anterior podrán imponerse las sanciones siguientes:
+a) Apercibimiento.
+b) Deducción proporcional de las retribuciones.
+c) Suspensión de funciones.
+d) Destitución del cargo.
+e) Separación del servicio.
+2. Las faltas leves sólo podrán corregirse con las sanciones que se señalan en los apartados a) y b) del número 1 de este artículo.
+Las faltas de puntualidad y las de asistencia, cuando constituyan faltas leves, se sancionarán con la deducción proporcional de las retribuciones.
+3. Las sanciones de los apartados b), c) y d) de dicho número se impondrán por la comisión de faltas graves.
+4. Las faltas muy graves se corregirán con las sanciones de los apartados c), d) y e) del mismo número.
+5. La sanción del apartado d) sólo será de aplicación a los funcionarios con habilitación de carácter nacional. No se les aplicará, en cambio, la suspensión de funciones por más de un año, que será sustituida por la destitución del cargo, con prohibición de obtener nuevo destino en el plazo que se fije, con el máximo de tres años.
+6. La suspensión firme determina la pérdida del puesto de trabajo, que será cubierto reglamentariamente sin perjuicio de lo establecido en el número anterior para los funcionarios con habilitación de carácter nacional.
+7. No se entenderá como sanción la facultad de las Corporaciones para adscribir y remover de los distintos puestos de trabajo a los funcionarios sin habilitación de carácter nacional.
+
+### Art 149
+
+Art. 149.
+1. No se podrán imponer sanciones por faltas graves o muy graves sino en virtud de expediente instruido al efecto con audiencia del interesado. La tramitación del expediente se regirá por las disposiciones reglamentarias correspondientes.
+2. Las faltas leves podrán ser corregidas sin necesidad de instruir expediente, dando audiencia, en todo caso, al interesado.
+
+### Art 150
+
+Art. 150.
+1. Son órganos competentes para la incoación de expedientes disciplinarios a las funcionarios de la Administración local los siguientes:
+a) El Presidente de la Corporación, en todo caso, o el miembro de ésta que, por delegación de aquél, ostente la jefatura directa del personal.
+b) La Dirección General de Administración Local, cuando se trate de funcionarios con habilitación de carácter nacional, por faltas cometidas en Corporación distinta de aquélla en la que se encuentren prestando servicios, o cuando, por la gravedad de los hechos denunciados, pudiera dar lugar a sanción de destitución o separación del servicio.
+2. El órgano competente para acordar la incoación del expediente, lo será también para nombrar Instructor del mismo y decretar o alzar la suspensión provisional del expedientado, así como para instruir diligencias previas antes de decidir sobre tal incoación.
+3. En cualquier caso, decretada por el Presidente de la Corporación la instrucción de expediente disciplinario a funcionario con habilitación de carácter nacional, aquél podrá solicitar de la Dirección General de Administración Local la instrucción del mismo si la Corporación careciera de medios personales para su tramitación.
+4. La tramitación del expediente se ajustará a lo que establezca la legislación de la Comunidad Autónoma respectiva y supletoriamente el Reglamento disciplinario de los funcionarios de la Administración Civil del Estado.
+
+### Art 151
+
+Art. 151.
+Son órganos competentes para la imposición de sanciones por faltas graves o muy graves al resolver el expediente disciplinario:
+a) El Ministro de Administraciones Públicas, cuando se trate de imponer sanciones que supongan la destitución del cargo o la separación del servicio de funcionarios con habilitación de carácter nacional. También lo será para imponer la sanción de suspensión de funciones a los funcionarios con habilitación de carácter nacional cuando la falta se hubiera cometido en Corporación distinta de la que se encuentren actualmente prestando servicios.
+b) El Pleno de la Corporación, cuando se trate de sanciones a funcionarios con habilitación de carácter nacional no comprendidas en el párrafo anterior o de la separación del servicio de otros funcionarios cuyo nombramiento esté atribuido a la Corporación.
+Se modifica la letra a) por el art. 59.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Art 152
+
+Art. 152.
+1. Las sanciones disciplinarias que se impongan a los funcionarios se anotarán en sus hojas de servicios y, en todo caso, en el Registro de Personal, con indicación de las faltas que las motivaron. La cancelación se regirá por la legislación de función pública de la respectiva Comunidad Autónoma y supletoriamente por la legislación de funcionarios civiles del Estado.
+2. Los funcionarios de Administración local podrán ser rehabilitados cuando hayan sido separados del servicio por sanción disciplinaria, acreditando la cancelación de antecedentes penales, en su caso, el cumplimiento de las responsabilidades en que hubieran incurrido y que observen conducta que les haga acreedores a dicho beneficio a juicio de la autoridad que deba decidir.
+
+### Art 153
+
+Art. 153.
+1. Los funcionarios de Administración local sólo serán remunerados por las Corporaciones respectivas, por los conceptos establecidos en el artículo 23 de la Ley 30/1984, de 2 de agosto.
+2. En su virtud, no podrán participar en la distribución de fondos de ninguna clase ni percibir remuneraciones distintas a las comprendidas en dicha Ley ni, incluso, por confección de proyectos, o dirección o inspección de obras, o presupuestos, asesorías o emisión de dictámenes e informes.
+Las cantidades procedentes de los indicados fondos se incluirán en el presupuesto de ingresos de las Corporaciones.
+3. La estructura, criterios de valoración objetiva, en su caso, y cuantías de las diversas retribuciones de los funcionarios de Administración local, se regirán por lo dispuesto en el artículo 93 de la Ley 7/1985, de 2 de abril.
+
+### Art 154
+
+Art. 154.
+1. La Ley de Presupuestos Generales del Estado para cada año fijará los límites al incremento de las retribuciones o gastos de personal de las Corporaciones locales.
+Cuando tales límites hagan referencia a la cuantía global de las retribuciones de los funcionarios, se entenderán sin perjuicio de las ampliaciones de plantillas que puedan efectuarse, de acuerdo con lo dispuesto en el artículo 126.2 y 3 de esta Ley.
+2. Lo dispuesto en el párrafo segundo del número anterior no obstará a que, por la Ley de Presupuestos o por otras leyes especiales o coyunturales, puedan establecerse reglas específicas para ciertos casos o limitaciones a la cuantía de las retribuciones individuales.
+3. La ordenación del pago de gastos de personal tendrá preferencia sobre cualquier otro que deba realizarse con cargo a los fondos de la respectiva Entidad. Reglamentariamente se regulará el procedimiento sustitutivo para el percibo por los interesados de las cantidades que indebidamente hayan dejado de satisfacerse.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 155
+
+Art. 155.
+1. En el caso de que un funcionario preste sus servicios sucesivamente en distintos cuerpos o, en su caso, subescalas, clases o categorías, tendrá derecho a seguir percibiendo los trienios devengados en los anteriores.
+2. Cuando un funcionario cambie de cuerpo o, en su caso, de subescala, clase o categoría, antes de completar un trienio, la fracción de tiempo transcurrido se considerará como tiempo de servicio prestado en el nuevo a que pase a pertenecer.
+
+### Art 156
+
+Art. 156.
+El disfrute de las retribuciones complementarias no creará derechos adquiridos en favor de los funcionarios, salvo lo establecido legalmente respecto del grado consolidado en relación con el nivel de complemento de destino.
+
+### Art 157
+
+Art. 157.
+La ayuda familiar, las indemnizaciones por razón del servicio o por residencia en ciertos lugares del territorio nacional del personal al servicio de las Corporaciones locales que tengan derecho a ellas, serán las mismas que correspondan al personal al servicio de la Administración del Estado. En ningún caso, habrá derecho a percibir indemnización por casa-habitación.
+
+## CAPITULO III
+
+Disposiciones específicas para los funcionarios con habilitación de carácter nacional
+Téngase en cuenta que este capítulo queda derogado por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2. manteniéndose vigente en tanto no se oponga a la establecido en el Estatuto y hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este capítulo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Art 158
+
+Art. 158.
+La obtención de la habilitación de carácter nacional se regirá por lo dispuesto en el artículo 98 de la Ley 7/1985, de 2 de abril, y normas reglamentarias que la desarrollen.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Art 159
+
+Art. 159.
+1. La competencia de ejecución en materia de creación, supresión y clasificación de los puestos de trabajo reservados a funcionarios de la Administración Local con habilitación de carácter nacional corresponde a las Comunidades Autónomas de acuerdo con los límites de población, presupuesto y demás circunstancias generales y objetivas que se establezcan reglamentariamente por la Administración del Estado.
+2. A solicitud de los municipios donde exista población muy superior a la residente durante importantes temporadas del año o en los que concurran las condiciones de centro de comarca o de localización de actividades o de acción urbanística muy superior a la normal u otras objetivas análogas, la Comunidad Autónoma podrá acordar que el puesto de trabajo se clasifique en categoría superior a la que corresponda por su población.
+3. El Gobierno regulará la situación en que hayan de quedar los funcionarios que desempeñen puestos de trabajo cuya clasificación sea alterada, pudiendo preverse, en determinados casos, y a petición de la respectiva Corporación, que continúen como funcionarios de Administración General de la misma, con respeto de sus retribuciones básicas.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica el apartado 1 por el art. 64.3 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se modifica por el art. 2.2 del Real Decreto Legislativo 2/1994, de 25 de junio. Ref. BOE-A-1994-14961
+
+### Art 160
+
+Art. 160.
+1. La provisión de puestos de trabajo vacantes reservados a funcionarios con habilitación de carácter nacional, se regirá por lo dispuesto en el artículo 99 de la Ley 7/1985, de 2 de abril, y sus normas de desarrollo.
+2. Para la provisión de estos puestos de trabajo en los Ayuntamientos de Madrid y Barcelona se tendrá en cuenta lo establecido en la Disposición adicional sexta de la Ley 7/1985, de 2 de abril.
+3. De acuerdo con las Corporaciones locales afectadas y previa conformidad de los interesados, las Comunidades Autónomas podrán efectuar nombramientos provisionales a favor de habilitados nacionales, en puestos a ellos reservados.
+Dichos nombramientos podrán ser revocados por la Comunidad Autónoma que los efectuó de acuerdo con la Corporación local afectada.
+Los nombramientos y revocaciones aludidos se efectuarán con sujeción a las normas que determine la Administración del Estado.
+4. De acuerdo con las Corporaciones locales afectadas y con los funcionarios interesados, las Comunidades Autónomas, dentro de su ámbito territorial, podrán autorizar la acumulación de funciones reservadas en el supuesto de vacante, ausencia o enfermedad en funcionarios con habilitación de carácter nacional de entidad local próxima a la de su puesto de trabajo. Asimismo, de acuerdo con las Corporaciones locales, podrán conferirles comisiones de servicios.
+5. De acuerdo con las Corporaciones locales afectadas y los funcionarios interesados, las Comunidades Autónomas, dentro de su ámbito territorial, podrán autorizar permutas, atendiendo a lo dispuesto en la normativa aplicable a los funcionarios civiles del Estado.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se añaden los apartados 3 a 5 por el art. 2.3 del Real Decreto Legislativo 2/1994, de 25 de junio. Ref. BOE-A-1994-14961
+
+### Art 161
+
+Art. 161.
+En todas las entidades locales existirá, al menos, un puesto de trabajo que tenga atribuida la responsabilidad administrativa de la función a que se refiere el artículo 92.3, a), de la Ley 7/1985, de 2 de abril.
+No obstante lo dispuesto en el párrafo anterior, reglamentariamente se determinarán por la Administración del Estado los supuestos, requisitos y condiciones en que proceda la agrupación de Municipios u otras entidades locales a efectos de sostenimiento en común de dicho puesto de trabajo que, en tal caso, será un puesto único para el conjunto de los Municipios o entidades agrupadas. Tales agrupaciones serán acordadas por el órgano competente de la respectiva Comunidad Autónoma, al que corresponde asimismo la clasificación de los puestos resultantes de la misma conforme al artículo 159 de este texto refundido.
+La Administración del Estado determinará los supuestos, requisitos y condiciones en que los Municipios u otras entidades locales que carezcan de medios para sostener el puesto de trabajo a que se refiere el párrafo primero y no se hallen agrupados a tal efecto a otros, quedarán dispensados de la obligación de sostener dicho puesto, cuyas funciones serán, en tal caso, ejercidas por los servicios de asistencia correspondientes o mediante acumulación, en la forma que se establezca reglamentariamente.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica por el art. 2.4 del Real Decreto Legislativo 2/1994, de 25 de junio. Ref. BOE-A-1994-14961
+ Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 162
+
+Art. 162.
+1. La función de la Secretaría comprende:
+a) El asesoramiento legal preceptivo de la Corporación, así como de su Presidencia y Comisiones.
+b) La fe pública de todos los actos y acuerdos.
+2. El alcance y contenido de la expresada función será determinado reglamentariamente por la Administración del Estado.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 163
+
+Art. 163.
+1. En las Entidades locales en que así se establezca reglamentariamente por la Administración del Estado, existirá al menos un puesto de trabajo distinto del previsto en el artículo 161 que tenga atribuida la responsabilidad administrativa de las funciones de control y fiscalización interna de la gestión económico-financiera y presupuestaria y de la contabilidad, con el alcance y contenido que en aquellas normas se determine.
+2. En las restantes Entidades locales las funciones a que se refiere el número 1 de este artículo formarán parte de las funciones que legalmente corresponden a los puestos de trabajo a que se refiere el artículo 161 de esta Ley.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 164
+
+Art. 164.
+1. En las Entidades locales a que se refiere el número 1 del artículo anterior existirá también un puesto de trabajo específico que tenga atribuida la responsabilidad administrativa de las funciones de tesorería, que incluye el manejo y custodia de fondos y valores de la Entidad, y recaudación, que implica la Jefatura de los Servicios correspondientes, con el alcance y contenido que se determinen reglamentariamente por la Administración del Estado.
+2. El funcionario con habilitación de carácter nacional que desempeñe dicho puesto de trabajo, antes de entrar en posesión del mismo, deberá constituir fianza en la forma prevista por las disposiciones vigentes. Igual obligación alcanzará a cualquier otro funcionario o miembro de la Corporación que, de acuerdo con lo dispuesto en el artículo 92.4 de la Ley 7/1985, de 2 de abril, se haga cargo de la responsabilidad a que se refiere el número anterior.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+### Art 165
+
+Art. 165.
+1. Con independencia de los puestos de trabajo mínimos reservados a funcionarios con habilitación de carácter nacional a que se refieren los artículos anteriores, las Corporaciones locales, en los términos que reglamentariamente se determinen por la Administración del Estado, podrán crear otros puestos de trabajo reservados igualmente a funcionarios que posean dicha habilitación, cuya clasificación corresponderá a las Comunidades Autónomas.
+2. En todo caso la provisión de estos puestos se ajustará al sistema general previsto en el artículo 99 de la Ley 7/1985, de 2 de abril.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+ Se modifica el apartado 1 por el art. 2.5 del Real Decreto Legislativo 2/1994, de 25 de junio. Ref. BOE-A-1994-14961
+
+### Art 166
+
+Art. 166.
+1. Lo dispuesto en los artículos anteriores no impedirá la asignación, a los puestos de trabajo a que los mismos se refieren, de otras funciones distintas o complementarias.
+2. La asignación de funciones complementarias a dichos puestos se realizará a través de la relación de puestos de trabajo, sin perjuicio de que mientras ésta no haya sido aprobada por el Pleno de la Corporación pueda el Presidente de la Entidad, en uso de sus atribuciones básicas en orden a la dirección de la administración de la misma, encomendar a los funcionarios que desempeñan dichos puestos la realización de este tipo de funciones.
+Se deroga, con el alcance y la vigencia establecidos en la disposición final 4.2, por la disposición derogatoria única.e) del texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2.
+ Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+ Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.f) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+## CAPITULO IV
+
+De los demás funcionarios de carrera
+
+### Art 167
+
+Art. 167.
+1. Los funcionarios de carrera de la Administración local que no tengan habilitación de carácter nacional se integrarán en las escalas de Administración General y Administración Especial de cada Corporación, que quedarán agrupadas conforme a lo dispuesto en la legislación básica del Estado sobre función pública, en los grupos que éste determine, de acuerdo con la titulación exigida para su ingreso.
+2. La escala de administración general se divide en las subescalas siguientes:
+a) Técnica.
+b) De gestión.
+c) Administrativa.
+d) Auxiliar.
+e) Subalterna.
+3. La Escala de Administración Especial se divide en las Subescalas siguientes:
+a) Técnica.
+b) De Servicios Especiales.
+4. La creación de Escalas, Subescalas y clases de funcionarios y la clasificación de los mismos dentro de cada una de ellas, se hará por cada Corporación, de acuerdo con lo previsto en esta Ley.
+Se modifica el apartado 2 por el art. 60.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Art 168
+
+Art. 168.
+La provisión de puestos de trabajo que, de conformidad con la relación aprobada, estén reservados o puedan ser desempeñados por funcionarios de carrera, se regirá por las normas que, en desarrollo de la legislación básica en materia de función pública local, dicte la Administración del Estado.
+
+### Art 169
+
+Art. 169.
+1. Corresponde a los funcionarios de la Escala de Administración General el desempeño de funciones comunes al ejercicio de la actividad administrativa. En consecuencia, los puestos de trabajo predominantemente burocráticos habrán de ser desempeñados por funcionarios técnicos, de gestión, administrativos o auxiliares de Administración General.
+La Administración del Estado fijará los criterios de población, clasificación de la Secretaría respectiva, y demás que sirvan para la determinación de las Corporaciones en que puedan existir puestos de trabajo a desempeñar por funcionarios de cada una de las Subescalas de la Escala de Administración General.
+a) Pertenecerán a la Subescala Técnica de Administración General, los funcionarios que realicen tareas de gestión, estudio y propuesta de carácter administrativo de nivel superior.
+b) Pertenecerán a la subescala de gestión de Administración General los funcionarios que realicen tareas de apoyo a las funciones de nivel superior.
+c) Pertenecerán a la Subescala Administrativa de Administración General, los funcionarios que realicen tareas administrativas, normalmente de trámite y colaboración.
+d) Pertenecerán a la Subescala Auxiliar de Administración General, los funcionarios que realicen tareas de mecanografía, taquigrafía, despacho de correspondencia, cálculo sencillo, manejo de máquinas, archivo de documentos y otros similares.
+e) Pertenecerán a la Subescala de Subalternos de Administración General, los funcionarios que realicen tareas de vigilancia y custodia interior de oficinas, así como misiones de Conserje, Ujier, Portero u otras análogas en edificios y servicios de la Corporación.
+Podrá establecerse la normativa adecuada para que los puestos de trabajo atribuidos a esta Subescala puedan ser desempeñados por funcionarios de Servicios Especiales que, por edad u otras razones, tengan disminuida su capacidad para misiones de particular esfuerzo o penosidad, pero que conserven la requerida para las tareas de Subalterno.
+2. Hasta tanto se dicten las normas reglamentarias previstas en el artículo 100.2 de la Ley 7/1985, de 2 de abril, la selección de los funcionarios a que se refiere el número anterior se ajustará a las siguientes reglas:
+a) El ingreso en la Subescala Técnica se hará por oposición libre y se precisará estar en posesión del título de Licenciado en Derecho, en Ciencias Políticas, Económicas o Empresariales, Intendente Mercantil o Actuario.
+No obstante, se reservarán para promoción interna el 25 por 100 de los puestos de trabajo para Administrativos de la propia Corporación que posean la titulación indicada, cuenten, como mínimo, con cinco años de servicios en la Subescala de procedencia y superen las pruebas selectivas correspondientes.
+b) El ingreso en la Subescala Administrativa se hará por oposición libre, y se precisará estar en posesión del título de Bachiller, Formación Profesional de segundo grado, o equivalente.
+No obstante, se reservarán para promoción interna el 50 por 100 de los puestos de trabajo existentes para los pertenecientes a la Subescala de Auxiliares de Administración General que posean la titulación indicada, y cuenten con cinco años de servicios en la SubescaIa.
+c) El ingreso en la Subescala Auxiliar se hará por oposición libre, con exigencia, en todo caso, de título de Graduado Escolar, Formación Profesional de primer grado, o equivalente.
+d) El ingreso en la Subescala Subalterna se hará por concurso, oposición o concurso-oposición libre, según acuerdo de la Corporación, y con exigencia del certificado de escolaridad.
+Se modifica el párrafo primero del apartado 1, se añade el apartado 1.b) y se reordenan las letras existentes del mismo apartado por los arts. 60.2 y 3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Art 170
+
+Art. 170.
+1. Tendrán la consideración de funcionarios de Administración Especial los que tengan atribuido el desempeño de las funciones que constituyen el objeto peculiar de una carrera, profesión, arte u oficio.
+2. Los puestos de trabajo a desempeñar por funcionarios de servicios especiales podrán existir en cualquier clase de Corporación.
+3. El personal que forme parte de los Servicios de Informática de las Corporaciones locales, que no resulte incluido en las Subescalas de Administración General, será clasificado según la naturaleza de su especialidad y los títulos exigidos para su ingreso, en la clase que corresponda de las Subescalas Técnicas o de Servicios Especiales.
+
+### Art 171
+
+Art. 171.
+1. Pertenecerán a la Subescala Técnica de Administración Especial, los funcionarios que desarrollen tareas que son objeto de una carrera para cuyo ejercicio exigen las leyes estar en posesión de determinados títulos académicos o profesionales.
+En atención al carácter y nivel del título exigido, dichos funcionarios se dividen en Técnicos Superiores, Medios y Auxiliares, y, a su vez, cada clase podrá comprender distintas ramas y especialidades.
+2. El ingreso en esta Subescala se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación respectiva, y se requerirá estar en posesión del título académico o profesional correspondiente a la clase o especialidad de que se trate; todo ello sin perjuicio de las normas que pueda dictar la Administración del Estado, en uso de la autorización contenida en el artículo 100.2 de la Ley 7/1985, de 2 de abril.
+3. En todo caso, la provisión de plazas de Médicos de la Beneficencia Provincial podrá hacerse de acuerdo con su regulación específica o mediante los procedimientos regulados en este artículo.
+
+### Art 172
+
+Art. 172.
+1. Pertenecerán a la Subescala de Servicios Especiales, los funcionarios que desarrollen tareas que requieran una aptitud específica, y para cuyo ejercicio no se exija, con carácter general, la posesión de títulos académicos o profesionales determinados.
+2. Se comprenderán en esta Subescala, y sin perjuicio de las peculiaridades de cada Corporación, las siguientes clases:
+a) Policía Local y sus auxiliares.
+b) Servicio de Extinción de Incendios.
+c) Plazas de Cometidos Especiales.
+d) Personal de Oficios.
+e) Agentes forestales y medioambientales.
+3. El ingreso en la Subescala de Servicios Especiales se hará por oposición, concurso o concurso-oposición libre, según acuerde la Corporación respectiva, sin perjuicio de lo que dispongan las normas específicas de aplicación a los funcionarios de Policía Local y del Servicio de Extinción de Incendios.
+Se añade la letra e) al apartado 2 por la disposición final 1.1 de la Ley 4/2024, de 8 de noviembre. Ref. BOE-A-2024-23271#df
+
+### Art 173
+
+Art. 173.
+La Policía Local ejercerá sus funciones de acuerdo con lo previsto en el Título V de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad.
+Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 174
+
+Art. 174.
+Se comprenderán en la clase de cometidos especiales al personal de las Bandas de Música y los restantes funcionarios que realicen tareas de carácter predominantemente no manual, no comprendidas en el artículo 171.1, en las diversas ramas o sectores de actuación de las Corporaciones locales, subdividiéndolas en categorías, según el nivel de titulación exigido.
+
+### Art 175
+
+Art. 175.
+1. Se integrarán en la clase de Personal de Oficios, los funcionarios que realicen tareas de carácter predominantemente manual, en los diversos sectores de actuación de las Corporaciones locales, referidas a un determinado oficio, industria o arte.
+2. Se clasificarán, dentro de cada oficio, industria o arte, en Encargado, Maestro, Oficial, Ayudante y Operario, según el grado de responsabilidad o de especialización, y siendo necesario, en todo caso, poseer la titulación exigida para el ingreso, conforme a lo dispuesto por la legislación básica de función pública.
+3. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de que estas tareas no tengan la consideración de funciones públicas a que se refiere el artículo 92.2 de la Ley 7/1985, de 2 de abril.
+
+### Art 175 bis
+
+Art. 175 bis.
+Se integrarán en la clase de agentes forestales y medioambientales las personas funcionarias que tengan asignadas funciones de vigilancia, policía y custodia de bienes medioambientales y forestales. El acceso a la misma requerirá disponer de la titulación exigida, en función del subgrupo de clasificación de los previstos en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, en el que se incluya la categoría correspondiente.
+Se añade por la disposición final 1.2 de la Ley 4/2024, de 8 de noviembre. Ref. BOE-A-2024-23271#df
+
+## CAPITULO V
+
+Personal eventual y laboral
+
+### Art 176
+
+Art. 176.
+1. El personal eventual se rige por lo establecido en el artículo 104 de la Ley 7/1985, de 2 de abril.
+2. Los puestos de trabajo reservados a este tipo de personal deberán figurar en la plantilla de personal de la Corporación.
+3. Podrán ser desempeñados por personal eventual determinados puestos de trabajo de carácter directivo, incluidos en la relación de puestos de trabajo de la Corporación, de acuerdo con lo que dispongan las normas que dicte el Estado para su confección. En estos supuestos, el personal eventual deberá reunir las condiciones específicas que se exijan a los funcionarios que puedan desempeñar dichos puestos.
+4. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a la función pública o a la promoción interna.
+
+### Art 177
+
+Art. 177.
+1. La selección del personal laboral se rige por lo establecido en el artículo 103 de la Ley 7/1985, de 2 de abril.
+2. La contratación laboral puede ser por tiempo indefinido, de duración determinada, a tiempo parcial, y demás modalidades previstas en la legislación laboral.
+El régimen de tales relaciones será, en su integridad, el establecido en las normas de Derecho Laboral.
+3. Será nulo el contrato laboral por tiempo indefinido celebrado por una Entidad local con persona incursa en alguna de las causas de incapacidad específica que sean de aplicación a los funcionarios y al personal interino.
+
+## TITULO VIII
+
+Haciendas Locales
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Arts. 178 a 461
+
+(Derogados)
+Se derogan por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## CAPITULO I
+
+Principios generales
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera. Preliminar
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre.Ref. BOE-A-1988-29623
+
+### Art 178
+
+Art. 178.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 179
+
+Art. 179.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección segunda
+
+Sección segunda. De los derechos economicos de la Hacienda Local
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 180
+
+Art. 180.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 181
+
+Art. 181.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección tercera
+
+Sección tercera. De las obligaciones
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 182
+
+Art. 182.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 2 y 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 183
+
+Art. 183.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección cuarta
+
+Sección cuarta. De los beneficios fiscales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 184
+
+Art. 184.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## CAPITULO II
+
+Normas tributarias comunes
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera. Imposicion y ordenacion de tributos
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 185
+
+Art. 185.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 186
+
+Art. 186.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 187
+
+Art. 187.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 188
+
+Art. 188.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 189
+
+Art. 189.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 190
+
+Art. 190.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1, 2 y 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Sección segunda
+
+Sección segunda. De la gestion tributaria
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 191
+
+Art. 191.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 192
+
+Art. 192.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 3.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 193
+
+Art. 193.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 194
+
+Art. 194.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 195
+
+Art. 195.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 196
+
+Art. 196.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## CAPITULO III
+
+De los ingresos municipales
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera. De los ingresos municipales en general
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 197
+
+Art. 197.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección segunda
+
+Sección segunda. Ingresos de Derecho privado
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 198
+
+Art. 198.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección tercera
+
+Sección tercera. Tasas municipales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Subsección primera
+
+Subsección primera. Disposiciones comunes
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Reordenado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 199
+
+Art. 199.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 200
+
+Art. 200.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 201
+
+Art. 201.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 202
+
+Art. 202.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 203
+
+Art. 203.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1 y 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 204
+
+Art. 204.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 205
+
+Art. 205.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 206
+
+Art. 206.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 207
+
+Art. 207.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección segunda
+
+Subsección segunda. Tasas por utilizaciones privativas o aprovechamientos especiales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 208
+
+Art. 208.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 209
+
+Art. 209.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 210
+
+Art. 210.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 211
+
+Art. 211.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Subsección tercera
+
+Subsección tercera. Tasas por prestación de servicios y realización de actividades
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 212
+
+Art. 212.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 8 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 213
+
+Art. 213.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactadas las letras e), h) e i) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 214
+
+Art. 214.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 215
+
+Art. 215.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección cuarta
+
+Sección cuarta. Contribuciones especiales de los municipios
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 216
+
+Art. 216.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 217
+
+Art. 217.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 218
+
+Art. 218.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 219
+
+Art. 219.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2.l) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 220
+
+Art. 220.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 221
+
+Art. 221.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1 y 5 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 222
+
+Art. 222.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 223
+
+Art. 223.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 224
+
+Art. 224.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 3 y 5 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 225
+
+Art. 225.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 226
+
+Art. 226.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 227
+
+Art. 227.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 228
+
+Art. 228.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 229
+
+Art. 229.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección quinta
+
+Sección quinta. Impuestos
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección primera
+
+Subsección primera: Disposiciones generales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 230
+
+Art. 230.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 231
+
+Art. 231.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección segunda
+
+Subsección segunda: Contribución Territorial Rústica y Pecuaria
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Naturaleza y ámbito de aplicación
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 232
+
+Art. 232.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Hecho imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 233
+
+Art. 233.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 2.c).1 y 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 234
+
+Art. 234.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Exenciones y bonificaciones tributarias
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 235
+
+Art. 235.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 236
+
+Art. 236.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 237
+
+Art. 237.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 238
+
+Art. 238.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 239
+
+Art. 239.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 240
+
+Art. 240.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 241
+
+Art. 241.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sujeto pasivo
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 242
+
+Art. 242.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 243
+
+Art. 243.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Base imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 244
+
+Art. 244.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 245
+
+Art. 245.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1 y 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 246
+
+Art. 246.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Base liquidable
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 247
+
+Art. 247.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 248
+
+Art. 248.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 249
+
+Art. 249.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Deuda tributaria
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 250
+
+Art. 250.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Téngase en cuenta que ya estaba derogado por la Ley 26/1987, de 11 de diciembre.
+ Se deroga por la disposición derogatoria de la Ley 26/1987, de 11 de diciembre. Ref. BOE-A-1987-27595
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 251
+
+Art. 251.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección tercera
+
+Subsección tercera: Contribución Territorial Urbana
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Naturaleza y ámbito de aplicación
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 252
+
+Art. 252.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Hecho imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 253
+
+Art. 253.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 254
+
+Art. 254.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 255
+
+Art. 255.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1.1º.a) y b) y el 1.4º conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 256
+
+Art. 256.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 257
+
+Art. 257.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Exenciones, reducciones y bonificaciones
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 258
+
+Art. 258.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 259
+
+Art. 259.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 260
+
+Art. 260.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 261
+
+Art. 261.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 262
+
+Art. 262.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.f) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 263
+
+Art. 263.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 264
+
+Art. 264.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sujeto pasivo
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 265
+
+Art. 265.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Base imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 266
+
+Art. 266.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 267
+
+Art. 267.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 268
+
+Art. 268.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 269
+
+Art. 269.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 270
+
+Art. 270.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Período
+
+Período impositivo y devengo del Impuesto
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 271
+
+Art. 271.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Dueda tributaria
+
+Dueda Tributaria
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 272
+
+Art. 272.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Téngase en cuenta que los apartados 1 a 3 estaban derogados por la Ley 26/1987, de 11 de diciembre.
+ Se derogan los apartados 1 a 3 por la disposición derogatoria de la Ley 26/1987, de 11 de diciembre. Ref. BOE-A-1987-27595
+ Redactado el apartado 4.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Subsección cuarta
+
+Subsección cuarta: Licencia Fiscal de Actividades Comerciales e Industriales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Naturaleza y ámbito de aplicación
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 273
+
+Art. 273.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Hecho imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 274
+
+Art. 274.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 275
+
+Art. 275.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 276
+
+Art. 276.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactada la letra g) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 277
+
+Art. 277.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 278
+
+Art. 278.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el párrafo primero y la letra a) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Exenciones y bonificaciones
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 279
+
+Art. 279.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 2 y 11 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 280
+
+Art. 280.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1 a 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Sujeto pasivo
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 281
+
+Art. 281.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 282
+
+Art. 282.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 283
+
+Art. 283.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Deuda tributaria
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 284
+
+Art. 284.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 285
+
+Art. 285.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 286
+
+Art. 286.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 287
+
+Art. 287.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 288
+
+Art. 288.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Período
+
+Período impositivo y devengo del Impuesto
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 289
+
+Art. 289.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 290
+
+Art. 290.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 291
+
+Art. 291.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección quinta
+
+Subsección quinta. Licencia Fiscal de Actividades Profesionales y de Artistas
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Naturaleza y ámbito de aplicación
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 292
+
+Art. 292.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Hecho imponible
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 293
+
+Art. 293.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 294
+
+Art. 294.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 295
+
+Art. 295.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2.a) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 296
+
+Art. 296.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 297
+
+Art. 297.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 298
+
+Art. 298.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 299
+
+Art. 299.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 300
+
+Art. 300.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sujeto pasivo
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 301
+
+Art. 301.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 302
+
+Art. 302.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 303
+
+Art. 303.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 304
+
+Art. 304.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 305
+
+Art. 305.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 306
+
+Art. 306.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 307
+
+Art. 307.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Deuda tributaria
+
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 308
+
+Art. 308.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 309
+
+Art. 309.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 310
+
+Art. 310.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 311
+
+Art. 311.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 312
+
+Art. 312.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 313
+
+Art. 313.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Período
+
+Período impositivo y devengo del Impuesto
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 314
+
+Art. 314.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 315
+
+Art. 315.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección sexta
+
+Subsección sexta. Impuesto Municipal sobre la Radicación
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 316
+
+Art. 316.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 317
+
+Art. 317.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 318
+
+Art. 318.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 319
+
+Art. 319.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 320
+
+Art. 320.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.g) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 321
+
+Art. 321.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 322
+
+Art. 322.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 323
+
+Art. 323.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 324
+
+Art. 324.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 325
+
+Art. 325.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 326
+
+Art. 326.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 327
+
+Art. 327.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 328
+
+Art. 328.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 329
+
+Art. 329.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 330
+
+Art. 330.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 331
+
+Art. 331.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 332
+
+Art. 332.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Subsección séptima
+
+Subsección séptima. Impuesto Municipal sobre Solares
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 333
+
+Art. 333.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 334
+
+Art. 334.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado a) .1º conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 335
+
+Art. 335.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 336
+
+Art. 336.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 337
+
+Art. 337.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 338
+
+Art. 338.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactada la letra g) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 339
+
+Art. 339.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 340
+
+Art. 340.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 341
+
+Art. 341.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 342
+
+Art. 342.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 343
+
+Art. 343.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 344
+
+Art. 344.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 345
+
+Art. 345.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 346
+
+Art. 346.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 347
+
+Art. 347.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 348
+
+Art. 348.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 349
+
+Art. 349.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección octava
+
+Subsección octava: Impuesto Municipal sobre el Incremento del Valor de los Terrenos
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 350
+
+Art. 350.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 351
+
+Art. 351.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 352
+
+Art. 352.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 353
+
+Art. 353.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 354
+
+Art. 354.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1.b) y .c) y el 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 355
+
+Art. 355.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 5, 6.a) y .c), 8 y 11 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 356
+
+Art. 356.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 357
+
+Art. 357.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 358
+
+Art. 358.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 359
+
+Art. 359.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 360
+
+Art. 360.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 361
+
+Art. 361.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección novena
+
+Subsección novena: Impuesto Municipal sobre Circulación de Vehículos
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 362
+
+Art. 362.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 363
+
+Art. 363.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 364
+
+Art. 364.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 365
+
+Art. 365.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 366
+
+Art. 366.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 367
+
+Art. 367.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Se modifica el apartado 2.c) por el art. 103.3 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+ Redactado el apartado 2.a) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 368
+
+Art. 368.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 369
+
+Art. 369.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 370
+
+Art. 370.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 371
+
+Art. 371.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección décima
+
+Subsección décima: Impuesto Municipal sobre Gastos Suntuarios
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 372
+
+Art. 372.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 373
+
+Art. 373.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 374
+
+Art. 374.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactada la letra d) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 375
+
+Art. 375.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 376
+
+Art. 376.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 377
+
+Art. 377.
+(Derogado)
+Se prorroga su vigencia hasta 31 de diciembre de 1991 por la disposición transitoria 3 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección undécima
+
+Subsección undécima: Impuesto Municipal sobre la Publicidad
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 378
+
+Art. 378.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 379
+
+Art. 379.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 380
+
+Art. 380.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 381
+
+Art. 381.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 382
+
+Art. 382.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 383
+
+Art. 383.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 384
+
+Art. 384.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 385
+
+Art. 385.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 386
+
+Art. 386.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 387
+
+Art. 387.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 388
+
+Art. 388.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 389
+
+Art. 389.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección sexta
+
+Sección sexta: Tributos con fines no fiscales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 390
+
+Art. 390.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección septima
+
+Sección septima: De la prestacion personal y de transportes
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 391
+
+Art. 391.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 392
+
+Art. 392.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 393
+
+Art. 393.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección octava
+
+Sección octava: Recargos y participaciones municipales en tributos del Estado y de las Comunidades Autonomas
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 394
+
+Art. 394.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección novena
+
+Sección novena: Subvenciones y otros ingresos de Derecho publico
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 395
+
+Art. 395.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## CAPITULO IV
+
+De los ingresos provinciales
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera: De los ingresos provinciales en general
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 396
+
+Art. 396.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección segunda
+
+Sección segunda: Ingresos de Derecho privado
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 397
+
+Art. 397.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección tercera
+
+Sección tercera: Tasas provinciales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 398
+
+Art. 398.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 399
+
+Art. 399.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 400
+
+Art. 400.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 401
+
+Art. 401.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 402
+
+Art. 402.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 403
+
+Art. 403.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección cuarta
+
+Sección cuarta: Contribuciones especiales provinciales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 404
+
+Art. 404.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 405
+
+Art. 405.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 406
+
+Art. 406.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.h) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 407
+
+Art. 407.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 408
+
+Art. 408.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección quinta
+
+Sección quinta: Recargos y participaciones provinciales en ingresos del Estado, Comunidades Autónomas y Municipios
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Subsección primera
+
+Subsección primera. Recargos provinciales sobre lmpuestos municipales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 409
+
+Art. 409.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactados los apartados 1 y 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Subsección segunda
+
+Subsección segunda. Participaciones provinciales de ingresos estatales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 410
+
+Art. 410.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección sexta
+
+Sección sexta: Subvenciones y otros ingresos de Derecho publico
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 411
+
+Art. 411.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## CAPITULO V
+
+De las Haciendas de las demás Entidades locales
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera: De los ingresos de las entidades de ambito territorial inferior al municipal
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 412
+
+Art. 412.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección segunda
+
+Sección segunda: De los ingresos de la entidades supramunicipales
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 413
+
+Art. 413.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 414
+
+Art. 414.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## CAPITULO VI
+
+Disposiciones comunes a las Haciendas Locales
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección primera
+
+Sección primera: Del credito local
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 415
+
+Art. 415.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 416
+
+Art. 416.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 417
+
+Art. 417.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 418
+
+Art. 418.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 419
+
+Art. 419.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 420
+
+Art. 420.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 421
+
+Art. 421.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 422
+
+Art. 422.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 423
+
+Art. 423.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 424
+
+Art. 424.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 425
+
+Art. 425.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 426
+
+Art. 426.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 427
+
+Art. 427.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 428
+
+Art. 428.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 429
+
+Art. 429.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2.c) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 430
+
+Art. 430.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 431
+
+Art. 431.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Sección segunda
+
+Sección segunda: De la ordenacion de los gastos y pagos
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 432
+
+Art. 432.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 433
+
+Art. 433.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1.f) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 434
+
+Art. 434.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 435
+
+Art. 435.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 436
+
+Art. 436.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 437
+
+Art. 437.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 438
+
+Art. 438.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 439
+
+Art. 439.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 440
+
+Art. 440.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección tercera
+
+Sección tercera: De la Tesoreria
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 441
+
+Art. 441.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 442
+
+Art. 442.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección cuarta
+
+Sección cuarta: Del presupuesto
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 443
+
+Art. 443.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 444
+
+Art. 444.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2.b) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 445
+
+Art. 445.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactada la letra g) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 446
+
+Art. 446.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 447
+
+Art. 447.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 448
+
+Art. 448.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 449
+
+Art. 449.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 450
+
+Art. 450.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 451
+
+Art. 451.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 452
+
+Art. 452.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 453
+
+Art. 453.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+## Sección quinta
+
+Sección quinta. De la intervencion de la gestion economica
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 454
+
+Art. 454.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 455
+
+Art. 455.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+## Sección sexta
+
+Sección sexta: De la contabilidad y rendicion de cuentas
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 456
+
+Art. 456.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 457
+
+Art. 457.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 458
+
+Art. 458.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 459
+
+Art. 459.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Art 460
+
+Art. 460.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Art 461
+
+Art. 461.
+(Derogado)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactado conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+De acuerdo con la Disposición transitoria segunda de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en tanto las Leyes sectoriales no dispongan otra cosa, los Municipios, las Provincias y las Islas conservarán las competencias que les atribuyan dichas disposiciones sectoriales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La Comisión Provincial de Colaboración del Estado con las Corporaciones locales será el órgano encargado de coordinar los órganos de la Administración Periférica del Estado en la Provincia en todo lo relativo a la cooperación entre la Administración estatal y la local, sin perjuicio de las funciones atribuidas a las Diputaciones Provinciales.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En tanto no se desarrolle reglamentariamente el régimen estatutario de los funcionarios con habilitación de carácter nacional, a que se refiere los artículos 92.3, 98 y 99 de la Ley 7/1985, de 2 de abril, serán de aplicación las siguientes reglas:
+1.ª La habilitación de carácter nacional prevista en la Ley 7/1985, de 2 de abril, tiene las siguientes especialidades.
+a) Secretaria.
+b) Intervención.
+c) Depositaria.
+2.ª La habilitación de carácter nacional en su especialidad de Secretaria está dividida en tres categorías:
+1. Corresponderá a los Secretarios de primera categoría el desempeño de los puestos de trabajo a que se refiere el artículo 161 existentes en las Diputaciones Provinciales. Cabildos y Consejos Insulares, Ayuntamientos, Capitales de Provincia y Municipios con población superior a 20.000 habitantes.
+2. Corresponderá a los de segunda categoría el desempeño de los existentes en Ayuntamientos de Municipios con población comprendida entre 5.001 y 20.000 habitantes.
+3. Corresponderá a los de tercera categoría el desempeño de los Ayuntamientos de Municipios con población hasta 5.000 habitantes.
+4. Cuando se trate de Agrupaciones de Municipios para sostenimiento en común del puesto de trabajo, la categoría se fijará por la Dirección General de Administración Local conforme a la población de los Municipios agrupados. En estos casos podrá ser común el personal administrativo.
+5. Los límites de población establecidos en los cuatro números anteriores se entenderán sin perjuicio de la posibilidad de que los puestos de trabajo de los Ayuntamientos correspondientes sean clasificados en categoría distinta a la que corresponda por el censo de población, con arreglo a lo dispuesto en esta Ley.
+6. Se atribuirán por analogía a las distintas categorías los puestos de trabajo de las Mancomunidades, Áreas Metropolitanas, Comarcas u otras Agrupaciones de Municipios distintos de las provincias que pudieran crearse por las Comunidades Autónomas.
+3.ª La Secretaría de las Entidades de ámbito territorial inferior al Municipio corresponderá a quien desempeñe la del Ayuntamiento o Agrupación a que pertenezcan aquéllas.
+4.ª En las Entidades locales en que la responsabilidad administrativa de la función de Secretaría corresponde a los Secretarios de primera categoría, podrán crearse otro u otros puestos de trabajo que, con las denominaciones de Vicesecretaría, Adjuntía, Oficialía Mayor, Secretaría de Distrito u otras análogas, tengan atribuido el desempeño de funciones de colaboración inmediata en las tareas del Secretario y la sustitución de éste en los casos de vacante, ausencia, enfermedad o abstención legal o reglamentaria.
+Estos puestos quedan igualmente reservados a funcionarios con habilitación de carácter nacional en la especialidad de Secretaría y su clasificación, a efectos de la categoría necesaria para su desempeño, corresponderá al Ministerio de Administración Territorial.
+Su provisión se rige por lo dispuesto en el artículo 99 de la Ley 7/1985, de 2 de abril, y sus normas de desarrollo.
+5.ª En todas las Entidades locales en que la responsabilidad administrativa de las funciones de la Secretaría corresponde a Secretarios de primera categoría, existirá al menos un puesto de trabajo que tenga atribuida la responsabilidad administrativa de las funciones de control y fiscalización interna de la gestión económico-financiera y presupuestaria y de la contabilidad de la Entidad local.
+La Dirección General de Administración Local, a petición de la Entidad local interesada, podrá aprobar asimismo la creación de este tipo de puesto de trabajo en otras Entidades locales o Agrupaciones de las mismas autorizadas a tal efecto por las Comunidades Autónomas, cuando el volumen de su presupuesto así lo aconseje.
+El desempeño de los puestos de trabajo a que se refieren los dos párrafos anteriores corresponde a funcionarios con habilitación de carácter nacional de la especialidad de Intervención.
+6.ª En las Entidades locales en que la responsabilidad administrativa de la función de Secretaria corresponde a los Secretarios de primera categoría podrán crearse otro u otros puestos de trabajo que, con denominaciones de Viceinterventor, Adjuntia u otras análogas, tengan atribuido el desempeño de funciones de colaboración inmediata en las tareas a que se refiere el párrafo 1.º de la regla 5.ª y la sustitución de su responsable administrativo, en los casos de vacante, ausencia, enfermedad o abstención legal o reglamentaria.
+Estos puestos quedan igualmente reservados a funcionarios con habilitación de carácter nacional en la especialidad de Intervención y su clasificación corresponderá al Ministerio de Administración Territorial.
+Su provisión se rige por lo dispuesto en el artículo 99 de la Ley 7/1985, de 2 de abril, y sus normas de desarrollo.
+7.ª El puesto de trabajo a que se refiere el número 1 del artículo 164 de esta Ley existirá en todas las Corporaciones en que la Secretaría deba ser desempeñada por Secretario de primera categoría. Su desempeño está reservado a funcionarios con habilitación de carácter nacional de la especialidad de Depositaría.
+8.ª En tanto se dicten las normas reglamentarias previstas en el artículo 98.1 de la Ley 7/1985, de 2 de abril, la obtención de la habilitación de carácter nacional en cualquiera de sus modalidades se efectuará por oposición libre seguida de curso selectivo, reservándose un 10 por 100 de las vacantes convocadas en cada categoría para promoción interna de los funcionarios que posean la habilitación nacional en la categoría inmediata inferior y cuenten con tres años, al menos, de servicios efectivos en ella, siempre que posean la titulación exigida.
+Para concurrir a las oposiciones será preciso estar en posesión de los siguientes títulos:
+a) Para los Secretarios de primera y segunda categoría, el de Licenciado en Derecho o Ciencias Políticas.
+b) Para los Secretarios de tercera categoría, el de Bachiller Superior o equivalente.
+c) Para los interventores y para los Depositarios el de Licenciado en Derecho o en Ciencias Económicas o Empresariales, Intendente Mercantil o Actuario.
+La Dirección General de Administración Local autorizará las oportunas convocatorias de oposiciones para el acceso a los cursos, que realizará el Instituto de Estudios de Administración Local conforme a las bases y programas actualmente vigentes.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+En tanto se aprueben las normas estatutarias de los Cuerpos de Policía Local, de acuerdo con lo dispuesto en la Ley 7/1985, de 2 de abril, y en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, serán de aplicación las siguientes normas:
+1. La Policía Local sólo existirá en los Municipios con población superior a 5.000 habitantes, salvo que el Ministerio de Administración Territorial autorice su creación en los de censo inferior. Donde no existan, su misión se llevará a cabo por los auxiliares de la Policía Local, que comprenderá el personal que desempeñe funciones de custodia y vigilancia de bienes, servicios e instalaciones, con la denominación de Guardas, Vigilantes, Agentes, Alguaciles o análogas.
+2. Dentro de cada Municipio, la Policía se integrará en un Cuerpo único, aunque puedan existir especialidades de acuerdo con las necesidades. Bajo la superior autoridad y dependencia directa del Alcalde, el mando inmediato de la Policía Local corresponderá en cada Entidad al Jefe del Cuerpo.
+3. Orgánicamente, la Policía Local estará integrada por una escala técnica o de mando y otra ejecutiva. En la escala técnica podrán existir los empleos de Inspector, Subinspector y Oficial, pero los dos primeros sólo podrán crearse en los Municipios de más de 100.000 habitantes; en la ejecutiva los de Suboficial, Sargento, Cabo y Guardia.
+4. El ingreso como Guardia de la Policía Local se hará por oposición exigiéndose no exceder de treinta años de edad y acreditar las condiciones físicas que se determinen.
+5. Los miembros de los Cuerpos de Policía Local, en el ejercicio de sus funciones, tendrán a todos los efectos legales el carácter de Agentes de la Autoridad.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En tanto se aprueba el Estatuto específico de los Cuerpos de Bomberos a que se refiere la Disposición final tercera de la Ley 7/1985, de 2 de abril, el régimen del personal de los servicios de Extinción de Incendios establecidos por las Corporaciones locales se acomodará a las siguientes regias:
+a) Cuando los puestos de trabajo correspondientes a dicho servicio hayan de ser desempeñados por funcionarios a los que se exija estar en posesión de título superior universitario o de enseñanza media, podrán integrarse en la Subescala de Técnicos de Administración Especial.
+b) Dentro del personal del Servicio de Extinción de Incendios existirán las siguientes categorias: Oficiales, Suboficiales, Sargentos, Cabos y Bomberos.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+La integración de los funcionarios del extinguido Cuerpo Nacional de Directores de Banda de Música Civiles entre el personal de cometidos especiales a que se refiere el artículo 174 de esta Ley se hará teniendo en cuenta lo establecido en la Disposición transitoria séptima, número 3, de la Ley 7/1985, de 2 de abril.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+La aplicación de la jubilación a la edad de sesenta y cinco años se hará conforme al Derecho transitorio establecido por la Ley 30/1984, de 2 de agosto. Completada esta fase transitoria, entrarán en vigor los requisitos para la jubilación voluntaria a la que se refiere el artículo 139.1.c) de este texto refundido.
+Redactada conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+ Redactadas las reglas 3.1; 4.b); 6; 7.1; 10 y 12.b) conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+Los actuales recaudadores contratados podrán continuar en el ejercicio de sus funciones de agentes ejecutivos durante la vigencia de los contratos establecidos, los cuales podrán ser prorrogados, de mutuo acuerdo, en tanto las Entidades locales no tengan establecido el servicio con arreglo a lo previsto en esta Ley, o bien, tratándose de Municipios, Mancomunidades u otras Entidades locales o Consorcios, no lo tenga establecido la Diputación como forma de cooperación al ejercicio de las funciones municipales.
+
+### Disposición final primera
+
+Disposición final primera.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final segunda
+
+Disposición final segunda.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final tercera
+
+Disposición final tercera.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final quinta
+
+Disposición final quinta.
+A la vista de los datos y resultados que suministre la experiencia en la aplicación de los preceptos de esta Ley, el Ministro de Administración Territorial informará al Gobierno y le propondrá, en su caso, las reformas que convenga introducir en los mismos.
+Se deroga el inciso final por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final sexta
+
+Disposición final sexta.
+Los funcionarios de la Administración Local que, de conformidad con lo establecido en la Disposición final cuarta, 3, de la Ley 7/1985, de 2 de abril resulten adscritos a servicios de la Administración del Estado, quedarán sometidos a la legislación aplicable a los funcionarios de la Administración Civil del Estado, sin perjuicio de que la sanción de separación definitiva del servicio deba ser, en su caso, acordada por los órganos previstos en la Ley 7/1985, de 2 de abril.
+
+### Disposición final séptima
+
+Disposición final séptima.
+1. De conformidad con la Disposición transitoria primera de la Ley 7/1985, de 2 de abril:
+a) Tienen carácter básico, en las materias reguladas por los cinco primeros títulos, los artículos 1; 2; 3.2; 12; 13; 14; 15; 16; 18: 22, inciso primero; 25; 26; 34; 48; 49; 50; 52; 54; 56; 57; 58; 59; 69, y 71.
+b) En las materias reguladas por los Títulos VI y VII se inferirá el carácter básico de sus preceptos según disponga la legislación estatal vigente en aquéllas. En todo caso, tendrán carácter básico los artículos 151.a), 167 y 169.
+2. (Derogado)
+Se modifica el apartado 1.b) por los arts. 59.2 y 60.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Téngase en cuenta que este apartado ha sido modificado por los dos artículos mencionados de esta Ley.
+ Se declara la inconstitucionalidad del inciso destacado del apartado 1.b) por Sentencia del TC 385/1993, de 23 de diciembre. Ref. BOE-T-1994-1905
+ Se deroga el apartado 2 por la disposición derogatoria 1.d) de la Ley 39/1988, de 28 de diciembre. Ref. BOE-A-1988-29623
+
+### Disposición final octava
+
+Disposición final octava.
+Las menciones del «Boletín Oficial de la Provincia» que se hacen en esta Ley deben entenderse referidas, en el caso de las Provincias integradas en Comunidades Autónomas uniprovinciales, al «Boletín Oficial» de la respectiva Comunidad Autónoma.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+1. Quedan derogadas las siguientes disposiciones:
+Primera.- La Ley de Régimen Local, Texto Articulado y Refundido aprobado por Decreto de 24 de junio de 1955.
+Segunda.- Texto Articulado Parcial de la Ley 41/1975, de Bases del Estatuto de Régimen Local, aprobado por Real Decreto 3046/1977, de 6 de octubre.
+Tercera.- La Ley 40/1981, de 28 de octubre, sobre Régimen Jurídico de las Corporaciones Locales.
+Cuarta.- La Ley 11/1960, de 12 de mayo, por la que se regula y crea la Mutualidad Nacional de Previsión de la Administración Local, en todo lo que resulte alterada o modificada por el texto que aprueba la Disposición adicional.
+Quinta.- El artículo 3.º de la Ley 70/1980, de 16 de diciembre, sobre formación del padrón municipal.
+Sexta.- Artículos 18, 19, 20 y 23 de la Ley 48/1966, de 23 de julio, de modificación parcial del Régimen Local.
+Séptima.- Real Decreto 3250/1976, de 30 de diciembre, por el que se aprueban las Normas provisionales para la aplicación de las bases 21 a 34 de la Ley 41/1975, de 19 de noviembre, sobre Ingresos de las Corporaciones Locales.
+Octava.- Real Decreto-ley 34/1977, de 2 de junio, por el que se crea el Fondo Nacional de Cooperación Municipal y arbitra otras medidas de reordenación de la Cooperación del Estado con las Corporaciones Locales.
+Novena.- Real Decreto-ley 11/1979, de 20 de julio, sobre medidas urgentes de Financiación de las Corporaciones Locales.
+Décima.- Artículo 13 de la Ley 24/1983, de 21 de diciembre, sobre medidas urgentes de Saneamiento y Regulación de las Haciendas Locales.
+Undécima.- El Texto Refundido de la Contribución Territorial Rústica, aprobado por Decreto de 23 de julio de 1966, el del Impuesto sobre Actividades y Beneficios Comerciales e Industriales, aprobado por Decreto de 29 de diciembre de 1966, y el del Impuesto sobre el Trabajo Personal, aprobado por Decreto de 2 de marzo de 1967, en la parte no derogada por la Disposición Transitoria primera de la Ley 44/1978, de 8 de septiembre.
+Duodécima.- El Texto Refundido de la Contribución Territorial Urbana, aprobado por Decreto de 12 de mayo de 1966.
+Decimotercera.- Real Decreto-ley 15/1978, de 7 de junio, de aplicación de los Impuestos sobre Solares e Incremento del Valor de los Terrenos y dotación de los presupuestos especiales de urbanismo en 1978.
+Decimocuarta.- Decreto-ley 13/1970, de 12 de noviembre, sobre beneficios fiscales a los Consorcios de las Corporaciones Locales.
+2. Cuantas otras disposiciones de igual o inferior rango se opongan a los establecido en esta Ley.
+Redactado el apartado 1.13 conforme a la corrección de errores publicada en BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436
+
+### Disposición adicional
+
+Disposición adicional.
+La Ley 11/1960, de 12 de mayo, sobre creación de la Mutualidad Nacional de Previsión de la Administración Local, queda redactada en los siguientes términos:
+CAPITULO PRIMERO
+De la Mutualidad Nacional de Previsión de la Administración Local y sus fines
+Art. 1
+Se crea la Mutualidad Nacional de Previsión de la Administración Local para la gestión de la Seguridad Social de los funcionarios de las Corporaciones locales.
+Art. 2
+1. La Mutualidad Nacional de Previsión de la Administración Local tendrá personalidad jurídica independiente capacidad plena y patrimonio propio y se regirá por lo dispuesto en la Ley 7/1985, de 2 de abril, la presente Ley, sus Estatutos, las normas reglamentarias dictadas en desarrollo de aquéllas y, en su defecto, por las normas del Derecho Administrativo. A los efectos de la aplicación de la Ley 11/1977, de 4 de enero. a los Presupuestos Generales del Estado se unirá el presupuesto-resumen de la Mutualidad y las funciones de la Intervención General de la Administración del Estado se ejercerán en dicha Entidad por la lntervención Delegada en el Ministerio de Administración Territorial.
+2. Gozará de los mismos beneficios de justicia gratuita. franquicia postal y telegráfica y exenciones tributarias reconocidas a las Entidades Gestoras de la Seguridad Social.
+CAPITULO SEGUNDO
+De los miembros de la Mutualidad
+Art. 3
+Serán obligatoriamente afiliados a la Mutualidad Nacional de Previsión de la Administración Local:
+a) Todas las Entidades locales que tengan a su servicio personal que cumpla las condiciones establecidas en esta Ley para ser asegurado en la misma.
+b) Los demás Organismos y dependencias de las Administraciones Públicas cuando tengan adscritos a su servicio funcionarios de la Administración Local por su condición de tales, y únicamente por lo que se refiere a los mismos.
+Art. 4
+Se considerarán obligatoriamente asegurados a la Mutualidad Nacional de Previsión de la Administración Local:
+a) Los funcionarios al servicio de las Corporaciones locales.
+b) Los funcionarios de Administración Local que en virtud de tal carácter se encuentren prestando servicio activo adscritos a Organismos y Dependencias de las Administraciones Públicas.
+c) Los funcionarios de la propia Mutualidad.
+Art. 5
+Podrán asegurarse con carácter voluntario en la Mutualidad Nacional de Previsión de la Administración Local aquellas personas que, no teniendo el carácter de funcionarios de la Administración Local, presten servicios en propiedad en Organismos y dependencias de las Administraciones Públicas cuando sus funciones guarden relación inmediata con la Administración Local y siempre que cumplan los requisitos que los Estatutos de la Mutualidad establezcan.
+CAPITULO TERCERO
+Del gobierno y administración de la Mutualidad
+Art. 6
+La Mutualidad, bajo la superior dirección y tutela del Ministerio de Administración Territorial, al que estará adscrita orgánicamente, se estructura en un Consejo General y una Comisión permanente, como órganos de participación en el control y vigilancia de la gestión, y una Dirección Técnica, como órgano de dirección y gestión, con la composición, forma de designación, atribuciones y régimen de funcionamiento que se determinen por el Gobierno, mediante Real Decreto aprobado a propuesta del Ministerio de Administración Territorial.
+CAPITULO CUARTO
+De las prestaciones
+Art. 7
+Las prestaciones que concederá la Mutualidad Nacional de Previsión de la Administración Local serán de las siguientes clases:
+a) Básicas.
+b) Complementarias.
+c) Especiales.
+Art. 8
+Las prestaciones básicas de la Mutualidad a las que tendrán derecho los asegurados o sus familiares beneficiarios que cumplan las condiciones que para cada caso se establezcan, son las siguientes:
+a) Pensión de jubilación por edad;
+b) Pensión de jubilación por invalidez;
+c) Pensión de jubilación voluntaria;
+d) Pensión de viudedad;
+e) Pensión de orfandad, y
+f) Pensión a favor de los padres pobres en concepto legal.
+Art. 9
+La cuantía de las prestaciones que se determinarán en los Estatutos de la Mutualidad será actualizada en la forma que se determine, en cada caso, por las disposiciones legales pertinentes.
+Art. 10
+Las prestaciones complementarias de la Mutualidad Nacional de Previsión de la Administración Local que se concederán en los casos y las condiciones que se establezcan en sus Estatutos a sus asegurados y beneficiarios son las siguientes:
+a) Ayuda por nupcialidad.
+b) Ayuda por natalidad.
+e) Subsidio por gastos de sepelio.
+d) Capital seguro de vida.
+Art. 11
+Serán prestaciones especiales las de asistencia sanitaria. También tendrán este carácter cualesquiera otras que reglamentariamente se establezcan.
+CAPITULO QUINTO
+Del régimen económico-financiero
+Art. 12
+Los recursos de la Mutualidad Nacional de Previsión de la Administración Local estarán constituidos por:
+a) Las cuotas de las Entidades, Organismos y dependencias afiliados.
+b) Las cuotas de los asegurados.
+c) Los bienes y reservas de otras Mutualidades o Montepíos que con arreglo a esta Ley se le transfieran.
+d) Las rentas e intereses de sus bienes.
+e) Las subvenciones, donativos, legados, mandas y cualesquiera otros recursos que se destinen a sus fines.
+Art. 13
+1. La suma de la cuota del afiliado y del asegurado constituye la cuota íntegra.
+2. Los tipos de cotización y las bases sobre las que recaigan éstos se determinarán por el Gobierno, a propuesta del Ministro de Administración Territorial.
+Art. 14
+1. Las Entidades, Organismos y dependencias afiliados están obligados a ingresar en la Mutualidad, en la forma y plazos que se establezcan reglamentariamente, la cuota íntegra correspondiente a su personal asegurado, descontando a éste el importe de la parte que corre a su cargo en concepto de cuota de asegurado.
+2. Las Corporaciones locales podrán encargarse del pago directo a sus pensionistas, y si lo hacen presentarán la oportuna liquidación a la Mutualidad.
+Art. 15
+1. La obligación de pago de la cuota íntegra tendrá carácter de preferencia absoluta.
+2. La contravención de lo dispuesto en este artículo llevará aparejada las responsabilidades que se determinen reglamentariamente.
+Art 16
+1. El régimen financiero de la Mutualidad se determinará por el sistema conveniente para garantizar la cobertura de las prestaciones con el menor volumen de cuotas y gastos de gestión y podrá utilizarse el de prima media obtenida por reparto simple progresivo.
+2. Los gastos de gestión no podrán exceder del 2 por 100 del volumen de las cuotas liquidadas.
+Art. 17
+El Banco de Crédito Local podrá concertar su concurso financiero con la Mutualidad.
+CAPITULO SEXTO
+De las inversiones
+Art. 18
+La Dirección Técnica de la Mutualidad formulará cada año un Plan de Inversiones para el ejercicio siguiente. En dicho plan se consignarán separadamente las inversiones que exijan una fácil liquidez y que habrán de efectuarse en valores mobiliarios y aquellas otras que, reuniendo las necesarias condiciones de seguridad y rentabilidad, se apliquen a fines sociales de directa utilidad para los asegurados.
+Art. 19
+La Dirección Técnica de la Mutualidad someterá anualmente a los órganos competentes del Ministerio de Administración Territorial y del Ministerio de Economía y Hacienda, de acuerdo con las disposiciones vigentes en la materia, el plan anual de inversiones correspondiente al ejercicio siguiente. Si transcurrido el plazo de un mes, a contar de la fecha de presentación del plan, dichos órganos competentes no oponen reparo alguno se considerará automáticamente aprobado y la Dirección de la Mutualidad procederá a su ejecución.
+CAPITULO SEPTIMO
+Del procedimiento y régimen jurídico
+Art. 20
+1. Corresponderá a las Entidades locales, a la Dirección General de Administración Local o al Organismo competente en cada caso, según la legislación vigente, adoptar los acuerdos previos que estimen pertinentes sobre la jubilación de los funcionarios.
+2. Dichos acuerdos servirán de base a la Mutualidad Nacional de Previsión de la Administración Local para la incoación y tramitación del oportuno expediente a los efectos de la declaración de los derechos que, de acuerdo con la presente Ley y con el Reglamento de la Mutualidad, puedan corresponder al interesado. La resolución será de la exclusiva competencia de la Mutualidad.
+Art. 21
+Las resoluciones de la Mutualidad Nacional de Previsión de la Administración Local podrán ser recurridas en alzada ante el Ministerio de Administración Territorial, de acuerdo con la Ley de Procedimiento Administrativo.
+En todo caso y con carácter previo y potestativo, podrá interponerse el recurso de reposición ante el Director Técnico de la Mutualidad.
+DISPOSICIONES ADICIONALES
+Primera.
+1. El régimen de la Mutualidad Nacional de Previsión de la Administración Local no será aplicable a las Corporaciones y Entidades locales de Navarra, cuyo personal seguirá sometido a su régimen peculiar.
+2. Para los asegurados a la Mutualidad que hayan prestado servicio en Navarra se estará a lo que se establezca en las disposiciones de carácter general que regulan la compensación de cuotas entre los distintos regímenes de previsión social.
+Segunda.
+Todo funcionario que ingrese al servicio de la Administración Local con posterioridad a la publicación de los Estatutos, para aplicación de esta Ley, quedará sometido a lo dispuesto en ella, sin que las Entidades locales puedan extender a los mismos aquellos derechos reconocidos para los ingresados con anterioridad.
+Tercera.
+1. A partir de la entrada en vigor de la presente Ley, las Entidades locales, Organismos, Dependencias y Servicios que según la misma hayan de ser obligatoriamente afiliados, no podrán adoptar, respecto al personal a su servicio que haya de tener el carácter de asegurado, acuerdo alguno en materia de reconocimiento de derechos pasivos ni modificar el régimen de éstos, vigente en dicha fecha.
+2. Se reputarán nulas, en todo caso, las modificaciones adoptadas en el régimen de derechos pasivos con posterioridad al Decreto de 30 de noviembre de 1956, que no se hubieran ajustado a lo dispuesto en el articulo 8.° del mismo.
+Cuarta.
+Las Corporaciones locales no podrán en lo sucesivo conceder aportaciones, subvenciones o ayudas de cualquier género para fines de previsión de sus funcionarios. Serán nulos los créditos que se concedan con infracción de este precepto y su pago engendrará las responsabilidades pertinentes.
+Quinta.
+Los funcionarios al servicio de la Administración Local que deseen constituir una Entidad de previsión de carácter voluntario, a fin de mejorar los beneficios establecidos en esta Ley y en los Estatutos de la Mutualidad Nacional de Previsión de la Administración Local, podrán hacerlo de conformidad con las disposiciones legales correspondientes y siempre que las aportaciones y cuotas sean exclusivamente a su cargo.
+DISPOSICIONES TRANSITORIAS
+Primera.
+Con arreglo a los principios establecidos en esta Ley y condiciones que reglamentariamente se determinen, la Mutualidad Nacional se hará cargo del pago del total de percepciones de las clases pasivas de la Administración Local que hubiesen adquirido tal condición con anterioridad a la fecha de entrada en vigor de esta Ley.
+La obligación de pago por parte de la Mutualidad Nacional sólo alcanzará, sin embargo, a la cuantía estricta de la pensión abonable con arreglo a la legislación común.
+Segunda.
+La Mutualidad aplicará, en caso necesario, con las demás Entidades públicas de previsión el traspaso, compensación o reconocimiento recíproco de las cuotas satisfechas, en la forma que señalen las disposiciones sobre la materia.
+Redactada conforme a la corrección de errores publicada en el BOE núm. 165, de 11 de julio de 1986. Ref. BOE-A-1986-18436

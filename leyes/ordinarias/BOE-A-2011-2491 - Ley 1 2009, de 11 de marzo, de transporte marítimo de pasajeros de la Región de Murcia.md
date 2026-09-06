@@ -1,0 +1,326 @@
+# Ley 1/2009, de 11 de marzo, de transporte marítimo de pasajeros de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-2011-2491`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-2491
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 1/2009, de 11 de marzo, de Transporte Marítimo de Pasajeros de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+PREÁMBULO
+Por Real Decreto 1597/1999, de 15 de octubre (BOE número 265, de 5 de noviembre de 1999), se traspasan a la Comunidad Autónoma de la Región de Murcia las funciones y servicios de la Administración del Estado en materia de transporte marítimo.
+El Decreto Regional número 159/1999, de 16 de diciembre, sobre asunción y atribución de funciones y servicios traspasados de la Administración del Estado a la Comunidad Autónoma de la Región de Murcia en materia de transporte de Murcia determina que las competencias asumidas serán ejercidas con efectos de 1 de enero de 2000.
+El artículo 10.Uno.4) del Estatuto de Autonomía de la Región de Murcia reconoce la competencia exclusiva de nuestra Comunidad en materia de transporte marítimo entre puertos o puntos de la Comunidad Autónoma, sin conexión con puertos o puntos de otros ámbitos territoriales, sin que, hasta la fecha, haya dictado nuestra Comunidad normativa legal en esta materia.
+La Región de Murcia, bañada por el Mar Mediterráneo, posee un total de 176 kilómetros de costa, que comienzan en la playa de El Mojón en San Pedro del Pinatar hasta Cala Reona en Águilas, a las que se sumarían 73 kilómetros de costa interior que conforman el Mar Menor.
+La costa murciana se ha convertido en un paraje ideal para todos los amantes de deportes náuticos, actividades subacuáticas, así como lúdico-turísticas; de ahí la necesidad de regular las cada vez más importantes necesidades de transporte marítimo en nuestra Región.
+La regulación contenida en la presente Ley está referida al transporte marítimo de pasajeros que se preste íntegramente entre puertos, instalaciones portuarias y lugares del dominio público marítimo-terrestre dentro del litoral de la Región de Murcia.
+La Ley se articula en 29 artículos correspondientes a 7 capítulos, Disposiciones Generales; Derechos y obligaciones de los usuarios; Autorizaciones; Procedimiento; Registro de Autorizaciones; Inspección de los Servicios de Transporte; e Infracciones y Sanciones, una Disposición Transitoria y cuatro Disposiciones Finales.
+La ordenación administrativa prevista se basa en un régimen de autorizaciones previas y, también, en la inscripción en el correspondiente Registro de Autorizaciones, regulándose con precisión la documentación que debe ser aportada por los solicitantes de las autorizaciones, así como la intervención en el procedimiento aprobatorio de todos los organismos que puedan verse afectados por el itinerario propuesto.
+Asimismo, se opta por la prudencia en la regulación de las autorizaciones, al establecerse una duración de tres años que permite, no obstante, una prórroga siempre que sobre el titular no haya recaído una sanción firme en vía administrativa por la comisión de una falta muy grave.
+Se regula con extensión la inspección en materia de transporte marítimo así como el régimen sancionador aplicable en esta materia y, finalmente, cabría señalar que se recoge el plazo máximo de duración de los procedimientos de autorización en seis meses y se otorga carácter negativo al silencio administrativo, dado que la Ley regula actividades que se llevan a cabo dentro del ámbito del dominio público.
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. La presente Ley tiene por objeto la regulación del transporte marítimo de pasajeros entre puertos o puntos de la Comunidad Autónoma de la Región de Murcia sin conexión con puertos o puntos de otras comunidades autónomas, en embarcaciones que dispongan de medios mecánicos de propulsión y/o se propulsen a vela, debidamente autorizadas, mediante retribución, y con independencia del carácter directo o indirecto de la contraprestación económica.
+2. Se entienden que están comprendidos dentro de esta modalidad, entre otras actividades, los cruceros turísticos, el desplazamiento a parajes para realizar excursiones o prácticas deportivas, así como, en general, cualquier actividad comercial que suponga el traslado de personas en embarcaciones provistas de medios mecánicos de propulsión.
+
+### Artículo 2
+
+Artículo 2. Clasificación.
+1. Los transportes objeto de la presente Ley, de acuerdo con sus condiciones de prestación, pueden ser regulares o discrecionales.
+2. Son transportes regulares los que se efectúan dentro de itinerarios preestablecidos, y con sujeción a calendarios y horarios preestablecidos.
+3. Son transportes discrecionales los que se llevan a cabo sin sujeción a itinerario, calendario ni horario prefijado.
+
+## CAPÍTULO II
+
+Derechos y obligaciones de los usuarios
+
+### Artículo 3
+
+Artículo 3. Derechos de los usuarios.
+Todos los usuarios de los servicios de transporte marítimo de pasajeros tienen derecho a:
+a) Acceder, en condiciones no discriminatorias, a la prestación de los servicios de transporte marítimo de pasajeros abiertos al uso público, de acuerdo con su legislación reguladora.
+b) Ser informado de los itinerarios, precios y demás condiciones relativas a la prestación de estos servicios.
+c) Formular reclamación en el Libro correspondiente conforme a la normativa en materia de defensa del consumidor.
+d) Ser indemnizado por los daños ocasionados en el curso de la navegación o en las operaciones de embarque y desembarque, tanto daños personales como por la destrucción, pérdida o avería de sus equipajes facturados o mercancías.
+
+### Artículo 4
+
+Artículo 4. Obligaciones.
+Los usuarios de los servicios de transporte marítimo de pasajeros están obligados a:
+a) Respetar y realizar un uso racional y adecuado a su finalidad de los medios materiales aplicados a la prestación de los servicios.
+b) Abonar los precios establecidos por la prestación de los servicios.
+
+### Artículo 5
+
+Artículo 5. Derechos y obligaciones.
+Los derechos y obligaciones para empresas navieras y usuarios de transporte marítimo, se entenderán sin perjuicio de lo establecido en la normativa estatal sobre marina mercante y de las competencias de la Administración del Estado en la materia.
+
+## CAPÍTULO III
+
+Régimen jurídico de prestación del transporte marítimo de pasajeros
+Se modifica por el art. único.1 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 6
+
+Artículo 6. Comunicación previa.
+1. La actividad de transporte a que se refiere el artículo 1 de la presente ley queda sujeta en general al régimen de comunicación previa. A tales efectos, las personas físicas o jurídicas interesadas deben comunicar su voluntad de realizarla a la consejería competente en materia de transportes, con una antelación mínima de quince días al inicio de la actividad, acreditando el cumplimiento de los requisitos legales preceptivos para ejercerla.
+2. En la comunicación previa debe determinarse el tipo servicio que se pretende prestar. Si se trata de un transporte no regular u ocasional, se indicará la zona o las zonas donde esté previsto llevarlo a cabo, los puntos de partida y de llegada y la previsión de escalas.
+3. La comunicación de inicio de la actividad no exime de la obtención de las autorizaciones, las licencias, los permisos o las concesiones que sean precisos, de acuerdo con la legislación vigente.
+4. Los navieros deberán comunicar a la consejería competente en materia de transportes cada tres años, contados desde la comunicación previa inicial, su intención de continuar ejerciendo la actividad, acompañando una declaración responsable del mantenimiento de los requisitos legales preceptivos.
+5. El cese en la prestación del servicio regular debe ser comunicada a la consejería competente en materia de transportes con una antelación mínima de quince días.
+Se modifica por el art. único.2 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 7
+
+Artículo 7. Titularidad de las autorizaciones.
+(Suprimido).
+Se suprime por el art. único.3 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 8
+
+Artículo 8. Características de las embarcaciones.
+El transporte marítimo de pasajeros solo se podrá llevar a cabo en embarcaciones que cumplan con la normativa española en todo lo referente a seguridad marítima, debiendo tener todos sus certificados en vigor.
+
+## CAPÍTULO IV
+
+Requisitos y documentos exigibles
+Se modifica por el art. único.4 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 9
+
+Artículo 9. Requisitos para ejercer la actividad.
+1. Los requisitos para llevar a cabo servicios de transporte marítimo de pasajeros, objeto de esta ley, que deben cumplirse son los siguientes:
+a) Estar de alta en el epígrafe que corresponda del Impuesto sobre Actividades Económicas.
+b) Acreditar la disponibilidad de la embarcación mediante justo título: propiedad, usufructo, mandato, fletamento o cualquier otro admitido en derecho.
+c) Presentar memoria descriptiva del transporte a realizar, que en caso de ser de clase regular contendrá los puntos de partida y llegada, itinerarios, escalas y horarios. En caso de ser no regular, se hará constar la zona del litoral de la Región de Murcia donde se pretenda realizar el transporte, así como los puntos de partida y llegada y las escalas previstas.
+d) Justificar que la embarcación o embarcaciones que se destinen a este transporte cumplen los requisitos exigidos por la normativa vigente para poder navegar y los requerimientos técnicos y de seguridad, carga máxima y número de pasajeros autorizados, mediante documentación acreditativa del órgano con competencia en materia de seguridad marítima y en inspección de embarcaciones.
+e) Adjuntar la relación de precios que se pretenden aplicar.
+f) Disponer de seguro de responsabilidad civil que cubra los daños que puedan ocasionarse a los pasajeros, a los equipajes de los mismos y a terceras personas, con motivo de la prestación de los servicios de transporte. La cuantía del riesgo asegurado se fijará reglamentariamente. La suscripción de este seguro se entiende sin perjuicio de otros que deban ser formalizados en función de la clase de transporte a realizar.
+Se modifica por el art. único.5 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 10
+
+Artículo 10. Incumplimiento de los requisitos.
+Si la consejería competente en materia de transportes constata el incumplimiento de los requisitos establecidos en el anterior artículo, se otorgará un plazo de diez días para proceder a su subsanación. Transcurrido dicho plazo sin que se produzca aquella, se dictará resolución motivada ordenando la prohibición del inicio del servicio, o su inmediata paralización, hasta que sea corregida la omisión, sin perjuicio de las sanciones administrativas a que hubiere lugar.
+Se modifica por el art. único.6 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 11
+
+Artículo 11. Modificación de las condiciones de prestación de los servicios.
+1. Con carácter general, la modificación de cualquiera de las condiciones de prestación de los servicios regulares en materia de horario o ruta será comunicada a la consejería competente en la materia con quince días de antelación.
+2. El régimen establecido en el anterior párrafo puede ser exceptuado en los supuestos de caso fortuito o de fuerza mayor a fin de garantizar la prestación del servicio en las mejores condiciones posibles hasta la normalización del mismo. De cualquier forma, estas incidencias serán comunicadas en el plazo de veinticuatro horas a la consejería competente en la materia.
+Se modifica por el art. único.7 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 12
+
+Artículo 12. Cese de la actividad.
+1. Las siguientes causas determinarán la imposibilidad legal de continuar realizando la actividad de transporte marítimo:
+a) El cese de la actividad del transportista tras su notificación a la Administración competente.
+b) La extinción de la personalidad del transportista.
+c) Por sanción administrativa firme.
+d) Por falta de notificación preceptiva de la intención de seguir realizando la actividad y mantenimiento de las condiciones.
+2. Cuando el cese de la actividad se produzca a instancia de la Administración Pública competente, se acordará mediante resolución, tras la tramitación del procedimiento en el que se dé audiencia al transportista afectado.
+Se modifica por el art. único.8 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 13
+
+Artículo 13. Características de la autorización.
+(Suprimido).
+Se suprime por el art. único.9 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+## CAPÍTULO V
+
+Registro de Comunicaciones Previas
+Se modifica por el art. único.10 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 14
+
+Artículo 14. Registro de comunicaciones previas.
+1. Por la presente ley se crea el Registro de comunicaciones previas para el transporte marítimo de pasajeros en la Región de Murcia.
+2. El órgano competente para la gestión del Registro será la Dirección General competente en materia de transportes.
+3. El Registro tendrá carácter público.
+4. La conservación, tratamiento, transmisión y destrucción de los datos personales, se realizará de conformidad con lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+Se modifica el título y el apartado 1 por el art. único.11 y 12 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 15
+
+Artículo 15. Clases y contenidos de los asientos.
+1. Los asientos del Registro serán de dos clases: de alta y de cancelación.
+2. De cada uno de estos asientos se anotarán, como mínimo, los siguientes extremos:
+a) Respecto a los asientos de alta:
+1) Número de orden asignado en el Registro.
+2) Fecha de la comunicación previa.
+3) Titular del prestador de servicio de transporte marítimo.
+4) Domicilio.
+5) Fecha de la anotación en el Registro.
+b) Respecto a los asientos de cancelación:
+1) Motivo determinante de la cancelación.
+2) Fecha de la cancelación.
+3) Fecha de la anotación de la cancelación.
+Se modifica por el art. único.13 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 16
+
+Artículo 16. Competencia y gratuidad de la inscripción.
+1. Las certificaciones de los datos inscritos se extenderán por el Director General competente en materia de transportes.
+2. La inscripción y cancelación de datos será gratuita.
+Se modifica el apartado 2 por el art. único.14 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 17
+
+Artículo 17. Remisión de información.
+1. La consejería competente en materia de transportes facilitará a la Administración del Estado la información relativa al registro de comunicaciones previas de transporte marítimo de viajeros y otros datos estadísticos que puedan resultar de interés para ambas administraciones.
+2. Las Administraciones Públicas cuyas competencias incidan sobre el ámbito espacial contemplado en la presente Ley ajustarán sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a aquéllas. Especialmente en caso de los incidentes o accidentes marítimos acaecidos en dicho ámbito.
+Se modifica el apartado 1 por el art. único.15 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+## CAPÍTULO VI
+
+Inspección de los servicios de transporte
+
+### Artículo 18
+
+Artículo 18. Órganos de inspección.
+1. La potestad de inspección y vigilancia de los servicios de transporte marítimo de pasajeros corresponde a la Dirección General competente en materia de transportes y será ejercida por el personal funcionario que dicha Dirección General determine, todo ello sin perjuicio de las competencias de otras administraciones públicas en materia de inspección.
+2. Los inspectores designados por la Dirección General competente en materia de transportes tendrán, en el ejercicio de sus funciones, la consideración de agentes de la autoridad, pudiendo solicitar en caso necesario para una mayor eficacia en su labor, el auxilio de los Cuerpos y Fuerzas de Seguridad.
+3. Se reconoce la condición de autoridad a efectos de la constatación de los hechos infractores en las materias y ámbitos regulados en la presente Ley, a los funcionarios o agentes de la Comunidad Autónoma de la Región de Murcia con funciones inspectoras en las materias de turismo, pesca y acuicultura, medio ambiente y consumo, que formalicen la correspondiente acta de denuncia, que será trasladada a la Consejería competente.
+
+### Artículo 19
+
+Artículo 19. Ejercicio de la función inspectora.
+1. La función inspectora se ejerce de oficio o como consecuencia de denuncia formulada por organismo o persona interesada. Las actuaciones inspectoras se realizarán en relación con toda persona o entidad que se vea afectada por las normas reguladoras del tráfico marítimo de pasajeros de la Región de Murcia.
+2. Las empresas inspeccionadas y los capitanes o patrones de barco están obligados a facilitar a los funcionarios de la Dirección General competente en materia de transportes, debidamente acreditados y en el ejercicio de sus funciones, el examen de toda la documentación que se les requiera, así como permitir el acceso a las embarcaciones destinadas al transporte, así como a los locales que la persona o entidad prestadora del servicio utilice en tierra para la prestación del servicio, siempre que resulte necesario para verificar el cumplimiento de las obligaciones establecidas en la presente Ley.
+3. Las actas levantadas por los servicios de inspección tienen la naturaleza de documentos públicos, tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de sus respectivos derechos o intereses puedan señalar o aportar los propios administrados. Deben reflejar con claridad los hechos o actividades que pueden ser constitutivos de infracción, los datos de identificación del presunto infractor y de la persona o embarcación inspeccionada y la conformidad o disconformidad de los interesados, así como las disposiciones que se consideren infringidas.
+Se modifica el apartado 2 por el art. único.16 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+## CAPÍTULO VII
+
+Infracciones y sanciones
+
+### Artículo 20
+
+Artículo 20. Infracciones.
+1. Constituye infracción administrativa toda acción u omisión que vulnere las prescripciones contenidas en la ordenación del transporte marítimo de pasajeros, tipificadas y sancionadas en la presente Ley.
+2. Estas infracciones comportan la imposición de sanciones a los responsables, así como la obligación de resarcimiento por los daños y perjuicios causados a los usuarios de servicio, terceras personas o bienes e instalaciones, todo ello sin perjuicio de las medidas provisionales reguladas en esta Ley.
+3. Las infracciones se clasifican en leves, graves y muy graves.
+
+### Artículo 21
+
+Artículo 21. Responsabilidad por infracciones.
+1. Solo podrán ser sancionados por las acciones u omisiones tipificadas en esta ley, las personas físicas o jurídicas que resulten ser responsables de las mismas. Se entenderán por sujetos responsables los prestadores y usuarios del servicio de transporte marítimo.
+2. Cuando el cumplimiento de las obligaciones previstas en esta ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan.
+3. Cuando una infracción se impute a una persona jurídica, las personas físicas integrantes de sus órganos rectores o de dirección que hubiesen autorizado o consentido la realización de la conducta infractora serán responsables solidarios con aquella.
+Se modifica por el art. único.17 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 22
+
+Artículo 22. Infracciones independientes o conexas.
+1. Las sanciones que se impongan a los distintos sujetos por una misma infracción tendrán entre si carácter independiente.
+2. En los supuestos en que se instruyera expediente sancionador cuando un mismo hecho constituya dos o más infracciones o cuando una de ellas sea medio necesario para cometer la otra se impondrá una sola sanción, y será la correspondiente a la de mayor entidad y cuantía.
+3. En los demás casos, a los responsables de dos o más infracciones se les impondrán las sanciones correspondientes a cada una de las diversas infracciones cometidas.
+
+### Artículo 23
+
+Artículo 23. Infracciones leves.
+Son infracciones leves:
+a) No mantener las embarcaciones en las condiciones necesarias de limpieza y conservación para garantizar la correcta prestación del servicio de transporte.
+b) La negativa injustificada a satisfacer las demandas de los usuarios al acceso a las líneas regulares o discrecionales de transporte marítimo de pasajeros.
+c) No abonar los usuarios los precios establecidos por la prestación de los servicios.
+d) Las acciones y omisiones que constituyan infracción del transporte marítimo de pasajeros que no pueda ser calificada como muy grave y grave, que constituyan infracción de las obligaciones establecidas en la presente Ley en materia de transporte.
+
+### Artículo 24
+
+Artículo 24. Infracciones graves.
+Son infracciones graves:
+a) El cobro de precios distintos de los comunicados a la Administración.
+b) Incumplir injustificada y reiteradamente los itinerarios y frecuencias en las líneas regulares.
+c) La negativa u obstrucción al ejercicio de las funciones de inspección que corresponden a la Administración, siempre que tal obstrucción no pueda ser calificada como muy grave.
+d) El falseamiento de la información suministrada a la Administración por propia iniciativa o a requerimiento de ésta.
+e) Incumplimiento de los requisitos para ejercer la actividad.
+f) La comisión por tercera o posteriores veces de una infracción de igual naturaleza de carácter leve.
+Se modifica la letra e) por el art. único.18 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 25
+
+Artículo 25. Infracciones muy graves.
+Son infracciones muy graves:
+a) La prestación de servicios de transporte marítimo de pasajeros que excedan del ámbito marítimo específicamente comunicado.
+b) La organización, establecimiento o realización de servicios de transporte marítimo de pasajeros sin haber presentado la preceptiva comunicación previa.
+c) La negativa a someterse a la actuación de los servicios de inspección u obstruir dicha actuación, de forma que impida o retrase el ejercicio de las funciones que dichos servicios tienen atribuidas.
+d) Prestar el servicio de transporte en número superior al comunicado.
+e) La comisión por tercera o posteriores veces de una infracción de igual naturaleza de carácter grave.
+f) No suscribir los seguros obligatorios establecidos en la presente Ley o suscribirlos con cobertura o importe insuficiente.
+Se modifican las letras a), b) y d) por el art. único.19 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 26
+
+Artículo 26. Medidas provisionales.
+1. Incoado el expediente sancionador, la Dirección General competente en materia de transportes podrá adoptar, mediante resolución motivada, previa propuesta de quien actúe como instructor de dicho expediente, las medidas provisionales que procedan con el fin de asegurar la eficacia de la resolución que pueda adoptarse, para preservar los intereses generales o para evitar el mantenimiento de los efectos de la infracción.
+2. El incumplimiento por causas imputables al interesado de las condiciones de prestación del servicio de transporte marítimo de viajeros establecidas en la comunicación previa determinará, la suspensión temporal de la actividad hasta el cumplimiento de los requisitos exigidos, previa audiencia. En cualquier caso, la comisión de las infracciones tipificadas en el artículo 25 supone la inmovilización de la embarcación y la suspensión del servicio; en su caso, la Administración puede adoptar las medidas necesarias a fin y efecto de que los usuarios sufran las mínimas perturbaciones posibles.
+3. La resolución a que se hace referencia en el apartado 1 del presente artículo debe fijar un plazo para que la persona interesada presente comunicación previa o, en su caso, ajuste las condiciones de prestación del servicio en los términos establecidos en la comunicación previa presentada, de forma que no afecte a la seguridad de las personas, sin perjuicio, en todo caso, de las competencias de la Administración del Estado en la materia.
+Se modifican los apartados 2 y 3 por el art. único.20 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 27
+
+Artículo 27. Sanciones.
+1. Las infracciones leves se sancionarán con una multa de hasta 3.000,00 euros, las graves, con multa desde 3.001,00 euros hasta 15.000,00 euros y las muy graves, con multa desde 15.001,00 euros hasta 30.000,00 euros.
+2. La comisión de las infracciones tipificadas en el artículo 25 llevará aparejada, además de la multa que corresponda, la suspensión de la actividad por plazo máximo de un año, o el cese de la misma.
+3. Se considerará circunstancia atenuante el haber procedido a subsanar la infracción a requerimiento de la Administración, en el plazo a que se refiere el artículo 26.3, o con anterioridad a dicho requerimiento.
+4. A efectos de lo establecido en la presente Ley, se considera reincidencia la comisión de más de una infracción de la misma naturaleza en el plazo de un año, siempre que haya recaído resolución firme en vía administrativa.
+5. Las sanciones que correspondan a las infracciones tipificadas en la presente Ley deben imponerse con independencia de la obligación de indemnizar por los daños y perjuicios causados a los usuarios del servicio, terceras personas o bienes e instalaciones.
+Se modifica el apartado 2 por el art. único.21 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 28
+
+Artículo 28. Procedimiento sancionador y competencia para resolver.
+1. Los expedientes sancionadores por infracciones en materia de transporte marítimo de pasajeros serán tramitados, en lo no previsto en la presente ley, de conformidad con lo establecido en la normativa estatal básica. El órgano competente para ordenar la iniciación de expedientes será la dirección general competente en materia de transportes y su resolución definitiva e imposición de la sanción pertinente corresponderá a los siguientes:
+a) Al director general competente en materia de transportes, para las infracciones leves y graves.
+b) Al consejero competente en materia de transportes, para las infracciones muy graves.
+2. El plazo para notificar la resolución de los procedimientos sancionadores será de doce meses, transcurrido el cual sin que se produzca aquella, se dictará resolución declarando la caducidad del procedimiento y ordenando el archivo de las actuaciones, con los efectos previstos en la legislación vigente.
+Se modifica por el art. único.22 de la Ley 6/2016, de 18 de mayo. Ref. BOE-A-2016-6041
+
+### Artículo 29
+
+Artículo 29. Prescripción.
+1. Las infracciones muy graves prescriben a los tres años de haberse cometido; las graves a los dos años, y las leves al año. El plazo comenzará a contarse desde que se produzca la conducta constitutiva de infracción.
+2. Los mismos plazos establecidos en el apartado 1 de este artículo serán aplicables a la prescripción de las sanciones.
+3. La prescripción de las infracciones y sanciones debe aplicarse en las condiciones establecidas en el artículo 132.2 y 3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición transitoria
+
+Disposición transitoria. Aplicación a los servicios de transporte marítimo existentes.
+Las personas que presten servicios de transporte en el momento de la entrada en vigor de la presente Ley disponen del plazo de seis meses para adecuar su actividad al nuevo régimen jurídico establecido.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo.
+Se faculta al Consejo de Gobierno para aprobar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Actualización de la cuantía de las sanciones.
+Las cuantías de las sanciones reguladas en la presente Ley podrán ser actualizadas periódicamente por el Consejo de Gobierno, a propuesta de la Consejería competente en materia de transportes, teniendo en cuenta la variación de los índices de precios al consumo.
+
+### Disposición final tercera
+
+Disposición final tercera. Calidad y seguridad de las infraestructuras destinadas al transporte marítimo de pasajeros.
+La Comunidad Autónoma velará por el cumplimiento de los parámetros de calidad y seguridad de las infraestructuras de los puntos de embarque y desembarque relacionados con el transporte marítimo de pasajeros, en el ámbito de sus competencias.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+La presente Ley entrará en vigor en el plazo de dos meses desde su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 11 de marzo de 2009.—El Presidente, Ramón Luís Valcárcel Siso.

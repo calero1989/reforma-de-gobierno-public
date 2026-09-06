@@ -1,0 +1,276 @@
+# Ley 4/1998, de 8 de abril, de Medidas Fiscales, Financieras, de Patrimonio y Administrativas.
+
+- Identificador BOE: `BOE-A-1998-10589`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-10589
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en el BOA núm. 53, de 8 de mayo de 1998 y núm. 113, de 25 de septiembre de 1998. Ref. BOA-d-1998-90260 Ref. BOA-d-1998-90261
+
+## Preámbulo
+
+En nombre del Rey y como Presidente de la Comunidad Autónoma de Aragón, promulgo la presente Ley, aprobada por las Cortes de Aragón, y ordeno se publique en el «Boletín Oficial de Aragón» y en el «Boletín Oficial del Estado», todo ello de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+PREÁMBULO
+El artículo 55 del Estatuto de Autonomía de Aragón se refiere al contenido material de la Ley de Presupuestos de la Comunidad Autónoma al especificar que el Presupuesto será «único, de carácter anual, e incluirá la totalidad de los gastos e ingresos de la misma y de todos sus organismos, instituciones y empresas».
+El Tribunal Constitucional, en diversas sentencias, ha concretado el ámbito material sobre el que puede incidir la Ley Anual de Presupuestos, limitando la posibilidad de afectar a materias distintas a las que constituyen el núcleo esencial del instituto presupuestario, la expresión cifrada de la previsión de ingresos y la habilitación de gastos, siempre que no tengan relación directa con las estimaciones o dotaciones económicas.
+Asimismo, el artículo 134.7 de la Constitución prohíbe expresamente la creación de tributos o la modificación de los existentes, salvo autorización en una norma tributaria sustantiva, a través de la Ley de Presupuestos.
+Para la mejor ejecución de los objetivos económicos que se recogen en la Ley de Presupuestos para el ejercicio de 1998, resulta necesario promover un conjunto de medidas normativas que inciden en el ejercicio de las potestades tributarias de la Comunidad Autónoma de Aragón; en la adecuación de varios preceptos de la Ley de Hacienda y de la Ley de Patrimonio para acomodarlos a las necesidades actuales tanto organizativas como competenciales; en la regulación del régimen retributivo del personal al servicio de la Comunidad Autónoma, que hasta el momento se encontraba disperso en diversas normas de insuficiente rango desde el punto de vista de los principios de reserva de ley en la materia y de jerarquía normativa; así como en concretos aspectos organizativos y procedimentales, en concreto, referidos a la dependencia orgánica del Instituto Aragonés de la Mujer, que se adscribe al Departamento de Presidencia y Relaciones Institucionales al objeto de su mayor agilidad y eficacia para el cumplimiento de los fines que tiene encomendados, a la creación de la Secretaría General Técnica en el Departamento de Educación y Cultura y al régimen jurídico y procedimiento aplicable para la concesión y control de las subvenciones, habida cuenta de la importancia de esta forma de acción administrativa en el ámbito de la Comunidad Autónoma.
+Estas medidas, por su alcance, exceden del ámbito material reservado a la Ley de Presupuestos, tal como ha quedado señalado, y deben ser objeto de regulación independiente.
+Este es el objeto de la presente Ley. Se trata, por una parte, de ejercitar el poder tributario atribuido a nuestra Comunidad Autónoma, tanto en ciertos tributos propios integrados en el concepto de tasas, como en tributos cedidos, dentro de los límites contenidos en la vigente revisión del sistema de financiación de las Comunidades Autónomas y de acuerdo con lo establecido en la Ley Orgánica 3/1996, de 27 de diciembre, de modificación parcial de la LOFCA; Ley 14/1996, de 30 de diciembre, de Cesión de Tributos a las Comunidades Autónomas, y la Ley 25/1997, de 4 de agosto, de modificación del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Aragón y de fijación del alcance y condiciones de dicha cesión, la que, a su vez, modifica el apartado 1 de la disposición adicional segunda de nuestro Estatuto.
+Por otra parte, se afronta una urgente adecuación de nuestra normativa financiera y patrimonial al acervo normativo que surge de la propia legislación del Estado, la Unión Europea y otras Comunidades Autónomas, con la finalidad de incorporar los criterios que garantizan tanto un tratamiento uniforme a los administrados, como una mayor eficacia en la gestión administrativa de las áreas conexas con los principios presupuestarios, la función interventora, la contabilidad pública y la gestión financiera y patrimonial. Todo ello aconseja arbitrar determinadas modificaciones en la Ley 4/1986, de 4 de junio, de la Hacienda de la Comunidad Autónoma de Aragón, así como en la Ley 5/1987, de 2 de abril, de Patrimonio de las Comunidad Autónoma de Aragón y disposiciones concordantes.
+Las modificaciones tributarias contenidas en el título I de esta Ley implican el ejercicio por nuestra Comunidad Autónoma de su corresponsabilidad fiscal, adecuando ciertos elementos cuantificadores de tributos cedidos a los principios constitucionales de igualdad y capacidad económica, que orientan el sistema tributario. Así, en uso de la competencia atribuida a esta Comunidad en virtud de lo establecido en el artículo segundo de la Ley 25/1997, de 4 de agosto, de Cesión de Tributos del Estado a la Comunidad Autónoma de Aragón en relación con lo previsto en el artículo 7 de la Ley Orgánica 3/1996, de 27 de diciembre, de modificación parcial de la LOFCA, de la que resulta la actual redacción de su artículo 19.2, d) y e), y de lo establecido en los apartados cuatro y seis del artículo 13 de la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos a las Comunidades Autónomas, se propone en la presente Ley la adecuación de tipos de gravamen, tanto en el ámbito del tráfico jurídico inmobiliario, sometido al Impuesto de Transmisiones Patrimoniales en su concepto de «transmisiones onerosas», con excepción de los derechos reales de garantía, como en materia de tributos sobre el juego, en lo relativo a «máquinas recreativas con premio».
+En ambos casos, se produce una cierta ruptura del principio de igualdad, lo que denota una mayor capacidad contributiva que esta norma trata de adecuar.
+Efectivamente, en nuestro sistema actual, una gran parte de las transmisiones onerosas de bienes inmuebles y la constitución y cesión de derechos reales de tal naturaleza, se encuentra sometida a una imposición alternativa, incidiendo en el ámbito objetivo del Impuesto sobre el Valor Añadido o del Impuesto sobre Transmisiones Patrimoniales, en función de la cualidad empresarial del transmitente y de otras circunstancias, cuyo último resultado económico es que, los hechos imponibles sometidos al Impuesto sobre el Valor Añadido soportan, en la mayoría de los casos, un gravamen acumulado de 7,50 por 100 del valor de la transmisión, resultante del tipo del 7 por 100 de dicho impuesto, al que se acumula el del 0,50 por 100 del concepto de Actos Jurídicos Documentados, compatible con aquél; sin embargo, cuando similares hechos imponibles quedan sujetos a transmisiones patrimoniales onerosas, sólo soportan un gravamen del 6 por 100. Nada justifica que una misma apariencia de capacidad económica deba soportar tan dispar componente tributario. La corrección de dicha desviación es la que motiva el incremento de la tarifa al 7 por 100 en el tráfico inmobiliario sometido a dicho último impuesto, ya que además no existe posibilidad de traslación de la medida fiscal adoptada fuera del ámbito territorial de nuestra Comunidad Autónoma, por la propia naturaleza inmobiliaria de las operaciones sometidas en relación con el punto de conexión arbitrado al efecto en el artículo 7.Dos.c).1.ª de la Ley 14/1996, de 30 de diciembre, con lo que queda preservado el espíritu del artículo 157.2 de la Constitución, donde se recoge el principio de interdicción de la exportación tributaria interterritorial.
+Parecidos argumentos son los que justifican la elevación de la tarifa en un 10 por 100 de la Tasa Fiscal del Juego en lo relativo a «máquinas recreativas con premio», ya que nuestra Comunidad Autónoma, a diferencia de otras muchas Comunidades, no ha ejercitado hasta ahora su poder tributario en dicho ámbito mediante recargos o impuestos específicos sobre tal actividad, lo que nos ubica en una situación de subimposición en relación con otros territorios, que la presente norma trata de corregir. Asimismo, en aplicación de lo establecido en el apartado seis del artículo 13 de la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos, se modifica el devengo de la tasa fiscal, fijando dos períodos impositivos semestrales, a fin de facilitar la gestión-liquidación del tributo.
+La vigente Ley 4/1986, de 4 de junio, de Hacienda de la Comunidad Autónoma de Aragón, reguladora de los derechos y obligaciones de contenido económico, así como el presupuesto, la intervención y contabilidad, la tesorería y el endeudamiento de nuestra Comunidad, está necesitada de ciertas adaptaciones que propicien una mejor y eficaz gestión de dichas materias, lo que motiva las modificaciones que se introducen en el título II de esta Ley, sin perjuicio de considerar las mismas como un necesario anticipo de la reforma global del régimen jurídico de la Hacienda de la Comunidad Autónoma de Aragón que el Gobierno remitirá a las Cortes de Aragón en el presente ejercicio de 1998. La experiencia acumulada en los doce años de vigencia de la Ley de Hacienda, así como la necesidad de acomodar la Hacienda autonómica a los importantes cambios organizativos y competenciales que la Comunidad Autónoma ha vivido desde junio de 1986, parecen indicar que es momento de modificar completamente la Ley reguladora. Por ello, las medidas que se incorporan a esta Ley nacen con vocación de normas transitorias, al efecto de permitir la adecuada gestión financiera y presupuestaria durante el presente ejercicio económico, hasta la aprobación del nuevo instrumento normativo.
+Las medidas que se proponen adaptan la Ley de Hacienda a las modificaciones operadas por la Ley 11/1996, de la Administración de la Comunidad Autónoma de Aragón, respecto de los organismos públicos y empresas de la Comunidad Autónoma; incorpora, decididamente, entre las funciones de control interno asignadas a la Intervención General de la Administración de la Comunidad Autónoma de Aragón, la modalidad de control financiero como complemento de la tradicional función interventora, y sistematiza diversas normas dispersas en las sucesivas leyes anuales de presupuestos relativas a modificaciones de los créditos presupuestarios, criterios de imputación temporal de las operaciones de gestión, atribución de competencias de gestión del presupuesto, regulación de la documentación justificativa de las órdenes de pago y de las características a las que deben ajustarse las operaciones de endeudamiento.
+Otro tanto ocurre con las normas reguladoras del Patrimonio de nuestra Comunidad, que son objeto de adaptación en el título III de esta Ley.
+Los más de diez años transcurridos desde la aprobación de la Ley 5/1987, de 2 de abril, de Patrimonio de la Comunidad Autónoma de Aragón, han resultado tiempo suficiente para provocar la inadaptación al ordenamiento jurídico de algunas de sus previsiones, así como para recomendar la actualización, a la luz de la experiencia, de diversos procedimientos.
+Así, por una parte, se hace necesario evitar referencias a preceptos legales hace tiempo derogados, como la Ley del extinto Banco de Tierras o la de Procedimiento Administrativo, y atender a la actual regulación de la Administración de la Comunidad Autónoma de Aragón en lo que se refiere a su sector público.
+Por otra, la mayor dimensión y complejidad de la Administración de la Comunidad Autónoma recomienda agilizar algunos procedimientos, como las enajenaciones mobiliarias o las valoraciones en virtud de Convenio, los arrendamientos inmobiliarios o las cesiones de bienes muebles.
+Por último, aun cuando la disposición adicional séptima de la Ley Patrimonial habilita a la presupuestaria para actualizar límites cuantitativos relativos a la atribución de competencias por razón del valor de los bienes y derechos, resulta conveniente, por motivos de claridad, que sea esta norma la que actualice algunos de estos límites que la evolución del mercado inmobiliario en el último decenio ha dejado desfasados.
+Finalmente, en el título IV, de medidas sobre función pública, se regulan, por vez primera, en norma con rango de Ley las retribuciones del personal al servicio de la Comunidad Autónoma, incluyendo las que corresponden a los miembros del Gobierno. La norma se detiene en los conceptos retributivos y en los criterios de devengo, en sus aspectos sustantivos, remitiéndose, como no podía ser de otra forma, para la determinación de las cuantías a la Ley Anual de Presupuestos.
+En cuanto a los demás aspectos administrativos cabe señalar, por su transcendencia, la ordenación de la actividad subvencionadora a un concreto marco normativo, hasta que la Comunidad Autónoma ejerza su competencia legislativa en esta materia. Asimismo, se ordena la adscripción del organismo público Instituto Aragonés de la Mujer al Departamento de Presidencia y Relaciones Institucionales y se crea la Secretaría General Técnica en el Departamento de Educación y Cultura, órgano directivo al que se encomienda la coordinación de las transferencias en materia de Educación no Universitaria, además de las funciones inherentes previstas en la Ley 11/1996.
+
+## TÍTULO I
+
+Medidas tributarias
+
+### Artículo 1
+
+Artículo 1. Deducciones sobre la parte autonómica de la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas.
+1. De acuerdo con lo establecido en el artículo 78 bis de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, según la redacción dada por el artículo 27 de la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos del Estado a las Comunidades Autónomas y de Medidas Fiscales Complementarias, en coordinación con lo dispuesto en el artículo 13. uno. 1.º b) de la misma, en relación con la Ley 25/1997, de 4 de agosto, de modificación del régimen de cesión de tributos del Estado a la Comunidad Autónoma de Aragón, con vigencia exclusiva para el ejercicio de 1998, se establecen, sobre la parte autonómica de la cuota íntegra de los sujetos pasivos residentes en el territorio de la Comunidad Autónoma de Aragón, las siguientes deducciones:
+a) Por cada sujeto pasivo de edad igual o superior a setenta y cinco años: 25.000 pesetas. Tendrán derecho a esta deducción los sujetos pasivos cuyas bases imponibles anuales sean inferiores a 2.000.000 de pesetas, en el caso de tributación individual, y 3.000.000 de pesetas, en el caso de tributación conjunta.
+b) Por cada ascendiente de edad igual o superior a setenta y cinco años que conviva con el sujeto pasivo, que no tenga rentas anuales superiores al salario mínimo interprofesional, garantizado para mayores de dieciocho años, en el período impositivo de que se trate: 25.000 pesetas.
+c) 25.000 pesetas por cada sujeto pasivo y, en su caso, por cada descendiente soltero o cada ascendiente que dependa del mismo, cuyas rentas anuales sean inferiores al salario mínimo interprofesional, que sean invidentes, mutilados o inválidos físicos o psíquicos en el grado señalado en el artículo 31 del Real Decreto 1841/1991, de 30 de diciembre.
+2. Las deducciones previstas en el número anterior son adicionales a las establecidas en el artículo 78, uno, b), c) y d) de la Ley 18/1991, de 6 de junio, según la redacción dada por el artículo 58 de la Ley 65/1997, de 30 de diciembre, de Presupuestos Generales del Estado para 1998, y a las mismas les serán de aplicación las reglas de justificación y prorrateo previstas en el citado artículo de la mencionada Ley.
+
+### Artículo 2
+
+Artículo 2. Tipo impositivo de las operaciones inmobiliarias en el Impuesto sobre Transmisiones Patrimoniales cedido a la Comunidad Autónoma de Aragón.
+(Derogado).
+Se deroga por la disposición derogatoria única.1.a) del Decreto Legislativo 1/2005, de 26 de septiembre. Ref. BOA-d-2005-90006#dd
+
+### Artículo 3
+
+Artículo 3. Cuota fija y devengo de la tasa fiscal sobre el juego relativa a máquinas recreativas con premio, cedida a la Comunidad Autónoma de Aragón.
+(Derogado).
+Se deroga por la disposición derogatoria única.1.a) de la Ley 13/2000, de 27 de diciembre. Ref. BOE-A-2001-2712
+
+### Artículo 4
+
+Artículo 4. Convalidación, Reestructuración y Modificación de determinadas tasas por utilización, en régimen de concesión, del dominio público de la Comunidad Autónoma de Aragón y por prestación de servicios o realización de actividades y entrega de bienes accesorios a las mismas de su Administración, en materia de Industria, Energía y Minas.
+(Derogado).
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 3/2000, de 29 de junio. Ref. BOA-d-2000-90003
+ Redactado conforme a la corrección de errores publicada en el BOA núm. 53, de 8 de mayo de 1998. Ref. BOA-d-1998-90260
+
+### Artículo 5
+
+Artículo 5.
+(Derogado).
+Se deroga por la disposición derogatoria única.2 del Decreto Legislativo 3/2000, de 29 de junio. Ref. BOA-d-2000-90003
+ Redactado conforme a la corrección de errores publicada en el BOA núm. 113, de 24 de septiembre de 1998. Ref. BOA-d-1998-90261
+
+## TÍTULO II
+
+Medidas relativas a la Hacienda Pública de la Comunidad Autónoma de Aragón
+
+### Artículo 6
+
+Artículo 6. Modificación de determinados artículos de la Ley 4/1986, de 4 de junio, de Hacienda de la Comunidad Autónoma de Aragón.
+(Derogado).
+Se deroga por la disposición derogatoria del Decreto Legislativo 1/2000, de 29 de junio. Ref. BOA-d-2000-90001#dd-2
+
+## TÍTULO III
+
+Medidas relativas al Patrimonio de la Comunidad Autónoma de Aragón
+
+### Artículo 7
+
+Artículo 7. Modificación de determinados artículos de la Ley 5/1987, de 2 de abril, de Patrimonio de la Comunidad Autónoma de Aragón.
+(Derogado).
+Se deroga por la disposición derogatoria del Decreto Legislativo 2/2000, de 29 de junio. Ref. BOA-d-2000-90002
+
+## TÍTULO IV
+
+Medidas sobre Función Pública
+
+### Artículo 8
+
+Artículo 8. Régimen retributivo.
+El personal al servicio de la Comunidad Autónoma de Aragón en virtud de nombramiento o de su relación estatutaria o contractual recibirá, en concepto de contraprestación económica con cargo a los Presupuestos por razón del trabajo realizado, las siguientes retribuciones:
+1. Retribuciones de los miembros del Gobierno de Aragón.
+El Presidente y los Consejeros del Gobierno de Aragón percibirán durante 1998 retribuciones en doce mensualidades, sin derecho a pagas extraordinarias, por los siguientes conceptos:
+a) Sueldo: Consistente en una cantidad a percibir en virtud del nombramiento para el cargo.
+b) Complemento al puesto: Destinado a retribuir la responsabilidad que conlleva el desempeño del cargo.
+c) Atenciones de la actividad: Cantidad que retribuye por la especial dedicación, dificultad técnica, incompatibilidad y disponibilidad que conlleva el cargo que se ocupa.
+Además podrán percibir, en catorce mensualidades, las retribuciones que por antigüedad puedan corresponderles de acuerdo con la normativa vigente.
+La cuantía de las retribuciones vendrá determinada en la Ley de Presupuestos de la Comunidad Autónoma de Aragón y su devengo será desde la fecha de toma de posesión del cargo hasta el día de su cese.
+2. Retribuciones de Directores generales y asimilados.
+El régimen retributivo de los Directores generales y asimilados comprenderá los siguientes conceptos retributivos:
+Retribuciones básicas.
+Retribuciones complementarias.
+Las retribuciones básicas de los Directores generales y asimilados que sean funcionarios públicos comprenderán los conceptos retributivos establecidos en la Ley de Medidas para la reforma de la Función Pública, en las siguientes cuantías:
+a) El sueldo en la cuantía señalada para los funcionarios del Grupo A.
+b) Los trienios que tuvieran reconocidos o en el futuro puedan reconocérseles como funcionarios públicos mientras desempeñen el cargo de Director general o asimilado, en las cuantías señaladas para los mismos según los grupos de clasificación funcionarial en que se hubieran perfeccionado o se perfeccionen.
+c) Las pagas extraordinarias, que serán dos al año, por importe cada una de ellas de una mensualidad de sueldo y trienios, a percibir los meses de junio y diciembre.
+Las retribuciones básicas de los Directores generales y asimilados que no sean funcionarios públicos comprenderán los conceptos retributivos de sueldo y pagas extraordinarias. La cuantía del sueldo, a percibir en doce mensualidades, será la establecida con carácter general en la Ley de Presupuestos de la Comunidad Autónoma de Aragón para los funcionarios del grupo A y la de las pagas extraordinarias, que serán dos al año a percibir en los meses de junio y diciembre, por una cuantía cada una de ellas igual al sueldo.
+Las retribuciones complementarias serán las siguientes:
+a) El complemento de destino, por el desempeño del puesto, de igual cuantía para todos los Directores generales o asimilados. Su cuantía vendrá señalada en la Ley de Presupuestos de la Comunidad Autónoma de Aragón.
+b) El complemento específico destinado a retribuir la especial dificultad técnica, dedicación, responsabilidad e incompatibilidad del desempeño del cargo, cuya cuantía vendrá fijada en la Ley de Presupuestos de la Comunidad Autónoma de Aragón, sin perjuicio, en su caso, de la adecuación de este complemento por el Gobierno de Aragón cuando sea necesario para asegurar que las retribuciones asignadas a cada Director general guarden la relación procedente con el contenido funcional del cargo.
+c) El complemento de productividad, por la actividad extraordinaria, el especial rendimiento o el interés o iniciativa con que se desempeñe el cargo.
+Este complemento podrá otorgarse por la Diputación General en atención a la concurrencia de las circunstancias descritas en el párrafo anterior, en cuantía no superior al 25 por 100 de la fijada para el complemento de destino y sin que su retribución durante cualquier período de tiempo genere derecho alguno a su percepción en períodos posteriores.
+El devengo de las retribuciones será desde la fecha de toma de posesión del cargo hasta la fecha de su cese en el mismo.
+3. Retribuciones del personal eventual de confianza o asesoramiento.
+El personal eventual a que se refiere el artículo 6.1 de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón percibirá las retribuciones por sueldo y pagas extraordinarias correspondientes al grupo A de funcionarios y las retribuciones complementarias que correspondan al puesto de trabajo reservado a personal eventual que se desempeñe.
+Los funcionarios que opten por permanecer en situación de servicio activo o equivalente al ocupar puestos de trabajo reservados a personal eventual, percibirían las retribuciones básicas, correspondientes a su grupo de clasificación, incluidos trienios, en su caso, y las retribuciones complementarias que correspondan al puesto de trabajo que desempeñen.
+Las retribuciones se devengarán desde el día de toma de posesión del puesto hasta el día de su cese.
+4. Retribuciones de los funcionarios.
+El régimen retributivo de los funcionarios de la Administración de la Comunidad Autónoma de Aragón y la cuantía de los conceptos retributivos será el establecido con carácter general en la legislación básica del régimen estatutario de los funcionarios públicos y en la Ley de Presupuestos de la Comunidad Autónoma de Aragón.
+Para el cálculo y abono de las retribuciones serán de aplicación las siguientes normas:
+1) Las retribuciones básicas y complementarias que se devenguen con carácter fijo y periodicidad mensual, se harán efectivas por mensualidades completas y con referencia a la situación y derechos del funcionario referidos al primer día hábil del mes a que correspondan, salvo en los siguientes casos en que se liquidarán por días:
+a) En el mes de toma de posesión del primer destino en un Cuerpo, en el de reingreso al servicio activo y en el de incorporación por conclusión de licencias sin derecho a retribución.
+b) En el mes de iniciación de licencia sin derecho a retribución.
+c) En el mes en que se cese en el servicio activo, salvo que sea por motivos de fallecimiento, jubilación forzosa o incapacidad permanente para el servicio de funcionarios sujetos al régimen de clases pasivas del Estado, y, en general, a cualquier régimen de pensiones públicas que se devenguen por mensualidades completas desde el primer día del mes siguiente al del nacimiento del derecho.
+d) En el caso de retribuciones por funciones de coordinación, no vinculadas a ningún puesto de trabajo, si dichas funciones no se desempeñan durante todo el mes.
+e) En el mes en que sea nombrado Director general o asimilado y en el mes de cese.
+f) En el mes en que sea nombrado personal eventual de confianza o asesoramiento y en el mes de cese, si opta por permanecer en la situación de servicio activo.
+2) En el caso de toma de posesión en el primer destino, en el de cese en el servicio activo, en el de licencias sin derecho a retribución y, en general, en los supuestos de derechos económicos que normativamente deban liquidarse por días, o con reducción o deducción proporcional de retribuciones, se computarán los meses naturales por treinta días. En el caso de que la suma de los días de los meses incompletos fuera treinta o superior, cada fracción de treinta días se considerará un mes completo.
+3) Las pagas extraordinarias serán dos al año. Su importe será para cada una de ellas de una mensualidad de sueldo y trienios. Se devengarán el primer día hábil de los meses de junio y diciembre y con referencia a la situación y los derechos del funcionario en dicha fecha, salvo en los siguientes casos, en que se liquidarán por días:
+a) Cuando el tiempo transcurrido de servicios prestados fuera inferior a la totalidad del período correspondiente a una paga, ésta se abonará en la parte proporcional que resulte según los meses y días de servicio efectivamente prestados, computando cada mes natural completo y día por un sexto y un ciento ochentavo, respectivamente, del importe de la paga extraordinaria que en la fecha de su devengo hubiera correspondido por un período de seis meses, teniendo en cuenta que si la suma de los días de los meses incompletos fueran treinta y superior, cada fracción de treinta días se considerará como un mes completo.
+b) Los funcionarios en servicio activo con licencia sin derecho a retribución, devengarán pagas extraordinarias en las fechas indicadas, pero su cuantía experimentará la correspondiente reducción proporcional prevista en el párrafo a) anterior.
+c) En el caso de cese en el servicio activo, la última paga extraordinaria se devengará el día del cese y con referencia a la situación y derechos del funcionario en dicha fecha, pero en cuantía proporcional al tiempo de servicios efectivamente prestados, salvo en el supuesto de cese por fallecimiento, jubilación o retiro de los funcionarios sujetos al régimen de clases pasivas, y, en general, a cualquier régimen de pensiones públicas que se devengue por mensualidades completas desde el primer día del mes siguiente al del nacimiento del derecho, en cuyo caso los días del mes en que se produce dicho cese se computarán como un mes completo.
+Las pagas extraordinarias experimentarán la correspondiente reducción proporcional por el tiempo que no se prestó el servicio, en el caso de que el funcionario, en el transcurso de los seis meses inmediatos a junio o diciembre, hubiera realizado una jornada de trabajo reducida.
+A los efectos previstos en el presente artículo, el tiempo de duración de licencias sin derecho a retribución no tendrá la consideración de servicios efectivamente prestados.
+Si el cese en el servicio activo se produce durante el mes de diciembre, la liquidación de la parte proporcional de la paga extraordinaria correspondiente a los días transcurridos de dicho mes se realizará de acuerdo con las cuantías de las retribuciones básicas vigentes en el mismo.
+4) Los funcionarios que cambien de puesto de trabajo, salvo en los casos previstos en el apartado a) del punto 1, tendrán derecho, durante el plazo posesorio, a la totalidad de las retribuciones, tanto básicas como complementarias, de carácter fijo y periodicidad mensual.
+En el caso de que el término de dicho plazo se produzca dentro del mismo mes en que se efectuó el cese, las citadas retribuciones se harán efectivas por mensualidad completa y de acuerdo con la situación y derechos del funcionario referidos al primer día hábil del mes en que se produce el cese. Si, por el contrario, dicho término recayera en mes distinto al del cese, las retribuciones del primer mes se harán efectivas de la forma indicada, y las del segundo se abonarán por mensualidad completa y en la cuantía correspondiente al puesto en que se ha tomado posesión, sin perjuicio de lo dispuesto en los apartados b), c) y d) del punto 1.
+No obstante, cuando se trate de funcionarios de Cuerpos, Escalas y Clase de Especialidad de Atención Primaria, que vinieran percibiendo únicamente retribuciones básicas por el desempeño de puestos propios de esa Clase de Especialidad y pasen a desempeñar puestos de las relaciones de puestos de trabajo con retribuciones complementarias, percibirán estas retribuciones desde el día siguiente al de su cese en su anterior puesto.
+5) Los funcionarios que realicen una jornada de trabajo reducida experimentarán la correspondiente reducción proporcional sobre la totalidad de sus retribuciones, tanto básicas como complementarias, con inclusión de los trienios.
+6) La diferencia, en cómputo mensual, entre la jornada reglamentaria de trabajo y la efectivamente realizada por el funcionario dará lugar, salvo justificación, a la correspondiente deducción proporcional de haberes.
+Para el cálculo del valor/ hora aplicable a dicha deducción, se tomará como base la totalidad de las retribuciones íntegras que perciba el funcionario divididas por treinta y, a su vez, este resultado dividido por el número de horas de media que el funcionario tenga obligación de cumplir cada día.
+A los funcionarios que ejerciten el derecho de huelga se les aplicará el criterio expuesto en el párrafo anterior al objeto del cálculo de la deducción de haberes que corresponda al tiempo que dure la misma.
+7) Todas las referencias que se hacen a las retribuciones de los funcionarios deben entenderse referidas a retribuciones íntegras.
+5. Retribuciones de los funcionarios interinos.
+El personal interino regulado en el artículo 7 de la Ley de Ordenación de la Función Pública percibirá las retribuciones básicas, excluidos trienios, correspondientes al grupo en el que esté incluido el Cuerpo en que ocupen vacante y las retribuciones complementarias que correspondan al puesto de trabajo que desempeñen.
+6. Los funcionarios en prácticas de la Administración de la Comunidad Autónoma de Aragón percibirán, desde su incorporación como tales hasta su nombramiento como funcionarios de carrera, unas retribuciones equivalentes al sueldo y pagas extraordinarias que correspondan al grupo en que esté clasificado el cuerpo en el que aspiren a ingresar, así como el complemento de destino mínimo de los puestos propios de ese cuerpo, escala o clase de especialidad y el complemento específico que, con carácter general, esté asignado a dichos puestos. Asimismo, los funcionarios en prácticas que, con anterioridad a su nombramiento, hayan prestado servicios en cualquier Administración pública como personal funcionario, laboral o estatutario, percibirán los trienios que tuviesen reconocidos.
+El cálculo de las retribuciones de los funcionarios en prácticas, una vez finalizadas las mismas y hasta su efectiva incorporación a los puestos de trabajo designados como funcionarios de carrera, se ajustará a lo dispuesto en la correspondiente ley presupuestaria.
+Cuando dichos funcionarios en prácticas, con anterioridad a su incorporación en tal condición, se encontrasen ya prestando servicios en la Administración de la Comunidad Autónoma de Aragón bajo una relación funcionarial, estatutaria o laboral, sin perjuicio de la situación en que les corresponda quedar, podrán optar por alguno de los siguientes regímenes retributivos:
+a) Percepción de una remuneración por igual importe al de las retribuciones correspondientes al puesto de origen.
+b) Percepción de una remuneración conforme a lo señalado en el apartado anterior.
+El ejercicio de opción deberá realizarse en el momento de incorporarse como funcionario en prácticas.
+Cuando el nombramiento de funcionarios en prácticas recaiga en funcionarios de carrera de otro cuerpo o escala de grupos o subgrupos de titulación inferior a aquel en que se aspira a ingresar, durante el tiempo correspondiente al período de prácticas o el curso selectivo, estos seguirán percibiendo los trienios en cada momento perfeccionados, computándose dicho tiempo, a efectos de consolidación de trienios y de derechos pasivos, como servido en el nuevo cuerpo o escala en el caso de que, de manera efectiva, se adquiera la condición de funcionario de carrera en estos últimos.
+El devengo de retribuciones como funcionario en prácticas será desde la fecha de incorporación como tal, para la realización del período de prácticas o del curso selectivo, hasta la fecha en que cese en dicha condición.
+Los funcionarios en prácticas que, habiendo superado todos los requisitos del proceso selectivo, queden en expectativa de nombramiento no tendrán derecho a percibir remuneración alguna como funcionarios en prácticas.
+De igual manera, la no superación del período de prácticas o curso selectivo determinará el cese en el percibo de las correspondientes retribuciones.
+7. Retribuciones del personal laboral.
+El personal laboral regulado en el artículo 8 de la Ley de Ordenación de la Función Pública percibirá sus retribuciones en los términos, condiciones y cuantías señaladas en el Convenio Colectivo vigente o, en su defecto, en el Estatuto de los Trabajadores y en el contrato individual, sin que la masa salarial pueda experimentar una variación global superior a la que, con carácter general, se establezca en la Ley de Presupuestos de la Comunidad Autónoma de Aragón, sin perjuicio de su distribución individual a través de la negociación colectiva.
+Se modifica el apartado 4 por la disposición final 2 de la Ley 2/2018, de 28 de febrero. Ref. BOE-A-2018-5003
+ Se modifica el apartado 6 por el art. 22 de la Ley 14/2014, de 30 de diciembre. Ref. BOE-A-2015-950
+ Se modifica el apartado 6 por el art. 25 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510
+ Se deroga el apartado 8 por la disposición derogatoria única.2.d) de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203
+ Se modifica el apartado 6 por el art. 31 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+ Se añade el párrafo tercero al apartado 4.4 por el art. 42 de la Ley 13/2000, de 27 de diciembre. Ref. BOE-A-2001-2712
+ Se modifica el párrafo segundo del apartado 2 por el art. 8 de la Ley 15/1999, de 29 de diciembre. Ref. BOE-A-2000-1654
+ Se añaden las letras e) y f) al apartado 4.1 por el art. 8 de la Ley 12/1998, de 22 de diciembre . Ref. BOE-A-1999-1923
+
+### Artículo 9
+
+Artículo 9. Personal que participe en campañas de prevención y extinción de incendios.
+Se habilita al Gobierno de Aragón para que proceda a la regulación reglamentaria de las remuneraciones a percibir por el personal al servicio de la Comunidad Autónoma de Aragón que participe en las campañas de prevención y extinción de incendios.
+
+### Artículo 10
+
+Artículo 10. Coordinadores de las Oficinas Comarcales Agroambientales.
+Se autoriza al Gobierno de Aragón para que regule reglamentariamente las remuneraciones a percibir por el personal al servicio de la Administración de la Comunidad Autónoma de Aragón al que se encomienden funciones de coordinación, no vinculadas al puesto de trabajo, en las Oficinas Comarcales Agroambientales y Zonas Veterinarias.
+
+### Artículo 11
+
+Artículo 11. Funcionarios destinados en centros asistenciales.
+Se autoriza al Gobierno de Aragón para que regule reglamentariamente las remuneraciones a percibir por el personal funcionario al servicio de la Administración de la Comunidad Autónoma de Aragón que preste servicios en centros asistenciales como consecuencia de la atención continuada a prestar en los mismos en régimen de trabajo a turnos.
+
+### Artículo 12
+
+Artículo 12. Personal de Protección Civil.
+Se habilita al Gobierno de Aragón para regular las retribuciones del personal con destino en el área de protección civil y en el centro de emergencias SOS Aragón, al que está adscrito el teléfono único de emergencias 112.
+
+### Artículo 13
+
+Artículo 13. Otras modificaciones del régimen de personal funcionario.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.a) de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408
+ Se modifica por el art. 32 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
+
+### Artículo 14
+
+Artículo 14. Personal del Instituto Tecnológico de Aragón.
+El personal al servicio de la Administración de la Comunidad Autónoma de Aragón que prestaba servicios en el Instituto Tecnológico de Aragón en el momento de la entrada en vigor de la Ley 7/1997, de 10 de octubre, reguladora de dicho Instituto, podrá optar por integrarse en la plantilla de personal laboral del ente público, con reconocimiento de la antigüedad que tuviera en el momento de su integración y sin merma de los derechos económicos consolidados en cómputo anual.
+El personal funcionario que opte por la integración quedará en la Administración de la Comunidad Autónoma de Aragón en la situación de excedencia voluntaria prevista en el artículo 29.3.a) de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+Al personal laboral le será de aplicación lo dispuesto en el Convenio Colectivo vigente en el momento de la integración sobre excedencia por razón de incompatibilidad.
+El ejercicio de opción deberá formularse en el plazo de seis meses desde la entrada en vigor de la presente Ley.
+Los puestos de trabajo de personal funcionario y laboral que figuraban en la relación de puestos de trabajo de dicho Instituto en el momento de la entrada en vigor de la precitada Ley 7/1997, quedarán suprimidos en el momento que finalice el plazo de opción y sus créditos serán transferidos al ente público Instituto Tecnológico de Aragón, asumiendo hasta esa fecha la Administración de la Comunidad Autónoma de Aragón, a través del Departamento de Economía, Hacienda y Fomento, la gestión de dicho personal y el abono de sus retribuciones.
+Al personal funcionario que no opte por integrarse en la plantilla de personal laboral del Instituto Tecnológico de Aragón, le será de aplicación lo dispuesto en los apartados 2 y 3 del artículo 43 de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón en el momento en que se produzca la supresión del puesto.
+El personal laboral de la Administración de la Comunidad Autónoma que no opte por integrarse en la plantilla de personal laboral del ente público Instituto Tecnológico de Aragón, podrá ser redistribuido dentro de la misma localidad, en los términos y condiciones establecidos en el artículo 89 del Estatuto de los Trabajadores y en el Convenio Colectivo vigente.
+
+## TÍTULO V
+
+Medidas de organización administrativa
+
+### Artículo 15
+
+Artículo 15. Cambio de adscripción orgánica del Instituto Aragonés de la Mujer.
+Se modifican los siguientes apartados del artículo 1 de la Ley 2/1993, de 19 de febrero, por la que se crea el Instituto Aragonés de la Mujer, que queda redactado de la siguiente forma:
+«Artículo 1. Naturaleza y régimen jurídico.
+1. Se crea el Instituto Aragonés de la Mujer como organismo autónomo de carácter administrativo adscrito al Departamento de Presidencia y Relaciones Institucionales.
+Tendrá personalidad jurídica, patrimonio propio y plena capacidad de obrar para el cumplimiento de sus fines.
+2. El Consejo Rector estará presidido por el Consejero de Presidencia y Relaciones Institucionales del Gobierno de Aragón.»
+
+### Artículo 16
+
+Artículo 16. Secretaría General Técnica del Departamento de Educación y Cultura.
+Se autoriza al Gobierno de Aragón para la creación de la Secretaría General Técnica del Departamento de Educación y Cultura.
+La creación de la Secretaría General Técnica del Departamento de Educación y Cultura no implicará, excepcionalmente, la supresión de ninguno de los órganos directivos actualmente existentes en el Departamento, en atención a la necesidad de organizar y coordinar la transferencia de funciones y servicios del Estado en materia de enseñanza no universitaria.
+
+### Artículo 17
+
+Artículo 17. Establecimiento de unidades electorales en las entidades locales.
+Se autoriza al Gobierno de Aragón para que establezca ámbitos de representación y negociación para los funcionarios locales de los municipios y demás entidades locales de Aragón, cuando en una entidad local no se alcance el número de funcionarios exigidos legalmente para contar con delegados de personal o juntas de personal.
+En los procedimientos de elaboración de los reglamentos que establezcan estas nuevas unidades electorales se dará trámite de audiencia a las entidades locales y a los funcionarios locales afectados.
+
+## TÍTULO VI
+
+Régimen jurídico de las subvenciones
+
+### Artículo 18
+
+Artículo 18. Régimen Jurídico de las subvenciones.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 5/2015, de 25 de marzo. Ref. BOE-A-2015-5329#dd
+ Se modifica el párrafo segundo del apartado 4 por el art. 22 de la Ley 26/2001, de 28 de diciembre. Ref. BOE-A-2002-1308
+ Se modifica el párrafo segundo del apartado 4 por el art. 50 de la Ley 13/2000, de 27 de diciembre. Ref. BOE-A-2001-2712
+ Se añade el apartado 5 por el art. 14 de la Ley 15/1999, de 29 de diciembre. Ref. BOE-A-2000-1654
+
+### Disposición adicional
+
+Disposición adicional.
+Se modifica el apartado 5 del artículo 1 de la Ley 11/1997, de 26 de noviembre, sobre medidas urgentes en materia de personal.
+«Artículo 1.
+1. A partir del 30 de junio de 1999, el sistema de ingreso en Cuerpos y Escalas correspondientes al personal sanitario será, en todos los casos, el ordinario.»
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Queda derogada la disposición adicional octava de la Ley 7/1993, de Presupuestos de la Comunidad Autónoma de Aragón para 1993.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de Aragón».
+
+### [firma]
+
+Así lo dispongo a los efectos del artículo 9.1 de la Constitución y los correspondientes del Estatuto de Autonomía de Aragón.
+Zaragoza, 8 de abril de 1998.
+SANTIAGO LANZUELA MARINA,
+Presidente

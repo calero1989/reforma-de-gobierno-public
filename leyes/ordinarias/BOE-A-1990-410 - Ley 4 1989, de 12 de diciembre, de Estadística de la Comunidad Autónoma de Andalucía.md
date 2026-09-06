@@ -1,0 +1,760 @@
+# Ley 4/1989, de 12 de diciembre, de Estadística de la Comunidad Autónoma de Andalucía.
+
+- Identificador BOE: `BOE-A-1990-410`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-410
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+El Presidente de la Junta de Andalucía a todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confiere la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I
+El Estatuto de Autonomía para Andalucía establece las materias en las que nuestra Comunidad posee competencia exclusiva. Entre ellas, en el artículo 13.34, se encuentran las estadísticas para fines de la Comunidad Autónoma. El Estatuto recoge igualmente los objetivos que se deben perseguir en el ejercicio del poder, proporcionando el marco para un desarrollo legislativo adecuado. La Junta de Andalucía promulga la presente Ley que regula e impulsa la actividad estadística en nuestra Comunidad con el triple objetivo de poseer datos suficientes y fiables, ya sean de índole económica, demográfica o social, para su gestión de gobierno, coordinar los agentes y servicios públicos que intervienen en la producción estadística y cumplir con el deber de poner a disposición de la sociedad los datos estadísticos que reflejen su realidad y sirvan para favorecer su actividad.
+Poseer un conocimiento adecuado de la realidad es un requisito imprescindible para la toma de decisiones, tanto en las labores de Gobierno como en el resto de actividades que se dan en nuestra sociedad. La actividad estadística, correctamente desarrollada, es el medio que pone a disposición de toda la sociedad y en particular de sus órganos de Gobierno, la información que refleja el estado de la realidad, su pasado y sus tendencias futuras. Esta información es una base fundamental en que ha de apoyarse, necesariamente, cualquier tipo de estudio, análisis o prospección. Por otra parte, cuanto más información estadística fiable se posea, mayores son las garantías de presentar una visión clara, completa y objetiva de la realidad existente.
+Se hace necesario, pues, desarrollar las competencias reconocidas en materia de estadísticas en el Estatuto de Autonomía para Andalucía, de una forma sistemática y planificada que garantice la fiabilidad y oportunidad de los resultados.
+II
+Como consecuencia del nacimiento del Estado de las Autonomías y de nuestra integración en las Comunidades Europeas, es cada vez más necesario trabajar con datos de diferentes ámbitos geográficos y administraciones. Tal situación se plantea cuando se afrontan estudios comparativos de las realidades existentes en los ámbitos anteriormente mencionados. En este sentido, las Directivas Comunitarias recomiendan la aproximación sucesiva a niveles de información autonómico, provincial e incluso de mayor grado de desagregación.
+Sucede igualmente que la Administración Central del Estado realiza estadísticas, para fines estatales, que a veces no descienden, por su propio diseño, a los niveles de información provincial, comarcal o local, que puede ser necesario para nuestra Comunidad Autónoma.
+Se hace preciso, por tanto, concebir nuestro sistema estadístico de forma tal que la información que se genere, por una parte refleje la realidad de nuestra Comunidad con el detalle necesario en cada caso, y por otra se garantice el intercambio y comparabilidad de nuestros datos estadísticos con los de otras Comunidades y Organismos nacionales o supranacionales, velando siempre para que la metodología utilizada permita alcanzar los anteriores fines.
+III
+Dentro del ámbito de nuestra Comunidad es preciso coordinar la actividad en los procesos de captación y elaboración de la información estadística, teniendo en consideración la actividad estadística sectorial que pueda y deba desarrollarse por diferentes Entes de la Comunidad Autónoma y estableciendo claramente los canales de recogida de la información, así como los responsables de las distintas tareas, garantizando una economía de medios y la mayor facilidad posible para el suministrador de la información. Igualmente se debe garantizar un tratamiento uniforme de códigos, definiciones y directorios en la Comunidad. Se han de establecer relaciones entre nuestra Comunidad y el órgano estadístico de la Administración Central del Estado de forma que se garantice el máximo aprovechamiento de las operaciones estadísticas en competencias e intereses comunes.
+Esta conveniencia de establecer relaciones deriva claramente de que tanto la Administración Central del Estado, articulo 149.1.31 de la Constitución Española, como la Comunidad Autónoma de Andalucía, artículo 13.34 del Estatuto de Autonomía, poseen competencia exclusiva, dentro de sus respectivos ámbitos, para la realización de estadísticas para sus propios fines. Se impone, pues, la necesidad de evitar duplicidades e incongruencias entre las actuaciones de ambas administraciones con el fin de racionalizar el gasto público y los mecanismos de recogida de información.
+La actividad estadística requiere una relación constante del órgano que la desarrolla con los suministradores de la información, por una parte, y con los usuarios de la misma, por otra. Se han de fijar, en consecuencia, las relaciones con unos y otros de forma que se asegure tanto el suministro de la información como la publicación y publicidad de las estadísticas elaboradas. Quedará salvaguardado en todo momento el secreto estadístico, así como que las anteriores relaciones se ajusten al marco de respeto a los derechos fundamentales y libertades públicas reconocidos en la sección primera, capítulo II, título 1, de la Constitución Española. Con la presente Ley se garantizan plenamente los derechos a la intimidad personal y la expresa prohibición de utilizar la información estadística para otros fines.
+Esta Ley establece, por primera vez en nuestra Comunidad, el marco al que se ha de ajustar la actividad estadística. Siendo diversas las áreas que precisan de esta actividad, se hace necesario planificarla a largo, medio y corto plazo con la elaboración de un Plan Estadístico de Andalucía y de Programas Estadísticos Anuales.
+El Plan Estadístico de Andalucía será la referencia permanente de la actividad estadística en la Comunidad Autónoma y, entre otros aspectos, deberá contemplar como mínimo: Un inventario de las estadísticas que se han de desarrollar en nuestra Comunidad durante el período de vigencia del mismo, la distribución en el tiempo de las fases de ejecución de cada actividad, los medios económicos, materiales y humanos necesarios, así como la forma de disponer de la información precisa para cada estadística.
+Los Programas Estadísticos Anuales con mayor nivel de concreción se elaborarán tomando como base el Plan Estadístico de Andalucía e incluyéndose en el programa de cada año la parte del Plan que corresponda. Igualmente se podrá proponer la inclusión en el mismo de actividades estadísticas no consideradas en el momento de la elaboración del Plan que se deban acometer por razones de oportunidad o urgencia.
+IV
+El Plan Estadístico de Andalucía, por la importancia, amplitud y trascendencia del mismo, requiere un tiempo de elaboración. Siendo necesario que el ejercicio de las competencias que en materia de estadística tiene nuestra Comunidad no se retrase por más tiempo, se contempla en la disposición transitoria primera la aprobación de programas estadísticos anuales a los que habrá de ajustarse la actividad estadística hasta que entre en vigor el Plan Estadístico de Andalucía.
+V
+Como singular instrumento para el desarrollo de las previsiones de la presente Ley se dota la Comunidad Autónoma de un Instituto de Estadística que le permita llevar a cabo la función estadística en Andalucía. Este Instituto es una pieza fundamental para poder ejercitar plenamente las competencias estatutarias reservadas a la Comunidad Autónoma Andaluza. Como máximo órgano de ese Instituto se prevé la existencia de un Consejo de Dirección con funciones de coordinación, impulso y dirección, siendo garante permanente de la actividad del Organismo.
+Asimismo, se dota a la Comunidad Autónoma de Andalucía del Consejo Andaluz de Estadística como órgano técnico de carácter consultivo, con amplia y necesaria participación en la labor de planificación de las estadísticas y sus procesos metodológicos y de normalización.
+
+## TÍTULO I
+
+Objeto y ámbito de aplicación de la Ley
+
+## CAPÍTULO ÚNICO
+
+CAPÍTULO I
+Disposiciones generales
+Se añade por el art. 1.1.1 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 1
+
+Artículo 1. Objeto y definiciones.
+1. La presente Ley tiene por objeto regular la actividad estadística para fines de la Comunidad Autónoma de Andalucía, la planificación estadística y la creación, la gestión y la organización del Sistema Estadístico de Andalucía.
+2. A los efectos de esta Ley, se entenderá por Sistema Estadístico de Andalucía el conjunto ordenado y sistemático de entidades y órganos encargados de realizar las actividades necesarias para la recogida, almacenamiento, tratamiento, compilación, análisis y difusión de la información estadística para los fines de la Comunidad Autónoma. 3. El Sistema Estadístico de Andalucía se estructura en base a los siguientes principios:
+a) Idoneidad de los recursos: de forma que los recursos a disposición de las entidades y órganos estadísticos de la Comunidad Autónoma deberán ser suficientes para atender a los requerimientos del Plan Estadístico de Andalucía.
+b) Imparcialidad y objetividad: de forma que se produzcan y difundan estadísticas respetando la independencia científica y de un modo objetivo, profesional y transparente con el que se garantice un trato equitativo a todos los usuarios. c) Metodología fundada: de forma que se utilicen herramientas, procedimientos y conocimientos técnicos adecuados, aplicados desde la recogida hasta la validación de los datos. d) Carga de respuesta no excesiva a los informantes: de forma que la carga de suministrar información sea proporcional a las necesidades de los usuarios y no resulte excesiva para los informantes. e) Eficacia en función del coste: de forma que los recursos se utilicen eficazmente y se mejore el potencial estadístico de los registros administrativos.
+4. A los efectos de esta Ley, se entiende por actividad estadística la recopilación, la obtención, el tratamiento y la conservación de datos cualitativos y cuantitativos para elaborar estadísticas, así como la publicación y difusión de estos datos. Se entenderá asimismo por actividad estadística las actividades instrumentales previas o complementarias a las especificadas que son legalmente exigibles, o técnicamente necesarias, para poder cumplir los requisitos que establece la legislación sobre estadística, tales como las de desarrollo técnico, metodológico y normativo en el campo estadístico.
+5. La actividad estadística de Andalucía se realizará de forma que satisfaga las necesidades de los usuarios, refleje la realidad con exactitud y fiabilidad, se difunda de forma oportuna y puntual, sus resultados sean coherentes y comparables con la de otros sistemas estadísticos autonómicos y nacionales, en particular con las de la Unión Europea. 6. El Sistema Estadístico de Andalucía, en el marco de competencias de ésta, fomentará y favorecerá la cooperación con las Corporaciones Locales, con el Sistema Estadístico de la Administración General del Estado, con el de otras Comunidades Autónomas, con la Unión Europea y con los organismos extranjeros e internacionales en todos los niveles de la actividad estadística.
+Se modifica por el art. 1.1.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La regulación contenida en la presente Ley será de aplicación a la actividad estadística desarrollada por los órganos de la Comunidad Autónoma de Andalucía y de los Organismos o Empresas dependientes de ella, así como a las actividades de coordinación en esta materia con las restantes Entidades públicas.
+Se añade el título por el art. 1.1.3 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## TÍTULO II
+
+La actividad estadística
+Se modifica por el art. 1.2.1 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 3
+
+Artículo 3.
+1. La actividad estadística de la Comunidad Autónoma de Andalucía se realizará planificadamente, ajustándose en todo momento a las garantías técnicas y jurídicas que establece la presente Ley.
+2. Las estadísticas para fines de la Comunidad Autónoma de Andalucía las realizarán sus órganos estadísticos, pudiendo establecerse convenios o acuerdos de colaboración con otras Administraciones, así como contratos con personas físicas o jurídicas.
+3. La actividad estadística se realizará tomando como base:
+a) Datos requeridos con fines exclusivamente estadísticos.
+b) Datos administrativos existentes en la Administración Andaluza.
+4. A efectos de la presente Ley se entiende que una acción posee finalidad estadística cuando está dirigida a la obtención de estadísticas necesarias para la Comunidad Autónoma de Andalucía.
+
+## CAPÍTULO I
+
+Principios generales
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 3
+
+Artículo 3. Planificación, ejecución y fundamento de la actividad estadística.
+1. La actividad estadística de la Comunidad Autónoma de Andalucía se realizará planificadamente, ajustándose en todo momento a las garantías técnicas y jurídicas que establece la presente Ley.
+2. Las estadísticas para fines de la Comunidad Autónoma de Andalucía las realizarán sus órganos estadísticos, pudiendo establecerse convenios o acuerdos de colaboración con otras Administraciones, así como contratos con personas físicas o jurídicas.
+3. La actividad estadística se realizará tomando como base:
+a) Datos requeridos con fines exclusivamente estadísticos.
+b) Datos administrativos existentes en la Administración Andaluza.
+4. A efectos de la presente Ley se entiende que una acción posee finalidad estadística cuando está dirigida a la obtención de estadísticas necesarias para la Comunidad Autónoma de Andalucía.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## CAPÍTULO II
+
+Planificación y programación de la actividad estadística
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 4
+
+Artículo 4. Plan Estadístico de Andalucía.
+1. Con el fin de planificar y sistematizar la actividad estadística de competencia exclusiva de la Comunidad Autónoma de Andalucía se elaborará el Plan Estadístico de Andalucía, que será marco obligado para el desarrollo de dicha actividad.
+2. El Plan Estadístico de Andalucía se aprobará mediante Ley y tendrá una vigencia de cuatro años u otra distinta si así lo especifica la Ley, quedando prorrogado cada Plan hasta la entrada en vigor del siguiente.
+3. Dicho Plan contendrá como mínimo:
+a) Las estadísticas que se realizarán durante su período de vigencia.
+b) Los sujetos obligados a suministrar información y plazos de entrega.
+c) En el caso de datos de origen administrativo, forma en que se incorporarán a la actividad estadística.
+d) Las previsiones presupuestarias necesarias durante el período de vigencia del Plan.
+
+### Artículo 5
+
+Artículo 5. Programas Estadísticos Anuales.
+1. Para definir la actividad estadística a desarrollar cada año, se elaborará un Programa Estadístico Anual, tomando como referencia el Plan Estadístico de Andalucía vigente, que será aprobado por el Consejo de Gobierno.
+2. Cada Programa Anual deberá contener las especificaciones, para ese período, contempladas en el artículo 4.3.
+
+### Artículo 6
+
+Artículo 6. Actividades estadísticas de interés para la Comunidad Autónoma de Andalucía.
+1. Además de las actividades estadísticas de interés para la Comunidad Autónoma de Andalucía comprendidas en los planes y en los programas estadísticos anuales, los órganos estadísticos de las Consejerías y de las entidades dependientes de las mismas podrán realizar, para sus propios fines, otras actividades estadísticas de interés para la Comunidad Autónoma de Andalucía que proporcionen información sobre la realidad territorial, demográfica, ambiental, económica y social de Andalucía, siempre que cumplan los requisitos de objetividad y debida corrección técnica y sean homologadas y declaradas como tales por el Instituto de Estadística de Andalucía.
+A estos efectos se entenderá observado el requisito de corrección técnica cuando concurran las siguientes circunstancias:
+a) Existencia de un proyecto técnico que cumpla lo establecido en la presente Ley y en las normas técnicas vigentes.
+b) Aplicación de un sistema normalizado de conceptos, definiciones, clasificaciones y códigos, y también de una metodología que permita la comparación de los resultados con otras estadísticas similares.
+c) Garantía de una actuación periódica.
+d) Acreditación de que su realización no supone duplicidad con otras estadísticas ya existentes.
+2. Las Corporaciones Locales de Andalucía y entidades dependientes de las mismas, las Universidades y sus centros dependientes, las Cámaras de Comercio, Industria y, en su caso, Navegación de Andalucía y otras entidades de derecho público, así como las organizaciones sindicales y empresariales, podrán realizar actividades estadísticas comprendidas en los planes y programas estadísticos anuales. Asimismo, podrán realizar, para sus propios fines, otras actividades estadísticas de interés para la Comunidad Autónoma de Andalucía.
+Las referidas actividades se realizarán en los términos que establezcan los correspondientes convenios con el Instituto de Estadística de Andalucía, que determinarán las actividades estadísticas a realizar, su financiación y, en su caso, la asistencia que preste el referido Instituto.
+Cuando las actividades estadísticas a realizar no estén incluidas en los planes y programas estadísticos se requerirá que sean homologadas y declaradas de interés para la Comunidad Autónoma de Andalucía por el Instituto de Estadística de Andalucía con los mismos requisitos señalados en el apartado anterior.
+3. Con independencia de lo dispuesto en los apartados anteriores, el Consejo de Gobierno, por motivos de oportunidad o urgencia, podrá autorizar la realización de otras actividades estadísticas de interés para la Comunidad Autónoma de Andalucía.
+4. El Instituto de Estadística de Andalucía, además de las actividades estadísticas que le encomienden los planes y programas y otras que puedan corresponderle, podrá realizar cuantos estudios considere oportunos para el mejor conocimiento de la realidad andaluza. Asimismo, podrá realizar investigaciones para contrastar la eficacia de los cuestionarios y métodos empleados en la elaboración de las estadísticas.
+Se modifica por la disposición final 1.1 de la Ley 8/2002, de 17 de diciembre. Ref. BOE-A-2003-812
+
+### Artículo 7
+
+Artículo 7. Estadísticas oficiales.
+Sólo tendrán la consideración de estadísticas oficiales las actividades estadísticas de interés para la Comunidad Autónoma contenidas en los planes y en los programas estadísticos anuales, así como las demás actividades estadísticas que sean declaradas de interés para la Comunidad Autónoma de Andalucía por el Instituto de Estadística de Andalucía o autorizadas por el Consejo de Gobierno, conforme a lo previsto en el artículo anterior.
+Se modifica por la disposición final 1.2 de la Ley 8/2002, de 17 de diciembre. Ref. BOE-A-2003-812
+
+## CAPÍTULO II
+
+Principios técnicos y jurídicos
+
+## CAPÍTULO III
+
+Principios técnicos y jurídicos
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 1
+
+Sección 1.ª Enumeración de principios
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 8
+
+Artículo 8. Principios de la actividad estadística.
+La actividad estadística de la Comunidad Autónoma de Andalucía se ajustará en todo momento a los principios de respeto a la intimidad, secreto estadístico, obligatoriedad del suministro de información, rigor y corrección técnica, difusión de resultados y seguridad en el almacenamiento y transmisión de la información.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 2
+
+Sección 2.ª Secreto estadístico
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 9
+
+Artículo 9. Concepto y ámbito.
+1.A los efectos de la presente Ley, se entiende por secreto estadístico aquel conocimiento que una persona posee como consecuencia de actividad estadística y respecto del cual tiene la obligación de no divulgar, comunicar ni actuar sobre la base de dicho conocimiento.
+2. Quedarán amparados por el secreto estadístico todos los datos de índole privada, personal, familiar, económica y financiera, que se utilicen en la actividad estadística, pertenecientes a personas físicas y jurídicas.
+3. El amparo, para los datos solicitados con fines exclusivamente estadísticos, surte efectos desde el momento en que la persona suministra la información. Los datos de origen administrativo quedan amparados por el secreto estadístico, dentro de los órganos estadísticos, desde el momento en que se incorporan a los mismos.
+4. Los datos referenciados en los apartados anteriores sólo podrán ser consultados cuando lo autoricen, por escrito, los afectados o cuando hayan transcurrido al menos veinticinco años desde su muerte o cincuenta desde el suministro de la información.
+5. Dependiendo de las características de cada encuesta, se podrán establecer períodos inferiores de duración del amparo del secreto estadístico, previo informe del Consejo Andaluz de Estadística, en el caso de datos relativos a personas jurídicas.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 10
+
+Artículo 10. Suministro de datos individuales.
+No se podrán suministrar o difundir datos individuales de personas físicas o jurídicas, salvo en los casos previstos en el artículo 25.2. Tal prohibición se aplica igualmente aquellos datos que por su estructura o grado de desagregación permitan obtener a partir de ellos información individualizada.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 11
+
+Artículo 11. Utilización de los datos.
+1. Los datos solicitados con fines estadísticos no podrán ser utilizados con otros fines, salvo lo dispuesto en el artículo 25.3 de esta Ley.
+2. A fin de salvaguardar el secreto estadístico, antes de procesar cualquier información, se separarán de la misma aquellos datos que posibiliten la identificación individual.
+3. Únicamente quedarán fuera del secreto estadístico los ficheros que sólo contengan datos sobre relaciones de personas jurídicas, con indicación del nombre, emplazamiento, actividad y características generales.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+ Se modifica el apartado 1 por la disposición final 1.3 de la Ley 8/2002, de 17 de diciembre. Ref. BOE-A-2003-812
+
+### Artículo 12
+
+Artículo 12. Sujetos obligados.
+1. Todas las personas, órganos e instituciones de la Administración Andaluza que intervengan en las operaciones a las que se refiere la presente Ley tendrán la obligación de mantener el secreto estadístico.
+2. Los resultados estadísticos, cuya difusión y divulgación sea obligada, están amparados por el secreto estadístico hasta el momento en que sean anunciados como oficiales en el «Boletín Oficial de la Junta de Andalucía».
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 13
+
+Artículo 13. Colaboraciones temporales.
+La obligación del secreto estadístico se aplica igualmente a las personas físicas o jurídicas ajenas a la Administración Andaluza, que colaboren con ésta temporalmente en actividades estadísticas como consecuencia de contratos, acuerdos o convenios. La obligación se mantiene aun después de concluir éstos.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 3
+
+Sección 3.ª Obligación de suministro de la información
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 14
+
+Artículo 14. Ámbito de la obligación.
+1. Será obligatorio suministrar la información necesaria para la elaboración de las estadísticas oficiales. No se solicitarán más datos que los estrictamente necesarios para la elaboración de estadísticas.
+2. La obligación de suministrar información se extenderá a todas las personas privadas, físicas o jurídicas que tengan su domicilio, residencia o actividad en el territorio de Andalucía. La obligación se extiende también a todas las Administraciones y Entidades públicas en lo que se refiere a las actividades llevadas a cabo dentro del territorio de la Comunidad Autónoma de Andalucía, sin perjuicio de lo dispuesto en el artículo 149.1.31 de la Constitución Española.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 15
+
+Artículo 15. Límites.
+Toda petición de información, con fines estadísticos, respetará el derecho al honor, a la intimidad personal y familiar y a la propia imagen, contemplado en el artículo 18 de la Constitución.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 16
+
+Artículo 16. Datos especialmente protegidos.
+No se podrán exigir informaciones individuales referentes a ideología, creencias religiosas, políticas o filosóficas. Esta información sólo se recogerá, en su caso, con autorización expresa, escrita, del interesado.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 17
+
+Artículo 17. Derecho a información en la recogida de datos.
+Cuando se solicite información con fines estadísticos, se informará al interesado del destino y finalidad de la información, del carácter voluntario u obligatorio de sus respuestas, de las implicaciones de la negativa a informar o informar parcial o incorrectamente. Igualmente se le informará del amparo del secreto estadístico a los datos suministrados. En el caso de que la información se solicite por escrito, tales extremos deben aparecer en el cuestionario.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 4
+
+Sección 4.ª Metodología, normalización y coordinación
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Artículo 18
+
+Artículo 18. Metodología.
+Toda actividad estadística oficial desarrollada en la Comunidad Autónoma de Andalucía se llevará a cabo de acuerdo con una metodología que garantice, científicamente, su corrección y exactitud.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 19
+
+Artículo 19. Unificación de conceptos.
+1. Deberá elaborarse un sistema de directorios, definiciones, clasificaciones y códigos a utilizar obligatoriamente en la actividad estadística de los distintos órganos de la Comunidad Autónoma de Andalucía.
+2. En la elaboración de tales sistemas se perseguirá el garantizar la comparación e integración entre los datos y resultados estadísticos de la Comunidad Autónoma de Andalucía y los de otras Administraciones u Organismos.
+
+### Artículo 20
+
+Artículo 20. Homogeneización de conceptos y metodologías.
+Se fomentarán los contactos con los órganos estadísticos de otras Comunidades Autónomas, de la Administración Central del Estado y de otras Instituciones, con el fin de homogeneizar, en lo posible, los conceptos referenciados en el artículo anterior, así como las metodologías utilizadas.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 21
+
+Artículo 21. Convenios con otras Administraciones.
+Se podrán establecer convenios y acuerdos entre el Organismo estadístico de la Comunidad Autónoma Andaluza, el de la Administración Central del Estado y los de otras Administraciones, para garantizar el máximo aprovechamiento de la actividad estadística en competencias e intereses comunes.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 5
+
+Sección 5.ª Difusión de resultados
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 22
+
+Artículo 22. Publicación y difusión.
+1. Siendo la actividad estadística un servicio al ciudadano, se deberán publicar y difundir adecuadamente los resultados de las estadísticas oficiales.
+2. La publicación y difusión de las estadísticas oficiales se efectuará tras su anuncio en el «Boletín Oficial de la Junta de Andalucía». Desde ese momento, tales estadísticas serán de aplicación obligatoria a las relaciones y situaciones jurídicas respecto a las que la Comunidad Autónoma de Andalucía tenga competencias para imponerlo.
+3. Toda persona física o jurídica que lo solicite tiene derecho a que se le suministre información estadística de resultados oficiales, una vez que éstos hayan sido hechos públicos.
+4. Toda estadística, realizada o encargada por el Instituto de Estadística de Andalucía, tendrá la consideración de documento del Gobierno andaluz y, en consecuencia, estará a disposición de los Diputados del Parlamento de Andalucía en los términos que establece el artículo 7.º del Reglamento de la Cámara.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 6
+
+Sección 6.ª Almacenamiento y transmisión de información
+Se añade por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 23
+
+Artículo 23. Conservación.
+Los órganos estadísticos en el capítulo I del título III de la presente Ley conservarán y custodiarán la información recogida con destino a la elaboración de estadísticas, debiendo adoptar las medidas de seguridad necesarias que garanticen los principios de esta Ley.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 24
+
+Artículo 24. Destrucción de la información.
+En el momento que se considere que una información carece de utilidad se podrá acordar su destrucción en la forma que reglamentariamente se establezca.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 25
+
+Artículo 25. Transmisión de la información.
+1. La transmisión de información queda igualmente sometida al deber del secreto estadístico. Queda prohibida la transmisión de información estadística, sometida al secreto estadístico, por cualquier medio que no garantice la preservación del secreto.
+2. La transmisión de información estadística sometida al deber del secreto estadístico se podrá realizar sólo entre Organismos o unidades creados para fines exclusivamente estadísticos, siendo el destino de dicha información la elaboración de estadísticas.
+3. Se podrá autorizar a las entidades de investigación científica y a los investigadores el acceso a los datos obtenidos para la producción de estadísticas y que estén amparados por el secreto estadístico, siempre que estos datos no supongan una identificación directa de las personas y que estas entidades o personas cumplan las condiciones adecuadas, con el objeto de garantizar la protección física e informática de los datos amparados, y evitar cualquier riesgo de divulgación ilícita. Reglamentariamente se regulará el procedimiento para la cesión de tales datos.
+Se modifica por el art. 1.2.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+ Se añade el apartado 3 por la disposición final 1.4 de la Ley 8/2002, de 17 de diciembre. Ref. BOE-A-2003-812
+
+## TÍTULO III
+
+Organización del Sistema Estadístico de Andalucía
+Se modifica por el art. 1.3.1 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## CAPÍTULO I
+
+Órganos estadísticos
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+Se añade por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 26
+
+Artículo 26. Organización del Sistema Estadístico y Cartográfico.
+1. El Sistema Estadístico y Cartográfico de Andalucía está integrado por el Consejo Andaluz de Estadística y Cartografía, la Comisión Interdepartamental Estadística y Cartográfica, la Comisión Técnica Estadística y Cartográfica, el Instituto de Estadística y Cartografía de Andalucía, las comisiones estadísticas y cartográficas, así como las unidades estadísticas y cartográficas de las diferentes consejerías de la Junta de Andalucía, y, en su caso, de los organismos autónomos y demás entidades públicas a ellas adscritos, y los puntos de información estadístico-cartográficos de Andalucía.
+2. La organización estadística interna de cada Consejería estará constituida por una comisión estadística y por una unidad estadística.
+Los organismos autónomos y demás entidades públicas dependientes de las Consejerías podrán contar con una unidad estadística. Dicha unidad estadística se creará mediante Orden de la respectiva Consejería.
+3. En los órganos consultivos y de asesoramiento previstos en esta Ley deberán observarse las normas de composición paritaria de mujeres y hombres establecidas en el artículo 140 de la Ley 18/2003, de 29 de diciembre, por la que se aprueban medidas fiscales y administrativas.
+Se modifica el apartado 1 por la disposición final 6.1 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 27
+
+Artículo 27. Registro General de Agentes Estadísticos de Andalucía y personal estadístico.
+1. En el Registro General de Agentes Estadísticos de Andalucía se inscribirán las personas físicas que, por razón de su trabajo, tengan acceso a información protegida por el deber de secreto estadístico.
+La organización, funcionamiento y adscripción del Registro se determinará mediante Decreto.
+2. Tendrá la consideración de Agente Estadístico el personal del Sistema Estadístico de Andalucía que esté inscrito en el Registro General de Agentes Estadísticos de Andalucía.
+Asimismo tendrá temporalmente la consideración de Agente Estadístico el personal de las empresas y entidades que hayan suscrito contratos, convenios o acuerdos con órganos y entidades del Sistema Estadístico de Andalucía para elaborar estadísticas, y que esté inscrito en el referido Registro, perdiendo dicha condición al finalizar el plazo establecido.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 2
+
+Sección 2.ª La Comisión Interdepartamental de Estadística
+Se añade por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 28
+
+Artículo 28. Composición y funciones.
+1. La Comisión Interdepartamental de Estadística es el órgano de dirección y coordinación del Sistema Estadístico de Andalucía y tendrá las siguientes funciones:
+a) Determinar las líneas de coordinación del Sistema Estadístico de Andalucía y garantizar la ejecución y desarrollo de los planes y programas estadísticos anuales.
+b) Informar el Anteproyecto de Ley del Plan Estadístico de Andalucía.
+c) Aprobar la propuesta de los programas estadísticos anuales para su elevación al Consejo de Gobierno.
+d) Aprobar, con una periodicidad al menos anual, la memoria de la actividad del Sistema Estadístico de Andalucía elaborada por el Instituto de Estadística de Andalucía, para su remisión al Parlamento de Andalucía.
+e) Emitir los informes sobre cuestiones estadísticas que sean solicitados por el Consejo de Gobierno.
+f) Formular propuestas en materia estadística para su elevación al Consejo de Gobierno.
+g) Impulsar que la información estadística contribuya al objetivo de la igualdad por razón de género.
+h) Cualquier otra función que se le atribuya.
+2. La Comisión Interdepartamental de Estadística y Cartografía estará presidida por la persona titular de la consejería competente en materia estadística y cartografía. La Vicepresidencia corresponderá a la persona titular del Instituto de Estadística y Cartografía de Andalucía.
+Serán vocales de la Comisión Interdepartamental de Estadística las personas que presidan la Comisión Estadística de cada una de las Consejerías.
+La presidencia designará, entre el personal funcionario adscrito al Instituto de Estadística de Andalucía, la persona que ejercerá la secretaría de la Comisión Interdepartamental de Estadística, con voz y sin voto.
+3. La Comisión Interdepartamental de Estadística estará adscrita a la Consejería de la que dependa el Instituto de Estadística de Andalucía. Dicho Instituto facilitará los medios necesarios para su organización y funcionamiento.
+Se modifica el apartado 2 por la disposición final 6.2 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 3
+
+Sección 3.ª El Instituto de Estadística de Andalucía
+Se añade por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 29
+
+Artículo 29. Naturaleza y régimen jurídico.
+1. El Instituto de Estadística de Andalucía, en lo sucesivo el Instituto, es un organismo autónomo de carácter administrativo con personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como con autonomía de gestión para el cumplimiento de sus fines. La adscripción del Instituto se determinará mediante Decreto.
+2. El Instituto se regirá por lo dispuesto en la presente Ley y en sus disposiciones de desarrollo. Asimismo, estará sujeto a la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, a la Ley 4/1986, de 5 de mayo, del Patrimonio de la Comunidad Autónoma de Andalucía, al texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio, y a la demás normativa de general aplicación a las entidades de Derecho público de idéntica naturaleza dependientes de la Administración de la Junta de Andalucía.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 30
+
+Artículo 30. Competencias y funciones.
+Son competencias y funciones del Instituto las siguientes:
+a) Elaborar el Anteproyecto del Plan Estadístico de Andalucía y los programas estadísticos anuales.
+b) Realizar las estadísticas asignadas al Instituto en el Plan y en los programas estadísticos anuales así como cualesquiera otras que se le puedan atribuir, conforme a lo previsto en esta Ley.
+c) Coordinar la ejecución de la actividad estadística de los órganos y entidades del Sistema Estadístico de Andalucía.
+d) Elaborar la memoria anual de actividad del Sistema Estadístico de Andalucía, en coordinación con la Comisión Estadística de cada una de las Consejerías.
+e) Informar preceptivamente los proyectos de normas de creación o modificación de las comisiones y unidades estadísticas de las Consejerías, organismos autónomos y demás entidades públicas dependientes de las mismas.
+f) Crear, mantener y gestionar bases de datos de interés estadístico para la Comunidad Autónoma.
+g) Utilizar los datos de fuentes administrativas, incluidas las tributarias, con fines estadísticos y cartográficos, así como promocionar su uso por el resto de entidades y órganos del Sistema Estadístico y Cartográfico de Andalucía.
+h) Informar preceptivamente los proyectos de normas por las que se creen, modifiquen o supriman registros administrativos en lo relativo a su aprovechamiento estadístico.
+i) Homologar y declarar de interés para la Comunidad Autónoma de Andalucía los proyectos de actividades estadísticas en los supuestos previstos en el artículo 6 de la presente Ley.
+j) Aplicar y vigilar el cumplimiento de las normas relativas al secreto estadístico en la realización de las estadísticas.
+k) Difundir los resultados estadísticos obtenidos por el Instituto.
+l) Coordinar la difusión de la información estadística del Sistema Estadístico de Andalucía y elaborar el calendario de difusión del Sistema Estadístico de Andalucía.
+m) Elaborar las normas y procedimientos oportunos para garantizar el cumplimiento de lo previsto en los artículos 18 a 22, ambos inclusive, de la presente Ley, oída la Comisión Técnica Estadística.
+n) Colaborar en materia estadística con las Corporaciones Locales, con el órgano o entidad estadística de las Comunidades Autónomas, de la Administración del Estado, de la Unión Europea y de cuantos organismos nacionales o internacionales se considere procedente.
+ñ) Canalizar las relaciones de la Administración de la Junta de Andalucía y sus entidades dependientes con los órganos o entidades estadísticos de otras Administraciones, en los términos de los artículos 40 y 41 de esta Ley.
+o) Recibir información de los órganos y entidades dependientes de la Administración de la Junta de Andalucía, en los términos del artículo 42 de esta Ley.
+p) Informar preceptivamente todo proyecto de convenio en el que participe la Administración de la Junta de Andalucía y sus entidades dependientes y que tenga entre sus objetivos la realización de estadísticas.
+q) Impulsar y fomentar la investigación estadística que contribuya a mejorar el conocimiento de la realidad social y económica de Andalucía, así como el perfeccionamiento profesional del personal estadístico.
+r) Contribuir a garantizar la igualdad por razón de género en la elaboración de los planes y programas anuales, en la realización y difusión de la actividad estadística, en la elaboración de bases de datos, así como en la coordinación en materia estadística con otras Administraciones.
+s) Cualquier otra actividad estadística, competencia o función que específicamente se le atribuya.
+Se modifica la letra g) por la disposición final 6.4 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 31
+
+Artículo 31. Organización y dirección.
+1. El órgano de gobierno del Instituto es la Dirección.
+La estructura y funcionamiento del Instituto se determinará en su Estatuto, que será aprobado mediante Decreto, a propuesta de la persona titular de la Consejería a la que esté adscrito.
+2. La persona titular de la Dirección del Instituto será nombrada por el Consejo de Gobierno, a propuesta de la persona titular de la Consejería a la que esté adscrito el Instituto, y ostentará la alta dirección, el control, la supervisión y la gestión directa de todas las actividades del Instituto.
+3. Corresponde a la Dirección del Instituto:
+a) Velar por la ejecución y desarrollo del Plan Estadístico de Andalucía y de los programas estadísticos anuales.
+b) Representar al Instituto.
+c) Celebrar contratos y suscribir convenios para los fines del Instituto.
+d) Ejercer la dirección del personal del Instituto.
+e) Aprobar el anteproyecto de presupuesto anual del Instituto.
+f) Disponer los gastos y ordenar los pagos.
+g) Aprobar el calendario de difusión del Sistema Estadístico de Andalucía.
+h) Cualquier otra función que se le atribuya.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 32
+
+Artículo 32. Recursos económicos.
+Los recursos del Instituto estarán constituidos por: .
+a) Las consignaciones previstas en las leyes del Presupuesto de la Comunidad Autónoma.
+b) Los procedentes de otras secciones presupuestarias que deba percibir el Instituto en virtud de convenios con órganos y entidades dependientes de la Administración de la Junta de Andalucía.
+c) Los procedentes de los servicios prestados por el Instituto y de convenios con entidades públicas y privadas.
+d) Los productos y rentas de su patrimonio.
+e) Las subvenciones o aportaciones voluntarias de entidades públicas y privadas.
+f) Cualquier otro ingreso que pudiera corresponderle conforme a la normativa de aplicación.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 33
+
+Artículo 33. Tasa.
+(Derogado).
+Se deroga por la disposición derogatoria única.c) de la Ley 10/2021, de 28 de diciembre. Ref. BOE-A-2022-758#dd
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 4
+
+Sección 4.ª Otros órganos y servicios
+Se añade por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 34
+
+Artículo 34. Las comisiones estadísticas de las Consejerías.
+1. La Comisión Estadística es el órgano de coordinación estratégica de toda la actividad estadística que realice la respectiva Consejería, así como los organismos autónomos y las demás entidades públicas dependientes de la misma.
+2. La Comisión Estadística de cada Consejería estará presidida por una persona, con rango, al menos, de titular de Dirección General, y su composición se determinará mediante Orden de la respectiva Consejería.
+3. Son funciones de la Comisión Estadística:
+a) Analizar las necesidades estadísticas de la Consejería, los organismos autónomos y las demás entidades públicas dependientes de la misma.
+b) Aprobar las propuestas de actividades estadísticas a incluir en los planes y programas estadísticos anuales.
+c) Garantizar la ejecución y cumplimiento de los acuerdos de la Comisión Interdepartamental de Estadística en el ámbito de la Consejería.
+d) Dirigir, coordinar y evaluar la actividad estadística de la Consejería.
+e) Determinar las formas de difusión de la información estadística en el ámbito de las competencias de la Consejería, de acuerdo con lo dispuesto en los planes y programas estadísticos anuales y en coordinación con el Instituto.
+f) Velar por la adecuación de los recursos destinados a la actividad estadística.
+g) Establecer las directrices para el diseño y la implantación de registros o ficheros de información administrativa en el ámbito de las competencias de la Consejería, en lo relativo a su posterior tratamiento estadístico.
+h) Cualquier otra función que se le atribuya.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 35
+
+Artículo 35. Las unidades estadísticas de las Consejerías, organismos autónomos y demás entidades públicas dependientes.
+1. Las unidades estadísticas son los órganos encargados de coordinar técnicamente la ejecución de las actividades estadísticas de las Consejerías y de los organismos autónomos y demás entidades públicas dependientes de las mismas.
+La composición de las referidas unidades se determinará mediante Orden de la respectiva Consejería.
+2. Corresponde a las unidades estadísticas:
+a) Proponer, coordinar técnicamente, evaluar y, en su caso, llevar a cabo la ejecución de las actividades estadísticas en el marco de los planes y programas estadísticos, de acuerdo con las directrices de la Comisión Estadística de la Consejería.
+b) Elaborar la propuesta del calendario de difusión de actividades estadísticas, de acuerdo con las directrices de la Comisión Estadística de la Consejería.
+c) Participar en el diseño y, en su caso, en la implantación de registros o ficheros de información administrativa que sean susceptibles de posterior tratamiento estadístico, velando de manera especial por la compatibilidad de las clasificaciones utilizadas en aquellos con las clasificaciones estadísticas de uso obligatorio, así como organizar la incorporación de información de origen administrativo a la actividad estadística, garantizando la eficiencia, la integridad de su contenido y el respeto al secreto estadístico.
+d) Canalizar los flujos de entrada y salida de información estadística en la Consejería o entidad pública dependiente, velando especialmente por la preservación del secreto estadístico.
+e) Cuantas otras actuaciones sean necesarias para la consolidación del Sistema Estadístico de Andalucía bajo los principios de coordinación, eficacia, rigor técnico, economía y cumplimiento del Plan Estadístico y programas estadísticos anuales, así como para facilitar una adecuada coordinación con el Instituto de Estadística de Andalucía.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 36
+
+Artículo 36. La Comisión Técnica Estadística.
+1. La Comisión Técnica Estadística es el órgano de asesoramiento técnico y participación en materia estadística entre el Instituto y las unidades estadísticas de las Consejerías, organismos autónomos y demás entidades públicas dependientes de las mismas, especialmente en las cuestiones relativas a la homogeneización y normalización de la actividad estadística y, en general, en todo lo relativo a la elaboración y ejecución de los planes y programas estadísticos anuales.
+2. La composición de la Comisión Técnica Estadística se determinará mediante Decreto. En la misma podrán estar representadas las Corporaciones Locales que realicen actividades estadísticas incluidas en los planes y programas estadísticos anuales o declaradas de interés para la Comunidad Autónoma de Andalucía.
+3. Los medios necesarios para la organización y el funcionamiento de la Comisión Técnica Estadística serán facilitados por el Instituto.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 37
+
+Artículo 37. Los puntos de información estadística de Andalucía.
+Existirán puntos de información estadística de Andalucía para posibilitar el acercamiento a la ciudadanía de las actividades estadísticas. A través de ellos podrá accederse a la información y servicios que preste el Sistema Estadístico de Andalucía.
+Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## Sección 5
+
+Sección 5.ª El Consejo Andaluz de Estadística
+Se añade por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 38
+
+Artículo 38. Naturaleza y Funciones.
+1. El Consejo Andaluz de Estadística es el órgano consultivo y de participación del Sistema Estadístico de Andalucía. Sus objetivos son facilitar la relación de los órganos estadísticos entre sí y de éstos con los informantes y usuarios.
+2. Son competencias y funciones del Consejo Andaluz de Estadística:
+a) Emitir informe sobre el Anteproyecto del Plan Estadístico de Andalucía, los Proyectos de programas estadísticos anuales y cualquier otra propuesta de estadística oficial, de acuerdo con lo dispuesto en el artículo 7 de esta Ley.
+b) Emitir informe sobre los aspectos metodológicos y de normalización previstos en el Capítulo III del Título II de la presente Ley, así como aquellos que permitan que la información estadística contribuya a alcanzar el objetivo de igualdad por razón de género.
+c) Emitir informe sobre la evaluación del Plan Estadístico y Cartográfico de Andalucía al final de su período de vigencia, así como en cualquier otro momento del mismo, de acuerdo con lo que se establezca en los respectivos planes estadísticos y cartográficos.
+d) Realizar recomendaciones sobre las relaciones entre órganos estadísticos e informantes, en especial sobre la aplicación práctica del secreto estadístico.
+e) Emitir informe sobre cualquier otro proyecto o cuestión que en materia estadística someta a su consideración el Consejo de Gobierno, la Comisión Interdepartamental de Estadística o el Instituto de Estadística de Andalucía.
+f) Dirimir sobre conflictos en materia de estadística que le sometan voluntariamente las partes.
+Se modifica el apartado 2.c) por la disposición final 1.1 de la Ley 9/2023, de 25 de septiembre. Ref. BOE-A-2023-20758
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 39
+
+Artículo 39. Composición.
+1. El Consejo Andaluz de Estadística estará constituido por:
+a) La Presidencia, que será ostentada por la persona titular de la Consejería a que esté adscrito el Instituto de Estadística de Andalucía.
+b) La Vicepresidencia, que corresponderá a la persona titular de la Dirección del Instituto de Estadística de Andalucía.
+c) La Secretaría, que recaerá en la persona que ostente la secretaría de la Comisión Interdepartamental de Estadística.
+d) Los vocales.
+2. Los vocales del Consejo Andaluz de Estadística serán:
+a) Las personas que tengan la condición de vocales de la Comisión Interdepartamental de Estadística, establecida en el artículo 28 de la presente Ley.
+b) Seis representantes de las Universidades Andaluzas propuestos por el Consejo Andaluz de Universidades.
+c) Tres representantes de las Organizaciones Sindicales de mayor representatividad en Andalucía.
+d) Tres representantes de las Organizaciones Empresariales de mayor representatividad en Andalucía.
+e) Dos representantes de los municipios andaluces y dos representantes de las diputaciones provinciales, designados por la asociación de municipios y provincias de carácter autonómico de mayor implantación en la Comunidad Autónoma.
+f) Dos personas en representación del Instituto Geográfico Nacional y de la Dirección General del Catastro, respectivamente.
+g) Siete personas designadas por el Parlamento de Andalucía a propuesta de los Grupos Parlamentarios del mismo.
+h) Un representante de las Cámaras Oficiales de Comercio, Industria y Navegación de la Comunidad Autónoma de Andalucía, a propuesta del Consejo Andaluz de Cámaras.
+i) Un representante del Consejo de los Consumidores y Usuarios de Andalucía.
+j) Siete personas de reconocido prestigio y experiencia en materias relacionadas con la actividad estadística y cartográfica pública, a propuesta de la persona titular de la Dirección del Instituto de Estadística y Cartografía de Andalucía.
+k) Una persona en representación de las asociaciones ecologistas relacionadas con la defensa de la naturaleza radicadas en Andalucía, a propuesta de las asociaciones más representativas.
+3. Para cada uno de los vocales representantes de las entidades referenciadas en el apartado anterior se designará un suplente, por un procedimiento similar al empleado en la designación del titular.
+4. La persona que ostente la presidencia del Consejo Andaluz de Estadística podrá delegar dicha presidencia en la persona titular de la Dirección del Instituto de Estadística de Andalucía.
+5. El Consejo Andaluz de Estadística aprobará su propio reglamento de funcionamiento interno y podrá crear en su seno cuantas comisiones estime oportunas para el mejor desarrollo de sus funciones, a las que podrán asistir otras personas que puedan prestar una contribución singular.
+6. Los medios que precise el Consejo Andaluz de Estadística para su correcto funcionamiento serán facilitados por la Comunidad Autónoma con cargo al presupuesto del Instituto de Estadística de Andalucía.
+Se modifica el apartado 2 e), f) y j) por la disposición final 6.3 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Se modifica por el art. 1.3.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## CAPÍTULO II
+
+Relación con otras Administraciones
+Se modifica por el art. 1.3.3 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 40
+
+Artículo 40. Canalización de relaciones.
+El IEA es el órgano que canalizará las relaciones en materia de estadística de la Comunidad Autónoma Andaluza con el resto de las Administraciones Públicas.
+Se modifica por el art. 1.3.4 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 41
+
+Artículo 41. Representación de la Comunidad Autónoma.
+El Director del IEA, o persona en quien, en su caso, delegue, representará oficialmente a la Comunidad Autónoma Andaluza en los actos o reuniones de trabajo que tengan como finalidad tratar temas estadísticos.
+Se modifica por el art. 1.3.4 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 42
+
+Artículo 42. Información de las remisiones de datos estadísticos.
+De todos los datos estadísticos en el ámbito de competencias de la presente Ley que, desde cualquier órgano de la Administración de la Comunidad Autónoma de Andalucía y Organismos o Empresas dependientes de ella, se deban remitir a la Administración Central del Estado o a otros Organismos, se dará cuenta al Instituto de Estadística de Andalucía. Este podrá recabar copia de los datos enviados.
+Se modifica por el art. 1.3.4 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+## TÍTULO IV
+
+Régimen sancionador
+
+## CAPÍTULO ÚNICO
+
+Infracciones y sanciones en materia estadística
+Se añade por el art. 1.4.1 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 43
+
+Artículo 43. Delimitación.
+El incumplimiento de las normas contenidas en la presente Ley, y las que las complementen y desarrollen, constituye infracción administrativa en materia de estadística en la Comunidad Autónoma de Andalucía.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 44
+
+Artículo 44. Responsabilidad.
+1. Se considerarán responsables de las infracciones reguladas en esta Ley las personas físicas o jurídicas a quienes resulte imputable la acción u omisión constitutiva de la infracción.
+2. Las personas jurídicas responderán del pago de las sanciones impuestas como consecuencia de las infracciones cometidas por sus órganos, empleados o agentes.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 45
+
+Artículo 45. Infracciones.
+1. Las infracciones a que se hace referencia en el artículo anterior se clasifican en leves, graves y muy graves.
+2. Se consideran leves:
+a)No suministrar información obligatoria, cuando tal hecho no provoque un perjuicio grave.
+b) Suministrar la información requerida fuera de plazo, o con datos inexactos, incompletos o en forma distinta a la establecida, siempre que los anteriores hechos no den lugar a un perjuicio grave.
+3. Se consideran graves:
+a) No suministrar la información requerida o hacerlo de forma inexacta, en plazos o formas distintos de los requeridos, cuando se cause un perjuicio grave.
+b) Las derivadas del incumplimiento del secreto estadístico en términos distintos a los contemplados en los apartados 4, a) y 4, b), del presente artículo.
+c) El incumplimiento de las normas técnicas dictadas para la elaboración de las estadísticas.
+d) El incumplimiento del deber de difusión de los resultados estadísticos oficiales.
+e) La reincidencia en infracciones leves dentro del período de un año.
+f) Negarse a exhibir el documento acreditativo de agente estadístico al informante que lo solicite.
+4. Se consideran muy graves:
+a) Las derivadas del incumplimiento del secreto estadístico cuando se ocasionen perjuicios a la Administración.
+b) Las derivadas del incumplimiento del secreto estadístico cuando se ocasionen daños materiales o morales a personas físicas o jurídicas.
+c) El suministro de información falsa.
+d) La reincidencia de falta grave dentro del período de dos años.
+e) Alegar ser agente estadístico para recabar información sin estar inscrito en el correspondiente Registro General.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 46
+
+Artículo 46. Sanciones.
+1. Las infracciones leves se sancionarán con multa de hasta 50.000 pesetas.
+2. Las infracciones graves serán sancionadas con multa de 50.001 a 500.000 pesetas.
+3. Las infracciones muy graves serán sancionadas con multa de 500.001 a 5.000.000 de pesetas.
+4. Las cuantías establecidas en los tres apartados anteriores podrán ser revisadas por el Gobierno tomando en consideración la variación del Índice General de Precios al Consumo.
+5. Aquellas infracciones en las que el infractor haya obtenido un beneficio económico superior al tope máximo indicado en el punto anterior se sancionarán con multa que puede llegar hasta el doble del beneficio obtenido.
+6. Las cuantías de las sanciones establecidas en los apartados anteriores se graduarán atendiendo, en cada caso, a la propia gravedad de la infracción, a la naturaleza de los daños y perjuicios causados y a la conducta anterior de los infractores, salvo que ya hubiese sido tomada en consideración para la calificación de la sanción.
+7. Sin menoscabo de lo previsto en los apartados anteriores, en el caso de que el infractor fuera una persona física al servicio de la Comunidad Autónoma se aplicará e! régimen disciplinario de la función pública.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 47
+
+Artículo 47. Suministro de información en forma inadecuada.
+Las sanciones contra las infracciones por suministro de información en forma inadecuada sólo se podrán imponer cuando exista constancia de haberse efectuado el requerimiento correspondiente.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 48
+
+Artículo 48. Procedimiento.
+1. Las sanciones a que se hace referencia en el artículo 46 serán impuestas por el Director del IEA.
+2. Las infracciones graves y muy graves precisarán, para la imposición de sanción, de un expediente que se instruirá de acuerdo con la Ley de Procedimiento Administrativo.
+3. Para imponer sanciones por faltas leves no será preceptiva la previa instrucción de expediente, salvo el trámite de audiencia al inculpado que deberá evacuarse en todo caso.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 49
+
+Artículo 49. Prescripción.
+Las infracciones leves prescribirán a los seis meses, al año las graves y a los dos años las muy graves.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Artículo 50
+
+Artículo 50. Otras responsabilidades.
+Las sanciones administrativas a que se hace referencia en el presente título se impondrán con independencia de las responsabilidades civil, penal o de cualquier otro orden que puedan existir.
+Se modifica por el art. 1.4.2 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Suprimida).
+Se suprime por el art. 1.5 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Suprimida).
+Se suprime por el art. 1.5 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Suprimida).
+Se suprime por el art. 1.5 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Suprimida).
+Se suprime por el art. 1.5 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Registro de Población de Andalucía.
+1. Se crea el Registro de Población de Andalucía en el que se contendrán los datos del nombre, apellidos, domicilio, sexo y fecha de nacimiento que constan en los padrones municipales de habitantes y en el censo electoral de todos los Ayuntamientos de la Comunidad Autónoma de Andalucía.
+Los datos de carácter personal del Registro de Población de Andalucía serán facilitados por el Instituto Nacional de Estadística, de acuerdo con lo previsto en la disposición adicional segunda de Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Corresponde al Instituto de Estadística de Andalucía mantener, explotar y custodiar el Registro de Población de Andalucía.
+Los interesados podrán ejercitar los derechos de acceso, rectificación, cancelación y oposición ante el Instituto de Estadística de Andalucía.
+3. El Registro de Población de Andalucía tiene como finalidad la comunicación de los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía con los interesados residentes en su territorio, respecto a las relaciones jurídico administrativas derivadas del ejercicio de las competencias que tengan atribuidas, así como también, la elaboración de estadísticas oficiales de acuerdo con lo establecido en esta Ley.
+4. Fuera de los supuestos contemplados en los apartados anteriores, los datos de carácter personal del Registro de Población de Andalucía son confidenciales y el acceso a los mismos se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y, con carácter supletorio, en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. Las medidas de seguridad del Registro de Población de Andalucía serán las correspondientes al nivel básico.
+Se añade por la disposición final 1.5 de la Ley 8/2002, de 17 de diciembre. Ref. BOE-A-2003-812
+
+### Disposición adicional única
+
+Disposición adicional única. Registro de Población de Andalucía.
+1. Se crea el Registro de Población de Andalucía en el que se contendrán los datos del nombre, apellidos, domicilio, sexo y fecha de nacimiento que constan en los padrones municipales de habitantes y en el censo electoral de todos los Ayuntamientos de la Comunidad Autónoma de Andalucía.
+Los datos de carácter personal del Registro de Población de Andalucía serán facilitados por el Instituto Nacional de Estadística, de acuerdo con lo previsto en la disposición adicional segunda de Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+2. Corresponde al Instituto de Estadística de Andalucía mantener, explotar y custodiar el Registro de Población de Andalucía.
+Los interesados podrán ejercitar los derechos de acceso, rectificación, cancelación y oposición ante el Instituto de Estadística de Andalucía.
+3. El Registro de Población de Andalucía tiene como finalidad la comunicación de los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía con los interesados residentes en su territorio, respecto a las relaciones jurídico administrativas derivadas del ejercicio de las competencias que tengan atribuidas, así como también, la elaboración de estadísticas oficiales de acuerdo con lo establecido en esta Ley.
+4. Fuera de los supuestos contemplados en los apartados anteriores, los datos de carácter personal del Registro de Población de Andalucía son confidenciales y el acceso a los mismos se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y, con carácter supletorio, en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. Las medidas de seguridad del Registro de Población de Andalucía serán las correspondientes al nivel básico.
+Se numera como disposición adicional única por el art. 1.5 Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+ Su anterior numeración era disposición adicional quinta.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Registro de Población de Andalucía.
+1. Corresponde al Instituto de Estadística y Cartografía de Andalucía mantener, explotar y custodiar el Registro de Población de Andalucía.
+2. El Registro de Población de Andalucía contendrá los datos del nombre, apellidos, sexo, domicilio, lugar y fecha de nacimiento, número del DNI o del documento que lo sustituya, en el caso de población extranjera, que constan en los padrones municipales de habitantes de todos los ayuntamientos de Andalucía.
+3. El Instituto Nacional de Estadística, como coordinador de los padrones de todos los municipios y gestor del padrón continuo, facilitará los datos de los padrones municipales para el Registro de Población de Andalucía, de conformidad con lo previsto en el artículo 6.1.e) del Reglamento (UE) 2016/676 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, en relación con el artículo 8.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+4. El Registro tiene como finalidad facilitar a los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía aquellos datos personales en él contenidos, que sean necesarios para el ejercicio de las competencias que tengan legalmente atribuidas. En estos supuestos, las solicitudes de datos contenidos en el Registro de Población de Andalucía se dirigirán al Instituto de Estadística y Cartografía de Andalucía y deberán explicitar la competencia y la concreta actividad para cuyo ejercicio es necesario el tratamiento de datos y, en su caso, la necesidad de que se facilite la información sin anonimizar, de acuerdo con lo que establece el Reglamento (UE) 2016/676 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, lo que será objeto de comprobación previa a la comunicación de los datos por el Instituto de Estadística y Cartografía de Andalucía. Los datos del Registro de Población de Andalucía podrán también usarse por los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía para la elaboración de estadísticas oficiales, de acuerdo con lo establecido en la Ley 4/1989, de 12 de diciembre, de Estadística de la Comunidad Autónoma de Andalucía.
+5. La información que obtengan de la forma prevista en esta disposición los diferentes órganos de la Administración de la Comunidad Autónoma de Andalucía no podrá ser cedida ni utilizada para otras funciones distintas de las que se hicieron constar en la solicitud dirigida al Instituto de Estadística y Cartografía de Andalucía.
+6. Las personas titulares de los datos podrán ejercitar, ante el Instituto de Estadística y Cartografía de Andalucía, los derechos de acceso, rectificación, supresión, limitación del tratamiento, portabilidad de los datos, oposición y a no ser objeto de decisiones individuales automatizadas. El Instituto de Estadística y Cartografía de Andalucía podrá denegar las solicitudes de acceso que reciba cuando los datos se encuentren amparados por las garantías del secreto estadístico, de acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre.
+7. Los datos personales del Registro de Población de Andalucía están sujetos al principio de confidencialidad establecido en los artículos 5.1.f)del Reglamento (UE) 2016/676 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y 5 de la Ley Orgánica 3/2018, de 5 de diciembre.
+8. Se adoptarán las medidas apropiadas para garantizar un nivel de seguridad adecuado al riesgo, de acuerdo con lo previsto en el artículo 32 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016; en la disposición adicional primera de la Ley Orgánica 3/2018, de 5 de diciembre, y en su normativa de desarrollo, en particular las previstas en el Real Decreto 311/2022, de 3 mayo, por el que se regula el Esquema Nacional de Seguridad.
+Se modifica por la disposición final 1.2 de la Ley 9/2023, de 25 de septiembre. Ref. BOE-A-2023-20758
+ Se numera como disposición adicional primera por la disposición final 6.5 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Su anterior denominación era disposición adicional única.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Asunción de funciones en materia cartográfica.
+El Sistema Estadístico de Andalucía y el Sistema Cartográfico de Andalucía quedan integrados en el Sistema Estadístico y Cartográfico de Andalucía. Los nuevos órganos que lo integran pasan a desempeñar las siguientes funciones:
+a) La Comisión Interdepartamental Estadística y Cartográfica asumirá, además de las funciones asignadas por esta ley a la Comisión Interdepartamental Estadística, las asignadas por el Decreto 141/2006, de 18 de julio, por el que se ordena la actividad cartográfica en la Comunidad Autónoma de Andalucía, a la Comisión de Cartografía de Andalucía en sus letras a), b), c), d) y e). El resto de funciones de la citada comisión pasarán a ser desempeñadas por el Instituto de Estadística y Cartografía de Andalucía.
+b) El Consejo Andaluz de Estadística y Cartografía asumirá, además de las funciones asignadas por esta ley al Consejo Andaluz de Estadística, las asignadas por el Decreto 141/2006, de 18 de julio, al Consejo de Cartografía de Andalucía.
+c) La Comisión Técnica Estadística y Cartográfica asumirá las funciones atribuidas por esta ley a la Comisión Técnica Estadística en materia estadística, así como en materia cartográfica.
+d) Las comisiones estadísticas y cartográficas de las consejerías asumirán, además de las funciones atribuidas por esta ley a las comisiones estadísticas, las asignadas por el Decreto 141/2006, de 18 de julio, a las unidades cartográficas.
+e) Las unidades estadísticas y cartográficas asumirán las funciones atribuidas por esta ley a las unidades estadísticas. Tales funciones ampliarán su ámbito de actuación a la materia cartográfica.
+f) Los puntos de información estadístico-cartográficos de Andalucía asumirán la función atribuida por esta ley a los puntos de información estadística de Andalucía. Dicha función ampliará su ámbito de actuación a la materia cartográfica.
+g) El Instituto de Estadística y Cartografía de Andalucía asumirá, además de las funciones atribuidas por esta ley, las asignadas por el Decreto 141/2006, de 18 de julio, al Instituto de Cartografía de Andalucía.
+Se añade por la disposición final 6.5 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Cambios de referencias del ordenamiento jurídico.
+Cualquier referencia del ordenamiento jurídico a los órganos del Sistema Estadístico de Andalucía y del Sistema Cartográfico de Andalucía se entenderá realizada a los correspondientes órganos del Sistema Estadístico y Cartográfico de Andalucía establecidos en el artículo 26 de esta ley. Asimismo, las referencias a los instrumentos de planificación estadística y cartográfica pasarán a ser sustituidas por el Plan Estadístico y Cartográfico de Andalucía y sus programas anuales.
+Se añade por la disposición final 6.6 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+(Suprimida).
+Se suprime por el art. 1.6 Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+(Suprimida).
+Se suprime por el art. 1.6 Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Organización y funcionamiento de los órganos colegiados y de dirección.
+En tanto se proceda a la correspondiente adecuación normativa reglamentaria relativa a la organización y funcionamiento de los órganos colegiados y de dirección que establece esta ley, estos se regirán por lo previsto en el Decreto 372/2009, de 17 de noviembre, por el que se regula la organización y funcionamiento del Sistema Estadístico de Andalucía, en lo que no se oponga a esta ley.
+Se añade por la disposición final 6.7 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogados expresamente los artículos 6, 7 y 8 del capítulo II y el capítulo III del Decreto 141/2006, de 18 de julio, por el que se ordena la actividad cartográfica en la Comunidad Autónoma de Andalucía, así como cualquier otra disposición de igual o inferior rango en lo que se oponga a lo previsto en la presente ley.
+Se modifica por la disposición final 6.8 de la Ley 4/2011, de 6 de junio. Ref. BOE-A-2011-11178
+ Se numera como disposición derogatoria única por el art. 1.7 Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+ Su anterior denominación era disposición derogatoria.
+
+### Disposición final
+
+Disposición final.
+Se autoriza al Consejo de Gobierno a dictar la normativa necesaria para la ejecución y desarrollo de la presente Ley.
+
+### Disposición final única
+
+Disposición final única. Habilitación para el desarrollo reglamentario.
+Se autoriza al Consejo de Gobierno a dictar la normativa necesaria para la ejecución y desarrollo de la presente Ley.
+Se numera como disposición final única por el art. 1.8 de la Ley 4/2007, de 4 de abril. Ref. BOE-A-2007-10141
+ Su anterior denominación era disposición final.
+
+Sevilla, 12 de diciembre de 1989.
+El Presidente de la Junta de Andalucía,
+ El Consejero de la Presidencia,
+ José Rodríguez de la Borbolla Camoyán.
+ Gaspar Zarrías Arévalo.

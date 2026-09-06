@@ -1,0 +1,135 @@
+# Ley 1/2004, de 21 de diciembre, de Horarios Comerciales.
+
+- Identificador BOE: `BOE-A-2004-21421`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2004-21421
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+EXPOSICIÓN DE MOTIVOS
+La definición de los horarios comerciales ha venido constituyendo en todo momento una pieza de especial sensibilidad en la regulación del ejercicio de la actividad comercial minorista. Así, la Ley Orgánica 2/1996, de 15 de enero, complementaria de la Ley de ordenación del comercio minorista, estableció en su artículo 2 el principio de la libertad de cada comerciante para determinar, sin limitación alguna en toda España, el horario de apertura y cierre de sus establecimientos comerciales, así como los días festivos o no y el número de horas semanales en los que desarrollar su actividad, dentro de las reglas establecidas en la propia Ley. La mencionada Ley Orgánica señalaba que el principio de libertad de horarios no podía ser de aplicación inmediata por los efectos que este régimen podría tener sobre el sector y, por ello, estableció un régimen transitorio, que no podría ser revisado antes del 1 de enero del año 2001.
+Por este motivo, y siguiendo determinadas reglas, se acordó una modulación en su aplicación hasta el año 2001. Se reconoció la plena libertad para determinados tipos de establecimientos y para aquellos que no disfrutaban de esta libertad se fijó una apertura autorizada, como mínimo, de ocho domingos o festivos y una libertad de apertura que no podía restringirse a menos de 72 horas semanales. Estos dos límites podían ser ampliados por las Comunidades Autónomas.
+El Real Decreto-ley 6/2000, de 23 de junio, de medidas urgentes de intensificación de la competencia en mer-cados de bienes y servicios, en su artículo 43, desplazó las reglas transitorias de la Ley Orgánica 2/1996, ampliando el régimen transitorio durante 4 años más y estableciendo una nueva regulación que incrementó gradualmente el número de domingos y festivos de apertura autorizada hasta llegar a doce para el año 2004. Es decir, la discusión sobre la libertad de horarios o la eventual aplicación de un régimen de libertad de horarios se aplazó del 1 de enero de 2001 al 1 de enero de 2005. Así, el apartado Uno de este artículo señala que «la libertad absoluta de horarios y de determinación de días de apertura de los comerciantes no será de aplicación hasta que el Gobierno, conjuntamente con el Gobierno de cada una de las Comunidades Autónomas, así lo decidan para su correspondiente territorio y no antes del 1 de enero del año 2005».
+Las reglas establecidas en el Real Decreto-ley 6/2000 han marcado una práctica de doce aperturas en festivos entre consumidores y comerciantes que se considera constituye un marco de referencia adecuado para la nueva regulación.
+En consecuencia, la adopción de un nuevo régimen de horarios comerciales resulta urgente, por la necesidad de disponer de una norma antes de 1 de enero de 2005, que dote de un nuevo marco legal que dé seguridad jurídica y que permita la aprobación de los nuevos calendarios comerciales para 2005.
+La presente Ley pretende fijar un marco estatal de carácter estable, resultado del consenso más amplio posible con las principales asociaciones representantes de los consumidores, de los intereses empresariales, los sindicatos y las Comunidades Autónomas.
+El objetivo de la presente regulación básica es promover unas adecuadas condiciones de competencia en el sector, contribuir a mejorar la eficiencia en la distribución comercial minorista, lograr un adecuado nivel de oferta para los consumidores y ayudar a conciliar la vida laboral y familiar de los trabajadores del comercio. Esta norma permitirá que cada Comunidad Autónoma adecue su régimen de horarios a las características y al modelo de comercio de cada una de ellas.
+La presente Ley se dicta en el ejercicio de las competencias exclusivas del Estado en materia de bases de la ordenación de la actividad económica que le reconoce el artículo 149.1.13.ª de la Constitución.
+
+### Artículo 1
+
+Artículo 1. Libertad de horarios.
+Dentro del marco definido por esta Ley y por el que, en su caso, desarrollen las Comunidades Autónomas, cada comerciante determinará con plena libertad el horario de apertura y cierre de sus establecimientos comerciales de venta y distribución de mercancías, así como los días festivos de apertura y el número de horas diarias o semanales en los que ejercerá su actividad.
+
+### Artículo 2
+
+Artículo 2. Competencias autonómicas.
+En el ejercicio de sus competencias, corresponderá a las Comunidades Autónomas la regulación de los horarios para la apertura y cierre de los locales comerciales, en sus respectivos ámbitos territoriales, en el marco de la libre y leal competencia y con sujeción a los principios generales sobre ordenación de la economía que se contienen en la presente Ley.
+
+### Artículo 3
+
+Artículo 3. Horario global.
+1. El horario global en que los comercios podrán desarrollar su actividad durante el conjunto de días laborables de la semana no podrá restringirse por las Comunidades Autónomas a menos de 90 horas.
+2. El horario de apertura y cierre dentro de los días laborables de la semana será libremente decidido por cada comerciante, respetando siempre el límite máximo del horario global que, en su caso, se establezca por la Comunidad Autónoma.
+3. Las Comunidades Autónomas que así lo consideren podrán establecer en su normativa aquellas obligaciones de información al público en materia de horarios comerciales que mejoren el conocimiento del régimen de horarios por parte de los consumidores.
+Se modifica el apartado 1 por el art. 27.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+### Artículo 4
+
+Artículo 4. Domingos y festivos.
+1. El número mínimo de domingos y días festivos en los que los comercios podrán permanecer abiertos al público será de dieciséis.
+2. Las Comunidades Autónomas podrán modificar dicho número en atención a sus necesidades comerciales, incrementándolo o reduciéndolo, sin que en ningún caso se pueda limitar por debajo de diez el número mínimo de domingos y festivos de apertura autorizada.
+3. Cada comerciante determinará libremente el horario correspondiente a cada domingo o día festivo en que ejerza su actividad.
+4. La determinación de los domingos o días festivos en los que podrán permanecer abiertos al público los comercios, con el mínimo anual antes señalado, corresponderá a cada Comunidad Autónoma para su respectivo ámbito territorial.
+5. Para la determinación de los domingos y festivos de apertura a los que se refieren los apartados 1 y 2, las Comunidades Autónomas deberán atender de forma prioritaria al atractivo comercial de los días para los consumidores, de acuerdo con los siguientes criterios:
+a) La apertura en al menos un día festivo cuando se produzca la coincidencia de dos o más días festivos continuados.
+b) La apertura en los domingos y festivos correspondientes a los períodos de rebajas.
+c) La apertura en los domingos y festivos de mayor afluencia turística en la Comunidad Autónoma.
+d) La apertura en los domingos o festivos de la campaña de Navidad.
+Se modifica por el art. 27.2 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+### Artículo 5
+
+Artículo 5. Establecimientos con régimen especial de horarios.
+1. Los establecimientos dedicados principalmente a la venta de pastelería y repostería, pan, platos preparados, prensa, combustibles y carburantes, floristerías y plantas y las denominadas tiendas de conveniencia, así como las instaladas en puntos fronterizos, en estaciones y medios de transporte terrestre, marítimo y aéreo y en zonas de gran afluencia turística, tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público en todo el territorio nacional.
+2. También tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público en todo el territorio nacional los establecimientos de venta de reducida dimensión distintos de los anteriores, que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente.
+3. Se entenderá por tiendas de conveniencia aquellas que, con una superficie útil para la exposición y venta al público no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos, vídeos, juguetes, regalos y artículos varios.
+4. A los efectos de lo establecido en el apartado 1, las Comunidades Autónomas, a propuesta de los Ayuntamientos correspondientes, determinarán las zonas de gran afluencia turística para su respectivo ámbito territorial. Se considerarán zonas de gran afluencia turística, aquellas áreas coincidentes con la totalidad del municipio o parte del mismo en las que concurra alguna de las siguientes circunstancias:
+a) Existencia de una concentración suficiente, cuantitativa o cualitativamente, de plazas en alojamientos y establecimientos turísticos o bien en el número de segundas residencias respecto a las que constituyen residencia habitual.
+b) Que haya sido declarado Patrimonio de la Humanidad o en el que se localice un bien inmueble de interés cultural integrado en el patrimonio histórico artístico.
+c) Que limiten o constituyan áreas de influencia de zonas fronterizas.
+d) Celebración de grandes eventos deportivos o culturales de carácter nacional o internacional.
+e) Proximidad a áreas portuarias en las que operen cruceros turísticos y registren una afluencia significativa de visitantes.
+f) Que constituyan áreas cuyo principal atractivo sea el turismo de compras.
+g) Cuando concurran circunstancias especiales que así lo justifiquen.
+En los supuestos en los que concurran las circunstancias enumeradas y la propuesta de declaración de zona de gran afluencia turística formulada por el Ayuntamiento interesado contenga una limitación de carácter temporal o territorial, deberán justificarse en la propuesta las razones en las que se funda tal limitación temporal o territorial, de acuerdo con los intereses comerciales, turísticos y en beneficio del consumidor. En el caso de que la Comunidad Autónoma considerase que no está suficientemente justificada esta restricción, se declarará zona de gran afluencia turística la totalidad del municipio todo el año.
+Si en el plazo que determine su legislación o, en su defecto, en el plazo de seis meses, la Comunidad Autónoma competente no resolviera la solicitud del Ayuntamiento interesado, se entenderá declarada como zona de gran afluencia turística la propuesta por dicho Ayuntamiento.
+5. En todo caso, en los municipios con más de 100.000 habitantes que hayan registrado más de 600.000 pernoctaciones en el año inmediatamente anterior o que cuenten con puertos en los que operen cruceros turísticos que hayan recibido en el año inmediato anterior más de 400.000 pasajeros, se declarará, al menos, una zona de gran afluencia turística aplicando los criterios previstos en el apartado anterior. Para la obtención de estos datos estadísticos se considerarán fuentes las publicaciones del Instituto Nacional de Estadística y de Puertos del Estado.
+Si en el plazo de seis meses a partir de la publicación de estos datos, las Comunidades Autónomas competentes no hubieran declarado alguna zona de gran afluencia turística en el municipio en el que concurran las circunstancias señaladas en el párrafo anterior, se entenderá declarada como tal la totalidad del municipio y los comerciantes dispondrán de plena libertad para la apertura de sus establecimientos durante todo el año.
+6. Las oficinas de farmacia, así como los estancos, se regirán por su normativa específica, aplicándose en su defecto las disposiciones de esta Ley.
+7. Dentro de los límites marcados por la presente Ley, las Comunidades Autónomas podrán regular específicamente los horarios comerciales de los establecimientos dedicados exclusivamente a la venta de productos culturales, así como los que presten servicios de esta naturaleza.
+Se modifica el apartado 5.4 y 5 por el art. 7.1 y 2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+ Se modifica el apartado 5.4 y 5 por el art. 7.1 y 2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+ Se modifica por el art. 27.3 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Se modifica el apartado 3 por la disposición final 9 de la Ley 44/2006, de 29 de diciembre. Ref. BOE-A-2006-22950
+
+### Artículo 6
+
+Artículo 6. Régimen sancionador.
+Las Comunidades Autónomas podrán establecer el sistema sancionador aplicable a las infracciones de la normativa que dicten en desarrollo de la presente Ley en relación con calendarios y horarios comerciales.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Régimen de libertad de horarios.
+En caso de que las Comunidades Autónomas decidan no hacer uso de la opción que les confiere el apartado 1 del artículo 3, se entenderá que los comerciantes disponen de plena libertad para determinar las horas de apertura de sus establecimientos.
+Se modifica por el art. 27.4 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Libertad de elección de domingos y festivos.
+En caso de que las Comunidades Autónomas decidan no ejercitar las opciones que les confiere el apartado 4 del artículo 4, se entenderá que los comerciantes disponen de plena libertad para determinar los domingos y festivos de apertura de sus establecimientos.
+Se modifica por el art. 27.5 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 172, de 19 de julio de 2012. Ref. BOE-A-2012-9654.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Competencias municipales.
+Las Comunidades Autónomas podrán dictar las normas necesarias para que los Ayuntamientos puedan acordar, por razones de orden público, el cierre, de manera singularizada, de establecimientos que vendan bebidas alcohólicas.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Zonas de gran afluencia turística.
+Tendrán la consideración de zonas de gran afluencia turística las que ya la tuvieran en el momento de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Definición de Pyme.
+Entretanto no se definan legalmente los criterios para la definición de pequeña y mediana empresa en la legislación estatal, el criterio a utilizar será el recogido en la recomendación de la Comisión Europea de 6 de mayo de 2003.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados los artículos 2 y 3 de la Ley Orgánica 2/1996, de 15 de enero, complementaria de la Ley de ordenación del comercio minorista, y el artícu­lo 43 del Real Decreto-ley 6/2000, de 23 de junio, de medidas urgentes de intensificación de la competencia en mercados de bienes y servicios, así como cualquier disposición anterior que resulte contraria a la misma.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+La presente Ley se dicta en ejercicio de las competencias exclusivas del Estado en materia de bases y ordenación de la economía, reconocidas en el artículo 149.1.13.ª de la Constitución, y con el respeto a las competencias en materia de comercio interior de las Comunidades Autónomas.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+Esta Ley entrará en vigor el 1 de enero de 2005.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 21 de diciembre de 2004.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

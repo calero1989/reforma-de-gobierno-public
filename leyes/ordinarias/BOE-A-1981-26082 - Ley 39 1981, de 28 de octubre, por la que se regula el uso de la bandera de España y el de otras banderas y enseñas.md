@@ -1,0 +1,93 @@
+# Ley 39/1981, de 28 de octubre, por la que se regula el uso de la bandera de España y el de otras banderas y enseñas.
+
+- Identificador BOE: `BOE-A-1981-26082`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1981-26082
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+
+### Artículo primero
+
+Artículo primero.
+La bandera de España simboliza la nación; es signo de la soberanía, independencia, unidad e integridad de la patria y representa los valores superiores expresados en la Constitución.
+
+### Artículo segundo
+
+Artículo segundo.
+Uno. La bandera de España, de acuerdo con lo preceptuado en el artículo cuarto de la Constitución española, está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.
+Dos. En la franja amarilla se podrá incorporar, en la forma que reglamentariamente se señale, el escudo de España.
+El escudo de España figurará, en todo caso, en las banderas a que se refieren los apartados uno, dos, tres y cuatro del artículo siguiente.
+Tres. El tratamiento y honores que deben ser prestados a la bandera de España se regirán por lo que reglamentariamente se disponga y en el caso de las Fuerzas Armadas, por sus disposiciones específicas.
+
+### Artículo tercero
+
+Artículo tercero.
+Uno. La bandera de España deberá ondear en el exterior y ocupar el lugar preferente en el interior de todos los edificios y establecimientos de la Administración central, institucional, autonómica, provincial o insular y municipal del Estado.
+Dos. La bandera de España será la única que ondee y se exhiba en las sedes de los órganos constitucionales del Estado y en la de los órganos centrales de la Administración del Estado.
+Tres. La bandera de España será la única que ondee en el asta de los edificios públicos militares y en los acuartelamientos, buques, aeronaves y cualesquiera otros establecimientos de las Fuerzas Armadas y de las Fuerzas de Seguridad del Estado.
+Cuatro. La bandera de España, así como el escudo de España, se colocará en los locales de las misiones diplomáticas y de las oficinas consulares, en las residencias de sus Jefes y, en su caso, en sus medios de transporte oficial.
+Cinco. La bandera de España se enarbolará como pabellón en los buques, embarcaciones y artefactos flotantes españoles, cualquiera que sea su tipo, clase o actividad, con arreglo a lo que establezcan las disposiciones y usos que rigen la navegación.
+
+### Artículo cuarto
+
+Artículo cuarto.
+En las Comunidades Autónomas, cuyos Estatutos reconozcan una bandera propia, ésta se utilizará juntamente con la bandera de España en todos los edificios públicos civiles del ámbito territorial de aquélla, en los términos de lo dispuesto en el artículo sexto de la presente ley.
+
+### Artículo quinto
+
+Artículo quinto.
+Cuando los Ayuntamientos y Diputaciones o cualesquiera otras Corporaciones públicas utilicen sus propias banderas, lo harán junto a la bandera de España en los términos de lo establecido en el artículo siguiente.
+
+### Artículo sexto
+
+Artículo sexto.
+Uno. Cuando se utilice la bandera de España ocupará siempre lugar destacado, visible y de honor.
+Dos. Si junto a ella se utilizan otras banderas, la bandera de España ocupará lugar preeminente y de máximo honor y las restantes no podrán tener mayor tamaño.
+Se entenderá como lugar preeminente y de máximo honor:
+a) Cuando el número de banderas que ondeen juntas sea impar, la posición central.
+b) Si el número de banderas que ondeen juntas es par, de las dos posiciones que ocupan el centro, la de la derecha de la presidencia si la hubiere o la izquierda del observador.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Cuando la bandera de España deba ondear junto a la de otros Estados o naciones lo hará de acuerdo con las normas y usos internacionales que rigen esta materia en las relaciones entre Estados, así como con las disposiciones y reglamentos internos de las organizaciones intergubernamentales y las conferencias internacionales.
+
+### Artículo octavo
+
+Artículo octavo.
+Se prohíbe la utilización en la bandera de España de cualesquiera símbolos o siglas de partidos políticos, sindicatos, asociaciones o entidades privadas.
+
+### Artículo noveno
+
+Artículo noveno.
+Las autoridades corregirán en el acto las infracciones de esta Ley, restableciendo la legalidad que haya sido conculcada.
+
+### Artículo décimo
+
+Artículo décimo.
+Uno. Los ultrajes y ofensas a la bandera de España y a las contempladas en el artículo 4 del presente texto, se castigarán conforme a lo dispuesto en las leyes.
+Dos. (Anulado)
+Tres.(Anulado)
+Cuatro. Sin perjuicio de la responsabilidad en que incurran los autores de las infracciones de lo dispuesto en esta ley, lo establecido en el artículo ciento veintitrés del Código Penal o trescientos dieciséis del Código de Justicia Militar, en los casos de personas y lugares previstos en este último, será asimismo de aplicación a los Presidentes, Directores o titulares de organismos, instituciones, centros o dependencias y a los representantes legales de partidos políticos, sindicatos, asociaciones o entidades privadas de toda índole que, tras ser requeridos para el cumplimiento de esta ley por la autoridad gubernativa, incumplan lo preceptuado en los artículos anteriores.
+Se declara la inconstitucionalidad y nulidad del apartado 3 por Sentencia del TC 118/1992, de 16 de septiembre Ref. BOE-T-1992-22887 y del apartado 2 por Sentencia del TC 119/1992, de 18 de septiembre. Ref. BOE-T-1992-22888
+
+### DISPOSICIÓN DEROGATORIA
+
+Quedan derogados el Real Decreto dos mil setecientos cuarenta y nueve/mil novecientos setenta y ocho, de veinticuatro de noviembre, sobre utilización de la bandera nacional, y cuantas otras disposiciones se opongan a lo establecido en la presente ley.
+
+### DISPOSICIÓN ADICIONAL
+
+Se faculta al Gobierno para dictas las disposiciones que requiera el cumplimiento de la presente ley, la cual entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar este Ley.
+Palacio de la Zarzuela, Madrid, a veintiocho de octubre de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

@@ -1,0 +1,1573 @@
+# Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1986-23734`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-23734
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOE núm. 266, de 6 de noviembre de 1986. Ref. BOE-A-1986-29240.
+
+## Preámbulo
+
+Aprobada por la Asamblea de Madrid la Ley 1/1986, publicada en el «Boletín Oficial de la Comunidad de Madrid» número 96, de fecha 24 de abril de 1986, se inserta a continuación el texto correspondiente.
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber: Que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+EXPOSICIÓN DE MOTIVOS
+I. El acceso de la provincia de Madrid a su autogobierno mediante su constitución como Comunidad Autónoma a través de Ley Orgánica 3/1983, de 25 de febrero, que aprueba su Estatuto de Autonomía, no sólo ha proporcionado a la nueva entidad territorial la atribución de competencias sobre determinadas materias que eran antes propias de la esfera estatal y de las que, como ente local, ostentaba la provincia y gestionaba la Diputación, sino, también, la lógica atribución de una potestad plena de autoorganización.
+Ambos elementos forman el haz de facultades –de distinto alcance– que la Constitución ha previsto en la nueva distribución del poder territorial del Estado, para acercar al nivel óptimo la gestión de los servicios públicos para el ciudadano.
+No podría hablarse de potestad plena de autoorganización y de ejercicio de la autonomía, a la que se ha accedido por la vía constitucional, si la Comunidad de Madrid no tuviera suficientes facultades para regular el régimen jurídico de su personal o, cuando menos, las especialidades que son propias de una formación orgánica y estructural que debe dar respuesta a problemas peculiares y diferenciados de otras esferas de la Administración Pública.
+En uso de la facultad normativa de la Comunidad de Madrid para con su personal, el Gobierno regional ha determinado la política global de sus trabajadores en la medida que son el brazo ejecutor de la Administración Pública de la Comunidad. A lo largo de los dos primeros años de funcionamiento de las instituciones comunitarias se han aprobado diversas disposiciones generales sobre la materia.
+La regulación dada únicamente ha salido al paso de los problemas que iban sucediéndose en la medida que el proceso de traspasos de personal de otras Administraciones a la de la Comunidad iba produciéndose. Normas todas ellas que, siendo de enorme utilidad y clarificadoras en la gestión, no dejaban de tener el carácter de provisionalidad propio del proceso de formación de la Comunidad y de las diferentes fases de traspasos de servicios.
+Finalizados prácticamente aquellos procesos generadores de la nueva Administración, es ahora el momento de regularizar y ordenar los diversos y heterogéneos efectivos que forman la denominada Función Pública regional, o con mayor claridad conceptual, todo el personal al servicio de nuestra Comunidad, mediante una relación jurídica de empleo.
+Es también el momento de fijar las normas que deban regir para quienes, en el futuro, se incorporen a la Comunidad.
+Confluyen en nuestra Administración colectivos de trabajadores procedentes de diferentes esferas administrativas. Esta heterogeneidad se multiplica cuando la relación jurídica de empleo, dentro de cada esfera, es también distinta. Funcionarios y personal laboral, junto con quienes están al servicio de la Administración mediante relaciones contractuales temporales, van a formar el conjunto de efectivos de la Comunidad de Madrid. Su ordenación no sólo es necesaria, sino que debe llevarse a cabo mediante una norma con rango suficiente que permita realizar la labor integradora, que configure la estructura burocrática y que habilite un desarrollo reglamentario adecuado, con la garantía para la Administración y para su personal de ser la voluntad de las fuerzas políticas presentes en la Cámara legislativa la reguladora de la ordenación. Rango, pues, que debe ser el de Ley de su Asamblea, en desarrollo de las Bases dictadas sobre la materia por las Cortes Generales.
+La Comunidad Autónoma de Madrid tiene potestad legislativa para regular su Función Pública propia, en tanto que parte de sus instituciones de autogobierno. El debate doctrinal ha quedado cerrado tanto por la práctica seguida en el proceso autonómico general como por la rotundidad del artículo 11 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, según el cual «las Comunidades Autónomas procederán a ordenar, mediante Ley de sus respectivas Asambleas legislativas, su Función Pública propia».
+Ambos referentes son los obligados para la ordenación: los propios problemas que la disparidad de personal general y el marco de Bases normativas estatales. Entre estos dos referentes se mueve el margen de innovación política que contempla esta Ley.
+II. La Ley no pretende regular únicamente las peculiaridades en el Régimen de los funcionarios de la Comunidad que puedan surgir en desarrollo de las Bases estatales. Superando en este punto ciertas inercias tradicionales, es preciso reconocer que hoy no se aseguran exclusivamente los fines públicos mediante el ejercicio de potestades por funcionarios, pues cada día cuentan más los fines públicos asegurados mediante actividades que no suponen ejercicio de potestades y que se encuentran a cargo de personal laboral. Se opta por considerar a todos los trabajadores al servicio de la Comunidad como personal de la misma, indistintamente. Para ello, se parte de la no identificación entre Función Pública y funcionarios, y se considera, por tanto, Función Pública de la Comunidad –en la inteligencia de interpretarla como conjunto de agentes ejecutores de las actividades de la Administración e Instituciones Comunitarias–, tanto al personal funcionario como al personal laboral. Se excluyen de la regulación los cargos políticos, al no mantener una relación de empleo profesional.
+No obstante lo anterior, sí es necesario subrayar que la Ley, en la mayor parte de su articulado, se dedica a regular aspectos fundamentales de la relación estatutaria de los funcionarios. Tal aspecto no obedece a otra causa que el hecho de ser receptora la norma de la capacidad negociadora de los representantes de los trabajadores laborales a la hora de fijar las condiciones de empleo a través de Convenios Colectivos.
+Aun no pudiendo ser de otra manera, por la propia naturaleza del Derecho Laboral, los esfuerzos realizados por las Centrales Sindicales y la propia Comunidad a la hora de negociar Acuerdos de aplicación general para todos los trabajadores laborales, son un punto básico de referencia que permite abundar en aquel reconocimiento de las normas pactadas y del sistema que facilita el logro de una paz social que garantice la prestación de los servicios públicos con las menores interferencias de los conflictos de personal que, inevitablemente, suelen surgir.
+Es, pues, la Ley una norma dirigida a todos los trabajadores al servicio de la Comunidad, pero reguladora con un especial detenimiento de los aspectos esenciales que afectan a los funcionarios a ella adscritos.
+Y en este sentido, la Ley regula, de manera integrada, las materias estatutarias de los funcionarios. No cabe duda que el desarrollo de las Bases estatales impide introducir figuras contrarias a las normas básicas dadas por las Cortes Generales. La Ley, al contrario, recoge dichas Bases y, en ocasiones, traslada a su texto el articulado de las disposiciones estatales. Ello responde al hecho de utilizar una sistemática parecida a la estatal, y a la pura labor didáctica y clarificadora para los funcionarios.
+III. Los tres primeros títulos de la Ley se refieren a los aspectos generales y que han de ser de aplicación a la totalidad del personal al servicio de la Comunidad de Madrid.
+En este sentido, al margen de la lógica definición del objeto de la Ley y de su ámbito, se clasifica el personal y se establece quiénes son los Órganos superiores en política de personal, con la búsqueda de un lugar de colaboración de los representantes de los trabajadores en el Consejo Regional de la Función Pública. La acción sindical de labores y funcionarios es un hecho que debe tener un foro adecuado.
+Se regulan los criterios fundamentales del Registro de Personal, con indicación expresa de que éste habrá de coordinarse con los que existan en otras Administraciones Públicas.
+En el título segundo se define para nuestra Comunidad lo que ha sido estimado el eje de toda la regulación jurídica de la Función Pública. Nos referimos a la implantación de las relaciones de puestos de trabajo, como mecanismo clave para racionalizar los efectivos de la Administración Pública. Pero, además, se adelantan pautas sobre la clarificación del denominado ámbito de la Función Pública, y para ello se introducen ciertos criterios orientadores de cómo deben ser catalogados los puestos a la hora de utilizar personal estatutario o personal contractual.
+En este orden de cosas, se regula la configuración de las plantillas presupuestarias, es decir, la dotación de las diferentes plazas en correspondencia directa con los puestos de trabajo necesarios para atender las necesidades de los diferentes Servicios. Las relaciones de puestos de trabajo han de ser el instrumento técnico que permita racionalizar y ordenar las plantillas del personal de la Comunidad.
+Por último, el título tercero, también de vigencia para todo el personal de la Comunidad, establece los cauces fundamentales para el ingreso en nuestra Administración. Se regula la conocida oferta de empleo, que permita, a los aspirantes interesados en ingresar en la Administración, conocer con tiempo suficiente cuáles van a ser las vacantes que la Comunidad de Madrid, durante un ejercicio, va a ofertar. Anuncio donde se incluirán todas las plazas de los distintos Órganos de la Administración regional. Se pretende centralizar la selección y formación en un mismo Órgano directivo dependiente de la Consejería de Presidencia.
+El título cuarto ya adopta la especialidad propia de diseñar el régimen estatutario de los funcionarios de la Comunidad. Piénsese que este colectivo hasta ahora se ha integrado de forma muy heterogénea. De ahí que la Ley reconozca la condición de funcionarios propios de la Comunidad a todos aquellos funcionarios que se han venido incorporando a la nueva Institución procedentes tanto de la extinta Diputación Provincial como a través de los diferentes traspasos de servicio, en virtud de Reales Decretos de transferencias, así como aquellos que hubieran accedido a la Comunidad por los sistemas de ofertas públicas excepcionales aprobados en 1983 y 1985.
+En la estructura de la organización de los funcionarios se opta por la agrupación clásica mediante Cuerpos. La opción responde a la voluntad ya adoptada por otras Administraciones Públicas en este sentido, que permitirá, con mayor flexibilidad, la movilidad interadministrativa, y también porque es el sistema recogido en la propia Ley de Medidas de Reforma de la Función Pública.
+La combinación de los sistemas de Cuerpos y de relación de puestos de trabajo no tiene por qué ser negativa en la estructura de la Función Pública, siempre y cuando se respeten con absoluta fiabilidad los Cuerpos que se crean en la Ley y no se multipliquen agrupaciones específicas cuando sean homogéneas y no exijan una titulación singular.
+La patrimonialización de la Administración por diversos Cuerpos de funcionarios, como efecto sociológico que se ha podido demostrar en determinadas etapas de nuestra historia, no tiene que ser el resultante necesario de la existencia de Cuerpos, cuando éstos tienen la suficiente amplitud y generalidad para que permita la identidad de sus componentes únicamente a nivel profesional y clasificatorio. La tipología y números de Cuerpos que se crean en esta Ley buscan esta finalidad.
+La carrera administrativa se monta mediante el sistema que parte del respeto al grado personal y la posibilidad de la adquisición de grados superiores, de un mecanismo riguroso de provisión de puestos de trabajo, de la atención a la promoción interna entre Grupos y Cuerpos y a través de la denominada movilidad administrativa que contempla el artículo 17 de la Ley de Medidas de Reforma de la Función Pública.
+La centralización de la selección y formación del personal busca no sólo el regular uniformemente el mecanismo de selección del personal, sino, también, el atender dinámicamente a los diferentes aspectos que permitan facilitar el movimiento de los funcionarios en su carrera administrativa.
+En el título quinto se regulan algunos aspectos de la relación del personal laboral. Evidentemente, el respeto a la negociación colectiva hace que la norma no entre en detalle en los diferentes aspectos singulares de la relación de empleo de este colectivo.
+El título sexto regula las relaciones de empleo de la denominada colaboración temporal.
+En el último título de la Ley se incluyen preceptos tendentes a buscar la homogeneización de criterios de política de personal a través del Consejo de Gobierno para con los trabajadores al servicio de la Administración institucional de la Comunidad de Madrid.
+Por lo que al personal de la Asamblea se refiere, queda éste excluido del ámbito de aplicación de la presente Ley, toda vez que, de acuerdo con los artículos 13.2 y 14 del Estatuto de Autonomía de la Comunidad de Madrid, y artículo 30 y disposición final tercera del Reglamento de la Cámara, corresponde a la Mesa de la Asamblea la aprobación del Estatuto del Personal de la misma.
+Por último, las disposiciones adicionales y transitorias de la norma tienen como objeto facilitar en el tiempo la puesta en práctica de la normativa legal y, por otro lado, regular cuando así corresponda las situaciones de aquel personal que queda afectado por la Ley, teniendo derechos reconocidos por normas anteriores o situaciones que conviene precisar en garantía de los mismos.
+
+## TÍTULO I
+
+Del personal al servicio de la Comunidad de Madrid
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto regular la Función Pública de la Comunidad de Madrid y el régimen jurídico del personal al servicio de la misma, en cumplimiento de lo establecido en el Estatuto de Autonomía y en el marco de la legislación básica del Estado.
+
+### Artículo 2
+
+Artículo 2.
+Ejercen la Función Pública de la Comunidad de Madrid el conjunto de personas vinculadas a la misma por una relación profesional de empleo.
+
+### Artículo 3
+
+Artículo 3.
+1. La presente Ley será de aplicación a todo el personal al servicio de la Administración regional y a las demás Instituciones de la Comunidad de Madrid, con las especialidades que, en cada caso, señala la Ley.
+2. En aplicación de la Ley podrán dictarse normas específicas para adecuarla a las peculiaridades del personal sanitario, docente e investigador.
+3. Queda excluido del ámbito de la presente Ley el personal al servicio de la Asamblea de Madrid.
+
+### Artículo 4
+
+Artículo 4.
+La Legislación estatal será supletoria en las materias no reguladas por la presente Ley y demás disposiciones de la Comunidad de Madrid sobre su personal.
+
+## CAPÍTULO II
+
+Personal al servicio de la Comunidad de Madrid
+
+### Artículo 5
+
+Artículo 5.
+El personal de la Comunidad de Madrid se integra por:
+a) Los funcionarios de carrera.
+b) Los funcionarios interinos.
+c) El personal laboral.
+
+## CAPÍTULO III
+
+Órganos superiores de la Función Pública
+
+### Artículo 6
+
+Artículo 6.
+Son Órganos superiores de la Función Pública:
+a) El Consejo de Gobierno.
+b) El Consejero de Presidencia.
+c) El Consejo Regional de la Función Pública.
+
+## Sección primera
+
+Sección primera. El Consejo de Gobierno
+
+### Artículo 7
+
+Artículo 7.
+1. El Consejo de Gobierno establece la política de personal dependiente de la Comunidad de Madrid, dirige su desarrollo y ejecución y ejerce la potestad reglamentaria en la materia.
+2. En particular, corresponde al Consejo de Gobierno:
+a) Establecer, a propuesta del Consejero de Presidencia, las directrices con arreglo a las cuales ejercerán su competencia en materia de personal los distintos Órganos de la Administración de la Comunidad.
+b) Aprobar los Proyectos de Ley y los Reglamentos en materia de personal.
+c) Aprobar, a propuesta de la Consejería de Presidencia, las relaciones y normas de valoración de los puestos de trabajo, acordando su publicación.
+d) Aprobar el número de empleos, con sus características y retribuciones, reservados al personal eventual, dentro de los créditos presupuestarios consignados al efecto.
+e) Aprobar la oferta anual de empleo público.
+f) Aprobar las instrucciones a que deberán atenerse los representantes de la Administración de la Comunidad cuando proceda la negociación con la representación sindical de los funcionarios públicos de sus condiciones de trabajo, así como dar validez y eficacia a los acuerdos alcanzados mediante su aprobación expresa y formal, estableciendo las condiciones de empleo para los casos en que no se llegue al acuerdo en la negociación.
+g) Establecer las instrucciones a que deberá atenerse la representación de la Administración en la negociación colectiva con el personal sujeto al Derecho Laboral.
+h) Fijar anualmente en el Proyecto de Ley de Presupuestos, a propuesta de la Consejería de Presidencia, las normas y directrices sobre política de gasto del régimen retributivo del personal a que esta Ley se refiere. A tales efectos, la Consejería de Economía y Hacienda propondrá los límites de crecimiento del gasto de personal de cada ejercicio en el marco de la política económica de la Comunidad.
+i) Aprobar la programación a medio y largo plazo de las necesidades del personal.
+j) Aprobar los criterios generales de promoción del personal.
+k) Aprobar los intervalos de niveles que correspondan a los Cuerpos de Funcionarios.
+l) Decidir las propuestas de resolución de expedientes disciplinarios que impliquen separación definitiva del servicio de los funcionarios.
+ll) Cuantas otras funciones le atribuya la normativa legal.
+
+## Sección segunda
+
+Sección segunda. Del Consejero de Presidencia
+
+### Artículo 8
+
+Artículo 8.
+1. Corresponde al Consejero de Presidencia el desarrollo general, la coordinación y el control de la ejecución de la política del Consejo de Gobierno en materia de personal.
+2. En particular, le corresponde:
+a) Elaborar los proyectos normativos en materia de personal al servicio de la Comunidad de Madrid. Cuando se trate de normas referidas exclusivamente a los funcionarios de una Consejería, será preceptivo el informe o consulta de ésta.
+b) Aplicar en el marco de la política presupuestaria las normas y directrices a que deberán ajustarse los gastos y el régimen retributivo del personal.
+c) Elaborar, desarrollar y coordinar los planes generales tendentes a mejorar el rendimiento en los servicios y la formación y promoción del personal.
+d) Vigilar y ejercer la inspección superior del cumplimiento de las leyes y disposiciones relativas al personal y a la organización de la Administración de la Comunidad de Madrid.
+e) Elaborar el proyecto de oferta anual de empleo público.
+f) Elaborar la normativa de funcionamiento del Registro General de Personal.
+g) Elaborar la propuesta de relaciones de puestos de trabajo y su valoración.
+h) Elaborar la propuesta sobre los intervalos de niveles de los Cuerpos, así como los de los grados que han de corresponder a los funcionarios de la Comunidad.
+i) Convocar las pruebas selectivas para funcionarios y nombrar a quienes las hayan superado.
+j) Resolver las situaciones de los funcionarios de la Administración regional y los expedientes de incompatibilidad de actividades.
+k) (Suprimida).
+l) Autorizar las pruebas selectivas para el personal laboral.
+ll) Mantener la adecuada coordinación con los Órganos de las demás Administraciones Territoriales competentes en materia de Función Pública.
+m) Elaborar las plantillas presupuestarias en función de la relación de puestos de trabajo, a la vista de las propuestas de los diferentes Servicios, y de acuerdo con las directrices de la política de gastos de personal que fije el Consejo de Gobierno.
+n) Designar la representación de la Administración en los Convenios Colectivos de ámbito general, marco o que afecten a varias Consejerías.
+ñ) Informar, junto con la Consejería de Economía y Hacienda, con carácter previo a su firma, los Convenios Colectivos, revisiones salariales, acuerdos de adhesión o extensión –en todo o en parte– a otros Convenios Colectivos de ámbito sectorial y cualquier otorgamiento unilateral de mejoras retributivas individuales o colectivas.
+o) Elevar preceptivamente a informe y dictamen de la Consejería de Economía y Hacienda, sobre la financiación y adecuación a la estructura presupuestaria, los expedientes que puedan comportar aumento de gasto de personal no dotado.
+p) Aprobar la jornada de trabajo de los funcionarios.
+q) Cuantas otras competencias le atribuya la normativa vigente.
+3. Por el Consejero de Presidencia se requerirá preceptivamente informe o consulta al Consejo Regional de la Función Pública sobre las propuestas contenidas en los apartados e), g), k), i) y l) del presente artículo.
+Se suprime la letra k) del apartado 2 por el art. 10.1 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## Sección tercera
+
+Sección tercera. El Consejo Regional de la Función Pública
+
+### Artículo 9
+
+Artículo 9.
+(Derogado).
+Se deroga por la disposición derogatoria única.h) de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Se modifica por el art. 4 de la Ley 15/1996, de 23 de diciembre. Ref. BOE-A-1997-13742.
+
+### Artículo 10
+
+Artículo 10.
+(Derogado).
+Se deroga por la disposición derogatoria única.h) de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+
+## CAPÍTULO IV
+
+El Registro de Personal
+
+### Artículo 11
+
+Artículo 11.
+1. El personal de la Comunidad de Madrid figurará inscrito en el Registro de Personal, que constará de un banco de datos informatizados y estará a cargo de la Consejería de Presidencia. El Registro de Personal de la Comunidad de Madrid se coordinará con los Registros de Personal de las demás Administraciones Públicas, y en especial con el Registro Central de la Administración del Estado.
+2. En el Registro de Personal no sólo constará la inscripción inicial individualizada, sino también todos los actos que afecten a la vida administrativa del personal inscrito, sin que pueda figurar dato alguno relativo a raza, religión u opinión.
+3. Cada Consejería, Organismo Autónomo, Empresa o Institución de la Comunidad de Madrid estará obligada a facilitar al Registro los datos iniciales, así como mantener permanentemente actualizada la información. El procedimiento registral se efectuará en la forma que reglamentariamente se determine, si bien nadie podrá ser incluido en nómina sin haber sido inscrito antes en el Registro de personal, el cual deberá notificarse siempre y con carácter previo a cualquier resolución o acto administrativo que implique variaciones en nómina.
+4. El personal tendrá derecho a conocer los datos que, afectando a su expediente individual, figuren inscritos informáticamente en el Registro de Personal, así como a obtener certificación de los mismos. En todo caso, la utilización de cualquiera de los datos que conste en el Registro estará sometida a las limitaciones previstas en el artículo 18.4 de la Constitución.
+
+## TÍTULO II
+
+De las relaciones de puestos de trabajo
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 12
+
+Artículo 12.
+1. Los puestos de trabajo constarán en una relación que se ordenará por unidades orgánicas o entidades de la Comunidad que tengan a su cargo los programas presupuestarios de gasto.
+2. Dentro de cada unidad orgánica las relaciones de puestos de trabajo distinguirán los correspondientes a funcionarios de los del personal laboral, conforme a los criterios establecidos en el artículo 14.
+3. En las relaciones se detallarán los puestos, su número y las características de los que hayan de ser ocupados por personal eventual.
+
+### Artículo 13
+
+Artículo 13.
+1. Las relaciones de puestos de trabajo son el instrumento técnico a través del cual el Consejo de Gobierno racionaliza y ordena las plantillas del personal, determinando sus efectivos de acuerdo con las necesidades actuales de los servicios y precisando los requisitos exigidos para el desempeño de cada puesto, así como su valoración.
+2. Las relaciones de puestos de trabajo tendrán carácter público y su aprobación corresponde al Consejo de Gobierno de la Comunidad, a propuesta del Consejero de Presidencia.
+
+### Artículo 14
+
+Artículo 14.
+La adscripción de funcionarios o laborales a los diferentes Servicios de la Comunidad se llevará a cabo en función de las características de cada puesto de trabajo, que se determinarán en la relación orgánica que habrá de aprobarse por el Consejo de Gobierno de la Comunidad.
+Los criterios de clasificación de las relaciones o puestos de trabajo tomarán como base los siguientes aspectos:
+1. Los puestos de trabajo de los Servicios Centrales de la Comunidad quedan adscritos a funcionarios públicos cuando supongan el ejercicio de actividades de asesoramiento, autoridad, inspección y control de la Administración. No obstante, el Consejo de Gobierno podrá reservar a funcionarios otros puestos cuando la naturaleza de la actividad así lo aconseje.
+2. Los puestos de trabajo de los Órganos Especiales de Gestión y Organismos Autónomos se clasificarán como de naturaleza laboral, exceptuando aquellos puestos que impliquen ejercicio de autoridad, inspección y control de la actividad del Organismo, ejercitado por la Administración matriz a la que estén adscritos, que se reservarán a funcionarios. También podrán reservarse a funcionarios determinados puestos cuando la naturaleza de la actividad así lo aconseje y según propuesta motivada del Consejo de Administración respectivo.
+No obstante, en determinados órganos especiales de gestión u Organismos Autónomos podrán clasificarse todos los puestos de trabajo como adscritos a funcionarios. Dicha clasificación tomará como base los criterios recogidos en el apartado 1 del presente artículo.
+3. Los puestos de trabajo de las empresas públicas de la Comunidad se clasificarán como adscritos a personal laboral.
+Clasificados los puestos de trabajo según lo previsto en este artículo las plazas de personal funcionario y laboral que deban cambiar de naturaleza se declararán a extinguir. En este caso, el Consejo de Gobierno, mediante Decreto, podrá establecer normas de conversión que faciliten la adecuación de los efectivos a la naturaleza de las plazas, respetando la voluntad de opción de los interesados.
+El personal funcionario que pudiera pasar por este sistema a la condición de laboral fijo, será declarado en excedencia voluntaria en su plantilla de origen.
+El personal laboral podrá adquirir la condición de funcionario a través de alguno de los sistemas de acceso previstos en esta Ley.
+
+### Artículo 15
+
+Artículo 15.
+1. La relación de puestos de trabajo indicará obligatoriamente, para cada uno de ellos:
+a) Su denominación.
+b) Sus características esenciales.
+c) La posición que le corresponde dentro de la organización.
+d) Los requisitos necesarios para su desempeño.
+2. Tratándose de puestos de trabajo atribuidos a funcionarios públicos, indicará además:
+a) El Grupo, Cuerpo o Escala que corresponda.
+b) El nivel en que el puesto haya sido clasificado.
+c) En su caso, el complemento específico que tenga atribuido, con mención expresa de los factores que con él se retribuyen y de su valoración.
+d) La forma de provisión.
+
+## CAPÍTULO II
+
+Plantillas presupuestarias
+
+### Artículo 16
+
+Artículo 16.
+Los Presupuestos de la Comunidad de Madrid determinarán las plantillas presupuestarias o relación de plazas dotadas que correspondan a cada uno de los Grupos o Cuerpos de funcionarios y a cada uno de los grupos de clasificación del personal laboral.
+
+### Artículo 17
+
+Artículo 17.
+1. Las plantillas presupuestarias correspondientes a funcionarios relacionarán las dotaciones crediticias ordenadas por los conceptos siguientes:
+a) Retribuciones básicas correspondientes a cada uno de los grupos.
+b) Complementos de destino correspondientes a los puestos de cada nivel.
+c) Complementos específicos de los puestos que lo tengan asignado.
+d) Complemento de productividad expresado en un porcentaje del coste total del personal correspondiente a los programas y Órganos que se determine.
+e) Gratificaciones.
+2. En relación al personal laboral, las plantillas presupuestarias incluirán las dotaciones de créditos ordenadas según los conceptos retributivos abonables a este personal en función de lo establecido en los Convenios Colectivos que resulten de aplicación.
+3. En los Presupuestos se consignarán también las dotaciones globales para abonar al personal al servicio de la Administración las indemnizaciones a que tengan derecho en razón del servicio, así como las previsiones para ejecutar las sentencias firmes de los Tribunales que reconozcan al personal de la Comunidad Autónoma, individual o colectivamente, derechos de contenido económico.
+4. Se consignarán, asimismo, las dotaciones globales para retribuir los trabajos ocasionales o urgentes que no correspondan a puestos de trabajo por razón de su falta de permanencia o previsibilidad.
+5. Las dotaciones para el personal eventual expresarán las correspondientes a la Presidencia de la Comunidad y las que correspondan a cada una de las Consejerías.
+
+## TÍTULO III
+
+De la oferta de empleo de la Comunidad
+
+## CAPÍTULO I
+
+De la oferta de empleo
+
+### Artículo 18
+
+Artículo 18.
+1. Aprobada la Ley de Presupuestos de la Comunidad de Madrid, y en el primer trimestre del año natural, se procederá a publicar la oferta de empleo público regional.
+2. La oferta de empleo público comprenderá todas las plazas, tanto de funcionarios como de personal laboral, referidas a la Administración de la Comunidad, de sus organismos autónomos y Órganos especiales de gestión, que se encuentren dotadas presupuestariamente y no hayan sido cubiertas por los procedimientos internos de provisión de puestos de trabajo que esta Ley establece, o por los correspondientes al personal laboral.
+3. Cada Consejería propondrá las relaciones de plazas vacantes que deban cubrirse en el correspondiente ejercicio presupuestario, así como las previsiones temporales sobre la evolución y cobertura de las restantes.
+4. El Consejero de Presidencia recibidas las propuestas de cada Consejería, elaborará, previa consulta al Consejo Regional de la Función Pública, el plan y oferta de empleo público regional, que será aprobado por el Consejo de Gobierno de la Comunidad, y en el que se expresará:
+a) La totalidad de las plazas vacantes debidamente clasificadas por Grupos y Cuerpos de funcionarios y por Grupos y niveles laborales.
+b) Las plazas que deban cubrirse en el correspondiente ejercicio presupuestario.
+c) Las previsiones temporales sobre evolución y cobertura de las restantes.
+d) Los demás extremos que reglamentariamente se determinen.
+Se suspende para el año 1997 el apartado 2, con las salvedades indicadas, por la disposición adicional 4 de la Ley 14/1996, de 23 de diciembre. Ref. BOCM-m-1996-90002.
+ Se suspende para el año 1996 el apartado 2, con las salvedades indicadas, por la disposición adicional 6 de la Ley 20/1995, de 22 de diciembre. Ref. BOE-A-1996-7682.
+ Se suspende para el año 1995 el apartado 2, con las salvedades indicadas, por la disposición adicional 23 de la Ley 13/1994, de 27 de diciembre. Ref. BOE-A-1995-7160.
+ Se suspende para el año 1994, en cuanto a número de vacantes y plazo, por la disposición transitoria 2 de la Ley 11/1993, de 30 de diciembre. Ref. BOE-A-1994-3924.
+ Se suspende para el año 1993, en cuanto a número de vacantes y plazo, por la disposición transitoria 3 de la Ley 8/1992, de 23 de diciembre. Ref. BOCM-m-1993-90005.
+
+### Artículo 19
+
+Artículo 19.
+1. Publicada la oferta, el Consejero de Presidencia, previa propuesta de las Consejerías afectadas cuando así corresponda, procederá a convocar en los tres meses siguientes a la entrada en vigor de la Ley de Presupuestos, las pruebas selectivas de acceso para las plazas comprometidas en la oferta y, en su caso, hasta un 10 por 100 adicional.
+2. Excepcionalmente, y si las necesidades del servicio, apreciadas por el Consejo de Gobierno, así lo aconsejan, podrá procederse, previo informe del Consejo Regional de la Función Pública, a la aprobación y publicación de una oferta pública adicional, con la ulterior convocatoria de las pruebas selectivas para la cobertura de las vacantes.
+Téngase en cuenta que queda suspendido durante el año 2026 el apartado 1, sin perjuicio del cumplimiento del plazo máximo de ejecución de la Oferta de Empleo Público de la Comunidad de Madrid de acuerdo con la normativa básica de aplicación, según establece la disposición adicional 1 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3218
+Se suspende para el año 2026 el apartado 1, por la disposición adicional 1 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3218
+ Se suspende para el año 2025 el apartado 1, por la disposición adicional 2 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
+ Se suspende para el año 2024 el apartado 1, por la disposición adicional 2 de la Ley 15/2023, de 27 de diciembre. Ref. BOE-A-2024-10765
+ Se suspende para el año 2022 el apartado 1, por la disposición adicional 2 de la Ley 4/2021, de 23 de diciembre. Ref. BOE-A-2022-1194
+ Se suspende para el año 2018 el apartado 1, por la disposición adicional 2 de la Ley 12/2017, de 26 de diciembre. Ref. BOE-A-2018-1611
+ Se suspende para el año 2017 el apartado 1, por la disposición adicional 2 de la Ley 6/2017, de 11 de mayo. Ref. BOE-A-2017-10929
+ Se suspende para el año 2016 el apartado 1, por la disposición adicional 2 de la Ley 6/2015, de 23 de diciembre. Ref. BOE-A-2016-2869.
+ Se suspende para el año 2015 el apartado 1, por la disposición adicional 2 de la Ley 3/2014, de 22 de diciembre. Ref. BOE-A-2015-1955.
+ Se suspende para el año 2014 el apartado 1, por la disposición adicional 2 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-3253.
+ Se suspende para el año 2013 el apartado 1, por la disposición adicional 2 de la Ley 7/2012, de 26 de diciembre. Ref. BOE-A-2013-2684.
+ Se suspende para el año 2012 el apartado 1, por la disposición adicional 2 de la Ley 5/2011, de 23 de diciembre. Ref. BOE-A-2012-2979.
+ Se suspende para el año 2011 el apartado 1, por la disposición adicional 2 de la Ley 8/2010, de 23 de diciembre. Ref. BOE-A-2011-4633.
+ Se suspende para el año 2010 el apartado 1, por la disposición adicional 2 de la Ley 9/2009, de 23 de diciembre. Ref. BOE-A-2010-4182.
+ Se suspende para el año 2009 el apartado 1, por la disposición adicional 2 de la Ley 2/2008, de 22 de diciembre. Ref. BOE-A-2009-4513.
+ Se suspende para el año 2008 el apartado 1, por la disposición adicional 3 de la Ley 5/2007, de 21 de diciembre. Ref. BOE-A-2008-3746.
+ Se suspende para el año 2007 el apartado 1, por la disposición adicional 3 de la Ley 3/2006, de 22 de diciembre. Ref. BOE-A-2007-9768.
+ Se suspende para el año 2006 el apartado 1, por la disposición adicional 3 de la Ley 6/2005, de 23 de diciembre. Ref. BOE-A-2006-3771.
+ Se suspende para el año 2005 el apartado 1, por la disposición adicional 3 de la Ley 4/2004, de 28 de diciembre. Ref. BOE-A-2005-2731.
+ Se suspende para el año 2004 el apartado 1, por la disposición adicional 3 de la Ley 1/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12574.
+ Se suspende para el año 2003 el apartado 1, por la disposición adicional 3 de la Ley 14/2002, de 20 de diciembre. Ref. BOE-A-2003-4508.
+ Se suspende para el año 2002 el apartado 1, por la disposición adicional 3 de la Ley 13/2001, de 26 de diciembre. Ref. BOE-A-2002-4376.
+ Se suspende para el año 2001 el apartado 1, por la disposición adicional 4 de la Ley 17/2000, de 27 de diciembre. Ref. BOE-A-2001-5583.
+ Se suspende para el año 2000 el apartado 1, por la disposición adicional 3 de la Ley 23/1999, de 27 de diciembre. Ref. BOE-A-2000-3765.
+ Se suspende para el año 1999 el apartado 1, por la disposición adicional 3 de la Ley 25/1998, de 28 de diciembre. Ref. BOE-A-1999-12087.
+ Se suspende para el año 1998 el apartado 1, con las salvedades indicadas, por la disposición adicional 4 de la Ley 24/1997, de 26 de diciembre. Ref. BOE-A-1998-20430.
+ Se suspende para el año 1997 el apartado 1, con las salvedades indicadas, por la disposición adicional 4 de la Ley 14/1996, de 23 de diciembre. Ref. BOCM-m-1996-90002.
+ Se suspende para el año 1996 el apartado 1, con las salvedades indicadas, por la disposición adicional 6 de la Ley 20/1995, de 22 de diciembre. Ref. BOE-A-1996-7682.
+ Se suspende para el año 1995 el apartado 1, con las salvedades indicadas, por la disposición adicional 23 de la Ley 13/1994, de 27 de diciembre. Ref. BOE-A-1995-7160.
+ Se suspende para el año 1994, en cuanto a número de vacantes y plazo, por la disposición transitoria 2 de la Ley 11/1993, de 30 de diciembre. Ref. BOE-A-1994-3924.
+ Se suspende para el año 1993, en cuanto a número de vacantes y plazo, por la disposición transitoria 3 de la Ley 8/1992, de 23 de diciembre. Ref. BOCM-m-1993-90005.
+
+### Artículo 20
+
+Artículo 20.
+En las convocatorias para los diferentes procedimientos selectivos se harán constar, en todo caso, los siguientes datos:
+a) Número y características de las plazas vacantes.
+b) Requisitos exigidos a los candidatos para participar en cada uno de los procedimientos selectivos, que deberán acreditarse en todo caso antes de la toma de posesión o de la formalización del correspondiente contrato.
+c) Sistema de selección, forma de desarrollo de las pruebas y de valoración de las mismas.
+d) Programas de la oposición o del concurso‑oposición, cuando se trata de estos sistemas y baremos de valoración de méritos si se tratase de concurso o de concurso‑oposición.
+e) Composición del tribunal u Órgano técnico de selección.
+f) Calendario para la realización de las pruebas.
+g) Indicación del centro u oficina pública donde se expondrán las sucesivas comunicaciones, sin perjuicio de que puedan, además, publicarse en el «Boletín Oficial de la Comunidad», o notificarse directamente a los interesados.
+h) Indicación, en su caso, de los cursos de formación subsiguientes a las pruebas, con expresión de si tienen o no carácter selectivo.
+
+### Artículo 21
+
+Artículo 21.
+1. La selección de los funcionarios se realizará preferentemente mediante los sistemas de oposición y concurso‑oposición.
+2. El sistema de concurso tiene carácter excepcional; sólo se aplicará cuando se trate de seleccionar para puestos de trabajo de funcionarios que por sus características y tecnificación especial necesiten ser cubiertos por personal de experiencia o méritos muy singulares.
+
+### Artículo 22
+
+Artículo 22.
+1. La selección del personal laboral permanente se realizará por convocatoria pública y mediante el sistema de oposición y concurso‑oposición, salvo cuando por la naturaleza de las funciones a desempeñar, o el número de aspirantes u otras circunstancias, resulte más adecuado el de concurso.
+2. La selección del personal laboral no permanente para el desempeño de funciones laborales se realizará mediante convocatoria y concurso, salvo en los casos de urgencia declarada, que deberá ser comunicada razonadamente al Consejo Regional de la Función Pública.
+
+### Artículo 23
+
+Artículo 23.
+1. El Reglamento para la selección de personal de la Comunidad regulará los diferentes sistemas de selección, criterios para composición y funcionamiento de los Tribunales y Órganos técnicos de selección, así como la presencia en los mismos de los representantes del personal, los criterios generales para la confección de los baremos y aquellos aspectos necesarios en esta materia en desarrollo de la Ley.
+2. Los Tribunales u Órganos técnicos de selección, cuya composición concreta se anunciará en cada convocatoria, actuarán con total autonomía funcional y sus miembros serán responsables de la objetividad del procedimiento selectivo y del cumplimiento de las bases de la convocatoria, incluidos los plazos para la realización y valoración de las pruebas y para la publicación de los resultados.
+3. Todas las pruebas selectivas deberán estar concluidas antes del 1 de octubre de cada año, sin perjuicio de los cursos selectivos de formación que puedan establecerse.
+Téngase en cuenta que queda suspendido durante el año 2026 el apartado 3, sin perjuicio del cumplimiento del plazo máximo de ejecución de la Oferta de Empleo Público de la Comunidad de Madrid de acuerdo con la normativa básica de aplicación, según establece la disposición adicional 1 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3218
+4. Se garantizará la idoneidad de las personas integrantes de los Tribunales u Órganos técnicos de selección para enjuiciar los conocimientos y aptitudes en relación a los puestos de trabajo a desempeñar.
+Los miembros de los tribunales podrán no ser personal de la Comunidad, pero deberán poseer la mitad más uno de aquéllos, al menos, la titulación correspondiente a la misma área de conocimientos que la exigida a los candidatos para el ingreso; y la totalidad de los miembros del tribunal titulación de igual o superior nivel académico.
+5. Los Tribunales u Órganos técnicos de selección podrán disponer la incorporación a sus trabajos de asesores especialistas cuando resulte necesario para el mejor desarrollo de los procedimientos de selección. Su papel se limitará a la colaboración técnica que les solicite el Tribunal u Órgano de selección dentro de su especialidad. El número de asesores vendrá fijado en la correspondiente convocatoria.
+Se suspende para el año 2026 el apartado 3, por la disposición adicional 1 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3218
+ Se suspende para el año 2025 el apartado 3, por la disposición adicional 2 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
+ Se suspende para el año 2024 el apartado 3, por la disposición adicional 2 de la Ley 15/2023, de 27 de diciembre. Ref. BOE-A-2024-10765
+ Se suspende para el año 2022 el apartado 3, por la disposición adicional 2 de la Ley 4/2021, de 23 de diciembre. Ref. BOE-A-2022-1194
+ Se suspende para el año 2018 el apartado 3, por la disposición adicional 2 de la Ley 12/2017, de 26 de diciembre. Ref. BOE-A-2018-1611
+ Se suspende para el año 2017 el apartado 3, por la disposición adicional 2 de la Ley 6/2017, de 11 de mayo. Ref. BOE-A-2017-10929
+ Se suspende para el año 2016 el apartado 3, por la disposición adicional 2 de la Ley 6/2015, de 23 de diciembre. Ref. BOE-A-2016-2869.
+ Se suspende para el año 2015 el apartado 3, por la disposición adicional 2 de la Ley 3/2014, de 22 de diciembre. Ref. BOE-A-2015-1955.
+ Se suspende para el año 2014 el apartado 3, por la disposición adicional 2 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-3253.
+ Se suspende para el año 2013 el apartado 3, por la disposición adicional 2 de la Ley 7/2012, de 26 de diciembre. Ref. BOE-A-2013-2684.
+ Se suspende para el año 2012 el apartado 3, por la disposición adicional 2 de la Ley 5/2011, de 23 de diciembre. Ref. BOE-A-2012-2979.
+ Se suspende para el año 2011 el apartado 3, por la disposición adicional 2 de la Ley 8/2010, de 23 de diciembre. Ref. BOE-A-2011-4633.
+ Se suspende para el año 2010 el apartado 3, por la disposición adicional 2 de la Ley 9/2009, de 23 de diciembre. Ref. BOE-A-2010-4182.
+ Se suspende para el año 2009 el apartado 3, por la disposición adicional 2 de la Ley 2/2008, de 22 de diciembre. Ref. BOE-A-2009-4513.
+ Se suspende para el año 2008 el apartado 3, por la disposición adicional 3 de la Ley 5/2007, de 21 de diciembre. Ref. BOE-A-2008-3746.
+ Se suspende para el año 2007 el apartado 3, por la disposición adicional 3 de la Ley 3/2006, de 22 de diciembre. Ref. BOE-A-2007-9768.
+ Se suspende para el año 2006 el apartado 3, por la disposición adicional 3 de la Ley 6/2005, de 23 de diciembre. Ref. BOE-A-2006-3771.
+ Se suspende para el año 2005 el apartado 3, por la disposición adicional 3 de la Ley 4/2004, de 28 de diciembre. Ref. BOE-A-2005-2731.
+ Se suspende para el año 2004 el apartado 3, por la disposición adicional 3 de la Ley 1/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12574.
+ Se suspende para el año 2003 el apartado 3, por la disposición adicional 3 de la Ley 14/2002, de 20 de diciembre. Ref. BOE-A-2003-4508.
+ Se suspende para el año 2002 el apartado 3, por la disposición adicional 3 de la Ley 13/2001, de 26 de diciembre. Ref. BOE-A-2002-4376.
+ Se suspende para el año 2001 el apartado 3, por la disposición adicional 4 de la Ley 17/2000, de 27 de diciembre. Ref. BOE-A-2001-5583.
+ Se suspende para el año 2000 el apartado 3, por la disposición adicional 3 de la Ley 23/1999, de 27 de diciembre. Ref. BOE-A-2000-3765.
+ Se suspende para el año 1999 el apartado 3, por la disposición adicional 3 de la Ley 25/1998, de 28 de diciembre. Ref. BOE-A-1999-12087.
+ Se suspende para el año 1998 el apartado 3, con las salvedades indicadas, por la disposición adicional 4 de la Ley 24/1997, de 26 de diciembre. Ref. BOE-A-1998-20430.
+ Se suspende para el año 1997 el apartado 3, con las salvedades indicadas, por la disposición adicional 4 de la Ley 14/1996, de 23 de diciembre. Ref. BOCM-m-1996-90002.
+ Se suspende para el año 1996 el apartado 3, con las salvedades indicadas, por la disposición adicional 6 de la Ley 20/1995, de 22 de diciembre. Ref. BOE-A-1996-7682.
+
+### Artículo 24
+
+Artículo 24.
+1. A la vista de la valoración de las pruebas selectivas y, en su caso, de los méritos, el Tribunal u Órgano técnico de selección declarará seleccionados a los candidatos que hayan obtenido las mayores puntuaciones.
+2. Ningún Tribunal y Órgano de selección puede declarar seleccionados a un número mayor de candidatos que el de plazas objeto de convocatoria, bajo sanción de nulidad de pleno derecho y sin perjuicio de la responsabilidad personal de sus componentes.
+3. La relación de seleccionados se presentará ordenada desde la mayor a la menor de las puntuaciones obtenidas.
+4. La elección de los puestos de trabajo correspondientes a las plazas convocadas se realizará por los seleccionados según el orden de puntuación definitivamente obtenido, sin perjuicio de lo que establece el número 4 del artículo 54 de la Ley.
+
+## CAPÍTULO II
+
+De la formación
+
+### Artículo 25
+
+Artículo 25.
+1. Corresponde a la Consejería de Presidencia la selección y organización de los cursos de formación subsiguientes a las pruebas selectivas, así como la programación y realización principal de la formación para la carrera de los funcionarios de la Comunidad.
+2. La Consejería de Presidencia cuidará en especial de la selección y formación del personal de la Administración de la Comunidad en las peculiaridades económicas, sociales, culturales, institucionales y jurídicas de la misma.
+3. La Consejería de Presidencia podrá establecer convenios con la Administración del Estado, especialmente con el Instituto Nacional de Administración Pública, a los efectos establecidos en los apartados anteriores. Asimismo, podrá concertar convenios con las Corporaciones Locales de su ámbito territorial, al objeto de cooperar en la selección y formación del personal de las mismas.
+
+## TÍTULO IV
+
+De los funcionarios de la Comunidad
+
+## CAPÍTULO I
+
+Disposiciones Generales
+
+### Artículo 26
+
+Artículo 26.
+1. Son funcionarios propios de la Comunidad de Madrid los que en virtud de nombramiento legal efectuado por el Órgano competente de la misma quedan vinculados a ella por una relación de servicios de carácter profesional y permanente, tanto cuando ocupen puestos de trabajo presupuestariamente dotados como cuando se hallen en alguna de las situaciones previstas en el capítulo VI de este título.
+2. Asimismo pertenecen de pleno derecho a la Administración de la Comunidad de Madrid, con el carácter de funcionarios propios de la misma, los que, a la entrada en vigor de la presente Ley, se encuentren en alguno de los supuestos contemplados en su disposición adicional primera.
+3. En todo caso, la relación de servicio de los funcionarios de la Comunidad tiene naturaleza estatutaria y la determinación de sus condiciones de empleo corresponde al Derecho Administrativo.
+
+### Artículo 27
+
+Artículo 27.
+Los funcionarios de la Comunidad de Madrid se ordenarán en los siguientes grupos, de acuerdo con la titulación que se les haya exigido para el ingreso:
+Grupo A: Título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente.
+Grupo B: Título de Ingeniero Técnico, Diplomado Universitario, Arquitecto Técnico, Formación Profesional de Tercer Grado o equivalente.
+Grupo C: Título de Bachiller, Formación Profesional de Segundo Grado o equivalente.
+Grupo D: Título de Graduado Escolar, Formación Profesional de Primer Grado o equivalente.
+Grupo E: Certificado de Escolaridad.
+
+## CAPÍTULO II
+
+De la adquisición y pérdida de la condición de funcionario
+
+### Artículo 28
+
+Artículo 28.
+La condición de funcionario de la Comunidad de Madrid se adquiere por el cumplimiento sucesivo de los siguientes requisitos:
+a) Superar el sistema de selección.
+b) Nombramiento conferido por la autoridad competente.
+c) Jurar o prometer cumplir la Constitución, el Estatuto de Autonomía y las leyes, en el ejercicio de las funciones que le estén atribuidas.
+d) Tomar posesión de su puesto de trabajo en el plazo reglamentario.
+
+### Artículo 29
+
+Artículo 29.
+1. La condición de funcionario de la Comunidad de Madrid se perderá por alguna de las causas siguientes:
+a) Renuncia escrita del interesado.
+b) Imposición de sanción disciplinaria que suponga la separación del servicio, cuando aquélla adquiera firmeza.
+c) Pena principal o accesoria de inhabilitación absoluta o especial para cargo público.
+d) Pérdida de la nacionalidad española.
+e) Jubilación forzosa o voluntaria.
+2. La renuncia deberá ser aceptada por el Órgano competente de la Administración, entendiéndose concedida si en el plazo de quince días siguientes a su solicitud no hubiese declaración expresa.
+
+### Artículo 30
+
+Artículo 30.
+1. La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.
+No obstante, se podrá solicitar la prolongación de la permanencia en el servicio activo como máximo hasta que se cumplan setenta años de edad.
+El órgano competente para acordar la procedencia o no de la prolongación de la permanencia en el servicio activo, previo informe de la Consejería u organismo al que esté adscrito el funcionario, dictará resolución expresa y motivada sobre tal procedencia. Para ello se valorarán los siguientes aspectos:
+a) Las condiciones psicofísicas del funcionario, previo reconocimiento médico del mismo.
+b) Causas organizativas y funcionales.
+c) El desempeño personal del funcionario en el puesto de trabajo, cuya evaluación objetiva se hará en los términos que se establecerán reglamentariamente.
+Sin perjuicio de lo anterior, subsistirá la posibilidad de prórroga en el servicio activo, con objeto de completar el tiempo mínimo necesario para causar derecho a pensión de jubilación, de acuerdo con los requisitos y condiciones establecidos en el Régimen de Seguridad Social que sea aplicable.
+Lo dispuesto en el presente apartado no será de aplicación a los funcionarios que tengan normas específicas de jubilación.
+2. La jubilación se declarará también de oficio o a petición del funcionario, previa instrucción del correspondiente expediente, en los casos de incapacidad permanente, discapacidad o disminución o pérdida de facultades en grado tal que impida el correcto ejercicio de sus funciones.
+Ello, no obstante, si el funcionario se encuentra acogido al régimen de la Seguridad Social, se estará a lo que se establezca para estos casos en dicho sistema de previsión.
+3. Los funcionarios de la Comunidad de Madrid podrán solicitar la jubilación voluntaria cuando se den los supuestos previstos en la legislación del Estado.
+4. En el caso de funcionarios que, por exigencias especiales de las funciones que tengan encomendadas, requieran unas aptitudes físicas determinadas que se pierden, por lo general, en edades anteriores a la de la jubilación, se preverán reglamentariamente los mecanismos para que puedan prestar servicios complementarios para los que puedan resultar adecuados, previo, en su caso, el correspondiente curso de formación y siempre que se corresponda con su nivel de titulación y aptitudes.
+Se modifica el apartado 2 por el art. 1.1 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+ Se modifica el apartado 1 por el art. 9.1 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+
+## CAPÍTULO III
+
+De los Cuerpos de funcionarios
+
+### Artículo 31
+
+Artículo 31.
+El ingreso de los funcionarios de la Comunidad se efectuará para cubrir plazas de plantilla presupuestaria debidamente dotadas, las cuales pertenecerán en todo caso a un Grupo y a un Cuerpo de funcionarios, en los términos previstos en el título II de la presente Ley y ello con independencia de su posterior adscripción del funcionario a un puesto de trabajo individualizado según la relación confeccionada de acuerdo con lo previsto en la presente Ley.
+
+## Sección primera
+
+Sección primera. Clasificación de Cuerpos
+
+### Artículo 32
+
+Artículo 32.
+1. Los Cuerpos de funcionarios de la Comunidad de Madrid se clasifican en:
+a) Cuerpos de Administración General, cuando su cometido consista en tareas esencialmente administrativas, incluidas las de gestión, inspección, asesoramiento, control, ejecución y otras similares.
+b) Cuerpos de Administración Especial, cuando su cometido suponga exclusivamente el desempeño de funciones objeto de un oficio, profesión o titulación específica. En ningún caso podrá existir más de un Cuerpo que cumpla funciones similares o análogas a las de otro para cuyo ingreso se exija el mismo nivel de titulación.
+2. Cuando sea necesario, en los Cuerpos de funcionarios se distinguirán Escalas, por agrupación de titulaciones, y asimismo se distinguirán, en su caso, diferentes especialidades dentro de un mismo Cuerpo o Escala.
+Se modifica la letra a) del apartado 1 por el art. 8.1 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+## Sección segunda
+
+Sección segunda. Cuerpos de Administración General
+
+### Artículo 33
+
+Artículo 33.
+Son Cuerpos de Administración General los siguientes:
+a) En el Grupo A, el Cuerpo de Técnicos Superiores y el Cuerpo Superior de Gestión.
+b) En el Grupo B, el Cuerpo de Técnicos de Gestión.
+c) En el Grupo C, el Cuerpo de Administrativos.
+d) En el Grupo D, el Cuerpo de Auxiliares.
+Se modifica la letra a) por el art. 8.2 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+## Sección tercera
+
+Sección tercera. Cuerpos de Administración Especial
+
+### Artículo 34
+
+Artículo 34.
+Son Cuerpos de Administración Especial del Grupo A los siguientes:
+1) El Cuerpo de Técnicos Superiores de Salud Pública, en el que se distinguen las siguientes Escalas:
+a) Medicina y Cirugía.
+b) Farmacia.
+c) Veterinaria.
+d) Emergencia sanitaria.
+2) El Cuerpo de Ingenieros y Arquitectos Superiores, en el que se distinguen las siguientes Escalas:
+a) Ingeniería Superior.
+b) Arquitectura Superior.
+3) El Cuerpo de Técnicos Superiores Facultativos de Archivos, Bibliotecas y Museos.
+4) El Cuerpo de Letrados de la Comunidad de Madrid.
+5) El Cuerpo de Inspectores de Hacienda de la Comunidad de Madrid.
+6) El Cuerpo de Técnicos Superiores Especialistas, en el que se distinguen las siguientes Escalas:
+a) Docente.
+b) Seguridad y Salud en el Trabajo.
+c) Superior de Empleo.
+7) El Cuerpo de Técnicos Superiores Medioambientales.
+8) El Cuerpo Superior de Inspección Sanitaria, en el que se distinguirán las siguientes Escalas:
+a) Médicos de Inspección Sanitaria.
+b) Farmacéuticos de Inspección Sanitaria.
+9) El Cuerpo de Inspectores de Servicios Sociales.
+Se añade el apartado 9 por el art. 5.1 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se añade la letra c) al apartado 6 por el art. 11.1 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Se añade el apartado 8 por el art. 13.1 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se modifica el apartado 6 por el art. 10.1 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+ Se añade la letra d) al apartado 1 por el art. 2.1 de la Ley 4/2000, de 8 de mayo. Ref. BOE-A-2000-9792.
+ Se modifica por el art. 8.3 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+ Se modifica por el art. 6.1 de la Ley 28/1997, de 26 de diciembre. Ref. BOE-A-1998-20606.
+
+### Artículo 35
+
+Artículo 35.
+Son Cuerpos de Administración Especial del Grupo B los siguientes:
+1. El Cuerpo de Diplomados de Salud Pública, en el que se distinguen las siguientes Escalas:
+a) Salud Pública.
+b) Emergencia Sanitaria.
+2. El Cuerpo de Ingenieros y Arquitectos Técnicos en el que se distinguen las siguientes Escalas:
+a) Ingeniería Técnica.
+b) Arquitectura Técnica.
+3. El Cuerpo de Técnicos y Diplomados Especialistas, en el que se distinguen las siguientes Escalas:
+a) Ayudantes de Archivos Bibliotecas y Museos.
+b) Asistentes Sociales.
+c) Docente.
+d) Seguridad y Salud en el Trabajo.
+e) Gestión de Empleo.
+4. El Cuerpo de Subinspectores de Hacienda de la Comunidad de Madrid.
+5. El Cuerpo de Técnicos Medioambientales.
+6. El Cuerpo de Subinspección Sanitaria.
+Se añade el apartado 6 por el art. 13.2 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se modifica el apartado 3 por el art. 10.2 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+ Se modifica el apartado 1 por el art. 2.2 de la Ley 4/2000, de 8 de mayo. Ref. BOE-A-2000-9792.
+ Se modifica por el art. 8.4 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+### Artículo 36
+
+Artículo 36.
+Son Cuerpos de Administración Especial del Grupo C los siguientes:
+1. El Cuerpo de Técnicos Auxiliares de Administración Especial, en el que se distinguen las siguientes Escalas:
+a) Delineantes.
+b) Auxiliares de Archivos, Bibliotecas y Museos.
+c) Agentes forestales.
+d) Docente.
+2. El Cuerpo de Técnicos Auxiliares Medioambientales.
+3. Son Cuerpos de Administración Especial del Grupo D los siguientes:
+1. El Cuerpo de Guardas, en el cual se distingue la Escala de Guardas Forestales.
+2. El Cuerpo de Auxiliares Especialistas, en el cual se distingue la Escala de Auxiliar de Transporte Sanitario.
+Se modifica el apartado 3 por el art. 2.3 de la Ley 4/2000, de 8 de mayo. Ref. BOE-A-2000-9792.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 301, de 19 de diciembre de 2000. Ref. BOE-A-2001-739.
+ Se modifica por el art. 8.5 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+### Artículo 37
+
+Artículo 37.
+Pertenece a la Administración Especial el Cuerpo de Prevención y Extinción de Incendios, en el cual se distinguen las siguientes Escalas:
+a) Técnica o de Mando, compuesta por Oficial Jefe de Servicio, Oficial Jefe de Sección y Oficial.
+b) Ejecutiva u Operativa, compuesta por Suboficiales, Sargentos, Cabos, Bomberos‑Conductores y Bomberos.
+
+### Artículo 38
+
+Artículo 38.
+1. La modificación o supresión de los citados Cuerpos y Escalas o la creación de otros nuevos sólo podrá realizarse por Ley de la Asamblea de Madrid. Las Leyes de creación de Cuerpos o Escalas determinarán necesariamente:
+a) Denominación de los Cuerpos o Escalas que, en su caso, se establezcan.
+b) Funciones que asignen a las plazas que integran.
+c) Titulación exigida para el ingreso en el Cuerpo o Escala.
+2. Las especialidades que sean necesarias en cada Cuerpo o Escala serán establecidas por Decreto del Consejo de Gobierno.
+
+### Artículo 38 bis
+
+Artículo 38 bis.
+Pertenece a la Administración Especial el Cuerpo de Agentes Forestales, en el cual se distinguen las siguientes Escalas, de acuerdo con la Ley de Creación del Cuerpo de Agentes Forestales de la Comunidad de Madrid:
+a) Técnica, compuesta por las categorías de Técnico superior Agente forestal y Técnico medio Agente forestal.
+b) Operativa, compuesta por la categoría de Agente forestal.
+Se añade por la disposición adicional 3 de la Ley 1/2002, de 27 de marzo. Ref. BOE-A-2002-13252.
+
+## Sección cuarta
+
+Sección cuarta. Funciones de los Cuerpos
+
+### Artículo 39
+
+Artículo 39.
+1. Las funciones y titulación que corresponden a los Cuerpos de Administración General son las siguientes:
+a) Corresponde al Cuerpo de Técnicos Superiores de Administración General la realización de actividades administrativas de nivel superior y de carácter directivo, incluyendo las de inspección, ejecución, control, estudios, propuestas, asesoramiento y otras similares.
+Corresponde al Cuerpo Superior de Gestión la realización de actividades administrativas de gestión de nivel superior.
+La titulación necesaria para el acceso a ambos Cuerpos es la exigida para el Grupo A.
+b) Corresponde al Cuerpo de Técnicos de Gestión de Administración General la realización de tareas de colaboración en las actividades administrativas de nivel superior, así como la realización de tareas propias de gestión administrativa no específicas de los Cuerpos de Técnicos Superiores de Administración General y Superior de Gestión. La titulación necesaria para el acceso al Cuerpo es la exigida para el Grupo B.
+c) Corresponde al Cuerpo de Administrativos la realización de actividades de apoyo en las tareas administrativas de gestión, inspección, ejecución, control y similares, según el nivel de titulación y especialización. La titulación necesaria para el acceso al Cuerpo es la exigida para el Grupo C.
+d) Corresponde al Cuerpo de Auxiliares de Administración General la realización de las tareas de mecanografía, despacho de correspondencia, clasificación, transcripción y copia de documentos, archivo y cuantas actividades administrativas tengan carácter auxiliar, incluyendo la manipulación básica de máquinas y equipos de oficina, registros y similares. La titulación necesaria para el acceso al Cuerpo es la exigida para el Grupo D.
+2. A los Cuerpos de Administración Especial les corresponden las funciones que se derivan de la profesión o actividad específica de que se trate en cada Cuerpo, Escala y Especialidad, según la titulación superior, media o auxiliar exigida para el acceso.
+3. Son funciones del Cuerpo de Técnicos Superiores Especialistas las actividades objeto de la titulación de grado superior que se exija para su ingreso en el mismo.
+Para ingresar en dicho Cuerpo, será preciso estar en posesión de la titulación habilitante para el Grupo A y superar las correspondientes pruebas selectivas.
+4. Son funciones de la Escala Docente del Cuerpo de Técnicos Superiores Especialistas las actividades propias de la enseñanza para cuyo ejercicio se exija titulación de grado superior o equivalente a efectos docentes.
+Son funciones de la Escala Docente del Cuerpo de Técnicos y Diplomados Especialistas la realización de actividades propias de la enseñanza objeto de la titulación de grado medio o equivalente a efectos docentes.
+Son funciones de la Escala Docente del Cuerpo de Técnicos Auxiliares de Administración Especial la realización de funciones educativas en centros de educación infantil, para la que se exigirá la titulación superior de Formación Profesional en la especialidad de educación infantil o equivalente.
+5. Son funciones del Cuerpo de Técnicos Superiores Medioambientales las de informe, asesoramiento, planificación, gestión, inspección y control y otras similares de nivel superior referidas en todo caso al ámbito técnico medioambiental, incluido el manejo de equipos y aparatos necesarios para el desarrollo de las mismas, para cuyo ejercicio se requerirá la titulación superior correspondiente. Para ingresar en el Cuerpo de Técnicos Superiores Medioambientales será preciso estar en posesión de la titulación habilitante para el Grupo A y superar las correspondientes pruebas selectivas.
+Son funciones del Cuerpo de Técnicos Medioambientales, el apoyo en el desarrollo de las funciones del Cuerpo Superior, así como la realización de otras no específicas del Cuerpo de Técnicos Superiores Medioambientales incluido el manejo de equipos y aparatos necesarios para el desarrollo de las mismas. Para ingresar en el Cuerpo de Técnicos Medioambientales se precisará estar en posesión de la titulación habilitante para el Grupo B y superar las correspondientes pruebas selectivas.
+Son funciones del Cuerpo de Técnicos Auxiliares Medioambientales, las tareas de vigilancia y de apoyo a la de control e inspección ambiental, incluida la manipulación y el manejo de equipos y aparatos necesarios para el desarrollo de las mismas. Para ingresar en el Cuerpo de Técnicos Auxiliares Medioambientales será preciso estar en posesión de la titulación habilitante para el Grupo C y superar las pruebas selectivas correspondientes.
+6. Corresponde al Cuerpo de Subinspectores de Hacienda de la Comunidad de Madrid la realización de tareas de apoyo al Cuerpo de Inspectores de Hacienda de la Comunidad de Madrid así como la realización de tareas propias no atribuibles a este último, relativas a la gestión, inspección y recaudación de los tributos cedidos a la Comunidad de Madrid, o de los que se puedan ceder en el futuro; de los tributos propios y recargos de la Comunidad y de la recaudación de cualesquiera ingresos de derecho público que la Comunidad realice en favor de otras entidades.
+Para ingresar en el Cuerpo de Subinspectores, de Hacienda de la Comunidad de Madrid será preciso estar en posesión de la titulación habilitante para el Grupo B y superar las correspondientes pruebas selectivas.
+7. Son funciones de la Escala de Emergencia Sanitaria del Cuerpo de Técnicos Superiores de Salud Pública, la asistencia sanitaria especializada de forma inmediata a las víctimas en situaciones de urgencias y emergencias médicas, tanto in situ como durante su traslado en los servicios de transporte sanitario correspondientes, así como la adopción de las medidas de carácter sanitario que se consideren necesarias para la prestación de una adecuada intervención sanitaria de emergencia, en coordinación con los dispositivos sanitarios del ámbito de la atención primaria y especializada u hospitalaria implicados en la atención de dichas situaciones de emergencia, para cuyo ejercicio se exigirá la titulación de Licenciado en Medicina.
+8. Son funciones de la Escala de Emergencia Sanitaria del Cuerpo de Diplomados en Salud Pública, la asistencia sanitaria, propia de su titulación, de forma inmediata a las víctimas en situaciones de urgencias y emergencias, tanto in situ como durante su traslado en los servicios de transporte sanitario correspondientes, así como la adopción de las medidas operativas de carácter sanitario que se consideren necesarias, para cuyo ejercicio se requerirá la titulación de Diplomado Universitario en Enfermería.
+9. Son funciones de la Escala Auxiliar de Transporte Sanitario del Cuerpo de Auxiliares Especialistas, la conducción de vehículos para el transporte sanitario de víctimas en situaciones de urgencias y emergencias, colaborando, siguiendo las instrucciones del personal facultativo, en la recuperación y asistencia de los pacientes, así como en su traslado urgente a los Centros Sanitarios correspondientes, responsabilizándose del mantenimiento y conservación del vehículo y en general, de todas aquellas actividades necesarias para la correcta actuación de la Unidad de Transporte Sanitario. Para ingresar en dicho Cuerpo y Escala se precisará estar en posesión de la titulación habilitante para el Grupo D y superar las pruebas selectivas correspondientes.
+10. Corresponde a la Escala de Seguridad y Salud en el Trabajo del Cuerpo de Técnicos Superiores Especialistas, la realización de tareas de nivel superior relativas a la promoción, prevención e inspección en materia de seguridad y salud en el trabajo. Para ingresar en la Escala de Seguridad y Salud en el Trabajo del Cuerpo de Técnicos Superiores Especialistas, será necesario estar en posesión de la titulación habilitante para el Grupo A y superar las correspondientes pruebas selectivas.
+Corresponde a la Escala de Seguridad y Salud en el Trabajo del Cuerpo de Técnicos y Diplomados Especialistas, la realización de tareas de apoyo a la Escala de Seguridad y Salud en el Trabajo del Cuerpo de Técnicos Superiores Especialistas, así como la realización de aquellas otras tareas propias no atribuibles a esta última relativas a la promoción, prevención e inspección en materia de seguridad y salud en el trabajo. Para ingresar en la Escala de Seguridad y Salud en el Trabajo del Cuerpo de Técnicos y Diplomados Especialistas será necesario estar en posesión de la titulación habilitante para el Grupo B y superar las correspondientes pruebas selectivas.
+11. Corresponde a la Escala Superior de Empleo del Cuerpo de Técnicos Superiores Especialistas, la realización de tareas de nivel superior que se deriven de la gestión y ejecución en materia de trabajo, empleo y formación profesional. Para ingresar en la Escala Superior de Empleo del Cuerpo de Técnicos Superiores Especialistas será necesario estar en posesión de la titulación habilitante para el Grupo A y superar las correspondientes pruebas selectivas.
+12. Corresponde a la Escala de Gestión de Empleo del Cuerpo de Técnicos y Diplomados Especialistas, la realización de tareas de gestión y ejecución en materia de trabajo, empleo y la formación profesional ocupacional. Para ingresar en la Escala de Gestión de Empleo del Cuerpo de Técnicos y Diplomados Especialistas será necesario estar en posesión de la titulación habilitante para el Grupo B y superar las correspondientes pruebas selectivas.
+13. Son funciones del Cuerpo de Inspección Sanitaria las de inspección en el ámbito sanitario de conformidad con lo que se determine en la normativa vigente, la emisión de informes y asesoramiento en todas aquellas materias en que así se establezca en la normativa vigente, el control y evaluación de las diferentes prestaciones incluidas en el sistema sanitario de la Comunidad de Madrid, las dirigidas a garantizar los derechos y velar por el cumplimiento de los deberes de los usuarios reconocidos por el sistema sanitario de la Comunidad de Madrid, así como cualquier otra que en materia de inspección, evaluación, control y asesoramiento sanitario le sean encomendadas por los órganos competentes o por la normativa de aplicación. Para ingresar en la Escala de Médicos de Inspección Sanitaria del Cuerpo de Inspección Sanitaria será preciso estar en posesión del título de Licenciado en Medicina y superar las correspondientes pruebas selectivas, mientras que para el acceso a la Escala de Farmacéuticos de Inspección Sanitaria del Cuerpo de Inspección Sanitaria se requerirá estar en posesión del título de Licenciado en Farmacia y, asimismo, superar las correspondientes pruebas selectivas.
+14. Son funciones del Cuerpo de Subinspección Sanitaria las actividades de apoyo, gestión y colaboración en las funciones inspectoras de las diferentes Escalas del Cuerpo de Inspección Sanitaria. Para ingresar en este Cuerpo se requerirá estar en posesión del título de Diplomado Universitario en Enfermería, así como superar las correspondientes pruebas selectivas.
+15. Corresponde al Cuerpo de Inspectores de Servicios Sociales la realización de las actividades administrativas de nivel superior necesarias para la planificación, gestión y ejecución de la función inspectora de los centros y servicios sociales dentro del ámbito competencial de la Comunidad de Madrid.
+Para ingresar en el Cuerpo de Inspectores de Servicios Sociales será necesario estar en posesión de la titulación habilitante para el Grupo A, Subgrupo A1, y superar las correspondientes pruebas selectivas.
+Se añade el apartado 15 por el art. 5.2 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se renumeran los apartados 11 a 13 como 12 a 14 y se añade el apartado 11 por el art. 11.2 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 176, de 26 de julio de 2004. Ref. BOE-A-2004-15230.
+ Se añaden los apartados 12 y 13 por el art. 13.3 y 4 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se añaden los apartados 10 y 11 por el art. 10.3 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+ Se añaden los apartados 7 a 9 por el art. 2.4 de la Ley 4/2000, de 8 de mayo. Ref. BOE-A-2000-9792.
+ Redactado conforme a la corrección de errores publicada en BOCM núm. 128, de 31 de mayo de 2000. Ref. BOE-A-2000-12884.
+ Se modifican las letras a) y b) del apartado 1 y se añaden los apartados 3 a 6 por el art. 8.6 a 11 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+### Artículo 40
+
+Artículo 40.
+1. Los Cuerpos de funcionarios serán interdepartamentales y tendrán dependencia orgánica de la Consejería de Presidencia, sin perjuicio de la que funcionalmente tengan en cada Departamento.
+2. No obstante lo expuesto en el apartado anterior, el Consejo de Gobierno, a propuesta de la Consejería de Presidencia y conocido el parecer de la Consejería correspondiente, podrá determinar excepcionalmente la adscripción concreta de determinados Cuerpos a una sola Consejería.
+
+### Artículo 41
+
+Artículo 41.
+1. Únicamente las relaciones de puestos de trabajo, previstas en el título II de la presente Ley, pueden determinar cuáles son los Cuerpos de funcionarios facultados para desempeñar las funciones asignadas a cada puesto de trabajo.
+2. En cualquier caso, los Cuerpos de funcionarios no podrán tener asignadas facultades, funciones o atribuciones propias de los Órganos administrativos.
+Únicamente las relaciones de puestos de trabajo podrán determinar los Cuerpos de funcionarios que puedan desempeñar los puestos a los que corresponde el ejercicio de las citadas funciones.
+
+## CAPÍTULO IV
+
+Niveles de los puestos de trabajo
+
+### Artículo 42
+
+Artículo 42.
+1. Los puestos de trabajo de la Administración de la Comunidad reservados a funcionarios se clasifican en treinta niveles.
+2. Los puestos de trabajo pueden atribuirse indistintamente a más de uno de los Grupos de funcionarios a que hace referencia el artículo 27, siempre que se trate de Grupos separados entre sí por un solo nivel de titulación.
+
+## CAPÍTULO V
+
+De la carrera administrativa
+
+## Sección primera
+
+Sección primera. Disposiciones generales
+
+### Artículo 43
+
+Artículo 43.
+1. La carrera administrativa de los funcionarios de la Comunidad se instrumenta a través del grado personal y de la posibilidad de acceder a otros puestos de trabajo mediante concurso o libre designación por convocatoria pública, así como por la posibilidad de promocionarse internamente a otros Cuerpos de Grupo superior o del mismo Grupo, pero con intervalos de niveles diferentes.
+2. La carrera administrativa del funcionario se fomentará y racionalizará a través de los cursos y actividades de formación de los mismos.
+
+## Sección segunda
+
+Sección segunda. Del grado personal
+
+### Artículo 44
+
+Artículo 44.
+1. Todo funcionario poseerá un grado personal que se corresponderá con uno de los treinta niveles en que estarán clasificados los puestos de trabajo.
+2. El grado se adquiere por haber desempeñado durante dos años consecutivos o tres con interrupción, uno o más puestos de trabajo del nivel correspondiente.
+3. En ningún caso podrá consolidarse un grado personal superior al nivel máximo que corresponda al funcionario en razón del Grupo al que pertenezca.
+
+### Artículo 45
+
+Artículo 45.
+1. Los funcionarios de nuevo ingreso comenzarán a consolidar el grado correspondiente al nivel del puesto de trabajo al que hayan sido destinados.
+2. Si durante el tiempo en que el funcionario desempeñe un puesto de trabajo se modificase el nivel del mismo, el tiempo de desempeño se computará en el nivel más alto en que dicho puesto haya estado clasificado.
+
+### Artículo 46
+
+Artículo 46.
+Los funcionarios tendrán derecho, cualquiera que sea el puesto de trabajo que desempeñen, al percibo, al menos, del complemento de destino de los puestos del nivel correspondiente a su grado personal.
+Se modifica por el art. 11.3 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 47
+
+Artículo 47.
+1. El Consejo de Gobierno, previo informe del Consejo Regional de la Función Pública, podrá determinar reglamentariamente la adquisición de grados superiores mediante la superación de cursos de formación u otros requisitos objetivos establecidos al efecto. En todo caso, serán públicas las convocatorias y el resultado de las actividades realizadas en dichos cursos.
+2. La adquisición directa del grado personal superior por este procedimiento no tiene efectos económicos inmediatos, pero habilita al funcionario para participar en los procedimientos de provisión de puestos de trabajo correspondientes a dicho grado.
+
+### Artículo 48
+
+Artículo 48.
+El tiempo de permanencia en la situación de servicios especiales será computado, a efectos de consolidación del grado personal, como prestado en el último puesto desempeñado en la situación de servicio activo o en el que posteriormente se hubiera obtenido por concurso.
+Se modifica por el art. 11.4 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## Sección tercera
+
+Sección tercera. De la provisión de puestos de trabajo
+
+### Artículo 49
+
+Artículo 49.
+1. Los puestos de trabajo adscritos a funcionarios se proveerán por el procedimiento de concurso como sistema normal o el de libre designación como sistema excepcional, de conformidad con lo que establezcan las relaciones de puestos de trabajo.
+2. Las convocatorias para la provisión de puestos de trabajo, tanto por concurso como por libre designación, se aprobarán por el Consejero respectivo. Asimismo, corresponderá al titular de cada Consejería la resolución de las mismas, previo informe de la Consejería de Hacienda.
+3. Las convocatorias, así como sus respectivas resoluciones, se publicarán en el ‟Boletín Oficial de la Comunidad de Madrid".
+Se modifica por el art. 10.2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 50
+
+Artículo 50.
+1. En el concurso se valorarán los méritos que puedan alegarse de acuerdo con las bases de la convocatoria, considerándose siempre en relación al puesto de trabajo que se trate de proveer.
+2. Se consideran méritos preferentes, conforme reglamentariamente se determine, la valoración del trabajo desarrollado en los anteriores puestos ocupados, los cursos de promoción y perfeccionamiento superados en las Escuelas de Administración Pública, las titulaciones académicas, en su caso, y la antigüedad.
+3. Para los sistemas de concurso, reglamentariamente se determinará la composición y funcionamiento de las Juntas de Mérito que apreciarán los de los candidatos concurrentes, de acuerdo con el baremo de la convocatoria. Los miembros componentes de las mismas deberán poseer la idoneidad necesaria y serán inamovibles durante el período de su mandato, que no podrá exceder de cinco años. Las Juntas de Mérito contarán con la presencia de la representación sindical de la Función Pública regional, a los efectos de información y control del rigor del procedimiento.
+4. Para facilitar la calificación de los méritos, reglamentariamente se determinará la forma en que los jefes de las unidades orgánicas correspondientes elaborarán informes de valoración de la forma en que los funcionarios desempeñen sus funciones. El funcionario conocerá estos informes y podrá hacer las alegaciones que estime oportunas a los mismos, pudiendo elevar consulta al Consejo Regional de la Función Pública.
+
+### Artículo 51
+
+Artículo 51.
+Sólo podrán proveerse por libre designación los puestos que figuren como tales en la relación correspondiente de puestos de trabajo. Será preceptiva, en todo caso, la convocatoria pública en el «Boletín Oficial de la Comunidad de Madrid», con indicación de su denominación, nivel, localización y retribución, así como de los requisitos mínimos exigibles a los funcionarios que aspiren a desempeñarlos, concediéndose un plazo no inferior a quince días hábiles para la presentación de solicitudes.
+
+### Artículo 52
+
+Artículo 52.
+1. Los funcionarios que accedan a un puesto de trabajo por el sistema de concurso de méritos podrán ser removidos del mismo por causas sobrevenidas derivadas de una falta de capacidad para su desempeño evidenciada en un rendimiento insuficiente que, sin comportar inhibición, impida llevar a cabo las funciones atribuidas al puesto con la eficacia necesaria, o de una modificación sustancial del contenido del puesto de trabajo, realizada a través de las relaciones de puestos de trabajo, que suponga una alteración de los supuestos que sirvieron de base a la convocatoria.
+Asimismo podrán ser removidos de su puesto de trabajo por supresión del mismo.
+2. En el primer supuesto del párrafo primero del apartado anterior, la remoción se llevará a cabo, previo expediente con audiencia del interesado, mediante resolución motivada del órgano que realizó el nombramiento, oída la Junta de Personal correspondiente.
+3. Los funcionarios adscritos a un puesto de trabajo por el sistema de libre designación podrán ser removidos del mismo con carácter discrecional.
+4. A los funcionarios afectados por lo previsto en los párrafos anteriores les será de aplicación lo dispuesto en el artículo 46 de la presente Ley.
+Se modifica por el art. 11.5 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 53
+
+Artículo 53.
+1. Cuando un puesto de trabajo quede vacante podrá acordarse para su cobertura, en caso de urgente e inaplazable necesidad, una comisión de servicios de carácter voluntario, a favor de un funcionario que reúna los requisitos establecidos para su desempeño en la relación de puestos de trabajo, por un plazo máximo de un año, prorrogable por otro.
+2. Asimismo, cuando un puesto haya sido declarado desierto en un concurso y sea urgente para el servicio su provisión, podrá destinarse en comisión de servicios de carácter forzoso a un funcionario que preste servicios en la misma Consejería, por un plazo máximo improrrogable de seis meses.
+3. A petición de otras Administraciones Públicas podrán autorizarse comisiones de servicio a favor de los funcionarios propios de la Comunidad de Madrid en los mismos términos del apartado 1.
+4. Las comisiones de servicios señaladas en los apartados anteriores, conllevarán derecho a reserva de puesto de trabajo y serán autorizadas por el Consejero de Hacienda, salvo en los supuestos en que las mismas no supongan cambio de Consejería, en cuyo caso serán autorizadas por el Consejero respectivo.
+5. Los funcionarios en comisión de servicios percibirán las retribuciones del puesto de trabajo realmente desempeñado.
+6. Los funcionarios de otras Administraciones Públicas podrán prestar sus servicios en la Comunidad de Madrid mediante comisión de servicios, de acuerdo con lo que establezcan las relaciones de puestos de trabajo, por un plazo máximo de un año, prorrogable por otro, previa autorización del órgano competente de la Administración de procedencia del funcionario.
+Se modifica por el art. 11.6 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 53 bis
+
+Artículo 53 bis.
+1. Los puestos de trabajo podrán proveerse mediante adscripción provisional en los siguientes supuestos:
+a) Reingreso al servicio activo desde situaciones administrativas que no conlleven derecho a reserva de puesto de trabajo.
+b) Remoción o cese en el puesto de trabajo obtenido por concurso de méritos o libre designación.
+c) Alteración sustancial o supresión del puesto que se viniera desempeñando en las correspondientes relaciones de puestos de trabajo.
+2. El puesto desempeñado con carácter provisional se convocará para su provisión definitiva en el plazo máximo de un año, y el funcionario ocupante tendrá la obligación de participar en la convocatoria.
+Se añade por el art. 11.7 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 53 ter
+
+Artículo 53 ter.
+La funcionaria víctima de violencia de género que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrá derecho preferente a ocupar otro puesto de trabajo propio de su Cuerpo o Escala y de análogas características, sin necesidad de que sea vacante de necesaria cobertura. En tales supuestos el órgano de la Administración de la Comunidad de Madrid competente en cada caso estará obligado a comunicarle las vacantes ubicadas en la misma localidad o en las localidades que la interesada expresamente solicite.
+Este traslado tendrá la consideración de forzoso.
+La ocupación del nuevo puesto de trabajo tendrá carácter provisional durante el primer año, con reserva del puesto de trabajo que anteriormente desempeñaba la funcionaria. Terminado dicho periodo, la funcionaria podrá optar entre reincorporarse al puesto de trabajo anterior o continuar en el de destino, que lo desempeñará con el mismo carácter que ostentaba en el de origen, decayendo la obligación de la reserva.
+Sin perjuicio de lo anterior y siempre que no lo impidan circunstancias organizativas y funcionales, la Administración podrá proponer a la interesada el cambio de adscripción orgánica del puesto que desempeña a otro centro.
+En las actuaciones y procedimientos relacionados con la violencia de género, se protegerá la intimidad de las víctimas, en especial, sus datos personales, los de sus descendientes y los de cualquier persona que esté bajo su guardia.
+Se modifica por el art. 9.2 de la Ley 10/2009, de 23 de diciembre. Ref. BOE-A-2010-4183.
+ Se añade por la disposición final 3.2 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
+
+## Sección cuarta
+
+Sección cuarta. De la promoción interna
+
+### Artículo 54
+
+Artículo 54.
+1. Para facilitar la promoción de los funcionarios de un determinado Grupo o Cuerpo a un Grupo o Cuerpo superiores, de las plazas vacantes existentes que se convoquen a oposición o concurso‑oposición, se reservará hasta un máximo del 50 por 100 exclusivamente para su provisión en turno de promoción interna.
+2. Los funcionarios deberán poseer la titulación legalmente exigida y superar las pruebas selectivas que reglamentariamente se establezcan, que garantizarán, en todo caso, su aptitud para las funciones a desempeñar y la compatibilidad de la preparación de las mismas con la normal dedicación al servicio.
+La Consejería de Presidencia organizará los cursos necesarios para la consecución de estos objetivos de promoción profesional.
+3. Las plazas de turno de promoción sólo podrán acumularse al turno libre cuando los funcionarios aspirantes no hubieran superado las pruebas o los cursos de formación establecidos al efecto.
+4. Los seleccionados en turno de promoción tendrán preferencia sobre los del turno libre para elegir los puestos de trabajo, cuando obtuvieren igualdad de puntuación en las pruebas que se hubiesen realizado conjuntamente.
+
+## Sección quinta
+
+Sección quinta. De la movilidad administrativa
+
+### Artículo 55
+
+Artículo 55.
+1. El Gobierno de la Comunidad de Madrid, bien por la especialidad de las actividades encomendadas a uno o varios puestos de trabajo, bien porque las necesidades del servicio lo aconsejen, podrá aprobar convocatoria pública para la provisión de aquellos puestos, mediante el sistema de concurso o de libre designación, entre funcionarios de la Administración del Estado y de otras Comunidades Autónomas, siempre que esta posibilidad se encuentre prevista en la correspondiente relación de puestos de trabajo. En estas convocatorias podrán participar asimismo los funcionarios de la Administración Local, en el caso de puestos de trabajo relacionados con las funciones que le competen a la Comunidad de Madrid en materia de Entidades Locales.
+2. Los funcionarios seleccionados no adquirirán la condición de funcionarios propios de la Comunidad, pero se integrarán en su Administración y les será de aplicación la legislación de personal de la misma. En todo caso, se regirán por las normas relativas a promoción profesional, incluida la provisión de puestos de trabajo, promoción interna, régimen retributivo, derechos y deberes, situaciones administrativas, garantía de puesto de trabajo, incompatibilidades y régimen disciplinario, con excepción de la sanción de separación del servicio, que se acordará en los términos previstos en la legislación que resulte aplicable de conformidad con la Administración de pertenencia del funcionario.
+A efectos de lo dispuesto en el párrafo anterior, los funcionarios de carrera procedentes de otras Administraciones Públicas que hayan accedido a la Administración de la Comunidad de Madrid por el procedimiento regulado en el presente artículo podrán participar en las convocatorias de provisión de puestos de trabajo adscritos a los Cuerpos, Escalas o Especialidades de los funcionarios propios de la Comunidad que sean considerados como equivalentes a los Cuerpos, Escalas o Especialidades a los que pertenezcan.
+Se modifica por el art. 13.5 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Artículo 56
+
+Artículo 56.
+Los funcionarios de la Comunidad de Madrid que por el sistema de movilidad pasen a desempeñan mediante convocatoria pública, puestos de trabajo en otras Administraciones Públicas, conservarán su condición de funcionarios de la Comunidad, donde quedarán en la situación administrativa de servicio en otras Administraciones Públicas.
+En tanto se hallen destinados en otra Administración Pública, les será de aplicación la legislación sobre personal de la misma, computándoseles, sin embargo, el tiempo en que permanezcan en tal situación, a efectos de reconocimiento de antigüedad y consolidación del grado en la Comunidad de Madrid.
+
+### Artículo 57
+
+Artículo 57.
+Tanto las convocatorias de provisión interna de puestos de trabajo, como las que pudieran realizarse para la provisión entre funcionarios de otras Administraciones Públicas, deberán convocarse con la antelación suficiente que permita la programación de la oferta anual de empleo de la Comunidad, que deberá contemplar las vacantes dotadas presupuestariamente que se produzcan tras la resolución de aquellas convocatorias.
+
+### Artículo 57 bis
+
+Artículo 57 bis.
+En el marco de los Acuerdos que las Administraciones Públicas suscriban con la finalidad de facilitar la movilidad entre el personal funcionario de las mismas, tendrán especial consideración los casos de movilidad geográfica de las funcionarias víctimas de Violencia de Género.
+Se añade por la disposición final 3.5 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
+
+## CAPÍTULO VI
+
+Situaciones administrativas de los funcionarios
+
+## Sección primera
+
+Sección primera. De las situaciones en general
+
+### Artículo 58
+
+Artículo 58.
+Sin perjuicio de la aplicación de las normas dictadas por el Estado al amparo del artículo 149.1.18.a de la Constitución Española, los funcionarios de la Administración de la Comunidad de Madrid pueden hallarse en alguna de las situaciones siguientes:
+a) Servicio activo.
+b) Excedencia voluntaria:
+– Por incompatibilidad.
+– Por interés particular.
+– Por agrupación familiar.
+c) Excedencia por cuidado de familiares.
+d) Excedencia forzosa.
+e) Servicios en otras Administraciones Públicas.
+f) Servicios especiales.
+g) Suspensión.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## Sección segunda
+
+Sección segunda. De las situaciones en particular
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 58 bis
+
+Artículo 58 bis.
+1. Los funcionarios se hallan en la situación de servicio activo:
+a) Cuando desempeñen un puesto correspondiente a la relación de puestos de trabajo de la Comunidad de Madrid al que se encuentren adscritos con carácter definitivo.
+b) Cuando desempeñen un puesto correspondiente a la relación de puestos de trabajo de la Comunidad de Madrid al que se encuentren adscritos con carácter provisional o en comisión de servicios.
+c) Cuando queden a disposición del órgano competente en el caso de funcionarios removidos del puesto de trabajo obtenido por concurso de méritos, consecuencia de una falta de capacidad para su desempeño, cesados en un puesto de trabajo obtenido por libre designación y los que cesen en el desempeño de puesto de trabajo por alteración sustancial del contenido o supresión del mismo en la correspondiente relación de puestos de trabajo.
+d) Durante el plazo posesorio, cuando cesen en un puesto de trabajo por haber obtenido otro mediante procedimientos de provisión de puestos de trabajo.
+e) Cuando presten servicios en la Cámara de Cuentas de la Comunidad de Madrid, en las Cortes Generales de conformidad con lo dispuesto en el Estatuto del Personal de las mismas o en el Tribunal de Cuentas y no les corresponda quedar en otra situación.
+f) Cuando presten servicios en puestos de trabajo de niveles incluidos en el intervalo correspondiente a su Cuerpo y Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros o de los Secretarios de Estado, y opten por permanecer en esta situación. Asimismo, cuando presten servicios en puestos de niveles comprendidos en el intervalo correspondiente al grupo en el que figure clasificado su Cuerpo o Escala en Gabinetes del Delegado del Gobierno o del Subdelegado del Gobierno en la provincia.
+g) Cuando presten servicios en puestos de trabajo catalogados como de personal eventual adscritos a la Presidencia de la Comunidad de Madrid o a las Consejerías, que tengan asignados niveles de complemento de destino incluidos en el intervalo de niveles correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala y opten por permanecer en esta situación.
+h) En todos aquellos casos en los que así lo establezca una norma con rango de ley.
+2. El disfrute de licencias, vacaciones o permisos reglamentarios no altera la situación de servicio activo.
+3. Los funcionarios en situación de servicio activo ostentan todos los derechos, prerrogativas, deberes y responsabilidades inherentes a su condición.
+Se añade por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 59
+
+Artículo 59.
+1. La excedencia voluntaria supone el cese temporal en la relación de servicio.
+2. Su concesión o declaración procederá en los siguientes supuestos:
+a) Excedencia voluntaria por incompatibilidad. Cuando el funcionario se encuentre en situación de servicio activo en otro Cuerpo o Escala de la Comunidad de Madrid o de cualquier otra Administración pública, salvo que hubiera obtenido la oportuna compatibilidad, o pase a prestar servicios como personal laboral fijo en Organismos o Entidades del sector público y no le corresponda quedar en otra situación administrativa. El desempeño de puestos con carácter de funcionario interino o de personal laboral temporal no habilitará para pasar a esta situación administrativa.
+El funcionario podrá permanecer en esta situación en tanto se mantenga la relación de servicios que dio origen a su declaración. Una vez producido el cese como funcionario o como personal laboral fijo en la misma, deberá solicitar el reingreso al servicio activo en el plazo máximo de un mes, declarándosele, de no hacerlo, en la modalidad de esta situación administrativa regulada en el apartado b) del presente artículo.
+b) Excedencia voluntaria por interés particular. Cuando el funcionario lo solicite por interés particular. Para solicitar el pase a esta situación será preciso haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los cinco años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.
+Procederá, asimismo, declarar en esta modalidad de excedencia voluntaria al funcionario cuando, finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, incumpla la obligación de solicitar el reingreso en el plazo establecido, así como en los demás supuestos previstos en la normativa vigente.
+c) Excedencia voluntaria por agrupación familiar. Cuando el funcionario lo solicite por agrupación familiar por residir su cónyuge en otro municipio, al haber obtenido y estar desempeñando un puesto de trabajo con carácter definitivo como funcionario de carrera o como laboral en cualquier Administración Pública, Organismo Autónomo, Entidad Gestora de la Seguridad Social, así como en Órganos Constitucionales o del Poder Judicial.
+La excedencia voluntaria por agrupación familiar tendrá una duración mínima de dos años y máxima de quince. Antes de finalizar el plazo máximo de duración de esta situación deberá solicitarse el reingreso al servicio activo declarándose de oficio al funcionario, en caso de no hacerlo, en la modalidad de este tipo de excedencia regulada en el apartado b) del presente artículo.
+3. El funcionario excedente no devengará retribuciones, ni le será computable el tiempo permanecido en tal situación a efectos de ascensos, consolidación de grado personal, trienios y derechos pasivos.
+No obstante lo dispuesto en el párrafo anterior, se computará, a efectos de trienios, el período de prestación de servicios en organismos o entidades del sector público, con la excepción de los prestados en sociedades mercantiles en cuyo capital sea mayoritaria la participación directa o indirecta de las Administraciones Públicas.
+Se modifica la letra a) del apartado 2 por el art. 5.3 de la Ley 8/2024, de 26 de diciembre. Ref. BOE-A-2025-5523
+ Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 59 bis
+
+Artículo 59 bis.
+1. El funcionario tendrá derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
+2. También tendrá derecho a un período de excedencia, de duración no superior a un año, para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo, y no desempeñe actividad retribuida.
+3. El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
+4. La presente situación constituye un derecho individual del funcionario. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
+5. El período de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal, derechos pasivos y solicitud de excedencia por interés particular. Durante el primer año, el funcionario tendrá derecho a la reserva del puesto de trabajo que desempeñaba. Transcurrido este período, el derecho a reserva lo será de un puesto de igual nivel y retribución en la misma Consejería.
+6. En el caso de la excedencia prevista en el apartado 1 del presente artículo, el derecho a la reserva del puesto de trabajo durante el primer año a que se refiere el apartado anterior se extenderá hasta un máximo de quince meses, cuando se trate de miembros de unidades familiares que tengan reconocida la condición de familia numerosa de categoría general, y hasta un máximo de dieciocho meses, si tienen la condición de familia numerosa de categoría especial.
+Se añade por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 59 ter
+
+Artículo 59 ter.
+1. Las funcionarias públicas víctimas de Violencia de Género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que resulte de aplicación ningún plazo de permanencia en la misma. Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de ascensos, trienios y derechos pasivos.
+2. Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
+Se añade por la disposición final 3.3 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
+
+## Sección tercera
+
+Sección tercera. De la excedencia forzosa
+
+### Artículo 60
+
+Artículo 60.
+1. La excedencia forzosa se produce cuando el funcionario declarado en la situación de suspensión firme que no tenga reservado puesto de trabajo, solicite el reingreso y no se le conceda en el plazo de seis meses contados a partir de la extinción de la responsabilidad penal o disciplinaria.
+2. El funcionario en excedencia forzosa estará obligado a participar en los procedimientos que se convoquen para la provisión de puestos de trabajo cuyos requisitos de desempeño reúnan, así como a aceptar el reingreso al servicio activo en puestos correspondientes a su Cuerpo o Escala.
+3. El incumplimiento de las obligaciones recogidas en el apartado anterior delimitará el pase a la situación de excedencia voluntaria por interés particular.
+4. El funcionario en esta situación tendrá derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo. Asimismo, le será computado el tiempo de permanencia en dicha situación a efectos de derechos pasivos y de trienios.
+5. El funcionario en excedencia forzosa no podrá desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o contractual sea ésta de naturaleza laboral o administrativa.
+Si obtiene un puesto de trabajo en dicho sector, pasará a la situación administrativa que corresponda de acuerdo con la ley.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## Sección cuarta
+
+Sección cuarta. De la situación de servicios en otras Administraciones Públicas
+
+### Artículo 61
+
+Artículo 61.
+1. Los funcionarios de la Comunidad de Madrid que, mediante los procedimientos de concurso de méritos o de libre designación, pasen a ocupar puestos de trabajo adecuados a su Cuerpo o Escala en otras Administraciones Públicas quedarán, respecto de la Comunidad de Madrid, en la situación de servicios en otras Administraciones Públicas. En esta situación, los funcionarios se someterán al régimen estatutario y les será de aplicación la legislación en materia de Función Pública de la Administración Pública en la que estén destinados, con excepción de la sanción de separación del servicio, que deberá ser acordada por el órgano competente de la Comunidad de Madrid. Conservarán su condición de funcionarios de la Comunidad de Madrid en la situación de servicios en otras Administraciones Públicas si bien, en tanto permanezcan en tal situación, no tendrán derecho a retribución alguna con cargo a los créditos del Presupuesto de la Comunidad de Madrid.
+2. Los funcionarios propios de la Comunidad de Madrid que se encuentren en la situación administrativa de servicios en Comunidades Autónomas, respecto a la Administración del Estado, cuando reingresen en sus Cuerpos o Escalas estatales de origen, serán declarados en la Comunidad de Madrid en la situación de excedencia voluntaria, conforme a lo preceptuado en el artículo 59 de la presente Ley.
+3. Los funcionarios procedentes de otras Administraciones Públicas que se encuentren prestando servicios en la Comunidad de Madrid de acuerdo con el procedimiento de movilidad administrativa previsto en el artículo 55 de la presente Ley, cesarán totalmente en su vinculación con la Comunidad de Madrid si pasan a prestar servicios con carácter definitivo en otra Administración Pública.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## Sección quinta
+
+Sección quinta. De la situación de servicios especiales
+
+### Artículo 62
+
+Artículo 62.
+1. Los funcionarios de la Comunidad de Madrid serán declarados en la situación administrativa de servicios especiales en los casos siguientes:
+a) Cuando sean autorizados para realizar una misión por período determinado superior a seis meses en Organismos Internacionales, Gobiernos o Entidades Públicas extranjeras o en programas internacionales.
+b) Cuando adquieran la condición de funcionarios al servicio de Organizaciones Internacionales o de carácter supranacional.
+c) Cuando sean nombrados miembros del Gobierno de la Comunidad de Madrid, del Gobierno de la Nación o de los Gobiernos de otras Comunidades Autónomas, así como cuando sean nombrados por el Gobierno de las referidas Administraciones Altos Cargos de las mismas.
+d) Cuando sean elegidos por las Cortes Generales para formar parte de los Órganos Constitucionales u otros cuya elección corresponda a las Cámaras.
+e) Cuando sean adscritos a los servicios del Tribunal Constitucional o del Defensor del Pueblo o destinados al Tribunal de Cuentas, en los términos previstos en el artículo 93.3 de la Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas, o presten servicios en los órganos técnicos del Consejo General del Poder Judicial, de acuerdo con lo previsto en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+f) Cuando accedan a la condición de Diputado o Senador de las Cortes Generales.
+g) Cuando accedan a la condición de Diputado de la Asamblea de Madrid o miembro de las Asambleas Legislativas de otras Comunidades Autónomas, siempre que perciban retribuciones periódicas por el desempeño de esta función.
+h) Cuando desempeñen cargos electivos retribuidos y de dedicación exclusiva en las Entidades Locales, cuando desempeñen responsabilidades de órganos superiores y directivos municipales, y cuando desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas.
+i) Cuando presten servicios en puestos de trabajo catalogados como de personal eventual adscritos a la Presidencia de la Comunidad de Madrid o a las Consejerías, que tengan asignados niveles de complemento de destino incluidos en el intervalo de niveles correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala y no opten por permanecer en la situación de servicio activo conforme a lo previsto en el artículo 58 bis.g) de la presente Ley y, en todo caso, cuando los niveles de los puestos de trabajo que desempeñen no estén incluidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala, así como cuando desempeñen funciones como personal eventual en las Entidades Locales del ámbito territorial de la Comunidad de Madrid.
+j) Cuando presten servicios en los Gabinetes de la Presidencia del Gobierno, de los Ministros y Secretarios de Estado y no opten por permanecer en la situación de servicio activo, conforme a lo previsto en el artículo 58 bis.f) de la presente Ley. Asimismo, cuando presten servicios en puestos de niveles no incluidos en el intervalo correspondiente al Grupo en el que figure clasificado su Cuerpo o Escala en los Gabinetes de la Presidencia del Gobierno, de los Ministros, Secretarios de Estado, Delegados del Gobierno y Subdelegados del Gobierno.
+k) Cuando pasen a prestar servicios en el ámbito de la organización de la Asamblea de Madrid, de acuerdo con los procedimientos de provisión de puestos de trabajo previstos en el Estatuto de Personal de la Asamblea de Madrid o en los Grupos parlamentarios constituidos en la misma, siempre que no pertenezcan a Cuerpos o Escalas propios de la misma.
+l) Cuando sean elegidos Consejeros de la Cámara de Cuentas de la Comunidad de Madrid.
+m) Cuando se encuentren al servicio del Defensor del Menor, de conformidad con lo previsto en el artículo 40 de la Ley 5/1996, de 8 de julio, del Defensor del Menor.
+n) Cuando sean nombrados Subdelegados del Gobierno en las provincias o Directores Insulares de la Administración General del Estado y no opten por permanecer en la situación de servicio activo.
+ñ) Cuando sean elegidos miembros del Parlamento Europeo.
+o) Cuando así se determine en una norma con rango de Ley.
+2. A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, consolidación de grado personal, trienios, derechos pasivos y solicitud de excedencia voluntaria por interés particular.
+Asimismo, cuando sean declarados en servicios especiales desde situaciones administrativas que conllevan el desempeño o reserva de puesto de trabajo tendrán derecho a la reserva de un puesto de trabajo de igual nivel y retribuciones que el desempeñado con anterioridad a su pase a dicha situación.
+Lo dispuesto en este apartado 2 relativo al cómputo del tiempo de permanencia en situación de servicios especiales, a efectos de ascensos, trienios y derechos pasivos, no será de aplicación a los funcionarios públicos que habiendo ingresado al servicio de las Instituciones Comunitarias Europeas, o al de Entidades y Organismos asimilados, ejerciten el derecho de transferencias establecido en el artículo 11.2 del anexo VIII del Estatuto de los Funcionarios de las Comunidades Europeas, sin perjuicio de los efectos económicos que puedan derivar de los ascensos y trienios consolidados hasta el momento del ejercicio de este derecho.
+3. En todos los casos, los declarados en esta situación administrativa recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como tales.
+4. Los Diputados, Senadores y los miembros de las Asambleas Legislativas de las Comunidades Autónomas que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de las mismas podrán permanecer en la situación de servicios especiales hasta su nueva constitución.
+5. Los funcionarios que pierdan la condición en virtud de la cual hubieran sido declarados en la situación de servicios especiales, deberán solicitar el reingreso al servicio activo en el plazo de un mes declarándoseles, de no hacerlo, en la situación de excedencia voluntaria por interés particular, con efectos desde el día en que perdieron aquella condición.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Se añade la letra l) al apartado 1 por el art. 13.6 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+ Se modifica la letra j) del apartado 1 por el art. único de la Ley 16/2000, de 26 de diciembre. Ref. BOE-A-2001-5582.
+
+## Sección sexta
+
+Sección sexta. De la suspensión
+
+### Artículo 63
+
+1. Procederá declarar al funcionario en situación de suspensión, cuando así lo determine la autoridad u órgano competente, como consecuencia de la instrucción al mismo de un procedimiento judicial o disciplinario.
+2. La situación de suspensión produce la privación al funcionario del ejercicio de sus funciones y de los derechos inherentes a su condición.
+3. La suspensión podrá ser provisional o firme.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 64
+
+Artículo 64.
+1. La suspensión provisional podrá acordarse preventivamente durante la tramitación de un procedimiento judicial o disciplinario.
+2. La suspensión provisional como medida preventiva durante la tramitación de un expediente disciplinario será acordada, en su caso, por la autoridad que ordene la iniciación del expediente, no pudiendo exceder su duración del plazo máximo de resolución y notificación del procedimiento disciplinario, excepto en caso de paralización del procedimiento imputable al interesado.
+3. Si durante la tramitación de un procedimiento judicial se decreta la prisión provisional de un funcionario u otras medidas que determinen la imposibilidad de desempeñar su puesto de trabajo, se le declarará en suspensión provisional por el tiempo a que se extiendan dichas medidas.
+4. El suspenso provisional tendrá derecho a percibir el 75 por 100 de sus retribuciones básicas, así como la totalidad de la prestación familiar por hijo a cargo, excepto en caso de paralización del expediente imputable al interesado, que comportará la pérdida de toda retribución mientras se mantenga dicha paralización. Asimismo, no se acreditará haber alguno en caso de incomparecencia en el procedimiento disciplinario o procesal penal.
+5. Cuando la suspensión no sea declarada firme, el tiempo de duración de la misma se computará como de servicio activo, debiendo acordarse la inmediata incorporación del funcionario a su puesto de trabajo, con reconocimiento de los derechos económicos y demás que procedan desde la fecha de efectos de la suspensión.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 65
+
+Artículo 65.
+1. La suspensión tendrá carácter firme cuando se imponga en virtud de condena criminal o sanción disciplinaria. La condena y la sanción determinarán la pérdida del puesto de trabajo cuando la suspensión firme exceda de seis meses.
+El tiempo de suspensión provisional se computará a efectos del cumplimiento de la suspensión firme.
+2. En tanto no transcurra el plazo de suspensión de funciones no procederá ningún cambio de situación administrativa.
+3. El funcionario que haya perdido su puesto de trabajo, como consecuencia de condena o sanción, deberá solicitar el reingreso al servicio activo al menos con un mes de antelación a la finalización del período de duración de la suspensión. El referido reingreso tendrá efectos económicos y administrativos desde la fecha de extinción de la responsabilidad penal o disciplinaria.
+De no solicitarse el reingreso en el tiempo señalado en el párrafo anterior, se le declarará de oficio en la situación de excedencia voluntaria por interés particular, con efectos desde la fecha de finalización de la sanción.
+4. Si una vez solicitado el reingreso al servicio activo no se concede en el plazo de seis meses, el funcionario será declarado, de oficio, en la situación de excedencia forzosa prevista en el artículo 60 de la presente Ley, con efectos de la fecha de extinción de la responsabilidad penal o disciplinaria.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## Sección séptima
+
+Sección séptima. Reingreso al servicio activo
+
+## Sección tercera
+
+Sección tercera. Reingreso al servicio activo
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 66
+
+Artículo 66.
+1. El reingreso al servicio activo de los funcionarios, que no tengan derecho a reserva de puesto de trabajo, se efectuará mediante su participación en las convocatorias de provisión de puestos de trabajo.
+2. Asimismo, el reingreso podrá efectuarse por adscripción a un puesto con carácter provisional, condicionado a las necesidades del servicio y siempre que se reúnan los requisitos para el desempeño del puesto de trabajo.
+El puesto asignado con carácter provisional se convocará para su provisión definitiva en el plazo máximo de un año, y el funcionario reingresado con destino provisional tendrá obligación de participar en la convocatoria.
+Se modifica por el art. 11.8 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+## CAPÍTULO VII
+
+De los derechos de los funcionarios
+
+## Sección primera
+
+Sección primera. De los derechos en general
+
+### Artículo 67
+
+Artículo 67.
+Los funcionarios en servicio activo tienen los siguientes derechos:
+a) A la información a cargo de sus jefes inmediatos sobre fines, organización y funcionamiento de la unidad administrativa correspondiente, y en especial de su dependencia jerárquica y de las atribuciones, deberes y responsabilidades que les incumben.
+b) A la permanencia en su puesto de trabajo dentro de las garantías previstas en la Ley. Si fuera necesario prestar temporalmente servicios en otra localidad, tendrán derecho a las indemnizaciones que reglamentariamente se establezcan.
+c) A la retribución correspondiente a su puesto de trabajo y al régimen de previsión social que les corresponda.
+d) A la carrera administrativa y a la formación para la promoción en la misma.
+e) Al ejercicio de las libertades sindicales y del derecho de huelga de acuerdo con la legislación estatal en la materia.
+f) A la información y participación para la mejora de la gestión de los servicios, mediante su representación en los Órganos y a través de tos procedimientos que legalmente se establezcan.
+g) A percibir anticipo a cuenta de su retribución mensual.
+h) A la asistencia sanitaria y a las prestaciones sociales.
+i) A conservar la condición de funcionario, salvo por aplicación de las causas legales que determinen la pérdida de aquélla.
+j) A la seguridad y la higiene en el trabajo.
+
+### Artículo 67 bis
+
+Artículo 67 bis.
+1. La funcionaria víctima de Violencia de Género tendrá derecho a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia en los términos determinados en la presente Ley.
+2. La acreditación de las circunstancias que dan lugar al reconocimiento de los derechos de movilidad geográfica de centro de trabajo, excedencia, reducción o reordenación del tiempo de trabajo, se realizará conforme a lo dispuesto en los apartados 1 y 2 del artículo 31 de la Ley Integral contra la Violencia de Género de la Comunidad de Madrid.
+Se añade por la disposición final 3.1 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
+
+## Sección segunda
+
+Sección segunda. De las vacaciones y licencias
+
+### Artículo 68
+
+Artículo 68.
+Los funcionarios tendrán derecho a disfrutar durante cada año completo de servicio activo unas vacaciones retribuidas de un mes de duración o de los días que, en proporción, les correspondan cuando el tiempo realmente trabajado fuera menor.
+
+### Artículo 69
+
+Artículo 69.
+1. Se concederán permisos por las siguientes causas, debidamente justificadas:
+a) Por el nacimiento de un hijo o la muerte o enfermedad grave de un familiar, hasta el segundo grado de consanguinidad o afinidad.
+b) Por traslado de domicilio.
+c) Por razón de matrimonio.
+El máximo de duración de estos permisos se fijará por el Consejero de la Presidencia, previo informe del Consejo Regional de la Función Pública,
+2. Se concederán también permisos por las siguientes causas, debidamente justificadas:
+a) Para concurrir a exámenes preceptivos en Centros oficiales o reconocidos, durante los días de su celebración.
+b) Por deberes inexcusables de carácter público o personal, durante el tiempo necesario para su cumplimiento.
+3. El funcionario podrá disponer de un número de días al año de permiso para asuntos personales sin justificación. Por la Consejería de Presidencia se determinará el número máximo de días que pueden disfrutarse, previo informe del Consejo Regional de la Función Pública.
+Estos días de permiso estarán subordinados en su concesión a las necesidades del servicio y, en todo caso, deberá garantizarse que la misma unidad orgánica donde el funcionario presta sus servicios asumirá las tareas de éste sin daño para terceros ni para la propia organización.
+4. En los casos en los que las funcionarias víctimas de Violencia de Género tuvieran que ausentarse por ello de su puesto de trabajo, estas faltas de asistencia, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda. Las funcionarias víctimas de Violencia de Género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca la Administración de la Comunidad de Madrid.
+Se añade el apartado 4 por la disposición final 3.4 de la Ley 5/2005, de 20 de diciembre. Ref. BOE-A-2006-3667.
+
+### Artículo 70
+
+Artículo 70.
+1. Podrá concederse licencia para la realización de estudios sobre materias relacionadas con el puesto de trabajo con informe favorable del Jefe de la unidad orgánica en la que el funcionario preste sus servicios. Si la licencia se concede por interés propio de la Administración, tendrá derecho a percibir todas sus retribuciones. En caso de discrepancia, podrá elevarse consulta al Consejo Regional de la Función Pública, que deberá pronunciarse en el plazo más breve posible.
+2. Podrán concederse licencias por asuntos propios, sin ninguna retribución, y cuya duración se determinará por el Consejo de Gobierno a propuesta de la Consejería de Presidencia. La concesión de esta licencia se subordina a las necesidades del servicio.
+3. Se determinarán, de acuerdo con el régimen de previsión social al que se encuentre acogido, las licencias que correspondan al funcionario por razón de enfermedad que impida el normal desempeño de las funciones públicas.
+4. En caso de embarazo, se concederá licencia por el mismo plazo y en la misma forma que determine la normativa estatal.
+5. Las licencias para realizar funciones sindicales, formación sindical o representación del personal se atendrán a lo establecido en la normativa estatal en la materia.
+6. Podrán concederse licencias para la realización de prácticas para acceder a la condición de funcionario de otras Administraciones Públicas. Podrán ser retribuidas por la Comunidad cuando las prácticas se realicen en algún servicio de la misma.
+7. La concesión de cualquiera de estas licencias dará lugar a reserva de plaza y puesto de trabajo y el período de la misma se estimará como servicio activo.
+
+### Artículo 71
+
+Artículo 71.
+1. El funcionario con un hijo/a menor de doce meses tendrá derecho a un permiso de una hora diaria de ausencia del trabajo para atenderlo. En el caso de que el padre y la madre presten servicio en la Administración de la Comunidad, sólo uno de ellos podrá ejercer este derecho.
+2. El funcionario que por razón de guarda legal tenga a su cuidado directo algún menor de seis años o a una persona con discapacidad que no desarrolle ninguna actividad retribuida, tendrá derecho a una disminución proporcional de trabajo de un tercio o de un medio, con la reducción proporcional de sus retribuciones. La concesión de la reducción de jornada por razón de guarda legal será incompatible con la realización de cualquier otra actividad, sea o no remunerada, durante el horario que ha sido objeto de reducción.
+3. En casos debidamente justificados, basados en la incapacidad física del cónyuge, padre o madre que convivan con el funcionario, éste podrá también solicitar la reducción de jornada en las mismas condiciones señaladas en el párrafo anterior.
+Se modifica el término «disminuido psíquico o físico» por «persona con discapacidad» en el apartado 2 por el art. 1.2 de la Ley 6/2024, de 20 de diciembre. Ref. BOE-A-2025-3304
+
+## CAPÍTULO VIII
+
+Retribuciones de los funcionarios
+
+### Artículo 72
+
+Artículo 72.
+Las retribuciones de los funcionarios de la Comunidad de Madrid se dividirán en básicas y complementarias.
+No podrá retribuirse a los funcionarios por conceptos diferentes a los incluidos en los tres artículos siguientes.
+
+### Artículo 73
+
+Artículo 73.
+a) El sueldo que corresponde a cada uno de los grupos.
+b) Los trienios, consistentes en una cantidad igual para cada uno de los grupos por cada tres años de servicios. En el supuesto de que los tres años de servicios lo sean en grupos distintos, se computará el trienio completo en el grupo superior.
+c) Las pagas extraordinarias, que serán dos al año, por un importe mínimo cada una de ellas de una mensualidad del sueldo y trienios y que se devengarán las meses de junio y diciembre, computándose a estos efectos las licencias previstas en los articulas 68 y siguientes.
+
+### Artículo 74
+
+Artículo 74.
+Son retribuciones complementarias:
+a) El complemento de destino correspondiente al nivel del puesto de trabajo que se desempeñe. En la Ley de Presupuestos Generales la Comunidad Autónoma fijará anualmente la cuantía por este complemento que corresponda a cada nivel.
+b) El complemento específico, único para cada puesto de trabajo que lo tenga asignado, destinado a retribuir las condiciones particulares de algunos de ellos en atención a su especial dificultad técnica, dedicación, responsabilidad, incompatibilidades, peligro o penosidad.
+La cuantía de este complemento para cada puesto se individualizará poniendo en relación la valoración asignada al puesto con la cuota presupuestaria globalmente dotada para este concepto.
+c) El complemento de productividad, destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo.
+Su cuantía aparecerá determinada globalmente en los Presupuestos por Consejerías, Servicios o programas de gasto, correspondiendo al titular de la Consejería a quien se haya asignado la cuota global la concreción individual de las cuantías y de los funcionarios que merezcan su percepción, de acuerdo con los criterios establecidos por el Consejo de Gobierno y sin que, en ningún caso, dicha percepción implique derecho alguno a su mantenimiento en posteriores ejercicios.
+Reglamentariamente, se aprobarán criterios objetivos de carácter técnico para la valoración de los factores que integran este complemento y se institucionalizaran fórmulas de colaboración de los representantes sindicales del personal en su determinación concreta y en su control formal de la asignación.
+En todo caso, reglamentariamente se adoptarán las reglas que procedan para poder efectuar, en su caso, las correspondientes deducciones en el complemento de productividad que le corresponda percibir al funcionario conforme a los criterios objetivos que se hayan determinado como consecuencia de sus ausencias reiteradas al trabajo.
+d) Las gratificaciones por servicios extraordinarios, prestados fuera de la jornada normal, en ningún caso podrán ser fijas en su cuantía ni periódicas en su devengo. Su cuantía aparecerá determinada globalmente en los Presupuestos y se abonarán de conformidad con el sistema de cálculo que reglamentariamente se determine. Las propuestas de gratificaciones que elaboren las respectivas Consejerías quedarán sujetas a lo establecido en el artículo 9 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid.
+e) Las cantidades que perciba cada funcionario por cualquiera de los conceptos regulados en este artículo serán de conocimiento público para todo el personal de la Comunidad de Madrid, así como para los representantes sindicales.
+Se modifica la letra c) por el art. 10 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Se modifica la letra d) por el art. 8.12 de la Ley 26/1998, de 28 de diciembre. Ref. BOE-A-1999-12088.
+
+### Artículo 75
+
+Artículo 75.
+Los funcionarios de la Comunidad de Madrid tienen derecho a las indemnizaciones por razón del servicio que reglamentariamente se establezcan, y de conformidad con la legislación del Estado.
+
+## CAPÍTULO IX
+
+Régimen de Seguridad Social
+
+### Artículo 76
+
+Artículo 76.
+1. A los funcionarios de nuevo ingreso en la Administración de la Comunidad de Madrid les será de aplicación el Régimen General de la Seguridad Social.
+2. Los funcionarios propios de la Comunidad procedentes de otras Administraciones seguirán sometidos al mismo régimen de Seguridad Social o de previsión que les era aplicable en su Administración de origen.
+
+## CAPÍTULO X
+
+De los deberes, de las incompatibilidades y de las responsabilidades de los funcionarios
+
+## Sección primera
+
+Sección primera. De los deberes
+
+### Artículo 77
+
+Artículo 77.
+Son deberes de los funcionarios:
+a) El estricto cumplimiento de la Constitución, del Estatuto de Autonomía y el ordenamiento jurídico en el desempeño de sus funciones.
+b) El servicio con objetividad e imparcialidad a los intereses públicos, desempeñando fielmente las funciones a su cargo.
+c) El cumplimiento con eficacia de las funciones que tengan asignadas y esforzarse en el constante perfeccionamiento de sus conocimientos.
+d) El respeto y obediencia a sus superiores, sin perjuicio de que puedan formular de forma reglamentaria las sugerencias que estimen oportunas.
+e) El trato correcto a compañeros, subordinados y administrados, facilitando a estos el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
+f) El sigilo respecto de los asuntos que conozca por razón del cargo y no dar publicidad o utilizar indebidamente los asuntos secretos o reservados, así declarados de acuerdo con la Ley.
+g) La residencia en el término municipal donde preste su función o en cualquier otro que permita el estricto cumplimiento del horario de trabajo sin menoscabo de las tareas que tenga asignadas.
+h) La realización fuera del horario de las tareas que se les encomiende por ineludibles necesidades del servicio en circunstancias excepcionales.
+i) La atención de los servicios mínimos en caso de huelga, de conformidad con lo que acuerde el Consejo de Gobierno y según lo establecido por la legislación vigente.
+
+## Sección segunda
+
+Sección segunda. De las incompatibilidades
+
+### Artículo 78
+
+Artículo 78.
+1. A los funcionarios de la Comunidad de Madrid se les aplicará el régimen de incompatibilidades, de acuerdo con las normas básicas contenidas en la Ley de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+2. Corresponde al Consejo de Gobierno de la Comunidad de Madrid el desarrollo por vía reglamentaria del régimen de incompatibilidades del personal al servicio de la Misma.
+
+## Sección tercera
+
+Sección tercera. De las responsabilidades
+
+### Artículo 79
+
+Artículo 79.
+Los funcionarios serán responsables de la buena gestión de los servicios que tengan encomendados, procurando resolver por propia iniciativa las dificultades que encuentren en el ejercicio de su función, y sin perjuicio de la responsabilidad que incumba en cada caso a sus superiores jerárquicos, a los cuales deberán dar cuenta los funcionarios de las dificultades surgidas y de las soluciones aplicadas por su iniciativa.
+
+### Artículo 80
+
+Artículo 80.
+1. Sin perjuicio de su propia responsabilidad, en los términos del artículo 106.2 de la Constitución, la Administración podrá dirigirse, mediante la instrucción del correspondiente expediente, contra el funcionario que hubiere causado daños a los administrados o a los bienes y derechos de la Administración, por culpa grave o ignorancia inexcusable, con el fin de resarcirse de los daños causados.
+2. Los particulares podrán exigir al personal de la Administración de la Comunidad de Madrid, mediante el proceso declarativo correspondiente, la indemnización de los daños causados en su persona o bienes cuando se hayan producido por culpa grave o ignorancia inexcusable.
+
+## CAPÍTULO X1
+
+Del régimen disciplinario de los funcionarios
+
+## Sección primera
+
+Sección primera. De las faltas
+
+### Artículo 81
+
+Artículo 81.
+El incumplimiento de las obligaciones de los funcionarios constituirá falta disciplinaria que dará lugar a la imposición en forma de la sanción correspondiente, sin perjuicio de las responsabilidades civiles o penales en que pudiera haberse incurrido.
+
+### Artículo 82
+
+Artículo 82.
+Las faltas se clasifican en muy graves, graves y leves.
+
+### Artículo 83
+
+Artículo 83.
+Constituyen faltas muy graves:
+a) El incumplimiento del deber de fidelidad a la Constitución o al Estatuto de Autonomía en el ejercicio de la función pública.
+b) Toda actuación que suponga discriminación por razón de raza, sexo, religión, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social.
+c) El abandono del servicio.
+d) La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.
+e) La publicación o la utilización indebida de secretos oficiales declarados de acuerdo con la legislación vigente.
+f) La falta notoria de rendimiento cuando suponga inhibición en el cumplimiento de las tareas encomendadas.
+g) La violación de la imparcialidad política utilizando facultades públicas con el fin de influir en procesos electorales de cualquier naturaleza y ámbito.
+h) El incumplimiento de las normas sobre incompatibilidades.
+i) La obstaculización del ejercicio de las libertades públicas y de los derechos sindicales.
+j) La realización de actos dirigidos a coartar el ejercicio legal del derecho de huelga.
+k) La participación en huelgas por los funcionarios que lo tengan expresamente prohibido por la Ley.
+l) El incumplimiento de la obligación de atender los servicios mínimos en caso de huelga.
+m) La realización de actos limitativos de la libre expresión del pensamiento, ideas y opiniones.
+n) Causar daños muy graves por negligencia inexcusable o mala fe en el patrimonio de la Comunidad Autónoma.
+ñ) Haber sido sancionado por la comisión de tres faltas calificadas como graves en el período de un año.
+Se deroga el párrafo final por la disposición adicional 12 de la Ley 2/1992, de 30 de abril. Ref. BOE-A-1992-19080.
+
+### Artículo 84
+
+Artículo 84.
+1. Reglamentariamente se tipificarán las faltas graves y leves y se determinará el procedimiento de imposición de sanciones, en el que será preceptiva, en todo caso, la audiencia del interesado.
+2. Para graduar las faltas en su gravedad o levedad se atenderá a los siguientes criterios:
+a) Grado de intencionalidad.
+b) Grado en que se haya atentado a la legalidad y al interés público.
+c) Grado de perturbación producida en los servicios.
+d) Daños producidos a la Administración o a los administrados.
+e) La reincidencia.
+f) La reiteración.
+
+## Sección segunda
+
+Sección segunda. De las sanciones
+
+### Artículo 85
+
+Artículo 85.
+1. Las sanciones que podrán imponerse serán las siguientes:
+a) Separación del servicio.
+b) Suspensión de funciones.
+e) Traslado a puesto de trabajo situado en distinta localidad.
+d) Pérdida de cuatro a quince días de retribución.
+e) Pérdida de uno a tres días de retribución.
+f) Amonestación verbal o escrita.
+2. Las faltas muy graves se sancionarán con la separación del servicio o la suspensión de funciones por plazo superior a dos años e inferior a seis.
+3. La separación del servicio deberá acordarse por el Consejo de Gobierno de la Comunidad.
+
+### Artículo 86
+
+Artículo 86.
+1. Las faltas muy graves prescribirán a los seis años, las graves a los dos y las leves a los dos meses desde que la acción contra el funcionario pudiera haber sido ejercitada por la Administración.
+2. Las sanciones impuestas por faltas muy graves prescribirán a los seis años, las graves a los dos y las leves a los dos meses.
+3. Las faltas y sanciones se inscribirán en el Registro de Personal.
+
+## CAPÍTULO XII
+
+De los funcionarios interinos
+
+### Artículo 87
+
+Artículo 87.
+1. De conformidad con la legislación básica, es personal funcionario interino el que, por razones expresamente justificadas de necesidad y urgencia, es nombrado como tal con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias:
+a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años, en los términos previstos en el apartado 4 de este artículo.
+b) La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.
+c) La ejecución de programas de carácter temporal que no podrán tener una duración superior a tres años, ampliable hasta doce meses más en casos excepcionales previa acreditación de la vigencia del programa, la necesidad de ampliación y la existencia de dotación presupuestaria.
+d) El exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un período de dieciocho meses.
+2. Los procedimientos de selección del personal funcionario interino serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto. El nombramiento derivado de estos procedimientos de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.
+3. En todo caso, se formalizará de oficio la finalización de la relación de interinidad, además de por las previstas en el artículo 29, por cualquiera de las siguientes causas previstas en la legislación básica, sin derecho a compensación alguna:
+a) Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos.
+b) Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.
+c) Por la finalización del plazo autorizado expresamente recogido en su nombramiento.
+d) Por la finalización de la causa que dio lugar a su nombramiento.
+4. En el supuesto previsto en el apartado 1.a), las plazas vacantes desempeñadas por personal funcionario interino deberán ser objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa vigente.
+No obstante, transcurridos tres años desde el nombramiento del personal funcionario interino se producirá el fin de la relación de interinidad, y la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se podrá efectuar otro nombramiento de personal funcionario interino.
+Excepcionalmente, el personal funcionario interino podrá permanecer en la plaza que ocupe temporalmente, siempre que se haya publicado la correspondiente convocatoria dentro del plazo de los tres años, a contar desde la fecha del nombramiento del funcionario interino y sea resuelta conforme a los plazos establecidos en la normativa aplicable. En este supuesto podrá permanecer hasta la resolución de la convocatoria, sin que su cese dé lugar a compensación económica.
+5. Al personal funcionario interino le será aplicable el régimen general del personal funcionario de carrera en cuanto sea adecuado a la naturaleza de su condición temporal y al carácter extraordinario y urgente de su nombramiento, salvo aquellos derechos inherentes a la condición de funcionario de carrera.
+Se modifica por el art. único de la Ley 3/2025, de 26 de septiembre. Ref. BOE-A-2025-21544
+ Téngase en cuenta, el regimen transitorio establecido en la disposición transitoria única de la citada ley.
+
+## TÍTULO V
+
+Del personal laboral
+
+### Artículo 88
+
+Artículo 88.
+1. El personal laboral se clasifica en: Fijo y temporal o de duración determinada.
+2. Forman el personal laboral fijo quienes se encuentren vinculados a la Administración regional por una relación profesional de empleo en la que concurran las notas de ajeneidad, dependencia, voluntariedad y retribución, en virtud de contrato de naturaleza laboral, que deberán formalizarse siempre por escrito.
+3. Forman el personal laboral temporal quienes hayan sido contratados, asimismo, por escrito, conforme a las diversas tipologías previstas en la legislación laboral.
+4. El personal laboral está sometido al derecho del trabajo. Consiguientemente sus condiciones de empleo son las establecidas en la contratación colectiva e individual, en el marco de la legislación laboral y de los preceptos de esta Ley que expresamente se le refieran.
+5. El personal laboral no podrá ocupar puestos de trabajo clasificados para funcionarios públicos en las relaciones de puestos de trabajo.
+
+### Artículo 89
+
+Artículo 89.
+1. Al personal laboral de la Comunidad de Madrid se le aplicará el régimen de incompatibilidades, de acuerdo con las normas básicas contenidas en la Ley de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+2. El trabajador que como causa de la normativa sobre incompatibilidades deba optar por un puesto de trabajo quedará en el que cesare en situación de excedencia por incompatibilidad, aunque no hubiera cumplido un año de antigüedad en el servicio. Deberá permanecer en esta situación mientras dure la incompatibilidad, conservando el derecho preferente al reingreso en vacante de igual o similar categoría a la que ostentase cuando pasó a la situación de excedencia.
+
+## TÍTULO VI
+
+De la colaboración temporal
+
+### Artículo 90
+
+Artículo 90.
+1. La colaboración temporal en sectores de actividad administrativa reservados a funcionarios, según las relaciones de puestos de trabajo y que por razones excepcionales no puedan ser debidamente atendidos par éstos, se establecerá por contratación laboral temporal o de duración determinada.
+2. Estos contratos no podrán ser objeto de prórroga ni renovación. Serán nulos de pleno derecho los reglamentos o actos administrativos que infrinjan lo anterior, sin perjuicio de la responsabilidad personal de la autoridad o funcionario que autorizara la prórroga o el nuevo contrato.
+3. Asimismo, en cualquier sector de actividad pública de la Comunidad podrán establecerse contrataciones laborales temporales o de duración determinada para programas de inversión o de realización a tiempo cierto, cuando no puedan ser atendidos por el personal fijo. Estos contratos quedarán sujetos a los mismos límites contemplados en el apartado anterior.
+
+## TÍTULO VII
+
+Del personal al servicio de la Administración institucional de la Comunidad
+
+## CAPÍTULO I
+
+Organismos autónomos y Órganos especiales de gestión
+
+### Artículo 91
+
+Artículo 91.
+1. El personal adscrito a los Organismos autónomos y Órganos especiales de gestión se regirá por la presente Ley y por lo establecido en el capítulo VIII de la Ley 1/1984, de 19 de enero, reguladora de la Administración institucional de la Comunidad de Madrid y la fundacional correspondiente.
+2. A los efectos previstos en el artículo 14, número 2, de esta Ley, se entenderán como puestos de trabajo que realizan las funciones de ejercicio de autoridad, inspección y control, los de Secretarios del Consejo de Administración del Organismo y los de Interventores, que habrán de reservarse a funcionarios de la Comunidad.
+
+### Artículo 92
+
+Artículo 92.
+1. La aprobación de las relaciones de puestos de trabajo y su valoración será competencia del Consejo de Gobierno de la Comunidad, a propuesta del Consejo de Administración del Organismo y previo informe preceptivo de la Consejería de Presidencia.
+2. Las demás competencias en materia de personal atribuidas a los Órganos de Gobierno correspondientes por las Leyes especiales a que hace referencia el artículo anterior, se ejercerán atendiendo a las instrucciones y directrices que emitan el Consejo de Gobierno y la Consejería de Presidencia de la Comunidad.
+
+## CAPÍTULO II
+
+Empresas públicas
+
+## Sección primera
+
+Sección primera. De las empresas en general
+
+### Artículo 93
+
+Artículo 93.
+1. El personal de las Empresas públicas de la Comunidad tendrá naturaleza laboral y se regirá por los Convenios Colectivos que les sean de aplicación por la presente Ley, por la Ley de Administración Institucional, por la propia fundacional y por las normas de Derecho Laboral.
+2. Los órganos de Gobierno de las Empresas públicas vienen obligados a remitir a la Consejería de Presidencia, para su informe, las relaciones de puestos de trabajo de su plantilla, y adoptarán las decisiones que correspondan, atendiendo a los criterios que en política de personal fije el Consejo de Gobierno de la Comunidad.
+
+## Sección segunda
+
+Sección segunda. Del Ente público Radio Televisión Madrid
+
+### Artículo 94
+
+Artículo 94.
+El personal del Ente público se regirá por el Convenio Colectivo que le sea de aplicación por la Ley 13/1984, de creación del Ente público Radio Televisión Madrid, y en lo no previsto en ambos, por las normas laborales y por la presente Ley.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Son funcionarios propios de la Administración de la Comunidad de Madrid:
+a) Los funcionarios de la integrada Diputación Provincial, en virtud de lo previsto en el Estatuto de Autonomía de la Comunidad de Madrid.
+b) Los funcionarios procedentes de la Administración del Estado incursos en traspasos de servicios operados por Reales Decretos de transferencias y aquellos funcionarios que, procedentes de la Administración del Estado o de las Corporaciones Locales de Madrid, se hubieran incorporado en virtud de las ofertas públicas de empleo o concursos permanentes de traslado resueltos con anterioridad a la entrada en vigor de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Por Decreto del Consejo de Gobierno se integrará en los correspondientes Cuerpos de Funcionarios de Administración General de la Comunidad de Madrid a los funcionarios incluidos en la disposición adicional primera, de acuerdo con el siguiente detalle:
+a) Funcionarios de la integrada Diputación Provincial de Madrid pertenecientes a los subgrupos de Técnicos, Administrativos y Auxiliares de aquélla, de la proporcionalidad correspondiente y que desempeñen las funciones correspondientes a su escala, siempre que a la entrada en vigor de esta Ley estén en posesión del título académico habilitante correspondiente a cada uno de estos grupos.
+b) Funcionarios de otras Administraciones Públicas pertenecientes a los grupos A, B, C y D que desempeñaran funciones correspondientes a su escala, siempre que a la entrada en vigor de esta Ley estén en posesión del título académico habilitante correspondiente a cada uno de estos grupos.
+2. Se formarán Escalas de Administración General «a extinguir» en los grupos A, B, C, D y E, en las que, por Decreto del Consejo de Gobierno, se integrarán a aquellos funcionarios de los índices de proporcionalidad 10, 8, 6, 4 y 3, respectivamente, que no reúnan las condiciones indicadas en el número anterior para integrarse en los respectivos Cuerpos de Administración General de la Comunidad de Madrid.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Por Decreto del Consejo de Gobierno se integrarán en los correspondientes Cuerpos o Escalas de Administración Especial de la Comunidad de Madrid los funcionarios incluidos en la disposición adicional primera, tanto los de la integrada Diputación Provincial como los de otras Administraciones Públicas, cuando las titulaciones de las respectivas profesiones u oficios, así como las funciones de sus Cuerpos de origen sean idénticas a las de los Cuerpos de Administración Especial, reguladas en la presente Ley, siempre que a la entrada en vigor de la misma estén en posesión del título académico habilitante.
+2. Se formarán Escalas de Administración Especial «a extinguir» en los grupos, A, B, C, D y E, en las que, por Decreto del Consejo de Gobierno, se integrarán aquellos funcionarios de los índices de proporcionalidad 10, 8, 6, 4 y 3, respectivamente, que no reúnan las condiciones indicadas en el número anterior para integrarse en los respectivos Cuerpos y Escalas de la Administración Especial de la Comunidad de Madrid.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. La Administración de la Comunidad de Madrid garantiza a los funcionarios a los que se refiere la disposición adicional primera el respeto a los derechos legítimamente adquiridos en las Administraciones de procedencia.
+2. Sin perjuicio de lo establecido en el párrafo anterior, las situaciones administrativas declaradas antes de la entrada en vigor de la presente Ley se adaptarán a los preceptos de la misma.
+3. Asimismo, la Administración de la Comunidad de Madrid inscribirá a tales funcionarios en su Registro de Personal y les expedirá un título individual acreditativo de su condición de funcionario propio de la Comunidad, con expresión del grupo a que pertenece y del Cuerpo de funcionarios en el que esté integrado.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. El personal laboral que preste sus servicios en la Comunidad de Madrid a la fecha de entrada en vigor de la presente Ley, aun cuando proceda de otras Administraciones, quedará integrado con pleno derecho en la Comunidad de Madrid, con adecuación a los correspondientes convenios de la misma.
+2. Al igual que en el caso de los funcionarios, y paralelamente a lo que establece la disposición adicional cuarta, será expedido a dicho personal laboral una hoja de servicios acreditativa de su vinculación, de su grupo y convenio y de su categoría profesional.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+1. En el plazo de seis meses, a partir de la entrada en vigor de la presente Ley, la Consejería de Presidencia procederá a clasificar las funciones desempeñadas por el personal contratado temporalmente con naturaleza administrativa o por funcionarios interinos. La clasificación determinará los puestos a desempeñar, según los casos, por funcionarios, por personal laboral y por personal en régimen laboral temporal.
+2. El personal que haya prestado servicio como contratado temporal administrativo o como funcionario interino, con anterioridad al 24 de agosto de 1984, en actividades clasificadas o que se clasifiquen como de funcionarios, podrán participar durante los años 1986 y 1987 en las pruebas selectivas de acceso a los Cuerpos de Funcionarios a través del sistema de concurso-oposición libre, donde se valorarán los servicios prestados en cualquiera de las Administraciones Públicas. Si no obtuviera plaza en alguna de las convocatorias, quedará extinguida su relación de empleo en la Comunidad.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Los plazos previstos en el artículo 18 de la presente Ley para la aprobación de la oferta anual de empleo público y las consiguientes convocatorias de vacantes se computarán en 1986, a partir de la publicación de la Ley de Presupuestos de la Comunidad para dicho ejercicio.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+1. Los Presupuestos de la Comunidad de Madrid establecerán las consignaciones y límites dentro de los cuales el Presidente y los Consejeros podrán proceder al nombramiento y cese del personal eventual.
+2. El personal eventual sólo ejercerá funciones basadas en la confianza o asesoramiento de la autoridad que los designó. El personal eventual cesará automáticamente cuando cese la autoridad a la que preste su función de confianza o de asesoramiento.
+3. Sus condiciones de empleo son las que se determinen en el acto de nombramiento y, supletoriamente y en la medida que les sean aplicables, las que se establecen en esta Ley para los funcionarios públicos, sin que pueda aplicárseles en ningún caso la normativa laboral.
+4. En ningún caso el desempeño de un puesto de trabajo reservado a personal eventual constituirá mérito para el acceso a plazas de funcionarios o de laborales fijos, o a la promoción interna.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+1. Por Decreto del Consejo de Gobierno se integrará en el Cuerpo de Letrados de la Comunidad de Madrid a los funcionarios de carrera que en la fecha de entrada en vigor de la presente disposición, pertenezcan a la Escala de Letrados del Cuerpo de Técnicos Superiores Facultativos.
+Igualmente se integrará en el Cuerpo de Letrados a los funcionarios de carrera de la Comunidad de Madrid del grupo A, Licenciados en Derecho, que, a la fecha de entrada en vigor del Decreto a que se refiere el párrafo anterior, ocupen o hayan ocupado puestos de trabajo de Letrado en la Dirección General de los Servicios Jurídicos de la Consejería de Presidencia o de las Asesorías Jurídicas de las distintas Consejerías, desarrollando funciones de asesoramiento en Derecho y/o defensa en juicio de la Comunidad de Madrid durante cinco años como mínimo. Los funcionarios que cumplan estos requisitos deberán solicitar la integración en el plazo de un año a contar desde la entrada en vigor del Decreto a que se refiere el párrafo anterior.
+2. Los funcionarios pertenecientes a la Escala de Archivos, Bibliotecas y Museos, del Cuerpo de Técnicos Superiores Facultativos pasan a integrarse en el Cuerpo de Archivos, Bibliotecas y Museos.
+Se modifica el párrafo 2 del apartado 1 por la disposición adicional 6 de la Ley 3/1999, de 30 de marzo. Ref. BOE-A-1999-12091.
+ Se añade por el art. 6.2 de la Ley 28/1997, de 26 de diciembre. Ref. BOE-A-1998-20606.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+1. El Cuerpo de Inspectores de Hacienda de la Comunidad de Madrid, se adscribe a la Consejería de Hacienda. Este Cuerpo se configura como de Administración Especial.
+2. El Cuerpo de Inspectores de Hacienda realizará las funciones de gestión tributaria en todos sus órdenes y la inspección de los impuestos propios, cedidos y en su caso convenidos, de la Comunidad de Madrid.
+Los funcionarios de este Cuerpo podrán asumir respecto de los tributos locales las competencias previstas en el Real Decreto 1684/1990, de 20 de diciembre.
+3. Para ingresar en el Cuerpo Superior de Inspectores de Hacienda de la Comunidad de Madrid será preciso estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente y superar las pruebas selectivas que se convoquen.
+El Consejo de Gobierno podrá conceder a los funcionarios del Cuerpo Superior de Inspectores Financieros y Tributarios transferidos desde el Estado la facultad de integrarse en el Cuerpo de Inspectores de Hacienda de la Comunidad de Madrid.
+Se añade por el art. 6.3 de la Ley 28/1997, de 26 de diciembre. Ref. BOE-A-1998-20606.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+(Derogada)
+Se deroga por la disposición derogatoria única.h) de la Ley 9/2010, de 23 de diciembre. Ref. BOE-A-2011-8629.
+ Se añade por el art. 10.4 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+1. El personal estatutario sanitario y no sanitario que se integre en la Comunidad de Madrid, procedente del Instituto Nacional de la Salud, continuará rigiéndose por la normativa que le sea aplicable en el momento de la transferencia, atendiendo a su procedencia y a su vinculación jurídica.
+2. El Gobierno establecerá la distribución de competencias en materia del personal citado en el apartado anterior entre los correspondientes órganos de la Comunidad de Madrid.
+Se añade por el art. 10.3 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.1.a) de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+ Se añade por el art. 13.7 de la Ley 13/2002, de 20 de diciembre. Ref. BOE-A-2003-4507.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta.
+1. La regulación contenida en esta disposición adicional será aplicable al personal funcionario y laboral de administración y servicios, cualquiera que sea la naturaleza, permanente o temporal, de su vinculación jurídica, así como al personal eventual.
+No obstante, la carrera profesional horizontal del personal laboral se ajustará, en su caso, a lo que se establezca en el convenio colectivo que resulte de aplicación y a lo previsto por la legislación básica.
+2. La evaluación del desempeño se ajustará a lo previsto en el artículo 20 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, tendrá carácter anual y preceptivo para todos los empleados, y será motivada.
+En todo caso, la evaluación del desempeño será exigible para posibilitar avances en la carrera profesional horizontal y la percepción del complemento retributivo asociado a la misma, así como para el abono del complemento de productividad o concepto equivalente.
+3. La carrera profesional horizontal se ajustará a lo dispuesto en los artículos 16.3.a), 17, 20.5 y 24.a) del texto refundido de la Ley del Estatuto Básico del Empleado Público.
+La estructura de la carrera horizontal se articulará a través de distintos niveles dentro de cada Subgrupo o, en su caso, Grupo cuando el mismo no cuente con Subgrupos y el número de niveles será igual en cada uno de ellos; los ascensos de nivel se producirán de forma consecutiva y exigirán, al menos, un periodo mínimo de permanencia en el nivel inmediatamente anterior y acreditar el número de evaluaciones de desempeño positivas que al efecto se determinen. Los avances de nivel se sujetarán a convocatoria pública y a la obtención de la puntuación mínima que se establezca, y la participación será voluntaria.
+El reconocimiento de un determinado nivel dará derecho, en su caso, a la percepción del complemento de carrera profesional horizontal correspondiente al nivel reconocido.
+La cuantía de este complemento, que tiene el carácter de retribución complementaria de naturaleza personal, se establecerá para cada nivel y será igual para todo el personal funcionario de cada Subgrupo de clasificación profesional o del Grupo, si éste no tuviera Subgrupos, que tenga reconocido el mismo nivel.
+Dicha cuantía se determinará mediante un porcentaje, establecido reglamentariamente, del sueldo anual previsto en el artículo 73.a) de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, sin comprender, por tanto, la parte de las pagas extraordinarias.
+4. Reglamentariamente se desarrollará el régimen jurídico de la evaluación del desempeño y de la carrera profesional horizontal, dentro del marco contenido en la presente disposición.
+Esta disposición reglamentaria podrá prever, excepcionalmente, que se pueda reconocer al personal funcionario que, a la fecha que se fije en la misma, se encuentre en situación de servicio activo, o en otra situación administrativa que comporte el cómputo de su duración a efectos de antigüedad y de carrera, la adquisición directa de niveles de carrera horizontal superiores al inicial, atendiendo al tiempo de servicios prestados y a la conducta profesional anterior al comienzo de dicha vigencia, con efectos económicos y administrativos desde el 1 de enero de 2025.
+Se añade por la disposición final 1.1 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. En concordancia con lo establecido en las disposiciones adicionales segunda y tercera, el Consejo de Gobierno, en el plazo máximo de un año, a partir de la publicación de la presente Ley, dictará los Decretos siguientes:
+1.° Decreto de integración de funcionarios en Cuerpos de Administración General de la Comunidad, con formación de las Escalas «a extinguir» que sean precisas.
+2.° Decreto de integración de funcionarios en Cuerpos y Escalas de Administración Especial, con formación de las Escalas «a extinguir» que procedan.
+2. Hasta tanto no se aprueben por el Consejo de Gobierno los Decretos dichos en el apartado anterior, si bien los funcionarios se encontrarán transitoriamente pendientes de integración en los correspondientes Cuerpos y Escalas de la Comunidad de Madrid, ello no afectará a su vinculación esencial como funcionario propio de la misma, de forma que les será de aplicación la presente Ley en todo cuanto no afecte única y exclusivamente a Cuerpos y Escalas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La aprobación de las relaciones de puestos de trabajo y la implantación del nuevo sistema retributivo previsto en la Ley podrá realizarse por fases sucesivas, en atención a los diversos mecanismos de valoración de las actividades que se realizan en las unidades orgánicas, así coma por las disponibilidades presupuestarias que existan en cada ejercicio.
+Hasta tanto se produzca la implantación del nuevo sistema retributivo, los funcionarios seguirán siendo retribuidos mediante los conceptos salariales vigentes con anterioridad a la entrada en vigor de esta Ley, y sin perjuicio de les peculiaridades de aplicación que sobre dichos conceptos pueda establecer para cada ejercicio la Ley de Presupuestos de la Comunidad.
+Si como consecuencia de la aplicación del sistema retributivo de la Ley, resultante de la aprobación de la relación de puestos de trabajo, se produjese disminución en el total de las retribuciones anuales –excluido de dicho cómputo el concepto de dedicación exclusiva–, los funcionarios afectados tendrán derecho al establecimiento de un complemento personal y transitorio hasta alcanzar la diferencia, que será absorbido por los incrementos de retribuciones complementarias provenientes de cualquier mejora retributiva, excepto por la producida mediante asignación del complemento de productividad.
+El Consejo de Gobierno adoptará las medidas oportunas para que, tanto la aprobación de las relaciones de puestos de trabajo, como la consecuente implantación del nuevo sistema retributivo, deba estar culminado con anterioridad al 31 de diciembre de 1986.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Durante el proceso de aprobación de las relaciones de puestos de trabajo y de implantación del nuevo sistema retributivo previsto en esta Ley, las cuantías por niveles de complemento de destino y complementos específicos, se fijarán mediante Decreto del Consejo de Gobierno, del que se dará cuenta a la Asamblea de Madrid.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. Hasta tanto se aprueben las relaciones de puestos de trabajo de la Comunidad y con objeto de que exista la conveniente homogeneización con los funcionarios de otras Administraciones Públicas, el cómputo de tiempo necesario para la adquisición del grado personal establecido en el artículo 38 de la Ley se iniciará a partir del día 1 de enero de 1985.
+A tales efectos, será computable el nivel del puesto que se viniera ocupando desde aquella fecha y con anterioridad a la aprobación de la relación orgánica y a la implantación del nuevo sistema retributivo previsto en la Ley.
+2. Cuando se apruebe la relación orgánica de puestos de trabajo, se implante el nuevo sistema retributivo previsto en esta Ley y a dichos puestos se les asigne un nivel diferente al que tuvieran con anterioridad, los funcionarios que vinieran desempeñando aquellos puestos adquirirán el nuevo nivel, a efectos del cómputo de tiempo necesario para la obtención del grado personal, siempre y cuando los niveles se correspondan a los propios del intervalo del grado de funcionarios al que pertenezcan los interesados.
+Si desempeñase un funcionario un puesto o puestos de trabajo distintos de los que corresponde al intervalo de su grado, durante el tiempo exigible para consolidar un grado, se entenderá que ha consolidado el nivel máximo o el nivel mínimo del intervalo del grado, según que los puestos de referencia se encuentren clasificados por encima o por debajo del intervalo.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Hasta el momento de su consolidación, los sistemas de provisión de puestos de trabajo se resolverán sin consideración a grado personal alguno.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+El personal eventual de los Organismos autónomos, nombrado en virtud de la Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, continuará prestando sus funciones en las mismas condiciones y con los mismos requisitos previstos en la citada norma.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Los funcionarios integrantes de los Cuerpos Técnicos Sanitarios al servicio de la Sanidad Local mantendrán su régimen retributivo específico en tanto se proceda a la regulación definitiva de su sistema salarial.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Tanto los funcionarios como el personal laboral, que como consecuencia de estar prestando servicios en unidades orgánicas que puedan clasificarse mediante la relación de puestos de trabajo de naturaleza distinta a la que vinieron ostentando deban declararse a extinguir sus plazas, conservarán su derecho a promoción en concurrencia, conforme a las normas que estuvieran aprobadas con anterioridad a la entrada en vigor de la presente Ley.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+1. La Asamblea de Madrid regulará, antes del 31 de diciembre de 1986, mediante el Estatuto previsto en la disposición final tercera de su Reglamento, el régimen de su Función Pública propia, estableciendo los Cuerpos. Escalas y Categorías que se estimen necesarias.
+2. El personal que a la fecha de entrada en vigor del referido Estatuto se integrara en las agrupaciones que fueran aprobadas, quedarán en sus Administraciones de origen en las situaciones reguladas, bien por la presente Ley, bien en la legislación del Estado.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+1. De conformidad con la Ley 5/1989, de 6 de abril, por la que se establecen los criterios básicos por los que han de regirse las relaciones de empleo del personal al servicio de la Comunidad de Madrid, con carácter general los puestos de trabajo serán desempeñados por funcionarios públicos.
+A estos efectos se procederá a la elaboración de catálogos de puestos de trabajo de personal laboral correspondientes a categorías profesionales que, por aplicación de lo dispuesto en el párrafo anterior deban ser desempeñados por funcionarios públicos.
+Si como consecuencia del proceso de catalogación se derivara la necesidad de creación de nuevos Cuerpos o Escalas, el Gobierno de la Comunidad de Madrid promoverá un proyecto de Ley para tal fin, en los términos previstos en el apartado primero de la Disposición Adicional Tercera de la Ley 5/1989, de 6 de abril.
+Los catálogos de puestos de trabajo contendrán como mínimo el contenido previsto para las relaciones de puestos de trabajo.
+2. El personal laboral fijo que en la fecha de efectos de los catálogos a los que se hace referencia en el apartado anterior se encuentre desempeñando un puesto incluido en los mismos, podrá adquirir la condición de personal funcionario en el Cuerpo, Escala o Especialidad al que se adscriba el puesto que desempeñe, previa superación de los procesos selectivos que, con carácter excepcional, se aprueben de forma autónoma e independiente de las convocatorias de acceso libre, con sujeción estricta a los principios constitucionales de igualdad, mérito y capacidad.
+Lo dispuesto en el párrafo anterior será también de aplicación al personal laboral fijo en los casos de suspensión del contrato con reserva de puesto de trabajo, siempre que el mismo se encuentre incluido en un catálogo de puestos susceptibles de funcionarización e, igualmente, al personal laboral fijo en situación de excedencia que, con anterioridad a la misma, se encontrara desempeñando un puesto de trabajo análogo a aquéllos que se incorporen a los correspondientes catálogos.
+Quienes participen en las convocatorias para la adquisición de la condición de funcionario de carrera deberán reunir los requisitos generales exigidos para tal fin así como, en su caso, los específicos establecidos para el Cuerpo, Escala o Especialidad de que se trate.
+Una vez efectuadas dichas convocatorias se resolverán las mismas en el plazo máximo de nueve meses.
+3. El personal laboral fijo que adquiera la condición de funcionario de carrera de conformidad con lo previsto en el presente artículo quedará adscrito con carácter definitivo al puesto de trabajo de personal funcionario en que se reconvierta la plaza que viniera desempeñando, en el que habrá de permanecer un período mínimo de dos años con las excepciones previstas en la Ley 4/1989, de 6 de abril, de provisión de puestos de trabajo reservados a personal funcionario de la Comunidad de Madrid. Con anterioridad a su nombramiento como funcionario de carrera se suscribirá acuerdo de extinción del contrato de trabajo, condicionando su efectividad a la toma de posesión como tal, tras la cual se extinguirá su vinculación laboral con la Comunidad de Madrid.
+Desde la toma de posesión como funcionario de carrera le resultará de aplicación la normativa general vigente para el personal funcionario al servicio de la Administración de la Comunidad de Madrid, y percibirá sus retribuciones de acuerdo con la estructura y las cuantías propias del mismo. No obstante lo anterior, las retribuciones que se perciban como personal funcionario no podrán ser inferiores a las consolidadas como personal laboral. Asimismo, a dicho personal le serán reconocidos a efectos de antigüedad los servicios prestados con anterioridad a la adquisición de la condición de funcionario de carrera, de conformidad con lo dispuesto en la Ley 70/1978, de 26 diciembre, de Reconocimiento de Servicios Previos en la Administración Pública.
+A su vez, el personal laboral fijo con suspensión del contrato de trabajo o en excedencia que supere los procesos selectivos establecidos será declarado, con ocasión de su toma de posesión como funcionario de carrera, en la situación administrativa que resulte equivalente al supuesto que determinó la suspensión del contrato o a la modalidad de excedencia de que viniera disfrutando.
+4. El personal afectado por lo dispuesto en el presente artículo que no haga uso de su derecho a concurrir al proceso selectivo para adquirir la condición de funcionario de carrera o que no supere el mismo, continuará en el puesto de trabajo que desempeñe o que tenga reservado.
+El referido personal conservará los derechos que se deriven de su condición de personal laboral fijo, sin menoscabo de sus expectativas de promoción profesional, movilidad y reingreso en aquellos puestos de trabajo de naturaleza laboral que continúen existiendo tras el proceso de funcionarización.
+5. Los procesos de funcionarización no afectarán a las expectativas de los funcionarios de carrera en materia de movilidad y promoción profesional.
+6. Una vez que se produzca la aprobación definitiva de un catálogo de puestos de trabajo susceptibles de ser reservados a personal funcionario, las plazas incluidas en el mismo que se encuentren vacantes se transformarán en puestos de trabajo de naturaleza funcionarial, y se procederá a su provisión de acuerdo con los requisitos, sistemas y procedimientos establecidos para el personal funcionario. En ningún caso la adopción de dichos catálogos y el desarrollo de los procesos subsiguientes podrán suponer una disminución en el número total de plazas preexistentes.
+Asimismo, la adopción de estos catálogos supondrá la extinción del contrato de trabajo del personal laboral que, en su caso, se encuentre desempeñando mediante una vinculación de carácter temporal alguno de los puestos incluidos en aquéllos. No obstante, dicho personal será nombrado, sin solución de continuidad, como funcionario interino en el puesto de trabajo correspondiente a personal funcionario en que se transforme la plaza que ocupaba con anterioridad, siempre y cuando reúna los requisitos necesarios para ello.
+7. Mediante Decreto del Gobierno de la Comunidad de Madrid, adoptado a propuesta de la Consejería de Justicia, Función Pública y Administración Local y previa negociación con las Organizaciones Sindicales, se desarrollará el contenido del presente precepto.
+Se añade por el art. 10.5 de la Ley 18/2000, de 27 de diciembre. Ref. BOE-A-2001-5584.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango que se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias en desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», siendo también publicada en el «Boletín Oficial del Estado».
+
+### Disposición final tercera
+
+Disposición final tercera.
+El inicio de la carrera profesional horizontal quedará demorado hasta la aprobación de la norma de desarrollo prevista en la disposición adicional decimocuarta y se ajustará, en cuanto a los efectos económicos de su implantación, a las disponibilidades presupuestarias existentes.
+Se añade por la disposición final 1.2 de la Ley 9/2024, de 26 de diciembre. Ref. BOE-A-2025-5524
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 10 de abril de 1986.
+JOAQUÍN LEGUINA HERRÁN,
+Presidente de la Comunidad

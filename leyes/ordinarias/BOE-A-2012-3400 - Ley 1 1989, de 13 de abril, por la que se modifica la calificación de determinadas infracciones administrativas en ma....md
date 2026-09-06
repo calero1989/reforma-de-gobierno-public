@@ -1,0 +1,158 @@
+# Ley 1/1989, de 13 de abril, por la que se modifica la calificación de determinadas infracciones administrativas en materia de caza y pesca fluvial y se elevan las cuantías de las sanciones.
+
+- Identificador BOE: `BOE-A-2012-3400`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3400
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-3410
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 1/1989, de 13 de abril, por la que se modifica la calificación de determinadas infracciones administrativas en materia de caza y pesca fluvial y se elevan las cuantías de las sanciones.
+Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 27 de abril de 1989.–El Lehendakari, José Antonio Ardanza Garro.
+EXPOSICIÓN DE MOTIVOS
+La presente ley establece unas cuantías de las sanciones por infracciones administrativas en materia de caza y pesca fluvial adecuadas a la realidad económica y social del momento, estableciendo un mecanismo para su actualización permanente, a fin de que no se produzcan de nuevo situaciones de desfase por el mantenimiento de las mismas cuantías durante periodos prolongados de tiempo, lo que daría lugar a la pérdida de su eficacia. Por otro lado, se aprovecha esta reforma, que difícilmente se podía dilatar más en el tiempo, para modificar determinadas infracciones administrativas, adecuándolas a las características específicas de la Comunidad Autónoma del País Vasco y a los preceptos constitucionales.
+
+### Artículo 1
+
+Artículo 1. Clasificación y sanciones.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley 2/2011, de 17 de marzo. Ref. BOE-A-2011-6648#dd
+ Se declaran inconstitucionales y nulos los incisos destacados de los apartados 1.1.1 y 1.1.17 en la medida en que, por su conexión con lo establecido en el apartado 1.1, vulneran la competencia estatal de legislación básica sobre protección del medio ambiente, por Sentencia del TC 196/1996, de 28 de noviembre. Ref. BOE-T-1997-69
+ Se añade el apartado 1.1.18 por la disposición adicional 6 de la Ley 16/1994, de 30 de junio. Ref. BOE-A-2012-1687
+ Véase el art. 79 de la citada ley.
+ Se mantiene la suspensión por Auto del TC de 16 de enero de 1990. Ref. BOE-A-1990-2344
+ Se suspende la vigencia y aplicación de los incisos destacados de los apartados 1.1.1 y 1.1.17 en relación con la cuantía de las multas previstas en el apartado 1.1, desde el 3 de agosto de 1989 para las partes en el proceso y desde el 5 de septiembre de 1989 para los terceros, por providencia del TC de 29 de agosto de 1989 por la que se admite a trámite el recurso de inconstitucionalidad núm. 1739/1989. Ref. BOE-A-1989-21673
+ Redactado conforme a la corrección de errores publicada en BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-3410
+
+### Artículo 2
+
+Artículo 2.
+Tendrán consideración de infracciones muy graves de pesca fluvial y serán sancionadas con multas de 50.001 a 500.000 pesetas, así como la anulación de la licencia de pesca y privación de la facultad de obtenerla durante un periodo de tres a cinco años, las siguientes:
+1. Pescar en el interior de las escalas o pasos de peces.
+2. Pescar con redes, o pretender hacerlo, en las aguas declaradas oficialmente como habitadas por salmónidos.
+3. Pescar con redes en las inmediaciones de la desembocadura de los ríos salmoneros durante el periodo hábil para la pesca del salmón.
+4. Pescar haciendo uso de aparatos accionados por electricidad.
+5. Tener sustancias tóxicas en las proximidades de las aguas, cuando se demuestre que las mismas se pretende utilizarlas con fines de pesca.
+6. Incorporar a las aguas continentales o a sus álveos, áridos, arcillas, escombros, limos, residuos industriales o cualquier otra clase de sustancias que produzcan enturbiamiento o que alteren sus condiciones de habitabilidad piscícola, con daño para esta forma de riqueza.
+7. La formación de escombreras en lugares que por su proximidad a las aguas o a sus cauces sean susceptibles de ser arrastradas por éstas o lavadas por las de lluvia, con el consiguiente daño para la riqueza piscícola, salvo que tales escombreras tuviesen un carácter provisional, reuniesen las debidas garantías para impedir que se produzcan daños a la riqueza piscícola y hubiesen sido autorizadas por la Comisaría de Aguas de la cuenca correspondiente.
+8. No respetar los caudales mínimos establecidos para las escalas y pasos de peces.
+9. No respetar el caudal mínimo necesario para la vida acuática, aunque exista una concesión administrativa de aprovechamiento hidráulico.
+10. Agotar o disminuir notablemente el volumen de agua de los embalses y canales, así como la circulante por el lecho de los ríos, sin haberlo participado al Departamento de Agricultura de la Diputación Foral, con una anticipación mínima de quince días o el incumplimiento de las condiciones que a estos efectos hubiesen sido fijadas por dicho Departamento.
+11. Construir barreras de piedras o de otras materias, estacadas, empalizadas, atajos, cañeras, cañizales o pesqueras, sin la debida autorización del Departamento de Agricultura de la Diputación Foral, así como realizar obras o colocar en los cauces artefactos con fines directos o indirectos de pesca.
+12. Alterar los cauces, descomponer los pedregales del fondo, disminuir arbitrariamente el caudal de las aguas, destruir la vegetación acuática y la de las orillas y márgenes.
+13. No cumplir las condiciones fijadas por el Departamento de Agricultura de la Diputación Foral para la defensa, conservación o fomento de la riqueza piscícola, cuando estas condiciones hayan sido fijadas mediante expediente que hubiera adquirido carácter de firmeza.
+14. Comerciar o pretender hacerlo con peces o cangrejos de dimensiones menores a las reglamentarias, o de tamaño legal cuando sea en época en que esté prohibida su pesca o venta.
+15. Perjudicar o trasladar sin permiso los aparatos de incubación artificial del Departamento de Agricultura de la Diputación Foral o los de particulares o sociedades autorizadas para establecerlos.
+16. Introducir en las aguas públicas o privadas especies acuícolas distintas de las que habiten en ellas de forma natural sin la debida autorización del Departamento de Agricultura de la Diputación Foral.
+17. Arrojar o verter a las aguas basuras, inmundicias, desperdicios o cualquier otra sustancia o material similar a los anteriores, siempre que las mismas sean susceptibles de causar perjuicios a la riqueza piscícola.
+Redactado conforme a la corrección de errores publicada en BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-3410
+
+### Artículo 3
+
+Artículo 3.
+Tendrán la consideración de infracciones de pesca fluvial graves y serán sancionadas con multas comprendidas entre 25.001 y 50.000 pesetas, así como la anulación de la licencia de pesca y privación de la facultad de obtenerla durante un periodo de uno a tres años, las siguientes:
+1. Pescar con red en acequias, caceras o cauces de derivación.
+2. Pescar con redes que ocupen más de la mitad de la anchura de la corriente del río o emplear estas artes en aguas cuya anchura sea igual o inferior a 10 metros, tomándose esta anchura como media del tramo situado entre 25 metros aguas arriba y 25 metros aguas abajo del pescador.
+3. Pescar con redes o artefactos que tengan malla, luz o dimensiones que no cumplan las especificaciones legalmente determinadas para cada especie.
+4. Pescar en época de veda con redes y otras artes autorizadas, excepción hecha de la caña, en cuyo caso la falta se considerará como menos grave.
+5. Pescar con nasas, cribas, butrones, botrinos, esparaveles, remangas, palangres, salabardos, cordelillos, sedales durmientes, trasmallos, o artes similares, excepto en aquellos casos en que esté autorizado su uso.
+6. Pescar con artes que permitan capturar las especies acuícolas sin que acudan al cebo o señuelo, tales como tridente o similares, arpones, grampines o robadores, armas de fuego o de aire comprimido, etc., excepción hecha de las redes y otras artes autorizadas.
+7. Practicar la pesca subacuática fuera de los lugares donde se hayan autorizado por el Departamento de Agricultura de la Diputación Foral.
+8. Pescar en vedados donde esté prohibido hacerlo.
+9. Colocarse la vigía durante la costera del salmón para registrar y avisar su paso con fines de pesca, así como vigilar la presencia o movimiento de la guardería para facilitar la pesca fraudulenta practicada por otros pescadores.
+10. Vender, comprar, transportar o traficar con huevos de peces o cangrejos, sin autorización del Departamento de Agricultura de la Diputación Foral.
+11. La tenencia, transporte o comercio de especies que no vayan provistas de los precintos y certificados de origen facilitados por la Dirección del Departamento de Agricultura de la Diputación Foral, cuando sean preceptivos.
+12. Vender salmón no enlatado, en tiempo de veda para la pesca de esta especie, en aquellos establecimientos que, poseyendo las instalaciones adecuadas, no hayan obtenido la oportuna autorización del Departamento de Agricultura de la Diputación Foral.
+13. Tener, transportar o comerciar con peces procedentes de piscifactorías en época de veda para su pesca, cuando no vayan amparados por las guías, precintos o señales reglamentarias.
+14. Entorpecer el buen funcionamiento de las escalas o pasos de peces.
+15. No mantener en perfecto estado de conservación las obras realizadas por los concesionarios a instancias de la Administración, cuando estas obras hubiesen sido ejecutadas con el fin de armonizar los intereses hidráulicos y piscícolas.
+16. Colocar sobre las presas, tablas u otra clase de materiales con objeto de alterar el nivel de las aguas o su caudal, a menos que se esté autorizado para hacerlo.
+17. Derribar, dañar o cambiar de lugar los hitos o mojones indicadores de deslinde de jurisdicciones, competencia o propiedad, así como los carteles de tramos acotados, vedados, zonas de baño y otras señalizaciones colocadas por el Departamento de Agricultura de la Diputación Foral.
+18. Construir o poseer vivares o centros de piscicultura o astacicultura sin la debida autorización del Departamento de Agricultura de la Diputación Foral.
+19. Negarse a mostrar el contenido de los cestos o morrales o los aparejos empleados para la pesca, cuando le sea requerido para ello por el personal de guardería.
+20. Pescar sin licencia.
+21. Pescar haciendo uso de luces artificiales, que faciliten la captura de las especies.
+22. La tenencia, transporte o comercio de esturiones o salmones pescados en su retorno hacia la mar después de la freza.
+23. Agotar o disminuir notablemente el caudal de agua circulante por las acequias y obras de derivación de carácter secundario, sin haberlo participado al Departamento de Agricultura de la Diputación Foral con una anticipación mínima de quince días, salvo en el caso de que causas de fuerza mayor, basadas en razones derivadas de las concesiones hidráulicas, no hubiesen permitido hacerlo.
+24. Extraer gravas o arenas de los cauces sin estar en posesión del permiso reglamentario, o fuera de los lugares señalados, o no cumplir las condiciones que a efectos piscícolas se señalen en la concesión otorgada.
+25. Entorpecer el cumplimiento de lo dispuesto en el artículo 54 de la Ley de Pesca Fluvial respecto a inspección de las barcas, molinos, fábricas y demás dependencias no destinadas a viviendas.
+26. No colocar las rejillas reglamentarias en los canales, acequias y cauces de derivación o desagüe, o manipular los precintos colocados en las mismas por el Departamento de Agricultura de la Diputación Foral.
+Redactado conforme a la corrección de errores publicada en BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-3410
+
+### Artículo 4
+
+Artículo 4.
+Tendrán la consideración de infracciones menos graves y serán sancionadas con multas comprendidas entre 10.001 y 25.000 pesetas, las siguientes:
+1. Pescar con red a menos de 100 metros de donde estuviese colocada la de otro pescador.
+2. Pescar con redes a menos de 50 metros de cualquier presa o azud de derivación.
+3. Tener o emplear redes no revisadas o precintadas.
+4. Pescar cangrejos empleando cada pescador más de ocho reteles, lamparillas o arañas a la vez.
+5. Pescar con caña en ríos salmoneros de forma tal que el pescador se sitúe a menos de 50 metros del pie de las presas o de las entradas a las escalas salmoneras.
+6. Pescar con caña en época de veda.
+7. Pescar utilizando como cebo peces vivos, cuando la especie que sirve de cebo no estuviera presente de forma natural en aguas pescadas, salvo en aquellos casos en que el Departamento de Agricultura de la Diputación Foral hubiese hecho pública la autorización en contrario.
+8. Pescar en zonas acotadas sin estar en posesión del permiso reglamentario.
+9. Pescar a mano.
+10. Pescar durante las horas en que está prohibido hacerlo.
+11. Apalear las aguas o arrojar piedras a las mismas con ánimo de espantar los peces y facilitar su captura.
+12. Sobrepasar el número de ejemplares fijados por el Departamento de Agricultura para las piezas pescadas, así como infringir las prescripciones especiales emanadas de dicho Departamento en materia de pesca fluvial.
+13. Emplear cebos cuyo uso no esté permitido o cebar las aguas con fines de pesca, a no ser en zona en que lo haya autorizado el Departamento de Agricultura.
+14. No restituir inmediatamente a las aguas los pintos o esguines de salmón que pudieran capturarse, estuvieren o no con vida.
+15. No restituir a las aguas las piezas cuya captura no se derive de la simple mordedura del cebo, sino de la trabazón del anzuelo en cualquier otra parte del cuerpo del pez.
+16. Emplear en los casos permitidos para la pesca de anguilas o lampreas más de tres nasas.
+17. No conservar en buen estado las rejillas instaladas con fines de proteger a la riqueza piscícola.
+18. Entorpecer las servidumbres de paso por las riberas y márgenes establecidos en beneficio de los pescadores.
+19. Emplear para la pesca embarcaciones o aparatos flotantes que no estén provistos de matrícula reglamentaria.
+20. No restituir a las aguas los peces o cangrejos cuya dimensión sea inferior a la reglamentaria, o conservarlos en cestas, morrales o al alcance inmediato del pescador.
+21. Navegar con lanchas o embarcaciones de recreo, entorpeciendo la práctica de la pesca, en los lugares en que este aprovechamiento haya sido declarado de carácter preferente.
+Redactado conforme a la corrección de errores publicada en BOPV núm. 194, de 16 de octubre de 1989. Ref. BOE-A-2012-3410
+
+### Artículo 5
+
+Artículo 5.
+Tendrán la consideración de infracciones leves de pesca fluvial y serán sancionadas con multas de hasta 10.000 pesetas, las siguientes:
+1. Pescar siendo titular de una licencia válida de pesca, cuando no se lleva consigo.
+2. Pescar en un tramo acotado, siendo titular del permiso reglamentario, cuando no se lleva consigo este permiso.
+3. Pescar con caña en ríos trucheros, no habitados por salmón, de forma tal que el pescador o el cebo se sitúen a menos de 25 metros de la entrada o salida de las escalas o pasos de peces, cuando exista señalización que expresamente lo indique.
+4. Calar reteles para la pesca del cangrejo ocupando más de 100 metros de orilla, o colocarlos a menos de 10 metros de donde otro pescador los hubiere puesto o los estuviere calando.
+5. Pescar con más de dos cañas a la vez, o con más de una si se trata del salmón.
+6. Pescar entorpeciendo a otro pescador, cuando éste estuviere ejerciendo previamente su legítimo derecho de pesca.
+7. No guardar respecto a otros pescadores, mediando requerimiento previo, una distancia de 20 metros.
+8. Dejar transcurrir más de media hora sin ceder su puesto al pescador de salmón que le hubiere requerido para hacerlo, si al transcurrir dicho plazo no se tuviera trabado un ejemplar.
+9. Utilizar aguas públicas como lugar de estancia de aves acuáticas de propiedad particular.
+10. Bañarse fuera de los lugares fijados por el Departamento de Agricultura, cuando se trate de masas de agua en las que existan señales colocadas con este objeto.
+
+### Artículo 6
+
+Artículo 6.
+Las cuantías de las sanciones establecidas en la presente Ley serán anual y automáticamente actualizadas con arreglo al índice de precios al consumo, el cual se aplicará sobre la cuantía de la sanción del año anterior.
+Corresponderá a los Departamentos de Agricultura de las Diputaciones Forales la publicación anual, en los Boletines Oficiales de sus respectivos territorios, de las nuevas cuantías que resulten del cálculo efectuado en base al apartado anterior.
+
+### Disposición adicional
+
+Disposición adicional.
+En el plazo de un año a partir de la aprobación de la presente Ley, de forma reglamentaria, se establecerán los conocimientos precisos y pruebas que deberán superar aquellas personas que quieran pasar el examen de cazador, necesario para obtener la licencia de caza.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El Gobierno Vasco deberá elaborar, en el plazo de 2 años desde la aprobación de esta Ley, un completo estudio cinegético del territorio de la C.A.V., que sirva para elaborar un informe que deberá remitir a la Comisión de Industria y Agricultura sobre la necesidad de establecer una moratoria de caza y pesca.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta tanto no se dicte por el Gobierno Vasco la regulación correspondiente habrán de tenerse en cuenta las siguientes remisiones a artículos del Reglamento de la Ley de Caza de 25 de marzo de 1971:
+1. La «titularidad cinegética» a que se refiere el artículo 1.2.1 de la Ley es la prevista en el artículo 6 del Reglamento.
+2. El «régimen cinegético especial» a que se refieren los artículos 1.1.3, 1.2.23 y 1.3.13 de la Ley es el previsto en el artículo 25.2 del Reglamento.
+3. La veda a que se refiere el artículo 1.3.18 de la Ley es la prevista en el artículo 27.7 del Reglamento.
+4. La relación de aves a la que se refiere el artículo 1.3.30 de la Ley es la contenida en el artículo 4.2.b) del Reglamento.
+5. La Memoria a la que se refiere el artículo 1.3.34 de la Ley es la prevista en el artículo 12.5.b) del Reglamento.
+6. La normativa vigente sobre tránsito de perros a la que se refiere el artículo 1.4.11 de la Ley es el artículo 15 del Reglamento.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas todas aquellas disposiciones que contravengan el contenido de la presente Ley.

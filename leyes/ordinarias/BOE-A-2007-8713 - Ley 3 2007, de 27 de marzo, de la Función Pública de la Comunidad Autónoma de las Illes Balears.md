@@ -1,0 +1,2088 @@
+# Ley 3/2007, de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears.
+
+- Identificador BOE: `BOE-A-2007-8713`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-8713
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Es
+EXPOSICIÓN DE MOTIVOS
+I
+El artículo 103.3 de la Constitución establece una reserva de ley para la regulación del estatuto del funcionariado público, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio del derecho a la sindicación del personal funcionario, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de las funciones que le corresponden.
+De acuerdo con lo que establece el artículo 149.1.18 de la Constitución, el Estado tiene la competencia exclusiva para regular las bases del régimen estatutario del funcionariado público y corresponde a la Comunidad Autónoma el desarrollo legislativo del régimen estatutario del personal funcionario de la Administración de la Comunidad Autónoma y de la Administración local de esta comunidad, de conformidad con las bases contenidas en la legislación del Estado, de acuerdo con lo establecido en el artículo 31 de la Ley Orgánica 1/2007, de 28 de febrero, del Estatuto de Autonomía de las Illes Balears.
+Las bases del régimen estatutario fijadas por el Estado están contenidas, entre otras, en la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la función pública, cuyo artículo 11 obliga a las comunidades autónomas a ordenar, mediante una ley de las respectivas asambleas legislativas, la función pública propia.
+En el marco de estas competencias, el Parlamento de las Illes Balears dictó la Ley 2/1989, de 22 de febrero, de la función pública de la Comunidad Autónoma de las Illes Balears, que adoptó todas las normas de la legislación estatal que se consideraban útiles para la situación autonómica, aunque no tuvieran la consideración de básicas. Esta opción respondía al hecho de que la Administración autonómica todavía no disfrutaba de la experiencia suficiente para diseñar un modelo propio de función pública.
+Durante los dieciséis años de su vigencia, la ley ha sido objeto de distintas modificaciones, todas ellas puntuales y que no afectan al modelo, que han obedecido principalmente a dos causas: la adaptación de la ley a la modificación de la legislación básica estatal y la introducción de los cambios de organización que los procesos de traspaso de personal requieren.
+Actualmente, se está elaborando el Estatuto básico del empleado público, cuyo borrador, siguiendo lo que propone el informe de la comisión de expertos nombrada por el Ministerio de Administraciones Públicas, reduce los preceptos básicos de manera que permite a las comunidades autónomas una esfera más amplia de potestades normativas para definir la función pública propia.
+En este contexto, la ley pretende establecer el modelo propio de función pública de la Comunidad Autónoma de las Illes Balears, entendida en sentido amplio, que tiene como objetivos principales la profesionalización de las empleadas y los empleados públicos que la integran, la modernización de la Administración pública y la mejora en la calidad del servicio público. Para conseguir dichos objetivos la ley configura un sistema propio de carrera administrativa y crea la figura del personal directivo, establece sistemas de evaluación del rendimiento y potencia la Inspección General y la Escuela Balear de Administración Pública.
+II
+El título I define el objeto de la ley y enuncia los principios generales de la función pública. En primer lugar, se enumeran los principios que informan la ordenación y la gestión del personal para la satisfacción de los intereses generales. En segundo lugar, se mencionan los principios que informan la relación de carácter especial de las empleadas y los empleados públicos, y que por lo tanto afectan a su acceso, carrera, formación, evaluación del rendimiento, etc. Finalmente, la ley establece los principios a los que han que sujetarse las empleadas y los empleados públicos en el ejercicio de sus funciones.
+Respecto al ámbito subjetivo, la ley es de aplicación directa al personal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears y de las entidades autónomas dependientes de la misma, con algunas limitaciones o especificidades. Así, el personal funcionario adscrito a las empresas públicas se regula por los preceptos de la presente ley que le son de aplicación y por las determinaciones que contengan sus normas de creación, que en ningún caso pueden entrar en contradicción con la misma. El personal docente y el personal estatutario al servicio de la sanidad pública autonómica se regula por los preceptos de la presente ley únicamente en aquellas materias no reservadas a la normativa básica del Estado ni reguladas por la normativa autonómica específica de desarrollo. El personal laboral se regula por el convenio colectivo, por el resto de normativa laboral y por los preceptos de la presente ley que le son de aplicación.
+La ley también prevé que determinados colectivos de la Administración autonómica, en atención a sus características especiales, puedan ser objeto de regulación específica mediante normas que adecuen la presente ley a sus peculiaridades.
+Respecto a las otras administraciones públicas radicadas en la Comunidad Autónoma de las Illes Balears y en uso de la competencia conferida por el Estatuto de Autonomía, la ley se aplica al personal al servicio de los consejos insulares y de las demás entidades locales, en aquellas materias no reservadas a la legislación básica del Estado ni reguladas por la legislación autonómica sobre régimen local; al personal al servicio del Consejo Consultivo y del Consejo Económico y Social; y al personal al servicio de las universidades públicas que no forme parte de los cuerpos docentes e investigadores.
+Finalmente, el personal del Parlamento de las Illes Balears y el personal de la Sindicatura de Greuges y de la Sindicatura de Cuentas de las Illes Balears, en virtud del principio de autonomía organizativa, administrativa y financiera de estas instituciones, queda excluido de la aplicación de esta ley, salvo lo dispuesto en su propia normativa.
+En cuanto al personal laboral propio de las empresas públicas, también queda excluido de la aplicación de la presente ley, sin perjuicio de la aplicación de los principios informadores del acceso al empleo público.
+III
+En cuanto a los órganos competentes en materia de función pública y a la atribución legal de competencias en esta materia, el título II de la ley recoge la clasificación tradicional de los órganos administrativos y atribuye competencias ejecutivas al Consejo de Gobierno y al consejero o a la consejera competente en materia de función pública, competencias consultivas al Consejo Balear de la Función Pública y a la Comisión de Personal de la Comunidad Autónoma de las Illes Balears, y competencias de control de calidad y de propuesta de organización a la Inspección General de Calidad, Organización y Servicios.
+La Escuela Balear de Administración Pública, como ente adscrito a la consejería competente en materia de función pública, ve potenciadas sus funciones en materia de selección, de carrera profesional, de promoción y de formación del personal al servicio de la Comunidad Autónoma de las Illes Balears.
+La redacción de este título es suficientemente amplia y flexible para permitir un modelo de gestión de la función pública más o menos concentrado, según cuál sea la estructura organizativa de la Administración que se diseñe en cada momento.
+IV
+El título III de la ley mantiene la clasificación tradicional de las empleadas y los empleados públicos en personal funcionario, personal eventual y personal laboral, aunque introduce nuevas figuras en el régimen de interinidad que refuerzan la opción funcionarial frente a la laboral.
+El personal funcionario interino no está ligado necesariamente a la ocupación de un puesto de trabajo vacante, sino que podrá llevar a cabo programas temporales que respondan a necesidades no permanentes de la Administración, así como también subvenir a necesidades urgentes, extraordinarias y circunstanciales de incremento de la actividad.
+De esta manera, se permite recurrir al nombramiento de personal funcionario interino para cubrir necesidades que hasta ahora únicamente podían ser atendidas a través de la contratación de personal laboral. En todo caso, estas interinidades tienen un límite temporal que persigue evitar una prolongación excesiva que provoque una situación no deseable de inestabilidad en el empleo.
+V
+El título IV regula la estructura y la ordenación de la función pública manteniendo la opción de grupos, cuerpos y escalas, así como la reserva de ley para su modificación o extinción o para la creación de nuevos.
+La ley distingue entre los cuerpos generales, a los que corresponden las funciones comunes en el ejercicio de la actividad administrativa, y los cuerpos especiales, a los que corresponde el ejercicio de funciones propias de una profesión determinada. Las escalas pueden crearse por razón de la especialización de funciones, tanto dentro de los cuerpos generales como dentro de los cuerpos especiales y, en éstos últimos, cuando un mayor grado de especialización lo requiera, el Consejo de Gobierno puede establecer especialidades.
+Además de regular los sistemas ordinarios de acceso a los cuerpos, a las escalas y a las especialidades, la ley introduce como sistema extraordinario de acceso por integración y, únicamente para cambiar de especialidad, el acceso mediante la superación de cursos.
+Como instrumentos de ordenación de los puestos de trabajo se regulan la relación de puestos de trabajo y las órdenes de funciones, y se configura la plantilla de personal como instrumento de coordinación entre la gestión de la función pública y las estructuras presupuestarias.
+El procedimiento de elaboración de las relaciones de puestos de trabajo se simplifica y se adecua a la experiencia práctica, la cual aconseja introducir la previsión de que determinadas modificaciones tengan carácter automático. Los puestos de trabajo se clasifican en niveles y, según su naturaleza, pueden ser genéricos o singularizados. Esta distinta configuración tiene efectos en la articulación de la carrera administrativa.
+Las órdenes de funciones aparecen definidas como instrumento técnico de organización de la Administración, en concordancia con lo que establece la Ley de régimen jurídico de la Administración autonómica, constituyendo el elemento complementario de las relaciones de puestos de trabajo.
+Como novedad destacable se regulan los puestos de trabajo de naturaleza directiva y se establece su régimen jurídico básico, que incluye los criterios para su determinación y la sujeción a sistemas de evaluación del rendimiento. La naturaleza funcionarial de los puestos directivos implica una clara opción a favor de la profesionalización de la Administración pública.
+Como instrumentos de ordenación y planificación de los recursos humanos, la ley prevé la posibilidad de que se aprueben planes generales de ordenación y programas específicos de optimización de recursos, que tienen por objeto asegurar su distribución y adecuación a las necesidades del servicio.
+La ley también prevé la implantación progresiva de sistemas de evaluación del rendimiento, como elemento esencial de la carrera profesional que procura la motivación del personal y la calidad óptima en la prestación de los servicios. La regulación que se realiza es lo suficientemente flexible para permitir a cada Administración pública adoptar el modelo que mejor se adapte a sus necesidades.
+Se mantiene la regulación del Registro de personal y se establece la obligación de las consejerías y de los entes dependientes de las mismas de facilitar la información al Registro, para asegurar así la actualización permanente de los datos que constan en el mismo.
+VI
+El título V, dedicado al nacimiento y a la extinción de la relación de servicio del personal funcionario, ordena y sistematiza los requisitos y las condiciones para la adquisición de la condición de personal funcionario.
+La ley prevé los principios y criterios rectores de la selección del personal y mantiene los sistemas de selección tradicionales de oposición, concurso-oposición y concurso, aunque, al igual que la legislación básica del Estado, no establece preferencia legal entre la oposición y el concurso-oposición, de manera que será el reglamento la norma que la determine.
+Para facilitar el acceso a la función pública de las personas con discapacidad y hacer así efectivo el mandato constitucional de remover los obstáculos que impiden o dificultan el acceso de este colectivo en condiciones de igualdad, la ley no se limita a garantizar la cuota de reserva, sino que prevé que se lleven a cabo programas dirigidos a personas con discapacidades específicas y que se efectúen pruebas selectivas adaptadas.
+Con la finalidad de profesionalizar los órganos de selección, se prevén dos posibilidades: la constitución de comisiones permanentes de selección y la atribución temporal y con exclusividad de funciones de selección al personal funcionario que forme parte de los órganos de selección. En este mismo sentido, ni los altos cargos, ni el personal eventual ni los representantes sindicales pueden ser miembros de los órganos de selección, sin perjuicio de que éstos últimos ejerzan funciones de vigilancia y control del procedimiento.
+La Escuela Balear de Administración Pública se configura como ente con competencias para la selección del personal al servicio de la Administración autonómica y se prevé que pueda ejercer competencias en relación con el personal de otras administraciones públicas radicadas en las Illes Balears, cuando así se establezca mediante convenio.
+Para facilitar la movilidad interadministrativa y la cooperación en materia de selección de personal, se posibilita la homogeneización de los procedimientos selectivos, los temarios y los contenidos mínimos para la selección de personal al servicio de las administraciones públicas incluidas dentro del ámbito de aplicación de la ley.
+VII
+La carrera administrativa que diseña el título VI de la presente ley constituye uno de los aspectos más novedosos y se configura como un de los ejes fundamentales de la profesionalización del personal funcionario.
+La carrera profesional consiste en la progresión en el seno de la Administración mediante la consolidación del grado personal, la promoción interna y la movilidad, rigiéndose por los principios constitucionales de igualdad, mérito y capacidad.
+La ley prevé la adquisición automática de un grado personal inicial, que coincide con el nivel mínimo correspondiente al cuerpo o la escala de acceso y, a partir de este grado, establece dos sistemas posibles de consolidación y de adquisición de grados superiores: el sistema normal de consolidación por el desempeño de puestos de trabajo de niveles superiores durante dos años continuados o tres con interrupción, y un nuevo sistema de adquisición mediante la permanencia en un determinado puesto, unida a una determinada formación y a la evaluación positiva del rendimiento.
+Se asegura así, por una parte, la imposibilidad de una consolidación inmediata de alguno de los niveles más altos del intervalo correspondiente y, por otra, la posibilidad de premiar al personal funcionario que se mantiene en un puesto de trabajo con un rendimiento positivo, donde se asegura una formación continuada y permanente. Este sistema garantiza una carrera administrativa basada en el progreso y la motivación.
+La ley define por primera vez la promoción interna vertical, la horizontal y la transversal, permitiendo la posibilidad de que el personal laboral fijo pueda acceder a la condición de personal funcionario participando en procesos de promoción interna, en los términos que se establezcan reglamentariamente.
+Se impulsa el papel de la formación, con la exigencia de que su planificación incluya cursos específicos destinados a la formación y al perfeccionamiento del personal que ejerce funciones directivas y con la posibilidad de que, para ocupar determinados puestos de trabajo, se establezcan requisitos de formación específica. Estas competencias se atribuyen, con carácter general, a la Escuela Balear de Administración Pública.
+VIII
+El título VII de la ley está dedicado a la movilidad y a la ocupación de los puestos de trabajo. Distingue los supuestos de movilidad voluntaria de los de movilidad forzosa, regula las causas de remoción del personal funcionario y garantiza la movilidad interadministrativa.
+El derecho a la movilidad voluntaria del personal funcionario dentro de la Administración autonómica se hace efectivo mediante los diversos sistemas de provisión de puestos de trabajo que la ley establece.
+Dentro de la movilidad voluntaria se regulan como sistemas ordinarios de provisión el concurso y la libre designación, si bien se prevé expresamente que el ámbito subjetivo de las convocatorias se pueda limitar a una determinada área funcional, a un sector especializado o a puestos de trabajo de forma individualizada, en atención a las necesidades del servicio. Esta posibilidad, junto con la previsión de que puedan convocarse concursos con segunda fase de adjudicación o de resultas, pretende agilizar y flexibilizar los procedimientos y permitir un sistema continuado de provisión de vacantes.
+El sistema de concurso puede revestir las modalidades de concurso de méritos y de concurso específico. El primero es el sistema de provisión de los puestos de trabajo genéricos y el segundo es el sistema de provisión de los puestos singularizados, cuando resulte conveniente evaluar una formación, una capacidad, unos conocimientos o unas aptitudes determinados.
+La libre designación se configura como uno de los sistemas ordinarios de provisión de puestos de trabajo y se delimitan con claridad los puestos que deben ser necesariamente objeto de dicho sistema de provisión. La ley opta así por establecer que los puestos de carácter directivo, de secretario o secretaria personal o de chófer de alto cargo, y los adscritos al Gabinete de la Presidencia de las Illes Balears o al de los consejeros o las consejeras, tengan que ser provistos por este sistema. Asimismo, la ley permite la utilización de la libre designación como sistema de provisión para otros puestos de trabajo cuando impliquen una elevada responsabilidad o requieran una confianza personal para ejercer sus funciones y así lo establezca la relación de puestos de trabajo.
+También dentro de la movilidad voluntaria y como otros sistemas de provisión, se mantiene la comisión de servicios de este carácter y se introducen la comisión de servicios por cooperación internacional, el traslado por motivos de salud y por causa de violencia, y la permuta.
+En el capítulo dedicado a la movilidad forzosa, la ley conserva la figura de la comisión de servicios con este carácter e incluye expresamente las figuras de la comisión de servicios de atribución temporal de funciones, la redistribución de efectivos, la reasignación de efectivos y el cambio de adscripción de puesto de trabajo.
+El capítulo IV del título VII regula, ordena y sistematiza las causas y los efectos de la remoción de puestos de trabajo.
+El último capítulo de este título se ocupa de la movilidad interadministrativa, que puede hacerse efectiva mediante los procesos de traspaso de servicios y la participación en sistemas de provisión, con condiciones y efectos distintos que determina la propia ley.
+Así, se garantiza el derecho a ocupar puestos de trabajo de la Administración de la Comunidad Autónoma de las Illes Balears a personal funcionario de otras administraciones públicas, si bien este derecho no implica siempre la integración automática en los cuerpos, las escalas o las especialidades autonómicos. Esta integración es procedente en el supuesto de movilidad como consecuencia de traspaso de servicios, pero no cuando se trate de participación en sistemas de provisión, caso en que quedará condicionada al principio de reciprocidad y al cumplimiento de las condiciones y los requisitos establecidos en las relaciones de puestos de trabajo.
+IX
+El título VIII está dedicado a las situaciones administrativas. Considerando la naturaleza básica de esta materia, su regulación se limita a recoger las figuras que establece la normativa básica estatal, con las adaptaciones derivadas de la organización de la Administración autonómica.
+A modo de ejemplo, la situación de servicios especiales se regula desde la perspectiva de las Illes Balears, de manera que se introducen previsiones expresas, las cuales, sin establecer supuestos nuevos, adaptan la regulación estatal a nuestra organización institucional.
+X
+El título IX de la ley, «Derechos, deberes e incompatibilidades del personal funcionario», engloba un conjunto de medidas que configuran la peculiaridad del régimen estatutario del personal funcionario.
+Este título está dividido en tres capítulos: el primero regula los derechos del personal funcionario; el segundo, su régimen retributivo y de la Seguridad Social, y el tercero, sus deberes y el régimen de incompatibilidades.
+Cabe destacar el hecho de que encabeza este título el deber de la Administración de proteger al personal a su servicio y de poner los medios necesarios para hacer efectivos los derechos que la ley reconoce, con especial atención a los que facilitan la conciliación de la vida familiar y laboral. Esta exigencia preside e informa la regulación de los tres capítulos.
+En este sentido, el capítulo I revisa y moderniza la relación de derechos y hace una remisión al reglamento, precisamente para facilitar la adecuación constante de las medidas de conciliación, al objeto de que así tanto los permisos como las licencias y la reducción de jornada puedan adaptarse a los avances sociales en esta materia.
+En cuanto al régimen retributivo y de la Seguridad Social, el capítulo II introduce los principios rectores, entre los cuales destaca la necesidad de ajustarse al entorno socioeconómico de las Illes Balears, en la medida de lo posible, y la posibilidad de retribuir el rendimiento y la dedicación del personal funcionario, como medida de modernización de la gestión administrativa y de motivación para mejorar el rendimiento y la calidad de los servicios.
+Finalmente, el capítulo III regula, ordena y sistematiza los deberes del personal funcionario e introduce novedades, como la obligación de respetar la igualdad entre hombres y mujeres, de no utilizar en provecho propio o de terceras personas los bienes y recursos de la Administración o de observar las medidas de salud laboral y prevención de riesgos. Especifica los distintos tipos de responsabilidades en que puede incurrir el personal al servicio de la Administración y la manera de hacer efectiva la responsabilidad disciplinaria, remitiendo el régimen de incompatibilidades a la normativa básica estatal.
+XI
+El último título de la ley, dedicado al régimen disciplinario, recoge en el capítulo I los principios informadores de dicho régimen. Esta inclusión obedece al hecho de que la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, excluyó expresamente la aplicación de los principios de la potestad sancionadora a los procedimientos para hacer efectiva la responsabilidad disciplinaria del funcionariado. No obstante, la doctrina y la jurisprudencia han coincidido en afirmar la conveniencia de que las garantías que suponen estos principios se incorporen a la regulación específica del régimen disciplinario, y así se ha hecho.
+El capítulo II de este título actualiza y amplía la tipología de infracciones disciplinarias con la finalidad de asegurar que no queden conductas reprobables impunes. Así, la ley tipifica como faltas determinadas conductas que, de conformidad con la normativa actual, no eran sancionables disciplinariamente, como el hecho de aprovecharse de la condición de personal funcionario para obtener un beneficio propio o de una tercera persona, la agresión grave a cualquier persona con la que el personal funcionario se relacione en el ejercicio de sus funciones, o el consumo de sustancias estupefacientes o psicotrópicas que afecte al servicio.
+También se introducen nuevas sanciones disciplinarias que persiguen adecuar la naturaleza de la sanción a la gravedad de la falta cometida y al carácter permanente o no de la relación funcionarial. Ésta es la función de las sanciones de pérdida de entre dos y tres grados personales y de revocación del nombramiento de personal funcionario interino.
+Hay que destacar también que, para coadyuvar a la protección de las víctimas de violencia, la sanción de traslado de puesto de trabajo de la persona responsable implicará el cambio de isla de residencia cuando le afecte una orden judicial de alejamiento.
+Para dar cumplimiento a los principios de legalidad y de tipicidad en materia disciplinaria, se establece la necesaria relación entre las infracciones y las sanciones disciplinarias, así como sus límites máximos y mínimos. Así también se da satisfacción a los pronunciamientos de la doctrina y de la jurisprudencia, que demandaban el rango de ley para la regulación de dicha materia.
+Respecto al régimen de prescripción de las faltas y las sanciones, se amplían los plazos al objeto de evitar que por motivos formales resulten inatacables determinadas conductas.
+El capítulo III remite al desarrollo reglamentario la regulación del procedimiento disciplinario, si bien garantiza legalmente que sean de aplicación los principios informadores. Por último, amplía hasta dieciocho meses la duración máxima del procedimiento.
+
+## TÍTULO I
+
+Objeto, principios y ámbito de aplicación de la ley
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de la presente ley es la regulación de la función pública de la Comunidad Autónoma de las Illes Balears y la determinación del régimen jurídico del personal que la integra, en el ejercicio de las competencias atribuidas por el Estatuto de Autonomía y en el marco de la normativa básica del Estado.
+
+### Artículo 2
+
+Artículo 2. Principios informadores.
+1.La función pública es un instrumento para la gestión y la satisfacción de los intereses generales que tiene encomendados la Administración autonómica, y se ordena jerárquicamente de acuerdo con los principios de legalidad, objetividad y neutralidad, servicio a la ciudadanía, eficacia, eficiencia y transparencia en la gestión.
+2. La función pública de la Administración de la Comunidad Autónoma está integrada por el conjunto de personas que prestan servicios mediante una relación de carácter especial, regulada por la normativa administrativa o laboral e informada por los principios constitucionales de igualdad, mérito, capacidad y publicidad.
+3. El personal al servicio de la Administración autonómica, en el ejercicio de las funciones que tiene encomendadas, actuará sometido a los principios de imparcialidad, profesionalidad, diligencia, buena fe y responsabilidad.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1.La presente ley es de aplicación al personal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears y de las entidades autónomas dependientes de la misma, con las limitaciones que establecen los siguientes apartados:
+a) El personal funcionario adscrito a las empresas públicas se regula por los preceptos de la presente ley, sin perjuicio de las determinaciones que contengan sus normas de creación.
+b) El personal docente y el personal estatutario al servicio la sanidad pública autonómica se regula por los preceptos de la presente ley únicamente en aquellas materias que no están reguladas por la normativa básica específica del Estado ni por la normativa autonómica específica de desarrollo.
+c) El personal laboral se regula por el convenio colectivo, por el resto de normativa laboral y por los preceptos de la legislación básica estatal y de esta ley que le son de aplicación.
+d) Los colectivos con características especiales por razón de las funciones que tienen atribuidas pueden ser objeto de regulación específica mediante normas que adecuen la presente ley a sus peculiaridades.
+2. La presente ley también es de aplicación, con las especificidades derivadas de su propia organización, al siguiente personal:
+a) Personal de los consejos insulares y de las entidades locales radicadas en la comunidad autónoma de las Illes Balears en las materias no reservadas a la legislación básica del Estado, en los términos que resultan de la disposición adicional primera de la presente ley y del artículo 190 de la Ley 20/2006, de 15 de diciembre, Municipal y de Régimen Local.
+b) Personal del Consejo Consultivo y del Consejo Económico y Social.
+c) Personal de las universidades públicas radicadas en la Comunidad Autónoma de las Illes Balears que no forme parte de los cuerpos docentes e investigadores, respetando la autonomía universitaria.
+d) Personal de la Agencia Tributaria de las Illes Balears.
+3. Queda excluido de la aplicación de esta ley el siguiente personal:
+a) Personal del Parlamento de las Illes Balears.
+b) Personal de la Sindicatura de Greuges y de la Sindicatura de Cuentas de las Illes Balears.
+c) Personal laboral propio de las empresas públicas.
+Se modifica el apartado 2.a) por el art. 2 del Decreto-ley 1/2017, de 13 de enero. Ref. BOE-A-2017-1680
+ Se añade la letra d) al apartado 2 por la disposición final 3.1 de la Ley 3/2008, de 14 de abril. Ref. BOE-A-2008-8768
+
+## TÍTULO II
+
+Órganos y entes competentes en materia de función pública
+
+## CAPÍTULO I
+
+Órganos competentes en materia de función pública
+
+### Artículo 4
+
+Artículo 4.Órganos competentes.
+1.Son órganos de la Administración de la Comunidad Autónoma, competentes en materia de la función pública los siguientes:
+a) Órganos ejecutivos:
+El Consejo de Gobierno.
+El consejero o la consejera competente en materia de función pública.
+b) Órganos consultivos:
+El Consejo Balear de la Función Pública.
+La Comisión de Personal de la Comunidad Autónoma de las Illes Balears.
+c) Órgano de control:
+La Inspección General de Calidad, Organización y Servicios.
+2. Los consejeros o las consejeras y los órganos directivos de la Administración autonómica y de las entidades públicas dependientes de la misma pueden ejercer competencias en materia de personal en los términos establecidos en ésta y en otras leyes.
+
+### Artículo 5
+
+Artículo 5. Competencias del Consejo de Gobierno.
+1.Corresponde al Consejo de Gobierno establecer la política general de la Administración autonómica en materia de función pública, dirigir su desarrollo y aplicación y ejercer la iniciativa legislativa y la potestad reglamentaria en esta materia.
+2. Le corresponde, en particular:
+a) Aprobar los proyectos de ley y los decretos en materia de función pública.
+b) Establecer las directrices que han de regir la actuación de los órganos de la Administración autonómica que ejercen competencias en materia de función pública.
+c) Establecer las instrucciones y directrices a que deben sujetarse las personas que representan a la Administración de la Comunidad Autónoma en la negociación con la representación sindical del personal funcionario en materia de condiciones de empleo, dar validez y eficacia a los acuerdos alcanzados mediante su aprobación expresa y formal, así como establecer las condiciones de trabajo en los supuestos en que no se produzca ningún acuerdo en la negociación.
+d) Establecer las instrucciones y directrices a que deben sujetarse las personas que representan a la Administración de la Comunidad Autónoma en la negociación colectiva con el personal laboral.
+e) Aprobar las relaciones de puestos de trabajo del personal al servicio de la Administración autonómica y de sus entidades autónomas.
+f) Aprobar los planes generales de ordenación y los programas específicos para optimizar los recursos humanos.
+g) Determinar el número, las características y las retribuciones de los puestos de trabajo del personal eventual.
+h) Fijar las normas y los criterios para la aplicación del régimen retributivo del personal funcionario, a iniciativa de los consejeros o las consejeras competentes en materia de presupuestos y en materia de función pública y a propuesta de este último órgano.
+i) Determinar los intervalos de niveles que corresponden a cada grupo y, en su caso, a los cuerpos y a las escalas funcionariales, así como las directrices generales sobre promoción del personal funcionario.
+j) Determinar los requisitos de los procedimientos o de los cursos que habiliten para obtener grados personales superiores a los consolidados.
+k) Aprobar la oferta pública de empleo.
+l) Establecer, dentro de los cuerpos o las escalas, las especialidades que sean necesarias para garantizar el principio de eficacia de la actuación administrativa.
+m) Establecer las equivalencias entre los cuerpos y las escalas de la Administración autonómica y los cuerpos y las escalas de otras administraciones públicas, a propuesta del consejero o la consejera competente en materia de función pública.
+n) Fijar la jornada y los horarios general y especiales de trabajo.
+o) Aprobar, a propuesta de cada consejería, las medidas que garanticen los servicios mínimos en caso de huelga.
+p) Resolver los procedimientos disciplinarios en caso de sanción de separación del servicio, previos los informes y dictámenes que sean preceptivos.
+q) Ejercer las demás competencias que le atribuye la normativa vigente.
+
+### Artículo 6
+
+Artículo 6. Competencias del consejero o de la consejera competente en materia de función pública.
+1.Corresponde al consejero o a la consejera competente en materia de función pública el desarrollo general, la coordinación, el control y la ejecución de la política establecida por el Consejo de Gobierno en materia de personal al servicio de la Administración de la Comunidad Autónoma, dentro del ámbito de aplicación de esta ley.
+2. En cuanto al desarrollo general, la coordinación y el control, le corresponde en particular:
+a) Preparar los proyectos de ley y de disposiciones reglamentarias en materia de función pública y proponer su aprobación al Consejo de Gobierno, cuando proceda.
+b) Impulsar, coordinar y, en su caso, ejecutar los planes y programas que establecen medidas y actividades tendentes a mejorar el rendimiento, la formación y la promoción del personal y la calidad de los servicios públicos.
+c) Cuidar del cumplimiento de las normas de aplicación general en materia de función pública por parte de los órganos de la Administración y ejercer la inspección general sobre todo el personal.
+d) Informar sobre los anteproyectos de ley y los proyectos de disposiciones generales relativos a cuestiones propias de otras consejerías en los aspectos que incidan en la política de personal.
+e) Preparar el proyecto de oferta pública de empleo.
+f) Proponer al Consejo de Gobierno la aprobación de la relación de puestos de trabajo del personal al servicio de la Administración autonómica y de las entidades autónomas que dependen de ella.
+g) Proponer al Consejo de Gobierno el establecimiento de la jornada y del horario de trabajo y la adopción de acuerdos en materia de función pública.
+h) Participar en los órganos de negociación del personal mediante la representación que se determine reglamentariamente, de acuerdo con las instrucciones y directrices que establezca el Consejo de Gobierno.
+3. En cuanto a la ejecución, le corresponde en particular:
+a) Dictar las instrucciones, circulares y órdenes de servicios que sean necesarias en materia de personal.
+b) Otorgar las recompensas y distinciones que se determinen reglamentariamente.
+c) Convocar y resolver los procedimientos de selección, establecer sus bases, los programas y el contenido de las pruebas y nombrar a los miembros de los órganos de selección.
+d) Nombrar al personal funcionario de carrera y expedir sus títulos, nombrar al personal funcionario interino y formalizar los contratos de trabajo del personal laboral.
+e) Resolver la integración del personal funcionario transferido en los cuerpos y las escalas establecidos en la presente ley.
+f) Convocar y resolver los procedimientos ordinarios de provisión de puestos de trabajo, establecer sus bases y nombrar a los miembros de los órganos de valoración.
+g) Resolver las comisiones de servicios en el ámbito de la Administración autonómica, a propuesta de las consejerías afectadas.
+h) Autorizar las comisiones de servicios del personal de la Administración autonómica a otras administraciones públicas o a entidades de derecho público, a propuesta de los organismos afectados.
+i) Resolver las solicitudes de reconocimiento de compatibilidad del personal al servicio de la Administración autonómica.
+j) Resolver la adquisición y el cambio de grado personal.
+k) Resolver los procedimientos disciplinarios incoados al personal funcionario por faltas graves o muy graves, excepto cuando impliquen separación del servicio.
+l) Ejercer la facultad disciplinaria en relación con el personal laboral y acordar la extinción de sus contratos de trabajo.
+4. Le corresponden también las competencias que, en materia de función pública y de personal, le atribuya la normativa vigente y, en general, las que no estén atribuidas expresamente a otros órganos.
+
+### Artículo 7
+
+Artículo 7. Alteración de las competencias.
+1.El Consejo de Gobierno puede atribuir a los consejeros o las consejeras y a otros órganos directivos de las consejerías y de las entidades autónomas dependientes de las mismas las competencias en materia de personal que la presente ley no atribuye expresamente al consejero o a la consejera competente en materia de función pública, a propuesta de éste último órgano.
+2. El consejero o la consejera competente en materia de función pública, en los términos que establece la normativa vigente, puede delegar las competencias que le atribuye esta ley en los consejeros o las consejeras y en los presidentes o las presidentas de las entidades autónomas dependientes de la Administración autonómica.
+Los órganos que ejerzan estas competencias por delegación pueden, a su vez, delegarlas en órganos dependientes jerárquicamente y en órganos de las entidades autónomas dependientes.
+El consejero o la consejera competente en materia de función pública puede revocar en cualquier momento la delegación efectuada. La revocación, en su caso, deja sin efecto las delegaciones que los órganos delegados hayan efectuado de las competencias ejercidas por la delegación.
+3. El consejero o la consejera competente en materia de función pública puede desconcentrar o delegar las competencias que el artículo 6.3 de la presente ley le atribuye en los órganos directivos de la consejería. También puede delegarlas en los órganos de las entidades autónomas dependientes de la misma.
+
+### Artículo 8
+
+Artículo 8. El Consejo Balear de la Función Pública.
+1.El Consejo Balear de la Función Pública es el órgano colegiado de consulta, coordinación de la política en materia de función pública y participación del personal en las cuestiones que en relación con esta materia puedan afectar al conjunto de las administraciones públicas del ámbito de la Comunidad Autónoma de las Illes Balears.
+2. Un decreto del Consejo de Gobierno determinará las funciones de este órgano y los miembros que lo integran. En todo caso, deben estar representados en el mismo:
+a) La Administración de la Comunidad Autónoma, con los miembros que se determinen reglamentariamente.
+b) Los consejos insulares, con un miembro cada uno.
+c) Los ayuntamientos, con un mínimo de tres miembros.
+d) Las organizaciones sindicales más representativas en el ámbito de la Administración autonómica, con cinco miembros.
+En todo caso, debe asegurarse la representación de las diferentes administraciones públicas de las Illes Balears y de las organizaciones sindicales más representativas en el ámbito de la Administración autonómica.
+3. En todo caso, corresponde al Consejo Balear de la Función Pública:
+a) Informar preceptivamente sobre los anteproyectos de ley relativos al personal al servicio de las administraciones públicas de la Comunidad Autónoma de las Illes Balears.
+b) Informar sobre las disposiciones o decisiones relevantes en materia de personal que le sean consultadas por las diferentes administraciones públicas del ámbito de la Comunidad Autónoma de las Illes Balears.
+c) Debatir y proponer, a iniciativa de las administraciones públicas o de las organizaciones sindicales que están representadas en ellas, las medidas necesarias para la coordinación de las políticas de personal de las administraciones públicas del ámbito de la Comunidad Autónoma de las Illes Balears.
+4. El Consejo Balear de la Función Pública elaborará su propio reglamento de organización y funcionamiento.
+5. El Consejo Balear de la Función Pública, para realizar sus funciones, puede crear comisiones técnicas de trabajo, a las que puede incorporar personas expertas en cualquiera de los ámbitos jurídico, económico, educativo y sociocultural.
+6. Se crea la comisión de coordinación de la función pública de las Illes Balears, como órgano dependiente del Consejo Balear de la Función Pública.
+Un decreto del Consejo de Gobierno determinará las funciones de este órgano y los miembros que lo integran.
+
+### Artículo 9
+
+Artículo 9. La Comisión de Personal.
+1.La Comisión de Personal de la Administración de la Comunidad Autónoma de las Illes Balears es el órgano colegiado de carácter técnico de coordinación y consulta de los asuntos de personal, adscrito a la consejería que tiene atribuidas las competencias en materia de función pública.
+2. Son atribuciones de la Comisión de Personal de la Administración de la Comunidad Autónoma de las Illes Balears:
+a) Informar sobre los anteproyectos de ley y los proyectos de decreto en materia de personal.
+b) Informar sobre los procedimientos disciplinarios que impliquen separación del servicio con carácter previo a la imposición de la sanción.
+c) Informar sobre las cuestiones que, en materia de personal, le sean consultadas por el Consejo de Gobierno o por el consejero o la consejera competente en materia de función pública.
+3. La composición y el régimen de funcionamiento de la Comisión de Personal se regulan por decreto del Consejo de Gobierno, a propuesta del consejero o la consejera competente en materia de función pública.
+
+### Artículo 10
+
+Artículo 10. La Inspección General de Calidad, Organización y Servicios.
+1.La Inspección General de Calidad, Organización y Servicios es el órgano de control y de vigilancia del cumplimiento de las normas de función pública y de calidad, análisis y propuesta en el ámbito de la Administración autonómica y de las entidades autónomas que dependen de ella.
+2. La Inspección General de Calidad, Organización y Servicios depende orgánicamente de la consejería que tiene atribuidas las competencias en materia de función pública y actúa con autonomía funcional, sin perjuicio de las competencias de dirección que correspondan al órgano de adscripción.
+3. En todo caso, le corresponde el ejercicio de las funciones superiores de inspección en materia de función pública, la supervisión de la aplicación de los sistemas de evaluación del cumplimiento del personal y de otros instrumentos de control de calidad de los servicios públicos como garantía de objetividad e imparcialidad de los resultados y la propuesta en la adaptación de la organización a las necesidades de los servicios, para conseguir la eficacia y la eficiencia en la gestión pública.
+4. La composición y el régimen de funcionamiento de la Inspección General de Calidad, Organización y Servicios se regulan por decreto del Consejo de Gobierno. En todo caso, los inspectores serán personal funcionario de la Administración autonómica.
+
+## CAPÍTULO II
+
+Entes competentes en materia de función pública
+
+### Artículo 11
+
+Artículo 11.La Escuela Balear de Administración Pública.
+1.La Escuela Balear de Administración Pública es una entidad autónoma de carácter administrativo, con personalidad jurídica propia, adscrita a la consejería competente en materia de función pública.
+2. La determinación de la organización de la Escuela y las funciones de sus órganos se regulan por decreto del Consejo de Gobierno. En todo caso, como órgano de deliberación, seguimiento y participación en las actividades de la Escuela, existirá un consejo rector en el cual debe asegurarse la representación de las organizaciones sindicales más representativas en el ámbito de la Administración autonómica.
+
+### Artículo 12
+
+Artículo 12. Competencias de la Escuela Balear de Administración Pública en materia de función pública.
+1.Corresponde a la Escuela de Administración Pública la formación, la capacitación y el perfeccionamiento del personal al servicio de la Administración autonómica y de sus entidades dependientes, así como la gestión de los procedimientos de selección y de promoción del personal.
+2. También le corresponde, en los términos establecidos en esta ley y en la normativa de desarrollo, la realización de actividades formativas y de selección de personal al servicio de las otras administraciones radicadas en las Illes Balears, especialmente en relación con los colectivos de policía local, protección civil, seguridad pública y emergencias.
+
+## TÍTULO III
+
+Personal al servicio de la Administración de la Comunidad Autónoma
+
+### Artículo 13
+
+Artículo 13. Clases de personal.
+1.Tienen la consideración de personal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears el personal funcionario, el personal eventual y el personal laboral al servicio de las consejerías de la Administración de la Comunidad Autónoma y de entidades autónomas que dependen de ella, y el personal funcionario adscrito a los entes de derecho público sometidos a derecho privado de acuerdo con sus normas de creación.
+2. El personal al servicio de la Administración de la Comunidad Autónoma se clasifica en:
+a) Personal funcionario de carrera.
+b) Personal funcionario interino.
+c) Personal laboral fijo.
+d) Personal laboral temporal.
+e) Personal eventual.
+3. El personal al servicio de la Administración de la Comunidad Autónoma depende orgánicamente del consejero o la consejera competente en materia de función pública y funcionalmente del órgano superior de la consejería o del ente de derecho público donde presta servicios. Se exceptúa el personal eventual, que depende orgánica y funcionalmente de la autoridad que lo haya nombrado.
+
+### Artículo 14
+
+Artículo 14. Personal funcionario de carrera.
+1.Es personal funcionario de carrera aquel que, en virtud de un nombramiento legal, se incorpora a la Administración de la Comunidad Autónoma de las Illes Balears mediante una relación profesional de carácter permanente, regulada estatutariamente y sujeta a derecho público, ocupa puestos de trabajo dotados presupuestariamente o se encuentra en alguna de las situaciones administrativas previstas en la presente ley.
+2. La condición de personal funcionario no excluye la prestación de servicios a tiempo parcial, a domicilio o cualquier otra, en los términos que se establezcan reglamentariamente, siempre y cuando sea compatible con la naturaleza de las funciones a ejercer.
+3. Quedan reservados al personal funcionario de carrera los puestos de trabajo y las funciones cuyo cumplimiento implica ejercicio de autoridad, fe pública o asesoramiento legal, control y fiscalización interna de la gestión económico-financiera y presupuestaria, los de contabilidad y tesorería, los de carácter técnico y administrativo, los que comportan jefatura orgánica y, en general, los que se reservan a este personal para una mayor garantía de la objetividad, imparcialidad e independencia en el ejercicio de la función, así como los que implican una participación directa o indirecta en el ejercicio de la potestad pública y en la salvaguarda de los intereses generales de la Comunidad Autónoma.
+4. Con carácter general, los puestos de trabajo de la Administración autonómica están reservados a personal funcionario de carrera, sin perjuicio de los supuestos a que se refieren los artículos siguientes.
+
+### Artículo 15
+
+Artículo 15. Personal funcionario interino.
+1. Es personal funcionario interino el que, en virtud de un nombramiento legal, se incorpora a la Administración de la Comunidad Autónoma de las Illes Balears mediante una relación profesional de carácter temporal, regulada estatutariamente y sujeta a derecho público, para llevar a cabo con carácter temporal las funciones reservadas al personal funcionario de carrera.
+2. Las circunstancias que permiten nombrar personal funcionario interino son las siguientes:
+a) Existencia de puestos de trabajo vacantes, cuando no sea posible la cobertura por personal funcionario de carrera, por un máximo de tres años, en los términos previstos en el apartado 4 del artículo siguiente.
+b) Sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.
+c) Ejecución de programas de carácter temporal que corresponden a necesidades no permanentes de la Administración o programas temporales de reinserción social o de fomento del empleo que sean aprobados por el Consejo de Gobierno, que no pueden tener una duración superior a tres años, aunque, cuando la naturaleza del programa lo requiera, se pueden prorrogar hasta doce meses más.
+d) Subvenir a necesidades urgentes, extraordinarias y circunstanciales de incremento de la actividad, por un plazo máximo de nuevo meses, dentro de un periodo de dieciocho.
+3. Los procedimientos de selección de este personal se establecerán reglamentariamente y respetarán los principios de igualdad, mérito, capacidad y publicidad, y también deberán obedecer a criterios de celeridad y eficiencia. Estos procedimientos tienen como finalidad la cobertura inmediata del puesto de trabajo. El nombramiento derivado de estos procedimientos de selección en ningún caso puede dar lugar al reconocimiento de la condición de personal funcionario de carrera.
+4. En todo caso, el personal funcionario interino deberá cumplir las condiciones y los requisitos exigidos al personal funcionario de carrera para ocupar los puestos de trabajo o ejercer las funciones de que se trate.
+5. Al personal funcionario interino le es de aplicación el régimen general del personal funcionario de carrera en aquello que sea adecuado a la naturaleza de su condición temporal y al carácter extraordinario y urgente de su nombramiento, salvo aquellos derechos inherentes a la condición de funcionario de carrera.
+Se modifica la letra b) del apartado 2 por la disposición final 4.1 de la Ley 6/2023, de 16 de marzo. Ref. BOE-A-2023-13763#df-4
+ Se modifica por la disposición final 1.1 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Téngase en cuenta, en cuanto a los efectos del nuevo régimen de personal funcionario interino, lo previsto en la disposición transitoria 5 del citado Decreto-ley.
+ Se modifica el apartado 2.d) por la disposición final 8.1 de la Ley 9/2019, de 19 de febrero. Ref. BOE-A-2019-5578#df-8
+ Esta modificación entra en vigor el 28 de mayo de 2019, según determina la disposición final 9 de la citada ley.
+
+### Artículo 16
+
+Artículo 16. Causas de cese del personal funcionario interino.
+1. El personal funcionario interino cesa por alguna de las siguientes causas:
+a) Cuando el puesto de trabajo es ocupado por los sistemas reglamentarios o bien cuando finalice el plazo máximo de tres años, si se trata de la ocupación de puestos de trabajo vacantes.
+b) Cuando, por razones organizativas, el puesto se suprime de la relación de puestos de trabajo o se amortiza.
+c) Si se trata de sustituir a personal funcionario con reserva de su puesto de trabajo o en situación de licencia, cuando este se reincorpora.
+d) Si se trata de ejecutar programas temporales, en la fecha en que estos finalicen.
+e) Si se trata de subvenir a necesidades urgentes, extraordinarias y circunstanciales de incremento de la actividad, cuando estas necesidades desaparecen y, en todo caso, cuando se agote el plazo máximo establecido.
+f) Cuando finalice el plazo autorizado y expresamente recogido en el nombramiento.
+g) Cuando finalice la causa que dio lugar a su nombramiento.
+2. El personal funcionario interino cesa, asimismo, por renuncia o cuando, como consecuencia de un procedimiento disciplinario, se impone la sanción de revocación del nombramiento del personal funcionario interino.
+3. En todo caso, la Administración debe formalizar de oficio la finalización de la relación de interinidad por cualquiera de las causas establecidas en los apartados anteriores, así como por las previstas en el artículo 57 de esta ley, sin que esto dé lugar a ninguna compensación.
+4. En el supuesto previsto en el apartado 2.a) del artículo anterior, los puestos vacantes ocupados por personal funcionario interino serán objeto de cobertura mediante cualquier mecanismo de provisión o movilidad previstos en esta ley. No obstante, transcurridos tres años desde el nombramiento del personal funcionario interino se producirá la finalización de la relación de interinidad, y la vacante únicamente puede ser ocupada por personal funcionario de carrera, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se puede efectuar otro nombramiento de personal funcionario interino. Excepcionalmente, el personal funcionario interino puede permanecer en el puesto de trabajo que ocupa temporalmente, siempre que se haya publicado la correspondiente convocatoria dentro del plazo de los tres años, contados desde la fecha del nombramiento del funcionario interino y se haya resuelto con arreglo a los plazos establecidos en el artículo 70 del TREBEP. En este caso puede permanecer en el puesto hasta la resolución de la convocatoria, sin que el cese dé lugar a compensación económica.
+Se modifica por la disposición final 1.2 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Téngase en cuenta, en cuanto a los efectos del nuevo régimen de personal funcionario interino, lo previsto en la disposición transitoria 5 del citado Decreto-ley.
+ Se modifica el apartado 1.d) por la disposición final 9.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+
+### Artículo 17
+
+Artículo 17. Personal laboral fijo.
+1.Es personal laboral fijo al servicio de la Administración de la Comunidad Autónoma de las Illes Balears aquel que, en virtud de un contrato de naturaleza laboral, mantiene una relación profesional de carácter permanente caracterizada por las notas de ajenidad, dependencia, voluntariedad y retribución, y ocupa puestos de trabajo dotados presupuestariamente o se encuentra en alguna de las situaciones previstas en la normativa laboral vigente.
+2. El contrato laboral se formalizará por escrito y puede ser a tiempo completo y a tiempo parcial.
+3. La selección del personal laboral respetará los principios de publicidad, igualdad, mérito y capacidad.
+4. El personal laboral únicamente puede llevar a cabo las funciones atribuidas a los siguientes puestos:
+a) Los puestos cuyas actividades sean propias de una profesión determinada, que impliquen tareas de vigilancia, custodia, transporte u otras análogas, o que correspondan a áreas de actividades que requieran conocimientos técnicos, siempre y cuando estas funciones no sean las propias de cuerpos, escalas o especialidades de personal funcionario.
+b) Los puestos correspondientes a las áreas de mantenimiento y de conservación de edificios, de equipos y de instalaciones.
+c) Los puestos que la relación de puestos de trabajo reserva a personas con discapacidad intelectual moderada, ligera o límite y a las personas con sordera prelocutiva profunda, severa o media.
+
+### Artículo 18
+
+Artículo 18. Personal laboral temporal.
+1.Es personal laboral temporal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears aquel que, en virtud de un contrato de naturaleza laboral y de duración determinada, mantiene una relación profesional de carácter temporal, caracterizada por las notas de ajenidad, dependencia, voluntariedad y retribución.
+2. La selección del personal laboral temporal respetará los principios y las reglas contenidas en el artículo anterior, y se rige igualmente por el principio de celeridad, con el fin de atender a razones expresamente justificadas de necesidad y urgencia. Las modalidades contractuales son las de duración determinada, previstas en la legislación laboral.
+3. No obstante lo que dispone el punto anterior, puede contratarse personal de duración determinada, con independencia de las funciones del puesto de trabajo a cubrir, en los siguientes supuestos:
+a) Para sustituir personal laboral en caso de jubilación anticipada o de jubilación parcial.
+b) Para sustituir personal laboral cuando, como consecuencia de excedencias, permisos u otras circunstancias, tengan derecho a la reserva de su puesto de trabajo.
+c) Para sustituir reducciones de jornada del personal laboral, cuando las necesidades del servicio así lo requieran. En este caso, la contratación puede realizarse a tiempo parcial.
+d) Para contratar personas con discapacidad mediante contratos temporales de fomento de la ocupación, de acuerdo con la legislación laboral aplicable.
+e) Para contratar mujeres que tengan acreditada la condición de víctimas de la violencia de género, en los términos de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, de acuerdo con la legislación laboral aplicable.
+f) Para contratar personas en situación o riesgo de exclusión social en el marco de programas temporales de reinserción social o de fomento de la ocupación aprobados por el Consejo de Gobierno, de acuerdo con la legislación laboral aplicable.
+Se modifica el apartado 2 por la disposición final 1.3 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifica el apartado 2.f) por la disposición final 8.2 de la Ley 9/2019, de 19 de febrero. Ref. BOE-A-2019-5578#df-8
+ Este apartado entra en vigor el 28 de mayo de 2019, según determina la disposición final 9 de la citada ley.
+ Se añade el apartado 3 por la disposición adicional 14 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651
+
+### Artículo 19
+
+Artículo 19. Efectos de los servicios prestados en régimen de relación no permanente.
+1.La prestación de servicio en régimen de relación no permanente no puede suponer derecho preferente para el acceso a la condición de personal funcionario ni para la adquisición de la condición de personal laboral fijo.
+2. No obstante, el tiempo de servicios prestados pueden computarse en fase de concurso, siempre y cuando los servicios sean adecuados a las plazas que se convoquen.
+
+### Artículo 20
+
+Artículo 20. Personal eventual.
+1.Es personal eventual aquel que, en virtud de nombramiento legal, ocupa, con carácter temporal, puestos de trabajo considerados de confianza o de asesoramiento especial de la Presidencia o de los consejeros o las consejeras, no reservados a personal funcionario de carrera.
+2. El número de puestos de trabajo del personal eventual, sus características y las retribuciones que le corresponden son públicos y los determina el Consejo de Gobierno.
+3. El presidente o la presidenta y los consejeros o las consejeras nombran y cesan libremente a su personal eventual. Los nombramientos y los ceses se publicarán en el Butlletí Oficial de les Illes Balears. En todo caso, el personal eventual cesa automáticamente cuando cesa la autoridad que lo nombró, así como en caso de renuncia. El cese no da, en ningún caso, derecho a indemnización.
+4. La prestación de servicios en régimen de personal eventual no puede suponer mérito para el acceso a la función pública, para la promoción interna ni para la contratación como personal laboral.
+
+## TÍTULO IV
+
+Estructura y ordenación de la función pública
+
+## CAPÍTULO I
+
+Grupos, cuerpos y escalas funcionariales
+
+### Artículo 21
+
+Artículo 21.Ordenación de la función pública.
+1.La función pública autonómica se ordena mediante cuerpos, escalas y especialidades a los que accede el personal funcionario que la integra.
+2. Los cuerpos, de acuerdo con la naturaleza general o especial de las funciones a realizar, se clasifican en cuerpos generales y cuerpos especiales.
+3. Son cuerpos generales aquellos que tienen atribuidas funciones comunes en el ejercicio de la actividad administrativa. Son cuerpos especiales aquellos que tienen atribuidas funciones relacionadas con las propias de una profesión determinada.
+
+### Artículo 22
+
+Artículo 22. Grupos de clasificación.
+Los cuerpos del personal funcionario, de acuerdo con el nivel de titulación exigida para su ingreso, se agrupan en la forma que establece la normativa básica estatal.
+
+### Artículo 23
+
+Artículo 23. Cuerpos, escalas y especialidades funcionariales.
+1.El personal funcionario se agrupa por cuerpos por razón del carácter homogéneo de las funciones que tienen que llevarse a cabo y de la titulación exigida para su ingreso.
+2. Dentro de los cuerpos, por razón de la especialización de las funciones, pueden existir escalas.
+3. Dentro de las escalas de los cuerpos especiales el Consejo de Gobierno puede establecer especialidades por razón del mayor grado de especialización y de la titulación o las titulaciones específicas exigidas para su ingreso, de entre las que corresponden a la escala en que se crea la especialidad.
+
+### Artículo 24
+
+Artículo 24. Creación, modificación y supresión de cuerpos y escalas.
+1.La creación, modificación y supresión de cuerpos y escalas se llevará a cabo mediante una ley del Parlamento de las Illes Balears.
+2. Las leyes de creación de cuerpos y de escalas tienen que determinar como mínimo:
+a) La denominación.
+b) El nivel de titulación o la titulación o las titulaciones concretas exigidas para ingresar.
+c) La definición de las funciones que corresponden al cuerpo o a la escala.
+d) La regulación de las cuestiones que necesiten un tratamiento específico, en atención a las peculiaridades funcionales del cuerpo o de la escala.
+3. No pueden crearse nuevos cuerpos o escalas con funciones similares o análogas a otros ya existentes si para ingresar se exige la misma titulación.
+
+### Artículo 25
+
+Artículo 25. Creación, modificación y supresión de especialidades.
+1.La creación, modificación y supresión de las especialidades se llevará a cabo por el Consejo de Gobierno mediante decreto.
+2. El decreto de creación debe determinar, como mínimo, la titulación o las titulaciones específicas exigidas para su ingreso, de entre las que corresponden a la escala en que se crea la especialidad.
+
+### Artículo 26
+
+Artículo 26. Acceso a los cuerpos, las escalas y las especialidades de la Administración autonómica.
+1.El acceso ordinario a los cuerpos, las escalas y las especialidades de la Administración autonómica se realiza a través de las convocatorias de acceso a la función pública, mediante la superación de los correspondientes procedimientos selectivos.
+2. El acceso extraordinario a los cuerpos y las escalas de la Administración autonómica se realiza por integración, de acuerdo con las previsiones que establece la presente ley.
+3. El acceso extraordinario a las especialidades de los cuerpos especiales y sus escalas puede llevarse a cabo por integración o bien por superación de pruebas o cursos específicos, de acuerdo con las previsiones que establece la presente ley.
+
+### Artículo 27
+
+Artículo 27. Acceso extraordinario a cuerpos, escalas y especialidades de la Administración autonómica por integración.
+La integración a los cuerpos, las escalas y las especialidades de la Administración autonómica se produce en los supuestos siguientes:
+a) Por creación, modificación o supresión de cuerpos, escalas o especialidades. En este supuesto la norma de creación, modificación o supresión de un cuerpo, una escala o una especialidad debe determinar el régimen de integración del personal funcionario de la Administración autonómica que se vea afectado.
+b) Por procesos de transferencia o traspaso de medios personales y por otros procedimientos de movilidad interadministrativa, de acuerdo con las previsiones que establece el capítulo V del título VII de la presente ley.
+
+### Artículo 28
+
+Artículo 28. Acceso extraordinario a las especialidades de la Administración autonómica por superación de pruebas o cursos específicos.
+La Administración autonómica puede convocar pruebas específicas o cursos selectivos para que el personal funcionario pueda acceder a una especialidad determinada del cuerpo y la escala propios, de conformidad con los requisitos y las condiciones que se establezcan reglamentariamente.
+
+## CAPÍTULO II
+
+Instrumentos de ordenación de los puestos de trabajo
+
+### Artículo 29
+
+Artículo 29.Relaciones de puestos de trabajo.
+1.Las relaciones de puestos de trabajo son el instrumento técnico mediante el cual la Administración ordena sus recursos humanos para la prestación eficaz del servicio público y establece los requisitos para la ocupación de cada puesto de trabajo.
+2. Todos los puestos de trabajo de la Administración autonómica de personal funcionario, de personal laboral o de personal eventual deben figurar en la relación de puestos de trabajo.
+3. La creación, modificación y supresión de puestos de trabajo se llevará a cabo mediante la modificación de la correspondiente relación de puestos de trabajo.
+4. Las relaciones de puestos de trabajo deben publicarse en el Butlletí Oficial de les Illes Balears.
+
+### Artículo 30
+
+Artículo 30. Contenido de las relaciones de puestos de trabajo.
+Las relaciones de puestos de trabajo de personal funcionario y de personal laboral deben incluir, como mínimo, los siguientes datos respecto a cada uno de los puestos:
+a) Unidad orgánica de adscripción.
+b) Denominación, características esenciales y sistema de provisión.
+c) Requisitos objetivos exigidos para su ocupación.
+d) Nivel exigido de conocimiento de la lengua catalana, en los términos establecidos reglamentariamente.
+Se exceptúa de esta exigencia al personal estatutario y laboral sanitario del Servicio de Salud de las Illes Balears y de los entes públicos adscritos a este servicio, cuyo requisito de acceso sea una titulación de la rama sanitaria. Respecto a este personal, el conocimiento de la lengua catalana no tendrá en ningún caso el carácter o la condición de requisito para el ingreso, la provisión o la ocupación de puestos de trabajo o desempeño de funciones en aquel servicio o en los entes públicos adscritos al mismo. Así, en relación con este personal, el conocimiento de la lengua catalana tendrá la condición de mérito, en los términos que se determinen reglamentariamente.
+e) Grupo o grupos, cuerpo o escala y especialidad de adscripción, así como el nivel de clasificación y las retribuciones complementarias, si se trata de puestos funcionariales.
+f) Categoría profesional, nivel retributivo y complemento específico, si se trata de puestos laborales.
+Se modifica la letra d) por la disposición final 17.1 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica la letra d) por el art. 39.1 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.1 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Téngase en cuenta que se declara inconstitucional y nulo el art. 7.1 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, que dió redacción a la letra d) de este artículo, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
+ Se modifica la letra d) por la disposición final 2.1 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se añade el apartado d) por el art. 1 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se suprime la letra d) por el art. único.1 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 31
+
+Artículo 31. Procedimiento de elaboración de las relaciones de puestos de trabajo.
+1.La consejería competente en materia de función pública, a propuesta de las consejerías y de las entidades autónomas interesadas, elabora las relaciones de puestos de trabajo permanentes del personal funcionario y del personal laboral de la Administración autonómica y las mantiene actualizadas. La participación de la representación de las empleadas y los empleados públicos, en su caso, se regirá por las previsiones que establece la legislación básica estatal.
+2. El consejero o la consejera competente en materia de función pública propone al Consejo de Gobierno la aprobación de la relación de puestos de trabajo del personal al servicio de la Administración autonómica.
+3. No obstante lo dispuesto en los apartados anteriores, cuando las modificaciones sean consecuencia de una reestructuración orgánica, de la aplicación de una ley o de otra norma con rango de ley, de la ejecución de una resolución judicial firme o de la supresión de puestos de trabajo declarados a extinguir, la modificación se realizará automáticamente y requerirá únicamente la aprobación del Consejo de Gobierno y su publicación.
+Se modifica el apartado 3 por la disposición final 1.1 del Decreto-ley 10/2012, de 31 de agosto. Ref. BOIB-i-2012-90041
+
+### Artículo 32
+
+Artículo 32. Clasificación de los puestos de trabajo del personal funcionario.
+1.Los puestos de trabajo de personal funcionario se clasifican en treinta niveles, que determinan las retribuciones correspondientes al complemento de destino.
+2. Para llevar a cabo esta clasificación se valorará cada puesto en atención a los criterios de titulación, especialización, responsabilidad, competencia y estructura jerárquica subordinada.
+3. Los puestos de trabajo pueden ser genéricos o singularizados, de acuerdo con lo que establezca la relación con puestos de trabajo.
+4. Son puestos de trabajo genéricos en todo caso aquellos que no se encuentran diferenciados dentro de la estructura orgánica y que implican la ejecución de funciones propias del cuerpo, la escala o la especialidad, o aquellos que no tienen contenido individualizado.
+5. Pueden ser puestos de trabajo singularizados los que se encuentran diferenciados dentro de la estructura orgánica e implican la ejecución de funciones asignadas de manera individualizada. Consiguientemente, los puestos que no se singularizan deberán entenderse genéricos.
+Se modifica el apartado 5 por la disposición final 1.4 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 33
+
+Artículo 33. Adscripción de los puestos de trabajo del personal funcionario.
+La relación de puestos de trabajo del personal funcionario, considerando las características de cada puesto, puede adscribir los puestos a uno o más cuerpos, escalas, especialidades o grupos de clasificación.
+
+### Artículo 34
+
+Artículo 34. Órdenes de funciones de los puestos de trabajo del personal funcionario.
+1.Las órdenes de funciones son el instrumento técnico de ordenación mediante el cual la Administración asigna las funciones a los puestos de trabajo.
+2. Las órdenes de funciones son una manifestación de la potestad de organización y de dirección de la Administración, se dictan y se modifican según las necesidades del servicio y de acuerdo con el procedimiento que establece el punto siguiente.
+3. Cada consejero o consejera determina las funciones de los puestos de trabajo adscritos a su consejería, previo informe de la consejería competente en materia de función pública. Las órdenes de funciones se publicarán en el Butlletí Oficial de les Illes Balears.
+4. Lo dispuesto en los puntos anteriores no impide que, por necesidades del servicio, puedan asignarse al personal funcionario temporalmente tareas distintas a las atribuidas a los puestos de trabajo que ocupan, respetando las funciones propias del cuerpo o la escala.
+
+### Artículo 35
+
+Artículo 35. Naturaleza directiva de determinados puestos de trabajo.
+1.Las relaciones de puestos de trabajo pueden determinar la naturaleza directiva de los puestos de trabajo entre cuyas funciones se establezca la dirección, la programación, la coordinación, el impulso y la evaluación de la actuación administrativa o técnica, en los distintos ámbitos de la Administración.
+2. En todo caso, tienen naturaleza directiva los puestos de trabajo clasificados en el nivel 30, los que implican jefatura de departamento y los que implican jefatura de servicio cuando tienen dependencia directa del órgano superior o directivo al cual están adscritos.
+3. Los puestos de trabajo de naturaleza directiva requieren para su ocupación el diploma de personal directivo expedido por la Escuela Balear de Administración Pública u otro homologado por ésta, estando sujetos los titulares de dicho diploma a los sistemas de evaluación del cumplimiento regulados en este título.
+
+### Artículo 36
+
+Artículo 36. Plantilla de personal.
+1.La plantilla del personal es el instrumento de coordinación entre la ordenación de la función pública y las estructuras presupuestarias.
+2. La plantilla de personal contiene la relación de plazas correspondientes a cada uno de los grupos y cuerpos funcionariales y a cada uno de los grupos y niveles de clasificación de personal laboral, que se amparan en la dotación presupuestaria de los puestos de trabajo.
+
+## CAPÍTULO III
+
+Instrumentos de ordenación y de planificación de los recursos humanos
+
+### Artículo 37
+
+Artículo 37. Ordenación y planificación de los recursos humanos.
+La Administración autonómica realizará la ordenación y la planificación correspondientes de los recursos humanos, de acuerdo con los principios informadores recogidos en la presente ley y de acuerdo con lo dispuesto en la normativa básica estatal.
+
+### Artículo 38
+
+Artículo 38. Instrumentos de ordenación y de planificación.
+1.La Administración de la Comunidad Autónoma de las Illes Balears puede aprobar planes generales de ordenación de los recursos humanos adaptados a sus peculiaridades, así como programas específicos para optimizar recursos para áreas determinadas.
+2. Los planes generales de ordenación y los programas específicos de optimización de recursos pueden incluir todas o algunas de las siguientes medidas:
+a) Suspensión de incorporaciones de personal externo al ámbito afectado, tanto las derivadas de ofertas de empleo como de procedimientos de movilidad.
+b) Reasignación de efectivos de personal.
+c) Cursos de formación y capacitación.
+d) Convocatorias de provisión de puestos de trabajo limitados al personal del ámbito que se determine.
+e) Medidas específicas de promoción interna.
+f) Prestación de servicios a tiempo parcial.
+g) Necesidades adicionales de recursos humanos, que tendrán que integrarse, en su caso, en la oferta pública de empleo.
+h) Otras medidas que sean procedentes en relación con los objetivos establecidos en el plan o programa.
+3. Estas medidas, en su caso, de conformidad con la normativa básica estatal, serán objeto de negociación sindical.
+4. Los planes y programas regulados en este artículo podrán basarse en el resultado de los sistemas de evaluación del cumplimiento que se lleven a cabo de acuerdo con las disposiciones establecidas en el artículo siguiente.
+
+### Artículo 39
+
+Artículo 39. Evaluación del cumplimiento.
+1.Las administraciones públicas de las Illes Balears implantarán progresivamente sistemas de evaluación del cumplimiento del personal a su servicio, como instrumento para la mejora de la motivación, del rendimiento y de la calidad de los servicios públicos.
+2. Los sistemas de evaluación son públicos y deben garantizar la objetividad y la imparcialidad de los resultados, los cuales se tendrán en cuenta tanto en la promoción de la carrera profesional como en la determinación de los conceptos retributivos ligados a la productividad, pudiendo dar lugar al reconocimiento de recompensas.
+3. Para la evaluación del cumplimiento se tendrán en cuenta los resultados obtenidos, los comportamientos o las conductas profesionales, los proyectos implantados o ejecutados y demás parámetros que se establezcan reglamentariamente.
+
+## CAPÍTULO IV
+
+Registro General de Personal
+
+### Artículo 40
+
+Artículo 40.Registro General de Personal.
+El Registro General de Personal, adscrito a la dirección general competente en materia de función pública, tiene atribuidas las competencias de inscripción del personal al servicio de la Administración autonómica y de anotación de todos los actos que afectan a la vida administrativa de dicho personal.
+
+### Artículo 41
+
+Artículo 41. Organización y funcionamiento.
+1.La organización y el funcionamiento del Registro General de Personal y los datos que constarán en el mismo se establecerán por decreto del Consejo de Gobierno.
+2. La regulación se realizará de acuerdo con los criterios homogéneos establecidos por la Administración estatal, que permitan la coordinación con el Registro Central de Personal y con los registros de las otras administraciones públicas.
+
+### Artículo 42
+
+Artículo 42. Comunicación de datos.
+1.Las consejerías y los entes de derecho público deben facilitar al Registro General de Personal los datos iniciales respecto al personal que tengan adscrito y colaborar para que se mantengan permanentemente actualizados.
+2. Salvo los incrementos legalmente establecidos, no pueden incluirse en nómina nuevas remuneraciones si previamente no se ha comunicado al Registro General de Personal la resolución o el acto por el que se han reconocido.
+
+### Artículo 43
+
+Artículo 43. Acceso a los datos.
+1.El personal tiene derecho a acceder libremente a su expediente individual y a los datos relativos a su vida administrativa que figuran inscritos, así como a obtener las correspondientes certificaciones.
+2. La utilización de los datos que constan en el Registro General de Personal está sometida a las limitaciones previstas en el artículo 18.4 de la Constitución y la normativa vigente en materia de protección de datos.
+
+## TÍTULO V
+
+Nacimiento y extinción de la relación de servicio
+
+## CAPÍTULO I
+
+Selección de personal
+
+### Artículo 44
+
+Artículo 44.Principios informadores.
+1.La Administración de la Comunidad Autónoma de las Illes Balears selecciona al personal a su servicio con criterios de objetividad, mediante convocatoria pública, de conformidad con los principios constitucionales de igualdad, mérito y capacidad.
+2. Son también principios informadores del acceso a la función pública:
+a) La transparencia en la gestión del procedimiento y en el funcionamiento de los órganos de selección.
+b) La especialización y la profesionalidad de los miembros de los órganos de selección.
+c) La garantía de la independencia del órgano de selección y de la imparcialidad de cada uno de sus miembros.
+d) La adecuación de los sistemas de selección y de las pruebas selectivas a las funciones atribuidas a los cuerpos, las escalas o las especialidades correspondientes, que tendrán que incluir, a tal efecto, las pruebas prácticas que sean necesarias.
+e) La eficacia de los procedimientos de selección para asegurar la idoneidad de los aspirantes seleccionados.
+f) El fomento del equilibrio entre mujeres y hombres y del acceso de las mujeres a aquellos sectores de actividad donde hay más porcentaje de hombre.
+g) La eficiencia, la celeridad y la agilidad de los procedimientos selectivos.
+
+### Artículo 45
+
+Artículo 45. Sistemas de selección.
+1.El acceso a los cuerpos, las escalas y las especialidades funcionariales o a las categorías profesionales de personal laboral fijo se realizará mediante los sistemas de oposición, concurso-oposición o concurso.
+2. El sistema de oposición consiste en realizar una o más pruebas de capacidad para determinar la aptitud de los aspirantes.
+3. El sistema de concurso-oposición consiste en llevar a cabo, como partes del procedimiento de selección, una fase de oposición y una de concurso. La puntuación que pueda obtenerse en la fase de concurso no dispensa en ningún caso de la necesidad de superar las pruebas selectivas de la fase de oposición.
+4. El sistema de concurso, que tiene carácter excepcional, consiste en calificar los méritos alegados y acreditados por los aspirantes, de acuerdo con el baremo incluido en la convocatoria.
+Se modifica el apartado 2 por el art. 2 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se modifica por el art. único.2 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 46
+
+Artículo 46. Procedimientos selectivos.
+1.Los procedimientos selectivos se realizarán a través de uno de los sistemas de selección previstos en el artículo anterior.
+2. Las convocatorias de selección pueden incluir cursos o periodos de prueba que constituyan parte del procedimiento selectivo.
+
+### Artículo 47
+
+Artículo 47. Oferta de empleo público.
+1. Constituye la oferta de empleo público anual el conjunto de plazas vacantes de personal funcionario y de personal laboral, con dotación presupuestaria, cuya cobertura resulta necesaria y no es posible con el personal existente.
+2. La oferta de empleo público correspondiente a la promoción interna se puede aprobar de manera independiente de la oferta de empleo público correspondiente a la tasa de reposición ordinaria.
+3. La oferta de empleo público debe indicar el cuerpo, la escala y la especialidad o el nivel y la categoría profesional a la cual correspondan las plazas vacantes y la isla de destino.
+4. El acuerdo del Consejo de Gobierno que aprueba la oferta de empleo público puede incluir otras medidas o disposiciones derivadas de la planificación de los recursos humanos.
+5. La oferta de empleo público se ejecuta mediante las convocatorias de selección.
+6. La oferta de empleo se publicará en el Boletín Oficial de las Illes Balears.
+Se modifica por la disposición final 1.5 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 48
+
+Artículo 48. Acceso al empleo público de las personas con discapacidades.
+1.La consejería competente en materia de función pública facilitará el acceso al empleo público de las personas con discapacidades.
+2. Las personas con discapacidades físicas, psíquicas o sensoriales, siempre y cuando puedan acreditar la compatibilidad funcional con las funciones de los cuerpos, las escalas, las especialidades o las categorías profesionales de acceso, participan en los procedimientos selectivos en igualdad de condiciones que el resto de los aspirantes, excepto lo dispuesto en el apartado 4 del presente artículo.
+3. En las ofertas de empleo público de la Comunidad Autónoma de las Illes Balears se reservará una cuota no inferior al 7% de las vacantes para las personas con un grado de discapacidad igual o superior al 33%, de forma que progresivamente se llegue al 2% de los efectivos totales en cada administración pública.
+La reserva del mínimo del 7% se realizará de forma que, al menos, el 2% de las plazas ofrecidas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofrecidas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
+4. Un decreto del Consejo de Gobierno desarrollará las medidas que faciliten la integración de las personas con discapacidades en la Administración autonómica, que deben tener en cuenta especialmente:
+a) Las personas con discapacidades concretas que requieran pruebas selectivas específicas que se adapten a ellas.
+b) La idoneidad de los puestos de trabajo que se les adjudiquen.
+Se modifica el apartado 3 por la disposición final 1.6 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 49
+
+Artículo 49. Convocatorias de selección.
+1.Las convocatorias de selección tienen que incluir:
+a) El número de plazas vacantes, el grupo, el cuerpo, la escala, la especialidad o la categoría laboral a la cual correspondan y la isla de destino.
+b) El porcentaje reservado para la promoción interna, en su caso, con indicación expresa de si incluye plazas que han de ser objeto de reclasificación, al amparo del artículo 68.3 de esta ley.
+c) El porcentaje reservado para personas con discapacidad, en su caso.
+d) Los requisitos y las condiciones que tienen que cumplir los aspirantes.
+e) Los sistemas selectivos, el contenido de las pruebas y de los programas o, en su caso, la relación de méritos, así como los criterios o las normas de valoración.
+f) Los cursos de formación o periodo de prueba, en su caso, con la indicación de si tienen o no carácter selectivo.
+g) La composición de los órganos de selección.
+h) El calendario para realizar las pruebas.
+i) El modelo de solicitud y el órgano al cual tiene que dirigirse.
+2. Las convocatorias se publicarán en el Butlletí Oficial de les Illes Balears y las bases vinculan a la Administración, a los órganos de selección y a las personas que participan en las mismas.
+
+### Artículo 50
+
+Artículo 50. Requisitos de acceso a la función pública.
+1.Son requisitos generales de acceso a la función pública autonómica los siguientes:
+a) Tener la nacionalidad española o alguna otra que, de conformidad con la normativa vigente sobre esta materia, permita el acceso al empleo público.
+b) Tener la edad mínima establecida en la legislación básica estatal y no exceder de la edad que, si procede, establezca la correspondiente convocatoria.
+c) Tener la titulación académica que se requiere en cada caso o estar en condición de obtenerla en la fecha de finalización del plazo de presentación de solicitudes de participación.
+d) Tener las capacidades y aptitudes físicas y psíquicas que sean necesarias para el ejercicio de las funciones correspondientes.
+e) No haber sido separado, mediante procedimiento disciplinario, de ninguna Administración u empleo público, ni encontrarse inhabilitado por sentencia firme para el cumplimiento de funciones públicas.
+f) Acreditar el conocimiento de la lengua catalana que se determine reglamentariamente, respetando el principio de proporcionalidad y adecuación entre el nivel de exigencia y las funciones correspondientes, y sin perjuicio de lo que dispone la letra d) del artículo 30 de esta ley.
+2. Cada convocatoria puede establecer requisitos específicos de acceso, siempre y cuando se formulen de manera abstracta y general y tengan una relación objetiva y proporcionada con las funciones correspondientes.
+Se modifica la letra f) del apartado 1 por la disposición final 17.2 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica la letra f) por el art. 39.2 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.2 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Téngase en cuenta que se declara inconstitucional y nulo el art. 7.2 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, que dió redacción a la letra f) de este artículo, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
+ Se modifica la letra f) del apartado 1 por la disposición final 2.2 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se añade la letra f) al apartado 1 por el art. 3 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se suprime la letra f) del apartado 1 por el art. único.3 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 51
+
+Artículo 51. Órganos de selección.
+1.Los órganos de selección son los encargados de llevar a cabo los procedimientos selectivos y dependen del órgano al cual están adscritos o del que haya nombrado a su presidencia.
+2. La composición y el funcionamiento de los órganos de selección se establecerán reglamentariamente, de acuerdo con los principios que fija el presente capítulo, ajustándose al criterio de paridad entre hombres y mujeres, siempre que el número de miembros lo haga posible.
+3. Los cargos de naturaleza política y el personal eventual de la Administración no pueden formar parte de los órganos de selección.
+Tampoco pueden formar parte de los mismos los representantes de las empleadas y de los empleados públicos, sin perjuicio de las funciones de vigilancia y control del buen desarrollo del procedimiento selectivo.
+4. Con el fin de llevar a cabo los procedimientos selectivos convocados, podrá crearse una comisión permanente de selección.
+5. Al personal funcionario que forme parte de los órganos de selección se le podrá atribuir temporalmente y con carácter exclusivo el ejercicio de estas funciones.
+Se modifica el apartado 4 por la disposición final 5 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-5
+ Téngase en cuenta, para los efectos de esta modificación, lo dispuesto en las disposiciones final 18 y transitoria 2 del citado Decreto-ley.
+
+### Artículo 52
+
+Artículo 52. Funcionamiento de los órganos de selección.
+1.Los órganos de selección actúan con autonomía funcional y los acuerdos que adopten vinculan al órgano del que dependen, sin perjuicio de las facultades de revisión establecidas legalmente.
+2. Los miembros de los órganos de selección son responsables de la objetividad de procedimiento, del contenido y de la confidencialidad de las pruebas y del estricto cumplimiento de las bases de la convocatoria.
+3. Los órganos de selección no pueden declarar que ha superado los procedimientos selectivos un número de aspirantes superior al de plazas convocadas. Los acuerdos que infrinjan esta prohibición serán nulos de pleno derecho.
+
+### Artículo 53
+
+Artículo 53. Adjudicación de puestos de trabajo en los procedimientos selectivos.
+1.Al personal funcionario que obtenga una plaza como consecuencia de la participación en un procedimiento selectivo se le adjudicará un puesto de trabajo con carácter definitivo, salvo lo establecido en el punto 3 de este artículo.
+2. La adjudicación definitiva tiene la misma naturaleza y los mismos efectos que la adjudicación de puestos de trabajo mediante los sistemas ordinarios de provisión.
+3. La adjudicación tiene carácter provisional cuando el puesto de trabajo es singularizado o cuando el personal funcionario no cumple los requisitos para su desempeño.
+
+### Artículo 54
+
+Artículo 54. Competencias de la Escuela Balear de Administración Pública en materia de selección.
+1.Corresponde a la Escuela Balear de Administración Pública:
+a) Preparar, coordinar y ejecutar las convocatorias de procedimientos selectivos para el acceso a la función pública del personal de la Administración de la Comunidad Autónoma de las Illes Balears y de los organismos autónomos, sin perjuicio de las competencias del consejero o la consejera competente en materia de función pública.
+b) Prestar apoyo técnico a los órganos de selección.
+c) Impartir los cursos selectivos de formación que se establezcan con carácter previo para adquirir la condición de personal al servicio de la Administración autonómica.
+2. La Escuela puede realizar las funciones mencionadas respecto al personal al servicio de las otras administraciones públicas radicadas en las Illes Balears mediante la suscripción del correspondiente convenio, especialmente cuando se trate del acceso a los cuerpos y las escalas equivalentes.
+
+### Artículo 55
+
+Artículo 55. Homogeneización de los procedimientos selectivos.
+1.A efectos de permitir la movilidad interadministrativa en el ámbito de la Comunidad Autónoma y la cooperación en materia de selección de personal, el Consejo de Gobierno, a propuesta del consejero o la consejera competente en materia de función pública, previo informe del Consejo Balear de la Función Pública, establecerá los programas homogéneos y los temarios básicos que constituyen los contenidos mínimos correspondientes a los procedimientos selectivos para cuerpos, escalas, especialidades o categorías de la Administración de la Comunidad Autónoma.
+2. Las administraciones públicas radicadas en las Illes Balears pueden asumir los mencionados contenidos en los procesos selectivos para el acceso a sus cuerpos, escalas, especialidades y categorías, lo que permitirá establecer las correspondientes equivalencias y la movilidad en condiciones de reciprocidad.
+3. La determinación de los programas homogéneos y temarios básicos se realizará de acuerdo con las disposiciones básicas estatales aplicables a las corporaciones locales.
+
+## CAPÍTULO II
+
+Adquisición y pérdida de la condición de personal funcionario
+
+### Artículo 56
+
+Artículo 56. Adquisición de la condición de personal funcionario.
+1.La condición de personal funcionario se adquiere por el cumplimiento sucesivo de los siguientes requisitos:
+a) Superación del procedimiento selectivo de acceso al empleo público.
+b) Nombramiento y publicación del mismo por parte del órgano competente.
+c) Juramento o promesa de cumplir la Constitución, el Estatuto de Autonomía de las Illes Balears y el ordenamiento vigente, en el ejercicio de la función pública.
+d) Toma de posesión en el plazo establecido reglamentariamente.
+2. Las personas que no acrediten, una vez superado el procedimiento selectivo, que cumplen los requisitos y las condiciones exigidos en la convocatoria, no pueden ser nombradas personal funcionario, quedando sin efecto las actuaciones relativas a su nombramiento.
+
+### Artículo 57
+
+Artículo 57. Causas de pérdida de la condición de personal funcionario.
+La condición de personal funcionario de la Administración de la Comunidad Autónoma de las Illes Balears se pierde por alguna de las siguientes causas:
+a) Renuncia de la persona interesada.
+b) Separación de servicio.
+c) Jubilación.
+d) Pérdida de la nacionalidad que permitió el acceso al empleo público, salvo que simultáneamente se adquiera otra de las requeridas.
+
+### Artículo 58
+
+Artículo 58. La renuncia.
+1.La renuncia de la persona interesada tiene que formalizarse por escrito y no inhabilita para un nuevo ingreso en la función pública autonómica.
+2. No se aceptará la renuncia cuando la persona interesada esté sujeta a un expediente disciplinario o un proceso penal por la comisión de un delito.
+
+### Artículo 59
+
+Artículo 59. La separación del servicio.
+1.La separación del servicio puede producirse como consecuencia de la imposición de una sanción disciplinaria o como consecuencia de la imposición de una pena, principal o accesoria, de inhabilitación absoluta o especial para ocupar cargos públicos.
+2. La separación del servicio cuando deviene firme tiene carácter definitivo y no es posible la rehabilitación.
+
+### Artículo 60
+
+Artículo 60. La jubilación.
+1.La jubilación del personal funcionario puede ser:
+a) Voluntaria.
+b) Forzosa.
+c) Por incapacidad permanente.
+2. La jubilación se rige por la normativa estatal que resulte de aplicación.
+
+### Artículo 61
+
+Artículo 61. Rehabilitación de la condición de personal funcionario.
+En caso de extinción de la relación funcionarial como consecuencia de la pérdida de la nacionalidad o de jubilación por incapacidad permanente, la persona interesada puede solicitar la rehabilitación en los términos y en las condiciones que se establezcan reglamentariamente.
+
+## TÍTULO VI
+
+Carrera administrativa
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 62
+
+Artículo 62.Carrera profesional.
+1.La carrera profesional del personal funcionario consiste en la progresión en el seno de la Administración conforme a los principios de igualdad, mérito y capacidad.
+2. La carrera profesional del personal funcionario se hace efectiva a través de la carrera profesional horizontal, de la consolidación del grado personal, de la promoción interna y de la movilidad.
+Se modifica el apartado 2 por el art. 2.1 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 62 bis
+
+Artículo 62 bis. Carrera profesional horizontal.
+1. La carrera profesional horizontal consiste en la progresión de nivel o escalón, sin necesidad de cambiar de puesto de trabajo como consecuencia de la valoración del desempeño y la actuación profesional, de la calidad de los trabajos realizados y los conocimientos adquiridos y transferidos. La efectividad definitiva del sistema de carrera horizontal requiere, en todo caso, la implantación previa de sistemas de evaluación del desempeño.
+2. La carrera profesional horizontal se estructura en niveles o escalones consecutivos, denominados niveles de carrera, que podrán ser diferentes para cada grupo o subgrupo, y en cada uno de los cuales el personal funcionario tiene que permanecer un periodo de tiempo mínimo para adquirir las competencias necesarias para poder acceder al nivel del escalón superior.
+3. La carrera profesional horizontal se inicia desde la toma de posesión como personal funcionario de carrera. Así, la persona funcionaria inicia la carrera en el nivel de entrada después del proceso selectivo, que debe tener la consideración de mínimo y no puede ser retribuido. Una vez adquirido el nivel mínimo, la progresión en la carrera tiene carácter voluntario.
+4. El sistema de carrera profesional horizontal se tiene que desarrollar reglamentariamente, previa negociación con las organizaciones sindicales.
+5. Los efectos en la carrera profesional horizontal por los cambios de cuerpo, escala, especialidad o categoría profesional de origen a grupos de titulación superior se tienen que determinar reglamentariamente, previa negociación con las organizaciones sindicales.
+Se añade por el art. 2.3 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+## CAPÍTULO II
+
+Promoción intracorporativa: Grado personal
+
+### Artículo 63
+
+Artículo 63.Disposiciones generales del grado personal.
+1.Todo el personal funcionario de carrera tiene un grado personal que adquiere y consolida de conformidad con lo dispuesto en el presente capítulo.
+2. El grado personal se corresponde con alguno de los niveles en que se clasifican los puestos de trabajo, aunque la posesión de un grado personal determinado no implica la ocupación de un puesto de trabajo del mismo nivel.
+3. La adquisición, la consolidación y el cambio del grado personal se anotarán en el Registro General de Personal y constarán en el expediente personal.
+4. El personal funcionario tiene derecho a percibir como mínimo el complemento de destino correspondiente a su grado personal.
+5. A los efectos de adquisición y consolidación de grado, no se computan los servicios prestados como personal funcionario interino, personal eventual ni personal laboral.
+6. El personal funcionario que accede por promoción interna a un cuerpo, una escala o una especialidad conserva el grado personal adquirido o consolidado, siempre y cuando esté incluido dentro del intervalo de niveles del cuerpo o de la escala de acceso.
+7. El grado personal reconocido por otra Administración pública tiene efecto en la Administración autonómica una vez anotado en el Registro General de Personal.
+
+### Artículo 64
+
+Artículo 64. Modalidades de adquisición del grado personal.
+Las modalidades de adquisición del grado personal son:
+a) Adquisición inicial por nuevo ingreso.
+b) Consolidación por la ocupación de puestos de trabajo de nivel superior.
+c) Adquisición por la superación de cursos y procedimientos de evaluación del cumplimiento.
+
+### Artículo 65
+
+Artículo 65. Adquisición inicial por nuevo ingreso.
+1.El personal de nuevo ingreso adquiere, juntamente con la condición de personal funcionario y con carácter automático, un grado personal inicial que corresponde al nivel mínimo del intervalo establecido para el cuerpo o la escala de acceso, con independencia del puesto de trabajo que ocupe y de la forma de provisión del mismo.
+2. Se exceptúa de la previsión anterior el personal funcionario que ingresa en un cuerpo, una escala o una especialidad y ya tiene un grado personal consolidado en el cuerpo, la escala o la especialidad de procedencia incluido dentro del intervalo de niveles del cuerpo o la escala de acceso.
+
+### Artículo 66
+
+Artículo 66. Consolidación del grado personal por la ocupación de puestos de trabajo de nivel superior.
+1.El grado personal superior al adquirido se consolida por la ocupación de uno o más puestos del nivel correspondiente durante dos años continuados o tres con interrupción, de acuerdo con las condiciones que se establezcan reglamentariamente.
+2. El personal funcionario que ocupe un puesto de trabajo superior en más de dos niveles a su grado personal consolida, cada dos años, el grado superior en dos niveles, sin que en ningún caso pueda consolidar un grado superior al nivel del puesto.
+3. Si durante el tiempo en que el personal funcionario ocupa un puesto de trabajo se modifica su nivel de clasificación, el tiempo de ocupación se computará como del nivel más alto.
+
+### Artículo 67
+
+Artículo 67. Adquisición del grado personal por la superación de cursos y procedimientos de evaluación del cumplimiento.
+1.El grado personal puede adquirirse, con independencia del nivel del puesto de trabajo que se ocupa, mediante la permanencia en un puesto con carácter definitivo junto con la superación de cursos y la evaluación del cumplimiento, de acuerdo con las condiciones y los requisitos que se establezcan reglamentariamente.
+2. Los cursos específicos que se establezcan tendrán como sistema de acceso el concurso de méritos.
+
+## CAPÍTULO III
+
+Promoción interna
+
+### Artículo 68
+
+Artículo 68.Garantía de la promoción interna.
+1.La Administración establecerá los mecanismos que faciliten el acceso del personal funcionario y del personal laboral fijo a otros cuerpos, escalas, especialidades o categorías profesionales, mediante la promoción interna.
+2. La oferta de empleo público correspondiente al turno de promoción interna incluirá las plazas vacantes correspondientes a los puestos genéricos y a los puestos singularizados que se determinan reglamentariamente.
+3. Esta oferta se aprobará en la primera quincena del mes de enero de cada año, y las convocatorias de su desarrollo deberán publicarse antes del día 31 de enero del mismo año.
+4. A las plazas reservadas a la promoción interna se pueden añadir plazas amparadas en puestos de trabajo que serán objeto de reclasificación, en los términos previstos reglamentariamente.
+Se modifican los apartados 2 a 4 por la disposición final 1.7 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 69
+
+Artículo 69. Modalidades de promoción interna.
+1.Las modalidades de promoción interna se desarrollarán reglamentariamente y deben permitir:
+a) El acceso del personal funcionario a cuerpos del grupo inmediatamente superior, siempre y cuando sean de la misma naturaleza, general o especial.
+b) El acceso del personal funcionario de los cuerpos generales a los cuerpos especiales o al revés, del mismo grupo o del grupo inmediatamente superior.
+c) El acceso del personal funcionario de los cuerpos y las escalas de un grupo a otros cuerpos o escalas del mismo grupo, que tengan la misma naturaleza, general o especial.
+d) El acceso de personal laboral fijo a los cuerpos, las escalas o las especialidades de personal funcionario.
+2. Cada convocatoria especificará, en su caso, la modalidad de promoción interna.
+
+### Artículo 70
+
+Artículo 70. Reglas específicas de la promoción interna.
+1. La promoción interna se llevará a cabo mediante procesos selectivos de acuerdo con lo que prevén este artículo y el título V.
+2. Para poder participar en los procesos selectivos de promoción interna los aspirantes deben tener los requisitos exigidos para acceder al cuerpo, la escala o la especialidad correspondiente y deberán haber prestado servicios efectivos como personal funcionario de carrera o personal laboral fijo en el cuerpo, la escala o la categoría profesional desde los que se promociona durante un periodo mínimo de dos años.
+3. Con carácter general, la promoción interna se efectúa a través del sistema de concurso-oposición.
+4. Las bases generales y específicas de las convocatorias pueden establecer exenciones de pruebas o reducción de temarios cuando corresponden a conocimientos ya acreditados para acceder al cuerpo, la escala o la especialidad de procedencia. En este caso, las convocatorias determinarán el ámbito subjetivo de aplicación, de acuerdo con las previsiones que se establezcan reglamentariamente.
+5. Las convocatorias establecerán que las plazas reservadas a la promoción interna que queden vacantes se incluirán en la oferta de empleo público correspondiente a la tasa de reposición ordinaria.
+Se exceptúan de esta previsión las plazas a que se refiere el artículo 68.3 de esta ley.
+Se modifica por la disposición final 1.8 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+## CAPÍTULO IV
+
+Formación y perfeccionamiento
+
+### Artículo 71
+
+Artículo 71.Formación y perfeccionamiento del personal.
+1.La Administración garantiza la formación y el perfeccionamiento de su personal como instrumento esencial para la mejora de la prestación de los servicios públicos.
+2. Los planes de formación incluirán acciones destinadas a promover la igualdad entre hombres y mujeres, así como cursos específicos destinados a la formación y al perfeccionamiento del personal que ejerce funciones directivas, de acuerdo con las condiciones y los requisitos que se determinen reglamentariamente.
+3. Los cursos de formación y perfeccionamiento pueden establecerse con carácter voluntario u obligatorio. En ambos casos, los efectos de la participación y superación de los cursos se determinarán reglamentariamente.
+4. La relación de puestos de trabajo puede establecer como requisito de ocupación de los puestos la superación de determinados cursos.
+5. El acceso a los cursos de formación se rige por los principios de igualdad, objetividad y mérito.
+Se añade el apartado 6 por el art. 39.3 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y se deroga de apartado 6 por la disposición derogatoria única. b) del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Se suprime el apartado 6 por el art. 4 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se añade el apartado 6 por el art. único.4 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 72
+
+Artículo 72. Competencias de la Escuela Balear de Administración Pública en materia de formación y perfeccionamiento.
+1.La Escuela Balear de Administración Pública tiene atribuidas, con carácter general, las competencias de formación y perfeccionamiento del personal al servicio de la Administración autonómica y, con este objeto, puede suscribir convenios con otras escuelas de Administración pública, con universidades y con otros centros docentes.
+2. Asimismo, la Escuela puede llevar a cabo la formación y el perfeccionamiento del personal al servicio de las otras administraciones públicas o entes dependientes mediante la suscripción del correspondiente convenio.
+
+## TÍTULO VII
+
+Movilidad y ocupación de los puestos de trabajo
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 73
+
+Artículo 73.Garantía de la movilidad.
+1.Se garantiza el derecho a la movilidad del personal funcionario de la Administración autonómica, de acuerdo con los sistemas de ocupación de puestos de trabajo que se regulan en la presente ley.
+2. Se garantiza el derecho del personal funcionario de otras administraciones públicas a ocupar los puestos de trabajo de la Administración de la Comunidad Autónoma de las Illes Balears, de acuerdo con los requisitos y las condiciones que establezcan las relaciones de puestos de trabajo y de conformidad con el principio de reciprocidad y con la legislación básica estatal.
+
+### Artículo 74
+
+Artículo 74. Sistemas de provisión de puestos de trabajo y movilidad.
+1. La movilidad, que puede ser temporal o definitiva, y puede tener carácter voluntario o forzoso, se hace efectiva mediante los sistemas de provisión de puestos previstos en la sección primera del capítulo II del título VII de la Ley 3/2007 y por medio de los otros sistemas de provisión previstos en el apartado 3 de este artículo.
+2. Los sistemas ordinarios de provisión de puestos son el concurso y la libre designación, con convocatoria pública.
+3. Se consideran otros sistemas de provisión o de ocupación:
+a) La comisión de servicios, en las diferentes modalidades:
+– Ordinaria voluntaria.
+– Forzosa.
+– De atribución temporal de funciones.
+– Para misiones de cooperación.
+– En otras administraciones.
+b) El traslado por razón de salud o de rehabilitación.
+c) El traslado a causa de violencia.
+d) La permuta.
+e) La adscripción provisional.
+f) La redistribución de efectivos.
+g) La reasignación de efectivos.
+h) El cambio de adscripción del puesto de trabajo.
+i) El nombramiento provisional por mejora de empleo en un grupo o un subgrupo superior.
+4. La movilidad voluntaria viene regulada en los artículos 82, 82 bis, 83, 84, 85, 86 y 88.3 de esta ley y en las normas concordantes de desarrollo.
+5. La movilidad forzosa fundamentada en las necesidades del servicio o funcionales, adecuadamente motivadas, se hace efectiva mediante los sistemas previstos en los artículos 87, 88 —salvo el supuesto de atribución temporal de funciones adjudicada mediante convocatoria previa—, 89, 90 y 91 de esta ley y en las normas concordantes de desarrollo.
+6. Los sistemas de movilidad forzosa mencionados en el apartado anterior han de respetar en todo caso las retribuciones, condiciones esenciales de trabajo e isla de residencia del personal afectado. En caso de que la movilidad suponga un cambio de municipio del puesto de trabajo, con alejamiento de más de 25 kilómetros del domicilio habitual del personal funcionario, se dará prioridad a la voluntariedad de los traslados. En todo caso, si supone un cambio de municipio de residencia, esta persona tiene derecho a la indemnización fijada reglamentariamente.
+Se modifica el apartado 3 por la disposición final 1.9 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifica por el art. 2.2 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+## CAPÍTULO II
+
+Provisión de puestos de trabajo y movilidad
+Se modifica el enunciado por el art. 2.1 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+## Sección 1
+
+Sección 1.ª Sistemas ordinarios de provisión de puestos de trabajo
+
+### Artículo 75
+
+Artículo 75. Sistemas de provisión.
+1.Los puestos de trabajo adscritos a personal funcionario se proveerán ordinariamente por los sistemas de concurso o por la libre designación, mediante convocatoria pública.
+2. Estos sistemas de provisión pueden convocarse para todos los puestos de trabajo vacantes, para puestos de trabajo de una determinada área funcional o de un sector especializado o para puestos de trabajo de forma individualizada, en atención a las necesidades del servicio.
+
+### Artículo 76
+
+Artículo 76. Reglas generales del concurso.
+1.El concurso es el sistema normal de provisión de puestos de trabajo y consiste en la comprobación y valoración de los méritos y, en su caso, de las capacidades, los conocimientos o las aptitudes que se determinen en la convocatoria, de acuerdo con el baremo establecido en la misma.
+2. El concurso puede ser concurso abierto y permanente de méritos o concurso abierto y permanente específico.
+3. En ambos casos el baremo de la convocatoria recogerá, en los términos que se establezcan reglamentariamente, la valoración de los siguientes méritos generales:
+a) Grado personal consolidado.
+b) Antigüedad.
+c) Trabajo desarrollado.
+d) Nivel de conocimiento de la lengua catalana.
+e) Cursos de formación y perfeccionamiento.
+f) La prestación de servicios mediante una comisión de servicios forzosa, una comisión de servicios en atribución temporal de funciones y la prestación de servicios en la Unidad de Apoyo Coyuntural de la dirección general competente en materia de función pública.
+g) Permanencia en el puesto de trabajo con destino definitivo.
+4. La composición y el funcionamiento de los órganos que deben valorar los méritos y evaluar las capacidades de los aspirantes se establecerán reglamentariamente. Esta regulación ha de respetar los principios de profesionalidad y especialización de los miembros y tender a la paridad de género.
+5. Pueden convocarse concursos con segunda fase de adjudicación o de resultas en los supuestos y las condiciones que reglamentariamente se determinen.
+Se modifican los apartados 3 y 4 por la disposición final 1.10 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se añade la letra f) al apartado 3 por el art. 2.3 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 77
+
+Artículo 77. El concurso abierto y permanente de méritos.
+1. El concurso de méritos es el sistema de provisión de los puestos de trabajo genéricos que tienen establecida esta forma de provisión en la relación de puestos de trabajo, si bien también se puede utilizar para proveer puestos de trabajo singularizados, cuando así se prevea reglamentariamente.
+2. La periodicidad de la convocatoria de este concurso será cuatrimestral, los meses de febrero, junio y octubre.
+Se modifica por la disposición final 1.11 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 78
+
+Artículo 78. El concurso abierto y permanente específico.
+1. El concurso abierto y permanente específico es el sistema de provisión de los puestos de trabajo singularizados que tienen establecida esta forma de provisión en la relación de puestos de trabajo.
+2. El concurso abierto y permanente específico consiste en la comprobación y la valoración de los méritos y las capacidades, los conocimientos o las aptitudes determinados en cada convocatoria, relacionados con el puesto de trabajo convocado.
+3. Además de los méritos generales, la convocatoria debe recoger la valoración de méritos específicos relacionados con el puesto de trabajo convocado. La valoración global de los méritos supondrá como mínimo el 55 % de la puntuación máxima alcanzable.
+4. Para la valoración de las capacidades, los conocimientos o las aptitudes, la convocatoria puede incluir la realización de pruebas de carácter práctico, memorias, entrevistas y tests profesionales, la valoración de informes de evaluación u otros sistemas similares.
+Se modifica el título y los apartados 1 y 2 por la disposición final 1.12 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 79
+
+Artículo 79. La libre designación.
+1.La libre designación es el sistema de provisión de los puestos que tienen establecido expresamente dicho sistema en la relación de puestos de trabajo por el hecho de que implican una elevada responsabilidad o que requieren una confianza personal para ejercer sus funciones. En consecuencia, se proveerán por libre designación los siguientes puestos:
+a) Los de carácter directivo.
+b) Los de secretario o secretaria personal o chófer de alto cargo.
+c) Los adscritos al Gabinete de la Presidencia de las Illes Balears o al de los consejeros o las consejeras.
+d) Aquellos otros en que así lo establezca la relación de puestos de trabajo, atendiendo a la naturaleza de sus funciones.
+2. Corresponde al consejero o la consejera o al órgano equivalente al cual está adscrito el puesto de trabajo de libre designación proponer su adjudicación.
+3. La convocatoria de provisión de los puestos por libre designación puede llevarse a cabo en cualquier momento, de manera individualizada, y la periodicidad será, como mínimo, anual.
+Se añade el apartado 3 por la disposición final 1.14 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 80
+
+Artículo 80. Convocatorias de provisión.
+1. Las convocatorias, tanto de concurso abierto y permanente de méritos o específico como de libre designación, incluirán como mínimo:
+a) La denominación, el nivel y la isla de destino del puesto de trabajo.
+b) Los requisitos exigidos para su ocupación, incluido el nivel de conocimientos de la lengua catalana, en su caso.
+c) El baremo de puntuación de los méritos en el caso del concurso y el baremo de puntuación de las capacidades, los conocimientos o las aptitudes cuando el concurso sea específico.
+d) La puntuación mínima para la adjudicación de las vacantes convocadas en el caso del concurso.
+2. Las convocatorias se publicarán en el Boletín Oficial de las Illes Balears y el plazo de presentación de solicitudes será, como mínimo, de siete días.
+Se modifica la letra b) del apartado 1 por la disposición final 17.3 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica la letra b) del apartado 1 por el art. 39.4 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.3 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Téngase en cuenta que se declara inconstitucional y nulo el art. 7.3 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, que dió redacción a la letra b) del apartado 1 de este artículo, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
+ Se modifican los apartados 1 y 2 por la disposición final 1.13 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifica el apartado 1.b) por el art. 5 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se modifica el apartado 1.b) por el art. único.5 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 81
+
+Artículo 81. Efectos de la adjudicación mediante los sistemas de provisión.
+1.La adjudicación de un puesto de trabajo mediante un sistema de provisión ordinario tiene carácter definitivo y, por lo tanto, implica la titularidad del puesto.
+2. La adjudicación de un puesto de trabajo adscrito a más de un cuerpo, escala o especialidad y/o a más de un grupo de clasificación no implica la integración en el cuerpo, la escala o la especialidad ni en el grupo de clasificación superior o diferente al de ingreso, aunque la persona adjudicataria tenga la titulación requerida, ni tampoco la aplicación de las retribuciones ligadas al grupo de clasificación superior.
+3. El personal funcionario que haya obtenido un puesto de trabajo mediante un sistema de provisión ordinaria debe permanecer en él un mínimo de dos años. A tal efecto, al personal que acceda a otro cuerpo o a otra escala por promoción interna o por integración y permanezca en el puesto de trabajo que ocupaba, se le computará el tiempo de servicios prestados en dicho puesto en el cuerpo o la escala de procedencia.
+4. La obligación de permanecer en el puesto, como titular, un mínimo de dos años antes de participar en un procedimiento de provisión ordinaria, previsto en el anterior apartado, no es de aplicación en los supuestos de remoción o supresión del puesto de trabajo, de movilidad forzosa a que se refiere el apartado 5 del artículo 74 o de participación en convocatorias de provisión ordinaria de puestos de trabajo de la misma consejería.
+Se modifica el apartado 4 por el art. 2.4 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+## Sección 2
+
+Sección 2.ª Otros sistemas de provisión y de ocupación de puestos de trabajo
+
+### Artículo 82
+
+Artículo 82. Comisión de servicios ordinaria voluntaria.
+1. Cuando un puesto de trabajo quede vacante de forma temporal o definitiva, puede ocuparse en comisión de servicios ordinaria de carácter voluntario con personal funcionario de carrera del mismo cuerpo, escala o especialidad que cumpla los requisitos establecidos en la relación de puestos de trabajo para su ocupación.
+2. En caso de que la provisión del puesto sea inaplazable y no exista personal funcionario de carrera del mismo cuerpo, escala o especialidad, puede ocuparse con personal funcionario de carrera perteneciente al mismo subgrupo o a la misma agrupación profesional siempre que posea la titulación requerida.
+3. El puesto de trabajo ocupado en comisión de servicios tiene que ser incluido en la siguiente convocatoria de provisión por el sistema que corresponda, a no ser que tenga titular.
+4. El personal funcionario en comisión de servicios tiene derecho a la reserva del puesto de trabajo de procedencia y percibe las retribuciones correspondientes al puesto que efectivamente ocupa.
+5. No puede autorizarse la prórroga de las comisiones de servicios ordinarias y voluntarias en puestos vacantes, más allá de dos años.
+Excepcionalmente, por acuerdo del Consejo de Gobierno, se puede autorizar la prórroga de una comisión de servicios más allá de los dos años para ocupar puestos de trabajo de nivel 29 o superior, o para ocupar puestos de secretario o secretaria personal y de chófer. En el resto de casos, únicamente se pueden prorrogar las comisiones de servicio más allá de los dos años para ocupar puestos que tengan titular y estén reservados por imperativo legal.
+Se modifica el párrafo segundo del apartado 5 por el art. 39.5 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11
+ Se modifica el párrafo segundo del apartado 5 por el art. 39.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-11
+ Se añade el apartado 5 por la disposición final 1.15 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifica el apartado 2 por la disposición adicional 1 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se modifica el apartado 2 por la disposición adicional 1 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 82 bis 
+
+Artículo 82 bis. Nombramiento provisional por mejora de empleo.
+1. En casos de necesidad urgente e inaplazable cuando concurran causas razonadas de interés público, el personal funcionario de carrera puede ocupar un puesto de trabajo no ocupado adscrito a un cuerpo, escala o especialidad diferente de aquel al cual pertenezca, mediante un nombramiento provisional por mejora de empleo, siempre que cumpla los siguientes requisitos:
+a) Tener la titulación exigida para acceder al cuerpo, la escala o la especialidad a que está adscrito el puesto.
+b) Cumplir los requisitos establecidos en la relación de puestos de trabajo.
+c) Ser funcionario de carrera del grupo o subgrupo inmediatamente inferior del puesto al cual debe efectuarse el nombramiento.
+2. Los nombramientos por mejora de empleo se efectuarán preferentemente en puestos de trabajo genéricos, con el fin de garantizar la adecuada prestación del servicio público, y siempre que se den los supuestos previstos en el artículo 15.2 de esta ley. En el supuesto de no ser posible su cobertura con este tipo de nombramiento, esta plaza se ofrecerá al personal funcionario interino de la bolsa de trabajo del cuerpo, la escala o la especialidad del puesto.
+3. Se podrán efectuar nombramientos por mejora de empleo en puestos de trabajo singularizados, cuando resulten desiertos por tercera vez en un proceso de provisión por el sistema de concurso abierto y permanente específico o los puestos declarados desiertos en dos convocatorias por el sistema de comisión de servicios.
+4. Se podrán efectuar nombramientos por mejora de empleo en puestos de trabajo genéricos con reserva del titular, hasta la reincorporación del titular. En el supuesto de que el funcionario de carrera titular del puesto de trabajo pierda la titularidad del puesto, la persona ocupante con nombramiento por mejora de empleo continuará en esta situación, hasta que el puesto se adjudique por alguno de los sistemas de provisión o de acceso como funcionario de carrera. En el supuesto de no ser posible su cobertura con este tipo de nombramiento, esta plaza se ofrecerá por bolsa de trabajo.
+5. Se podrán efectuar nombramientos por mejora de empleo en puestos de trabajo singularizados con reserva del titular hasta la reincorporación del titular, si queda desierta en dos convocatorias para su cobertura mediante comisión de servicios. En el supuesto de que el funcionario de carrera titular del puesto de trabajo pierda la titularidad del puesto, la persona ocupante con nombramiento por mejora de empleo continuará en esta situación, hasta que el puesto se adjudique por el sistema de provisión de concurso abierto y permanente específico. En el supuesto de no ser posible su cobertura con este tipo de nombramiento, esta plaza se ofrecerá por bolsa de trabajo.
+6. Los puestos de trabajo genéricos vacantes ocupados mediante nombramiento provisional por mejora de empleo se convocarán por el turno de promoción interna en la oferta de empleo público posterior a este nombramiento, o por el sistema de turno libre en el supuesto de ocupación por personal funcionario interino.
+7. Durante el tiempo en que se ocupe un puesto de trabajo mediante un nombramiento por mejora de empleo, el personal funcionario afectado tiene derecho a la reserva del puesto de trabajo del cual es titular y se mantiene en servicio activo en su cuerpo de origen y debe percibir las retribuciones correspondientes al puesto de trabajo efectivamente desempeñado, con excepción de los trienios y la carrera profesional, que percibirá de acuerdo con las cuantías que correspondan al cuerpo, la escala o la especialidad de origen.
+8. El desempeño de un puesto de trabajo por mejora de empleo no supone la consolidación de ningún derecho de carácter retributivo, sin perjuicio de que se pueda considerar como mérito en los sistemas de promoción interna o de provisión de puestos de trabajo.
+9. La selección del personal funcionario de carrera que puede ser objeto de un nombramiento provisional por mejora de empleo se llevará a cabo mediante un sistema de bolsas de personas aspirantes provenientes de haber superado alguna prueba o ejercicio en un proceso selectivo de promoción interna.
+Transitoriamente, y hasta la confección de las bolsas enumeradas en el punto anterior, el procedimiento para nombrar personal funcionario por mejora de empleo se llevará a cabo por sistema de bolsas confeccionadas mediante la tramitación pública de un concurso de méritos en que se valorarán, como mínimo, la experiencia previa y el nivel de conocimientos de catalán.
+10. El cese del personal en mejora de empleo se produce en los supuestos establecidos en el artículo 16 de esta ley.
+Se modifica por la disposición final 1.16 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifica por la disposición adicional 2 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se añade por el art. 2.6 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 83
+
+Artículo 83. Comisiones de servicios por cooperación internacional.
+1.Las comisiones de servicios para participar en programas o misiones de cooperación internacional al servicio de organizaciones internacionales, entidades o gobiernos extranjeros pueden acordarse siempre y cuando conste el interés de la Administración de la Comunidad Autónoma y sean por un periodo inferior a seis meses.
+2. La resolución que acuerde la comisión de servicios determinará si se percibe la retribución correspondiente al puesto de procedencia o al puesto a ocupar.
+
+### Artículo 84
+
+Artículo 84. Traslado por motivos de salud.
+1.El personal funcionario tiene derecho a solicitar el cambio de puesto de trabajo por motivos de salud o de rehabilitación propios, de su cónyuge o de hijos e hijas a su cargo.
+2. El traslado está condicionado a la existencia de puestos dotados y vacantes del cuerpo, la escala o la especialidad que tengan un nivel y un complemento específico igual o inferior a los del puesto de procedencia y al cumplimiento de todos los requisitos de ocupación.
+3. Esta adjudicación, que requiere el informe previo del correspondiente servicio médico, tiene carácter definitivo cuando la persona trasladada es titular del puesto de procedencia.
+
+### Artículo 85
+
+Artículo 85. Traslado por causa de violencia.
+1.Las funcionarias víctimas de violencia de género, para hacer efectiva su protección o el derecho a la asistencia social integral, tienen derecho preferente al traslado a una localidad o isla distinta. A tal efecto, se les ofrecerán los puestos de trabajo vacantes ubicados en las localidades o islas que soliciten expresamente.
+Dicho traslado tendrá carácter provisional o definitivo según cuál sea el sistema de provisión o de ocupación mediante el que se haga efectivo y según las circunstancias que concurran en cada caso.
+2. El mismo derecho tiene el personal funcionario declarado judicialmente víctima de cualquier tipo de violencia, cuando lo necesite para hacer efectiva su protección.
+
+### Artículo 86
+
+Artículo 86. Las permutas.
+1.El consejero o la consejera competente en materia de función pública, excepcionalmente, puede resolver la permuta de destino entre el personal funcionario en activo, a solicitud de éste, siempre que concurran los siguientes requisitos:
+a) Que las personas interesadas sean titulares de los puestos de trabajo objeto de la permuta.
+b) Que la antigüedad de las personas interesadas no difiera en más de cinco años.
+c) Que los puestos de trabajo sean genéricos, de retribuciones parecidas y les corresponda la misma forma de provisión.
+2. La resolución de permuta requiere el informe previo de las consejerías o de los entes afectados.
+3. No podrá autorizarse la permuta cuando a alguna de las personas interesadas se le haya concedido una en los últimos cinco años o bien le falten menos de diez años para cumplir la edad de jubilación forzosa.
+4. La permuta tiene carácter definitivo, excepto en el caso de que en el plazo de los dos años alguno de los permutantes solicite la jubilación voluntaria. En este caso los permutantes regresarán al destino de origen.
+5. El personal funcionario que obtenga destino mediante una permuta tiene que permanecer un mínimo de dos años en el puesto de trabajo permutado.
+
+## CAPÍTULO III
+
+Movilidad forzosa
+
+### Artículo 87
+
+Artículo 87.Comisión de servicios forzosa.
+1. El consejero o consejera competente en materia de función pública, a propuesta del o de la titular de la consejería o ente donde se encuentra el puesto vacante, puede declarar con carácter forzoso la comisión de servicios, cuando es urgente la provisión de un puesto de trabajo que ha quedado vacante tras una convocatoria de provisión ordinaria o de comisión de servicios ordinaria voluntaria, no existe ningún funcionario de carrera en la lista que cumpla los requisitos para ser nombrado provisionalmente en un grupo o subgrupo superior y no es posible recurrir al nombramiento de personal funcionario interino o no hay ninguno en condiciones de ocuparlo.
+2. La comisión de servicios forzosa se resolverá, con audiencia a la persona afectada, teniendo en cuenta las necesidades funcionales de los puestos a cubrir y siempre que cumpla los requisitos de la relación de puestos de trabajo. Se preferirá, en primer lugar, al personal de la misma consejería o de alguno de los entes de derecho público adscritos a ella, que preste servicios en la misma localidad y que tenga menos cargas familiares, o si no hay ninguna persona adecuada, se optará por el personal que preste servicios en la localidad más próxima o que disponga de más facilidades de desplazamiento y que asimismo tenga menos cargas familiares. En caso de empate, se optará por el que tenga menos antigüedad.
+3. En el caso de que existan diferentes puestos a cubrir, una vez valoradas las cargas de trabajo y la disponibilidad de personal de las diferentes unidades afectadas, para elegir al personal que irá destinado a ellas se hará una distribución equitativa entre las diferentes consejerías y entes.
+4. En todo caso, se deberán respetar el grupo de pertenencia del funcionario o funcionaria y la titulación requerida para el ejercicio de tales funciones.
+5. Si el puesto a ocupar tiene asignadas unas retribuciones inferiores a las del puesto propio, la persona interesada deberá percibir, como mínimo, mientras permanezca en esta situación, un complemento transitorio por la diferencia.
+6. El tiempo durante el cual el personal funcionario a quien se adjudique una comisión de servicios forzosa permanezca en ella, se valorará, en las convocatorias de provisión temporal o definitiva de puestos de trabajo, como mérito general de consideración necesaria en la forma en la que se establezca reglamentariamente.
+Se modifica por el art. 2.7 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 88
+
+Artículo 88. Comisión de servicios de atribución temporal de funciones.
+1. Por necesidades del servicio y por el tiempo indispensable, la persona titular de la consejería con competencias en materia de función pública, de oficio o a petición de otro consejero o consejera o un órgano equivalente, vistas las razones o justificaciones que la motivan, puede resolver la atribución temporal de funciones de manera parcial o total al personal funcionario de carrera, propias de su cuerpo, escala o especialidad, sea en la misma consejería o ente del sector público donde esté adscrito el personal funcionario afectado o en otra consejería o ente:
+a) Cuando no estén asignadas específicamente a puestos de trabajo.
+b) Cuando no puedan ser atendidas con suficiencia por personal funcionario que ocupa los puestos de trabajo que las tienen asignadas, por volumen de trabajo o por otras razones coyunturales debidamente motivadas.
+2. Igualmente, cuando sea necesario para ejercer las funciones propias de los miembros de los órganos de selección o de valoración, se puede atribuir a personal funcionario de carrera el cumplimiento temporal de estas funciones, de forma parcial o total, durante el tiempo imprescindible, con los efectos del siguiente artículo, independientemente del derecho a las indemnizaciones por razón de servicio a las que tengan derecho, en su caso.
+3. En una fase previa, el o la titular de la consejería competente en materia de función pública realizará una convocatoria con tramitación urgente, bien inicialmente restringida al personal funcionario de carrera de la misma consejería y a los entes del sector público instrumental adscritos a ella, o bien para todo el personal funcionario de carrera, en la cual tiene que constar la unidad administrativa donde se tendrán que prestar los servicios y un extracto de las funciones que se tendrán que cumplir, los requerimientos más adecuados para desarrollarlas y los requisitos exigidos, para determinar si hay personal funcionario de carrera que reúna los requerimientos de las funciones que se tienen que desarrollar y sea del cuerpo, escala o especialidad correspondiente y que voluntariamente quiera ser adjudicatario de la atribución temporal de funciones. Esta convocatoria se tiene que publicar en el tablón de anuncios de la consejería convocante, en los de los entes instrumentales del sector público que estén adscritos a ella y en la Intranet.
+4. En caso de que haya diversas personas aspirantes, el o la titular de la consejería competente en materia de función pública, de forma motivada, previa valoración de las cargas de trabajo y de la disponibilidad de personal de las diferentes unidades a que están adscritos los puestos de las personas aspirantes, dictará la correspondiente resolución, con preferencia, en igualdad de condiciones, para el personal que sea de la misma consejería o de alguno de los entes de derecho público que estén adscritos a ella, y lo notificará a las personas interesadas.
+5. Si no hay ningún aspirante funcionario de carrera voluntario que cumpla los requerimientos de la convocatoria previa, se adjudicará la atribución temporal de funciones, en los supuestos de las letras a y b del apartado 1, en primer lugar, a personal funcionario interino que reúna los requerimientos para desarrollar las funciones de acuerdo con los criterios objetivos que se establezcan y, sólo cuando no haya ninguno que cumpla los requerimientos, o en el supuesto del apartado 2, se atribuirá a personal funcionario de carrera. En cualquiera de estos dos casos de atribución forzosa, se resolverá teniendo en cuenta lo que establece el apartado 2 del artículo 87 y antes de emitir la resolución se dará audiencia a la persona afectada para que pueda presentar las alegaciones que estime oportunas dentro del plazo de cinco días hábiles.
+6. Antes de resolver la atribución temporal de funciones, tanto en la fase voluntaria como en la forzosa, las personas titulares de las secretarías generales afectadas pueden enviar, en un plazo máximo de dos días hábiles, un informe sobre las cargas de trabajo y la disponibilidad de personal.
+7. En casos excepcionales y por razones de urgencia, la persona titular de la consejería competente en materia de función pública, de manera motivada y como consecuencia de necesidades específicas de sectores prioritarios de la actividad pública, puede atribuir directamente al personal funcionario de carrera tareas o funciones diferentes de las de su puesto de trabajo siempre que sean propias de su cuerpo, escala o especialidad. Esta atribución de funciones se puede cumplir en la misma consejería o en ente del sector público donde esté adscrito el personal funcionario afectado o en otra consejería o ente.
+En el supuesto de constitución de una bolsa específica de personal funcionario voluntario, estas atribuciones temporales de funciones se tendrán que hacer, como primera opción, entre el personal de esta bolsa.
+Se deberá dar cuenta de estas atribuciones temporales de funciones a la Junta de Personal Funcionario.
+Se modifican los apartados 1 y 7 por la disposición final 1.17 y 18 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se modifican los apartados 1 y 7 por la disposición final 10.1 y 2 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-10
+ Se modifica el apartado 1 y se añade el apartado 7 por la disposición final 10.1 y 2 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-10
+ Se modifica por el art. 2.8 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 88 bis
+
+Artículo 88 bis. Efectos de las comisiones de servicios de atribución temporal de funciones.
+1. Las comisiones de servicios de atribución temporal de funciones tendrán una duración máxima de tres meses, ampliable hasta seis meses más. Una vez firmada la resolución correspondiente, tendrán carácter obligatorio para la persona afectada, la cual no podrá, durante este tiempo, renunciar ni aceptar ninguna comisión de servicios de carácter voluntario ni ningún nombramiento provisional en un grupo o un subgrupo superior. Excepcionalmente, cuando las necesidades del servicio lo requieran y con una propuesta motivada de la secretaría general donde está prestando los servicios, la persona titular de la consejería competente en materia de función pública podrá prorrogar este plazo hasta un máximo total de dos años.
+2. El tiempo que el personal funcionario a quien se adjudique una comisión de servicios de atribución temporal de funciones permanezca en ella, se valorará, en las convocatorias de provisión temporal o definitiva de puestos de trabajo, como mérito general de consideración necesaria en la forma en que se establezca reglamentariamente.
+3. (Derogado).
+4. La comisión de servicios de atribución temporal de funciones no altera la ocupación del puesto de trabajo de procedencia, y el personal funcionario continuará percibiendo la totalidad de sus retribuciones con cargo a los créditos correspondientes a su puesto de trabajo de origen, sin perjuicio de las compensaciones que correspondan, las cuales, cuando tengan carácter económico, podrán ser resarcidas por la consejería de origen de la sección presupuestaria donde esté prestando efectivamente servicios, mediante la correspondiente modificación de crédito.
+5. Igualmente, a los efectos de las convocatorias de provisión temporal o definitiva, se considerarán las funciones realmente desarrolladas durante el tiempo de duración de la comisión de servicios de atribución temporal de funciones, y no las del puesto de origen que se ocupa. En caso de atribución parcial de funciones, se considerarán éstas, además de las desarrolladas en su puesto de trabajo.
+6. En ningún caso, se puede encomendar a la persona con atribución temporal de funciones la realización de otras funciones diferentes a las que motivaron la resolución.
+Se deroga el apartado 3 por la disposición derogatoria.a) del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#dd
+ Se modifica el apartado 1 por la disposición final 10.3 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-10
+ Se modifica el apartado 1 por la disposición final 10.3 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-10
+ Se añade por el art. 2.9 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 88 ter
+
+Artículo 88 ter. Causas de finalización de la comisión de servicios ordinaria voluntaria, forzosa y de atribución temporal de funciones.
+1. La comisión de servicios ordinaria voluntaria y la forzosa tienen carácter temporal y finalizan por el transcurso del tiempo para el que se concedieron, que no puede ser superior a dos años. Excepcionalmente, cuando las necesidades del servicio lo requieran, y sólo con respecto a la comisión de servicios ordinaria voluntaria, el Consejo de Gobierno puede prorrogar este plazo.
+2. No obstante, antes de transcurrir el tiempo de concesión, también puede finalizar la comisión de servicios ordinaria voluntaria y la forzosa por las siguientes causas:
+a) Cuando el puesto de trabajo se provee con carácter definitivo.
+b) Cuando el puesto se cubre por adscripción provisional de personal funcionario de carrera.
+c) Por renuncia voluntaria del titular de la comisión aceptada por la Administración, en cuanto a las de carácter voluntario.
+d) Excepcionalmente, si se acredita que el titular de la comisión manifiesta cumplimiento inadecuado, rendimiento insuficiente o falta de adecuación al puesto de trabajo que impide llevar a cabo con eficacia las funciones atribuidas al puesto. En este caso, se llevará a cabo un procedimiento contradictorio y se ha de oír a la correspondiente junta de personal.
+e) Por amortización del puesto de trabajo.
+f) Porque la persona comisionada obtiene un puesto de trabajo con carácter definitivo.
+g) Por la reincorporación del funcionario o funcionaria titular con reserva de puesto de trabajo.
+h) En cuanto a las comisiones de servicios otorgadas de manera discrecional, previa propuesta de cese de la secretaría general o del órgano competente del ente instrumental correspondiente.
+i) En cuanto a las de carácter forzoso, porque desaparece la causa que motivó la urgencia en la provisión, de forma motivada.
+j) Por pasar a otra situación administrativa diferente a la de servicio activo que implique reserva del puesto de trabajo.
+3. La comisión de servicios de atribución temporal de funciones puede ser revocada de manera discrecional por la persona titular de la consejería competente en materia de función pública, previa propuesta, en su caso, de cese de la secretaría general o del órgano competente del ente instrumental correspondiente donde presta servicios la persona afectada.
+4. También finalizará por el transcurso del tiempo para el que se concedió, conforme a lo dispuesto en el apartado 1 del artículo 88 bis. En cualquier caso, la atribución temporal finaliza, aunque no haya transcurrido el plazo para el que se concedió, por las siguientes causas:
+a) Por renuncia voluntaria del titular de la atribución temporal de funciones aceptada por la Administración, en cuanto a las de carácter voluntario, sólo cuando hayan transcurrido los seis primeros meses de duración
+b) Porque la persona que está en atribución temporal de funciones obtiene un puesto de trabajo con carácter definitivo.
+c) Porque desaparece la causa que motivó la urgencia en la provisión, de forma motivada.
+d) Por pasar a otra situación administrativa diferente a la de servicio activo que implique reserva del puesto de trabajo.
+Se añade por el art. 2.10 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 89
+
+Artículo 89. Redistribución de efectivos.
+1.El personal funcionario que ocupe con carácter definitivo puestos de trabajo genéricos puede ser trasladado, por necesidades del servicio, a otros puestos de la misma naturaleza, nivel de complemento de destino y complemento específico, siempre y cuando para la provisión de los mencionados puestos esté previsto el mismo procedimiento y sin que ello suponga cambio de municipio que implique un desplazamiento de más de 25 kilómetros.
+2. Este traslado tiene carácter definitivo.
+
+### Artículo 90
+
+Artículo 90. Reasignación de efectivos.
+1.El personal funcionario cuyo puesto de trabajo se suprima como consecuencia de un plan de ordenación de recursos humanos de los previstos en la presente ley, puede ser destinado a otro puesto de trabajo por el procedimiento de reasignación de efectivos, con la aplicación de criterios objetivos que se concreten en el mismo plan y con carácter definitivo.
+2. Los procedimientos de reasignación se establecerán reglamentariamente y su duración no puede ser superior a seis meses.
+
+### Artículo 91
+
+Artículo 91. Cambio de adscripción del puesto de trabajo.
+1. El Consejo de Gobierno, a propuesta de la persona titular de la consejería competente en materia de función pública, por reestructuración de la Administración o por necesidades del servicio o funcionales, y a efectos de asignar de manera eficiente los recursos humanos, podrá acordar la adscripción de puestos de trabajo y del personal que provisional o definitivamente los ocupa a unidades, consejerías o entes del sector público instrumental con personificación pública, distintos de aquéllos a los que estaba adscrito.
+2. Los cambios de adscripción deberán respetar en todo caso las retribuciones, las condiciones esenciales de trabajo y la isla de residencia del personal afectado. En su caso, se modificará la adscripción del puesto provisto provisional o definitivamente por la persona funcionaria afectada.
+3. Cuando el cambio de adscripción implique un cambio del municipio de residencia de la persona funcionaria afectada, ésta tendrá derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos. En estos casos se dará prioridad a la voluntariedad de los traslados.
+Se modifica por la disposición final 1.2 del Decreto-ley 10/2012, de 31 de agosto. Ref. BOIB-i-2012-90041
+
+## CAPÍTULO IV
+
+Remoción del personal funcionario
+
+### Artículo 92
+
+Artículo 92.Causas de remoción.
+1.El personal funcionario que ha accedido a un puesto de trabajo por el procedimiento de concurso puede ser removido del mismo, mediante un procedimiento contradictorio y oída la correspondiente junta de personal, cuando se produzca alguna de las siguientes causas:
+a) Cumplimiento inadecuado o rendimiento insuficiente acreditados mediante los correspondientes procedimientos de evaluación.
+b) Falta de capacidad sobrevenida o falta de adecuación al puesto de trabajo que impida llevar a cabo con eficacia las funciones atribuidas al puesto.
+2. El personal funcionario que ha accedido al puesto de trabajo por el procedimiento de libre designación puede ser removido del mismo con carácter discrecional, a propuesta del órgano titular de la consejería o el órgano equivalente al cual está adscrito el puesto de trabajo de libre designación.
+
+### Artículo 93
+
+Artículo 93. Efectos de la remoción.
+1.El personal funcionario removido de un puesto de trabajo será adscrito con carácter provisional y con efectos del día siguiente del cese a un puesto de trabajo del mismo municipio o, en su defecto, de otro colindante, correspondiente a su cuerpo, escala o especialidad, no inferior en más de dos niveles al de su grado personal, o de tres si no existe ningún puesto dotado y vacante de estas características.
+2. El personal que se encuentre en esta situación está obligado a participar en las convocatorias públicas de provisión de puestos de trabajo del mismo municipio u otro colindante, correspondiente a su cuerpo, escala o especialidad, no inferiores en más de dos niveles al de su grado personal. Esta última limitación no se aplica al personal removido de un puesto de trabajo por la causa regulada en la letra a) del punto 1 del artículo anterior, que queda obligado a participar en las convocatorias de provisión y a solicitar los puestos de trabajo, con independencia del nivel de los mismos.
+3. Mientras no se haga efectiva la adjudicación provisional, el personal queda a disposición del consejero o la consejera competente en materia de función pública, que podrá atribuirle temporalmente funciones correspondientes a su cuerpo, escala o especialidad. Durante este tiempo percibirá las retribuciones con cargo al puesto de trabajo de procedencia.
+4. La obligación de adjudicación provisional no es de aplicación al personal funcionario removido de un puesto de trabajo de la Administración autonómica, procedente de otras administraciones y no integrado dentro de cuerpos, escalas o especialidades de esta Administración, ni al personal estatutario al servicio de la Administración sanitaria autonómica.
+5. El personal docente removido de un puesto de trabajo de la Administración autonómica sólo puede ser adscrito provisionalmente a puestos de su cuerpo, escala y especialidad de centros docentes ubicados en el término municipal donde tuvo su último destino o en otro colindante o, en su defecto, al más próximo.
+
+## CAPÍTULO V
+
+Movilidad interadministrativa
+
+### Artículo 94
+
+Artículo 94.La movilidad por traspaso de servicios.
+1.El personal funcionario de otras administraciones que accede a la Administración autonómica mediante un proceso de transferencias de medios personales y materiales, una vez concluido el correspondiente procedimiento de homologación, se integra en los cuerpos, las escalas o las especialidades propios de esta Administración y adquiere la condición de personal funcionario de la Administración autonómica.
+2. El personal funcionario de la Administración autonómica que acceda a otras administraciones mediante un proceso de transferencias de medios personales y materiales, una vez concluido el correspondiente procedimiento de homologación, se integra en los cuerpos, las escalas o las especialidades propios de aquéllas, y adquiere la condición de personal funcionario de la Administración de que se trate.
+
+### Artículo 95
+
+Artículo 95. La movilidad por participación en sistemas de provisión.
+1. (Suprimido).
+2. En el supuesto de personal funcionario de carrera que accede a puestos de trabajo de la Administración autonómica mediante sistemas de provisión por libre designación y cese del puesto de trabajo obtenido por este sistema, la Administración autonómica, en el plazo máximo de un mes contado desde el día siguiente al de su cese, puede acordar la adscripción del personal funcionario a otro puesto o comunicarle que no hará efectiva esta adscripción. En todo caso, durante este periodo se entiende que continúa a todos los efectos en servicio activo.
+Transcurrido el plazo mencionado sin que se haya acordado la adscripción a otro puesto de trabajo o reciba la comunicación de que no se hará efectiva esta, el personal funcionario tiene que solicitar, en el plazo máximo de un mes, el reingreso al servicio activo en su administración de origen de acuerdo con lo que establece el Estatuto Básico del Empleado Público.
+Se suprime el apartado 1 por la disposición final 4.2 de la Ley 6/2023, de 16 de marzo. Ref. BOE-A-2023-13763#df-4
+ Se modifica por la disposición final 1.19 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Artículo 96
+
+Artículo 96. Condiciones y efectos de la movilidad interadministrativa.
+1.El personal funcionario de otras administraciones únicamente puede participar en los procedimientos de provisión de los puestos de trabajo de la Administración autonómica que tengan establecida dicha posibilidad en la relación de puestos de trabajo.
+2. El personal funcionario procedente de otras administraciones públicas que obtenga destino en un puesto de trabajo de la Administración autonómica se rige por la legislación en materia de función pública de esta Comunidad Autónoma.
+3. El personal funcionario a que se refiere el apartado anterior que no pueda acreditar el nivel mínimo exigido de conocimiento de la lengua catalana quedará obligado a conseguirlo y acreditarlo en los términos que se establezcan reglamentariamente.
+Se modifica el apartado 3 por la disposición final 17.4 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica el apartado 3 por el art. 39.6 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.4 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Se añade el apartado 3 por el art. 6 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se suprime el apartado 3 por el art. único.6 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 96 bis
+
+Artículo 96 bis. Medidas de movilidad interadministrativa.
+1. Mediante convenios, las administraciones públicas incluidas en el ámbito territorial de la comunidad autónoma de las Illes Balears podrán desarrollar actuaciones de movilidad interadministrativa de carácter voluntario para optimizar sus recursos y su gestión, de manera que se garantice la eficacia del servicio que se tiene que prestar a los ciudadanos, en supuestos de existencia de excedentes de personal derivados de la reducción de los créditos asignados a determinados programas, de la modificación de competencias o de cualquier otra medida de racionalización de plantillas que justifique la movilidad de las personas y de los puestos.
+2. Esta movilidad interadministrativa se podrá realizar mediante actuaciones de reasignación de efectivos entre administraciones, de redistribución de personal entre administraciones, o, con carácter temporal, por comisión de servicios o atribución temporal de funciones, del modo que se determine reglamentariamente. En todo caso, se respetarán las retribuciones, las condiciones esenciales de trabajo y la isla de residencia del personal afectado, y, si implican cambio del municipio de residencia, el personal funcionario tendrá derecho a las indemnizaciones establecidas reglamentariamente para los traslados forzosos.
+3. Estas actuaciones se podrán llevar a cabo de manera excepcional por motivos de carácter económico, o en el marco de los planes de ordenación de cada administración debidamente coordinados por parte de las administraciones respectivas, las cuales deberán subscribir en todo caso el correspondiente convenio
+Se añade por la disposición final 1.3 del Decreto-ley 10/2012, de 31 de agosto. Ref. BOIB-i-2012-90041
+
+## TÍTULO VIII
+
+Situaciones administrativas
+
+### Artículo 97
+
+Artículo 97. Clasificación.
+El personal funcionario de carrera, durante su relación de servicio, puede encontrarse en cualquiera de las siguientes situaciones:
+a) Servicio activo.
+b) Servicios especiales.
+c) Servicios en otras administraciones públicas.
+d) Excedencia voluntaria.
+e) Expectativa de destino.
+f) Excedencia forzosa.
+g) Suspensión de funciones.
+h) Jubilación parcial, en los términos que establezca la legislación básica estatal.
+
+### Artículo 98
+
+Artículo 98. Situación de servicio activo.
+1.El personal funcionario se encuentra en situación de servicio activo cuando ocupa un puesto de trabajo dotado presupuestariamente con carácter permanente o provisional.
+2. También está en servicio activo el personal funcionario removido de un puesto de trabajo que todavía no ha obtenido destino en otro.
+3. Los permisos y las licencias que suponen reserva del puesto de trabajo no alteran la situación de servicio activo.
+
+### Artículo 99
+
+Artículo 99. Servicios especiales.
+1.El personal funcionario de la Comunidad Autónoma será declarado en la situación de servicios especiales en los siguientes supuestos:
+a) Cuando sean nombrados miembros del Gobierno de la Comunidad Autónoma, del Consejo Ejecutivo de los consejos insulares, del Gobierno del Estado, de las instituciones de la Unión Europea, de los órganos de gobierno de otras comunidades autónomas o de organizaciones internacionales, o cuando sean nombrados altos cargos de cualquiera de dichos órganos.
+b) Cuando accedan a la condición de diputado o diputada del Parlamento de las Illes Balears, del Congreso de los Diputados, del Parlamento Europeo, de las asambleas legislativas de otras comunidades autónomas, o de senador o senadora del Senado, si perciben retribuciones periódicas por el cumplimiento de su función. Cuando no perciban estas retribuciones, podrán optar entre permanecer en la situación de servicio activo o pasar a la de servicios especiales.
+c) Cuando accedan a la condición de consejeros o consejeras de los consejos insulares y cuando ejerzan cargos políticos retribuidos y de dedicación exclusiva de estas instituciones.
+d) Cuando ejerzan cargos políticos retribuidos y de dedicación exclusiva de las corporaciones locales.
+e) Cuando sean elegidos por el Parlamento de las Illes Balears o por las Cortes Generales para formar parte de los órganos estatutarios o constitucionales u otros cuya elección corresponda a cualquiera de las cámaras, si de esta elección se deriva incompatibilidad para ejercer la función pública. También cuando sean nombrados para ejercer en los citados puestos o cargos que estén asimilados en rango a alto cargo, de conformidad con lo que establezca la respectiva normativa reguladora.
+f) Cuando sean designados asesores de los grupos parlamentarios del Parlamento de las Illes Balears, de las Cortes Generales o de las asambleas legislativas de las demás comunidades autónomas.
+g) Cuando sean nombrados personal eventual de cualquier Administración pública.
+h) Cuando pasen a ocupar por el sistema de libre designación puestos de trabajo del Gabinete de la Presidencia o puestos de trabajo de la Oficina de las Illes Balears en Bruselas.
+i) Cuando adquieran la condición de personal funcionario al servicio de organizaciones internacionales o de carácter supranacional.
+j) Cuando sean autorizados por la Comunidad Autónoma para realizar una misión por un periodo determinado superior a seis meses en organismos internacionales, gobiernos o entidades públicas o en programas de cooperación internacional.
+k) Cuando sean nombrados para ejercer puestos o cargos en organismos públicos o entidades dependientes o vinculadas a las administraciones públicas que estén asimilados en rango a alto cargo, de conformidad con lo que establezca la respectiva normativa reguladora.
+l) Cuando sean nombrados o contratados como titulares de gerencias u otros órganos unipersonales de dirección o como personal directivo profesional de la Administración de la Comunidad Autónoma de las Illes Balears o de cualesquiera de las entidades del sector público instrumental
+m) En los otros supuestos que determine la normativa básica estatal o una ley.
+2. El personal funcionario en situación de servicios especiales tiene derecho a la reserva del puesto de trabajo, y el tiempo de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal, promoción y carrera administrativa. En cuanto a los derechos pasivos y de la Seguridad Social, se estará a lo establecido en la legislación básica estatal.
+3. El personal funcionario interino puede disfrutar también de la situación de servicios especiales, si bien la reserva del puesto de trabajo se mantendrá únicamente mientras este puesto no se provea reglamentariamente
+Se modifica la letra h) del apartado 1 por el art. 39.7 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11
+ Se añade el apartado 3 por el art. 2.2 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se modifica la letra l) del apartado 1 por la disposición final 1.4 del Decreto-ley 10/2012, de 31 de agosto. Ref. BOIB-i-2012-90041
+ Se modifica la letra l) y se añade la m) al apartado 1 por la disposición final 6 de la Ley 7/2010, de 21 de julio. Ref. BOE-A-2010-13242
+
+### Artículo 100
+
+Artículo 100. Servicio en otras administraciones públicas.
+1.El personal funcionario de la Administración de la Comunidad Autónoma de las Illes Balears que, mediante los sistemas de provisión de puestos o por traspaso de servicios, pasa a ocupar con carácter permanente puestos de trabajo en otras administraciones queda, respecto a la Administración autonómica, en situación de servicio en otras administraciones públicas.
+2. El personal funcionario que presta servicios en la Administración de la Comunidad Autónoma de las Illes Balears procedente de otras administraciones públicas que no se ha integrado en los cuerpos, las escalas o las especialidades de esta Administración, si pasa a prestar servicios con carácter permanente en otra Administración pública, pierde la vinculación con la Administración autonómica.
+
+### Artículo 101
+
+Artículo 101. Excedencia voluntaria.
+La excedencia voluntaria supone el cese temporal de la relación de servicios, sin derecho a percibir retribuciones y no se computa como servicio activo el tiempo en que se permanece en esta situación, sin perjuicio de las peculiaridades que los artículos siguientes establecen para cada modalidad de esta excedencia.
+
+### Artículo 102
+
+Artículo 102. Excedencia voluntaria por interés particular.
+1.La excedencia voluntaria por interés particular puede concederse a petición del personal funcionario, por un periodo mínimo de dos años, cuando las necesidades del servicio lo permitan y siempre y cuando haya prestado servicios efectivos en cualquier Administración pública durante los cinco años inmediatamente anteriores.
+2. No podrá concederse esta modalidad de excedencia voluntaria al personal funcionario mientras esté en tramitación un procedimiento disciplinario o esté pendiente del cumplimiento de una sanción disciplinaria.
+3. Se declarará en situación de excedencia voluntaria por interés particular el personal funcionario cuando, finalizada la causa que determinó el paso a una situación diferente de la de servicio activo, incumpla la obligación de solicitar el reingreso en el plazo establecido reglamentariamente.
+
+### Artículo 103
+
+Artículo 103. Excedencia voluntaria por prestación de servicios en el sector público.
+1. Se declarará la excedencia voluntaria por prestación de servicios en el sector público, de oficio o a instancia de parte, cuando los funcionarios o funcionarias de carrera accedan, por promoción interna u otros sistemas de acceso, a otros cuerpos o escalas de cualquier administración pública, y no les corresponda quedar en otra situación, y también cuando pasen a prestar servicios en administraciones, organismos o entidades del sector público como contratado laboral fijo y no les corresponda quedar en la situación de servicios especiales, todo ello sin perjuicio de lo dispuesto en la normativa sobre incompatibilidades.
+2. Igualmente, se declarará la excedencia voluntaria por prestación de servicios en el sector público, de oficio o a instancia de parte, cuando los funcionarios o funcionarias de carrera ocupen un puesto mediante nombramiento de personal funcionario interino o como personal laboral con contrato temporal, si acreditan haber prestado servicios como funcionario de carrera en el cuerpo o escala de procedencia durante, como mínimo, un año desde el ingreso en el cuerpo en el cual se declara esta situación.
+En caso contrario, será declarado en situación de excedencia voluntaria por interés particular, siempre que cumpla los requisitos y con los efectos legalmente previstos.
+3. En cualquiera de los dos supuestos del anterior apartado, el personal funcionario de carrera que es nombrado personal funcionario interino en un puesto de otro cuerpo o escala o como personal laboral temporal, no tiene derecho al cómputo de este tiempo a efectos del devengo de trienios en el cuerpo o escala de origen, pero sí en el cuerpo o escala donde esté como personal interino, sin perjuicio de lo establecido en el apartado 6.
+4. El personal funcionario puede permanecer en esta situación mientras se mantenga la relación de servicios que dio lugar a ella. Una vez producido el cese, deberá solicitar el reingreso al servicio activo en el plazo máximo de un mes y, si no lo hace, se le declarará en situación de excedencia voluntaria por interés particular. Este reingreso se producirá, en todo caso, cuando exista vacante con dotación presupuestaria. Si no existe vacante, permanecerá en la situación de excedencia voluntaria por interés particular hasta que exista una.
+5. En la situación de excedencia voluntaria por prestación de servicios en el sector público no se devengan retribuciones, ni es computable el tiempo de permanencia en ella a los efectos de carrera profesional, antigüedad, trienios ni derechos en el régimen de la Seguridad Social que les sea aplicable, sin perjuicio de los derechos que correspondan en cada caso derivados del puesto que pasa a ocupar en servicio activo.
+6. A pesar de lo dispuesto en el anterior apartado, y con ocasión del reingreso al servicio activo, el periodo de prestación de servicios en administraciones u organismos o entidades del sector público, conforme a lo establecido en la Ley 70/1978, de 26 de diciembre, de reconocimiento de servicios previos en la Administración pública, se computará a los efectos de trienios y de carrera profesional de la forma en que se determine reglamentariamente.
+Se modifica por el art. 2.11 del Decreto-ley 2/2013, de 14 de junio. Ref. BOIB-i-2013-90018
+
+### Artículo 103 bis
+
+Artículo 103 bis. Excedencia voluntaria por nombramiento provisional en un grupo o subgrupo superior.
+(Derogado)
+Se deroga por la disposición derogatoria.a) del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#dd
+ Se añade por la disposición adicional 3 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+
+### Artículo 104
+
+Artículo 104. Excedencia voluntaria por agrupación familiar.
+Puede concederse la excedencia voluntaria por agrupación familiar a los funcionarios o a las funcionarias cuyo cónyuge resida en otro municipio por haber obtenido y estar ejerciendo un puesto de trabajo de carácter definitivo como personal funcionario de carrera o personal laboral en cualquier Administración pública, entidades y organismos públicos dependientes o vinculados, en órganos estatutarios, constitucionales o del Poder Judicial, así como en órganos de la Unión Europea o en organizaciones internacionales.
+
+### Artículo 105
+
+Artículo 105. Excedencia voluntaria para cuidado de familiares.
+1.El personal funcionario puede solicitar la excedencia voluntaria en los siguientes supuestos:
+a) Para la atención de los hijos y las hijas, por naturaleza, adopción o acogimiento permanente o preadoptivo, por un periodo no superior a tres años.
+b) Para el cuidado de un familiar a cargo directo, por un periodo no superior a un año.
+2. El periodo de permanencia en esta situación da derecho a la reserva del puesto de trabajo y es computable a los efectos de trienios, de consolidación de grado personal y de carrera. A efectos de derechos pasivos o de la Seguridad Social, hay que ajustarse a lo que dispone la legislación estatal.
+3. El personal funcionario interino puede disfrutar de esta excedencia, si bien la reserva del puesto de trabajo se mantendrá únicamente mientras dicho puesto no se provea reglamentariamente.
+Se modifica el apartado 2 por el art. 2.1 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 106
+
+Artículo 106. Excedencia voluntaria para las víctimas de violencia.
+1.La funcionaria víctima de violencia de género tiene derecho a solicitar una excedencia voluntaria sin necesidad de acreditar un tiempo mínimo de servicios previos. Esta excedencia puede mantenerse siempre que la efectividad del derecho a la protección de la víctima lo exija.
+2. El mismo derecho tiene el personal funcionario declarado judicialmente víctima de cualquier tipo de violencia, cuando lo necesite para hacer efectiva su protección.
+3. El periodo de permanencia en esta situación da derecho a la reserva del puesto de trabajo y es computable a los efectos de trienios, de consolidación de grado personal y de carrera. A efectos de derechos pasivos o de la Seguridad Social, hay que ajustarse a lo que dispone la legislación estatal.
+4. El personal funcionario interino puede disfrutar de esta excedencia, si bien la reserva del puesto de trabajo se mantendrá únicamente mientras este puesto no se provea reglamentariamente.
+Se modifica el apartado 3 y se añade el 4 por el art. 2.1 y 2 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Artículo 107
+
+Artículo 107. Excedencia voluntaria por motivos de salud.
+El personal funcionario puede solicitar la excedencia voluntaria cuando lo necesite durante los procesos de recuperación como consecuencia de una enfermedad o de un accidente, por un periodo no superior a tres años, en los términos y las condiciones que reglamentariamente se establezcan.
+
+### Artículo 108
+
+Artículo 108. Excedencia voluntaria incentivada.
+El personal funcionario tiene derecho a la excedencia voluntaria incentivada en los supuestos y las condiciones establecidos por la normativa básica estatal o, si ésta no la regula, por la normativa autonómica de desarrollo.
+
+### Artículo 109
+
+Artículo 109. Expectativa de destino.
+1.El personal funcionario al que se le ha suprimido el puesto de trabajo a consecuencia de una redistribución de efectivos, de un plan general de ordenación o de otras medidas de racionalización de la organización administrativa y de personal reguladas por la presente ley, y que no haya obtenido destino, puede ser declarado en situación de expectativa de destino.
+2. Las condiciones y los efectos de esta situación se rigen por la normativa básica estatal o, si ésta no la regula, por la normativa autonómica de desarrollo.
+3. El periodo máximo de duración de esta situación es de un año.
+
+### Artículo 110
+
+Artículo 110. Excedencia forzosa.
+1.Se declarará la excedencia forzosa únicamente en los siguientes casos:
+a) En el caso de que el funcionario o la funcionaria procedente de la situación de suspensión solicite el reingreso y éste no sea posible por falta de puesto vacante con dotación presupuestaria.
+b) Transcurrido el periodo máximo establecido en el punto 3 del artículo anterior.
+2. El personal en situación de excedencia forzosa tiene derecho a percibir las retribuciones básicas y, en su caso, a las prestaciones familiares por hijos o hijas a su cargo, así como al cómputo del tiempo que permanezca en esta situación a efectos de trienios.
+
+### Artículo 111
+
+Artículo 111. Suspensión de funciones.
+1.La situación de suspensión de funciones implica que el personal funcionario queda privado temporalmente del ejercicio de sus funciones y de los derechos y las prerrogativas anexos a su condición.
+2. La suspensión se declara si lo determina la autoridad judicial o el órgano competente, como consecuencia de un procedimiento judicial o disciplinario.
+3. La situación de suspensión es incompatible con la prestación de servicios en el sector público.
+
+### Artículo 112
+
+Artículo 112. Suspensión provisional y suspensión definitiva.
+1.La suspensión de funciones puede ser provisional o definitiva.
+2. La suspensión provisional puede acordarse como medida cautelar durante la tramitación del procedimiento judicial o disciplinario que se instruya al funcionario o a la funcionaria, cuando las circunstancias lo aconsejen, durante la substanciación del procedimiento.
+3. La suspensión provisional acordada en un procedimiento disciplinario no puede exceder de los seis meses, excepto en el caso de que el procedimiento se suspenda o se paralice por causa imputable a la persona suspendida.
+4. La persona suspendida provisionalmente tiene derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijos o hijas a su cargo.
+5. La suspensión definitiva es la que se impone en virtud de condena judicial o sanción disciplinaria.
+6. La condena o sanción de suspensión determina la pérdida definitiva del destino o del puesto de trabajo ocupado siempre que la sanción sea superior a seis meses y, en todo caso, la privación temporal del resto de los derechos inherentes a la condición de personal funcionario durante el tiempo de la suspensión.
+
+### Artículo 113
+
+Artículo 113. El reingreso en el servicio activo.
+1.El reingreso en el servicio activo del personal funcionario que no tiene reserva de puesto de trabajo se efectúa ordinariamente a través de la participación en las convocatorias de provisión.
+2. El reingreso podrá efectuarse por adjudicación de un puesto de trabajo con carácter provisional, condicionado a las necesidades del servicio y en los términos que se establezcan reglamentariamente, siempre y cuando la persona interesada cumpla con los requisitos de ocupación del puesto, salvo, en su caso, el nivel de conocimientos de la lengua catalana del puesto de trabajo.
+3. El reingreso se llevará a cabo respetando el siguiente orden de prelación:
+a) Quien proviene de la situación de expectativa de destino.
+b) Quien proviene de la situación de excedencia forzosa.
+c) Quien proviene de la situación de suspensión.
+d) Quien proviene de la situación de excedencia voluntaria.
+Se modifica el apartado 2 por la disposición final 17.5 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica el apartado 2 por el art. 39.8 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.5 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Téngase en cuenta que se declara inconstitucional y nulo el art. 7.5 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, que dió redacción al apartado 2 de este artículo, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
+ Se modifica el apartado 2 por la disposición final 2.3 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se modifica el apartado 2 por el art. 7 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se modifica el apartado 2 por el art. único.7 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+## TÍTULO IX
+
+Derechos, deberes e incompatibilidades
+
+### Artículo 114
+
+Artículo 114. Protección del personal y conciliación de la vida familiar y laboral.
+La Administración de la Comunidad Autónoma debe proteger al personal a su servicio en el ejercicio de las funciones que tiene encomendadas y debe poner los medios necesarios para hacer efectivos los derechos que esta ley le reconoce, con especial atención a los que facilitan la conciliación de la vida familiar y laboral.
+
+## CAPÍTULO I
+
+Derechos del personal funcionario
+
+### Artículo 115
+
+Artículo 115.Derechos.
+1.El personal funcionario al servicio de la Administración autonómica tiene los siguientes derechos:
+a) A la inamovilidad en la condición de personal funcionario público y al ejercicio efectivo de las funciones propias de su condición profesional.
+b) A la carrera administrativa, de acuerdo con los principios de igualdad, mérito y capacidad, de conformidad con los procedimientos establecidos en la presente ley.
+c) A percibir las retribuciones y las indemnizaciones por razón del servicio que procedan.
+d) A recibir asistencia, defensa jurídica y protección de la Administración autonómica, en el ejercicio legítimo de su actividad profesional y en los procesos judiciales derivados de la misma.
+e) A la formación profesional y a la actualización permanente de sus conocimientos y capacidades.
+f) A que la evaluación del cumplimiento se efectúe con criterios objetivos y de transparencia.
+g) A la participación en la consecución de los objetivos de la unidad administrativa donde prestan servicios y a ser informados por el personal superior de las tareas a realizar.
+h) A las recompensas que se establezcan reglamentariamente.
+i) A las medidas de conciliación de la vida personal, familiar y laboral que se establezcan.
+j) A ser tratado con respeto y consideración.
+k) A que le sean respetadas su intimidad, orientación sexual y dignidad en el trabajo, especialmente frente a cualquier tipo de acoso.
+l) A las vacaciones, los permisos, las licencias y la reducción de jornada en los términos establecidos en esta ley y en las disposiciones reglamentarias de desarrollo.
+m) A las prestaciones de la Seguridad Social correspondientes al régimen que le sea de aplicación y a la jubilación en los términos y las condiciones que establece la normativa vigente.
+n) A recibir protección eficaz en materia de prevención, seguridad y salud en el trabajo.
+o) Al ejercicio de las libertades sindicales, a la negociación colectiva y a la participación en la determinación de las condiciones de trabajo, en los términos que establece la legislación básica estatal.
+p) Al ejercicio del derecho de huelga y al planteamiento de conflictos colectivos de trabajo, con las limitaciones establecidas por la ley y con la garantía del mantenimiento de los servicios esenciales de la comunidad.
+q) A la reunión y a la asociación profesional.
+r) A la solución extrajudicial de conflictos en los términos que se establezcan reglamentariamente, de conformidad con la legislación básica estatal.
+s) A los demás derechos reconocidos por el ordenamiento jurídico.
+2. El régimen de derechos que contiene el punto anterior es de aplicación al personal interino y al personal eventual siempre que la naturaleza del derecho lo permita, y al personal laboral siempre que estos derechos no estén regulados en su normativa específica y sean compatibles con la naturaleza de la relación jurídica que lo vincula con la Administración.
+
+### Artículo 116
+
+Artículo 116. Vacaciones.
+1.El personal funcionario tiene derecho a disfrutar de un mes natural de vacaciones anuales retribuidas o de veintidós días laborables dentro de cada año natural completo de servicio activo, o bien de los días que correspondan en proporción al tiempo de servicio, en el caso de que éste sea inferior al año natural.
+2. Asimismo, el personal tiene derecho a disfrutar de los días adicionales anuales de vacaciones que se establezcan reglamentariamente.
+
+### Artículo 117
+
+Artículo 117. Permisos horarios y permisos por días.
+1.El personal funcionario puede disfrutar de los permisos horarios y permisos por días, por causas justificadas, de acuerdo con los requisitos y las condiciones que se establezcan reglamentariamente, que deben permitir:
+a) La conciliación de la vida familiar y laboral.
+b) La conciliación de la vida personal y laboral.
+c) La conciliación de la vida laboral y la participación en asuntos públicos.
+Esta regulación debe respetar los derechos mínimos reconocidos en la legislación básica estatal y, cuando la naturaleza del permiso lo permita, debe distinguir si el supuesto de hecho se produce en la misma isla de residencia o fuera de ella.
+2. En todo caso, el personal funcionario puede disponer de hasta un máximo de siete días de permiso al año por asuntos propios sin necesidad de justificación, cuya concesión está subordinada a las necesidades del servicio.
+
+### Artículo 118
+
+Artículo 118. Licencias.
+1.El personal funcionario tiene derecho a disfrutar de licencias para conciliar la vida personal, familiar y laboral, de acuerdo con las condiciones y los requisitos que se establezcan reglamentariamente, respetando la normativa básica estatal.
+2. En todo caso, dan derecho a licencia las siguientes situaciones:
+a) El matrimonio.
+b) El parto.
+c) La adopción o el acogimiento preadoptivo o permanente.
+d) La enfermedad.
+e) La realización de funciones sindicales.
+3. Con el fin de garantizar la implicación del hombre en el cuidado de los hijos y las hijas, la regulación de las situaciones establecidas en las letras b) i c) del punto anterior establecerá una licencia de paternidad, que será de disfrute exclusivo del padre.
+4. Asimismo, el personal funcionario puede solicitar licencias, de acuerdo con los requisitos y las condiciones que se establezcan reglamentariamente, por las siguientes causas:
+a) La realización de estudios sobre materias directamente relacionadas con las funciones que se ejercen.
+b) El interés particular.
+5. La concesión de las licencias previstas en el punto anterior se condiciona a las necesidades del servicio. El personal interino y el personal eventual no tienen derecho a su disfrute.
+
+### Artículo 119
+
+Artículo 119. Reducción de jornada.
+1.El personal funcionario tiene derecho a la reducción de la jornada de trabajo, para conciliar la vida familiar y laboral, de un máximo de la mitad de la duración de la misma, en los supuestos y las condiciones que se establezcan reglamentariamente.
+2. En todo caso, dan derecho a la reducción de jornada los siguientes supuestos:
+a) Guarda legal de menores de doce años.
+b) Nacimiento de niños o niñas prematuros o que tengan que permanecer hospitalizados después del parto.
+c) Cuidado de familiares con discapacidad o de personas dependientes.
+d) Violencia de género.
+e) Tener más de sesenta años o de la edad que fije la normativa específica para colectivos determinados.
+f) Problemas de salud que no den lugar a incapacidad temporal o permanente.
+3. La jornada reducida se computará como jornada completa a efectos de reconocimiento de antigüedad y de cotizaciones en el régimen de protección social, en los mismos supuestos en que puede disfrutarse de excedencia con derecho a la reserva de puesto de trabajo y en el supuesto de violencia de género.
+
+## CAPÍTULO II
+
+Régimen retributivo y de la Seguridad Social
+
+### Artículo 120
+
+Artículo 120.Criterios del sistema retributivo.
+El sistema retributivo de la Administración de la Comunidad Autónoma de las Illes Balears, de acuerdo con lo dispuesto en la normativa básica estatal, se rige por los siguientes criterios:
+a) Las retribuciones del personal se ajustarán, en la medida de lo posible, al entorno socio-económico de las Illes Balears, con especial atención al hecho diferenciador de la insularidad.
+b) Se garantizará que la igualdad retributiva entre mujeres y hombres sea efectiva.
+c) Se tenderá a la uniformidad retributiva de todos los puestos de trabajo que tengan un mismo nivel de dificultad, responsabilidad y condiciones de trabajo.
+d) Se tendrán en cuenta las diferencias derivadas de la especial dificultad, la responsabilidad y las distintas condiciones de trabajo, con atención especial al horario de trabajo.
+e) Se establecerán sistemas que permitan la retribución del grado de cumplimiento de las funciones o tareas encomendadas.
+f) El personal funcionario no puede ser retribuido por conceptos diferentes a los que establece la normativa vigente.
+
+### Artículo 121
+
+Artículo 121. Estructura de las retribuciones.
+1.Las retribuciones del personal funcionario de la Administración de la Comunidad Autónoma de las Illes Balears se clasifican en básicas y complementarias.
+2. Son retribuciones básicas, de acuerdo con lo que establece la normativa básica estatal:
+a) El sueldo base.
+b) Los trienios.
+3. Son retribuciones complementarias:
+a) El complemento de destino, que retribuye la progresión lograda por el personal funcionario mediante la adquisición y la consolidación del grado personal o por la ocupación de puestos de trabajo de nivel superior.
+b) El complemento de carrera, que retribuye la progresión lograda por el funcionario dentro del sistema de carrera administrativa.
+c) El complemento específico, que retribuye la especial dificultad técnica, la responsabilidad, la dedicación o la incompatibilidad que concurren en determinados puestos de trabajo, o las condiciones especiales en que se ejercen las funciones.
+d) El complemento de productividad, que retribuye el grado de interés, iniciativa o esfuerzo con que el funcionario desarrolla el trabajo y el rendimiento o los resultados obtenidos en la evaluación del desempeño.
+e) Las gratificaciones, que retribuyen los servicios extraordinarios prestados fuera del horario o la jornada habitual de trabajo.
+f) El complemento por turno de disponibilidad, que retribuye el tiempo en el que un trabajador que presta servicios con horario especial se encuentra localizable y con plena capacidad de desplazamiento para presentarse con prontitud cuando se le requiera para atender, en una localización determinada, las necesidades puntuales o especiales fuera de su horario habitual de trabajo y del puesto de trabajo.
+4. Las pagas extraordinarias son dos al año y se devengan por el importe que se establezca reglamentariamente, de acuerdo con las previsiones establecidas en la legislación básica estatal.
+5. El personal funcionario tiene derecho a percibir las indemnizaciones que se establezcan reglamentariamente, entre las cuales figurará, en todo caso, la indemnización por residencia.
+Se añade la letra f) al apartado 3 por la disposición final 9.2 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
+ Se modifica el apartado 3 por la disposición final 21.1 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Artículo 122
+
+Artículo 122. Retribuciones del personal funcionario interino.
+El personal funcionario interino percibirá las retribuciones que legalmente le corresponden por razón del puesto de trabajo ocupado o por razón de las funciones que ejerce, sin que en ningún caso tenga derecho a la consolidación de grado ni a la percepción de trienios.
+
+### Artículo 123
+
+Artículo 123. Régimen de la Seguridad Social.
+1.Al personal funcionario propio o de nuevo ingreso en la Administración de la Comunidad Autónoma le es de aplicación el régimen general de la Seguridad Social.
+2. Las funcionarias o los funcionarios transferidos de otras administraciones continuarán con el sistema de la Seguridad Social o de previsión que les era aplicable en la Administración de origen, y la Comunidad Autónoma asumirá todas las obligaciones de la Administración de procedencia desde el momento de su incorporación a la Administración autonómica.
+
+## CAPÍTULO III
+
+Deberes y régimen de incompatibilidades
+
+### Artículo 124
+
+Artículo 124.Deberes del personal funcionario al servicio de la Administración de la Comunidad Autónoma.
+1.El personal funcionario al servicio de la Administración de la Comunidad Autónoma está obligado a:
+a) Cumplir la Constitución, el Estatuto de Autonomía y todas las disposiciones que afecten al ejercicio de las funciones que tiene encomendadas.
+b) Servir con objetividad a los intereses generales y ejercer con imparcialidad sus funciones.
+c) Respetar la igualdad entre hombres y mujeres en el servicio público.
+d) Cumplir con eficacia y diligencia las funciones asignadas y, en su caso, tramitar y/o resolver los procedimientos de su competencia, en el plazo establecido.
+e) Cumplir las instrucciones y las órdenes recibidas del personal superior jerárquico.
+f) Informar a los ciudadanos y a las ciudadanas sobre todas las materias o los asuntos que tengan derecho a conocer, así como facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
+g) Facilitar a los ciudadanos y a las ciudadanas el ejercicio del derecho a utilizar las lenguas cooficiales en las relaciones con la administración autonómica.
+h) Tratar con corrección a las personas con las que se relaciona por razón del servicio.
+i) Cumplir el régimen de incompatibilidades.
+j) Tratar con cuidado el material y las instalaciones que tengan que utilizar y procurar la mayor economía en el funcionamiento del servicio.
+k) No utilizar en provecho propio o de terceras personas los bienes y recursos de la Administración.
+l) Guardar secreto respecto a la información que tenga carácter de secreto o que sea confidencial según la legislación en vigor.
+m) Guardar discreción profesional respecto a los asuntos que conozca por razón de sus funciones.
+n) Velar por el propio perfeccionamiento profesional y participar en los cursos de formación que sean obligatorios.
+o) Cumplir con exactitud la jornada y el horario de trabajo establecidos.
+p) Atender los servicios mínimos en caso de huelga, de conformidad con lo que acuerde el Consejo de Gobierno.
+q) Observar las medidas de salud laboral y de prevención de riesgos que se adopten legal y reglamentariamente.
+r) Actuar de conformidad con los principios éticos y de conducta establecidos por la normativa vigente.
+2. El deber de cumplir las instrucciones y las órdenes recibidas del personal superior jerárquico se entiende sin perjuicio de que el personal pueda formular las sugerencias que considere oportunas para mejorar la ejecución de las tareas encomendadas.
+Si el funcionario o la funcionaria considera que la orden recibida es contraria a la legalidad, puede solicitarla por escrito y, una vez recibida, podrá comunicar inmediatamente la discrepancia al personal superior jerárquico, el cual decidirá o resolverá motivadamente. En ningún caso se cumplirán las órdenes que impliquen comisión de delito.
+3. El incumplimiento del deber establecido en la letra o) del punto 1 del presente artículo da lugar a la deducción de retribuciones correspondiente a la diferencia en cómputo mensual entre la jornada reglamentaria de trabajo y la efectivamente desarrollada, excepto si es justificada.
+4. Excepcionalmente y cuando las necesidades del servicio lo hagan necesario, podrá exigirse al personal al servicio de la Administración autonómica la ejecución de tareas fuera de la jornada ordinaria.
+5. El personal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears no esta obligado a residir en la localidad donde trabaja, salvo los casos en que, por razón del servicio, el deber de residencia sea necesario.
+Se modifica el apartado 1.g) por el art. 39.9 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11
+ Se modifica el apartado 1.g) por la disposición final 2.4 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+ Se modifica el apartado 1.g) por el art. 8 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se modifica el apartado 1.g) por el art. único.8 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Artículo 125
+
+Artículo 125. Responsabilidad por la gestión de los servicios.
+El personal al servicio de la Administración autonómica es responsable de la buena gestión de los servicios encomendados y procurará resolver los obstáculos que encuentre en el cumplimiento de su función, sin perjuicio de la responsabilidad que corresponde al personal superior jerárquico.
+
+### Artículo 126
+
+Artículo 126. Responsabilidad patrimonial.
+Sin perjuicio de la responsabilidad por el funcio­namiento de los servicios públicos regulada en el artículo 106.2 de la Constitución y del deber de resarcir los daños causados a las personas particulares, la Administración autonómica, una vez que las haya indemnizado, se dirigirá de oficio contra el funcionario o la funcionaria causante de los daños por dolo, culpa o negligencia graves, en acción de regreso, mediante la instrucción del procedimiento correspondiente.
+
+### Artículo 127
+
+Artículo 127. Responsabilidad por daños y perjuicios causados a derechos o bienes de la Administración.
+La Administración autonómica se dirigirá contra el funcionario o la funcionaria que por dolo, culpa o negligencia graves produzca daños o perjuicios a los bienes o derechos de la Comunidad Autónoma.
+
+### Artículo 128
+
+Artículo 128. Responsabilidad penal.
+La responsabilidad penal y la civil derivada del delito se exigen de acuerdo con lo establecido en la legislación correspondiente.
+
+### Artículo 129
+
+Artículo 129. Responsabilidad disciplinaria.
+La responsabilidad disciplinaria del personal funcionario se hará efectiva de conformidad con lo dispuesto en el título X de la presente ley.
+
+### Artículo 130
+
+Artículo 130. Régimen de incompatibilidades.
+1.El cumplimiento de la función pública es incompatible con el ejercicio de cualquier cargo, profesión o actividad, públicos o privados, por cuenta propia o ajena, retribuidos o meramente honoríficos, si impide o menoscaba el exacto cumplimiento de los deberes del funcionario o de la funcionaria, compromete su imparcialidad o independencia o perjudica los intereses generales.
+2. El personal al servicio de la Administración autonómica está sometido a la legislación básica estatal en materia de incompatibilidades y a la normativa autonómica de desarrollo.
+
+## TÍTULO X
+
+Régimen disciplinario
+
+## CAPÍTULO I
+
+Principios del régimen disciplinario
+
+### Artículo 131
+
+Artículo 131.Principios de legalidad y de tipicidad.
+1.El personal al servicio de la Administración autonómica únicamente puede ser sancionado por las acciones u omisiones tipificadas como faltas disciplinarias por la presente u otra ley.
+2. Las disposiciones reglamentarias de desarrollo pueden introducir especificaciones o graduaciones de las infracciones y de las sanciones que establece la presente ley, sin alterar su naturaleza y límites.
+3. Las normas definidoras de las infracciones y de las sanciones no son susceptibles de aplicación analógica.
+
+### Artículo 132
+
+Artículo 132. Principios de irretroactividad y de proporcionalidad.
+1.Las disposiciones sancionadoras únicamente pueden producir efectos retroactivos si son favorables para las personas presuntamente infractoras.
+2. La clasificación de las faltas y la aplicación de las sanciones guardarán relación con la gravedad de los daños causados, el grado de intencionalidad de la conducta, el grado de participación de la persona responsable y la eventual reiteración.
+
+### Artículo 133
+
+Artículo 133. Principio de presunción de inocencia y de derecho a la defensa.
+1.El procedimiento disciplinario debe respetar la presunción de no existencia de responsabilidad mientras ésta no resulte probada.
+2. Se practicarán de oficio o a solicitud de la persona interesada las pruebas que sean adecuadas para la determinación de los hechos.
+La inadmisión de las pruebas propuestas se efectuará mediante resolución motivada.
+3. Los hechos declarados probados por resolución firme en los procesos penales vinculan a la Administración.
+
+### Artículo 134
+
+Artículo 134. Principio de responsabilidad y de non bis in ídem.
+1.Únicamente pueden ser sancionadas por las acciones u omisiones constitutivas de faltas disciplinarias las personas que resulten responsables de las mismas de conformidad con lo dispuesto en la presente ley, aunque lo sean por simple inobservancia.
+2. No pueden imponerse dos sanciones por la misma acción u omisión cuando concurran identidad de sujeto, hechos y fundamento.
+3. La instrucción de un procedimiento penal no excluye la tramitación de un procedimiento disciplinario cuando el fundamento de la sanción que se pretende imponer sea diferente de lo que persigue la sanción penal.
+
+## CAPÍTULO II
+
+Infracciones y sanciones disciplinarias
+
+### Artículo 135
+
+Artículo 135.Responsabilidad disciplinaria.
+1.Constituyen infracciones administrativas, que se denominan faltas disciplinarias, las acciones u omisiones tipificadas como tales por la presente ley, las cuales dan lugar a la imposición de las correspondientes sanciones disciplinarias, sin perjuicio de la responsabilidad civil o penal que pueda derivarse de las mismas.
+2. Incurren en responsabilidad disciplinaria los autores o las autoras de la falta, el personal superior jerárquico que la tolera, quien la encubre y quien induce a su comisión.
+
+### Artículo 136
+
+Artículo 136. Tipología de las faltas.
+Las faltas disciplinarias se clasifican en:
+a) Muy graves.
+b) Graves.
+c) Leves.
+
+### Artículo 137
+
+Artículo 137. Faltas muy graves.
+1.Se consideran faltas muy graves:
+a) El incumplimiento del deber de fidelidad a la Constitución y al Estatuto de Autonomía de las Illes Balears en el ejercicio de la función pública.
+b) La discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad o cualquier otra condición o circunstancia personal o social.
+c) El acoso sexual o psicológico o el acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual.
+d) El abandono del servicio, así como la no asunción voluntaria de las tareas o funciones encomendadas.
+e) La emisión de informes y la adopción de resoluciones o de acuerdos manifiestamente ilegales que causen perjuicio a la Administración o a la ciudadanía.
+f) El exceso arbitrario en el uso de la autoridad que cause perjuicio al servicio o al personal que de él depende.
+g) La publicación o la utilización indebida de secretos oficiales así declarados por ley o clasificados como tales, así como la divulgación, publicación o utilización indebida de datos protegidos por la normativa vigente en materia de protección de datos.
+h) La falta notoria de rendimiento que suponga inhibición del cumplimiento de las tareas encomendadas.
+i) La violación de la neutralidad o la independencia políticas haciendo valer la condición de personal funcionario.
+j) Aprovecharse de la condición de personal funcionario para obtener un beneficio propio o de una tercera persona.
+k) La realización de actividades incompatibles legalmente que comprometan la imparcialidad o la independencia del personal funcionario.
+l) Los actos que impidan el ejercicio de los derechos fundamentales, de las libertades públicas y de los derechos sindicales.
+m) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
+n) La participación en huelgas, para aquellas personas que la tengan expresamente prohibida por ley.
+o) El incumplimiento de la obligación de atender los servicios esenciales que se hayan establecido en caso de huelga.
+p) Los actos limitativos de la libre expresión del pensamiento, las ideas y las opiniones.
+q) La agresión grave a cualquier persona con la cual se relacione en el ejercicio de las funciones.
+r) La comisión de un acto de violencia de los definidos en el artículo 1 de la Ley Orgánica de medidas de protección integral contra la violencia de género, que afecte al funcionamiento del servicio.
+s) El consumo de alcohol, de sustancias estupefacientes o psicotrópicas que afecte al funcionamiento del servicio o ponga en peligro a las personas con las que se relaciona por razón del servicio.
+t) La comisión de cualquier otra conducta tipificada legalmente como falta muy grave.
+2. Cuando se ha sido sancionado por la comisión de dos faltas graves dentro del año anterior, la comisión de una nueva falta grave tendrá la consideración de falta muy grave.
+
+### Artículo 138
+
+Artículo 138. Faltas graves.
+Son faltas graves:
+a) La falta de obediencia debida al personal superior jerárquico y a las autoridades que no constituya falta muy grave.
+b) El abuso de autoridad en el ejercicio del cargo que no constituya falta muy grave.
+c) Las conductas constitutivas de delito doloso relacionadas con el servicio o que causen daño a la Administración o a la ciudadanía y no constituyan falta muy grave.
+d) La tolerancia del personal superior jerárquico respecto a la comisión de faltas muy graves o graves del personal que de él depende.
+e) La desconsideración grave hacia cualquier persona con la cual se relacione en el ejercicio de sus funciones.
+f) La producción de daños graves a los locales, al material o a los documentos de los servicios.
+g) La intervención en un procedimiento administrativo cuando concurra alguna de las causas de abstención legalmente señaladas.
+h) La emisión de informes y la adopción de acuerdos manifiestamente ilegales cuando causen perjuicio a la Administración o a la ciudadanía, y no constituyan falta muy grave.
+i) La falta de rendimiento que afecte al funcionamiento de los servicios y no constituya falta muy grave.
+j) No guardar la discreción profesional respecto a los asuntos que conozca por razón de sus funciones, cuando cause perjuicio a la Administración o se utilice en provecho propio.
+k) El incumplimiento de disposiciones en materia de incompatibilidades, cuando no constituya falta muy grave.
+l) El incumplimiento injustificado de la jornada de trabajo que acumulado suponga un mínimo de diez horas dentro de un mes natural. A tal efecto, se entiende por mes natural el periodo comprendido desde el primer día hasta el último de cada uno de los doce meses que integran el año.
+m) La comisión de la tercera falta injustificada de asistencia en un periodo de tres meses, cuando las dos anteriores hayan sido objeto de sanción por falta leve.
+n) Las acciones u omisiones dirigidas a evadir los sistemas de control de horarios o a impedir que sean detectados los incumplimientos injustificados de la jornada de trabajo.
+Se suprimen las letras o) y p) por la disposición final 1.1 de la Ley 8/2015, de 16 de octubre. Ref. BOE-A-2015-12823
+ Se añaden las letras o) y p) por la disposición final 1.1 de la Ley 9/2013, de 23 de diciembre. Ref. BOE-A-2014-657
+
+### Artículo 139
+
+Artículo 139. Faltas leves.
+Son faltas leves:
+a) El incumplimiento injustificado del horario de trabajo que no constituye falta grave.
+b) La falta de asistencia injustificada de un día.
+c) La incorrección con cualquier persona con la cual se relacione en el ejercicio de sus funciones.
+d) La falta de cuidado o la negligencia en el ejercicio de las funciones propias.
+e) El incumplimiento de los deberes y las obligaciones del personal funcionario, siempre y cuando no tenga que ser calificado como falta muy grave o grave.
+Se suprimen las letras f) a h) por la disposición final 1.2 de la Ley 8/2015, de 16 de octubre. Ref. BOE-A-2015-12823
+ Se añaden las letras f) a h) por la disposición final 1.2 de la Ley 9/2013, de 23 de diciembre. Ref. BOE-A-2014-657
+
+### Artículo 140
+
+Artículo 140. Tipología de las sanciones.
+Las sanciones que pueden imponerse son:
+a) Separación del servicio o revocación del nombramiento del personal funcionario interino.
+b) Suspensión de funciones y retribuciones.
+c) Traslado a un puesto de trabajo situado en una localidad o isla distinta.
+d) Traslado a un puesto de trabajo situado en la misma localidad.
+e) Pérdida de uno a tres grados personales.
+f) Amonestación.
+
+### Artículo 141
+
+Artículo 141. Relación entre las faltas y las sanciones.
+1.Por la comisión de faltas muy graves pueden imponerse las siguientes sanciones:
+a) La separación del servicio o la revocación del nombramiento del personal funcionario interino.
+b) La suspensión de funciones y retribuciones por un periodo de entre uno y seis años.
+c) El traslado a un puesto de trabajo situado en otra localidad o isla.
+d) La pérdida de entre dos y tres grados personales.
+2. Por la comisión de faltas graves pueden imponerse las siguientes sanciones:
+a) La suspensión de funciones y retribuciones por un periodo superior a diez días e inferior a un año.
+b) El traslado a un puesto de trabajo situado en la misma localidad.
+c) La pérdida de un grado personal.
+3. Por la comisión de faltas leves pueden imponerse las siguientes sanciones:
+a) La suspensión de funciones y retribuciones por un periodo de uno a diez días.
+b) La amonestación.
+4. La suspensión de funciones por un periodo superior a seis meses determina la pérdida del puesto de trabajo.
+5. El traslado a un puesto de trabajo situado en una localidad diferente determina la imposibilidad de obtener un nuevo destino en la localidad desde la cual se produce el traslado durante un periodo de tres años. Esta sanción implicará el cambio de isla de residencia cuando se imponga por la falta tipificada en la letra r) del artículo 137 y exista sobre el funcionario o la funcionaria una orden judicial de alejamiento.
+6. La pérdida del grado personal determina la imposibilidad de consolidar un grado superior durante el periodo de tres años.
+
+### Artículo 142
+
+Artículo 142. Criterios de graduación de faltas y de sanciones.
+Para graduar las faltas y las sanciones se tendrán en cuenta los siguientes criterios:
+a) La intencionalidad.
+b) La perturbación del servicio.
+c) Los daños producidos a la Administración o a la ciudadanía.
+d) La participación en la comisión o en la omisión.
+e) El abuso de autoridad.
+f) La reiteración.
+
+### Artículo 143
+
+Artículo 143. Prescripción de faltas y de sanciones.
+1.Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses.
+2. Las sanciones impuestas por faltas muy graves prescriben a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves a los seis meses.
+
+### Artículo 144
+
+Artículo 144. Inscripción de la sanción.
+1.Las sanciones disciplinarias que se impongan al personal funcionario se anotarán en los expedientes personales respectivos con indicación de las faltas que las motivaron.
+2. Las inscripciones se cancelan de oficio una vez transcurridos los periodos equivalentes a los de prescripción de las sanciones.
+3. No obstante lo dispuesto en el punto anterior, la cancelación no impedirá la apreciación de reincidencia si el personal funcionario vuelve a incurrir en falta. En este supuesto el plazo de cancelación de las nuevas anotaciones será de doble duración que los anteriores.
+
+## CAPÍTULO III
+
+Procedimiento disciplinario
+
+### Artículo 145
+
+Artículo 145.Procedimiento disciplinario.
+1.El procedimiento para exigir la responsabilidad disciplinaria por faltas graves o muy graves se establecerá reglamentariamente y garantizará los principios contenidos en este título. La duración máxima del procedimiento es de dieciocho meses.
+2. La exigencia de responsabilidad por faltas leves requiere como mínimo la audiencia de la persona interesada.
+3. Durante la substanciación del procedimiento el órgano competente puede adoptar las medidas provisionales que considere oportunas, incluyendo la suspensión provisional de funciones y retribuciones, por un periodo máximo de seis meses.
+4. Cuando se considere que la falta puede ser constitutiva de delito, se dará cuenta al Ministerio Fiscal y se suspenderá el procedimiento.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. Las referencias de esta ley al personal al servicio de la Administración de la comunidad autónoma de las Illes Balears han de entenderse hechas también al personal al servicio de los consejos insulares, al de las entidades locales, al de las universidades públicas situadas en el territorio autonómico y al de la Agencia Tributaria de las Illes Balears, en todos los preceptos que les son de aplicación.
+2. Las referencias de la presente ley a los órganos de la Administración de la comunidad autónoma de las Illes Balears han de entenderse hechas a los órganos competentes que en cada caso corresponda de los consejos insulares, de las entidades locales, de las universidades públicas situadas en el territorio autonómico y de la Agencia Tributaria de las Illes Balears, en todo aquello que les sea de aplicación.
+Se modifica por la disposición final 3.2 de la Ley 3/2008, de 14 de abril. Ref. BOE-A-2008-8768
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El personal al servicio de la Administración de la Comunidad Autónoma de las Illes Balears que presta servicios en el Consejo Consultivo y en el Consejo Económico y Social depende orgánicamente del consejero competente en materia de función pública y funcionalmente de los presidentes de dichos órganos.
+Los órganos directivos del Consejo Consultivo y del Consejo Económico y Social, además de las competencias que les atribuyen las normas que los regulan, ejercen aquellas otras que, en aplicación de la presente ley, corresponden a los consejeros o las consejeras del Gobierno y a los órganos directivos de las consejerías.
+Se modifica el primer párrafo por la disposicón adicional 2 por la Ley 1/2018, de 5 de marzo. Ref. BOE-A-2018-4042#df-2
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. El consejero o la consejera competente en materia de función pública docente ejerce, en relación con el personal docente, el personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y el personal laboral de la especialidad auxiliar técnico educativo, al servicio de la administración autonómica, en cuanto a los puestos de trabajo de los centros educativos públicos de la enseñanza no universitaria, y en coordinación con el consejero o la consejera competente en materia de función pública, las siguientes competencias:
+a) Preparar los proyectos de ley y de disposiciones reglamentarias en materia de personal docente, personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y personal laboral de la especialidad auxiliar técnico educativo, y proponer su aprobación al Consejo de Gobierno, cuando corresponda.
+b) Impulsar, coordinar y, en su caso, ejecutar los planes y los programas que establecen medidas y actividades tendentes a mejorar el rendimiento, la formación y la promoción del personal docente, el personal funcionario del cuerpo ayudando facultativo, escala socioeducativa, y el personal laboral de la especialidad auxiliar técnico educativo, y la calidad de los servicios públicos educativos.
+c) Velar por el cumplimiento de las normas de aplicación específicas en materia de función pública docente y del régimen aplicable al personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y al personal laboral de la especialidad auxiliar técnico educativo, y ejercer la inspección general sobre el personal docente y sobre el personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y sobre el personal laboral de la especialidad auxiliar técnico educativo.
+2. En cuanto a la ejecución, en materia de personal docente, y de personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y de personal laboral de la especialidad auxiliar técnico educativo, corresponde al consejero o a la consejera competente en materia de función pública docente:
+a) Convocar y resolver los procedimientos de selección, establecer sus bases, los programas y el contenido de las pruebas y nombrar a los miembros de los órganos de selección.
+b) Convocar y resolver los procedimientos ordinarios de provisión de puestos de trabajo, establecer sus bases y nombrar a los miembros de los órganos de valoración.
+c) Resolver las comisiones de servicio para ocupar puestos de trabajo docente y puestos de trabajo correspondientes al personal funcionario del cuerpo ayudante facultativo, escala socioeducativa.
+d) Convocar y resolver los concursos para constituir las bolsas de personal laboral no permanente de la categoría profesional de auxiliar técnico/a educativo/a de la comunidad autónoma de las Illes Balears, para llevar a cabo trabajos ocasionales o urgentes, o bien para cubrir puestos de trabajo por interinidad, en las islas de Mallorca, Menorca, Ibiza y Formentera, así como gestionar dichas bolsas.
+e) Convocar y resolver los concursos de méritos para constituir las bolsas de aspirantes a funcionarios interinos del cuerpo ayudante facultativo, escala socioeducativa, así como gestionar estas bolsas.
+f) Nombrar y cesar el personal docente de carácter interino y el personal funcionario interino del cuerpo ayudante facultativo, escala socioeducativa.
+g) Formalizar los contratos de trabajo del personal docente, cuando no tengan carácter permanente, y los del personal laboral de la especialidad auxiliar técnico educativo, cuando no tengan carácter permanente.
+h) El resto de las facultades que, en relación con las citadas, le atribuya el Consejo de Gobierno.
+3. Lo que establece esta disposición adicional será plenamente aplicable en el momento en que la consejería competente en materia de función pública docente disponga de los recursos humanos, técnicos y materiales necesarios para asumir el ejercicio efectivo de las citadas competencias.
+Hasta aquel momento, la consejería competente en materia de función pública pondrá a disposición de la consejería competente en materia de función pública docente los medios tecnológicos y, en su caso, el asesoramiento técnico y jurídico, y ambos órganos actuarán de manera coordinada.
+El ejercicio de estas competencias se realizará en todo caso con pleno respeto a los principios de igualdad, mérito, capacidad, publicidad y transparencia, garantizando la objetividad en la gestión de bolsas, nombramientos y sustituciones conforme a la normativa de función pública aplicable.
+Se modifica por la disposición final 24.1 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-24
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+1. El consejero o la consejera competente en materia de función pública sanitaria ejerce, en relación con el personal estatutario al servicio de la sanidad pública autonómica y en coordinación con el consejero o la consejera competente en materia de función pública, las siguientes competencias:
+a) Preparar los proyectos de ley y de disposiciones reglamentarias en materia de personal estatutario al servicio de la Administración sanitaria autonómica y proponer su aprobación al Consejo de Gobierno, cuando proceda.
+b) Impulsar, coordinar y, en su caso, ejecutar los planes y programas que establecen medidas y actividades tendentes a mejorar el rendimiento, la formación y la promoción del personal estatutario y la calidad de los servicios públicos sanitarios.
+c) Cuidar del cumplimiento de las normas de aplicación específicas en materia de función pública sanitaria y ejercer la inspección general sobre el personal estatutario.
+2. En cuanto a la ejecución, en materia de personal estatutario al servicio de la sanidad pública autonómica, le corresponde:
+a) Convocar y resolver los procedimientos de selección, establecer sus bases, los programas y el contenido de las pruebas y nombrar a los miembros de los órganos de selección.
+b) Convocar y resolver los procedimientos ordinarios de provisión de puestos de trabajo, establecer sus bases y nombrar a los miembros de los órganos de valoración.
+c) Resolver las comisiones de servicio para ocupar puestos de trabajo de la Administración sanitaria autonómica.
+d) Nombrar al personal de carácter interino.
+e) Formalizar los contratos de trabajo de este personal, cuando no tengan carácter permanente.
+f) Resolver las solicitudes de reconocimiento de compatibilidad.
+g) Las demás facultades que, en relación con las mencionadas, le atribuya el Consejo de Gobierno.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+Los órganos directivos de la Escuela Balear de Administración Pública con competencia general, que no se asimilan en rango al de director o directora general, pueden ser ocupados por personal funcionario o por personal laboral contratado al amparo de la relación laboral especial de alta dirección.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+El personal estatutario al servicio de la sanidad pública autonómica y el personal laboral al servicio de la Administración de la Comunidad Autónoma de las Illes Balears, de las entidades autónomas y de las empresas públicas que dependen de ella tienen derecho a que se les compute, a efectos del artículo 56.1.a) del Estatuto de los Trabajadores, el tiempo de permanencia en el ejercicio de un cargo público en cualquier Administración pública o en un organismo dependiente que implique el derecho a la situación de excedencia forzosa previsto en el artículo 46.1 del mencionado estatuto.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+El acceso a cuerpos y escalas del grupo C puede realizarse mediante la promoción interna desde cuerpos y escalas del grupo D del área de actividad o funcional correspondiente, cuando exista, y se realizará por el sistema de concurso-oposición, con la valoración de la fase de concurso de los méritos relacionados con la carrera y los puestos ocupados, el nivel de formación y la antigüedad.
+A tal efecto, se requerirá la titulación que proceda, de acuerdo con lo establecido en el artículo 22 de la presente ley o una antigüedad de diez años en un cuerpo o una escala del grupo D, o de cinco años y la superación de un curso específico de formación al que se accederá por criterios objetivos.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Las personas interesadas deben entender desestimadas sus solicitudes, una vez transcurrido el plazo máximo para dictar y notificar la resolución expresa, en los procedimientos que se indican a continuación:
+a) Participación en actividades formativas.
+b) Reconocimiento de grado personal y servicios previos.
+c) Resolución y autorización de comisiones de servicios.
+d) Declaración de la situación administrativa de servicios especiales.
+e) Autorización de permutas.
+f) Adscripción provisional a puestos de trabajo.
+g) Integración en cuerpos, escalas o especialidades.
+h) Reingreso al servicio activo del personal funcionario que no tiene reserva de puesto de trabajo.
+i) Solicitudes relativas al ingreso, la provisión y la promoción profesional.
+j) Solicitudes formuladas en relación con la configuración o las funciones del puesto de trabajo.
+k) Autorización de compatibilidad.
+l) Concesión de ayudas con cargo al fondo social.
+m) Licencias para la realización de estudios sobre materias directamente relacionadas con las funciones que se ejercen.
+n) Solicitud de prolongación en el servicio activo.
+o) Cualquier otro susceptible de producir efectos económicos.
+Reglamentariamente se establecerán los plazos máximos para dictar y notificar las resoluciones de los procedimientos que prevé esta ley.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+1. Se suprime el derecho a la percepción del complemento retributivo regulado en la disposición adicional novena de la Ley 3/2007, de 27 de marzo, de la función pública de la comunidad autónoma de las Illes Balears, previa a la entrada en vigor de la presente ley, y, antes, en el artículo 30 de la Ley 20/2001, de 21 de diciembre, de medidas tributarias, administrativas y de función pública; en el artículo 18 de la Ley 12/1999, de 23 de diciembre, de medidas tributarias, administrativas y de función pública; en el artículo 12.5 de la Ley 6/1992, de 22 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el 1993; y en el artículo 8.4 de la Ley 11/1991, de 13 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el 1992.
+De acuerdo con ello, los empleados públicos de la Administración de la comunidad autónoma de las Illes Balears y el personal de las entidades integrantes del sector público autonómico, incluido el de los consejos insulares, el de las entidades locales, el de la Universitat de les Illes Balears y el de los órganos estatutarios que, de conformidad con la legislación mencionada en el párrafo anterior, tengan reconocido el derecho a percibir el complemento retributivo previsto en esta legislación, no tienen que percibirlo.
+2. De conformidad con lo que establece el artículo 87.3 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real decreto legislativo 5/2015, de 30 de octubre, lo que dispone el apartado anterior de esta disposición también es aplicable a los empleados públicos de la Administración de la comunidad autónoma de las Illes Balears y al personal de las entidades integrantes del sector público autonómico, incluido el de los consejos insulares, el de las entidades locales, el de la Universitat de les Illes Balears sujeto a la legislación de la función pública autonómica, y el de los órganos estatutarios, que tengan reconocido este complemento retributivo con fundamento en el artículo 87.3 mencionado o en la legislación estatal previa en la materia.
+Se modifica por el art. único de la Ley 9/2016, de 13 de junio. Ref. BOE-A-2016-6311
+ Se suspende el derecho a percibir el complemento retributivo por el art. 23.1 y 3 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
+ Esta suspensión es aplicable hasta la entrada en vigor de la ley que reforme la legislación autonómica de la función pública vigente en la materia y, en todo caso, como máximo, hasta el día 31 de diciembre de 2016.
+ Se añade la letra f) al apartado 1 por la disposición final 1 de la Ley 5/2009, de 17 de junio. Ref. BOE-A-2009-11934
+
+### Disposición adicional décima
+
+Disposición adicional décima. Estructura orgánica básica de la consejería que asuma las competencias en materia de función pública.
+1.La Dirección General de Función Pública es el órgano directivo adscrito a la consejería que tiene atribuidas las competencias en materia de función pública a la que corresponden la gestión de los recursos humanos de la Administración autonómica, el desarrollo de los planes de actuación en materia de función pública y la dirección, la coordinación y la ejecución de la política en materia de personal en el ámbito de la Administración de la Comunidad Autónoma.
+2. Un decreto del Consejo de Gobierno desarrollará la estructura orgánica de la Dirección General de Función Pública, así como las funciones generales de sus órganos y unidades administrativas. En todo caso, conforman la estructura básica de la Dirección General de Función Pública los órganos administrativos y las áreas funcionales siguientes:
+La Inspección General de Calidad, Organización y Servicios, órgano administrativo de control y de vigilancia del cumplimiento de las normas de función pública, y de calidad, análisis y propuesta en el ámbito de la Administración autonómica y de las entidades autónomas que dependen de ella, de supervisión de la aplicación de los sistemas de evaluación del cumplimiento del personal y de otros instrumentos de control de calidad de los servicios públicos.
+El Registro General de Personal, órgano administrativo competente para la inscripción del personal al servicio de la Administración autonómica y para la anotación de todos los actos que afectan a la vida administrativa de este personal, así como para la gestión, el mantenimiento y la actualización de las relaciones de puestos de trabajo.
+El Área de Soporte Técnico y Jurídico, integrada por las unidades administrativas que ejercen las funciones de asesoramiento jurídico de la dirección general, informe y elaboración de normativa en materia de función pública y coordinación y supervisión jurídicas de las unidades administrativas que ejercen funciones en materia de personal.
+El Área de Gestión de Personal, integrada por las unidades administrativas que prestan apoyo a la dirección general en las funciones de gestión de personal funcionario y laboral, tramitación y propuesta de resolución sobre situaciones administrativas del personal, reconocimiento de derechos, integración de funcionarios, y gestión y control de las retribuciones del personal y de las prestaciones derivadas del fondo social y de las cotizaciones a la Seguridad Social.
+El Área de prevención de riesgos laborales, integrada por las unidades administrativas que ejercen las funciones de prevención y vigilancia de la salud del personal, emisión de informes periciales y colaboración con la Inspección Médica.
+El Área de relaciones sindicales, integrada por las unidades administrativas que ejercen las funciones de apoyo a la dirección general en la negociación colectiva y en la determinación de las condiciones de trabajo, la comunicación con los representantes sindicales del personal, las relaciones con las organizaciones sindicales y la coordinación de los procesos electorales de los representantes de personal.
+El personal funcionario que ejerce la jefatura de estos órganos y áreas funcionales tiene dependencia jerárquica directa de la persona titular de la Dirección General de Función Pública, sin perjuicio de la autonomía funcional con que actúan la Inspección General de Calidad, Organización y Servicios y el Registro de Personal.
+Las unidades administrativas y los puestos de trabajo de la Dirección General de Función Pública se adscriben al órgano o al área funcional que corresponda, de conformidad con la naturaleza de las funciones que ejercen.
+3. Las consejerías deben disponer de una unidad administrativa adscrita a la Secretaría General, que ejerza las funciones relacionadas con la gestión del personal. Estas unidades deben actuar coordinadamente con la Dirección General de Función Pública, sin perjuicio de la dependencia funcional que les corresponde.
+La Dirección General de Función Pública puede dirigir instrucciones y circulares a las secretarías generales para establecer pautas o criterios de actuación y para unificar los criterios interpretativos con la finalidad de conseguir una actuación homogénea en materia de personal.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Reserva para personas con discapacidad.
+Las administraciones públicas del ámbito de la comunidad autónoma de las Illes Balears y las entidades y los organismos dependientes deberán reservar una cuota no inferior al 7% de las vacantes para las personas con un grado de discapacidad igual o superior al 33%, de forma que progresivamente se llegue al 2% de los efectivos totales en cada administración pública.
+Las plazas reservadas que no sean cubiertas se podrán acumular a las convocadas por el turno libre.
+La reserva del mínimo del 7% se realizará de forma que, al menos, el 2% de las plazas ofrecidas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofrecidas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
+Se modifica por la disposición final 1.20 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Carrera profesional horizontal en el ámbito de la administración local.
+Todos los pactos o acuerdos de las administraciones locales de las Illes Balears relativos al desarrollo de la carrera profesional horizontal subscritos después de la entrada en vigor del EBEP que se ajusten a las previsiones de la Ley 3/2007, de 27 de marzo, de la función pública de la comunidad autónoma de las Illes Balears, se consideran plenamente válidos y desplegarán sus efectos a partir de la primera evaluación que tenga lugar de conformidad con los mecanismos de evaluación del desempeño que estos establezcan.
+Hasta que no tenga lugar la primera evaluación a que hace referencia el párrafo anterior de esta disposición, los pagos efectuados o que se efectúen en el marco de estos pactos y acuerdos tendrán la consideración de pagos a cuenta del complemento de carrera.
+Se añade por el art. 2.4 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se suprime por el art. 9 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se añade por el art. único.9 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Selección, nombramiento y cese de personal funcionario docente interino.
+1. A partir del curso 2022-2023, la selección, nombramiento y cese de personal funcionario docente interino, así como el régimen indemnizatorio, se tiene que regir por la normativa que se dicte en aplicación de la disposición final segunda del Real decreto ley 14/2021, de 6 de julio, de medidas urgentes para la reducción de la temporalidad en la ocupación pública.
+2. En ausencia de adaptación, a partir del curso 2022-2023, la selección, nombramiento y cese de personal funcionario docente interino, así como el régimen indemnizatorio, se tienen que regir por el artículo 10 del texto refundido de la Ley del estatuto básico del empleado público.
+Los nombramientos para la sustitución transitoria de los titulares no se pueden extender más allá del tiempo estrictamente necesario.
+Se modifica por la disposición final 1.21 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+ Se añade por el art. 2.5 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se suprime por el art. 10 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
+ Se añade por el art. único.10 de la Ley 9/2012, de 19 de julio. Ref. BOE-A-2012-10718
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Capacitación lingüística para el reingreso en adscripción provisional del personal funcionario de carrera.
+Para el reingreso en adscripción provisional, el personal funcionario de carrera que no tenga reserva de un puesto de trabajo, previsto en el artículo 113.2 de esta ley, deberá acreditar el nivel de conocimiento de la lengua catalana exigido en el momento del ingreso al cuerpo, escala o especialidad en el que reingrese.
+Se modifica por la disposición final 17.6 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica por el art. 39.10 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.6 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Se añade por el art. 2.6 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Conocimientos de lengua catalana del personal estatutario de gestión y servicios del Servicio de Salud de las Illes Balears y del personal laboral no sanitario de los entes públicos adscritos a este servicio.
+1. El conocimiento de la lengua catalana será un requisito para acceder a la condición de personal estatutario y laboral no sanitario del Servicio de Salud de las Illes Balears y de los entes adscritos a este servicio.
+Así mismo, será un requisito exigible para ocupar plazas en puestos de trabajo en estos organismos.
+De acuerdo con ello, para el ingreso y la ocupación de las plazas y los puestos de trabajo del Servicio de Salud o de sus entes adscritos, este personal deberá acreditar los siguientes conocimientos de la lengua catalana:
+a) Personal estatutario de gestión y servicios:
+Grupo
+ Conocimientos de lengua catalana
+ A1
+ B2
+ A2
+ B2
+ C1
+ B2
+ C2
+ B1
+ Agrupaciones profesionales
+ A2
+Con carácter particular, las normas de creación de categorías profesionales de personal estatutario de gestión y servicios podrán establecer como requisito para el ingreso y la ocupación un nivel de conocimientos de la lengua catalana superior a los establecidos con carácter general en este apartado cuando las características especiales de sus funciones así lo demanden.
+b) Respecto al personal laboral no sanitario del Servicio de Salud de las Illes Balears y de los entes públicos adscritos a este servicio, los niveles de conocimientos de la lengua catalana exigibles serán los establecidos en la normativa de la Administración de la comunidad autónoma de las Illes Balears que resulte de aplicación al personal laboral de esta administración.
+2. La acreditación de niveles de conocimientos de la lengua catalana superiores a los exigidos en el apartado anterior será mérito de necesaria consideración, de conformidad con el baremo que se establezca en las bases y en las convocatorias de todos los procedimientos de selección y provisión.
+3. Excepcionalmente, cuando la prestación del servicio pueda resultar afectada por la carencia o insuficiencia de profesionales, las convocatorias de selección y movilidad de determinadas categorías de personal estatutario o laboral podrán eximir de los requisitos de conocimientos de la lengua catalana exigidos por esta disposición, oído el órgano competente en materia de planificación de recursos humanos del Servicio de Salud de las Illes Balears o de la entidad correspondiente, que emitirá un informe preceptivo sobre la vigencia y la extensión de la citada exención.
+Se modifica por la disposición final 17.7 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se añade por la disposición final 2 del Decreto-ley 5/2025, de 16 de mayo. Ref. BOE-A-2025-14463
+ Se suprime por la disposición final 4.2 de la Ley 6/2023, de 16 de marzo. Ref. BOE-A-2023-13763#df-4
+ Se añade por la disposición final 1.22 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Apoyo coyuntural a la realización de tareas.
+Para dar apoyo coyuntural a unidades de cualquier consejería o ente del sector público con personal funcionario adscrito que dependa de este, cuando se justifique la necesidad de reforzar el personal existente para llevar a cabo alguna tarea concreta y urgente, sin necesidad de recurrir a las medidas de movilidad que prevé esta ley, se puede disponer de una unidad administrativa, adscrita a la dirección general competente en materia de función pública, integrada por puestos de diferentes cuerpos de la Administración de la Comunidad Autónoma de las Illes Balears.
+Las secretarías generales de las consejerías o los órganos equivalentes de los entes del sector público con personal funcionario adscrito deberán hacer llegar a la dirección general competente en materia de función pública las necesidades de refuerzo de personal que se les planteen de forma cíclica, para poder hacer una planificación adecuada, sin perjuicio de que puedan realizar peticiones por circunstancias puntuales en cualquier momento, que serán atendidas, de acuerdo con las disponibilidades.
+Se añade por la disposición final 1.23 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Cesión de datos a las organizaciones sindicales y deber de sigilo.
+1. Las relaciones de puestos de trabajo, con el nombre y los apellidos de las personas titulares, así como de las personas que los ocupen y con la forma de ocupación, deberán ser proporcionadas semestralmente a las organizaciones sindicales representadas en el ámbito correspondiente, para que puedan llevar a cabo adecuadamente la actividad sindical, y sin perjuicio de las limitaciones que establece el apartado 2 del artículo 43. Se establecerán reglamentariamente las limitaciones de la publicidad en cuanto a determinados colectivos o circunstancias personales especiales.
+2. Los representantes sindicales, incluso después de dejar de formar parte de los sindicatos respectivos, deberán observar sigilo profesional en cuanto a los datos de carácter personal que puedan conocer sobre el personal empleado público y, en especial, en todas las materias que la Administración señale expresamente como de carácter reservado. Ningún tipo de documento entregado por la Administración a las organizaciones sindicales representantes del personal empleado público puede ser utilizado fuera de su ámbito estricto y para finalidades diferentes de las que motivaron la entrega. En todo caso, la aportación de la Administración de datos de carácter personal a los representantes del personal se considerará una cesión de datos a efectos de lo establecido en la legislación de protección de estos datos.
+Se añade por la disposición final 1.24 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Regreso al sistema selectivo por oposición.
+En todos los procesos selectivos para el acceso al cuerpo o la escala derivados de tasa ordinaria de reposición no incluidos en los procesos de estabilización a que se refiere la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, el acceso a la función pública de la comunidad autónoma se llevará a cabo, preferentemente, por el sistema de oposición.
+Se añade por la disposición final 1.24 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional decimonovena
+
+Disposición adicional decimonovena. Normas para las administraciones insulares y locales.
+Las normas que se aprueban mediante este decreto ley relativas al sistema de concurso abierto y permanente y al nombramiento provisional para la mejora de empleo son aplicables, sin perjuicio de la legislación de carácter básico y de la autonomía local e insular, a los consejos insulares y a las entidades locales, siempre que así lo acuerde el órgano competente de la administración pública insular o local correspondiente.»
+Se añade por la disposición final 1.25 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición adicional vigésima
+
+Disposición adicional vigésima. Relación de puestos de trabajo del personal docente de la enseñanza no universitaria de las Illes Balears.
+1. La relación de puestos de trabajo del personal docente de la enseñanza no universitaria de las Illes Balears constituye el instrumento de ordenación que permitirá gestionar la provisión de las necesidades de personal correspondiente, de acuerdo con la normativa aplicable y los límites presupuestarios y de ocupación en la contratación y el nombramiento de personal.
+2. El citado instrumento incluirá la relación de puestos de trabajo de carácter permanente.
+3. La cuota habilitada es el conjunto de las necesidades coyunturales de puestos de trabajo para cada curso escolar, derivadas de la matrícula escolar, de las necesidades educativas de los alumnos, de los proyectos educativos de los centros y de cualquier otra circunstancia debidamente motivada que justifique necesidades adicionales de personal respecto a los puestos de trabajo de carácter permanente.
+4. Mediante un acuerdo del Consejo de Gobierno, a propuesta del consejero competente en materia de educación, se aprobará la relación de puestos de trabajo de carácter permanente.
+5. Mediante una resolución del consejero competente en materia de educación se aprobará, para cada curso escolar, la cuota habilitada.
+6. Lo que disponen los apartados anteriores es igualmente aplicable al personal funcionario del cuerpo ayudante facultativo, escala socioeducativa, y al personal laboral de la especialidad auxiliar técnico educativo, en relación con los puestos de trabajo de los centros educativos públicos de la enseñanza no universitaria de las Illes Balears.
+Se modifica el apartado 6 por la disposición final 24.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-24
+ Se añade por el art. 39.11 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11
+
+### Disposición adicional vigésimoprimera
+
+Disposición adicional vigesimoprimera. Previsiones específicas sobre los permisos por nacimiento y cuidado de hijos para familias monoparentales para garantizar la igualdad de trato de los hijos.
+Los empleados públicos del Gobierno de las Illes Balears y de su sector público que tengan la consideración de familia monoparental disfrutarán de un permiso por nacimiento y cuidado de hijos de 26 semanas.
+Este permiso también se disfrutará en los casos de adopción, guarda con fines de adopción o acogida, tanto temporal como permanente.
+Estos permisos se disfrutarán con efectos de 6 de noviembre de 2024, fecha de publicación de la Sentencia de Tribunal Constitucional 140/2024.
+Se añade por la disposición final 4 de la Ley 3/2025, de 4 de julio. Ref. BOE-A-2025-15047#df-4
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Durante el plazo de doce meses a contar desde el día siguiente de la entrada en vigor de la ley continuarán vigentes las resoluciones de delegación de competencias en materia de función pública existentes en el momento de la entrada en vigor de la ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El consejero o la consejera competente en materia de función pública será el órgano competente para resolver sobre las solicitudes de compatibilidad del personal al servicio de las empresas públicas vinculadas o dependientes de la Administración autonómica hasta la entrada en vigor de la ley del sector público autonómico, en que se estará a lo que disponga esta ley.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La disposición transitoria octava de la Ley 2/1989, de 22 de febrero, de la función pública de la Comunidad Autónoma de las Illes Balears, introducida mediante la disposición adicional decimoctava de la Ley 8/2004, de 23 de diciembre, de medidas tributarias, administrativas y de función pública, se mantendrá vigente hasta que se desarrolle completamente.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Se establece un plazo de tres años para obtener el diploma de personal directivo expedido por la Escuela Balear de Administración Pública u otro homologado por ésta para desempeñar puestos de trabajo de naturaleza directiva.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Acceso extraordinario al primer nivel de carrera horizontal y pagos por anticipado.
+1. Con carácter general, los efectos inherentes al establecimiento del sistema ordinario de carrera horizontal se tienen que producir a partir de la primera evaluación que tenga lugar de conformidad con los mecanismos de evaluación del desempeño correspondientes.
+2. No obstante, los encuadres iniciales en los niveles de carrera que resultan de la aplicación de los pactos y acuerdos a que se refieren los artículos 22, segundo párrafo, y 23.5, segundo párrafo, de la Ley 13/2014, de 29 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el año 2015; el artículo 26.5 de la Ley 12/2015, de 29 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el año 2016; el artículo 23 y la disposición adicional tercera de la Ley 18/2016, de 29 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el año 2017; y el artículo 23 de la Ley 13/2017, de 29 de diciembre, de presupuestos generales de la comunidad autónoma de las Illes Balears para el año 2018; o de los pactos o acuerdos a que se refiere la disposición adicional duodécima de la presente ley para el personal de las administraciones locales, determinan, con plenos efectos, el acceso directo del personal encuadrado en los niveles de carrera correspondientes.
+3. Hasta que no tenga lugar la primera evaluación a que hace referencia el apartado 1 de esta disposición, los pagos efectuados o que se efectúen en el marco de los pactos y acuerdos a que se refiere el apartado 2 anterior tienen la consideración de pagos a cuenta del complemento de carrera que prevé el artículo 121.3.b) de esta ley.
+Se modifica por el art. 2.7 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+ Se añade por la disposición final 21.2 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Acceso directo al primer nivel de carrera horizontal para el personal interino.
+El personal funcionario interino que tenga esta condición antes del 20 de noviembre de 2015 y con posterioridad acceda a cualquier escala o cuerpo de personal funcionario de la Administración de la comunidad autónoma de las Illes Balears por haber superado las pruebas selectivas correspondientes a las ofertas públicas de ocupación de los años 2014, 2015, 2016 y 2017, y que acredite haber prestado cinco años de servicios de manera ininterrumpida a la Administración de la comunidad autónoma de las Illes Balears, podrá ser encuadrado en el nivel I de carrera profesional horizontal.
+En el supuesto de servicios prestados en diferentes grupos de titulación se computarán de forma ponderada. A efectos de determinar el número de días de servicios prestados, se aplicarán los criterios de ponderación de las tablas contenidas en la disposición transitoria primera del Acuerdo del Consejo de Gobierno de 8 de mayo de 2015 por el cual se ratifican los acuerdos del Comité Intercentros y de la Mesa Sectorial de Servicios Generales de 4 de mayo de 2015, mediante los cuales se desarrolla el punto 5.º, carrera profesional, del Acuerdo del Consejo del Gobierno de 24 de octubre de 2008 que ratifica el Acuerdo entre la Administración de la comunidad autónoma de las Illes Balears y las organizaciones sindicales CC.OO., CSI-CSIF, STEI-I, UGT y USO, mediante el cual se determinan los criterios y las líneas generales del proceso negociador para la adopción de acuerdos en materia de función pública, en el ámbito de la mesa sectorial de servicios generales y del personal laboral.
+Se añade por el art. 2.8 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Creación de la Mesa de Negociación de las Administraciones Públicas de las Illes Balears para Reducir la Temporalidad en el Empleo Público.
+Se crea una mesa de negociación específica para reducir la temporalidad en el empleo público para que, en su seno, de manera excepcional y transitoria, se lleve a cabo la negociación sindical preceptiva, limitada a la tramitación de los procesos de estabilización que regula la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público.
+La representación en la Mesa de Negociación de las Administraciones Públicas de las Illes Balears para Reducir la Temporalidad en el Empleo Público es unitaria, y este órgano está presidido por el consejero competente en materia de función pública de la comunidad autónoma de las Illes Balears o la persona en quien delegue la representación. Pueden formar parte representantes de las administraciones que se adhieran a esta Mesa de Negociación. Junto con el escrito de adhesión, se aportarán las actas de elecciones sindicales y el certificado de la representatividad de las organizaciones sindicales a efectos de negociación. En el caso de tener constituida una mesa general conjunta (personal laboral y personal funcionario), se acreditará la representatividad de esta mesa. En el caso de no tener constituida una mesa general conjunta, se acreditará la representatividad de la mesa de negociación de personal funcionario y del comité de empresa. En el caso de no tener constituida una mesa, se acreditará la representatividad a efectos de negociación en el ámbito de la administración adherida. También se puede adherir la Federación de Entidades Locales de las Illes Balears.
+Forman parte de esta Mesa las organizaciones sindicales más representativas en el ámbito estatal, las organizaciones sindicales más representativas de la comunidad autónoma, así como las organizaciones sindicales que hayan obtenido el 10 % o más de representatividad en las elecciones a los órganos de representación del personal funcionario y laboral del correspondiente ámbito de representación de las administraciones adheridas a la Mesa.
+En el momento de la constitución de la Mesa, se fijará la representatividad de acuerdo con las adhesiones presentadas, el número de miembros por organización sindical de acuerdo con la representatividad acreditada y la ponderación del voto de las organizaciones sindicales que forman parte de esta Mesa.
+Se exceptúa del ámbito de negociación de esta Mesa el personal docente, que tiene un marco normativo propio, y el personal estatutario, que tiene su propio ámbito de negociación por sus características y particularidades.
+Se modifica por el art. 39.12 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11
+ Tengase en cuenta que esta modificación produce efectos desde el 16 de junio de 2022, según establece la disposición final 16 de la citada Ley.
+ Se modifica por el art. 39.2 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-11
+ Tengase en cuenta que esta modificación produce efectos desde el 16 de junio de 2022, según establece la disposición final única del citado Decreto-ley.
+ Se añade por el art. 1.1 del Decreto-ley 2/2022, de 7 de febrero. Ref. BOE-A-2022-9387#ap
+
+### Disposición transitoria séptima [sic]
+
+Disposición transitoria séptima [sic]. Permanencia en el puesto de trabajo de las personas que logran la condición de personal funcionario de carrera por sistema de estabilización.
+(Suprimida).
+Se suprime por la disposición final 4.2 de la Ley 6/2023, de 16 de marzo. Ref. BOE-A-2023-13763#df-4
+ Se añade por la disposición final 1.26 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Comisión de Coordinación para la reducción de la temporalidad en el empleo público de las Illes Balears.
+1. Se crea la Comisión de Coordinación para la reducción de la temporalidad en el empleo público de las Illes Balears con el objetivo de coordinar la ejecución de los procesos de estabilización derivados de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público. En esta Comisión tienen que estar representadas: la Administración de la Comunidad Autónoma de las Illes Balears, las administraciones insulares, el Ayuntamiento de Palma, y el resto de administraciones locales a través de la Federación de Entidades Locales de las Illes Balears (FELIB).
+2. La Comisión estará integrada por siete representantes de la Administración de la Comunidad Autónoma de las Illes Balears designados por el Consejo de Gobierno, un representante de cada una de las administraciones insulares, un representante del Ayuntamiento de Palma y cuatro representantes de la Federación de Entidades Locales de las Illes Balears.
+La presidencia de la Comisión será ejercida por la consejera competente en materia de función pública.
+El secretario de la Comisión, que no tendrá el carácter de miembro de esta, será un funcionario del subgrupo A1 nombrado por la consejera competente en materia de función pública.
+Se añade por el art. 1.2 del Decreto-ley 2/2022, de 7 de febrero. Ref. BOE-A-2022-9387#ap
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Previsiones específicas para la acreditación de la capacitación lingüística en los procedimientos de movilidad.
+1. El personal estatutario fijo de gestión y servicios que no proceda del Servicio de Salud de las Illes Balears y que participe en un procedimiento de movilidad, si no puede acreditar el nivel de conocimientos de la lengua catalana correspondiente a la plaza o puesto de trabajo al que opte, quedará obligado a obtenerlo y acreditarlo en un plazo máximo de dos años a contar a partir de la fecha de ocupación de la plaza o puesto de trabajo en el Servicio de Salud de las Illes Balears.
+2. Igualmente, el personal estatutario de gestión y servicios que se vea obligado a participar en un proceso de movilidad, por encontrarse en situación de reingreso provisional, si no puede acreditar el nivel mínimo de conocimientos de la lengua catalana que se regula en esta ley, quedará obligado a obtenerlo y acreditarlo en un plazo máximo de dos años a contar a partir de la fecha en que ocupe la plaza o puesto de trabajo en el Servicio de Salud de las Illes Balears.
+Se modifica por la disposición final 17.8 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-17
+ Se modifica por el art. 39.13 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a3-11, y por el art. 7.7 del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicados, respectivamente en los BOIB núms. 162 y 163, el día 13 de diciembre de 2024.
+ Se añade por la disposición final 2.5 del Decreto-ley 5/2023, de 28 de agosto. Ref. BOE-A-2023-24417
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 2/1989, de 22 de febrero, de la función pública de la Comunidad Autónoma de las Illes Balears, y las normas de igual o inferior rango que se opongan a la presente ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Gobierno de las Illes Balears para que dicte las disposiciones necesarias para el desarrollo de la presente ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Gobierno de las Illes Balears para que, una vez que entre en vigor el Estatuto Básico del Empleado Público, lleve a cabo las modificaciones que sean necesarias para adecuar el contenido de la presente ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente ley entra en vigor tres meses después de su publicación íntegra en el Butlletí Oficial de les Illes Balears.
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 27 de marzo de 2007.–El Presidente, Jaume Matas Palou.–El Consejero de Interior, José M.ª Rodríguez Barberá.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que se autoriza al Gobierno de las Illes Balears para que una vez que entre en vigor el Estatuto Básico del Empleado Público, lleve a cabo las modificaciones que sean necesarias, por norma publicada únicamente en el BOIB, para adecuar el contenido de la presente ley, según establece la disposición final 2.
+ Véanse las disposiciones transitorias de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177, en cuanto a los requisitos de conocimiento de lengua catalana.
+ Téngase en cuenta que se suspende la vigencia y aplicación de los preceptos de la presente Ley, con efectos de 16 de junio de 2022, de manera excepcional y transitoria, limitada a la tramitación de los procesos de estabilización que se regulan en el Decreto-ley 6/2022, de 13 de junio, y únicamente en aquello que se oponga a los procedimientos que se establecen, según determina la disposición transitoria 4 del mismo. Ref. BOE-A-2022-13798#dt-4

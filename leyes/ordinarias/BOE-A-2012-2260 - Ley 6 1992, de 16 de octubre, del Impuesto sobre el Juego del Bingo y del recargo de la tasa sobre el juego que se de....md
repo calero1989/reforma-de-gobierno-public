@@ -1,0 +1,145 @@
+# Ley 6/1992, de 16 de octubre, del Impuesto sobre el Juego del Bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+- Identificador BOE: `BOE-A-2012-2260`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-2260
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos de Euskadi, que el Parlamento Vasco ha aprobado la siguiente Ley 6/1992, de 16 de octubre, del Impuesto sobre el Juego del Bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+EXPOSICIÓN DE MOTIVOS
+La Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía del País Vasco, así como la Ley 27/1983, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos, y el Decreto Legislativo 1/1988, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre Principios Ordenadores de la Hacienda General del País Vasco, conceden a la Hacienda General de la Comunidad Autónoma del País Vasco el poder de establecer sus propios impuestos siempre que no recaigan sobre hechos imponibles gravados por el Estado, así como el de establecer recargos sobre la mayor parte de los tributos concertados, entre los que se encuentran las tasas sobre el juego.
+Tanto para la creación de tributos como para el establecimiento de recargos se requiere la aprobación de una ley.
+Dentro del ámbito financiero, tanto de la Comunidad Económica Europea como estatal, en el que el País Vasco se halla inmerso, se hace cada vez más patente una continua y progresiva evolución que se concreta en la constante disminución de la importancia de la imposición personal y directa, a la vez que, de forma inversa y paralela, adquiere mayor relevancia la imposición indirecta y específica. La aprobación de una ley como la presente está en consonancia con los esquemas fiscales de los Estados miembros de la Comunidad Económica Europea. La ley no incide en ningún impuesto troncal del sistema tributario, sino que supone el reforzamiento de la imposición indirecta y, en particular, la de una actividad específica como es la del juego.
+La política presupuestaria derivada de los procesos de integración en la Comunidad Económica Europea demanda, junto a la necesidad de mantener unos niveles de gasto público acordes con las necesidades y posibilidades de la Comunidad, establecer nuevas fuentes de ingresos que, no incidiendo negativamente en sectores productivos básicos de la economía, contribuyan a controlar el déficit presupuestario dentro de unos límites adecuados.
+Asimismo, se ha tratado de conjugar el principio recaudatorio y el menor coste de gestión tributaria sin alterar la situación económica general.
+Atendiendo a las consideraciones expuestas, la presente ley establece un impuesto sobre el juego del bingo así como un recargo sobre la tasa que recae sobre el juego que se desarrolla a través de las máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+## CAPÍTULO I
+
+Impuesto sobre el juego del bingo
+
+### Artículo 1
+
+Artículo 1. Naturaleza, objeto y ámbito de aplicación.
+El impuesto sobre el juego del bingo es un tributo indirecto que grava la práctica de este juego en la Comunidad Autónoma del País Vasco.
+
+### Artículo 2
+
+Artículo 2. Hecho imponible.
+Constituye el hecho imponible del impuesto la participación en el juego del bingo.
+
+### Artículo 3
+
+Artículo 3. Sujeto pasivo.
+1. Son sujetos pasivos contribuyentes del impuesto las personas que adquieran los cartones al objeto de participar en el juego del bingo.
+2. Son sujetos pasivos sustitutos del contribuyente las personas o entidades titulares de autorizaciones administrativas para explotar el juego del bingo y, en su caso, las sociedades de servicios que tengan a su cargo la gestión del mismo.
+En defecto de autorización administrativa o permiso de explotación, tendrán la consideración de sujetos pasivos sustitutos del contribuyente las personas o entidades que organicen o celebren el juego.
+Serán responsables solidarios del impuesto los propietarios y empresarios de los locales donde se celebre el juego.
+
+### Artículo 4
+
+Artículo 4. Devengo.
+El devengo del impuesto se produce en el momento de adquisición de los cartones aptos para la práctica del juego del bingo por los sujetos pasivos contribuyentes.
+
+### Artículo 5
+
+Artículo 5. Base imponible.
+La base imponible del impuesto está constituida por el importe del valor facial de los cartones adquiridos.
+
+### Artículo 6
+
+Artículo 6. Base liquidable.
+La base liquidable coincidirá con la base imponible.
+
+### Artículo 7
+
+Artículo 7. Tipo de gravamen.
+El tipo de gravamen del impuesto será el 3,6%.
+Se modifica, con efectos desde el 1 de marzo de 2011, por la disposición final 5 de la Ley 5/2010, de 23 de diciembre. Ref. BOE-A-2011-2619
+ Se modifica por la disposición final 1.3 de la Ley 1/1995, de 12 de abril. Ref. BOE-A-2012-1243
+
+### Artículo 8
+
+Artículo 8. Liquidación y pago.
+El sujeto pasivo sustituto del contribuyente liquidará el impuesto y procederá al pago de la deuda tributaria resultante simultáneamente a la tasa sobre el juego del bingo, sin perjuicio del derecho a la devolución de la misma conforme a lo dispuesto en el artículo 16 de esta ley.
+
+## CAPÍTULO II
+
+Recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar
+
+### Artículo 9
+
+Artículo 9. Concepto y ámbito de aplicación.
+Se establece, en el ámbito de la Comunidad Autónoma del País Vasco, un recargo sobre la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización del mismo.
+
+### Artículo 10
+
+Artículo 10. Devengo.
+El recargo se devengará en el mismo momento del devengo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+### Artículo 11
+
+Artículo 11. Sujeto pasivo.
+1. Son sujetos pasivos del recargo las personas o entidades que lo sean a los efectos de la correspondiente tasa sobre el juego, y en concreto las personas o entidades titulares de autorizaciones administrativas para explotar el juego mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+2. Serán responsables solidarios del recargo los propietarios y empresarios de los locales donde se instalen.
+
+### Artículo 12
+
+Artículo 12. Base imponible.
+Constituye la base imponible del recargo el importe de la cuota de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+### Artículo 13
+
+Artículo 13. Tipo de gravamen.
+El tipo de gravamen es el 12 %.
+Se modifica por la disposición final 3 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
+ Se modifica por la disposición final 1.2 de la Ley 6/1995, de 29 de diciembre. Ref. BOE-A-2012-1248
+ Se modifica por la disposición final 1.3 de la Ley 1/1995, de 12 de abril. Ref. BOE-A-2012-1243
+
+### Artículo 14
+
+Artículo 14. Liquidación y pago.
+El sujeto pasivo liquidará el recargo y procederá al pago de la deuda tributaria resultante simultáneamente a la correspondiente tasa sobre el juego, sin perjuicio del derecho a la devolución de la misma conforme a lo dispuesto en el artículo 16 de esta ley.
+
+## CAPÍTULO III
+
+Disposiciones comunes
+
+### Artículo 15
+
+Artículo 15. Gestión.
+1. Corresponderá al Departamento de Hacienda y Finanzas del Gobierno Vasco la gestión, liquidación, inspección, revisión y recaudación del impuesto sobre el juego del bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+2. El Departamento de Hacienda y Finanzas del Gobierno Vasco, previa autorización del Consejo de Gobierno, y cada una de las Diputaciones Forales podrán acordar, con el alcance y contenido fijados en el convenio o convenios de prestación de servicios que al efecto se suscriban, que las competencias mencionadas en el apartado anterior se ejerzan por dichas Diputaciones Forales en sus respectivos Territorios Históricos. Estos convenios se publicarán en el Boletín Oficial de su correspondiente Territorio Histórico y en el Boletín Oficial del País Vasco, surtiendo efectos a partir de la publicación en este último.
+
+### Artículo 16
+
+Artículo 16. Devoluciones.
+Se efectuará la devolución de los importes del impuesto sobre el juego del bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar en los mismos casos en que aquélla proceda según la legislación vigente en materia de tasas sobre el juego.
+
+### Artículo 17
+
+Artículo 17. Sanciones.
+El régimen sancionador aplicable será el mismo que el vigente en cada momento para las tasas sobre el juego del bingo y sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación a la ley de Presupuestos Generales.
+La ley de Presupuestos Generales de la Comunidad Autónoma de Euskadi podrá modificar los tipos de gravamen y los aspectos procedimentales y de gestión del impuesto sobre el juego del bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.
+
+### Disposición final segunda
+
+Disposición final segunda. Habilitación normativa.
+Se autoriza al Consejo de Gobierno para que a propuesta del Consejero de Hacienda y Finanzas dicte las disposiciones necesarias para el desarrollo y ejecución de cuanto se previene en esta ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el 1 de enero de 1993.
+
+### [firma]
+
+Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades, que la guarden y hagan guardarla.
+Palacio de Ajuria-Enea, 27 de octubre de 1992.–El Lehendakari, José Antonio Ardanza Garro.

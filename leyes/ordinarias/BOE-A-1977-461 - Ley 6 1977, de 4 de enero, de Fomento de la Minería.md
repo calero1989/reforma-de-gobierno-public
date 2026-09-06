@@ -1,0 +1,452 @@
+# Ley 6/1977, de 4 de enero, de Fomento de la Minería.
+
+- Identificador BOE: `BOE-A-1977-461`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1977-461
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Incluye la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 1977. Ref. BOE-A-1977-3761
+La producción industrial, factor determinante del desarrollo económico, reclama para ser eficiente un suministro adecuado de materias primas que elimine los riesgos de estrangulamiento y garantice la utilización óptima de la capacidad productiva nacional. Las alteraciones producidas recientemente en el mercado mundial de tales materias, y en especial de las de origen mineral, ha llevado a los países industrializados a elaborar programas de actuación tendentes a conseguir la regularidad en el abastecimiento de las mismas, de suerte que permita el normal funcionamiento de su sistema industrial.
+Para nuestro país, que depende del exterior en más del cincuenta por ciento del aprovisionamiento de materias primas minerales, aun sin incluir los hidrocarburos, la elaboración de Planes de Abastecimiento se convirtió en necesidad inaplazable, por lo que, a propuesta del Ministerio de Industria, el Gobierno aprobó el Plan Energético Nacional, el Plan Nacional de Exploración de Uranio y el Plan Nacional de Abastecimiento de Materias Primas Minerales, conducentes todos ellos a garantizar, en cuanto sea posible, el aprovisionamiento de dichos productos a la industria española mediante la promoción y desarrollo de actividades mineras dentro del territorio nacional y, complementariamente, fuera del mismo.
+Los aspectos peculiares que caracterizan al sector de la minería, tanto para el capital, por el mayor riesgo que comporta el período de maduración del mismo y la desproporción entre el inmovilizado y el valor de la producción, como para el trabajo, por la singular naturaleza de la actividad del minero y la forzosa vinculación de su residencia a zonas territorialmente determinadas, hacen imprescindible aplicar a dicho sector un tratamiento especial dentro de los regímenes generales establecidos para la industria.
+Nace así, como complemento indispensable de la vigente Ley de Minas, la Ley de Fomento de la Minería, cuyo texto se divide en tres títulos:
+El Título I, que contiene las Disposiciones Generales, establece como novedades importantes, por una parte, la obligatoriedad de la revisión, al menos cada dos años, del Plan Nacional de Abastecimiento de Materias Primas Minerales, con la previsión de objetivos y programas sectoriales a realizar para la búsqueda y explotación de los recursos minerales que sean declarados prioritarios mediante actuaciones tanto en el interior como en el exterior, deslindando la parte de las mismas que corresponda realizar al Estado, de las que haya de acometer la iniciativa privada.
+Por otra parte, se procede a organizar el Registro Minero, con carácter de archivo público permanentemente actualizado de derechos mineros y como medio indispensable para la reordenación catastral implícitamente prevista en la Ley de Minas vigente.
+Como instrumento de gran eficacia para asegurar la regularidad en los aprovisionamientos de materias primas minerales a la industria nacional, se prevé la creación por el Estado de fondos de almacenamiento de estos productos con la participación, en su caso, de las Empresas privadas.
+El Título II está destinado a regular la comercialización y el abastecimiento de los productos minerales. Los preceptos contenidos en el mismo tienen como fin sustancial asegurar la adecuada estabilidad del sector minero nacional y garantizar el abastecimiento de materias primas minerales a las industrias básicas, de conformidad con las directrices contenidas en el Plan Nacional correspondiente.
+Especial atención merece la regulación del comercio exterior de recursos minerales, siendo propósito de la Ley asegurar la importación de aquellos que no se obtengan en nuestro país a precios competitivos, o los que permitan una mayor utilización de los nacionales de baja ley mediante mezclas con los anteriores. Otro aspecto tratado en este Título es el relativo a las condiciones que deben reunir las materias primas minerales insuficientemente elaboradas para ser exportadas, estableciéndose las técnicas de control necesarias para que en todos los casos las transacciones se realicen con el mayor valor añadido posible y en adecuadas condiciones de elaboración y tratamiento.
+Se regulan también las acciones en el exterior, distinguiéndose entre las actuaciones que responden a un impulso exclusivo de la iniciativa privada y aquellas que surgen como consecuencia de la celebración de Acuerdos Internacionales, considerándose las distintas hipótesis a través de las cuales pueden instrumentarse tales actividades: mediante la participación directa del Estado o de sus Organismos autónomos, así como de las Empresas Nacionales o Entidades privadas.
+El régimen financiero establecido en el Título III se encuentra ampliamente justificado por las acusadas peculiaridades del sector minero, su actual descapitalización y la imperiosa necesidad de desarrollar al máximo las actividades del mismo. A tal efecto, se prevé el otorgamiento de subvenciones para ciertos fines e igualmente se establece una línea especial de crédito oficial en condiciones singularmente favorables para determinadas actividades relacionadas con las sustancias declaradas prioritarias. En este sentido también se dispone que puedan tomarse como garantía de tales operaciones de crédito los derechos mineros correspondientes a yacimientos evaluados y racionalmente explotables.
+En el régimen tributario, regulado en el capítulo II del mismo Título, se establecen dos niveles básicos, referidos el primero a la generalidad de las actividades mineras, y el segundo, de tratamiento más favorable, a las sustancias y actividades declaradas prioritarias en los Planes Nacionales de Abastecimiento de Materias Primas Minerales.
+Se regula dentro de nuestro sistema tributario la figura del factor de agotamiento, que favorecerá la investigación minera y la puesta en explotación de yacimientos, permitiendo, por lo tanto, sustituir los criaderos agotados por otros mediante el descubrimiento y removilización de nuevas reservas. En la generalidad de los casos la dotación a la cuenta correspondiente podrá hacerse por deducción de una parte de la base imponible del Impuesto sobre Sociedades o del Industrial, Cuota de Beneficios. Cuando se trate de materias primas declaradas prioritarias, podrá optar la Empresa por practicar la deducción sobre un porcentaje del valor de los minerales vendibles, lo que configura un régimen decididamente estimulante. Por otra parte se reestructura y actualiza el canon de superficie de minas, tasa tradicional de la industria minera, introduciéndose como novedad las tarifas aplicables a los permisos de exploración.
+El cúmulo de nuevas obligaciones y responsabilidades a que tanto esta Ley como la de Minas implican para la Administración, obliga a dotarla de los instrumentos necesarios. En consecuencia, se dispone la creación de una Comisión Interministerial asesora para la elaboración y revisión del Plan Nacional citado, así como la transformación del Instituto Geológico y Minero de España en Organismo autónomo dependiente del Ministerio de Industria, declarándose también de alto interés nacional la creación de Empresas Nacionales para los fines previstos en las actuaciones derivadas de Acuerdos internacionales.
+Punto fundamental para el fomento de la minería lo constituye el conjunto de normas que dignifiquen y hagan atractivo el trabajo en este sector, peculiar entre los demás por cuanto la localización de la actividad viene obligada por la situación del yacimiento y también por las condiciones muy singulares en las que se desenvuelven los trabajos. Por ello, y en atención también a las últimas tendencias observadas en el sector minero de diversos países industrializados, la Ley contiene sendos mandatos al Gobierno para que, en plazo no superior a un año, promulgue un Estatuto del Minero regulador de su actividad laboral y para que dicte las medidas necesarias en orden a dignificar y mejorar su hábitat.
+En su virtud y de conformidad con la Ley aprobada por las Cortes, vengo en sancionar:
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo primero
+
+Artículo primero.
+Uno. La presente Ley tiene por objeto promover y desarrollar, dentro y fuera del territorio nacional, la exploración, investigación, explotación y beneficios mineros, con el fin de procurar el abastecimiento de materias primas minerales a la industria española.
+Dos. A efectos de la presente Ley se entenderá por materias primas minerales los productos minerales, cualquiera que sea su grado de elaboración, incluidos los metales, hasta tanto no sufran su primera transformación en España.
+
+### Artículo segundo
+
+Artículo segundo.
+Uno. La presente Ley será aplicable a las actividades de exploración e investigación mineras, aprovechamiento de yacimientos de origen natural o artificial y otros recursos geológicos, así como al tratamiento, beneficio o primera transformación de materias primas minerales, quedando excluidas las actividades consistentes en la mera prestación de servicios para la realización o desarrollo de las mismas.
+Dos. No obstante lo dispuesto en el apartado anterior, quedan excluidas del ámbito de aplicación de la presente Ley las aguas, salvo las minerales y termales a que hace referencia la Ley de Minas, y la exploración y explotación de hidrocarburos líquidos y gaseosos, que seguirán regulándose por las disposiciones que les sean de aplicación.
+
+### Artículo tercero
+
+Artículo tercero.
+Uno. El Ministerio de Industria, oídos los sectores productores y transformadores interesados, elaborará el Plan Nacional de Abastecimiento de Materias Primas Minerales, que será elevado al Gobierno para su aprobación y revisión, al menos, cada dos años.
+La programación de las inversiones públicas y subvenciones correspondientes a dicho Plan deberá adecuarse a la planificación económica y social del país.
+Dos. El Plan Nacional de Abastecimiento determinará:
+a) Las diferentes materias primas minerales y, en relación con ellas, las distintas actividades que gozarán, durante el período que para cada una de ellas se establezca, de la calificación de prioritarias;
+b) Las directrices de actuación, tanto dentro como fuera del territorio nacional, en el campo de la actividad minera, a las cuales se ajustará la acción del Estado a que se refiere el artículo quinto de la Ley veintidós/mil novecientos setenta y tres;
+c) Las inversiones necesarias en el sector minero para desarrollar los programas basados en las directrices de actuación;
+d) La parte de estos programas a realizar por el Estado, bien directamente o a través de Entidades Locales, Organismos autónomos, Empresas Nacionales o privadas.
+Tres. La calificación de una materia prima mineral como prioritaria en el Plan Nacional de Abastecimiento implicará:
+a) Su declaración de interés nacional, durante el tiempo que para cada una se haya establecido, a efectos de lo dispuesto en la Ley de Minas;
+b) La confección de un programa sectorial en el que se fijen los objetivos mínimos de abastecimiento interior y exterior que se pretende asegurar.
+Cuatro. Dichos programas sectoriales contendrán igualmente los criterios de aplicación de las medidas previstas en la presente Ley para el logro de los objetivos propuestos.
+
+### Artículo cuarto
+
+Artículo cuarto.
+En el Ministerio de Industria existirá el Registro Minero, que consistirá en un archivo público permanentemente actualizado de todos los derechos mineros existentes en el territorio nacional, mar territorial y plataforma continental, con su mapa correspondiente.
+
+### Artículo quinto
+
+Artículo quinto.
+Uno. El Gobierno, a propuesta conjunta de los Ministerios de Hacienda e Industria, por exigencias de interés nacional, podrá acordar la creación de fondos de almacenamiento de determinadas materias primas minerales, si lo considera necesario para asegurar el adecuado abastecimiento a la industria nacional durante el plazo que se señale.
+Dos. Se autoriza al Gobierno para acordar la organización que estime más adecuada para la gestión de los fondos a que se refiere el apartado anterior, incluso mediante la creación de Entidades con personalidad jurídica propia y patrimonio independiente y la participación, en su caso, de la iniciativa empresarial.
+
+## TÍTULO II
+
+Comercialización y abastecimiento de las materias primas minerales
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo sexto
+
+Artículo sexto.
+Uno. El Gobierno, a propuesta del Ministerio de Industria, podrá declarar de interés estratégico determinadas materias primas minerales, excluidos los metales, cuando así lo exijan las necesidades de la economía o de la defensa nacional. En tal caso, a propuesta conjunta de los Ministerios de Industria y de Comercio, podrá acordarse la regulación y control de los precios de las mismas, fijando los que habrán de observarse en las operaciones comerciales que se realicen sobre ellas.
+Dos. El sistema de regulación de precios que se adopte se basará en alguno de los criterios siguientes:
+a) Utilizar como base el coste de las materias primas minerales de importación de análoga composición y comportamiento en el proceso metalúrgico, situadas en planta de tratamiento, beneficio o transformación del consumidor nacional, o los precios internacionales de mercado de las referidas materias primas nacionales.
+b) Señalar a las materias primas minerales nacionales un precio mínimo a partir del cual la curva de sus precios siga la de las cotizaciones internacionales, pudiendo introducirse un coeficiente de adaptación.
+c) Fijar precios que, por causa de interés nacional, puedan ser distintos de los internacionales.
+Tres. Si por aplicación de los criterios del apartado dos resultarán precios superiores o inferiores a los internacionales, se establecerán en ambos casos las compensaciones correspondientes.
+Cuatro. Las infracciones al sistema de precios que se establezca se sancionarán por el Ministro de Industria de oficio o a instancia de parte, con multa del tanto al duplo de la cantidad que por exceso o defecto resulte defraudada, sin perjuicio de las demás responsabilidades a que hubiere lugar.
+Para graduar la cuantía de la sanción se atenderá a la importancia económica y gravedad de la infracción derivada de las circunstancias que concurran en su comisión.
+
+### Artículo séptimo
+
+Artículo séptimo.
+El Ministerio de Comercio se ajustará en la tramitación de las exportaciones de materias primas minerales, incluidas las licencias de tráfico de perfeccionamiento, a las previsiones del Plan Nacional de Abastecimiento de Materias Primas Minerales, del Plan Energético Nacional y del Plan Nacional de Exploración de Uranio.
+
+### Artículo octavo
+
+Artículo octavo.
+El Gobierno, a propuesta conjunta de los Ministerios de Industria y Comercio, dictará, de acuerdo con lo prescrito por la Ley veintidós/mil novecientos setenta y tres, las normas sobre el grado mínimo de elaboración y tratamiento que deberán alcanzar determinadas materias primas minerales para obtener la correspondiente licencia de exportación. No podrán autorizarse exportaciones de materias primas que no cumplan las citadas normas.
+
+### Artículo noveno
+
+Artículo noveno.
+Uno. El Ministerio de Comercio, previo informe del Ministerio de Industria, podrá proceder, en relación con aquellas sustancias minerales de las que existan excedentes, a la creación de sectores de exportación, aun cuando las Empresas o grupos de ellas no alcancen los porcentajes establecidos en la legislación vigente.
+Dos. Procederá igualmente la creación de sectores de exportación, con la amplitud prevista en el apartado anterior, en relación con las materias primas minerales que no encuentren consumidores en el mercado nacional por razón de su calidad o comportamiento en plantas de tratamiento, beneficio o primera transformación.
+
+### Artículo diez
+
+Artículo diez.
+Uno. El Ministerio de Comercio se ajustará en la tramitación de las importaciones de materias primas minerales, incluidas las de tráfico de perfeccionamiento, a las previsiones del Plan Nacional de Abastecimiento, del Plan Energético Nacional y del Plan Nacional de Exploración de Uranio.
+Dos. Las importaciones que no se ajusten en cantidad, calidad o precio a los mencionados Planes, requerirán para su autorización el informe previo del Ministerio de Industria, quien lo emitirá en sentido favorable cuando concurra alguna de las circunstancias siguientes:
+a) Inexistencia de materia prima adecuada dentro del territorio nacional o imposibilidad de adquirirla en el país;
+b) Razones de urgencia o de interés nacional que justifiquen la necesidad de la importación;
+c) Que la importación de materias primas extranjeras favorezca el consumo de las de producción nacional.
+
+## CAPÍTULO II
+
+Actuaciones en el exterior
+
+## Sección primera
+
+Sección primera. Régimen general
+
+### Artículo once
+
+Artículo once.
+Las inversiones españolas en el extranjero para la exploración e investigación mineras, el aprovechamiento de yacimientos minerales y demás recursos geológicos y el tratamiento, beneficio o primera transformación de materias primas minerales, estarán sujetas, en todo caso, al régimen legal sobre inversiones directas en el extranjero vigente en cada momento.
+
+### Artículo doce
+
+Artículo doce.
+Uno. La ejecución de los Programas de acción en el exterior se llevará a cabo:
+a) Al amparo de Acuerdos entre Estados que regulen la actuación estatal o privada en los respectivos territorios; a este efecto, los Ministerios de Asuntos Exteriores, Hacienda, Industria y Comercio coordinarán sus acciones con vistas a concertar acuerdos con otros Estados que encuadren dicha actuación.
+b) Directamente por cualquier Empresa española cuya acción minera en el extranjero se ajuste a las directrices de los expresados Programas.
+Dos. En los créditos presupuestarios que se consignen para la realización de los Planes de Abastecimiento de Materias Primas Minerales se especificarán las cantidades para la ejecución de los Programas a que se refiere el apartado a), en lo que corresponda a la acción estatal.
+
+## Sección segunda
+
+Sección segunda. Actuaciones derivadas de Acuerdos Internacionales en los que participe el Estado Español
+
+### Artículo trece
+
+Artículo trece.
+Uno. La participación española de carácter estatal en actividades mineras derivadas de los acuerdos a que se refiere la letra a) del artículo anterior, podrá llevarse a cabo por el Estado: directamente; a través de sus Organismos autónomos o mediante adjudicación de los derechos estatales a Empresas nacionales o privadas.
+Dos. Mientras el Estado Español no haya adjudicado los derechos mineros derivados de un determinado Acuerdo, el Gobierno, de conformidad con el mismo, y teniendo en cuenta las actividades realizadas y la naturaleza de las acciones a desarrollar, podrá decidir, a propuesta del Ministerio de Industria y previo informe de los de Hacienda y Asuntos Exteriores, si en lo sucesivo la participación española se verifica:
+a) Por el Estado, directamente o a través de sus organismos autónomos.
+b) Por adjudicación a una Empresa Nacional, si la naturaleza del Acuerdo así lo exige.
+c) Mediante adjudicación por concurso público entre Empresas españolas y extranjeras o asociaciones de éstas.
+d) Por consorcio del Estado con otras Entidades.
+Tres. A partir de la adjudicación, el beneficiario de la misma tendrá derecho a participar en las fases siguientes, ya sean de exploración, investigación, explotación, beneficio o primera transformación, según las condiciones determinadas en la adjudicación.
+
+### Artículo catorce
+
+Artículo catorce.
+La transmisión de la totalidad o parte de las adjudicaciones a que se refiere el artículo anterior, habrá de ser autorizada por el Ministerio de Industria, sin perjuicio de la autorización administrativa que sea necesaria para transmitir participaciones sociales en las Empresas o Asociaciones de Empresas adjudicatarias.
+
+### Artículo quince
+
+Artículo quince.
+Las actividades derivadas de los Acuerdos serán supervisadas en todo caso por el Ministerio de Industria, a través de las Direcciones Generales competentes.
+
+### Artículo dieciséis
+
+Artículo dieciséis.
+Cuando el Estado desarrolle directamente las actividades mineras, el Gobierno, a propuesta conjunta de los Ministerios de Asuntos Exteriores e Industria, y previo informe de los de Hacienda y Comercio, y de conformidad con el Acuerdo existente, podrá contratar la mera ejecución de los trabajos programados, sin que ello implique cesión de los derechos a que se refiere el número dos del artículo trece, de alguna de las formas siguientes:
+a) Por encargo directo a un Organismo autónomo o Empresa Nacional.
+b) Por concurso público entre Empresas o Asociaciones de éstas.
+
+### Artículo diecisiete
+
+Artículo diecisiete.
+El Gobierno dictará, a propuesta del Ministerio de Industria, las normas reguladoras de las adjudicaciones y de los contratos de ejecución previstos en este Título.
+
+## TÍTULO III
+
+Régimen financiero y tributario
+
+## CAPÍTULO I
+
+Régimen financiero
+
+### Artículo dieciocho
+
+Artículo dieciocho.
+Uno. Con el fin de promover y desarrollar el aprovechamiento de materias primas minerales podrá concederse a las Empresas españolas subvenciones de capital y créditos en la forma prevista en la presente Ley.
+Dos. Los créditos y subvenciones se otorgarán preferentemente para las inversiones destinadas a los siguientes fines:
+a) Exploración, investigación y puesta en explotación de yacimientos y demás recursos geológicos;
+b) Mejora de las explotaciones y de la concentración o beneficio de las materias primas minerales;
+c) Aprovechamiento de yacimientos de origen no natural, de energía geotérmica o de otras fuentes energéticas;
+d) Localización y puesta en explotación de estructuras subterráneas;
+e) Ampliación de trabajos de investigación o explotación cuando éstos hayan sido ordenados por la Administración en cumplimiento de lo dispuesto en la Ley de Minas;
+f) Trabajos relacionados con la protección del medio ambiente, impuestos por la Administración;
+g) Reestructuración de las explotaciones;
+h) Acciones en el exterior en consonancia con las directrices de los Planes Nacionales de Abastecimiento;
+i) Formación y puesta en explotación de cotos mineros;
+j) Construcción de nuevas viviendas y otros servicios sociales para los trabajadores.
+Tres. Igualmente podrán concederse:
+a) Créditos para financiación de contratos de suministro a largo plazo de materias primas minerales;
+b) Subvenciones para el establecimiento de las compensaciones que se prevén en el artículo sexto y para la compensación de gastos de transporte de materias primas minerales.
+
+### Artículo diecinueve
+
+Artículo diecinueve.
+En cada caso se fijará la cuantía, forma y condiciones de los créditos y subvenciones, así como el plazo máximo de realización de las inversiones para las que se otorguen. La entrega de las cantidades correspondientes quedará condicionada a la ejecución de las distintas fases del desarrollo de los trabajos programados.
+
+### Artículo veinte
+
+Artículo veinte.
+Uno. El Ministro de Industria y Energía, previo informe favorable del Ministerio de Economía y Hacienda, y dentro de las cantidades que para esta finalidad se les asignen en los Presupuestos Generales del Estado, y sin perjuicio de lo que establezcan las Leyes de Presupuestos sobre procedimientos de gestión presupuestaria, podrá otorgar.
+a) Subvenciones de capital a las Empresas mineras hasta el 20 por 100 de la inversión realizada.
+b) Subvenciones a las mismas o, en su caso, a las Empresas transformadoras, hasta el límite que corresponda, en el supuesto previsto por el apartado b) del número 3 del artículo 18.
+Dos. Las subvenciones otorgadas no podrán exceder de la cantidad que cada año figure en los Presupuestos Generales del Estado, dentro de la sección correspondiente del Ministerio de Industria.
+Se modifica el apartado 1 por la disposición adicional 12 de la Ley 33/1987, de 23 de diciembre. Ref. BOE-A-1987-28404
+
+### Artículo veintiuno
+
+Artículo veintiuno.
+Uno. Cuando las subvenciones se destinen a actividades de exploración o investigación minera, deberán reintegrarse las cantidades recibidas si se alcanzan resultados que permitan el aprovechamiento racional de los yacimientos investigados. Las condiciones del reintegro se establecerán por el Ministerio de Industria con la aprobación del proyecto de explotación, sin que el plazo de devolución pueda en ningún caso ser superior a veinte años ni inferior a cinco años.
+Dos. Si la exploración o la investigación no alcanzase los resultados previstos, la Empresa podrá saldar la cuenta de subvención, siempre con abono a la de dicha exploración o investigación, cuando cumpla las condiciones siguientes:
+a) Que los trabajos se hayan ajustado a las técnicas y programas aprobados por el Ministerio de Industria y éste considere conforme la realización de los mismos y la información facilitada;
+b) Que la Empresa haya renunciado previamente a los derechos que pudiera ostentar sobre el área explorada o investigada.
+
+### Artículo veintidós
+
+Artículo veintidós.
+El Gobierno, a propuesta conjunta de los Ministerios de Hacienda e Industria, y de acuerdo con lo dispuesto en la Ley trece/mil novecientos setenta y uno, sobre Organización y Régimen del Crédito Oficial, fijará una línea especial de crédito a través de la cual se procederá a la financiación de las actividades objeto de la presente Ley, asignándose anualmente a esta línea la dotación adecuada.
+
+### Artículo veintitrés
+
+Artículo veintitrés.
+Con las solicitudes de crédito deberá presentarse el proyecto a desarrollar con el informe favorable del Ministerio de Industria, el cual apreciará, entre otros aspectos, si el proyecto se ajusta, según el caso, a los objetivos señalados en los Planes Nacionales o a lo dispuesto en materia de áreas de expansión industrial, sectores mineros preferentes, zonas mineras de preferente localización industrial o cotos mineros.
+
+### Artículo veinticuatro
+
+Artículo veinticuatro.
+El Gobierno fijará, a propuesta del Ministerio de Industria, las condiciones que deben reunir los derechos mineros, una vez evaluados los recursos comprendidos en ellos, para que puedan ser tomados como garantía de operaciones de crédito oficial.
+
+### Artículo veinticinco
+
+Artículo veinticinco.
+El Gobierno, a propuesta del Ministerio de Industria podrá, en el supuesto de retraso injustificado en la iniciación de los trabajos o de incumplimiento de las condiciones estipuladas en el otorgamiento, decretar la pérdida o reducción de los créditos y subvenciones concedidos.
+
+## CAPÍTULO II
+
+Régimen tributario
+
+## Sección primera
+
+Sección primera. Beneficios fiscales
+
+### Artículo veintiséis
+
+Artículo veintiséis.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo veintisiete
+
+Artículo veintisiete.
+Uno. Las personas físicas o jurídicas gozarán de los beneficios siguientes en la parte de su actividad correspondiente a recursos declarados prioritarios en el Plan Nacional de Abastecimiento de Materias Primas Minerales y dentro del ámbito de su declaración:
+Reducción de hasta un noventa y cinco por ciento de los siguientes impuestos:
+a) Impuesto General sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados. Se reducirá la base en los términos establecidos en el número tres del artículo sesenta y seis del texto refundido aprobado por Decreto mil dieciocho/mil novecientos sesenta y siete, de seis de abril.
+b) Derechos arancelarios, Impuesto General sobre el Tráfico de las Empresas e Impuesto de Compensación de Gravámenes Interiores que graven la importación de bienes de equipo y utillaje, cuando no se fabliquen en España. Este beneficio podrá hacerse extensivo a los materiales y productos que, no produciéndose en España, se importen para su incorporación a bienes de equipo que se fabriquen en España. La importación requerirá certificado del Ministerio de Industria acreditativo de que dichos bienes no se producen en España y de que los proyectos técnicos que exigen la importación de los mismos no pueden sustituirse, en condiciones apropiadas de economía y tiempo, por otros en que la participación de elementos extranjeros sea menor.
+c) Impuesto General sobre las Rentas del Capital que, según lo establecido en el Decreto-ley de diecinueve de octubre de mil novecientos setenta y uno, grave los rendimientos de los empréstitos que emitan las Empresas españolas y de los préstamos que las mismas concierten con organismos internacionales o con Bancos o instituciones financieras extranjeras cuando los fondos así obtenidos se destinen a financiar inversiones reales nuevas.
+d) Cuota de Licencia Fiscal del Impuesto sobre Actividades y Beneficios Comerciales e Industriales durante el período de instalación.
+Dos. Las Empresas que deseen acogerse a los beneficios establecidos en el apartado anterior deberán solicitarlo del Ministerio de Hacienda, a través del Ministerio de Industria, el cual remitirá la solicitud, con su informe, al de Hacienda para su concesión.
+Tres. El plazo para acogerse a los citados beneficios será el que, de acuerdo con la letra a) del apartado dos del artículo tercero de esta Ley, se haya señalado para la respectiva materia prima. Los beneficios se otorgarán por un período de cinco años a partir de su concesión, prorrogable por otro no superior al primero, cuando las circunstancias económicas o sociales así lo aconsejen.
+Cuatro. Cuando los beneficios se otorguen para proyectos de exploración o de investigación, podrá el adjudicatario, terminada aquélla con resultados positivos y una vez transcurridos los plazos anteriores, acogerse para la explotación a los beneficios previstos en esta Ley por un período adicional de cinco años.
+
+### Artículo veintiocho
+
+Artículo veintiocho.
+Uno. Las personas físicas o jurídicas que constituyan cotos mineros o desarrollen su actividad en áreas de expansión industrial, sectores mineros calificados como industrias de interés preferente o en zonas mineras declaradas de preferente localización industrial, al amparo de la Ley de Minas, gozarán para dichas actividades del beneficio de reducción de hasta el noventa y cinco por ciento de los impuestos relacionados en el apartado uno del artículo anterior.
+Dos. Los plazos para acogerse a dichos beneficios serán los que vengan fijados en las calificaciones o declaraciones correspondientes. Los beneficios se otorgarán por un período de cinco años a partir de su concesión, prorrogable, cuando las circunstancias económicas o sociales lo aconsejen, por otro no superior al primero.
+
+### Artículo veintinueve
+
+Artículo veintinueve.
+Los beneficios tributarios que en cada caso se otorguen en virtud de los dos artículos anteriores, se concederán por Orden ministerial, que será publicada en el «Boletín Oficial del Estado».
+
+## Sección segunda
+
+Sección segunda. Factor de agotamiento
+
+### Artículo treinta
+
+Artículo treinta.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y uno
+
+Artículo treinta y uno.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y dos
+
+Artículo treinta y dos.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y tres
+
+Artículo treinta y tres.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y cuatro
+
+Artículo treinta y cuatro.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y cinco
+
+Artículo treinta y cinco.
+Uno.(Derogado)
+Dos. La aplicación de las dotaciones del factor de agotamiento será objeto de una Memoria anual que presentará la Empresa interesada como anexo a su plan de labores, en forma que permita el debido control de su ejecución y costo.
+Se deroga el apartado 1 por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+ Redactado el apartado d) conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 1977. Ref. BOE-A-1977-3761
+
+### Artículo treinta y seis
+
+Artículo treinta y seis.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y siete
+
+Artículo treinta y siete.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y ocho
+
+Artículo treinta y ocho.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+### Artículo treinta y nueve
+
+Artículo treinta y nueve.
+(Derogado)
+Se deroga por la disposición derogatoria única.2 de la Ley 43/1995, de 27 de diciembre. Ref. BOE-A-1995-27752
+
+## Sección tercera
+
+Sección tercera. Canon de superficie
+
+### Artículo cuarenta
+
+Artículo cuarenta.
+Quedan obligados al pago del canon de superficie de minas los titulares de derechos mineros de la sección C) del artículo tercero de la Ley de Minas.
+
+### Artículo cuarenta y uno
+
+Artículo cuarenta y uno.
+Uno. El canon de superficie de minas, cuyo hecho imponible es el uso privativo del dominio público minero, se exigirá, a partir del 1 de enero de 2008, conforme a las bases y tipos contenidos en las siguientes tarifas:
+Tarifa primera. Permisos de exploración:
+Por cada cuadrícula y año se pagará: 1,2 euros.
+Tarifa segunda. Permisos de investigación:
+Otorgados con arreglo a legislaciones anteriores a la Ley 22/1973. Por cada 30 hectáreas o fracción y año se pagará: 22,5 euros.
+Otorgados con arreglo a la Ley 22/1973. Por cada cuadrícula y año se pagará: 22,5 euros.
+Tarifa tercera. Concesiones de explotación:
+Otorgadas con arreglo a legislaciones anteriores a la Ley 22/1973. Por cada 10 hectáreas o fracción y año se pagará 15 euros.
+Otorgadas con arreglo a la Ley 22/1973. Por cada cuadrícula y año se pagará: 45 euros.
+Dos. El Gobierno, mediante Real Decreto, podrá actualizar los valores de los cánones establecidos en el apartado anterior.
+Se modifica por la disposición adicional 2 de la Ley 12/2007, de 2 de julio. Ref. BOE-A-2007-12869
+ Se convierten a euros las cuantías contempladas en el apartado 10 de la Resolución de 22 de octubre de 2001.Ref. BOE-A-2001-21036
+
+### Artículo cuarenta y dos
+
+Artículo cuarenta y dos.
+Uno. Las tarifas establecidas para los permisos de exploración corresponden al año completo de duración por el que se otorgan y su abono habrá de repetirse en caso de ser concedida la prórroga del permiso por otro año, de conformidad con lo previsto en la Ley de Minas. En todo caso, el canon se devengará el día en que nazca el derecho a que haga referencia el acuerdo de otorgamiento.
+Dos. Los cánones de superficie previstos en el artículo anterior se devengarán a favor del Estado el día primero de enero de cada año natural, en cuanto a todos los permisos de investigación y concesiones de explotación existentes en tal fecha.
+Cuando los permisos de investigación o concesiones de explotación se otorguen con posterioridad al primero de enero, en el año de otorgamiento se abonará como canon la parte de las cuotas anuales que proporcionalmente corresponda desde la fecha del otorgamiento se abonará como canon la parte de las cuotas anuales que proporcionalmente corresponda desde la fecha del otorgamiento hasta el final del año natural. En tales casos el canon se devengará el día en que nazca el derecho a que se refiere el correspondiente acuerdo de otorgamiento.
+Igual criterio se seguirá en los casos de renuncia o caducidad de los permisos de investigación, dejando de devengarse el canon el día en que sea aceptada la renuncia o se declare la caducidad.
+
+### Artículo cuarenta y tres
+
+Artículo cuarenta y tres.
+Uno. Las cantidades abonadas en concepto de canon de superficie por permisos de exploración o de investigación serán conceptuadas como costes diferidos, y en consecuencia se acumularán en las cuentas correspondientes a cada permiso.
+Dos. Dichas cantidades podrán ser amortizadas libremente durante los diez primeros años a partir del primer ejercicio económico en cuyo balance aparezca el resultado de la explotación derivada.
+Tres. Cuando de estos permisos se derive una concesión de explotación que de acuerdo con lo establecido en la Ley de Minas pase a ser considerada como reserva de otra concesión en la que se concentren los trabajos de explotación, las cantidades abonadas en concepto de canon de superficie de los permisos podrán ser amortizadas durante diez años de los resultados obtenidos en la concesión de explotación activa antes citada.
+
+### Disposición final primera
+
+Disposición final primera.
+Uno. Se autoriza al Gobierno y, en su caso, a los Ministerios competentes para dictar las disposiciones necesarias a la aplicación y desarrollo de esta Ley.
+Dos. A los efectos de audiencia a que se refiere el apartado uno del artículo tercero, se constituirá una Comisión Interministerial asesora presidida por el Ministro de Industria y en la que estarán representados los sectores productores y transformadores.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Uno. A efectos de lo dispuesto en el artículo quinto del texto refundido de la Ley del III Plan de Desarrollo Económico y Social, aprobado por Decreto mil quinientos cuarenta y uno/mil novecientos setenta y dos, de quince de junio, se declara en todo caso de alto interés nacional la creación de Empresas Nacionales para los fines previstos en los artículos trece a diecisiete de la presente Ley.
+Dos. En los supuestos a que se refiere el apartado anterior la constitución de Empresas Nacionales, cuando proceda, se llevará a cabo, previo acuerdo del Gobierno, por el Instituto Nacional de Industria, al que se asignarán los medios precisos para tal fin.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Uno. Los beneficios fiscales concedidos por esta Ley sólo serán aplicables a la actividad minera, a cuyo efecto las Empresas con otras actividades deberán llevar contabilidad separada de aquélla.
+Dos. Las controversias que sobre cuestiones de hecho en relación con los beneficios fiscales concedidos en esta Ley puedan plantearse entre la Administración y los contribuyentes, serán resueltas por los Jurados Tributarios.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Los beneficios fiscales establecidos en esta Ley serán compatibles entre sí, salvo cuando se refieran a un mismo impuesto y por el mismo concepto, en cuyo caso la Empresa deberá optar por el que voluntariamente determine, entendiéndose, en su defecto, que lo hace por el más beneficioso para la misma.
+
+### Disposición final quinta
+
+Disposición final quinta.
+En el plazo máximo de dos meses el Gobierno publicará, a propuesta del Ministro de Industria, la relación de materias primas minerales y actividades relacionadas con ellas declaradas prioritarias en el Plan Nacional de Abastecimiento o con posterioridad al mismo, a los efectos de lo prevenido en esta Ley.
+
+### Disposición final sexta
+
+Disposición final sexta.
+El Gobierno dictará las disposiciones necesarias para la transformación del Instituto Geológico y Minero de España en Organismo autónomo dependiente del Ministerio de Industria.
+
+### Disposición final séptima
+
+Disposición final séptima.
+Las disposiciones legales que afecten a materias reguladas dentro del ámbito de la presente Ley continuarán subsistentes en aquello que no se oponga a lo dispuesto en la misma.
+
+### Disposición final octava
+
+Disposición final octava.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### Disposición adicional
+
+Disposición adicional.
+Uno. El Gobierno promulgará en el plazo máximo de un año un Estatuto del Minero, en el que se regularán las características de esta actividad laboral y de manera primordial:
+a) La seguridad social aplicable, con reducción de la edad de jubilación;
+b) La seguridad en el trabajo;
+c) La reconversión profesional para el caso de cese en el trabajo;
+d) La prestación por desempleo;
+e) Los sistemas de remuneración;
+f) La participación del trabajador en los resultados de la empresa; y
+g) En general, cuantas contribuyan a la elevación social y profesional del minero.
+Dos. En el mismo plazo se tomarán por el Gobierno las medidas necesarias para la dignificación y mejora del hábitat minero.
+
+### Disposición transitoria
+
+Disposición transitoria.
+Uno. Los beneficios fiscales establecidos en cada caso por la presente Ley serán aplicables a las inversiones realizadas por personas físicas y jurídicas durante el año mil novecientos setenta y seis.
+Dos. En tanto no se aprueben la creación del concepto presupuestario y la dotación del crédito correspondiente en los Presupuestos Generales del Estado dentro de la sección del Ministerio de Industria para atender a las obligaciones derivadas del artículo veinte de esta Ley, podrán utilizarse los créditos destinados a Fondo de Reestructuración de Sectores (Minería del Carbón) del Programa de Inversiones Públicas que figura en la misma sección y no utilizados.
+
+Dada en Madrid a cuatro de enero de mil novecientos setenta y siete.
+JUAN CARLOS
+El Presidente de las Cortes Españolas,
+TORCUATO FERNÁNDEZ-MIRANDA Y HEVIA

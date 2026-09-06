@@ -1,0 +1,600 @@
+# Ley 12/1981, de 24 de diciembre, por la que se establecen normas de protección de los espacios de especial interés natural afectados por actividades extractivas.
+
+- Identificador BOE: `BOE-A-1982-2938`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1982-2938
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALITAT DE CATALUYA
+Sea notorio a todos los ciudadanos que el Parlament de Catalunya ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 33.2 del Estatuto de Autonomía, promulgo la siguiente
+LEY
+Las actividades extractivas, que son ciertamente necesarias por razones económicas, comportan un impacto ambiental notorio, con una degradación importante del paisaje. Por otra parte, tenemos un conjunto de espacios de especial interés natural que deben ser objeto de una especial protección. Es preciso, pues, ordenar urgentemente las actividades extractivas a ejecutar en los espacios de especial interés natural, haciéndolas compatibles, en la medida de lo posible, con una protección adecuada de la naturaleza en estos espacios y tomando las medidas necesarias para restaurar la situación de los terrenos al término de la explotación. Esto puede conseguirse, en bastantes explotaciones, aplicando el principio de restauración para que, una vez finalizada la explotación, la zona afectada quede bien integrada en el conjunto natural que la rodea.
+La aplicación del principio de restauración comporta un coste adicional para la explotación de que se trate, el cual debe equivaler al daño, difícilmente cuantificable, que la comunidad sufriría si no se aplicase la restauración y la naturaleza quedase deteriorada. Se debe aceptar, por lo tanto, que dentro de los espacios de especial interés natural solo pueden emprenderse las explotaciones que puedan asumir económicamente los costes de una restauración muy cuidada que deje el medio del espacio explotado en condiciones aceptables.
+La legislación vigente hace referencia, en varios preceptos, al principio de restauración. La Ley de Minas de 21 de julio de 1973 define en varios apartados la necesidad de efectuar los estudios oportunos y fija posibles actuaciones administrativas de protección del medio ambiente que sean imperativas por razón del aprovechamiento de los recursos mineros. El Reglamento General del Régimen de la Minería, de 25 de agosto de 1978, establece también condiciones para la protección del medio ambiente. La Ley de Montes de 8 de junio de 1957 y su Reglamento de 22 de febrero de 1962 establecen las indemnizaciones y sanciones por los daños ocasionados al patrimonio forestal debido a actividades que los producen.
+Para una aplicación efectiva de las medidas de protección del medio ambiente y para una aplicación efectiva del principio de restauración es necesario, sin embargo, un desarrollo normativo que precise todas estas normas y el procedimiento administrativo correspondiente para su aplicación.
+La Generalitat de Catalunya puede realizar este desarrollo normativo, dada la competencia que el Estatuto le reconoce en materia de Espacios Naturales Protegidos, Protección del Medio Ambiente y Régimen Minero y Energético.
+En resumen, se trata de hacer compatibles las explotaciones dentro de espacios de especial interés natural con el mantenimiento de la calidad de estos espacios, y ello por la aplicación del principio de restauración.
+
+### Artículo 1
+
+Artículo 1.
+1. La presente Ley tiene por objeto el establecimiento de medidas adicionales de protección del medio ambiente por medio de un tratamiento especial para la restauración de los terrenos y la repoblación de los mismos en espacios de especial interés natural que sean o deban ser objeto de explotación minera.
+2. Estas medidas no son aplicables a los espacios naturales que disfruten de un régimen especifico de protección al amparo de la Ley del Suelo o de la Ley de Espacios Naturales, pero se aplicarán supletoriamente cuando impliquen una mayor protección en relación al régimen de que se trate.
+
+### Artículo 2
+
+Artículo 2.
+1. Las disposiciones de esta Ley deben aplicarse a todas las explotaciones mineras que se lleven a cabo en los espacios de especial interés natural incluidos en la lista aprobados por el pleno de la Comisión de Urbanismo de Cataluña el 21 de mayo de 1980, que figuran en el anexo de esta Ley.
+2. Cuando concurran circunstancias análogas, el Consejo Ejecutivo, a iniciativa propia o a petición del Ayuntamiento o Ayuntamientos afectados, podrá declarar la aplicación de la Ley a zonas de características especificas parecidas, objeto de explotaciones mineras, y, con este fin, determinara los limites geográficos de las mismas.
+
+### Artículo 3
+
+Artículo 3.
+1. Son actividades afectadas por esta Ley las extractivas de los recursos mineros clasificados en la legislación de minas como pertenecientes a las secciones A, B, C, y D.
+2. Las actividades extractivas pertenecientes a las secciones A y B que se pretendan ejercer en el ámbito territorial definido en el artículo 2 quedarán sujetas a una evaluación económica preliminar de los recursos a explotar y de sus posibilidades de sustitución, teniendo en cuenta su finalidad, que deberá efectuar el Departament d´Industria i Energía, a fin de precisar las razones potenciales de la conveniencia de la actividad y aplicar, si procede, lo previsto en el párrafo 4 del artículo 6. En cualquier caso, por lo que respecta a la preservación del entorno natural, esta actividad debe ajustarse a las disposiciones de la presente Ley.
+3. (Anulado)
+Se declara inconstitucional y nulo el apartado 3 por Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.
+
+### Artículo 4
+
+Artículo 4.
+1. Las solicitudes de autorización de aprovechamientos, permisos de explotación, permisos de investigación, concesiones, ampliaciones y rectificaciones de concesiones de explotación de los recursos mineros mencionados en el artículo 3 que comporten actividades extractivas en zonas definidas en el artículo 2, deben incluir en el proyecto de explotación un programa de restauración.
+2. El proyecto y el programa deben ser presentados a los Serveis Territorials d´Industria, junto con la documentación que establecen la Ley y el Reglamento de Minas.
+
+### Artículo 5
+
+Artículo 5.
+1. El programa de restauración mencionado en el artículo 4 deben incluir un análisis del estado en que se encuentran el lugar de las eventuales actividades y su entorno, especialmente en lo relativo a los recursos naturales, definir las medidas a tomar para prevenir y compensar las consecuencias perjudiciales sobre el medio ambiente de las actuaciones extractivas proyectadas e incluir el conjunto de medidas de restauración a ejecutar al final de las diferentes fases de la explotación, así como las que deberán desarrollarse al finalizar la actividad extractiva.
+2. Deberán determinarse por reglamento la documentación integrante del programa de restauración, los aspectos que deben prever y los datos que debe incluir.
+
+### Artículo 6
+
+Artículo 6.
+1. Los Serveis Territorials d´Industria deben entregar copia del proyecto de explotación y del programa de restauración a la Direcció General de Política Territorial, que debe informarlos preceptivamente, una vez oídos los Departamentos pertinentes y los ayuntamientos afectados.
+En el caso de actividades correspondientes a las sección A y B de la Ley de Minas, los Serveis Territorials d´Industria deben emitir previamente un informe sobre la evaluación económica de la actividad de acuerdo con el artículo 3.
+2. A la vista del programa de restauración, y de acuerdo con el informe de los Servicios Territoriales de Industria, en lo que respecta a actividades de las secciones A y B, o de acuerdo con lo establecido en el artículo 3.3, en lo que respecta a actividades de las secciones C y D, la Direcció General de Política Territorial emitirá informe sobre la idoneidad de las actuaciones de protección del medio ambiente propuestas.
+3. En el informe de la Direcció General de Política Territorial, que es vinculante, deben especificarse las condiciones de preservación del medio ambiente y los programas de restauración, la fianza de restauración necesaria y los estudios preliminares necesarios para una evaluación adecuada del impacto ambiental, de acuerdo con el artículo 5.
+4. Los Serveis Territorials d´Industria, a propuesta de la Direcció General de Política Territorial, denegarán la autorización cuando la explotación sea de poco valor económico o de baja rentabilidad a causa de los elevados costes de restauración, o cuando la restauración sea técnicamente imposible en los términos establecidos por esta Ley.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado en negrita del apartado 4 por Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.
+Se declara inconstitucional y nulo el inciso destacado en negrita del apartado 4 por Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.
+
+### Artículo 7
+
+Artículo 7.
+1. La competencia para autorizar la actividad extractiva corresponde a los Serveis Territorials d´Industria. La autorización debe imponer, además de lo que proceda según la Ley de Minas, las condiciones de preservación del medio ambiente y de restauración que se deban aplicar según lo dispuesto en el artículo 6 de la presente Ley.
+2. La inspección de la actividad en lo relativo a las presentes medidas adicionales de protección del medio ambiente corresponde a los funcionarios de la dirección general competente en materia de protección de espacios naturales afectados por actividades extractivas o de las correspondientes unidades territoriales, que deben coordinarse con la actuación inspectora de los funcionarios del departamento competente en materia de minas. Estas inspecciones pueden ser encomendadas por la Administración ambiental a entidades colaboradoras de la Administración debidamente acreditadas.
+Se modifica el apartado 2 por el art. 78.1 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+
+### Artículo 8
+
+Artículo 8.
+1. Para garantizar la aplicabilidad de las medidas de protección del medio ambiente y los trabajos de restauración previstos en la autorización, es preciso que el titular constituya una fianza antes de comenzar la explotación.
+1 bis. La obligación del titular de depositar la fianza que corresponda en cada momento y de restaurar los terrenos afectados en las condiciones establecidas en el programa de restauración seguirá vigente hasta el momento en que la Administración ambiental acepte definitivamente la restauración efectuada al término, si procede, del plazo de garantía, independientemente de la situación administrativa de la autorización minera.
+2. La cuantía de la fianza debe establecerse por reglamento. En cualquier caso, en lo referente a la restauración, la cuantía debe fijarse en función de la superficie afectada por la restauración, por el coste global de la restauración o por ambos aspectos conjuntamente. En ningún caso la fianza significará un importe inferior a cuatrocientas mil pesetas por hectárea o el veinticinco por ciento del presupuesto global de restauración.
+3. El importe total de la fianza es la suma de los importes parciales correspondientes a las diferentes fases de la restauración. El importe total y los importes parciales se establecen en la autorización de la explotación, la cual debe determinar también el importe de la fianza inicial que debe constituirse antes de iniciar la explotación.
+3 bis. El importe de la fianza inicial es el siguiente:
+a) Para las actividades extractivas o las fases de estas actividades con una duración prevista de cinco años o más: el 25 % del importe total de la fianza establecida.
+b) Para las actividades extractivas o las fases de estas actividades con una duración prevista de entre dos y cinco años: 50 % del importe total de la fianza establecida.
+c) Para las actividades extractivas o las fases de estas actividades con una duración igual o inferior a dos años: el 100 % de la fianza.
+3 ter. Anualmente se revisa el importe de la fianza que debe mantenerse, con aplicación del índice de precios al consumo y en función de las superficies afectadas o que se prevé afectar durante el año según el plan anual de labores, de las ya restauradas y de las que aún no han sufrido ninguna afección. El importe resultante no puede ser inferior al importe de la fianza inicial actualizada con el índice de precios al consumo. La revisión del importe de la fianza se efectúa anualmente a partir de los datos que las empresas titulares incluyen en el plan de labores.
+3 quáter. En caso de que se apruebe la modificación del programa de restauración de una actividad extractiva para que se pueda instalar en la misma, con los correspondientes permisos, un depósito controlado de tierras y escombros o residuos inertes, las fianzas de la actividad extractiva que queden duplicadas con las fianzas establecidas para el depósito controlado pueden devolverse a petición de su depositario. Las fianzas de relleno y de restauración superficial solamente pueden devolverse en el momento en que se han constituido fianzas del mismo importe o superior, a disposición de la Agencia de Residuos de Cataluña, fijadas de acuerdo con los artículos 10.1 y 10.2 del Decreto 1/1997, respectivamente.
+4. La fianza responde de la ejecución de los trabajos de restauración y de las sanciones impuestas al titular de la autorización por incumplimiento de las medidas de protección del medio ambiente, así como de los daños y perjuicios directos o indirectos que se ocasionen por razón del desarrollo de la actividad extractiva.
+5. La devolución de la fianza se hace cuando ha transcurrido el plazo de garantía que se haya fijado en el informe sobre el programa de restauración. Este plazo es, como máximo, de cinco años. No obstante, una vez se ha efectuado la aceptación de las obras de restauración, la persona titular de la actividad puede solicitar la devolución del 75 % del importe de los conceptos de la fianza que se detallan a continuación:
+a) Movimiento de tierras propias con nivelación.
+b) Tendido de suelo edáfico propio acaparado.
+c) Arada y aportación de abonos.
+d) Rellenado con material propio.
+e) Rellenado con material de aportación.
+f) Construcción de zanjas para la red de desagüe.
+g) Hidrosiembra.
+h) Subsolado.
+i) Esponjamiento.
+Se modifica el apartado 5 por el art. 3 del Decreto-ley 18/2020, de 12 de mayo. Ref. BOE-A-2020-7383#a3
+ Se añade el apartado 1.bis y se modifica el apartado 3 quáter por el art. 78.2 y 3 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Se modifican los apartados 3, 3 bis, 3 ter y 3 quáter por los arts. 89 y 90 de la Ley 5/2012, de 20 de marzo. Ref. BOE-A-2012-4730.
+ Redactados conforme a la corrección de errores publicada en DOGC núm. 6099, de 30 de marzo de 2012. Ref. BOE-A-2012-5935.
+ Se modifica el apartado 3 y se añaden el 3 bis, 3 ter y 3 quáter por el art. 25 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
+
+### Artículo 9
+
+Artículo 9.
+1. La Administración de la Generalitat, a través de la Direcció General de Política Territorial, puede proceder, previo aviso al titular de la explotación, a la ejecución forzosa de las medidas de protección del medio ambiente, incluidas en la autorización, sin perjuicio de lo previsto en el artículo siguiente. Los gastos ocasionados por la realización de estas medidas corren a cargo del titular de la explotación.
+2. Entre los medios de ejecución a utilizar, se autoriza la multa coercitiva de cien mil a doscientas cincuenta mil pesetas, que se reiterara durante el suficiente lapso de tiempo para cumplir lo que se haya ordenado. Esta multa coercitiva es independiente de las que se puedan imponer en concepto de sanción y es compatible con las mismas.
+
+### Artículo 10
+
+Artículo 10.
+1. Se tipifican las infracciones del siguiente modo:
+1.1 Constituyen infracciones muy graves:
+a) La comisión de tres infracciones tipificadas como graves en un período de tres años, sancionadas con resolución firme.
+b) La comisión de una infracción tipificada como grave si afecta a un espacio protegido.
+1.2. Constituyen infracciones graves:
+a) La realización de actividades extractivas sin tener aprobado el programa de restauración o incumpliendo su contenido.
+b) La realización de actividades extractivas sin haber depositado la fianza inicial de restauración o cualquiera de sus revisiones anuales.
+c) La ejecución de trabajos fuera del área autorizada con modificación del relieve original.
+d) Los incumplimientos de las condiciones y medidas previstas en la declaración de impacto ambiental de las actividades extractivas contenidas en la autorización de la explotación.
+e) La comisión de tres infracciones tipificadas como leves en un período de tres años, sancionadas con resolución firme.
+f) La comisión de una infracción tipificada como leve cuando afecte a un espacio protegido.
+1.3 Constituye infracción leve la ejecución de trabajos o actuaciones fuera del área autorizada sin modificación del relieve original. Se incluyen, entre otros, el acopio de materiales, la habilitación de aparcamientos o zonas de carga y descarga y la ubicación de plantas móviles e instalaciones auxiliares.
+2. Las infracciones muy graves se sancionan con multa de hasta 1.000.000 de euros; las graves con multa de hasta 300.000 euros, y las leves con multa de hasta 30.000 euros.
+2 bis. Los órganos competentes para imponer las sanciones son:
+a) El director o directora de los servicios territoriales competente en materia de protección de los espacios afectados por actividades extractivas, para las sanciones correspondientes a infracciones leves.
+b) El director o directora general competente en materia de protección de los espacios afectados por actividades extractivas, para las sanciones correspondientes a infracciones graves.
+c) El secretario o secretaria competente en materia de protección de los espacios afectados por actividades extractivas, para las sanciones correspondientes a infracciones muy graves.
+3. En la imposición de sanciones será necesario guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, atendiendo especialmente a los siguientes criterios para la graduación de la sanción:
+a) La existencia de intencionalidad o reiteración.
+b) La naturaleza de los perjuicios causados.
+c) La superficie afectada.
+d) La reincidencia, por comisión en el plazo de un año de más de más de una infracción de la misma naturaleza, cuando así hubiera sido declarado por resolución firme.
+Cuando el beneficio que resulta de una infracción es superior a la sanción que corresponde, ésta puede incrementarse en la cuantía equivalente al beneficio obtenido.
+4. La imposición de multas es independiente del resarcimiento de los, daños, y la indemnización de perjuicios, así como de las responsabilidades administrativas exigibles por los órganos competentes en materia de minas o de las responsabilidades de orden penal en que los infractores hayan podido incurrir.
+5. El secretario o secretaria competente en materia de protección de espacios naturales afectados por actividades extractivas, en los casos de urgencia en que peligre la protección del medio ambiente, puede suspender provisionalmente los trabajos de la actividad extractiva hasta que se tomen las medidas adecuadas.
+Se modifican los apartados 2.bis y 5 por el art. 78.4 y 5 de la Ley 3/2015, de 11 de marzo. Ref. BOE-A-2015-3637.
+ Redactado conforme a la corrección de erratas publicada en el DOGC núm. 6872, de 15 de mayo de 2015. Ref. DOGC-f-2015-90409
+ Se modifican los apartados 1 y 2 y se añade el 2 bis por el art. 26 de la Ley 10/2011, de 29 de diciembre. Ref. BOE-A-2012-547.
+ Se convierten a euros las cuantías contempladas en los apartados 1 y 2 por el anexo de la Resolución MAB/685/2002, de 13 de marzo (DOGC núm. 3609, de 5 de abril de 2002)
+ Se modifican los apartados 1, 2, 3 y 5 por el art. único del Decreto Legislativo 14/1994, de 26 de julio. Ref. DOGC-f-1994-90014.
+
+### Disposición adicional
+
+Disposición adicional.
+El Departament de Política Territorial i Obres Públiques debe determinar el ámbito geográfico de los espacios de especial interés natural que figuran en el anexo de la presente Ley, en relación a los diferentes términos municipales afectados.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Para las explotaciones existentes debidamente autorizadas deben establecerse programas de restauración a desarrollar conjuntamente entre el titular de la explotación y el equipo de inspección. Los gastos correrán a cargo de la fianza ya establecida o a establecer.
+2. En cuanto a los planes de restauración ya aprobados, deben revisarse los términos de los mismos y definir las condiciones, que se modificaran, en su caso, sin que ello comporte un incremento de coste para el concesionario.
+3. Para aquellas explotaciones ya existentes, legalmente autorizadas, con periodos de concesión superiores a cincuenta años y estrechamente vinculadas a instalaciones industriales de sectores productivos básicos para la economía de Catalunya y para la incidencia en la competitividad internacional, deben establecerse convenios específicos para acomodar las garantías y planes de restauración a la realidad de la explotación en sus etapas sucesivas dentro de los fines de la presente Ley.
+Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado en negrita del apartado 3 por Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.
+Se declara inconstitucional y nulo el inciso destacado en negrita del apartado 3 por Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Para las actividades especificadas en el artículo 3 de esta Ley que necesiten nueva autorización, situadas fuera del territorio definido en el artículo 2, y mientras el Parlament de Catalunya no haya regulado las normas de protección de la naturaleza que deberán aplicarse en todo el territorio de Catalunya, deben aplicarse los artículos 4, 5 y 7 y el primer párrafo del apartado 1 y los apartados 2 y 3 del artículo 6. La fianza definida en el artículo 8 debe aplicarse en un 50 por 100 de su importe.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consell Executiu a dictar las disposiciones necesarias para la aplicación y desarrollo de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Antes de seis meses, a partir de la entrada en vigor de esta Ley, deben elaborarse las disposiciones reglamentarias que señalen los elementos mínimos que deben contener las Ordenanzas municipales respecto a las medidas de protección del Medio Ambiente en relación con las actividades extractivas. En estas disposiciones debe establecerse la graduación de los suelos en función del mayor o menor rigor de las medidas aplicables.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En el mismo plazo, deben dictarse las normas a que deberán ajustarse las Ordenanzas municipales de carácter general referidas a la normativa aplicable al tramite del otorgamiento de licencias, a su revisión y a la comprobación del cumplimiento de los requisitos de las licencias ya otorgadas. También deben regularse las condiciones mínimas a aplicar en los supuestos producidos por la aplicación de nuevos criterios de actuación.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Los Ayuntamientos dispondrán del plazo de un año, a partir de la entrada en vigor de la normativa mencionada en las disposiciones anteriores, para elaborar las Ordenanzas municipales correspondientes, que deben incluir, además de los requisitos que, como mínimo, regule la Generalitat, todas aquellas medidas especificas a aplicar en su territorio, todas las que en función del papel que corresponde a los Ayuntamientos como otorgantes de las autorizaciones para actividades industriales son de su competencia, así como la normativa general reguladora de las licencias, y, en definitiva, todas aquellas que, por razón de la competencia que les otorga la legislación vigente, sean necesarias para la salvaguarda de las condiciones del medio ambiente en los espacios donde se ejerzan actividades extractivas.
+
+### Disposición final quinta
+
+Disposición final quinta.
+Esta Ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat de Catalunya».
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley, cooperen a su cumplimiento y que los Tribunales y Autoridades a los que corresponda la hagan cumplir.
+Barcelona, 24 de diciembre de 1981.
+JORDI PUJOL
+ JOSEP M.ª CULLEL
+ President de la Generalitat de Catalunya
+ Conseller de Politica Territorial i Obres Públiques
+
+## ANEXO
+
+Lista de municipios afectados
+I. Provincia de Barcelona.
+Municipio: Aguilar de Boixadors; Espacio(s), Rubió, Castelltallat.
+Aiguafreda: Montseny.
+Arenys de Munt: Corredor, Montnegre.
+Avinyonet del Penedés: Garraf.
+Baga: Cadí-Moixeró-Pedraforca.
+Barbera del Vallès: Itinerari de la Natura del Bosc de Santiga.
+Barcelona: Collserola.
+Begues: Garraf.
+Bellprat: Miralles.
+Berga: Ensija-Rasos de Peguera.
+Bigues: Cingles de Bertí.
+Borredà: la Quar.
+El Bruc: Montserrat.
+El Brull: Montseny.
+Campins: Montseny.
+Cànoves: Montseny.
+Capolat: Ensija-Rasos de Peguera, Tossals.
+Cardona: Muntanya de Sal.
+Castellar de N’Hug: Cadí-Moixeró-Pedraforca.
+Castellar del Riu: Ensija-Rasos de Peguera.
+Castellar del Vallès: San Llorenç del Munt i Serra de l’Obac.
+Castellbell i el Vilar: Montserrat.
+Castelldefels: Garraf.
+Castell de l’Areny: Catllaràs-Mogrony-Rasos de Tubau.
+Castellfollit del Boix: Rubió.
+Caltellvi de Rosanes: Ordal.
+Cercs: Ensija-Rasos de Peguera, Catllaràs, Mogrony-Rasos de Tubau, la Quar.
+Cerdanyola: Collserola.
+Cervelló: Ordal.
+Collbató: Montserrat.
+Copons: Rubió.
+Corbera de Llobregat: Ordal.
+Dosrius: Corredor.
+Esparreguera: Montserrat, Sant Salvador de les Espases.
+Esplugues de Llobregat: Collserola.
+Figols de les Mines: Ensija-Rasos de Peguera.
+Fogars de Montclús: Montseny.
+Fogars de Tordera: Montnegre.
+Folgueroles: Guilleries-Collsacabra.
+Fonollosa: Castelltallat.
+Font-Rubí: Ancosa - Puigcastellar/Montagut Montclar.
+Gallifa: Sant Sadurní de Gallifa.
+La Garriga: Montseny-Cingles de Bertí.
+Gava: Garraf.
+Gélida: Ordal.
+Gisclareny: Cadí-Moixeró-Pedraforca.
+Granera: Muntanya del Castell de Granera.
+Gualba: Montseny.
+Guardiola de Berguedà: Cadí-Moixera-Pedraforca,
+Catllaràs-Mongrony-Rasos de Tubau.
+La Llacuna: Ancosa-Puigcastellar/Montagut-Montclar.
+Llinars del Vallès: Corredor.
+Masies de Roda: Guilleries-Collsacabra.
+Matadepera: Sant Llorenç del Munt i Serra de l’Obac.
+Mediona: Ancosa-Puigcastellar-Montagut-Montclar.
+Molins de Rei: Collserola.
+Monistrol de Montserrat: Montserrat.
+Montcada i Reixac: Collserola.
+Montmayor: Ensija-Rasos de Peguerra, Busa, Bastets.
+Montmany: Montseny, Cingles de Bertí.
+Montseny: Montseny.
+Mura: Sant Llorenç de Munt i Serra de l’Obac.
+La Nou de Berguedà: Catllaràs-Mongrony-Rasos de Tubau.
+Odena: Rubió.
+Olesa de Bonesvalls: Garraf, Ordal.
+Olesa de Montserrat: Sant Salvador de les Espases.
+Olivella: Garraf.
+Olvan: La Quar.
+Oris: Bellmunt-Curull-Puigsacalm.
+Orpi: Ancosa-Puigcastellar/Montagut-Montclar.
+El Papiol: Collserola.
+La Pobla de Lillet: Catllaràs-Mongrony-Rasos de Tubau.
+Pontons: Ancosa-Puigcastellar/Montagut-Montclar.
+El Prat de Llobregat: Estanys de la Ricarda i el Remolar.
+Prats de Rei: Rubió.
+La Quar: la Quar.
+Rellinars: Sant Llorenç del Munt i Serra de l’obac.
+Rubió: Rubió.
+Rupit-Pruit: Guilleries-Collsacabra.
+Sabadell: Itinerari de la Natura de Can Deu.
+Saldes: Cadí-Moixeró-Pedraforca, Ensija-Rasos de Peguera.
+Santa Cecilia de Montserrat: Montserrat.
+Santa Margarida de Montbui: Miralles.
+Santa Maria de Besora: Bellmunt-Curull-Puig-Sacalm.
+Santa Maria de Corcó: Guilleries-Collsacabra.
+Santa Maria de Miralles: Miralles, Ancosa-Puigcastellar/Montagut-Montclar.
+Sant Andreu de Llavaneres: Montnegre.
+Sant Boi de Llobregat: Estanys del Remolar, Ricarda, Roberta i Pas de les Vaques.
+Santa Susanna: Montnegre.
+Sant Cebrià de Vallalta: Montnegre.
+Sant Celoni: Montnegre.
+Sant Cugat del Vallès: Collserola.
+Sant Esteve de Palautordera: Montseny.
+Sant Feliu de Llobregat: Collserola.
+Sant Iscle de Vallalta: Montnegre.
+Sant Jaume de Frontanyà: Catllaràs-Mogrony-Rasos de Tubau.
+Sant Julià de Vilatorta: Guilleries-Collsacabra.
+Sant Just Fesvern: Collserola.
+Sant Llorenç Savall: Sant Llorenç del Munt i Serra de l’Obac.
+Sant Martí de Centelles: Cingles de Bertí.
+Sant Martí de Tous: Miralles, Barranc de la Fou.
+Sant Mateu de Bages: Castelltallat.
+Sant Pere de Torello: Bellmunt-Curull-Puigsacalm.
+Sant Pere de Vilamajor: Montseny.
+Sant Pere Sallavinera: Castelltallat.
+Sant Quirze de Besora: Bellmunt-Curull-Puig-Sacalm.
+Sant Quirze Safaja: Cingles de Bertí.
+Sant Sadurní d’Osomort: Guilleries-Collsacabra.
+Sant Vicenc de Montalt: Corredor.
+Seva: Montseny.
+Sitges: Garraf.
+Subirats: Ordal.
+Tagamanent: Montseny.
+Tavernoles: Guilleries-Collsacabra.
+Tavertet: Guilleries-Collsacabra.
+Terrassa: Sant Llorenç del Munt i Serra de l’Obac.
+Tordera: Montnegre.
+Torrelles de Foix: Ancosa-Puigcastellar/Montagut-Montclar.
+Vacarisses: Sant Llorenç del Munt i Serra de Sant Salvador de les Espases.
+Vallcebre: Cadí-Moixeró-Pedraforca, Ensija-Rasos de Peguera.
+Vallgorguina: Corredor, Montnegre.
+Vallirana: Ordal.
+Vilada: Catllaràs-Mogrony-Rasos de Tubau, la Quar.
+Viladecans: Estanys del remolar.
+Vilalba Sasserra: Corredor.
+Vilanova de Sau: Guilleries-Collsacabra.
+II. Provincia de Girona
+Municipio: Albanya; Espacio(s), Alta Garrotxa, Bassegoda.
+Alp: Cadí-Moixeró-Pedraforca.
+Amer: Guilleries-Collsacabra.
+Arbucies: Guilleries-Collsacabra.
+L’Armentera: Aiguamolls golf Roses (Sant Pere pescador).
+Banyoles: Estanys de Banyoles.
+Begur: Muntanya i Castell de Begur.
+Beuda: Alta Garrotxa-Bassegoda.
+La Bisbal d’Emporda: Gavarres.
+Blanes: Costa Brava (Paratges pint.).
+Breda: Montseny.
+Cabanelles: Alta Garrotxa, Bassegoda.
+Caça de la Selva: Gavarres.
+Cadaques: Cap. de Creus-Serra de Roda, Portlligat.
+Calonge de les Gavarres: Gavarres.
+Campelles: Catllaràs-Mogrony-Rasos de Tubau.
+Camprodon: Puigmal-Costabona, Alta Garrotxa, Sant Amanc-Serra Cavallera.
+Canet d’Adri: Finestres-Rocacorba.
+Cantallops: Alberes.
+Castell d’Aro: Gavarres.
+Castellfollit de la Roca: Zona volcánica d’Olot, Cingle de Castellfollit.
+Castelló d’Empuries: Aiguamolls del golf de Roses (Castelló d’Empuries i St. Pere Pescador).
+La Cellera: Guilleries-Collsacabra.
+Celra: Gavarres.
+Cólera: Alberes.
+Cruilles, Monells i Sant Sadurní: Gavarres.
+Darnius: Les Salines.
+Das: Cadí-Moixero-pedraforca.
+L’Escala: Aiguamolls del golf de Roses (St. Pere pescador).
+Espolla: Alberes.
+Forallac: Meranges-puigpedros.
+Ger: Meranges-Puigpedros.
+Girona: Gavarres.
+Gombren: Catllaràs-Mogrony-Rasos de Tubau.
+Grus: Cadí-Moixeró-Pedraforca.
+Guils de Cerdanya: Meranges-Puigpedrós.
+La Jonquera: Alberes.
+Juia: Gavarres.
+Llagostera: Gavarres, Puig Cadiretes.
+Llambilles: Gavarres.
+Llanars: Puigmal-Costabona, Alta Garrotxa, Sant Amanç-Serra Cavallera.
+Llancà: Alberes, Cap. de Creus-Serra de Roda.
+Llivia: Llivia.
+Lloret de Mar: Costa Brava (Paratges pint.).
+Les Llosses: Catllaràs-Mogrony-Rasos de Tubau.
+Macanet de Cabrenys: les Salines.
+Macanet de la Selva: Turons de Macanet de la Selva i Ruidarenes.
+Madremanya: Gavarres.
+Meranges: Meranges-Puigpedrós.
+Mieres: Finestres-Rocacorba.
+Mollo: Puigmal-Costabona, Alta Garrotxa.
+Montagut: Alta Garrotxa, zona volcánica d’Olot, Teixos de Misaclos.
+Mont-Ras: Gavarres.
+Olot: Zona volcánica d’Olot.
+Ogassa: Taga-Sant Amanç-Serra Cavallera.
+Osor: Guilleries-Collsacabra.
+Palafrugell: Gavarres.
+Palamós: Costa Brava (Paratges pint.).
+Palau-Saverdera: Cap. de Creus-Serra de Roda-Aiguamolls, golf de Roses
+(Castelló d’Empuries).
+Palmerola: Catllaràs-Mogrony-Rasos de Tubau.
+Pals: Aiguamolls i platja de Pals.
+Pardines: Puigmal-Costabona, Taga-Sant Amanç-Serra Cavallera.
+Pau: Cap. de Creus-Serra de Roda, Aiguamolls, golf de Roses (Castelló d’Empuries).
+Peralada: Aiguamolls, golf de Roses (Castelló d’Empuries).
+Les Planes d’Hostoles: Guilleries-Collsacabra, Finestres-Rocacorba.
+Planoles: Puigmal-Costabona.
+Porqueres: Finestres-Rocacorba, Estany de Banyoles.
+Portbou: Alberes.
+El Port de la Selva: Cap. de Creus-Serra de Roda.
+Les Preses: Finestres-Rocacorba, zona volcánica d’Olot.
+Puigcerdá: Meranges-Puigpedrós.
+Quart d’Onyar: Gavarres.
+Queralbs: Puigmal-Costabona.
+Rabos: Alberes.
+Ribes de Freser: Puigmal-Costabona, Taga-Sant Amanç-Serra Cavallera.
+Ridaura: Milany-Santa Magdalena.
+Riells del Montseny: Montseny.
+Ripoll: Milany-Santa Magdalena.
+Riudarenes: Turons de Macanet de la Selva i Riudarenes.
+Roses: Cap. Norfeu, Cap. de Creus-Serra de Roda, Aiguamolls del golf de Roses (Castelló d’Empuries).
+Sales de Llierca: Alta Garrotxa.
+Santa Cristina d’Aro: Gavarres, Puig Cadiretes, Pedra Alta, Costa Brava (ICONA).
+Sant Aniol de Finestres: Finestres-Rocacorba, zona volcánica d’Olot.
+Santa Pau: Finestres-Rocacorba, zona volcánica d’Olot, fageda d’en Jordà.
+Sant Climent Sescebes: Alberes.
+Sant Feliu de Buixalleu: Montseny.
+Sant Feliu de Guíxols: Puig Cadiretes, Pedra Alta, CosAa Brava.
+Sant Feliu de Pallerols: Guilleries-Colsacabra-Finestres-Rocacorba, zona volcánica d’Olot.
+Sant Hilari Sacalm: Guilleries-Collsacabra.
+Sant Jaume de Llierca: Zona volcánica d’Olot.
+Sant Joan les Fonts: Alta Garrotxa, zona volcánica d’Olot.
+Sant Marti de Llémena: Finestres-Rocacorba-zona volcánica d’Olot.
+Sant Marti Vell: Gavarres.
+Sant Miquel de Campmajor: Finestres-Rocacorba.
+Sant Pere Pescador: Aiguamolls, golf de Roses (Sant Pere Pescador).
+La Selva de Mar: Cap. de Creus-Serra de Roda.
+Serra de Daró: Illa a l’embassament de Canet.
+Setcases: Puigmal-Costabona.
+Sils: Antic Estany de Sils.
+Susqueda: Guilleries-Collsacabra.
+La Tallada d’Empordà: Illa a l’embasament de Canet.
+Torroella de Montgri: Aiguamolls i Platja de Pals, Illes Medes-Massis de Montgri.
+Tortella: Alta Garrotxa.
+Tossa de Mar: Puig Cadiretes, Costa Brava.
+Tosses: Milany-Santa Magdalena.
+Ullà: Iles Medes-Massís de Montgri.
+La Vajol: Les Salines.
+La Vall de Bianya: Alta Garrotxa, zona volcánica d’Olot.
+La Vall d’en Bas: Guilleries-Collsacabra.
+Vallfogona de Ripollès: Milany-Santa Magdalena.
+Vall-Llobrega: Gavarres.
+Vidrà: Milany-Santa Magdalena, Bellmunt-Curull-Puigsacalm.
+Viladrau: Montseny.
+Vilajuiga: Cap. de Creu-Serra de Roda.
+Vilallonga de Ter: Puigmal-Costabona.
+Vilamaniscle: Alberes.
+III. Provincia de Lleida
+Municipio: Abella de la Conca; espacio(s), Boumort/Collegats-Baix Pallars.
+Ager: Montsià.
+Agramunt: Serra d’Almenara.
+Alá-Cerc: Cadí-Moixeró-Pedraforca.
+Alfarràs: Erms de Raimat i Almacelles.
+Alfes: Erms de Sunyer.
+Alguaire: Erms de Raimat i Almacelles.
+Alins de Vallferrera: Pica d’Estats-Vall Ferrera-Pans de Boavi.
+Almacelles: Erms de Raimat i Almacelles.
+Almatret: Turons de Maials i Almatret.
+Alt Aneu: Aiguestortes-Sant Maurici, Marimanya.
+Alt Aran: Aigüestortes-San Murici, Marimanya, Valarties, Vall d’Aran.
+Arres: Vall d’Aran.
+Avellanes-Santa Linya: embassament de Camarasa.
+Baix Pallars: Boumort/Collegats-Baix Pallars, Estany de Montcortes, Congost de Collegats, Gerri de la Sal.
+Balaguer: Partidor de Balaguer.
+Barruera: Aiguestortes-Sant Maurici.
+Bausèn: Baix Aran, Vall d’Aran.
+Bellver de Cerdanya: Meranges-Puigpedros, Vall de la Llosa, Cadí-Moixeró-Pedraforca.
+Les Bordes: l’Artiga de Lin, Vall d’Aran.
+Bossots: Muntanyes de Lés i Bossost, Baix Aran, Vall d’Aran.
+Cabó: Boumort/Collegats-Baix Pallars.
+Camarasa-Fontllonga: Montsec, Embassament de Camarasa, Embassament de Llorenç.
+Canejan: Vall de Sant Joan de Toran, Baix Aran, Vall d’Aran.
+Castell de Mur: Montsec, Embassament de Cellers.
+Cava: Cadí-Moixeró-Pedraforca.
+Coll de Nargo: Boumort/Collegats-Baix Pallars, Aubens-Sant Honorat-el Corb.
+La Coma i la Pedra: Port del Compte.
+Corbins: Aiguabarreig Segre-Noguera Ribagorcana.
+Espot: Auiguestortes-Sant Maurici, montsent de Pallars.
+Esterri de Cardos: Vall de Cardos.
+Farrera de Pallars: Sant Joan de l’Erm/Vall Ferrerra-Santa Magdalena/Ras de Conques.
+Figols i Alinya: Port del Compte.
+Gavet de la Conca: Montsec, Embassament de Cellers.
+Gósol: Ensija-Rasos de Peguera, Cadí-Moixeró-Pedraforca.
+La Granja d’Escarp: Tossal de Montmeneu.
+La Guingueta: Montsent de Pallars.
+Guixers: Ensija-Rasos de Peguera, Busa/Serra de Bastets.
+Ivars d’Urgell: Antic Estany d’Ivars.
+Josa-Tuixen: Cadí-Moixeró-Pedraforca, Port del Compte.
+Lés: Muntanyes de Lés i Bossot, Baix Aran, Vall d’Aran.
+Lladorre: Pica d’Estats-Vall Ferrera-Plans de Boavi/Vall Ferrera-Santa Magdalena, Vall de Cardos.
+Lladurs: Busa/Serra de Bastets.
+Llavorsi: Sant Joan de l’Erm/Vall Ferrera, Santa Magdalena/Ras de Conques.
+Lleida: Erms de Raimat i Almacelles.
+Lles: Meranges-Puigpedrós/Vall de la Llosa, Estanys de la Péra.
+Llimiana: Montsec, Embassament de Cellers.
+Maials: Turons de Maials i Almatret.
+La Molsosa: Castelltallat.
+Montellà de Cadí: Cadí-Moixeró-Pedraforca.
+Montferrer-Castellbó: Sant Joan de l’Erm/Vall Ferrera-Santa Magdalena/Ras de Conques.
+Navés: Busa/Serra de Bastets.
+Odèn: Busa/Serra de Bastets, Port del Compte.
+Os de Balaguer: Partidor de Balaguer.
+Pallars Jussà: Boumort/Collegats-Baix Pallars, Congost de Collegats, Sant Gervàs.
+Peramola: Aubens-Sant Honorat-el Corb.
+La Pobla de Segur: Boumort/Collegats-Baix Pallars, Congost de Collegats, Sant Gervàs.
+El Pont de Suert: Sant Gervàs.
+Preixens: Serra d’Almenara.
+Puigverd d’Agramunt: Serra d’Almenara.
+Rialb de Noguera: Montseny de Pallars, Sant Joan de l’Rrm/vall Ferrera-Santa Magdalena.
+Salas: Sant Gervàs.
+Sant Rsteve de la Darga: Montsec.
+Sant Llorenç de Morunys: Busa/Serra de Bastets.
+Sarroca de Lleida: Embassament d’Utxesa.
+Senterada: Sant Gervàs.
+Seros: Tossal de Montmeneu.
+Soriguera: Boumort/Collegats-Baix Pallars, Congost de Collegats, Sant Gervàs.
+Sort: Montsent de Pallars.
+Sunyer: Erms de Sunyer.
+Tirvia: Vall Ferrera-Santa Magdalena.
+Tornabous: Serra d’Almenara.
+La Torre de Cabdella: Montsent de Pallars.
+Torres de Segre: Embassament d’Utxesa.
+Tremp: Sant Gervàs, Embassament de Cellers.
+Vall de Cardós: Vall de Cardós.
+Valls d’Aguilar: Bumort/Collegats-BBix Pallars.
+Valls de la valira: Sant Joan de l’Erm/Vall Ferrera, Santa Magdalena/Ras de Conques.
+La Vansa i Fornols de Cadí: Cadí-Moixeró-Pedraforca, Port del Compte.
+Viella-Mig Aran: l’Artiga de Lin, Ribera de Varrados, Hospital de Viella, Vall d’Aran.
+Vilamós: Ribera de Varrados, Vall d’Aran.
+Vilanova de la Barca: Aiguabarreig Segre-Noguera Ribagorcana.
+Vilanova de Meia: Montsec.
+IV. Provincia de Tarragona
+Municipio: Alforja; espacio(s), Muntanyes de Prades.
+Aiguamurcia: Ancosa-Puigcastellar/Montagut-Montclar.
+Alcover: Muntanyes de Prades.
+Alcanar: Montsià.
+Alfara dels ports: Ports de Tortosa.
+Amposta: Delta de l’Ebre, Montsià.
+L’Arbolí:Prades.
+L’Argentera: Llaberia-Colldejou.
+Arnés: Ports de Tortosa.
+Benifallet: Cardó.
+Benissanet: Serres de Pandols i de Cavalls.
+Cabassers: Montsant.
+Capafonts: Prades.
+Capcanes: Llaberia-Colldejou.
+Colldejou: Llaberia-Colldejou.
+Corbera de Terra Alta: Serres de Pàndols i de Cavalls.
+El Catllar: Gorges i Embassament del Gaià.
+Cornudella de Montsant: Prades, Montsent, Siurana.
+Deltebre: Delta de l’Ebre.
+Duesaigues: Llaberia-Colldejou.
+L’espluga de Francoli: Prades.
+La Febró: Prades.
+Freginals: Montsià.
+Gandesa: Serres de Pandols i de Cavalls.
+Horta de Sant Joan: Ports de Tortosa.
+Marça: Llaberia-Colldejou.
+Margalef: Montsant.
+Más de Barberans: Ports de Tortosa.
+Miravet: Cardó, Serres de Pàndols i de Cavalls.
+Montblanc: Prades.
+El Montmell: el Montmell.
+Mont-ral: Prades.
+Mont-roig: Llaberia-Colldejou.
+Móra d’Ebre: Serres de Pàndols i de Cavalls.
+La Morera de Montsant: Montsant.
+Paüls: Ports de Tortosa.
+El Perelló: Delta de l’Ebre, Cardó.
+Les Piles: Ancosa-Puigcastellar/Montagut-Montclar.
+El Pinell de Brai: Terrers de Pandols i de Cavalls.
+El Pont d’Armentera: Ancosa-Puigcastellar/Montagut-Montclar.
+Pradell de la Teixeta: Llaberia-Colldejou.
+Prades: Prades.
+Prat de Compte: Ports de Tortosa.
+Pratdip: Llaberia-Colldejou.
+Querol: Ancosa-Puigcastellar/Montagut-Montclar.
+Rasquera: Cardó.
+Renau: Gorges i Embassament del Gaià.
+La Riba: Muntanyes de Prades.
+Riudecanyes: Llaberia-Colldejou.
+Roquetes: Ports de Tortosa.
+Salomo: Gorges i Embassament del Gaià.
+Santa Perpetua de Gaià: Ancosa-Puigcastellar/Montagut-Montclar.
+Sant Carles de la Rapita: Delta de l’Ebre.
+Sant Jaume d’Enveia: Delta de l’Ebre.
+Sarral: Ancosa-Puigcastellar/Montagut-Montclar.
+La Sénia: Ports de Tortosa.
+La Selva del Camps: Puig d’en Cama.
+Tivenys: Cardó.
+Tivissa: Llaberia-Colldejou.
+La torre de Fontaubella: Llaberia-Colldejou.
+Tortosa: Ports de Tortosa, Cardó.
+Ulldecona: Montsiá, Ulldecona.
+Ulldemolins: Montsant.
+Vallclara: Prades.
+Vandellós; Llaberia-Colldejou.
+Vespella: Gorges i Embassament del Gaià.
+Vilabella del Camp: Gorges i Embassament de Gaià.
+Vilanova d’Escornalbou: Llaberia-Colldejou.
+Vilanova de Prades: Prades.
+Vilaverd: Muntayes de Prades.
+Vimbodí: Prades.
+
+## [Información relacionada]
+
+Información relacionada
+ Véase en cuanto a la suspensión de la vigencia y aplicación de esta ley, la providencia del TC de 1 de abril de 1982, que admite a trámite el recurso de inconstitucionalidad 114/1982. Ref. BOE-A-1982-8828., el auto del TC de 23 de julio de 1982. Ref. BOE-A-1982-19808. y la Sentencia del TC 64/1982, de 4 de noviembre. Ref. BOE-T-1982-32604.

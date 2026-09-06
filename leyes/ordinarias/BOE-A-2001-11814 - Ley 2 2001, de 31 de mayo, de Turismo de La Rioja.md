@@ -1,0 +1,675 @@
+# Ley 2/2001, de 31 de mayo, de Turismo de La Rioja.
+
+- Identificador BOE: `BOE-A-2001-11814`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-11814
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley.
+Exposición de motivos
+I
+Hoy en día hablamos del turismo con tal familiaridad que parece que es un hábito inherente a la condición humana, desarrollado durante siglos sin más diferencias que las modas en los destinos. Sin embargo, el turismo, tal y como ahora lo entendemos, es un fenómeno relativamente reciente. El mismo vocablo, que proviene del inglés «tourism», no comenzó a utilizarse hasta principios del siglo XIX, y lo hizo para designar la afición a viajar, siendo el turista un sinónimo de viajero. Fue Stendhal el que popularizó el uso de la palabra, en 1838, con su obra «Mémoires d’un touriste». En aquel entonces, la enciclopedia Larousse definía al turista como «la persona que viaja por curiosidad y ocio», definición que hoy debe ampliarse al englobar también a quienes viajan por otras motivaciones. Así, la Organización Mundial del Turismo lo define como «las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, por negocios y otros motivos».
+Las causas que dieron origen al turismo fueron diversas. Las primeras prácticas turísticas estaban acotadas por las clases más acomodadas, y los motivos eran culturales o de salud, en este caso debido a los efectos beneficiosos que para ésta causaban las estancias en el campo, en el mar o en los balnearios.
+La ampliación social de dichas prácticas se originó con la progresiva consecución de derechos laborales, como el derecho al descanso y a las vacaciones (derecho al ocio) y con los avances técnicos en el transporte y el consiguiente desarrollo de las comunicaciones, hasta el punto de que se requirió una nueva forma de organización temporal de las actividades humanas, en las que se alternara el tiempo dedicado al trabajo o a las actividades escolares con el dedicado al descanso.
+Desde entonces hasta nuestros días el auge del turismo ha ido paralelo a la generalización de las mejoras en las condiciones económicas y sociales de la población, hasta el punto de que hoy en día millones de personas son turistas en una o varias épocas del año, pudiendo hablarse, sin ninguna reticencia, de un auténtico fenómeno de masas.
+España es un claro exponente de la importancia del turismo, fuente de nuestro desarrollo, por cuanto somos el tercer país del mundo con mayor recepción de turistas extranjeros. Así, según los datos publicados por la Organización Mundial de Turismo, España ha recibido en el año 2000 48,5 millones de turistas, ocupando el tercer lugar tras Estados Unidos y Francia. Los ingresos obtenidos por turismo representan aproximadamente el 11 por 100 del PIB, siendo desde el punto de vista económico el sector más importante.
+En la Unión Europea, el turismo representa una media del 5,5 por 100 del PIB de los países miembros y da empleo a unos 9 millones de personas, lo que representa el 6 por 100 del total de puestos de trabajo que existen en los países comunitarios, siendo el sector que registra un mayor crecimiento.
+Pero además de su trascendencia económica, el fenómeno turístico tiene una enorme incidencia en otros ámbitos (social, político, jurídico, cultural, comercial, medioambiental...), afectando de diferente manera según sea la posición de los sujetos ante dicho fenómeno, bien como usuario bien como prestador de servicios turísticos, de ahí que sean también múltiples y muy diferentes los enfoques desde los que puede ser objeto de estudio y regulación. Por esta razón, esta Ley regula aspectos generales del sector turístico y de la actividad turística y posibilita que se concreten actuaciones sectoriales a través de los correspondientes reglamentos de desarrollo.
+II
+Es evidente que el Derecho, en concreto el Derecho español, no podía ser ajeno a esta realidad y ya en 1905 nació la primera norma jurídica turística, el Real Decreto por el que se creó una comisión para fomentar las excursiones artísticas y de recreo del público extranjero. El desarrollo normativo fue avanzando a medida que lo hacía el siglo, hasta llegar a su máximo cenit en la década de los años sesenta, en paralelo a los planes de desarrollo.
+La nueva vertebración territorial emanada con la Constitución española de 1978 ha supuesto un cambio sustancial al atribuir a las Comunidades Autónomas la posibilidad de asumir la competencia exclusiva en materia de turismo, posibilidad que se ha hecho efectiva a través de sus respectivos Estatutos, hasta el punto de que la mayoría de ellas tienen su propia Ley de Turismo y normas reglamentarias de desarrollo que han dejado sin aplicación, en su ámbito respectivo, las normas estatales, las cuales siguen teniendo un valor supletorio a pesar de su obsolescencia.
+El Derecho comunitario también ha tenido una clara evolución pasando del silencio del Tratado de Roma de 1957, que ni siquiera lo nombró dentro del sector terciario, a hacer referencias al mismo en los Tratados de Mastricht y de Amsterdam, sin duda como consecuencia de la adhesión de Grecia, España y Portugal, potencias turísticas de primer orden.
+Hoy en día, la Unión Europea es consciente de que el fomento del turismo puede contribuir a la realización de los objetivos de la Comunidad y, especialmente, al crecimiento y al empleo, al fortalecimiento de la cohesión económica y social y al fomento de la identidad europea. Sin embargo, la actividad de las instituciones comunitarias a favor del turismo es escasa, faltando una política comunitaria a largo plazo en esta materia, siendo también escasas las normas de obligado cumplimiento publicadas.
+Por otro lado, la Ley ha tenido en cuenta las Recomendaciones que en 1995 dio la Comisión de la Organización Mundial de Turismo, para la elaboración de una norma básica de turismo, así como el Código Ético Mundial para el Turismo, adoptado por la Asamblea General de la OMT en Santiago de Chile en octubre de 1999.
+El Estatuto de Autonomía de La Rioja, aprobado por Ley Orgánica 3/1982, de 9 de junio, en su redacción dada por las Leyes Orgánicas 3/1994, de 24 de marzo, y 2/1999, de 7 de enero, dispone en su artículo 8.1.9 que corresponde a la Comunidad Autónoma de La Rioja la competencia exclusiva en materia de promoción y ordenación del turismo en su ámbito territorial.
+Posteriormente, mediante Real Decreto 2772/1983, de 1 de septiembre, se aprobó el traspaso a la Comunidad Autónoma de La Rioja de las funciones y servicios del Estado en materia de turismo, sin otras limitaciones que las facultades reservadas al Estado en la Constitución.
+En ejercicio de esta competencia se aprobaron diferentes disposiciones normativas reguladoras de diversos aspectos específicos de la actividad turística, pero sólo una de ellas tuvo rango legal: La Ley 5/1990, de 29 de junio, de Inspección, Infracciones y Sanciones en materia de Turismo.
+El marco normativo existente está configurado por una legislación turística abundante y dispersa que, en ocasiones, no se corresponde con las nuevas realidades del hecho turístico y que limita las posibilidades de diversificación y diferenciación de nuestra oferta turística en un mercado cada vez más competitivo y exigente.
+Esta dispersión normativa del sector turístico en La Rioja requiere una Ley que, de un modo general y sistemático, aborde la ordenación, promoción y planificación del sector, así como la regulación de los instrumentos de inspección y sanción, dando cobertura legal a futuras y necesarias disposiciones reglamentarias. Esta Ley debe perseguir unos objetivos básicos, además de la propia ordenación del sector: La promoción de un turismo de calidad; la utilización de planes y la aplicación del principio de desarrollo sostenible, la preservación y mejora del patrimonio histórico y cultural, así como la superación de los desequilibrios económicos y sociales.
+Respecto a la calidad en la prestación de servicios turísticos, son numerosas las perspectivas desde las que puede contemplarse (del cliente, según el tipo de servicio, técnica, estadística, económica...), y también numerosos los sistemas y acciones para garantizarla y certificarla, según la variedad del producto ofertado y de los objetivos perseguidos (Planes de Excelencia, Sistemas de Calidad de hoteles, «camping» o restaurantes, Clubes de Calidad, etc.). Pues bien, esta Ley exige la adopción, tras el necesario estudio y planificación, de medidas y sistemas para garantizar la calidad de los servicios turísticos en su acepción más amplia, dado que prácticamente todos los servicios de una comunidad inciden en mayor o menor medida en el turismo, independientemente de que los miembros de esa comunidad sean los beneficiarios habituales de esos servicios. Y en este sentido es importante que el personal empleado en el sector tenga el nivel de formación y profesionalidad adecuado, corrigiendo el intrusismo en aquellas profesiones cuyo ejercicio requiere de titulación académica o autorización administrativa, y la temporalidad de los empleos, derivado del hecho de que son concebidos, en muchos casos, como situaciones transitorias y previas a la consecución de un empleo en otro sector de actividad.
+Íntimamente conectado con la calidad se encuentra el desarrollo sostenible hasta el punto de que no se entiende el primero sin el segundo, de forma que hoy en día todo el mundo es consciente de que la explotación de cualquier recurso o la prestación de cualquier servicio debe hacerse evitando el deterioro medioambiental y de las condiciones de vida tanto actuales como futuras, asociando tecnología, naturaleza y humanidad.
+Por otra parte, la utilización de planes de carácter técnico y económico previos a la adopción de medidas, principalmente de fomento, obedece a la necesidad de racionalizar los recursos, en gran parte públicos, que se destinan a esos cometidos, seleccionando y priorizando actuaciones. La planificación partirá de un Plan General de Turismo de La Rioja y deberá tener el contenido a que se refiere el artículo 25 del texto legal, pudiendo ser desarrollado por los planes parciales y programas que se consideren necesarios.
+En definitiva, el turismo puede y debe contribuir positivamente en La Rioja a conciliar protección ambiental, respeto y conservación del patrimonio histórico, artístico y cultural, desarrollo económico y creación de empleo y riqueza, siendo esta Ley el instrumento jurídico previo y necesario para conseguirlo.
+III
+La presente Ley se estructura en cinco Títulos y consta de 53 artículos, tres disposiciones transitorias, una adicional, una derogatoria y dos finales.
+El Título I recoge algunos de los conceptos y definiciones básicas que han sido establecidas por la Organización Mundial del Turismo en el ámbito internacional, así como la delimitación de competencias, el ámbito de aplicación y los objetivos de la Ley.
+El Título II determina los derechos y obligaciones que corresponden a los usuarios y proveedores de servicios turísticos.
+El Título III se dedica a la ordenación de la oferta turística, relacionando el marco general de la concesión, revocación y registro de las autorizaciones y licencias para ejercer la actividad turística en el ámbito de la Comunidad Autónoma de La Rioja, y se establecen las definiciones y requisitos básicos de cada una de las empresas, actividades y profesiones que se autoricen.
+El Título IV recoge las principales innovaciones de la Ley, regulando la planificación del desarrollo turístico en nuestra región, a través del Plan General de Turismo de La Rioja; las acciones y herramientas de promoción y fomento de esta actividad económica y proponiendo la existencia de una sociedad mercantil de desarrollo turístico.
+Por último, el Título V regula la inspección y el régimen sancionador, tipificando las infracciones y sanciones que corresponden en cada caso.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto y ámbito de aplicación.
+1. Es objeto de esta Ley la regulación del turismo en La Rioja mediante la determinación de los principios y normas a que habrá de ajustarse la actividad de la Administración, de las empresas y de los particulares en materia de ordenación y planificación, promoción y fomento.
+2. Los preceptos de esta Ley se aplicarán a las empresas turísticas y sus establecimientos, a las actividades, profesiones, entidades turísticas no profesionales, usuarios y recursos turísticos de La Rioja, así como a la Administración y a todos aquellos que presten servicios turísticos en el ámbito de la Comunidad Autónoma de La Rioja.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de esta Ley, se entiende por:
+a) Turismo: El desplazamiento y permanencia de las personas fuera de su domicilio habitual por razones de ocio, negocio, salud, religión y cultura.
+b) Actividad turística: La destinada a proporcionar a los usuarios los servicios de alojamiento, intermediación, restauración, información, acompañamiento, ocio o cualquier otro servicio relacionado directamente con el turismo.
+c) Recursos turísticos: Los bienes y el patrimonio cultural y natural que puedan generar corrientes turísticas con repercusiones en la situación económica de una colectividad.
+d) Turistas: Las personas que utilizan los establecimientos, instalaciones y recursos turísticos, o reciben los bienes y servicios que les ofrecen las empresas y profesionales turísticos.
+e) Empresas turísticas: Aquellas que, mediante precio y de forma profesional y habitual, bien sea de modo permanente o temporal, prestan servicios en el ámbito de la actividad turística.
+f) Establecimientos turísticos: Los locales o instalaciones abiertos al público y acondicionados de conformidad con la normativa aplicable, en los que se presten servicios turísticos.
+g) Proveedores de servicios turísticos: Son las empresas, los establecimientos, las profesiones turísticas y cualquier persona o entidad que preste servicios de carácter turístico.
+
+### Artículo 3
+
+Artículo 3. Órganos.
+1. Corresponden a la Consejería competente en materia de turismo las atribuciones que se confieran a la Administración de la Comunidad Autónoma de La Rioja por esta Ley, las cuales serán ejercidas por el titular de la Consejería o por la Dirección General competente.
+2. A la Consejería competente en materia de Turismo se adscribirá el Consejo de Turismo de La Rioja, órgano colegiado de carácter consultivo de la Comunidad en esta materia. Su composición, organización, funcionamiento y competencias se determinarán reglamentariamente.
+En todo caso, será consultado en la elaboración de Planes Turísticos y de disposiciones reglamentarias que afecten al sector, sin perjuicio de las competencias que pudieran corresponder a otros órganos conforme a lo que disponga la normativa sectorial correspondiente.
+
+### Artículo 4
+
+Artículo 4. Competencias de la Administración de la Comunidad Autónoma de La Rioja.
+1. Corresponden a la Administración de la Comunidad Autónoma de La Rioja, en el marco de su Estatuto de Autonomía, las siguientes competencias:
+a) La ordenación turística en la Comunidad Autónoma de La Rioja, entendiendo por ordenación tanto el ejercicio de la potestad reglamentaria como el control de la actividad.
+b) La comprobación, vigilancia y control del cumplimiento de la normativa turística.
+c) El otorgamiento de clasificaciones a los proveedores de servicios turísticos conforme lo establecido en el artículo 9.
+d) La creación y la gestión del Registro de Proveedores de Servicios Turísticos.
+e) La inspección y control de los proveedores de servicios turísticos, así como la adopción de medidas sancionadoras, en el marco de lo establecido en esta ley.
+f) El asesoramiento técnico sobre proyectos de empresas y establecimientos turísticos.
+g) La promoción del turismo, de la imagen de La Rioja y de sus recursos turísticos en el ámbito regional, nacional e internacional, sin perjuicio de las competencias del Estado.
+h) La planificación de la actividad turística.
+i) La propuesta y seguimiento de las actividades de fomento y de las acciones de formación dirigidas a los profesionales del sector turístico.
+j) La gestión y administración de los equipamientos turísticos cuya titularidad corresponda a la Comunidad Autónoma de La Rioja.
+k) El fomento de la innovación y digitalización del sector turístico.
+l) La promoción y desarrollo de un turismo sostenible y responsable.
+m) La investigación y desarrollo en materia de turismo.
+n) En general, la ejecución de la política de la Comunidad Autónoma de La Rioja en materia turística y cuantas competencias le atribuyan esta ley y demás normas aplicables.
+2. En el ámbito de la Comunidad Autónoma, las relaciones entre los diversos entes públicos con competencias turísticas se ajustarán a los principios de coordinación, cooperación, colaboración y descentralización.
+El Gobierno podrá coordinar el ejercicio de las competencias de las entidades locales en materia de turismo en los términos previstos en el artículo 59 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local. A tal efecto, podrá definir los objetivos de interés autonómico y determinar las prioridades de acción pública en relación con la actividad turística a través de los correspondientes instrumentos de planificación, previa audiencia de los entes locales afectados, directamente o a través de las entidades que les representen.
+La coordinación se llevará a cabo con respeto a los respectivos ámbitos de competencia, sin afectar en ningún caso a la autonomía de las entidades locales.
+Se modifica por el art. 13.1 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica el apartado 1.c) por el art. 50.1 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 5
+
+Artículo 5. Objetivos.
+La actuación de la Administración de la Comunidad Autónoma de La Rioja en materia turística tendrá como objetivos:
+a) La promoción de un turismo de calidad, acorde con las expectativas y necesidades de la demanda.
+b) Propiciar el crecimiento de la actividad turística mediante la utilización de planes y desde el enfoque del desarrollo sostenible, promoviendo la conservación y el respeto de los valores ecológicos y culturales de La Rioja.
+c) La protección de los derechos de los turistas.
+d) La ordenación de las empresas, establecimientos y actividades turísticas.
+e) La formación, especialización y perfeccionamiento de los profesionales del sector, así como la regulación de las profesiones turísticas.
+f) Promover el asociacionismo dentro del sector, principalmente cuando tienda a la mejora de la calidad de la oferta.
+g) La coordinación interadministrativa.
+
+## TÍTULO II
+
+Derechos y obligaciones
+
+### Artículo 6
+
+Artículo 6. Derechos y obligaciones de los turistas.
+1. Los turistas, con independencia de los derechos que les asisten como consumidores, tendrán, en los términos previstos en esta Ley, los siguientes derechos:
+a) A recibir información útil, precisa y veraz, con carácter previo, sobre los recursos turísticos y sobre las condiciones de prestación de los servicios.
+b) A disfrutar de los bienes y servicios turísticos en las condiciones contratadas.
+c) A obtener cuantos documentos acrediten los términos de su contratación y, en cualquier caso, las correspondientes facturas legalmente emitidas.
+d) A recibir de los proveedores turísticos bienes y servicios de calidad acordes en naturaleza y cantidad con la categoría que ostente el establecimiento elegido.
+e) A formular quejas y reclamaciones, en las condiciones que reglamentariamente se determinen.
+2. Los turistas tendrán las siguientes obligaciones:
+a) A respetar las normas particulares de los proveedores cuyos servicios disfruten o contraten y, particularmente, los reglamentos de uso o de régimen interior, con arreglo a la legislación vigente.
+b) A pagar el precio de los servicios utilizados en el momento de la presentación de la factura o en el plazo pactado.
+c) A respetar el entorno y los recursos turísticos evitando acciones imprudentes o lesivas para el medio ambiente natural y el patrimonio cultural de La Rioja.
+
+### Artículo 7
+
+Artículo 7. Derechos y obligaciones de los proveedores de servicios turísticos.
+1. Los proveedores de servicios turísticos tienen los siguientes derechos:
+a) A beneficiarse de las actividades de promoción turística realizadas por la Consejería competente en materia de Turismo de la Comunidad Autónoma de La Rioja.
+b) A solicitar las ayudas y subvenciones de las que puedan ser beneficiarios.
+c) A participar en los procesos de toma de decisiones por los poderes públicos a través de sus asociaciones u órganos de representación.
+d) A ser protegidos, por parte de la Administración, contra la competencia desleal en el sector.
+2. Los proveedores de servicios turísticos tienen las siguientes obligaciones:
+a) A destinar sus instalaciones a la prestación de los servicios turísticos objeto de regulación por la presente Ley en los términos de su inscripción en el Registro de Proveedores de Servicios Turísticos.
+b) A anunciar o informar a los turistas, previamente, sobre las condiciones de prestación de los servicios y de su precio.
+c) A facilitar los bienes y servicios con la máxima calidad en los términos contratados, de acuerdo con la categoría del establecimiento, en su caso, y con lo dispuesto en las reglamentaciones correspondientes.
+d) A cuidar del buen funcionamiento y mantenimiento de todas las instalaciones y servicios del establecimiento, eliminando las barreras arquitectónicas que pudieran afectar a los discapacitados, de conformidad con la normativa vigente.
+e) A poner a disposición del cliente, cuando lo solicite, la documentación preceptiva para formular reclamaciones.
+f) A facilitar a la Administración la información y documentación preceptiva para el correcto ejercicio de las atribuciones que legal y reglamentariamente le correspondan.
+g) A preservar el medio ambiente y los recursos turísticos evitando prácticas imprudentes o agresivas hacia el medio o los bienes.
+h) A cumplir con las obligaciones que, en materia de seguridad y salud, les imponga la legislación vigente y, en su caso, los reglamentos de régimen interno.
+i) A cumplir con el resto de obligaciones exigibles por otras normativas que afectan a los proveedores de servicios turísticos y, en concreto, con los principios del Código Ético de la Organización Mundial de Turismo.
+j) A suscribir seguros de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio en aquellos casos en que los servicios que presten presenten un riesgo directo y concreto para la salud o para la seguridad del destinatario o de un tercero, o para la seguridad financiera del destinatario, en la forma establecida reglamentariamente.
+Se añade la letra j) al apartado 2 por el art. 50.2 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+## TÍTULO III
+
+Ordenación de la oferta turística
+
+## CAPÍTULO I
+
+Normas generales
+
+### Artículo 8
+
+Artículo 8. Comunicación previa de inicio de actividad.
+1. Los proveedores de servicios turísticos, incluidos en el ámbito de aplicación de esta ley, deberán comunicar a la Consejería competente en materia de Turismo el inicio de su actividad.
+2. A la comunicación de inicio de actividad se acompañará la documentación exigida reglamentariamente, así como la que le fuera requerida para comprobar el cumplimiento de las normas sectoriales que fueran de aplicación, en especial de la normativa urbanística, sin perjuicio de las competencias que corresponden a los órganos competentes con el fin de proceder a la correspondiente clasificación e inscripción en el Registro de Proveedores de Servicios Turísticos.
+3. Una vez presentada la documentación exigida en el apartado anterior, se procederá, en su caso, a la inspección de los establecimientos turísticos con el fin de comprobar si procede la inscripción en el Registro de proveedores de Servicios Turísticos y para determinar la clasificación correspondiente.
+4. La publicidad por cualquier medio de difusión o la efectiva prestación de servicios turísticos sin haber cumplido el deber de comunicación previa de inicio de actividad será considerada infracción administrativa.
+5. Sin perjuicio de lo establecido en el apartado primero, los proveedores de servicios turísticos deberán comunicar a la Consejería competente en materia de Turismo el cambio de titularidad y el cese de la actividad.
+Se modifican los apartados 2 y 3 por el art. 5.1 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica por el art. 50.3 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 9
+
+Artículo 9. Clasificaciones.
+1. Corresponde a la Consejería competente en materia de Turismo la clasificación de las empresas turísticas y establecimientos turísticos, con arreglo al procedimiento reglamentariamente establecido, independientemente de la intervención administrativa de otros organismos en el ámbito de sus respectivas competencias.
+2. Las modificaciones que afecten a las condiciones de la correspondiente clasificación deberán ser comunicadas, por los proveedores de servicios turísticos, a la Consejería competente en materia de Turismo.
+3. La Consejería competente en materia de Turismo podrá revisar de oficio la clasificación turística de los establecimientos hoteleros. Cuando no reúnan o mantengan los requisitos exigidos en la normativa turística, en este caso, se requerirá informe técnico de la inspección, y concluirá mediante resolución motivada, previa audiencia al interesado.
+4. Queda prohibido comercializar, contratar, incluir en catálogos y hacer publicidad de alojamientos turísticos que carezcan de la clasificación pertinente, pudiéndose incurrir en estos casos en las infracciones previstas en esta ley.
+Se modifica por el art. 50.4 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 10
+
+Artículo 10. Registro de Proveedores de Servicios Turísticos.
+1. El Registro de Proveedores de Servicios Turísticos es un registro público y gratuito, de carácter informativo y de naturaleza administrativa, adscrito a la Consejería competente en materia de Turismo.
+2. La inscripción en el registro se practicará de oficio para los proveedores de servicios turísticos que ejerzan cualquier tipo de actividad turística en el ámbito territorial de la Comunidad de La Rioja y que tengan su sede central, delegación o establecimiento en el mismo, una vez concedida la correspondiente clasificación turística conforme a los procedimientos establecidos reglamentariamente para cada caso.
+3. No obstante, para la prestación en La Rioja de servicios turísticos sin establecimiento, de manera temporal u ocasional, los proveedores de servicios turísticos de otras comunidades autónomas o de los Estados miembros de la Unión Europea, habilitados en sus respectivas comunidades o países para la prestación de servicios turísticos a que se refiere esta ley, no necesitan figurar inscritos en el Registro de Proveedores de Servicios Turísticos, sin perjuicio de las facultades de inspección de la Consejería competente en materia de Turismo.
+Se modifica por el art. 50.5 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+## CAPÍTULO II
+
+Ordenación sectorial
+
+## Sección 1
+
+Sección 1.ª De la actividad turística de alojamiento
+
+### Artículo 11
+
+Artículo 11. Definición.
+1. A los efectos de esta Ley, se entiende por actividad turística de alojamiento la ejercida por las empresas que presten servicios de hospedaje al público mediante precio, de forma profesional, bien sea de modo permanente o temporal, con o sin prestación de servicios complementarios.
+2. Quedan exceptuadas las actividades de alojamiento que tengan fines institucionales, sociales, asistenciales, laborales, de carácter docente o estudiantil y similares. También quedan excluidas aquellas que se desarrollen en el marco de programas de la Administración dirigidos a la infancia y a la juventud.
+
+### Artículo 12
+
+Artículo 12. Clasificación.
+Los servicios de alojamiento turístico se ofertarán bajo alguna de las siguientes modalidades:
+a) Establecimientos hoteleros.
+b) Apartamentos turísticos.
+c) Campamentos de turismo o «camping».
+d) Establecimientos de turismo rural y albergues turísticos.
+e) Cualquier otra que reglamentariamente se determine.
+
+### Artículo 13
+
+Artículo 13. Establecimientos hoteleros.
+1. Los establecimientos hoteleros se clasifican como sigue:
+a) Hoteles: Son los establecimientos que ofrecen la prestación del servicio de alojamiento turístico en unidades, con o sin servicios complementarios, que ocupan la totalidad de un edificio o parte independizada del mismo constituyendo sus dependencias un todo homogéneo con entradas, ascensores y escaleras de uso exclusivo, y reúnen los requisitos técnicos mínimos que reglamentariamente se establezcan.
+En atención a determinados servicios o instalaciones, al tipo de edificio o a su localización, se podrá solicitar y obtener de la Administración el reconocimiento de alguna denominación especial, como hotel de montaña, hotel rural u otras que reglamentariamente se determinen.
+b) Hostales: Son aquellos establecimientos que, ofreciendo alojamiento en habitaciones, con o sin otros servicios complementarios, por sus estructuras y características no alcancen los niveles exigidos para ser clasificados como hoteles.
+c) Pensiones: Son aquellos otros establecimientos que, ofreciendo alojamiento en habitaciones, con o sin otros servicios complementarios, por sus estructuras y características no alcancen los niveles exigidos para ser clasificados como hostales.
+2. Reglamentariamente se determinarán los grupos, categorías, modalidades y requisitos que se utilizarán para clasificar los establecimientos hoteleros.
+
+### Artículo 14
+
+Artículo 14. Apartamentos turísticos.
+Se consideran apartamentos turísticos los inmuebles integrados por unidades de alojamiento complejas, dotadas de instalaciones y servicios adecuados para la conservación, elaboración y consumo de alimentos y bebidas dentro de cada unidad de alojamiento y destinados, de forma habitual, al alojamiento turístico sin carácter de residencia permanente, mediante precio y bajo el principio de unidad de explotación empresarial.
+
+### Artículo 15
+
+Artículo 15. Campamentos de turismo o «camping».
+1. Se consideran Campamentos de turismo o «camping», los espacios de terreno, debidamente delimitados y acondicionados, que proporcionan una prestación de servicios a cambio de un precio, y que están dotados con los correspondientes servicios e instalaciones, para su ocupación temporal por aquellas personas que pretendan hacer vida al aire libre, con fines vacacionales o turísticos, mediante la utilización de tiendas de campaña, caravanas, casas móviles, así como de elementos fijos prefabricados acordes con el entorno.
+2. Quedan excluidos de la presente Ley los campamentos juveniles, los centros y colonias escolares y, en general, cualquier campamento en el que la prestación de los servicios de alojamiento turístico se realice de manera ocasional y sin ánimo de lucro.
+3. Reglamentariamente se determinarán las categorías, así como los requisitos que habrán de servir de criterios para su clasificación.
+
+### Artículo 16
+
+Artículo 16. Establecimientos de turismo rural y albergues turísticos.
+1. Se consideran Establecimientos de turismo rural aquellas instalaciones situadas en el medio rural que, con características singulares, se destinan al alojamiento turístico con o sin otros servicios complementarios, de forma habitual y mediante precio.
+2. Son albergues turísticos los establecimientos que faciliten servicio de alojamiento en habitaciones de capacidad múltiple, con o sin servicios complementarios, con la posibilidad de practicar actividades deportivas o de naturaleza.
+3. Quedan excluidos de la presente ley los albergues juveniles que estén sujetos a la Red de Albergues Juveniles y cualquier otro establecimiento similar en el que la prestación del servicio de alojamiento se realice de manera ocasional y sin ánimo de lucro.
+
+## Sección 2
+
+Sección 2.ª De la actividad de intermediación turística
+
+### Artículo 17
+
+Artículo 17. Definición.
+Se considera intermediación turística la actividad de quienes se dedican profesional y habitualmente al ejercicio de actividad de mediación, comercialización y organización de servicios turísticos, pudiendo utilizar medios propios en la prestación de los mismos.
+
+### Artículo 18
+
+Artículo 18. Clases de intermediación.
+Las empresas de intermediación turística, sin perjuicio de que reglamentariamente se amplíen en sus tipos, se clasifican inicialmente en:
+1. Agencias de viaje: son las empresas que se dedican profesional y comercialmente al ejercicio de actividades de mediación y/u organización de servicios turísticos, en régimen de multidisciplinariedad, y se clasifican en:
+a) Mayoristas: son las que median y/u organizan servicios y viajes combinados para ofrecerlos a las agencias minoristas, no pudiendo ofrecer directamente sus productos al turista.
+b) Minoristas: son las que comercializan el producto ofrecido por las agencias mayoristas con la venta directa al usuario, o bien, median y/u organizan servicios sueltos o viajes combinados, no pudiendo ofrecer sus productos a otras agencias.
+c) Mayoristas-minoristas: las que prestan servicios propios de ambos tipos de agencias.
+2. Centrales de reserva: son las empresas y entidades que se dedican principalmente a reservar servicios turísticos de forma individualizada. Las centrales de reserva no tendrán la capacidad para organizar viajes combinados y en ningún caso podrán percibir de los usuarios turísticos contraprestación económica por su intermediación.
+Se modifica por el art. 50.6 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+ Se modifica el apartado 2 por el art. 33 de la Ley 10/2003, de 19 de diciembre. Ref. BOE-A-2004-3068
+
+## Sección 3
+
+Sección 3.ª De la actividad de restauración
+
+### Artículo 19
+
+Artículo 19. Definición.
+1. Se consideran actividades de restauración las ejercidas en aquellos establecimientos abiertos al público que se dedican a servir profesional y habitualmente, de modo permanente o temporal, mediante precio, comidas y bebidas para su consumo en el mismo local.
+2. Se incluyen expresamente como actividad turística complementaria las empresas dedicadas a prestar servicios de hostelería tales como bares y cafeterías.
+3. Quedan excluidos de la actividad de restauración los servicios de comidas de carácter asistencial, institucional, social, o laboral, los comedores universitarios, los centros docentes de hostelería, los servicios de «catering», las sociedades gastronómicas, los comedores de los establecimientos hoteleros y cualesquiera otros destinados a contingentes particulares y no al público en general.
+4. Reglamentariamente se definirá cada uno de los grupos y se determinarán las categorías de los establecimientos de restauración.
+
+## Sección 4
+
+Sección 4.ª Actividad de información turística
+
+### Artículo 20
+
+Artículo 20. Concepto.
+1. La Comunidad Autónoma de La Rioja, a través de sus Oficinas de Turismo o de aquellas gestionadas a través de convenios con entidades locales y asociaciones, facilitará al público información acerca de la oferta y de los recursos relacionados con el turismo y el ocio.
+2. La Comunidad Autónoma de La Rioja regulará la Red de Oficinas de Turismo de La Rioja, estableciendo los requisitos y condiciones necesarias para la integración en la misma.
+3. Las oficinas de turismo se regirán conforme a criterios de homogeneidad de la prestación de los servicios y de identidad de imagen representativa de la actividad a fin de potenciar una imagen turística de calidad de La Rioja.
+Las oficinas de turismo adaptarán su horario y actividad para dar un adecuado servicio a la demanda turística.
+
+### Artículo 21
+
+Artículo 21. Servicio de información turística.
+1. La información turística institucional obedecerá a criterios de veracidad, homogeneidad y eficacia en la comunicación.
+2. Sin perjuicio de las competencias ejercidas por las entidades locales, el servicio de información turística podrá llevarse a cabo a través de Oficinas de Turismo y por medios telemáticos.
+
+## Sección 5
+
+Sección 5.ª Otras actividades turísticas complementarias
+
+### Artículo 22
+
+Artículo 22. Definición.
+1. Se consideran actividades turísticas complementarias las llevadas a cabo por los proveedores que realicen actividades de turismo activo, medioambiental, recreativo o cultural tendentes a procurar el descubrimiento, conocimiento y disfrute de los recursos turísticos, así como la organización de eventos de carácter turístico tales como ferias, congresos, convenciones, seminarios y conferencias.
+2. La realización de dichas actividades deberá comunicarse a la Administración a efectos de su inscripción en el correspondiente registro. La constancia registral de la mencionada actividad no suplirá las autorizaciones sectoriales que resulten preceptivas en cada caso para el ejercicio de la actividad.
+3. Las actividades de turismo activo deberán estar cubiertas por un seguro de responsabilidad civil en los términos fijados reglamentariamente, pudiéndose establecer franquicias en la contratación del mismo.
+Se añade el apartado 3 por el art. 37 de la Ley 13/2005, de 16 de diciembre. Ref. BOE-A-2006-679
+
+## Sección 6
+
+Sección 6.ª Profesiones turísticas
+
+### Artículo 23
+
+Artículo 23. Definición.
+Son profesiones turísticas las relativas a la realización de manera retribuida y de forma habitual u ocasional de actividades de orientación, información, asesoramiento y asistencia en materia de turismo.
+Se modifica por el art. 5.2 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+
+### Artículo 24
+
+Artículo 24. Guías de Turismo.
+1. Tendrán la consideración de guías de turismo quienes de manera retribuida, de forma habitual u ocasional, presten servicios de información y asistencia a los turistas en el ámbito de la Comunidad Autónoma de La Rioja.
+2. La actividad de guía de turismo es de libre prestación, sin perjuicio de lo que pudiera disponer la legislación vigente en cuanto a la formación necesaria para adquirir la adecuada cualificación y competencia profesional.
+3. El reconocimiento por la Administración turística de la habilitación para el ejercicio de la actividad de Guía de Turismo, conforme lo dispuesto en el apartado anterior, conllevará su inscripción de oficio en el Registro de Proveedores de Servicios Turísticos de La Rioja.
+Se modifica por el art. 5.3 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica por el art. 50.7 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+## TÍTULO IV
+
+Planificación y promoción del Turismo
+
+## CAPÍTULO I
+
+Planificación
+
+### Artículo 25
+
+Artículo 25. Plan General de Turismo de La Rioja.
+1. El Gobierno de la Comunidad Autónoma de La Rioja, a iniciativa de la Consejería competente en materia de Turismo, en coordinación con las entidades locales afectadas y previa audiencia del Consejo de Turismo, deberá aprobar un Plan General de Turismo de La Rioja.
+2. El Plan General de Turismo, que no tendrá carácter normativo, describirá necesariamente:
+a) Los recursos susceptibles de ser explotados turísticamente y los criterios para compatibilizar su uso, conservación y puesta en valor.
+b) La oferta de servicios e infraestructuras turísticas existentes y las que se consideran convenientes.
+c) Los objetivos turísticos y los instrumentos y acciones de promoción y fomento para su aplicación.
+d) Las previsiones del coste económico de la ejecución del Plan.
+e) Los planes parciales y programas que se consideren necesarios.
+f) En su caso, las características de aquellas zonas que puedan llegar a ser calificadas «áreas turísticamente saturadas», así como las acciones correctoras a adoptar.
+
+### Artículo 26
+
+Artículo 26. Planes parciales y programas.
+1. Los planes parciales serán aprobados por el Consejero competente en materia de Turismo y les será de aplicación lo dispuesto en el artículo anterior, circunscrito al ámbito a que se refieran.
+2. Los planes de turismo se desarrollarán a través de programas en los que se concretarán las actuaciones sobre temas o aspectos determinados.
+Entre otros se potenciará la realización de programas de calidad de la oferta que favorezcan la mejora y modernización de las empresas y servicios.
+
+## CAPÍTULO II
+
+Promoción y fomento del turismo
+
+### Artículo 27
+
+Artículo 27. La imagen turística.
+1. El uso de los símbolos identificativos, mensajes y estrategias de la imagen turística de la Comunidad Autónoma de La Rioja, deberá ajustarse a las directrices que al objeto se dicten por las Consejerías competentes sobre esta materia, en el ámbito de sus respectivas competencias.
+2. En las iniciativas que tengan como finalidad la producción de soportes de comunicación o campañas de difusión, la inclusión de los símbolos turísticos de la Comunidad Autónoma de La Rioja, que esté debidamente autorizada, deberá cumplir lo anteriormente dispuesto.
+
+### Artículo 28
+
+Artículo 28. La promoción.
+1. Se entiende por promoción turística el conjunto de actividades y medios a través de los cuales se busca la captación de la demanda de servicios turísticos en La Rioja y se apoya la comercialización de los productos turísticos regionales en el ámbito nacional e internacional.
+2. La promoción turística deberá realizarse de forma que se logre la eficacia, en colaboración, cuando sea posible, con el sector privado y con otras Administraciones Públicas.
+
+### Artículo 29
+
+Artículo 29. Actividades.
+1. Se consideran actividades de promoción, entre otras:
+a) El diseño y ejecución de campañas de promoción turística.
+b) La participación en ferias y certámenes relacionados con el sector tanto en el ámbito nacional como internacional, en las condiciones que se establezcan.
+c) El diseño y ejecución de programas para promover La Rioja como sede de ferias, convenciones, congresos y viajes de incentivo empresarial.
+d) La información turística institucional en especial la relativa a material promocional, oficinas de información turística y señalización de los recursos turísticos.
+e) Otras actividades con fines promocionales.
+2. La Consejería competente en materia turística podrá crear y otorgar premios y distinciones turísticas en reconocimiento y estímulo a las actuaciones en favor del turismo y a los recursos turísticos de especial proyección, en las condiciones que reglamentariamente se establezcan.
+3. Asimismo, podrá instituir y declarar fiesta de interés turístico aquellas manifestaciones concretas y determinadas de naturaleza cultural, popular, artística, deportiva o de cualquier otra, que comporten especial importancia como atractivo turístico. La declaración de las mismas se hará según se determine reglamentariamente en función de su antigüedad, singularidad o arraigamiento.
+
+### Artículo 30
+
+Artículo 30. Instrumentos de promoción.
+1. Corresponden a la Consejería competente en materia de Turismo, en el ámbito de sus competencias, las labores de promoción turística de La Rioja y el establecimiento de las oportunas estrategias de comunicación.
+2. El Gobierno de La Rioja podrá disponer de una Sociedad Mercantil de titularidad pública, cuyo objeto será el desarrollo y la ejecución de las acciones de promoción turística, la gestión de los servicios de información y la de cuantos recursos y servicios turísticos se determinen en sus Estatutos o le sean encomendados mediante Convenio.
+La Sociedad se regirá por lo establecido en su Decreto de creación, por los Estatutos sociales y por la legislación aplicable a las sociedades anónimas.
+Para el ejercicio de su actividad, la Sociedad dispondrá de los recursos económicos que se le consignen en los Presupuestos Generales de la Comunidad Autónoma de La Rioja o que genere con su actividad.
+
+### Artículo 31
+
+Artículo 31. Fomento del turismo.
+1. En el marco de la legislación aplicable de la Comunidad Autónoma de La Rioja en esta materia y de la normativa de la Unión Europea, la Consejería competente en materia de turismo podrá crear líneas de ayuda y otorgar subvenciones con la finalidad de estimular y favorecer acciones encaminadas al desarrollo del turismo o a mejorar la calidad de los recursos o servicios turísticos y, en general, todas aquellas tendentes al cumplimiento del Plan General de Turismo de La Rioja.
+2. El objeto y los beneficiarios de las ayudas y subvenciones deberán ser acordes a las indicaciones que, en este sentido, se contengan en el Plan General o en los parciales que se aprueben.
+3. La concesión de las subvenciones y ayudas respetará los principios de publicidad, concurrencia y objetividad así como las normas generales sobre la libre competencia, sin perjuicio de la normativa de la Unión Europea.
+
+## TÍTULO V
+
+Inspección y régimen sancionador
+
+## CAPÍTULO I
+
+De la inspección de turismo
+
+### Artículo 32
+
+Artículo 32. Inspección en materia turística.
+Corresponde a la Consejería competente en materia de Turismo, a través de la Inspección de Turismo, la comprobación del cumplimiento de la normativa reguladora de los proveedores de servicios turísticos.
+
+### Artículo 33
+
+Artículo 33. Funciones.
+Son funciones de la inspección de turismo:
+a) La comprobación de las presuntas infracciones en materia turística.
+b) La verificación de las condiciones generales y de los requisitos técnicos mínimos exigidos en la normativa turística a los proveedores de servicios turísticos incluidos en el ámbito de la presente Ley.
+c) El asesoramiento a los proveedores de servicios turísticos para un mejor cumplimiento de sus obligaciones, así como de las prescripciones técnicas en los proyectos de establecimiento.
+d) Todas aquellas funciones que se le puedan atribuir legalmente.
+
+### Artículo 34
+
+Artículo 34. Facultades y deberes.
+1. Los inspectores de turismo, en el ejercicio de su función, tendrán el carácter de autoridad, pudiendo recabar la colaboración de las fuerzas y cuerpos de seguridad del Estado y de las policías locales en apoyo de su actuación, conforme a lo que establezca su legislación reguladora.
+Cuando se considere preciso para el adecuado ejercicio de la función inspectora, podrá solicitarse la cooperación de los funcionarios y autoridades de otras Administraciones Públicas.
+2. Los inspectores podrán acceder en cualquier momento a las empresas y establecimientos turísticos así como a aquellos otros lugares sobre los que existan indicios de que se ejerce actividad turística y requerir cuanta documentación sea precisa para el adecuado cumplimiento de su función.
+3. El personal adscrito a la Inspección de Turismo estará provisto de la correspondiente acreditación estando obligado a exhibirla durante el ejercicio de sus funciones.
+4. La actuación inspectora tendrá siempre carácter confidencial. Los inspectores están obligados a cumplir el deber de secreto profesional.
+5. La actuación inspectora deberá hacerse con la mayor celeridad y discreción, procurando que tenga la mínima repercusión en la actividad de que se trate.
+
+### Artículo 35
+
+Artículo 35. Medios de actuación.
+1. Los servicios de inspección turística actuarán a través de los siguientes medios:
+a) Visita a los centros o lugares objeto de inspección.
+b) Petición al proveedor del servicio turístico inspeccionado para que aporte datos y documentos.
+c) Requerimiento para la comparecencia de los interesados en las dependencias administrativas de la Inspección.
+2. La Inspección, en el ejercicio de sus funciones, levantará Acta de los actos o datos recogidos en la inspección, especificando aquellos que puedan ser constitutivos de infracción, en cuyo caso deberán reflejar el precepto o preceptos infringidos, así como cuantas circunstancias contribuyan a una mejor valoración de los hechos.
+Las Actas de Inspección se presumirán veraces, salvo prueba en contrario y darán fe, en vía administrativa, de los hechos reflejados en ella.
+3. La inspección podrá documentar asimismo sus actuaciones a través de informes, diligencias, comunicaciones, actas de comprobación y mediante la aportación de cualquier otro medio de prueba admisible en derecho.
+
+### Artículo 36
+
+Artículo 36. Obligaciones del titular de la actividad.
+1. El titular de la actividad o la persona que se encuentre al frente de la misma en el momento de la actuación inspectora tendrá la obligación de prestar la colaboración necesaria y, en particular:
+a) Permitir el acceso y la permanencia en el establecimiento o centro.
+b) Atender a los requerimientos de la Inspección.
+c) Facilitar los documentos requeridos y permitir el control y comprobación de los mismos.
+d) Permitir la realización de copias de la documentación requerida, en cualquier tipo de soporte.
+2. Cuando el proveedor incumpla alguna de las obligaciones recogidas en el apartado anterior podrá incurrir en obstrucción a la inspección.
+3. Para conseguir el cumplimiento de los requerimientos de la inspección y de conformidad con lo dispuesto en la normativa vigente, podrán imponerse multas coercitivas reiteradas de periodicidad mensual, cuya cuantía para cada una de ellas no podrá superar la cantidad de 500 euros, y que serán independientes de las que puedan imponerse en concepto de sanción y compatibles con ellas.
+Se modifica el apartado 3 por el art. 50.8 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+ Se añade el apartado 3 por el art. 22.1 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95
+
+## CAPÍTULO II
+
+Régimen sancionador
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 1
+
+Sección 1.ª De las infracciones
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 37
+
+Artículo 37. Conceptos y clases.
+1. Son infracciones administrativas en materia de turismo las acciones u omisiones estrictamente tipificadas en esta ley. El resto de infracciones que pudieran cometer los titulares o prestadores de establecimientos o actividades turísticas se regirán por la normativa autonómica sobre la defensa de los consumidores y demás normativa sectorial que resulte de aplicación.
+2. Las infracciones administrativas en materia turística se clasifican en leves, graves y muy graves.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 38
+
+Artículo 38. Infracciones leves.
+Se considera infracción leve cualquier incumplimiento de los requisitos, obligaciones y prohibiciones establecidos en la normativa turística que sea de aplicación al tipo de actividad y que no se califique de grave o muy grave.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica por el art. 50.9 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 39
+
+Artículo 39. Infracciones graves.
+A efectos de esta ley, tienen la consideración de infracciones graves las siguientes:
+a) Ejercer la actividad turística, tras efectuar modificaciones que afecten al grupo, categoría o especialidad del establecimiento, sin la comunicación correspondiente al órgano competente en materia de turismo.
+b) La utilización de denominaciones, rótulos, placas o distintivos diferentes a los que corresponden conforme a su clasificación, que induzcan a confusión o no estén regulados por la normativa turística.
+c) La inexistencia de instalaciones o servicios obligatorios según la normativa turística.
+d) El incumplimiento de las normas sobre reservas y cancelación de plazas o la reserva confirmada de plazas en número superior a las disponibles.
+e) La percepción de precios superiores a los notificados, publicitados o contratados, así como el incumplimiento de las disposiciones o normas vigentes en materia de precios.
+f) La no expedición o entrega al turista de los justificantes de pago por los servicios prestados o la no entrega en el momento de la perfección del contrato de los documentos que le permitan disfrutar de los servicios contratados.
+g) Toda publicidad, descripción e información de los servicios que induzca a engaño.
+h) La obstrucción a la actuación de la inspección turística y la falta de comparecencia ante los requerimientos de la Inspección.
+i) La comisión de más de dos faltas en el plazo de un año, calificadas como leves por resolución firme en vía administrativa.
+j) No disponer del seguro o de la garantía que, en su caso, fuera exigido por la normativa turística o incumplir los requisitos exigibles.
+k) La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato, documento o información que acompañe a una comunicación de inicio de actividad, entendiendo como esencial la que hubiera fundamentado la inscripción en el Registro de Proveedores de Servicios Turísticos o, en su caso, hubiera servido para obtener una categoría superior del establecimiento.
+l) La comercialización, oferta, publicidad o contratación de un número de plazas que exceda de la capacidad total autorizada del establecimiento, así como la contratación de un número de plazas que exceda de la capacidad autorizada del establecimiento, cuando no se den los requisitos especificados para ser tipificada como muy grave.
+Se añade la letra l) por el art. 13.2 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se añade la letra k) por el art. 5.4 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica la letra g) y se añaden la j) y k) por el art. 50.10 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 40
+
+Artículo 40. Infracciones muy graves.
+Tienen la consideración de infracciones muy graves:
+a) En las infracciones inicialmente calificadas de leves y graves el responsable podrá, antes o durante la tramitación del expediente, subsanar las anomalías que dieron origen a la iniciación del procedimiento, siempre que no se produzca reiteración, y justificar, en su caso, la reparación de los perjuicios causados a los usuarios a satisfacción de estos, en cuyo caso se procederá a la finalización del procedimiento con el archivo de las actuaciones.
+b) La aportación de información o documentación falsa en las comunicaciones de inicio de actividad y en la documentación complementaria.
+c) La contratación de plazas que excedan de la capacidad total autorizada del establecimiento, cuando de ello se deriven perjuicios para la clientela o pusieran en peligro su salud o seguridad.
+d) La comisión de más de dos faltas en el plazo de un año calificadas como graves mediante resolución firme en vía administrativa.
+Se modifica la letra a) por el art. 5.5 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica la letra a) y se añaden la o) y p) por el art. 50.11 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 41
+
+Artículo 41. Infracciones constitutivas de delito o falta.
+1. Cuando el supuesto hecho infractor pudiera ser constitutivo de delito, se dará traslado del tanto de culpa al Ministerio Fiscal o a la autoridad judicial, quedando suspendida desde ese mismo momento la tramitación del procedimiento sancionador en tanto no se hubiera dictado resolución firme que ponga fin al procedimiento, tenga lugar el sobreseimiento o el archivo de las actuaciones o se produzca la devolución del expediente por el Ministerio Fiscal. De no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará el expediente sancionador. Los hechos declarados probados en la resolución judicial firme vincularán al órgano administrativo.
+En caso de que no se considere un ilícito penal, se continuará el expediente sancionador, quedando interrumpido, mientras duren las diligencias penales, el plazo para la conclusión del expediente administrativo sancionador.
+2. No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
+3. La tramitación de las diligencias penales interrumpirá los plazos de prescripción de la infracción.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica por el art. 50.12 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 42
+
+Artículo 42. Sujetos responsables.
+Serán responsables de las infracciones administrativas en materia turística:
+a) Las personas físicas o jurídicas titulares de empresas, establecimientos y actividades turísticas que incurran en las acciones u omisiones tipificadas en esta ley. Los mencionados titulares serán responsables de las infracciones cometidas por cualquier persona dependiente de ellos cuando actúen en el ejercicio y ámbito de sus funciones, sin perjuicio de las acciones de resarcimiento que resulten procedentes.
+Cuando exista una pluralidad de responsables a título individual y no fuera posible determinar el grado de participación de cada uno en la realización de la infracción, responderán todos ellos de forma solidaria.
+b) Las personas físicas o jurídicas que no hubieran realizado la comunicación de inicio de actividad y realicen la efectiva prestación de servicios turísticos.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 2
+
+Sección 2.ª De las sanciones
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 43
+
+Artículo 43. Clases de sanciones.
+1. Las infracciones contra lo dispuesto en esta ley y demás disposiciones en materia de turismo darán lugar a las siguientes sanciones:
+a) Apercibimiento.
+b) Multa.
+c) Suspensión temporal de actividades o del ejercicio profesional.
+d) Cierre temporal o definitivo del establecimiento o de las instalaciones.
+2. La sanción de apercibimiento procederá en las infracciones calificadas como leves cuando el carácter de la infracción no haga necesaria la imposición de multa y siempre que no exista reincidencia en la comisión de la misma.
+3. Se entenderá por reincidencia la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarada por resolución firme en vía administrativa.
+Se modifica por el art. 13.3 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se suprime la letra e) por el art. 50.13 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 44
+
+Artículo 44. Criterios para la graduación de las sanciones.
+La imposición de las sanciones se graduará valorando las siguientes circunstancias:
+a) La gravedad de los perjuicios ocasionados.
+b) El beneficio ilícito obtenido.
+c) La reincidencia.
+d) Las repercusiones negativas para el sector turístico y para la imagen turística de La Rioja.
+Se modifica la letra c) por el art. 13.4 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 45
+
+Artículo 45. Subsanación.
+En las infracciones inicialmente calificadas de leves y graves el responsable podrá, antes o durante la tramitación del expediente, subsanar las anomalías que dieron origen a la iniciación del procedimiento, siempre que no se produzca reincidencia, y justificar, en su caso, la reparación de los perjuicios causados a los usuarios a satisfacción de estos, en cuyo caso se procederá a la finalización del procedimiento con el archivo de las actuaciones.»
+Se modifica por el art. 13.5 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica por el art. 5.6 de la Ley 2/2020, de 30 de enero. Ref. BOE-A-2020-1939
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica el apartado 5 por el art. 50.14 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 46
+
+Artículo 46. Graduación de las sanciones.
+1. Las multas se impondrán de acuerdo con la siguiente graduación:
+a) Las infracciones leves se sancionarán con apercibimiento o multa de 150 a 1.200 euros.
+b) Las infracciones graves se sancionarán con multa de 1.201 a 12.000 euros.
+c) Las infracciones muy graves se sancionarán con multa de 12.001 a 150.000 euros.
+2. Cuando la cuantía de la multa que proceda sea inferior al beneficio económico obtenido por la infracción, la sanción se incrementará hasta alcanzar, como mínimo, el doble de la cuantía obtenida por el infractor en concepto de beneficio.
+3. La suspensión de las actividades empresariales o profesionales o el cierre temporal o definitivo del establecimiento, locales o instalaciones solo podrá imponerse como sanción principal o accesoria a la de multa cuando se trate de infracciones muy graves.
+De las resoluciones de suspensión, cierre o revocación de las actividades profesionales o empresariales se dará cuenta al Ayuntamiento correspondiente y a la Delegación del Gobierno en la Comunidad Autónoma de La Rioja, pudiendo recabar para su ejecución la colaboración de los agentes de la autoridad que de ellos dependan.
+Se modifica el apartado 1 por el art. 13.6 de la Ley 6/2024, de 27 de diciembre. Ref. BOE-A-2025-1480
+ Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 3
+
+Sección 3.ª Procedimiento
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 47
+
+Artículo 47. Normativa aplicable.
+El procedimiento sancionador se ajustará a lo previsto en la presente ley y en el resto de la normativa vigente de la Comunidad Autónoma de La Rioja, siendo de aplicación las disposiciones de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+## Sección 3
+
+Sección 3.ª Procedimiento
+
+### Artículo 48
+
+Artículo 48. Prescripción.
+1. Las infracciones y sanciones prescribirán de acuerdo con los siguientes plazos: las muy graves, a los tres años; las graves, a los dos años; y las leves, al año.
+2. El plazo de prescripción de la infracción comienza a contar desde el día en que la infracción se comete. En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalizó la conducta infractora.
+3. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza en vía administrativa la resolución sancionadora.
+4. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si este estuviera paralizado durante más de un mes por causa no imputable al infractor.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica por el art. 50.15 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+### Artículo 49
+
+Artículo 49. Órganos competentes para sancionar.
+La potestad sancionadora del Gobierno de La Rioja se ejercerá por los titulares de la dirección general y de la consejería competentes en materia de turismo, correspondiendo al primero sancionar las infracciones leves y graves, y al segundo las muy graves.
+Se modifica por el art. 9.1 de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica el apartado 1 por el art. 50.16 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+ Se modifica por el art. 22.2 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95
+
+### Artículo 50
+
+Artículo 50.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 51
+
+Artículo 51.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Artículo 52
+
+Artículo 52.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+ Se modifica el apartado 1 por el art. 50.17 de la Ley 6/2009, de 15 de diciembre. Ref. BOE-A-2010-657
+
+## Sección 4
+
+Sección 4.ª Conciliación y subsanación
+
+### Artículo 53
+
+Artículo 53.
+(Derogado).
+Se deroga por la disposición derogatoria única de la Ley 2/2018, de 30 de enero de 2018. Ref. BOE-A-2018-1917
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En tanto no se proceda al desarrollo reglamentario de la presente Ley será de aplicación la normativa turística vigente en todo aquello que no se oponga a lo establecido en esta Ley.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+La presente Ley no será de aplicación a los expedientes sancionadores que se encuentren iniciados en el momento de su entrada en vigor, salvo que la misma resultase más favorable.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Los establecimientos y actividades que carezcan de los requisitos previstos en los artículos 8 y 10 de la presente Ley, dispondrán de un plazo que se extenderá hasta el 31 de diciembre de 2003 para regularizar su situación, sin que durante dicho plazo se les pueda sancionar por dicha infracción.
+Se modifica por el art. 22.3 de la Ley 10/2002, de 17 de diciembre. Ref. BOE-A-2003-95
+
+### Disposición adicional única
+
+Disposición adicional única.
+Transcurridos tres años desde la entrada en vigor de la Ley, la Consejería competente en materia de Turismo podrá actualizar periódicamente, mediante Orden, las sanciones a imponer. La actualización deberá ser proporcional al incremento que haya experimentado el Índice de Precios al Consumo publicado anualmente por el Instituto Nacional de Estadística.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 5/1990, de 29 de junio, de Inspección, Infracciones y Sanciones en materia turística; el Decreto 11/1994, de 24 de febrero, sobre regulación y ordenación de los alojamientos turísticos en posadas en la Comunidad Autónoma de La Rioja, y cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno de La Rioja para que apruebe los reglamentos de desarrollo a que se refiere la Ley y cuantos fueran precisos para su aplicación.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Boletín Oficial de La Rioja».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+Logroño, a 31 de mayo de 2001.‒Presidente, Pedro Sanz Alonso.

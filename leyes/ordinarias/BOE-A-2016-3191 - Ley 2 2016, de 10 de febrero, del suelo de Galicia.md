@@ -1,0 +1,2433 @@
+# Ley 2/2016, de 10 de febrero, del suelo de Galicia.
+
+- Identificador BOE: `BOE-A-2016-3191`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-3191
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye corrección de errores publicada en el DOG núm. 51, de 15 de marzo de 2016.
+
+## Preámbulo
+
+EXPOSICIÓN DE MOTIVOS
+1
+La Comunidad Autónoma de Galicia, en virtud de lo dispuesto en el artículo 27.3 de su Estatuto de autonomía, aprobado mediante la Ley orgánica 1/1981, de 6 de abril, ostenta la competencia exclusiva en materia de ordenación del territorio y del litoral, urbanismo y vivienda.
+El ejercicio de la competencia urbanística se inició en nuestra Comunidad Autónoma con la Ley 11/1985, de 22 de agosto, de adaptación de la Ley del suelo a Galicia, continuándose con la Ley 1/1997, de 24 de marzo, del suelo de Galicia.
+La Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, supuso el pleno ejercicio por la Comunidad Autónoma gallega de las competencias en materia de urbanismo constitucionalmente atribuidas, de conformidad con la doctrina del Tribunal Constitucional. Durante la vigencia de esta ley se promulgaron una sucesión de leyes que modificaron el texto legal inicialmente aprobado.
+Pero las modificaciones legislativas del ordenamiento jurídico urbanístico no se han producido solamente a través de la modificación de la normativa autonómica, sino que también el legislador estatal, en el ejercicio de sus competencias con incidencia en el terreno urbanístico, realizó distintas reformas en la legislación básica, debiendo destacar el Real decreto legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del suelo y rehabilitación urbana, y la Ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas.
+El texto refundido de la Ley del suelo supuso una modificación sustancial de la anterior Ley 6/1998, de 13 de abril, de régimen del suelo y valoraciones. En la nueva regulación estatal se define el contenido del derecho de propiedad, contemplando los derechos y deberes de los propietarios, así como los derechos y deberes de la ciudadanía, sobre la base de las situaciones básicas del suelo: rural y urbanizado, abandonando de esta manera los conceptos derivados de la clasificación del suelo.
+Por lo que respecta a la Ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas, esta norma modificó el texto refundido de la Ley del suelo, al objeto de regular las condiciones básicas que garanticen un desarrollo sostenible, competitivo y eficiente del medio urbano, mediante el impulso y fomento de las actuaciones de rehabilitación de los edificios y de regeneración y renovación de los tejidos urbanos existentes.
+En este contexto, tras más de una década de andadura de la Ley 9/2002, de 30 de diciembre, la propia evolución de la sociedad gallega y la nueva realidad existente, así como los constantes cambios normativos en el terreno urbanístico y medioambiental, a los cuales no puede ser ajeno el legislador, hacen aconsejable abordar una reforma legislativa de manera global que contribuya a un desarrollo de la actividad urbanística de forma racional y equilibrada.
+La voluntad del legislador de cara a afrontar un texto legal que regule la materia urbanística en nuestra Comunidad Autónoma es clara: se persigue la promulgación de una ley presidida por los principios de transparencia, claridad, simplificación administrativa, seguridad jurídica y aplicabilidad práctica. En definitiva, con el presente texto se pretende conseguir una norma reguladora del suelo más objetiva, que conforme un documento ágil, accesible a todos los agentes sociales y operadores técnicos y jurídicos, que busque la corresponsabilidad de todos ellos, que posibilite la protección territorial y un desarrollo urbanístico sostenible, que surja del mayor consenso posible y que tenga vocación de estabilidad.
+Se está a partir de la idea básica de que el urbanismo es una tarea de todos: todos somos corresponsables de la construcción de nuestro territorio y no podemos eludir nuestra responsabilidad, cada uno en su terreno. Se pretende que la presente Ley del suelo base la formulación del principio del urbanismo responsable.
+La Ley del suelo apuesta por la protección territorial y, en particular, por la defensa y respeto del suelo rústico, ya sea por la afección al dominio público o por la presencia de valores merecedores de especial salvaguarda. Y todo ello sin perder de vista la dimensión del suelo rústico como suelo productivo y útil, que debe ser contemplada y potenciada.
+Uno de los principios que inspiran la ley es la simplificación administrativa y el interés por la consecución de los principios de agilidad y eficacia en esta materia, sin que ello suponga una merma del respeto a los valores naturales y a la riqueza de nuestro territorio. En este sentido, y en aras de una más adecuada formulación del ordenamiento jurídico urbanístico, se propone mejorar el actual esquema, constituido por la Ley 9/2002, por el Reglamento de disciplina urbanística de Galicia y, de forma supletoria, los reglamentos estatales en materia de planeamiento y gestión. En consecuencia, se considera apropiada la formulación de una Ley del suelo que incorpore las determinaciones legales básicas y que se desarrollará a través de un único reglamento de la Ley del suelo que desarrolle las cuestiones de planeamiento, gestión y disciplina urbanística.
+2
+Dentro de la búsqueda de la corresponsabilidad, se incardina otro de los principios básicos inspiradores de la ley: el reconocimiento de la autonomía local. En este sentido, se dota a los municipios de mayor competencia en el terreno urbanístico, reservando para la Comunidad Autónoma las competencias referidas al control de legalidad y a la tutela de los intereses supramunicipales.
+Dentro del máximo respeto al marco definido por el Tribunal Constitucional, que reconoció a las comunidades autónomas la facultad para determinar, en el ejercicio de su competencia urbanística exclusiva, la participación de los municipios, la nueva ley modula el reparto de atribuciones entre los municipios y la Administración autonómica.
+Manifestación clara de este principio de defensa de la autonomía local es el hecho de que con la presente ley se reduzcan considerablemente los usos del suelo rústico sometidos a un control urbanístico previo de la Comunidad Autónoma o que se otorgue a los municipios con una población superior a 50.000 habitantes la competencia para la aprobación definitiva de sus planes generales de ordenación municipal.
+Ahora bien, en ese ejercicio de competencias urbanísticas el legislador tiene en cuenta la pluralidad y diversidad del territorio gallego, siendo sensible con las diferencias de recursos existentes en los distintos ayuntamientos. Por ese motivo, se atribuyen a la Administración autonómica competencias para formular y tramitar instrumentos de planeamiento que permitan a los municipios con menos población y recursos disponer de un plan básico que ordene urbanísticamente su término municipal, siempre dentro del respeto estricto a su autonomía local a través de la participación de la administración afectada en un informe determinante.
+Para el ejercicio en común de las competencias urbanísticas, así como para la realización de obras o prestación de servicios públicos, los ayuntamientos podrán constituir mancomunidades y establecer formas de colaboración interadministrativa con otras entidades locales o con la Administración autonómica, de conformidad con la legislación vigente.
+3
+La ley se compone de un título preliminar, siete títulos, dos disposiciones adicionales, ocho disposiciones transitorias, una disposición derogatoria y seis disposiciones finales.
+El título preliminar define el urbanismo como una función pública, sin perjuicio del reconocimiento que formula de la iniciativa privada. La distribución competencial en materia urbanística entre la Comunidad Autónoma y los municipios se refleja también en este título, que contiene un capítulo dedicado a la competencia y organización administrativa.
+4
+El título I, dedicado al régimen urbanístico del suelo, regula la clasificación y calificación del suelo, así como el régimen jurídico correspondiente en función de las mismas.
+La clasificación del suelo contenida en la Ley 9/2002, de 30 de diciembre, diferenciando el suelo urbano, el suelo de núcleo rural, el suelo urbanizable y el suelo rústico, se estima adecuada al modelo territorial gallego, y, en consecuencia, la presente ley contempla dicha clasificación, si bien introduciendo ciertas matizaciones en relación con las categorías de suelo y el régimen jurídico de aplicación.
+El régimen del suelo urbano mantiene en lo esencial los criterios tradicionales para su clasificación y categorización, diferenciando entre el suelo urbano consolidado y el no consolidado y armonizando las definiciones de estas categorías de suelo con los conceptos contenidos en la legislación estatal del suelo, en particular con las matizaciones introducidas por la Ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas.
+Se mantiene el reconocimiento de los núcleos rurales como una clase de suelo característica del sistema de asentamientos de la población de Galicia, vinculados al acervo urbanístico de nuestra Comunidad, y que conforman un modelo de ocupación del suelo que tanto ha contribuido al desarrollo armónico de nuestro territorio. El suelo de núcleo rural se categoriza en suelo de núcleo rural tradicional y suelo de núcleo rural común, eliminándose la categoría de suelo de núcleo rural complejo.
+Respecto al suelo urbanizable, el legislador ha considerado necesario dotar a este suelo de sustantividad propia, abandonando el carácter residual que tradicionalmente se le venía atribuyendo. En este sentido, el suelo urbanizable se define como el relativo a los terrenos que el planeamiento estime necesarios y adecuados para permitir el crecimiento de la población y de la actividad económica o para completar su estructura urbanística.
+Se suprime la tradicional categorización del suelo urbanizable en suelo urbanizable delimitado o inmediato y suelo urbanizable no delimitado o diferido. Pese a que la planificación urbanística tiene vigencia indefinida, en la sociedad actual no parece apropiado otorgar la clasificación correspondiente para proceder a la transformación urbanística de unos terrenos y no establecer plazos para su ejecución ni para la delimitación de sectores, razón por la cual se suprime la categoría de suelo urbanizable no delimitado. De esta manera, el plan general de ordenación municipal habrá de contemplar necesariamente la delimitación de los sectores en suelo urbanizable y la determinación de los plazos para la aprobación del planeamiento de desarrollo.
+Otra de las novedades de la presente ley respecto al régimen del suelo es la regulación que se introduce del suelo rústico. El legislador pone en valor el suelo rústico, potenciando los usos económicos de este suelo, dentro del máximo respeto a la preservación de los valores que le son propios, en una apuesta decidida por la explotación y gestión sostenible de los recursos naturales.
+Se mantienen las categorías de suelo rústico de protección ordinaria y suelo rústico de especial protección. Ahora bien, se propone una clarificación y objetivación de la categorización del suelo rústico protegido, que se definirá de conformidad con las protecciones y afecciones establecidas por las legislaciones sectoriales. Así, el suelo rústico de especial protección será aquel que merezca tal categoría en función de valores objetivos denotados por la legislación sectorial.
+No obstante, se entiende legítimo que aquellos ayuntamientos que durante la elaboración de su planeamiento, y como consecuencia del estudio detallado derivado del propio plan, estimen que determinados terrenos, pese a no contar con protección recogida en una legislación sectorial, contienen valores que los hacen merecedores de su clasificación como suelo rústico de especial protección pueden otorgar a estos terrenos tal clasificación, una vez obtenida la conformidad expresa de la administración competente para la tutela de los valores detectados.
+No constituye objeto de la presente ley, por tanto, la regulación de los usos urbanísticos en función de la categoría de suelo rústico de protección ante la que nos encontremos. Las limitaciones de los usos de tales suelos serán las establecidas por la propia legislación sectorial que resulte de aplicación.
+La ley contempla exclusivamente una relación de usos para el suelo rústico, que desde el punto de vista urbanístico limita de la misma manera el uso del suelo rústico de especial protección, con independencia de su categoría, y el del suelo rústico de protección ordinaria. Ello es así ya que se entiende que todo el suelo rústico es merecedor de ser salvaguardado de usos que no sean consustanciales con su carácter o que puedan disponer de otro emplazamiento. En el suelo rústico de especial protección será preciso atender a las mayores limitaciones que impongan las legislaciones sectoriales aplicables, ya que son estas las encargadas de tutelar los valores objeto de protección.
+En cuanto a los procedimientos para implantar los usos admisibles en suelo rústico, en aras de garantizar una mayor autonomía municipal, la ley, con carácter general, suprime la necesidad de obtener autorización urbanística autonómica, siendo suficiente con el título habilitante municipal. Sin embargo, se mantienen dos excepciones para usos en los que se estima que su implantación debe ser objeto de una mayor tutela por parte de la Comunidad Autónoma: las construcciones destinadas a usos residenciales vinculados a las explotaciones agropecuarias y las construcciones que alberguen actividades complementarias de primera transformación de productos del sector primario. En todo caso, será necesario recabar los informes sectoriales que corresponda.
+También se establece una excepción para aquellos usos que se estima que pueden tener un impacto más severo: las construcciones destinadas a usos turísticos y los equipamientos o dotaciones, de tal modo que para su implantación se exigirá la redacción de un plan especial de infraestructuras y dotaciones.
+5
+El título II se dedica a la regulación del planeamiento urbanístico. En este ámbito es preciso recordar otro de los objetivos fundamentales de la presente ley, que es la simplificación administrativa, cuya consecución se refleja, principalmente, en este título, tanto en relación con las figuras de planeamiento como con la tramitación de cada una de ellas.
+La simplificación administrativa alcanza especial relevancia en el terreno de la tramitación del planeamiento, aspecto en el cual se introducen una serie de cambios tendentes a disminuir la duración de su tramitación, sin que ello suponga una merma de su seguridad jurídica y transparencia o de la participación pública.
+En este sentido, en relación con los informes sectoriales, se realza el papel que se atribuye a la consejería competente en materia de urbanismo, siendo esta la encargada de recabar de las administraciones públicas competentes y remitir a los ayuntamientos los informes sectoriales autonómicos exigibles en la tramitación de los planes generales de ordenación municipal.
+A fin de clarificar la tramitación de los instrumentos de planeamiento, la presente ley pretende una mayor integración de la tramitación del procedimiento de evaluación ambiental estratégica con la tramitación urbanística.
+De esta manera, la ley incorpora la nueva tramitación de los planeamientos derivada de la Ley estatal 21/2013, de 9 de diciembre, de evaluación ambiental, lo que responde a la necesidad de adecuar la normativa autonómica al marco normativo común europeo y estatal, garantizando así la unidad de mercado interior y la competitividad.
+No obstante, se modifica, en relación con la previsión de la norma estatal, el sistema de reparto de funciones entre el órgano sustantivo y el órgano ambiental, expresamente admitido en la Ley 21/2013, de 9 de diciembre. En consecuencia, la solicitud de inicio de la tramitación ambiental se remitirá directamente al órgano ambiental, en aras de una mayor simplificación y agilidad en la tramitación del procedimiento, sin aminorarse en ningún caso el principio de seguridad jurídica.
+Otra de las medidas novedosas que incorpora la ley en relación con la tramitación de los planes generales de ordenación municipal es la relativa a la competencia para su aprobación, otorgando esa competencia a los ayuntamientos en los supuestos de municipios de más de 50.000 habitantes. Se entiende que esos ayuntamientos tienen capacidad y recursos suficientes para asumir esa competencia, razón por la cual la intervención urbanística de la Comunidad Autónoma se reduce a la emisión de un informe preceptivo y vinculante previo a la aprobación definitiva.
+En relación con la sistematización de las figuras de planeamiento, es preciso reseñar otro de los objetivos que impregnan la ley: dotar de seguridad jurídica al ordenamiento urbanístico, para lo cual se estima imprescindible que todos los ayuntamientos de Galicia dispongan de un instrumento de planeamiento que ordene su término municipal. La falta de capacidad de muchos ayuntamientos gallegos de dotarse de un plan general de ordenación municipal es evidente, tras años de vigencia de un marco jurídico que establecía el plan general como el único instrumento de planeamiento general e incluso con incentivos de la Administración autonómica para la redacción de esos planes generales.
+Por todo ello, la ley, sin perjuicio del mantenimiento de los planes generales de ordenación municipal y de sus planes de desarrollo, introduce como figuras de planeamiento el Plan básico autonómico y los planes básicos municipales.
+El Plan básico autonómico delimitará, en el ámbito de toda la Comunidad Autónoma, las afecciones derivadas de la legislación sectorial e identificará los asentamientos de población existentes.
+En desarrollo de ese Plan básico autonómico, se elaborarán los planes básicos municipales, para los ayuntamientos de menos de 5.000 habitantes que no cuenten con un instrumento de planeamiento general. Estos planes se configuran como instrumentos de ordenación para un término municipal completo y tienen por objeto la delimitación de los núcleos rurales existentes, identificados en el Plan básico autonómico, y de los terrenos que reúnan los requisitos exigidos para ser clasificados como suelo urbano consolidado, además de contemplar la categorización del suelo rústico establecida en el Plan básico autonómico.
+Estos instrumentos constituyen una ordenación básica, cuya formulación, tramitación y aprobación corresponde a la Comunidad Autónoma, en colaboración y con la participación de los ayuntamientos a través de la emisión de un informe determinante, y que estará vigente hasta que surjan iniciativas o razones determinantes de una mayor complejidad urbanística que aconsejen la formulación de un plan general de ordenación municipal por el respectivo municipio.
+De esta manera, se dotará a todos los ayuntamientos gallegos de un instrumento urbanístico básico que les permitirá ofrecer una capacidad de acogida residencial y económica que dé respuesta al desarrollo elemental de una cierta actividad urbanística, pero sin establecer criterios de crecimiento urbano.
+En relación con las figuras de planeamiento de desarrollo de los planes generales de ordenación municipal, se opta por una simplificación, diferenciando entre los planes parciales, los planes especiales y otras figuras de planeamiento, como son los estudios de detalle y los catálogos. Los planes especiales podrán tener un objeto diverso, incluida la ordenación detallada de un núcleo rural, no siendo precisa una figura independiente y diferenciada para la ordenación de esta clase de suelo.
+La presente ley realiza también una apuesta por la transparencia: los documentos de planeamiento han de estar a disposición de la ciudadanía a través de medios telemáticos, correspondiendo a los ayuntamientos la obligación de garantizar la difusión de los mismos. La publicación telemática permitirá la difusión de la información urbanística acorde con las nuevas tecnologías, facilitando el acceso a la misma.
+Con el mismo fin de difundir y hacer más transparente la información urbanística, se establece la obligación de constituir un Registro de Planeamiento Urbanístico de Galicia, en el cual se inscriba la totalidad de instrumentos de planeamiento aprobados definitivamente, siendo esta circunstancia determinante para proceder a su publicación y entrada en vigor.
+6
+El título III contempla las normas de aplicación directa relativas a la adaptación al medio ambiente y a la protección del paisaje y vías de circulación. Las normas de aplicación directa suponen un mecanismo para preservar el medio ambiente y el patrimonio natural y cultural.
+7
+El título IV se ocupa de la ejecución del planeamiento urbanístico, que se configura como una función sujeta al control municipal, reconociendo la participación de los particulares, principalmente a través de los sistemas de ejecución indirectos. Como novedad se introduce la obligación de que los sistemas de actuación se determinen en el plan general. La gestión urbanística se inicia una vez aprobado el planeamiento que contenga la ordenación detallada, con las áreas de reparto y la delimitación de polígonos como elementos fundamentales de esa gestión urbanística.
+Se regula también en este título el aprovechamiento tipo, posibilitando que en la aprobación del instrumento de equidistribución pueda modificarse el aprovechamiento tipo del área de reparto, en atención a la adaptación del valor de los coeficientes de ponderación de los usos y tipologías a los valores reales en ese momento.
+Se amplía al suelo de núcleo rural la posibilidad de realizar operaciones de reorganización de la propiedad y de promover actuaciones aisladas para hacer posible la ejecución de elementos concretos previstos por el planeamiento, que se ajustarán en todo caso al modelo de asentamiento preexistente.
+Se establecen como sistemas de actuación directos la cooperación y la expropiación, y como sistemas indirectos, el concierto y la compensación, con una regulación semejante a la existente en la actualidad.
+Finaliza este título con la regulación de la obtención de terrenos de sistemas generales y locales.
+8
+En el título V se regulan los patrimonios públicos del suelo, como un mecanismo de intervención en el mercado del suelo, en coherencia con la legislación básica estatal.
+9
+El título VI aborda la intervención en la edificación y uso del suelo, así como la disciplina urbanística, a través de tres capítulos: el primero, dedicado al fomento de la edificación, conservación y rehabilitación; el segundo, a la intervención en la edificación y uso del suelo; y el tercero, a la disciplina urbanística.
+El legislador hace especial hincapié en la regulación del régimen de edificación forzosa y del deber de conservación. Se remarca el deber de los propietarios de finalizar las edificaciones para cuya ejecución obtuvieron la preceptiva licencia, englobándose dentro del deber genérico de edificar los solares. Para garantizar el cumplimiento de estos deberes, la ley atribuye a los ayuntamientos el mecanismo de las órdenes de ejecución y la obligación de acudir a los medios de ejecución forzosa o subsidiaria en caso de su incumplimiento. Novedosa resulta la regulación en la ley del Registro de Solares, así como la previsión de acudir a la venta forzosa de los inmuebles incluidos en el Registro. También en relación con el deber de edificar y conservar, la ley contempla en su articulado la declaración de ruina.
+En relación con la intervención en la edificación y uso del suelo, la ley consolida la comunicación previa como el régimen general de intervención administrativa, manteniendo la exigencia de licencia urbanística para los actos expresamente relacionados en la propia ley. De esta manera, se persigue la simplificación administrativa, principio inspirador de la ley, siguiendo el camino ya iniciado con la Ley 9/2013, de 19 de diciembre, del emprendimiento y de la competitividad económica de Galicia.
+Como una manifestación de la intervención en la edificación y uso del suelo, se regulan las parcelaciones urbanísticas. Como medida para la protección y preservación de los valores del suelo rústico, la ley incorpora la prohibición de realizar segregaciones en suelo rústico, estableciendo como únicas excepciones la ejecución de infraestructuras y dotaciones, y parcelas vinculadas a instalaciones o explotaciones que hubieran sido declaradas de utilidad pública y beneficiarias de expedientes de expropiación.
+Igualmente, se permiten segregaciones con la finalidad de reorganizar la propiedad, siempre y cuando no resulte un mayor número de parcelas respecto al originariamente existente.
+Finalmente, este título termina con un capítulo que atiende a la disciplina urbanística. En aras de la mayor seguridad jurídica perseguida en la presente ley, se introduce un plazo de prescripción para las sanciones.
+La ley realiza una apuesta por la reposición de la legalidad urbanística. Por tal motivo, contempla un incremento de la reducción de la multa a imponer al responsable de una infracción urbanística en caso de que reponga por sí mismo la realidad física alterada antes de la resolución del procedimiento sancionador, reducción que pasa a ser del 90 % frente al 80 % actual.
+10
+Los convenios urbanísticos son objeto de regulación en el título VII. La ley mantiene la tradicional distinción entre los convenios de planeamiento y los convenios para la ejecución del planeamiento, contemplando unas líneas genéricas relativas a su formalización y perfeccionamiento.
+11
+Finalmente, la ley se completa con una serie de disposiciones adicionales, transitorias, derogatoria y finales.
+Resulta relevante la previsión contenida en la disposición adicional primera de creación de una Plataforma Urbanística Digital de nuestra Comunidad Autónoma, que posibilitará la tramitación integral de los instrumentos de planeamiento urbanístico.
+Las disposiciones transitorias contemplan las cuestiones que puedan derivarse de la entrada en vigor de la presente ley, para obtener el menor impacto posible como consecuencia de las innovaciones de la ley y garantizando la seguridad jurídica. Entre otros aspectos, comprenden la adaptación a la ley del planeamiento vigente, así como las normas para su aplicación en tanto no se produzca dicha adaptación.
+El texto finaliza con una serie de disposiciones finales, en las cuales se contemplan, entre otros extremos, la previsión del desarrollo reglamentario de la ley en el plazo de un año, su entrada en vigor o modificaciones normativas derivadas del proceso de racionalización de órganos colegiados, tales como la supresión del Observatorio Gallego del Paisaje y la atribución de sus funciones al Instituto de Estudios del Territorio.
+La disposición derogatoria contempla, entre otras, la derogación de la disposición adicional segunda de la Ley 7/1998, de 30 de diciembre, de medidas tributarias, de régimen presupuestario, función pública y gestión, y de la disposición adicional sexta de la Ley 14/2004, de 29 de diciembre, de medidas tributarias y de régimen administrativo.
+En ambos casos, la derogación obedece únicamente a razones de simplificación normativa, puesto que, en el primer caso, su contenido se contempla en la normativa vigente aprobada con posterioridad y, en el segundo, se opta por reproducir su contenido en la Ley 10/1995, de 23 de noviembre, de ordenación del territorio de Galicia.
+El texto del anteproyecto de ley fue sometido al preceptivo dictamen del Consejo Económico y Social de Galicia.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2 del Estatuto de autonomía de Galicia y con el artículo 24 de la Ley 1/1983, de 22 de febrero, de normas reguladoras de la Xunta y de su Presidencia, promulgo en nombre del rey la Ley del suelo de Galicia.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+1. Es objeto de la presente ley la protección y la ordenación urbanística de Galicia.
+2. El régimen urbanístico del suelo y la regulación de la actividad administrativa relacionada con el mismo vendrán determinados por lo establecido en la presente ley o, en su virtud, por los instrumentos de ordenación urbanística previstos en ella.
+
+### Artículo 2
+
+Artículo 2. Función pública e iniciativa privada.
+1. La dirección y el control de la actividad urbanística constituyen una función pública y corresponden, en todo caso, a la administración urbanística competente.
+2. La gestión de la actividad urbanística puede desarrollarse directamente por aquella o a través de las formas previstas por la presente ley y de las autorizadas por la legislación reguladora de la administración actuante. En todo caso, las facultades que impliquen el ejercicio de autoridad sólo podrán desarrollarse a través de una forma de gestión directa y en régimen de derecho público.
+3. Cuando el mejor cumplimiento de los fines y objetivos del planeamiento urbanístico así lo aconseje, se suscitará la iniciativa privada, pudiendo celebrarse convenios urbanísticos con particulares con la finalidad de establecer los términos de colaboración para el mejor y eficaz desarrollo de la actividad urbanística.
+4. En la formulación, tramitación y gestión del planeamiento urbanístico las administraciones urbanísticas competentes habrán de asegurar la participación de las personas interesadas y de la ciudadanía en general.
+
+### Artículo 3
+
+Artículo 3. Actividad urbanística.
+La actividad urbanística es una función pública que tiene por objeto la organización, dirección y control de la ocupación y la utilización del suelo, incluidos el subsuelo y el vuelo, su transformación mediante la urbanización, la edificación y la rehabilitación del patrimonio inmobiliario, así como la protección de la legalidad urbanística.
+
+### Artículo 4
+
+Artículo 4. Ámbito de la competencia urbanística.
+1. La competencia urbanística relativa al planeamiento comprenderá las siguientes facultades:
+a) Formular los planes e instrumentos de planeamiento urbanístico previstos en la presente ley.
+b) Establecer la clasificación del suelo.
+c) Determinar el uso del suelo, del subsuelo y de las construcciones.
+d) Determinar la configuración y las dimensiones de las parcelas edificables.
+e) Emplazar las infraestructuras, equipamientos, centros de producción y residenciales de manera adecuada para la población.
+f) Establecer zonas de distinta utilización, en función de la densidad de la población que haya de habitarlas, porcentaje de terreno que pueda ser ocupado por construcciones, volumen, forma, número de plantas, clase y destino de los edificios, con sujeción a las ordenaciones generales uniformes para cada tipología en toda la zona.
+g) Formular las reservas de suelo y fijar criterios para el trazado de vías públicas y redes de infraestructuras y servicios, y para la implantación de dotaciones urbanísticas y, en concreto, parques y jardines públicos, así como espacios libres de edificación, en proporción adecuada a las necesidades colectivas.
+h) Señalar el emplazamiento y características de los centros y servicios públicos de cualquier finalidad y demás equipamientos.
+i) Calificar terrenos para la construcción de viviendas sujetas a algún régimen de protección pública.
+j) Orientar la composición arquitectónica de las edificaciones y regular, en los casos en que fuese necesario, sus características estéticas.
+2. La competencia urbanística en lo que se refiere a la ejecución del planeamiento confiere las siguientes facultades:
+a) Dirigir, realizar, conceder y fiscalizar la ejecución de las obras de urbanización.
+b) Fomentar la iniciativa de los particulares, promoviendo su participación en los procesos de ejecución.
+c) Expropiar los terrenos y construcciones necesarios para efectuar las obras y cuantas actuaciones convengan a la economía de la actividad urbanística proyectada.
+3. La competencia urbanística en lo que se refiere a la intervención en la regulación del mercado del suelo confiere las siguientes facultades:
+a) Regular el mercado de terrenos como garantía de la subordinación de los mismos a los fines previstos en el planeamiento urbanístico.
+b) Constituir y gestionar patrimonios públicos de suelo.
+4. La competencia urbanística en lo referente a la intervención en el ejercicio de las facultades dominicales relativas al uso del suelo y edificación comprenderá las siguientes facultades:
+a) Intervenir en la construcción y uso de las fincas y en la parcelación de terrenos mediante el título habilitante de naturaleza urbanística que resulte exigible.
+b) Prohibir los usos que no se ajusten a la ordenación urbanística.
+c) Exigir a los propietarios el cumplimiento de las obligaciones impuestas por la presente ley.
+5. La competencia urbanística en materia de disciplina urbanística comprenderá las siguientes facultades:
+a) Inspeccionar las obras, edificaciones y usos del suelo para comprobar el cumplimiento de la legalidad urbanística.
+b) Adoptar las medidas necesarias para el restablecimiento del orden urbanístico vulnerado y reponer los bienes afectados al estado anterior a la producción de la situación ilegal.
+c) Imponer las sanciones que correspondan a los responsables de las infracciones urbanísticas.
+6. Las competencias que se enumeran en este artículo tienen un carácter meramente enunciativo, correspondiendo cuantas otras fueran necesarias para el cumplimiento de los fines de la presente ley, con arreglo a la cual habrán de ser ejercidas.
+
+### Artículo 5
+
+Artículo 5. Fines de la actividad urbanística.
+La actividad administrativa en materia de urbanismo tendrá, en aplicación de los principios constitucionales de la política económica y social, entre otras, las siguientes finalidades:
+a) Asegurar que el suelo se utilice en congruencia con la utilidad pública y la función social de la propiedad en las condiciones establecidas en las leyes y, en su virtud, en el planeamiento urbanístico.
+b) Garantizar el principio de justa distribución de los beneficios y cargas del planeamiento entre los propietarios afectados por el mismo.
+c) Asegurar la participación de la comunidad en las plusvalías que genere la acción urbanística de los entes públicos.
+d) Preservar el medio físico, los valores tradicionales, las señales de identidad y la memoria histórica de Galicia.
+e) Armonizar las exigencias de ordenación y conservación de los recursos naturales y del paisaje rural y urbano con el mantenimiento, diversificación y desarrollo sostenible del territorio y de su población, para contribuir a elevar la calidad de vida y la cohesión social de la población.
+f) Velar para que la actividad urbanística se desarrolle promoviendo la más amplia participación social, garantizando los derechos de información y de iniciativa de los particulares, asegurando, en todo caso, la participación de los ciudadanos y asociaciones por estos constituidas para la defensa de sus intereses y valores.
+g) Conseguir la integración armónica del territorio y proteger los valores agrarios, forestales y naturales y la riqueza y variedad arquitectónica, fomentando el empleo de las formas constructivas propias de las diversas zonas y garantizando su integración en el medio rural.
+h) Fomentar la ordenación y mejora de los núcleos rurales, evitando la degradación y pérdida de las construcciones tradicionales, favoreciendo el uso y disfrute del medio rural.
+i) Ejercer las competencias de las administraciones públicas con arreglo a los principios de cooperación, coordinación, asistencia activa e información recíproca, con el objetivo de garantizar la plena aplicación y eficacia de la normativa urbanística.
+
+### Artículo 6
+
+Artículo 6. Reglas de interpretación.
+Las dudas en la interpretación del planeamiento urbanístico producidas por imprecisiones o contradicciones entre documentos de igual rango normativo se resolverán aplicando el principio de interpretación integrada de las normas.
+
+## CAPÍTULO II
+
+Competencias y organización administrativa
+
+## Sección 1
+
+Sección 1.ª Disposición general
+
+### Artículo 7
+
+Artículo 7. Administraciones competentes.
+En el desarrollo de las actividades reguladas en la presente ley entenderán específicamente los órganos pertenecientes a la Administración de la Comunidad Autónoma y administraciones locales.
+
+## Sección 2
+
+Sección 2.ª Competencias y órganos urbanísticos en el ámbito de la comunidad autónoma
+
+### Artículo 8
+
+Artículo 8. Competencias y órganos urbanísticos de la Comunidad Autónoma.
+1. Corresponde a la Administración de la Comunidad Autónoma el ejercicio de las competencias urbanísticas expresamente atribuidas en la presente ley y en la restante legislación urbanística.
+2. Son órganos de la Comunidad Autónoma con competencia urbanística:
+a) El Consello de la Xunta de Galicia.
+b) La persona titular de la consejería competente en materia de urbanismo.
+c) La persona titular del órgano competente en materia de urbanismo.
+d) La Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo.
+3. Son entidades públicas autonómicas con competencias urbanísticas:
+a) La Agencia de Protección de la Legalidad Urbanística, en materia de disciplina urbanística.
+b) El Instituto Gallego de la Vivienda y Suelo, en materia de gestión urbanística.
+Se modifica la letra d) del apartado 2 por el art. 81.1 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+
+### Artículo 9
+
+Artículo 9. Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo.
+1. La Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo es el órgano de carácter consultivo en materia de ordenación del territorio y urbanismo en el ámbito de la Comunidad Autónoma de Galicia.
+2. Su composición, organización y funcionamiento serán establecidos reglamentariamente, garantizando la representación de las administraciones públicas con competencias urbanísticas.
+Se modifica por el art. 81.2 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+
+### Artículo 10
+
+Artículo 10. Agencia de Protección de la Legalidad Urbanística.
+1. La Agencia de Protección de la Legalidad Urbanística es un ente público de naturaleza consorcial, dotado de personalidad jurídica, patrimonio y presupuesto propios y plena autonomía en el cumplimiento de sus funciones de inspección, restauración de la legalidad y sanción en materia de urbanismo, así como el desempeño de cuantas otras competencias le asignen las leyes o sus estatutos.
+2. Son miembros de la Agencia la Administración autonómica y los municipios que voluntariamente se integren en ella a través del correspondiente convenio de adhesión, que deberá ser aprobado por el pleno de la corporación y por la persona titular de la consejería competente en materia de urbanismo y ordenación del territorio, y publicado en el Diario Oficial de Galicia.
+El convenio deberá contener, entre otras materias, la determinación de las competencias que se le atribuyen a la Agencia y las causas de resolución.
+Su vigencia podrá ser indefinida y se extenderá desde la adhesión al consorcio del correspondiente municipio hasta su separación de acuerdo con las causas establecidas en los estatutos y en el respectivo convenio, salvo que en los citados convenios se establezca lo contrario.
+3. La Agencia estará adscrita orgánicamente a la consejería competente en materia de urbanismo y ordenación del territorio. Sus estatutos serán aprobados y modificados por el siguiente procedimiento:
+a) Aprobación inicial del proyecto de estatutos por el titular de la consejería competente en materia de urbanismo y ordenación del territorio.
+b) Audiencia a los ayuntamientos durante el plazo de un mes.
+c) Dictamen de la Comisión Superior de Urbanismo de Galicia y del Consejo Consultivo de Galicia.
+d) Aprobación definitiva por el Consello de la Xunta mediante decreto, que será publicado en el «Diario Oficial de Galicia».
+4. Los órganos directivos de la Agencia son:
+a) El consejo ejecutivo, órgano de dirección y control de la Agencia, que estará presidido por el titular del órgano de dirección competente en materia de urbanismo e integrado por ocho vocales, cuatro en representación de los ayuntamientos incorporados a la Agencia y otros cuatro en representación de la Comunidad Autónoma.
+b) El director, nombrado por el Consello de la Xunta, oído el consejo ejecutivo. Le corresponderá la representación ordinaria de la Agencia, la dirección de todos sus servicios y la jefatura de su personal, y asistirá a las reuniones del consejo ejecutivo con voz pero sin voto.
+5. Corresponden, en todo caso, a la Agencia de Protección de la Legalidad Urbanística, además de las competencias que en materia de disciplina urbanística le sean atribuidas por sus estatutos, las competencias inicialmente asignadas a los órganos autonómicos para restaurar la legalidad urbanística y para imponer las sanciones por infracciones urbanísticas graves y muy graves, en los términos del artículo 163 de la presente ley.
+6. De conformidad con lo dispuesto en la legislación sobre régimen jurídico de las administraciones públicas y del procedimiento administrativo común, los actos y resoluciones dictados por la Agencia de Protección de la Legalidad Urbanística ponen fin a la vía administrativa.
+Se modifica el apartado 2 por el art. 11.1 de Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Téngase en cuenta, sobre la vigencia de los convenios de adhesión, lo establecido en la disposición transitoria 1 de la citada Ley.
+
+### Artículo 11
+
+Artículo 11. Jurado de Expropiación de Galicia.
+1. El Jurado de Expropiación de Galicia es un órgano colegiado permanente de la Comunidad Autónoma de Galicia especializado en los procedimientos para la fijación del justiprecio en la expropiación forzosa, cuando la administración expropiante sea la Comunidad Autónoma o las entidades locales de su ámbito territorial, actuando en el cumplimiento de sus funciones con plena autonomía funcional.
+2. La resolución del Jurado se adoptará en el plazo máximo de seis meses, contado desde el día siguiente al de entrada en el registro del expediente completo. De no adoptarse acuerdo en el plazo señalado, se entenderán desestimadas las reclamaciones por silencio negativo. Sus acuerdos serán siempre motivados y fundamentados en lo que se refiere a los criterios de valoración seguidos para cada uno de los casos en concreto, de conformidad con las disposiciones legales que sean aplicables. Los actos que dicte el Jurado pondrán fin a la vía administrativa.
+3. Reglamentariamente se establecerá la organización, funcionamiento y régimen interior del Jurado de Expropiación.
+Se modifica el apartado 2 por el art. 8.1 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+## Sección 3
+
+Sección 3.ª Competencias urbanísticas en el ámbito local
+
+### Artículo 12
+
+Artículo 12. Competencia de los municipios.
+1. Los municipios ejercerán, en todo caso, como competencias propias todas las facultades que les son atribuidas en la presente ley en materia de planeamiento, gestión, ejecución y disciplina urbanística, protección del patrimonio histórico, promoción y gestión de la vivienda de protección pública, con criterios de sostenibilidad financiera, y conservación y rehabilitación de la edificación, salvo que estén expresamente atribuidas a otras administraciones.
+2. Los municipios ejercerán las competencias urbanísticas que les correspondan bien directamente o bien por delegación, de conformidad con lo dispuesto en la presente ley y en la normativa de régimen local.
+3. Los municipios podrán establecer las formas de colaboración con otras entidades de derecho público que resulten más convenientes para el ejercicio de sus competencias urbanísticas, con arreglo a la legislación de régimen local.
+
+## TÍTULO I
+
+Régimen urbanístico del suelo
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 13
+
+Artículo 13. Régimen de la propiedad.
+1. Las facultades urbanísticas del derecho de propiedad relativas al uso del suelo, subsuelo y vuelo, y en especial su urbanización y edificación, se ejercerán dentro de los límites y con el cumplimiento de los deberes establecidos en la presente ley y, en virtud de la misma, por los instrumentos de ordenación urbanística, de acuerdo con la clasificación urbanística de las fincas, asegurando que el suelo se utilice en congruencia con la utilidad pública y función social de la propiedad, garantizando el cumplimiento de las obligaciones y cargas legalmente establecidas y coordinadamente con la legislación sectorial.
+2. La ordenación del uso de los terrenos y construcciones establecida en la legislación y en el planeamiento urbanísticos no confiere a los propietarios ningún derecho a exigir indemnización por implicar simples límites y deberes que definen el contenido normal de la propiedad según su calificación urbanística, salvo en los supuestos previstos en las leyes. Los afectados tendrán, no obstante, derecho a la distribución equitativa de los beneficios y cargas derivados del planeamiento, en los términos previstos en la presente ley.
+
+### Artículo 14
+
+Artículo 14. Subrogación real.
+La transmisión de fincas no modificará la situación de su titular respecto a los deberes establecidos por la legislación urbanística o a los exigibles por los actos de ejecución derivados de la misma. El nuevo titular quedará subrogado en el lugar y puesto del anterior propietario en sus derechos y deberes urbanísticos, así como en los compromisos que este hubiera contraído con la administración urbanística competente y hayan sido objeto de inscripción registral, siempre que tales compromisos se refieran a un posible efecto de mutación jurídica real y sin perjuicio de la facultad de ejercitar contra el transmitente las acciones que procediesen.
+
+## CAPÍTULO II
+
+Clasificación del suelo
+
+### Artículo 15
+
+Artículo 15. Clasificación del suelo.
+Los planes generales de ordenación y los planes básicos municipales habrán de clasificar el territorio municipal en todos o algunos de los siguientes tipos de suelo: urbano, de núcleo rural, urbanizable y rústico.
+
+## CAPÍTULO III
+
+Régimen de las distintas clases y categorías de suelo
+
+## Sección 1
+
+Sección 1.ª Suelo urbano
+
+### Artículo 16
+
+Artículo 16. Suelo urbano.
+1. Los planes generales y los planes básicos clasificarán como suelo urbano los terrenos que estén integrados en la malla urbana existente, siempre que reúnan alguno de los siguientes requisitos:
+a) Que cuenten con acceso rodado público y con los servicios de abastecimiento de agua, evacuación de aguas residuales y suministro de energía eléctrica, proporcionados mediante las correspondientes redes públicas o pertenecientes a las comunidades de usuarios reguladas por la legislación sectorial de aguas, y con características adecuadas para servir a la edificación existente y a la permitida por el plan.
+A estos efectos, los servicios construidos para la conexión de un sector de suelo urbanizable, las carreteras y las vías de la concentración parcelaria no servirán de soporte para la clasificación como urbanos de los terrenos adyacentes, salvo cuando estén integrados en la malla urbana.
+b) Que, aun careciendo de algunos de los servicios citados en el apartado anterior, estén comprendidos en áreas ocupadas por la edificación, al menos en las dos terceras partes de los espacios aptos para ella, según la ordenación que el plan general o el plan básico establezcan.
+2. A los efectos de la presente ley, se consideran incluidos en la malla urbana los terrenos que dispongan de una urbanización básica constituida por unas vías de acceso y comunicación y unas redes de servicios de las que puedan servirse los terrenos y que estos, por su situación, no estén desligados del entramado urbanístico ya existente.
+
+### Artículo 17
+
+Artículo 17. Categorías de suelo urbano.
+Los planes generales diferenciarán en el suelo urbano las siguientes categorías, sin perjuicio de lo dispuesto para los planes especiales en el artículo 71.2:
+a) Suelo urbano consolidado, integrado por los terrenos que reúnan la condición de solar o que, por su grado de urbanización efectiva y asumida por el planeamiento urbanístico, puedan adquirir dicha condición mediante obras accesorias y de escasa entidad que puedan ejecutarse de forma simultánea con las de edificación.
+b) Suelo urbano no consolidado, integrado por la restante superficie de suelo urbano y, en todo caso, por los terrenos que reúnan alguna de las siguientes condiciones:
+1. Terrenos en los que sean necesarios procesos de urbanización.
+2. Terrenos en los que sean necesarios procesos de reforma interior o renovación urbana.
+3. Terrenos en los que se desarrollen actuaciones de dotación, entendiendo como tales aquellos en los que sea necesario incrementar las dotaciones públicas para reajustar su proporción con la mayor edificabilidad o con los nuevos usos asignados en la ordenación urbanística, sin requerir la reforma o renovación de la urbanización.
+Se entiende que ese aumento de edificabilidad o cambio de uso requerirá el incremento de las dotaciones públicas cuando conlleve un aumento del aprovechamiento superior al 30 % del existente.
+
+### Artículo 18
+
+Artículo 18. Solares.
+1. Tendrán la condición de solar las superficies de suelo urbano legalmente divididas y aptas para la edificación que cuenten con acceso por vía pública pavimentada y servicios urbanos de abastecimiento de agua potable, evacuación de aguas residuales a la red de saneamiento, suministro de energía eléctrica y alumbrado público, en condiciones de caudal y potencia adecuadas para los usos permitidos. Si existiera planeamiento, además de lo anterior, habrán de estar urbanizadas de acuerdo con las alineaciones y rasantes de todas las vías a las que den frente.
+2. Los terrenos incluidos en el suelo urbano no consolidado y en el suelo urbanizable sólo podrán alcanzar la condición de solar previa ejecución del correspondiente planeamiento urbanístico, incluyendo las obras de urbanización exigibles para la conexión con los sistemas generales existentes y, en su caso, para su ampliación o refuerzo.
+
+### Artículo 19
+
+Artículo 19. Derechos de los propietarios.
+Los propietarios de suelo urbano tienen el derecho de completar la urbanización de los terrenos para que adquieran la condición de solar y a edificar estos en las condiciones establecidas en la presente ley y en el planeamiento aplicable y, cuando proceda, participar en la ejecución de actuaciones de transformación urbanística en un régimen de justa distribución de beneficios y cargas.
+
+### Artículo 20
+
+Artículo 20. Deberes de los propietarios de suelo urbano consolidado.
+En suelo urbano consolidado, los propietarios tienen los siguientes deberes:
+a) Ceder gratuitamente al ayuntamiento los terrenos destinados a viales fuera de las alineaciones establecidas en el planeamiento cuando pretendan parcelar, edificar, ampliar el volumen o rehabilitar integralmente edificaciones existentes.
+b) Completar por su cuenta la urbanización necesaria para que los terrenos alcancen, si aún no la tuvieran, la condición de solar, en los supuestos de edificar, ampliar el volumen o rehabilitar integralmente. A tal efecto, afrontarán los costes de urbanización precisos para completar los servicios urbanos y ejecutar las obras necesarias para conectar con las redes de servicios y viaria en funcionamiento.
+c) Regularizar las fincas para adaptar su configuración a las exigencias del planeamiento cuando fuera preciso por ser su superficie inferior a la parcela mínima o su forma inadecuada para la edificación.
+d) Edificar los solares en el plazo establecido.
+e) Conservar y, en su caso, rehabilitar la edificación, a fin de que esta mantenga en todo momento las condiciones establecidas en el artículo 135.
+f) Garantizar el realojo de los ocupantes legales que se precise desalojar de inmuebles situados en el área de actuación y que constituyan su residencia habitual, así como el retorno cuando tengan derecho al mismo, en los términos establecidos en la legislación vigente.
+Igualmente, habrán de indemnizar a los titulares de derechos sobre las construcciones y edificaciones que hayan de ser demolidas y las obras, instalaciones y plantaciones que no puedan conservarse.
+Se modifica el apartado b) por el art. 11.2 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado a) por el art. 14.1 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se modifica el apartado a) por el art. 8.2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+
+### Artículo 21
+
+Artículo 21. Deberes de los propietarios de suelo urbano no consolidado.
+1. En el suelo urbano no consolidado, definido en el artículo 17.b), apartados 1 y 2, los propietarios tienen los siguientes deberes:
+a) Ceder obligatoria y gratuitamente al ayuntamiento el suelo destinado al sistema local de espacios libres, zonas verdes y equipamientos, y a la administración titular correspondiente, el destinado a viales.
+b) Ceder obligatoria, gratuitamente y sin cargas a la administración municipal el suelo necesario para la ejecución de los sistemas generales que el plan general incluya o adscriba al polígono en el que estén comprendidos los terrenos, así como ejecutar la urbanización únicamente de los incluidos en el polígono en las condiciones que determine el plan.
+c) Costear y, en su caso, ejecutar o completar las obras de urbanización del polígono, así como las conexiones con los sistemas generales existentes, en los plazos establecidos por el planeamiento.
+d) Ceder obligatoria, gratuitamente y libre de cargas al ayuntamiento el suelo correspondiente al 10 % del aprovechamiento tipo del área de reparto. La Administración no tendrá que contribuir a las cargas de urbanización correspondientes de esos terrenos, que habrán de ser asumidas por los propietarios.
+Este deber de cesión podrá cumplirse, en el caso de conformidad del ayuntamiento, mediante la sustitución de la entrega de suelo por su valor en metálico, que deberá integrarse en el patrimonio público del suelo, excepto cuando pueda cumplirse con suelo destinado a vivienda sometida a algún régimen de protección pública en virtud de la reserva que pudiere resultar exigible.
+e) Garantizar el realojo de los ocupantes legales que se precise desalojar de inmuebles ubicados en el área de la actuación y que constituyan su residencia habitual, así como el retorno cuando tengan derecho al mismo, en los términos establecidos en la legislación vigente.
+f) Proceder a la distribución equitativa de los beneficios y cargas del planeamiento con anterioridad al inicio de su ejecución material.
+g) Edificar los solares en el plazo establecido.
+2. En el suelo urbano no consolidado en que sean necesarias actuaciones de dotación, los deberes anteriores se exigirán con las siguientes salvedades:
+a) El deber de cesión al ayuntamiento obligatoria, gratuitamente y sin cargas del suelo correspondiente al aprovechamiento urbanístico que le corresponda se determinará atendiendo sólo al incremento de edificabilidad media ponderada que, en su caso, resulte de la modificación del instrumento urbanístico, pudiendo cumplirse, en su caso, mediante la sustitución de la entrega de suelo por su valor en metálico, con la finalidad de costear la parte de financiación pública que pudiese estar prevista en la propia actuación, o integrarse en el patrimonio público del suelo, con destino preferente a actuaciones de rehabilitación o de regeneración y renovación urbanas.
+b) El deber de entregar a la Administración el suelo para dotaciones públicas relacionado con el reajuste de su proporción podrá sustituirse, en caso de imposibilidad física de materializarlo en el ámbito correspondiente, por la entrega de superficie edificada o edificabilidad no lucrativa en un complejo inmobiliario ubicado dentro del mismo.
+3. Con independencia de lo establecido en los apartados anteriores, con carácter excepcional y siempre que se justifique adecuadamente que no cabe ninguna otra solución técnica o económicamente viable, los instrumentos de ordenación urbanística podrán eximir del cumplimiento de los deberes de nuevas entregas de suelo que les correspondieran a actuaciones sobre zonas con un alto grado de degradación e inexistencia material de suelos disponibles en su entorno inmediato.
+La misma regla podrá aplicarse a los incrementos de la densidad o edificabilidad que fueran precisos para sustituir la infravivienda por vivienda que reúna los requisitos legalmente exigibles, con destino al realojo y al retorno que exija la correspondiente actuación.
+4. No podrá ser edificado ni parcelado ningún terreno que no reúna la condición de solar, salvo que se asegure la ejecución simultánea de la urbanización y de la edificación mediante aval, que deberá alcanzar el coste estimado de las obras de urbanización y las demás garantías que se determinen reglamentariamente.
+En el supuesto de que la promoción de la urbanización, de la edificación o de ambas corresponda a entidades del sector público autonómico, quedarán exentas de la constitución de las indicadas garantías.
+Se modifica el apartado 4 por el art. 81.3 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se añade un párrafo al apartado 1.d) por el art. 13.1 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 22
+
+Artículo 22. Aprovechamiento urbanístico en el suelo urbano.
+El aprovechamiento urbanístico de los propietarios del suelo urbano será:
+a) En los terrenos incluidos por el plan en la categoría de suelo urbano consolidado, el aprovechamiento real que resulte de la aplicación directa de las determinaciones del plan sobre la parcela.
+Los propietarios materializarán su aprovechamiento directamente sobre sus parcelas o tras la normalización de fincas.
+b) En los terrenos incluidos en la categoría de suelo urbano no consolidado definidos en los números 1 y 2 del artículo 17.b), el aprovechamiento resultante de referir a su superficie el 90 % del aprovechamiento tipo del área de reparto correspondiente.
+Con todo, los propietarios o propietarias tienen derecho al 100 % del aprovechamiento tipo en los siguientes supuestos:
+– Polígonos para los que el plan imponga cargas especialmente onerosas relativas a la rehabilitación integral o restauración de bienes inmuebles catalogados.
+– Polígonos para los que el nuevo plan no prevé el incremento de la superficie edificable respeto de la preexistente ni incorpora nuevos usos que generen plusvalías.
+Los propietarios o propietarias materializarán su aprovechamiento urbanístico sobre las parcelas que resulten de la nueva ordenación o mediante una compensación económica.
+c) Cuando se trate de actuaciones de dotación definidas en el artículo 17.b), apartado 3, el aprovechamiento correspondiente a los propietarios será el que reste tras efectuar al ayuntamiento la entrega del aprovechamiento regulado en el apartado 2.a) del artículo anterior.
+d) En el caso de actuaciones urbanísticas promovidas por administraciones públicas u otras entidades del sector público cuyo objeto principal sea la construcción de viviendas protegidas, viviendas de promoción pública o equipamientos públicos o la creación de suelo para facilitar la implantación de industrias y otras actividades económicas, el beneficiario de la cesión del 10 % será la administración o la entidad actuante.
+Se modifica la letra b) por el art. 61.1 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## Sección 2
+
+Sección 2.ª Núcleos rurales
+
+## Subsección 1
+
+Subsección 1.ª Delimitación y régimen
+
+### Artículo 23
+
+Artículo 23. Suelo de núcleo rural.
+1. Constituyen el suelo de núcleo rural las áreas del territorio que sirven de soporte a un asentamiento de población singularizado, identificable y diferenciado administrativamente en los censos y padrones oficiales que el planeamiento defina y delimite teniendo en cuenta el número de edificaciones, la densidad de viviendas, su grado de consolidación por la edificación y, en su caso, la tipología tradicional de su armazón y de las edificaciones existentes en el mismo.
+2. El planeamiento, en congruencia con el modelo de asentamiento poblacional que incorpore en el estudio del medio rural, delimitará los núcleos rurales de su ámbito de aplicación en atención a los parámetros anteriores, significadamente los antecedentes existentes de delimitaciones anteriores, sus peculiaridades urbanísticas y morfológicas y su capacidad de acogida de la demanda previsible del uso residencial en el medio rural. La definición de su perímetro se realizará en función de las condiciones topográficas y la estructura de la propiedad y de su nivel de integración en las dotaciones y servicios existentes en el mismo en los términos previstos en la presente ley, y se ajustarán a las infraestructuras y huellas físicas de los elementos naturales existentes, siendo necesario, en su caso, prever la total urbanización y suficiencia de las redes de dotaciones, comunicaciones y servicios.
+3. La delimitación de los núcleos rurales que el planeamiento establezca vendrá referida a alguno de los siguientes tipos básicos:
+a) Núcleo rural tradicional, caracterizado como tal en función de sus características morfológicas, de la tipología tradicional de las edificaciones, de la vinculación con la explotación racional de los recursos naturales o de circunstancias de otra índole que manifiesten la vinculación tradicional del núcleo con el medio físico en el que se ubica.
+Su delimitación se realizará en atención a la cercanía de las edificaciones, los lazos de relación y coherencia entre lugares de un mismo asentamiento con topónimo diferenciado y la morfología y tipologías propias de dichos asentamientos y del área geográfica en la que se encuentran (caserío, lugar, aldea, barrio u otro), de modo que el ámbito delimitado presente una consolidación por la edificación de, al menos, el 50 %, de acuerdo con la ordenación propuesta y trazando una línea perimetral que encierre las edificaciones tradicionales del asentamiento siguiendo el parcelario y las huellas físicas existentes (caminos, ríos, riachuelos, ribazos y otros).
+b) Núcleo rural común, constituido por aquellos asentamientos de población reconocibles como suelo de núcleo rural por su trama parcelaria o el carácter tradicional de su viario soporte pero que no presentan las características necesarias para su inclusión en el tipo básico anterior. Su delimitación habrá de hacerse en función de las previsiones de crecimiento que el plan general establezca para el núcleo y teniendo en cuenta que el ámbito delimitado deberá presentar un grado de consolidación por la edificación, de acuerdo con la ordenación urbanística que para el mismo se contemple en el plan, igual o superior a un tercio de su superficie.
+
+### Artículo 24
+
+Artículo 24. Régimen y condiciones de edificación en el suelo de núcleo rural.
+1. Los terrenos que los planes generales incluyan en las áreas delimitadas como núcleos rurales de población serán destinados a los usos característicos, complementarios o compatibles con la edificación residencial en el medio rural y con las necesidades de la población residente en los mismos.
+2. Cuando se pretenda parcelar, construir nuevas edificaciones, ampliar el volumen de edificaciones existentes, sustituir o rehabilitar integralmente las existentes, las personas propietarias deberán ceder gratuitamente al ayuntamiento los terrenos necesarios para la apertura o regularización del viario preciso.
+3. En el caso de la construcción de nuevas edificaciones, ampliación del volumen o cambio de uso de las edificaciones existentes o de rehabilitaciones integrales, habrán además de ejecutar a su costa la conexión con los servicios existentes en el núcleo.
+4. Podrá autorizarse la ejecución simultánea de las obras de acometida, urbanización y edificación. El municipio deberá exigir garantías suficientes del cumplimiento de esta obligación.
+5. Para edificar en el ámbito de los núcleos rurales deberá disponerse de acceso rodado de uso público y ejecutarse la conexión con las redes de servicio existentes en el núcleo rural o en sus cercanías. En el caso de las redes de abastecimiento de agua y saneamiento, esta conexión solo será exigible cuando existan redes públicas o pertenecientes a las comunidades de usuarios reguladas por la legislación sectorial de aguas, autorizadas y con capacidad de servicio suficiente.
+En caso de que no se exija la conexión con las redes de servicio, deberán resolverse estas por medios individuales con cargo al promotor o promotora de la edificación. Cuando no se trate de nuevas edificaciones, la instalación de medios individuales de depuración podrá ejecutarse sin guardar distancia alguna a los bordes de la parcela, siempre que se justifique técnicamente la imposibilidad de la localización en otra zona del propio inmueble y se respeten las limitaciones recogidas en la normativa sectorial en materia de aguas.
+6. En las áreas en las que por planeamiento general o especial se prevean actuaciones de carácter integral en los núcleos rurales, los propietarios o propietarias de suelo están obligados a:
+a) Ceder obligatoria y gratuitamente al ayuntamiento el suelo destinado a espacios libres, zonas verdes y equipamientos, y a la administración titular correspondiente, el destinado a viales.
+b) Costear y, en su caso, ejecutar las obras de urbanización previstas en el ámbito de la actuación integral.
+c) Ceder obligatoria, gratuitamente y libre de cargas al ayuntamiento el suelo correspondiente al 10 % del aprovechamiento urbanístico de dicha área, salvo en las actuaciones integrales para las que el nuevo plan no contemple un incremento de la superficie edificable respecto a las ordenanzas tipo del núcleo. La Administración no tendrá que contribuir a las cargas de urbanización correspondientes a los terrenos en los que se ubique este aprovechamiento.
+7. Las nuevas edificaciones que se pretendan ubicar en los núcleos rurales tradicionales se identificarán con las características propias del lugar, estando encaminadas a consolidar la trama rural existente. Todas ellas cumplirán las siguientes condiciones:
+a) Las características tipológicas, estéticas y constructivas y los materiales, colores y acabados serán acordes con el paisaje rural y las construcciones tradicionales del asentamiento, sin perjuicio de otras propuestas que se justifiquen por su calidad arquitectónica.
+b) El volumen máximo de la edificación será similar al de las edificaciones tradicionales existentes, salvo cuando resulte imprescindible superarlo por exigencias del uso o actividad. En todo caso, habrán de adoptarse las medidas correctoras necesarias para garantizar el mínimo impacto visual sobre el paisaje y la mínima alteración del relieve natural de los terrenos.
+Se modifica el apartado 5 por el art. 81.4 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica el apartado 3 por el art. 11.3 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifican los apartados 2 y 5 por el art. 14.2 y 3 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+## Subsección 2
+
+Subsección 2.ª Condiciones de uso
+
+### Artículo 25
+
+Artículo 25. Usos del suelo de núcleo rural.
+1. El planeamiento urbanístico definirá los usos y condiciones de edificación admisibles en los ámbitos delimitados como núcleos rurales de población, con supeditación a las determinaciones contenidas en la presente ley.
+2. El uso característico de las edificaciones en los núcleos rurales será el residencial. Se considerarán como complementarios los usos terciarios o productivos, actividades turísticas y artesanales, pequeños talleres, invernaderos y equipamientos, así como aquellos que guarden relación directa con los tradicionalmente ligados al asentamiento rural de que trate o que den respuesta a las necesidades de la población residente en ellos.
+
+### Artículo 26
+
+Artículo 26. Actuaciones incompatibles.
+1. En los núcleos rurales están prohibidas las siguientes actuaciones:
+a) Las edificaciones y usos característicos de las zonas urbanas y aquellas cuya tipología resulte impropia en relación con las determinaciones del planeamiento.
+b) Las parcelaciones que determinen la desfiguración de la tipología del núcleo.
+c) Las naves industriales.
+d) Aquellos movimientos de tierras que supongan una agresión al medio natural o que varíen la morfología del paisaje del lugar.
+e) La apertura de pistas, calles o caminos que no estén previstos en el planeamiento, así como la ampliación de los existentes y el derribo de muros tradicionales de los barrios o senderos, salvo disposición del planeamiento que lo autorice.
+f) Las nuevas instalaciones destinadas a la producción ganadera, salvo las pequeñas construcciones artesanales o para el autoconsumo.
+g) La demolición de las construcciones existentes, salvo en los siguientes supuestos:
+– Construcciones que no presenten un especial valor arquitectónico, histórico o etnográfico.
+– Todos los añadidos y edificaciones auxiliares que desvirtúen la tipología, forma y volumen de cualquier edificación primitiva o que por sus materiales supongan un efecto distorsionador para la armonía y estética del conjunto edificatorio o no sean propios del asentamiento rural tradicional.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, en los núcleos tradicionales estarán prohibidos:
+a) Las viviendas adosadas, proyectadas en serie, de características similares y emplazadas en continuidad en más de tres unidades.
+b) Los nuevos tendidos aéreos.
+c) La ejecución de actuaciones integrales que determinen la desfiguración de la tipología del núcleo y la destrucción de los valores que justificaron su clasificación como tal.
+
+## Sección 3
+
+Sección 3.ª Suelo urbanizable
+
+### Artículo 27
+
+Artículo 27. Suelo urbanizable.
+Constituirán el suelo urbanizable los terrenos que el planeamiento estime necesarios y adecuados para permitir el crecimiento de la población y de la actividad económica o para completar su estructura urbanística.
+
+### Artículo 28
+
+Artículo 28. Régimen del suelo urbanizable.
+1. Los propietarios de suelo clasificado como urbanizable tendrán derecho a promover su transformación, solicitando al ayuntamiento la aprobación del correspondiente planeamiento de desarrollo, de conformidad con lo establecido en la presente ley y en el plan general de ordenación municipal, o proceder a su desarrollo si ya estuviera ordenado directamente en el plan general.
+2. En el suelo urbanizable, en tanto no se apruebe la correspondiente ordenación detallada, no podrán realizarse construcciones, salvo las que vayan a ejecutarse mediante la redacción de planes especiales de infraestructuras y las de carácter provisional, en las condiciones establecidas en el artículo 89.
+
+### Artículo 29
+
+Artículo 29. Deberes de los propietarios de suelo urbanizable.
+Una vez aprobado el planeamiento que establezca la ordenación detallada, la transformación del suelo urbanizable conllevará para sus propietarios los siguientes deberes:
+a) Ceder obligatoria y gratuitamente al ayuntamiento el suelo destinado al sistema local de espacios libres, zonas verdes y equipamientos, y a la administración titular correspondiente, el destinado a viales.
+b) Ceder obligatoria, gratuitamente y sin cargas el suelo necesario para la ejecución de los sistemas generales que el plan general incluya o adscriba al sector y urbanizar en las condiciones que determine el plan únicamente los incluidos en el sector.
+c) Costear y, en su caso, ejecutar las obras de urbanización del sector y las infraestructuras de conexión con los sistemas generales existentes, así como las obras necesarias para la ampliación y refuerzo de los citados sistemas, de forma que se asegure su correcto funcionamiento teniendo en cuenta las características del sector y de conformidad con los requisitos y condiciones que establezca el plan general.
+d) Ceder obligatoria, gratuitamente y libre de cargas al ayuntamiento el suelo correspondiente al 10 % del aprovechamiento tipo del área de reparto. La Administración no tendrá que contribuir a las cargas de urbanización correspondientes de esos terrenos, que habrán de ser asumidas por los propietarios.
+Este deber de cesión podrá cumplirse, en el caso de conformidad del ayuntamiento, mediante la sustitución de la entrega de suelo por su valor en metálico, que deberá integrarse en el patrimonio público del suelo, excepto cuando pueda cumplirse con suelo destinado a vivienda sometida a algún régimen de protección pública en virtud de la reserva que pudiere resultar exigible.
+e) Garantizar el realojo de los ocupantes legales que se precise desalojar de inmuebles ubicados en el área de la actuación y que constituyan su residencia habitual, así como el retorno cuando tuvieran derecho al mismo, en los términos establecidos en la legislación vigente.
+f) Proceder a la distribución equitativa de los beneficios y cargas del planeamiento con anterioridad al inicio de su ejecución material.
+g) Edificar los solares en el plazo establecido. No podrá ser edificado ni parcelado ningún terreno que no reúna la condición de solar, salvo que se asegure la ejecución simultánea de la urbanización y de la edificación mediante aval, que habrá de alcanzar el coste estimado de las obras de urbanización y las demás garantías que se determinen reglamentariamente.
+Se añade un párrafo a la letra d) por el art. 13.2 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Artículo 30
+
+Artículo 30. Aprovechamiento urbanístico en el suelo urbanizable.
+El aprovechamiento urbanístico de los propietarios de suelo urbanizable será el resultado de aplicar a la superficie de sus fincas respectivas el 90 % del aprovechamiento tipo del área de reparto correspondiente.
+En el caso de actuaciones urbanísticas promovidas por administraciones públicas con destino a la construcción de viviendas de promoción pública o de equipamientos públicos o a la creación de suelo empresarial, la totalidad del aprovechamiento urbanístico será atribuido a la administración actuante.
+
+## Sección 4
+
+Sección 4.ª Suelo rústico
+
+## Subsección 1
+
+Subsección 1.ª Régimen
+
+### Artículo 31
+
+Artículo 31. Concepto y categorías.
+1. Tendrán la condición de suelo rústico:
+a) Los terrenos sometidos a algún régimen de especial protección, de conformidad con la legislación sectorial de protección del dominio público marítimo-terrestre, hidráulico o de infraestructuras, o con la legislación sectorial de protección de los valores agrícolas, ganaderos, forestales, paisajísticos, ambientales, naturales o culturales.
+b) Los amenazados por riesgos naturales o tecnológicos, incompatibles con su urbanización, tales como inundación, erosión, hundimiento, incendio, contaminación o cualquier otro tipo de catástrofes, o que perturben el medio ambiente o la seguridad y salud.
+c) Los terrenos que el plan general o los instrumentos de ordenación del territorio no consideren adecuados para el desarrollo urbanístico, en consideración a los principios de utilización racional de los recursos naturales o de desarrollo sostenible.
+2. Dentro del suelo rústico se distinguirá el suelo rústico de protección ordinaria y el suelo rústico de especial protección.
+
+### Artículo 32
+
+Artículo 32. Facultades y deberes de los propietarios en suelo rústico.
+1. Los propietarios o propietarias de terrenos clasificados como suelo rústico tendrán el derecho a usar, disfrutar y disponer de ellos de conformidad con su naturaleza y su destino rústico.
+2. Igualmente, previa obtención del título habilitante de naturaleza urbanística, podrán destinarlos a los usos regulados en el artículo 35.1 de la presente ley.
+3. Los propietarios o propietarias de suelo rústico habrán de:
+a) Solicitar, en los supuestos previstos en la legislación urbanística, el título municipal habilitante de naturaleza urbanística y, en su caso, la autorización autonómica para el ejercicio de los usos permitidos o autorizables según lo dispuesto en la presente ley.
+b) Realizar o permitir realizar a la administración competente actuaciones de restauración ambiental y trabajos de defensa del suelo y de la vegetación necesarios para su conservación y para evitar riesgos de inundación, erosión, incendio, contaminación o cualquier otro riesgo de catástrofe o simple perturbación del medio ambiente, así como de la seguridad y salud públicas.
+
+### Artículo 33
+
+Artículo 33. Suelo rústico de protección ordinaria.
+1. El planeamiento clasificará como suelo rústico de protección ordinaria los siguientes terrenos:
+a) Los que no resulten susceptibles de transformación urbanística por la peligrosidad para la seguridad de las personas y los bienes, motivada por la existencia de riesgos de cualquier índole.
+b) Aquellos que el planeamiento estime innecesarios o inapropiados para su transformación urbanística.
+2. El plan general de ordenación municipal podrá excluir de esta clase de suelo, justificadamente, aquellos ámbitos que resulten necesarios para el desarrollo urbanístico racional.
+
+### Artículo 34
+
+Artículo 34. Suelo rústico de especial protección.
+1. El planeamiento clasificará como suelo rústico de especial protección los terrenos afectados por las legislaciones sectoriales de protección del dominio público marítimo-terrestre, hidráulico o de infraestructuras o por las de protección de los valores agrícolas, ganaderos, forestales, paisajísticos, ambientales, naturales o culturales.
+2. En el suelo rústico de especial protección se distinguirán las siguientes categorías:
+a) Suelo rústico de protección agropecuaria, constituido por los terrenos que hayan sido objeto de concentración o reestructuración parcelaria con resolución firme y los terrenos de alta productividad agropecuaria que sean delimitados en el catálogo oficial correspondiente por el órgano que ejerza la competencia sectorial en materia agrícola o ganadera.
+A los efectos de lo previsto en esta letra, no se entenderán incluidos los terrenos que formen parte de procesos de concentración o reestructuración parcelaria que tengan naturaleza forestal.
+b) Suelo rústico de protección forestal, constituido por los terrenos de alta productividad forestal que sean delimitados en el catálogo oficial correspondiente por el órgano que ejerza la competencia sectorial en materia forestal y los montes o terrenos forestales inscritos en el Sistema registral forestal de Galicia.
+c) Suelo rústico de protección de las aguas, constituido por los terrenos situados fuera de los núcleos rurales y del suelo urbano definidos como dominio público hidráulico en la respectiva legislación sectorial, sus zonas de policía y las zonas de flujo preferente.
+d) Suelo rústico de protección de costas, constituido por los terrenos situados fuera de los núcleos rurales y del suelo urbano que se encuentren dentro de la servidumbre de protección del dominio público marítimo-terrestre establecida por la legislación sectorial estatal en materia de costas y los delimitados como áreas de protección costera en el Plan de ordenación del litoral.
+e) Suelo rústico de protección de infraestructuras, constituido por los terrenos rústicos destinados al emplazamiento de infraestructuras y sus zonas de afección, tales como las comunicaciones y telecomunicaciones, las instalaciones para el abastecimiento, saneamiento y depuración del agua, las de gestión de residuos sólidos, las derivadas de la política energética o cualquier otra que justifique la necesidad de afectar una parte del territorio, con arreglo a la previsión de los instrumentos de planeamiento urbanístico y de ordenación del territorio.
+f) Suelo rústico de protección de espacios naturales, constituido por los terrenos incluidos en la Red gallega de espacios protegidos, en las áreas de presencia y áreas críticas definidas en los planes de recuperación o planes de conservación de especies amenazadas y en aquellas otras zonas para las que así se determine expresamente en alguno de los instrumentos de planificación recogidos en la Ley 5/2019, de 2 de agosto, del patrimonio natural y de la biodiversidad de Galicia.
+g) Suelo rústico de protección paisajística, constituido por los terrenos considerados como áreas de especial interés paisajístico de conformidad con la legislación de protección del paisaje de Galicia y como espacios de interés paisajístico en el Plan de ordenación del litoral.
+h) Suelo rústico de protección patrimonial, constituido por los terrenos protegidos por la legislación de patrimonio cultural.
+3. Los ayuntamientos que, durante la elaboración de su planeamiento y como consecuencia del estudio detallado, observen ámbitos que, pese a no contar con protección sectorial, contienen valores merecedores de especial protección, podrán otorgarles tal categorización, previa justificación adecuada e informe favorable de la administración que tenga la competencia sectorial.
+4. Cuando un terreno, por sus características, pueda corresponder a varias categorías de suelo rústico, se aplicarán los distintos regímenes de forma complementaria.
+5. El plan general podrá excluir justificadamente del suelo rústico de especial protección los terrenos necesarios para el desarrollo urbanístico racional, previo informe favorable del órgano que ostente la competencia sectorial correspondiente.
+Se modifica la letra b) del apartado 2 por el art. 61.2 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 3, por el art. 81.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifican las letras a) y b) del apartado 2 por la disposición final 5 de la Ley 11/2021, de 14 de mayo. Ref. BOE-A-2021-10669#df-5
+ Se modifica la letra f) del apartado 2 por el art. 13.3 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Subsección 2
+
+Subsección 2.ª Condiciones de uso
+
+### Artículo 35
+
+Artículo 35. Usos y actividades en suelo rústico.
+1. Los usos y las actividades admisibles en suelo rústico serán los siguientes:
+a) Acciones sobre el suelo o subsuelo que impliquen movimientos de tierra, tales como dragados, defensa de ríos y rectificación de cauces, abancalamientos, desmontes y rellenos.
+b) Muros de contención, así como vallado de fincas.
+c) Actividades de ocio, tales como la práctica de deportes organizados o la acampada de un día y actividades comerciales ambulantes, que no lleven asociadas instalaciones o edificaciones.
+d) Campamentos de turismo con las obras, servicios e instalaciones previstas en la normativa vigente en materia de turismo, así como zonas especiales de acogida para autocaravanas y caravanas en tránsito, conforme a lo establecido en dicha normativa; y las instalaciones de playa y actividades de carácter deportivo, sociocultural, recreativo y de baño, de carácter público o privado, de uso individual o colectivo, que se desarrollen al aire libre, con las obras e instalaciones imprescindibles para el uso del que se trate.
+e) Actividades científicas, docentes y divulgativas que no lleven asociadas instalaciones o edificaciones.
+f) Depósito de materiales, almacenamiento y parques de maquinaria y estacionamiento o exposición de vehículos al aire libre.
+g) Construcciones e instalaciones agrícolas en general, tales como las destinadas al apoyo de las explotaciones hortícolas, almacenes agrícolas, talleres, garajes, parques de maquinaria agrícola, viveros e invernaderos.
+h) Construcciones e instalaciones destinadas al apoyo de la ganadería extensiva e intensiva, granjas, corrales domésticos y establecimientos en los que se alojen, mantengan o críen animales, e instalaciones apícolas.
+i) Construcciones e instalaciones forestales destinadas a la gestión forestal y las de apoyo a la explotación forestal, así como las de defensa forestal, talleres, garajes y parques de maquinaria forestal.
+j) Construcciones e instalaciones destinadas a establecimientos de acuicultura.
+k) Actividades e instalaciones comprendidas en el ámbito de la legislación minera, incluidos los establecimientos de beneficio, y pirotecnias.
+l) Instalaciones vinculadas funcionalmente a las carreteras y previstas en la ordenación sectorial de estas, así como las estaciones de servicio.
+m) Instalaciones e infraestructuras hidráulicas, de telecomunicaciones, producción, almacenamiento y transporte de energía, gas, abastecimiento de agua, saneamiento y gestión y tratamiento de residuos, públicas o privadas, siempre que no impliquen la urbanización o transformación urbanística de los terrenos por los que discurren.
+n) Construcciones destinadas a usos residenciales vinculados a la explotación agrícola o ganadera.
+ñ) Construcciones en las que se desarrollen actividades de naturaleza artesanal o de reducida dimensión que alberguen actividades complementarias de primera transformación, almacenamiento y envasado de productos del sector primario, siempre que guarden relación directa con la naturaleza, la extensión y el destino de la finca o explotación del recurso natural.
+o) Construcciones y rehabilitaciones destinadas al turismo que sean potenciadoras del medio donde se ubiquen.
+p) Construcciones e instalaciones para equipamientos y dotaciones públicos o privados.
+q) Otros usos análogos que se determinen reglamentariamente y coordinados entre la legislación sectorial y la presente ley.
+2. Los restantes usos en suelo rústico son usos prohibidos.
+Se modifican las letras m) y ñ) del apartado 1 por el art. 61.3 y 4 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifican las letras c) y e) del apartado 1 por el art. 11.4 y 5 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica la letra m) del apartado 1 por el art. 14.4 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se modifica el apartado 1.d) por el art. 7.1 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 36
+
+Artículo 36. Régimen de usos.
+1. Los usos y actividades relacionados en el artículo anterior son admisibles en cualquier categoría de suelo rústico, sin perjuicio de lo dispuesto en los instrumentos de ordenación del territorio y, en su caso, previa obtención del título habilitante municipal de naturaleza urbanística.
+2. En todo caso, en el suelo rústico de especial protección será necesario obtener la autorización o informe favorable del órgano que ostente la competencia sectorial correspondiente con carácter previo a la obtención del título habilitante municipal o autorización autonómica en los casos en que esta fuese preceptiva según lo dispuesto en el número siguiente.
+3. Los usos contemplados en las letras n) y ñ) del artículo anterior habrán de ser objeto de la autorización de la persona titular del órgano autonómico competente en materia de urbanismo con anterioridad a la obtención del título habilitante municipal.
+4. Los usos previstos en las letras o) y p) del artículo anterior requerirán la aprobación de un plan especial de infraestructuras y dotaciones, salvo que el planeamiento urbanístico general ya califique un ámbito como equipamiento o que la actuación pueda encuadrarse en lo dispuesto en el artículo 40 para las edificaciones existentes de carácter tradicional. En caso de que se implante en suelo rústico especialmente protegido, será preciso obtener la autorización o el informe favorable del órgano sectorial correspondiente.
+Una vez aprobado definitivamente el plan especial, los pronunciamientos favorables contenidos en los informes sectoriales emitidos en el procedimiento de tramitación de dicho instrumento de planeamiento podrán incorporarse al procedimiento para la obtención del título habilitante municipal de naturaleza urbanística, por lo que no será necesario solicitarlos nuevamente siempre que en la solicitud de estos sea comunicada tal circunstancia al órgano sectorial competente y que conste en el expediente el proyecto con el grado de detalle suficiente para permitir conocer de modo cierto el carácter, la extensión, la localización y los fines de la obra proyectada.
+5. Asimismo, podrán implantarse en suelo rústico aquellos usos previstos en los instrumentos de ordenación del territorio, previa obtención del título municipal habilitante y sin necesidad de autorización urbanística autonómica.
+Se modifican el apartado 4 por el art. 61.5 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 4 por el art. 11.6 de Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Artículo 37
+
+Artículo 37. Limitaciones de apertura de caminos.
+1. En el suelo rústico no está permitida la apertura de caminos que no estén expresamente contemplados en el planeamiento urbanístico o en los instrumentos de ordenación del territorio, salvo en el caso de los caminos rurales contemplados en los proyectos aprobados por la administración competente en materia de agricultura, minas, montes o medio ambiente.
+2. Las nuevas aperturas de caminos habrán de adaptarse a las condiciones topográficas del terreno, con la menor alteración posible del paisaje y minimizándose o corrigiéndose su impacto ambiental.
+
+## Subsección 3
+
+Subsección 3.ª Procedimiento para el otorgamiento de autorizaciones en suelo rústico
+
+### Artículo 38
+
+Artículo 38. Procedimiento para el otorgamiento de la autorización autonómica en suelo rústico.
+1. La competencia para el otorgamiento de la autorización autonómica prevista en esta ley corresponde a la persona titular del órgano competente en materia de urbanismo.
+2. La persona promotora presentará la solicitud de autorización sectorial ante el órgano competente en materia de urbanismo acompañada de un anteproyecto redactado por un técnico o técnica competente, con el contenido que se detalle reglamentariamente.
+Dicho órgano podrá requerir de la persona promotora la documentación y la información complementaria que estime necesaria o bien la subsanación de las deficiencias de la solicitud para adaptarse a lo dispuesto en esta ley.
+3. El órgano competente en materia de urbanismo examinará la adecuación de la implantación del uso solicitado a esta ley. Corresponderá al ayuntamiento verificar el cumplimiento de las condiciones de edificación en el otorgamiento del título habilitante de naturaleza urbanística.
+Transcurrido el plazo de tres meses sin resolución expresa, a contar desde la entrada de la documentación completa en el registro de la consejería, esta se entenderá otorgada por silencio administrativo.
+Se modifican por el art. 61.6 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## Subsección 4
+
+Subsección 4.ª Condiciones de edificación
+
+### Artículo 39
+
+Artículo 39. Condiciones generales de las edificaciones en el suelo rústico.
+Para poder obtener el título habilitante municipal de naturaleza urbanística, o la autorización autonómica en los supuestos previstos en el artículo 36, para cualquier clase de edificaciones o instalaciones en el suelo rústico, habrá de justificarse el cumplimiento de las siguientes condiciones:
+a) Garantizar el acceso rodado de uso público adecuado a la implantación, el abastecimiento de agua, la evacuación y el tratamiento de aguas residuales, el suministro de energía eléctrica, la recogida, el tratamiento, la eliminación y la depuración de toda clase de residuos y, en su caso, la previsión de aparcamientos suficientes, así como corregir las repercusiones que produzca la implantación en la capacidad y funcionalidad de las redes de servicios e infraestructuras existentes.
+Estas soluciones habrán de ser asumidas como coste a cargo exclusivo del promotor o promotora de la actividad, formulando expresamente el correspondiente compromiso en tal sentido y aportando las garantías exigidas al efecto por la Administración en la forma que reglamentariamente se determine.
+b) Prever las medidas correctoras necesarias para minimizar la incidencia de la actividad solicitada sobre el territorio, así como todas aquellas medidas, condiciones o limitaciones tendentes a conseguir la menor ocupación territorial y la mejor protección del paisaje, los recursos productivos y el medio natural, así como la preservación del patrimonio cultural y la singularidad y tipología arquitectónica de la zona.
+c) Cumplir las siguientes condiciones de edificación:
+– Las características tipológicas, estéticas y constructivas y los materiales, colores y acabados serán acordes con el paisaje rural y las construcciones del entorno, sin perjuicio de otras propuestas que se justifiquen por su calidad arquitectónica.
+– El volumen máximo de la edificación será similar al de las edificaciones tradicionales existentes, salvo cuando resulte imprescindible superarlo por exigencias del uso o actividad. En todo caso, habrán de adoptarse las medidas correctoras necesarias para garantizar el mínimo impacto visual sobre el paisaje y la mínima alteración del relieve natural de los terrenos.
+– Los cierres de fábrica no podrán exceder de 1,5 metros de altura, debiendo adaptarse al medio en que se ubiquen.
+– La altura máxima de las edificaciones no podrá exceder de dos plantas ni de siete metros medidos en el centro de todas las fachadas, desde la rasante natural del terreno al arranque inferior de la vertiente de cubierta.
+Excepcionalmente, podrá excederse dicha altura cuando las características específicas de la actividad, debidamente justificadas, lo hicieran imprescindible.
+d) Cumplir las siguientes condiciones de posición e implantación:
+1.ª) Deberá justificarse suficientemente la idoneidad del emplazamiento elegido y la imposibilidad o inconveniencia de emplazarlas en suelo urbano o urbanizable con calificación idónea. Tal justificación no será necesaria cuando se trate de las construcciones señaladas en el artículo 35.1, letras g), h), i), l), m) y n).
+2.ª) La superficie mínima de la parcela sobre la que se situará la edificación será de 2.000 metros cuadrados, y no resultará exigible el cumplimiento de este requisito para los usos regulados en el artículo 35.1.m), para la ampliación de cementerios y para las instalaciones temporales que presten servicios necesarios o convenientes para la utilización y disfrute del dominio público marítimo-terrestre.
+Reglamentariamente podrá establecerse la exigencia de una superficie mínima de parcela superior a la prevista en este precepto cuando así esté exigido por la naturaleza y las características de los usos de que se trate.
+Asimismo, en el supuesto de planes especiales de infraestructuras y dotaciones que tengan por objeto la implantación de los usos previstos en las letras o) y p) del artículo 35.1, reglamentariamente podrá establecerse una superficie mínima referida a la totalidad del ámbito que se delimite en el plan. En caso de que afecten a distintas clases de suelo, la superficie incluida en suelo rústico deberá cumplir con la condición de superficie mínima establecida con carácter general en esta ley.
+A todos estos efectos, no será admisible a adscripción de otras parcelas.
+3.ª) La superficie máxima ocupada por la edificación en planta no excederá del 20 % de la superficie de la finca. En el caso de invernaderos con destino exclusivo al uso agrario que se instalen con materiales ligeros y fácilmente desmontables, de explotaciones ganaderas, de establecimientos de acuicultura, de construcciones e instalaciones destinadas a la gestión, explotación y defensa forestal y de infraestructuras de tratamiento o depuración de aguas podrán ocupar hasta el 60 % de la superficie de la parcela, y la ampliación de los cementerios, la totalidad de la misma.
+Excepcionalmente, los instrumentos establecidos por la legislación de ordenación del territorio podrán permitir una ocupación superior para estas actividades, siempre que se mantenga el estado natural, al menos, en un tercio de la superficie de la parcela.
+4.ª) Los edificios se situarán dentro de la parcela, adaptándose en lo posible al terreno y al lugar más apropiado para conseguir la mayor reducción del impacto visual y la menor alteración de la topografía del terreno.
+5.ª) Los retranqueos de las construcciones a los lindes de la parcela deberán garantizar la condición de aislamiento, y no podrán ser inferiores a 5 metros, salvo que se trate de parcelas de la misma titularidad y se inscriba en el Registro de la Propiedad su indivisibilidad.
+Cuando no se trate de nuevas edificaciones, la instalación de medios individuales de depuración podrá ejecutarse guardando una distancia mínima de 3 metros a los bordes de la parcela, siempre que se justifique técnicamente la imposibilidad de la localización en otra zona del propio inmueble y se respeten las limitaciones recogidas en la normativa sectorial en materia de aguas.
+6.ª) Las condiciones de abancalamiento obligatorio y de acabado de los bancales resultantes deberán definirse y justificarse en el proyecto, de modo que quede garantizado el mínimo impacto visual sobre el paisaje y la mínima alteración de la topografía natural de los terrenos.
+7.ª) Se mantendrá el estado natural de los terrenos o, alternativamente, se introducirá la plantación de arbolado o especies vegetales, en todo caso mediante soluciones que impidan el sellado del suelo en, al menos, la mitad de la superficie no ocupada de la parcela.
+Justificadamente y por razón de la naturaleza y características de la actividad, podrá reducirse la referida proporción en el caso de las infraestructuras e instalaciones previstas en la letra m) del artículo 35 de esta ley y en los establecimientos de acuicultura.
+e) Se hará constar en el registro de la propiedad la vinculación de la superficie exigible a la construcción y uso autorizados, expresando la indivisibilidad y las concretas limitaciones al uso y edificabilidad impuestas por el título habilitante de naturaleza urbanística o la autorización autonómica.
+f) Las edificaciones destinadas a uso residencial complementario de la explotación agrícola o ganadera deberán estar íntimamente ligadas a ellas, en los términos que se determinen reglamentariamente.
+g) Las nuevas explotaciones ganaderas sin base territorial no podrán ubicarse a una distancia inferior a 500 metros de los núcleos rurales o urbanos y a 100 metros de la vivienda más próxima, salvo que el planeamiento municipal motive, en atención a las circunstancias propias del territorio, otras distancias diferentes, siempre salvaguardando la calidad ambiental del entorno. Cuando se trate de nuevas explotaciones con base territorial, la distancia mínima a los asentamientos de población y a la vivienda más próxima será de 100 metros.
+La distancia a la vivienda no será tenida en cuenta si la misma y la explotación son del mismo titular.
+A los efectos de la presente ley, se considera explotación ganadera la unidad técnico-económica caracterizada por la existencia de unas instalaciones y un conjunto de animales, así como otros bienes que, organizados por su titular, sirvan para la cría, producción y reproducción de animales y la obtención de productos ganaderos o prestación de servicios complementarios.
+Se modifica el apartado d).5ª), por el art. 81.6 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica el apartado d).3ª) y 5ª) por el art. 11.7 y 8 de Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado d).7ª) por el art. 14.5 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se modifican las letras d) y f) por el art. 13.4 y 5 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Sección 5
+
+Sección 5.ª Edificaciones tradicionales
+
+### Artículo 40
+
+Artículo 40. Edificaciones existentes de carácter tradicional.
+1. Las edificaciones tradicionales existentes en cualquier categoría de suelo de núcleo o de suelo rústico podrán ser destinadas a usos residenciales, terciarios o productivos, a actividades turísticas o artesanales y a pequeños talleres y equipamientos.
+2. Previa obtención del título habilitante municipal de naturaleza urbanística, y sin necesidad de cumplir los parámetros urbanísticos aplicables excepto el límite de altura, se permitirá su reforma, rehabilitación y reconstrucción y su ampliación, incluso en volumen independiente, sin que la ampliación pueda superar el 50 % del volumen originario de la edificación tradicional. En cualquier caso, deberán mantenerse las características esenciales del edificio, del lugar y de su tipología originaria.
+3. A los efectos de lo previsto en este artículo, se consideran edificaciones tradicionales todas las edificaciones existentes con anterioridad a la entrada en vigor de la Ley 19/1975, de 2 de mayo, de reforma sobre el régimen del suelo y ordenación urbana, con independencia de su tipología.
+4. Lo previsto en este artículo se entenderá sin perjuicio de las previsiones establecidas en las normativas sectoriales que resulten de aplicación.
+Se modifica por el art. 8.1 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. 13.6 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## TÍTULO II
+
+Planeamiento urbanístico
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+## Sección 1
+
+Sección 1.ª Límites de sostenibilidad y calidad de vida y cohesión social
+
+### Artículo 41
+
+Artículo 41. Límites de sostenibilidad.
+1. En suelo urbano no consolidado de uso residencial u hotelero en el que sean necesarios procesos de urbanización que afecten a los terrenos definidos en el artículo 17.b.1), el planeamiento no podrá contener determinaciones de las que resulte una superficie edificable total superior a los siguientes límites:
+a) En municipios con población igual o superior a 50.000 habitantes: 1,50 metros cuadrados edificables por cada metro cuadrado de suelo.
+b) En municipios con población igual o superior a 20.000 habitantes e inferior a 50.000 habitantes, y en municipios pertenecientes a áreas metropolitanas o considerados cabeceras del sistema urbano intermedio en las Directrices de ordenación del territorio: 1 metro cuadrado edificable por cada metro cuadrado de suelo.
+c) En municipios con población igual o superior a 5.000 habitantes e inferior a 20.000 habitantes, y en municipios considerados nodos para el equilibrio del territorio en las Directrices de ordenación del territorio: 0,85 metros cuadrados edificables por cada metro cuadrado de suelo.
+d) En el resto de los municipios: 0,50 metros cuadrados edificables por cada metro cuadrado de suelo.
+2. En suelo urbanizable de uso residencial u hotelero, la superficie edificable total de cada sector no podrá superar los siguientes niveles de intensidad:
+a) En municipios con población igual o superior a 50.000 habitantes: 1 metro cuadrado edificable por cada metro cuadrado de suelo.
+b) En municipios con población igual o superior a 20.000 habitantes e inferior a 50.000 habitantes, y en municipios considerados cabeceras del sistema urbano intermedio en las Directrices de ordenación del territorio: 0,85 metros cuadrados edificables por cada metro cuadrado de suelo.
+c) En municipios con población igual o superior a 5.000 habitantes e inferior a 20.000 habitantes, y en municipios considerados nodos para el equilibrio del territorio en las Directrices de ordenación del territorio: 0,60 metros cuadrados edificables por cada metro cuadrado de suelo.
+d) En el resto de municipios: 0,40 metros cuadrados edificables por cada metro cuadrado de suelo.
+Los niveles de intensidad previstos en este número se incrementarán en un 20 % cuando por lo menos el 60 % de la superficie total del sector se destine a la construcción de viviendas protegidas, con independencia de las limitaciones de edificabilidad que establezca el planeamiento.
+El planeamiento de desarrollo deberá garantizar el cumplimiento de los estándares establecidos en los números 1 y 2 del artículo 42.
+El planeamiento justificará la edificabilidad asignada en cada ámbito, según los criterios establecidos por el artículo 51.4, valorando el parque de viviendas existente.
+3. Para usos industriales o terciarios, tanto en el suelo urbano no consolidado en el que sean necesarios procesos de urbanización como en el suelo urbanizable, la superficie total edificable no podrá superar el límite de 1 metro cuadrado edificable por cada metro cuadrado de suelo.
+4. Para la determinación de la superficie edificable total habrán de tenerse en cuenta las siguientes reglas:
+a) Se computarán todas las superficies edificables de carácter lucrativo, cualquiera que sea el uso al que se destinen, incluidas las construidas en el subsuelo y los aprovechamientos bajo cubierta, con la única excepción de las superficies construidas en el subsuelo con destino a trasteros de superficie inferior a 10 metros cuadrados vinculados a las viviendas del edificio, a aparcamientos o a instalaciones de servicio como las de calefacción, electricidad, gas o análogas.
+Asimismo, se exceptúa del citado cómputo la superficie correspondiente a espacios exteriores abiertos, balcones o terrazas, vinculados a las viviendas con superficie útil de hasta 5 metros cuadrados en los que se pueda inscribir horizontalmente un círculo de 1,5 metros de diámetro. Estos espacios en ningún caso podrán cerrarse ni ser incorporados a las viviendas.
+Tampoco se computará el espesor de los muros de cierre que exceda de 25 centímetros con la finalidad de aumentar el aislamiento térmico y acústico y la eficiencia energética del edificio mediante cualquier tecnología homologada.
+b) El índice de edificabilidad se aplicará sobre la superficie total del ámbito, computando los terrenos destinados a nuevos sistemas generales incluidos en el mismo, y con exclusión, en todo caso, de los terrenos reservados para dotaciones públicas existentes que el plan mantenga y de los destinados a sistemas generales adscritos a efectos de gestión que se sitúen fuera del ámbito.
+Se modifica el apartado 2 por el art. 61.7 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 1 y la letra a) del apartado 4, por el art. 81.7 y 8 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+
+### Artículo 42
+
+Artículo 42. Calidad de vida y cohesión social.
+1. El plan general habrá de prever, justificadamente, las reservas de suelo necesarias para la implantación de los sistemas generales al servicio de todo el término municipal, en proporción adecuada a las características del ayuntamiento y a las necesidades de la población y teniendo en cuenta la capacidad máxima residencial derivada del plan.
+En los ayuntamientos con población superior a 5.000 habitantes y en ayuntamientos considerados nodos para el equilibrio del territorio en las Directrices de ordenación del territorio, estos sistemas generales serán, como mínimo, los siguientes:
+a) Sistema general de espacios libres y zonas verdes de dominio y uso públicos: en proporción no inferior a 15 metros cuadrados por cada 100 metros cuadrados edificables de uso residencial.
+b) Sistema general de equipamiento comunitario de titularidad pública: en proporción no inferior a 5 metros cuadrados por cada 100 metros cuadrados edificables de uso residencial.
+2. Con independencia de los sistemas generales, el plan que contenga la ordenación detallada establecerá en el suelo urbano no consolidado y en el suelo urbanizable las reservas mínimas de suelo para los siguientes sistemas locales, al servicio del polígono o sector:
+a) Sistema de espacios libres públicos destinados a parques, jardines, áreas de ocio, expansión y recreo de la población:
+– En ámbitos de uso residencial u hotelero: 18 metros cuadrados de suelo por cada 100 metros cuadrados edificables y como mínimo el 10 % de la superficie total del ámbito.
+– En ámbitos de uso terciario o industrial: la superficie que, justificadamente, se establezca en el planeamiento de desarrollo.
+b) Sistema de equipamientos públicos destinados a la prestación de servicios sanitarios, asistenciales, docentes, culturales, deportivos y otros que sean necesarios:
+– En ámbitos de uso residencial u hotelero: 10 metros cuadrados de suelo por cada 100 metros cuadrados edificables.
+– En ámbitos de uso terciario o industrial: la superficie que, justificadamente, se establezca en el planeamiento de desarrollo.
+c) Plazas de aparcamientos de vehículos: una plaza de aparcamiento por cada 100 metros cuadrados edificables, de las que, como mínimo, la cuarta parte debe ser de dominio público.
+d) Para arbolado:
+– En ámbitos de uso residencial u hotelero: la plantación o conservación de un árbol por cada 100 metros cuadrados edificables.
+– En ámbitos de uso terciario o industrial: la plantación o conservación del número de árboles que, justificadamente, se establezca en el planeamiento de desarrollo.
+3. El plan efectuará las reservas de suelo para dotaciones urbanísticas en los lugares más adecuados para satisfacer las necesidades de la población, de cara a asegurar su accesibilidad universal, funcionalidad e integración en la estructura urbanística.
+4. El plan general deberá justificar que en el conjunto del suelo urbano no consolidado de cada distrito se cumplen los estándares de reserva mínima para sistemas locales, y en el que sean necesarios procesos de urbanización, que se cumplen igualmente los límites de intensidad.
+5. El ayuntamiento en pleno, por mayoría absoluta y sin necesidad de seguir el procedimiento de modificación del planeamiento urbanístico, podrá acordar el cambio de uso de los terrenos reservados para cualquier tipo de dotación pública por otro uso dotacional público distinto, siempre que se mantenga la titularidad pública. En todo caso, deberá garantizarse el cumplimiento de los estándares establecidos en los números 1 y 2.
+A efectos de lo dispuesto en este número, se entenderá que tienen también la condición de equipamientos o dotaciones públicas los que sean de titularidad pública, aunque no figuren en el planeamiento urbanístico con dicha condición.
+6. El plan general calificará como suelo dotacional los terrenos que fuesen destinados efectivamente a tales fines, los elementos funcionales de las infraestructuras de transportes y las instalaciones adscritas a la defensa nacional. No obstante lo anterior, mediante convenio entre la administración titular del bien, la consejería competente en materia de urbanismo y ordenación del territorio y el ayuntamiento, podrán ser destinados por el plan general a otros usos distintos y atribuirse a las personas propietarias el 100 % del aprovechamiento tipo, de conformidad con lo establecido en la presente ley, con la finalidad de facilitar la financiación de infraestructuras públicas.
+7. Las cesiones de suelo obligatorias establecidas por la presente ley comprenderán el suelo, el subsuelo y el vuelo. En ningún caso podrá renunciar la Administración a las cesiones correspondientes a las reservas mínimas de suelo para dotaciones públicas establecidas por la presente ley, con la excepción señalada en el artículo 21.2.b).
+8. El plan que contenga la ordenación detallada podrá regular el uso del subsuelo de los espacios de dominio público con la finalidad de prever la implantación de infraestructuras, equipamientos y aparcamientos de titularidad pública.
+9. Los planes generales deberán prever unas reservas de suelo para la vivienda sujeta a algún régimen de protección pública que, como mínimo, comprenderán los terrenos necesarios para realizar el 40 % de la edificabilidad residencial prevista por la ordenación urbanística en el suelo urbanizable y en el suelo urbano no consolidado regulado en el artículo 17.b).1. Esta proporción será del 20 % en el supuesto del suelo urbano no consolidado regulado en el artículo 17.b).2. En el supuesto del suelo urbano no consolidado regulado en el artículo 17.b).3, no será obligatorio prever una reserva para vivienda sujeta a algún régimen de protección.
+Excepcionalmente, los planes generales, atendiendo a la demanda real de vivienda protegida, podrán fijar una reserva inferior ajustada al porcentaje de reserva total de suelo para vivienda protegida del municipio y a los diferentes regímenes de vivienda protegida. El porcentaje de reserva total del ayuntamiento lo determinará anualmente el Instituto Gallego de la Vivienda y Suelo, en base a los inscritos en el Registro único de demandantes de vivienda de la Comunidad Autónoma de Galicia. La resolución que determine este porcentaje será objeto de publicación en el Diario Oficial de Galicia.
+Cuando se produzca una variación de más o menos dos puntos porcentuales del porcentaje de reserva total de suelo para vivienda protegida del municipio establecida en el plan general respeto de la última publicada, el pleno del ayuntamiento, por mayoría absoluta y sin necesidad de seguir el procedimiento de modificación del plan, deberá acordar la modificación de los porcentajes de reserva y ajustarlas a la resolución del Instituto Gallego de la Vivienda y Suelo.
+Estarán exentos de las reservas de suelo reguladas en este punto aquellos municipios que cuenten con menos de 5.000 habitantes inscritos en el padrón municipal en el momento de la aprobación inicial del plan general, cuando este no contenga previsión para nuevos desarrollos urbanísticos en suelos clasificados como urbanos no consolidados y urbanizables que en la totalidad del municipio superen las 300 viviendas.
+10. Las reservas para la construcción de viviendas protegidas deberán ubicarse favoreciendo el principio de cohesión social y conforme a las siguientes reglas, en función de la clasificación del suelo:
+– En el suelo urbano no consolidado, deberá acreditarse el cumplimiento de la reserva para vivienda protegida en el distrito.
+– En el suelo urbanizable, deberá acreditarse el cumplimiento de la reserva para vivienda protegida en el sector.
+– En el caso de las modificaciones puntuales del planeamiento urbanístico general, el cumplimiento deberá referirse al ámbito objeto de la modificación.
+Se modifican los apartados 5, 9 y 10 por el art. 61.8 y 9 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 5 por el art. 7.2 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 43
+
+Artículo 43. Normas de calidad ambiental y paisajística.
+1. El planeamiento urbanístico garantizará las condiciones de habitabilidad, salubridad y funcionalidad de las viviendas y usos residenciales, respetando las condiciones mínimas que se fijen reglamentariamente. En todo caso, se prohíbe el uso residencial en sótanos y semisótanos.
+2. El planeamiento urbanístico procurará una razonable y equilibrada articulación de usos, actividades y tipologías edificatorias compatibles.
+3. El planeamiento que establezca la ordenación detallada tendrá en cuenta las previsiones necesarias para evitar barreras arquitectónicas y urbanísticas, de manera que las personas con movilidad reducida vean facilitado al máximo el acceso directo a los espacios públicos y a las edificaciones públicas y privadas, de acuerdo con la normativa vigente sobre accesibilidad y supresión de barreras arquitectónicas.
+4. El planeamiento urbanístico deberá fijar la altura máxima de las edificaciones en proporción a las dimensiones de las vías y espacios libres, de modo que queden garantizadas las mejores condiciones posibles de soleamiento y ventilación natural de las viviendas.
+5. El planeamiento podrá prohibir los tendidos aéreos y prever el soterramiento de los existentes. En todo caso, habrán de soterrarse las redes de servicios de los nuevos desarrollos residenciales y terciarios.
+
+## Sección 2
+
+Sección 2.ª División del suelo urbano y urbanizable
+
+### Artículo 44
+
+Artículo 44. División del suelo urbano y urbanizable.
+1. El plan general dividirá la totalidad del suelo urbano en distritos, en atención a la racionalidad y calidad de la ordenación urbanística y la accesibilidad universal de la población a las dotaciones, utilizando preferentemente como límites los sistemas generales y los elementos estructurantes de la ordenación urbanística, y coincidiendo en la mayor parte de su extensión con los barrios, parroquias o unidades territoriales con características homogéneas.
+2. El suelo urbanizable se dividirá en sectores a los efectos de su ordenación detallada y aplicación de los estándares establecidos en la presente ley. Los sectores se delimitarán utilizando preferentemente los límites de los sistemas generales y los elementos naturales determinantes, de forma que se garantice una adecuada inserción del sector dentro de la estructura urbanística del plan general y resulte viable técnica y económicamente el cumplimiento de los estándares urbanísticos.
+
+## Sección 3
+
+Sección 3.ª Instrumentos de planeamiento urbanístico
+
+### Artículo 45
+
+Artículo 45. Instrumentos de planeamiento urbanístico.
+La ordenación urbanística se llevará a cabo a través del Plan básico autonómico, los planes básicos municipales y los planes generales de ordenación municipal, así como a través de sus instrumentos urbanísticos de desarrollo.
+
+### Artículo 46
+
+Artículo 46. Evaluación ambiental estratégica de los instrumentos de planeamiento urbanístico.
+1. Serán objeto de evaluación ambiental estratégica ordinaria los siguientes instrumentos de planeamiento urbanístico, así como sus modificaciones:
+a) El Plan básico autonómico.
+b) Los planes generales de ordenación municipal.
+c) Los planes que requieran una evaluación por afectar de modo apreciable a espacios de la Red Natura 2000, en los términos previstos en su legislación reguladora.
+d) Los comprendidos en el apartado siguiente, cuando así lo decida el órgano ambiental en el informe ambiental estratégico o cuando así lo solicite el promotor.
+2. Serán objeto de evaluación ambiental estratégica simplificada los siguientes instrumentos de planeamiento urbanístico:
+a) Las modificaciones menores de los instrumentos de planeamiento mencionados en el apartado anterior.
+b) El planeamiento de desarrollo, por establecer el uso, a nivel municipal, de zonas de reducida extensión.
+c) Los demás planes que, estableciendo un marco para la autorización en el futuro de proyectos, no encajen en los supuestos del apartado anterior, tales como los planes básicos municipales.
+
+### Artículo 47
+
+Artículo 47. Suspensión de licencias.
+1. Los órganos competentes para la aprobación inicial de los instrumentos de planeamiento urbanístico podrán acordar la suspensión del procedimiento de otorgamiento de licencias de parcelación de terrenos, edificación y demolición para áreas o usos determinados, a fin de estudiar su formulación, revisión o modificación. Esta suspensión se extinguirá, en todo caso, en el plazo de un año.
+El acuerdo de suspensión deberá publicarse en el «Diario Oficial de Galicia» y en uno de los periódicos de mayor difusión de la provincia.
+2. El acuerdo de aprobación inicial de los instrumentos de planeamiento urbanístico determinará, por sí solo, la suspensión del procedimiento de otorgamiento de licencias en aquellos ámbitos del territorio objeto de planeamiento en el caso en que las nuevas determinaciones del mismo supusieran la modificación de la ordenación urbanística vigente. A estos efectos, determinará expresamente las áreas afectadas por la suspensión.
+Esta suspensión tendrá una duración máxima de dos años, a contar desde dicha aprobación inicial, extinguiéndose, en cualquier caso, con la aprobación definitiva del planeamiento.
+3. Extinguidos los efectos de la suspensión, en cualquiera de los supuestos previstos, no podrán acordarse nuevas suspensiones por idéntica finalidad, en el plazo de cuatro años.
+4. Los peticionarios de licencias solicitadas con anterioridad a la publicación de la suspensión y que se encuentren dentro del plazo legal de resolución tendrán derecho a ser indemnizados del coste oficial de los proyectos y a la devolución, en su caso, de las cantidades correspondientes a los tributos municipales, siempre que su otorgamiento no fuese posible, por resultar incompatible con la nueva ordenación establecida, y se compruebe que el proyecto para el que se había solicitado licencia se ajustaba al planeamiento vigente en el momento de presentar la solicitud.
+5. En tanto dure la suspensión de licencias, podrán autorizarse usos y obras provisionales en los términos del artículo 89.
+
+## Sección 4
+
+Sección 4.ª Normas técnicas de planeamiento
+
+### Artículo 48
+
+Artículo 48. Normas técnicas de planeamiento.
+1. Las normas técnicas del planeamiento urbanístico tendrán por objeto unificar los criterios técnicos para la elaboración de los documentos de planeamiento urbanístico, la terminología y los conceptos urbanísticos generales, así como cualquier otra cuestión que precise aclaración u orientación técnica en materia de planeamiento urbanístico.
+2. La aprobación de las normas técnicas corresponde a la persona titular de la consejería competente en materia de urbanismo, previa audiencia a la Federación Gallega de Municipios y Provincias.
+
+## CAPÍTULO II
+
+Plan básico autonómico
+
+### Artículo 49
+
+Artículo 49. Plan básico autonómico.
+1. El Plan básico autonómico es el instrumento de planeamiento urbanístico que tiene por objeto delimitar en el territorio de la Comunidad Autónoma de Galicia las afecciones derivadas de la legislación sectorial e identificar los asentamientos de población existentes.
+2. Este instrumento será de aplicación en los ayuntamientos que carezcan de plan general de ordenación municipal, teniendo carácter complementario del planeamiento municipal.
+3. El Plan básico autonómico contendrá las siguientes determinaciones:
+a) Relación con los instrumentos de ordenación del territorio.
+b) Determinación de las afecciones derivadas de las legislaciones sectoriales sobre el territorio.
+c) Identificación de los asentamientos de población existentes.
+d) Regulación de los usos del suelo y de la edificación.
+4. El Plan básico autonómico incluirá los siguientes documentos:
+a) Memoria justificativa de sus fines, objetivos y determinaciones.
+b) Planos de delimitación de los ámbitos de aplicación de los instrumentos de ordenación del territorio.
+c) Planos de delimitación de las afecciones sectoriales.
+d) Plano de identificación de los asentamientos de población.
+e) Ordenanzas tipo de edificación y uso del suelo.
+
+### Artículo 50
+
+Artículo 50. Procedimiento de aprobación del Plan básico autonómico.
+1. La consejería competente en materia de urbanismo promoverá la redacción del Plan básico autonómico. El órgano competente en materia de urbanismo remitirá al órgano ambiental un borrador del referido documento, junto con la solicitud de inicio de la evaluación ambiental estratégica ordinaria y del documento inicial estratégico.
+2. El órgano ambiental, en el plazo de tres meses, a contar desde la recepción de la documentación completa, formulará el documento de alcance del estudio ambiental estratégico, tras identificar y consultar a las administraciones públicas afectadas y a las personas interesadas, que se pronunciarán en el plazo máximo de dos meses.
+El documento de alcance del estudio ambiental estratégico estará a disposición del público a través de la sede electrónica del órgano ambiental y del órgano competente en materia de urbanismo.
+Este documento determinará las administraciones públicas afectadas y las personas interesadas que hayan de ser consultadas tras la aprobación inicial del plan, que, como mínimo, incluirá todas aquellas administraciones públicas que hayan de emitir informe sectorial de conformidad con la legislación aplicable.
+El órgano competente en materia de urbanismo elaborará el estudio ambiental estratégico, en atención a los criterios contenidos en el documento de alcance y de conformidad con el contenido exigible por la legislación vigente.
+3. La persona titular de la consejería competente en materia de urbanismo procederá a la aprobación inicial del Plan básico autonómico, sometiendo el documento a información pública durante un plazo de dos meses, mediante anuncio que se publicará en el «Diario Oficial de Galicia», en los boletines oficiales de las provincias y como mínimo en dos de los periódicos de mayor difusión en la comunidad autónoma.
+La documentación sometida a información pública abarcará todos los documentos integrantes del expediente tramitado, incluidos un resumen ejecutivo, el estudio ambiental estratégico y un resumen no técnico del estudio ambiental estratégico.
+El órgano competente en materia de urbanismo habrá de solicitar a los municipios afectados informe determinante, realizar las consultas previstas en el documento de alcance del estudio ambiental estratégico y solicitar a las administraciones públicas competentes los informes sectoriales preceptivos. Transcurrido el plazo de tres meses sin que se hubiesen comunicado los informes autonómicos y municipales solicitados, se entenderán emitidos con carácter favorable.
+4. Transcurrido el periodo de consultas y de información pública, el órgano competente en materia de urbanismo modificará, de ser preciso, el estudio ambiental estratégico y elaborará la propuesta final del documento de Plan básico autonómico. El órgano competente en materia de urbanismo remitirá al órgano ambiental el expediente de evaluación ambiental estratégica completo, de conformidad con la legislación vigente.
+5. El órgano ambiental realizará un análisis técnico del expediente y un análisis de los efectos significativos de la aplicación del Plan básico autonómico en el medio ambiente. Si durante el referido análisis estimara que la información pública o las consultas no se han realizado correctamente, instará al órgano competente en materia de urbanismo para que subsane el expediente en el plazo máximo de tres meses. En este supuesto se suspenderá el cómputo del plazo para la formulación de la declaración ambiental estratégica.
+Si, transcurridos tres meses desde el requerimiento del órgano ambiental, el órgano competente en materia de urbanismo no hubiese remitido el expediente subsanado, o si una vez presentado fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica, notificando a aquel la resolución de terminación.
+6. El órgano ambiental, tras realizar el análisis técnico del expediente, formulará la declaración ambiental estratégica en el plazo de dos meses, a contar desde la recepción de la documentación completa, prorrogable por un mes más por razones justificadas debidamente motivadas y comunicadas al órgano competente en materia de urbanismo. La declaración ambiental estratégica debe ser publicada en el «Diario Oficial de Galicia» y en la sede electrónica del órgano ambiental, teniendo la naturaleza de informe preceptivo y vinculante.
+7. Cumplimentados los trámites señalados en los apartados precedentes, el órgano competente en materia de urbanismo incorporará el contenido de la declaración ambiental estratégica en el Plan básico autonómico, elaborará un extracto con el contenido señalado en el artículo 82 e indicará las medidas adoptadas para el seguimiento de los efectos en el medio ambiente de la aplicación del plan básico.
+8. El Plan básico autonómico será definitivamente aprobado por el Consello de la Xunta, previo informe favorable de la Comisión Superior de Urbanismo.
+
+## CAPÍTULO III
+
+Plan general de ordenación municipal
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 51
+
+Artículo 51. Formulación y contenido.
+1. La redacción de los instrumentos de planeamiento urbanístico se efectuará por facultativos o facultativas con la correspondiente titulación universitaria.
+La redacción del proyecto de plan general habrá de ser realizada por un equipo multidisciplinar formado por un mínimo de tres especialistas con titulación universitaria de segundo o tercer ciclos, de los cuales, al menos, uno de ellos tendrá que ser arquitecto o arquitecta o ingeniero o ingeniera de caminos, canales y puertos o tener el grado en arquitectura o ingeniería de caminos, canales y puertos.
+2. Los planes generales de ordenación municipal, que serán formulados por los ayuntamientos respectivos, son instrumentos urbanísticos de ordenación integral que abarcarán uno o varios términos municipales completos, clasificarán el suelo para el establecimiento del régimen jurídico correspondiente, definirán los elementos fundamentales de la estructura general adoptada para la ordenación urbanística del territorio y establecerán las determinaciones orientadas a promover su desarrollo y ejecución.
+3. El contenido de los planes generales de ordenación municipal habrá de ser congruente con los fines que en ellos se determinen y adaptarse a las características y complejidad urbanística del territorio que sea objeto de la ordenación, garantizando la coordinación de los elementos fundamentales de los respectivos sistemas generales.
+4. Asimismo, el plan general deberá garantizar la coherencia interna de las determinaciones urbanísticas, la viabilidad técnica y económica de la ordenación propuesta, la proporcionalidad entre el volumen edificable y los espacios libres públicos de cada ámbito de ordenación y la participación de la comunidad en las plusvalías generadas en cada área de reparto.
+
+### Artículo 52
+
+Artículo 52. Determinaciones de carácter general.
+Los planes generales de ordenación municipal contendrán las siguientes determinaciones de carácter general:
+a) Objetivos generales y criterios de la ordenación compatibles con la normativa sectorial y ambiental, con los instrumentos de ordenación del territorio y con el planeamiento de los municipios limítrofes.
+b) Clasificación del suelo de todo el término municipal en todos o alguno de los distintos tipos y categorías establecidos en la presente ley.
+c) División del suelo urbano en distritos.
+d) Delimitación de los sectores en suelo urbanizable y de los ámbitos de reforma interior en el suelo urbano no consolidado.
+e) Determinación del sistema de actuación en los ámbitos de suelo urbano no consolidado y de suelo urbanizable.
+f) Estructura general y orgánica del territorio integrada por los sistemas generales determinantes del desarrollo urbano y, en particular, por los sistemas generales de comunicaciones, de espacios libres y zonas verdes públicas, de equipamiento comunitario público y de servicios urbanos.
+En cualquier caso, se indicará para cada uno de sus elementos no existentes sus criterios de diseño y ejecución y el sistema de obtención de los terrenos.
+g) En base al análisis de la movilidad, previsión de aparcamientos de titularidad pública, que podrán ubicarse incluso en el subsuelo de los sistemas viarios y de espacios libres, siempre que no interfieran en el uso normal de estos sistemas ni supongan la eliminación o el traslado de elementos físicos o vegetales de interés.
+h) Catálogo de los elementos que por sus valores naturales o culturales hayan de ser conservados o recuperados, con las medidas de protección que procedan.
+i) Delimitación de áreas de reparto en suelo urbano no consolidado y en suelo urbanizable.
+j) Carácter público o privado de las dotaciones.
+k) Determinación de los plazos para la aprobación del planeamiento de desarrollo. En otro caso, este plazo será de tres años.
+l) Determinaciones necesarias para que las construcciones e instalaciones cumplan las condiciones de adaptación al ambiente establecidas por el artículo 91.
+
+### Artículo 53
+
+Artículo 53. Determinaciones en suelo urbano consolidado.
+Los planes generales de ordenación municipal contendrán en suelo urbano consolidado las siguientes determinaciones:
+a) Delimitación de su perímetro.
+b) Calificación de los terrenos, entendida como la asignación detallada de usos pormenorizados, tipologías edificatorias y condiciones de edificación correspondientes a cada zona.
+c) Delimitación de los espacios libres y zonas verdes destinados a parques y jardines públicos o zonas deportivas, de recreo y expansión, indicando su carácter público o privado.
+d) Espacios reservados para dotaciones, equipamientos y demás servicios de interés social, señalando su carácter público o privado y las condiciones de edificación, garantizando su integración en el entorno en el que hayan de ubicarse.
+e) Trazado y características de la red viaria pública, con señalización de alineaciones.
+f) Características y trazado de las redes de abastecimiento de agua, alcantarillado, energía eléctrica y de aquellos otros servicios que, en su caso, prevea el plan.
+g) Establecimiento de plazos para la edificación. En otro caso, este plazo será de tres años.
+
+### Artículo 54
+
+Artículo 54. Determinaciones en suelo urbano no consolidado.
+1. En el suelo urbano no consolidado, cuando el plan general contemple su ordenación detallada, incluirá, como mínimo, las determinaciones correspondientes a los planes especiales de reforma interior, de acuerdo con lo establecido en el artículo 72.2 de la presente ley.
+2. Cuando el plan general remita la ordenación detallada a un plan especial de reforma interior, contendrá las siguientes determinaciones:
+a) Delimitación del ámbito del plan especial de reforma interior.
+b) Determinación de los usos globales y de la superficie total edificable.
+c) Fijación de la cuantía de las reservas mínimas de suelo de sistemas locales que habrá de contemplar el plan especial.
+d) Previsión de los sistemas generales necesarios, en su caso, para el desarrollo del plan especial.
+
+### Artículo 55
+
+Artículo 55. Determinaciones en suelo de núcleo rural.
+1. Los planes generales de ordenación municipal contendrán la ordenación detallada de los núcleos rurales, incluyendo las siguientes determinaciones:
+a) Delimitación de su perímetro.
+b) En su caso, ubicación reservada para dotaciones y equipamientos, señalando su carácter público o privado.
+c) Trazado de la red viaria pública y señalización de alineaciones.
+d) Regulación detallada de los usos, volumen y condiciones higiénico-sanitarias de los terrenos y construcciones, así como de sus características tipológicas, estéticas y constructivas.
+e) Previsión de las áreas de los núcleos rurales en que se prevea la realización de actuaciones de carácter integral, en cuyo caso habrá de delimitar los correspondientes polígonos y garantizar la integración de la actuación con la morfología, servicios y características del núcleo, sin que la densidad máxima de la actuación integral pueda superar las veinticinco viviendas por hectárea.
+2. El plan general contendrá las determinaciones de las tipologías edificatorias, parcela mínima y altura máxima de la edificación, cuando remita la ordenación detallada de un núcleo rural a un plan especial.
+En los supuestos en que se desarrolle una actuación de carácter integral a través de un plan especial, este contendrá asimismo la determinación de las reservas de suelo para sistemas locales y para aparcamientos, en la proporción mínima establecida en el artículo 42.2.
+
+### Artículo 56
+
+Artículo 56. Determinaciones en suelo urbanizable.
+1. Los planes generales de ordenación municipal contendrán, en suelo urbanizable, las siguientes determinaciones:
+a) Delimitación de sectores para su desarrollo mediante planes parciales.
+b) Desarrollo de los sistemas de la estructura general de la ordenación urbanística del territorio con la precisión suficiente para permitir la redacción de planes parciales o especiales, determinando los sistemas generales incluidos o adscritos a la gestión de cada sector.
+c) Trazados de las redes fundamentales de abastecimiento de agua, alcantarillado, energía eléctrica y demás servicios que, en su caso, prevea el plan.
+d) Determinación de las conexiones con los sistemas generales existentes y exteriores al sector y, en su caso, previsión de las obras necesarias para la ampliación y refuerzo de dichos sistemas en función de las necesidades generadas por la actuación y de forma que se asegure su correcto funcionamiento.
+A estos efectos, el plan habrá de incluir un estudio que justifique la capacidad de las redes viarias y de servicios existentes y las medidas procedentes para atender a las necesidades generadas y, en su caso, la implantación del servicio público de transporte, la recogida de residuos urbanos y cuantos otros resulten necesarios.
+Cuando proceda, se establecerán los mecanismos que permitan la redistribución de los costes entre los sectores afectados.
+e) Asignación de los usos globales de cada sector y fijación de la edificabilidad.
+2. Además de las determinaciones del número anterior, los planes generales podrán ordenar detalladamente sectores, con el mismo contenido y determinaciones exigibles a un plan parcial, de manera que puedan ejecutarse directamente sin necesidad de planeamiento de desarrollo.
+
+### Artículo 57
+
+Artículo 57. Determinaciones en suelo rústico.
+Los planes generales de ordenación municipal contendrán únicamente las siguientes determinaciones:
+a) Delimitación de las distintas categorías de suelo rústico, según lo dispuesto en la presente ley y en la legislación sectorial correspondiente, o a instancia del ayuntamiento y con la conformidad expresa de la administración competente que tutele el valor objeto de protección.
+b) Normas y medidas de protección del suelo rústico para asegurar la conservación, protección y recuperación de los valores y potencialidades propios del medio rural.
+
+### Artículo 58
+
+Artículo 58. Documentación.
+Las determinaciones del plan general de ordenación municipal a que se hace referencia en la presente sección se desarrollarán en los siguientes documentos, con el contenido que se fije reglamentariamente:
+a) Memoria justificativa de sus fines y objetivos, así como de sus determinaciones.
+b) Estudio del medio rural y análisis del modelo de asentamiento poblacional y de la movilidad.
+c) Memoria justificativa de la adaptación al ambiente y protección del paisaje.
+d) Estudio ambiental estratégico y declaración ambiental estratégica.
+e) Planos de información, incluyendo las afecciones sectoriales.
+f) Planos de ordenación urbanística.
+g) Normas urbanísticas.
+h) Estrategia de actuación y estudio económico.
+i) Catálogo de elementos a proteger.
+j) Informe o memoria de sostenibilidad económica.
+k) Informe justificativo del cumplimiento de la normativa sectorial de aplicación.
+
+### Artículo 59
+
+Artículo 59. Estrategia de actuación y estudio económico.
+1. Los planes generales de ordenación municipal contendrán la estrategia para el desarrollo coherente del plan, determinando, en particular, la ejecución de los sistemas generales que hayan de crearse necesariamente para el desarrollo de las áreas de suelo urbano no consolidado y de los sectores de suelo urbanizable.
+2. El plan general de ordenación municipal contendrá una evaluación del coste de ejecución de los sistemas generales y de las actuaciones previstas, con indicación del carácter público o privado de la iniciativa de financiación, justificando las previsiones que sea necesario realizar con recursos propios del ayuntamiento para la obtención de los terrenos afectados.
+Se modifica el apartado 2 por el art. 61.10 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## Sección 2
+
+Sección 2.ª Procedimiento para la aprobación del plan general de ordenación municipal
+
+### Artículo 60
+
+Artículo 60. Procedimiento para la aprobación del plan general de ordenación municipal.
+1. El ayuntamiento promotor del plan podrá solicitar de la consejería competente en materia de urbanismo cuanta documentación estime necesaria o de interés para la redacción del plan general de ordenación municipal de que se trate.
+La consejería, en el plazo máximo de un mes, facilitará a la Administración municipal la documentación solicitada y coordinará cuanta información haya de tenerse en cuenta para la redacción del instrumento de planeamiento y que deba ser aportada por los diferentes departamentos de la Administración autonómica.
+2. Iniciada la fase de formulación del planeamiento general, se redactará un borrador del plan y un documento inicial estratégico, con el contenido establecido en la legislación vigente.
+3. El ayuntamiento trasladará a la consejería competente en materia de urbanismo la solicitud de inicio de la tramitación urbanística y de la evaluación ambiental estratégica, un borrador del plan con el contenido necesario para su análisis urbanístico y el documento inicial estratégico.
+La consejería competente en materia de urbanismo dará traslado de dicha documentación al órgano ambiental, el cual comprobará en el plazo máximo de un mes que se incluyen los documentos exigibles y solicitará, en su defecto, que se aporten los documentos preceptivos.
+4. El órgano ambiental someterá esa documentación a las consultas del órgano competente en materia de urbanismo, de las demás administraciones públicas afectadas y de las personas interesadas, que se pronunciarán en el plazo máximo de dos meses. Transcurrido este plazo, el procedimiento continuará en los términos establecidos en la legislación vigente.
+Realizadas las consultas, el órgano ambiental, en el plazo de dos meses a contar desde el efectivo cumplimiento de los trámites anteriores y la recepción de la documentación completa, formulará el documento de alcance del estudio ambiental estratégico, que, como mínimo, incluirá todas aquellas administraciones públicas que hayan de emitir informe sectorial de conformidad con la legislación aplicable.
+5. El ayuntamiento elaborará el estudio ambiental estratégico en atención a los criterios contenidos en el documento de alcance y de conformidad con el contenido exigible por la legislación vigente, elaborando de resultas del mismo la versión inicial del plan.
+6. El ayuntamiento, previo informe de los servicios técnicos y jurídicos municipales sobre la conformidad del plan con la legislación vigente, procederá a su aprobación inicial, sometiendo el documento a información pública durante un plazo de dos meses, mediante anuncio que se publicará en el «Diario Oficial de Galicia» y en uno de los periódicos de mayor difusión en la provincia.
+La documentación sometida a información pública abarcará todos los documentos integrantes del expediente tramitado, incluidos un resumen ejecutivo, el estudio ambiental estratégico y un resumen no técnico del estudio ambiental estratégico.
+7. El ayuntamiento trasladará esta documentación al órgano competente en materia de urbanismo, el cual realizará las consultas previstas en el documento de alcance del estudio ambiental estratégico, dará audiencia a los municipios limítrofes y recabará los informes sectoriales autonómicos preceptivos, que habrán de ser emitidos en el plazo de tres meses, transcurrido el cual se entenderán emitidos con carácter favorable.
+Cumplimentados los trámites anteriores, el órgano competente en materia de urbanismo remitirá al ayuntamiento su resultado, pudiendo continuarse el procedimiento.
+8. El ayuntamiento habrá de solicitar, en el momento que corresponda, los demás informes sectoriales que resultasen preceptivos, de conformidad con la legislación vigente.
+9. Tomando en consideración las alegaciones formuladas en los trámites de información pública y de consultas, el ayuntamiento modificará, de ser preciso, el estudio ambiental estratégico y elaborará la propuesta del plan, que remitirá al órgano ambiental junto con el expediente de evaluación ambiental estratégica completo.
+10. El órgano ambiental, en el plazo máximo de un mes, realizará un análisis técnico del expediente y un análisis de los efectos significativos de la aplicación del plan en el medio ambiente. Si durante el referido análisis observara alguna deficiencia, instará al ayuntamiento la subsanación en el plazo máximo de tres meses. En este supuesto, se suspenderá el cómputo del plazo para la formulación de la declaración ambiental estratégica.
+Si, transcurridos tres meses desde el requerimiento del órgano ambiental, el ayuntamiento no hubiese remitido el expediente subsanado, o si una vez presentado fuera insuficiente, el órgano ambiental dará por finalizada la evaluación ambiental estratégica, notificando al ayuntamiento promotor y a la consejería competente en materia de urbanismo la resolución de terminación.
+11. El órgano ambiental, tras realizar el análisis técnico del expediente, en el plazo de dos meses, a contar desde la recepción de la documentación completa, formulará la declaración ambiental estratégica, que habrá de ser publicada en el «Diario Oficial de Galicia» y en la sede electrónica del órgano ambiental.
+12. Cumplimentados los trámites señalados en los apartados precedentes, el ayuntamiento incorporará el contenido de la declaración ambiental estratégica al plan, introduciendo las modificaciones que fueran necesarias, elaborará un extracto con el contenido señalado en el artículo 82 e indicará las medidas adoptadas para el seguimiento de los efectos en el medio ambiente de la aplicación del plan.
+En caso de que se hubieran introducido modificaciones que signifiquen un cambio sustancial del documento inicialmente aprobado, por la adopción de nuevos criterios respecto a la clasificación y calificación del suelo o en relación con la estructura general y orgánica del territorio, se abrirá un nuevo trámite de información pública.
+13. Previo informe de los servicios jurídicos y técnicos municipales respecto a la integridad documental del expediente, las actuaciones administrativas realizadas y la conformidad del plan con la legislación vigente, el ayuntamiento aprobará provisionalmente el contenido del plan con las modificaciones que fueran pertinentes. El expediente completo, debidamente diligenciado, será remitido a la consejería competente en materia de urbanismo.
+14. La consejería, en el plazo de un mes, examinará la integridad del proyecto de plan. De apreciarse alguna deficiencia, requerirá su enmienda. Hasta el cumplimiento efectivo del requerimiento no comenzará el cómputo del plazo legal para resolución sobre la aprobación definitiva del documento.
+15. Respecto a los planes generales de aquellos ayuntamientos con población superior a 50.000 habitantes, la consejería competente en materia de urbanismo, en el plazo de tres meses, a contar desde la entrada del expediente completo en el registro de la consejería, emitirá informe preceptivo y vinculante sobre los siguientes extremos:
+a) La integridad y suficiencia de los documentos que integran el plan.
+b) La conformidad del plan con la legislación urbanística vigente y la adecuación de sus determinaciones a la protección del medio rural.
+c) La coherencia del plan con las Directrices de ordenación del territorio, el Plan de ordenación del litoral y los demás instrumentos de ordenación del territorio.
+d) La incidencia del plan sobre las materias de competencia autonómica y sobre las políticas autonómicas de desarrollo sostenible y la articulación de las infraestructuras de carácter local con los elementos vertebradores del territorio de alcance supramunicipal.
+Transcurrido este plazo sin que se hubiera comunicado el informe solicitado, se entenderá emitido con carácter favorable, pudiendo continuar la tramitación del plan.
+16. Respecto a los planes generales de aquellos ayuntamientos con población inferior a 50.000 habitantes, la consejería, en el plazo de tres meses, a contar desde la entrada del expediente completo en el registro de la consejería, adoptará motivadamente alguna de las siguientes decisiones:
+a) Aprobar definitivamente el plan, en los mismos términos en que se formula.
+b) Aprobar definitivamente el plan con las condiciones precisas y determinadas que se estimen necesarias para subsanar las deficiencias que presente el documento, derivadas de los extremos de su competencia señalados en el apartado 15 anterior. En esos casos, de ser necesario, se procederá de acuerdo con lo establecido en el artículo 62.
+c) Aprobar parcialmente el documento, cuando las deficiencias afecten a áreas o determinaciones tan concretas que, prescindiendo de ellas, el planeamiento pueda aplicarse con coherencia. La parte objeto de reparos quedará en suspenso hasta su rectificación, resultando de aplicación en esas áreas el régimen contemplado en el artículo 89.
+d) No otorgar la aprobación definitiva.
+El plan general se entenderá aprobado definitivamente si transcurren tres meses desde la entrada del expediente completo en el registro del órgano competente sin que éste hubiera comunicado la resolución, siempre que el plan contuviera los documentos y determinaciones preceptivos.
+17. Para resolver sobre la aprobación definitiva, la consejería competente en materia de urbanismo analizará los extremos señalados en el apartado 15 anterior.
+Se modifica el apartado 3 por el art. 61.11 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 61
+
+Artículo 61. Competencia para la aprobación definitiva.
+1. Corresponde a la persona titular de la consejería competente en materia de urbanismo la aprobación definitiva de los planes generales de ordenación municipal de los ayuntamientos que cuenten con una población igual o inferior a 50.000 habitantes.
+2. Corresponde al órgano competente municipal, según lo establecido en la legislación de régimen local, la aprobación definitiva de los planes generales de ordenación municipal de los ayuntamientos que cuenten con más de 50.000 habitantes.
+
+### Artículo 62
+
+Artículo 62. Documentos refundidos de planeamiento.
+1. El órgano autonómico competente para la aprobación definitiva de cualquier instrumento de planeamiento urbanístico podrá condicionar la eficacia de la misma a la elaboración de un documento refundido.
+2. El ayuntamiento, sin necesidad de someterlo a una nueva aprobación municipal, remitirá el documento refundido debidamente diligenciado al órgano que requirió su elaboración, el cual, en el plazo de un mes, habrá de proceder a su verificación formal y a diligenciarlo.
+3. La normativa y las ordenanzas del documento refundido se publicarán de conformidad con lo dispuesto en el artículo 82.
+
+## CAPÍTULO IV
+
+Planeamiento de desarrollo del Plan básico autonómico
+
+### Artículo 63
+
+Artículo 63. Planes básicos municipales.
+1. Los planes básicos municipales son los instrumentos de planeamiento urbanístico de un término municipal completo, que se redactarán en desarrollo del Plan básico autonómico para los ayuntamientos de menos de 5.000 habitantes que no cuenten con un instrumento de planeamiento general. Tienen por objeto la delimitación de los núcleos rurales existentes y de los terrenos que reúnan los requisitos exigidos para ser clasificados como suelo urbano consolidado. Los planes básicos municipales categorizarán el suelo rústico, según las delimitaciones de las afecciones establecidas en el Plan básico autonómico.
+Asimismo, los planes básicos municipales podrán remitir la ordenación detallada de determinadas áreas a un plan especial aprobado con anterioridad declarándolo subsistente, identificándolo con claridad e indicando su fecha de aprobación y publicación. En este caso, la modificación de las determinaciones de dicho planeamiento seguirá el régimen aplicable a la modificación del plan especial.
+2. Los planes básicos municipales contendrán las siguientes determinaciones:
+a) Delimitación y categorización de los núcleos rurales existentes.
+A tal efecto, los planes básicos municipales delimitarán los núcleos rurales existentes en el municipio e identificados en el Plan básico autonómico, de acuerdo con los criterios establecidos en esta ley y en su normativa de desarrollo, y los categorizarán, según corresponda, como tradicional o común, de conformidad con sus características y su grado de consolidación.
+Asimismo, los planes básicos municipales podrán declarar subsistentes las delimitaciones de núcleos rurales aprobadas con anterioridad, incorporando la delimitación física y su parcela o parcelas mínimas. En estos casos y a los efectos de la aplicación del régimen jurídico general del suelo de núcleo rural y de las ordenanzas del Plan básico autonómico, se establecerá la correspondencia entre las diferentes áreas de las delimitaciones incorporadas y los tipos básicos de núcleo rural previstos en esta ley.
+b) Delimitación de los terrenos que reúnen las condiciones para ser clasificados como suelo urbano consolidado.
+c) Delimitación y categorización del suelo rústico.
+d) Trazado de la red viaria pública existente y señalización de alineaciones.
+e) Las ordenanzas de edificación y uso del suelo contenidas en el Plan básico autonómico que sean aplicables.
+Justificadamente, los planes básicos municipales podrán reajustar dichas ordenanzas, en base al estudio pormenorizado del territorio y al análisis del modelo de asentamiento poblacional.
+f) Delimitación de los ámbitos de ordenación remitida, en su caso, identificando con claridad el instrumento y su fecha de aprobación. En este supuesto, la normativa del plan básico municipal recogerá una ficha para cada ámbito que identifique el documento declarado subsistente.
+3. Los planes básicos municipales contendrán, como mínimo, los siguientes documentos:
+a) Memoria justificativa de sus determinaciones.
+b) Planos de información.
+c) Planos de ordenación urbanística.
+d) Catálogo de elementos a proteger.
+e) Normativa urbanística. Los planes básicos municipales incorporarán las ordenanzas de edificación y uso, según lo previsto en la letra e) del número 2 de este artículo.
+f) Informe ambiental estratégico.
+4. Los planes básicos municipales tendrán vigencia indefinida hasta que se apruebe el correspondiente plan general de ordenación municipal.
+Se modifica por el art. 8.2 a 6 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+### Artículo 64
+
+Artículo 64. Procedimiento de aprobación de los planes básicos municipales.
+1. La consejería competente en materia de urbanismo formulará los planes básicos municipales, promoviendo la colaboración de los ayuntamientos u otras entidades en su redacción, y sin perjuicio de la potestad de los ayuntamientos de formular su Plan general de ordenación municipal.
+2. Con carácter previo a la aprobación inicial del documento, se realizarán los siguientes trámites:
+a) La persona titular de la consejería competente en materia de urbanismo remitirá al órgano ambiental la solicitud de inicio de la evaluación ambiental estratégica simplificada, a la que acompañará el borrador del plan y el documento ambiental estratégico, con el contenido establecido en la legislación vigente.
+b) El órgano ambiental formulará las consultas a las administraciones públicas afectadas y a las personas interesadas, que habrán de pronunciarse en el plazo de dos meses.
+Teniendo en cuenta el resultado de las consultas, el órgano ambiental determinará en el informe ambiental estratégico, que habrá de emitirse en el plazo de dos meses desde el efectivo cumplimiento de los trámites anteriores, si el plan tiene o no efectos significativos en el medio. En caso de no prever efectos significativos, el plan podrá aprobarse en los términos que el propio informe establezca.
+El informe ambiental estratégico se remitirá en el plazo de quince días hábiles para su publicación en el «Diario Oficial de Galicia» y en la sede electrónica del órgano ambiental.
+3. La persona titular de la consejería competente en materia de urbanismo aprobará inicialmente el documento y lo someterá a información pública por plazo mínimo de dos meses mediante anuncio que se publicará en el «Diario Oficial de Galicia» y en dos de los periódicos de mayor difusión en la provincia. La consejería solicitará a los municipios afectados informe determinante, y a las administraciones públicas competentes, los informes sectoriales preceptivos. Transcurrido el plazo de tres meses sin que se hubieran comunicado los informes autonómicos solicitados, se entenderán emitidos con carácter favorable.
+4. La persona titular de la consejería competente en materia de urbanismo, previo informe favorable de la Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo, adoptará motivadamente una de las siguientes decisiones:
+a) Aprobar definitivamente el plan básico municipal, en los mismos términos en que se formula.
+b) Aprobar parcialmente el plan básico municipal, cuando existan deficiencias que afecten a áreas o determinaciones tan concretas que, prescindiendo de las mismas, el planeamiento se pueda aplicar con coherencia. La parte objeto de reparos quedará en suspenso hasta la subsanación de las deficiencias y en ella resultará de aplicación el régimen transitorio establecido en esta ley para los municipios sin planeamiento urbanístico general.
+Se modifica el apartado 4 por el art. 61.12 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## CAPÍTULO V
+
+Planeamiento de desarrollo de los planes generales de ordenación municipal
+
+## Sección 1
+
+Sección 1.ª Disposiciones comunes
+
+### Artículo 65
+
+Artículo 65. Disposiciones comunes a los planes de desarrollo.
+1. Los planes parciales y los planes especiales podrán modificar la ordenación detallada establecida por el plan general de ordenación municipal, de acuerdo con las siguientes condiciones:
+a) Que tengan por objeto la mejora sustancial de la ordenación urbanística vigente y la articulación de los espacios libres públicos y los volúmenes construidos, la eliminación de usos no deseables o la incorporación de otros necesarios, la resolución de problemas de movilidad o bien otros fines análogos.
+b) Que no afecten ni alteren de ningún modo las determinaciones del plan general señaladas en los artículos 52, 54.2, 55.2 y 56.1 de la presente ley, sin perjuicio de los ajustes necesarios para garantizar las conexiones.
+c) Que no impliquen un incremento de la superficie edificable total ni la modificación de los usos globales que se establezcan en el plan general.
+d) Que no supongan una disminución, un fraccionamiento o un deterioro de la capacidad de servicio y de la funcionalidad de los espacios previstos para los sistemas locales de dotaciones públicas.
+2. El planeamiento de desarrollo podrá reajustar, por razones justificadas, la delimitación de los sectores y áreas de reparto, siempre que no suponga una alteración igual o superior al 10 % del ámbito delimitado por el plan general, incluso cuando el reajuste afecte a la clasificación urbanística del suelo. En todo caso, será necesaria la previa audiencia a los propietarios o propietarias afectados.
+
+### Artículo 66
+
+Artículo 66. Planes de iniciativa particular.
+Los planes de iniciativa particular, además de las determinaciones establecidas en el presente título, habrán de:
+a) Determinar la obligación de conservación de la urbanización, expresando si correrá por cuenta del municipio, de los futuros propietarios o propietarias de las parcelas o de los promotores de la urbanización.
+b) Acreditar, en el caso de planes elaborados por iniciativa particular, la aceptación por los propietarios o propietarias que representen más del 50 % de la superficie del ámbito de planeamiento.
+
+## Sección 2
+
+Sección 2.ª Planes parciales
+
+### Artículo 67
+
+Artículo 67. Objeto.
+Los planes parciales tendrán por objeto regular la urbanización y la edificación del suelo urbanizable, desarrollando el plan general mediante la ordenación detallada de un sector.
+
+### Artículo 68
+
+Artículo 68. Determinaciones.
+Los planes parciales contendrán, en todo caso, las siguientes determinaciones:
+a) Delimitación del ámbito de planeamiento, que abarcará un sector completo definido por el plan general.
+b) Calificación de los terrenos, entendida como la asignación detallada de usos pormenorizados, tipologías edificatorias y niveles de intensidad correspondientes a cada zona.
+c) Señalización de reservas de terrenos para sistemas locales en proporción a las necesidades de la población y de conformidad con las reservas mínimas establecidas en el artículo 42 de la presente ley.
+d) Trazado y características de la red de comunicaciones propias del sector y de su enlace con el sistema general de comunicaciones previsto en el plan general, con señalización de alineaciones, rasantes y zonas de protección de toda la red viaria.
+e) Características y trazado de las redes de abastecimiento de agua, alcantarillado, energía eléctrica, alumbrado público, telecomunicaciones y gas y de aquellos otros servicios que, en su caso, prevea el plan.
+f) Determinaciones necesarias para la integración de la nueva ordenación con los elementos valiosos del paisaje y la vegetación.
+g) Medidas necesarias y suficientes para garantizar la adecuada conexión del sector con los sistemas generales exteriores existentes y, en su caso, la ampliación o refuerzo de dichos sistemas y de los equipamientos y servicios urbanos que vayan a ser utilizados por la población futura. Igualmente, habrá de resolver los enlaces con las carreteras o vías actuales y con las redes de servicios de abastecimiento de agua y saneamiento, suministro de energía eléctrica, telecomunicaciones, gas y otros.
+Los servicios técnicos municipales y las empresas suministradoras deberán informar, en el plazo máximo de un mes, sobre la suficiencia de las infraestructuras y servicios existentes y previstos antes de iniciar la tramitación del plan parcial.
+h) Reajuste, en su caso, de la ordenación detallada de los suelos destinados por el plan general a sistemas generales incluidos o adscritos al sector.
+i) Fijación de los plazos para dar cumplimiento a los deberes de las personas propietarias, entre ellos los de gestión, urbanización y edificación. En otro caso, el plazo para el cumplimiento de cada uno de ellos será de tres años.
+j) Delimitación de los polígonos en que se divida el sector y modificación, en su caso, del sistema de actuación de acuerdo con lo dispuesto en la presente ley.
+k) Evaluación económica de la implantación de los servicios y de la ejecución de las obras de urbanización, incluyendo la conexión a los sistemas generales y, en su caso, las obras de ampliación o refuerzo de los mismos.
+Se modifica la letra h) por el art. 61.13 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 69
+
+Artículo 69. Documentación.
+Los planes parciales comprenderán, con el contenido que se fije reglamentariamente, los siguientes documentos:
+a) Documento ambiental estratégico o estudio ambiental estratégico, según el plan haya sido objeto de evaluación ambiental estratégica simplificada u ordinaria.
+b) Planos de información, incluido el catastral.
+c) Memoria justificativa de sus determinaciones.
+d) Evaluación económica de la implantación de los servicios y ejecución de las obras de urbanización, incluidas las conexiones con los sistemas generales existentes y su ampliación o refuerzo.
+e) Planos de ordenación urbanística.
+f) Ordenanzas reguladoras necesarias para su ejecución.
+
+## Sección 3
+
+Sección 3.ª Planes especiales
+
+### Artículo 70
+
+Artículo 70. Finalidades.
+1. Podrán formularse y aprobarse planes especiales con la finalidad de proteger ámbitos singulares, llevar a cabo operaciones de reforma interior, prever dotaciones urbanísticas y proteger, rehabilitar y mejorar el medio rural.
+2. En defecto de planeamiento general municipal, o cuando este no contenga las previsiones detalladas oportunas, podrán aprobarse planes especiales únicamente con la finalidad de proteger ámbitos singulares, rehabilitar y mejorar el medio rural o establecer dotaciones urbanísticas, siempre que estas determinaciones no exijan la definición previa de un modelo territorial.
+3. Asimismo, en los ayuntamientos sin planeamiento general o que cuenten con plan básico municipal, podrán formularse planes especiales que tengan por objeto crear suelo urbano con destino a usos industriales o terciarios, a equipos públicos o la construcción de viviendas de promoción pública.
+A efectos del apartado anterior, deberán aplicarse los límites de sostenibilidad previstos en el artículo 41.3 para los usos industriales y terciarios y en el artículo 41.2 para los usos residenciales, y, en todo caso, las reservas previstas en el artículo 42.2.
+4. Los planes especiales contendrán las determinaciones necesarias para el desarrollo del planeamiento correspondiente y, en todo caso, las propias de su naturaleza y finalidad.
+5. En ningún caso los planes especiales podrán sustituir a los planes generales en su función de instrumentos de ordenación integral del territorio, por lo que no podrán modificar la clasificación del suelo, salvo en los supuestos contemplados en el artículo 65 de la presente ley y en el apartado 3 de este artículo.
+Se modifican los apartados 1 y 2 por el art. 61.14 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 3 por el art. 7.3 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 71
+
+Artículo 71. Planes especiales de protección.
+1. Los planes especiales de protección tienen por objeto preservar el medio ambiente, las aguas continentales, el litoral costero, los espacios naturales, las vías de comunicación, los paisajes de interés, el patrimonio cultural y otros valores análogos.
+2. Con tales fines podrán afectar a cualquier clase de suelo e incluso extenderse a varios términos municipales con el fin de abarcar ámbitos de protección completos. Podrán delimitar áreas de reparto y establecer las medidas necesarias para garantizar la conservación y recuperación de los valores que hayan de protegerse, para lo que impondrán las limitaciones que resulten necesarias, incluso con prohibición absoluta de construir.
+3. En particular, los planes especiales cuyo objeto sea proteger los ámbitos del territorio declarados como bienes de interés cultural contendrán las determinaciones exigidas por la legislación sobre patrimonio cultural y el catálogo previsto en el artículo 81.
+4. El plan general podrá remitir la ordenación detallada del suelo urbano consolidado a un plan especial de protección. En este caso, antes de la aprobación definitiva del plan especial, habrá de solicitarse el informe preceptivo y vinculante del órgano competente en materia de urbanismo, en los términos señalados por el artículo 75.1.e).
+
+### Artículo 72
+
+Artículo 72. Planes especiales de reforma interior.
+1. Los planes especiales de reforma interior tienen por objeto la ejecución de operaciones de reforma en suelo urbano no consolidado o suelo de núcleo rural, estén o no previstas en el plan general.
+2. Los planes especiales de reforma interior contendrán las determinaciones adecuadas a su finalidad. En suelo urbano no consolidado incluirán, al menos, las determinaciones y la documentación propia de los planes parciales.
+
+### Artículo 73
+
+Artículo 73. Planes especiales de infraestructuras y dotaciones.
+1. Los planes especiales de infraestructuras y dotaciones tienen por objeto la implantación de dotaciones urbanísticas y de los usos previstos en las letras o) y p) del artículo 35.1, de conformidad con lo dispuesto en el artículo 36.4.
+2. Los planes especiales de infraestructuras y dotaciones contendrán las determinaciones adecuadas a su finalidad y, en todo caso, las siguientes:
+a) Delimitación de los espacios reservados para infraestructuras y dotaciones urbanísticas y su destino concreto.
+b) Medidas necesarias para su adecuada integración en el territorio y para resolver los problemas que genere en el viario y en las demás dotaciones urbanísticas.
+c) Medidas de protección necesarias para garantizar la funcionalidad y accesibilidad universal de las infraestructuras y dotaciones urbanísticas.
+Se modifica el apartado 1 por el art. 61.15 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## Sección 4
+
+Sección 4.ª Procedimiento de elaboración y aprobación
+
+### Artículo 74
+
+Artículo 74. Formulación de los planes parciales y planes especiales.
+Los planes parciales y planes especiales podrán ser formulados por los ayuntamientos, por la Administración autonómica, por otros órganos competentes en el ámbito urbanístico y por los particulares legitimados para hacerlo.
+
+### Artículo 75
+
+Artículo 75. Procedimiento de aprobación de los planes parciales y planes especiales.
+1. La tramitación de los planes parciales y planes especiales se ajustará al siguiente procedimiento:
+a) El órgano municipal competente procederá a su aprobación inicial y lo someterá a información pública como mínimo durante dos meses, mediante anuncio que se publicará en el «Diario Oficial de Galicia» y en uno de los periódicos de mayor difusión en la provincia. Asimismo, se notificará individualmente a todas las personas titulares catastrales de los terrenos afectados.
+b) Durante el mismo tiempo en el que se realiza el trámite de información pública, la Administración municipal deberá recabar de las administraciones públicas competentes los informes sectoriales y consultas que resulten preceptivos. Los informes sectoriales autonómicos habrán de ser emitidos en el plazo máximo de tres meses, transcurrido el cual se entenderán emitidos con carácter favorable.
+c) Cuando, con posterioridad al trámite de información pública, se pretendan introducir modificaciones que supongan un cambio sustancial del documento inicialmente aprobado, se abrirá un nuevo trámite de información pública.
+d) Los servicios jurídicos y técnicos municipales deberán emitir informe respecto a la integridad documental del expediente, las actuaciones administrativas realizadas, la calidad técnica de la ordenación proyectada y la conformidad del plan con la legislación vigente.
+e) La aprobación de planes especiales no previstos en el plan general y de planes especiales de protección que contengan la ordenación detallada del suelo urbano consolidado requerirá, en todo caso, la previa emisión del informe preceptivo y vinculante en lo que se refiera al control de la legalidad y la tutela de los intereses supramunicipales, así como al cumplimiento de las determinaciones establecidas en las Directrices de ordenación del territorio y de los planes territoriales y sectoriales.
+A estos efectos, cumplimentados los trámites señalados en los apartados precedentes, el órgano municipal competente aprobará provisionalmente el contenido del plan con las modificaciones que fueran pertinentes, sometiéndolo, con el expediente completo debidamente diligenciado, al órgano competente en materia de urbanismo para su informe preceptivo, que habrá de ser emitido en el plazo de dos meses, a contar desde la entrada del expediente completo en el registro de la consejería. Transcurrido este plazo sin que se hubiera comunicado el informe solicitado, podrá continuarse la tramitación del plan.
+El órgano competente en materia de urbanismo, en el plazo de un mes, examinará la integridad del proyecto de plan. De apreciarse alguna deficiencia, requerirá su enmienda. Hasta el cumplimiento efectivo del requerimiento no comenzará el cómputo del plazo legal para la emisión del informe.
+f) Cumplimentados los trámites señalados en los apartados precedentes, el ayuntamiento procederá a su aprobación definitiva.
+2. En el supuesto de los planes parciales y planes especiales que hayan de someterse a evaluación ambiental estratégica ordinaria, en virtud de lo dispuesto en el artículo 46.1, se seguirá el procedimiento establecido en el artículo 60, apartados 2, 3, 4, 5, 8, 9, 10, 11 y 12.
+3. En el supuesto de los planes parciales y planes especiales que hayan de someterse a evaluación ambiental estratégica simplificada, en virtud de lo dispuesto en el artículo 46.2, con carácter previo a la aprobación inicial del documento, se realizarán los siguientes trámites:
+a) El promotor remitirá al órgano ambiental la solicitud de inicio de la evaluación ambiental estratégica simplificada, a la que acompañará el borrador del plan y el documento ambiental estratégico, con el contenido establecido en la legislación vigente.
+b) El órgano ambiental, en el plazo de dos meses, a contar desde la recepción de la documentación completa, formulará el informe ambiental estratégico, tras identificar y consultar a las administraciones públicas afectadas y a las personas interesadas por plazo de dos meses.
+En el caso de planes especiales no previstos en el plan general y de planes especiales de protección que contengan la ordenación detallada del suelo urbano consolidado, entre los órganos a consultar estará el competente en materia de urbanismo.
+El órgano ambiental, habida cuenta del resultado de las consultas, determinará en el informe ambiental estratégico si el plan tiene o no efectos significativos en el medio. En caso de no prever efectos significativos, el plan podrá aprobarse en los términos que el propio informe establezca.
+El informe ambiental estratégico se remitirá en el plazo de quince días hábiles para su publicación en el «Diario Oficial de Galicia» y en la sede electrónica del órgano ambiental.
+4. La aprobación definitiva de los planes parciales y de los planes especiales corresponderá al órgano municipal competente.
+
+### Artículo 76
+
+Artículo 76. Plazos para la aprobación de instrumentos de planeamiento de desarrollo de iniciativa particular.
+1. El plazo máximo para resolver sobre la aprobación inicial de planes de desarrollo de iniciativa particular será de tres meses, a contar a partir de su presentación en el registro general del ayuntamiento. Transcurrido este plazo sin que hubiera recaído resolución expresa, se entenderá otorgada la aprobación inicial del correspondiente instrumento de planeamiento.
+2. El plazo para la aprobación definitiva por el ayuntamiento de planes de desarrollo de los planes generales será de seis meses, a contar desde la aprobación inicial. Transcurrido este plazo sin que se hubiera procedido a la notificación de la resolución, podrá entenderse aprobado definitivamente el plan, siempre que se hubiera realizado el trámite de información pública y se hayan obtenido los informes preceptivos en sentido favorable, de conformidad con la legislación aplicable, o, en su caso, hayan sido solicitados los informes y hubieran transcurrido los plazos para emitirlos.
+3. No se aplicará el silencio administrativo positivo cuando los planes o instrumentos contuvieran determinaciones contrarias a la ley, los planes de superior jerarquía o los instrumentos de ordenación del territorio.
+
+## CAPÍTULO VI
+
+Ordenación urbanística que afecte a varios municipios
+
+### Artículo 77
+
+Artículo 77. Formulación, elaboración y procedimiento de aprobación.
+1. Si las necesidades urbanísticas de un territorio que afecte a varios municipios aconsejaran su ordenación conjunta a través de planes generales de ordenación municipal o de sus instrumentos urbanísticos de desarrollo, la persona titular de la consejería competente en materia de urbanismo podrá declarar su procedencia, de oficio o a petición de todos o alguno de los municipios afectados.
+2. La persona titular de la referida consejería determinará el ámbito y a quién corresponde su formulación y tramitación, según el procedimiento previsto en los capítulos III o V del presente título.
+3. Igualmente, antes de la aprobación definitiva, se dará traslado del documento elaborado a los municipios afectados, a fin de que puedan examinarlo y pronunciarse sobre él mediante acuerdo adoptado por el pleno de la corporación en el plazo máximo de un mes.
+4. La persona titular de la consejería competente en materia de urbanismo resolverá sobre su aprobación definitiva.
+
+## CAPÍTULO VII
+
+Otras figuras de planeamiento
+
+## Sección 1
+
+Sección 1.ª Delimitaciones del suelo de núcleo rural
+
+### Artículo 78
+
+Artículo 78. Procedimiento de aprobación.
+1. Los municipios sin planeamiento general podrán delimitar el suelo de los núcleos rurales existentes, previa aprobación del correspondiente expediente de delimitación, en el que se acreditará el cumplimiento de los requisitos establecidos en el artículo 23 y se incluirán las determinaciones contempladas en el artículo 55 de la presente ley.
+2. La tramitación de los expedientes de delimitación del suelo de núcleo rural se ajustará al siguiente procedimiento:
+a) El ayuntamiento, previo informe de los servicios técnicos y jurídicos municipales sobre la conformidad del plan con la legislación vigente, procederá a su aprobación inicial, someterá el expediente de delimitación a información pública por un plazo mínimo de dos meses, mediante un anuncio que se publicará en el "Diario Oficial de Galicia" y en uno de los periódicos de mayor difusión de la provincia. Asimismo, se notificará individualmente a las personas titulares catastrales de los terrenos respeto de los cuales se proyecte una modificación en su clasificación urbanística.
+El ayuntamiento deberá solicitar, en el momento que corresponda en cada caso, los informes sectoriales que resulten preceptivos de conformidad con la normativa vigente.
+b) El ayuntamiento aprobará provisionalmente el documento y remitirá el expediente completo, debidamente diligenciado, a la consejería competente en materia de urbanismo.
+La consejería, en el plazo de un mes, examinará la integridad del proyecto y, si aprecia alguna deficiencia, requerirá su subsanación. Hasta el cumplimiento efectivo del requerimiento no empezará el cómputo del plazo legal para la emisión del informe o la resolución sobre la aprobación definitiva del documento.
+c) En los municipios con población superior a 50.000 habitantes, dicha remisión será a los efectos de la emisión del informe preceptivo y vinculante previo a la aprobación definitiva por parte del órgano municipal competente. Transcurrido el plazo de tres meses sin la emisión del referido informe, el ayuntamiento podrá proseguir las actuaciones.
+d) En los supuestos de los municipios con población inferior a 50.000 habitantes, la consejería competente en materia de urbanismo, en el plazo de tres meses a contar desde la recepción del expediente completo en su registro, adoptará motivadamente alguna de las siguientes decisiones:
+1.ª Aprobar definitivamente la delimitación de suelo de núcleo rural.
+2.ª Aprobar definitivamente la delimitación de suelo de núcleo rural con las condiciones precisas y determinadas que se juzguen necesarias para reparar las deficiencias detectadas. En esos casos, de ser necesario, se procederá de acuerdo con lo establecido en el artículo 62.
+3.ª No otorgar la aprobación definitiva.
+Transcurrido el plazo de tres meses sin resolución expresa, se entenderá aprobado por silencio administrativo.
+3. En el supuesto de expedientes de delimitación que hayan de someterse a evaluación ambiental estratégica ordinaria, se seguirán los trámites establecidos en el artículo 60, apartados 2, 3, 4, 5, 9, 10, 11, 12 y 13.
+4. En el supuesto de expedientes de delimitación que hayan de someterse a evaluación ambiental estratégica simplificada, con carácter previo al sometimiento a información pública, se realizarán los siguientes trámites:
+a) El órgano municipal competente remitirá al órgano ambiental la solicitud de inicio de la evaluación ambiental estratégica simplificada, a la que acompañará la delimitación propuesta y el documento ambiental estratégico, con el contenido establecido en la legislación vigente.
+b) El órgano ambiental, en el plazo de dos meses, a contar desde la recepción de la documentación completa, formulará el informe ambiental estratégico, tras identificar y consultar a las administraciones públicas afectadas y a las personas interesadas por plazo de dos meses. Entre los órganos a consultar estará el competente en materia de urbanismo.
+El órgano ambiental, habida cuenta del resultado de las consultas, determinará en el informe ambiental estratégico si el expediente de delimitación del suelo de núcleo rural tiene o no efectos significativos en el medio. En caso de no prever efectos significativos, el expediente podrá aprobarse en los términos que el propio informe establezca.
+El informe ambiental estratégico se remitirá en el plazo de quince días hábiles para su publicación en el «Diario Oficial de Galicia» y en la sede electrónica del órgano ambiental.
+Se modifica el apartado 2 por el art. 61.16 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica la letra c) del apartado 2 por el art. 81.9 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica la letra a) del apartado 2 por el art. 13.7 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## Sección 2
+
+Sección 2.ª Estudios de detalle
+
+### Artículo 79
+
+Artículo 79. Estudios de detalle.
+1. En desarrollo de los planes generales, planes parciales y planes especiales, podrán redactarse estudios de detalle con los siguientes objetivos:
+a) Completar o reajustar las alineaciones y rasantes.
+b) Ordenar los volúmenes edificables.
+c) Concretar las condiciones estéticas y de composición de las edificaciones complementarias del planeamiento.
+2. Los estudios de detalle no podrán en caso alguno:
+a) Alterar el destino urbanístico del suelo.
+b) Incrementar el aprovechamiento urbanístico.
+c) Reducir las superficies destinadas a viales, espacios libres o dotaciones públicas.
+d) Prever la apertura de vías de uso público que no estén previamente contempladas en el plan que desarrollen o completen.
+e) Aumentar la ocupación del suelo, las alturas máximas edificables o la intensidad de uso.
+f) Parcelar el suelo.
+g) No tener en cuenta o infringir las demás limitaciones que les imponga el correspondiente plan.
+h) Establecer nuevos usos y ordenanzas.
+
+### Artículo 80
+
+Artículo 80. Formulación y aprobación de los estudios de detalle.
+1. Los estudios de detalle podrán ser formulados por los ayuntamientos, por la Administración autonómica, por otros órganos competentes en el ámbito urbanístico y por los particulares legitimados para hacerlo.
+2. Los estudios de detalle serán aprobados inicialmente por el órgano municipal competente y sometidos a información pública por plazo mínimo de un mes mediante anuncio que se publicará en el «Diario Oficial de Galicia» y en uno de los periódicos de mayor difusión en la provincia. Asimismo, se notificará individualmente a todas las personas titulares catastrales de los terrenos afectados. En su caso, se solicitarán los informes sectoriales preceptivos.
+A la vista del resultado de la información pública, el órgano municipal los aprobará definitivamente, con las modificaciones que resultasen pertinentes.
+Los plazos para su aprobación definitiva serán los establecidos en el artículo 76.
+
+## Sección 3
+
+Sección 3.ª Catálogos
+
+### Artículo 81
+
+Artículo 81. Catálogos.
+1. Los catálogos son instrumentos complementarios de los planes que tienen por objeto identificar los elementos que, por sus singulares características o valores culturales, históricos, artísticos, arquitectónicos, arqueológicos, etnográficos o paisajísticos, se estime conveniente conservar, mejorar o recuperar.
+2. Los instrumentos de planeamiento contendrán obligatoriamente un catálogo en el que se prevean las medidas necesarias para la protección, conservación, recuperación y aprovechamiento social y cultural de los referidos elementos.
+3. El catálogo contendrá una ficha individualizada de cada elemento catalogado en la que se recogerán, como mínimo, sus datos identificativos, ubicación y delimitación de su ámbito de protección, descripción gráfica de sus características constructivas, estado de conservación y determinaciones para su conservación, rehabilitación, mejora o recuperación.
+
+## CAPÍTULO VIII
+
+Vigencia y modificación de los instrumentos de planeamiento urbanístico
+
+### Artículo 82
+
+Artículo 82. Vigencia de los instrumentos de planeamiento urbanístico.
+1. Los instrumentos de planeamiento urbanístico tendrán vigencia indefinida.
+2. El acuerdo de aprobación definitiva del planeamiento deberá publicarse, en el plazo de un mes desde su adopción, en el «Diario Oficial de Galicia». Junto con la publicación de este acuerdo se publicará la indicación de las medidas adoptadas para el seguimiento de los efectos en el medio ambiente de la aplicación del plan y la referencia a la dirección electrónica en la que figurará el contenido íntegro del plan a disposición del público, así como, cuando proceda, el extracto elaborado con carácter previo a la aprobación del documento, que incluirá los siguientes aspectos:
+a) La justificación de la integración en el plan de los aspectos ambientales.
+b) La justificación de cómo se tomaron en consideración en el plan el estudio ambiental estratégico, los resultados de la información pública y de las consultas y la declaración ambiental estratégica, así como, en su caso, las discrepancias surgidas en el proceso.
+c) Las razones de la elección de la alternativa seleccionada, en relación con las alternativas consideradas.
+3. El documento que contenga la normativa y las ordenanzas deberá publicarse en el Boletín Oficial de la provincia.
+En el supuesto del Plan básico autonómico, deberá publicarse en los cuatro boletines oficiales provinciales.
+4. En todo caso, la eficacia del acto de aprobación definitiva y la entrada en vigor del plan aprobado quedan condicionadas a su publicación de conformidad con lo establecido en este artículo, a la inscripción del instrumento en el Registro de Ordenación del Territorio y Planeamiento Urbanístico de Galicia de conformidad con lo dispuesto en el artículo 88 de la presente ley y a lo que disponga a tal efecto la legislación vigente en materia de régimen local.
+Se modifica la denominación del registro del apartado 4 por la disposición adicional 1 de la Ley 1/2021, de 8 de enero. Ref. BOE-A-2021-4519#da
+
+### Artículo 83
+
+Artículo 83. Modificación de los instrumentos de planeamiento urbanístico.
+1. Cualquier modificación del planeamiento urbanístico habrá de fundamentarse en razones de interés público debidamente justificadas.
+2. La alteración del contenido de los instrumentos de planeamiento urbanístico podrá llevarse a cabo mediante la revisión de ellos o mediante la modificación de alguno de sus elementos.
+3. Se entiende por revisión del planeamiento general la adopción de nuevos criterios respecto a la estructura general y orgánica del territorio o la clasificación del suelo, motivada por la elección de un modelo territorial distinto, por la aparición de circunstancias sobrevenidas, de carácter demográfico o económico, que incidan sustancialmente sobre la ordenación o el agotamiento de su capacidad.
+4. En los demás supuestos, la alteración de las determinaciones del plan se considerará como modificación del mismo, aun cuando dicha alteración implicase cambios en la clasificación, la calificación del suelo o la delimitación del ámbito de los polígonos.
+5. Las modificaciones del planeamiento urbanístico podrán ser sustanciales y no sustanciales.
+Se considerarán modificaciones no sustanciales del plan aquellas de escasa entidad y de alcance reducido que cumplan los requisitos siguientes:
+a) Que no supongan aumento del aprovechamiento lucrativo.
+b) Que no modifiquen la clasificación del suelo.
+c) Que no incrementen la edificabilidad global del ámbito.
+d) Que no incidan negativamente en la funcionalidad de las dotaciones públicas.
+6. La revisión del planeamiento y de sus modificaciones se sujetará a las mismas disposiciones establecidas para su tramitación y aprobación, excepto en los siguientes supuestos:
+a) Tramitación simultánea y aprobación de un instrumento de ordenación del territorio y de la modificación del instrumento de planeamiento urbanístico, que se tramitará mediante el procedimiento previsto en la normativa vigente en materia de ordenación del territorio.
+b) Modificaciones no sustanciales del planeamiento a las que se refiere el apartado anterior, que se tramitarán mediante el procedimiento simplificado previsto en los artículos 16 a 18 de la Ley 1/2019, de 22 de abril, de rehabilitación y de regeneración y renovación urbanas de Galicia.
+7. En el caso de las modificaciones del planeamiento general que tengan por objeto la delimitación del suelo de núcleo rural de acuerdo con lo establecido en el artículo 23, se tramitarán siguiendo el procedimiento establecido en el artículo 78.
+Se modifican los apartados 5 y 6 y se añade el 7 por el art. 81.10 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica el apartado 5 por la disposición final 2 de la Ley 1/2021, de 8 de enero. Ref. BOE-A-2021-4519#df-2
+
+### Artículo 83 bis
+
+Artículo 83 bis. Rectificación de errores de los instrumentos de planeamiento urbanístico.
+1. Los errores materiales, de hecho o aritméticos existentes en los instrumentos de planeamiento urbanístico podrán ser rectificados en cualquier momento, de oficio o a instancia de las personas interesadas.
+2. La rectificación de los errores existentes en los instrumentos de planeamiento urbanístico será adoptada por el órgano competente para su aprobación definitiva y requerirá la adopción del correspondiente acuerdo plenario, previa emisión de los informes técnicos y jurídicos municipales.
+3. La corrección de errores deberá ser objeto de publicación e inscripción en el Registro de Ordenación del Territorio y Planeamiento Urbanístico de Galicia, de acuerdo con lo establecido en los artículos 82 y 88.
+Se añade por el art. 61.17 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+## CAPÍTULO IX
+
+Efectos de la aprobación de los instrumentos de planeamiento urbanístico
+
+### Artículo 84
+
+Artículo 84. Ejecutividad del planeamiento.
+1. Los instrumentos de planeamiento son disposiciones de carácter general, por lo que su aprobación definitiva no podrá ser objeto de recurso en vía administrativa, sino tan sólo a través del correspondiente recurso contencioso-administrativo, en los términos previstos en la legislación aplicable.
+2. Los instrumentos de planeamiento urbanístico serán inmediatamente ejecutivos tras su entrada en vigor, según lo dispuesto en el artículo 82.
+
+### Artículo 85
+
+Artículo 85. Declaración de utilidad pública.
+1. La aprobación de los instrumentos de planeamiento urbanístico implicará la declaración de utilidad pública y la necesidad de ocupación de los bienes y derechos afectados a los fines de expropiación o imposición de servidumbres.
+2. Cuando para la ejecución del planeamiento no fuera necesaria la expropiación del dominio y bastase la constitución de alguna servidumbre sobre el mismo, podrá imponerse, de conformidad con el procedimiento de la Ley de expropiación forzosa.
+Asimismo, cuando hayan de modificarse o suprimirse servidumbres privadas por estar en contradicción con las determinaciones del planeamiento, podrán expropiarse según el procedimiento de la citada ley.
+
+### Artículo 86
+
+Artículo 86. Iniciación de expropiaciones por ministerio de la ley.
+Cuando transcurran cinco años desde la entrada en vigor del plan sin que se llevase a efecto la expropiación de los terrenos que estén destinados a sistemas generales o locales que no hayan de ser objeto de cesión obligatoria por no resultar posible la justa distribución de beneficios y cargas, la persona titular de los bienes podrá advertir a la Administración de su propósito de iniciar el expediente de justiprecio, que podrá llevarse a cabo por ministerio de la ley si transcurren otros dos años desde el momento de efectuar la advertencia.
+Para ello, el propietario podrá presentar la correspondiente hoja de aprecio, y, si transcurrieran tres meses sin que la Administración la acepte, aquél podrá dirigirse al Jurado de Expropiación de Galicia, que fijará el justiprecio.
+
+### Artículo 87
+
+Artículo 87. Publicidad.
+1. Los instrumentos de planeamiento urbanístico, con todos sus documentos, tanto si se encuentran aprobados como durante su tramitación, serán públicos, pudiendo consultarlos cualquier persona, en todo momento, en el ayuntamiento.
+2. Toda persona tendrá derecho a que el municipio correspondiente le informe por escrito sobre el régimen y condiciones urbanísticas aplicables a un terreno concreto o al sector, polígono o ámbito de planeamiento en que se encuentre incluido.
+Esta información deberá facilitarse en un plazo que no podrá exceder de dos meses desde la presentación de la solicitud en el registro municipal.
+3. Los ayuntamientos garantizarán, mediante procedimientos telemáticos, el acceso y el conocimiento del contenido de los instrumentos de planeamiento urbanístico, tanto si se encuentran aprobados como durante su tramitación.
+
+### Artículo 88
+
+Artículo 88. Registro de Ordenación del Territorio y Planeamiento Urbanístico de Galicia.
+1. Los instrumentos de planeamiento urbanístico, una vez aprobados definitivamente, y publicado en el «Diario Oficial de Galicia» el acuerdo correspondiente, deberán inscribirse en el registro que, a tal efecto, se constituirá en la consejería competente en materia de urbanismo.
+2. La consejería competente en materia de urbanismo inscribirá de oficio los instrumentos de planeamiento urbanístico cuya aprobación definitiva le corresponda.
+3. Los municipios habrán de remitir a la consejería competente en materia de urbanismo, para su inscripción en el citado registro, un ejemplar en soporte digital, debidamente diligenciado, de los instrumentos de planeamiento urbanístico cuya aprobación definitiva les corresponda.
+El plazo para, en su caso, proceder al requerimiento de anulación de los actos y acuerdos de las corporaciones locales según lo previsto en la legislación de régimen local no comenzará a contar hasta la recepción completa de la documentación en el registro de la consejería, correspondiendo a la persona titular de ésta formular el correspondiente requerimiento.
+4. La inscripción de los instrumentos de planeamiento en el Registro, incluidas sus modificaciones, será condición para la publicación de su normativa en el boletín oficial correspondiente, de conformidad con lo establecido en el artículo 82.
+5. El Registro será público, determinándose reglamentariamente su estructura y funcionamiento.
+Se modifica la denominación del registro por la disposición adicional 1 de la Ley 1/2021, de 8 de enero. Ref. BOE-A-2021-4519#da
+
+### Artículo 89
+
+Artículo 89. Usos y obras provisionales.
+1. No obstante la obligatoriedad de la observancia de los planes, podrán autorizarse usos y obras de carácter provisional en suelo urbano no consolidado, suelo urbanizable y terrenos afectados a sistemas generales en tanto no se inicie el procedimiento de gestión correspondiente, siempre que no estuvieran expresamente prohibidos por el planeamiento general ni por la legislación sectorial.
+2. Los usos y obras provisionales deberán cesar y derribarse cuando lo hubiera acordado el ayuntamiento, sin derecho a indemnización. La autorización aceptada por el propietario se hará constar bajo las indicadas condiciones en el registro de la propiedad.
+Las obras ejecutadas para usos provisionales habrán de ser las mínimas imprescindibles para permitir unas instalaciones fácilmente desmontables. No se admiten como usos provisionales los residenciales ni los industriales.
+
+### Artículo 90
+
+Artículo 90. Edificios fuera de ordenación.
+1. Los edificios, construcciones e instalaciones erigidos con anterioridad a la aprobación definitiva del plan urbanístico que resulten incompatibles con sus determinaciones por estar afectados por viales, zonas verdes, espacios libres, dotaciones y equipamientos públicos quedarán incursos en el régimen de fuera de ordenación.
+En estos edificios, construcciones e instalaciones podrá mantenerse el uso preexistente en todo caso, incluso si se trata de usos no permitidos por la ordenanza o normativa urbanística vigente, y también podrán autorizarse los usos permitidos por la ordenanza o normativa urbanística que resulte aplicable.
+En ambos casos podrán realizarse las obras de conservación, reforma y reparación, así como las que exija la normativa en materia de habitabilidad o la utilización conforme al destino establecido, incluso las de consolidación que no impliquen un incremento de la ocupación ni del volumen edificado, salvo que resulte necesario para el cumplimiento de la normativa sectorial que pudiese resultar aplicable.
+En todo caso, las personas propietarias deberán renunciar al incremento del valor expropiatorio, sin que tal renuncia afecte a las obras que sea obligatorio realizar para mantener el inmueble en adecuadas condiciones de conservación, de acuerdo con el correspondiente informe de evaluación del edificio, cuando este sea obligatorio según la normativa vigente.
+El régimen previsto en este número será aplicable en el caso de los edificios, construcciones e instalaciones existentes en suelo urbano no consolidado, en áreas de suelo de núcleo rural en las cuales se prevean actuaciones de carácter integral, en el suelo urbanizable y en los terrenos afectos a sistemas generales, mientras no esté aprobada definitivamente la ordenación detallada de dichos ámbitos.
+2. El planeamiento urbanístico determinará el régimen a que deban someterse las edificaciones, construcciones e instalaciones preexistentes a su aprobación definitiva que no sean plenamente compatibles con sus determinaciones, pero que no estén incursas en la situación de fuera de ordenación, con arreglo a lo señalado en el apartado anterior, pudiendo realizarse, como mínimo, las obras señaladas en el apartado anterior.
+En las edificaciones, construcciones e instalaciones en el suelo rústico que se encuentren en la situación descrita en el párrafo anterior, podrá mantenerse el uso preexistente, aunque se trate de usos no ajustados a la normativa urbanística vigente; también se admitirán los cambios de uso, siempre que se trate de un uso permitido en esta clase de suelo. En ambos casos, previo título habilitante de naturaleza urbanística y sin necesidad de autorización urbanística autonómica, se admitirán las obras de conservación, mantenimiento, reforma y rehabilitación, sin que, en ningún caso, pueda ampliarse la edificación.
+Se modifica el apartado 1 por el art. 61.18 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 2 por el art. 14.6 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se modifica por el art. 13.8 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+## TÍTULO III
+
+Normas de aplicación directa
+
+### Artículo 91
+
+Artículo 91. Adaptación al ambiente y protección del paisaje.
+Las construcciones e instalaciones habrán de adaptarse al ambiente en el que estuvieran situadas, y a tal efecto:
+a) Las construcciones en lugares inmediatos a un edificio o un conjunto de edificios de carácter histórico o tradicional deberán armonizar con él.
+b) En los lugares de paisaje abierto o natural, o en las perspectivas que ofrezcan los conjuntos urbanos de características históricas o tradicionales y en las inmediaciones de las carreteras o caminos de trayecto pintoresco, no se permitirá que la situación, masa o altura de las construcciones, muros y cierres, o la instalación de otros elementos, limiten el campo visual para contemplar las bellezas naturales, rompan la armonía del paisaje, desfiguren la perspectiva propia del mismo o limiten o impidan la contemplación del conjunto.
+c) La tipología de las construcciones y los materiales y colores empleados deberán favorecer la integración en el entorno inmediato y en el paisaje.
+d) Las construcciones habrán de presentar todos sus paramentos exteriores y cubiertas totalmente terminados.
+e) Queda prohibida la publicidad estática que por sus dimensiones, emplazamiento o colorido no cumpla las anteriores prescripciones.
+f) En las zonas de flujo preferente y en las áreas amenazadas por graves riesgos naturales o tecnológicos como explosión, incendio, contaminación, hundimiento u otros análogos sólo se permitirán las construcciones y usos admitidos por las legislaciones sectoriales correspondientes.
+
+### Artículo 92
+
+Artículo 92. Protección de las vías de circulación.
+1. Las construcciones y cerramientos que se construyan con obra de fábrica, vegetación ornamental u otros elementos permanentes en zonas no consolidadas por la edificación tendrán que desplazarse un mínimo de 4 metros del eje de la vía pública a la que den frente.
+Únicamente se excluye de esta obligación la colocación de mojones y cierres de postes y alambre destinados a delimitar la propiedad rústica, así como lo establecido en el artículo 26.1.e).
+2. En todo caso, habrá de cumplirse lo dispuesto por la legislación sectorial de aplicación.
+Se modifica el apartado 1, párrafo primero por el art. 8.7 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+## TÍTULO IV
+
+Ejecución del planeamiento urbanístico
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 93
+
+Artículo 93. Finalidad.
+La ejecución del planeamiento debe garantizar la distribución equitativa de los beneficios y cargas entre los afectados, así como el cumplimiento de los deberes de cesión y urbanización.
+
+### Artículo 94
+
+Artículo 94. Competencias.
+1. La ejecución del planeamiento urbanístico corresponde a los municipios.
+2. Los particulares podrán participar en la ejecución del planeamiento a través de los procedimientos previstos por la presente ley.
+
+### Artículo 95
+
+Artículo 95. Presupuestos de la ejecución.
+1. La ejecución del planeamiento requiere, en todo caso, la aprobación definitiva del planeamiento que contenga la ordenación detallada.
+No obstante, podrán tramitarse de forma simultánea, en expedientes separados, el planeamiento que contenga la ordenación detallada, el instrumento de gestión y el proyecto de urbanización, teniendo en cuenta lo indicado en el apartado anterior.
+2. En suelo urbano no consolidado se requerirá la previa aprobación del plan especial del polígono correspondiente, salvo que el plan general establezca la ordenación detallada.
+3. En suelo urbanizable se requerirá la previa aprobación del plan parcial del sector correspondiente, salvo que el plan general establezca la ordenación detallada.
+4. En suelo de núcleo rural se requerirá la previa aprobación del plan que contemple la ordenación detallada en los supuestos en que el planeamiento prevea en este suelo actuaciones de carácter integral.
+5. En cualquier clase de suelo la ordenación detallada de las dotaciones se conseguirá mediante su cualificación como tales por el planeamiento urbanístico.
+Se añade el apartado 5 por el art. 61.19 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Artículo 96
+
+Artículo 96. Ejecución y conservación de obras de urbanización.
+1. Los proyectos de urbanización son proyectos de obras que tienen por finalidad ejecutar los servicios y dotaciones establecidos en el planeamiento.
+2. Los proyectos de urbanización no podrán modificar las previsiones del planeamiento que desarrollan, sin perjuicio de que puedan efectuar las adaptaciones exigidas por la ejecución material de las obras, respetando, en todo caso, las condiciones de accesibilidad.
+3. Los proyectos de urbanización serán aprobados inicialmente por el órgano municipal competente y sometidos a información pública por plazo mínimo de un mes mediante anuncio que se publicará en el Boletín Oficial de la provincia y en uno de los periódicos de mayor difusión en la provincia. A la vista del resultado de la información pública, el órgano municipal los aprobará definitivamente, con las modificaciones que resultasen pertinentes.
+4. En los sistemas de actuación indirectos, su promotor, con carácter anterior al inicio de las obras de urbanización, habrá de prestar ante el municipio la garantía del exacto cumplimiento de los deberes de ejecución del plan, por importe del 10 % del presupuesto de ejecución material del proyecto.
+Esta garantía deberá constituirse mediante cualquiera de los mecanismos previstos en la legislación de contratos de las administraciones públicas. Será beneficiaria de la misma la Administración actuante.
+La garantía no será devuelta o cancelada hasta que, producida la recepción de las obras, transcurriese un año de garantía de las obras.
+El incumplimiento por el promotor del sistema de las obligaciones de urbanización, incluso en el plazo de garantía, provocará la incautación por parte del municipio de la garantía prestada para satisfacer las responsabilidades derivadas de la ejecución de las obras de urbanización, sin perjuicio de la facultad que asiste al municipio de dirigirse contra el promotor en caso de que la garantía no resultase suficiente para atender a las responsabilidades expuestas.
+5. La recepción por el ayuntamiento de obras de urbanización realizadas en ejecución del planeamiento se regirá por lo dispuesto en la legislación de contratos del sector público cuando su ejecución corresponda a la Administración local.
+En los demás supuestos, en caso de que la Administración no resuelva expresamente sobre la recepción de obras de urbanización en el plazo de tres meses desde que haya sido solicitada adjuntándose certificación expedida por la dirección técnica de las obras, estas se entenderán recibidas.
+En todo caso, y sin perjuicio de lo indicado en el párrafo anterior, se entenderán recepcionadas tácitamente las obras de urbanización siempre que existan actos propios de la administración receptora que, valorados en su conjunto, de modo inequívoco y concluyente, acrediten esta recepción y denoten el uso público de las obras.
+6. La conservación de la urbanización corresponderá al ayuntamiento. El planeamiento urbanístico podrá prever la obligación de los propietarios de los solares resultantes de la ejecución de la urbanización de constituirse en entidad urbanística de conservación, correspondiendo, en este caso, la conservación de la urbanización a esta entidad por el plazo que señale el plan.
+Las entidades urbanísticas de conservación son entidades de derecho público, de adscripción obligatoria y con personalidad y capacidad jurídica propias para el cumplimiento de sus fines. Los requisitos para su constitución e inscripción en el registro administrativo correspondiente y el contenido mínimo de los estatutos se establecerán reglamentariamente.
+Las cuotas de conservación que corresponda satisfacer a los miembros de la entidad urbanística de conservación serán obligatorias y exigibles por vía de apremio.
+7. El pleno de la corporación, a petición de los propietarios de, al menos, el 50 % de la superficie del ámbito, podrá acordar la constitución obligatoria de una entidad urbanística de conservación que se haga cargo de la conservación de la urbanización del mismo.
+Los propietarios de los solares incluidos en el ámbito quedarán incorporados obligatoriamente a la entidad urbanística de conservación, debiendo contribuir a los gastos de conservación en proporción a su aprovechamiento urbanístico.
+Se modifica el apartado 5 por el art. 81.11 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica el apartado 4, párrafo segundo por el art. 8.8 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+
+## CAPÍTULO II
+
+Áreas de reparto
+
+### Artículo 97
+
+Artículo 97. Determinación.
+1. Los planes generales de ordenación municipal habrán de delimitar áreas de reparto de cargas y beneficios en el suelo urbano no consolidado, en el suelo urbanizable y en el suelo de núcleo rural cuando se contemplen áreas de actuación integral que requieran de las mismas, sin perjuicio de lo dispuesto para los planes especiales en el artículo 71.2.
+2. En suelo urbano consolidado, los planes generales no podrán definir áreas de reparto ni ningún otro instrumento de distribución de cargas y beneficios.
+3. En suelo urbano no consolidado, si el planeamiento general contiene la ordenación detallada, las áreas de reparto incluirán uno o varios polígonos y los sistemas generales que se les incluyan o adscriban a efectos de su gestión.
+Si el plan general remite la ordenación detallada a un plan especial de reforma interior, las áreas de reparto contendrán el ámbito del plan especial y los sistemas generales que se les incluyan o adscriban a efectos de su gestión.
+4. En el suelo urbanizable, las áreas de reparto incluirán uno o varios sectores completos y los sistemas generales que se integren en ellos o que se les adscriban a efectos de su gestión.
+5. Las áreas de reparto podrán ser discontinuas.
+
+### Artículo 98
+
+Artículo 98. Reglas para la delimitación.
+1. La delimitación de áreas de reparto se efectuará teniendo en cuenta el equilibrio de beneficios y cargas entre las distintas áreas, así como la proporcionalidad entre la edificabilidad resultante y las cargas y dotaciones previstas.
+2. Serán incluidos en las áreas de reparto los terrenos destinados a sistemas generales, salvo cuando su propia magnitud determine la improcedencia de que sean obtenidos a través de los sistemas de reparto de cargas y beneficios.
+
+## CAPÍTULO III
+
+Aprovechamiento tipo
+
+### Artículo 99
+
+Artículo 99. Concepto y cálculo.
+1. Se entenderá por aprovechamiento tipo la edificabilidad unitaria ponderada en función de los distintos valores de repercusión del suelo de los usos característicos de la correspondiente área de reparto.
+El resultado reflejará siempre, unitariamente, la superficie edificable del uso y tipología característicos por cada metro cuadrado de suelo del área respectiva.
+2. El aprovechamiento tipo de cada área de reparto se obtendrá dividiendo el aprovechamiento lucrativo total, incluido el dotacional privado correspondiente a la misma, expresado siempre en metros cuadrados edificables del uso y tipología edificatoria característicos, por la superficie total del área, excluidos los terrenos afectos a dotaciones públicas que no hubieran sido obtenidos por expropiación anticipada en ejecución del plan, ya existentes en el momento de aprobación del mismo, y cuya superficie se mantenga.
+3. En los supuestos en que el plan general no establezca la edificabilidad por medio de un coeficiente, el aprovechamiento tipo deberá deducirse de la edificabilidad resultante por aplicación de las condiciones generales de la edificación establecidas por el propio planeamiento.
+4. Para que el aprovechamiento tipo pueda expresarse por referencia al uso y tipología edificatoria característicos, el planeamiento que contenga la ordenación detallada fijará, justificadamente, para el área de reparto, los coeficientes de ponderación relativa entre dicho uso y tipología, al que siempre se le asignará el valor de la unidad, y los restantes, a los que corresponderán valores superiores o inferiores, en función de las circunstancias concretas del municipio y área de reparto. Igualmente, habrá de señalar la cuantía de las dotaciones públicas cuya superficie se mantenga.
+5. En el momento de aprobación del instrumento de equidistribución podrá modificarse el aprovechamiento tipo del área de reparto en que se inserte, en atención a la adaptación del valor de los coeficientes de ponderación de los usos y tipologías a los valores reales o para adaptarlos a una medición exacta de las parcelas y dotaciones.
+6. Cuando el área de reparto contenga más de un sector o más de un ámbito de suelo urbano no consolidado, el aprovechamiento tipo será fijado por el plan general.
+
+## CAPÍTULO IV
+
+Polígonos de ejecución
+
+### Artículo 100
+
+Artículo 100. Polígonos.
+1. Los polígonos se configuran como los ámbitos territoriales que comportan la ejecución integral del planeamiento, siendo delimitados por el plan que contenga la ordenación detallada, de forma que permitan el cumplimiento conjunto de los deberes de justa distribución de cargas y beneficios, de cesión y de urbanización en la totalidad de su superficie.
+2. La ejecución del planeamiento se realizará por polígonos completos, salvo cuando se trate de ejecutar directamente los sistemas generales o las actuaciones aisladas previstas en el artículo 103.
+3. La delimitación de polígonos habrá de garantizar el equilibrio entre los beneficios y cargas dentro de cada área de reparto. A estos efectos, no podrán delimitarse polígonos que tengan una diferencia de aprovechamiento superior al 10 % en relación con el aprovechamiento tipo del área de reparto correspondiente ni que impliquen una desproporcionada diferencia de las cargas de urbanización.
+4. La delimitación de los polígonos definidos por el planeamiento podrá ser reajustada, de oficio o a instancia de parte, según los trámites procedimentales señalados en el artículo 106, sin alterar en ningún caso la ordenación urbanística establecida por el planeamiento.
+
+### Artículo 101
+
+Artículo 101. Polígonos con exceso de aprovechamiento real.
+1. Cuando los aprovechamientos permitidos por el planeamiento en un polígono excedan de los susceptibles de apropiación por los propietarios incluidos en aquél, los excesos corresponderán al municipio.
+2. Dichos excesos habrán de destinarse a compensar a propietarios con aprovechamiento real inferior al susceptible de apropiación en el área de reparto en que se encuentren.
+Si tras esta compensación existe aprovechamiento excedentario, habrá de destinarse a cualquiera de los fines del patrimonio municipal del suelo.
+
+### Artículo 102
+
+Artículo 102. Polígonos con aprovechamiento real inferior al susceptible de apropiación.
+Cuando los aprovechamientos permitidos por el planeamiento fueran inferiores a los susceptibles de apropiación por el conjunto de los propietarios, se compensará la diferencia con los excesos de aprovechamiento en otros polígonos del área de reparto que se encuentren en situación inversa.
+
+### Artículo 103
+
+Artículo 103. Actuaciones aisladas.
+El municipio podrá promover actuaciones aisladas en suelo urbano o en suelo de núcleo rural para hacer posible la ejecución de elementos concretos previstos por el planeamiento. La obtención de los terrenos necesarios se realizará mediante la aplicación de los mecanismos previstos en el artículo 129.1.
+
+## CAPÍTULO V
+
+Reglas generales para la equidistribución
+
+## Sección 1
+
+Sección 1.ª Principios y criterios
+
+### Artículo 104
+
+Artículo 104. Objeto.
+1. La equidistribución tiene por objeto distribuir justamente las cargas y los beneficios de la ordenación urbanística, regularizar la configuración de las fincas, situar su aprovechamiento en zonas aptas para la edificación de acuerdo con el planeamiento y localizar sobre parcelas determinadas el aprovechamiento que, en su caso, corresponda al municipio.
+2. Se entenderá por instrumento de equidistribución la agrupación de fincas comprendidas en el polígono para su nueva división ajustada al planeamiento, con adjudicación de las parcelas resultantes a los interesados en proporción a sus respectivos derechos. Además, la equidistribución supone la determinación de las indemnizaciones o compensaciones necesarias para que quede plenamente cumplido, dentro de su ámbito espacial, el principio de la justa distribución entre los interesados de las cargas y beneficios de la ordenación urbanística.
+3. A la equidistribución se le aplicarán de forma supletoria las normas de la expropiación forzosa.
+
+### Artículo 105
+
+Artículo 105. Contenido del instrumento de equidistribución.
+1. El instrumento de equidistribución tendrá en cuenta los siguientes criterios:
+a) El derecho de los propietarios será proporcional a la superficie de las parcelas respectivas.
+b) La valoración de las parcelas aportadas y de las resultantes deberá referirse al momento de inicio del procedimiento de aprobación del instrumento.
+c) Las plantaciones, obras, edificaciones, instalaciones y mejoras que no puedan conservarse se valorarán con independencia del suelo, debiendo satisfacerse su importe al propietario interesado con cargo al proyecto, en concepto de cargas de urbanización.
+d) Las obras de urbanización no contrarias al planeamiento vigente al tiempo de su realización que resulten útiles para la ejecución del nuevo plan serán consideradas igualmente como obras de urbanización con cargo al proyecto, satisfaciéndose su importe al titular del terreno sobre el que se hubieran realizado.
+e) Toda la superficie susceptible de aprovechamiento privado del polígono no destinada a un uso dotacional público habrá de ser objeto de adjudicación entre los propietarios afectados, en proporción a sus respectivos derechos en la equidistribución.
+f) El valor de las parcelas y las compensaciones económicas sustitutivas o complementarias por diferencias de adjudicación que, en su caso, procedan se calcularán de conformidad con lo establecido en la legislación estatal sobre valoraciones.
+g) Se procurará, siempre que sea posible, que las fincas adjudicadas estén ubicadas en un lugar próximo al de las antiguas propiedades de los mismos titulares.
+h) Cuando la escasa cuantía de los derechos de algún propietario no permita que se le adjudique una finca independiente, se le adjudicará en pro indiviso con otros propietarios. No obstante, si la cuantía de esos derechos no alcanzara el 15 % de la parcela mínima edificable, la adjudicación podrá sustituirse por una indemnización en metálico.
+2. En ningún caso podrán adjudicarse como fincas independientes superficies inferiores a la parcela mínima edificable ni superficies que no reúnan la configuración y las características adecuadas para su edificación de acuerdo con el planeamiento.
+3. Los terrenos edificados de acuerdo con el planeamiento no serán objeto de nueva adjudicación, conservándose las propiedades primitivas, sin perjuicio, cuando fuera necesario, de la regularización de lindes y de las compensaciones económicas que procedan.
+
+### Artículo 106
+
+Artículo 106. Procedimiento de aprobación del instrumento de equidistribución.
+1. Una vez aprobado inicialmente el instrumento de equidistribución por el órgano municipal competente, se someterá el proyecto a información pública por plazo mínimo de un mes a través de la correspondiente publicación en el Boletín Oficial de la provincia y en uno de los periódicos de mayor difusión de la provincia, con notificación individualizada a los interesados.
+2. La aprobación definitiva deberá recaer en el plazo máximo de tres meses desde la conclusión del trámite de información pública. Transcurrido este plazo sin resolución expresa, el instrumento de equidistribución se entenderá aprobado por silencio.
+3. Este procedimiento se aplicará con carácter supletorio a los sistemas de actuación indirectos previstos en la ley.
+
+### Artículo 107
+
+Artículo 107. Efectos de la aprobación del instrumento de equidistribución.
+1. El acuerdo aprobatorio del instrumento de equidistribución producirá los siguientes efectos:
+a) Transmisión al municipio, en pleno dominio y libre de cargas, de todos los terrenos de cesión obligatoria para su incorporación al patrimonio público del suelo o su afectación a los usos previstos en el planeamiento.
+b) Subrogación, con plena eficacia real, de las antiguas por las nuevas parcelas correspondientes.
+c) Afectación real de las parcelas adjudicadas al cumplimiento de las cargas y pago de los costes inherentes al sistema de actuación correspondiente.
+2. La aprobación definitiva del instrumento de equidistribución habilita a la Administración para proceder a la ocupación de los terrenos y bienes que, por su calificación urbanística, hayan de ser objeto de cesión obligatoria y gratuita y de aquellos otros incluidos en el ámbito que resulten necesarios para la ejecución material de las obras de urbanización.
+3. Una vez firme en vía administrativa el acuerdo de aprobación definitiva del instrumento de equidistribución, se procederá a su inscripción en el registro de la propiedad.
+
+### Artículo 108
+
+Artículo 108. Derecho de realojo y retorno.
+Los derechos de realojo y retorno de los ocupantes legales de viviendas que constituyan su residencia habitual se ejercerán de conformidad con lo establecido en la legislación estatal aplicable.
+
+### Artículo 109
+
+Artículo 109. Extinción o transformación de derechos y cargas.
+1. Cuando no tenga lugar la subrogación real, el acuerdo aprobatorio del instrumento de equidistribución producirá la extinción de los derechos reales y cargas constituidos sobre la finca aportada, corriendo a cargo del propietario que la aportó la indemnización correspondiente, fijándose su importe en el mencionado acuerdo.
+2. En los supuestos de subrogación real, si existieran derechos reales o cargas que se estimen incompatibles con el planeamiento, el acuerdo aprobatorio de la equidistribución declarará su extinción, fijando la indemnización correspondiente a cargo del propietario respectivo.
+3. Existiendo subrogación real y compatibilidad con el planeamiento urbanístico, si la situación y las características de la nueva finca fueran incompatibles con la subsistencia de los derechos reales o cargas que deberían recaer sobre ellos, las personas a quienes estos derechos o cargas favorecieran podrán obtener su transformación en un derecho de crédito con garantía hipotecaria sobre la nueva finca, en la cuantía en que la carga se hubiera valorado. El registrador de la propiedad que aprecie tal incompatibilidad lo hará constar así en el asiento respectivo. En defecto de acuerdo entre las partes interesadas, cualquiera de ellas podrá acudir al juzgado competente del orden civil para obtener una resolución declarativa de la compatibilidad o incompatibilidad y, en este último caso, para fijar la valoración de la carga y la constitución de la mencionada garantía hipotecaria.
+4. No obstante lo dispuesto en los números 1 y 2, las indemnizaciones por la extinción de servidumbres o derechos de arrendamiento incompatibles con el planeamiento o su ejecución se considerarán cargas de urbanización, correspondiendo a los propietarios en proporción a la superficie de sus respectivos terrenos.
+
+## Sección 2
+
+Sección 2.ª Operaciones de reorganización de la propiedad en suelo urbano consolidado o en suelo de núcleo rural
+
+### Artículo 110
+
+Artículo 110. Objeto.
+1. Cuando fuera necesario adaptar la configuración física de las parcelas en suelo urbano consolidado o en suelo de núcleo rural, en aplicación de las determinaciones del planeamiento urbanístico, el municipio podrá delimitar zonas de normalización de fincas, sin que ello produzca minoración de los aprovechamientos atribuidos por el plan ni imposición de cesión de aprovechamiento lucrativo a favor del municipio.
+Las eventuales variaciones en el valor de las fincas se compensarán en metálico o en la forma en que cada caso se establezca en el correspondiente procedimiento.
+2. El procedimiento para delimitar las zonas de normalización de fincas, si no se contuviera en el planeamiento de ordenación detallada, se iniciará de oficio o a instancia de parte, debiendo incluir una memoria y planos justificativos, sometiéndose a audiencia de los interesados por plazo de un mes. La resolución del procedimiento corresponde al órgano municipal competente.
+
+## CAPÍTULO VI
+
+Sistemas de actuación
+
+## Sección 1
+
+Sección 1.ª Disposiciones generales
+
+### Artículo 111
+
+Artículo 111. Clases de sistemas de actuación.
+1. Los polígonos se desarrollarán por el sistema de actuación que el planeamiento determine en cada caso.
+2. Los sistemas de actuación son los siguientes:
+a) Sistemas de actuación directos:
+1.º Cooperación.
+2.º Expropiación.
+b) Sistemas de actuación indirectos:
+1.º Concierto.
+2.º Compensación.
+
+### Artículo 112
+
+Artículo 112. Elección del sistema de actuación.
+1. El municipio elegirá el sistema de actuación aplicable teniendo en cuenta las características y complejidades de la iniciativa a desarrollar, los medios con los que cuente, la colaboración de la iniciativa privada y demás circunstancias que concurran.
+2. La determinación del sistema de actuación habrá de incluirse obligatoriamente en el plan general.
+La modificación del sistema de actuación podrá ser aprobada por el municipio, de oficio o a instancia de los particulares interesados, previa información pública por plazo de un mes mediante anuncio que se publicará en el Boletín Oficial de la provincia y con notificación individualizada a los propietarios afectados.
+En cualquier caso, el sistema de actuación podrá ser modificado en los instrumentos de planeamiento que contengan la ordenación detallada del suelo urbano no consolidado y del suelo urbanizable.
+
+### Artículo 113
+
+Artículo 113. Cumplimiento de las previsiones de gestión y urbanización establecidas.
+1. El cumplimiento de los deberes de cesión, equidistribución y urbanización habrá de ser desarrollado en los plazos establecidos al efecto.
+2. El deber de cesión y de distribución de cargas y beneficios se considerará cumplido con la aprobación definitiva del instrumento de equidistribución.
+3. El deber de ejecutar la urbanización se considerará cumplido con la recepción por el ayuntamiento de las obras previstas en el correspondiente proyecto de urbanización.
+4. Los propietarios que antes de finalizar el plazo establecido manifestasen su interés en desarrollar la actuación y garantizasen el cumplimiento de sus deberes mediante los correspondientes compromisos y garantías ante el municipio conservarán con plenitud sus derechos, integrándose en el proceso de ejecución que se desarrolle.
+5. Si la falta de ejecución del plan fuera imputable a la Administración, los propietarios afectados conservarán sus derechos a iniciar o proseguir el proceso urbanizador y edificatorio.
+
+### Artículo 114
+
+Artículo 114. Cargas de la urbanización.
+1. La totalidad de los costes de la urbanización y los generales del planeamiento y de la gestión serán sufragados por los afectados en proporción a los aprovechamientos que respectivamente les correspondan.
+2. El pago de estas cargas de urbanización podrá realizarse, previo acuerdo con los propietarios interesados, cediendo terrenos edificables en la proporción que se estime suficiente para compensarlos.
+
+### Artículo 115
+
+Artículo 115. Régimen de contratación de las obras de urbanización.
+La contratación de las obras de urbanización se realizará siempre de acuerdo con los principios de publicidad y concurrencia. Cuando el organismo contratante sea la Administración, tendrá que respetar además las prescripciones de la legislación de contratos de las administraciones públicas.
+
+## Sección 2
+
+Sección 2.ª Sistema de cooperación
+
+### Artículo 116
+
+Artículo 116. Determinaciones generales.
+1. En el sistema de cooperación los propietarios aportan el suelo de cesión obligatoria y la Administración ejecuta las obras de urbanización con cargo a ellos.
+2. La aplicación del sistema de cooperación exige la aprobación del proyecto de reparcelación de los terrenos comprendidos en el polígono.
+3. El proyecto de reparcelación será formulado de oficio por el municipio o por los propietarios que representen, como mínimo, el 25 % de la superficie del polígono.
+4. El procedimiento, contenido y demás normativa aplicable a la reparcelación se ajustará a lo dispuesto en el capítulo V del título IV de la presente ley.
+
+## Sección 3
+
+Sección 3.ª Sistema de expropiación
+
+### Artículo 117
+
+Artículo 117. Determinaciones generales.
+1. Mediante este sistema, la administración expropiante obtiene la propiedad de todos los bienes y derechos incluidos en el polígono y ejecuta las obras de urbanización.
+2. La expropiación se aplicará por polígonos completos y abarcará todos los bienes y derechos incluidos en los mismos, sin perjuicio de lo dispuesto en el artículo 119.
+3. El justiprecio expropiatorio de los terrenos se determinará de acuerdo con lo establecido en la legislación vigente.
+Su pago efectivo podrá realizarse:
+a) En metálico.
+b) Mediante acuerdo con el expropiado, en especie, asignándole aprovechamiento lucrativo de titularidad municipal o bienes afectos al patrimonio municipal del suelo, todo ello en correspondencia con el valor fijado como justiprecio, y previa valoración técnica del aprovechamiento transmitido.
+El pago del justiprecio solo se hará efectivo, consignándose en caso contrario su importe, en la forma determinada por la legislación básica del Estado.
+
+### Artículo 117 bis
+
+Artículo 117 bis. Modalidades de ejecución de las actuaciones en el sistema de expropiación.
+La Administración expropiante podrá utilizar, para el desarrollo de la actividad de ejecución de las actuaciones en el sistema de expropiación, todas las modalidades de gestión directa e indirecta admitidas por la legislación de régimen jurídico, de contratación de las administraciones públicas, de régimen local y de ordenación territorial y urbanística.
+Se añade por el art. 13.1 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 118
+
+Artículo 118. Tasación conjunta: tramitación, aprobación y efectos.
+1. En los supuestos del procedimiento de tasación conjunta, el expediente contendrá los siguientes documentos:
+a) Delimitación del ámbito territorial, con los documentos que lo identifiquen en cuanto a situación, superficie y lindes, con descripción de bienes y derechos afectados y relación de las personas titulares.
+b) Fijación de precios, con valoración razonada del suelo, según su calificación urbanística.
+c) Hojas de justiprecio individualizado de cada finca, en las cuales se contendrá no solo el valor del suelo, sino también el correspondiente a las edificaciones, obras, instalaciones y plantaciones.
+d) Hojas de justiprecio que correspondan a otras indemnizaciones.
+2. El proyecto de expropiación, con los documentos señalados, será aprobado inicialmente y expuesto al público por plazo de un mes, para que aquellas personas que pudieran resultar interesadas formulen las observaciones y reclamaciones que estimen convenientes, en particular en lo concerniente a la titularidad o valoración de sus respectivos derechos.
+3. La información pública se efectuará mediante la inserción de anuncios en el «Diario Oficial de Galicia» y en un periódico de los de mayor circulación de la provincia.
+4. Asimismo, las tasaciones se notificarán individualmente a aquellas personas que aparezcan como titulares de bienes o derechos en el expediente, mediante traslado literal de la correspondiente hoja de aprecio y de la propuesta de fijación de los criterios de valoración, para que puedan formular alegaciones en el plazo de un mes, a contar a partir de la fecha de notificación.
+5. Cuando el órgano expropiante no sea el municipio, se oirá a éste por igual plazo de un mes. El periodo de audiencia a la administración municipal podrá coincidir en todo o en parte con el de las personas interesadas.
+6. Emitido informe sobre las alegaciones, se someterá el expediente a la aprobación del órgano municipal o autonómico que sea competente. Se entiende que el órgano autonómico competente será la persona titular de la consejería expropiante.
+7. La resolución aprobatoria del expediente se notificará a las personas interesadas titulares de bienes y derechos que figuran en el mismo, confiriéndoseles un plazo de veinte días, durante el cual podrán manifestar por escrito ante el órgano expropiante su disconformidad con la valoración establecida en el expediente aprobado.
+En tal caso, se dará traslado del expediente y de la hoja de aprecio impugnada al Jurado de Expropiación de Galicia, a efectos de fijar el justiprecio, que, en todo caso, se hará de acuerdo con los criterios de valoración establecidos en la legislación vigente.
+8. Si las personas interesadas no formulasen oposición a la valoración en el citado plazo de veinte días, se entenderá aceptada la que se fijó en el acto aprobatorio del expediente, entendiéndose determinado el justiprecio definitivamente y de conformidad.
+9. Los errores no denunciados y justificados en el plazo señalado en el apartado 2 de este artículo no darán lugar a la nulidad o reposición de actuaciones, sin perjuicio de que las personas interesadas conserven su derecho a ser indemnizadas en la forma que corresponda.
+10. El acuerdo de aprobación definitiva del expediente de tasación conjunta implicará la declaración de urgencia de la ocupación de los bienes y derechos afectados.
+11. El pago o depósito del importe de la valoración establecida surtirá los efectos previstos en los números 6, 7 y 8 del artículo 52 de la Ley de expropiación forzosa, sin perjuicio de que continúe la tramitación del procedimiento para la definitiva fijación del justiprecio.
+
+### Artículo 119
+
+Artículo 119. Exclusión de la expropiación.
+1. En la aplicación del sistema de expropiación, el órgano expropiante podrá, de oficio o a instancia de parte, excluir de la misma determinados bienes y los terrenos edificados compatibles con el uso establecido por el plan que se ejecuta, cuando ello no dificulte los objetivos de la actuación y el propietario se comprometa a participar en el proceso de ejecución en las condiciones y términos que se fijen por acuerdo de la administración actuante.
+2. En ningún caso podrá acordarse la exclusión si la expropiación viene motivada por el incumplimiento de deberes urbanísticos.
+3. Cuando en los terrenos que vayan a excluirse de la expropiación resultase necesario efectuar una nueva distribución de parcelas para, en el ámbito excluido, hacer posible el reparto de cargas y beneficios, los propietarios formularán un proyecto de equidistribución que será aprobado por la administración actuante siguiendo el procedimiento regulado en el artículo 106.
+4. El incumplimiento de los deberes establecidos en la resolución por parte de los propietarios de los bienes excluidos determinará la expropiación por el incumplimiento de la función social de la propiedad o, en su caso, el ejercicio de la vía de apremio.
+
+## Sección 4
+
+Sección 4.ª Sistema de concierto
+
+### Artículo 120
+
+Artículo 120. Características del sistema.
+1. El sistema de concierto podrá utilizarse cuando todos los terrenos del polígono, salvo los de uso y dominio público, en su caso, pertenezcan a un único propietario, o bien cuando todos los propietarios del polígono garanticen solidariamente la actuación.
+2. En el sistema de concierto asumirá el papel de urbanizador el propietario único o el conjunto de propietarios que garanticen solidariamente la actuación.
+
+### Artículo 121
+
+Artículo 121. Formas de gestión del sistema.
+1. En el sistema de concierto la gestión podrá ser realizada:
+a) Mediante la constitución en escritura pública, por todos los propietarios, de una entidad urbanística de gestión, que tendrá naturaleza administrativa y duración limitada a la de la actuación.
+b) A través de una sociedad mercantil constituida a tal efecto, siempre que en su capital participen todos los propietarios.
+c) Directamente por el único propietario de la totalidad de los terrenos afectados.
+2. Cualquiera de los agentes citados en el apartado anterior tendrá la obligación de formular un proyecto de equidistribución ajustado al contenido del artículo 105 de la presente ley, así como unos estatutos por los que se regirá la actuación, salvo que se trate de propietario o propietaria única.
+3. El proyecto de equidistribución será aprobado según el procedimiento establecido por el artículo 106 de la presente ley, con las siguientes salvedades:
+a) La aprobación inicial corresponderá a cualquiera de los agentes citados en el apartado primero de este artículo, producida la cual habrá de remitirse al ayuntamiento el documento aprobado y certificación comprensiva del acuerdo.
+b) Únicamente será preceptiva la difusión de la información pública en el Boletín Oficial de la provincia, corriendo ello por cuenta de los agentes impulsores del sistema. En cualquier caso, el expediente se consultará en el ayuntamiento, razón por la que la publicación será siempre posterior a la presentación de la documentación citada en el apartado a).
+c) La aprobación definitiva deberá recaer en el plazo máximo de un mes desde la conclusión del trámite de información pública. Transcurrido dicho plazo sin resolución expresa, el instrumento de equidistribución se entenderá aprobado por silencio.
+4. La constitución en escritura pública de la entidad urbanística de gestión y de la sociedad mercantil podrá efectuarse en cualquier fase de la tramitación del proyecto de equidistribución y, como máximo, en el plazo de un mes desde la aprobación definitiva del mismo. Hasta ese momento, tendrá plenos efectos la formalización de las mismas en documento privado, siempre que este cumpla con el resto de requisitos señalados en el apartado primero de este artículo.
+5. Tanto a la entidad urbanística de gestión como a la sociedad constituida por los propietarios podrán incorporarse como miembros o socios personas o entidades que aporten financiación o asuman la realización de las obras de urbanización y edificación precisas.
+
+## Sección 5
+
+Sección 5.ª Sistema de compensación
+
+### Artículo 122
+
+Artículo 122. Concepto.
+En el sistema de compensación los propietarios aportan los terrenos de cesión obligatoria, realizan a su costa la urbanización en los términos y condiciones que se determinen en el plan y se constituyen en junta de compensación.
+
+### Artículo 123
+
+Artículo 123. Constitución de la junta de compensación.
+1. La aplicación del sistema de compensación requerirá que los propietarios presenten el proyecto de estatutos y de bases de actuación y que en el momento de su aprobación definitiva superen el 50 % de la superficie del polígono. El proyecto indicado podrá presentarse en el ayuntamiento simultáneamente con el planeamiento detallado o mientras el mismo esté en tramitación y, como máximo, en el plazo de tres meses, a contar desde la aprobación definitiva del referido planeamiento.
+La aprobación definitiva del proyecto de estatutos y de bases de actuación quedará condicionada a la previa aprobación definitiva del planeamiento que contemple la ordenación detallada.
+2. El órgano municipal competente procederá a su aprobación inicial, publicará el acuerdo de aprobación en el Boletín Oficial de la provincia y en uno de los periódicos de mayor difusión y lo someterá a información pública por plazo de un mes. De forma simultánea, lo notificará de forma individual a los propietarios o titulares de derechos patrimoniales en el polígono, a fin de que, por idéntico término, formulen las alegaciones pertinentes sobre el proyecto de las bases de actuación y estatutos y soliciten su incorporación. Concluida la fase de información pública, el órgano municipal competente deberá otorgar la aprobación definitiva en el plazo máximo de un mes, transcurrido el cual se entenderá aprobado por silencio administrativo.
+Podrá prescindirse de este procedimiento de aprobación de bases y estatutos de la junta de compensación si el ayuntamiento previamente hubiera aprobado, con carácter general, un modelo de bases y estatutos, con información pública en el Boletín Oficial de la provincia y en uno de los periódicos de mayor difusión, y los propietarios que superen el 50 % de la superficie del polígono hubieran consentido su aplicación, en escritura pública o documento administrativo fidedigno en el plazo establecido en el apartado primero.
+3. La junta de compensación habrá de constituirse en el plazo máximo de tres meses desde la aprobación definitiva de estatutos y bases de actuación, o, en su caso, desde que los propietarios hubieran consentido la aplicación del modelo general de bases y estatutos aprobado por el municipio.
+A estos efectos, se requerirá a todos los propietarios, mediante notificación individualizada, para que constituyan la junta de compensación en el plazo indicado.
+4. La junta de compensación tendrá naturaleza administrativa, personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+5. Un representante del municipio formará parte del órgano rector de la junta de compensación en todo caso, siendo designado en el acuerdo de aprobación definitiva de las bases y estatutos.
+6. Los acuerdos de la junta de compensación se adoptarán por mayoría simple de las cuotas de participación, salvo el de aprobación del proyecto de compensación, que requerirá la mayoría absoluta de cuotas, y aquellos otros para los cuales los estatutos exijan una mayoría cualificada.
+7. Los acuerdos de la junta de compensación serán recurribles ante el municipio.
+
+### Artículo 124
+
+Artículo 124. Incorporación de propietarios a la junta de compensación.
+1. Los propietarios del polígono podrán incorporarse con igualdad de derechos y obligaciones a la junta de compensación, si no lo hubieran hecho en un momento anterior, dentro del plazo de tres meses a partir del acuerdo de aprobación definitiva de los estatutos y bases de actuación de la junta de compensación o de la certificación administrativa de aplicación a este polígono concreto de las bases y estatutos aprobados con carácter general por el municipio. Transcurrido dicho plazo, la incorporación solo será posible si no obstaculiza el desarrollo del proceso y lo aprueba la junta de compensación, de conformidad con sus estatutos.
+Si algunos propietarios del polígono no se hubieran incorporado a la junta de compensación, esta podrá solicitar del municipio la expropiación de sus fincas, teniendo la condición de beneficiaria de la misma, o bien la ocupación de dichas fincas en favor de la junta de compensación, a fin de posibilitar la ejecución de las obras de urbanización previstas, reconociéndose a sus titulares el derecho a la adjudicación de terrenos edificables en proporción a la superficie aportada, con la reducción adecuada para compensar las cargas de urbanización correspondientes.
+En este último caso, aun si los terrenos hubieran quedado directamente afectados al cumplimiento de las obligaciones inherentes al sistema, la junta de compensación sólo actuará como fiduciaria con pleno poder dispositivo sobre las fincas que pertenezcan a los propietarios incorporados voluntariamente a la misma.
+En todo caso, si los propietarios afectados por la ocupación demostrasen que sus terrenos constituyen la única o predominante fuente de ingresos con la que cuentan, tendrán derecho a percibir una indemnización equivalente a la rentabilidad demostrada durante el periodo que medie entre la ocupación efectiva y la adjudicación que les corresponda, en el seno del proyecto de compensación, o a la expropiación de su derecho.
+2. Podrán también incorporarse a la junta de compensación empresas urbanizadoras que vayan a participar con los propietarios en la gestión del polígono.
+
+### Artículo 125
+
+Artículo 125. Proyecto de compensación.
+1. De acuerdo con lo establecido en las bases de actuación, la junta de compensación formulará el correspondiente proyecto de compensación. Para la definición de derechos aportados, valoración de las fincas resultantes, reglas de adjudicación, aprobación, efectos del acuerdo aprobatorio e inscripción en el registro de la propiedad del mencionado proyecto, se estará a lo dispuesto en el capítulo V del presente título. No obstante lo anterior, por acuerdo unánime de todos los afectados pueden adoptarse criterios diferentes referentes a la definición de derechos aportados, valoración de las fincas resultantes y reglas de adjudicación, siempre que no sean contrarios a la ley o al planeamiento aplicable ni lesivos para el interés público o de terceros.
+2. En el proyecto de compensación deberá incluirse la valoración y correspondiente indemnización de los derechos que se extingan. Podrá acudirse ante el Jurado de Expropiación de Galicia en caso de discrepancia con la valoración aprobada en el proyecto de compensación. La aprobación definitiva del proyecto de compensación constituirá título suficiente para la ocupación de los inmuebles que correspondan, una vez que se constituya en depósito o se efectúe el pago de las indemnizaciones a que se refiere este número.
+3. El proyecto de compensación será aprobado según el procedimiento establecido por el artículo 106 de la presente ley, con la salvedad de que la aprobación inicial corresponderá a la junta de compensación.
+
+### Artículo 126
+
+Artículo 126. Junta de compensación y transmisión de terrenos.
+1. La incorporación de los propietarios a la junta de compensación no presupone, salvo que los estatutos dispusieran otra cosa, la transmisión a la misma de los inmuebles. En todo caso, los terrenos quedarán directamente afectados al cumplimiento de las obligaciones inherentes al sistema, con anotación en el registro de la propiedad en la forma que determina la legislación estatal.
+2. Las juntas de compensación actuarán como fiduciarias con pleno poder dispositivo sobre las fincas pertenecientes a los propietarios miembros de aquéllas, sin más limitaciones que las establecidas en los estatutos.
+3. La transmisión a la administración correspondiente de todos los terrenos de cesión obligatoria, en pleno dominio y libre de cargas, tendrá lugar por ministerio de la ley con la aprobación definitiva del proyecto de compensación.
+
+### Artículo 127
+
+Artículo 127. Responsabilidad de la junta de compensación y obligaciones de sus miembros.
+1. La junta de compensación será directamente responsable, frente a la administración competente, de la urbanización completa del polígono y, en su caso, de la edificación de los solares resultantes, cuando así se hubiera establecido.
+2. El incumplimiento por los miembros de la junta de compensación de las obligaciones y cargas impuestas por la presente ley habilitará al municipio para expropiar sus respectivos derechos en favor de la junta de compensación, que tendrá la condición jurídica de beneficiaria.
+3. Las cantidades adeudadas a la junta de compensación por sus miembros podrán ser exigidas por vía de apremio, previa petición de la junta de compensación al municipio.
+
+### Artículo 128
+
+Artículo 128. Sustitución del sistema de compensación.
+1. En el supuesto de que no se consiga la participación voluntaria de propietarios que representen la superficie requerida para la determinación del sistema de compensación y aprobación de estatutos, bases de actuación y proyecto de compensación, aquellos que estén dispuestos a promover la ejecución podrán solicitar del municipio la sustitución del sistema por alguno de los sistemas de actuación directos.
+2. Los propietarios que formulen esta petición y se comprometan a hacer efectivas sus obligaciones conservarán la plenitud de sus derechos, pudiendo realizar las operaciones de colaboración previstas en los sistemas de actuación directos siempre que cumplan las condiciones establecidas para cada supuesto.
+
+## CAPÍTULO VII
+
+Obtención de terrenos de sistemas generales y locales
+
+### Artículo 129
+
+Artículo 129. Obtención del suelo de los sistemas generales y locales.
+1. Los terrenos destinados por el planeamiento a sistemas generales que hayan de implantarse sobre suelo urbano consolidado, de núcleo rural o rústico, y a sistemas locales en suelo urbano consolidado y en suelo de núcleo rural se obtendrán mediante expropiación forzosa, por convenio entre la Administración y el propietario o por permuta forzosa con terrenos del patrimonio público municipal del suelo.
+2. Tanto en el supuesto del convenio como en el caso de la permuta forzosa los técnicos municipales tasarán previamente el valor de los terrenos a obtener y el de los aprovechamientos o suelos municipales conforme a los criterios de valoración establecidos en la legislación estatal aplicable.
+3. Los terrenos destinados por el planeamiento a sistemas generales en suelo urbano no consolidado, en suelo urbanizable o, en su caso, en suelo rústico incluido en un área de reparto y los destinados a sistemas locales en suelo urbano no consolidado, actuaciones integrales en suelo de núcleo rural y en suelo urbanizable se obtendrán:
+a) Por cesión obligatoria derivada de su inclusión o adscripción en un área de reparto y en el correspondiente polígono.
+b) Por ocupación directa.
+c) Por permuta forzosa.
+d) Mediante expropiación forzosa.
+e) Por convenio urbanístico entre la Administración y el propietario.
+4. La obligación de cesión gratuita de los terrenos destinados a sistemas generales incluidos en un polígono o sector y de los terrenos de los sistemas locales comprende también la realización de las obras de urbanización, a costa de los propietarios, en las condiciones que establezca el plan general.
+
+### Artículo 130
+
+Artículo 130. Permuta forzosa.
+1. Los terrenos destinados a sistemas generales o locales podrán obtenerse mediante permuta forzosa con terrenos pertenecientes al patrimonio público de suelo y que sean de características adecuadas para servir de soporte al aprovechamiento urbanístico que corresponda subjetivamente a su propietario, salvo que este aceptase voluntariamente la entrega de terrenos que no cumplan este requisito.
+2. La permuta forzosa de terrenos requiere que se determine previamente:
+a) El aprovechamiento urbanístico que corresponde al propietario afectado.
+b) Los terrenos pertenecientes al patrimonio público de suelo que van a ser permutados.
+c) De no poder ser materializada la totalidad del aprovechamiento, la indemnización a satisfacer en metálico por la parte de aprovechamiento no materializable en los mismos.
+3. La permuta forzosa de terrenos se llevará a cabo por el procedimiento que se establezca reglamentariamente.
+
+### Artículo 131
+
+Artículo 131. Ocupación directa.
+1. Se entiende por ocupación directa la obtención de terrenos destinados a sistemas generales y locales mediante el reconocimiento a su titular del derecho al aprovechamiento en el polígono a que se vincule.
+2. La ocupación directa requiere que esté aprobada la ordenación pormenorizada, tanto de los terrenos que se van a ocupar, con determinación del aprovechamiento que corresponda a sus propietarios, como del polígono en que vayan a integrarse.
+3. El procedimiento de aplicación de la ocupación directa se ajustará a las disposiciones reglamentarias que se dicten.
+
+## TÍTULO V
+
+Patrimonios públicos del suelo
+
+### Artículo 132
+
+Artículo 132. Constitución.
+Los ayuntamientos y la Administración autonómica, en colaboración con los mismos, habrán de constituir sus respectivos patrimonios públicos del suelo con la finalidad de obtener reservas de suelo para actuaciones de iniciativa pública, contribuir a la reglamentación del mercado de terrenos destinados al desarrollo urbanístico y facilitar la ejecución de la ordenación territorial y urbanística en el marco de sus competencias respectivas.
+
+### Artículo 133
+
+Artículo 133. Bienes que integran el patrimonio público del suelo.
+Integran los patrimonios públicos del suelo:
+a) Los terrenos y edificaciones obtenidos en virtud de las cesiones correspondientes a la participación de la Administración en el aprovechamiento urbanístico y los adquiridos con los ingresos derivados de la sustitución de tales cesiones con pagos en dinero o en especie.
+b) Los terrenos y edificaciones adquiridos, en virtud de cualquier título y, en especial, mediante expropiación, por la administración titular con el fin de su incorporación al correspondiente patrimonio público del suelo.
+c) Los ingresos obtenidos mediante la enajenación de terrenos incluidos en los patrimonios públicos del suelo.
+d) El equivalente económico de la cesión relativa al aprovechamiento correspondiente a la Administración.
+
+### Artículo 134
+
+Artículo 134. Destino del patrimonio público del suelo.
+1. Los bienes del patrimonio público del suelo constituyen un patrimonio diferenciado de los restantes bienes de la administración titular, debiendo ser destinados a alguno de los siguientes fines:
+a) Construcción de viviendas sujetas a algún régimen de protección pública.
+b) Actuaciones públicas de interés social y las vinculadas a la propia planificación y gestión urbanística, en especial al pago en especie, mediante permuta, de los terrenos destinados a sistemas generales y locales de dotaciones públicas, o a gastos de realojo y retorno y pago de indemnizaciones o justiprecios por actuaciones urbanísticas.
+c) Conservación y mejora del medio ambiente, del medio rural y del patrimonio cultural construido.
+d) Creación de suelo para el ejercicio de actividades empresariales compatibles con el desarrollo sostenible.
+e) Conservación, gestión y ampliación del propio patrimonio público del suelo.
+f) Aquellas otras finalidades previstas en la legislación vigente.
+2. La enajenación o la permuta de los bienes del patrimonio público del suelo se realizará por precio no inferior al de su aprovechamiento urbanístico, en la forma establecida en la legislación reguladora de los patrimonios de las administraciones públicas y con las condiciones que se detallen reglamentariamente.
+3. Los municipios podrán ceder gratuitamente los bienes incluidos en el patrimonio público del suelo observando su finalidad urbanística con destino a vivienda de promoción pública o para usos de interés social, en los supuestos previstos en la legislación vigente y cumpliendo los requisitos establecidos en ella.
+
+## TÍTULO VI
+
+Intervención en la edificación y uso del suelo y disciplina urbanística
+
+## CAPÍTULO I
+
+Fomento de la edificación, conservación y rehabilitación
+
+### Artículo 135
+
+Artículo 135. Deberes de uso, conservación y rehabilitación.
+1. Los propietarios de toda clase de terrenos, construcciones, edificios e instalaciones habrán de:
+a) Emprender la edificación o rehabilitación en los términos y plazos establecidos en la legislación vigente. El deber de edificar incluye el deber de los propietarios de terminar las edificaciones para cuya ejecución obtuvieron la preceptiva licencia.
+b) Destinarlos a los usos que sean compatibles con la ordenación territorial y urbanística.
+c) Conservarlos en las condiciones legales para servir de soporte a dichos usos y, en todo caso, en las de seguridad, salubridad, accesibilidad universal y ornato legalmente exigibles.
+d) Realizar los trabajos y las obras necesarias para satisfacer los requisitos básicos de la edificación establecidos en las normas legales que les sean exigibles en cada momento.
+e) Realizar obras adicionales por motivos turísticos o culturales o para la mejora de la calidad y sostenibilidad del medio urbano.
+2. El deber de conservación a cargo de los propietarios alcanza hasta el importe correspondiente a la mitad del valor actual de construcción de un inmueble de nueva planta, equivalente al original en relación con las características constructivas y la superficie útil, realizado con las condiciones necesarias para que su ocupación sea autorizable o, en su caso, quede en condiciones de ser destinado legalmente al uso que le sea propio.
+3. Los propietarios de terrenos conservarán y mantendrán el suelo natural y, en su caso, la masa vegetal en las condiciones precisas que eviten la erosión y los incendios, impidiendo la contaminación de la tierra, el aire y el agua, y demás condiciones que se determinen en la legislación vigente.
+
+### Artículo 136
+
+Artículo 136. Órdenes de ejecución.
+1. Los ayuntamientos, de oficio o a instancia de cualquier interesado, mediante el correspondiente expediente y previa audiencia de los interesados, dictarán órdenes de ejecución que obliguen a los propietarios de bienes inmuebles a:
+a) Realizar las actuaciones necesarias para dar debido cumplimiento a los deberes señalados en el artículo anterior.
+b) Realizar las actuaciones necesarias para adaptar las edificaciones y construcciones al entorno, según lo establecido en el artículo 91 de la presente ley.
+2. Las órdenes de ejecución habrán de contener la determinación concreta de las obras a realizar conforme a las condiciones establecidas en la presente ley o en el planeamiento urbanístico. Asimismo, deberán fijar el plazo para el cumplimiento voluntario por el propietario de lo ordenado, que se determinará en razón directa a la importancia, volumen y complejidad de las obras a realizar.
+3. Las obras se ejecutarán a costa de los propietarios si estuvieran dentro del límite del deber de conservación que les corresponde, y con cargo a los fondos de la entidad que la ordene cuando lo superara para obtener mejoras de interés general.
+4. En caso de incumplimiento de la orden de ejecución, la administración municipal procederá a la ejecución forzosa mediante la imposición de multas coercitivas de 1.000 a 10.000 euros, reiterables trimestralmente, sin que en ningún caso puedan superar individualmente o en su conjunto el 75 % del coste de reposición de la edificación o de una nueva construcción con características similares, excluido el valor del suelo.
+5. La administración municipal también podrá acudir a la ejecución subsidiaria, de manera directa o a través de un agente edificador con capacidad y compromiso suficiente para asumir las responsabilidades previstas en este artículo, con la obligación de solicitar licencia de obra en el plazo de tres meses, a contar desde la fecha en la que esté resuelta la disponibilidad del terreno y tras la correspondiente expropiación del mismo.
+
+### Artículo 137
+
+Artículo 137. Registro de Solares.
+1. Los municipios podrán crear un Registro de Solares, en el cual se incluirán los solares y las construcciones en ruina o aquellas sobre las que no se hubieran realizado las obligaciones contempladas en los artículos anteriores, una vez que se haya constatado que las medidas de ejecución forzosa resultan ineficaces para su cumplimiento.
+2. La inscripción en el Registro de Solares será comunicada por la administración actuante al Registro de la Propiedad.
+3. En los municipios en los que exista Registro de Solares será de aplicación lo dispuesto en los artículos 138 y 139 de la presente ley.
+Se modifica por la disposición final 1.1 de la Ley 1/2019, de 22 de abril. Ref. BOE-A-2019-7839#df
+
+### Artículo 138
+
+Artículo 138. Venta forzosa.
+1. El ayuntamiento, en el plazo máximo de un año desde la inclusión del inmueble en el Registro de Solares, lo sacará a subasta pública, con el tipo de licitación que resulte de la valoración del inmueble.
+2. Si la subasta fuese declarada desierta, el ayuntamiento, en el plazo de seis meses, podrá adquirir el inmueble con destino al patrimonio público del suelo o se convocará de nuevo, en el mismo plazo, con rebaja del precio tipo en un 25 %.
+3. Si la segunda subasta también quedara desierta, el ayuntamiento, en el plazo de otros seis meses, podrá adquirir el inmueble con destino al patrimonio público del suelo por el precio de licitación de la segunda subasta.
+4. El precio obtenido se entregará al propietario, al que en ningún caso le corresponderá una cantidad superior a la valoración del inmueble, deducidos los gastos ocasionados y, en su caso, las sanciones aplicables, correspondiendo el diferencial a la Administración.
+5. Transcurridos los plazos establecidos en los apartados anteriores sin que el ayuntamiento hubiera realizado los correspondientes trámites, la inclusión del inmueble en el Registro de Solares quedará sin efectos.
+
+### Artículo 139
+
+Artículo 139. Obligaciones del adquirente.
+El adquirente de solares y construcciones en el procedimiento de venta forzosa quedará obligado a iniciar o reanudar las obras de edificación o rehabilitación en el plazo de un año a partir de la fecha de toma de posesión de la finca.
+El incumplimiento por el adquirente de las anteriores obligaciones determinará de nuevo la inclusión del inmueble en el Registro de Solares.
+
+### Artículo 140
+
+Artículo 140. Actuación directa o a través de una sociedad urbanística.
+1. Las administraciones con competencias urbanísticas podrán aprobar programas de edificación forzosa, en los que se delimiten áreas prioritarias a los efectos de la edificación o rehabilitación forzosa.
+2. Cuando se incumpliese el deber de edificar en algún terreno incluido en estas áreas, la Administración podrá expropiarlo a fin de asumir la edificación, o bien encomendar a una sociedad urbanística pública el desarrollo de la actuación. En este último caso, la sociedad urbanística actuará como beneficiaria de la expropiación, asumiendo frente a la Administración el deber de edificar en los plazos que se fijen en el convenio que regule la actuación, que en ningún caso podrán ser más largos que los otorgados inicialmente al propietario.
+
+### Artículo 141
+
+Artículo 141. Declaración de ruina.
+1. Cuando alguna construcción o parte de ella estuviera en estado ruinoso, el ayuntamiento, de oficio o a instancia de cualquier interesado, declarará esta situación y acordará la total o parcial demolición, o lo procedente para garantizar la seguridad, previa tramitación del oportuno expediente contradictorio con audiencia del propietario y de los moradores, salvo inminente peligro que lo impidiera.
+2. Procederá la declaración de situación legal de ruina en los siguientes supuestos:
+a) Cuando el coste de las obras necesarias excediese de la mitad del coste de reposición de la edificación o de una nueva construcción con características similares, excluido el valor del suelo.
+b) Cuando el edificio presentase un agotamiento generalizado de sus elementos estructurales fundamentales.
+3. En caso de incumplimiento de lo acordado por el ayuntamiento, se procederá de conformidad con lo dispuesto en el artículo 136.4 de la presente ley.
+4. En los bienes catalogados se estará a lo dispuesto en la legislación del patrimonio histórico aplicable.
+5. Si existiera urgencia y peligro en la demora, el alcalde, bajo su responsabilidad, por motivos de seguridad, dispondrá lo necesario respecto a la habitabilidad del inmueble y el desalojo de los ocupantes.
+
+## CAPÍTULO II
+
+Intervención en la edificación y uso del suelo
+
+## Sección 1
+
+Sección 1.ª Títulos habilitantes de naturaleza urbanística
+
+### Artículo 142
+
+Artículo 142. Licencias urbanísticas y comunicaciones previas.
+1. La licencia urbanística y la comunicación previa tienen por finalidad el sometimiento al control municipal de los actos de edificación y uso del suelo.
+2. Estarán sujetos a licencia municipal, sin perjuicio de las autorizaciones que fueran procedentes de acuerdo con la legislación sectorial aplicable, los siguientes actos:
+a) Los actos de edificación y uso del suelo y del subsuelo que, con arreglo a la normativa general de ordenación de la edificación, precisen de proyecto de obras de edificación.
+b) Las intervenciones en inmuebles declarados bienes de interés cultural o catalogados por sus singulares características o valores culturales, históricos, artísticos, arquitectónicos o paisajísticos.
+c) Las demoliciones, salvo las derivadas de resoluciones de expedientes de restauración de la legalidad urbanística.
+d) Los muros de contención de tierras, según se establezca reglamentariamente.
+e) Los grandes movimientos de tierras y las explanaciones.
+f) Las parcelaciones, segregaciones u otros actos de división de terrenos en cualquier clase de suelo, cuando no formasen parte de un proyecto de reparcelación.
+g)(Sin contenido).
+h) La implantación de cualquier instalación de uso residencial, ya sea provisional o permanente.
+i) La tala de masas arbóreas o de vegetación arbustiva en terrenos incorporados a procesos de transformación urbanística y, en todo caso, cuando dicha tala se derivase de la legislación de protección del dominio público.
+3. Quedan sujetos al régimen de intervención municipal de comunicación previa los actos de edificación y uso del suelo y del subsuelo no sujetos a licencia y, en todo caso, los que así se establezcan en las leyes. La comunicación previa se realizará en los términos que se prevea reglamentariamente. Los ayuntamientos podrán establecer los procedimientos de comunicación necesarios, así como los de verificación posterior del cumplimiento de los requisitos precisos.
+4. Las empresas suministradoras de energía eléctrica, agua, gas y telecomunicaciones exigirán para la realización de las obras de acometida conexión con las redes de servicios o, en su caso, para la contratación de los respectivos servicios el título habilitante de naturaleza urbanística que resulte preciso.
+5. Podrán presentarse comunicaciones previas de primera ocupación parciales, por edificios o portales completos, en los términos y condiciones que se determinan reglamentariamente.
+Se deja sin contenido la letra g) del apartado 2 y se añade el apartado 5 por el art. 14.7 y 8 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+### Artículo 143
+
+Artículo 143. Procedimiento de otorgamiento de licencias.
+1. Las licencias se otorgarán de acuerdo con las previsiones de la legislación y del planeamiento urbanísticos.
+En ningún caso se entenderán adquiridas por silencio administrativo facultades o derechos que contravengan la ordenación territorial o urbanística.
+2. La competencia para otorgar las licencias corresponde a los municipios, según el procedimiento previsto en la legislación de régimen local. Las peticiones de licencia se resolverán en el plazo de tres meses, a contar desde la presentación de la solicitud con la documentación completa en el registro del ayuntamiento.
+Para el otorgamiento de la licencia solicitada serán preceptivos los informes técnicos y jurídicos municipales sobre su conformidad con la legalidad urbanística, sin perjuicio de lo indicado en el apartado 3 del artículo 146 bis.
+3. A las solicitudes de licencias que se refieran a la ejecución de obras o instalaciones deberá aportarse proyecto básico redactado por un técnico competente, en la forma y con el contenido que se determine reglamentariamente.
+Una vez presentado ante el ayuntamiento, el proyecto adquiere el carácter de documento público, y su autor responde de la exactitud y veracidad de los datos técnicos consignados en el mismo.
+4. En el supuesto de que la licencia urbanística fuera otorgada en base a un proyecto básico, el inicio de las obras autorizadas exigirá la presentación de una comunicación previa, acompañada del correspondiente proyecto de ejecución y de la documentación complementaria que proceda.
+Con dicha comunicación previa se juntará, además, un documento firmado por la persona técnica que haya redactado el proyecto de ejecución, donde señale que este se ajusta y desarrolla las determinaciones del proyecto básico que sirvió para la concesión de la licencia sin introducir modificaciones sustanciales.
+Si el proyecto de ejecución modifica de forma sustancial el proyecto básico autorizado, la persona interesada deberá solicitar previamente la modificación de la licencia otorgada con la documentación exigida y no podrá iniciar la obra mientras no la obtenga.
+A estos efectos, tendrán la consideración de modificaciones sustanciales del proyecto básico los cambios de uso, así como aquellas que afecten de forma significativa a las condiciones de volumen y forma de los edificios, la posición y ocupación del edificio en la parcela, la edificabilidad, las alturas, los retranqueos y la separación a colindante, el número de viviendas, las condiciones de seguridad y otras de incidencia análoga.
+5. En caso de que la licencia hubiese sido otorgada con base en el proyecto básico y de ejecución, las obras podrán iniciarse desde la fecha de los efectos de dicha licencia.
+Se modifica el apartado 4 por el art. 61.20 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 2 y se añaden los apartados 4 y 5 por el art. 81.12 y 13 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se suprime el apartado 4 por el art. 14.9 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+ Se modifica el apartado 3 por el art. 7.4 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+
+### Artículo 144
+
+Artículo 144. Prelación de licencias y otros títulos administrativos.
+1. Cuando los actos de edificación y uso del suelo y del subsuelo fueran realizados en terrenos de dominio público, se exigirán las autorizaciones o concesiones preceptivas previas por parte del titular del dominio público. La falta de estas o su denegación impedirá al órgano competente otorgar la licencia y al particular obtener el título habilitante.
+2. Cuando la obra tenga por objeto el desarrollo de una actividad, se consignará expresamente esa circunstancia.
+3. En el supuesto de que los actos de edificación y uso del suelo y del subsuelo sujetos a licencia urbanística requiriesen la previa evaluación de impacto ambiental, no podrá otorgarse la licencia municipal con anterioridad a la declaración de impacto o efectos ambientales dictada por el órgano ambiental competente, o cuando fuera negativa o se hubieran incumplido las medidas correctoras determinadas en la misma.
+4. No podrá presentarse la comunicación previa ni concederse licencia sin que se acredite el previo otorgamiento de las autorizaciones urbanísticas o sectoriales de otras administraciones públicas, cuando fueran procedentes de acuerdo con lo dispuesto en la presente ley.
+
+### Artículo 145
+
+Artículo 145. Caducidad de las licencias.
+1. En el acto de otorgamiento de la licencia de edificación se determinarán los plazos de caducidad por causa de demora en la iniciación y finalización de las obras, así como por causa de interrupción de las mismas.
+En su defecto, el plazo de iniciación no podrá exceder de seis meses y el de terminación de tres años, desde la fecha de su otorgamiento, no pudiendo interrumpirse las obras por tiempo superior a seis meses.
+2. Los municipios podrán conceder prórroga de los referidos plazos de la licencia, previa solicitud expresa, siempre que la licencia fuese conforme con la ordenación urbanística vigente en el momento de la concesión de la prórroga. Cada prórroga que se solicite no podrá ser por plazo superior al inicialmente acordado.
+3. En el supuesto de edificaciones iniciadas, la concesión de la prórroga estará condicionada a que la edificación sea acabada exteriormente.
+4. La caducidad será declarada por la administración municipal tras el procedimiento con audiencia al interesado.
+
+### Artículo 146
+
+Artículo 146. Procedimiento para la tramitación de las comunicaciones previas.
+1. Cuando se trate de actos sujetos al régimen de intervención municipal de comunicación previa, el promotor comunicará al ayuntamiento la intención de llevar a cabo el acto con una antelación mínima de quince días hábiles a la fecha en que pretenda comenzar su ejecución. La comunicación habrá de ir acompañada de la siguiente documentación:
+a) Descripción técnica de las características del acto de que se trate o, en su caso, proyecto técnico legalmente exigible.
+b) Manifestación expresa de que la comunicación previa presentada cumple en todos sus extremos con la ordenación urbanística de aplicación.
+c) Copia de las autorizaciones, concesiones administrativas o informes sectoriales cuando fueran legalmente exigibles al solicitante, o acreditación de que se ha solicitado su otorgamiento.
+d) Autorización o documento de evaluación ambiental, en caso de requerirla el uso a que se destinen las obras.
+e) Justificante de pago de los tributos municipales, la documentación que se determine reglamentariamente y, especialmente, las autorizaciones sectoriales preceptivas.
+f) Certificado acreditativo de la efectiva y completa finalización de las obras suscrito por técnico competente, visado por el colegio profesional cuando así lo exija la normativa vigente, en el caso de comunicación previa de primera ocupación de edificaciones amparadas en licencia de obras que requieran proyecto técnico.
+g) Documentación justificativa de la puesta en funcionamiento de las instalaciones ejecutadas en el inmueble de conformidad con su normativa reguladora y, en su caso, certificación emitida por las empresas suministradoras de los servicios públicos de la adecuada ejecución de las acometidas de las redes de suministro, en el caso de comunicación previa de primera ocupación de edificaciones.
+2. Dentro de los quince días hábiles siguientes a la comunicación, el ayuntamiento, sin perjuicio de la comprobación del cumplimiento de los requisitos, podrá declarar completa la documentación presentada o requerir la subsanación de las deficiencias que presentase la documentación, adoptando en este caso, motivadamente, las medidas provisionales que entienda oportunas para evitar toda alteración de la realidad en contra de la ordenación urbanística aplicable, comunicándolas a la persona interesada por cualquier medio que permita acreditar su recepción.
+Con carácter general, transcurrido el plazo de quince días hábiles señalado, la presentación de la comunicación previa cumpliendo con todos los requisitos exigidos constituye título habilitante para el inicio de los actos de uso del suelo y del subsuelo sujetos a la misma, sin perjuicio de las posteriores facultades de comprobación, control e inspección por parte del ayuntamiento respectivo.
+3. Cuando hayan de realizarse diversas actuaciones relacionadas con la misma edificación o inmueble, se presentará una única comunicación previa.
+Se añaden las letras f) y g) al apartado 1 por el art. 14.10 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+### Artículo 146 bis
+
+Artículo 146 bis. Solicitudes de licencia y comunicaciones presentadas con certificación de conformidad.
+1. Las solicitudes de licencia y las comunicaciones que tengan por objeto actos de edificación o de uso del suelo o del subsuelo podrán presentarse acompañadas de una certificación de conformidad con la legalidad urbanística y el planeamiento aplicable, emitida por una entidad de certificación de conformidad municipal debidamente acreditada en los términos que se establezcan reglamentariamente, e inscrita en el Registro de Entidades de Certificación de Conformidad Municipal de la Comunidad Autónoma de Galicia, dependiente de la consejería competente en materia de urbanismo.
+2. Cuando una solicitud de licencia urbanística se presente acompañada de una certificación de conformidad en los términos establecidos por este artículo, dicha certificación tendrá la misma validez y efectos que los informes técnicos y jurídicos municipales, que se entenderán sustituidos por dicha certificación.
+3. El plazo de resolución del procedimiento será de un mes, a contar desde la presentación de la solicitud con la documentación completa, incluida la certificación de conformidad, en el registro del ayuntamiento.
+4. El órgano municipal competente otorgará la licencia asumiendo la certificación de conformidad con la legalidad urbanística y el planeamiento aplicable de la entidad de certificación de conformidad municipal que acredite expresamente que el proyecto fue sometido a esa verificación favorable.
+El otorgamiento de la licencia solo podrá ser denegado si, dentro del plazo previsto en el apartado anterior, le consta al órgano municipal la inadecuación de la certificación a la realidad examinada o a la legalidad vigente.
+5. La presentación de una comunicación urbanística acompañada de la documentación exigida en esta ley y en el resto de la normativa aplicable y de una certificación de conformidad en los términos establecidos en el presente artículo, habilitará, con efectos inmediatos desde su presentación en el registro del ayuntamiento, para la realización del acto de uso del suelo o del subsuelo que constituya su objeto.
+6. Las entidades de certificación de conformidad municipal serán las únicas responsables frente al ayuntamiento del contenido de las certificaciones emitidas y su actuación sustituye a la responsabilidad de las demás personas interesadas.
+7. Los ayuntamientos, mediante ordenanza, podrán excluir expresamente la intervención de las ECCOM tanto en la tramitación de los títulos habilitantes municipales de naturaleza urbanística como en la verificación, la inspección y el control del cumplimiento de la normativa aplicable en cada caso.
+La exclusión podrá ser total o parcial y limitarse a actuaciones específicas y ámbitos territoriales concretos.
+No obstante lo anterior, para los supuestos de actuaciones sujetas a licencia urbanística, las personas interesadas podrán hacer uso de los servicios de las entidades certificadoras una vez vencido el plazo máximo del procedimiento sin que se haya notificado resolución expresa, resultando entonces de aplicación lo dispuesto en los apartados 2, 3 y 4 de este artículo.
+Se modifica por el art. 81.14 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se añade por el art. 14.11 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
+
+### Artículo 147
+
+Artículo 147. Actos promovidos por las administraciones públicas.
+1. Los actos relacionados en el artículo 142 que promuevan órganos de las administraciones públicas o de derecho público estarán sujetos a control municipal por medio de la obtención de licencia municipal o comunicación previa, salvo los supuestos exceptuados por la legislación aplicable.
+2. Las obras públicas municipales se entenderán autorizadas por el acuerdo de aprobación del proyecto previa acreditación en el expediente del cumplimiento de la legislación urbanística y sectorial, así como del planeamiento en vigor.
+
+## Sección 2
+
+Sección 2.ª Parcelaciones
+
+### Artículo 148
+
+Artículo 148. Parcelaciones urbanísticas.
+Se considerará parcelación urbanística la división de terrenos en dos o más lotes a fin de su edificación.
+
+### Artículo 149
+
+Artículo 149. División y segregación de fincas en suelo rústico.
+En el suelo rústico no podrán realizarse segregaciones, salvo en el supuesto de ejecución de infraestructuras y dotaciones y en el caso de parcelas vinculadas a instalaciones o explotaciones que hubieran sido declaradas de utilidad pública y beneficiarias de expedientes de expropiación.
+No obstante, se permiten segregaciones con la finalidad de reorganizar la propiedad, siempre y cuando no resulte un mayor número de parcelas respecto al originariamente existente.
+
+### Artículo 150
+
+Artículo 150. Régimen de parcelaciones y divisiones de terrenos.
+1. No podrá efectuarse ninguna parcelación urbanística sin que previamente haya sido aprobado el planeamiento urbanístico exigible según la clase de suelo de que se trate y el instrumento de gestión correspondiente. Queda prohibida en suelo rústico la realización de parcelaciones urbanísticas.
+2. No podrá realizarse ninguna parcelación que dé lugar a lotes de superficie o dimensiones inferiores a las determinadas como mínimas en el planeamiento, salvo que dichos lotes sean adquiridos de forma simultánea por los propietarios de terrenos colindantes a fin de agruparlos con sus fincas para constituir una nueva.
+3. Serán indivisibles las parcelas edificables conforme a una relación determinada entre superficie del suelo y superficie construible cuando se edificara la correspondiente a toda la superficie del suelo, o, en el supuesto de que se edificase la correspondiente solo a una parte de ella, la restante, si fuera inferior a la parcela mínima, con las excepciones indicadas en el apartado anterior.
+4. En ningún caso se considerarán solares, ni se permitirá edificar en ellos, los lotes resultantes de una parcelación efectuada con infracción de las disposiciones de la presente ley.
+5. Toda parcelación urbanística, segregación o división de terrenos conllevará la obligación de la cesión de los terrenos situados fuera de las alineaciones establecidas por el planeamiento.
+6. Toda parcelación urbanística, segregación o división de terrenos quedará sujeta a licencia municipal, salvo que el ayuntamiento declarase su innecesariedad. Será innecesario el otorgamiento de licencia cuando la división o segregación sea consecuencia de:
+a) La aprobación de un proyecto de compensación, reparcelación o expropiación.
+b) La ejecución de infraestructuras y dotaciones públicas.
+c) El otorgamiento por el planeamiento de distinta clasificación o calificación de la parcela de origen.
+7. Los notarios y registradores de la propiedad exigirán para autorizar e inscribir, respectivamente, escrituras de división de terrenos resolución administrativa en que se acredite el otorgamiento de la licencia municipal o declaración de su innecesariedad.
+
+## CAPÍTULO III
+
+Disciplina urbanística
+
+## Sección 1
+
+Sección 1.ª Inspección urbanística
+
+### Artículo 151
+
+Artículo 151. De la inspección urbanística.
+1. La inspección urbanística es la actividad que los órganos administrativos competentes en materia de edificación y uso del suelo han de realizar con la finalidad de comprobar que una y otro se ajustan al ordenamiento urbanístico.
+2. El personal funcionario adscrito a la inspección y vigilancia urbanística, en el ejercicio de sus funciones, tendrá la consideración de agente de la autoridad.
+
+## Sección 2
+
+Sección 2.ª Protección de la legalidad urbanística
+
+### Artículo 152
+
+Artículo 152. Obras y usos sin título habilitante en curso de ejecución.
+1. Cuando se estuviera realizando algún acto de uso del suelo o del subsuelo sin el título habilitante exigible en cada caso o sin ajustarse a las condiciones señaladas en el mismo, la persona titular de la alcaldía dispondrá la suspensión inmediata de dichos actos y procederá a incoar el expediente de reposición de la legalidad, comunicándolo al interesado.
+2. Con el acuerdo de suspensión se adoptarán las medidas cautelares necesarias para garantizar la total interrupción de la actividad, tales como el precintado de las obras, la retirada de materiales y maquinaria, la suspensión de suministros o la ejecución forzosa mediante la imposición de multas coercitivas por importe de 1.000 a 10.000 euros, reiterables hasta conseguir el cumplimiento de la orden de paralización, y cualquier otra medida que sea conveniente en pro de la efectividad de la suspensión.
+3. Instruido el expediente de reposición de la legalidad y previa audiencia del interesado, se adoptará alguno de los siguientes acuerdos:
+a) Si las obras no fueran legalizables por ser incompatibles con el ordenamiento urbanístico, se acordará su demolición y, en su caso, la reconstrucción de lo indebidamente demolido, a costa del interesado. Si los usos no fueran legalizables por ser incompatibles con el ordenamiento urbanístico, se acordará la cesación de los mismos.
+b) Si las obras o los usos pudieran ser legalizables por ser compatibles con el ordenamiento urbanístico, se requerirá al interesado para que en el plazo de tres meses presente la solicitud de la oportuna licencia o comunicación previa correspondiente, manteniéndose la suspensión de las obras y usos en tanto esta no fuera otorgada o no se presentase la comunicación previa. En caso de que se deniegue la licencia o no se cumplan los requisitos legales para la comunicación previa, se acordará la demolición de las obras a costa del interesado, procediéndose a impedir definitivamente los usos a que hubiesen dado lugar.
+c) Si las obras o los usos no se ajustasen a las condiciones señaladas en el título habilitante, se ordenará a la persona interesada que las ajuste en el plazo de tres meses, prorrogables por otros tres a petición de la misma, siempre que la complejidad técnica o envergadura de las obras que haya que realizar lo justifique.
+Si, transcurrido el plazo señalado, el obligado no hubiera ajustado las obras o los usos a las condiciones del título habilitante, se ordenará la demolición de las obras o la cesación de los usos a costa del interesado.
+4. Con el acuerdo que ponga fin al expediente de reposición de la legalidad urbanística podrán adoptarse las medidas que se estimen precisas para garantizar la ejecutividad de la resolución, sin perjuicio de la imposición de las sanciones que procedan y de las facultades que correspondan a las autoridades competentes, en virtud del régimen específico de autorización o concesión a que estén sometidos determinados actos de edificación y uso del suelo.
+5. El procedimiento a que se refiere el número anterior habrá de resolverse en el plazo de un año, a contar desde la fecha del acuerdo de iniciación.
+6. En caso de incumplimiento de la orden de cesación de usos, de demolición o de reconstrucción de lo indebidamente demolido, la administración municipal procederá a la ejecución subsidiaria de la misma o a la ejecución forzosa mediante la imposición de multas coercitivas, reiterables hasta lograr la ejecución por el sujeto obligado, en la cuantía de 1.000 a 10.000 euros cada una.
+
+### Artículo 153
+
+Artículo 153. Obras terminadas sin título habilitante.
+1. Si estuvieran acabadas las obras sin licencia, comunicación previa u orden de ejecución, o incumpliendo las condiciones señaladas en las mismas, la persona titular de la alcaldía, dentro del plazo de seis años, a contar desde la total terminación de las obras, incoará expediente de reposición de la legalidad, procediendo según lo dispuesto en el artículo anterior.
+A estos efectos, se considera que son obras totalmente terminadas aquellas que se encuentren dispuestas para servir al fin a que estén destinadas y en condiciones de ser ocupadas sin necesidad de obras complementarias, salvo, en su caso, las relativas a los revestimientos exteriores de paramento y cubiertas que no resulten exigibles como condición técnica de seguridad de la edificación.
+La incoación del expediente de reposición de la legalidad por la administración actuante respecto a obras terminadas, previa constatación de esta circunstancia mediante su actividad de inspección y vigilancia urbanística, se entenderá sin perjuicio de la acreditación por parte de las personas interesadas de la terminación en una fecha anterior por cualquier medio de prueba válido en derecho.
+La ejecución en una edificación totalmente terminada de obras sin título habilitante o incumpliendo las condiciones señaladas en el mismo, aunque supongan una ampliación en superficie o aumento del volumen edificado, no afecta al cómputo del plazo para incoar, en su caso, expediente de reposición de la legalidad respecto de aquella, que se iniciará igualmente desde la total terminación de la edificación originaria, sin perjuicio del expediente que corresponda incoar por las nuevas obras realizadas.
+2. Transcurrido el plazo de caducidad de seis años sin que se hayan adoptado las medidas de restauración de la legalidad urbanística conforme a lo previsto en el apartado anterior, las obras quedarán sujetas al régimen previsto en el artículo 90.
+En el supuesto de que falten por ejecutar obras relativas a los revestimientos exteriores de paramento y cubiertas, la administración competente ordenará a las personas propietarias que ejecuten las obras necesarias para dar cumplimiento a lo previsto en la letra b) del apartado 1 del artículo 136. Estas obras se ejecutarán íntegramente a costa de las personas propietarias, sin que resulte de aplicación el límite a que se refiere el apartado 3 del artículo 136. En caso de incumplimiento de la orden, se procederá con arreglo a lo previsto en los apartados 4 y 5 del artículo 136.
+Se modifica por el art. 11.9 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Téngase en cuenta, para su aplicación a los procedimientos en tramitación lo dispuesto en la disposición transitoria 2 de la citada Ley.
+
+### Artículo 154
+
+Artículo 154. Suspensión y revisión de licencias.
+1. El alcalde dispondrá la suspensión de los efectos de una licencia u orden de ejecución, y, consiguientemente, la paralización inmediata de las obras iniciadas a su amparo, cuando el contenido de dichos actos administrativos constituya una infracción urbanística grave o muy grave, cualquiera que sea la fecha de otorgamiento de la licencia, debiendo, en el plazo de diez días, darse traslado directo del acto suspendido al órgano jurisdiccional competente, en la forma y con los efectos previstos en la legislación reguladora de la jurisdicción contencioso-administrativa.
+2. En todo caso, las licencias u órdenes de ejecución contrarias al ordenamiento urbanístico habrán de ser revisadas a través de alguno de los procedimientos de revisión de oficio previstos en los artículos 102 y 103 de la Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común, o por el procedimiento del artículo 127 de la Ley de la jurisdicción contencioso-administrativa.
+
+### Artículo 155
+
+Artículo 155. Protección de la legalidad en zonas verdes, espacios libres, viarios, dotaciones y equipamientos públicos.
+1. A los actos de edificación y uso del suelo relacionados en el artículo 142.2 que se realicen sin el título habilitante exigible sobre terrenos calificados por el planeamiento urbanístico como zonas verdes, espacios libres públicos, viarios o en la zona de protección establecida en el artículo 92.1, dotaciones o equipamientos públicos no les será de aplicación la limitación de plazo que establece el artículo 153.
+En estos supuestos la competencia para la protección de la legalidad urbanística corresponde a la Agencia de Protección de la Legalidad Urbanística.
+2. Las licencias u órdenes de ejecución que se hubiesen otorgado con infracción de la regulación urbanística de esas zonas serán nulas de pleno derecho. En estos casos, la persona titular de la consejería competente en materia de urbanismo requerirá a la persona titular de la alcaldía para que proceda según lo dispuesto en el artículo anterior.
+Se modifica el apartado 1 por el art. 11.10 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Artículo 156
+
+Artículo 156. Protección de la legalidad en el suelo rústico.
+1. Corresponde a la Agencia de Protección de la Legalidad Urbanística la competencia para la adopción de las medidas precisas de protección de la legalidad urbanística respecto a las obras y usos realizados en suelo rústico, en cualquiera de sus categorías, sin el preceptivo plan especial, sin autorización autonómica o sin ajustarse a las condiciones de la autorización otorgada, así como en los supuestos de obras y usos prohibidos.
+En los restantes supuestos, la competencia corresponderá a la persona titular de la alcaldía.
+2. La persona titular de la alcaldía adoptará las medidas necesarias para la paralización de las obras y actividades en ejecución, dando cuenta, en su caso, de forma inmediata a la persona titular de la consejería competente en materia de urbanismo.
+
+## Sección 3
+
+Sección 3.ª Infracciones y sanciones
+
+### Artículo 157
+
+Artículo 157. Definición de las infracciones urbanísticas.
+1. Son infracciones urbanísticas las acciones que vulneren las prescripciones contenidas en la legislación y el planeamiento urbanísticos, tipificadas y sancionadas en la misma.
+2. Toda infracción urbanística implicará la imposición de sanciones a las personas responsables, así como la obligación de resarcimiento de los daños e indemnización de las pérdidas a cargo de los mismos, con independencia de las medidas previstas en la sección anterior. La obligación de resarcimiento de los daños y de indemnización de las pérdidas provocados en el patrimonio de las administraciones públicas podrá imponerse en la propia resolución sancionadora, realizándose su ejecución, en su caso, a través de los medios de ejecución forzosa previstos por la legislación del procedimiento administrativo común.
+Se modifica el apartado 2 por el art. 13.2 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 158
+
+Artículo 158. Tipificación de las infracciones urbanísticas.
+1. Las infracciones urbanísticas se clasifican en muy graves, graves y leves.
+2. Son infracciones muy graves:
+a) Las acciones y omisiones que constituyan incumplimiento de las normas relativas al uso y edificación que afecten a terrenos calificados por el planeamiento como zonas verdes, espacios libres, dotaciones o equipamientos públicos, viarios o en la zona de protección establecida en el artículo 92.1.
+b) Las obras y actividades realizadas en suelo rústico que estén prohibidas por la presente ley y las parcelaciones urbanísticas.
+c) La realización de obras de urbanización sin la previa aprobación del planeamiento y proyecto de urbanización exigibles.
+d) La demolición de bienes inmuebles que el planeamiento urbanístico incluya en los catálogos de bienes protegidos.
+3. Son infracciones graves:
+a) Las acciones y omisiones que constituyan incumplimiento de las normas relativas a parcelaciones, aprovechamiento urbanístico, uso del suelo, altura y número de plantas, superficie y volumen máximo edificables, distancias mínimas de separación a lindes y otros elementos y ocupación permitida de la superficie de las parcelas o de habitabilidad de las viviendas, cuando no tengan el carácter de muy graves.
+b) El incumplimiento de las condiciones de edificación establecidas en la presente ley para el suelo rústico y la realización de actividades sin el preceptivo título habilitante municipal o sin autorización autonómica, cuando esta sea exigible de acuerdo con la presente ley, o incumpliendo sus condiciones.
+c) El incumplimiento de la orden de corte de suministro de los servicios de agua, electricidad y otros.
+d) El incumplimiento del régimen establecido por la presente ley para las edificaciones fuera de ordenación y para las edificaciones a que hace referencia el artículo 153.2.
+e) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato o documento que acompaña o consta en la comunicación previa.
+f) La realización de pintadas, grafitis, incisiones u otros actos que causen daños o deterioros o menoscaben el ornato de la vía pública, el mobiliario urbano, los espacios publicitarios o los paramentos exteriores de las edificaciones, construcciones e instalaciones, incluidos los muros y cierres de todo tipo, siempre que existiera reincidencia o los daños fuesen irreparables, entendiéndose por tales aquellos que exijan el reemplazo del elemento afectado.
+No será constitutiva de infracción la realización de murales y grafitis de valor artístico en los espacios públicos que excepcionalmente cedan los ayuntamientos a estos efectos, siempre que no perjudicasen el entorno urbano ni la calidad de vida del vecindario. Estos espacios deberán estar periódicamente sometidos a control y limpieza.
+4. Son infracciones leves:
+a) La ejecución de obras o instalaciones realizadas sin licencia, comunicación previa u orden de ejecución, cuando fueran legalizables por ser conformes con el ordenamiento urbanístico.
+b) El incumplimiento de las órdenes de ejecución o demolición.
+c) La inexactitud, falsedad u omisión, de carácter no esencial, en cualquier dato o documento que se aporta o consta en la comunicación previa.
+d) La realización de pintadas, grafitis, incisiones u otros actos que causen daños o deterioros o menoscaben el ornato de la vía pública, el mobiliario urbano, los espacios publicitarios o los paramentos exteriores de las edificaciones, construcciones e instalaciones, incluidos los muros y cierres de todo tipo, siempre que non tuviera el carácter de infracción grave.
+No será constitutiva de infracción la realización de murales y grafitis de valor artístico en los espacios públicos que excepcionalmente cedan los ayuntamientos a estos efectos, siempre que no perjudiquen el entorno urbano ni la calidad de vida de la vecindad. Estos espacios deberán estar periódicamente sometidos a control y limpieza.
+e) El incumplimiento del deber de cubrir en tiempo y forma el informe de evaluación de los edificios.
+f) Las demás vulneraciones del ordenamiento urbanístico que non tuvieran el carácter de infracciones graves o muy graves.
+Se modifica el apartado 4 por la disposición final 1.2 de la Ley 1/2019, de 22 de abril. Ref. BOE-A-2019-7839#df
+ Se añade la letra f) al apartado 3 y se modifica el 4 por el art. 13.3 y 4 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 159
+
+Artículo 159. Plazos de prescripción.
+1. Las infracciones urbanísticas muy graves tipificadas en el artículo 158.2, apartado a), prescribirán a los quince años; las graves y las muy graves tipificadas en el artículo 158.2, apartados b), c) y d), a los seis años; y las leves, a los dos años, a contar desde la finalización de las obras o de la actividad.
+2. Las sanciones urbanísticas impuestas por faltas muy graves prescribirán a los cinco años, las impuestas por faltas graves a los tres años y las impuestas por faltas leves al año. El cómputo del plazo de prescripción de las sanciones se iniciará a partir del día siguiente a que la misma adquiriese firmeza en vía administrativa.
+
+### Artículo 160
+
+Artículo 160. Personas responsables.
+1. En las obras que se hayan ejecutado sin título habilitante o con inobservancia de sus condiciones serán sancionadas por infracción urbanística las personas físicas o jurídicas responsables de las mismas en calidad de promotor de las obras, propietario de los terrenos o empresario de las obras, los técnicos redactores del proyecto y los directores de las obras.
+2. En las obras amparadas en una licencia constitutivas de infracción urbanística grave o muy grave serán igualmente sancionados las autoridades o miembros de la corporación que hubiesen resuelto o votado a favor del otorgamiento de la licencia sin los informes previos exigibles o cuando estos fueran desfavorables en razón de aquella infracción.
+3. Las sanciones que se impongan a los distintos sujetos por una misma infracción tendrán entre sí carácter independiente.
+4. Las compañías suministradoras de servicios urbanísticos serán responsables de las infracciones que se deriven del incumplimiento de sus obligaciones establecidas en la presente ley.
+5. En caso de las infracciones previstas en el apartado f) del número 3 y en el subapartado d) del número 4 del artículo 158, serán sancionadas las personas que resultasen autoras materiales de las conductas.
+Estarán exentos de responsabilidad por estas infracciones los menores de 14 años. En caso de que la infracción fuese cometida por un menor de 14 años, la autoridad competente lo pondrá en conocimiento del Ministerio Fiscal.
+Cuando fuese declarado autor de los hechos cometidos un menor de 18 años, un menor no emancipado o una persona con la capacidad modificada judicialmente, responderán, solidariamente con él, del pago de las sanciones pecuniarias que se le impongan, de los daños y perjuicios ocasionados de acuerdo con lo establecido en el artículo 157.2 y de la reposición a su estado originario de la situación alterada por la infracción de acuerdo con lo establecido en el artículo 162 bis sus padres, tutores, curadores, acogedores o guardadores legales o de hecho, según proceda.
+Se añade el apartado 5 por el art. 13.5 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 161
+
+Artículo 161. Reglas para determinar la cuantía de las sanciones.
+1. Las infracciones urbanísticas serán sancionadas de la siguiente forma:
+a) Las infracciones leves, con carácter general, con multa de 300 a 6.000 euros y, como mínimo, el 2 % del valor de la obra, instalación o actuación realizada, en su caso.
+b) La infracción leve prevista en el apartado d) del número 4 del artículo 158, con multa de 100 a 600 euros.
+c) Las infracciones graves, con carácter general, con multa de 6.001 a 60.000 euros y, como mínimo, el 20 % del valor de la obra, terrenos, exceso de edificación o actuación realizada, en su caso.
+d) La infracción grave prevista en el apartado f) del número 3 del artículo 158, con multa de 601 a 6.000 euros.
+e) Las infracciones muy graves, con multa de 60.001 a 1.000.000 de euros y, como mínimo, el 30 % del valor de las obras, terrenos, edificaciones o actuaciones realizadas, en su caso.
+2. Para graduar la cuantía de las sanciones se atenderá a la concurrencia de circunstancias atenuantes y agravantes que se fijen reglamentariamente.
+3. En ningún caso la infracción urbanística puede suponer un beneficio económico para el infractor. Cuando la suma de la sanción impuesta y del coste de las actuaciones de reposición de los bienes y situaciones a su primitivo estado determinara una cifra inferior a dicho beneficio, se incrementará la cuantía de la multa hasta alcanzar el montante del mismo.
+4. El responsable de la infracción tendrá derecho a una reducción del 90 % de la multa que haya de imponerse en caso de que reponga por sí mismo la realidad física alterada antes de la resolución del procedimiento sancionador.
+Igualmente, las sanciones impuestas al amparo de la presente ley se reducirán en su cuantía en un 50 % si son abonadas en el plazo de periodo voluntario y, en este mismo plazo, el infractor muestra por escrito su conformidad con las mismas y renuncia expresamente al ejercicio de toda acción de impugnación en el referido plazo.
+La posterior acción de impugnación implicará la pérdida de la referida reducción.
+Se modifica el apartado 1 por el art. 13.6 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 162
+
+Artículo 162. Sanciones accesorias.
+Los sujetos responsables de infracciones muy graves, cuando las acciones que las motivaron no fueran legalizables, podrán ser sancionados, según los casos, además de con las multas previstas en el presente título, con las siguientes sanciones accesorias:
+a) Inhabilitación durante un plazo de hasta cinco años de la posibilidad de obtener subvenciones públicas o crédito oficial y del derecho a disfrutar de beneficios o incentivos fiscales.
+b) Prohibición durante un plazo de hasta cinco años para formalizar contratos con la Administración autonómica y con las administraciones locales de Galicia.
+c) Publicación en un diario de mayor difusión de la provincia de las sanciones firmes y de la identidad de los sancionados.
+
+### Artículo 162 bis
+
+Artículo 162 bis. Reposición de la situación alterada a su estado originario en determinados casos.
+Las responsabilidades administrativas que se deriven de la comisión de las infracciones previstas en el apartado d) del número 4 del artículo 158 y en el apartado f) del número 3 del artículo 158 se entenderán sin perjuicio y serán compatibles con la exigencia, por el órgano competente para la imposición de la sanción, al infractor o a las personas previstas en el artículo 160.5 de la presente ley de la obligación de reposición de la situación alterada a su estado originario, incluyendo la limpieza de las pintadas y grafitis.
+Se añade por el art. 13.7 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Artículo 163
+
+Artículo 163. Órganos competentes.
+1. Las autoridades competentes para la imposición de las sanciones serán:
+a) Por infracciones muy graves, a partir de 300.000 euros, el Consejo Ejecutivo de la Agencia de Protección de la Legalidad Urbanística.
+b) Por infracciones graves cometidas en suelo rústico sin el preceptivo título habilitante o sin la autorización autonómica cuando esta sea exigible de acuerdo con la presente ley, o incumpliendo sus condiciones, y muy graves hasta 300.000 euros, el director de la Agencia de Protección de la Legalidad Urbanística.
+c) En los demás supuestos, por infracciones graves y leves, el alcalde.
+2. La Agencia de Protección de la Legalidad Urbanística podrá ejercer la competencia para la imposición de sanciones cuando esta le hubiera sido delegada por el titular de la alcaldía.
+
+### Artículo 164
+
+Artículo 164. Procedimiento sancionador.
+1. La potestad sancionadora se ejercerá mediante el procedimiento establecido en la legislación del procedimiento administrativo.
+2. El plazo para resolver el procedimiento sancionador será de un año, a contar desde la fecha de su iniciación.
+Transcurrido el plazo máximo para resolver sin que se hubiera dictado resolución, se producirá la caducidad del procedimiento. En el supuesto de que la infracción no hubiera prescrito, habrá de iniciarse un nuevo procedimiento sancionador.
+
+## TÍTULO VII
+
+Convenios urbanísticos
+
+### Artículo 165
+
+Artículo 165. Objeto y naturaleza.
+1. Los órganos pertenecientes a las administraciones públicas podrán celebrar, siempre en el ámbito de sus respectivas competencias, convenios urbanísticos entre sí y con personas públicas o privadas, al objeto de colaborar y desarrollar de manera más eficaz la actividad urbanística.
+2. Los convenios urbanísticos se regirán por los principios de transparencia y publicidad.
+3. Serán nulas de pleno derecho las estipulaciones de los convenios que contravengan, infrinjan o defrauden objetivamente normas imperativas legales o reglamentarias, incluidas las del planeamiento urbanístico.
+4. Estos convenios tendrán carácter administrativo, siendo las cuestiones relativas a su formalización, cumplimiento, interpretación, efectos y extinción competencia del órgano jurisdiccional contencioso-administrativo.
+
+### Artículo 166
+
+Artículo 166. Convenios urbanísticos de planeamiento.
+Los convenios urbanísticos de planeamiento son aquellos que tengan por objeto la aprobación o modificación del planeamiento urbanístico.
+
+### Artículo 167
+
+Artículo 167. Convenios urbanísticos para la ejecución del planeamiento.
+Los convenios urbanísticos para la ejecución del planeamiento son aquellos que, no afectando a la ordenación urbanística, se limiten a la determinación de los términos y condiciones de la gestión y la ejecución del planeamiento. Del cumplimiento de estos convenios no podrá derivarse en caso alguno modificación, alteración o dispensa del planeamiento.
+
+### Artículo 168
+
+Artículo 168. Formalización y perfeccionamiento.
+1. Una vez negociados y suscritos, los convenios se someterán al trámite de información pública, mediante anuncio publicado en el «Diario Oficial de Galicia» y en uno de los periódicos de mayor difusión de la provincia, por un periodo mínimo de un mes.
+2. Cuando la negociación de un convenio coincida con la tramitación del procedimiento de aprobación del instrumento de planeamiento con el que guarde directa relación, habrá de incluirse el texto íntegro del convenio en la documentación sometida a información pública propia de dicho procedimiento, sustituyendo esta a la prevista en el número anterior.
+3. Previa información pública, el órgano que hubiese negociado el convenio habrá de elaborar, a la vista de las alegaciones, una propuesta de texto definitivo del convenio, de la cual se dará vista a la persona o personas que hubieran negociado y suscrito el texto inicial para su aceptación, reparos o, en su caso, renuncia.
+4. El texto definitivo de los convenios habrá de ser ratificado por el órgano competente, debiendo firmarse dentro de los quince días siguientes a la notificación de la aprobación del texto definitivo por la persona o personas interesadas, privadas o públicas. Transcurrido este plazo sin que el convenio fuera firmado, quedará sin efecto.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Plataforma Urbanística Digital de Galicia.
+La Comunidad Autónoma de Galicia desarrollará una aplicación que facilite la participación en los procedimientos de planificación urbanística y que tendrá como finalidad posibilitar la tramitación integral de los instrumentos de planeamiento urbanístico.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Ordenación urbanística de sistemas generales mediante proyecto sectorial.
+En aquellos supuestos en que la legislación sectorial competente remita la ordenación urbanística de un sistema general a un plan especial que afecte a más de un término municipal, el referido plan especial será tramitado de conformidad con lo dispuesto en la legislación de ordenación del territorio para los proyectos sectoriales.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Medidas urbanísticas excepcionales.
+A los efectos de la presente ley, y sin perjuicio del necesario respeto a la normativa sectorial estatal y autonómica que resulte de aplicación, podrá autorizarse la reconstrucción, con las mismas características volumétricas que tenían, de los edificios, construcciones e instalaciones afectados por situaciones declaradas por el Consejo de Ministros como zona afectada gravemente por una emergencia de protección civil o por el Consello de la Xunta de emergencia de naturaleza catastrófica, que, en el momento de producción de dicha situación, estuvieran sometidos al régimen previsto en los artículos 40 y 90. En estos casos, los edificios, construcciones e instalaciones realizados quedarán sometidos al régimen de los artículos 40 y 90.
+Esta disposición será de aplicación tanto respecto a las situaciones ya declaradas como a aquellas cuya declaración se efectuase tras su entrada en vigor.
+Se añade por el art. 13.8 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo.
+Se creará la Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo, como órgano con funciones específicas de carácter consultivo en las referidas materias, en el ámbito de la Comunidad Autónoma de Galicia.
+Su composición, organización y funcionamiento serán establecidos reglamentariamente, garantizando la representación de las administraciones públicas con competencias urbanísticas.
+La Comisión Superior de Urbanismo de Galicia, prevista en el artículo 9 de esta ley, pasará a integrarse en la Junta Consultiva en Materia de Ordenación del Territorio y Urbanismo, a partir de su creación. Hasta ese momento continuará en el desarrollo de sus funciones.
+Se añade por la disposición final 11 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-11
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Limitaciones al número máximo de viviendas previstas en los instrumentos de planeamiento urbanístico.
+La superficie edificable total se determinará conforme a los límites de sostenibilidad previstos en el artículo 41, sin que resulten aplicables las determinaciones relativas a un número máximo de viviendas contenidas en los instrumentos de planeamiento urbanístico aprobados definitivamente con anterioridad al momento de la entrada en vigor de esta ley.
+Se añade por el art. 61.21 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen de aplicación a los municipios con planeamiento no adaptado y a los municipios sin planeamiento.
+1. El planeamiento aprobado definitivamente con anterioridad a la entrada en vigor de la presente ley y adaptado a la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, conservará su vigencia hasta su revisión o adaptación a la misma, conforme a las siguientes reglas:
+a) Al suelo urbano, se le aplicará íntegramente lo dispuesto en el planeamiento respectivo.
+b) Al suelo urbanizable delimitado y no delimitado, se le aplicará íntegramente lo dispuesto en el planeamiento respectivo.
+La ordenación del suelo urbanizable no delimitado se realizará a través de planes parciales, que habrán de contener, además de la delimitación del sector que será objeto de transformación y de las determinaciones exigidas en el artículo 68 de la presente ley, las siguientes especificaciones:
+– Los sistemas generales incluidos o adscritos a la gestión del sector.
+– El trazado de las redes fundamentales de abastecimiento de agua, alcantarillado, energía eléctrica y demás servicios que, en su caso, prevea el plan.
+– La determinación de las conexiones con los sistemas generales existentes y exteriores al sector y, en su caso, la previsión de las obras necesarias para la ampliación y el refuerzo de dichos sistemas en función de las necesidades generadas por la actuación y de forma que se asegure su correcto funcionamiento.
+A estos efectos, el plan habrá de incluir un estudio que justifique la capacidad de las redes viarias y de servicios existentes y las medidas procedentes para atender a las necesidades generadas y, en su caso, la implantación del servicio público de transporte, recogida de residuos urbanos y cuantos otros resulten necesarios.
+– Las características, dimensiones y capacidad mínima de las infraestructuras y servicios necesarios para el desarrollo del sector, así como los terrenos necesarios para la conexión con el sistema general viario y de infraestructuras y servicios urbanos existentes que habrán de incluirse o adscribirse al desarrollo del sector.
+– La asignación de los usos globales del sector y la fijación de la edificabilidad y de las tipologías edificatorias.
+– La previsión de suelo para nuevas dotaciones de carácter general, en la proporción mínima establecida por el artículo 42.1, con independencia de las dotaciones locales. Los nuevos sistemas generales habrán de ubicarse dentro del sector, salvo en el caso de que el plan general determinara específicamente su ubicación concreta en otro lugar.
+c) Al suelo de núcleo rural y a sus áreas de expansión, se le aplicará íntegramente lo dispuesto en el planeamiento respectivo, salvo en lo que se refiere a las edificaciones tradicionales existentes, a las cuales será de aplicación lo previsto en el artículo 40 de la presente ley.
+d) Al suelo rústico se le aplicará lo dispuesto en esta ley para el suelo rústico.
+2. El planeamiento aprobado definitivamente con anterioridad a la entrada en vigor de la presente ley y no adaptado a la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, conservará su vigencia hasta su revisión o adaptación a la misma, conforme a las siguientes reglas:
+a) Al suelo urbano que reúna las condiciones establecidas en el artículo 17.a) de la presente ley, se le aplicará lo dispuesto en la misma para el suelo urbano consolidado.
+Al suelo urbano que reúna las condiciones establecidas en el artículo 17.b) de la presente ley, se le aplicará lo dispuesto en la misma para el suelo urbano no consolidado.
+b) Al suelo urbanizable delimitado se le aplicará lo dispuesto en la presente ley para el suelo urbanizable.
+Al suelo urbanizable no delimitado, apto para urbanizar o rústico apto para el desarrollo urbanístico se le aplicará lo dispuesto en la presente ley para el suelo rústico.
+c) Al suelo incluido en el ámbito de los núcleos rurales o en las delimitaciones de suelo no urbanizable de núcleo rural, en sus áreas de influencia o tolerancia, se le aplicará íntegramente lo dispuesto en el planeamiento respectivo, salvo en lo que se refiere a las edificaciones tradicionales existentes, a las cuales será de aplicación lo previsto en el artículo 40 de la presente ley.
+d) Al suelo no urbanizable o suelo rústico, se le aplicará lo dispuesto en la presente ley para el suelo rústico.
+3. Los decretos autonómicos de suspensión del plan que hayan sido dictados antes de la entrada en vigor de la presente ley mantendrán su eficacia, como norma de derecho transitorio, hasta la fecha de entrada en vigor del correspondiente plan general de ordenación municipal, excepto en lo relativo al régimen del suelo rústico, respecto del cual resultará de aplicación directa el régimen jurídico previsto en esta ley y en sus disposiciones reglamentarias de desarrollo.
+4. En los municipios sin planeamiento general se aplicará el régimen de suelo rústico establecido en la presente ley, con las siguientes salvedades:
+a) Únicamente podrá edificarse en los terrenos que merezcan la condición de suelo urbano consolidado por reunir los requisitos establecidos en el artículo 17.a) de la presente ley.
+b) Las delimitaciones de núcleo rural mantendrán su vigencia.
+5. Excepcionalmente, a los efectos de lo previsto en el artículo 18.1 de esta ley, y siempre que se acredite la imposibilidad técnica o económica de la acometida a las redes públicas, las dotaciones podrán resolverse temporalmente por medios individuales que alcancen un nivel de protección medioambiental equivalente al público, con cargo a la persona promotora y con el compromiso formal de conexión a las redes públicas cuando se implanten.
+Se añade el apartado 5 por el art. 81.15 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+ Se modifica los apartado 1.d) y 2.b) por el art. 11.11 y 12 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se modifica el apartado 3 por el art. 13.9 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación del planeamiento.
+1. Los planes aprobados provisionalmente antes de la entrada en vigor de la presente ley podrán continuar su tramitación hasta su aprobación definitiva a tenor de las normas procedimentales y determinaciones dispuestas en la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia. En todo caso, al suelo rústico se le aplicará lo dispuesto en la presente ley para el suelo rústico. La competencia para su aprobación se regirá por el régimen establecido en la Ley 2/2016, de 10 de febrero, del suelo de Galicia.
+2. Los que, en esa misma fecha, ya hayan sido aprobados inicialmente podrán adaptarse íntegramente a esta ley o continuar su tramitación a tenor de las normas procedimentales dispuestas en la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, aunque sus determinaciones deberán adaptarse plenamente a esta ley. La competencia para su aprobación se regirá por el régimen establecido en la Ley2/2016, del suelo de Galicia. La simple adaptación del contenido del plan en tramitación a las disposiciones establecidas en esta ley no implicará, por sí sola, la necesidad de someterlo a nueva información pública, excepto cuando se pretendan introducir otras modificaciones que alteren sustancialmente la ordenación proyectada y no sean consecuencia de la adaptación.
+3. Los planes en tramitación que no hayan alcanzado la aprobación inicial en la fecha de entrada en vigor de esta ley deberán adaptarse plenamente a ella.
+4. En el caso de los ayuntamientos fusionados, los planes que estén en tramitación en alguno de los ayuntamientos de origen en la fecha de la entrada en vigor de esta ley podrán continuar su tramitación conforme a lo previsto en los números anteriores, siempre que el otro ayuntamiento cuente con un plan general de ordenación municipal adaptado a la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia.
+De no haberse iniciado la tramitación, el ayuntamiento fusionado podrá tramitar un plan general de ordenación municipal referido únicamente al ámbito territorial que, con anterioridad a la fusión, correspondía a uno de los ayuntamientos fusionados, siempre que, conforme a lo indicado, el ámbito territorial que correspondía al otro ayuntamiento cuente con plan general de ordenación municipal adaptado a la Ley 9/2002, de 30 de diciembre.
+En todo caso, mientras no se produzca la aprobación de un plan general que abarque el nuevo límite del término municipal, en el ayuntamiento resultante de la fusión seguirá vigente la ordenación urbanística aprobada.
+Se modifica el apartado 1 por el art. 11.13 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se añade el apartado 4 por el art. 8.3 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+ Se modifica por la disposición final 4 de la Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Régimen de autorizaciones y licencias otorgadas en suelo rústico.
+1. Las construcciones ejecutadas en suelo rústico al amparo de la licencia urbanística podrán mantener el uso autorizado y cambiarlo a cualquiera de los previstos en el artículo 40. Se podrán ejecutar en ellas, previa licencia municipal y sin necesidad de autorización urbanística autonómica, obras de mejora y reforma de las instalaciones sin incrementar la superficie edificada legalmente, aun cuando no cumplan las condiciones de implantación, uso y edificación establecidas por esta ley.
+2. Asimismo, en las construcciones previstas en el apartado anterior, previa licencia municipal y sin necesidad de autorización urbanística autonómica, podrán ejecutarse obras de ampliación de la superficie edificada lícitamente, incluso en volumen independiente, cumpliendo los siguientes requisitos:
+a) Cuando se trate de terrenos que deban ser incluidos en el suelo rústico de especial protección con arreglo a esta ley, será necesario obtener la autorización o informe favorable del órgano con la competencia sectorial correspondiente.
+b) Que cumpla las condiciones de edificación establecidas por el artículo 39.
+c) Que se adopten las medidas correctoras necesarias para minimizar la incidencia sobre el territorio y la mejor protección del paisaje.
+d) Que se mantengan el uso y la actividad autorizados originariamente, permitiéndose, en todo caso, el cambio de uso a cualquiera de los regulados en el artículo 40.
+3. Lo previsto en esta disposición se entenderá sin perjuicio de las previsiones establecidas en las normativas sectoriales que resulten de aplicación.
+Se modifica la letra b) del apartado 2 por el art. 61.22 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+ Se modifica el apartado 2 por el art. 11.14 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+ Se añade el apartado 3 por el art. 8.9 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+ Se modifica por el art. 13.10 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
+ Se modifica la letra d) por el art. 13.9 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Explotaciones e instalaciones de apoyo a la actividad agropecuaria y forestal existentes.
+1. Las construcciones e instalaciones ubicadas en suelo rústico que, estando destinadas a actividades vinculadas con la explotación y el apoyo a la actividad agropecuaria y forestal, así como las de primera transformación de ambas, existían en el momento de la entrada en vigor de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia, podrán mantener su actividad.
+2. En estas construcciones podrán permitirse, previa obtención de licencia urbanística municipal, las obras de conservación y reforma, así como las ampliaciones hasta el doble del volumen originario de la edificación, y sin necesidad de cumplir los parámetros recogidos en el artículo 39 de la presente ley, salvo el límite de altura, siempre que mantengan la actividad de explotación o apoyo a la actividad agropecuaria o forestal y que se adopten las medidas correctoras necesarias para garantizar las condiciones sanitarias, para minimizar la incidencia sobre el territorio y para la mejor protección del paisaje.
+Se modifica por el art. 11.15 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Reserva de vivienda protegida.
+1. A los instrumentos de planeamiento general aprobados con anterioridad a la entrada en vigor de la presente ley les resultará de aplicación directa las reservas de suelo para vivienda protegida fijadas en la presente ley.
+No obstante, los ayuntamientos podrán fijar su reserva de suelo para vivienda protegida en función de la demanda potencial de ésta, según lo establecido en el artículo 42.9 de la presente ley.
+2. Los porcentajes de vivienda protegida previstos en los ámbitos de desarrollo, esté o no aprobado el instrumento de gestión, podrán adaptarse a los porcentajes previstos en la presente ley, manteniendo la proporcionalidad existente en el distrito o sector.
+3. Los planeamientos de desarrollo que no cuenten con una reserva de vivienda protegida habrán de cumplir la reserva prevista en la presente ley.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Proyectos de equidistribución y urbanización en tramitación.
+Los proyectos de equidistribución y urbanización inicialmente aprobados con anterioridad a la entrada en vigor de la presente ley podrán continuar tramitándose de conformidad con el contenido, tramitación y demás disposiciones contempladas en la Ley 9/2002, de 30 de diciembre, de ordenación urbanística del medio rural de Galicia, y modificaciones legales de la misma, o adaptarse a lo dispuesto en la presente ley, sin que ello suponga obligatoriamente la necesidad de aprobar de nuevo inicialmente el proyecto y someterlo a un nuevo periodo de información pública, salvo alteración sustancial del contenido del proyecto.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Asentamientos surgidos al margen del planeamiento.
+1. Los asentamientos surgidos al margen del planeamiento urbanístico antes de la entrada en vigor de la Ley 9/2002, de 30 de diciembre, que no se integren en la malla urbana o en la red de núcleos, y que precisen de acciones de recalificación para alcanzar los objetivos de calidad de vida, cohesión social e integridad ambiental y paisajística, se clasificarán como suelo urbanizable, cumpliendo los siguientes requisitos:
+a) La edificabilidad total del sector no podrá exceder del doble de la realmente existente.
+b) En caso del suelo rústico de especial protección, será necesario obtener la autorización o el informe favorable del órgano que ostente la competencia sectorial correspondiente.
+c) Resultarán de aplicación las previsiones contenidas en la presente ley para el suelo urbanizable.
+d) El plan podrá reducir o eliminar justificadamente las reservas de suelo para dotaciones públicas y, en su caso, para viviendas sujetas a algún régimen de protección pública establecidas por la presente ley.
+2. Las edificaciones o instalaciones existentes en los asentamientos industriales a que se refiere esta disposición podrán mantener su actividad aunque no cuenten con el preceptivo título habilitante de naturaleza urbanística o, en su caso, autorización autonómica, en el plazo que medie hasta su completa regularización tras la aprobación definitiva del plan que contemple la ordenación detallada del sector y de los proyectos de equidistribución y urbanización que resultasen necesarios, que no podrá ser superior a cuatro años, a contar desde la entrada en vigor de la presente ley.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Disposiciones complementarias a la presente ley.
+Hasta que entren en vigor las disposiciones reglamentarias de desarrollo de la presente ley, se aplicarán las que se contienen en los reglamentos urbanísticos estatales de planeamiento y gestión y en el de disciplina urbanística de Galicia, así como aquellas disposiciones que no se opongan a la presente ley o resulten afectadas por la misma.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Recepción de obras de urbanización.
+El régimen previsto en el artículo 96.5 será de aplicación a las obras de urbanización que se encuentren pendientes de recepción con anterioridad al 1 de enero de 2025.
+Se añade por el art. 81.16 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Registro de las ECCOM.
+En tanto no se desarrolle reglamentariamente el Registro de Entidades de Certificación de Conformidad Municipal de la Comunidad Autónoma de Galicia previsto en el artículo 48 de la Ley 9/2013, de 19 de diciembre, del emprendimiento y de la competitividad económica de Galicia, se aplicará el régimen establecido en el Decreto 144/2016, de 22 de septiembre, por el que se aprueba el Reglamento único de regulación integrada de actividades económicas y apertura de establecimientos.
+Se añade por el art. 81.17 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145#a8-3
+
+### Disposición transitoria décimo primera
+
+Disposición transitoria décimo primera. Niveles de intensidad previstos en los instrumentos de planeamiento urbanístico y de ordenación del territorio en tramitación para la construcción de viviendas protegidas.
+Los instrumentos de planeamiento urbanístico y de ordenación del territorio que prevean la construcción de viviendas protegidas en el porcentaje previsto en el artículo 41.2 que se encuentren en tramitación con anterioridad al 1 de enero de 2026 podrán incrementar los niveles de intensidad asignados en ellos hasta un 20 % y continuar con su tramitación siempre que no se hubiese llegado a la fase de aprobación inicial.
+Se añade por el art. 61.23 de la Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogados la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y protección del medio rural de Galicia; la Ley 6/2008, de 19 de junio, de medidas urgentes en materia de vivienda y suelo; el artículo 13 de la Ley 7/2008, de 7 de julio, de protección del paisaje de Galicia; la disposición adicional segunda de la Ley 7/1998, de 30 de diciembre, de medidas tributarias, de régimen presupuestario, función pública y gestión; y la disposición adicional sexta de la Ley 14/2004, de 29 de diciembre, de medidas tributarias y de régimen administrativo, así como cuantos preceptos de igual o inferior rango, incluidas las determinaciones del planeamiento urbanístico, se opongan a lo dispuesto en la presente ley.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 7/2008, de 7 de julio, de protección del paisaje de Galicia.
+Se modifica el apartado 4 del artículo 9 de la Ley 7/2008, de 7 de julio, de protección del paisaje de Galicia, quedando redactado en los siguientes términos:
+«4. Corresponde al Instituto de Estudios del Territorio la elaboración de los catálogos del paisaje, en los cuales se tendrán en consideración otros catálogos existentes referidos a la materia paisajística.»
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley 6/2007, de 11 de mayo, de medidas urgentes en materia de ordenación del territorio y del litoral de Galicia.
+Se modifica el artículo 10 de la Ley 6/2007, de 11 de mayo, de medidas urgentes en materia de ordenación del territorio y del litoral de Galicia, quedando redactado en los siguientes términos:
+«Artículo 10. Funciones.
+1. Las funciones del Instituto de Estudios del Territorio serán las siguientes:
+a) Realizar trabajos de investigación, análisis, estudio y difusión sobre urbanismo y ordenación del territorio.
+b) Prestar asistencia y asesoramiento a los ayuntamientos de Galicia para la elaboración del planeamiento urbanístico y la gestión y ejecución del planeamiento, a fin de implementar las políticas del paisaje en la planificación urbanística y territorial.
+c) Prestar apoyo a la consejería competente en materia de urbanismo y ordenación del territorio.
+d) La recopilación y tratamiento de la información del territorio gallego, así como la producción cartográfica para las diferentes consejerías y organismos públicos de la Comunidad Autónoma de Galicia, especialmente en materia agraria y de desarrollo rural.
+e) El apoyo y asesoramiento a la Xunta de Galicia en materia de paisaje, y de colaboración y coordinación con otras administraciones y sectores de la sociedad.
+f) Delimitar las grandes áreas paisajísticas sobre las que se desarrollarán los catálogos del paisaje y elaborar los catálogos del paisaje de Galicia.
+g) Formar, sensibilizar y concienciar a la sociedad gallega en la necesidad de proteger y gestionar debidamente nuestros paisajes.
+h) Evaluar el estado de conservación de los paisajes de Galicia, analizar sus transformaciones y previsible evolución y realizar estudios y propuestas en materia de paisaje.
+i) Promover la colaboración y cooperación en materia de paisaje, sobre todo mediante asistencia científica y técnica mutua, e intercambios de experiencias con fines de formación e información.
+j) El seguimiento de iniciativas de investigación y difusión de conocimientos de ámbito estatal, europeo e internacional en materia de paisaje.
+k) Fomentar el intercambio de información y experiencias, así como la asistencia científica y técnica mutua en materia de paisajes transfronterizos.
+l) Elaborar cada cuatro años un informe sobre el estado del paisaje en Galicia, que la Xunta de Galicia presentará al Parlamento de Galicia.»
+
+### Disposición final tercera
+
+Disposición final tercera. Modificación de la Ley 10/1995, de 2 de noviembre, de ordenación del territorio de Galicia.
+Se añade una disposición adicional tercera a la Ley 10/1995, de 2 de noviembre, de ordenación del territorio de Galicia, con el siguiente contenido:
+«La sociedad pública estatal Suelo Empresarial del Atlántico, S.L., para llevar a cabo sus actuaciones y adquisiciones de suelo mediante expropiación, dentro del ámbito de la Comunidad Autónoma de Galicia, tendrá la condición de beneficiaria en los términos previstos en la Ley de expropiación forzosa y de su reglamento, correspondiendo la potestad expropiatoria a cualquiera de las administraciones públicas competentes.
+Asimismo, podrá adjudicársele directamente la formulación y ejecución de proyectos sectoriales, planes de sectorización, planes parciales y en general cualquier plan de ordenación y la gestión de sus patrimonios del suelo mediante los acuerdos o concesiones que a tal efecto se establezcan con las administraciones correspondientes.»
+
+### Disposición final cuarta
+
+Disposición final cuarta. Modificación de la Ley 3/2008, de 23 de mayo, de ordenación de la minería de Galicia.
+Se modifica el artículo 14 de la Ley 3/2008, de 23 de mayo, de ordenación de la minería de Galicia, quedando redactado en los siguientes términos:
+«Artículo 14. Participación de la consejería competente en materia de minas en instrumentos de planificación.
+1. Todas las figuras de planeamiento urbanístico o territorial con incidencia en la minería habrán de someterse a informe vinculante de la consejería competente en materia de minas, con posterioridad a su aprobación inicial. El informe deberá ser emitido en el plazo de tres meses, transcurrido el cual se entenderá favorable.
+En caso de ser desfavorable, el informe indicará expresamente los preceptos legales vulnerados.
+2. Cualquier prohibición contenida en los instrumentos de ordenación sobre actividades incluidas en la Ley 22/1973, de 21 de julio, de minas, y en la presente ley habrá de ser motivada, no pudiendo ser de carácter genérico.»
+
+### Disposición final quinta
+
+Disposición final quinta. Desarrollo reglamentario de la ley.
+Se autoriza al Consello de la Xunta para dictar, en el plazo de un año, las disposiciones para el desarrollo reglamentario de la presente ley.
+
+### Disposición final sexta
+
+Disposición final sexta. Entrada en vigor.
+La presente ley entrará en vigor al mes de su publicación en el «Diario Oficial de Galicia».
+
+Santiago de Compostela, 10 de febrero de 2016.
+El Presidente,
+Alberto Núñez Feijóo.

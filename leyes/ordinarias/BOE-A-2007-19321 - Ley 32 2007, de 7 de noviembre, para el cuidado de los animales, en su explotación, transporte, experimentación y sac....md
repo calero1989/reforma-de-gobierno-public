@@ -1,0 +1,410 @@
+# Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio.
+
+- Identificador BOE: `BOE-A-2007-19321`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-19321
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+I
+La Unión Europea establece de forma taxativa la obligación de regular el correspondiente régimen sancionador en caso de incumplimiento de la normativa de bienestar animal, pudiéndose citar a estos efectos el artículo 55 del Reglamento (CE) nº 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar animal. Más recientemente el artículo 25 del Reglamento (CE) nº 1/2005 del Consejo, de 22 de diciembre de 2004, relativo a la protección de los animales durante el transporte y operaciones conexas, por el que se modifican las Directivas 64/432/CEE y 93/119/CE y el Reglamento (CE) nº 1255/1997, que deroga la Directiva 91/628/CEE del Consejo, de 19 de noviembre de 1991.
+En este contexto, las principales obligaciones, en lo que se refiere a los animales de producción, derivan de la Directiva 91/628/CEE del Consejo, de 19 de noviembre de 1991, sobre la protección de los animales durante el transporte, que modifica las Directivas 90/425/CEE y 91/496/CEE; de la Directiva 91/629/CEE del Consejo, de 19 de noviembre de 1991, relativa a las normas mínimas para la protección de terneros; de la Directiva 91/630/CEE del Consejo, de 19 de noviembre de 1991, relativa a las normas mínimas para la protección de cerdos; de la Directiva 98/58/CE del Consejo de 20 de julio de 1998, relativa a la protección de los animales en las explotaciones ganaderas; de la Directiva 1999/74/CE del Consejo de 19 de julio de 1999, por la que se establecen las normas mínimas de protección de las gallinas ponedoras y de la Directiva 93/119/CE del Consejo, de 23 de diciembre de 1993, relativa a la protección de los animales en el momento de su sacrificio o matanza. En lo que se refiere a animales utilizados para experimentación y otros fines científicos, debe tenerse en cuenta la Directiva 86/609/CEE, del Consejo de 24 de noviembre de 1986, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros respecto a la protección de los animales utilizados para experimentación y otros fines científicos.
+Asimismo, las obligaciones que son exigibles tanto para los responsables de los animales como para los operadores comerciales, se prevén en el Reglamento (CE) nº 1255/97 del Consejo, de 25 de junio de 1997, sobre los criterios comunitarios que deben cumplir los puntos de parada y por el que se adapta el plan de viaje mencionado en el Anexo de la Directiva 91/628/CEE, en la Decisión 2000/50/CE, de 19 de diciembre, de la Comisión, relativa a los requisitos mínimos para la inspección de las explotaciones ganaderas, y, a partir del 5 de enero de 2007, en el Reglamento (CE) nº 1/2005 del Consejo, de 22 de diciembre.
+Las obligaciones previstas en la anterior normativa comunitaria se concretan en las siguientes normas básicas estatales: el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros, en el Real Decreto 54/1995, de 20 de enero, sobre protección de los animales en el momento de su sacrificio o matanza, el Real Decreto 1041/1997, de 27 de junio, por el que se establecen las normas relativas a la protección de los animales durante su transporte, el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, el Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras, el Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos, el Real Decreto 751/2006, de 16 de junio, sobre autorización y registro de transportistas y medios de transporte de animales, por el que se crea el Comité español de bienestar y protección de los animales de producción, y el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos.
+II
+Mediante esta Ley se establece, en acatamiento del mandato comunitario, un conjunto de principios sobre el cuidado de los animales y el cuadro de infracciones y sanciones que dota de eficacia jurídica a las obligaciones establecidas en la normativa aplicable. Se logra así, con esta Ley dar cumplimiento además al artículo 25 de la Constitución que estipula la reserva de ley en la regulación de las infracciones y sanciones.
+Esta Ley también estipula las bases del régimen sancionador. Con ello se logra establecer un común denominador normativo en el cual las Comunidades Autónomas ejerzan sus competencias. Ese común denominador garantiza la uniformidad necesaria para la operatividad de la normativa aplicable y asegura una proporcionalidad mínima en las sanciones.
+El carácter básico de las normas y de las infracciones y sanciones contenidas en esta Ley es consecuencia de la reserva que los artículos 149.1.13.ª y 16.ª de la Constitución hacen a favor del Estado en materia de bases y coordinación de la planificación general de la actividad económica y bases y coordinación general de la sanidad.
+III
+La ley se estructura en tres títulos, completados con una disposición adicional y seis disposiciones finales.
+El título preliminar se refiere al objeto de la ley, que es establecer las bases de un régimen de protección animal y de infracciones y sanciones para garantizar el cumplimiento de las normas sobre protección de los animales en la explotación, el transporte, la experimentación y el sacrificio. Se regula así, también, la potestad sancionadora de la Administración General de Estado en lo que respecta a la protección de los animales exportados o importados desde o hacia Estados no miembros de la Unión Europea y a los procedimientos con animales de laboratorio que sean de su competencia.
+En este mismo título se definen aquellos términos, citados en el articulado, que precisan una determinación y concreción de sus caracteres y alcance, y se delimita su ámbito de aplicación, excluyéndose la caza y la pesca, la fauna silvestre, los espectáculos taurinos, las competiciones deportivas regladas y los animales de compañía, excepto lo establecido en la disposición adicional primera, ya que poseen su propia normativa reguladora.
+El título I regula los aspectos más relevantes sobre la explotación, el transporte de los animales, su sacrificio o su matanza. Se determinan, asimismo, las actividades sujetas a autorización administrativa o notificación previa a la Administración competente.
+Las previsiones contempladas en los títulos anteriores devendrían ineficaces sin la existencia de un régimen de inspecciones y controles, así como de infracciones y sanciones, aspectos estos últimos a los que atiende el título II, dividido en tres capítulos.
+El capítulo I establece las reglas generales sobre los planes y programa de inspección y control, el régimen del personal inspector y las obligaciones de la inspección.
+El capítulo II se destina a las infracciones y sanciones. Con carácter básico se han configurado las infracciones muy graves, graves y leves por incumplimiento de la normativa en la materia.
+Respecto de las sanciones, habida cuenta de su naturaleza básica se establece su contenido sancionador mínimo y máximo.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Esta Ley tiene por objeto:
+a) Establecer las normas básicas sobre explotación, transporte, experimentación y sacrificio para el cuidado de los animales de producción, y un régimen común de infracciones y sanciones para garantizar su cumplimiento.
+Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 3.1 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3, entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "a) Establecer las normas básicas sobre explotación, transporte, experimentación y sacrificio para el cuidado de los animales y un régimen común de infracciones y sanciones para garantizar su cumplimiento."
+b) Regular la potestad sancionadora de la Administración General del Estado sobre exportación e importación de animales desde o hacia Estados no miembros de la Unión Europea en lo que respecta a su atención y cuidado y sobre los animales utilizados para experimentación y otros fines científicos en procedimientos de su competencia.
+Se modifica la letra a) por la disposición final 3.1 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta Ley se aplicará a:
+a) Los animales vertebrados de producción.
+b) Los animales, proyectos y procedimientos contemplados en la normativa de la Unión Europea o internacional en la materia de animales utilizados con fines de experimentación u otros fines científicos, incluyendo la educación y la docencia.
+2. Esta Ley no se aplicará a:
+a) La caza y la pesca.
+b) La fauna silvestre, salvo los animales de dichas especies criados con fines productivos o de aprovechamiento de los mismos o de sus producciones o cultivos, e incluida aquella existente en los parques zoológicos que se regulan por la Ley 31/2003, de 27 de octubre, de conservación de la fauna silvestre en los parques zoológicos, sin perjuicio de los previsto en la letra f) del apartado primero del artículo 14.
+c) Los espectáculos taurinos previstos en los artículos 2 y 10 de la Ley 10/1991, de 4 de abril, sobre potestades administrativas en materia de espectáculos taurinos, y las competiciones deportivas regladas incluidas las actuaciones precisas para el control del dopaje de los animales.
+d) Los animales de compañía y aquellos animales de producción que, perdiendo su fin productivo, el propietario decidiera inscribirlos como animal de compañía en el Registro de Animales de compañía.
+Téngase en cuenta que esta actualización de las letras b) y d), establecida por la disposición final 3.2 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3, entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "b) La fauna silvestre, incluida aquella existente en los parques zoológicos que se regulan por la Ley 31/2003, de 27 de octubre, de conservación de la fauna silvestre en los parques zoológicos, sin perjuicio de lo previsto en el artículo 14.1.f) de esta Ley.
+ d) Los animales de compañía, sin perjuicio de lo previsto en la disposición adicional primera de esta Ley."
+Se modifican las letra b) y d) del apartado 2 por la disposición final 3.2 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+ Se modifica el apartado 1 por el art. único.1 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+### Artículo 3
+
+Artículo 3. Definiciones.
+A los efectos de esta Ley, se entenderá por:
+a) Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, y los silvestres mantenidos, cebados o criados, para la producción de alimentos o productos de origen animal, o para cualquier otro fin comercial o lucrativo. Quedan excluidos los perros, gatos y hurones. Los animales de producción sólo se considerarán animales de compañía en el supuesto de que, perdiendo su fin productivo, el propietario decidiera inscribirlo como animal de compañía en el Registro de Animales de compañía.
+Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 3.3 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3, entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
+ Redacción anterior:
+ "a) Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, mantenidos, cebados o criados, para la producción de alimentos o productos de origen animal, o para cualquier otro fin comercial o lucrativo."
+b) Animales utilizados para experimentación y otros fines científicos: (Sin contenido)
+c) Procedimiento: (Sin contenido)
+d) Experimentación y otros fines científicos, incluida la docencia: (Sin contenido)
+e) Autoridad competente: los órganos correspondientes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla; los órganos correspondientes de la Administración General del Estado en materia de comercio y sanidad exteriores; y los órganos de las entidades locales en las funciones propias o complementarias que la legislación encomiende a dichas entidades.
+f) Explotación: cualquier instalación, construcción o, en el caso de cría al aire libre, cualquier lugar en los que se tengan, críen o manejen animales de producción, o se utilicen animales para experimentación u otros fines científicos. A estos efectos, se entenderán incluidos los mataderos y otros lugares en que se realice el sacrificio de animales, los centros de concentración, los puestos de control, los centros o establecimientos destinados a la utilización de animales para experimentación u otros fines científicos y los circos.
+Se modifica la letra a) por la disposición final 3.3 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+ Se dejan sin contenido las definiciones contenidas en las letras b), c) y d) por el art. único.2 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+## TÍTULO I
+
+Explotación, transporte, experimentación y sacrificio de animales
+
+### Artículo 4
+
+Artículo 4. Explotaciones de animales.
+Las Administraciones Públicas adoptarán las medidas necesarias para asegurar que, en las explotaciones, los animales no padezcan dolores, sufrimientos o daños inútiles.
+Para ello, se tendrán en cuenta su especie y grado de desarrollo, adaptación y domesticación, así como sus necesidades fisiológicas y etológicas de acuerdo con la experiencia adquirida, los conocimientos científicos y la normativa comunitaria y nacional de aplicación en cada caso.
+
+### Artículo 5
+
+Artículo 5. Transporte de animales.
+1. Las Administraciones Públicas y los organizadores del viaje adoptarán las medidas necesarias para que solo se transporten animales que estén en condiciones de viajar, para que el transporte se realice sin causarles lesiones o un sufrimiento innecesario, para la reducción al mínimo posible de la duración del viaje y para la atención de las necesidades de los animales durante el mismo.
+2. Los medios de transporte y las instalaciones de carga y descarga se concebirán, construirán, mantendrán y utilizarán adecuadamente, de modo que se eviten lesiones y sufrimiento innecesarios a los animales y se garantice su seguridad.
+3. El personal que manipule los animales estará convenientemente formado o capacitado para ello y realizará su cometido sin recurrir a la violencia o a métodos que puedan causar a los animales temor, lesiones o sufrimientos innecesarios.
+Se modifica el apartado 1 por la disposición final 6.1 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Artículo 6
+
+Artículo 6. Sacrificio o matanza de animales.
+1. Las normas sobre la construcción, las instalaciones y los equipos de los mataderos, así como su funcionamiento, evitarán a los animales agitación, dolor o sufrimiento innecesarios.
+2. El sacrificio de animales fuera de los mataderos se hará únicamente en los supuestos previstos por la normativa aplicable en cada caso y de acuerdo con los requisitos fijados por ésta, a excepción de los sacrificios de animales llevados a cabo por veterinarios con fines diagnósticos.
+3. Cuando el sacrificio de los animales se realice según los ritos propios de Iglesias, Confesiones o Comunidades religiosas inscritas en el Registro de Entidades Religiosas, y las obligaciones en materia de aturdimiento sean incompatibles con las prescripciones del respectivo rito religioso, las autoridades competentes no exigirán el cumplimiento de dichas obligaciones siempre que las prácticas no sobrepasen los límites a los que se refiere el artículo 3 de la Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa.
+En todo caso, el sacrificio conforme al rito religioso de que se trate se realizará bajo la supervisión y de acuerdo con las instrucciones del veterinario oficial.
+El matadero deberá comunicar a la autoridad competente que se va a realizar este tipo de sacrificios para ser registrado al efecto, sin perjuicio de la autorización prevista en la normativa comunitaria.
+
+### Artículo 7
+
+Artículo 7. Centros o establecimientos destinados a la cría, suministro o uso de animales utilizados para experimentación y otros fines científicos, incluida la docencia.
+Los centros o establecimientos destinados a la cría, suministro o uso de animales utilizados para experimentación y otros fines científicos, incluida la docencia, deben estar autorizados o inscritos en el correspondiente registro administrativo, con carácter previo al inicio de su actividad y los procedimientos y proyectos donde se utilizan deben ser regulados, evaluados y autorizados en los términos en que se determine en la normativa de la Unión Europea.
+Se modifica por el art. único.3 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+### Artículo 7 bis
+
+Artículo 7 bis. Ferias, exposiciones y concursos, romerías y eventos feriados, belenes, cabalgatas y procesiones.
+1. Los animales que participen en ferias ganaderas, mercados, exposiciones y concursos de similar naturaleza, deberán tener acceso a comida y agua fresca de forma permanente, así como un espacio adecuado para refugiarse de las inclemencias climatológicas.
+2. En las exposiciones o concursos de animales se deberán cumplir los siguientes requisitos:
+a) Las exposiciones y concursos de animales deberán contar con la asistencia de, al menos, una persona licenciada o con grado en veterinaria, responsables de vigilar las condiciones sanitarias y de bienestar de los animales durante el evento, así como de prestar asistencia veterinaria de urgencia en todas las situaciones que se pudieran presentar. Será obligatorio que estén a disposición del equipo veterinario todos los medios necesarios para atender las situaciones de urgencia.
+b) Los animales participantes en las exposiciones y concursos tendrán habitáculos adecuados a su tamaño, a las condiciones de temperatura existentes, de forma que posibilite su descanso sin elementos estresores.
+c) Todos los animales participantes en las exposiciones o concursos deben estar identificados e inscritos en el registro correspondiente.
+3. En estos eventos feriados en los que participen animales se deberá garantizar en todo momento por los organizadores el bienestar y la salud de aquellos, así como la seguridad de los visitantes.
+4. Las personas titulares o responsables de estos animales, así como los organizadores del evento, facilitarán la actividad inspectora para revisar horarios de descanso, condiciones de salud y documentación.
+5. Se prohíbe el uso de animales en exposiciones de belenes, cabalgatas o procesiones en las que se mantenga al animal inmovilizado durante la duración del evento.
+Téngase en cuenta que este artículo, añadido por la disposición final 3.4 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3, entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+Se añade por la disposición final 3.4 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+
+### Artículo 8
+
+Artículo 8. Autorizaciones y registros administrativos.
+Los transportistas de animales, sus vehículos, contenedores o medios de transporte deben disponer de la correspondiente autorización y estar registrados, en los términos que reglamentariamente se determinen.
+
+### Artículo 9
+
+Artículo 9. Importaciones de animales vivos.
+En el caso de importaciones desde terceros países de animales vivos la Administración General del Estado exigirá el cumplimiento de las obligaciones fijadas en la normativa europea.
+
+## TÍTULO II
+
+Inspecciones, infracciones y sanciones
+
+## CAPÍTULO I
+
+Inspecciones
+
+### Artículo 10
+
+Artículo 10. Planes y programas de inspección y control.
+Las Administraciones Públicas, en el ámbito de sus respectivas competencias, establecerán los programas o planes periódicos de inspecciones y controles oficiales que se precisen, sin perjuicio de las inspecciones que resulten necesarias ante situaciones o casos singulares.
+
+### Artículo 11
+
+Artículo 11. Personal inspector.
+Para el desempeño de las funciones inspectoras concernientes a la materia a la que se refiere esta Ley, el personal al servicio de las Administraciones Públicas deberá tener cualificación y formación suficiente para el ejercicio de estas tareas. Asimismo, tendrá el carácter de agente de la autoridad, pudiendo recabar de las autoridades competentes y, en general, de quienes ejerzan funciones públicas, incluidas las Fuerzas y Cuerpos de Seguridad del Estado o cuerpos policiales autonómicos y locales, el concurso, apoyo y protección que le sean precisos.
+
+### Artículo 12
+
+Artículo 12. Obligaciones del inspeccionado.
+Las personas físicas o jurídicas a quienes se practique una inspección estarán obligadas a:
+a) Permitir el acceso de los inspectores a todo establecimiento, explotación, instalación, vehículo, contenedor o medio de transporte, o lugar en general, con la finalidad de realizar su actuación inspectora, siempre que aquéllos se acrediten debidamente ante el empresario, su representante legal o persona debidamente autorizada o, en su defecto, ante cualquier empleado que se hallara presente en el lugar. Si la inspección se practicase en el domicilio de una persona física, deberán obtener su consentimiento expreso o, en su defecto, la preceptiva autorización judicial previa.
+b) Suministrar toda clase de información sobre instalaciones, productos, animales, servicios y, en general, sobre aquellos aspectos relativos a la protección animal que se le solicitaran, permitiendo su comprobación por los inspectores.
+c) Facilitar que se obtenga copia o reproducción de la información en materia de protección animal.
+d) Permitir la práctica de diligencias probatorias del incumplimiento de la normativa vigente en materia de protección animal.
+e) En general, a consentir y colaborar en la realización de la inspección.
+f) En todo caso, el administrado tendrá derecho a mostrar y ratificar su disconformidad respecto a lo recogido en el acta de inspección.
+
+## CAPÍTULO II
+
+Infracciones
+
+### Artículo 13
+
+Artículo 13. Calificación de infracciones.
+Las infracciones se califican como muy graves, graves o leves, atendiendo a los criterios de riesgo o daño para los animales y al grado de intencionalidad.
+
+### Artículo 14
+
+Artículo 14. Infracciones.
+1. Son infracciones muy graves las siguientes:
+a) El sacrificio o muerte de animales en espectáculos públicos fuera de los supuestos expresamente previstos en la normativa aplicable en cada caso o expresa y previamente autorizados por la autoridad competente.
+b) El incumplimiento de las obligaciones exigidas por las normas de protección animal, cuando concurra la intención de provocar la tortura o muerte de los mismos.
+c) Utilizar los animales en peleas.
+d) Utilizar animales en producciones cinematográficas, televisivas, artísticas o publicitarias, incluso con autorización de la autoridad competente, cuando se produzca la muerte de los mismos.
+e) El incumplimiento de la obligación de aturdimiento previo, cuando no concurra el supuesto establecido en el artículo 6.3.
+f) Utilizar en procedimientos animales prohibidos, o iniciar o llevar a cabo un procedimiento sin la autorización previa o la evaluación favorable previa en caso de silencio administrativo, del proyecto correspondiente.
+g) Provocar, facilitar o permitir la salida de los animales de experimentación u otros fines científicos del centro o establecimiento, sin autorización por escrito del responsable del mismo, cuando dé lugar a la muerte del animal o cree un riesgo grave para la salud pública.
+h) Suministrar documentación falsa a los inspectores o a la Administración.
+i) Utilizar perros o gatos vagabundos en procedimientos.
+j) Liberación incontrolada y voluntaria de animales de una explotación.
+k) Iniciar o llevar a cabo procedimientos en condiciones distintas de las incluidas en la autorización del proyecto, o en la evaluación favorable del mismo en caso de silencio administrativo, o incumpliendo los requisitos, condiciones y obligaciones contenidos en dicha autorización o evaluación favorable, cuando se utilicen en dicho procedimiento primates no humanos, animales de especies amenazadas incluidas en el Anexo A Reglamento (CE) n.º 338/97 del Consejo de 9 de diciembre de 1996 relativo a la protección de especies de la fauna y flora silvestres mediante el control de su comercio, animales capturados en la naturaleza, animales vagabundos o asilvestrados.
+l) El incumplimiento de la obligación de disponer de un sistema de videovigilancia de bienestar animal.
+m) La segunda o ulterior infracción grave que suponga reincidencia con otra infracción grave cometida en el plazo de dos años, contados desde la sanción por resolución firme en vía administrativa de la primera de ellas.
+n) Educar o manejar al animal con métodos agresivos o violentos que puedan provocar maltrato al animal, o causarle estados de ansiedad o miedo.
+ñ) Abandonar a un animal, con el resultado de la ausencia de control sobre el mismo o su efectiva posesión.
+o) El uso de animales de producción en actividades culturales y festivas, en atracciones mecánicas y carruseles de feria, salvo los casos en los que esté permitido.
+2. Son infracciones graves las siguientes:
+a) Las mutilaciones no permitidas a los animales.
+b) Iniciar o llevar a cabo procedimientos en condiciones distintas de las incluidas en la autorización del proyecto, o en la evaluación favorable del mismo en caso de silencio administrativo, o incumpliendo los requisitos, condiciones y obligaciones contenidos en dicha autorización o evaluación favorable, cuando no constituya infracción muy grave.
+c) Realizar cualquiera de las actividades reguladas en esta Ley sin contar con la autorización administrativa o la inscripción registral exigible según las normas de protección animal aplicables.
+d) El incumplimiento de las obligaciones exigidas por las normas de protección animal, cuando produzca lesiones de gravedad o permanentes, deformaciones o defectos graves de los mismos o una situación de estrés grave.
+e) La resistencia, obstrucción, excusa o negativa a las actuaciones de la administración. Se entiende producida esta circunstancia cuando el sujeto infractor haya realizado actuaciones tendentes a dilatar, entorpecer o impedir las actuaciones de la administración en relación con el cumplimiento de sus obligaciones. Entre otras, constituyen resistencia, obstrucción, excusa o negativa a las actuaciones de la administración las siguientes conductas:
+No facilitar el examen de documentos, informes, antecedentes, libros, registros, ficheros, facturas, justificantes y asientos de contabilidad principal o auxiliar, programas y archivos informáticos, sistemas operativos y de control y cualquier otro dato con trascendencia a los efectos del cumplimiento de las obligaciones en esta materia.
+No atender algún requerimiento debidamente notificado.
+La incomparecencia, salvo causa justificada, en el lugar y tiempo que se hubiera señalado.
+Negar o impedir indebidamente la entrada o permanencia en fincas o locales al personal funcionario actuante, o el reconocimiento de locales, máquinas, instalaciones y explotaciones relacionados con esta ley.
+Las coacciones al personal funcionario de la administración actuante.
+f) Emitirse una evaluación favorable por un órgano habilitado para ello, para un proyecto, incumpliendo la normativa reguladora en cuanto a los requisitos de conflicto de intereses o permitiendo el uso de animales prohibidos en procedimientos, o en condiciones distintas a las requeridas para los autorizados.
+g) El transporte de animales no aptos.
+h) El incumplimiento de la obligación del operador del matadero de elaborar y mantener procedimientos normalizados de trabajo exigidos en la normativa aplicable.
+i) Disponer de un sistema de videovigilancia de bienestar animal que incumpla los requisitos de instalación y funcionamiento establecidos en la normativa aplicable.
+j) La falta de conservación y almacenamiento de las imágenes y registros del sistema de videovigilancia del bienestar animal.
+k) La ausencia del certificado de competencia cuando resulte exigible por la legislación vigente.
+l) La no presentación de la documentación exigida en la normativa vigente, o presentar documentación falsa o inexacta o hacer constar datos falsos en libros de registros, bases de datos o cuantos documentos obliguen a llevar las disposiciones vigentes, así como la declaración de datos falsos en las comunicaciones que se realicen por sus titulares o por el resto de operadores.
+m) La segunda o ulterior infracción leve que suponga reincidencia con otra infracción leve cometida en el plazo de dos años, contados desde la sanción por resolución firme en vía administrativa de la primera de ellas.
+n) No adoptar las medidas necesarias para evitar que su tenencia o circulación ocasione peligros, amenazas o daños a las personas, otros animales o a las cosas.
+ñ) Utilizar animales en producciones cinematográficas, televisivas, artísticas o publicitarias, incluso con autorización de la autoridad competente, cuando se produzca maltrato al animal.
+o) La aplicación de cepos a equinos y sus híbridos en espacios abiertos.
+3. Son infracciones leves:
+a) El incumplimiento de obligaciones exigidas por las normas de protección animal en cuanto al cuidado y manejo de los animales, siempre que no se produzcan lesiones permanentes, deformidades o defectos graves, o la muerte de los animales.
+b) El incumplimiento de las obligaciones en cuanto a la forma, métodos y condiciones para el sacrificio o matanza de animales, excepto el aturdimiento, cuando no concurra el supuesto establecido en el artículo 6.3.
+c) (Suprimido)
+d) Suministrar de forma incompleta, inexacta o fuera del plazo señalado la información que sea requerida por la autoridad competente en el ejercicio de sus funciones.
+Téngase en cuenta que las letras n), ñ) y o) del apartado 1 y las letras n), ñ) y o) del apartado 2, añadidas por la disposición final 3.5 y 6 de la Ley 7/2023, de 28 de marzo, Ref. BOE-A-2023-7936#df-3, entran en vigor el 29 de septiembre de 2023, según establece su disposición final 9. Asimismo se suprime, con los mismos efectos, la letra c) del apartado 3, por la disposición final 3.7.
+ Redacción anterior:
+ "c) Abandonar a un animal, con el resultado de la ausencia de control sobre el mismo o su efectiva posesión."
+Se añaden las letras n), ñ) y o) al apartado 1, las letras n), ñ) y o) al apartado 2 y se suprime la letra c) del apartado 3 por la disposición final 3.5 a 7 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+ Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 94, de 20 de abril de 2023. Ref. BOE-A-2023-9633
+ Se modifica por la disposición final 6.2 a 4 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+ Se modifican los apartados 1 y 2 por el art. único.4 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+### Artículo 15
+
+Artículo 15. Reincidencia.
+1. Existe reincidencia si se produce la comisión de más de una infracción de la misma naturaleza en el término de dos años y así se declara en la nueva resolución sancionadora, siempre que asimismo la primera resolución sancionadora fuera firme en vía administrativa. La fecha a partir de la cual se contará dicho plazo será el día que conste en autos que cometió la primera infracción o, si es continuada, desde el día que dejó de cometerla.
+2. La reincidencia tendrá como consecuencia el incremento de la sanción correspondiente.
+Se modifica el apartado 1 por la disposición final 6.5 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Artículo 16
+
+Artículo 16. Sanciones.
+1. Por la comisión de infracciones en materia de protección de los animales, podrán imponerse las siguientes sanciones:
+a) En el caso de infracciones muy graves, se aplicará una multa de, al menos, 6.001 euros y hasta un límite máximo de 100.000 euros.
+b) En el caso de infracciones graves, se aplicará una multa de, al menos, 601 euros y hasta un límite máximo de 6.000 euros.
+c) En el caso de infracciones leves, se aplicará una sanción de multa hasta un límite máximo de 600 euros o apercibimiento en su defecto.
+2. Cuando en la instrucción del correspondiente procedimiento sancionador se determine la cuantía del beneficio ilícito obtenido por la comisión de las infracciones, la sanción que se imponga en ningún caso podrá ser inferior en su cuantía al mismo. El límite superior de las multas podrá superarse hasta el duplo del beneficio obtenido por el infractor, cuando dicho beneficio exceda de la cuantía máxima de la multa.
+3. Los ingresos procedentes de las sanciones se destinarán a actuaciones que tengan por objeto la protección de los animales.
+Se modifica el apartado 2 por la disposición final 6.6 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Artículo 17
+
+Artículo 17. Sanciones accesorias.
+La comisión de infracciones, graves y muy graves, o cuando exista reiteración, puede llevar aparejada la imposición de las siguientes sanciones accesorias:
+a) Medidas de corrección, seguridad o control, que impidan la continuidad en la producción del daño. El coste de dichas medidas será asumido por el infractor.
+b) Decomiso de los animales. El órgano sancionador determinará el destino definitivo del animal, con sujeción a los principios de bienestar y protección animal.
+c) Cese o interrupción de la actividad, en el caso de sanciones muy graves.
+d) Clausura o cierre de establecimientos y retirada de la autorización administrativa o cancelación de la inscripción en el registro de que se trate, en el caso de sanciones muy graves.
+e) Suspensión temporal de la autorización del transportista o certificado de competencia del conductor o cuidador.
+Se modifica por la disposición final 6.7 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Artículo 18
+
+Artículo 18. Graduación de las sanciones.
+1. Las sanciones pecuniarias se graduarán en función de los siguientes criterios: los conocimientos, el nivel educativo y otras circunstancias del responsable, el tamaño y la ubicación geográfica de la explotación, el grado de culpa, el beneficio obtenido o que se esperase obtener, el número de animales afectados, el daño causado a los animales, el incumplimiento de advertencias previas y la alarma social que pudiera producirse.
+2. Si, en razón de las circunstancias concurrentes, se apreciara una cualificada disminución de la culpabilidad del imputado, el órgano sancionador podrá establecer la cuantía de la sanción aplicando la escala relativa a la clase de infracciones de menor gravedad que aquélla en que se integra la considerada.
+3. El órgano sancionador podrá reducir la cuantía de la sanción pecuniaria hasta en un 20 por cien si el presunto infractor reconoce la comisión de la infracción, una vez recibida la notificación de la incoación del procedimiento sancionador, sin efectuar alegaciones ni proponer prueba alguna.
+Asimismo, podrá incrementar la cuantía hasta en un 50 por ciento si el infractor es reincidente. Si la reincidencia concurre en la comisión de infracciones leves, no procederá la sanción de apercibimiento.
+
+### Artículo 19
+
+Artículo 19. Competencia sancionadora.
+1. El ejercicio de la potestad sancionadora en aplicación de la presente Ley corresponderá a los órganos competentes de las Comunidades Autónomas o de las Ciudades de Ceuta y Melilla, y a la Administración General del Estado, en el ámbito de sus respectivas competencias.
+2. Cuando se trate de infracciones en importaciones o exportaciones de animales, o en materia de procedimientos que sean competencia de la Administración General del Estado, la iniciación del procedimiento corresponderá al Ministerio de Agricultura, Pesca y Alimentación, y la instrucción al órgano de dicho Ministerio que tenga atribuidas las funciones en materia de protección animal.
+3. La resolución correspondiente a los supuestos contemplados en el apartado anterior, será dictada por:
+a) El Ministro de Agricultura, Pesca y Alimentación en los supuestos de infracciones leves y graves, sin perjuicio de la posibilidad de delegación.
+b) El Consejo de Ministros en los supuestos de infracciones muy graves.
+
+### Artículo 20
+
+Artículo 20. Medidas provisionales.
+En los casos de grave riesgo para la vida del animal, podrán adoptarse medidas provisionales para poner fin a la situación de riesgo para el animal, antes de la iniciación del procedimiento sancionador. Entre otras, podrán adoptarse las siguientes:
+a) La incautación de animales.
+b) La no expedición, por parte de la autoridad competente de documentos legalmente requeridos para el traslado de animales.
+c) La suspensión o paralización de las actividades, instalaciones o medios de transporte y el cierre de locales, que no cuenten con las autorizaciones o registros preceptivos.
+
+### Artículo 21
+
+Artículo 21. Medidas no sancionadoras.
+No tendrán carácter de sanción la clausura o cierre de establecimientos o instalaciones que no cuenten con las previas autorizaciones o registros preceptivos, o la suspensión de su funcionamiento hasta tanto se subsanen los defectos o se cumplan los requisitos exigidos por razones de protección animal.
+
+### Artículo 22
+
+Artículo 22. Multas coercitivas.
+En el supuesto de que el interesado no ejecute las medidas provisionales, cumpla las sanciones impuestas o las medidas previstas en el artículo 21, la autoridad competente podrá requerir a los afectados para que, en un plazo suficiente, procedan al cumplimiento de aquéllas, con apercibimiento de que, en caso contrario, se impondrá una multa coercitiva, con señalamiento de cuantía y hasta un máximo de 6.000 euros.
+
+### Artículo 23
+
+Artículo 23. Prescripción y caducidad.
+1. Las infracciones muy graves prescribirán a los cuatro años, las graves a los tres años y las leves al año, a contar desde el día en que la infracción se hubiera cometido. En el caso de infracciones continuadas o permanentes, el plazo iniciará su cómputo desde que finalizó la conducta infractora.
+2. Las sanciones muy graves prescribirán a los cuatro años, las graves a los tres años y las leves al año a contar desde el día siguiente a aquel en que hubiera adquirido firmeza la resolución por la que se impuso la sanción.
+3. El plazo máximo de tramitación del procedimiento sancionador será de un año.
+Se añade por la disposición final 6.8 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Artículo 24
+
+Artículo 24. Centro de referencia y punto de coordinación.
+El Ministerio de Agricultura, Pesca y Alimentación establecerá un punto de coordinación con el o los centros de referencia que puedan designarse en materia de bienestar de los animales utilizados con fines agrícolas, incluyendo la producción acuícola.
+Se añade por la disposición final 6.9 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Disposición adicional primera
+
+Disposición adicional primera. Protección de los animales de compañía y domésticos.
+(Suprimida)
+Téngase en cuenta que esta disposición se suprime, con efectos de 29 de septiembre de 2023, por la disposición final 3.8 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Redacción anterior:
+ "1. Será aplicable a los animales de compañía y domésticos lo dispuesto en el artículo 5 en tanto el transporte se realice de forma colectiva y con fines económicos.
+ 2. Serán igualmente de aplicación a los animales de compañía y domésticos las infracciones y sanciones tipificadas en los artículos 14.1, párrafos a), b), c), d), e), h), i), j) y m); 14.2, párrafos a), c), d), e), l) y m); 14.3 y 16.1."
+Se suprime por la disposición final 3.8 de la Ley 7/2023, de 28 de marzo. Ref. BOE-A-2023-7936#df-3
+ Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
+ Se modifica el apartado 2 por la disposición final 6.10 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-6
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Tasa por la prestación de servicios y gestión de permisos y certificados en el ámbito del Convenio sobre el Comercio Internacional de especies amenazadas de fauna y flora silvestres (CITES).
+1. Se crea la Tasa por la prestación de servicios y expedición de documentos CITES que se regirá por la presente Ley y por las demás fuentes normativas que para las tasas se establecen en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+2. Hecho imponible: La realización por la Administración General del Estado de las actuaciones referidas a la expedición de permisos y certificados CITES previstos en el Convenio sobre el Comercio Internacional de Especies amenazadas de fauna y flora silvestres (CITES) y en el Reglamento (CE) nº 338/1997, del Consejo, de 9 de diciembre de 1996, relativo a la protección de especies de fauna y flora silvestres mediante el control de su comercio.
+3. Base imponible: Las solicitudes de permisos o certificados para especímenes de fauna y flora CITES de acuerdo con la descripción que se contiene en el punto 6.
+4. Devengo de la tasa: El momento en que se presente la solicitud que inicie el expediente, que no se realizará ni tramitará sin que se haya efectuado previamente el pago correspondiente.
+5. Sujetos pasivos: Las personas físicas o jurídicas que soliciten la prestación de servicios que constituyen el hecho imponible de las mismas.
+6. Determinación de la cuota.
+La cuantía de la tasa a ingresar será:
+a) Por permisos CITES de importación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
+b) Por permisos CITES de exportación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
+c) Por certificados CITES de reexportación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
+d) Por certificados de propiedad privada: 30 euros.
+e) Por certificados de uso comunitario: 20 euros.
+f) Por certificados de exhibición itinerante: 20 euros.
+g) Por certificados de colección de muestras: 20 euros.
+h) Por certificados de instrumentos musicales: 20 euros.
+7. Exenciones: Quedan exentos del abono de tasas los organismos e instituciones oficiales pertenecientes a cualquiera de las Administraciones Públicas.
+8. Autoliquidación y pago:
+Uno. La tasa será objeto de autoliquidación por parte del sujeto pasivo, que habrá de acompañar justificante de su pago a la solicitud del permiso o certificado.
+Dos. El pago de la tasa se realizará en efectivo por el procedimiento establecido en la normativa que regula la gestión recaudatoria de las tasas de la Hacienda Pública.
+9. Gestión y recaudación: La gestión de la tasa se llevará a cabo por la Secretaría General de Comercio Exterior del Ministerio de Industria, Turismo y Comercio.
+Se modifica el apartado 6 por la disposición final 15 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-16
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Silencio administrativo.
+En cumplimiento de lo previsto en el artículo 43 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en el procedimiento de autorización de proyectos en los que se utilicen animales para experimentación y otros fines científicos, incluyendo la docencia, el vencimiento del plazo máximo para resolver, sin haberse notificado resolución expresa al interesado, se entenderá como silencio administrativo negativo, salvo que éste cuente ya con la preceptiva evaluación favorable, a partir de cuyo momento el silencio se entenderá positivo.
+Se añade por el art. único.5 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+### Disposición final primera
+
+Disposición final primera. Modificación de la Ley 8/2003, de 24 de abril, de Sanidad Animal.
+La Ley 8/2003, de 24 de abril, de Sanidad Animal, queda modificada como sigue:
+Uno. Se añade un nuevo párrafo al artículo 36.1, del siguiente tenor:
+«A efectos de la autorización prevista en el párrafo anterior, la autoridad competente verificará el cumplimiento de los requisitos exigibles en materia de protección animal. En todo caso, las explotaciones en que los animales descansen en el curso de un viaje deberán estar autorizadas y registradas por la autoridad competente en materia de protección animal.»
+Dos. Se añade un nuevo párrafo al artículo 89.1, del siguiente tenor:
+«No obstante lo dispuesto en el párrafo anterior, si, en razón de las circunstancias concurrentes, se apreciara una cualificada disminución de la culpabilidad del imputado, el órgano sancionador podrá establecer la cuantía de la sanción aplicando la escala relativa a la clase de infracciones de menor gravedad que aquélla en que se integra la considerada en el caso de que se trate.»
+
+### Disposición final segunda
+
+Disposición final segunda. Títulos competenciales.
+1. Esta Ley se dicta al amparo del artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de bases y coordinación general de la sanidad.
+2. Se exceptúan de lo dispuesto en el apartado anterior:
+a) Los artículos 1 b), 10 y 19 y el régimen de inspecciones, infracciones y sanciones correspondientes a las importaciones y exportaciones que se dicta al amparo de la competencia exclusiva del Estado en materia de sanidad exterior, de acuerdo con el artículo 149.1.16.ª de la Constitución.
+b) La disposición adicional segunda se dicta al amparo de la competencia exclusiva que el artículo 149.1.14.ª de la Constitución reconoce al Estado en materia de Hacienda General.
+
+### Disposición final tercera
+
+Disposición final tercera. Actualización de sanciones.
+El Gobierno podrá, mediante real decreto, actualizar las sanciones pecuniarias tipificadas en el artículo 16, de acuerdo con la variación anual del Índice de Precios al Consumo.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Reconocimiento de la formación de los investigadores de centros que utilicen animales para experimentación u otros fines científicos.
+El Ministerio de Educación y Ciencia establecerá en el plazo de dos meses desde la entrada en vigor de esta Ley, un procedimiento excepcional para acreditar que los investigadores poseen la formación y experiencia adecuada para la experimentación con animales. La aplicación de este procedimiento se extenderá hasta un año después de la entrada en vigor de la ley.
+
+### Disposición final quinta
+
+Disposición final quinta.
+Lo dispuesto en los artículos 6.3, 14.1, letras a), c) y d), 14.2.a), 16.3 y en el apartado 2 de la Disposición Adicional primera de esta ley, es aplicable en tanto en cuanto las Comunidades Autónomas con competencia estatutariamente asumida en esta materia no dicten su propia normativa.
+
+### Disposición final sexta
+
+Disposición final sexta. Facultad de aplicación y desarrollo.
+Se autoriza al Gobierno, en el ámbito de las competencias del Estado, a dictar cuantas disposiciones sean precisas para la aplicación y desarrollo de esta ley, y en particular, para concretar el régimen de infracciones y sanciones dispuesto en esta ley.
+Se modifica por el art. único.6 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+
+### Disposición final séptima
+
+Disposición final séptima. Entrada en vigor.
+La presente Ley entrará en vigor al mes de su publicación en el «Boletín Oficial del Estado».
+Se renumera por el art. único.7 de la Ley 6/2013, de 11 de junio. Ref. BOE-A-2013-6271.
+ Anteriormente era la disposición final 6.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 7 de noviembre de 2007.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

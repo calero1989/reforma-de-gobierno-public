@@ -1,0 +1,152 @@
+# Ley 2/2005, de 24 de junio, de creación del Jurado de Defensa de la Competencia de Extremadura.
+
+- Identificador BOE: `BOE-A-2005-13023`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2005-13023
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 49.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Ante la actual situación del mercado, la competencia, como principio rector de toda economía de mercado, representa un elemento consustancial al modelo de organización económica de nuestra sociedad y constituye, en el plano de las libertades individuales, la primera y más importante forma en que se manifiesta el ejercicio de la libertad de empresa. La defensa de la competencia, por tanto, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación, ha de concebirse como un mandato a los poderes públicos que entronca directamente con el artículo 38 de la Constitución.
+Por ello, al resultar imprescindible para la adecuada tramitación de los procedimientos previstos en la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, se propone la creación del Jurado de Defensa de la Competencia de Extremadura, adscrito a la Consejería competente en materia de Economía, con el fin de que proceda a ejecutar la normativa estatal con el alcance reconocido en la Sentencia del Tribunal Constitucional de 11 de noviembre de 1999, y por tanto, respecto de aquellas prácticas que tengan lugar en el territorio de la Comunidad Autónoma y estén encaminadas a alterar la libre competencia sin afectar a un ámbito superior al de la Comunidad Autónoma o al conjunto del mercado nacional.
+Se pretende la actuación en el mercado intraautonómico, pero siempre sin perjuicio de la uniformidad que ha de imperar en la disciplina de competencia en el mercado nacional y cuya competencia corresponde al Estado. Asimismo se pretende la creación de mecanismos eficaces de coordinación y colaboración con la Administración Estatal que permitan una eficaz lucha contra comportamientos colusorios que conculquen la libre competencia.
+La norma se atiene al contenido del fundamento jurídico n.º 5 de la STC 71/1982 y de la STC de 11 de noviembre de 1999, concibiendo la defensa de la competencia como una materia que afecta no sólo al comercio interior, sino también a todo el Sector Servicios, y siempre desde la óptica de la uniformidad del Mercado Nacional y, dentro de él, Extremadura como un mercado único.
+La piedra angular del reparto competencial, en lo que a Defensa de la Competencia se refiere, es la citada Sentencia del Tribunal Constitucional de 11 de noviembre de 1999, dictada en los recursos de inconstitucionalidad acumulados números 2009/1989 y 2027/1989, en la que se estimaron parcialmente tales recursos declarando la inconstitucionalidad de la cláusula «en todo o en parte del mercado nacional» contenida expresamente o por remisión de los artículos 4, 7, 9, 10, 11 y 25.a) y c) de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, en la medida en que desconocían las competencias ejecutivas de la legislación estatal sobre defensa de la competencia, atribuidas a las Comunidades Autónomas en sus respectivos Estatutos.
+La nulidad declarada en la sentencia quedó diferida a la aprobación de una Ley estatal que estableciera los puntos de conexión pertinentes para que las Comunidades Autónomas que así lo hubieran previsto en sus Estatutos pudieran ejercer las competencias ejecutivas reconocidas. La aprobación de la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia ha supuesto la fijación del marco necesario para el desarrollo de las mismas, articulando los mecanismos de coordinación que garantizarán la uniformidad de la disciplina de la competencia en todo el mercado nacional, estableciendo asimismo, los mecanismos de conexión, colaboración e información recíproca precisos.
+El Estatuto de Autonomía de Extremadura, tras su reforma de 6 de mayo de 1999, concede en su artículo 7.1.33 competencia exclusiva a nuestra Comunidad Autónoma en materia de comercio interior, por lo que, de conformidad con lo establecido en la jurisprudencia del Tribunal Constitucional, estamos legitimados para crear órganos de defensa de la competencia propios, siguiendo la senda iniciada por varias Comunidades Autónomas.
+Al Estado le corresponde en consecuencia el ejercicio de las competencias legislativas, y a la Comunidad de Extremadura, la ejecución de la normativa estatal con el alcance reconocido en la citada Sentencia, y por tanto respecto a aquellas prácticas que tengan lugar en el territorio de la Comunidad y estén ordenadas a alterar la libre competencia en el mercado intraautonómico, sin perjuicio de las competencias estatales en relación con las bases y coordinación de la planificación general de la actividad económica, artículo 149.1.13.ª de la Constitución.
+La presente Ley establece la Composición, Organización y Funciones del Jurado de Defensa de la Competencia de Extremadura, si bien sólo a grandes líneas, dejando a la vía reglamentaria el desarrollo de esta normativa. Asimismo, en la norma, además de configurar el Jurado se definen las funciones del Servicio Instructor de los procedimientos que conozca el Jurado, y se crea el Registro de Defensa de la Competencia en Extremadura.
+Propone, de esta manera, la presente Ley, regular un órgano colegiado adscrito a la Consejería competente en materia de Economía, con el fin de que proceda a ejecutar la normativa estatal con el alcance reconocido en la Sentencia del Tribunal Constitucional de 11 de noviembre de 1999, y por tanto, respecto de aquellas prácticas que tengan lugar en el territorio de la Comunidad Autónoma y estén encaminadas a alterar la libre competencia.
+La Ley sigue un modelo que, desde la austeridad de medios y costes, pretende asumir plenamente y con la máxima eficacia, la totalidad de las competencias, en este caso, de ejecución, que le corresponden a la Comunidad Autónoma de Extremadura en esta materia, y debe funcionar como un útil y necesario instrumento para garantizar la libre competencia y el orden económico constitucional así como promover un desarrollo económico armónico y una estructura económica protegida frente a todo ataque que pretenda restringir o falsear la competencia y que sean, por tanto, contrarios al interés general que defienden los poderes públicos autonómicos.
+Finalmente, según lo dispuesto en el artículo 11.1.12 de la Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura, la Comunidad Autónoma de Extremadura tiene competencias de ejecución en la defensa de la competencia en el ámbito del mercado extremeño, comprendiendo, de acuerdo con lo establecido en el apartado 2 del mismo artículo, la potestad reglamentaria organizativa, y la adopción de planes, programas, medidas, decisiones y actos sobre la materia de defensa de la competencia.
+Se modifica por el art. 22.1 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 1
+
+Artículo 1. Creación de Jurado de Defensa de la Competencia de Extremadura.
+1. El Jurado de Defensa de la Competencia de Extremadura tiene por objeto la defensa de la competencia frente a actos que la vulneren o la puedan vulnerar y que se produzcan en todo o parte del territorio de la Comunidad Autónoma de Extremadura, sin repercusión económica alguna en el resto del territorio nacional. A tal efecto, y con carácter general, se atribuyen al Jurado de Defensa de la Competencia de Extremadura facultades de promoción de la competencia y de asesoramiento y representación, en los términos que se determinan en la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, en esta Ley y en su desarrollo reglamentario.
+2. Se crea el Jurado de Defensa de la Competencia de Extremadura, como órgano colegiado adscrito a la Consejería que tenga atribuidas las competencias en materia de Economía, contando con los recursos humanos y materiales adscritos en el seno de la misma.
+3. El Jurado de Defensa de la Competencia de Extremadura tendrá su sede en Mérida.
+Su actuación en el ejercicio de sus funciones se circunscribirá al territorio de la Comunidad Autónoma de Extremadura.
+4. Este Órgano, en el ejercicio de sus funciones deberá actuar con independencia, cualificación profesional y sometimiento al ordenamiento jurídico.
+Se modifica el apartado 1 por el art. 22.2 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 2
+
+Artículo 2. Composición y funcionamiento del Jurado de Defensa de la Competencia de Extremadura.
+1. El Jurado de Defensa de la Competencia de Extremadura estará integrado por un Presidente y dos Vocales, todos ellos profesionales del ámbito económico, jurídico o mercantil, de reconocido prestigio, con más de diez años de ejercicio y gozarán de la consideración de autoridad pública en el ejercicio de sus funciones inherentes al cargo o por causa de su pertenencia al Jurado de Defensa de la Competencia.
+2. El Presidente será nombrado por el Consejo de Gobierno a propuesta del Consejero competente en materia de Economía, por un período de 5 años renovable por períodos iguales, y los vocales, por el mismo procedimiento y tiempo, uno a iniciativa del Consejo Extremeño de Consumidores, y el otro a iniciativa de las Cámaras Oficiales de Comercio e Industria y Servicios de la Comunidad Autónoma Extremadura.
+Expirado el plazo de su mandato, tanto el Presidente como los Vocales continuarán en el ejercicio de sus funciones hasta la toma de posesión o, en su caso, el nombramiento del nuevo Presidente o de los nuevos Vocales, respectivamente.
+3. Los miembros del Jurado deberán mantener el secreto de los asuntos que se traten en el mismo.
+4. Actuará como Secretario del Jurado, un funcionario perteneciente al cuerpo de titulados superiores, con especialización y experiencia adecuadas al desempeño de sus funciones, y sin vinculación directa con el Servicio instructor regulado en la presente Ley, que será nombrado por la persona titular de la Consejería competente en materia de Economía, que contará con voz, pero sin voto.
+5. El Jurado de Defensa de la Competencia de Extremadura se reunirá al menos, dos veces al año, y en todo caso, por acuerdo de su presidente, en función de los asuntos que haya que tratar, y que sean comunicados por el Secretario.
+6. El régimen de las reuniones y de la adopción de acuerdos se ajustará al régimen general previsto para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+7. Los miembros del Jurado no tienen dedicación absoluta y no recibirán retribución alguna por sus servicios, sin perjuicio del régimen de indemnizaciones por razón de las asistencias al órgano que se devenguen.
+Se modifica por el art. 22.3 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 3
+
+Artículo 3. Funciones del Jurado de Defensa de la Competencia de Extremadura.
+1. Son funciones del Jurado de Defensa de la Competencia de Extremadura, en el marco de las previsiones de la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia:
+a) La resolución, a propuesta del Servicio Instructor, de los procedimientos que tengan por objeto las conductas previstas en los artículos 1, 2 y 3 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, que se circunscriban al ámbito de la Comunidad Autónoma de Extremadura, y en concreto:
+– Los referentes a acuerdos, decisiones o recomendaciones colectivas o prácticas concertadas o conscientemente paralelas que tengan por objeto, produzcan o puedan producir el efecto de impedir, restringir o falsear la competencia en todo o en parte del mercado regional.
+– Los referentes a la explotación abusiva por una o varias empresas de su posición de dominio en todo o en parte del mercado regional, o de la situación de dependencia económica en la que puedan encontrarse sus empresas, clientes o proveedores que no dispongan de alternativa equivalente para el ejercicio de su actividad.
+– Los relativos a los actos de competencia desleal que distorsionen gravemente las condiciones de competencia en el mercado y siempre que esa grave distorsión afecte al interés público.
+b) Promover la competencia efectiva en los mercados de la Comunidad Autónoma de Extremadura y difundir en la sociedad los beneficios que comporta la libre competencia.
+2. El Jurado, a propuesta del Servicio instructor, será el competente para acordar las medidas cautelares y procedimientos a que se refiere el artículo 54 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+3. Las resoluciones sancionadoras que en el ejercicio de sus funciones adopte el Jurado de Defensa de la Competencia, tras su notificación a las partes, se harán públicas en la página web del Jurado.
+El Jurado podrá asimismo acordar la publicación de sus resoluciones no sancionadoras, en la forma prevista en el párrafo anterior.
+Se modifica por el art. 22.4 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019
+ Se deroga el apartado 1.d) por la disposición derogatoria única.2 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768
+
+### Artículo 4
+
+Artículo 4. El Servicio instructor de los procedimientos.
+1. El Consejero competente en materia de Economía, designará mediante Orden, de entre los Servicios de su Consejería, la unidad competente para la instrucción de los procedimientos correspondientes a las funciones establecidas en el artículo 3 de la presente Ley.
+2. Igualmente a dicha unidad orgánica se atribuirán las siguientes funciones:
+a) Asistir al Jurado en el ejercicio de sus funciones y vigilar la ejecución y cumplimiento de las resoluciones que se adopten en aplicación de esta Ley.
+b) Declarar en su caso, la prescripción de la acción para exigir el cumplimiento de las sanciones impuestas por el Jurado previsto en esta Ley.
+c) Cooperar, en materia de competencia, con otros organismos de similares funciones de otras Comunidades Autónomas.
+d) Promover la terminación convencional de los procedimientos tramitados como consecuencia de conductas reguladas en la Ley 15/2007, de 3 de julio de Defensa de la Competencia.
+e) Elaborar informes y hacer recomendaciones sobre materias de defensa de la competencia a cualquiera de las Consejerías o sus organismos públicos dependientes de la Junta de Extremadura, corporaciones locales de la Comunidad Autónoma, Cámaras oficiales de Comercio e Industria y organizaciones empresariales, sindicales o de consumidores y usuarios de la Región.
+f) Proponer al Jurado la adopción de las medidas cautelares reguladas en la en la Ley 15/2007, de 3 de julio de Defensa de la Competencia, y ejecutarlas en el caso de que el Jurado las acuerde.
+g) Llevar la gestión del Registro de Defensa de la Competencia de Extremadura regulado en el artículo 10.
+Se modifican las letras d) y f) del apartado 2 por el art. 22.5 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 5
+
+Artículo 5. Tramitación de los expedientes.
+Será aplicable a los procedimientos que tramiten los órganos del Jurado de Defensa de la Competencia de Extremadura, lo dispuesto en la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, y con carácter supletorio lo establecido en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común.
+Se modifica por el art. 22.6 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 6
+
+Artículo 6. Recursos administrativos.
+1. Las resoluciones y demás actos que, en el ejercicio de sus funciones, dicte el Servicio instructor, serán recurribles ante el Jurado de Defensa de la Competencia de Extremadura en los términos establecidos en el artículo 47 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+2. Contra las resoluciones y demás actos dictados por el Jurado de Defensa de la Competencia de Extremadura no cabe ningún recurso en vía administrativa y sólo podrá interponerse recurso contencioso administrativo en los términos previstos en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+Se modifica por el art. 22.7 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 7
+
+Artículo 7. Deberes de colaboración e información con el Servicio instructor.
+1. Toda persona natural o jurídica queda sujeta al deber de colaboración con el Servicio Instructor al que hace referencia el artículo 4 de la presente Ley, y está obligada a proporcionar a requerimiento de éste, y en un plazo de diez días, toda clase de datos e informaciones necesarias para la aplicación de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+El plazo de diez días a que se refiere el apartado anterior podrá ampliarse por el titular de dicho Servicio, cuando la dificultad de obtención de datos o informaciones así lo justifique.
+2. El incumplimiento de la obligación establecida en el número anterior dará lugar a la imposición, por el Jurado de Defensa de la Competencia de Extremadura, a propuesta del Servicio Instructor, de multas coercitivas de 60,10 a 3.005,06 euros por cada día de retraso en el cumplimiento del deber de aportación en plazo de datos e informaciones a que se refiere el apartado anterior.
+3. La cesión de datos o antecedentes de naturaleza tributaria se regirá por lo dispuesto en el artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Se modifica el apartado 1 por el art. 22.8 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 8
+
+Artículo 8. Funciones de investigación e inspección.
+1. Los funcionarios del Servicio Instructor podrán realizar las investigaciones necesarias para la debida aplicación de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+2. Los funcionarios, en el curso de las inspecciones, podrán examinar, obtener copias o realizar extractos de los libros, documentos, incluso de carácter contable cualquiera que sea su soporte material y, si procediera, retenerlos por un plazo máximo de diez días. En el curso de las inspecciones, los funcionarios podrán, asimismo, solicitar explicaciones verbales in situ.
+3. En sus inspecciones podrán ir acompañados de expertos o peritos en las materias sobre las que versen aquéllas.
+4. La obstrucción de la labor inspectora podrá ser sancionada previa la instrucción del oportuno expediente, por el Presidente del Jurado, con una multa de hasta el 1% del volumen de ventas del ejercicio económico inmediato anterior.
+Se modifica el apartado 1 por el art. 22.9 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 9
+
+Artículo 9. Investigación domiciliaria.
+1. El acceso a los locales podrá realizarse con el consentimiento de sus ocupantes o mediante mandamiento judicial.
+2. Si hubiera existido consentimiento de los ocupantes, el funcionario habilitado mostrará el oficio y entregará copia en que conste su designación por el Titular del Servicio de instrucción al que se refiere el artículo 4, los sujetos investigados, los datos, documentos y operaciones que habrán de ser objeto de la inspección, la fecha en que la actuación deba practicarse y el alcance de la investigación.
+3. Cuando haya existido oposición al acceso a los locales o se corra el riesgo de tal oposición, el Presidente del Jurado de Defensa de la Competencia de Extremadura solicitará autorización de entrada en el domicilio al Juzgado de lo Contencioso-administrativo.
+4. De todas las entradas en locales y de la inspección se levantará un acta firmada por el funcionario autorizado y por uno de sus ocupantes, a la que se adjuntará, en su caso, la relación de documentos retenidos temporalmente.
+5. El funcionario expedirá una copia del acta a nombre de la persona que haya autorizado la entrada en el local. Si la entrada e inspección se hubieran realizado en virtud de autorización judicial, el original del acta y los documentos retenidos, en su caso, se entregarán al Juzgado correspondiente, cuyo Secretario diligenciará una copia a nombre del funcionario que ha llevado a cabo la inspección y otra a nombre del ocupante ante el cual se ha realizado la investigación. También se entregará, en su caso, al funcionario la documentación retenida.
+6. Los datos e informaciones obtenidos sólo podrán ser utilizados para las finalidades previstas en la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
+Se modifica el apartado 6 por el art. 22.10 de la Ley 5/2022, de 25 de noviembre. Ref. BOE-A-2022-21019#a2-4
+
+### Artículo 10
+
+Artículo 10. Del Registro de Defensa de la Competencia de Extremadura.
+Se crea el Registro de Defensa de la Competencia de Extremadura, que goza de carácter público, y que será gestionado por el servicio instructor al que se refiere el artículo 4 del presente texto; en él se inscribirán los acuerdos, decisiones, recomendaciones y prácticas que el Jurado de Defensa de la Competencia de Extremadura haya autorizado y los que haya declarado prohibidos total o parcialmente y que afecten al ámbito de la Comunidad Autónoma de Extremadura.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se faculta al Consejo de Gobierno para dictar, en el ámbito de sus competencias, cuantas disposiciones sean necesarias para el cumplimiento y desarrollo de las normas contenidas en la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Los miembros del Jurado de defensa de la Competencia de Extremadura percibirán las indemnizaciones por razón del servicio por la asistencia a las sesiones del mismo que establezcan en su reglamento de organización y funcionamiento.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En lo no previsto en la presente Ley, se aplicará la Ley estatal vigente en materia de defensa de la Competencia, de conformidad con la Ley 1/2002, de 21 de febrero, de coordinación de las competencias del Estado y las Comunidades Autónomas en materia de defensa de la competencia. Las referencias a los órganos con competencia en materia de defensa de la competencia en el ámbito estatal, se entenderán hechas al Jurado de Defensa de la Competencia de Extremadura y al Servicio Instructor.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor a los veinte días desde su publicación en el Diario Oficial de Extremadura.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos, que sea de aplicación esta Ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 24 de junio de 2005.
+JUAN CARLOS RODRÍGUEZ IBARRA,
+Presidente

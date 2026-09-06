@@ -1,0 +1,72 @@
+# Ley 1/1986, de 7 de enero, por la que se crea el Consejo General de Formación Profesional.
+
+- Identificador BOE: `BOE-A-1986-576`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1986-576
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo único
+
+Artículo único.
+1. Se crea el Consejo General de Formación Profesional adscrito al Ministerio de Trabajo y Asuntos Sociales, como órgano consultivo y de participación institucional de las Administraciones públicas y de asesoramiento del Gobierno en materia de formación profesional.
+2. Las competencias del Consejo General de Formación Profesional serán las siguientes:
+a) Elaborar y proponer al Gobierno, para su aprobación, el Programa Nacional de Formación Profesional, dentro de cuyo marco las Comunidades Autónomas con competencias en la gestión de aquél podrán regular para su territorio sus características específicas.
+b) Controlar la ejecución del Programa Nacional y proponer su actualización cuando fuera necesario, sin perjuicio de las competencias de las Comunidades Autónomas en este ámbito.
+c) Informar los proyectos de planes de estudios y títulos correspondientes a los diversos grados y especializaciones de Formación Profesional, así como las certificaciones de profesionalidad en materia de Formación Profesional ocupacional y, en su caso, su homologación académica o profesional con los correspondientes grados de Formación Profesional reglada, sin perjuicio de las competencias del Consejo Escolar del Estado en esta materia.
+d) Informar sobre cualesquiera asuntos que, sobre formación profesional, puedan serle sometidos por las Administraciones públicas.
+e) Emitir propuestas y recomendaciones a los Departamentos ministeriales competentes en materia de Formación Profesional.
+f) Proponer acciones para mejorar la orientación profesional.
+g) Evaluar y hacer el seguimiento de las acciones que se desarrollen en materia de Formación Profesional.
+3.1 El Consejo General estará compuesto por:
+a) Un Presidente. Ostentarán la presidencia, alternativamente y por período de dos años, el Ministro de Educación, Cultura y Deporte y el Ministro de Trabajo y Asuntos Sociales.
+b) Cuatro vicepresidentes, uno por cada uno de los grupos que lo integran, elegidos por y de entre los vocales de cada grupo, excepto en el de representantes de la Administración General del Estado, en que la vicepresidencia corresponderá, alternativamente, al Secretario general de Educación y Formación Profesional y al Secretario general de Empleo, por períodos bienales en los que no ejerza la presidencia el titular del Departamento correspondiente.
+c) Diecisiete Vocales en el ámbito de la Administración General del Estado, en representación de:
+Diez representantes de los Ministerios de Educación y Cultura y de Trabajo y Asuntos Sociales, desempeñando sus respectivas Vocalías, alternativamente, el Secretario general de Educación y Formación Profesional y el Secretario general de Empleo, cuando no ostenten la Vicepresidencia correspondiente de la Administración General del Estado.
+Un representante por cada uno de los Ministerios de Defensa, de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación, de Administraciones Públicas, de Sanidad y Consumo y de Medio Ambiente, designados por los titulares de los Departamentos respectivos.
+d) Diecisiete Vocales en representación de las Comunidades Autónomas, así como un Vocal por cada una de las Ciudades de Ceuta y Melilla.
+e) Diecinueve Vocales por parte de las organizaciones empresariales más representativas.
+f) Diecinueve Vocales por parte de las organizaciones sindicales más representativas.
+3.2 El Secretario general del Consejo, con voz pero sin voto, será el funcionario designado a propuesta conjunta de los Ministros de Educación y Cultura y de Trabajo y Asuntos Sociales.
+3.3 El Consejo adoptará sus acuerdos por mayoría. A tal fin los representantes de las Administraciones públicas tendrán cada uno un voto y dos cada uno de los representantes de las organizaciones empresariales y sindicales.
+3.4 Los Vocales del Consejo podrán ser sustituidos, en sus reuniones, en caso de ausencia o enfermedad y, en general, cuando concurra alguna causa justificada, que deberá ser comunicada por escrito a la Secretaría General del Consejo.
+3.5 Cada cuatro años se producirá la renovación de la composición del Consejo, teniendo en cuenta para ello las modificaciones que se hubieran producido en cuanto a la representatividad en sus correspondientes ámbitos territoriales de las organizaciones empresariales y sindicales.
+3.6 Los miembros del Consejo General de Formación Profesional y sus suplentes serán nombrados por el Ministro de Trabajo y Asuntos Sociales a propuesta de los respectivos Departamentos ministeriales, y de los órganos competentes de las Comunidades Autónomas, y de las organizaciones empresariales y sindicales más representativas. En igual forma se dispondrá su cese.
+Se modifican las letras a) y b) del apartado 3.1 por el art. 59.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica por el art. único.1 a 3 de la Ley 19/1997, de 9 de junio. Ref. BOE-A-1997-12504
+
+### DISPOSICIÓN ADICIONAL
+
+El Consejo elaborará, en el plazo de seis meses, el Reglamento de Funcionamiento, que será aprobado por el Gobierno a propuesta conjunta de los Ministros de Educación y Ciencia y de Trabajo y Seguridad Social.
+
+### DISPOSICIÓN TRANSITORIA
+
+De acuerdo con lo establecido en el artículo único, número 3.1, letra a), de esta Ley, durante el año 2001 corresponderá la presidencia del Consejo General de Formación Profesional al Ministro de Educación, Cultura y Deporte.
+El Ministro de Trabajo y Asuntos Sociales ostentará la presidencia del Consejo General de Formación Profesional durante los años 2002 y 2003.
+Se añade por el art. 59.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+## DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+Queda suprimida la Junta Coordinadora de Formación Profesional prevista en el artículo 42 de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa.
+
+### Segunda
+
+Segunda.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 7 de enero de 1986.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ

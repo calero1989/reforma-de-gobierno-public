@@ -1,0 +1,2005 @@
+# Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas.
+
+- Identificador BOE: `BOE-A-2001-14276`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Quedan derogadas, respecto de las actividades industriales incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, las prescripciones establecidas en relación con los procedimientos de solicitud, concesión, revisión y cumplimiento de las autorizaciones de vertidos a las aguas continentales de cuencas intracomunitarias reguladas en el presente Texto Refundido, según establece la disposición derogatoria única. 2 de la citada Ley 16/2002, de 1 de julio. Ref. BOE-A-2002-12995#ddunica
+
+## Preámbulo
+
+La disposición final segunda de la Ley 46/1999, de 13 de diciembre, de modificación de la Ley 29/1985, de 2 de agosto, de Aguas, en la redacción dada por la Ley 6 /2001, de 8 de mayo, de Evaluación de Impacto Ambiental, autoriza al Gobierno para que, en el plazo de dos años a partir de su entrada en vigor, dicte un Real Decreto Legislativo en el que se refunda y adapte la normativa legal existente en materia de aguas.
+Para ello, se hace preciso incorporar las modificaciones que en el texto de la Ley de Aguas, se introducen por la propia Ley 46/1999, antes citada y por la sentencia del Tribunal Constitucional 227/1988, de 29 de noviembre, en la que se estiman parcialmente tanto los recursos de inconstitucionalidad interpuestos contra la Ley de Aguas, como el conflicto positivo de competencias planteado contra determinados preceptos del Reglamento del Dominio Público Hidráulico; por la disposición adicional 9.ª 2 de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social que modifica los apartados 1.º, segundo párrafo y 2.º, del artículo 109 de la Ley de Aguas en materia de sanciones; por los artículos 2 y 3 de la Ley 9/1996, de 15 de enero, en la que se adoptan medidas extraordinarias, excepcionales y urgentes en materia de abastecimientos hidráulicos como consecuencia de la persistencia de la sequía, modificando y ampliando respectivamente los artículos 63 y 109.2 de la Ley de Aguas; por los artículos 158, 173 y 174 de la Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, relativos a la gestión directa de la construcción o explotación de determinadas obras públicas, al régimen jurídico del contrato de concesión de construcción y explotación de obras hidráulicas, así como a la modificación del artículo 21 de la Ley de Aguas, al que añade un nuevo apartado y, finalmente, por la Ley 11/1999, de 21 de abril, de modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, y otras medidas para el desarrollo del Gobierno Local en materia de tráfico, circulación de vehículos a motor, seguridad vial y en materia de aguas, que modifica y amplía respectivamente, los artículos 17 y 25 de la Ley de Aguas, relativos al Consejo Nacional del Agua y a la composición de la Junta de Gobierno de los Organismos de cuenca.
+Por otra parte, y a pesar de su rango legal, no se ha entendido adecuado incluir en el texto refundido, el Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas. Esta norma constituye un complemento de lo dispuesto en la Ley de Aguas en relación con los vertidos, pero tiene, sin duda, otros objetivos y afecta a otros ámbitos legislativos diferentes, como ocurre con las aguas marítimas reguladas por la Ley de Costas. Por ello, sin perjuicio de su vigencia y aplicación, se entiende que su inclusión en el texto refundido de la Ley de Aguas ocasionaría importantes disfunciones desde el punto de vista de la técnica legislativa.
+En consecuencia, se ha elaborado un texto refundido de la Ley de Aguas, que se incorpora a este Real Decreto Legislativo y que tiene por objeto, en cumplimiento del mandato legal, recoger las modificaciones que han quedado detalladas.
+En su virtud, a propuesta del Ministro de Medio Ambiente, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de julio de 2001,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único.
+Se aprueba el texto refundido de la Ley de Aguas que se inserta a continuación.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan al presente Real Decreto legislativo y al texto refundido que aprueba y, en particular, las siguientes:
+1. La Ley 29/1985, de 2 de agosto, de Aguas.
+2. La Ley 46/1999, de 13 de diciembre, por la que se modifica la Ley 29/1985, de 2 de agosto, de Aguas, excepto la disposición adicional primera.
+3. La disposición adicional 9.ª, apartado 2, de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, que modifica los apartados 1.º, segundo párrafo y 2.º, del artículo 109 de la Ley de Aguas, de 1985, en materia de sanciones.
+4. Los artículos 2 y 3 de la Ley 9/1996, de 15 de enero, en la que se adoptan medidas extraordinarias, excepcionales y urgentes en materia de abastecimientos hidráulicos como consecuencia de la persistencia de la sequía, modificando y ampliando, respectivamente, los artículos 63 y 109.2 de la Ley 29/1985.
+5. El apartado 5 del artículo 158 y artículos 173 y 174 de la Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, relativos a la gestión directa de la construcción y/o explotación de determinadas obras públicas, al régimen jurídico del contrato de concesión de construcción y explotación de obras hidráulicas, así como a la modificación del artículo 21 de la Ley 29/1985, al que añade un nuevo apartado.
+6. El artículo 3 de la Ley 11/1999, de 21 de abril, de modificación de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, y otras medidas para el desarrollo del Gobierno Local en materia de tráfico, circulación de vehículos a motor, seguridad vial y en materia de aguas, que modifica y amplía, respectivamente, los artículos 17 y 25 de la Ley 29/1985, de Aguas.
+Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 287, de 30 de noviembre de 2001. Ref. BOE-A-2001-22362.
+
+### Disposición final única
+
+Disposición final única.
+El presente Real Decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Palma de Mallorca a 20 de julio de 2001.
+JUAN CARLOS R.
+El Ministro de Medio Ambiente,
+JAIME MATAS I PALOU
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY DE AGUAS
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1. Es objeto de esta Ley la regulación del dominio público hidráulico, del uso del agua y del ejercicio de las competencias atribuidas al Estado en las materias relacionadas con dicho dominio en el marco de las competencias delimitadas en el artículo 149 de la Constitución.
+2. Es también objeto de esta ley el establecimiento de las normas básicas de protección de las aguas continentales, costeras y de transición, sin perjuicio de su calificación jurídica y de la legislación específica que les sea de aplicación.
+3. Las aguas continentales superficiales, así como las subterráneas renovables, integradas todas ellas en el ciclo hidrológico, constituyen un recurso unitario, subordinado al interés general, que forma parte del dominio público estatal como dominio público hidráulico.
+4. Corresponde al Estado, en todo caso, y en los términos que se establecen en esta Ley, la planificación hidrológica a la que deberá someterse toda actuación sobre el dominio público hidráulico.
+5. Las aguas minerales y termales se regularán por su legislación específica, sin perjuicio de la aplicación de lo dispuesto en el apartado 2.
+Se añade un apartado 2 y reenumera los anteriores apartados con un inciso nuevo en el 5 por el art. 129.1 a .3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## TÍTULO I
+
+Del dominio público hidráulico del Estado
+
+## CAPÍTULO I
+
+De los bienes que lo integran
+
+### Artículo 2
+
+Artículo 2. Definición de dominio público hidráulico.
+Constituyen el dominio público hidráulico del Estado, con las salvedades expresamente establecidas en esta Ley:
+a) Las aguas continentales, tanto las superficiales como las subterráneas renovables con independencia del tiempo de renovación.
+b) Los cauces de corrientes naturales, continuas o discontinuas.
+c) Los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos.
+d) Los acuíferos, a los efectos de los actos de disposición o de afección de los recursos hidráulicos.
+e) Las aguas procedentes de la desalación de agua de mar.
+Se modifica el apartado e) por la disposición final 1.1 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+ Se modifica el apartado d) por el art. 129.4 por la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 3
+
+Artículo 3. Modificación de la fase atmosférica.
+La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice.
+
+## CAPÍTULO II
+
+De los cauces, riberas y márgenes
+
+### Artículo 4
+
+Artículo 4. Definición de cauce.
+Álveo o cauce natural de una corriente continua o discontinua es el terreno cubierto por las aguas en las máximas crecidas ordinarias.
+
+### Artículo 5
+
+Artículo 5. Cauces de dominio privado.
+1. Son de dominio privado los cauces por los que ocasionalmente discurran aguas pluviales en tanto atraviesen, desde su origen, únicamente fincas de dominio particular.
+2. El dominio privado de estos cauces no autoriza para hacer en ellos labores ni construir obras que puedan hacer variar el curso natural de las aguas o alterar su calidad en perjuicio del interés público o de tercero, o cuya destrucción por la fuerza de las avenidas pueda ocasionar daños a personas o cosas.
+
+### Artículo 6
+
+Artículo 6. Definición de riberas.
+1. Se entiende por riberas las fajas laterales de los cauces públicos situadas por encima del nivel de aguas bajas, y por márgenes los terrenos que lindan con los cauces.
+Las márgenes están sujetas, en toda su extensión longitudinal:
+a) A una zona de servidumbre de cinco metros de anchura, para uso público que se regulará reglamentariamente.
+b) A una zona de policía de 100 metros de anchura en la que se condicionará el uso del suelo y las actividades que se desarrollen.
+2. En las zonas próximas a la desembocadura en el mar, en el entorno inmediato de los embalses o cuando las condiciones topográficas o hidrográficas de los cauces y márgenes lo hagan necesario para la seguridad de personas y bienes, podrá modificarse la anchura de ambas zonas en la forma que reglamentariamente se determine.
+
+### Artículo 7
+
+Artículo 7. Trabajos de protección en las márgenes.
+Podrán realizarse en caso de urgente necesidad trabajos de protección de carácter provisional en las márgenes de los cauces. Serán responsables de los eventuales daños que pudieran derivarse de dichas obras los propietarios que las hayan construido.
+
+### Artículo 8
+
+Artículo 8. Modificaciones de los cauces.
+Las situaciones jurídicas derivadas de las modificaciones naturales de los cauces se regirán por lo dispuesto en la legislación civil. En cuanto a las modificaciones que se originen por las obras legalmente autorizadas se estará a lo establecido en la concesión o autorización correspondiente.
+
+## CAPÍTULO III
+
+De los lagos, lagunas, embalses y terrenos inundables
+
+### Artículo 9
+
+Artículo 9. Lecho o fondo de los lagos, lagunas y embalses superficiales.
+1. Lecho o fondo de los lagos y lagunas es el terreno que ocupan sus aguas en las épocas en que alcanzan su mayor nivel ordinario.
+2. Lecho o fondo de un embalse superficial es el terreno cubierto por las aguas cuando éstas alcanzan su mayor nivel a consecuencia de las máximas crecidas ordinarias de los ríos que lo alimentan.
+
+### Artículo 10
+
+Artículo 10. Las charcas situadas en predios de propiedad privada.
+Las charcas situadas en predios de propiedad privada se considerarán como parte integrante de los mismos siempre que se destinen al servicio exclusivo de tales predios y sin perjuicio de la aplicación de la legislación ambiental correspondiente.
+
+### Artículo 11
+
+Artículo 11. Las zonas inundables.
+1. Los terrenos que puedan resultar inundados durante las crecidas no ordinarias de los lagos, lagunas, embalses, ríos o arroyos, conservarán la calificación jurídica y la titularidad dominical que tuvieren.
+2. Los Organismos de cuenca darán traslado a las Administraciones competentes en materia de ordenación del territorio y urbanismo de los datos y estudios disponibles sobre avenidas, al objeto de que se tengan en cuenta en la planificación del suelo y, en particular, en las autorizaciones de usos que se acuerden en las zonas inundables.
+3. El Gobierno, por Real Decreto, podrá establecer las limitaciones en el uso de las zonas inundables que estime necesarias para garantizar la seguridad de las personas y bienes. Los Consejos de Gobierno de las Comunidades Autónomas podrán establecer, además, normas complementarias de dicha regulación.
+
+## CAPÍTULO IV
+
+De los acuíferos
+Se modifica por el art. 129.5 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 12
+
+Artículo 12. El dominio público de los acuíferos.
+El dominio público de los acuíferos o formaciones geológicas por las que circulan aguas subterráneas, se entiende sin perjuicio de que el propietario del fundo pueda realizar cualquier obra que no tenga por finalidad la extracción o aprovechamiento del agua, ni perturbe su régimen ni deteriore su calidad, con la salvedad prevista en el apartado 2 del artículo 54.
+
+## CAPÍTULO V
+
+De las aguas procedentes de la desalación
+
+### Artículo 13
+
+Artículo 13. De la desalación, concepto y requisitos.
+1. Con carácter general, la actividad de desalación de agua marina o salobre queda sometida al régimen general establecido en esta Ley para el uso privativo del dominio público hidráulico, sin perjuicio de las autorizaciones y concesiones demaniales que sean precisas de acuerdo con la Ley 22/1988, de 28 de julio, de Costas, y las demás que procedan conforme a la legislación sectorial aplicable.
+2. Las obras e instalaciones de desalación declaradas de interés general del Estado podrán ser explotadas directamente por los órganos del Ministerio de Medio Ambiente, por las Confederaciones Hidrográficas o por las sociedades estatales a las que se refiere el capítulo II del título VIII de esta Ley. Igualmente, de acuerdo con lo previsto en el artículo 125, las comunidades de usuarios o las juntas centrales de usuarios podrán, mediante la suscripción de un convenio específico con los entes mencionados en el inciso anterior, ser beneficiarios directos de las obras e instalaciones de desalación que les afecten.
+3. Las concesiones de aguas desaladas se otorgarán por la Administración General del Estado en el caso de que dichas aguas se destinen a su uso en una demarcación hidrográfica intercomunitaria.
+En el caso haberse suscrito el convenio específico al que se hace referencia en el último inciso del apartado 2, las concesiones de aguas desaladas se podrán otorgar directamente a las comunidades de usuarios o juntas centrales de usuarios.
+4. En la forma que reglamentariamente se determine, se tramitarán en un solo expediente las autorizaciones y concesiones que deban otorgarse por dos o más órganos u organismos públicos de la Administración General del Estado.
+5. En el supuesto de que el uso no vaya a ser directo y exclusivo del concesionario, la Administración concedente aprobará los valores máximos y mínimos de las tarifas, que habrán de incorporar las cuotas de amortización de las obras.
+6. Los concesionarios de la actividad de desalación y de aguas desaladas que tengan inscritos sus derechos en el Registro de Aguas podrán participar en las operaciones de los centros de intercambio de derechos de uso del agua a los que se refiere el artículo 71 de esta Ley.
+Se modifica por la disposición final 3 de la ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490.
+ Se modifica por la disposición final 1.2 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+## TÍTULO II
+
+De la administración pública del agua
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 14
+
+Artículo 14. Principios rectores de la gestión en materia de aguas.
+El ejercicio de las funciones del Estado, en materia de aguas, se someterá a los siguientes principios:
+1.º Unidad de gestión, tratamiento integral, economía del agua, desconcentración, descentralización, coordinación, eficacia y participación de los usuarios.
+2.º Respeto a la unidad de la cuenca hidrográfica, de los sistemas hidráulicos y del ciclo hidrológico.
+3.º Compatibilidad de la gestión pública del agua con la ordenación del territorio, la conservación y protección del medio ambiente y la restauración de la naturaleza.
+
+### Artículo 15
+
+Artículo 15. Derecho a la información.
+1. Todas las personas físicas o jurídicas tienen derecho a acceder a la información en materia de aguas en los términos previstos en la Ley 38/1995, de 12 de diciembre, sobre el derecho a la información en materia de medio ambiente y, en particular, a la información sobre vertidos y calidad de las aguas.
+2. Los miembros de los órganos de gobierno y administración de los organismos de cuenca tienen derecho a obtener toda la información disponible en el organismo respectivo en las materias propias de la competencia de los órganos de que formen parte.
+
+### Artículo 16
+
+Artículo 16. Definición de cuenca hidrográfica.
+A los efectos de esta ley, se entiende por cuenca hidrográfica la superficie de terreno cuya escorrentía superficial fluye en su totalidad a través de una serie de corrientes, ríos y eventualmente lagos hacia el mar por una única desembocadura, estuario o delta. La cuenca hidrográfica como unidad de gestión del recurso se considera indivisible.
+Se modifica por el art. 129.6 de la Ley 62/2003, dde 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 16 bis
+
+Artículo 16 bis. Demarcación hidrográfica
+1. Se entiende por demarcación hidrográfica la zona terrestre y marina compuesta por una o varias cuencas hidrográficas vecinas y las aguas de transición, subterráneas y costeras asociadas a dichas cuencas.
+Son aguas de transición, las masas de agua superficial próximas a la desembocadura de los ríos que son parcialmente salinas como consecuencia de su proximidad a las aguas costeras, pero que reciben una notable influencia de flujos de agua dulce.
+Son aguas costeras, las aguas superficiales situadas hacia tierra desde una línea cuya totalidad de puntos se encuentra a una distancia de una milla náutica mar adentro desde el punto más próximo de la línea de base que sirve para medir la anchura de las aguas territoriales y que se extienden, en su caso, hasta el límite exterior de las aguas de transición.
+2. Las aguas costeras se especificarán e incluirán en la demarcación o demarcaciones hidrográficas más próximas o más apropiadas.
+3. Los acuíferos que no correspondan plenamente a ninguna demarcación en particular, se incluirán en la demarcación más próxima o más apropiada, pudiendo atribuirse a cada una de las demarcaciones la parte de acuífero correspondiente a su respectivo ámbito territorial, y debiendo garantizarse, en este caso, una gestión coordinada mediante las oportunas notificaciones entre demarcaciones afectadas.
+4. La demarcación hidrográfica, como principal unidad a efectos de la gestión de cuencas, constituye el ámbito espacial al que se aplican las normas de protección de las aguas contempladas en esta ley sin perjuicio del régimen específico de protección del medio marino que pueda establecer el Estado.
+5. El Gobierno, por real decreto, oídas las comunidades autónomas, fijará el ámbito territorial de cada demarcación hidrográfica que será coincidente con el de su plan hidrológico.
+Se añade por el art. 129.7 de la Ley 62/2003, dde 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 17
+
+Artículo 17. Funciones del Estado en relación con el dominio público hidráulico.
+En relación con el dominio público hidráulico y en el marco de las competencias que le son atribuidas por la Constitución, el Estado ejercerá, especialmente, las funciones siguientes:
+a) La planificación hidrológica y la realización de los planes estatales de infraestructuras hidráulicas o cualquier otro estatal que forme parte de aquéllas.
+b) La adopción de las medidas precisas para el cumplimiento de los acuerdos y Convenios internacionales en materia de aguas.
+c) El otorgamiento de concesiones referentes al dominio público hidráulico en las cuencas hidrográficas que excedan del ámbito territorial de una sola Comunidad Autónoma.
+d) El otorgamiento de autorizaciones referentes al dominio público hidráulico, así como la tutela de éste, en las cuencas hidrográficas que excedan del ámbito territorial, de una sola Comunidad Autónoma. La tramitación de las mismas podrá, no obstante, ser encomendada a las Comunidades Autónomas.
+
+### Artículo 18
+
+Artículo 18. Régimen jurídico básico aplicable a las Comunidades Autónomas.
+1. La Comunidad Autónoma que, en virtud de su Estatuto de Autonomía, ejerza competencia sobre el dominio público hidráulico en cuencas hidrográficas comprendidas íntegramente dentro de su territorio, ajustará el régimen jurídico de su administración hidráulica a las siguientes bases:
+a) Aplicación de los principios establecidos en el artículo 14 de esta Ley.
+b) La representación de los usuarios en los órganos colegiados de la Administración hidráulica no será inferior al tercio de los miembros que los integren.
+2. Los actos y acuerdos que infrinjan la legislación hidráulica del Estado o no se ajusten a la planificación hidrológica y afecten a su competencia en materia hidráulica podrán ser impugnados ante la jurisdicción contencioso-administrativa.
+
+## CAPÍTULO II
+
+Del Consejo Nacional del Agua
+
+### Artículo 19
+
+Artículo 19. El Consejo Nacional del Agua.
+1. El Consejo Nacional del Agua es el órgano superior de consulta y de participación en la materia.
+2. Forman parte del Consejo Nacional del Agua:
+- La Administración General del Estado.
+- Las Comunidades autónomas.
+- Los Entes locales a través de la asociación de ámbito estatal con mayor implantación.
+- Los Organismos de cuenca.
+- Las organizaciones profesionales y económicas más representativas de ámbito estatal relacionadas con los distintos usos del agua.
+- Las organizaciones sindicales y empresariales más representativas en el ámbito estatal.
+- Las entidades sin fines lucrativos de ámbito estatal cuyo objeto esté constituido por la defensa de intereses ambientales.
+3. La presidencia del Consejo Nacional del Agua recaerá en el titular del Ministerio de Medio Ambiente.
+4. Su composición y estructura orgánica se determinarán por Real Decreto.
+Se modifica por la disposición final 4 de la Ley 42/2007, de 13 de diciembre. Ref. BOE-A-2007-21490.
+
+### Artículo 20
+
+Artículo 20. Materias sometidas a informe preceptivo del Consejo Nacional del Agua.
+1. El Consejo Nacional del Agua informará preceptivamente:
+a) El proyecto del Plan Hidrológico Nacional, antes de su aprobación por el Gobierno para su remisión a las Cortes.
+b) Los planes hidrológicos de cuenca, antes de su aprobación por el Gobierno.
+c) Los proyectos de las disposiciones de carácter general de aplicación en todo el territorio nacional relativas a la protección de las aguas y a la ordenación del dominio público hidráulico.
+d) Los planes y proyectos de interés general de ordenación agraria, urbana, industrial y de aprovechamientos energéticos o de ordenación del territorio en tanto afecten sustancialmente a la planificación hidrológica o a los usos del agua.
+e) Las cuestiones comunes a dos o más organismos de cuenca en relación con el aprovechamiento de recursos hídricos y demás bienes del dominio público hidráulico.
+2. Asimismo, emitirá informe sobre todas aquellas cuestiones relacionadas con el dominio público hidráulico que pudieran serle consultadas por el Gobierno o por los órganos ejecutivos superiores de las Comunidades Autónomas.
+El Consejo podrá proponer a las Administraciones y organismos públicos las líneas de estudio e investigación para el desarrollo de las innovaciones técnicas en lo que se refiere a obtención, empleo, conservación, recuperación, tratamiento integral y economía del agua.
+Se modifica el apartado 1 c) por el art. 129.8 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## CAPÍTULO III
+
+De los organismos de cuenca
+
+## SECCIÓN 1
+
+Sección 1.ª Configuración y funciones
+
+### Artículo 21
+
+Artículo 21. Los organismos de cuenca.
+En las cuencas hidrográficas que excedan el ámbito territorial de una Comunidad Autónoma se constituirán organismos de cuenca con las funciones y cometidos que se regulan en esta Ley.
+
+### Artículo 22
+
+Artículo 22. Naturaleza y régimen jurídico de los organismos de cuenca.
+1. Los organismos de cuenca, con la denominación de Confederaciones Hidrográficas, son organismos autónomos de los previstos en el artículo 43.1.ª) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscritos, a efectos administrativos, al Ministerio de Medio Ambiente.
+2. Los organismos de cuenca dispondrán de autonomía para regir y administrar por sí los intereses que les sean confiados ; para adquirir y enajenar los bienes y derechos que puedan constituir su propio patrimonio ; para contratar y obligarse y para ejercer, ante los Tribunales, todo género de acciones, sin más limitaciones que las impuestas por las Leyes. Sus actos y resoluciones ponen fin a la vía administrativa.
+3. Su ámbito territorial, que se definirá reglamentariamente, comprenderá una o varias cuencas hidrográficas indivisas, con la sola limitación derivada de las fronteras internacionales.
+4. Los organismos de cuenca se rigen por la Ley 6/1997, de 14 de abril, y demás disposiciones de aplicación a los organismos autónomos de la Administración General del Estado, así como por la presente Ley y por los Reglamentos dictados para su desarrollo y ejecución.
+
+### Artículo 23
+
+Artículo 23. Funciones.
+1. Son funciones de los organismos de cuenca:
+a) La elaboración del plan hidrológico de cuenca, así como su seguimiento y revisión.
+b) La administración y control del dominio público hidráulico.
+c) La administración y control de los aprovechamientos de interés general o que afecten a más de una Comunidad Autónoma.
+d) El proyecto, la construcción y explotación de las obras realizadas con cargo a los fondos propios del organismo, y las que les sean encomendadas por el Estado.
+e) Las que se deriven de los convenios con Comunidades Autónomas, Corporaciones Locales y otras entidades públicas o privadas, o de los suscritos con los particulares.
+2. Para el cumplimiento de las funciones encomendadas en los párrafos d) y e) del apartado anterior, los organismos de cuenca podrán:
+a) Adquirir por suscripción o compra, enajenar y, en general, realizar cualesquiera actos de administración respecto de títulos representativos de capital de sociedades estatales que se constituyan para la construcción, explotación o ejecución de obra pública hidráulica, o de empresas mercantiles que tengan por objeto social la gestión de contratos de concesión de construcción y explotación de obras hidráulicas, previa autorización del Ministerio de Hacienda.
+b) Suscribir convenios de colaboración o participar en agrupaciones de empresas y uniones temporales de empresas que tengan como objeto cualquiera de los fines anteriormente indicados.
+c) Conceder préstamos y, en general, otorgar crédito a cualquiera de las entidades relacionadas en los párrafos a) y b).
+
+### Artículo 24
+
+Artículo 24. Otras atribuciones.
+Los organismos de cuenca tendrán, para el desempeño de sus funciones, además de las que se contemplan expresamente en otros artículos de esta Ley, las siguientes atribuciones y cometidos:
+a) El otorgamiento de autorizaciones y concesiones referentes al dominio público hidráulico, salvo las relativas a las obras y actuaciones de interés general del Estado, que corresponderán al Ministerio de Medio Ambiente.
+b) La inspección y vigilancia del cumplimiento de las condiciones de concesiones y autorizaciones relativas al dominio público hidráulico.
+c) La realización de aforos, estudios de hidrología, información sobre crecidas y control de la calidad de las aguas.
+d) El estudio, proyecto, ejecución, conservación, explotación y mejora de las obras incluidas en sus propios planes, así como de aquellas otras que pudieran encomendárseles.
+e) La definición de objetivos y programas de calidad de acuerdo con la planificación hidrológica.
+f) La realización, en el ámbito de sus competencias, de planes, programas y acciones que tengan como objetivo una adecuada gestión de las demandas, a fin de promover el ahorro y la eficiencia económica y ambiental de los diferentes usos del agua mediante el aprovechamiento global e integrado de las aguas superficiales y subterráneas, de acuerdo, en su caso, con las previsiones de la correspondiente planificación sectorial.
+g) La prestación de toda clase de servicios técnicos relacionados con el cumplimiento de sus fines específicos y, cuando les fuera solicitado, el asesoramiento a la Administración General del Estado, Comunidades Autónomas, Corporaciones Locales y demás entidades públicas o privadas, así como a los particulares.
+En la determinación de la estructura de los organismos de cuenca se tendrá en cuenta el criterio de separación entre las funciones de administración del dominio público hidráulico y las demás.
+
+### Artículo 25
+
+Artículo 25. Colaboración con las Comunidades Autónomas.
+1. Los organismos de cuenca y las Comunidades Autónomas podrán establecer una mutua colaboración en el ejercicio de sus respectivas competencias, especialmente mediante la incorporación de aquéllas a la Junta de Gobierno de dichos organismos, según lo determinado en esta Ley.
+2. Los organismos de cuenca podrán celebrar convenios de colaboración con las Comunidades Autónomas, las Administraciones Locales y las Comunidades de usuarios para el ejercicio de sus respectivas competencias, conforme a lo dispuesto en la legislación vigente.
+3. Los expedientes que tramiten los organismos de cuenca en el ejercicio de sus competencias sustantivas sobre la utilización y aprovechamiento del dominio público hidráulico se someterán a informe previo de las Comunidades Autónomas para que manifiesten, en el plazo y supuestos que reglamentariamente se determinen, lo que estimen oportuno en materias de su competencia. Las autorizaciones y concesiones sometidas a dicho trámite de informe previo no estarán sujetas a ninguna otra intervención ni autorización administrativa respecto al derecho a usar el recurso, salvo que así lo establezca una Ley estatal, sin perjuicio de las que sean exigibles por otras Administraciones Públicas en relación a la actividad de que se trate o en materia de intervención o uso de suelo. Al mismo trámite de informe se someterán los planes, programas y acciones a que se refiere el artículo 24, párrafo f.
+4. Las Confederaciones Hidrográficas emitirán informe previo, en el plazo y supuestos que reglamentariamente se determinen, sobre los actos y planes que las Comunidades Autónomas hayan de aprobar en el ejercicio de sus competencias, entre otras, en materia de medio ambiente, ordenación del territorio y urbanismo, espacios naturales, pesca, montes, regadíos y obras públicas de interés regional, siempre que tales actos y planes afecten al régimen y aprovechamiento de las aguas continentales o a los usos permitidos en terrenos de dominio público hidráulico y en sus zonas de servidumbre y policía, teniendo en cuenta a estos efectos lo previsto en la planificación hidráulica y en las planificaciones sectoriales aprobadas por el Gobierno.
+Cuando los actos o planes de las Comunidades Autónomas o de las entidades locales comporten nuevas demandas de recursos hídricos, el informe de la Confederación Hidrográfica se pronunciará expresamente sobre la existencia o inexistencia de recursos suficientes para satisfacer tales demandas.
+El informe se entenderá desfavorable si no se emite en el plazo establecido al efecto.
+Lo dispuesto en este apartado será también de aplicación a los actos y ordenanzas que aprueben las entidades locales en el ámbito de sus competencias, salvo que se trate de actos dictados en aplicación de instrumentos de planeamiento que hayan sido objeto del correspondiente informe previo de la Confederación Hidrográfica.
+Se modifica el apartado 3 por el art. 29 del Real Decreto-ley 8/2011, de 1 de julio. Ref. BOE-A-2011-11641.
+ Se modifica el apartado 4 por la disposición final 1.3 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
+
+## SECCIÓN 2
+
+Sección 2.ª Órganos de Gobierno, Administración y Cooperación.
+Se modifica la denominación de la sección por el art. 129.9 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 26
+
+Artículo 26. Órganos de Gobierno, Administración y Cooperación.
+1. Son órganos de gobierno de los organismos de cuenca la Junta de Gobierno y el Presidente.
+2. Son órganos de gestión, en régimen de participación, para el desarrollo de las funciones que específicamente les atribuye la presente Ley, la Asamblea de Usuarios, la Comisión de Desembalse, las Juntas de Explotación y las Juntas de obras.
+3. Es órgano de participación y planificación el Consejo del Agua de la demarcación.
+Es órgano para la cooperación, en relación con las obligaciones derivadas de esta ley para la protección de las aguas, el Comité de Autoridades Competentes.
+Se modifica la denominación y el apartado 3 por el art. 129.10 y .11de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 27
+
+Artículo 27. Composición de la Junta de Gobierno.
+La composición de la Junta de Gobierno del organismo de cuenca se determinará por vía reglamentaria, atendidas las peculiaridades de las diferentes cuencas hidrográficas y de los diversos usos del agua, de acuerdo con las siguientes normas y directrices:
+a) La presidencia de la Junta corresponderá al Presidente del organismo de cuenca.
+b) La Administración General del Estado contará con una representación de cinco Vocales, como mínimo, uno de cada uno de los Ministerios de Medio Ambiente ; de Agricultura, Pesca y Alimentación ; de Ciencia y Tecnología ; de Sanidad y Consumo y de Economía, y un representante de la Administración Tributaria del Estado, en el supuesto de que por convenio se encomiende a ésta la gestión y recaudación en la cuenca de las exacciones previstas en la presente Ley.
+c) Corresponderá a la representación de los usuarios, al menos un tercio del total de Vocales y, en todo caso, un mínimo de tres, integrándose dicha representación en relación a sus respectivos intereses en el uso del agua.
+d) Las Comunidades Autónomas que hubiesen decidido incorporarse al organismo de cuenca, de acuerdo con lo previsto en el artículo 25, estarán representadas en su Junta de Gobierno, al menos, por un Vocal. El total de Vocales representantes y su distribución se establecerán, en cada caso, en función del número de Comunidades Autónomas integrantes de la cuenca hidrográfica y de la superficie y población de las mismas en ella comprendidas.
+e) Las provincias estarán representadas de acuerdo con el porcentaje de su territorio afectado por la cuenca hidrográfica.
+
+### Artículo 28
+
+Artículo 28. Atribuciones de la Junta de Gobierno.
+Corresponde a la Junta de Gobierno:
+a) Aprobar los planes de actuación del organismo, la propuesta de presupuesto y conocer la liquidación de los mismos.
+b) Acordar, en su caso, las operaciones de crédito necesarias para finalidades concretas relativas a su gestión, así como para financiar las actuaciones incluidas en los planes de actuación, con los límites que reglamentariamente se determinen.
+c) Adoptar los acuerdos relativos a los actos de disposición sobre el patrimonio de los organismos de cuenca.
+d) Preparar los asuntos que se hayan de someter al Consejo del Agua de la demarcación.
+e) Aprobar, previo informe del Consejo del Agua de la demarcación, las modificaciones sobre la anchura de las zonas de servidumbre y de policía previstas en el artículo 6 de esta ley.
+f) Declarar las masas de agua subterránea en riesgo de no alcanzar el buen estado cuantitativo o químico y las medidas para corregir las tendencias que pongan en peligro el buen estado mediante la aprobación del programa de actuación para la recuperación, de conformidad con el artículo 56, sin perjuicio de las que puedan corresponder a otras Administraciones públicas.
+g) Adoptar las decisiones sobre comunidades de usuarios a las que se refieren los artículos 81.4 y 82.4.
+h) Promover las iniciativas sobre zonas húmedas a las que se refieren los apartados 5 y 6 del artículo 111.
+i) Informar, a iniciativa del Presidente, las propuestas de sanción por infracciones graves o muy graves cuando los hechos de que se trate sean de una especial trascendencia para la buena gestión del recurso en el ámbito de la cuenca hidrográfica.
+j) Aprobar, en su caso, criterios generales para la determinación de las indemnizaciones por daños y perjuicios ocasionados al dominio público hidráulico, de acuerdo con el artículo 118 de la presente Ley.
+k) Proponer al Consejo del Agua de la demarcación la revisión del plan hidrológico correspondiente.
+l) Y, en general, deliberar sobre aquellos asuntos que sean sometidos a su consideración por su Presidente o por cualquiera de sus miembros.
+Se modifican los párrafos c) y f) por el art. 1.1 y 2 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica el párrafo f) por el art. 1.1 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+ Se modifican los párrafos d), e), f) y k) por el art. 129.12 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 29
+
+Artículo 29. Nombramiento de los Presidentes de organismos de cuenca.
+Los Presidentes de los organismos de cuenca serán nombrados y cesados por el Consejo de Ministros a propuesta del Ministro de Medio Ambiente. Los nombramientos se ajustarán a lo establecido en el artículo 18.2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+### Artículo 30
+
+Artículo 30. Funciones del Presidente del Organismo.
+1. Corresponde al Presidente del organismo de cuenca:
+a) Ostentar la representación legal del organismo.
+b) Presidir la Junta de Gobierno, la Asamblea de Usuarios, la Comisión de Desembalse, el Consejo del Agua de la demarcación y el Comité de Autoridades Competentes.
+c) Cuidar de que los acuerdos de los órganos colegiados se ajusten a la legalidad vigente.
+d) Desempeñar la superior función directiva y ejecutiva del organismo.
+e) En general, el ejercicio de cualquier otra función que no esté expresamente atribuida a otro órgano.
+2. En el marco de los párrafos d y e del apartado anterior, le corresponderá de manera especial:
+a. Ordenar la ejecución de los acuerdos de la Junta de Gobierno y de los demás órganos colegiados que preside.
+b. Ejercer las facultades de contratación propias del organismo.
+c. Autorizar los gastos que se realicen con cargo a créditos del presupuesto del organismo y ordenar los pagos correspondientes, incluidos aquellos supuestos de responsabilidad patrimonial en que el daño derivase de la realización de obras con cargo al propio presupuesto del Organismo, la prestación de servicios propios del Organismo y la gestión y conservación ordinaria de sus instalaciones.
+d. Desempeñar la jefatura de personal y servicios.
+e. Otorgar las concesiones y autorizaciones de aprovechamiento del dominio público hidráulico y las autorizaciones relativas al régimen de policía de aguas y cauces, excepto aquellas cuya resolución corresponda al Ministerio de Agricultura, Alimentación y Medio Ambiente.
+f. Aplicar las normas del reglamento del dominio público hidráulico en materia de policía de aguas y sus cauces, incluido el régimen sancionador, dentro de los límites de su competencia.
+g. Resolver los recursos administrativos que se deduzcan contra las resoluciones de las comunidades de usuarios y del propio organismo de cuenca con excepción de los que correspondan por su contenido a la Junta de Gobierno del organismo o al Ministerio de Agricultura, Alimentación y Medio Ambiente.
+h. Coordinar y dirigir la aplicación de lo previsto en el Título VI de esta Ley sobre los cánones y la tarifa.
+i. Autorizar la redacción y aprobar definitivamente los proyectos de obras, instalaciones y suministros que hayan de ser realizados con cargo a los fondos propios del organismo.
+j. Ejercer las funciones expropiatorias en materia de aguas, en los términos previstos en la legislación vigente.
+k. Informar a la Dirección General del Agua sobre los efectos sociales de los proyectos correspondientes a obras que se encomienden al organismo por el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+l. Informar las propuestas de nombramiento y cese de los titulares de las unidades administrativas directamente dependientes de la Presidencia de los organismos de cuenca.
+3. Los actos y acuerdos de los órganos colegiados del organismo de cuenca que puedan constituir infracción de Leyes o no se ajusten a la planificación hidrológica podrán ser impugnados por el Presidente ante la jurisdicción contencioso-administrativa.
+La impugnación producirá la suspensión del acto o acuerdo, pero el Tribunal deberá ratificarla o levantarla en un plazo no superior a treinta días. El procedimiento será el establecido en el artículo 127 de la Ley reguladora de la Jurisdicción Contencioso-Administrativa.
+Se modifica el apartado 2.c) por la disposición final 9.1 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-10
+ Se añade el párrafo 2 y se renumera el anterior 2 como 3 por el art. 1.3 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica el apartado 1 b) por el art. 129.13 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 31
+
+Artículo 31. La Asamblea de Usuarios.
+La Asamblea de Usuarios, integrada por todos aquellos usuarios que forman parte de las Juntas de Explotación, tiene por finalidad coordinar la explotación de las obras hidráulicas y de los recursos de agua en toda la cuenca, sin menoscabo del régimen concesional y derechos de los usuarios.
+
+### Artículo 32
+
+Artículo 32. Las Juntas de Explotación.
+Las Juntas de Explotación tienen por finalidad coordinar, respetando los derechos derivados de las correspondientes concesiones y autorizaciones, la explotación de las obras hidráulicas y de los recursos de agua de aquel conjunto de ríos, río, tramo de río o unidad hidrogeológica cuyos aprovechamientos estén especialmente interrelacionados. Las propuestas formuladas por las Juntas de Explotación en el ámbito de sus competencias se trasladarán, a los efectos previstos en el artículo 30.1, al Presidente del organismo de cuenca.
+La constitución de las Juntas de Explotación, en las que los usuarios participarán mayoritariamente con relación a sus respectivos intereses en el uso del agua y al servicio prestado a la comunidad, se determinará reglamentariamente.
+Se promoverá la constitución de Juntas de Explotación conjunta de aguas superficiales y subterráneas en todos los casos en que los aprovechamientos de unas y otras aguas estén claramente interrelacionados.
+
+### Artículo 33
+
+Artículo 33. La Comisión de Desembalse.
+Corresponde a la Comisión de Desembalse deliberar y formular propuestas al Presidente del organismo sobre el régimen adecuado de llenado y vaciado de los embalses y acuíferos de la cuenca, atendidos los derechos concesionales de los distintos usuarios. Su composición y funcionamiento se regularán reglamentariamente atendiendo al criterio de representación adecuada de los intereses afectados.
+
+### Artículo 34
+
+Artículo 34. Las Juntas de Obras.
+La Junta de Gobierno, a petición de los futuros usuarios de una obra ya aprobada, podrán constituir la correspondiente Junta de Obras, en la que participarán tales usuarios, en la forma que reglamentariamente se determine, a fin de que estén directamente informados del desarrollo e incidencias de dicha obra.
+
+### Artículo 35
+
+Artículo 35. Consejo del Agua de la cuenca.
+1. Para fomentar la información, consulta pública y participación activa en la planificación hidrológica se crea, en las demarcaciones hidrográficas con cuencas intercomunitarias, el Consejo del Agua de la demarcación.
+2. Corresponde al Consejo del Agua de la demarcación promover la información, consulta y participación pública en el proceso planificador, y elevar al Gobierno, a través del Ministerio de Medio Ambiente, el plan hidrológico de la cuenca y sus ulteriores revisiones. Asimismo, podrá informar las cuestiones de interés general para la demarcación y las relativas a la protección de las aguas y a la mejor ordenación, explotación y tutela del dominio público hidráulico.
+A tales efectos, reglamentariamente se determinará la organización y procedimiento para hacer efectiva la participación pública.
+3. Las comunidades autónomas, cuyo territorio forme parte total o parcialmente de una demarcación hidrográfica, se incorporarán en los términos previstos en esta ley al Consejo del Agua correspondiente para participar en la elaboración de la planificación hidrológica y demás funciones del mismo.
+Se modifica por el art. 129.14 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 36
+
+Artículo 36. Composición.
+1. La composición del Consejo del Agua se establecerá mediante real decreto, aprobado por el Consejo de Ministros, ajustándose a los siguientes criterios:
+a) Cada departamento ministerial relacionado con la gestión de las aguas y el uso de los recursos hidráulicos estará representado por un número de vocales no superior a tres.
+b) Los servicios técnicos del organismo de cuenca estarán representados por un máximo de tres vocales ; cada servicio periférico de costas del Ministerio de Medio Ambiente cuyo territorio coincida total o parcialmente con el de la demarcación hidrográfica estará representado por un vocal ; cada Autoridad Portuaria y Capitanía Marítima afectadas por el ámbito de la demarcación hidrográfica estarán representadas por un vocal.
+c) La representación de las comunidades autónomas que participen en el Consejo, de acuerdo con lo previsto en el artículo 35, se determinará y distribuirá en función del número de comunidades autónomas de la demarcación y de la superficie y población de las mismas incluidas en ella, debiendo estar representada cada una de las comunidades autónomas participantes, al menos, por un vocal.
+La representación de las comunidades autónomas no será inferior a la que corresponda a los diversos departamentos ministeriales señalados en el apartado 1.a).
+d) Las entidades locales cuyo territorio coincida total o parcialmente con el de la cuenca estarán representadas en función de la extensión o porcentaje de dicho territorio afectado por la demarcación hidrográfica, en los términos que reglamentariamente se determine. El número máximo de vocales no será superior a tres.
+e) La representación de los usuarios no será inferior al tercio del total de vocales y estará integrada por representantes de los distintos sectores con relación a sus respectivos intereses en el uso del agua.
+f) La representación de asociaciones y organizaciones de defensa de intereses ambientales, económicos y sociales relacionados con el agua. El número de vocales no será superior a seis.
+2. En el caso de demarcaciones hidrográficas de cuencas intracomunitarias, la comunidad autónoma correspondiente garantizará la participación social en la planificación hidrológica, respetando las anteriores representaciones mínimas de usuarios y organizaciones interesadas en los órganos colegiados que al efecto se creen, y asegurando que estén igualmente representadas en dichos órganos todas las Administraciones públicas con competencias en materias relacionadas con la protección de las aguas y, en particular, la Administración General del Estado en relación con sus competencias sobre el dominio público marítimo terrestre, puertos de interés general y marina mercante.
+Se modifica por el art. 129.15 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 36 bis
+
+Artículo 36 bis. Comité de Autoridades Competentes.
+1. Para garantizar la adecuada cooperación en la aplicación de las normas de protección de las aguas, se crea en el caso de demarcaciones hidrográficas con cuencas intercomunitarias, el Comité de Autoridades Competentes.
+La creación del Comité de Autoridades Competentes de la demarcación hidrográfica no afectará a la titularidad de las competencias que en las materias relacionadas con la gestión de las aguas correspondan a las distintas Administraciones públicas, que continuarán ejerciéndose de acuerdo con lo previsto en cada caso en la normativa que resulte de aplicación.
+2. El Comité de Autoridades Competentes de la demarcación hidrográfica tendrá como funciones básicas:
+a) Favorecer la cooperación en el ejercicio de las competencias relacionadas con la protección de las aguas que ostenten las distintas Administraciones públicas en el seno de la respectiva demarcación hidrográfica.
+b) Impulsar la adopción por las Administraciones públicas competentes en cada demarcación
+de las medidas que exija el cumplimiento de las normas de protección de esta ley.
+c) Proporcionar a la Unión Europea, a través del Ministerio de Medio Ambiente, la información relativa a la demarcación hidrográfica que se requiera, conforme a la normativa vigente.
+3. El Comité de Autoridades Competentes estará integrado por:
+a) Los órganos de la Administración General del Estado con competencias sobre el aprovechamiento, protección y control de las aguas objeto de esta ley, con un número de representantes que no supere el de las comunidades autónomas.
+b) Los órganos de las comunidades autónomas, cuyo territorio forme parte total o parcialmente de la demarcación hidrográfica, con competencias sobre la protección y control de las aguas objeto de esta ley, con un representante por cada comunidad autónoma.
+c) Los entes locales, cuyo territorio coincida total o parcialmente con el de la demarcación hidrográfica, con competencias sobre la protección y control de las aguas objeto de esta ley, representados en función de su población dentro de la demarcación, a través de las correspondientes federaciones territoriales de municipios.
+4. En el caso de demarcaciones hidrográficas de cuencas intracomunitarias, las comunidades autónomas competentes garantizarán el principio de unidad de gestión de las aguas, la cooperación en el ejercicio de las competencias que en relación con su protección ostenten las distintas Administraciones públicas y, en particular, las que corresponden a la Administración General del Estado en materia de dominio público marítimo terrestre, portuario y de marina mercante. Asimismo proporcionarán a la Unión Europea, a través del Ministerio de Medio Ambiente, la información relativa a la demarcación hidrográfica que se requiera conforme a la normativa vigente.
+Se añade por el art. 129.16 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 36 ter
+
+Artículo 36 ter. Notificación de autoridades competentes.
+El Ministerio de Medio Ambiente facilitará a la Comisión Europea una lista de las autoridades competentes españolas, debiendo asimismo notificar cualquier cambio que se produzca en estas designaciones.
+Se añade por el art. 129.17 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## SECCIÓN 3
+
+Sección 3.ª Hacienda y Patrimonio
+
+### Artículo 37
+
+Artículo 37. Adscripción de bienes a los organismos de cuenca.
+Los bienes del Estado y los de las Comunidades Autónomas, adscritos o que puedan adscribirse a los organismos de cuenca para el cumplimiento de sus fines, conservarán su calificación jurídica originaria, correspondiendo tan sólo al organismo su utilización, administración y explotación, con sujeción a las disposiciones legales vigentes en la materia.
+
+### Artículo 38
+
+Artículo 38. Patrimonio propio.
+Con independencia de tales bienes y para el mejor cumplimiento de sus fines, los organismos de cuenca podrán poseer un patrimonio propio integrado por:
+a) Los bienes y derechos que figuren en el patrimonio de las actuales Confederaciones Hidrográficas.
+b) Los que en el futuro pudieran adquirir con los fondos procedentes de su presupuesto.
+c) Los que por cualquier título jurídico pudieran recibir del Estado, de las Comunidades Autónomas, de entidades públicas o privadas, o de los particulares.
+
+### Artículo 39
+
+Artículo 39. Ingresos del organismo
+Tendrán la consideración de ingresos del organismo de cuenca los siguientes:
+a) Los productos y rentas de su patrimonio y los de la explotación de las obras cuando les sea encomendada por el Estado, las Comunidades Autónomas, las Corporaciones Locales y los particulares.
+b) Las remuneraciones por el estudio y redacción de proyectos, dirección y ejecución de las obras que les encomiende el Estado, las Comunidades Autónomas, las Corporaciones Locales, así como las procedentes de la prestación de servicios facultativos y técnicos.
+c) Las asignaciones presupuestarias del Estado, Comunidades Autónomas y Corporaciones Locales.
+d) Los procedentes de la recaudación de tasas, exacciones y precios autorizados al organismo.
+e) Los reintegros de los anticipos otorgados por el Estado para la construcción de obras hidráulicas que realice el propio organismo.
+f) El producto de las posibles aportaciones acordadas por los usuarios, para obras o actuaciones específicas, así como cualquier otra percepción autorizada por disposición legal.
+
+## TÍTULO III
+
+De la planificación hidrológica
+
+### Artículo 40
+
+Artículo 40. Objetivos y criterios de la planificación hidrológica:
+1. La planificación hidrológica tendrá por objetivos generales conseguir el buen estado y la adecuada protección del dominio público hidráulico y de las aguas objeto de esta ley, la satisfacción de las demandas de agua, el equilibrio y armonización del desarrollo regional y sectorial, incrementando las disponibilidades del recurso, protegiendo su calidad, economizando su empleo y racionalizando sus usos en armonía con el medio ambiente y los demás recursos naturales.
+2. La política del agua está al servicio de las estrategias y planes sectoriales que sobre los distintos usos establezcan las Administraciones públicas, sin perjuicio de la gestión racional y sostenible del recurso que debe ser aplicada por el Ministerio de Medio Ambiente, o por las Administraciones hidráulicas competentes, que condicionará toda autorización, concesión o infraestructura futura que se solicite.
+3. La planificación se realizará mediante los planes hidrológicos de cuenca y el Plan Hidrológico Nacional. El ámbito territorial de cada plan hidrológico de cuenca será coincidente con el de la demarcación hidrográfica correspondiente.
+4. Los planes hidrológicos serán públicos y vinculantes, sin perjuicio de su actualización periódica y revisión justificada, y no crearán por sí solos derechos en favor de particulares o entidades, por lo que su modificación no dará lugar a indemnización, sin perjuicio de lo dispuesto en el artículo 65.
+5. El Gobierno, mediante real decreto, aprobará los planes hidrológicos de cuenca en los términos que estime procedentes en función del interés general, sin perjuicio de lo dispuesto en el apartado siguiente.
+6. Los planes hidrológicos de cuenca que hayan sido elaborados o revisados al amparo de lo dispuesto en el artículo 18 serán aprobados si se ajustan a las prescripciones de los artículos 40.1, 3 y 4 y 42, no afectan a los recursos de otras cuencas y, en su caso, se acomodan a las determinaciones del Plan Hidrológico Nacional.
+Se modifica el contenido y denominación por el art. 129.18 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 40 bis
+
+Artículo 40 bis. Definiciones.
+A los efectos de la planificación hidrológica y de la protección de las aguas objeto de esta Ley, se entenderá por:
+a) aguas continentales: todas las aguas en la superficie del suelo y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+b) aguas superficiales: las aguas continentales, excepto las aguas subterráneas ; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
+c) aguas subterráneas: todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+d) acuífero: una o más capas subterráneas de roca o de otros estratos geológicos que tienen la suficiente porosidad y permeabilidad para permitir ya sea un flujo significativo de aguas subterráneas o la extracción de cantidades significativas de aguas subterráneas.
+e) masa de agua superficial: una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
+f) masa de agua subterránea: un volumen claramente diferenciado de aguas subterráneas en un acuífero o acuíferos.
+g) masa de agua artificial: una masa de agua superficial creada por la actividad humana.
+h) masa de agua muy modificada: una masa de agua superficial que, como consecuencia de alteraciones físicas producidas por la actividad humana, ha experimentado un cambio sustancial en su naturaleza.
+i) servicios relacionados con el agua: todas las actividades relacionadas con la gestión de las aguas que posibilitan su utilización, tales como la extracción, el almacenamiento, la conducción, el tratamiento y la distribución de aguas superficiales o subterráneas, así como la recogida y depuración de aguas residuales, que vierten posteriormente en las aguas superficiales. Asimismo, se entenderán como servicios las actividades derivadas de la protección de personas y bienes frente a las inundaciones.
+j) usos del agua: las distintas clases de utilización del recurso, así como cualquier otra actividad que tenga repercusiones significativas en el estado de las aguas. A efectos de la aplicación del principio de recuperación de costes, los usos del agua deberán considerar, al menos, el abastecimiento de poblaciones, los usos industriales y los usos agrarios.
+Se añade por el art. 129.19 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 41
+
+Artículo 41. Elaboración de los planes hidrológicos de cuenca.
+1. La elaboración y propuesta de revisiones ulteriores de los planes hidrológicos de cuenca se realizarán por el organismo de cuenca correspondiente o por la Administración hidráulica competente, en las cuencas comprendidas íntegramente en el ámbito territorial de la Comunidad Autónoma. El Ministerio para la Transición Ecológica y el Reto Demográfico podrá ejecutar y financiar actuaciones que aseguren la consistencia en la elaboración de los planes hidrológicos de competencia estatal.
+2. El procedimiento para elaboración y revisión de los planes hidrológicos de cuenca se regulará por vía reglamentaria, debiendo contemplar, en todo caso, la programación de calendarios, programas de trabajo, elementos a considerar y borradores previos para posibilitar una adecuada información y consulta pública desde el inicio del proceso.
+Asimismo, deberá contemplarse la elaboración previa, por las Administraciones competentes, de los programas de medidas básicas y complementarias, contemplados en el artículo 92.quáter, conducentes a la consecución de los objetivos medioambientales previstos en esta ley. Los programas de medidas se coordinarán e integrarán en los planes hidrológicos.
+De forma expresa, deberán coordinarse, para su integración en el plan hidrológico, los programas relativos a las aguas costeras y de transición elaborados por la Administración General del Estado o por las comunidades autónomas que participen en el Comité de Autoridades Competentes de la demarcación y que cuenten con litoral.
+3. En la elaboración y revisión de los planes hidrológicos de cuenca se preverá necesariamente la participación de los departamentos ministeriales interesados, los plazos para presentación de las propuestas por los organismos correspondientes y la actuación subsidiaria del Gobierno en caso de falta de propuesta. Se garantizará, en todo caso, la participación pública en todo el proceso planificador, tanto en las fases de consultas previas como en las de desarrollo y aprobación o revisión del plan.
+A tales efectos se cumplirán los plazos previstos en la disposición adicional duodécima.
+Téngase en cuenta que se declara que el inciso destacado del apartado 3, es conforme al orden constitucional de distribución de competencias interpretado en los términos señalados en el fundamento jurídico 10, por Sentencia del TC 104/2013, de 25 de abril. Ref. BOE-A-2013-5447.
+4. Los planes hidrológicos se elaborarán en coordinación con las diferentes planificaciones sectoriales que les afecten, tanto respecto a los usos del agua como a los del suelo, y especialmente con lo establecido en la planificación de regadíos y otros usos agrarios.
+5. Con carácter previo a la elaboración y propuesta de revisión del plan hidrológico de cuenca, se preparará un programa de trabajo que incluya, además del calendario sobre las fases previstas para dicha elaboración o revisión, el estudio general sobre la demarcación correspondiente.
+Dicho estudio general incorporará, en los términos que se establezca reglamentariamente, una descripción general de las características de la demarcación, un resumen de las repercusiones de la actividad humana en el estado de las aguas superficiales y de las aguas subterráneas, y un análisis económico del uso del agua.
+6. El Ministerio de Medio Ambiente remitirá a la Comisión Europea y a cualquier Estado miembro interesado ejemplares de los planes hidrológicos aprobados, así como del estudio general de la demarcación a que se alude en el apartado anterior.
+Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+ Se declara que el inciso destacado del apartado 3, es conforme al orden constitucional de distribución de competencias interpretado en los términos señalados en el fundamento jurídico 10, por Sentencia del TC 104/2013, de 25 de abril. Ref. BOE-A-2013-5447.
+ Se modifica el apartado 2 y se añaden los apartados 3 a 6 por el art. 129.20 y 21 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 42
+
+Artículo 42. Contenido de los planes hidrológicos de cuenca.
+1. Los planes hidrológicos de cuenca comprenderán obligatoriamente:
+a) La descripción general de la demarcación hidrográfica, incluyendo:
+a') Para las aguas superficiales tanto continentales como costeras y de transición, mapas con sus límites y localización, ecorregiones, tipos y condiciones de referencia. En el caso de aguas artificiales y muy modificadas, se incluirá asimismo la motivación conducente a tal calificación.
+b') Para las aguas subterráneas, mapas con la localización y límites de las masas de agua.
+c') El inventario de los recursos superficiales y subterráneos incluyendo sus regímenes hidrológicos y las características básicas de calidad de las aguas.
+b) La descripción general de los usos, presiones e incidencias antrópicas significativas sobre las aguas, incluyendo:
+a') Los usos y demandas existentes con una estimación de las presiones sobre el estado cuantitativo de las aguas, la contaminación de fuente puntual y difusa, incluyendo un resumen del uso del suelo, y otras afecciones significativas de la actividad humana.
+b') Los criterios de prioridad y de compatibilidad de usos, así como el orden de preferencia entre los distintos usos y aprovechamientos.
+c') La asignación y reserva de recursos para usos y demandas actuales y futuros, así como para la conservación y recuperación del medio natural. A este efecto se determinarán:
+Los caudales ecológicos, entendiendo como tales los que mantiene como mínimo la vida piscícola que de manera natural habitaría o pudiera habitar en el río, así como su vegetación de ribera.
+Las reservas naturales fluviales, con la finalidad de preservar, sin alteraciones, aquellos tramos de ríos con escasa o nula intervención humana. Estas reservas se circunscribirán estrictamente a los bienes de dominio público hidráulico.
+d') La definición de un sistema de explotación único para cada plan, en el que, de forma simplificada, queden incluidos todos los sistemas parciales, y con el que se posibilite el análisis global de comportamiento.
+c) La identificación y mapas de las zonas protegidas.
+d) Las redes de control establecidas para el seguimiento del estado de las aguas superficiales, de las aguas subterráneas y de las zonas protegidas y los resultados de este control.
+e) La lista de objetivos medioambientales para las aguas superficiales, las aguas subterráneas y las zonas protegidas, incluyendo los plazos previstos para su consecución, la identificación de condiciones para excepciones y prórrogas, y sus informaciones complementarias.
+f) Un resumen del análisis económico del uso del agua, incluyendo una descripción de las situaciones y motivos que puedan permitir excepciones en la aplicación del principio de recuperación de costes.
+g) Un resumen de los Programas de Medidas adoptados para alcanzar los objetivos previstos, incluyendo:
+a') Un resumen de las medidas necesarias para aplicar la legislación sobre protección del agua, incluyendo separadamente las relativas al agua potable.
+b') Un informe sobre las acciones prácticas y las medidas tomadas para la aplicación del principio de recuperación de los costes del uso del agua.
+c') Un resumen de controles sobre extracción y almacenamiento del agua, incluidos los registros e identificación de excepciones de control.
+d') Un resumen de controles previstos sobre vertidos puntuales y otras actividades con incidencia en el estado del agua, incluyendo la ordenación de vertidos directos e indirectos al dominio público hidráulico y a las aguas objeto de protección por esta ley, sin perjuicio de la competencia estatal exclusiva en materia de vertidos con origen y destino en el medio marino.
+e') Una identificación de casos en que se hayan autorizado vertidos directos a las aguas subterráneas.
+f') Un resumen de medidas tomadas respecto a las sustancias prioritarias.
+g') Un resumen de las medidas tomadas para prevenir o reducir las repercusiones de los incidentes de contaminación accidental.
+h') Un resumen de las medidas adoptadas para masas de agua con pocas probabilidades de alcanzar los objetivos ambientales fijados.
+i') Detalles de las medidas complementarias consideradas necesarias para cumplir los objetivos medioambientales establecidos, incluyendo los perímetros de protección y las medidas para la conservación y recuperación del recurso y entorno afectados.
+j') Detalles de las medidas tomadas para evitar un aumento de la contaminación de las aguas marinas.
+k') Las directrices para recarga y protección de acuíferos.
+l') Las normas básicas sobre mejoras y transformaciones en regadío que aseguren el mejor aprovechamiento del conjunto de recursos hidráulicos y terrenos disponibles.
+m') Los criterios de evaluación de los aprovechamientos energéticos y la fijación de los condicionantes requeridos para su ejecución.
+n') Los criterios sobre estudios, actuaciones y obras para prevenir y evitar los daños debidos a inundaciones, avenidas y otros fenómenos hidráulicos.
+o') Las infraestructuras básicas requeridas por el plan.
+h) Un registro de los programas y planes hidrológicos más detallados relativos a subcuencas, sectores, cuestiones específicas o categorías de aguas, acompañado de un resumen de sus contenidos. De forma expresa, se incluirán las determinaciones pertinentes para el plan hidrológico de cuenca derivadas del plan hidrológico nacional.
+i) Un resumen de las medidas de información pública y de consulta tomadas, sus resultados y los cambios consiguientes efectuados en el plan.
+j) Una lista de las autoridades competentes designadas.
+k) Los puntos de contacto y procedimientos para obtener la documentación de base y la información requerida por las consultas públicas.
+2. La primera actualización del plan hidrológico, y todas las actualizaciones posteriores, comprenderán obligatoriamente:
+a) Un resumen de todos los cambios o actualizaciones efectuados desde la publicación de la versión precedente del plan.
+b) Una evaluación de los progresos realizados en la consecución de los objetivos medioambientales, incluida la presentación en forma de mapa de los resultados de los controles durante el período del plan anterior y una explicación de los objetivos medioambientales no alcanzados.
+c) Un resumen y una explicación de las medidas previstas en la versión anterior del plan hidrológico de cuenca que no se hayan puesto en marcha.
+d) Un resumen de todas las medidas adicionales transitorias adoptadas, desde la publicación de la versión precedente del plan hidrológico de cuenca, para las masas de agua que probablemente no alcancen los objetivos ambientales previstos.
+Se modifica el apartado 1.b.c´) por la disposición final 1.4 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+ Se modifica por el art. 129.22 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 43
+
+Artículo 43. Previsiones de los planes hidrológicos de cuenca.
+1. En los planes hidrológicos de cuenca se podrán establecer reservas, de agua y de terrenos, necesarias para las actuaciones y obras previstas.
+2. Podrán ser declarados de protección especial determinadas zonas, cuencas o tramos de cuencas, acuíferos o masas de agua por sus características naturales o interés ecológico, de acuerdo con la legislación ambiental y de protección de la naturaleza. Los planes hidro lógicos recogerán la clasificación de dichas zonas y las condiciones específicas para su protección.
+3. Las previsiones de los planes hidrológicos a que se refieren los apartados anteriores deberán ser respetadas en los diferentes instrumentos de ordenación urbanística del territorio.
+
+### Artículo 44
+
+Artículo 44. Declaración de utilidad pública.
+1. El Gobierno podrá hacer la declaración de utilidad pública de los trabajos, estudios e investigaciones requeridas para la elaboración y revisión de los planes hidrológicos que se realicen por los servicios del Ministerio de Medio Ambiente, por el Instituto Geológico y Minero de España o por cualquier otro organismo de las Administraciones Públicas.
+2. La aprobación de los planes hidrológicos de cuenca implicará la declaración de utilidad pública de los trabajos de investigación, estudios, proyectos y obras previstos en el plan.
+
+### Artículo 45
+
+Artículo 45. Contenido del Plan Hidrológico Nacional.
+1. El Plan Hidrológico Nacional se aprobará por Ley y contendrá, en todo caso:
+a) Las medidas necesarias para la coordinación de los diferentes planes hidrológicos de cuenca.
+b) La solución para las posibles alternativas que aquéllos ofrezcan.
+c) La previsión y las condiciones de las transferencias de recursos hidráulicos entre ámbitos territoriales de distintos planes hidrológicos de cuenca.
+d) Las modificaciones que se prevean en la planificación del uso del recurso y que afecten a aprovechamientos existentes para abastecimiento de poblaciones o regadíos.
+2. Corresponderá al Ministerio de Medio Ambiente la elaboración del Plan Hidrológico Nacional, conjuntamente con los Departamentos ministeriales relacionados con el uso de los recursos hidráulicos.
+3. La aprobación del Plan Hidrológico Nacional implicará la adaptación de los planes hidrológicos de cuenca a las previsiones de aquél.
+
+### Artículo 46
+
+Artículo 46. Obras hidráulicas de interés general.
+1. Tendrán la consideración de obras hidráulicas de interés general y serán de competencia de la Administración General del Estado, en el ámbito de las cuencas a que se refiere el artículo 21 de esta Ley:
+a) Las obras que sean necesarias para la regulación y conducción del recurso hídrico, al objeto de garantizar la disponibilidad y aprovechamiento del agua en toda la cuenca.
+b) Las obras necesarias para el control, defensa y protección del dominio público hidráulico, sin perjuicio de las competencias de las Comunidades Autónomas, especialmente las que tengan por objeto hacer frente a fenómenos catastróficos como las inundaciones, sequías y otras situaciones excepcionales, así como la prevención de avenidas vinculadas a obras de regulación que afecten al aprovechamiento, protección e integridad de los bienes del dominio público hidráulico.
+c) Las obras de corrección hidrológico-forestal cuyo ámbito territorial afecte a más de una Comunidad Autónoma.
+d) Las obras de abastecimiento, potabilización y desalación cuya realización afecte a más de una Comunidad Autónoma.
+2. El resto de obras hidráulicas serán declaradas de interés general por Ley.
+3. No obstante lo señalado en el apartado anterior, podrán ser declaradas obras hidráulicas de interés general mediante Real Decreto:
+a) Las obras hidráulicas contempladas en el apartado 1 en las que no concurran las circunstancias en él previstas, a solicitud de la Comunidad Autónoma en cuyo territorio se ubiquen, cuando por sus dimensiones o coste económico tengan una relación estratégica en la gestión integral de la cuenca hidrográfica.
+b) Las obras necesarias para la ejecución de planes nacionales, distintos de los hidrológicos, pero que guarden relación con ellos, siempre que el mismo plan atribuya la responsabilidad de las obras a la Administración General del Estado, a solicitud de la Comunidad Autónoma en cuyo territorio se ubique.
+4. La declaración como obras hidráulicas de interés general de las infraestructuras necesarias para las transferencias de recursos, a que se refiere el párrafo c), apartado 1 del artículo 45 de la presente Ley, sólo podrá realizarse por la norma legal que apruebe o modifique el Plan Hidrológico Nacional.
+5. Con carácter previo a la declaración del interés general de una obra hidráulica, deberá elaborarse un informe que justifique su viabilidad económica, técnica, social y ambiental, incluyendo un estudio específico sobre la recuperación de los costes. Se elaborará el mismo informe con carácter previo a la ejecución de las obras de interés general previstas en los apartados 1, 2 y 3.
+En ambos supuestos, los informes deberán ser revisados cada seis años en el caso de que las obras no se hubieran llevado a cabo. Los informes y sus revisiones periódicas se harán públicos.
+Se añade el apartado 5 por la disposición final 1.5 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+## TÍTULO IV
+
+De la utilización del dominio público hidráulico
+
+## CAPÍTULO I
+
+Servidumbres legales
+
+### Artículo 47
+
+Artículo 47. Obligaciones de los predios inferiores.
+1. Los predios inferiores están sujetos a recibir las aguas que naturalmente y sin obra del hombre desciendan de los predios superiores, así como la tierra o piedra que arrastren en su curso. Ni el dueño del predio inferior puede hacer obras que impidan esta servidumbre ni el del superior obras que la agraven.
+2. Si las aguas fueran producto de alumbramiento, sobrantes de otros aprovechamientos o se hubiese alterado de modo artificial su calidad espontánea, el dueño del predio inferior podrá oponerse a su recepción, con derecho a exigir resarcimiento de daños y perjuicios, de no existir la correspondiente servidumbre.
+
+### Artículo 48
+
+Artículo 48. Régimen jurídico de la servidumbre de acueducto.
+1. Los organismos de cuenca podrán imponer, con arreglo a lo dispuesto en el Código Civil y en el Reglamento de esta Ley, la servidumbre forzosa de acueducto, si el aprovechamiento del recurso o su evacuación lo exigiera.
+2. Con arreglo a las mismas normas, los organismos de cuenca podrán imponer las servidumbres de saca de agua y abrevadero, de estribo de presa y de parada o partidor, así como las de paso, cuando se trate de garantizar el acceso o facilitar el mismo a zona de dominio público de los cauces, para usos determinados, incluyendo los deportivos y recreativos, y, en general, cuantas servidumbres estén previstas en el Código Civil.
+3. El expediente de constitución de servidumbre deberá reducir, en lo posible, el gravamen que la misma implique sobre el predio sirviente.
+4. La variación de las circunstancias que dieron origen a la constitución de una servidumbre dará lugar, a instancia de parte, al correspondiente expediente de revisión, que seguirá los mismos trámites reglamentarios que los previstos en el de constitución.
+5. El beneficiario de una servidumbre forzosa deberá indemnizar los daños y perjuicios ocasionados al predio sirviente de conformidad con la legislación vigente.
+
+### Artículo 49
+
+Artículo 49. Titularidad de los elementos de la servidumbre.
+En toda acequia o acueducto, el cauce, los cajeros y las márgenes serán considerados como parte integrante de la heredad o edificio a que vayan destinadas las aguas o, en caso de evacuación, de los que procedieran.
+
+## CAPÍTULO II
+
+De los usos comunes y privativos
+
+### Artículo 50
+
+Artículo 50. Usos comunes.
+1. Todos pueden, sin necesidad de autorización administrativa y de conformidad con lo que dispongan las Leyes y Reglamentos, usar de las aguas superficiales, mientras discurren por sus cauces naturales, para beber, bañarse y otros usos domésticos, así como para abrevar el ganado.
+2. Estos usos comunes habrán de llevarse a cabo de forma que no se produzca una alteración de la calidad y caudal de las aguas. Cuando se trate de aguas que circulen por cauces artificiales, tendrán, además, las limitaciones derivadas de la protección del acueducto. En ningún caso, las aguas podrán ser desviadas de sus cauces o lechos, debiendo respetarse el régimen normal de aprovechamiento.
+3. La protección, utilización y explotación de los recursos pesqueros en aguas continentales, así como la repoblación acuícola y piscícola, se regulará por la legislación general del medio ambiente y, en su caso, por su legislación específica.
+4. La Ley no ampara el abuso del derecho en la utilización de las aguas ni el desperdicio o mal uso de las mismas, cualquiera que fuese el título que se alegare.
+
+### Artículo 51
+
+Artículo 51. Usos comunes especiales sujetos a declaración responsable.
+1. El ejercicio de los siguientes usos comunes especiales requerirá previa declaración responsable:
+a) La navegación y flotación.
+b) El establecimiento de barcas de paso y sus embarcaderos.
+c) Cualquier otro uso, no incluido en el artículo anterior, que no excluya la utilización del recurso por terceros.
+2. La declaración responsable, a la que se refiere el artículo 3.9 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso de las actividades de servicios y su ejercicio, deberá presentarse con un periodo mínimo de antelación de quince días, para que pueda comprobarse la compatibilidad de dichos usos con los fines del dominio público hidráulico.
+Se modifica por el art. 33.1 de la Ley 25/2009, de 22 de ddiciembre. Ref. BOE-A-2009-20725.
+
+### Artículo 52
+
+Artículo 52. Formas de adquirir el derecho al uso privativo.
+1. El derecho al uso privativo, sea o no consuntivo, del dominio público hidráulico se adquiere por disposición legal o por concesión administrativa.
+2. No podrá adquirirse por prescripción el derecho al uso privativo del dominio público hidráulico.
+
+### Artículo 53
+
+Artículo 53. Extinción del derecho al uso privativo.
+1. El derecho al uso privativo de las aguas, cualquiera que sea el título de su adquisición, se extingue:
+a) Por término del plazo de su concesión.
+b) Por caducidad de la concesión en los términos previstos en el artículo 66.
+c) Por expropiación forzosa.
+d) Por renuncia expresa del concesionario.
+2. La declaración de la extinción del derecho al uso privativo del agua requerirá la previa audiencia de los titulares del mismo.
+3. Cuando el destino dado a las aguas concedidas fuese el riego o el abastecimiento de población, el titular de la concesión podrá obtener una nueva con el mismo uso y destino para las aguas, debiendo formular la solicitud en el trámite de audiencia previa en el expediente de declaración de extinción o durante los últimos cinco años de la vigencia de aquella.
+Se admitirá también la novación de las concesiones de aguas otorgadas a centrales nucleares con objeto de que estas concesiones cubran el periodo de validez de las autorizaciones de explotación y de las autorizaciones de desmantelamiento de las centrales hasta la emisión de las correspondientes declaraciones de clausura, sin superar el plazo máximo fijado en el artículo 59.4.
+En caso de producirse la solicitud, la oficina de planificación hidrológica del organismo de cuenca deberá evacuar informe sobre su compatibilidad con la planificación hidrológica. Una vez acreditada su compatibilidad se continuará la tramitación del expediente excluyendo el trámite de proyectos en competencia.
+4. Al extinguirse el derecho concesional, revertirán a la Administración competente gratuitamente y libres de cargas cuantas obras hubieran sido construidas dentro del dominio público hidráulico para la explotación del aprovechamiento, sin perjuicio del cumplimiento de las condiciones estipuladas en el documento concesional.
+5. Los derechos adquiridos por disposición legal se perderán según lo establecido en la norma que los regule o, en su defecto, por disposición normativa del mismo rango.
+6. La vigencia de los contratos de cesión de derechos de uso del agua a que se refiere el artículo 67 será la establecida por las partes en dichos contratos. En todo caso, la extinción del derecho al uso privativo del cedente implicará automáticamente la resolución del contrato de cesión.
+Se modifica el apartado 3 por el art. 61.1 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a6-3
+
+### Artículo 54
+
+Artículo 54. Usos privativos por disposición legal.
+1. El propietario de una finca puede aprovechar las aguas pluviales que discurran por ella y las estancadas, dentro de sus linderos, sin más limitaciones que las establecidas en la presente Ley y las que se deriven del respeto a los derechos de tercero y de la prohibición del abuso del derecho.
+2. En las condiciones que reglamentariamente se establezcan, se podrán utilizar en un predio aguas procedentes de manantiales situados en su interior y aprovechar en él aguas subterráneas, cuando el volumen total anual no sobrepase los 7.000 metros cúbicos. En los acuíferos que hayan sido declarados como sobreexplotados, o en riesgo de estarlo, no podrán realizarse nuevas obras de las amparadas por este apartado sin la correspondiente autorización.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 287, de 30 de noviembre de 2001. Ref. BOE-A-2001-22362.
+
+### Artículo 55
+
+Artículo 55. Facultades del organismo de cuenca en relación con el aprovechamiento y control de los caudales concedidos.
+1. El organismo de cuenca, cuando así lo exija la disponibilidad del recurso, podrá fijar el régimen de explotación de los embalses establecidos en los ríos y de los acuíferos subterráneos, régimen al que habrá de adaptarse la utilización coordinada de los aprovechamientos existentes. Igualmente, podrá fijar el régimen de explotación conjunta de las aguas superficiales y de los acuíferos subterráneos.
+2. Con carácter temporal, podrá también condicionar o limitar el uso del dominio público hidráulico para garantizar su explotación racional. Cuando por ello se ocasione una modificación de caudales que genere perjuicios a unos aprovechamientos en favor de otros, los titulares beneficiados deberán satisfacer la oportuna indemnización, correspondiendo al organismo de cuenca, en defecto de acuerdo entre las partes, la determinación de su cuantía.
+La garantía de explotación racional del dominio público hidráulico tiene la finalidad de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, de conformidad con lo dispuesto por el artículo 45.2 de la Constitución.
+A esos efectos, para los embalses mayores de 50 hm3 de capacidad total, cuyos usos principales no sean el abastecimiento, el regadío y otros usos agropecuarios, en los casos en que así proceda en atención a la reserva de agua embalsada y a la predicción estacional, el organismo de cuenca fijará al inicio de cada año hidrológico:
+a) Un régimen mínimo y máximo de caudales medios mensuales a desembalsar para situaciones de normalidad hidrológica y de sequía prolongada.
+b) Un régimen de volúmenes mínimos de reservas embalsadas para cada mes.
+c) La reserva mensual mínima que debe permanecer almacenada en el embalse para evitar indeseados efectos ambientales sobre la fauna y la flora del embalse y de las masas de agua con él asociadas.
+En situaciones de normalidad hidrológica, la fijación de los citados regímenes de caudales y de reservas embalsadas, deberá permitir el ejercicio de los usos comunes regulados en el artículo 50.
+Asimismo, se procurará que la explotación racional resulte compatible con el desarrollo de las actividades económicas sostenibles ligadas a la dinamización de los municipios ribereños, en el marco del orden de preferencia de usos que se establezca en el Plan Hidrológico de la cuenca correspondiente.
+En el procedimiento, el Organismo de cuenca dará audiencia en todo caso al concesionario, a los órganos competentes en materia de pesca fluvial de la Comunidad Autónoma correspondiente y a los municipios ribereños del embalse.
+3. Cuando existan caudales reservados o comprendidos en algún plan del Estado que no sean objeto de aprovechamiento inmediato, podrán otorgarse concesio nes a precario que no consolidarán derecho alguno ni darán lugar a indemnización si el organismo de cuenca reduce los caudales o revoca las autorizaciones.
+4. La Administración hidráulica determinará, con carácter general, los sistemas de control efectivo de los caudales de agua utilizados y de los vertidos al dominio público hidráulico que deban establecerse para garantizar el respeto a los derechos existentes, medir el volumen de agua realmente consumido o utilizado, permitir la correcta planificación y administración de los recursos y asegurar la calidad de las aguas. A tal efecto, los titulares de las concesiones administrativas de aguas y todos aquellos que por cualquier título tengan derecho a su uso privativo, estarán obligados a instalar y mantener los correspondientes sistemas de medición que garanticen información precisa sobre los caudales de agua en efecto consumidos o utilizados y, en su caso, retornados.
+Asimismo, establecerá la forma de cómputo de los caudales efectivamente aprovechados cuando se trate de caudales sobrantes de otros aprovechamientos.
+Las comunidades de usuarios podrán exigir también el establecimiento de análogos sistemas de medición a los comuneros o grupos de comuneros que se integran en ellas.
+La obligación de instalar y mantener sistemas de medición es exigible también a quienes realicen cualquier tipo de vertidos en el dominio público hidráulico. Los sistemas de medición serán instalados en el punto que determine el organismo de cuenca, previa audiencia a los usuarios. Las comunidades de usuarios podrán solicitar la instalación de un único sistema de medición de caudales para los aprovechamientos conjuntos de usuarios interrelacionados. En el ámbito de las cuencas hidrográficas que excedan el ámbito territorial de una Comunidad Autónoma, las medidas previstas en el presente apartado se adoptarán por el Ministerio de Medio Ambiente.
+5. Las empresas suministradoras de servicios energéticos a que hacen referencia la Ley 34/1998 del Sector de Hidrocarburos y la Ley 54/1997 del Sector Eléctrico, facilitarán la información que les sea solicitada por el Organismo de cuenca en el ejercicio de sus competencias, en relación con las potencias instaladas y los consumos de energía para extracción de aguas subterráneas.
+Se modifica el apartado 2 por el art. 10 del Real Decreto-ley 17/2021, de 14 de septiembre. Ref. BOE-A-2021-14974#a1-2
+ Se modifica el apartado 4 por la disposición final 1.6 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+ Se modifica el último párrafo del apartado 4 por el art. 129.23 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Se añade un apartado 5 por la disposición adicional 19 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo 56
+
+Artículo 56. Masas de agua subterránea en riesgo de no alcanzar el buen estado cuantitativo o químico.
+1. La Junta de Gobierno, sin necesidad de consulta al Consejo del Agua, podrá declarar que una masa de agua subterránea está en riesgo de no alcanzar un buen estado cuantitativo o químico, en este caso, se llevarán a cabo las siguientes medidas:
+a) En el plazo de seis meses, el Organismo de cuenca constituirá una comunidad de usuarios si no la hubiere, o encomendará sus funciones con carácter temporal a una entidad representativa de los intereses concurrentes.
+b) Previa consulta con la comunidad de usuarios, la Junta de Gobierno aprobará en el plazo máximo de un año, desde que haya tenido lugar la declaración, un programa de actuación para la recuperación del buen estado de la masa de agua, que se incluirá en el programa de medidas a que hace referencia el artículo 92 quáter. Hasta la aprobación del programa de actuación, se podrá adoptar las limitaciones de extracción así como las medidas de protección de la calidad del agua subterránea que sean necesarias como medida cautelar.
+2. El programa de actuación ordenará el régimen de extracciones para lograr una explotación racional de los recursos con el fin de alcanzar un buen estado de las masas de agua subterránea, y proteger y mejorar los ecosistemas asociados, para lo cual podrá, entre otras medidas:
+a) Establecer la sustitución de las captaciones individuales preexistentes por captaciones comunitarias, transformándose, en su caso, los títulos individuales con sus derechos inherentes, en uno colectivo que deberá ajustarse a lo dispuesto en el programa de actuación.
+b) Prever la aportación de recursos externos a la masa de agua subterránea, en ese caso incluirá los criterios para la explotación conjunta de los recursos existentes en la masa y de los externos.
+c) Incluir un perímetro en el cual no será posible el otorgamiento de nuevas concesiones de aguas subterráneas a menos que los titulares de las preexistentes estén constituidos en comunidades de usuarios, de acuerdo con lo dispuesto en el capítulo IV del Título IV y teniendo en cuenta lo previsto en la disposición adicional séptima.
+d) Determinar perímetros de protección de las masas de agua subterránea en los que será necesaria su autorización para realizar obras de infraestructura, extracción de áridos u otras actividades e instalaciones que puedan afectarla, sin perjuicio de aquellas otras autorizaciones que sean necesarias de acuerdo con la legislación sectorial de que se trate. Tal delimitación y condiciones vincularan en la elaboración de los instrumentos de planificación así como en el otorgamiento de las licencias, por las Administraciones públicas competentes en la ordenación del territorio y urbanismo.
+3. El programa de actuación contemplará las condiciones en las que temporalmente se puedan superar las limitaciones establecidas, permitiendo extracciones superiores a los recursos disponibles de una masa de agua subterránea cuando esté garantizado el cumplimiento de los objetivos medioambientales.
+4. Cuando como consecuencia de la aplicación del programa de actuación se mejore el estado de la masa de agua subterránea, el organismo de cuenca, de oficio o a instancia de parte, podrá reducir progresivamente las limitaciones del programa y aumentar, de forma proporcional y equitativa, el volumen que se puede utilizar, teniendo en cuenta, en todo caso, que no se ponga en riesgo la permanencia de los objetivos generales ambientales previstos en el artículo 92 y siguientes.
+Se modifica por el art. 1.4 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica por el art. 1.2 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+
+### Artículo 57
+
+Artículo 57. Aprovechamientos mineros.
+1. Los titulares de los aprovechamientos mineros previstos en la legislación de minas podrán utilizar las aguas que capten con motivo de las explotaciones, dedicándolas a finalidades exclusivamente mineras. A estos efectos, deberán solicitar la correspondiente concesión, tramitada conforme a lo previsto en esta Ley.
+2. Si existieran aguas sobrantes, el titular del aprovechamiento minero las pondrá a disposición del organismo de cuenca, que determinará el destino de las mismas o las condiciones en que deba realizarse el desagüe, atendiendo especialmente a su calidad.
+3. Cuando las aguas captadas en labores mineras afecten a otras concesiones, se estará a lo dispuesto al efecto en esta Ley.
+
+### Artículo 58
+
+Artículo 58. Situaciones excepcionales.
+En circunstancias de sequías extraordinarias, de sobreexplotación grave de acuíferos, o en similares estados de necesidad, urgencia o concurrencia de situaciones anómalas o excepcionales, el Gobierno, mediante Decreto acordado en Consejo de Ministros, oído el organismo de cuenca, podrá adoptar, para la superación de dichas situaciones, las medidas que sean precisas en relación con la utilización del dominio público hidráulico, aun cuando hubiese sido objeto de concesión.
+La aprobación de dichas medidas llevará implícita la declaración de utilidad pública de las obras, sondeos y estudios necesarios para desarrollarlos, a efectos de la ocupación temporal y expropiación forzosa de bienes y derechos, así como la de urgente necesidad de la ocupación.
+
+## CAPÍTULO III
+
+De las autorizaciones y concesiones
+
+## SECCIÓN 1
+
+Sección 1.ª La concesión de aguas en general
+
+### Artículo 59
+
+Artículo 59. Concesión administrativa.
+1. Todo uso privativo de las aguas no incluido en el artículo 54 requiere concesión administrativa.
+2. Las concesiones se otorgarán teniendo en cuenta la explotación racional conjunta de los recursos superficiales y subterráneos, sin que el título concesional garantice la disponibilidad de los caudales concedidos.
+3. Si para la realización de las obras de una nueva concesión, fuese necesario modificar la toma o captación de otra u otras preexistentes, el organismo de cuenca podrá imponer, o proponer en su caso, la modificación, siendo los gastos y perjuicios que se ocasionen a cargo del peticionario.
+4. Toda concesión se otorgará según las previsiones de los Planes Hidrológicos, con carácter temporal y plazo no superior a setenta y cinco años. Su otorgamiento será discrecional, pero toda resolución será motivada y adoptada en función del interés público. Las concesiones serán susceptibles de revisión con arreglo a lo establecido en el artículo 65 de esta Ley.
+5. No obstante lo dispuesto en el apartado 1, los órganos de la Administración Central o de las Comunidades Autónomas podrán acceder a la utilización de
+las aguas previa autorización especial extendida a su favor o del Patrimonio del Estado, sin perjuicio de terceros.
+6. Cuando para la normal utilización de una concesión fuese absolutamente necesaria la realización de determinadas obras, cuyo coste no pueda ser amortizado dentro del tiempo que falta por transcurrir hasta el final del plazo de la concesión, éste podrá prorrogarse por el tiempo preciso para que las obras puedan amortizarse, con un límite máximo de diez años y por una sola vez, siempre que dichas obras no se opongan al Plan Hidrológico correspondiente y se acrediten por el concesionario los perjuicios que se le irrogarían en caso contrario.
+7. Los caudales ecológicos o demandas ambientales no tendrán el carácter de uso a efectos de lo previsto en este artículo y siguientes, debiendo considerarse como una restricción que se impone con carácter general a los sistemas de explotación. En todo caso, se aplicará también a los caudales medioambientales la regla sobre supremacía del uso para abastecimiento de poblaciones recogida en el párrafo final del apartado 3 del artículo 60. Los caudales ecológicos se fijarán en los Planes Hidrológicos de cuenca. Para su establecimiento, los organismos de cuenca realizarán estudios específicos para cada tramo de río.
+8. El otorgamiento de una concesión no exime al concesionario de la obtención de cualquier otro tipo de autorización o licencia que conforme a otras leyes se exija a su actividad o instalaciones.
+
+### Artículo 60
+
+Artículo 60. Orden de preferencia de usos.
+1. En las concesiones se observará, a efectos de su otorgamiento, el orden de preferencia que se establezca en el Plan Hidrológico de la demarcación hidrográfica correspondiente, teniendo en cuenta las exigencias para la protección y conservación del recurso y su entorno.
+2. A falta de dicho orden de preferencia regirá con carácter general el siguiente:
+1.º Abastecimiento de población, incluyendo en su dotación la necesaria para industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal.
+2.º Regadíos y usos agrarios.
+3.º Almacenamiento hidráulico de energía.
+4.º Usos industriales para producción de energía eléctrica.
+5.º Otros usos industriales no incluidos en los apartados anteriores.
+6.º Acuicultura.
+7.º Usos recreativos.
+8.º Navegación y transporte acuático.
+9.º Otros aprovechamientos.
+El orden de prioridades que pudiere establecerse específicamente en los Planes Hidrológicos de la demarcación hidrográfica deberá respetar en todo caso la supremacía del uso consignado en el apartado 1.º de la precedente enumeración, y la prioridad del uso de almacenamiento hidráulico de energía frente al resto de usos industriales.
+3. Toda concesión está sujeta a expropiación forzosa, de conformidad con lo dispuesto en la legislación general sobre la materia, a favor de otro aprovechamiento que le preceda según el orden de preferencia establecido en el Plan Hidrológico de la demarcación hidrográfica.
+4. Dentro de cada clase, en caso de incompatibilidad de usos, serán preferidos aquellas que satisfagan de mejor manera el interés general, aquellos que hayan sido considerados de utilidad pública o de interés social, aquellos que permitan alcanzar en mayor medida los objetivos de la planificación hidrológica y los objetivos de la planificación en materia de transición energética y cambio climático, aquellos que introduzcan mejoras técnicas que redunden en un menor consumo de agua, o en el mantenimiento o mejora del estado de las masas de agua.
+Se modifica por el art. 61.2 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a6-3
+
+### Artículo 61
+
+Artículo 61. Condiciones generales de las concesiones.
+1. Toda concesión se entenderá hecha sin perjuicio de tercero.
+2. El agua que se conceda quedará adscrita a los usos indicados en el título concesional, sin que pueda ser aplicada a otros distintos, ni a terrenos diferentes si se tratase de riegos, con la excepción de lo previsto en el artículo 67.
+3. No obstante, la Administración concedente podrá imponer la sustitución de la totalidad o de parte de los caudales concesionales por otros de distinto origen, con el fin de racionalizar el aprovechamiento del recurso.
+La Administración responderá únicamente de los gastos inherentes a la obra de sustitución, pudiendo repercutir estos gastos sobre los beneficiarios.
+4. Cuando el destino de las aguas fuese el riego, el titular de la concesión deberá serlo también de las tierras a las que el agua vaya destinada, sin perjuicio de las concesiones otorgadas a las comunidades de usuarios y de lo que se establece en el artículo siguiente. La concesión para riego podrá prever la aplicación del agua a distintas superficies alternativa o sucesivamente o prever un perímetro máximo de superficie dentro del cual el concesionario podrá regar unas superficies u otras.
+5. El organismo de cuenca podrá otorgar concesiones colectivas para riego a una pluralidad de titulares de tierras que se integren mediante convenio en una agrupación de regantes, de acuerdo con lo dispuesto en el apartado 5 del artículo 81. En este supuesto, el otorgamiento del nuevo título concesional llevará implícita la caducidad de las concesiones para riego preexistentes de las que sean titulares los miembros de la agrupación de regantes en las superficies objeto del convenio.
+
+### Artículo 62
+
+Artículo 62. Concesiones para riego en régimen de servicio público.
+1. Podrán otorgarse concesiones de aguas para riego, en régimen de servicio público, a empresas o particulares, aunque no ostenten la titularidad de las tierras eventualmente beneficiarias del riego, siempre que el peticionario acredite previamente que cuenta con la conformidad de los titulares que reunieran la mitad de la superficie de dichas tierras.
+2. En este supuesto, la Administración concedente aprobará los valores máximos y mínimos de las tarifas de riego, que habrán de incorporar las cuotas de amortización de las obras.
+3. El titular de una concesión para riego en régimen de servicio público, no podrá beneficiarse de lo previsto en el artículo 55.3, correspondiendo a los titulares de la superficie regada el derecho a instar una nueva concesión, en los términos de dicho apartado.
+4. Las obras e instalaciones que no hayan revertido a la Administración competente pasarán, en su caso, a la titularidad del nuevo concesionario.
+
+### Artículo 63
+
+Artículo 63. Transmisión de aprovechamientos.
+La transmisión total o parcial de los aprovechamientos de agua que impliquen un servicio público o la constitución de gravámenes sobre los mismos requerirá autorización administrativa previa.
+En los demás casos sólo será necesario acreditar de modo fehaciente, en el plazo y forma que reglamentariamente se establezca, la transferencia o la constitución del gravamen.
+
+### Artículo 64
+
+Artículo 64. Modificación de las características de la concesión.
+Toda modificación de las características de una concesión requerirá previa autorización administrativa del mismo órgano otorgante.
+
+### Artículo 65
+
+Artículo 65. Revisión de las concesiones.
+1. Las concesiones podrán ser revisadas:
+a) Cuando de forma comprobada se hayan modificado los supuestos determinantes de su otorgamiento.
+b) En casos de fuerza mayor, a petición del concesionario.
+c) Cuando lo exija su adecuación a los Planes Hidrológicos.
+2. Asimismo, las concesiones para el abastecimiento de poblaciones y regadíos podrán revisarse en los supuestos en los que se acredite que el objeto de la concesión puede cumplirse con una menor dotación o una mejora de la técnica de utilización del recurso, que contribuya a un ahorro del mismo.
+A estos efectos, las Confederaciones Hidrográficas realizarán auditorías y controles de las concesiones, a fin de comprobar la eficiencia de la gestión y utilización de los recursos hídricos objeto de la concesión.
+3. Sólo en el caso señalado en el párrafo c) del apartado 1, el concesionario perjudicado tendrá derecho a indemnización, de conformidad con lo dispuesto en la legislación general de expropiación forzosa.
+4. La modificación de las condiciones concesionales en los supuestos del apartado 2 no otorgará al concesionario derecho a compensación económica alguna. Sin perjuicio de ello, reglamentariamente podrán establecerse ayudas a favor de los concesionarios para ajustar sus instalaciones a las nuevas condiciones concesionales.
+
+### Artículo 66
+
+Artículo 66. Caducidad de las concesiones.
+1. Las concesiones podrán declararse caducadas por incumplimiento de cualquiera de condiciones esenciales o plazos en ella previstos.
+2. Asimismo el derecho al uso privativo de las aguas, cualquiera que sea el título de su adquisición, podrá declararse caducado por la interrupción permanente de la explotación durante tres años consecutivos siempre que aquélla sea imputable al titular.
+
+## SECCIÓN 2
+
+Sección 2.ª Cesión de derechos al uso privativo de las aguas
+
+### Artículo 67
+
+Artículo 67. Del contrato de cesión de derechos.
+1. Los concesionarios o titulares de algún derecho al uso privativo de las aguas podrán ceder con carácter temporal a otro concesionario o titular de derecho de igual o mayor rango según el orden de preferencia establecido en el Plan Hidrológico de la cuenca correspondiente o, en su defecto, en el artículo 60 de la presente Ley, previa autorización administrativa, la totalidad o parte de los derechos de uso que les correspondan.
+Los concesionarios o titulares de derechos de usos privativos de carácter no consuntivo no podrán ceder sus derechos para usos que no tengan tal consideración.
+2. Cuando razones de interés general lo justifiquen, el Ministro de Medio Ambiente podrá autorizar expresamente, con carácter temporal y excepcional, cesiones de derechos de uso del agua que no respeten las normas sobre prelación de usos a que se refiere el apartado 1 de este artículo.
+3. Los adquirentes de los derechos dimanantes de la cesión se subrogarán en las obligaciones que correspondan al cedente ante el Organismo de cuenca respecto al uso del agua.
+4. El incumplimiento de los requisitos establecidos en esta sección será causa para acordar la caducidad del derecho concesional del cedente.
+Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 287, de 30 de noviembre de 2001. Ref. BOE-A-2001-22362.
+
+### Artículo 68
+
+Artículo 68. Formalización, autorización y registro del contrato de cesión.
+1. Los contratos de cesión deberán ser formalizados por escrito y puestos en conocimiento del Organismo de cuenca y de las comunidades de usuarios a las que pertenezcan el cedente y el cesionario mediante el traslado de la copia del contrato, en el plazo de quince días desde su firma. En el caso de cesiones entre usuarios de agua para riego, deberá constar en el contrato la identificación expresa de los predios que el cedente renuncia a regar o se compromete a regar con menos dotación durante la vigencia del contrato, así como la de los predios que regará el adquirente con el caudal cedido.
+2. Se entenderán autorizados, sin que hasta entonces produzcan efectos entre las partes, en el plazo de un mes a contar desde la notificación efectuada al Organismo de cuenca, si éste no formula oposición cuando se trate de cesiones entre miembros de la misma comunidad de usuarios, y en el plazo de dos meses en el resto de los casos. Cuando la cesión de derechos se refiera a una concesión para regadíos y usos agrarios, el Organismo de cuenca dará traslado de la copia del contrato a la correspondiente Comunidad Autónoma y al Ministerio de Agricultura, Pesca y Alimentación, para que emitan informe previo en el ámbito de sus respectivas competencias en el plazo de diez días.
+3. El Organismo de cuenca podrá no autorizar la cesión de derechos de uso del agua, mediante resolución motivada, dictada y notificada en el plazo señalado, si la misma afecta negativamente al régimen de explotación de los recursos en la cuenca, a los derechos de terceros, a los caudales medioambientales, al estado o conservación de los ecosistemas acuáticos o si incumple algunos de los requisitos señalados en la presente sección, sin que ello dé lugar a derecho a indemnización alguna por parte de los afectados. También podrá ejercer en ese plazo un derecho de adquisición preferente del aprovechamiento de los caudales a ceder, rescatando los caudales de todo uso privativo o alternativamente adquiriendo dichos derechos para destinarlos a otros usos privativos que se consideren más adecuados conforme a los criterios establecidos en la planificación hidrológica.
+4. Los Organismos de cuenca inscribirán los contratos de cesión de derechos de uso del agua en el Registro de Aguas al que se refiere el artículo 80, en la forma que se determine reglamentariamente. Posteriormente, podrán inscribirse, además, en el Registro de la Propiedad, en los folios abiertos a las concesiones administrativas afectadas.
+5. Las competencias de la Administración hidráulica a las que se refiere la presente sección serán ejecutadas en las cuencas intracomunitarias por la Administración hidráulica de la correspondiente Comunidad Autónoma.
+Se modifica el apartado 3 por el art. 61.3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a6-3
+
+### Artículo 69
+
+Artículo 69. Objeto del contrato de cesión.
+1. El volumen anual susceptible de cesión en ningún caso podrá superar al realmente utilizado por el cedente. Reglamentariamente se establecerán las normas para el cálculo de dicho volumen anual, tomando como referencia el valor medio del caudal realmente utilizado durante la serie de años que se determinen, corregido, en su caso, conforme a la dotación objetivo que fije el Plan Hidrológico de cuenca y el buen uso del agua, sin que en ningún caso pueda cederse un caudal superior al concedido.
+2. Los caudales que sean objeto de cesión se computarán como de uso efectivo de la concesión a los efectos de evitar la posible caducidad del título concesional del cedente.
+3. La cesión de derechos de uso del agua podrá conllevar una compensación económica que se fijará de mutuo acuerdo entre los contratantes y deberá explicitarse en el contrato. Reglamentariamente podrá establecerse el importe máximo de dicha compensación.
+
+### Artículo 70
+
+Artículo 70. Instalaciones e infraestructuras hidráulicas necesarias.
+1. Cuando la realización material de las cesiones acordadas requiera el empleo de instalaciones o infraestructuras hidráulicas de las que fuesen titulares terceros, su uso se establecerá por libre acuerdo entre las partes.
+2. En el caso de que las instalaciones o infraestructuras hidráulicas necesarias sean de titularidad del Organismo de cuenca, o bien tenga éste encomendada su explotación, los contratantes deberán solicitar, a la vez que dan traslado de la copia del contrato para su autorización, la determinación del régimen de utilización de dichas instalaciones o infraestructuras, así como la fijación de las exacciones económicas que correspondan de acuerdo con la legislación vigente.
+3. Si para la realización material de las cesiones acordadas fuese necesario construir nuevas instalaciones o infraestructuras hidráulicas, los contratantes deberán presentar, a la vez que solicitan la autorización, el documento técnico que defina adecuadamente dichas obras e instalaciones. Cuando las aguas cedidas se vayan a destinar al abastecimiento de poblaciones, se presentará también informe de la autoridad sanitaria sobre la idoneidad del agua para dicho uso.
+4. La autorización del contrato de cesión no implicará por sí misma la autorización para el uso o construcción de infraestructuras a que se refiere este artículo.
+La resolución del Organismo de cuenca sobre el uso o construcción de infraestructuras a que se refiere el párrafo anterior será independiente de la decisión que adopte sobre la autorización o no del contrato de cesión, y no se aplicarán a la misma los plazos a que se refiere el artículo 68 apartado 2.
+
+### Artículo 71
+
+Artículo 71. Centros de intercambio de derechos.
+1. En las situaciones reguladas en los artículos 55, 56 y 58 de la presente Ley, y en aquellas otras que reglamentariamente se determinen por concurrir causas análogas, se podrán constituir centros de intercambio de derechos de uso del agua mediante Acuerdo del Consejo de Ministros, a propuesta del Ministro de Medio Ambiente. En este caso, los Organismos de cuenca quedarán autorizados para realizar ofertas públicas de adquisición de derechos de uso del agua para posteriormente cederlos a otros usuarios mediante el precio que el propio Organismo oferte. La contabilidad y registro de las operaciones que se realicen al amparo de este precepto se llevarán separadamente respecto al resto de actos en que puedan intervenir los Organismos de cuenca.
+2. Las Comunidades Autónomas podrán instar a los Organismos de cuenca a realizar las adquisiciones a que se refiere el apartado anterior para atender fines concretos de interés autonómico en el ámbito de sus competencias.
+3. Las adquisiciones y enajenaciones del derecho al uso del agua que se realicen conforme a este artículo deberán respetar los principios de publicidad y libre concurrencia y se llevarán a cabo conforme al procedimiento y los criterios de selección que reglamentariamente se determinen.
+
+### Artículo 72
+
+Artículo 72. Infraestructuras de conexión intercuencas.
+1. La Dirección General del Agua podrá autorizar la cesión de derechos, a que se refiere esta sección, que implique el uso de infraestructuras que interconectan territorios de distintos Planes Hidrológicos de cuenca, esta autorización conlleva la de uso de las infraestructuras de interconexión. Se entenderán desestimadas las solicitudes de cesión una vez transcurridos los plazos previstos sin haberse notificado la resolución administrativa.
+2. Sin perjuicio de lo dispuesto en el artículo 69.3, el régimen económico-financiero aplicable a estas transacciones será el establecido en las normas singulares que regulen el régimen de explotación de las correspondientes infraestructuras.
+3. La autorización de las cesiones que regula el presente artículo no podrán alterar lo establecido en las reglas de explotación de cada uno de los trasvases.
+Se modifica por la disposición final 4 de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913.
+
+## SECCIÓN 3
+
+Sección 3.ª Alumbramiento y utilización de aguas subterráneas
+
+### Artículo 73
+
+Artículo 73. Preferencia para el otorgamiento de autorizaciones de investigación de aguas subterráneas.
+Los propietarios de los terrenos afectados por las peticiones de investigación de aguas subterráneas gozarán de preferencia para el otorgamiento de la autorización dentro del mismo orden de prelación a que se refiere el artículo 60.
+
+### Artículo 74
+
+Artículo 74. Autorizaciones para investigación de aguas subterráneas.
+1. El Organismo de cuenca podrá otorgar autorizaciones para investigación de aguas subterráneas, con el fin de determinar la existencia de caudales aprovechables, previo el trámite de competencia entre los proyectos de investigación concurrentes que pudieran presentarse.
+2. El plazo de la autorización no podrá exceder de dos años y su otorgamiento llevará implícita la declaración de utilidad pública a efectos de la ocupación temporal de los terrenos necesarios para la realización de las labores.
+3. Si la investigación fuera favorable, el interesado deberá, en un plazo de seis meses, formalizar la petición de concesión, que se tramitará sin competencia de proyectos.
+
+### Artículo 75
+
+Artículo 75. Determinación del lugar de emplazamiento de las instalaciones.
+Cuando el concesionario no sea propietario del terreno en que se realice la captación y el aprovechamiento hubiese sido declarado de utilidad pública, el Organismo de cuenca determinará el lugar de emplazamiento de las instalaciones, con el fin de que sean mínimos los posibles perjuicios, cuya indemnización se fijará con arreglo a la legislación de expropiación forzosa.
+
+### Artículo 76
+
+Artículo 76. Afección a captaciones anteriores.
+A falta de Plan Hidrológico de cuenca, o de definición suficiente en el mismo, la Administración concedente considerará para el otorgamiento de concesiones de aguas subterráneas su posible afección a captaciones anteriores legalizadas, debiendo, en todo caso, el titular de la nueva concesión indemnizar los perjuicios que pudieran causarse a los aprovechamientos preexistentes, como consecuencia del acondicionamiento de las obras e instalaciones que sea necesario efectuar para asegurar la disponibilidad de los caudales anteriormente explotados.
+
+## SECCIÓN 4
+
+Sección 4.ª Otras autorizaciones y concesiones
+
+### Artículo 77
+
+Artículo 77. Aprovechamiento de los cauces o bienes situados en ellos.
+1. La utilización o aprovechamiento por los particulares de los cauces o de los bienes situados en ellos requerirá la previa concesión o autorización administrativa.
+2. En el otorgamiento de concesiones o autorizaciones para aprovechamientos de áridos, pastos y vegetación arbórea o arbustiva, establecimiento de puentes o pasarelas, embarcaderos e instalaciones para baños públicos, se considerará la posible incidencia ecológica desfavorable, debiendo exigirse las adecuadas garantías para la restitución del medio.
+3. La incoación de los expedientes sobre aprovechamientos de áridos se notificará a los órganos responsables del dominio público marítimo terrestre de la misma cuenca para que éstos puedan optar por su uso en la regeneración del litoral que siempre será preferente sobre cualquier otro posible uso privativo.
+
+### Artículo 77 bis
+
+Artículo 77 bis. Instalación de plantas fotovoltaicas flotantes en el dominio público hidráulico.
+1. Las instalaciones de generación eléctrica solar fotovoltaica flotante en el dominio público hidráulico serán objeto de concesión, quedando sometidas a lo dispuesto en esta ley y su normativa de desarrollo. El otorgamiento de la concesión se regirá por los principios de objetividad, transparencia, concurrencia y no discriminación.
+La concesión tendrá carácter temporal y plazo máximo de duración, incluidas las prórrogas, no superior a 25 años.
+2. A los efectos de este artículo, se entiende por:
+a) Plantas fotovoltaicas flotantes: todo proyecto de producción de energía eléctrica que se materialice en la instalación integrada de un sistema fotovoltaico flotante instalado en una plataforma flotante y ubicada físicamente en el dominio público hidráulico.
+b) Superficie útil total del embalse: superficie media mensual del embalse de los 10 últimos años a utilizar para el dimensionamiento de la superficie de las potenciales instalaciones.
+3. Las plantas fotovoltaicas flotantes en el dominio público hidráulico estarán sometidas:
+a) En el ámbito eléctrico, al régimen de autorizaciones previsto en el título IX de la Ley 24/2013, de 26 de diciembre, del Sector eléctrico y su normativa de desarrollo.
+Con respecto a las competencias en materia de las autorizaciones administrativas en el ámbito del sector eléctrico se estará a lo dispuesto en la Ley 24/2013, de 26 de diciembre, en particular a lo recogido en el artículo 3.13 de la misma.
+b) En el ámbito del dominio público hidráulico, a lo establecido en esta ley y su normativa de desarrollo.
+4. La evaluación de impacto ambiental para la realización de estas actividades se regirá por lo establecido en el Ley 21/2013, de 9 de diciembre, de evaluación ambiental y su normativa de desarrollo.
+Se añade por la disposición final 6.1 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-6
+
+### Artículo 78
+
+Artículo 78. Navegación recreativa en embalses.
+La navegación recreativa en embalses requerirá una declaración responsable previa a su ejercicio, conforme a lo dispuesto en el artículo 51 de esta Ley. En la declaración responsable deberán especificarse las condiciones en que se va a realizar la navegación para que la Administración pueda verificar su compatibilidad con los usos previstos para las aguas almacenadas, protegiendo su calidad y limitando el acceso a las zonas de derivación o desagüe según reglamentariamente se especifique.
+Se modifica por el art. 33.2 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+
+## SECCIÓN 5
+
+Sección 5.ª Procedimiento
+
+### Artículo 79
+
+Artículo 79. Procedimiento para otorgar concesiones y autorizaciones.
+1. La duración de las concesiones y autorizaciones, los supuestos y requisitos para su declaración de utilidad pública, así como el procedimiento para su tramitación serán establecidos reglamentariamente.
+2. El procedimiento ordinario de otorgamiento de concesiones se ajustará a los principios de publicidad y tramitación en competencia, prefiriéndose, en igualdad de condiciones, aquellos que proyecten la más racional utilización del agua y una mejor protección de su entorno. El principio de competencia podrá eliminarse cuando se trate de abastecimiento de agua a poblaciones.
+3. Para las concesiones de escasa importancia por su cuantía, incluidas las destinadas a aprovechamientos hidroeléctricos de pequeña potencia, se establecerán reglamentariamente procedimientos simplificados acordes con sus características.
+4. En el caso de concesiones y autorizaciones en materia de regadíos u otros usos agrarios, será preceptivo un informe de la correspondiente Comunidad Autónoma y del Ministerio de Agricultura, Pesca y Alimentación en relación con las materias propias de su competencia, y en especial, respecto a su posible afección a los planes de actuación existentes.
+
+## SECCIÓN 6
+
+Sección 6.ª Registro de Aguas
+
+### Artículo 80
+
+Artículo 80. Características del Registro de Aguas.
+1. Los Organismos de cuenca llevarán un Registro de Aguas en el que se inscribirán de oficio las concesiones de agua, así como los cambios autorizados que se produzcan en su titularidad o en sus características. La organización y normas de funcionamiento del Registro de Aguas se fijarán por vía reglamentaria.
+2. El Registro de Aguas tendrá carácter público, pudiendo interesarse del Organismo de cuenca las oportunas certificaciones sobre su contenido.
+3. Los titulares de concesiones de aguas inscritas en el Registro correspondiente podrán interesar la intervención del Organismo de cuenca competente en defensa de sus derechos, de acuerdo con el contenido de la concesión y de lo establecido en la legislación en materia de aguas.
+4. La inscripción registral será medio de prueba de la existencia y situación de la concesión.
+
+## CAPÍTULO IV
+
+De las comunidades de usuarios
+
+### Artículo 81
+
+Artículo 81. Obligación de constituir comunidades de usuarios.
+1. Los usuarios del agua y otros bienes del dominio público hidráulico de una misma toma o concesión deberán constituirse en comunidades de usuarios. Cuando el destino dado a las aguas fuese principalmente el riego, se denominarán comunidades de regantes ; en otro caso, las comunidades recibirán el calificativo que caracterice el destino del aprovechamiento colectivo.
+Los estatutos u ordenanzas se redactarán y aprobarán por los propios usuarios, y deberán ser sometidos, para su aprobación administrativa, al Organismo de cuenca.
+Los estatutos u ordenanzas regularán la organización de las comunidades de usuarios, así como la explotación en régimen de autonomía interna de los bienes hidráulicos inherentes al aprovechamiento.
+El Organismo de cuenca no podrá denegar la aprobación de los estatutos y ordenanzas, ni introducir variantes en ellos, sin previo dictamen del Consejo de Estado.
+2. Las comunidades de usuarios de aguas superficiales o subterráneas, cuya utilización afecte a intereses que les sean comunes, podrán formar una comunidad general para la defensa de sus derechos y conservación y fomento de dichos intereses.
+3. Del mismo modo, los usuarios individuales y las comunidades de usuarios, podrán formar por convenio una junta central de usuarios con la finalidad de proteger sus derechos e intereses frente a terceros y ordenar y vigilar el uso coordinado de sus propios aprovechamientos.
+4. El Organismo de cuenca podrá imponer, cuando el interés general lo exija, la constitución de los distintos tipos de comunidades y juntas centrales de usuarios.
+5. Cuando la modalidad o las circunstancias y características del aprovechamiento lo aconsejen, o cuando el número de partícipes sea reducido, el régimen de comunidad podrá ser sustituido por el que se establezca en convenios específicos, que deberán ser aprobados por el Organismo de cuenca.
+
+### Artículo 82
+
+Artículo 82. Naturaleza y régimen jurídico de las comunidades de usuarios.
+1. Las comunidades de usuarios tienen el carácter de corporaciones de derecho público, adscritas al Organismo de cuenca, que velará por el cumplimiento de sus estatutos u ordenanzas y por el buen orden del aprovechamiento. Actuarán conforme a los procedimientos establecidos en la presente Ley, en sus reglamentos y en sus estatutos y ordenanzas, de acuerdo con lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Los estatutos y ordenanzas de las comunidades de usuarios incluirán la finalidad y el ámbito territorial de la utilización de los bienes del dominio público hidráulico, regularán la participación y representación obligatoria, en relación con sus respectivos intereses, de los titulares actuales y sucesivos de bienes y servicios y de los participantes en el uso del agua ; y obligarán a que todos los titulares contribuyan a satisfacer en equitativa proporción los gastos comunes de explotación, conservación, reparación y mejora, así como los cánones y tarifas que correspondan. Los estatutos y ordenanzas de las comunidades, en cuanto acordados por su junta general, establecerán las previsiones correspondientes a las infracciones y sanciones que puedan ser impuestas por el jurado de acuerdo con la costumbre y el procedimiento propios de los mismos, garantizando los derechos de audiencia y defensa de los afectados.
+3. Las comunidades generales y las juntas centrales de usuarios se compondrán de representantes de los usuarios interesados. Sus ordenanzas y reglamentos deberán ser aprobados por el Organismo de cuenca.
+4. Las comunidades de usuarios que carezcan de ordenanzas vendrán obligadas a presentarlas para su aprobación en el plazo que reglamentariamente se establezca. En caso de incumplimiento, el Organismo de cuenca podrá establecer las que considere procedentes previo dictamen del Consejo de Estado.
+
+### Artículo 83
+
+Artículo 83. Facultades de las comunidades de usuarios.
+1. Las comunidades de usuarios podrán ejecutar por sí mismas y con cargo al usuario, los acuerdos incumplidos que impongan una obligación de hacer. El coste de la ejecución subsidiaria será exigible por la vía administrativa de apremio. Quedarán exceptuadas del régimen anterior aquellas obligaciones que revistan un carácter personalísimo.
+2. Las comunidades de usuarios serán beneficiarias de la expropiación forzosa y de la imposición de las servidumbres que exijan sus aprovechamientos y el cumplimiento de sus fines.
+3. Las comunidades de usuarios vendrán obligadas a realizar las obras e instalaciones que la Administración les ordene, a fin de evitar el mal uso del agua o el deterioro del dominio público hidráulico, pudiendo el Organismo de cuenca competente suspender la utilización del agua hasta que aquéllas se realicen.
+4. Las deudas a la comunidad de usuarios por gasto de conservación, limpieza o mejoras, así como cualquier otra motivada por la administración y distribución de las aguas, gravarán la finca o industria en cuyo favor se realizaron, pudiendo la comunidad de usuarios exigir su importe por la vía administrativa de apremio, y prohibir el uso del agua mientras no se satisfagan, aun cuando la finca o industria hubiese cambiado de dueño. El mismo criterio se seguirá cuando la deuda provenga de multas e indemnizaciones impuestas por los tribunales o jurados de riego.
+
+### Artículo 84
+
+Artículo 84. Órganos de las comunidades de usuarios.
+1. Toda comunidad de usuarios tendrá una junta general o asamblea, una junta de gobierno y uno o varios jurados.
+2. La Junta general, constituida por todos los usuarios de la comunidad, es el órgano soberano de la misma, correspondiéndole todas las facultades no atribuidas específicamente a algún otro órgano.
+3. La junta de gobierno, elegida por la junta general, es la encargada de la ejecución de las ordenanzas y de los acuerdos propios y de los adoptados por la junta general.
+4. Serán atribuciones de la junta de gobierno:
+a) Vigilar y gestionar los intereses de la Comunidad, promover su desarrollo y defender sus derechos.
+b) Dictar las disposiciones convenientes para la mejor distribución de las aguas, respetando los derechos adquiridos y las costumbres locales.
+c) Someter a la aprobación de la junta la modificación de las ordenanzas o cualquier otra propuesta que estime oportuno.
+d) Ejecutar en el ámbito de sus competencias las funciones que le sean atribuidas por las leyes o que puedan asumir en virtud de los convenios que suscriban con el Organismo de cuenca.
+5. Los acuerdos de la junta general y de la junta de gobierno, en el ámbito de sus competencias, serán ejecutivos, en la forma y con los requisitos establecidos en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de su posible impugnación en alzada ante el Organismo de la cuenca.
+6. Al jurado corresponde conocer las cuestiones de hecho que se susciten entre los usuarios de la comunidad en el ámbito de las ordenanzas e imponer a los infractores las sanciones reglamentarias, así como fijar las indemnizaciones que puedan derivarse de la infracción.
+Los procedimientos serán públicos y verbales en la forma que determine la costumbre y el reglamento. Sus fallos serán ejecutivos.
+
+### Artículo 85
+
+Artículo 85. Pervivencia de organizaciones tradicionales.
+Los aprovechamientos colectivos, que hasta ahora hayan tenido un régimen consignado en ordenanzas debidamente aprobadas, continuarán sujetos a las mismas mientras los usuarios no decidan su modificación de acuerdo con ellas.
+Del mismo modo, allí donde existan jurados o tribunales de riego, cualquiera que sea su denominación peculiar, continuarán con su organización tradicional.
+
+### Artículo 86
+
+Artículo 86. Titularidad de las obras que integran el aprovechamiento.
+La titularidad de las obras que son parte integrante del aprovechamiento de la comunidad de usuarios quedará definida en el propio título que faculte para su construcción y utilización.
+
+### Artículo 87
+
+Artículo 87. Comunidades de usuarios de unidades hidrogeológicas y de acuíferos.
+1. Los usuarios de una misma unidad hidrogeológica o de un mismo acuífero estarán obligados, a requerimiento del Organismo de cuenca, a constituir una comunidad de usuarios, correspondiendo a dicho Organismo, a instancia de parte o de oficio, determinar sus límites y establecer el sistema de utilización conjunta de las aguas.
+2. En los acuíferos declarados sobreexplotados o en riesgo de estarlo en aplicación del apartado 1 del artículo 56 de esta Ley, será obligatoria la constitución de una comunidad de usuarios. Si transcurridos seis meses desde la fecha de la declaración de sobreexplotación no se hubiese constituido la comunidad de usuarios, el Organismo de cuenca la constituirá de oficio, o encomendará sus funciones con carácter temporal a un órgano representativo de los intereses concurrentes.
+3. Los Organismos de cuenca podrán celebrar convenios con las comunidades de usuarios de aguas subterráneas, al objeto de establecer la colaboración de éstas en las funciones de control efectivo del régimen de explotación y respeto a los derechos sobre las aguas. En estos convenios podrá preverse, entre otras cosas, la sustitución de las captaciones de aguas subterráneas preexistentes por captaciones comunitarias, así como el apoyo económico y técnico del Organismo de cuenca a la comunidad de usuarios para el cumplimiento de los términos del convenio.
+
+### Artículo 88
+
+Artículo 88. Comunidades de aprovechamiento conjunto de aguas superficiales y subterráneas.
+El Organismo de cuenca podrá obligar a la constitución de comunidades que tengan por objeto el aprovechamiento conjunto de aguas superficiales y subterráneas, cuando así lo aconseje la mejor utilización de los recursos de una misma zona.
+
+### Artículo 89
+
+Artículo 89. Requisitos para el abastecimiento a varias poblaciones.
+1. El otorgamiento de las concesiones para abastecimiento a varias poblaciones estará condicionado a que las Corporaciones Locales estén constituidas a estos efectos en Mancomunidades, Consorcios u otras entidades semejantes, de acuerdo con la legislación por la que se rijan, o a que todas ellas reciban el agua a través de una misma empresa concesionaria.
+2. Con independencia de su especial estatuto jurídico, el consorcio o Comunidad de que se trate elaborará las ordenanzas previstas en el artículo 81.
+
+### Artículo 90
+
+Artículo 90. Comunidades de usuarios de vertidos.
+Las entidades públicas, corporaciones o particulares que tengan necesidad de verter agua o productos residuales, podrán constituirse en comunidad para llevar a cabo el estudio, construcción, explotaciones y mejora de colectores, estaciones depuradoras y elementos comunes que les permitan efectuar el vertido en el lugar más idóneo y en las mejores condiciones técnicas y económicas, considerando la necesaria protección del entorno natural. El Organismo de cuenca podrá imponer justificadamente la constitución de esta clase de comunidades de usuarios.
+
+### Artículo 91
+
+Artículo 91. Otras comunidades de usuarios. Normas de aplicación.
+Las disposiciones contenidas en los artículos anteriores podrán ser aplicadas a otros tipos de comunidades no mencionadas expresamente, y, entre ellas, a las de avenamiento o a las que se constituyan para la construcción, conservación y mejora de obras de defensa contra las aguas.
+
+## TÍTULO V
+
+De la protección del dominio público hidráulico y de la calidad de las aguas.
+Se modifica por el art. 129.24 de la Ley 62/2003, de 30 de dicienbre. Ref. BOE-A-2003-23936.
+
+## CAPÍTULO I
+
+Normas generales
+
+### Artículo 92
+
+Artículo 92. Objetivos de la protección.
+Son objetivos de la protección de las aguas y del dominio público hidráulico:
+a) Prevenir el deterioro, proteger y mejorar el estado de los ecosistemas acuáticos, así como de los ecosistemas terrestres y humedales que dependan de modo directo de los acuáticos en relación con sus necesidades de agua.
+b) Promover el uso sostenible del agua protegiendo los recursos hídricos disponibles y garantizando un suministro suficiente en buen estado.
+c) Proteger y mejorar el medio acuático estableciendo medidas específicas para reducir progresivamente los vertidos, las emisiones y las pérdidas de sustancias prioritarias, así como para eliminar o suprimir de forma gradual los vertidos, las emisiones y las pérdidas de sustancias peligrosas prioritarias.
+d) Garantizar la reducción progresiva de la contaminación de las aguas subterráneas y evitar su contaminación adicional.
+e) Paliar los efectos de las inundaciones y sequías.
+f) Alcanzar, mediante la aplicación de la legislación correspondiente, los objetivos fijados en los tratados internacionales en orden a prevenir y eliminar la contaminación del medio ambiente marino.
+g) Evitar cualquier acumulación de compuestos tóxicos o peligrosos en el subsuelo o cualquier otra acumulación que pueda ser causa de degradación del dominio público hidráulico.
+h) Garantizar la asignación de las aguas de mejor calidad de las existentes en un área o región al abastecimiento de poblaciones.
+Se añade un apartado h) por la disposición final 1.7 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+ Se modifica por el art. 129.25 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 92 bis
+
+Artículo 92 bis. Objetivos medioambientales.
+1. Para conseguir una adecuada protección de las aguas, se deberán alcanzar los siguientes objetivos medioambientales:
+a) para las aguas superficiales:
+a') Prevenir el deterioro del estado de las masas de agua superficiales.
+b') Proteger, mejorar y regenerar todas las masas de agua superficial con el objeto de alcanzar un buen estado de las mismas.
+c') Reducir progresivamente la contaminación procedente de sustancias prioritarias y eliminar o suprimir gradualmente los vertidos, las emisiones y las pérdidas de sustancias peligrosas prioritarias.
+b) Para las aguas subterráneas:
+a') Evitar o limitar la entrada de contaminantes en las aguas subterráneas y evitar el deterioro del estado de todas las masas de agua subterránea.
+b') Proteger, mejorar y regenerar las masas de agua subterránea y garantizar el equilibrio entre la extracción y la recarga a fin de conseguir el buen estado de las aguas subterráneas.
+c') Invertir las tendencias significativas y sostenidas en el aumento de la concentración de cualquier contaminante derivada de la actividad humana con el fin de reducir progresivamente la contaminación de las aguas subterráneas.
+c) Para las zonas protegidas:
+Cumplir las exigencias de las normas de protección que resulten aplicables en una zona y alcanzar los objetivos ambientales particulares que en ellas se determinen.
+d) Para las masas de agua artificiales y masas de agua muy modificadas:
+Proteger y mejorar las masas de agua artificiales y muy modificadas para lograr un buen potencial ecológico y un buen estado químico de las aguas superficiales.
+2. Los programas de medidas especificados en los planes hidrológicos deberán concretar las actuaciones y las previsiones necesarias para alcanzar los objetivos medioambientales indicados.
+3. Cuando existan masas de agua muy afectadas por la actividad humana o sus condiciones naturales hagan inviable la consecución de los objetivos señalados o exijan un coste desproporcionado, se señalarán objetivos ambientales menos rigurosos en las condiciones que se establezcan en cada caso mediante los planes hidrológicos.
+Se añade por el art. 129.26 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 92 ter
+
+Artículo 92 ter. Estados de las masas de agua.
+1. En relación con los objetivos de protección se distinguirán diferentes estados o potenciales en las masas de agua, debiendo diferenciarse al menos entre las aguas superficiales, las aguas subterráneas y las masas de agua artificiales y muy modificadas. Reglamentariamente se determinarán las condiciones técnicas definitorias de cada uno de los estados y potenciales, así como los criterios para su clasificación.
+2. En cada demarcación hidrográfica se establecerán programas de seguimiento del estado de las aguas que permitan obtener una visión general coherente y completa de dicho estado. Estos programas se incorporarán a los programas de medidas que deben desarrollarse en cada demarcación.
+Se añade por el art. 129.27 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 92 quáter
+
+Artículo 92 quáter. Programas de medidas.
+1. Para cada demarcación hidrográfica se establecerá un programa de medidas en el que se tendrán en cuenta los resultados de los estudios realizados para determinar las características de la demarcación, las repercusiones de la actividad humana en sus aguas, así como el estudio económico del uso del agua en la misma.
+2. Los programas de medidas tendrán como finalidad la consecución de los objetivos medioambientales señalados en el artículo 92 bis de esta ley.
+3. Las medidas podrán ser básicas y complementarias:
+a) Las medidas básicas son los requisitos mínimos que deben cumplirse en cada demarcación y se establecerán reglamentariamente.
+b) Las medidas complementarias son aquellas que en cada caso deban aplicarse con carácter adicional para la consecución de los objetivos medioambientales o para alcanzar una protección adicional de las aguas.
+4. El programa de medidas se integrará por las medidas básicas y las complementarias que, en el ámbito de sus competencias, aprueben las Administraciones competentes en la protección de las aguas.
+Se añade por el art. 129.28 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 93
+
+Artículo 93. Concepto de contaminación.
+Se entiende por contaminación, a los efectos de esta ley, la acción y el efecto de introducir materias o formas de energía, o inducir condiciones en el agua que, de modo directo o indirecto, impliquen una alteración perjudicial de su calidad en relación con los usos posteriores, con la salud humana, o con los ecosistemas acuáticos o terrestres directamente asociados a los acuáticos ; causen daños a los bienes ; y deterioren o dificulten el disfrute y los usos del medio ambiente.
+El concepto de degradación del dominio público hidráulico, a efectos de esta ley, incluye las alteraciones perjudiciales del entorno afecto a dicho dominio.
+Se modifica por el art. 129.29 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 94
+
+Artículo 94. Policía de aguas.
+1. La policía de las aguas y demás elementos del dominio público hidráulico, zonas de servidumbre y perímetros de protección, se ejercerá por la Administración hidráulica competente.
+2. En las cuencas que excedan del ámbito territorial de una Comunidad Autónoma, las comisarías de aguas de los Organismos de cuenca ejercerán las siguientes funciones:
+a) La inspección y control del dominio público hidráulico.
+b) La inspección y vigilancia del cumplimiento de las condiciones de concesiones y autorizaciones relativas al dominio público hidráulico.
+c) La realización de aforos, información sobre crecidas y control de la calidad de las aguas.
+d) La inspección y vigilancia de las obras derivadas de las concesiones y autorizaciones de dominio público hidráulico.
+e) La inspección y vigilancia de las explotaciones de todos los aprovechamientos de aguas públicas, cualquiera que sea su titularidad y el régimen jurídico al que están acogidos.
+f) La dirección de los servicios de guardería fluvial.
+g) En general, la aplicación de la normativa de policía de aguas y cauces.
+3. En el ejercicio de su función, los Agentes Medioambientales destinados en las comisarías de aguas de los Organismos de cuenca tienen el carácter de autoridad pública y están facultados para:
+a) Entrar libremente en cualquier momento y sin previo aviso en los lugares sujetos a inspección y a permanecer en los mismos, con respeto en todo caso a la inviolabilidad del domicilio. Al efectuar una visita de inspección, deberán comunicar su presencia a la persona inspeccionada o su representante, a menos que consideren que dicha comunicación pueda perjudicar el éxito de sus funciones.
+b) Proceder a practicar cualquier diligencia de investigación, examen o prueba que consideren necesaria para comprobar que las disposiciones legales se observan correctamente.
+c) Tomar o sacar muestras de sustancias y materiales utilizados o en el establecimiento, realizar mediciones, obtener fotografías, vídeos, grabación de imágenes, y levantar croquis y planos, siempre que se notifique al empresario o a su representante.
+4. Los hechos constatados por los funcionarios de la Escala de Agentes Medioambientales que se formalicen en las correspondientes actas tendrán presunción de certeza, sin perjuicio de las pruebas que en defensa de los respectivos derechos e intereses puedan aportar los interesados.
+5. Los Guardas Fluviales realizarán labores de apoyo y asistencia a los Agentes Medioambientales en el ejercicio de sus funciones de policía de aguas.
+Se modifica por la disposición final 1.8 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
+
+### Artículo 95
+
+Artículo 95. Apeo y deslinde de los cauces de dominio público.
+1. El apeo y deslinde de los cauces de dominio público corresponde a la Administración del Estado, que los efectuará por los Organismos de cuenca, según el procedimiento que reglamentariamente se determine.
+2. El deslinde aprobado declara la posesión y la titularidad dominical a favor del Estado, dando lugar al amojonamiento.
+3. La resolución de aprobación del deslinde será título suficiente para rectificar las inscripciones del Registro de la Propiedad contradictorias con el mismo, en la forma y condiciones que se determinen reglamentariamente, siempre que haya intervenido en el expediente el titular registral, conforme a la legislación hipotecaria. Dicha resolución será título suficiente, asimismo, para que la Administración proceda a la inmatriculación de los bienes de dominio público cuando lo estime conveniente. En todo caso los titulares de los derechos inscritos afectados podrán ejercitar las acciones que estimen pertinentes en defensa de sus derechos, siendo susceptible de anotación preventiva la correspondiente reclamación judicial.
+
+### Artículo 96
+
+Artículo 96. Zona de servidumbre y policía en embalses superficiales, lagos y lagunas.
+1. Alrededor de los embalses superficiales, el Organismo de cuenca podrá prever en sus proyectos las zonas de servicio, necesarias para su explotación.
+2. En todo caso, las márgenes de lagos, lagunas y embalses quedarán sujetas a las zonas de servidumbre y policía fijadas para las corrientes de agua.
+
+### Artículo 97
+
+Artículo 97. Actuaciones contaminantes prohibidas.
+Queda prohibida, con carácter general, y sin perjuicio de lo dispuesto en el artículo 100, toda actividad susceptible de provocar la contaminación o degradación del dominio público hidráulico, y, en particular:
+a) Acumular residuos sólidos, escombros o sustancias, cualquiera que sea su naturaleza y el lugar en que se depositen, que constituyan o puedan constituir un peligro de contaminación de las aguas o de degradación de su entorno.
+b) Efectuar acciones sobre el medio físico o biológico afecto al agua, que constituyan o puedan constituir una degradación del mismo.
+c) El ejercicio de actividades dentro de los perímetros de protección, fijados en los Planes Hidrológicos, cuando pudieran constituir un peligro de contaminación o degradación del dominio público hidráulico.
+
+### Artículo 98
+
+Artículo 98. Limitaciones medioambientales a las autorizaciones y concesiones.
+Los Organismos de cuenca, en las concesiones y autorizaciones que otorguen, adoptarán las medidas necesarias para hacer compatible el aprovechamiento con el respeto del medio ambiente y garantizar los caudales ecológicos o demandas ambientales previstas en la planificación hidrológica.
+En la tramitación de concesiones y autorizaciones que afecten al dominio público hidráulico que pudieran implicar riesgos para el medio ambiente, será preceptiva la presentación de un informe sobre los posibles efectos nocivos para el medio, del que se dará traslado al órgano ambiental competente para que se pronuncie sobre las medidas correctoras que, a su juicio, deban introducirse como consecuencia del informe presentado. Sin perjuicio de los supuestos en que resulte obligatorio, conforme a lo previsto en la normativa vigente, en los casos en que el Organismo de cuenca presuma la existencia de un riesgo grave para el medio ambiente, someterá igualmente a la consideración del órgano ambiental competente la conveniencia de iniciar el procedimiento de evaluación de impacto ambiental.
+
+### Artículo 99
+
+Artículo 99. Protección de las aguas subterráneas frente a intrusiones de aguas salinas.
+La protección de las aguas subterráneas frente a intrusiones de aguas salinas, de origen continental o marítimo, se realizará, entre otras acciones, mediante la limitación de la explotación de los acuíferos afectados y, en su caso, la redistribución espacial de las captaciones existentes. Los criterios básicos para ello serán incluidos en los Planes Hidrológicos de cuenca, correspondiendo al Organismo de cuenca la adopción de las medidas oportunas.
+Se modifica su denominación por el art. 129.30 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 99 bis
+
+Artículo 99 bis. Registro de Zonas Protegidas
+1. Para cada demarcación hidrográfica existirá al menos un registro de las zonas que hayan sido declaradas objeto de protección especial en virtud de norma específica sobre protección de aguas superficiales o subterráneas, o sobre conservación de hábitats y especies directamente dependientes del agua.
+2. En el registro se incluirán necesariamente:
+a) Las zonas en las que se realiza una captación de agua destinada a consumo humano, siempre que proporcione un volumen medio de al menos 10 metros cúbicos diarios o abastezca a más de cincuenta personas, así como, en su caso, los perímetros de protección delimitados.
+b) Las zonas que, de acuerdo con el respectivo plan hidrológico, se vayan a destinar en un futuro a la captación de aguas para consumo humano.
+c) Las zonas que hayan sido declaradas de protección de especies acuáticas significativas desde el punto de vista económico.
+d) Las masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño.
+e) Las zonas que hayan sido declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias.
+f) Las zonas que hayan sido declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas.
+g) Las zonas declaradas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección.
+h) Los perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica.
+3. Las Administraciones competentes por razón de la materia facilitarán, al organismo de cuenca correspondiente, la información precisa para mantener actualizado el Registro de Zonas Protegidas de cada demarcación hidrográfica bajo la supervisión del Comité de Autoridades Competentes de la demarcación.
+El registro deberá revisarse y actualizarse, junto con la actualización del plan hidrológico correspondiente, en la forma que reglamentariamente se determine.
+4. Un resumen del registro formará parte del plan hidrológico de cuenca.
+5. Los instrumentos de ordenación urbanística contendrán las previsiones adecuadas para garantizar la no afección de los recursos hídricos de las zonas incluidas en las letras a), b) y d) del apartado 2 y los perímetros de protección que al efecto se establezcan por la Administración Hidráulica.
+Se añade un apartado 5 por la disposición final 1.9 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
+ Se añade por el art. 129.31 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+## CAPÍTULO II
+
+De los vertidos
+Se añade una división en dos secciones por el art. 129.32 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## SECCIÓN 1ª
+
+Sección 1.ª Vertidos al dominio público hidráulico
+Se añade por el art. 129.32 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 100
+
+Artículo 100. Concepto.
+1. A los efectos de la presente Ley, se considerarán vertidos los que se realicen directa o indirectamente en las aguas continentales, así como en el resto del dominio público hidráulico, cualquiera que sea el procedimiento o técnica utilizada. Queda prohibido, con carácter general, el vertido directo o indirecto de aguas y de productos residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización administrativa.
+2. La autorización de vertido tendrá como objeto la consecución de los objetivos medioambientales establecidos en los planes hidrológicos. Dichas autorizaciones se otorgarán teniendo en cuenta las mejores técnicas disponibles y de acuerdo con las normas de calidad ambiental y los límites de emisión fijados reglamentariamente. Se establecerán condiciones de vertido más rigurosas cuando el cumplimiento de los objetivos medioambientales así lo requiera.
+La autorización de vertido podrá también contemplar la calidad del agua requerida para otros usos situados aguas abajo del punto de vertido, exigiendo objetivos más rigurosos cuando, de acuerdo con lo dispuesto en el artículo 109 quinquies.1, el plan hidrológico de la demarcación determine que es necesario incentivar la reutilización de las aguas.
+4. Cuando se otorgue una autorización o se modifiquen sus condiciones, podrán establecerse plazos y programas de reducción de la contaminación para la progresiva adecuación de las características de los vertidos a los límites que en ella se fijen.
+5. La autorización de vertido no exime de cualquier otra que sea necesaria, conforme a otras leyes para la actividad o instalación de que se trate.
+Se modifica el apartado 2 por la disposición final 2.2 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+ Se modifica el apartado 2 y se renumeran los apartados 3 y 4 como 4 y 5 y se modifica su redacción, por el art. 129.33 y 34 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+ Téngase en cuenta que, con el cambio de numeración de los antiguos apartados 3 y 4, este art. ha quedado sin apartado 3.
+
+### Artículo 101
+
+Artículo 101. Autorización de vertido.
+1. Las autorizaciones de vertidos establecerán las condiciones en que deben realizarse, en la forma que reglamentariamente se determine.
+En todo caso, deberán especificar las instalaciones de depuración necesarias y los elementos de control de su funcionamiento, así como los límites cuantitativos y cualitativos que se impongan a la composición del efluente y el importe del canon de control del vertido definido en el artículo 113.
+2. Las autorizaciones de vertido corresponderán a la Administración hidráulica competente, salvo en los casos de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores gestionados por las Administraciones autonómicas o locales o por entidades dependientes de las mismas, en los que la autorización corresponderá al órgano autonómico o local competente.
+3. Las autorizaciones de vertido tendrán un plazo máximo de vigencia de cinco años, renovables sucesivamente, siempre que cumplan las normas de calidad y objetivos ambientales exigibles en cada momento. En caso contrario, podrán ser modificadas o revocadas de acuerdo con lo dispuesto en los artículos 104 y 105.
+4. A efectos del otorgamiento, renovación o modificación de las autorizaciones de vertido el solicitante acreditará ante la Administración hidráulica competente, en los términos que reglamentariamente se establezcan, la adecuación de las instalaciones de depuración y los elementos de control de su funcionamiento, a las normas y objetivos de calidad de las aguas. Asimismo, con la periodicidad y en los plazos que reglamentariamente se establezcan, los titulares de autorizaciones de vertido deberán acreditar ante la Administración hidráulica las condiciones en que vierten.
+Los datos a acreditar ante la Administración hidráulica, conforme a este apartado, podrán ser certificados por las entidades que se homologuen a tal efecto, conforme a lo que reglamentariamente se determine.
+5. Las solicitudes de autorizaciones de vertido de las Entidades locales contendrán, en todo caso, un plan de saneamiento y control de vertidos a colectores municipales. Las Entidades locales estarán obligadas a informar a la Administración hidráulica sobre la existencia de vertidos en los colectores locales de sustancias tóxicas y peligrosas reguladas por la normativa sobre calidad de las aguas.
+Se añade un apartado 2 y reenumera los antiguos apartados 2, 3 y 4 que pasan a ser 3, 4 y 5 por el art. único del Real Decreto-Ley 4/2007, de 13 de abril. Ref. BOE-A-2007-7865.
+
+### Artículo 102
+
+Artículo 102. Autorización de vertido en acuíferos y aguas subterráneas.
+Cuando el vertido pueda dar lugar a la infiltración o almacenamiento de sustancias susceptibles de contaminar los acuíferos o las aguas subterráneas, sólo podrá autorizarse si el estudio hidrogeológico previo demostrase su inocuidad.
+
+### Artículo 103
+
+Artículo 103. Limitaciones a las actuaciones industriales contaminantes.
+Las autorizaciones administrativas sobre establecimiento, modificación o traslado de instalaciones o industrias que originen o puedan originar vertidos, se otorgarán condicionadas a la obtención de la correspondiente autorización de vertido.
+El Gobierno podrá prohibir, en zonas concretas, aquellas actividades y procesos industriales cuyos efluentes, a pesar del tratamiento a que sean sometidos, puedan constituir riesgo de contaminación grave para las aguas, bien sea en su funcionamiento normal o en caso de situaciones excepcionales previsibles.
+
+### Artículo 104
+
+Artículo 104. Revisión de las autorizaciones de vertido.
+1. El Organismo de cuenca podrá revisar las autorizaciones de vertido en los siguientes casos:
+a) Cuando sobrevengan circunstancias que, de haber existido anteriormente, habrían justificado su denegación o el otorgamiento en términos distintos.
+b) Cuando se produzca una mejora en las características del vertido y así lo solicite el interesado.
+c) Para adecuar el vertido a las normas y objetivos de calidad de las aguas que sean aplicables en cada momento y, en particular, a las que para cada río, tramo de río, acuífero o masa de agua dispongan los Planes Hidrológicos de cuenca.
+2. En casos excepcionales, por razones de sequía o en situaciones hidrológicas extremas, los Organismos de cuenca podrán modificar, con carácter general, las condiciones de vertido a fin de garantizar los objetivos de calidad.
+
+### Artículo 105
+
+Artículo 105. Vertidos no autorizados.
+1. Comprobada la existencia de un vertido no autorizado, o que no cumpla las condiciones de la autorización, el Organismo de cuenca realizará las siguientes actuaciones:
+a) Incoar un procedimiento sancionador y de determinación del daño causado a la calidad de las aguas.
+b) Liquidará el canon de control de vertido, de conformidad con lo establecido en el artículo 113.
+2. Complementariamente, el Organismo de cuenca podrá acordar la iniciación de los siguientes procedimientos:
+a) De revocación de la autorización de vertido, cuando la hubiera, para el caso de incumplimiento de alguna de sus condiciones.
+Cuando la autorización de vertido en cuencas intercomunitarias se hubiera integrado en la autorización ambiental integrada, el organismo de cuenca comunicará la revocación mediante la emisión de un informe preceptivo y vinculante a la Comunidad Autónoma competente, a efectos de su cumplimiento.
+b) De autorización del vertido, si no la hubiera, cuando éste sea susceptible de legalización.
+c) De declaración de caducidad de la concesión de aguas en los casos especialmente cualificados de incumplimiento de las condiciones o de inexistencia de autorización, de los que resulten daños muy graves en el dominio público hidráulico.
+3. Las revocaciones y declaraciones de caducidad acordadas conforme al apartado anterior no darán derecho a indemnización.
+Se añade un párrafo al apartado 2. a) por la disposición final 2.1 de la Ley 16/2002, de 1 de julio. Ref. BOE-A-2002-12995.
+
+### Artículo 106
+
+Artículo 106. Suspensión de actividades que originan vertidos no autorizados.
+El Gobierno, en el ámbito de sus competencias, podrá ordenar la suspensión de las actividades que den origen a vertidos no autorizados, de no estimar más procedente adoptar las medidas precisas para su corrección, sin perjuicio de la responsabilidad civil, penal o administrativa en que hubieran podido incurrir los causantes de los mismos.
+
+### Artículo 107
+
+Artículo 107. Explotación de depuradoras por el Organismo de cuenca.
+El Organismo de cuenca podrá hacerse cargo directa o indirectamente, por razones de interés general y con carácter temporal, de la explotación de las instalaciones de depuración de aguas residuales, cuando no fuera procedente la paralización de las actividades que producen el vertido y se derivasen graves inconvenientes del incumplimiento de las condiciones autorizadas.
+En este supuesto, el Organismo de cuenca reclamará del titular de la autorización, incluso por vía de apremio:
+a) Las cantidades necesarias para modificar o acondicionar las instalaciones en los términos previstos en la autorización.
+b) Los gastos de explotación, mantenimiento y conservación de las instalaciones.
+
+### Artículo 108
+
+Artículo 108. Empresas de vertido.
+Podrán constituirse empresas de vertido para conducir, tratar y verter aguas residuales de terceros. Las autorizaciones de vertido que a su favor se otorguen, incluirán, además de las condiciones exigidas con carácter general, las siguientes:
+a) Las de admisibilidad de los vertidos que van a ser tratados por la empresa.
+b) Las tarifas máximas y el procedimiento de su actualización periódica.
+c) La obligación de constituir una fianza para responder de la continuidad y eficacia de los tratamientos.
+La cuantía de la fianza y los efectos que se deriven de la revocación de la autorización se determinarán reglamentariamente.
+
+## SECCIÓN 2ª
+
+Sección 2.ª Vertidos marinos
+Se añade por el art. 129.32 y.35 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 108 bis
+
+Artículo 108 bis. Principios generales.
+1. La protección de las aguas marinas tendrá por objeto interrumpir o suprimir gradualmente los vertidos, las emisiones y las pérdidas de sustancias peligrosas prioritarias, con el objetivo último de conseguir concentraciones en el medio marino cercanas a los valores básicos por lo que se refiere a las sustancias de origen natural y próximas a cero por lo que respecta a las sustancias sintéticas artificiales.
+2. Los principios generales enumerados en el apartado anterior se recogerán por la legislación sectorial aplicable en cada caso.
+Se añade por el art. 129.35 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+## CAPÍTULO III
+
+De la reutilización de las aguas
+Se modifica el título por la disposición final 2.3 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+### Artículo 109
+
+Artículo 109. La reutilización de las aguas.
+1. Se entiende por reutilización de las aguas depuradas a la utilización para un nuevo uso privativo, antes de su devolución al dominio público hidráulico o marítimo-terrestre, de las aguas que, habiendo sido utilizadas por quien las derivó, se han sometido a un tratamiento que permite adecuar su calidad al uso al que se van a destinar. Las aguas sometidas a este tratamiento se denominan aguas regeneradas.
+No tendrá la condición de vertido la reutilización efectiva de las aguas regeneradas.
+En usos industriales no tendrá consideración de reutilización de aguas la recirculación de estas dentro de los procesos industriales de la propia actividad.
+2. Las Administraciones públicas, como un medio para promover la economía circular y reforzar la adaptación al cambio climático, deberán impulsar la reutilización de aguas, previendo para ello los instrumentos económicos que consideren adecuados.
+Las Administraciones públicas podrán conceder ayudas al concesionario de aguas regeneradas, que podrán alcanzar la totalidad de los costes adicionales asociados a la reutilización de aguas, en las situaciones que se establecen en el apartado 1 del artículo 109 quinquies.
+Las Administraciones públicas competentes en materia de abastecimiento, saneamiento y depuración de aglomeraciones urbanas de más de 50.000 habitantes deberán elaborar planes que fomenten la reutilización de aguas asociados a los usos urbanos.
+3. Las aguas regeneradas podrán utilizarse para aquellos usos que resulten compatibles con las previsiones contenidas en la planificación hidrológica, y siempre que se asegure un elevado nivel de protección de la salud humana, la sanidad animal y el medio ambiente.
+Reglamentariamente se establecerán las condiciones básicas para la reutilización de las aguas y la calidad exigible a las aguas regeneradas para los usos autorizados.
+Queda prohibida la reutilización de aguas para el consumo humano directo, salvo situaciones de declaración de catástrofe, en las que la autoridad sanitaria especificará los niveles de calidad exigidos a dichas aguas y los usos.
+4. El plan hidrológico de cada demarcación hidrográfica establecerá las asignaciones y reservas de los volúmenes de agua regenerada necesarios para atender los distintos usos.
+Se modifica por la disposición final 2.4 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+ Se modifica el apartado 1 y se suprimen los apartados 3 a 5 por la disposición final 1.10 y 11 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+### Artículo 109 bis
+
+Artículo 109 bis. Régimen jurídico del uso de las aguas regeneradas.
+1. El uso de las aguas regeneradas requerirá concesión administrativa o la modificación de características de una concesión existente, de acuerdo con el régimen general establecido en esta ley para el uso privativo del dominio público hidráulico.
+Dentro del trámite de competencia de proyectos se notificará al primer usuario y al titular de la autorización de vertido.
+El organismo de cuenca resolverá motivadamente las solicitudes presentadas, previo informe preceptivo y vinculante de las autoridades sanitarias.
+2. Cuando el interesado en el uso de las aguas regeneradas sea el primer usuario y el uso al que se vaya a destinar esté reconocido en el marco de su concesión original, quedará exento de la necesidad de disponer de una nueva concesión. En tal caso, el interesado solicitará al organismo de cuenca la modificación de la concesión existente para incluir el uso de las aguas regeneradas solicitadas. El organismo de cuenca modificará la concesión original para reflejar este aspecto siempre y cuando sea compatible con el plan hidrológico y con los derechos de aprovechamiento de terceros, quedando exento del trámite de competencia de proyectos. En todo caso, el concesionario estará sometido al régimen de autorizaciones y controles previstos en los artículos 109 ter y 109 quater.
+De igual forma se procederá cuando el concesionario para la primera utilización de las aguas sea una asociación de municipios o una entidad pública que los represente, y la solicitud de concesión la formule, a través de dicha entidad titular de la concesión, al menos uno de los municipios asociados o representados.
+3. El concesionario será responsable del uso del agua regenerada que se le suministre, en los términos previstos en esta ley y en el Plan de gestión del riesgo de las aguas regeneradas definido en el apartado 3 del artículo 109 ter.
+Se añade por la disposición final 2.5 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+### Artículo 109 ter
+
+Artículo 109 ter. Régimen jurídico de la producción y suministro de aguas regeneradas.
+1. La producción y suministro de aguas regeneradas estarán sometidas a autorización.
+Las autorizaciones serán otorgadas por el organismo de cuenca, previo informe preceptivo y vinculante de las autoridades sanitarias.
+Las autorizaciones incluirán un condicionado basado en el Plan de gestión del riesgo de las aguas regeneradas definido en el apartado 3 y se revisarán periódicamente.
+2. La autorización no exime a sus titulares de obtener otras licencias o autorizaciones preceptivas para el ejercicio de la actividad, en particular las establecidas en el artículo 84 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y en el artículo 5 del texto refundido de la Ley de prevención y control integrados de la contaminación, aprobado por el Real Decreto Legislativo 1/2016, de 16 de diciembre.
+En el caso de que el solicitante no sea el titular de la autorización de vertido, se notificará a este, que tendrá preferencia para el otorgamiento de la autorización de producción o suministro de aguas regeneradas.
+3. Con el fin de garantizar que las aguas regeneradas se usan y gestionan de forma segura, las partes responsables y los usuarios finales elaborarán un Plan de gestión del riesgo de las aguas regeneradas, mediante el que se coordinará el conjunto de funciones dentro del sistema de reutilización de aguas.
+El Plan de gestión del riesgo de las aguas regeneradas definirá el sistema de reutilización e identificará los riesgos asociados a las funciones relacionadas con la producción, suministro y uso de las aguas regeneradas, los elementos clave para la gestión de tales riesgos y las medidas y actuaciones necesarias para mantenerlo en niveles aceptables para el medio ambiente, la salud humana y la sanidad animal. Igualmente, identificará las partes responsables y delimitará la responsabilidad que incumbe a cada una de ellas y al usuario final en el sistema de reutilización de aguas, en relación con el cumplimiento de dicho Plan.
+El Plan será presentado junto a la solicitud de otorgamiento, renovación o modificación de la autorización de producción o suministro de aguas regeneradas para su valoración por el organismo de cuenca.
+Se añade por la disposición final 2.6 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+### Artículo 109 quater 
+
+Artículo 109 quater. Control del cumplimiento de la autorización otorgada.
+1. Las partes responsables identificadas en el sistema de reutilización y los usuarios de las aguas regeneradas deben asegurar el cumplimiento de los requisitos establecidos en la autorización o concesión otorgada y en la parte del Plan de gestión del riesgo de las aguas regeneradas que les corresponda.
+2. Corresponderá al organismo de cuenca y a las autoridades sanitarias la vigilancia del control del cumplimiento de las condiciones establecidas en el Plan de gestión del riesgo de las aguas regeneradas y en las autorizaciones de producción y suministro de aguas regeneradas.
+Las partes responsables deberán acreditar periódicamente el cumplimiento de las condiciones establecidas en el Plan de gestión del riesgo de las aguas regeneradas, que podrá realizarse a través de un certificado emitido por una entidad colaboradora de la Administración hidráulica, todo ello, sin perjuicio de las facultades de inspección que corresponden a los organismos de cuenca y a las autoridades sanitarias.
+Se añade por la disposición final 2.7 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+### Artículo 109 quinquies
+
+Artículo 109 quinquies. Costes asociados a la reutilización de aguas.
+1. Los organismos de cuenca, en el marco de la planificación hidrológica, determinarán aquellas situaciones donde la sustitución, total o parcial, de una concesión de aguas de captación superficial o subterránea por aguas regeneradas contribuya a alcanzar los objetivos medioambientales de las masas de agua o a la optimización de la gestión de los recursos hídricos. En esas situaciones podrán concederse al usuario las ayudas previstas en el artículo 109.2 o la exención establecida en el artículo 114.2.
+Los costes adicionales asociados a la reutilización de aguas en esas situaciones podrán ser asumidos por las Administraciones u otras entidades que resulten beneficiadas por la sustitución.
+2. De acuerdo con lo establecido en el artículo 113.1, el volumen de agua que se reutilice estará exento del canon de control de vertido.
+Se añade por la disposición final 2.8 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+## CAPÍTULO IV
+
+De los auxilios del Estado
+
+### Artículo 110
+
+Artículo 110. Ayudas del Estado para actividades que mejoren la calidad de las aguas.
+Se determinarán reglamentariamente las ayudas que podrán concederse a quienes procedan al desarrollo, implantación o modificaciones de tecnologías, procesos, instalaciones o equipos, así como a cambios en la explotación, que signifiquen una disminución en los usos y consumos de agua o bien una menor aportación en origen de cargas contaminantes a las aguas utilizadas.
+Asimismo, podrán concederse ayudas a quienes realicen plantaciones forestales, cuyo objetivo sea la protección de los recursos hidráulicos.
+Estas ayudas se extenderán a quienes procedan a la potabilización y desalinización de aguas y a la depuración de aguas residuales, mediante procesos o métodos más adecuados, a la implantación de sistemas de reutilización de aguas residuales, o desarrollen actividades de investigación en estas materias.
+
+## CAPÍTULO V
+
+De las zonas húmedas
+
+### Artículo 111
+
+Artículo 111. Concepto y características.
+1. Las zonas pantanosas o encharcadizas, incluso las creadas artificialmente, tendrán la consideración de zonas húmedas.
+2. La delimitación de las zonas húmedas se efectuará de acuerdo con la correspondiente legislación específica.
+3. Toda actividad que afecte a tales zonas requerirá autorización o concesión administrativa.
+4. Los Organismos de cuenca y la Administración ambiental competente coordinarán sus actuaciones para la conservación, la protección eficaz, la gestión sostenible y la recuperación de las zonas húmedas, especialmente de aquellas que posean un interés natural o paisajístico.
+5. Los Organismos de cuenca podrán promover la declaración de determinadas zonas húmedas como de especial interés para su conservación y protección, de acuerdo con la legislación medioambiental.
+6. Asimismo, los Organismos de cuenca, previo informe favorable de los órganos competentes en materia de Medio Ambiente, podrán promover la desecación de aquellas zonas húmedas, declaradas insalubres o cuyo saneamiento se considere de interés público.
+
+## TÍTULO VI
+
+Del régimen económico-financiero de la utilización del dominio público hidráulico
+
+### Artículo 111 bis
+
+Artículo 111 bis. Principios generales.
+1. Las Administraciones públicas competentes, en virtud del principio de recuperación de costes y teniendo en cuenta proyecciones económicas a largo plazo, establecerán los oportunos mecanismos para repercutir los costes de los servicios relacionados con la gestión del agua, incluyendo los costes ambientales y del recurso, en los diferentes usuarios finales.
+2. La aplicación del principio de recuperación de los mencionados costes deberá hacerse de manera que incentive el uso eficiente del agua y, por tanto, contribuya a los objetivos medioambientales perseguidos.
+Asimismo, la aplicación del mencionado principio deberá realizarse con una contribución adecuada de los diversos usos, de acuerdo con el principio del que contamina paga, y considerando al menos los usos de abastecimiento, agricultura e industria. Todo ello con aplicación de criterios de transparencia.
+A tal fin la Administración con competencias en materia de suministro de agua establecerá las estructuras tarifarias por tramos de consumo, con la finalidad de atender las necesidades básicas a un precio asequible y desincentivar los consumos excesivos.
+3. Para la aplicación del principio de recuperación de costes se tendrán en cuenta las consecuencias sociales, ambientales y económicas, así como las condiciones geográficas y climáticas de cada territorio y de las poblaciones afectadas siempre y cuando ello no comprometa los fines ni el logro de los objetivos ambientales establecidos.
+Mediante resolución de la Administración competente, que en el ámbito de la Administración General del Estado corresponderá al Ministro de Agricultura, Alimentación y Medio Ambiente, se podrán establecer motivadamente excepciones al principio de recuperación de costes para determinados usos teniendo en cuenta las mismas consecuencias y condiciones mencionadas y sin que, en ningún caso, se comprometan los fines ni el logro de los objetivos ambientales correspondientes. Para ello, los organismos de cuenca emitirán en el plazo de tres meses, con carácter preceptivo y previo a la resolución que se adopte, informe motivado que, en todo caso, justifique que no se comprometen ni los fines ni los logros ambientales establecidos en las respectivas planificaciones hidrológicas.
+Se modifican los apartados 1 y 3 por el art. 1.5 y 6 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifican los apartados 1 y 3 por el art. 1.3 y 4 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+ Se añade un párrafo a los apartados 1 y 2 por disposición final 1.12 y .13 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
+ Se añade por el art. 129.36 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 112
+
+Artículo 112. Canon de utilización de los bienes del dominio público hidráulico.
+1. La ocupación, utilización y aprovechamiento de los bienes del dominio público hidráulico incluidos en los párrafos b) y c) del artículo 2 de la presente Ley, que requieran concesión o autorización administrativa, devengarán a favor del Organismo de cuenca competente una tasa denominada canon de utilización de bienes del dominio público hidráulico, destinada a la protección y mejora de dicho dominio. Los concesionarios de aguas estarán exentos del pago del canon por la ocupación o utilización de los terrenos de dominio público necesarios para llevar a cabo la concesión.
+2. El devengo de la tasa se producirá con el otorgamiento inicial y el mantenimiento anual de la concesión o autorización y será exigible en la cuantía que corresponda y en los plazos que se señalen en las condiciones de dicha concesión o autorización.
+3. Serán sujetos pasivos del canon los concesionarios o personas autorizadas o, en su caso, quienes se subroguen en lugar de aquéllos.
+4. La base imponible de la exacción se determinará por el Organismo de cuenca según los siguientes supuestos:
+a) En el caso de ocupación de terrenos del domino público hidráulico, por el valor del terreno ocupado tomando como referencia el valor de mercado de los terrenos contiguos.
+b) En el caso de utilización del dominio público hidráulico, por el valor de dicha utilización o del beneficio obtenido con la misma.
+Para las instalaciones de generación eléctrica solar fotovoltaica flotante en el dominio público hidráulico, la base imponible se determina como el producto del precio medio anual del mercado diario e intradiario publicado por la Comisión Nacional de los Mercados y la Competencia para el año devengado, por la producción de la planta.
+c) En el caso de aprovechamiento de bienes del dominio público hidráulico, por el valor de los materiales consumidos o la utilidad que reporte dicho aprovechamiento.
+5. El tipo de gravamen anual será del 5 por 100 en los supuestos previstos en los párrafos a) y b) del apartado anterior, y del 100 por 100 en el supuesto del párrafo c), que se aplicarán sobre el valor de la base imponible resultante en cada caso.
+6. En el supuesto de cuencas intercomunitarias este canon será recaudado por el Organismo de cuenca o bien por la Administración Tributaria del Estado, en virtud de convenio con aquél. En este segundo caso la Agencia Estatal de la Administración Tributaria recibirá del Organismo de cuenca los datos y censos pertinentes que faciliten su gestión, e informará periódicamente a éste en la forma que se determine por vía reglamentaria. El canon recaudado será puesto a disposición del Organismo de cuenca correspondiente.
+Se modifica el apartado 4.b) por la disposición final 6.2 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-6
+
+### Artículo 112 bis
+
+Artículo 112 bis. Canon por utilización de las aguas continentales para la producción de energía eléctrica.
+1. Constituye el hecho imponible de este canon la utilización y aprovechamiento de los bienes de dominio público a que se refiere el párrafo a) del artículo 2 de esta ley, para la producción de energía eléctrica en barras de central, que tendrá la naturaleza de tasa y que irá destinado a la protección y mejora del dominio público hidráulico.
+El citado canon solo será de aplicación en las cuencas hidrográficas de competencia estatal.
+2. El devengo del canon se producirá con el otorgamiento inicial y el mantenimiento anual de la concesión hidroeléctrica.
+3. Serán sujetos pasivos del canon, en calidad de contribuyentes, los titulares de un aprovechamiento hidroeléctrico.
+4. La base imponible de la exacción será el valor económico de la energía hidroeléctrica producida en cada período impositivo anual por el titular de un aprovechamiento hidroeléctrico mediante la utilización y aprovechamiento del dominio público hidráulico, medida en barras de central, de acuerdo con la potencia definida en el párrafo siguiente, que el concesionario deberá declarar en la correspondiente autoliquidación.
+A efectos de determinación de la base imponible y de los umbrales a partir de los que opera la reducción prevista en el apartado 7 de este artículo, se entiende por «instalación» la central hidroeléctrica y por «potencia de la instalación» la suma de las potencias de los grupos en ella instalados, sin que pueda subdividirse la potencia total de cada central incluida en el título de un aprovechamiento hidroeléctrico a los efectos del canon en grupos de potencia individual inferior.
+Se entenderá por «potencia de los grupos», a efectos de lo previsto en esta ley, la potencia instalada o la potencia nominal que figure inscrita en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica, establecido por Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.
+Se considerará valor económico de la energía producida la retribución total que obtenga el contribuyente por la energía producida que incorpore al sistema eléctrico durante cada año natural –o fracción de año en el primer y último año de la concesión– de funcionamiento de la instalación.
+A efectos del cálculo del valor económico se tendrán en cuenta las retribuciones previstas en todos los regímenes económicos que se deriven de lo establecido en la normativa reguladora del sector eléctrico y se calculará separadamente para cada instalación de generación hidroeléctrica, sin perjuicio de lo indicado en el apartado 4 respecto a los umbrales de potencia a partir de los que opera la reducción prevista en el apartado 7 del presente artículo.
+La base imponible de esta exacción vendrá determinada por el importe total de los derechos de cobro que figuren en las facturas de venta puestas a disposición del sujeto de la liquidación. Dicha base imponible se determinará de acuerdo con la información obtenida de los procesos de liquidación del operador del mercado, del operador del sistema y, en su caso, el órgano encargado de las liquidaciones, incentivos y complementos de instalaciones de producción de energía eléctrica con derecho a un régimen retributivo específico o adicional que apruebe el Ministerio para la Transición Ecológica y el Reto Demográfico, así como la aportada por cada contribuyente.
+5. El Ministerio competente, con relación al citado registro, remitirá anualmente a las Confederaciones Hidrográficas la información certificada relativa al número de inscripción definitiva de cada instalación, su tecnología, la potencia instalada y la potencia neta o, en su caso, la potencia nominal en megavatios (MW).
+A efectos de comprobar el cálculo de la base imponible reflejada en las autoliquidaciones se establecen las siguientes obligaciones de información en favor de los Organismos de cuenca:
+a) Red Eléctrica de España, S.A., como operador del sistema, facilitará directamente a cada organismo de cuenca en el ámbito que le corresponda las medidas que acrediten la actividad productiva de los titulares de instalaciones generadoras de energía hidroeléctrica de cuya gestión es encargado, y el valor económico de la energía producida, así como la información relativa a la energía suministrada para el bombeo a estas sociedades titulares. Dicha información se desglosará para cada una de las instalaciones hidroeléctricas existentes en la respectiva cuenca, cualquiera que sea su potencia, con indicación de si la medición de la energía producida la ha realizado directamente u obtenido a través de terceros.
+b) El Operador del Mercado facilitará directamente a cada organismo de cuenca los datos referentes al precio horario del mercado diario del periodo objeto de exacción.
+c) Del mismo modo, el órgano encargado de las liquidaciones del régimen retributivo específico o adicional que corresponda según la normativa del sector eléctrico, facilitará directamente al organismo de cuenca la información documentada de los pagos que debe liquidar a estas instalaciones hidroeléctricas. Esta información se facilitará antes del 15 de marzo y corresponderá al año natural vencido.
+6. El tipo de gravamen anual será del 25,5 por ciento del valor de la base imponible y la cuota íntegra será la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+7. Estarán exentos del pago de este canon los aprovechamientos hidroeléctricos explotados directamente por la Administración General del Estado o sus organismos públicos competentes en la gestión del dominio público hidráulico en las cuencas intercomunitarias.
+8. El canon se reducirá en un 92 por ciento para las instalaciones hidroeléctricas de potencia igual o inferior a 50 MW, y un 90 por ciento para las instalaciones de bombeo con potencia superior a 50 MW, sobre la parte de la base imponible compuesta por el valor de la energía procedente de bombeo, en la forma que reglamentariamente se determine para aquellas producciones o instalaciones que se deban incentivar por motivos de política energética general. La reducción no será aplicable a la parte de base imponible compuesta por el valor de la energía procedente de turbinado directo desde el embalse.
+9. Respecto a la gestión del canon:
+a) El periodo impositivo del canon coincidirá con el año natural, o la fracción del año transcurrido desde el otorgamiento inicial de la concesión o su extinción.
+b) La autoliquidación y pago se realizarán en el mes de marzo de cada año natural, estando el contribuyente obligado a autoliquidar el canon e ingresar la cuota correspondiente al año natural anterior al objeto de que haya podido disponer para su cálculo de las mediciones definitivas de la producción eléctrica. El primer ejercicio, así como el último en el que deba realizar la autoliquidación, lo hará por la parte proporcional correspondiente al período de tiempo de vigencia de la concesión durante ese año.
+c) La gestión y recaudación del canon corresponderá al Organismo de cuenca competente o bien a la Administración Tributaria del Estado, en virtud de convenio con aquel.
+En caso de celebrarse el convenio con la Agencia Estatal de Administración Tributaria, esta recibirá del Organismo de cuenca los datos y censos pertinentes que faciliten su gestión, e informará periódicamente a este en la forma que se establezca en el Convenio, a tenor de las obligaciones de información establecidas en el apartado 5 de este artículo.
+d) El 50 por ciento del canon recaudado será considerado un ingreso del Organismo de cuenca, y será destinado a financiar actividades de control, mejora de la calidad, procedimientos y protección del Dominio Público Hidráulico que se definirán reglamentariamente. El 50 por ciento restante será destinado a financiar los costes del sistema eléctrico previstos en la Ley 24/2013, de 26 de diciembre, del sector eléctrico, referidos a fomento de energías renovables.
+Se modifica por la disposición final 2 de la Ley 7/2022, de 8 de abril. Ref. BOE-A-2022-5809#df-2
+ Se modifican los apartados 5 y 7 por el art. 10 de la Ley 1/2018, de 6 de marzo. Ref. BOE-A-2018-3171#a1-2
+ Se modifica por el art. 4 del Real Decreto-ley 10/2017, de 9 de junio. Ref. BOE-A-2017-6578
+ Téngase en cuenta, para la liquidación del canon en el ejercicio 2017, lo dispuesto en la disposición transitoria única del citado Real Decreto-ley.
+ Se añade por el art. 29 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+ Téngase en cuenta para su aplicación la disposición transitoria 1.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 59, de 9 de marzo de 2013. Ref. BOE-A-2013-2602.
+
+### Artículo 113
+
+Artículo 113. Canon de control de vertidos.
+1. Los vertidos al dominio público hidráulico estarán gravados con una tasa destinada al estudio, control, protección y mejora del medio receptor de cada cuenca hidrográfica, que se denominará canon de control de vertidos.
+2. Serán sujetos pasivos del canon de control de vertidos, quienes lleven a cabo el vertido.
+3. El importe del canon de control de vertidos será el producto del volumen de vertido autorizado por el precio unitario de control de vertido. Este precio unitario se calculará multiplicando el precio básico por metro cúbico por un coeficiente de mayoración o minoración, que se establecerá reglamentariamente en función de la naturaleza, características y grado de contaminación del vertido, así como por la mayor calidad ambiental del medio físico en que se vierte.
+Se descontará en el cálculo del importe del canon de control de vertidos el volumen de agua que haya sido efectivamente reutilizado durante el período impositivo.
+El precio básico por metro cúbico se fija en 0,01751 euros para el agua residual urbana y en 0,04377 euros para el agua residual industrial. Estos precios básicos podrán revisarse periódicamente en las Leyes de Presupuestos Generales del Estado.
+El coeficiente de mayoración del precio básico no podrá ser superior a 5.
+4. El canon de control de vertidos se devengará el 31 de diciembre, coincidiendo el período impositivo con un año natural, excepto el ejercicio en que se produzca la autorización del vertido o su cese, en cuyo caso, se calculará el canon proporcionalmente al número de días de vigencia de la autorización en relación con el total del año. Durante el primer trimestre de cada año natural, deberá liquidarse el canon correspondiente al año anterior.
+5. En el supuesto de cuencas intercomunitarias este canon será recaudado por el Organismo de cuenca o bien por la Administración Tributaria del Estado, en virtud de convenio con aquél. En este segundo caso la Agencia Estatal de Administración Tributaria recibirá del Organismo de cuenca los datos y censos pertinentes que faciliten su gestión, e informará periódicamente a éste en la forma que se determine por vía reglamentaria. El canon recaudado será puesto a disposición del Organismo de cuenca correspondiente.
+Asimismo, en virtud de convenio las Comunidades Autónomas podrán recaudar el canon en su ámbito territorial. En este supuesto, la Comunidad Autónoma pondrá a disposición del Organismo de cuenca la cuantía que se estipule en el convenio, en atención a las funciones que en virtud del mismo se encomienden a la Comunidad Autónoma.
+6. Cuando se compruebe la existencia de un vertido, cuyo responsable carezca de la autorización administrativa a que se refiere el artículo 100, con independencia de la sanción que corresponda, el Organismo de cuenca liquidará el canon de control de vertidos por los ejercicios no prescritos, calculando su importe por procedimientos de estimación indirecta conforme a lo que reglamentariamente se establezca.
+7. El canon de control de vertidos será independiente de los cánones o tasas que puedan establecer las Comunidades Autónomas o Corporaciones Locales para financiar las obras de saneamiento y depuración.
+8. Cuando un sujeto pasivo del canon de control de vertidos esté obligado a satisfacer algún otro tributo vinculado a la protección, mejora y control del medio receptor establecido por las Comunidades Autónomas en ejercicio de sus competencias, el importe correspondiente a este tributo se podrá deducir o reducir del importe a satisfacer en concepto de canon de control de vertidos.
+Con el objeto de arbitrar los mecanismos necesarios para conseguir la efectiva correspondencia entre los servicios recibidos y los importes a abonar por el sujeto pasivo de los citados tributos, el Ministerio de Medio Ambiente y las Administraciones autonómicas implicadas suscribirán los oportunos convenios de colaboración.
+Se modifica el apartado 3 por la disposición final 2.9 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+ Se modifica el párrafo segundo del apartado 3 por la disposición final 6 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198#df-6
+ Se modifica el párrafo segundo del apartado 3 por la disposición final 4 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#df-4
+ Se modifica el párrafo segundo del apartado 3 por la disposición final 9.2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-10
+ Téngase en cuenta la disposición adicional 99 de la citada Ley.
+ Se actualiza el párrafo segundo del apartado 3 por el art. 95 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+ Se actualiza el apartado 3 por el art. 80 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+ Se modifica el apartado 5 y se añade el 8 por la disposición final 1.14 y .15 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+### Artículo 114
+
+Artículo 114. Canon de regulación y tarifa de utilización del agua.
+1. Los beneficiados por las obras de regulación de las aguas superficiales o subterráneas, financiadas total o parcialmente con cargo al Estado, satisfarán un canon de regulación destinado a compensar los costes de la inversión que soporte la Administración estatal y atender los gastos de explotación y conservación de tales obras.
+Los beneficiarios podrán serlo directa o indirectamente. Serán beneficiarios directos aquellos que obtienen una mejora de la garantía de suministro mediante la utilización de las obras hidráulicas de regulación. Serán beneficiarios indirectos aquellos que, provocando afecciones sobre las masas de agua superficiales y subterráneas, se benefician de los efectos de las obras hidráulicas de regulación, aunque no sean usuarios directos de las mismas.
+2. Los beneficiados por otras obras hidráulicas específicas financiadas total o parcialmente a cargo del Estado, incluidas las de corrección del deterioro del dominio público hidráulico, derivado de su utilización, satisfarán por la disponibilidad o uso del agua, así como por el deterioro de su calidad, una exacción denominada "tarifa de utilización del agua", destinada a compensar los costes de inversión que soporte la Administración estatal y a atender a los gastos de explotación y conservación de tales obras. Tendrán la consideración de específicas las obras que no siendo de regulación de aguas superficiales o subterráneas pertenezcan a alguna de las categorías enumeradas en el artículo 122.1 y 2, de esta ley, en particular se entenderán específicas las obras destinadas a la desalación, abastecimiento, saneamiento, depuración y reutilización.
+En las situaciones previstas en el apartado 1 del artículo 109 quinquies, podrá eximirse al usuario que realice la sustitución por aguas regeneradas de los costes adicionales que comporte el cambio de fuente de agua suministrada, conllevando la correspondiente modificación concesional.
+3. La cuantía de cada una de las exacciones se fijará, para cada ejercicio presupuestario, sumando las siguientes cantidades:
+a) El total previsto de gastos de funcionamiento y conservación de las obras realizadas.
+b) Los gastos de administración del organismo gestor imputables a dichas obras.
+c) El 4 por 100 del valor de las inversiones realizadas por el Estado, debidamente actualizado, teniendo en cuenta la amortización técnica de las obras e instalaciones y la depreciación de la moneda, en la forma que reglamentariamente se determine.
+4. La distribución individual de dicho importe global, entre todos los beneficiados por las obras, se realizará con arreglo a criterios de racionalización del uso del agua, equidad en el reparto de las obligaciones y autofinanciación del servicio, en la forma que reglamentariamente se determine.
+5. En el supuesto de cuencas intercomunitarias las exacciones previstas en este artículo serán gestionadas y recaudadas por el Organismo de cuenca o bien por la Administración Tributaria del Estado, en virtud de convenio con aquél. En este segundo caso, la Agencia Estatal de la Administración Tributaria recibirá del Organismo de cuenca los datos y censos pertinentes que faciliten su gestión, e informará periódicamente a éste en la forma que se determine por vía reglamentaria. El canon recaudado será puesto a disposición del Organismo de cuenca correspondiente.
+6. El organismo liquidador de los cánones y exacciones introducirá un factor corrector del importe a satisfacer, según el beneficiado por la obra hidráulica consuma en cantidades superiores o inferiores a las dotaciones de referencia fijadas en los Planes Hidrológicos de cuenca o, en su caso, en la normativa que regule la respectiva planificación sectorial, en especial en materia de regadíos u otros usos agrarios. Este factor corrector consistirá en un coeficiente a aplicar sobre la liquidación, que no podrá ser superior a 2 ni inferior a 0,5, conforme a las reglas que se determinen reglamentariamente.
+7. El Organismo de cuenca, de acuerdo con lo establecido en este artículo, determinará las cuantías anuales del canon de regulación y de la tarifa de utilización del agua antes del comienzo del ejercicio a que se apliquen, pudiendo practicarlas desde el inicio del año natural en el que resulte de aplicación hasta el último día del primer semestre del año siguiente.
+Se modifican los apartados 1 y 2 por la disposición final 2.10 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+ Téngase en cuenta el art. 21 del citado Real Decreto-ley en cuanto a la exención del canon de regulación y de la tarifa de utilización del agua recogidos en este artículo a los ususarios que han sufrido reducciones en las dotaciones por efecto de la sequía, para el periodo impositivo de 2023.
+ Se modifica el apartado 7 por la disposición final 5 del Real Decreto-ley 12/2021, de 24 de junio. Ref. BOE-A-2021-10584#df-5
+ Se modifica el apartado 7 por la disposición final 9.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-10
+ Se modifica el apartado 7 por el art. 1.7 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+
+### Artículo 115
+
+Artículo 115. Naturaleza económico-administrativa de las liquidaciones.
+1. Reglamentariamente podrá establecerse la autoliquidación de los cánones o exacciones mencionados en los artículos anteriores.
+2. Los actos de aprobación y liquidación de estos cánones o exacciones tendrán carácter económico-administrativo. Sin perjuicio de lo dispuesto en las normas reguladoras de los procedimientos aplicables, la impugnación de los actos no suspenderá su eficacia, siendo exigible el abono del débito por la vía administrativa de apremio. El impago podrá motivar la suspensión o pérdida del derecho a la utilización o aprovechamiento del dominio público hidráulico.
+3. El pago de las exacciones previstas en la presente Ley, cuando los obligados a ello estén agrupados en una comunidad de usuarios u organización representativa de los mismos, se podrá realizar a través de tales comunidades o entidades, que quedan facultadas a tal fin para llevar a cabo la recaudación correspondiente, en los términos que se establezcan reglamentariamente.
+
+## TÍTULO VII
+
+De las infracciones y sanciones y de la competencia de los Tribunales
+
+### Artículo 116
+
+Artículo 116. Acciones constitutivas de infracción.
+1. El incumplimiento de lo establecido en esta Ley será sancionado con arreglo a lo dispuesto en este Título y en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. La responsabilidad será solidaria cuando sean varios los responsables y no sea posible determinar el grado de participación de cada uno de ellos en la comisión de la infracción.
+3. Se considerarán infracciones administrativas:
+a) Las acciones que causen daños a los bienes de dominio público hidráulico y a las obras hidráulicas.
+b) La derivación de agua de sus cauces y el alumbramiento de aguas subterráneas sin la correspondiente concesión o autorización cuando sea precisa.
+c) El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas a que se refiere esta Ley, sin perjuicio de su caducidad, revocación o suspensión.
+d) La ejecución, sin la debida autorización administrativa, de otras obras, trabajos, siembras o plantaciones en los cauces públicos o en las zonas sujetas legalmente a algún tipo de limitación en su destino o uso.
+e) La invasión, la ocupación o la extracción de áridos de los cauces, sin la correspondiente autorización.
+f) Los vertidos que puedan deteriorar la calidad del agua o las condiciones de desagüe del cauce receptor, efectuados sin contar con la autorización correspondiente.
+g) El incumplimiento de las prohibiciones establecidas en la presente Ley o la omisión de los actos a que obliga.
+h) La apertura de pozos y la instalación en los mismos de instrumentos para la extracción de aguas subterráneas sin disponer previamente de concesión o autorización del Organismo de cuenca para la extracción de las aguas.
+i) La no presentación de declaración responsable o el incumplimiento de las previsiones contenidas en la declaración responsable para el ejercicio de una determinada actividad o de las condiciones impuestas por la Administración para el ejercicio de la misma.
+j) La inexactitud, falsedad u omisión en los datos, manifestaciones o documentos que se incorporen o acompañen a la declaración responsable.
+Incurrirán en responsabilidad por la infracción de los apartados b) y h), las personas físicas o jurídicas siguientes: El titular del terreno, el promotor de la captación, el empresario que ejecuta la obra y el técnico director de la misma.
+Se añaden las letras i) y j) al apartado 3 por el art. 33.3 y .4 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.
+ Se numera el contenido del artículo como apartado 3 y se añaden los apartados 1, 2 y el último párrafo del 3 por la disposición adicional 20 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+
+### Artículo 117
+
+Artículo 117. Calificación de las infracciones.
+1. Las citadas infracciones se calificarán reglamentariamente de leves, menos graves, graves, o muy graves, atendiendo a su repercusión en el orden y aprovechamiento del dominio público hidráulico, a su trascendencia por lo que respecta a la seguridad de las personas y bienes y a las circunstancias del responsable, su grado de malicia, participación y beneficio obtenido, así como al deterioro producido en la calidad del recurso, pudiendo ser sancionadas con las siguientes multas:
+Infracciones leves, multa de hasta 10.000,00 euros.
+Infracciones menos graves, multa de 10.000,01 a 50.000,00 euros.
+Infracciones graves, multa de 50.000,01 a 500.000,00 euros.
+Infracciones muy graves, multa de 500.000,01 a 1.000.000,00 euros.
+2. Con carácter general, para la valoración del daño en el dominio público hidráulico y las obras hidráulicas se ponderará su valor económico. En el caso de daños en la calidad del agua, se tendrá en cuenta el coste del tratamiento que hubiera sido necesario para evitar la contaminación causada por el vertido y la peligrosidad del mismo. Todo ello, de acuerdo con lo que reglamentariamente se establezca.
+3. La sanción de las infracciones leves y menos graves corresponderá al Organismo de cuenca. En relación con las primeras se establecerá reglamentariamente un procedimiento abreviado y sumario, respetando los principios establecidos en el capítulo II del Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Será competencia del Ministro de Medio Ambiente la sanción de las infracciones graves y quedará reservada al Consejo de Ministros la imposición de multas por infracciones muy graves.
+4. El Gobierno podrá, mediante Decreto, proceder a la actualización del importe de las sanciones, previsto en el apartado 1 de este artículo.
+Se modifica por el art. 1.8 a 10 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica por el art. 1.5 a 7 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+ Se convierten a euros las cuantías contempladas en el apartado 1 por el art. 1.1 Resolución de 21 de noviembre de 2001. Ref. BOE-A-2001-23479
+
+### Artículo 118
+
+Artículo 118. Indemnizaciones por daños y perjuicios al dominio público hidráulico.
+1. Con independencia de las sanciones que les sean impuestas, los infractores podrán ser obligados a reparar los daños y perjuicios ocasionados al dominio público hidráulico, así como a reponer las cosas a su estado anterior. El órgano sancionador fijará ejecutoriamente las indemnizaciones que procedan.
+2. Tanto el importe de las sanciones como el de las responsabilidades a que hubiera lugar, podrán ser exigidos por la vía administrativa de apremio.
+
+### Artículo 119
+
+Artículo 119. Multas coercitivas.
+1. Los Órganos sancionadores podrán imponer multas coercitivas en los supuestos contemplados en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. La cuantía de cada multa no superará, en ningún caso, el 10 por 100 de la sanción máxima fijada para la infracción cometida.
+2. Para garantizar la eficacia de la resolución final que pudiera recaer, podrán adoptarse, con carácter provisional, las medidas cautelares que resulten necesarias para evitar la continuación de la actividad infractora, como el sellado de instalaciones, aparatos, equipos y pozos, y el cese de actividades.
+
+### Artículo 120
+
+Artículo 120. Infracciones constitutivas de delito o falta.
+En los supuestos en que las infracciones pudieran ser constitutivas de delito o falta, la Administración pasará el tanto de culpa a la jurisdicción competente y se abstendrá de proseguir el procedimiento sancionador mientras la autoridad judicial no se haya pronunciado. La sanción de la autoridad judicial excluirá la imposición de multa administrativa. De no haberse estimado la existencia de delito o falta, la Administración podrá continuar el expediente sancionador en base a los hechos que los Tribunales hayan considerado probados.
+
+### Artículo 121
+
+Artículo 121. Jurisdicción competente.
+Corresponde a la jurisdicción contencioso-administrativa el conocimiento de las pretensiones que se deduzcan en relación con los actos de cualesquiera Administraciones públicas en materia de aguas, sujetos al Derecho Administrativo.
+
+### Artículo 121 bis
+
+Artículo 121 bis. Responsabilidad comunitaria.
+(Derogado)
+Se deroga por la disposición derogatoria única a) del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
+ Se añade por el art. 129.37 de la Ley 62/2003, de 30 de diciembre de 2003. Ref. BOE-A-2003-23936.
+
+## TÍTULO VIII
+
+De las obras hidráulicas
+
+## CAPÍTULO I
+
+Concepto y naturaleza jurídica de las obras hidráulicas
+
+### Artículo 122
+
+Artículo 122. Concepto de obra hidráulica.
+1. A los efectos de esta Ley, se entiende por obra hidráulica la construcción de bienes que tengan naturaleza inmueble destinada a la captación, extracción, desalación, almacenamiento, regulación, conducción, control y aprovechamiento de las aguas, así como el saneamiento, depuración, tratamiento y reutilización de las aprovechadas y las que tengan como objeto la recarga artificial de acuíferos, la actuación sobre cauces, corrección del régimen de corrientes y la protección frente avenidas, tales como presas, embalses, canales de acequias, azudes, conducciones, y depósitos de abastecimiento a poblaciones, instalaciones de desalación, captación y bombeo, alcantarillado, colectores de aguas pluviales y residuales, instalaciones de saneamiento, depuración y tratamiento, estaciones de aforo, piezómetros, redes de control de calidad, diques y obras de encauzamiento y defensa contra avenidas, así como aquellas actuaciones necesarias para la protección del dominio público hidráulico.
+2. Se entenderá que forman parte inseparable de las obras hidráulicas mencionadas en el apartado 1, las instalaciones, elementos constructivos o equipos que permitan optimizar la operación y explotación de las obras hidráulicas que se proyecten en el futuro, o que se encuentren en construcción o ya construidas, con la finalidad de obtener una reducción en los costes de operación y explotación, una mayor eficiencia energética, o la producción de energía eléctrica destinada al funcionamiento de las citadas infraestructuras hidráulicas.
+3. Para las actuaciones declaradas de interés general de la Administración General del Estado que se encuentren en construcción o ya construidas, los proyectos de obras necesarios para las instalaciones, elementos constructivos o equipos citados en el apartado 2 de este artículo, tendrán el carácter de complementarios, con independencia de que se ejecuten directamente por la Administración General del Estado, por sus Organismos autónomos o a través de las Sociedades Estatales de Aguas reguladas en el artículo 132 de esta ley.
+Se añaden los apartados 2 y 3 por la disposición final 6.3 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-6
+
+### Artículo 123
+
+Artículo 123. Régimen jurídico de la obra hidráulica.
+1. Las obras hidráulicas pueden ser de titularidad pública o privada.
+No podrá iniciarse la construcción de una obra hidráulica que comporte la concesión de nuevos usos del agua, sin que previamente se obtenga o declare la correspondiente concesión, autorización o reserva demaniales, salvo en el caso de declaración de emergencia o de situaciones hidrológicas extremas.
+A las obras hidráulicas vinculadas a aprovechamientos energéticos les resultará igualmente de aplicación lo previsto en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+2. Son obras hidráulicas públicas las destinadas a garantizar la protección, control y aprovechamiento de las aguas continentales y del dominio público hidráulico y que sean competencia de la Administración General del Estado, de las Confederaciones Hidrográficas, de las Comunidades Autónomas y de las Entidades locales.
+
+### Artículo 123 bis
+
+Artículo 123 bis. Seguridad de presas y embalses.
+Con la finalidad de proteger a las personas, al medio ambiente y a las propiedades, el Gobierno regulará mediante Real Decreto las condiciones esenciales de seguridad que deben cumplir las presas y embalses, estableciendo las obligaciones y responsabilidades de sus titulares, los procedimientos de control de la seguridad, y las funciones que corresponden a la Administración pública.
+Se añade por la disposición final 1.16 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+### Artículo 124
+
+Artículo 124. Competencias para la ejecución, gestión y explotación de las obras hidráulicas públicas.
+1. Son competencia de la Administración General del Estado las obras hidráulicas de interés general. La gestión de estas obras podrá realizarse directamente por los órganos competentes del Ministerio para la Transición Ecológica y el Reto Demográfico o a través de las confederaciones hidrográficas.
+También podrán gestionar la construcción y explotación de estas obras, las comunidades autónomas y entidades locales en virtud de convenio específico o encomienda de gestión.
+2. Son competencia de las Confederaciones Hidrográficas las obras hidráulicas realizadas con cargo a sus fondos propios, en el ámbito de las competencias de la Administración General del Estado.
+3. El resto de las obras hidráulicas públicas son de competencia de las Comunidades Autónomas y de las Entidades locales, de acuerdo con lo que dispongan sus respectivos Estatutos de Autonomía y sus leyes de desarrollo, y la legislación de régimen local.
+4. La Administración General del Estado, las Confederaciones Hidrográficas, las Comunidades Autónomas y las Entidades locales podrán celebrar convenios para la realización y financiación conjunta de obras hidráulicas de su competencia.
+Se modifica el apartado 1 por la disposición final 2.11 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df-2
+
+### Artículo 125
+
+Artículo 125. Encomienda de gestión. Concesiones sin competencia de proyectos.
+1. El Ministerio de Medio Ambiente y las Confederaciones Hidrográficas, en el ámbito de sus competencias, podrán encomendar a las comunidades de usuarios, o juntas centrales de usuarios, la explotación y el mantenimiento de las obras hidráulicas que les afecten. A tal efecto, se suscribirá un convenio entre la Administración y las comunidades o juntas centrales de usuarios en el que se determinarán las condiciones de la encomienda de gestión y, en particular, su régimen económico-financiero.
+2. Asimismo, las comunidades de usuarios y las juntas centrales de usuarios podrán ser beneficiarios directos, sin concurrencia, de concesiones de construcción o explotación de las obras hidráulicas que les afecten. Un convenio específico entre la Administración General del Estado y los usuarios regulará cada obra y fijará, en su caso, las ayudas públicas asociadas a cada operación.
+3. El título V del libro II de la Ley de Contratos de las Administraciones Públicas se aplicará en lo que no se oponga a lo previsto por los apartados anteriores de este artículo
+Se añade un apartado 3 por la disposición adicional 11.1 de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463
+
+### Artículo 126
+
+Artículo 126. Gastos de conservación y funcionamiento.
+A los efectos previstos en el párrafo a) del apartado 3 del artículo 114, tendrán la consideración de gastos de funcionamiento y conservación las cantidades que se obliguen a satisfacer la Administración General del Estado o las Confederaciones Hidrográficas, en virtud de convenio suscrito con un tercero a quien se haya atribuido la gestión de la construcción o explotación de una obra hidráulica de interés general, o sea concesionario de las mismas.
+
+### Artículo 127
+
+Artículo 127. Prerrogativas de la obra hidráulica de interés general.
+1. Las obras hidráulicas de interés general y las obras y actuaciones hidráulicas de ámbito supramunicipal, incluidas en la planificación hidrológica, y que no agoten su funcionalidad en el término municipal en donde se ubiquen, no estarán sujetas a licencia ni a cualquier acto de control preventivo municipal a los que se refiere el párrafo b) del apartado 1 del artículo 84 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local.
+2. Los órganos urbanísticos competentes no podrán suspender la ejecución de las obras a las que se refiere el párrafo primero del apartado anterior, siempre que se haya cumplido el trámite de informe previo, esté debidamente aprobado el proyecto técnico por el órgano competente, las obras se ajusten a dicho proyecto o a sus modificaciones y se haya hecho la comunicación a que se refiere el apartado siguiente.
+El informe previo será emitido, a petición del Ministerio de Medio Ambiente o sus organismos autónomos, por las entidades locales afectadas por las obras. El informe deberá pronunciarse exclusivamente sobre aspectos relacionados con el planeamiento urbanístico y se entenderá favorable si no se emite y notifica en el plazo de un mes.
+3. El Ministerio de Medio Ambiente deberá comunicar a las Entidades locales afectadas la aprobación de los proyectos de las obras públicas hidráulicas a que se refiere el apartado 1, a fin de que se inicie, en su caso, el procedimiento de modificación del planeamiento urbanístico municipal para adaptarlo a la implantación de las nuevas infraestructuras o instalaciones, de acuerdo con la legislación urbanística que resulte aplicable en función de la ubicación de la obra.
+Se añade un párrafo al apartado 2, por el art. 122 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Artículo 128
+
+Artículo 128. Coordinación de competencias concurrentes.
+1. La Administración General del Estado, las Confederaciones Hidrográficas, las Comunidades Autónomas y las Entidades locales tienen los deberes de recíproca coordinación de sus competencias concurrentes sobre el medio hídrico con incidencia en el modelo de ordenación territorial, en la disponibilidad, calidad y protección de aguas y, en general, del dominio público hidráulico, así como los deberes de información y colaboración mutua en relación con las iniciativas o proyectos que promuevan.
+2. La coordinación y cooperación a la que se refiere el apartado anterior se efectuará a través de los procedimientos establecidos en la Ley 12/1983, de 14 de octubre, del Proceso Autonómico ; en la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local, y en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como de los específicos que se hayan previsto en los convenios celebrados entre las Administraciones afectadas.
+3. Respecto a las cuencas intercomunitarias, la aprobación, modificación o revisión de los instrumentos de ordenación territorial y planificación urbanística que afecten directamente a los terrenos previstos para los proyectos, obras e infraestructuras hidráulicas de interés general contemplados en los Planes Hidrológicos de cuenca o en el Plan Hidrológico Nacional requerirán, antes de su aprobación inicial, el informe vinculante del Ministerio de Medio Ambiente, que versará en exclusiva sobre la relación entre tales obras y la protección y utilización del dominio público hidráulico y sin perjuicio de lo que prevean otras leyes aplicables por razones sectoriales o medioambientales. Este informe se entenderá positivo si no se emite y notifica en el plazo de dos meses.
+4. Los terrenos reservados en los planes hidrológicos para la realización de obras hidráulicas de interés general, así como los que sean estrictamente necesarios para su posible ampliación, tendrán la clasificación y calificación que resulte de la legislación urbanística aplicable y sea adecuada para garantizar y preservar la funcionalidad de dichas obras, la protección del dominio público hidráulico y su compatibilidad con los usos del agua y las demandas medioambientales. Los instrumentos generales de ordenación y planeamiento urbanístico deberán recoger dicha clasificación y calificación.
+
+### Artículo 129
+
+Artículo 129. Evaluación de impacto ambiental.
+Los proyectos de obras hidráulicas de interés general se someterán al procedimiento de evaluación de impacto ambiental en los casos establecidos en la legislación de evaluación de impacto ambiental.
+
+### Artículo 130
+
+Artículo 130. Declaración de utilidad pública y necesidad de ocupación.
+1. La aprobación de los proyectos de obras hidráulicas de interés general llevará implícita la declaración de utilidad pública y la necesidad de ocupación de los bienes y adquisición de derechos, a los fines de expropiación forzosa y ocupación temporal, de acuerdo con lo dispuesto en la legislación correspondiente.
+2. La declaración de utilidad pública y necesidad de ocupación se referirá también a los bienes y derechos comprendidos en el replanteo del proyecto y en las modificaciones de obras que puedan aprobarse posteriormente.
+3. La propuesta de declaración de urgencia para la ocupación de bienes y derechos afectados por obras hidráulicas de interés general corresponderá al órgano competente del Ministerio de Medio Ambiente.
+4. Cuando la realización de una obra hidráulica de interés general afecte de forma singular al equilibrio socioeconómico del término municipal en que se ubique, se elaborará y ejecutará un proyecto de restitución territorial para compensar tal afección.
+
+### Artículo 131
+
+Artículo 131. Declaración de una obra hidráulica como de interés general.
+1. La iniciativa para la declaración de una obra hidráulica como de interés general, conforme a los apartados 2 y 3 del artículo 46 de la presente Ley, corresponderá al Ministerio de Medio Ambiente, de oficio o a instancia de quienes tuvieran interés en ello, sin perjuicio de lo dispuesto en los párrafos a) y b) del apartado 3 del artículo 46. Podrán instar la iniciación del expediente de declaración de una obra hidráulica como de interés general, en el ámbito de sus competencias:
+a) El resto de los Departamentos ministeriales de la Administración General del Estado.
+b) Las Comunidades Autónomas y las Entidades locales.
+c) Las comunidades de usuarios u organizaciones representativas de los mismos.
+En todo caso, serán oídos en el correspondiente expediente las Comunidades Autónomas y Entidades locales afectadas.
+2. Cuando se trate de obras hidráulicas que tengan como finalidad principal los regadíos u otros usos agrarios, el Ministerio de Agricultura, Pesca y Alimentación informará preceptivamente sobre las materias propias de su competencia, en especial sobre la adecuación del proyecto a lo establecido en la planificación nacional de regadíos vigente.
+3. Para declarar una obra hidráulica de interés general, deberá ponderarse la adecuación del proyecto a las exigencias medioambientales, teniendo especialmente en cuenta la compatibilidad de los usos posibles y el mantenimiento de la calidad de las aguas.
+4. El expediente de declaración de una obra hidráulica como de interés general deberá incluir una propuesta de financiación de la construcción y explotación de la obra, así como un estudio sobre los cánones y tarifas a satisfacer por los beneficiarios. A estos efectos, dicho expediente será informado por el Ministerio de Hacienda.
+
+## CAPÍTULO II
+
+De las sociedades estatales
+
+### Artículo 132
+
+Artículo 132. Régimen jurídico de las sociedades estatales.
+1. Se autoriza al Consejo de Ministros a constituir una o varias sociedades estatales de las previstas por el artículo 6.1.ª) del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre, cuyo objeto social sea la construcción, explotación o ejecución de las obras públicas hidráulicas que al efecto determine el propio Consejo de Ministros.
+Asimismo, dichas sociedades podrán tener por objeto la adquisición de obras hidraúlicas, públicas o privadas, previo cumplimiento de los trámites y requisitos establecidos por la normativa vigente, y en especial el de desafectación del demanio público cuando corresponda, para su integración a sistemas hidráulicos con el fin de conseguir un mejor aprovechamiento de los recursos hídricos y una gestión más eficaz de los mismos.
+2. Las relaciones entre la Administración General del Estado y las sociedades estatales a las que se refiere el apartado anterior se regularán mediante los correspondientes convenios, previo informe favorable del Ministerio de Economía, que habrán de ser autorizados por el Consejo de Ministros y en los que se preverán, al menos, los siguientes extremos:
+a) El régimen de construcción o explotación de las obras públicas hidráulicas de que se trate.
+b) Las potestades que tiene la Administración General del Estado en relación con la dirección, inspección, control y recepción de las obras, cuya titularidad corresponderá en todo caso a la misma.
+c) Las aportaciones económicas que haya de realizar la Administración General del Estado a la sociedad estatal, a cuyo efecto aquélla podrá adquirir los compromisos plurianuales de gasto que resulten pertinentes, sin sujeción a las limitaciones establecidas por el artículo 61 del texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto legislativo 1091/1988, de 23 de septiembre. Lo dispuesto en esta letra se entiende, en todo caso, sin perjuicio de las aportaciones que la sociedad estatal pueda recibir de otros sujetos públicos o privados, en virtud, en su caso, de la conclusión de los correspondientes convenios.
+d) Las garantías que hayan de establecerse a favor de las entidades que financien la construcción o explotación de las obras públicas hidráulicas.
+3. En los contratos que las sociedades estatales a las que se refiere este artículo concluyan con terceros para la construcción de las obras públicas hidráulicas se observarán las reglas siguientes:
+1.º Se aplicarán las prescripciones del texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto legislativo 2/2000, de 16 de junio, y de las disposiciones que la desarrollen, en lo concerniente a la capacidad de las empresas, publicidad, procedimientos de licitación y formas de adjudicación.
+2.º Se incluirán las cláusulas que resulten pertinentes para la adecuada defensa por dichas sociedades estatales y por la Administración General del Estado de los intereses públicos afectados.
+3.º El orden jurisdiccional contencioso-administrativo conocerá de las cuestiones que se susciten en relación con la preparación y la adjudicación.
+4. Las sociedades estatales a que se refiere este artículo tendrán la condición de beneficiarias por causa de utilidad pública en los procedimientos de expropiación forzosa que se desarrollen con ocasión de la construcción, adquisición o explotación de las obras públicas hidráulicas que lleven a cabo en el marco del convenio a que se refiere el apartado 2.
+Se añade un apartado 4 por la disposición final 1.17 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+ Se añade un párrafo al apartado 1 por el art. 91 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+## CAPÍTULO III
+
+De los contratos de concesión de obras hidráulicas
+Se modifica por la disposición adicional 11.2 de la Ley 13/2003 de 23 de mayo. Ref. BOE-A-2003-10463.
+
+### Artículo 133
+
+Artículo 133. Régimen jurídico.
+El régimen jurídico del contrato de concesión de obras hidráulicas será el establecido en el título V del libro II de la Ley de Contratos de las Administraciones Públicas, sin perjuicio de las peculiaridades que se establecen en los artículos siguientes.
+Se modifica por la disposición adicional 11.2 de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463.
+
+### Artículo 134
+
+Artículo 134. Plazos.
+No serán de aplicación los plazos fijados en el artículo 263 de la Ley de Contratos de las Administraciones Públicas, estableciéndose los siguientes:
+a) El plazo de la concesión para la construcción y explotación o solamente la explotación de las obras hidráulicas será el previsto en cada pliego de cláusulas administrativas particulares para lo que se tendrá en cuenta la naturaleza de las obras y la inversión a realizar, sin que pueda exceder en ningún caso de 75 años.
+b) Los plazos fijados en el pliego podrán ser prorrogados hasta el límite establecido en el apartado anterior y reducidos de acuerdo con lo previsto en el título V del libro II de la Ley de Contratos de las Administraciones Públicas.
+Se modifica por la disposición adicional 11.2 de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463.
+
+### Artículo 135
+
+Artículo 135. Pliego de condiciones administrativas particulares.
+La Administración concedente podrá incluir en los pliegos de cláusulas administrativas particulares, además de los aspectos previstos en el artículo 230 de la Ley de Contratos de las Administraciones Públicas, los siguientes:
+a) La obligación al licitador seleccionado de incorporar a la sociedad o entidad que al efecto se constituya las comunidades de usuarios del agua relacionadas con la obra objeto de la concesión.
+b) La determinación de los mecanismos adecuados para la recuperación de las aportaciones que, en su caso, haya realizado.
+Se modifica por la disposición adicional 11.2 de la Ley 13/2003, de 23 de mayo. Ref. BOE-A-2003-10463.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Lagos, lagunas y charcas inscritas en el Registro de la Propiedad.
+Los lagos, lagunas y charcas, sobre los que existan inscripciones expresas en el Registro de la Propiedad, conservarán el carácter dominical que ostentaren en el momento de entrar en vigor la Ley 29/1985, de 2 de agosto, de Aguas.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Administración hidráulica de las cuencas internas de una Comunidad Autónoma.
+Las funciones que, de acuerdo con esta Ley, ejercen los Organismos de cuenca en aquellas que excedan del ámbito territorial de una Comunidad Autónoma, corresponderán a las Administraciones hidráulicas de aquellas Comunidades que en su propio territorio y en virtud de sus estatutos de autonomía, ejerzan competencias sobre el dominio público hidráulico y se trate de cuencas hidrográficas comprendidas íntegramente dentro de su ámbito territorial.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Estadísticas sobre la evolución de las aguas continentales.
+(Suprimida)
+Se suprime por el art. 129.38 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Actuaciones a realizar por el Instituto Geológico y Minero de España.
+Sin perjuicio de las competencias en la gestión del agua establecidas en la presente Ley, el Instituto Geológico y Minero de España formulará y desarrollará planes de investigación tendentes al mejor conocimiento y protección de los acuíferos subterráneos, y prestará asesoramiento técnico a las distintas Administraciones públicas en materias relacionadas con las aguas subterráneas.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Competencias de las Comunidades Autónomas en materia de ordenación del territorio.
+Las posibles limitaciones en el uso de suelo y reservas de terreno, previstas en los artículos 6, 11, 20, 1.d), 43 y 96 de esta Ley, se aplicarán sin menoscabo de las competencias que las Comunidades Autónomas puedan ejercer en materia de ordenación del territorio.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Plazos en expedientes sobre dominio público hidráulico.
+A los efectos previstos en el artículo 42.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la redacción dada al mismo por la Ley 4/1999, de modificación de la anterior, los plazos para resolver y notificar la resolución en los procedimientos regulados en esta Ley serán los siguientes:
+1.º Procedimientos relativos a concesiones del dominio público hidráulico, excepto los previstos en el artículo 68, dieciocho meses.
+2.º Procedimientos de autorización de usos del dominio público hidráulico, seis meses.
+3.º Procedimientos sancionadores y otras actuaciones referentes al dominio público hidráulico, un año.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Acuíferos sobreexplotados.
+1. (Derogado)
+2. Los derechos de aprovechamiento del artículo 54.2 y los derechos sobre aguas privadas a que se refiere la disposición transitoria tercera de esta Ley estarán sujetos a las restricciones derivadas del Plan de ordenación para la recuperación del acuífero o las limitaciones que, en su caso, se establezcan en aplicación del artículo 58, en los mismos términos previstos para los concesionarios de aguas, sin derecho a indemnización.
+Se deroga el apartado 1 por el art. 1.11 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Téngase en cuenta que ya había sido derogado por el Real Decreto-ley 17/2012, de 4 de mayo.
+ Se deroga el apartado 1 por el art. 1.8 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Obras de mejora de infraestructura hidráulica del Delta del Ebro.
+Una vez finalizado el Plan de obras de mejora de infraestructura hidráulica del Delta del Ebro, sin perjuicio de las competencias de la Administración hidráulica del Estado, la Administración hidráulica de Cataluña, en la parte de la cuenca del Ebro situada en el territorio de dicha Comunidad Autónoma, ejecutará las obras que permitan un mejor aprovechamiento de los recursos de la misma previstas en la Ley 18/1981, de 1 de julio, de actuaciones en materia de aguas en Tarragona, con cargo al porcentaje del canon ingresado que se determine de forma definitiva en el Plan Hidrológico Nacional.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Régimen aplicable a la Comunidad Autónoma de Canarias.
+1. Esta Ley no producirá efectos derogatorios respecto de la legislación que actualmente se aplica en el territorio de la Comunidad Autónoma de Canarias, que subsistirá en tanto ésta no dicte otras normas. A partir de la entrada en vigor de esta Ley, los artículos que definen el dominio público estatal y aquellos que supongan una modificación o derogación de las disposiciones contenidas en el Código Civil, serán de aplicación en Canarias, de acuerdo con la singularidad que le confiere su derecho especial.
+2. Las actuaciones en obras de interés general en Canarias comprenderán la desalación, reutilización o cualquier otro tipo de obra hidráulica, que por su dimensión o interés público o social, suponga una iniciativa esencial para el mantenimiento de adecuados niveles de disponibilidad del agua en las diferentes islas. Dichas actuaciones serán propuestas por la Administración de la Comunidad Autónoma y su ejecución convenida por la Administración General del Estado.
+Redactada conforme a la corrección de errores publicada en el BOE núm. 287, de 30 de noviembre de 2001. Ref. BOE-A-2001-22362.
+
+### Disposición adicional décima
+
+Disposición adicional décima. Vertidos a las aguas continentales de cuencas intercomunitarias.
+La autorización de vertidos a las aguas continentales de cuencas intercomunitarias de las actividades incluidas en el anejo 1 de la Ley de prevención y control integrados de la contaminación se incluirá en la autorización ambiental integrada regulada en la mencionada Ley, a cuyos efectos el pronunciamiento del organismo de cuenca sobre el otorgamiento de dicha autorización se sustituirá por los informes vinculantes regulados en la citada Ley y en su normativa de desarrollo.
+Se añade por la disposición final 2.2 de la Ley 16/2002, de 1 de julio. Ref. BOE-A-2002-12995.
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Plazos para alcanzar los objetivos medioambientales.
+1. En relación con los objetivos medioambientales del artículo 92 bis, deberán satisfacerse los plazos siguientes:
+a) Los objetivos deberán alcanzarse antes de 31 de diciembre de 2015, con excepción del objetivo previsto en el apartado 1.a).a') del artículo 92 bis que es exigible desde la entrada en vigor de esta Ley.
+b) El plazo para la consecución de los objetivos podrá prorrogarse respecto de una determinada masa de agua si, además de no producirse un nuevo deterioro de su estado, se da alguna de las siguientes circunstancias:
+a') Cuando las mejoras necesarias para obtener el objetivo sólo puedan lograrse, debido a las posibilidades técnicas, en un plazo que exceda del establecido.
+b') Cuando el cumplimiento del plazo establecido diese lugar a un coste desproporcionadamente alto.
+c') Cuando las condiciones naturales no permitan una mejora del estado en el plazo señalado.
+c) Las prórrogas del plazo establecido, su justificación y las medidas necesarias para la consecución de los objetivos medioambientales relativos a las masas de agua se incluirán en el plan hidrológico de cuenca, sin que puedan exceder la fecha de 31 de diciembre de 2027. Se exceptuará de este plazo el supuesto en el que las condiciones naturales impidan lograr los objetivos.
+2. En relación con los programas de medidas del artículo 92 quáter, deberán satisfacerse los plazos siguientes:
+a) Deberán estar aprobados antes de 31 de diciembre de 2009, requiriéndose su actualización en el año 2015 y su revisión posterior cada seis años.
+b) Todas las medidas incluidas en el programa deberán estar operativas en el año 2012.
+3. Los programas de seguimiento deberán estar operativos el 31 de diciembre de 2006.
+4. Los análisis y estudios previos a los que se refiere el artículo 42.1.f) deberán estar terminados el 31 de diciembre de 2004, debiendo actualizarse antes de 31 de diciembre de 2013, y posteriormente cada seis años.
+5. El Registro de zonas protegidas a que se refiere el artículo 99 bis deberá estar completado el 31 de diciembre de 2004.
+6. La revisión de los planes hidrológicos de cuenca deberá entrar en vigor el 31 de diciembre de 2009, debiendo desde esa fecha revisarse cada seis años.
+7. La política de incentivos para el uso eficiente del agua, así como la contribución económica adecuada de los distintos usos, deberá ser efectiva a más tardar el 31 de diciembre de 2010.
+Se añade por el art. 129.39 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Plazos para la participación pública.
+1. El organismo de cuenca o administración hidráulica competente de la comunidad autónoma publicarán y pondrán a disposición del público, en los plazos que en esta disposición se establecen, los siguientes documentos:
+a) Tres años antes de iniciarse el procedimiento para la aprobación o revisión del correspondiente plan hidrológico, un calendario y un programa de trabajo sobre la elaboración del plan, con indicación de las fórmulas de consulta que se adoptarán en cada caso.
+b) Dos años antes del inicio del procedimiento a que se refiere el párrafo anterior, un esquema provisional de los temas importantes que se plantean en la cuenca hidrográfica en materia de gestión de las aguas.
+c) Un año antes de iniciar el procedimiento, los ejemplares del proyecto de plan hidrológico de cuenca.
+2. El organismo de cuenca o administración hidráulica competente de la comunidad autónoma concederán un plazo mínimo de seis meses para la presentación de observaciones por escrito sobre los documentos relacionados en el apartado 1 de esta disposición.
+3. Previa solicitud y en los términos que se establezca reglamentariamente, se permitirá el acceso a los documentos y a la información de referencia utilizados para elaborar el plan hidrológico de cuenca.
+Se añade por el art. 129.40 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Regulaciones internacionales.
+El régimen de protección de las aguas establecido en esta ley se aplicará sin perjuicio de lo que dispongan las leyes reguladoras de las relaciones internacionales, los acuerdos o los convenios suscritos con otros países.
+Se añade por el art. 129.41 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
+
+### Disposición adicional decimocuarta
+
+Disposición adicional decimocuarta. Cesión de derechos y transformación de aprovechamientos por disposición legal en concesiones, en el ámbito del Alto Guadiana.
+1. Los titulares de aprovechamientos de aguas subterráneas, inscritos en el Registro de Aguas, en las secciones A y C, o anotados en el Catálogo de Aguas privadas, en el ámbito definido por el Plan Especial del Alto Guadiana, aprobado por Real Decreto 13/2008, de 11 de enero y sujeto a la vigencia del mismo, podrán transmitirlos, de forma irreversible y en su totalidad a otros titulares de aprovechamientos, que serán adquiridos mediante la correspondiente concesión otorgada por el Organismo de cuenca de conformidad con el procedimiento establecido en el mencionado Real Decreto 13/2008, de 11 de enero, y sujeta a las siguientes prescripciones:
+a) El volumen de agua concedido será un porcentaje del volumen objeto de transmisión. Ese porcentaje se determinará en atención a las condiciones técnicas y ambientales que concurran y, en su caso, vinculado al programa de actuación para la recuperación del buen estado de la masa de agua.
+b) Cuando el uso al que se destine el agua sea el regadío, no se podrá incrementar la superficie de riego que ya tuviera reconocida el cedente.
+c) Se otorgarán por un plazo que finalizará el 31 de diciembre de 2035, teniendo preferencia en ese momento el concesionario para obtener una nueva concesión.
+d) En el procedimiento se prescindirá del trámite de competencia de proyectos.
+e) El plazo para la tramitación del expediente de solicitud de concesión será de 9 meses.
+2. Excepcionalmente podrá autorizarse a los titulares de concesiones de aguas subterráneas que tengan sus derechos inscritos en la sección A del Registro de Aguas, la transmisión irreversible de una parte de los derechos de los que son titulares a otros titulares de aprovechamientos, siempre que se declare de manera expresa el volumen de agua al que se renuncia y se identifique de forma inequívoca la extensión de tierra que se dejará de regar. Esta transmisión se realizará mediante la modificación de características de la concesión cedente y el otorgamiento de concesión para el cesionario, expedientes que se tramitarán obligatoriamente de forma conjunta.
+3. La cesión de derechos en los términos establecidos en los dos apartados anteriores, podrá efectuarse sin infraestructuras de conducción cuando el cedente y el cesionario pertenezcan a la misma masa de agua subterránea.
+4. De forma excepcional podrán otorgarse nuevas concesiones a titulares de explotaciones agropecuarias, que cumplan las condiciones establecidas en el programa de actuación, si quien las solicita adquiere de manera definitiva, según lo dispuesto en el apartado 1 o en el apartado 2 de esta disposición adicional, el volumen total precisado más el porcentaje que fije la Confederación Hidrográfica del Guadiana.
+5. Esta disposición no se aplicará a los titulares de una concesión otorgada en virtud de lo dispuesto en el artículo 5 del anexo 1 del Real Decreto 13/2008, de 11 de enero, por el que se aprueba el Plan Especial del Alto Guadiana, cuando tengan la condición de cedentes.
+6. Los titulares de aprovechamientos por disposición legal situados en el ámbito definido por el Plan Especial del Alto Guadiana, aprobado por Real Decreto 13/2008, de 11 de enero, que a la fecha de entrada en vigor de esta disposición adicional estén inscritos en la sección B del Registro de Aguas, o que hayan solicitado, de acuerdo con el artículo 54.2 de esta Ley, la preceptiva autorización siempre que les sea finalmente concedida, podrán solicitar su transformación en una concesión de aguas públicas que se otorgará con el volumen máximo anual reconocido y para el mismo o superior uso.
+La solicitud se someterá a información pública en el ámbito que determine la Confederación Hidrográfica del Guadiana, cuando se estime que pueda afectar derechos de terceros y, siempre en el Ayuntamiento en cuyo término municipal radique el predio. Se prescindirá del trámite de competencia de proyectos y se exigirá el informe de compatibilidad con el Plan Hidrológico y el de la Administración competente en función del uso a que se destine.
+En los predios en los que el aprovechamiento por disposición legal se haya transformado en concesión, no podrá realizarse ningún aprovechamiento al amparo del artículo 54.2 de esta Ley.
+Se modifica por el art. 1.13 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se modifica por el art. 1.9 y 10 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+ Se añade por la disposición final 1 del Real Decreto-ley 12/2011, de 26 de agosto. Ref. BOE-A-2011-14222.
+ Téngase en cuenta que se declara la inconstitucionalidad y nulidad de la disposición final 1 del Real Decreto-ley 12/2011 por Sentencia del TC 196/2015, de 24 de septiembre. Ref. BOE-A-2015-11710.
+
+### Disposición adicional decimoquinta
+
+Disposición adicional decimoquinta. Referencias a los acuíferos sobreexplotados.
+Las referencias en el articulado de esta Ley a los acuíferos sobreexplotados se entenderán hechas a las masas de agua subterránea en riesgo de no alcanzar el buen estado cuantitativo o químico.
+Se añade por el art. 1.14 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se añade por el art. 1.11 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+
+### Disposición adicional decimosexta
+
+Disposición adicional decimosexta. Concesiones de agua para transición justa.
+Cuando quede extinguida una concesión al amparo de lo previsto en el texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, debido al cierre de instalaciones de energía térmica de carbón o termonuclear, se podrá decidir el otorgamiento de una nueva concesión para el uso privativo de las aguas a nuevas iniciativas y proyectos en el área geográfica donde se encontraba la instalación. Para el otorgamiento se ponderarán criterios económicos, sociales y medioambientales. A estos efectos, los usos del agua que se prevean en tales iniciativas y proyectos prevalecerán sobre el orden de preferencia establecido en los planes hidrológicos de cuenca o, en su defecto, en el artículo 60 del texto refundido de la Ley de Aguas, con la excepción del uso para abastecimiento de población, que será siempre prioritario.
+Se añade por la disposición final 1 del Real Decreto-ley 17/2019, de 22 de noviembre. Ref. BOE-A-2019-16862#df
+
+### Disposición adicional decimoséptima
+
+Disposición adicional decimoséptima. Instalación de generación eléctrica solar fotovoltaica sobre canales u otras obras hidráulicas de titularidad de la Administración General del Estado o de los Organismos de cuenca.
+Las instalaciones de generación eléctrica solar fotovoltaica sobre canales u otras obras hidráulicas de titularidad de la Administración General del Estado o de los Organismos de cuenca requerirán previamente el otorgamiento de concesión demanial, de acuerdo con lo establecido en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+Para el otorgamiento de dichas concesiones se tendrán en cuenta las exigencias establecidas en el artículo 77 bis de esta ley y concordantes del Reglamento del Dominio Público Hidráulico.
+No quedarán sometidas al trámite de concurrencia competitiva las solicitudes de instalaciones de generación eléctrica solar fotovoltaica presentadas por comunidades de usuarios y juntas centrales de usuarios que tengan encomendadas, por convenio, la explotación y mantenimiento de canales u otras obras hidráulicas de titularidad de la Administración General del Estado o de los Organismos de cuenca que les afecten. Estas solicitudes no podrán implicar un aumento de la capacidad de evacuación del nudo de la Red Eléctrica correspondiente.
+Los titulares de estas instalaciones quedarán sujetos a las exacciones previstas en el artículo 114 del texto refundido de la Ley de Aguas como beneficiarios de las obras de regulación o de las obras específicas financiadas total o parcialmente por el Estado.
+Se añade por la disposición final 6.4 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df-6
+
+### Disposición adicional decimoctava
+
+Disposición adicional decimoctava. Centrales Hidroeléctricas Reversibles con concesión a la entrada en vigor del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía.
+Las concesiones de centrales hidráulicas reversibles previamente otorgadas a la entrada en vigor del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía, serán consideradas, en cuanto a su uso, instalaciones de almacenamiento hidráulico de energía. La inscripción del Registro de Aguas será modificada de oficio por el Organismo de cuenca.
+Para aquellos casos en los que se pretenda una repotenciación de alguna de estas centrales hidroeléctricas reversibles ya existentes, los titulares de las concesiones podrán obtener, por solo una vez, una nueva concesión con el mismo uso y destino, debiendo formular la solicitud con anterioridad a los últimos 15 años de vigencia de la actual concesión. La nueva concesión sólo podrá ser otorgada por un plazo suficiente para amortizar la inversión realizada, no pudiendo superar en ningún caso, los 50 años. En caso de producirse la solicitud, se tramitará el correspondiente expediente excluyendo el trámite de proyectos en competencia.
+Se añade por el art. 61.4 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a6-3
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Titulares de derechos sobre aguas públicas derivados de la Ley de 13 de junio de 1879.
+1. Quienes, conforme a la normativa anterior a la Ley 29/1985, de 2 de agosto, de Aguas, fueran titulares de aprovechamiento de aguas públicas en virtud de concesión administrativa o prescripción acreditada, así como de autorizaciones de ocupación o utilización del dominio público estatal, seguirán disfrutando de sus derechos, de acuerdo con el contenido de sus títulos administrativos y lo que la propia Ley 29/1985 establece, durante un plazo máximo de setenta y cinco años a partir de la entrada en vigor de la misma, de no fijarse en su título otro menor.
+2. Los aprovechamientos de aguas definidas como públicas según la normativa anterior a la Ley 29/1985, de 2 de agosto, de Aguas, quedarán legalizados mediante inscripción en el Registro de Aguas, siempre que sus titulares hayan acreditado el derecho a la utilización del recurso de conformidad con lo establecido en la disposición transitoria primera 2 de esa ley.
+El derecho a la utilización del recurso se prolongará por un plazo de setenta y cinco años, contados desde la entrada en vigor de dicha Ley, sin perjuicio de que la Administración ajuste el caudal del aprovechamiento a las necesidades reales.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Titulares de derechos sobre aguas privadas procedentes de manantiales, derivados de la Ley de 13 de junio de 1879.
+1. A los titulares de algún derecho conforme a la Ley de 13 de junio de 1879, sobre aguas privadas procedentes de manantiales que vinieran utilizándose en todo o en parte y hubieran obtenido su inclusión en el Registro de Aguas como aprovechamiento temporal de aguas privadas, les será respetado dicho régimen por un plazo máximo de cincuenta años, a contar desde el 1 de enero de 1986. Quienes, al término de dicho plazo, se encontraran utilizando los caudales, en virtud de título legítimo, tendrán derecho preferente para la obtención de la correspondiente concesión administrativa de conformidad con lo previsto en la Ley 29/1985, de 2 de agosto, de Aguas.
+2. Si los interesados no hubiesen acreditado sus derechos con arreglo a la disposición transitoria segunda 1, mantendrán su titularidad en la misma forma que hasta ahora, pero no podrán gozar de la protección administrativa que se deriva de la inscripción en el Registro de Aguas.
+3. En cualquiera de los supuestos anteriores, el incremento de los caudales totales utilizados, así como la modificación de las condiciones o régimen del aprovechamiento, requerirán la oportuna concesión que ampare la totalidad de la explotación según lo establecido en la presente Ley.
+4. En todo caso, a los aprovechamientos de aguas a que se refiere esta disposición transitoria les serán aplicables las normas que regulan la sobreexplotación de acuíferos, los usos del agua en caso de sequía grave o de urgente necesidad y, en general, las relativas a limitaciones del uso del dominio público hidráulico.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Titulares de derechos sobre aguas privadas procedentes de pozos o galerías, derivados de la Ley de 13 de junio de 1879.
+1. Los aprovechamientos temporales de aguas privadas procedentes de pozos o galerías, inscritos en el Registro de Aguas al amparo de la disposición transitoria tercera 1 de la Ley 29/1985, de 2 de agosto, de Aguas, serán respetados por la Administración, durante un plazo de cincuenta años a contar desde el 1 de enero de 1986, en lo que se refiere al régimen de explotación de los caudales, y derecho preferente para la obtención de la correspondiente concesión administrativa de conformidad con lo previsto en la citada Ley.
+2. Si los interesados no hubiesen acreditado sus derechos, de conformidad con la disposición transitoria tercera 1, mantendrán su titularidad en la misma forma que hasta ahora, pero no podrán gozar de la protección administrativa que se deriva de la inscripción en el Registro de Aguas.
+3. En cualquiera de los supuestos anteriores, el incremento de los caudales totales utilizados, así como la modificación de las condiciones o régimen de aprovechamiento, requerirán la oportuna concesión que ampare la totalidad de la explotación, según lo establecido en la presente Ley.
+4. En todo caso, a los aprovechamientos de aguas privadas a que se refiere esta disposición transitoria, les serán aplicables las normas que regulan la sobreexplotación de acuíferos, los usos del agua en caso de sequía grave o de urgente necesidad y, en general, las relativas a las limitaciones del uso del dominio público hidráulico.
+
+### Disposición transitoria tercera bis
+
+Disposición transitoria tercera bis. Disposiciones comunes a la aplicación del apartado tercero de las disposiciones transitorias segunda y tercera.
+1. A los efectos de aplicación del apartado tercero de las disposiciones transitoria segunda y tercera, se considerará modificación de las condiciones o del régimen de aprovechamiento, entre otras, las actuaciones que supongan la variación de la profundidad, diámetro o localización del pozo, así como cualquier cambio en el uso, ubicación o variación de superficie sobre la que se aplica el recurso en el caso de aprovechamientos de regadío.
+La Dirección General del Agua dictará unas instrucciones en las que se establezcan los criterios técnicos para la aplicación uniforme de lo establecido en este apartado.
+2. La concesión a que hacen referencia las disposiciones transitorias segunda y tercera en sus apartados terceros se otorgará, a instancia de parte, sin procedimiento de competencia de proyectos, exigirá el informe de compatibilidad con el Plan Hidrológico y el de la Administración competente en función del uso a que se destine, se someterá a información pública y en caso de existir Comunidad de Usuarios, se solicitará informe a la misma.
+3. La concesión a otorgar tendrá las siguientes características:
+a) El plazo de la concesión no será inferior al establecido en su inscripción en la sección C del Registro de Aguas, teniendo preferencia en ese momento el concesionario para obtener una nueva concesión.
+b) Recogerá las características con que el aprovechamiento esté incluido en la sección C del Registro de Aguas de la cuenca, a excepción de las características objeto de modificación que hayan motivado el inicio del procedimiento, y previa comprobación de su adecuación a la realidad por parte del organismo de cuenca.
+4. En el caso de que la concesión se refiera a masas de agua subterránea declaradas en riesgo de no alcanzar los objetivos de buen estado a que se refiere el artículo 56, la concesión estará sometida a las limitaciones establecidas en el programa de actuación, o en su defecto, a las medidas cautelares relativas a la extracción o de protección de la calidad del agua subterránea que en su caso se establezcan.
+5. Cuando la modificación de las condiciones o régimen de aprovechamiento no haya sido comunicada por su titular al organismo de cuenca para su autorización, sin perjuicio de la aplicación del procedimiento sancionador previsto, el organismo de cuenca requerirá al interesado para que solicite y obtenga la correspondiente concesión.
+6. El otorgamiento de la concesión comportará la extinción simultánea del derecho sobre aguas privadas reconocido hasta ese momento.
+Se modifica por el art. 1.15 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se añade por el art. 1.12 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Registro de los aprovechamientos de aguas calificadas como privadas por la Ley de 1879.
+1. Los aprovechamientos de aguas calificadas como privadas por la Ley de 13 de junio de 1879 se podrán inscribir en el Registro de Aguas a petición de sus titulares legítimos y a los efectos previstos en las disposiciones transitorias segunda y tercera.
+2. Todos los aprovechamientos de aguas calificadas como privadas por la legislación anterior a la Ley 29/1985, de 2 de agosto, de Aguas, se declararán por sus titulares legítimos ante el Organismo de cuenca, en los plazos que se determinen reglamentariamente.
+El Organismo de cuenca, previo conocimiento de sus características y aforo, los incluirá en el Catálogo de aprovechamiento de aguas privadas de la cuenca.
+3. Los titulares de aprovechamiento de aguas continentales de cualquier clase, que no los hubieren inscrito en el Registro de Aguas o incluido en el Catálogo de cuenca, podrán ser objeto de multas coercitivas en la forma y cuantía que resulten de la aplicación de los criterios determinados en el artículo 117 de la presente Ley.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Eficacia jurídica de los Planes Hidrológicos de cuenca.
+Los Planes Hidrológicos de cuenca, aprobados antes de la promulgación del Plan Hidrológico Nacional, tendrán plena eficacia jurídica. Los titulares de concesiones administrativas otorgadas al amparo de dichos Planes deberán ser indemnizados, de no haber dispuesto otra cosa en sus respectivos condicionados, por los perjuicios que, en su caso, les irrogue la aplicación del Plan Hidrológico Nacional.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Revisión de características de aprovechamientos inscritos el Registro de Aguas Públicas.
+En el plazo y del modo que reglamentariamente se determine, los Organismos de cuenca revisarán las características de los aprovechamientos actualmente inscritos en el Registro de Aprovechamiento de Aguas Públicas, como trámite previo al traslado de sus asientos al Registro de Aguas del Organismo de cuenca correspondiente.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Actualización de valores a efectos del artículo 114 de esta Ley.
+Sólo computará, para la actualización de los valores de las inversiones de obras ya realizadas a que se refiere el artículo 114, el período que haya transcurrido desde la fecha de entrada en vigor de la Ley 29/1985, de 2 de agosto, de Aguas.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Canon de control de vertidos.
+1. El canon de control de vertidos entrará en vigor cuando se determinen reglamentariamente los parámetros establecidos en esta Ley para la cuantificación del mismo. Durante el ejercicio 2002 y hasta la entrada en vigor de la norma reglamentaria anterior se aplicará el canon de vertido establecido en el artículo 105 de la Ley 29/1985, de 2 de agosto, de Aguas.
+2. Lo previsto en el apartado 5 del artículo 113, de la presente Ley, para la gestión y recaudación del canon de control de vertidos en las cuencas intercomunitarias será de aplicación a las cuencas intracomunitarias sin traspaso de competencias.
+Se modifica el apartado 1 por la disposición adicional 24 de la Ley 53/2002, de 30 de diciembre.Ref. BOE-A-2002-25412.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Instalaciones de desalación de agua de mar y autorizaciones de vertido.
+1. Las instalaciones de desalación de agua de mar que se encontraran en funcionamiento de conformidad con la regulación establecida por el artículo 12 bis de la Ley 46/1999, de 14 de diciembre, podrán continuar operando con arreglo al contenido de sus títulos administrativos habilitantes, hasta la extinción del plazo de las correspondientes autorizaciones o concesiones. Transcurrido dicho plazo, los titulares de las instalaciones tendrán derecho preferente para la obtención de una concesión administrativa, de conformidad con lo establecido por esta Ley.
+2. Las personas físicas o jurídicas que se hubieran subrogado en la titularidad de una autorización de vertido de aguas al amparo del régimen establecido por el artículo 109 mantendrán los derechos y obligaciones estipulados en los contratos autorizados por el correspondiente Organismo de cuenca hasta la finalización del plazo de vigencia de la autorización de vertido.
+Transcurrido dicho plazo, la renovación de la autorización deberá solicitarse por quien vaya a ser su titular, sin posibilidad de subrogación.
+Se añade por la disposición transitoria 1.18 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Transformación de derechos privados en concesionales.
+1. Los titulares de aprovechamientos de aguas inscritos en el Catálogo de aguas privadas de la cuenca a que se refiere la disposición transitoria cuarta, podrán solicitar en cualquier momento la inscripción en el Registro de Aguas de la cuenca, para lo que instarán el otorgamiento de la correspondiente concesión.
+2. El trámite de otorgamiento de la concesión se llevará a cabo sin competencia de proyectos y exigirá, además del informe de compatibilidad con el Plan Hidrológico y el de la Administración competente en función del uso a que se destine, la práctica del trámite de información pública y, en caso de existir Comunidad de Usuarios, la solicitud de informe a la misma.
+3. La concesión a otorgar tendrá las siguientes características:
+a) El término de la concesión será el 31 de diciembre de 2035, teniendo preferencia en ese momento el concesionario para obtener una nueva concesión.
+b) Recogerá las características con que el aprovechamiento esté incluido en el Catálogo de Aguas privadas de la cuenca, singularmente en lo que se refiere al uso del agua, previa comprobación de la adecuación de estas características a la realidad por parte del Organismo de cuenca.
+4. No obstante cuando la solicitud de concesión se refiera a masas de agua subterránea declaradas en riesgo de no alcanzar un buen estado y que cuenten con el programa de actuación a que se refiere el artículo 56, la concesión estará sometida a las limitaciones establecidas en dicho programa. Cuando no exista un programa de actuación aprobado, no se podrá instar la transformación del derecho.
+Se modifica por el art. 1.16 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+ Se añade por el art. 1.13 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Modificación del orden de prioridad de usos establecido por los planes hidrológicos de la demarcación del tercer ciclo de planificación hidrológica.
+El uso de almacenamiento hidráulico de energía tendrá prioridad sobre el uso industrial para producción de energía eléctrica en el orden de prioridad de usos que específicamente hubiera dispuesto el plan hidrológico de la demarcación del tercer ciclo de planificación hidrológica.
+Se añade por el art. 61.5 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a6-3
+
+### Disposición final primera
+
+Disposición final primera. Supletoriedad del Código Civil.
+En todo lo que no esté expresamente regulado por esta Ley, se estará a lo dispuesto por el Código Civil.
+
+### Disposición final segunda
+
+Disposición final segunda. Desarrollo reglamentario.
+El Gobierno y el Ministro de Medio Ambiente, en el ámbito de sus respectivas competencias, podrán dictar las normas reglamentarias que requiera el desarrollo y aplicación de la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Vigencia de los estatutos y ordenanzas de las comunidades de usuarios.
+Los estatutos u ordenanzas de las comunidades de usuarios ya constituidas seguirán vigentes, sin perjuicio de que, en su caso, hayan de ser revisados para adaptarlos a los principios constitucionales de representatividad y estructura democrática.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+1. A propuesta de los Ministros de Medio Ambiente y Sanidad y Consumo, el Gobierno regulará los requisitos básicos de calidad de las aguas destinadas a consumo humano, incluyendo las medidas de protección de las captaciones, con la finalidad de garantizar la protección de la salud.
+2. A propuesta de los Ministros de Medio Ambiente, Sanidad y Consumo y Agricultura, Pesca y Alimentación, el Gobierno regulará los requisitos básicos de calidad de las aguas para riego y, en particular, el empleo de aguas residuales depuradas.
+Se añade por la disposición final 1.19 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622.
+
+### [Información relacionada]
+
+Información relacionada
+ Véase la regla excepcional y temporal sobre la cesión de derechos al uso privativo de aguas en las demarcaciones hidrográficas con declaración de sequía vigente establecida por la disposición adicional 2 del Real Decreto-ley 10/2017, de 9 de junio. Ref. BOE-A-2017-6578

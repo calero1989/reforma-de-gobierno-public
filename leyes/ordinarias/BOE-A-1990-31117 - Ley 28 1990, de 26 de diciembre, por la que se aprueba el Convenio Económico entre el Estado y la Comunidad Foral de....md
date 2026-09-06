@@ -1,0 +1,2382 @@
+# Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra.
+
+- Identificador BOE: `BOE-A-1990-31117`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1990-31117
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Se incorpora el texto íntegro del convenio económico publicado como anejo a la Ley 25/2003, de 15 de julio. Ref. BOE-A-2003-14188.
+Redactado conforme a las correcciones de errores de la Ley 25/2003, de 15 de julio publicadas en BOE núms. 264, de 4 de noviembre de 2003. Ref. BOE-A-2003-20255. y 296, de 11 de diciembre de 2003. Ref. BOE-A-2003-22718.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+En virtud de su régimen foral, amparado y respetado por la Constitución en su Disposición Adicional Primera, la actividad financiera y tributaria de Navarra se ha venido rigiendo por el sistema tradicional de Convenio Económico.
+El vigente Convenio Económico entre el Estado y la Comunidad Foral de Navarra, aprobado por el Decreto-ley 16/1969, de 24 de julio, por el que se fija la aportación de Navarra al sostenimiento de las cargas generales del Estado y se armoniza su peculiar régimen fiscal con el general del Estado, no regula en la actualidad adecuadamente las relaciones financieras y tributarias entre ambas Administraciones, habida cuenta de la profunda transformación operada en la organización territorial del Estado al amparo de la Constitución de 1978, de las nuevas facultades y competencias reconocidas a Navarra en la Ley Orgánica de Reintegración y Amejoramiento de su Régimen Foral y de las importantes reformas de que ha sido objeto el sistema tributario estatal, con las que el vigente Convenio Económico sólo ha podido armonizarse provisional y parcialmente.
+En consecuencia, y con la finalidad de adecuar sus relaciones financieras y tributarias a las referidas circunstancias, ambas Administraciones han establecido, de común acuerdo, un nuevo Convenio Económico que fue suscrito por sus respectivas representaciones el pasado día 31 de julio de 1990.
+Aprobado por el Parlamento de Navarra en sesión celebrada el pasado día 20 de septiembre de 1990, de conformidad con lo dispuesto en el artículo 45 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, el nuevo Convenio Económico debe ser sometido a la aprobación de las Cortes Generales.
+
+### Artículo único
+
+Artículo único.
+Se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, a que se refiere el artículo 45 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra, en los términos contenidos en el Anejo que se acompaña a la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 26 de diciembre de 1990.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MÁRQUEZ
+
+## ANEJO
+
+ACUERDO PRIMERO
+Aprobar el texto del Convenio Económico entre el Estado y la Comunidad Foral de Navarra, que se incorpora a la presente Acta.
+
+## CONVENIO ECONÓMICO
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Potestades de Navarra.
+En virtud de su régimen foral, Navarra tiene potestad para mantener, establecer y regular su propio régimen tributario. En el ejercicio de su actividad financiera, corresponden a Navarra las competencias que se le reconocen en la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+### Artículo 2
+
+Artículo 2. Potestad tributaria.
+En el ejercicio de la potestad tributaria a que se refiere el artículo anterior, la Comunidad Foral de Navarra deberá respetar:
+a) Los criterios de armonización del régimen tributario de Navarra con el régimen general del Estado establecidos en este Convenio Económico.
+b) Las competencias que, conforme a lo dispuesto en el presente Convenio Económico, correspondan al Estado.
+c) Los Tratados o Convenios internacionales suscritos por el Estado.
+d) El principio de solidaridad a que se refiere el artículo 1.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+e) Las Instituciones, facultades y competencias del Estado inherentes a la unidad constitucional, según lo dispuesto en el artículo 2.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+### Artículo 3
+
+Artículo 3. Competencias exclusivas del Estado.
+1. Corresponderá, en todo caso, al Estado:
+a) La regulación, gestión, liquidación, recaudación, inspección y revisión de los tributos que se recauden mediante monopolios fiscales, los derechos de importación y los gravámenes a la importación en los Impuestos Especiales y en el Impuesto sobre el Valor Añadido.
+b) La regulación de todos los tributos en los que el sujeto pasivo, a título de contribuyente o sustituto, sea una persona física o entidad con o sin personalidad jurídica que, conforme al ordenamiento tributario del Estado, no sea residente en territorio español.
+La gestión, liquidación, recaudación, inspección y revisión de los tributos a que se refiere el párrafo anterior corresponderá a la Comunidad Foral de Navarra conforme a lo previsto en el Convenio Económico.
+En el ejercicio de las funciones a que se refiere el párrafo anterior la Comunidad Foral deberá atenerse a lo dispuesto en los Convenios internacionales suscritos por España para evitar la doble imposición, así como en las normas de armonización fiscal de la Unión Europea, debiendo asumir las devoluciones que proceda practicar como consecuencia de la aplicación de tales Convenios y normas.
+2. Quedará siempre a salvo la alta inspección del Estado, en garantía de las facultades que se le reservan en el presente Convenio Económico.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 4
+
+Artículo 4. Facultades y prerrogativas de La Hacienda Pública de Navarra.
+Para la exacción, gestión, liquidación, recaudación, inspección y revisión de los tributos propios de la Comunidad Foral, la Hacienda Pública de Navarra ostentará las mismas facultades y prerrogativas que tiene reconocidas la Hacienda Pública del Estado.
+
+### Artículo 5
+
+Artículo 5. Coordinación.
+1. El Estado y la Comunidad Foral de Navarra colaborarán en la aplicación de sus respectivos regímenes tributarios y, a tal fin, se facilitarán mutuamente las informaciones y ayudas necesarias.
+2. El Estado arbitrará los mecanismos que permitan la colaboración de la Comunidad Foral de Navarra en los Acuerdos internacionales que incidan en la aplicación del presente Convenio Económico.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 6
+
+Artículo 6. Modificación.
+Cualquier modificación de este Convenio Económico deberá ajustarse al mismo procedimiento seguido para su elaboración y aprobación.
+El mismo procedimiento deberá seguirse para armonizar el régimen tributario de Navarra con los nuevos tributos que el Estado pueda establecer en el futuro.
+
+## TÍTULO I
+
+Armonización tributaria
+
+## CAPÍTULO I
+
+Normas comunes
+
+### Artículo 7
+
+Artículo 7. Criterios generales de armonización.
+1. La Comunidad Foral de Navarra en la elaboración de la normativa tributaria:
+a) Se adecuará a la Ley General Tributaria en cuanto a terminología y conceptos, sin perjuicio de las peculiaridades establecidas en el presente Convenio.
+b) Establecerá y mantendrá una presión fiscal efectiva global equivalente a la existente en el resto del Estado.
+c) Respetará y garantizará la libertad de circulación y establecimiento de las personas y la libre circulación de bienes, capitales y servicios en todo el territorio español, sin que se produzcan efectos discriminatorios.
+d) Utilizará la misma clasificación de actividades industriales, comerciales, de servicios, profesionales, agrícolas, ganaderas y pesqueras que en territorio común, sin perjuicio del mayor desglose que de las mismas pueda llevar a cabo la Comunidad Foral.
+2. A los efectos de este Convenio, se entenderá que las personas físicas residentes en territorio español tienen su residencia habitual en territorio navarro aplicando sucesivamente las siguientes reglas:
+1.ª Cuando permanezcan en dicho territorio más días:
+a) Del período impositivo, en el Impuesto sobre la Renta de las Personas Físicas.
+b) De cada año, en el Impuesto sobre Sucesiones y Donaciones.
+c) Del año anterior a la fecha de devengo, en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+Para determinar el período de permanencia se computarán las ausencias temporales.
+Salvo prueba en contrario, se considerará que una persona física permanece en territorio navarro cuando radique en él su vivienda habitual.
+2.ª Cuando tengan en este territorio su principal centro de intereses, considerándose como tal el territorio donde obtengan la mayor parte de la base imponible del Impuesto sobre la Renta de las Personas Físicas, excluyéndose, a estos efectos, los rendimientos e incrementos de patrimonio derivados del capital mobiliario, así como las bases imputadas en régimen de transparencia fiscal, con excepción del supuesto de sociedades que desarrollen actividades profesionales.
+3.ª Cuando sea éste el territorio de su última residencia declarada a efectos del Impuesto sobre la Renta de las Personas Físicas.
+3. Asimismo, se considerará que tienen su residencia habitual en territorio navarro:
+a) Las personas físicas residentes en territorio español, que no permanezcan en dicho territorio más de ciento ochenta y tres días durante el año natural, cuando en Navarra radique el núcleo principal o la base de sus actividades empresariales o profesionales o de sus intereses económicos.
+b) Cuando se presuma que una persona física es residente en territorio español, por tener su residencia habitual en Navarra su cónyuge no separado legalmente y los hijos menores de edad que dependan de aquél.
+4. A los efectos de este Convenio se entenderán domiciliadas fiscalmente en Navarra:
+a) Las personas físicas que tengan su residencia habitual en territorio navarro.
+b) Las personas jurídicas que tengan en Navarra su domicilio social, siempre que en el mismo esté efectivamente centralizada su gestión administrativa y la dirección de sus negocios. En otro caso, cuando se realicen en Navarra dicha gestión y dirección.
+c) Los entes sin personalidad jurídica, cuando su gestión y dirección se efectúe en Navarra. Si con este criterio fuese imposible determinar su domicilio fiscal, se atenderá al territorio donde radique el mayor valor de su inmovilizado.
+d) Los establecimientos permanentes cuando su gestión administrativa y la dirección de sus negocios se efectúen en Navarra. En los supuestos en que no pueda establecerse el lugar del domicilio de acuerdo con este criterio, se atenderá al lugar donde radique el mayor valor de su inmovilizado.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## CAPÍTULO II
+
+Impuestos directos
+
+## Sección 1
+
+Seccion 1.ª Impuesto sobre la Renta de las Personas FIsicas
+
+### Artículo 8
+
+Artículo 8. Exacción por la Comunidad Foral de Navarra.
+1. Corresponde a la Comunidad Foral la exacción del Impuesto sobre la Renta de las Personas Físicas de los sujetos pasivos que tengan su residencia habitual en Navarra.
+Asimismo, corresponderá a la Comunidad Foral, conforme a lo dispuesto en la letra b) del núme ro 1 del artículo 3.º de este Convenio, la exacción del Impuesto de los sujetos pasivos residentes en el extranjero, quienes tributarán por obligación real por las rentas obtenidas en territorio navarro.
+2. Cuando no todos los sujetos pasivos integrados en una unidad familiar tuvieran su residencia habitual en territorio navarro y optasen por la tributación conjunta, corresponderá a la Comunidad Foral la exacción del Impuesto si en su territorio reside el miembro de dicha unidad con mayor base liquidable, de acuerdo con las reglas de individualización del impuesto.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 9
+
+Artículo 9. Retenciones e ingresos a cuenta por rendimientos del trabajo.
+1. Las retenciones en la fuente sobre rendimientos del trabajo personal, en concepto de pago a cuenta del Impuesto sobre la Renta de las Personas Físicas, se exigirán por la Comunidad Foral cuando tales rendimientos correspondan a trabajadores y empleados que presten sus servicios o trabajen en Navarra, y además:
+a) Las de rendimientos relativos a los trabajadores y empleados citados en el párrafo anterior, por razón de trabajos circunstanciales realizados fuera de Navarra.
+b) Las de retribuciones correspondientes a los funcionarios y empleados en régimen de contratación laboral o administrativa de la Comunidad Foral y de las Entidades locales de Navarra y de sus Organismos autónomos.
+c) Las de rendimientos de los trabajadores de empresas de transporte que realicen su trabajo en ruta, cuando la empresa pagadora tenga su domicilio fiscal en Navarra.
+d) Las de pensiones, incluidas aquellas cuyo derecho hubiese sido generado por persona distinta del perceptor, y haberes pasivos abonados por la Comunidad Foral, Entidades locales de Navarra y las que se satisfagan en su territorio por la Seguridad Social, Montepíos, Mutualidades, empresas, planes de pensiones y demás entidades.
+Se entenderán satisfechas en Navarra las cantidades abonadas en efectivo en su territorio o en cuentas abiertas en el mismo.
+e) Las de retribuciones que, en su condición de tales, perciban los Presidentes y Vocales de los Consejos de Administración y Juntas que hagan sus veces en toda clase de empresas, cuando la entidad pagadora tribute exclusivamente por el Impuesto sobre Sociedades a la Comunidad Foral.
+Cuando la entidad pagadora sea sujeto pasivo del Impuesto sobre Sociedades exigible por el Estado y la Comunidad Foral, la retención corresponderá a ambas Administraciones en proporción al volumen de operaciones efectuado en cada territorio, conforme a lo previsto en el artículo 19 de este Convenio.
+2. Corresponderán a la Administración del Estado las siguientes retenciones:
+a) Las relativas a las retribuciones, tanto activas como pasivas, incluidas las pensiones generadas por persona distinta del perceptor, satisfechas por aquélla a los funcionarios y empleados en régimen de contratación laboral o administrativa, del Estado.
+Se exceptúan de lo dispuesto en el párrafo anterior los funcionarios y empleados de Organismos autónomos y entidades públicas empresariales.
+b) Las de rendimientos correspondientes a trabajos circunstanciales realizados en Navarra por trabajadores o empleados que presten sus servicios o trabajen en territorio común.
+3. El importe de las retenciones que, en virtud de lo dispuesto en las letras b) del número 1 y a) del número 2 de este artículo, correspondan a una u otra Administración, será tenido en cuenta a efectos de la aportación económica.
+4. Los ingresos a cuenta por rendimientos del trabajo se exigirán por una u otra Administración de acuerdo con las reglas contenidas en este artículo.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 10
+
+Artículo 10. Retenciones e ingresos a cuenta por rendimientos de actividades profesionales, artísticas, empresariales y por premios.
+Corresponderán a la Comunidad Foral las retenciones e ingresos a cuenta relativos a actividades profesionales, artísticas, empresariales, agrícolas, ganaderas y premios cuando la persona o entidad obligada a efectuar la retención o ingreso a cuenta tenga su domicilio fiscal en territorio navarro.
+En cualquier caso, estas retenciones e ingresos a cuenta se exigirán por la Administración del Estado o por la de la Comunidad Foral cuando corresponda a rendimientos por ellas satisfechos.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 11
+
+Artículo 11. Retenciones e ingresos a cuenta por rendimientos del capital mobiliario.
+1. Las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario, salvo los supuestos contemplados en el número 2 de este artículo, se exigirán por la Comunidad Foral cuando sean satisfechos por sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas que tributen a Navarra o por entidades que tributen exclusivamente por el Impuesto sobre Sociedades a la misma.
+Tratándose de sujetos pasivos del Impuesto sobre Sociedades exigible por el Estado y la Comunidad Foral, la retención corresponderá a ambas Administraciones en proporción al volumen de operaciones efectuado en cada territorio, conforme a lo previsto en el artículo 19 de este Convenio.
+2. Asimismo, corresponderán a la Comunidad Foral las retenciones e ingresos a cuenta de los siguientes rendimientos:
+a) Los satisfechos por la Comunidad Foral, Entidades locales y demás entes de la Administración territorial e institucional de Navarra.
+b) Los correspondientes a intereses y demás contraprestaciones de todo tipo, dinerarias o en especie, derivadas de la colocación de capitales o de la titularidad de cuentas en establecimientos abiertos en Navarra, de bancos, cajas de ahorro, cooperativas de crédito y demás entidades o instituciones financieras, cualquiera que sea el domicilio de las mismas.
+c) Los relativos a rendimientos implícitos de activos financieros, cuando las entidades citadas en la letra anterior intervengan en su transmisión o amortización, siempre que tales operaciones se realicen a través de establecimientos situados en territorio navarro.
+d) Los referentes a los rendimientos señalados en la letra c) anterior, cuando el fedatario público que efectúe la retención ejerza su cargo en Navarra.
+3. Corresponderán, en todo caso, a la Administración del Estado las retenciones e ingresos a cuenta correspondientes a los rendimientos satisfechos por la misma, así como por las Comunidades Autónomas, Corporaciones de Territorio Común y demás entes de sus Administraciones territoriales e institucionales, aun cuando se satisfagan en territorio navarro o los perceptores de los rendimientos tengan su domicilio fiscal en Navarra.
+4. Los ingresos a cuenta por rendimientos del capital mobiliario, en concepto de pago a cuenta por el Impuesto sobre la Renta de las Personas Físicas, se exigirán por la Comunidad Foral o por la Administración del Estado de acuerdo con las normas establecidas en los números anteriores.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 12
+
+Artículo 12. Pagos fraccionados.
+Los pagos fraccionados a cuenta del Impuesto sobre la Renta de las Personas Físicas se exigirán por la Administración que resulte competente para la exacción de dicho Impuesto, de acuerdo con las normas del artículo 8 de este Convenio.
+
+### Artículo 13
+
+Artículo 13. Eficacia de las retenciones e ingresos a cuenta. Retenciones correspondientes a ambas Administraciones.
+1. A efectos de la liquidación del impuesto sobre la renta del perceptor, tendrán validez respecto de éste las retenciones e ingresos a cuenta que se le hayan practicado en uno u otro territorio, sin que ello implique, caso de que los mismos se hubiesen ingresado en Administración no competente, la renuncia de la otra a la percepción de la cantidad a que tuviera derecho, pudiendo reclamarla a la Administración en la que se hubiera ingresado indebidamente.
+2. Cuando, a tenor de lo establecido en los artículos 9.º, 11 y 14 de este Convenio, las retenciones correspondan a ambas Administraciones en función del volumen de operaciones, se tendrán en cuenta las operaciones efectuadas en cada territorio en el ejercicio inmediato anterior, sin que proceda realizar regularización final.
+No obstante lo establecido en el párrafo anterior, en el primer ejercicio de la actividad, la distribución que, en su caso, proceda entre ambas Administraciones se efectuará en función de las operaciones que se prevean realizar en cada territorio, sin perjuicio de la regularización final correspondiente.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 2
+
+Sección 2.ª Rentas obtenidas en territorio navarro por no residentes
+Se añade por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 14
+
+Artículo 14. Rentas obtenidas en territorio navarro por residentes en el extranjero. Retenciones y pagos a cuenta.
+1. A los efectos de lo previsto en la letra b) del número 1 del artículo 3.º de este Convenio Económico, se considerarán rentas obtenidas o producidas en territorio navarro por residentes en el extranjero las siguientes:
+a) Los rendimientos, cualquiera que sea su clase, obtenidos mediante establecimientos permanentes, conforme a las reglas contenidas en el ar tículo 17 del presente Convenio Económico.
+Se entenderá que una persona física o una entidad opera mediante establecimiento permanente cuando por cualquier título disponga, de forma continuada o habitual, de instalaciones o lugares de trabajo de cualquier índole, en los que se realice toda o parte de su actividad, o actúe en él por medio de un agente autorizado para contratar, en nombre y por cuenta del sujeto pasivo no residente, que ejerza con habitualidad dichos poderes.
+En particular, se entenderá que constituyen establecimiento permanente las sedes de dirección, las sucursales, las oficinas, las fábricas, los talleres, los almacenes, tiendas u otros establecimientos, las minas, los pozos de petróleo o de gas, las canteras, las explotaciones agrícolas, forestales o pecuarias o cualquier otro lugar de exploración o de extracción de recursos naturales, y las obras de construcción, instalación o montaje cuya duración exceda de doce meses.
+b) Los rendimientos de explotaciones eco nómicas obtenidos sin mediación de establecimiento permanente cuando las actividades se realicen en territorio navarro. No obstante, no se considerarán obtenidos o producidos en territorio navarro los rendimientos derivados de la instalación o montaje en Navarra, de maquinaria o instalaciones importadas cuando dicha instalación o montaje se realicen por el proveedor de la referida maquinaria o instalaciones y su importe no exceda del 20 por 100 del precio de adquisición de los elementos importados.
+c) Los rendimientos derivados de prestaciones de servicios tales como la realización de estudios, proyectos, asistencia técnica, apoyo a la gestión, así como de servicios profesionales, cuando la prestación se realice o se utilice en territorio navarro. Se entenderán utilizadas en territorio navarro las prestaciones que sirvan a actividades empresariales o profesionales realizadas en dicho territorio o se refieran a bienes situados en el mismo.
+Se atenderá al lugar de la utilización del servicio cuando éste no coincida con el de su realización.
+d) Los rendimientos del trabajo dependiente cuando el trabajo se preste en territorio navarro.
+e) Los rendimientos derivados, directa o indirectamente, de la actuación personal, en territorio navarro de artistas o deportistas, o de cualquier otra actividad relacionada con dicha actuación, aun cuando se atribuyan a persona o entidad distinta del artista o deportista.
+f) Los dividendos y otros rendimientos derivados de la participación en fondos propios de entidades públicas navarras, así como los derivados de la participación en fondos propios de entidades privadas conforme a lo previsto en el número 3 de este artículo.
+g) Los intereses, cánones y otros rendimientos del capital mobiliario cuando sean satisfechos por personas físicas o entidades públicas navarras, o por entidades privadas o establecimientos permanentes conforme a lo previsto en el número 3 de este artículo siempre que retribuyan prestaciones de capital utilizadas en territorio navarro.
+En los demás supuestos se atenderá al lugar de utilización del capital cuya prestación se retribuye.
+h) Los rendimientos derivados, directa o indirectamente, de bienes inmuebles situados en territorio navarro o de derechos relativos a los mismos.
+i) Los incrementos de patrimonio derivados de valores emitidos por personas o entidades públicas navarras, así como los derivados de valores emitidos por entidades privadas conforme a lo previsto en el número 3 de este artículo.
+j) Los incrementos de patrimonio derivados de bienes inmuebles situados en territorio navarro o de derechos que debieran cumplirse o hubieran de ejercitarse en dicho territorio. En particular, se consideran incluidos en esta letra:
+Primero. Los incrementos de patrimonio derivados de derechos o participaciones en una entidad, residente o no, cuyo activo esté constituido principalmente por bienes inmuebles situados en territorio navarro.
+Segundo. Los incrementos de patrimonio derivados de la transmisión de derechos o participaciones en una entidad, residente o no, que atribuyan a su titular el derecho de disfrute sobre bienes inmuebles situados en territorio navarro.
+k) Los incrementos de patrimonio derivados de otros bienes muebles situados en territorio navarro o de derechos que deban cumplirse o se ejerciten en dicho territorio.
+2. Cuando con arreglo a los criterios señalados en el número anterior una renta se pudiera entender obtenida simultáneamente en ambos territorios, su tributación corresponderá a la Comunidad Foral de Navarra cuando el pagador, si es persona física, tenga su domicilio fiscal en Navarra; si fuera persona jurídica o establecimiento permanente, se atenderá a lo dispuesto en el número 3 de este artículo.
+3. En los supuestos a que se refieren las letras f), g) e i) del número 1 anterior, así como en el supuesto previsto en el número 2, las rentas satisfechas por entidades privadas o establecimientos permanentes se entenderán obtenidas o producidas en territorio navarro en la cuantía siguiente:
+a) Cuando se trate de entidades o establecimientos permanentes que tributen por el Impuesto sobre Sociedades exclusivamente a Navarra, la totalidad de las rentas que satisfagan.
+b) Cuando se trate de entidades o establecimientos permanentes que tributen por el Impuesto sobre Sociedades conjuntamente a ambas Administraciones, la parte de las rentas que satisfagan en proporción al volumen de operaciones realizado en Navarra.
+No obstante, en los supuestos a que se refiere esta letra la Administración competente para la exacción de la totalidad de los rendimientos será la del territorio donde tengan su residencia habitual o domicilio fiscal las personas, entidades o establecimientos permanentes que presenten la liquidación en representación del no residente, sin perjuicio de la compensación que proceda practicar a la otra Administración por la parte correspondiente a la proporción del volumen de operaciones realizado en el territorio de esta última.
+Asimismo, las devoluciones que proceda practicar a los no residentes serán a cargo de la Administración del territorio donde tengan su residencia habitual o domicilio fiscal las personas, entidades o establecimientos permanentes que presenten la liquidación en representación del no residente, sin perjuicio de la compensación que proceda practicar a la otra Administración por la parte correspondiente al volumen de operaciones de la entidad pagadora realizado en el territorio de esta última.
+4. Las retenciones y pagos a cuenta sobre rendimientos percibidos por personas o entidades no residentes en territorio español, se exigirán por la Administración del territorio en el que se entiendan obtenidos los correspondientes rendimientos conforme a lo dispuesto en los números anteriores de este artículo.
+No obstante lo dispuesto en el párrafo anterior, en los supuestos a que se refiere el número 3 corresponderán a la Comunidad Foral de Navarra la totalidad de las retenciones y pagos a cuenta cuando la entidad o establecimiento que satisfaga la renta tribute exclusivamente a Navarra por el Impuesto sobre Sociedades y proporcionalmente al volumen de operaciones cuando tribute conjuntamente a ambas Administraciones.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 2
+
+Seccion 2.ª Impuesto sobre el Patrimonio de las Personas Fisicas
+
+## Sección 3
+
+Seccion 3.ª Impuesto sobre el Patrimonio
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Su anterior numeración era sección 2ª.
+
+### Artículo 15
+
+Artículo 15. Exacción por la Comunidad Foral de Navarra.
+1. Corresponderá a la Comunidad Foral la exacción del Impuesto sobre el Patrimonio de las Personas Físicas en los mismos supuestos en los que sea competente para la exacción del Impuesto sobre la Renta de las Personas Físicas, con independencia del lugar donde radiquen los bienes o puedan ejercitarse los derechos.
+2. Tratándose de sujetos pasivos por obligación real de contribuir, corresponderá a la Comunidad Foral la exacción del Impuesto, cuando la totalidad de los bienes y derechos radiquen en territorio navarro. A estos efectos, se entenderá que radican en territorio navarro los bienes y derechos que estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en dicho territorio.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 3
+
+Seccion 3.ª Impuesto sobre Sociedades
+
+## Sección 4
+
+Seccion 4.ª Impuesto sobre Sociedades
+Se reenumera por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Su anterior numeración era sección 3ª.
+
+### Artículo 16
+
+Artículo 16. Normativa aplicable.
+1. Las entidades que tributen exclusivamente a la Comunidad Foral de Navarra, con arreglo a los criterios que se señalan en el artículo siguiente, aplicarán la normativa foral navarra.
+2. Las entidades que tributen conjuntamente a ambas Administraciones aplicarán la normativa correspondiente a la Administración de su domicilio fiscal. No obstante, las entidades que teniendo su domicilio fiscal en Navarra realicen en territorio de régimen común el 75 por 100 o más de sus operaciones totales, de acuerdo con los puntos de conexión que se establecen en los artículos 17, 18 y 19 siguientes, quedarán sometidas a la normativa del Estado.
+3. A los establecimientos permanentes de entidades residentes en el extranjero que se hallen domiciliados en territorio navarro les serán de aplicación las reglas contenidas en los números anteriores.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 17
+
+Artículo 17. Exacción del Impuesto.
+1. Corresponde a la Comunidad Foral de Navarra la exacción del Impuesto sobre Sociedades de los siguientes sujetos pasivos:
+a) Los que tengan su domicilio fiscal en Navarra y su volumen total de operaciones en el ejercicio anterior no hubiere excedido de 500.000.000 de pesetas.
+b) Los que operen exclusivamente en terri torio navarro y su volumen total de operaciones en el ejercicio anterior hubiere excedido de 500.000.000 de pesetas, cualquiera que sea el lugar en el que tengan su domicilio fiscal.
+2. Los sujetos pasivos que operen en ambos territorios y cuyo volumen total de operaciones en el ejercicio anterior hubiere excedido de 500.000.000 de pesetas, tributarán conjuntamente a ambas Administraciones, cualquiera que sea el lugar en que tengan su domicilio fiscal. La tributación se efectuará en proporción al volumen de operaciones realizado en cada territorio durante el ejercicio, determinado de acuerdo con los puntos de conexión que se establecen en los artículos 18 y 19 siguientes.
+3. Tratándose de entidades no residentes en territorio español la exacción del Impuesto sobre Sociedades se ajustará a las siguientes reglas:
+a) Cuando se graven rentas obtenidas sin mediación de establecimiento permanente, la exacción del impuesto corresponderá a la Administración del territorio en el que se entiendan obtenidas dichas rentas conforme al artículo 14 de este Convenio Económico.
+b) Cuando se graven rentas obtenidas mediante establecimiento permanente, la exacción del impuesto corresponderá a una u otra Administración, o a ambas conjuntamente, conforme a las normas de armonización del Impuesto contenidas en los números anteriores.
+c) La exacción del Gravamen Especial sobre Bienes Inmuebles de Entidades no residentes corresponderá a la Administración del Estado o a la de la Comunidad Foral según que el bien inmueble gravado radique en territorio común o navarro.
+4. A efectos de lo dispuesto en los números 1 y 2 anteriores, en el supuesto de inicio de la actividad, para el cómputo de la cifra de 500.000.000 de pesetas, se atenderá al volumen de las operaciones realizadas en el ejercicio inicial.
+Si dicho ejercicio fuese inferior a un año, para el cómputo de la cifra anterior las operaciones realizadas se elevarán al año.
+Hasta que se conozcan el volumen y lugar de realización de las operaciones a que se refiere el párrafo anterior, se tomarán como tales, a todos los efectos, los que el sujeto pasivo estime en función de las operaciones que prevea realizar durante el ejercicio de inicio de la actividad.
+5. Se entenderá como volumen de operaciones el importe total de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y el recargo de equivalencia, en su caso, obtenido por el sujeto pasivo en las entregas de bienes y prestaciones de servicios realizadas en su actividad.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Téngase en cuenta que el apartado 3.c) será aplicable a partir del 1 de enero de 1997, según establece el anejo.1.2.
+
+### Artículo 18
+
+Artículo 18. Operaciones en uno u otro territorio.
+A los efectos previstos en el artículo anterior, se entenderá que un sujeto pasivo opera en uno u otro teritorio cuando, de acuerdo con los criterios establecidos en el artículo siguiente, realice en ellos entregas de bienes o prestaciones de servicios.
+Tendrán la consideración de entregas de bienes y prestaciones de servicios las operaciones definidas como tales en la legislación reguladora del Impuesto sobre el Valor Añadido.
+
+### Artículo 19
+
+Artículo 19. Lugar de realización de las operaciones.
+Se entenderán realizadas en Navarra las operaciones siguientes:
+A) Entregas de bienes:
+1.º Las entregas de bienes muebles corporales fabricados o transformados por quien efectúa la entrega cuando los centros fabriles o de transformación del sujeto pasivo estén situados en territorio navarro.
+Cuando el mismo sujeto pasivo tenga centros fabriles o de transformación en territorio navarro y común, si el último proceso de fabricación o transformación de los bienes entregados tiene lugar en Navarra.
+2.º Si se trata de entregas con instalación de elementos industriales fuera de Navarra, se entenderán realizadas en territorio navarro si los trabajos de preparación y fabricación se efectúan en dicho territorio y el coste de la instalación o montaje no excede del 15 por 100 del total de la contraprestación.
+Correlativamente, no se entenderán realizadas en territorio navarro las entregas de elementos industriales con instalación en dicho territorio si los trabajos de preparación y fabricación de dichos elementos se efectúan en territorio común y el coste de la instalación o montaje no excede del 15 por 100 del total de la contraprestación.
+3.º Las entregas realizadas por los productores de energía eléctrica, cuando radiquen en territorio navarro los centros generadores de la misma.
+4.º Las demás entregas de bienes muebles corporales, cuando se realice desde territorio navarro la puesta a disposición del adquirente. Cuando los bienes deban ser objeto de transporte para su puesta a disposición del adquirente, las entregas se entenderán realizadas en el lugar en que se encuentren aquéllos al tiempo de iniciarse la expedición o el transporte.
+5.º Las entregas de bienes inmuebles, incluidos los derechos reales sobre los mismos, cuando los bienes estén situados en territorio navarro.
+B) Prestaciones de servicios:
+1.º Las prestaciones de servicios se entenderán realizadas en Navarra cuando se efectúen desde dicho territorio.
+2.º Se exceptúan de lo dispuesto en el apartado anterior las prestaciones directamente relacionadas con bienes inmuebles, cuando dichos bienes no radiquen en Navarra.
+3.º Asimismo, se exceptúan de lo dispuesto en los apartados anteriores las operaciones de seguro y capitalización, respecto de las cuales se aplicarán las reglas contenidas en el artículo 31 de este Convenio Económico.
+C) No obstante lo dispuesto en las letras A) y B) anteriores, se entenderán realizadas en Navarra las operaciones que a continuación se especifican, cuando el sujeto pasivo que las realice tenga su domicilio fiscal en territorio navarro:
+1.º Las entregas realizadas por explotaciones agrícolas, forestales, ganaderas o pesqueras y armadores de buques de pesca, de productos naturales no sometidos a procesos de transformación que procedan directamente de sus cultivos, explotaciones o capturas.
+2.º Los servicios de transporte, incluso los de mudanza, remolque y grúa.
+3.º Los arrendamientos de medios de trans porte.
+D) Las operaciones que, con arreglo a los criterios establecidos en este artículo, se consideren realizadas en el extranjero se atribuirán,en su caso, a una u otra Administración en igual proporción que el resto de las operaciones.
+E) Las entidades que no realicen las operaciones previstas en el artículo anterior tributarán a Navarra cuando tengan su domicilio fiscal en territorio navarro.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 20
+
+Artículo 20. Gestión del impuesto en los supuestos de tributación a ambas Administraciones.
+En relación con la gestión del impuesto, en los casos de tributación a las dos Administraciones, se aplicarán las siguientes reglas:
+1.ª El resultado de las liquidaciones del impuesto se imputará a las Administraciones del Estado y de Navarra en proporción al volumen de operaciones realizadas en uno y otro territorio, en cada período impositivo, de acuerdo con lo establecido en los artículos 18 y 19 de este Convenio.
+2.ª Los sujetos pasivos que deban tributar a ambas Administraciones presentarán en la Delegación de Hacienda que corresponda y en la Administración de la Comunidad Foral de Navarra, dentro de los plazos y con las formalidades reglamentarias, los documentos que determinen las disposiciones vigentes y las declaraciones-liquidaciones procedentes, en las que constarán, en todo caso, la proporción aplicable y las cuotas o devoluciones que resulten ante cada una de las Administraciones.
+3.ª Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la proporción que a cada una le corresponda.
+
+### Artículo 21
+
+Artículo 21. Inspección.
+La inspección se realizará de acuerdo con los siguientes criterios:
+1.º La inspección de los sujetos pasivos que deban tributar exclusivamente a la Administración de la Comunidad Foral de Navarra o a la Administración del Estado, se llevará a cabo por la Inspección de los tributos de cada una de ellas.
+2.º La inspección de los sujetos pasivos que deban tributar a las dos Administraciones se realizará de acuerdo con las siguientes reglas:
+1.ª Si los sujetos pasivos tienen su domicilio fiscal en territorio común, la inspección será realizada por los órganos de la Administración del Estado, que regularizarán la situación tributaria del sujeto pasivo, incluyendo la proporción de tributación que corresponda a las dos Administraciones competentes.
+2.ª Si los sujetos pasivos tienen su domicilio fiscal en territorio navarro, la inspección será realizada por los órganos competentes de la Administración de la Comunidad Foral de Navarra, sin perjuicio de la colaboración de la Administración del Estado, y surtirá efectos frente a las Administraciones competentes, incluyendo la proporción de tributación que corresponda a las mismas.
+En el caso de que el sujeto pasivo realice en territorio de régimen común el 75 por 100 o más de sus operaciones totales, de acuerdo con los puntos de conexión que se establecen en los artículos 17, 18 y 19 anteriores, será competente la Administración del Estado, sin perjuicio de la colaboración de la Administración de la Comunidad Foral.
+3.ª Las actuaciones inspectoras se ajustarán a la normativa de la Administración competente, de acuerdo con lo previsto en las reglas anteriores.
+Si como consecuencia de dichas actuaciones resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente será efectuado por la Administración actuante, sin perjuicio de las compensaciones que entre aquéllas procedan.
+4.ª Lo establecido en las reglas anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Administración de la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+5.ª Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que se acuerden con carácter definitivo entre ambas Administraciones.
+
+### Artículo 22
+
+Artículo 22. Pago a cuenta del impuesto en los supuestos de tributación a ambas Administraciones.
+1. Los sujetos pasivos que deban tributar a ambas Administraciones ingresarán en las mismas el pago a cuenta del Impuesto cuando aquél sea exigible, en proporción al volumen de operaciones realizado en cada territorio durante los períodos impositivos que en cada caso procedan.
+2. El pago a cuenta efectivamente satisfecho a cada Administración se deducirá de la parte de la cuota que corresponda a cada una de ellas.
+
+### Artículo 23
+
+Artículo 23. Retenciones en la fuente e ingresos a cuenta del Impuesto sobre Sociedades.
+Serán de aplicación a las retenciones en la fuente e ingresos a cuenta del Impuesto sobre Sociedades los criterios estableccidos a tal efecto en el presente Convenio para el Impuesto sobre la Renta de las Personas Físicas, así como lo previsto en el artículo 13.
+
+### Artículo 24
+
+Artículo 24. Entidades en régimen de imputación y atribución de rendimientos.
+1. A las entidades en régimen de imputación de rendimientos se les aplicarán las normas establecidas en los artículos anteriores. Para la exacción de las bases imputadas a sus socios se tendrán en cuenta las normas del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades, según que los mismos sean personas físicas o jurídicas.
+2. En los supuestos de atribución de rentas o rendimientos, la gestión e inspección de los entes sometidos a dicho régimen corresponderá a la Administración de su domicilio fiscal.
+Para la exacción de la renta atribuida a sus socios, comuneros o partícipes se aplicarán las normas del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades, según que aquéllos sean personas físicas o jurídicas.
+
+### Artículo 25
+
+Artículo 25. Régimen tributario de las agrupaciones, uniones temporales y grupos de sociedades.
+1. El régimen tributario de las agrupaciones de interés económico y uniones temporales de empresas y de las concentraciones de empresas, cuando superen el ámbito territorial de la Comunidad Foral de Navarra o estén sujetas a distinta legislación fiscal, corresponderá al Estado, sin perjuicio de que la distribución del beneficio de dichos agrupamientos de empresas se realice con arreglo a los criterios señalados en el presente Convenio a efectos del Impuesto sobre Sociedades.
+2. Para determinar la tributación de los grupos de sociedades se aplicarán las siguientes reglas:
+1.ª El régimen de tributación consolidada será el correspondiente al de la Comunidad Foral cuando la sociedad dominante y todas las dependientes estuvieran sujetas a normativa foral en régimen de tributación individual. A estos efectos la sociedad dominante podrá excluir del grupo a las dependientes que estuvieran sujetas a normativa común, las cuales tributarán individualmente a todos los efectos conforme a lo señalado en los artículos anteriores.
+En todo caso, se aplicará idéntica normativa a la establecida en cada momento por el Estado para la definición de grupo de sociedades, sociedad dominante, sociedades dependientes, grado de dominio y operaciones internas del grupo.
+2.ª En los demás casos, incluyendo los supuestos en los que los grupos de sociedades a que se refiere la regla anterior no excluyan las sociedades dependientes que estuvieran sujetas a normativa común, el régimen de tributación consolidada será el correspondiente al de la Administración del Estado.
+3. Para la aplicación del régimen de tributación consolidada de los grupos de sociedades que tributen a ambas Administraciones se seguirán las reglas siguientes:
+1.ª Las sociedades integrantes del grupo presentarán, de conformidad con las normas generales, la declaración establecida para el régimen de tributación independiente.
+Sin perjuicio de lo dispuesto en el párrafo anterior, la sociedad dominante presentará a cada una de las Administraciones los estados contables consolidados del grupo de sociedades.
+2.ª El grupo consolidado tributará a una y otra Administración en función del volumen de operaciones realizado en uno y otro territorio.
+A estos efectos, el volumen de operaciones realizado en cada territorio estará constituido por la suma o agregación de las operaciones que cada una de las sociedades integrantes del grupo efectúen en el mismo, antes de las eliminaciones intergrupo que procedan.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 4
+
+Seccion 4.ª Impuesto sobre Sucesiones y Donaciones
+
+## Sección 5
+
+Seccion 5.ª Impuesto sobre Sucesiones y Donaciones
+Se reenumera por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Su anterior numeración era sección 4ª.
+
+### Artículo 26
+
+Artículo 26. Exacción del impuesto.
+Corresponderá a la Comunidad Foral de Navarra la exacción del impuesto que grava las sucesiones y donaciones en los siguientes supuestos:
+a) En la adquisición de bienes y derechos por herencia, legado o cualquier otro título sucesorio, cuando el causante tenga su residencia habitual en Navarra o, teniéndola en el extranjero, conserve la condición política de navarro con arreglo al ar tículo 5.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+b) En las adquisiciones de bienes inmuebles y derechos sobre los mismos por donación o cualquier otro negocio jurídico a título gratuito e inter vivos, cuando éstos radiquen en territorio navarro, y en las de los demás bienes y derechos, cuando el donatorio o el favorecido por ellas tenga su residencia habitual en dicho territorio.
+A estos efectos tendrán la consideración de donaciones de bienes inmuebles las transmisiones a título gratuito de valores a que se refiere el artícu lo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+c) En los supuestos no contemplados en las letras anteriores, y conforme a lo dispuesto en la letra b) del número 1 del artículo 3.º, cuando el contribuyente tuviera su residencia en el extranjero y la totalidad de los bienes y derechos adquiridos estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en territorio navarro, así como por la percepción de cantidades derivadas de contratos de seguros sobre la vida cuando el contrato haya sido realizado en territorio navarro con entidades aseguradoras residentes o con entidades extranjeras que operen en él.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## CAPÍTULO III
+
+Impuestos indirectos
+
+## Sección 1
+
+Seccion 1.ª Impuesto sobre el Valor Añadido
+
+### Artículo 27
+
+Artículo 27. Normativa aplicable.
+En la exacción del Impuesto sobre el Valor Añadido, incluido el recargo de equivalencia, Navarra aplicará los mismos principios básicos, normas sustantivas y formales vigentes en cada momento en territorio del Estado. No obstante, la Administración de la Comunidad Foral de Navarra podrá aprobar los modelos de declaración e ingreso, que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado.
+
+### Artículo 28
+
+Artículo 28. Exacción del impuesto.
+1. Corresponde a la Comunidad Foral de Navarra la exacción del Impuesto sobre el Valor Añadido de los siguientes sujetos pasivos:
+a) Los que tengan su domicilio fiscal en Navarra y su volumen total de operaciones en el año anterior no hubiere excedido de 500.000.000 de pesetas.
+b) Los que operen exclusivamente en territorio navarro y su volumen total de operaciones en el año anterior hubiere excedido de 500.000.000 de pesetas, cualquiera que sea el lugar en el que tengan su domicilio fiscal.
+2. Los sujetos pasivos que operen en ambos territorios y cuyo volumen total de operaciones en el año anterior hubiere excedido de 500.000.000 de pesetas, tributarán conjuntamente a ambas Administraciones, cualquiera que sea el lugar en el que tengan su domicilio fiscal. La tributación se efectuará en proporción al volumen de operaciones realizado en cada territorio durante el año natural, determinado de acuerdo con los puntos de conexión que se establecen en los números si guientes.
+3. Se entenderá como volumen de operaciones el importe total de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y el recargo de equivalencia, en su caso, obtenido por el sujeto pasivo en las entregas de bienes y prestaciones de servicios efectuadas en todas las actividades empresariales o profesionales que realice.
+4. A efectos de lo dispuesto en los números 1 y 2 anteriores, en el supuesto de inicio de la actividad, para el cómputo de la cifra de 500.000.000 de pesetas, se atenderá al volumen de operaciones realizado en el primer año natural.
+Si el primer año de actividad no coincidiera con el año natural, para el cómputo de la cifra anterior, las operaciones realizadas se elevarán al año.
+La tributación durante el citado año se realizará de forma provisional en función del volumen de operaciones que se prevea realizar durante el año de iniciación, sin perjuicio de su regularización posterior, cuando proceda.
+5. Se entenderá que un sujeto pasivo opera en un territorio cuando, de conformidad con los puntos de conexión que se establecen en estas normas, realice en el mismo entregas de bienes o prestaciones de servicios.
+6. Se entenderán realizadas en Navarra las operaciones sujetas al Impuesto de acuerdo con las siguientes reglas:
+A) Entregas de bienes:
+1.º Las entregas de bienes muebles corporales fabricados o transformados por quien efectúa la entrega, cuando los centros fabriles o de transformación del sujeto pasivo estén situados en territorio navarro.
+Cuando el mismo sujeto pasivo tenga centros fabriles o de transformación en territorio navarro y común, si el último proceso de fabricación o transformación de los bienes entregados tiene lugar en Navarra.
+2.º Si se trata de entregas con instalación de elementos industriales fuera de Navarra, se entenderán realizadas en territorio navarro si los trabajos de preparación y fabricación se efectúan en dicho territorio y el coste de la instalación o montaje no excede del 15 por 100 del total de la contraprestación.
+Correlativamente, no se entenderán realizadas en territorio navarro las entregas de elementos industriales con instalación en dicho territorio, si los trabajos de preparación y fabricación de dichos elementos se efectúan en territorio común y el coste de la instalación o montaje no excede del 15 por 100 del total de la contraprestación.
+3.º Las entregas realizadas por los productores de energía eléctrica, cuando radiquen en territorio navarro los centros generadores de la misma.
+4.º Las demás entregas de bienes muebles corporales, cuando se realice desde territorio navarro la puesta a disposición del adquirente. Cuando los bienes deban ser objeto de transporte para su puesta a disposición del adquirente, las entregas se entenderán realizadas en el lugar en que se encuentren aquéllos al tiempo de iniciarse la expedición o el transporte.
+5.º Las entregas de bienes inmuebles, cuando los mismos estén situados en territorio navarro.
+B) Prestaciones de servicios.
+1.º Las prestaciones de servicios se entenderán realizadas en Navarra cuando se efectúen desde dicho territorio.
+2.º No obstante lo dispuesto en el apartado anterior, las prestaciones directamente relacionadas con bienes inmuebles se entenderán realizadas en el territorio en que radiquen dichos bienes.
+3.º Asimismo, se exceptúan de lo dispuesto en los apartados anteriores las operaciones de seguro y capitalización, respecto de las cuales se aplicarán las reglas contenidas en el artículo 31 de este Convenio.
+C) No obstante lo dispuesto en las letras A) y B) anteriores, será competente para la exacción del Impuesto la Administración del Estado cuando el domicilio fiscal del sujeto pasivo esté situado en territorio común y la Administración de la Comunidad Foral Navarra cuando su domicilio fiscal esté situado en su territorio en las operaciones siguientes:
+1.ª Las entregas realizadas por explotaciones agrícolas, forestales, ganaderas o pesqueras y armadores de buques de pesca, de productos naturales no sometidos a procesos de transformación que procedan directamente de sus cultivos, explotaciones o capturas.
+2.ª Los servicios de transporte, incluso los de mudanza, remolque y grúa.
+3.ª Los arrendamientos de medios de trans porte.
+7. En orden a la exacción del impuesto correspondiente a las adquisiciones intracomunitarias se aplicarán las reglas siguientes:
+a) Corresponderá a Navarra la exacción del impuesto por las adquisiciones intracomunitarias que efectúen los sujetos pasivos que tributen exclusivamente a la Comunidad Foral de Navarra.
+b) La exacción del impuesto por las adquisiciones intracomunitarias que efectúen los sujetos pasivos que tributen conjuntamente a ambas Administraciones, corresponderá a una u otra en la misma proporción que la resultante de aplicar lo dispuesto en la regla 1.ª del artículo siguiente.
+c) Los criterios establecidos en las reglas a) y b) anteriores también serán de aplicación en relación con los transportes intracomunitarios de bienes, los servicios accesorios a los mismos y los servicios de mediación en los anteriores, cuyo destinatario hubiese comunicado al prestador de los servicios un número de identificación atribuido en España, a efectos del Impuesto sobre el Valor Añadido.
+d) La exacción del impuesto por las adquisiciones intracomunitarias de medios de transporte nuevos efectuadas por particulares o por personas o entidades cuyas operaciones estén totalmente exentas o no sujetas al Impuesto sobre el Valor Añadido, corresponderá a la Administración del territorio común o navarro en el que dichos medios de transporte se matriculen definitivamente.
+8. Sin perjuicio de lo dispuesto en el núme ro 7 anterior, será competente para la exacción del impuesto la Administración del Estado cuando el domicilio fiscal del sujeto pasivo esté situado en territorio común, y la Administración de la Comunidad Foral de Navarra cuando su domicilio fiscal esté situado en su territorio en las operaciones siguientes:
+a) Las adquisiciones intracomunitarias de bienes sujetas al impuesto por opción o por haberse superado el límite cuantitativo establecido en la normativa reguladora del impuesto, efectuadas por sujetos pasivos que realicen exclusivamente operaciones que no originan derecho a deducción total o parcial de aquél, o por personas jurídicas que no actúen como empresarios o profesionales.
+b) Las adquisiciones intracomunitarias de bienes en régimen simplificado, régimen especial de la agricultura, ganadería y pesca y régimen de recargo de equivalencia.
+9. Las entregas de bienes y prestaciones de servicios efectuadas por personas o entidades no establecidas en el territorio de aplicación del impuesto para empresarios o profesionales, cuando estos últimos adquieran la consideración de sujetos pasivos respecto de aquéllas, tributarán en los términos que resulten de aplicar las reglas a) y b) del número 7 anterior.
+10. En la aplicación del impuesto correspondiente a operaciones realizadas por empresarios o profesionales no establecidos en España, en las que no se produzca la circunstancia señalada en el número anterior, corresponderá a la Administración del Estado la exacción del tributo y las devoluciones que, en su caso, procedan.
+11. Las deducciones que proceda practicar por el Impuesto sobre el Valor Añadido soportado o satisfecho por los sujetos pasivos, cualquiera que sea la Administración a la que hubiera correspondido su exacción, surtirán efectos frente a ambas Administraciones, de acuerdo con lo dispuesto en el presente Convenio.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Se modifica por el art. único y anejo.1.1 de la Ley 12/1993, de 13 de diciembre. Ref. BOE-A-1993-29578
+ Redactado el apartado 6.A).2º conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251
+
+### Artículo 29
+
+Artículo 29. Gestión e inspección del impuesto.
+En relación con la gestión del impuesto, en los casos de tributación a las dos Administraciones, se aplicarán las siguientes reglas:
+1.ª El resultado de las liquidaciones del impuesto se imputará a las Administraciones del Estado y Navarra en proporción al volumen de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y, en su caso, el recargo de equivalencia, correspondiente a las entregas de bienes y prestaciones de servicios gravadas, así como las exentas que originen derecho a la deducción y se entiendan realizadas en los territorios respectivos durante cada año natural.
+2.ª Las proporciones provisionalmente aplicables durante cada año natural serán las determinadas en función de las operaciones del año precedente.
+La proporción provisionalmente aplicable en los períodos de liquidación del primer año natural de ejercicio de la actividad será fijada por el sujeto pasivo según las operaciones que prevea realizar en cada territorio, sin perjuicio de la regularización final correspondiente.
+No obstante lo previsto en los dos párrafos anteriores, podrá aplicarse, previa comunicación a la Comisión Coordinadora prevista en el artículo 61 de este Convenio Económico, una proporción provisional distinta de la anterior en los siguientes supuestos:
+a) Fusión, escisión y aportación de activos.
+b) Inicio o cese de actividad en uno u otro territorio, o variación significativa de la proporción calculada según el criterio especificado en los párrafos anteriores.
+3.ª En la última declaración-liquidación del impuesto correspondiente a cada año natural el sujeto pasivo calculará las proporciones definitivas según las operaciones realizadas en dicho período y practicará la correspondiente regularización de las declaraciones efectuadas en los anteriores períodos de liquidación con cada una de las Administraciones.
+4.ª Los sujetos pasivos que deban tributar a ambas Administraciones presentarán en la Delegación de Hacienda que corresponda y en la Administración de la Comunidad Foral de Navarra, dentro de los plazos y con las formalidades reglamentarias, los documentos que determinen las disposiciones vigentes y, en su caso, las declaraciones-liquidaciones procedentes, en las que constarán, en todo caso, las proporciones provisional o definitivamente aplicables y las cuotas o devoluciones que resulten frente a las dos Administraciones.
+5.ª En el supuesto de que el importe de las cuotas impositivas devengadas en cada período de liquidación supere la cuantía de las cuotas deducibles durante el mismo período, los sujetos pasivos deberán efectuar el ingreso de las cuotas resultantes a la Administración de la Comunidad Foral de Navarra y a la Delegación de Hacienda que corresponda, en la proporción resultante.
+6.ª Los sujetos pasivos que no hayan podido efectuar las deducciones originadas en cada período de liquidación por exceder la cuantía de las mismas de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor, en los casos que proceda, con arreglo a la normativa del impuesto.
+Corresponderá a la Administración de la Comunidad Foral de Navarra y a la del Estado realizar las devoluciones procedentes, en la parte proporcional respectiva.
+7.ª La inspección se realizará de acuerdo con los siguientes criterios:
+a) La inspección de los sujetos pasivos que deban tributar exclusivamente a la Administración de la Comunidad Foral de Navarra o, en su caso, a la Administración del Estado, se llevará a cabo por las Inspecciones de los Tributos de cada una de dichas Administraciones.
+b) La inspección de los sujetos que deban tributar en proporción al volumen de sus operaciones realizadas en territorio común y navarro se realizará de acuerdo con las siguientes reglas:
+Primera. Si los sujetos pasivos tienen su domicilio fiscal en territorio común, la comprobación e investigación será realizada por los órganos de la Administración del Estado que regularizarán la situación tributaria del sujeto pasivo, incluyendo la proporción de tributación que corresponda a las dos Administraciones competentes.
+Segunda. Si los sujetos pasivos tienen su domicilio fiscal en territorio navarro, la comprobación e investigación será realizada por los órganos competentes de la Administración de la Comunidad Foral de Navarra, sin perjuicio de la colaboración de la Administración del Estado, y surtirá efectos frente a las Administraciones competentes, incluyendo la proporción de tributación que corresponda a las mismas.
+En el caso de que el sujeto pasivo realice en territorio de régimen común el 75 por 100 o más de sus operaciones totales, de acuerdo con los puntos de conexión, será competente la Administración del Estado, sin perjuicio de la colaboración de la Administración de la Comunidad Foral.
+Tercera. Las actuaciones inspectoras se ajustarán a las normativas de la Administración competente, de acuerdo con lo previsto en las reglas anteriores.
+Si, como consecuencia de dichas actuaciones, resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente será efectuado por la Administración actuante, sin perjuicio de las compensaciones que entre aquéllas procedan.
+Cuarta. Lo establecido en las reglas anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Administración de la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+Quinta. Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que se acuerden con carácter definitivo entre ambas Administraciones.
+8.ª Las declaraciones recapitulativas de entregas y adquisiciones intracomunitarias y las de operaciones con terceras personas se presentarán ante la Administración tributaria que tenga atribuida la competencia para la comprobación e investigación de los sujetos pasivos.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Se modifica por el art. único y anejo.1.1 de la Ley 12/1993, de 13 de diciembre. Ref. BOE-A-1993-29578
+
+## Sección 2
+
+Seccion 2.ª Impuestos Especiales
+
+### Artículo 30
+
+Artículo 30. Exacción de los Impuestos Especiales.
+1. Corresponderá a la Comunidad Foral la exacción de los Impuestos Especiales de fabricación cuando el devengo de los mismos se produzca en territorio navarro.
+Las devoluciones de los Impuestos Especiales de fabricación serán efectuadas por la Administración en la que hubieran sido ingresadas las cuotas cuya devolución se solicita. No obstante, en los casos en que no sea posible determinar en qué Administración fueron ingresadas las cuotas, la devolución se efectuará por la correspondiente al territorio donde se genere el derecho a la devolución.
+El control, así como el régimen de autorización de los establecimientos situados en Navarra, corresponderá a la Comunidad Foral. No obstante, para la autorización de los depósitos fiscales será necesario el acuerdo preceptivo previo de la Comisión Coordinadora.
+2. El Impuesto Especial sobre Determinados Medios de Transporte se exigirá por la Comunidad Foral de Navarra, cuando los medios de transporte sean objeto de matriculación definitiva en territorio navarro.
+La matriculación se efectuará conforme a los criterios establecidos por la normativa vigente sobre la materia. En particular las personas físicas efectuarán la matriculación del medio de transporte en la provincia en que se encuentre su domicilio fiscal.
+Las devoluciones de las cuotas de este impuesto serán efectuadas por la Administración en la que las mismas fueron ingresadas.
+3. En la exacción de los Impuestos Especiales que correspondan a la Comunidad Foral, ésta aplicará los mismos principios básicos, normas sustantivas y formales vigentes en cada momento en territorio del Estado. No obstante, la Administración de la Comunidad Foral de Navarra podrá aprobar los modelos de declaración e ingreso, que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Se modifica por el art. único y anejo.1.1 de la Ley 12/1993, de 13 de diciembre. Ref. BOE-A-1993-29578
+
+## Sección 3
+
+Sección 3.ª Impuesto sobre las Primas de Seguros
+Se añade por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 31
+
+Artículo 31. Impuesto sobre las Primas de Seguros.
+1. Corresponderá a la Comunidad Foral de Navarra la exacción del Impuesto sobre las Primas de Seguros cuando la localización del riesgo o del compromiso, en las operaciones de seguro y capitalización, se produzca en territorio navarro.
+2. A estos efectos, se entenderá que la localización del riesgo se produce en territorio navarro, de acuerdo con las reglas siguientes:
+Primera. En el caso de que el seguro se refiera a inmuebles, cuando los bienes radiquen en dicho territorio. La misma regla se aplicará cuando el seguro se refiera a bienes inmuebles y a su contenido, si este último está cubierto por la misma póliza de seguro. Si el seguro se refiere exclusivamente a bienes muebles que se encuentran en un inmueble, con excepción de los bienes en tránsito comercial, cuando el citado inmueble radique en dicho territorio.
+Segunda. En el caso de que el seguro se refiera a vehículos de cualquier naturaleza, cuando la matriculación del vehículo se hubiera producido en territorio navarro.
+Tercera. En el caso de que el seguro se refiera a riesgos que sobrevengan durante un viaje o fuera del domicilio habitual del tomador del seguro, y su duración sea inferior o igual a cuatro meses, cuando se produzca en territorio navarro la firma del contrato por parte del tomador del seguro.
+Cuarta. En todos los casos no explícitamente contemplados en las reglas anteriores, cuando el tomador del seguro tenga su residencia habitual en Navarra, o, si fuera una persona jurídica, cuando el domicilio social o sucursal de la misma a que se refiere el contrato se encuentre en dicho territorio.
+3. En el caso de seguros sobre la vida, se entenderá que la localización del compromiso se produce en territorio navarro, cuando el tomador del seguro tenga en el mismo su residencia habitual, si es una persona física, o su domicilio social o una sucursal, en caso de que el contrato se refiera a esta última, si es una persona jurídica.
+4. En defecto de normas específicas de localización de acuerdo con los números anteriores, se entienden realizadas en territorio navarro las operaciones de seguro y capitalización cuando el contratante sea un empresario o profesional que concierte las operaciones en el ejercicio de sus actividades empresariales o profesionales y radique en dicho territorio la sede de su actividad económica o tenga en el mismo un establecimiento permanente o, en su defecto, el lugar de su domicilio.
+5. En la exacción del impuesto la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales que las establecidas en cada momento por el Estado.
+No obstante, la Administración de la Comunidad Foral podrá aprobar los modelos de declaración e ingreso y señalar los plazos de ingreso que no diferirán sustancialmente de los establecidos por la Administración del Estado.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Esta modificación será aplicable a partir del 1 de enero de 1997, según establece el anejo.1.2.
+ Se modifica por el art. único y anejo.1.1 de la Ley 12/1993, de 13 de diciembre. Ref. BOE-A-1993-29578
+
+## Sección 3
+
+Seccion 3.ª Impuesto sobre Transmisiones Patrimoniales y Actos Juridicos Documentados
+
+## Sección 4
+
+Seccion 4.ª Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
+Se reenumera por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Su anterior numeración era sección 3ª.
+
+### Artículo 32
+
+Artículo 32. Exacción por la Comunidad Foral de Navarra.
+1. Corresponde a la Comunidad Foral la exacción del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados en los siguientes supuestos:
+A) Transmisiones patrimoniales onerosas.
+1.º En la transmisión onerosa de bienes inmuebles, así como en la cesión onerosa de derechos de toda clase, incluso de garantía, que recaigan sobre los mismos, cuando aquéllos radiquen en Navarra.
+A estos efectos tendrán la consideración de transmisión de bienes inmuebles las transmisiones a título oneroso de valores a que se refiere el ar tículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+2.º En la transmisión onerosa de bienes muebles, semovientes y créditos, así como en la cesión onerosa de derechos sobre los mismos, cuando el adquirente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+No obstante lo establecido en el párrafo anterior, en la transmisión de acciones, derechos de suscripción, obligaciones y títulos análogos y demás valores, así como de participaciones sociales, cuando la operación se formalice en Navarra.
+3.º En la constitución onerosa de derechos de toda clase sobre bienes inmuebles, incluso de garantía, cuando éstos radiquen en Navarra.
+4.º En la constitución onerosa de derechos de toda clase sobre bienes muebles, semovientes y créditos, cuando el adquirente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+No obstante lo establecido en el párrafo anterior, en la constitución de hipoteca mobiliaria y prenda sin desplazamiento, cuando la garantía sea inscribible en territorio navarro.
+5.º En la constitución de préstamos, cuando el prestatario, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad tenga en ella su domicilio fiscal.
+Sin embargo, si se trata de préstamos con garantía real, cuando los bienes inmuebles hipotecados radiquen en Navarra o sean inscribibles en ésta las correspondientes hipotecas mobiliarias o prendas sin desplazamiento.
+Si un mismo préstamo estuviese garantizado con hipoteca sobre bienes inmuebles sitos en territorio común y foral o con hipoteca mobiliaria o prenda sin desplazamiento inscribible en ambos territorios, tributará a cada Administración en proporción a la responsabilidad que se señale a unos y otros y, en ausencia de esta especificación expresa en la escritura, en proporción a los valores comprobados de los bienes.
+6.º En la constitución de fianzas, arrendamientos no inmobiliarios y pensiones, cuando el acreedor afianzado, arrendatario o pensionista, respectivamente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+7.º En las concesiones administrativas de bienes cuando éstos radiquen en Navarra y en las ejecuciones de obra o explotaciones de servicios cuando se ejecuten o presten en Navarra.
+B) Operaciones societarias:
+1.º En la constitución de sociedades y en la fusión con extinción de las sociedades integradas y creación de nueva sociedad, cuando el domicilio social del ente creado radique en Navarra.
+2.º En los supuestos de aumento y disminución de capital, fusión por absorción, transformación, disolución y escisión de sociedades, cuando la sociedad modificada, absorbente, transformada, disuelta o escindida tenga su domicilio fiscal en Navarra.
+C) Actos jurídicos documentados:
+1.º En las escrituras, actas y testimonios notariales, cuando se autoricen, otorguen o expidan en Navarra.
+No obstante lo dispuesto en el párrafo anterior, en los supuestos sujetos a la cuota gradual del gravamen de Actos Jurídicos Documentados, cuando radique en territorio navarro el Registro en el que deba procederse a la inscripción o anotación de los bienes o actos.
+2.º En las letras de cambio y documentos que realicen función de giro, o suplan a aquéllas, cuando su libramiento tenga lugar en Navarra y, si hubiesen sido expedidos en el extranjero, cuando su primer tenedor tenga su residencia habitual o domicilio fiscal en Navarra, según se trate de persona física o de persona jurídica o ente sin personalidad. La Comunidad Foral de Navarra someterá los hechos imponibles señalados a igual tributación que en territorio común.
+3.º En los resguardos o certificados de depósito transmisibles, cuando el domicilio fiscal de la entidad que los emita o expida radique en Navarra.
+4.º En los pagarés, bonos, obligaciones y demás títulos análogos emitidos en serie, representativos de capitales ajenos, por los que se satisfaga una contraprestación establecida por diferencia entre el importe satisfecho por la emisión y el comprometido a reembolsar al vencimiento, cuando se emitan en Navarra.
+5.º En las pólizas expedidas por fedatarios mercantiles para dotar de título de propiedad a quienes hayan suscrito títulos valores, cuando sean intervenidos en Navarra.
+6.º En las anotaciones preventivas, cuando se practiquen en los Registros públicos sitos en Navarra.
+Si una misma anotación afecta a bienes sitos en Navarra y en territorio común se satisfará el Impuesto a la Administración en la que tenga su jurisdicción la autoridad que la ordene.
+7.º En los demás actos jurídicos documentados de naturaleza jurisdiccional, cuando el órgano ante quien se produzcan o del cual procedan tenga su sede en Navarra y, en los de naturaleza administrativa, cuando se expidan desde Navarra.
+2. Se someterán a igual tributación que en territorio común la transmisión de valores a que se refiere el párrafo segundo del número 2.º de la letra A) del apartado 1 anterior y los actos de constitución, ampliación y disminución de capital, transformación, fusión, escisión y disolución de sociedades.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+ Esta modificación será aplicable a partir del 1 de enero de 1997, según establece el anejo.1.2.
+ Redactado el apartado 1.A).7º conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251
+
+### Artículo 33
+
+Artículo 33. Elusión fiscal mediante sociedades.
+A los efectos de la aplicación de las normas relativas a la elusión fiscal mediante sociedades, será competente para la práctica de las liquidaciones la Administración del Estado cuando los bienes inmuebles estén situados en territorio de régimen común y la de la Comunidad Foral cuando radiquen en territorio navarro.
+En los supuestos en que las aportaciones o los activos de las sociedades comprendiesen inmuebles ubicados en ambos territorios, cada Administración practicará la liquidación que corresponda en función de los valores de los inmuebles radicantes en su respectivo territorio.
+
+## CAPÍTULO IV
+
+Tasas, precios públicos y exacciones reguladoras de precios
+
+## Sección 1
+
+Seccion 1.ª Tasas
+
+### Artículo 34
+
+Artículo 34. Exacción por la Comunidad Foral de Navarra.
+1. Corresponde a la Comunidad Foral la exacción de las tasas exigibles por la prestación de servicios o la realización de actividades en régimen de derecho público efectuados por aquélla.
+2. Corresponde a la Comunidad Foral la exacción de las tasas que recaigan sobre rifas, tómbolas, apuestas, combinaciones aleatorias y juegos de suerte, envite o azar, cuando su autorización, celebración u organización se realice en Navarra, aplicándose idéntica normativa que la de régimen común, en lo que se refiere al hecho imponible y al sujeto pasivo.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 2
+
+Seccion 2.ª Precios publicos
+
+### Artículo 35
+
+Artículo 35. Exacción por la Comunidad Foral de Navarra.
+Corresponderá a la Comunidad Foral la exacción de los precios públicos cuando se devenguen con ocasión de entregas de bienes o prestaciones de servicios públicos realizados por la misma.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## Sección 3
+
+Seccion 3.ª Exacciones reguladoras de precios
+
+### Artículo 36
+
+Artículo 36. Exacción por la Comunidad Foral de Navarra.
+Corresponderá a la Comunidad Foral la gestión, inspección, recaudación y revisión de las exacciones reguladoras de precios que afecten a bienes o productos almacenados en Navarra, salvo que tales exacciones se destinen a financiar órganos o servicios que no sean de la Comunidad Foral.
+Corresponderá en todo caso al Estado la competencia para el establecimiento y regulación de las citadas exacciones.
+
+## CAPÍTULO V
+
+Normas de gestión y procedimiento
+
+### Artículo 37
+
+Artículo 37. Delito fiscal.
+En los supuestos en que las infracciones pudieran ser constitutivas de los delitos contra la Hacienda Pública regulados en el Código Penal, el órgano de la Administración actuante pasará el tanto de culpa a la jurisdicción competente y se abstendrá de seguir el procedimiento administrativo mientras la autoridad judicial no dicte sentencia firme, tenga lugar el sobreseimiento o archivo de las actuaciones o se produzca la devolución del expediente por el Ministerio Fiscal.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 38
+
+Artículo 38. Discrepancias y cambio de domicilio fiscal.
+1. Las discrepancias que puedan producirse respecto a la domiciliación de los contribuyentes serán resueltas, previa audiencia de éstos, por la Junta Arbitral, que se regula en el artículo 45 de este Convenio.
+Los sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades vendrán obligados a comunicar a ambas Administraciones los cambios de residencia o de domicilio fiscal que originen modificaciones en la competencia para exigir el impuesto.
+2. a) Las personas físicas residentes en territorio común o foral que pasasen a tener su residencia habitual de uno al otro, cumplimentarán sus obligaciones tributarias de acuerdo con la nueva residencia, cuando ésta actúe como punto de conexión.
+Además, cuando en virtud de lo previsto en el punto b) siguiente deba considerarse que no ha existido cambio de residencia, las personas físicas deberán presentar las declaraciones complementarias que correspondan, con inclusión de los intereses de demora.
+b) Noproducirán efecto los cambios de residencia que tengan por objeto principal lograr una menor tributación efectiva.
+Se presumirá, salvo que la nueva residencia se prolongue de manera continuada durante, al menos, tres años, que no ha existido cambio, en relación al Impuesto sobre la Renta de las Personas Físicas y sobre el Patrimonio, cuando concurran las siguientes circunstancias: en primer lugar, que en el año en el cual se produce el cambio de residencia o en el siguiente, la base imponible del Impuesto sobre la Renta de las Personas Físicas sea superior en, al menos, un 50 por 100 a la del año anterior al cambio; en segundo lugar, que en el año en el cual se produzca dicha situación, la tributación efectiva por el Impuesto sobre la Renta de las Personas Físicas sea inferior a la que hubiese correspondido de acuerdo con la normativa aplicable del territorio de residencia anterior al cambio, y en tercer lugar, que se vuelva a tener la residencia habitual en dicho territorio.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 39
+
+Artículo 39. Colaboración de las entidades financieras en la gestión de los tributos.
+1. Corresponderá a la Comunidad Foral de Navarra la investigación tributaria de cuentas y operaciones, activas y pasivas, de las entidades financieras y de cuantas personas físicas o jurídicas se dediquen al tráfico bancario o crediticio, en orden a la exacción de los tributos cuya competencia corresponda a la Comunidad Foral.
+2. Cuando las actuaciones de obtención de información a que se refiere el número anterior hayan de practicarse fuera del territorio navarro, se estará a lo dispuesto en el artículo siguiente.
+Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251
+
+### Artículo 40
+
+Artículo 40. Actuaciones de la Inspección de los tributos.
+1. Las actuaciones comprobadoras e investigadoras que, en el ámbito de las competencias atribuidas por el presente Convenio a la Comunidad Foral de Navarra, deban efectuarse fuera de su territorio, serán practicadas por la Inspección Financiera y Tributaria del Estado, a requerimiento del órgano competente de dicha Comunidad Foral.
+2. Cuando la Inspección Tributaria del Estado o de la Comunidad Foral conocieren, con ocasión de sus actuaciones comprobadoras e investigadoras, hechos con trascendencia tributaria para la otra Administración, lo comunicarán a ésta en la forma que se determine.
+
+### Artículo 41
+
+Artículo 41. Fusiones y escisiones de empresas.
+En las operaciones de fusión o escisión de empresas en las que los beneficios tributarios que, en su caso, procedan hayan de ser reconocidos por ambas Administraciones, Navarra aplicará idéntica normativa que la vigente en cada momento en territorio común, tramitándose los correspondientes expedientes administrativos ante cada una de aquéllas.
+
+## CAPÍTULO VI
+
+Haciendas locales
+
+### Artículo 42
+
+Artículo 42. Principio general.
+Corresponden a la Comunidad Foral en materia de Haciendas Locales las facultades y competencias que ostenta al amparo de lo establecido en la Ley Paccionada, de 16 de agosto de 1841, en el Real Decreto-Ley Paccionado, de 4 de noviembre de 1925, y demás disposiciones complementarias.
+
+### Artículo 43
+
+Artículo 43. Tributos locales.
+Sin perjuicio de lo dispuesto en el artículo anterior, corresponde a las Haciendas Locales de Navarra la exacción de los siguientes tributos:
+a) Los que recaigan sobre bienes inmuebles sitos en Navarra.
+b) Los que graven el ejercicio de actividades empresariales, profesionales y artísticas, cuando se ejerzan en Navarra, salvo en los supuestos en que el pago del impuesto faculte para el ejercicio de la actividad correspondiente en todo el territorio nacional, en cuyo caso la exacción corresponderá a la Administración de la residencia habitual o del domicilio fiscal, según se trate de persona física o de persona jurídica o ente sin personalidad, respectivamente.
+c) Los que graven la titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas, cuando el domicilio que conste en el permiso de circulación del vehículo radique en Navarra.
+d) Los que recaigan sobre la realización de obras, construcciones e instalaciones para las que sea exigible la obtención de la correspondiente licencia, cuando las mismas tengan lugar en Navarra.
+
+### Artículo 44
+
+Artículo 44. Participación de las Entidades Locales de Navarra en los tributos del Estado.
+Las Entidades Locales de Navarra participarán en los ingresos tributarios del Estado, en la parte correspondiente a aquellos tributos cuya exacción no corresponda a la Comunidad Foral según las normas del presente Convenio.
+
+## CAPÍTULO VII
+
+Junta Arbitral
+
+### Artículo 45
+
+Artículo 45. Junta Arbitral.
+1. Se constituye una Junta Arbitral que entenderá de los conflictos que surjan entre las Administraciones interesadas como consecuencia de la interpretación y aplicación del presente Convenio a casos concretos concernientes a relaciones tributarias individuales.
+Asimismo, resolverá los conflictos que se planteen entre la Administración del Estado y la de la Comunidad Foral o entre ésta y la Administración de una Comunidad Autónoma, en relación con la aplicación de los puntos de conexión de los tributos cuya exacción corresponde a la Comunidad Foral de Navarra y la determinación de la proporción correspondiente a cada Administración en los supuestos de tributación conjunta por el Impuesto sobre Sociedades o por el Impuesto sobre el Valor Añadido.
+2. La Junta Arbitral estará presidida por un Magistrado del Tribunal Supremo, designado para un plazo de cinco años por el Presidente de dicho Tribunal, a propuesta del Consejo General del Poder Judicial y oído el Tribunal Superior de Justicia de Navarra.
+3. Serán Vocales de esta Junta:
+a) Cuatro representantes de la Administración del Estado designados por el Ministerio de Economía y Hacienda.
+b) Cuatro representantes de la Comunidad Foral designados por el Gobierno de Navarra.
+Cuando el conflicto afecte a la Administración de una Comunidad Autónoma, el Ministerio de Economía y Hacienda sustituirá un representante de la Administración del Estado por otro designado por el Consejo ejecutivo o Gobierno de la Comunidad Autónoma.
+4. La Junta Arbitral en su primera reunión adoptará las normas de procedimiento, legitimación y plazos que ante aquélla se hayan de seguir, inspirándose en los principios de la Ley sobre Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+5. Los acuerdos de esta Junta Arbitral, sin perjuicio de su carácter ejecutivo, serán únicamente susceptibles de recursos en vía contencioso-administrativa ante la Sala correspondiente del Tribunal Supremo.
+6. Cuando se suscite el conflicto de competencias, hasta tanto sea resuelto el mismo, la Administración que viniera grabando a los contribuyentes en discusión continuará sometiéndolos a su fuero, sin perjuicio de las rectificaciones y compensaciones tributarias que deban efectuarse entre ellas, retrotraídas a la fecha desde la que proceda ejercer el nuevo fuero tributario, según el acuerdo de la Junta Arbitral.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## TÍTULO II
+
+Aportación económica
+
+## CAPÍTULO I
+
+Método de determinación de la aportación
+
+### Artículo 46
+
+Artículo 46. Concepto de la aportación.
+La contribución de Navarra al Estado consistirá en una aportación anual, como participación de la Comunidad Foral en la financiación de las cargas generales del Estado.
+
+### Artículo 47
+
+Artículo 47. Determinación de la aportación.
+La aportación anual se determinará aplicando el índice de imputación al importe total de las cargas del Estado no asumidas por la Comunidad Foral y de las correspondientes compensaciones, todo ello conforme se establece en los artículos siguientes.
+
+### Artículo 48
+
+Artículo 48. Cargas del Estado no asumidas por la Comunidad Foral.
+1. Se consideran cargas del Estado no asumidas por la Comunidad Foral todas las que correspondan a competencias que no sean ejercidas efectivamente por la misma.
+Para la determinación del importe de dichas cargas, se deducirá del total del Presupuesto de Gastos del Estado el importe íntegro, a nivel estatal, de los créditos que se refieran a competencias ejercidas por la Comunidad Foral, tanto en virtud de los correspondientes Reales Decretos de traspaso de servicios, como al amparo de lo establecido en la Ley Paccionada de 16 de agosto de 1841 y disposiciones complementarias.
+2. En cualquier caso, se considerarán como cargas no asumidas por la Comunidad Foral, entre otras, las siguientes:
+a) Las cantidades con que se dote el Fondo de Compensación Interterritorial, al que se refiere el artículo 158.2 de la Constitución.
+b) Las transferencias o subvenciones que figuren en los Presupuestos Generales del Estado en favor de entes públicos, en la medida en que las competencias desempeñadas por los mismos no sean ejercidas por la Comunidad Foral.
+c) Los intereses y cuotas de amortización de todas las deudas del Estado.
+Redactado el párrafo segundo del apartado 1 conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251
+
+### Artículo 49
+
+Artículo 49. Aportación íntegra.
+La cantidad que resulte de aplicar a las cargas del Estado no asumidas por la Comunidad Foral el índice de imputación a que se refiere el artículo 51 de este Convenio Económico, constituirá la aportación íntegra de Navarra.
+
+### Artículo 50
+
+Artículo 50. Compensaciones.
+1. De la aportación íntegra de la Comunidad Foral se restarán, por compensación, las siguientes cantidades:
+a) La parte imputable de los tributos no convenidos.
+b) La parte imputable de los ingresos del Estado de naturaleza no tributaria.
+c) La parte imputable del déficit que presenten los Presupuestos Generales del Estado.
+d) Lascantidades a que se refieren los artículos 9.º, 3 y 11.3 del presente Convenio Económico.
+2. La determinación de las cantidades a que se refieren las letras a), b) y c) del número 1 anterior se efectuará aplicando el índice de imputación establecido en el artículo siguiente.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 51
+
+Artículo 51. Indice de imputación.
+El índice de imputación al que se refieren los artículos 47, 49 y 50 precedentes, se determinará básicamente en función de la renta relativa de Navarra.
+
+### Artículo 52
+
+Artículo 52. Aportación líquida.
+La cantidad que resulte tras la práctica de las compensaciones reguladas en el artículo 50 de este Convenio Económico constituye la aportación líquida de Navarra.
+
+## CAPÍTULO II
+
+Procedimiento de cuantificación, actualización y periodificación de la aportación
+
+### Artículo 53
+
+Artículo 53. Periodicidad y actualización de la aportación.
+1. El método de determinación de la aportación establecido en el Capítulo anterior se aplicará, mediante acuerdo entre ambas Administraciones, cada cinco años, a partir del primero de vigencia del presente Convenio. Dicho acuerdo determinará la cuantía de la aportación líquida correspondiente al año base del quinquenio.
+2. Para cada uno de los años restantes del quinquenio, la aportación líquida se determinará mediante la aplicación, a la aportación del año base, del índice de actualización establecido en el número 1 del artículo 54 siguiente.
+3. Sin perjuicio de lo establecido en el número anterior, para cada uno de los años restantes del quinquenio se determinará una aportación líquida provisional mediante la aplicación, a la aportación líquida del año base, del índice de actualización provisional establecido en el número 2 del artículo 54 siguiente.
+4. La aportación líquida del año base y las aportaciones líquidas provisionales de los años restantes del quinquenio se incluirán en los Presupuestos Generales del Estado y en los de la Comunidad Foral de Navarra del respectivo ejercicio económico, a los efectos pertinentes.
+
+### Artículo 54
+
+Artículo 54. Indice de actualización.
+1. El índice de actualización al que se refiere el número 2 del artículo 53 anterior será el cociente entre la recaudación líquida obtenida por el Estado por los tributos convenidos, excepto los susceptibles de cesión a las Comunidades Autónomas, en el ejercicio al que se refiera la aportación líquida y la recaudación liquida obtenida por el mismo, por iguales conceptos tributarios, en el año base del quinquenio.
+2. El índice de actualización provisional a que se refiere el número 3 del artículo 53 anterior será el cociente entre la previsión de ingresos por tributos convenidos, excepto los susceptibles de cesión a las Comunidades Autónomas, que figura en los Capítulos I y II del Presupuesto de Ingresos del Estado del ejercicio al que se refiera la aportación líquida provisional y los ingresos previstos por el mismo, por iguales conceptos tributarios, en el año base del quinquenio.
+3. La recaudación líquida a que se refiere el número 1 de este artículo será la que se certifique por la Intervención General de la Administración del Estado, computándose como tal la obtenida en el año al que se refiera la certificación, cualquiera que sea el del devengo.
+
+### Artículo 55
+
+Artículo 55. Efectos por variación en las competencias asumidas por la Comunidad Foral.
+1. Si en cualquiera de los años del quinquenio se produjesen traspasos de servicios estatales a Navarra, cuyo coste anual figurado en los Presupuestos Generales del Estado se hubiese computado como carga no asumida por la Comunidad Foral a efectos de la determinación de la aportación líquida del año base, se procederá a reducir dicho coste anual en la proporción adecuada a la parte del año en que Navarra asuma efectivamente los citados servicios y, en consecuencia, a minorar la aportación líquida en la cuantía que resulte por aplicación del índice de imputación previsto en el artículo 51 de este Convenio Económico.
+La citada reducción proporcional deberá tener en cuenta la periodicidad real de los gastos corrientes y el efectivo grado de realización de las inversiones.
+2. En el caso de que Navarra dejase de ejercer competencias que se hubiesen computado como asumidas a efectos de determinar la aportación líquida del año base, se incrementará la aportación líquida del ejercicio correspondiente en la cuantía que resulte de la aplicación de lo dispuesto en el número anterior.
+3. Para los ejercicios siguientes, la aportación líquida del año base a actualizar será la resultante de reducir o incrementar, según proceda, la aportación líquida fijada inicialmeme en el importe que resulte de aplicar el índice de imputación regulado en el artículo 51 de este Convenio Económico, al coste anual a nivel estatal del servicio o competencia traspasada o dejada de ejercer, previa aplicación del índice previsto en el artículo 54 anterior.
+4. Cuando los servicios traspasados por el Estado estuviesen integrados en el sistema de la Seguridad Social no será de aplicación lo establecido en los números 1 y 3 precedentes y se estará a lo que establezcan los respectivos Reales Decretos de traspaso a efectos de la incidencia del mismo en la aportación líquida del año en que el traspaso sea efectivo y en la del año base del quinquenio.
+
+### Artículo 56
+
+Artículo 56. Liquidación definitiva.
+1. Las aportaciones líquidas provisionales se liquidarán definitivamente aplicando el índice de actualización establecido en el número 1 del artículo 54 de este Convenio Económico.
+2. La liquidación definitiva se realizará en el mes de marzo del ejercicio siguiente al que se refiera la aportación líquida provisional objeto de la misma y las diferencias que resulten respecto de esta última se regularizarán en el ingreso que, conforme a lo establecido en el artículo siguiente, ha de efectuarse en dicho mes.
+
+### Artículo 57
+
+Artículo 57. Ingreso de la aportación liquida provisional.
+1. La cantidad a ingresar por la Comunidad Foral de Navarra en cada ejercicio se abonará a la Hacienda Pública del Estado en cuatro plazos de igual importe, en los meses de marzo, junio, septiembre y diciembre del ejercicio respectivo.
+2. Si al cumplirse alguno de los plazos en los que deba realizarse el ingreso de la aportación líquida provisional, no hubiese sido posible fijar ésta, el ingreso se efectuará con arreglo a la última aportación líquida provisional fijada.
+Los pagos así efectuados tendrán el carácter de «a cuenta», debiendo practicarse la liquidación e ingreso de las diferencias que pudieran existir en favor de una u otra Administración tan pronto sea conocida la aportación líquida correspondiente al ejercicio de que se trate.
+
+## CAPÍTULO III
+
+Ajustes a la recaudación tributaria
+
+### Artículo 58
+
+Artículo 58. Ajuste por impuestos directos.
+Para el perfeccionamiento de la estimación de los ingresos que por impuestos directos convenidos sean atribuibles a Navarra y al resto del Estado, ambas Administraciones efectuarán de común acuerdo un ajuste de los mismos.
+
+### Artículo 59
+
+Artículo 59. Ajustes por impuestos indirectos.
+1. A la recaudación real de Navarra por el Impuesto sobre el Valor Añadido, se le añadirá el resultado de la siguiente expresión matemática:
+2. A la recaudación real por los Impuestos Especiales de Fabricación, sobre el Alcohol y Bebidas Derivadas, Productos Intermedios, Cerveza, Hidrocarburos y Labores del Tabaco, se le añadirá el resultado de las siguientes expresiones matemáticas:
+a) Alcohol, Bebidas Derivadas y Productos Intermedios:
+b) Cerveza:
+c) Hidrocarburos:
+d) Labores del Tabaco:
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Artículo 60
+
+Artículo 60. Cuantificación y liquidación de los ajustes.
+1. La cuantificación y liquidación de los ajustes previstos en los artículos 58 y 59 precedentes se efectuará, mediante acuerdo entre ambas Administraciones, conforme a un procedimiento similar al establecido en el capítulo II.
+2. En el caso de que las recaudaciones reales obtenidas por Navarra por los impuestos a los que se refiere el artículo 59 difieran significativamente de sus índices de capacidad recaudatoria en el caso de los Impuestos Especiales, y del índice '' del ajuste por el Impuesto sobre el Valor Añadido, se procederá a ajustar los mismos, permitiendo, en todo caso, un margen diferencial, para efectuar los ajustes del año en que se produzcan las desviaciones citadas.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+## TÍTULO III
+
+Comisión Coordinadora
+
+### Artículo 61
+
+Artículo 61. Comisión Coordinadora.
+1. Se constituirá una Comisión Coordinadora, cuya composición será la siguiente:
+a) Seis representantes de la Administración del Estado.
+b) Seis representantes de la Comunidad Foral designados por el Gobierno de Navarra.
+2. Las competencias de esta Comisión Coordinadora serán:
+a) Realizar los estudios que se estimen procedentes para una adecuada articulación estructural y funcional del régimen foral con el marco fiscal estatal.
+b) Facilitar a las Administraciones competentes criterios de actuación uniformes, planes y programas de informática.
+c) Examinar los supuestos o cuestiones que se hayan planteado en materia de inspección entre la Administración del Estado y la de la Comunidad Foral.
+d) Emitir los informes que sean solicitados por el Ministerio de Economía y Hacienda, el Departamento de Economía y Hacienda del Gobierno de Navarra y por la Junta Arbitral.
+e) Examinar los problemas de valoración a efectos tributarios.
+f) Determinar la aportación económica, tanto del año base como de los restantes de cada quinquenio, a la que se refiere el artículo 53 a fin de elevarla a ambas Administraciones para la adopción del correspondiente acuerdo.
+g) Fijar la actualización de la cifra a que se refiere la disposición adicional segunda, para su aprobación por ambas Administraciones.
+h) Establecer el método para la cuantificación y liquidación de los ajustes por impuestos indirectos regulados en los artículos 59 y 60 del presente Convenio Económico.
+3. La Comisión Coordinadora se reunirá, al menos dos veces al año, durante los meses de marzo y septiembre y, además, cuando así lo solicite alguna de las Administraciones representadas
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se aprueba la aportación líquida definitiva de Navarra para el ejercicio 1990, año base del quinquenio 1990-1994, que figura en el Anexo I del presente Convenio Económico.
+La citada aportación líquida se ha fijado según la situación real de las competencias asumidas por la Comunidad Foral el 1 de julio de 1990.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cifra de trescientos millones de pesetas a que se refieren los artículos 17 y 28 será actualizada, al menos, cada cinco años, conforme a lo dispuesto en el artículo 61 del presente Convenio Económico.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el caso de producirse una reforma sustancial en el ordenamiento jurídico tributario del Estado, se procederá por ambas Administraciones, de común acuerdo, a la adaptación del presente Convenio a las modificaciones que hubiesen experimentado los tributos convenidos y a la revisión, en su caso, de la aportación líquida del año base del quinquenio que corresponda, en la forma y cuantía procedentes, con efectos a partir del año en que entre en vigor la citada reforma.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Hasta tanto se dicten por la Comunidad Foral las normas necesarias para la aplicación de este Convenio, relativas a los Impuestos Especiales, Impuesto sobre el Valor Añadido y al Impuesto sobre las Primas de Seguros, así como las normas para la exacción de las tasas a que se refiere el número 2 del artículo 34, se aplicarán las normas vigentes en territorio común.
+Se modifica por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Estado y la Comunidad Foral podrán acordar la financiación conjunta de inversiones a realizar en Navarra, o en otros territorios, cuando la naturaleza o características de las mismas aconseje este tipo de financiación.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Ambas Administraciones, de común acuerdo, establecerán anualmente la valoración del coste de las competencias ejercidas por la Comunidad Foral en materia de policía.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Para el quinquenio 1990/1994 el índice de imputación al que se refiere el artículo 51 de este Convenio es el 1,60 por 100.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Conforme a lo previsto en la Disposición Final y en la Disposición Adicional Primera, la aportación líquida-definitiva a satisfacer por la Comunidad Foral en el año 1990 es de 30.913,7 millones de pesetas.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Durante el primer quinquenio de vigencia del presente Convenio a la recaudación real de Navarra por el Impuesto sobre el Valor Añadido se le añadirán:
+a) El 1,547 por 100 de la recaudación estatal por el Impuesto sobre el Valor Añadido obtenida en las Aduanas.
+b) La diferencia existente entre el 1,661 por 100 de la recaudación real en territorio común por el Impuesto sobre el Valor Añadido causada por el hecho imponible de las adquisiciones intracomunitarias y el 98,339 por 100 de la recaudación real por el mismo concepto en la Comunidad Foral de Navarra.
+Para la determinación de la recaudación correspondiente a las adquisiciones intracomunitarias se computará la procedente de las ventas a distancia efectuadas por no establecidos en España.
+c) El 0,255 por 100 de la recaudación real del Impuesto sobre el Valor Añadido, excluida la de las Aduanas y la correspondiente a las adquisiciones intracomunitarias, obtenida en territorio común dividida por 0,92811, o de la recaudación real de Navarra, excluida la correspondiente a las adquisiciones intracomunitarias, dividida por 0,01292, según que el porcentaje de recaudación de Navarra con respecto a la total estatal, excluido el País Vasco, sea superior o inferior, respectivamente, al 1,392 por ciento.
+Se modifica por el art. único y anejo.1.1 de la Ley 12/1993, de 13 de diciembre. Ref. BOE-A-1993-29578
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Si en cualquiera de los años que, durante la vigencia del presente Convenio Económico, deban considerarse como año base de quinquenio, no se aprobase en plazo oportuno la aportación líquida correspondiente al citado año base, se fijará, para dicho ejercicio y, en su caso, para los subsiguientes, una aportación líquida provisional, conforme a lo establecido en el número 3 del artículo 53 de este Convenio Económico.
+Las aportaciones líquidas provisionales así determinadas no serán objeto de liquidación definitiva y serán regularizadas una vez establecida la aportación líquida definitiva del año base del quinquenio correspondiente.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+En el primer ejercicio de aplicación del presente Convenio Económico, las normas contenidas en la Sección Tercera del Capítulo Segundo y Sección Tercera del Capítulo Tercero, del Título Primero, tendrán en cuenta como volumen de operaciones y lugar de realización de las mismas las que hubieran correspondido como definitivas en el ejercicio precedente, de haber estado vigentes en el mismo dichos preceptos.
+Asimismo, las retenciones en la fuente, ingresos y pagos a cuenta que proceda efectuar durante el citado primer ejercicio se practicarán de acuerdo con los criterios establecidos en el párrafo anterior.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Lo previsto en el número 2 del artículo 25 del presente Convenio Económico será de aplicación a los grupos de sociedades que se constituyan con posterioridad a la entrada en vigor de esta disposición transitoria.
+Se añade por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+El régimen transitorio de los nuevos tributos convenidos se ajustará a las reglas siguientes:
+1.ª La Comunidad Foral se subrogará en los derechos y obligaciones, en materia tributaria, de la Hacienda Pública Estatal, en relación con la gestión, inspección, revisión y recaudación de los tributos a que se refiere la presente disposición.
+2.ª Las cantidades liquidadas y contraídas con anterioridad a la fecha desde la que se entienden convenidos los tributos a que se refiere la presente disposición, correspondientes a situaciones que hubieran estado sujetas a la Comunidad Foral de haber estado convenidos estos tributos, y que se ingresen con posterioridad a la mencionada fecha, corresponderán en su integridad a la Comunidad Foral de Navarra.
+3.ª Las cantidades devengadas con anterioridad a la fecha desde la que se entienden convenidos los tributos a que se refiere la presente disposición, y liquidadas a partir de esa fecha en virtud de actuaciones inspectoras, se distribuirán aplicando los criterios y puntos de conexión de estos tributos.
+4.ª Cuando proceda, las devoluciones correspondientes a liquidaciones practicadas o que hubieran debido practicarse, con anterioridad a la fecha de la que se entienden convenidos los tributos a que se refiere la presente disposición, serán realizadas por la Administración que hubiera sido competente en la fecha del devengo, conforme a los criterios y puntos de conexión de estos tributos.
+5.ª Los actos administrativos dictados por la Comunidad Foral de Navarra serán reclamables en vía administrativa foral ante los órganos de la misma. Por el contrario, los dictados por la Administración del Estado, cualquiera que sea su fecha, serán reclamables ante los órganos competentes del Estado.
+No obstante, el ingreso correspondiente se atribuirá a la Administración que resulte acreedora de acuerdo con las normas contenidas en las reglas anteriores.
+6.ª A los efectos de la calificación de infracciones tributarias, así como de las sanciones que a las mismas correspondan en cada caso, tendrán plena validez y eficacia los antecedentes que sobre el particular obren en la Hacienda Pública Estatal con anterioridad a la entrada en vigor de la armonización de los tributos a que se refiere la presente disposición.
+7.ª La entrada en vigor de la armonización de los tributos a que se refiere la presente disposición transitoria no perjudicará a los derechos adquiridos por los contribuyentes conforme a las leyes dictadas con anterioridad a dicha fecha.
+Se añade por el art. único y anejo 1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Durante el quinquenio 1995-1999 el ajuste por el Impuesto sobre el Valor Añadido se determinará conforme a lo dispuesto en los artículos 59, número 1, y 60.
+Se añade por el art. único y anejo.1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+1. Durante el período 1998-1999, a la recaudación real de Navarra por los Impuestos Especiales de Fabricación sobre el Alcohol y Bebidas Derivadas, Productos Intermedios, Cerveza, Hidrocarburos y Labores del Tabaco, se le añadirán:
+a) 1. El 1,60 por 100 de la recaudación estatal por los Impuestos sobre el Alcohol, Bebidas Derivadas y Productos Intermedios obtenida en las Aduanas.
+2. Con signo negativo el 4,30 por 100 de la recaudación real por los Impuestos sobre el Alcohol y Bebidas Derivadas y sobre Productos Intermedios excluida la de las Aduanas, obtenida en Territorio Común dividida por 0,941 o de la recaudación real de Navarra dividida por 0,059, según que el porcentaje de recaudación de Navarra con respecto a la total estatal, excluida la obtenida en las Aduanas, sea superior o inferior, respectivamente, al 5,90 por 100.
+b) 1. El 1,60 por 100 de la recaudación estatal por el Impuesto Especial sobre la Cerveza obtenida en las Aduanas.
+2. Con signo negativo el 0,50 por 100 de la recaudación real del Impuesto Especial sobre la Cerveza, excluida la de las Aduanas, obtenida en Territorio Común dividida por 0,979 o de la recaudación real de Navarra dividida por 0,021, según que el porcentaje de recaudación de Navarra con respecto a la total estatal, excluida la obtenida en las Aduanas, sea superior o inferior, respectivamente, al 2,10 por 100.
+c) 1. El 2 por 100 de la recaudación estatal por el Impuesto Especial sobre Hidrocarburos obtenida en las Aduanas.
+2. Con signo negativo el 0,71 por 100 de la recaudación real del Impuesto Especial sobre Hidrocarburos, excluida la de las Aduanas, obtenida en Territorio Común dividida por 0,9729, o de la recaudación real de Navarra dividida por 0,0271, según que el procentaje de recaudación de Navarra con respecto a la total estatal, excluida la obtenida en las Aduanas, sea superior o inferior, respectivamente, al 2,71 por 100.
+d) La diferencia entre el resultado de aplicar a la recaudación real en el Territorio Común por el Impuesto sobre las Labores del Tabaco, el porcentaje que corresponda anualmente al valor de las Labores suministradas a Expendedurías de Tabaco y Timbre situadas en Navarra, sobre el valor de las Labores suministradas a dichos establecimientos en el territorio de aplicación de este Impuesto, y el resultado de aplicar el complementario a cien del porcentaje anteriormente definido a la recaudación real por el mismo concepto tributario en Navarra.
+En el supuesto de que se modifique el actual régimen de fabricación y comercio de labores del tabaco, se procederá por ambas Administraciones, de común acuerdo a la revisión de este ajuste.
+2. En el caso de que la recaudación real obtenida en Navarra difiera, por el Impuesto sobre Hidrocarburos en más del 7 por 100 y por los Impuestos Especiales sobre el Alcohol y Bebidas Derivadas, Productos Intermedios y Cerveza en más del 10 por 100 de la cifra que resulte de aplicar los índices contenidos en el último inciso de las letras a).2, b).2 y c).2 anteriores a la recaudación real del conjunto del Estado por cada uno de los mismos, se corregirán dichos índices para efectuar los ajustes del año en que se produzcan las diferencias citadas.
+Dicha corrección se realizará por aplicación del porcentaje de variación, positivo o negativo, que exceda sobre los respectivos límites establecidos en el párrafo anterior a los correspondientes índices contenidos en el último inciso de las letras a).2, b).2 y c).2 anteriores.
+Se añade por el art. único y anejo.1.1 de la Ley 19/1998, de 15 de junio. Ref. BOE-A-1998-14068
+
+### Disposición final
+
+Disposición final.
+Este Convenio Económico entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y surtirá efectos conforme a las siguientes reglas:
+1.ª El Título Preliminar y el Título Tercero se aplicarán a partir de la entrada en vigor de este Convenio.
+2.ª El Título Primero se aplicará a los tributos devengados a partir del 1 de enero de 1991.
+3.ª Los Capítulos Primero y Segundo del Título Segundo y el artículo 58 se aplicarán a partir del 1 de julio de 1990.
+4.ª El artículo 59 se aplicará a partir del 1 de enero de 1990.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+En el momento en que, conforme a lo que se determina en la Disposición Final, comiencen a surtir efectos las normas contenidas en este Convenio Económico quedarán derogadas cuantas disposiciones se opongan a las mismas y, en particular, las establecidas en el Decreto-ley 16/1969, de 24 de julio, por el que se fija la aportación de Navarra al sostenimiento de las cargas generales de la Nación y se armoniza su peculiar régimen fiscal con el general del Estado; el Real Decreto 839/1978, de 30 de marzo, de armonización de los regímenes fiscales común y foral, en materia de medidas urgentes de reforma fiscal; el Real Decreto 2655/1979, de 19 de octubre, por el que se establecen normas de carácter provisional para la adaptación del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades en territorio de régimen común y foral de Navarra, y la Ley 18/1986, de 5 de mayo, de adaptación del Convenio Económico al nuevo régimen de Imposición Indirecta, con excepción de su Capítulo V que quedará derogado a partir de 1 de enero de 1990.
+Sin perjuicio de lo establecido en el párrafo anterior serán exigibles, por la Administración del Estado y por la de la Comunidad Foral de Navarra, las respectivas obligaciones tributarias derivadas de la normativa que se deroga, de acuerdo con los criterios de armonización anteriormente vigentes.
+Redactada conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251
+
+## ANEXO I
+
+DETERMINACIÓN DE LA APORTACIÓN DE NAVARRA DEL AÑO BASE 1990
+Concepto
+ Millones de pesetas
+ Presupuesto del Estado. Gastos
+ 12.694.509,0
+ Cargas ejercidas por Navarra
+ 3.556.579,1
+ Ministerios y Secciones 32 y 33
+ 3.513.430,5
+ Policía
+ 43.148,6
+ Cargas del Estado no asumidas
+ 9.137.929,9
+ Aportación íntegra (9.137.929,9 x 0,0160)
+ 146.206,9
+ Compensaciones
+ 84.379,3
+ Por tributos no convenidos (1.796.200,0 x 0,0160)
+ 28.739,2
+ Por otros ingresos no tributarios (1.036.680,0 x 0,0160)
+ 16.586,9
+ Por déficit presupuestario (2.007.529,0 x 0,0160)
+ 32.120,5
+ Por impuestos directos convenidos
+ 6.932,8
+ Aportación líquida del año base
+ 61.827,5
+
+## CONVENIO ECONOMICO
+
+CONVENIO ECONOMICO ENTRE EL ESTADO Y LA COMUNIDAD FORAL DE NAVARRA
+
+## TITULO PRELIMINAR
+
+TÍTULO PRELIMINAR
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Potestades de Navarra.
+En virtud de su régimen foral Navarra tiene potestad para mantener, establecer y regular su propio régimen tributario. En el ejercicio de su actividad financiera corresponden a Navarra las competencias que se le reconocen en la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+
+### Artículo 2
+
+Artículo 2. Potestad tributaria.
+1. En el ejercicio de la potestad tributaria a que se refiere el artículo anterior, la Comunidad Foral de Navarra deberá respetar:
+a) Los criterios de armonización del régimen tributario de Navarra con el régimen general del Estado establecidos en este convenio económico.
+b) Las competencias que, conforme a lo dispuesto en el presente convenio económico, correspondan al Estado.
+c) Los tratados o convenios internacionales suscritos por el Estado, en especial los firmados para evitar la doble imposición, así como las normas de armonización fiscal de la Unión Europea, debiendo asumir las devoluciones que proceda practicar como consecuencia de la aplicación de tales convenios y normas.
+d) El principio de solidaridad a que se refiere el artículo 1.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+e) Las instituciones, facultades y competencias del Estado inherentes a la unidad constitucional, según lo dispuesto en el artículo 2.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+2. Sin perjuicio de lo dispuesto en la legislación de régimen general del Estado, la Comunidad Foral de Navarra podrá establecer y regular tributos diferentes de los mencionados en el presente Convenio, respetando los principios recogidos en el apartado 1 anterior y los criterios de armonización previstos en el artículo 7 de este Convenio.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 3
+
+Artículo 3. Competencias exclusivas del Estado.
+1. Corresponderá, en todo caso, al Estado la regulación, gestión, liquidación, recaudación, inspección y revisión de los derechos de importación y los gravámenes a la importación en los Impuestos Especiales y en el Impuesto sobre el Valor Añadido.
+2. Quedará siempre a salvo la alta inspección del Estado, en garantía de las facultades que se le reservan en el presente convenio económico.
+
+### Artículo 4
+
+Artículo 4. Facultades y prerrogativas de la Hacienda Pública de Navarra.
+Para la exacción, gestión, liquidación, recaudación, inspección y revisión de los tributos propios de la Comunidad Foral, la Hacienda Pública de Navarra ostentará las mismas facultades y prerrogativas que tiene reconocidas la Hacienda Pública del Estado.
+
+### Artículo 5
+
+Artículo 5. Coordinación.
+1. El Estado y la Comunidad Foral de Navarra colaborarán en la aplicación de sus respectivos regímenes tributarios y, a tal fin, se facilitarán mutuamente las informaciones y ayudas necesarias.
+2. El Estado arbitrará los mecanismos que permitan la colaboración de la Comunidad Foral de Navarra en los Acuerdos Internacionales que incidan en la aplicación del presente Convenio Económico.
+3. El Estado y la Comunidad Foral arbitrarán los procedimientos de intercambio de información que garanticen el adecuado cumplimiento de los Tratados y Convenios internacionales del Estado y, en particular, de la normativa procedente de la Unión Europea en materia de cooperación administrativa y asistencia mutua.
+Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Artículo 6
+
+Artículo 6. Modificación.
+Cualquier modificación de este Convenio Económico deberá ajustarse al mismo procedimiento seguido para su elaboración y aprobación.
+El mismo procedimiento deberá seguirse para armonizar el régimen tributario de Navarra con los nuevos tributos que el Estado pueda establecer en el futuro.
+Cuando se presente un Proyecto de Ley por el que el Estado establezca un nuevo impuesto, se convocará la Comisión Coordinadora, o la Subcomisión en que delegue, para evaluar y analizar la adaptación del Convenio a la nueva figura impositiva proyectada por el Estado, de acuerdo con el procedimiento previsto en la disposición adicional tercera del Convenio.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## TÍTULO I
+
+Armonización tributaria
+
+## CAPÍTULO I
+
+Normas comunes
+
+### Artículo 7
+
+Artículo 7. Criterios generales de armonización.
+La Comunidad Foral de Navarra, en la elaboración de la normativa tributaria:
+a) Se adecuará a la Ley General Tributaria en cuanto a terminología y conceptos, sin perjuicio de las peculiaridades establecidas en el presente convenio.
+b) Establecerá y mantendrá una presión fiscal efectiva global equivalente a la existente en el resto del Estado.
+c) Respetará y garantizará la libertad de circulación y establecimiento de las personas y la libre circulación de bienes, capitales y servicios en todo el territorio español, sin que se produzcan efectos discriminatorios.
+d) Utilizará la misma clasificación de actividades ganaderas, mineras, industriales, comerciales, de servicios, profesionales y artísticas que en territorio comun, sin perjuicio del mayor desglose que de las mismas pueda llevar a cabo la Comunidad Foral.
+
+### Artículo 8
+
+Artículo 8. Domicilio fiscal y residencia habitual.
+1. A los efectos de este convenio se entenderán domiciliadas fiscalmente en Navarra:
+a) Las personas físicas que tengan su residencia habitual en territorio navarro.
+b) Las personas jurídicas que tengan en Navarra su domicilio social, siempre que en el mismo esté efectivamente centralizada su gestión administrativa y la dirección de sus negocios. En otro caso, cuando se realice en Navarra dicha gestión y dirección. En los supuestos en que no pueda establecerse el lugar del domicilio de acuerdo con estos criterios, se atenderá al territorio donde radique el mayor valor de su inmovilizado.
+c) Los entes sin personalidad jurídica cuando su gestión y dirección se efectúe en Navarra. Si con este criterio fuese imposible determinar su domicilio fiscal, se atenderá al territorio donde radique el mayor valor de su inmovilizado.
+d) Los establecimientos permanentes cuando su gestión administrativa y la dirección de sus negocios se efectúen en Navarra. En los supuestos en que no pueda establecerse el lugar del domicilio de acuerdo con este criterio, se atenderá al territorio donde radique el mayor valor de su inmovilizado.
+2. A los efectos de este convenio, se entenderá que las personas físicas residentes en territorio español tienen su residencia habitual en territorio navarro, aplicando sucesivamente las siguientes reglas:
+1.ª Cuando permanezcan en dicho territorio el mayor número de días:
+a) Del período impositivo, en el Impuesto sobre la Renta de las Personas Físicas.
+b) Del año inmediato anterior, contado de fecha a fecha, que finalice el día anterior al de devengo, en el Impuesto sobre Sucesiones y Donaciones, en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados y en el Impuesto Especial sobre Determinados Medios de Transporte.
+Para determinar el período de permanencia se computarán las ausencias temporales.
+Salvo prueba en contrario, se considerará que una persona física permanece en territorio navarro cuando radique en él su vivienda habitual.
+2.ª Cuando tengan en este territorio su principal centro de intereses, considerándose como tal el territorio donde obtengan la mayor parte de la base imponible del Impuesto sobre la Renta de las Personas Físicas, excluyéndose, a estos efectos, los rendimientos e incrementos de patrimonio derivados del capital mobiliario.
+3.ª Cuando sea éste el territorio de su última residencia declarada a efectos del Impuesto sobre la Renta de las Personas Físicas.
+3. Asimismo se considerará que tienen su residencia habitual en territorio navarro:
+a) Las personas físicas residentes en territorio español, que no permanezcan en dicho territorio más de 183 días durante el año natural, cuando en Navarra radique el núcleo principal o la base de sus actividades empresariales o profesionales o de sus intereses económicos.
+b) Cuando se presuma que una persona física es residente en territorio español, por tener su residencia habitual en Navarra su cónyuge no separado legalmente y los hijos menores de edad que dependan de aquél.
+
+## CAPÍTULO II
+
+Impuestos directos
+
+## Sección 1
+
+Sección 1.ª Impuesto sobre la renta de las personas físicas
+
+### Artículo 9
+
+Artículo 9. Exacción por la Comunidad Foral de Navarra.
+1. Corresponde a la Comunidad Foral la exacción del Impuesto sobre la Renta de las Personas Físicas de los sujetos pasivos que tengan su residencia habitual en Navarra.
+2. Cuando no todos los sujetos pasivos integrados en una unidad familiar tuvieran su residencia habitual en territorio navarro y optasen por la tributación conjunta, corresponderá a la Comunidad Foral la exacción del Impuesto si en su territorio reside el miembro de dicha unidad con mayor base liquidable, calculada conforme a su respectiva normativa.
+
+### Artículo 10
+
+Artículo 10. Retenciones e ingresos a cuenta por rendimientos del trabajo.
+1. Las retenciones e ingresos a cuenta sobre rendimientos del trabajo, en concepto de pago a cuenta del Impuesto sobre la Renta de las Personas Físicas, se exigirán, conforme a su propia normativa, por la Comunidad Foral cuando correspondan a los que a continuación se señalan:
+a) Los procedentes de trabajos o servicios que se presten en Navarra.
+En el supuesto de que los trabajos o servicios se presten en territorio común y navarro, o no se pueda determinar el lugar donde se realicen los trabajos o servicios, se considerará que los mismos se prestan en Navarra cuando se ubique en este territorio el centro de trabajo al que esté adscrita la persona trabajadora.
+Asimismo, en el caso de teletrabajo y en los supuestos en que los trabajos o servicios se presten en el extranjero se entenderán prestados en el centro de trabajo al que esté adscrita la persona trabajadora.
+b) Las retribuciones correspondientes a los funcionarios y empleados en régimen de contratación laboral o administrativa de la Comunidad Foral y de las entidades locales de Navarra.
+c) Los rendimientos de los trabajadores de empresas de transporte que realicen su trabajo en ruta, cuando la empresa pagadora tenga su domicilio fiscal en Navarra.
+d) Las pensiones, incluidas aquellas cuyo derecho hubiese sido generado por persona distinta del perceptor, y haberes pasivos, abonados por la Comunidad Foral y entidades locales de Navarra.
+e) Las pensiones, haberes pasivos y prestaciones percibidas de los Regímenes Públicos de la Seguridad Social, Instituto Nacional de Empleo, Mutualidades, Fondos de Promoción de Empleo, Planes de Pensiones, Entidades de Previsión Social Voluntaria, así como las prestaciones pasivas de empresas y otras entidades, cuando el perceptor tenga su residencia habitual en Navarra.
+f) Las retribuciones que se perciban por la condición de administradores y miembros de los Consejos de Administración, de las Juntas que hagan sus veces y de otros órganos representativos en toda clase de entidades, cuando la entidad pagadora tribute exclusivamente a la Comunidad Foral por el Impuesto sobre Sociedades.
+Cuando la entidad pagadora sea sujeto pasivo del Impuesto sobre Sociedades exigible por el Estado y la Comunidad Foral, la retención corresponderá a ambas Administraciones en proporción al volumen de operaciones efectuado en cada territorio, conforme a lo previsto en el artículo 21 de este Convenio. Estas retenciones se exigirán, conforme a la normativa foral o común, según que a la entidad pagadora le resulte de aplicación la normativa foral o común del Impuesto sobre Sociedades, y la inspección se realizará por los órganos de la Administración que corresponda por aplicación de este mismo criterio. No obstante lo anterior, las normas relativas al lugar, forma y plazo de presentación de las correspondientes declaraciones-liquidaciones serán las establecidas por la Administración competente para su exacción.
+2. Corresponderán a la Administración del Estado las retenciones relativas a las retribuciones, tanto activas como pasivas, incluidas las pensiones generadas por persona distinta del perceptor, satisfechas por los entes que forman parte del sector público estatal a los funcionarios y empleados en régimen de contratación laboral o administrativa, sea cual fuere la naturaleza jurídica de su relación con el pagador, con excepción de las retenciones relativas a retribuciones satisfechas por:
+a) Organismos autónomos y entidades públicas empresariales.
+b) Sociedades mercantiles estatales.
+c) Consorcios de adscripción estatal.
+d) Fundaciones estatales.
+e) Universidades públicas no transferidas.
+3. El importe de las retenciones que, en virtud de lo dispuesto en los párrafos b) y d) del apartado 1 y en el apartado 2 de este artículo, correspondan a una u otra Administración será objeto de compensación entre ambas.
+Se modifica por el art. único.1 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 11
+
+Artículo 11. Retenciones e ingresos a cuenta por rendimientos de actividades empresariales y profesionales.
+Se exigirán por la Comunidad Foral, conforme a su propia normativa, las retenciones e ingresos a cuenta relativos a actividades empresariales y profesionales cuando la persona o entidad obligada a efectuar la retención o ingreso a cuenta tenga su domicilio fiscal en territorio navarro.
+En cualquier caso, estas retenciones e ingresos a cuenta se exigirán por la Administración del Estado o por la de la Comunidad Foral cuando corresponda a rendimientos por ellas satisfechos.
+
+### Artículo 12
+
+Artículo 12. Retenciones e ingresos a cuenta por rendimientos del capital mobiliario.
+1. Las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario, salvo los supuestos contemplados en el apartado 2 de este artículo, se exigirán por la Comunidad Foral, conforme a su propia normativa, cuando la retención o el ingreso a cuenta se realicen por sujetos pasivos del Impuesto sobre la Renta de las Personas Físicas que tributen a Navarra o por entidades que tributen exclusivamente a ella por el Impuesto sobre Sociedades.
+Tratándose de sujetos pasivos del Impuesto sobre Sociedades exigible por el Estado y por la Comunidad Foral, la retención corresponderá a ambas Administraciones en proporción al volumen de operaciones efectuado en cada territorio, conforme a lo previsto en el artículo 21 de este Convenio. Estas retenciones se exigirán conforme a la normativa foral o común, según que a la entidad retenedora le resulte de aplicación la normativa foral o común del Impuesto sobre Sociedades, y la inspección se realizará por los órganos de la Administración que corresponda por aplicación de este mismo criterio. No obstante lo anterior, las normas relativas al lugar, forma y plazo de presentación de las correspondientes declaraciones-liquidaciones serán las establecidas por la Administración competente para su exacción.
+2. Asimismo, corresponderán a la Comunidad Foral, conforme a su propia normativa, las retenciones e ingresos a cuenta de los siguientes rendimientos:
+a) Los satisfechos por la Comunidad Foral, entidades locales y demás entes de la Administración territorial e institucional de Navarra, sin perjuicio de la compensación que proceda entre Administraciones.
+b) Los intereses y demás contraprestaciones de operaciones pasivas de los bancos, cajas de ahorros, cooperativas de crédito y demás entidades o instituciones financieras, así como de las efectuadas en cualquier otro establecimiento de crédito, cuando el perceptor del rendimiento tenga su domicilio fiscal en Navarra.
+c) Los derivados de operaciones de capitalización y de contratos de seguros de vida o invalidez, cuando el beneficiario de los mismos o el tomador del seguro en caso de rescate tenga su domicilio fiscal en Navarra.
+d) Las rentas vitalicias y otras temporales que tengan por causa la imposición de capitales, cuando el beneficiario de las mismas tenga su domicilio fiscal en Navarra.
+e) Los rendimientos procedentes de la propiedad intelectual cuando no sea sujeto pasivo el autor, así como en cualquier caso los de la propiedad industrial y de la prestación de asistencia técnica, cuando la persona o entidad que los satisfaga se halle domiciliada fiscalmente en Navarra.
+f) Los procedentes del arrendamiento de bienes, derechos, negocios o minas y análogos, cuando estén situados en territorio navarro.
+3. Corresponderán, en todo caso, a la Administración del Estado las retenciones e ingresos a cuenta correspondientes a los rendimientos satisfechos por la misma, así como por las Comunidades Autónomas, Corporaciones de Territorio Común y demás entes de sus Administraciones territoriales e institucionales, sin perjuicio de la compensación que proceda entre ambas Administraciones.
+Se modifica por el art. único.2 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 13
+
+Artículo 13. Otros pagos a cuenta.
+1. Las retenciones e ingresos a cuenta correspondientes a rendimientos derivados del arrendamiento y subarrendamiento de bienes inmuebles se exigirán, conforme a su propia normativa, por la Comunidad Foral, cuando el obligado a retener o a ingresar a cuenta tenga su domicilio fiscal en Navarra.
+2. Las retenciones e ingresos a cuenta por cantidades abonadas a entidades y que, en virtud del régimen de imputación de rentas, deban imputarse a contribuyentes del Impuesto sobre la Renta de las Personas Físicas se exigirán, conforme a su respectiva normativa, por la Administración del territorio en el que el obligado a retener o ingresar a cuenta tenga su domicilio fiscal.
+
+### Artículo 14
+
+Artículo 14. Retenciones e ingresos a cuenta por determinados incrementos de patrimonio.
+1. Las retenciones e ingresos a cuenta relativos a los incrementos de patrimonio derivados de la transmisión o reembolso de acciones y participaciones de instituciones de inversión colectiva, así como de la transmisión de derechos de suscripción, se exigirán, conforme a su propia normativa, por la Comunidad Foral cuando el accionista o partícipe tenga su domicilio fiscal en Navarra.
+2. Las retenciones correspondientes al Gravamen especial sobre los premios de determinadas loterías y apuestas se exigirán por la Comunidad Foral de Navarra cuando el perceptor tenga su residencia habitual o domicilio fiscal en su territorio. En la exacción de estas retenciones la Comunidad Foral aplicará idénticos tipos a los de territorio común.
+3. Las retenciones e ingresos a cuenta correspondientes a premios diferentes de los especificados en el apartado anterior que se entreguen como consecuencia de la participación en juegos, concursos, rifas o combinaciones aleatorias, estén o no vinculados a la oferta, promoción o venta de determinados bienes, productos o servicios, se exigirán, conforme a su propia normativa, por la Comunidad Foral cuando el pagador de los mismos tenga su domicilio fiscal en territorio navarro. En cualquier caso, se exigirán por la Administración del Estado o por la Comunidad Foral cuando correspondan a premios por ellas satisfechos.
+Se modifica el apartado 1 por el art. único.3 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 15
+
+Artículo 15. Pagos fraccionados.
+Los pagos fraccionados a cuenta del Impuesto sobre la Renta de las Personas Físicas se exigirán, conforme a su respectiva normativa, por la Administración que resulte competente para la exacción de dicho impuesto, de acuerdo con las normas del artículo 9 de este convenio.
+
+### Artículo 16
+
+Artículo 16. Eficacia de los pagos a cuenta.
+Retenciones e ingresos a cuenta correspondientes a ambas Administraciones.
+1. A efectos de la liquidación del Impuesto sobre la Renta del perceptor, tendrán validez respecto de éste los pagos a cuenta que se hayan realizado en uno u otro territorio, sin que ello implique, caso de que los mismos se hubiesen ingresado en Administración no competente, la renuncia de la otra a la percepción de la cantidad a que tuviera derecho, pudiendo reclamarla a la Administración en la que se hubiera ingresado indebidamente.
+2. Cuando, a tenor de lo establecido en los artículos 10, 12, 25 y 30 de este convenio, las retenciones y los ingresos a cuenta correspondan a ambas Administraciones en función del volumen de operaciones, se aplicará la proporción determinada en la última declaración-liquidación efectuada por el Impuesto sobre Sociedades, sin que proceda realizar regularización final.
+No obstante lo establecido en el párrafo anterior, en el primer ejercicio de la actividad, la distribución que, en su caso, proceda entre ambas Administraciones se efectuará en función de las operaciones que se prevean realizar en cada territorio, sin perjuicio de la regularización final correspondiente.
+
+## Sección 2
+
+Sección 2.ª Impuesto sobre el patrimonio
+
+### Artículo 17
+
+Artículo 17. Exacción por la Comunidad Foral de Navarra.
+1. Corresponderá a la Comunidad Foral la exacción del Impuesto sobre el Patrimonio en los mismos supuestos en los que sea competente para la exacción del Impuesto sobre la Renta de las Personas Físicas, con independencia del lugar donde radiquen los bienes o puedan ejercitarse los derechos.
+2. Tratándose de sujetos pasivos por obligación real de contribuir, será competente la Comunidad Foral para la exacción del impuesto cuando el mayor valor de bienes y derechos corresponda a los que radiquen en territorio navarro o hayan de ejercerse o cumplirse en dicho territorio.
+Cuando el no residente que hubiera tenido su última residencia en Navarra, opte por tributar conforme a la obligación personal, podrá hacerlo en territorio común o foral conforme a su respectiva normativa.
+
+## Sección 3
+
+Sección 3.ª Impuesto sobre sociedades
+
+### Artículo 18
+
+Artículo 18. Normativa aplicable.
+1. Los sujetos pasivos que tributen exclusivamente a la Comunidad Foral de Navarra, con arreglo a los criterios que se señalan en el artículo siguiente, aplicarán la normativa foral navarra.
+2. Los sujetos pasivos que tributen conjuntamente a ambas Administraciones aplicarán la normativa correspondiente a la Administración de su domicilio fiscal. No obstante lo dispuesto en el apartado anterior, los sujetos pasivos que tributando conjuntamente a ambas Administraciones y teniendo su domicilio fiscal en Navarra hubieran realizado en el ejercicio anterior en territorio común el 75 por ciento o más de sus operaciones totales, de acuerdo con los puntos de conexión que se establecen en los artículos 19, 20 y 21 siguientes, quedarán sometidos a la normativa de territorio común.
+Los sujetos pasivos que tributen conjuntamente a ambas Administraciones y, teniendo su domicilio fiscal en territorio común, hayan realizado en el ejercicio anterior en Navarra el 75 por ciento o más de sus operaciones totales, aplicarán la normativa foral navarra salvo que se trate de entidades que formen parte de un grupo fiscal.
+Se modifica por el art. único.4 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 19
+
+Artículo 19. Exacción del impuesto.
+1. Corresponde a la Comunidad Foral de Navarra la exacción del Impuesto sobre Sociedades de los siguientes sujetos pasivos:
+a) Los que tengan su domicilio fiscal en Navarra y su volumen total de operaciones en el ejercicio anterior no hubiere excedido de doce millones de euros.
+b) Los que operen exclusivamente en territorio navarro y su volumen total de operaciones en el ejercicio anterior hubiere excedido de doce millones de euros, cualquiera que sea el lugar en el que tengan su domicilio fiscal.
+2. Los sujetos pasivos que operen en ambos territorios y cuyo volumen total de operaciones en el ejercicio anterior hubiere excedido de doce millones de euros, tributarán conjuntamente a ambas Administraciones, cualquiera que sea el lugar en que tengan su domicilio fiscal. La tributación se efectuará en proporción al volumen de operaciones realizado en cada territorio durante el ejercicio, determinado de acuerdo con los puntos de conexión que se establecen en los artículos 20 y 21 siguientes, y se expresará en porcentaje redondeado con dos decimales.
+3. A efectos de lo dispuesto en los apartados 1 y 2 anteriores, en el supuesto de inicio de la actividad, para el cómputo de la cifra de doce millones de euros se atenderá al volumen de las operaciones realizadas en el ejercicio inicial.
+Hasta que se conozcan el volumen y lugar de realización de las operaciones a que se refiere el párrafo anterior, se tomarán como tales, a todos los efectos, los que el sujeto pasivo estime en función de las operaciones que prevea realizar durante el ejercicio de inicio de la actividad.
+4. En el supuesto de que el ejercicio tuviese una duración inferior al año, para el cómputo de la cifra de doce millones de euros, las operaciones realizadas se elevarán al año.
+5. Se entenderá como volumen de operaciones el importe total de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y el recargo de equivalencia, en su caso, obtenido por el sujeto pasivo en las entregas de bienes y prestaciones de servicios realizadas en su actividad.
+Se modifican los apartados 1, 2, 3 y 4, por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 1 del anexo. Ref. BOE-A-2025-15423
+ Se modifica por el art. único.5 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Artículo 20
+
+Artículo 20. Operaciones en uno u otro territorio.
+A los efectos previstos en el artículo anterior, se entenderá que un sujeto pasivo opera en uno u otro territorio cuando, de acuerdo con los criterios establecidos en el artículo siguiente, realice en ellos entregas de bienes o prestaciones de servicios.
+Tendrán la consideración de entregas de bienes y prestaciones de servicios las operaciones definidas como tales en la legislación reguladora del Impuesto sobre el Valor Añadido.
+
+### Artículo 21
+
+Artículo 21. Lugar de realización de las operaciones.
+Se entenderán realizadas en Navarra las operaciones siguientes:
+A) Entregas de bienes.
+1.º Las entregas de bienes muebles corporales fabricados o transformados por quien efectúa la entrega, cuando los centros fabriles o de transformación del sujeto pasivo estén situados en territorio navarro.
+Cuando el mismo sujeto pasivo tenga centros fabriles o de transformación en territorio navarro y común, si el último proceso de fabricación o transformación de los bienes entregados tiene lugar en Navarra.
+2.º Si se trata de entregas con instalación de elementos industriales fuera de Navarra, se entenderán realizadas en territorio navarro si los trabajos de preparación y fabricación se efectúan en dicho territorio y el coste de la instalación o montaje no excede del 15 por ciento del total de la contraprestación.
+Correlativamente, no se entenderán realizadas en territorio navarro las entregas de elementos industriales con instalación en dicho territorio, si los trabajos de preparación y fabricación de dichos elementos se efectúan en territorio común y el coste de la instalación o montaje no excede del 15 por ciento del total de la contraprestación.
+3.º Las entregas realizadas por los productores de energía eléctrica, cuando radiquen en territorio navarro los centros generadores de la misma.
+4.º Las demás entregas de bienes muebles corporales, cuando se realice desde territorio navarro la puesta a disposición del adquirente. Cuando los bienes deban ser objeto de transporte para su puesta a disposición del adquirente, las entregas se entenderán realizadas en el lugar en que se encuentren aquéllos al tiempo de iniciarse la expedición o el transporte.
+5.º Las entregas de bienes inmuebles cuando estén situados en territorio navarro.
+B) Prestaciones de servicios.
+1.º Las prestaciones de servicios se entenderán realizadas en Navarra cuando se efectúen desde dicho territorio.
+2.º Se exceptúan de lo dispuesto en el apartado anterior las prestaciones directamente relacionadas con bienes inmuebles, las cuales se entenderán realizadas en Navarra cuando dichos bienes radiquen en territorio navarro.
+3.º Asimismo, se exceptúan de lo dispuesto en los apartados anteriores las operaciones de seguro y capitalización, respecto de las cuales se aplicarán las reglas contenidas en el artículo 37 de este Convenio Económico.
+C) No obstante lo dispuesto en las letras A) y B) anteriores, se entenderán realizadas en Navarra las operaciones que a continuación se especifican, cuando el sujeto pasivo que las realice tenga su domicilio fiscal en territorio navarro:
+1.º Las entregas realizadas por explotaciones agrícolas, forestales, ganaderas o pesqueras y armadores de buques de pesca, de productos naturales no sometidos a procesos de transformación que procedan directamente de sus cultivos, explotaciones o capturas.
+2.º Los servicios de transporte, incluso los de mudanza, remolque y grúa.
+3.º Los arrendamientos de medios de transporte.
+D) Las operaciones que, con arreglo a los criterios establecidos en este artículo, se consideren realizadas en el extranjero se atribuirán, en su caso, a una u otra Administración en igual proporción que el resto de las operaciones.
+E) Las entidades que no realicen las operaciones previstas en el artículo anterior tributarán a Navarra cuando tengan su domicilio fiscal en territorio navarro.
+
+### Artículo 22
+
+Artículo 22. Gestión del impuesto en los supuestos de tributación a ambas Administraciones.
+En relación con la gestión del impuesto, en los casos de tributación a las dos Administraciones, se aplicarán las siguientes reglas:
+1.ª El resultado de las liquidaciones del impuesto se imputará a las Administraciones del Estado y de Navarra en proporción al volumen de operaciones realizadas en uno y otro territorio, en cada período impositivo, de acuerdo con lo establecido en los artículos 20 y 21 de este convenio.
+2.ª Los sujetos pasivos que deban tributar a ambas Administraciones presentarán en la Delegación de Hacienda que corresponda y en la Administración de la Comunidad Foral de Navarra, dentro de los plazos y con las formalidades reglamentarias, los documentos que determinen las disposiciones vigentes y las declaraciones-liquidaciones procedentes, en las que constarán, en todo caso, la proporción aplicable y las cuotas o devoluciones que resulten ante cada una de las Administraciones.
+3.ª Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la proporción que a cada una le corresponda.
+
+### Artículo 23
+
+Artículo 23. Inspección.
+La inspección se realizará de acuerdo con los siguientes criterios:
+1.º La inspección de los sujetos pasivos que deban tributar exclusivamente a la Administración de la Comunidad Foral de Navarra o a la Administración del Estado, se llevará a cabo por la inspección de los tributos de cada una de ellas.
+2.º La inspección de los sujetos pasivos que deban tributar a las dos Administraciones se realizará de acuerdo con las siguientes reglas:
+1.ª Si los sujetos pasivos tienen su domicilio fiscal en territorio común, la inspección será realizada por los órganos competentes de territorio común, sin perjuicio de la colaboración entre Administraciones.
+No obstante lo establecido en el párrafo anterior, en el caso de que un sujeto pasivo con domicilio fiscal en territorio común hubiera realizado en el ejercicio anterior en territorio navarro el 75 por ciento o más de sus operaciones totales, de acuerdo con los puntos de conexión que se establecen en los artículos 19, 20 y 21 anteriores, será competente la Administración de la Comunidad Foral, sin perjuicio de la colaboración entre Administraciones.
+2.ª Si los sujetos pasivos tienen su domicilio fiscal en territorio navarro, la inspección será realizada por los órganos competentes de la Administración de la Comunidad Foral de Navarra, sin perjuicio de la colaboración entre Administraciones.
+No obstante lo establecido en el párrafo anterior, en el caso de que un sujeto pasivo con domicilio fiscal en territorio navarro hubiera realizado en el ejercicio anterior en territorio común el 75 por ciento o más de sus operaciones totales, de acuerdo con los puntos de conexión que se establecen en los artículos 19, 20 y 21 anteriores, será competente la Administración de territorio común, sin perjuicio de la colaboración de la Administración de la Comunidad Foral.
+3.ª Las actuaciones inspectoras se ajustarán a la normativa de la Administración competente, de acuerdo con lo previsto en las reglas anteriores, y surtirán efectos frente a ambas Administraciones incluyendo la proporción de tributación que corresponda a las mismas.
+Si como consecuencia de dichas actuaciones resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o pago correspondiente será efectuado por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan. La Administración competente comunicará los resultados de sus actuaciones a la Administración afectada. A estos efectos se establecerá un procedimiento para que la deuda resultante de las actuaciones de comprobación e investigación sea percibida por la Administración a la que corresponda.
+4.ª Lo establecido en las reglas anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Administración de la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+5.ª Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que, con posterioridad a dichas comprobaciones, se acuerden con carácter definitivo entre ambas Administraciones.
+3.º La Administración Tributaria que no ostente la competencia inspectora podrá realizar actuaciones de obtención de información sobre las operaciones que pudieran afectar al cálculo de su proporción de volumen de operaciones, con independencia de donde se hayan entendido realizadas, a los solos efectos de comunicar lo actuado a la Administración Tributaria con competencia inspectora. En ningún caso estas actuaciones pueden suponer la realización de actuaciones de comprobación e investigación por parte de la Administración que no dispone de competencia inspectora.
+Se modifica por el art. único.6 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 24
+
+Artículo 24. Pago a cuenta del impuesto en los supuestos de tributación a ambas Administraciones.
+1. Los sujetos pasivos que deban tributar a ambas Administraciones ingresarán en las mismas el pago a cuenta del impuesto cuando aquél sea exigible, en proporción al volumen de operaciones realizado en cada territorio. A estos efectos, se aplicará la proporción determinada en la última declaración liquidación del impuesto.
+No obstante lo dispuesto en el párrafo anterior, podrá aplicarse, previa comunicación a la Comisión Coordinadora, una proporción diferente en los siguientes supuestos:
+a) Fusión, escisión, aportación de activos y canje de valores.
+b) Inicio, cese, ampliación o reducción de actividad en territorio común o foral que implique una variación significativa de la proporción calculada según el criterio especificado en el primer párrafo de este número.
+En todo caso, se considerará que la variación es significativa cuando suponga la alteración de 15 o más puntos porcentuales en la proporción aplicable a cualquiera de los territorios.
+2. El pago a cuenta efectivamente satisfecho a cada Administración se deducirá de la parte de la cuota que corresponda a cada una de ellas.
+
+### Artículo 25
+
+Artículo 25. Retenciones en la fuente e ingresos a cuenta del Impuesto sobre Sociedades.
+Serán de aplicación a las retenciones en la fuente e ingresos a cuenta del Impuesto sobre Sociedades los criterios establecidos a tal efecto en el presente convenio para el Impuesto sobre la Renta de las Personas Físicas, así como lo previsto en el artículo 16 respecto de la eficacia de los pagos a cuenta realizados en una u otra Administración.
+
+### Artículo 26
+
+Artículo 26. Entidades en régimen de imputación y atribución de rentas.
+1. A las entidades en régimen de imputación de rentas se les aplicarán las normas establecidas en los artículos anteriores. Para la exacción del Impuesto correspondiente a las rentas imputadas a sus socios se tendrán en cuenta las normas del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre la Renta de no Residentes o del Impuesto sobre Sociedades, según el impuesto por el que tributen.
+2. En los supuestos de atribución de rentas, la gestión e inspección de los entes sometidos a dicho régimen corresponderá a la Administración de su domicilio fiscal.
+Para la exacción de la renta atribuida a sus socios, comuneros o partícipes se aplicarán las normas del Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre la Renta de no Residentes o del Impuesto sobre Sociedades, según el impuesto por el que tributen.
+
+### Artículo 27
+
+Artículo 27. Régimen tributario de las agrupaciones, uniones temporales y grupos fiscales.
+1. El régimen tributario de las agrupaciones de interés económico y uniones temporales de empresas corresponderá a Navarra cuando la totalidad de las entidades que las integren estén sometidas a normativa foral.
+Estas entidades imputarán a sus socios la parte correspondiente del importe de las operaciones realizadas en uno y otro territorio, que será tenida en cuenta por éstos para determinar la proporción de sus operaciones.
+2. Para determinar la tributación de los grupos fiscales se aplicarán las siguientes reglas:
+1.ª El régimen de consolidación fiscal será el correspondiente al de la Comunidad Foral cuando todas las entidades que forman el grupo fiscal estuvieran sujetas a normativa foral en régimen de tributación individual, y será el correspondiente al régimen de consolidación fiscal de territorio común cuando todas las entidades que forman el grupo fiscal estuvieran sujetas al régimen tributario de territorio común en régimen de tributación individual. A estos efectos, se considerarán excluidas del grupo fiscal las sociedades que estuvieran sujetas a la otra normativa.
+La competencia inspectora de los grupos fiscales corresponderá a la Administración Tributaria cuya normativa sea aplicable de acuerdo con las normas establecidas en el presente artículo.
+2.ª Los grupos fiscales en los que la entidad dominante estuviere sujeta a la normativa foral en régimen de tributación individual, se equipararán en su tratamiento fiscal a los grupos fiscales en los que la entidad dominante sea no residente en territorio español.
+3.ª En todo caso, se aplicará idéntica normativa a la establecida en cada momento por el Estado para la definición de grupo fiscal, entidad dominante, entidades dependientes, entidad representante, grado de dominio y operaciones internas del grupo.
+3. Para la aplicación del régimen de consolidación fiscal de los grupos fiscales que tributen a ambas Administraciones se seguirán las reglas siguientes:
+1.ª Las entidades integrantes del grupo fiscal presentarán, de conformidad con las normas generales, la declaración establecida para el régimen de tributación individual.
+Sin perjuicio de lo dispuesto en el párrafo anterior, la entidad representante del grupo fiscal presentará a cada una de las Administraciones los estados contables consolidados del grupo fiscal.
+2.ª El grupo fiscal tributará en todo caso a una y otra Administración en función del volumen de operaciones realizado en uno y otro territorio.
+A estos efectos, el volumen de operaciones realizado en cada territorio estará constituido por la suma o agregación de las operaciones que cada una de las entidades integrantes del grupo fiscal efectúen en el mismo, antes de las eliminaciones intergrupo que procedan.
+4. Para la determinación de la proporción del volumen de operaciones efectuado en cada territorio en los casos a que se refiere el segundo párrafo de la letra f) del apartado 1 del artículo 10, el segundo párrafo del apartado 1 del artículo 12 y el segundo párrafo del apartado 2 del artículo 30, se atenderá en todo caso al volumen de operaciones del grupo definido en la regla 2.ª del apartado anterior.
+Se modifican los apartados 2 y 3 y se añade un apartado 4 por el art. único.7 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 3 bis
+
+Sección 3.ª bis. Impuesto Complementario
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 2 del anexo. Ref. BOE-A-2025-15423
+
+### Artículo 27 bis
+
+Artículo 27 bis. Impuesto Complementario.
+1. Estarán sometidos a normativa foral navarra aquellos contribuyentes del Impuesto Complementario que formen parte de un grupo multinacional o de un grupo nacional de gran magnitud a cuyo sustituto del contribuyente le resulte de aplicación la normativa foral del Impuesto sobre Sociedades de acuerdo con las normas del artículo 18 o, en su caso, la del Impuesto sobre la Renta de no Residentes de conformidad con lo previsto en el artículo 28, siempre que el grupo multinacional o nacional de gran magnitud cuente en territorio español, a su vez, con un grupo fiscal sujeto al régimen de consolidación fiscal foral y otro sujeto al régimen de consolidación fiscal de territorio común.
+A los efectos de lo dispuesto en el párrafo anterior, se tomará en consideración la normativa del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no Residentes correspondiente al último período impositivo de los citados impuestos que finalice o hubiera finalizado a la fecha de devengo del Impuesto Complementario.
+Por el contrario, a los contribuyentes que formen parte de un grupo multinacional o de un grupo nacional de gran magnitud que no cuente en territorio español con dos grupos fiscales sujetos respectivamente al régimen de consolidación fiscal foral y común se les aplicará la normativa foral navarra cuando el sustituto del contribuyente del grupo multinacional o de gran magnitud tenga su domicilio fiscal en territorio navarro. No obstante, cuando el volumen de operaciones de dicho grupo hubiese excedido de doce millones de euros en el ejercicio anterior y en dicho ejercicio el grupo hubiese realizado en territorio común el 75 por ciento o más de su volumen de operaciones, los contribuyentes que formen parte de dicho grupo quedarán sometidos a la normativa de territorio común.
+En el supuesto de contribuyentes que formen parte de un grupo multinacional o de un grupo nacional de gran magnitud que no cuente en territorio español con dos grupos fiscales sujetos respectivamente al régimen de consolidación fiscal foral y común, les será de aplicación la normativa común cuando formen parte de un grupo multinacional o nacional de gran magnitud cuyo sustituto del contribuyente tenga su domicilio fiscal en territorio común. No obstante, cuando el volumen de operaciones del grupo hubiese excedido de doce millones de euros en el ejercicio anterior y en dicho ejercicio el grupo hubiese realizado en Navarra el 75 por ciento o más de su volumen de operaciones, los contribuyentes que formen parte de dicho grupo quedarán sometidos a la normativa foral navarra.
+A efectos de lo dispuesto en los dos párrafos anteriores, el volumen de operaciones del grupo estará constituido por la suma o agregación del volumen de operaciones, determinado a efectos del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no Residentes, de cada entidad constitutiva radicada en territorio español, antes de las eliminaciones intergrupo que procedan, correspondiente al período impositivo anterior al último período de los citados impuestos que finalice o hubiera finalizado a la fecha de devengo del Impuesto Complementario y el volumen de operaciones realizado por el grupo en cada territorio estará constituido por la suma o agregación de las operaciones realizadas en cada territorio por cada entidad constitutiva, antes de las eliminaciones intergrupo que procedan, determinadas o que se determinen a estos efectos según las reglas del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no residentes para el mismo período.
+En todo caso se aplicará idéntica normativa a la establecida en cada momento por el Estado para la definición del contribuyente, del sustituto del contribuyente y de las reglas para la atribución a cada entidad constitutiva del impuesto complementario nacional, del primario y del secundario.
+2. La entidad que tenga la consideración de sustituto del contribuyente presentará la autoliquidación del impuesto y procederá al pago de la deuda tributaria ante las Administraciones competentes de acuerdo con las reglas establecidas en este apartado.
+El impuesto complementario nacional, primario o secundario de cada contribuyente se ingresará ante la Administración competente, común o foral, en función o bien de su domicilio fiscal, o bien en idéntica proporción a su volumen de operaciones, de conformidad con lo previsto en el artículo 19, correspondiente al último período impositivo del Impuesto sobre Sociedades o, en su caso, del Impuesto sobre la Renta de no Residentes, que finalice o hubiera finalizado a la fecha de devengo del Impuesto Complementario.
+Tratándose de contribuyentes que en el mencionado período impositivo hayan tributado en el Impuesto sobre Sociedades o, en su caso, en el Impuesto sobre la Renta de no Residentes, aplicando el régimen de consolidación fiscal de los grupos fiscales, se atenderá en todo caso al volumen de operaciones del grupo fiscal.
+3. En los casos de tributación a ambas Administraciones se aplicarán las siguientes reglas:
+Primera. El resultado de las liquidaciones del Impuesto se imputará a la Administración del Estado y de la Comunidad Foral de Navarra de conformidad con los criterios establecidos en el apartado 2 anterior.
+Segunda. El sustituto del contribuyente obligado a la presentación de la autoliquidación y al pago de la deuda tributaria del Impuesto presentará ante las Administraciones competentes para su exacción, dentro de los plazos y con las formalidades reglamentarias, las autoliquidaciones procedentes en las que constarán, en todo caso, la proporción aplicable y las cuotas que resulten ante cada una de las Administraciones.
+4. La declaración informativa y las demás comunicaciones y obligaciones formales exigidas en la normativa del Impuesto Complementario se presentarán ante la Administración a quien corresponda la competencia inspectora en el Impuesto sobre Sociedades, o en el Impuesto sobre la Renta de no Residentes de la entidad constitutiva o, en su caso, de la entidad designada por el grupo multinacional o nacional de gran magnitud.
+5. La competencia inspectora sobre los sujetos pasivos corresponderá a la Administración tributaria cuya normativa sea aplicable de acuerdo con las normas establecidas en el apartado 1 de este artículo.
+No obstante, la competencia para la comprobación del volumen de operaciones señalado en los apartados 1 y 2 anteriores se realizará por la Administración de territorio común o foral, en función de que las entidades del grupo cuyo volumen de operaciones se comprueba apliquen en el Impuesto sobre Sociedades, o en su caso, en el Impuesto sobre la Renta de no Residentes, normativa de territorio común o foral.
+Las actuaciones inspectoras se ajustarán a la normativa de la Administración competente, sin perjuicio de la colaboración entre ambas Administraciones tributarias. A estos efectos, la Administración competente solicitará la colaboración de los órganos inspectores de la Administración que tenga la competencia inspectora del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no Residentes, cuando sea necesario realizar actuaciones con entidades cuya competencia en los citados impuestos no le corresponda. La colaboración de los órganos inspectores de la Administración no competente se plasmará en un informe que no tendrá efectos vinculantes frente a la Administración competente.
+Si como consecuencia de dichas actuaciones resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente se efectuará por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan.
+La Administración competente comunicará los resultados de sus actuaciones a la Administración afectada.
+Lo establecido en los párrafos anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+Las proporciones para la atribución a cada entidad constitutiva del Impuesto Complementario nacional, del primario y del secundario serán fijadas en las comprobaciones por la Administración competente y surtirán efectos frente al contribuyente en relación con las obligaciones liquidadas, sin perjuicio de las que con posterioridad a dichas comprobaciones se acuerden con carácter definitivo entre ambas Administraciones.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 2 del anexo. Ref. BOE-A-2025-15423
+
+## Sección 3 ter
+
+Sección 3.ª ter. Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 3 del anexo. Ref. BOE-A-2025-15423
+
+### Artículo 27 ter
+
+Artículo 27 ter. Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras.
+1. Estarán sometidos a normativa foral navarra del impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras aquellos contribuyentes a quienes, según lo previsto en el artículo 18, resulte de aplicación la normativa foral navarra en el Impuesto sobre Sociedades.
+En el caso de que el contribuyente sea una sucursal en territorio español de una entidad de crédito extranjera, la normativa foral navarra se aplicará a los contribuyentes del impuesto a quienes, según lo previsto en el artículo 28, resulte de aplicación la normativa foral en el Impuesto sobre la Renta de no Residentes.
+2. Los contribuyentes tributarán, en todo caso, a ambas Administraciones en función del volumen de operaciones realizado en uno y otro territorio.
+A estos efectos, la proporción del volumen de operaciones realizado en cada territorio será la establecida en el artículo 19 para la exacción del Impuesto sobre Sociedades.
+3. La gestión del impuesto, así como el ingreso del pago fraccionado en los supuestos de tributación a ambas Administraciones se realizarán conforme a las reglas previstas en los artículos 22 y 24.
+Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la cuantía que a cada una le corresponda.
+4. La inspección del impuesto se realizará por la Administración que, según lo establecido en el apartado 1 de este artículo, ostente la competencia normativa respecto al contribuyente y conforme a las reglas previstas en el artículo 23.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 3 del anexo. Ref. BOE-A-2025-15423
+
+## Sección 4
+
+Sección 4.ª Impuesto sobre la renta de no residentes
+
+### Artículo 28
+
+Artículo 28. Normativa aplicable y exacción del Impuesto.
+1. Cuando se graven rentas obtenidas mediante establecimientos permanentes de personas o entidades residentes en el extranjero, la normativa aplicable se determinará de conformidad con lo dispuesto en el artículo 18.
+Cuando se graven rentas obtenidas sin mediación de establecimiento permanente, resultará de aplicación la normativa foral navarra, cuando las rentas se entiendan obtenidas o producidas en Navarra de acuerdo con lo dispuesto en el artículo 29. En los supuestos a que se refiere el apartado 3 del artículo 29 resultará de aplicación la normativa foral o común, según que a las entidades o establecimientos permanentes que satisfagan las correspondientes rentas les resulte de aplicación la normativa foral o común del Impuesto sobre Sociedades o el Impuesto sobre la Renta de No Residentes y la inspección se realizará por los órganos de la Administración que corresponda por aplicación de este mismo criterio. No obstante lo anterior, las normas relativas al lugar, forma y plazo de presentación de las correspondientes declaraciones-liquidaciones serán las establecidas por la Administración competente para su exacción.
+La opción de tributación por el Impuesto sobre la Renta de las Personas Físicas se ejercerá ante la Administración de la Comunidad Foral cuando la renta obtenida en territorio navarro represente la mayor parte de la totalidad de la renta obtenida en España. En el caso de que el contribuyente tenga derecho a la devolución, esta será satisfecha por la Comunidad Foral con independencia del lugar de obtención de las rentas dentro del territorio español.
+2. La exacción del Impuesto se ajustará a las siguientes reglas:
+a) Cuando se graven rentas obtenidas sin mediación de establecimiento permanente, la exacción del Impuesto corresponderá a la Comunidad Foral en el supuesto de que las rentas se entiendan obtenidas o producidas en Navarra por aplicación de los criterios establecidos en el artículo 29 de este convenio económico.
+b) Cuando se graven rentas obtenidas mediante establecimiento permanente, la exacción del Impuesto corresponderá a una u otra Administración, o a ambas conjuntamente, conforme a las normas contenidas en el artículo 19.
+c) La exacción del Gravamen Especial sobre Bienes Inmuebles de Entidades no Residentes corresponderá a la Administración del Estado o a la de la Comunidad Foral, según que el bien inmueble gravado radique en territorio común o navarro.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 4 del anexo. Ref. BOE-A-2025-15423
+ Se modifica el apartado 1 por el art. único.8 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 29
+
+Artículo 29. Rentas obtenidas en territorio navarro por residentes en el extranjero.
+1. A los efectos de lo previsto en este convenio económico, se considerarán rentas obtenidas o producidas en territorio navarro por residentes en el extranjero las siguientes:
+a) Las rentas, cualquiera que sea su clase, obtenidas mediante establecimientos permanentes, conforme a las reglas contenidas en el artículo 19 del presente convenio económico.
+b) Las rentas de explotaciones económicas obtenidas sin mediación de establecimiento permanente cuando las actividades se realicen en territorio navarro.
+c) Las rentas derivadas de prestaciones de servicios tales como la realización de estudios, proyectos, asistencia técnica, apoyo a la gestión, así como de servicios profesionales, cuando la prestación se realice o se utilice en territorio navarro. Se entenderán utilizadas en territorio navarro las prestaciones que sirvan a actividades empresariales o profesionales realizadas en dicho territorio o se refieran a bienes situados en el mismo.
+Se atenderá al lugar de la utilización del servicio cuando éste no coincida con el de su realización.
+d) Los rendimientos del trabajo:
+1.º Cuando deriven, directa o indirectamente, de una actividad personal desarrollada en territorio navarro.
+2.º Cuando se trate de retribuciones públicas satisfechas por la Administración de la Comunidad Foral.
+3.º Las pensiones y demás prestaciones similares, cuando deriven de un empleo prestado en territorio navarro.
+4.º Las retribuciones de los administradores y miembros de los consejos de administración, de las juntas que hagan sus veces o de órganos representativos en toda clase de entidades, conforme a lo previsto en el apartado 3 de este artículo.
+e) Las rentas derivadas, directa o indirectamente, de la actuación personal en territorio navarro, de artistas o deportistas, o de cualquier otra actividad relacionada con dicha actuación, aun cuando se atribuyan a persona o entidad distinta del artista o deportista.
+f) Los dividendos y otros rendimientos derivados de la participación en fondos propios de entidades públicas navarras, así como los derivados de la participación en fondos propios de entidades privadas, conforme a lo previsto en el apartado 3 de este artículo.
+g) Los intereses, cánones y otros rendimientos del capital mobiliario, cuando sean satisfechos por personas físicas con domicilio fiscal en Navarra o entidades públicas navarras, o por entidades privadas o establecimientos permanentes conforme a lo previsto en el apartado 3 de este artículo, siempre que retribuyan prestaciones de capital utilizadas en territorio navarro.
+En los demás supuestos se atenderá al lugar de utilización del capital cuya prestación se retribuye.
+h) Los rendimientos derivados, directa o indirectamente, de bienes inmuebles situados en territorio navarro o de derechos relativos a los mismos.
+i) Los incrementos de patrimonio derivados de valores emitidos por personas o entidades públicas navarras, así como los derivados de valores emitidos por entidades privadas conforme a lo previsto en el apartado 3 de este artículo.
+j) Los incrementos de patrimonio derivados de bienes inmuebles situados en territorio navarro o de derechos que debieran cumplirse o hubieran de ejercitarse en dicho territorio. En particular se consideran incluidos en este párrafo:
+1.º Los incrementos de patrimonio derivados de derechos o participaciones en una entidad, residente o no, cuyo activo esté constituido principalmente por bienes inmuebles situados en territorio navarro.
+2.º Los incrementos de patrimonio derivados de la transmisión de derechos o participaciones en una entidad, residente o no, que atribuyan a su titular el derecho de disfrute sobre bienes inmuebles situados en territorio navarro.
+k) Los incrementos de patrimonio derivados de otros bienes muebles situados en territorio navarro o de derechos que deban cumplirse o se ejerciten en dicho territorio.
+l) Las rentas imputadas a los contribuyentes personas físicas titulares de bienes inmuebles urbanos situados en territorio navarro, no afectos a actividades empresariales o profesionales.
+m) Los incrementos de patrimonio cuando se incorporen al patrimonio del contribuyente bienes situados en territorio navarro o derechos que deban cumplirse o se ejerciten en dicho territorio, aun cuando no se deriven de una transmisión previa, como las ganancias en el juego.
+2. Cuando con arreglo a los criterios señalados en el apartado anterior una renta se pudiera entender obtenida simultáneamente en ambos territorios, su tributación corresponderá a la Comunidad Foral de Navarra cuando el pagador, si es persona física, tenga su domicilio fiscal en Navarra ; si fuera persona jurídica o establecimiento permanente se atenderá a lo dispuesto en el apartado 3 de este artículo.
+3. En los supuestos a que se refieren el punto 4.º del párrafo d), y los párrafos f), g) e i) del apartado 1 anterior, así como en el supuesto previsto en el apartado 2, las rentas satisfechas por entidades privadas o establecimientos permanentes se entenderán obtenidas o producidas en territorio navarro en la cuantía siguiente:
+a) Cuando se trate de entidades o establecimientos permanentes que tributen por el Impuesto sobre Sociedades exclusivamente a Navarra, la totalidad de las rentas que satisfagan.
+b) Cuando se trate de entidades o establecimientos permanentes que tributen por el Impuesto sobre Sociedades conjuntamente a ambas Administraciones, la parte de las rentas que satisfagan en proporción al volumen de operaciones realizado en Navarra.
+No obstante, en los supuestos a que se refiere este párrafo, la Administración competente para la exacción de la totalidad de los rendimientos será la del territorio a quien corresponda la competencia inspectora de las personas, entidades o establecimientos permanentes que presenten la liquidación en representación del no residente conforme a los criterios establecidos en el presente Convenio Económico, sin perjuicio de la compensación que proceda practicar a la otra Administración por la parte correspondiente a la proporción del volumen de operaciones realizado en el territorio de esta última.
+Asimismo, las devoluciones que proceda practicar a los no residentes serán a cargo de la Administración del territorio a quien corresponda la competencia inspectora de las personas, entidades o establecimientos permanentes que presenten la liquidación en representación del no residente conforme a los criterios establecidos en el presente Convenio Económico, sin perjuicio de la compensación que proceda practicar a la otra Administración por la parte correspondiente al volumen de operaciones de la entidad pagadora realizado en el territorio de esta última.
+4. El Gravamen especial sobre los premios de determinadas loterías y apuestas exigible a no residentes sin establecimiento permanente corresponderá a la Administración de la Comunidad Foral cuando el punto de venta donde se adquiera el décimo, fracción o cupón de lotería o apuesta premiados se localice en territorio navarro.
+Se modifica el apartado 3 y se añade un apartado 4 por el art. único.9 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 30
+
+Artículo 30. Pagos a cuenta.
+1. Los pagos fraccionados que realicen los establecimientos permanentes y las retenciones e ingresos a cuenta del Impuesto que se les practiquen por las rentas que perciban, se exigirán de acuerdo con las reglas establecidas en las secciones 1.ª y 3.ª anteriores.
+2. Las retenciones e ingresos a cuenta correspondientes a las rentas obtenidas por los contribuyentes que operen sin establecimiento permanente se exigirán, conforme a su propia normativa, por la Administración del territorio en el que se entiendan obtenidas, conforme a lo dispuesto en el artículo anterior. Asimismo, la inspección se realizará por los órganos de la Administración que corresponda conforme a lo dispuesto en el mismo artículo.
+En los supuestos a que se refieren el punto 4.º del párrafo d), y párrafos f), g) e i) del apartado 1, así como en el supuesto previsto en el apartado 2, ambos del artículo anterior, se exigirán por la Comunidad Foral en proporción al volumen de operaciones realizado en Navarra correspondiente al obligado a retener, aplicando las reglas especificadas en la sección 3.ª anterior. En estos supuestos las retenciones se ingresarán conforme a la normativa foral o común, según que a la entidad o establecimiento pagadores les resulte de aplicación la normativa foral o común del Impuesto sobre Sociedades o del Impuesto sobre la Renta de no Residentes. Asimismo, la inspección se realizará por los órganos de la Administración a la que corresponda la competencia normativa, conforme a lo dispuesto anteriormente.
+Sin perjuicio de lo indicado en el párrafo anterior, las normas relativas al lugar, forma y plazo de presentación de las correspondientes declaraciones-liquidaciones serán las establecidas por la Administración competente para su exacción.
+3. Asimismo, será de aplicación lo dispuesto en el artículo 16 respecto de la eficacia de los pagos a cuenta realizados en una u otra Administración.
+4. Las retenciones correspondientes al Gravamen especial sobre los premios de determinadas loterías y apuestas realizadas a contribuyentes no residentes sin establecimiento permanente se exigirán por la Administración de la Comunidad Foral cuando el punto de venta donde se adquiera el décimo, fracción o cupón de lotería o apuesta premiados se localice en territorio navarro.
+Se modifica el apartado 2 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 5 del anexo. Ref. BOE-A-2025-15423
+ Se modifica por el art. único.10 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 30 bis
+
+Artículo 30 bis. Gestión e inspección del impuesto.
+1. Cuando se graven rentas obtenidas mediante establecimiento permanente, en los casos de tributación a ambas Administraciones, se aplicarán las reglas de gestión del Impuesto previstas en el artículo 22 y la inspección del Impuesto se realizará por la Administración que resulte competente aplicando las reglas previstas en el artículo 23.
+2. Cuando se graven rentas obtenidas sin mediación de establecimiento permanente, la gestión e inspección del Impuesto se realizará por la Administración que resulte competente aplicando las reglas previstas en el artículo 28, sin perjuicio de lo establecido en el apartado 3 del artículo 29.
+Se modifica la rúbrica y el contenido por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 6 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 5
+
+Sección 5.ª Impuesto sobre sucesiones y donaciones
+
+### Artículo 31
+
+Artículo 31. Exacción del impuesto.
+1. Corresponderá a la Comunidad Foral de Navarra la exacción del Impuesto que grava las sucesiones y donaciones en los siguientes supuestos:
+a) En la adquisición de bienes y derechos por herencia, legado o cualquier otro título sucesorio y en las cantidades percibidas por los beneficiarios de seguros sobre la vida para caso de fallecimiento, cuando el causante tenga su residencia habitual en Navarra o, teniéndola en el extranjero, conserve la condición política de navarro con arreglo al artículo 5.º de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+En el caso de que el causante tuviera su residencia en el extranjero y no conservara la condición política de navarro, cuando los contribuyentes tuvieran su residencia habitual en Navarra.
+b) En las adquisiciones de bienes inmuebles y derechos sobre los mismos por donación o cualquier otro negocio jurídico a título gratuito e inter vivos, cuando estos radiquen en territorio navarro. Si los bienes inmuebles radican en el extranjero, cuando el donatario tenga su residencia habitual en Navarra. En las adquisiciones de otros bienes y derechos, cuando el donatario o el favorecido por ellas tenga su residencia habitual en dicho territorio.
+A estos efectos, tendrán la consideración de donaciones de bienes inmuebles las transmisiones a título gratuito de los valores a que se refiere el artículo 338 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
+c) En los supuestos no contemplados en párrafos anteriores, cuando el contribuyente tuviera su residencia en el extranjero y el mayor valor de los bienes y derechos adquiridos radique en territorio navarro, así como por la percepción de cantidades derivadas de contratos de seguros sobre la vida cuando el contrato haya sido realizado con entidades aseguradoras residentes en territorio navarro o se haya celebrado en Navarra con entidades extranjeras que operen en dicho territorio.
+A efectos de esta letra se entenderá que radican en territorio navarro los bienes y derechos que estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en dicho territorio.
+2. Cuando en un documento se donasen por un mismo donante a favor de un mismo donatario, bienes, derechos y cantidades, y por aplicación de los criterios especificados en el apartado 1 anterior, la adquisición deba entenderse producida en territorio común y navarro, corresponderá a cada uno de ellos la cuota que resulte de aplicar al valor de los donados cuya adquisición se le atribuye, el tipo medio que, según sus normas, correspondería al valor de la totalidad de los transmitidos.
+3. Cuando proceda acumular donaciones, corresponderá a Navarra la cuota que resulte de aplicar, al valor de los bienes y derechos actualmente transmitidos, el tipo medio, que, según sus normas, correspondería al valor de la totalidad de los acumulados.
+A estos efectos se entenderá por totalidad de los bienes y derechos acumulados los procedentes de donaciones anteriores y los que son objeto de la transmisión actual.
+Se modifica la letra b) del apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 7 del anexo. Ref. BOE-A-2025-15423
+ Se modifica el apartado 1 por el art. único.11 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## Sección 6ª
+
+Sección 6.ª Impuesto sobre el Valor de la Producción de la Energía Eléctrica
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 31 bis
+
+Artículo 31 bis. Normativa aplicable y exacción del impuesto.
+1. En la exacción del Impuesto sobre el Valor de la Producción de la Energía Eléctrica la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción de este impuesto corresponderá a la Comunidad Foral de Navarra cuando la instalación productora de energía eléctrica esté situada en su territorio. Cuando la instalación esté situada en territorio navarro y en territorio común la exacción del impuesto corresponderá a la Administración competente para su autorización.
+3. Los pagos a cuenta de este impuesto se exigirán, por una u otra Administración, según los criterios contenidos en el apartado 2.
+4. Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la cuantía que a cada una corresponda.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 8 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 7ª
+
+Sección 7.ª Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica e Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 31 ter
+
+Artículo 31 ter. Normativa aplicable y exacción de los impuestos.
+1. En la exacción del Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica y del Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción del Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica corresponderá a la Comunidad Foral de Navarra cuando la instalación productora de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica esté situada en su territorio. Cuando la instalación esté situada en territorio navarro y en territorio común la exacción del impuesto corresponderá a la Administración competente para su autorización.
+3. La exacción del Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas corresponderá a la Comunidad Foral de Navarra cuando la instalación donde se almacene el combustible y los residuos esté situada en su territorio.
+4. Los pagos a cuenta de estos impuestos se exigirán por una u otra Administración, según los criterios contenidos en los apartados 2 y 3 de este artículo.
+5. Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la cuantía que a cada una corresponda.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 9 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 8ª
+
+Sección 8.ª Impuesto sobre los Depósitos en las Entidades de Crédito
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 31 quáter
+
+Artículo 31 quáter. Normativa aplicable y exacción del impuesto.
+1. En la exacción del Impuesto sobre los Depósitos en Entidades de Crédito la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante lo anterior, la Comunidad Foral podrá establecer los tipos de gravamen de este Impuesto dentro de los límites y en las condiciones vigentes en cada momento en territorio común.
+Asimismo, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción de este Impuesto corresponderá a la Comunidad Foral de Navarra cuando la sede central, sucursales u oficinas donde se mantengan los fondos de terceros estén situadas en su territorio. El impuesto correspondiente a los fondos mantenidos mediante sistemas de comercialización no presenciales y a aquellos otros no susceptibles de territorialización se atribuirán a la Comunidad Foral en la proporción que le corresponda según su participación en los depósitos territorializados.
+3. Los pagos a cuenta del Impuesto se exigirán por una u otra Administración conforme al criterio contenido en el apartado anterior.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 10 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 9ª
+
+Sección 9.ª Impuesto sobre el valor de la extracción de gas, petróleo y condensados
+Se añade por el art. único.12 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+###  Artículo 31 quinquies
+
+Artículo 31 quinquies. Normativa aplicable y exacción del impuesto.
+1. En la exacción del Impuesto sobre el Valor de la Extracción de Gas, Petróleo y Condensados la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción del Impuesto corresponderá a la Comunidad Foral de Navarra cuando se ubique en su territorio el área incluida dentro del perímetro de referencia de la concesión de explotación del yacimiento a que se refiere el artículo 22 de la Ley 8/2015, de 21 de mayo, por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y por la que se regulan determinadas medidas tributarias y no tributarias en relación con la exploración, investigación y explotación de hidrocarburos.
+En caso de que el perímetro señalado en el párrafo anterior se encuentre en territorio navarro y en territorio común, la exacción del impuesto se distribuirá proporcionalmente entre ambas Administraciones.
+3. Los pagos a cuenta del impuesto se exigirán por una u otra Administración, conforme al criterio contenido en el apartado 2 anterior.
+4. Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la cuantía que a cada una corresponda.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 11 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único.12 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## CAPÍTULO III
+
+Impuestos indirectos
+
+## Sección 1
+
+Sección 1.ª Impuestos sobre el valor añadido
+
+### Artículo 32
+
+Artículo 32. Normativa aplicable.
+En la exacción del Impuesto sobre el Valor Añadido, incluido el recargo de equivalencia, Navarra aplicará los mismos principios básicos, normas sustantivas y formales vigentes en cada momento en territorio del Estado.
+No obstante, la Administración de la Comunidad Foral de Navarra podrá aprobar los modelos de declaración e ingreso, que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada periodo de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+Se modifica por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 12 del anexo. Ref. BOE-A-2025-15423
+
+### Artículo 33
+
+Artículo 33. Exacción del impuesto.
+1. Corresponde a la Comunidad Foral de Navarra la exacción del Impuesto sobre el Valor Añadido de los siguientes sujetos pasivos:
+a) Los que tengan su domicilio fiscal en Navarra y su volumen total de operaciones en el año anterior no hubiere excedido de doce millones de euros.
+b) Los que operen exclusivamente en territorio navarro y su volumen total de operaciones en el año anterior hubiere excedido de doce millones de euros, cualquiera que sea el lugar en el que tengan su domicilio fiscal.
+2. Los sujetos pasivos que operen en ambos territorios y cuyo volumen total de operaciones en el año anterior hubiere excedido de doce millones de euros, tributarán conjuntamente a ambas Administraciones, cualquiera que sea el lugar en el que tengan su domicilio fiscal. La tributación se efectuará en proporción al volumen de operaciones realizado en cada territorio durante el año natural, determinado de acuerdo con los puntos de conexión que se establecen en los números siguientes y se expresará en porcentaje redondeado con dos decimales.
+3. Se entenderá como volumen de operaciones el importe total de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y el recargo de equivalencia, en su caso, obtenido por el sujeto pasivo en las entregas de bienes y prestaciones de servicios efectuadas en todas las actividades empresariales o profesionales que realice.
+4. A efectos de lo dispuesto en los apartados 1 y 2 anteriores, en el supuesto de inicio de la actividad, para el cómputo de la cifra de doce millones de euros, se atenderá al volumen de operaciones realizado en el primer año natural.
+Si el primer año de actividad no coincidiera con el año natural, para el cómputo de la cifra anterior, las operaciones realizadas se elevarán al año.
+La tributación durante el citado año se realizará de forma provisional en función del volumen de operaciones que se prevea realizar durante el año de iniciación, sin perjuicio de su regularización posterior, cuando proceda.
+5. Se entenderá que un sujeto pasivo opera en un territorio cuando, de conformidad con los puntos de conexión que se establecen en estas normas, realice en el mismo entregas de bienes o prestaciones de servicios.
+6. Se entenderán realizadas en Navarra las operaciones sujetas al Impuesto de acuerdo con las siguientes reglas:
+A) Entregas de bienes:
+1.º Las entregas de bienes muebles corporales fabricados o transformados por quien efectúa la entrega, cuando los centros fabriles o de transformación del sujeto pasivo estén situados en territorio navarro.
+Cuando el mismo sujeto pasivo tenga centros fabriles o de transformación en territorio navarro y común, si el último proceso de fabricación o transformación de los bienes entregados tiene lugar en Navarra.
+2.º Si se trata de entregas con instalación de elementos industriales fuera de Navarra, se entenderán realizadas en territorio navarro si los trabajos de preparación y fabricación se efectúan en dicho territorio y el coste de la instalación o montaje no excede del 15 por ciento del total de la contraprestación.
+Correlativamente, no se entenderán realizadas en territorio navarro las entregas de elementos industriales con instalación en dicho territorio, si los trabajos de preparación y fabricación de dichos elementos se efectúan en territorio común y el coste de la instalación o montaje no excede del 15 por ciento del total de la contraprestación.
+3.º Las entregas realizadas por los productores de energía eléctrica, cuando radiquen en territorio navarro los centros generadores de la misma.
+4.º Las demás entregas de bienes muebles corporales, cuando se realice desde territorio navarro la puesta a disposición del adquirente. Cuando los bienes deban ser objeto de transporte para su puesta a disposición del adquirente, las entregas se entenderán realizadas en el lugar en que se encuentren aquéllos al tiempo de iniciarse la expedición o el transporte.
+5.º Las entregas de bienes inmuebles, cuando los mismos estén situados en territorio navarro.
+B) Prestaciones de servicios:
+1.º Las prestaciones de servicios se entenderán realizadas en Navarra cuando se efectúen desde dicho territorio.
+2.º No obstante lo dispuesto en el apartado anterior, las prestaciones directamente relacionadas con bienes inmuebles se entenderán realizadas en el territorio en que radiquen dichos bienes.
+3.º Asimismo, se exceptúan de lo dispuesto en los apartados anteriores las operaciones de seguro y capitalización, respecto de las cuales se aplicarán las reglas contenidas en el artículo 37 de este Convenio.
+C) No obstante lo dispuesto en las reglas A) y B) anteriores, será competente para la exacción del Impuesto la Administración del Estado cuando el domicilio fiscal del sujeto pasivo esté situado en territorio común y la Administración de la Comunidad Foral Navarra cuando su domicilio fiscal esté situado en su territorio, en las operaciones siguientes:
+1.ª Las entregas realizadas por explotaciones agrícolas, forestales, ganaderas o pesqueras y armadores de buques de pesca, de productos naturales no sometidos a procesos de transformación que procedan directamente de sus cultivos, explotaciones o capturas.
+2.ª Los servicios de transporte, incluso los de mudanza, remolque y grúa.
+3.ª Los arrendamientos de medios de transporte.
+7. En orden a la exacción del impuesto correspondiente a las adquisiciones intracomunitarias se aplicarán las reglas siguientes:
+a) Corresponderá a Navarra la exacción del Impuesto por las adquisiciones intracomunitarias que efectúen los sujetos pasivos que tributen exclusivamente a la Comunidad Foral de Navarra.
+b) La exacción del Impuesto por las adquisiciones intracomunitarias que efectúen los sujetos pasivos que tributen conjuntamente a ambas Administraciones, corresponderá a una u otra en la misma proporción que la resultante de aplicar lo dispuesto en la regla 1.ª del artículo siguiente.
+c) Los criterios establecidos en los párrafos a) y b) anteriores también serán de aplicación en relación con los transportes intracomunitarios de bienes, los servicios accesorios a los mismos y los servicios de mediación en los anteriores, cuyo destinatario hubiese comunicado al prestador de los servicios un número de identificación atribuido en España, a efectos del Impuesto sobre el Valor Añadido.
+d) La exacción del impuesto por las adquisiciones intracomunitarias de medios de transporte nuevos efectuadas por particulares o por personas o entidades cuyas operaciones estén totalmente exentas o no sujetas al Impuesto sobre el Valor Añadido, corresponderá a la Administración del territorio común o navarro en el que dichos medios de transporte se matriculen definitivamente.
+8. Sin perjuicio de lo dispuesto en el apartado 7 anterior, será competente para la exacción del Impuesto la Administración del Estado cuando el domicilio fiscal del sujeto pasivo esté situado en territorio común y la Administración de la Comunidad Foral de Navarra cuando su domicilio fiscal esté situado en su territorio, en las operaciones siguientes:
+a) Las adquisiciones intracomunitarias de bienes sujetas al impuesto por opción o por haberse superado el límite cuantitativo establecido en la normativa reguladora del Impuesto, efectuadas por sujetos pasivos que realicen exclusivamente operaciones que no originan derecho a deducción total o parcial de aquél, o por personas jurídicas que no actúen como empresarios o profesionales.
+b) Las adquisiciones intracomunitarias de bienes en régimen simplificado, régimen especial de la agricultura, ganadería y pesca y régimen de recargo de equivalencia.
+9. En las entregas de bienes y prestaciones de servicios efectuadas por personas o entidades no establecidas en el territorio de aplicación del impuesto cuando el sujeto pasivo sea el empresario o profesional para quien se realiza la operación sujeta a gravamen, este tributará en los términos que resulten de aplicar las reglas establecidas en los párrafos a) y b) del apartado 7 anterior.
+9 bis. En las entregas de bienes y prestaciones de servicios efectuadas por personas o entidades no establecidas en el territorio de aplicación del impuesto, cuando estas tengan la condición de sujeto pasivo por realizar las mencionadas operaciones, la exacción corresponderá al Estado.
+10. Corresponderá al Estado, en todo caso, la devolución de las cuotas soportadas por personas o entidades no establecidas en el territorio de aplicación del impuesto.
+11. Las deducciones que proceda practicar por el Impuesto sobre el Valor Añadido soportado o satisfecho por los sujetos pasivos, cualquiera que sea la Administración a la que hubiera correspondido su exacción, surtirán efectos frente a ambas Administraciones, de acuerdo con lo dispuesto en el presente Convenio.
+12. La exacción del impuesto correspondiente al régimen especial aplicable a los servicios prestados por empresarios o profesionales establecidos en la Comunidad, pero no en el Estado miembro de consumo, a destinatarios que no tengan la condición de empresarios o profesionales actuando como tales, a las ventas a distancia intracomunitarias de bienes y a determinadas entregas interiores de bienes facilitadas a través de una interfaz digital y al régimen especial aplicable a las ventas a distancia de bienes importados de países o territorios terceros, caracterizados por la tributación en destino e instrumentalizados mediante el mecanismo de ventanilla única, cuando España sea el Estado miembro de identificación, corresponderá a la Administración que, de acuerdo con lo establecido en la regla 7.ª del artículo 34, ostente la competencia inspectora sobre los empresarios o profesionales establecidos en el territorio de aplicación del impuesto que hayan optado por la aplicación de dichos regímenes.
+No obstante, cuando en el régimen especial aplicable a las ventas a distancia de bienes importados de países o territorios terceros se hubiese designado intermediario, la exacción del impuesto corresponderá a la Administración que, de acuerdo con lo establecido en la regla 7.ª del artículo 34, ostente la competencia inspectora sobre los intermediarios designados.
+13. Los sujetos pasivos que no realicen las operaciones previstas en este artículo tributarán a la Comunidad Foral cuando tengan su domicilio fiscal en territorio navarro. En particular, se entenderán incluidos en este apartado los sujetos pasivos que, habiendo iniciado su actividad empresarial o profesional, no hayan comenzado a realizar entregas de bienes o prestaciones de servicios.
+Se modifican los apartados 1, 2 y 4 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 13 del anexo. Ref. BOE-A-2025-15423
+ Se modifican los apartados 1, 2, 4, 9 y 10, se añaden los apartados 9 bis y 12 y se renumera el actual 12 como 13 por el art. único.13 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+ Redactado el apartado 6.A), B) y C) conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2008. Ref. BOE-A-2008-1465
+
+### Artículo 34
+
+Artículo 34. Gestión e inspección del impuesto.
+En relación con la gestión e inspección del impuesto, se aplicarán las siguientes reglas:
+1.ª El resultado de las liquidaciones del Impuesto se imputará a las Administraciones del Estado y Navarra en proporción al volumen de las contraprestaciones, excluido el Impuesto sobre el Valor Añadido y, en su caso, el recargo de equivalencia, correspondiente a las entregas de bienes y prestaciones de servicios gravadas, así como las exentas que originen derecho a la deducción y se entiendan realizadas en los territorios respectivos durante cada año natural.
+2.ª Las proporciones provisionalmente aplicables durante cada año natural serán las determinadas en función de las operaciones del año precedente.
+La proporción provisionalmente aplicable en los períodos de liquidación del primer año natural de ejercicio de la actividad será fijada por el sujeto pasivo según las operaciones que prevea realizar en cada territorio, sin perjuicio de la regularización final correspondiente.
+No obstante lo previsto en los dos párrafos anteriores podrá aplicarse, previa comunicación a la Comisión Coordinadora prevista en el artículo 67 de este Convenio Económico, una proporción provisional distinta de la anterior en los siguientes supuestos:
+a) Fusión, escisión y aportación de activos y canje de valores.
+b) Inicio, cese, ampliación o reducción de actividad en uno u otro territorio, que implique una variación significativa de la proporción calculada según el criterio especificado en los párrafos anteriores.
+En todo caso, se considerará que la variación es significativa cuando suponga la alteración de 15 o más puntos porcentuales en la proporción aplicable a cualquiera de los territorios.
+3.ª En la última declaración-liquidación del Impuesto correspondiente a cada año natural, el sujeto pasivo calculará las proporciones definitivas según las operaciones realizadas en dicho período, y practicará la correspondiente regularización de las declaraciones efectuadas en los anteriores períodos de liquidación con cada una de las Administraciones.
+4.ª Los sujetos pasivos que deban tributar a ambas Administraciones presentarán en la Delegación de Hacienda que corresponda y en la Administración de la Comunidad Foral de Navarra, dentro de los plazos y con las formalidades reglamentarias, los documentos que determinen las disposiciones vigentes y, en su caso, las declaraciones-liquidaciones procedentes, en las que constarán, en todo caso, las proporciones provisional o definitivamente aplicables y las cuotas o devoluciones que resulten frente a las dos Administraciones.
+5.ª En el supuesto de que el importe de las cuotas impositivas devengadas en cada período de liquidación supere la cuantía de las cuotas deducibles durante el mismo período, los sujetos pasivos deberán efectuar el ingreso de las cuotas resultantes a la Administración de la Comunidad Foral de Navarra y a la Delegación de Hacienda que corresponda, en la proporción resultante.
+6.ª Los sujetos pasivos que no hayan podido efectuar las deducciones originadas en cada período de liquidación por exceder la cuantía de las mismas de las cuotas devengadas, tendrán derecho a solicitar la devolución del saldo a su favor, en los casos que proceda, con arreglo a la normativa del Impuesto.
+Corresponderá a la Administración de la Comunidad Foral de Navarra y a la del Estado realizar las devoluciones procedentes, en la parte proporcional respectiva.
+7.ª La inspección se realizará de acuerdo con los siguientes criterios:
+a) La inspección de los sujetos pasivos que deban tributar exclusivamente a la Administración de la Comunidad Foral de Navarra o, en su caso, a la Administración del Estado, se llevará a cabo por las Inspecciones de los Tributos de cada una de dichas Administraciones.
+b) La inspección de los sujetos que deban tributar en proporción al volumen de sus operaciones realizadas en territorio común y navarro se realizará de acuerdo con las siguientes reglas:
+Primera. Si los sujetos pasivos tienen su domicilio fiscal en territorio común, la comprobación e investigación será realizada por los órganos competentes de territorio común, sin perjuicio de la colaboración entre Administraciones.
+No obstante lo establecido en el párrafo anterior, en el caso de que un sujeto pasivo con domicilio fiscal en territorio común hubiera realizado en el año anterior en territorio navarro el 75 por ciento o más de sus operaciones totales, de acuerdo con los puntos de conexión establecidos, será competente la Administración de la Comunidad Foral, salvo que se trate de entidades acogidas al régimen especial de grupos de entidades.
+Segunda. Si los sujetos pasivos tienen su domicilio fiscal en territorio navarro, la comprobación e investigación será realizada por los órganos competentes de la Administración Comunidad Foral de Navarra, sin perjuicio de la colaboración entre Administraciones.
+No obstante lo establecido en el párrafo anterior, en el caso de que un sujeto pasivo con domicilio fiscal en territorio navarro hubiera realizado en el año anterior en territorio común el 75 por ciento o más de sus operaciones totales, de acuerdo con los puntos de conexión establecidos, será competente la Administración de territorio común.
+Tercera. Las actuaciones inspectoras se ajustarán a las normativas de la Administración competente, de acuerdo con lo previsto en las reglas anteriores, y surtirán efectos frente a ambas Administraciones incluyendo la proporción de tributación que corresponda a las mismas.
+Si, como consecuencia de dichas actuaciones, resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente será efectuado por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan. La Administración competente comunicará los resultados de sus actuaciones a la Administración afectada. A estos efectos, se establecerá un procedimiento para que la deuda resultante de las actuaciones de comprobación e investigación sea percibida por la Administración a la que corresponda.
+Cuarta. Lo establecido en las reglas anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Administración de la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+Quinta. Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que, con posterioridad a dichas comprobaciones, se acuerden con carácter definitivo entre las Administraciones competentes.
+c) La Administración Tributaria que no ostente la competencia inspectora podrá realizar actuaciones de obtención de información sobre las operaciones que pudieran afectar al cálculo de su proporción de volumen de operaciones, con independencia de donde se hayan entendido realizadas, a los solos efectos de comunicar lo actuado a la Administración Tributaria con competencia inspectora. En ningún caso estas actuaciones pueden suponer la realización de actuaciones de comprobación e investigación por parte de la Administración que no dispone de competencia inspectora.
+8.ª Las entidades acogidas al régimen especial del grupo de entidades tributarán aplicando las reglas contenidas en la presente Sección 1.ª, con las siguientes especialidades:
+Primera.-Se considerarán excluidas del grupo de entidades las entidades dependientes cuya inspección, de acuerdo con las reglas contenidas en la regla 7.ª anterior, se encuentre encomendada a los órganos de una Administración, foral o común, distinta de la aplicable a la entidad dominante.
+Segunda.-Las entidades integrantes del grupo de entidades presentarán, de conformidad con las normas generales a que se refiere este Convenio, la declaración establecida para el régimen de tributación individual conteniendo los importes que resulten de la aplicación individual de las normas reguladoras del impuesto, incluyendo, en su caso, las propias del régimen especial del grupo de entidades.
+Cada entidad integrante del grupo calculará de forma individual el resultado de la declaración imputable a cada Administración aplicando el resto de reglas establecidas en la presente Sección 1.ª
+Tercera.-Los importes a computar en las declaraciones-liquidaciones agregadas del grupo de entidades serán la suma de los resultados calculados conforme a la regla anterior correspondientes a la Comunidad Foral de Navarra o a la Administración del Estado, sin que quepa la agregación de cantidades que correspondan a Administraciones tributarias distintas.
+Cuarta.-Las obligaciones específicas de las entidades dominantes habrán de ser cumplidas ante las Administraciones tributarias en cuyo territorio operen las entidades que integran el grupo.
+Quinta.-El régimen especial del grupo de entidades no alterará en ningún caso las reglas previstas en este Convenio y en particular las aplicables para determinar el volumen de operaciones en cada territorio.
+9.ª Las declaraciones recapitulativas de entregas y adquisiciones intracomunitarias y las de operaciones con terceras personas se presentarán ante la Administración tributaria que tenga atribuida la competencia para la comprobación e investigación de los sujetos pasivos.
+10.ª Cuando la exacción del Impuesto corresponda a la Administración de la Comunidad Foral de Navarra, en los regímenes especiales y según los términos previstos en el apartado 12 del artículo 33, los empresarios o profesionales a que hace referencia dicho apartado que se acojan a los regímenes especiales cumplirán ante la Administración de la Comunidad Foral las obligaciones formales y materiales que se deriven de los mismos, sin perjuicio de los flujos de información y fondos que correspondan entre ésta y la Administración del Estado.
+Se modifican el párrafo primero y la regla 7 y se añade una regla 10 por el art. único.14 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+## Sección 2
+
+Sección 2.ª Impuestos especiales
+
+### Artículo 35
+
+Artículo 35. Exacción de los Impuestos Especiales.
+1. Corresponderá a la Comunidad Foral la exacción de los Impuestos Especiales de fabricación cuando el devengo de los mismos se produzca en territorio navarro.
+Las devoluciones de los Impuestos Especiales de fabricación serán efectuadas por la Administración en la que hubieran sido ingresadas las cuotas cuya devolución se solicita. No obstante, en los casos en que no sea posible determinar en qué Administración fueron ingresadas las cuotas, la devolución se efectuará por la correspondiente al territorio donde se genere el derecho a la devolución.
+El control, así como el régimen de autorización de los establecimientos situados en Navarra, corresponderá a la Comunidad Foral. No obstante, para la autorización de los depósitos fiscales será necesaria la previa comunicación a la Administración del Estado.
+2. El Impuesto Especial sobre Determinados Medios de Transporte se exigirá por la Comunidad Foral de Navarra cuando radique en territorio navarro el domicilio fiscal de la persona física o jurídica que realice el hecho imponible.
+Las devoluciones de las cuotas de este Impuesto serán efectuadas por la Administración en la que las mismas fueron ingresadas.
+No obstante lo dispuesto en el apartado 5, la Comunidad Foral podrá establecer los tipos de gravamen de este impuesto dentro de los límites y en las condiciones vigentes en cada momento en territorio común.
+3. El Impuesto Especial sobre el Carbón se exigirá por la Comunidad Foral de Navarra cuando el devengo del mismo se produzca en Navarra.
+Se considerará producido el devengo en el momento y en el lugar de la puesta a consumo.
+Se entiende producida la puesta a consumo en el momento de la primera venta o entrega de carbón tras su producción, extracción, importación o adquisición intracomunitaria. Tendrán asimismo la consideración de primera venta o entrega las ventas o entregas subsiguientes que realicen los empresarios que destinen el carbón a su reventa cuando les haya sido aplicable al adquirirlo la exención por destino a reventa.
+También se entiende producida la puesta a consumo en el momento del autoconsumo del carbón. Tendrá la consideración de autoconsumo la utilización o consumo del carbón realizado por los productores o extractores, importadores, adquirentes intracomunitarios o empresarios a que se refiere el párrafo anterior.
+4. El Impuesto Especial sobre la Electricidad se exigirá por la Comunidad Foral de Navarra en los siguientes casos:
+En el caso del suministro de energía eléctrica, cuando esté ubicado en Navarra el punto de suministro de la persona o entidad que adquiera la electricidad para su propio consumo.
+En el caso de consumo por los productores de energía eléctrica de aquella electricidad generada por ellos mismos, cuando se produzca en Navarra dicho consumo.
+5. En la exacción de los Impuestos Especiales que correspondan a la Comunidad Foral, esta aplicará los mismos principios básicos, normas sustantivas y formales vigentes en cada momento en territorio del Estado.
+No obstante lo anterior, la Comunidad Foral de Navarra podrá establecer los tipos de gravamen de estos impuestos dentro de los límites y en las condiciones vigentes en cada momento en territorio común.
+Asimismo, la Administración de la Comunidad Foral de Navarra podrá aprobar los modelos de declaración e ingreso, que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+Se modifica el apartado 5 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 14 del anexo. Ref. BOE-A-2025-15423
+ Se modifican los apartados 2 y 4 por el art. único.15 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Artículo 35 bis
+
+Artículo 35 bis. Impuesto especial sobre los envases de plástico no reutilizables.
+1. En la exacción del impuesto especial sobre los envases de plástico no reutilizables la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción del impuesto corresponderá a la Comunidad Foral de Navarra o a la Administración del Estado con arreglo a las siguientes reglas:
+Primera. En los supuestos de fabricación de productos que forman parte del ámbito objetivo del impuesto, la exacción corresponderá a la Administración del territorio donde radiquen los establecimientos en los que se desarrolle la actividad.
+Segunda. En los supuestos de adquisición intracomunitaria de productos que forman parte del ámbito objetivo del impuesto, la exacción corresponderá a la Administración del territorio en el que se encuentre el domicilio fiscal del contribuyente. Si las adquisiciones intracomunitarias se realizan por un contribuyente no establecido, la exacción corresponderá a la Administración del territorio donde radique el domicilio fiscal de su representante.
+Tercera. En los supuestos de introducción irregular de los productos objeto del impuesto, la exacción corresponderá a la Administración del territorio en el que se encuentren los mismos en el momento en que se constate la introducción irregular.
+3. Las devoluciones que procedan serán efectuadas por la Administración en la que hubieran sido ingresadas las cuotas cuya devolución se solicita. No obstante, en los casos en que no sea posible determinar en qué Administración fueron ingresadas las cuotas, la devolución se efectuará por la Administración correspondiente al territorio donde se genere el derecho a la devolución.
+4. La comprobación e investigación del impuesto se realizará por los órganos de la Administración competente para la exacción del impuesto, sin perjuicio de la colaboración entre Administraciones tributarias.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 15 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único, en los términos establecidos en el anexo.Uno de la Ley 8/2023, de 3 de abril. Ref. BOE-A-2023-8454
+
+## Sección 3
+
+Sección 3.ª Impuesto sobre los Gases Fluorados de Efecto Invernadero
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 36
+
+Artículo 36. Normativa aplicable y exacción del impuesto.
+1. En la exacción del Impuesto sobre los Gases Fluorados de Efecto Invernadero la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción del impuesto corresponderá a la Comunidad Foral de Navarra o a la Administración del Estado con arreglo a las siguientes normas:
+Primera. En los supuestos de fabricación de gases que forman parte del ámbito objetivo del impuesto, la exacción corresponderá a la Administración del territorio donde radiquen los establecimientos en los que se desarrolle la actividad.
+Segunda. En los supuestos de ventas o entregas, así como consumo de gases realizados por contribuyentes autorizados como almacenistas de acuerdo con la normativa reguladora del impuesto, la exacción corresponderá a la Administración del territorio donde radiquen los establecimientos en los que desarrolle su actividad.
+Tercera. En los supuestos de adquisición intracomunitaria de gases que forman parte del ámbito objetivo del impuesto, la exacción corresponderá a la Administración del territorio en el que se encuentre el domicilio fiscal del contribuyente, salvo que se trate de contribuyentes autorizados como almacenistas, en cuyo caso se aplicará la regla segunda anterior. Si las adquisiciones intracomunitarias se realizan por un contribuyente no establecido la exacción corresponderá a la Administración del territorio donde radique el domicilio fiscal de su representante.
+Cuarta. En los supuestos de tenencia irregular de los gases objeto del impuesto, la exacción corresponderá a la Administración del territorio en el que se encuentren los mismos en el momento en que se constate la tenencia irregular.
+3. Las devoluciones que procedan serán efectuadas por la Administración en la que hubieran sido ingresadas las cuotas cuya devolución se solicita. No obstante, en los casos en que no sea posible determinar en qué Administración fueron ingresadas las cuotas, la devolución se efectuará por la Administración correspondiente al territorio donde se genere el derecho a la devolución.
+4. La comprobación e investigación del impuesto se realizará por los órganos de la Administración competente para la exacción del impuesto, sin perjuicio de la colaboración entre Administraciones tributarias.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 16 del anexo. Ref. BOE-A-2025-15423
+ Se modifica por el art. único, en los términos establecidos en el anexo.Dos de la Ley 8/2023, de 3 de abril. Ref. BOE-A-2023-8454
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+## Sección 4
+
+Sección 4.ª Impuesto sobre las primas de seguros
+
+### Artículo 37
+
+Artículo 37. Impuesto sobre las Primas de Seguros.
+1. Corresponderá a la Comunidad Foral de Navarra la exacción del Impuesto sobre las Primas de Seguros cuando la localización del riesgo o del compromiso, en las operaciones de seguro y capitalización, se produzca en territorio navarro.
+2. A estos efectos, se entenderá que la localización del riesgo se produce en territorio navarro, de acuerdo con las reglas siguientes:
+Primera. En el caso de que el seguro se refiera a inmuebles, cuando los bienes radiquen en dicho territorio. La misma regla se aplicará cuando el seguro se refiera a bienes inmuebles y a su contenido, si este último está cubierto por la misma póliza de seguro. Si el seguro se refiere exclusivamente a bienes muebles que se encuentran en un inmueble, con excepción de los bienes en tránsito comercial, cuando el citado inmueble radique en dicho territorio.
+Cuando en un mismo seguro se cubra el riesgo de inmuebles ubicados en territorio común y navarro, se localizará en cada uno de ellos en función del valor de los inmuebles radicados en uno y otro territorio.
+Segunda. En el caso de que el seguro se refiera a vehículos de cualquier naturaleza, cuando la persona o entidad a cuyo nombre se encuentre matriculado tenga su domicilio fiscal en Navarra.
+Tercera. En el caso de que el seguro se refiera a riesgos que sobrevengan durante un viaje o fuera del domicilio habitual del tomador del seguro, y su duración sea inferior o igual a cuatro meses, cuando se produzca en territorio navarro la firma del contrato por parte del tomador del seguro.
+Cuarta. En todos los casos no explícitamente contemplados en las reglas anteriores, cuando el tomador del seguro tenga su residencia habitual en Navarra, o, si fuera una persona jurídica, cuando el domicilio social o sucursal de la misma a que se refiere el contrato se encuentre en dicho territorio.
+3. En el caso de seguros sobre la vida, se entenderá que la localización del compromiso se produce en territorio navarro, cuando el tomador del seguro tenga en el mismo su residencia habitual, si es una persona física, o su domicilio social o una sucursal, en caso de que el contrato se refiera a esta última, si es una persona jurídica.
+4. En defecto de normas específicas de localización de acuerdo con los apartados anteriores, se entienden realizadas en territorio navarro las operaciones de seguro y capitalización cuando el contratante sea un empresario o profesional que concierte las operaciones en el ejercicio de sus actividades empresariales o profesionales, y radique en dicho territorio la sede de su actividad económica o tenga en el mismo un establecimiento permanente o, en su defecto, el lugar de su domicilio.
+5. En la exacción del Impuesto la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales que las establecidas en cada momento por el Estado.
+No obstante, la Administración de la Comunidad Foral podrá aprobar los modelos de declaración e ingreso y señalar los plazos de ingreso, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+Se modifica el apartado 5 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 17 del anexo. Ref. BOE-A-2025-15423
+
+## Sección 5
+
+Sección 5.ª Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+### Artículo 38
+
+Artículo 38. Exacción por la Comunidad Foral de Navarra.
+1. Corresponde a la Comunidad Foral la exacción del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados en los siguientes supuestos:
+A) Transmisiones patrimoniales onerosas:
+1.º En la transmisión onerosa y arrendamientos de bienes inmuebles, así como en la cesión onerosa de derechos de toda clase, incluso de garantía, que recaigan sobre los mismos, cuando aquellos radiquen en Navarra.
+A estos efectos, tendrán la consideración de transmisión de bienes inmuebles las transmisiones a título oneroso de valores a que se refiere el artículo 338 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
+2.º En la transmisión onerosa de bienes muebles, semovientes y créditos, así como en la cesión onerosa de derechos sobre los mismos, cuando el adquirente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+No obstante lo establecido en el párrafo anterior, en la transmisión de acciones, derechos de suscripción, obligaciones y títulos análogos y demás valores, así como de participaciones sociales, cuando la operación se formalice en Navarra.
+3.º En la constitución onerosa de derechos de toda clase sobre bienes inmuebles, incluso de garantía, cuando éstos radiquen en Navarra.
+4.º En la constitución onerosa de derechos de toda clase sobre bienes muebles, semovientes y créditos, cuando el adquirente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+No obstante lo establecido en el párrafo anterior, en la constitución de hipoteca mobiliaria y prenda sin desplazamiento, cuando la garantía sea inscribible en territorio navarro.
+5.º En la constitución de préstamos, cuando el prestatario, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+Sin embargo, si se trata de préstamos con garantía real, cuando los bienes inmuebles hipotecados radiquen en Navarra o sean inscribibles en ésta las correspondientes hipotecas mobiliarias o prendas sin desplazamiento.
+Si un mismo préstamo estuviese garantizado con hipoteca sobre bienes inmuebles sitos en territorio común y foral o con hipoteca mobiliaria o prenda sin desplazamiento inscribible en ambos territorios, tributará a cada Administración en proporción a la responsabilidad que se señale a unos y otros y, en ausencia de esta especificación expresa en la escritura, en proporción a los valores comprobados de los bienes.
+6.º En la constitución de fianzas, arrendamientos no inmobiliarios y pensiones, cuando el acreedor afianzado, arrendatario o pensionista, respectivamente, siendo persona física, tenga su residencia habitual en Navarra y, siendo persona jurídica o ente sin personalidad, tenga en ella su domicilio fiscal.
+7.º En las concesiones administrativas de bienes cuando éstos radiquen en Navarra, y en las ejecuciones de obra o explotaciones de servicios cuando se ejecuten o presten en Navarra. Estas mismas reglas serán aplicables cuando se trate de actos y negocios administrativos que tributen por equiparación a las concesiones administrativas.
+Tratándose de concesiones de explotación de bienes que superen el ámbito territorial de Navarra, se exigirá el Impuesto en proporción a la extensión que ocupen en el territorio navarro.
+Tratándose de concesiones de ejecución de obras que superen el ámbito territorial de Navarra, se exigirá el Impuesto en proporción al importe estimado de las obras a realizar en territorio navarro.
+Tratándose de concesiones de explotación de servicios que superen el ámbito territorial de Navarra, se exigirá el impuesto en función de la media aritmética de los porcentajes que representen su población y su superficie sobre el total de las comunidades implicadas.
+Tratándose de concesiones mixtas que superen el ámbito territorial de Navarra, se exigirá el Impuesto mediante la aplicación de los criterios recogidos en los tres párrafos anteriores a la parte correspondiente de la concesión.
+En el caso de concesiones administrativas que superen el ámbito territorial de Navarra, la inspección del Impuesto corresponderá a la Comunidad Foral cuando el domicilio fiscal de la entidad concesionaria radique en dicho territorio.
+B) Operaciones societarias:
+Cuando concurra alguna de las siguientes circunstancias:
+1.ª Que la entidad tenga en Navarra su domicilio fiscal.
+2.ª Que la entidad tenga en Navarra su domicilio social, siempre que la sede de dirección efectiva no se encuentre situada en el ámbito territorial de otra Administración tributaria de un Estado miembro de la Unión Europea o, estándolo, dicho Estado no grave la operación societaria con un impuesto similar.
+3.ª Que la entidad realice en Navarra operaciones de su tráfico, cuando su sede de dirección efectiva y su domicilio social no se encuentren situadas en el ámbito territorial de otra Administración tributaria de un Estado miembro de la Unión Europea o, estándolo, estos Estados no graven la operación societaria con un impuesto similar.
+C) Actos jurídicos documentados:
+1.º En las escrituras, actas y testimonios notariales, cuando se autoricen, otorguen o expidan en Navarra.
+No obstante lo dispuesto en el párrafo anterior, en los supuestos sujetos a la cuota gradual del gravamen de Actos Jurídicos Documentados, cuando radique en territorio navarro el registro en el que deba procederse a la inscripción o anotación de los bienes o actos.
+Si un mismo préstamo estuviese garantizado con hipoteca sobre bienes inmuebles sitos en territorio común y foral o con hipoteca mobiliaria o prenda sin desplazamiento inscribible en ambos territorios, tributará a cada Administración en proporción a la responsabilidad que se señale a unos y otros y, en ausencia de esta especificación expresa en la escritura, en proporción a los valores comprobados de los bienes.
+2.º En las letras de cambio y documentos que realicen función de giro o suplan a aquéllas, cuando su libramiento o emisión tenga lugar en Navarra y, si hubiesen sido expedidos en el extranjero, cuando su primer tenedor tenga su residencia habitual o domicilio fiscal en Navarra, según se trate de persona física o de persona jurídica o ente sin personalidad. La Comunidad Foral de Navarra someterá los hechos imponibles señalados a igual tributación que en territorio común.
+3.º En los resguardos o certificados de depósito transmisibles, cuando el domicilio fiscal de la entidad que los emita o expida radique en Navarra.
+4.º En los pagarés, bonos, obligaciones y demás títulos análogos emitidos en serie, representativos de capitales ajenos, por los que se satisfaga una contraprestación establecida por diferencia entre el importe satisfecho por la emisión y el comprometido a reembolsar al vencimiento, cuando se emitan en Navarra.
+5.º En las anotaciones preventivas, cuando se practiquen en los Registros públicos sitos en Navarra.
+Si una misma anotación afecta a bienes sitos en Navarra y en territorio común se satisfará el Impuesto a la Administración en la que tenga su jurisdicción la autoridad que la ordene.
+2. Se someterán a igual tributación que en territorio común la transmisión de valores a que se refiere el párrafo segundo del número 2.º de la letra A) del apartado 1 anterior, así como las operaciones societarias.
+Se modifica el apartado 1.A).1º por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 18 del anexo. Ref. BOE-A-2025-15423
+ Se modifica el apartado 1.A).1º por el art. único.16 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 39
+
+Artículo 39. Elusión fiscal mediante sociedades.
+A los efectos de la aplicación de las normas relativas a la elusión fiscal mediante sociedades, será competente para la práctica de las liquidaciones la Administración del Estado cuando los bienes inmuebles estén situados en territorio de régimen común y la de la Comunidad Foral cuando radiquen en territorio navarro.
+En los supuestos en que las aportaciones o los activos de las sociedades comprendiesen inmuebles ubicados en ambos territorios, cada Administración practicará la liquidación que corresponda en función de los valores de los inmuebles radicantes en su respectivo territorio.
+
+## Sección 6
+
+Sección 6.ª Tributos sobre el juego
+
+### Artículo 40
+
+Artículo 40. Exacción de los tributos y normativa aplicable.
+1. La Tasa sobre los Juegos de Suerte, Envite o Azar será exaccionada por la Comunidad Foral cuando el hecho imponible se realice en Navarra.
+2. La Tasa Fiscal sobre Rifas, Tómbolas, Apuestas y Combinaciones Aleatorias será exaccionada por la Comunidad Foral cuando su autorización deba realizarse en Navarra.
+3. La exacción del Impuesto sobre Actividades de Juego corresponderá a la Comunidad Foral de Navarra, a la Administración del Estado o a ambas Administraciones en proporción al volumen de operaciones realizado en cada territorio durante el ejercicio.
+Los sujetos pasivos tributarán, cualquiera que sea el lugar en que tengan su domicilio fiscal, a las distintas Administraciones en proporción al volumen de operaciones realizado en cada territorio durante el ejercicio.
+La proporción del volumen de operaciones realizada en cada territorio durante el ejercicio se determinará en función del peso relativo de las cantidades jugadas a cada modalidad de juego correspondientes a jugadores residentes en Navarra y en territorio común. Esta proporción, que se expresará en porcentaje redondeado en dos decimales, se aplicará también a las cuotas correspondientes a jugadores no residentes en el territorio español.
+Las cuotas liquidadas derivadas de las modalidades de juego en las que no sea exigible la identificación de la residencia del jugador se imputarán de forma exclusiva a la Administración de la Comunidad Foral o a la Administración del Estado correspondiente al domicilio fiscal del sujeto pasivo, sin perjuicio de las compensaciones que corresponda realizar posteriormente entre las Administraciones.
+No obstante lo dispuesto en los párrafos anteriores, la exacción del Impuesto derivada de la realización de apuestas mutuas deportivo-benéficas y apuestas mutuas hípicas estatales, en las que no se identifique la residencia del jugador, corresponderá a la Comunidad Foral de Navarra cuando el punto de venta donde se realice la apuesta se localice en su territorio.
+4. Los sujetos pasivos presentarán las declaraciones-liquidaciones del Impuesto ante las Administraciones competentes para su exacción, en las que constarán, en todo caso, la proporción aplicable y las cuotas que resulten ante cada una de las Administraciones. En todo caso, los sujetos pasivos del impuesto incorporarán en los modelos a presentar ante cada una de las Administraciones implicadas la totalidad de la información correspondiente a las actividades gravadas por este impuesto.
+5. Las devoluciones que procedan serán efectuadas por las respectivas Administraciones en la cuantía que a cada una le corresponda.
+6. En los tributos a que se refieren los apartados 1 y 2 de este artículo, cuando su autorización deba realizarse en Navarra, la Comunidad Foral aplicará la misma normativa que la establecida en cada momento por el Estado en lo que se refiere al hecho imponible y sujeto pasivo.
+7. En la exacción del Impuesto sobre Actividades de Juego la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales que las establecidas en cada momento por el Estado.
+No obstante lo anterior, respecto de las actividades que sean ejercidas por operadores, organizadores o por quienes desarrollen la actividad gravada por este Impuesto con residencia fiscal en su territorio, la Comunidad Foral de Navarra podrá elevar los tipos del Impuesto hasta un máximo del 20 por ciento de los tipos establecidos en cada momento por el Estado, incremento que se aplicará, exclusivamente, sobre la parte proporcional de la base imponible correspondiente a la participación en el juego de los residentes fiscales en el territorio navarro.
+Asimismo, la Comunidad Foral de Navarra podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+8. La inspección del Impuesto sobre Actividades de Juego se llevará a cabo por los órganos de la Administración donde radique el domicilio fiscal del sujeto pasivo o de su representante en el caso de sujetos pasivos no residentes, sin perjuicio de la colaboración del resto de Administraciones tributarias concernidas, y surtirá efectos frente a todas las Administraciones competentes, incluyendo la proporción de tributación que corresponda a las mismas.
+No obstante, corresponderá a la Administración del Estado la inspección de los sujetos pasivos cuyo domicilio fiscal radique en territorio navarro cuando en el año anterior el importe agregado de las cantidades jugadas hubiera excedido de doce millones de euros y la proporción de estas realizada en territorio común, de acuerdo con los puntos de conexión especificados en el apartado 3 anterior, fuera igual o superior al 75 por 100.
+Asimismo, corresponderá a la Comunidad Foral de Navarra la inspección de los sujetos pasivos cuyo domicilio fiscal radique en territorio común cuando en el año anterior el importe agregado de las cantidades jugadas hubiera excedido de doce millones de euros y hubieran realizado, de acuerdo con los puntos de conexión especificados en el apartado 3 anterior, la totalidad de sus operaciones en territorio navarro.
+Si, como consecuencia de las actuaciones inspectoras, resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente será efectuado por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan.
+Los órganos de la inspección competente comunicarán los resultados de sus actuaciones al resto de las Administraciones afectadas.
+Lo establecido en los párrafos anteriores se entenderá sin perjuicio de las facultades que corresponden en su territorio a la Comunidad Foral de Navarra en materia de comprobación e investigación, sin que sus actuaciones puedan tener efectos económicos frente a los contribuyentes en relación con las liquidaciones definitivas practicadas como consecuencia de actuaciones de los órganos de las Administraciones competentes.
+Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que, con posterioridad a dichas comprobaciones, se acuerden con carácter definitivo entre ambas Administraciones.
+Se modifican los apartados 7 y 8 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 19 del anexo. Ref. BOE-A-2025-15423
+ Se modifica el apartado 3 por el art. único.17 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## Sección 6 bis
+
+Sección 6.ª bis. Impuesto sobre las transacciones financieras
+Se añade por el art. único.18 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+###  Artículo 40 bis
+
+Artículo 40 bis. Normativa aplicable, exacción e inspección del Impuesto.
+1. En la exacción del Impuesto sobre las Transacciones Financieras la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada periodo de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado.
+2. La exacción del impuesto corresponderá a la Comunidad Foral, a la Administración del Estado o a ambas Administraciones en proporción al volumen de operaciones realizado en cada territorio durante el periodo de liquidación.
+La proporción del volumen de operaciones realizada en cada territorio se determinará en función del porcentaje que representa la base imponible del Impuesto correspondiente a operaciones relativas a acciones de sociedades con domicilio social en territorio común o foral respecto a la base imponible total de cada sujeto pasivo. Esta proporción se expresará en porcentaje redondeado en dos decimales.
+3. La inspección del impuesto se llevará a cabo por los órganos de la Administración de la Comunidad Foral cuando el sujeto pasivo tenga su domicilio fiscal en Navarra, sin perjuicio de la colaboración de la Administración del Estado, y surtirá efectos frente a ambas Administraciones, incluyendo la proporción de tributación que corresponda a las mismas.
+Si, como consecuencia de dichas actuaciones, resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente se efectuará por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan.
+Los órganos de la inspección competente comunicarán los resultados de sus actuaciones a la Administración afectada. Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al sujeto pasivo en relación con las obligaciones liquidadas, sin perjuicio de las que con posterioridad a dichas comprobaciones se acuerden con carácter definitivo entre las Administraciones competentes.
+Se añade por el art. único.18 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## Sección 6 ter
+
+Sección 6.ª ter. Impuesto sobre determinados servicios digitales
+Se añade por el art. único.18 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+###  Artículo 40 ter
+
+Artículo 40 ter. Normativa aplicable, exacción e inspección del impuesto.
+1. En la exacción del Impuesto sobre Determinados Servicios Digitales la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante, la Comunidad Foral podrá aprobar los modelos de declaración e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada periodo de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+2. La exacción del impuesto corresponderá a la Comunidad Foral de Navarra, a la Administración del Estado o a ambas Administraciones en proporción al volumen de operaciones realizado en cada territorio durante el periodo de liquidación.
+Esta proporción, que se expresará en porcentaje redondeado en dos decimales, se determinará en función del porcentaje que representen los ingresos obtenidos por las prestaciones de servicios sujetas realizadas en el territorio de cada Administración respecto a los ingresos totales obtenidos en territorio español. A estos efectos, del importe de los ingresos se excluirá el Impuesto sobre el Valor Añadido u otros impuestos equivalentes.
+Las prestaciones de servicios digitales se entenderán realizadas en territorio común o foral, según el lugar en el que estén situados los usuarios, determinado de acuerdo con las reglas de localización contenidas en la normativa reguladora del impuesto.
+3. Los contribuyentes presentarán las autoliquidaciones del Impuesto ante las Administraciones competentes para su exacción, en las que constarán, en todo caso, las proporciones aplicables y cuotas que correspondan a cada una de las Administraciones.
+Las devoluciones que procedan serán efectuadas par las respectivas Administraciones en la cuantía que a cada una le corresponda.
+4. La inspección del impuesto se realizará por los órganos de la Administración de la Comunidad Foral cuando el contribuyente tenga su domicilio fiscal en Navarra, sin perjuicio de la colaboración de la Administración del Estado, y surtirá efectos frente a ambas Administraciones, incluyendo la proporción de tributación que corresponda a las mismas.
+Si, como consecuencia de dichas actuaciones, resultase una deuda a ingresar o una cantidad a devolver que corresponda a ambas Administraciones, el cobro o el pago correspondiente se efectuará por la Administración actuante, sin perjuicio de las compensaciones que entre aquellas procedan.
+Los órganos de la inspección competente comunicarán los resultados de sus actuaciones al resto de las Administraciones afectadas. Las proporciones fijadas en las comprobaciones por la Administración competente surtirán efectos frente al contribuyente en relación con las obligaciones liquidadas, sin perjuicio de las que con posterioridad a dichas comprobaciones se acuerden con carácter definitivo entre las Administraciones competentes.
+Se modifica el apartado 1 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 20 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único.18 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## Sección 7
+
+Sección 7.ª Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos
+Se añade por el art. único.19 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+###  Artículo 40 quater
+
+Artículo 40 quater. Exacción del impuesto y normativa aplicable.
+1. La exacción del impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos corresponderá a la Comunidad Foral de Navarra cuando se ubique en su territorio el vertedero o la instalación de incineración o coincineración en la que se entreguen los residuos objeto del impuesto.
+2. En la exacción del impuesto la Comunidad Foral de Navarra aplicará las mismas normas sustantivas y formales establecidas en cada momento por el Estado.
+No obstante lo anterior, la Comunidad Foral podrá incrementar los tipos de gravamen de este impuesto dentro de los límites y en las condiciones vigentes en cada momento en territorio común.
+Asimismo, la Comunidad Foral podrá aprobar los modelos de autoliquidación e ingreso que contendrán, al menos, los mismos datos que los del territorio común, y señalar plazos de ingreso para cada período de liquidación, que no diferirán sustancialmente de los establecidos por la Administración del Estado. Cuando la Comunidad Foral establezca nuevas formas de cumplimiento de las obligaciones formales de facturación o registro con apoyo en los avances tecnológicos o modifique las existentes, también podrá establecer las normas de gestión y procedimiento y las obligaciones formales exigibles en este impuesto adaptadas a las nuevas formas de cumplimiento, garantizando la disponibilidad de los datos precisos para desarrollar los intercambios de información entre ambas Administraciones a que se refiere el artículo 5 y el tratamiento de los mismos.
+Se modifica el apartado 2 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 21 del anexo. Ref. BOE-A-2025-15423
+ Se añade por el art. único.19 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## CAPÍTULO IV
+
+Tasas
+
+### Artículo 41
+
+Artículo 41. Exacción por la Comunidad Foral de Navarra.
+Corresponde a la Comunidad Foral la exacción de las tasas exigibles por la utilización o aprovechamiento especial de su propio dominio público, por la prestación de servicios o la realización de actividades en régimen de Derecho público efectuados por aquélla.
+
+## CAPÍTULO V
+
+Normas de gestión y procedimiento
+
+### Artículo 42
+
+Artículo 42. Delito fiscal.
+Cuando la Administración Tributaria aprecie indicios de delito contra la Hacienda Pública, se continuará la tramitación del procedimiento con arreglo a las normas generales que resulten de aplicación, sin perjuicio de que se pase el tanto de culpa a la jurisdicción competente o se remita el expediente al Ministerio Fiscal.
+Cuando, de conformidad con lo dispuesto en el artículo 305.5 del Código Penal, proceda practicar liquidación respecto de los conceptos y cuantías vinculados a delito, las actuaciones tendentes a la determinación, liquidación y cobro de la deuda tributaria se practicarán por la Administración con competencia inspectora y aplicando la normativa tributaria que corresponda según lo dispuesto en el presente Convenio Económico.
+Cuando la Administración Tributaria se abstenga de practicar liquidación respecto de los conceptos y cuantías vinculados a delito, por entender que concurre alguno de los supuestos de excepción tasados legalmente, las actuaciones tendentes a la remisión del expediente al Ministerio Fiscal o al pase del tanto de culpa a la jurisdicción competente, se practicarán, asimismo, por la Administración con competencia inspectora y aplicando la normativa tributaria que corresponda según lo dispuesto en el presente Convenio Económico.
+Cuando, de conformidad con lo dispuesto en el artículo 305.7 del Código Penal, resulte procedente que el Juez o Tribunal recabe el auxilio de los servicios de la Administración Tributaria para la exacción de la responsabilidad civil derivada del delito y de la multa, dicho auxilio será prestado por la Administración Tributaria competente en virtud de este Convenio.
+Lo establecido en este artículo se entenderá sin perjuicio de las compensaciones que procedan entre las distintas Administraciones.
+Se modifica por el art. único.20 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 43
+
+Artículo 43. Discrepancias y cambio de domicilio fiscal.
+1. Las personas físicas residentes en territorio común o en el foral que pasen de tener su residencia habitual en uno a tenerla en el otro, cumplimentarán sus obligaciones tributarias de acuerdo con la nueva residencia, cuando ésta actúe como punto de conexión.
+Además, cuando en virtud de lo previsto en el número siguiente deba considerarse que no ha existido cambio de residencia, las personas físicas deberán presentar las declaraciones complementarias que correspondan, con inclusión de los intereses de demora.
+2. No producirán efecto los cambios de residencia que tengan por objeto principal lograr una menor tributación efectiva.
+Se presumirá, salvo que la nueva residencia se prolongue de manera continuada durante, al menos, tres años, que no ha existido cambio, en relación con el Impuesto sobre la Renta de las Personas Físicas y con el Impuesto sobre el Patrimonio, cuando concurran las siguientes circunstancias: en primer lugar, que en el año en el cual se produzca el cambio de residencia o en el siguiente la base imponible del Impuesto sobre la Renta de las Personas Físicas sea superior en, al menos, un 50 por ciento a la del año anterior al cambio; en segundo lugar, que en el año en el cual se produzca dicha situación la tributación efectiva por el Impuesto sobre la Renta de las Personas Físicas sea inferior a la que hubiese correspondido de acuerdo con la normativa aplicable en el territorio de residencia anterior al cambio y, en tercer lugar, que se vuelva a tener la residencia habitual en dicho territorio.
+3. Se presumirá, salvo prueba en contrario, que no se ha producido cambio de domicilio fiscal de las personas jurídicas cuando en el ejercicio anterior o en el siguiente a dicho cambio devengan inactivas o cesen en su actividad.
+4. Los sujetos pasivos del Impuesto sobre Sociedades, así como los establecimientos permanentes de entidades no residentes, vendrán obligados a comunicar a ambas Administraciones los cambios de domicilio fiscal que originen modificaciones en la competencia para exigir el impuesto.
+En el Impuesto sobre la Renta de las Personas Físicas la comunicación se entenderá producida por la presentación de la declaración del impuesto.
+5. El cambio de domicilio del contribuyente se podrá promover por cualquiera de las Administraciones implicadas. La Administración promotora dará traslado de su propuesta, con los antecedentes necesarios, a la otra para que se pronuncie en el plazo de cuatro meses sobre el cambio de domicilio y la fecha a que hayan de retrotraerse los efectos. Si ésta responde confirmando la propuesta, la Administración que resulte competente lo comunicará al contribuyente.
+Si no hubiera conformidad, podrá continuarse el procedimiento en la forma prevista en el número siguiente de este artículo.
+Con carácter previo a la remisión de una propuesta de cambio de domicilio, la Administración interesada podrá llevar a cabo, en colaboración con la otra Administración, actuaciones de verificación censal del domicilio fiscal.
+Cuando se produzca un cambio de oficio de domicilio, previo acuerdo de ambas Administraciones, o como consecuencia de una resolución de la Junta Arbitral, se presumirá, salvo prueba en contrario, que el nuevo domicilio fiscal así determinado se mantendrá durante los tres años siguientes a la fecha de resolución.
+6. Las discrepancias entre Administraciones que puedan producirse con respecto a la domiciliación de los contribuyentes serán resueltas, previa audiencia de éstos, por la Junta Arbitral, que se contempla y regula en el artículo 51 de este convenio económico.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 44
+
+Artículo 44. Asignación, revocación y rehabilitación del número de identificación fiscal.
+Las personas jurídicas y entidades sin personalidad jurídica con domicilio fiscal en Navarra podrán solicitar la asignación del número de identificación fiscal ante la Administración foral navarra o ante la Administración Tributaria del Estado.
+Las entidades no residentes sin establecimiento permanente podrán solicitar la asignación del número de identificación fiscal ante la Administración foral navarra o ante la Administración Tributaria del Estado cuando se vayan a realizar actos u operaciones de naturaleza o con trascendencia tributaria en territorio foral, salvo que con anterioridad se les haya asignado un número de identificación fiscal por otra Administración Tributaria.
+La información requerida para la asignación del número de identificación fiscal será coincidente en todas las Administraciones.
+La revocación y rehabilitación del número de identificación fiscal corresponderá a la Administración de su domicilio fiscal, salvo que la competencia para la comprobación e investigación esté atribuida a otra Administración, en cuyo caso, corresponderá a ésta. En el caso de las entidades no residentes sin establecimiento permanente será competente la Administración que lo asignó.
+En todos los casos se garantizará la adecuada coordinación y el intercambio de información entre ambas Administraciones.
+Se modifica por el art. único.21 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 45
+
+Artículo 45. Actuaciones de comprobación e investigación y de obtención de información.
+1. Corresponderá a la Comunidad Foral de Navarra la investigación tributaria de cuentas y operaciones, activas y pasivas, de las entidades financieras y de cuantas personas físicas o jurídicas se dediquen al tráfico bancario o crediticio, en orden a la exacción de los tributos cuya competencia corresponda a la Comunidad Foral.
+2. Las actuaciones comprobadoras e investigadoras que, en el ámbito de las competencias atribuidas por el presente convenio a la Comunidad Foral de Navarra, deban efectuarse fuera de su territorio serán practicadas por los órganos competentes del Estado o la de las Comunidades Autónomas competentes por razón del territorio, cuando se trate de tributos cedidos a las mismas, a requerimiento del órgano competente de dicha Comunidad Foral.
+En relación con las citadas actuaciones, la Administración del Estado y la de la Comunidad Foral arbitrarán los oportunos convenios de colaboración y asistencia mutua para la coordinación de las actuaciones de acuerdo con lo dispuesto en el artículo 5 del presente Convenio Económico.
+3. Las actuaciones de obtención de información en orden a la exacción de los tributos cuya competencia corresponda a la Comunidad Foral serán efectuadas por los órganos competentes de esta, sin perjuicio de los oportunos convenios de colaboración y asistencia mutua que para la coordinación de las citadas actuaciones puedan formalizarse de acuerdo con lo dispuesto en el artículo 5 del presente Convenio Económico.
+4. Cuando los órganos competentes del Estado o de la Comunidad Foral conocieren, con ocasión de sus actuaciones comprobadoras e investigadoras y de obtención de información a que se refieren los apartados anteriores, hechos con trascendencia tributaria para la otra Administración, lo comunicarán a esta en la forma que se determine.
+Se modifica por el art. único.22 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 46
+
+Artículo 46. Obligaciones de información.
+1. Los resúmenes de las retenciones e ingresos a cuenta practicados deberán presentarse, con arreglo a su respectiva normativa, en la Administración competente para la exacción de las retenciones e ingresos a cuenta que deban incluirse en los mismos.
+Las entidades que sean depositarias o gestionen el cobro de rentas de valores que de acuerdo con la normativa correspondiente vengan obligadas a la presentación de los resúmenes anuales de retenciones e ingresos a cuenta deberán efectuar la misma, con arreglo a su respectiva normativa, ante la Administración a la que corresponda la competencia para la comprobación e investigación de dichas entidades.
+Las entidades que sean sujetos pasivos del Impuesto sobre Sociedades exigible por el Estado y la Comunidad Foral deberán presentar resúmenes anuales de retenciones e ingresos a cuenta correspondientes a los rendimientos a que se refieren los artículos 10.1.f), 12.1 y 30.2 del presente convenio económico, conforme a las normas sobre lugar, forma y plazo de presentación de declaraciones que establezca cada una de las Administraciones competentes para su exacción, incluyendo el total de los rendimientos y de las retenciones correspondientes a los mismos en la declaración presentada a cada una de ellas.
+2. Las declaraciones que tengan por objeto dar cumplimiento a las distintas obligaciones de suministro general de información tributaria legalmente exigidas deberán presentarse, con arreglo a su respectiva normativa, ante la Administración del Estado o ante la Comunidad Foral, con arreglo a los siguientes criterios:
+a) Tratándose de obligados tributarios que desarrollen actividades empresariales y profesionales, ante la Administración a la que corresponda la competencia para la inspección de dichas actividades.
+b) Tratándose de obligados tributarios que no desarrollen actividades empresariales o profesionales, según que estén domiciliados fiscalmente en territorio común o foral.
+A los efectos de lo dispuesto en las letras anteriores, cuando se trate de herencias yacentes, comunidades de bienes u otras entidades carentes de personalidad jurídica, las referidas declaraciones deberán asimismo presentarse ante la administración en la que estén domiciliados fiscalmente sus miembros o partícipes.
+3. Las declaraciones de carácter censal deberán presentarse, con arreglo a su respectiva normativa, ante la Administración en la que radique el domicilio fiscal de la persona o entidad obligada a efectuarlas y, además, ante la Administración en la que dicha persona o entidad deba presentar, conforme a las reglas previstas en el presente convenio económico, alguna de las siguientes declaraciones:
+a) Declaración de retenciones e ingresos a cuenta.
+b) Declaración-liquidación por el Impuesto sobre Sociedades.
+c) Declaración-liquidación por el Impuesto sobre el Valor Añadido.
+d) Declaración por el Impuesto sobre Actividades Económicas.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Artículo 46 bis
+
+Artículo 46 bis. Coordinación de competencias inspectoras en el Impuesto sobre el Valor Añadido.
+1. La Administración Tributaria que, en el curso de un procedimiento inspector, considere que el obligado tributario objeto de la comprobación se ha deducido unas cuotas del Impuesto sobre el Valor Añadido indebidamente repercutidas y cuyo ingreso se habría realizado en otra Administración Tributaria, procederá a solicitar información sobre el ingreso de esas cuotas a esta última Administración.
+En el plazo de dos meses desde la recepción de la solicitud la Administración requerida procederá a comunicar a la Administración solicitante si se ha producido o no el ingreso de las cuotas. Si esta no recibiese dicha comunicación en el plazo establecido considerará que las cuotas de IVA no han sido ingresadas.
+Si la Administración solicitante recibiese confirmación de que ha existido ingreso de las cuotas de IVA en la otra Administración, finalizará el procedimiento inspector ante el obligado tributario teniendo en cuenta dicha circunstancia.
+2. Cuando el acto de liquidación dictado por la Administración actuante haya adquirido firmeza, ésta procederá a solicitar a la otra Administración el reconocimiento y pago del crédito correspondiente a las cuotas de IVA liquidadas. Junto a la solicitud se remitirá copia de la liquidación practicada.
+El plazo de prescripción del derecho al reconocimiento de este crédito entre Administraciones comenzará a computarse desde que el mencionado acto administrativo de liquidación alcance firmeza.
+En caso de que el acto de liquidación no haya adquirido firmeza, no se procederá a solicitar de la otra Administración el envío de los fondos.
+3. La Administración que reciba la solicitud deberá responder aceptando u oponiéndose a la misma en el plazo de dos meses contados desde su recepción. Si, transcurrido dicho plazo, no se hubiera recibido contestación se entenderá aceptada la solicitud.
+En caso de discrepancia sobre la liquidación practicada o sobre el reconocimiento del derecho de crédito, cualquiera de las Administraciones podrá plantear conflicto ante la Junta Arbitral en el plazo de dos meses contados desde la comunicación del acuerdo que desestime total o parcialmente la solicitud de remesa.
+La Junta Arbitral resolverá el conflicto planteado siguiendo el procedimiento abreviado previsto en el artículo 51.4 del presente Convenio Económico.
+Se añade por el art. único.23 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Artículo 47
+
+Artículo 47. Fusiones y escisiones de empresas.
+El régimen fiscal especial aplicable a las fusiones, escisiones, aportaciones de activos, canje de valores y cambio de domicilio social de una Sociedad Europea o una Sociedad Cooperativa Europea de un Estado miembro a otro de la Unión Europea en la normativa aprobada por la Comunidad Foral de Navarra tendrá el mismo contenido que en la normativa de territorio común.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+## CAPÍTULO VI
+
+Haciendas Locales
+
+### Artículo 48
+
+Artículo 48. Principio general.
+Corresponden a la Comunidad Foral en materia de Haciendas Locales las facultades y competencias que ostenta al amparo de lo establecido en la Ley Paccionada, de 16 de agosto de 1841, en el Real Decreto ley Paccionado, de 4 de noviembre de 1925, y demás disposiciones complementarias.
+
+### Artículo 49
+
+Artículo 49. Tributos locales.
+Sin perjuicio de lo dispuesto en el artículo anterior, corresponde a las Haciendas Locales de Navarra la exacción de los siguientes tributos:
+a) Los que recaigan sobre bienes inmuebles sitos en Navarra.
+b) Los que graven el ejercicio de actividades empresariales, profesionales y artísticas, cuando se ejerzan en Navarra, salvo en los supuestos en que el pago del impuesto faculte para el ejercicio de la actividad correspondiente en todo el territorio nacional, en cuyo caso la exacción corresponderá a la Administración de la residencia habitual o del domicilio fiscal, según se trate de persona física o de persona jurídica o ente sin personalidad, respectivamente.
+c) Los que graven la titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas, cuando el domicilio que conste en el permiso de circulación del vehículo radique en Navarra.
+d) Los que recaigan sobre la realización de obras, construcciones e instalaciones para las que sea exigible la obtención de la correspondiente licencia, cuando las mismas tengan lugar en Navarra.
+
+### Artículo 50
+
+Artículo 50. Participación de las Entidades Locales de Navarra en los tributos del Estado.
+Las entidades locales de Navarra participarán en los ingresos tributarios del Estado, en la parte correspondiente a aquellos tributos cuya exacción no corresponda a la Comunidad Foral, según las normas del presente convenio.
+
+## CAPÍTULO VII
+
+Junta Arbitral
+
+### Artículo 51
+
+Artículo 51. Junta Arbitral.
+1. Se constituye una Junta Arbitral que tendrá atribuidas las siguientes funciones:
+a) Conocer de los conflictos que surjan entre las Administraciones interesadas como consecuencia de la interpretación y aplicación del presente convenio a casos concretos concernientes a relaciones tributarias individuales.
+En particular, resolver las controversias en relación con consultas referentes a la aplicación de los puntos de conexión contenidos en el Convenio Económico sobre las que no se haya llegado a acuerdo en el seno de la Comisión Coordinadora, así como en relación con los supuestos previstos en el artículo 46 bis del presente Convenio Económico.
+b) Resolver los conflictos que se planteen entre la Administración del Estado y la de la Comunidad Foral, o entre ésta y la Administración de una comunidad autónoma, en relación con la aplicación de los puntos de conexión de los tributos cuya exacción corresponde a la Comunidad Foral de Navarra y la determinación de la proporción correspondiente a cada Administración en los supuestos de tributación conjunta por el Impuesto sobre Sociedades o por el Impuesto sobre el Valor Añadido.
+c) Resolver las discrepancias que puedan producirse con respecto a la domiciliación de los contribuyentes.
+2. La Junta Arbitral estará integrada por tres miembros cuyo nombramiento se hará por la persona titular del Ministerio competente en materia de Hacienda y por la persona titular del Departamento competente en materia de Hacienda del Gobierno de Navarra.
+Los árbitros serán nombrados para un período de seis años. En caso de producirse una vacante, será cubierta por el mismo procedimiento de nombramiento. El nuevo miembro será nombrado para la parte del período de mandato que faltaba por cumplir al sustituido.
+Los integrantes de la Junta Arbitral serán designados entre expertos de reconocido prestigio en materia tributaria o hacendística.
+3. La Junta Arbitral resolverá conforme a Derecho todas las cuestiones que ofrezca el expediente, hayan sido o no planteadas por las partes o los interesados, incluidas las fórmulas de ejecución.
+Los acuerdos de esta Junta Arbitral, sin perjuicio de su carácter ejecutivo, únicamente serán susceptibles de recurso en vía contencioso-administrativa y ante la Sala correspondiente del Tribunal Supremo.
+4. Cuando se suscite el conflicto de competencias, las Administraciones afectadas lo notificarán a los interesados, lo cual determinará la interrupción de la prescripción, y se abstendrán de cualquier actuación ulterior relativa a dicho conflicto.
+Los conflictos serán resueltos por el procedimiento que reglamentariamente se establezca, en el que se dará audiencia a los interesados. Reglamentariamente se regulará un procedimiento abreviado aplicable en los supuestos establecidos en la letra g) del artículo 67.2 y en el apartado 3 del artículo 46 bis del presente Convenio Económico.
+5. Cuando se suscite el conflicto de competencias, hasta tanto sea resuelto el mismo, la Administración que viniera gravando a los contribuyentes en discusión continuará sometiéndolos a su fuero, sin perjuicio de las rectificaciones y compensaciones tributarias que deban efectuarse entre las Administraciones, retrotraídas a la fecha desde la que proceda ejercer el nuevo fuero tributario, según el acuerdo de la Junta Arbitral.
+Se modifican los apartados 1, 2 y 4 por el art. único.24 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## TÍTULO II
+
+Aportación económica
+
+## CAPÍTULO I
+
+Método de determinación de la aportación
+
+### Artículo 52
+
+Artículo 52. Concepto de la aportación.
+La contribución de Navarra al Estado consistirá en una aportación anual, como participación de la Comunidad Foral en la financiación de las cargas generales del Estado.
+
+### Artículo 53
+
+Artículo 53. Determinación de la aportación.
+La aportación anual se determinará aplicando el índice de imputación al importe total de las cargas del Estado no asumidas por la Comunidad Foral y de las correspondientes compensaciones, todo ello conforme se establece en los artículos siguientes.
+
+### Artículo 54
+
+Artículo 54. Cargas del Estado no asumidas por la Comunidad Foral.
+1. Se consideran cargas del Estado no asumidas por la Comunidad Foral todas las que correspondan a competencias que no sean ejercidas efectivamente por la misma.
+Para la determinación del importe de dichas cargas, se deducirá del total del Presupuesto de Gastos del Estado el importe íntegro, a nivel estatal, de los créditos que se refieran a competencias ejercidas por la Comunidad Foral, tanto en virtud de los correspondientes reales decretos de traspaso de servicios como al amparo de lo establecido en la Ley Paccionada de 16 de agosto de 1841 y disposiciones complementarias.
+2. En cualquier caso, se considerarán como cargas no asumidas por la Comunidad Foral, entre otras, las siguientes:
+a) Las cantidades con que se doten los Fondos de Compensación Interterritorial, a que se refiere el artículo 158.2 de la Constitución.
+b) Las transferencias o subvenciones que figuren en los Presupuestos Generales del Estado en favor de entes públicos, en la medida en que las competencias desempeñadas por los mismos no sean ejercidas por la Comunidad Foral.
+c) Los intereses y cuotas de amortización de todas las deudas del Estado.
+
+### Artículo 55
+
+Artículo 55. Aportación íntegra.
+La cantidad que resulte de aplicar a las cargas del Estado no asumidas por la Comunidad Foral el índice de imputación a que se refiere el artículo 57 de este convenio económico constituirá la aportación íntegra de Navarra.
+
+### Artículo 56
+
+Artículo 56. Compensaciones.
+1. De la aportación íntegra de la Comunidad Foral se restarán, por compensación, las siguientes cantidades:
+a) La parte imputable de los tributos no convenidos.
+b) La parte imputable de los ingresos del Estado de naturaleza no tributaria.
+c) La parte imputable del déficit que presenten los Presupuestos Generales del Estado.
+2. La determinación de las cantidades a que se refiere el apartado 1 anterior se efectuará aplicando el índice de imputación establecido en el artículo siguiente.
+Se modifica por el art. único.25 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Esta modificacion es aplicable a partir del 1 de enero de 2020, según establece la disposición final única.2 de la citada ley.
+
+### Artículo 57
+
+Artículo 57. Índice de imputación.
+El índice de imputación al que se refieren los artículos 53, 55 y 56 precedentes se determinará, básicamente, en función de la renta relativa de Navarra.
+
+### Artículo 58
+
+Artículo 58. Aportación líquida.
+La cantidad que resulte tras la práctica de las compensaciones reguladas en el artículo 56 de este convenio económico constituye la aportación líquida de Navarra.
+
+## CAPÍTULO II
+
+Procedimiento de cuantificación, actualización y periodificación de la aportación
+
+### Artículo 59
+
+Artículo 59. Periodicidad y actualización de la aportación.
+1. El método de determinación de la aportación establecido en el capítulo anterior se aplicará, mediante acuerdo entre ambas Administraciones, cada cinco años, a partir del primero de vigencia del presente convenio.
+Dicho acuerdo determinará la cuantía de la aportación líquida correspondiente al año base del quinquenio.
+2. Para cada uno de los años restantes del quinquenio, la aportación líquida se determinará mediante la aplicación, a la aportación líquida del año base, del índice de actualización establecido en el apartado 1 del artículo 60 siguiente.
+3. Sin perjuicio de lo establecido en el apartado anterior, para cada uno de los años restantes del quinquenio se determinará una aportación líquida provisional mediante la aplicación, a la aportación líquida del año base, del índice de actualización provisional establecido en el apartado 2 del artículo 60 siguiente.
+4. La aportación líquida del año base y las aportaciones líquidas provisionales de los años restantes del quinquenio se incluirán en los Presupuestos Generales del Estado y en los de la Comunidad Foral de Navarra del respectivo ejercicio económico, a los efectos pertinentes.
+
+### Artículo 60
+
+Artículo 60. Índice de actualización.
+1. El índice de actualización al que se refiere el apartado 2 del artículo 59 anterior será el cociente entre la recaudación líquida obtenida por el Estado por los tributos convenidos, excepto los cedidos en su totalidad a las Comunidades Autónomas, en el ejercicio al que se refiera la Aportación líquida y la recaudación líquida obtenida por el mismo, por iguales conceptos tributarios, en el año base del quinquenio.
+2. El índice de actualización provisional a que se refiere el apartado 3 del artículo 59 anterior será el cociente entre la previsión de ingresos por tributos convenidos, excepto los cedidos en su totalidad a las Comunidades Autónomas, que figure en los Capítulos I y II del Presupuesto de Ingresos del Estado del ejercicio al que se refiera la Aportación líquida provisional y los ingresos previstos por el mismo, por iguales conceptos tributarios, en el año base del quinquenio.
+3. La recaudación líquida a que se refiere el apartado 1 de este artículo será la que se certifique por la Intervención General de la Administración del Estado, computándose como tal la obtenida en el año al que se refiera la certificación, cualquiera que sea el del devengo.
+Se modifica por el art. único y anejo de la Ley 48/2007, 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Artículo 61
+
+Artículo 61. Efectos por variación en las competencias asumidas por la Comunidad Foral.
+1. Si en cualquiera de los años del quinquenio se produjesen traspasos de servicios estatales a Navarra, cuyo coste anual figurado en los Presupuestos Generales del Estado se hubiese computado como carga no asumida por la Comunidad Foral a efectos de la determinación de la aportación líquida del año base, se procederá a reducir dicho coste anual en la proporción adecuada a la parte del año en que Navarra asuma efectivamente los citados servicios y, en consecuencia, a minorar la aportación líquida en la cuantía que resulte por aplicación del índice de imputación previsto en el artículo 57 de este convenio económico.
+La citada reducción proporcional deberá tener en cuenta la periodicidad real de los gastos corrientes y el efectivo grado de realización de las inversiones.
+2. En el caso de que Navarra dejase de ejercer competencias que se hubiesen computado como asumidas a efectos de determinar la aportación líquida del año base, se incrementará la aportación líquida del ejercicio correspondiente en la cuantía que resulte de la aplicación de lo dispuesto en el apartado anterior.
+3. Para los ejercicios siguientes, la aportación líquida del año base a actualizar será la resultante de reducir o incrementar, según proceda, la aportación líquida fijada inicialmente en el importe que resulte de aplicar el índice de imputación regulado en el artículo 57 de este convenio económico, al coste anual a nivel estatal del servicio o competencia traspasada o dejada de ejercer, previa aplicación del índice previsto en el artículo 60 anterior.
+4. Cuando los servicios traspasados por el Estado estuviesen integrados en el sistema de la Seguridad Social, no será de aplicación lo establecido en los apartados 1 y 3 precedentes y se estará a lo que establezcan los respectivos reales decretos de traspaso a efectos de la incidencia del mismo en la aportación líquida del año en que el traspaso sea efectivo y en la del año base del quinquenio.
+
+### Artículo 62
+
+Artículo 62. Liquidación definitiva.
+1. Las aportaciones líquidas provisionales se liquidarán definitivamente aplicando el índice de actualización establecido en el apartado 1 del artículo 60 de este convenio económico.
+2. La liquidación definitiva se realizará en el mes de marzo del ejercicio siguiente al que se refiera la aportación líquida provisional objeto de la misma, y las diferencias que resulten respecto de esta última se regularizarán en el ingreso que, conforme a lo establecido en el artículo siguiente, ha de efectuarse en dicho mes.
+
+### Artículo 63
+
+Artículo 63. Ingreso de la aportación líquida provisional.
+1. La cantidad a ingresar por la Comunidad Foral de Navarra en cada ejercicio se abonará a la Hacienda Pública del Estado en cuatro plazos de igual importe, en los meses de marzo, junio, septiembre y diciembre del ejercicio respectivo.
+2. Si al cumplirse alguno de los plazos en los que deba realizarse el ingreso de la aportación líquida provisional no hubiese sido posible fijar ésta, el ingreso se efectuará con arreglo a la última aportación líquida provisional fijada.
+Los pagos así efectuados tendrán el carácter de «a cuenta», debiendo practicarse la liquidación e ingreso de las diferencias que pudieran existir en favor de una u otra Administración tan pronto sea conocida la aportación líquida correspondiente al ejercicio de que se trate.
+
+## CAPÍTULO III
+
+Ajustes a la recaudación tributaria
+
+### Artículo 64
+
+Artículo 64. Ajuste por impuestos directos.
+Para el perfeccionamiento de la estimación de los ingresos que por impuestos directos convenidos sean atribuibles a Navarra y al resto del Estado, ambas Administraciones efectuarán, de común acuerdo, un ajuste de los mismos.
+
+### Artículo 65
+
+Artículo 65. Ajustes por impuestos indirectos.
+1. A la recaudación real de Navarra por el Impuesto sobre el Valor Añadido se le añadirá el resultado de la siguiente expresión matemática:
+Ajuste = c (RRAD + RRRE) + (c – d) H
+Siendo:
+H = RRTC + RRN
+RRTC = Recaudación real anual del territorio común por el Impuesto sobre el Valor Añadido.
+RRN = Recaudación real anual de Navarra por IVA.
+RRAD = Recaudación real anual por importaciones.
+RRRE= Recaudación real anual de los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, caracterizados por la tributación en destino e instrumentalizados mediante el mecanismo de ventanilla única, en las que España sea el Estado miembro de consumo.
+2. A la recaudación real de Navarra por los Impuestos Especiales de Fabricación, sobre el Alcohol y Bebidas Derivadas, Productos Intermedios, Cerveza, Hidrocarburos, Labores del Tabaco y Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco se le añadirá el resultado de las siguientes expresiones matemáticas:
+a) Alcohol, Bebidas Derivadas y Productos Intermedios:
+Ajuste = a RRAD + (a − b) H
+Siendo:
+H = RRTC + RRN.
+RRTC= Recaudación real anual del territorio común por el Impuesto Especial de Fabricación sobre el Alcohol y Bebidas Derivadas y Productos Intermedios.
+RRN= Recaudación real anual de Navarra por el Impuesto Especial de Fabricación sobre el Alcohol y Bebidas Derivadas y Productos Intermedios.
+RRAD= Recaudación real anual por Importaciones por el Impuesto Especial de Fabricación sobre el Alcohol y Bebidas Derivadas y Productos Intermedios.
+b) Cerveza:
+Ajuste = a RRAD + (a − b) H
+Siendo:
+H = RRTC + RRN.
+RRTC = Recaudación real anual del territorio común por el Impuesto Especial de Fabricación sobre la Cerveza.
+RRN= Recaudación real anual de Navarra por el Impuesto Especial de Fabricación sobre la Cerveza.
+RRAD= Recaudación real anual por Importaciones por el Impuesto Especial de Fabricación sobre la Cerveza.
+c) Hidrocarburos:
+Ajuste = a RRAD + (a − b) H
+Siendo:
+H = RRTC + RRN.
+RRTC= Recaudación real anual del territorio común por el Impuesto Especial sobre Hidrocarburos.
+RRN= Recaudación real anual de Navarra por el Impuesto Especial sobre Hidrocarburos.
+RRAD= Recaudación real anual por importaciones por el Impuesto Especial sobre Hidrocarburos.
+d) Labores de tabaco:
+Ajuste = a RRTC – [(1 − a) RRN]
+Siendo:
+RRTC= Recaudación real anual del territorio común por el Impuesto Especial sobre las Labores del Tabaco.
+RRN= Recaudación real anual de Navarra por el Impuesto Especial sobre las Labores del Tabaco.
+e) Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco:
+Ajuste = a RRAD + (a − b) H
+Siendo:
+H = RRTC + RRN.
+RRTC= Recaudación real anual del territorio común por el Impuesto Especial sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+RRN= Recaudación real anual de Navarra por el Impuesto Especial sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+RRAD= Recaudación real anual por Importaciones por el Impuesto Especial sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco.
+3. A la recaudación real de Navarra por el impuesto especial sobre los envases de plástico no reutilizables se le añadirá el resultado de la siguiente expresión matemática:
+Siendo:
+H = RRTC + RRN
+RRTC = Recaudación real anual del territorio común por el impuesto especial sobre los envases de plástico no reutilizables.
+RRN= Recaudación real anual de Navarra por el impuesto especial sobre los envases de plástico no reutilizables.
+RRAD = Recaudación real anual por Importaciones por el impuesto especial sobre los envases de plástico no reutilizables.
+4. A la recaudación real de Navarra por el Impuesto sobre los Gases Fluorados de Efecto Invernadero se le añadirá el resultado de la siguiente expresión matemática:
+Siendo:
+H = RRTC + RRN
+RRTC = Recaudación real anual del territorio común por el Impuesto sobre los Gases Fluorados de Efecto Invernadero.
+RRN= Recaudación real anual de Navarra por el Impuesto sobre los Gases Fluorados de Efecto Invernadero.
+RRAD = Recaudación real anual por Importaciones por el Impuesto sobre los Gases Fluorados de Efecto Invernadero.
+Se modifica el apartado 2 por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 22 del anexo. Ref. BOE-A-2025-15423
+ Se añaden los apartados 3 y 4 por el art. único, en los términos establecidos en el anexo.Tres de la Ley 8/2023, de 3 de abril. Ref. BOE-A-2023-8454
+ Se modifica por el art. único.26 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Esta modificacion es aplicable a partir del 1 de enero de 2020, según establece la disposición final única.2 de la citada ley.
+
+### Artículo 66
+
+Artículo 66. Cuantificación y liquidación de los ajustes.
+1. La cuantificación y liquidación de los ajustes previstos en los artículos 64 y 65 precedentes se efectuará, mediante acuerdo entre ambas Administraciones, conforme a un procedimiento similar al establecido en el capítulo II, revisándose cada cinco años coincidiendo con el año que deba considerarse como base para la determinación de la Aportación Económica.
+2. En el caso de que las recaudaciones reales obtenidas por Navarra por los Impuestos a los que se refiere el artículo 65 difieran significativamente de sus índices de capacidad recaudatoria, se procederá a ajustar los mismos, permitiendo, en todo caso, un margen diferencial, acordado entre ambas Administraciones, para efectuar los ajustes del año en que se produzcan las desviaciones citadas.
+Se modifica por el art. único.27 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+## TÍTULO III
+
+Comisión Coordinadora
+
+## CAPÍTULO ÚNICO
+
+Comisión Coordinadora
+
+### Artículo 67
+
+Artículo 67. Comisión Coordinadora.
+1. Se constituirá una Comisión Coordinadora, cuya composición será la siguiente:
+a) Seis representantes de la Administración del Estado.
+b) Seis representantes de la Comunidad Foral designados por el Gobierno de Navarra.
+2. Las competencias de esta Comisión Coordinadora serán:
+a) Realizar los estudios que se estimen procedentes para una adecuada articulación estructural y funcional del régimen foral con el marco fiscal estatal.
+b) Facilitar a las Administraciones competentes criterios de actuación uniformes, planes y programas de informática.
+c) Examinar los supuestos o cuestiones que se hayan planteado en materia de inspección entre la Administración del Estado y la de la Comunidad Foral.
+d) Emitir los informes que sean solicitados por el Ministerio de Hacienda, el Departamento de Economía y Hacienda del Gobierno de Navarra y por la Junta Arbitral.
+e) Examinar los problemas de valoración a efectos tributarios.
+f) Evaluar la adecuación de la normativa tributaria al Convenio Económico con carácter previo a su aprobación.
+A estos efectos, cuando, como consecuencia del intercambio de proyectos de disposiciones normativas, se efectuasen observaciones en relación con las propuestas contenidas en ellos, cualquiera de ambas Administraciones podrá solicitar, por escrito y de forma motivada, la convocatoria de esta Comisión, con el fin de alcanzar un acuerdo sobre las posibles discrepancias existentes en relación con el contenido de la normativa tributaria.
+g) Resolver las consultas que se planteen sobre la aplicación de los puntos de conexión contenidos en el Convenio Económico. Estas consultas se trasladarán por la Administración receptora a la otra Administración para su análisis, junto con la propuesta de resolución, en el plazo de dos meses desde su recepción. En el caso de que en los dos meses siguientes no se hubieran formulado observaciones sobre la propuesta de resolución, ésta se entenderá aprobada.
+En caso de existir observaciones y de no ser admitidas, podrá llegarse a un acuerdo sobre las mismas en el seno de la Comisión Coordinadora. En todo caso, transcurridos dos meses desde que dichas observaciones hayan sido formuladas sin llegar a un acuerdo sobre las mismas, la Comisión Coordinadora, así como cualquiera de las Administraciones concernidas, podrá proceder a trasladar el desacuerdo a la Junta Arbitral en el plazo de dos meses, quien resolverá la controversia por medio del procedimiento abreviado previsto en el artículo 51.4 del presente Convenio Económico.
+h) Determinar la aportación económica del año base, incluido el índice de imputación, así como la aportación líquida de los restantes años de cada quinquenio, a la que se refiere el artículo 59 a fin de elevarla a ambas Administraciones para la adopción del correspondiente acuerdo.
+i) Realizar los estudios necesarios y, en su caso, proponer la actualización de la cifra a que se refiere la disposición adicional segunda para su aprobación por ambas Administraciones.
+j) Establecer el método para la cuantificación y liquidación de los ajustes por impuestos directos e indirectos regulados en los artículos 64, 65 y 66 del presente Convenio Económico.
+k) Cuantificar la valoración anual, provisional y definitiva, del coste de las competencias ejercidas por la Comunidad Foral de Navarra en materia de policía.
+l) Acordar los compromisos de colaboración y coordinación en materia de estabilidad presupuestaria en los términos previstos en la Ley Orgánica 2/2012, de 27 de abril de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+3. La Comisión Coordinadora se reunirá, al menos dos veces al año, una dentro de cada semestre natural y, además, cuando así lo solicite alguna de las Administraciones representadas.
+4. La Comisión Coordinadora podrá crear Subcomisiones para delegar en ellas el ejercicio de las competencias contenidas en el apartado 2 de este artículo. Dichas Subcomisiones estarán formadas por tres representantes de cada Administración, pudiendo incorporar los asesores que estimen convenientes con voz y sin voto, y los acuerdos por ellas adoptados tendrán eficacia desde el momento en que se tomen, sin perjuicio de su posterior ratificación por la Comisión Coordinadora.
+Se modifica el apartado 2 por el art. único.28 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Suprimida)
+Se suprime por el art. único.29 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cifra del volumen de operaciones a que se refieren los artículos 19, 33 y 40 será actualizada, al menos, cada cinco años, conforme a lo dispuesto en el artículo 67 del presente Convenio Económico.
+Se modifica por el art. único.30 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En caso de producirse una reforma sustancial en el ordenamiento jurídico tributario del Estado, se procederá por ambas Administraciones, de común acuerdo, a la adaptación del presente Convenio a las modificaciones realizadas y a la revisión, en su caso, de la aportación líquida del año base del quinquenio que corresponda, en la forma y cuantía procedentes, con efectos a partir del momento en que entre en vigor la citada reforma.
+Se modifica por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Hasta tanto se dicten por la Comunidad Foral las normas necesarias para la aplicación de este convenio, relativas a los Impuestos Especiales, Impuesto sobre el Valor
+Añadido, Impuesto sobre las Primas de Seguros, Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos e Impuesto sobre la Renta de No Residentes, así como las normas para la exacción de las tasas a que se refiere el artículo 40, se aplicarán las normas vigentes en territorio común.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Estado y la Comunidad Foral podrán acordar la financiación conjunta de inversiones a realizar en Navarra, o en otros territorios, cuando la naturaleza o características de las mismas aconseje este tipo de financiación.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Ambas Administraciones, de común acuerdo, establecerán anualmente, mediante la aplicación de un conjunto de módulos, la valoración del coste de las competencias ejercidas por la Comunidad Foral de Navarra en materia de policía, teniendo en cuenta su ejercicio efectivo.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Las facultades de tutela financiera respecto a las entidades locales que en cada momento desempeñe el Estado en relación con la aplicación de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, corresponderán a la Comunidad Foral, sin que ello pueda significar, en modo alguno, un nivel de autonomía de las entidades locales navarras inferior al que tengan las de régimen común, quedando sujetas, en todo caso, a las reglas que aquella contiene.
+Se modifica por el art. único.31 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+El Impuesto Temporal de Solidaridad de las Grandes Fortunas, complementario del Impuesto sobre el Patrimonio, se exigirá por la Comunidad Foral de Navarra en los mismos términos establecidos en el artículo 17 del presente Convenio Económico, con efectos para todos los ejercicios en que dicho impuesto mantenga su vigencia.
+Se añade por el art. único, en los términos establecidos en el anexo.Cuatro de la Ley 8/2023, de 3 de abril. Ref. BOE-A-2023-8454
+ Se suprime por el art. único.32 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+Para facilitar la recaudación por la Administración del Estado de la cuota del Impuesto sobre el Valor Añadido liquidada por las Aduanas, y en cumplimiento del compromiso de coordinación y colaboración entre el Estado y la Comunidad Foral de Navarra recogido en el artículo 5, apartado 1 del presente Convenio, las Administraciones Tributarias podrán acordar mecanismos para facilitar el ejercicio de la opción por el sistema de diferimiento del ingreso previsto en el artículo 74.1 del Reglamento del Impuesto sobre el Valor Añadido a los sujetos pasivos que no tributen íntegramente en la Administración del Estado.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 23 del anexo. Ref. BOE-A-2025-15423
+ Se suprime por el art. único.33 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+En el caso de que se produjese una reforma del régimen de cesión de tributos del Estado o una modificación sustancial en los Presupuestos Generales del Estado como consecuencia de la reforma del sistema de financiación de las Comunidades Autónomas o de los Entes Locales, se reunirá la Comisión Coordinadora para analizar y determinar, si procede, la revisión de la Aportación líquida del año base del quinquenio y/o del índice de actualización del mismo, surtiendo en su caso la revisión efectos a partir del año en que se produzca dicha reforma.
+Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición adicional undécima
+
+Disposición adicional undécima.
+1. El obligado tributario podrá solicitar la extinción total o parcial de las deudas tributarias que le pueda reclamar la Administración del Estado o la de la Comunidad Foral, en la parte equivalente de deuda efectivamente satisfecha en la otra Administración, cuando concurran las siguientes circunstancias:
+a) Que se acredite fehacientemente haber consignado en las autoliquidaciones de los impuestos indirectos las cuotas devengadas correspondientes a una misma operación económica, en la Administración Tributaria estatal o en la de la Comunidad Foral distinta a aquella que le reclame el ingreso.
+En el caso de autoliquidaciones a ingresar también se deberá acreditar el pago del resultado de la autoliquidación, conforme a lo previsto en la normativa general tributaria de cada Administración.
+A estos efectos, el ingreso podrá haberse realizado por el mismo contribuyente o por otras entidades que reúnan las circunstancias a que se refiere el artículo 42 del Código de Comercio para formar parte del mismo grupo de sociedades, con independencia de la residencia y de la obligación de formular cuentas anuales consolidadas.
+b) Que la deuda tributaria tenga su origen en cuotas deducidas o devoluciones obtenidas indebidamente en el marco de la imposición indirecta, regularizadas mediante actuaciones de comprobación y con importe superior a 600 millones de euros.
+c) Que se haya planteado un conflicto de competencias entre la Administración del Estado y la Comunidad Foral ante la Junta Arbitral del Convenio Económico sin que su resolución haya determinado la competencia de alguna de las Administraciones implicadas.
+Este requisito se entenderá cumplido cuando haya existido una resolución previa de la Junta Arbitral en el sentido indicado en el párrafo anterior que verse sobre el mismo impuesto, la misma operación económica y los mismos contribuyentes.
+d) Que hubiese existido una actuación no sancionable del contribuyente o su grupo en el ingreso y/o solicitud de devolución, efectuada antes del inicio de actuaciones administrativas conducentes a la regularización de la misma obligación tributaria por cualquiera de las Administraciones tributarias.
+Lo dispuesto en el párrafo anterior no impedirá la posible regularización que procediese realizar por cualquiera de las Administraciones Tributarias.
+e) Que la entidad que hubiese realizado el ingreso, el obligado tributario o su grupo de sociedades en los términos expuestos en el apartado a), renuncie expresamente al derecho a la devolución de ingresos indebidos frente a la Administración en la que se hubiese realizado dicho ingreso, así como a cualquier recurso o reclamación frente a la liquidación que haya sido inicialmente ingresada, ya interpuesto o que se pudiera interponer.
+Esta Administración expedirá un certificado acusando recibo de la renuncia al derecho a la devolución de ingresos indebidos, así como a cualquier recurso o reclamación frente a la liquidación, acreditando el cumplimiento de lo dispuesto en el apartado a) y prestando conformidad a los efectos jurídicos reconocidos en esta disposición.
+El acuerdo de la Administración actuante declarará la extinción de la deuda tributaria en la parte concurrente con la cantidad previamente ingresada, una vez haya constatado el cumplimiento de los requisitos anteriores.
+La competencia para dictar dicho acuerdo, en el seno de la Administración del Estado, corresponderá al Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria. La competencia para dictar dicho acuerdo, en el seno de la Comunidad Foral, corresponderá al Director Gerente de la Hacienda Tributaria de Navarra.
+2. La extinción de la obligación tributaria del contribuyente por el cumplimiento de los requisitos anteriores, conllevará la terminación del conflicto de competencias que se hubiera suscitado previsto en la letra c), sin que quepa en consecuencia reclamación alguna por esta causa entre Administraciones.
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima.
+En el supuesto de que se modifique el actual régimen de fabricación y comercio de labores del tabaco, se procederá por ambas Administraciones, de común acuerdo, a la revisión de la letra d) del artículo 65.2.
+Se añade por el art. único.34 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Las modificaciones incorporadas en los artículos 19, 33 y 40 del presente Convenio resultarán de aplicación a los periodos impositivos o de liquidación, según el impuesto de que se trate, que se inicien a partir del 1 de enero de 2026.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 24 del anexo. Ref. BOE-A-2025-15423
+ Se suprime por el art. único.35 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Si en cualquiera de los años que, durante la vigencia del presente convenio económico, deban considerarse como año base de quinquenio no se aprobase en plazo oportuno la aportación líquida correspondiente al citado año base, se fijará, para dicho ejercicio y, en su caso, para los subsiguientes, una aportación líquida provisional, conforme a lo establecido en el apartado 3 del artículo 59 de este convenio económico.
+Las aportaciones líquidas provisionales así determinadas no serán objeto de liquidación definitiva y serán regularizadas una vez establecida la aportación líquida definitiva del año base del quinquenio correspondiente.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La exacción del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco que se devengue por la tenencia de dichos productos en el momento de la entrada en vigor del impuesto corresponderá a la Administración del Estado o a la Comunidad Foral de Navarra atendiendo al lugar donde se encuentren almacenados con fines comerciales a dicha fecha.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 25 del anexo. Ref. BOE-A-2025-15423
+ Se suprime por el art. único.36 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Transitoriamente, hasta que se disponga de información anual sobre el valor de los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco que se consumen en Navarra y en el resto del territorio de aplicación del impuesto, a la recaudación real de Navarra por el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, se le añadirá la diferencia entre el resultado de aplicar a la recaudación real en el territorio común por el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, el porcentaje que corresponda anualmente al valor de las labores del tabaco suministradas a Expendedurías de Tabaco y Timbre situadas en Navarra, sobre el valor de las labores del tabaco suministradas a dichos establecimientos en el territorio de aplicación del Impuesto sobre las Labores del Tabaco y el resultado de aplicar el complementario a cien del porcentaje anteriormente definido a la recaudación real por el Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco en Navarra.
+Se añade por el art. único de la Ley 4/2025, de 24 de julio, en la forma establecida en el apartado 26 del anexo. Ref. BOE-A-2025-15423
+ Se suprime por el art. único.37 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las modificaciones incorporadas en los artículos 18, 19, 23 y 27 del presente Convenio resultarán de aplicación a los periodos impositivos que se inicien a partir del 1 de enero de 2022 y que no hayan finalizado antes de la entrada en vigor de la Ley que apruebe la modificación del Convenio adoptada por Acuerdo de la Comisión Negociadora del Convenio Económico de fecha de 20 de diciembre de 2021.
+Las modificaciones incorporadas en los artículos 33.1, 33.2, 33.4 y 34.7.ª del presente Convenio resultarán de aplicación a los periodos de liquidación que se inicien a partir de 1 de enero de 2022.
+Lo dispuesto en el artículo 46 bis del presente Convenio será de aplicación a los procedimientos iniciados con posterioridad a la entrada en vigor de la Ley que apruebe la modificación del Convenio adoptada por Acuerdo de la Comisión Negociadora del Convenio Económico de fecha de 20 de diciembre de 2021.
+Se modifica por el art. único.38 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+Los tributos devengados con anterioridad a la entrada en vigor del presente convenio económico se regirán por los puntos de conexión vigentes en el momento de su devengo.
+Esta misma regla se aplicará respecto de las retenciones, ingresos a cuenta y pagos fraccionados cuando el nacimiento de la obligación de retener, ingresar a cuenta o de realizar el pago fraccionado se hubiera producido, asimismo, con anterioridad a la entrada en vigor del presente convenio económico.
+Los procedimientos no finalizados a la entrada en vigor del presente convenio económico se regirán por la normativa vigente en el momento de su inicio.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+El régimen transitorio de los nuevos tributos convenidos se ajustará a las reglas siguientes:
+1.ª La Comunidad Foral se subrogará en los derechos y obligaciones, en materia tributaria, de la Hacienda Pública Estatal, en relación con la gestión, inspección, revisión y recaudación de los tributos a que se refiere la presente disposición.
+No obstante, la Hacienda Pública Estatal ejercerá las competencias anteriores cuando haya realizado actuaciones con obligados tributarios antes del 26 de junio de 2015, referidas al impuesto al que se refiere el artículo 31 bis de esta ley. Estas competencias estarán limitadas a los ejercicios a que afecten las actuaciones realizadas.
+2.ª Las cantidades liquidadas y contraídas con anterioridad a la fecha de entrada en vigor de la Ley por la que se modifica el Convenio Económico incorporando la convención de los nuevos tributos, relativas a situaciones que hubieran correspondido a la Comunidad Foral de haber estado convenidos los tributos a que se refiere la presente disposición, y que se ingresen con posterioridad a la mencionada fecha, corresponderán en su integridad a la Comunidad Foral.
+3.ª Las cantidades devengadas con anterioridad a la de entrada en vigor de la Ley por la que se modifica el Convenio Económico incorporando la convención de los nuevos tributos, y liquidadas a partir de esa fecha en virtud de actuaciones inspectoras, se distribuirán aplicando los criterios y puntos de conexión de los tributos a que se refiere la presente disposición.
+4.ª Cuando proceda, las devoluciones correspondientes a liquidaciones practicadas o que hubieran debido practicarse, con anterioridad a la fecha de entrada en vigor de la Ley por la que se modifica el Convenio Económico incorporando la convención de los nuevos tributos, serán realizadas por la Administración que hubiera sido competente en la fecha del devengo, conforme a los criterios y puntos de conexión de los tributos a que se refiere la presente disposición.
+5.ª Los actos administrativos dictados por la Comunidad Foral de Navarra serán reclamables en vía económico administrativa foral ante los órganos competentes de dicho territorio. Por el contrario, los dictados por la Administración del Estado, cualquiera que sea su fecha, serán reclamables ante los órganos competentes del Estado.
+No obstante, el ingreso correspondiente se atribuirá a la Administración que resulte acreedora de acuerdo con las normas contenidas en las reglas anteriores.
+6.ª A los efectos de la calificación de infracciones tributarias, así como de las sanciones que a las mismas correspondan en cada caso, tendrán plena validez y eficacia los antecedentes que sobre el particular obren en la Hacienda Pública Estatal con anterioridad a la entrada en vigor de la convención de los tributos a que se refiere la presente disposición.
+7.ª La entrada en vigor de la convención de los tributos a que se refiere la presente disposición transitoria no perjudicará a los derechos adquiridos por los contribuyentes conforme a las leyes dictadas con anterioridad a dicha fecha.
+Se modifica por el art. único.39 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+El régimen tributario aplicable a las agrupaciones de interés económico y las uniones temporales de empresas constituidas con anterioridad a la entrada en vigor del presente convenio económico será el correspondiente a la Comunidad Foral, cuando no superen el ámbito territorial de la misma y estén sujetas a la legislación fiscal foral.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+(Suprimida)
+Se suprime por el art. único.40 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101
+ Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+Las devoluciones parciales en el Impuesto sobre Hidrocarburos derivadas del establecimiento del tipo reducido especial al gasóleo utilizado como carburante para fines profesionales que autoriza la Directiva 2003/96/CE del Consejo, de 27 de octubre de 2003, por la que se reestructura el régimen comunitario de imposición de los productos energéticos y de la electricidad, se efectuarán por la Administración correspondiente al domicilio fiscal del beneficiario de dichas devoluciones.
+Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+Las devoluciones extraordinarias del Impuesto sobre Hidrocarburos para agricultores y ganaderos derivadas de la aplicación de medidas para paliar el incremento de costes de los insumos en la producción sufridos en el sector agrario, se efectuarán por la Administración correspondiente al domicilio fiscal del beneficiario de dichas devoluciones.
+Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima.
+Cuando, conforme a la Disposición Adicional Quinta de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos, se proceda a la transformación de algún organismo autónomo o entidad pública empresarial en agencia, se aplicará, respecto de las mismas, el régimen de competencias previsto en el artículo 10 para los organismos autónomos y entidades públicas empresariales.
+Se añade por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera.
+La regla 8.ª del artículo 34, relativa a la aplicación del régimen especial del grupo de entidades en el Impuesto sobre el Valor Añadido, se aplicará con efectos 1 de enero de 2008.
+Se añade por el anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta.
+(Suprimida)
+Se suprime por el art. único.41 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101.
+ Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición transitoria decimoquinta
+
+Disposición transitoria decimoquinta.
+La exacción por el Impuesto sobre Actividades de Juego que grava las apuestas mutuas deportivo-benéficas y las apuestas mutuas hípicas estatales corresponderá a la Administración del Estado, en tanto su comercialización se realice por la Sociedad Estatal de Loterías y Apuestas del Estado, sin perjuicio de la compensación financiera que corresponda a la Comunidad Foral de Navarra, que se calculará aplicando como punto de conexión el territorio en que se encuentre el punto de venta. La Sociedad Estatal de Loterías y Apuestas del Estado presentará declaraciones informativas anuales de las cantidades jugadas imputables a Navarra de acuerdo al artículo 40.3 del Convenio Económico.
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición transitoria decimosexta
+
+Disposición transitoria decimosexta.
+El artículo 36 del Convenio Económico en su redacción original aprobada mediante la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, se mantendrá en vigor a partir del 1 de enero de 2013, en relación con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos respecto de los ejercicios no prescritos.
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+### Disposición transitoria decimoséptima
+
+Disposición transitoria decimoséptima.
+Los grupos fiscales sometidos a normativa común en períodos impositivos iniciados con anterioridad a 1 de enero de 2015 que incluyan entidades dependientes sujetas a la normativa foral de Navarra en régimen individual, podrán optar por mantener a dichas entidades en el grupo fiscal en los períodos impositivos que se inicien con posterioridad, siempre que la fecha de inicio de estos no sea posterior a 31 de diciembre de 2024 y se cumplan los requisitos establecidos en el artículo 58 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+La opción señalada en el párrafo anterior se deberá ejercer en el primer período impositivo que se inicie a partir de 1 de enero de 2015 y se comunicará a la Hacienda Tributaria de Navarra y a la Administración tributaria del Estado. Ejercitada la opción, el grupo fiscal quedará vinculado a la misma durante los períodos impositivos siguientes, en tanto se cumplan los requisitos del artículo 58 y mientras no se renuncie a su aplicación. La renuncia deberá ejercerse en el plazo de 2 meses a contar desde la finalización del último período impositivo de su aplicación y deberá ser comunicada a ambas Administraciones.
+Se añade por el art. único y anejo de la Ley 14/2015, de 24 de junio. Ref. BOE-A-2015-7047.
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 15 de julio de 2003.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+
+## ANEXO I
+
+(Suprimido)
+Se suprime por el art. único.42 de la Ley 22/2022, de 19 de octubre. Ref. BOE-A-2022-17101.
+ Se modifica por el art. único y anejo de la Ley 48/2007, de 19 de diciembre. Ref. BOE-A-2007-21914

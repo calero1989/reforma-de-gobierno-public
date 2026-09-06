@@ -1,0 +1,216 @@
+# Ley 5/2008, de 19 de junio, por la que se crea y regula la Agencia Vasca de Cooperación para el Desarrollo.
+
+- Identificador BOE: `BOE-A-2011-14349`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2011-14349
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que a partir del 1 de marzo de 2024, las referencias hechas a la "Agencia Vasca de Cooperación para el Desarrollo" se entenderán realizadas a "eLankidetza-Agencia Vasca de Cooperación y Solidaridad", según establece la disposición final 1.1 de la Ley 3/2024, de 15 de febrero. Ref. BOE-A-2024-4866#df
+
+## Preámbulo
+
+Se hace saber a todos los ciudadanos y ciudadanas de Euskadi que el Parlamento Vasco ha aprobado la Ley 5/2008, de 19 de junio, por la que se crea y regula la Agencia Vasca de Cooperación para el Desarrollo.
+EXPOSICIÓN DE MOTIVOS
+La cooperación para el desarrollo en la Comunidad Autónoma de Euskadi es una realidad que ha crecido notablemente, tras muchos años de solidaridad ciudadana y más de dos décadas de cooperación pública. Como hito en esta evolución, la Ley 1/2007, de 22 de febrero, de Cooperación para el Desarrollo, orienta los principios, objetivos y prioridades de esta actividad en Euskadi y establece con carácter general cuáles son sus agentes e instrumentos.
+Dicha Ley 1/2007, en su disposición final primera, prevé que la elaboración de la planificación de la política en materia de cooperación al desarrollo, así como la coordinación, gestión y ejecución de la misma, se llevará a cabo por la Agencia Vasca de Cooperación para el Desarrollo, a crear por una ley específica. Precisamente, es objeto de la presente ley dar cumplimiento a esa previsión, creando y regulando la mencionada agencia.
+La razón fundamental para constituir un organismo específico para la cooperación para el desarrollo dentro de la Administración Institucional está en la necesidad de adaptar la estructura e instrumentos para la ejecución de dicha política pública al crecimiento que ha tenido ésta en los últimos años y a la necesidad de que dicha ejecución se realice con el impacto y la calidad a los que la Ley 1/2007 apunta y compromete. Desde que el Gobierno Vasco comenzara a mediados de los ochenta a destinar recursos económicos para cooperar con otros países hasta el momento presente, la dotación presupuestaria y los instrumentos han crecido de manera muy notable, lo mismo que el volumen de las acciones y la complejidad de las mismas. Por todo ello, el planteamiento es el de constituir un organismo específico encargado de ejecutar la política de cooperación para el desarrollo impulsada por el Gobierno Vasco.
+Por otra parte, la creación de una Agencia Vasca de Cooperación para el Desarrollo se presenta como un cauce propicio para la gestión de otras aportaciones diferentes de las de los presupuestos generales de la Comunidad Autónoma de Euskadi. En particular, la agencia se diseña con carácter abierto a otras instituciones públicas vascas, desde el respeto a la autonomía de éstas en la materia, reconocida por la Ley 1/2007 en su artículo 14.
+La creación de la Agencia Vasca de Cooperación para el Desarrollo encaja y se inspira en las disposiciones generales que sobre la Administración Institucional recoge el título III del Decreto Legislativo 1/1997, de 11 de noviembre, por el que se aprueba el texto refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco. En este sentido, la presente ley opta por la naturaleza jurídica de ente público de derecho privado, por ser la que mejor se ajusta a los quehaceres del organismo.
+La ley tiene la estructura propia de una norma que crea y dicta la regulación básica de un organismo público, por lo que su articulado recoge:
+– Objeto de la ley.
+– Naturaleza y régimen jurídico de la agencia.
+– Fines, facultades y principios de actuación administrativa.
+– Sede.
+– Órganos de gobierno y funciones de éstos.
+– Estructura.
+– Régimen económico.
+– Régimen de personal.
+En lo referido a los órganos de gobierno de la Agencia Vasca de Cooperación para el Desarrollo, además de la Presidencia, Vicepresidencia y Dirección, se prevé la existencia en el ente de un órgano colegiado, el Consejo Rector, con amplias funciones, y se avanza una definición general de la estructura del nuevo organismo.
+Sin perjuicio de lo anterior, la presente ley deberá ser objeto de desarrollo para concretar los diferentes aspectos organizativos de la agencia, para lo cual deberá dictarse el correspondiente reglamento de organización y funcionamiento.
+
+### Artículo 1
+
+Artículo 1. Objeto de la ley.
+El objeto de la presente ley es la creación y regulación de eLankidetza-Agencia Vasca de Cooperación y Solidaridad como ente encargado de impulsar la planificación, coordinación, gestión, ejecución y evaluación de la política de cooperación y solidaridad del sector público de la Comunidad Autónoma de Euskadi.
+Se modifica por la disposición final 1.2 de la Ley 3/2024, de 15 de febrero. Ref. BOE-A-2024-4866#df
+
+### Artículo 2
+
+Artículo 2. Naturaleza y régimen jurídico.
+1. La Agencia Vasca de Cooperación para el Desarrollo es un ente público de derecho privado, con personalidad jurídica propia y capacidad de obrar para el cumplimiento de sus fines, adscrito al departamento del Gobierno Vasco competente en materia de cooperación para el desarrollo.
+2. La Agencia Vasca de Cooperación para el Desarrollo se regirá por la presente ley, su reglamento de organización y funcionamiento y las disposiciones que los desarrollen. En el ejercicio de sus cometidos se regirá fundamentalmente por el derecho privado, si bien cuando ejerza potestades administrativas, por atribución directa o delegación, se sujetará al derecho público, y, en relación con las materias propias de la Hacienda General del País Vasco, por las disposiciones referentes a las mismas que le sean de expresa aplicación y, en lo que nos las contradigan, por el derecho privado.
+
+### Artículo 3
+
+Artículo 3. Funciones.
+eLankidetza-Agencia Vasca de Cooperación y Solidaridad tiene atribuidas las siguientes funciones:
+a) Asistir al Gobierno Vasco en la determinación de los objetivos y prioridades de cooperación y solidaridad del sector público vasco.
+b) Asistir al departamento del Gobierno Vasco competente en materia de cooperación y solidaridad en la elaboración de las directrices de la política en la materia.
+c) Elaborar la propuesta de planificación plurianual en materia de cooperación y solidaridad del sector público de la Comunidad Autónoma de Euskadi, basándose en las directrices establecidas por el departamento competente en la materia.
+d) Impulsar que los departamentos y entidades del sector público de la Comunidad Autónoma de Euskadi incorporen en sus planificaciones actuaciones que contribuyan al desarrollo de la planificación plurianual mencionada en la letra anterior.
+e) Prestar asistencia a los departamentos y entidades del sector público de la Comunidad Autónoma de Euskadi para la gestión y ejecución de iniciativas de cooperación y solidaridad dentro de su ámbito de actuación.
+f) Planificar, ejecutar y evaluar la actuación de eLankidetza-Agencia Vasca de Cooperación y Solidaridad de acuerdo con la planificación plurianual en materia de cooperación y solidaridad.
+g) Identificar, formular, ejecutar y realizar el seguimiento y la evaluación de iniciativas de cooperación y solidaridad. Para ello, de acuerdo con la normativa que le sea de aplicación, podrá obtener, convocar, conceder y gestionar ayudas y subvenciones, celebrar contratos, convenios u otros instrumentos de colaboración, acuerdos de cooperación y otros acuerdos de similar naturaleza jurídica.
+h) Gestionar los recursos económicos y materiales destinados a eLankidetza-Agencia Vasca de Cooperación y Solidaridad en los Presupuestos Generales de la Comunidad Autónoma de Euskadi.
+i) Obtener, gestionar y transferir fondos, públicos o privados, para alcanzar los objetivos de la política pública vasca de cooperación y solidaridad. De este modo, podrá destinar, previa autorización del Consejo de Gobierno, fondos de sus asignaciones presupuestarias a la cooperación financiera, en forma de fondos de garantía, de inversión, de apoyo técnico y de cualquier otra vía dentro de esa modalidad.
+j) Promover el desarrollo de disposiciones normativas y dictar resoluciones administrativas en materia de cooperación y solidaridad.
+k) Realizar los actos de administración y disposición, y las operaciones económicas y financieras que resulten necesarias dentro de sus fines.
+l) Elaborar anualmente la memoria de ejecución de las actuaciones en materia de cooperación y solidaridad realizadas por el sector público de la Comunidad Autónoma de Euskadi de acuerdo con la información remitida por este.
+m) Remitir al Parlamento Vasco, previa solicitud de este, la planificación plurianual en materia de cooperación y solidaridad prevista en el apartado c) del presente artículo, así como la memoria anual que refiere el apartado l) del mismo.
+n) Evaluar la implementación de la planificación plurianual en materia de cooperación y solidaridad del sector público de la Comunidad Autónoma de Euskadi.
+o) Asistir al sector público de la Comunidad Autónoma de Euskadi, a fin de que sus políticas sectoriales sean coherentes con los objetivos de la política pública vasca de cooperación y solidaridad.
+p) Asesorar a Lehendakaritza en su labor de impulsar la coherencia de políticas para el desarrollo sostenible.
+q) Asesorar, recomendar o emitir informes, a solicitud del sector público de la Comunidad Autónoma de Euskadi, respecto a las incidencias que sus planes y actuaciones pueden tener en los países y territorios del Sur.
+r) Colaborar en órganos colegiados o interdepartamentales cuando estos consideren que el conocimiento de las realidades de los países y territorios del Sur es relevante para el diseño, ejecución y evaluación de las políticas del sector público de la Comunidad Autónoma de Euskadi.
+s) Asesorar a otras administraciones y entidades del sector público vasco en la gestión y ejecución de iniciativas de cooperación y solidaridad que realicen dentro de su ámbito de actuación.
+t) Ejercer la secretaría del Consejo Vasco de Cooperación y Solidaridad y de la Comisión Interinstitucional de Cooperación y Solidaridad.
+u) Las demás que le atribuyan las disposiciones vigentes.
+Se modifica por la disposición final 1.3 de la Ley 3/2024, de 15 de febrero. Ref. BOE-A-2024-4866#df
+
+### Artículo 4
+
+Artículo 4. Facultades.
+(Suprimido)
+Se suprime por la disposición final 1.4 de la Ley 3/2024, de 15 de febrero. Ref. BOE-A-2024-4866#df
+
+### Artículo 5
+
+Artículo 5. Principios de actuación administrativa.
+La Agencia Vasca de Cooperación para el Desarrollo, además de los principios orientadores que establece el artículo 3 de la Ley 1/2007, de 22 de febrero, de Cooperación para el Desarrollo, ajustará su actuación a los siguientes principios de actuación administrativa:
+a) Principio de transparencia y participación, en lo que se refiere a la rendición de cuentas ante la ciudadanía y a la participación social para el cumplimiento de sus objetivos.
+b) Principio de autonomía y responsabilidad, en tanto que se le confiere a la Agencia Vasca de Cooperación para el Desarrollo capacidad para gestionar con autonomía los medios puestos a su disposición en orden a cumplir sus fines.
+c) Principio de cooperación interadministrativa y participación institucional, entendidos como la disposición a la colaboración interdepartamental e interinstitucional.
+d) Principio de calidad y mejora continua.
+e) Principio de ética profesional y responsabilidad pública.
+
+### Artículo 6
+
+Artículo 6. Sede.
+1. La sede de la Agencia Vasca de Cooperación para el Desarrollo se establece en Vitoria-Gasteiz.
+2. Para el ejercicio de sus funciones, la Agencia Vasca de Cooperación para el Desarrollo podrá contar con el apoyo de las delegaciones de Euskadi en el exterior.
+
+### Artículo 7
+
+Artículo 7. Órganos de gobierno.
+Los órganos de gobierno de la Agencia Vasca de Cooperación para el Desarrollo son la Presidencia, el Consejo Rector y la Dirección.
+
+### Artículo 8
+
+Artículo 8. Presidencia y Vicepresidencia.
+1. La Presidencia de la Agencia Vasca de Cooperación para el Desarrollo corresponderá al consejero o consejera competente en cooperación para el desarrollo y tendrá las siguientes funciones:
+a) Ostentar la representación institucional máxima de la agencia.
+b) Velar por la consecución de los objetivos asignados a la agencia.
+c) Velar por el cumplimiento de los acuerdos del Consejo Rector.
+d) Informar anualmente en el Parlamento Vasco sobre la gestión, ejecución y evaluación de los planes anuales.
+e) Cualesquiera otras que le confieran el reglamento de organización y funcionamiento de la agencia.
+2. La Vicepresidencia de la Agencia Vasca de Cooperación para el Desarrollo corresponderá al viceconsejero o viceconsejera competente en cooperación para el desarrollo y sustituirá a la persona titular de la Presidencia en casos de ausencia o enfermedad.
+
+### Artículo 9
+
+Artículo 9. Consejo Rector.
+1. El Consejo Rector es el órgano superior de decisión, administración y control de la Agencia Vasca de Cooperación para el Desarrollo y tendrá la siguiente composición:
+a) La Presidencia corresponderá al presidente o presidenta de la agencia, o al vicepresidente o vicepresidenta en su sustitución.
+b) Cuatro vocales, en representación de otros departamentos y organismos del Gobierno Vasco, según establezca el reglamento de organización y funcionamiento de la agencia.
+c) Tres vocales, en representación del Consejo Vasco de Cooperación para el Desarrollo, elegidos por éste entre sus miembros integrantes de la parte social.
+d) Dos vocales, en representación del Parlamento Vasco.
+e) La Secretaría corresponderá al director o directora de la agencia, que será miembro de pleno derecho del Consejo Rector.
+2. En el caso de que, como prevé la letra c) del artículo 3.2 de la presente ley, existieran aportaciones económicas regulares a la agencia procedentes de otras administraciones públicas vascas, el Gobierno Vasco podrá introducir por vía reglamentaria las modificaciones en la composición del Consejo Rector que resulten oportunas.
+3. En la composición del Consejo Rector se promoverá una presencia equilibrada de mujeres y hombres con capacitación, competencia y preparación adecuada.
+4. Los miembros del Consejo Rector serán nombrados y, en los casos que proceda, cesados por el consejero o consejera que ostenta la responsabilidad de la política de cooperación al desarrollo, salvo aquellos que lo sean por razón de su cargo o designados por otras instituciones.
+5. El Consejo Rector celebrará sus sesiones con una periodicidad al menos trimestral.
+6. Podrán asistir a las reuniones del Consejo Rector, con voz pero sin voto, otras personas que sean convocadas por la Presidencia por su condición de expertas o cuya opinión interese ser oída en función de los temas que sean objeto de discusión.
+
+### Artículo 10
+
+Artículo 10. Funciones del Consejo Rector.
+Corresponderán al Consejo Rector las siguientes funciones:
+a) Aprobar los planes generales de actividades de la Agencia Vasca de Cooperación para el Desarrollo.
+b) Acordar y proponer al órgano competente la aprobación de las convocatorias de las diferentes ayudas y subvenciones, así como los criterios básicos para su otorgamiento.
+c) Elaborar el anteproyecto de presupuesto anual de la agencia.
+d) Aprobar la memoria anual de las actividades de la Agencia Vasca de Cooperación para el Desarrollo.
+e) Elaborar, de acuerdo con las condiciones legales que resulten aplicables, la propuesta de las plantillas y el régimen retributivo de su personal, que deberá ser aprobada por el Consejo de Gobierno.
+f) Proponer, para su elevación al Consejo de Gobierno, la modificación del reglamento de organización y funcionamiento de la Agencia Vasca de Cooperación para el Desarrollo.
+g) Proponer la elevación al Consejo de Gobierno de otras propuestas de decisión que requieran acuerdo de éste.
+h) Cualesquiera otras funciones que le encomiende el reglamento de organización y funcionamiento de la agencia.
+i) Proponer al Gobierno Vasco el nombramiento y cese del director o la directora de la agencia.
+j) Controlar la gestión de la Dirección de la Agencia y la exigencia a ésta de las responsabilidades que procedan.
+k) El seguimiento, la supervisión y el control de la actuación de la agencia.
+l) Aprobar un informe general de actividad y cuantos extraordinarios considere necesarios sobre la gestión, valorando los resultados obtenidos y consignando las deficiencias observadas.
+m) Autorizar la participación en otras entidades jurídicas, ejerciendo el derecho que les corresponda en las mismas.
+n) Aprobar los convenios o acciones de cooperación bilateral.
+ñ) Proponer para su elevación al Gobierno las orientaciones generales de planificación y los planes cuatrienales y anuales.
+
+### Artículo 11
+
+Artículo 11. Dirección.
+1. La Dirección de la agencia corresponderá al director o directora, persona que será nombrada por Gobierno Vasco a propuesta del Consejo Rector, y tendrá a todos los efectos consideración de alto cargo y rango de director o directora, siéndole aplicable la legislación en materia de incompatibilidades para el ejercicio de las funciones públicas y la legislación presupuestaria en materia de retribuciones.
+2. Son funciones del director o la directora:
+a) La dirección ordinaria de la agencia y de su personal.
+b) La propuesta y ejecución de las decisiones del Consejo Rector.
+c) La representación ordinaria de la agencia.
+d) La concesión de ayudas y subvenciones en base a los criterios propuestos por el Consejo Rector, dando cuenta de ello a éste.
+e) La formalización de convenios y protocolos.
+f) La contratación en nombre de la agencia, así como la disposición de gastos y ordenación de pagos, de acuerdo con lo previsto en la legislación vigente.
+g) Cualesquiera otras funciones que le encomiende el reglamento de organización y funcionamiento de la agencia o al Consejo Rector.
+h) Presentar al Consejo Rector las propuestas de orientaciones generales de la planificación, de plan director cuatrienal y de planes anuales, así como la propuesta de evaluación de los instrumentos y eficacia de la cooperación.
+i) Proponer al Consejo Rector los planes generales de actividades de la agencia, el anteproyecto de presupuesto anual de la agencia, las plantillas y su régimen retributivo, así como la memoria anual.
+3. Los actos dictados por el director o directora en el ejercicio de las funciones públicas de la agencia no agotan la vía administrativa. Contra los mismos podrá interponerse recurso de alzada ante el presidente o presidenta de la Agencia Vasca de Cooperación para el Desarrollo.
+
+### Artículo 12
+
+Artículo 12. Estructura.
+El reglamento de organización y funcionamiento de la Agencia Vasca de Cooperación para el Desarrollo determinará las áreas de actuación en las que se organizarán sus actividades, y que en todo caso incluirán las diferentes áreas geográficas y la cooperación multilateral.
+
+### Artículo 13
+
+Artículo 13. Régimen económico, patrimonial y de contratación.
+1. El control económico de la agencia se ejercerá en la modalidad de control económico-financiero y de gestión, de acuerdo con lo establecido en la Ley 14/1994, de 30 de junio, de Control Económico y Contabilidad, y normativa de desarrollo.
+2. El patrimonio de la agencia se encuentra integrado en el Patrimonio de la Comunidad Autónoma o Patrimonio de Euskadi y regulado por la normativa aplicable a dicho patrimonio.
+3. Los recursos económicos de la Agencia Vasca de Cooperación para el Desarrollo estarán integrados por:
+a) Los productos y rentas de su patrimonio.
+b) Las consignaciones y transferencias que anualmente se le asignen en los Presupuestos Generales de la Comunidad Autónoma de Euskadi.
+c) Los ingresos que, conforme a lo previsto en la legislación vigente, pudiera corresponderle percibir y los que se produzcan como consecuencia de sus actividades.
+d) Las subvenciones, aportaciones voluntarias, donaciones, herencias y legados que se otorguen a su favor por personas públicas o privadas.
+e) Cualquier otro recurso que le pudiera corresponder de acuerdo con las disposiciones legales o reglamentarias.
+4. La actividad contractual de la agencia se ajustará a las disposiciones aplicables a la Administración de la Comunidad Autónoma de Euskadi.
+
+### Artículo 14
+
+Artículo 14. Régimen de personal.
+1. Los puestos de trabajo de la Agencia Vasca de Cooperación para el Desarrollo serán desempeñados por personal contratado al efecto y por personal de la Administración pública de la Comunidad Autónoma del País Vasco, según la naturaleza de las funciones asignadas a cada puesto de trabajo.
+2. El personal contratado por la Agencia Vasca de Cooperación para el Desarrollo se regirá por las normas de derecho laboral.
+3. Los puestos de trabajo que comporten el ejercicio de potestades públicas estarán reservados a personal funcionario, al que se aplicará la normativa reguladora de la función pública de la Administración General de la Comunidad Autónoma. La convocatoria, gestión y resolución de los procesos de provisión corresponderá al departamento competente en función pública, atendiendo a los principios de publicidad, igualdad, mérito y capacidad.
+4. En relación al personal contratado al efecto, corresponde a la Agencia Vasca de Cooperación para el Desarrollo determinar el régimen de acceso a sus puestos de trabajo, los requisitos y las características de las pruebas de selección, así como la convocatoria, gestión y resolución de los procedimientos, de acuerdo con los principios de publicidad, igualdad, mérito y capacidad.
+5. El régimen retributivo del personal de la Agencia Vasca de Cooperación para el Desarrollo será el establecido con carácter general para el personal al servicio de la Administración de la Comunidad Autónoma de Euskadi.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Inicio de actividades de la Agencia Vasca de Cooperación para el Desarrollo.
+1. La fecha de puesta en marcha e inicio de las actividades de la Agencia Vasca de Cooperación para el Desarrollo será la que se establezca en el decreto que apruebe su reglamento de organización y funcionamiento, y en todo caso antes de un año desde la entrada en vigor de la presente ley.
+2. Las personas miembros del Consejo Rector de la Agencia Vasca de Cooperación para el Desarrollo deberán ser nombradas y, asimismo, los órganos de la agencia deberán quedar constituidos con anterioridad al inicio de actividades.
+3. Para el caso en que el inicio de las actividades no coincida con la entrada en vigor de la correspondiente ley de presupuestos, el Consejo de Gobierno aprobará los presupuestos de explotación y capital de la agencia y los estados financieros provisionales correspondientes al ejercicio económico en que inicie sus actividades, dando cuenta a la Comisión de Economía, Hacienda y Presupuestos del Parlamento Vasco en el plazo de 15 días. A tales efectos, se autoriza al departamento competente en materia de presupuestos a realizar las modificaciones presupuestarias que fuesen necesarias para la formación de dichos presupuestos, sin que puedan suponer un incremento del importe global consignado en las partidas de los Presupuestos Generales vigentes al inicio de las actividades del ente público.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Integración del personal adscrito a la Administración General de la Comunidad Autónoma.
+1. El personal laboral que preste servicios en la Administración General de la Comunidad Autónoma de Euskadi y que cumpla funciones que, de acuerdo con la presente ley, el reglamento de organización y funcionamiento del ente público y la normativa que se establezca, sean asumidas por la Agencia Vasca de Cooperación para el Desarrollo, se integrará en la misma por aplicación del mecanismo de sucesión de empresa previsto en la normativa laboral.
+2. El personal funcionario que preste servicios en la Administración General de la Comunidad Autónoma de Euskadi y que cumpla funciones que, de acuerdo con la presente ley, el reglamento de organización y funcionamiento del ente público y la normativa que se establezca, sean asumidas por la Agencia Vasca de Cooperación para el Desarrollo, se integrará en la misma manteniendo la situación administrativa en la que se encontraba en el momento de su adscripción y conservando la totalidad de derechos que tuviera reconocidos, entre ellos la antigüedad.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Asignación de funciones y adscripción de medios y bienes de la Administración General de la Comunidad Autónoma y sus organismos autónomos.
+El Consejo de Gobierno, mediante decreto, procederá a la adecuación de las estructuras orgánicas de los departamentos de la Administración General y sus organismos autónomos que sean convenientes para asignar a la Agencia Vasca de Cooperación para el Desarrollo las funciones y medios personales necesarios para llevar a cabo los fines que la presente ley y su reglamento de organización y funcionamiento le encomiendan. La adscripción de los bienes y medios materiales oportunos será efectuada por el Departamento de Hacienda y Administración Pública.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de seis meses a partir de la entrada en vigor de la presente ley, el Gobierno Vasco aprobará mediante decreto el reglamento de organización y funcionamiento de la Agencia Vasca de Cooperación para el Desarrollo.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del País Vasco».
+
+Por consiguiente, ordeno a todos los ciudadanos y ciudadanas de Euskadi, particulares y autoridades, que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 23 de junio de 2008.–El Lehendakari, Juan José Ibarretxe Markuartu.

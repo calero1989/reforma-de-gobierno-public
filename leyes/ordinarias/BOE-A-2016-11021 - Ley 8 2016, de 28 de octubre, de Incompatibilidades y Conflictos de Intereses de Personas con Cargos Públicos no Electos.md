@@ -1,0 +1,345 @@
+# Ley 8/2016, de 28 de octubre, de Incompatibilidades y Conflictos de Intereses de Personas con Cargos Públicos no Electos.
+
+- Identificador BOE: `BOE-A-2016-11021`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2016-11021
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio y manifiesto a todos los ciudadanos que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
+PREÁMBULO
+La abundancia de casos de corrupción sufridos en nuestro territorio, de actuaciones éticamente rechazables por parte de personas con cargos públicos y la falta de respuesta por parte del legislador generaron un clima de indignación social hacia la política. Desconfianza aumentada ante la práctica reiterada del fichaje de antiguos miembros de gobiernos por empresas privatizadas bajo la dirección del mismo responsable político que después pasa a formar parte de la plantilla de esta empresa. Actitudes como esta ofrecen una imagen de connivencia durante el ejercicio del cargo público que alimenta la idea de que se ha favorecido determinados intereses empresariales o particulares en beneficio propio, en detrimento del servicio público.
+En definitiva, la imagen pública de que una empresa contrate a una persona ex alto cargo del gobierno como agradecimiento por las decisiones adoptadas durante su mandato por altas sumas de dinero habla por sí misma y merece una respuesta legislativa contundente.
+Las actividades compatibles con el cargo y la ética pública no pueden quedar a la libre decisión del concepto moral de la persona con cargo público. Deben de ser reguladas a través de los mecanismos legales necesarios que garanticen la honorabilidad y objetividad de aquellas personas que gestionan lo público a la hora de adoptar decisiones y que regulan consecuencias punibles para aquellos que lo incumplan. Se trata de la creación de normas que regulan las incompatibilidades y conflictos de intereses con el fin de impedir que el ejercicio del cargo sea aprovechado desde la empresa privada o la persona física con la intención de beneficiarse ante el resto de empresas del sector o de otras personas físicas.
+De la misma manera, es necesario ofrecer una respuesta legislativa a cómo se desarrolla el ejercicio ético del cargo público, con el fin de garantizar que las decisiones que adopte la persona que lo ostente no escondan intereses espurios.
+En cuanto a la legislación estatal vigente, la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la administración general del Estado, dispone en el artículo 15 las limitaciones al ejercicio de actividades privadas con posterioridad a su cese. No obstante, esta normativa no es de aplicación a los altos cargos de la administración autonómica.
+Por otro lado, varias comunidades ya disponen de legislación sobre la materia, mientras que en nuestro territorio, donde la necesidad es perentoria, encontramos que existe una laguna legal que este texto pretende cubrir.
+En cuanto a la estructura de la ley, consta de cinco títulos. El título preliminar aborda el objeto de la ley y el ámbito subjetivo de aplicación. El título primero, dividido en tres capítulos, establece el régimen de dedicación, las incompatibilidades y obligaciones de las personas con cargo público y después de su cese. Al mismo tiempo, regula los deberes de inhibición y abstención. Finalmente, regula las situaciones compatibles y las condiciones de reingreso a la actividad anterior. El título segundo, dividido en dos capítulos, regula la creación, composición y funciones de la Oficina y del Registro de Control de Conflicto de Intereses y las obligaciones y declaraciones que debe efectuar la persona que ejerza o haya ejercido un cargo público. El título tercero está dedicado a regular el régimen disciplinario. Establece las infracciones, sanciones, así como prescripciones y principios reguladores propios del derecho sancionador. También regula la tramitación del expediente sancionador. Finalmente, el título cuarto regula los principios de transparencia y accesibilidad para la ciudadanía y la información y posibilidad de denunciar posibles irregularidades con un sistema de protección de la persona denunciante.
+Tanto las funciones que hasta la fecha ha realizado el Registro de Actividades y de Bienes y Derechos Patrimoniales de Altos Cargos de la Generalitat, como la documentación y el personal que presta servicios en el mismo pasan, con esta ley, a integrarse en el Registro de Control de Conflictos de Intereses, que dependerá de la conselleria que tenga atribuidas las competencias en materia de transparencia.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. El objeto de la ley es regular las incompatibilidades de los altos cargos de la administración de la Generalitat y la declaración de actividades, bienes e intereses de los mismos y de otros cargos públicos recogidos en el artículo 2 de la presente ley, aportar más transparencia y, con ella, mayor confianza de los ciudadanos, para garantizar así el cumplimiento del principio de objetividad en el servicio del interés general durante el cumplimiento de su mandato.
+2. También es objeto de esta ley regular las incompatibilidades una vez se produzca el cese de los altos cargos de la administración de la Generalitat para evitar los conflictos de intereses.
+3. Se entiende por conflicto de intereses aquella situación en que, por acción u omisión, incurre un cargo público no electo que, vinculado por un deber de servicio al interés general, subordina dicho interés general a su interés particular o ajeno en forma de ánimo de lucro pecuniario o en especie, incluso en el caso que no consiguiera con su acción u omisión su propósito.
+
+### Artículo 2
+
+Artículo 2. Ámbito subjetivo de aplicación.
+Esta ley es de aplicación a:
+a) La persona titular de la Presidencia de la Generalitat, personas miembros del Consell y personas titulares de las secretarías autonómicas, subsecretarías, direcciones generales y órganos o centros directivos cuyo nombramiento competa al Consell.
+b) El personal directivo de los entes del sector público instrumental, entendiendo por estos los recogidos en el artículo 2.3 de la Ley 1/2015, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones; en particular:
+b.1) La persona titular de la presidencia, dirección general, las personas gerentes y titulares de otros puestos de trabajo o cargos asimilados en organismos autónomos o entidades de derecho público dependientes de la Generalitat.
+b.2) Las presidentas o los presidentes, consejeras delegadas o consejeros delegados de sociedades mercantiles de la Generalitat nombrados por el Consell o por los órganos de gobierno de aquellas sociedades.
+b.3) Las directoras o los directores generales, gerentes o puestos asimilados de fundaciones del sector público de la Generalitat.
+b.4) Las personas que ostentan cargos directivos y funciones ejecutivas asimilables en los consorcios de la Generalitat.
+c) Todos aquellos puestos de libre designación nombrados directamente por acuerdo del Consell que sean calificados como tales en normas de rango de ley o reglamento y que impliquen especial confianza o responsabilidad.
+d) Las personas nombradas comisionadas o puesto de análoga naturaleza por la Presidencia o por cualquier otra conselleria para representar los intereses públicos en los ámbitos de gestión privada existentes.
+e) Las personas que hayan suscrito un contrato laboral especial de alta dirección.
+f) Asimismo, las personas titulares de cualquier otro puesto, sea cual sea su denominación, cuyo nombramiento efectúe el Consell y que comporte retribución o tenga atribuidas funciones ejecutivas o directivas.
+Se modifica por el art. 98 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+## TÍTULO PRIMERO
+
+Régimen de dedicación e incompatibilidades
+
+## CAPÍTULO I
+
+Régimen
+
+### Artículo 3
+
+Artículo 3. Régimen de dedicación.
+1. El ejercicio de un alto cargo, cuando sea con carácter remunerado, deberá desarrollarse en el régimen de dedicación absoluta y exclusiva. Es incompatible con el desarrollo, por sí mismo o mediante sustitución, de cualquier otro cargo, profesión o actividad, públicos o privados, por cuenta propia o ajena, retribuidos mediante sueldo, arancel, participación o cualquier otra forma especial, con las excepciones establecidas en esta ley.
+2. De acuerdo con lo establecido en el punto 1 de este artículo, no podrá percibirse más de una retribución con cargo a los presupuestos de las administraciones públicas, ni de los organismos, entidades y empresas dependientes o con cargo a los órganos institucionales.
+3. En el caso de pertenencia a un consejo de administración de una entidad no pública se aplicarán las causas de incompatibilidad previstas para los concejales con dedicación exclusiva en la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, así como lo dispuesto en el artículo 178 de la Ley orgánica 5/1985, de 19 de junio, del régimen electoral general.
+Se añade el apartado 3, con efectos desde el 27 de agosto de 2024, por el art. 1 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+ Se modifica el apartado 1 por el art. 100 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+## CAPÍTULO II
+
+Incompatibilidades y obligaciones
+
+### Artículo 4
+
+Artículo 4. Incompatibilidades directas o indirectas durante el mandato.
+1. Se declara incompatible cualquier percepción, indemnización por asistencia o retribución de los altos cargos por formar parte de los órganos colegiados o de otra naturaleza cuando les corresponda con carácter institucional o para los cuales fueron designados de acuerdo con el cargo que ocupan, sin perjuicio de lo dispuesto en el artículo 7 sobre compatibilidades con el ejercicio del cargo.
+2. Durante su mandato o nombramiento, las personas con cargo público no podrán suscribir contratos por sí mismas o a través de sociedades o empresas participadas por ellas o sus familias hasta el tercer grado de consanguinidad o segundo de afinidad, directamente o indirectamente, que afecten el sector en el que presta servicios.
+3. Las personas sometidas a esta ley, durante el mandato, no podrán ser propietarias por sí mismas o junto al o a la cónyuge o pareja de hecho o situaciones de análoga convivencia, descendientes dependientes o personas tuteladas o a través de persona interpuesta, de participaciones directas o indirectas que superen el 10 % en empresas que tengan conciertos o contratos de cualquier naturaleza en el sector público o que sean subcontratistas de estas empresas o que reciban subvenciones provenientes del sector público, o participaciones que, sin llegar al 10 %, supongan una posición en el capital social de la empresa que pueda condicionar de forma relevante su actuación. Las mismas limitaciones y de la misma manera serán de aplicación a las personas con cargo público titulares de obligaciones de una sociedad mercantil.
+4. Se exceptúan del punto anterior las acciones o participaciones de las que la persona sea propietaria por formar parte una sociedad mercantil y que hayan estado en su poder con carácter anterior a su nombramiento o, si la transmisión se produce por causa de muerte, durante el mismo mandato. En este caso, la persona afectada durante el mandato no podrá ejercer ningún cargo de gerencia y estará sujeta a los deberes del artículo 6 y del apartado 2 de este artículo, así como a lo dispuesto a las incompatibilidades para los concejales con dedicación exclusiva en la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, así como lo dispuesto en el artículo 178 de la Ley orgánica 5/1985, de 19 de junio, del régimen electoral general.
+5. No será de aplicación el punto 3 de este artículo a las cooperativas de trabajo asociado ni cooperativas agrícolas, de consumo o de aprovechamiento energético.
+Se modifica el apartado 4, con efectos desde el 27 de agosto de 2024, por el art. 2 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+
+### Artículo 5
+
+Artículo 5. Incompatibilidades después del cese en el cargo.
+1. Durante los tres años siguientes a la fecha de cese, los miembros del Consell y las personas que ejerzan el cargo de la secretaría autonómica y durante los dos años siguientes a la fecha del cese, el resto de personas incluidas en el artículo 2 no podrán:
+a) Prestar servicios, ni ejercer cualquier otro cargo ni papel mediador en entidades privadas, remunerado o no, que pudiera provocar un conflicto de intereses con la función ejercida.
+b) Formar parte de órganos colegiados en empresas o sociedades privadas relacionadas con las competencias del cargo ocupado en el ámbito competencial de la Generalitat Valenciana, si genera un conflicto de intereses.
+c) Suscribir, por sí mismas o a través de sociedades o empresas participadas por ellas directamente o indirectamente en los términos establecidos en el artículo 4.2, contratos de asistencia técnica, de servicios o semejantes con la administración o entidad pública de la que provenga, de manera directa o a través de empresas contratistas o subcontratistas.
+2. A los efectos del punto 1, se considera que hay conflicto de intereses en el ámbito o sector en el que ejerce los servicios cuando se dé cualquiera de los siguientes supuestos de hecho:
+a) Que la persona afectada directamente, las personas con rango jerárquicamente superior a propuesta de ella o las personas titulares de sus órganos dependientes por delegación o sustitución hayan dictado resoluciones o cualquier tipo de acuerdo o formulado propuesta en relación a estas entidades, excepto cuando se derive de una convocatoria pública o de un acto reglado.
+b) Cuando la persona afectada intervenga o participe en algún acuerdo o resolución en relación con estas entidades, excepto cuando se derive de una convocatoria pública o de un acto reglado.
+c) Que se trate de empresas vinculadas a empresas o servicios privatizados por decisión del órgano del que formaba parte.
+3. Las incompatibilidades establecidas en este artículo no serán de aplicación al personal funcionario de libre designación, al que se aplicará el régimen de compatibilidades que establezca la normativa aplicable a los empleados públicos.
+4. El conflicto de interés deberá ser demostrado de manera fehaciente no pudiendo extenderse una prohibición genérica por el mero hecho de haber pertenecido a un órgano colegiado o haber dictado resoluciones o cualquier otro tipo de acuerdo.
+Se añade el apartado 4, con efectos desde el 27 de agosto de 2024, por el art. 3 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+
+### Artículo 6
+
+Artículo 6. Inhibición y abstención.
+1. Las personas afectadas por esta ley deberán inhibirse del conocimiento de asuntos en los que, anteriormente a la toma de posesión como cargo público, hayan intervenido o que interesen a entidades, empresas o sociedades en las que ellas, la persona cónyuge o persona con relación análoga a la conyugal, o familiares hasta el tercer grado de consanguinidad o segundo de afinidad, hayan realizado funciones de dirección, asesoramiento o administración.
+2. Cuando la persona afectada por esta ley estuviera obligada a abstenerse en los términos previstos en la legislación administrativa del Estado o autonómica, la abstención se hará por escrito, y se notificará tanto al superior inmediato o el órgano que lo nombró, como a la Oficina de Control de Conflictos de Intereses.
+
+## CAPÍTULO III
+
+Compatibilidad y reingreso
+
+### Artículo 7
+
+Artículo 7. Compatibilidad.
+1. El ejercicio del cargo será compatible con las siguientes actividades privadas, siempre que estas no comprometan la imparcialidad o independencia del cargo ni vayan en detrimento del estricto cumplimiento de los deberes públicos:
+a) La participación no lucrativa en seminarios, jornadas o conferencias organizadas por centros oficiales destinados a la formación, siempre que no tengan carácter permanente y que su participación se deba a la condición de cargo público o a su especialidad profesional.
+b) La participación no lucrativa en medios de comunicación y difusión audiovisuales o escritos.
+c) La producción y creación literaria, artística, científica o técnica y las publicaciones derivadas de estas, siempre que no sean consecuencia de una relación laboral o de prestación de servicios o supongan merma en el estricto cumplimiento de los deberes públicos.
+d) Las derivadas de la simple administración de su patrimonio personal o familiar, con las limitaciones establecidas en el artículo 4.
+e) El ejercicio de actividades y cargos en partidos políticos, siempre que no perciban ningún tipo de retribución por dicha participación.
+f) La participación en entidades sin ánimo de lucro, siempre que no perciban una retribución y se cumpla el deber de abstención del artículo 6.
+2. El ejercicio de las funciones del cargo de las personas afectadas será compatible con las siguientes actividades públicas:
+a) El ejercicio de los cargos que les correspondan con carácter legal o institucional o para los cuales sean designadas por su condición.
+b) La representación de la administración de la Generalitat en los órganos colegiados y en los consejos de administración u órganos de gobierno de organismos o empresas con capital público o de entidades u organismos de derecho público. Las personas incluidas en el ámbito de aplicación de esta ley no podrán pertenecer a más de dos consejos de administración u órganos de gobierno de empresas o entidades, salvo que una norma lo establezca por razón del cargo o lo autorice de manera excepcional el Consell.
+c) La participación, en representación de la administración de la Generalitat, como miembros de instituciones, organismos y empresas públicas del Estado.
+d) La colaboración con fundaciones públicas.
+e) El cumplimiento de misiones temporales de representación en organizaciones o conferencias nacionales e internacionales.
+f) Con la condición de miembro de corporaciones locales, siempre que no tenga dedicación exclusiva o parcial.
+3. Los y las miembros del Consell podrán compatibilizar su cargo con la condición de diputado o diputada de Les Corts, sin que se tenga derecho a ninguna retribución por dicha condición.
+4. Las personas sujetas a esta ley tendrán derecho a la percepción de gastos de locomoción o dietas por las actividades compatibles, con el límite previsto por la normativa aplicable al cargo público.
+Se modifica el apartado 1.f), con efectos desde el 27 de agosto de 2024, por el art. 15 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+ Se modifica por el art. 44 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
+
+### Artículo 7 bis
+
+Artículo 7 bis. Compatibilidad con el ejercicio de la docencia.
+1. El ejercicio del cargo será compatible con la docencia universitaria, la docencia en centros de selección y perfeccionamiento de empleados públicos, así como con la preparación para el acceso a la función pública siempre que no impida o menoscabe el estricto cumplimiento de sus deberes y obligaciones, ni comprometa la imparcialidad y la independencia en su ejercicio, ni perjudique el interés público.
+2. El ejercicio de la docencia a que se refiere el apartado anterior podrá desarrollarse en centros públicos o privados, en régimen de dedicación a tiempo parcial.
+3. La cuantía de las compensaciones percibidas por la actividad docente o de investigación no podrá en ningún supuesto exceder del 30 % de la retribución que corresponda al alto cargo, en cómputo anual.
+Se añade por el art. 29 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
+
+### Artículo 8
+
+Artículo 8. Reingreso.
+1. Las personas del ámbito subjetivo de esta ley establecido en el artículo 2, que con anterioridad a ocupar puestos públicos hubieran ejercido su actividad profesional o laboral en empresas privadas, a las que quisieran reincorporarse, no incurrirán en la incompatibilidad prevista en el artículo 5 si no se da ninguno de los supuestos de hecho establecidos en el artículo 5.2 y se ha cumplido lo que disponen los artículos 5 y 6 de esta ley.
+2. Con posterioridad a la fecha de cese, aquellos que reingresen a la función pública y tengan concedida la compatibilidad para prestar servicios retribuidos mediante honorarios, arancel o cualquier otra manera de contraprestación económica a personas físicas o jurídicas de carácter privado, les será de aplicación lo que se prevé en el artículo 5 y se inhibirán en todas aquellas actuaciones que tengan relación directa con las competencias del cargo ejercido.
+
+## TÍTULO II
+
+El Registro y la Oficina de Control de Conflictos de Intereses
+
+## CAPÍTULO I
+
+Registro y Oficina de Control de Conflictos de Intereses
+
+### Artículo 9
+
+Artículo 9. Registro de Control de Conflictos de Intereses.
+1. Se crea el Registro de Control de Conflictos de Intereses que incluirá los datos sobre actividades, bienes y patrimonio de las personas que ejerzan un cargo público conforme el artículo 2 de esta ley. Este registro será de acceso público.
+2. El registro estará adscrito a la conselleria competente en materia de transparencia.
+3. Presentadas las declaraciones, comprobada la autenticidad y veracidad de los documentos presentados y de las declaraciones, realizada la resolución sobre la compatibilidad y determinado el extracto publicable de las mismas, se guardará copia de este extracto. El interesado tendrá derecho a solicitar la eliminación de todos los documentos presentados, salvo que fueran originales en cuyo caso le serán devueltos a su titular. Reglamentariamente se determinará el plazo y la fecha desde la que se puede solicitar este derecho.
+Tengase en cuenta que este apartado 3 añadido por el art. 4 de la Ley 4/2024, de 26 de julio Ref. BOE-A-2024-20162, no entra en vigor hasta que lo haga el reglamento de desarrollo de la presente Ley, según se establece en su disposición final unica.
+Se añade el apartado 3 por el art. 4 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Tengase en cuenta que, según se establece en su disposición final única, este apartado 3 no entra en vigor hasta que lo haga el reglamento de desarrollo de la presente Ley.
+ Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+
+### Artículo 10
+
+Artículo 10. Oficina de Control del Conflicto de Intereses.
+1. Existirá una Oficina de Control de Conflictos de Intereses, que estará adscrita a la conselleria competente en materia de transparencia y contará con medios y personal suficiente para la gestión de las funciones establecidas en esta ley.
+2. Son funciones de la Oficina de Control de Conflictos de Intereses:
+a) Gestionar el Registro de Control de Conflictos de Intereses.
+b) Gestionar el régimen de incompatibilidades e informar sobre la compatibilidad entre las actividades, el patrimonio y los bienes y el ejercicio del cargo público de cada persona con cargo público con obligación de declarar.
+c) Requerir a las personas afectadas el cumplimiento de las obligaciones previstas en esta ley.
+d) Instar a la incoación de procedimientos sancionadores cuando se requiera en aplicación de los preceptos de esta ley.
+e) Realizar un informe anual, que en todo caso será público, sobre las situaciones de compatibilidad e incompatibilidad, incidencias, aplicación del régimen disciplinario y cualquier hecho relevante en su gestión.
+f) Ajustar sus informes y sus publicaciones al respeto al derecho de protección de datos de carácter personal, siempre garantizando la transparencia en la gestión pública y el derecho de la ciudadanía a conocer la situación de compatibilidad o incompatibilidad de las personas con cargo público.
+g) Ejercer la labor inspectora cuando tenga conocimiento de cualquier indicio de irregularidad en materia de incompatibilidades o conflictos de intereses de las personas incluidas en el artículo 2, por denuncia, petición razonada de otros órganos o entidades o a iniciativa propia, así como informar al resto de órganos que tengan atribuidas funciones de inspección cuando se detecte alguna irregularidad de su competencia, y en caso de situaciones de aparente ilícito penal, informar al Ministerio Fiscal inmediatamente.
+h) Cualesquiera otras que le otorguen esta ley o el reglamento que la desarrolle.
+3. La Oficina de Control de Conflictos de Intereses estará coordinada con los órganos de control o prevención y lucha contra la corrupción existentes.
+Se modifica, con efectos desde el 27 de agosto de 2024, por el art. 5 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+ Se modifica por el art. 98 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 11
+
+Artículo 11. Personal.
+El personal adscrito a la Oficina de Control de Conflictos de Intereses se ajustará a lo determinado para el personal al servicio de la administración de la Generalitat en la Ley 4/2021, de 16 de abril, de la función pública valenciana.
+Se modifica, con efectos desde el 27 de agosto de 2024, por el art. 6 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Se modifica por el art. 101 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
+
+## CAPÍTULO II
+
+Obligaciones
+
+### Artículo 12
+
+Artículo 12. Obligaciones al nombramiento y durante el ejercicio del cargo público.
+1. Las personas nombradas para desempeñar cargos públicos deben presentar declaración de actividades que incluirá las siguientes:
+a) Actividades ejercidas durante los dos años anteriores a la toma de posesión. Incluirá todas las actividades públicas y privadas, de tipo profesional, mercantil o laboral por cuenta propia o ajena.
+b) Otras actividades que vayan a ejercer durante el tiempo en el que desarrolle su mandato como cargo público. Incluirá las siguientes actividades:
+1.º Actividades públicas, en la que se reflejarán las actividades en relación con otros cargos de representación popular y demás cargos públicos distintos de los que les correspondan con carácter institucional o para los cuales han resultado designadas por razón de su cargo.
+2.º Actividades privadas.
+2. Las personas cargos públicos deben presentar la declaración de bienes, derechos y obligaciones patrimoniales, que incluirá el detalle de todos los bienes, derechos y obligaciones patrimoniales, valores y activos financieros, participaciones u obligaciones societarias que posee la persona con cargo público. Igualmente, deberán informar sobre la denominación y el objeto social de las sociedades en que tengan intereses. A esta declaración se podrá acompañar, con el respectivo consentimiento, la relativa a la participación de su cónyuge o su pareja de hecho, los hijos e hijas dependientes o las personas tuteladas y las personas con quien conviva.
+3. Asimismo, la persona con cargo público debe aportar anualmente durante el ejercicio de su cargo, copia de la última declaración tributaria correspondiente al Impuesto de la Renta sobre las Personas Físicas, y al Impuesto sobre el Patrimonio, si existe la obligación legal de presentarlas de conformidad con la legislación tributaria. Podrá sustituir su aportación por la autorización a la Oficina de Control de Conflictos de Intereses para que los datos necesarios sean consultados o recabados directamente de la administración ante la que presentó la declaración.
+4. Si una persona con cargo público es designada para nombramientos sucesivos, deberá presentar una nueva declaración de actividades referente al nuevo cargo. Se entiende por nombramiento sucesivo cuando entre el cese en un cargo y el posterior nombramiento en otro no haya transcurrido más de un mes.
+5. La obligación de formular declaraciones y de suministrar información y datos tributarios nace desde la fecha de efectos del nombramiento. La declaración de actividades y la última declaración presentada de bienes, derechos y obligaciones patrimoniales se tendrán en cuenta para dictar la resolución en materia de compatibilidad.
+6. Deberá presentarse una declaración modificativa cuando se produzca una variación relevante de la información recogida en las declaraciones efectuadas.
+7. La oficina emitirá un informe sobre la compatibilidad entre la declaración de actividades y la declaración de bienes, derechos y obligaciones patrimoniales, y el ejercicio del cargo público de cada persona con cargo público con obligación de declarar.
+Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+
+### Artículo 13
+
+Artículo 13. Obligaciones al cese.
+1. Las personas cesadas de cargos públicos deberán presentar declaración las de actividades que se van a desempeñar tras el cese con la información que se determine reglamentariamente.
+2. También deben presentar nueva declaración de bienes, derechos y obligaciones patrimoniales, con la información actualizada al momento de su presentación.
+3. Deberá presentarse una declaración modificativa cuando se produzca una variación relevante de la información recogida en las declaraciones efectuadas.
+4. Asimismo, deberán aportar anualmente ante el registro copia de las declaraciones tributarias, en los términos previstos en el artículo 12.3 de la presente ley.
+5. La obligación de formular declaraciones y de suministrar información y datos tributarios finaliza transcurridos tres años desde el cese, contados de fecha a fecha. Todo ello, sin perjuicio de la exigencia de responsabilidades por infracciones que se hubieran cometido antes del trascurso de dicho plazo.
+6. La oficina emitirá un informe sobre la compatibilidad entre la declaración de actividades y la declaración de bienes, derechos y obligaciones patrimoniales, y la actividad que se pretende realizar tras el cese de cada persona con cargo público con obligación de declarar.
+Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+
+### Artículo 14
+
+Artículo 14. Tramitación de la información y consecuencias jurídicas.
+1. Mientras no haya resolución expresa, la persona nombrada para el cargo se encontrará en situación de compatibilidad hasta que no reciba notificación la Oficina de Control de Conflictos de Intereses.
+2. La persona afectada por una situación patrimonial incompatible con el cargo deberá desprenderse de las acciones, de las participaciones, o realizar la acción que corresponda en el plazo de dos meses desde la notificación de la incompatibilidad, y notificará y acreditará el hecho de manera inmediata a la Oficina de Control de Conflictos de Intereses.
+3. Si la situación de incompatibilidad sobreviniera durante el ejercicio del cargo, dispondrá igualmente de dos meses desde la notificación de la incompatibilidad para reencontrarse en situación de compatibilidad, y notificará y acreditará el hecho de manera inmediata a la Oficina de Control de Conflictos de Intereses.
+4. Si la persona afectada en el plazo legal no retorna a una situación de compatibilidad, se iniciará expediente sancionador de acuerdo con las previsiones del título III de esta ley.
+
+## TÍTULO III
+
+Régimen sancionador
+
+### Artículo 15
+
+Artículo 15. Infracciones.
+1. Son infracciones muy graves:
+a) El suministro deliberado de datos o documentos falsos que no se ajusten a la realidad o estén destinados a propiciar una falsa apariencia de legalidad.
+b) El incumplimiento del deber de abstención o inhibición cuando corresponda.
+c) El incumplimiento del régimen material de incompatibilidades previsto en esta ley.
+2. Son infracciones graves:
+a) La omisión deliberada de aportación al Registro de Control de Conflicto de Intereses de datos o documentos relevantes a los efectos de esta ley.
+b) La no aportación de la documentación que corresponde aportar al Registro de Control de Conflicto de Intereses después del requerimiento para hacerlo.
+3. Son infracciones leves:
+a) La presentación extemporánea de la documentación que corresponde aportar al Registro de Control de Conflicto de Intereses después del requerimiento fehaciente para hacerlo.
+b) El cumplimiento extemporáneo del deber de retomar a una situación de compatibilidad una vez emitido un informe por la Oficina de Control de Conflictos de Intereses después del requerimiento fehaciente para hacerlo.
+4. La reincidencia y la reiteración se tomarán en consideración como criterios para la graduación de las infracciones y de las sanciones en las que deba apreciarse. Se entenderá por reiteración la existencia previa de dos o más sanciones por la comisión de infracciones previstas en esta ley en un período de tres años.
+En los supuestos en que exista reiteración de faltas graves, la sanción a imponer por la infracción cometida será la que corresponda a las faltas muy graves. En los supuestos en que exista reiteración de faltas leves, la sanción a imponer por la infracción cometida será la que corresponda a las faltas graves.
+Se modifica por el art. 98 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 16
+
+Artículo 16. Sanciones y principios para su aplicación.
+1. Las infracciones muy graves serán sancionadas con la publicación en el Diari Oficial de la Generalitat Valenciana y en el Portal de Transparencia del nombre de las personas infractoras y la infracción cometida, y, como máximo y aplicando el principio de proporcionalidad según la infracción cometida, con una o más de las siguientes sanciones:
+a) El reintegro de las cantidades percibidas indebidamente, en su caso, incrementadas hasta un diez por ciento si no se procediera a la devolución en el mes siguiente a la notificación de la resolución del expediente sancionador. Este incremento se concretará atendiendo a su motivación, a la disposición mostrada para hacer efectiva la devolución y al tiempo de demora transcurrido.
+b) El cese inmediato en el cargo para aquel que lo siga ejerciendo.
+c) La pérdida del derecho a percibir, después del cese, la totalidad o parte de la pensión, indemnización, prestación o percepción económica que se haya generado por haber ejercido el cargo, o la obligación de restituirla en caso de que se haya percibido anteriormente.
+d) La prohibición de volver a ser nombrado alto cargo no electo durante un período de entre 5 y 10 años.
+2. Las infracciones graves serán sancionadas con la publicación en el Diari Oficial de la Generalitat Valenciana y en el Portal de Transparencia del nombre de las personas infractoras y la infracción cometida, y con una o más de las siguientes sanciones:
+a) El reintegro de las cantidades percibidas indebidamente, en su caso, incrementadas hasta un diez por ciento si no se procediera a la devolución en el mes siguiente a la notificación de la resolución del expediente sancionador. Este incremento se concretará atendiendo a su motivación, a la disposición mostrada para hacer efectiva la devolución y al tiempo de demora transcurrido.
+b) La prohibición de volver a ser nombrado alto cargo no electo durante un período entre 2 y 5 años.
+3. Las infracciones leves serán sancionadas con la amonestación, que se acompañará del requerimiento fehaciente del cumplimiento de la obligación.
+4. Para la graduación de las sanciones, se tendrán en cuenta el grado de incumplimiento de la ley, la existencia de perjuicios causados al interés público, el tiempo transcurrido en situación de incompatibilidad o la percepción indebida de cantidades y la cuantía por el desarrollo de las actividades incompatibles.
+5. La tramitación de los expedientes se hará de acuerdo con los principios de presunción de inocencia, proporcionalidad, garantía de defensa y principio contradictorio, y conforme a lo previsto en la normativa general en relación con el procedimiento administrativo sancionador.
+6. Lo que dispone esta ley se entiende sin perjuicio de la exigencia del resto de responsabilidades que correspondan.
+7. El régimen disciplinario regulado en esta ley no será de aplicación al personal funcionario de libre designación.
+
+### Artículo 17
+
+Artículo 17. Tramitación del expediente sancionador.
+1. Para la tramitación del expediente sancionador se aplicará el régimen sancionador de los empleados y de las empleadas públicos.
+2. El órgano competente para ordenar la incoación cuando el o la cargo público tenga la condición de miembro del Consell será el Consell. En el resto de casos la incoación del expediente corresponderá a la persona titular de la conselleria competente en materia de transparencia, siempre que el o la cargo público no dependa de ella. En caso de depender de esta última consellería, la incoación corresponderá a la persona titular de la conselleria competente en materia de administración pública y, en el caso de que las competencias en materia de transparencia y de administración pública recaiga en la misma conselleria, la persona titular de la Presidencia de la Generalitat atribuirá la competencia a un miembro del Consell. Antes de incoar el procedimiento se podrán realizar actuaciones de carácter informativo y reservado, dando audiencia a la persona interesada, para determinar si concurren circunstancias que justifiquen la incoación.
+La Oficina de Control de Conflictos de Intereses y los órganos de control o prevención y lucha contra la corrupción, cuando constaten conductas o hechos susceptibles de ser calificados como alguna de las infracciones previstas en esta ley, podrán instar a la incoación del procedimiento. En este caso la incoación por parte del órgano competente será preceptiva.
+3. La instrucción de los correspondientes expedientes la llevará a cabo la Oficina de Control de Conflictos de Intereses.
+4. Corresponde al Consell la imposición de sanciones por infracciones muy graves y graves y, en todo caso, cuando el o la alto cargo tenga la condición de miembro del Consell. La imposición del resto de sanciones corresponde a la persona titular de la conselleria competente en materia de transparencia, siempre que el o la cargo público no dependa de ella. Cuando la persona con alto cargo dependa de la Conselleria con competencias en transparencia corresponderá a la persona titular de la conselleria competente en materia de administración pública y, en el caso de que las competencias en materia de transparencia y de administración pública recaiga en la misma conselleria, la persona titular de la Presidencia de la Generalitat atribuirá la competencia a un o una miembro del Consell.
+Se modifica por el art. 102 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-14
+
+### Artículo 18
+
+Artículo 18. Prescripciones de infracciones y sanciones.
+1. El plazo de prescripción de las infracciones previstas en este título será de cinco años para las muy graves, tres años para las graves y un año para las leves.
+2. El plazo de prescripción de las sanciones será de cinco años para las impuestas por la comisión de infracciones muy graves, tres años para las impuestas por la comisión de infracciones graves y un año para las impuestas por la comisión de infracciones leves.
+3. El cómputo de los plazos se realizará de acuerdo con las previsiones de la legislación que regule el procedimiento administrativo común.
+
+## TÍTULO IV
+
+Principios de transparencia y accesibilidad
+
+### Artículo 19
+
+Artículo 19. Transparencia.
+En el portal de transparencia de la Generalitat o, en su caso, en el portal correspondiente de las entidades del sector público instrumental, se publicará y mantendrá actualizada información de la actividad de la Oficina de Control de Conflictos de Intereses, que necesariamente incluirá las memorias anuales presentadas a Les Corts Valencianes.
+También se publicará un extracto de las declaraciones de renta, actividades y bienes presentadas por cada persona que ocupe un cargo público no electo comprendido en el artículo 2, además de las resoluciones de compatibilidad y de las resoluciones que determinen la incompatibilidad en los términos del artículo 14.4 de la Ley 1/2022, de 13 de abril, de transparencia y buen gobierno. Esta información se publicará desde el nombramiento, manteniéndose publicada hasta los tres años posteriores al cese. Se garantiza que la navegación por la información sea accesible y sencilla para facilitar al público el acceso y la transparencia.
+El contenido del extracto se determinará reglamentariamente, tendrá en cuenta la política de datos abiertos y deberá aprobarse en el plazo de un año a contar desde la entrada en vigor de esta ley.
+Tengase en cuenta que esta actualización del arículo, establecida por el art. 7 de la Ley 4/2024, de 26 de julio Ref. BOE-A-2024-20162, no entra en vigor hasta que lo haga el reglamento de desarrollo de la presente Ley, según determina en su disposición final unica.
+ Redacción anterior:
+ "En el Portal de Transparencia de la Generalitat o, en su caso, en el portal correspondiente de las entidades del sector público instrumental, se publicará y mantendrá actualizada información de la actividad de la Oficina de Control de Conflictos de Intereses, que necesariamente incluirá las memorias anuales presentadas a las Corts Valencianes. También se publicará la relación completa de las declaraciones de actividades presentadas por cada persona que ocupe un cargo público no electo comprendido en el artículo 2, además de las resoluciones de compatibilidad y de las resoluciones que determinen la incompatibilidad. Esta información se publicará desde el nombramiento, manteniéndose publicada hasta los tres años posteriores al cese. Se garantiza que la navegación por la información sea accesible y sencilla para facilitar al público el acceso y la transparencia."
+Se modifica por el art. 7 de la Ley 4/2024, de 26 de julio. Ref. BOE-A-2024-20162
+ Tengase en cuenta que, según se establece en su disposición final única, esta modificación no entra en vigor hasta que lo haga el reglamento de desarrollo de la presente Ley.
+ Se modifica por el art. 98 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+
+### Artículo 20
+
+Artículo 20. Accesibilidad para denunciar.
+La Oficina de Control de Conflictos de Intereses dispondrá de procedimientos y canales confidenciales para que terceras personas puedan informar de posibles casos de incumplimiento de esta ley garantizando su confidencialidad, siempre con respeto a lo que prevé la Ley orgánica 15/1999, de protección de datos de carácter personal, y sin perjuicio de lo que se dispone en la Ley de enjuiciamiento criminal, así como de los órganos de control, prevención y lucha contra el fraude y la corrupción existentes.
+
+### Disposición adicional única
+
+Disposición adicional única. Aplicación subsidiaria del Real decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto básico del Empleado Público.
+Para lo no previsto en la presente ley, se aplicarán las disposiciones del Real decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público y la normativa valenciana referente a la función pública regulada en la Ley 10/2010, de 9 de julio, de la Generalitat, de la ordenación y gestión de la función pública valenciana.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+En el plazo de un mes desde la aprobación del reglamento que desarrolle esta ley toda la información y documentación en poder del Registro de Actividades y de Bienes y Derechos Patrimoniales de Altos Cargos de la Generalitat se integrará en el Registro de Control de Conflictos de Intereses. El personal que cumpla los requisitos de esta ley pasará igualmente en este plazo a prestar servicio en el nuevo Registro de Control de Conflictos de Intereses y garantizará su buen funcionamiento y su transparencia.
+El Registro de Control de Conflictos de Intereses estará adscrito a la conselleria que tenga atribuidas las competencias en materia de transparencia.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de un mes desde la aprobación del reglamento que desarrolle esta ley las personas enumeradas en el artículo 2 en el momento de entrada en vigor de este texto legal, deberán realizar la preceptiva declaración de actividades, bienes y patrimonio ante el Registro de Control de Conflictos de Intereses tal como se establece en el artículo 12.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas todas las normas que se opongan a esta ley.
+
+### Disposición final primera
+
+Disposición final primera.
+1. En el plazo de seis meses desde su entrada en vigor, el Consell regulará los mecanismos y procedimientos por los que la Oficina de Control de Conflictos de Intereses pueda desarrollar sus funciones, y la dotará de recursos y de personal técnico cualificado suficiente para el cumplimiento de lo que dispone esta ley.
+2. El Consell desarrollará reglamentariamente las prescripciones contenidas en esta ley en el plazo de un año desde que se apruebe.
+3. En el plazo de un año desde la entrada en vigor de esta ley se creará la web que habilite la posibilidad de recibir información de casos de incumplimientos de esta ley de personas sin identificar, para garantizar su intimidad y la protección de datos de la persona afectada.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Las personas incluidas en el ámbito subjetivo de aplicación de esta ley que en el momento de la entrada en vigor se encuentren en alguna de las situaciones de incompatibilidad durante el ejercicio del cargo deberán adaptar su situación en el plazo de seis meses desde la entrada en vigor de la ley y comunicar a la Oficina de Control de Conflictos de Intereses la situación incompatible y las actuaciones realizadas para retornar a la situación de compatibilidad legal.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Esta ley entrará en vigor al día siguiente de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+### [firma]
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+Valencia, 28 de octubre de 2016.
+El President de la Generalitat,
+Ximo Puig i Ferrer.

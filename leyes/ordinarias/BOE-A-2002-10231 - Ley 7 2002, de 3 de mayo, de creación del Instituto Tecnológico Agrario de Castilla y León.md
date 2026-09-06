@@ -1,0 +1,284 @@
+# Ley 7/2002, de 3 de mayo, de creación del Instituto Tecnológico Agrario de Castilla y León.
+
+- Identificador BOE: `BOE-A-2002-10231`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-10231
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 16.4 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Ley Orgánica 4/1983, de 25 de febrero, por la que se aprueba el Estatuto de Autonomía de Castilla y León establece actualmente en su artículo 32.1.1.ala competencia exclusiva de la Comunidad Autónoma en materia de «organización, régimen y funcionamiento de sus instituciones de autogobierno».
+El artículo 32.1.7.ª recoge la competencia exclusiva de la Comunidad Autónoma en materia de «agricultura, ganadería e industrias agroalimentarias, de acuerdo con la ordenación general de la economía».
+El apartado 17.º de este mismo artículo recoge la competencia exclusiva de la Comunidad Autónoma en materia de «investigación científica y técnica, en coordinación con la general del Estado». Por otra parte el apartado 21.o del artículo señalado recoge idéntico nivel competencial respecto «a la creación y gestión de un sector público regional propio de Castilla y León».
+En el marco definido por los preceptos anteriores, es necesario adecuar las fórmulas operativas del ejercicio de las competencias afectadas, al objeto de facilitar los esfuerzos del Sector Agrario y Agroalimentario de Castilla y León para situarse en el nivel de competitividad y calidad obligado por la evolución de la Política Agraria Común de la Unión Europea y las tendencias del comercio mundial de las producciones alimentarias. En ese sentido, las áreas de investigación y difusión de nuevas tecnologías y productos, de promoción de iniciativas vinculadas a nuevos campos de actividad, de certificación de la calidad alimentaria y de la adecuación y modernización de la infraestructura territorial agraria, que adquieren una especial relevancia en orden a asegurar la obligada eficacia del conjunto del sistema productivo regional, exigen fórmulas de gestión específicas y diferenciadas de las habituales de la Administración Pública, por mor de las siguientes componentes básicas de su actividad:
+Alto nivel de especialización tecnológica de las funciones y los empleados públicos afectados.
+Prolongados períodos de maduración y desarrollo de determinados objetivos particulares.
+Notable flexibilidad en las capacidades de actuación para dar respuesta con rapidez y adecuación a la problemática específica de las distintas posibilidades de actuación.
+Implicación o participación destacada de los afectados por los correspondientes procesos de desarrollo, que devienen ineficaces, si aquellos no comparten mayoritariamente los objetivos y los criterios que los orientan.
+La modalidad organizativa vigente de las actividades señaladas sometidas íntegramente al Derecho Administrativo y a las pautas de funcionamiento de una Administración General, no se ha mostrado suficientemente apta para gestionar procesos que pueden generar un voluminoso tráfico jurídico y económico con terceros, requiere formas ágiles y especializadas de gestión de personal y exige o puede exigir conciertos con empresas o acudir a fuentes de financiación mixtas en el seno de fórmulas de gestión sometidas al derecho privado.
+Tales circunstancias han venido inclinando a las diversas Administraciones Públicas de ámbito estatal competentes en esta materia, a generar Organismos (actual INIA, o antiguo IRYDA) que al igual que las variadas entidades configuradas en diversas Comunidades Autónomas, tienen en común la de poseer una personalidad jurídica diferenciada de la de su Administración General, acudiendo a distintas fórmulas de personificación vinculadas al Derecho Público o al Derecho Privado.
+La presente Ley, al objeto de atender aquellas funciones y objetivos establece el Instituto Tecnológico Agrario como Ente Público de Derecho Privado, teniendo en cuenta por un lado las características técnico-económicas fundamentales de su actividad, bien delimitadas respecto de las de acusado perfil administrativo que caracterizarían a los Órganos Autónomos. Por otro, se considera que al ser la Comunidad Autónoma el único titular de la entidad, no alcanzaría su pleno sentido la constitución de una Sociedad Pública. Además el Instituto, aun cuando su actividad estará regida en buena medida por el Derecho Privado, precisará desarrollar determinadas funciones y ejercitar, aunque fuere en forma limitada, potestades públicas a las que les resulta aplicable el Derecho Público.
+El Ente que se crea en esta Ley, integrará los distintos Centros Tecnológicos especializados que actualmente existen en la Consejería de Agricultura y Ganadería, así como distintos Servicios y unidades de su actual estructura administrativa. Tiene como objetivos fundamentales impulsar el desarrollo tecnológico y la dinamización de iniciativas que comporten nuevas orientaciones productivas o de adecuación al mercado y a sus exigencias, pudiendo actuar como medio propio de la Administración en áreas básicamente tecnológicas como lo son la investigación, la certificación de la calidad, el desarrollo de infraestructuras o la promoción de iniciativas de desarrollo específicas.
+La presente Ley se estructura en dos Títulos, tres Disposiciones Adicionales, siete Disposiciones Transitorias y dos Disposiciones Finales.
+En el Título I se crea el Ente Público, se fijan sus objetivos, fines, facultades, se establece su régimen jurídico, recursos, patrimonio, presupuesto, las fórmulas de aprobación y libramiento de fondos, así como los sistemas de control del mismo, la cooperación con la Administración de la Comunidad Autónoma de Castilla y León y las fórmulas de recurso contra los actos del Instituto. El Título II trata de la dirección y personal del Instituto. En él se establece además del Consejo del Instituto, un Consejo Asesor que asegura la participación de los afectados.
+Las disposiciones adicionales y transitorias establecen las diversas medidas vinculadas a la adecuación de las estructuras administrativas de la Consejería de Agricultura y Ganadería, así como del personal afectado por la creación del Ente Público, señalando fórmulas de gestión para los períodos en que el Instituto no disponga de medios.
+En las disposiciones finales se faculta a la Junta de Castilla y León para dictar las disposiciones precisas para el desarrollo reglamentario y la entrada en funcionamiento efectivo del Instituto y la Ley.
+
+## TÍTULO I
+
+### Artículo 1
+
+Artículo 1. Creación del Instituto Tecnológico Agrario de Castilla y León.
+Se crea el Instituto Tecnológico Agrario de Castilla y León (en adelante, Instituto), como ente público que se rige fundamentalmente por el derecho privado, dotado de personalidad jurídica, patrimonio propio, administración autónoma y plena capacidad de obrar para el ejercicio de sus competencias y de las actuaciones que se le encomiendan.
+Se modifica por la disposición final 7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+
+### Artículo 2
+
+Artículo 2. Objetivos, competencias y funciones.
+1. El Instituto tendrá a su cargo los objetivos propios de la Comunidad Autónoma de potenciar la actividad del sector agrario y de sus industrias de transformación, mediante el impulso del desarrollo tecnológico y la dinamización de iniciativas que comporten nuevas orientaciones productivas o de adecuación al mercado y a sus exigencias de calidad y competitividad.
+2. Corresponden al Instituto las siguientes competencias:
+a) El desarrollo de las zonas regables, en lo que respecta a las infraestructuras de nuevos regadíos y modernización de los existentes.
+b) La tecnología de la información y base cartográfica aplicada al sector agrario y agroalimentario.
+c) La investigación aplicada y desarrollo tecnológico en el sector agrario y agroalimentario.
+d) La investigación orientada hacia la seguridad de las materias primas alimentarias.
+e) Las figuras de calidad diferenciada de productos agroalimentarios de Castilla y León. En este ámbito ejercerá las competencias relativas al desarrollo de trabajos de certificación directa, al control oficial y a la condición de autoridad competente en dicha materia, así como la condición de órgano de homologación y control de las distintas entidades de certificación que operen en la Comunidad de Castilla y León. El Instituto actuará como auditor externo de las Asociaciones, Consejos y demás entidades titulares de figuras de calidad que lo demanden o precisen a los efectos de aseguramiento de la calidad establecidos en la normativa específica.
+f) La promoción de los productos agroalimentarios de Castilla y León, sin perjuicio de las competencias que en este mismo ámbito pueda ejercer la consejería competente en materia agraria y agroalimentaria.
+g) Cualquier otra que en el ámbito de las competencias a que se refieren las letras anteriores resulte de la legislación aplicable.
+3. Asimismo, el Instituto actuará como medio propio de la Administración en la ejecución de las actividades especializadas por su naturaleza tecnológica y económica que le sean encomendadas en los siguientes grupos de materias:
+a) Infraestructuras y actuaciones sobre el territorio de interés general agrario.
+b) Tecnología de la información y base cartográfica.
+c) Operaciones concretas de desarrollo en las que se den las circunstancias de interés territorial o estratégico, insuficiente participación de los agentes económicos y necesidad de estructurar o reestructurar un ámbito productivo vinculado al sector agrario.
+Se modifica por la disposición final 7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añade un guión al apartado 2.1 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfsegunda
+
+### Artículo 3
+
+Artículo 3. Facultades del Instituto.
+En el ejercicio de sus competencias y funciones, para el cumplimiento de sus objetivos, el Instituto podrá:
+a) Realizar toda clase de actividades económicas y financieras sin más limitaciones que lo dispuesto en esta ley y en las disposiciones que le sean de aplicación. Podrá celebrar todo tipo de contratos, presar servicios, otorgar avales dentro del límite máximo fijado por la Ley de Presupuestos Generales de la Comunidad de cada ejercicio, contraer y conceder préstamos y, así mismo dentro de los límites que fije dicha ley, promover sociedades mercantiles o participar en sociedades ya constituidas y en entidades sin ánimo de lucro.
+b) Realizar y contratar obras, estudios, asesoramientos y trabajos técnicos.
+c) Suscribir convenios con Administraciones Públicas y empresas e instituciones públicas y privadas.
+d) Conceder subvenciones.
+e) Obtener subvenciones y garantías de la Comunidad de Castilla y León y de otras entidades e instituciones públicas.
+f) Asesorar en temas de investigación, desarrollo e innovación a los órganos dependientes de la Comunidad de Castilla y León, de la Administración del Estado y a las empresas del sector agrario que lo soliciten.
+g) Establecer fórmulas específicas de reclutamiento, formación y actualización del personal investigador, así como las de intercambio con otros centros de investigación.
+h) Desarrollar trabajos en colaboración con empresas o entidades, dentro del ámbito de protección de la propiedad intelectual y patentes que se convengan.
+i) Desarrollar las actuaciones estructurales en materia de infraestructuras de regadíos en el marco de la planificación general de infraestructuras agrarias de la consejería competente en materia agraria.
+Se modifica por la disposición final 7 de la Ley 2/2017, de 4 de julio. Ref. BOE-A-2017-9778
+ Se añaden dos guiones al apartado 3.4 por la disposición final 2 de la Ley 1/2014, de 19 de marzo. Ref. BOE-A-2014-3562#dfsegunda
+ Se modifica el apartado 1.1 por la disposición final 4 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 4
+
+Artículo 4. Régimen jurídico.
+1. El Instituto se regirá:
+a) Por la presente Ley y sus normas de desarrollo.
+b) Por la Ley de la Hacienda de la Comunidad en las aspectos en los que le sea aplicable.
+c) Por la legislación especial aplicable a sus fines y funciones.
+d) Por el ordenamiento jurídico privado en sus relaciones con terceros y en la contratación, con las excepciones previstas en la presente Ley y con los condicioamientos que reglamentariamente puedan establecerse.
+2. Los actos y resoluciones de carácter administrativo dictados por el Instituto en relación con sus funciones estarán sujetos a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y serán recurribles ante el Consejero de Agricultura y Ganadería.
+Las reclamaciones previas a la vía judicial, civil o laboral, serán resueltas por el Director del Instituto.
+3. La contratación del Instituto se ajustará a los principios de publicidad, concurrencia y salvaguardia del interés público y de la Entidad, que se determinan en la legislación de contratos de las Administraciones Públicas.
+
+### Artículo 5
+
+Artículo 5. Régimen económico.
+Los recursos económicos del Instituto son:
+a) Las consignaciones presupuestarias que le sean asignadas por los Presupuestos Generales de la Comunidad.
+b) Los ingresos que pueda percibir por la prestación de servicios.
+c) Las tasas propias de la Comunidad que le corresponda exigir.
+d) Los derivados de convenios, subvenciones o aportaciones voluntarias de administraciones, entidades o particulares.
+e) Los rendimientos que genere su patrimonio.
+f) Los créditos, préstamos y demás operaciones financieras que concierte.
+g) Los rendimientos económicos que le produzcan la venta o cesión de sus estudios, trabajos técnicos y publicaciones.
+h) Cualesquiera otros que legítimamente pueda percibir.
+Se modifica por el art. 5 de la Ley 1/2023, de 24 de febrero. Ref. BOE-A-2023-6456
+
+### Artículo 6
+
+Artículo 6. Patrimonio del Instituto Tecnológico Agrario de Castilla y León.
+1. El patrimonio del Instituto está constituido por los bienes y derechos que adquiera y por los que le sean adscritos.
+2. Reglamentariamente podrá establecerse la necesidad de autorización previa de la Junta de Castilla y León para la adquisición de acciones de sociedades, en un porcentaje que no exceda el cincuenta por ciento de éstas.
+3. El Instituto ejercerá cuantos derechos y prerrogativas relativos al dominio público se encuentren legalmente establecidos a efectos de la conservación, la correcta administración y la defensa de dichos bienes.
+4. El Instituto formará y mantendrá actualizado su inventario de bienes y derechos, tanto propios como adscritos, con excepción de los de carácter fungible.
+5. La administración y gestión del patrimonio del Instituto corresponde a sus órganos de dirección, de conformidad con lo establecido en esta ley y en sus normas de desarrollo.
+Se modifica por la disposición final 3 de la Ley 11/2006, de 26 de octubre. Ref. BOE-A-2006-21908#df-3
+
+### Artículo 7
+
+Artículo 7. Presupuesto del Instituto.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 8
+
+Artículo 8. Aprobación de gastos.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 9
+
+Artículo 9. Libramiento de fondos.
+Los fondos correspondientes a la aportación de la Comunidad al presupuesto del Instituto se librarán en firme y por meses anticipados, de acuerdo con lo establecido en la Ley de Presupuestos Generales de la Comunidad para cada ejercicio.
+
+### Artículo 10
+
+Artículo 10. Contabilidad.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 11
+
+Artículo 11. Control financiero.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 12
+
+Artículo 12. Control de eficacia.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 13
+
+Artículo 13. Control por las Cortes de Castilla y León.
+1.(Derogado).
+2. El Director general del Instituto presentará ante las Cortes de Castilla y León una Memoria durante el primer periodo de sesiones de cada año describiendo el cumplimiento de los objetivos programados y los resultados de las actuaciones realizadas durante el año vencido, para su debate en las Cortes.
+Se deroga el apartado 1 por la disposición derogatoria de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 14
+
+Artículo 14. Adscripción.
+1. El Instituto se adscribe a la Consejería competente en materia de agricultura.
+2. Reglamentariamente se determinarán los Centros Tecnológicos de la Consejería de Agricultura y Ganadería así como las unidades de investigación, de administración y los servicios técnicos que se integrarán en el Instituto.
+Se modifica el apartado 1 por el art. 47.1 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 15
+
+Artículo 15. Colaboración entre el Instituto y la Administración de la Comunidad.
+1. La Administración General de la Comunidad y el Instituto deberán cooperar, facilitarse información y prestarse asistencia recíproca. Podrán suscribirse convenios para definir formas concretas de colaboración.
+2. La Consejería de Agricultura y Ganadería prestará apoyo técnico y administrativo al Instituto.
+3. La representación y defensa en juicio del Instituto, así como su asesoramiento jurídico interno corresponde a los Letrados integrados en los Servicios Jurídicos de la Comunidad Autónoma.
+
+## TÍTULO II
+
+Dirección y personal del Instituto
+
+### Artículo 16
+
+Artículo 16. Órganos de Dirección del Instituto.
+Los órganos de dirección del Instituto serán:
+a) El Consejo del Instituto.
+b) El Director general del Instituto.
+
+### Artículo 17
+
+Artículo 17. Consejo del Instituto.
+1. Es el órgano superior de dirección del Instituto y estará constituido por un presidente, uno o varios vicepresidentes y los vocales que se determinen reglamentariamente. Del mismo modo se establecerá la forma de designación de los miembros del Consejo y sus respectivas atribuciones.
+2. Al Consejo del Instituto le corresponderán los siguientes cometidos:
+a) Aprobar los planes, directrices y los anteproyectos de presupuestos anuales del Instituto.
+b) Aprobar el precio y condiciones de adquisición, enajenación y permuta de bienes y derechos, así como la constitución o participación en sociedades, cuando el valor de los mismos supere los cincuenta millones de pesetas.
+c) Conocer e informar la Memoria anual que, sobre las actuaciones del Instituto, debe elevarse a la Junta de Castilla y León, para su remisión a las Cortes.
+d) Aprobar la organización interna del Instituto y el establecimiento de unidades de ámbito territorial.
+e) Aprobar el catálogo de la plantilla de personal, la oferta de empleo del Instituto y sus modificaciones, así como los criterios básicos del proceso de selección y reclutamiento del personal, de acuerdo con las disposiciones reglamentarias.
+f) Adoptar las medidas que se estimen convenientes para el control y funcionamiento de las actividades del Instituto.
+Se modifica el apartado 1 por la disposición final 4.2 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+ Se modifica el apartado 1 por el art. 47.2 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 18
+
+Artículo 18. Director general del Instituto.
+1. Al frente del Instituto existirá un Director general que será designado y separado libremente por la Junta de Castilla y León, a propuesta del Consejero de Agricultura y Ganadería.
+2. Al Director General del Instituto le corresponde:
+a) Adoptar los acuerdos y resoluciones procedentes, en el ámbito de sus competencias.
+b) Elaborar el anteproyecto de presupuesto y plan de actuaciones anuales.
+c) Administrar el patrimonio y representar judicial y extrajudicialmente al Instituto.
+d) Ejercer la dirección del personal, salvo que reglamentariamente se atribuya a otro órgano, y de los servicios y actividades del Instituto.
+e) Contratar al personal dentro de los límites del catálogo y los criterios del proceso de selección aprobados, salvo que reglamentariamente se atribuya a otro órgano.
+f) Delegar el ejercicio de sus atribuciones en los cargos jerárquicamente inferiores, cuando existan circunstancias de índole técnica, económica, social, jurídica o territorial que lo hagan conveniente.
+g) Cualquier otra función que se le atribuya reglamentariamente.
+Se modifica el apartado 2 por la disposición final 4.3 de la Ley 10/2009, de 17 de diciembre. Ref. BOE-A-2010-564
+
+### Artículo 19
+
+Artículo 19. Consejo Asesor.
+(Derogado).
+Se deroga por la disposición derogatoria única.2m) de la Ley 5/2014, de 11 de septiembre. Ref. BOE-A-2014-9959
+
+### Artículo 20
+
+Artículo 20. El personal del Instituto.
+1. El personal propio del Instituto será contratado en régimen de derecho laboral. No obstante, aquellos puestos de trabajo que por razón del ejercicio de potestades públicas se precise que sean ocupados por funcionarios serán cubiertos de conformidad con la legislación funcionarial vigente.
+2. El personal laboral fijo, destinado en los Centros Tecnológicos Agrarios y en los Servicios y Unidades de la Consejería de Agricultura y Ganadería que reglamentariamente se determinen, que se integre en las plantillas de personal laboral del Instituto, quedará en sus categorías profesionales de origen en la situación de excedencia voluntaria por incompatibilidad.
+La antigüedad le será computada desde la firma de su contrato laboral con el Instituto Tecnológico Agrario de Castilla y León. No obstante, a efectos de retribuciones se le computarán los años de servicios en los órganos de la Administración.
+3. El personal funcionario, destinado en los Centros Tecnológicos Agrarios y en los Servicios y Unidades de la Consejería de Agricultura y Ganadería que reglamentariamente se determinen, que se integre en las plantillas de personal laboral del Instituto, quedará en sus cuerpos de origen en la situación de excedencia voluntaria por prestación de servicios en el sector público.
+La antigüedad le será computada desde la firma de su contrato laboral con el Instituto Tecnológico Agrario de Castilla y León. No obstante, a efectos de retribuciones se le computarán los años de servicios en los órganos de la Administración.
+4. Las retribuciones del personal propio del Instituto se ajustarán a lo que se establezca en sus Presupuestos.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La Administración de la Comunidad reorganizará aquellos centros directivos y unidades administrativas que tengan atribuidas funciones similares a las que se encomienden al Instituto a fin de que no se produzca duplicidad de competencias.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La modificación de la naturaleza jurídica del Instituto y su extinción se hará mediante Ley, que en este último caso establecerá el modo en que sus órganos continuarán desempeñando sus funciones hasta la total liquidación.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+En el momento en que el Instituto comience a realizar actuaciones que hasta entonces viniera llevando a cabo la Administración General de la Comunidad, la Junta de Castilla y León le transferirá la dotación precisa, en cuantía suficiente, de los correspondientes programas presupuestarios.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+El personal funcionario y laboral fijo adscrito a los Centros, Servicios y Unidades que se integren en el Instituto podrá optar, durante el plazo de un año a partir de la entrada en vigor de la norma reglamentaria establecida en el artículo 14.2 de esta Ley, por integrarse en las plantillas del personal propio del Instituto o ser destinado en órganos de la Administración General.
+La Junta de Castilla y León, finalizado el plazo establecido en el párrafo anterior, modificará la relación de puestos de trabajo del personal funcionario y del personal laboral de la Consejería de Agricultura y Ganadería, a efectos de reubicar a todo el personal funcionario y laboral destinado en los Centros Tecnológicos Agrarios y en las Unidades y Servicios Integrados en el Instituto, que no haya formalizado contrato laboral con éste.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Hasta que el Instituto disponga de personal y locales propios suficientes para desarrollar plenamente funciones que venga desempeñando la Consejería de Agricultura y Ganadería, ésta facilitará los recursos humanos necesarios entre el personal de sus servicios centrales y periféricos.
+Los funcionarios que, en tales circunstancias, pasen a prestar sus servicios en el Instituto, continuarán en la misma situación administrativa en que se encuentren en dicho momento.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Hasta que el Instituto esté efectivamente constituido, la Consejería de Agricultura y Ganadería realizará todas las gestiones que sean necesarias para el comienzo de su funcionamiento efectivo, pudiendo actuar en su nombre y por su cuenta.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Dado que el presupuesto del Instituto es anual, para ajustarlo a la fecha de entrada en vigor de la presente Ley, la Junta de Castilla y León autorizará las operaciones necesarias dirigidas al cumplimiento de lo establecido en la misma a propuesta de la Consejería de Economía y Hacienda.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+El Instituto se subrogará, de conformidad con la presente Ley, en la posición jurídica de la Consejería de Agricultura y Ganadería en los convenios concertados con otras entidades en materia de investigación agraria. Disposición transitoria sexta.
+El Instituto se subrogará en los derechos y las obligaciones de las unidades de la Consejería de Agricultura y Ganadería que se integran en él.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+Las unidades administrativas que se integren en el Instituto continuarán ejerciendo sus funciones mientras no se apruebe su organización interna, pero se han de someter a los órganos de dirección del Instituto previstos en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+La Junta de Castilla y León, a propuesta del Consejero de Agricultura y Ganadería, aprobará el Reglamento del Instituto y determinará el momento del comienzo de su funcionamiento efectivo en el plazo máximo de seis meses a partir de la fecha de entrada en vigor de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Castilla y León».
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Valladolid, 3 de mayo de 2002.
+JUAN VICENTE HERRERA CAMPO,
+Presidente

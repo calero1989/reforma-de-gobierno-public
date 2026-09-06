@@ -1,0 +1,138 @@
+# Ley 5/1979, de 18 de septiembre, sobre reconocimiento de pensiones, asistencia médico-farmacéutica y asistencia social en favor de las viudas, hijos y demás familiares de los españoles fallecidos como consecuencia o con ocasión de la pasada guerra civil.
+
+- Identificador BOE: `BOE-A-1979-23317`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1979-23317
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+Causan derecho a las prestaciones reguladas en esta Ley:
+Uno. Los que hubieran fallecido durante la guerra:
+a) En acción bélica tuvieran o no la condición de combatientes.
+b) Por condena, acción violenta o en situación de privación de libertad.
+c) Por enfermedad o lesión originadas asimismo en acción bélica o situación de privación de libertad.
+Dos. Los que hubieran fallecido después de la guerra:
+a) Por heridas, enfermedad o lesión accidental originadas como consecuencia de la guerra.
+b) Por condena, acción violenta o en situación de privación de libertad, motivadas por su participación en la guerra.
+c) Como consecuencia de actuaciones u opiniones políticas y sindicales, cuando pueda establecerse asimismo una relación de causalidad personal y directa entre la Guerra Civil y el fallecimiento.
+Tres. Los desaparecidos en el frente o en otro lugar, cuando pueda establecerse una presunción de fallecimiento por las causas enunciadas en los párrafos uno, b), y dos, b), de este artículo.
+Cuatro. Quienes hubieran causado pensión con motivo de acontecimientos bélicos anteriores a mil novecientos treinta y seis, cuando el disfrute o inicio da tramitación suficientemente acreditado de dicha pensión hubiera quedado interrumpido con motivo de la guerra de mil novecientos treinta y seis-treinta y nueve.
+Se modifica el apartado 2.a) y c) por el art. 5.1 de la Ley 52/2007, de 26 de diciembre. Ref. BOE-A-2007-22296
+ Esta modificación tiene efectos desde el 1 de enero de 2008, según establece el art. 5.2.
+
+### Artículo segundo
+
+Artículo segundo.
+Tendrán derecho a la pensión regulada por esta Ley, siempre que reúnan las condiciones exigidas por la legislación general sobre Clases Pasivas, las viudas, en su defecto los hijos incapacitados, las hijas solteras o viudas y los padres.
+
+### Artículo tercero
+
+Artículo tercero.
+La acción protectora reconocida por esta ley comprenderá:
+a) Pensiones vitalicias de viudedad, de orfandad o en favor de los familiares del causante.
+b) Asistencia médico-farmacéutica en caso de enfermedad o accidente del beneficiario, en los mismos términos y condiciones que los pensionistas del Régimen General de la Seguridad Social.
+c) Servicios sociales en los términos previstos para los pensionistas del mencionado Régimen General, y especialmente el acceso a las Residencias y Hogares del Servicio Social de Asistencia a Pensionistas de la Seguridad Social en igualdad de derechos con los pensionistas de ésta.
+La asistencia a que se refieren los apartados b) y c), precedentes no alcanzará a las hijas solteras o viudas mayores de dieciocho años, ni a los beneficiarios que ya sean titulares de dichos derechos en el sistema de la Seguridad Social.
+Las pensiones reconocidas al amparo de la presente Ley serán compatibles con cualesquiera otras que puedan percibirse del Estado, Provincia, Municipio, Seguridad Social o de otros Entes públicos o privados, siempre que no tengan fundamento en las mismas causas de las que por esta Ley se establecen.
+Se considerará que tiene fundamento en las mismas causas toda pensión derivada del fallecimiento del mismo causante y satisfecha con cargo a los Presupuestos del Estado y Entes territoriales o por el sistema de la Seguridad Social.
+Se modifica por el art. 2 de la Ley 42/1981, de 28 de octubre. Ref. BOE-A-1981-26085
+ Se añade el párrafo final por el art. 2 del Real Decreto-ley 8/1980, de 26 de septiembre. Ref. BOE-A-1980-21167
+
+### Artículo cuarto
+
+Artículo cuarto.
+Uno. Se fija la cuantía de la pensión en ocho mil ciento setenta y dos pesetas mensuales, abonándose en catorce mensualidades anuales.
+Dos. Las viudas, los hijos incapacitados desde antes de cumplir los veintitrés años de edad para atender a su subsistencia y los padres de los profesionales de las Fuerzas Armadas y de Órden Público, con los requisitos exigidos por la legislación general de Clases Pasivas, tendrán derecho a pensión equivalente al doscientos por ciento de la base reguladora que correspondería en la actualidad al causante, atendiendo a su graduación y años de servicio que tuviera en el momento de su fallecimiento. Para las huérfanas no incapacitadas desde antes de los veintitrés años, la pensión será del cien por cien de la base reguladora.
+Tres. Estas pensiones experimentarán las actualizaciones que para las de esta naturaleza se establecen en la legislación de Clases Pasivas del Estado o, en su caso, en la anual de Presupuestos Generales del Estado.
+La referida actualización no será de aplicación, salvo que expresamente se establezca lo contrario en las citadas leyes, a las pensiones que correspondan a las huérfanas mayores de veintitrés años no incapacitadas con anterioridad a dicha edad para ganarse el sustento y pobres en el concepto legal, con la única excepción de aquellas a quienes les sea de aplicación lo dispuesto en la legislación general de Clases Pasivas por el artículo cuarto de la Ley ochenta y dos/mil novecientos cincuenta y nueve, de veintitrés de diciembre, en razón de la fecha de ingreso del causante al servicio de la Administración.
+Se modifica por el art. 2 de la Ley 42/1981, de 28 de octubre. Ref. BOE-A-1981-26085
+ Se modifica el apartado 2 y se añade el párrafo final al 3 por el art. 2 del Real Decreto-ley 8/1980, de 26 de septiembre. Ref. BOE-A-1980-21167
+
+### Artículo quinto
+
+Artículo quinto.
+Los que se consideren con derecho a las pensiones que esta Ley establece lo solicitarán acompañando a tal efecto la documentación que estimen pertinente para fundamentar su derecho. A tal fin se aceptarán cualesquiera de los medios de prueba admitidos en derecho.
+Los titulares de los Registros Civiles deberán facilitar a los eventuales beneficiarios que lo soliciten copia literal del Acta de Defunción del causante, y, en caso de que no constara en el Registro, procederán a la inscripción fuera de plazo de acuerdo con las disposiciones de la Ley de Registro Civil, todo ello con carácter gratuito. Asimismo, los Secretarios de los Juzgados y Tribunales de la jurisdicción civil y militar deberán extender las certificaciones de sentencia relativas a los causantes que sean solicitadas por los eventuales beneficiarios.
+Las solicitudes deberán formularse por escrito, acompañadas de la documentación a que se refiere el párrafo precedente con anterioridad al día uno de julio de mil novecientos ochenta y uno, y deberán ser resueltos antes del treinta y uno de diciembre de mil novecientos ochenta y uno.
+Quienes, dentro de este plazo no hubieran solicitado la pensión, no se verán decaídos en su derecho, pero los efectos económicos sólo tendrán vigencia, a partir de la fecha de presentación de la correspondiente solicitud.
+Se modifica el párrafo tercero por el art. 2 de la Ley 42/1981, de 28 de octubre. Ref. BOE-A-1981-26085
+ Se modifica el párrafo tercero por el art. 2 del Real Decreto-ley 8/1980, de 26 de septiembre. Ref. BOE-A-1980-21167
+ Véase la Resolución de 18 de septiembre de 1980, Ref. BOE-A-1980-20244, sobre excepción realizada en la presentación de documentación.
+
+### Artículo sexto
+
+Artículo sexto.
+Las resoluciones de las peticiones tramitadas conforme reglamentariamente se establezca corresponderán a los órganos competentes del Ministerio de Hacienda.
+
+### Artículo séptimo
+
+Artículo séptimo.
+Las resoluciones de la concesión de pensión tendrán efectos económicos desde el día uno de mayo de mil novecientos setenta y seis.
+
+### Artículo octavo
+
+Artículo octavo.
+Las pensiones se financiarán con cargo a los créditos que a estos efectos se consignen en los Presupuestos Generales del Estado.
+El abono mensual de las pensiones se efectuará a través de los servicios del Ministerio de Hacienda, que, previa presentación de los títulos de los beneficiarios, procederán a practicar el alta en nómina, una vez recibida la correspondiente orden de pago.
+
+### Artículo noveno
+
+Artículo noveno.
+No obstará para la percepción de estas pensiones la pérdida de la nacionalidad española siempre que no se haya producido después de la entrada en vigor de esta disposición.
+
+## DISPOSICIONES FINALES
+
+### Primera
+
+Primera.
+Lo dispuesto en la presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### Segunda
+
+Segunda.
+Se faculta al Gobierno para dictar las disposiciones precisas para la ejecución y desarrollo de la presente Ley para adoptar las medidas orgánicas, funcionales y el procedimiento necesario para lograr una eficaz y rápida aplicación de sus preceptos.
+
+### Tercera
+
+Tercera.
+Se faculta al Ministerio de Hacienda para introducir en las plantillas orgánicas de sus servicios centrales y periféricos las modificaciones que resulten adecuadas, así como para crear los servicios y unidades necesarios para una eficaz y rápida aplicación de los derechos que reconoce esta Ley.
+
+### Cuarta
+
+Cuarta.
+Por el Ministerio de Hacienda se habilitarán los créditos necesarios, tanto para el pago de las pensiones que en esta Ley se reconocen como para atender al incremento de gasto que se pueda originar como consecuencia de la tramitación de los correspondientes expedientes de concesión de pensiones.
+
+### Quinta
+
+Quinta.
+Para lo no dispuesto expresamente en este texto será de aplicación con carácter supletorio la legislación general sobre Derechos Pasivos de los funcionarios civiles del Estado.
+
+## DISPOSICIÓN TRANSITORIA
+
+Las personas que sean beneficiarias de las prestaciones concedidas por el Real Decreto-ley treinta y cinco/mil novecientos setenta y ocho, de dieciséis de noviembre, o las que tengan en tramitación la concesión de las mismas, no tendrán que iniciar nuevo procedimiento para acogerse a los beneficios de esta Ley, procediéndose, sin más, a su reconocimiento de oficio en cuanto a las primeras, por los órganos competentes de la Administración Pública.
+
+## DISPOSICIÓN DEROGATORIA
+
+Quedan derogados el Real Decreto-ley treinta y cinco/mil novecientos setenta y ocho, de dieciséis de noviembre, por el que se conceden pensiones a los familiares de los españoles fallecidos como consecuencia de la guerra de mil novecientos treinta y seis-treinta y nueve, y todas las disposiciones, cualquiera que sea su rango, que se opongan a lo dispuesto en la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela a dieciocho de septiembre de mil novecientos setenta y nueve.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ
+
+##  [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que, con efectos de 6 de octubre de 2020, la Dirección General de Ordenación de la Seguridad Social asumirá las competencias en la gestión de las prestaciones reguladas en la presente Ley 5/1979, según establece la disposición adicional 8.5 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#da-8, en relación con la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2

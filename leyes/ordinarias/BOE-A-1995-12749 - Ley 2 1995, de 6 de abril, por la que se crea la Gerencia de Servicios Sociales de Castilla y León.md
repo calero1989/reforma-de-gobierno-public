@@ -1,0 +1,204 @@
+# Ley 2/1995, de 6 de abril, por la que se crea la Gerencia de Servicios Sociales de Castilla y León.
+
+- Identificador BOE: `BOE-A-1995-12749`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-12749
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICION DE MOTIVOS
+El punto de partida de los Servicios Sociales en la Comunidad Autónoma de Castilla y León, estructurados como un conjunto armónico, aparece con la publicación de la Ley 18/1988, de Acción Social y Servicios Sociales. En dicha Ley se delimita su objeto y ámbito de aplicación dando cabida en el mismo a las distintas admisiones locales, sistemas de participación, transferencias y delegación de competencias, entre otros títulos de la Ley.
+La asunción de transferencias de la Administración Central y sobre todo la incorporación a la Comunidad del Instituto Nacional de Servicios Sociales, aconseja la creación de una estructura administrativa acorde con sus necesidades, que permita un desarrollo adecuado en el paso de la Administración Central a la Autonómica.
+Dentro de los principios inspiradores de la Ley de Acción Social y Servicios Sociales, figura la descentralización de competencias y funciones como medio de acercar la Administración al ciudadano. Con esta norma se consigue transmitir una parte importante de bienes y servicios de la Administración Autonómica a las entidades locales, velando la Junta por el mejor desarrollo de los procesos de transferencias y por una adecuada gestión de los servicios.
+Por ello, queriendo dotar a la Administración de un instrumento acorde con las necesidades planteadas, se regula un ente institucional que, con plena sujeción a las normas de carácter general ordenadoras del funcionamiento de la Administración Pública, a la vez dote al ámbito funcional de los Servicios Sociales de los mecanismos adecuados para responder a las demandas sociales con respuestas rápidas y eficaces.
+La finalidad de esta norma es la creación de un organismo autónomo de carácter administrativo que permita una gestión homogénea basada en los principios de economía, eficacia, descentralización y participación de los interesados, a la vez que se consiga la integración de los centros y servicios en materia de Servicios Sociales.
+La Ley recoge en sus artículos 1 a 5, la naturaleza jurídica de la Gerencia y su adscripción, funciones y competencias, órganos rectores, composición, funciones y órganos de participación, por medio de este articulado, se estructura no sólo el carácter del organismo que desde el principio se declara público, si no que dentro de su independencia para el desarrollo de sus funciones, se somete a la decisión superior de un órgano colegiado como el Consejo de Administración.
+Los artículos 6 al 12 desarrollan los medios económicos y personales con los que cuenta la Gerencia de Servicios Sociales, introduce una explicación en materia de personal demostrativa de la voluntad de la Comunidad por realizar la incorporación de personal de la forma menos traumática posible. El sistema de tesorería, la actividad interventora y contable y la asesoría jurídica vienen a determinar el interés que se persigue que no es otro que una mayor agilidad administrativa pero dentro de los cauces y con el sometimiento a la normativa vigente.
+
+### Artículo 1
+
+Artículo 1. Creación.
+Se crea la Gerencia de Servicios Sociales de Castilla y León como organismo autónomo de carácter administrativo, dotado de personalidad jurídica propia y plena capacidad de obrar, al que corresponde la ejecución de las competencias de administración y gestión de los centros, servicios y programas sociales que le encomiende la Junta de Castilla y León.
+La Gerencia de Servicios Sociales está adscrita a la Consejería competente en materia de servicios sociales.
+Se modifica el segundo párrafo por el art. 44 de la Ley 13/2003, de 23 de diciembre. Ref. BOE-A-2004-806
+
+### Artículo 2
+
+Artículo 2. Funciones, competencias y actividades.
+Corresponde a la Gerencia:
+a) La organización, gestión, desarrollo, control y coordinación de centros, establecimientos, prestaciones y programas de Servicios Sociales, según se establece en el artículo 32 de la Ley 18/1988, de Acción Social y Servicios Sociales, que le sean encomendados por la Junta de Castilla y León.
+b) El desarrollo de las actividades, actuaciones y programas que establecidas en los Planes Regionales de Servicios Sociales, le encomiende la Junta de Castilla y León.
+c) Cualquier otra que le pudiera ser encomendada por la Junta de Castilla y León y la Consejería de Sanidad y Bienestar Social en materia de servicios sociales.
+
+### Artículo 3
+
+Artículo 3. Órganos rectores.
+Son órganos rectores de la Gerencia:
+El Consejo de Administración.
+El Presidente del Consejo de Administración.
+El Gerente.
+Se modifica por el art. 7.1 de la Ley 11/1997, de 26 de diciembre. Ref. BOE-A-1998-5713
+
+### Artículo 4
+
+Artículo 4. Nombramiento, composición y funciones.
+1. El Consejo de Administración es el órgano superior colegiado de gobierno y dirección de la Gerencia y estará formado por los siguientes miembros:
+a) Presidente: El Consejero de Sanidad y Bienestar Social.
+b) Vicepresidente: El Secretario General de la Consejería de Sanidad y Bienestar Social.
+c) Vocales:
+El Gerente de Servicios Sociales.
+El Director Gerente de la Gerencia Regional de Salud.
+Un representante de la Dirección General de Presupuestos y Fondos Comunitarios.
+Un representante de la Dirección General de la Función Pública.
+Cuatro representantes de la Consejería de Sanidad y Bienestar Social.
+Dos representantes de la Federación Regional de Municipios y Provincias.
+Dos representantes de las organizaciones sindicales más representativas.
+Dos representantes de las organizaciones Empresariales más representativas.
+d) Secretario: Un técnico destinado en la Gerencia, que actuará con voz pero sin voto.
+1.1 Los Vocales y el Secretario serán nombrados y cesados por el Presidente del Consejo de Administración, a propuesta de cada uno de los Consejeros o entidades representadas.
+1.2 El mandato de los miembros del Consejo de Administración que no lo sean por razón de su cargo, deberá ser renovado cada cuatro años, pudiendo ser reelegidos. No obstante los vocales designados podrán ser sustituidos a propuesta de los Consejeros o entidades representadas, permaneciendo el sustituto en el cargo el tiempo que restare al miembro sustituido para el cumplimiento del período de cuatro años.
+1.3 Son funciones del Consejo de Administración:
+a) Establecer criterios de actuación de la Gerencia, conforme a la política de Servicios Sociales definida por la Junta de Castilla y León y la Consejería de Sanidad y Bienestar Social.
+b) Aprobar, a propuesta del Gerente, la programación anual de la Gerencia.
+c) Aprobar, a propuesta del Gerente, el anteproyecto de presupuesto anual de la Gerencia.
+d) Aprobar la memoria anual de gestión.
+e) Adoptar las medidas que estime convenientes para el control y funcionamiento de la Gerencia de Servicios Sociales.
+f) Proponer las tarifas y precios públicos que sean aplicables a los servicios prestados por la Gerencia.
+g) Proponer para su aprobación por los órganos competentes de la Junta de Castilla y León las relaciones de puestos de trabajo de la Gerencia.
+h) Elaborar y aprobar el Reglamento interno de funcionamiento.
+2. El Presidente del Consejo de Administración de la Gerencia de Servicios Sociales de Castilla y León tiene atribuida su alta dirección, impulsa la actuación de los distintos órganos que la integran y ostenta la representación superior de la Gerencia. Le corresponde en particular actuar como órgano de contratación de la Gerencia y autorizar gastos y ordenar pagos en ejecución de su presupuesto; las anteriores funciones podrán ser objeto de desconcentración o de delegación en el Gerente.
+3. El Gerente es el órgano unipersonal para la dirección y gestión operativa de la Gerencia de Servicios Sociales.
+3.1 Será nombrado y cesado por la Junta de Castilla y León, a propuesta del Consejero de Sanidad y Bienestar Social.
+3.2 Son funciones del Gerente:
+a) Ostentar la representación ordinaria de la Gerencia, sin perjuicio de lo dispuesto en el apartado 2 de este artículo y en los términos que establezca su Reglamento.
+b) La inspección de los Servicios Sociales, así como el ejercicio de la potestad sancionadora.
+c) Proponer al Consejo de Administración la programación anual de la Gerencia.
+d) Proponer al Consejo de Administración el anteproyecto de Presupuesto anual de la Gerencia.
+e) Elevar al Consejo de Administración la memoria anual de gestión.
+f) Elevar al Consejo de Administración las tarifas y precios públicos que sean aplicables a los servicios prestados por la Gerencia.
+g) Ostentar la jefatura superior de todo el personal destinado en las unidades y centros dependientes de la Gerencia de Servicios Sociales, ejerciendo las competencias que la normativa vigente en la Comunidad Autónoma atribuya a los jefes superiores de las distintas Consejerías, en materia de personal, dando cuenta al Consejo de Administración.
+h) Elaborar los proyectos de Relaciones de Puestos de Trabajo de la Gerencia y someterlos a la consideración del Consejo de Administración, para su aprobación por el órgano competente.
+i) Delegar el ejercicio de sus atribuciones en los cargos inferiores tanto de la estructura central como provincial, en los términos que puedan establecerse por el Consejo de Administración.
+j) Cualquier otra que le sea atribuida.
+Se modifican los apartados 1 y 1.2 por el art. 46.1 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-1443
+ Se modifica por el art. 7.2 y 3 de la Ley 11/1997, de 26 de diciembre. Ref. BOE-A-1998-5713
+
+### Artículo 5
+
+Artículo 5. Órganos de participación.
+El Consejo Regional de Acción Social, creado por la Ley 18/1988, de Acción Social y Servicios Sociales, tendrá la consideración de órgano de participación de naturaleza consultiva y asesora de la Gerencia, asumiendo además de las funciones establecidas en el artículo 21 de la citada Ley, las siguientes:
+Conocer e informar el proyecto de presupuesto de la Gerencia de Servicios Sociales.
+Conocer la memoria anual de la Gerencia.
+
+### Artículo 6
+
+Artículo 6. Del patrimonio.
+El patrimonio de la Gerencia de Servicios Sociales de Castilla y León estará integrado por:
+Primero.–Los bienes y derechos del sistema de la Seguridad Social y del Patrimonio del Estado, que se incorporen al patrimonio de la Junta, como consecuencia del proceso de transferencias en materia de servicios sociales, así como aquellos otros pertenecientes al patrimonio de la misma y que en cualquiera de los casos sean adscritos a la Gerencia.
+Segundo.–Los bienes y derechos que adquiera o reciba por cualquier título.
+La Gerencia de Servicios Sociales de Castilla y León deberá establecer el inventario y los registros correspondientes que permitan conocer de forma permanente el carácter, la situación patrimonial y el destino de los bienes y derechos propios o adscritos.
+En todo lo no previsto en los apartados anteriores, serán aplicables al patrimonio de la Gerencia las previsiones contenidas en la legislación sobre el Patrimonio y la Hacienda de la Comunidad.
+Tercero.–El patrimonio de la Gerencia de Servicios Sociales afecto al desarrollo de sus funciones tiene consideración de dominio público.
+Se deroga la mención a los sistemas contables del apartado 2 por la disposición derogatoria .2 de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 7
+
+Artículo 7. Medios personales.
+El personal de la Gerencia de Servicios Sociales estará integrado por:
+1. El personal procedente de otras Administraciones Públicas, que se incorpore como consecuencia de la transferencia de servicios sociales a la Comunidad Autónoma.
+2. El personal de la Administración de la Comunidad Autónoma que se adscriba al citado organismo.
+3. El personal de nuevo ingreso que se incorpore conforme a la normativa vigente.
+El régimen jurídico aplicable al personal laboral procedente de las transferencias en materia de servicios sociales, una vez concluido el período fijado en la disposición transitoria cuarta de esta Ley, será el establecido en la normativa vigente y en el convenio colectivo que rija en ese momento para el personal laboral al servicio de la Comunidad Autónoma de Castilla y León.
+Para el personal funcionario transferido una vez finalizado este mismo período le será de aplicación la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Castilla y León y normativa de desarrollo.
+
+### Artículo 8
+
+Artículo 8. Presupuesto y recursos.
+(Derogado).
+Se deroga por la disposición derogatoria .2 de la Ley 2/2006, de 3 de mayo. Ref. BOE-A-2006-10085#dd
+
+### Artículo 9
+
+Artículo 9.
+La Gerencia dispondrá de un sistema de tesorería que gestione los recursos económicos y realice los pagos.
+
+### Artículo 10
+
+Artículo 10.
+La función interventora se desarrollará conforme se establece en el artículo 141 de la Ley 7/1986, de la Hacienda de la Comunidad de Castilla y León.
+
+### Artículo 11
+
+Artículo 11.
+La Gerencia de Servicios Sociales estará sometida al régimen de contabilidad pública, en los términos que se dispone en la Ley 7/1986, de 23 de diciembre, de Hacienda de la Comunidad Autónoma de Castilla y León.
+
+### Artículo 12
+
+Artículo 12.
+La Gerencia de Servicios Sociales de Castilla y León podrá disponer de un servicio jurídico propio al que corresponderán las funciones de representación, defensa y asesoramiento del organismo, o bien atribuirse dichas funciones, a través del Reglamento de organización y funcionamiento, a la Asesoría Jurídica de la consejería a la que esté adscrita la Gerencia de Servicios Sociales.
+Dichas funciones serán desempeñadas por letrados de los servicios jurídicos de la Comunidad Autónoma en la forma y términos establecidos en la Ley 6/2003, de 3 de abril, reguladora de la Asistencia Jurídica de la Comunidad de Castilla y León y demás normativa de aplicación.
+Se modifica por el art. 28 de la Ley 11/2013, de 23 de diciembre. Ref. BOE-A-2014-839
+ Se modifica por el art. 46.2 de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-1443
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+El punto 4 del artículo 48 de la Ley 18/1988, de Acción Social y Servicios Sociales, queda redactado como sigue:
+«La consignación presupuestaria de la Junta de Castilla y León para Servicios Sociales experimentará un incremento anual superior a la media de la subida de los presupuestos generales de la Comunidad para todas las Consejerías.»
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada).
+Se deroga por la disposición derogatoria.d) de la Ley 11/2000, de 28 de diciembre. Ref. BOE-A-2001-1443
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los programas y servicios que el INSERSO desarrolla por convenio con las corporaciones locales y sea competencia de las mismas, de acuerdo con la Ley 18/1988, de Acción Social y Servicios Sociales, se incorporarán con las mismas consignaciones presupuestarias al convenio de desarrollo de los servicios básicos o servicios específicos existente entre la Junta de Castilla y León y las correspondientes corporaciones locales.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La Junta de Castilla y León, modificará la relación de puestos de trabajo de los servicios administrativos de Servicios Sociales, cuando se reciban las transferencias, con la finalidad de evitar duplicidades y conseguir una mayor eficiencia en el desarrollo de sus funciones, adoptándose las medidas necesarias que permitan la movilidad de funcionarios entre la Administración General e Institucional de la Comunidad Autónoma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Mientras se dicta por la Junta de Castilla y León la normativa de desarrollo correspondiente a la Gerencia, se autoriza a la Consejería de Sanidad y Bienestar Social a realizar cuantas gestiones sean necesarias para el pago del personal, mantenimiento de los centros y realización de las actividades correspondientes a los servicios que se transfieran del Instituto Nacional de Servicios Sociales (INSERSO) a la Comunidad de Castilla y León.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Durante el ejercicio presupuestario de 1995 se autoriza al Presidente del Consejo de Administración para realizar las modificaciones presupuestarias necesarias, con las mismas facultades atribuidas por la Ley 7/1986, de la Hacienda de la Comunidad, y la Ley de presupuestos correspondiente al año 1995 a los Consejeros de la Junta de Castilla y León.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Las diferencias retributivas que pudieran producirse por el traspaso de medios personales a la Comunidad Autónoma de Castilla y León, derivadas de la transferencia de competencias en materia de gestión de las prestaciones y servicios sociales del INSERSO, serán asumidas por la Junta de Castilla y León en los tres ejercicios presupuestarios siguientes a aquel en que se produzca la efectividad plena de la transferencia.
+Por la Junta de Castilla y León se llevará a cabo la homologación de las condiciones laborales de estos medios personales al ámbito de la normativa que sea de aplicación al personal de la Administración de la Comunidad Autónoma de Castilla y León, en un plazo no superior al establecido en el párrafo anterior. El contenido del acuerdo de homologación con la representación sindical que corresponda, deberá ser pactado con anterioridad al comienzo del primer ejercicio presupuestario al que se refiere el párrafo primero de esta disposición.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Si la efectividad de la transferencia se produce en el transcurso de un ejercicio presupuestario, los medios financieros traspasados a la Comunidad Autónoma, en materia de servicios sociales constituirán el presupuesto de la Gerencia de Servicios Sociales para ese ejercicio.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza a la Junta de Castilla y León para dictar la normativa necesaria para la ejecución y desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Esta Ley entrará en vigor el mismo día en que se publique el Real Decreto de transferencias del INSERSO a la Comunidad de Castilla y León.
+
+### [firma]
+
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 6 de abril de 1995.
+JUAN JOSE LUCAS JIMENEZ,
+Presidente

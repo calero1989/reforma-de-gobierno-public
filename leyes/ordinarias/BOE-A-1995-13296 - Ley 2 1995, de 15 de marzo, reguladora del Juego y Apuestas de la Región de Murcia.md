@@ -1,0 +1,450 @@
+# Ley 2/1995, de 15 de marzo, reguladora del Juego y Apuestas de la Región de Murcia.
+
+- Identificador BOE: `BOE-A-1995-13296`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-13296
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+LA PRESIDENTA DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 2/1995, de 15 de marzo, reguladora del Juego y Apuestas de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30, Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+El artículo 2 de la Ley Orgánica 9/1992, de 23 de diciembre, de transferencia de competencias a Comunidades Autónomas que accedieron a la autonomía por la vía del artículo 143 de la Constitución, establece el traspaso a la Región de Murcia, entre otras, de las competencias en materia de casinos, juegos y apuestas con exclusión de las apuestas mutuas deportivo-benéficas, en base al cumplimiento de los plazos mínimos previstos en la Constitución para proceder a la ampliación de competencias en las referidas Comunidades Autónomas.
+En consecuencia, era necesario incorporar dichas competencias en el Estatuto de Autonomía para la Región de Murcia, produciéndose, mediante la reforma de la Ley Orgánica 4/1982, de 9 de junio, introducida por la Ley Orgánica 4/1994, de 24 de marzo, y reflejándose en su artículo 13, 1 b).
+El ejercicio de estas competencias por parte de la Administración Regional, sobre una realidad social cada vez más consolidada, pero también más compleja, planteaba la necesidad de estructurar un marco normativo de ámbito regional, que recogiese la experiencia de la legislación del Estado, pero que al mismo tiempo intentara dar respuesta a los nuevos planteamientos que se han producido en la realidad social, Con este doble propósito, y con el fin último de lograr mayores cotas de seguridad jurídica, se ha elaborado el texto de la Ley,
+Esta Ley se estructura en seis títulos que se dedican a establecer los principios básicos, recoger los juegos y sus clases, así como los locales en los que se pueden practicar, las empresas que pueden ser autorizadas para su explotación y los requisitos exigidos a las personas que lleven a cabo su trabajo en estas empresas y a los posibles usuarios.
+Asimismo, regula la eficacia y la garantía de su cumplimiento mediante el régimen sancionador y crea la Comisión del Juego y Apuestas de la Comunidad Autónoma de la Región de Murcia como órgano de estudio, coordinación y control de las actividades relacionadas con el juego.
+Es, como resumen, un texto legal que no se extiende en demasía, que precisa de ulterior desarrollo reglamentario y que posibilita el ejercicio de las competencias en materia de juegos y apuestas con escrupuloso respeto a todos los intereses que concurren en su práctica.
+
+## TÍTULO I
+
+TÍTULO I
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto regular, en el ámbito territorial la Comunidad Autónoma de la Región de Murcia, las actividades relativas al juego y apuestas en sus distintas modalidades, en virtud de la competencia conferida en la Ley Orgánica 4/1982, de 9 de junio, del Estatuto de Autonomía para la Región de Murcia, reformada por Ley Orgánica 4/1994, de 24 de marzo.
+
+### Artículo 2
+
+Artículo 2. Definición de juego y apuesta.
+1. A los efectos de esta Ley, se entiende por juego cualquier actividad en que, en su ejercicio, se dependa del azar o de la destreza y se arriesguen cantidades de dinero u objetos evaluables económicamente, que puedan ser transferidos entre los participantes, independientemente del predominio del grado de destreza o de la exclusividad de la suerte, envite o azar, bien sea a través de actividades humanas o por el uso de máquinas.
+2. Asimismo, se entiende como apuesta la actividad por la que se arriesga una cantidad de dinero sobre el resultado de un acontecimiento determinado, de desenlace incierto y ajeno a las partes intervinientes.
+
+### Artículo 3
+
+Artículo 3. Ámbito de aplicación.
+1. Se incluyen en el ámbito de aplicación de esta Ley:
+a) Las actividades propias de los juegos y apuestas.
+b) La fabricación, instalación, comercialización, distribución y mantenimiento de materiales relacionados con el juego, en general.
+c) Los locales e instalaciones donde se lleven a cabo las actividades citadas en los apartados anteriores.
+d) Las personas naturales o jurídicas que, de alguna forma, intervengan en la gestión, explotación y práctica de los juegos y apuestas.
+2. Quedan excluidos del ámbito de esta Ley los juegos o competiciones de mero ocio, basados en usos de carácter tradicional y familiar, siempre que no sean explotados u organizados con fines lucrativos.
+3. No se requerirá autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice.
+4. Quedan excluidas del ámbito de esta ley las máquinas recreativas de puro entretenimiento o tipo A, los salones recreativos en los que solo se instalen este tipo de máquinas, las empresas que tengan por objeto exclusivamente la organización y explotación de estas máquinas o salones o la fabricación, comercialización, distribución y mantenimiento de las mismas.
+Se añade el apartado 4 por el art. 5.1 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+ Se añade el apartado 3 por el art. 2.1 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015
+
+### Artículo 4
+
+Artículo 4. Juegos y apuestas autorizados.
+Sólo podrán ser practicados los juegos y apuesta$ que se encuentran incluidos en el Catálogo de Juegos y Apuestas de la Región de Murcia, que deberá especificar, para cada uno de ellos:
+a) Las denominaciones con que sea conocido y sus posibles modalidades.
+b) Los elementos imprescindibles para su práctica.
+c) Las reglas por las que se rige.
+Los condicionantes, restricciones y prohibiciones que se considere necesario imponer a su práctica.
+
+### Artículo 5
+
+Artículo 5. Juegos y apuestas prohibidos.
+1. Los juegos y apuestas no incluidos en el Catálogo de Juegos y Apuestas de la Región de Murcia tendrán la consideración de prohibidos, La misma consideración tendrán los que, estando reflejados en el citado Catálogo, se realicen sin la debida autorización o incumpliendo los requisitos exigidos en la misma o en lugares, formas y por personas distintos a los que se especifiquen en los respectivos reglamentos.
+2. Los efectos, material, instrumentos, útiles y dinero utilizados en juegos y apuestas no autorizados serán objeto de comiso.
+
+### Artículo 6
+
+Artículo 6. Autorizaciones.
+Requerirán autorización administrativa previa, en los términos que se determinen reglamentariamente, las siguientes actividades:
+1. La organización, práctica y desarrollo de los siguientes juegos:
+a) Los exclusivos de los casinos de juego.
+b) El bingo.
+c) Los que se practiquen con el uso de máquinas recreativas con premio y las de azar.
+d) Los boletos.
+e) Las rifas y tómbolas.
+2. La organización, práctica y desarrollo de las siguientes apuestas:
+a) Las hípicas.
+b) Las de galgos.
+c) Cualesquiera otras basadas en actividades deportivas o de competición.
+3. La organización y explotación de loterías, en todas sus modalidades, queda reservada a la Comunidad Autónoma de la Región de Murcia, que podrá llevar a cabo su gestión directa o indirectamente.
+4. La autorización para la organización y explotación de cualquiera de las actividades indicadas en los apartados anteriores, se entiende sin perjuicio de los medios técnicos utilizados en su desarrollo, siendo competente, en todo caso, la Comunidad Autónoma de la Región de Murcia para otorgar las autorizaciones correspondientes.
+Se añade el apartado 4 por el art. 9 de la Ley 13/2009, de 23 de diciembre. Ref. BOE-A-2011-3016
+ Se modifica la letra e) del apartado 1 por el art. 2.2 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015
+ Se modifica por el art. 4.1 de la Ley 7/2000, de 29 de diciembre. Ref. BORM-s-2000-90018
+
+### Artículo 7
+
+Artículo 7. Requisitos de las autorizaciones.
+1. Las autorizaciones, deberán indicar explícitamente sus titulares, el tiempo de concesión, los juegos y apuestas autorizados, las condiciones en que se deben desarrollar y las características que deben poseer los establecimientos o locales en que vayan a ser practicados.
+2. Los establecimientos para la práctica de juegos y apuestas tendrán autorización para ello por tiempo limitado, pudiendo ser renovada en el caso de que cumplan los requisitos exigidos en el momento de solicitar la renovación.
+3. Las autorizaciones contempladas en el punto anterior serán transmisibles en la forma que se determine en los reglamentos específicos de cada juego y/o apuesta.
+4. Las autorizaciones concedidas para realizar actividades en acto único serán válidas hasta que finalice la celebración de la actividad autorizada.
+
+### Artículo 8
+
+Artículo 8. Material para la práctica de juegos y apuestas.
+1. Los juegos y apuestas a que se refiere la presente Ley se practicarán con el material que haya sido homologado con carácter previo por el órgano competente, de la Administración regional.
+2. El material no homologado que sea usado en la práctica de juegos y apuestas tendrá carácter de material clandestino.
+3. Requerirán autorización administrativa previa la comercialización, distribución y mantenimiento del mate rial de juegos y apuestas.
+
+### Artículo 9
+
+Artículo 9. Publicidad y promoción del juego y apuestas.
+1. Salvo lo dispuesto en los apartados siguientes y en los reglamentos de las distintas modalidades de juegos, queda prohibida la publicidad de las actividades de juego a que se refiere esta Ley. Asimismo, se prohíben las promociones, tales como obsequios, regalos, consumiciones gratuitas o por precio inferior al de mercado y, en general, todas las actividades tendentes a incentivar la participación en los juegos.
+2. La publicidad de los juegos y apuestas, que se realice en el interior de las propias salas de juego, en los medios de comunicación especializados, la que se produzca en el contexto de la oferta turística global y la derivada del patrocinio, será libre.
+3. En los términos y condiciones que reglamentariamente se establezcan, podrá permitirse, previa autorización, la publicidad que tenga por objeto la mera información o/y la implantación de nuevas modalidades de juegos y apuestas, siempre que no incite expresamente al juego.
+Se modifica por el art. 9.1 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 10
+
+Artículo 10. Competencias del Consejo de Gobierno.
+Corresponde al Consejo de Gobierno de la Región de Murcia:
+1. La aprobación del Catálogo de Juegos y Apuestas de la Región de Murcia.
+2. La planificación de la gestión regional en materia de juegos y apuestas en la Región, en concordancia con sus incidencias social, económica y tributaria, así como con la necesidad de diversificar el juego.
+3. La aprobación de los reglamentos específicos de los juegos y apuestas incluidos en el Catálogo, sin perjuicio de lo establecido en el artículo siguiente.
+Se modifica el apartado 3 por el art. 36.1 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a3-7
+
+### Artículo 11
+
+Artículo 11. Competencias de la Consejería de Hacienda y Administración Pública.
+Corresponde a la Consejería de Hacienda y Administración Pública:
+1. La aprobación y desarrollo de los tipos, modalidades, premios y elementos de los juegos y apuestas, así como las reglas básicas de su desarrollo, las condiciones y requisitos de los sistemas técnicos y las limitaciones para su práctica.
+2. El otorgamiento de las autorizaciones necesarias para la gestión, explotación y publicidad de los juegos y apuestas, su prórroga y extinción.
+3. El control, inspección y, en su caso, sanción administrativa de las actividades de juego y apuestas, así como de las empresas y locales donde se gestiona y practique. A estos efectos, el personal que realice estas funciones tendrá la consideración de agente de la autoridad, pudiendo acceder a fincas, locales y demás establecimientos o lugares donde se desarrollen actividades de juego.
+4. La creación y llevanza del Registro General del Juego que contendrá las modalidades registrales que se determinen reglamentariamente, en el que deberán inscribirse las empresas y sociedades que organicen o exploten cualquier juego o apuesta, así como comercialicen, distribuyan o mantengan máquinas, aparatos y materiales de juego.
+Se modifica el apartado 1 por el art. 36.2 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a3-7
+ Se modifica el apartado 3 por el art. 8.1 de la Ley 12/2006, de 27 de diciembre. Ref. BOE-A-2007-9892
+ Se modifica el apartado 2 por el art. 9.2 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+## TÍTULO II
+
+TÍTULO II
+De los establecimientos y los juegos que en ellos se practican
+
+### Artículo 12
+
+Artículo 12. Clases de establecimientos y locales.
+1. Los juegos permitidos se practicarán exclusivamente en los locales que se encuentren debidamente autorizados, en base al cumplimiento de los requisitos exigidos en esta Ley y en sus disposiciones reglamentarias de desarrollo.
+2. Las modalidades de establecimientos y locales donde se puede autorizar la práctica del juego son las siguientes:
+a) Casinos de juego.
+b) Salas de bingo.
+c) Salones de juegos.
+d) Locales específicos de apuestas.
+3. De igual forma, podrá autorizarse la explotación de máquinas recreativas y de azar de tipo B en establecimientos hosteleros, clubes y demás locales análogos, en las condiciones que se determinen reglamentariamente.
+En estos establecimientos no podrán concurrir juegos de los citados anteriormente con cualquier otro tipo de juego, sea público o privado. Si los titulares de estos establecimientos optaran por la realización de modalidades de juego público o privado distintas a las máquinas recreativas y de azar de tipo B, éstas no podrán ser autorizadas.
+Se modifica el apartado 2 por el art. 5.2 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+ Se modifica el apartado 3 por el art. 8.2 de la Ley 12/2006, de 27 de diciembre. Ref. BOE-A-2007-9892
+
+### Artículo 13
+
+Artículo 13. Casinos de juego.
+1. Tendrán la consideración legal de casinos de juego los establecimientos que hayan sido autorizados para la práctica de los juegos que se relacionan en el apartado 4 de este artículo, Asimismo, podrán practicarse, previa autorización, otros juegos de los incluidos en el Catálogo.
+2. El otorgamiento de la autorización se llevará a cabo mediante concurso público, en el que se valorará el interés turístico del proyecto, la solvencia dé los promotores y el programa de inversiones, el informe del ayuntamiento del municipio donde se hubiera de instalar, así como el cumplimiento de cualesquiera otros requisitos exigidos en las bases del concurso.
+3. El aforo, superficie, funcionamiento y los servicios mínimos a prestar al público de los casinos de juego serán determinados reglamentariamente
+4. Los juegos que se relacionan a continuación únicamente podrán practicarse en los casinos de juego:
+Ruleta francesa.
+Ruleta americana.
+Veintiuno o «black-jack».
+Bola o «boule».
+Treinta y cuarenta.
+Punto y banca.
+Ferrocarril, «bacarrá» o «chemin de fer».
+«Bacarrá» a dos paños.
+Dados o «craps».
+Ruleta de la fortuna.
+
+### Artículo 14
+
+Artículo 14. Salas de bingo.
+1. Son salas de bingo los establecimientos específicamente autorizados para la realización del juego del bingo en sus distintas modalidades.
+2. La autorización tendrá una duración máxima de diez años.
+3. En las salas de bingo podrán instalarse máquinas de juego del tipo B, en las condiciones que reglamentariamente se determine.
+4. El aforo, superficie, funcionamiento y los servicios mínimos a prestar al público de las salas de bingo serán determinados reglamentariamente.
+
+### Artículo 15
+
+Artículo 15. Salones de juego.
+1. Se denominan salones de juego los establecimientos en los que, de forma específica, se instalan y explotan máquinas de juego con premio tipo B.
+2. El número mínimo de máquinas a instalar en estos salones es de diez, siendo el máximo el que se determine reglamentariamente.
+3. La autorización tendrá una duración de cinco años.
+Se modifica el apartado 1 por el art. 5.3 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+
+### Artículo 16
+
+Artículo 16. Salones recreativos.
+(Derogado).
+Se deroga por la disposición derogatoria única.1 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+
+### Artículo 17
+
+Artículo 17. Establecimientos hosteleros.
+Los establecimientos hosteleros destinados a restaurantes, cafeterías, cafés-bares y bares definidos en el artículo 5 del Decreto 127/2005, de 11 de noviembre, por el que se regulan los establecimientos de restauración en la Comunidad Autónoma de la Región de Murcia podrán ser autorizados para la instalación de hasta dos máquinas de tipo B, con las condiciones que reglamentariamente se determinen.
+Se modifica por el art. 5.4 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+
+### Artículo 18
+
+Artículo 18. Apuestas.
+Las apuestas debidamente autorizadas podrán cruzarse, previa autorización, en el interior de los locales y recintos destinados a la celebración de determinadas competiciones, en los salones de juego regulados en el artículo 15 de esta Ley y demás locales que se determinen reglamentariamente.
+
+## TÍTULO III
+
+TÍTULO III
+De las empresas titulares de las autorizaciones
+
+### Artículo 19
+
+Artículo 19. Empresas de juego.
+1. La organización y explotación de juegos y apuestas podrán llevarse a cabo exclusivamente por aquellas personas físicas o jurídicas debidamente autorizadas e inscritas en el registro que se determine, debiendo contar con los requisitos exigidos reglamentariamente.
+2. De igual forma, la Comunidad Autónoma de la Región de Murcia, por sí misma o a través de empresas públicas o sociedades mixtas de capital público mayoritario, o por gestión indirecta, podrá asumir la organización y explotación de juegos y apuestas.
+3. Las entidades benéficas y las deportivas y culturales sin ánimo de lucro, con más de cinco años de existencia ininterrumpida, tanto legal como de funcionamiento, podrán explotar una sala de bingo.
+4. Las empresas organizadoras y explotadoras del juego y apuestas ofrecerán al órgano que designe la Consejería de Hacienda y Administración Pública la información que reglamentariamente se establezca, al objeto de la consecución de sus funciones de coordinación, control y estadística.
+5. Las personas físicas o jurídicas que soliciten las autorizaciones preceptivas para la organización y explotación de juegos, deberán acreditar respectivamente el patrimonio neto y capital social mínimos que se exijan reglamentariamente.
+Se modifica el apartado 2 por el art. 4.2 de la Ley 7/2000, de 29 de diciembre. Ref. BORM-s-2000-90018
+ Se añade el apartado 5 por el art. 9.1 de la Ley 13/1997, de 23 de diciembre. Ref. BORM-s-1997-90003
+
+### Artículo 20
+
+Artículo 20. Fianzas.
+1. Las empresas que pretendan inscribirse en el Registro General del Juego deberán constituir en la Caja de Depósitos de la Consejería de Economía y Hacienda fianza en metálico o aval de entidades bancarias, de caución o crédito o de sociedades de garantía recíproca, que garantice las obligaciones derivadas de esta ley por importe de 60.000 euros, salvo que reglamentariamente se establezcan otras cuantías. Estas garantías también podrán constituirse en valores representativos de deuda pública emitida por la Comunidad Autónoma de la Región de Murcia a estos efectos.
+2. Estas fianzas estarán afectas específicamente al cumplimiento de las obligaciones tributarias derivadas de la gestión y explotación de los juegos o apuestas autorizados, a las responsabilidades derivadas del régimen sancionador establecido en esta Ley y al abono de los premios del juego o apuesta.
+Se deroga el apartado 3 por la disposición derogatoria única.1 de la Ley 14/2013, de 26 de diciembre. Ref. BOE-A-2014-752
+ Se modifica el apartado 2 por el art. 6.1 de la Ley 14/2012, de 27 de diciembre. Ref. BOE-A-2013-1927
+ Se modifica el apartado 1 por el art. 10 de la Ley 3/2012, de 24 de mayo. Ref. BOE-A-2013-1788
+ Se modifica el apartado 1 por el art. 8.3 de la Ley 12/2006, de 27 de diciembre. Ref. BOE-A-2007-9892
+
+## TÍTULO IV
+
+Del personal que realiza su actividad en empresas de juego y de los usuarios
+
+### Artículo 21
+
+Artículo 21. Personal directivo.
+Las personas físicas, los directivos, administradores, miembros del consejo de administración y apoderados de las empresas autorizadas para la organización y explotación de juegos y apuestas no podrán haber sido condenados por sentencia firme dentro de los cuatro años anteriores a la fecha de la solicitud de autorización por delito contra la salud pública, de falsedad, de asociación ilícita, de contrabando, contra el patrimonio y contra el orden socioeconómico, contra la Administración pública o contra la Hacienda Pública y la Seguridad Social así como por cualquier infracción penal derivada de la organización y explotación de juegos no autorizados.
+Se modifica por el art. 36.3 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a3-7
+ Se modifica por el art. 6.2 de la Ley 14/2012, de 27 de diciembre. Ref. BOE-A-2013-1927
+
+### Artículo 22
+
+Artículo 22. Prohibiciones y reclamaciones.
+1. El acceso a los locales y salas dedicadas específicamente al desarrollo del juego y apuestas, les será prohibido a las personas que porten armas y a las que hayan sido declaradas pródigas o culpables de quiebra fraudulenta por decisión judicial firme hasta su rehabilitación, así como a aquellas que voluntariamente lo soliciten.
+2. Por razones de orden público y seguridad ciudadana podrán establecerse condiciones especiales para el acceso a los locales y salas de juego en los distintos reglamentos que desarrollen el contenido de esta Ley.
+3. Las reclamaciones que los usuarios deseen llevar a cabo se reflejarán en un libro de reclamaciones que existirá a su disposición en todos los establecimientos autorizados para la práctica del juego y apuestas.
+4. Los empleados, directivos, accionistas y partícipes de empresas dedicadas a la gestión, organización y explotación del juego, así como sus cónyuges, ascendientes y descendientes, hasta el primer grado, por consanguinidad o afinidad, no podrán participar como juga dores en los juegos y apuestas gestionados o explotados por dichas empresas.
+5. La práctica de juegos de azar, el uso de máquinas con premio, la participación en apuestas y la entrada en los locales dedicados exclusivamente a estas actividades, les está prohibido a los menores de edad y a los que, siendo mayores, no se encuentren en pleno uso de su capacidad de obrar.
+
+## TÍTULO V
+
+Del régimen sancionador
+
+### Artículo 23
+
+Artículo 23. Infracciones administrativas.
+1. El incumplimiento de las normas contenidas en esta Ley, así como de las establecidas en las disposiciones que la desarrollen, constituirá infracción administrativa.
+2. Estas infracciones se clasifican en faltas muy graves, graves y leves.
+
+### Artículo 24
+
+Artículo 24. Faltas muy graves.
+Son faltas muy graves:
+a) Realizar actividades de organización o explotación de juegos y/o apuestas no catalogados o careciendo de las autorizaciones, inscripciones o guías de circulación, o con incumplimiento de los requisitos y condiciones establecidos en las mismas, así como la organización o explotación de los juegos o apuestas en locales o recintos no autorizados o por personas no autorizadas.
+b) La modificación unilateral de cualquiera de las condiciones en virtud de las cuales se concedieron las preceptivas autorizaciones.
+c) La cesión de las autorizaciones concedidas, salvo con las condiciones o requisitos establecidos en las normas vigentes. Esta infracción será imputable al cedente y al cesionario.
+d) Permitir o consentir expresa o tácitamente la organización, celebración o práctica de juegos o apuestas en locales no autorizados o por personas no autorizadas, así como permitir la instalación o explotación de máquinas recreativas y de azar carentes de la correspondiente autorización.
+e) El fomento y la práctica de juegos y/o apuestas, al margen de las normas establecidas o autorizaciones concedidas.
+f) Utilizar elementos de juego o máquinas no homologados o autorizados y alterar o modificar total o parcialmente los elementos de juego.
+g) Modificar los límites de apuestas o premios autorizados.
+h) Utilizar documentos y aportar datos no conformes con la realidad para obtener o renovar las correspondientes autorizaciones.
+i) Permitir el acceso al juego de las personas que lo tienen prohibido de acuerdo con las normas vigentes.
+j) Ejercer coacción o intimidación sobre los jugadores en caso de protesta o reclamación.
+k) Otorgar préstamos a los jugadores o apostantes por parte de la empresa organizadora o explotadora de juegos o apuestas, o permitir que se otorguen por terceras personas.
+l) La manipulación de los juegos o elementos utilizados en perjuicio de los jugadores o apostantes.
+m) El impago total o parcial a los jugadores o apostantes de las cantidades con que hubieran resultado premiados.
+n) La venta de cartones en el juego del bingo, de boletos, rifas o de cualquier otro título semejante, por precio superior al autorizado.
+o) La fabricación, importación, exportación, comercialización, mantenimiento y distribución de material de juego incumpliendo las normas dictadas al efecto, bien por el Estado, bien por la Comunidad Autónoma de la Región de Murcia, según su competencia.
+p) La participación como jugadores del personal empleado o directivo, de los accionistas y partícipes de empresas dedicadas a la gestión, organización y explotación del juego, así como de la de los cónyuges, ascendientes y descendientes de aquéllos en primer grado, en los juegos y apuestas que gestionen o exploten dichas empresas.
+q) La negativa u obstrucción a la actuación inspectora de control y vigilancia realizada por agentes de la autoridad, así como por funcionarios y órganos encargados o habilitados específicamente para el ejercicio de tales funciones.
+r) Instalar y explotar máquinas recreativas y de azar en número que exceda del autorizado.
+s) Reducir el capital de las sociedades o las fianzas de las empresas de juego y/o apuestas por debajo de los límites legales establecidos.
+t) La explotación de máquinas recreativas y de azar de tipo B, en los locales regulados en el artículo 12.3 de la presente Ley, cuando organicen o comercialicen otros juegos, sean públicos o privados, aunque estén autorizados.
+Se añade la letra t) por el art. 8.4 de la Ley 12/2006, de 27 de diciembre. Ref. BOE-A-2007-9892
+ Se modifica por el art. 9.3 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 25
+
+Artículo 25. Faltas graves.
+Son faltas graves:
+a) Permitir el acceso a los locales o salas de juego autorizadas a personas que lo tengan prohibido en virtud de la presente Ley o de los reglamentos que la desarrollen.
+b) Proceder a cualquier transferencia no autorizada de las acciones o participaciones.
+c) Realizar acciones publicitarias de los juegos y/o apuestas o de los establecimientos en que éstos se practiquen que contravengan la normativa establecida, sin la debida autorización cuando sea precisa o al margen de los límites fijados en la misma. En este caso, la infracción será imputable al titular de la autorización, a la entidad o al particular anunciante, a la agencia que gestione o efectúe la publicidad y al medio publicitario que la difunda.
+d) La inexistencia o mal estado de las medidas de seguridad de los locales exigidas en la autorización de funcionamiento.
+e) Las promociones de venta mediante actividades análogas a las de los juegos incluidos en el Catálogo.
+f) La admisión de más visitantes de los que permita el aforo del local.
+g) Realizar la transmisión de una máquina sin cumplimentar los requisitos establecidos reglamentariamente.
+h) Carecer o llevar incorrectamente los libros o registros exigidos en la correspondiente reglamentación de juego.
+i) No disponer de ficheros de visitantes en los locales autorizados para el juego o tenerlos incompletos o inexactos, de acuerdo con lo que se determine reglamentariamente.
+j) No disponer del libro o de las hojas de reclamaciones que se establezcan en los locales autorizados para el juego, negarse a ponerlos a disposición de quien los reclame, así como no tramitar en el plazo previsto las reclamaciones formuladas.
+k) No remitir a los órganos competentes aquellas informaciones y documentación que soliciten con respecto a las empresas y actividades relacionadas con el juego.
+l) Contratar personal que no disponga del documento profesional expedido por la Dirección General de Tributos o que lo tenga caducado.
+m) El incumplimiento por parte de las empresas de juego de la obligación de conservar en su poder la documentación establecida por las normas de juego y apuestas.
+Se modifica por el art. 9.4 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 26
+
+Artículo 26. Faltas leves.
+Son faltas leves:
+a) Practicar juegos de azar, y apuestas de los denominados tradicionales, no incluidos en el Catálogo de Juegos en establecimientos públicos, círculos tradicionales o clubes públicos o privados, cuando la suma total de las apuestas tengan un valor económico superior en cinco veces al salario mínimo interprofesional diario.
+b) No exhibir en el establecimiento de juego, as, como en las máquinas autorizadas, el documento acreditativo de la autorización establecido por la presente Ley, así como aquellos que en el desarrollo de la presente norma y disposiciones complementarias se establezcan.
+c) No conservar en el local los documentos que se establezcan en los reglamentos que desarrollen la presente Ley.
+d) En general, el incumplimiento de los requisitos o prohibiciones establecidos en la Ley, reglamentos demás disposiciones que la desarrollen y completen, na señalados como faltas graves o muy graves.
+
+### Artículo 27
+
+Artículo 27. Acumulación de faltas o reincidencia.
+La comisión de tres faltas leves en el período de un año tendrá la consideración de falta grave, y la comisión de tres faltas graves durante el mismo período, o de cinco en dos años, tendrán la consideración de falta muy grave.
+
+### Artículo 28
+
+Artículo 28. Responsables de las infracciones.
+1. Son responsables de las infracciones tipificadas en la presente Ley las personas físicas o jurídicas que las cometan, así como aquellas a las que la presente Ley les atribuya específicamente tal condición.
+2. De las infracciones cometidas en establecimientos de juego y/o apuestas o en locales donde haya máquinas, por directivos, administradores y empleados en general responderán solidariamente, asimismo, las personas o entidades para quienes aquéllos presten sus servicios.
+3. De las infracciones tipificadas en esta Ley, que se produzcan en los establecimientos en los que se practiquen los juegos y/o apuestas responderán las empresas de juegos y/o apuestas y los titulares de dichos establecimientos.
+Se modifica por el art. 9.5 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Artículo 29
+
+Artículo 29. Sanciones.
+1. Las infracciones calificadas como faltas muy graves serán sancionadas:
+En todo caso, con multa de hasta 50.000.000 de pesetas por el Consejero de Hacienda y Administración Pública, y de 50.000.001 a 1 00.000.000 de pesetas por el Consejo de Gobierno de la Comunidad Autónoma de la Región de Murcia.
+Potestativamente, en atención a las circunstancias que concurran y a la trascendencia de la acción, con:
+a) Suspensión, cancelación temporal o revocación definitiva de la autorización para la celebración, organización o explotación de juegos y/o apuestas.
+b) Clausura, inhabilitación temporal o definitiva del local o sala donde se lleve a cabo la celebración, organización o explotación de los juegos y/o apuestas.
+c) La inhabilitación temporal hasta diez años para ser titular, de autorización en relación con el juego, o para el ejercicio de la profesión, si el autor de la infracción es titular o empleado, respectivamente.
+2. Las infracciones calificadas como faltas graves serán sancionadas:
+En todo caso, con multa de hasta 5.000.000 de pesetas por el Director general de Tributos.
+Potestativamente, en atención a las circunstancias que concurran y a la trascendencia de la acción, con:
+a) Suspensión o cancelación temporal de la autorización para la celebración, organización o explotación de juegos y/o apuestas.
+b) Inhabilitación temporal del local o sala donde se lleve a cabo la celebración, organización o explotación de los juegos y/o apuestas.
+c) La inhabilitación temporal hasta cinco años para ser titular de autorización en relación con el juego, o para el ejercicio de la profesión, si el autor de la infracción es titular o empleado, respectivamente.
+3. Las infracciones calificadas como faltas leves se sancionarán con:
+a) Apercibimiento escrito por el Director general de Tributos.
+b) Multa de hasta 500.000 pesetas por el Director general de Tributos.
+
+### Artículo 30
+
+Artículo 30. Graduación de la sanción.
+1. Para la graduación de la sanción se ponderarán las circunstancias personales y materiales que concurran en los hechos y, especialmente, la intencionalidad del infractor, el daño producido tanto a terceros como a la Administración, la peligrosidad de la conducta, la trascendencia social y económica de la acción, la reincidencia o reiteración, aplicando en todo caso los criterios de proporcionalidad entre la infracción cometida y la cuantía y efectos de la sanción, que no podrá ser en ningún caso inferior al triple del beneficio ilícitamente obtenido, respetando en todo caso los límites establecidos en el artículo 29 de esta Ley.
+2. En los casos con sanción de suspensión o revocación definitiva de autorización, podrá acordarse el comiso, destrucción o inutilización de los elementos o máquinas de juego que hayan sido objeto de la infracción.
+3. La comisión de una infracción podrá, en su caso, llevar aparejada, con la imposición de multa, la entrega a los perjudicados o a la Administración regional de los beneficios obtenidos de forma irregular.
+4. En establecimientos cuya actividad principal no sea el juego y/o apuestas no podrá imponerse la sanción de clausura, pudiendo establecerse, no obstante, la prohibición de instalar y practicar las referidas actividades.
+5. Las cuantías de las multas podrán ser revisadas por las leyes de Presupuestos Generales de la Región de Murcia cuando sea necesario adecuarlas a la realidad económica del momento.
+Se modifica el apartado 1 por el art. 4.3 de la Ley 7/2000, de 29 de diciembre. Ref. BORM-s-2000-90018
+
+### Artículo 31
+
+Artículo 31. Prescripción de las faltas.
+Las faltas prescribirán de acuerdo con su clasificación: las leves, a los dos meses; las graves, a los seis meses, y las muy graves, al año.
+El plazo de prescripción comenzará a contar desde la fecha de la comisión de la infracción. En las continuadas, a su terminación.
+
+### Artículo 32
+
+Artículo 32. Regulación del procedimiento sancionador.
+1. El procedimiento sancionador se regirá por las disposiciones reguladoras del procedimiento administrativo común de las administraciones públicas, junto a las especialidades previstas para los procedimientos de naturaleza sancionadora.
+El plazo máximo para resolver y notificar la resolución del procedimiento sancionador será de seis meses, a contar desde la fecha del acuerdo de iniciación.
+2. Reglamentariamente, podrán determinarse otros procedimientos sancionadores para determinados supuestos.
+3. La Dirección General de Tributos incoará el expediente sancionador pertinente, remitiendo el mismo al órgano competente para su resolución.
+4. El órgano competente para incoar el expediente podrá acordar como medidas cautelares con carácter previo o simultáneo a su instrucción cuando existan indicios racionales de infracción muy grave, las siguientes:
+a) Cierre de los establecimientos en que se organicen y desarrollen juegos sin la autorización requerida.
+b) Incautación de los materiales de juego usados en su práctica y las apuestas efectuadas.
+c) Precinto y depósito de las máquinas recreativas y de azar que estuvieren en explotación sin las preceptivas autorizaciones.
+Los agentes de la autoridad y los funcionarios habilitados para el ejercicio del control del juego podrán adoptar las referidas medidas cautelares en el momento de levantar el acta. En este supuesto, el órgano competente para incoar el expediente deberá confirmar o levantar las mismas en la providencia de iniciación.
+Se modifica el apartado 1 por el art. 36.4 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a3-7
+ Se añade el apartado 4 por el art. 9.2 de la Ley 13/1997, de 23 de diciembre. Ref. BORM-s-1997-90003
+
+## TÍTULO VI
+
+De la Comisión del Juego y Apuestas de la Comunidad· Autónoma de la Región de Murcia
+
+### Artículo 33
+
+Artículo 33. Creación y competencias.
+1. Como órgano de estudio y coordinación de las actividades relacionadas con el juego y apuestas se crea la Comisión del Juego y Apuestas de la Comunidad Autónoma de la Región de Murcia, que estará presidida por el Consejero de Hacienda y Administración Pública, con la composición que reglamentariamente se determine.
+2. Corresponde a la Comisión del Juego de la Comunidad Autónoma de la Región de Murcia:
+a) Emitir informes en materia de apuestas y juegos de suerte, envite o azar que le sean requeridos en el ámbito de sus competencias.
+b) Informar las propuestas de sanción en las infracciones calificadas como muy graves que deba resolver el Consejo de Gobierno.
+c) Elaborar la estadística e informe anual sobre el desarrollo del juego en la Comunidad Autónoma.
+d) Cualquier otra que se atribuya por el Consejo de Gobierno.
+3. Por el Consejo de Gobierno se dictarán las disposiciones precisas para el funcionamiento de esta Comisión del Juego y Apuestas.
+
+### Disposición adicional
+
+Disposición adicional.
+El Consejo de Gobierno, a propuesta de la Consejería de Hacienda y Administración Pública, aprobará el Catálogo de Juegos y Apuestas autorizados.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Hasta que los distintos órganos de la Comunidad Autónoma de la Región de Murcia no hagan uso de las facultades reglamentarias que les concede la presente Ley, serán de aplicación las disposiciones generales de la Administración del Estado.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Las autorizaciones de carácter temporal concedidas con anterioridad a la entrada en vigor de esta Ley se considerarán válidas y en vigor hasta la conclusión del plazo indicado en las mismas.
+Sus renovaciones se llevarán a cabo de acuerdo con las prescripciones de la presente Ley.
+Las autorizaciones sin plazo de vigencia deberán renovarse, al menos, en el plazo de cinco años.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+Las personas físicas o jurídicas, que sean titulares de las autorizaciones preceptivas para la organización y explotación de juegos, deberán adaptarse a lo previsto en el artículo 19.5 de la Ley 2/1995, de 15 de marzo, reguladora del juego y apuestas de la Región de Murcia, según redacción dada por la Ley 13/1997, de 23 de diciembre, de Medidas Fiscales, Presupuestarias y Administrativas, en el plazo máximo de un año desde la entrada en vigor de los Reglamentos que regulan las distintas modalidades de juego.
+Se añade por el art. 9.6 de la Ley 9/1999, de 27 de diciembre. Ref. BOE-A-2000-6844
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+1. En tanto no se apruebe normativa específica propia de la Región de Murcia la práctica de los juegos desarrollados a través de medios informáticos, o de comunicación a distancia, éstos se regirán por la normativa estatal de regulación del juego en su ámbito competencial.
+2. Igualmente, y en ausencia de regulación autonómica en materia de procedimientos para las homologaciones y certificaciones de los sistemas técnicos y material de juego necesarios para la práctica en el ámbito de la Región de Murcia de los juegos desarrollados por medios informáticos, interactivos o de comunicación a distancia, estos procedimientos se regirán por la normativa estatal que regula el régimen de homologación preliminar y definitiva de dichos sistemas.
+Se añade por la disposición adicional 5 de la Ley 7/2011, de 26 de diciembre. Ref. BOE-A-2012-2270
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Solicitudes de expedición de documentos de habilitación profesional en trámite.
+Para aquellas solicitudes de expedición de documentos de habilitación profesional que se encuentren en trámite a la entrada en vigor de la presente ley, el órgano directivo competente en materia de juego, procederá a la devolución de oficio de la tasa por actuaciones administrativas sobre apuestas y juegos de suerte, envite o azar presentada con la solicitud.
+Se añade por el art. 36.5 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#a3-7
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones necesarias para el desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+El Consejero de Hacienda y Administración Pública dictará las disposiciones para la creación y adaptación de los órganos administrativos necesarios para el cumplimiento de lo preceptuado en esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial de la Región de Murcia».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que correspondan, que la hagan cumplir.
+Murcia, 15 de marzo de 1995.
+MARÍA ANTONIA MARTÍNEZ GARCÍA.
+Presidenta

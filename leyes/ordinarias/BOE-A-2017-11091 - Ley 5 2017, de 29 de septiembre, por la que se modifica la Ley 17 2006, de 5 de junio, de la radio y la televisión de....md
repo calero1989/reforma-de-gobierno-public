@@ -1,0 +1,80 @@
+# Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos.
+
+- Identificador BOE: `BOE-A-2017-11091`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2017-11091
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+FELIPE VI
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+PREÁMBULO
+El artículo 20.3 de la Constitución establece que la ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
+Para garantizar el cumplimiento de estos mandatos constitucionales, en 2004 se constituyó el Consejo para la reforma de los medios de comunicación de titularidad del Estado, integrado por personas de reconocida autoridad en la materia, y se le encomendó la elaboración de un informe que contuviera una propuesta sobre el modo más adecuado para su articulación jurídica, los contenidos de programación más idóneos y la financiación más adecuada.
+El principal objeto de la encomienda era establecer un marco normativo que impidiera el control gubernamental de los medios de comunicación de titularidad estatal, de forma que pudieran desempeñar con profesionalidad e independencia los cometidos que les corresponden en una sociedad democrática avanzada, garantizando así la veracidad de la información, la libertad de opinión, la difusión del pluralismo cultural y la participación política de los ciudadanos.
+La Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, asumió las propuestas emanadas de este Consejo y plasmadas en su informe, recogiendo la necesidad de una reforma, para elevar las exigencias de neutralidad, transparencia y calidad. Manteniendo la titularidad pública de la radio y la televisión estatales y confirmando su carácter de servicio público, creó la Corporación RTVE, como sociedad mercantil estatal dotada de especial autonomía, sujeta en lo esencial a la legislación reguladora de las sociedades anónimas y cuyo capital social será íntegramente estatal.
+La Ley optó por la elección parlamentaria, por mayoría de dos tercios, de sus órganos de administración y gobierno –salvo dos consejeros cuya propuesta correspondería a los sindicatos más representativos a nivel estatal–, para reforzar y garantizar su independencia. La decisión se correspondía con una lógica constitucional íntimamente ligada a la dinámica de nuestro sistema de gobierno. En la medida en que la reciente historia constitucional ha arrojado tanto Gobiernos con mayoría absoluta en las Cámaras, como Gobiernos con mayoría simple, y dada la importancia política y social de la Corporación de RTVE, con la Ley 17/2006 se pretendía asegurar que en tal elección participase siempre la oposición. Con ello, esta regla se constituyó en un principio estructural del funcionamiento de la Corporación RTVE y uno de los fundamentos de la instauración de un modelo de radio y televisión pública, independiente, plural, viable y de calidad.
+
+### Artículo único
+
+Artículo único. Modificación de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal.
+Se modifican los siguientes artículos de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal:
+Uno. El apartado 1 del artículo 10 queda redactado de la siguiente forma:
+«1. El Consejo de Administración de la Corporación RTVE estará compuesto por diez miembros, todos ellos personas con suficiente cualificación y experiencia profesional, respetando el principio de presencia equilibrada de mujeres y hombres en su composición, tal y como establece la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.»
+Dos. El artículo 11 queda redactado de la siguiente forma:
+«Artículo 11. Elección.
+1. Los miembros del Consejo de Administración serán elegidos por las Cortes Generales, a razón de seis por el Congreso de los Diputados y cuatro por el Senado.
+2. (Suprimido).
+3. Los candidatos propuestos deberán comparecer previamente en audiencia pública en el Congreso y el Senado, en la forma que reglamentariamente se determine, con el fin de que ambas Cámaras puedan informarse de su idoneidad para el cargo. Su elección requerirá una mayoría de dos tercios de la Cámara correspondiente.
+4. El Congreso de los Diputados designará, de entre los diez consejeros electos, al que desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal designación requerirá una mayoría de dos tercios de la Cámara.
+5. No serán elegibles como miembros del Consejo de Administración de la Corporación RTVE los cesados en los supuestos previstos en el artículo 13 de esta Ley.»
+Tres. El apartado 2 del artículo 12 queda redactado de la siguiente forma:
+«2. Si durante el periodo de sus respectivos mandatos se produjera el cese de alguno de los miembros del Consejo de Administración, las personas designadas para sustituirles lo serán por el tiempo que reste del mandato de su antecesor. Las vacantes deberán ser cubiertas por las Cámaras a propuesta de los grupos parlamentarios.»
+Cuatro. Se añade un nuevo artículo 43, con el siguiente texto:
+«Artículo 43. Transparencia y atención al ciudadano.
+La Corporación de Radio Televisión Española queda sujeta a las obligaciones contenidas en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.»
+
+### 
+ Disposición transitoria primera
+
+Disposición transitoria primera.
+Con el fin de adaptar la composición del número de miembros del Consejo de Administración de la Corporación RTVE a lo dispuesto en la presente Ley, se procederá en el plazo previsto en la disposición transitoria segunda y tras la posterior aprobación de la normativa correspondiente, a la selección primero de los candidatos y a la posterior elección de un nuevo Consejo de Administración y de un nuevo Presidente de la Corporación RTVE y del Consejo.
+Para esta elección de los nuevos cargos, si en una primera votación no se alcanzare la mayoría de dos tercios, estos podrán ser elegidos por mayoría absoluta en votación posterior efectuada en un plazo no inferior a quince días y siempre que su candidatura hubiera sido propuesta por, al menos, la mitad de los grupos parlamentarios de la Cámara que corresponda.
+
+### 
+ Disposición transitoria segunda
+
+Disposición transitoria segunda.
+1. Las Cortes Generales aprobarán, en el plazo de los tres meses siguientes a la entrada en vigor de esta Ley, la normativa que contemple la selección de los miembros del Consejo de Administración y del Presidente de la Corporación RTVE y del Consejo por concurso público con la participación de un Comité de Expertos.
+El Comité de Expertos estará compuesto por personas de reconocida competencia profesional, docente o investigadora en el ámbito de la comunicación y con experiencia acreditada en el mismo no inferior a diez años. Se respetará el principio de presencia equilibrada de mujeres y hombres.
+Los miembros del Comité de Expertos serán designados en una sesión de la Comisión Mixta de Control Parlamentario de la Corporación RTVE y sus Sociedades en el plazo de diez días desde la convocatoria del concurso. Cada Grupo Parlamentario con al menos un representante en la Comisión Mixta podrá designar a una persona para su nombramiento como experto. Adicionalmente, cada miembro de la Comisión Mixta podrá proponer la designación de otra persona, siendo nombradas aquellas que hayan sido propuestas, al menos, por cuatro miembros.
+En el caso de renuncia por parte de alguna de las personas designadas, el Comité se constituirá con aquellas que hubieran aceptado el nombramiento.
+Este Comité hará públicos sus informes de evaluación y serán remitidos a la Comisión competente para la correspondiente audiencia de los candidatos.
+2. Una vez emitido el informe por parte del Comité de Expertos, se convocará la Comisión del Congreso de los Diputados que resulte competente para realizar las comparecencias previstas en la ley. Tras la elección de los vocales en el Pleno del Congreso de los Diputados, se procederá a la convocatoria de la Comisión competente del Senado para realizar las comparecencias de los candidatos que no hubieran sido elegidos por el Pleno del Congreso de los Diputados. A continuación, y, de acuerdo con el Reglamento del Senado, se procederá a la votación en el Pleno de la Cámara.
+3. En tanto no se elijan los Consejeros y el Presidente de acuerdo con la normativa contemplada en los apartados anteriores, la elección y las comparecencias previstas en el artículo 11 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, se llevarán a cabo con arreglo al procedimiento vigente.
+Téngase en cuenta la declaración de inconstitucionalidad y nulidad, con los efectos previstos en el fundamento jurídico 3º, de la disposición final 1 del Real Decreto-ley 4/2018, de 22 de junio, que dio la redacción a esta disposición, Ref. BOE-A-2018-8577#df por la Sentencia del TC 134/2021, de 24 de junio. Ref. BOE-A-2021-13018
+Se modifica por la disposición final 1 del Real Decreto-ley 4/2018, de 22 de junio. Ref. BOE-A-2018-8577#df
+
+### 
+ Disposición transitoria tercera
+
+Disposición transitoria tercera.
+No obstante lo dispuesto en el apartado 1 del artículo 12 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, y solo para la primera elección conforme al nuevo procedimiento establecido, los consejeros podrán ser renovados.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+### [firma]
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+Madrid, 29 de septiembre de 2017.
+FELIPE R.
+El Presidente del Gobierno,
+MARIANO RAJOY BREY

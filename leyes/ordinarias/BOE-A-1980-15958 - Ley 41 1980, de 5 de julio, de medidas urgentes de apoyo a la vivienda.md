@@ -1,0 +1,95 @@
+# Ley 41/1980, de 5 de julio, de medidas urgentes de apoyo a la vivienda.
+
+- Identificador BOE: `BOE-A-1980-15958`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1980-15958
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I, REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+Las disposiciones de la Ley seis/mil novecientos setenta y nueve, de veinticinco de septiembre, sobre Régimen Transitorio de la Imposición Indirecta, relativas a las transmisiones empresariales de bienes inmuebles, entrarán en vigor el uno de julio de mil novecientos ochenta.
+
+### Artículo segundo
+
+Artículo segundo.
+En las Leyes de Presupuestos de cada año podrán modificarse los tipos del impuesto General sobre el Tráfico de las Empresas.
+Para las transmisiones empresariales de inmuebles dicho tipo quedará fijado en el tres por ciento a partir de la entrada en vigor de la reforma del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+### Artículo tercero
+
+Artículo tercero.
+Los préstamos hipotecarios otorgados con anterioridad al uno de julio de mil novecientos ochenta y que constituyen operaciones típicas del tráfico de las Empresas tributarán por el Impuesto sobre Transmisiones Patrimoniales, tanto en su constitución como en su modificación y cancelación, cualquiera que sea la fecha de estos últimos actos.
+Los otorgados a partir del uno de julio de mil novecientos ochenta se gravarán por el Impuesto General sobre el Tráfico de las Empresas y no estarán sujetos al de Transmisiones Patrimoniales respecto de los actos citados.
+En ambos supuestos se mantienen las exenciones establecidas a favor de los préstamos hipotecarios para la construcción y, en su caso, adquisición de viviendas de protección oficial.
+
+### Artículo cuarto
+
+Artículo cuarto.
+A partir del uno de julio de mil novecientos ochenta las condiciones resolutorias explícitas de las compraventas a que se refiere el artículo once de la Ley Hipotecaria y que garanticen el pago del precio aplazado en las transmisiones empresariales de bienes inmuebles sujetas al Impuesto General sobre el Tráfico de las Empresas no tributarán ni en este impuesto ni en el de Transmisiones Patrimoniales, tanto en su constitución como en su cancelación.
+El mismo régimen se aplicará a la constitución y extinción de las hipotecas que, a partir de la citada fecha, garanticen el precio aplazado en las transmisiones empresariales de bienes inmuebles constituidas sobre los mismos bienes transmitidos.
+
+### Artículo quinto
+
+Artículo quinto.
+Los documentos privados, otorgados can anterioridad al día uno de julio de mil novecientos ochenta, surtirán efectos, si mediare algún beneficio fiscal, ante la Administración Tributaria, siempre que se justifique la certeza de su fecha, bien por encontrarse incluidos en cualquiera de los supuestos recogidos en el artículo mil doscientos veintisiete del Código Civil, bien por otros medios de prueba apreciados en su conjunto, tales como libros oficiales de contabilidad y abonos bancarios.
+
+### Artículo sexto
+
+Artículo sexto.
+Los arrendamientos da bienes inmuebles urbanos que constituyen operaciones típicas y habituales de Empresas arrendadoras tributarán por el Impuesto General sobre el Tráfico de las Empresas cuando hubieren sido concertados a partir del uno de julio de mil novecientos ochenta.
+Los concertados antes tributarán por los conceptos y en la forma establecidos para el Impuesto General sobre Transmisiones Patrimoniales.
+
+### Artículo séptimo
+
+Artículo séptimo.
+La disposición final tercera de la Ley seis/mil novecientos setenta y nueve, de veinticinco de septiembre, queda redactada en los siguientes términos:
+Todas las transmisiones empresariales de bienes inmuebles efectuadas con posterioridad al uno de julio de mil novecientos ochenta se liquidarán, sin exención, por el Impuesto General de Transmisiones Patrimoniales, a menos que se justifique haber efectuado la repercusión o paga del Impuesto General del Tráfico de las Empresas.
+Las transmisiones que hubieran satisfecho el Impuesto General sobre Transmisiones Patrimoniales conforme a lo dispuesto en el párrafo anterior quedarán exoneradas del pago por el Impuesto General sobre el Tráfico de las Empresas.
+Reglamentariamente se determinará la forma de justificar la repercusión o pago, no sujeción o exención, en su caso, de los referidos impuestos y sus efectos en orden al acceso de los correspondientes documentos al Registro de la Propiedad.
+
+### Artículo octavo
+
+Artículo octavo.
+1. Los honorarios de Notarios y Registradores de la Propiedad tendrán una reducción de un 50 por 100 de los derechos correspondientes, respectivamente, a escritura matriz, primera copia e inscripción de los actos de cuantía referentes a viviendas calificadas de protección oficial o declaradas protegidas. Se entenderán incluidos en dichos actos la adquisición del solar, las modificaciones hipotecarias de fincas, la declaración de obra nueva, la división horizontal, los préstamos hipotecarios que hayan obtenido el carácter de cualificados conforme a la normativa vigente y, en general, todos los actos o negocios jurídicos necesarios para que las viviendas queden disponibles para su primera transmisión o adjudicación.
+2. La primera transmisión o adjudicación, así como en su caso la subrogación en el préstamo hipotecario cualificado, de cada una de dichas viviendas gozará de la expresada reducción del 50 por 100 de los derechos de matriz, primera copia e inscripción; y tratándose de viviendas cuya superficie útil no exceda de noventa metros cuadrados devengarán exclusivamente y por todos los conceptos la cantidad de 9.991 pesetas como derechos del Notario y 3.996 como derechos del Registrador de la Propiedad. Para gozar de las bonificaciones a que se refiere este párrafo se precisará que sea la única vivienda del adquirente y se destine a su residencia habitual y permanente.
+3. Cuando la vivienda lleve vinculada en proyecto y registralmente plaza de garaje y, en su caso, trastero u otros anejos, los honorarios sujetos a los topes de 9.991 pesetas y 3.996 pesetas podrán incrementarse por todos los conceptos en 1.500 y 1.000 pesetas, respectivamente, en el caso del Notario y en 1.000 y 500 pesetas, respectivamente, en el caso del Registrador de la Propiedad.
+Cuando se constituya garantía real en el mismo acto de la primera transmisión o adjudicación para asegurar el pago del precio aplazado, la cantidad señalada se incrementará, por todos los conceptos, en 4.995 pesetas en el caso del Notario y en 1.998 pesetas en el caso del Registrador de la Propiedad.
+Lo dispuesto en este artículo pasará a formar parte de los respectivos aranceles de Notarios y Registradores de la Propiedad y su revisión o modificación se acomodará, en todo caso, a las disposiciones vigentes en la materia.
+4. Los beneficios a que se refiere este artículo se entienden sin perjuicio de los que fueren más favorables, en función de la legislación a cuyo tenor se obtuvo la calificación de las viviendas.
+Véanse sobre la actualización de las cuantías en euros la Instrucción de 14 de diciembre de 2001 Ref. BOE-A-2001-24394 y la Instrucción de 22 de mayo de 2002 Ref. BOE-A-2002-12290.
+ Se modifica por el art. 37 del Real Decreto-Ley 6/2000, de 23 de junio.Ref. BOE-A-2000-11836#a37.
+
+### Artículo noveno
+
+Artículo noveno.
+Por el Ministerio de Obras Públicas y Urbanismo se tendrán en cuenta los efectos económicos que se deriven de la aplicación, de las medidas contenidas en esta Ley, al efectuar la revisión de las módulos y precios de las viviendas de protección oficial.
+
+### Artículo décimo
+
+Artículo décimo.
+Por el Gobierno y, en su caso, por los Ministros de Justicia, Hacienda y Obras Públicas y Urbanismo se adoptarán las medidas necesarias para la aplicación y ejecución de lo prevenido en la presente Ley.
+
+### DISPOSICIÓN FINAL
+
+Uno. A la entrada en vigor de la presente Ley, quedará derogado el Real Decreto-ley quince/mil novecientos setenta y nueve, de veintiuno de septiembre, sobre Medidas Urgentes de Apoyo a la Vivienda.
+Dos. La presente Ley entrará en vigor simultáneamente con la Ley reguladora del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, sin perjuicio de la aplicación hasta ese momento del Real Decreto-ley quince/mil novecientos setenta y nueve, de veintiuno de septiembre.
+Los preceptos de esta Ley que se refieran al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados se incorporarán al texto refundido que regule el mencionado impuesto.
+
+### DISPOSICIÓN ADICIONAL
+
+A los efectos del pago del Impuesto de Transmisiones Patrimoniales sobre viviendas o sobre bienes inmuebles destinados a su construcción se aplicarán, a petición del interesado, las normas de fraccionamiento de pago establecidas en el artículo sexto del Decreto-ley trace/mil novecientos setenta y cinco, de diecisiete de noviembre.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio Real, de Madrid, a cinco de julio de mil novecientos ochenta.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+ADOLFO SUÁREZ GONZÁLEZ

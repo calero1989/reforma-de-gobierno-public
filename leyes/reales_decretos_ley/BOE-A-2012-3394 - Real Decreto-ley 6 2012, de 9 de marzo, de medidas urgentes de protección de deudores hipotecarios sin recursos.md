@@ -1,0 +1,321 @@
+# Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos.
+
+- Identificador BOE: `BOE-A-2012-3394`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2012-3394
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+España atraviesa una profunda crisis económica desde hace cuatro años, durante los cuales se han adoptado medidas encaminadas a la protección del deudor hipotecario que, no obstante, se han mostrado en ocasiones insuficientes para paliar los efectos más duros que sobre los deudores sin recursos continúan recayendo. Resulta dramática la realidad en la que se encuentran inmersas muchas familias que, como consecuencia de su situación de desempleo o de ausencia de actividad económica, prolongada en el tiempo, han dejado de poder atender el cumplimiento de sus obligaciones derivadas de los préstamos o créditos hipotecarios concertados para la adquisición de su vivienda.
+Tal circunstancia y la consiguiente puesta en marcha de los procesos de ejecución hipotecaria están determinando que un segmento de la población quede privado de su vivienda, y se enfrente a muy serios problemas para su sustento en condiciones dignas. El Gobierno considera, por ello, que no puede demorarse más tiempo la adopción de medidas que permitan aportar soluciones a esta situación socioeconómica en consonancia con el derecho a disfrutar de una vivienda digna y adecuada, consagrado en el artículo 47 de la Constitución española, que ha de guiar la actuación de los poderes públicos de conformidad con el artículo 53.3 de la misma. Así lo exige, igualmente, el mandato incluido en el artículo 9.2 de la Norma Fundamental.
+A tal fin, se establecen en este real decreto-ley diversos mecanismos conducentes a permitir la restructuración de la deuda hipotecaria de quienes padecen extraordinarias dificultades para atender su pago, así como la flexibilización de la ejecución de la garantía real. Estas medidas se implementan, no obstante, sin deteriorar los elementos fundamentales de la garantía hipotecaria, sobre cuya seguridad y solvencia se viene asentando históricamente nuestro sistema hipotecario. La mayoría de las medidas serán de aplicación a quienes se encuentren situados en el denominado umbral de exclusión. En este sentido, se ha determinado que los beneficiarios sean personas que se encuentren en situación profesional y patrimonial que les impida hacer frente al cumplimiento de sus obligaciones hipotecarias y a las elementales necesidades de subsistencia. Este umbral es sensible igualmente a la situación económica de los demás miembros de la unidad familiar, así como de los titulares de las garantías personales o reales que, en su caso, existiesen. Se adoptan también cautelas para impedir que pueda producirse un acogimiento fraudulento o abusivo a las medidas propuestas.
+El modelo de protección diseñado gira en torno a la elaboración de un código de buenas prácticas al que, voluntariamente, podrán adherirse las entidades de crédito y demás entidades que, de manera profesional, realizan la actividad de concesión de préstamos o créditos hipotecarios, y cuyo seguimiento por aquellas será supervisado por una comisión de control integrada por representantes del Ministerio de Economía y Competitividad, Banco de España, Comisión Nacional del Mercado de Valores y Asociación Hipotecaria Española.
+Con la aplicación de las medidas contenidas en el citado Código, que figura como Anexo a este real decreto-ley, se facilita y promueve la implicación del sector financiero español en el esfuerzo requerido para aliviar la difícil situación económica y social de muchas familias.
+El citado Código incluye tres fases de actuación. La primera, dirigida a procurar la reestructuración viable de la deuda hipotecaria, a través de la aplicación a los préstamos o créditos de una carencia en la amortización de capital y una reducción del tipo de interés durante cuatros años y la ampliación del plazo total de amortización. En segundo lugar, de no resultar suficiente la reestructuración anterior, las entidades podrán, en su caso, y con carácter potestativo, ofrecer a los deudores una quita sobre el conjunto de su deuda. Y, finalmente, si ninguna de las dos medidas anteriores logra reducir el esfuerzo hipotecario de los deudores a límites asumibles para su viabilidad financiera, estos podrán solicitar, y las entidades deberán aceptar, la dación en pago como medio liberatorio definitivo de la deuda. En este último supuesto, las familias podrán permanecer en su vivienda durante de un plazo de dos años satisfaciendo una renta asumible.
+Asimismo, se moderan los tipos de interés moratorios aplicables a los contratos de crédito o préstamo hipotecario. Esta reducción pretende disminuir la carga financiera generada en casos de incumplimiento por impago de los deudores protegidos.
+De otra parte, se incorporan al colectivo de beneficiarios de las ayudas a inquilinos previstas en el Real Decreto 2066/2008, de 12 de diciembre, por el que se regula el Plan de Vivienda y Rehabilitación 2009-2011, las personas que hubieran sido objeto de una resolución judicial de lanzamiento como consecuencia de procesos de ejecución hipotecaria, así como las que suscriban contratos de arrendamiento como consecuencia de la aplicación de las medidas contenidas en el citado Código de Buenas Prácticas.
+Las medidas anteriores se complementan con otras modificaciones legales de índole procesal y fiscal. En materia procesal se procede a simplificar y aclarar el procedimiento de ejecución extrajudicial previendo una subasta única y un importe mínimo de adjudicación y remitiendo a un posterior desarrollo reglamentario la regulación de la venta extrajudicial, posibilitando, entre otras medidas, la subasta on line. En materia fiscal, las escrituras públicas de formalización de las novaciones contractuales que se produzcan al amparo del Código de Buenas Prácticas quedarán exentas de la cuota gradual de documentos notariales de la modalidad de Actos Jurídicos Documentados.
+La adopción de las medidas contempladas en este real decreto-ley resulta imprescindible al objeto de proteger a un colectivo social en situación de extraordinaria vulnerabilidad en el contexto económico generado por la crisis. Los efectos del desempleo sobre las familias españolas y su situación social han producido un deterioro, sobre el que la intervención pública no puede demorarse más. Es por ello por lo que la adopción de tales medidas exige acudir al procedimiento del real decreto-ley, cumpliéndose los requisitos del artículo 86 de la Constitución Española en cuanto a su extraordinaria y urgente necesidad.
+En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución española, a propuesta del Ministro de Economía y Competitividad, y previa deliberación del Consejo de Ministros en su reunión del día 9 de marzo de 2012, dispongo:
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto.
+Este real decreto-ley tiene por objeto establecer medidas conducentes a procurar la reestructuración de la deuda hipotecaria de quienes padecen extraordinarias dificultades para atender su pago, así como mecanismos de flexibilización de los procedimientos de ejecución hipotecaria.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+Las medidas previstas en este Real Decreto-Ley se aplicarán a los contratos de préstamo o crédito garantizados con hipoteca inmobiliaria cuyo deudor se encuentre situado en el umbral de exclusión y que estén vigentes a la fecha de entrada en vigor o que se suscriban posteriormente.
+Las medidas previstas en este Real Decreto-Ley se aplicarán igualmente a los fiadores y avalistas hipotecarios del deudor principal, respecto de su vivienda habitual y con las mismas condiciones que las establecidas para el deudor hipotecario.
+Téngase en cuenta que esta última modificación, establecida por la disposición final 10 de la Ley 5/2019, de 15 de marzo. Ref. BOE-A-2019-3814#df-10, entra en vigor el 16 de junio de 2019 según establece su disposición final 16:
+ Redacción anterior:
+ "Artículo 2. Ámbito de aplicación.
+ Las medidas previstas en este Real Decreto-ley se aplicarán a los contratos de préstamo o crédito garantizados con hipoteca inmobiliaria cuyo deudor se encuentre situado en el umbral de exclusión y que estén vigentes a la fecha de su entrada en vigor, con excepción de las contenidas en los artículos 12 y 13, que serán de aplicación general.
+ Las medidas previstas en este Real Decreto-ley se aplicarán igualmente a los fiadores y avalistas hipotecarios del deudor principal, respecto de su vivienda habitual y con las mismas condiciones que las establecidas para el deudor hipotecario."
+Se modifica por la disposición final 10 de la Ley 5/2019, de 15 de marzo. Ref. BOE-A-2019-3814#df-10.
+ Se modifica por la disposición final 14.1 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se modifica por el art. 8.1 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+## CAPÍTULO II
+
+Medidas para la reestructuración de la deuda hipotecaria inmobiliaria
+
+### Artículo 3
+
+Artículo 3. Definición del umbral de exclusión.
+1. Se considerarán situados en el umbral de exclusión aquellos deudores de un crédito o préstamo garantizado con hipoteca sobre vivienda habitual, cuando concurran en ellos todas las circunstancias siguientes:
+a) Que el conjunto de los ingresos de los miembros de la unidad familiar no supere el límite de tres veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas. A estos efectos se entenderá por unidad familiar la compuesta por el deudor, su cónyuge no separado legalmente o pareja de hecho inscrita y los hijos, con independencia de su edad, que residan en la vivienda, incluyendo los vinculados por una relación de tutela, guarda o acogimiento familiar.
+El límite previsto en el párrafo anterior será de cuatro veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas en caso de que alguno de los miembros de la unidad familiar tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente para realizar una actividad laboral, o de cinco veces dicho indicador, en el caso de que un deudor hipotecario sea persona con parálisis cerebral, con enfermedad mental, o con discapacidad intelectual, con un grado de discapacidad reconocido igual o superior al 33 por ciento, o persona con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65 por ciento, así como en los casos de enfermedad grave que incapacite acreditadamente, a la persona o a su cuidador, para realizar una actividad laboral.
+b) Que, en los cuatro años anteriores al momento de la solicitud, la unidad familiar haya sufrido una alteración significativa de sus circunstancias económicas, en términos de esfuerzo de acceso a la vivienda, o hayan sobrevenido en dicho período circunstancias familiares de especial vulnerabilidad.
+A estos efectos se entenderá que se ha producido una alteración significativa de las circunstancias económicas cuando el esfuerzo que represente la carga hipotecaria sobre la renta familiar se haya incrementado.
+Asimismo, se entiende que se encuentran en una circunstancia familiar de especial vulnerabilidad:
+1.º La familia numerosa, de conformidad con la legislación vigente.
+2.º La unidad familiar monoparental con hijos a cargo.
+3.º La unidad familiar de la que forme parte un menor de edad.
+4.º La unidad familiar en la que alguno de sus miembros tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente, para realizar una actividad laboral.
+5.º La unidad familiar con la que convivan, en la misma vivienda, una o más personas que estén unidas con el titular de la hipoteca o su cónyuge por vínculo de parentesco hasta el tercer grado de consanguinidad o afinidad, y que se encuentren en situación personal de discapacidad, dependencia, enfermedad grave que les incapacite acreditadamente de forma temporal o permanente para realizar una actividad laboral.
+6.º La unidad familiar en que exista una víctima de violencia de género o de trata o explotación sexual.
+7.º El deudor mayor de sesenta años, aunque no reúna los requisitos para ser considerado unidad familiar según lo previsto en la letra a) de este número.
+c) Que la cuota hipotecaria resulte superior al 50 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar. Dicho porcentaje será del 40 por cien cuando alguno de dichos miembros sea una persona en la que concurren las circunstancias previstas en el segundo párrafo de la letra a).
+A efectos de las letras a) y b) anteriores, se considerará que presentan una discapacidad en grado igual o superior al 33 por ciento los pensionistas de la Seguridad Social que tengan reconocida una pensión de incapacidad permanente en el grado de total, absoluta o gran invalidez, y los pensionistas de clases pasivas que tengan reconocida una pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.
+2. Para la aplicación de las medidas complementarias y sustitutivas de la ejecución hipotecaria a que se refieren los apartados 2 y 3 del anexo, será además preciso que se cumplan los siguientes requisitos.
+a) Que el conjunto de los miembros de la unidad familiar carezca de cualesquiera otros bienes o derechos patrimoniales suficientes con los que hacer frente a la deuda.
+b) Que se trate de un crédito o préstamo garantizado con hipoteca que recaiga sobre la única vivienda en propiedad del deudor o deudores y concedido para la adquisición de la misma.
+c) Que se trate de un crédito o préstamo que carezca de otras garantías, reales o personales o, en el caso de existir estas últimas, que carezca de otros bienes o derechos patrimoniales suficientes con los que hacer frente a la deuda.
+d) En el caso de que existan codeudores que no formen parte de la unidad familiar, deberán estar incluidos en las circunstancias a), b) y c) anteriores.
+3. La concurrencia de las circunstancias a que se refiere el apartado 1 se acreditará por el deudor ante la entidad acreedora mediante la presentación de los siguientes documentos:
+a) Percepción de ingresos por los miembros de la unidad familiar:
+1.º Certificado de rentas, y en su caso, certificado relativo a la presentación del Impuesto de Patrimonio, expedido por la Agencia Estatal de Administración Tributaria o el órgano competente de la comunidad autónoma, en su caso, con relación al último ejercicio tributario.
+2.º Últimas tres nóminas percibidas.
+3.º Certificado expedido por la entidad gestora de las prestaciones, en el que figure la cuantía mensual percibida en concepto de prestaciones o subsidios por desempleo.
+4.º Certificado acreditativo de los salarios sociales, rentas mínimas de inserción, ingreso mínimo vital o ayudas análogas de asistencia social concedidas por el Estado, las comunidades autónomas y las entidades locales.
+5.º En caso de trabajador por cuenta propia, si estuviera percibiendo la prestación por cese de actividad, el certificado expedido por el órgano gestor en el que figure la cuantía mensual percibida.
+b) Número de personas que habitan la vivienda:
+1.º Libro de familia o documento acreditativo de la inscripción como pareja de hecho.
+2.º Certificado de empadronamiento relativo a las personas empadronadas en la vivienda, con referencia al momento de la presentación de los documentos acreditativos y a los seis meses anteriores.
+3.º Declaración de discapacidad, de dependencia o de incapacidad permanente para realizar una actividad laboral.
+c) Titularidad de los bienes:
+1.º Certificados de titularidades expedidos por el Registro de la Propiedad en relación con cada uno de los miembros de la unidad familiar.
+2.º Escrituras de compraventa de la vivienda y de constitución de la garantía hipotecaria y otros documentos justificativos, en su caso, del resto de las garantías reales o personales constituidas, si las hubiere.
+d) Declaración responsable del deudor o deudores relativa al cumplimiento de los requisitos exigidos para considerarse situados en el umbral de exclusión según el modelo aprobado por la comisión constituida para el seguimiento del cumplimiento del Código de Buenas Prácticas.
+En el caso de que la entidad acreedora tenga en su poder datos o documentación acreditativa sobre alguno de los extremos referidos en las letras anteriores, el deudor estará exonerado de su acreditación ante la entidad.
+Asimismo, a fin de acreditar que cumple con las condiciones de elegibilidad, el deudor podrá autorizar al sujeto adherido, expresamente y por escrito, a que obtenga información directamente de la Agencia Estatal de la Administración Tributaria, Entidades Gestoras de la Seguridad Social y Registros de la Propiedad y Mercantiles.
+Se modifica por el art. 10.1 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+ Se modifica el apartado 1.b) por el art. 1.1 del Real Decreto-ley 5/2017, de 17 de marzo. Ref. BOE-A-2017-2985.
+ Se modifica el apartado 1 por el art. 2.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a2.
+ Se modifica el apartado 1 por el art. 2.1 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a2.
+ Se modifica por el art. 8.2 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Artículo 3 bis
+
+Artículo 3 bis. Fiadores, avalistas e hipotecantes no deudores.
+Los fiadores, avalistas e hipotecantes no deudores que se encuentren en el umbral de exclusión podrán exigir que la entidad agote el patrimonio del deudor principal, sin perjuicio de la aplicación a éste, en su caso, de las medidas previstas en el Código de Buenas Prácticas, antes de reclamarles la deuda garantizada, aun cuando en el contrato hubieran renunciado expresamente al beneficio de excusión.
+Se modifica por la disposición final 14.2 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+ Se añade por el art. 8.3 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+ Redactado conforme a la corrección de errores publicada en BOE núm. 123, de 23 de mayo de 2013. Ref. BOE-A-2013-5391.
+
+### Artículo 4
+
+Artículo 4. Moderación de los intereses moratorios.
+1. En todos los contratos de crédito o préstamo garantizados con hipoteca inmobiliaria en los que el deudor se encuentre situado en el umbral de exclusión, el interés moratorio aplicable desde el momento en que el deudor solicite a la entidad la aplicación de cualquiera de las medidas del código de buenas prácticas y acredite ante la entidad que se encuentra en dicha circunstancia, será, como máximo, el resultante de sumar a los intereses remuneratorios pactados en el préstamo un 2 por cien sobre el capital pendiente del préstamo.
+2. Esta moderación de intereses no será aplicable a deudores o contratos distintos de los regulados en el presente Real Decreto-ley.
+Se añade por el art. 8.4 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Artículo 5
+
+Artículo 5. Sujeción al Código de Buenas Prácticas.
+1. El Código de Buenas Prácticas incluido en el Anexo será de adhesión voluntaria por parte de las entidades de crédito o de cualquier otra entidad que, de manera profesional, realice la actividad de concesión de préstamos o créditos hipotecarios.
+2. La aplicación del Código de Buenas Prácticas se extenderá a las hipotecas constituidas en garantía de préstamos o créditos, cuando el precio de adquisición del bien inmueble hipotecado no exceda en un 20 por ciento del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicado dicho bien, con un límite absoluto de 300.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+No obstante, solo podrán acogerse a las medidas previstas en el apartado 3 del Código las hipotecas constituidas en garantía de préstamos o créditos concedidos, cuando el precio de adquisición del bien inmueble hipotecado no exceda del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicado dicho bien, con un límite absoluto de 250.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+3. Las entidades comunicarán su adhesión a la Secretaría General del Tesoro y Política Financiera.
+4. Desde la adhesión de la entidad de crédito, y una vez que se produzca la acreditación por parte del deudor de que se encuentra situado dentro del umbral de exclusión, serán de obligada aplicación las previsiones del Código de Buenas Prácticas. Sin perjuicio de lo anterior, cualquiera de las partes podrá compeler a la otra a la formalización en escritura pública de la novación del contrato resultante de la aplicación de las previsiones contenidas en el Código de Buenas Prácticas. Los costes de dicha formalización correrán a cargo de la parte que la solicite.
+5. La novación del contrato tendrá los efectos previstos en el artículo 4.3 de la Ley 2/1994, de 30 de marzo, sobre Subrogación y Modificación de Préstamos Hipotecarios, con respecto a los préstamos y créditos novados.
+6. La adhesión de la entidad se entenderá producida por un plazo de dos años, prorrogable automáticamente por períodos anuales, salvo denuncia expresa de la entidad adherida, notificada a la Secretaría General del Tesoro y Política Financiera con una antelación mínima de tres meses.
+7. El contenido del Código de Buenas Prácticas resultará de aplicación exclusiva a las entidades adheridas, deudores y contratos a los que se refiere este real decreto-ley. No procederá, por tanto, la extensión de su aplicación, con carácter normativo o interpretativo, a ningún otro ámbito. En particular, desde la adhesión, el contenido del Código de Buenas Prácticas se incorporará a toda la cartera de contratos de la entidad adherida y su contenido será oponible a terceros, de manera que aun no habiendo disfrutado el deudor de las medidas que se incorporan al mismo, se mantendrá su derecho a instarlas durante el tiempo de su vigencia. Las entidades adoptarán las medidas necesarias para salvaguardar los derechos de los deudores en caso de cesión del crédito a un tercero.
+8. Sin perjuicio de lo dispuesto en el apartado anterior, las entidades adheridas podrán con carácter puramente potestativo aplicar las previsiones del Código de Buenas Prácticas a deudores distintos de los comprendidos en el artículo 3 y podrán, en todo caso, en la aplicación del Código, mejorar las previsiones contenidas en el mismo.
+9. Las entidades adheridas al Código de Buenas Prácticas habrán de informar adecuadamente a sus clientes sobre la posibilidad de acogerse a lo dispuesto en el Código. Esta información habrá de facilitarse especialmente en su red comercial de oficinas. En particular, las entidades adheridas deberán comunicar por escrito la existencia de este Código, con una descripción concreta de su contenido, y la posibilidad de acogerse a él para aquellos clientes que hayan incumplido el pago de alguna cuota hipotecaria o manifiesten, de cualquier manera, dificultades en el pago de su deuda hipotecaria.
+La formalización del contrato por el que se establece alguna de las medidas adoptadas por virtud de lo establecido en este Código no estará sometida a lo previsto en los artículos 10, 11, 12, 14 y 15, el apartado 2 de la disposición transitoria primera de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario.
+Se modifican los apartados 7 y 9 por el art. 10.2 y 3 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+ Se modifican los apartados 2 y 3 por el art. 2.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a2.
+ Se modifican los apartados 2 y 3 por el art. 2.2 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a2.
+ Se modifica por el art. 8.5 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Artículo 6
+
+Artículo 6. Seguimiento del cumplimiento del Código de Buenas Prácticas.
+1. El cumplimiento del Código de Buenas Prácticas por parte de las entidades adheridas será supervisado por una comisión de control constituida al efecto.
+2. La Comisión de Control estará integrada por catorce miembros:
+a) Uno nombrado por el Ministerio de Asuntos Económicos y Transformación Digital con al menos rango de Director General, que presidirá la Comisión y tendrá voto de calidad.
+b) Uno designado por el Banco de España, que actuará como Secretario.
+c) Uno designado por la Comisión Nacional del Mercado de Valores.
+d) Un juez designado por el Consejo General del Poder Judicial.
+e) Un Secretario Judicial designado por el Ministerio de Justicia.
+f) Un Notario designado por el Consejo General del Notariado.
+g) Uno designado por el Instituto Nacional de Estadística.
+h) Uno designado por la Asociación Hipotecaria Española.
+i) Uno designado por el Consejo de Consumidores y Usuarios.
+j) Dos designados por las asociaciones no gubernamentales que determinará el Ministerio de Inclusión y Seguridad Social, que realicen labores de apoyo social y acogida.
+k) Tres representantes, uno de cada asociación representativas de los intereses de bancos, cajas de ahorros y fundaciones bancarias, y cooperativas de crédito, respectivamente.
+La Comisión de Control determinará sus normas de funcionamiento y se reunirá cada vez que sea convocada por su Presidente, por propia iniciativa o a instancia de cuatro de sus miembros. Estará, asimismo, facultada para establecer su propio régimen de convocatorias.
+3. Para la válida constitución de la comisión a efectos de la celebración de sesiones, deliberaciones y adopción de decisiones, será necesaria la asistencia de, al menos, cinco de sus miembros, siempre que entre ellos figure el Presidente. Sus acuerdos se adoptarán por mayoría de sus miembros.
+4. La comisión de control recibirá y evaluará la información que, en relación con los apartados 5 y 6, le traslade el Banco de España y publicará semestralmente un informe en el que evalúe el grado de cumplimiento del Código de Buenas Prácticas. Este informe deberá remitirse a la Comisión de Economía y Competitividad del Congreso de los Diputados.
+Asimismo, corresponderá a esta comisión la elaboración del modelo normalizado de declaración responsable a que se refiere la letra d) del artículo 3.3.
+5. Las entidades adheridas remitirán al Banco de España, con carácter mensual, la información que les requiera la comisión de control. Esta información incluirá, en todo caso:
+a) El número, volumen y características de las operaciones solicitadas, ejecutadas y denegadas en aplicación del Código de Buenas Prácticas, con el desglose que se considere adecuado para valorar el funcionamiento del Código.
+b) Información relativa a los procedimientos de ejecución hipotecaria sobre viviendas de personas físicas.
+c) Información relativa a las prácticas que lleven a cabo las entidades en relación con el tratamiento de la deuda hipotecaria vinculada a la vivienda de las personas físicas.
+d) Las reclamaciones tramitadas conforme a lo previsto en el apartado siguiente.
+La Comisión de Control podrá igualmente requerir a las entidades adheridas cualquier otra información que considere apropiada en relación con la protección de deudores hipotecarios.
+6. Podrán formularse ante el Banco de España las reclamaciones derivadas del presunto incumplimiento por las entidades de crédito del Código de Buenas Prácticas, las cuales recibirán el mismo tratamiento que las demás reclamaciones cuya tramitación y resolución corresponde al citado Banco de España.
+7. La Comisión podrá analizar y elevar al Gobierno propuestas relativas a la protección de los deudores hipotecarios.
+Se modifica el apartado 2 por el art. 10.4 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+ Se modifica por el art. 8.6 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Artículo 7
+
+Artículo 7. Consecuencias de la aplicación indebida por el deudor de las medidas para la reestructuración de la deuda hipotecaria inmobiliaria.
+1. El deudor de un crédito o préstamo garantizado con hipoteca que se hubiese beneficiado tanto de las medidas de reestructuración establecidas en este capítulo como de las previsiones del Código de Buenas Prácticas sin reunir los requisitos previstos en el artículo 3, será responsable de los daños y perjuicios que se hayan podido producir, así como de todos los gastos generados por la aplicación de estas medidas de flexibilización, sin perjuicio de las responsabilidades de otro orden a que la conducta del deudor pudiera dar lugar.
+2. El importe de los daños, perjuicios y gastos no puede resultar inferior al beneficio indebidamente obtenido por el deudor por la aplicación de la norma.
+3. También incurrirá en responsabilidad el deudor que, voluntaria y deliberadamente, busque situarse o mantenerse en el umbral de exclusión con la finalidad de obtener la aplicación de estas medidas, correspondiendo la acreditación de esta circunstancia a la entidad con la que tuviere concertado el préstamo o crédito.
+
+## CAPÍTULO III
+
+Medidas fiscales
+
+### Artículo 8
+
+Artículo 8. Modificación del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre.
+Se añade un nuevo número 23 al artículo 45.I.B) del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, que tendrá la siguiente redacción:
+«23. Las escrituras de formalización de las novaciones contractuales de préstamos y créditos hipotecarios que se produzcan al amparo del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, quedarán exentas de la cuota gradual de documentos notariales de la modalidad de actos jurídicos documentados de este Impuesto.»
+
+### Artículo 9
+
+Artículo 9. Modificación del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por el Real Decreto legislativo 2/2004, de 5 de marzo.
+Se añade un nuevo apartado 3 al artículo 106 del texto refundido de la Ley Reguladora de las Haciendas Locales aprobado por el Real Decreto legislativo 2/2004, de 5 de marzo, que tendrá la siguiente redacción:
+«3. En las transmisiones realizadas por los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, con ocasión de la dación en pago de su vivienda prevista en el apartado 3 del Anexo de dicha norma, tendrá la consideración de sujeto pasivo sustituto del contribuyente la entidad que adquiera el inmueble, sin que el sustituto pueda exigir del contribuyente el importe de las obligaciones tributarias satisfechas.»
+
+### Artículo 10
+
+Artículo 10. Modificación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio
+Se añade una disposición adicional trigésima sexta a la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, que queda redactada de la siguiente forma:
+«Disposición adicional trigésima sexta. Dación en pago de la vivienda.
+Estará exenta de este Impuesto la ganancia patrimonial que se pudiera generar en los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, con ocasión de la dación en pago de su vivienda prevista en el apartado 3 del Anexo de dicha norma.»
+
+### Artículo 11
+
+Artículo 11. Bonificación de derechos arancelarios
+1. Los derechos arancelarios y demás conceptos notariales y registrales derivados de la formalización e inscripción de las novaciones que se realicen al amparo de este Código de Buenas Prácticas serán satisfechos en todo caso por el acreedor y se bonificarán en los siguientes términos:
+a) Por el otorgamiento de la escritura se devengará el arancel correspondiente a las escrituras de novación hipotecaria, previsto en la letra f) del apartado 1 del número 1 del anexo I del Real Decreto 1426/1989, de 17 de noviembre, por el que se aprueba el arancel de los Notarios, reducido en un 75 por ciento, sin que se devengue cantidad alguna a partir del quinto folio de matriz y de copia, sea copia autorizada o copia simple. El arancel mínimo previsto será de 10 euros y el máximo de 30 por todos los conceptos.
+b) Por la práctica de la inscripción se aplicará el arancel previsto para las novaciones modificativas en artículo 2.1.g) del anexo I del Real Decreto 1427/1989, de 17 de noviembre, por el que se aprueba el Arancel de los Registradores. Al resultado se le aplicará una bonificación del 75 por ciento. El arancel mínimo previsto será de 10 euros y el máximo de 20 euros por todos los conceptos.
+2. Los derechos arancelarios notariales y registrales derivados de la cancelación del derecho real de hipoteca en los casos de dación en pago de deudor hipotecado situado en el umbral de exclusión de este real decreto-ley, se bonificarán en un 50 por cien.
+El deudor no soportará ningún coste adicional de la entidad financiera que adquiere libre de carga hipotecaria, la titularidad del bien antes hipotecado.
+Se modifica por el art. 10.5 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+
+## CAPÍTULO IV
+
+Procedimiento de ejecución
+
+### Artículo 12
+
+Artículo 12. Procedimiento de ejecución extrajudicial
+La ejecución extrajudicial de bienes hipotecados, regulada en el artículo 129 de la Ley Hipotecaria y sujeta al procedimiento previsto en los artículos 234 a 236 o del Reglamento Hipotecario, se someterá a lo previsto en los apartados siguientes en aquellos casos en que el procedimiento se siga contra la vivienda habitual del deudor:
+1. La realización del valor del bien se llevará a cabo a través de una única subasta para la que servirá de tipo el pactado en la escritura de constitución de hipoteca. No obstante, si se presentaran posturas por un importe igual o superior al 70 por cien del valor por el que el bien hubiera salido a subasta, se entenderá adjudicada la finca a quien presente la mejor postura.
+2. Cuando la mejor postura presentada fuera inferior al 70 por cien del tipo señalado para la subasta, podrá el deudor presentar, en el plazo de diez días, tercero que mejore la postura, ofreciendo cantidad superior al 70 por cien del valor de tasación o que, aun inferior a dicho importe, resulte suficiente para lograr la completa satisfacción del derecho del ejecutante.
+3. Transcurrido el expresado plazo sin que el deudor del bien realice lo previsto en el párrafo anterior, el acreedor podrá pedir, dentro del término de cinco días, la adjudicación de la finca o fincas por importe igual o superior al 60 por cien del valor de tasación.
+4. Si el acreedor no hiciese uso de la mencionada facultad, se entenderá adjudicada la finca a quien haya presentado la mejor postura, siempre que la cantidad que haya ofrecido supere el 50 por cien del valor de tasación o, siendo inferior, cubra, al menos, la cantidad reclamada por todos los conceptos.
+5. Si en el acto de la subasta no hubiere ningún postor, podrá el acreedor, en el plazo de veinte días, pedir la adjudicación por importe igual o superior al 60 por cien del valor de tasación.
+6. Si el acreedor no hiciere uso de la facultad a que se refiere el párrafo anterior, se estará a lo previsto en el artículo 236 n. del Reglamento Hipotecario.
+
+## CAPÍTULO V
+
+Acceso al alquiler de las personas afectadas por desahucios y sujetas a medidas de flexibilización de las ejecuciones hipotecarias
+
+### Artículo 13
+
+Artículo 13. Preferencia para el acceso a las ayudas a los inquilinos.
+Las personas que hubieran sido objeto de una resolución judicial de lanzamiento de su vivienda habitual como consecuencia de procesos judiciales o extrajudiciales de ejecución hipotecaria, con posterioridad al 1 de enero de 2012, podrán ser beneficiarias de las ayudas a los inquilinos, en los términos establecidos en los artículos 38 y 39 del Real Decreto 2066/2008, de 12 de diciembre, por el que se regula el Plan de Vivienda y Rehabilitación 2009-2012. A estos efectos, la solicitud de la ayuda deberá presentarse en un plazo no superior a seis meses desde que se produjo el lanzamiento.
+Asimismo, las personas mencionadas en el párrafo anterior tendrán la consideración de colectivo con derecho a protección preferente para el acceso a las ayudas a los inquilinos, en los términos establecidos en el apartado 2 del artículo 1 del citado real decreto.
+
+### Artículo 14
+
+Artículo 14. Personas sujetas a medidas de flexibilización hipotecaria.
+Podrán obtener también las ayudas a los inquilinos citadas en el artículo anterior los solicitantes que suscriban contratos de arrendamiento como consecuencia de la aplicación de la dación en pago prevista en el Código de Buenas Prácticas, cuando sus ingresos familiares no excedan de 2,5 veces el Indicador Público de Renta de Efectos Múltiples, determinados de acuerdo con lo dispuesto en el artículo 4.1 del Real Decreto 2066/2008, de 12 de diciembre.
+
+## CAPÍTULO VI
+
+Régimen sancionador
+Se añade por el art. 8.7 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Artículo 15
+
+Artículo 15. Régimen sancionador.
+Lo previsto en los apartados 4, 7 y 9 del artículo 5 y en el artículo 6.5 tendrá la condición de normativa de ordenación y disciplina, conforme a lo previsto en la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, y el incumplimiento de las obligaciones que derivan de los mismos se considerará infracción grave, que se sancionará de acuerdo con lo establecido en dicha ley.
+Se modifica por el art. 10.6 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+ Se añade por el art. 8.7 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Disposición adicional única
+
+Disposición adicional única. Régimen especial de aplicación de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+1. Los contratos de arrendamiento que se suscriban como consecuencia de la aplicación del Código de Buenas Prácticas se considerarán contratos de arrendamientos de vivienda y estarán sujetos a la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, excepto a lo previsto en sus artículos 9 y 18, con las especialidades que se regulan a continuación.
+2. La duración de estos contratos de arrendamiento será de dos años, sin derecho a prórroga, salvo acuerdo escrito de las partes.
+3. La renta durante el período de dos años quedará establecida de conformidad con los parámetros del Código de Buena Prácticas. Transcurrido dicho plazo y durante las prórrogas que pudieran haberse pactado, la renta habrá de quedar determinada conforme a criterios de mercado.
+4. A los seis meses de producido el impago de la renta sin que éste se haya regularizado en su integridad, el arrendador podrá iniciar el desahucio del arrendatario.
+5. Transcurrido el plazo de dos años de duración del contrato, si el arrendatario no desalojara la vivienda, el arrendador podrá iniciar el procedimiento de desahucio. En el mismo, se reclamará como renta impagada la renta de mercado correspondiente a los meses en los que la vivienda hubiera estado ocupada indebidamente.
+
+### Disposición final primera
+
+Disposición final primera. Modificación del Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros.
+El primer párrafo del artículo 6.3 del Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros que queda redactado en los siguientes términos:
+«3. Corresponde al Estado la supervisión y control de las fundaciones de carácter especial a las que se refiere el presente real decreto-ley, cuyo ámbito de actuación principal exceda el de una Comunidad Autónoma, a través del Protectorado que será ejercido por el Ministerio de Economía y Competitividad.»
+
+### Disposición final segunda
+
+Disposición final segunda. Títulos competenciales.
+Este real decreto-ley se dicta al amparo de lo dispuesto en las reglas 6.ª, 8.ª, 11.ª, 13.ª y 14.ª del artículo 149.1 de la Constitución española, que atribuyen al Estado la competencia exclusiva sobre legislación mercantil y procesal, legislación civil, bases de la ordenación del crédito, banca y seguros, bases y coordinación de la planificación general de la actividad económica y hacienda general y Deuda del Estado, respectivamente.
+
+### Disposición final tercera
+
+Disposición final tercera. Desarrollo reglamentario de la ejecución extrajudicial.
+El Gobierno, en el plazo de seis meses desde la entrada en vigor de este real decreto-ley, aprobará las normas reglamentarias precisas con el fin de simplificar el procedimiento de venta extrajudicial, las cuales incorporarán, entre otras medidas, la posibilidad de subasta electrónica.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Entrada en vigor.
+Este real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 9 de marzo de 2012.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+MARIANO RAJOY BREY
+
+## ANEXO
+
+Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual
+1. Medidas previas a la ejecución hipotecaria: reestructuración de deudas hipotecarias.
+a) Los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, podrán solicitar y obtener de la entidad acreedora la reestructuración de su deuda hipotecaria al objeto de alcanzar la viabilidad a medio y largo plazo de la misma. Junto a la solicitud de reestructuración, acompañarán la documentación prevista en el artículo 3.3 del citado Real Decreto-ley.
+No podrán formular tal solicitud aquellos deudores que se encuentren en un procedimiento de ejecución, una vez se haya producido el anuncio de la subasta.
+b) En el plazo de un mes desde la presentación de la solicitud anterior junto con la documentación a que se refiere la letra anterior, la entidad deberá notificar y ofrecer al deudor un plan de reestructuración en el que se concreten la ejecución y las consecuencias financieras para el deudor de la aplicación conjunta de las medidas contenidas en esta letra. Sin perjuicio de lo anterior, el deudor podrá presentar en todo momento a la entidad una propuesta de plan de reestructuración, que deberá ser analizada por la entidad, quien, en caso de rechazo, deberá comunicar al deudor los motivos en que se fundamente.
+i. Carencia en la amortización de capital de cinco años. El capital correspondiente a las cuotas de ese periodo podrá o bien pasarse a una cuota final al término del préstamo o bien prorratearse en las cuotas restantes, o realizarse una combinación de ambos sistemas.
+No obstante lo anterior, si el incremento del esfuerzo que represente la carga hipotecaria sobre la renta familiar se hubiera incrementado en menos de 1,5 y la unidad familiar no se encontrase en una de las circunstancias familiares de especial vulnerabilidad definidas en el artículo 3.1.b), la carencia será de dos años.
+ii. Ampliación del plazo de amortización hasta un total de cuarenta años a contar desde la concesión del préstamo.
+No obstante lo anterior, si el incremento del esfuerzo que represente la carga hipotecaria sobre la renta familiar se hubiera incrementado en menos de 1,5 y la unidad familiar no se encontrase en una de las circunstancias familiares de especial vulnerabilidad definidas en el artículo 3.1.b), la ampliación del plazo de amortización será de hasta siete años, sin superar el plazo de cuarenta años desde la concesión del préstamo.
+iii. Reducción del tipo de interés aplicable durante el plazo de carencia a euríbor menos 0,10. En todo caso, en los préstamos a tipo fijo se aplicará el tipo fijo actual durante el período de carencia.
+No obstante lo anterior, si el incremento del esfuerzo que represente la carga hipotecaria sobre la renta familiar se hubiera incrementado en menos de 1,5 y la unidad familiar no se encontrase en una de las circunstancias familiares de especial vulnerabilidad definidas en el artículo 3.1 b), el tipo de interés aplicable durante la carencia será tal que suponga una reducción del 0,5 por cien del valor actual neto del préstamo de acuerdo con la normativa vigente.
+iv. En todo caso, se inaplicarán con carácter indefinido las cláusulas limitativas de la bajada del tipo de interés previstas en los contratos de préstamo hipotecario.
+Adicionalmente, las entidades podrán reunificar el conjunto de las deudas contraídas por el deudor.
+No conllevará costes por compensación la amortización anticipada del crédito o préstamo hipotecario solicitada durante los diez años posteriores a la aprobación del plan de reestructuración.
+c) En el plan de reestructuración la entidad advertirá, en su caso, del carácter inviable del plan conforme al criterio previsto en el apartado siguiente o que, de resultar dicho plan inviable, se podrán solicitar las medidas complementarias previstas en el siguiente apartado.
+d) El deudor en un plan de reestructuración de los referidos en la letra b) anterior, que habiendo finalizado el período de carencia en la amortización de capital se encuentre en el umbral de exclusión que se define en el presente Código, podrá instar la solicitud de un segundo plan de reestructuración, siempre que la salida de la carencia no sea el hecho determinante de encontrarse en dicho umbral de exclusión. En este supuesto, en el plazo de 1 mes desde que el deudor formule la nueva solicitud, la entidad actualizará la solvencia del deudor y, caso de ser viable conforme a lo dispuesto en este apartado 1, elaborará un nuevo plan de reestructuración en el marco de las condiciones del Código. Dicho plan de reestructuración supondrá una carencia en la amortización de capital de cinco años y el tipo previsto en el apartado 1, letra b), iii del anexo.
+2. Medidas complementarias.
+a) Los deudores para los que el plan de reestructuración previsto en el apartado anterior resulte inviable dada su situación económico financiera, podrán solicitar una quita en el capital pendiente de amortización en los términos previstos en este apartado, que la entidad tendrá facultad para aceptar o rechazar en el plazo de un mes a contar desde la acreditación de la inviabilidad del plan de reestructuración.
+A estos efectos, se entenderá por plan de reestructuración inviable aquel que establezca una cuota hipotecaria mensual superior al 50 por cien de los ingresos que perciban conjuntamente todos los miembros de la unidad familiar.
+b) Al objeto de determinar la quita, la entidad empleará alguno de los siguientes métodos de cálculo y notificará, en todo caso, los resultados obtenidos al deudor, con independencia de que la primera decida o no conceder dicha quita:
+i. Reducción en un 25 por cien.
+ii. Reducción equivalente a la diferencia entre capital amortizado y el que guarde con el total del capital prestado la misma proporción que el número de cuotas satisfechas por el deudor sobre el total de las debidas.
+iii. Reducción equivalente a la mitad de la diferencia existente entre el valor actual de la vivienda y el valor que resulte de sustraer al valor inicial de tasación dos veces la diferencia con el préstamo concedido, siempre que el primero resulte inferior al segundo.
+c) Esta medida también podrá ser solicitada por aquellos deudores que se encuentren en un procedimiento de ejecución hipotecaria en el que ya se haya producido el anuncio de la subasta. Asimismo podrá serlo por aquellos deudores que, estando incluidos en el umbral de exclusión al que se refiere el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, no han podido optar a la dación en pago por presentar la vivienda cargas posteriores a la hipoteca.
+3. Medidas sustitutivas de la ejecución hipotecaria: dación en pago de la vivienda habitual.
+a) En el plazo de veinticuatro meses desde la solicitud de la reestructuración, los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, para los que la reestructuración y las medidas complementarias, en su caso, no resulten viables conforme a lo establecido en el apartado 2, podrán solicitar la dación en pago de su vivienda habitual en los términos previstos en este apartado. En estos casos la entidad estará obligada a aceptar la entrega del bien hipotecado por parte del deudor, a la propia entidad o tercero que ésta designe, quedando definitivamente cancelada la deuda.
+También podrán cursar esta solicitud los deudores que tengan aprobado y en curso un plan de reestructuración que observen su imposibilidad de atender los pagos después de veinticuatro meses desde la solicitud de reestructuración. En este caso, la entidad valorará la posible entrega del bien hipotecado por parte del deudor, a la propia entidad o tercero que ésta designe, quedando definitivamente cancelada la deuda.
+b) La dación en pago supondrá la cancelación total de la deuda garantizada con hipoteca y de las responsabilidades personales del deudor y de terceros frente a la entidad por razón de la misma deuda.
+c) El deudor, si así lo solicitara en el momento de pedir la dación en pago, podrá permanecer durante un plazo de dos años en la vivienda en concepto de arrendatario, satisfaciendo una renta anual del 3 por cien del importe total de la deuda en el momento de la dación. Durante dicho plazo el impago de la renta devengará un interés de demora del 10 por cien.
+d) Las entidades podrán pactar con los deudores la cesión de una parte de la plusvalía generada por la enajenación de la vivienda, en contraprestación por la colaboración que éste pueda prestar en dicha transmisión.
+e) Esta medida no será aplicable en los supuestos que se encuentren en procedimiento de ejecución en los que ya se haya anunciado la subasta, o en los que la vivienda esté gravada con cargas posteriores.
+4. Derecho de alquiler en caso de ejecución de la vivienda habitual. El deudor hipotecario ejecutado cuyo lanzamiento haya sido suspendido de conformidad con lo dispuesto por el artículo 1.1 de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, podrá solicitar y obtener del acreedor ejecutante de la vivienda, o persona que actúe por su cuenta, el alquiler de la misma por una renta anual máxima del 3 por cien de su valor al tiempo de la aprobación del remate, determinado según tasación, aportada por el ejecutado y certificada por un tasador homologado de conformidad con lo previsto en el Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes.
+La solicitud a la que se refiere el párrafo anterior, podrá realizarse en el plazo de doce meses desde la entrada en vigor del Real Decreto-ley 19/2022, de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de interés en préstamos hipotecarios sobre vivienda habitual, se modifica el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y se adoptan otras medidas estructurales para la mejora del mercado de préstamos hipotecarios, para aquellos ejecutados que ya fueran beneficiarios de la suspensión y desde que se produzca la suspensión para quienes se beneficiasen con posterioridad.
+Dicho arrendamiento tendrá duración anual, prorrogable a voluntad del arrendatario, hasta completar el plazo de cinco años. Por mutuo acuerdo entre el ejecutado y el adjudicatario podrá prorrogarse anualmente durante cinco años adicionales. A dichos plazos no les será de aplicación el mínimo regulado en el artículo 9 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+5. Publicidad del Código de Buenas Prácticas. Las entidades garantizarán la máxima difusión del contenido del Código de Buenas Prácticas, informando adecuadamente a todos los clientes titulares de préstamos hipotecarios sobre la existencia de este Código y la posibilidad de acogerse a lo dispuesto en él, mediante una comunicación individualizada y específica, en el plazo de un mes desde el final del plazo al que se refiere el apartado 1 de la disposición adicional segunda del Real Decreto-ley 19/2022, de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de interés en préstamos hipotecarios sobre vivienda habitual, se modifica el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y se adoptan otras medidas estructurales para la mejora del mercado de préstamos hipotecarios, y siempre que no hubieran comunicado su intención de no adherirse al Código de Buenas Prácticas, facilitando un teléfono y una dirección de correo electrónico donde responder a dudas y recibir las solicitudes de los clientes.
+Además, se facilitará información sobre las medidas en un lugar destacado de su sitio web y a través de su red comercial de oficinas.
+Se modifica por el art. 10.7 a 11 del Real Decreto-ley 19/2022, de 22 de noviembre. Ref. BOE-A-2022-19403#a1-2
+ Se modifica el apartado 4 y se añade el 5 por el art. 1.2 del Real Decreto-ley 5/2017, de 17 de marzo. Ref. BOE-A-2017-2985.
+ Se añade la letra b).iv al apartado 1 por el art. 2.3 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a2.
+ Téngase en cuenta que esta incorporación ya fue realizada por el Real Decreto-ley 1/2015, de 27 de febrero.
+ Se añade la letra b).iv al apartado 1 por el art. 2.3 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a2.
+ Se modifica por el art. 8.8 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.

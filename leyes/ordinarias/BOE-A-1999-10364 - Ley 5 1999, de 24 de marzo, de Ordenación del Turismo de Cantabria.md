@@ -1,0 +1,932 @@
+# Ley 5/1999, de 24 de marzo, de Ordenación del Turismo de Cantabria.
+
+- Identificador BOE: `BOE-A-1999-10364`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-10364
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 5/1999, de 24 de marzo, de Ordenación del Turismo de Cantabria.
+PREÁMBULO
+La Constitución Española, en el apartado 18 del artículo 148, y el Estatuto de Autonomía para Cantabria, en el apartado 20 del artículo 24, otorgan a la Comunidad Autónoma de Cantabria la competencia exclusiva en materia de promoción y ordenación del turismo en su ámbito territorial.
+La falta de regulación jurídica unitaria y por ley de la actividad turística en la Comunidad Autónoma de Cantabria ha venido siendo en cierta medida subsanada con normas dispersas y sectoriales, desde la Ley de Inspección y Régimen Sancionador a los diferentes Reglamentos, entre otros, de empresas y actividades turísticas, profesiones turísticas, turismo rural, agencias de viaje. Muchas de estas normas, el Estatuto Ordenador de Empresas y Actividades Turísticas, las reglamentaciones de cafeterías y bares, de restaurantes, de hojas de reclamaciones y de precios, se remontan a la década de 1960, con un notable desfase entre la norma y la realidad social del sector.
+Existen, además, actividades que han ido surgiendo en los últimos años, que inciden en el público turista y en el consumidor en general y que carecen de reglamentación o control alguno, tales como las empresas de «catering» y restauración a domicilio, los servicios de restauración a colectividades, las organizaciones profesionales de Congresos, las centrales de reservas, las empresas organizadoras de cursos para extranjeros o en el extranjero.
+Además de establecer un marco jurídico unitario y adecuado a la realidad y evolución del sector, la Ley de Ordenación del Turismo de la Comunidad Autónoma de Cantabria persigue como objetivos fundamentales la protección de los derechos tanto de los usuarios o consumidores de los servicios y actividades inherentes al funcionamiento de las empresas y establecimientos turísticos como de los empresarios y trabajadores que los prestan, la ordenación del sector respetuosa con el excepcional entorno natural en que en buena parte se presta, la marca e imagen turística de Cantabria, la participación de los distintos subsectores y entidades de la actividad económica y social en la planificación y ejecución de la política turística, la potenciación de la Comunidad Autónoma de Cantabria como destino turístico y la concienciación sobre los beneficios que el turismo representa para el trabajo y la economía de la Comunidad Autónoma.
+La presente Ley se estructura en siete títulos, 78 artículos, una disposición adicional, cinco disposiciones transitorias, una derogatoria y dos finales.
+El Título preliminar determina el objeto de la Ley y su ámbito de aplicación.
+El Título I delimita competencias de la Administración, Consejería y Dirección responsables del área del turismo.
+Al objeto de conseguir una mayor eficacia y agilidad en las actividades de promoción, comercialización e información turística, y siguiendo el modelo de otras Administraciones Públicas, la Ley crea la «Sociedad de Turismo de Cantabria, Sociedad Anónima», en cuyo Consejo de Administración se prevé la participación de representantes elegidos entre los diferentes subsectores del turismo.
+Regula igualmente la Ley el Consejo de Turismo de Cantabria, máximo órgano colegiado de carácter consultivo, adscrito a la Consejería competente en materia de turismo.
+El Título II regula la demanda y la oferta turística, las actividades y ámbito empresarial reglamentado, la publicidad, autorizaciones y licencias, el libre acceso a los establecimientos turísticos y el Registro de establecimientos turísticos.
+El Título III sobre derechos y obligaciones en materia de Turismo, se extiende no sólo a los derechos de los usuarios y consumidores, sino también a sus obligaciones para la empresa o establecimiento y, además de las obligaciones de éstos, sus derechos frente a un uso inadecuado, a impagos o anulaciones.
+El Título IV regula la calidad turística, su fomento y protección, la información turística, entendida de manera especial en lo referente a la consecución de una industria turística respetuosa con el medio natural, planes especiales de aprovechamiento turístico, denominaciones geoturísticas y territorios de preferente uso turístico. Junto a medidas de promoción y fomento de la comercialización, se desarrollan otras de estricta protección del medio ambiente y de la competitividad, tales como las declaraciones de zonas saturadas para el establecimiento total o parcial de empresas turísticas.
+El Título V desarrolla la actividad administrativa clásica de intervención y vigilancia, la inspección, la clasificación de infracciones, el procedimiento y las sanciones, introduciendo y regulando aspectos y medidas de mejora de la relación y derechos empresa-consumidor tales como el arbitraje, las acciones voluntarias para atenuar o extinguir el hecho infractor y la devolución de las cantidades indebidamente percibidas.
+El Título VI con un capítulo único, establece que la Consejería competente en materia de turismo podrá crear mecanismos de arbitraje para la resolución, con carácter vinculante y definitivo, de conflictos que puedan surgir entre empresas prestadoras de servicios turísticos y los usuarios/destinatarios de los mismos.
+Por último y sin perjuicio de desarrollos normativos ulteriores, la Ley prevé un sistema organizativo transitorio y de adscripción de personal cualificado a los fines y objetivos de las nuevas estructuras.
+
+## TÍTULO PRELIMINAR
+
+Del contenido y ámbito de aplicación
+
+## CAPÍTULO ÚNICO
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La Ley tiene por objeto la regulación de la actividad turística en el ámbito territorial de la Comunidad Autónoma de Cantabria.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de aplicación al ejercicio de cualquier actividad turística, independientemente de la titularidad y del modo de explotación o comercialización.
+Se modifica por el art. 18.1 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 3
+
+Artículo 3. Empresas turísticas.
+Son empresas turísticas aquellas personas físicas, jurídicas o entidades que, mediante precio, de modo permanente o temporal, prestan servicios en el ámbito de la actividad turística.
+En particular:
+a) Empresas de alojamiento turístico.
+b) Empresas de intermediación, organización, publicidad y comercialización de servicios o productos turísticos.
+c) Empresas de turismo activo y ecoturismo.
+d) Empresas de restauración.
+e) Aquellas otras que desempeñen actividades relacionadas con el turismo y que reglamentariamente se califiquen como tales.
+Se modifica por el art. 18.2 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 4
+
+Artículo 4. Actividades turísticas.
+Se entiende por actividades turísticas al conjunto variable de bienes y servicios que intervienen de forma directa o indirecta en la satisfacción de las demandas múltiples de los consumidores de recursos turísticos.
+Las actividades turísticas abarcan un número variable de servicios tales como: Desplazamientos, estancias y alojamientos de personas, uso de infraestructuras e instalaciones, transporte, manutención, cultura, salud, ocio, recreo y deporte, mediación para los servicios turísticos, promoción y comercialización turística, consultoría, desarrollo de proyectos y en general cualquier otra actividad análoga o complementaria, y particularmente las profesiones turísticas.
+
+## TÍTULO I
+
+Organización y competencias en materia de turismo
+
+## CAPÍTULO I
+
+Consejería competente en materia de turismo
+
+### Artículo 5
+
+Artículo 5. Competencias de la Consejería competente en materia de turismo.
+Son competencia de la Consejería competente en materia de turismo:
+a) La ordenación del turismo como actividad socio-económica.
+b) La ordenación de la actividad de las empresas turísticas y de sus establecimientos, en especial el inicio, modificación y cese de la actividad turística, así como la apertura, clasificación, régimen de funcionamiento, reforma y cierre de los establecimientos.
+c) La planificación de la actividad turística, utilizando para ello todos los instrumentos necesarios.
+d) La promoción y fomento del turismo de la Comunidad Autónoma a nivel autonómico, nacional e internacional.
+e) Aprobar los planes sectoriales y comarcales de ordenación de los recursos turísticos.
+f) La administración y gestión de los recursos turísticos cuya titularidad corresponda a la Comunidad Autónoma.
+g) Con el fin de garantizar la supervisión de los prestadores y de sus servicios, la Consejería competente en materia de turismo cooperará en materia de información, promoción, fomento, control e inspección e investigación con las autoridades competentes de las demás Administraciones Públicas, Estados miembros y la Comisión Europea.
+h) La coordinación de los planes de promoción y fomento de turismo en los programas sectoriales que desarrollen otros Organismos de la Comunidad Autónoma.
+i) La información turística.
+j) El control sobre la oferta turística.
+k) El control sobre la prestación de servicios turísticos.
+l) La vigilancia del cumplimiento de todo lo dispuesto en materia de ordenación turística y, especialmente, en lo referente al estado de las instalaciones, prestación de servicios, percepción de precios y defensa de los derechos de los consumidores y usuarios de turismo, procediendo sobre reclamaciones y denuncias, sin perjuicio de las competencias que sobre estas cuestiones correspondan a otros Organismos de la Comunidad Autónoma.
+m) La actuación inspectora y sancionadora relativa a las empresas y actividades turísticas.
+n) La regulación, promoción y ejecución, en su caso, de la formación en materia de turismo.
+ñ) La creación, tramitación, propuesta, control y seguimiento de ayudas y subvenciones en materia de turismo.
+o) La coordinación y vigilancia de todas aquellas actuaciones que sean realizadas por otros organismos de la Comunidad y que tengan incidencia o trascendencia en relación con el turismo.
+p) La vigilancia y seguimiento de aquellas actuaciones o actividades que incidan o afecten a las empresas, actividades turísticas o particulares.
+q) Impulsar la enseñanza para la formación y el perfeccionamiento de los profesionales de turismo.
+r) Le corresponderán, asimismo, todas las competencias incluidas en la presente Ley que no hayan sido atribuidas a otros órganos de la Administración autonómica.
+Se modifica la letra g) por el art. 14.1 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se modifica la letra b) por el art. 15.1 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 6
+
+Artículo 6. Competencias de los municipios.
+Los municipios de la Comunidad Autónoma de Cantabria, en su ámbito territorial, tendrán las siguientes competencias en materia de turismo:
+a) La promoción de los recursos y productos turísticos.
+b) El fomento de la actividad turística.
+c) La protección y conservación de sus recursos turísticos, así como la adopción de medidas tendentes a su efectiva utilización y disfrute.
+d) La colaboración en materia de turismo con otras administraciones públicas.
+e) Las declaraciones de interés turístico municipal.
+f) La aprobación de los planes de desarrollo turístico de ámbito municipal.
+g) Las demás competencias que les sean atribuidas por ésta u otras leyes.
+Se añade por el art. 18.3 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO II
+
+Dirección General de Turismo
+
+### Artículo 7
+
+Artículo 7. Ejercicio de las competencias.
+Corresponde a la Dirección General de Turismo el ejercicio de las funciones y competencias que en materia de turismo la Ley atribuye a la Consejería competente en materia de turismo.
+
+## CAPÍTULO III
+
+Sociedad de Turismo de Cantabria, S. A.
+
+### Artículo 8
+
+Artículo 8. Creación y fines sociales.
+1. Se creará una sociedad anónima denominada Sociedad de Turismo de Cantabria, de titularidad pública y adscrita a la Consejería competente en materia de turismo, que realizará actividades en materia de información, promoción y comercialización turística. La Sociedad de Turismo de Cantabria se regirá por lo establecido en su Decreto de creación y por la legislación aplicable a las sociedades anónimas.
+2. Sus fines sociales son:
+a) La promoción y fomento del turismo de la Comunidad Autónoma de Cantabria.
+b) El fomento de la comercialización a través de los diferentes medios y actividades, tales como ferias, jornadas de presentación y comercialización de productos turísticos, congresos, viajes de incentivo y para conocimiento de productos y de prensa.
+c) La gestión e impulso de los servicios de información turística, oficinas de turismo y centrales de información y/o de reservas turísticas.
+
+## CAPÍTULO IV
+
+Consejo de Turismo de Cantabria
+
+### Artículo 9
+
+Artículo 9. Naturaleza y competencias.
+1. El Consejo de Turismo de Cantabria es un órgano colegiado de carácter consultivo en materia de ordenación y fomento del turismo, adscrito a la Consejería competente en materia de turismo.
+2. Corresponde al Consejo de Turismo de Cantabria:
+a) Elevar propuestas a la Consejería competente en materia de turismo y, a través de ésta, a otros órganos competentes en materia de turismo, sobre cuestiones de esta naturaleza.
+b) Asesorar, a petición de la Consejería, sobre las actividades de ordenación, promoción y fomento de la oferta turística.
+c) Dictaminar sobre las cuestiones de índole turística que le sean sometidas por la citada Consejería.
+d) Cuantas otras funciones de carácter consultivo considere convenientes someter a este órgano la Consejería competente en materia de turismo.
+
+### Artículo 10
+
+Artículo 10. Composición.
+1. La composición, organización y bases de funcionamiento del Consejo de Turismo de Cantabria se determinará reglamentariamente. En todo caso estarán representados en él, la Administración autonómica, la empresa Sociedad de Turismo de Cantabria, S. A., los agentes económicos y sociales del sector turístico, las asociaciones de consumidores y usuarios del sector turístico, las Cámaras de Comercio, así como las entidades locales.
+2. El régimen de funcionamiento del Consejo de Turismo de Cantabria se ajustará a las normas contenidas en el artículo 44 de la Ley de Cantabria 2/1997, de 28 de abril, de Régimen Jurídico del Gobierno y de la Administración.
+
+## TÍTULO II
+
+De los agentes turísticos
+
+## CAPÍTULO I
+
+La demanda turística
+
+### Artículo 11
+
+Artículo 11. Usuarios y demanda turística.
+Son usuarios turísticos, y, por tanto, constituyen la demanda turística, el conjunto de personas físicas y jurídicas que adquieren, utilizan o disfrutan como destinatarios finales los productos, servicios, actividades o funciones turísticas de quienes los producen, facilitan, suministran o expiden.
+
+## CAPÍTULO II
+
+Oferta turística
+
+### Artículo 12
+
+Artículo 12. Oferta turística.
+1. La oferta turística es el conjunto de bienes, productos, servicios y recursos turísticos que las instituciones y empresas turísticas ponen a disposición del mercado para ser utilizados y consumidos por la demanda turística.
+Se entiende por canal de oferta turística todo sistema mediante el cual las empresas turísticas, directamente o a través de terceros, comercializan, publicitan o facilitan la reserva de servicios o estancias turísticas.
+Entre otros, se consideran canales de oferta turística a las agencias de viajes, centrales de reserva y otras empresas de intermediación y organización de estancias o servicios turísticos, incluidos los canales de intermediación virtuales, las páginas webs de promoción, publicidad, reserva o alquiler y la publicidad realizada por cualquier medio de difusión.
+2. La actividad clandestina, la oferta ilegal, el intrusismo profesional y la competencia desleal serán objeto de especial control, seguimiento y sanción, para lo cual los órganos competentes para la inspección o sanción podrán recabar los datos necesarios para la identificación de los presuntos responsables, sin que sea necesaria su previa autorización o consentimiento.
+3. La publicidad o comercialización por cualquier medio de difusión o la realización efectiva de una actividad turística o prestación de servicios sin haber obtenido autorización o haber presentado declaración responsable de inicio de actividad en la Dirección competente en materia de turismo, tendrá la consideración de oferta ilegal o actividad clandestina.
+Se modifica por el art. 18.4 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 13
+
+Artículo 13. Titulares de empresas turísticas.
+Son titulares de las empresas turísticas las personas físicas o jurídicas por cuya responsabilidad se ejerce la actividad turística, aunque residan fuera del territorio de la Comunidad Autónoma.
+
+### Artículo 14
+
+Artículo 14. Nombre y publicidad.
+1. En los nombres comerciales de las empresas turísticas y en los rótulos de los establecimientos turísticos, se observará lo dispuesto en la legislación sobre propiedad industrial.
+2. Los rótulos, la documentación, publicidad, indicaciones, listas de precios o facturas, deberán estar redactados en castellano, sin que ello impida el empleo simultáneo de otros idiomas, o el uso de cualquier nombre propio como denominación.
+3. En la documentación, publicidad, listas de precios o facturas deberán figurar claramente el nombre comercial, la clase y categoría del establecimiento, con los símbolos reglamentariamente establecidos, así como el número de inscripción asignado en el Registro General de Empresas Turísticas de Cantabria.
+Se modifica el apartado 3 por el art. 18.1 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+
+### Artículo 15
+
+Artículo 15. Actividades reglamentadas.
+Serán objeto de especial regulación:
+1. El alojamiento turístico.
+Son actividades de alojamiento, las dedicadas a proporcionar hospedaje temporal a personas, junto o no, a otros servicios complementarios.
+Los establecimientos turísticos dedicados a la actividad de alojamiento podrán ser:
+a) Establecimientos hoteleros en sus diversos grupos, modalidades y especialidades.
+b) Los alojamientos extrahoteleros en sus diversas modalidades y categorías.
+c) Los alojamientos en el medio rural en sus diversos grupos, modalidades y especialidades.
+d) Los campamentos de turismo en sus diversas modalidades y especialidades.
+e) Albergues y establecimientos similares en sus diversas modalidades y especialidades.
+f) Otros establecimientos similares susceptibles de ser explotados como alojamientos turísticos desarrollados reglamentariamente.
+2. La intermediación turística.
+Son actividades de intermediación turística aquellas dedicadas al ejercicio de la mediación, organización, comercialización, oferta, difusión o reserva de servicios o alojamientos turísticos.
+Las empresas turísticas dedicadas a la intermediación turística, consideradas en sus diferentes grupos, modalidades y especialidades, podrán ser:
+a) Agencias de viajes.
+b) Organizadores profesionales de congresos.
+c) Centrales de reservas.
+d) Canales de oferta turística.
+e) Operadores turísticos.
+f) Gestores turísticos.
+g) Cualesquiera otras que reglamentariamente se determinen.
+3. El turismo activo y aventura.
+Se consideran actividades de turismo activo y aventura las turístico-deportivas, de aventura y de recreo que se practiquen sirviéndose básicamente de los recursos que ofrece la propia naturaleza en el medio en el que se desarrollen, ya sea aéreo, terrestre –en superficie o subterráneo–, acuático o subacuático, y cuya práctica exija a los clientes o practicantes un grado de esfuerzo físico, riesgo o destreza para su práctica.
+4. La restauración.
+Se consideran actividades de restauración aquellas que se desarrollan en establecimientos abiertos al público y que ofrecen servicio de comidas y/o bebidas para ser directamente consumidas en el mismo local o en sus anexos, junto o no, a otros servicios complementarios.
+Los establecimientos turísticos dedicados a la actividad de restauración, considerados en sus diferentes grupos, modalidades y especialidades, podrán ser cafeterías, restaurantes, bares y aquellos otros que desempeñen actividades relacionadas con las anteriores y que reglamentariamente se califiquen como tales.
+5. Áreas de servicio para autocaravanas.
+6. Cualesquiera otras actividades o servicios turísticos que reglamentariamente se determinen.
+Se modifican los apartados 2 y 4 por el art. 18.5 y 6 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 5 y se añade el 6 por el art. 18.2 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica por el art. 18.2 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685
+
+### Artículo 16
+
+Artículo 16. Libre acceso a los establecimientos turísticos.
+1. Los establecimientos turísticos tendrán la consideración de públicos, siendo libre el acceso a los mismos.
+2. Los titulares de los establecimientos podrán fijar condiciones objetivas de acceso y permanencia en los mismos, mediante criterios no discriminatorios ni arbitrarios, respetándose siempre el derecho fundamental a la igualdad.
+Las condiciones para su ejercicio deberán constar publicadas en un lugar visible en la entrada de los establecimientos, mediante un cartel que contemple específicamente las condiciones objetivas de acceso y permanencia.
+El consumidor o usuario que estime vulnerado su derecho de acceso o permanencia podrá solicitar una hoja de reclamaciones.
+3. Los titulares de las empresas turísticas podrán solicitar la ayuda de los Agentes de la Autoridad, si fuese necesario, para hacer salir del establecimiento a las personas que incumplan las reglas usuales de convivencia social o las que pretendan entrar con finalidad diferente a la del uso pacífico del servicio o actividad relacionado con la actividad de que se trate.
+Se modifican los apartados 1 y 2 por el art. 18.7 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+## CAPÍTULO III
+
+Inicio, modificación y cese de la actividad turística
+Se modifica por el art. 15.2 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 17
+
+Artículo 17. Inicio, modificación y cese de la actividad.
+1. Con carácter previo al inicio o modificación de una actividad turística, las empresas deberán presentar ante la Dirección General competente en materia de turismo una declaración responsable, en los términos que se establezcan reglamentariamente para cada tipo de actividad, u obtener la correspondiente autorización turística, que será necesaria en el caso de los campamentos de turismo.
+Con el fin de cubrir los riesgos de la responsabilidad de la actividad turística, serán exigibles los seguros, las fianzas u otras garantías equivalentes que se dispongan en la normativa específica, que habrán de mantenerse en vigor durante todo el tiempo del desarrollo o ejercicio de la actividad.
+En particular, las empresas de turismo activo habrán de tener suscritos contratos de seguro de responsabilidad civil, que cubran de forma suficiente los posibles riesgos imputables a la empresa por la oferta y práctica de las actividades de turismo activo, así como póliza de seguros de rescate, traslado y asistencia derivados de accidente en la prestación de servicios de turismo activo. La cuantía de dichos seguros deberá ser adecuada y suficiente a la actividad desarrollada y, en cualquier caso, tendrán una cuantía mínima de cobertura de seiscientos mil euros por siniestro. Deberán mantenerse en vigor durante todo el tiempo de prestación de las actividades.
+Asimismo, dispondrán de equipos y material homologado, para la práctica de las actividades.
+2. El cumplimiento de la obligación establecida en el apartado anterior será independiente de la obtención de las autorizaciones que deban ser otorgadas por otros órganos administrativos en el ejercicio de sus competencias.
+3. Las empresas que cesen en su actividad turística deberán comunicarlo a la Dirección General competente en materia de turismo, en los términos que se establezcan reglamentariamente, a los efectos de anotar su baja en el Registro General de Empresas Turísticas.
+Se modifica el apartado 1 por el art. 18.3 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685
+ Se modifica el apartado 1 por el art. 22.1 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+ Se modifica el apartado 1 por el art. 14.2 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se modifica por el art. 15.2 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 18
+
+Artículo 18. Control e inspección administrativa de las empresas turísticas.
+1. La Dirección General competente en materia de turismo comprobará que todas las empresas han iniciado su actividad turística previa presentación, en tiempo y forma, de la preceptiva declaración responsable, o en su caso previa obtención de la preceptiva autorización turística.
+2. La falta de presentación de la declaración responsable o la existencia de inexactitudes, falsedades u omisiones, de carácter esencial, en los datos consignados en la misma o documento que se acompañe, así como la falta de obtención de autorización turística, en su caso, determinarán la imposibilidad de continuar con el ejercicio de la actividad turística. La resolución que declare la concurrencia de tales circunstancias y, en consecuencia, ordene el cese de la actividad será dictada por el titular de la Dirección General competente en materia de turismo, previa tramitación de un procedimiento administrativo, cuyo plazo máximo de tramitación y notificación será de doce meses.
+Cuando la labor de control e inspección turística ponga de manifiesto el incumplimiento de otras obligaciones legales por parte de una empresa turística, se le requerirá para que en el plazo máximo de quince días proceda a su cumplimento o subsanación. Transcurrido dicho plazo sin haber sido atendido este requerimiento, la Dirección General competente en materia de turismo ordenará la modificación o, en su caso, el cese de la actividad turística, previa tramitación del correspondiente procedimiento administrativo, cuyo plazo máximo de tramitación y notificación será de 12 meses.
+Asimismo, la resolución que declare tales circunstancias podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente, así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante el periodo de doce meses.
+3. Sin perjuicio de lo previsto en los apartados anteriores, resultará de aplicación el régimen sancionador establecido en el Título V de la presente Ley.
+Se modifica el apartado 2 por el art. 18.8 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica por el art. 15.2 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO IV
+
+Registro General de Empresas Turísticas
+Se modifica por el art. 15.3 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 19
+
+Artículo 19. Registro General de Empresas Turísticas.
+1. Se crea el Registro General de Empresas Turísticas como registro administrativo de carácter público, con las limitaciones establecidas en la legislación vigente sobre protección de datos de carácter personal, adscrito a la Dirección General competente en materia de turismo.
+2. La Dirección General competente en materia de turismo inscribirá de oficio todas las empresas que desarrollen actividades turísticas reglamentadas, una vez hayan presentado la correspondiente declaración responsable u obtenido la preceptiva autorización administrativa. Igualmente se inscribirán las modificaciones que se produzcan en la actividad turística inicialmente declarada o autorizada, así como su cese.
+3. La inscripción en el Registro General de Empresas Turísticas será gratuita.
+4. El número de inscripción asignado a las empresas turísticas en el Registro General de Empresas Turísticas deberá hacerse constar en todo tipo de publicidad que los anuncie.
+Se añade el apartado 4 por el art. 18.3 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica por el art. 15.3 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## TÍTULO III
+
+Derechos y obligaciones en materia de turismo
+
+## CAPÍTULO I
+
+Derechos y obligaciones de las empresas turísticas
+
+### Artículo 20
+
+Artículo 20. Derechos de las empresas turísticas.
+Además de los derechos generales y particulares recogidos en esta Ley y en función de su objeto y modalidad de actuación, son derechos de las empresas turísticas en la prestación de sus servicios:
+a) Adoptar las medidas necesarias, con auxilio de la autoridad, en su caso, para que los clientes respeten las normas de conducta internas de los establecimientos turísticos.
+b) Adoptar las medidas oportunas y de acuerdo con la normativa vigente para garantizar el cobro de sus servicios.
+c) La inclusión de sus instalaciones, características y oferta específica en los catálogos, directorios, guías y sistemas informáticos de la administración turística de Cantabria.
+d) El acceso a las acciones de promoción turística que les resulten apropiadas, realizadas por la Administración turística de Cantabria.
+e) A poder participar en subvenciones, ayudas y programas de fomento turístico que reglamentariamente se establezcan.
+
+### Artículo 21
+
+Artículo 21. Obligaciones de las empresas turísticas.
+Además de las obligaciones generales y particulares recogidas en esta Ley y en función de su objeto y modalidad de actuación, son obligaciones de las empresas turísticas en la prestación de sus servicios:
+a) Poner en conocimiento del público interesado, con carácter previo a su contratación, los precios finales aplicables a todos los servicios.
+b) Poner en conocimiento del público interesado las normas de funcionamiento de los servicios o actividades realizadas por la empresa turística, especialmente la política de penalización o cancelación de reservas. La prueba sobre la entrega a la clientela de la información indicada recaerá en la empresa turística.
+c) Facilitar los servicios en los términos contratados de acuerdo con la categoría del establecimiento y con lo dispuesto en las diversas reglamentaciones de las actividades turísticas. La prestación de los servicios no podrá ser interrumpida a no ser por causa imputable al usuario recogida en el artículo 24 de esta Ley.
+d) Facturar los servicios prestados de acuerdo con los precios establecidos o pactados, entregando a los clientes los documentos acreditativos de dichos servicios, haciendo constar separadamente y con suficiente claridad cada uno de los servicios y conceptos.
+e) Cuidar el buen funcionamiento y mantenimiento de todas las dependencias, instalaciones y servicios del establecimiento.
+f) Tener a disposición del público las hojas de reclamaciones para entregar un ejemplar cuando así se solicite, sin excusa en contra de ninguna clase.
+g) Cuantas otras obligaciones sean establecidas en las reglamentaciones aplicables a las empresas turísticas.
+Se modifica la letra b) por el art. 18.9 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica la letra a) por el art. 9.1 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+
+## CAPÍTULO II
+
+Derechos y obligaciones de los usuarios
+
+### Artículo 22
+
+Artículo 22. De carácter general.
+Los derechos y obligaciones de los usuarios quedarán afectos, en cualquier caso, a lo dispuesto por la legislación vigente en materia de defensa de usuarios y consumidores.
+
+### Artículo 23
+
+Artículo 23. Derechos de los usuarios.
+Constituyen derechos de los usuarios de servicios turísticos:
+a) Ser informado, antes de la contratación de un servicio turístico, del precio que le será aplicado y del detalle de las partidas y conceptos que lo integrarán.
+b) Ser atendidos en las empresas turísticas y en sus establecimientos de forma profesional, hospitalaria y cortés, recibiendo las prestaciones que hayan sido ofertadas y contratadas con la calidad y servicios que correspondan a la categoría del establecimiento, detallándose la facturación de los servicios que se les presten.
+c) La veracidad en la información y publicidad suministrada sobre los servicios turísticos ofertados y sobre los recursos turísticos, costumbres, riquezas artísticas, culturales y naturales de los lugares visitados.
+d) La garantía de seguridad sobre sus personas y bienes, así como la protección de sus derechos en calidad de consumidores, pudiendo formular reclamaciones y ejercitar procedimientos administrativos y judiciales idóneos para el mantenimiento y reposición de sus derechos, utilizando al efecto los procedimientos establecidos en cada caso.
+
+### Artículo 24
+
+Artículo 24. Obligaciones de los usuarios.
+Constituyen obligaciones de los usuarios de servicios turísticos:
+a) Observar las normas usuales de educación, higiene y convivencia social hacia las personas, instituciones y costumbres de los lugares que utilicen o frecuenten.
+b) Aceptar y someterse a las normas particulares de los lugares, instalaciones y empresas cuyos servicios disfruten o contraten.
+c) Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o en el plazo pactado, sin que, en ningún caso, el hecho de presentar una reclamación exima de las obligaciones de pago.
+d) Respetar las instalaciones de las empresas turísticas que utilicen o frecuenten.
+e) Respetar el entorno y los valores naturales evitando actuaciones imprudentes o irrespetuosas con la flora y fauna silvestre.
+
+## TÍTULO IV
+
+Desarrollo y mantenimiento del recurso turístico
+
+## CAPÍTULO I
+
+Recursos turísticos
+
+### Artículo 25
+
+Artículo 25. Recursos turísticos.
+Constituyen recursos turísticos todos los bienes, costumbres, tradiciones, usos, patrimonio cultural, etnológico, geográfico y natural, así como la infraestructura alojativa de servicios y cualquier otra aportación de las empresas turísticas.
+
+### Artículo 26
+
+Artículo 26. Desarrollo del recurso turístico.
+1. Es objetivo de la presente Ley el desarrollo y sostenimiento del recurso turístico de la Comunidad Autónoma de Cantabria. Para ello, la Comunidad llevará a cabo una política turística tendente al fomento de la oferta que dé respuesta a las necesidades de la demanda, asegurando el desarrollo ordenado de la actividad turística, atendiendo especialmente los criterios de calidad en los servicios, el respeto al medio natural, el sostenimiento del recurso turístico y la promoción del turismo en el espacio rural.
+2. Al fin aquí previsto, el órgano competente en materia de turismo llevará a cabo estudios, estadísticas, planes de aprovechamiento turístico y otras actividades, tanto directamente como a través de otras Administraciones o entidades públicas o privadas, y buscará los medios más eficaces y operativos para alcanzar los objetivos estratégicos previstos.
+
+## CAPÍTULO II
+
+Calidad turística
+
+### Artículo 27
+
+Artículo 27. Actuación administrativa.
+1. Es objetivo de la presente Ley el desarrollo cualitativo del turismo y la satisfacción de las necesidades turísticas de los usuarios a través de instalaciones y servicios idóneos y el respeto al medio ambiente y el mantenimiento de recursos naturales.
+2. Para ello, la Dirección General de Turismo:
+a) Fomentará la consecución de las mejores condiciones de calidad posibles para los turistas, tanto foráneos como residentes en la Comunidad Autónoma.
+b) Promoverá el desarrollo de una economía turística competitiva y eficaz, utilizando los estímulos necesarios para mejorar los estándares de calidad.
+c) Fomentará la utilización equilibrada y sostenible del recurso turístico natural en relación con la prestación o la utilización de los servicios turísticos.
+
+### Artículo 28
+
+Artículo 28. Calidad de las instalaciones y servicios en establecimientos turísticos.
+Los establecimientos turísticos deberán conservar siempre las instalaciones y ofrecer los servicios, al menos, con la calidad y los requisitos que fueron determinantes de su inscripción en el Registro General de Empresas Turísticas.
+Se modifica por el art. 14.3 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+
+### Artículo 29
+
+Artículo 29. Incentivos de calidad.
+1. La Comunidad Autónoma de Cantabria podrá crear y otorgar medallas, placas, premios, galardones y distinciones en reconocimiento y estímulo a la calidad de las empresas y establecimientos turísticos, y en su caso, a las actuaciones a favor del turismo en general y del turismo en la Comunidad Autónoma en particular.
+2. Asimismo podrá instituir y declarar fiesta de interés turístico a aquellas manifestaciones concretas y determinadas, de naturaleza cultural, popular, artística, deportiva o de cualquier otra que comporten especial importancia como atractivo turístico.
+
+### Artículo 30
+
+Artículo 30. Ayudas y subvenciones.
+1. La Dirección General de Turismo podrá establecer, de acuerdo con la normativa de aplicación, líneas de ayuda y otorgar subvenciones a empresas turísticas, corporaciones locales y otras entidades y asociaciones como medidas para estimular la realización de las acciones fijadas en los programas de promoción y fomento del turismo.
+2. La concesión de subvenciones y apoyos citados respetará los principios de publicidad, concurrencia y objetividad, así como las normas generales sobre la libre competencia y sin perjuicio de la normativa de la Unión Europea.
+
+## CAPÍTULO III
+
+Información turística
+
+### Artículo 31
+
+Artículo 31. Servicio de información turística.
+1. Dependiente de la Dirección General de Turismo y gestionado por la Sociedad de Turismo de Cantabria, S. A., existirá un Servicio de Información Turística, con conexión a redes informáticas que, a través de estas redes, de equipamientos informáticos de teléfono de información general, atención al público o cualquier otro medio, facilitará información general y turística de Cantabria, sirviendo además como central de información o de reservas de alojamientos y servicios turísticos.
+2. En el supuesto de que el Servicio de Información Turística funcione como central de reservas, deberá cumplir con las normas establecidas al respecto y con aquellas que afectan a la defensa de la competencia y los derechos de los consumidores.
+
+### Artículo 32
+
+Artículo 32. Oficinas de turismo.
+1. Para facilitar al usuario de forma habitual, profesional y técnica, información relacionada con el alojamiento, transporte, servicios turísticos, espectáculos, excursiones, monumentos, fiestas, actividades culturales u otras actividades relativas al turismo y al ocio, existirán oficinas de turismo de la Comunidad, que, al objeto de mejorar la información, deberán estar centralizadas en un único censo.
+2. Como apoyo y en colaboración con las Oficinas de Información Turística de la Comunidad, podrán actuar las Oficinas de Información Turística municipales y los Centros de Iniciativas Turísticas. Estas oficinas deberán estar coordinadas por la Sociedad de Turismo de Cantabria, S. A., que podrá proporcionar material promocional y otros servicios y actividades.
+3. Con el objeto de garantizar a los usuarios y consumidores la máxima difusión de información turística podrán actuar empresas de información turística privadas que, en todo caso, deberán estar autorizadas y coordinadas por la Sociedad de Turismo de Cantabria, S. A.
+
+### Artículo 33
+
+Artículo 33. Oficinas autonómicas de turismo. Dependencia y régimen de funcionamiento.
+1. Las oficinas autonómicas de turismo serán dependencias abiertas al público.
+2. Estas oficinas dependerán de la Sociedad de Turismo de Cantabria, S. A., y podrán pertenecer a dicha sociedad o a otras entidades públicas o privadas que tengan encomendada especialmente la gestión de la Oficina de Información, pudiendo o no ser titulares de la infraestructura necesaria para el eficaz desarrollo de su función.
+3. En el supuesto de que las Oficinas autonómicas de turismo fuesen administradas por entidades privadas, deberán haber sido concertadas al efecto por la Sociedad de Turismo de Cantabria, S. A., que, en cualquier caso, asumirá la dirección, inspección y control para su correcto funcionamiento.
+
+## CAPÍTULO IV
+
+El espacio físico
+
+### Artículo 34
+
+Artículo 34. Requisitos mínimos de infraestructura.
+Los establecimientos turísticos deberán cumplir las exigencias mínimas de infraestructuras establecidas en la normativa de aplicación. La Dirección General con competencias en materia de turismo comprobará la adecuación o no de las instalaciones existentes a la declaración responsable presentada por el titular. A tal efecto, se comunicarán las deficiencias detectadas para su subsanación.
+Se modifica por el art. 14.4 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se deroga el apartado 1 por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 35
+
+Artículo 35. Respeto medioambiental
+La concesión de licencias para instalación de alojamientos, creación de infraestructuras o promoción y desarrollo de actividades turísticas, debe respetar lo dispuesto por la legislación sobre conservación de los recursos naturales (flora, fauna, hábitats y espacios protegidos) y atenerse a las limitaciones de uso señaladas en los planes de ordenación de los espacios protegidos declarados en Cantabria, o futuros, así como en aquellos específicos, encaminados a la recuperación de especies amenazadas.
+
+### Artículo 36
+
+Artículo 36. Preferente uso turístico.
+El Gobierno de la Comunidad Autónoma, a propuesta del órgano competente en materia de turismo, previo informe de la Consejería competente en materia de Ordenación turística y del municipio o municipios afectados, podrá declarar zona de preferente uso turístico a áreas concretas y determinadas, localidades, términos municipales o comarcas en donde se den o se vayan a producir excepcionales circunstancias turísticas que precisen una especial acción turística, tanto ordenadora como promotora.
+
+### Artículo 37
+
+Artículo 37. Zonas turísticas saturadas.
+1. El Gobierno de la Comunidad Autónoma, a propuesta de las Consejerías competentes en turismo y medio ambiente y previo informe de las Consejerías competentes en materia de ordenación del territorio y de los municipios afectados, podrá declarar zona turística saturada a áreas concretas y determinadas, localidades, términos municipales o comarcas donde por exceso de oferta, por patente desequilibrio entre oferta y demanda o por acondicionamientos ecológicos o medioambientales no se permita el incremento del turismo en alguna de sus actividades.
+2. La declaración de zona saturada comportará la prohibición de instalar nuevas empresas turísticas de la actividad de que se trate, en tanto existan las causas que motivaron tal situación.
+3. La declaración de zona turística saturada podrá ser total o parcial, afectando a toda la actividad turística o solamente a alguna de sus manifestaciones.
+
+### Artículo 38
+
+Artículo 38. Planes de aprovechamiento.
+1. El Gobierno de la Comunidad Autónoma podrá proponer, elaborar y llevar a cabo planes integrales de aprovechamiento de los recursos turísticos, pudiendo ser ejecutados por sí o a través de otras entidades públicas o privadas.
+2. La Consejería competente en materia de turismo será informada de toda acción que lleve a cabo la Administración a través de otros Órganos o Consejerías y que afecte directa o indirectamente a la promoción y fomento del turismo.
+3. La Consejería competente en materia de turismo, al objeto de mantener la unidad de actuación, será la coordinadora de tales acciones.
+
+### Artículo 39
+
+Artículo 39. Comarcas y municipios turísticos.
+1. La Consejería competente en materia de turismo establecerá Comarcas Turísticas que agruparán territorios identificados por la unidad de su recurso turístico y que podrán llevar a cabo funciones de promoción, gestión y comercialización de sus productos turísticos.
+2. Podrán conseguir la consideración de municipios turísticos de Cantabria aquellos que puedan acreditar:
+a) Parámetros con afluencia considerable de visitantes y pernoctaciones, la existencia de un número significativo de alojamientos turísticos de segunda residencia y en los que la actividad turística represente la base de su economía o, como mínimo, una parte importante de ésta.
+b) Parámetros cuantitativos. El municipio deberá acreditar un programa de promoción y fomento del turismo sostenible. La calidad y la innovación serán aspectos de la máxima importancia en la formulación del programa, detallando como mínimo las siguientes cuestiones:
+La necesidad de desarrollar un turismo que responda a las expectativas económicas y a las exigencias de protección del entorno.
+Toda actuación turística ha de tener incidencia efectiva en la mejora de la calidad de vida de la población, contribuir a su enriquecimiento sociocultural y a la creación de trabajo digno.
+El mantenimiento de la cultura, historia y personalidad del municipio.
+La adaptación del urbanismo y la edificación al paisaje local y la ordenación integral del patrimonio.
+La existencia de reservas de agua estratégicas, así como su depuración y reutilización.
+El nivel de generación de residuos estará ligado a la existencia en la zona de planes de recogida, reducción, reutilización y reciclaje.
+Planes de formación y reciclaje profesional para los trabajadores y gestores del sector turístico.
+Planes para la reconversión de los recursos potenciales en productos turísticos y su ordenación en el territorio.
+c) En la elaboración y ejecución del programa los municipios podrán recibir la colaboración técnica y financiera del Gobierno de Cantabria.
+d) Los municipios declarados turísticos estarán específicamente contemplados en el Plan de Turismo de Cantabria, en las ayudas que en el mismo se contemplen, así como en las actuaciones de los distintos órganos de la Administración autonómica en materia de infraestructuras necesarias para la calidad turística.
+e) El procedimiento para la concesión de la categoría de municipio turístico se determinará reglamentariamente.
+
+### Artículo 40
+
+Artículo 40. Denominaciones geoturísticas.
+1. La Consejería competente en materia de turismo podrá definir, crear y otorgar denominaciones geoturísticas en la Comunidad Autónoma de Cantabria a áreas concretas y determinadas, localidades, Términos Municipales o Comarcas que, por sus especiales características, considere oportuno para la actividad turística de la citada zona.
+2. El nombre de la denominación geoturística podrá ser utilizado para la promoción turística de la zona, ya sea realizada por entidades públicas o privadas.
+
+## CAPÍTULO V
+
+Promoción y fomento del turismo
+
+### Artículo 41
+
+Artículo 41. Promoción y comercialización del turismo.
+1. Corresponde a la Consejería competente en materia de turismo, a través de la Dirección General de Turismo y de la Sociedad de Turismo de Cantabria, S. A., la promoción del turismo y el fomento de la comercialización, competencias que ejercitarán directamente o en colaboración de otras entidades públicas o privadas.
+2. Las ofertas turísticas institucionales, locales y comarcales que se realicen en ferias o exposiciones en el exterior de Cantabria deberán integrarse en un espacio común a la totalidad de la oferta turística cántabra, de tal forma que siempre se identifique Cantabria como unidad territorial presidiendo toda promoción. La Comunidad Autónoma podrá establecer excepciones en función de las circunstancias que concurran en determinados casos especiales.
+
+### Artículo 42
+
+Artículo 42. Principios de la promoción turística.
+La promoción turística de la Comunidad Autónoma de Cantabria, ya sea en España o en el extranjero, se regirá por principios de agilidad, eficacia y economía, buscando la máxima coordinación entre las diversas Administraciones Públicas y el sector privado.
+
+### Artículo 43
+
+Artículo 43. Fiestas de interés turístico de la Comunidad Autónoma.
+1. La denominación honorífica de Fiesta de Interés Turístico de la Comunidad Autónoma se otorgará a aquellas fiestas o acontecimientos que se celebren en la Comunidad Autónoma de Cantabria, ofrezcan interés real desde el punto de vista turístico y supongan manifestaciones de valores culturales y de tradición popular con atención a sus características etnológicas, teniéndose especial consideración a la antigüedad de la fiesta, su continuidad en el tiempo, su originalidad y la diversidad de sus actos.
+2. La Dirección General de Turismo de Cantabria llevará un libro de registro de Fiestas de Interés Turístico de la Comunidad Autónoma en el que figuren además de las fechas de concesión, los detalles más significativos del evento, sus revisiones anuales y sus ayudas económicas si las tuviere.
+3. La duración de la declaración tendrá carácter indefinido, si bien serán revisadas anualmente, pudiendo ser revocadas si se estimase que han dejado de concurrir las circunstancias que motivaron su concesión.
+4. La declaración de fiesta de interés turístico de la Comunidad Autónoma será otorgada mediante Orden de la Consejería competente en materia de turismo, atendiendo a los criterios establecidos en esta Ley.
+5. La denominación de fiesta de interés turístico de la Comunidad Autónoma podrá ser solicitada por el Ayuntamiento correspondiente y por los Centros de Iniciativas Turísticas o por organizaciones, asociaciones o particulares interesados, mediante instancia dirigida a la Dirección General de Turismo de Cantabria, a la que se acompañará la siguiente documentación:
+a) Historia resumida de la Fiesta, con indicación de los actos que la componen.
+b) Fecha o fechas de la celebración de la Fiesta.
+c) Información gráfica de la Fiesta.
+d) Cuanta documentación e información se considere conveniente para demostrar la afluencia de visitantes.
+
+### Artículo 44
+
+Artículo 44. Centros de Iniciativas Turísticas.
+1. Los Centros de Iniciativas Turísticas son entidades sin fines de lucro promovidas por asociaciones, fundaciones o particulares interesados en el sector para la promoción y fomento del turismo en un ámbito territorial delimitado.
+2. Las actuaciones de los Centros de Iniciativas Turísticas podrán ser locales, comarcales o abarcar todo el territorio de la Comunidad Autónoma.
+3. Los Centros de Iniciativas Turísticas se regirán por los Estatutos de su constitución, pero en su denominación deberá siempre aparecer su carácter de Centro de Iniciativas Turísticas.
+4. Son fines propios de los Centros de Iniciativas Turísticas aquellos que contribuyan al desarrollo y promoción de los valores turísticos de su ámbito de actuación, debiendo estar concretados éstos en sus Estatutos.
+5. Los Centros de Iniciativas Turísticas se adscribirán a la Dirección General de Turismo y estarán dados de alta en el Registro que al efecto se establezca en dicha Dirección General, quien tendrá sobre aquellos no sólo las funciones de autorización de cada centro, sino de información, control, inspección, sanción e incluso revocación de la autorización.
+Por ello, los Centros de Iniciativas Turísticas remitirán anualmente a la Dirección General de Turismo de Cantabria memoria detallada de todas sus actividades, así como las actas de sus Órganos Rectores y demás circunstancias que afecten a su funcionamiento.
+
+### Artículo 45
+
+Artículo 45. Fomento de los estudios turísticos.
+El Gobierno de Cantabria propiciará la unificación de criterios en la programación de los estudios de formación reglada y ocupacional del sector turístico y promoverá el acceso a la formación continua de los trabajadores ocupados del sector.
+Asimismo, apoyará la formación turística destinada a la adquisición de nuevos conocimientos y tecnologías.
+
+## CAPÍTULO VI
+
+Precios y servicios turísticos
+
+### Artículo 46
+
+Artículo 46. Régimen y publicidad de los precios.
+1. Los precios de los servicios prestados por las empresas turísticas serán libres y estarán siempre a disposición del público.
+2. En las listas de precios, publicidad u oferta comercial de los servicios que se ofrezcan deberá incluirse el precio final completo, incluidos los impuestos, al menos en castellano y en moneda de curso legal.
+Dichos precios serán ciertos y completamente determinados, no permitiéndose la existencia de un régimen de publicidad basado en precios máximos.
+3. Las listas de precios de todos los servicios que ofrezcan deberán anunciarse en lugar claramente visible y de fácil lectura para el público, haciendo constar separadamente y con suficiente claridad cada uno de los servicios y conceptos, de tal forma que posibilite que el usuario tome una decisión antes de la contratación de un servicio turístico.
+En todo caso se deberá dar especial publicidad del precio final en el caso de reclamos y promociones de manera que sea inmediatamente visible para un cliente que accede al establecimiento sin necesidad de consulta el listado general de precios.
+4. Los servicios turísticos se ajustarán al régimen de libertad de precios, pudiendo fijarse y modificarse por las empresas sin más obligación que hacerlos públicos para garantizar su previo conocimiento por los clientes.
+5. No podrá reclamarse el pago de servicios no solicitados previamente por el cliente o de los cuales no se haya informado de su precio final.
+6. Las restricciones sobre medios de pago deberán anunciarse en lugar claramente visible y de fácil lectura para el público.
+Se modifica por el art. 9.2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+ Se modifica el apartado 1 por el art. 22.2 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+
+### Artículo 47
+
+Artículo 47. Servicios turísticos.
+Como garantía del correcto funcionamiento y transparencia del mercado y como garantía de la defensa de los consumidores, se establecerán normas sobre el desarrollo de los servicios turísticos y en especial sobre régimen de reserva, anulación de servicios turísticos, contratación, gestión de servicios turísticos, comercialización de productos turísticos y publicidad turística.
+
+### Artículo 48
+
+Artículo 48. Hojas de reclamaciones.
+1. Todas las empresas turísticas tendrán a disposición de los clientes «hojas de reclamaciones», al objeto de que éstos puedan reflejar las deficiencias que, a su juicio, se hayan producido en la oferta y prestación de servicios turísticos por parte de aquéllas. El titular del establecimiento será responsable de dichas hojas que deberán ser proporcionadas al cliente siempre que éste la solicite, sin excusa en contra.
+2. El modelo oficial de «hoja de reclamaciones» constará de tres ejemplares, uno para la Dirección General competente en materia de turismo, otro para el cliente y otro para el empresario, y será aprobado por la Dirección General competente en materia de turismo.
+3. El cliente reflejará en la hoja de reclamaciones los datos necesarios para su identificación (nombre y apellidos, domicilio y N.I.F.), los hechos causantes de la reclamación y la empresa turística reclamada, pudiendo acompañar cuantos documentos y elementos de juicio estime procedentes para el esclarecimiento de los hechos; y deberá remitirla a la Dirección General competente en materia de turismo, mediante su presentación en cualquiera de los Registros contemplados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre.
+Se modifica por el art. 15.4 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## TÍTULO V
+
+De la disciplina turística
+
+## CAPÍTULO I
+
+La Inspección Turística
+Se modifica por el art. 15.5 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 49
+
+Artículo 49. Inspección y comprobación turística.
+La verificación y control del cumplimiento de lo dispuesto en la presente Ley y su normativa de desarrollo corresponde a la Administración de la Comunidad Autónoma de Cantabria, a través del órgano competente en materia de inspección turística.
+En el marco del ejercicio de potestades de inspección o sancionadoras se podrán realizar las actuaciones necesarias para verificar los hechos que pudieran constituir infracción turística, para lo cual se podrá consultar o recabar los datos necesarios, sin que quepa oposición por parte del interesado, todo ello en los términos previstos en el artículo 55.2 de la Ley 39/2015, de 1 de octubre.
+Se modifica por el art. 18.10 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica por el art. 15.5 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 50
+
+Artículo 50. Funciones de control e inspección turística.
+Las funciones de control e inspección en materia de turismo serán las siguientes:
+1. Vigilancia y control del cumplimiento de la normativa turística, para lo cual podrán visitarse los locales y establecimientos de las empresas turísticas, así como aquellos otros en los que existan pruebas de que se desarrolla una actividad turística.
+2. Comprobación e investigación de los hechos consignados en las hojas de reclamaciones y denuncias formuladas por terceros frente a las empresas turísticas.
+3. Revisar la documentación de las empresas turísticas que acredite el cumplimiento de los requisitos exigidos por la normativa turística vigente para desarrollar la actividad turística declarada o autorizada
+4. Práctica de citaciones y requerimientos, para lo cual podrán solicitar los datos necesarios para la identificación de los explotadores de alojamientos o actividades turísticas a quienes promuevan su comercialización mediante la oferta o publicidad realizada por cualquier medio, quedando estos obligados a suministrarlos.
+5. Levantamiento de actas de inspección.
+6. Emisión de informes técnicos sobre el cumplimiento por las empresas de los requisitos mínimos en materia de infraestructuras, dotaciones y servicios exigidos por la normativa turística vigente para el desarrollo de la actividad turística declarada o autorizada.
+7. Control de la ejecución de inversiones turísticas subvencionadas.
+8. Aquellas otras funciones inspectoras que se le atribuyan legal o reglamentariamente.
+Se modifica el apartado 4 por el art. 18.4 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica por el art. 15.5 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 51
+
+Artículo 51. Inspectores de Turismo.
+1. En el ejercicio de sus funciones de control e inspección turística, los Inspectores de Turismo tendrán carácter de Autoridad y podrán solicitar, si fuera necesario, la colaboración de los Cuerpos y Fuerzas de Seguridad del Estado o de las Policías Locales.
+Asimismo, para el mejor cumplimiento de sus funciones podrán solicitar la cooperación del resto de Administraciones Públicas.
+2. Los Inspectores de Turismo estarán provistos de un documento administrativo que acredite su condición y deberán exhibirlo cuando así les sea requerido por los titulares de las empresas turísticas.
+3. Los Inspectores de Turismo desarrollarán su labor inspectora con arreglo a los criterios de objetividad, imparcialidad y secreto profesional, y de acuerdo con los planes de inspección e instrucciones dictadas por sus superiores jerárquicos.
+Se modifica por el art. 15.5 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 52
+
+Artículo 52. Visitas de inspección.
+1. En el ejercicio de las funciones que le son propias, la Inspección de Turismo podrá realizar visitas a las empresas turísticas en cualquier momento. A tal efecto, la Inspección tendrá la facultad de acceder a los distintos locales y establecimientos de las empresas turísticas, requiriendo la presencia de su titular o de persona autorizada; en caso de que la dependencia a inspeccionar esté destinada al alojamiento de clientes y se encuentre ocupada por éstos, será precisa su previa autorización. Igualmente podrá exigir a la empresa turística el acceso a toda la documentación acreditativa del cumplimiento de los requisitos exigidos por la normativa vigente para desarrollar dicha actividad turística, y obtener copia de la misma.
+Los titulares de las empresas turística, persona autorizada o, en su caso, quienes se encuentren al frente del local o establecimiento turístico en el momento de la visita deberán facilitar a los Inspectores de Turismo el acceso y examen de las distintas dependencias y el análisis de la documentación asociada al ejercicio de la actividad turística.
+Cuando la empresa turística no pueda facilitar toda la documentación requerida en el momento de la inspección, o bien sea necesario un análisis detenido de la misma, el Inspector citará al titular o representante de aquélla para que comparezca en las dependencias de la Dirección General competente en materia de turismo y aporte dicha documentación.
+2. Concluida la visita de inspección, los Inspectores extenderán la correspondiente acta, en modelo oficial, con el siguiente contenido mínimo: fecha y hora de la visita, datos identificativos de la empresa turística y del local o establecimiento inspeccionado y descripción detallada de los hechos constatados.
+Las actas serán firmadas por el Inspector de Turismo que realizó la visita de inspección y, en nombre de la empresa, por su titular o por el director o responsable del local o establecimiento inspeccionado.
+El Inspector de Turismo entregará una copia del acta al titular o representante de la empresa turística, y su firma por éste acreditará el conocimiento de su contenido.
+3. Los Inspectores de Turismo trasladarán las actas de inspección a sus superiores jerárquicos para su valoración y, en su caso, propuesta de adopción de las medidas que resulten procedentes.
+Se modifica por el art. 15.5 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO II
+
+Régimen sancionador en materia de turismo
+
+### Artículo 53
+
+Artículo 53. Infracciones administrativas en materia de turismo.
+1. Son infracciones administrativas en materia de turismo las acciones u omisiones enumeradas en la presente Ley.
+2. La actuación contraria a lo dispuesto en esta Ley o en la normativa vigente dará lugar a que el órgano competente en materia de turismo actúe:
+a) Adoptando medidas precisas para proceder a instaurar el régimen jurídico infringido.
+b) Imponiendo sanciones a los responsables de la actuación, previa tramitación del procedimiento sancionador a que hubiera lugar.
+3. Las sanciones que se deriven de la comisión de una infracción serán compatibles con la exigencia al infractor de la reposición de la situación alterada por el mismo a su estado originario y a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
+Se añade el apartado 3 por el art. 18.11 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 54
+
+Artículo 54. Responsabilidad.
+1. La responsabilidad administrativa por infracción de las normas reguladoras de las empresas y actividades turísticas corresponderá a la persona física o jurídica titular de las mismas, que será la que figure en la declaración responsable o en la autorización correspondiente, salvo prueba en contrario.
+2. El titular de la empresa o actividad será responsable administrativamente de las infracciones cometidas por los trabajadores o por terceras personas que, sin estar vinculadas laboralmente a la misma, realicen prestaciones comprendidas en los servicios contratados por haberse establecido así en los contratos o por disposición legal.
+3. La responsabilidad administrativa se exigirá al titular de la empresa o actividad, sin perjuicio de que éste pueda deducir las acciones que resulten procedentes contra las personas que sean materialmente imputables de las infracciones, por el resarcimiento del importe de las sanciones a que fueran condenados y sin perjuicio de las sanciones accesorias que se les puedan imponer.
+4. En el caso de infracciones consistentes en la oferta de prestación de servicios y/o realización de actividades turísticas, sin haber realizado la declaración responsable, u obtenido la autorización administrativa correspondiente, en su caso, la responsabilidad será solidaria de cuantas personas, físicas o jurídicas, y entidades, intervengan en su comisión, sea como explotadores, comercializadores, intermediadores o gestores.
+Se modifica el apartado 4 por el art. 18.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica el apartado 1 por el art. 15.6 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO III
+
+Las infracciones turísticas
+
+### Artículo 55
+
+Artículo 55. Clasificación de infracciones.
+Las infracciones administrativas en materia de turismo se clasifican como leves, graves o muy graves.
+
+### Artículo 56
+
+Artículo 56. Infracciones leves.
+Se consideran infracciones leves:
+1. La falta de exhibición de anuncios o distintivos obligatorios o su exhibición sin las formalidades requeridas.
+2. No expedir o hacerlo sin los requisitos exigidos, facturas o justificantes de cobro por los servicios prestados o no conservar sus duplicados durante el plazo de un año.
+3. Las deficiencias leves en la prestación de los servicios, decoro de los establecimientos, limpieza de sus locales y enseres y funcionamiento de sus instalaciones y mobiliario.
+4. La incorrecta prestación de los servicios por el personal encargado de los mismos en cuanto a la prestación y buen trato a la clientela, que suponga falta de respeto y consideración a la misma, siempre que no haya sido debidamente corregida por el titular del establecimiento y no se haya dado la satisfacción debida al usuario afectado.
+5. La falta de información previa del precio final completo de alguno de los servicios cobrados o el cobro de servicios no solicitados.
+6. No notificar al órgano competente y en el plazo establecido los cambios de titularidad, cese y denominación de los establecimientos turísticos.
+7. La alteración de la capacidad alojativa de los establecimientos turísticos.
+8. (Suprimido)
+9. La no realización u omisión de la entrega a los clientes de los establecimientos turísticos de alojamiento de la preceptiva hoja de admisión, con indicación de la unidad de alojamiento, los precios aplicables y demás extremos exigidos.
+10. La ocultación al consumidor de parte del precio mediante prestaciones no solicitadas o no manifiestas.
+11. El incumplimiento de las normas relativas a documentación, información libros y registros establecidos obligatoriamente para el adecuado régimen de funcionamiento y prestación de servicios de las empresas turísticas como garantía de protección del usuario, salvo que tenga la calificación de muy grave de acuerdo con lo dispuesto en el artículo 58 de esta Ley.
+11 bis. El incumplimiento parcial y no sustancial de la normativa sobre seguridad y protección contra incendios.
+12. (Suprimido)
+13. En general, el incumplimiento de los requisitos, obligaciones y prohibiciones establecidas en esta Ley y en la vigente normativa en materia de turismo, siempre que no puedan ser clasificadas como graves o muy graves.
+Se suprimen los apartados 8 y 12 por el art. 7.1 y 2 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifica el apartado 12 por el art. 18.12 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 5 por el art. 9.3 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+ Se modifican los apartados 6 y 9 por el art. 18.6 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifican los apartados 5 y 9 por el art. 22.3 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+ Se modifican los apartados 5 y 6 por el art. 14.5 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se modifican los apartados 7, 8 y 11 y se añade el 11 bis por el art. 15.7 y 8 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 57
+
+Artículo 57. Infracciones graves.
+Se consideran infracciones graves:
+1. La prohibición del libre acceso y la expulsión de los clientes, cuando éstas sean injustificadas.
+2. La utilización de denominación, rótulos o distintivos diferentes a los que le corresponde conforme a su clasificación.
+3. La utilización de información o publicidad que induzca a engaño en la prestación del servicio, el incumplimiento de las obligaciones de información contractual o precontractual o la no comunicación con carácter previo a la contratación del servicio de la política de penalización o cancelación de reservas del establecimiento.
+4. La alteración de los aspectos sustantivos para el otorgamiento de la autorización, título, licencia o habilitación preceptiva para la construcción, apertura o ejercicio de una actividad turística.
+5. (Derogado)
+6. Efectuar reformas estructurales no puestas en conocimiento de la Administración competente en materia de turismo, que modifiquen los requisitos básicos esenciales para el ejercicio de la actividad, que supongan disminución de la calidad o que afecten a la clasificación, categoría y capacidad alojativa del establecimiento.
+7. El incumplimiento contractual respecto del lugar, tiempo, precio y demás condiciones pactadas o la no devolución de las cantidades debidas en caso de ejercicio del derecho desistimiento o de la cancelación del servicio contratado.
+8. La utilización de dependencias, locales, inmuebles, vehículos o personas para la prestación de servicios turísticos que no estén habilitados legalmente para ello o que estándolo hayan perdido, en su caso, su condición de uso.
+9. La falta de exhibición de listas de precios completos en un lugar claramente visible y de fácil lectura para el público, o la percepción de precios superiores a los anunciados o contratados.
+10. Las deficiencias manifiestas en el funcionamiento de los establecimientos o en la prestación de los servicios que entrañen riesgo para los usuarios.
+11. Carecer de hojas de reclamaciones de la Dirección General competente en materia de turismo a disposición de los clientes o no entregarlas en el momento de ser solicitadas.
+12. La admisión en los campamentos de turismo de campistas fijos o residenciales y la instalación de unidades de acampada prohibida y ello siempre fuera de los límites o porcentajes fijados en la autorización de funcionamiento, o en la normativa sectorial.
+13. La reserva confirmada de plazas en número superior a las disponibles.
+14. La negativa a la expedición de factura o ticket o, habiendo expedido el ticket mecánico, la negativa a realizar la correspondiente factura especificando los distintos conceptos a solicitud del cliente.
+15. Obstruir, por acción u omisión, las actuaciones de investigación, inspección, vigilancia o control de la administración turística en relación con el cumplimiento de esta Ley y sus normas de desarrollo.
+16. El incumplimiento de los plazos concedidos por la Administración Turística para la subsanación de deficiencias de infraestructura o funcionamiento.
+17. La reiteración en la comisión, en el período de un año, de más de tres infracciones leves, o la realización de acciones u omisiones tipificadas como leves en esta Ley pero que afecten a una pluralidad de personas.
+18. No mantener vigente las fianzas y garantías de seguro exigidas por la normativa turística.
+19. El incumplimiento de las obligaciones previstas en la legislación específica sobre viajes combinados y vinculados.
+20. La acampada fuera de los campamentos de turismo y de las áreas de servicio de autocaravanas.
+21. La comercialización, la intermediación, la oferta, la publicidad o la facilitación mediante enlace o búsquedas de estancias, actividades o servicios turísticos reglamentados sin hacer constar el número de inscripción en el Registro General de Empresas Turísticas de Cantabria.
+Se modifican los apartados 9 y 12, se suprime el 19, se renumera el 20 como 19 y se añaden los apartados 20 y 21 por el art. 7.3 a 7 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifican los apartados 3, 7 y 19 y se añade el 20 por el art. 18.13 a 16 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 9 por el art. 9.4 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-856
+ Se modifican los apartados 11 y 15 por el art. 18.7 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifican los apartados 1, 3, 9 y 10 por el art. 14.6 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se modifican los apartados 6, 13 y 18 y se deroga el 5 por el art. 15.9 y 16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 58
+
+Artículo 58. Infracciones muy graves.
+Se consideran infracciones muy graves:
+1. La oferta de prestación de servicios y/o realización de actividades turísticas, sin haber realizado la declaración responsable o existiendo inexactitudes, falsedades u omisiones de carácter esencial en la misma o en la documentación que se acompañe, o sin haber obtenido la autorización administrativa necesaria para el inicio de la actividad, de ser ésta necesaria, de conformidad con lo previsto en los artículos 17 y 18 de esta norma.
+2. La comunicación dolosa de información inexacta o la aportación de documentación falsa.
+3. El incumplimiento sustancial de la normativa sobre prevención de incendios en establecimientos turísticos.
+4. Las deficiencias en materia de infraestructura y actividad que entrañen grave riesgo para los usuarios.
+5. Las infracciones de la normativa turística que por su difusión o repercusión dañen de manera notoria la imagen turística de Cantabria.
+6. La comisión de una infracción grave cuando los responsables de las infracciones hayan sido sancionados mediante resolución firme en vía administrativa dos veces en el plazo de dos años, contando a partir de la primera de ellas, por el mismo hecho infractor, o tres veces, durante el mismo plazo, por hechos diferentes.
+7. La negativa absoluta a facilitar la inspección turística.
+8. La comercialización, la intermediación, la oferta, la publicidad o la facilitación mediante enlace o búsquedas de estancias, actividades o servicios turísticos reglamentados no inscritos en el Registro General de Empresas Turísticas de Cantabria.
+Se modifica el apartado 8 por el art. 7.8 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se añade el apartado 8 por el art. 18.17 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 1 por el art. 22.4 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+ Se modifica el apartado 1 por el art. 15.10 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 59
+
+Artículo 59. Prescripción.
+Las infracciones a que se refiere la presente Ley prescribirán por el transcurso de los siguientes plazos: las muy graves a los tres años, las graves a los dos años y las leves al año, contados todos ellos desde el día en que la infracción se hubiera cometido.
+Se modifica por el art. 22.5 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+
+## CAPÍTULO IV
+
+Sanciones
+
+### Artículo 60
+
+Artículo 60. Sanciones para las infracciones leves.
+Las sanciones aplicables a las infracciones leves podrán consistir en:
+a) Apercibimiento.
+b) Multa de doscientos cincuenta euros (250 euros) hasta mil quinientos euros (1.500 euros).
+En virtud de la gravedad de la infracción cometida, se podrán acumular las sanciones referidas en este artículo.
+Se modifica por el art. 11.1 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se modifican las letras a) y b) por el art. 18.8 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
+ Se modifica por el art. 15.11 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 61
+
+Artículo 61. Sanciones para las infracciones graves.
+Las sanciones aplicables a las infracciones graves podrán consistir en:
+a) Multa desde mil quinientos un euros (1.501 euros) hasta quince mil euros (15.000 euros).
+b) Suspensión del ejercicio de profesiones o actividades turísticas o clausura del establecimiento por un periodo no superior a tres meses.
+En virtud de la gravedad de la infracción cometida, se podrán acumular las sanciones referidas en este artículo.
+Se modifica por el art. 11.2 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se modifica por el art. 15.12 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 62
+
+Artículo 62. Sanciones para las infracciones muy graves.
+Las sanciones aplicables a las infracciones muy graves podrán ser:
+a) Multa de quince mil un euros (15.001 euros) hasta setenta y cinco mil euros (75.000 euros).
+b) Suspensión del ejercicio de profesiones o actividades turísticas o clausura del establecimiento por el periodo no superior a tres años.
+c) Inhabilitación por un periodo de hasta tres años para recibir ayudas y subvenciones otorgadas por el Gobierno de la Comunidad Autónoma de Cantabria.
+En virtud de la gravedad de la infracción cometida, se podrán acumular las sanciones referidas en este artículo.
+Se modifica por el art. 11.3 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se modifica por el art. 15.13 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 63
+
+Artículo 63. Valoración de las sanciones.
+El órgano competente valorará las causas y circunstancias que originen la infracción con el objeto de imponer al infractor la sanción más apropiada y justa, imperando siempre un criterio correctivo de las causas que originaron la infracción y no un criterio punitivo.
+A tales efectos se tendrá en cuenta las siguientes circunstancias:
+a) La gravedad de los perjuicios ocasionados, así como el riesgo generado para la salud, el medio ambiente o la seguridad de las personas.
+b) El beneficio ilícito obtenido o el precio ofertado por la actividad o el servicio turístico.
+c) La trascendencia del daño o el número de personas afectadas.
+d) La repercusión para el resto del sector o la posición del infractor en el mercado y, en especial, el intrusismo profesional y la competencia desleal.
+e) El perjuicio causado a la imagen o a los intereses turísticos públicos o privados y, en especial, a la imagen turística de Cantabria.
+f) La reincidencia, por la comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.
+g) La falta de colaboración o dilación indebida con las actuaciones de inspección o comprobación.
+h) El volumen de la actividad o de la oferta turística.
+i) El grado de culpabilidad o la existencia de intencionalidad.
+j) El tiempo transcurrido, la continuidad o la persistencia en la conducta infractora.
+k) La categoría del establecimiento o las características de la actividad.
+Cuando concurran dos o más circunstancias agravantes, se podrá aplicar la sanción en la mitad superior de la que fije la ley para la infracción.
+Se modifica por el art. 18.18 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 64
+
+Artículo 64. Defensa de los usuarios por pagar precios superiores.
+(Derogado).
+Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 65
+
+Artículo 65. Publicidad.
+1. Por razones de seguridad en el tráfico mercantil, quien resuelva el expediente sancionador podrá acordar la publicidad de las sanciones impuestas cuando hayan adquirido firmeza en vía administrativa o, en su caso, en vía judicial.
+2. Las sanciones firmes en vía administrativa, sea cual fuere su clase y naturaleza, serán anotadas en el expediente de la empresa o actividad turística correspondiente.
+La anotación de las sanciones anteriores se cancelará de oficio o a instancia del interesado:
+a) Transcurridos uno, dos o cuatro años, según se trate de sanciones por infracciones leves, graves o muy graves, respectivamente, desde su imposición con carácter firme en vía administrativa.
+b) Cuando se produzca cambio de titularidad de las empresas o actividades turísticas.
+
+### Artículo 66
+
+Artículo 66. Órganos competentes para imponer sanciones.
+a) La persona titular de la Dirección General competente en materia de Turismo, para las sanciones de apercibimiento y multa de hasta quince mil euros.
+b) La persona titular de la Consejería competente en materia de Turismo, para las sanciones de multa desde quince mil un euros hasta setenta y cinco mil euros, y suspensión de actividades o clausura por periodo de hasta tres meses.
+c) El Consejo de Gobierno de Cantabria para las sanciones de suspensión e inhabilitación que recogen los párrafos b) y c) del artículo 62 de la presente Ley.
+Se modifica por el art. 11.4 de la Ley 3/2024, de 23 de diciembre. Ref. BOE-A-2025-643
+ Se modifica por el art. 15.14 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO V
+
+Procedimiento
+
+### Artículo 67
+
+Artículo 67. Iniciación del procedimiento.
+1. Los procedimientos sancionadores se iniciarán siempre de oficio por acuerdo de la persona titular de la Dirección General competente en materia de turismo, bien por propia iniciativa o como consecuencia de orden superior, petición razonada de otros órganos o denuncia.
+2. Con carácter previo a la incoación del procedimiento se podrá ordenar la práctica de diligencias preliminares para la aclaración de los hechos. Para ello, los órganos competentes para la inspección o sanción podrán recabar los datos necesarios para la identificación de los presuntos responsables, sin que sea necesaria su previa autorización o consentimiento todo ello en los términos previstos en el artículo 55.2 de la Ley 39/2015, de 1 de octubre.
+3. La tramitación del procedimiento sancionador corresponde a la Dirección General competente en materia de turismo y se substanciará conforme a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Se añade por el art. 18.19 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 68
+
+Artículo 68. Terminación del procedimiento.
+1. Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se haya justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 30 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+Se añade por el art. 18.20 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 69
+
+Artículo 69. Caducidad del procedimiento.
+El plazo máximo en el que debe notificarse la resolución expresa de un procedimiento sancionador en materia de turismo será de un año contado desde la fecha del acuerdo de iniciación; transcurrido dicho plazo se producirá la caducidad del mismo.
+Se añade por el art. 14.7 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 70
+
+Artículo 70. Ejecución.
+(Derogado).
+Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## CAPÍTULO VI
+
+Medidas cautelares
+
+### Artículo 71
+
+Artículo 71. Medidas cautelares.
+El titular de la Consejería competente, previo informe o a instancia, en su caso, de otros organismos o autoridades, podrá acordar cautelarmente la clausura inmediata de una empresa o actividad turística con precintado de las instalaciones, cuando concurran circunstancias graves que afecten a la seguridad de las personas o de los bienes, durante el tiempo necesario para la subsanación de los defectos existentes y sin perjuicio de la incoación del correspondiente expediente sancionador que en su caso proceda.
+
+### Artículo 72
+
+Artículo 72. Cierre del establecimiento.
+(Derogado).
+Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 73
+
+Artículo 73. Intrusismo profesional.
+La realización, publicidad o cualquier otra actuación de las empresas turísticas sin haber realizado la declaración responsable o sin haber obtenido, en su caso, la autorización administrativa necesaria para el inicio de la actividad a las que se refiere el artículo 17 de esta norma.
+Se modifica por el art. 15.15 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+## TÍTULO VI
+
+Del arbitraje
+
+## CAPÍTULO ÚNICO
+
+### Artículo 74
+
+Artículo 74. Arbitraje.
+La Consejería competente en materia de turismo podrá promover la creación, mediante Decreto, de mecanismos de arbitraje para la resolución, con carácter vinculante y definitivo, de los conflictos que pudieran surgir entre las empresas prestadoras de los servicios y los usuarios destinatarios de los mismos, todo ello sin perjuicio de la protección administrativa y judicial de acuerdo con lo establecido en el artículo 24 de la Constitución Española.
+El sometimiento de la resolución a arbitraje será voluntario para las partes e implicará que no se tramite expediente sancionador frente a la persona presuntamente responsable de los hechos que traen causa, a no ser que los mismos estén tipificados como infracción muy grave.
+Se añade por el art. 18.21 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 75
+
+Artículo 75. Árbitros.
+Los árbitros serán designados por la Dirección General competente en materia de turismo entre personas de reconocido prestigio y conocimiento en las materias objeto de litigio.
+Los árbitros actuarán libremente decidiendo sobre las cuestiones en conflicto y emitirán un laudo razonado en un plazo no superior a sesenta días desde el comienzo del arbitraje.
+Se añade por el art. 18.21 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Artículo 76
+
+Artículo 76. Laudo arbitral.
+1. El laudo arbitral se dictará en derecho y contendrá no sólo la mejor solución posible para las partes sino los mecanismos necesarios para ello. El laudo será obligatorio para las partes.
+2. Los árbitros podrán recabar de todas las partes implicadas cuanta documentación precisen, debiendo éstas entregarla sin excusa y a la mayor brevedad.
+Se añade por el art. 18.21 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se deroga por el art. 15.16 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se autoriza al Gobierno de Cantabria para que, mediante Decreto, actualice las cuantías de las sanciones prevista en esta Ley, teniendo en cuenta la variación del Índice de Precios al Consumo.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Desaparece la asociación sin ánimo de lucro denominada Patronato Regional de Turismo, que se ha nutrido de fondos públicos al haber sido integrados sus fines y objetivos en la Sociedad de Turismo de Cantabria, S.A.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+El Consejo de Turismo de Cantabria se constituirá a los tres meses de la aprobación de la presente Ley. En tanto sea objeto de una nueva regulación, en un plazo máximo de un año desde la entrada en vigor de la presente Ley, seguirá rigiéndose por el Decreto 15/1996, de 22 de marzo.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+A los expedientes en trámite iniciados antes de la entrada en vigor de la presente Ley no les será de aplicación la misma, rigiéndose por la normativa anterior, salvo que la aplicación de la presente Ley pueda resultar más beneficiosa para el interesado.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Queda derogada la Ley 1/1992, de 11 de febrero, de Inspección y Régimen Sancionador en materia de Turismo y cuantas disposiciones se opongan a lo preceptuado en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Por Decreto del Gobierno de Cantabria se establecerá una nueva estructura organizativa de la Dirección General de Turismo, que hasta ese momento continuará funcionando con la estructura que mantiene actualmente.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Se autoriza al Gobierno de Cantabria para dictar cuantas disposiciones de aplicación y desarrollo de la presente Ley sea necesario.
+
+### Disposición final tercera
+
+Disposición final tercera.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad Autónoma de Cantabria», debiendo ser también publicada en el «Boletín Oficial del Estado».
+
+Palacio del Gobierno de Cantabria, 24 de marzo de 1999.−El Presidente, José Joaquín Martínez Sieso.
+
+## [Información relacionada]
+
+Información relacionada
+ Téngase en cuenta que el Gobierno de Cantabria mediante Decreto, publicado únicamente en el "Boletín Oficial de Cantabria", puede actualizar las cuantías de las sanciones previstas en esta Ley, considerando la variación del Índice de Precios al Consumo, según establece la disposición adicional primera.

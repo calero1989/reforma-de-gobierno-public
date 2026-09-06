@@ -1,0 +1,759 @@
+# Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita.
+
+- Identificador BOE: `BOE-A-1996-750`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1996-750
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+1. Justificación de la reforma
+Los derechos otorgados a los ciudadanos por los artículos 24 y 25 de la Constitución son corolario evidente de la concepción social o asistencial del Estado Democrático de Derecho, tal y como ha sido configurado por nuestra Norma Fundamental. En lógica coherencia con los contenidos de estos preceptos constitucionales, y al objeto de asegurar a todas las personas el acceso a la tutela judicial efectiva, el artículo 119 del propio texto constitucional previene que la Justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar. Con todo ello, nuestra Norma Fundamental diseña un marco constitucional regulador del derecho a la tutela judicial que incluye, por parte del Estado, una actividad prestacional encaminada a la provisión de los medios necesarios para hacer que este derecho sea real y efectivo incluso cuando quien desea ejercerlo carezca de recursos económicos.
+Suprimidas por la Ley 25/1986 las tasas judiciales, el núcleo de los costes económicos derivados del acceso a la tutela judicial viene determinado por la intervención en el mismo, por imperativo legal, en la mayor parte de las ocasiones, de profesionales especializados en la defensa y representación de los derechos e intereses legítimos. En efecto, una vez que el Estado ha renunciado a la percepción de cualquier cantidad por el acceso al aparato judicial, son los honorarios de abogados, de procuradores y, en su caso, de cualesquiera otros profesionales, así como el coste de la obtención de las pruebas documentales o periciales necesarias, los que implican un coste económico inasumible para los ciudadanos que no disponen de los recursos económicos necesarios para hacerles frente.
+La previsión constitucional del artículo 119 ha sido ya objeto de desarrollo por la Ley Orgánica 6/1985, del Poder Judicial, que en sus artículos 20.2 y 440.2 recoge el mandato constitucional y remite, para la regulación del sistema de justicia gratuita, a la ley ordinaria. En virtud de esta reserva de ley, corresponde al legislador ordinario dar cumplimiento a la encomienda constitucional de que se articule un sistema de justicia gratuita para aquellos que carezcan de recursos.
+2. Vocación unificadora
+A esa finalidad responde la presente Ley, cuyo objeto es regular un sistema de justicia gratuita que permita a los ciudadanos que acrediten insuficiencia de recursos para litigar, proveerse de los profesionales necesarios para acceder a la tutela judicial efectiva y ver adecuadamente defendidos sus derechos e intereses legítimos. Se trata, pues, de una ley cuyos beneficiarios y destinatarios directos son todos los ciudadanos que pretendan acceder a la tutela judicial efectiva y vean obstaculizado dicho acceso en razón de su situación económica. La finalidad es, por tanto, garantizar el acceso a la Justicia en condiciones de igualdad a todos los ciudadanos.
+Frente a la dispersa legislación procesal que hasta ahora ha regulado la justicia gratuita, esta norma viene a unificar en sí misma el nuevo sistema legal de justicia gratuita; así pues, tal y como fue entendido por la Cámara Baja al aprobar por unanimidad en su sesión celebrada el 10 de mayo de 1994 la moción consecuencia de interpelación presentada por el Grupo Parlamentario Federal Izquierda Unida-Iniciativa per Catalunya, ratificada por la Resolución de 9 de febrero de 1995, la presente Ley regula un sistema único, concentrado en una sola norma, con las lógicas consecuencias de claridad y certeza que redundan, en definitiva, en un incremento de la seguridad jurídica.
+3. Ampliación del contenido material del derecho
+Al objeto de remover los obstáculos que impiden que los ciudadanos más desprotegidos accedan a la tutela judicial efectiva en condiciones de igualdad, la presente Ley opera una notable transformación en el contenido material del derecho a la asistencia jurídica gratuita, configurándolo de forma más amplia.
+En efecto, frente a los beneficios hasta ahora recogidos por la Ley de Enjuiciamiento Civil, el nuevo sistema configura un derecho más completo y por tanto más garantizador de la igualdad de las partes en el proceso, eliminando onerosidades excesivas que no son sino negaciones prácticas de aquélla; así pues, a los beneficios ya consagrados por nuestro ordenamiento jurídico como propios del derecho a la asistencia jurídica gratuita, la Ley añade nuevas prestaciones tales como el asesoramiento y la orientación previos a la iniciación del proceso -lo cual ha de evitar en numerosas ocasiones litigios artificiales tan costosos en todos los sentidos para la Justicia-, la asistencia pericial en el mismo y la reducción sustancial del coste para la obtención de escrituras y documentos notariales y de aquellos documentos emanados de los Registros Públicos, que puedan ser precisos para las partes en el proceso.
+4. El reconocimiento del derecho
+De igual modo, la Ley supone un paso más en la protección de esos ciudadanos más desfavorecidos que necesitan acceder a la tutela judicial para ver realizadas sus legítimas pretensiones o defendidos sus derechos.
+Bajo la amplia libertad de configuración legal que se deriva del artículo 119 de la Constitución Española -libertad que nuestro Tribunal Constitucional ya reconoció expresamente-, la presente Ley llega más lejos que el sistema anterior al adoptar los criterios para reconocer el derecho de asistencia jurídica gratuita, estableciendo un doble mecanismo: por un lado, un criterio objetivo para el reconocimiento del derecho, basado en la situación económica de los solicitantes, y complementado por un mecanismo flexible de apreciación subjetiva acorde con nuestra jurisprudencia constitucional, que posibilita efectuar el reconocimiento excepcional del derecho a personas cuya situación económica excede del módulo legal pero que, sin embargo, afrontan unas circunstancias de una u otra índole que deben ser ponderadas y que hacen conveniente ese reconocimiento. En estos segundos supuestos excepcionales, y he aquí precisamente la diferencia con el régimen que la Ley de Enjuiciamiento Civil tenía establecido hasta hoy, la extensión del derecho puede llegar a ser total, incluyendo todas las prestaciones que lo integran.
+Sin perjuicio de todo lo anterior, quedará siempre garantizado el derecho de los interesados a la libre designación de abogado y procurador.
+5. Actuación administrativa
+A pesar de que la evaluación del cumplimiento de los requisitos para gozar del derecho a la asistencia jurídica gratuita no es en sentido estricto una función jurisdiccional, así se ha mantenido tradicionalmente en nuestra legislación procesal.
+Lejos de esa concepción, constituye esencial propósito de la Ley la «desjudicialización» del procedimiento para reconocer el derecho a la asistencia jurídica gratuita, optándose así por las más modernas pautas que configuran dicha función como una actividad esencialmente administrativa.
+La traslación del reconocimiento del derecho a sede administrativa responde a dos motivos: en primer término, se descarga a los Juzgados y Tribunales de una tarea que queda fuera de los márgenes constitucionales del ejercicio de la potestad jurisdiccional y, en segundo lugar, se agiliza la resolución de las solicitudes de los ciudadanos mediante una tramitación sumaria y normalizada. El reconocimiento del derecho pasa, por tanto, a convertirse en una función que descansa sobre el trabajo previo de los Colegios profesionales, que inician la tramitación ordinaria de las solicitudes, analizan las pretensiones y acuerdan designaciones o denegaciones provisionales, y, por otra parte, sobre la actuación de unos nuevos órganos administrativos, las Comisiones de Asistencia Jurídica Gratuita, como órganos formalmente responsables de la decisión final, y en cuya composición se hallan representadas las instancias intervinientes en el proceso.
+No quiere ello decir que los órganos jurisdiccionales pierdan todo su peso en el reconocimiento, ya que la Ley garantiza suficientemente el control judicial sobre la aplicación efectiva del derecho, habilitando a aquéllos para decidir sobre el mismo, en vía de recurso.
+6. Financiación pública
+Esta meta legal de proporcionar a los ciudadanos que lo precisen un sistema rápido y eficaz de justicia gratuita se articula, como hasta ahora, sobre la base de un servicio público, prestado por la Abogacía y la Procuraduría, financiado con fondos igualmente públicos. De hecho, conforme a la jurisprudencia del Tribunal Europeo de Derechos Humanos y de nuestro Tribunal Constitucional, el Estado es el responsable del recto funcionamiento del servicio por la sola obligación constitucional de proveer a la defensa de quienes carezcan de recursos; esta jurisprudencia ha dejado claramente establecida la responsabilidad pública en tal sentido, como deber positivo del Estado de garantizar el derecho de acceso a la Justicia o, lo que es lo mismo, a la tutela judicial efectiva como derecho fundamental que es.
+Ello conduce a la obligación de establecer mecanismos de control que aseguren el adecuado destino de los fondos públicos asignados al servicio, de tal forma que no se beneficien de dichos fondos quienes no precisen de asistencia alguna.
+Así pues, la Ley fija los criterios básicos de la financiación del servicio, cuyo coste deberá ser periódicamente evaluado por los poderes públicos, que en todo caso deberán seguir el principio de que el servicio de asistencia jurídica gratuita esté digna y suficientemente remunerado, haciéndose efectiva su retribución en plazos razonables. Tanto lo relativo a la financiación, como las reglas referentes a la prestación y funcionamiento del servicio se conciben con la flexibilidad y generalidad propias de una norma de rango legal, que habrán de permitir que su desarrollo por normas de rango inferior facilite el adecuado ajuste a las cambiantes situaciones económicas y sociales, evitando así la petrificación del ordenamiento y la consagración en normas con la rigidez legal de materias que, por su propia naturaleza, son susceptibles de sucesivas transformaciones en muy poco tiempo. Tal regulación reglamentaria fue llevada a cabo con carácter urgente, y como paso inicial y transitorio de la actual reforma del sistema de justicia gratuita, mediante el Real Decreto 108/1995, de 27 de enero, sobre medidas para instrumentar la subvención estatal a la asistencia jurídica gratuita.
+7. Ordenación competencial
+La Ley resulta, en fin, respetuosa con la ordenación competencial que deriva de nuestra Norma Fundamental y de los Estatutos de Autonomía, explicitando los títulos competenciales que, de conformidad con las reglas 3.ª, 5.ª, 6.ª y 18.ª del artículo 149.1 de la Constitución Española, habilitan al Estado para establecer la nueva regulación, y permitiendo que ésta pueda complementarse con naturalidad con las normas que dicten las Comunidades Autónomas en ejercicio de sus competencias estatutarias.
+
+## CAPÍTULO I
+
+Derecho a la asistencia jurídica gratuita
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+La presente Ley tiene por objeto determinar el contenido y alcance del derecho a la asistencia jurídica gratuita al que se refiere el artículo 119 de la Constitución y regular el procedimiento para su reconocimiento y efectividad.
+El servicio de asistencia jurídica gratuita será obligatorio en los términos previstos en esta ley. Los Colegios profesionales podrán organizar el servicio y dispensar al colegiado cuando existan razones que lo justifiquen.
+Las disposiciones de esta ley serán de aplicación general en todo tipo de procesos judiciales, incluidos los recursos de amparo constitucional, la vía administrativa previa cuando así se establezca en la legislación específica, así como el asesoramiento previo al proceso contemplado en el apartado 1 del artículo 6.
+En la aplicación de esta Ley deberán tomarse en consideración las necesidades específicas de las personas que se encuentren en situación de vulnerabilidad.
+Téngase en cuenta que esta última actualización establecida por la disposición final 1.1 de la por Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831, entra en vigor el 1 de octubre de 2018, según determina su disposición final sexta:
+ Redacción aterior.
+ "Artículo 1. Objeto de la Ley.
+ La presente Ley tiene por objeto determinar el contenido y alcance del derecho a la asistencia jurídica gratuita al que se refiere el artículo 119 de la Constitución y regular el procedimiento para su reconocimiento y efectividad.
+ El servicio de asistencia jurídica gratuita será obligatorio en los términos previstos en esta ley. Los Colegios profesionales podrán organizar el servicio y dispensar al colegiado cuando existan razones que lo justifiquen.
+ Las disposiciones de esta ley serán de aplicación general en todo tipo de procesos judiciales, incluidos los recursos de amparo constitucional, la vía administrativa previa cuando así se establezca en la legislación específica, así como el asesoramiento previo al proceso contemplado en el apartado 1 del artículo 6."
+Se añade el último párrafo, con efectos de 1 de octubre de 2018, por la disposición final 1.1 de la por Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831
+ Se modifica por el art. único.1 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+ Se modifica por la disposición final 3.1 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 2
+
+Artículo 2. Ambito personal de aplicación.
+En los términos y con el alcance previstos en esta ley y en los tratados y convenios internacionales sobre la materia en los que España sea parte, tendrán derecho a la asistencia jurídica gratuita:
+a) Los ciudadanos españoles, los nacionales de los demás Estados miembros de la Unión Europea y los extranjeros que se encuentren en España, cuando acrediten insuficiencia de recursos para litigar.
+b) Las Entidades Gestoras y Servicios Comunes de la Seguridad Social, en todo caso.
+c) Las siguientes personas jurídicas cuando acrediten insuficiencia de recursos para litigar:
+1.º Asociaciones de utilidad pública, previstas en el artículo 32 de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación
+2.º Fundaciones inscritas en el Registro Público correspondiente.
+d) En el orden jurisdiccional social, además, los trabajadores y beneficiarios del sistema de Seguridad Social, tanto para la defensa en juicio como para el ejercicio de acciones para la efectividad de los derechos laborales en los procedimientos concursales.
+Asimismo, el derecho a la asistencia jurídica gratuita se reconoce a los trabajadores y beneficiarios de la Seguridad Social para los litigios que sobre esta materia se sustancien ante el orden contencioso-administrativo.
+e) En el orden contencioso-administrativo, así como en la vía administrativa previa, los ciudadanos extranjeros que acrediten insuficiencia de recursos para litigar tendrán derecho a la asistencia letrada y a la defensa y representación gratuita en los procedimientos que puedan llevar a la denegación de su entrada en España, a su devolución o expulsión del territorio español, y en todos los procedimientos en materia de asilo.
+f) En los litigios transfronterizos en materia civil y mercantil, las personas físicas contempladas en el Capítulo VIII de esta ley, en los términos que en él se establecen.
+g) En el ámbito concursal, se reconoce el derecho a la asistencia jurídica gratuita, para todos los trámites del procedimiento especial, a los deudores personas físicas o jurídicas que tengan la consideración de microempresa en los términos establecidos en el texto refundido de la Ley Concursal, a los que resulte de aplicación el procedimiento especial previsto en su libro tercero, siempre que acrediten insuficiencia de recursos para litigar.
+Igualmente, en el ámbito concursal, los sindicatos estarán exentos de efectuar depósitos y consignaciones en todas sus actuaciones y gozarán del beneficio legal de justicia gratuita cuando ejerciten un interés colectivo en defensa de las personas trabajadoras y beneficiarias de la Seguridad Social.
+h) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita, que se les prestará de inmediato, a las víctimas de violencia de género, de terrorismo y de trata de seres humanos en aquellos procesos que tengan vinculación, deriven o sean consecuencia de su condición de víctimas, así como a las personas con discapacidad necesitadas de especial protección cuando sean víctimas de delitos de homicidio, de lesiones de los artículos 149 y 150, en el delito de maltrato habitual previsto en el artículo 173.2, en los delitos contra la libertad, en los delitos contra la libertad sexual y en los delitos de trata de seres humanos. También se reconoce este derecho, con independencia de la existencia de recursos para litigar, a las mujeres y personas menores de edad que sean víctimas de los delitos contra la libertad sexual previstos en el título VIII del libro II del Código Penal, los delitos de mutilación genital femenina, matrimonio forzado y acoso con connotación sexual.
+Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima, siempre que no fueran partícipes en los hechos.
+A los efectos de la concesión del beneficio de justicia gratuita, la condición de víctima se adquirirá cuando se formule denuncia o querella, o se inicie un procedimiento penal, por alguno de los delitos a que se refiere esta letra, y se mantendrá mientras permanezca en vigor el procedimiento penal o cuando, tras su finalización, se hubiere dictado sentencia condenatoria. El beneficio de justifica gratuita se perderá tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos, sin la obligación de abonar el coste de las prestaciones disfrutadas gratuitamente hasta ese momento.
+En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa.
+Téngase en cuenta que esta letra h), modificada por la disposición final 10.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-10, entra en vigor el 3 de octubre de 2025 según establece su disposición final 38.3.
+ Redacción anterior:
+ "h) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita, que se les prestará de inmediato, a las víctimas de violencia de género, de terrorismo y de trata de seres humanos en aquellos procesos que tengan vinculación, deriven o sean consecuencia de su condición de víctimas, así como a las personas menores de edad y las personas con discapacidad necesitadas de especial protección cuando sean víctimas de delitos de homicidio, de lesiones de los artículos 149 y 150, en el delito de maltrato habitual previsto en el artículo 173.2, en los delitos contra la libertad, en los delitos contra la libertad e indemnidad sexual y en los delitos de trata de seres humanos.
+ Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima, siempre que no fueran partícipes en los hechos.
+ A los efectos de la concesión del beneficio de justicia gratuita, la condición de víctima se adquirirá cuando se formule denuncia o querella, o se inicie un procedimiento penal, por alguno de los delitos a que se refiere esta letra, y se mantendrá mientras permanezca en vigor el procedimiento penal o cuando, tras su finalización, se hubiere dictado sentencia condenatoria. El beneficio de justifica gratuita se perderá tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos, sin la obligación de abonar el coste de las prestaciones disfrutadas gratuitamente hasta ese momento.
+ En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa."
+i) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita a quienes a causa de un accidente acrediten secuelas permanentes que les impidan totalmente la realización de las tareas de su ocupación laboral o profesional habitual y requieran la ayuda de otras personas para realizar las actividades más esenciales de la vida diaria, cuando el objeto del litigio sea la reclamación de indemnización por los daños personales y morales sufridos.
+j) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita a las asociaciones que tengan como fin la promoción y defensa de los derechos de las víctimas del terrorismo, señaladas en la Ley 29/2011, de 22 de septiembre, de reconocimiento y protección integral a las víctimas del terrorismo.
+k) Las personas que comuniquen infracciones en los términos de la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, a la Autoridad Independiente de Protección del Informante, A.A.I., o a las autoridades autonómicas respectivas, siempre que cumplan las condiciones de protección recogidas en la citada Ley, siempre que cuenten con unos recursos e ingresos económicos brutos, computados anualmente por todos los conceptos y por unidad familiar, inferiores a cuatro veces el indicador público de renta de efectos múltiples vigente en el momento de comunicar la información, y exclusivamente para los procedimientos seguidos en cualquier orden jurisdiccional que sean consecuencia directa de la infracción comunicada.
+l) En el orden penal, las personas jurídicas, cuando por requerimiento judicial haya de designarse defensa letrada y, en su caso, representación procesal, siempre que la sociedad haya sido declarada judicialmente en situación de insolvencia actual o inminente, se encuentre en concurso de acreedores o no conste actividad económica en el último ejercicio cuando, en este último caso, la sociedad se halle disuelta o en trámite de disolución por las causas y por el procedimiento legalmente previsto para ello.
+Se modifica la letra h), por la disposición final 10.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-10
+ Esta modificación entra en vigor el 3 de octubre de 2025 según establece su disposición final 38.3.
+ Se modifica la letra g) y se añade la l) por la disposición final 3 de la Ley Orgánica 5/2024, de 11 de noviembre. Ref. BOE-A-2024-23630#df-3
+ Téngase en cuenta la disposición transitoria de la citada Ley Orgánica sobre el régimen transitorio para la compensación de asistencia jurídica en el supuesto de la letra l).
+ Se añade la letra k) por la disposición final 1 de la Ley 2/2023, de 20 de febrero. Ref. BOE-A-2023-4513#df
+ Se añade una letra g) y se reordenan las letras g) a i) como h) a j) por la disposición final 3 de la Ley 16/2022, de 5 de septiembre. Ref. BOE-A-2022-14580#df-3
+ Se modifica la letra g) por la disposición final 7 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-7
+ Se modifica la letra g) y se añade la i) por la disposición final 3.2 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se añaden las letras g) y h) por el art. 2.1 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se modifica por el art. único.1 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+ Se modifica el apartado d) por la disposición final 4 de la Ley 22/2003, de 9 de julio. Ref. BOE-A-2003-13813.
+ Se declara inconstitucional y nulo el inciso indicado del apartado a) por Sentencia del TC 95/2003, de 22 de mayo. Ref. BOE-T-2003-11607.
+ Téngase en cuenta también el punto 2º del fallo en relación con el fundamento jurídico 7.
+
+### Artículo 3
+
+Artículo 3. Requisitos básicos.
+1. Se reconocerá el derecho de asistencia jurídica gratuita a aquellas personas físicas que careciendo de patrimonio suficiente cuenten con unos recursos e ingresos económicos brutos, computados anualmente por todos los conceptos y por unidad familiar, que no superen los siguientes umbrales:
+a) Dos veces el indicador público de renta de efectos múltiples vigente en el momento de efectuar la solicitud cuando se trate de personas no integradas en ninguna unidad familiar.
+b) Dos veces y media el indicador público de renta de efectos múltiples vigente en el momento de efectuar la solicitud cuando se trate de personas integradas en alguna de las modalidades de unidad familiar con menos de cuatro miembros.
+c) El triple de dicho indicador cuando se trate de unidades familiares integradas por cuatro o más miembros o que tengan reconocida su condición de familia numerosa de acuerdo con la normativa vigente.
+2. Para la determinación del concepto de unidad familiar en sus diversas modalidades se estará a lo establecido en la Ley del Impuesto sobre la Renta de las Personas Físicas, equiparándose a los cónyuges no separados legalmente las parejas de hecho constituidas de conformidad con los requisitos que les fueran exigibles.
+3. Los medios económicos serán valorados individualmente cuando el solicitante acredite la existencia de intereses familiares contrapuestos en el litigio para el que se solicita la asistencia.
+4. El derecho a la asistencia jurídica gratuita solo podrá reconocerse a quienes litiguen en defensa de derechos o intereses propios, o ajenos cuando tengan fundamento en una representación legal. En este último caso, los requisitos para la obtención del beneficio vendrán referidos al representado.
+5. Se reconocerá el derecho de asistencia jurídica gratuita a las personas jurídicas mencionadas en el apartado c) del artículo anterior, cuando careciendo de patrimonio suficiente el resultado contable de la entidad en cómputo anual fuese inferior a la cantidad equivalente al triple del indicador público de renta de efectos múltiples.
+Se modifican los apartados 1.c), 2 y 3 por la disposición final 3.3 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica por el art. 2.2 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se modifica el apartado 5 por el art. único.2 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+ Se modifica el apartado 5 por la disposición final 6 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
+
+### Artículo 4
+
+Artículo 4. Exclusión por motivos económicos.
+1. A los efectos de comprobar la insuficiencia de recursos para litigar, se tendrá en cuenta además de las rentas y otros bienes patrimoniales o circunstancias que declare el solicitante, los signos externos que manifiesten su real capacidad económica, negándose el derecho a la asistencia jurídica gratuita si dichos signos, desmintiendo la declaración del solicitante, revelan con evidencia que este dispone de medios económicos que superan el límite fijado por la ley.
+2. Para valorar la existencia de patrimonio suficiente se tendrá en cuenta la titularidad de bienes inmuebles siempre que no constituyan la vivienda habitual del solicitante, así como los rendimientos del capital mobiliario.
+Se modifica por el art. 2.3 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+
+### Artículo 5
+
+Artículo 5. Reconocimiento excepcional del derecho.
+1. En atención a las circunstancias de familia del solicitante, número de hijos o familiares a su cargo, las tasas judiciales y otros costes derivados de la iniciación del proceso, u otras de análoga naturaleza, objetivamente evaluadas y, en todo caso, cuando el solicitante ostente la condición de ascendiente de una familia numerosa de categoría especial, la Comisión de Asistencia Jurídica Gratuita ante la que se presente la solicitud podrá conceder excepcionalmente, mediante resolución motivada, el reconocimiento del derecho a las personas cuyos recursos e ingresos, aun superando los límites previstos en el artículo 3, no excedan del quíntuplo del indicador público de renta de efectos múltiples, teniendo en cuenta además la carencia de patrimonio suficiente.
+2. En las mismas condiciones señaladas en el párrafo anterior, se podrá reconocer el derecho a la asistencia jurídica gratuita atendiendo a las circunstancias de salud del solicitante y a las personas con discapacidad señaladas en el apartado 2 artículo 1 de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, así como a las personas que los tengan a su cargo cuando actúen en un proceso en su nombre e interés, siempre que se trate de procedimientos que guarden relación con las circunstancias de salud o discapacidad que motivan este reconocimiento excepcional.
+En tales casos, la Comisión de Asistencia Jurídica Gratuita correspondiente determinará expresamente qué prestaciones de las contempladas en el artículo 6 son de aplicación al solicitante.
+Se modifica por el art. 2.4 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se añade el párrafo 2 por el art. único.3 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+ Se modifica por la disposición adicional 4 de la Ley 40/2003, de 18 de noviembre. Ref. BOE-A-2003-21052.
+
+### Artículo 6
+
+Artículo 6. Contenido material del derecho.
+El derecho a la asistencia jurídica gratuita comprende las siguientes prestaciones:
+1. Asesoramiento y orientación gratuitos previos al proceso a quienes pretendan reclamar la tutela judicial de sus derechos e intereses, así como información sobre la posibilidad de recurrir a la mediación u otros medios extrajudiciales de solución de conflictos, en los casos no prohibidos expresamente por la ley, cuando tengan por objeto evitar el conflicto procesal o analizar la viabilidad de la pretensión.
+Cuando se trate de víctimas de violencia de género, de terrorismo y de trata de seres humanos, así como de menores de edad y las personas con discapacidad intelectual o enfermedad mental, en los términos establecidos en la letra g) del artículo 2, la asistencia jurídica gratuita comprenderá asesoramiento y orientación gratuitos en el momento inmediatamente previo a la interposición de denuncia o querella.
+2. Asistencia de abogado al detenido, preso o imputado que no lo hubiera designado, para cualquier diligencia policial que no sea consecuencia de un procedimiento penal en curso o en su primera comparecencia ante un órgano jurisdiccional, o cuando ésta se lleve a cabo por medio de auxilio judicial y el detenido, preso o imputado no hubiere designado abogado en el lugar donde se preste. Igualmente será de aplicación dicha asistencia letrada a la persona reclamada y detenida como consecuencia de una orden de detención europea que no hubiere designado abogado.
+No será necesario que el detenido, preso o imputado acredite previamente carecer de recursos, sin perjuicio de que si no se le reconoce con posterioridad el derecho a la asistencia jurídica gratuita, deba abonar al abogado los honorarios devengados por su intervención.
+3. Defensa y representación gratuitas por abogado y procurador en el procedimiento judicial, cuando la intervención de estos profesionales sea legalmente preceptiva o cuando, no siéndolo, se dé alguna de las siguientes circunstancias:
+a) su intervención sea expresamente requerida por el juzgado o tribunal mediante auto motivado para garantizar la igualdad de las partes en el proceso.
+b) tratándose de delitos leves, la persona frente a la que se dirige el proceso penal haya ejercitado su derecho a estar asistido de abogado y así se acuerde por el juzgado o tribunal, en atención a la entidad de la infracción de que se trate y las circunstancias personales del solicitante de asistencia jurídica.
+4. Inserción gratuita de anuncios o edictos, en el curso del proceso, que preceptivamente deban publicarse en periódicos oficiales.
+5. Exención del pago de tasas judiciales, así como del pago de depósitos necesarios para la interposición de recursos.
+6. Asistencia pericial gratuita en el proceso a cargo del personal técnico adscrito a los órganos jurisdiccionales, o, en su defecto, a cargo de funcionarios, organismos o servicios técnicos dependientes de las Administraciones públicas.
+Excepcionalmente y cuando por inexistencia de técnicos en la materia de que se trate, no fuere posible la asistencia pericial de peritos dependientes de los órganos jurisdiccionales o de las Administraciones públicas, ésta se llevará a cabo, si el Juez o el Tribunal lo estima pertinente, en resolución motivada, a cargo de peritos designados de acuerdo a lo que se establece en las leyes procesales, entre los técnicos privados que correspondan.
+El Juez o Tribunal podrá acordar en resolución motivada que la asistencia pericial especializada gratuita se lleve a cabo por profesionales técnicos privados cuando deba prestarse a menores y personas con discapacidad psíquica que sean víctimas de abuso o maltrato, atendidas las circunstancias del caso y el interés superior del menor o de la persona con discapacidad, pudiendo prestarse de forma inmediata.
+7. Obtención gratuita de copias, testimonios, instrumentos y actas notariales, en los términos previstos en el artículo 130 del Reglamento Notarial.
+8. Reducción del 80 por 100 de los derechos arancelarios que correspondan por el otorgamiento de escrituras públicas y por la obtención de copias y testimonios notariales no contemplados en el número anterior, cuando tengan relación directa con el proceso y sean requeridos por el órgano judicial en el curso del mismo, o sirvan para la fundamentación de la pretensión del beneficiario de la justicia gratuita.
+9. Reducción del 80 por 100 de los derechos arancelarios que correspondan por la obtención de notas, certificaciones, anotaciones, asientos e inscripciones en los Registros de la Propiedad y Mercantil, cuando tengan relación directa con el proceso y sean requeridos por el órgano judicial en el curso del mismo, o sirvan para la fundamentación de la pretensión del beneficiario de la justicia gratuita.
+10. Los derechos arancelarios a que se refieren los apartados 8 y 9 no se percibirán cuando el interesado acredite ingresos por debajo del indicador público de renta de efectos múltiples.
+11. La asistencia gratuita de profesional de la abogacía en cualquiera de los medios adecuados de solución de controversias permitidos por la ley que tenga por objeto dar cumplimiento al requisito de procedibilidad dispuesto en el artículo 5 de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, cuando en el eventual proceso judicial la intervención de este profesional sea legalmente preceptiva o cuando, no siéndolo, la parte contraria actúe con él.
+Téngase en cuenta que esta apartado 11, añadido por disposición final 10.2 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-10, entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
+Se añade el apartado 11, con efectos de 3 de abril de 2025, por la disposición final 10.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-10
+ Se modifica el apartado 3, con efectos de 1 de octubre de 2018, por la disposición final 1.2 de la por Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831
+ Se modifican los apartados 1, 2 y 10 por la disposición final 3.4 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifican los apartados 5 y 6 por el art. 2.5 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se modifica el apartado 6 por la disposición final 15 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Artículo 7
+
+Artículo 7. Extensión temporal.
+1. La asistencia jurídica gratuita en el transcurso de una misma instancia se extiende a todos sus trámites e incidencias, incluida la ejecución, pero no podrá aplicarse a un proceso distinto.
+2. El derecho a la asistencia jurídica gratuita se mantendrá para la interposición y sucesivos trámites de los recursos contra las resoluciones que pongan fin al proceso en la correspondiente instancia, aplicándose en este caso lo dispuesto en el artículo 32 de la presente Ley.
+3. Cuando la competencia para el conocimiento de los recursos a los que se refiere el apartado anterior corresponda a un órgano judicial cuya sede se encuentre en distinta localidad, el secretario judicial, una vez recibidos los autos judiciales, requerirá a los respectivos Colegios la designación de abogado y, en su caso, procurador de oficio ejercientes en dicha sede jurisdiccional.
+Se modifica el apartado 3 por la disposición final 3.5 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica el apartado 3 por el art. 12.1 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 8
+
+Artículo 8. Insuficiencia económica sobrevenida.
+No se reconocerá el derecho a la asistencia jurídica gratuita ni a prestaciones distintas de las solicitadas al actor una vez presentada la demanda, o al demandado una vez formulada su contestación, salvo que en su solicitud acrediten ante la Comisión de Asistencia Jurídica Gratuita que las circunstancias y condiciones necesarias para obtener aquél sobrevinieron con posterioridad a la demanda o contestación, respectivamente. El reconocimiento del derecho a la asistencia jurídica gratuita por circunstancias sobrevenidas no tendrá carácter retroactivo.
+No procederá la solicitud del derecho cuando el proceso ya hubiera finalizado mediante resolución firme, salvo que se refiera a su ejecución.
+Cuando el actor o el demandado pretendan el reconocimiento del derecho en la segunda instancia sin haberlo solicitado en la primera, deberán acreditar ante la Comisión de Asistencia Jurídica Gratuita que las circunstancias y condiciones precisas sobrevinieron en el curso de la primera instancia o con posterioridad a ella.
+La misma regla será aplicable al que pretenda el reconocimiento del derecho para interponer o seguir el recurso de casación respecto de la segunda instancia.
+Se modifica el párrafo primero y se añade el segundo por la disposición final 3.6 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+## CAPÍTULO II
+
+Competencia y procedimiento para el reconocimiento del derecho a la asistencia jurídica gratuita
+
+### Artículo 9
+
+Artículo 9. Comisión de Asistencia Jurídica Gratuita.
+En cada capital de provincia, en las ciudades de Ceuta y Melilla y en cada isla en que existan uno o más partidos judiciales, se constituirá una Comisión de Asistencia Jurídica Gratuita como órgano responsable, en su correspondiente ámbito territorial, de efectuar el reconocimiento del derecho regulado en la presente Ley.
+No obstante, el órgano competente en la Comunidad Autónoma podrá determinar un ámbito territorial distinto para la Comisión.
+Asimismo, en relación con los Juzgados y Tribunales con competencia en todo el territorio nacional, se constituirá en la capital del Estado una Comisión Central de Asistencia Jurídica Gratuita dependiente de la Administración General del Estado.
+Se modifica por el art. 78.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se declara que los incisos "en cada capital de provincia" y "en su correspondiente ámbito territorial" vulneran las competencias de la Generalidad de Cataluña y, por ello, no son de aplicación en el ámbito territorial de la Comunidad Autónoma de Cataluña, por Sentencia del TC 97/2001, de 5 de abril. Ref. BOE-T-2001-8433
+
+### Artículo 10
+
+Artículo 10. Composición de las Comisiones de Asistencia Jurídica Gratuita.
+1. La Comisión Central de Asistencia Jurídica Gratuita estará compuesta por los Decanos del Colegio de Abogados y del Colegio de Procuradores de Madrid, o el abogado o procurador que ellos designen, un Abogado del Estado y un funcionario del Ministerio de Justicia perteneciente a cuerpos o escalas del subgrupo A1. La Comisión será presidida semestralmente por cada uno de sus miembros, a excepción del funcionario del Ministerio de Justicia, quien actuará como secretario.
+2. Las Comisiones de Asistencia Jurídica Gratuita dependientes de las Comunidades Autónomas estarán integradas por el Decano del Colegio de Abogados y el del Colegio de Procuradores, o el abogado o el procurador que ellos designen, y por dos miembros que designen las Administraciones públicas de las que dependen. El órgano competente de la Comunidad Autónoma determinará cuáles de sus integrantes desempeñarán la presidencia y la secretaría.
+3. En las Comisiones de Asistencia Jurídica Gratuita dependientes de la Administración General del Estado, los miembros que corresponden a la Administración pública serán un Abogado del Estado y un funcionario, que actuará como secretario, perteneciente a cuerpos o escalas del subgrupo A1, con destino en la Gerencia Territorial del Ministerio de Justicia correspondiente o, en su defecto, un funcionario de los citados cuerpos o escalas que preste sus servicios en la Delegación o Subdelegación del Gobierno del territorio de que se trate.
+En las provincias donde exista más de un Colegio de Abogados o de Procuradores, el representante de estas Corporaciones en la Comisión se designará de común acuerdo por los Decanos de aquéllos.
+Cuando el volumen de asuntos u otras circunstancias justificadas lo aconsejen, podrán crearse Delegaciones de la Comisión Provincial de Asistencia Jurídica Gratuita, con la composición y ámbito de actuación que reglamentariamente se determinen y garantizando, en todo caso, la homogeneidad de criterios para reconocer el derecho a la asistencia jurídica gratuita.
+Se modifica por la disposición final 3.7 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica el primer párrafo del apartado 3 por la disposición adicional 2 de la Ley 7/2003, de 1 de abril. Ref. BOE-A-2003-6586.
+ Se modifica por el art. 10 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
+ Se declara que los incisos "están presididas por un miembro del Ministerio Fiscal" y "actuando uno de ellos como Secretario" del apartado 1, vulneran las competencias de la Generalidad de Cataluña y, por ello, no son de aplicación en el ámbito territorial de la Comunidad Autónoma de Cataluña, por Sentencia del TC 97/2001, de 5 de abril. Ref. BOE-T-2001-8433
+
+### Artículo 11
+
+Artículo 11. Funcionamiento de las Comisiones de Asistencia Jurídica Gratuita.
+El funcionamiento de las Comisiones de Asistencia Jurídica Gratuita se ajustará a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para los órganos colegiados.
+El Ministerio de Justicia e Interior prestará el soporte administrativo y el apoyo técnico necesarios para el funcionamiento de las Comisiones dependientes de la Administración General del Estado.
+Los Colegios de Abogados y de Procuradores pondrán a disposición de las Comisiones de Asistencia Jurídica Gratuita, la lista de colegiados ejercientes adscritos a los servicios de justicia gratuita, con indicación, en su caso, de especializaciones.
+
+### Artículo 12
+
+Artículo 12. Solicitud del derecho.
+1. El solicitante del derecho a la asistencia jurídica gratuita deberá indicar cuáles son las prestaciones incluidas en el artículo 6 cuyo reconocimiento pide. El reconocimiento del derecho a la asistencia jurídica gratuita comportará en todo caso la exención del pago de las tasas y depósitos previstos en el número 5 del artículo 6. La solicitud del reconocimiento del derecho podrá formularse a los solos efectos de la exención del pago de las tasas y depósitos señalados.
+2. El reconocimiento del derecho a la asistencia jurídica gratuita, que podrá comprender todas o algunas de las prestaciones previstas en el artículo 6, se instará por los solicitantes ante el Colegio de Abogados del lugar en que se halle el juzgado o tribunal que haya de conocer del proceso principal para el que aquél se solicita, o ante el juzgado de su domicilio. En este último caso, el órgano judicial dará traslado de la petición al Colegio de Abogados territorialmente competente.
+La solicitud podrá presentarse por cualquier medio, incluyendo los previstos en la normativa de acceso electrónico de los ciudadanos a los servicios públicos.
+3. Cuando haya concurrencia de litigantes en un proceso, el reconocimiento del derecho a la asistencia jurídica gratuita deberá ser instado individualmente por cada uno de los interesados.
+4. Cuando con arreglo a las leyes procesales, los solicitantes deban litigar bajo una sola defensa o representación, deberán computarse, a efectos del reconocimiento del derecho, la totalidad de los ingresos y haberes patrimoniales de los solicitantes. En este caso, si se acreditara que los ingresos y haberes patrimoniales de cada uno de los solicitantes no sobrepasan los umbrales previstos en el apartado 1 del artículo 3, se procederá a nombrar abogado y, en su caso, procurador del turno de oficio que deberán asumir la representación y defensa conjunta de todos ellos.
+5. Si se acreditare que los ingresos y haberes patrimoniales de alguno de los solicitantes que deban litigar bajo una sola defensa o representación superan los umbrales previstos en el apartado 1 del artículo 3 pero no alcanzan el quíntuplo del indicador público de renta de efectos múltiples, la Comisión de Asistencia Jurídica Gratuita podrá determinar cuáles de las prestaciones establecidas en el artículo 6 se otorgará a los solicitantes.
+6. Cuando el coste de las prestaciones reconocidas hubiera de sufragarse por varios litigantes, la aportación del sistema de asistencia jurídica gratuita se limitará a la parte proporcional que corresponda a las partes a las que se hubiera reconocido el derecho.
+Se modifican los apartados 2 y 5 y se añade el 6 por la disposición final 3.8 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica por el art. 2.6 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+
+### Artículo 13
+
+Artículo 13. Requisitos de la solicitud.
+En la solicitud se indicarán de forma expresa las prestaciones para las que se solicita el reconocimiento del derecho, que podrán ser todas o algunas de las previstas en el artículo 6 y se harán constar, acompañando los documentos que reglamentariamente se determinen para su acreditación, los datos que permitan apreciar la situación económica y patrimonial del interesado y de los integrantes de su unidad familiar, sus circunstancias personales y familiares, la pretensión que se quiere hacer valer y la parte o partes contrarias en el litigio, si las hubiere.
+En la presentación de la solicitud se informará al solicitante de la facultad atribuida a la Comisión de Asistencia Jurídica Gratuita para la consulta de los datos a que se refiere el artículo 17, tanto del solicitante como, en su caso, de su cónyuge o pareja de hecho, debiendo prestar todos los afectados el consentimiento en la solicitud.
+Cuando el solicitante del derecho no estuviera casado o su matrimonio hubiera sido disuelto o estuviera separado legalmente deberá confirmar, mediante declaración jurada, que carece de pareja de hecho.
+Se modifica por la disposición final 3.9 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 14
+
+Artículo 14. Subsanación de deficiencias.
+Si el Colegio de Abogados constatara que existen deficiencias en la solicitud o que la documentación presentada resulta insuficiente, lo comunicará al interesado, fijando con precisión los defectos o carencias advertidas y las consecuencias de la falta de subsanación, requiriéndole para que la complete en el plazo de diez días hábiles.
+Transcurrido este plazo sin que se haya aportado la documentación requerida, el Colegio de Abogados archivará la petición.
+
+### Artículo 15
+
+Artículo 15. Designaciones provisionales y traslados.
+Si de la solicitud y sus documentos justificativos resulta acreditado que el peticionario se encuentra incluido en el ámbito definido en el artículo 2 de esta Ley, el Colegio de Abogados, subsanados los defectos advertidos, procederá en el plazo máximo de quince días, contado a partir de la recepción de la solicitud por dicho Colegio o de la subsanación de los defectos, a la designación provisional de abogado, comunicándolo inmediatamente al Colegio de Procuradores a fin de que, en caso de ser preceptivo, en el plazo máximo de tres días, se designe procurador que asuma la representación.
+En el caso de que el Colegio de Abogados estimara que el peticionario no cumple las citadas condiciones, o que la pretensión principal contenida en la solicitud es manifiestamente insostenible o carente de fundamento, notificará en el plazo de cinco días al solicitante que no ha efectuado el nombramiento provisional de abogado previsto en el párrafo anterior y trasladará la solicitud a la Comisión de Asistencia Jurídica Gratuita.
+Del expediente correspondiente y las designaciones provisionales efectuados, se dará traslado en el plazo de tres días a la Comisión de Asistencia Jurídica Gratuita a los efectos de su verificación y resolución.
+En el caso de que el Colegio de Abogados no dictara resolución alguna en el plazo de quince días, el solicitante podrá reiterar su solicitud ante la Comisión de Asistencia Jurídica Gratuita, la cual, de modo inmediato, recabará el expediente al Colegio de Abogados ordenando, al mismo tiempo, la designación provisional de abogado y procurador, si éste fuera preceptivo, y seguirá, posteriormente, el procedimiento fijado en el artículo 17 de esta Ley.
+
+### Artículo 16
+
+Artículo 16. Suspensión del curso del proceso.
+1. La solicitud de reconocimiento del derecho a la asistencia jurídica gratuita no suspenderá el curso del proceso o expediente administrativo.
+No obstante, a fin de evitar que el transcurso de los plazos pueda provocar la preclusión de un trámite o la indefensión de cualquiera de las partes, el secretario judicial o el órgano administrativo, de oficio o a petición de éstas, podrá decretar la suspensión hasta que se produzca la decisión sobre el reconocimiento o la denegación del derecho a litigar gratuitamente, o la designación provisional de abogado y procurador si su intervención fuera preceptiva o requerida en interés de la justicia, siempre que la solicitud del derecho se hubiera formulado en los plazos establecidos en las leyes procesales o administrativas. Esta suspensión afectará también al plazo de subsanación a que se refiere el apartado 2 del artículo 8 de la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.
+2. Cuando la presentación de la solicitud del reconocimiento del derecho a la asistencia jurídica gratuita se realice antes de iniciar el proceso y la acción pueda resultar perjudicada por el transcurso de los plazos de prescripción o caducidad, éstas quedarán interrumpidas o suspendidas, respectivamente, hasta la designación provisional de abogado y, de ser preceptivo, procurador del turno de oficio que ejerciten la acción en nombre del solicitante; y si no fuera posible realizar esos nombramientos, hasta que recaiga resolución definitiva en vía administrativa, reconociendo o denegando el derecho.
+El cómputo del plazo de prescripción se reanudará desde la notificación al solicitante de la designación provisional de abogado por el Colegio de Abogados o, en su caso, desde la notificación del reconocimiento o denegación del derecho por la Comisión de Asistencia Jurídica Gratuita y, en todo caso, en el plazo de dos meses desde la presentación de la solicitud.
+En el supuesto de que esta petición hubiere sido denegada, fuere claramente abusiva y únicamente esté preordenada a dilatar los plazos, el órgano judicial que conozca de la causa podrá computar los plazos en los estrictos términos legalmente previstos, con todas las consecuencias que de ello se derive.
+Se modifica por la disposición final 3.10 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica el párrafo 2 por el art. 2.7 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se modifica el párrafo 2 por el art. 12.2 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se modifica el párrafo 3 por el art. único.4 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 17
+
+Artículo 17. Comprobación de datos, resolución y notificación.
+1. Para verificar la exactitud y realidad de los datos económicos y, en especial, de la información relativa a las rentas y al patrimonio declarados por el solicitante del derecho a la asistencia jurídica gratuita, incluyendo, en su caso, los de su cónyuge o pareja de hecho, la Comisión realizará las comprobaciones y recabará telemáticamente toda la información que estime necesarias. Esta información podrá recabarse, en particular, de la Administración Tributaria correspondiente, del Catastro, de la Seguridad Social, así como de los Registros de la Propiedad y Mercantiles o de cualesquiera otros registros que tengan información relacionada con los indicios a que se refiere el artículo 3, debiendo ser remitida por medios telemáticos. La Administración Tributaria y la Seguridad Social facilitarán la información necesaria en el marco de lo establecido en su normativa específica.
+También podrá la Comisión oír a la parte o partes contrarias en el pleito o contra las que se pretenda ejercitar la acción, cuando sean conocidas y se estime que pueden aportar datos para conocer la real situación económica del solicitante.
+2. La Comisión, una vez efectuadas las comprobaciones anteriores, dictará resolución, en el plazo máximo de treinta días, contados a partir de la recepción del expediente por la Comisión, reconociendo o denegando el derecho a la asistencia jurídica gratuita y determinando cuáles de las prestaciones son de aplicación a la solicitud. Transcurrido dicho plazo sin que la Comisión haya resuelto expresamente la solicitud, quedarán ratificadas las decisiones que previamente hubieran podido adoptar los Colegios de Abogados o de Procuradores, sin perjuicio de la obligación de resolver de dicho órgano de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+La resolución se notificará en el plazo común de tres días al solicitante, al Colegio de Abogados y, en su caso, al Colegio de Procuradores, así como a las partes interesadas y se comunicará al órgano administrativo o al juzgado o tribunal que esté conociendo del proceso o, si éste no se hubiera iniciado, al Juez Decano de la localidad.
+Las comunicaciones y notificaciones previstas en este artículo se efectuarán preferentemente por medios electrónicos y, en todo caso, cuando aquéllas tengan lugar entre Administraciones públicas, órganos judiciales, profesionales de la justicia, Colegios profesionales y la Comisión.
+Si el Colegio de Abogados no hubiere dictado ninguna resolución, el silencio de la Comisión será positivo. A petición del interesado, el órgano administrativo, en su caso, o el juez o tribunal que conozca del proceso o, si la solicitud se realiza con anterioridad a la iniciación del mismo, el Juez Decano competente procederá a declarar el derecho y a requerir a los Colegios profesionales la designación provisional de abogado y procurador, en su caso. Ello sin perjuicio de lo que resulte de las eventuales impugnaciones contra tal estimación presunta.
+Se modifica por la disposición final 3.11 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 18
+
+Artículo 18. Efectos de la resolución.
+El reconocimiento del derecho se adecuará a las prestaciones solicitadas. Implicará la confirmación de las designaciones de abogado y de procurador, en su caso, efectuadas provisionalmente por los Colegios profesionales.
+Si, por el contrario, la Comisión desestimara la pretensión, las designaciones que eventualmente se hubieran realizado quedarán sin efecto y el peticionario deberá, en su caso, abonar los honorarios y derechos económicos ocasionados por la intervención de los profesionales designados con carácter provisional, en los mismos términos previstos en el artículo 27 de esta Ley.
+Se modifica el párrafo primero por la disposición final 3.12 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 19
+
+Artículo 19. Revocación del derecho.
+1. La declaración errónea, el falseamiento u ocultación de datos por los solicitantes de asistencia jurídica gratuita, que hayan sido determinantes para el reconocimiento del derecho, darán lugar, en todo caso, previa audiencia del interesado, a su revocación por parte de la Comisión de Asistencia Jurídica Gratuita, mediante resolución motivada, que, a estos fines, tendrá potestades de revisión de oficio.
+La revocación contemplada en el párrafo anterior llevará consigo la obligación del pago de todos los honorarios o derechos devengados por los profesionales intervinientes desde la concesión del derecho, así como de la cantidad equivalente al costo de las demás prestaciones obtenidas en razón de dicha concesión, sin perjuicio de las responsabilidades de otro orden que, en su caso, correspondan.
+2. Si el órgano judicial que conociera de la pretensión ejercitada por el beneficiario de la asistencia jurídica gratuita apreciase abuso de derecho, temeridad, mala fe o fraude de ley en su ejercicio, en la resolución que ponga fin al proceso declarará la existencia del mismo, revocará el derecho de justicia gratuita y le condenará a abonar los gastos y costas procesales devengadas a su instancia, en los términos del apartado anterior. Dicha revocación se pondrá en conocimiento de la Comisión de Asistencia Jurídica Gratuita correspondiente a fin de que por la Administración pública competente se obtenga el reembolso, en su caso por la vía de apremio, de cuantas prestaciones se hubiesen obtenido como consecuencia del reconocimiento de su derecho a litigar gratuitamente.
+Se modifica por la disposición final 3.13 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 20
+
+Artículo 20. Impugnación de la resolución.
+1. Quienes sean titulares de un derecho o de un interés legítimo podrán impugnar las resoluciones que, de modo definitivo, reconozcan, revoquen o denieguen el derecho a la asistencia jurídica gratuita.
+Tal impugnación, para la que no será preceptiva la intervención de abogado, habrá de realizarse por escrito y de forma motivada, en el plazo de diez días desde la notificación de la resolución o desde que haya sido conocida por cualquiera de los legitimados para interponerla, ante el secretario de la Comisión de Asistencia Jurídica Gratuita. Este remitirá el escrito de impugnación, junto con el expediente correspondiente a la resolución impugnada y una certificación de ésta, al juzgado o tribunal competente o al Juez Decano para su reparto, si el procedimiento no se hubiera iniciado.
+2. Recibido el escrito de impugnación y los documentos y certificación a que alude el párrafo anterior, el secretario judicial requerirá a las partes y al Abogado del Estado o al Letrado de la Comunidad Autónoma correspondiente cuando de ella dependa la Comisión de Asistencia Jurídica Gratuita, para que en el plazo de cinco días presenten por escrito las alegaciones y pruebas que estimen oportunas.
+El juez o tribunal podrá acordar mediante providencia, de oficio o a instancia de parte, la celebración de una comparecencia si la impugnación no pudiere resolverse con los documentos y pruebas aportados. El secretario judicial señalará día y hora para que tenga lugar dentro de los diez días siguientes.
+3. Recibidas las alegaciones o finalizada la comparecencia, en su caso, el juez o tribunal resolverá sin más trámites mediante auto en el plazo de cinco días, manteniendo o revocando la resolución impugnada, con imposición de una sanción pecuniaria de 30 a 300 euros a quien hubiere promovido la impugnación de manera temeraria o con abuso de derecho.
+Contra el auto dictado por el juez o el tribunal no cabrá recurso alguno.
+Se modifica por la disposición final 3.14 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica los párrafos 3 y 4 por el art. 12.3 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 21
+
+Artículo 21. Requerimiento de designación de abogado y procurador.
+Si, conforme a la legislación procesal o administrativa, el órgano judicial que esté conociendo del proceso o el órgano administrativo que tramitara el expediente estimare que, por las circunstancias o la urgencia del caso, fuera preciso asegurar de forma inmediata los derechos de defensa y representación de las partes, y alguna de ellas manifestara carecer de recursos económicos siempre que ello fuera exigible para obtener el derecho de asistencia jurídica gratuita, dictará una resolución motivada requiriendo de los Colegios profesionales el nombramiento provisional de abogado y procurador, cuando las designaciones no hubieran sido realizadas con anterioridad.
+El secretario judicial o el órgano administrativo comunicará dicha resolución por el medio más rápido posible a los Colegios de Abogados y de Procuradores, tramitándose a continuación la solicitud según lo previsto en los artículos precedentes.
+Se modifica por la disposición final 3.15 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica el párrafo 2 por el art. 12.4 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+
+### Artículo 21 bis
+
+Artículo 21 bis. Sustitución del profesional designado.
+1. La persona beneficiaria de la asistencia jurídica gratuita tendrá derecho a instar la designación de nuevos profesionales mediante solicitud debidamente justificada, que no suspenderá la designación de los profesionales que ya venga acordada.
+2. Dicha solicitud deberá formularla ante el Colegio profesional que hubiere realizado la designación. Recibida la solicitud, dicho Colegio dará traslado por cinco días al profesional cuya sustitución se interesa, resolviendo a continuación de forma motivada en el plazo de quince días.
+3. La resolución apreciando que concurre causa que justifica la sustitución se comunicará por el Colegio profesional correspondiente a la Comisión de Justicia Gratuita, a la persona solicitante y, de manera inmediata, al nuevo profesional que en tal caso designe.
+4. La Comisión de Asistencia Jurídica Gratuita podrá denegar la tramitación de la solicitud de sustitución, confirmando la designación de los profesionales actuantes, siempre que la solicitud se funde en una causa que ya fue objeto de denegación en relación al mismo asunto y profesional, sin que concurran nuevos hechos o circunstancias que la justifiquen.
+5. Las resoluciones que denieguen el derecho a la designación de nuevo profesional podrán ser impugnadas por el beneficiario de la asistencia jurídica gratuita, en los términos del artículo 20.
+Téngase en cuenta que este artículo, añadido por la disposición final 1.3 de la por Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831, entra en vigor el 1 de octubre de 2018, según determina su disposición final sexta.
+Se añade, con efectos de 1 de octubre de 2018, por la disposición final 2.3 de la Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831
+
+## CAPÍTULO III
+
+Organización de los servicios de asistencia letrada, defensa y representación gratuitas
+
+### Artículo 22
+
+Artículo 22. Gestión colegial de los servicios de asistencia letrada, de defensa y de representación gratuitas.
+Los Consejos Generales de la Abogacía Española y de los Colegios de Procuradores de los Tribunales de España y sus respectivos Colegios regularán y organizarán, a través de sus Juntas de Gobierno, los servicios obligatorios de asistencia letrada y de defensa y representación gratuitas, garantizando, en todo caso, su prestación continuada y atendiendo a criterios de funcionalidad y de eficiencia.
+Los profesionales que presten el servicio obligatorio de justicia gratuita, tendrán derecho a una compensación que tendrá carácter indemnizatorio.
+Los Colegios de Abogados implantarán servicios de asesoramiento a los peticionarios de asistencia jurídica gratuita, con la finalidad de orientar y encauzar sus pretensiones. Dicho asesoramiento tendrá, en todo caso, carácter gratuito para los solicitantes.
+Los Colegios de Abogados facilitarán a los solicitantes de asistencia jurídica gratuita la información necesaria en relación al cumplimiento de los requisitos para su concesión, así como el auxilio en la redacción de las solicitudes correspondientes.
+Se modifica por el art. único.2 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+
+### Artículo 23
+
+Artículo 23. Autonomía profesional y disciplina colegial.
+Los profesionales que presten el servicio obligatorio de justicia gratuita, a los que se refiere esta ley, desarrollarán su actividad con libertad e independencia de criterio, con sujeción a las normas deontológicas y a las normas que disciplinan el funcionamiento de los servicios colegiales de justicia gratuita.
+Se modifica por el art. único.3 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+
+### Artículo 24
+
+Artículo 24. Distribución por turnos.
+Los Colegios profesionales establecerán sistemas de distribución objetiva y equitativa de los distintos turnos y medios para la designación de los profesionales de oficio. Dichos sistemas serán públicos para todos los colegiados y podrán ser consultados por los solicitantes de asistencia jurídica gratuita.
+Los Colegios de Abogados, salvo aquéllos en los que por la reducida dimensión de la actividad no sea necesario, contarán con un turno de guardia permanente para la prestación del servicio de asistencia letrada al detenido y otro para la prestación de los servicios de asesoramiento previo y de asistencia letrada para las víctimas de violencia de género, terrorismo, trata de seres humanos y de menores de edad y personas con discapacidad intelectual o enfermedad mental que sean víctimas de situaciones de abuso o maltrato.
+Se modifica por la disposición final 3.16 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 25
+
+Artículo 25. Formación y especialización.
+El Ministerio de Justicia, de manera coordinada con las Comunidades Autónomas competentes, previo informe de los Consejos Generales de la Abogacía y de los Procuradores de los Tribunales de España, establecerá los requisitos generales mínimos de formación y especialización necesarios para prestar los servicios obligatorios de asistencia jurídica gratuita, con objeto de asegurar un nivel de calidad y de competencia profesional que garantice el derecho constitucional a la defensa. Dichos requisitos serán de obligado cumplimiento para todos los Colegios Profesionales.
+Se modifica por el art. único.4 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+ Se modifica por la disposición final 3.17 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 26
+
+Artículo 26. Responsabilidad patrimonial.
+En lo que afecta al funcionamiento de los servicios de asistencia jurídica gratuita, los Colegios de Abogados y de Procuradores estarán sujetos a los mismos principios de responsabilidad patrimonial establecidos para las Administraciones públicas por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## CAPÍTULO IV
+
+Designación de abogado y de procurador de oficio
+
+### Artículo 27
+
+Artículo 27. Efectos del reconocimiento del derecho.
+El reconocimiento del derecho a la asistencia jurídica gratuita llevará consigo la designación de abogado y, cuando sea preciso, de procurador de oficio, sin que en ningún caso puedan actuar simultáneamente un abogado de oficio y un procurador libremente elegido, o viceversa, salvo que el profesional de libre elección renunciara por escrito a percibir sus honorarios o derechos ante el titular del derecho a la asistencia jurídica gratuita y ante el Colegio en el que se halle inscrito.
+Si el derecho no fuera reconocido, los profesionales intervinientes podrán percibir de sus defendidos o representados los honorarios correspondientes a las actuaciones practicadas.
+
+### Artículo 28
+
+Artículo 28. Renuncia a la designación.
+Quienes tengan derecho en los términos previstos en esta Ley a la asistencia jurídica gratuita podrán, no obstante lo previsto en el artículo anterior, renunciar expresamente a la designación de abogado y procurador de oficio, nombrando libremente a profesionales de su confianza debiendo constar expresamente este extremo en la solicitud y afectando simultáneamente esta renuncia al abogado y procurador.
+La renuncia posterior a la designación, que, asimismo, deberá afectar simultáneamente al abogado y procurador designados de oficio, tendrá que ser comunicada expresamente a la Comisión de Asistencia Jurídica Gratuita y a los correspondientes Colegios Profesionales y no implicará la pérdida de las demás prestaciones reconocidas en la concesión del derecho de asistencia jurídica gratuita.
+
+### Artículo 29
+
+Artículo 29. Especialidades del orden jurisdiccional penal.
+En el orden penal se aplicarán, además de las reglas contenidas en la presente Ley, las garantías previstas en la Ley de Enjuiciamiento Criminal con objeto de asegurar, en todo caso, el derecho a la defensa desde el mismo momento de la detención.
+
+### Artículo 30
+
+Artículo 30. Indemnización por el servicio.
+La intervención de profesionales designados de oficio para la asistencia, defensa y representación gratuita sólo podrá ser indemnizada cuando exista reconocimiento expreso del derecho a la asistencia jurídica gratuita efectuado en los términos contemplados en esta ley.
+El importe de la indemnización se aplicará fundamentalmente a compensar las actuaciones profesionales previstas en los apartados 1 a 3 del artículo 6 de esta ley, cuando tengan por destinatarios a quienes hayan obtenido el reconocimiento del derecho a la asistencia jurídica gratuita.
+Se modifica por el art. único.5 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+
+### Artículo 31
+
+Artículo 31. Obligaciones profesionales.
+Los abogados y procuradores designados desempeñaran sus funciones de asistencia y representación de forma real y efectiva hasta la terminación del proceso en la instancia judicial de que se trate y, en su caso, la ejecución de las sentencias, si las actuaciones procesales en ésta se produjeran dentro de los dos años siguientes a la resolución judicial dictada en la instancia, sin perjuicio del efecto de las causas de renuncia o excusa que estén previstas en la Ley.
+Sólo en el orden penal podrán los abogados designados excusarse de la defensa. Para ello deberá concurrir un motivo personal y justo, que será apreciado por los Decanos de los Colegios.
+La excusa deberá formularse en el plazo de tres días desde la notificación de la designación y resolverse en el plazo de cinco días desde su presentación.
+
+### Artículo 32
+
+Artículo 32. Insostenibilidad de la pretensión.
+Cuando el Abogado designado para un proceso considere insostenible la pretensión que pretende hacerse valer, deberá comunicarlo a la Comisión de Asistencia Jurídica Gratuita, dentro de los 15 días siguientes a su designación, exponiendo los motivos jurídicos en los que fundamenta su decisión. Transcurrido dicho plazo sin que se produzca tal comunicación, o sin que el Abogado pida su interrupción por falta de la documentación necesaria para evaluar la pretensión, éste queda obligado a asumir la defensa.
+Salvo lo dispuesto en el artículo anterior, la defensa del acusado o imputado será obligatoria.
+Se modifica el primer párrafo por el art. único.5 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 33
+
+Artículo 33. Tramitación.
+1. Solicitada por el abogado la interrupción del plazo previsto en el artículo anterior, por falta de la documentación necesaria, la Comisión requerirá al interesado para que la presente en un plazo máximo de diez días.
+Transcurrido este plazo sin que el interesado haya presentado dicha documentación, la Comisión archivará la solicitud.
+Presentada la documentación, ésta se aportará al abogado, reanudándose el plazo para analizar la viabilidad de la pretensión.
+Si la Comisión estima que la documentación con la que cuenta el abogado, en el momento de la solicitud, es suficiente para analizar la viabilidad de la pretensión principal, inadmitirá la solicitud de interrupción, reanudándose el plazo para formulación de la insostenibilidad desde la notificación de la resolución de inadmisión.
+2. Formulada la insostenibilidad de la pretensión, la Comisión recabará del Colegio de Abogados un dictamen sobre su viabilidad que deberá emitirse en el plazo de 15 días.
+Se solicitará, asimismo, informe fundado del Ministerio Fiscal cuando el dictamen del Colegio de Abogados coincidiera con el del abogado designado. Dicho informe se emitirá en el plazo de seis días.
+Se modifica el primer párrafo del apartado 2 por el art. único.6 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 34
+
+Artículo 34. Nombramiento de segundo abogado.
+Si el Colegio de Abogados o el Ministerio Fiscal estimaran defendible la pretensión, se procederá al nombramiento de un segundo abogado. Los dictámenes emitidos por el Colegio de Abogados y por el Ministerio Fiscal serán aportados al nuevo abogado, para quien será obligatoria la defensa.
+En caso de que el Colegio de Abogados y el Ministerio Fiscal estimaran indefendible la pretensión, la Comisión de Asistencia Jurídica Gratuita desestimará la solicitud.
+
+### Artículo 35
+
+Artículo 35. Insostenibilidad en vía de recurso.
+El mismo procedimiento previsto en los artículos anteriores se seguirá cuando se trate de interponer recursos contra resoluciones que hayan puesto fin al proceso en la instancia correspondiente, si el abogado del recurrente considerase inviable la pretensión.
+El cómputo del plazo para la interposición de los recursos quedará suspendido hasta tanto se resuelve materialmente la viabilidad de la pretensión.
+En el orden penal y respecto de los condenados no cabrá formular insostenibilidad de la pretensión.
+
+### Artículo 36
+
+Artículo 36. Condena en costas.
+1. Si en la resolución que ponga fin al proceso hubiera pronunciamiento sobre costas, a favor de quien obtuvo el reconocimiento del derecho a la asistencia jurídica gratuita o de quien lo tuviera legalmente reconocido, deberá la parte contraria abonar las costas causadas en la defensa y representación de aquella, debiendo ser abonadas directamente a las personas profesionales que se hayan designado para su representación y dirección jurídica, quienes estarán legitimadas para instar su tasación y que estarán obligadas a devolver las cantidades eventualmente percibidas con cargo a fondos públicos por su intervención en el proceso. A tales efectos, se comunicará por la Oficina judicial a los colegios profesionales correspondientes dicha circunstancia.
+Téngase en cuenta que este apartado 1, modificado por la disposición final 10.3 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-10, entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
+ Redacción anterior:
+ "1. Si en la resolución que ponga fin al proceso hubiera pronunciamiento sobre costas, a favor de quien obtuvo el reconocimiento del derecho a la asistencia jurídica gratuita o de quien lo tuviera legalmente reconocido, deberá la parte contraria abonar las costas causadas en la defensa y representación de aquélla."
+2. Cuando en la resolución que ponga fin al proceso fuera condenado en costas quien hubiera obtenido el reconocimiento del derecho a la asistencia jurídica gratuita o quien lo tuviera legalmente reconocido, éste quedará obligado a pagar las causadas en su defensa y las de la parte contraria, si dentro de los tres años siguientes a la terminación del proceso viniere a mejor fortuna, quedando mientras tanto interrumpida la prescripción del artículo 1.967 del Código Civil. Se presume que ha venido a mejor fortuna cuando sus ingresos y recursos económicos por todos los conceptos superen el doble del módulo previsto en el artículo 3, o si se hubieran alterado sustancialmente las circunstancias y condiciones tenidas en cuenta para reconocer el derecho conforme a la presente Ley. Le corresponderá a la Comisión la declaración de si el beneficiario ha venido a mejor fortuna conforme a lo dispuesto en el artículo 19, pudiendo ser impugnada la resolución que dicte en la forma prevista en el artículo 20.
+3. Cuando la sentencia que ponga fin al proceso no contenga expreso pronunciamiento en costas, venciendo en el pleito el beneficiario de la justicia gratuita, deberá éste pagar las costas causadas en su defensa, siempre que no excedan de la tercera parte de lo que en él haya obtenido. Si excedieren se reducirán a lo que importe dicha tercera parte, atendiéndose a prorrata sus diversas partidas.
+4. Cuando se reconozca el derecho a asistencia jurídica gratuita para procesos en los que proceda la petición de «litis expensas» y éstas fueren concedidas en resolución firme a favor de la parte que litiga con el reconocimiento del derecho a asistencia jurídica gratuita, el Letrado y procurador intervinientes podrán exigir a ésta el pago de sus honorarios, hasta el importe total de la partida aprobada judicialmente para este concepto.
+5. Obtenido el pago por los profesionales designados de oficio conforme a las reglas contempladas en los apartados anteriores, estarán obligados a devolver las cantidades eventualmente percibidas con cargo a fondos públicos por su intervención en el proceso.
+Para el cálculo de sus honorarios y derechos, se estará a las normas sobre honorarios de abogados de cada Colegio, así como a los aranceles de los procuradores vigentes en el momento de la sustanciación del proceso.
+Se modifica el apartado 1, con efectos de 3 de abril de 2025, por la disposición final 10.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-10
+ Se modifica el título por el art. único.6 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+ Se modifican los apartados 1 y 2 por la disposición final 3.18 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+## CAPÍTULO V
+
+Subvención y supervisión de los servicios de asistencia jurídica gratuita
+
+### Artículo 37
+
+Artículo 37. Subvención.
+Las Administraciones públicas competentes, asegurando el derecho a la asistencia jurídica gratuita al que se refiere el artículo 119 de la Constitución, subvencionarán con cargo a sus dotaciones presupuestarias la implantación, atención y funcionamiento de los servicios de asistencia jurídica gratuita por los Colegios de Abogados y de Procuradores.
+Se modifica por el art. único.7 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+ Se modifica el párrafo primero por la disposición final 3.19 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Artículo 38
+
+Artículo 38. Gastos de funcionamiento.
+Reglamentariamente se establecerá el sistema a través del cual se subvencionará, con cargo a las dotaciones presupuestarias de las Administraciones públicas competentes, el coste que genere a los Consejos Generales y Colegios profesionales de Abogados y Procuradores el funcionamiento operativo de los servicios de asistencia jurídica gratuita, de las unidades encargadas del asesoramiento y la orientación previos al proceso a los ciudadanos y de la calificación provisional de las pretensiones solicitadas.
+Dicho sistema se ajustará en todo caso a las siguientes reglas:
+a) La subvención se determinará para cada Colegio con un sistema de módulos compensatorios por expediente tramitado.
+b) Hasta tanto no se cumpla el mencionado requisito, los Colegios percibirán la cuantía que resulte de aplicar el 8 por 100 al coste económico generado en cada período de liquidación por las actuaciones profesionales mencionadas en el artículo anterior.
+Se modifica el párrafo primero por la disposición final 3.20 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se modifica por la disposición adicional 30 de de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357.
+
+### Artículo 39
+
+Artículo 39. Gestión colegial de la subvención.
+Los Consejos Generales de la Abogacía Española y de los Colegios de los Procuradores de los Tribunales de España distribuirán entre los Colegios de Abogados y de Procuradores el importe de la subvención que corresponda a la actividad desarrollada por cada uno.
+Los Consejos Generales y los Colegios, en cuanto entidades colaboradoras para la gestión de la subvención, estarán sometidos a las obligaciones establecidas para dichos sujetos por la Ley General Presupuestaria.
+
+### Artículo 40
+
+Artículo 40. Indemnización por baremo.
+En atención a la tipología de procedimientos en los que intervengan los profesionales designados de oficio, se establecerán, previo informe del Consejo General de la Abogacía Española y del Consejo General de los Colegios de los Procuradores de los Tribunales de España, las bases económicas y módulos de indemnización por la prestación de los servicios de asistencia jurídica gratuita.
+Se modifica por el art. único.8 de la Ley 2/2017, de 21 de junio. Ref. BOE-A-2017-7106
+ Esta modificación produce efectos desde el 1 de enero de 2017, según establece la disposición final única de la citada ley.
+
+### Artículo 41
+
+Artículo 41. Quejas y denuncias.
+Las Comisiones de Asistencia Jurídica Gratuita darán traslado a los Colegios profesionales correspondientes a su ámbito territorial de las quejas o denuncias formuladas como consecuencia de las actuaciones de los profesionales encargados de los servicios colegiales de asistencia jurídica gratuita, sin perjuicio de aquellas actuaciones judiciales que resultaren procedentes.
+Los Colegios estarán obligados a comunicar a las citadas Comisiones las resoluciones y medidas adoptadas como consecuencia de los expedientes disciplinarios que, en su caso, fueran incoados. Dichas resoluciones podrán ser recurridas por las Comisiones.
+
+## CAPÍTULO VI
+
+Régimen disciplinario
+
+### Artículo 42
+
+Artículo 42. Correcciones disciplinarias.
+El régimen disciplinario de los abogados y procuradores de los servicios de asistencia jurídica gratuita se regirá por las mismas reglas establecidas con carácter general para el desempeño de dichas profesiones, con las siguientes especialidades:
+a) La indebida percepción de honorarios, derechos o beneficios económicos tendrá siempre la consideración de falta muy grave.
+b) La imposición de sanciones por infracciones graves o muy graves, relacionadas con las actuaciones desarrolladas en aplicación de lo establecido en esta Ley, llevará aparejada, en todo caso, la exclusión del profesional de los servicios de asistencia jurídica gratuita.
+
+### Artículo 43
+
+Artículo 43. Separación cautelar.
+Abierto un expediente disciplinario por un Colegio profesional como consecuencia de quejas o denuncias formuladas por los usuarios de los servicios de asistencia jurídica gratuita, y cuando la gravedad de los hechos denunciados así lo aconseje, podrá acordarse la separación cautelar del servicio del profesional presuntamente responsable de aquellos hechos, por un período máximo de seis meses hasta tanto se resuelva el expediente disciplinario incoado al efecto.
+
+## CAPÍTULO VII
+
+Aplicación en España de tratados y convenios internacionales sobre asistencia jurídica gratuita
+
+### Artículo 44
+
+Artículo 44. Autoridad Central.
+El Ministerio de Justicia e Interior, a través de la Autoridad Central receptora de la aplicación en España del Convenio Europeo relativo a la transmisión de solicitudes de asistencia jurídica gratuita de 27 de enero de 1977 y del Convenio de La Haya de acceso internacional a la Justicia de 25 de octubre de 1980, formulará ante las Comisiones de Asistencia Jurídica Gratuita las solicitudes de justicia gratuita formuladas al amparo de dichos Convenios.
+
+### Artículo 45
+
+Artículo 45. Tramitación.
+La tramitación de las solicitudes de justicia gratuita a que se refiere el artículo anterior, se ajustará a las reglas de procedimiento establecidas en esta Ley, con las siguientes excepciones:
+a) El plazo para la impugnación prevista en el artículo 20 será de dos meses.
+b) El plazo para la subsanación de deficiencias contemplado en el artículo 14 será de dos meses, contados a partir de la fecha en que la Comisión de Asistencia Jurídica Gratuita notifique la insuficiencia documental.
+c) Los documentos presentados estarán redactados o traducidos al castellano, quedando dispensados de cualquier formalidad de legalización o apostilla.
+
+## CAPÍTULO VIII
+
+Asistencia jurídica gratuita en los litigios transfronterizos de la Unión Europea
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+## SECCIÓN 1
+
+Sección 1.ª Normas generales
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 46
+
+Artículo 46. Ámbito de aplicación.
+1. En los litigios transfronterizos tendrán derecho a la asistencia jurídica gratuita regulada en este Capítulo exclusivamente las personas físicas, que sean ciudadanos de la Unión Europea o nacionales de terceros países que residan legalmente en uno de los Estados miembros. A los efectos de este Capítulo, se entenderá por Estado miembro de la Unión Europea todos los Estados miembros excepto Dinamarca.
+2. El beneficio de asistencia jurídica gratuita se reconocerá únicamente en los litigios en materia civil o mercantil, así como en los procedimientos extrajudiciales en estas mismas materias cuando la ley los imponga a las partes o el Juzgado o Tribunal remita a éstas a dichos procedimientos.
+En aplicación del Reglamento (CE) n.º 44/2001 del Consejo, de 22 de diciembre de 2000, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil, el beneficio de asistencia jurídica gratuita se reconocerá, igualmente, en los litigios transfronterizos derivados de un contrato de trabajo.
+La asistencia jurídica gratuita podrá concederse también, cuando se cumplan los requisitos que se exigen en esta ley, para:
+a) La ejecución de sentencias dictadas por los Tribunales de otros Estados miembros de la Unión Europea en los que se hubiera obtenido el beneficio de la justicia gratuita.
+b) La ejecución de documentos públicos con fuerza ejecutiva.
+3. En el ámbito de aplicación de este capítulo, sus disposiciones prevalecerán entre los Estados miembros sobre los convenios y tratados multilaterales y bilaterales ratificados por ellos. En las relaciones con los demás Estados, la aplicación de este capítulo no afectará a los restantes convenios y tratados multilaterales y bilaterales ratificados por España.
+Se modifica el apartado 3 por el art. 12.5 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
+ Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 47
+
+Artículo 47. Litigios transfronterizos.
+1. A los efectos de esta ley, se entiende por litigio transfronterizo aquel en el que la parte que solicita la asistencia jurídica gratuita reside habitualmente o está domiciliada en un Estado miembro de la Unión Europea distinto de aquel otro donde se halle el Juzgado o Tribunal competente para su conocimiento o en el que deba ejecutarse la resolución.
+2. Para la determinación del Estado miembro en el que está domiciliada una parte del litigio transfronterizo, se aplicará lo dispuesto en el artículo 59 del Reglamento (CE) n.º 44/2001 del Consejo, de 22 de diciembre de 2000, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil.
+3. El momento que se tendrá en cuenta para determinar si existe un litigio transfronterizo será el de presentación de la solicitud con arreglo a este Capítulo.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 48
+
+Artículo 48. Autoridades expedidoras y receptoras.
+En el ámbito de aplicación de este Capítulo, serán autoridades expedidoras y receptoras de las solicitudes de asistencia jurídica gratuita a que se envíen o se reciban en España los Colegios de Abogados.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+## SECCION 2
+
+Sección 2ª. Reconocimiento del derecho en España
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 49
+
+Artículo 49. Requisitos para el reconocimiento del derecho.
+1. Quien solicite asistencia jurídica gratuita al amparo de esta Sección habrá de residir o estar domiciliado en un Estado miembro de la Unión Europea distinto de España. Para el reconocimiento de este derecho se observarán los requisitos establecidos en los artículos 3 a 5 de esta ley.
+2. Los límites económicos establecidos en esta ley no impedirán que el solicitante que los supere pueda obtener el beneficio si prueba que no puede hacer frente a los gastos procesales debido a las diferencias en el coste de la vida entre el Estado miembro de su residencia o domicilio y España. En tal caso, se tendrá en cuenta el cumplimiento por el solicitante de los criterios de carácter económico aplicables en el Estado miembro de su domicilio o residencia habitual para conceder la justicia gratuita.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 50
+
+Artículo 50. Contenido material del derecho.
+1. El derecho de asistencia jurídica gratuita reconocido al amparo de esta Sección comprende todas las prestaciones indicadas en el artículo 6, con excepción de su apartado
+2, con la extensión temporal del artículo 7, y, además:
+a) Los servicios de interpretación.
+b) La traducción de los documentos presentados por el beneficiario a instancias del Juzgado o Tribunal o de la autoridad competente y que sean necesarios para resolver el asunto.
+c) Los gastos de desplazamiento que corran por cuenta del solicitante, cuando las normas aplicables o el Juzgado o Tribunal requieran su comparecencia personal para la defensa de su pretensión, y el Juzgado o Tribunal decida que no existen otros medios satisfactorios de tomar declaración. Al objeto de considerar si es necesaria la asistencia personal del solicitante, de un testigo o de un perito, los Juzgados y Tribunales tendrán en cuenta lo previsto en el Reglamento (CE) número 1206/2001 del Consejo, de 28 de mayo de 2001, relativo a la cooperación entre los órganos jurisdiccionales de los Estados miembros en el ámbito de la obtención de pruebas en materia civil o mercantil, así como, en su caso, otros convenios o normas aplicables.
+d) La defensa y representación gratuitas por Abogado y Procurador en el procedimiento judicial cuando, no siendo legalmente preceptiva la intervención de estos profesionales, sea expresamente requerida por el Juzgado o Tribunal mediante Auto motivado en vista de la complejidad del asunto o para garantizar la igualdad de las partes en el proceso.
+2. Los documentos remitidos por las autoridades expedidoras competentes en aplicación de este Capítulo estarán exentos de legalización y de cualquier otra formalidad equivalente.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 51
+
+Artículo 51. Solicitud del derecho.
+1. Las solicitudes de asistencia jurídica gratuita que provengan de otro Estado miembro de la Unión Europea para un litigio transfronterizo se presentarán ante el Colegio de Abogados del lugar donde se halle el Juzgado o Tribunal que haya de conocer del proceso principal para el que aquélla se solicita o ante el que se solicite el reconocimiento o ejecución de una resolución.
+Cuando el Colegio de Abogados que recibe la solicitud estime que es incompetente para su tramitación, la remitirá al Colegio que considere competente, de manera razonada. Si éste rechazara también la solicitud, la enviará al Consejo General de la Abogacía Española para que decida cuál es el Colegio de Abogados de la circunscripción del Juzgado o Tribunal al que corresponde su tramitación, determinado éste de acuerdo con las reglas de los artículos 44 y siguientes de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, o, en su caso, en las normas internacionales que resulten de aplicación.
+Cuando se solicite el reconocimiento excepcional del derecho por concurrir cualesquiera de las circunstancias previstas en el artículo 5 de esta ley o cuando se alegue la imposibilidad de hacer frente a los gastos procesales prevista en su artículo 49.2, el Colegio de Abogados remitirá inmediatamente a la Comisión de Asistencia Jurídica Gratuita la solicitud y documentación para que resuelva sobre la pretensión deducida.
+Las solicitudes se cumplimentarán en el modelo oficial establecido al efecto, y podrán presentarse bien directamente por el interesado, bien a través de la autoridad expedidora competente del Estado miembro en que el solicitante tenga su residencia habitual o su domicilio. Las solicitudes se acompañarán de los documentos en los que se funde la pretensión.
+2. En el supuesto de concurrencia de litigantes en un mismo proceso, el reconocimiento del derecho deberá ser instado de manera individualizada para cada uno de los interesados, de acuerdo con lo dispuesto en el artículo 12.
+3. El Ministerio de Justicia, a través del órgano competente en virtud de lo dispuesto en el artícu­lo 10 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, notificará a la Comisión Europea los nombres y direcciones de las autoridades receptoras o expedidoras competentes en España, los ámbitos geográficos sobre los que tienen competencia, los medios para recibir las solicitudes y, en su caso, la lengua o las lenguas oficiales de las instituciones de la Comunidad, además del español y, en su caso, de las lenguas oficiales de la Comunidad Autónoma en la que tengan su sede las autoridades expedidoras y receptoras, en las cuales se aceptará que se cumplimenten las solicitudes de justicia gratuita así como la documentación acreditativa correspondiente.
+Cuando una solicitud o la documentación correspondiente se reciban en una lengua no aceptada en España, serán inmediatamente devueltas a quien los hubiera presentado para que proceda a su traducción y presentación en el plazo de 15 días contados desde la recepción del requerimiento.
+4. Una vez presentada la solicitud, se seguirán en estos casos las normas previstas en los artículos 13 a 21 con la especialidad de que el plazo de subsanación de deficiencias del artículo 14 será de 15 días. Asimismo, se observarán las normas recogidas en el Capítulo IV, en lo que resulten de aplicación.
+En todo caso, deberá informarse al solicitante sobre la tramitación de su solicitud, cuya resolución será motivada en caso de denegación total o parcial.
+5. En los casos en que haya de tener lugar en España el reconocimiento o ejecución de una resolución judicial dictada por un Juzgado o Tribunal de otro Estado miembro de la Unión Europea en el que se hubiera obtenido el beneficio de la justicia gratuita, el derecho a la asistencia jurídica gratuita se instará mediante solicitud en la que se acredite el reconocimiento del derecho en ese Estado y el cumplimiento de los requisitos del artículo 49.
+Se podrá conceder, asimismo, el beneficio de la asistencia jurídica gratuita para la ejecución en España de documentos públicos con fuerza ejecutiva cuando el solicitante acredite el cumplimiento de los requisitos del artículo 49.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+## SECCION 3
+
+Sección 3.ª Reconocimiento del derecho en otros Estados miembros
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 52
+
+Artículo 52. Derechos en España.
+Las personas físicas que tengan su residencia habitual o su domicilio en España que pretendan beneficiarse de asistencia jurídica gratuita en otro Estado miembro de la Unión Europea para un litigio transfronterizo de los previstos en este Capítulo podrán acceder en España a los siguientes derechos:
+a) Asistencia de los servicios de orientación jurídica del Colegio de Abogados correspondiente a la residencia o domicilio del solicitante hasta que se presente la solicitud de justicia gratuita en el Estado miembro donde se halle el Tribunal. Esta asistencia incluirá el asesoramiento al solicitante para que la solicitud vaya acompañada de toda la documentación acreditativa que sea necesaria para que pueda resolverse sobre ella.
+b) Traducción de la solicitud y de la documentación acreditativa necesaria que deba presentarse a las autoridades de dicho Estado miembro.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 53
+
+Artículo 53. Tramitación.
+1. Los derechos contemplados en el artículo 52 podrán solicitarse ante el Colegio de Abogados que corresponda a la residencia habitual o domicilio del solicitante.
+Si el Colegio de Abogados estimara que la petición carece de modo manifiesto de fundamento o no entra dentro del ámbito de aplicación de este Capítulo, se lo notificará al solicitante en el plazo de cinco días, y trasladará la solicitud a la Comisión de Asistencia Jurídica Gratuita para que decida de manera definitiva sobre la negativa a remitir la solicitud.
+2. Corresponderá al Colegio de Abogados transmitir la solicitud de asistencia jurídica gratuita a las autoridades receptoras del Estado miembro de la Unión Europea donde se encuentre el Tribunal competente para el litigio de que se trate. Se remitirá en el plazo de 15 días a partir de la fecha en que la solicitud se encuentre cumplimentada en la lengua o en una de las lenguas aceptadas por el Estado miembro de la autoridad receptora y también los documentos acreditativos, traducidos, si fuera necesario, a alguna de dichas lenguas.
+3. Sin perjuicio de lo previsto en el apartado anterior, el solicitante podrá beneficiarse de los derechos contemplados en el artículo 52 y presentar por sí mismo la solicitud de justicia gratuita ante la autoridad receptora competente del Estado miembro en el que se halle el Tribunal o en el que deba ejecutarse la resolución.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Artículo 54
+
+Artículo 54. Denegación del derecho.
+Cuando la autoridad competente de otro Estado miembro deniegue la solicitud de justicia gratuita realizada desde España con ejercicio de los derechos del artículo 52, se exigirá, si concurren las circunstancias previstas en el artículo 19, el reintegro de los gastos correspondientes a las traducciones.
+Se añade por el art. único.7 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+1. El capítulo I, los artículos 9, 10.1, 12 y 16 a 21 del capítulo II, los artículos 27 a 29 y 31 a 36 del capítulo IV, el capítulo VII, las disposiciones adicionales tercera, cuarta y quinta, la disposición derogatoria y la disposición final primera bis se dictan al amparo de las competencias que al Estado atribuye el artículo 149.1.3.ª, 5.ª y 6.ª de la Constitución Española, sobre relaciones internacionales, Administración de Justicia y legislación procesal, respectivamente.
+2. Los artículos 25 y 26 del capítulo III y el capítulo VI, se dictan en virtud de la competencia del Estado reconocida en el artículo 149.1.18.ª de la Constitución Española, conforme al cual corresponde a éste dictar las «Bases del Régimen Jurídico de las Administraciones Públicas».
+3. Los restantes preceptos serán de aplicación en defecto de normativa específica de las Comunidades Autónomas que hayan asumido el ejercicio efectivo de las competencias en materia de provisión de medios para la Administración de Justicia.
+Se modifica el apartado 1 por la disposición final 3.21 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+ Se declara que la referencia a los incisos citados de los artículos 9 y 10.1 del apartado 1, vulneran las competencias de la Generalidad de Cataluña y, por ello, no son de aplicación en el ámbito territorial de la Comunidad Autónoma de Cataluña, por Sentencia del TC 97/2001, de 5 de abril. Ref. BOE-T-2001-8433
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+Sin perjuicio de lo dispuesto en el artículo 2, la Cruz Roja Española tendrá reconocido el derecho a la asistencia jurídica gratuita, sin necesidad de acreditar insuficiencia de recursos para litigar.
+Igual derecho asistirá a las Asociaciones de Consumidores y Usuarios, en los términos previstos en el artículo 2.2 de la Ley 26/1984, de 19 de julio, para la Defensa de los Consumidores y Usuarios.
+También se reconoce el derecho a la asistencia jurídica gratuita, sin necesidad de acreditar insuficiencia de recursos para litigar, a las asociaciones de utilidad pública que tengan como fin la promoción y defensa de los derechos de las personas con discapacidad señaladas en el artículo 1.2 de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
+Se añade el párrafo 3 por el art. único.8 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Disposición adicional segunda bis
+
+Disposición adicional segunda bis. Composición de las Comisiones de Asistencia Jurídica Gratuita en casos excepcionales.
+Excepcionalmente, cuando necesidades del servicio lo requieran, el funcionario que actuará como secretario en las Comisiones de Asistencia Jurídica Gratuita dependientes de la Administración General del Estado, podrá ser sustituido por un empleado público perteneciente a subgrupo profesional A1 con destino en la Gerencia Territorial del Ministerio de Justicia correspondiente o, en su defecto, en la Delegación o Subdelegación del Gobierno del territorio de que se trate.
+Se añade por la disposición final 3.22 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los artículos que a continuación se relacionan de la Ley de Enjuiciamiento Civil, tendrán la siguiente redacción:
+1. El artículo 844 tendrá la siguiente redacción:
+«Cuando el apelante tenga reconocido el derecho a la asistencia jurídica gratuita, se le tendrá por personado en tiempo ante el Tribunal superior, si dentro del término del emplazamiento compareciere ante el mismo por sí o por medio de otra persona, solicitando la designación de abogado y procurador de oficio.
+La misma pretensión podrá deducir al hacerle el emplazamiento, en cuyo caso lo consignará el Secretario en la diligencia.
+En estos casos, la designación se efectuará conforme a lo previsto en la Ley de Asistencia Jurídica Gratuita y se entenderán con el Procurador nombrado de oficio todas las actuaciones en representación del apelante.»
+2. El artículo 1.701 tendrá la siguiente redacción:
+«Si la parte recurrente en queja tuviere reconocido el derecho a la asistencia jurídica gratuita, la designación de abogado y procurador que le defiendan y representen se efectuará conforme a lo previsto en la Ley de Asistencia Jurídica Gratuita y el plazo de presentación del escrito de interposición del recurso se computará a partir de la comunicación de las designaciones, siempre que haya mediado solicitud de la parte dentro de los diez días siguientes a la notificación de la sentencia.»
+3. El primer párrafo de la regla 6.ª del artículo 1.708, tendrá la siguiente redacción:
+«En los casos en que el recurso de casación fuere interpuesto por el Letrado designado en turno de oficio, tendrá siempre un plazo no inferior a los veinte días, contados desde el siguiente a aquél en que se disponga de las actuaciones para hacerlo, interrumpiéndose, si es necesario, a tal fin, el plazo de los cuarenta días fijados en el emplazamiento.»
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Los artículos y rúbricas que a continuación se relacionan de la Ley de Enjuiciamiento Criminal tendrán la siguiente redacción:
+1. El Título V del Libro I se denominará «Del derecho de defensa y de la asistencia jurídica gratuita en los juicios criminales».
+2. El artículo 121 tendrá la siguiente redacción:
+«Todos los que sean parte en una causa, si no se les hubiere reconocido el derecho a la asistencia jurídica gratuita, tendrán obligación de satisfacer los derechos de los procuradores que les representen, los honorarios de los abogados que les defiendan, los de los peritos que informen a su instancia y las indemnizaciones de los testigos que presentaren, cuando los peritos y testigos, al declarar, hubiesen formulado su reclamación y el Juez o Tribunal la estimaren.
+Ni durante la causa ni después de terminada tendrán la obligación de satisfacer las demás costas procesales, a no ser que a ello fueren condenados.
+El procurador que, nombrado por los que fueren parte en una causa, haya aceptado su representación tendrá la obligación de pagar los honorarios a los Letrados de que se valiesen los clientes para su defensa.
+Los que tuvieren reconocido el derecho a la asistencia jurídica gratuita, podrán valerse de abogado y procurador de su elección; pero en este caso estarán obligados a abonarles sus honorarios y derechos, como se dispone respecto de los que no tengan reconocido dicho derecho, salvo que los profesionales de libre elección renunciaran a la percepción de honorarios o derechos en los términos previstos en el artículo 27 de la Ley de Asistencia Jurídica Gratuita.»
+3. El último párrafo del artículo 875 tendrá la siguiente redacción:
+«Si el recurrente tuviese reconocido el derecho a la asistencia jurídica gratuita o apareciese declarado insolvente total o parcial, quedará obligado a responder de la cantidad referida, si viniere a mejor fortuna, en la forma que dispone el artículo 857.»
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El artículo 21 de la Ley de Procedimiento Laboral, texto refundido aprobado por el Real Decreto legislativo 2/1995, de 7 de abril, tendrá la siguiente redacción:
+«1. La defensa por abogado tendrá carácter facultativo en la instancia, con excepción de lo previsto en el artículo siguiente, pero podrá utilizarla cualquiera de los litigantes, en cuyo caso será de su cuenta el pago de los honorarios o derechos respectivos, con las excepciones fijadas en el artículo 2, d), de la Ley de Asistencia Jurídica Gratuita.
+2. Si el demandante pretendiese comparecer en el juicio asistido de abogado o representado por procurador o graduado social colegiado, lo hará constar en la demanda. Asimismo, el demandado pondrá esta circunstancia en conocimiento del Juzgado o Tribunal por escrito, dentro de los dos días siguientes al de su citación para el juicio, con objeto de que, trasladada tal intención al actor, pueda éste estar representado por procurador o graduado social colegiado, designar abogado en otro plazo igual o solicitar su designación a través del turno de oficio. La falta de cumplimiento de estos requisitos supone la renuncia de la parte al derecho de valerse en el acto de juicio de abogado, procurador o graduado social colegiado.
+3. Si en cualquier otra actuación, diversa al acto de juicio, cualquiera de las partes pretendiese actuar asistido de Letrado, el Juez o Tribunal adoptará las medidas oportunas para garantizar la igualdad de las partes.
+4. La solicitud de designación de abogado por el turno de oficio por los trabajadores y los beneficiarios del Sistema de Seguridad Social comportará la suspensión de los plazos de caducidad o la interrupción de la prescripción de acciones.»
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Información al Ministerio de Justicia sobre los litigios transfronterizos.
+A efectos estadísticos, los Colegios de Abogados enviarán semestralmente una relación de solicitudes de reconocimiento de asistencia jurídica gratuita en los litigios transfronterizos celebrados en los demás Estados miembros, con indicación expresa del Estado de que se trate, cuando el solicitante del derecho tenga su residencia habitual o su domicilio en España, así como de solicitudes de reconocimiento de asistencia jurídica gratuita en los litigios transfronterizos celebrados en España, con indicación expresa del Estado de residencia habitual o domicilio del solicitante del derecho, al Consejo General de la Abogacía Española, que éste remitirá al Ministerio de Justicia.
+Se añade por el art. único.9 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Empleo de medios electrónicos, informáticos y telemáticos.
+Las Administraciones Públicas competentes procurarán e impulsarán el empleo de medios electrónicos, informáticos y telemáticos en los trámites ligados al reconocimiento de derecho de asistencia jurídica gratuita, y en particular cuando se trate de los supuestos previstos en el Capítulo VIII de la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita.
+Se añade por el art. único.10 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Sustitución de las referencias al salario mínimo interprofesional.
+Todas las referencias contenidas en esta ley y en su normativa de desarrollo al salario mínimo interprofesional se entenderán hechas al indicador público de renta de efectos múltiples y su valoración se efectuará de conformidad con el artículo 3.
+Se modifica por el art. 2.8 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
+ Se añade por el art. único.11 de la Ley 16/2005, de 18 de julio. Ref. BOE-A-2005-12376.
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Las solicitudes de justicia gratuita, presentadas con anterioridad a la entrada en vigor de la presente Ley, se regirán por la normativa vigente en el momento de efectuar la solicitud.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en esta Ley, y en particular:
+a) De la Ley de Enjuiciamiento Civil:
+– El inciso primero del número 4.º del artículo 4, cuando dice «justicia gratuita».
+– Los artículos 13 a 50, ambos inclusive.
+– Las reglas 3.ª, 4.ª y 5.ª del artículo 1.708.
+– El artículo 1.719.
+b) De la Ley de Enjuiciamiento Criminal:
+– El artículo 119.
+– El artículo 120.
+– Los artículos 123 a 140, ambos inclusive.
+– Los apartados 2, 4 y 5 del artículo 788.
+– El último párrafo del artículo 874.
+– Los tres primeros párrafos del artículo 876.
+c) Del Real Decreto legislativo 2/1995, de 7 de abril, por el que se aprueba el texto refundido de la Ley de Procedimiento Laboral:
+– Los artículos 25 y 26.
+d) De la Ley Reguladora de la Jurisdicción Contencioso-Administrativa de 27 de diciembre de 1956:
+– El artículo 132.
+e) El artículo 6.3 del Real Decreto-ley 18/1982, de 24 de septiembre, de régimen de los fondos de Garantía de Depósitos de Bancos Privados, Cajas de Ahorro y Cooperativas de Crédito.
+f) El artículo 59.3 del Real Decreto legislativo 1/1994, de 20 de junio, por el que se aprueba el texto refundido de la Ley General de Seguridad Social.
+
+### Disposición final primera
+
+Disposición final primera.
+En el plazo de seis meses desde la publicación de la presente Ley, el Gobierno, en el ámbito de sus competencias, dictará el Reglamento General de desarrollo de la misma, en el que se contendrán necesariamente los siguientes extremos:
+a) Las normas de organización y funcionamiento de la Comisiones de Asistencia Jurídica Gratuita.
+b) Normalización de los documentos a presentar por los solicitantes de asistencia jurídica gratuita.
+c) El procedimiento para la aplicación de la subvención.
+d) El sistema de determinación de las bases económicas y módulos de compensación con cargo a fondos públicos por la prestación de los servicios de asistencia jurídica gratuita.
+e) El sistema de provisión de la asistencia pericial gratuita prevista en el apartado 6 del artículo 6.
+
+### Disposición final primera bis
+
+Disposición final primera bis.
+En esta Ley se contienen las normas de incorporación al Derecho español de las disposiciones de la Directiva 2003/8/CE del Consejo, de 27 de enero de 2003, destinada a mejorar el acceso a la justicia en los litigios transfronterizos mediante el establecimiento de reglas mínimas comunes relativas a la justicia gratuita para dichos litigios.
+Se añade por la disposición final 3.23 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dftercera.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.
+Madrid, 10 de enero de 1996.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZÁLEZ MARQUEZ

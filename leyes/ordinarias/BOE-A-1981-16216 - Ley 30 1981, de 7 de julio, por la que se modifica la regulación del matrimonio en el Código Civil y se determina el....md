@@ -1,0 +1,311 @@
+# Ley 30/1981, de 7 de julio, por la que se modifica la regulación del matrimonio en el Código Civil y se determina el procedimiento a seguir en las causas de nulidad, separación y divorcio.
+
+- Identificador BOE: `BOE-A-1981-16216`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1981-16216
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+DON JUAN CARLOS I,
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+### Artículo primero
+
+Artículo primero.
+El título IV del libro primero del Código Civil quedará redactado de la siguiente forma:
+TÍTULO IV
+Del matrimonio
+CAPÍTULO PRIMERO
+De la promesa de matrimonio
+Artículo 42. La promesa de matrimonio no produce obligación de contraerlo ni de cumplir lo que se hubiere estipulado para el supuesto de su no celebración.
+No se admitirá a trámite la demanda en que se pretenda su cumplimiento.
+Artículo 43. El incumplimiento sin causa de la promesa cierta de matrimonio hecha por persona mayor de edad o por menor emancipado sólo producirá la obligación de resarcir a la otra parte de los gastos hechos y las obligaciones contraídas en consideración al matrimonio prometido.
+Esta acción caducará al año contado desde el día de la negativa a la celebración del matrimonio.
+CAPÍTULO II
+De los requisitos del matrimonio
+Artículo 44. El hombre y la mujer tienen derecho a contraer matrimonio conforme a las disposiciones de este Código.
+Artículo 45. No hay matrimonio sin consentimiento matrimonial.
+La condición, término o modo del consentimiento se tendrá por no puesta.
+Artículo 46. No pueden contraer matrimonio:
+1.° Los menores de edad no emancipados.
+2.° Los que estén ligados con vínculo matrimonial.
+Artículo 47. Tampoco pueden contraer matrimonio entre sí:
+1.° Los parientes en línea recta por consanguinidad o adopción.
+2.° Los colaterales por consanguinidad hasta el tercer grado.
+3.° Los condenados como autores o cómplices de la muerte dolosa del cónyuge de cualquiera de ellos.
+Artículo 48. El Ministro de Justicia puede dispensar, a instancia de parte, el impedimento de muerte dolosa del cónyuge anterior.
+El Juez de Primera Instancia podrá dispensar, con Justa causa y a instancia de parte, los impedimentos del grado tercero entre colaterales y de edad a partir de los catorce años. En los expedientes de dispensa de edad deberán ser oídos el menor y sus padres o guardadores.
+La dispensa ulterior convalida, desde su celebración, el matrimonio cuya nulidad no haya sido instada Judicialmente por alguna de las partes.
+CAPÍTULO III
+De la forma de celebración del matrimonio
+Sección I. Disposiciones generales
+Artículo 49. Cualquier español podrá contraer matrimonio dentro o fuera de España:
+1.° Ante el Juez o funcionario señalado por este Código.
+2.° En la forma religiosa legalmente prevista.
+También podrá contraer matrimonio fuera de España con arreglo a la forma establecida por la ley del lugar de celebración.
+Artículo 50. Si ambos contrayentes son extranjeros, podrá celebrarse el matrimonio en España con arreglo a la forma prescrita para los españoles o cumpliendo la establecida por la ley personal de cualquiera de ellos..
+Sección II. De la celebración ante el Juez o funcionario que haga sus veces
+Artículo 51. Será competente para autorizar el matrimonio:
+1.° El Juez encargado del Registro Civil.
+2.° En los municipios en que no resida dicho Juez, el Alcalde o el delegado designado reglamentariamente.
+3.° El funcionario diplomático o consular encargado del Registro Civil en el extranjero.
+Artículo 52. Podrá autorizar el matrimonio del que se halle en peligro de muerte:
+1.° El Juez encargado del Registro Civil o el delegado, aunque los contrayentes no residan en su circunscripción y, en defecto de ambos, el Alcalde.
+2.° En defecto del Juez, y respecto de los militares en campaña, el Oficial o Jefe superior inmediato.
+3.° Respecto de los matrimonios que se celebren a bordo de nave o aeronave, el Capitán o Comandante de la misma.
+Este matrimonio no requerirá para su autorización la previa formación de expediente, pero sí la presencia, en su celebración, de dos testigos mayores de edad, salvo imposibilidad acreditada.
+Artículo 53. La validez del matrimonio no quedará afectada por la incompetencia o falta de nombramiento legítimo del Juez o funcionario que lo autorice, siempre que al menos uno de los cónyuges hubiera procedido de buena fe, y aquéllos ejercieran sus funciones públicamente.
+Artículo 54. Cuando concurra causa grave suficientemente probada, el Ministro de Justicia podrá autorizar el matrimonio secreto. En este caso, el expediente se tramitará reservadamente, sin la publicación de edictos o proclamas.
+Artículo 55. Podrá autorizarse en el expediente matrimonial que el contrayente que no resida en el distrito o demarcación del Juez o funcionario autorizante celebre el matrimonio por apoderado a quien haya concedido poder especial en forma auténtica, pero siempre será necesaria la asistencia personal del otro contrayente.
+En el poder se determinará la persona con quien ha de celebrarse el matrimonio, con expresión de las circunstancias personales precisas para establecer su identidad.
+El poder se extinguirá por la revocación del poderdante, por la renuncia de apoderado o por la muerte de cualquiera de ellos. En caso de revocación por el poderdante bastará su manifestación en forma auténtica antes de la celebración del matrimonio. La revocación se notificará de inmediato al Juez o funcionario autorizante.
+Artículo 56. Quienes deseen contraer matrimonial acreditarán previamente, en expediente tramitado conforme a la legislación del Registro Civil, que reúnen los requisitos de capacidad establecidos en este Código.
+Si alguno de los contrayentes estuviere afectado por deficiencias o anomalías psíquicas, se exigirá dictamen médico sobre su aptitud para prestar el consentimiento.
+Artículo 57. El matrimonio deberá celebrarse ante el Juez o funcionario correspondiente al domicilio de cualquiera de los contrayentes y dos testigos mayores de edad.
+La prestación del consentimiento podrá también realizarse, por delegación del Juez o funcionario encargado del Registro Civil competente, bien a petición de los contrayentes o bien de oficio ante un Juez o encargado de otro Registro Civil.
+Artículo 58. El Juez o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consienten en contraer matrimonio con el otro y si efectivamente lo contraen en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá la Inscripción o el acta correspondiente.
+Sección III. De la celebración en forma religiosa
+Artículo 59. El consentimiento matrimonial podrá prestarse en la forma prevista por una confesión religiosa inscrita, en los términos acordados con el Estado o, en su defecto, autorizados por la legislación de éste.
+Artículo 60. El matrimonio celebrado según las normas del Derecho canónico o en cualquiera de las formas religiosas previstas en el artículo anterior produce efectos civiles. Para el pleno reconocimiento de los mismos se estará a lo dispuesto en el capítulo siguiente.
+CAPÍTULO IV
+De la inscripción del matrimonio en el Registro Civil
+Artículo 61. El matrimonio produce efectos civiles desde su celebración.
+Para el pleno reconocimiento de los mismos será necesaria su inscripción en el Registro Civil.
+El matrimonio no inscrito no perjudicara los derechos adquiridos de buena fe por terceras personas.
+Artículo 62. El Juez o funcionario ante quien se celebre el matrimonio extenderá, inmediatamente después de celebrado, la inscripción o el acta correspondiente con su firma y la de los contrayentes y testigos.
+Asimismo, practicada la inscripción o extendida el acta, el Juez o funcionario entregará a cada uno de los contrayentes documento acreditativo de la celebración del matrimonio.
+Artículo 63. La inscripción del matrimonio celebrado en España en forma religiosa se practicará con la simple presentación de la certificación de la Iglesia o confesión respectiva, que habrá de expresar las circunstancias exigidas por la legislación del Registro Civil.
+Se denegará la práctica del asiento cuando de los documentos presentados o de los asientos del Registro conste que el matrimonio no reúne los requisitos que para su validez se exigen en este título.
+Artículo 64. Para el reconocimiento del matrimonio secreto basta su inscripción en el libro especial del Registro Civil Central, pero no perjudicará los derechos adquiridos de buena fe por terceras personas sino desde su publicación en el Registro Civil ordinario.
+Artículo 65. Salvo lo dispuesto en el artículo 63, en todos los demás casos en que él matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente, el Juez o funcionario encargado del Registro, antes de practicar la inscripción, deberá comprobar si concurren los requisitos legales para su celebración.
+CAPÍTULO V
+De los derechos y deberes de los cónyuges
+Artículo 66. El marido y la mujer son iguales en derechos y deberes.
+Artículo 67. El marido y la mujer deben respetarse y ayudarse mutuamente y actuar en interés de la familia.
+Artículo 68. Los cónyuges están obligados a vivir juntos, guardarse fidelidad y socorrerse mutuamente.
+Artículo 69. Se presume, salvo prueba en contrario, que los cónyuges viven juntos.
+Artículo 70. Los cónyuges fijarán de común acuerdo el domicilio conyugal y, en caso de discrepancia, resolverá el Juez, teniendo en cuenta el interés de la familia.
+Artículo 71. Ninguno de los cónyuges puede atribuirse la representación del otro sin que le hubiere sido conferida.
+Artículo 72. Suprimido.
+CAPÍTULO VI
+De la nulidad del matrimonio
+Artículo 73. Es nulo, cualquiera que sea la forma de su celebración:
+1.° El matrimonio celebrado sin consentimiento matrimonial.
+2.° El matrimonio celebrado entre las personas a que se refieren los artículos 46 y 47, salvo los casos de dispensa conforme al artículo 48.
+3.° El que se contraiga sin la intervención del Juez o funcionario ante quien deba celebrarse, o sin la de los testigos.
+4.° El celebrado por error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que, por su entidad, hubieren sido determinantes de la prestación del consentimiento.
+5.° El contraído por coacción o miedo grave.
+Artículo 74. La acción para pedir la nulidad del matrimonio corresponde a los cónyuges, al Ministerio Fiscal y a cualquier persona que tenga interés directo y legítimo en ella, salvo lo dispuesto en los artículos siguientes.
+Artículo 75. Si la causa de nulidad fuere la falta de edad, mientras el contrayente sea menor sólo podrá ejercitar la acción cualquiera de sus padres, tutores o guardadores y, en todo caso, el Ministerio Fiscal.
+Al llegar a la mayoría de edad sólo podrá ejercitar la acción el contrayente menor, salvo que los cónyuges hubieren vivido juntos durante un año después de alcanzada aquélla.
+Artículo 76. En los casos de error, coacción o miedo grave solamente podrá ejercitar la acción de nulidad el cónyuge que hubiera sufrido el vicio.
+Caduca la acción y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de desvanecido el error o de haber cesado la fuerza o la causa del miedo.
+Artículo 77. Suprimido.
+Artículo 78. El Juez no acordará la nulidad de un matrimonio por defecto de forma, si al menos uno de los cónyuges lo contrajo de buena fe, salvo lo dispuesto en el número 3 del artículo 73.
+Artículo 78. La declaración de nulidad del matrimonio no invalidará los efectos ya producidos respecto de los hijos y del contrayente o contrayentes de buena fe.
+La buena fe se presume.
+Artículo 80. Las resoluciones dictadas por los Tribunales eclesiásticos sobre nulidad de matrimonio canónico o las decisiones pontificias sobre matrimonio rato y no consumado tendrán eficacia en el orden civil, a solicitud de cualquiera de las partes, si se declaran ajustados al Derecho del Estado en resolución dictada por el Juez civil competente conformo a las condiciones a las que se refiere el artículo 954 de la Ley de Enjuiciamiento Civil.
+CAPÍTULO VII
+De la separación
+Artículo 81. Se decretará judicialmente la separación, cualquiera que sea la forma de celebración del matrimonio:
+1.° A petición de ambos cónyuges o de uno con el consentimiento del otro, una vez transcurrido el primer año del matrimonio. Deberá necesariamente acompañarse a la demanda la propuesta del convenio regulador de la separación, conforme a los artículos 90 y 103 de este Código.
+2.° A petición de uno de los cónyuges, cuando el otro esté incurso en causa legal de separación.
+Artículo 82. Son causas de separación:
+1.ª El abandono injustificado del hogar, la infidelidad conyugal, la conducta injuriosa o vejatoria y cualquier otra violación grave o reiterada de los deberes conyugales.
+No podrá invocarse como causa la Infidelidad conyugal si existe previa separación de hecho libremente consentida por ambos o impuesta por el que la alegue.
+2.ª Cualquier violación grave o reiterada de los deberes respecto de los hijos comunes o respecto de los de cualquiera de los cónyuges que convivan en el hogar familiar.
+3.ª La condena a pena de privación de libertad por tiempo superior a seis años.
+4.ª El alcoholismo, la toxicomanía o las perturbaciones mentales, siempre que el interés del otro cónyuge o el de la familia exijan la suspensión de la convivencia.
+5.ª El cese efectivo de la convivencia conyugal durante seis meses, libremente consentido. Se, entenderá libremente prestado este consentimiento cuando un cónyuge requiriese fehacientemente al otro para prestarlo, apercibiéndole expresamente de las consecuencias de ello, y éste no mostrase su voluntad en contra por cualquier medio admitido en derecho o pidiese la separación o las medidas provisionales a que se refiere el artículo 103, en el plazo de seis meses a partir del citado requerimiento.
+6.ª El cese efectivo de la convivencia conyugal durante el plazo de tres años.
+7.ª Cualquiera de las causas de divorcio en los términos, previstos en los números 3.°. 4.° y 5.° del artículo 86.
+Artículo 83. La sentencia de separación produce la suspensión de la vida común de los casados, y cesa la posibilidad de vincular bienes del otro cónyuge en el ejercicio de la potestad doméstica.
+Artículo 84. La reconciliación pone término al procedimiento de separación y deja sin efecto ulterior lo en él resuelto, pero los cónyuges deberán poner aquélla en conocimiento del Juez que entienda o haya entendido en el litigio.
+Ello no obstante, mediante resolución judicial, serán mantenidas o modificadas las medidas adoptadas en relación a los hijos, cuando exista causa que lo justifique.
+CAPÍTULO VIII
+De la disolución del matrimonio
+Artículo 85. El matrimonio se disuelve, sea cual fuere la forma y el tiempo de su celebración, por la muerte o la declaración de fallecimiento de uno de los cónyuges y por el divorcio.
+Artículo 86. Son causas de divorcio:
+1.ª El cese efectivo de la convivencia conyugal durante al menos un año ininterrumpido desde la interposición de la demanda de separación formulada por ambos cónyuges o por uno de ellos con el consentimiento del otro, cuando aquélla se hubiera interpuesto una vez transcurrido un año desde la celebración del matrimonio.
+2.ª El cese efectivo de la convivencia conyugal durante al menos un año ininterrumpido desde la interposición de la demanda de separación personal, a petición del demandante o de quien hubiere formulado reconvención conforme a lo establecido en el artículo 82, una vez firme la resolución estimatoria de la demanda de separación o, si transcurrido el expresado plazo, no hubiera recaído resolución en la primera instancia,
+3.ª El cese efectivo de la convivencia conyugal durante al menos dos años ininterrumpidos:
+a) Desde que se consienta libremente por ambos cónyuges la separación de hecho o desde la firmeza de la resolución judicial, o desde la declaración de ausencia legal de alguno de los cónyuges, a petición de cualquiera de ellos.
+b) Cuando quien pide el divorcio acredite que, al iniciarse la separación de hecho, el otro estaba incurso en causa de separación.
+4.ª El cese efectivo de la convivencia conyugal durante el transcurso de al menos cinco años, a petición de cualquiera de los cónyuges.
+5.ª La condena en sentencia firme por atentar contra la vida del cónyuge, sus ascendientes o descendientes.
+Cuando el divorcio sea solicitado por ambos o por uno con el consentimiento del otro, deberá necesariamente acompañarse a la demanda o al escrito inicial la propuesta convenio regulador de sus efectos, conforme a los artículos 90 y 103 de este Código.
+Artículo 87. El cese efectivo de la convivencia conyugal, a que se refieren los artículos 82 y 86 de este Código, es compatible con el mantenimiento o la reanudación temporal de la vida en el mismo domicilio, cuando ello obedezca en uno o en ambos cónyuges a la necesidad, al intento de reconciliación o al interés de los hijos y así sea acreditado por cualquier medio admitido en derecho en el proceso de separación o de divorcio correspondiente.
+La interrupción de la convivencia no implicará el cese efectivo de la misma si obedece a motivos laborales, profesionales o a cualesquiera otros de naturaleza análoga.
+Artículo 88. La acción de divorcio se extingue por la muerte de cualquiera de los cónyuges y por su reconciliación, que deberá ser expresa cuando se produzca después de interpuesta la demanda.
+La reconciliación posterior al divorcio no produce efectos legales, si bien los divorciados podrán contraer entre si nuevo matrimonio.
+Artículo 89. La disolución del matrimonio por divorcio sólo podrá tener lugar por sentencia que así lo declare y producirá efectos a partir de su firmeza. No perjudicará a terceros de buena fe sino a partir de su inscripción en el Registro Civil.
+CAPÍTULO IX
+De los efectos comunes a la nulidad, separación y divorcio
+Artículo 90. El convenio regulador a que se refieren los artículos 81 y 88 de este Código deberá referirse, al menos, a los siguientes extremos:
+A) La determinación de la persona a cuyo cuidado hayan de quedar los hijos sujetos a la patria potestad de ambos, el ejercicio de ésta y el régimen de visitas, comunicación y estancia de los hijos con el progenitor que no viva con ellos.
+B) La atribución del uso de la vivienda y ajuar familiar.
+C) La contribución a las cargas del matrimonio y alimentos, así como sus bases de actualización y garantías en su caso.
+D) La liquidación, cuando proceda, del régimen económico del matrimonio
+E) La pensión que conforme al artículo 97 correspondiere satisfacer, en su caso, a uno de los cónyuges.
+Los acuerdos de los cónyuges, adoptados para regular las consecuencias de la nulidad, separación o divorcio serán aprobados por el Juez, salvo si son dañosos para los hijos o gravemente perjudiciales para uno de los cónyuges. La denegación habrá de hacerse mediante resolución motivada y en este caso los cónyuges deben someter a la consideración del Juez nueva propuesta para su aprobación, si procede. Desde la aprobación judicial, podrán hacerse afectivos por la vía de apremio.
+Las medidas que el Juez adopta en defecto de acuerdo, o las convenidas por los cónyuges, podrán ser modificadas judicialmente o por nuevo convenio cuando se alteren sustancialmente las circunstancias.
+El Juez podrá establecer las garantías reales o personales que requiera el cumplimiento del convenio.
+Artículo 91. Con las sentencias de nulidad, separación o divorcio, o en ejecución de las mismas, el Juez, en defecto de acuerdo de los cónyuges o en caso de no aprobación del mismo, determinará conforme a lo establecido en los artículos siguientes las medidas que hayan de sustituir a las ya adoptadas con anterioridad en relación con los hijos, la vivienda familiar, las cargas del matrimonio, liquidación del régimen económico y las cautelas o garantías respectivas, estableciendo las que procedan si para alguno de estos conceptos no se hubiera adoptado ninguna. Estas medidas podrán ser modificadas cuando se alteren sustancialmente las circunstancias.
+Artículo 92. La separación, la nulidad y el divorcio no eximen a los padres de sus obligaciones para con los hijos.
+Las medidas judiciales sobre el cuidado y educación de los hijos serán adoptadas en beneficio de ellos, tras oírles si tuvieran suficiente juicio y siempre a los mayores de doce años.
+En la sentencia se acordará la privación de la patria potestad cuando en el proceso se revele causa para ello.
+Podrá también acordarse, cuando así convenga a los hijos, que la patria potestad sea ejercida total o parcialmente por uno de los cónyuges o que el cuidado de ellos corresponda a uno u otro procurando no separar a los hermanos.
+El Juez, de oficio o a petición de los interesados, podrá recabar el dictamen de especialistas.
+Artículo 93. El Juez, en todo caso, determinará la contribución de cada progenitor para satisfacer los alimentos y adoptará las medidas convenientes para asegurar la efectividad y acomodación de las prestaciones a las circunstancias económicas y necesidades de los hijos en cada momento.
+Artículo 94. El progenitor que no tenga consigo a los hijos menores o incapacitados gozará del derecho de visitarlos, comunicar con ellos y tenerlos en su compañía. El Juez determinará el tiempo, modo y lugar del ejercicio de este derecho, que podrá limitar o suspender si se dieren graves circunstancias que así lo aconsejen o se incumplieren grave o reiteradamente los deberes impuestos por la resolución Judicial.
+Artículo 95. La sentencia firme producirá, respecto de los bienes del matrimonio, la disolución del régimen económico matrimonial.
+Si la sentencia de nulidad declara la mala fe de uno sólo de los cónyuges, el que hubiere obrado de buena fe podrá optar por aplicar en la liquidación del régimen económico matrimonial las disposiciones relativas al régimen de participación y el de mala fe no tendrá derecho a participar en las ganancias obtenidas por su consorte.
+Artículo 96. En defecto de acuerdo de los cónyuges aprobado por el Juez, el uso de la vivienda familiar y de los objetos de uso ordinario en ella corresponde a los hijos y al cónyuge en cuya compañía queden.
+Cuando algunos de los hijos queden en la compañía de uno y los restantes en la del otro, el Juez resolverá lo procedente.
+No habiendo hijos, podrá acordarse que el uso de tales bienes, por el tiempo que prudencialmente se fije, corresponda al cónyuge no titular, siempre que atendidas las circunstancias, lo hicieran aconsejable y su interés fuera el más necesitado de protección.
+Para disponer de la vivienda y bienes indicados cuyo uso corresponda al cónyuge no titular se requerirá el consentimiento de ambas partes o, en su caso, autorización judicial.
+Artículo 97. El cónyuge al que la separación o divorcio produzca desequilibrio económico en relación con la posición del otro, que implique un empeoramiento en su situación anterior en el matrimonio, tiene derecho a una pensión que se fijará en la resolución judicial, teniendo en cuenta, entre otras, las siguientes circunstancias:
+1.ª Los acuerdos a que hubieren llegado los cónyuges.
+2.ª La edad y estado de salud.
+3.ª La cualificación profesional y las probabilidades de acceso a un empleo.
+4.ª La dedicación pasada y futura a la familia.
+5.ª La colaboración con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge.
+6.ª La duración del matrimonio y de la convivencia conyugal.
+7.ª La pérdida eventual de un derecho de pensión.
+8.ª El caudal y medios económicos y las necesidades de uno y otro cónyuge.
+En la resolución judicial se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+Artículo 98. El cónyuge de buena fe cuyo matrimonio haya sido declarado nulo tendrá derecho a una indemnización si ha existido convivencia conyugal, atendidas las circunstancias previstas en el artículo 97.
+Artículo 99. En cualquier momento podrá convenirse la sustitución de la pensión fijada Judicialmente conforme al artículo 97 por la constitución de una renta vitalicia, el usufructo de determinados bienes o la entrega de un capital en bienes o en dinero.
+Artículo 100. Fijada la pensión y las bases de su actualización en la sentencia de separación o de divorcio, sólo podrá ser modificada por alteraciones sustanciales en la fortuna de uno u otro cónyuges.
+Artículo 101. El derecho a la pensión se extingue por el cese de la causa que lo motivó, por contraer el acreedor nuevo matrimonio o por vivir maritalmente con otra persona.
+El derecho a la pensión no se extingue por el solo hecho de la muerte del deudor. No obstante, los herederos de éste podrán solicitar del Juez la reducción o supresión de aquélla, si el caudal hereditario no pudiera satisfacer las necesidades de la deuda o afectara a sus derechos en la legítima.
+CAPÍTULO X
+De las medidas provisionales por demanda de nulidad, separación y divorcio
+Artículo 102. Admitida la demanda de nulidad, separación o divorcio, se producen, por ministerio de la Ley, los efectos siguientes:
+1.° Los cónyuges podrán vivir separados y cesa la presunción de convivencia conyugal.
+2.° Quedan revocados los consentimientos y poderes que cualquiera de los cónyuges hubiera otorgado al otro.
+Asimismo, salvo pacto en contrario, cesa la posibilidad de vincular los bienes privativos del otro cónyuge en el ejercicio de la potestad doméstica.
+A estos efectos, cualquiera de las partes podrá instar la oportuna anotación en el Registro Civil y, en su caso, en los de la Propiedad y Mercantil.
+Artículo 103. Admitida la demanda, el Juez, a falta de acuerdo de ambos cónyuges aprobado judicialmente, adoptará, con audiencia de éstos, las medidas siguientes:
+1.ª Determinar, en interés de los hijos, con cuál de los cónyuges han de quedar los sujetos a la patria potestad de ambos y tomar las disposiciones apropiadas de acuerdo con lo establecido en este Código y en particular la forma en que el cónyuge apartado de los hijos podrá cumplir el deber de velar por éstos y el tiempo, modo y lugar en que podrá comunicar con ellos y tenerlos en su compañía.
+Excepcionalmente, los hijos podrán ser encomendados a otra persona y, de no haberla, a una institución idónea, confiriéndoseles las funciones tutelares que ejercerán bajo la autoridad del Juez.
+2.ª Determinar, teniendo en cuenta el interés familiar más necesitado de protección, cuál de los cónyuges ha de continuar en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y objetos del ajuar que continúan en ésta y los que se ha de llevar el otro cónyuge, así como también las medidas cautelares convenientes para conservar el derecho de cada uno.
+3.ª Fijar, la contribución de cada cónyuge a las cargas del matrimonio, incluidas si procede las «litis expensas», establecer las bases para la actualización de cantidades y disponer las garantías, depósitos, retenciones u otras medidas cautelares convenientes, a fin de asegurar la efectividad de lo que por estos conceptos un cónyuge haya de abonar al otro.
+Se considerará contribución a dichas cargas el trabajo que uno de los cónyuges dedicará a la atención de los hijos comunes sujetos a patria potestad.
+4.ª Señalar, atendidas las circunstancias, los bienes gananciales o comunes que, previo inventario, se hayan de entregar a uno u otro cónyuge y las reglas que deban observar en la administración y disposición, así como en la obligatoria rendición de cuentas sobre los bienes comunes o parte de ellos que reciban y los que adquieran en lo sucesivo.
+5.ª Determinar, en su caso, el régimen de administración y disposición de aquellos bienes privativos que por capitulaciones o escritura pública estuvieran especialmente afectados a las cargas del matrimonio.
+Artículo 104. El cónyuge que se proponga demandar la nulidad, separación o divorcio de su matrimonio puede solicitar los efectos y medidas a que se refieren los dos artículos anteriores.
+Estos efectos y medidas sólo subsistirán si, dentro de los treinta días siguientes a contar desde que fueron inicialmente adoptados, se presenta la demanda ante el Juez o Tribunal competente.
+Artículo 105. No incumple el deber de convivencia el cónyuge que sale del domicilio conyugal por una causa razonable y en el plazo de treinta días presenta la demanda o solicitud a que se refieren los artículos anteriores.
+Artículo 108. Los efectos y medidas previstos en este capítulo terminan, en todo caso, cuando sean sustituidos por los de la sentencia estimatoria o se ponga fin al procedimiento de otro modo.
+La revocación de consentimientos y poderes se entiende definitiva,
+CAPÍTULO XI
+Normas de Derecho internacional privado
+Artículo 107. La separación y el divorcio se regirán por la ley nacional común de los cónyuges en el momento de la presentación de la demanda; a falta de nacionalidad común, por la ley de la residencia habitual del matrimonio y, si los esposos tuvieran su residencia habitual en diferentes Estados, por la ley española, siempre que los Tribunales españoles resulten competentes.
+Las sentencias de separación y divorcio dictadas por Tribunales extranjeros producirán efectos en el ordenamiento español desde la fecha de su reconocimiento conforme a lo dispuesto en la Ley de Enjuiciamiento Civil.
+
+### Artículo segundo
+
+Artículo segundo.
+Los artículos del Código Civil que a continuación se indican quedan modificados en la forma que se expresa.
+Artículo 176. Suprimido.
+Artículo 195. Queda suprimido el párrafo último.
+Artículo 855. La causa primera queda redactada así:
+«1.ª Haber incumplido grave o reiteradamente los deberes conyugales.»
+Artículo 919. Queda redactado así:
+«El cómputo de que trata el artículo anterior rige en todas las materias.»
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los divorciados por sentencia firme al amparo de la Ley de Divorcio de dos de marzo de mil novecientos treinta y dos podrán contraer nuevo matrimonio, salvo si la sentencia fue anulada judicialmente.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Los hechos que hubieren tenido lugar o las situaciones creadas con anterioridad a la entrada en vigor de la presente Ley producirán los efectos que les reconocen los capítulos VI, VII y VIII del título IV del libro I del Código Civil.
+Serán computables los períodos de tiempo transcurridos a efectos de demandar la separación o el divorcio conforme a lo establecido en el mismo.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+(Derogada)
+Se deroga por la disposición derogatoria única.2.10 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+Con carácter provisional en tanto se dé una regulación definitiva en la correspondiente legislación, en materia de pensiones y Seguridad Social, regirán las siguientes normas:
+Primera. A las prestaciones de la Seguridad Social, sin perjuicio de lo que se establece en materia de pensiones en esta disposición adicional, tendrán derecho el cónyuge y los descendientes que hubieran sido beneficiarios por razón de matrimonio o filiación, con independencia de que sobrevenga separación judicial o divorcio.
+Segunda. Quienes no hubieran podido contraer matrimonio, por impedírselo la legislación vigente hasta la fecha, pero hubieran vivido como tal, acaecido el fallecimiento de uno de ellos con anterioridad a la vigencia de esta Ley, el otro tendrá derecho a los beneficios a que se hace referencia en el apartado primero de esta disposición y a la pensión correspondiente conforme a lo que se establece en el apartado siguiente.
+Tercera. El derecho a la pensión de viudedad y demás derechos pasivos o prestaciones por razón de fallecimiento corresponderá a quién sea o haya sido cónyuge legítimo y en cuantía proporcional al tiempo vivido con el cónyuge fallecido, con independencia de las causas que hubieran determinado la separación o el divorcio.
+Cuarta. Los que se encuentren en situación legal de separación tendrán los mismos derechos pasivos respecto de sus ascendientes o descendientes que los que les corresponderían de estar disuelto su matrimonio.
+Se deroga la regla 5ª por la disposición derogatoria única.1 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+ Se declara la inconstitucionalidad de la norma 5ª, en su referencia a la concreta causa de extinción establecida en el artículo 101 del Código civil de "vivir maritalmente con otra persona", por Sentencia del TC 125/2003, de 19 de junio. Ref. BOE-T-2003-14320
+
+### Disposición final
+
+Una vez creados los Juzgados de Familia, asumirán las funciones atribuidas en la presente Ley a los de Primera Instancia.
+
+### Disposición derogatoria
+
+Queda derogada la Ley setenta y seis/mil novecientos ochenta, de veintiséis de diciembre, por la que se determina el procedimiento a seguir en las causas de separación matrimonial.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a siete de julio de mil novecientos ochenta y uno.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+LEOPOLDO CALVO-SOTELO Y BUSTELO

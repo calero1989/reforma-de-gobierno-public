@@ -1,0 +1,621 @@
+# Ley 1/1992, de 7 de mayo, de Pesca Fluvial.
+
+- Identificador BOE: `BOE-A-1992-22500`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1992-22500
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye las correcciones de errores publicadas en DOCM núm. 61, de 12 de agosto de 1992 y núm. 72, de 23 de septiembre de 1992.
+
+## Preámbulo
+
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley:
+Exposición de motivos
+La mejora de la calidad de vida de la sociedad actual, ha implicado un significativo cambio en los usos y costumbres de los ciudadanos, siendo cada vez más notoria la demanda social de ocio en contacto con la naturaleza. Así, la pesca en aguas fluviales ha pasado de ser una actividad principalmente económica, a constituir una práctica fundamentalmente deportiva que viene a llenar, cada vez más los tiempos de ocio de un importante número de personas en Castilla-La Mancha.
+Por otra parte, la Constitución Española, en su artículo 43.3 establece el mandato a los poderes públicos de facilitar la adecuada utilización del ocio y, en el artículo 45.2, que dichos poderes velarán por la utilización racional de todos los recursos naturales con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente.
+Asimismo, el artículo 31.1 de nuestro Estatuto de Autonomía confiere a la Junta de Comunidades la competencia exclusiva en materia de pesca fluvial y acuicultura, así como la promoción del deporte y de la adecuada utilización del ocio.
+Hasta hoy, la normativa básica reguladora de la pesca fluvial data del año 1942, habiendo quedado obsoleta en muchos de sus aspectos y sobre la que, además han venido a incidir disposiciones más recientes tales como la Ley de Aguas y la Ley de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
+Por todo ello, se hace necesario la promulgación de una nueva Ley de ámbito autonómico, que venga a regular el ejercicio de la pesca fluvial, el fomento de la pesca deportiva y la acuicultura en nuestra Región de una forma más racional y acorde con las necesidades y demanda actuales de los ciudadanos y las exigencias de conservación de los recursos naturales.
+La presente Ley se estructura en siete títulos, con cincuenta y ocho artículos, cuatro disposiciones adicionales, dos transitorias, una derogativa y dos finales. En el título I se recogen la finalidad de la Ley, el derecho a pescar y las especies sobre las que se puede ejercitar la pesca. El título II se extiende a la clasificación de los cursos y masas de agua y de las especies piscícolas en función de su grado de amenaza, valor deportivo y significado ecológico, y establece la necesidad de elaborar planes de gestión para las especies de pesca de mayor interés, asi como la obligatoriedad de que la pesca en las masas de agua en régimen especial se realice conforme a un Plan Técnico de Pesca. El título III se ocupa de la protección del medio acuático y de las medidas conducentes a la preservación de los hábitats de las especies de pesca. El título IV dedica su articulado a la protección, conservación y aprovechamiento de la pesca. El título V sobre la administración de los recursos de pesca, atiende a los requisitos necesarios para la práctica de la pesca e introduce la novedad de los Consejos de Pesca como órganos consultivos de la Administración. La acuicultura y la pesca científica vienen recogidas en el título VI. Por último, en el título VII se tipifican las infracciones, se recoge el procedimiento sancionador y se asigna competencias a los Organos de la Administración regional para la imposición de sanciones.
+
+## TÍTULO I
+
+Principios generales
+
+### Artículo 1
+
+Artículo 1.
+Es objeto de la presente Ley la protección, conservación, fomento y ordenado aprovechamiento de los recursos de pesca en todos los cursos y masas de agua situados en el ámbito territorial de la Comunidad Autónoma de Castilla-La Mancha, así como el fomento de la pesca deportiva y la formación de los pescadores.
+
+### Artículo 2
+
+Artículo 2.
+A los efectos de esta Ley se entiende por acción de pescar la ejercida por las personas mediante el uso de artes o medios apropiados para la captura de las especies objeto de la pesca.
+
+### Artículo 3
+
+Artículo 3.
+El derecho a pescar corresponde a toda persona que esté en posesión de la licencia de pesca de la Comunidad Autónoma de Castilla-La Mancha y cumpla los demás requisitos establecidos en la presente Ley.
+
+### Artículo 4
+
+Artículo 4.
+1. Son especies objeto de pesca las que sean determinadas como tales por la normativa estatal básica.
+2. Por el Consejo de Gobierno se determinarán, en su caso, las especies acogidas a la aplicación de las medidas adicionales de protección a que se refiere el artículo 1.3 del Real Decreto 1095/1989, de 8 de septiembre.
+
+### Artículo 5
+
+Artículo 5.
+Las piezas de pesca se adquieren por ocupación de acuerdo con lo dispuesto en la presente Ley.
+
+## TÍTULO II
+
+Clasificación de los cursos y masas de agua y de las especies
+
+## CAPÍTULO I
+
+Clasificación de los cursos y masas de agua
+
+### Artículo 6
+
+Artículo 6.
+A los efectos previstos en la presente Ley los cursos y masas de agua se clasifican en:
+a) Aguas libres para la pesca.
+b) Cursos y masas de agua en régimen especial
+c) Refugios de pesca.
+
+### Artículo 7
+
+Artículo 7.
+Son aguas libres para la pesca aquellas en la que esta actividad se puede ejercer sin más limitaciones que las establecidas por la presente Ley.
+
+### Artículo 8
+
+Artículo 8.
+1. Constituyen cursos y masas de agua en régimen especial los vedados de pesca, los cotos de pesca y los tramos sin muerte, así como aquellas aguas transitoriamente de dominio privado cuyos titulares cuenten con una autorización administrativa para el aprovechamiento de la pesca en las mismas.
+2. Son vedados de pesca los cursos, tramos de cursos o masas de aguas en los que de manera temporal o permanente esté prohibida la pesca de todas las especies por razones de orden biológico, científico o educativo.
+3. Son cotos de pesca aquellos cursos, tramos de cursos o masas de agua en los que la intensidad de la práctica de la pesca, realizada con finalidad exclusivamente deportiva, está regulada para aprovechar ordenadamente los recursos piscícolas.
+4. Son tramos sin muerte aquellos cursos, tramos de cursos o masas de agua en los que la práctica de la pesca se realiza con la condición de conservar vivos y devolver a las aguas de procedencia todos los ejemplares capturados.
+5. Corresponde a la Consejería de Agricultura el establecimiento concreto de los vedados, cotos de pesca y los tramos sin muerte, así como el otorgamiento de las autorizaciones administrativas para el aprovechamiento de la pesca en aguas transitoriamente de dominio privado, a instancia de sus titulares, en la forma y condiciones que reglamentariamente se determinen.
+
+### Artículo 9
+
+Artículo 9.
+Según su régimen de aprovechamiento los cotos de pesca se clasifican en:
+a) Intensivos: Son aquellos que para su mantenimiento requieren sueltas periódicas de ejemplares capturables.
+b) De repoblación sostenida: Son aquellos que para su mantenimiento requieren repoblaciones periódicas.
+c) Especiales: Son aquellos cuyo aprovechamiento, supeditado a la conservación de especies, subespecies, razas o variedades de fauna objeto de pesca, permite asegurar el mantenimiento de sus poblaciones.
+
+### Artículo 10
+
+Artículo 10.
+Con la finalidad de proteger y fomentar los recursos pesqueros, el aprovechamiento de la pesca en los cursos y masas de agua en régimen especial se realizará de forma ordenada y conforme a un Plan Técnico suscrito por facultativo competente.
+El contenido y aprobación de los Planes Técnicos se ajustará a las normas y requisitos que reglamentariamente se determinen.
+
+### Artículo 11
+
+Artículo 11.
+El aprovechamiento de los cotos de pesca a que hace referencia el artículo 8., 3, podrá llevarse a cabo directamente por la Consejería de Agricultura o a través de concesiones a sociedades de pescadores de la región que hayan sido declaradas colaboradoras por dicha Consejería la cual, en atención a las circunstancias concurrentes, establecerá los tramos o masas de agua que podrán ser objeto de concesión.
+Por vía reglamentaria se establecerán los requisitos y obligaciones que deben cumplir las Sociedades colaboradoras para poder acceder a la concesión de cotos de pesca, así como el procedimiento de adjudicación, extinción y prórroga, en su caso. A estos efectos, se considerarán especialmente aquellas Sociedades entre cuyos socios figuren pescadores locales o ribereños. Estas concesiones no conferirán más derechos que el exclusivo de pescar conforme a lo previsto en la presente Ley y en las condiciones que se establezcan en el correspondiente Plan Técnico.
+
+### Artículo 12
+
+Artículo 12.
+Para poder practicar la pesca en los cotos gestionados directamente por la Consejería de Agricultura, será preciso estar provisto, además de la correspondiente licencia, de un permiso especial, personal e intransferible, cuya expedición o adjudicación se efectuará en la forma que reglamentariamente se establezca.
+
+### Artículo 13
+
+Artículo 13.
+Cuando de las inspecciones que se practiquen en aguas transitoriamente de dominio privado que sean objeto de autorización administrativa de pesca o en cotos objeto de concesión se deduzca que no se cumplen las finalidades de protección, fomento y ordenado aprovechamiento de la pesca, la Consejería de Agricultura, previa incoación del oportuno expediente y los trámites de audiencia preceptivos, podrá anular la autorización en el primer caso y rescindir la concesión en el segundo.
+
+### Artículo 14
+
+Artículo 14.
+El Consejo de Gobierno podrá declarar, a propuesta de la Consejería de Agricultura, Refugios de Pesca en aquellos cursos, tramos de los mismos o masas de agua en que por razones biológicas, científicas o educativas, sea preciso asegurar en ellos la conservación de determinadas especies, subespecies o comunidades de fauna acuática.
+Las condiciones mínimas de calidad del agua, régimen de caudales y entorno físico-biológico que deban mantenerse en los refugios de pesca para su conservación, se comunicarán a los organismos de Cuenca competentes para su consideración e inclusión en los planes hidrológicos.
+En estos refugios el ejercicio de la pesca estará permanentemente prohibido. La Consejería de Agricultura por razones de orden biológico, científico o técnico, podrá autorizar la captura de ejemplares o la reducción de las poblaciones que habiten en ellos.
+
+### Artículo 15
+
+Artículo 15.
+Los cursos y masas de agua en régimen especial y los refugios de pesca deberán estar debidamente señalizados conforme a lo que se determine en el Reglamento de la presente Ley.
+
+## CAPÍTULO II
+
+Clasificación de las especies
+
+### Artículo 16
+
+Artículo 16.
+Para la aplicación de la presente Ley, las especies de la fauna acuática se clasificarán en las siguientes categorías:
+a) Amenazadas: Las incluidas en el Catálogo Nacional de Especies Amenazadas y las que el Consejo de Gobierno declare como tales en el ámbito territorial de Castilla-La Mancha.
+b) De interés preferente: Las consideradas de alto valor deportivo o significado ecológico y sean sensibles a su aprovechamiento. Su declaración corresponde al Consejero de Agricultura.
+c) De carácter invasor: Las alóctonas que puedan alterar el equilibrio del medio acuático o el tamaño de las poblaciones autóctonas.
+d) Otras especies: Las no contempladas en los apartados anteriores.
+Para las especies incluidas en la primera de las categorías citadas, se estará a lo dispuesto en la normativa específica sobre especies amenazadas.
+
+### Artículo 17
+
+Artículo 17.
+1. La Consejería de Agricultura elaborará Planes de Gestión de ámbito regional para la conservación y aprovechamiento de las especies de la fauna acuática de interés preferente. Los planes deberán contener como mínimo una zonificación y clasificación de las corrientes, tramos de las mismas y masas de agua que constituyan hábitat para la especie de que se trate, niveles de protección y criterios para determinar en cada zona las bases de su aprovechamiento.
+2. El contenido de los Planes de Gestión se ajustará a los Planes de Ordenación de Recursos Naturales de la zona, cuando existan.
+3. Las normas para la elaboración, desarrollo y revisión de los Planes de Gestión se establecerán reglamentariamente.
+4. La Consejería de Agricultura dará traslado de los Planes de Gestión a la Administración Hidráulica competente para su inclusión en los Planes Hidrológicos de las cuencas correspondientes, a efectos de determinar las características básicas de calidad exigibles en cada corriente o masa de agua y establecer, en su caso, la reserva para pesca de determinados tramos.
+5. Las Órdenes de Veda y los Planes Técnicos de pesca deberán someterse a los Planes de Gestión.
+
+### Artículo 18
+
+Artículo 18.
+Para las especies de carácter invasor la Consejería de Agricultura podrá establecer las medidas necesarias destinadas a reducir los efectos perjudiciales que ocasionen a la fauna autóctona.
+
+## TÍTULO III
+
+Protección del medio acuático
+
+### Artículo 19
+
+Artículo 19.
+A los efectos de la presente Ley, se entiende por medio acuático los cursos y masas de agua susceptibles de albergar de modo permanente o transitorio especies objeto de pesca.
+
+### Artículo 20
+
+Artículo 20.
+Los concesionarios de aprovechamientos hidráulicos estarán obligados a dejar circular el caudal mínimo necesario para garantizar la evolución natural de las poblaciones de las especies objeto de esta Ley.
+Se levanta la suspensión de la vigencia y aplicación del artículo por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Téngase en cuenta la Sentencia del TC 15/1998, de 22 de enero, que desestima el recurso en relación con este artículo. Ref. BOE-T-1998-4186.
+ Se suspende la vigencia y aplicación del artículo, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 21
+
+Artículo 21.
+1. (Anulado)
+2. Los concesionarios de aprovechamientos hidráulicos en nuevas instalaciones quedan obligados a construir pasos o escalas o a adoptar aquellos medios sustitutivos que disponga la Consejería de Agricultura para evitar los perjuicios que pudieran ocasionar a los recursos de la pesca.
+Se declara que el apartado 1 es contrario al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación del artículo por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación del artículo, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 22
+
+Artículo 22.
+(Anulado)
+Se declara que el artículo es contrario al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación del artículo por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación del artículo, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 23
+
+Artículo 23.
+1. (Anulado)
+2. La Consejería de Agricultura podrá realizar inspecciones de cualquier obra o vertimiento que pueda alterar las condiciones biológicas, físicas o químicas de las aguas, así como la toma de datos, muestras o residuos que considere necesarios para determinar el grado de alteración o contaminación. En cumplimiento de su función, el personal de dicha Consejería podrá visitar las instalaciones y lugares de aprovechamientos de aguas, debiendo los titulares o encargados de las mismas proporcionar la información que se les solicite.
+Se declara que el apartado 1 es contrario al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 1 por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación del apartado 1, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 24
+
+Artículo 24.
+1. A los efectos de protección de los recursos de pesca y sin perjuicio de las competencias que tenga atribuidas la Administración Hidráulica, queda sujeta a autorización de la Consejería de Agricultura cualquier actuación que modifique la composición o estructura de la vegetación de las orillas y márgenes en las zonas de servidumbre de las aguas públicas, embalses, cauces y canales de derivación y riego, así como la extracción de plantas acuáticas.
+2. (Anulado)
+3. En las concesiones que otorgue la Administración Hidráulica para la extracción de áridos y grava en los lechos de los cursos y masas de agua deberá figurar un informe de la Consejería de Agricultura en el que se evaluará la incidencia de estas extracciones sobre los recursos pesqueros y su posible corrección.
+Se declara que el apartado 2 es contrario al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación de los apartados 1 y 2 por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación de los apartados 1 y 2, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 25
+
+Artículo 25.
+Los titulares o concesionarios de agua quedan obligados a colocar y mantener en buen estado de conservación y funcionamiento compuertas de rejilla a la entrada de los cauces o canales de derivación y a la salida de los mismos con la finalidad de impedir el paso de los peces a los cursos de derivación, sean públicos o privados. La Consejería de Agricultura fijará el emplazamiento y características de estas compuertas de rejilla.
+Se levanta la suspensión de la vigencia y aplicación del artículo por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Téngase en cuenta la Sentencia del TC 15/1998, de 22 de enero, que desestima el recurso en relación con este artículo. Ref. BOE-T-1998-4186.
+ Se suspende la vigencia y aplicación del artículo, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 26
+
+Artículo 26.
+Para un mejor desarrollo de los Planes de Gestión a los que hace referencia el artículo 17 de la presente Ley, la Consejería de Agricultura podrá realizar en los cursos, tramos de los mismos y masas de agua, trabajos de restauración del hábitat para las distintas especies objeto de esta Ley, previa autorización, cuando proceda, de la Administración Hidráulica correspondiente.
+
+## TÍTULO IV
+
+Protección, conservación y aprovechamiento de la pesca
+
+### Artículo 27
+
+Artículo 27.
+1. La Consejería de Agricultura, oídos los Consejos Provinciales de Pesca, establecerá anualmente a través de la Orden de Vedas la relación de especies objeto de pesca y sus tallas mínimas de pesca, el número máximo de capturas por pescador para cada especie, las especies comercializables, las épocas hábiles de pesca aplicables a aquéllas y las limitaciones y prohibiciones especiales en los distintos cursos y masas de agua, situado en el ámbito territorial de Castilla-La Mancha. Asimismo, se incluirán las reglamentaciones establecidas en los tramos y masas de agua constituidos como cotos de pesca.
+2. La Consejería de Agricultura podrá establecer moratorias temporales o prohibiciones especiales en los cursos o masas de aguas cuando razones de orden biológico así lo aconsejen. Las medidas que se adopten al respecto deberán ser publicadas en el «Diario Oficial de Castilla-La Mancha».
+
+### Artículo 28
+
+Artículo 28.
+1. Se entenderá por talla de los peces, la distancia existente desde el extremo anterior de la cabeza hasta el punto medio de la parte posterior de la aleta caudal o cola extendida y para el cangrejo la comprendida entre los ojos y el extremo de la cola, estando extendida.
+2. Deberán devolverse inmediatamente al agua todos los ejemplares capturados que no alcancen la talla mínima que reglamentariamente establezca la Consejería de Agricultura para cada especie.
+3. Queda prohibida la posesión, circulación y comercialización de ejemplares que no alcancen la talla mínima establecida, excepto cuando procedan de Centros de acuicultura autorizados.
+
+### Artículo 29
+
+Artículo 29.
+Durante las respectivas épocas de veda queda prohibida la tenencia, transporte y comercio de las correspondientes especies objeto de esta Ley, excepto las que procedan de Centros de acuicultura autorizados y de los cotos de pesca intensivos, siempre que se pueda acreditar su origen mediante la documentación que reglamentariamente se establezca.
+
+### Artículo 30
+
+Artículo 30.
+Para el transporte de peces vivos y cangrejos y sus huevos a cualquier punto del ámbito territorial de Castilla-La Mancha será necesario disponer de una autorización expresa de la Consejería de Agricultura.
+
+### Artículo 31
+
+Artículo 31.
+1. La Consejería de Agricultura hará especial hincapié en los estudios genéticos de las especies autóctonas, con el fin de favorecer el incremento de sus poblaciones y el mantenimiento de su pureza genética.
+Anualmente dicha Consejería establecerá un plan de repoblación piscícola dirigido a la conservación y fomento de la pesca de acuerdo con los planes de gestión.
+2. Las repoblaciones llevadas a cabo por particulares o concesionarios en sus respectivos cotos de pesca deberán contar con autorización de la Consejería de Agricultura y adaptarse al contenido de los Planes Técnicos aprobados por dicha Consejería, siendo por cuenta de aquéllos los gastos originados por estas operaciones.
+
+### Artículo 32
+
+Artículo 32.
+Queda prohibido, salvo modalidades autorizadas por la Consejería competente en materia de pesca fluvial, pescar fuera del período comprendido entre una hora antes de la salida del sol y una hora después de su puesta, y cuando se trate de cangrejos el horario de pesca se fijará a través de la Orden de Vedas anual.
+Se modifica por la disposición final 4.1 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+
+### Artículo 33
+
+Artículo 33.
+1. Cada pescador podrá utilizar un máximo de dos cañas tendidas a una distancia inferior a veinte metros, excepto en aguas trucheras, dónde solo podrá utilizar una caña y podrá auxiliarse en la extracción de las piezas únicamente de ganchos sin arpón o sacaderas. Para la modalidad de carpfishing se podrá autorizar la utilización de tres cañas.
+En aguas trucheras, a requerimiento de quien se encuentre pescando, cualquier otro pescador respetará una distancia mínima de diez metros.
+2. No podrá utilizarse para la pesca ningún instrumento punzante, tales como garras, garfios, tridentes, gamos, grampines, fitoras y arpones.
+Asimismo, se prohíbe el empleo de garlitos, cribas, butrones, esparaveles, remangas, palangres, salbardos, cordelillos, sedales durmientes y artes similares.
+3. Queda prohibido pescar con haces de leña, gavillas y artes similares.
+4. Queda prohibido cualquier procedimiento que implique la construcción de obstáculos, empalizadas o barreras de cualquier material con la finalidad de encauzar las aguas para obligar a los peces a seguir una dirección determinada, así como la alteración de cauces y caudales para facilitar la pesca.
+5. La Consejería de Agricultura podrá autorizar el empleo de redes de uso no prohibido por la Legislación básica estatal en aquellos tramos o masas de agua no habitadas por especies de interés preferente ni amenazadas, donde sea tradicional su empleo, y se compruebe que su práctica no causa daños a las poblaciones de peces ni perturba el ejercicio de la pesca con caña.
+6. Para la pesca de cangrejos sólo se autorizará el empleo de reteles o lamparillas, y en número máximo de diez por pescador, colocados en una extensión cuya longitud máxima no exceda de cien metros.
+7. La Consejería de Agricultura determinará en las Ordenes de Veda los cursos y masas de agua donde no se permita el empleo de embarcaciones para la práctica de la pesca.
+8. Cuando en una masa de agua existan varias especies y de alguna de ellas esté vedada su pesca, la veda se extenderá en esa masa a todas las especies que puedan capturarse con el mismo arte o aparejo que la vedada, salvo autorización expresa de la Consejería de Agricultura.
+Se modifica el apartado 1 por la disposición final 4.2 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+
+### Artículo 34
+
+Artículo 34.
+Se prohíbe en todas las aguas:
+1. Pescar en época de veda.
+2. El empleo de dinamita y demás materiales explosivos.
+3. El empleo de sustancias químicas que al contacto con el agua produzcan explosión.
+4. El empleo de sustancias venenosas para los peces o desoxigenadoras de las aguas, así como de sustancias paralizantes, tranquilizantes, atrayentes o repelentes.
+5. La utilización de aparatos electrocutantes o paralizantes y fuentes luminosas artificiales.
+6. Apalear las aguas, arrojar piedras a las mismas y espantar con cualquier procedimiento a los peces para obligarles a huir en dirección conveniente para su captura.
+7. Pescar a mano o con armas de fuego y golpear las piedras que sirven de refugio a los peces.
+8. (Anulado)
+9. El empleo no autorizado de peces vivos como cebo, así como el cebado de las aguas antes o durante la práctica de la pesca sin autorización.
+10. El empleo de cualquier procedimiento de pesca que, aun siendo lícito, haya sido previamente declarado nocivo o perjudicial en algún río o tramo de río por la Consejería de Agricultura.
+Se declara que el apartado 8 es contrario al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 8 por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación del apartado 8, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Artículo 35
+
+Artículo 35.
+1. En los cauces de derivación, canales de derivación y riego se prohíbe el ejercicio de la pesca con toda clase de artes, excepto en las aguas ciprinícolas, en las que podrá utilizarse la caña y los aparejos anzuelados con flotador.
+2. En las aguas trucheras queda prohibido pescar con caña en los pasos o escalas de peces, así como a una distancia inferior a cincuenta metros de la entrada o salida de los mismos.
+3. En aguas ciprinícolas queda prohibido pescar con red autorizada a menos de cincuenta metros de cualquier presa o azud de derivación, salvo autorización de la Consejería de Agricultura que fijará los tramos que comprende dicha autorización.
+En estas aguas queda prohibida la pesca con caña en las inmediaciones del paso o escalas de peces a distancia inferior a diez metros a cada lado de aquéllos.
+4. Reglamentariamente se establecerán las características de los diques o presas y sus pasos y escalas a que hace referencia los apartados 2 y 3 de este artículo.
+
+### Artículo 36
+
+Artículo 36.
+De precisarse el control de especies de carácter invasor, la Consejería de Agricultura excepcionalmente podrá autorizar el empleo de las artes o técnicas de pesca que resulten más adecuadas en cada caso.
+
+### Artículo 37
+
+Artículo 37.
+1. Se prohíbe el baño y el lavado de objetos de uso doméstico en aquellos tramos de cursos o masas de agua cuando tales actividades resulten perjudiciales para los recursos piscícolas. Dichos lugares deberán estar debidamente señalizados.
+2. Se prohíbe el lavado de vehículos y objetos de uso no doméstico en los cursos o masas de agua cuando tales actividades resulten perjudiciales para los recursos piscícolas.
+3. La Consejería de Agricultura podrá prohibir la permanencia de aves acuáticas en estado de domesticidad en las aguas públicas donde puedan ocasionar daños a la pesca.
+4. Se prohíbe navegar con lanchas o embarcaciones de recreo en aquellas zonas en que se entorpezca notoriamente la práctica de la pesca y estén debidamente señalizadas.
+Se levanta la suspensión de la vigencia y aplicación del apartado 4 por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Téngase en cuenta la Sentencia del TC 15/1998, de 22 de enero, que desestima el recurso en relación con este artículo. Ref. BOE-T-1998-4186.
+ Se suspende la vigencia y aplicación del apartado 4, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+## TÍTULO V
+
+Administración de los recursos de la pesca
+
+### Artículo 38
+
+Artículo 38.
+1. La licencia de pesca es un documento nominal e intransferible cuya tenencia es necesaria para la práctica de la pesca en el ámbito territorial de Castilla-La Mancha.
+2. Para utilizar artes o medios de pesca que precisen de autorización especial será necesario estar en posesión del correspondiente permiso.
+3. La Consejería de Agricultura expedirá las licencias de pesca, cuyo período de validez podrá ser de uno o de cinco años a partir de la fecha de su expedición.
+4. Para la obtención de la licencia, por primera vez, será necesario superar las pruebas de aptitud que se determinen reglamentariamente.
+5. Los peticionarios de licencias de pesca que hubieren sido sancionados ejecutoriamente como infractores de la presente Ley no podrán obtener ni renovar dicha licencia sin acreditar previamente que han cumplido las sanciones impuestas.
+6. En ningún caso se podrán expedir licencias de pesca a quienes no acrediten estar en posesión de los requisitos legalmente exigibles.
+
+### Artículo 39
+
+Artículo 39.
+Toda embarcación empleada en la práctica de la pesca deberá contar con una matrícula y estar inscrita en un registro de la Consejería de Agricultura.
+La matrícula tendrá vigencia de un año a partir de la fecha de su expedición.
+
+### Artículo 40
+
+Artículo 40.
+Las redes, artes y otros medios utilizados para la pesca, a excepción de la caña y de las lamparillas o reteles, deberán ser contrastados previamente mediante la colocación de precintos por la Consejería de Agricultura.
+
+### Artículo 41
+
+Artículo 41.
+Los Consejos de Pesca son órganos de carácter consultivo, vinculados a la Consejería de Agricultura, en los que estarán representados proporcionalmente los sectores afectados en la materia. La composición, cometidos y funcionamiento se regularán por vía reglamentaria.
+En cada provincia se constituirá un Consejo Provincial de Pesca. Podrá, asimismo, constituirse un Consejo Regional, a iniciativa de la Administración o de los Consejos Provinciales.
+
+### Artículo 42
+
+Artículo 42.
+La Consejería de Agricultura podrá declarar colaboradoras a aquellas asociaciones deportivas de pescadores, con sede en la región, de carácter abierto y sin ánimo de lucro, entre cuyos fines estatutarios se incluya la colaboración con la Administración en la conservación, desarrollo y ordenado aprovechamiento de la riqueza piscícola de Castilla-La Mancha y cumplan los demás requisitos que se determinen reglamentariamente.
+
+## TÍTULO VI
+
+Acuicultura y pesca científica
+
+## CAPÍTULO I
+
+Acuicultura
+
+### Artículo 43
+
+Artículo 43.
+1. La explotación industrial de la pesca, entendiéndose por tal la orientada al cultivo intensivo de peces o cangrejos, necesitará autorización previa de la Consejería de Agricultura, y se realizará de acuerdo con el Proyecto de Piscifactoría o Astacifactoría redactado por un técnico competente, en el que se contemplen las obras e instalaciones, especies a cultivar, sistemas de cultivo, así como los posibles impactos que pueda ocasionar en el medio natural.
+Reglamentariamente se establecerán las normas zootécnicosanitarias que deberán cumplir estas explotaciones, así como otro tipo de condiciones necesarias para asegurar el mantenimiento de la calidad del medio acuático.
+2. No se autorizará este tipo de instalaciones en aquellos tramos de cursos de agua de significado valor ecológico para las especies de pesca.
+
+### Artículo 44
+
+Artículo 44.
+Queda prohibida la producción, expedición o venta de productos de acuicultura no incluidos en la autorización correspondiente para cada explotación.
+Se prohíbe asimismo la expedición o venta de huevos para incubación, semen o peces con destino a la reproducción, cría o repoblación, excepto en aquellos Centros de Acuicultura expresamente autorizados por la Consejería de Agricultura.
+
+## CAPÍTULO II
+
+Pesca científica
+
+### Artículo 45
+
+Artículo 45.
+Con fines exclusivamente científicos, la Consejería de Agricultura podrá autorizar la pesca de especies de fauna acuática en cualquier época del año. Dicha autorización, que será personal e intransferible, requerirá un informe previo favorable de una institución científica directamente relacionada con la actividad investigadora del peticionario. En la misma se harán constar los medios autorizados de captura y las limitaciones de tiempo y lugar y demás condiciones que se estimen oportunas.
+
+## TÍTULO VII
+
+Infracciones, sanciones y procedimiento
+
+## CAPÍTULO I
+
+De las infracciones
+
+### Artículo 46
+
+Artículo 46.
+Las acciones u omisiones que infrinjan lo establecido en la presente Ley darán lugar a responsabilidad de naturaleza administrativa, sin perjuicio de la exigible en vía penal o civil.
+
+### Artículo 47
+
+Artículo 47.
+Se considerarán infracciones administrativas:
+a) El incumplimiento de los requisitos, obligaciones o prohibiciones establecidos en la presente Ley.
+b) El incumplimiento de las condiciones impuestas en las concesiones y autorizaciones administrativas a que se refiere esta Ley.
+
+### Artículo 48
+
+Artículo 48.
+A los efectos de la presente ley, las infracciones se clasifican en leves, graves y muy graves.
+1) Son infracciones leves:
+1. Pescar siendo titular de una licencia válida, pero no presentarla cuando sea requerido por personal de guardería o agentes de la autoridad.
+2. Pescar en zonas acotadas, siendo titular del correspondiente permiso, pero no presentarlo cuando le sea requerido por el personal de guardería o agentes de la autoridad.
+3. Pescar con caña en aguas trucheras de forma tal que el pescador o el cebo se sitúen a menos de cincuenta metros de la entrada o salida de los pasos para peces.
+4. Calar reteles para la pesca del cangrejo, ocupando más de cien metros de orilla o colocarlos a menos de diez metros de donde otro pescador los hubiere puesto o los estuviere calando.
+5. Pescar con más de una caña en aguas trucheras, o con más dos cañas a la vez en las restantes, salvo en el caso de autorizaciones para carpfishing que podrán usar tres cañas, así como auxiliarse de medios no autorizados para la extracción de las piezas capturadas.
+6. No restituir a las aguas las piezas cuya captura no se derive de la simple mordedura del cebo, sino de la trabazón del anzuelo en cualquier otra parte del cuerpo del pez.
+7. Pescar desde embarcaciones sin estar provisto de la correspondiente licencia regional de embarcación y aparatos flotantes.
+8. Pescar en aguas en las que existan varias especies que puedan ser capturadas con un mismo arte o aparejo cuando alguna de ellas esté vedada para la pesca, salvo autorización expresa de la Consejería competente en materia de pesca fluvial.
+9. Lavar vehículos u otros objetos en los tramos o masas de agua donde esté prohibido hacerlo, o bañarse donde esté señalizada su prohibición por resultar perjudicial para los recursos pesqueros.
+10. Utilizar las aguas públicas como lugar de estancia de aves acuáticas domésticas, en los casos en que la Consejería competente en materia de pesca fluvial haya notificado a sus propietarios la necesidad de su retirada.
+11. Navegar con lanchas o embarcaciones de recreo en aquellas zonas en que esté prohibido hacerlo por entorpecer notoriamente la pesca.
+12. Pescar en aguas trucheras con caña en cauces de derivación, canales de derivación y riego.
+13. Pescar con caña en las inmediaciones del paso para peces a distancia inferior a diez metros a cada lado de cualquier paso o azud de derivación fuera de las aguas trucheras.
+14. En aguas trucheras, no guardar una distancia mínima de diez metros entre pescadores, previo requerimiento de quien se encontrare pescando.
+15. Pescar con dos cañas situadas a más de veinte metros en aguas no trucheras.
+16. Pescar con red autorizada a menos de cien metros donde estuviese colocada la de otro pescador.
+17. Pescar con redes autorizadas a menos de cincuenta metros de cualquier presa o azud de derivación.
+18. Pescar con redes autorizadas que ocupen más de la mitad de la anchura de la corriente del río.
+19. Emplear redes no revisadas o precintadas legalmente, en aguas en las que el propietario se encuentre autorizado para la pesca con dichas artes.
+20. La tenencia en las proximidades de las aguas de redes o artefactos prohibidos cuando no se justifique su aplicación a menesteres distintos de la pesca.
+21. Pescar cangrejos empleando cada pescador más reteles o lamparillas del número autorizado.
+22. Cebar las aguas con fines de pesca, salvo en aquellos casos en que lo haya autorizado la Consejería competente en materia de pesca fluvial.
+23. Apalear o arrojar piedras a las aguas o golpear los lugares que les sirven de refugio con ánimo de espantar a los peces y facilitar su captura.
+24. No conservar en buen estado las rejillas instaladas con fines de proteger a la riqueza pesquera o quitar los precintos de las mismas.
+25. Entorpecer las servidumbres de paso por las riberas y márgenes establecidas en beneficio de los pescadores.
+26. Incumplir los preceptos contenidos en el artículo 15 de esta ley, respecto a la adecuada señalización de los cursos y masas de agua en régimen especial.
+27. Destruir o cambiar de lugar los signos o carteles que señalicen el régimen pesquero de las aguas.
+2) Son infracciones graves:
+1. Pescar en el interior de los pasos para peces.
+2. No cumplir las condiciones fijadas por la Consejería competente en materia de pesca fluvial para la defensa, conservación y fomento de los recursos pesqueros en los expedientes que hayan adquirido carácter de firmeza.
+3. No colocar rejillas reglamentarias en los canales, acequias y cauces de derivación o desagüe cuando el concesionario deje de cumplir una resolución administrativa firme que así lo disponga.
+4. Pescar teniendo retirada la licencia o estando privado de obtenerla por resolución administrativa firme o por sentencia judicial.
+5. Pescar con red en acequias, canales o cauces de derivación.
+6. Pescar con redes o artefactos que tengan malla, luz o dimensiones que no cumplan las condiciones exigidas.
+7. Pescar en época de veda con caña, reteles o redes de uso autorizado.
+8. Pescar con garlitos, cribas, butrones, esparaveles, remangas, palangres, salbardos, cordelillos, sedales durmientes y demás artes de uso prohibido.
+9. Pescar con instrumentos punzantes, tales como tridentes, arpones, grampines, flechas, fitoras, gamos, garras, garfios, así como utilizar armas de aire comprimido.
+10. Pescar en zonas vedadas o donde está prohibido hacerlo.
+11. Poseer, transportar o comercializar peces o cangrejos en sus respectivas épocas de veda, salvo que procedan de instalaciones de acuicultura debidamente autorizadas o cotos intensivos y se pueda acreditar su origen y sanidad mediante la documentación que reglamentariamente se establezca.
+12. Poseer, transportar o comercializar peces o cangrejos con talla inferior a la establecida en cada caso, sus huevos o gametos, salvo que procedan de instalaciones de acuicultura y se pueda acreditar su origen y sanidad mediante la documentación reglamentaria.
+13. La comercialización de especies procedentes de centros de acuicultura que no vayan provistas de los precintos y certificados de origen que estén establecidos.
+14. Entorpecer el funcionamiento de los pasos para peces.
+15. Colocar sobre las presas tablas u otra clase de materiales con objeto de alterar el nivel de las aguas o su caudal, a menos que se esté autorizado para hacerlo.
+16. Dañar intencionadamente las instalaciones destinadas a la protección y fomento de la pesca.
+17. La obstrucción o falta de colaboración con las autoridades administrativas o sus agentes en sus funciones de inspección y control.
+18. Pescar sin licencia.
+19. Pescar utilizando como cebo peces vivos, salvo en aquellos casos en que medie autorización de la Consejería competente en materia de pesca fluvial.
+20. Pescar auxiliándose de haces de leña, gavillas y artes similares.
+21. Emplear cebos cuyo uso no esté permitido.
+22. Pescar en zonas acotadas sin estar en posesión del permiso reglamentario.
+23. Pescar a mano.
+24. Pescar durante las horas en que esté prohibido hacerlo.
+25. Poseer un número de ejemplares superior al cupo diario máximo fijado para cada especie en el tramo o masa de agua donde se encuentre el pescador, así como continuar pescando una vez alcanzado dicho cupo máximo.
+26. Infringir las prescripciones especiales dictadas al respecto por la Consejería competente en materia de pesca fluvial para determinados tramos y masas de agua.
+27. Arrojar o verter a las aguas basuras o desperdicios, siempre que las mismas puedan causar perjuicios a los recursos pesqueros.
+28. Infringir las normas específicas contenidas en la Orden de Vedas respecto a la pesca.
+29. Negarse a mostrar el contenido de los cestos y morrales o los aparejos empleados para la pesca, cuando les sea requerido para ello por el personal de guardería o agentes de la autoridad.
+30. No restituir inmediatamente a las aguas, vivos y sin manipulación adicional, los peces o cangrejos de dimensiones inferiores a las reglamentarias, o conservarlos en cestas, morrales o al alcance inmediato del pescador en aquellos tramos en los que su cupo de captura sea cero.
+3) Son infracciones muy graves:
+1. La pesca o comercio de especies no declaradas pescables ni comercializables. Cuando se trate de especies amenazadas se estará a lo dispuesto en la legislación específica.
+2. Pescar con redes en las aguas declaradas oficialmente como trucheras.
+3. Pescar haciendo uso de aparatos electrocutantes o paralizantes o haciendo uso de fuentes luminosas artificiales.
+4. El empleo de armas de fuego, dinamita, materiales explosivos o sustancias químicas que al contacto con el agua produzcan explosión.
+5. La utilización de sustancias venenosas o paralizantes para los peces o la incorporación al agua de sustancias atrayentes o repelentes o desoxigenadoras.
+6. Incorporar a las aguas o sus álveos, áridos, arcillas, escombros, limos, residuos industriales o cualquier otra clase de sustancias que produzcan enturbiamiento o que alteren las condiciones hidrobiológicas de las aguas con daño a los recursos pesqueros.
+7. La formación de escombreras en lugares que por su proximidad a las aguas o a sus cauces sean susceptibles de ser arrastradas por estas o lavadas por las de lluvias, con el consiguiente daño para los recursos pesqueros, salvo que tales escombreras tuviesen un carácter provisional, reuniesen las debidas garantías para impedir que se produzcan daños y estuviesen autorizadas por la Administración Hidráulica.
+8. Construir barreras de piedras o de otros materiales, estacadas, empalizadas, atajos, cañeras, cañizales o pesqueras, con fines directos o indirectos de pesca, así como colocar en los cauces artefactos destinados a este fin.
+9. El incumplimiento por los concesionarios de aprovechamiento hidráulicos de lo establecido en el artículo 21.2 de esta ley.
+10. Alterar los cauces, descomponer los pedregales de fondo y destruir la vegetación acuática y la de orillas y márgenes, con daños a la riqueza pesquera, salvo que se cuente con la pertinente autorización o causas de fuerza mayor hayan obligado a ello.
+11. Destruir intencionadamente las instalaciones destinadas a la protección o fomento de la pesca.
+12. No respetar los caudales mínimos a que hace referencia el artículo 20 de la presente ley.
+13. Introducir en las aguas públicas o privadas ejemplares de peces o cangrejos de cualquier especie, sin la preceptiva autorización de la Consejería competente en materia de pesca fluvial.
+14. El comercio de especies que, aun estando declaradas objeto de pesca, no estén declaradas objeto de comercio o sea de comercio prohibido.
+15. El transporte y/o el comercio de huevos de peces o cangrejos sin la autorización expresa de la Consejería competente en materia de pesca fluvial.
+16. Importar o exportar peces, cangrejos o sus huevos sin autorización de la Consejería competente en materia de pesca fluvial, del Ministerio correspondiente, en su caso, o sin cumplir las normas que se dicten al respecto.
+17. La explotación industrial de la pesca sin estar en posesión de la autorización correspondiente.
+18. Construir o poseer vivares o centros de acuicultura sin autorización de la Consejería competente en materia de pesca fluvial.
+Se modifica el apartado 3.15 por el art. 4 de la Ley 2/2018, de 15 de marzo. Ref. BOE-A-2018-6000
+ Se modifica por la disposición final 4.3 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+ Se declara que los apartados 2.18, 3.24 y 4.8 son contrarios al orden constitucional de distribución de competencias por Sentencia del TC 15/1998, de 22 de enero. Ref. BOE-T-1998-4186.
+ Se levanta la suspensión de la vigencia y aplicación de los puntos 18 a 21 del apartado 2; puntos 3, 19 y 24 del apartado 3 y puntos 6 a 11 y 13 del apartado 4 por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Se suspende la vigencia y aplicación de los puntos 18 a 21 del apartado 2; puntos 3, 19 y 24 del apartado 3 y puntos 6 a 11 y 13 del apartado 4 desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+## CAPÍTULO II
+
+De las sanciones
+
+### Artículo 49
+
+Artículo 49.
+1. Las infracciones tipificadas en el artículo anterior podrán ser sancionadas con multas de 100 a 60.000 de euros, de acuerdo con la siguiente escala:
+a) Las infracciones leves con multa de 100 a 500 euros.
+b) Las infracciones graves con multa de 501 a 6.000 euros.
+c) Las infracciones muy graves con multa de 6.001 a 60.000 euros.
+2. El Consejo de Gobierno podrá actualizar el importe de las multas previstas en este artículo teniendo en cuenta las variaciones del índice de precios al consumo.
+3. En el caso de infracciones leves tipificadas en el artículo 48.1.15 al 40 inclusive, graves y muy graves, las sanciones correspondientes llevarán aparejadas la retirada y anulación de la licencia de pesca y la inhabilitación para obtenerla durante el plazo máximo de un año cuando se trate de las infracciones leves citadas, durante el plazo comprendido entre uno y tres años cuando se trate de infracción grave y durante el plazo comprendido entre tres y diez años cuando se trate de infracción muy grave.
+4. En todo caso, sin perjuicio de lo establecido por otras disposiciones legales, las sanciones serán compatibles con el abono, por parte del infractor, de la indemnización correspondiente por los daños y las pérdidas causados a la riqueza ictícola o al medio que la sustenta. Reglamentariamente se establecerá el procedimiento a seguir para el cálculo de estas indemnizaciones.
+5. En el caso de posesión o construcción de Centros o instalaciones de acuicultura sin la debida autorización de la Consejería competente en materia de pesca fluvial, la sanción llevará aparejada la suspensión de las actividades y, en su caso, el cierre definitivo de la instalación si no reuniera las condiciones y requisitos para ser autorizada.
+Se modifica por la disposición final 4.4 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+
+### Artículo 50
+
+Artículo 50.
+Cuando los concesionarios de aprovechamientos hidráulicos obligados por lo establecido en el artículo 21.2 dejasen de darle el debido cumplimiento en el plazo que se les señale por la Consejería de Agricultura, ésta incoará el oportuno expediente sancionador.
+
+### Artículo 51
+
+Artículo 51.
+1. Toda infracción a la presente ley llevará consigo el decomiso de cuantas artes materiales o medios hayan servido para cometerla.
+2. Los medios ilegales empleados para cometer una infracción, quedarán a disposición del instructor del expediente. Una vez dictada resolución firme en sede administrativa o, en su caso, judicial, serán destruidos. No obstante, la consejería competente en materia de pesca podrá conservar aquellos que puedan ser empleados para fines formativos, divulgativos o de educación ambiental.
+3. Los medios legales serán devueltos al infractor en los términos señalados en la resolución del procedimiento sancionador. En el caso de que el propietario de los citados medios legales no proceda a su retirada en el plazo otorgado por la Administración, se procederá a su entrega a entidades sin ánimo de lucro, a su destino a cualquier otra finalidad relacionada con el medio ambiente, o a su destrucción.
+4. No obstante lo dispuesto en el apartado anterior, el instructor podrá autorizar la entrega de las artes decomisadas a la persona denunciada con anterioridad a la resolución del expediente, previo abono, en concepto de fianza, de una cuantía igual al importe mínimo de la sanción que correspondería imponer en virtud de la infracción cometida.
+Se modifica por la disposición final 4.5 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+
+### Artículo 52
+
+Artículo 52.
+1. Si en el momento de producirse la infracción las piezas de pesca ocupadas al infractor tuviesen posibilidades de sobrevivir, éstas serán devueltas al medio acuático.
+2. Si las piezas ocupadas estuvieran muertas o se estimase que no tuvieran posibilidades de sobrevivir, el agente denunciante hará entrega de las mismas a un Centro beneficio o, en su defecto, a la Alcaldía que corresponda, con idéntico fin, recabando en uno u otro caso un recibo de entrega.
+
+### Artículo 53
+
+Artículo 53.
+Para la gradación de la cuantía de las multas se tendrán en cuenta los siguientes criterios:
+a) La intencionalidad.
+b) La trascendencia social y el perjuicio causado a la riqueza piscícola o a su hábitat por la infracción cometida.
+c) El ánimo de lucro y la cuantía del beneficio obtenido en la comisión de la infracción.
+d) La reincidencia. De apreciarse esta circunstancia, el importe de las sanciones consignadas en el artículo 49.1 de la presente Ley podrá incrementarse en un 50 por 100, sin exceder en ningún caso del límite más alto fijado para las infracciones muy graves.
+Existe reincidencia cuando se cometa una infracción del mismo tipo y calificación que la que motivó una sanción anterior en el plazo de los trescientos sesenta y cinco días siguientes a la notificación de ésta; en tal supuesto se requerirá que la resolución sancionadora hubiere adquirido firmeza.
+
+## CAPÍTULO III
+
+Del procedimiento y de la competencia
+
+### Artículo 54
+
+Artículo 54.
+Para imponer las sanciones previstas en la presente Ley será preciso la incoación e instrucción del correspondiente expediente sancionador, de acuerdo con las normas establecidas en la Ley de Procedimiento Administrativo.
+
+### Artículo 55
+
+Artículo 55. Competencia sancionadora.
+El ejercicio de la potestad sancionadora corresponde a los órganos administrativos determinados en el decreto por el que se establece la estructura orgánica y las competencias de la Consejería de Agricultura o a los que se determine en cualquier otra disposición reglamentaria.
+Se modifica por la disposición final 4.6 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+ Se modifica por la disposición final 2 de la Ley 3/2008, de 12 de junio. Ref. BOE-A-2008-13685#dfsegunda.
+
+### Artículo 56
+
+Artículo 56.
+Si al recibir una denuncia o en el transcurso de un expediente el instructor apreciase que la infracción pudiera ser constitutiva de delito o falta, la Administración competente pasará el tanto de culpa al órgano jurisdiccional correspondiente y se abstendrá de proseguir el procedimiento sancionador mientras la autoridad judicial no se haya pronunciado. La sanción de la autoridad judicial excluirá la imposición de sanción administrativa.
+De no haberse estimado la existencia de delito o falta, la Administración podrá continuar el expediente sancionador, con base, en su caso, en los hechos que la jurisdicción competente haya considerado probados.
+
+### Artículo 57
+
+Artículo 57.
+1. Las infracciones previstas en esta ley prescribirán: Las leves en el plazo de un año, las graves en el plazo de tres años y las muy graves en el plazo de cinco años.
+2. Las sanciones previstas en la presente ley prescribirán: Al año las impuestas por infracciones leves, a los tres años las impuestas por infracciones graves, y a los cinco años las impuestas por infracciones muy graves.
+Se modifica por la disposición final 4.7 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dfcuaa.
+
+### Artículo 58
+
+Artículo 58.
+La Consejería de Agricultura creará un Registro de Infractores a la presente Ley de pesca, en el que se detallarán los datos que se determinen reglamentariamente.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En los cursos de agua o tramos de los mismos colindantes con otras Comunidades Autónomas se podrá practicar la pesca con la licencia expedida por la Comunidad Autónoma respectiva, siempre que por parte de ésta exista reciprocidad para los pescadores con licencia expedida por la Comunidad de Castilla-La Mancha.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En los cursos de agua, tramos de curso o masas de agua colindantes con otras Comunidades Autónomas que requieran la elaboración de Planes de Gestión de Pesca y Planes Técnicos de Pesca, éstos se realizarán previo acuerdo con la Comunidad afectada y se ejecutarán en colaboración con la misma.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La Consejería de Agricultura podrá otorgar el título de vigilante jurado de pesca fluvial a las personas que cumplan los requisitos que reglamentariamente se establezcan. Estos vigilantes colaborarán en el cumplimiento de lo dispuesto en esta Ley con los agentes de la guardería de la Consejería de Agricultura y con las Fuerzas de Seguridad del Estado, especialmente en los cotos de pesca objeto de aprovechamiento por concesión administrativa.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+La Consejería de Agricultura contribuirá a la formación de los pescadores mediante la realización de campañas, cursos y cuantas actividades se consideren de interés a tal fin.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los cotos de pesca aprobados con anterioridad a la entrada en vigor de la presente Ley tendrán toda su validez hasta la terminación de período de vigencia establecido en la resolución aprobatoria.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto los Organismos competentes de las cuencas hidrográficas no determinen el caudal mínimo ecológico se entenderá por tal el 10 por 100 de caudal medio anual.
+Se levanta la suspensión de la vigencia y aplicación de la disposición por auto del TC de 23 de marzo de 1993. Ref. BOE-A-1993-8970.
+ Téngase en cuenta la Sentencia del TC 15/1998, de 22 de enero, que desestima el recurso en relación con esta disposición. Ref. BOE-T-1998-4186.
+ Se suspende la vigencia y aplicación de la disposición, desde la fecha de interposición del recurso para las partes en el proceso y desde el 4 de noviembre de 1992 para los terceros, por providencia del TC de 27 de octubre de 1992, que admite a trámite el recurso de inconstitucionalidad nº 2559/1992. Ref. BOE-A-1992-24413.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas en la Comunidad Autónoma de Castilla-La Mancha todas las disposiciones de igual o inferior rango que se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones oportunas en orden al desarrollo de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los dos meses contados a partir de la fecha de su publicación en el «Diario Oficial de Castilla-La Mancha».
+
+Toledo, 7 de mayo de 1992.
+JOSÉ BONO MARTÍNEZ,
+Presidente de la Comunidad Autónoma de Castilla-La Mancha

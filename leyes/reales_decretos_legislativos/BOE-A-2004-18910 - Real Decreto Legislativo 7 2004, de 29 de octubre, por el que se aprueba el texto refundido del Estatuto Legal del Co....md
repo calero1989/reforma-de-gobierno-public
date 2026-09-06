@@ -1,0 +1,452 @@
+# Real Decreto Legislativo 7/2004, de 29 de octubre, por el que se aprueba el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros.
+
+- Identificador BOE: `BOE-A-2004-18910`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2004-18910
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La disposición final primera de la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados, autorizó al Gobierno para que, en el plazo de un año desde su entrada en vigor, elaborase y aprobase un texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros contenido en el artículo cuarto de la Ley 21/1990, de 19 de diciembre, para adaptar el derecho español a la Directiva 88/357/CEE del Consejo, de 22 de junio de 1988, sobre coordinación de las disposiciones legales, reglamentarias y administrativas relativas al seguro directo, distinto del seguro de vida, por la que se establecen las disposiciones destinadas a facilitar el ejercicio efectivo de la libre prestación de servicios y por la que se modifica la Directiva 73/239/CEE, que incluyese las modificaciones introducidas por leyes posteriores. La delegación incluye la facultad de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
+Al cumplimiento del mandato contenido en la disposición final primera de la Ley 34/2003, de 4 de noviembre, obedece este real decreto legislativo por el que se aprueba el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros.
+La Ley 21/1990, de 19 de diciembre, dotó de un nuevo estatuto legal al Consorcio de Compensación de Seguros, que venía exigido por la modificación llevada a cabo por el Real Decreto Legislativo 1255/1986, de 6 junio, en los apartados 2 y 3 del artículo 4 de la Ley 33/1984, de 2 de agosto, sobre ordenación del seguro privado, para adaptarla a los compromisos derivados del Tratado de Adhesión de España a la Comunidad Económica Europea, y que se hacía inexcusable al exigir dicho tratado la pérdida del carácter monopolístico de una de sus principales funciones, cual es la vinculada a los riesgos extraordinarios. Además de perder la exclusividad en la cobertura de los riesgos extraordinarios, el nuevo estatuto legal modificó el régimen jurídico del Consorcio de Compensación de Seguros, que dejó de ser organismo autónomo y pasó a convertirse en sociedad estatal.
+El Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por la Ley 21/1990, de 19 de diciembre, ha experimentado con posterioridad diversas reformas y modificaciones.
+La disposición adicional novena de la Ley 30/1995, de 8 de noviembre, de ordenación y supervisión de los seguros privados, llevó a cabo una profunda reforma del estatuto legal del Consorcio de Compensación de Seguros, modificando diversos de sus preceptos, referentes a la definición de sus fines y atribuciones, la delimitación de sus funciones privadas en relación con el seguro de riesgos extraordinarios y el seguro obligatorio de automóviles, y de sus funciones públicas. También se clarificó el régimen de los recargos a favor del Consorcio y se precisó la separación financiera y contable de las operaciones del Consorcio en los seguros agrarios combinados respecto del resto de operaciones.
+La Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, introdujo también una importante reforma en el estatuto legal del Consorcio de Compensación de Seguros. Tal modificación obedeció a la necesidad de recoger las nuevas funciones del Consorcio de Compensación de Seguros como liquidador de entidades aseguradoras, al haber sido suprimida la Comisión Liquidadora de Entidades Aseguradoras y pasar sus funciones, patrimonio y personal a ser asumidos por el Consorcio, lo que obligó también a modificar determinados aspectos de su régimen patrimonial.
+En relación con el régimen de funcionamiento del Consorcio, la Ley 44/2002, de 22 de noviembre, posibilitó el fraccionamiento de todos los recargos a favor del Consorcio de Compensación de Seguros.
+En el ámbito de la cobertura de riesgos extraordinarios, la Ley 44/2002, de 22 de noviembre, permitió, en los términos y con los límites que reglamentariamente se determinasen, la cobertura de pérdidas de beneficios consecuencia de aquellos. En el ámbito del seguro de responsabilidad civil en la circulación de vehículos a motor de suscripción obligatoria, la Ley 44/2002, de 22 de noviembre, facultó al Consorcio a asumir la cobertura de la responsabilidad civil derivada de la circulación de vehículos a motor superando los límites del seguro obligatorio respecto de los riesgos no aceptados por las entidades aseguradoras.
+Por otra parte, la citada ley incorporó al derecho interno la Directiva 2000/26/CE del Parlamento Europeo y del Consejo, de 26 de mayo de 2000, relativa a la aproximación de las legislaciones de los Estados miembros sobre el seguro de la responsabilidad civil de la circulación de vehículos automóviles (Cuarta Directiva sobre el seguro de automóviles), incorporación que requirió la modificación, entre otras normas, del estatuto legal del Consorcio de Compensación de Seguros, con el fin de facultarle a que, para el adecuado ejercicio de sus funciones como organismo de información, pudiera celebrar convenios con las instituciones relacionadas con los seguros obligatorios.
+La Ley 22/2003, de 9 de julio, Concursal, ha venido a introducir modificaciones en el estatuto legal del Consorcio de Compensación de Seguros con el fin de adaptar la redacción de determinados preceptos a la nueva regulación en materia concursal, y ello con independencia de que, conforme a su disposición adicional segunda, en los concursos de entidades aseguradoras se apliquen las especialidades que para las situaciones concursales se hallen establecidas en su legislación específica, excepto las relativas a la administración concursal. A estos efectos, la precitada disposición adicional considera legislación especial, por lo que a las entidades aseguradoras se refiere, la Ley 30/1995, de 8 de noviembre, de ordenación y supervisión de los seguros privados (artículos 25 a 28, 35 a 39 y 59), y la Ley 21/1990, de 19 de diciembre, para adaptar el derecho español a la Directiva 88/357/CEE, sobre libertad de servicios en seguros distintos al de vida y de actualización de la legislación de seguros privados (artículo cuarto).
+Más recientemente, la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados, ha vuelto a incidir en el estatuto legal del Consorcio, modificándolo al objeto de permitir la indemnización por el Consorcio de los daños personales producidos como consecuencia de acontecimientos extraordinarios acaecidos en el extranjero cuando el tomador de la póliza tenga su residencia habitual en España. Además, la disposición adicional segunda de dicha ley establece, con el rango normativo adecuado y de acuerdo con la naturaleza tributaria del recargo a favor del Consorcio destinado a financiar las funciones de liquidación de entidades aseguradoras, el recargo por fraccionamiento que debe aplicarse.
+Junto a las reformas anteriormente citadas, han de considerarse otras normas que han modificado el marco jurídico en el que se desenvuelve el Consorcio de Compensación de Seguros. En este sentido, ha de aludirse a la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, por la que se actualizó la normativa dedicada a la tradicionalmente denominada "Administración institucional del Estado", optándose por una denominación genérica, "organismos públicos", que agrupa a todas las entidades de derecho público dependientes o vinculadas a la Administración General del Estado y distinguiendo dos modelos básicos: organismos autónomos y entidades públicas empresariales. De modo que este nuevo marco jurídico ha de tener reflejo en el estatuto legal del Consorcio, en el que se recoge, de acuerdo con aquel, su encuadramiento en la categoría de entidad pública empresarial.
+Igualmente, el texto refundido del Estatuto Legal que se aprueba se adecua al texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio, a la nueva Ley 47/2003, de 26 de noviembre, General Presupuestaria, y a la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+Este real decreto legislativo consta de un artículo único por el que se aprueba el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros, una disposición adicional, una disposición derogatoria y una disposición final que fija la entrada en vigor de la norma.
+El texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros que se aprueba mantiene la estructura y sistemática del estatuto aprobado por la Ley 21/1990, de 19 de diciembre, cuya parte dispositiva se organiza en un total de cinco capítulos. El primero de ellos contiene una serie de disposiciones generales a través de las que se regula la naturaleza, el régimen jurídico y los fines del Consorcio; los restantes capítulos se refieren a la organización, a las funciones, al régimen de funcionamiento y al régimen de personal y económico-financiero, respectivamente. Se mantiene dentro de cada capítulo la misma división en secciones que en el texto original del estatuto legal. El estatuto legal se completa con una disposición adicional y dos disposiciones finales.
+En su virtud, a propuesta del Ministro de Economía y Hacienda y del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de octubre de 2004,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único. Aprobación del texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros.
+Se aprueba el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros, que se inserta a continuación.
+
+### Disposición adicional única
+
+Disposición adicional única. Remisiones normativas.
+Las referencias normativas efectuadas en otras disposiciones al Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el artículo cuarto de la Ley 21/1990, de 19 de diciembre, para adaptar el derecho español a la Directiva 88/357/CEE, sobre libertad de servicios en seguros distintos al de vida y de actualización de la legislación de seguros privados, se entenderán efectuadas a los preceptos correspondientes del texto refundido que se aprueba.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas derogadas.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros que se aprueba y, en particular:
+a) De la Ley 21/1990, de 19 de diciembre, para adaptar el derecho español a la Directiva 88/357/CEE, sobre libertad de servicios en seguros distintos al de vida y de actualización de la legislación de seguros privados, su artículo cuarto, su disposición adicional segunda, su disposición adicional cuarta y el apartado uno de su disposición transitoria primera.
+b) De la Ley 30/1995, de 8 de noviembre, de ordenación y supervisión de los seguros privados, su disposición adicional novena, "Modificaciones en el Estatuto Legal del Consorcio de Compensación de Seguros".
+c) De la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, el apartado tercero de su artículo 11 y su artículo 34.
+d) (Derogada)
+Téngase en cuenta que la letra d) se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.b) del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
+ Redacción anterior:
+ d) De la Ley 22/2003, de 9 de julio, Concursal, su disposición final vigésima sexta, "Reforma del Estatuto Legal del Consorcio de Compensación de Seguros".
+e) De la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados, su artículo cuarto y su disposición adicional segunda, "Fraccionamiento del recargo destinado a financiar las funciones de liquidación de entidades aseguradoras por el Consorcio de Compensación de Seguros".
+2. Se declaran vigentes las siguientes disposiciones:
+a) De la Ley 21/1990, de 19 de diciembre, para adaptar el derecho español a la Directiva 88/357/CEE, sobre libertad de servicios en seguros distintos al de vida y de actualización de la legislación de seguros privados:
+1.º Su disposición adicional tercera, por la que se modifica la Ley 25/1964, de 29 de abril, reguladora de la energía nuclear.
+2.º Su disposición adicional séptima, relativa a la subrogación por parte de la Administración del Estado como reaseguradora en el lugar del Consorcio de Compensación de Seguros en los contratos para la cobertura de los riesgos comerciales en el seguro de crédito a la exportación, en los que este último sea reasegurador de "Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima".
+b) De la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, la disposición transitoria tercera, "Régimen transitorio de la Comisión Liquidadora de Entidades Aseguradoras".
+Se deroga la letra d) del apartado 1, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.b) del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente real decreto legislativo y el texto refundido que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 29 de octubre de 2004.
+JUAN CARLOS R.
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## TEXTO
+
+TEXTO REFUNDIDO DEL ESTATUTO LEGAL DEL CONSORCIO DE COMPENSACIÓN DE SEGUROS
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza jurídica del Consorcio de Compensación de Seguros.
+1. El Consorcio de Compensación de Seguros (en adelante, el Consorcio) se constituye como una entidad pública empresarial de las previstas en el artículo 43.1.b) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines, dotada de patrimonio distinto al del Estado, que ajustará su actividad al ordenamiento jurídico privado.
+2. El Consorcio está adscrito al Ministerio de Economía y Hacienda.
+
+### Artículo 2
+
+Artículo 2. Régimen jurídico.
+1. El Consorcio se regirá por las disposiciones contenidas en este estatuto legal y, en lo que no se oponga a él, por las que expresamente la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, dedica en el capítulo III de su título III a las entidades públicas empresariales, así como las demás previstas para tales entidades en la legislación vigente.
+2. Quedará sometido, en el ejercicio de su actividad aseguradora y, en defecto de reglas especiales contenidas en este estatuto legal, a lo dispuesto en el texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, y en la Ley 50/1980, de 8 de octubre, de contrato de seguro.
+3. La contratación del Consorcio se rige por el derecho privado, salvo lo previsto para las entidades de derecho público en el artículo 2 del texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto Legislativo 2/2000, de 16 de junio.
+
+### Artículo 3
+
+Artículo 3. Fines.
+1. El Consorcio, como organismo inspirado en el principio de compensación, tiene como fin cubrir los riesgos en los seguros que se determinan en este estatuto legal, con la amplitud que en él se fija o pueda hacerse en disposiciones específicas con rango de ley.
+Para el adecuado cumplimiento de los fines citados, el Consorcio podrá celebrar pactos de coaseguro, así como ceder o retroceder en reaseguro parte de los riesgos asumidos a entidades aseguradoras españolas o extranjeras que están autorizadas para realizar operaciones de esta naturaleza. Asimismo, podrá aceptar en reaseguro en el seguro de riesgos nucleares y en el seguro agrario combinado en los términos previstos en este estatuto legal.
+2. Fuera de los supuestos a que se refiere el apartado 1, el Consorcio podrá asumir la cobertura concertando pactos de coaseguro o aceptando en reaseguro en aquellos supuestos en que concurran razones de interés público que lo aconsejen, atendiendo la situación y circunstancias del mercado asegurador.
+3. Son funciones públicas del Consorcio las concernientes a la exigibilidad de los recargos a favor del Consorcio, las que le atribuye la legislación reguladora del seguro de crédito a la exportación por cuenta del Estado y las que le confiere el artículo 16.
+4. Corresponderá al Consorcio llevar a cabo la liquidación de las entidades aseguradoras que le sea encomendada en los supuestos previstos en este estatuto legal y en la legislación sobre ordenación y supervisión de los seguros privados, así como el ejercicio de las funciones que en el seno de los procedimientos concursales a que puedan verse sometidas las mismas entidades se le atribuyen en dichas normas.
+
+## CAPÍTULO II
+
+Organización
+
+### Artículo 4
+
+Artículo 4. Órganos de gobierno y administración.
+1. El Consorcio será regido y administrado por un Consejo de Administración compuesto por el Presidente del Consorcio y un máximo de 18 vocales.
+2. La presidencia del Consorcio será desempeñada por el Director General de Seguros y Fondos de Pensiones.
+3. El nombramiento y cese de los vocales se realizará por el Ministro de Economía y Hacienda.
+
+### Artículo 5
+
+Artículo 5. Atribuciones.
+1. Son atribuciones del Consejo de Administración:
+a) Aprobar el estatuto orgánico del Consorcio y sus modificaciones.
+b) Elaborar el programa de actuación plurianual y el presupuesto de explotación y capital, en los términos de los artículos 64 y 65 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+c) Aprobar las cuentas anuales del Consorcio.
+d) Proponer a la Dirección General de Seguros y Fondos de Pensiones la aprobación de la comisión de cobro que deba abonarse por la recaudación de los recargos por cuenta del Consorcio dentro de los límites establecidos en este estatuto legal.
+e) Proponer cuantas medidas, planes y programas sean convenientes para un mejor desarrollo de la actividad del Consorcio. Y, en general, decidir sobre todas aquellas cuestiones que el Presidente someta a su consideración.
+f) Contraer crédito y emitir deuda en los términos de este estatuto legal y demás disposiciones aplicables a las entidades públicas empresariales.
+g) Aprobar los modelos de pólizas, tarifas de primas y bases técnicas que deba utilizar el Consorcio.
+h) Prestar, por mayoría de dos tercios de sus componentes, el consentimiento en la contratación, como coasegurador o aceptando en reaseguro, de la cobertura de los riesgos a que se refiere el artículo 3.2 en todos los supuestos distintos a los expresamente regulados en los artículos 6 a 11, ambos inclusive.
+i) El ejercicio de las funciones previstas en el artículo 14, que podrán ser delegadas en la forma que se prevea en el estatuto orgánico del Consorcio previa autorización del Director General de Seguros y Fondos de Pensiones.
+2. Competen a la presidencia las funciones del Consorcio que no atribuye expresamente al Consejo de Administración el apartado precedente.
+El Presidente podrá otorgar poderes para el ejercicio de las atribuciones que le competen, con el objeto de lograr una mayor eficacia del Consorcio.
+3. En cuanto no venga dispuesto en este estatuto legal y en las normas que sean de aplicación, el estatuto orgánico determinará la estructura del Consorcio y su régimen de funcionamiento interno.
+
+## CAPÍTULO III
+
+Funciones
+
+## Sección 1
+
+Sección 1.ª Funciones privadas en el ámbito asegurador
+
+### Artículo 6
+
+Artículo 6. En relación con los riesgos extraordinarios sobre las personas y los bienes.
+1. El Consorcio, en materia de riesgos extraordinarios, tendrá por objeto indemnizar, en la forma establecida en este Estatuto Legal, en régimen de compensación, las pérdidas derivadas de acontecimientos extraordinarios acaecidos en España y que afecten a riesgos en ella situados.
+Igualmente, serán indemnizables por el Consorcio los daños personales derivados de acontecimientos extraordinarios acaecidos en el extranjero cuando el asegurado de la póliza tenga su residencia habitual en España.
+A estos efectos, serán pérdidas los daños directos en las personas y en los bienes, así como, en los términos y con los límites que reglamentariamente se determinen, las pérdidas pecuniarias como consecuencia de aquéllos. Se entenderán, igualmente en los términos que reglamentariamente se determinen, por acontecimientos extraordinarios:
+a) Los siguientes fenómenos de la naturaleza: terremotos y maremotos, las inundaciones extraordinarias, las erupciones volcánicas, la tempestad ciclónica atípica y las caídas de cuerpos siderales y aerolitos.
+b) Los ocasionados violentamente como consecuencia de terrorismo, rebelión, sedición, motín y tumulto popular.
+c) Hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad en tiempo de paz.
+Téngase en cuenta que esta actualización del apartado 1 establecida por la disposición final 8.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción aterior:
+ "1. El Consorcio, en materia de riesgos extraordinarios, tendrá por objeto indemnizar, en la forma establecida en este Estatuto Legal, en régimen de compensación, las pérdidas derivadas de acontecimientos extraordinarios acaecidos en España y que afecten a riesgos en ella situados.
+ Igualmente, serán indemnizables por el Consorcio los daños personales derivados de acontecimientos extraordinarios acaecidos en el extranjero cuando el asegurado de la póliza tenga su residencia habitual en España.
+ A estos efectos, serán pérdidas los daños directos en las personas y los bienes, así como, en los términos y con los límites que reglamentariamente se determinen, la pérdida de beneficios como consecuencia de aquéllos. Se entenderá, igualmente en los términos que reglamentariamente se determinen, por acontecimientos extraordinarios:
+ a) Los siguientes fenómenos de la naturaleza: terremotos y maremotos, las inundaciones extraordinarias, las erupciones volcánicas, la tempestad ciclónica atípica y las caídas de cuerpos siderales y aerolitos.
+ b) Los ocasionados violentamente como consecuencia de terrorismo, rebelión, sedición, motín y tumulto popular.
+ c) Hechos o actuaciones de las Fuerzas Armadas o de las Fuerzas y Cuerpos de Seguridad en tiempo de paz."
+2. A los efectos exclusivamente de la cobertura del Consorcio, se entenderá por riesgos situados en España los que afecten a:
+a) Los vehículos con matrícula española.
+b) Los bienes inmuebles situados en el territorio nacional.
+c) Los bienes muebles que se encuentren en un inmueble situado en España, estén o no cubiertos por la misma póliza de seguro, excepto aquellos que se encuentren en tránsito comercial.
+d) En el caso de seguros de personas, cuando el asegurado tenga su residencia habitual en España.
+e) En los demás casos, cuando el tomador del seguro tenga su residencia habitual en España o, si fuera una persona jurídica, tenga en España su domicilio social o la sucursal a que se refiere el contrato.
+3. No serán indemnizables por el Consorcio los daños o siniestros siguientes:
+a) Los que no den lugar a indemnización según la Ley 50/1980, de 8 de octubre, de contrato de seguro.
+b) Los ocasionados en personas o bienes asegurados por contrato de seguro distinto a aquellos en que es obligatorio el recargo a favor del Consorcio.
+c) Los debidos a vicio o defecto propio de la cosa asegurada.
+d) Los producidos por conflictos armados, aunque no haya precedido la declaración oficial de guerra.
+e) Los que por su magnitud y gravedad sean calificados por el Gobierno como "catástrofe o calamidad nacional".
+f) Los derivados de la energía nuclear.
+g) Los debidos a la mera acción del tiempo o los agentes atmosféricos distintos a los fenómenos de la naturaleza señalados en el apartado 1.
+h) Los causados por actuaciones producidas en el curso de reuniones y manifestaciones llevadas a cabo conforme a lo dispuesto en la Ley Orgánica 9/1983, de 15 de julio, reguladora del Derecho de Reunión, así como durante el transcurso de huelgas legales, salvo que las citadas actuaciones pudieran ser calificadas como acontecimientos extraordinarios conforme al apartado 1.
+i) Los indirectos o pérdidas de cualquier clase derivados de daños directos o indirectos, distintos de la pérdida de beneficios que se delimite reglamentariamente.
+Se modifica el apartado 1 por la disposición final 8.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+ Se modifican los apartados 1 y 2 por el art. 1.1 de la Ley 12/2006, de 16 de mayo. Ref. BOE-A-2006-8637
+
+### Artículo 7
+
+Artículo 7. Ramos de seguro con recargo obligatorio a favor del Consorcio para el ejercicio de sus funciones en acontecimientos extraordinarios.
+Para el cumplimiento por el Consorcio de sus funciones en materia de compensación de pérdidas derivadas de acontecimientos extraordinarios, es obligatorio el recargo en su favor en los siguientes ramos:
+a) Por lo que se refiere a los seguros de personas, el ramo de vida, en los contratos que garanticen exclusiva o principalmente el riesgo de fallecimiento, incluidos los que prevean, además, indemnizaciones pecuniarias por invalidez permanente o incapacidad temporal, en los términos y modalidades que reglamentariamente se determinen; y el ramo de accidentes, en los contratos que garanticen el riesgo de fallecimiento o prevean indemnizaciones pecuniarias por invalidez permanente o incapacidad temporal.
+b) Por lo que se refiere a seguros de cosas, los ramos de vehículos terrestres, vehículos ferroviarios, incendio y elementos naturales, otros daños a los bienes, y pérdidas pecuniarias diversas, así como las modalidades combinadas de éstos, o cuando se contraten de forma complementaria. También en el ramo de responsabilidad civil en vehículos terrestres automóviles.
+No obstante, será obligatorio un único recargo en el ramo de responsabilidad civil de vehículos terrestres automóviles, si además de la cobertura de seguro de responsabilidad civil de suscripción obligatoria del automóvil se hubiera contratado con carácter voluntario un seguro de responsabilidad civil o un seguro de daños en relación con el mismo vehículo a motor.
+Se entienden incluidas, en todo caso, e igualmente en los términos que reglamentariamente se determinen, las pólizas de vida o accidentes que cubran los riesgos antes citados amparados en un plan de pensiones formulado conforme al Texto Refundido de la Ley de regulación de los planes y fondos de pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre, así como las pólizas que cubran daños a las instalaciones nucleares.
+Quedan excluidas, en todo caso, las pólizas que cubran producciones agropecuarias susceptibles de aseguramiento a través del sistema de los seguros agrarios combinados, por encontrarse previstas en los planes que anualmente aprueba el Gobierno, así como las pólizas que cubran los riesgos derivados del transporte de mercancías, de la construcción y montaje, y cualesquiera otras pólizas de ramos de seguros distintos a los enumerados en las letras a) y b).
+Se modifica la letra b) por la disposición final 8.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+ Se modifica por el art. 1.2 de la Ley 12/2006, de 16 de mayo. Ref. BOE-A-2006-8637
+ Téngase en cuenta para su entrada en vigor la disposición final 3.
+
+### Artículo 8
+
+Artículo 8. Derechos y obligaciones del Consorcio en el seguro de riesgos extraordinarios.
+1. El Consorcio estará obligado a satisfacer las indemnizaciones derivadas de siniestros producidos por acontecimientos extraordinarios a los asegurados que hayan satisfecho los correspondientes recargos en favor de aquel y se encuentren en alguna de las situaciones siguientes:
+a) Que el riesgo extraordinario cubierto por el Consorcio no esté amparado por póliza de seguro.
+b) Que, aun estando amparado por póliza de seguro, las obligaciones de la entidad aseguradora no pudieran ser cumplidas por haber sido declarada judicialmente en concurso o que, hallándose en una situación de insolvencia, estuviese sujeta a un procedimiento de liquidación intervenida o esta hubiera sido asumida por el propio Consorcio.
+2. La obligación del Consorcio amparará necesaria y exclusivamente a las mismas personas o bienes y por las mismas sumas aseguradas que se hayan establecido en las pólizas de seguro, sin perjuicio de lo que reglamentariamente se establezca en relación con los daños a vehículos de motor y con los pactos de inclusión facultativa en las pólizas.
+Esta obligación se limitará a las indemnizaciones que proceda abonar conforme a la ley española de contrato de seguro.
+3. En todas las pólizas incluidas en el artículo anterior figurará una cláusula de cobertura por el Consorcio de los riesgos extraordinarios, en la que se hará referencia expresa a la facultad para el tomador del seguro de cubrir dichos riesgos con aseguradores que reúnan las condiciones exigidas por la legislación vigente. Dicha cláusula será aprobada por la Dirección General de Seguros y Fondos de Pensiones, a propuesta del Consorcio, y se publicará en el "Boletín Oficial del Estado"
+4. Reglamentariamente, para los casos y en las condiciones que se determinen, podrá establecerse un período de carencia.
+5. En los seguros contra daños y responsabilidad civil en vehículos terrestres automóviles, el Ministerio de Economía y Competitividad, a propuesta del Consorcio, podrá fijar una franquicia a cargo del asegurado para los supuestos en que el Consorcio tenga obligación de indemnizar.
+Téngase en cuenta que esta actualización del apartado 5 establecida por la disposición final 8.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+ Redacción anterior:
+ "5. En los seguros contra daños, el Ministro de Economía y Hacienda, a propuesta del Consorcio, podrá fijar una franquicia a cargo del asegurado para los supuestos en que el Consorcio tenga la obligación de indemnizar."
+Se modifica el apartado 5 por la disposición final 8.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+
+### Artículo 9
+
+Artículo 9. En relación con el seguro de riesgos nucleares.
+1. El Consorcio asumirá la cobertura de los riesgos que resulten asegurables por las entidades aseguradoras de la responsabilidad civil por accidentes nucleares causados por sustancias nucleares, o por accidentes en los que se produzca la liberación de radiaciones ionizantes en los que intervengan materiales radiactivos que no sean sustancias nucleares, del siguiente modo:
+a) En el caso de que no se alcanzara por el conjunto de las entidades aseguradoras el límite mínimo de responsabilidad previsto en la Ley sobre responsabilidad civil por daños nucleares o producidos por materiales radiactivos, el Consorcio participará en la cobertura asumiendo la diferencia restante hasta dicho límite.
+b) Actuará como reasegurador en la forma y cuantía que se determine por el Ministerio de Economía y Hacienda.
+2. A los efectos de este estatuto legal, se entiende por accidente nuclear el definido como tal en el artículo 3.1.a) de la Ley sobre responsabilidad civil por daños nucleares o producidos por materiales radiactivos.
+Se modifica por la disposición final 2 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
+ Esta modificación entrará en vigor en la fecha en que entre en vigor en España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según establece la disposición final 7.
+
+### Artículo 10
+
+Artículo 10. En relación con el seguro agrario combinado.
+1. El Consorcio asumirá la cobertura del riesgo en el seguro agrario combinado, en la forma y cuantía que determine el Ministerio de Economía y Hacienda, en los siguientes supuestos:
+a) En el caso de que no se alcanzara por el conjunto de las entidades aseguradoras, la totalidad de la cobertura prevista en la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados.
+b) Actuando como reasegurador.
+2. El Consorcio asumirá la cobertura del riesgo de incendios forestales en los términos de su legislación específica.
+3. En todo caso, corresponderá al Consorcio el ejercicio del control de las peritaciones de los siniestros.
+
+### Artículo 11
+
+Artículo 11. En relación con el seguro de responsabilidad civil en la circulación de vehículos a motor de suscripción obligatoria.
+1. El Consorcio asumirá, exclusivamente dentro de los límites indemnizatorios fijados para el seguro de responsabilidad civil en la circulación de vehículos a motor de suscripción obligatoria, las siguientes funciones:
+a) La contratación de cobertura de las obligaciones derivadas de la responsabilidad civil del Estado, comunidades autónomas, corporaciones locales y organismos públicos dependientes de o vinculados a cualquiera de ellos cuando, en todos los casos, soliciten concertar este seguro con el Consorcio.
+b) La contratación de la cobertura de los riesgos no aceptados por las entidades aseguradoras.
+2. No obstante lo dispuesto en el apartado anterior, el Consorcio podrá asumir la cobertura de la responsabilidad civil en la circulación de vehículos a motor, superando los límites del seguro obligatorio, respecto de los vehículos asegurados descritos en el apartado 1. Para los supuestos previstos en el párrafo b), se exigirán los mismos requisitos que reglamentariamente se establezcan en relación con el seguro obligatorio.
+3. También corresponden al Consorcio las funciones que le encomienda el artículo 11 del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, en las condiciones previstas en dicha ley y hasta los límites del aseguramiento obligatorio.
+
+### Artículo 12
+
+Artículo 12. En relación con el seguro obligatorio de viajeros.
+(Suprimido)
+Se suprime por el art. 1.1 de la Ley 6/2009, de 3 de julio. Ref. BOE-A-2009-11027
+
+### Artículo 13
+
+Artículo 13. En relación con el seguro obligatorio de responsabilidad civil del cazador.
+(Suprimido)
+Se suprime por el art. 1.1 de la Ley 6/2009, de 3 de julio. Ref. BOE-A-2009-11027
+
+### Artículo 14
+
+Artículo 14. En relación con la liquidación de entidades aseguradoras.
+1. El Consorcio asumirá la condición de liquidador de las entidades aseguradoras españolas señaladas en el artículo 27.1 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras, sujetas a la competencia de ejecución del Estado o de las Comunidades Autónomas, cuando le encomiende su liquidación el Ministro de Economía y Competitividad o el órgano competente de la respectiva Comunidad Autónoma.
+Podrá serle encomendada la liquidación en los siguientes supuestos:
+a) Simultáneamente a la disolución de la entidad aseguradora si se hubiera procedido a ella administrativamente.
+b) Si, disuelta una entidad, esta no hubiese procedido al nombramiento de los liquidadores antes de los quince días siguientes a la disolución, o cuando el nombramiento dentro de ese plazo lo fuese sin cumplir los requisitos legales y estatutarios.
+c) Cuando los liquidadores incumplan las normas que para la protección de los asegurados se establecen en la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras, las que rigen la liquidación o la dificulten. También cuando, por retrasarse la liquidación o por concurrir circunstancias que así lo aconsejen, la Administración entienda que la liquidación debe encomendarse al Consorcio. En el caso de que la liquidación sea intervenida, la encomienda al Consorcio se acordará previo informe del interventor.
+d) Mediante aceptación de la petición de la propia entidad aseguradora, si se apreciara causa justificada.
+2. Corresponden al Consorcio, en los términos previstos en la legislación concursal, la condición y funciones propias de la administración concursal en los procedimientos de concurso a que se encuentre sometida cualquier entidad aseguradora, y ello sin que sea necesaria la aceptación del cargo. Su actuación en dichos procedimientos no será retribuida.
+El Consorcio deberá comunicar al juzgado la identidad de la persona física que haya de representarle en el ejercicio de su cargo, a la que resultarán de aplicación las normas contenidas en el artículo 28 de la Ley 22/2003, de 9 de julio, Concursal, con las excepciones que en él se establecen.
+Además ejercerá las funciones de mediador concursal cuando así lo solicite una entidad aseguradora conforme a lo dispuesto en el artículo 5 bis de la Ley 22/2003, de 9 de julio, Concursal.
+3. En su caso, lleva a efecto la liquidación separada de los bienes a que se refiere el artículo 175 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras.
+4. En los términos que reglamentariamente se determinen y previo acuerdo de la Dirección General de Seguros y Fondos de Pensiones, el Consorcio podrá llevar a cabo actividades de información a los acreedores por contrato de seguro en relación con los procesos de liquidación de una entidad aseguradora domiciliada en otro Estado miembro de la Unión Europea en lo que afecte exclusivamente a los contratos de seguro que dicha entidad hubiera celebrado en España en régimen de derecho de establecimiento o en libre prestación de servicios.
+El Consorcio podrá suscribir convenios con los órganos administrativos o judiciales a los que, con arreglo a la normativa del Estado miembro de origen, se hubiese encomendado la liquidación de la entidad, con la finalidad de facilitar a los acreedores por contrato de seguro residentes en España la presentación y tramitación de sus reclamaciones ante los órganos de liquidación.
+La realización de las actividades señaladas en este apartado no implicará la asunción por el Consorcio de funciones de liquidación de entidades aseguradoras de otros Estados miembros de la Unión Europea ni de sus sucursales en España, ni, por tanto, conllevará la realización de pagos por razón de contrato de seguro ni anticipos a cuenta de dichos pagos, no resultando de aplicación, en ningún caso, lo dispuesto en los artículos 179 a 185 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras.
+Téngase en cuenta que esta última actualización establecida por la disposición final 8.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+ Redacción anterior:
+ "Artículo 14. En relación con la liquidación de entidades aseguradoras.
+ 1. El Consorcio asumirá la condición de liquidador de las entidades aseguradoras enumeradas en el artículo 7.1 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, sujetas a la competencia de ejecución del Estado o de las comunidades autónomas, cuando le encomiende su liquidación el Ministro de Economía y Hacienda o el órgano competente de la respectiva comunidad autónoma.
+ Podrá serle encomendada la liquidación en los siguientes supuestos:
+ a) Simultáneamente a la disolución de la entidad aseguradora si se hubiera procedido a ella administrativamente.
+ b) Si, disuelta una entidad, esta no hubiese procedido al nombramiento de los liquidadores antes de los 15 días siguientes a la disolución, o cuando el nombramiento dentro de ese plazo lo fuese sin cumplir los requisitos legales y estatutarios.
+ c) Cuando los liquidadores incumplan las normas que para la protección de los asegurados se establecen en el texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, las que rigen la liquidación o la dificulten. También cuando, por retrasarse la liquidación o por concurrir circunstancias que así lo aconsejen, la Administración entienda que la liquidación debe encomendarse al Consorcio. En el caso de que la liquidación sea intervenida, la encomienda al Consorcio se acordará previo informe del interventor.
+ d) Mediante aceptación de la petición de la propia entidad aseguradora, si se apreciara causa justificada.
+ 2. Corresponden al Consorcio, en los términos previstos en la legislación concursal, la condición y funciones propias de la administración concursal en los procedimientos de concurso a que se encuentre sometida cualquier entidad aseguradora, y ello sin que sea necesaria la aceptación del cargo. Su actuación en dichos procedimientos no será retribuida.
+ El Consorcio deberá comunicar al juzgado la identidad de la persona física que haya de representarle en el ejercicio de su cargo, a la que resultarán de aplicación las normas contenidas en el artículo 28 de la Ley 22/2003, de 9 de julio, Concursal, con las excepciones que en él se establecen.
+ 3. En su caso, lleva a efecto la liquidación separada de los bienes a que se refiere el artículo 59 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre."
+Se modifica por la disposición final 8.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+
+## Sección 2
+
+Sección 2.ª Funciones públicas
+
+### Artículo 15
+
+Artículo 15. En relación con el seguro de crédito a la exportación.
+El Gobierno determinará las funciones que, en su caso, correspondan al Consorcio en el seguro de crédito a la exportación por cuenta del Estado.
+
+### Artículo 16
+
+Artículo 16. Otras funciones públicas.
+Corresponden, además, al Consorcio las siguientes funciones:
+a) Proponer a la Dirección General de Seguros y Fondos de Pensiones las tarifas de los recargos que debe percibir el Consorcio como contrapartida a las funciones de fondo de garantía y de compensación que se le atribuyen.
+b) Recabar la información que reglamentariamente se determine a que estarán obligadas las entidades aseguradoras que emitan pólizas de seguro en los ramos señalados en el artículo 7 respecto de dichas pólizas.
+Particularmente, las entidades aseguradoras con domicilio en el Espacio Económico Europeo que, no siendo residentes en territorio español ni operando en este por medio de establecimiento, emitan pólizas de las referidas en el párrafo precedente vendrán obligadas a designar una persona, física o jurídica, con domicilio en España para que les represente ante el Consorcio en relación con las obligaciones señaladas en los artículos 7 y 8.
+c) Elaborar planes y programas de prevención y reducción de siniestros y desarrollarlos a través de las correspondientes campañas y medidas preventivas.
+d) Concertar convenios con fondos de garantía u otras instituciones relacionadas con los seguros obligatorios, al objeto de facilitar el respectivo cumplimiento de sus funciones en el ámbito de los seguros obligatorios.
+e) Cualesquiera otras que le atribuyan las normas legales o reglamentarias vigentes.
+
+## CAPÍTULO IV
+
+Régimen de funcionamiento
+
+### Artículo 17
+
+Artículo 17. Determinación de modelos de pólizas, tarifas de primas y bases técnicas.
+1. El Consorcio percibirá primas en los casos en que celebre contratos de seguro como asegurador o acepte en reaseguro.
+2. Los modelos de pólizas, tarifas de primas y bases técnicas en los seguros concertados por el Consorcio se ajustarán a lo dispuesto en el artículo 25 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre.
+
+### Artículo 18
+
+Artículo 18. Recargos a favor del Consorcio.
+1. Son recargos a favor del Consorcio: El recargo en el seguro de riesgos extraordinarios, el recargo en el seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor y el recargo destinado a financiar las funciones de liquidación de entidades aseguradoras.
+Estos recargos, que corresponden al Consorcio en sus funciones de liquidación de entidades aseguradoras, compensación y fondo de garantía, tienen el carácter de ingresos de derecho público exigibles por la vía administrativa de apremio cuando no hayan sido ingresados por las entidades aseguradoras en el plazo fijado en el apartado 4; a tal efecto, será título ejecutivo la certificación de descubierto expedida por el Director General de Seguros y Fondos de Pensiones, a propuesta del Consorcio.
+2. Todos los recargos a favor del Consorcio serán recaudados obligatoriamente por las entidades aseguradoras juntamente con sus primas.
+En el caso de fraccionamiento de primas, las entidades podrán optar por recaudar los citados recargos con el primer pago fraccionado que se haga, o por hacerlo conforme venzan las correspondientes fracciones de prima, si bien en este último caso deberán aplicarse sobre las fracciones del recargo los tipos por fraccionamiento que, para cada posible periodicidad, se fijen en las tarifas de los recargos a favor del Consorcio, o tratándose del recargo destinado a financiar las funciones de liquidación de entidades aseguradoras, los indicados en el apartado 3.
+La elección de la opción de fraccionar los recargos a favor del Consorcio conforme venzan las correspondientes fracciones de prima deberá hacerse constar en las bases técnicas de las entidades, comunicarse al Consorcio y aplicarse de forma sistemática en el ramo o riesgo de que se trate, salvo causa debidamente justificada.
+Téngase en cuenta que esta última actualización del apartado 2 establecida por la disposición final 8.5 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+ Redacción anterior:
+ "2. Todos los recargos a favor del Consorcio serán recaudados obligatoriamente por las entidades aseguradoras juntamente con sus primas. En el caso de fraccionamiento de estas, las entidades podrán optar por recaudar los citados recargos con el primer pago fraccionado que se haga, o por hacerlo conforme venzan las correspondientes fracciones de prima, si bien en este último caso deberán aplicarse sobre las fracciones del recargo los tipos por fraccionamiento que, para cada posible periodicidad, se fijen en las tarifas de los recargos a favor del Consorcio, o tratándose del recargo destinado a financiar las funciones de liquidación de entidades aseguradoras, los indicados en el apartado 3.
+ La elección de la opción de fraccionar los recargos a favor del Consorcio conforme venzan las correspondientes fracciones de prima deberá hacerse constar en las bases técnicas de las entidades, comunicarse al Consorcio y aplicarse de forma sistemática en el ramo o riesgo de que se trate, salvo causa debidamente justificada.
+ La Dirección General de Seguros y Fondos de Pensiones, a través de la Inspección de Seguros y conforme a los planes de inspección aprobados a propuesta del Consorcio, inspeccionará a las entidades aseguradoras que recauden recargos a favor del Consorcio, al objeto de comprobar el efectivo cumplimiento de esta obligación."
+3. La elección por parte de la entidad aseguradora de la opción de fraccionar el recargo destinado a financiar las funciones de liquidación de entidades aseguradoras juntamente con las primas acarreará las obligaciones establecidas en el apartado 2.
+El cálculo de los intereses por fraccionamiento se efectuará para cada uno de los ramos o riesgos en los que se haya elegido esta opción y se declarará y liquidará juntamente con los recargos fraccionados en el propio modelo y en el mismo período al que corresponden los recargos.
+Los tipos de fraccionamiento que se aplicarán, tomando como base de cálculo el recargo que se declare correspondiente a la totalidad de la prima, excluidos otros recargos e impuestos, serán:
+a) Para fraccionamiento de prima con vencimientos semestrales, el dos por ciento.
+b) Para fraccionamiento de prima con vencimientos trimestrales, el 2,5 por ciento.
+c) Para fraccionamiento de prima con vencimientos bimestrales, el tres por ciento.
+d) Para fraccionamiento de prima con vencimientos mensuales, el 3,5 por ciento.
+Los intereses por fraccionamiento tendrán a todos los efectos la misma naturaleza que el recargo obligatorio a que corresponden.
+4. Las entidades aseguradoras vendrán obligadas, al tiempo de presentar al Consorcio la declaración de los recargos recaudados por cuenta de este, a practicar una liquidación e ingresar su importe con la periodicidad y con sujeción a las reglas que se determinen reglamentariamente.
+Previa comunicación fehaciente al Consorcio, las entidades podrán liquidar los recargos según las primas emitidas, sin perjuicio de las regularizaciones periódicas que procedan. La elección de esta opción deberá aplicarse a todas las carteras de pólizas de la entidad y por años naturales.
+Tanto las liquidaciones practicadas por la Dirección General de Seguros y Fondos de Pensiones derivadas de actas de Inspección como aquellas otras que no tengan señalado plazo de ingreso por sus normas específicas deberán ser ingresadas dentro de los quince días siguientes a aquel en que tuvo lugar la notificación de la liquidación a la entidad aseguradora.
+Téngase en cuenta que esta última actualización del apartado 4 establecida por la disposición final 8.5 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+ Redacción anterior:
+ "4. Las entidades aseguradoras vendrán obligadas, al tiempo de presentar al Consorcio la declaración de los recargos recaudados por cuenta de este, a practicar una liquidación e ingresar su importe con la periodicidad y con sujeción a las reglas que se determinen reglamentariamente.
+ Tanto las liquidaciones practicadas por la Dirección General de Seguros y Fondos de Pensiones derivadas de actas de Inspección como aquellas otras que no tengan señalado plazo de ingreso por sus normas específicas deberán ser ingresadas dentro de los 15 días siguientes a aquel en que tuvo lugar la notificación de la liquidación a la entidad aseguradora."
+5. El ejercicio de la gestión recaudadora por cuenta del Consorcio, cumpliendo lo dispuesto en este precepto, llevará aparejado el derecho a percibir una comisión de cobro que fijará la Dirección General de Seguros y Fondos de Pensiones a propuesta del Consorcio y previa audiencia de las entidades y organizaciones aseguradoras más representativas, sin que pueda exceder del 10 por ciento de los importes brutos recaudados.
+6. El incumplimiento de la obligación de ingresar en el Consorcio los recargos percibidos por la entidad aseguradora en el plazo y forma legalmente establecidos llevará aparejado, sin perjuicio de las responsabilidades administrativas y, en su caso, penales en que hubiera podido incurrir, la obligación de satisfacer durante el período de demora el interés legal y, además, la pérdida de la comisión de cobro.
+7. Cuando los ingresos por recargos efectuados al Consorcio resultasen ser indebidos en todo o en parte, se acordará la devolución a solicitud de los interesados, sin perjuicio de las comprobaciones y petición de información que procedan, en el plazo de quince días desde la completa presentación de la documentación acreditativa del error advertido.
+Téngase en cuenta que el apartado 7 añadido por la disposición final 8.5 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+Se modifican los apartados 2 y 4 y se añade el 7 por la disposición final 8.5 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+ Se modifica el párrafo primero del apartado 1 por el art. 1.2 de la Ley 6/2009, de 3 de julio. Ref. BOE-A-2009-11027
+
+### Artículo 19
+
+Artículo 19. Asistencia jurídica y servicio de inspección.
+1. La representación y defensa del Consorcio ante los juzgados y tribunales corresponderá a los Abogados del Estado integrados en la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado, aunque también podrá ser ejercida por abogados colegiados en ejercicio que, a propuesta del Consorcio, sean habilitados como letrados sustitutos por parte de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado para actuar en el ámbito competencial que, conforme a dicha propuesta, se establezca en la propia habilitación. La contratación de los servicios profesionales de estos abogados colegiados se llevará a cabo por el Consorcio mediante la formalización de los correspondientes acuerdos, que tendrán siempre la consideración de contratos civiles de arrendamiento de servicios.
+Sin perjuicio de lo anterior, el Consorcio, previo informe favorable de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado, podrá encomendar su representación y defensa, conforme a las normas colegiales generales, a abogados y procuradores designados al efecto, en aquellos asuntos o materias que, por sus características, así lo aconsejen.
+Las costas que se generen en los procesos derivados de la actividad del Consorcio en los que la representación y defensa se ejerza por los letrados habilitados mencionados anteriormente se ingresarán, en su caso, en el Consorcio, aplicándoles el régimen previsto en este Estatuto Legal.
+El Consorcio podrá recabar el asesoramiento en derecho de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado.
+2. La Dirección General de Seguros y Fondos de Pensiones, a través de la Inspección de Seguros del Estado y conforme a los planes de inspección aprobados a propuesta del Consorcio, inspeccionará a las empresas, sean entidades jurídicas o personas físicas, que recauden recargos y primas por cuenta del Consorcio.
+Los costes de los medios personales y materiales a que dé lugar este servicio de inspección serán sufragados por el Consorcio, formalizándose, a estos efectos, el oportuno convenio con la Dirección General de Seguros y Fondos de Pensiones, en el que se determinará la compensación económica a abonar al órgano cuyos medios han sido destinados a este fin, para atender dichos costes.
+Téngase en cuenta que esta última actualización del apartado 2 establecida por la disposición final 8.6 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+ Redacción anterior:
+ "2. La Dirección General de Seguros y Fondos de Pensiones, a través de la Inspección de Seguros del Estado y conforme a los planes de inspección aprobados a propuesta del Consorcio, inspeccionará a las empresas, sean entidades jurídicas o personas físicas, que recauden recargos y primas por cuenta del Consorcio."
+Se modifica el apartado 2 por la disposición final 8.6 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+ Se modifica el apartado 1 por el art. 1.3 de la Ley 12/2006, de 16 de mayo. Ref. BOE-A-2006-8637
+
+### Artículo 20
+
+Artículo 20. Peculiaridades de la tramitación de siniestros.
+La tramitación de los siniestros en los que el Consorcio tenga la condición de asegurador o reasegurador, con la vinculación al dictamen de los peritos a que se refiere el artículo 38, párrafo séptimo, de la Ley 50/1980, de 8 de octubre, de contrato de seguro, en cuanto a las cuestiones de hecho consignadas en él, se ajustará a la referida ley.
+No obstante lo anterior, serán de aplicación las siguientes reglas especiales:
+a) En la tramitación de los siniestros en el seguro de responsabilidad civil derivada de la energía nuclear, será preceptivo el informe técnico del Consejo de Seguridad Nuclear sobre el accidente, sus causas, su extensión y sus efectos.
+b) Para que sean admisibles tanto la demanda declarativa como la ejecutiva con base en el auto de cuantía máxima reguladas en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, relativas a la responsabilidad civil derivada del uso y circulación de vehículos a motor, deberá acreditarse fehacientemente que el Consorcio fue requerido judicial o extrajudicialmente de pago, y que desde dicho requerimiento transcurrió un plazo de tres meses sin haber sido atendido.
+c) En el ejercicio de la facultad de repetición por el Consorcio será título ejecutivo, a los efectos del artículo 517 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, la certificación expedida por la citada entidad acreditativa del importe de la indemnización abonada por la misma, siempre que el responsable haya sido requerido de pago y no lo haya realizado en el plazo de un mes desde dicho requerimiento.
+d) En la tramitación de los siniestros en el seguro de incendios forestales en que el Consorcio tenga función de asegurador, se acompañará a la reclamación certificación de la autoridad competente sobre las causas del siniestro y la extensión aproximada del área afectada por el incendio. En las reclamaciones por lesiones en las personas se acompañará informe médico sobre las lesiones y sus causas, así como del alta o defunción, en su caso.
+Se modifica la letra c) por el art. 1.3 de la Ley 6/2009, de 3 de julio. Ref. BOE-A-2009-11027
+
+### Artículo 21
+
+Artículo 21. Ejercicio de acciones judiciales contra el Consorcio.
+Sin perjuicio de lo establecido en el artículo 20, para el ejercicio de acciones civiles contra el Consorcio no será precisa la reclamación previa en vía administrativa ni le serán aplicables las normas contenidas en los artículos 7.3, 10.2, 15, 16, 21, 23 y 24 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+## CAPÍTULO V
+
+Régimen de personal y económico-financiero
+
+## Sección 1
+
+Sección 1.ª Régimen de personal
+
+### Artículo 22
+
+Artículo 22. Personal del Consorcio.
+El personal del Consorcio se regirá por lo establecido en el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, y demás disposiciones reguladoras de la relación laboral y le será de aplicación lo dispuesto en el artículo 55 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+## Sección 2
+
+Sección 2.ª Régimen patrimonial
+
+### Artículo 23
+
+Artículo 23. Recursos económicos.
+1. Para el cumplimiento de sus fines el Consorcio contará con los siguientes recursos económicos:
+a) Las primas y los recargos sobre primas o capitales asegurados que se perciban para la cobertura, cualquiera que sea la forma que esta adopte, de los riesgos de todo tipo asumidos por el Consorcio.
+b) Las subvenciones estatales precisas para la constitución de las provisiones técnicas que se realicen por imperativo legal o reglamentario con norma de directa aplicación al Consorcio y en casos de cobertura de riesgos en que exista insuficiencia de primas, cuotas o recargos.
+c) Las cantidades que recupere en el ejercicio del derecho de repetición y los intereses de demora que le correspondan conforme al ordenamiento jurídico.
+d) Los productos y rentas de su patrimonio.
+e) Los procedentes de los créditos, préstamos y demás operaciones financieras que pueda concertar.
+f) Cualquier otro ingreso que le corresponda conforme a la legislación vigente.
+2. Las tarifas de recargos a favor del Consorcio sin regulación específica serán aprobadas por la Dirección General de Seguros y Fondos de Pensiones, a propuesta del Consorcio, y se publicarán en el "Boletín Oficial del Estado".
+3. Para el cumplimiento de sus funciones de liquidación de entidades aseguradoras, el Consorcio contará con los siguientes recursos:
+a) El recargo destinado a financiar las funciones de liquidación de entidades aseguradoras cuya recaudación y gestión también le corresponde.
+b) Las cantidades y bienes que recupere en el ejercicio de los derechos de las personas que le hayan cedido sus créditos, o por su abono anticipado a ellas.
+c) Los previstos en los párrafos d), e) y f) del apartado 1.
+4. El recargo destinado a financiar las funciones de liquidación de entidades aseguradoras es un tributo que grava los contratos de seguro.
+Están sujetos a dicho recargo la totalidad de los contratos de seguro que se celebren sobre riesgos localizados en España, distintos al seguro sobre la vida y al seguro de crédito a la exportación por cuenta o con el apoyo del Estado. No quedarán sujetos al recargo los planes de previsión asegurados cualquiera que sea la contingencia o contingencias que cubran.
+El recargo se devengará cuando tenga lugar el pago de la prima que corresponda a los contratos de seguro sujetos a aquel.
+Son sujetos pasivos del recargo, en condición de contribuyentes, las entidades aseguradoras, que deberá repercutir íntegramente su importe sobre el tomador del seguro, quien quedará obligado a soportarlo siempre que la repercusión se ajuste a lo dispuesto en este estatuto legal, cualesquiera que fuesen las estipulaciones existentes entre ellos.
+Constituye la base imponible del recargo el importe de la prima. No se entenderán incluidos en la prima aquellos importes correspondientes a cualesquiera otros recargos que el contrato de seguro afectado deba soportar en virtud de una disposición legal que lo imponga.
+El tipo del recargo destinado a financiar las funciones de liquidación de entidades aseguradoras estará constituido por el 1,5 por mil de las primas antes referidas.
+Se modifica el último parrafo del apartado 4 por el art. 1.4 de la Ley 6/2009, de 3 de julio. Ref. BOE-A-2009-11027
+
+### Artículo 24
+
+Artículo 24. Patrimonio y provisión técnica de estabilización.
+1. El patrimonio del Consorcio está constituido por todos los bienes, derechos, obligaciones y participaciones accionarias que le atribuye este estatuto legal y las demás disposiciones que le son de aplicación, así como los que en lo sucesivo adquiera o le sean incorporados. Asimismo, integran su patrimonio las aportaciones que el Estado realice a efectos de mantener el adecuado equilibrio técnico-financiero por cada ramo de aseguramiento, así como el margen de solvencia exigido al Consorcio por el ordenamiento jurídico en materia de seguros.
+En los seguros agrarios combinados, el Consorcio deberá llevar las operaciones que realice con absoluta separación financiera y contable respecto del resto de las operaciones, con integración de las aportaciones que el Estado realice al efecto de mantener el adecuado equilibrio técnico-financiero de estas operaciones.
+De la misma manera, el Consorcio deberá llevar las operaciones que realice en el ejercicio de sus funciones de liquidación de entidades aseguradoras y en los procesos concursales a que estas se encuentren sometidas con absoluta separación financiera y contable del resto de operaciones. Las rentas derivadas del ejercicio de las funciones mencionadas en este párrafo estarán exentas del Impuesto sobre Sociedades.
+Se excluyen del patrimonio del Consorcio los recursos correspondientes a los riesgos cubiertos por el seguro de crédito a la exportación por cuenta del Estado, que estarán dotados de plena independencia financiera, patrimonial y contable.
+2. El Consorcio constituirá la provisión técnica de estabilización de forma separada para las coberturas relativas al seguro agrario combinado y para el resto de las coberturas y, por lo que respecta a estas últimas, de manera global para todas las coberturas afectadas. Esta provisión se dotará con arreglo a los criterios específicos que reglamentariamente se determinen, considerando que debe atender también a indemnizar siniestros con el carácter de fondo de garantía y en sus funciones de compensación, y tendrá la consideración de partida deducible a efectos de determinar la base imponible del Impuesto sobre Sociedades correspondiente al ejercicio en que se efectúe tal dotación, siempre que la cuantía total de la provisión no rebase los límites que se establezcan reglamentariamente.
+
+### Artículo 25
+
+Artículo 25. Régimen de presupuesto, contabilidad y de control.
+1. El programa de actuación plurianual y los presupuestos de explotación y capital se ajustarán a lo dispuesto en los artículos 64 y 65 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria. En todo caso, en la liquidación del presupuesto los excedentes que se puedan producir se incorporarán al patrimonio de la entidad.
+2. Se ajustará en su contabilidad y se sujetará al control económico y financiero y al de eficacia que para las entidades de seguros establece la legislación aplicable a estas entidades, y a las normas que la Ley 47/2003, de 26 de noviembre, General Presupuestaria, dedica en este ámbito a las entidades públicas empresariales.
+
+### Artículo 26
+
+Artículo 26. Régimen de contratación y acceso al crédito.
+1. La contratación del Consorcio se llevará a efecto por las normas de derecho privado, civil, mercantil o laboral.
+2. El Consorcio podrá realizar todo tipo de operaciones financieras y, en particular, concertar operaciones activas y pasivas de crédito y préstamo cualquiera que sea la forma en que se instrumenten, incluso mediante la emisión de obligaciones, bonos, pagarés u otros valores análogos.
+Estas operaciones financieras del Consorcio tendrán las siguientes características:
+a) Corresponderá al Consejo de Administración contraer crédito y emitir deuda, concertando o fijando su plazo, tipo de interés y demás características, así como establecer la representación total o parcial de la deuda emitida en obligaciones, bonos, pagarés u otros títulos-valores o documentos que formalmente la reconozcan o, en cuanto lo permitan las disposiciones vigentes, en anotaciones en cuenta.
+b) En su endeudamiento, el Consorcio se sujetará a los límites establecidos para cada ejercicio por la Ley de Presupuestos Generales del Estado. Dicho límite tendrá el carácter de neto y será efectivo al término del ejercicio.
+c) La deuda instrumentada en valores negociables en Bolsa será admitida de oficio a la negociación en las Bolsas de Valores.
+d) Las obligaciones patrimoniales del Consorcio tienen la garantía del Estado en los mismos términos que las de la Hacienda pública.
+
+### Disposición adicional única
+
+Disposición adicional única. Adaptación del ámbito funcional del Consorcio a la evolución del mercado asegurador.
+Mediante real decreto, podrá reducirse el ámbito funcional del Consorcio según la evolución del mercado asegurador.
+
+### Disposición transitoria
+
+Disposición transitoria. Adaptación de los contratos de seguro vigentes a la modificación operada en los artículos 7.b) y 8.5 del texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros.
+Los contratos de seguros en vigor deberán adaptarse a la modificación introducida por la disposición final octava de la Ley de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras, en los artículos 7.b) y 8.5 del texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el Real Decreto Legislativo 7/2004, de 29 de octubre, antes de la primera renovación que tenga lugar a partir de los seis meses siguientes a la entrada en vigor de dicha Ley. Los contratos de seguro de nueva emisión que se celebren a partir del 1 de julio de 2016 deberán estar adaptados a la misma.
+Téngase en cuenta que esta disposición añadida por la disposición final 8.7 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+Se añade por la disposición final 8.7 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfoctava.
+
+### Disposición final primera
+
+Disposición final primera. Título competencial.
+Este texto refundido se dicta al amparo de lo establecido en el artículo 149.1.6.ª de la Constitución.
+
+### Disposición final segunda
+
+Disposición final segunda. Potestad reglamentaria.
+Corresponde al Gobierno, a propuesta del Ministro de Economía y Hacienda y del Ministro de Administraciones Públicas, previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, desarrollar este estatuto legal en las materias que se atribuyen expresamente a la potestad reglamentaria, así como, en general, en todas aquellas susceptibles de desarrollo reglamentario en que sea preciso para su correcta ejecución.
+Corresponde al Ministro de Economía y Hacienda, previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, desarrollar este estatuto legal en las materias que específicamente atribuye a la potestad reglamentaria de dicho ministro.

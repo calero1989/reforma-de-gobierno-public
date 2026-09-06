@@ -1,0 +1,53 @@
+# Ley 14/2005, de 27 de diciembre, sobre la intervención del Parlamento de Cataluña en la designación de las autoridades y los cargos de designación parlamentaria y sobre los criterios y procedimientos para la evaluación de su idoneidad.
+
+- Identificador BOE: `BOE-A-2006-1770`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2006-1770
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de autonomía de Cataluña, promulgo la siguiente Ley 14/2005, de 27 de diciembre, sobre la intervención del parlamento de Cataluña en la designación de las autoridades y los cargos de designación parlamentaria y sobre los criterios y procedimientos para la evaluación de su idoneidad.
+PREÁMBULO
+El Parlamento de Cataluña elige directamente a miembros de los órganos institucionales de rango estatutario, como el Síndic de Greuges, los síndicos de la Sindicatura de Cuentas y cinco de los siete miembros que integran el Consejo Consultivo de la Generalidad, y participa en la elección de otros cargos y miembros de otros órganos e instituciones regulados por las leyes de Cataluña, como el Consejo del Audiovisual de Cataluña o el Consejo de Administración de la Corporación Catalana de Radio y Televisión.
+La vigente regulación de la designación de estos miembros establece el proceso de deliberación y votación por el Pleno del Parlamento de las candidaturas propuestas por los grupos parlamentarios, sin regular procedimiento previo alguno de comparecencia parlamentaria.
+Por otra parte, el sistema de provisión de altos cargos vigente en Cataluña no otorga al Parlamento la posibilidad de revocar los cargos que este mismo ha designado.
+El objetivo de la presente ley es, pues, reforzar los valores democráticos en las instituciones y garantizar la neutralidad política e institucional y la eficiencia de los altos cargos nombrados por el Parlamento. Este criterio se fundamenta en la naturaleza de sus atribuciones, vinculadas, a veces, al ejercicio de derechos fundamentales y libertades públicas, o en la posibilidad de mediatizar las condiciones de participación igualitaria de los grupos sociales y políticos en el proceso de toma de decisiones políticas.
+La representación inherente a los altos cargos designados por el Parlamento demanda una vocación de imparcialidad y de servicio al interés general. Así, a la adecuación a los requisitos de mérito y capacidad que exige el Parlamento a los altos cargos debe añadirse que presenten las debidas garantías de ecuanimidad y la voluntad de consenso necesaria para cumplir las funciones que les demanda la ciudadanía.
+Una opción, experimentada con éxito en otros sistemas institucionales, como el de los Estados Unidos de América o el de la Unión Europea, es la inclusión de un trámite de comparecencia parlamentaria de los candidatos propuestos, con carácter previo a la designación, para que el Parlamento pueda valorar públicamente la posición ideológica, la capacidad profesional y los proyectos de trabajo de cada persona candidata a ocupar el cargo.
+Por estas razones es preciso un replanteamiento de las funciones del Parlamento en relación con el nombramiento de altos cargos que incorpore la noción de control parlamentario, que ha de evolucionar, a la vez, hacia una función preventiva congruente con la trascendencia de esta elección.
+
+### Artículo 1
+
+Artículo 1. Altos cargos de especial relieve institucional por razón de su designación parlamentaria.
+Los altos cargos de especial relieve institucional por razón de su designación parlamentaria son:
+a) El síndic o síndica de greuges.
+b) Los miembros del Consejo Consultivo.
+c) Los miembros de la Sindicatura de Cuentas.
+d) Los miembros del Consejo del Audiovisual de Cataluña.
+e) Los miembros del Consejo de Administración de la Corporación Catalana de Radio y Televisión.
+f) Cualquier otro cargo al cual las leyes atribuyan dicho carácter.
+
+### Artículo 2
+
+Artículo 2. Comparecencia ante las comisiones parlamentarias.
+Los candidatos a ocupar los cargos a los que se refiere el artículo 1 deben comparecer ante la comisión parlamentaria correspondiente antes de su elección.
+
+### Artículo 3
+
+Artículo 3. Revocación.
+Los titulares de los altos cargos a los que se refiere el artículo 1 elegidos por el Parlamento pueden ser revocados por el propio Parlamento. Para ello se precisa la misma mayoría que se requiere para su elección, salvo en caso de que la ley determine lo contrario.
+Se deja sin efecto con respecto al síndic o síndica de greuges por la disposición modificativa segunda de la Ley 24/2009, de 23 de diciembre. Ref. BOE-A-2010-735.
+
+### Disposición adicional
+
+Disposición adicional.
+Las comparecencias, la elección y la revocación de los altos cargos a los que se refiere el artículo 1 se efectúan por los procedimientos establecidos por el Reglamento del Parlamento.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 27 de diciembre de 2005.
+PASQUAL MARAGALL I MIRA,
+Presidente
+(Publicada en el «Diario Oficial de la Generalidad de Cataluña» número 4542, de 2 de enero de 2006)

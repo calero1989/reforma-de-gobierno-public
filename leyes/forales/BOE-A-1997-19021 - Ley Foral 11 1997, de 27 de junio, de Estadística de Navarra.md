@@ -1,0 +1,653 @@
+# Ley Foral 11/1997, de 27 de junio, de Estadística de Navarra.
+
+- Identificador BOE: `BOE-A-1997-19021`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1997-19021
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Estadística de Navarra.
+El artículo 149.1.31.a de la Constitución Española incluye entre las competencias exclusivas del Estado la «estadística para fines estatales».
+La Ley 12/1989, de 9 de mayo, de la Función Estadística Pública vino a sustituir la Ley de Estadística de 1945 y regular la función estadística para fines estatales.
+El artículo 44.21 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra, incluye, entre las competencias exclusivas de Navarra, la «estadística de interés para Navarra».
+La función estadística en la Administración de la Comunidad Foral tiene ya una larga trayectoria de más de dos décadas. La Diputación Foral creó en 1974 el Servicio de Estadística, asignándole, entre otros, los trabajos de índole estadística cuya realización ya se había iniciado en la Secretaría Técnica de la Dirección de Hacienda.
+Las distintas unidades de las Administraciones de Navarra vienen desarrollando una amplia actividad estadística.
+La existencia de un ámbito competencial exclusivo que hace referencia a una actividad compleja, en la que confluyen derechos y obligaciones, cautelas e infracciones, requerimientos de ordenación y planificación, etc., demanda una regulación adecuada y exige dotarse de una organización concreta.
+El Decreto Foral 522/1991, de 25 de noviembre, vino a responder a este requerimiento, si bien de una manera transitoria. En efecto, en su exposición de motivos, se explicita que «hasta que por la correspondiente Ley Foral se regule la actividad estadística de nuestra Comunidad Foral, procede regular transitoriamente por el presente Decreto Foral la mencionada actividad».
+Diversas Comunidades Autónomas han regulado ya su actividad estadística.
+La presente Ley Foral se estructura en un título preliminar y cuatro títulos.
+El título preliminar determina el objeto y ámbito de aplicación de la actividad estadística regulada por esta Ley Foral.
+El título I define los principios que han de regir la actividad estadística, estableciendo los derechos y obligaciones de los distintos agentes intervenientes. Asimismo establece los procedimientos de planificación de la actividad estadística. Sin embargo, no agota este ámbito de regulación que deberá ser completado por las sucesivas Leyes del Plan de Estadística de Navarra.
+El título II regula el Sistema Estadístico de la Comunidad Foral de Navarra, que comprende el Instituto de Estadística de Navarra, el Consejo de Estadística de Navarra y las unidades estadísticas de los Departamentos de la Administración de la Comunidad Foral y de los organismos autónomos y entes que dependan de los mismos. Se concibe este Sistema Estadístico como un sistema coordinado en cuanto a la planificación de la actividad estadística, utilización de las definiciones, códigos y nomenclaturas, unidades estadísticas territoriales y otros extremos, aunque claramente descentralizado en la producción y difusión de información estadística.
+Por lo dispuesto en este título se crea el Instituto de Estadística de Navarra, elemento central del Sistema Estadístico de la Comunidad Foral de Navarra, al que se le encomiendan las funciones de dirección, coordinación y promoción de la actividad estadística pública de interés para Navarra.
+Igualmente se crea un órgano consultivo, el Consejo de Estadística de Navarra, cuya función principal es facilitar las relaciones entre los productores de información estadística y entre éstos y los usuarios de la misma.
+El título III se refiere a las unidades estadísticas de las entidades locales de Navarra.
+En el título IV se establece el régimen de infracciones y sanciones aplicables a quienes incumplan las normas y deberes que esta Ley Foral impone.
+
+## TÍTULO PRELIMINAR
+
+Objeto y ámbito
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley Foral tiene por objeto la regulación de la actividad estadística pública de interés para Navarra a que se refiere el artículo 44.21 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
+2. A los efectos de esta Ley Foral se entiende:
+a) Por actividad estadística, la recopilación, obtención, tratamiento y conservación de datos cuantitativos o cualitativos para elaborar estadísticas, la publicación y difusión de resultados y cualesquiera otras de similar naturaleza.
+b) Por estadística pública, la realizada por unidades de las Administraciones Públicas.
+c) Por actividad estadística pública de interés para Navarra, la que proporciona información estadística sobre la realidad territorial, demográfica, social y económica de la Comunidad Foral.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. Esta Ley Foral es de aplicación a:
+a) La actividad estadística realizada por la Administración de la Comunidad Foral y por sus organismos autónomos, entes y empresas dependientes de la misma.
+b) La actividad estadística pública de interés de la Comunidad Foral realizada voluntariamente por las entidades locales de Navarra, por sus organismos autónomos, entes y empresas de ellas.
+2. Esta Ley Foral no es de aplicación a:
+a) La actividad estadística para fines estatales a que se refiere el artículo 149.1.31 de la Constitución, tanto si la efectúan directamente los órganos competentes de la Administración General del Estado, como si es efectuada por otras entidades por acuerdo, convenio, o cualquier otra forma de colaboración con los mismos.
+b) La actividad estadística realizada por personas físicas o jurídicas privadas o de derecho público, no comprendidas en el artículo 2.1 de la presente Ley Foral.
+c) Los sondeos electorales y las encuestas de opinión no incluidas en el Plan de Estadística de Navarra.
+
+## TÍTULO I
+
+Regulación de la actividad estadística
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 3
+
+Artículo 3. Principios de la actividad estadística.
+La actividad estadística regulada por la presente ley foral se regirá, con carácter general, por los principios de interés público, transparencia, homogeneidad, proporcionalidad, difusión y publicidad de resultados, conservación y custodia de la información, cooperación entre las Administraciones Públicas, secreto estadístico y obligatoriedad del suministro de información, y estará fundamentada en los criterios de calidad basados en el “Código de Buenas Prácticas de las Estadísticas Europeas”.
+La actividad estadística contribuirá a la gestión basada en datos y a la toma de decisiones basadas en evidencias, y servirá para planificar y evaluar las políticas públicas y su gestión, para lo que tendrá en cuenta las necesidades estadísticas que se requieran en la evaluación de políticas públicas.
+Se modifica por la disposición final 1.1 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+## Sección 1
+
+Sección 1.a Del interés público
+
+### Artículo 4
+
+Artículo 4. Del interés público.
+La presente Ley Foral regula la actividad estadística desarrollada con motivo de interés público. Corresponde al Parlamento de Navarra apreciar y calificar el interés público de una estadística mediante la aprobación del Plan Estadístico de Navarra, sin perjuicio de lo establecido en el artículo 28.
+
+## Sección 2
+
+Sección 2.a De la transparencia
+
+### Artículo 5
+
+Artículo 5. De la transparencia.
+1. En aplicación del principio de transparencia los sujetos que suministren datos con fines estadísticos tienen derecho a obtener información suficiente sobre la protección que corresponda a dichos datos, la finalidad a la que se destinan y el carácter obligatorio o no de la respuesta. Las unidades que realizan actividad estadística están obligadas a proporcionar esa información.
+2. En todos los cuestionarios o formularios de cada operación estadística regulada por la presente Ley Foral se deberá hacer constar:
+a) Las características de la actividad estadística que se realiza.
+b) La finalidad principal a la que se destinan los datos.
+c) La obligatoriedad, en su caso, de colaborar.
+d) La protección que les dispensa el secreto estadístico.
+e) El deber de informar en los términos dispuestos por el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE.
+Se añade la letra e) al apartado 2 por la disposicion final 1.1 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+## Sección 3
+
+Sección 3.a De la homogeneidad
+
+### Artículo 6
+
+Artículo 6. De la homogeneidad.
+Para la realización de la actividad estadística regulada por la presente Ley Foral se aplicarán un conjunto unificado de unidades estadísticas y territoriales, nomenclaturas, códigos, clasificaciones y definiciones, así como cualquier otra característica que contribuya a homogeneizar la actividad estadística.
+Dichas normas deberán ser aprobadas mediante Decreto Foral y serán de obligado cumplimiento.
+Las unidades, nomenclaturas, códigos, clasificaciones y definiciones que se establezcan serán compatibles con las establecidas por la Administración General del Estado y la Unión Europea, a efectos de homogeneidad y comparación de los datos.
+
+## Sección 4
+
+Sección 4.a De la proporcionalidad
+
+### Artículo 7
+
+Artículo 7. De la proporcionalidad.
+Cualquier unidad encargada de llevar a cabo una actividad estadística de las reguladas por esta Ley Foral, estará obligada a la aplicación del principio de proporcionalidad entre los resultados que se pretenden obtener y la naturaleza y el volumen de la información que se solicita.
+
+## Sección 5
+
+Sección 5.a De la difusión y publicidad de resultados
+
+### Artículo 8
+
+Artículo 8. De la difusión estadística.
+La Administración de la Comunidad Foral de Navarra procurará la difusión de los resultados de la actividad estadística que realice y el establecimiento de canales de acceso de los usuarios a los resultados no publicados, con los criterios de interés público, racionalidad de costes y respeto a las leyes.
+
+### Artículo 9
+
+Artículo 9. De la publicidad de las estadísticas oficiales.
+1. A los efectos de esta ley foral, tendrán la consideración de estadísticas oficiales las incluidas en el Plan Estadístico de Navarra o en los Programas Anuales de Estadística de Navarra y las operaciones estadísticas que hayan sido aprobadas por el Gobierno de Navarra, según lo previsto en el artículo 28 de la presente ley foral.
+2. Difusión general. Los resultados de las estadísticas oficiales se harán públicos y se difundirán imparcial y ampliamente según los criterios de desagregación propuestos en el Plan de Estadística y en los Programas Anuales.
+3. Difusión específica. Se podrá facilitar a quien lo solicite:
+a) Explotaciones especiales tal y como se recoge en el artículo 12 de la presente ley foral.
+b) Los datos individuales que no estén amparados por el secreto estadístico porque hayan llegado a ser anónimos hasta tal punto que sea imposible identificar a las unidades informantes ni contravengan lo dispuesto en las regulaciones específicas de los registros administrativos correspondientes
+Estas peticiones y consultas específicas que deberán estar motivadas y responder a criterios de proporcionalidad, se regularán reglamentariamente.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+ Se modifica por la disposicion final 1.2 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se modifica por la disposición final 1.1 de la Ley Foral 14/2016, de 21 de octubre. Ref. BOE-A-2016-10361
+
+### Artículo 10
+
+Artículo 10. Del carácter oficial de los resultados.
+Tendrán carácter oficial los resultados de cualquier estadística oficial desde el momento en que se hagan públicos mediante la difusión en publicaciones u otros soportes.
+El personal vinculado a las unidades que realizan actividad estadística regulada por la presente Ley Foral y las personas físicas o jurídicas que colaboren con aquellas unidades en virtud de acuerdos, convenios o contratos, deberán guardar absoluta reserva por razón de su trabajo profesional hasta que éstos se hayan hecho públicos, salvo autorización expresa del responsable máximo de la unidad estadística correspondiente. Esta reserva deberá guardarse con independencia de las obligaciones que se deriven del cumplimiento del secreto estadístico.
+
+### Artículo 11
+
+Artículo 11. De la publicidad de la metodología.
+Al mismo tiempo que se hagan públicos los resultados de una operación estadística se dará igualmente publicidad a las características metodológicas bajo las que se obtuvieron dichos resultados.
+
+### Artículo 12
+
+Artículo 12. De las explotaciones especiales.
+La unidad de la Administración de la Comunidad Foral que elabore una operación estadística facilitará, en un plazo acorde con la disponibilidad de sus recursos, mediante el proceso que se apruebe reglamentariamente, cualesquiera otras informaciones estadísticas distintas de las hechas públicas siempre que lo permitan las características técnicas de la estadística y no se contravenga el secreto estadístico, pudiendo establecerse un precio acorde con el coste del servicio solicitado.
+
+## Sección 6
+
+Sección 6.a De la conservación y custodia de la información
+
+### Artículo 13
+
+Artículo 13. De la conservación y custodia de la información.
+Las unidades estadísticas conservarán y custodiarán los cuestionarios y otros soportes de la información recogida con destino a la elaboración de estadísticas en tanto sea necesario, debiendo adoptar las medidas de seguridad que garanticen los principios de esta Ley Foral.
+
+## Sección 7
+
+Sección 7.a De la cooperación entre las Administraciones Públicas
+
+### Artículo 14
+
+Artículo 14. De la cooperación entre las Administraciones Públicas.
+Para lograr una mayor eficacia y eficiencia en la utilización de los recursos públicos en la actividad estadística, el sistema estadístico de la Comunidad Foral de Navarra, en el marco de competencias de ésta, fomentará y favorecerá la cooperación con las Corporaciones Locales, con el sistema estadístico de la Administración General del Estado, con los de las Comunidades Autónomas, con la Unión Europea y con otros organismos en todos los niveles de la actividad estadística.
+El Instituto de Estadística de Navarra asumirá las labores de interlocución con los órganos centrales de estadística de las diferentes Administraciones Públicas.
+Se modifica por la disposicion final 1.3 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+## Sección 8
+
+Sección 8.a Del secreto estadístico
+
+### Artículo 15
+
+Artículo 15. Del ámbito del secreto estadístico.
+Serán objeto de protección y quedarán amparados por el secreto estadístico los datos protegidos relativos a personas físicas o a personas jurídicas.
+Se entiende por datos protegidos relativos a personas físicas o a personas jurídicas aquéllos que permitan la identificación directa de los interesados o bien aquéllos que por su estructura, contenido o grados de desagregación permitan la identificación indirecta de los mismos.
+
+### Artículo 16
+
+Artículo 16. Del contenido del secreto estadístico.
+El secreto estadístico obliga a las unidades que realizan actividad estadística a no difundir o comunicar los datos protegidos a los que se refiere el artículo anterior, que se conozcan como consecuencia del desarrollo de la actividad estadística. Igualmente están obligados a no actuar sobre la base de dicho conocimiento.
+
+### Artículo 17
+
+Artículo 17. De la comunicación entre unidades estadísticas.
+Los datos estadísticos amparados por el secreto estadístico podrán ser transferidos a los órganos estadísticos de las administraciones públicas siempre que se cumplan los siguientes requisitos, que habrán de ser comprobados por la unidad estadística que los tenga en custodia:
+1. Que dichas unidades desarrollen funciones fundamentalmente estadísticas y hayan sido expresamente calificadas de acuerdo a la normativa legal vigente como sujetos del secreto estadístico.
+2. Que la información a transferir esté relacionada justificadamente con las funciones estadísticas que dichas unidades tengan encomendadas.
+3. Que las unidades estadísticas destinatarias dispongan de los medios necesarios para preservar el secreto estadístico.
+
+### Artículo 18
+
+Artículo 18. De la comunicación con fines científicos.
+Podrá permitirse a los institutos de investigación científica y a los investigadores el acceso a los datos amparados por el secreto estadístico siempre que estos datos no permitan una identificación directa de las personas y que dichas instituciones o personas cumplan las condiciones que se establezcan reglamentariamente en orden a garantizar la protección física e informática de los datos amparados y a evitar cualquier riesgo de divulgación ilícita. Cuando dicho acceso se produzca se notificará a la Agencia de Protección de Datos o al órgano correspondiente de la Comunidad Foral de Navarra.
+
+### Artículo 19
+
+Artículo 19. De la utilización de los datos amparados por el secreto estadístico.
+Queda prohibida la utilización de los datos amparados por el secreto estadístico para fines distintos de los estadísticos, sin más excepciones que las legalmente previstas.
+
+### Artículo 20
+
+Artículo 20. De los obligados a mantener el secreto estadístico.
+Están obligados a mantener el secreto estadístico:
+1. El personal vinculado a los servicios o unidades de la Comunidad Foral de Navarra que realizan actividad estadística y el personal de los servicios o unidades de las entidades locales que realizan actividades estadísticas de interés de la Comunidad Foral de Navarra, aun después de haber cesado en sus funciones.
+2. Cuantas personas, físicas o jurídicas, tengan conocimiento de datos amparados por el secreto estadístico con ocasión de su participación en cualesquiera de las fases del proceso estadístico en virtud de contrato, acuerdo o convenio de cualquier género. El deber de guardar el secreto estadístico se mantendrá aun después de que las personas obligadas a preservarlo concluyan su vinculación a los servicios estadísticos. La obligación de guardar el secreto estadístico se iniciará desde el momento en que se obtenga la información por él amparada.
+
+### Artículo 21
+
+Artículo 21. Del incumplimiento del secreto estadístico.
+El incumplimiento del deber de secreto estadístico dará lugar a responsabilidades indemnizatorias de los daños y perjuicios causados en los términos establecidos en el ordenamiento jurídico, sin perjuicio de las responsabilidades penales o disciplinarias sobre los funcionarios y demás personal público, y de la potestad sancionadora a que se refiere el título IV de la presente Ley Foral.
+
+### Artículo 22
+
+Artículo 22. De las excepciones del secreto estadístico.
+No quedan amparados por el secreto estadístico:
+1. Cualquier dato protegido que sea de conocimiento público y que no afecte a la intimidad de las personas.
+2. Cualquier dato obtenido de los registros administrativos, que estará sujeto a la confidencialidad y a los criterios de difusión que determine la legislación específica que les sea de aplicación.
+3. Los directorios que no contengan más datos que la denominación, identificadores, emplazamiento, actividad, identificadores de tamaño, condición de empresa exportadora o importadora, direcciones electrónicas corporativas, teléfonos corporativos y otras características generales que se incluyan habitualmente en los registros o directorios de difusión general.
+4. Los directorios de edificios y viviendas que no contengan más datos que los identificadores, emplazamiento, tipo de unidad y otras características generales que se incluyan habitualmente en los registros o directorios de distribución general.
+5. Los datos protegidos cuando el interesado manifieste por escrito su renuncia a la protección del secreto estadístico.
+6. Los datos protegidos de personas físicas fallecidas hace más de veinticinco años.
+7. Los datos protegidos de personas jurídicas recibidas en las unidades estadísticas hace más de quince años.
+8. Los datos protegidos de personas físicas recibidas en las unidades estadísticas hace más de cincuenta años.
+Se modifica el apartado 3 por la disposición final 1.3 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+ Se modifica el apartado 3 por la disposicion final 1.4 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+## Sección 9
+
+Sección 9.a De la obligatoriedad del suministro de información
+
+### Artículo 23
+
+Artículo 23. De las estadísticas de respuesta obligatoria.
+1. Serán estadísticas de respuesta obligatoria las que se determinen así expresamente en el Plan de Estadística de Navarra, en los Programas Anuales de Estadística y aquellas que, aun no estando incluidas en el plan o programa, hayan sido aprobadas por el Gobierno de Navarra y calificadas como tales.
+2. Serán también estadísticas de respuesta obligatoria las realizadas para fines estatales, declaradas de respuesta obligatoria según la legislación correspondiente, sobre las que la Comunidad Foral de Navarra suscriba acuerdos o convenios de colaboración con la Administración General del Estado.
+3. No estarán sometidos a la obligatoriedad de colaboración la obtención de datos a los que se refieren los artículos 16.2 y 18.1 de la Constitución Española. En estos casos la colaboración será siempre voluntaria.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley Foral 14/2016, de 21 de octubre. Ref. BOE-A-2016-10361
+
+### Artículo 24
+
+Artículo 24. De las personas obligadas a suministrar información.
+1. Las personas o entidades que se determinen conforme a lo dispuesto en los apartados siguientes tienen la obligación de suministrar la información a que se refiere el artículo 23 de la presente ley foral que les sea requerida.
+2. La regulación de cada estadística determinará las personas o entidades obligadas a suministrar la información, con independencia de la naturaleza física o jurídica, pública o privada, y de la nacionalidad de aquellas, siempre que tengan o hayan tenido su domicilio o residencia o estén establecidas dentro del ámbito territorial de Navarra. También podrá extenderse a actividades que se desarrollen fuera de Navarra, cuando sea adecuado a la finalidad de la estadística y así estuviera previsto en sus normas reguladoras.
+3. En el supuesto de que dicha información venga constituida por datos amparados por la normativa vigente en cada momento sobre el derecho a la intimidad familiar y personal, su suministro se ajustará a lo dispuesto por el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales y demás normativa de aplicación. En cualquier caso, dichos datos serán siempre requeridos por razones de interés general, con criterios de proporcionalidad con relación a los objetivos de las operaciones estadísticas, y con las garantías necesarias que permitan preservar el anonimato de las informaciones obtenidas.
+4. Para reducir la carga de respuesta de las unidades informantes el Instituto de Estadística de Navarra y el resto de los órganos estadísticos definidos en el artículo 34 de la presente ley foral tendrán derecho a solicitar y obtener los datos contenidos en todos los registros y ficheros administrativos sin demora y gratuitamente, incluidos datos personales identificados, a hacer uso de ellos y a integrarlos en las estadísticas en la medida necesaria para el desarrollo, la elaboración y la difusión de las estadísticas dentro del marco de la actuación estadística regulado en esta ley foral.
+Asimismo, los órganos y entes de la Administración general del Estado y de su sector público institucional estarán obligados a remitir los datos administrativos solicitados, incluidos los datos personales identificados que se requieran para el desarrollo de las operaciones estadísticas de los planes y programas estadísticos.
+Los registros y ficheros administrativos mencionados, irán acompañados de los metadatos pertinentes.
+5. El Instituto de Estadística de Navarra, el resto de los órganos estadísticos definidos en el artículo 34 de la presente ley foral y las unidades titulares de los registros y ficheros administrativos deberán crear los mecanismos de cooperación necesarios a tal efecto.
+6. Se autoriza a las entidades públicas o privadas que tengan la consideración de informantes, de conformidad con lo establecido en la regulación de la correspondiente operación estadística, a ceder a los organismos receptores de la operación estadística, sin el consentimiento de los interesados, los datos de carácter personal de que dispongan sobre los mismos, a efectos exclusivamente de la realización de las operaciones estadísticas.
+Se modifica por la disposicion final 1.5 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 25
+
+Artículo 25. De la forma de suministrar información.
+Toda persona física o jurídica, pública o privada que suministre información en el ámbito de las actividades reguladas por la presente Ley Foral, deberá contestar de forma veraz y completa, ajustarse al plazo de respuesta y respetar las demás circunstancias que figuren en las normas reguladoras de la actividad estadística de que se trate.
+
+## CAPÍTULO II
+
+Planificación de la actividad estadística
+
+### Artículo 26
+
+Artículo 26. Plan de Estadística de Navarra.
+1. El instrumento de promoción, ordenación y planificación de la actividad estadística pública de interés para Navarra será el Plan de Estadística de Navarra.
+2. El Plan de Estadística de Navarra se aprobará mediante Ley Foral.
+3. Tendrá una vigencia de cuatro años u otra distinta si así lo especifica la propia Ley Foral, quedando prorrogado cada Plan hasta la entrada en vigor del siguiente. No estarán vinculados a los mecanismos de prórroga los censos y otras operaciones cuya inclusión o exclusión dependa del período o plazo establecidos para su inicio o finalización.
+4. Dicho Plan contendrá como mínimo:
+a) La determinación de los objetivos generales del Plan y de los específicos de la actividad estadística prevista en el mismo.
+b) La relación de operaciones estadísticas y restos de elementos propuestos para lograr los objetivos determinados
+c) Los indicadores que permitan la evaluación del cumplimiento de los objetivos.
+Se modifica el apartado 4 por la disposicion final 1.6 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 27
+
+Artículo 27. Programas Anuales de Estadística.
+1. El Plan de Estadística de Navarra se desarrollará mediante Programas Anuales de Estadística, que serán aprobados por el Gobierno a propuesta de la persona titular del Departamento al que esté adscrito el Instituto de Estadística de Navarra.
+2. El Programa Anual de Estadística deberá contener, al menos, las especificaciones siguientes:
+a) Su adecuación al Plan de Estadística de Navarra.
+b) La relación de las operaciones estadísticas en curso y de nueva implantación que han de realizarse en su período de vigencia acompañadas de la documentación requerida en la ley foral del plan que lo integre.
+c) Se harán constar las operaciones derivadas de convenios o acuerdos de colaboración entre la Administración de la Comunidad Foral de Navarra y otras administraciones u organismos.
+3. El Programa Anual de Estadística se integrará en la Ley Foral de Presupuestos. Esta ley foral habilitará los recursos necesarios para la ejecución del Programa Anual correspondiente en cada ejercicio.
+Se modifica por la disposicion final 1.7 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 28
+
+Artículo 28. Otras estadísticas.
+Con independencia de lo dispuesto en los artículos anteriores, el Gobierno de Navarra, por motivos de oportunidad o urgencia, podría autorizar mediante Acuerdo de Gobierno la realización de operaciones estadísticas no contempladas en el Plan de Estadística o Programa Anual, adquiriendo las mismas la consideración de oficiales.
+El Acuerdo de Gobierno se adoptará a propuesta de la persona titular del Departamento al que esté adscrito el Instituto de Estadística de Navarra, previo informe favorable de éste que contemple la adecuación a los objetivos y requisitos establecidos en el correspondiente Plan y Programa de Estadística y comunicación al Consejo de Estadística.
+Se modifica el párrafo segundo por la disposicion final 1.8 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se modifica por la disposición final 1.3 de la Ley Foral 14/2016, de 21 de octubre. Ref. BOE-A-2016-10361
+
+## TÍTULO II
+
+Sistema Estadístico de Navarra
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 29
+
+Artículo 29. Del Sistema Estadístico de Navarra.
+1. La actividad estadística de la Comunidad Foral de Navarra se llevará a cabo en los términos previstos en la presente Ley Foral por el Sistema Estadístico de Navarra.
+El Sistema Estadístico de Navarra está constituido por las unidades que a continuación se detallan y por las relaciones que entre ellas han de establecerse para la coordinación de su actuación.
+Las unidades del Sistema Estadístico son:
+a) El Instituto de Estadística de Navarra.
+b) Las unidades de los Departamentos y los organismos, entes o empresas dependientes de ellos, que realicen actividad estadística.
+c) El Consejo de Estadística de Navarra.
+2. Las unidades del Sistema Estadístico de Navarra podrán desarrollar la actividad estadística directamente o celebrando acuerdos, convenios o contratos con otras administraciones públicas o con entidades privadas, que quedarán sometidas en materia estadística a la presente Ley Foral.
+3. Las funciones de planificación, normalización y coordinación técnica de la actividad estadística están centralizadas en el Instituto de Estadística de Navarra, y las de producción y difusión están distribuidas entre las unidades del Sistema Estadístico de acuerdo con lo establecido en la presente Ley Foral y lo que en su momento establezcan el Plan de Estadística de Navarra, los Planes Anuales de Estadística y la normativa que los desarrolle.
+
+## CAPÍTULO II
+
+Del Instituto de Estadística de Navarra
+
+### Artículo 30
+
+Artículo 30. Naturaleza y adscripción.
+1. El Instituto de Estadística de Navarra es el órgano estadístico de la Administración de la Comunidad Foral de Navarra, responsable de la actividad estadística de interés para Navarra.
+2. La naturaleza y estructura orgánica del Instituto de Estadística de Navarra será definida por el Gobierno de Navarra, mediante Decreto Foral.
+3. (Suprimido).
+4. A todos los efectos el Instituto de Estadística de Navarra podrá utilizar el nombre Nastat de forma alternativa o conjuntamente con el nombre Instituto de Estadística de Navarra.
+Se suprime el apartado 3 por el art. único de la Ley Foral 18/2023, de 26 de octubre. Ref. BOE-A-2023-23347
+ Se añade el apartado 4 por la disposicion final 1.9 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 31
+
+Artículo 31. Funciones.
+1. Son funciones del Instituto de Estadística de Navarra las siguientes:
+a) Promover, dirigir y coordinar la actividad estadística pública de interés para Navarra.
+b) Difundir los principios, objetivos y demás extremos de la actividad estadística pública de interés para Navarra.
+c) Elaborar el Anteproyecto de Plan de Estadística de Navarra con la colaboración de las restantes unidades del Sistema Estadístico de la Administración de la Comunidad Foral y de las Administraciones Locales.
+d) Proponer normas sobre conceptos, definiciones, clasificaciones, nomenclaturas y códigos para la clasificación de los datos y la presentación de resultados, impulsar su utilización en la actividad estadística de Navarra y promover la coordinación metodológica con la actividad estadística de los entes locales, de otras Comunidades Autónomas, de la Administración General del Estado, de la Unión Europea y de otros organismos pertinentes.
+e) Realizar las operaciones estadísticas que le sean encomendadas en los Programas Anuales de Estadística.
+f) Elaborar sistemas integrados de estadísticas demográficas, económicas y sociales.
+g) Elaborar los directorios de unidades estadísticas y realizar las operaciones censales necesarias para crear y mantener actualizados los marcos y parámetros básicos de información sobre el territorio, la población, las viviendas y las actividades económicas.
+h) Promover la investigación estadística y la formación y el perfeccionamiento profesional del personal estadístico.
+i) Representar a la Administración de la Comunidad Foral en las relaciones con unidades y organismos locales y organismos autonómicos, estatales e internacionales especializados en materia estadística, promoviendo la coordinación y colaboración con ellos en la actividad estadística. En el ejercicio de dicha representación contará con las unidades especializadas de los Departamentos, pudiendo delegar en ellos cuando se considere oportuno.
+j) Velar, con la colaboración de las unidades del Sistema Estadístico, por la aplicación y el respeto del secreto estadístico.
+k) Promover la difusión de las estadísticas relativas a Navarra.
+l) Informar, preceptivamente, todo proyecto de convenio o acuerdo y las contrataciones de servicios en los que participe la Administración de la Comunidad Foral en lo relativo a la actividad estadística que pueda figurar entre sus instrumentos u objetivos.
+m) Informar todo proyecto de operación estadística que pretendan realizar las unidades de la Administración de la Comunidad Foral, cuando este implique petición de información a personas físicas o jurídicas al margen de las relaciones administrativas propias de sus funciones.
+n) Informar los cuestionarios, procedimientos administrativos y aplicaciones informáticas que afecten a registros necesarios para la realización de operaciones estadísticas incluidas en el Plan de Estadística de Navarra.
+o) Realizar investigaciones para contrastar la eficacia de los cuestionarios y métodos empleados en la elaboración de las estadísticas por unidades que realizan actividad estadística regulada por la presente ley foral.
+p) Informar en el diseño y reforma de los procedimientos administrativos de la Administración de la Comunidad Foral de Navarra que por su naturaleza puedan tener consecuencias en la producción de informaciones de posible utilización como fuente estadística, de forma que se optimice el aprovechamiento de dichas innovaciones, contribuyendo adecuadamente a satisfacer las necesidades estadísticas.
+q) Elaborar las proyecciones de población y el resto de modelos de previsión relacionados que le sean encomendados.
+r) Promover la cultura del dato estadístico entre la administración, el ámbito educativo y la sociedad para fomentar la utilización de la estadística oficial.
+s) Cualesquiera otras funciones estadísticas que le sean encomendadas legalmente.
+Se modifica por la disposición final 1.4 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+ Se renombra la letra p) del apartado 1 como q) y se añade una nueva letra p) por la disposición final 1.4 de la Ley Foral 14/2016, de 21 de octubre. Ref. BOE-A-2016-10361
+
+### Artículo 32
+
+Artículo 32. Recursos técnicos y personales.
+El Instituto de Estadística de Navarra contará con los recursos técnicos, personales y económicos necesarios para el desarrollo de sus funciones y muy especialmente para proteger eficazmente la confidencialidad de los datos mediante el secreto estadístico.
+1. Contará con personal especializado en las materias específicas de la actividad estadística. La selección y regulación del mismo se realizará de conformidad con la legislación aplicable en la materia.
+2. Contará con los medios técnicos y las instalaciones adecuadas para el desarrollo de sus funciones y muy especialmente para la protección de la información sometida al secreto estadístico.
+3. Contará con los medios informáticos propios necesarios para el desarrollo de sus funciones de forma autónoma y continuada.
+
+## CAPÍTULO III
+
+De las unidades estadísticas de los Departamentos
+
+### Artículo 33
+
+Artículo 33. Unidades estadísticas de los Departamentos.
+1. Corresponde a las unidades que desarrollan actividad estadística en los Departamentos, la recopilación, producción y difusión de la información estadística para el ejercicio de sus funciones con especial atención a la explotación estadística de datos derivados de su actuación administrativa.
+Les corresponde asimismo la ejecución de las operaciones estadísticas que les sean encomendadas en los Programas Anuales de Estadística, cualquier otra función estadística que se les asigne legalmente y la actividad estadística realizada en los términos definidos en el artículo 28.2 de esta Ley Foral.
+2. Los Departamentos, en el ámbito de sus competencias, colaborarán con el Instituto de Estadística de Navarra en la preparación del Plan de Estadística de Navarra y de los Programas Anuales de Estadística, en la normalización de definiciones, clasificaciones, nomenclaturas y códigos para el tratamiento de datos y en la elaboración de resultados.
+3. Los Departamentos podrán promover y desarrollar, en el ámbito de sus competencias, convenios o acuerdos con contenido estadístico con otros organismos públicos.
+
+### Artículo 34
+
+Artículo 34. Órganos estadísticos de los Departamentos.
+1. Para promover el desarrollo estadístico, racionalizar los recursos y facilitar la colaboración en la actividad estadística, los Departamentos podrán designar una unidad, dedicada en exclusiva a la actividad estadística y responsable de la coordinación de toda su actividad estadística, como órgano estadístico del Departamento.
+Este órgano, que deberá disponer de la capacidad funcional necesaria para garantizar el desarrollo de sus funciones, estará sujeto al secreto estadístico en los términos establecidos en la presente ley foral, si cumple las condiciones que reglamentariamente se establezcan. Así mismo, se determinará reglamentariamente el procedimiento a seguir para el reconocimiento de los órganos estadísticos de los Departamentos para asumir los derechos y obligaciones inherentes al secreto estadístico.
+2. En el caso de inexistencia de un órgano estadístico, los Departamentos deberán constituir, mediante Orden Foral, una Comisión de Estadística.
+Las funciones de la Comisión de Estadística Departamental serán promover la coordinación interna de la actividad estadística, participar en el Consejo de Estadística de Navarra a través de sus representantes en el Pleno y Grupos de Trabajo y colaborar en la elaboración y seguimiento de los Planes de Estadística y Programas Anuales de Estadística, manteniendo la interlocución con el Instituto de Estadística de Navarra.
+Las Comisiones de Estadística Departamentales estarán compuestas por la persona que represente al Departamento en el Consejo de Estadística, que ejercerá la Presidencia, por quien ostente la Secretaría General Técnica, que ejercerá la Secretaría, y por las personas responsables de las unidades que produzcan o tengan relación directa con la información estadística. Podrán contar asimismo con la presencia de una persona representante del Instituto de Estadística de Navarra, que tendrá voz, pero no voto, para favorecer la coordinación.
+Las Comisiones de Estadística deberán reunirse al menos una vez al año para evaluar el cumplimiento del Programa Anual de Estadística y proponer las operaciones estadísticas y resto de elementos que deberán formar parte del Programa del ejercicio siguiente. Asimismo, podrán reunirse cuantas veces consideren a propuesta de la mitad de su composición. Los Acuerdos se tomarán por mayoría simple.
+Se modifica por la disposicion final 1.10 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 35
+
+Artículo 35. Información de la actividad estadística anual.
+Con el fin de realizar los informes de evaluación anuales, cada Departamento deberá facilitar a Nastat la información necesaria de las operaciones estadísticas de su responsabilidad, de acuerdo con el modelo de documentación vigente.
+Se modifica por la disposición final 1.5 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+## CAPÍTULO IV
+
+Del Consejo de Estadística de Navarra
+
+### Artículo 36
+
+Artículo 36. Naturaleza y composición.
+1. El Consejo de Estadística de Navarra es el órgano consultivo y de participación del Sistema Estadístico de Navarra. Sus objetivos son facilitar la relación de las unidades estadísticas entre sí y de éstas con informantes y con quienes utilizan la información estadística.
+2. Su composición, organización y funcionamiento serán determinados reglamentariamente.
+Se modifica por la disposicion final 1.11 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 37
+
+Artículo 37. Funciones.
+El Consejo de Estadística de Navarra ejercerá funciones de asesoramiento, consulta, participación y mediación en relación con la actividad del Sistema Estadístico de Navarra, en los términos que se desarrollen reglamentariamente.
+Se modifica por la disposicion final 1.12 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 38
+
+Artículo 38. Recursos.
+Los recursos que precise el Consejo de Estadística de Navarra para su correcto funcionamiento serán facilitados por el Instituto de Estadística de Navarra.
+
+## TÍTULO III
+
+TÍTULO III
+De las relaciones estadísticas con las Entidades Locales
+
+### Artículo 39
+
+Artículo 39. De las unidades estadísticas de las Administraciones Locales.
+1. Las unidades estadísticas de las entidades locales de Navarra y de los organismos y empresas dependientes de las mismas, que realicen actividad estadística, se regirán por su propia normativa.
+2. Las entidades locales de Navarra podrán participar voluntariamente, en el ámbito de sus competencias, en la ejecución y difusión de las estadísticas incluidas en el Plan Estadístico de Navarra y en los Programas Anuales de Estadística, así como en las contempladas en el artículo 28.1.
+3. Las entidades locales de Navarra podrán solicitar la inclusión de estadísticas de su interés en el Anteproyecto de Plan de Estadística de Navarra y en los Programas Anuales de Estadística. La solicitud irá acompañada de la memoria del interés público de la estadística, de las características técnicas, de la memoria económica, de la propuesta de financiación y de la unidad encargada de su realización.
+4. Las entidades locales de Navarra podrán designar una unidad dedicada en exclusiva a la actividad estadística como órgano estadístico propio. Este órgano estadístico deberá ser sujeto del secreto estadístico en los términos establecidos en la presente Ley Foral si cumple los requisitos que reglamentariamente se establezcan.
+
+## TÍTULO IV
+
+Régimen sancionador
+
+### Artículo 40
+
+Artículo 40. Infracciones.
+El incumplimiento de las obligaciones contenidas en la presente Ley Foral, así como en las normas que la complementen o desarrollen, constituyen infracción administrativa en materia de estadística en la Comunidad Foral de Navarra.
+
+### Artículo 41
+
+Artículo 41. Responsables de las infracciones.
+1. Se considerarán responsables de las infracciones reguladas en esta Ley Foral las personas físicas o jurídicas a quienes resulte imputable la acción u omisión constitutiva de la infracción.
+2. Las personas jurídicas responderán del pago de las sanciones impuestas como consecuencia de las infracciones cometidas por sus órganos, empleados o agentes.
+
+### Artículo 42
+
+Artículo 42. Infracciones de los obligados a prestar colaboración.
+1. Las infracciones cometidas por personas físicas o jurídicas obligadas a prestar colaboración estadística se clasifican en leves, graves y muy graves.
+2. Se consideran infracciones leves:
+a) No suministrar información obligatoria, cuando tal hecho no provoque perjuicio grave.
+b) Suministrar la información requerida fuera de plazo, o con datos inexactos, incompletos o en forma distinta a la establecida, siempre que los anteriores hechos no den lugar a un perjuicio grave.
+3. Se consideran infracciones graves:
+a) No suministrar la información obligatoria requerida o hacerlo fuera de plazo o con datos inexactos, incompletos o en forma distinta a la establecida, siempre que los anteriores hechos den lugar a un perjuicio grave.
+b) La reincidencia en la comisión de infracciones leves.
+4. Se consideran infracciones muy graves:
+a) El suministro de forma dolosa de datos inexactos, tanto si son de respuesta voluntaria, como obligatoria.
+b) La reincidencia en la comisión de infracciones tipificadas como graves.
+
+### Artículo 43
+
+Artículo 43. Infracciones de los que realizan actividad estadística.
+1. Las infracciones imputables a unidades que realizan actividad estadística regulada por la presente Ley Foral, las cometidas por su personal y las infracciones cometidas por las personas físicas o jurídicas que colaboren con aquéllas en virtud de acuerdos, convenios o contratos, podrán ser leves, graves y muy graves.
+2. Se consideran infracciones leves:
+a) La incorrección con los informantes.
+b) La falta de comunicación o comunicación incompleta de las normas que han de observarse en la cumplimentación de los cuestionarios, o documentos de similar naturaleza, y de las sanciones que se les podrían imponer por su incumplimiento.
+3. Se consideran infracciones graves:
+a) La reincidencia en la comisión de infracciones leves.
+b) El incumplimiento de las normas técnicas aprobadas en materia estadística.
+c) La negativa a exhibir el documento acreditativo de su condición de personal estadístico al informante que lo solicite.
+4. Se consideran infracciones muy graves:
+a) La reincidencia en la comisión de infracciones graves.
+b) La difusión o comunicación de datos amparados por el secreto estadístico a personas no autorizadas.
+c) La utilización de datos estadísticos con fines no estadísticos.
+d) La exigencia como obligatoria de información que no goza de este carácter.
+e) La difusión de resultados sin que se hayan hecho públicos oficialmente o sin la autorización pertinente del responsable de la unidad estadística correspondiente.
+
+### Artículo 44
+
+Artículo 44. Cuantía de las sanciones.
+1. Las infracciones leves se sancionarán con multa de hasta 600 euros.
+2. Las infracciones graves se sancionarán con multa de 601 euros hasta 3.000 euros.
+3. Las infracciones muy graves se sancionarán con multa de 3.001 euros a 30.000 euros.
+4. Aquellas infracciones en las que el infractor haya obtenido un beneficio económico podrán sancionarse con multa de hasta el doble del beneficio obtenido.
+5. Las cuantías de las sanciones establecidas en los apartados anteriores se graduarán atendiendo en cada caso a la propia gravedad de la infracción, a la naturaleza de los daños y perjuicios causados y a la conducta anterior de los infractores, salvo que ya hubiese sido tomada en consideración para la calificación de la sanción.
+6. Cuando las infracciones fueran cometidas por funcionarios públicos o por personal laboral al servicio de la Administración de la Comunidad Foral de Navarra, sin perjuicio de lo previsto en los apartados anteriores, no serán de aplicación las sanciones previstas en este apartado. Las mencionadas infracciones quedarán sujetas al régimen sancionador regulado en la legislación específica que resulte aplicable en cada caso.
+Se modifican los apartados 1, 2 y 3 por la disposicion final 1.13 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 45
+
+Artículo 45. Condición necesaria para sancionar.
+Las sanciones por las infracciones recogidas en los artículos 42 y 43 de la presente Ley Foral sólo se podrán imponer cuando exista constancia de que la conducta realizada está comprendida en el supuesto de hecho legalmente previsto como tal infracción.
+
+### Artículo 46
+
+Artículo 46. Competencia y procedimientos sancionadores.
+1. Las sanciones por las infracciones a que se hace referencia en el artículo 42.2 y en el artículo 43.1 serán impuestas por el Director del Instituto de Estadística de Navarra. Las sanciones a que se hace referencia en el apartado 3 del artículo 42 y en el apartado 2 del artículo 43 serán impuestas por el titular del Departamento de que dependa el Instituto de Estadística de Navarra. Las sanciones recogidas en el apartado 4 del artículo 42 y en el apartado 3 del artículo 43 serán impuestas por el Gobierno de Navarra.
+2. La imposición de las sanciones se efectuará conforme a lo establecido en las normas que desarrollen el procedimiento sancionador en la Comunidad Foral de Navarra, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en la Ley Foral 11/2019, de 11 de marzo, de la Administración de la Comunidad Foral de Navarra y del Sector Público Institucional Foral.
+Se modifica el apartado 2 por la disposicion final 1.14 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+### Artículo 47
+
+Artículo 47. Prescripción.
+Las infracciones leves prescribirán al año, a los dos años las graves y a los cinco años las muy graves, a contar desde el momento que fueron cometidas.
+
+### Artículo 48
+
+Artículo 48. Otras responsabilidades.
+Las sanciones administrativas a que se hace referencia en este título se impondrán sin perjuicio de las responsabilidades civiles o de cualquier otro orden que puedan concurrir.
+
+## TÍTULO V
+
+Registro de población de Navarra
+Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 48 [sic]
+
+Artículo 48 [sic]. Creación del Registro de Población de Navarra.
+Se crea el Registro de Población de Navarra en el que se contendrán los datos de nombre, apellidos, domicilio, sexo, fecha de nacimiento y número del DNI, o del documento que lo sustituya en el caso de extranjeros, que constan en los padrones municipales de habitantes y en el censo electoral de todos los Ayuntamientos de la Comunidad Foral de Navarra.
+Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 49
+
+Artículo 49. Creación del Registro de Población de Navarra.
+Se crea el Registro de Población de Navarra en el que se contendrán los datos de nombre, apellidos, domicilio, sexo, fecha de nacimiento y número del DNI, o del documento que lo sustituya en el caso de población extranjera, que constan en los padrones municipales de habitantes de todos los Ayuntamientos de la Comunidad Foral de Navarra. Podrán incorporarse datos adicionales de contacto que consten en la Administración de la Comunidad Foral que sean necesarios para la comunicación a los fines establecidos en el artículo 52 de la presente ley foral.
+Se modifica por la disposición final 1.6 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+ Se modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 50
+
+Artículo 50. Obtención de los datos del Registro de Población de Navarra.
+Los datos de carácter personal del Registro de Población de Navarra serán facilitados por el Instituto Nacional de Estadística, de acuerdo con el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), y con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de los derechos digitales.
+El resto de los datos del Registro de Población de Navarra que no consten total o parcialmente en los facilitados por el Instituto Nacional de Estadística podrán ser obtenidos únicamente a los efectos previstos en el artículo 52 de esta ley foral, de registros administrativos propiedad de la Administración de la Comunidad Foral, debiendo estar identificados y constar en el Registro de Actividades de Tratamiento del Instituto de Estadística de Navarra-Nastat.
+Se modifica por la disposición final 1.7 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+ modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 51
+
+Artículo 51. Ejercicio de los derechos de las personas.
+1. Las personas podrán ejercitar ante el Instituto de Estadística de Navarra los derechos de acceso, rectificación, supresión, limitación del tratamiento, portabilidad de los datos, oposición y a no ser objeto de decisiones individuales automatizadas.
+2. El Instituto de Estadística de Navarra podrá denegar las solicitudes de acceso que reciba cuando los datos se encuentren amparados por las garantías del secreto estadístico.
+Se modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 52
+
+Artículo 52. Finalidad del Registro de Población de Navarra.
+1. Los datos del Registro de Población de Navarra podrán usarse por los diferentes órganos de la Administración de la Comunidad Foral de Navarra para la elaboración de estadísticas oficiales de acuerdo con lo establecido en la presente ley foral.
+2. El Registro de Población de Navarra también tiene como finalidad facilitar la comunicación de los diferentes órganos de la Administración de la Comunidad Foral de Navarra con los residentes en su territorio, en el marco de las relaciones jurídico-administrativas derivadas del ejercicio de las competencias que tengan atribuidas.
+3. Los órganos de la Administración de la Comunidad Foral de Navarra podrán utilizar los datos del Registro de Población de Navarra, salvo que la persona afectada se opusiera a ello, si son necesarios para el ejercicio de sus competencias.
+4. Las solicitudes de datos contenidos en el Registro de Población de Navarra se dirigirán al Instituto de Estadística de Navarra y deberán explicitar la función para la que esa información es precisa.
+5. El Instituto de Estadística de Navarra facilitará únicamente los datos enumerados en el artículo 49 de la presente ley foral.
+Se modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 53
+
+Artículo 53. Confidencialidad.
+Fuera de los supuestos contemplados en el artículo anterior, los datos de carácter personal del Registro de Población de Navarra son confidenciales y el acceso a los mismos se regirá por lo dispuesto en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE: Reglamento general de protección de datos, y en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de los derechos digitales.
+Se modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 54
+
+Artículo 54. Utilización de los datos del Registro de Población de Navarra.
+La información que obtengan de la forma prevista en este Título los diferentes órganos de la Administración de la Comunidad Foral de Navarra no podrá ser manipulada, ni cedida ni utilizada para otras funciones distintas de las que se hicieron constar en la solicitud dirigida al Instituto de Estadística de Navarra.
+Se modifica por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+ Se añade por la disposición final 1 de la Ley Foral 19/2010, de 23 de noviembre. Ref. BOE-A-2010-19962
+
+### Artículo 55
+
+Artículo 55. Medidas de seguridad.
+1. Las medidas de seguridad del Registro de Población de Navarra, serán, de acuerdo con lo previsto en la disposición adicional primera de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de los derechos digitales, las previstas en el Esquema Nacional de Seguridad.
+2. En todo caso, de acuerdo a lo previsto en el artículo 32 del Reglamento (UE) 2016/679, las medidas que se adopten deberán ser apropiadas para garantizar un nivel de seguridad adecuado.
+Se añade por la disposicion final 1.15 de la Ley Foral 5/2021, de 10 de mayo. Ref. BOE-A-2021-9237#df
+
+## TÍTULO VI
+
+Sistemas de indicadores públicos estadísticos de Navarra
+Se añade por la disposicion final 1.8 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+### Artículo 56
+
+Artículo 56. Sistemas de indicadores para la evaluación.
+Los indicadores relacionados con los objetivos de planes, programas, proyectos y todo tipo de documento de planificación estratégica se diseñarán de forma que utilicen datos de operaciones estadísticas oficiales para garantizar su homogeneidad, comparabilidad y difusión periódica.
+Se añade por la disposicion final 1.8 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+### Artículo 57
+
+Artículo 57. Sistema de Indicadores Estadísticos Públicos de Navarra.
+El Sistema de Indicadores Estadísticos Públicos de Navarra (SIEN) servirá como referencia a los indicadores estratégicos, de impacto y de contexto que precisan las diferentes unidades de la Administración de la Comunidad Foral en sus actividades de planificación y diagnóstico o para la evaluación de políticas públicas, o cualquier otra situación que requiera de ellos.
+La inclusión de nuevos indicadores será posible siempre que las fuentes para su cálculo figuren en el Plan de Estadística de Navarra o en otros instrumentos de planificación estadística oficial.
+Todos los indicadores deberán contar con la correspondiente metodología para su elaboración, que incluirá al menos la definición, fórmula teórica, unidad de medida, fuentes utilizadas y la periodicidad de cálculo.
+Esta información será pública a través de la página web del Instituto de Estadística de Navarra-Nastat, fomentándose su reutilización.
+Se añade por la disposicion final 1.8 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+### Artículo 58
+
+Artículo 58. Sistema de Indicadores Estadísticos Territoriales de Navarra.
+El Sistema de Indicadores Estadísticos Territoriales de Navarra agrupará a indicadores del Sistema de Indicadores Estadísticos Públicos de Navarra (SIEN) para los que es posible incluir una dimensión territorial inferior al conjunto de Navarra. Incluirá también indicadores que por su naturaleza no pueden ofrecerse para el conjunto de Navarra pero sí de forma territorializada.
+La desagregación territorial deberá ser alguna de las zonificaciones establecidas en normativas oficiales.
+La inclusión de indicadores territoriales en el sistema deberá responder a criterios de necesidad, oportunidad y viabilidad.
+Los indicadores territoriales deberán guardar coherencia con el indicador de referencia para Navarra cuando este exista.
+Todos los indicadores deberán contar con la correspondiente metodología para su elaboración, que incluirá al menos la definición, formula teórica, unidad de medida, fuentes utilizadas y la periodicidad de cálculo.
+Esta información será pública a través de la página web del Instituto de Estadística de Navarra-Nastat, fomentándose su reutilización.
+Se añade por la disposicion final 1.8 de la Ley Foral 2/2025, de 3 de marzo. Ref. BOE-A-2025-5610
+
+### Disposición adicional
+
+Disposición adicional.
+Se faculta al Gobierno de Navarra para revisar anualmente la cuantía de las sanciones previstas en la presente Ley Foral, a fin de adecuarlas a las modificaciones experimentadas por el índice general de precios de consumo.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los convenios o acuerdos firmados previamente por el Departamento de Economía y Hacienda o cualquier otro Departamento del Gobierno, en materia de estadística, seguirán rigiéndose por su propia normativa.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En tanto no se cuente con un Plan de Estadística aprobado por e! Parlamento de Navarra, el presupuesto de las actividades estadísticas y, en concreto, el del Instituto de Estadística de Navarra, se establecerá por los procedimientos habituales.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley Foral.
+
+### Disposición final primera
+
+Disposición final primera.
+En un plazo máximo de dos años a partir de la entrada en vigor de la presente Ley Foral, el Gobierno remitirá al Parlamento de Navarra un proyecto de Ley Foral del Plan de Estadística de Navarra.
+
+### Disposición final segunda
+
+Disposición final segunda.
+En un plazo máximo de seis meses a partir de la entrada en vigor de la presente Ley Foral, se aprobará el Decreto Foral de naturaleza y estructura orgánica del Instituto de Estadística de Navarra para acomodarlo a la presente Ley Foral.
+
+### Disposición final tercera
+
+Disposición final tercera.
+En un plazo máximo de seis meses a partir de la entrada en vigor de la presente Ley Foral, el Gobierno aprobará el Reglamento de organización y funcionamiento del Consejo de Estadística de Navarra. En un plazo no superior a un año se constituirá el Consejo de Estadística de Navarra.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Se autoriza al Gobierno de Navarra para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de esta Ley Foral.
+
+### [firma]
+
+Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
+Pamplona, 27 de junio de 1997.
+MIGUEL SANZ SESMA,
+Presidente

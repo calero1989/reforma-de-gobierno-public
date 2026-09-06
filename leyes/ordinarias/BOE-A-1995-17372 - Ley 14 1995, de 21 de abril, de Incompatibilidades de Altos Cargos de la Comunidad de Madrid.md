@@ -1,0 +1,272 @@
+# Ley 14/1995, de 21 de abril, de Incompatibilidades de Altos Cargos de la Comunidad de Madrid.
+
+- Identificador BOE: `BOE-A-1995-17372`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1995-17372
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el BOCM núm. 141, de 15 de junio de 1995.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD DE MADRID
+Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
+PREÁMBULO
+Nuestro ordenamiento jurídico precisa dotarse en materia de incompatibilidades de las mayores garantías posibles para el afianzamientos del sistema democrático y la transparencia de la Administración Pública, reforzándose de este modo la legitimidad de nuestras instituciones políticas.
+A esta finalidad respondió en su momento la Ley 7/1984, de 14 de marzo, de Incompatibilidades de los miembros del Consejo de Gobierno y Altos Cargos de la Administración de la Comunidad de Madrid, reglamentariamente desarrollada por el Decreto 63/1985, de 5 de junio, que regula la organización y funcionamiento del Registro de Incompatibilidades.
+Respecto de la norma anterior, la presente Ley introduce las siguientes novedades:
+Primero, la obligación de declaración anual de bienes y derechos.
+Segundo, la obligación de declaración de actividades.
+A tal fin se crean dos Registros: El Registro de Bienes y Derechos Patrimoniales y el Registro de Actividades de Altos Cargos de la Comunidad de Madrid.
+
+## TÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+1. El desempeño de las funciones de gobierno y administración de la Comunidad de Madrid se ejercerá bajo el principio de incompatibilidad de actividades de conformidad con las disposiciones que se contemplan en esta Ley.
+2. La presente Ley regula el régimen de incompatibilidad de actividades y control de intereses de los Altos Cargos de la Comunidad de Madrid.
+Se modifica el apartado 2 por el art. 11.1 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+### Artículo 2
+
+Artículo 2.
+La presente Ley será de aplicación a los siguientes altos cargos de la Comunidad de Madrid:
+1. Al Presidente del Consejo de Gobierno.
+2. Al Vicepresidente o Vicepresidentes del Consejo de Gobierno.
+3. A los Consejeros, Viceconsejeros, Directores generales, Secretarios generales, Técnicos y demás cargos de rango igual o superior al de Director general de las distintas Consejerías.
+4. Al Interventor general de la Comunidad de Madrid.
+5. Al Tesorero general de la Comunidad de Madrid.
+6. Al Director del Gabinete de Presidencia.
+7. A los Gerentes, Presidentes Ejecutivos, Directores Generales, Consejeros Delegados y demás cargos equivalentes, cualquiera que sea su denominación, de los Órganos de Gestión, Organismos Autónomos y entidades públicas, salvo a los Gerentes o asimilados de los Hospitales creados bajo la forma de Entidad de Derecho público que no tendrán la consideración de Alto Cargo.
+8. Asimismo, a los titulares de cualquier otro puesto de trabajo que, implicando funciones directivas, no se encuentre reservado a personal funcionario o laboral, cualquiera que sea su denominación, cuyo nombramiento se efectúe mediante Decreto del Gobierno, siempre y cuando no se encuentren sometidos a otro régimen de incompatibilidades de acuerdo con la normativa específica que regule los organismos a los que se encuentren adscritos dichos puestos de trabajo.
+9. A los Presidentes y Consejeros Delegados de las sociedades mercantiles con participación mayoritaria en su capital social de la Comunidad de Madrid. No tendrán la consideración de Alto Cargo los Gerentes y demás cargos equivalentes, cualquiera que sea su denominación, de dichas sociedades mercantiles.
+Se modifica el apartado 7 y se añade el 9 por el art. 14.1 y 2 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Se añade el apartado 8 por el art. 11.2 de la Ley 14/2001, de 26 de diciembre. Ref. BOE-A-2002-4377.
+
+## TÍTULO II
+
+Régimen de incompatibilidades
+
+## CAPÍTULO I
+
+Principios generales
+
+### Artículo 3
+
+Artículo 3.
+1. Los altos cargos comprendidos en el ámbito de aplicación de esta Ley ejercerán sus funciones con dedicación absoluta y no podrán compatibilizar su actividad con el desempeño, por sí o mediante sustitución o apoderamiento, de cualquier otro puesto, cargo, profesión o actividad, sean de carácter público o privado, por cuenta propia o ajena, y asimismo, tampoco podrán percibir cualquier otra remuneración con cargo a los presupuestos de las Administraciones Públicas o entidades vinculadas o dependientes de las mismas, ni cualquier otra percepción que, directa o indirectamente, provenga de una actividad privada; todo ello sin perjuicio de las excepciones contenidas en la presente Ley.
+2. La percepción de pensiones públicas, en su caso, quedará en suspenso durante el tiempo que se desempeña el cargo, excepto la de las indemnizaciones por accidentes de una cantidad a tanto alzado.
+
+### Artículo 4
+
+Artículo 4.
+Quienes desempeñen un alto cargo vienen obligados a inhibirse del conocimiento de los asuntos en cuyo despacho hubieran intervenido o que interesen a empresas o sociedades en cuya propiedad participen o en cuya dirección, asesoramiento o administración hubieren tenido alguna parte ellos mismos, su cónyuge o persona de su familia dentro del segundo grado civil.
+
+### Artículo 5
+
+Artículo 5.
+Durante los dos años siguientes a la fecha de su cese, los altos cargos no podrán realizar actividades privadas relacionadas con expedientes sobre los que hayan dictado resolución en el ejercicio del cargo.
+
+### Artículo 6
+
+Artículo 6.
+Las escrituras de constitución de sociedades no podrán ser inscritas en el Registro Mercantil de Madrid, a partir de la entrada en vigor de la presente Ley, si en las mismas no se consigna de modo expreso la prohibición de ocupar cargos en ellas o, en su caso, de ejercerlos, a personas declaradas incompatibles, en la medida y condiciones que quedan fijadas en esta Ley.
+
+## CAPÍTULO II
+
+Actividades que pueden ser compatibles
+
+### Artículo 7
+
+Artículo 7.
+El ejercicio de los cargos a que se refiere el artículo 2 podrá compatibilizarse durante su desempeño con:
+1. El desempeño de funciones representativas en organismos, corporaciones, fundaciones o instituciones análogas, así como de cargos en empresas o sociedades cuya designación corresponda a los órganos de gobierno y administración de la Comunidad de Madrid o se deriven de las funciones propias de estos cargos.
+El desempeño de dichas funciones y cargos no podrá suponer en ningún caso incremento alguno sobre las cantidades que por cualquier concepto corresponda percibir por el ejercicio del cargo inicial, con excepción de las indemnizaciones por gastos de viajes, estancias y traslados que les corresponda de acuerdo con la normativa vigente. Las restantes cantidades que, en su caso, se devenguen por el desempeño de estas funciones y cargos, sea cual fuere el concepto del devengo, serán ingresadas por la empresa, sociedad, organismo o ente pagador directamente en las arcas de la Comunidad de Madrid.
+2. Las actividades, de mera administración del patrimonio personal o familiar, siempre que con su ejercicio no se comprometa la imparcialidad o independencia del alto cargo en el ejercicio de su función.
+3. El ejercicio de funciones docentes, siempre que no supongan menoscabo de la dedicación en el ejercicio del cargo.
+4. Las actividades de producción y creación literaria, artística, científica o técnica y las publicaciones derivadas de aquéllas, así como la colaboración y la asistencia ocasional como ponente a congresos, seminarios, jornadas de trabajo, conferencias o cursos de carácter profesional, siempre que no sean consecuencia de una relación de empleo de prestación de servicios o supongan menoscabo del estricto cumplimiento de sus deberes.
+5. La condición de presidente, miembro o secretario de órganos colegiados de las Administraciones Públicas, cuando deban realizar dichas funciones por razón de su cargo, aplicándose igualmente las limitaciones previstas en el apartado 1.
+6. La participación en entidades culturales o benéficas que no tengan ánimo de lucro, siempre que no perciban ningún tipo de retribución o percepción por dicha participación, ni comprometa la imparcialidad o independencia del alto cargo en el ejercicio de su función.
+Se modifica el apartado 3 por el art. 6 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+ Se modifica el apartado 5 y se añade el 6 por el art. 13 de la Ley 2/2004, de 31 de mayo de 2004. Ref. BOE-A-2004-12575.
+
+### Artículo 8
+
+Artículo 8.
+Para el ejercicio de las funciones docentes se requiere la autorización expresa del Presidente de la Comunidad. Compete a la Mesa de la Asamblea, previo dictamen favorable de la Comisión de Reglamento e Incompatibilidades, la autorización al Presidente de la Comunidad para el ejercicio de funciones docentes.
+
+## CAPÍTULO III
+
+Retribuciones de los Directores Generales y cargos asimilados
+Se añade por el art. 7 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+### Artículo 8 bis
+
+Artículo 8 bis.
+Los Directores Generales y asimilados y los de rango inferior percibirán la retribución que establezcan los Presupuestos Generales de la Comunidad de Madrid para el cargo que ejercen.
+Se añade por el art. 7 de la Ley 3/2007, de 26 de julio. Ref. BOE-A-2007-17584.
+
+## TÍTULO III
+
+De las obligaciones y declaraciones de los Altos Cargos
+
+## CAPÍTULO I
+
+Declaraciones de actividades
+
+### Artículo 9
+
+Artículo 9.
+1. Los altos cargos a que se refiere el artículo 2 de esta Ley están obligados a efectuar la declaración comprensiva de las actividades desempeñadas por sí o mediante sustitución o apoderamiento, durante al menos el último año anterior al nombramiento. Dichas declaraciones se presentarán en el Registro de Actividades de Altos Cargos a que se refiere el artículo 13.1 de esta Ley en el improrrogable plazo de los dos meses siguientes a su nombramiento.
+2. Las autorizaciones para el ejercicio de funciones docentes prevista en el artículo 8 se inscribirán de oficio en el registro de Actividades de Altos Cargos.
+Se modifica el apartado 1 por el art. 30.1 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+## CAPÍTULO II
+
+Declaraciones de bienes y derechos
+
+### Artículo 10
+
+Artículo 10.
+1. Los titulares de los altos cargos enumerados en el artículo 2 están obligados a formular ante el Registro de Bienes y Derechos Patrimoniales a que se refiere el artículo 13.2 de esta Ley, y en los términos que reglamentariamente se establezcan, una declaración comprensiva de la totalidad de sus bienes, derechos y obligaciones.
+2. Esta declaración se presentará en el improrrogable plazo de los dos meses siguientes a la fecha de su nombramiento y cese en el citado Registro, y acompañada de copia de la última declaración tributaria correspondiente al impuesto sobre la renta de las personas físicas y del impuesto extraordinario sobre el patrimonio, en su caso.
+3. Además, anualmente y antes del 30 de noviembre, deberán obrar en el mismo Registro copia de las declaraciones tributarias mencionadas en el número anterior.
+Se modifica por el art. 30.2 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Se añade el apartado 4 la disposición final 1 de la Ley 10/2019, de 10 de abril. Ref. BOE-A-2019-10102#df
+ Esta adicción entra en vigor el 1 de enero de 2020, según establece la disposición final 3 de la citada ley.
+ Se modifica el apartado 3 por el art. 11.3 de la Ley 5/2004, de 28 de diciembre. Ref. BOE-A-2005-2732.
+
+## CAPÍTULO III
+
+De las otras obligaciones de los altos cargos
+
+### Artículo 11
+
+Artículo 11.
+1. Las personas incluidas en el ámbito de aplicación de esta Ley que ostenten competencias reguladoras, de supervisión o control sobre sociedades mercantiles, que emitan valores y otros activos financieros negociables en un mercado organizado y en relación con aquellos de que sean titulares tales personas, sus cónyuges que presten su conformidad o sus hijos menores de edad no emancipados deberán encomendar contractualmente la gestión y administración de tales valores o activos a una entidad financiera registrada en la Comisión Nacional del Mercado de Valores. La encomienda de gestión se mantendrá mientras dure el desempeño del cargo y en los dos años posteriores al cese en el mismo.
+La entidad con la que contraten efectuará la administración con sujeción exclusivamente a las directrices generales de rentabilidad y riesgo establecidas en el contrato sin que pueda recabar ni recibir instrucciones de inversión de los interesados. Tampoco podrán revelárseles la composición de sus inversiones, salvo que se trate de instituciones de inversión colectiva o que, por causa justificada, medie autorización de la Comisión Nacional del Mercado de Valores.
+Sin perjuicio de las responsabilidades de los interesados, el incumplimiento por la entidad de las obligaciones señaladas tendrá la consideración de infracción muy grave a efectos del régimen sancionador que, como entidad financiera, le sea aplicable.
+2. Los interesados entregarán copias de los contratos suscritos al Registro de Bienes y Derechos Patrimoniales para su anotación y a la Comisión Nacional del Mercado de Valores.
+
+## CAPÍTULO IV
+
+De la información sobre las declaraciones presentadas
+
+### Artículo 12
+
+Artículo 12.
+1. El Consejero de Hacienda, a la vista de las declaraciones presentadas, informará al Consejo de Gobierno de las posibles situaciones de incompatibilidad a los efectos de cumplimiento de esta Ley.
+2. Asimismo, dicho Consejero informará, en cada período de sesiones, a la Comisión de Reglamento e Incompatibilidades de la Asamblea de Madrid.
+
+## TÍTULO IV
+
+De los Registros
+
+### Artículo 13
+
+Artículo 13.
+Se crean los siguientes Registros:
+1. El Registro de Actividades de Altos Cargos de la Comunidad de Madrid.
+2. El Registro de Bienes y Derechos Patrimoniales de Altos Cargos de la Comunidad de Madrid.
+
+### Artículo 14
+
+Artículo 14.
+1. Los Registros señalados en el artículo anterior estarán adscritos a la Consejería de Hacienda, y en ambos tendrá la condición de Encargado del Registro el Director general de la Función Pública de la Comunidad de Madrid.
+2. Los Registros se llevarán por libros de acuerdo con lo establecido en el artículo 15 y además se instalarán en un sistema de gestión documental que garantice la inalterabilidad y permanencia de sus datos, así como la alta seguridad en el acceso y uso de los mismos.
+3. Al Registro de Actividades de Altos Cargos de la Comunidad de Madrid le será de aplicación la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común, así como el apartado 5 de este artículo.
+4. El Registro de Bienes y Derechos Patrimoniales de Altos Cargos de la Comunidad de Madrid tiene carácter reservado y sólo podrá accederse al mismo en la forma establecida en este artículo, sin perjuicio de aplicar la normativa estatal específica sobre acceso a declaraciones fiscales sobre la renta de las personas físicas y sobre el patrimonio. El acceso a las declaraciones formuladas en el Registro de Bienes y Derechos Patrimoniales se realizará previa presentación de solicitud en la que se especificará el Alto Cargo de cuyos datos se quiere tener constancia, así como el nombre y condición del solicitante.
+5. Pueden acceder al Registro de Bienes y Derechos Patrimoniales:
+a) La Asamblea de Madrid.
+b) El Consejo de Gobierno de la Comunidad de Madrid.
+c) Los órganos judiciales para la instrucción o resolución de procesos que requieran el conocimiento de los datos que obren en el Registro, de conformidad con lo dispuesto en las leyes procesales.
+d) El Ministerio Fiscal, cuando realiza actuaciones de investigación en el ejercicio de sus funciones, que requieran el conocimiento de los datos que obran en el Registro.
+e) El Defensor del Pueblo en los términos de su legislación reguladora.
+6. El personal que preste sus servicios en los Registros regulados en esta Ley tiene el deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su cargo, trabajo o función.
+
+### Artículo 15
+
+Artículo 15.
+1. El Registros de Actividades tendrá una sola sección.
+2. El Registro de Bienes y Derechos Patrimoniales se organizará en tres secciones:
+a) Sección de Tomas de Posesión y Ceses.
+b) Sección de Declaraciones Fiscales Anuales.
+c) Sección de gestión de valores y Activos Financieros.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Los preceptos contenidos en esta Ley se aplicarán sin perjuicio de lo establecido en la legislación electoral en relación con la condición de Diputado de la Asamblea de Madrid.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+1. Los Gerentes o asimilados de los Hospitales creados bajo la forma de Entidad de Derecho público, así como los Directores Gerentes de Atención Especializada y los de Atención Primaria, quedarán sometidos al régimen de incompatibilidades del personal al servicio de las Administraciones Públicas, si bien se les asimila en su rango administrativo a los Altos Cargos a los efectos de su declaración en situación administrativa de servicios especiales.
+2. Los Gerentes de sociedades mercantiles y demás cargos equivalentes, cualquiera que sea su denominación, estarán sometidos al régimen de incompatibilidades de la presente ley, quedando asimilados en su rango administrativo a los Altos Cargos a los efectos de su declaración en situación administrativa de servicios especiales.
+Se modifica por el art. 14.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Las entidades de derecho público de la Comunidad de Madrid y las sociedades mercantiles en las que ésta tenga mayoría de participación social deberán informar a la Dirección General de la Función Pública de la Consejería de Hacienda de los nombramientos que efectúen respecto de aquellos puestos de trabajo que, conforme a esta Ley, tengan la condición de alto cargo.
+Se modifica por el art. 14.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Su anterior numeración era disposición adicional 2.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+El Consejo de Gobierno, a propuesta del Consejero de Hacienda y en plazo de tres meses desde la entrada en vigor de esta Ley, procederá a dictar el Decreto por el que se apruebe el Reglamento de la misma. Queda autorizado el Consejo de Gobierno para dictar, en el marco de sus competencias, cuantas disposiciones exija la aplicación y el desarrollo de esta Ley.
+Se modifica por el art. 14.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Su anterior numeración era disposición adicional 3.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+En el plazo señalado en la disposición anterior se dará traslado a la Dirección General de la Función Pública de los libros y documentación del Registro creado por la Ley 7/1984, de 14 de marzo, y regulado por Decreto 63/1985, de 5 de junio.
+Se añade por el art. 14.3 de la Ley 3/2008, de 29 de diciembre. Ref. BOE-A-2009-4514.
+ Su anterior numeración era disposición adicional 4.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Los Altos Cargos incluidos en el artículo 2 de los que consten las declaraciones en los Registros de Bienes y Derechos Patrimoniales y de Actividades, que hayan sido cesados y nuevamente nombrados en el mismo u otro cargo de la Comunidad de Madrid considerado como Alto Cargo de la misma durante los dos meses siguientes a su cese, quedan exceptuados de presentar nuevamente las declaraciones de actividades y de bienes, derechos y obligaciones, así como la declaración del impuesto sobre la renta de las personas físicas y patrimonio, en su caso, a que hacen referencia el apartado 1 del artículo 9, y los apartados 1 y 2 del artículo 10 de la presente Ley.
+Se añade por el art. 30.3 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Hasta tanto no se desarrolle reglamentariamente esta Ley, las causas de incompatibilidad y las obligaciones formales de los altos cargos de la Comunidad de Madrid, serán las establecidas en la Ley 7/1984, de Incompatibilidades de los Miembros del Consejo de Gobierno y Altos Cargos de la Administración de la Comunidad de Madrid y en el Decreto 63/1985, sobre Organización y Funcionamiento del Registro de Incompatibilidades.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+En la fecha en que entre en vigor el desarrollo reglamentario de esta Ley, quedará derogada la Ley 7/1984, de 14 de marzo, de Incompatibilidades de los Miembros del Consejo de Gobierno y Altos Cargos de la Administración de la Comunidad de Madrid y cuantas disposiciones se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final única
+
+Disposición final única.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiendo ser publicada en el «Boletín Oficial del Estado».
+
+### Disposición final primera
+
+Disposición final primera.
+Las referencias a la Dirección General de Función Pública contenidas en la presente Ley deben entenderse referidas al titular de la Dirección General competente en materia de Recursos Humanos.
+Se añade por el art. 30.4 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día de su publicación en el «Boletín Oficial de la Comunidad de Madrid», debiendo ser publicada en el «Boletín Oficial del Estado».
+Se renumera por el art. 30.5 de la Ley 11/2022, de 21 de diciembre. Ref. BOE-A-2023-7343
+ Anteriormente era la disposición final única.
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda la guarden y la hagan guardar.
+Madrid, 21 de abril de 1995.
+JOAQUÍN LEGUINA,
+Presidente

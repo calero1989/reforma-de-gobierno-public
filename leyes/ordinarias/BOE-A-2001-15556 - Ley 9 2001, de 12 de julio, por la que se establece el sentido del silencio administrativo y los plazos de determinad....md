@@ -1,0 +1,953 @@
+# Ley 9/2001, de 12 de julio, por la que se establece el sentido del silencio administrativo y los plazos de determinados procedimientos como garantías procedimentales para los ciudadanos.
+
+- Identificador BOE: `BOE-A-2001-15556`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2001-15556
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+A todos los que la presente vieren, sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley por la que se establece el sentido del silencio administrativo y los plazos de determinados procedimientos como garantías procedimentales para los ciudadanos.
+EXPOSICIÓN DE MOTIVOS
+I
+Con fecha 14 de enero de 1999, se publicó en el «Boletín Oficial del Estado» la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+La Ley 30/1992, según la redacción dada por la Ley 4/1999, establece en su artículo 42.2 que el plazo máximo en el que debe notificarse la resolución expresa no podrá exceder de seis meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en la normativa comunitaria europea. Ello supone el acortamiento automático de todos los plazos superiores a seis meses que hayan sido establecidos por vía reglamentaria y carezcan de cobertura expresa por una norma con rango de ley o una norma de Derecho Comunitario Europeo, los cuales se entenderán reducidos al de seis meses.
+Asimismo, con la modificación de la Ley 30/1992, se establece como regla general el silencio estimatorio en los procedimientos iniciados a solicitud del interesado, salvo que una norma con rango de ley o de Derecho Comunitario Europeo establezca lo contrario (art. 43.2). Se exceptúan de la regla general tres categorías de procedimientos iniciados a solicitud del interesado: los procedimientos de ejercicio del derecho de petición, aquellos de los que pudiera transferirse al solicitante o a tercero facultades sobre el dominio público o el servicio público y los de impugnación de actos y disposiciones.
+La circunstancia anterior aconsejó dictar una norma con rango de ley, plasmándose en el capítulo VIII de la Ley 17/1999, de 28 de diciembre, de Medidas Fiscales y Administrativas, que por razones de urgencia abordó parcialmente ambos aspectos.
+Tras haberse llevado a cabo un estudio exhaustivo de los distintos procedimientos administrativos de la Comunidad Autónoma de Andalucía, se ha llegado a la conclusión de la necesidad de la presente Ley que da cobertura a aquellos procedimientos en los que se considera necesario que el plazo de notificación de la resolución sea superior a seis meses y aquellos otros para los que se prevé el sentido desestimatorio del silencio.
+Además, razones conectadas con la precisa certeza en la aplicación de las normas aconsejan integrar en esta Ley preceptos que en materia de procedimientos administrativos se recogieron en el capítulo VIII de la Ley 17/1999, de 28 de diciembre, y que consecuentemente de forma expresa se derogan.
+El artículo 1 del presente texto presta cobertura a aquellos procedimientos en los que se considera necesario mantener o establecer plazos superiores a seis meses, por remisión al Anexo I, que en su mayor parte son los incluidos en la referida Ley 17/1999, de 28 de diciembre.
+El artículo 2 establece una serie de supuestos en los que se prevé el sentido desestimatorio del silencio. En su apartado 1 por vía de remisión a los procedimientos incluidos en el Anexo II y en su apartado 2 con carácter general para los procedimientos de concesión de subvenciones o ayudas, incorporando el texto del artículo 42.1 de la citada Ley 17/1999, de 28 de diciembre.
+Por último, en el artículo 3 se establece que se entienden iniciados de oficio los procedimientos para la concesión de subvenciones o ayudas en régimen de concurrencia competitiva.
+II
+De acuerdo con el artículo 13.4 del Estatuto de Autonomía, es competencia de nuestra Comunidad Autónoma el procedimiento administrativo derivado de las especialidades de su organización, limitada por lo dispuesto en el artículo 149.1.18 de la Constitución, que reserva al Estado la competencia para regular el procedimiento administrativo común.
+La presente norma se sitúa en el ámbito de una serie de procedimientos relativos a diversas materias de competencia autonómica contenidas en el título I del Estatuto de Autonomía. Por lo que la previsión del artículo 13.4 actúa como una competencia instrumental respecto de cada uno de los sectores materiales específicos en los que se insertan las previsiones procedimentales.
+
+### Artículo 1
+
+Artículo 1. Duración máxima de los procedimientos.
+Sin perjuicio de lo dispuesto en cualquier otra norma con rango de ley, el plazo máximo para resolver y notificar la resolución expresa de los procedimientos administrativos que se detallan en el Anexo I de la presente Ley será el establecido para cada uno de ellos en el mismo.
+
+### Artículo 2
+
+Artículo 2. Procedimientos con silencio desestimatorio.
+1. En los procedimientos que se relacionan en el Anexo II de la presente Ley, y sin perjuicio de la obligación de dictar y notificar la resolución expresa, el vencimiento del plazo máximo establecido sin haberse notificado la misma legitima al interesado o interesados que hubieran deducido la solicitud para entenderla desestimada por silencio administrativo.
+2. Sin perjuicio de la obligación de dictar y notificar resolución expresa, las solicitudes de cualquier subvención o ayuda podrán entenderse desestimadas por silencio administrativo si, transcurrido el plazo máximo establecido, no se hubiera dictado y notificado resolución expresa.
+
+### Artículo 3
+
+Artículo 3. Forma de iniciación en determinados procedimientos.
+Se consideran como iniciados de oficio los procedimientos para la concesión de subvenciones o ayudas en régimen de concurrencia competitiva, entendiendo como tales aquéllas cuya concesión, imputada a un mismo crédito presupuestario, requiere, de acuerdo con los criterios establecidos en la norma reguladora correspondiente, la comparación en un único procedimiento de una eventual pluralidad de solicitudes entre sí, a fin de resolver sobre la concesión y, en su caso, establecer la cuantía.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Incidencias en materia de contratación administrativa.
+Sin perjuicio de que los procedimientos en materia de contratación administrativa se rijan por las reglas específicas contenidas en la legislación de contratos de las Administraciones Públicas, en cualquier caso, en dichos procedimientos iniciados a solicitud del interesado durante la ejecución del contrato o como consecuencia de la misma, la falta de notificación de la resolución expresa dentro del plazo establecido podrá entenderse por dicho interesado que tiene efectos desestimatorios.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Subvenciones y Ayudas.
+Se modifica el párrafo segundo del apartado 2 del artículo 18 de la Ley 1/2000, de 27 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2001, el cual queda redactado de la siguiente forma:
+«Asimismo, no podrá proponerse el pago de subvenciones o ayudas a beneficiarios que no hayan justificado en tiempo y forma las subvenciones concedidas con anterioridad con cargo al mismo programa presupuestario por la Administración Autonómica y sus Organismos Autónomos.»
+
+### Disposición transitoria única
+
+Disposición transitoria única. Procedimientos en tramitación.
+A los procedimientos en trámite, iniciados antes de la entrada en vigor de la presente Ley, no les será de aplicación la misma, rigiéndose por la normativa anterior.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normativa que se deroga.
+1. Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan a la presente Ley.
+2. En especial, quedan derogados, en lo que respecta al sentido del silencio, los Decretos 132/1993, 133/1993, 134/1993, 135/1993, 136/1993, 137/1993, 138/1993, 139/1993, 140/1993, 141/1993, 142/1993 y 143/1993, todos ellos de 7 de septiembre, de adaptación a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Quedan igualmente derogados los artículos 40 y su anexo, 41 y 42 de la Ley 17/1999, de 28 de diciembre, de Medidas Fiscales y Administrativas.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación.
+Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias en desarrollo y ejecución de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
+
+### [firma]
+
+Sevilla, 12 de julio de 2001.
+MANUEL CHAVES GONZÁLEZ,
+Presidente
+
+## ANEXO I
+
+Procedimientos con plazo de resolución y notificación superior a seis meses
+Consejería de la Presidencia
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 1.1.1
+ Sancionadores en materia de telecomunicaciones
+ * Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones (BOE núm. 264, de 4-11-2003).
+ 10 meses
+Consejería de Economía y Hacienda
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 2.1.1
+ Investigación de bienes y derechos.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 171.
+ 2 años.
+ 2.1.2
+ Deslinde.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 174.
+ 18 meses.
+ 2.1.3
+ Recuperación de la posesión de bienes y derechos.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 177.
+ 12 meses.
+ 2.1.4
+ Inspección de fianzas de arrendamientos y suministros
+ * Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros; art. 85 y disposición transitoria octava (BOJA núm. 151, de 31-12-1997).
+ * Ley 58/2003, de 17 de diciembre, General Tributaria (BOE núm. 302, de 18-12-2003).
+ * Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de tributos (BOE núm. 213, de 5-9-2007).
+ 12 meses ampliables por otros 12, conforme al art. 150 de la Ley 58/2003, de 17 de diciembre
+ 2.1.5
+ Apremio para la recaudación de ingresos de Derecho Público no tributarios de la Comunidad Autónoma de Andalucía
+ * Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; art. 21 (BOJA núm. 59, de 26-7-1983).
+ * Ley 58/2003, de 17 de diciembre, General Tributaria; art. 104. (BOE núm. 302, de 18-12-2003).
+ * Decreto 46/1986, de 5 de marzo, por el que se aprueba el Reglamento General de Tesorería y Ordenación de Pagos, arts. 21 y 22 (BOJA núms. 28 y 29, de 4 y 8-4-1986).
+ * Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación (BOE núm. 210, de 2-9-2005).
+ Las actuaciones podrán extenderse hasta el plazo de prescripción del derecho de cobro
+ 2.1.6
+ Desahucio administrativo.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 180.
+ 12 meses.
+ 2.1.7
+ Cesión gratuita de bienes patrimoniales a favor del sector público.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 70.
+ * Decreto 276/1987, de 11 de noviembre, por el que se aprueba el Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 133.
+ 10 meses.
+ 2.1.8
+ (Suprimido)
+ 2.1.9
+ Reversión de bienes donados
+ * Decreto 276/1987, de 11 de noviembre, por el que se aprueba el Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 171 (BOJA núm. 2, de 8-1-1988).
+ 10 meses
+ 2.1.10 (Suprimido)
+ 2.1.11
+ (Suprimido)
+Consejería competente en materia de industria y minas
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 3.1.1
+ Autorización para modificación y ampliación de aprovechamiento de aguas minerales y termales; yacimientos de origen no natural
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ * Ley 7/2007, de 9 de julio, de Gestión integrada de la calidad ambiental (BOJA núm. 143, de 20-7-2007).
+ 18 meses
+ 3.1.2
+ Autorización para aprovechamiento, modificación o ampliación de estructuras subterráneas
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ * Ley 7/2007, de 9 de julio, de Gestión integrada de la calidad ambiental (BOJA núm. 143, de 20-7-2007.
+ 24 meses
+ 3.1.3
+ Concesiones directas de explotación de recursos de la Sección C
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 18 meses
+ 3.1.4
+ Autorización para aprovechamiento de aguas minerales y termales
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 18 meses
+ 3.1.5
+ Autorización de actividades mineras. Recursos de la sección A: canteras
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ * Ley 7/2007, de 9 de julio, de Gestión integrada de la calidad ambiental (BOJA núm. 143, de 20-7-2007.
+ 12 meses
+ 3.1.6
+ Autorización de proyectos de instalaciones mineras
+ * Real Decreto 863/1985, de 2 de abril, Reglamento General de Normas Básicas de Seguridad Minera (BOE núm. 140, de 12-6-1985).
+ 18 meses
+ 3.1.7
+ Autorización aprovechamiento recursos de la sección A
+ * Real Decreto Legislativo 1/2008, de 11 enero, por el que se aprueba el texto refundido de la Ley de Evaluación de Impacto Ambiental de proyectos (BOE núm. 23, de 26-1-2008).
+ * Real Decreto 1131/1988, de 30 de septiembre, Reglamento para la ejecución del Real Decreto Legislativo 1302/1986, de 28 de junio, de Evaluación del Impacto Ambiental (BOE núm. 239, de 5-10-1988).
+ 12 meses
+ 3.1.8
+ Permiso de investigación secciones C y D
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 12 meses
+ 3.1.9
+ Establecimiento de beneficios Mineros
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamenta General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 12 meses
+ 3.1.10
+ Permiso de exploración sección C y D
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 12 meses
+ 3.1.11
+ Prórroga de los permisos de investigación de las secciones C y D
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 9 meses
+ 3.1.12
+ Aprovechamiento de residuos minerales sección B (yacimientos no naturales)
+ * Real Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 12 meses
+ 3.1.13
+ Declaración de caducidad por las causas contempladas en el Título VII de la Ley 22/1973, de 21 de julio, de Minas
+ Ley 22/1973, de 21 de julio, de Minas.
+ Real Decreto 2857/1978, de 25 de agosto, por el que se aprueba el Reglamento General para el Régimen de la Minería.
+ 10 meses
+ 3.1.14
+ Sancionadores en materia de industria
+ Ley 21/1992, de 16 de julio, de Industria
+ 10 meses
+ 3.1.15
+ Sancionadores en materia de objetos fabricados con metales preciosos
+ Ley 17/1985, de 1 de julio, sobre objetos fabricados con metales preciosos.
+ 10 meses
+Consejería de Gobernación
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 4.1.1
+ Extinción de Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ 12 meses
+ 4.1.2
+ Aprobación de la conversión de entidades de ámbito territorial inferior al municipio en Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ * Decreto 185/2005, de 30 de agosto, por el que se aprueba el Reglamento de Demarcación Municipal de Andalucía y del Registro Andaluz de Entidades Locales (BOJA núm. 187, de 23-9-2005).
+ 12 meses
+ 4.1.3
+ Modificación de términos municipales
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ 18 meses
+ 4.1.4
+ Creación de Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ 12 meses
+ 4.1.5
+ Autorización de instalación de casinos
+ * Decreto 229/1988, de 31 de mayo, Reglamento de Casinos de juego (BOJA núm. 50, de 28-6-1988).
+ 9 meses
+ 4.1.6
+ Procedimientos sancionadores en materia de juego, espectáculos públicos y actividades recreativas
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía; arts. 33 a 40 (BOJA núm. 35, de 25-4-1986).
+ * Ley 10/1991, de 4 de abril, sobre Potestades Administrativas en Materia de Espectáculos Taurinos (BOE núm. 82, de 5-4-1991).
+ * Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana (BOE núm. 46, de 22-2-1992).
+ 10 meses
+ 4.1.7
+ Autorización de instalación de hipódromos
+ * Decreto 295/1995, de 19 de diciembre, Reglamento de Hipódromos y Apuestas Hípicas de la Comunidad Autónoma de Andalucía (BOJA núm. 12, de 25-1-1996).
+ 9 meses
+ 4.1.8
+ Procedimiento sancionador en materia de defensa del consumidor y de la producción agroalimentaria
+ * Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía (BOJA núm. 251, de 31-12-2003).
+ * Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria (BOE núm. 168, de 15-7-1983).
+ 10 meses
+ 4.1.9
+ Procedimiento sancionador en materia de animales de compañía, incluidos los considerados potencialmente peligrosos.
+ Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales (BOE núm. 75, 29-03-23)
+ Ley 11/2003, de 24 de noviembre, de protección de los animales (BOJA núm. 237, 10-12-2003)
+ Ley 50/1999, de 23 de diciembre, sobre régimen jurídico de la tenencia de animales potencialmente peligrosos (BOE núm. 307, 24-12-1999)
+ 12 meses
+Consejería de Justicia y Administración Pública
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 5.1.1
+ Ayudas sometidas a convocatoria pública en materia de acción social
+ * Orden de la Consejería de Gobernación y Justicia de 18 de abril de 2001, por la que se aprueba el Reglamento de Ayudas de Acción Social para el personal al servicio de la Junta de Andalucía (BOJA núm. 53, de 10 de mayo de 2001).
+ 9 meses
+Consejería de Obras Públicas y Transportes
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 6.1.1
+ Sancionador en materia de carreteras
+ * Ley 8/2001, de 12 de julio, de Carreteras de Andalucía; art. 81.2 (BOJA núm. 85, de 26-7-2001).
+ 10 meses
+Consejería de Vivienda y Ordenación del Territorio
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 7.1.1
+ Protección de la legalidad urbanística
+ * Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía (BOJA núm. 154, de 31-12-2002).
+ 12 meses
+ 7.1.2
+ Sancionador en materia urbanística
+ * Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía (BOJA núm. 154, de 31-12-2002).
+ * Real Decreto 1398/1993, de 4 de agosto, Reglamento del Procedimiento para el Ejercicio de la Potestad Sancionadora (BOE núm. 189, de 9-8-1993).
+ 12 meses
+ 7.1.3
+ Desahucios administrativos de viviendas de promoción pública
+ * Ley 13/2005, de 11 de noviembre, de Medidas para la Vivienda Protegida y el Suelo (BOJA núm. 227, de 21-11-2005).
+ 12 meses
+Consejería de Agricultura y Pesca
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 10.1.1
+ Autorización para cultivos marinos y acuicultura
+ * Ley 23/1984, de 25 de junio, de Cultivos Marinos (BOE núm. 153, de 27-6-1984).
+ * Ley 22/1988, de 28 de julio, de Costas (BOE núm. 181, de 29-7-1988).
+ * Ley 7/2007, de 9 de julio, de Gestión integrada de la calidad ambiental (BOJA núm. 143, de 20-7-2007).
+ 9 meses
+ 10.1.2
+ Sancionadores en materia de semillas y plantas de viveros
+ * Ley 30/2006, de 26 de julio, de semillas y plantas de viveros y de recursos fitogenéticos (BOE núm. 178, de 27-7-2006).
+ * Decreto 3767/1972, de 23 de diciembre, Reglamento general sobre producción de semillas y plantas de vivero (BOE núm. 37, de 12-2-1973).
+ 7 meses
+ 10.1.3
+ Sancionadores en materia agroalimentaria
+ * Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria (BOE núm. 168, de 15-7-1983).
+ 7 meses
+ 10.1.4
+ Sancionadores en materia de pesca marítima, marisqueo y acuicultura
+ Ley 1/2002, de 4 de abril, de ordenación, fomento y control de la Pesca Marítima, el Marisqueo y la Acuicultura Marina (BOJA núm. 45, de 18-42002).
+ 7 meses
+ 10.1.5
+ Sancionadores en materia de epizootias
+ * Ley 8/2003, de 24 de abril, de sanidad animal (BOE núm. 99, de 25-4-2003).
+ 7 meses
+ 10.1.6
+ Sancionadores en materia de utilización confinada y liberación voluntaria de organismos modificados genéticamente
+ * Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente (BOE núm. 100, de 26-4-2003).
+ 7 meses
+ 10.1.7
+ Concurso de adjudicación de explotaciones agrícolas
+ * Ley 8/1984, de 3 de julio, de Reforma Agraria (BOJA núm. 65, de 6-7-1984).
+ 8 meses
+ 10.1.8
+ Retirada de autorización de reconocimiento a las organizaciones de aceite de oliva
+ * Real Decreto 2796/1986, de 19 de diciembre, regula el reconocimiento de organizaciones de productores de aceite de oliva y sus uniones (BOE núm. 27, de 31-1-1987).
+ 7 meses
+ 10.1.9
+ Retirada de autorización a actuar en régimen de ayudas al aceite de oliva
+ * Reglamento (CE) 865/2004, del Consejo, de 29 de abril de 2004, por el que se establece la organización común del mercado del aceite de oliva y de las aceitunas de mesa y se modifica el Reglamento (CEE) 827/68 (DO núm. 161, de 30-4-2004).
+ 7 meses
+Consejería de Salud
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 11.1.1
+ Autorización para la instalación de oficinas de farmacia
+ * Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía (BOJA núm. 254, de 2812-2007).
+ * Real Decreto 909/1978, de 14 de abril, por el que se regula el establecimiento, transmisión o integración de las oficinas de farmacia (BOE núm. 106, de 4-5-1978).
+ 9 meses
+Consejería de Cultura
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazo de resolución y notificación
+ 14.1.1
+ Inscripción y cancelación de bien de interés cultural inmueble e inmaterial.
+ Ley de Patrimonio Cultural de Andalucía, artículos 33 y 37.
+ 18 meses
+ 14.1.2
+ Inscripción y cancelación de bien de interés cultural mueble.
+ Ley de Patrimonio Cultural de Andalucía, artículos 33 y 37.
+ 12 meses.
+ 14.1.3
+ Inscripción y cancelación de bien de interés patrimonial inmueble.
+ Ley de Patrimonio Cultural de Andalucía, artículos 33, 39.1 y 37.
+ 18 meses.
+ 14.1.4
+ Inscripción y cancelación de bien de interés patrimonial mueble.
+ Ley de Patrimonio Cultural de Andalucía, artículos 33, 39.1 y 37.
+ 12 meses.
+ 14.1.5.
+ Declaración de zona de servidumbre arqueológica.
+ Ley de Patrimonio Cultural de Andalucía, artículo 88.
+ 12 meses
+ 14.1.6
+ Reconocimiento del derecho al premio por hallazgos casuales.
+ Ley de Patrimonio Cultural de Andalucía, artículo 104.
+ 12 meses
+ 14.1.7
+ Declaración de interés bibliográfico y audiovisual.
+ Ley de Patrimonio Cultural de Andalucía, artículo 123.
+ 6 meses
+ 14.1.8
+ Constitución de depósitos de bienes de la Colección Museística de Andalucía.
+ Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía, artículo 39.2.
+ 6 meses
+Téngase en cuenta que esta última actualización de los procedimientos 14.1.1, 14.1.2, 14.1.3 y 14.1.4, y del 14.1.5, 14.1.6, 14.1.7 y 14.1.8 añadidos por la disposición final 8.1 de la Ley 4/2026, de 24 de marzo, Ref. BOE-A-2026-9798#df-8, entra en vigor el 7 de abril de 2027, según determina su disposición final 10.
+ Redacción anterior:
+ "Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 14.1.1
+ Inscripción y cancelación de Bien de Interés Cultural. Tipologías: Monumentos y Jardines Históricos
+ *Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ 18 meses
+ 14.1.2
+ Inscripción y cancelación de Bien de Interés Cultural. Resto de los supuestos
+ *Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ 12 meses
+ 14.1.3
+ Inscripción y cancelación de Bienes de Catalogación General. Inmuebles y Actividades de Interés Etnológico
+ *Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ 12 meses
+ 14.1.4
+ Declaración de zona de servidumbre arqueológica
+ *Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ 12 meses"
+Consejería de Medio Ambiente
+Núm.
+ Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ 15.1.1
+ Sancionador en materia de especies silvestres, caza y pesca
+ * Ley 8/2003, de 28 de octubre, de la Flora y Fauna Silvestres (BOJA núm. 218, de 12-11-2003).
+ * Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad (BOE núm. 299, de 14-12-2007).
+ 10 meses
+ 15.1.2
+ Sancionador en materia de vías pecuarias
+ * Ley 3/1995, de 23 de marzo, de Vías Pecuarias (BOE núm. 71, de 24-3-1995).
+ * Decreto 155/1998, de 21 de julio, por el que se aprueba el Reglamento de Vías Pecuarias de la Comunidad Autónoma de Andalucía (BOJA núm. 87, de 4-8-1998).
+ 10 meses
+ 15.1.3
+ Sancionador en materia de incendios forestales
+ * Ley 5/1999, de 29 de junio, de Prevención y Lucha contra los Incendios Forestales (BOJA núm. 82, de 17-7-1999).
+ * Ley 43/2003, de 21 de noviembre, de Montes (BOE núm. 280, de 22-11-2003).
+ 10 meses
+ 15.1.4
+ Sancionador en materia de espacios naturales protegidos
+ * Ley 2/1989, de 18 de julio, aprueba el Inventario de Espacios Naturales Protegidos y establece medidas adicionales para su protección (BOJA núm. 60, de 27-7-1989).
+ * Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad (BOE núm. 299, de 14-12-2007).
+ 10 meses
+ 15.1.5
+ Clasificación de vías pecuarias
+ * Decreto 155/1998, de 21 de julio, Reglamento de Vías Pecuarias (BOJA núm. 87, de 4-8-1998).
+ 18 meses
+ 15.1.6
+ Deslinde de vías pecuarias.
+ a) Procedimiento ordinario.
+ b) Procedimiento abreviado
+ * Decreto 155/1998, de 21 de julio, Reglamento de Vías Pecuarias (BOJA núm. 87, de 4-8-1998).
+ 18 meses
+ 9 meses
+ 15.1.7
+ Desafectación de vías pecuarias
+ * Decreto 155/1998, de 21 de julio, Reglamento de Vías Pecuarias (BOJA núm. 87, de 4-8-1998).
+ 10 meses
+ 15.1.8
+ Modificación de trazado de vías pecuarias
+ * Decreto 155/1998, de 21 de julio, Reglamento de Vías Pecuarias (BOJA núm. 87, de 4-8-1998).
+ 12 meses
+ 15.1.9
+ Catalogación y Exclusión del Catálogo de Montes Públicos
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 12 meses
+ 15.1.10
+ Recuperación de oficio de montes públicos
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 12 meses
+ 15.1.11
+ Deslinde de montes públicos.
+ a) Procedimiento ordinario
+ b) Procedimiento abreviado
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 24 meses
+ 12 meses
+ 15.1.12
+ Autorizaciones de ocupaciones o servidumbres en montes públicos (procedimiento general)
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 9 meses
+ 15.1.13
+ Afectación y desafectación de montes al dominio público
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 12 meses
+ 15.1.14
+ Inscripción registral de la obligación de repoblar
+ * Ley 5/1999, de 29 de junio, de Prevención y Lucha contra los Incendios Forestales (BOJA núm. 82, de 17-7-1999).
+ * Decreto 247/2001, de 13 de noviembre, por el que se aprueba el Reglamento de Prevención y Lucha contra los Incendios Forestales (BOJA núm. 144, de 15-12-2001).
+ 9 meses
+ 15.1.15
+ Autorización de ocupaciones en montes públicos de interés particular
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 9 meses
+ 15.1.16
+ Sancionador en materia forestal
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Ley 43/2003, de 21 de noviembre, de Montes (BOE núm. 280, de 22-11-2003).
+ 10 meses
+ 15.1.17
+ Sancionador en materia de prevención y calidad ambiental
+ * Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental (BOJA núm. 143, de 20-7-2007).
+ 10 meses
+Consejería de Fomento y Vivienda
+Procedimiento
+ Normativa de referencia
+ Plazos de resolución y notificación
+ Sancionador en materia de vivienda protegida
+ Ley 13/2005, de 11 de noviembre, de Medidas para la Vivienda Protegida y el Suelo.
+ 1 año
+ Contradictorio para la declaración de vivienda deshabitada
+ Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía.
+ 1 año
+ Sancionador en materia de vivienda
+ Ley 1/2010, de 8 de marzo, reguladora del Derecho a la Vivienda en Andalucía.
+ 1 año
+Se modifican, con efectos desde el 7 de abril de 2027, los procedimientos 14.1.1, 14.1.2, 14.1.3 y 14.1.4 y se añaden el 14.1.5, 14.1.6, 14.1.7 y 14.1.8 por la disposición final 8.1 de la Ley 4/2026, de 24 de marzo. Ref. BOE-A-2026-9798#df-8
+ Se modifican los procedimientos 2.1.1, 2.1.2, 2.1.3, 2.1.6 y 2.1.7 y se suprimen los procedimientos 2.1.8, 2.1.10 y 2.1.11 por la disposición final 2.1 de la Ley 7/2025, de 22 de diciembre. Ref. BOE-A-2026-944#df-2
+ Se modifica por la disposición final 4.1 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+ Se modifica por el art. 3 de la Ley 4/2013, de 1 de octubre. Ref. BOE-A-2013-11497#a3
+ Se modifica por el art. 3 del Decreto-ley 6/2013, de 9 de abril. Ref. BOJA-b-2013-90001
+ Se modifica por el art. 4.1 del Decreto-ley 1/2009, de 24 de febrero. Ref. BOJA-b-2009-90005
+ Téngase en cuenta la disposición transitoria 2.1 del citado Decreto-ley, sobre régimen transitorio de procedimientos.
+ Se modifica el núm. 8.1.1 por la disposición adicional 5 de la Ley 18/2003, de 29 de diciembre. Ref. BOE-A-2004-1739
+
+## ANEXO II
+
+Procedimientos con efectos desestimatorios
+Consejería de la Presidencia
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 1.2.1
+ Bastanteo de poderes
+ * Decreto 450/2000, de 26 de diciembre, por el que se aprueba el Reglamento de Organización y funciones del Gabinete Jurídico de la Junta de Andalucía y del Cuerpo de Letrados de la Junta de Andalucía (BOJA núm. 1, de 2-1-2001).
+ 1.2.2
+ Cambio de titularidad de acciones de entidades concesionarias de emisoras de FM
+ * Decreto 174/2002, de 11 de junio, por el que se regula el régimen de concesión por la Comunidad Autónoma de Andalucía de emisoras de radiodifusión sonora en ondas métricas con modulación de frecuencia y la prestación del servicio por parte de los concesionarios (BOJA núm. 75, de 27-6-2002).
+Consejería de Economía y Hacienda
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 2.2.1
+ Concesión de aplazamientos y/o fraccionamientos de pago correspondiente a ingresos propios de Derecho Público no tributarios de la Comunidad Autónoma de Andalucía
+ * Decreto 46/1986, de 5 de marzo, por el que se aprueba el Reglamento General de Tesorería y Ordenación de Pagos; art. 20 (BOJA núms. 28 y 29, de 4 y 8-4-1986).
+ * Decreto 370/1996, de 29 de julio, por el que se determinan los órganos competentes de la Consejería de Economía y Hacienda en materia de aplazamientos y fraccionamientos de pago (BOJA núm. 106, de 14-9-1996).
+ * Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación; arts. 44 a 54 (BOE núm. 210, de 2-9-2005).
+ 2.2.2
+ Compensación de deudas derivadas de ingresos de Derecho Público no tributarios de la Comunidad Autónoma de Andalucía
+ * Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; art. 37.4 (BOJA núm. 59, de 26-7-1983).
+ * Ley 58/2003, de 17 de diciembre, General Tributaria; arts. 71 a 73 (BOE núm. 302, de 18-12-2003).
+ * Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación; arts. 55 a 59 (BOE núm. 210, de 2-9-2005).
+ 2.2.3
+ Autorización del servicio de colaboración en la gestión recaudatoria de la Comunidad Autónoma de Andalucía a las entidades de crédito y ahorro
+ * Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; art. 71.2 (BOJA núm. 59, de 26-7-1983).
+ * Decreto 46/1986, de 5 de marzo, por el que se aprueba el Reglamento General de Tesorería y Ordenación de Pagos; art. 17.3 (BOJA núms. 28 y 29, de 4 y 8-4-1986).
+ 2.2.4
+ Autorización de operaciones de endeudamiento a los entes del sector público de la Comunidad Autónoma de Andalucía
+ * Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; art. 70.4 (BOJA núm. 59, de 26-7-1983).
+ * Decreto 9/1999, de 19 de enero, sobre régimen presupuestario, financiero, de control y contable de las empresas de la Junta de Andalucía; art. 6 (BOJA núm. 13, de 30-1-1999).
+ * Leyes anuales de Presupuesto de la Comunidad Autónoma de Andalucía y normativa específica.
+ 2.2.5
+ Autorización de apertura de cuentas a las empresas de la Junta de Andalucía y entes previstos en el art. 6 bis de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía
+ * Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía; arts. 6 bis y 70.2 (BOJA núm. 59, de 26-7-1983).
+ * Decreto 9/1999, de 19 de enero, sobre régimen presupuestario financiero, de control y contable de las empresas de la Junta de Andalucía; art. 8 (BOJA núm. 13, de 30-1-1999).
+ 2.2.6
+ Aprobación de la declaración anual del régimen de concierto de fianzas de arrendamientos y suministros
+ * Ley 8/1997, de 23 de diciembre; art. 84.2 (BOJA núm. 151, de 31-12-1997).
+ 2.2.7
+ Autorización de creación y fusión de Cajas de Ahorros, inscripciones provisional y definitiva en el Registro de Cajas de Ahorros de Andalucía, y aprobación del balance final de la liquidación
+ * Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; arts. 6, 8.1, 10.5, 14 y 18 (BOJA núm. 150, de 28-12-1999).
+ * Decreto 138/2002, de 30 de abril, por el que se aprueba el Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; arts. 11, 12, 14, 18 y 23 (BOJA núm. 55, de 11-5-2002).
+ 2.2.8
+ Autorización y aprobación de Estatutos y Reglamento de las Cajas de Ahorros y de la Federación de Cajas de Ahorros de Andalucía, y de sus modificaciones
+ * Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; arts. 14.2, 20, 20 bis y 100 (BOJA núm. 150, de 28-12-1999).
+ * Decreto 138/2002, de 30 de abril, por el que se aprueba el Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; arts. 11.3, 17 y 24 (BOJA núm. 55, de 11-5-2002).
+ 2.2.9
+ Autorización para la creación de fundaciones de obra social de las Cajas de Ahorros y de la Federación de Cajas de Ahorros de Andalucía y de sus modificaciones estatutarias
+ * Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; art. 90 (BOJA núm. 150, de 28-12-1999).
+ * Decreto 138/2002, de 30 de abril, por el que se aprueba el Reglamento de la Ley 15/1999, de 16 de diciembre, de Cajas de Ahorros de Andalucía; arts. 27, 28 y 30 (BOJA núm. 55, de 11-5-2002).
+ 2.2.10 (Suprimido)
+ 2.2.11
+ Cesión gratuita de bienes patrimoniales a favor del sector público.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 70.
+ * Decreto 276/1987, de 11 de noviembre, por el que se aprueba el Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 133.
+ 2.2.12
+ Adquisición a título gratuito.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 96.
+ * Decreto 276/1987, de 11 de noviembre, Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; arts. 170 y ss.
+ 2.2.13
+ Reversión de bienes donados
+ * Decreto 276/1987, de 11 de noviembre, Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 171 (BOJA núm. 2, de 8-1-1988).
+ 2.2.14
+ Adquisición onerosa de inmuebles, muebles y derechos.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 90.
+ * Decreto 276/1987, de 11 de noviembre, Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; arts. 156 y ss., 163, 167 y 174.
+ 2.2.15
+ Enajenación de bienes muebles, inmuebles y de participaciones en entidades privadas.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 108.
+ * Decreto 276/1987, de 11 de noviembre, Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; arts. 178 y ss., 204, 205 y 210.
+ 2.2.16
+ Arrendamiento de inmuebles.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 100.
+ * Decreto 276/1987, de 11 de noviembre, Reglamento para la aplicación de la Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 176.
+ 2.2.17
+ Otorgamiento de concesiones y autorizaciones en régimen de concurrencia.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 48.
+ 2.2.18
+ Otorgamiento directo de concesiones y autorizaciones.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 49.
+ 2.2.19
+ Autorización simplificada.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 56.
+ 2.2.20
+ Uso esporádico de bienes y derechos patrimoniales.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 67.
+ 2.2.21
+ Cesión de uso a otras entidades.
+ * Ley del Patrimonio de la Comunidad Autónoma de Andalucía; art. 71.
+Consejería de Innovación, Ciencia y Empresa
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 3.2.1
+ Declaración como recursos de la sección B para yacimientos de origen natural o para estructuras subterráneas
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 3.2.2
+ Ocupación temporal para autorizaciones de aprovechamiento de recursos de la sección B
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 3.2.3
+ Autorización de voladura tipo en minería
+ * Real Decreto 863/1985, de 2 de abril, Reglamento General de Normas Básicas de Seguridad Minera (BOE núm. 140, de 12-6-1985).
+ 3.2.4
+ Ocupación temporal para permisos de exploración o de investigación y para concesiones de explotación de recursos de la sección C
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+ 3.2.5
+ Declaración de utilidad pública de establecimientos de beneficios
+ * Ley 22/1973, de 21 de julio, de Minas (BOE núm. 176, de 24-7-1973).
+ * Decreto 2857/1978, de 25 de agosto, Reglamento General para el Régimen de la Minería (BOE núm. 295, de 11-12-1978).
+Consejería de Gobernación
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 4.2.1
+ Autorización de instalación y apertura o funcionamiento de salones de juego o recreativos, salas de bingo, casinos de juego e hipódromos
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ 4.2.2
+ Inscripción en el Registro de empresas operadoras en materia de juego; en el Registro de empresas titulares de salas de bingo; en el Registro de empresas titulares de salones de juego
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 250/2005, de 22 de noviembre, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar, de Salones Recreativos y de Juego y del Registro de Empresas de Juego de la Comunidad Autónoma de Andalucía (BOJA núm. 237, de 5-12-2005).
+ * Decreto 65/2008, de 26 de febrero, por el que se aprueba el Reglamento del Juego del Bingo de la Comunidad Autónoma de Andalucía (BOJA núm. 55, de 19-3-2008).
+ 4.2.3
+ Transmisión de autorizaciones de instalación y funcionamiento de salas de bingo
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 65/2008, de 26 de febrero, por el que se aprueba el Reglamento del Juego del Bingo de la Comunidad Autónoma de Andalucía (BOJA núm. 55, de 19-3-2008).
+ 4.2.4
+ Autorización de modificaciones de las condiciones de las autorizaciones para salas de bingo, casinos de juego e hipódromos
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 65/2008, de 26 de febrero, por el que se aprueba el Reglamento del Juego del Bingo de la Comunidad Autónoma de Andalucía (BOJA núm. 55, de 19-3-2008).
+ * Decreto 229/1988, de 31 de mayo, Reglamento de casinos de juego (BOJA núm. 50, de 28-6-1988).
+ * Decreto 295/1995, de 19 de diciembre, Reglamento de hipódromos y apuestas hípicas de la Comunidad Autónoma de Andalucía (BOJA núm. 12, de 25-1-1996).
+ 4.2.5
+ Autorización de instalación de máquinas recreativas y de azar
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 250/2005, de 22 de noviembre, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar, de Salones Recreativos y de Juego y del Registro de Empresas de Juego de la Comunidad Autónoma de Andalucía (BOJA núm. 237, de 5-12-2005).
+ 4.2.6
+ Autorizaciones de explotación (matrícula); de cambio de máquina y de transmisión de máquinas recreativas y de azar
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 250/2005, de 22 de noviembre, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar, de Salones Recreativos y de Juego y del Registro de Empresas de Juego de la Comunidad Autónoma de Andalucía (BOJA núm. 237, de 5-12-2005).
+ 4.2.7
+ Inscripciones y modificaciones de modelos en el Registro de modelos de máquinas recreativas
+ * Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía (BOJA núm. 35, de 25-4-1986).
+ * Decreto 250/2005, de 22 de noviembre, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar, de Salones Recreativos y de Juego y del Registro de Empresas de Juego de la Comunidad Autónoma de Andalucía (BOJA núm. 237, de 5-12-2005).
+ 4.2.8
+ Creación y extinción de Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ 4.2.9
+ Adaptación de las Entidades de ámbito territorial inferior al Municipio al régimen de las Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ * Decreto 185/2005, de 30 de agosto, por el que se aprueba el Reglamento de Demarcación Municipal de Andalucía y del Registro Andaluz de Entidades Locales (BOJA núm. 187, de 23-9-2005).
+ 4.2.10
+ Modificación de los términos municipales
+ * Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (BOE núm. 80, de 3-4-1985).
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ * Real Decreto Legislativo 781/1986, de 18 de abril, aprobatorio del Texto Refundido de las disposiciones legales vigentes en materia de régimen local (BOE núms. 96 y 97, de 23 y 24-4-1986).
+ 4.2.11
+ Alteración del nombre y de la capitalidad de los municipios y Entidades Locales Autónomas
+ * Ley 7/1993, de 27 de julio, Reguladora de la Demarcación Municipal de Andalucía (BOJA núm. 86, de 7-8-1993).
+ * Real Decreto 1690/1986, de 11 de julio, Reglamento de Población y Demarcación Territorial (BOE núm. 194, de 14-8-1986).
+Consejería de Justicia y Administración Pública
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 5.2.1
+ Reingreso al servicio activo de funcionarios provenientes de situaciones administrativas que no conlleven reserva de plaza
+ * Ley 30/1984, de 2 de agosto, de Medidas de Reforma de la Función Pública (BOE núm. 185, de 3-8-1984).
+ * Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía (BOJA núm. 112, de 28-1-1985).
+ * Decreto 2/2002, de 9 de enero, por el que se aprueba el Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios de la Administración General de la Junta de Andalucía (BOJA núm. 8, de 19-1-2002).
+ 5.2.2
+ Reconocimiento de servicios previos en la Administración Pública
+ * Ley 70/1978, de 26 de diciembre, de Reconocimiento de Servicios Previos en la Administración Pública (BOE núm. 9, de 10-1-1979).
+ * Real Decreto 1461/1982, de 25 de junio, por el que se dictan normas de aplicación de la Ley 70/1978, de Reconocimiento de Servicios Previos en la Administración Pública (BOE núm. 159, de 5-7-1982).
+ 5.2.3
+ Solicitud de compatibilidad en puestos del sector público y en actividades privadas
+ * Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas (BOE núm. 4, de 4-1-1985).
+ * Decreto 524/2008, de 16 de diciembre, por el que se regulan las competencias y el procedimiento en materia de incompatibilidades del personal al servicio de la Administración de la Junta de Andalucía y del Sector Público Andaluz (BOJA núm. 6, de 12-1-2009).
+Consejería de Obras Públicas y Transportes
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 6.2.1
+ Aprobación de proyectos para establecimiento de instalaciones de transporte por cable
+ * Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres (BOE núm. 182, de 31-7-1987).
+ * Real Decreto 1211/1990, de 28 de septiembre, Reglamento de la Ley 16/1987 (BOE núm. 241, de 8-10-1990).
+ * Ley 4/1964, de 29 de abril, sobre Concesión de Teleféricos (BOE núm. 107, de 4-5-1964).
+ * Decreto 673/1966, de 10 de marzo, por el que se aprueba el Reglamento de la Ley 4/1964 (BOE núm. 74, de 28-3-1966).
+Consejería de Vivienda y Ordenación del Territorio
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 7.2.1
+ Declaración de ruina
+ * Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía; art. 157 (BOJA núm. 154, de 31-12-2002).
+ * Real Decreto 2187/1978, de 23 de junio, por el que se aprueba el Reglamento de Disciplina Urbanística para desarrollo de la Ley sobre Régimen del Suelo y Ordenación Urbana; arts. 17 a 28 (BOE núm. 223, de 18-9-1978).
+ 7.2.2
+ Calificación Provisional de Viviendas Protegidas
+ * Decreto 149/2006, de 25 de julio, por el que se aprueba el Reglamento de Viviendas Protegidas de la Comunidad Autónoma de Andalucía y se desarrollan determinadas disposiciones de la Ley 13/2005, de 11 de noviembre, de Medidas en materia de vivienda protegida y el suelo (BOJA núm. 153, de 8-8-2006).
+ 7.2.3
+ Modificación de la Calificación Definitiva
+ * Decreto 149/2006, de 25 de julio, por el que se aprueba el Reglamento de Viviendas Protegidas de la Comunidad Autónoma de Andalucía y se desarrollan determinadas disposiciones de la Ley 13/2005, de 11 de noviembre, de Medidas en materia de vivienda protegida y el suelo (BOJA núm. 153, de 8-8-2006).
+ 7.2.4
+ Autorización de subrogaciones en viviendas de promoción pública en acceso diferido y arrendamiento
+ * Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos (BOE núm. 282, de 25-11-1994).
+ 7.2.5
+ Adjudicación de viviendas de promoción pública
+ * Decreto 395/2008, de 24 de junio, por el que se aprueba el Plan Concertado de Vivienda y Suelo 2008-2012 (BOJA núm. 130, de 2-7-2008).
+ 7.2.6
+ Adjudicación de locales comerciales, plazas de aparcamiento y edificaciones complementarias
+ * Decreto 2185/1974, de 20 de julio, de Utilización y Adjudicación de los Locales de Negocios del INV (BOE núm. 186, de 5-8-1974).
+Consejería de Turismo, Comercio y Deporte
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 9.2.1
+ Declaración de Zonas de Gran Afluencia Turística a efectos de horarios comerciales
+ * Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía (BOJA núm. 7, de 18-1-1996).
+ * Orden de 24 de julio de 1996, por la que se regula el procedimiento para la determinación de las zonas que tengan la condición de gran afluencia turística a efectos de horarios comerciales (BOJA núm. 93, de 13-8-1996).
+ 9.2.2
+ Reconocimiento de instituciones feriales, aprobación de sus estatutos y modificaciones
+ * Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía; arts. 5 y ss. (BOJA núm. 114, de 7-11-1992).
+ * Decreto 81/1998, de 7 de abril, Reglamento de Ferias Comerciales; arts. 10 y ss. (BOJA núm. 65, de 13-6-1998).
+ 9.2.3
+ Declaración de Municipio Turístico
+ * Ley 12/1999, de 15 de diciembre, de Turismo; arts. 6 a 8 (BOJA núm. 151, de 30-12-1999).
+ 9.2.4
+ Declaración de Zona de Preferente Actuación Turística
+ * Ley 12/1999, de 15 de diciembre, de Turismo; art. 16 (BOJA núm. 151, de 30-12-1999).
+Consejería competente en materia de agricultura
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 10.2.1
+ Expedición de la documentación sanitaria que ampara el movimiento y transporte de ganado y otros animales vivos
+ DECRETO 65/2012, de 13 de marzo, por el que se regulan las condiciones de sanidad y zootécnicas de los animales (BOJA núm. 60, de 27-3-2012).
+Consejería de Salud
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 11.2.1
+ Instalación, transmisión y traslados de oficinas de farmacia
+ * Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía (BOJA núm. 254, de 2812-2007).
+ * Real Decreto 909/1978, de 14 de abril, por la que se regula el establecimiento, transmisión e integración de oficinas de farmacia (BOE núm. 106, de 4-5-1978) y otras Órdenes que lo desarrollen.
+ * Orden de 20 de noviembre de 1979, méritos y circunstancias de oficinas de farmacia (BOE núm. 299, de 14-12-1979).
+ * Orden de 21 de noviembre de 1979, por la que se desarrolla el Real Decreto 909/1978, de 14 de abril, en lo referente al establecimiento, transmisión e integración de oficinas de farmacia (BOE núm. 302, de 18-12-1979).
+ 11.2.2
+ Autorización de instalación de centros, servicios y establecimientos sanitarios
+ * Decreto 69/2008, de 26 de febrero, por el que se establecen los procedimientos de las Autorizaciones Sanitarias y se crea el Registro Andaluz de Centros, Servicios y Establecimientos Sanitarios (BOJA núm. 52, de 14-3-2008).
+ 11.2.3
+ Autorización de funcionamiento de centros, servicios y establecimientos sanitarios
+ * Decreto 69/2008, de 26 de febrero, por el que se establecen los procedimientos de las Autorizaciones Sanitarias y se crea el Registro Andaluz de Centros, Servicios y Establecimientos Sanitarios (BOJA núm. 52, de 14-3-2008).
+ 11.2.4
+ Homologación de centros hospitalarios
+ * Decreto 165/1995, de 4 de julio, regula los procedimientos de homologación de centros hospitalarios y de suscripción de convenios y conciertos en la Consejería de Salud o el Servicio Andaluz de Salud y entidades, tanto públicas como privadas para prestación de asistencia sanitaria en los mencionados centros (BOJA núm. 111, de 8-8-1995).
+ 11.2.5
+ Autorización de bancos de tejidos en la Comunidad Autónoma de Andalucía
+ * Decreto 81/1997, de 13 de marzo, de bancos de tejido (BOJA núm. 44, de 15-4-1997).
+Consejería de Educación
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 12.2.1
+ Reconocimiento de sexenios al personal docente no universitario
+ * Acuerdo de 27 de julio de 2004, del Consejo de Gobierno, por el que se aprueba el acuerdo alcanzado entre la Consejería de Educación y Ciencia y las organizaciones sindicales, de 20 de noviembre de 2003, sobre retribuciones del profesorado de niveles de enseñanza no universitaria dependiente de la Consejería de Educación y Ciencia (BOJA núm. 150, de 2-8-2004).
+ * Orden de 28 marzo de 2005 (BOJA núm. 77, de 21-4-2005).
+Consejería de Inclusión Social, Juventud, Familias e Igualdad
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 13.2.1
+ Acreditación de entidades colaboradoras de adopción internacional
+ * Decreto 454/1996, de 1 de octubre, de habilitación de instituciones colaboradoras de integración familiar y acreditación de entidades colaboradoras de adopción internacional; art. 10.3 (BOJA núm. 120, de 1910-1996).
+ 13.2.2
+ Declaración de idoneidad para acogimiento o adopción de menores
+ * Ley 4/2021, de 27 de julio, de Infancia y Adolescencia de Andalucía; art. 102 (BOJA núm 146, de 30 de julio de 2021).
+ 13.2.3
+ Acceso y traslado de personas en situación de dependencia a plazas de centros residenciales y centros de día y de noche
+ * Decreto 388/2010, de 19 de octubre, por el que se regula el régimen de acceso y traslado de personas en situación de dependencia a plazas de centros residenciales y centros de día y de noche.
+ 13.2.4
+ Reconocimiento de la situación de dependencia y del derecho a las prestaciones del Sistema para la Autonomía y Atención a la dependencia en Andalucía
+ * Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
+ * Título XI, Capítulo II del Decreto-ley 6/2024, de 6 de febrero por el que se adoptan medidas de simplificación y racionalización administrativa para la mejora de las relaciones de los ciudadanos con la Administración Pública de la Junta de Andalucía y el impulso de la actividad económica en Andalucía.
+ 13.2.5
+ Parejas de Hecho: Registro
+ * Ley 5/2002, de 16 de diciembre, de Parejas de Hecho.
+ * Decreto 35/2005, de 15 de febrero, por el que se constituye y regula el Registro de Parejas de Hecho.
+Consejería de Cultura
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 14.2.1
+ Autorización de intervenciones de obras, actuaciones o cambios de uso en bienes de interés cultural o su entorno.
+ * Ley de Patrimonio Cultural de Andalucía, artículos. 79, 80 y 81.
+ 14.2.2
+ Legalización de intervenciones en el Patrimonio Cultural sin autorización.
+ * Ley de Patrimonio Cultural de Andalucía, artículos 62.3.
+ 14.2.3
+ Autorización de intervenciones de obras, actuaciones y cambios de uso en los bienes de interés patrimonial o su entorno.
+ * Ley de Patrimonio Cultural de Andalucía, artículos 83 y 85.
+ 14.2.4
+ Autorización para realizar proyectos generales de investigación y actividades arqueológicas en desarrollo de los mismos.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 96.
+ 14.2.5
+ Autorización de actividades arqueológicas de urgencia.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 100.
+ 14.2.6
+ Actividades arqueológicas sometidas a régimen de declaración responsable.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 94.
+ 14.2.7
+ Visado del proyecto de conservación para bienes inscritos en el Registro General del Patrimonio Cultural de Andalucía.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 53.
+ 14.2.8
+ Solicitud de incoación de expedientes de inscripción y cancelación en el Registro General del Patrimonio Cultural de Andalucía de declaración de zona de servidumbre arqueológica.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 88.
+ 14.2.9
+ Solicitud de incoación de expedientes de inscripción y cancelación en el Registro General del Patrimonio Cultural de declaración de bien de interés cultural.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 29.
+ 14.2.10
+ Solicitud de incoación de expedientes de inscripción y cancelación en el Registro General del Patrimonio Cultural de declaración de bienes en el inventario General de Bienes Muebles.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 39.
+ 14.2.11
+ Solicitud de premio por hallazgo casual.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 104.
+ 14.2.12
+ Solicitud de declaración de bienes integrantes del patrimonio bibliográfico y audiovisual.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 123.
+ 14.2.13
+ Actuaciones no sometidas a licencia.
+ * Ley de Patrimonio Cultural de Andalucía, artículo 63.2.
+ 14.2.14
+ Autorización para depósitos de bienes del Patrimonio Cultural propiedad de la Junta de Andalucía.
+ * Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía (BOJA núm. 205, de 18 de octubre de 2007), artículo 39.
+ * Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos, artículo 13 (BOJA núm. 5, de 16 de enero de 1996).
+ 14.2.15
+ Autorización de préstamo de fondos propios de la Junta de Andalucía para exposiciones temporales.
+ * Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía (BOJA núm. 205, de 18 de octubre de 2007), artículo 37.
+ * Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos, artículo 15 (BOJA núm. 5, de 16 de enero de 1996).
+Téngase en cuenta que esta última actualización de los procedimientos de la Consejería de Cultura, establecidos por la disposición final 8.2 de la Ley 4/2026, de 24 de marzo, Ref. BOE-A-2026-9798#df-8, entra en vigor el 7 de abril de 2027, según determina su disposición final 10.
+ Redacción anterior:
+ "Núm.
+ Procedimiento
+ Normativa de referencia
+ 14.2.1
+ Autorización de exportación temporal de bienes de interés cultural o bienes declarados inexportables
+ * Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español; art. 31 (BOE núm. 155, de 29-6-1985).
+ * Real Decreto 111/1986, de 10 de enero, de desarrollo parcial de la Ley del Patrimonio Histórico Español; arts. 52-57 (BOE núm. 24, de 28-1-1986).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.30 (BOJA núm. 18, de 18-2-1993).
+ 14.2.2
+ Autorización de obras y actuaciones en bienes inscritos en el Catálogo General del Patrimonio Histórico Andaluz con carácter específico o su entorno
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 19/1995, de 7 de febrero, por el que se aprueba el Reglamento de protección y fomento del Patrimonio Histórico de Andalucía; art. 44 (BOJA núm. 43, 17-3-1995).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.23 (BOJA núm. 18, de 18-2-1993).
+ 14.2.3
+ Legalización de intervenciones en el Patrimonio Histórico sin autorización
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 19/1995, de 7 de febrero, que aprueba el Reglamento de protección y fomento del Patrimonio Histórico de Andalucía; arts. 45 y 52 (BOJA núm. 43, de 17-3-1995).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.23 (BOJA núm. 18, de 18-2-1993).
+ 14.2.4
+ Autorización de obras, actuaciones y cambios de uso en los Bienes de Interés Cultural o su entorno
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.23 (BOJA núm. 18 de 18-2-1993).
+ 14.2.5
+ Autorización para realizar proyectos generales de investigación arqueológica y actividades arqueológicas en desarrollo de los mismos
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas (BOJA núm. 134, de 15-7-2003).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; arts. 5.34 y 6.26 (BOJA núm. 18, de 18-2-1993).
+ 14.2.6
+ Autorización de actividades arqueológicas de urgencia
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas (BOJA núm. 134, de 15-7-2003).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.31 y 34 (BOJA núm. 18, de 18-2-1993)
+ 14.2.7
+ Autorización de actividades arqueológicas no enmarcadas en un proyecto general de investigación
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas (BOJA núm. 134, de 15-7-2003).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; arts. 5.34 y 6.26 (BOJA núm. 18, de 18-2-1993)
+ 14.2.8
+ Visado del proyecto de conservación para bienes inscritos en el Catálogo General del Patrimonio Histórico Andaluz
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Decreto 19/1995, de 7 de febrero, que aprueba el Reglamento de protección y fomento del Patrimonio Histórico de Andalucía; arts. 47 y 64 (BOJA núm. 43, de 17-3-1995).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 5.12, 13 y 14 (BOJA núm. 18, de 18-2-1993).
+ 14.2.9
+ Autorización para depósitos de bienes del Patrimonio Histórico propiedad de la Junta de Andalucía
+ * Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía (BOJA núm. 205, de 18-10-2007).
+ * Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos; art. 13 (BOJA núm. 5, de 16-1-1996).
+ 14.2.10
+ Autorización de préstamos de fondos propiedad de la Junta de Andalucía
+ * Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía (BOJA núm. 205, de 18-10-2007).
+ * Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos; art. 15 (BOJA núm. 5, de 16-1-1996).
+ 14.2.11
+ Elaboración y aprobación de Tablas de Valoración
+ * Orden de la Consejería de Cultura de 7 de julio de 2000, por la que se regula el funcionamiento de la Comisión Andaluza Calificadora de documentos administrativos y los procedimientos de identificación, valoración y selección documentales; arts. 16 y 17 (BOJA núm. 88, de 1-8-2000).
+ 14.2.12
+ Aprobación de propuestas de eliminación sin Tablas de Valoración aprobadas
+ * Orden de la Consejería de Cultura de 7 de julio de 2000, por la que se regula el funcionamiento de la Comisión Andaluza Calificadora de documentos administrativos y los procedimientos de identificación, valoración y selección documentales; arts. 19 y 20 (BOJA núm. 88, de 1-8-2000).
+ 14.2.13
+ Solicitud de incoación de expedientes de inscripción y cancelación en el Catálogo General del Patrimonio Histórico Andaluz de declaración de Zona de Servidumbre Arqueológica, de declaración de Bien de Interés Cultural y cancelación de la declaración y de inscripción y cancelación de bienes en el inventario General de Bienes Muebles
+ * Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía (BOJA núm. 248, de 19-12-2007).
+ * Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español; art. 31 (BOE núm. 155, de 29-6-1985).
+ * Decreto 19/1995, de 7 de febrero, que aprueba el reglamento de protección y fomento del Patrimonio Histórico de Andalucía; arts. 14 y ss.; arts. 72 y ss. (BOJA núm. 43, de 17-3-1995).
+ * Decreto 4/1993, de 26 de enero, por el que se aprueba el reglamento de organización administrativa del Patrimonio Histórico de Andalucía; art. 3.2; arts. 1.1, 3.3, 5.3; arts. 5 y 6.1 (BOJA núm 18, de 18-2-1993).
+ * Real Decreto 111/1986, de 10 de enero, de desarrollo parcial de la Ley del Patrimonio Histórico Español; arts. 12, 13 y 17 (BOE núm. 24, de 28-1-1986)."
+Consejería de Medio Ambiente
+Núm.
+ Procedimiento
+ Normativa de referencia
+ 15.2.1
+ Exclusión del Catálogo de Montes de Andalucía
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+ 15.2.2
+ Autorización para cambios de uso de terrenos forestales y sustitución de especies principales forestales de arbolado y de matorral que no estén previstos en los Planes de Ordenación de Recursos Naturales o instrumentos de gestión previstos por la normativa forestal
+ * Ley 2/1992, de 15 de junio, Forestal de Andalucía (BOJA núm. 57, de 23-6-1992).
+ * Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento Forestal de Andalucía (BOJA núm. 117, de 7-10-1997).
+Se modifican, se suprimen y se reordenan los procedimientos de la Consejería de Cultura, con efectos desde el 7 de abril de 2027, por la disposición final 8.2 de la Ley 4/2026, de 24 de marzo, Ref. BOE-A-2026-9798#df-8
+ Se modifica por la disposición final 2.2 de la Ley 7/2025, de 22 de diciembre. Ref. BOE-A-2026-944#df-2
+ Se modifica por la disposición final 4.2 del Decreto-ley 3/2024, de 6 de febrero. Ref. BOJA-b-2024-90030
+ Se modifican los procedimientos 7.2.2 y 7.2.3 por el art. 61 del Decreto-ley 26/2021, de 14 de diciembre. Ref. BOJA-b-2021-90434#a6-3
+ Se modifica por el art. 4.2 del Decreto-ley 1/2009, de 24 de febrero. Ref. BOJA-b-2009-90005
+ Téngase en cuenta la disposición transitoria 2.1 del citado Decreto-ley, sobre régimen transitorio de procedimientos.

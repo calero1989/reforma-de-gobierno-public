@@ -1,0 +1,224 @@
+# Ley 2/2000, de 4 de mayo, del Consejo del Audiovisual de Cataluña.
+
+- Identificador BOE: `BOE-A-2000-10784`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-10784
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Cataluña ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente Ley 2/2000, de 4 de mayo, del Consejo del Audiovisual de Cataluña.
+PREÁMBULO
+La Ley 8/1996, de 5 de julio, de Regulación de la Programación Audiovisual Distribuida por Cable, creó el Consejo Audiovisual de Cataluña, como órgano asesor del Gobierno de la Generalidad y como órgano de instancia que velase por la objetividad y la transparencia de la programación audiovisual, con la pretensión de que se convertiría en un referente social de prestigio que permitiera a la sociedad catalana dotarse de un instrumento que convirtiese la radio y la televisión en auténticos medios de información, formación y entretenimiento adaptados a sus necesidades. La experiencia lograda durante estos años de funcionamiento por el Consejo Audiovisual de Cataluña ha demostrado que, a pesar de haber cumplido suficientemente los objetivos que se proponía en el marco de la Ley 8/1996, se han revelado carencias en el mismo que, teniendo en cuenta, además, las experiencias de los demás órganos reguladores presentes en toda Europa, aconsejan su revisión. Las nuevas tecnologías presentes en la sociedad europea y, por consiguiente, también en la catalana, y la evolución y expansión constantes que tienen en todos los niveles sociales suponen nuevos retos para los gobiernos que se expresan en el seno de la Unión Europa, con una preocupación creciente por la regulación del espacio de los medios de comunicación, que combine la libertad y la pluralidad con la responsabilidad propia de los medios.
+Es en este sentido que el Parlamento de Cataluña ha acordado la promoción de una nueva legislación sobre el audiovisual, cuya primera fase es la promulgación de una nueva ley específica del Consejo del Audiovisual de Cataluña, que desde la experiencia adquirida en estos años y a partir de la voluntad de avanzar en la configuración normativa propia, es definido como un órgano independiente con competencias reguladoras y sancionadoras sobre los contenidos del sector audiovisual en Cataluña, entendido éste desde los distintos y variados formatos y vías de transmisión de sonido e imagen que la tecnología actual permite en el momento de difundir emisiones informativas y de programación televisivas, radiofónicas y por internet. El Consejo del Audiovisual de Cataluña se convierte así en autoridad audiovisual de Cataluña y en el encargado de velar por el cumplimiento de la legislación y las directivas de las distintas administraciones que tienen competencia en ello, desde las europeas hasta la catalana, así como en el encargado de velar por el pluralismo interno y externo de los medios, la honestidad informativa, el cumplimiento de la misión de servicio público de los medios dependientes de las distintas Administraciones y la diversidad accionarial de los medios privados.
+Es preciso recordar la importancia, para toda sociedad democrática, de que exista un amplio abanico de medios de comunicación independientes y autónomos que permitan reflejar la diversidad de ideas y opiniones, en el papel principal que éstos juegan en las sociedades democráticas modernas. Cabe señalar, también, que con el fin de garantizar la existencia de una diversidad de medios independientes y autónomos, es esencial establecer una regulación sensata en el sector, para asegurar su libertad, estableciendo un equilibrio entre dicha libertad y los demás derechos e intereses igualmente legítimos.
+
+### Artículo 1
+
+Artículo 1. Naturaleza y finalidades.
+1. El Consejo del Audiovisual de Cataluña es la autoridad reguladora independiente en el ámbito de la comunicación audiovisual pública y privada. El Consejo tiene personalidad jurídica pública propia y actúa con plena independencia del Gobierno de la Generalidad y de las administraciones públicas en el ejercicio de sus funciones. El Consejo tiene autonomía orgánica y funcional y se rige por lo dispuesto por la presente ley, por las disposiciones que la desarrollan y por su estatuto orgánico y de funcionamiento.
+2. El Consejo, en el marco de las competencias de la Generalidad, vela por el respeto de los derechos y libertades que, en el ámbito de los medios de comunicación audiovisual de radiodifusión sonora, televisión y cualquier otro sistema de transmisión de sonido o imagen, son reconocidos en la Constitución y el Estatuto de Autonomía y, especialmente, garantiza en cumplimiento de la normativa reguladora de la programación y la publicidad, y de las condiciones de las concesiones, así como el cumplimiento de la eficacia y observancia de la normativa europea y de los tratados internacionales relativos a la materia. El Consejo vela, asimismo, por el pluralismo político, religioso, social, lingüístico y cultural en el conjunto del sistema audiovisual en Cataluña, vela por la neutralidad y honestidad informativas, y preserva el cumplimiento de las normas relativas al uso de la lengua catalana y el impulso del aranés.
+Se modifica el apartado 1 por el art. 1 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+
+### Artículo 2
+
+Artículo 2. Ámbito de actuación.
+El Consejo del Audiovisual de Cataluña ejerce sus funciones en el ámbito de la comunicación audiovisual directamente gestionada por la Generalidad o en régimen de concesión o habilitación, sea cual sea la forma de emisión y la tecnología utilizadas, así como en los supuestos en que se efectúen emisiones específicas para Cataluña y en aquellos otros en que, por aplicación de la normativa vigente, queden sometidos al ámbito de gestión y tutela de la Generalidad.
+
+### Artículo 3
+
+Artículo 3. Régimen jurídico.
+1. El régimen de los actos del Consejo del Audiovisual de Cataluña, y sin perjuicio de lo dispuesto en la presente Ley, está sometido a la legislación reguladora del régimen jurídico de las administraciones públicas y del procedimiento administrativo común, así como al resto de legislación aplicable en materia de régimen de los actos y de funcionamiento de las Administraciones Públicas.
+2. El Consejo goza de reservas de nombres, beneficios, exenciones y franquicias de cualquier naturaleza que la legislación atribuye a la Administración de la Generalidad.
+3. El Consejo relaciona, en cada caso, con el Departamento de la Generalidad que corresponda.
+4. Los actos del Consejo ponen fin a la vía administrativa y son susceptibles de recurso ante la jurisdicción contencioso-administrativa.
+
+### Artículo 3 bis
+
+Artículo 3 bis. Normas de procedimiento.
+1. El procedimiento de adopción de los actos del Consejo del Audiovisual de Cataluña se somete a la normativa reguladora del régimen jurídico de las administraciones públicas y del procedimiento administrativo de la Generalidad, sin perjuicio de lo que disponen la presente Ley y las normas que la desarrollan.
+2. El órgano competente para dictar la resolución correspondiente, en el ámbito de las competencias del Consejo y una vez iniciado un procedimiento, puede adoptar, en cualquier momento, de oficio o a instancia de parte, medidas de carácter provisional para asegurar la eficacia de la resolución final. La decisión que adopte estas medidas debe justificar este extremo y también la apariencia de fundamento en derecho de la pretensión objeto del procedimiento.
+3. En el caso de un procedimiento de carácter sancionador, además de los requisitos fijados por el apartado 2, las medidas provisionales deben ser, en cuanto al contenido, homogéneas con las medidas ejecutivas, proporcionales y adecuadas para cumplir los fines perseguidos con su adopción. En cuanto al procedimiento para adoptar estas medidas, debe otorgarse un trámite de audiencia a la persona interesada, salvo que no lo permitan razones de emergencia, que deben justificarse expresamente en la decisión. En este último supuesto, y con posterioridad a la toma de la decisión de adoptar las medidas, debe concederse, lo antes posible, un trámite de audiencia a la persona interesada para reconsiderar, si procede, el mantenimiento o no de las medidas adoptadas.
+4. Las medidas provisionales que pueden adoptarse son: suspensión temporal de la actividad, prestación de fianzas, retirada de productos y suspensión temporal de servicios por un plazo máximo de seis meses.
+Se añade por el art. 1 de la Ley 3/2004, de 28 de junio. Ref. BOE-A-2004-16617.
+
+### Artículo 4
+
+Artículo 4. Composición.
+1. El Consejo del Audiovisual de Cataluña está integrado por cinco miembros, entre los cuales se elige a un Presidente o Presidenta y a un Vicepresidente o Vicepresidenta.
+2. Los miembros del Consejo son elegidos por el Parlamento por una mayoría de dos tercios, a propuesta, como mínimo, de tres grupos parlamentarios, entre personas de reconocido y contrastado prestigio y con experiencia profesional en el sector audiovisual, y que ofrezcan garantías plenas de independencia.
+3. El Presidente o Presidenta del Consejo es elegido por el Parlamento, por una mayoría de dos tercios, entre los miembros que integran el Consejo.
+4. El Vicepresidente o Vicepresidenta del Consejo es elegido por el propio Consejo entre los miembros que lo integran.
+5. Debe garantizarse la representación paritaria de mujeres y hombres entre los miembros del Consejo, de forma que el número de miembros de ninguno de los dos sexos supere el 60% del conjunto de miembros ni sea inferior al 40%. Las propuestas de candidatos que realicen los grupos parlamentarios deben tener en cuenta que, de acuerdo con este principio, la composición del Consejo debe cumplir siempre este requisito.
+6. Debe cumplirse la paridad de género entre las personas que ocupan los cargos de la presidencia y la vicepresidencia.
+7. Los miembros del Consejo deben suscribir el código ético y de conducta del Consejo del Audiovisual de Cataluña.
+Se modifica por el art. 2.1 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+ Se modifica por el art. 2 de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+ Redactado conforme a la corrección de errores publicada en el «Diario Oficial de la Generalidad de Cataluña» número 6083, de 8 de marzo de 2012.
+ Véase, en cuanto a la entrada en vigor de esta modificación, la disposición transitoria única de la citada Ley.
+
+### Artículo 5
+
+Artículo 5. Duración del mandato de los miembros.
+1. La duración del mandato de los miembros del Consejo del Audiovisual de Cataluña, incluido el presidente o presidenta, es de seis años, y en ningún caso es renovable. Al tercer año debe realizarse la renovación parcial de la mitad de los consejeros.
+2. En caso de vacante sobrevenida en el cargo de presidente o presidenta del Consejo, debe nombrarse a otra persona de acuerdo con el procedimiento establecido por el artículo 4.3.
+3. En caso de vacante sobrevenida del mandato de un consejero o consejera, debe nombrarse a otro para el resto del mandato, de acuerdo con lo establecido por el artículo 4. Los consejeros que ocupen una vacante cuando se haya agotado la mitad o más del mandato pueden optar, excepcionalmente y por una única vez, a la renovación del mandato.
+Se modifica el apartado 2 por el art. 2.2 de Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+ Se modifica por el art. 3 de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+ Redactado conforme a la corrección de errores publicada en el «Diario Oficial de la Generalidad de Cataluña» número 6083, de 8 de marzo de 2012.
+ Véase, en cuanto a la entrada en vigor de esta modificación, la disposición transitoria única de la citada Ley.
+ Se modifica por la disposición adicional 1 de la Ley 22/2005, de 29 de diciembre. Ref. BOE-A-2006-2452.
+
+### Artículo 6
+
+Artículo 6. Estatuto personal de los miembros del Consejo.
+1. Los miembros del Consejo del Audiovisual de Cataluña tienen dedicación exclusiva, actúan con plena independencia y neutralidad y no están sometidos a instrucción o indicación alguna en el ejercicio de sus funciones.
+2. Los miembros del Consejo están sujetos al régimen de incompatibilidades y de retribuciones, tanto en lo relativo al salario como a los complementos, de los altos cargos de la Administración de la Generalidad. La condición de miembro del Consejo es incompatible con la condición de miembro del Parlamento o del Gobierno, con el ejercicio de cualquier cargo de elección o designación políticas, con el desarrollo de actividades en las Administraciones Públicas y con el ejercicio de funciones de dirección o ejecutivas en partidos políticos, organizaciones sindicales o empresariales.
+3. Los miembros del Consejo no pueden tener directa ni indirectamente intereses en empresas audiovisuales, de cine, de vídeo, de prensa, de publicidad, de informática, de telecomunicaciones o de internet, ni ejercer actividades profesionales de ningún tipo, con la única excepción de la docencia en el ámbito de las enseñanzas superior o universitaria, si no se presta en régimen de dedicación exclusiva. Si un miembro se hallare incurso en alguna de las compatibilidades específicas en el presente apartado, dispondrá de tres meses para adecuar su situación a lo establecido en la presente Ley.
+4. Los miembros del Consejo deben presentar una declaración conforme no ejercen actividades profesionales, mercantiles o industriales que puedan ser causa de incompatibilidad o de conflicto de intereses de acuerdo con lo que disponen, respectivamente, los apartados 2 y 3. También deben presentar una declaración de bienes patrimoniales, con el detalle de todos los bienes, derechos y obligaciones de que son titulares, a la que deben adjuntar una copia de la última declaración tributaria del impuesto sobre la renta de las personas físicas que han presentado a la Administración tributaria.
+5. El plazo de presentación de las declaraciones a las que se refiere el apartado 4, y de la documentación que se adjunte, es de tres meses a contar desde la fecha de toma de posesión, y de tres meses a contar desde la fecha de cese. Tanto las declaraciones como la documentación que se adjunte deben inscribirse y han de constar en el registro propio del Consejo del Audiovisual de Cataluña.
+Se modifican los apartados 2, 4 y se añade el 5 por el art. 3 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+ Se añade el apartado 4 por el art. 165 de la Ley 2/2014, de 27 de enero. Ref. BOE-A-2014-2999.
+
+### Artículo 7
+
+Artículo 7. Pérdida de la condición de miembro del Consejo.
+1. Los miembros del Consejo del Audiovisual de Cataluña son nombrados de forma irrevocable y cesan únicamente por alguna de las siguiente causas:
+a) Expiración del plazo de mandato.
+b) Renuncia o fallecimiento.
+c) Incapacidad permanente para el ejercicio del cargo, incompatibilidad sobrevenida o inhabilitación para el ejercicio de cargos públicos.
+d) Condena en sentencia firme por delito doloso.
+e) La no resolución de las incompatibilidades que fija el artículo 6 en el plazo que establece.
+2. En el supuesto de la letra a del apartado 1, los miembros del Consejo cesan cuando finaliza su mandato pero siguen ejerciendo su cargo en funciones hasta la toma de posesión de los nuevos consejeros.
+Se añade el apartado 2 por el art. 4 de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+ Se añade la letra e) por la disposición adicional 3 de la Ley 22/2005, de 29 de diciembre. Ref. BOE-A-2006-2452.
+
+### Artículo 8
+
+Artículo 8. Régimen de funcionamiento.
+1. El órgano de gobierno y decisión del Consejo del Audiovisual de Cataluña es el Pleno del Consejo, formado por el Presidente o Presidenta y los Consejeros.
+2. El Presidente o Presidenta tiene la representación legal del Consejo y las facultades de convocar y presidir las reuniones del Pleno del Consejo. Sin perjuicio de las facultades del Presidente o Presidenta, el Pleno del Consejo debe ser convocado si así lo solicitan, como mínimo, la mitad de sus miembros.
+3. Para que el Pleno del Consejo se constituya válidamente es necesaria la presencia, como mínimo, de la mitad de sus miembros. Todos los acuerdos del Consejo deben adoptarse en el Pleno, y se requiere el voto favorable de la mayoría absoluta de sus miembros para adoptar los siguientes acuerdos:
+a) Los que son para aprobar y modificar el reglamento orgánico y de funcionamiento del Consejo.
+b) Los que son para aprobar el proyecto de presupuesto.
+c) Los relativos al otorgamiento, la extinción y la modificación de licencias y otros títulos habilitantes para operar, incluidos, si procede, los relativos a sus transmisiones, arrendamientos y otras modalidades de cesión.
+d) La imposición de sanciones muy graves.
+e) La aprobación del informe anual del Consejo.
+3 bis. Al efecto de lo establecido por los apartados 2 y 3, la mitad de los miembros del Consejo se determina por el primer número entero que resulte de dividir por la mitad el número de miembros del Consejo, de acuerdo con el artículo 4.1.
+4. El Presidente o Presidenta del Consejo dirime los empates en las votaciones del Pleno, mediante voto de calidad.
+5. El Consejo se relaciona con el Parlamento mediante la comisión parlamentaria que corresponda por razón de la materia.
+Se modifican los apartados 2,3 y se añaden los apartados 3 bis y 5, por el art. 4 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+ Se modifican los apartados 2 y 3 por el art. 5 de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+ Téngase en cuenta que esta modificación no será aplicable mientras no se constituya el Consejo del Audiovisual de Cataluña con la nueva composición establecida por la presente Ley.
+
+### Artículo 9
+
+Artículo 9. Principios de actuación.
+La actuación del Consejo del Audiovisual de Cataluña y la de sus miembros debe inspirarse siempre en el respeto de los principios de libertad de expresión, difusión, comunicación e información y en la compatibilidad de dichos principios con los de pluralismo, neutralidad, honestidad informativa y libre concurrencia en el sector del audiovisual, velando para que los operadores en su actividad se adecuen a lo establecido en la presente Ley y a la efectividad de la normativa reguladora en materia de comunicación audiovisual y de publicidad. El Consejo, en sus funciones reguladoras y sancionadoras, debe inspirarse en el criterio de proporcionalidad entre las medidas adoptadas y las conductas de los operadores y en la promoción de autorregulación de los mismos.
+
+### Artículo 10
+
+Artículo 10. Funciones del Consejo.
+El Consejo del Audiovisual de Cataluña, en el ámbito de su actuación, tiene las siguientes funciones:
+a) Emitir informe previo en cuanto a los anteproyectos de ley y los proyectos de disposiciones de carácter general que contengan normas relativas al sector audiovisual y sus eventuales modificaciones, así como elaborar informes y dictámenes a iniciativa propia o a instancia del Parlamento o del Gobierno.
+b) Informar, con carácter preceptivo y vinculante, sobre la propuesta del pliego de condiciones formulada por el Gobierno, previamente a la convocatoria de cada concurso de adjudicación de concesiones.
+c) Informar, con carácter preceptivo y vinculante, sobre las propuestas presentadas en los concursos de otorgamiento de concesiones para la gestión de emisoras de radiodifusión sonora y de televisión. También debe informar, con carácter preceptivo y vinculante, sobre las peticiones de renovación de las concesiones, los expedientes de modificación del capital social de las empresas titulares de la concesión, los expedientes de transmisión de las concesiones y las revocaciones de éstas.
+d) Velar por el cumplimiento de lo establecido en la normativa reguladora del sector del audiovisual y por la indemnidad de los principios que la informan y, en particular, asegurar la observancia de los principios de pluralismo político, social, religioso, cultural y de pensamiento.
+e) Velar por la pluralidad lingüística y cultural en el conjunto del sistema audiovisual en Cataluña y, en particular, por el cumplimiento de la legislación relativa a la preservación y normalización de la lengua y cultura catalanas y del aranés.
+f) Adoptar instrucciones generales de carácter vinculante dirigidas a los operadores a fin de garantizar el cumplimiento de la legislación vigente en el ámbito de sus competencias, así como adoptar decisiones vinculantes para sus destinatarios en lo que se refiere a las quejas formuladas por los usuarios de los servicios de comunicación audiovisual.
+g) Incoar y resolver, en el ámbito de sus competencias, los correspondientes procedimientos sancionadores por las infracciones de la legislación relativa a audiovisuales y publicidad.
+g bis) Proceder a la ejecución forzosa de los actos que adopte, ante la inactividad de la persona obligada y después de haber realizado la correspondiente advertencia. Esta facultad puede comportar la imposición de multas coercitivas por un importe de hasta 1.000 euros diarios.
+h) Obtener de los operadores de servicios de comunicación audiovisual toda la información que les sea requerida para el ejercicio de las funciones del Consejo.
+i) Promover la adopción de normas de autorregulación del sector audiovisual.
+j) Velar por el cumplimiento de la legislación sobre publicidad en todo aquello relativo a los contenidos y modalidades de las emisiones publicitarias, incluidos el patrocinio y la televenta.
+k) Asegurar el cumplimiento y la observancia de lo dispuesto en la Ley 8/1995, de 27 de julio, de Atención y Protección de los Niños y Adolescentes, y de modificación de la Ley 37/1991, de 30 de diciembre, sobre medidas de protección de los menores desamparados y de la adopción.
+l) Velar, en el ámbito de sus competencias, por el cumplimiento de la normativa de la Unión Europea, especialmente en los ámbitos relativos a la televisión sin fronteras, así como de la normativa contenida en los tratados internacionales relativa a los medios de comunicación audiovisual.
+m) Adoptar, en el marco de las atribuciones reconocidas en la presente Ley, las medidas necesarias para restablecer los efectos de la difusión o la introducción en la programación o la publicidad de mensajes o contenidos que atenten contra la dignidad humana y el principio de igualdad, y muy particularmente cuando estos mensajes o contenidos hayan sido difundidos en horarios de audiencia de público infantil o juvenil.
+n) Interesar de las demás autoridades reguladoras o de las Administraciones Públicas con competencia en medios de comunicación audiovisual cuyas emisiones se difundan en Cataluña y no queden sujetas a la autoridad del Consejo la adopción de las medidas adecuadas ante las conductas contrarias a la legislación relativa a la programación y publicidad audiovisuales, así como interesar del Ministerio Fiscal su actuación en los casos en que las conductas detectadas puedan ser susceptibles de sanción penal.
+o) Disponer el cese o la rectificación en relación a las emisiones de publicidad ilícita o prohibida, de conformidad con la legislación aplicable y en los supuestos que la misma establece.
+p) Aprobar y, si procede, modificar el Estatuto Orgánico y de Funcionamiento del Consejo.
+q) Garantizar el cumplimiento de las misiones de servicio público asignadas a los medios de comunicación audiovisual de gestión pública.
+q bis) Ejercer, a instancia de las partes en conflicto, y dentro del ámbito de sus competencias, funciones arbitrales y de mediación en el sector audiovisual.
+r) Aquellas otras que por ley le vengan atribuidas.
+Se modifican las letras a), b) y c), g bis) y q bis) por el art. 2 de la Ley 3/2004, de 28 de junio. Ref. BOE-A-2004-16617.
+
+### Artículo 11
+
+Artículo 11. Régimen sancionador.
+1. El Consejo del Audiovisual de Cataluña ejerce la potestad sancionadora que las leyes reguladoras de la comunicación audiovisual y de la publicidad otorgan a la Generalidad en lo referente al ámbito de actuación y las funciones del Consejo establecidas en la presente Ley.
+2. La desatención de los requerimientos formulados en virtud de lo que establece la letra h del artículo 10 de la presente Ley es una infracción leve y debe ser sancionada con una multa de hasta 30.000 euros, en el marco de las competencias del Consejo del Audiovisual de Cataluña, sin perjuicio de lo que establece el apartado 1. Deben aplicarse las sanciones fijadas por el artículo 14.b de la Ley 8/1996, de 5 de julio, de regulación de la programación audiovisual distribuida por cable, al incumplimiento de las obligaciones establecidas para los operadores audiovisuales a la legislación de política lingüística.
+Se modifica por el art. 3 de la Ley 3/2004, de 28 de junio. Ref. BOE-A-2004-16617.
+ Se añade el segundo párrafo por el art. 92 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 12
+
+Artículo 12. Informe anual.
+El Consejo del Audiovisual de Cataluña debe elaborar anualmente un informe sobre su actuación y la situación del sistema audiovisual en Cataluña, incluidas las propuestas y observaciones que sean necesarias para facilitar el desarrollo equilibrado del sector. El informe anual, que debe ser publicado, debe librarse al Parlamento a través de la correspondiente comisión parlamentaria, así como al Gobierno.
+
+### Artículo 13
+
+Artículo 13. Colaboración con otras instituciones.
+1. El Gobierno y la Administración de la Generalidad deben prestar la colaboración y el auxilio necesarios al Consejo del Audiovisual de Cataluña, cuando así lo exijan el cumplimiento de sus funciones y la ejecución de sus acuerdos, sin perjuicio de la obtención de la correspondiente autorización judicial cuando se precise para la ejecución de dichas resoluciones.
+2. El Consejo puede establecer acuerdos de cooperación y colaboración con otras autoridades de regulación audiovisual y participar en los organismos correspondientes del Consejo de Europa y de la Unión Europea.
+
+### Artículo 14
+
+Artículo 14. Personal al servicio del Consejo.
+1. El Consejo del Audiovisual de Cataluña debe seleccionar su propio personal con sujeción a los principios de publicidad, mérito y capacidad.
+2. El personal al servicio del Consejo que instruya expedientes sancionadores deberá ostentar la condición de funcionario y, en el ejercicio de sus funciones, tendrá la consideración de autoridad pública.
+3. La vinculación del personal al servicio del Consejo es de carácter laboral, salvo las especificidades establecidas en el presente artículo.
+
+### Artículo 15
+
+Artículo 15. Recursos económicos.
+1. El Consejo del Audiovisual de Cataluña, para su funcionamiento, dispone de los siguientes recursos económicos:
+a) Las asignaciones presupuestarias establecidas en el Presupuesto de la Generalidad.
+b) Los ingresos de derecho público y derecho privado que le correspondan.
+c) Las contraprestaciones derivadas de los convenios firmados por el Consejo.
+d) Los rendimientos de las publicaciones, estudios y demás actuaciones del Consejo.
+e) El importe de los cánones de los títulos de habilitación para la gestión de emisoras de radiodifusión sonoras y de televisión otorgadas por la Generalidad, en la proporción que se determine por vía reglamentaria.
+2. El Consejo debe elaborar y aprobar con carácter anual su proyecto de presupuesto, que debe ser remitido al Gobierno, mediante la Mesa del Parlamento, para que sea integrado en los presupuestos de la Generalidad, con la debida singularización, en una sección específica independiente.
+2 bis. El Consejo ejerce la función recaudadora para el cobro de las sanciones impuestas y de otros ingresos de derecho público que le correspondan en el ejercicio de sus funciones, tanto en periodo voluntario como en vía de apremio.
+3. El control económico y financiero del Consejo debe ejercerse de conformidad con la Ley de Finanzas Públicas de la Generalidad.
+Se modifica el apartado 2 por el art. 5 de la Ley 7/2019, de 14 de noviembre. Ref. BOE-A-2019-17098
+ Se añade el apartado 2.bis) por el art. 4 de la Ley 3/2004, de 28 de junio. Ref. BOE-A-2004-16617.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Constitución del Consejo.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Concursos de adjudicación de frecuencias.
+El Consejo del Audiovisual de Cataluña ejercerá las funciones establecidas en las letras b) y c) del artículo 10 en los concursos de adjudicación de frecuencias convocados a partir de la entrada en vigor de la presente Ley.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Renovación parcial del primer Consejo.
+(Derogada).
+Se deroga por la disposición derogatoria única.a) de la Ley 2/2012, de 22 de febrero. Ref. BOE-A-2012-3413.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Determinación del ámbito sancionador.
+Mientras no se apruebe la ley reguladora del audiovisual en Cataluña, en cuanto a las potestades sancionadoras del Consejo, son aplicables el régimen sancionador, la tipificación de las infracciones y la determinación de las sanciones establecidas por la legislación vigente y, en particular, lo que disponen el capítulo V de la Ley 8/1996, de 5 de julio, de regulación de la programación audiovisual distribuida por cable; el título IV del Decreto 15/2003, de 8 de enero, por el que se regula el régimen jurídico transitorio de las televisiones locales por ondas terrestres; el capítulo VII de la Ley 8/1995, de 27 de julio, de atención y protección de los niños y los adolescentes y de modificación de la Ley 37/1991, de 30 de diciembre, sobre medidas de protección de los menores desamparados y de la adopción; el capítulo VI de la Ley 25/1994, de 12 de julio, por la que se incorpora al ordenamiento jurídico español la Directiva 89/552/CEE, sobre la coordinación de disposiciones legales, reglamentarias y administrativas de los estados miembros relativas al ejercicio de actividades de radiodifusión televisiva, en el redactado que dan la Ley 22/1999, de 7 de junio, de modificación de la Ley 25/1994; la Ley 15/2001, de 9 de julio, de fomento y promoción de la cinematografía y el sector audiovisual, y la Ley 39/2002, de 28 de octubre, de transposición al ordenamiento jurídico español de diversas directivas comunitarias en materia de protección de los intereses de los consumidores y usuarios, y el título III de la Ley 41/1995, de 22 de diciembre, de televisión local por ondas terrestres.
+Se modifica por el art. 5 de la Ley 3/2004, de 28 de junio. Ref. BOE-A-2004-16617.
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Quedan derogados los artículos 10, 11 y 12 de la Ley 8/1996, de 5 de julio, de Regulación de la Programación Audiovisual Distribuida por Cable.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña» («DOGC»).
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 4 de mayo de 2000.
+JORDI PUJOL,
+Presidente

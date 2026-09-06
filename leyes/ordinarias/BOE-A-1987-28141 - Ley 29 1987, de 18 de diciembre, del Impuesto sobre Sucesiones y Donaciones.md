@@ -1,0 +1,752 @@
+# Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+
+- Identificador BOE: `BOE-A-1987-28141`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren,
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+I
+El Impuesto de Sucesiones y Donaciones cierra el marco de la imposición directa, con el carácter de tributo complementario del Impuesto sobre la Renta de las Personas Físicas; grava las adquisiciones gratuitas de las personas físicas y su naturaleza directa, que ya se predicaba del hasta ahora vigente Impuesto General sobre las Sucesiones, resulta, asimismo, en la configuración de la Ley, al quedar determinada la carga tributaria en el momento de incrementarse la capacidad de pago del contribuyente.
+El Impuesto contribuye a la redistribución de la riqueza, al detraerse en cada adquisición gratuita un porcentaje de la misma en favor del Tesoro Público; con esta finalidad, y siguiendo la pauta que marca el artículo 31 de la Constitución, se mantienen los dos principios que inspiraban la anterior ordenación del tributo; a saber, la cuantía de la adquisición patrimonial y el grado de parentesco entre transmitente y adquirente, si bien este último se combina para tener en cuenta el patrimonio preexistente del contribuyente, cuando su cuantía exceda de cincuenta millones de pesetas. Además, como luego se indicará, se refuerza la progresividad de las tarifas en las adquisiciones de mayor importancia y se introducen reglas de aplicación, como la que dispone la acumulación de las cantidades percibidas por razón de seguros sobre la vida al resto de los bienes y derechos que integran la porción hereditaria, que refuerzan el carácter redistribuidor del tributo, al mismo tiempo que contribuyen a mantener la justicia del gravamen.
+Se ha procurado la armonía con los demás tributos que integran la imposición directa, especialmente con el Impuesto sobre el Patrimonio al que la Ley se remite en materias como la de presunciones de titularidad, deudas del causante y fijación del valor del ajuar doméstico. En cambio, en la valoración de los bienes y derechos transmitidos, a efectos de la fijación de la base imponible, se sigue el criterio tradicional del valor real, que estimado en principio por los interesados, es comprobado por la Administración.
+II
+Entre las reformas que se introducen por la presente Ley son de destacar las siguientes:
+1. Una mayor precisión en la definición del hecho imponible, en el que se incluyen, aparte de las propias adquisiciones «mortis causa», las que se produzcan por actos «inter vivos», respondiendo así a la índole del tributo, que va a recaer sobre todas las adquisiciones patrimoniales gratuitas; con ello se consigue superar la normativa anterior, que sujetaba las donaciones a un Impuesto distinto del General sobre las Sucesiones, aunque se aplicaran las tarifas de este último a la hora de determinar la deuda tributaria; situación que cambió, transitoriamente, la Ley 32/1980, del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, a la espera de la regulación definitiva que estableciese el anunciado Impuesto sobre las Sucesiones y Donaciones. La mención específica de las adquisiciones realizadas por los beneficiarios de pólizas de seguros sobre la vida contribuye a esclarecer el marco impositivo, ya que en la legislación hasta ahora vigente sólo por vía de deducción (obtenida de los actos exentos y bonificados, principalmente) se desprendía la sujeción de las referidas adquisiciones.
+2. En orden a la delimitación del tributo se destaca que el mismo se configura como un gravamen cuyo sujeto pasivo es la persona física; de ahí que los incrementos gratuitos obtenidos por sociedades y entidades jurídicas se sometan al Impuesto sobre Sociedades, quedando de esta forma coordinado el tributo con el Impuesto sobre la Renta de las Personas Físicas, de modo que determinadas adquisiciones, en lugar de tributar por este Impuesto, lo hacen por el de Sucesiones y Donaciones, cuyo carácter especial con respecto al general queda así resaltado.
+3. El ámbito territorial del Impuesto experimenta, asimismo, una importante innovación, al quedar modificado el criterio para la aplicación de la legislación fiscal española; en efecto, la referencia a la nacionalidad se sustituye por la residencia efectiva, con lo que se consigue no sólo una adaptación a lo dispuesto en el artículo 21 de la Ley General Tributaria para los impuestos que tengan naturaleza personal, sino también un entronque, sin duda necesario, con la legislación extranjera más próxima y con lo ya pactado en los Convenios suscritos por España para evitar la doble imposición.
+4. La tendencia a la personalización del tributo tiene su principal manifestación en la supresión de exenciones. Al quedar al margen del tributo los incrementos de patrimonio obtenidos por las personas jurídicas, quedan sin sentido las exenciones contenidas en la normativa hasta ahora vigente en favor de las mismas, pero también se eliminan las demás exenciones objetivas que serían aplicables a las personas físicas (con la única excepción que supone el mantenimiento de los beneficios que la vigente legislación establece en favor de la explotación familiar agraria), por entender que no encajan bien en la nueva ordenación del Impuesto.
+5. En la regulación de los elementos cuantitativos de la obligación tributaria, la Ley impone a los interesados la obligación de consignar en sus declaraciones el valor real que atribuyen a los bienes y derechos adquiridos, pero reserva a la Administración la facultad de comprobar ese valor por los medios generales a que se refiere el artículo 52 de la Ley General Tributaria. Se sigue con ello el criterio tradicional de que la base imponible en el Impuesto sobre las Sucesiones y Donaciones está constituida por el valor real de los bienes y derechos, por lo que se deducen las cargas y deudas que minoran ese valor. Por otra parte, se aprovechan los cambios en la titularidad de los bienes para actualizar la base imponible en el Impuesto sobre el Patrimonio, y, en consecuencia, el valor que se obtenga de la comprobación se declara aplicable en el mismo para efectos de la liquidación a girar a cargo de los adquirentes.
+6. Es la tarifa del Impuesto la que, sin duda, ofrece mayor novedad, por haberse plasmado en ella importantes avances de la técnica tributaria para conseguir la progresividad y una mejor distribución de la carga fiscal, acentuándose de esta forma la función social que persigue este Impuesto. Se eliminan, en primer lugar, los defectos de las anteriores tarifas, que no permitían obtener una auténtica progresividad; en segundo lugar, y respondiendo a la necesidad de perfeccionar la escala de tributación, desaparecen determinadas reglas que conducían a un desigual reparto del gravamen, como la que establecía un recargo en las sucesiones abintestato en favor de los parientes colaterales en tercer o cuarto grado del causante y la que disponía la aplicación de un gravamen especial sobre las adquisiciones gratuitas que excedieran de diez millones de pesetas.
+Pero la novedad fundamental de la Ley consiste en el establecimiento de una tarifa única, con tipos progresivos en función de la cuantía de la base liquidable, que sustituye las siete existentes anteriormente. Con el fin de lograr una primera progresividad, adaptada a la actual estructura económica de la sociedad española, los primeros diez escalones de la tarifa están constituidos por tramos de base de un millón de pesetas cada uno, a los que se aplican tipos que crecen muy moderadamente, lo que beneficiará a los sujetos pasivos que adquieran incrementos de patrimonio de menor cuantía económica. Para acentuar, después, la progresividad que resulta de la simple aplicación de la tarifa y adaptarla, según el criterio tradicional, al grado de parentesco, la Ley dispone la aplicación de unos coeficientes multiplicadores que son distintos para cada uno de los grupos que establece. Sólo cuando el patrimonio preexistente del adquirente es de cierta importancia, el coeficiente se incrementa ligeramente.
+Novedad también, y de importante significación en la ordenación del tributo, es el establecimiento, cuando se trata de adquisiciones «mortis causa», de unos mínimos exentos de considerable importancia, que se estructuran en forma de reducciones de la base imponible y que se modulan en función de los grupos de parientes que se indican, si bien cuando se trata de descendientes menores de veintiún años, se tiene en cuenta la menor edad del adquirente para incrementar la reducción, por entender que la Ley debe tener en cuenta las situaciones de mayor desamparo económico.
+Por lo demás, y como es obvio, la Ley equipara las diversas especies de filiación, acomodándose a lo dispuesto en el artículo 39 de la Constitución y en la Ley 11/1981, de 13 de mayo.
+7. La Ley dedica un capítulo a la gestión del Impuesto, en el que se contienen normas generales sobre liquidación y pago del tributo. Como novedad, y con independencia de limitar las competencias en materia de liquidación a las oficinas de la Hacienda estatal o de las Comunidades Autónomas, se prevé la posibilidad de implantar, con carácter general o particular, el régimen de autoliquidación y se contemplan de modo especial casos en los que será posible practicar liquidaciones parciales provisionales a cuenta de las definitivas que deban girarse en su momento.
+Atención especial se dedica a las normas sobre plazos para el pago del Impuesto y, en su caso, sobre su aplazamiento o fraccionamiento. Siguiendo una tendencia ya iniciada, se unifican los plazos para el ingreso con los generales establecidos en el Reglamento de Recaudación, aunque se prevé la posibilidad de que con la implantación del régimen de autoliquidación se puedan establecer plazos especiales para la presentación de la declaración-liquidación.
+En materia de aplazamiento y fraccionamiento de pago, la Ley dispone expresamente que puedan aplicarse las normas generales del Reglamento de Recaudación, pero sin perjuicio de ello recoge los dos supuestos tradicionales de aplazamiento y fraccionamiento de pago concedidos por las Oficinas Liquidadoras, y como novedad establece un sistema que tiende a facilitar el pago del tributo en los casos de transmisión de empresas familiares o de transmisión por herencia de la vivienda habitual del causante.
+8. La presente Ley ha procurado recoger aquellas materias que específicamente afectan al Impuesto, remitiéndose a la Ley General Tributaria, al objeto de procurar un tratamiento homogéneo de los componentes de la deuda tributaria comunes a la mayoría de los impuestos integrantes del sistema fiscal.
+III
+Por último, queda por indicar que la Ley pretende contener la regulación jurídica básica del Impuesto sobre Sucesiones y Donaciones, abarcando aquellas materias incluidas en el ámbito de la reserva de Ley a que hace referencia el artículo 10 de la Ley General Tributaria, es decir, los elementos esenciales del tributo y los que afectan a la cuantía de la deuda, remitiendo su desarrollo reglamentario al Gobierno, que, con la garantía que supone la intervención del Consejo de Estado, elaborará un texto en el que se regulen con mayor detalle las distintas situaciones que pueda plantear la aplicación de la Ley.
+
+## CAPITULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza y objeto.
+El Impuesto sobre Sucesiones y Donaciones, de naturaleza directa y subjetiva, grava los incrementos patrimoniales obtenidos a título lucrativo por personas físicas, en los términos previstos en la presente Ley.
+
+### Artículo 2
+
+Artículo 2. Ámbito territorial.
+1. El Impuesto sobre Sucesiones y Donaciones se exigirá en todo el territorio español, sin perjuicio de lo dispuesto en los regímenes tributarios forales de Concierto y Convenio Económico vigentes en los Territorios Históricos del País Vasco y la Comunidad Foral de Navarra, respectivamente, y de lo dispuesto en los Tratados o Convenios internacionales que hayan pasado a formar parte del ordenamiento interno.
+2. La cesión del Impuesto a las Comunidades Autónomas se regirá por lo dispuesto en las normas reguladoras de la Cesión de Tributos del Estado a las Comunidades Autónomas y tendrá el alcance y condiciones que para cada una de ellas establezca su específica Ley de Cesión.
+Se modifica por el art. 29.1 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+## CAPITULO II
+
+Hecho imponible
+
+### Artículo 3
+
+Artículo 3. Hecho imponible.
+1. Constituye el hecho imponible:
+a) La adquisición de bienes y derechos por herencia, legado o cualquier otro título sucesorio.
+b) La adquisición de bienes y derechos por donación o cualquier otro negocio jurídico a título gratuito, «intervivos».
+c) La percepción de cantidades por los beneficiarios de contratos de seguros sobre la vida, cuando el contratante sea persona distinta del beneficiario, salvo los supuestos expresamente regulados en el artículo 16.2, a), de la Ley del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias.
+2. Los incrementos de patrimonio a que se refiere el número anterior, obtenidos por personas jurídicas, no están sujetos a este impuesto y se someterán al Impuesto sobre Sociedades.
+Se modifica por la disposición final 1 de la Ley 40/1998, de 9 de diciembre. Ref. BOE-A-1998-28472
+
+### Artículo 4
+
+Artículo 4. Presunciones de hechos imponibles.
+1. Se presumirá la existencia de una transmisión lucrativa cuando de los registros fiscales o de los datos que obren en la Administración resultare la disminución del patrimonio de una persona y simultáneamente o con posterioridad, pero siempre dentro del plazo de prescripción del artículo 25, el incremento patrimonial correspondiente en el cónyuge, descendientes, herederos o legatarios.
+2. En las adquisiciones a título oneroso realizadas por los ascendientes como representantes de los descendientes menores de edad, se presumirá la existencia de una transmisión lucrativa a favor de éstos por el valor de los bienes o derechos transmitidos, a menos que se pruebe la previa existencia de bienes o medios suficientes del menor para realizarla y su aplicación a este fin.
+3. Las presunciones a que se refieren los números anteriores se pondrán en conocimiento de los interesados para que puedan formular cuantas alegaciones y pruebas estimen convenientes a su derecho, antes de girar las liquidaciones correspondientes.
+Se modifica el apartado 1 por el art. 4.1 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+## CAPITULO III
+
+Sujetos pasivos y responsables
+
+### Artículo 5
+
+Artículo 5. Sujetos pasivos.
+Estarán obligados al pago del Impuesto a título de contribuyentes, cuando sean personas físicas:
+a) En las adquisiciones «mortis causa», los causahabientes.
+b) En las donaciones y demás transmisiones lucrativas «inter vivos» equiparables, el donatario o el favorecido por ellas.
+c) En los seguros sobre la vida, los beneficiarios.
+
+### Artículo 6
+
+Artículo 6. Obligación personal.
+1. A los contribuyentes que tengan su residencia habitual en España se les exigirá el Impuesto por obligación personal, con independencia de dónde se encuentren situados los bienes o derechos que integren el incremento de patrimonio gravado.
+2. Para la determinación de la residencia habitual se estará a lo establecido en las normas del Impuesto sobre la Renta de las Personas Físicas.
+3. Los representantes y funcionarios del Estado español en el extranjero quedarán sujetos a este Impuesto por obligación personal, atendiendo a idénticas circunstancias y condiciones que las establecidas para tales sujetos pasivos en las normas del Impuesto sobre la Renta de las Personas Físicas.
+
+### Artículo 7
+
+Artículo 7. Obligación real.
+A los contribuyentes no incluidos en el artículo inmediato anterior se les exigirá el Impuesto, por obligación real, por la adquisición de bienes y derechos, cualquiera que sea su naturaleza, que estuvieran situados, pudieran ejercitarse o hubieran de cumplirse en territorio español, así como por la percepción de cantidades derivadas de contratos de seguros sobre la vida cuando el contrato haya sido realizado con entidades aseguradoras españolas o se haya celebrado en España con entidades extranjeras que operen en ella.
+
+### Artículo 8
+
+Artículo 8. Responsables subsidiarios.
+1. Serán subsidiariamente responsables del pago del impuesto, salvo que resultaren de aplicación las normas sobre responsabilidad solidaria de la Ley General Tributaria:
+a) En las transmisiones "mortis causa" de depósitos, garantías o cuentas corrientes, los intermediarios financieros y las demás entidades o personas que hubieren entregado el metálico y valores depositados o devuelto las garantías constituidas.
+A estos efectos no se considerará entrega de metálico o de valores depositados, ni devolución de garantías, el libramiento de cheques bancarios con cargo a los depósitos, garantías o al resultado de la venta de los valores que sea necesario, que tenga como exclusivo fin el pago del propio Impuesto sobre Sucesiones y Donaciones que grave la transmisión "mortis causa", siempre que el cheque sea expedido a nombre de la Administración acreedora del impuesto.
+b) En las entregas de cantidades a quienes resulten beneficiarios como herederos o designados en los contratos, las entidades de seguros que las verifiquen.
+A estos efectos no se considerará entrega de cantidades a los beneficiarios de contratos de seguro el pago a cuenta de la prestación que tenga como exclusivo fin el pago del propio Impuesto sobre Sucesiones y Donaciones que grave la percepción de dicha prestación, siempre que se realice mediante la entrega a los beneficiarios de cheque bancario expedido a nombre de la Administración acreedora del impuesto.
+c) Los mediadores en la transmisión de títulos valores que formen parte de la herencia.
+A estos efectos no se considerará que estos mediadores son responsables del tributo cuando se limiten a realizar, por orden de los herederos, la venta de los valores necesarios que tenga como exclusivo fin el pago del propio Impuesto sobre Sucesiones y Donaciones que grave la transmisión "mortis causa", siempre que contra el precio obtenido en dicha venta se realice la entrega a los beneficiarios de cheque bancario expedido a nombre de la Administración acreedora del impuesto.
+2. Será también responsable subsidiario el funcionario que autorizase el cambio de sujeto pasivo de cualquier tributo o exacción estatal, autonómica o local, cuando tal cambio suponga, directa o indirectamente, una adquisición gravada por el presente Impuesto y no hubiere exigido previamente la justificación del pago del mismo.
+Se modifica el apartado 1 por el art. 4.2 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+## CAPITULO IV
+
+Base imponible
+
+## Seccion 1
+
+Sección 1.ª Normas generales
+
+### Artículo 9
+
+Artículo 9. Base imponible.
+1. Constituye la base imponible del impuesto:
+a) En las transmisiones «mortis causa», el valor neto de la adquisición individual de cada causahabiente, entendiéndose como tal el valor de los bienes y derechos minorado por las cargas y deudas que fueren deducibles.
+b) En las donaciones y demás transmisiones lucrativas ''inter vivos'' equiparables, el valor neto de los bienes y derechos adquiridos, entendiéndose como tal el valor de los bienes y derechos minorado por las cargas y deudas que fueren deducibles.
+c) En los seguros sobre la vida, las cantidades percibidas por el beneficiario. Las cantidades percibidas por razón de seguros sobre la vida se liquidarán acumulando su importe al del resto de los bienes y derechos que integran la porción hereditaria del beneficiario cuando el causante sea, a su vez, el contratante del seguro individual o el asegurado en el seguro colectivo.
+2. A efectos de este impuesto, salvo que resulte de aplicación alguna de las reglas contenidas en los siguientes apartados de este artículo o en los artículos siguientes, se considerará valor de los bienes y derechos su valor de mercado. No obstante, si el valor declarado por los interesados es superior al valor de mercado, esa magnitud se tomará como base imponible.
+Se entenderá por valor de mercado el precio más probable por el cual podría venderse, entre partes independientes, un bien libre de cargas.
+3. En el caso de los bienes inmuebles, su valor será el valor de referencia previsto en la normativa reguladora del catastro inmobiliario, a la fecha de devengo del impuesto.
+No obstante, si el valor del bien inmueble declarado por los interesados es superior a su valor de referencia, se tomará aquel como base imponible.
+Cuando no exista valor de referencia o este no pueda ser certificado por la Dirección General del Catastro, la base imponible, sin perjuicio de la comprobación administrativa, será la mayor de las siguientes magnitudes: el valor declarado por los interesados o el valor de mercado.
+4. El valor de referencia solo se podrá impugnar cuando se recurra la liquidación que en su caso realice la Administración Tributaria o con ocasión de la solicitud de rectificación de la autoliquidación, conforme a los procedimientos regulados en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+Cuando los obligados tributarios consideren que la determinación del valor de referencia ha perjudicado sus intereses legítimos, podrán solicitar la rectificación de la autoliquidación impugnando dicho valor de referencia.
+5. Cuando los obligados tributarios soliciten una rectificación de autoliquidación por estimar que la determinación del valor de referencia perjudica a sus intereses legítimos o cuando interpongan un recurso de reposición contra la liquidación que en su caso se le practique, impugnando dicho valor de referencia, la Administración Tributaria resolverá previo informe preceptivo y vinculante de la Dirección General del Catastro, que ratifique o corrija el citado valor, a la vista de la documentación aportada.
+La Dirección General del Catastro emitirá informe vinculante en el que ratifique o corrija el valor de referencia cuando lo solicite la Administración Tributaria encargada de la aplicación de los tributos como consecuencia de las alegaciones y pruebas aportadas por los obligados tributarios.
+Asimismo, emitirá informe preceptivo, corrigiendo o ratificando el valor de referencia, cuando lo solicite la Administración Tributaria encargada de la aplicación de los tributos, como consecuencia de la interposición de reclamaciones económico-administrativas.
+En los informes que emita la Dirección General del Catastro, el valor de referencia ratificado o corregido será motivado mediante la expresión de la resolución de la que traiga causa, así como de los módulos de valor medio, factores de minoración y demás elementos precisos para su determinación aprobados en dicha resolución.
+Se modifica por el art. 4.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+
+### Artículo 10
+
+Artículo 10. Determinación de la base.
+Con carácter general, la base imponible se determinará por la Administración Tributaria en régimen de estimación directa sin más excepciones que las determinadas en esta Ley y en las normas reguladoras del régimen de estimación indirecta de bases imponibles.
+
+## Seccion 2
+
+Sección 2.ª Normas especiales para adquisiciones «mortis causa»
+
+### Artículo 11
+
+Artículo 11. Adición de bienes.
+1. En las adquisiciones «mortis causa», a efectos de la determinación de la participación individual de cada causahabiente, se presumirá que forman parte del caudal hereditario:
+a) Los bienes de todas clases que hubiesen pertenecido al causante de la sucesión hasta un año antes de su fallecimiento, salvo prueba fehaciente de que tales bienes fueron transmitidos por aquél y de que se hallan en poder de persona distinta de un heredero, legatario, pariente dentro del tercer grado o cónyuge de cualquiera de ellos o del causante. Esta presunción quedará desvirtuada mediante la justificación suficiente de que en el caudal figuran incluidos el metálico u otros bienes subrogados en el lugar de los desaparecidos con valor equivalente.
+b) Los bienes y derechos que durante los tres años anteriores al fallecimiento hubieran sido adquiridos a título oneroso en usufructo por el causante y en nuda propiedad por un heredero, legatario, pariente dentro del tercer grado o cónyuge de cualquiera de ellos o del causante.
+c) Los bienes y derechos que hubieran sido transmitidos por el causante durante los cuatro años anteriores a su fallecimiento, reservándose el usufructo de los mismos o de otros del adquirente o cualquier otro derecho vitalicio, salvo cuando se trate de seguros de renta vitalicia contratados con entidades dedicadas legalmente a este género de operaciones; y
+d) Los valores y efectos depositados y cuyos resguardos se hubieren endosado, si con anterioridad al fallecimiento del endosante no se hubieren retirado aquéllos o tomado razón del endoso en los libros del depositario, y los valores nominativos que hubieren sido igualmente objeto de endoso, si la transferencia no se hubiere hecho constar en los libros de la entidad emisora con anterioridad también al fallecimiento del causante.
+No tendrá lugar esta presunción cuando conste de un modo suficiente que el precio o equivalencia del valor de los bienes o efectos transmitidos se ha incorporado al patrimonio del vendedor o cedente y figura en el inventario de su herencia, que ha de ser tenido en cuenta para la liquidación del impuesto, o si se justifica suficientemente que la retirada de valores o efectos o la toma de razón del endoso no ha podido verificarse con anterioridad al fallecimiento del causante por causas independientes de la voluntad de éste y del endosatario. Lo dispuesto en este párrafo se entenderá sin perjuicio de lo prevenido bajo las letras a), b) y c) anteriores.
+2. El adquirente y los endosatarios a que se refieren los apartados c) y d) precedentes serán considerados como legatarios si fuesen personas distintas del heredero.
+3. Cuando en cumplimiento de lo dispuesto en este artículo resultare exigible por el Impuesto sobre Sucesiones y Donaciones, una cuota superior a la que se hubiere obtenido, en su caso, en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, lo satisfecho por este último se deducirá de lo que corresponda satisfacer por aquél.
+4. Si los interesados rechazasen la incorporación al caudal hereditario de bienes y derechos en virtud de las presunciones establecidas en este artículo, se excluirá el valor de éstos de la base imponible, hasta la resolución definitiva en vía administrativa de la cuestión suscitada.
+5. Asimismo, serán de aplicación, en su caso, las presunciones de titularidad o cotitularidad contenidas en la Ley General Tributaria y en la Ley del Impuesto sobre el Patrimonio Neto.
+Se modifica la letra c) del apartado 1 por el art. 4.3 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+
+### Artículo 12
+
+Artículo 12. Cargas deducibles.
+Del valor de los bienes, únicamente serán deducibles las cargas o gravámenes de naturaleza perpetua, temporal o redimibles que aparezcan directamente establecidos sobre los mismos y disminuyan realmente su capital o valor, como los censos y las pensiones, sin que merezcan tal consideración las cargas que constituyan obligación personal del adquirente ni las que, como las hipotecas y las prendas, no suponen disminución del valor de lo transmitido, sin perjuicio, en su caso, de que las deudas que garanticen puedan ser deducidas si concurren los requisitos establecidos en el artículo siguiente.
+Se modifica por el art. 4.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+
+### Artículo 13
+
+Artículo 13. Deudas deducibles.
+1. En las transmisiones por causa de muerte, a efectos de la determinación del valor neto patrimonial, podrán deducirse con carácter general las deudas que dejare contraídas el causante de la sucesión siempre que su existencia se acredite por documento público o por documento privado que reúna los requisitos del artículo 1.227 del Código Civil o se justifique de otro modo la existencia de aquélla, salvo las que lo fuesen a favor de los herederos o de los legatarios de parte alícuota y de los cónyuges, ascendientes, descendientes o hermanos de aquéllos aunque renuncien a la herencia. La Administración podrá exigir que se ratifique la deuda en documento público por los herederos, con la comparecencia del acreedor.
+2. En especial, serán deducibles las cantidades que adeudare el causante por razón de tributos del Estado, de Comunidades Autónomas o de Corporaciones Locales o por deudas de la Seguridad Social y que se satisfagan por los herederos, albaceas o administradores del caudal hereditario, aunque correspondan a liquidaciones giradas después del fallecimiento.
+
+### Artículo 14
+
+Artículo 14. Gastos deducibles.
+En las adquisiciones por causa de muerte son deducibles para la determinación de la base imponible:
+a) Los gastos que cuando la testamentaría o abintestato adquieran carácter litigioso se ocasionen en el litigio en interés común de todos los herederos por la representación legítima de dichas testamentarías o abintestatos, excepto los de administración del caudal relicto, siempre que resulten aquéllos cumplidamente justificados con testimonio de los autos.
+b) Los gastos de última enfermedad, entierro y funeral, en cuanto se justifiquen. Los de entierro y funeral deberán guardar, además, la debida proporción con el caudal hereditario, conforme a los usos y costumbres de la localidad.
+
+### Artículo 15
+
+Artículo 15. Ajuar doméstico.
+El ajuar doméstico formará parte de la masa hereditaria y se valorará en el tres por ciento del importe del caudal relicto del causante, salvo que los interesados asignen a este ajuar un valor superior o prueben fehacientemente su inexistencia o que su valor es inferior al que resulte de la aplicación del referido porcentaje.
+Se modifica por la disposición adicional 3 de la Ley 19/1991, de 6 de junio. Ref. BOE-A-1991-14392
+
+## Seccion 3
+
+Sección 3.ª Normas especiales para transmisiones lucrativas «inter vivos»
+
+### Artículo 16
+
+Artículo 16. Cargas deducibles.
+En las donaciones y demás transmisiones lucrativas "inter vivos" equiparables, del valor de los bienes y derechos adquiridos se deducirán las cargas que reúnan los requisitos establecidos en el artículo 12 de esta Ley.
+Se modifica por el art. 4.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+
+### Artículo 17
+
+Artículo 17. Deudas deducibles.
+Del valor de los bienes donados o adquiridos por otro título lucrativo «inter vivos» equiparable, sólo serán deducibles las deudas que estuviesen garantizadas con derechos reales que recaigan sobre los mismos bienes transmitidos, en el caso de que el adquirente haya asumido fehacientemente la obligación de pagar la deuda garantizada.
+Si no asumiese fehacientemente esta obligación no será deducible el importe de la deuda, sin perjuicio del derecho del adquirente a la devolución de la porción de la cuota tributaria correspondiente a dicho importe, si acreditase fehacientemente el pago de la deuda por su cuenta dentro del plazo de prescripción del impuesto. Reglamentariamente se regulará la forma de practicar la devolución.
+
+## Seccion 4
+
+Seccion 4.ª Comprobación de valores
+
+### Artículo 18
+
+Artículo 18. Normas generales.
+1. La Administración podrá comprobar el valor de los bienes y derechos transmitidos por los medios de comprobación establecidos en el artículo 57 de la Ley General Tributaria, salvo que, en el caso de inmuebles, la base imponible sea su valor de referencia o el valor declarado por ser superior, de acuerdo con lo dispuesto en el artículo 9 de esta Ley.
+2. Los interesados deberán consignar en la declaración que están obligados a presentar según el artículo 31 el valor que atribuyen a cada uno de los bienes y derechos incluidos en la declaración del impuesto. Este valor prevalecerá sobre el comprobado si fuese superior.
+Si el valor al que se refiere el párrafo anterior no hubiera sido comunicado, se les concederá un plazo de diez días para que subsanen la omisión.
+3. Si el nuevo valor así obtenido fuese superior al que resultase de la aplicación de la correspondiente regla del Impuesto sobre el Patrimonio surtirá efecto en relación con las liquidaciones a practicar a cargo del adquirente por dicho Impuesto por la anualidad corriente y las siguientes.
+4. No se aplicará sanción sobre la parte de cuota que corresponda al mayor valor obtenido de la comprobación sobre el declarado cuando el sujeto pasivo se hubiese ajustado en su declaración a las reglas de valoración establecidas en el Impuesto sobre el Patrimonio Neto.
+Se modifican los apartados 1 y 2 por el art. 4.4 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+ Se modifica el apartado 2 por la disposición final 4.1 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+ Se modifica el apartado 3 por la disposición adicional 5 de la Ley 29/1991, de 16 de diciembre. Ref. BOE-A-1991-30076
+
+### Artículo 19
+
+Artículo 19. Derecho de adquisición por la Administración.
+(Derogado)
+Se deroga por la disposición derogatoria única.f) de la Ley 25/1998, de 13 de julio. Ref. BOE-A-1998-16714
+ Se modifica el apartado 1 por la disposición adicional 6 de la Ley 29/1991, de 16 de diciembre. Ref. BOE-A-1991-30076
+
+## CAPITULO V
+
+Base liquidable
+
+### Artículo 20
+
+Artículo 20. Base liquidable.
+1. En las adquisiciones gravadas por este impuesto, la base liquidable se obtendrá aplicando en la base imponible las reducciones que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, hayan sido aprobadas por la Comunidad Autónoma. Estas reducciones se practicarán por el siguiente orden: en primer lugar, las del Estado y, a continuación, las de las Comunidades Autónomas.
+2. En las adquisiciones "mortis causa", incluidas las de los beneficiarios de pólizas de seguros de vida, si la Comunidad Autónoma no hubiese regulado las reducciones a que se refiere el apartado anterior o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, se aplicarán las siguientes reducciones:
+a) La que corresponda de las incluidas en los grupos siguientes:
+Grupo I: adquisiciones por descendientes y adoptados menores de veintiún años, 15.956,87 euros, más 3.990,72 euros por cada año menos de veintiuno que tenga el causahabiente, sin que la reducción pueda exceder de 47.858,59 euros.
+Grupo II: adquisiciones por descendientes y adoptados de veintiuno o más años, cónyuges, ascendientes y adoptantes, 15.956,87 euros.
+Grupo III: adquisiciones por colaterales de segundo y tercer grado, ascendientes y descendientes por afinidad, 7.993,46 euros.
+Grupo IV: en las adquisiciones por colaterales de cuarto grado, grados más distantes y extraños, no habrá lugar a reducción.
+Se aplicará, además de las que pudieran corresponder en función del grado de parentesco con el causante, una reducción de 47.858,59 euros a las personas que tengan la consideración legal de minusválidos, con un grado de discapacidad igual o superior al 33 por 100 e inferior al 65 por 100, de acuerdo con el baremo a que se refiere el artículo 148 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio ; la reducción será de 150.253,03 euros para aquellas personas que, con arreglo a la normativa anteriormente citada, acrediten un grado de minusvalía igual o superior al 65 por 100.
+b) Con independencia de las reducciones anteriores, se aplicará una reducción del 100 por ciento, con un límite de 9.195,49 euros, a las cantidades percibidas por los beneficiarios de contratos de seguros sobre vida, cuando su parentesco con el contratante fallecido sea de cónyuge, ascendiente, descendiente, adoptante o adoptado. En los seguros colectivos o contratados por las empresas a favor de sus empleados se estará al grado de parentesco entre el asegurado fallecido y beneficiario.
+La reducción será única por sujeto pasivo cualquiera que fuese el número de contratos de seguros de vida de los que sea beneficiario, y no será aplicable cuando éste tenga derecho a la establecida en la disposición transitoria cuarta de esta ley.
+La misma reducción será en todo caso aplicable a los seguros de vida que traigan causa en actos de terrorismo, así como en servicios prestados en misiones internacionales humanitarias o de paz de carácter público, y no estará sometida al límite cuantitativo establecido en el primer párrafo de esta letra, siendo extensible a todos los posibles beneficiarios, sin que sea de aplicación lo previsto en la disposición transitoria cuarta de esta ley.
+c) En los casos en los que en la base imponible de una adquisición "mortis causa" que corresponda a los cónyuges, descendientes o adoptados de la persona fallecida, estuviese incluido el valor de una empresa individual, de un negocio profesional o participaciones en entidades, a los que sea de aplicación la exención regulada en el apartado octavo del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, o el valor de derechos de usufructo sobre los mismos, o de derechos económicos derivados de la extinción de dicho usufructo, siempre que con motivo del fallecimiento se consolidara el pleno dominio en el cónyuge, descendientes o adoptados, o percibieran éstos los derechos debidos a la finalización del usufructo en forma de participaciones en la empresa, negocio o entidad afectada, para obtener la base liquidable se aplicará en la imponible, con independencia de las reducciones que procedan de acuerdo con los apartados anteriores, otra del 95 por 100 del mencionado valor, siempre que la adquisición se mantenga, durante los diez años siguientes al fallecimiento del causante, salvo que falleciera el adquirente dentro de ese plazo.
+En los supuestos del párrafo anterior, cuando no existan descendientes o adoptados, la reducción será de aplicación a las adquisiciones por ascendientes, adoptantes y colaterales, hasta el tercer grado y con los mismos requisitos recogidos anteriormente. En todo caso, el cónyuge supérstite tendrá derecho a la reducción del 95 por 100.
+Del mismo porcentaje de reducción, con el límite de 122.606,47 euros para cada sujeto pasivo y con el requisito de permanencia señalado anteriormente, gozarán las adquisiciones "mortis causa" de la vivienda habitual de la persona fallecida, siempre que los causahabientes sean cónyuge, ascendientes o descendientes de aquél, o bien pariente colateral mayor de sesenta y cinco años que hubiese convivido con el causante durante los dos años anteriores al fallecimiento.
+Cuando en la base imponible correspondiente a una adquisición "mortis causa" del cónyuge, descendientes o adoptados de la persona fallecida se incluyeran bienes comprendidos en los apartados uno, dos o tres del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, en cuanto integrantes del Patrimonio Histórico Español o del Patrimonio Histórico o Cultural de las Comunidades Autónomas, se aplicará, asimismo, una reducción del 95 por 100 de su valor, con los mismos requisitos de permanencia señalados en este apartado.
+En el caso de no cumplirse el requisito de permanencia al que se refiere el presente apartado, deberá pagarse la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada y los intereses de demora.
+3. Si unos mismos bienes en un período máximo de diez años fueran objeto de dos o más transmisiones "mortis causa" en favor de descendientes, en la segunda y ulteriores se deducirá de la base imponible, además, el importe de lo satisfecho por el impuesto en las transmisiones precedentes. Se admitirá la subrogación de los bienes cuando se acredite fehacientemente.
+4. En el caso de obligación real de contribuir, las reducciones aplicables serán las establecidas en el apartado 2. Las mismas reducciones serán aplicables en el caso de obligación personal de contribuir cuando el sujeto pasivo o el causante fuesen no residentes en territorio español.
+5. En las adquisiciones por título de donación o equiparable, si la Comunidad Autónoma no hubiese regulado las reducciones a que se refiere el apartado 1 o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, la base liquidable coincidirá, en todo caso, con la imponible, salvo lo dispuesto en los siguientes apartados y en la disposición final primera.
+6. En los casos de transmisión de participaciones "ínter vivos", en favor del cónyuge, descendientes o adoptados, de una empresa individual, un negocio profesional o de participaciones en entidades del donante a los que sea de aplicación la exención regulada en el apartado octavo del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, se aplicará una reducción en la base imponible para determinar la liquidable del 95 por 100 del valor de adquisición, siempre que concurran las condiciones siguientes:
+a) Que el donante tuviese sesenta y cinco o más años o se encontrase en situación de incapacidad permanente, en grado de absoluta o gran invalidez.
+b) Que, si el donante viniere ejerciendo funciones de dirección, dejara de ejercer y de percibir remuneraciones por el ejercicio de dichas funciones desde el momento de la transmisión.
+A estos efectos, no se entenderá comprendida entre las funciones de dirección la mera pertenencia al Consejo de Administración de la sociedad.
+c) En cuanto al donatario, deberá mantener lo adquirido y tener derecho a la exención en el Impuesto sobre el Patrimonio durante los diez años siguientes a la fecha de la escritura pública de donación, salvo que falleciera dentro de este plazo.
+Asimismo, el donatario no podrá realizar actos de disposición y operaciones societarias que, directa o indirectamente, puedan dar lugar a una minoración sustancial del valor de la adquisición. Dicha obligación también resultará de aplicación en los casos de adquisiciones "mortis causa" a que se refiere la letra c) del apartado 2 de este artículo.
+En el caso de no cumplirse los requisitos a que se refiere el presente apartado, deberá pagarse la parte del impuesto que se hubiere dejado de ingresar como consecuencia de la reducción practicada y los intereses de demora.
+Véase, en relación a los apartados 2.c) y 6, la Resolución 2/1999, de 23 de marzo, de la Dirección General de Tributos, relativa a la aplicación de las reducciones en la base imponible del Impuesto sobre Sucesiones y Donaciones, en materia de vivienda habitual y empresa familiar. Ref. BOE-A-1999-8180
+7. La misma reducción en la base imponible regulada en el apartado anterior y con las condiciones señaladas en sus letras a) y c) se aplicará, en caso de donación, a favor del cónyuge, descendientes o adoptados, de los bienes comprendidos en los apartados uno, dos y tres del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, en cuanto integrantes del Patrimonio Histórico Español o del Patrimonio Histórico o Cultural de las Comunidades Autónomas.
+A los efectos de las adquisiciones gratuitas de los bienes integrantes del Patrimonio Histórico Español o del Patrimonio Histórico o Cultural de las Comunidades Autónomas, se considerará que el donatario no vulnera el deber de mantenimiento de lo adquirido cuando done, de forma pura, simple e irrevocable, los bienes adquiridos con reducción de la base imponible del impuesto al Estado o a las demás Administraciones públicas territoriales o institucionales.
+El incumplimiento de los requisitos exigidos llevará consigo el pago del impuesto dejado de ingresar y los correspondientes intereses de demora.
+Se modifica el apartado 7 por la disposición final 2.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+ Se modifica el apartado 2.b), con efectos desde el 1 de enero de 2003, por el art. 5.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica el párrafo primero del apartado 2.c) por el art. 3.1 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por el art. 61.1 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se modifica el apartado 2 por el art. 5.1 de la Ley 55/1999, de 29 de diciembre Ref. BOE-A-1999-24786 y por el art. 66 de la Ley 54/1999, de 29 de diciembre Ref. BOE-A-1999-24785y se añade el apartado 7 por el art. 5.2 de la citada Ley 55/1999.
+ Se modifica el apartado 2.a), con efectos desde el 1 de enero de 1999, por el art. 64 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Se modifica el apartado 2.c) y se añade el apartado 6 por el art. 5 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053
+ Se modifica por el art. 29.2 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+ Se añade el apartado 5 por el art. 4 del Real Decreto-Ley 7/1996, de 7 de junio. Ref. BOE-A-1996-13002
+ Se modifica el apartado 1 por el art. 22 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifica el apartado 1 y se añade el 4, con efectos a partir del 1 de enero de 1995, por el art. 69.1 y 2 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifica el apartado 1 por el art. 74 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+ Se modifica el apartado 1 por el art. 67 de la Ley 31/1990, de 27 de diciembre. Ref. BOE-A-1990-31180
+ Se modifica el apartado 1 por el art. 22 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Redactado conforme a la corrección de errores publicada en BOE núm. 184, de 2 de agosto de 1990. Ref. BOE-A-1990-18512
+ Se modifica el apartado 1 por el art. 26 del Real Decreto-Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+ Redactado conforme a la corrección de errores publicada en BOE núm. 9, de 10 de enero de 1990. Ref. BOE-A-1990-512
+ Se modifica el apartado 1 por el art. 93 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+## CAPITULO VI
+
+Tipo de gravamen
+
+### Artículo 21
+
+Artículo 21. Tarifa.
+1. La cuota íntegra del impuesto se obtendrá aplicando a la base liquidable, calculada según lo dispuesto en el artículo anterior, la escala que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, haya sido aprobada por la Comunidad Autónoma.
+2. Si la Comunidad Autónoma no hubiese aprobado la escala a que se refiere el apartado anterior o si aquélla no hubiese asumido competencias normativas en materia de Impuesto sobre Sucesiones y Donaciones o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, la base liquidable será gravada a los tipos que se indican en la siguiente escala:
+Base liquidable
+ -
+ Hasta euros
+ Cuota íntegra
+ –
+ Euros
+ Resto base liquidable
+ –
+ Hasta euros
+ Tipo aplicable
+ –
+ Porcentaje
+ 0,00
+ 
+ 7.993,46
+ 7,65
+ 7.993,46
+ 611,50
+ 7.987,45
+ 8,50
+ 15.980,91
+ 1.290,43
+ 7.987,45
+ 9,35
+ 23.968,36
+ 2.037,26
+ 7.987,45
+ 10,20
+ 31.955,81
+ 2.851,98
+ 7.987,45
+ 11,05
+ 39.943,26
+ 3.734,59
+ 7.987,45
+ 11,90
+ 47.930,72
+ 4.685,10
+ 7.987,45
+ 12,75
+ 55.918,17
+ 5.703,50
+ 7.987,45
+ 13,60
+ 63.905,62
+ 6.789,79
+ 7.987,45
+ 14,45
+ 71.893,07
+ 7.943,98
+ 7.987,45
+ 15,30
+ 79.880,52
+ 9.166,06
+ 39.877,15
+ 16,15
+ 119.757,67
+ 15.606,22
+ 39.877,16
+ 18,70
+ 159.634,83
+ 23.063,25
+ 79.754,30
+ 21,25
+ 239.389,13
+ 40.011,04
+ 159.388,41
+ 25,50
+ 398.777,54
+ 80.655,08
+ 398.777,54
+ 29,75
+ 797.555,08
+ 199.291,40
+ en adelante
+ 34,00
+3. En el caso de obligación real de contribuir, la tarifa aplicable será la establecida en el apartado anterior. La misma tarifa será aplicable, en el supuesto de obligación personal de contribuir, en los casos de donación de bienes inmuebles situados en el extranjero o cuando el sujeto pasivo o el causante fuesen no residentes en territorio español.
+Se modifica el apartado 1 por el art. 61.2 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962.
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el punto 4.1 de la Resolución de 27 de abril de 2001. Ref. BOE-A-2001-8543.
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2000, por el art. 67 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 1999, por el art. 65 de la Ley 49/1998, de 30 de diciembre. Ref. BOE-A-1998-30154
+ Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373
+ Se modifica por el art. 29.3 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+ Se modifica por el art. 23 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 18 de enero de 1996. Ref. BOE-A-1996-1219
+ Se modifica, con efectos a partir del 1 de enero de 1995, por el art. 70 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 14 de febrero de 1995. Ref. BOE-A-1995-3864
+ Se modifica por el art. 75 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+ Se modifica por el art. 68 de la ley 31/1990, de 27 de diciembre. Ref. BOE-A-1990-31180
+ Se modifica por el art. 23 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se modifica por el art. 27 del Real Decreto-Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+ Se modifica por el art. 94 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+## CAPITULO VII
+
+Deuda tributaria
+
+### Artículo 22
+
+Artículo 22. Cuota tributaria.
+1. La cuota tributaria por este impuesto se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador en función de la cuantía de los tramos del patrimonio preexistente que, conforme a lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, hayan sido aprobados por la Comunidad Autónoma y del grupo, según el grado de parentesco, señalado en el artículo 20.
+2. Si la Comunidad Autónoma no hubiese aprobado el coeficiente o la cuantía de los tramos a que se refiere el apartado anterior, o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, se aplicará el que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
+Patrimonio preexistente
+ –
+ Euros
+ Grupos del artículo 20
+ I y II
+ III
+ IV
+ De 0 a 402.678,11 ..........................................
+ 1,0000
+ 1,5882
+ 2,0000
+ De más de 402.678,11 a 2.007.380,43......
+ 1,0500
+ 1,6676
+ 2,1000
+ De más de 2.007.380,43 a 4.020.770,98...
+ 1,1000
+ 1,7471
+ 2,2000
+ Más de 4.020.770,98......................................
+ 1,2000
+ 1,9059
+ 2,4000
+Cuando la diferencia entre la cuota tributaria obtenida por la aplicación del coeficiente multiplicador que corresponda y la que resultaría de aplicar a la misma cuota íntegra el coeficiente multiplicador inmediato inferior sea mayor que la que exista entre el importe del patrimonio preexistente tenido en cuenta para la liquidación y el importe máximo del tramo de patrimonio preexistente que motivaría la aplicación del citado coeficiente multiplicador inferior, aquélla se reducirá en el importe del exceso.
+En los casos de seguros sobre la vida se aplicará el coeficiente que corresponde al patrimonio preexistente del beneficiario y al grupo en que por su parentesco con el contratante estuviese encuadrado. En los seguros colectivos o contratados por las empresas en favor de sus empleados se estará al coeficiente que corresponda al patrimonio preexistente del beneficiario y al grado de parentesco entre éste y el asegurado.
+Si no fuesen conocidos los causahabientes en una sucesión, se aplicará el coeficiente establecido para los colaterales de cuarto grado y extraños cuando el patrimonio preexistente exceda de 4.020.770,98 euros, sin perjuicio de la devolución que proceda una vez que aquéllos fuesen conocidos.
+3. En la valoración del patrimonio preexistente del contribuyente se aplicarán las siguientes reglas:
+a) La valoración se realizará conforme a las reglas del Impuesto sobre el Patrimonio.
+b) Cuando se trate de adquisiciones "mortis causa", se excluirá el valor de los bienes y derechos por cuya adquisición se haya satisfecho el impuesto como consecuencia de una donación anterior realizada por el causante. La misma regla se aplicará en el caso de acumulación de donaciones.
+c) En el patrimonio preexistente se incluirá el valor de los bienes y derechos que el cónyuge que hereda perciba como consecuencia de la disolución de la sociedad conyugal.
+4. En el caso de obligación real de contribuir, el coeficiente multiplicador será el establecido en el apartado 2 anterior. El mismo coeficiente multiplicador será aplicable en el supuesto de obligación personal de contribuir, en los casos de donación de bienes inmuebles situados en el extranjero o cuando el sujeto pasivo o el causante fuesen no residentes en territorio español.
+Se modifica por el art. 61.3 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se convierten a euros las cuantías contempladas en el apartado 2 por el punto 4.2 de la Resolución de 27 de abril de 2001. Ref. BOE-A-2001-8543.
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 2000, por el art. 68 de la Ley 54/1999, de 29 de diciembre. Ref. BOE-A-1999-24785
+ Se modifica el apartado 2, con efectos desde el 1 de enero de 1999, por el art. 66 de la Ley 49/1998, de 30 diciembre. Ref. BOE-A-1998-30154
+ Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 17 de marzo de 1999. Ref. BOE-A-1999-6373
+ Se modifica por el art. 29.4 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+ Se modifican los apartados 1 y 3 por el art. 24 del Real Decreto-Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964
+ Se modifican los apartados 1 y 3, con efectos a partir del 1 de enero de 1995, por el art. 71 de la Ley 41/1994, de 30 de diciembre. Ref. BOE-A-1994-28967
+ Se modifican los apartados 1 y 3 por el art. 76. 1 y 2 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903
+ Se modifican los apartados 1 y 3 por el art. 69.1 y 2 de la Ley 31/1990, de 27 de diciembre. Ref. BOE-A-1990-31180
+ Se modifican los apartados 1 y 3 por el art. 24.1 y 2 de la Ley 5/1990, de 29 de junio. Ref. BOE-A-1990-15348
+ Se modifican los apartados 1 y 3 por el art. 28.1 y 2 del Real Decreto-Ley 7/1989, de 29 de diciembre. Ref. BOE-A-1989-30591
+ Se modifican los apartados 1 y 3 por el art. 95.1 y 2 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
+
+### Artículo 23
+
+Artículo 23. Deducción por doble imposición internacional.
+1. Cuando la sujeción al impuesto se produzca por obligación personal, tendrá el contribuyente derecho a deducir la menor de las dos cantidades siguientes:
+a) El importe efectivo de lo satisfecho en el extranjero por razón de impuesto similar que afecte al incremento patrimonial sometido a gravamen en España.
+b) El resultado de aplicar el tipo medio efectivo de este impuesto al incremento patrimonial correspondiente a bienes que radiquen o derechos que puedan ser ejercitados fuera de España, cuando hubiesen sido sometidos a gravamen en el extranjero por un impuesto similar.
+2. De acuerdo con lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía, las Comunidades Autónomas podrán aprobar las deducciones y bonificaciones que estimen convenientes.
+En todo caso, resultarán compatibles con las deducciones y bonificaciones establecidas en la normativa estatal reguladora del impuesto sin que puedan suponer una modificación las mismas. Estas deducciones y bonificaciones autonómicas se aplicarán con posterioridad a las reguladas por la normativa del Estado.
+Se numera el apartado 1 y se añade el apartado 2 por el art. 61.4 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+### Artículo 23 bis
+
+Artículo 23 bis. Bonificación de la cuota en Ceuta y Melilla.
+1. En las cuotas de este impuesto derivadas de adquisiciones "mortis causa" y las cantidades percibidas por los beneficiarios de seguros sobre la vida, que se acumulen al resto de bienes y derechos que integran la porción hereditaria del beneficiario, se efectuará una bonificación del 50 por 100 de la cuota, siempre que el causante hubiera tenido su residencia habitual a la fecha del devengo en Ceuta o Melilla y durante los cinco años anteriores, contados fecha a fecha, que finalicen el día anterior al del devengo.
+No obstante, la bonificación a que se refiere el párrafo anterior se elevará al 99 por ciento para los causahabientes comprendidos, según el grado de parentesco, en los grupos I y II señalados en el artículo 20 de esta ley.
+2. En los supuestos de adquisiciones "inter vivos", se aplicará una bonificación del 50 por 100 de la parte de la cuota que proporcionalmente corresponda a los inmuebles situados en Ceuta o Melilla. A los efectos de esta bonificación, tendrán la consideración de bienes inmuebles las transmisiones a título gratuito de los valores a que se refiere el artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+3. En el caso de las demás adquisiciones "inter vivos", se aplicará una bonificación del 50 por 100 de la cuota que corresponda cuando el adquirente tenga su residencia habitual en Ceuta o Melilla.
+4. Para la aplicación de estas bonificaciones, se tendrán en cuenta las normas establecidas sobre residencia habitual y puntos de conexión en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+Se añade un párrafo al apartado 1 por el art. 5.2.1 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se añade por el art. 3.2 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+## CAPITULO VIII
+
+Devengo y prescripción
+
+### Artículo 24
+
+Artículo 24. Devengo.
+1. En las adquisiciones por causa de muerte y en los seguros sobre la vida, el impuesto se devengará el día del fallecimiento del causante o del asegurado o cuando adquiera firmeza la declaración de fallecimiento del ausente, conforme al artículo 196 del Código Civil. No obstante, en las adquisiciones producidas en vida del causante como consecuencia de contratos y pactos sucesorios, el impuesto se devengará el día en que se cause o celebre dicho acuerdo.
+2. En las transmisiones lucrativas «inter vivos» el impuesto se devengará el día en que se cause o celebre el acto o contrato.
+3. Toda adquisición de bienes cuya efectividad se halle suspendida por la existencia de una condición, un término, un fideicomiso o cualquier otra limitación, se entenderá siempre realizada el día en que dichas limitaciones desaparezcan.
+Se modifica el apartado 1 por el art. 5.2.2 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 25
+
+Artículo 25. Prescripción.
+1. La prescripción se aplicará de acuerdo con lo previsto en los artículos 64 y siguientes de la Ley General Tributaria.
+2. En el supuesto de escrituras autorizadas por funcionarios extranjeros, el plazo de prescripción se computará desde la fecha de su presentación ante cualquier Administración española, salvo que un Tratado, Convenio o Acuerdo Internacional, suscrito por España, fije otra fecha para el inicio de dicho plazo.
+Se modifica por el art. 3.3 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica por la disposición adicional 6 de la Ley 25/1998, de 13 de julio. Ref. BOE-A-1998-16714
+
+## CAPITULO IX
+
+Normas especiales
+
+### Artículo 26
+
+Artículo 26. Usufructo y otras instituciones.
+Serán de aplicación las normas contenidas en los apartados siguientes a la tributación del derecho de usufructo, tanto a la constitución como a la extinción, de las sustituciones, reservas, fideicomisos e instituciones sucesorias forales:
+a) El valor del usufructo temporal se reputará proporcional al valor total de los bienes, en razón del 2 por 100 por cada período de un año, sin exceder del 70 por 100.
+En los usufructos vitalicios se estimará que el valor es igual al 70 por 100 del valor total de los bienes cuando el usufructuario cuente menos de veinte años, minorando a medida que aumenta la edad, en la proporción de un 1 por 100 menos por cada año más, con el límite mínimo del 10 por 100 del valor total.
+El valor del derecho de nuda propiedad se computará por la diferencia entre el valor del usufructo y el valor total de los bienes. En los usufructos vitalicios que, a su vez, sean temporales, la nuda propiedad se valorará aplicando, de las reglas anteriores, aquella que le atribuya menor valor.
+Al adquirir la nuda propiedad se efectuará la liquidación, teniendo en cuenta el valor correspondiente a aquélla, minorado, en su caso, por el importe de todas las reducciones a que tenga derecho el contribuyente y con aplicación del tipo medio efectivo de gravamen correspondiente al valor íntegro de los bienes.
+b) El valor de los derechos reales de uso y habitación será el que resulte de aplicar al 75 por 100 del valor de los bienes sobre los que fueron impuestos las reglas correspondientes a la valoración de los usufructos temporales o vitalicios, según los casos.
+c) En la extinción del usufructo se exigirá el impuesto según el título de constitución, aplicando el tipo medio efectivo de gravamen correspondiente a la desmembración del dominio.
+d) Siempre que el adquirente tenga facultad de disponer de los bienes, el impuesto se liquidará en pleno dominio, sin perjuicio de la devolución que, en su caso, proceda.
+e) La atribución del derecho a disfrutar de todo o parte de los bienes de la herencia, temporal o vitaliciamente, tendrá a efectos fiscales la consideración de usufructo, y se valorará conforme a las reglas anteriores.
+f) En la sustitución vulgar se entenderá que el sustituto hereda al causante y en las sustituciones pupilar y ejemplar que hereda al sustituido.
+Se modifica por el art. 3.4 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 27
+
+Artículo 27. Partición y excesos de adjudicación.
+1. En las sucesiones por causa de muerte, cualesquiera que sean las particiones y adjudicaciones que los interesados hagan, se considerará para los efectos del impuesto como si se hubiesen hecho con estricta igualdad y con arreglo a las normas reguladoras de la sucesión, estén o no los bienes sujetos al pago del impuesto por la condición del territorio o por cualquier otra causa y, en consecuencia, los aumentos que en la comprobación de valores resulten se prorratearán entre los distintos adquirentes o herederos.
+2. Si los bienes en cuya comprobación resultare aumento de valores o a los que deba aplicarse la no sujeción fuesen atribuidos específicamente por el testador a persona determinada o adjudicados en concepto distinto del de herencia, los aumentos o disminuciones afectarán sólo al que adquiera dichos bienes.
+3. Se liquidarán excesos de adjudicación, según las normas establecidas en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados cuando existan diferencias, según el valor declarado, en las adjudicaciones efectuadas a los herederos o legatarios, en relación con el título hereditario; también se liquidarán los excesos de adjudicación cuando el valor comprobado de lo adjudicado a uno de los herederos o legatarios exceda del 50 por 100 del valor que le correspondería en virtud de su título, salvo en el supuesto de que los valores declarados sean iguales o superiores a los que resultarían de la aplicación de las reglas del Impuesto sobre el Patrimonio Neto.
+
+### Artículo 28
+
+Artículo 28. Repudiación y renuncia a la herencia.
+1. En la repudiación o renuncia pura, simple y gratuita de la herencia o legado, los beneficiarios de la misma tributarán por la adquisición de la parte repudiada o renunciada, aplicando siempre el coeficiente que corresponda a la cuantía de su patrimonio preexistente. En cuanto al parentesco con el causante, se tendrá en cuenta el del renunciante o el del que repudia cuando tenga señalado uno superior al que correspondería al beneficiario.
+2. En los demás casos de renuncia en favor de persona determinada, se exigirá el impuesto al renunciante, sin perjuicio de lo que deba liquidarse, además, por la cesión o donación de la parte renunciada.
+3. La repudiación o renuncia hecha después de prescrito el impuesto correspondiente a la herencia o legado se reputará a efectos fiscales como donación.
+
+### Artículo 29
+
+Artículo 29. Donaciones especiales.
+Las donaciones con causa onerosa y las remuneratarias tributarán por tal concepto y por su total importe. Si existieran recíprocas prestaciones o se impusiera algún gravamen al donatario, tributarán por el mismo concepto solamente por la diferencia.
+
+### Artículo 30
+
+Artículo 30. Acumulación de donaciones y contratos y pactos sucesorios.
+1. Las donaciones y demás transmisiones ''inter vivos'' equiparables que se otorguen por un mismo donante a un mismo donatario, así como las adquisiciones producidas en vida del causante como consecuencia de contratos y pactos sucesorios formalizados entre las mismas personas, todas ellas dentro del plazo de tres años, a contar desde la fecha de cada una, se considerarán como una sola transmisión a los efectos de la liquidación del impuesto. Para determinar la cuota tributaria se aplicará, a la base liquidable de la actual adquisición, el tipo medio correspondiente a la base liquidable teórica del total de las adquisiciones acumuladas.
+2. Lo dispuesto en el apartado anterior, a efectos de la determinación de la cuota tributaria, será igualmente aplicable a las donaciones y demás transmisiones ''inter vivos'' equiparables y a las adquisiciones producidas en vida del causante como consecuencia de contratos y pactos sucesorios acumulables a la sucesión que se cause por el donante o causante a favor del donatario o sucesor «mortis causa», siempre que el plazo que medie entre ésta y aquéllas no exceda de cuatro años.
+3. A estos efectos se entenderá por base liquidable teórica del total de las adquisiciones acumuladas la suma de las bases liquidables de las donaciones y demás transmisiones ''inter vivos'' equiparables anteriores, de las herencias, legados o cualesquier otros títulos sucesorios y la de la adquisición actual.
+Se modifica por el art. 4.5 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+ Se modifica por el art. 3.5 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+ Se modifica el apartado 2 por el art. 4.4 de la Ley 14/2000, de 29 de diciembre. Ref. BOE-A-2000-24357
+ Se modifica por el art. 29.5 de la Ley 14/1996, de 30 de diciembre. Ref. BOE-A-1996-29118
+
+## CAPITULO X
+
+Obligaciones formales
+
+### Artículo 31
+
+Artículo 31. Declaración y liquidación.
+1. Los sujetos pasivos vendrán obligados a presentar una declaración tributaria, comprensiva de los hechos imponibles a que se refiere esta ley, en los plazos y en la forma que reglamentariamente se fijen. No obstante lo anterior, podrán optar por presentar una autoliquidación, en cuyo caso deberán practicar las operaciones necesarias para determinar el importe de la deuda tributaria y acompañar el documento o declaración en el que se contenga o se constate el hecho imponible.
+2. Los sujetos pasivos deberán aplicar el régimen de autoliquidación del impuesto con carácter obligatorio en las comunidades autónomas en que así se establezca en esta ley.
+Los sujetos pasivos deberán aplicar el régimen de autoliquidación por los hechos imponibles en los que el rendimiento del impuesto se considere producido en el territorio de dichas comunidades autónomas en virtud de los puntos de conexión aplicables de acuerdo con lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+Se modifica por el art. 5.2.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 32
+
+Artículo 32. Deberes de las autoridades, funcionarios y particulares.
+1. Los órganos judiciales remitirán a los organismos de la Administración tributaria de su respectiva jurisdicción relación mensual de los fallos ejecutoriados o que tengan el carácter de sentencia firme de los que se desprenda la existencia de incrementos de patrimonio gravados por el Impuesto sobre Sucesiones y Donaciones.
+2. Los encargados del Registro Civil remitirán a los mismos organismos, dentro de la primera quincena de cada mes, relación nominal de los fallecidos en el mes anterior y de su domicilio.
+3. Los notarios están obligados a facilitar los datos que les reclamen los organismos de la Administración tributaria acerca de los actos en que hayan intervenido en el ejercicio de sus funciones, y a expedir gratuitamente en el plazo de quince días las copias que aquellos les pidan de los documentos que autoricen o tengan en su protocolo, salvo cuando se trate de los instrumentos públicos a que se refieren los artículos 34 y 35 de la Ley de 28 de mayo de 1862 y los relativos a cuestiones matrimoniales, con excepción de los referentes al régimen económico de la sociedad conyugal.
+Asimismo, estarán obligados a remitir, dentro de la primera quincena de cada trimestre, relación o índice comprensivo de todos los documentos autorizados en el trimestre anterior que se refieran a actos o contratos que pudieran dar lugar a los incrementos patrimoniales que constituyen el hecho imponible del impuesto. También están obligados a remitir, dentro del mismo plazo, relación de los documentos privados con el contenido indicado que les hayan sido presentados para su conocimiento o legitimación de firmas.
+4. Los órganos judiciales, intermediarios financieros, asociaciones, fundaciones, sociedades, funcionarios, particulares y cualesquiera otras entidades públicas o privadas no acordarán entregas de bienes a personas distintas de su titular sin que se acredite previamente el pago del impuesto o su exención, a menos que la Administración lo autorice.
+5. Las entidades de seguros no podrán efectuar la liquidación y pago de los concertados sobre la vida de una persona a menos que se justifique haber presentado a liquidación la documentación correspondiente o, en su caso, el ingreso de la autoliquidación practicada.
+6. Se exceptúan de lo dispuesto en los dos números anteriores los supuestos a los que se refiere el número 1 del artículo 8 de esta Ley, en los términos y con las condiciones allí establecidos.
+7. El incumplimiento de las obligaciones establecidas en los números 1 al 5 anteriores se sancionará de acuerdo con lo dispuesto en el artículo 40 de esta Ley.
+Cuando se trate de órganos jurisdiccionales, la autoridad competente del Ministerio de Hacienda pondrá los hechos en conocimiento del Consejo General del Poder Judicial, por conducto del Ministerio Fiscal, a los efectos pertinentes.
+Se modifica por el art. 3.6 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412
+
+### Artículo 33
+
+Artículo 33. Efectos de la falta de presentación.
+Los documentos que contengan actos o contratos sujetos al Impuesto sobre Sucesiones y Donaciones no se admitirán ni surtirán efecto en oficinas o registros públicos sin que conste la presentación del documento ante los órganos competentes para su liquidación, salvo lo previsto en la legislación hipotecaria o autorización expresa de la Administración. Los Juzgados y Tribunales remitirán a estos órganos copia autorizada de los documentos que admitan en los que no conste la nota de haber sido presentados a liquidación.
+
+## CAPITULO XI
+
+Gestión del Impuesto
+
+## Sección 1
+
+Sección 1.ª Liquidación
+
+### Artículo 34
+
+Artículo 34. Normas generales.
+1. La competencia para la gestión y liquidación del impuesto corresponderá a las Delegaciones y Administraciones de Hacienda o, en su caso, a las oficinas con análogas funciones de las Comunidades Autónomas que tengan cedida la gestión del tributo.
+2. Las Comunidades Autónomas podrán regular los aspectos sobre la gestión y liquidación de este impuesto según lo previsto en la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía. Cuando la Comunidad Autónoma no hubiese regulado dichos aspectos, se aplicarán las normas establecidas en esta Ley.
+3. No obstante lo dispuesto en el apartado anterior, la competencia para establecer como obligatorio el régimen de autoliquidación del Impuesto corresponde al Estado, que introducirá en la Ley del Impuesto las Comunidades Autónomas en las que se haya establecido dicho régimen.
+4. De acuerdo con lo dispuesto en el apartado anterior, se establece el régimen de autoliquidación del impuesto con carácter obligatorio en las siguientes Comunidades Autónomas:
+– Comunidad Autónoma de Andalucía.
+– Comunidad Autónoma de Aragón.
+– Comunidad Autónoma del Principado de Asturias.
+– Comunidad Autónoma de las Illes Balears.
+– Comunidad Autónoma de Canarias.
+– Comunidad Autónoma de Cantabria.
+– Comunidad Autónoma de Castilla-La Mancha.
+– Comunidad de Castilla y León.
+– Comunidad Autónoma de Cataluña.
+– Comunidad Autónoma de Galicia.
+– Comunidad Autónoma de la Región de Murcia.
+– Comunidad Autónoma de La Rioja.
+– Comunidad de Madrid.
+– Comunidad Valenciana.
+Se modifica el apartado 4 por la disposición final 2 de la Ley 38/2022, de 27 de diciembre. Ref. BOE-A-2022-22684#df-2
+ Se modifica el apartado 4 por la disposición final 1 de la Ley 10/2020, de 29 de diciembre. Ref. BOE-A-2020-17265#df
+ Se modifica el apartado 4 por la disposición final 1 de la Ley 25/2013, de 27 de diciembre. Ref. BOE-A-2013-13722
+ Se modifica el apartado 4 por la disposición final 2.2 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650
+ Se modifica el apartado 4 por la disposición final 7 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049
+ Se modifica por la disposición final 3 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+ Se modifica por la disposición final 7 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086
+ Se modifica el apartado 4 por la disposición final 1 de la Ley 22/2005, de 18 de noviembre. Ref. BOE-A-2005-19003
+ Se modifica por el art. 5.2.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+ Se modifica por el art. 61.5 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+
+### Artículo 35
+
+Artículo 35. Liquidaciones parciales a cuenta.
+1. Los interesados en sucesiones hereditarias podrán solicitar que se practique una liquidación parcial del Impuesto a los solos efectos de cobrar seguros sobre la vida, créditos del causante, haberes devengados y no percibidos por el mismo, retirar bienes, valores, efectos o dinero que se hallaren en depósito y demás supuestos análogos.
+2. Reglamentariamente se regulará la forma y plazos para practicar estas liquidaciones y los requisitos para que los interesados puedan proceder al cobro de las cantidades o a la retirada del dinero o los bienes depositados.
+En las liquidaciones parciales que se practiquen para el cobro de seguros sobre la vida de cualquier tipo se tendrán en cuenta las reducciones previstas en el artículo 20 de esta Ley, con los requisitos y límites establecidos en el mismo.
+3. Las liquidaciones parciales tendrán el carácter de ingresos a cuenta de la liquidación definitiva que proceda por la sucesión hereditaria de que se trate.
+Se modifica por el art. 3 de la Ley 50/1998, de 30 de diciembre. Ref. BOE-A-1998-30155
+
+## Sección 2
+
+Sección 2.ª Pago del Impuesto
+
+### Artículo 36
+
+Artículo 36. Pago del Impuesto.
+1. Excepción hecha de los supuestos de autoliquidación, que se regirán por sus normas específicas, el pago de las liquidaciones practicadas por la Administración por el Impuesto sobre Sucesiones y Donaciones deberá realizarse en los plazos señalados en el Reglamento General de Recaudación.
+2.(Anulado)
+3. El pago de la deuda tributaria podrá realizarse mediante entrega de bienes integrantes del Patrimonio Histórico Español que estén inscritos en el Inventario General de Bienes Muebles o en el Registro General de Bienes de Interés Cultural, de acuerdo con lo dispuesto en el artículo 69, 2, de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+Se declara la inconstitucionalidad y nulidad del apartado 2 por Sentencia del TC 111/2006, de 5 de abril. Ref. BOE-T-2006-8141
+
+## Sección 3
+
+Sección 3.ª Aplazamiento y fraccionamiento de pago
+
+### Artículo 37
+
+Artículo 37. Norma general.
+Sin perjuicio de lo dispuesto en los artículos siguientes de esta sección, en el Impuesto sobre Sucesiones y Donaciones serán aplicables las normas sobre aplazamiento y fraccionamiento de pago establecidas en el Reglamento General de Recaudación.
+
+### Artículo 38
+
+Artículo 38. Aplazamiento y fraccionamiento por las oficinas de gestión.
+1. Los órganos competentes para la gestión y liquidación del Impuesto podrán acordar el aplazamiento, por término de hasta un año, del pago de las liquidaciones practicadas por causa de muerte, siempre que no exista inventariado efectivo o bienes de fácil realización suficientes para el abono de las cuotas liquidadas y se solicite antes de expirar el plazo reglamentario de pago. La concesión del aplazamiento implicará la obligación de abonar el interés de demora correspondiente.
+2. En los mismos supuestos y condiciones podrán acordar el fraccionamiento de pago, en cinco anualidades como máximo, siempre que se garantice el pago en la forma que reglamentariamente se determine.
+3. Asimismo, podrá acordarse el aplazamiento del pago, en las mismas condiciones a que hacen referencia los números anteriores, hasta que fuesen conocidos los causahabientes en una sucesión.
+
+### Artículo 39
+
+Artículo 39. Supuestos especiales de aplazamiento y fraccionamiento.
+1. El pago de las liquidaciones giradas como consecuencia de la transmisión por herencia, legado o donación de una empresa individual que ejerza una actividad industrial, comercial, artesanal, agrícola o profesional o de participaciones en entidades a las que sea de aplicación la exención regulada en el punto dos del apartado octavo del artículo 4 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio, podrá aplazarse, a petición del sujeto pasivo deducida antes de expirar el plazo reglamentario de pago o, en su caso, el de presentación de la autoliquidación, durante los cinco años siguientes al día en que termine el plazo para el pago, con obligación de constituir caución suficiente y sin que proceda el abono de intereses durante el período de aplazamiento.
+2. Terminado el plazo de cinco años podrá, con las mismas condiciones y requisitos, fraccionarse el pago en diez plazos semestrales, con el correspondiente abono del interés legal del dinero durante el tiempo de fraccionamiento.
+3. Lo dispuesto en los números anteriores sobre aplazamiento y fraccionamiento de pago será, asimismo, aplicable a las liquidaciones giradas como consecuencia de la transmisión hereditaria de la vivienda habitual de una persona, siempre que el causahabiente sea cónyuge, ascendiente o descendiente de aquél, o bien pariente colateral mayor de sesenta y cinco años, que hubiese convivido con el causante durante los dos años anteriores al fallecimiento.
+4. En los seguros sobre la vida en los que el causante sea a su vez el contratante o el asegurado en el seguro colectivo y cuyo importe se perciba en forma de renta, se fraccionará a solicitud del beneficiario el pago del impuesto correspondiente en el número de años en los que perciba la pensión, si la renta fuera temporal, o en un número máximo de quince años si fuere vitalicia, mientras no se ejercite el derecho de rescate.
+El aplazamiento no exigirá la constitución de ningún tipo de caución sin que devengue tampoco ningún tipo de interés.
+Por la extinción de la pensión dejarán de ser exigibles los pagos fraccionados pendientes que, no obstante, lo serán en caso de ejercitarse el derecho de rescate.
+Reglamentariamente se determinará el procedimiento para la aplicación de lo dispuesto en este apartado.
+Se añade el apartado 4 por el art. 17 de la Ley 6/2000, de 13 de diciembre. Ref. BOE-A-2000-22616
+ Se modifica por el art. 8 de la Ley 42/1994, de 30 de diciembre. Ref. BOE-A-1994-28968
+ Se modifica por la disposición adicional 8 de la Ley 22/1993, de 29 de diciembre. Ref. BOE-A-1993-31153
+
+## CAPITULO XII
+
+Infracciones y sanciones
+
+### Artículo 40
+
+Artículo 40. Régimen sancionador.
+1. Las infracciones tributarias del impuesto regulado en esta ley serán calificadas y sancionadas con arreglo a lo dispuesto en la Ley General Tributaria, sin perjuicio de las especialidades previstas en esta ley.
+2. El incumplimiento de la obligación a que se refiere el apartado 2 del artículo 18 de esta ley se considerará infracción grave y la sanción consistirá en multa pecuniaria fija de 500 euros.
+La sanción se graduará incrementando la cuantía resultante en un 100 por ciento si se produce la comisión repetida de infracciones tributarias.
+La sanción impuesta de acuerdo con lo previsto en este apartado se reducirá conforme a lo dispuesto en el apartado 3 del artículo 188 de la Ley General Tributaria.
+Se modifica por la disposición final 4.2 de la Ley 58/2003, de 17 de diciembre. Ref. BOE-A-2003-23186
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+La cesión del rendimiento del Impuesto a las Comunidades Autónomas se regirá por lo dispuesto en la correspondiente Ley de Cesión.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Adecuación de la normativa del Impuesto a lo dispuesto en la Sentencia del Tribunal de Justicia de la Unión Europea, de 3 de septiembre de 2014 (asunto C-127/12), y regulación de la declaración liquidación de los contribuyentes que deban tributar a la Administración Tributaria del Estado.
+Uno. Adecuación de la normativa del Impuesto a lo dispuesto en la Sentencia del Tribunal de Justicia de la Unión Europea, de 3 de septiembre de 2014.
+1. La liquidación del impuesto aplicable a la adquisición de bienes y derechos por cualquier título lucrativo en los supuestos que se indican a continuación se ajustará a las siguientes reglas:
+a) En el caso de la adquisición de bienes y derechos por herencia, legado o cualquier otro título sucesorio, si el causante hubiera sido no residente en España, los contribuyentes tendrán derecho a la aplicación de la normativa propia aprobada por la Comunidad Autónoma en donde se encuentre el mayor valor de los bienes y derechos del caudal relicto situados en España. Si no hubiera ningún bien o derecho situado en España, se aplicará a cada sujeto pasivo la normativa de la Comunidad Autónoma en que resida.
+b) En el caso de la adquisición de bienes y derechos por herencia, legado o cualquier otro título sucesorio, si el causante hubiera sido residente en una Comunidad Autónoma, los contribuyentes no residentes tendrán derecho a la aplicación de la normativa propia aprobada por dicha Comunidad Autónoma.
+c) En el caso de la adquisición de bienes inmuebles situados en España por donación o cualquier otro negocio jurídico a título gratuito e ''inter vivos'' los contribuyentes no residentes tendrán derecho a la aplicación de la normativa propia aprobada por la Comunidad Autónoma donde radiquen los referidos bienes inmuebles.
+d) En el caso de la adquisición de bienes inmuebles situados fuera de España por donación o cualquier otro negocio jurídico a título gratuito e ''inter vivos'', los contribuyentes residentes en España tendrán derecho a la aplicación de la normativa propia aprobada por la Comunidad Autónoma en la que residan.
+e) En el caso de la adquisición de bienes muebles situados en España por donación o cualquier otro negocio jurídico a título gratuito e ''inter vivos'', los contribuyentes no residentes tendrán derecho a la aplicación de la normativa propia aprobada por la Comunidad Autónoma donde hayan estado situados los referidos bienes muebles un mayor número de días del período de los cinco años inmediatos anteriores, contados de fecha a fecha, que finalice el día anterior al de devengo del impuesto.
+2. A efectos de lo dispuesto en este artículo, se considerará que las personas físicas residentes en territorio español lo son en el territorio de una Comunidad Autónoma cuando permanezcan en su territorio un mayor número de días del período de los cinco años inmediatos anteriores, contados de fecha a fecha, que finalice el día anterior al de devengo.
+3. Cuando en un solo documento se donen por un mismo donante a favor de un mismo donatario distintos bienes o derechos y por aplicación de las reglas expuestas en el apartado 1 anterior resulte aplicable la normativa de distintas Comunidades Autónomas, la cuota tributaria a ingresar se determinará del siguiente modo:
+1.° Se calculará el tipo medio resultante de aplicar al valor del conjunto de los bienes y derechos donados la normativa del Estado y la de cada una de las Comunidades Autónomas en las que radiquen o estén situados parte de tales bienes y derechos.
+2.° Se aplicará al valor de los bienes y derechos que radiquen o estén situados en cada Comunidad Autónoma el tipo medio obtenido por la aplicación de su normativa propia, de lo cual se obtendrá una cuota tributaria a ingresar, correspondiente a dichos bienes y derechos.
+Dos. Regulación de la declaración-liquidación de los contribuyentes que deban tributar a la Administración Tributaria del Estado.
+Los contribuyentes, que deban cumplimentar sus obligaciones por este impuesto a la Administración Tributaria del Estado, vendrán obligados a presentar una autoliquidación, practicando las operaciones necesarias para determinar el importe de la deuda tributaria y acompañar el documento o declaración en el que se contenga o se constate el hecho imponible. Al tiempo de presentar su autoliquidación, deberán ingresar la deuda tributaria resultante en el lugar, forma y plazos determinados reglamentariamente por el Ministro de Hacienda y Administraciones Públicas.
+Se modifica el apartado Uno por el art. 4.6 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ac
+ Se modifica por la disposición final 3 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Los preceptos de esta Ley serán de aplicación a los hechos imponibles producidos a partir de su entrada en vigor. Los acaecidos con anterioridad se regularán por la legislación precedente, salvo en lo relativo al plazo de prescripción al que se aplicará lo dispuesto en el artículo 25 de esta Ley. En todo caso, la competencia para la gestión y liquidación estará atribuida a los órganos a que se refiere el artículo 34 desde el momento de la entrada en vigor de la presente Ley, salvo cuando se trate de documentos presentados con anterioridad a liquidación, en cuyo caso se seguirá manteniendo la competencia de las oficinas en que hubiesen sido presentados hasta su liquidación definitiva.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+Subsistirán los derechos adquiridos al amparo de las exenciones y reducciones que establecían el texto refundido de la Ley del Impuesto y las disposiciones a que se refiere la disposición final primera. Por derechos adquiridos se entenderá tan sólo los que se acredite que, efectivamente, han comenzado a ejercitarse antes de la entrada en vigor de esta Ley, sin que la mera expectativa pueda reputarse derecho adquirido.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+No obstante lo dispuesto anteriormente, quedarán exentas las adquisiciones por herencia, legado o donación de los bonos de caja de los Bancos industriales y de negocios a que se refiere el Decreto-ley de 29 de noviembre de 1962, siempre que hubiesen sido adquiridos por el causante o donante con anterioridad al día 19 de enero de 1987 y hubieran permanecido en su patrimonio durante un plazo no inferior a dos años inmediatamente anteriores a la fecha de la transmisión.
+En caso de amortización de los títulos a que se refiere al párrafo anterior, el producto de la misma podrá ser reinvertido en otros bonos de caja de Bancos industriales y de negocios para completar los requisitos necesarios para gozar de la exención o conservar el derecho a su disfrute.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Asimismo, cuando el contrato se hubiese celebrado antes de la publicación del proyecto de esta Ley en el «Boletín Oficial de las Cortes», la percepción de cantidades por los beneficiarios de contratos de seguro sobre la vida, continuará disfrutando de los beneficios fiscales establecidos en los artículos 19, 1, 3º y 20, 1, 1º, 3º, 4º y 5º del texto refundido de la Ley del Impuesto General sobre las Sucesiones, aprobado por Decreto 1018/1967, de 6 de abril. Para la aplicación transitoria de estos beneficios, en los casos en que el evento se establezca sobre la vida de persona distinta del contratante, el seguro tendrá que haber sido concertado con tres años, al menos, de anterioridad a la fecha en que aquél se produzca, salvo que se hubiere contratado en forma colectiva.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+Las referencias que en esta Ley se hacen al Impuesto sobre el Patrimonio Neto se entenderán hechas al Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas hasta tanto aquél entre en vigor.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+La implantación con carácter obligatorio del régimen de declaración-liquidación del impuesto, en las diferentes Comunidades Autónomas, será establecido por el Estado conforme éstas vayan estableciendo un servicio de asistencia al contribuyente para cumplimentar dicha autoliquidación.
+Se añade por el art. 61.6 de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962
+ Se deroga por la disposición derogatoria de la Ley 29/1991, de 16 de diciembre. Ref. BOE-A-1991-30076
+
+### Disposición final primera
+
+Disposición final primera.
+1. Las disposiciones contenidas en esta Ley comenzarán a regir el día 1 de enero de 1988, quedando derogados a partir de su entrada en vigor el texto refundido aprobado por Decreto 1018/1967, de 6 de abril, así como las demás disposiciones anteriores que se opongan a lo establecido en la misma. No obstante, se aplicarán en sus propios términos y con los requisitos y condiciones en cada caso exigidos, los beneficios fiscales establecidos en la Ley 49/1981, de 24 de diciembre, para la adquisición por herencia, legado o donación de explotaciones familiares agrarias.
+2. Sin perjuicio de lo dispuesto en el número anterior, las modificaciones introducidas en el texto refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados por la disposición adicional segunda, entrarán en vigor al día siguiente de la publicación de la presente Ley en el «Boletín Oficial del Estado».
+3. A la entrada en vigor de la presente Ley dejará de aplicarse el Impuesto sobre Bienes de las Personas Jurídicas.
+
+### Disposición final segunda
+
+Disposición final segunda.
+Hasta la aprobación del Reglamento del Impuesto sobre Sucesiones y Donaciones seguirá en vigor el de 15 de enero de 1959 en cuanto no se oponga a los preceptos de esta Ley.
+
+### Disposición final tercera
+
+Disposición final tercera.
+Las Leyes de Presupuestos Generales del Estado podrán modificar las reducciones de la base imponible, los tramos de la base liquidable, los tipos de la tarifa, la cuantía de los tramos del patrimonio preexistente y los coeficientes multiplicadores a que se refiere el artículo 22.
+
+### Disposición final cuarta
+
+Disposición final cuarta.
+Los incrementos de patrimonio a título gratuito adquiridos por las entidades a que se refieren los artículos IV y V del Acuerdo sobre Asuntos Económicos entre el Estado Español y la Santa Sede de 3 de enero de 1979, estarán exentos en el Impuesto sobre Sociedades, cuando concurran las condiciones y requisitos exigidos por dicho acuerdo para disfrutar de exención en el impuesto que grava las sucesiones y donaciones.
+El mismo beneficio será aplicable a las Asociaciones confesionales no católicas reconocidas, cuando concurran las condiciones y requisitos establecidos en los artículos 6.º y 7.º de la Ley Orgánica 7/1980, de 5 de julio, sobre Libertad Religiosa.
+Se deroga el párrafo primero por la disposición derogatoria única de la Ley 30/1994, de 24 de noviembre. Ref. BOE-A-1994-26004
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Palacio de la Zarzuela, Madrid, a 18 de diciembre de 1987.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+FELIPE GONZALEZ MARQUEZ

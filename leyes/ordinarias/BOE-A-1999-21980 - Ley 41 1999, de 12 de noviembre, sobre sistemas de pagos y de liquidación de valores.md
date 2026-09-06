@@ -1,0 +1,376 @@
+# Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores.
+
+- Identificador BOE: `BOE-A-1999-21980`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1999-21980
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+El importante aumento de las transferencias de fondos dinerarios y de valores entre las entidades financieras de la Unión Europea y del resto del mundo que se ha producido en el último decenio ha intensificado la preocupación que siempre han sentido las autoridades supervisoras por asegurar la estabilidad de los sistemas financieros.
+En particular, debe señalarse que los sistemas de pagos y los de liquidación de valores son piezas básicas para asegurar el buen fin de las transacciones que se formalizan a diario en todo tipo de mercados financieros.
+En dichos sistemas se opera habitualmente utilizando la técnica de la compensación de pagos, en cuya virtud una multitud de transacciones, generadoras de derechos y obligaciones, entre los participantes de un sistema, se transforman, al término de un período de tiempo determinado, en un solo derecho o en una sola obligación, según cual sea el saldo positivo o negativo, para cada participante. Es aquí, de manera principal, donde puede originarse el denominado "riesgo sistémico", que consiste en que el incumplimiento de las obligaciones de un participante en un sistema de pagos o de liquidación de valores dé lugar a la imposibilidad de que otros participantes cumplan, a su vez, con sus respectivas obligaciones y, en especial, con las relativas a la liquidación, con arreglo a las normas del sistema, lo que puede incluso ocasionar el hundimiento de un sistema, si no está dotado de los instrumentos necesarios para controlar los riesgos inherentes a su actividad.
+II
+La Comisión de la Unión Europea se hizo también eco del problema y elaboró diversos informes que han servido de fundamento para redactar una norma comunitaria que permitiera ofrecer una solución jurídica armonizada para el conjunto de la Unión Europea, ya que los problemas que se intentan resolver son, cada día más, de carácter transfronterizo.
+La norma ya ha sido aprobada por el Consejo de la Unión Europea. Se trata de la Directiva 98/26/CE, del Parlamento Europeo y del Consejo, de 19 de mayo, sobre la firmeza de la liquidación en los sistemas de pagos y de liquidación de valores.
+El objeto de la presente Ley es incorporar la mencionada Directiva al ordenamiento jurídico español.
+III
+Los objetivos principales de la Directiva, que, por consiguiente, lo son también de la presente Ley, son los siguientes:
+1. Reducir los riesgos jurídicos que lleva aparejada la participación en sistemas de pagos y de liquidación de valores, sobre todo en lo que se refiere a la firmeza de las liquidaciones, la validez legal de los acuerdos de compensación y la exigibilidad jurídica de las garantías aportadas por los participantes para responder de sus obligaciones, así como minimizar las perturbaciones financieras que pudieran ocasionarse por no contar con los instrumentos jurídicos adecuados, sobre todo en los casos de insolvencia.
+2. Garantizar que en el mercado interior puedan efectuarse pagos sin impedimento alguno, contribuyendo así al funcionamiento eficiente y económico de los mecanismos de pagos transfronterizos en la Unión Europea.
+3. Contribuir, mediante la aceptación de garantías constituidas con fines de política monetaria, a la consecución de la mayor estabilidad monetaria y al desarrollo del marco jurídico necesario para que el Sistema Europeo de Bancos Centrales y el Banco Central Europeo puedan llevar a cabo su política monetaria.
+Al mismo tiempo, la Directiva propicia una mayor integración de las entidades de crédito comunitarias en los sistemas de pagos internos de otros Estados de la Unión Europea, favoreciendo, de ese modo, la libertad de movimiento de capitales y la libre prestación de servicios y contribuyendo a la creación de la unión monetaria y a la introducción y desarrollo del euro, mediante la adecuada configuración jurídica de eficientes mecanismos de pagos, entre otros, el denominado TARGET, que ha de servir para canalizar los flujos financieros entre el Sistema Europeo de Bancos Centrales, el Banco Central Europeo y las entidades de crédito, en ejecución de la política monetaria común.
+IV
+La presente Ley se estructura del modo que sigue.
+En el capítulo I se expresa su objeto, que es el de incorporar al ordenamiento jurídico interno la Directiva mencionada, al tiempo que se delimita su ámbito de aplicación, distinguiendo entre sistemas y participantes en los mismos, incluyendo las garantías ofrecidas para asegurar el buen funcionamiento de los mecanismos de pagos y de liquidación de valores, con especial mención a las operaciones de política monetaria que han de realizar el Banco Central Europeo y los Bancos Centrales de los Estados de la Unión Europea.
+Por lo que concierne a los participantes, podrán serlo las entidades de crédito y las empresas de servicios de inversión que sean aceptadas como miembros de un sistema y que sean responsables frente al mismo de asumir obligaciones financieras derivadas de su funcionamiento. También podrán participar en los sistemas el Banco Central Europeo, el Banco de España, los Bancos Centrales de los Estados miembros, las organizaciones financieras internacionales de las que España sea miembro y los gestores y agentes de liquidación de otros sistemas.
+En el capítulo II se establece el régimen de los sistemas españoles y el de sus participantes. Ya que, de conformidad con la Directiva, las autoridades nacionales han de reconocer expresamente a los sistemas a los que ha de aplicarse el régimen especial que se contiene en la Ley, se opta por un doble procedimiento. En primer lugar, se establecen los requisitos que han de cumplir los sistemas que pueden ser reconocidos, entre los que destacan el que dispongan de normas generales de adhesión y funcionamiento aprobadas por la autoridad supervisora que corresponda. Entre dichas normas, son imprescindibles aquellas que determinen el momento en el que se considere aceptada por un sistema una orden de transferencia, así como el establecimiento de los instrumentos de control y de gestión de riesgos adecuados. En segundo lugar, se reconocen como sistemas sujetos a la Ley aquellos que ya existen actualmente en España, por entenderse que cumplen los requisitos que, con carácter general, establece la Ley.
+En el capítulo III se regulan la compensación y las órdenes de transferencia tanto de fondos como de valores. Lo más significativo es que se concede a las órdenes de transferencia y a la compensación que, en su caso, tenga lugar entre ellas, firmeza y validez legal tanto para los participantes como para terceros, siempre que hayan sido aceptadas cumpliendo las normas del sistema. En dicho caso, tales operaciones no admitirán oposición, lo que reducirá, en muy amplia medida, cualquier posibilidad de riesgo sistémico.
+En el capítulo IV se regulan las consecuencias que se derivan de la firmeza de la liquidación por lo que concierne a procedimientos de insolvencia -suspensión de pagos y quiebra- que pudieran incoarse a un participante. Siempre que tales procedimientos se incoen después que las órdenes de transferencia hayan sido recibidas y aceptadas por un sistema, no tendrán efecto alguno sobre dichas órdenes. Por tanto, los bienes que hayan sido objeto de transferencia no podrán ser reclamados, en ningún caso, por los órganos concursales, sin perjuicio de que los que se consideren perjudicados ejerciten las acciones judiciales que consideren oportunas para exigir, en su caso, las indemnizaciones que correspondan o las responsabilidades que procedan.
+Pero ello no podrá afectar a la validez de las operaciones que se hayan realizado en un sistema, cumpliendo las normas del mismo.
+El mismo régimen descrito se aplicará a las garantías que hubiera constituido un participante en favor del sistema o de otros participantes, cuando se le incoara un procedimiento de insolvencia. Los beneficiarios de las garantías, entre ellos, las autoridades monetarias, gozarán de derecho absoluto de separación de los bienes ofrecidos en garantía.
+Todas las excepciones al Derecho concursal que contiene la Ley deben justificarse por el objetivo principal que se persigue, reiteradamente expresado, el establecer los instrumentos jurídicos y técnicos que se consideran imprescindibles para evitar el riesgo sistémico y asegurar la estabilidad del sistema financiero, lo que constituye una prioridad de interés público.
+Por último, en el capítulo V, se crea el Servicio de Pagos Interbancarios, como heredero de la actual Cámara de Compensación Bancaria de Madrid, dotándolo de forma jurídica societaria y de una estructura que habrá de permitir la mayor seguridad y agilidad en su funcionamiento.
+
+## CAPÍTULO I
+
+Objeto y ámbito de aplicación de la Ley
+
+### Artículo 1
+
+Artículo 1. Objeto.
+El objeto de la presente Ley es incorporar al ordenamiento jurídico español las disposiciones de la Directiva 98/26/CE, del Parlamento Europeo y del Consejo, de 19 de mayo, sobre "la firmeza de la liquidación en los sistemas de pagos y de liquidación de valores", regulando la validez y eficacia de las operaciones de compensación y liquidación que se realizan en estos sistemas, y de las garantías que se prestan por los participantes en los mismos, así como las garantías de las operaciones que realizan los Bancos Centrales de los Estados miembros y el Banco Central Europeo, y los efectos de los procedimientos de insolvencia sobre tales operaciones y garantías.
+Es igualmente objeto de la presente Ley la regulación de determinados aspectos del régimen jurídico de los sistemas españoles de pagos y de liquidación de valores, a cuyo efecto se determina cuáles son éstos y se regula la "Sociedad Española de Sistemas de Pago, Sociedad Anónima".
+Se modifica el segundo párrafo, con efectos de 1 de enero de 2005, por la disposición adicional 39.1 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La presente Ley será de aplicación a:
+a) Los sistemas de pagos y de compensación y liquidación de valores (en adelante, sistemas), entendiendo por «valores» los instrumentos financieros a que se refiere el artículo 2 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+b) Las operaciones de política monetaria ejecutadas por los bancos centrales de los Estados miembros o por el Banco Central Europeo en su calidad de bancos centrales, o asociadas con la liquidación de un sistema.
+c) Los participantes en un sistema y los contratantes de las operaciones a que se refiere la letra b).
+A estos efectos, se entenderá por:
+1.º “Participantes”: toda entidad, contraparte central, agente de liquidación, cámara de compensación, operador de un sistema o miembro compensador de una entidad de contrapartida central autorizada de conformidad con el artículo 17 del Reglamento (UE) n.º 648/2012, que sean aceptados como miembros del sistema, de acuerdo con las normas reguladoras del mismo y sean responsables frente a él de asumir obligaciones financieras derivadas de su funcionamiento.
+También podrán ser participantes de un sistema el Banco Central Europeo, el Banco de España y los demás Bancos Centrales de los Estados miembros de la Unión Europea, así como las organizaciones financieras internacionales de las que España sea miembro.
+Tendrá la condición de participante indirecto aquella entidad, contraparte central, agente de liquidación, cámara de compensación o gestor de sistema que tenga una relación contractual con un participante en virtud de la cual el primero pueda cursar órdenes de transferencia a través del sistema, siempre y cuando el gestor del sistema conozca al participante indirecto. La existencia de un participante indirecto no limitará la responsabilidad del participante a través del cual aquel transmite las órdenes de transferencia al sistema.
+2.º “Entidad”: las entidades de crédito y las empresas de inversión referidas en el artículo 2 (b) de la Directiva 98/26/CE autorizadas para operar en el Espacio Económico Europeo, el Tesoro Público y los órganos equivalentes de las Comunidades Autónomas, y los entes pertenecientes al sector público enumerados en el artículo 3 del Reglamento (CE) núm. 3603/93, de 13 de diciembre, por el que se establecen definiciones para la aplicación de las prohibiciones a que se refieren el artículo 104 y el apartado 1 del artículo 104 B del Tratado, así como cualquier empresa cuya administración principal se encuentre fuera de la Unión Europea y cuyas funciones correspondan a las de las entidades de crédito o empresas de inversión de la Unión Europea.
+3.º “Gestor de un sistema”: la entidad o entidades legalmente responsables de la explotación del mismo. El gestor de un sistema podrá actuar asimismo en calidad de agente de liquidación, contraparte central o cámara de compensación, según resultan estos definidos a continuación.
+4.º “Agente de liquidación”: un Banco Central u otro organismo o entidad que facilite a los participantes en el sistema cuentas en las que se liquiden las órdenes de transferencia aceptadas por dicho sistema o que se utilicen por el mismo para el depósito de fondos de valores y que, en su caso, conceda crédito a tales entidades o contrapartes centrales a efectos de la liquidación.
+5.º “Entidad de contrapartida central o contraparte central”: Una entidad de contrapartida central tal como se define en el artículo 2.1, del Reglamento (UE) n.º 648/2012.
+6.º “Cámara de compensación”: una organización encargada de calcular las posiciones netas de los participantes en un sistema.
+d) Las garantías que se constituyan en el marco de un sistema y de las operaciones mencionadas en la letra b).
+A estos efectos, se entenderá como garantía todo activo realizable, incluido el dinero, que haya sido objeto de depósito, prenda, fianza o derecho de retención, las garantías financieras a que se refiere el artículo 7 del Real Decreto-ley 5/2005, de 11 de marzo, las compraventas con pacto de recompra, o cualquier otro negocio jurídico que tenga por finalidad garantizar los derechos y obligaciones que puedan surgir en relación con un sistema, o aportados a los bancos centrales de los Estados miembros o al Banco Central Europeo.
+Se modifica la letra d) por el art. 4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ac
+ Se modifica por el art. 1.1 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+ Se modifica el segundo párrafo de la letra c) por la disposición final 7.1 de la Ley 16/2009, de 13 de noviembre. Ref. BOE-A-2009-18118
+
+## CAPÍTULO II
+
+Régimen de los sistemas españoles
+
+### Artículo 3
+
+Artículo 3. Requisitos.
+Podrán reconocerse como sistemas españoles, a los efectos de la presente Ley, los procedimientos o acuerdos sujetos al Derecho español que cumplan los siguientes requisitos:
+a) Que tengan como objeto la ejecución y, en su caso, la compensación de órdenes de transferencia de fondos o de valores. El hecho de que un sistema ejecute también órdenes de transferencia sobre otro tipo de activos o instrumentos financieros, no impedirá su reconocimiento en los términos previstos en la presente Ley.
+b) Que cuenten con la participación de, al menos, tres entidades que sean entidades de crédito o empresas de servicios de inversión, tal y como se definen, respectivamente, en el apartado 1 del artículo 4 de la Directiva 2006/48/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, relativa al acceso a la actividad de las entidades de crédito y a su ejercicio, incluidas las entidades enumeradas en el artículo 2 de dicha Directiva, y en el epígrafe 1) del apartado 1 del artículo 4 de la Directiva 2004/39/CE del Parlamento Europeo y del Consejo, de 21 de abril de 2004, relativa a los mercados de instrumentos financieros, con exclusión de las entidades que figuran en el apartado 1 del artículo 2 de dicha Directiva, así como del gestor del sistema, un posible agente de liquidación, una posible contraparte central, una posible cámara de compensación o un posible participante indirecto, y siempre que sean entidades españolas o autorizadas para operar en España, y, además, al menos, una de ellas tenga en España su administración central
+c) Que dispongan de normas generales de adhesión y funcionamiento aprobadas por el Banco de España, por la Comisión Nacional del Mercado de Valores o por el órgano competente de la Comunidad Autónoma, en los casos de servicios de compensación y liquidación de valores creados en mercados secundarios oficiales de ámbito autonómico o en mercados o sistemas de negociación del mismo ámbito que no tengan el carácter de oficiales, siempre en estos últimos casos previo informe del Banco de España o de la Comisión Nacional del Mercado de Valores.
+Dichas normas establecerán que no podrá aceptarse ninguna orden de transferencia de un participante al que haya sido incoado un procedimiento de insolvencia, una vez que dicha incoación haya sido conocida por el sistema, y deberán determinar, en particular, el momento en que se consideren aceptadas las órdenes de transferencia cursadas al sistema y los medios de que disponga el sistema para el control y la cobertura de los riesgos de liquidación derivados de las órdenes aceptadas por el mismo, medios entre los que podrá incluirse la facultad de su gestor o agente de liquidación para comprobar si las órdenes cursadas al sistema se ajustan a las normas del mismo y permiten que se produzca su liquidación.
+A efectos de la presente Ley, dichas normas tendrán eficacia una vez que sean publicadas en el "Boletín Oficial del Estado" y, además, en su caso, en el "Diario Oficial" autonómico correspondiente.
+d) Que liquiden las órdenes de transferencia de fondos en una cuenta de efectivo abierta en el Banco de España, Banco Central Europeo u otro Banco Central de un Estado miembro de la Unión Europea cuyo sistema esté conectado al del Banco de España en el marco del Sistema Europeo de Bancos Centrales.
+No obstante, cuando no sea posible o no estén disponibles los recursos para efectuar la liquidación por medio de cuentas en un banco central de los señalados en este apartado, el gestor del sistema podrá ofrecer liquidar los pagos de efectivo a través de cuentas abiertas en una entidad de crédito o, en el caso de los depositarios centrales de valores, también a través de sus propias cuentas, de conformidad con lo previsto en la normativa que regula su concesión de autorización y prestación de servicios, cuando dicha norma prevea su designación conforme a la presente ley.
+e) Que estén gestionados por el Banco de España o por una entidad sujeta a su supervisión, a la de la Comisión Nacional del Mercado de Valores o a la del órgano que sea competente de la Comunidad Autónoma en los servicios de compensación y liquidación de valores creados en mercados secundarios oficiales de ámbito autonómico o en mercados o sistemas de negociación del mismo ámbito que no tengan el carácter de oficiales.
+A los efectos de la presente Ley, se consideran sistemas interoperables dos o más sistemas cuyos gestores hayan celebrado entre sí un acuerdo que entrañe la ejecución entre sistemas de las órdenes de transferencia.
+Los acuerdos celebrados entre sistemas interoperables no constituirán un sistema.
+Se modifica la letra d) por la disposición final 2.1 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-2
+ Se modifica la letra d) por la disposición final 1.1 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#df
+ Se modifica la letra b) y se añaden dos nuevos párrafos por el art. 1.2 y 3 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+ Se modifica la letra d), con efectos de 1 de enero de 2008, por la disposición final 11.1 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+
+### Artículo 4
+
+Artículo 4. Reconocimiento.
+A los efectos de esta Ley, el reconocimiento de un sistema deberá ser declarado mediante resolución adoptada por el Gobierno, a petición de las entidades que participen en el mismo o mediante solicitud motivada del Banco de España, de la Comisión Nacional del Mercado de Valores o del órgano supervisor correspondiente de ámbito autonómico.
+La resolución del Gobierno, que se adoptará a propuesta del Ministerio de Economía y Hacienda, y que contará, en todo caso, con informe previo del Banco de España, de la Comisión Nacional del Mercado de Valores y, en su caso, del órgano supervisor correspondiente de ámbito autonómico, indicará, en particular en el caso de que no haya sido adoptada a petición de las entidades participantes en el correspondiente sistema, las razones que, atendiendo a la conveniencia de reforzar la estabilidad del sistema financiero y de pagos, motiven su reconocimiento y sujeción a las disposiciones de la presente Ley. La resolución que adopte el Gobierno se publicará en el "Boletín Oficial del Estado".
+
+### Artículo 5
+
+Artículo 5. Régimen de disciplina.
+Los sistemas reconocidos de conformidad con el artículo 4 quedarán sujetos, según sea el Banco de España o la Comisión Nacional del Mercado de Valores la autoridad responsable de la supervisión de su organismo gestor, al régimen de intervención y sancionador establecido en la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, o al establecido en la Ley 24/1988, de 28 de julio, del Mercado de Valores, sin perjuicio de las competencias de supervisión, inspección y sanción que correspondan a las Comunidades Autónomas en relación con los sistemas de compensación y liquidación de valores creados en mercados secundarios oficiales de ámbito autonómico o en mercados o sistemas de negociación del mismo ámbito que no tengan dicha condición.
+Se modifica por el art. 1.4 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 6
+
+Artículo 6. Notificaciones.
+El Banco de España y la Comisión Nacional del Mercado de Valores notificarán a la Autoridad Europea de Valores y Mercados los sistemas reconocidos en virtud de la presente Ley que estén gestionados por ellos o por entidades sujetas a su supervisión o vigilancia, y serán los organismos encargados de recibir o enviar las comunicaciones a que se refiere el artículo 6.2 y 3 de la Directiva 98/26/CE del Parlamento Europeo y del Consejo, de 19 de mayo de 1998, sobre la firmeza de la liquidación en los sistemas de pagos y de liquidación de valores. Asimismo, proporcionarán sin demora a la Autoridad Europea de Valores y Mercados, previa solicitud de ésta, toda la información necesaria para el desempeño de sus funciones conforme a lo dispuesto en el artículo 35 del Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión n.º 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión.
+Los órganos supervisores de sistemas de compensación y liquidación de valores de ámbito autonómico realizarán o recibirán las mencionadas notificaciones a través de la Comisión Nacional del Mercado de Valores.
+Se modifica el primer párrafo por la disposición final 4 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfcuaa.
+ Se modifica el primer párrafo por el art. 5.1 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
+
+### Artículo 7
+
+Artículo 7. Obligaciones de información.
+Las entidades de crédito y las empresas de servicios de inversión españolas informarán a la autoridad competente para su supervisión, en los términos que ésta establezca, de su participación en sistemas extranjeros.
+El Banco de España, la Comisión Nacional del Mercado de Valores o los órganos supervisores de ámbito autonómico, según proceda, publicarán en el "Boletín Oficial del Estado" y, además, en su caso, en el "Diario Oficial" autonómico correspondiente, la relación de entidades participantes en los sistemas españoles, así como cualquier alta o baja en dicha relación.
+Los participantes estarán obligados a informar sobre los sistemas españoles y extranjeros en los que participan y sobre las normas fundamentales por las que se rijan a quienes tengan un interés legítimo para solicitar la información.
+
+### Artículo 8
+
+Artículo 8. Sistemas españoles reconocidos por esta ley.
+A efectos de lo dispuesto en la presenta ley, y sin perjuicio de que puedan reconocerse nuevos sistemas en el futuro de conformidad con el artículo 4, se consideran y reconocen como sistemas españoles de pagos y de compensación y liquidación de valores y productos financieros derivados los siguientes;
+1. El Sistema Nacional de Compensación Electrónica, gestionado por la Sociedad Española de Sistemas de pago, Sociedad Anónima, de conformidad con lo dispuesto en el artículo 17 de la presente ley.
+2. El sistema de liquidación de valores ARCO, gestionado por la Sociedad de Gestión de los Sistemas de Registro, Compensación y Liquidación de Valores, S.A. Unipersonal.
+3. La entidad de contrapartida central BME Clearing S.A.U.
+4. TARGET Banco de España (abreviado TARGET BE), sistemas de pagos gestionado por el Banco de España y componente español del sistema de grandes pagos denominados en euros «TARGET», gestionado por el Sistema Europeo de Bancos Centrales, incluidas sus conexiones con los demás componentes nacionales de TARGET.
+Se modifica el apartado 4 por la disposición final 2.2 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-2
+ Se modifica por la disposición final 1 del Real Decreto-ley 19/2018, de 23 de noviembre. Ref. BOE-A-2018-16036#df
+ Se modifica la letra g) por la disposición final 4 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
+ Se modifican las letras f) y g) y se suprime la h) por la disposición final 12 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+ Se suprime la letra a) y se reordenan el resto de letras por la disposición final 7.2 de la Ley 16/2009, de 13 de noviembre. Ref. BOE-A-2009-18118
+ Se añade la letra j), con efectos de 1 de enero de 2008, por la disposición final 11.2 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+ Se modifica la letra b), con efectos de 1 de enero de 2005, por la disposición adicional 39.2 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+ Se modifican las letras c) y g) por el art. 1.6 de la Ley 44/2002, de 22 de noviembre. Ref. BOE-A-2002-22807
+
+## CAPÍTULO III
+
+Firmeza de las liquidaciones
+
+### Artículo 9
+
+Artículo 9. Compensación.
+A los efectos de esta Ley, se entenderá por compensación la sustitución, de conformidad con las normas de funcionamiento de un sistema, de los derechos y obligaciones derivados de las órdenes de transferencia aceptadas por el mismo, por un único crédito o por una única obligación, de modo que sólo sea exigible dicho crédito u obligación netos.
+
+### Artículo 10
+
+Artículo 10. Órdenes de transferencia.
+A los efectos de esta Ley, tendrá la consideración de orden de transferencia:
+a) toda instrucción de un participante para poner una cantidad de dinero a disposición de un destinatario cursada mediante un asiento en las cuentas de una entidad de crédito, un banco central, una contraparte central o un agente de liquidación, o toda instrucción cuyo resultado sea la asunción o cancelación de una obligación de pago tal como se defina en las normas del sistema; o,
+b) una instrucción de un participante para que se transmita la propiedad o cualquier otro derecho correspondiente a uno o varios valores mediante una anotación en un registro o de otra forma que acredite la transmisión, entendiendo por valores los instrumentos financieros a que se refiere el artículo 2 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+Se modifica por el art. 1.5 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 11
+
+Artículo 11. Firmeza de las órdenes de transferencia.
+1. Las órdenes de transferencia cursadas a un sistema por sus participantes, una vez recibidas y aceptadas de acuerdo con las normas de funcionamiento del sistema, la compensación que, en su caso, tenga lugar entre ellas, las obligaciones resultantes de dicha compensación, y las que tengan por objeto liquidar cualesquiera otros compromisos previstos por el sistema para asegurar el buen fin de las órdenes de transferencia aceptadas o de la compensación realizada, serán firmes, vinculantes y legalmente exigibles para el participante obligado a su cumplimiento y oponibles frente a terceros, no pudiendo ser impugnadas o anuladas por ninguna causa.
+Las órdenes de transferencia cursadas a un sistema por sus participantes no podrán ser revocadas por los participantes o por terceros a partir del momento determinado por las normas de funcionamiento del sistema.
+Cada sistema determinará en sus propias normas los momentos de irrevocabilidad y firmeza de las órdenes de transferencia, y en el caso de los sistemas interoperables, las normas de cada uno de ellos garantizarán, en la medida de lo posible, la coordinación con las normas de los otros sistemas afectados en cuanto a la determinación de tales momentos. No obstante, salvo que así lo establezcan expresamente las normas de todos los sistemas interoperables entre sí, las normas de cada uno de ellos relativas a los momentos de irrevocabilidad y firmeza no se verán afectadas por las de los demás.
+2. Lo dispuesto en el apartado anterior:
+a) Se entiende sin perjuicio de las acciones que puedan asistir a los órganos concursales o a cualquier acreedor para exigir, en su caso, las indemnizaciones que correspondan, o las responsabilidades que procedan, por una actuación contraria a derecho o por cualquier otra causa, de quienes hubieran realizado dicha actuación o de los que indebidamente hubieran resultado beneficiarios de las operaciones realizadas.
+b) No implica obligación alguna para el gestor o agente de liquidación de garantizar o suplir la falta de efectivo o de valores de un participante, a efectos de llevar a cabo la liquidación de una orden o una compensación, ni la obligación de emplear a tal fin medios distintos de los previstos en las normas de funcionamiento del sistema.
+Se suprime el apartado 3 por la disposición final 1.2 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#df
+ Se modifica por el art. 1.1 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#ap
+ Se modifica el apartado 1 por el art. 1.6 y 7 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+ Se añade el apartado 3, con efectos de 1 de enero de 2008, por la disposición final 11.3 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295
+
+## CAPÍTULO IV
+
+Efectos de los procedimientos de insolvencia
+
+### Artículo 12
+
+Artículo 12. Procedimiento de insolvencia.
+A los efectos de esta Ley, se considera procedimiento de insolvencia el concurso, así como cualquier medida de carácter universal, prevista por la legislación española o de otro Estado, para la liquidación de una entidad o para su reorganización, que pretenda tener por efecto la suspensión de las órdenes de transferencia, o de los pagos que pueda o deba realizar el participante, o la imposición de limitaciones sobre los mismos.
+Se modifica por el art. 1.8 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 13
+
+Artículo 13. Efectos sobre las órdenes de transferencia y las compensaciones.
+Además de lo dispuesto en el artículo 11 precedente, la incoación de un procedimiento de insolvencia de un participante en un sistema, incluso interoperable, o de un gestor de un sistema, no producirá efecto sobre los derechos y las obligaciones de dicho participante o de dicho gestor:
+a) Que deriven de las órdenes de transferencia recibidas y aceptadas por el sistema con anterioridad al momento en que la citada incoación haya sido comunicada al sistema o que, excepcionalmente, hubieran sido cursadas después de la incoación del procedimiento de insolvencia y se compensen o liquiden en el mismo día hábil, siempre que los gestores del sistema o de un sistema interoperable que no sea participante puedan probar que, en el momento en que dichas órdenes pasaron a ser irrevocables, no han tenido conocimiento ni debieran haberlo tenido de la incoación de dicho procedimiento.
+b) Que resulten de la compensación que, en su caso, se lleve a cabo entre dichas órdenes el mismo día hábil en que haya sido recibida la comunicación.
+c) Que tengan por objeto liquidar en dicho día hábil cualesquiera otros compromisos previstos por el sistema para asegurar el buen fin de las órdenes de transferencia aceptadas o de la compensación realizada.
+Estas obligaciones se liquidarán, de acuerdo con las normas del sistema, con cargo a los fondos o valores disponibles en la cuenta de liquidación de dicho participante para cumplir las obligaciones de éste en el sistema, incluso interoperable, así como con cargo a las garantías y demás activos y compromisos establecidos a estos efectos por él mismo.
+A los efectos previstos en este artículo, los días hábiles quedarán delimitados para cada sistema por sus propias normas, debiendo abarcar las liquidaciones efectuadas tanto en período diurno como en período nocturno, así como todos los acontecimientos que sucedan durante el ciclo de actividad de cada sistema.
+Se modifica por el art. 1.9 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 14
+
+Artículo 14. Efectos sobre las garantías.
+1. Los derechos de un gestor de sistema o de un participante respecto de las garantías constituidas a su favor en un sistema o en cualquier sistema interoperable no se verán afectados, gozando de un derecho absoluto de separación, por los procedimientos de insolvencia incoados contra:
+a) El participante en el sistema de que se trate o en un sistema interoperable,
+b) un gestor de sistema de un sistema interoperable que no sea un participante,
+c) una contraparte de los bancos centrales de los Estados miembros o del Banco Central Europeo, o
+d) cualquier tercero que haya constituido las garantías.
+Dichas garantías podrán ejecutarse para satisfacer los derechos citados.
+Si un gestor de sistema hubiera constituido una garantía a favor de otro gestor de sistema en relación con un sistema interoperable, sus derechos respecto de las garantías por él constituidas no se verán afectados por los procedimientos de insolvencia incoados contra el operador de sistema que las haya recibido, gozando de un derecho absoluto de separación.
+2. Dicho derecho de separación asistirá igualmente al Banco de España respecto de las garantías constituidas a su favor por toda entidad que sea su contraparte o su garante en operaciones de política monetaria, o asociadas con la liquidación de los sistemas, incluso interoperables.
+3. Los derechos de separación mencionados en los párrafos anteriores beneficiarán igualmente, en relación a las garantías constituidas a su favor en España en el marco de las operaciones análogas que lleven a cabo, al Banco Central Europeo, a cualquier otro Banco Central de un Estado miembro de la Unión Europea, y a los entes gestores o agentes de liquidación de los sistemas existentes en la Unión Europea que sean comunicados de conformidad con lo previsto en el artículo 6 precedente y en el artículo 10 de la Directiva 98/26/CE.
+4. En particular, ni la constitución o aceptación de las garantías a que se refieren los párrafos anteriores, ni el saldo de las cuentas o registros en que se materialicen, serán impugnables por las causas de reintegración previstas en la Ley 22/2003, de 9 de julio, Concursal. Las garantías tampoco estarán sujetas a reivindicación en los términos previstos en el artículo 324 del Código de Comercio para los valores pignorados.
+5. El efectivo y los valores en que se materialicen las garantías podrán aplicarse a la liquidación de las obligaciones garantizadas, incluso en caso de incoación de un procedimiento de insolvencia, pudiendo los entes gestores o agentes de liquidación del sistema y los Bancos Centrales seguir, en el caso de los valores, el procedimiento de enajenación previsto en el artículo 322 del Código de Comercio.
+Para la enajenación de los valores bastará la entrega al organismo rector del correspondiente mercado secundario del documento público o privado de constitución de la garantía, junto con la certificación expedida por el Banco Central, o por el ente gestor o el agente de liquidación del sistema, acreditativa de la cuantía de los importes vencidos, líquidos y exigibles que se ejecutan, acompañados de los propios valores, o del certificado acreditativo de su inscripción en el registro que proceda.
+La fecha de constitución de la garantía que obre en los libros o registro del sistema o del Banco Central, así como el saldo y fecha que figuren en la certificación antes mencionada, harán prueba frente a la propia entidad y a terceros.
+6. Sin perjuicio de lo establecido en los apartados anteriores, el sobrante que resulte de la liquidación de las obligaciones correspondientes con cargo a las citadas garantías se incorporará a la masa patrimonial del participante sujeto al procedimiento de insolvencia.
+Se añade un párrafo al apartado 1 por el art. 1.2 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#ap
+ Se modifican los apartados 1, 2 y 4 por el art. 1.10 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 15
+
+Artículo 15. Órdenes de transferencia realizadas y garantías constituidas en otros Estados miembros de la Unión Europea.
+1. En caso de incoación de un procedimiento de insolvencia de una entidad española participante en un sistema reconocido en otro Estado miembro de la Unión Europea, con arreglo a la Directiva 98/26/CE, los derechos y obligaciones, derivados de su participación en el mismo, vendrán determinados por la legislación nacional aplicable a dicho sistema.
+2. La legislación española será aplicable, en cuanto a sus efectos jurídicos reales, a las garantías legalmente inscritas en un registro con sede en España en favor de un sistema español o extranjero, de sus participantes, su gestor o del Banco de España, del Banco Central Europeo o de otros Bancos Centrales de los Estados miembros de la Unión Europea, vinculadas a sus operaciones de política monetaria o asociadas a la liquidación de aquellos sistemas.
+Las garantías legalmente constituidas e inscritas en un registro con sede en otro Estado miembro en favor de un sistema español, de sus participantes, su gestor o del Banco de España vinculadas a operaciones de política monetaria o asociadas con la liquidación de los sistemas, se regirán por la legislación del correspondiente Estado miembro, por lo que concierne a sus efectos jurídicos reales.
+3. Lo establecido en los apartados precedentes regirá incluso en relación con las garantías constituidas con valores emitidos con arreglo a la ley española, siempre y cuando unas y otros se inscriban legalmente en un registro con sede en otro Estado miembro, si bien, en este caso, cuando se trate de valores representados por medio de anotaciones en cuenta, el Ministerio de Economía y Hacienda, a propuesta de las autoridades de supervisión de las entidades gestoras de los sistemas españoles, establecerá procedimientos adecuados de enlace y conciliación que aseguren la adecuada correspondencia entre las anotaciones de dichos registros extranjeros y las del correspondiente registro español de dichos valores y la eficacia jurídica de las garantías constituidas sobre los mismos.
+Se modifica el apartado 2 por el art. 1.12 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+### Artículo 16
+
+Artículo 16. Fijación y notificación del momento de incoación de un procedimiento de insolvencia.
+1. A efectos de lo dispuesto en la presente Ley, se entenderá incoado un procedimiento de insolvencia a un participante en un sistema cuando:
+a) Con arreglo a la legislación española, se dicte auto de declaración del concurso, o
+b) Se adopte, por una autoridad judicial o administrativa, una medida de carácter universal, prevista por la legislación española o de otro Estado, para la liquidación de una entidad o para su reorganización, que pretenda tener por efecto la suspensión de las órdenes de transferencia, o de los pagos que pueda o deba realizar el participante, o la imposición de limitaciones sobre los mismos.
+2. Todo Juzgado que reciba la solicitud de incoar un procedimiento de insolvencia de una entidad de crédito o de una empresa de servicios de inversión deberá comunicarlo inmediatamente y, como máximo, dentro del día hábil siguiente al de la presentación de la solicitud, al Banco de España y a la Comisión Nacional del Mercado de Valores, solicitando en el mismo escrito de comunicación la relación de los sistemas a los que pertenezca la entidad afectada y la denominación y domicilio de su gestor. Dichos organismos deberán remitir la información solicitada dentro del día hábil siguiente, indicando al Juzgado, además, los datos necesarios para asegurar que las sucesivas comunicaciones a remitir por el Juzgado, de acuerdo con lo previsto en el apartado siguiente, lleguen al conocimiento del respectivo supervisor y de los respectivos gestores a la mayor urgencia.
+3. Todo Juzgado o Tribunal que incoe un procedimiento de insolvencia de una entidad de crédito o de una empresa de servicios de inversión participantes en un sistema, deberá, simultáneamente a la adopción de su decisión, comunicar su contenido literal al supervisor y al gestor de los sistemas a los que pertenezca la entidad afectada. El gestor informará de manera inmediata sobre dicha situación a los participantes del sistema.
+Dicha comunicación se remitirá por el Banco de España o por la Comisión Nacional del Mercado de Valores, según proceda, con carácter inmediato a la Junta Europea de Riesgo Sistémico, a los demás Estados miembros y a la Autoridad Europea de Valores y Mercados.
+Del mismo modo, el Banco de España y la Comisión Nacional del Mercado de Valores pondrán en conocimiento de los gestores de los respectivos sistemas españoles, las comunicaciones de análoga naturaleza que reciban de otro Estado miembro de la Unión Europea o de un tercer país.
+Los órganos supervisores de sistemas de compensación y liquidación de valores de ámbito autonómico realizarán o recibirán las mencionadas comunicaciones a través de la Comisión Nacional del Mercado de Valores.
+4. La comunicación al sistema correspondiente de los procedimientos de insolvencia incoados en relación a un participante se entenderá realizada cuando el gestor del sistema reciba la comunicación a que se refiere el apartado 3 precedente o, en el caso de que se trate de un participante sujeto al Derecho de un Estado no miembro de la Unión Europea, en el momento en que el gestor del sistema conozca de su existencia por comunicación del propio participante afectado, o por cualquier otro medio que asegure su efectiva existencia y alcance.
+Se modifica el párrafo segundo del apartado 3 por el art. 5.2 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
+ Se modifica el apartado 1 a) por el art. 1.13 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.
+
+## CAPÍTULO V
+
+La ''Sociedad Española de Sistemas de Pago, Sociedad Anónima''
+Se modifica, con efectos de 1 de enero de 2005, por la disposición adicional 39.3 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 17
+
+Artículo 17. Naturaleza, funciones y supervisión.
+1. La gestión del Sistema Nacional de Compensación Electrónica será asumida por una sociedad anónima que girará bajo la denominación social de «Sociedad Española de Sistemas de Pago, Sociedad Anónima».
+Dicha sociedad actuará bajo el principio de equilibrio financiero y tendrá por objeto exclusivo:
+a) Facilitar el intercambio, compensación y liquidación de órdenes de transferencia de fondos entre participantes, según se definen en la letra c) del artículo 2 de la presente Ley, cualesquiera que sean los tipos de documentos, instrumentos de pago o transmisión de fondos que motiven las citadas órdenes de transferencia.
+b) Facilitar la distribución, recogida y tratamiento de medios de pago a las entidades de crédito.
+c) Prestar servicios técnicos y operativos complementarios o accesorios de las actividades citadas en las letras a) y b) anteriores, así como cualesquiera otros requeridos para que la Sociedad colabore y coordine sus actividades en el ámbito de los sistemas de pago.
+d) Las demás que le encomiende el Gobierno, previo informe del Banco de España.
+La Sociedad podrá participar en los restantes sistemas que regula la presente Ley, sin que pueda asumir riesgos ajenos a los derivados de la actividad que constituye su objeto exclusivo. Por el Ministro de Economía y Hacienda, previo informe del Banco de España, se establecerán aquellas actividades de intermediación financiera que la sociedad puede realizar y que resulten necesarias para el desarrollo de sus funciones.
+En el marco de su objeto social, la sociedad podrá establecer con otros organismos o entidades que desarrollen funciones análogas, dentro o fuera del territorio nacional, las relaciones que estime convenientes para el mejor desarrollo de las funciones que le competen, y asumir la gestión de otros sistemas, o servicios de finalidad análoga, distintos del citado Sistema Nacional de Compensación Electrónica.
+2. La sociedad establecerá las normas básicas de funcionamiento de los sistemas que gestione, incluyendo el régimen de adhesión a los mismos, las condiciones que regulen las órdenes cursadas a dichos sistemas y el momento en que éstas se entenderán aceptadas, así como los procedimientos de compensación de las mismas y los medios de cobertura de las obligaciones que asuman los participantes. El Banco de España, atendiendo a los riesgos que entrañe en el procesamiento y liquidación de los pagos, podrá fijar límites a la cuantía de las órdenes de transferencia de fondos que puedan ser cursadas a través de un determinado sistema, estableciendo, en su caso, los cauces adecuados para las mismas. La sociedad podrá aceptar, administrar y ejecutar las garantías a constituir, en su caso, en los sistemas que gestione, llevar los registros de las operaciones y garantías y, en general, realizar cuantos actos de disposición y administración resulten necesarios o adecuados para su mejor funcionamiento.
+3. La supervisión de la sociedad será ejercida por el Banco de España, a quien corresponderá autorizar, con carácter previo a su adopción por los órganos correspondientes de la sociedad, los estatutos sociales y sus modificaciones, así como las normas básicas de funcionamiento de los sistemas y servicios que gestione. En el caso de las normas básicas relativas a los servicios complementarios o accesorios a que se refiere la letra c del apartado 1, y de las restantes instrucciones que regulen la operativa de los sistemas y servicios gestionados por la Sociedad, ésta deberá comunicarlas al Banco de España a la mayor brevedad posible tras su adopción, pudiendo entrar en vigor una vez transcurrido el plazo a determinar por el Banco de España, sin haber mostrado su oposición.
+4. Será de aplicación a la sociedad el régimen sancionador establecido en la Ley 26/1988, de 28 de julio, de Disciplina e Intervención de las Entidades de Crédito, con las especificaciones que legalmente se determinen. Asimismo se aplicará a la sociedad el régimen de intervención establecido en la citada Ley.
+Se modifican los apartados 1 a 3 por la disposición final 7.3 de la Ley 16/2009, de 13 de noviembre. Ref. BOE-A-2009-18118
+ Se modifica, con efectos de 1 de enero de 2005, por la disposición adicional 39.3 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Artículo 18
+
+Artículo 18. Régimen jurídico.
+1. Las acciones de la "Sociedad Española de Sistemas de Pago, Sociedad Anónima", serán nominativas y deberán estar íntegramente desembolsadas. Podrán ser accionistas aquellas entidades participantes en los sistemas de compensación y liquidación gestionados por la Sociedad que asuman frente a los mismos las obligaciones relativas a la liquidación. La distribución del capital entre dichas entidades se realizará en función de su nivel de actividad y será revisada periódicamente. El Ministrode Economía y Hacienda, a propuesta del Banco de España, podrá extender la condición de accionista a aquellas entidades participantes que no sean miembros liquidadores, si existiesen razones de funcionamiento que lo aconsejasen.
+2. Para la ampliación o reducción del capital de la sociedad, cuando estén motivadas por altas o bajas en los accionistas, bastará con el acuerdo del Consejo de Administración, sin que sea de aplicación lo dispuesto en los artículos 158, 166 y 169.1, segundo párrafo, de la Ley de Sociedades Anónimas.
+3. Los miembros del Consejo de Administración de la sociedad, y sus directores generales o asimilados, deberán reunir las condiciones de honorabilidad y profesionalidad exigibles a los administradores de los bancos privados. El ejercicio de dichos cargos será compatible con el desempeño de cargos análogos, o de cualquier otra actividad o servicio, en cualquier tipo de entidad de crédito; dichos cargos no computarán en las limitaciones que, respecto al número máximo de consejos o cargos directivos en sociedades, rigen para los consejeros y altos directivos de las entidades de crédito españolas.
+4. La sociedad estará sujeta a auditoría de sus estados contables, en los términos previstos por la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, y sus normas de desarrollo.
+Se modifica, con efectos de 1 de enero de 2005, por la disposición adicional 39.3 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+En el momento de su constitución, que deberá producirse en el plazo máximo de un año, contado desde la entrada en vigor de la presente Ley, "Servicio de Pagos Interbancarios, Sociedad Anónima", asumirá la totalidad de los derechos y obligaciones de los que sea titular la Cámara de Compensación Bancaria de Madrid. La Cámara adoptará las medidas que resulten necesarias para dar efectividad a la disposición precedente.
+Las entidades de crédito que, a la fecha de entrada en vigor de la presente Ley, sean miembros de la Cámara de Compensación Bancaria de Madrid podrán ser accionistas de "Servicio de Pagos Interbancarios, Sociedad Anónima".
+El Banco de España publicará en el "Boletín Oficial del Estado" la fecha de la entrada en funcionamiento del mencionado Servicio.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La presente Ley se adopta al amparo del artículo 149, apartado 1.6.a y 11.a, de la Constitución.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+(Derogada)
+Se deroga por la disposición derogatoria única.c) del Real Decreto Legislativo 4/2015, de 23 de octubre. Ref. BOE-A-2015-11435#ddunica.
+ Se deroga en lo que se refiere al plazo para resolver y notificar la resolución en los procedimientos sancionadores derivados de la comisión de las infracciones previstas en la Ley 19/1988, de 12 de junio, de Auditoría de Cuentas, por la disposición derogatoria única.7 del Real Decreto Legislativo 1/2011, de 1 de julio. Ref. BOE-A-2011-11345.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 19/2003, de 4 de julio. Ref. BOE-A-2003-13471
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+1. Se modifica la redacción del tercer apartado del artículo 10 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, que pasará a tener el siguiente tenor:
+"3. Los valores y otros activos que integren la cartera no podrán pignorarse ni constituir garantía de ninguna clase, salvo para servir de garantía de las operaciones que la institución realice en los mercados secundarios oficiales de derivados. En su caso, los valores y activos que integren la cartera deberán estar depositados bajo la custodia de los depositarios regulados en la presente Ley. No obstante, podrán ser objeto de operaciones de préstamo bursátil con las cautelas que se establezcan reglamentariamente."
+2. Se modifica la redacción del artículo 25 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva, que pasará a tener el siguiente tenor:
+"Artículo 25. Inversión del patrimonio.
+El patrimonio de estos fondos estará invertido en valores de renta fija e instrumentos financieros de elevada liquidez, conforme a los requisitos que se precisan reglamentariamente.
+No podrán formar parte de estos fondos acciones, obligaciones convertibles ni, en general, cualquier derecho a participar en el capital de sociedades.
+Tampoco podrán formar parte del patrimonio de estos fondos activos con un plazo remanente de amortización o reembolso superior al que se determine reglamentariamente, salvo que se trate de valores de renta fija cuya rentabilidad se determine, con una periodicidad no superior a un año, por referencia a un índice de tipos de interés a corto plazo, y siempre que la inversión en estos valores no supere el 25 por 100 del activo de la institución."
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Declaración del 31 de diciembre de 1999 como inhábil a efectos de liquidación de obligaciones en los sistemas de pagos interbancarios.
+1. En relación con las operaciones que deban liquidarse a través de los sistemas a que se refiere el artículo 8 de la presente Ley, el día 31 de diciembre de 1999 será considerado inhábil a todos los efectos.
+2. La consideración de la citada fecha como día inhábil alcanzará, asimismo:
+a) A los documentos, medios de pago y transmisiones de fondos presentados a compensación a través del Sistema Nacional de Compensación Electrónica, regulado por Real Decreto 1369/1987, de 18 de septiembre, incluso a los efectos de práctica del protesto notarial o declaración equivalente.
+b) A cualquier otra operación de liquidación a realizar sobre cuentas corrientes abiertas en el Banco de España.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+Se modifica la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, incorporando un punto 6 a su actual redacción:
+"6. Las resoluciones del Ministro de Economía y Hacienda que resuelvan recursos de alzada contra actos o disposiciones dictados por el Instituto de Contabilidad y Auditoría de Cuentas, directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional."
+
+### Disposición adicional octava
+
+Disposición adicional octava. Firmeza de las órdenes de transferencia cursadas al Sistema Nacional de Compensación Electrónica.
+A efectos de lo dispuesto en los artículos 11.1 y 13 de la presente Ley, las órdenes de transferencia cursadas al Sistema Nacional de Compensación Electrónica, cualesquiera que sean los tipos de documentos, instrumentos de pago o transmisión de fondos que motiven las citadas órdenes de transferencia, serán firmes para las entidades de crédito participantes en el mismo, desde el momento de su recepción y aceptación por el sistema, sin perjuicio de las devoluciones de operaciones que puedan producirse con arreglo a las normas de funcionamiento del mismo.
+Se añade, con efectos de 1 de enero de 2005, por la disposición adicional 39.4 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria única
+
+Disposición transitoria primera.
+Sin perjuicio de la aplicación de las disposiciones de la presente Ley, a partir del momento de su entrada en vigor, los sistemas españoles reconocidos en el artículo 8 de esta Ley publicarán sus normas generales de adhesión y funcionamiento en el "Boletín Oficial del Estado" y, además, en su caso, en el "Diario Oficial" autonómico correspondiente, en el plazo máximo de seis meses, a contar desde la entrada en vigor de esta Ley.
+Se numera por la disposición adicional 39.5 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+Sin perjuicio de la aplicación de las disposiciones de la presente Ley, a partir del momento de su entrada en vigor, los sistemas españoles reconocidos en el artículo 8 de esta Ley publicarán sus normas generales de adhesión y funcionamiento en el "Boletín Oficial del Estado" y, además, en su caso, en el "Diario Oficial" autonómico correspondiente, en el plazo máximo de seis meses, a contar desde la entrada en vigor de esta Ley.
+Se numera, con efectos de 1 de enero de 2005, por la disposición adicional 39.5 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Asunción de la gestión del Sistema Nacional de Compensación Electrónica por la "Sociedad Española de Sistemas de Pago, Sociedad Anónima".
+1. De conformidad con lo establecido en el apartado 1 del artículo 17 de esta Ley, la "Sociedad Española de Sistemas de Pago, Sociedad Anónima", nueva denominación del hasta ahora "Servicio de Pagos Interbancarios, S.A.'', asumirá la gestión del Sistema Nacional de Compensación Electrónica, con arreglo a lo siguiente:
+a) El Servicio de ''Pagos Interbancarios, S.A.'', procederá a la modificación de su objeto y denominación social, adaptando los mismos a lo que establece el apartado 1 del artículo 17 de esta Ley.
+b) La modificación estatutaria prevista en el párrafo anterior comprenderá igualmente la distribución del capital social entre las entidades asociadas al Sistema Nacional de Compensación Electrónica a 1 de enero de 2005. Para efectuar la asignación inicial de acciones se considerará el nivel de actividad de las entidades asociadas en el último ejercicio transcurrido antes de dicha fecha.
+Para facilitar la reestructuración del accionariado de la nueva Sociedad, se procederá por parte de la misma a ampliar o reducir capital en la medida necesaria, de acuerdo con el régimen jurídico aplicable a dicha sociedad. No será de aplicación a las anteriores operaciones societarias lo dispuesto en los artículos 158, 166 y 169.1, segundo párrafo, de la Ley de Sociedades Anónimas. Con la misma finalidad, durante el período transitorio previsto en esta disposición, para la adquisición por la Sociedad, en su caso, de las participaciones accionariales, bastará, siempre que la junta general así lo hubiera autorizado, con el acuerdo del Consejo de Administración, no siendo de aplicación a los mismos lo dispuesto en los artículos 75 a 79 de la Ley de Sociedades Anónimas. En todo caso, la valoración de las acciones se realizará conforme a su valor contable.
+c) Una vez efectuadas e inscritas en el Registro Mercantil las operaciones a que se refiere el apartado anterior, y previa autorización del Banco de España, la nueva "Sociedad Española de Sistemas de Pago, Sociedad Anónima", asumirá de forma efectiva la gestión del Sistema Nacional de Compensación Electrónica, en la fecha que se determine en dicha autorización, que será publicada en el "Boletín Oficial del Estado".
+d) En todo caso, la "Sociedad Española de Sistemas de Pago, Sociedad Anónima" asumirá la gestión del Sistema Nacional de Compensación Electrónica antes del 1 de julio de 2005.
+2. En tanto la ''Sociedad Española de Sistemas de Pago, Sociedad Anónima'' no establezca otras disposiciones, continuarán en vigor las disposiciones y decisiones que rijan el Sistema Nacional de Compensación Electrónica.
+El Banco de España y la "Sociedad Española de Sistemas de Pago, Sociedad Anónima", mantendrán la debida coordinación a fin de sustituir la normativa vigente por las normas de funcionamiento que la citada sociedad apruebe en el futuro.
+3. Una vez asumida por la "Sociedad Española de Sistemas de Pago, Sociedad Anónima", la gestión del Sistema Nacional de Compensación Electrónica, quedarán derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley, y, en especial, las siguientes: del Real Decreto 1369/1987, de 18 de septiembre, la referencia al Banco de España del artículo 1.º, los artículos 2.º, 3.º y 4.º, así como los apartados Segundo, Tercero, Cuarto y Quinto de la Orden de 29 de febrero de 1988.
+4. Hasta tanto la "Sociedad Española de Sistemas de Pago, Sociedad Anónima", no asuma la gestión del Sistema Nacional de Compensación Electrónica, el Banco de España seguirá ostentando las mismas competencias que tuviera a la entrada en vigor de la presente Ley, con relación a dicho Sistema.
+5. Los actos y documentos legalmente necesarios para las operaciones societarias a que se refiere el apartado primero anterior estarán exentos de tributos y exacciones de todas clases. Asimismo, dichos actos y documentos no devengarán derechos arancelarios, notariales ni registrales.
+Se añade, con efectos de 1 de enero de 2005, por la disposición adicional 39.5 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Cesación del Servi­cio Español de Pagos Interbancarios.
+1. El Banco de España determinará el calendario de cesación de operaciones del Servicio Español de Pagos Interbancarios, que, en ningún caso, podrá extenderse más allá de la fecha en que se produzca la asunción de la gestión del Sistema Nacional de Compensación Electrónica por la "Sociedad Española de Sistemas de Pago, Sociedad Anónima" .
+2. Las entidades de crédito que, a 1 de enero de 2005, sean accionistas del "Servicio de Pagos Interbancarios, S.A. " , podrán continuar siendo accionistas de la "Sociedad Española de Sistemas de Pago, S.A. ", en la medida en que cumplan los criterios a que se refiere el apartado 1 del artículo 18 de esta Ley.
+3. La disposición adicional primera de esta Ley quedará derogada en la fecha en que, de conformidad con lo establecido en la disposición transitoria anterior, se produzca la asunción efectiva de la gestión del Sistema Nacional de Compensación Electrónica por la "Sociedad Española de Sistemas de Pago, Sociedad Anónima" .
+Se añade, con efectos de 1 de enero de 2005, por la disposición adicional 39.6 de la Ley 2/2004, de 27 de diciembre. Ref. BOE-A-2004-21688
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta al Gobierno para que dicte las disposiciones necesarias para el desarrollo y ejecución de esta Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor al día siguiente de su publicación en el "Boletín Oficial del Estado".
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 12 de noviembre de 1999.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSË MARÍA AZNAR LÓPEZ

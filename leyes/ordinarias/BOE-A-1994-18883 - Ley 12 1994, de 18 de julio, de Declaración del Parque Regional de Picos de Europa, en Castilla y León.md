@@ -1,0 +1,90 @@
+# Ley 12/1994, de 18 de julio, de Declaración del Parque Regional de Picos de Europa, en Castilla y León.
+
+- Identificador BOE: `BOE-A-1994-18883`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-18883
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que el Parque Regional de Picos de Europa, en Castilla y León (León) pasa a denominarse Parque Regional Montaña de Riaño y Mampodre (León), según establece la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+
+## Preámbulo
+
+Sea notorio a todos los ciudadanos que las Cortes de Castilla y León han aprobado, y yo en nombre del Rey y de acuerdo con lo que se establece en el artículo 14.3 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente
+LEY
+EXPOSICION DE MOTIVOS
+Las condiciones climáticas y de relieve del noroeste de la provincia de León junto su devenir histórico han posibilitado la permanencia, en buen estado de conservación, de ecosistemas propios de la región eurosiberiana que tienen como expresión más significativa extensas áreas del bosque atlántico caracterizados por robledales y hayedos, con unas poblaciones de fauna que son, en muchos casos, las más meridionales de sus áreas de distribución europea, y entre las que destacan el oso pardo y el urogallo.
+La concurrencia de estas singulares características naturales fue determinante para que la Ley 8/1991, de 10 de mayo, incluyese este área dentro del Plan de Espacios Naturales Protegidos de Castilla y León con la denominación de Picos de Europa, estableciendo la necesidad de la elaboración de un Plan de Ordenación de los Recursos que, tras un inventario y evaluación de los recursos naturales, estableciese las directrices orientadoras de las políticas sectoriales y de desarrollo socieconómico y las regulaciones que respecto a los usos y actividades fuese necesario disponer, y determinase el régimen de protección que, entre los dispuestos en la propia Ley, le fuese de aplicación.
+En cumplimiento de la Ley 8/1991, de 10 de mayo, artículo 22.4, el Plan de Ordenación de los Recursos Naturales de Picos de Europa ha sido elaborado por la Consejería de Medio Ambiente y Ordenación del Territorio con la participación de las entidades locales afectadas y contiene las prescripciones a que se refiere el artículo 26.2 de la citada Ley. Su tramitación se ha realizado de acuerdo con lo establecido en el artículo 32 de dicha Ley y, tras el informe positivo del Consejo Regional de Espacios Naturales Protegidos ha sido aprobado por la Junta de Castilla y León mediante Decreto 9/1994, de 20 de enero.
+Y por todo ello, el Plan de Ordenación de los Recursos Naturales de Picos de Europa señala como figura de protección más adecuada la de Parque Regional, dada la existencia de ecosistemas no sensiblemente alterados por el hombre y de máxima relevancia dentro del contexto del medio natural de Castilla y León.
+En el ámbito competencial, la presente Ley se sitúa en el marco de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres, que establece que la declaración de los parques corresponde a las Comunidades Autónomas en cuyo ámbito territorial se encuentren ubicados, y supone el desarrollo de la Ley 8/1991, de 10 de mayo, de Espacios Naturales de la Comunidad de Castilla y León, que dispone en su artículo 21 que los Parques regionales se declararán por Leyes de las Cortes de Castilla y León, particularizadas para cada uno de ellos.
+La Ley se estructura en un título único, cuatro artículos, tres disposiciones transitorias, una disposición final y un anexo delimitando la demarcación territorial del Parque Regional.
+Redactado conforme a la corrección de errores publicada en el BOCYL núm. 151, de 5 de agosto de 1994. Ref. BOCL-h-1994-90251
+
+### Artículo 1
+
+Artículo 1. Finalidad.
+Por la presente Ley se declara el Parque Regional Montaña de Riaño y Mampodre, con la finalidad de contribuir a la conservación de sus ecosistemas naturales y valores paisajísticos en armonía con los usos, derechos y aprovechamientos tradicionales y con el desenvolvimiento de actividades educativas, científicas, culturales, recreativas, turísticas o socieconómicas compatibles con la protección del espacio.
+Se modifica la denominación del parque por la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+
+### Artículo 2
+
+Artículo 2. Objetivos.
+La declaración del Parque Regional Montaña de Riaño y Mampodre supone como objetivos básicos:
+a) Proteger los recursos naturales: vegetación, flora, fauna, gea, agua y paisaje, manteniendo la dinámica y estructura funcional de los ecosistemas que lo componen y de manera especial el bosque atlántico, como el más representativo.
+b) Garantizar persistencia de los recursos genéticos más significativos, especialmente aquellos singularmente amenazados, y con atención preferente al oso pardo y al urogallo.
+c) Establecer las fórmulas que, respetando los objetivos anteriores, incentiven la actividad socieconómica tradicional de los habitantes de la zona, favoreciendo el desarrollo de estas comunidades humanas e incrementando su nivel y calidad de vida.
+d) Proporcionar formas de uso y disfrute público del espacio natural, de manera compatible con su conservación.
+e) Colaborar en la realización de actividades científicas, culturales, turísticas, de educación ambiental o similares, para lograr el conocimiento y respeto de los valores ecológicos que contiene el espacio natural.
+Se modifica la denominación del parque por la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+
+### Artículo 3
+
+Artículo 3. Ámbito territorial.
+El Parque Regional Montaña de Riaño y Mampodre, situado en la provincia de León, afecta a los términos municipales de Acebedo, Boca de Huérgano, Boñar, Burón, Crémenes, Maraña, Prioro, Puebla de Lillo, Reyero y Riaño.
+Sus límites geográficos son los que se especifican en el Anexo de la presente Ley.
+Se modifica la denominación del parque por la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+ Se modifica por la disposición final 3.1.a) de la Ley 4/2015, de 24 de marzo. Ref. BOE-A-2015-4103#dftercera
+
+### Artículo 4
+
+Artículo 4. Régimen de protección, uso y gestión.
+El régimen de protección, uso y gestión del Parque Regional Montaña de Riaño y Mampodre es el establecido en la Ley 8/1991, de 10 de mayo, de Espacios Naturales de la Comunidad de Castilla y León, en el Plan de Ordenación de los Recursos Naturales y en los demás instrumentos de planificación y normas que se desarrollen en aplicación de lo dispuesto en la citada Ley.
+Se modifica la denominación del parque por la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+La Junta de Castilla y León aprobará en el plazo de un año el Plan Rector de Uso y Gestión del Parque Regional Picos de Europa, que habrá sido elaborado con la participación de las entidades locales afectadas.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+En el plazo de seis meses, contados a partir de la entrada en vigor de la presente Ley, quedará constituida la Junta Rectora del Parque Regional de Picos de Europa.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+La Consejería de Medio Ambiente y Ordenación del Territorio nombrará, mediante pruebas objetivas al Director Conservador del Parque Regional de Picos de Europa, en el plazo de seis meses a partir de la entrada en vigor de la presente Ley.
+
+### Disposición final
+
+Disposición final.
+Se autoriza a ja Junta de Castilla y León para que dicte las disposiciones necesarias para la aplicación y desarrollo de esta Ley.
+Por lo tanto, mando a todos los ciudadanos a los que sea de aplicación esta Ley la cumplan, y a todos los Tribunales y autoridades que corresponda que la hagan cumplir.
+Valladolid, 18 de julio de 1994.
+
+### [firma]
+
+JUAN JOSE LUCAS JIMENEZ
+Presidente de la Junta de Castilla y León
+
+## ANEXO
+
+Los límites de Parque Regional Montaña de Riaño y Mampodre son los que se describen a continuación:
+Norte: Se inicia en el cruce de una pista de montaña con el límite provincial entre el Principado de Asturias y León en el término municipal de Puebla de Lillo (León) (punto de cota 1.700 m.) al Oeste de Peña del Viento, para seguir, en dirección Este, por la divisoria entre las provincias citadas hasta la intersección de ésta con la línea de término municipal de Oseja de Sajambre. Continúa por el límite municipal entre Oseja de Sajambre y Burón, entre Posada de Valdeón y Burón, entre Posada de Valdeón y Boca de Huérgano, hasta alcanzar la divisoria provincial entre Cantabria y León. Continúa por ésta hasta el Mojón de las Tres Provincias, punto de coincidencia de León, Cantabria y Palencia. Sigue por la divisoria entre León y Palencia hasta llegar al punto en que coincide con la línea de los términos municipales de Boca de Huérgano y Valderrueda (ambos de León).
+Este: Sigue, desde el punto de confluencia de la línea anterior con el límite provincial entre Oviedo y León, por este límite hasta el punto en que confluyen las provincias de León, Oviedo y Santander. Continúa por la divisoria entre León y Santander hasta el Mojón de las Tres Provincias, punto de coincidencia de León, Santander y Palencia. Sigue por la divisoria entre León y Palencia hasta llegar al punto en que coincide con la línea de los términos municipales de Boca de Huérgano y Valderrueda (ambos de León).
+Sur: Transcurre, desde el punto anterior, por el límite entre los términos municipales de Valderrueda con Boca de Huérgano, con Prioro y con Crémenes y sigue por la divisoria entre Crémenes y Cistierna hasta la Peña Rionda, descendiendo por la ladera hasta Argovejo. Desde aquí sigue por la carretera de Argovejo hasta su encuentro con la carretera N-621 (que va hacia Riaño), la atraviesa y remonta el arroyo de Riochín hasta el límite oriental del monte de utilidad pública 574 en su confluencia con el límite norte del monte de utilidad pública 575, al suroeste de Canto de las Viñas y antes del pueblo de Corniero, toma dirección sur, siguiendo el límite del monte 574 retomando dirección oeste por el límite sur de dicho monte que pasa por las cotas 1323, 1395, 1408, siempre siguiendo este límite y dejando fuera los picos de Sobrandio y Soberón, sigue por las cotas 1575, pico Mirabetón, pico Majadón, pico Relance, donde toma el límite sur del monte de utilidad pública 564 en dirección oeste hasta el cerro denominado Pico Redondo (cota 1540) donde toma el límite norte del monte de utilidad pública 629 hasta el paraje denominado La Herrería y en este punto se encuentra con la carretera que va de Boñar al puerto de Tama.
+Oeste: Recorre la carretera de Boñar a Puebla de Lillo bordeando el embalse del Porma hasta encontrar el límite sur de término de Puebla de Lillo, siguiendo hacia el oeste y noreste por el límite entre los términos de Puebla de Lillo con Boñar y Valdelugueros hasta el Pico Cuerno, dirigiéndose hacia el nordeste buscando la línea de cumbres dejando al noroeste los remontes de la estación invernal de San Isidro, continúa por el límite Noroccidental del monte de utilidad pública 482 hasta encontrar la cuenca que acoge el arroyo de Fonfría, desciende por este arroyo hasta el río de Isoba, cruza hasta la carretera del Puerto de San Isidro a Isoba, siguiendo por ella en dirección oeste. Retoma la dirección norte en el cruce de la pista de montaña, la cual sigue hasta el límite norte provincial donde cierra el área propuesta.
+Se modifica la denominación del parque por la disposición final 3 de la Ley 4/2020, de 14 de diciembre. Ref. BOE-A-2021-908#df-3
+ Se modifica el párrafo primero por la disposición final 3.1.b) de la Ley 4/2015, de 24 de marzo. Ref. BOE-A-2015-4103#dftercera

@@ -1,0 +1,122 @@
+# Ley 9/2002, de 14 de noviembre, de Impulso a la Localización Industrial de Extremadura.
+
+- Identificador BOE: `BOE-A-2003-1415`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2003-1415
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 49.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Extremadura se encuentra en un momento crucial de su desarrollo económico y social, y la Comunidad Autónoma plantea como prioridades, para estimularlo, la creación de empleo y tejido industrial en la región.
+La creación de empleo constituye un tema de gran preocupación y prioridad para nuestra Comunidad Autónoma. Dicha creación de empleo redundará en un aumento del nivel de vida de todos los extremeños.
+Este fomento del empleo ha de vincularse, muy estrechamente, al reforzamiento de las estructuras productivas de la Comunidad Autónoma. En Extremadura, la estructura económica responde al esquema propio de una región, con un nivel de desarrollo por debajo de la media del conjunto de España.
+En este contexto, es absolutamente necesario dar prioridad al sector industrial, para que cobre el protagonismo suficiente y se convierta en el motor de la inversión productiva y de la creación de empleo en la región.
+Por todo ello, la política de fomento y promoción industrial, con el fin de crear empleo, pasa por incentivar la implantación y localización de establecimientos industriales que pretendan el desarrollo de actividades productivas, así como dotar al territorio extremeño de una red de infraestructuras industriales que produzcan un efecto vertebrador, garantizando el desarrollo armónico de nuestra Comunidad Autónoma.
+En este sentido, los poderes públicos deben contar con herramientas que permitan poner a su disposición suelo industrial para la promoción de parques empresariales y polígonos industriales a precios competitivos, primando siempre el bien común sobre los intereses de los particulares.
+Aunque las pequeñas y medianas empresas son la herramienta básica del desarrollo regional, no debemos olvidar que, además, las grandes industrias son extremadamente beneficiosas en cuanto a la creación de empleo directo e indirecto, y que son las que, además, suelen encontrarse con mayores trabas para su implantación en nuestra región, en parte, por no contar con la normativa adecuada.
+Esta norma, por tanto, se dirige a los Ayuntamientos y empresas públicas que promuevan polígonos industriales del Gobierno regional, así como a empresas de grandes dimensiones, utilizando, para delimitar este concepto, la definición que, por exclusión, establece la Unión Europea en la Recomendación de la Comisión de 3 de abril de 1996, sobre la definición de pequeñas y medianas empresas.
+El interés social que tiene el establecimiento de nuevos centros industriales en Extremadura, por cuanto contribuyen a la creación de empleo, precisa del apoyo de la Administración Autonómica para hacer frente a los posibles problemas que puedan derivarse de la implantación de dichas industrias, cumpliendo así el mandato de la Constitución que, establece en el artículo 40.1 que los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica.
+Por su parte, el Estatuto de Autonomía de Extremadura, en su artículo 7.1.10 y 7.1.27, respectivamente, dispone que corresponde a la Comunidad Autónoma la competencia exclusiva en el fomento del desarrollo económico de Extremadura, así como de la ordenación del sector industrial. Igualmente, el Estatuto de Autonomía de Extremadura establece, en su artículo 47.b), que en el ejercicio de sus competencias corresponde a la Comunidad Autónoma de Extremadura el ejercicio de la potestad expropiatoria.
+En concreto, la presente norma establece una calificación específica a las industrias que pretendan su establecimiento en la región y que supongan un elemento creador de empleo, y contribuyan a potenciar el desarrollo económico de Extremadura. Asimismo, se hace extensible la obtención de esa calificación a los proyectos de creación de polígonos industriales o parques empresariales de grandes dimensiones, en los que potencialmente se ubicarán estas industrias. Dicha calificación se denominará «Industrias o Proyectos de Interés Prioritario para Extremadura», y conllevará una serie de beneficios para dichas empresas para facilitar su implantación en nuestra Comunidad Autónoma.
+Téngase en cuenta, por último, que la presente Ley trae causa además en el II Plan de Industria y Promoción Empresarial de Extremadura, para el período 2000-2003, y en el decidido propósito de los agentes socioeconómicos firmantes del mismo, de lograr un desarrollo industrial que no sólo propicie el nacimiento de nuevas oportunidades de negocio y la creación de empleo estable que demanda la sociedad extremeña, sino que sirva para cohesionar y vertebrar social y territorialmente nuestra región, y que este desarrollo industrial pretendido sea equilibrado y sostenible, respetuoso, en suma, con el medio ambiente.
+
+### Artículo 1
+
+Artículo 1. Objeto de la Ley.
+1.El objeto de esta Ley es la regulación del régimen de actuaciones a seguir, con el fin de facilitar la adquisición de suelo necesario para la puesta en marcha de proyectos públicos de polígonos industriales y parques empresariales, así como la ubicación de grandes industrias en Extremadura.
+2. En este sentido, podrán acogerse a los beneficios de esta norma, los proyectos públicos de creación de polígonos industriales o parques empresariales para PYMES, promovidos por la Junta de Extremadura, en las condiciones que esta Ley establezca.
+Se deroga el apartado 3 por la disposición derogatoria única.2.a) de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 2
+
+Artículo 2. Concepto de gran industria.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.a) de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 3
+
+Artículo 3. Calificación de «Industria o Proyecto de Interés Prioritario para Extremadura».
+La Comunidad Autónoma de Extremadura, en el ejercicio de su competencia exclusiva en materia de fomento del desarrollo económico de la comunidad autónoma, y con el fin de promover el desarrollo y la expansión del sector industrial, podrá otorgar la calificación de “Proyecto de Interés Prioritario para Extremadura” a los proyectos de creación de polígonos industriales o parques empresariales, conforme al procedimiento establecido en la presente ley y en las normas de desarrollo de esta.
+Se modifica por la disposición final 1.1 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#df
+
+### Artículo 4
+
+Artículo 4. Condiciones para la obtención de la calificación.
+1.(Derogado).
+2. Podrán calificarse como “Proyecto de Interés Prioritario para Extremadura” los proyectos públicos de creación de polígonos industriales o parques empresariales de más de 30.000 m², promovidos por la Junta de Extremadura, en aquellas localidades que carezcan de suelo adecuado para la puesta en marcha de la actuación.
+Se deroga el apartado 1 y se modifica el apartado 2 por la por la disposición derogatoria única 2.a) y final 1.2 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 5
+
+Artículo 5. Solicitud de la calificación.
+1.(Derogado).
+2. (Derogado).
+3. En las solicitudes de calificación de proyectos públicos de creación de polígonos industriales o parques empresariales, como “Proyecto de Interés Prioritario para Extremadura”, la entidad beneficiaria deberá acreditar la carencia de suelo calificado adecuadamente para la actuación, exigiéndose, asimismo, informe preceptivo de la Consejería competente en materia de promoción industrial de que el terreno donde se pretende actuar resulte ser el más adecuado para el proyecto.
+Se derogan los apartados 1, 2 y se modifica el apartado 3 por la por la disposición derogatoria única 2.a) y final 1.2 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 6
+
+Artículo 6. Procedimiento para la calificación.
+1.La calificación de un “Proyecto de Interés Prioritario para Extremadura” será acordada, mediante decreto, por el Consejo de Gobierno de la Junta de Extremadura, a propuesta de la Consejería con competencias en materia de Industria.
+2. En el Decreto declarativo de la calificación, se establecerá la duración y localización de los beneficios que en cada caso se concedan, así como la apertura del procedimiento expropiatorio correspondiente.
+Se modifica el apartado 1 por la disposición final 1.4 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#df
+
+### Artículo 7
+
+Artículo 7. Características de la calificación.
+1. La calificación de “Proyecto de Interés Prioritario para Extremadura” regulada en esta ley conlleva su declaración de utilidad pública o interés social, así como la de urgencia de la ocupación de los bienes afectados, a los efectos previstos en la Ley de Expropiación Forzosa, de 16 de diciembre de 1954.
+2. Tanto la declaración de utilidad pública e interés social, como la de urgencia de la ocupación, habrán de hacerse constar, en cada caso concreto, en el decreto de calificación del Consejo de Gobierno.
+Se deroga el apartado 3 y se modifican los apartados 1 y 2 por la disposición derogatoria única 2.a) y final 1.2 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 8
+
+Artículo 8. Beneficios que comporta la calificación.
+Los beneficios que podrán otorgarse a los proyectos sometidos a esta ley serán los siguientes:
+1. Expropiación forzosa del suelo necesario para su instalación sobre el que no se tenga la disponibilidad, a efectos de la localización industrial.
+2. Imposición o ampliación de servidumbre de paso para vías de acceso, líneas de transporte y distribución de energía y canalizaciones de líquidos o gases, en los casos en que sea necesario, de acuerdo con la normativa que regule las mismas.
+Se modifica por la disposición final 1.6 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#df
+
+### Artículo 9
+
+Artículo 9. Beneficiarios de la expropiación.
+1.Serán beneficiarios de las expropiaciones a que hace referencia esta Ley, conforme a lo dispuesto en el artículo 2.2 y 2.3 de la Ley de Expropiación Forzosa, de 16 de diciembre de 1954:
+a) La Corporación local en cuyo término se pretendan implantar las «Industrias o Proyectos de Interés Prioritario para Extremadura», y a los solos efectos de lo previsto en esta Ley.
+b) (Derogada).
+c) La Sociedad de Fomento Industrial de Extremadura, o las empresas participadas al 100 por 100 por ésta, a los solos efectos previstos en esta Ley.
+Se deroga la letra b) por la disposición derogatoria única 2.a) de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#dd
+
+### Artículo 10
+
+Artículo 10. Procedimiento expropiatorio.
+El procedimiento de expropiación de los bienes afectados seguirá los trámites establecidos en la Ley de Expropiación Forzosa, de 16 de diciembre de 1954, y el Reglamento de la Ley de Expropiación Forzosa, de 26 de abril de 1957, en todo caso, por el procedimiento de urgencia.
+
+### Artículo 11
+
+Artículo 11. Necesidad de estudios e informes preceptivos.
+1.Cuando la instalación de los proyectos públicos de creación de polígonos industriales o parques empresariales a que se refiere esta ley necesiten actuaciones de evaluación de impacto ambiental y demás estudios preceptivos, porque así lo exija su normativa específica, estos se tramitarán por los procedimientos de urgencia que establezcan sus respectivas normas.
+2. Asimismo, los procedimientos preceptivos en materia urbanística y del suelo, se tramitarán por el procedimiento de urgencia, cuando se prevea esta posibilidad en sus normas reguladoras.
+Se modifica el apartado 1 por la disposición final 1.7 de la Ley 8/2019, de 5 de abril. Ref. BOE-A-2019-7221#df
+
+### Disposición adicional única
+
+Disposición adicional única.
+El órgano de valoración del justiprecio, en las expropiaciones que se inicien en cumplimiento de esta norma, será el Jurado Autonómico de Valoraciones, establecido para el ámbito de la Comunidad Autónoma de Extremadura en el artículo 153 de la Ley 15/2001, de 14 de diciembre, del Suelo y Ordenación Territorial de Extremadura.
+
+### Disposición final primera
+
+Disposición final primera.
+Se faculta a la Junta de Extremadura para dictar cuantas disposiciones reglamentarias fueran necesarias para la aplicación de esta Ley, a propuesta del Consejero competente en materia de industria.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor el día siguiente de su publicación en el «Diario Oficial de Extremadura».
+
+### [firma]
+
+Por tanto, ordeno a todos los ciudadanos que sea de aplicación esta Ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 14 de noviembre de 2002.–El Presidente, Juan Carlos Rodríguez Ibarra.

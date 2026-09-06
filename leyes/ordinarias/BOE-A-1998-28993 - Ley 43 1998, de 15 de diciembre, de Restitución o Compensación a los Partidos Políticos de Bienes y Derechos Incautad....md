@@ -1,0 +1,149 @@
+# Ley 43/1998, de 15 de diciembre, de Restitución o Compensación a los Partidos Políticos de Bienes y Derechos Incautados en aplicación de la normativa sobre responsabilidades políticas del período 1936-1939.
+
+- Identificador BOE: `BOE-A-1998-28993`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1998-28993
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+Por Decreto de 13 de septiembre de 1936 fueron declarados ilegales los partidos y agrupaciones políticas o sociales que integraban el frente popular, así como cualesquiera otros que se hubiesen opuesto al alzamiento militar que dio lugar al inicio de la guerra civil, al tiempo que se decretaba la incautación de cuantos bienes muebles, inmuebles, efectos y documentos perteneciesen a los referidos partidos y agrupaciones, pasando todo ello a la propiedad del Estado. Los términos de este Decreto fueron confirmados en la posterior Ley de 9 de febrero de 1939, que señaló como fundamento de dichas medidas la responsabilidad política en que habían incurrido las organizaciones citadas.
+Superada la guerra civil y promulgada la Constitución Española de 1978, se han venido sucediendo decisiones de variada índole, encaminadas a la restauración de situaciones jurídicas ilegítimamente afectadas por decisiones adoptadas al amparo de una normativa injusta. Así, las normas de amnistía, el reconocimiento de derechos asistenciales a las personas pertenecientes al ejército republicano o la restitución de bienes y derechos del denominado patrimonio sindical histórico incautado a las organizaciones sindicales, conforme a la Ley 4/1986, de 8 de enero.
+En la actualidad parece llegado el momento de avanzar en dicho proceso reparador, creando el marco jurídico necesario para reintegrar a los partidos políticos los bienes y derechos de que fueron desposeídos durante la guerra civil o al finalizar ésta, en línea con uno de los objetivos que inspiró nuestra actual Constitución de garantizar la convivencia de todos los españoles, superando las consecuencias de la guerra civil, y en consonancia con el papel relevante que la misma otorga a los partidos políticos, a los que incardina en la médula del Estado democrático, mediante la precisión de su concurrencia a la formación y manifestación de la voluntad popular, lo que exige de ese Estado democrático un acto de justicia histórica como es el de devolución a los mismos de aquello que les fue arrebatado, dándoles, por otra parte, un trato idéntico al ya dado en su día a las organizaciones sindicales.
+Estas premisas básicas permiten reconocer, en primer término, el derecho a la restitución y acotar después los ámbitos objetivo y subjetivo de la Ley, tarea llena de graves dificultades técnico-jurídicas, ya que será preciso delimitar qué se restituye (bienes, derechos de contenido patrimonial, derechos personales, frutos, rentas, etcétera), así como quiénes son los beneficiarios de la devolución, siendo todo ello sumamente complejo, dado que han transcurrido más de cincuenta años, han desaparecido algunos de los primitivos titulares y se han destruido archivos, protocolos y registros.
+En esta tesitura se ha optado por no reconocer los derechos personales y aquellos otros de contenido patrimonial de más difícil evaluación, como es el caso de los frutos y rentas. Igualmente se ha decidido acotar a los partidos políticos el ámbito subjetivo del texto legal elaborado al considerar que, conforme establece el artículo 6 de la Constitución, son entidades que concurren de manera especial en la formación y manifestación de la voluntad popular, cualidad que los diferencia de los meros sujetos portadores de intereses privados.
+Se trata, en suma, de abordar esta ingente tarea de forma prudente y al propio tiempo definitiva, evitando que una generalización de restituciones e indemnizaciones limiten la operatividad de la Ley.
+Junto a los principios jurídicos ya apuntados, es necesario añadir el de seguridad jurídica por el cual se trata de conciliar el derecho de los actuales propietarios de los bienes a no ser inquietados en su propiedad, con el objetivo de que la restitución produzca el efecto deseado en favor de los partidos que fueron despojados de sus bienes y derechos.
+A ello ha de sumarse el principio de la mayor gratuidad posible, en el sentido de que los beneficiarios de la restitución, que ya han sufrido serios perjuicios durante un largo período de tiempo, soporten los menores gastos y costes posibles inherentes al proceso. De ahí que se haya considerado conveniente que la declaración de restitución sea título suficiente para la inscripción registral de los bienes, y que todos los actos o negocios jurídicos derivados de la aplicación de esta Ley estén exentos de cualquier tributo y se les apliquen todas aquellas bonificaciones establecidas a favor del Estado.
+Dada la enorme casuística y las dificultades prácticas que pueden surgir a la hora de aplicar estos criterios, se prevé la atribución de competencias a un órgano administrativo específico para que reciba y tramite las solicitudes, evalúe las pruebas presentadas sobre la titularidad de los peticionarios y la concreción de los bienes incautados, aplique criterios uniformes de valoración a la hora de la fijación de indemnizaciones sustitutorias y proponga al Gobierno la adopción de la decisión que en cada caso corresponda, si bien se ha estimado oportuno posponer el ejercicio de tales competencias al necesario desarrollo reglamentario de la presente Ley.
+La devolución afecta, como no podía ser de otra forma, a los propios bienes que en su momento fueron objeto de incautación, por lo cual, si la restitución no fuese ya posible, por haber sido transmitidos y adquiridos legítimamente dichos bienes por terceros de buena fe o por haber sufrido alteraciones sustanciales que impidan su conversión a su forma originaria, el Estado compensará pecuniariamente al partido político desposeído, por el valor del bien o bienes de que se trate.
+Para finalizar, únicamente indicar que el espíritu de reposición a la situación originaria exige que el Estado realice por su iniciativa y a su costa actuaciones tales como deslindes e inscripciones registrales.
+
+### Artículo 1
+
+Artículo 1. Restitución de bienes o derechos de contenido patrimonial.
+1. El Estado restituirá, en los términos establecidos en la presente Ley, a los beneficiarios previstos en el artículo tercero, los bienes inmuebles y derechos de contenido patrimonial, incluyendo saldos en efectivo y arrendamientos de que es o fue titular y que fueron incautados a partidos políticos o a entidades a ellos vinculadas aun cuando no tuvieran personalidad jurídica propia, en aplicación del Decreto de 13 de septiembre de 1936, la Ley de 9 de febrero de 1939, la Ley de 19 de febrero de 1942 y la Orden de 9 de junio de 1943.
+No procederá la restitución de bienes muebles, ni el abono, indemnización o compensación alguna por los frutos y rentas dejados de percibir desde el momento de la incautación, ni por los derechos de contenido patrimonial derivados de la pérdida de derechos personales.
+2. Procederá igualmente la restitución o compensación por la pérdida de bienes y derechos radicados fuera del territorio español.
+En este supuesto la titularidad será acreditada según lo establecido en la presente Ley.
+3. El Estado indemnizará, asimismo, en los términos de la presente Ley a los beneficiarios previstos en el artículo tercero, la pérdida de sus derechos de contenido patrimonial producida en virtud de lo dispuesto en el artículo 3 de la Ley de 9 de febrero de 1939.
+Se modifica por el art. único.1 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 1 bis
+
+Artículo 1 bis.
+1. Además de los bienes y derechos contemplados en el artículo anterior serán objeto de compensación a los beneficiarios establecidos en el artículo tercero:
+a) La pérdida o privación definitiva del uso o disfrute de bienes inmuebles en concepto de arrendatario.
+b) La incautación, fehacientemente acreditada, de saldos en efectivo en cuentas y depósitos en entidades bancarias y financieras legalmente autorizadas para operar como tales en la fecha de la incautación, siempre que dichas cuentas y depósitos figurasen a nombre de los beneficiarios establecidos en el artículo tercero y la incautación fuese consecuencia de la aplicación de la normativa a que se refiere el artículo primero, párrafo primero.
+2. El importe de la compensación será el que resulte de actualizar la cuantía incautada según el Índice del Valor Constante de la Peseta y Euro elaborado por el Banco de España.
+3. El importe total máximo a abonar por beneficiario será de 4.000.000 de euros por los dos conceptos compensables a que se refiere el apartado primero.
+Se añade por el art. único.2 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 2
+
+Artículo 2. Compensación pecuniaria.
+1. Si los bienes o derechos a que se refieren los artículos anteriores no pudieran ser devueltos total o parcialmente por no haber quedado suficientemente identificados, por pertenecer a terceras personas distintas del Estado, por encontrarse en el supuesto contemplado en el artículo 7 de esta ley, o por cualquier otra causa, el Estado compensará pecuniariamente su valor teniendo presente criterios de mercado.
+El importe de dicho valor será determinado en su caso, por el Consejo de Ministros, a propuesta del Departamento a que se refiere el artículo 6 de esta ley, con referencia a la fecha de su entrada en vigor.
+No procederá restitución ni compensación alguna en aquellos casos en que ya se hubiese producido la restitución o compensación en aplicación de cualquier otra normativa.
+2. En el supuesto de que los bienes hubiesen experimentado alteraciones físicas mediante la incorporación de mejoras, el beneficiario de la devolución vendrá obligado a abonar al Estado el valor de dichas mejoras, con referencia a la fecha prevista en el número anterior, salvo que éstas representen más del 25 por 100 del valor total de los bienes o derechos, en cuyo caso el Estado podrá optar por la percepción de la compensación derivada del aumento de valor, o por el mantenimiento de su titularidad, abonando la compensación correspondiente al valor de los bienes o derechos.
+3. En el supuesto de que los bienes hubiesen sido gravados por el Estado con cargas de carácter real, independientemente del derecho de los beneficiarios a recuperar su propiedad, procederá el abono de una compensación pecuniaria por la reducción del valor de dichos bienes, de acuerdo con lo establecido en el apartado 1 de este artículo.
+Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#df
+ Se deja sin efecto la modificación del apartado 1 por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica el primer párrafo del apartado 1 por el art. único.3 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 3
+
+Artículo 3. Beneficiarios de la restitución o compensación.
+Tendrán derecho a la restitución o, en su caso, compensación previstas en esta Ley:
+1. Los partidos políticos mencionados de forma genérica o individualizada en el artículo 2 de la Ley de 9 de febrero de 1939, que con anterioridad al 6 de diciembre de 1978 hubieren solicitado formalmente su reconstitución legal o en tal fecha hubiesen sido ya reconstituidos legalmente y siempre que su personalidad no se haya extinguido con anterioridad al 1 de diciembre de 1995, respecto de los bienes y derechos de contenido patrimonial de los que fueron titulares e incautados en aplicación de dicha Ley y las demás normas sobre responsabilidades políticas.
+2. Asimismo, los citados partidos políticos respecto de los bienes inmuebles y derechos de contenido patrimonial pertenecientes a personas jurídicas vinculadas a ellos, cuando tales bienes y derechos hubieran sido incautados en aplicación de la citada Ley y demás normas sobre responsabilidades políticas y estuvieran afectos o destinados al ejercicio de actividades políticas de dichos partidos en el momento de la incautación.
+3. No procederá la restitución ni la compensación en el caso de los partidos políticos que hubieran sido declarados ilegales, disueltos o suspendidos judicialmente. Tampoco procederá en el caso de los partidos respecto de los cuales se hubiese iniciado el procedimiento para dicha declaración o se hubiesen anulado algunas de sus candidaturas en virtud de lo previsto en los artículos 9 a 12 de la Ley Orgánica 6/2002, de 27 de junio.
+Se añade el apartado 3 por el art. único.4 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 4
+
+Artículo 4. Regularización jurídica.
+El Estado procederá a identificar los bienes inmuebles y derechos de contenido patrimonial reclamados de acuerdo con los datos de titulación que aparezcan en sus archivos, así como en los Protocolos Notariales y Registros de la Propiedad, regularizando la situación jurídica de aquéllos y realizando los deslindes, segregaciones, inmatriculaciones y demás operaciones de regularización registral que resulten necesarias, sin perjuicio de que tales operaciones registrales de inscripción o complementarias de ella se efectúen una vez acordada la restitución, al constituir ésta título suficiente para aquéllas, de acuerdo con lo establecido en el artículo 6.
+
+### Artículo 5
+
+Artículo 5. Plazo para el ejercicio de derechos.
+Los derechos y acciones reconocidos en la presente Ley deberán ejercitarse en el plazo de un año contado a partir del día siguiente al de entrada en vigor de la norma que, de acuerdo con la disposición final primera, se apruebe para el desarrollo de lo establecido en esta Ley.
+Las solicitudes, efectuadas por los representantes legales de los beneficiarios previstos en el artículo 3, contendrán la descripción detallada del bien o derecho cuya restitución o compensación se solicita. A la solicitud se acompañarán los documentos acreditativos de la existencia en su momento de los bienes o derechos, del derecho a la restitución o compensación que se solicita, de la titularidad, incautación por aplicación de la normativa mencionada en el artículo 1, así como de cuanta otra documentación se establezca reglamentariamente, aceptándose como pruebas o medios acreditativos, todos los admitidos en derecho.
+El Estado facilitará el acceso con preferencia y gratuidad, a los fondos y archivos, así como a los registros públicos donde pudiera hallarse la referida documentación.
+
+### Artículo 5 bis
+
+Artículo 5 bis. Prueba.
+1. La titularidad de aquellos bienes o derechos pertenecientes a los beneficiarios a que se hace referencia en los apartados anteriores, podrá ser acreditada por cualquier medio de prueba de los admitidos en derecho.
+2. Cuando no se pueda disponer de los datos necesarios para la determinación plena de los bienes y derechos perdidos o incautados, del título o fecha de su posesión, o de su valor, podrán éstos determinarse mediante la utilización de aquellos elementos probatorios que indiciariamente los acrediten. Podrán aplicarse, en su caso, las presunciones sobre titularidad de derecho previstas en la ley y, particularmente, en la legislación tributaria y en la legislación de expropiación forzosa.
+Se añade por el art. único.5 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 6
+
+Artículo 6. Tramitación y resolución de solicitudes.
+1. La tramitación de las solicitudes de restitución o compensación de los bienes y derechos a que se refiere esta ley corresponderá al Departamento ministerial que tenga atribuidas las competencias en materia de Memoria Democrática, que instruirá los oportunos expedientes de acuerdo con el procedimiento que reglamentariamente se establezca y propondrá las valoraciones de los bienes y derechos a los efectos compensatorios previstos en esta ley.
+La resolución de los procedimientos incoados, que será motivada, corresponderá al Consejo de Ministros, acordando la desestimación o la restitución total o parcial o el derecho a la compensación, constituyendo la declaración de restitución título suficiente para la inscripción de los bienes y derechos en el Registro de la Propiedad.
+2. En aquellos casos en que habiéndose acreditado el perjuicio patrimonial sufrido por el partido político no hubiera podido determinarse ni siquiera por medios indiciarios la totalidad de los elementos del mismo, el Consejo de Ministros podrá fijar equitativamente una compensación.
+Se modifica el apartado 1 por la disposición final 1.2 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#df
+ Se deja sin efecto la modificación del apartado 1 por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica el apartado 1 por la disposición final 1.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+ Se modifica por el art. único.6 de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Artículo 7
+
+Artículo 7. Aplazamiento de la restitución o compensación.
+En el caso de que al amparo de esta ley hubiera que restituir bienes o derechos afectados al dominio público, el Consejo de Ministros, en un plazo no superior a tres meses desde el reconocimiento, podrá optar, en resolución motivada, por su compensación o restitución. En este último caso podrá aplazar su efectividad por un período máximo de dos años fijando una indemnización complementaria.
+Igualmente, y en los términos que reglamentariamente se establezcan, el Consejo de Ministros podrá acordar en resolución motivada un aplazamiento en el pago de las compensaciones pecuniarias que se reconozcan o el fraccionamiento del pago al que pudieran estar obligados los beneficiarios de restituciones en los supuestos contemplados en esta ley. Dichos aplazamientos no excederán de cuatro años y devengarán, en ambos casos, el interés legal del dinero.
+Se modifica por la disposición final 1.3 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#df
+ Se deja sin efecto la modificación de este artículo por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica por la disposición final 1.3 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+### Artículo 8
+
+Artículo 8. Exenciones tributarias.
+1. La restitución de bienes y derechos de contenido patrimonial y la compensación pecuniaria dispuestas en la presente Ley no se integrarán en la base imponible del Impuesto sobre Sociedades de los partidos políticos y de las personas jurídicas a ellos vinculadas, y cuando impliquen la realización de alguno de los hechos imponibles del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, estará exenta del mismo.
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de los regímenes fiscales forales vigentes en los Territorios Históricos del País Vasco y del régimen de Convenio Económico con Navarra.
+2. Los instrumentos públicos, documentos, inscripciones o asientos que, en su caso, se practiquen en el Registro de la Propiedad u otros Registros públicos, gozarán de los mismos beneficios que los establecidos a favor del Estado en la legislación vigente respecto a los honorarios que hubieran de satisfacerse.
+
+### Artículo 9
+
+Artículo 9. Recursos.
+Los acuerdos del Consejo de Ministros adoptados al amparo de la presente Ley pondrán fin a la vía administrativa, pudiendo interponerse contra los mismos recurso contencioso-administrativo.
+
+### Disposición adicional única
+
+Disposición adicional única.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 50/2007, de 26 de diciembre. Ref. BOE-A-2007-22294
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera. Desarrollo reglamentario.
+El Gobierno, a propuesta del Ministerio con competencia en materia de Memoria Democrática, y previo informe de los Ministerios con competencia en materia de Hacienda y Justicia, desarrollará reglamentariamente lo dispuesto en esta ley.
+Se modifica por la disposición final 1.4 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#df
+ Se deja sin efecto la modificación de esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+ Se modifica por la disposición final 1.4 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.
+Madrid, 15 de diciembre de 1998.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

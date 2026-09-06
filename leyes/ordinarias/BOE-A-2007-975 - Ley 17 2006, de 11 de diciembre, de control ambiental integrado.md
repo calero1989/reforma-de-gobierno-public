@@ -1,0 +1,2025 @@
+# Ley 17/2006, de 11 de diciembre, de control ambiental integrado.
+
+- Identificador BOE: `BOE-A-2007-975`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2007-975
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Norma derogada, con efectos de 29 de agosto de 2026, por la disposición derogatoria única.a) de la Ley 9/2026, de 23 de julio. Ref. BOE-A-2026-17287#dd
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 17/2006, de 11 de diciembre, de control ambiental integrado.
+PREÁMBULO
+I
+Desde hace ya bastantes años la preocupación por el medio ambiente se ha colocado en el centro de la atención ciudadana y, por ello, entre las prioridades de la acción política. Una acción ambiental que halla su fundamento en numerosos textos normativos de carácter interno, pero que acabó por adquirir decidido protagonismo a partir del impulso derivado de las políticas comunitarias.
+En efecto, los textos originarios de los Tratados fundacionales de las Comunidades Europeas no contenían previsiones específicas sobre el medio ambiente, no obstante lo cual, la Comunidad empezó a gestar una política ambiental en la década de los años setenta del pasado siglo; política basada, fundamentalmente, en la idea de los llamados «poderes implícitos», según la cual cuando una acción de la Comunidad resulte necesaria para lograr, en el funcionamiento del mercado común, uno de los objetivos de la Comunidad, sin que el Tratado haya previsto los poderes de acción necesarios, el Consejo adoptará las disposiciones pertinentes. Esta idea, que sigue presente en la versión actual del artículo 308 del Tratado Constitutivo de la Comunidad Europea, estuvo en la base del Primer Programa de acción de la Comunidad en materia de medio ambiente, que se remonta al año 1973. Con todo, la política ambiental de la Comunidad debía vincularse a la política económica y del mercado para poder legitimarse, lo cual suponía un cierto freno a la adopción de decisiones autónomas. No es hasta el Acta Única, de 1986, cuando la política medioambiental adquiere cierta vida propia; autonomía que se logra definitivamente en las reformas llevadas a cabo en el Tratado de Maastricht, de 1992, del que trae causa el Título XIX de la Tercera Parte del Tratado de Roma (actuales artículos 174 a 176), que plasman y definen títulos competenciales específicos para una política medioambiental más ambiciosa.
+Las normas comunitarias que plasman esa política ambiental, contemplada ahora como una finalidad esencial de la Unión, se imponen a los Estados miembros a través de las normas de resultado que son las Directivas; normas que aquellos deberán trasponer e integrar en su propio ordenamiento conforme a sus respectivas reglas de distribución interna de competencias.
+La política ambiental comunitaria ha quedado plasmada, en efecto, en numerosas Directivas fundadas en el objetivo de lograr un desarrollo económico sostenible basado en un alto nivel de protección de la calidad del medio ambiente e inspiradas en principios ambientales ampliamente aceptados, por los que se dirigen e inspiran, como guías de acción, la propia normativa comunitaria y aun la política interna de los Estados miembros. Entre esos principios, que no procede ahora enumerar, pero que han ido adquiriendo perfiles propios al cabo de los años, se encuentra el principio de prevención, del que se deduce la idea de que es preferible la acción y el control anticipados que la reparación, y que se articula mediante técnicas como las evaluaciones ambientales previas a las autorizaciones de proyectos o actividades, la imposición de condiciones o restricciones para su desarrollo o incluso la solución última de las actividades prohibidas.
+Así pues, sobre la base de estos antecedentes, la actual Unión Europea fue aprobando, como se ha dicho, numerosas Directivas entre las que cabe citar, por lo que ahora interesa, la Directiva 85/337, de 27 de junio de 1985, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente (modificada de manera importante por la posterior Directiva 97/11, de 3 de marzo de 1997, y de manera menos destacada por la Directiva 2003/35, de 26 de mayo de 2003); la Directiva 96/61, del Consejo, de 24 de septiembre de 1996, relativa a la prevención y control integrado de la contaminación; o la Directiva 2001/42, del Parlamento y del Consejo, de 27 de junio de 2001, relativa a la evaluación de los efectos de ciertos planes y programas en el medio ambiente. Directivas todas ellas que, como normas de resultado que son, según ya se ha dicho, tenían y tienen que ser traspuestas al ordenamiento interno por quien, en cada caso, posea las competencias.
+II
+Desde el punto de vista interno hay que atender, en primer lugar, a los postulados constitucionales. La Constitución Española, en efecto, contempla ya la protección del medio ambiente como un principio rector esencial de la política social y económica. Así, en su artículo 45 se refiere al derecho a disfrutar del medio ambiente y a la obligación de todos los poderes públicos de velar por su protección, mejora y, en su caso, restauración.
+El principio de descentralización en que se basa el sistema político español supone, también aquí, que la referencia a los poderes públicos del artículo 45 de la Constitución deba incorporar la óptica competencial, puesto que las Comunidades Autónomas han asumido estatutariamente competencias en esta materia. El criterio de principio se halla en el artículo 149.1.23.ª de la Constitución, según el cual corresponde al Estado la legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. Así pues, las Comunidades Autónomas pueden desarrollar la normativa básica estatal si han asumido competencias para ello en sus Estatutos.
+Eso es lo que exactamente sucede en el caso de Cantabria, como por lo demás en todas las otras Comunidades Autónomas. Conforme al artículo 25.7 del Estatuto de Autonomía para Cantabria, la Comunidad asume competencias para el desarrollo legislativo y ejecución de la protección del medio ambiente y de los ecosistemas, en el marco de la legislación básica del Estado y en los términos que la misma establezca.
+La legislación básica estatal en el concreto ámbito que nos ocupa está configurada por algunas destacadas normas de rango legal.
+Así, en primer lugar, la antes citada Directiva 85/337, de 27 de junio de 1985, fue objeto de una inicial transposición por el Real Decreto legislativo 1302/1986, de 28 de junio, Evaluación del impacto ambiental, en el contexto del conjunto de normas que adaptaron el Derecho español a la entonces reciente entrada de España a la Comunidad. La modificación de la Directiva 85/337 por la posterior 97/11, de 3 de marzo de 1997, obligó a la sustancial modificación de dicho texto legal para adaptarlo, justamente, a los cambios operados en la Directiva de la que traía causa, primero por Real Decreto-ley 9/2000, de 6 de octubre, transformado luego en la Ley 6/2001, de 8 de mayo. El texto vigente del citado Real Decreto Legislativo 1302/1986, es, pues, el resultante de la integración en él de las modificaciones operadas en 2001.
+La Directiva 96/61, de 24 de septiembre de 1996, fue traspuesta al Derecho interno por la importante Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación; integración que, como la propia Ley especifica, se lleva a cabo con carácter básico y mínimo, esto es, como norma común y sin perjuicio de la potestad legislativa de las Comunidades Autónomas, que podrán, efectivamente, no sólo desarrollar las previsiones de la Ley sino también, si así lo desean, establecer normas adicionales de protección (artículo 2 y disposición final quinta de la Ley 16/2002).
+Finalmente, la Directiva 2001/42, de 27 de junio de 2001, relativa a la evaluación de los efectos de ciertos planes y programas en el medio ambiente, ha sido traspuesta recientemente por el Estado, dictando la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas sobre el medio ambiente, aunque sin embargo algunas Comunidades Autónomas habían dictado normas autonómicas, en uso de una conocida jurisprudencia constitucional, incorporando a su ámbito territorial el contenido de dicha Directiva.
+III
+En Cantabria el desarrollo de la normativa estatal en la materia ha sido escaso. Sólo cabe mencionar una norma relacionada con la evaluación de impacto ambiental. Una norma, además, de carácter reglamentario: el Decreto 50/1991, de 29 de abril, de evaluación de impacto ambiental para Cantabria; modificado luego por los Decretos 77/1996, de 8 de agosto, y 38/1999, de 12 de abril, para cambiar parcialmente el anexo de proyectos e instalaciones sujetos a evaluación ambiental. Pero el Decreto 50/1991 fue objeto de una sentencia del Tribunal Superior de Justicia de Cantabria que anuló algunas de sus previsiones. En efecto, la sentencia de 4 de abril de 2002 anuló las previsiones del Decreto 50/1991 en cuanto por él se ampliaba el elenco de actividades que, conforme a la normativa básica estatal, habían de someterse a evaluación ambiental. En particular, los planes de urbanismo. La anulación se produjo no tanto por haberse ampliado dicho elenco cuanto por haberse llevado a cabo por una norma de rango insuficiente, violando así el principio de reserva de ley que, con cita de la jurisprudencia del Tribunal Supremo (sentencia de 24 de octubre de 1996), la mencionada sentencia considera que cabe deducir con carácter general del artículo 9.3 de la Constitución para las materias que, como ésta, afecten a la libertad o a la propiedad. La inmediatamente posterior Ley de Cantabria 5/2002, de 24 de julio, de medidas cautelares urbanísticas en el ámbito del litoral, de sometimiento de los instrumentos de planificación territorial y urbanística a evaluación ambiental y de régimen urbanístico de los cementerios, previó ya de forma expresa lo que de manera implícita se deducía también, desde un año antes, de la Ley de Cantabria 2/2001, de 25 de junio, de ordenación territorial y régimen urbanístico del suelo: que los planes territoriales y urbanísticos debían someterse a evaluación ambiental, cubriendo así el posible vacío normativo producido tras la citada sentencia de 4 de abril de 2002. La mencionada Ley de Cantabria 5/2002 adelantó así el parcial cumplimiento de la antes citada Directiva 2001/42, de 27 de junio, relativa a la evaluación ambiental de los efectos de determinados planes y programas, en cuya virtud deben ser objeto de análisis ambiental todos los planes que afecten al territorio y uso del suelo.
+Esta es, en síntesis, la situación actual en la Comunidad Autónoma. Una situación de la que se deriva la vigencia y aplicación de una única norma autonómica en desarrollo de la legislación estatal (el Decreto 50/1991, de evaluación de impacto ambiental, modificado, en particular, por la Ley de Cantabria 5/2002) y la aplicación directa, en ausencia de Derecho autonómico, de la legislación estatal constituida por la ya mencionada Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, pero también por el viejo Reglamento de Actividades Clasificadas (el Decreto 2414/1961, de 30 de noviembre, de actividades molestas, insalubres, nocivas y peligrosas) que previó hace ya más de cuarenta años cierto control supramunicipal de un conjunto heterogéneo de actividades, en las que la necesaria licencia de apertura de establecimientos se sometía a prescripciones y trámites adicionales a los de la normativa general de régimen local.
+IV
+La presente Ley tiene por objeto rellenar los vacíos existentes y ejercitar decididamente las competencias que en materia de medio ambiente le atribuye a la Comunidad Autónoma de Cantabria su Estatuto de Autonomía, sobre la base del principio de prevención antes mencionado.
+Se regulan, pues, de manera conjunta e integrada las técnicas que permiten evaluar, estimar y considerar, con carácter previo a su implantación, las actividades e instalaciones con potencial incidencia en el medio ambiente y que puedan afectar, en consecuencia, a la calidad de vida de los ciudadanos.
+Las técnicas de control ambiental que la Ley contempla son tres y, junto con el registro de actividades ambientales, forman el sistema de control ambiental integrado. Un sistema que constituye la pormenorización técnica de una preocupación general por el entorno que, como ya se ha indicado, trasciende las fronteras nacionales para inscribirse decididamente en un marco supranacional y se plasma en la idea comúnmente aceptada del desarrollo sostenible.
+Tres son, como se ha dejado dicho, las técnicas de control ambiental que esta Ley contempla y regula: la autorización ambiental integrada, la evaluación ambiental, y la comprobación ambiental.
+Las dos primeras son de obligada inclusión en la medida en que suponen el desarrollo de una normativa estatal básica ya citada: la de evaluación de impacto ambiental, vigente desde 1986, y la de la llamada autorización ambiental integrada, que la Ley estatal 16/2002 traspone, igualmente con carácter básico, al Derecho español.
+La tercera, que esta Ley denomina comprobación ambiental, supone una especie de cláusula de cierre mediante la cual aquellas actividades que no hubieran quedado absorbidas por las dos técnicas anteriores y puedan eventualmente afectar, siquiera sea de manera indirecta, al medio ambiente se someterán a una previa comprobación y evaluación de su incidencia ambiental que será competencia de una comisión y que completa la tarea de sustitución del viejo Reglamento de actividades molestas, insalubres, nocivas y peligrosas de 1961.
+V
+El título I contempla el llamado sistema de control ambiental integrado, donde se especifican y describen las técnicas citadas, el ámbito de la ley, las competencias administrativas y se especifican algunas previsiones indispensables para el buen fin de la norma como la ilegalidad de las instalaciones, actividades u obras llevadas a cabo en contravención de las exigencias medioambientales previstas y la posibilidad de su suspensión inmediata. Asimismo, se contemplan en este título disposiciones de carácter instrumental como el registro ambiental y otras contempladas en aras del principio de transparencia y de participación ciudadana.
+El título II se dedica a la primera de las técnicas enunciadas: la autorización ambiental integrada, que supone un procedimiento unificado, desde la perspectiva ambiental, para la explotación de las instalaciones y actividades a que se refiere el anexo A de la presente ley. Se regula, en particular, y sin perjuicio de su necesario desarrollo reglamentario, el procedimiento de la autorización ambiental, la vigencia y revisión de la autorización y las obligaciones del titular de la instalación de que se trate.
+El título III regula la evaluación ambiental entendida como el conjunto de estudios e informes necesarios para formular una declaración de impacto ambiental en la que se fijen y determinen las condiciones de protección requeridas para la aprobación de los proyectos y actividades contemplados en el anexo B de esta Ley. Se sigue aquí de cerca el criterio anterior, aunque incidiendo en el procedimiento que pretende ser sencillo y clarificador. La declaración de impacto ambiental ha de venir precedida de un estudio de tal naturaleza elaborado por técnicos cualificados a cuyo efecto la ley prevé la creación de un registro público.
+Dentro de este título la ley incorpora previsiones en relación con la evaluación de planes y programas, de acuerdo con la Directiva 2001/42, de 27 de junio, cuyas determinaciones han sido incorporadas a la legislación estatal básica mediante la Ley 9/2006, de 28 de abril. La evaluación de este tipo de planes tiene un carácter menos rígido que el de otros proyectos. Se trata más bien de un informe de sostenibilidad que puede, sin embargo, condicionar la aprobación del plan en los términos de la legislación territorial y urbanística. De ahí que la singularidad más destacable que esta ley ha considerado oportuno incorporar, sea la de llevar a cabo dicho informe de sostenibilidad de los instrumentos de planeamiento territorial y urbanístico tan pronto como sean conocidas las previsiones y directrices que pretenda incorporar el plan, esto es, con anterioridad a la aprobación inicial del correspondiente instrumento. Una previsión que pretende impedir que se consoliden, con un coste adicional, previsiones insostenibles desde el punto de vista ambiental y que, de esa manera, da respuesta apropiada a la peculiaridad del planeamiento, cuya incidencia en el ambiente ha de valorarse desde parámetros y presupuestos diferentes a los que debe inspirar la de otro tipo de proyectos y actividades.
+El título IV, bajo la rúbrica «Comprobación ambiental», regula la tercera de las técnicas de control ambiental previstas en la ley. La idea motriz es que los Ayuntamientos incorporen a la licencia de apertura, exigida a toda actividad o instalación que no deba someterse al ámbito de aplicación de la autorización ambiental integrada o la evaluación de impacto ambiental, una comprobación que valore la incidencia en el ambiente de las actividades que se pretenden autorizar. En principio, será objeto de comprobación toda actividad que potencialmente afecte al medio ambiente. No obstante, y con finalidad aclaratoria, la ley enumera en un anexo C la lista de aquellas actividades sujetas a licencia que, en todo caso, serán objeto de comprobación. La ley permite que las ordenanzas municipales establezcan normas adicionales de protección y autoriza igualmente a la Comunidad Autónoma a aprobar una ordenanza general de protección ambiental que será de aplicación subsidiaria en todos los municipios que carezcan de una ordenanza específica.
+Desde una clara vocación de simplificación administrativa, con la decidida voluntad de reducir y agilizar los trámites administrativos, en aquellos procedimientos de escasa incidencia ambiental, se ha introducido la declaración responsable ambiental, así como la descripción de las actividades y umbrales que pueden someterse a la misma. Con ello se pretende que se puedan iniciar este tipo de actividades bajo la responsabilidad del técnico firmante, y sea posterior al inicio de la misma la comprobación de la adecuación de la misma a las exigencias establecidas, de forma que, con la actividad en funcionamiento se puedan subsanar las deficiencias detectadas en el caso de existir. Con la misma filosofía de facilitar a los ciudadanos y empresas las actividades sometidas a comprobación ambiental y declaración responsable ambiental se ha introducido en el anexo c, la Clasificación Nacional de Actividades Económicas (CNAE) de esta forma se clarifica en gran medida a que queda sometida las actividades pretendidas.
+Finalmente, la ley contempla un título V dedicado al control y disciplina ambientales.
+La efectividad de las técnicas de control ambiental a que esta ley se refiere pivota sobre un principio básico, el de la invalidez de cualesquiera autorizaciones o licencias expedidas sin que previamente se haya efectuado la preceptiva autorización ambiental integrada, evaluación de impacto ambiental o comprobación ambiental. Tal es el criterio general que articula el régimen de protección de la legalidad ambiental, que, junto con la indispensable tipificación de infracciones y sanciones, completa el cuadro de las medidas diseñadas para dotar de la mayor eficacia el entramado protector previsto en la ley.
+A este propósito, se prevén técnicas de control e inspección y un régimen sancionador en el que la ley opta por no atribuir en exclusiva a los órganos de la Comunidad Autónoma el ejercicio de la potestad sancionadora, sino que, en aras del principio de descentralización y máxima participación de las entidades locales, se permite, de un lado, que en el marco de los criterios de antijuridicidad establecidos en la propia norma, las ordenanzas municipales puedan tipificar nuevas infracciones de acuerdo con sus competencias sustantivas en la materia; y, de otro, que los Ayuntamientos tengan competencia para sancionar las infracciones leves, si bien de manera indistinta con la Comunidad Autónoma y con sujeción, en todo caso, a los indispensables mecanismos de coordinación.
+Varias disposiciones adicionales, transitorias y finales, se unen a la disposición que deroga cuantas disposiciones se opongan a lo previsto en esta ley, que se completa, finalmente, con los tres anexos que especifican su ámbito de aplicación.
+Se modifica el apartado V por el art. 25.1 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+
+## TÍTULO I
+
+Sistema de control ambiental integrado
+
+### Artículo 1
+
+Artículo 1. Objeto y finalidad.
+1. Es objeto de la presente Ley el establecimiento de un sistema de control ambiental integrado en relación con los planes, programas, proyectos, instalaciones y actividades susceptibles de incidir en la salud y seguridad de las personas y sobre el ambiente.
+2. Integran el sistema de control ambiental de Cantabria el conjunto de técnicas y procedimientos, de carácter preventivo, de funcionamiento y seguimiento, de intervención, de comprobación, de inspección y de fiscalización ambiental, así como los instrumentos o registros de acreditación y constancia previstos en la Ley.
+
+### Artículo 2
+
+Artículo 2. Definiciones.
+A los efectos de la presente Ley se entiende por:
+a) Actividad.–Explotación de una industria o servicio, establecimiento, instalación o, en general, cualquier actuación susceptible de afectar de forma significativa al medio ambiente.
+b) Autoridad competente sustantiva.–Aquella que, conforme la legislación aplicable al proyecto de que se trate, ha de conceder la autorización para su realización.
+c) Contaminación.–La introducción directa o indirecta, mediante la actividad humana, de sustancias, vibraciones, calor o ruido en la atmósfera, el agua o el suelo, que puedan tener efectos perjudiciales para la salud humana o la calidad del medio ambiente, o que puedan causar daños a los bienes materiales o deteriorar o perjudicar el disfrute y otras utilizaciones legítimas del medio ambiente.
+d) Emisión.–La expulsión a la atmósfera, al agua o al suelo de sustancias, vibraciones, calor o ruido procedentes de forma directa o indirecta de fuentes puntuales o difusas de la instalación.
+e) Estudio de impacto ambiental.–Es el documento técnico que debe presentar el titular del proyecto, y sobre la base del que se produce la declaración de impacto ambiental. Este estudio deberá identificar, describir y valorar de manera apropiada, y en función de las particularidades de cada caso concreto, los efectos notables previsibles que la realización del proyecto produciría sobre los distintos aspectos ambientales (efectos directos e indirectos; simples, acumulativos o sinérgicos; a corto, a medio o a largo plazo; positivos o negativos, permanentes o temporales, reversibles o irreversibles, recuperables o irrecuperables, periódicos o de aparición irregular, o continuos o discontinuos).
+f) Informe de sostenibilidad.–Informe elaborado por el promotor en el que se identifican, describen y evalúan los probables efectos significativos sobre el medio ambiente que puedan derivarse de la aplicación del plan o programa, así como sus alternativas razonables.
+g) Instalación.–Cualquier unidad técnica fija donde se desarrolle una o más de las actividades enumeradas en la presente Ley, así como cualesquiera otras actividades directamente relacionadas con aquéllas que guarden relación de índole técnica con las actividades llevadas a cabo en dicho lugar y puedan tener repercusiones sobre las emisiones y la contaminación.
+h) Mejores técnicas disponibles.–La fase más eficaz y avanzada de desarrollo de las actividades y de sus modalidades de explotación, que demuestren la capacidad práctica de determinadas técnicas para constituir, en principio, la base de los valores límite de emisión destinados a evitar o, cuando ello no sea posible, reducir en general las emisiones y el impacto en el conjunto del medio ambiente y de la salud de las personas.
+1.º Técnicas: A estos efectos, se entenderá por técnicas la tecnología utilizada, junto con la forma en que la instalación esté diseñada, construida, mantenida, explotada o paralizada.
+2.º Disponibles: Las técnicas desarrolladas a una escala que permita su aplicación en el contexto del correspondiente sector industrial, en condiciones económicas y técnicamente viables, tomando en consideración los costes y los beneficios, tanto si las técnicas se utilizan o producen en España, como si no, siempre que el titular pueda tener acceso a ellas en condiciones razonables.
+3.º Mejores: Las técnicas más eficaces para alcanzar un alto nivel general de protección del medio ambiente en su conjunto y de la salud de las personas.
+i) Memoria ambiental.–Es el pronunciamiento del órgano ambiental competente en el que se analiza el informe de sostenibilidad y el proceso de evaluación seguido al objeto de integrar los aspectos ambientales en la propuesta de plan o programa previendo los impactos significativos de su aplicación.
+j) Modificación no sustancial.–Cualquier modificación de las características o del funcionamiento, o de la extensión de la instalación, que, sin tener la consideración de sustancial, pueda tener consecuencias en la seguridad, la salud de las personas o el medio ambiente.
+k) Modificación sustancial.–Cualquier modificación realizada en una instalación que, en opinión del órgano competente para otorgar la autorización ambiental integrada y de acuerdo con los criterios establecidos en la presente Ley, pueda tener repercusiones perjudiciales o importantes en la seguridad, la salud de las personas o el medio ambiente.
+l) Proyecto.–Todo documento técnico que define o condiciona de modo necesario, particularmente en lo que se refiere a la localización, la realización de construcciones o de otras instalaciones y obras, así como otras intervenciones en el medio natural o en el paisaje, incluidas las destinadas a la explotación de los recursos naturales renovables y no renovables, y todo ello en el ámbito de las actividades recogidas en los anexos de la presente Ley.
+m) Sustancia.–Los elementos químicos y sus compuestos, con la excepción de las sustancias radioactivas reguladas en la Ley 25/1964, de 29 de abril, sobre Energía Nuclear, y de los organismos modificados genéticamente regulados en la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, a fin de prevenir los riesgos para la salud humana y el medio ambiente, y en sus correspondientes normas de desarrollo o normativa que las sustituya.
+n) Titular de la instalación.–Cualquier persona física o jurídica que explote o posea la instalación.
+ñ) Titular del proyecto o promotor.–Se considera como tal tanto a la persona física o jurídica que solicita una autorización relativa a un proyecto privado, como a la autoridad pública que toma la iniciativa respecto a la puesta en marcha de un proyecto.
+o) Valores límite de emisión.–La masa o la energía expresada en relación con determinados parámetros específicos, la concentración o el nivel de una emisión, cuyo valor no debe superarse dentro de uno o varios períodos determinados. Los valores límite de emisión de las sustancias de aplicarán generalmente en el punto en que las emisiones salgan de la instalación y en su determinación no se tendrá en cuenta una posible dilución. En lo que se refiere a los vertidos indirectos al agua, y sin perjuicio de la normativa relativa a la contaminación causada por determinadas sustancias peligrosas vertidas en el medio acuático, podrá tenerse en cuenta el efecto de una estación de depuración en el momento de determinar los valores límite de emisión de la instalación, siempre y cuando se alcance un nivel equivalente de protección del medio ambiente en su conjunto y ello no conduzca a cargas contaminantes más elevadas en el entorno.
+
+### Artículo 3
+
+Artículo 3. Técnicas de control ambiental.
+Las actividades, instalaciones, planes, programas y proyectos incluidos en el ámbito de aplicación de la Ley, de acuerdo con su grado de incidencia sobre el medio ambiente, la seguridad y la salud, deben someterse al régimen de autorización ambiental integrada, al régimen de evaluación ambiental o al régimen de comprobación ambiental, según lo dispuesto en la presente Ley.
+
+### Artículo 4
+
+Artículo 4. Autorización ambiental integrada.
+1. La autorización ambiental integrada es la resolución por la que, a los solos efectos de la protección del ambiente y de la salud de las personas y bajo los requisitos y condiciones en la misma establecidos, se permite la explotación de la totalidad o parte de una instalación.
+2. La autorización ambiental integrada incluirá, cuando fuere necesaria, la evaluación y declaración de impacto ambiental.
+
+### Artículo 5
+
+Artículo 5. Evaluación ambiental.
+1. La evaluación ambiental es el conjunto de estudios e informes necesarios para formular una declaración de impacto ambiental o una memoria ambiental en los que se determinen las condiciones de protección ambiental requeridas para la aprobación y ejecución de determinados planes, programas, proyectos, instalaciones o actividades.
+2. La evaluación ambiental de los planes y programas se sujetará al procedimiento que con carácter específico se regula en esta Ley.
+
+### Artículo 6
+
+Artículo 6. Comprobación ambiental.
+La comprobación ambiental es el trámite o serie de trámites que, en el seno del procedimiento de una autorización municipal de apertura o actividad, determina las condiciones de protección ambiental a las que deben sujetarse cualesquiera instalaciones o actividades que puedan ser causa de molestias, riesgos o daños para las personas, sus bienes o el ambiente y no estén sometidas a alguno de los controles previstos en los artículos anteriores.
+
+### Artículo 7
+
+Artículo 7. Competencia administrativa.
+1. Corresponde a la Administración de la Comunidad Autónoma el otorgamiento de la autorización ambiental integrada.
+2. La evaluación de impacto ambiental es competencia de la Administración de la Comunidad Autónoma, salvo que, de conformidad con la legislación estatal básica, deba ser realizada por la Administración General del Estado. En los procedimientos de evaluación de impacto ambiental se insertará el preceptivo informe de las entidades locales afectadas.
+3. La comprobación ambiental será competencia de la Administración de la Comunidad Autónoma. La misma se ejercerá a través de la comisión para la comprobación ambiental.
+
+### Artículo 8
+
+Artículo 8. Sujeción de actividades.
+1. Los proyectos, instalaciones y actividades recogidos en el anexo A de esta Ley se sujetarán a autorización ambiental integrada.
+2. Los planes, programas, proyectos, instalaciones y actividades que constan en el anexo B de esta Ley se someterán a evaluación ambiental.
+3. Las instalaciones o actividades que constan en el anexo C se sujetarán a la comprobación ambiental a que se refiere el artículo 6.
+4. Los proyectos de reforma, transformación y ampliación de instalaciones y actividades se sujetarán también al control ambiental pertinente, de acuerdo con lo establecido en los apartados anteriores de este artículo.
+5. El fraccionamiento de proyectos o actividades de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en los anexos de esta Ley, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos o actividades considerados.
+Se modifica el apartado 3 por el art. 14.2 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 9
+
+Artículo 9. Valores límite de emisión y prescripciones técnicas.
+1. Las condiciones de protección ambiental se determinarán en cada caso de conformidad con los valores límite de emisión, y con las prescripciones técnicas de carácter general contemplados en la legislación sectorial.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, los valores límite de emisión y las prescripciones técnicas podrán también establecerse mediante acuerdos suscritos entre la Administración y las empresas o asociaciones empresariales de los distintos sectores industriales, siempre que reporten un nivel de protección superior. Los valores y prescripciones así establecidos se incorporarán al contenido de las licencias y autorizaciones que requiera el ejercicio de la correspondiente actividad.
+
+### Artículo 10
+
+Artículo 10. Autorizaciones y licencias.
+1. El otorgamiento de las autorizaciones y licencias que fueren necesarias para la ejecución de planes y proyectos o la instalación y funcionamiento de actividades sujetos a algún tipo de control ambiental quedará condicionado a la correspondiente autorización ambiental integrada, a la realización de la oportuna evaluación de impacto ambiental o a la comprobación ambiental.
+2. Las obras, instalaciones y actividades llevadas a cabo en contravención de lo dispuesto en el apartado anterior serán ilegales, y la Administración competente en materia de medio ambiente podrá instar a la autoridad sustantiva la suspensión en tanto no se haya verificado el oportuno control ambiental.
+3. Los cambios de titularidad de las actividades sujetas a control ambiental serán comunicados en el plazo de tres meses a la Administración que hubiere efectuado dicho control.
+
+### Artículo 11
+
+Artículo 11. Registro ambiental.
+El Registro ambiental, que se llevará en la Consejería competente en materia de medio ambiente, recogerá cuantas actuaciones de intervención, comprobación, inspección y fiscalización se hayan llevado a cabo por la Administración de la Comunidad Autónoma y los Ayuntamientos en aplicación de la presente Ley. A estos efectos, los Ayuntamientos comunicarán, en los términos dispuestos reglamentariamente, los actos de control ambiental que hayan realizado en el ejercicio de sus competencias.
+
+### Artículo 12
+
+Artículo 12. Participación social.
+1. Las asociaciones representativas de intereses ambientales y los vecinos, integrados o no en ellas, así como aquellas otras asociaciones o instituciones que puedan tener interés en el plan, programa, proyecto, actividad o instalación, podrán exigir que las Administraciones competentes en materia ambiental insten a las autoridades sustantivas el cumplimiento de los términos y condiciones que figuren en las autorizaciones ambientales integradas, y en las autorizaciones y licencias municipales que incorporen la preceptiva comprobación ambiental.
+2. Asimismo, podrán solicitar la modificación o revocación de las autorizaciones y licencias a que se refiere el apartado anterior cuando sobrevinieren circunstancias que hagan notoriamente insuficientes las medidas de protección ambiental incorporadas a tales instrumentos.
+
+### Artículo 13
+
+Artículo 13. Cooperación interadministrativa.
+Para la consecución de una protección ambiental efectiva las Administraciones Públicas competentes ajustarán sus actuaciones a los principios de información mutua, cooperación y colaboración. En particular, deberán prestarse la debida asistencia para asegurar la eficacia y coordinación de sus intervenciones en la tramitación de la autorización ambiental integrada y de la evaluación ambiental.
+
+### Artículo 14
+
+Artículo 14. Colaboración interautonómica.
+Cuando un plan, programa, proyecto, actividad o instalación sujeto a control ambiental pueda tener efectos significativos en el medio ambiente de otra Comunidad Autónoma, el órgano ambiental remitirá a la misma tanto el contenido del mismo como el estudio ambiental a fin de que pueda emitir su opinión al respecto.
+
+### Artículo 15
+
+Artículo 15. Asesoramiento de la Administración.
+Para la tramitación de cualesquiera de las figuras de control ambiental reguladas en esta Ley, la Administración asesorará al promotor sobre el alcance específico que deban tener los estudios a presentar y le facilitará toda la información y documentación que obre en su poder y resulte de utilidad para la redacción de los mismos.
+
+## TÍTULO II
+
+Autorización ambiental integrada
+
+### Artículo 16
+
+Artículo 16. Objeto.
+1. El establecimiento y funcionamiento de las instalaciones y actividades del anexo A de la presente Ley requerirá la previa obtención de una autorización ambiental integrada que determine las condiciones a las que deban someterse de conformidad con lo dispuesto en la legislación ambiental y de prevención y control integrado de la contaminación.
+2. Quedarán sujetas asimismo a autorización ambiental integrada las modificaciones sustanciales que se proyecten introducir en las instalaciones o actividades a que se refiere el apartado anterior.
+3. Tendrán carácter sustancial las modificaciones que supongan una mayor incidencia de la instalación o de su actividad sobre la seguridad, la salud de las personas y el medio ambiente considerando los siguientes aspectos:
+a) El tamaño y producción de la instalación.
+b) Los recursos naturales utilizados por la misma.
+c) Su consumo de agua y energía.
+d) El volumen, peso y tipología de los residuos generados.
+e) La calidad y capacidad regenerativa de los recursos naturales de las áreas geográficas que puedan verse afectadas.
+f) El grado de contaminación producido.
+g) El riesgo de accidente.
+h) La incorporación o aumento en el uso de sustancias peligrosas.
+4. En todo caso, cualquier modificación de las características de una instalación o actividad sujeta a autorización ambiental integrada que no revista carácter sustancial, según lo dispuesto en el apartado anterior, deberá ser puesta en conocimiento de la Administración de la Comunidad Autónoma. Si la Administración entendiera que la modificación tiene carácter sustancial comunicará al titular, en el plazo máximo de un mes, la necesidad de obtener la preceptiva autorización ambiental integrada. La falta de notificación en plazo de la resolución autorizará al interesado a llevar a cabo las modificaciones pretendidas.
+
+### Artículo 17
+
+Artículo 17. Contenido.
+1. La autorización ambiental integrada incluirá en su tramitación cuantos informes o decisiones se requieran por exigirlo la legislación de control de los riesgos derivados de accidentes graves con presencia de sustancias peligrosas, la legislación de aguas o cualquier otra legislación especial o sectorial de prevención y control de la contaminación, de protección ambiental, de protección de la salud, de protección civil o de protección del patrimonio cultural. Asimismo, incorporará la declaración de impacto ambiental, caso de que también fuera necesaria la evaluación de éste.
+2. La autorización ambiental integrada incluirá las determinaciones pertinentes en relación con los extremos siguientes:
+a) Prevención de la contaminación, en particular mediante la aplicación de las mejores técnicas disponibles.
+b) Evitación de la producción de residuos y, en su caso, gestión de su reciclado, reutilización, valorización o eliminación a fin de evitar o reducir su repercusión en el ambiente, de acuerdo con lo previsto en la normativa aplicable.
+c) Utilización eficiente de la energía, el agua, las materias primas y demás recursos.
+d) Adopción de las medidas necesarias para prevenir los accidentes o limitar sus consecuencias sobre la salud de las personas y el medio ambiente, de conformidad a la normativa que sea de aplicación.
+e) Restauración del espacio afectado una vez producida la cesación de la explotación, en particular mediante la adopción de las medidas necesarias para evitar los riesgos de contaminación.
+3. La autorización ambiental integrada podrá incluir moratorias o dispensas temporales respecto de los valores límite de emisión, en los términos de la legislación estatal básica.
+4. La autorización ambiental integrada incorporará la exigencia de requisitos adicionales de no garantizarse la consecución de los objetivos de calidad ambiental mediante el empleo de las mejores técnicas disponibles.
+
+### Artículo 18
+
+Artículo 18. Procedimiento.
+El procedimiento para el otorgamiento de la autorización ambiental integrada se determinará reglamentariamente y se sujetará a las siguientes reglas:
+a) Cuando sea necesario evaluar el impacto ambiental del proyecto, actividad o instalación objeto de la autorización ambiental, el órgano ambiental, a petición del interesado señalará, en el plazo máximo de un mes, cuáles deban ser las directrices básicas para la elaboración del correspondiente estudio de impacto ambiental por parte del titular.
+El procedimiento de tramitación de la evaluación de impacto ambiental se incluirá en el procedimiento de la autorización ambiental integrada, cuando la competencia corresponda a la Comunidad Autónoma de Cantabria.
+b) De conformidad con lo dispuesto en la legislación estatal básica, la solicitud irá acompañada de los documentos siguientes:
+1.º Proyecto básico de la actividad a desarrollar y de sus instalaciones firmado por técnico competente y visado por el colegio oficial, reflejando los aspectos que reglamentariamente se determinen.
+2.º Certificación municipal que acredite la compatibilidad del proyecto con el planeamiento urbanístico o, en defecto de ella por inactividad de la Administración, copia de la solicitud presentada para obtenerla.
+3.º La documentación exigida por la legislación ambiental sectorial.
+4.º Declaración de datos que, a criterio del solicitante, deban tener carácter reservado según la ley.
+5.º Resumen específico del proyecto que facilite su comprensión y divulgación en el trámite de información pública.
+6.º Cualquier otra documentación exigible con arreglo a la legislación vigente.
+c) La solicitud de autorización ambiental integrada, junto con el estudio de impacto ambiental, en su caso, será sometida a información pública por un plazo mínimo de treinta días, anunciándose la apertura del trámite en el Boletín Oficial de Cantabria, así como en un diario de amplia difusión en la Comunidad Autónoma.
+d) Concluido el trámite de información pública se evacuarán los informes y consultas de cuantos organismos deban ser oídos de acuerdo con la legislación sectorial.
+e) El órgano ambiental competente realizará una valoración ambiental del proyecto en su conjunto teniendo en cuenta la documentación aportada, el resultado de la información pública y todos los informes emitidos. Dicha valoración considerará los aspectos propios de la evaluación de impacto ambiental cuando la instalación o actividad deba ser objeto de ella.
+f) Los resultados de la valoración ambiental se reflejarán en la propuesta de resolución, que se notificará al interesado para que formule alegaciones en el plazo de quince días.
+g) Cuando en el trámite de audiencia se hubieran realizado alegaciones, se dará traslado de las mismas a los órganos competentes para emitir informes vinculantes a fin de que en el plazo máximo de quince días manifiesten lo que estimen conveniente en los aspectos referidos a materias de su competencia, lo que igualmente tendrá carácter vinculante.
+h) La resolución que otorgue la autorización ambiental integrada incorporará las determinaciones o condiciones propuestas en los informes vinculantes y las que se juzguen convenientes a la vista de los demás informes y de las alegaciones obrantes en el expediente. Asimismo, incorporará la declaración de impacto ambiental cuando la naturaleza de la instalación o actividad objeto de la solicitud así lo requiera.
+i) El órgano ambiental competente dictará y notificará la resolución en el plazo máximo de diez meses a contar desde la fecha de presentación de la solicitud. Si vencido este plazo no se hubiera notificado la resolución, la solicitud podrá considerarse desestimada por silencio administrativo.
+j) La resolución que otorgue o modifique la autorización ambiental integrada será publicada en el Boletín Oficial de Cantabria.
+
+### Artículo 19
+
+Artículo 19. Ejecución del proyecto, instalación o actividad.
+No podrán otorgarse las autorizaciones y licencias que sean necesarias para la ejecución de los proyectos o la instalación o funcionamiento de las actividades que requieran una autorización ambiental integrada en tanto no se haya publicado oficialmente la resolución que la otorgue.
+
+### Artículo 20
+
+Artículo 20. Acta de conformidad ambiental.
+1. Ninguna actividad o instalación autorizada podrá comenzar a funcionar en tanto no se haya comprobado por los servicios ambientales la efectividad de las medidas correctoras exigidas con arreglo a lo establecido en el capítulo I del título V de esta Ley y en la forma que reglamentariamente se determine.
+2. Las empresas suministradoras de energía eléctrica, agua, gas, telefonía y otros servicios similares exigirán el acta de conformidad ambiental de la instalación o actividad para la contratación definitiva de los referidos servicios.
+
+### Artículo 21
+
+Artículo 21. Renovación.
+1. La autorización ambiental integrada, con todas sus condiciones, se otorgará por un plazo máximo de ocho años, transcurrido el cual deberá ser renovada y, en su caso, actualizada por períodos sucesivos.
+2. La renovación debe ser solicitada con una antelación mínima de diez meses sobre la fecha de vencimiento del plazo para el que se otorgó la autorización y se tramitará por el procedimiento simplificado que reglamentariamente se determine.
+3. Si vencido el término de vigencia de la autorización ambiental integrada, el órgano ambiental competente no hubiera dictado resolución expresa sobre la renovación, se entenderá ésta otorgada en las condiciones originarias.
+
+### Artículo 22
+
+Artículo 22. Modificación de oficio.
+1. La autorización ambiental integrada podrá ser modificada de oficio cuando:
+a) La contaminación producida por la instalación aconseje modificar los valores límite de emisión impuestos o la adopción de otros nuevos.
+b) La aplicación de las mejores técnicas disponibles permita reducir significativamente las emisiones sin costes excesivos.
+c) La seguridad de funcionamiento del proceso o la actividad hagan necesario emplear otras técnicas.
+d) El organismo de cuenca estime que, conforme lo establecido en la legislación de aguas, existen circunstancias que justifiquen la revisión o modificación en lo referente a los vertidos al dominio público hidráulico de cuencas intercomunitarias.
+e) Lo exija la legislación vigente de aplicación a la instalación.
+2. Antes de proceder a la modificación de la autorización ambiental integrada, el órgano ambiental competente notificará al titular de la autorización las modificaciones que se proponga introducir en ella y a los distintos órganos que, en su caso, hayan concedido autorizaciones o licencias para la puesta en marcha de la actividad objeto de la misma con el fin de que valoren la necesidad de modificar también las referidas autorizaciones o licencias.
+
+### Artículo 23
+
+Artículo 23. Obligaciones del titular de la instalación.
+Los titulares de las instalaciones incluidas en el anexo A de la presente Ley deberán:
+a) Disponer de la autorización ambiental integrada y cumplir las condiciones establecidas en la misma.
+b) Cumplir las obligaciones de control y suministro de información previstas en la legislación sectorial o resultantes de la propia autorización ambiental integrada.
+c) Comunicar al órgano ambiental competente cualquier modificación, sustancial o no, que se proponga realizar en la instalación.
+d) Comunicar al órgano ambiental competente la transmisión de su titularidad.
+e) Informar inmediatamente al órgano ambiental competente de cualquier incidente o accidente que pueda afectar al ambiente.
+f) Prestar la asistencia y colaboración necesarias a quienes realicen las actuaciones de vigilancia, inspección y control.
+g) Informar de manera particular a los trabajadores a su servicio, y a sus representantes legales, una vez concedido el instrumento de intervención ambiental correspondiente, de todos los condicionantes y circunstancias incluidos en el mismo, o que posteriormente se incorporaran a su contenido, que puedan afectar a su salud o su seguridad, sin perjuicio del cumplimiento del resto de obligaciones establecidas en la normativa en materia de prevención de riesgos laborales y seguridad laboral.
+h) Cumplir cualesquiera otras obligaciones legalmente establecidas.
+
+## TÍTULO III
+
+Evaluación ambiental
+
+## CAPÍTULO PRELIMINAR
+
+### Artículo 24
+
+Artículo 24. Objeto.
+1. La evaluación ambiental tiene por objeto reunir los estudios e informes técnicos precisos para identificar y evaluar todos los efectos ambientales que puedan seguirse de la ejecución de un determinado plan, programa, proyecto, instalación o actividad con el fin de que, antes de proceder a su aprobación, pueda ser conocido el alcance de dichos efectos y establecerse, en su caso, la necesidad de imponer determinadas condiciones o medidas para su corrección o compensación.
+2. Se someterán a evaluación ambiental los planes, programas y proyectos de obras, instalaciones y actividades relacionados en el anexo B de la presente Ley.
+3. Por iniciativa del Consejero competente en materia de medio ambiente, debidamente motivada, se podrá someter a evaluación ambiental de planes o programas, o a evaluación de impacto ambiental de proyectos, actividades o instalaciones, cualquier actuación que, sin estar incluida en los anexos de la presente Ley, se considere que puede tener repercusiones significativas sobre el medio ambiente.
+Se añade el apartado 3 por el art. 8.1 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
+
+## CAPÍTULO I
+
+De la evaluación ambiental de planes y programas
+
+### Artículo 25
+
+Artículo 25. Procedimiento de evaluación.
+La evaluación ambiental estratégica de planes y programas se ajustará a lo establecido en la legislación básica estatal. No obstante, se observarán específicamente los siguientes plazos:
+a) Cuando se sustancie el procedimiento de evaluación ambiental estratégica ordinaria para la formulación de la declaración ambiental estratégica, en la elaboración del documento de alcance del estudio ambiental estratégico, el plazo al que ha de someterse el borrador del instrumento de planeamiento y el documento inicial estratégico a consultas de las Administraciones públicas afectadas y de las personas interesadas, será de un mes desde su recepción.
+b) Cuando se sustancie el procedimiento de evaluación ambiental estratégica simplificada, para la emisión del informe ambiental estratégico, el plazo durante el que el órgano ambiental consultará a las Administraciones públicas afectadas y a las personas interesadas, poniendo a su disposición el documento ambiental estratégico y el borrador del plan será de 20 días.
+Se modifica el apartado b) por el art. 20.1 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478.
+ Se modifica por el art. 30 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
+ Se modifica el apartado 3.a) por el art. 8.2 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
+
+### Artículo 26
+
+Artículo 26. Especialidad de los planes generales de ordenación urbana y planes supramunicipales.
+Los planes generales de ordenación urbana y los planes supramunicipales serán sometidos al procedimiento de evaluación previsto en la legislación básica estatal, con las particularidades siguientes:
+a) El estudio ambiental estratégico del artículo 20 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, relativo a los planes generales de ordenación urbana y planes supramunicipales se someterá a la previa consideración del órgano ambiental a los efectos de verificar la inclusión de las determinaciones del Anexo IV de dicha Ley y del documento de alcance. Para ello, el promotor presentará ante el órgano ambiental el estudio ambiental estratégico acompañado del borrador de la aprobación inicial del plan.
+El órgano ambiental emitirá informe en un plazo máximo de treinta días hábiles y sus determinaciones se incorporarán al estudio ambiental estratégico, y consecuentemente, a la aprobación inicial del plan que deba someterse a la información pública contemplada en la legislación ambiental estratégica.
+b) El trámite de consultas se desarrollará conjuntamente con el de información pública establecido en la legislación urbanística.
+c) Concluido el trámite de consultas e información pública, el órgano ambiental elaborará la declaración ambiental estratégica del plan evaluado y la enviará al órgano competente para su aprobación provisional que, antes de proceder a la misma, tendrá en cuenta el estudio ambiental estratégico, las alegaciones formuladas en las consultas y la declaración ambiental estratégica.
+Se modifica por el art. 20.2 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478.
+ Se modifica por el art. 3 de la Ley 4/2013, de 20 de junio. Ref. BOE-A-2013-7913.
+
+### Artículo 26 bis
+
+Artículo 26 bis. Instrumentos de planeamiento y ordenación urbanística y territorial sometidos a evaluación ambiental estratégica.
+De conformidad con el artículo 6 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, en el territorio de la Comunidad Autónoma de Cantabria, el ámbito de aplicación de la evaluación ambiental estratégica para los instrumentos urbanísticos y territoriales será el siguiente:
+1. Serán objeto de evaluación ambiental estratégica ordinaria:
+a) El Plan Regional de Ordenación Territorial.
+b) El Plan de Ordenación del Litoral.
+c) Las Normas Urbanísticas Regionales.
+d) Los Planes Territoriales Parciales.
+e) Los Planes Territoriales Especiales.
+f) Los Proyectos Singulares de Interés Regional.
+g) Otros Planes y Programas Sectoriales de Incidencia Supramunicipal.
+h) Los Planes Generales de Ordenación Urbana.
+i) Los Planes Parciales, salvo los incluidos en el punto b) del apartado 2.
+j) Los Planes Especiales, salvo los incluidos en el punto c) del apartado 2.
+k) Las modificaciones puntuales de los instrumentos anteriores que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental y se refieran a la agricultura, ganadería, silvicultura, acuicultura, pesca, energía, minería, industria, transporte, gestión de residuos, gestión de recursos hídricos, ocupación del dominio público marítimo terrestre, utilización del medio marino, telecomunicaciones, turismo, ordenación del territorio urbano y rural, o del uso del suelo.
+l) Las modificaciones puntuales de los instrumentos anteriores cuando afecten a espacios de la Red Natura 2000 en los términos previstos en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+m) Los supuestos comprendidos en el apartado 2 cuando así lo decida, caso por caso, el órgano ambiental en el informe ambiental estratégico de acuerdo con los criterios del anexo V de la Ley 21/2013, de 9 de diciembre.
+n) Los instrumentos incluidos en el apartado 2, cuando así lo determine el órgano ambiental, a solicitud del promotor.
+2. Serán objeto de evaluación ambiental estratégica simplificada:
+a) Las modificaciones puntuales de los Planes y Programas del apartado 1, salvo las indicadas en las letras k) y l).
+b) Los planes parciales y sus modificaciones que desarrollen las determinaciones de la ordenación contenida en el planeamiento general o sus modificaciones, que previamente hayan sido sometidos a evaluación ambiental estratégica.
+c) Los Planes especiales y sus modificaciones que desarrollen las previsiones contenidas en los Planes Generales de Ordenación Urbana que previamente hayan sido sometidos a evaluación ambiental estratégica ordinaria.
+d) Los Estudios de detalle especiales y sus modificaciones, salvo que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental.
+e) Las Áreas de Desarrollo Rural y sus modificaciones, salvo que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental.
+f) Los planes que, estableciendo un marco para la autorización en el futuro de proyectos, no cumplan los demás requisitos mencionados en el apartado anterior.
+g) Las Delimitaciones Gráficas de Suelo Urbano y sus modificaciones.
+Se modifican las letras b), c) y g) del apartado 2 por el art. 81.1 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a8-3
+ Se modifica, en la redacción dada a la disposición adicional 2.1 de la Ley 5/2022, de 15 de julio, por el art. 23.32 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se modifica, con efectos de 22 de septiembre de 2022, por la disposición adicional 2.1 de la Ley 5/2022, de 15 de julio. Ref. BOE-A-2022-13844#da-2
+ Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 26 ter
+
+Artículo 26 ter. Plazos de las fases y trámites de la evaluación ambiental estratégica ordinaria.
+El plazo máximo previsto en el artículo 17.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para la elaboración del estudio ambiental estratégico, y para la realización de la información pública y de las consultas previstas en los artículos 20, 21, 22 y 23 será de quince meses desde la notificación al promotor del documento de alcance, en el caso de los instrumentos de planeamiento de desarrollo, de treinta meses para los proyectos singulares de interés regional, de cuarenta y cinco meses para los planes generales y de sesenta meses para el Plan Regional de Ordenación del Territorio.
+Se modifica, en la redacción dada a la disposición adicional 2.2 de la Ley 5/2022, de 15 de julio, por el art. 23.32 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 26 quater
+
+Artículo 26 quater. Informes preceptivos.
+1. El órgano ambiental solicitará los informes preceptivos, contemplados en la legislación sectorial del plan o programa que hayan de ser tenidos en cuenta específicamente en la evaluación ambiental. A tal objeto, el promotor, simultáneamente al trámite de información pública y consultas, trasladará copia del documento aprobado para dicha información pública del plan o programa, y de su correspondiente estudio ambiental estratégico al órgano ambiental, quien la remitirá a los órganos y entidades que deban participar en la evaluación ambiental de acuerdo con lo establecido en la legislación sectorial.
+2. Debido a la posible reiteración de la solicitud de los mencionados informes, por parte del promotor y/o del órgano sustantivo, será suficiente que el informe que se remita al órgano ambiental sea una ratificación y se acompañe de una copia del emitido en primer lugar.
+Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 26 quinquies
+
+Artículo 26 quinquies. Publicidad de la declaración ambiental estratégica y de la aprobación del plan.
+1. El plazo previsto en el artículo 25.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano ambiental remita la declaración ambiental estratégica para su publicación en el Boletín Oficial de Cantabria será de diez días hábiles una vez formulada aquélla, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+2. El plazo previsto en el artículo 26.2 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano sustantivo remita para su publicación en el Boletín Oficial de Cantabria la documentación enunciada en dicho precepto será de diez días hábiles desde la adopción o aprobación de un plan o programa sometido a evaluación ambiental estratégica ordinaria.
+Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 26 sexies
+
+Artículo 26 sexies. Consultas a las Administraciones publicas afectadas y a las personas interesadas en la evaluación ambiental estratégica simplificada.
+El plazo previsto en el artículo 30 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que las Administraciones públicas afectadas y las personas interesadas se pronuncien será de veinte días hábiles desde la recepción de la solicitud de informe, a las que se pondrá a su disposición el documento ambiental estratégico y el borrador del plan o programa.
+Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 26 septies
+
+Artículo 26 septies. Publicidad del informe ambiental estratégico y de la aprobación del plan.
+1. El plazo previsto en el artículo 31 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano ambiental remita el informe ambiental estratégico para su publicación en el Boletín Oficial de Cantabria será de diez días hábiles desde que fue formulado, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
+2. El plazo previsto en el artículo 32 de la Ley de Cantabria 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano sustantivo remita para su publicación en el Boletín Oficial de Cantabria la documentación enunciada en dicho precepto será de diez días hábiles desde la aprobación del plan.
+Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+## CAPÍTULO II
+
+De la evaluación de impacto ambiental de proyectos, actividades o instalaciones
+
+### Artículo 27
+
+Artículo 27. Procedimiento de evaluación.
+1. Los proyectos, actividades o instalaciones cuyo impacto ambiental deba ser evaluado de conformidad con el anexo B2 de esta Ley se someterán al procedimiento previsto en este capítulo.
+2. Reglamentariamente se determinarán los trámites y actuaciones de dicho procedimiento que, en todo caso, incorporará:
+a) Documento justificativo de apertura del expediente de autorización del proyecto, actividad o instalación en el órgano con competencia sustantiva.
+b) Un estudio de impacto ambiental.
+c) Un trámite de información pública.
+d) Una declaración de impacto ambiental.
+
+### Artículo 28
+
+Artículo 28. Estudio de impacto ambiental.
+1. Los proyectos, actividades o instalaciones cuyo impacto ambiental deba ser evaluado incluirán el correspondiente estudio de impacto ambiental.
+2. El estudio será redactado por profesionales o equipos de profesionales con acreditada capacidad y solvencia técnica ambiental y contendrá como mínimo las siguientes determinaciones o datos:
+a) La descripción general del proyecto y sus previsibles exigencias en relación con la utilización del suelo y de otros recursos naturales.
+b) La estimación de los tipos y cantidades de residuos vertidos y emisiones de materia o energía resultantes.
+c) La exposición de las principales alternativas estudiadas y una justificación de las principales razones de la solución adoptada, teniendo en cuenta los efectos ambientales.
+d) La evaluación de los efectos previsibles directos e indirectos del proyecto sobre la población, la flora, la fauna, el suelo, el aire, el agua, los factores climáticos, el paisaje y los bienes materiales, incluido el patrimonio histórico-artístico y el arqueológico, así como el detalle de la interacción entre todos estos factores.
+e) La relación pormenorizada y el análisis de las medidas previstas para reducir, eliminar o compensar los efectos ambientales y sobre la salud significativos.
+f) El programa de vigilancia ambiental a desarrollar durante la ejecución del proyecto y con posterioridad.
+g) Un resumen del estudio y conclusiones en términos fácilmente comprensibles.
+h) Informe detallado de las dificultades informativas o técnicas encontradas en la elaboración del mismo, caso de que hubieran existido.
+i) Cualesquiera otras exigidas por la legislación comunitaria, la legislación estatal básica o la legislación autonómica sectorial.
+3. El promotor de la actividad evaluada y los redactores del estudio de impacto ambiental responderán ante la Administración del contenido y de la fiabilidad del mismo en los términos previstos en la disposición adicional primera de esta Ley.
+
+### Artículo 29
+
+Artículo 29. Información pública.
+1. El estudio de impacto ambiental será sometido, dentro del procedimiento aplicable para la autorización o realización del proyecto, actividad o instalación que corresponda y conjuntamente con éste, al trámite de información pública y demás informes que en aquél se establezcan.
+2. Si en el procedimiento sustantivo no estuviera prevista la información pública, el órgano ambiental competente procederá directamente a someter el estudio de impacto ambiental al trámite de información pública durante un período mínimo de un mes y no superior a dos meses. Quedarán excluidos del trámite de información pública los datos y la documentación cuya confidencialidad deba preservarse de conformidad con la legislación vigente.
+
+### Artículo 30
+
+Artículo 30. Declaración de impacto ambiental.
+1. La evaluación concluirá con la adopción por el órgano ambiental competente de una declaración de impacto ambiental sobre la conveniencia o no de realizar el proyecto, la actividad o la instalación evaluados y, en su caso, sobre las condiciones a que debe someterse su ejecución o desarrollo para evitar, reducir y compensar los efectos ambientalmente indeseables.
+2. La declaración de impacto ambiental se remitirá al órgano competente para aprobar o autorizar el proyecto, la instalación o la actividad evaluados. Si este último no estuviera conforme con el contenido de la declaración de impacto podrá plantear su discrepancia al órgano ambiental.
+Si el órgano ambiental la estimare, procederá a modificar la declaración de impacto ambiental.
+Si mantuviere su criterio, elevará el expediente al Consejo de Gobierno para la resolución de la discrepancia.
+3. La declaración de impacto ambiental se publicará en el Boletín Oficial de Cantabria y se incorporará a la autorización, aprobación, licencia o concesión del proyecto, instalación o actividad.
+4. La declaración de impacto ambiental señalará el plazo para el inicio de la ejecución de los proyectos, instalaciones o actividades. Transcurrido el mismo sin haberse iniciado la ejecución por causas imputables a su promotor, la declaración perderá toda su eficacia. No obstante, si existieran causas debidamente justificadas, el órgano autorizante podrá prorrogar el referido plazo antes de su expiración.
+5. Las condiciones generales o específicas establecidas en la declaración de impacto ambiental deberán adaptarse a las innovaciones aportadas por el progreso científico o técnico que incidan sobre la actividad evaluada, siempre que sean técnica y económicamente viables.
+6. La declaración de impacto ambiental se adoptará y notificará dentro de los seis meses siguientes a la fecha de la recepción en el órgano ambiental del expediente completo remitido por el órgano competente para aprobar o autorizar el proyecto, la actividad o la instalación o, en su caso, presentado directamente por el promotor.
+7. En ningún caso se entenderán adquiridas por silencio administrativo licencias o autorizaciones que contravengan lo dispuesto en la legislación ambiental y en los oportunos mecanismos de control ambiental cuando adolezcan de vicios esenciales determinantes de su nulidad o constituyan infracción ambiental grave.
+Se modifica el apartado 6 por el art. 81.2 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a8-3
+
+## TÍTULO IV
+
+Comprobación ambiental
+
+### Artículo 31
+
+Artículo 31. Objeto.
+1. La realización de actividades o el establecimiento y funcionamiento de instalaciones, así como para su modificación sustancial, que puedan ser causa de molestias, riesgos o daños para las personas, sus bienes o el medio ambiente y no precisen de autorización ambiental integrada ni declaración de impacto ambiental, exigirán la previa comprobación y evaluación de su incidencia ambiental, únicamente en el caso en que se encuentren incluidas en el anexo C, que podrá modificarse por medio de una Orden del Consejero con competencias en materia de medio ambiente.
+2. Se considerarán de carácter sustancial las modificaciones de una actividad o instalación cuando concurra alguna de las siguientes circunstancias:
+a) Cuando el titular de la instalación pretenda introducir un cambio no previsto en el informe de comprobación ambiental, que afecte a las características, a los procesos productivos, al funcionamiento o a la extensión de la instalación, representando una mayor incidencia sobre el medio ambiente.
+b) Cuando deba obtener la autorización de gestor de residuos para su tratamiento in situ.
+c) Cuando se produzca un incremento del volumen de la actividad o de las dimensiones de la instalación, superior al treinta y tres por ciento.
+d) Cuando se produzca un incremento de la producción o de la generación anual de residuos peligrosos que supere el cincuenta por ciento.
+3. Las condiciones de prevención y protección ambiental a las que deban sujetarse las instalaciones o actividades a que este artículo se refiere se determinarán mediante un trámite de comprobación ambiental. Este trámite será previo a la presentación de la correspondiente declaración responsable ante el ayuntamiento, de acuerdo con la legislación urbanística, en la que deberán incluirse las condiciones de prevención y protección ambiental exigibles.
+Se modifica por el art. 81.3 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a8-3
+ Se modifica el apartado 1 por el art. 25.2 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Téngase en cuenta que esta actualización será de aplicación a los expedientes presentados con posterioridad a la entrada en vigor de la citada Ley, según estalece su disposición adicional 5.
+ Se modifica por el art. 14.3 y 4 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 32
+
+Artículo 32. Contenido y finalidad.
+1. La finalidad de la comprobación ambiental es prevenir o reducir en origen la producción de residuos y la emisión de sustancias contaminantes al aire, al agua o al suelo, así como la generación de molestias o de riesgos que produzcan las correspondientes actividades e instalaciones y que sean susceptibles de afectar a las personas, bienes o al medio ambiente.
+2. La comprobación ambiental aglutinará e integrará en un condicionado único las prescripciones resultantes de las consultas e informes que evacuen los organismos que deban ser oídos de acuerdo con la legislación sectorial.
+3. Particularmente, la comprobación establecerá las condiciones necesarias para la protección de las personas y sus bienes, así como del medio ambiente, y las medidas preventivas de control que sean procedentes.
+Entre las condiciones exigibles podrá incluirse la constitución de fianzas y seguros adecuados para cubrir los posibles daños que pueda producir la actividad o instalación.
+4. Reglamentariamente se determinarán los trámites y actuaciones propias de la comprobación ambiental que, en todo caso, incorporará:
+a) Proyecto básico de la actividad a desarrollar y de sus instalaciones firmado por técnico competente y visado por colegio oficial.
+b) Un trámite de información pública.
+c) Un trámite de consulta para evacuar informes voluntarios o preceptivos.
+d) Un trámite de audiencia al interesado.
+e) La comprobación ambiental.
+5. Los trámites b) y c) contemplados en el apartado anterior se realizarán simultáneamente.
+Se añade el apartado 5 por el art. 23.1 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+
+### Artículo 33
+
+Artículo 33. Ejecución del proyecto, instalación o actividad.
+No podrán otorgarse las autorizaciones y licencias que fueren necesarias para la ejecución de los proyectos o la instalación o el funcionamiento de las actividades que requieran una comprobación ambiental en tanto no se haya completado ésta.
+
+### Artículo 34
+
+Artículo 34. Declaración responsable y certificado técnico.
+1. Las actividades o instalaciones de carácter industrial o mercantil no podrán empezar a funcionar hasta que el interesado presente en el Ayuntamiento una declaración responsable, acompañada de certificación expedida por técnico colegiado competente, que acredite la adopción de las medidas correctoras incluidas en el acuerdo de la comisión de comprobación ambiental, el planeamiento territorial, ambiental o urbanístico aplicable, así como todas las normativas ambientales que le sean de aplicación. Todo ello sin perjuicio de las facultades de comprobación, control e inspección por los servicios técnicos municipales de la adopción de las medidas y de su adecuado funcionamiento y efectividad.
+2. Las empresas suministradoras de energía eléctrica, agua, gas, telefonía y otros servicios similares exigirán la declaración responsable referida a la instalación o actividad para la contratación definitiva de los referidos servicios.
+Se modifica por el art. 81.4 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a8-3
+ Se modifica por el art. 23.2 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica por el art. 14.5 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 34 bis
+
+Artículo 34 bis. Declaración responsable ambiental.
+1. Se entenderá por declaración responsable ambiental al régimen al que se someten determinadas actividades e instalaciones de menor incidencia ambiental y que requieren la presentación de un documento, suscrito por el titular de la actividad y técnico responsable, en el que se pone en conocimiento de la Administración competente que va a iniciar la actividad o la obra y manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente en materia ambiental para su ejercicio, que posee la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante el período de tiempo inherente a dicho reconocimiento o ejercicio.
+2. La declaración responsable de apertura será exigible sólo para los supuestos incluidos en el anexo C de esta ley. En todo caso, los requisitos a los que se refiere el apartado anterior deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable.
+Previo al inicio de la actividad, el titular deberá presentar una declaración responsable, de conformidad con el artículo 69 de la Ley 39/2015, indicando la fecha de inicio de la misma y se acompañará de informes acreditativos de las autorizaciones, permisos o licencias que resulten preceptivos, de acuerdo con la normativa sectorial vigente.
+El modelo con el contenido mínimo para su presentación será el que se apruebe como anexo D mediante una resolución del consejero competente en la materia.
+3. La declaración responsable se presentará ante el órgano local competente, siendo el responsable de la comprobación y, en su caso, sanción por la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a una declaración responsable, o la no presentación de la misma cuando sea necesaria.
+4. Desde la presentación de las declaraciones responsables por parte del titular, el órgano competente dispondrá de un plazo máximo de un mes para verificar la documentación presentada y, en su caso, efectuar oposición o reparos.
+Si, transcurrido dicho plazo, el órgano sustantivo no manifiesta reparos, el titular de la instalación podrá iniciar la actividad o las obras, de ser necesarias. En caso de que el órgano sustantivo formule oposición o reparos, el titular de la actividad deberá subsanar éstos y que aquel órgano sustantivo efectúe pronunciamiento expreso de conformidad.
+El informe o pronunciamiento del órgano competente al respecto de la declaración responsable deberá recoger, preceptivamente, la compatibilidad urbanística de la actividad con el planeamiento urbanístico y, en su caso, con las ordenanzas municipales.
+5. Las modificaciones en las instalaciones o actividades sujetas a declaración responsable que supongan cualquier ampliación o modificación de las características o el funcionamiento de una instalación o actividad, se considerará sustancial si la modificación o ampliación alcanza, por sí sola, los umbrales de capacidad establecidos en el anejo C. En este caso, deberá comunicar la circunstancia a la entidad local y solicitar la emisión de licencia ambiental.
+6. El titular deberá comunicar al órgano competente el cese de la actividad en el plazo de un mes desde que se produzca.
+Se modifica el apartado 3 por el art. 81.5 de la Ley 2/2025, de 2 de abril. Ref. BOE-A-2025-10884#a8-3
+ Se añade por el art. 25.3 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Téngase en cuenta que esta actualización será de aplicación a los expedientes presentados con posterioridad a la entrada en vigor de la citada Ley, según estalece su disposición adicional 5.
+
+### Artículo 35
+
+Artículo 35. Nulidad.
+Serán nulas de pleno Derecho las autorizaciones de apertura o funcionamiento que se otorguen sin el debido acuerdo favorable de la comisión de comprobación ambiental.
+Se modifica por el art. 14.6 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Artículo 36
+
+Artículo 36. Ordenanzas municipales.
+1. Los Ayuntamientos deberán elaborar ordenanzas para regular las condiciones generales que han de respetar las instalaciones y actividades de acuerdo con lo establecido en la presente Ley para garantizar la tranquilidad, seguridad y bienestar de las personas, así como para proteger sus bienes y el medio ambiente. Todo ello sin perjuicio de lo que establezcan las normas urbanísticas sobre localización y emplazamientos y la legislación general que resulte aplicable.
+2. Antes de su aprobación final por el Ayuntamiento, el proyecto de ordenanza será sometido a informe previo del órgano ambiental competente, a los solos efectos de garantizar su legalidad en los aspectos ambientales.
+3. El Gobierno de Cantabria elaborará y aprobará una ordenanza general de protección ambiental que será de aplicación en todos los municipios que carezcan de una ordenanza específica.
+4. Las ordenanzas municipales en ningún caso podrán establecer medidas de protección ambiental inferiores a las previstas, en su caso, por la ordenanza general a que se refiere el apartado anterior.
+
+### Artículo 37
+
+Artículo 37. Comisión para la comprobación ambiental.
+1. La comprobación ambiental será emitida por la comisión para la comprobación ambiental, cuya composición y adscripción se determinarán reglamentariamente.
+2. La presidencia de dicha comisión la ostentará el órgano de la Consejería con competencia en materia de medio ambiente que reglamentariamente se determine.
+3. La comisión recibirá remitido por el Ayuntamiento, una vez finalizado el periodo de información pública, el expediente administrativo integro, que contendrá en todo caso lo siguiente:
+– Proyecto completo de la actividad a realizar, con grado de detalle que permita ser evaluado ambientalmente.
+– Totalidad de informes sectoriales y municipales que requiera la actividad.
+– Las alegaciones que se hayan presentado y sus contestaciones.
+– Informe realizado por el Ayuntamiento sobre la actividad objeto de comprobación ambiental.
+– Certificado del Ayuntamiento en el que se certifique que el expediente se remite conteniendo todos los puntos anteriores, con relación de los documentos incluidos.
+Recibido el expediente remitido por el Ayuntamiento, la comisión para la comprobación ambiental en el plazo máximo de 10 días verificará que se ha remitido correctamente, devolviéndolo en caso contrario, lo que supondría la suspensión del plazo para informar.
+4. La comisión emitirá el informe de comprobación ambiental que se remitirá al Ayuntamiento con carácter previo al otorgamiento de la licencia solicitada. Este informe será vinculante para el Ayuntamiento en caso de que implique la denegación de la licencia municipal o la imposición de medidas correctoras.
+5. La comisión emitirá su informe en el plazo de un mes. Transcurrido dicho plazo sin que se hubiese emitido, se podrán proseguir las actuaciones. No obstante, el informe emitido fuera de plazo y antes de la resolución municipal, deberá ser tenido en cuenta por el órgano competente para conceder la licencia.
+Se modifica el último párrafo del apartado 3 por el art. 23.3 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
+ Se modifica el apartado 3 por el art. 14.7 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+## TÍTULO V
+
+Control y disciplina ambiental
+
+## CAPÍTULO I
+
+Régimen de control
+
+### Artículo 38
+
+Artículo 38. Prevención y control integrados.
+1. La autorización ambiental integrada y cualesquiera otras autorizaciones o licencias que incorporen una evaluación o comprobación ambiental deben fijar el conjunto de controles a que se sujeta la actividad de que se trate, a fin de garantizar su permanente y constante adecuación a las prescripciones legales y a las determinaciones establecidas en los referidos instrumentos administrativos.
+2. A los efectos del apartado anterior, la Administración competente podrá imponer, mediante la instrucción del procedimiento administrativo oportuno, las correcciones necesarias en el desenvolvimiento de la actividad de que se trate. En la resolución que se dicte, podrá también ordenarse la suspensión de la ejecución del proyecto objeto de evaluación ambiental, la suspensión temporal de las actividades contaminantes exclusivamente, o bien, de toda la instalación, si la misma no pudiese ser compartimentalizada a estos efectos. En caso de incumplimiento de tales resoluciones, se podrá acordar la imposición de multas coercitivas de hasta diez mil euros (10.000 €) reiteradas a cada transcurso del plazo inicialmente concedido.
+3. Las autorizaciones ambientales integradas y las licencias que incorporen la oportuna comprobación ambiental podrán ser dejadas sin efecto, con las consecuencias indemnizatorias a que eventualmente pudiera haber lugar, cuando circunstancias sobrevenidas, de carácter normativo o fáctico, impidan o hagan inconveniente la continuación de la actividad de que se trate.
+Se modifica el apartado 2 por el art. 11.1 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 39
+
+Artículo 39. Actuaciones de control inicial.
+1. La puesta en marcha de las instalaciones y el inicio de la actividad se sujetarán a las verificaciones siguientes:
+a) Adecuación a la autorización o licencia otorgadas, mediante certificación expedida por el técnico director de la ejecución del proyecto, con carácter previo al inicio de la actividad.
+b) Comprobación por los servicios administrativos de la efectividad de las medidas correctoras exigidas, realizada en la forma en que reglamentariamente se determine y acreditada mediante acta levantada al efecto.
+2. La presentación de las certificaciones a que se refiere el apartado anterior conlleva la inscripción de oficio en los oportunos registros ambientales y habilita para el ejercicio de la actividad.
+
+### Artículo 40
+
+Artículo 40. Actuaciones de control periódico.
+Las actividades sujetas a autorización ambiental integrada y a la licencia a cuyo contenido se haya incorporado la oportuna comprobación ambiental serán objeto de controles periódicos, en los términos dispuestos reglamentariamente. Los controles y su pertinente acreditación se llevarán a cabo por entidades colaboradoras de la Administración o técnicos competentes, en la forma que reglamentariamente se determine.
+
+## CAPÍTULO II
+
+Régimen de inspección
+
+### Artículo 41
+
+Artículo 41. Acción inspectora.
+1. La Administración de la Comunidad Autónoma y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán realizar las actuaciones inspectoras que tengan por convenientes a fin de garantizar el cumplimiento de las prescripciones legales y de las determinaciones incluidas en los instrumentos de control a que se refiere esta Ley.
+2. Los titulares de las actividades afectadas colaborarán con las Administraciones competentes, prestándoles la asistencia que requieran, en particular por lo que se refiere a la toma de muestras y recogida de la información pertinente.
+3. Las actas levantadas por el personal que tenga la condición de autoridad tendrán valor probatorio, sin perjuicio de las pruebas que en defensa de sus derechos e intereses puedan presentar los titulares de las actividades sujetas a inspección.
+4. La Comunidad Autónoma establecerá los mecanismos de coordinación de las actividades inspectoras que se desarrollen de conformidad con esta Ley.
+
+### Artículo 42
+
+Artículo 42. Publicidad.
+1. Las actas de inspección serán públicas en los términos de la legislación sobre información en materia de medio ambiente.
+2. La Administración de la Comunidad Autónoma difundirá periódicamente los resultados de las inspecciones llevadas a cabo por las Administraciones competentes.
+
+## CAPÍTULO III
+
+Régimen sancionador
+
+### Artículo 43
+
+Artículo 43. Infracciones y sanciones.
+1. Constituyen infracciones administrativas las acciones y omisiones que contravengan los deberes y prohibiciones impuestos en esta Ley, de conformidad con la tipificación establecida en el artículo 44.
+2. Las infracciones se clasifican en muy graves, graves y leves.
+3. Las sanciones por la comisión de las infracciones administrativas son las previstas en el artículo 45.
+
+### Artículo 44
+
+Artículo 44. Tipificación de las infracciones.
+1. Son infracciones muy graves:
+a) Ejercer una actividad sometida a autorización ambiental integrada, o llevar a cabo una modificación sustancial de aquélla, sin haber obtenido la pertinente resolución administrativa, siempre que haya puesto en peligro la salud o seguridad de las personas, o bien, la integridad de espacios naturales protegidos.
+b) Iniciar la ejecución de un proyecto, incluidos los sujetos a declaración responsable o comunicación previa, sometido a evaluación de impacto ambiental ordinaria sin haber obtenido previamente la correspondiente declaración de impacto ambiental.
+c) Incumplir el condicionado establecido en las autorizaciones ambientales integradas y declaraciones de impacto ambiental, siempre que se haya puesto en peligro la salud o seguridad de las personas, o bien, la integridad de espacios naturales protegidos.
+d) Ocultar o alterar datos o informaciones que sean relevantes para el otorgamiento de la autorización ambiental integrada o la elaboración de la declaración de impacto ambiental, así como para la puesta en marcha de las instalaciones, o para las revisiones y controles periódicos de las actividades aprobadas.
+e) Omitir las revisiones y controles periódicos, siempre que se haya puesto en peligro la salud o seguridad de las personas, o bien, la integridad de espacios naturales protegidos.
+f) Presentar resistencia activa, coacción, amenaza, represalia o cualquier otra forma de presión a los empleados públicos encargados de las funciones previstas en esta Ley.
+g) Reincidir en el mismo tipo infractor grave durante el plazo de dos años desde la imposición de la sanción administrativa mediante resolución firme, salvo que a su vez provenga de la reiteración en infracciones leves.
+2. Son infracciones graves:
+a) Ejercer una actividad sometida a autorización ambiental integrada, o llevar a cabo una modificación sustancial de aquélla, sin haber obtenido la pertinente resolución administrativa.
+b) Iniciar la ejecución de un proyecto, incluidos los sujetos a declaración responsable o comunicación previa, sometido a evaluación de impacto ambiental simplificada sin haber obtenido previamente al correspondiente informe de impacto ambiental.
+c) Incumplir el condicionado establecido en las autorizaciones ambientales integradas, declaraciones de impacto ambiental o informes ambientales.
+d) Ocultar o alterar datos o informaciones que sean relevantes para el otorgamiento de la licencia sujeta a cualquier tipo de comprobación ambiental.
+e) Omitir las revisiones y controles periódicos.
+f) Transmitir la autorización ambiental integrada, o la licencia que incorpore la oportuna declaración de impacto ambiental o comprobación ambiental, sin previa comunicación a la Administración, o bien con ocultación o alteración de los términos sustancíales en que la transmisión pretenda efectuarse.
+g) No informar de manera inmediata al órgano competente de la Comunidad Autónoma sobre cualquier incidente o accidente que altere de forma significativa el medio ambiente.
+h) Contratar y suministrar energía eléctrica, agua, gas, telefonía u otros servicios similares sin exigir el acta de conformidad ambiental de la instalación, incumpliendo las condiciones establecidas por la Administración competente para evitar la contaminación del suelo y las aguas subterráneas.
+i) Proceder al cierre definitivo de una instalación incumpliendo las condiciones establecidas por la Administración competente para evitar la contaminación del suelo y las aguas subterráneas.
+j) Impedir, retrasar u obstaculizar la actividad inspectora de la Administración.
+k) Incurrir en una segunda infracción de carácter leve durante el plazo de un año desde la imposición de sanción administrativa mediante resolución firme.
+3. Son infracciones leves los incumplimientos de deberes y prohibiciones establecidos en esta Ley o su normativa de desarrollo, que no sean constitutivos de infracción grave o muy grave.
+Se modifica por el art. 11.2 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+ Se añade el apartado 2.a) y se reordenan los siguientes como b) a j) por el art. 12 de la Ley 9/2008, de 26 de diciembre. Ref. BOE-A-2009-1177.
+
+### Artículo 45
+
+Artículo 45. Sanciones aplicables y concreción de su importe.
+1. Las infracciones tipificadas en el artículo anterior podrán dar lugar a la imposición de todas o algunas de las siguientes sanciones:
+a) En el caso de infracción muy grave:
+– Multa desde 240.401 hasta 2.404.000 euros.
+– Suspensión definitiva, total o parcial, de la actividad.
+– Suspensión temporal, total o parcial, de la actividad por periodo no inferior a dos años ni superior a cinco.
+– Inhabilitación definitiva para el ejercicio de la actividad.
+– Inhabilitación temporal para el ejercicio de la actividad, por periodo no inferior a un año ni superior a dos.
+– Prohibición de contratar con la Administración Autonómica durante un periodo máximo de cinco años.
+– Publicación, a través de los medios que se considere oportunos, de las sanciones impuestas, así como los nombres, apellidos, denominación o razón social de las personas físicas o jurídicas responsables, junto con la índole y naturaleza de las infracciones graves cometidas.
+b) En el caso de infracción grave:
+– Multa desde 24.001 hasta 240.400 euros.
+– Suspensión temporal, total o parcial, de la actividad por periodo máximo de dos años.
+– Inhabilitación temporal para el ejercicio de la actividad por periodo máximo de un año.
+c) En el caso de infracción leve:
+– Multa desde 240 hasta 24.000 euros.
+2. El cómputo de las sanciones contempladas en este artículo que se encuentren sujetas a un periodo temporal, dará comienzo una vez que estas hayan adquirido firmeza en vía administrativa.
+3. Los órganos competentes para imponer las distintas sanciones, podrán exigir al infractor o infractores, como obligación accesoria, la reposición o restauración de las cosas al estado anterior a la infracción cometida, así como, en su caso, abonar la correspondiente indemnización por los daños y perjuicios causados a las Administraciones Públicas, en la cuantía que objetivamente se determine en el propio expediente.
+4. En caso de incumplimiento de las obligaciones accesorias impuestas, se podrá acordar la imposición de multas coercitivas de hasta diez mil euros (10.000 €) reiteradas a cada transcurso del plazo inicialmente concedido.
+5. Si, iniciado un procedimiento, el inculpado reconoce su responsabilidad y acredita haber rectificado de manera voluntaria las circunstancias constitutivas de la infracción cometida, el procedimiento se podrá resolver directamente con la imposición de la sanción que corresponda.
+Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se haya justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
+En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta, siendo estos acumulables entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+6. Cuando por razón de la escasa o nula trascendencia del hecho sancionado, la sanción aplicable resulte claramente desproporcionada ante las circunstancias que concurran en el caso, podrá imponerse la sanción establecida para las infracciones inferiores en grado, debiendo justificarse en el expediente de forma adecuada dicha minoración de la sanción.
+Se modifica por el art. 11.3 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 46
+
+Artículo 46. Ordenanzas municipales.
+1. De conformidad con lo previsto en la legislación de Régimen Local, las ordenanzas municipales podrán, en el ámbito de las competencias municipales en materia de medio ambiente, tipificar infracciones y sanciones conforme a los criterios establecidos en este artículo.
+2. Las infracciones se tipificarán en atención al incumplimiento de los deberes establecidos en esta Ley y en sus normas de desarrollo en relación con las actividades sujetas a comprobación ambiental.
+3. Las sanciones consistirán en multas y no podrán alcanzar una cuantía superior a la prevista en esta Ley para las infracciones leves.
+
+### Artículo 47
+
+Artículo 47. Medidas cautelares.
+Durante la tramitación de un procedimiento sancionador se podrán adoptar las medidas cautelares oportunas, incluida la suspensión del ejercicio de la actividad de que se trate, a fin de prevenir o aminorar los riesgos para la seguridad y la salud de las personas y la integridad del medio ambiente.
+
+## CAPÍTULO IV
+
+Extinción de la responsabilidad
+Se añade por el art. 11.4 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 48
+
+Artículo 48. Prescripción de infracciones y sanciones.
+1. Las infracciones a que se refiere la presente Ley prescribirán por el transcurso de los siguientes plazos: Las muy graves a los tres años, las graves a los dos años y las leves al año, contados todos ellos desde el día en que la infracción se hubiera cometido.
+2. Las sanciones a que se refiere la presente Ley prescribirán por el transcurso de los siguientes plazos: Las correspondientes a infracciones muy graves a los tres años, las correspondientes a infracciones graves a los dos años y las correspondientes a infracciones leves al año. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla.
+Se modifica por el art. 11.4 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 49
+
+Artículo 49. Interrupción de los plazos de prescripción.
+1. La prescripción de las infracciones y sanciones previstas en esta norma se interrumpirá en los términos previstos en la legislación básica estatal.
+2. De igual modo, interrumpirá la prescripción de las infracciones la apertura de un proceso en vía penal o la tramitación de otro procedimiento administrativo de carácter sancionador que impidieran iniciar o continuar el procedimiento previsto en la presente Ley.
+Se añade por el art. 11.4 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+## CAPÍTULO V
+
+Procedimiento
+Se añade por el art. 11.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 50
+
+Artículo 50. Instrucción.
+1. La imposición de las sanciones previstas en la presente Ley requerirá la tramitación del correspondiente procedimiento en los términos y con los principios de la potestad sancionadora contemplados en la legislación básica estatal.
+2. El plazo máximo en el que debe notificarse la resolución expresa de un procedimiento será de un año contado desde la fecha en que sea dictado el acuerdo de iniciación, a cuyo transcurso se producirá la caducidad del mismo.
+3. Las solicitudes de análisis de las muestras contradictoria y dirimente, en su caso, interrumpirán el plazo de caducidad del procedimiento hasta que sean recibidos sus resultados.
+Se añade por el art. 11.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 51
+
+Artículo 51. Sujetos responsables.
+1. Serán responsables como autores las personas físicas o jurídicas que por acción u omisión cometan alguna de las infracciones tipificadas en esta Ley.
+2. En caso de que la infracción sea realizada por una persona jurídica, las sanciones a que se refiere el presente Título podrán ser también acordadas solidariamente respecto de todos o alguno de los administradores, de hecho o de derecho, o de los liquidadores de esa persona jurídica y de quienes hubieran ostentado dicha condición al momento de la comisión.
+Idéntica consideración se tendrá también para los representantes legales de las personas físicas.
+3. Además de los autores, serán sancionados también como tales por su participación en infracciones ajenas las personas que, con dolo o culpa grave, hayan cooperado a la realización de cualquier acto que haya fundamentado la imposición de la correspondiente sanción con el infractor responsable o, si los tuviere, con sus representantes legales y, en caso de personas jurídicas, con sus administradores, tanto de derecho como de hecho, o liquidadores, o con sus apoderados generales.
+Se añade por el art. 11.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 52
+
+Artículo 52. Competencias sancionadoras.
+1. Será competente para iniciar los procedimientos el titular de la dirección general responsable por razón de la materia. No podrá designarse como instructor de los mismos a ningún funcionario o autoridad que haya intervenido en sus diligencias preliminares.
+2. En el ámbito de la presente Ley, y sin perjuicio de lo previsto en el artículo siguiente, la potestad sancionadora corresponde al Gobierno de Cantabria, quien la ejercerá a través de los siguientes órganos:
+a) El Consejo de Gobierno de la Comunidad Autónoma, para imponer las sanciones que se deriven de infracciones muy graves.
+b) El Consejero competente por razón de la materia, para imponer las sanciones que se deriven de infracciones graves.
+c) El Director General competente por razón de materia, para imponer las sanciones que se deriven de infracciones leves.
+3. Cuando en el mismo procedimiento se contemplen diversas infracciones calificadas de forma distinta, el órgano competente para dictar resolución será el que tenga la competencia para imponer la sanción más grave.
+4. Las competencias sancionadoras previstas en este artículo habrán de estar referidas a infracciones cometidas en el territorio de la Comunidad Autónoma de Cantabria, con independencia del lugar donde radique el domicilio social o residencia del infractor responsable.
+Se añade por el art. 11.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Artículo 53
+
+Artículo 53. Competencia sancionadora de las corporaciones locales.
+1. Sin menoscabo de las competencias sancionadoras de la administración autonómica, que serán irrenunciables, las entidades locales podrán iniciar, instruir y resolver los procedimientos sancionadores previstos en la presente Ley para imponer sanciones correspondientes a infracciones leves. A estos efectos, su competencia orgánica se determinará conforme a la legislación de régimen local.
+En todo caso, el importe de las sanciones que impongan las corporaciones municipales se ajustará lo establecido en el presente Título.
+2. Las competencias sancionadoras de las corporaciones locales estarán referidas a infracciones en las que concurran las circunstancias siguientes:
+a) Haber sido detectadas o conocidas por los propios servicios municipales.
+b) Haberse desarrollado la conducta típica íntegramente en el término municipal correspondiente.
+c) No haberse iniciado el correspondiente procedimiento sancionador por los órganos competentes de la administración autonómica.
+3. Cuando los órganos de la entidad local tuvieran conocimiento de la comisión de conductas tipificadas como infracciones en la presente Ley no localizadas exclusivamente dentro de su término municipal, lo pondrán de forma inmediata en conocimiento de los órganos competentes del Gobierno de Cantabria, remitiendo toda la información que obrare en su poder. De igual modo, si no deseasen ejercer su propia competencia, podrán limitarse a poner los hechos exclusivamente acaecidos dentro de su término municipal en conocimiento de los órganos competentes del Gobierno de Cantabria para su correspondiente sanción.
+4. Los órganos competentes del Gobierno de Cantabria se inhibirán de ejercer su potestad sancionadora cuando tuvieran conocimiento de que se está tramitando un procedimiento sancionador por los órganos competentes de una entidad local con identidad de sujeto, hecho y fundamento. No obstante ello, si durante la tramitación se descubrieran infracciones conexas en otros términos municipales que hicieren conveniente la instrucción de un único procedimiento, los órganos competentes del Gobierno de Cantabria podrán requerir motivadamente la Administración local para que se abstenga de continuar la tramitación iniciada y remita, en el menor tiempo posible, toda la documentación e información que obrare en su poder.
+5. A los efectos de los párrafos anteriores, los ayuntamientos y la dirección general competente por razón de la materia se comunicarán de inmediato la incoación de un procedimiento sancionador por hechos cometidos dentro de un solo término municipal.
+6. La Administración de la comunidad Autónoma podrá delegar en los municipios el ejercicio de la competencia sancionadora que a ella le corresponda, excepto para sancionar infracciones muy graves.
+Se añade por el art. 11.5 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Capacidad y solvencia técnicas del redactor del estudio de impacto ambiental y del estudio de sostenibilidad.
+1. Los estudios de impacto ambiental y el estudio de sostenibilidad serán redactados por profesionales o equipos de profesionales cuya capacidad y solvencia técnica ambiental quede acreditada por la titulación y experiencia de sus miembros.
+2. Para verificar el cumplimiento de lo dispuesto en el apartado anterior, se creará un registro de profesionales o equipos de profesionales dedicados a la redacción de estudios de impacto ambiental y estudios de sostenibilidad, que tendrá carácter público. Reglamentariamente se establecerán los mínimos necesarios para su homologación.
+3. Una vez constituido el registro a que se refiere el apartado anterior, la inscripción en dicho registro será requisito necesario para la validez de las evaluaciones de impacto ambiental.
+4. Los profesionales o equipos de profesionales redactores de los estudios de impacto ambiental y estudios de sostenibilidad serán responsables del contenido y fiabilidad de los datos del mismo, excepto de los parámetros relativos al proyecto, de la información recibida del promotor de la actuación y de la recibida de la Administración de manera fehaciente. El promotor de la actividad evaluada es responsable subsidiario del redactor del estudio de impacto ambiental o estudio de sostenibilidad y del autor del proyecto sobre la información incluida en los estudios de impacto ambiental o estudio de sostenibilidad.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Personal de vigilancia e inspección.
+1. La vigilancia e inspección ambiental de las actividades e instalaciones contempladas en esta Ley se llevará a cabo por los funcionarios a tal efecto designados y acreditados por el órgano del que dependan los servicios de vigilancia e inspección.
+2. Este personal, para el ejercicio de sus funciones, gozará de la consideración de agente de la autoridad y, con el levantamiento de las actas y formulación de las denuncias pertinentes, podrá adoptar las medidas necesarias para garantizar el cese inmediato de la actividad infractora. Asimismo, podrá acceder sin previo aviso, pero debidamente identificado, a los lugares e instalaciones donde se desarrollen las actividades mencionadas en esta Ley.
+3. Asimismo, para el ejercicio de sus funciones, el citado personal podrá ser auxiliado y acompañado por asesores u otro personal técnico debidamente identificado que, en ningún caso, tendrán la condición de agente de la autoridad, ni gozarán de las facultades propias de ellos, y que guardarán secreto respecto de los datos e informaciones que conocieran en el ejercicio de estas funciones.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Reglamento de actividades molestas, insalubres, nocivas y peligrosas.
+Sin perjuicio de lo dispuesto en las disposiciones transitorias de esta Ley, en el ámbito territorial de la Comunidad Autónoma de Cantabria dejará de ser de aplicación directa el Decreto 2414/1961, de 30 de noviembre, por el que se aprueba el Reglamento de actividades molestas, insalubres, nocivas y peligrosas.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Comunicaciones entre Administraciones.
+Todas las comunicaciones que deban realizarse durante la tramitación de todos los expedientes de comprobación ambiental entre la Dirección General competente en materia de medio ambiente y los ayuntamientos se realizarán obligatoriamente en formato electrónico y mediante registro electrónico u otros sistemas de intercambio de información de este carácter.
+Se añade por el art. 14.8 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Actividades e instalaciones preexistentes.
+1. A las instalaciones o actividades que estén en funcionamiento a la fecha de entrada en vigor de la presente Ley y que carezcan de la autorización ambiental integrada exigible con arreglo a la misma, les será de aplicación lo previsto en la disposición transitoria primera de la Ley 16/2002, de 1 de julio, de prevención y control integrado de la contaminación.
+2. Sin perjuicio de lo dispuesto en el apartado anterior, las instalaciones o actividades que en la fecha de entrada en vigor de la presente Ley estuvieran en funcionamiento sin haberse efectuado la evaluación de impacto ambiental exigible con arreglo a la legislación vigente en su momento, deberán presentar un estudio de impacto ambiental dentro de los seis meses siguientes a la fecha mencionada.
+A las instalaciones o actividades citadas en el párrafo anterior, que hubieren presentado su estudio de impacto ambiental en el plazo establecido anteriormente, se las emitirá la correspondiente declaración de impacto ambiental en el plazo previsto para la tramitación de la misma establecido en el articulado de la presente ley. Si no se hubiera emitido en plazo la declaración, las instalaciones o actividades podrán seguir en funcionamiento hasta que dicho acto se emita y notifique al interesado.
+3. El Acta de conformidad ambiental prevista en los artículos 20 y 34 de la presente Ley será únicamente exigible a aquellas actividades que vayan a iniciar su funcionamiento con posterioridad a la entrada en vigor de la Ley.
+Se modifica el apartado 3 por la disposición adicional 11 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709.
+ Se añade el apartado 3 por el art. 8.4 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
+ Se suprime el apartado 3 por el art. 12 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Procedimientos en tramitación.
+Los procedimientos para la evaluación de impacto ambiental o para la obtención de la autorización ambiental integrada o de las licencias para la realización de actividades o el establecimiento y funcionamiento de actividades contempladas en esta Ley que se hubieren iniciado con anterioridad a su entrada en vigor, se tramitarán y resolverán conforme a lo previsto en la normativa vigente a la fecha de su iniciación.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Planeamiento territorial y urbanístico en tramitación.
+Los instrumentos de planeamiento territorial y urbanístico que se hallen en tramitación a la entrada en vigor de la presente Ley y ya se hubieren aprobado inicialmente deberán contar con la correspondiente evaluación de impacto ambiental. Si no se hubiera presentado el informe de impacto ambiental que se encontraba regulado en la legislación anterior, se elaborará un estudio de sostenibilidad que se someterá a la consideración de la autoridad ambiental para que exprese su parecer antes de la aprobación provisional del plan por el órgano competente.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Irretroactividad.
+Las infracciones y sanciones contenidas en esta norma no serán de aplicación a los hechos cometidos ni a los procedimientos iniciados antes de su entrada en vigor.
+No obstante, las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor, tanto en lo referido a la tipificación de la infracción como a la sanción y a sus plazos de prescripción, incluso respecto de las sanciones pendientes de cumplimiento al entrar en vigor la nueva disposición.
+Se modifica por el art. 11.6 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Sin perjuicio de lo dispuesto en las disposiciones transitorias de esta Ley, quedan derogadas en el ámbito de la Comunidad Autónoma de Cantabria cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en aquélla y, en particular, las siguientes:
+a) Decreto 50/1991, de 29 abril, de evaluación del impacto ambiental para Cantabria.
+b) El artículo 2 y las disposiciones transitorias primera y segunda de la Ley 5/2002, de 24 de julio, de medidas cautelares urbanísticas en el ámbito del litoral, de sometimiento de los instrumentos de planificación territorial y urbanística a evaluación ambiental y de régimen urbanístico de los cementerios.
+c) A excepción del artículo primero del mismo, el Decreto 127/2005, de 14 de octubre, por el que se designa el órgano competente para otorgar la autorización ambiental integrada y se crea la Comisión de Prevención y Control Integrados de la Contaminación.
+
+### Disposición final primera
+
+Disposición final primera. Habilitación reglamentaria.
+1. Por Decreto del Gobierno de Cantabria podrán modificarse los anexos de la presente Ley, en cuanto no lo impida la legislación estatal o comunitaria, para adecuarlos al progreso y estado de la técnica. Asimismo podrán modificarse los citados anexos mediante Decreto del Gobierno de Cantabria cuando ello fuera necesario para actualizar, mejorar o aclarar su contenido con el fin de lograr una eficaz protección del medio ambiente.
+2. Dentro de los tres meses siguientes a la publicación de esta Ley, el Consejo del Gobierno de Cantabria dictará el reglamento para su desarrollo y aplicación.
+Se modifica el apartado 1 por el art. 8.3 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
+
+### Disposición final segunda
+
+Disposición final segunda. Entrada en vigor.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Cantabria».
+
+Palacio del Gobierno de Cantabria, 11 de diciembre de 2006.
+El Presidente de la Comunidad Autónoma de Cantabria,
+Miguel Ángel Revilla Roíz.
+
+## ANEXO A
+
+Proyectos contemplados en el artículo 8.1
+Nota: los valores umbral mencionados en cada una de las actividades relacionadas en la siguiente tabla se refieren, con carácter general, a capacidades de producción o a rendimientos. Si un mismo titular realiza varias actividades de la misma categoría en la misma instalación o en el mismo emplazamiento, se sumarán las capacidades de dichas actividades.
+1. Instalaciones de combustión.
+1.1 Instalaciones de combustión con una potencia térmica de combustión superior a 50 MW:
+a) Instalaciones de producción de energía eléctrica en régimen ordinario o en régimen especial, en las que se produzca la combustión de combustibles fósiles, residuos o biomasa.
+b) Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, sea ésta o no su actividad principal.
+1.2 Refinerías de petróleo y gas:
+a) Instalaciones para el refino de petróleo o de crudo de petróleo.
+b) Instalaciones para la producción de gas combustible distinto del gas natural y gases licuados del petróleo.
+1.3 Coquerías:
+Instalaciones de gasificación y licuefacción de carbón.
+2. Producción y transformación de metales.
+2.1 Instalaciones de calcinación o sinterización de minerales metálicos incluido el mineral sulfuroso.
+2.2 Instalaciones para la producción de fundición o de aceros brutos (fusión primaria o secundaria), incluidas las correspondientes instalaciones de fundición continua de una capacidad de más de 2,5 toneladas por hora.
+2.3 Instalaciones para la transformación de metales ferrosos:
+a) Laminado en caliente con una capacidad superior a 20 toneladas de acero bruto por hora.
+b) Forjado con martillos cuya energía de impacto sea superior a 50 kilojulios por martillo y cuando la potencia térmica utilizada sea superior a 20 MW.
+c) Aplicación de capas de protección de metal fundido con una capacidad de tratamiento de más de 2 toneladas de acero bruto por hora.
+2.4 Fundiciones de metales ferrosos con una capacidad de producción de más de 20 toneladas por día.
+2.5 Instalaciones:
+a) Para la producción de metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procedimientos metalúrgicos, químicos o electrolíticos.
+b) Para la fusión de metales no ferrosos, inclusive la aleación, así como los productos de recuperación (refinado, moldeado en fundición) con una capacidad de fusión de más de 4 toneladas para el plomo y el cadmio o 20 toneladas para todos los demás metales, por día.
+2.6 Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea superior a 30 m3.
+3. Industrias minerales.
+3.1 Instalaciones de fabricación de cemento y/o clinker en hornos rotatorios con una capacidad de producción superior a 500 toneladas diarias, o de cal en hornos rotatorios con una capacidad de producción superior a 50 toneladas por día, o en hornos de otro tipo con una capacidad de producción superior a 50 toneladas por día.
+3.2 Instalaciones para la obtención de amianto y para la fabricación de productos a base de amianto.
+3.3 Instalaciones para la fabricación de vidrio incluida la fibra de vidrio, con una capacidad de fusión superior a 20 toneladas por día.
+3.4 Instalaciones para la fundición de materiales minerales, incluida la fabricación de fibras minerales con una capacidad de fundición superior a 20 toneladas por día.
+3.5 Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular tejas, ladrillos, refractarios, azulejos o productos cerámicos ornamentales o de uso doméstico, con una capacidad de producción superior a 75 toneladas por día, y/o una capacidad de horneado de más de 4 m3 y de más de 300 kg/m3 de densidad de carga por horno.
+4. Industrias químicas: La fabricación, a efectos de las categorías de actividades de esta Ley, designa la fabricación a escala industrial, mediante transformación química, de los productos o grupos de productos mencionados en los epígrafes 4.1 a 4.6.
+4.1 Instalaciones químicas para la fabricación de productos químicos orgánicos de base, en particular:
+a) Hidrocarburos simples (lineales o cíclicos, saturados o insaturados, alifáticos o aromáticos).
+b) Hidrocarburos oxigenados, tales como alcoholes, aldehídos, cetonas, ácidos orgánicos, ésteres, acetatos, éteres, peróxidos, resinas, epóxidos.
+c) Hidrocarburos sulfurados.
+d) Hidrocarburos nitrogenados, en particular, aminas, amidas, compuestos nitrosos, nítricos o nitratos, nitrilos, cianatos e isocianatos.
+e) Hidrocarburos fosforados.
+f) Hidrocarburos halogenados.
+g) Compuestos orgánicos metálicos.
+h) Materias plásticas de base (polímeros, fibras sintéticas, fibras a base de celulosa).
+i) Cauchos sintéticos.
+j) Colorantes y pigmentos.
+k) Tensioactivos y agentes de superficie.
+4.2 Instalaciones químicas para la fabricación de productos químicos inorgánicos de base, como:
+a) Gases y, en particular, el amoníaco, el cloro o el cloruro de hidrógeno, el flúor o floruro de hidrógeno, los óxidos de carbono, los compuestos de azufre, los óxidos del nitrógeno, el hidrógeno, el dióxido de azufre, el dicloruro de carbonilo.
+b) Ácidos y, en particular, el ácido crómico, el ácido fluorhídrico, el ácido fosfórico, el ácido nítrico, el ácido clorhídrico, el ácido sulfúrico, el ácido sulfúrico fumante, los ácidos sulfurados.
+c) Bases y, en particular, el hidróxido de amonio, el hidróxido potásico, el hidróxido sódico.
+d) Sales como el cloruro de amonio, el clorato potásico, el carbonato potásico (potasa), el carbonato sódico (sosa), los perboratos, el nitrato argéntico.
+e) No metales, óxidos metálicos u otros compuestos inorgánicos como el carburo de calcio, el silicio, el carburo de silicio.
+4.3 Instalaciones químicas para la fabricación de fertilizantes a base de fósforo, de nitrógeno o de potasio (fertilizantes simples o compuestos).
+4.4 Instalaciones químicas para la fabricación de productos de base fitofarmacéuticos y debiocidas.
+4.5 Instalaciones químicas que utilicen un procedimiento químico o biológico para la fabricación de medicamentos de base.
+5. Gestión de residuos: Se excluyen de la siguiente enumeración las actividades e instalaciones en las que, en su caso, resulte de aplicación lo establecido en el artículo 14 de la Ley 10/1998, de 21 de abril, de Residuos.
+5.1 Instalaciones para la valorización de residuos peligrosos, incluida la gestión de aceites usados, o para la eliminación de dichos residuos en lugares distintos de los vertederos, de una capacidad de más de 10 toneladas por día.
+5.2 Instalaciones para la incineración de los residuos municipales, de una capacidad de más de 3 toneladas por hora.
+5.3 Instalaciones para la eliminación de los residuos no peligrosos, en lugares distintos de los vertederos, con una capacidad de más de 50 toneladas por día.
+5.4 Vertederos de todo tipo de residuos que reciban más de 10 toneladas por día o que tengan una capacidad total de más de 25.000 toneladas con exclusión de los vertederos de residuos inertes.
+6. Industria del papel y cartón.
+6.1 Instalaciones industriales destinadas a la fabricación de:
+a) Pasta de papel a partir de madera o de otras materias fibrosas.
+b) Papel y cartón con una capacidad de producción de más de 20 toneladas diarias.
+6.2 Instalaciones de producción y tratamiento de celulosa con una capacidad de producción superior a 20 toneladas diarias.
+7. Industria textil: Instalaciones para el tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras o productos textiles cuando la capacidad de tratamiento supere las 10 toneladas diarias.
+8. Industria del cuero.
+8.1 Instalaciones para el curtido de cueros cuando la capacidad de tratamiento supere las 12 toneladas de productos acabados por día.
+9. Industrias agroalimentarias y explotaciones ganaderas.
+9.1 Instalaciones para:
+a) Mataderos con una capacidad de producción de canales superior a 50 toneladas/día.
+b) Tratamiento y transformación destinados a la fabricación de productos alimenticios a partir de:
+1.º Materia prima animal (que no sea la leche) de una capacidad de producción de productos acabados superior a 75 toneladas/día.
+2.º Materia prima vegetal de una capacidad de producción de productos acabados superior a 300 toneladas/día (valor medio trimestral).
+c) Tratamiento y transformación de la leche, con una cantidad de leche recibida superior a 200 toneladas por día (valor medio anual).
+9.2 Instalaciones para la eliminación o el aprovechamiento de canales o desechos de animales con una capacidad de tratamiento superior a 10 toneladas/día.
+9.3 Instalaciones destinadas a la cría intensiva de aves de corral o de cerdos que dispongan de más de:
+a) 40.000 emplazamientos si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves.
+b) 2.000 emplazamientos para cerdos de cría (de más de 30 kg).
+c) 750 emplazamientos para cerdas.
+10. Consumo de disolventes orgánicos: Instalaciones para el tratamiento de superficies de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de más de 150 kg de disolvente por hora o más de 200 toneladas/año.
+11. Industria del carbono: Instalaciones para la fabricación de carbono sinterizado o electrografito por combustión o grafitación.
+
+## ANEXO B
+
+B1
+Planes y Programas contemplados en el artículo 25
+Grupo 1. Instrumentos de planeamiento y ordenación del territorio.
+a) Plan Regional de Ordenación Territorial.
+b) Normas Urbanísticas Regionales.
+c) Planes Territoriales Parciales.
+d) Planes Territoriales Especiales.
+e) Proyectos Singulares de Interés Regional.
+f) Plan de Ordenación del Litoral.
+g) Otros Planes y Programas Sectoriales de Incidencia Supramunicipal.
+Grupo 2. Instrumentos de planeamiento y ordenación urbanística.
+a) Planes Generales de Ordenación Urbana.
+b) Planes Parciales.
+c) Planes Especiales.
+d) Estudios de Detalle Especiales.
+e) Áreas de Desarrollo Rural.
+f) Delimitaciones gráficas de suelo urbano.
+Grupo 2. Instrumentos de planeamiento y ordenación urbanística.
+a) Planes Generales de Ordenación Urbana y sus modificaciones puntuales.
+b) Planes Parciales.
+c) Planes Especiales.
+Grupo 3. Otros Planes y Programas.-Los que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental en las siguientes materias:
+a) Agricultura y regadíos.
+b) Ganadería y pesca fluvial.
+c) Silvicultura.
+d) Energía.
+e) Industria.
+f) Infraestructuras y sistemas de comunicación y transporte.
+g) Gestión de residuos.
+h) Gestión de recursos hídricos, incluyendo el abastecimiento, saneamiento y depuración de aguas residuales, la recarga de acuíferos y la desalación de aguas marinas.
+i) Telecomunicaciones.
+j) Turismo.
+k) Ordenación rural, utilización del suelo y de los recursos naturales.
+l) Paisaje
+Grupo 4. Planes y Programas que, no estando en los apartados anteriores, puedan afectar significativamente a los valores de la Red Natura 2000 o de los Espacios Naturales Protegidos.
+ANEXO I [Sic]
+Proyectos sometidos a la evaluación ambiental ordinaria regulada en el título II, capítulo II, sección 1.ª
+Grupo 1. Ganadería.
+a) Instalaciones destinadas a la cría de animales en explotaciones ganaderas reguladas por el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas y que superen las siguientes capacidades:
+1.º 40.000 plazas para gallinas.
+2.º 55.000 plazas para pollos.
+3.º 2.000 plazas para cerdos de engorde.
+4.º 750 plazas para cerdas de cría.
+Grupo 2. Industria extractiva.
+a) Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la Ley 22/1973, de 21 de julio, de Minas y normativa complementaria, cuando se dé alguna de las circunstancias siguientes:
+1. Explotaciones en las que la superficie de terreno afectado supere las 25 ha.
+2. Explotaciones que tengan un movimiento total de tierras superior a 200.000 metros cúbicos anuales.
+3. Explotaciones que se realicen por debajo del nivel freático, tomando como nivel de referencia el más elevado entre las oscilaciones anuales, o que pueden suponer una disminución de la recarga de acuíferos superficiales o profundos.
+4. Explotaciones de depósitos ligados a la dinámica actual: fluvial, fluvio-glacial, litoral o eólica. Aquellos otros depósitos y turberas que por su contenido en flora fósil puedan tener interés científico para la reconstrucción palinológica y paleoclimática. Extracción de turba, cuando la superficie del terreno de extracción supere las 150 ha.
+5. Explotaciones visibles desde autopistas, autovías, carreteras nacionales y comarcales, espacios naturales protegidos, núcleos urbanos superiores a 1.000 habitantes o situadas a distancias inferiores a 2 km de tales núcleos.
+6. Explotaciones de sustancias que puedan sufrir alteraciones por oxidación, hidratación, etc., y que induzcan, en límites superiores a los incluidos en las legislaciones vigentes, a acidez, toxicidad u otros parámetros en concentraciones tales que supongan riesgo para la salud humana o el medio ambiente, como las menas con sulfuros, explotaciones de combustibles sólidos, explotaciones que requieran tratamiento por lixiviación in situ y minerales radiactivos.
+7. Extracciones que, aun no cumpliendo ninguna de las condiciones anteriores, se sitúen a menos de 5 km de los límites del área que se prevea afectar por el laboreo y las instalaciones anexas de cualquier explotación o concesión minera a cielo abierto existente.
+b) Minería subterránea en las explotaciones en las que se dé alguna de las circunstancias siguientes:
+1.º Que su paragénesis pueda, por oxidación, hidratación o disolución, producir aguas ácidas o alcalinas que den lugar a cambios en el pH o liberen iones metálicos o no metálicos que supongan una alteración del medio natural.
+2.º Que exploten minerales radiactivos.
+3.º Aquéllas cuyos minados se encuentren a menos de 1 km (medido en plano) de distancia de núcleos urbanos, que puedan inducir riesgos por subsidencia.
+4.º Aquellos cuyos minados afecten a suelos de Espacios Naturales Protegidos, Red Natura 2000, y áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y de la Biodiversidad o a los acuíferos.
+5.º Aquellas cuyos minados puedan inducir riesgos por subsidencia en yacimientos arqueológicos.
+c) Extracción o almacenamiento subterráneo de petróleo y gas natural con fines comerciales cuando:
+1.º La cantidad de producción sea superior a 500 toneladas por día en el caso del petróleo y de 500.000 metros cúbicos por día en el caso del gas o bien,
+2.º Se realicen en medio marino.
+d) Los proyectos consistentes en la realización de perforaciones para la exploración, investigación o explotación de hidrocarburos, almacenamiento de CO2, almacenamiento de gas y geotermia de media y alta entalpía, que requieran la utilización de técnicas de fracturación hidráulica.
+No se incluyen en este apartado las perforaciones de sondeos de investigación que tengan por objeto la toma de testigo previos a proyectos de perforación que requieran la utilización de técnicas de facturación hidráulica.
+En todos los apartados de este grupo se incluyen las instalaciones y estructuras necesarias para la extracción, tratamiento, almacenamiento, aprovechamiento y transporte del mineral, acopios de estériles, balsas, así como las líneas eléctricas, abastecimientos de agua y su depuración y caminos de acceso nuevos.
+Grupo 3. Industria energética.
+a) Refinerías de petróleo bruto (con la exclusión de las empresas que produzcan únicamente lubricantes a partir de petróleo bruto), así como las instalaciones de gasificación y de licuefacción de, al menos, 500 t de carbón o de pizarra bituminosa al día.
+b) Centrales térmicas y otras instalaciones de combustión de una potencia térmica de, al menos, 300 MW.
+c) Centrales nucleares y otros reactores nucleares, incluidos el desmantelamiento o clausura definitiva de tales centrales y reactores (con exclusión de las instalaciones de investigación para la producción y transformación de materiales fisionables y fértiles), cuya potencia máxima no supere 1 kW de carga térmica continua.
+d) Instalación de reproceso de combustibles nucleares irradiados.
+e) Instalaciones diseñadas para:
+1.º La producción o enriquecimiento de combustible nuclear.
+2.º El proceso de reutilización de combustible nuclear irradiado o de residuos de alta radiactividad.
+3.º El depósito final del combustible nuclear gastado.
+4.º Exclusivamente el depósito final de residuos radiactivos.
+5.º Exclusivamente el almacenamiento (proyectado para un período superior a diez años) de combustibles nucleares irradiados o de residuos radiactivos en un lugar distinto del de producción.
+f) Tuberías con un diámetro de más de 800 mm y una longitud superior a 40 km para el transporte de:
+1.º gas, petróleo o productos químicos, incluyendo instalaciones de compresión,
+2.º flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
+g) Construcción de líneas de transmisión de energía eléctrica con un voltaje igual o superior a 220 kV y una longitud superior a 15 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así como sus subestaciones asociadas.
+h) Instalaciones para el almacenamiento de petróleo o productos petroquímicos o químicos con una capacidad de, al menos, 200.000 t.
+i) Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos) que tengan 50 o más aerogeneradores, o que tengan más de 30 MW o que se encuentren a menos de 2 km de otro parque eólico en funcionamiento, en construcción, con autorización administrativa o con declaración de impacto ambiental.
+j) Instalaciones para la producción de energía eléctrica a partir de la energía solar destinada a su venta a la red, que no se ubiquen en cubiertas o tejados de edificios existentes y que ocupen más de 100 ha de superficie.
+Grupo 4. Industria siderúrgica y del mineral. Producción y elaboración de metales.
+a) Instalaciones para la producción de metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procesos metalúrgicos, químicos o electrolíticos.
+b) Plantas integradas para la fundición inicial del hierro colado y del acero.
+c) Instalaciones para la elaboración de metales ferrosos en las que se realice alguna de las siguientes actividades:
+1.º Laminado en caliente con una capacidad superior a 20 t de acero en bruto por hora.
+2.º Forjado con martillos cuya energía de impacto sea superior a 50 kJ por martillo y cuando la potencia térmica utilizada sea superior a 20 MW.
+3.º Aplicación de capas protectoras de metal fundido con una capacidad de tratamiento de más de 2 t de acero bruto por hora.
+d) Fundiciones de metales ferrosos con una capacidad de producción de más de 20 t por día.
+e) Instalaciones para la fundición (incluida la aleación) de metales no ferrosos, con excepción de metales preciosos, incluidos los productos de recuperación (refinado, restos de fundición, etc.), con una capacidad de fusión de más de 4 t para el plomo y el cadmio o 20 t para todos los demás metales, por día.
+f) Instalaciones para el tratamiento de la superficie de metales y materiales plásticos por proceso electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea superior a 30 metros cúbicos.
+g) Instalaciones de calcinación y de sinterizado de minerales metálicos, con capacidad superior a 5.000 t por año de mineral procesado.
+h) Producción de cemento, cal y óxido de magnesio:
+1.º Fabricación de cemento por molienda con una capacidad de producción superior a 500 t diarias.
+2.º Fabricación de clínker en hornos rotatorios con una capacidad de producción superior a 500 t diarias, o en hornos de otro tipo con una capacidad de producción superior a 50 t por día.
+3.º Producción de cal en hornos con una capacidad de producción superior a 50 t diarias.
+4.º Producción de óxido de magnesio en hornos con una capacidad de producción superior a 50 t diarias.
+i) Instalaciones para la fabricación de vidrio, incluida la fibra de vidrio, con una capacidad de fusión superior a 20 t por día.
+j) Instalaciones para la fundición de sustancias minerales, incluida la producción de fibras minerales, con una capacidad de fundición superior a 20 t por día.
+k) Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular, tejas, ladrillos, ladrillos refractarios, azulejos, gres o porcelana, con una capacidad de producción superior a 75 t por día y una capacidad de horneado de más de 4 metros cúbicos y más de 300 kg por metro cúbico de densidad de carga por horno.
+Grupo 5. Industria química, petroquímica, textil y papelera.
+a) Instalaciones para la producción a escala industrial de sustancias mediante transformación química o biológica, de los productos o grupos de productos siguientes:
+1.º Productos químicos orgánicos:
+i) Hidrocarburos simples (lineales o cíclicos, saturados o insaturados, alifáticos o aromáticos).
+ii) Hidrocarburos oxigenados, tales como alcoholes, aldehídos, cetonas, ácidos orgánicos, ésteres y mezclas de ésteres acetatos, éteres, peróxidos, resinas epoxi.
+iii) Hidrocarburos sulfurados.
+iv) Hidrocarburos nitrogenados, en particular, aminas, amidas, compuestos nitrosos, nítricos o nitratos, nitrilos, cianatos e isocianatos.
+v) Hidrocarburos fosforados.
+vi) Hidrocarburos halogenados.
+vii) Compuestos orgánicos metálicos.
+viii) Materias plásticas (polímeros, fibras sintéticas, fibras a base de celulosa).
+ix) Cauchos sintéticos.
+x) Colorantes y pigmentos.
+xi) Tensioactivos y agentes de superficie.
+2.º Productos químicos inorgánicos:
+i) Gases y, en particular, el amoniaco, el cloro o el cloruro de hidrógeno, el flúor o fluoruro de hidrógeno, los óxidos de carbono, los compuestos de azufre, los óxidos del nitrógeno, el hidrógeno, el dióxido de azufre, el dicloruro de carbonilo.
+ii) Ácidos y, en particular, el ácido crómico, el ácido fluorhídrico, el ácido fosfórico, el ácido nítrico, el ácido clorhídrico, el ácido sulfúrico, el ácido sulfúrico fumante, los ácidos sulfurados.
+iii) Bases y, en particular, el hidróxido de amonio, el hidróxido potásico, el hidróxido sódico.
+iv) Sales como el cloruro de amonio, el clorato potásico, el carbonato potásico (potasa), el carbonato sódico (sosa), los perboratos, el nitrato argéntico.
+v) No metales, óxidos metálicos u otros compuestos inorgánicos como el carburo de calcio, el silicio, el carburo de silicio.
+3.º Fertilizantes a base de fósforo, nitrógeno o potasio (fertilizantes simples o compuestos).
+4.º Productos fitosanitarios y de biocidas.
+5.º Productos farmacéuticos mediante un proceso químico o biológico.
+6.º Productos explosivos.
+b) Plantas para el tratamiento previo (operaciones tales como el lavado, blanqueo, mercerización) o para el teñido de fibras o productos textiles cuando la capacidad de tratamiento supere las 10 t diarias.
+c) Las plantas para el curtido de pieles y cueros cuando la capacidad de tratamiento supere las 12 t de productos acabados por día.
+d) Plantas industriales para:
+1.º La producción de pasta de papel a partir de madera o de otras materias fibrosas similares.
+2.º La producción de papel y cartón, con una capacidad de producción superior a 200 t diarias.
+e) Instalaciones de producción y tratamiento de celulosa con una capacidad de producción superior a 20 t diarias.
+Grupo 6. Proyectos de infraestructuras.
+a) Carreteras:
+1.º Construcción de autopistas y autovías.
+2.º Construcción de una nueva carretera de cuatro carriles o más, o realineamiento y/o ensanche de una carretera existente de dos carriles o menos con objeto de conseguir cuatro carriles o más, cuando tal nueva carretera o el tramo de carretera realineado y/o ensanchado alcance o supere los 10 km en una longitud continua.
+b) Ferrocarriles:
+1.º Construcción de líneas de ferrocarril para tráfico de largo recorrido.
+2.º Ampliación del número de vías de una línea de ferrocarril existente en una longitud continuada de más de 10 km.
+c) Construcción de aeródromos clasificados como aeropuertos, según la definición del artículo 39 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea con pistas de despegue y aterrizaje de una longitud igual o superior a 2.100 metros.
+d) Construcción de puertos comerciales, pesqueros o deportivos que admitan barcos de arqueo superior a 1.350 t.
+e) Muelles para carga y descarga conectados a tierra y puertos exteriores (con exclusión de los muelles para transbordadores) que admitan barcos de arqueo superior a 1.350 t, excepto que se ubiquen en zona I, de acuerdo con la Delimitación de los Espacios y Usos Portuarios regulados en el artículo 69 letra a) del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre.
+f) Construcción de vías navegables, reguladas en la Decisión n.º 661/2010/UE del Parlamento Europeo y del Consejo, de 7 de julio de 2010, sobre las orientaciones de la Unión para el desarrollo de la red transeuropea de transporte; y puertos de navegación interior que permitan el paso de barcos de arqueo superior a 1.350 t.
+Grupo 7. Proyectos de ingeniería hidráulica y de gestión del agua.
+a) Presas y otras instalaciones destinadas a retener el agua o almacenarla permanentemente cuando el volumen nuevo o adicional de agua almacenada sea superior a 10 hectómetros cúbicos.
+b) Proyectos para la extracción de aguas subterráneas o la recarga artificial de acuíferos, si el volumen anual de agua extraída o aportada es igual o superior a 10 hectómetros cúbicos.
+c) Proyectos para el trasvase de recursos hídricos entre cuencas fluviales, excluidos los trasvases de agua de consumo humano por tubería, en cualquiera de los siguientes casos:
+1.º Que el trasvase tenga por objeto evitar la posible escasez de agua y el volumen de agua trasvasada sea superior a 100 hectómetros cúbicos al año.
+2.º Que el flujo medio plurianual de la cuenca de la extracción supere los 2.000 hectómetros cúbicos al año y el volumen de agua trasvasada supere el 5 % de dicho flujo.
+d) Plantas de tratamiento de aguas residuales cuya capacidad sea superior a 150.000 habitantes-equivalentes.
+Grupo 8. Proyectos de tratamiento y gestión de residuos.
+a) Instalaciones de incineración de residuos peligrosos definidos en el artículo 3.e) de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, así como las de eliminación de dichos residuos mediante depósito en vertedero, depósito de seguridad o tratamiento químico (como se define el epígrafe D9 del anexo I de la Ley 22/2011).
+b) Instalaciones de incineración de residuos no peligrosos o de eliminación de dichos residuos mediante tratamiento físico-químico (como se define el epígrafe D9 del anexo I de la Ley 22/2011), con una capacidad superior a 100 t diarias.
+c) Vertederos de residuos no peligrosos que reciban más de 10 t por día o que tengan una capacidad total de más de 25.000 t, excluidos los vertederos de residuos inertes.
+Grupo 9. Otros proyectos.
+a) Los siguientes proyectos cuando se desarrollen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad:
+1.º Instalaciones de vertederos de residuos no peligrosos no incluidos en el grupo 8 de este anexo I, así como de residuos inertes o materiales de extracción de origen fluvial, terrestre o marino que ocupen más de 1 ha de superficie.
+2.º Proyectos para destinar áreas incultas o áreas seminaturales a la explotación agrícola o aprovechamiento forestal maderero que impliquen la ocupación de una superficie mayor de 10 ha.
+3.º Proyectos de transformación en regadío o de avenamiento de terrenos, cuando afecten a una superficie mayor de 10 ha.
+4.º Dragados fluviales cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales, y dragados marinos cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales.
+5.º Tuberías para el transporte de productos químicos y para el transporte de gas y petróleo, con un diámetro de más de 800 mm y una longitud superior a 10 km en los espacios a los que se refiere el apartado a) y tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
+6.º Líneas para la transmisión de energía eléctrica cuyo trazado afecte a los espacios naturales considerados en este artículo con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.
+7.º Parques eólicos que tengan más de 10 aerogeneradores o 6 MW de potencia.
+8.º Instalaciones para la producción de energía hidroeléctrica.
+9.º Construcción de aeropuertos, según la definición del artículo 39 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea con pistas de despegue y aterrizaje de una longitud inferior a 2.100 metros.
+10.º Proyectos que requieran la urbanización del suelo para polígonos industriales o usos residenciales que ocupen más de 5 ha; Construcción de centros comerciales y aparcamientos, fuera de suelo urbanizable y que en superficie ocupen más de 1 ha; Instalaciones hoteleras en suelo no urbanizable.
+11.º Pistas de esquí, remontes y teleféricos y construcciones asociadas.
+12.º Parques temáticos.
+13.º Instalaciones de conducción de agua a larga distancia con un diámetro de más de 800 mm y una longitud superior a 10 km.
+14.º Concentraciones parcelarias que conlleven cambio de uso del suelo cuando suponga una alteración sustancial de la cubierta vegetal.
+15.º Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la Ley 22/1973, de 21 de julio, de Minas y normativa complementaria.
+16.º Construcción de autopistas, autovías y carreteras convencionales de nuevo trazado.
+17.º Extracción o almacenamiento subterráneo de petróleo y gas natural.
+18.º Instalaciones para la producción de energía eléctrica a partir de la energía solar destinada a su venta a la red, que no se ubiquen en cubiertas o tejados de edificios existentes y que ocupen una superficie de más de 10 ha.
+b) Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha.
+c) Emplazamientos de almacenamiento de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
+d) Instalaciones para la captura de flujos de CO2 con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de CO2 sea igual o superior a 1,5 Mt.
+ANEXO II [Sic]
+Proyectos sometidos a la evaluación ambiental simplificada regulada en el título II, capítulo II, sección 2.ª
+Grupo 1. Agricultura, silvicultura, acuicultura y ganadería.
+a) Proyectos de concentración parcelaria que no estén incluidos en el anexo I cuando afecten a una superficie mayor de 100 ha.
+b) Forestaciones según la definición del artículo 6.g) de la Ley 43/2003, de 21 de noviembre, de Montes, que afecten a una superficie superior a 50 ha y talas de masas forestales con el propósito de cambiar a otro tipo de uso del suelo.
+c) Proyectos de gestión de recursos hídricos para la agricultura:
+1.º Proyectos de consolidación y mejora de regadíos en una superficie superior a 100 ha (proyectos no incluidos en el anexo I).
+2.º Proyectos de transformación a regadío o de avenamiento de terrenos, cuando afecten a una superficie superior a 10 ha.
+d) Proyectos para destinar áreas naturales, seminaturales o incultas a la explotación agrícola que no estén incluidos en el anexo I, cuya superficie sea superior a 10 ha.
+e) Instalaciones para la acuicultura intensiva que tenga una capacidad de producción superior a 500 t al año.
+f) Instalaciones destinadas a la cría de animales en explotaciones ganaderas reguladas por el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas y que superen las siguientes capacidades:
+1.º 2.000 plazas para ganado ovino y caprino.
+2.º 300 plazas para ganado vacuno de leche.
+3.º 600 plazas para vacuno de cebo.
+4.º 20.000 plazas para conejos.
+Grupo 2. Industrias de productos alimenticios.
+a) Instalaciones industriales para la elaboración de grasas y aceites vegetales y animales, siempre que en la instalación se den de forma simultánea las circunstancias siguientes:
+1.º Que esté situada fuera de polígonos industriales.
+2.º Que se encuentre a menos de 500 metros de una zona residencial.
+3.º Que ocupe una superficie de, al menos, 1 ha.
+b) Instalaciones industriales para el envasado y enlatado de productos animales y vegetales cuando cuya materia prima sea animal, exceptuada la leche, tenga una capacidad de producción superior a 75 t por día de productos acabados (valores medios trimestrales), e instalaciones cuando cuya materia prima sea vegetal tenga una capacidad de producción superior a 300 t por día de productos acabados (valores medios trimestrales); O bien se emplee tanto materia prima animal como vegetal y tenga una capacidad de producción superior a 75 t por día de productos acabados (valores medios trimestrales).
+c) Instalaciones industriales para fabricación de productos lácteos, siempre que la instalación reciba una cantidad de leche superior a 200 t por día (valor medio anual).
+d) Instalaciones industriales para la fabricación de cerveza y malta, siempre que en la instalación se den de forma simultánea las circunstancias siguientes:
+1.º Que esté situada fuera de polígonos industriales.
+2.º Que se encuentre a menos de 500 metros de una zona residencial.
+3.º Que ocupe una superficie de, al menos, 1 ha.
+e) Instalaciones industriales para la elaboración de confituras y almíbares, siempre que en la instalación se den de forma simultánea las circunstancias siguientes:
+1.º Que esté situada fuera de polígonos industriales.
+2.º Que se encuentre a menos de 500 metros de una zona residencial.
+3.º Que ocupe una superficie de, al menos, 1 ha.
+f) Instalaciones para el sacrificio, despiece o descuartizamiento de animales con una capacidad de producción de canales superior a 50 t por día.
+g) Instalaciones industriales para la fabricación de féculas, siempre que se den de forma simultánea las circunstancias siguientes:
+1.º Que esté situada fuera de polígonos industriales.
+2.º Que se encuentre a menos de 500 metros de una zona residencial.
+3.º Que ocupe una superficie de, al menos, 1 ha.
+h) Instalaciones industriales para la fabricación de harina de pescado y aceite de pescado, siempre que en la instalación se den de forma simultánea las circunstancias siguientes:
+1.º Que esté situada fuera de polígonos industriales.
+2.º Que se encuentre a menos de 500 metros de una zona residencial.
+3.º Que ocupe una superficie de, al menos, 1 ha.
+i) Azucareras con una capacidad de tratamiento de materia prima superior a las 300 t diarias.
+Grupo 3. Perforaciones, dragados y otras instalaciones mineras e industriales.
+a) Perforaciones profundas, con excepción de las perforaciones para investigar la estabilidad o la estratigrafía de los suelos y subsuelo, en particular:
+1.º Perforaciones geotérmicas de más de 500 metros.
+2.º Perforaciones para el almacenamiento de residuos nucleares.
+3.º Perforaciones de más de 120 metros para el abastecimiento de agua.
+4.º Perforaciones petrolíferas o gasísticas de exploración o investigación.
+b) Instalaciones en el exterior y en el interior para la gasificación del carbón y pizarras bituminosas no incluidas en el anexo I.
+c) Exploración mediante sísmica marina.
+d) Extracción de materiales mediante dragados marinos excepto cuando el objeto del proyecto sea mantener las condiciones hidrodinámicas o de navegabilidad.
+e) Dragados fluviales (no incluidos en el anexo I) y en estuarios cuando el volumen del producto extraído sea superior a 100.000 metros cúbicos anuales.
+f) Instalaciones para la captura de flujos de CO2 con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono, procedente de instalaciones no incluidas en el anexo I.
+g) Explotaciones de áridos (no incluidas en el anexo I) que se hallen ubicadas en:
+1.º terreno de dominio público hidráulico para extracciones superiores a 20.000 metros cúbicos anuales; o
+2.º zona de policía de cauces y su superficie sea mayor de 5 ha.
+h) Explotaciones a cielo abierto y extracción de turba (proyectos no incluidos en el anexo I).
+i) Instalaciones industriales en el exterior para la extracción de carbón, petróleo, gas natural, minerales y pizarras bituminosas (proyectos no incluidos en el anexo I).
+Grupo 4. Industria energética.
+a) Instalaciones industriales para:
+1.º la producción de electricidad, vapor y agua caliente (proyectos no incluidos en el anexo I) con potencia instalada igual o superior a 100 MW.
+b) Construcción de líneas para la transmisión de energía eléctrica (proyectos no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que tengan una longitud superior a 3 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así como sus subestaciones asociadas.
+c) Fabricación industrial de briquetas de hulla y de lignito.
+d) Instalaciones para la producción de energía hidroeléctrica.
+e) Instalaciones para el transporte de vapor y agua caliente, de oleoductos y gasoductos, excepto en el suelo urbano, que tengan una longitud superior a 10 km y tuberías para el transporte de flujos de CO2 con fines de almacenamiento geológico (proyectos no incluidos en el anexo I).
+f) Instalaciones para el procesamiento y almacenamiento de residuos radiactivos (que no estén incluidas en el anexo I).
+g) Instalaciones para la utilización de la fuerza del viento para la producción de energía. (Parques eólicos) no incluidos en el anexo I, salvo las destinadas a autoconsumo que no excedan los 100 kW de potencia total.
+h) Instalaciones para la producción de energía en medio marino.
+i) Instalaciones para producción de energía eléctrica a partir de la energía solar, destinada a su venta a la red, no incluidas en el Anexo I ni instaladas sobre cubiertas o tejados de edificios o en suelos urbanos y que, ocupen una superficie mayor de 10 ha.
+j) Almacenamiento de gas natural sobre el terreno. Tanques con capacidad unitaria superior a 200 t.
+k) Almacenamiento subterráneo de gases combustibles.
+l) Almacenamiento sobre el terreno de combustibles fósiles no incluidos en el anexo I.
+m) Instalaciones para la producción de lingotes de hierro o de acero (fusión primaria o secundaria), incluidas las instalaciones de fundición continua con una capacidad de más de 2,5 t por hora.
+Grupo 5. Industria siderúrgica y del mineral. Producción y elaboración de metales.
+a) Hornos de coque (destilación seca del carbón).
+b) Instalaciones para la fabricación de fibras minerales artificiales.
+c) Astilleros.
+d) Instalaciones para la construcción y reparación de aeronaves.
+e) Instalaciones para la fabricación de material ferroviario.
+f) Instalaciones para la fabricación y montaje de vehículos de motor y fabricación de motores para vehículos.
+g) Embutido de fondo mediante explosivos o expansores del terreno.
+Grupo 6. Industria química, petroquímica, textil y papelera.
+a) Instalaciones industriales de tratamiento de productos intermedios y producción de productos químicos.
+b) Instalaciones industriales para la producción de pesticidas y productos farmacéuticos, pinturas y barnices, elastómeros y peróxidos.
+c) Instalaciones industriales de almacenamiento de productos petrolíferos, petroquímicos y químicos con más de 100 metros cúbicos de capacidad (proyectos no incluidos en el anexo I).
+d) Instalaciones industriales para la fabricación y tratamiento de productos a base de elastómeros.
+e) Instalaciones industriales para la producción de papel y cartón (proyectos no incluidos en el anexo I).
+Grupo 7. Proyectos de infraestructuras.
+a) Proyectos de urbanizaciones de polígonos industriales.
+b) Proyectos situados fuera de áreas urbanizadas de urbanizaciones, incluida la construcción de centros comerciales y aparcamientos y que en superficie ocupen más de 1 ha.
+c) Construcción de vías ferroviarias y de instalaciones de transbordo intermodal y de terminales intermodales de mercancías (proyectos no incluidos en el anexo I).
+d) Construcción de aeródromos, según la definición establecida en el artículo 39 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea (no incluidos en el anexo I) así como cualquier modificación en las instalaciones u operación de los aeródromos que figuran en el anexo I o en el anexo II que puedan tener efectos significativos para el medio ambiente, de conformidad con lo establecido en el artículo 7.2.c) de esta Ley.
+Quedan exceptuados los aeródromos destinados exclusivamente a:
+1.º uso sanitario y de emergencia, o
+2.º prevención y extinción de incendios, siempre que no estén ubicados en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+e) Obras de alimentación artificial de playas cuyo volumen de aportación de arena supere los 500.000 metros cúbicos o bien que requieran la construcción de diques o espigones.
+f) Tranvías, metros aéreos y subterráneos, líneas suspendidas o líneas similares de un determinado tipo, que sirvan exclusiva o principalmente para el transporte de pasajeros.
+g) Construcción de vías navegables tierra adentro (no incluidas en el anexo I).
+h) Obras costeras destinadas a combatir la erosión y obras marítimas que puedan alterar la costa, por ejemplo, por la construcción de diques, malecones, espigones y otras obras de defensa contra el mar, excluidos el mantenimiento y la reconstrucción de tales obras y las obras realizadas en la zona de servicio de los puertos.
+i) Construcción de variantes de población y carreteras convencionales no incluidas en el anexo I.
+j) Modificación del trazado de una vía de ferrocarril existente en una longitud de más de 10 km.
+Grupo 8. Proyectos de ingeniería hidráulica y de gestión del agua.
+a) Extracción de aguas subterráneas o recarga de acuíferos (no incluidos en el anexo I) cuando el volumen anual de agua extraída o aportada sea superior 1 hectómetro cúbico e inferior a 10 hectómetros cúbicos anuales.
+b) Proyectos para el trasvase de recursos hídricos entre cuencas fluviales cuando el volumen de agua trasvasada sea superior a 5 hectómetros cúbicos anuales y que no estén incluidos en el anexo I.
+Se exceptúan los proyectos para el trasvase de agua de consumo humano por tubería y los proyectos para la reutilización directa de aguas depuradas.
+c) Obras de encauzamiento y proyectos de defensa de cauces y márgenes cuando la longitud total del tramo afectado sea superior a 5 km. Se exceptúan aquellas actuaciones que se ejecuten para evitar el riesgo en zona urbana.
+d) Plantas de tratamiento de aguas residuales cuya capacidad esté comprendida entre los 10.000 y los 150.000 habitantes-equivalentes.
+e) Instalaciones de desalación o desalobración de agua con un volumen nuevo o adicional superior a 3.000 metros cúbicos al día.
+f) Instalaciones de conducción de agua a larga distancia con un diámetro de más de 800 mm y una longitud superior a 40 km (proyectos no incluidos en el anexo I).
+g) Presas y otras instalaciones destinadas a retener el agua o almacenarla, siempre que se dé alguno de los siguientes supuestos:
+1.º Grandes presas según se definen en el Reglamento técnico sobre Seguridad de Presas y Embalses, aprobado por Orden de 12 de marzo de 1996, cuando no se encuentren incluidas en el anexo I.
+2.º Otras instalaciones destinadas a retener el agua, no incluidas en el apartado anterior, con capacidad de almacenamiento, nuevo o adicional, superior a 200.000 metros cúbicos.
+Grupo 9. Otros proyectos.
+a) Pistas permanentes de carreras y de pruebas para vehículos motorizados.
+b) Instalaciones de eliminación o valorización de residuos no incluidas en el anexo I que no se desarrollen en el interior de una nave en polígono industrial, o con cualquier capacidad si la actividad se realiza en el exterior o fuera de zonas industriales.
+c) Instalaciones terrestres para el vertido o depósito de materiales de extracción de origen fluvial, terrestre o marino no incluidos en el anexo I con superficie superior a 1 ha.
+d) Instalaciones de almacenamiento de chatarra, de almacenamiento de vehículos desechados e instalaciones de desguace y descontaminación de vehículos que no se desarrollen en el interior de una nave en polígono industrial, o con cualquier capacidad si la actividad se realiza en el exterior o fuera de zonas industriales.
+e) Instalaciones destinadas a la valorización de residuos (incluyendo el almacenamiento fuera del lugar de producción) que no se desarrollen en el interior de una nave en polígono industrial excluidas las instalaciones de residuos no peligrosos cuya capacidad de tratamiento no supere las 5.000 t anuales y de almacenamiento inferior a 100 t.
+f) Instalaciones o bancos de prueba de motores, turbinas o reactores.
+g) Instalaciones para la recuperación o destrucción de sustancias explosivas.
+h) Pistas de esquí, remontes, teleféricos y construcciones asociadas (proyectos no incluidos en el anexo I).
+i) Campamentos permanentes para tiendas de campaña o caravanas con capacidad mínima de 500 huéspedes.
+j) Parques temáticos (proyectos no incluidos en el anexo I).
+k) Proyectos para ganar tierras al mar,siempre que supongan una superficie superior a cinco hectáreas.
+l) Urbanizaciones de vacaciones e instalaciones hoteleras fuera de suelo urbanizado y construcciones asociadas.
+m) Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 50 ha.
+Grupo 10. Los siguientes proyectos que se desarrollen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+a) Plantas de tratamiento de aguas residuales cuando puedan suponer transformaciones ecológicas negativas para el espacio.
+b) Obras de encauzamiento y proyectos de defensa de cursos naturales cuando puedan suponer transformaciones ecológicas negativas para el espacio.
+c) Cualquier proyecto no contemplado en el presente anexo II que suponga un cambio de uso del suelo en una superficie igual o superior a 10 ha.
+Se modifica, con efectos de 22 de septiembre de 2022, los grupos 1 y 2 del anexo B1 por la disposición adicional 2.2 de la Ley 5/2022, de 15 de julio. Ref. BOE-A-2022-13844#da-2
+ Se añaden los apartados 4 y 5 a la letra b) del grupo 2 del anexo I por las disposiciones adicionales 1 y 2 de la Ley 5/2017, de 15 de mayo. Ref. BOE-A-2017-6420
+ Se deroga el anexo B2, siendo sustituido por los anexos I y II de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913., por Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
+ Se añade el apartado l) al grupo 3 del anexo B1 por la disposición adicional 3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-682.
+
+## ANEXO C
+
+Proyectos contemplados en el artículo 31. Ley 17/2006.
+CNAE
+ Título
+ Comprobación ambiental
+ Declaración responsable ambiental
+ %
+ Umbral
+ %
+ Umbral
+ A
+ A
+ AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA).
+ 141
+ A0141
+ EXPLOTACIÓN DE GANADO VACUNO PARA LA PRODUCCIÓN DE LECHE.
+ X
+ ≥ 20
+ X
+ < 20
+ 142
+ A0142
+ EXPLOTACIÓN DE GANADO VACUNO DE CEBO.
+ X
+ ≥40
+ X
+ < 40
+ 143
+ A0143
+ EXPLOTACIÓN DE CABALLOS Y OTROS EQUINOS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 145
+ A0145
+ EXPLOTACIÓN DE GANADO OVINO DE CRÍA.
+ X
+ ≥100
+ X
+ < 100
+ 145
+ A0145
+ EXPLOTACIÓN DE GANADO OVINO DE CEBO.
+ X
+ ≥ 100
+ X
+ < 100
+ 145
+ A0145
+ EXPLOTACIÓN DE GANADO CAPRINO.
+ X
+ ≥ 100
+ X
+ < 100
+ 146
+ A0146
+ EXPLOTACIÓN DE GANADO PORCINO DE CRIA.
+ X
+ ≥ 50
+ X
+ < 50
+ 146
+ A0146
+ EXPLOTACIÓN DE GANADO PORCINO DE CEBO.
+ X
+ ≥ 200
+ X
+ < 200
+ 147
+ A0147
+ INSTALACIONES DE GANADERIA PARA GALLINAS Y OTRAS AVES (EXCEPTO AVESTRUCES) CON LAS SIGUIENTES PLAZAS.
+ X
+ ≥ 4000
+ X
+ < 4000
+ 147
+ A0147
+ INSTALACIONES DE GANADERIA PARA AVESTRUCES CON LAS SIGUIENTES PLAZAS.
+ X
+ ≥ 20
+ X
+ < 20
+ 149
+ A0149
+ INSTALACIONES DE GANADERIA PARA CONEJOS CON LAS SIGUIENTES PLAZAS.
+ 
+ 
+ X
+ < 4000
+ 149
+ A0149
+ OTRAS EXPLOTACIONES GANADERAS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 321
+ A0321 Y A0322
+ ACUICULTURA.
+ X
+ PRODUCCIÓN ≥ 25 T/AÑO
+ X
+ PRODUCCIÓN < 25 T/AÑO
+ B
+ B
+ INDUSTRIAS EXTRACTIVAS (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA).
+ B05
+ B07
+ B08
+ EXPLOTACIONES Y FRENTES DE UNA MISMA AUTORIZACIÓN O CONCESIÓN A CIELO ABIERTO DE YACIMIENTOS MINERALES Y DEMÁS RECURSOS GEOLÓGICOS DE LAS SECCIONES A, B, C Y D CUYO APROVECHAMIENTO ESTÁ REGULADO POR LA LEY DE MINAS Y NORMATIVA COMPLEMENTARIA.
+ X
+ SIN UMBRAL
+ B05
+ B07
+ B08
+ MINERÍA SUBTERRÁNEA.
+ X
+ SIN UMBRAL
+ B06
+ EXTRACCIÓN DE PETRÓLEO Y GAS NATURAL CON FINES COMERCIALES.
+ X
+ SIN UMBRAL
+ B09
+ PERFORACIONES O SONDEOS, CON EXCEPCIÓN DE LAS PERFORACIONES PARA INVESTIGACIÓN, SALVO:
+ X
+ SIN UMBRAL
+ 1.º PERFORACIONES GEOTÉRMICAS.
+ 2.º PERFORACIONES PARA EL ALMACENAMIENTO DE RESIDUOS NUCLEARES.
+ 3.º PERFORACIONES PARA EL ABASTECIMIENTO DE AGUAS.
+ 4.º PERFORACIONES PARA LA INVESTIGACIÓN DE RECURSOS MINERALES.
+ B09
+ INSTALACIONES INDUSTRIALES EN EL EXTERIOR PARA LA EXTRACCIÓN DE CARBÓN, PETRÓLEO, GAS NATURAL, MINERALES Y PIZARRAS BITUMINOSAS.
+ X
+ SIN UMBRAL
+ PRODUCCIÓN DE LUBRICANTES A PARTIR DE PETRÓLEO, ASÍ COMO LAS INSTALACIONES DE GASIFICACIÓN Y DE LICUEFACCIÓN.
+ X
+ SIN UMBRAL
+ CONSTRUCCIÓN DE LÍNEAS AÉREAS PARA EL TRANSPORTE Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA.
+ X
+ VOLTAJE ≥12 KV Y LONGITUD > 1 KM Y QUE NO ESTÉN SOMETIDAS A EIA
+ C
+ C
+ INDUSTRIA MANUFACTURERA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA).
+ 101
+ C101
+ PROCESADO Y CONSERVACIÓN DE CARNE Y ELABORACIÓN DE PRODUCTOS CÁRNICOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 102
+ C102
+ PROCESADO Y CONSERVACIÓN DE PESCADOS, CRUSTÁCEOS Y MOLUSCOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 103
+ C103
+ PROCESADO Y CONSERVACIÓN DE FRUTAS Y HORTALIZAS (CONFITURAS, ALMIBARES..).
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 104
+ C104
+ FABRICACIÓN DE ACEITES Y GRASAS VEGETALES Y ANIMALES.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 105
+ C105
+ FABRICACIÓN DE PRODUCTOS LÁCTEOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 106
+ C106
+ FABRICACIÓN DE PRODUCTOS DE MOLINERÍA, ALMIDONES Y PRODUCTOS AMILÁCEOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 107
+ C107
+ FABRICACIÓN DE PRODUCTOS DE PANADERÍA Y PASTAS ALIMENTICIAS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1081
+ C1081
+ FABRICACIÓN DE AZÚCAR.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1082
+ C1082
+ FABRICACIÓN DE CACAO, CHOCOLATE Y PRODUCTOS DE CONFITERÍA.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1083
+ C1083
+ ELABORACIÓN DE CAFÉ, TÉ E INFUSIONES.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1084
+ C1084
+ ELABORACIÓN DE ESPECIAS, SALSAS Y CONDIMENTOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1085
+ C1085
+ ELABORACIÓN DE PLATOS Y COMIDAS PREPARADOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1086
+ C1086
+ ELABORACIÓN DE PREPARADOS ALIMENTICIOS HOMOGENEIZADOS Y ALIMENTOS DIETÉTICOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1089
+ C1089
+ ELABORACIÓN DE OTROS PRODUCTOS ALIMENTICIOS N.C.O.P.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 109
+ C109
+ FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN ANIMAL.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1101
+ C1101
+ DESTILACIÓN, RECTIFICACIÓN Y MEZCLA DE BEBIDAS ALCOHÓLICAS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1102
+ C1102
+ ELABORACIÓN DE VINOS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1103
+ C1103
+ ELABORACIÓN DE SIDRA Y OTRAS BEBIDAS FERMENTADAS A PARTIR DE FRUTAS.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1104
+ C1104
+ ELABORACIÓN DE OTRAS BEBIDAS NO DESTILADAS, PROCEDENTES DE LA FERMENTACIÓN.
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ 1105
+ C1105
+ FABRICACIÓN DE CERVEZA Y MALTA .
+ X
+ PRODUCCIÓN ≥ 100KG/DÍA
+ X
+ PRODUCCIÓN < 100KG/DÍA
+ C1106
+ E 413.1
+ E 413.1
+ INSTALACIONES PARA EL SACRIFICIO DE ANIMALES, DE DESPIECE O DE CONSERVACIÓN DEL GANADO SACRIFICADO Y VOLATERÍA.
+ X
+ SIN UMBRAL
+ 12
+ C12
+ INDUSTRIA DEL TABACO.
+ X
+ SIN UMBRAL
+ 131
+ C131
+ PREPARACIÓN E HILADO DE FIBRAS TEXTILES.
+ 
+ 
+ X
+ SIN UMBRAL
+ 1320
+ C1320
+ FABRICACIÓN, CONFECCIÓN Y PREPARADO DE TEJIDOS TEXTILES Y DE PUNTO.
+ X
+ SOLO LOS REFERENTES A LA FABRICACIÓN DE TEJIDOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES ≥ 100KG/AÑO
+ X
+ SOLO LOS REFERENTES A LA FABRICACIÓN DE TEJIDOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS, CON CONSUMO DE DISOLVENTES, Y CONSUMO < 100KG/AÑO
+ C1330
+ C1391
+ 151
+ C151
+ PREPARACIÓN, CURTIDO Y ACABADO DEL CUERO; FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA, VIAJE Y DE GUARNICIONERÍA Y TALABARTERÍA; PREPARACIÓN Y TEÑIDO DE PIELES.
+ X
+ SOLO LOS REFERENTES A LA FABRICACIÓN DE PRODUCTOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES ≥ 100KG/AÑO
+ X
+ SOLO LOS REFERENTES A LA FABRICACIÓN DE PRODUCTOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES < 100KG/AÑO
+ 1512
+ C1512
+ FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA, VIAJE Y DE GUARNICIONERÍA Y TALABARTERÍA.
+ 
+ 
+ X
+ SIN UMBRAL
+ 152
+ C152
+ FABRICACIÓN DE CALZADO.
+ 
+ 
+ X
+ SIN UMBRAL
+ 161
+ C161
+ ASERRADO Y CEPILLADO DE LA MADERA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 162
+ C162
+ FABRICACIÓN DE PRODUCTOS DE MADERA, CORCHO, CESTERÍA Y ESPARTERÍA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1621
+ C1621
+ FABRICACIÓN DE CHAPAS Y TABLEROS DE MADERA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1623
+ C1623
+ FABRICACIÓN DE OTRAS ESTRUCTURAS DE MADERA Y PIEZAS DE CARPINTERÍA Y EBANISTERÍA PARA LA CONSTRUCCIÓN.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1624
+ C1624
+ FABRICACIÓN DE ENVASES Y EMBALAJES DE MADERA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1629
+ C1629
+ FABRICACIÓN DE OTROS PRODUCTOS DE MADERA; ARTÍCULOS DE CORCHO, CESTERÍA Y ESPARTERÍA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 17
+ C17
+ INDUSTRIA DEL PAPEL.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 181
+ C181
+ ARTES GRÁFICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1812
+ C1812
+ OTRAS ACTIVIDADES DE IMPRESIÓN Y ARTES GRÁFICAS: IMPRESIÓN DE PERIÓDICOS, LIBROS Y REVISTAS.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1813
+ C1813
+ SERVICIOS DE PREIMPRESIÓN Y PREPARACIÓN DE SOPORTES: COMPOSICIÓN Y FOTOGRABADO.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 1814
+ C1814
+ ENCUADERNACIÓN Y SERVICIOS RELACIONADOS CON LA MISMA.
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ 20
+ C20
+ INDUSTRIA QUÍMICA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA).
+ 2011
+ C2011
+ FABRICACIÓN DE GASES INDUSTRIALES.
+ X
+ SIN UMBRAL
+ 2012
+ C2012
+ FABRICACIÓN DE COLORANTES Y PIGMENTOS.
+ X
+ SIN UMBRAL
+ 2013
+ C2013
+ FABRICACIÓN DE OTROS PRODUCTOS BÁSICOS DE QUÍMICA INORGÁNICA.
+ X
+ SIN UMBRAL
+ 2014
+ C2014
+ FABRICACIÓN DE OTROS PRODUCTOS BÁSICOS DE QUÍMICA ORGÁNICA.
+ X
+ SIN UMBRAL
+ 2015
+ C2015
+ FABRICACIÓN DE FERTILIZANTES Y COMPUESTOS NITROGENADOS.
+ X
+ SIN UMBRAL
+ 2016
+ C2016
+ FABRICACIÓN DE PLÁSTICOS EN FORMAS PRIMARIAS.
+ X
+ SIN UMBRAL
+ 2017
+ C2017
+ FABRICACIÓN DE CAUCHO SINTÉTICO EN FORMAS PRIMARIAS.
+ X
+ SIN UMBRAL
+ 202
+ C202
+ FABRICACIÓN DE PESTICIDAS Y OTROS PRODUCTOS AGROQUÍMICOS.
+ X
+ SIN UMBRAL
+ 203
+ C203
+ FABRICACIÓN DE PINTURAS, BARNICES Y REVESTIMIENTOS SIMILARES; TINTAS DE IMPRENTA Y MASILLAS.
+ X
+ SIN UMBRAL
+ 204
+ C204
+ FABRICACIÓN DE JABONES, DETERGENTES Y OTROS ARTÍCULOS DE LIMPIEZA Y ABRILLANTAMIENTO; FABRICACIÓN DE PERFUMES Y COSMÉTICOS.
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+ 205
+ C205
+ FABRICACIÓN DE OTROS PRODUCTOS QUÍMICOS.
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+ 206
+ C206
+ FABRICACIÓN DE FIBRAS ARTIFICIALES Y SINTÉTICAS.
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+ 21
+ C21
+ FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS.
+ X
+ SIN UMBRAL
+ 22
+ C22
+ FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICOS.
+ X
+ SIN UMBRAL
+ 231
+ C231
+ FABRICACIÓN DE VIDRIO Y PRODUCTOS DE VIDRIO.
+ X
+ SIN UMBRAL
+ 232
+ C232
+ FABRICACIÓN DE PRODUCTOS CERÁMICOS REFRACTARIOS.
+ X
+ SIN UMBRAL
+ 2331
+ C2331
+ FABRICACIÓN DE AZULEJOS Y BALDOSAS DE CERÁMICA.
+ X
+ SIN UMBRAL
+ 2332
+ C2332
+ FABRICACIÓN DE LADRILLOS, TEJAS Y PRODUCTOS DE TIERRAS COCIDAS PARA LA CONSTRUCCIÓN.
+ X
+ SIN UMBRAL
+ 234
+ C234
+ FABRICACIÓN DE OTROS PRODUCTOS CERÁMICOS.
+ X
+ SIN UMBRAL
+ 235
+ C235
+ FABRICACIÓN DE CEMENTO, CAL Y YESO.
+ X
+ SIN UMBRAL
+ 236
+ C236
+ FABRICACIÓN DE ELEMENTOS DE HORMIGÓN, CEMENTO Y YESO.
+ X
+ SIN UMBRAL
+ 237
+ C237
+ CORTE, TALLADO Y ACABADO DE LA PIEDRA.
+ X
+ SIN UMBRAL
+ 239
+ C239
+ FABRICACIÓN DE PRODUCTOS ABRASIVOS Y PRODUCTOS MINERALES NO METÁLICOS N.C.O.P.
+ X
+ SIN UMBRAL
+ 24
+ C24
+ METALURGIA; FABRICACIÓN DE PRODUCTOS DE HIERRO, ACERO Y FERROALEACIONES.
+ X
+ SIN UMBRAL
+ 25
+ C25
+ FABRICACIÓN DE PRODUCTOS METÁLICOS, EXCEPTO MAQUINARIA Y EQUIPO.
+ X
+ SIN UMBRAL
+ 26
+ C26
+ FABRICACIÓN DE PRODUCTOS INFORMÁTICOS, ELECTRÓNICOS Y ÓPTICOS (SE EXCEPTÚA EL ENSAMBLAJE DE COMPONENTES).
+ 
+ 
+ X
+ SIN UMBRAL
+ 2611
+ C2611
+ FABRICACIÓN DE COMPONENTES ELECTRÓNICOS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 2620
+ C2620
+ FABRICACIÓN DE ORDENADORES Y EQUIPOS PERIFÉRICOS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 2630
+ C2630
+ FABRICACIÓN DE EQUIPOS DE TELECOMUNICACIONES.
+ 
+ 
+ X
+ SIN UMBRAL
+ 2640
+ C2640
+ FABRICACIÓN DE PRODUCTOS ELECTRÓNICOS DE CONSUMO.
+ 
+ 
+ X
+ SIN UMBRAL
+ 265
+ C265
+ FABRICACIÓN DE INSTRUMENTOS Y APARATOS DE MEDIDA, VERIFICACIÓN Y NAVEGACIÓN; FABRICACIÓN DE RELOJES.
+ 
+ 
+ X
+ SIN UMBRAL
+ 2660
+ C2660
+ FABRICACIÓN DE EQUIPOS DE RADIACIÓN, ELECTROMÉDICOS Y ELECTROTERAPÉUTICOS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 2670
+ C2670
+ FABRICACIÓN DE INSTRUMENTOS DE ÓPTICA Y EQUIPO FOTOGRÁFICO.
+ 
+ 
+ X
+ SIN UMBRAL
+ 268
+ C268
+ FABRICACIÓN DE SOPORTES MAGNÉTICOS Y ÓPTICOS.
+ 
+ 
+ X
+ SIN UMBRAL
+ 27
+ C27
+ FABRICACIÓN DE MATERIAL Y EQUIPO ELÉCTRICO.
+ 
+ 
+ X
+ SIN UMBRAL
+ 28
+ C28
+ FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.O.P.
+ 
+ 
+ X
+ SIN UMBRAL
+ 29
+ C29
+ FABRICACIÓN DE VEHÍCULOS DE MOTOR, REMOLQUES Y SEMIRREMOLQUES.
+ X
+ SIN UMBRAL
+ 301
+ C301
+ CONSTRUCCIÓN NAVAL.
+ X
+ SIN UMBRAL
+ 302
+ C302
+ FABRICACIÓN DE LOCOMOTORAS Y MATERIAL FERROVIARIO.
+ X
+ SIN UMBRAL
+ 3091
+ C3091
+ FABRICACIÓN DE MOTOCICLETAS.
+ X
+ SIN UMBRAL
+ 3092
+ C3092
+ FABRICACIÓN DE BICICLETAS Y DE VEHÍCULOS PARA PERSONAS CON DISCAPACIDAD.
+ X
+ SIN UMBRAL
+ 3099
+ C3099
+ FABRICACIÓN DE OTRO MATERIAL DE TRANSPORTE N.C.O.P.
+ X
+ SIN UMBRAL
+ 31
+ C31
+ FABRICACIÓN DE MUEBLES.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 3103
+ C3103
+ FABRICACIÓN DE COLCHONES.
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+ 3109
+ C3109
+ FABRICACIÓN DE OTROS MUEBLES.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 32
+ C32
+ OTRAS INDUSTRIAS MANUFACTURERAS.
+ X
+ SÓLO CUANDO SE UTILIZAN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 321
+ C321
+ FABRICACIÓN DE ARTÍCULOS DE JOYERÍA, BISUTERÍA Y SIMILARES.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+ 322
+ C322
+ FABRICACIÓN DE INSTRUMENTOS MUSICALES.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 323
+ C323
+ FABRICACIÓN DE ARTÍCULOS DE DEPORTE.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 324
+ C324
+ FABRICACIÓN DE JUEGOS Y JUGUETES.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+ 329
+ C329
+ INDUSTRIAS MANUFACTURERAS N.C.O.P.
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO
+ X
+ SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO <  100 KG/AÑO
+ -
+ -
+ RECICLAJE.
+ X
+ SIN UMBRAL
+ 36
+ E36
+ CAPTACIÓN Y TRATAMIENTO DE AGUAS PARA CONSUMO.
+ X
+ QUE NO ESTÉN SOMETIDAS A EIA NI AAI
+ 37
+ E37
+ TRATAMIENTO DE AGUAS RESIDUALES.
+ X
+ QUE NO ESTÉN SOMETIDAS A EIA NI AAI
+ G
+ G
+ COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS DE MOTOR Y MOTOCICLETAS.
+ 452
+ G452
+ MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS DE MOTOR.
+ X
+ SIN UMBRAL
+ E4520
+ E4520
+ LAVADO DE VEHÍCULOS A MOTOR, CISTERNAS Y REMOLQUES DE TRANSPORTE.
+ X
+ SIN UMBRAL
+ H
+ H
+ TRANSPORTE Y ALMACENAMIENTO (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA).
+ 521
+ H521
+ DEPÓSITO Y ALMACENAMIENTO Y VENTA DE PINTURAS, BARNICES Y DISOLVENTES.
+ 
+ 
+ X
+ SIN UMBRAL
+ I
+ I
+ HOSTELERÍA.
+ 55
+ I55
+ SERVICIOS DE ALOJAMIENTO.
+ X
+ LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS
+ 561
+ I561
+ RESTAURANTES, BARES Y CAFETERÍAS.
+ X
+ LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS
+ 562
+ I562
+ PROVISIÓN DE COMIDAS PREPARADAS PARA EVENTOS Y OTROS SERVICIOS DE COMIDAS.
+ X
+ LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS
+ 5629
+ I5629
+ OTROS SERVICIOS DE COMIDAS.
+ X
+ LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS
+ 563
+ I563
+ ESTABLECIMIENTOS DE BEBIDAS.
+ X
+ LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS
+ M
+ M
+ ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS.
+ 75
+ M75
+ ACTIVIDADES VETERINARIAS.
+ X
+ CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ X
+ SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ Q
+ Q
+ ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES.
+ 861
+ Q861
+ ACTIVIDADES HOSPITALARIAS (HOSPITALES Y CLÍNICAS).
+ X
+ CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ X
+ SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ 862
+ Q862
+ ACTIVIDADES MÉDICAS Y ODONTOLÓGICAS.
+ X
+ CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ X
+ SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ 869
+ Q869
+ SERVICIOS MÉDICOS CON REHABILITACIÓN.
+ X
+ CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ X
+ SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ TANATORIOS ( EN EL QUE SE LLEVEN A CABO OPERACIONES DE TANATOPRAXIA).
+ X
+ SIN UMBRAL
+ 9609
+ s9609
+ GUARDERÍAS PARA ANIMALES.
+ X
+ ASOCIADOS A CLÍNICAS VETERINARIAS O PARA ANIMALES NO PROPIOS
+ S
+ S
+ OTROS SERVICIOS Y PROYECTOS.
+ S9601
+ S9601
+ LAVADO Y LIMPIEZA DE PRENDAS TEXTILES Y DE PIEL.
+ X
+ SÓLO CUANDO IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS
+ X
+ SÓLO CUANDO IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+ c2399
+ c2399
+ PLANTAS ASFÁLTICAS MÓVILES.
+ X
+ SIN UMBRAL
+ 2399
+ c2399
+ PLANTAS DE TRATAMIENTO DE ÁRIDOS MÓVILES.
+ X
+ SIN UMBRAL
+ H5221
+ H5221
+ ESTACIONAMIENTO DE VEHÍCULOS AUTOMÓVILES.
+ X
+ UNICAMENTE APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES QUE DISPONGAN DE ALGUNA PLANTA EN SÓTANO.
+Se modifica por el art. 25.4 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+ Téngase en cuenta que esta actualización será de aplicación a los expedientes presentados con posterioridad a la entrada en vigor de la citada Ley, según estalece su disposición adicional 5.
+ Se modifica por el art. 14.9 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842

@@ -1,0 +1,170 @@
+# Ley 91/1978, de 28 de diciembre, del Parque Nacional de Doñana.
+
+- Identificador BOE: `BOE-A-1979-932`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1979-932
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:
+
+### Artículo primero
+
+Artículo primero. Finalidad.
+Uno. Es finalidad de esta Ley el establecimiento de un régimen jurídico especial para el Parque Nacional de Doñana y su reclasificación como tal, en cumplimiento de lo dispuesto en la Ley quince/mil novecientos setenta y cinco, de dos de mayo, de Espacios Naturales Protegidos.
+Dos. Dicho régimen jurídico especial se orienta a proteger la integridad de la gea, fauna, flora, aguas y atmósfera y en definitiva del conjunto de los ecosistemas del Parque Nacional de Doñana, así como sus valores histórico artísticos, y a promover la investigación y la utilización en orden a la enseñanza y disfrute del Parque Nacional, en razón de su interés educativo, científico, cultural, recreativo, turístico y socioeconómico. Las medidas de conservación se extienden asimismo a las aguas subterráneas y al mar litoral, salvaguardando las competencias del Ministerio de Defensa y especialmente la que se contemplan en la Ley de Costas, de veintiséis de abril de mil novecientos sesenta y nueve.
+
+### Artículo segundo
+
+Artículo segundo. Ámbito territorial.
+Uno. Los linderos del Parque Nacional de Doñana, así como los de las zonas exteriores sometidas a protección especial que se establecen, son los que se especifican en el anexo de esta Ley.
+Dos. No obstante, el Gobierno, por acuerdo del Consejo de Ministros, podrá incorporar al Parque Nacional de Doñana otros terrenos colindantes con el mismo, que reúnan características adecuadas para ello, en cualquiera de los siguientes supuestos:
+a) Que sean de la propiedad del Estado o de alguno de sus organismos.
+b) Que sean expropiados con esta finalidad.
+c) Que sean aportados por sus propietarios a tal efecto.
+Tres. El Gobierno deberá adoptar las medidas y habilitar los medios necesarios para que los terrenos incluidos en el Parque Nacional de Doñana, cuyos propietarios no suscriban los correspondientes acuerdos respecto a las limitaciones que sean indemnizables, pasen a ser propiedad del Estado. Asimismo, y sin perjuicio de aplicar la expropiación forzosa cuando fuera preciso, se podrán autorizar permutas de terrenos propiedad del Estado o de otros organismos públicos por otros situados en el interior del Parque o en su periferia, previo informe del patronato.
+Cuatro. Los territorios incluidos en el Parque Nacional quedan clasificados, a todos los efectos, como suelo no urbanizable objeto de protección especial.
+
+### Artículo tercero
+
+Artículo tercero. Zonas de protección o Preparque.
+El entorno natural de este Parque quedará sometido a las limitaciones precisas que requiera la conservación del mismo, en la forma y con los efectos previstos en la legislación correspondiente en cuanto al ordenamiento de las comunicaciones, explotaciones agrícolas, urbanismo y cualquier otra actividad.
+Uno. En cuanto a las zonas terrestres de protección especial previstas en el artículo segundo de esta Ley, su destino se limitará al uso agrario y actividades compatibles con las finalidades del Parque Nacional. A estos efectos, el Ministerio de Agricultura, previo informe del Patronato, regulará en ellos el uso de pesticidas, abonos y, en general, de todos aquellos productos que puedan resultar nocivos para el Parque Nacional.
+Dos. Se consideran como zonas de influencia, a efectos de las aguas superficiales, las cuencas del río Guadalquivir y las de los ríos y arroyos situados en la margen derecha del Guadalquivir y dentro de la cuenca hidrográfica de éste, entre el Guadalquivir y el océano Atlántico.
+A efectos de las aguas subterráneas se consideran como zonas de protección la zona número uno, definida en el Decreto setecientos treinta y cinco/mil novecientos setenta y uno, de tres de abril (la totalidad de los terrenos municipales de Almonte, Rociaña, Hinojos, Villamanrique de la Condesa, Pilas y Aznalcázar) y los territorios municipales de Lucena del Puerto, Moguer y Palos de la Frontera.
+En dichas zonas y cuencas vertientes, y para todas aquellas actuaciones que puedan modificar la cantidad o calidad de las aguas subterráneas o superficiales aportadas al Parque Nacional, será preceptivo un informe del Patronato del mismo, a que se refiere el artículo quinto de la presente Ley, sin perjuicio de las funciones encomendadas a la Administración por el referido Decreto setecientos treinta y cinco/mil novecientos setenta y uno y por la vigente Ley de Aguas.
+El Gobierno, a propuesta del Ministerio de la Presidencia de Gobierno, y previa iniciativa del Patronato, podrá limitar o suspender cualquier actividad que pueda afectar a la cantidad o calidad de las aguas del Parque Nacional. Dicha limitación o suspensión tendrá carácter provisional y se mantendrá hasta tanto se adopten las correcciones oportunas.
+Tres. En todo caso las medidas protectoras contenidas en los dos apartados anteriores serán compensadas con una política de mantenimiento y promoción del empleo en la comarca.
+
+### Artículo cuarto
+
+Artículo cuarto. Plan Rector de Uso y Gestión.
+Uno. En el plazo máximo de un año, a partir de la promulgación de la presente Ley, el Ministerio de Agricultura, a través del Instituto Nacional para la Conservación de la Naturaleza, confeccionará un Plan Rector de Uso y Gestión del Parque Nacional de Doñana, que será sometido a información pública, y previa aprobación provisional del Patronato, será elevado al Gobierno para su aprobación definitiva.
+Dicho Plan Rector, que tendrá una vigencia mínima de cuatro años, incluirá las directrices generales de ordenación y uso del Parque Nacional, así como las normas de gestión y las actuaciones necesarias para la conservación y protección de sus valores naturales y para garantizar el cumplimiento de las finalidades de investigación, interpretación de los fenómenos de la naturaleza, educación ambiental y de uso y disfrute por los visitantes. Contendrá también:
+a) La zonificación del Parque Nacional, delimitando áreas de diferente utilización y destino, entre las que se incluirán las reservas científicas, sean integrales o dirigidas. A estos efectos son reservas científicas aquellos espacios naturales que por su especial valor científico merezcan ser protegidos, conservados o mejorados, evitando cualquier acción que pueda entrañar destrucción, deterioro, transformación, perturbación o desfiguración de lugares o comunidades biológicas. La utilización de estas reservas se supeditará a las necesidades de su conservación y a los fines científicos y de investigación que hayan motivado su delimitación.
+Se dedicarán a tal finalidad las superficies expresamente definidas como tales en el anexo.
+A propuesta del Director de la Estación Biológica se podrán establecer reservas científicas por un período de tiempo determinado.
+Las reservas científicas, a los efectos de investigación científica, dependerán del Consejo Superior de Investigaciones Científicas, a través del Director de la Estación Biológica de Doñana, quien coordinará todos los programas de investigación a desarrollar en el Parque Nacional. Toda intervención en el interior de las reservas científicas se realizará de conformidad con el Director de la Estación Biológica.
+b) Las medidas tendentes a la eliminación de la explotación de los recursos naturales del Parque Nacional, con excepción de aquellas actividades que se consideren necesarias para mantenerlo en su situación social.
+c) Las actividades de gestión necesarias para el mantenimiento de los equilibrios biológicos existentes.
+Dos. El ICONA gestionará la colaboración de otros Organismos públicos nacionales y opcionalmente, y en la medida que sea posible, la de los Organismos privados nacionales e internacionales, ya sean gubernamentales o no, para el mejor cumplimiento de los fines del Parque Nacional de Doñana.
+Los Organismos públicos deberán prestar la colaboración técnica que de ellos sea solicitada, conforme a lo dispuesto en este artículo.
+Tres. Todo proyecto de obras, trabajos o aprovechamientos que no figure en el Plan Rector de Uso y Gestión o en sus revisiones, y que se considere necesario llevar a cabo, deberá ser justificado debidamente, teniendo en cuenta las directrices de aquél y autorizado por el Instituto Nacional para la Conservación de la Naturaleza, previo informe del Patronato del Parque Nacional.
+Cuatro. El régimen jurídico especial que se establece por la presente Ley para el Parque Nacional de Doñana lleva aneja la calificación de utilidad pública para todos los terrenos que lo constituyen, a efectos expropiatorios de los bienes y derechos afectados.
+Cinco. Serán indemnizables las limitaciones a la propiedad que se establezcan en relación con los usos permitidos en el suelo no urbanizable.
+
+### Artículo quinto
+
+Artículo quinto. Patronato.
+1. El Patronato del Parque Nacional de Doñana, a que se refiere la Ley de Espacios Naturales Protegidos, estará adscrito a efectos administrativos al Ministerio de Agricultura y compuesto por los siguientes miembros:
+– Un representante de cada uno de los Departamentos de Presidencia del Gobierno, Hacienda, Educación y Ciencia, Agricultura, Obras Públicas y Urbanismo, Comercio y Turismo, Industria y Energía, Cultura y Transportes y Comunicaciones.
+– Un representante de la Junta de Andalucía.
+– El Director-Conservador del Parque Nacional.
+– Un representante de cada una de las Diputaciones Provinciales de Sevilla y Huelva.
+– Un representante designado por cada uno de los Ayuntamientos de Hinojos, Almonte, Aznalcázar, Puebla del Río y Sanlúcar de Barrameda.
+– Un representante de cada una de las Cámaras Agrarias Provinciales de Sevilla y Huelva.
+– Un representante de los propietarios de los predios existentes en el Parque Nacional, designado entre ellos mismos.
+– Un representante del Instituto Geológico y Minero de España.
+– Un representante de la Comisaría de Aguas del Guadalquivir.
+– Un representante de las Universidades de Andalucía designado conjuntamente por los Rectores de las mismas.
+– Los antiguos conservadores del Parque Nacional y Directores de la Reserva Biológica.
+– Un Director de la Estación Biológica de Doñana.
+– Un representante de asociaciones conservacionistas que sean propietarias de terrenos en el Parque.
+– Dos representantes de Asociaciones –una de ellas de Andalucía–, elegidos por ellas mismas de entre las que por sus estatutos se dediquen a la conservación de la Naturaleza.
+– Un representante de la Guardería del Parque.
+– Uno de libre designación por el Ministro de Agricultura.
+El Patronato tendrá su sede en la provincia de Huelva.
+El Presidente será designado por el Gobierno de entre los miembros del Patronato.
+Dependiente del Patronato existirá una Comisión Permanente cuyo Presidente será el de aquél, y estará compuesta por los siguientes miembros: Los representantes de los Ministerios de Obras Públicas y Urbanismo, Agricultura y Educación y Ciencia, el representante de la Junta de Andalucía, un representante de los Ayuntamientos de la provincia de Sevilla, un representante de los Ayuntamientos de Huelva, un representante de las Sociedades conservacionistas, el Conservador del Parque y el Director de la Estación Biológica.
+Dos. Cuando se produzcan cambios de administrativos o modificaciones en la denominación de las Entidades representadas, el Gobierno, por acuerdo tomado en Consejo de Ministros, adecuará la composición del Patronato a dichos cambios o modificaciones.
+Tres. Son cometidos y funciones del Patronato:
+a) Velar por el cumplimiento de las normas establecidas en las zonas de protección, promover posibles ampliaciones del Parque Nacional, promover la construcción y acondicionamiento de los accesos precisos, administrar los fondos procedentes de la utilización de los servicios del Parque o de las ayudas que al Patronato otorguen cualquier clase de Entidades o particulares, proponer normas para la más eficaz defensa de los valores y singularidades del Parque Nacional y realizar cuantas gestiones estime beneficiosas para el mismo.
+b) Aprobar provisionalmente el Plan Rector de Uso y Gestión y sus revisiones, velando por su cumplimiento, y la Memoria anual de actividades y resultados que el Conservador del Parque habrá de elevar al ICONA.
+c) Informar sobre cualquier clase de trabajos, obras o aprovechamientos y planes de investigación que se pretendan realizar, incluidos o no en el Plan Rector de Uso y Gestión.
+Si al evacuar el Patronato los informes preceptivos a que se alude en este apartado c), las dos terceras partes de sus componentes mostrasen su disconformidad con alguna de las propuestas, el Presidente devolverá a su origen la citada propuesta para su reconsideración.
+d) Delegar en la Comisión Permanente cuantas funciones estime convenientes por acuerdo de la mayoría absoluta de sus miembros.
+e) Aprobar y modificar su propio Reglamento de régimen interior, en el que determinará la estructura funcional de la Administración del Parque.
+
+### Artículo sexto
+
+Artículo sexto. Director-Conservador.
+Uno. La responsabilidad de la Administración y Coordinación de Actividades del Parque Nacional corresponderá a un Director-Conservador designado por el Director de ICONA, previa conformidad del Patronato, y recaerá en un funcionario con titulación universitaria superior.
+Dos. El Director-Conservador formará parte del Patronato y de la Comisión Permanente, a cuyas reuniones asistirá con voz y voto.
+
+### Artículo séptimo
+
+Artículo séptimo. Tanteo y retracto.
+La Administración del Estado, a través de ICONA, podrá ejercitar derechos de tanteo y retracto en todas las transmisiones onerosas de bienes y derechos «inter vivos» de terrenos situados en el interior del Parque Nacional en la forma que reglamentariamente se determine. El derecho de retracto sólo podrá ejercitarse dentro de los seis meses a contar desde la notificación de la transmisión a ICONA y al Patronato del Parque Nacional.
+
+### Artículo octavo
+
+Artículo octavo. Medios económicos.
+Para atender a las actividades, trabajos y obras de conservación, mejora e investigación, así como a los gastos generales del Parque Nacional de Doñana, en los presupuestos del Instituto Nacional para la Conservación de la Naturaleza, Consejo Superior de Investigaciones Científicas y otros Organismos que pudieran tener interés por el Parque deberán figurar las consignaciones correspondientes.
+A los mismos efectos se podrá disponer también:
+a) De aquellas partidas que para tales fines se incluyan en los Presupuestos Generales del Estado.
+b) De las tasas que puedan establecerse por acceso al Parque y utilización de servicios, cuya forma y cuantía, según los casos, se determinará por acuerdo del Consejo de Ministros, a propuesta del Ministerio de Agricultura, oído el Patronato a que se refiere esta Ley.
+c) De toda clase de aportaciones y subvenciones de Entidades públicas y privadas, así como de los particulares.
+d) De todos aquellos ingresos que puedan obtenerse como consecuencia de concesiones y autorizaciones por utilización de servicios en el Parque Nacional, en la forma que se determine en el Plan Rector de Uso y Gestión.
+
+### Artículo noveno
+
+Artículo noveno. Participación de las Corporaciones Locales.
+Uno. Los Ayuntamientos de los municipios incluidos en la demarcación del Parque y su zona de protección tendrán derecho preferente para la obtención de concesiones y autorizaciones de establecimientos y prestación de los servicios de utilización pública previstos en el Plan Rector de Uso y Gestión.
+Dos. Las normas de desarrollo de esta Ley fijarán la participación que corresponda a dichos Ayuntamientos en las tasas que se establezcan por acceso del público a las instalaciones del Parque u otras finalidades.
+
+### Artículo diez
+
+Artículo diez. Régimen de sanciones.
+La inobservancia o infracción de la normativa aplicable a este Parque Nacional será sancionada con arreglo a lo dispuesto en la Ley de Espacios Naturales Protegidos y en el Real Decreto dos mil seiscientos setenta y seis/mil novecientos setenta y siete, de cuatro de marzo, por el que se aprueba el Reglamento para su aplicación, y de conformidad con la legislación específica que, a tenor de la naturaleza de la infracción, resulte aplicable.
+
+### Artículo once
+
+Artículo once. Acción pública.
+Será pública la acción para exigir ante los órganos administrativos y los Tribunales Contencioso Administrativos la estricta observancia de las normas de protección del Parque Nacional de Doñana.
+
+### DISPOSICIÓN ADICIONAL
+
+El Gobierno, en el plazo máximo de cuatro meses, a partir de la aprobación de esta Ley, propondrá o adoptará medidas destinadas a promover el desarrollo socioeconómico de la comarca y, en particular, a través de una adecuada red de comunicaciones, la ordenación turística y el fomento de actividades agrícolas y ganaderas.
+Estas medidas serán consideradas como actuaciones previas y se completarán por un Plan Director Territorial de Coordinación de la Comarca que se elaborará en un plazo máximo de dieciocho meses, a partir de la aprobación de esta Ley.
+
+### DISPOSICIÓN TRANSITORIA
+
+Las actuales realizaciones que incidan en la cantidad y calidad de las aguas de aportación, superficiales y subterráneas, se someterán en el plazo de seis meses, a partir de la promulgación de la presente Ley, a informe preceptivo del Patronato.
+
+## DISPOSICIONES FINALES
+
+### Uno
+
+Uno.
+En el plazo máximo de un año el Gobierno, previo informe del patronato, dictará las normas necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Dos
+
+Dos.
+El Patronato del Parque Nacional de Doñana quedará constituido en el plazo de dos meses, a partir de la entrada en vigor de la presente Ley.
+
+### Tres
+
+Tres.
+Queda derogada la Ley sesenta y siete/mil novecientos sesenta y siete, de veintidós de julio, sobre enajenación de terrenos en montes de Huelva y cuantas disposiciones se opongan a la presente Ley.
+
+### Cuatro
+
+Cuatro.
+A partir de la entrada en vigor de la presente Ley, la de veinticuatro de junio de mil novecientos dieciocho, sobre desecación y saneamiento de lagunas, marismas y terrenos pantanosos, no será de aplicación a los terrenos comprendidos en la delimitación territorial del Parque Nacional de Doñana y su zona de protección.
+
+## ANEXO
+
+Los límites del Parque Nacional de Doñana quedan delimitados por el perímetro comprendido a partir de la línea paralela a 22 metros del eje de la carretera autonómica Bollullos-Matalascañas (A-483) desde el punto kilométrico 33,900 y hasta el primer pilar del lado derecho del puente de la Canariega, en la margen derecha del arroyo de la Rocina. El límite atraviesa el arroyo, continuando en dirección Oeste-Este por la margen izquierda de la zona inundable al borde de la Aldea del Rocío hasta la confluencia con la prolongación del muro de contención de la Confederación Hidrográfica del Guadalquivir en el Rocío en el punto de coordenadas X = 724511, Y = 4111903 (huso 29). Desde aquí, hacia el Norte por el talud Oeste del citado muro de contención hasta la intersección de este con la Raya Real de Villamanrique de la Condesa al Rocío. Continúa por la linde de la vía pecuaria hasta su cruce con el Arroyo del Partido, en el Puente del Ajolí. Pasando sobre el Arroyo y desde el final del puente, el límite del Parque Nacional discurre en la línea recta hacia la Casa de la Galvija, en dirección Oeste-Este, hasta pasar 500 metros de la Casa de Raposo, situada al Sur de dicha línea. Continúa en dirección Norte-Sur en una longitud de 2.400 metros y desde este punto en dirección noreste-suroeste hasta encontrar el muro de la Confederación Hidrográfica del Guadalquivir, conocido como muro de la FAO, en la llamada Cancela de la Escupidera. Se sigue por el muro de la Confederación en dirección Sur y posteriormente en dirección al Este hasta llegar a la finca propiedad de ADENA, continuando por la linde de la misma hasta el punto de confluencia de las fincas de ADENA y Los Caracoles, a la altura de la Casa del Lobo, prosiguiendo a lo largo del muro por la linde norte de Los Caracoles en dirección Oeste-Este hasta el extremo noreste de la misma.
+El límite del parque continúa, a lo largo del muro oeste de Entremuros, por la linde de Los Caracoles en dirección Norte-Sur hasta su punto de intersección con la linde de la finca de El Matochal, siguiendo por el límite de esta última en dirección Oeste-Este hasta el Brazo de la Torre.
+A partir de este punto sigue en dirección Norte-Sur por el límite del Dominio Público Marítimo Terrestre deslindado en la margen izquierda de dicho Brazo de la Torre hasta su confluencia con el río Guadalquivir. Desde ésta, el límite sigue a lo largo de la margen derecha del estuario de dicho río por la línea que delimita la zona marina de la marítimo-terrestre –línea que coincide con la de bajamar máxima del año– hasta su desembocadura a la altura de la Punta de Malandar.
+Desde este punto, y en dirección Norte-Oeste, el límite sigue a lo largo del litoral por la línea que delimita la zona marina de la marítimo-terrestre –igualmente coincidente con la línea de máxima bajamar– hasta alcanzar el punto situado a 4.100 metros de la torre vigía, en ruinas, denominada Torre de la Higuera. Desde este punto, y en perpendicular a la costa, en una distancia de 1.000 metros, hasta la cerca de la Estación Biológica de Doñana, continuando por ella en dirección Noroeste hasta confluir con la carretera autonómica Bollullos-Matalascañas.
+Se cierra el recinto del Parque Nacional de Doñana con la línea que partiendo del punto anterior sigue al borde izquierdo de la carretera autonómica, a 22 metros del eje de la misma, hasta alcanzar el punto kilométrico 33,900, que corresponde al punto de partida del Parque Nacional, cerrando el perímetro que delimita el territorio incluido en el mismo.
+Se sustituye por el Anexo II de la Resolución de 6 de febrero de 2004 por la que se hace público el Acuerdo del Consejo de Ministros de 6 de febrero de 2004. Ref. BOE-A-2004-3371#anii.
+
+Dada en Madrid a veintiocho de diciembre de mil novecientos setenta y ocho.
+JUAN CARLOS R.
+El Presidente de las Cortes,
+ANTONIO HERNÁNDEZ GIL

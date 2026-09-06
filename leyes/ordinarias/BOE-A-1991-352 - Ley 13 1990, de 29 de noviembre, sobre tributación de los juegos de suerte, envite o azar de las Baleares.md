@@ -1,0 +1,190 @@
+# Ley 13/1990, de 29 de noviembre, sobre tributación de los juegos de suerte, envite o azar de las Baleares.
+
+- Identificador BOE: `BOE-A-1991-352`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1991-352
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE LAS ISLAS BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Islas Baleares ha aprobado y yo, en nombre del Rey y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley:
+EXPOSICION DE MOTIVOS
+La Constitución Española, en su artículo 156, establece el principio de autonomía financiera de las Comunidades Autónomas, con el fin de que puedan desarrollar y ejecutar las competencias que la Constitución y sus propios Estatutos les reconocen.
+El artículo 157 de la Constitución prevé como recursos de las Comunidades Autónomas, entre otros, los impuestos cedidos total o parcialmente por el Estado, los impuestos propios, tasas y contribuciones especiales y los recargos sobre los impuestos del Estado.
+Bajo estos principios, se promulga la Ley Orgánica 8/1980, de 22 de septiembre, sobre Financiación de las Comunidades Autónomas, en cuyo artículo 11 se determinan los tributos que la Administración Central puede ceder a las Comunidades Autónomas, estableciendo unos límites a la potestad impositiva, de las Comunidades contemplados en los artículos 6.º y 9.º en la medida que su implantación no suponga una minoración de ingresos de los del Estado ni un obstáculo para la libre circulación de mercancías o servicios, evitando la duplicidad de figuras tributarias cuyos hechos imponibles están ya gravados por el Estado. La Ley Orgánica 2/1983, de 25 de febrero, del Estatuto de Autonomía de las Islas Baleares en su artículo 56 enumera los recursos que integrarán la Hacienda de nuestra Comunidad, y la disposición adicional tercera del mismo reconoce el derecho que le sean cedidos los rendimientos de los impuestos sobre varios juegos y apuestas, a la vez que el articulo 10.10 declara su competencia exclusiva en esta materia.
+Por tanto, hasta que la totalidad de la cesión de tributos no sea efectiva, se están causando graves perjuicios a la Comunidad Autónoma de las Islas Baleares al no dotarla de los recursos financieros suficientes para desarrollar sectores económicos básicos de nuestra Comunidad.
+Esta situación nos obliga a crear nuevas fuentes de ingresos, que nos permitan mejorar el nivel de inversiones.
+Con la implantación de las figuras tributarias contempladas en la presente Ley.
+a) Impuesto sobre el juego del bingo.
+b) Recargo sobre la tasa estatal que grava los juegos de suerte, envite o azar, se persigue ampliar nuestros recursos financieros, de conciliar el principio de recaudación con el menor coste de gestión.
+
+## TÍTULO PRELIMINAR
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1.
+Por esta Ley establece el impuesto sobre los premios del juego del bingo.
+Se modifica por el art. 5.1 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+La Presente Ley será aplicable a todos los hechos imponibles realizados en el territorio de la Comunidad Autónoma de las Islas Baleares.
+
+## TÍTULO I
+
+Impuesto sobre los premios del juego del bingo
+Se modifica la denominación por el art. 5.2 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 3
+
+Artículo 3. Hecho imponible.
+Constituye el hecho imponible del impuesto el pago de los premios en el juego del bingo.
+
+### Artículo 4
+
+Artículo 4. Sujeto pasivo.
+Son sujetos pasivos del impuesto, en calidad de contribuyentes, las personas o jurídicas y las Entidades a las que se refiere el artículo 33 de la Ley General Tributaria, titulares de autorizaciones administrativas para explotar el juego o, en su caso, las Sociedades de servicios que tengan a su cargo la gestión del mismo.
+
+### Artículo 5
+
+Artículo 5. Repercusión del impuesto.
+Los sujetos pasivos repercutirán el importe íntegro del impuesto sobre los jugadores premiados en cada partida en el momento de hacerse efectivos los premios, quedando éstos obligados a soportarlo.
+
+### Artículo 6
+
+Artículo 6. Base imponible.
+Constituye la base imponible del impuesto la cantidad entregada concepto de premio al portador del cartón.
+
+### Artículo 7
+
+Artículo 7. Tipo de gravamen.
+El tipo de gravamen será del cero por 100.
+Se modifica por el art. 3 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a3
+ Se modifica por el art. 5.3 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 8
+
+Artículo 8. Devengo.
+El impuesto devengará al tiempo de hace efectivos los premios correspondientes a los cartones que combinaciones ganadoras.
+
+### Artículo 9
+
+Artículo 9. Liquidación y pago del impuesto.
+1. El sujeto pasivo, autoliquidará el impuesto sobre el juego mediante una declaración-liquidación, en los plazos y formas que se determinen.
+2. La Consejería de Economía y Hacienda aprobará el modelo de declaración y determinará los plazos y la forma del pago del impuesto.
+
+### Artículo 10
+
+Artículo 10. Gestión e inspección del impuesto.
+La gestión e inspección del impuesto corresponde a la Consejería de Economía y Hacienda.
+
+### Artículo 11
+
+Artículo 11. Infracciones y sanciones.
+Las infracciones tributarias serán calificadas y sancionadas con arreglo a lo dispuesto en la Ley General Tributaria y las demás disposiciones complementarias o concordantes que regulen la potestad sancionadora de la Administración Pública sobre la materia.
+
+### Artículo 12
+
+Artículo 12. Jurisdicción competente.
+Contra los actos de gestión del impuesto podrá interponerse reclamación ante los órganos económicos administrativos de la Comunidad Autónoma de las Islas Baleares, de acuerdo con lo que establece el artículo 20.1, a), de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas.
+
+## TÍTULO II
+
+TÍTULO II
+Recargo sobre la tasa que grava los juegos de suerte, envite o azar
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 13
+
+Artículo 13. Concepto y hecho imponible.
+(Derogada)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 14
+
+Artículo 14. Sujetos pasivos.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 15
+
+Artículo 15. Base imponible.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 16
+
+Artículo 16. Cuota tributaria y tipo de gravamen.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 17
+
+Artículo 17. Devengo y liquidación.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 18
+
+Artículo 18. Gestión e inspección.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 19
+
+Artículo 19. Infracciones y sanciones.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Artículo 20
+
+Artículo 20. Jurisdicción competente.
+(Derogado)
+Se deroga por la disposición derogatoria 1.b) de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+Se autoriza al Gobierno para que, a propuesta del Consejero de Economía y Hacienda, dicte las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+En todo lo no regulado por esta Ley se aplicará subsidiariamente la Ley General Tributaria y demás disposiciones complementarias.
+En el recargo establecido sobre la tasa estatal, que grava los juegos de suerte, envite o azar, será de aplicación subsidiaria la normativa estatal reguladora de los citados juegos.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+La cuantía de los tipos de gravamen establecidos por esta Ley podrá ser modificada por las Leyes de Presupuestos de la Comunidad Autónoma.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Se aprueba la relación de puestos de trabajo que se detalla en el anexo, para la gestión y comprobación del Tributo, dependientes de la Dirección General de Hacienda de la Consejería de Economía y Hacienda.
+
+### Disposición final
+
+Disposición final.
+La presente Ley entrará en vigor el día 1 de enero de 1991.
+
+## ANEXO
+
+Relación de puestos de trabajo
+Servicios Centrales
+Un Jefe de Sección Técnico Superior.
+Dos Jefes de Negociado, Técnicos de Grado Medio o Administrativos.
+Un Subinspector.
+Un Agente Tributario.
+Tres Auxiliares.
+Servicio Territorial de Menorca
+Un Agente Tributario.
+Servicio Territorial de Eivissa y Formentera
+Un Agente Tributario.
+Por tanto, ordeno a todos los ciudadanos guarden esta Ley y que los Tribunales y las autoridades a las que correspondan la hagan guardar.
+En Palma de Mallorca a 29 de noviembre de 1990.‒Alexandre Forcades Juan, Consejero de Economía y Hacienda.‒Gabriel Cañellas Fons, Presidente.

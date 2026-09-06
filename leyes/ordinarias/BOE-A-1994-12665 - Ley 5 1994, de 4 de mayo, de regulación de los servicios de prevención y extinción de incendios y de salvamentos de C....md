@@ -1,0 +1,956 @@
+# Ley 5/1994, de 4 de mayo, de regulación de los servicios de prevención y extinción de incendios y de salvamentos de Cataluña.
+
+- Identificador BOE: `BOE-A-1994-12665`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-1994-12665
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Incluye la corrección de errores publicada en el DOGC núm. 1908, de 13 de junio de 1994.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA GENERALIDAD DE CATALUÑA
+Sea notorio a todos los ciudadanos que el Parlamento de Catalunya ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 33.2 del Estatuto de Autonomía de Cataluña, promulgo la siguiente
+LEY DE REGULACIÓN DE LOS SERVICIOS DE PREVENCIÓN Y EXTINCIÓN DE INCENDIOS Y DE SALVAMENTOS DE CATALUÑA
+EXPOSICIÓN DE MOTIVOS
+El artículo 8.2 del Estatuto de Autonomía de Cataluña impulsa a la Generalidad, como poder público, a remover los obstáculos que impidan la plenitud de la libertad de los individuos. Es consustancial a la consecución de la libertad real asegurarse ante cualquier situación hipotética de riesgos para la naturaleza, la colectividad y los individuos. La tarea de prevención y extinción de incendios se enmarca en una de las funciones de protección de la sociedad, de la naturaleza y de las condiciones óptimas de vida.
+La prevención de incendios es una función que implica disposición de medios personales y materiales, información y concienciación de la sociedad y ejecución de cuantas acciones tiendan a disminuir su riesgo. La extinción de incendios es una función material, pero altamente tecnificada, cuya dirección y ejecución deben llevarse a cabo con perfecta claridad, tanto en cuanto a los criterios como en cuanto a las órdenes transmitidas, en la cual no puede haber ni improvisación ni desconcierto y en la cual la jerarquización puede llegar a ser más operativa que la coordinación.
+Las competencias de la Generalidad que inciden en la materia de prevención y extinción de incendios y de salvamentos se le atribuyen por distintos títulos competenciales del Estatuto de Autonomía.
+Así, el Estatuto atribuye a la Generalidad competencia exclusiva sobre montaña, espacios naturales protegidos y servicios forestales; régimen local, sin perjuicio de lo dispuesto en el artículo 149.1.18 de la Constitución; desarrollo legislativo y ejecución en relación con el régimen estatutario de su funcionariado; protección del medio ambiente, y ejecución de la legislación estatal en materia de salvamento marítimo, además de otros títulos incluidos en el Estatuto.
+Cabe añadir a las competencias citadas las que corresponden a la Generalidad en materia de protección civil, que se fundamentan con carácter prioritario en el artículo 149.1.29 de la Constitución en relación con el artículo 13 del Estatuto de Autonomía, por lo que se refiere a la protección de personas y bienes.
+Tal como ha declarado el Tribunal Constitucional en las sentencias 123/1984, de 18 de diciembre y 133/1990, de 19 de julio, la protección civil es una materia en la que se dan competencias concurrentes entre el Estado y las Comunidades Autónomas, en relación con las competencias que hayan asumido en sus Estatutos en virtud de habilitaciones constitucionales.
+Así, en el campo de la protección civil, y de acuerdo con lo que prescribe el artículo 14. c) y d), de la Ley del Estado 2/1985, de protección civil, corresponde a la Generalidad asegurar la instalación, la organización y el mantenimiento de los servicios de prevención y extinción de incendios y de salvamentos, así como promover, organizar y mantener la formación del personal de los servicios relacionados con la protección civil, en especial por lo que se refiere a los mandos y componentes de los servicios de prevención y extinción de incendios y de salvamentos.
+En virtud de estas competencias, el artículo 5 de la Ley 9/1986, de 10 de noviembre, de Cuerpos de Funcionarios de la Generalidad, creó el Cuerpo de Bomberos de la Generalidad, y el Decreto 49/1982, de 22 de febrero, aprobó el reglamento de los bomberos voluntarios del servicio de extinción de incendios y de salvamentos de Cataluña.
+Una vez determinadas las competencias de la Generalidad para regular su cuerpo de bomberos y los bomberos voluntarios, es preciso establecer que el servicio de prevención y extinción de incendios también es una competencia propia de los municipios, de acuerdo con la legislación vigente de régimen local.
+Este servicio es obligatorio en los municipios de más de veinte mil habitantes y es un servicio de prestación voluntaria en los demás municipios.
+Por otro lado, mediante el Decreto 301/1982, de 5 de agosto, se aceptaron las transferencias de los servicios de prevención y extinción de incendios de las diputaciones de Barcelona y Girona a la Generalidad.
+En virtud de esta transferencia, la Generalidad asumió los servicios de prevención y extinción de incendios, estructuró su organización e integró en los mismos como funcionariado propio al personal procedente de otras administraciones, con respecto para sus derechos reconocidos. Asimismo, y por lo que se refiere a los demás municipios, se suscribieron convenios con gran parte de ellos, y ello ha hecho que la intervención de la Generalidad en este ámbito se haya extendido hasta la instalación de más de un centenar de parques, distribuidos por todo el territorio de Cataluña.
+Es uno de los objetivos de la Ley, además de la regulación del Cuerpo de Bomberos de la Generalidad y del reconocimiento de los bomberos voluntarios, facilitar las fórmulas que permitan, de acuerdo con los principios de autonomía, de voluntariedad y de eficacia, ordenar la gestión de los servicios de prevención y extinción de incendios y de salvamentos por todo el territorio de Cataluña. Para ello, la Ley establece la posibilidad de dispensar a los municipios de la prestación del servicio, a favor de la Generalidad, y potencia otras formas de colaboración y de gestión, contando siempre, no obstante, con la voluntad de los municipios, ejercida dentro de su autonomía.
+En este sentido, la Ley regula, a todos los niveles, la movilidad del funcionariado local respecto al Cuerpo de Bomberos de la Generalidad, con la finalidad de regularizar el sector y no crear agravios comparativos entre el personal.
+El título primero define al personal que integra los servicios de prevención y extinción de incendios y de salvamentos en Cataluña y establece los principios básicos de actuación de los citados servicios, por un lado en relación a la ciudadanía, a la cual deben servir, y por otro en cuanto a las relaciones entre las distintas administraciones competentes en la materia objeto de la Ley, para conseguir un servicio eficaz, con la finalidad de garantizar la protección de las personas y de sus bienes.
+En cuanto al título segundo, regula el Cuerpo de Bomberos de la Generalidad: Establece su naturaleza, ámbito de actuación, funciones, organización y estructura funcional y territorial, fija la forma de acceso a las diferentes escalas y categorías y define el régimen estatutario aplicable al citado cuerpo.
+La regulación contenida en este título es uno de los objetivos prioritarios de la Ley, dado que los bomberos de la Generalidad se regían por la normativa general aplicable al resto de funcionarios de la Generalidad. Con la presente Ley, los miembros del Cuerpo de Bomberos de la Generalidad gozan de una normativa específica propia adecuada a las tareas que desarrollan y a los derechos y deberes inherentes a las funciones que cumplen. Merece destacarse la estructuración del cuerpo en cuatro escalas y seis categorías, incluyendo personal desde el grupo D hasta el grupo A, frente a la regulación anterior, según la cual todos los bomberos eran del grupo D.
+El elemento personal es la pieza clave sobre la cual pivota la función de prevención y extinción de incendios. La especificidad de esta función y la profesionalidad, preparación y adiestramiento de quienes la cumplen requiere una regulación que, si no tiene que ser diferente del régimen de la función pública, al menos debe tener en cuenta las particularidades de un personal que corre un riesgo permanente. Los derechos, las obligaciones, la promoción interna, la dirección, e incluso las condiciones de acceso al servicio, deben ser reguladas y formar parte de un estatuto del bombero, que hasta la promulgación de la presente Ley no era objeto de una regulación específica.
+Del título tercero, relativo a los servicios municipales de prevención y extinción de incendios, es preciso destacar, tal como se ha dicho anteriormente, que es totalmente respetuoso con la autonomía municipal, dado que los municipios tienen reconocida la competencia en materia de prevención y extinción de incendios, de acuerdo con lo que establecen los artículos 25 y 26 de la Ley del Estado 7/1985, de 2 de abril, reguladora de las bases del régimen local, y los artículos 63 y 64 de la Ley 8/1987, de 15 de abril, municipal y de régimen local de Cataluña. El objetivo de este título es promover los mecanismos que hagan posible la ordenación de los servicios de prevención y extinción de incendios en toda Cataluña.
+El título cuarto regula los bomberos voluntarios, que de forma totalmente altruista colaboran, por motivos benéficos y sociales, con los servicios de prevención y extinción de incendios y de salvamentos.
+Los bomberos voluntarios tienen un gran arraigo y una gran consideración en Cataluña, y son los efectivos que permiten organizar el servicio en determinadas zonas del territorio y darle solución. En este sentido, la presente Ley incluye a este personal, junto con el Cuerpo de Bomberos, dentro de la estructura del Departamento de Gobernación, aunque, al no tratarse de personal funcionario ni laboral, deja la regulación de su régimen a la vía reglamentaria. Sin embargo, la Ley recoge la posibilidad de que en las convocatorias de acceso a la categoría de bombero de la Generalidad se valore el tiempo prestado como bombero voluntario.
+El título quinto, relativo a los bomberos de empresa, es totalmente innovador. Merece destacarse que corresponde al Departamento de Gobernación determinar las condiciones de formación y pericia que debe reunir el personal que tiene asignadas funciones de prevención y extinción en las empresas y que corresponde a la Escuela de Bomberos de Cataluña expedir la habilitación acreditativa de la condición de bombero de empresa.
+El título sexto regula las funciones y la estructura de la Escuela de Bomberos de Cataluña, que tiene como finalidad principal impartir enseñanzas para la formación y el perfeccionamiento del personal adscrito a los servicios de prevención y extinción de incendios y de salvamentos de Cataluña, así como colaborar en la selección del citado personal. Con esta nueva regulación se pretende potenciar la escuela y otorgarle un papel decisivo en relación a la formación de los bomberos.
+El título séptimo establece la financiación de los servicios de prevención y extinción de incendios y de salvamentos, que corre principalmente a cargo del presupuesto de la Generalidad, aunque también regula una contribución especial para el establecimiento, la ampliación y la mejora de los servicios, junto con las aportaciones de las entidades locales, de acuerdo con la legislación vigente. Este título regula también las tasas de la Escuela de Bomberos de Cataluña.
+
+## TÍTULO I
+
+Disposiciones generales
+
+## CAPÍTULO I
+
+Objeto
+
+### Artículo 1
+
+Artículo 1.
+La presente Ley tiene por objeto la ordenación general de las acciones y los servicios de prevención y extinción de incendios y de salvamentos en Cataluña, así como la fijación de la estructura y el régimen estatutario del Cuerpo de Bomberos de la Generalidad y la regulación de la financiación de estos servicios.
+
+## CAPÍTULO II
+
+Principios de actuación
+
+### Artículo 2
+
+Artículo 2.
+Los principios básicos de actuación de los miembros de los servicios de prevención y extinción de incendios y de salvamentos de Cataluña son los siguientes:
+a) Por lo que se refiere a las relaciones con la comunidad deben:
+Primero. Respetar los derechos fundamentales de la ciudadanía y las libertades públicas, en los términos de la Constitución, del Estatuto de Autonomía y del resto del ordenamiento jurídico.
+Segundo. Actuar, en el ejercicio de sus funciones, con la diligencia, la celeridad y la decisión necesarias para conseguir la máxima rapidez en la acción y actuar con proporcionalidad en la utilización de los medios a su alcance.
+Tercero. Tener un trato correcto con la ciudadanía, a la cual deben auxiliar y proteger si las circunstancias lo exigen o son requeridos para ello.
+b) Por lo que se refiere a las relaciones interadministrativas, deben:
+Primero. Atenerse a los principios de cooperación, coordinación, colaboración, solidaridad, asistencia recíproca, responsabilidad, complementariedad, subsidiariedad y capacidad de integración, en orden a conseguir un servicio eficiente capaz de asegurar la protección de las personas y los bienes.
+Segundo. Actuar, en el ejercicio de sus funciones, de acuerdo con el principio de lealtad institucional, con el objetivo de que la celeridad en la información en los supuestos de peligro y la transparencia en la transmisión de órdenes favorezcan la más pronta conclusión del siniestro con el menor coste en vidas y bienes.
+
+### Artículo 3
+
+Artículo 3.
+1. La ciudadanía tiene la obligación de colaborar, tanto personal como materialmente, con los servicios de prevención y extinción de incendios, a requerimiento de las autoridades competentes. Esta colaboración puede concretarse en el cumplimiento de medidas de prevención y protección, en la realización de simulacros y en la intervención operativa en las situaciones de emergencia en las que se requiera.
+2. En supuestos de riesgo grave, de catástrofe o de calamidad pública, la ciudadanía está obligada a cumplir las prestaciones de carácter personal que la autoridad competente determine, las cuales no dan derecho a indemnización.
+3. Si las características de una emergencia lo exigen, las autoridades competentes de los servicios públicos de prevención y extinción de incendios pueden requisar cualquier tipo de bienes, así como intervenir y ocupar transitoriamente los que sean necesarios. Las personas afectadas por estas actuaciones tienen derecho a ser indemnizadas, de acuerdo con lo establecido en la legislación vigente.
+
+### Artículo 4
+
+Artículo 4.
+Los poderes públicos diseñarán y llevarán a cabo campañas informativas y formativas y demás actividades dirigidas a sensibilizar a la ciudadanía, y especialmente al conjunto de la comunidad educativa, sobre las responsabilidades públicas y la necesaria colaboración en materia de prevención y extinción de incendios.
+
+## CAPÍTULO III
+
+Personal
+
+### Artículo 5
+
+Artículo 5.
+Integran los servicios de prevención y extinción de incendios y de salvamentos de Cataluña el Cuerpo de Bomberos de la Generalidad, el personal perteneciente a los servicios de prevención y extinción de incendios de las entidades locales, los bomberos voluntarios, los bomberos de empresa y el personal a que se refiere la disposición adicional tercera.
+
+### Artículo 6
+
+Artículo 6.
+El personal del que están dotados los servicios públicos de prevención y extinción de incendios y de salvamentos de Cataluña puede ser profesional o voluntario, sin perjuicio de lo que se establece en la disposición adicional tercera.
+
+### Artículo 7
+
+Artículo 7.
+1. El personal profesional de los servicios de prevención y extinción de incendios y de salvamentos de la Generalidad tiene la condición de funcionario e integra el Cuerpo de Bomberos de la Generalidad, de acuerdo con lo dispuesto en el título segundo, sin perjuicio de lo establecido en la disposición adicional tercera.
+2. El personal profesional de los servicios de prevención y extinción de incendios de las entidades locales tiene la condición de funcionario integrado en la escala de administración especial, subescala de servicios especiales.
+3. Las administraciones a que se refiere los apartados 1 y 2 pueden contratar personal laboral para trabajos de carácter estacional o eventual.
+
+### Artículo 8
+
+Artículo 8.
+El personal voluntario está integrado por quien, de acuerdo con lo establecido en la presente Ley, se halla en posesión del correspondiente nombramiento de bombero voluntario.
+
+### Artículo 9
+
+Artículo 9.
+Son bomberos de empresa las personas que tienen una habilitación expedida por la Escuela de Bomberos de Cataluña que las acredita como tales y que ejercen funciones de prevención y extinción de incendios y de salvamentos en la empresa de la que dependen.
+
+### Artículo 10
+
+Artículo 10.
+1. En el ejercicio de sus funciones, los miembros del Cuerpo de Bomberos de la Generalidad y los miembros de los servicios de prevención y extinción de incendios de las entidades locales, si están en acto de servicio, tienen la consideración de agentes de la autoridad, a efectos de garantizar la protección de las personas y los bienes en situaciones de peligro.
+2. El personal profesional a que se refiere el apartado 1, se considera que está también en acto de servicio si, a pesar de estar libre de servicio, interviene en cualquier tipo de siniestro, previa acreditación de su condición.
+
+## TÍTULO II
+
+Del Cuerpo de Bomberos de la Generalidad
+
+## CAPÍTULO I
+
+Definición, ámbito de actuación y funciones
+
+### Artículo 11
+
+Artículo 11.
+1. El Cuerpo de Bomberos de la Generalidad tiene una estructura y una organización jerarquizadas, a través de los órganos del Departamento de Gobernación que se determinen por reglamento.
+2. El Cuerpo de Bomberos de la Generalidad desarrolla las funciones de prevención y extinción de incendios y de salvamentos correspondientes a la Generalidad.
+
+### Artículo 12
+
+Artículo 12.
+1. El Cuerpo de Bomberos de la Generalidad actúa, en el territorio de Cataluña, en colaboración, en su caso, con otros servicios de bomberos, donde existan y se les requiera.
+2. El Cuerpo de Bomberos de la Generalidad y el personal a que se refiere la disposición adicional tercera pueden actuar fuera del territorio de Cataluña, en supuestos excepcionales o de emergencia, si la naturaleza del servicio a prestar lo requiere, a petición de la autoridad competente.
+
+### Artículo 13
+
+Artículo 13.
+Corresponden al Departamento de Gobernación, a través del Cuerpo de Bomberos de la Generalidad, las siguientes funciones:
+a) Extinguir incendios y, en supuestos de ocurrencia de cualquier siniestro o situación de emergencia, actuar con la finalidad de minimizar los daños, tanto personales como materiales, en el ámbito territorial de su competencia.
+b) Realizar actividades de prevención tendentes a evitar o disminuir el riesgo de incendios y de accidentes, en el marco de la normativa específica para cada ámbito. Entre estas actividades, le corresponde, en los municipios carentes de servicios municipales de prevención y extinción de incendios, emitir informe, en la forma que se determine por reglamento, previamente a la autorización de la autoridad competente, sobre los proyectos de nueva construcción, de reforma y de actividades, así como inspeccionar los establecimientos y los locales públicos con la finalidad de determinar el cumplimiento de la normativa de prevención de incendios.
+c) Estudiar e investigar las técnicas, las instalaciones y los sistemas para la protección contra incendios en relación a la normativa específica en esta materia.
+d) Intervenir en operaciones de protección civil, de acuerdo con las previsiones de los planes territoriales y de los planes especiales correspondientes y elaborar los planes de actuación respectivos de los servicios de extinción de incendios.
+e) Intervenir en las operaciones de salvamento marítimo, a requerimiento de las autoridades competentes.
+f) Intervenir en el salvamento fluvial y en el rescate y el salvamento de montaña.
+g) Investigar y analizar los siniestros en los que intervenga por razón de su competencia, para informar sobre las causas y las consecuencias del siniestro y sobre los daños producidos.
+h) Llevar a cabo actividades informativas y formativas para la población en general que persigan limitar las causas y las consecuencias de los incendios y de los accidentes y aumentar la autoprotección de la ciudadanía.
+i) Actuar en servicios de interés público, por razón de la capacitación específica de sus miembros y de la adecuación de los medios materiales disponibles.
+j) Todas las demás que le correspondan o puedan corresponderle de acuerdo con la legislación vigente.
+
+## CAPÍTULO II
+
+Organización y estructura
+
+### Artículo 14
+
+Artículo 14.
+1. El mando y la dirección superior del Cuerpo de Bomberos de la Generalidad se ejercen por la persona titular del Departamento de Gobernación.
+2. Corresponden al Departamento de Gobernación, bajo el mando de la persona que sea su titular, las funciones de dirección, coordinación e inspección del Cuerpo de Bomberos de la Generalidad, de los servicios de prevención y extinción de incendios y de salvamentos y de las correspondientes instalaciones y las funciones que se especifican a continuación:
+a) Promover el despliegue territorial y orgánico de los efectivos del servicio de prevención y extinción de incendios y de salvamentos de la Generalidad.
+b) Proponer y otorgar distinciones y recompensas.
+c) Ejercer la potestad disciplinaria.
+d) Las demás que le atribuyan las disposiciones vigentes.
+3. El ejercicio de las funciones a las que se refiere el apartado 2 corresponde a los órganos del Departamento de Gobernación que se determinen por reglamento.
+4. En la extinción de incendios y en supuestos de concurrencia de cualquier siniestro y situaciones de emergencia, de acuerdo con lo establecido en el artículo 13, la máxima autoridad, a efectos de la coordinación de las actuaciones, es el Cuerpo de Bomberos de la Generalidad, a través del mando máximo que intervenga, sin perjuicio de lo que se establezca, en su caso, en los correspondientes planes de emergencia.
+
+### Artículo 15
+
+Artículo 15.
+El Cuerpo de Bomberos de la Generalidad se estructura en una línea jerárquica, según las siguientes escalas y categorías:
+a) Escala superior, que comprende la categoría de inspector.
+b) Escala ejecutiva, que comprende la categoría de subinspector.
+c) Escala técnica, que comprende las categorías de oficial, de sargento, de cabo y de bombero de primera.
+d) Escala de apoyo, que comprende la categoría de Técnico/a Gestor/a de Sala de Coordinación (TECOR), la categoría de Técnico/a Especialista de Operaciones de Vuelo (TEOV), la categoría de Auxiliar Técnico/a Equipo de Prevención Activa Forestal (EPAF) y la categoría de Técnico/a de Gestión Logística (TELOG).
+Se añade la letra d) por el art. 1 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+ Se modifica por el art. 50.2 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica por el art. 1 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+### Artículo 16
+
+Artículo 16.
+1. Las funciones que corresponden preferentemente a las diferentes escalas del Cuerpo de Bomberos de la Generalidad son las siguientes:
+a) En la escala superior, las de dirección, coordinación y orientación de unidades técnicas y las operativas de nivel superior, y las demás específicas de prevención y extinción de incendios y de salvamentos que sean determinadas por vía reglamentaria, así como la dirección y mando de las unidades correspondientes en las situaciones en que le sea encomendado ejercer como jefe de guardia.
+b) En la escala ejecutiva, las de coordinación y mando de unidades técnicas y las operativas de nivel intermedio, y las demás específicas de prevención y extinción de incendios y de salvamentos que sean determinadas por vía reglamentaria, así como el mando de las unidades correspondientes en las situaciones en que le sea encomendado ejercer como jefe de guardia.
+c) En la escala técnica, las operativas en tareas de prevención y extinción de incendios y de salvamentos y de apoyo sanitario en emergencias, y las de inspección y las de mando de unidades operativas y logísticas determinadas por vía reglamentaria.
+d) En la escala de apoyo, el apoyo operativo a las funciones de prevención, extinción de incendios y salvamentos con tareas propias de una formación técnica específica y funciones de carácter auxiliar o complementarias a las funciones operativas básicas de manera integrada en la jerarquía del Cuerpo de Bomberos de la Generalitat.
+2. Sin perjuicio de lo que se establece en el apartado 1, los miembros del Cuerpo realizarán las tareas que sean necesarias para la ejecución de los servicios que tienen encomendados.
+Se añade la letra d) al apartado 1 por el art. 2 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+ Se modifica el apartado 1 por el art. 50.3 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 1.c) por el art. 2 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+## CAPÍTULO III
+
+Acceso
+
+### Artículo 17
+
+Artículo 17.
+1. Para el acceso a las distintas escalas y categorías del Cuerpo de Bomberos de la Generalidad se exige reunir los requisitos establecidos por la presente Ley y por la normativa vigente sobre función pública de la Administración de la Generalidad.
+2. Para ingresar en las diferentes escalas del Cuerpo de Bomberos de la Generalidad, es necesario poseer las titulaciones exigidas o cumplir los requisitos establecidos por el artículo 18 bis, de acuerdo con la siguiente gradación:
+a) Escala superior, titulación del grupo A.
+b) Escala ejecutiva, titulación del grupo B.
+c) Escala técnica, titulación del grupo C1.
+d) Escala de apoyo, titulación del grupo que se establece para cada una de las siguientes categorías:
+Técnico/a Gestor/a de Sala de Coordinación (TECOR): grupo C1.
+Técnico/a Especialista de Operaciones de Vuelo (TEOV): grupo C1.
+Auxiliar Técnico/a Equipo de Prevención Activa Forestal (EPAF): grupo C2.
+Técnico/a de Gestión Logística (TELOG): grupo C1.
+3. Corresponde a la persona titular del Departamento de Gobernación efectuar las convocatorias de acceso a las distintas categorías del Cuerpo de Bomberos de la Generalidad.
+4. Las bases de cada convocatoria de acceso a las diferentes categorías del Cuerpo de Bomberos de la Generalidad deben establecer los requisitos y las condiciones específicas para el ingreso en las diferentes Escalas y categorías del Cuerpo. En ningún caso puede establecerse una limitación en la edad máxima de ingreso diferente a la genéricamente establecida para el ingreso en la función pública.
+5. Si una convocatoria de acceso a las distintas categorías del Cuerpo de Bomberos de la Generalidad establece la realización de un curso selectivo, las personas aspirantes que acrediten haber superado uno de similares características quedarán exentas del mismo. Durante la realización del curso selectivo, las personas aspirantes tienen la consideración de personal funcionario en prácticas.
+6. Las pruebas selectivas para el acceso a las distintas categorías del Cuerpo de Bomberos de la Generalidad son de carácter teórico-práctico y pueden incluir pruebas de capacidad física, médicas, psico-técnicas y de conocimiento.
+Se añade la letra d) al apartado 2 por el art. 3 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+ Se modifica el apartado 2 por el art. 50.4 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Se modifica el apartado 4 por el art. único de la Ley 9/2010, de 7 de mayo. Ref. BOE-A-2010-9106.
+ Se modifica el apartado 2 por el art. 74.1 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+ Se modifica el apartado 2 por el art. 3 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+### Artículo 17 bis
+
+Artículo 17 bis. Escala de apoyo.
+1. El acceso a las categorías respectivas de la escala de apoyo del Cuerpo de Bomberos de la Generalitat se efectúa por concurso oposición, en convocatoria libre. Hay que superar, además, un curso selectivo en el Instituto de Seguridad Pública de Cataluña y un periodo de prácticas.
+2. Las convocatorias para acceder a las categorías de la escala de apoyo deben determinar los requisitos de especialización y formación, si procede, y los demás que sean necesarios para las plazas convocadas.
+3. Desde la escala de apoyo del Cuerpo de Bomberos de la Generalitat no se puede acceder por promoción interna al resto de escalas de este Cuerpo.
+Se añade por el art. 4 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Artículo 18
+
+Artículo 18.
+1. El acceso a la categoría de bombero de primera se realiza por oposición o por concurso-oposición, en convocatoria libre. Es necesario superar, además, un curso selectivo en la Escuela de Bomberos y Protección Civil de Cataluña.
+2. La Administración de la Generalidad puede determinar el acceso a la categoría de bombero de primera de la Generalidad de los miembros del cuerpo de bomberos de las entidades locales, dentro de la misma categoría, por el sistema de concurso y después de haber superado un curso selectivo en la Escuela de Bomberos y Protección Civil de Cataluña.
+3. Asimismo, la Administración de la Generalidad puede determinar, en las convocatorias de acceso a la categoría de bombero de primera, la valoración en la fase de concurso del tiempo prestado como bombero voluntario de la Generalidad.
+Se modifica por el art. 50.5 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Artículo 18 bis
+
+Artículo 18 bis.
+1. El personal del Cuerpo de Bomberos de la Generalidad que tenga un mínimo de dos años de antigüedad de servicio activo en la categoría inmediatamente inferior, que haya superado previamente un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña y que tenga la titulación adecuada puede acceder a la categoría de bombero o bombera de primera por promoción interna, mediante concurso oposición.
+2. También puede acceder a esta categoría el personal del Cuerpo de Bomberos que no disponga de la titulación requerida si cumple los demás requisitos establecidos por el apartado 1, tiene una antigüedad de diez años en la escala básica o de cinco años en esta escala y ha superado un curso de formación que puede constituirse como una ampliación del curso específico de formación exigible en todos los casos.
+3. El personal funcionario que accede a la categoría de bombero o bombera de primera, si cumple los requisitos que se establezcan, queda destinado de modo definitivo al mismo puesto de trabajo que ocupaba.
+Se modifica por el art. 35.1 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+ Se añade por el art. 4 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+### Artículo 19
+
+Artículo 19.
+El personal del Cuerpo de Bomberos de la Generalidad que tenga un mínimo de dos años de antigüedad de servicio activo en la categoría inmediatamente inferior y que haya superado o supere un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña puede acceder a la categoría de cabo por promoción interna, mediante concurso oposición.
+Se modifica por el art. 35.2 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+ Se modifica por el art. 74.2 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 20
+
+Artículo 20.
+El personal del Cuerpo de Bomberos de la Generalidad que tenga un mínimo de dos años de antigüedad de servicio activo en la categoría inmediatamente inferior y que haya superado o supere un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña puede acceder a la categoría de sargento por promoción interna, mediante concurso oposición.
+Se modifica por el art. 35.3 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+ Se modifica por el art. 74.3 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 20 bis
+
+Artículo 20 bis.
+El personal del Cuerpo de Bomberos de la Generalidad que tenga un mínimo de dos años de antigüedad de servicio activo en la categoría inmediatamente inferior y que haya superado o supere un curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña puede acceder a la categoría de oficial por promoción interna, mediante concurso oposición.
+Se modifica por el art. 35.4 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+ Se añade por el art. 74.4 de la Ley 31/2002, de 30 de diciembre. Ref. BOE-A-2003-1056.
+
+### Artículo 21
+
+Artículo 21.
+1. El acceso a las categorías de Subinspector y de Inspector se realiza por concurso-oposición libre, que incluye un curso selectivo de capacitación en la Escuela de Bomberos de Cataluña el cual debe comprender un período de prácticas para el personal ajeno al Cuerpo. Puede reservarse hasta un 65 por 100 de las plazas de cada convocatoria para la promoción interna de los miembros que tengan un mínimo de tres años de antigüedad de servicio en activo en la categoría inmediatamente inferior respectiva, que tengan la titulación adecuada y que hayan superado o superen el curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos de Cataluña.
+2. También puede acceder a las categorías de Subinspector y de Inspector, por el turno de promoción interna, el personal funcionario de la Generalidad del Cuerpo de Titulados Superiores o del Cuerpo de Diplomados que se determine en la convocatoria y que haya superado el correspondiente concurso y el curso citado en el apartado 1.
+3. Las personas aspirantes a acceder a las categorías de Subinspector y de Inspector que no procedan del Cuerpo de Bomberos de la Generalidad deben superar unas pruebas físico-médicas y un período de prácticas, durante el cual no pueden ejercer el cargo de mando en tareas operativas.
+4. Los miembros del Cuerpo de Bomberos de la Generalidad de los grupos A y B pueden ocupar puestos de trabajo del Cuerpo de Titulados Superiores y del Cuerpo de Diplomados de la Generalidad, de acuerdo con la titulación profesional por la que hayan accedido al Cuerpo de Bomberos y según lo que se establezca en la relación de puestos de trabajo.
+
+### Artículo 22
+
+Artículo 22.
+En las convocatorias de acceso a las distintas categorías del Cuerpo de Bomberos de la Generalidad fijadas en los artículos 19, 20 y 21 pueden participar, por el turno de promoción interna, los miembros de los servicios de prevención y extinción de incendios de las entidades locales que reúnan los requisitos que los citados artículos establecen.
+
+### Artículo 23
+
+Artículo 23.
+1. Las convocatorias de acceso a las distintas categorías del Cuerpo de Bomberos de la Generalidad fijadas en los artículos 19, 20 y 21 también pueden regular la participación de los miembros de los servicios de prevención y extinción de incendios de las entidades locales de categoría idéntica a la convocada, siempre que tengan la titulación adecuada y que hayan superado o superen el curso de capacitación de carácter selectivo impartido por la Escuela de Bomberos de Cataluña.
+2. Si la convocatoria de acceso a una determinada categoría del Cuerpo de Bomberos de la Generalidad establece el sistema de concurso-oposición, el personal funcionario citado en el apartado 1 que pertenezca a una categoría idéntica a la convocada debe superar solamente la fase de concurso.
+
+## CAPÍTULO IV
+
+Organización territorial
+
+### Artículo 24
+
+Artículo 24.
+El Cuerpo de Bomberos de la Generalidad se organiza territorialmente en parques, zonas y brigadas.
+
+### Artículo 25
+
+Artículo 25.
+1. El parque es el conjunto de medios personales y materiales, con organización propia, situado en un municipio y con un ámbito territorial de intervención funcional concreto.
+2. La zona es un conjunto de parques con unidad de coordinación y ámbito comarcal. Excepcionalmente, pueden existir zonas de ámbito intercomarcal, de acuerdo con lo que se establece en el apartado 4.
+3. La brigada es una unidad territorial de ámbito superior que agrupa a varias zonas y vela por su coordinación, operativa y funcional.
+4. Se determinará por reglamento la organización territorial, funcional y operativa del Cuerpo de Bomberos de la Generalidad, de acuerdo con la organización territorial de Cataluña y la operatividad propia del Cuerpo.
+
+## CAPÍTULO V
+
+Régimen estatutario
+
+## Sección 1
+
+Sección 1.ª Normativa aplicable
+
+### Artículo 26
+
+Artículo 26.
+El personal del Cuerpo de Bomberos de la Generalidad se rige por la presente Ley, por las normas que la desarrollan y por las demás normas reguladoras del régimen estatutario del personal funcionario de la Administración de la Generalidad.
+
+## Sección 2
+
+Sección 2.ª Derechos
+
+### Artículo 27
+
+Artículo 27.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad tienen los derechos que les corresponden como personal funcionario de esta institución, en el marco de la especificidad de su función y de la legislación vigente.
+2. La Generalidad protegerá a los miembros del Cuerpo de Bomberos en el ejercicio de sus funciones, velará por su aptitud física y profesional y les proporcionará los medios necesarios para una adecuada prestación del servicio en condiciones de seguridad y eficacia.
+
+### Artículo 28
+
+Artículo 28.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad tiene derecho a una remuneración justa en la que se valoren las condiciones de peligrosidad, penosidad y dificultad técnica del puesto de trabajo, el grado de dedicación, la incompatibilidad y la responsabilidad.
+2. Las retribuciones básicas de los miembros del Cuerpo de Bomberos de la Generalidad tienen la mima estructura y una cuantía idéntica que las establecidas para el resto del personal funcionario de la Administración de la Generalidad.
+3. Para el establecimiento de las retribuciones complementarias de los miembros del Cuerpo de Bomberos de la Generalitat, y respecto al complemento específico, deben tenerse en cuenta los conceptos expuestos en el apartado 1, por sí solos o acumulativamente, dentro de los límites que establece la legislación vigente. Dentro de las retribuciones complementarias de los miembros del Cuerpo de Bomberos de la Generalitat se incluye el complemento de carrera profesional correspondiente a las retribuciones asociadas al plan de carrera profesional, según lo establecido en el artículo 58.
+Se modifica el apartado 3 por el art. 5 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Artículo 29
+
+Artículo 29.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad tienen derecho a recibir formación teórica, práctica y física continuada.
+2. Se fomentarán y promoverán cuantos estudios puedan ser de utilidad para la promoción de los miembros del Cuerpo de Bomberos de la Generalidad y los estudios de profundización en el conocimiento de la lengua catalana. Asimismo, se convocarán regularmente cursos de capacitación correspondientes al acceso a las distintas categorías y cursos de formación específica.
+
+### Artículo 30
+
+Artículo 30.
+1. Las características de las funciones del Cuerpo de Bomberos de la Generalidad condicionan la concesión de licencias y de permisos y la distribución de los períodos vacacionales a las necesidades del servicio.
+2. Se establecerá por reglamento el régimen de licencias, permisos y vacaciones de los miembros del Cuerpo de Bomberos de la Generalidad.
+
+### Artículo 31
+
+Artículo 31.
+Los miembros del Cuerpo de Bomberos de la Generalidad y el personal regulado por la disposición adicional tercera gozan de un seguro para cubrir el riesgo de muerte o de invalidez total o parcial en el ejercicio de su profesión por causa de accidente.
+
+### Artículo 32
+
+Artículo 32.
+La Generalidad garantizará la necesaria defensa jurídica de los miembros del Cuerpo de Bomberos de la Generalidad en las causas judiciales que se sigan contra ellos como consecuencia de actuaciones realizadas en el ejercicio de sus funciones.
+
+### Artículo 33
+
+Artículo 33.
+Los miembros del Cuerpo de Bomberos de la Generalidad gozan de los derechos y las libertades sindicales, de acuerdo con la legislación en esta materia.
+
+### Artículo 34
+
+Artículo 34.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad serán distinguidos o recompensados cuando se aprecie alguna de las circunstancias o alguno de los supuestos que se determinen por reglamento.
+2. Todas las distinciones y recompensas a los bomberos constarán en sus expedientes personales.
+
+### Artículo 35
+
+Artículo 35.
+Se constituirá en el Cuerpo de Bomberos de la Generalidad un Comité de Salud y Seguridad Laboral, cuyas funciones y composición se establecerán por Reglamento.
+
+## Sección 3
+
+Sección 3.ª Deberes
+
+### Artículo 36
+
+Artículo 36.
+Los miembros del Cuerpo de Bomberos de la Generalidad tienen los deberes que les corresponden como personal funcionario de la Generalidad, en el marco de la especificidad de su función y de la legislación vigente.
+
+### Artículo 37
+
+Artículo 37.
+En cada intervención operativa, los miembros del Cuerpo de Bomberos de la Generalidad deben cumplir exactamente los servicios que tienen encomendados, de acuerdo con la estructura jerarquizada del Cuerpo, en ningún caso, sin embargo, la obediencia debida puede amparar órdenes que conlleven la ejecución de actos que constituyan manifiestamente delito o que sean contrarios a la Constitución, al Estatuto o a las leyes.
+
+### Artículo 38
+
+Artículo 38.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad tienen el deber, en especial, de:
+a) Usar el uniforme reglamentario.
+b) Someterse periódicamente a las revisiones físicas y de medicina preventiva que aseguren el mantenimiento efectivo de sus condiciones físicas.
+c) Mantener la adecuada aptitud física para incorporarse al servicio en plenas facultades.
+d) Cumplir la jornada y el horario que se establezcan de acuerdo con la legislación vigente. En situaciones de riesgo o de emergencia, el Departamento de Gobernación puede exigir la ejecución de tareas fuera del horario ordinario.
+e) Mantener en correctas condiciones de uso las instalaciones y los materiales afectos al servicio.
+f) Permanecer en servicio, una vez finalizado el horario ordinario de trabajo, después de haber actuado en un siniestro, mientras no hayan sido relevados o cuando la gravedad del siniestro lo requiera.
+g) Asistir a los cursos de formación teórico-práctica que se organicen a fin de garantizar una eficaz prestación del servicio.
+h) Sujetarse al régimen de incompatibilidades del personal al servicio de la Administración de la Generalitat, con las especialidades que, de acuerdo con la naturaleza esencial del servicio público que ejerce, establezcan esta Ley y la normativa que la desarrolla.
+2. Los deberes específicos de los miembros del Cuerpo de Bomberos de la Generalidad durante la permanencia en los parques y durante las guardias se determinarán por vía reglamentaria.
+Se añade la letra h) al apartado 1 por el art. 6 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+## Sección 4
+
+Sección 4.ª Segunda actividad
+
+### Artículo 39
+
+Artículo 39.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad que, según dictamen médico, tengan disminuida su capacidad para cumplir el servicio ordinario pueden ser relevados de las funciones operativas y pasar a la situación de segunda actividad, excepto en el supuesto de que se desprendan del dictamen médico situaciones de invalidez absoluta o de gran invalidez, en cuyo caso se remitirá el informe al Departamento de Sanidad y Seguridad Social, para que siga la tramitación fijada en la legislación laboral vigente.
+2. Los bomberos de la Generalidad en situación de segunda actividad la desarrollarán dentro del mismo cuerpo al que pertenecen, ejerciendo, por regla general, otras funciones más adecuadas a su situación, de acuerdo con su categoría; si ello no es posible, bien por falta de plazas, bien por motivo de incapacidad propia, pueden pasar a prestar servicios complementarios adecuados a su nivel de titulación y de conocimientos en otros puestos de trabajo, que serán, siempre y cuando sea posible, dentro de la misma localidad.
+
+### Artículo 40
+
+Artículo 40.
+1. El dictamen médico a que se refiere el artículo 39 será emitido por un Tribunal compuesto por tres médicos, uno designado por el Departamento de Gobernación, uno designado por el interesado y uno escogido por sorteo entre los facultativos del Servicio Catalán de la Salud que tengan los conocimientos idóneos en relación al tipo de afección o de enfermedad que sufre el interesado.
+2. Los miembros del Tribunal a que se refiere el apartado 1 pueden ser recusados por causas de parentesco con el interesado, hasta el cuarto grado de consanguinidad o el segundo grado de afinidad, por amistad íntima o enemistad manifiesta con el interesado o por falta de la idoneidad requerida.
+3. El Tribunal a que se refiere el apartado 1 emitirá el dictamen médico por mayoría y lo elevará, acompañado del parecer del facultativo que discrepe del mismo, en su caso, al órgano competente, para que adopte la resolución pertinente, contra la cual pueden interponerse los recursos que determina la legislación vigente.
+
+## Sección 5
+
+Sección 5.ª Régimen disciplinario
+
+### Artículo 41
+
+Artículo 41.
+El régimen disciplinario de los miembros del Cuerpo de Bomberos de la Generalidad se rige por la legislación de la función pública de la Administración de la Generalidad y por las disposiciones que la desarrollan, con las tipificaciones peculiares que contiene la presente sección quinta, derivadas de la especificidad del servicio.
+
+### Artículo 42
+
+Artículo 42.
+Son faltas muy graves, además de las tipificadas en la legislación general de la función pública:
+a) El embriagarse o consumir drogas tóxicas, estupefacientes y sustancias psicotrópicas de forma que repercuta o pueda repercutir en el servicio y el negarse injustificadamente a las comprobaciones médicas y técnicas ordenadas por la Administración.
+b) La insubordinación individual o colectiva, respecto a las autoridades o mandos de los que dependa y la desobediencia a las legítimas instrucciones dada por éstos.
+c) El no acudir a las llamadas de siniestros estando de servicio.
+d) El maltrato grave a la ciudadanía, de palabra u obra, y la comisión de cualquier otro tipo de abuso en el ejercicio de sus atribuciones.
+e) La falsificación, la sustracción, la disimulación o la destrucción de documentos del servicio bajo custodia suya o de cualquier otro miembro del Cuerpo.
+f) La sustracción de material del servicio o de los efectos del equipo personal.
+g) El solicitar o recibir gratificaciones por la prestación de cualquier tipo de servicio.
+
+### Artículo 43
+
+Artículo 43.
+Son faltas graves, además de las tipificadas en la legislación general de la función pública:
+a) Los actos y las conductas que atenten contra la dignidad del funcionariado, la imagen del Cuerpo y el prestigio y la consideración, debidos a la Generalidad y a las demás instituciones.
+b) El incumplimiento de la obligación de dar cuenta a la superioridad de cualquier asunto que requiera su conocimiento.
+c) La actuación realizada con abuso de las atribuciones, en perjuicio de la ciudadanía, siempre que el hecho no constituya una falta muy grave.
+d) La utilización del uniforme o del material de servicio en situaciones ajenas a la prestación del mismo.
+e) El consumo de bebidas alcohólicas estando de servicio y el negarse injustificadamente a las pertinentes comprobaciones médicas y técnicas.
+f) El no comparecer para prestar auxilio, estando libre de servicio, en caso de incendio o de otro siniestro, si ha recibido la correspondiente orden.
+g) La negativa a someterse a las revisiones físicas y de medicina preventiva que procedan.
+
+### Artículo 44
+
+Artículo 44.
+Son faltas leves, además de las tipificadas en la legislación general de la función pública:
+a) El descuido injustificado en la presentación personal.
+b) El no presentarse con el debido uniforme, sin causa justificada, al correspondiente relevo de turno.
+c) El incumplimiento de cualquiera de las funciones básicas, si no se califica como falta grave o muy grave.
+
+### Artículo 45
+
+Artículo 45.
+1. La incoación de los expedientes disciplinarios y la imposición de sanciones por faltas leves y graves corresponden a la persona titular de la dirección general competente en materia de prevención y extinción de incendios y de salvamentos.
+2. La imposición de sanciones por faltas muy graves corresponde a la persona titular del Departamento de Gobernación.
+
+## TÍTULO III
+
+De los servicios municipales de prevención y extinción de incendios
+
+### Artículo 46
+
+Artículo 46.
+En los municipios de menos de veinte mil habitantes que no presten el servicio de prevención y extinción de incendios, éste será establecido por la Generalidad, sin perjuicio de la competencia municipal para prestarlo. Se establecerán por reglamento las condiciones para la prestación de este servicio.
+
+### Artículo 47
+
+Artículo 47.
+1. En los municipios de más de veinte mil habitantes, la prevención y la extinción de incendios constituyen un servicio mínimo, tal como se establece en el artículo 64 de la Ley 8/1987, de 15 de abril, municipal y de régimen local de Cataluña.
+2. Los municipios a que se refiere el apartado 1, si se da alguno de los supuestos de los artículos 65 y 66 de la Ley 8/1987, de 15 de abril, municipal y de régimen local de Cataluña, pueden solicitar la dispensa de la prestación del servicio al Gobierno. En tal caso, asumen su prestación los servicios de prevención y extinción de incendios de la Generalidad, sin perjuicio de lo que se establece en el artículo 65.2 de la citada Ley.
+3. El procedimiento para la dispensa a que se refiere el apartado 2 se inicia con la solicitud del municipio, que se resuelve, previa audiencia del mismo, por acuerdo del Gobierno de la Generalidad, en el que constará que la Generalidad asume el servicio, las circunstancias de esta asunción y la aportación económica municipal a la financiación del coste del servicio.
+4. Además de la dispensa a que se refiere el apartado 2, estos municipios pueden utilizar, para la prestación de los servicios, otras fórmulas de colaboración y cooperación previstas por la legislación vigente.
+5. En el supuesto de que un municipio de más de veinte mil habitantes no preste el servicio de prevención y extinción de incendios y no se acoja a ninguna de las fórmulas que se establecen en los apartados 2 y 4, corresponde a los servicios de prevención y extinción de incendios y de salvamentos de la Generalidad ejecutar subsidiariamente la competencia local, de acuerdo con el artículo 136 de la Ley 8/1987. En tal caso, corresponde al Gobierno de la Generalidad, previa audiencia del Ayuntamiento afectado, determinar la aportación económica municipal a la financiación del coste del servicio.
+
+### Artículo 48
+
+Artículo 48.
+1. Corresponde a la Comisión de Gobierno Local de Cataluña ejercer sus funciones, como órgano permanente de colaboración entre la Administración de la Generalidad y las Administraciones locales, en materia de prevención y extinción de incendios y de salvamentos.
+2. El Gobierno creará mediante Decreto, en el seno de la Comisión de Gobierno Local de Cataluña, una subcomisión, a la que corresponden las siguientes funciones:
+a) Emitir informe sobre los proyectos de disposiciones generales en materia de prevención y extinción de incendios y de salvamentos.
+b) Proponer criterios generales para acordar la dispensa de la prestación del servicio por los municipios y para fijar los criterios para las aportaciones económicas municipales para la financiación de este servicio.
+c) Elaborar estudios e informes para la reforma o la modificación de la normativa en la materia objeto de la presente Ley y proponer medidas para la aplicación de la misma.
+
+### Artículo 49
+
+Artículo 49.
+Los Alcaldes de los municipios afectados serán informados del despliegue del Cuerpo de Bomberos de la Generalidad y de las actuaciones que éste realice dentro del respectivo término municipal.
+
+### Artículo 50
+
+Artículo 50.
+El Departamento de Gobernación asesorará a los municipios que se lo pidan en relación a las funciones, las actividades y los medios técnicos y operativos de los servicios de prevención y extinción de incendios municipales.
+
+## TÍTULO IV
+
+De los bomberos voluntarios
+
+### Artículo 51
+
+Artículo 51.
+1. Son bomberos voluntarios las personas que, por su vocación benéfico-social, prestan sus servicios de forma altruista dentro de la estructura de cualquiera de los servicios de prevención y extinción de incendios y salvamentos en Cataluña. Los bomberos voluntarios no tienen la consideración de personal funcionario ni de personal laboral y se rigen por la normativa que se establezcan por reglamento.
+2. Los bomberos voluntarios de la Generalidad están bajo la organización y la supervisión del Departamento de Gobernación y tienen una estructura y una organización jerarquizadas, de acuerdo con lo que se establezca por reglamento. Ejerce su mando superior la persona titular de dicho departamento.
+3. Los bomberos voluntarios de la Generalidad desarrollan también las funciones de prevención y extinción de incendios y de salvamentos de la Generalidad.
+4. La formación, el perfeccionamiento y la capacitación de los bomberos voluntarios corresponden a la Escuela de Bomberos de Cataluña.
+
+### Artículo 52
+
+Artículo 52.
+1. Los bomberos y bomberas voluntarios tendrán derecho a gozar de un seguro que cubra los accidentes que puedan producirse en acto de servicio; a gozar de la defensa jurídica necesaria en las causas instruidas como consecuencia de actuaciones llevadas a cabo en el ejercicio de sus funciones; y a recibir compensaciones que indemnicen su dedicación en la forma y cuantía que se determine reglamentariamente.
+2. Los bomberos y bomberas voluntarios que, por su actuación en servicio, sufran secuelas de carácter permanente reconocidas de conformidad con lo que determine el departamento competente en materia de prevención, extinción de incendios y salvamentos, también tienen derecho a recibir una aportación dineraria a cargo de la Generalitat.
+Esta aportación tiene carácter exclusivamente indemnizatorio y su cuantía es equivalente a la que en idénticas circunstancias perciba el personal funcionario integrado en el cuerpo de Bomberos de la Generalitat al que se le haya reconocido una situación de incapacidad permanente total, absoluta o gran invalidez.
+3. Los bomberos y bomberas voluntarios deben ser distinguidos o recompensados cuando se aprecie alguna de las circunstancias o alguno de los supuestos que sean determinados por reglamento.
+Se modifica el apartado 2 por el art. 10 del Decreto-ley 5/2025, de 25 de marzo. Ref. BOE-A-2025-10270
+ Se modifica por la disposición final 2 del Decreto-ley 5/2024, de 24 de abril. Ref. BOE-A-2024-12641
+
+## TÍTULO V
+
+De los bomberos de empresa
+
+### Artículo 53
+
+Artículo 53.
+Corresponde al Departamento de Gobernación determinar las condiciones de formación, especialización y pericia que debe cumplir el personal que tiene asignadas funciones de prevención y extinción de incendios en el ámbito de las empresas. De acuerdo con estas normas, la Escuela de Bomberos de Cataluña expedirá la correspondiente habilitación acreditativa de la condición de bombero de empresa.
+
+### Artículo 54
+
+Artículo 54.
+1. Los bomberos de empresa actúan en el ejercicio de las funciones que les son propias bajo la coordinación y la dirección del Cuerpo de Bomberos de la Generalidad, si el alcance del siniestro lo requiere y éste interviene en el mismo y, en caso contrario, del correspondiente cuerpo municipal de bomberos.
+2. La determinación de los medios y de los sistemas que deben posibilitar la actuación de los bomberos de empresa se contendrá en los correspondientes planes de actuación.
+
+## TÍTULO VI
+
+De la Escuela de Bomberos de Cataluña
+
+### Artículo 55
+
+Artículo 55.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 10/2007, de 30 de julio. Ref. BOE-A-2007-15546#dd.
+
+### Artículo 56
+
+Artículo 56.
+(Derogado).
+Se deroga por la disposición derogatoria de la Ley 10/2007, de 30 de julio. Ref. BOE-A-2007-15546#dd.
+
+### Artículo 57
+
+Artículo 57.
+1. La Escuela de Bomberos de Cataluña tiene las siguientes funciones:
+a) Impartir el curso selectivo para el ingreso en los cuerpos de bomberos de la Generalidad y del Ayuntamiento de Barcelona, y, en su caso, de otros entes locales.
+b) Impartir los cursos de capacitación para la promoción a las diferentes categorías de los cuerpos de bomberos de la Generalidad y del Ayuntamiento de Barcelona, y, en su caso, de otros entes locales, de acuerdo con las especificidades funcionales respectivas.
+c) Formar permanentemente al personal que integra los servicios de prevención y extinción de incendios y de salvamentos de Cataluña.
+d) Expedir la habilitación acreditativa para ejercer la función de bombero de empresa y, en su caso, impartir los correspondientes cursos.
+e) Homologar los cursos que se impartan para el acceso a la condición de bombero de empresa.
+f) Colaborar en la selección del personal adscrito a los servicios de prevención y extinción de incendios y de salvamentos de Cataluña.
+g) Organizar cursos, jornadas, congresos y simposios relacionados con las áreas de actuación de los servicios de prevención y extinción de incendios y de salvamentos.
+h) Promover la colaboración con instituciones, centros y establecimientos docentes, mediante el Departamento de Enseñanza, en su caso, y organizar intercambios con profesionales que trabajen en las taras de prevención y extinción de incendios y de salvamentos.
+i) Investigar, estudiar y divulgar materias relativas a las funciones de prevención y extinción de incendios y de salvamentos.
+j) Colaborar en la formación, el perfeccionamiento y la capacitación del voluntariado de protección civil.
+k) Cualquier otra que se le encomiende.
+2. El Instituto de Seguridad Pública de Cataluña debe disponer de los medios económicos, técnicos y personales necesarios para desarrollar las funciones mencionadas en el apartado 1.
+Se modifican las letras a) y b) del apartado 1 y el apartado 2 por el art. 37 de la Ley 3/2023, de 16 de marzo. Ref. BOE-A-2023-10344
+
+### Artículo 58
+
+Artículo 58. Plan de carrera profesional del Cuerpo de Bomberos de la Generalidad.
+1. La carrera horizontal de los miembros del Cuerpo de Bomberos de la Generalidad supone el reconocimiento individualizado del desarrollo profesional de acuerdo con un modelo de competencias y habilitaciones operativas y la consecución de diferentes niveles de pericia y experiencia, validados mediante la evaluación del rendimiento y de las competencias profesionales.
+2. Reglamentariamente, mediante orden del consejero competente en materia de seguridad pública y en el plazo de un mes, debe establecerse un sistema de itinerarios profesionales estructurados en niveles de pericia profesional en el mismo puesto de trabajo y en la provisión de los puestos de trabajo de las diferentes especialidades que se creen, así como las condiciones de acceso, períodos mínimos de permanencia y salida de cada una de las especialidades y del desarrollo profesional. Los niveles de especialidad, una vez reconocidos, deben ser objeto de consolidación de acuerdo con las reglas generales de consolidación y reconocimiento del grado personal, salvo en los supuestos en los que no se acrediten las aptitudes y capacidades requeridas, y sin perjuicio de lo dispuesto por la regulación del régimen disciplinario para la sanción de demérito.
+3. La Escuela de Bomberos y Protección Civil de Cataluña, en colaboración y coordinación con la dirección general competente en materia de prevención y extinción de incendios y de salvamentos, de acuerdo con la legislación vigente para la expedición y homologación de títulos y formación especializada, debe elaborar el plan formativo del Plan de carrera profesional del Cuerpo de Bomberos de la Generalidad.
+Se modifica por el art. 50.6 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+## TÍTULO VII
+
+De la financiación de los servicios de prevención y extinción de incendios y de salvamentos de la Generalidad
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 59
+
+Artículo 59.
+Los servicios de prevención y extinción de incendios y de salvamentos de la Generalidad pueden contar para su financiación con los siguientes recursos:
+a) Dotaciones con cargo a los presupuestos de la Generalidad.
+b) Aportaciones voluntarias de las Diputaciones Provinciales de Cataluña.
+c) Aportaciones obligatorias de las Diputaciones Provinciales de Cataluña, según los Decretos de transferencias de los servicios a la Generalidad.
+d) Aportaciones de los municipios de Cataluña.
+e) Contribuciones especiales y tasas.
+f) Subvenciones, donaciones y cuantos ingresos de derecho privado puedan corresponderles.
+g) Los rendimientos de los precios públicos.
+h) Los demás recursos que puedan corresponderles.
+
+## CAPÍTULO II
+
+Contribución especial para el establecimiento, la mejora y la ampliación de los servicios de prevención y extinción de incendios y de salvamentos
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 60
+
+Artículo 60. Creación y normativa aplicable.
+1. Se crea la contribución especial para el establecimiento, la mejora y la ampliación de los servicios de prevención y extinción de incendios y de salvamentos –en lo sucesivo, contribución–, dentro del ámbito territorial de Cataluña. A los efectos de esta contribución, dentro del concepto de mejora se incluyen las actuaciones que comportan una ampliación cualitativa o cuantitativa de los servicios de prevención y extinción de incendios y de salvamentos.
+2. La contribución se rige por los siguientes preceptos:
+a) Por la presente ley y por las normas reglamentarias que la desarrollan.
+b) Por las leyes y los reglamentos generales en materia tributaria, que tienen carácter supletorio.
+Se modifica el apartado 1 por el art. 19.1 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 61
+
+Artículo 61. Modificación.
+Las leyes de presupuestos de la Generalidad pueden modificar los elementos cuantificadores a los que se refiere el artículo 66.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 62
+
+Artículo 62. Hecho imponible.
+Constituye el hecho imponible de la contribución la obtención por el sujeto pasivo de un beneficio especial como consecuencia del establecimiento, la mejora y la ampliación del servicio de prevención y extinción de incendios y de salvamentos a cargo de la Generalidad.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 63
+
+Artículo 63. Ámbito territorial.
+La contribución se exige en todo el territorio de Cataluña, a excepción del término municipal de la ciudad de Barcelona, en el que el ayuntamiento ha asumido la prestación de dichos servicios.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 64
+
+Artículo 64. Sujetos pasivos.
+Son sujetos pasivos de la contribución las entidades aseguradoras que tienen contratadas pólizas incluidas en los ramos establecidos por el apartado 3 del artículo 66 que se refieren a bienes o actividades situadas en el territorio de Cataluña, o que se producen en el mismo, de acuerdo con el artículo 63.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+ Se modifica por el art. 8.1 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
+
+### Artículo 65
+
+Artículo 65. Base imponible.
+1. La base imponible de la contribución se determina en función del coste total de las obras y los gastos de establecimiento, ampliación y mejora del servicio de prevención y extinción de incendios y de salvamentos que la Generalidad establezca.
+2. El coste al que se refiere el apartado 1 está integrado por los siguientes conceptos:
+a) El valor real de la redacción de los proyectos y los trabajos periciales.
+b) El importe de las obras que deben llevarse a cabo o de los costes del establecimiento, la ampliación o la mejora del servicio de prevención y extinción de incendios y de salvamentos.
+c) El importe de las indemnizaciones que sean necesarias como consecuencia del establecimiento, ampliación o mejora de los servicios.
+d) El valor de los terrenos que deban ocupar permanentemente los servicios, salvo que se trate de bienes de uso o servicio público o de terrenos cedidos gratuitamente.
+e) El importe de la adquisición, ampliación y mejora de todo tipo de material propio para la prevención y extinción de incendios y para los salvamentos.
+3. El coste total al que se refiere el apartado 1 se calcula sobre la base de las cantidades consignadas anualmente en el presupuesto de la Generalidad, y tiene carácter de mera previsión. En consecuencia, si el coste efectivo resulta superior o inferior al previsto, el déficit o el exceso debe trasladarse a la base imponible de los ejercicios siguientes.
+Se modifica el apartado 3 por el art. 19.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 66
+
+Artículo 66. Cuota.
+1. La cuota global de la contribución es el 90% de la base imponible.
+2. La cuota debe repartirse entre los sujetos pasivos en proporción a las primas correspondientes a los ramos establecidos por el apartado 3, devengadas y efectivamente cobradas en el ejercicio anterior al que se liquida por su actividad en el territorio de Cataluña, entendida en los términos del artículo 64.
+3. Los ramos de seguros a los que se refiere el apartado 2, de conformidad con la clasificación realizada por el órgano de la Administración del Estado competente en materia de seguros, son los siguientes:
+a) Incendios. Las primas en este ramo se computan en el 100%.
+b) Multirriesgo de cualquier tipo. Las primas en este ramo se computan en el 50%.
+4. La base individual se obtiene de aplicar a las primas devengadas y efectivamente cobradas en el ejercicio anterior, en los ramos señalados, los porcentajes que se indican para cada uno de estos ramos en el apartado 3.
+5. La cuota individual se fija en el 5% de la base individual calculada de acuerdo con el apartado 4, sin perjuicio de la posterior regularización establecida por el apartado 6.
+6. Si la suma total de las cuotas exigibles al conjunto de los sujetos pasivos es superior o inferior al 90% de la base imponible, el exceso o el defecto debe trasladarse a los ejercicios sucesivos hasta su amortización total.
+7. Los sujetos pasivos están obligados a presentar una declaración tributaria en los términos y las condiciones que se establezcan reglamentariamente.
+8. La contribución especial se liquida por aplicación de la estimación directa de la base de acuerdo con los datos suministrados por el sujeto pasivo, sin perjuicio de la facultad de comprobación de la Administración tributaria. Asimismo, y en el supuesto de que concurran las causas legalmente previstas, la Administración tributaria puede aplicar el método de estimación indirecta establecido por el artículo 53 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, y la correspondiente normativa de desarrollo.
+Se modifica el apartado 6 por el art. 19.3 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+ Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+ Se modifica por el art. 8.2 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
+
+### Artículo 67
+
+Artículo 67. Devengo.
+1. La contribución se devenga el 1 de enero de cada ejercicio en relación con las determinaciones contenidas en la Ley de presupuestos de la Generalidad correspondientes a dicho ejercicio sobre el establecimiento, la ampliación y la mejora de los servicios de prevención y extinción de incendios y de salvamentos.
+2. Los períodos y las formas de ingreso de la contribución en período voluntario deben determinarse por reglamento.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 68
+
+Artículo 68. Competencia y convenios.
+1. Corresponde a la Agencia Tributaria de Cataluña la gestión, liquidación, recaudación e inspección de la contribución.
+2. La representación autorizada de las entidades aseguradoras puede solicitar a la Agencia Tributaria de Cataluña que establezca convenios exclusivamente para recaudar la contribución.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+ Se modifica el apartado 3 por el art. 8.3 de la Ley 17/2007, de 21 de diciembre. Ref. BOE-A-2008-3656.
+
+### Artículo 69
+
+Artículo 69. Infracciones y sanciones.
+Las infracciones tributarias de la contribución deben calificarse y sancionarse conforme a lo establecido por la Ley general tributaria y sus normas de desarrollo.
+Se modifica por el art. 31 de la Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-1257.
+
+### Artículo 70
+
+Artículo 70.
+En el supuesto de infracciones relativas a las contribuciones especiales reguladas por este capítulo, se aplican las sanciones fijadas en la Ley General Tributaria.
+
+## CAPÍTULO III
+
+Tasas de la Escuela de Bomberos de Cataluña
+Se deroga por la disposición derogatoria única.d) de la Ley 15/1997, de 24 de diciembre. Ref. BOE-A-1998-2361.
+
+### Artículos 71 a 79
+
+Artículos 71 a 79.
+(Derogados).
+Se derogan por la disposición derogatoria única.d) de la Ley 15/1997, de 24 de diciembre. Ref. BOE-A-1998-2361.
+
+### Artículo 71
+
+Artículo 71.
+1. Se crea la tasa por la prestación de determinados servicios docentes por la Escuela de Bomberos de Cataluña.
+2. Constituye el hecho imponible de la tasa a que se refiere el apartado 1 la prestación de los servicios con motivo de la actividad docente desarrollada por la Escuela de Bomberos de Cataluña en relación a los bomberos de Administraciones públicas distintas de la Generalidad.
+
+### Artículo 72
+
+Artículo 72.
+Son sujetos pasivos de la tasa creada por el artículo 71 las personas físicas y jurídicas que solicitan los servicios de la Escuela de Bomberos de Cataluña.
+
+### Artículo 73
+
+Artículo 73.
+La tasa creada por el artículo 71 se acredita en el momento de la prestación de los correspondientes servicios; sin embargo, se exige al sujeto pasivo por anticipado, mediante una autoliquidación, en el momento en que formula la solicitud de los servicios y en la forma que se establezca por reglamento.
+
+### Artículo 74
+
+Artículo 74.
+La cuota de la tasa por los cursos de formación de bomberos de Administraciones públicas distintas de la Generalidad se ajusta a la siguiente tarifa:
+a) Curso básico para Bomberos: 3.600 pesetas/día.
+b) Curso para Cabos: 3.800 pesetas/día.
+c) Curso para Sargentos: 4.000 pesetas/día.
+d) Curso para Oficiales: 4.600 pesetas/día.
+e) Curso para Subinspectores: 4.800 pesetas/día.
+f) Curso para Inspectores: 5.000 pesetas/día.
+g) Cursos específicos: Clases teóricas, 600 pesetas/hora; clases prácticas, 750 pesetas/hora.
+
+### Artículo 75
+
+Artículo 75.
+1. Se crea la tasa por la habilitación acreditativa de los bomberos de empresa.
+2. Constituye el hecho imponible de la tasa a que se refiere el apartado 1 la expedición de la habilitación para ejercer la función de bombero de empresa.
+
+### Artículo 76
+
+Artículo 76.
+Son sujetos pasivos de la tasa creada por el artículo 75 las personas que solicitan la habilitación.
+
+### Artículo 77
+
+Artículo 77.
+La tasa creada por el artículo 75 se acredita mediante la realización del hecho imponible. Sin embargo, la exigibilidad de la tasa se adelanta al momento en el que se solicita el servicio.
+
+### Artículo 78
+
+Artículo 78.
+La cuota de la tasa creada por el artículo 75 se ajusta a la siguiente tarifa:
+Habilitación acreditativa de los bomberos de empresa: 5.000 pesetas.
+
+### Artículo 79
+
+Artículo 79.
+Las modificaciones de las tasas creadas por la presente Ley se realizarán de acuerdo con el procedimiento que se establece en el artículo 9 de la Ley 33/1991, de 24 de diciembre, de tasas y precios públicos de la Generalidad de Cataluña.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+De acuerdo con su propia normativa, el Cuerpo de Agentes Rurales de la Generalidad y las agrupaciones de defensa forestal ejercen las funciones de prevención de incendios de los bienes forestales y, en general, del patrimonio natural de Cataluña, en colaboración con los servicios municipales de bomberos y con el Cuerpo de Bomberos de la Generalidad.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+El Departamento de Gobernación fomentará acciones positivas que favorezcan el acceso de las mujeres al conjunto de los servicios de prevención y extinción de incendios y de salvamentos de Cataluña, así como su formación y su promoción.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+Los servicios de prevención, extinción de incendios y salvamentos de la Generalitat pueden dotarse de personal técnico especializado de carácter laboral, destinado a cumplir tareas de ayuda al Cuerpo de Bomberos, el cual debe superar los cursos de capacitación que se establezcan.
+Se modifica por el art. 7 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta.
+Cuando se hagan efectivas las transferencias a que se refiere el artículo 20.3 de la Ley 16/1991, de 13 de julio, sobre el régimen especial de la Vall d'Aran, el Consejo General de Arán prestará, en su territorio, los servicios que, de acuerdo con el artículo 46 de la presente Ley, la Generalidad preste en el resto de su territorio.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+A efectos de la movilidad que se establece en los artículos 22 y 23, se efectúan las siguientes correspondencias entre los miembros del Cuerpo de Bomberos de la Generalidad y el personal funcionario de los servicios de prevención y extinción de incendios municipales:
+Generalidad.
+Inspector.
+Oficial.
+Municipios.
+Oficial.
+Suboficial.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+(Derogada).
+Se deroga por la disposición derogatoria.1 de la Ley 7/2004, de 16 de julio. Ref. BOE-A-2004-16713.
+ Se añade por el art. 3.1 de la Ley 17/1997, de 24 de diciembre. Ref. BOE-A-1998-2988.
+
+### Disposición adicional séptima
+
+Disposición adicional séptima.
+La jubilación forzosa del personal del Cuerpo de Bomberos de la Generalidad se produce de oficio al cumplir los sesenta y cinco años.
+Se añade por el art. 3.2 de la Ley 17/1997, de 24 de diciembre. Ref. BOE-A-1998-2988.
+
+### Disposición adicional octava
+
+Disposición adicional octava.
+Las referencias que se hacen en la presente Ley a la Escuela de Bomberos de Cataluña se entienden hechas a la Escuela de Bomberos y Seguridad Civil de Cataluña.
+Se añade por el art. 5 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+### Disposición adicional novena
+
+Disposición adicional novena.
+1. Los Cabos del Cuerpo de Bomberos de la Generalidad que pertenecen al grupo D pueden acceder a la categoría de Cabos del grupo C por promoción interna, habiendo superado previamente un curso específico de formación impartido por la Escuela de Bomberos y Seguridad Civil de Cataluña y con la posterior superación de un concurso-oposición entre los miembros del Cuerpo que tengan una antigüedad de tres años de servicio activo en la categoría de Cabo del grupo D y que tengan la titulación adecuada, o de diez años en la Escala Básica del Cuerpo, o de cinco años en la mencionada Escala y la superación de un curso de formación. Este último curso de formación puede constituir una ampliación del curso específico de formación exigible en todos los casos.
+2. Los Cabos a los que se refiere esta disposición que no superen el proceso selectivo al que hace referencia el apartado 1 deben continuar como Cabos del grupo D en puesto de trabajo a extinguir.
+Se añade por el art. 6 de la Ley 5/1999, de 12 de julio. Ref. BOE-A-1999-17138.
+
+### Disposición adicional décima
+
+Disposición adicional décima.
+1. Las convocatorias para acceder a las diferentes categorías de las escalas básica, técnica, ejecutiva y superior del Cuerpo de Bomberos de la Generalidad de Cataluña aprobadas a partir del 1 de enero de 2022 pueden determinar el número de plazas reservadas para mujeres para cumplir el objetivo de equilibrar la presencia de mujeres y hombres en las diferentes categorías.
+El número de plazas reservadas para mujeres debe ser proporcional a los objetivos perseguidos y no puede ser inferior al 25% ni superior al 40% de las plazas convocadas.
+2. En caso de que se haga uso de la reserva de plazas regulada por la presente disposición, los procedimientos selectivos de acceso y de promoción interna correspondientes deben articularse en dos turnos diferenciados de plazas reservadas y no reservadas a mujeres. En caso de que el proceso selectivo incluya limitaciones del número máximo de personas aspirantes que pueden ser convocadas en la prueba siguiente, debe establecerse qué parte de este máximo corresponde a cada turno, de acuerdo con el porcentaje de plazas reservadas a mujeres establecido en la convocatoria.
+Una vez finalizadas las fases de oposición y concurso, en su caso, la convocatoria a la fase de formación debe realizarse siguiendo una lista final de las personas que hayan superado el proceso, ordenadas según la puntuación obtenida y de acuerdo con el número máximo de plazas reservadas por turno, aplicando los criterios de desempate establecidos legalmente. Ninguna de las personas aspirantes convocadas a la fase de formación puede tener un diferencial negativo de puntuación de más del 20% respecto a las personas del otro turno que se encuentren dentro del número máximo de personas a convocar a la fase de formación sumando ambos turnos, de acuerdo con lo que establezcan las bases de cada convocatoria.
+Las plazas reservadas para cada turno que queden vacantes pasarán a incrementar las fijadas para el otro turno hasta alcanzar el número máximo de plazas convocadas.
+3. La reserva de plazas regulada por la presente disposición no es aplicable si en la categoría objeto de la convocatoria hay una presencia de mujeres funcionarias igual o superior al 40%.
+Se añade por el art. 50.1 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Cobertura de accidentes personales.
+Todas las personas adscritas a la dirección general competente en materia de prevención, extinción de incendios y salvamentos que, en ejercicio de sus funciones, participen en la ejecución directa de tareas operativas de extinción de incendios y salvamentos deben tener garantizado un mismo importe de capital de cobertura de seguro por accidentes personales para cada uno de los riesgos previstos.
+Se añade por el art. 8 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Disposición transitoria primera
+
+Disposición transitoria primera.
+1. Los miembros del Cuerpo de Bomberos de la Generalidad y de otros cuerpos adscritos a la Dirección General de Prevención y Extinción de incendios y de Salvamentos antes de la entrada en vigor de la presente Ley por razón de las tareas que se les habían encomendado quedan integrados en las escalas y las categorías establecidas en el artículo 15, de acuerdo con las siguientes correspondencias:
+a) Bombero: Bombero.
+b) Cabo: Cabo.
+c) Sargento: Sargento.
+d) Suboficial: Oficial.
+e) Miembro del Cuerpo de Diplomados que en el momento de la entrada en vigor de la presente Ley ocupe un puesto de trabajo en la Dirección General de Prevención y Extinción de Incendios y de Salvamentos y realice tareas propias de los servicios de prevención y extinción de incendios: Subinspector.
+f) Miembro del Cuerpo de Titulados Superiores que en el momento de la entrada en vigor de la presente Ley ocupe un puesto de trabajo en la Dirección General de Prevención y Extinción de Incendios y de Salvamentos y realice tareas propias de los servicios de prevención y extinción de incendios: Inspector.
+2. Los funcionarios del grupo C que en el momento de la entrada en vigor de la presente Ley ocupen un puesto de trabajo en la Dirección General de Prevención y Extinción de Incendios y de Salvamentos y realicen tareas logísticas y de apoyo a los Jefes de guardia podrán integrarse a la categoría de Sargento y seguirán ocupando puestos de trabajo logísticos y de apoyo en el Cuerpo de Bomberos. Previamente, dichos funcionarios deben superar el curso de logística y apoyo que con tal finalidad impartirá la Escuela de Bomberos. En ningún caso estos funcionarios podrán ocupar puestos operativos de Jefe de turno y de parque.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda.
+El funcionariado proveniente de la Dirección General de Prevención y Extinción de Incendios y de Salvamentos adscrito a la Gerencia de Protección Civil mediante el Decreto 234/1990, de 17 de septiembre, se integra, de acuerdo con su titulación, a las distintas categorías del Cuerpo de Bomberos de la Generalidad.
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera.
+En la primera convocatoria del concurso-oposición a que se refiere el artículo 20, para el acceso por promoción interna a la categoría de Sargento, no será exigible, excepcionalmente, la antigüedad mínima de tres años en la categoría inmediatamente inferior.
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta.
+Los bomberos voluntarios que a la entrada en vigor de la presente Ley tienen el correspondiente nombramiento, expedido por la Dirección General de Prevención y Extinción de Incendios y de Salvamentos de Cataluña, gozan de la consideración de bomberos voluntarios de la Generalidad.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta.
+1. El personal que antes de la entrada en vigor de la presente Ley prestaba servicios como bombero en las empresas, debe obtener la correspondiente habilitación acreditativa de la condición de bombero de empresa para poder continuar desarrollando las tareas de prevención y extinción de incendios. Las empresas son responsables del cumplimiento de esta obligación.
+2. Las empresas tienen un plazo de tres años, a partir de la entrada en vigor de la presente Ley, para el cumplimiento de lo establecido en el apartado 1.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta.
+1. Los municipios y las diputaciones que disponen de servicios de prevención y extinción de incendios propios pueden establecer, de mutuo acuerdo con la Generalidad, un proceso de transferencia de sus servicios de prevención y extinción de incendios.
+2. Los recursos materiales y las dotaciones personales que se traspasen en virtud del apartado 1, así como las condiciones de financiación del servicio, se determinarán mediante convenio.
+3. El funcionariado de los servicios locales de extinción de incendios que en virtud del apartado 1 sea transferido a la Generalidad se integra en la función pública de ésta. La integración se acordará por Decreto del Gobierno de la Generalidad, de acuerdo con la normativa reguladora de la función pública local, y respetará los derechos de cualquier orden y naturaleza que tenga reconocidos dicho funcionariado.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima.
+1. Los municipios que de acuerdo con la legislación vigente de régimen local tienen la obligación de prestar el servicio de prevención y extinción de incendios y tenían concertado este servicio con la respectiva diputación, el cual fue traspasado a la Generalidad, se consideran dispensados de prestarlo y convendrán su financiación con la Generalidad. A tal efecto, si en el plazo de tres meses desde la entrada en vigor de la presente Ley no se ha llegado a un acuerdo entre las partes, la aportación de los municipios será acordada por el Gobierno de la Generalidad, previa audiencia de los municipios afectados.
+2. Los municipios de más de veinte mil habitantes que no habían concertado el servicio de prevención y extinción de incendios con la respectiva diputación disponen de un plazo de tres meses, desde la entrada en vigor de la presente Ley, para acogerse a lo que se establece en el artículo 47.
+3. Sin perjuicio de lo que se establece en los apartados 1 y 2, en los municipios en los que actualmente ya presta el servicio de prevención y extinción de incendios y de salvamentos la Generalidad, éste seguirá ejerciéndose en las actuales condiciones. Cualquier modificación en el régimen de prestación del servicio se realizará de acuerdo con los criterios que establezca la Comisión de Gobierno Local de Cataluña.
+
+### Disposición transitoria octava
+
+Disposición transitoria octava.
+Los expedientes disciplinarios sujetos a la presente Ley que ya se hallaban en tramitación al entrar ésta en vigor se regulan por las disposiciones anteriores, salvo que las de la presente Ley sean más benéficas.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena.
+El personal que antes de la entrada en vigor de la presente disposición transitoria realizaba tareas operativas en el Cuerpo de Bomberos de la Generalidad de Cataluña y que no cumpla con el requisito de edad establecido en el artículo 17.4, puede presentarse a los tres primeros procesos selectivos para el acceso a la categoría de bombero de la escala básica del Cuerpo de Bomberos de la Generalidad que convoque el Departamento de Gobernación después de que entre en vigor la presente disposición transitoria, siempre que en aquel momento siga realizando estas tareas en el Cuerpo de Bomberos.
+Se añade por el art. 4 de la Ley 25/1998, de 31 de diciembre. Ref. BOE-A-1999-2521.
+
+### Disposición transitoria décima
+
+Disposición transitoria décima.
+En la primera convocatoria para el acceso por promoción interna a la categoría de caporal de la escala técnica desde la categoría de bombero de primera no es exigible, excepcionalmente, la antigüedad mínima de tres años en la categoría inmediatamente inferior.
+Se añade por el art. 48 de la Ley 21/2001, de 28 de diciembre. Ref. BOE-A-2002-1485.
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima.
+Hasta la entrada en vigor del reglamento al que se refiere el artículo 67.2, por el que se regulan los servicios de prevención, extinción de incendios y de salvamentos de Cataluña, es aplicable la normativa general en materia tributaria.
+Se añade por el art. 19.4 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2010-737.
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Extinción de la categoría de bombero de la escala básica y las plazas que la componen.
+El personal funcionario que pertenezca a la categoría de bombero de la escala básica mantendrá todos sus derechos como funcionario de carrera. Los miembros del Cuerpo de Bomberos que con fecha 1 de enero de 2024 pertenezcan a la categoría de bombero de la escala básica podrán, a partir de esta fecha, acceder a la categoría de bombero de primera de la escala técnica en una convocatoria específica de promoción interna en la que el requisito de poseer dos años de antigüedad en la categoría de bombero de la escala básica establecido por el artículo 18 bis no será de aplicación.
+Se añade por el art. 50.7 de la Ley 2/2021, de 29 de diciembre. Ref. BOE-A-2022-953
+ Redactada conforme a la corrección de erratas publicada en el DOGC núm. 8626, de 15 de marzo de 2022. Ref. BOE-A-2022-4851
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Régimen transitorio de determinadas categorías laborales adscritas a la dirección general competente en materia de prevención, extinción de incendios y salvamentos.
+1. El Gobierno de la Generalitat debe clasificar dentro de la escala funcionarial de apoyo del Cuerpo de Bomberos de la Generalitat las categorías profesionales laborales que se indican a continuación, adscritas a la dirección general competente en materia de prevención, extinción de incendios y salvamentos, de acuerdo con las correspondencias que se establecen respectivamente a continuación:
+Técnico/a Especialista Operador/a de Control (C1): categoría de Técnico/a Gestor/a de Sala de Coordinación (TECOR) de la escala de apoyo del Cuerpo de Bomberos de la Generalitat (C1).
+Técnico/a Especialista Mantenimiento de Helicóptero (C1): categoría de Técnico/a Especialista de Operaciones de Vuelo (TEOV) de la escala de apoyo del Cuerpo de Bomberos de la Generalitat (C1).
+Conductor/a carné C, Responsable de Almacén, Conductor/a carné B, Almacenero/a y Oficial/a de Primera, Mecánico/a: categoría de Técnico/a de Gestión Logística (TELOG) de la escala de apoyo del Cuerpo de Bomberos de la Generalitat (C1).
+Oficial/a de Primera Prevención Activa Forestal (D1): categoría de Auxiliar Técnico/a Equipo de Prevención Activa Forestal (EPAF) de la escala de apoyo del Cuerpo de Bomberos de la Generalitat (C2).
+2. Las plazas adscritas a la dirección general competente en materia de prevención, extinción de incendios y salvamentos de las categorías profesionales laborales mencionadas en el apartado 1 son puestos de trabajo a extinguir y a reconvertir en las categorías de la nueva escala de apoyo del Cuerpo de Bomberos de la Generalitat que se indican respectivamente.
+3. El personal laboral fijo afectado por la reclasificación de puestos de trabajo mencionada en el apartado 1 que, a la entrada en vigor de este Decreto-ley, preste servicios en la dirección general competente en materia de prevención, extinción de incendios y salvamentos de la Administración de la Generalitat, o tenga una suspensión de contrato con derecho a reserva en puestos de trabajo que sean clasificados para funcionarios, puede participar en los procesos selectivos, mediante concurso oposición, que se convoquen para acceder a las categorías que integran la escala de apoyo del Cuerpo de Bomberos de la Generalitat.
+En estas convocatorias se puede establecer un turno de reserva especial para dicho personal laboral, en el cual el expediente administrativo puede ser valorado como mérito, en la forma y con las condiciones que se establezcan. Asimismo, este personal laboral queda exento de la realización del curso selectivo y el periodo de prácticas selectivo que establece el artículo 17 bis.
+4. El personal laboral mencionado en el apartado 3 que cumpla el requisito de titulación necesaria establecido en el artículo 17.2.d y el resto de requisitos exigidos en la convocatoria y supere el proceso selectivo que se convoque para acceder a la categoría funcionarial de correspondencia debe ser nombrado personal funcionario de la escala de apoyo del Cuerpo de Bomberos de la Generalitat en la categoría que corresponda respectivamente.
+5. El personal mencionado en el apartado 4 que, previa superación de las correspondientes pruebas selectivas, sea destinado al puesto de trabajo de personal funcionario de la escala de apoyo del Cuerpo de Bomberos en el que se haya reconvertido el puesto que ocupaba como laboral debe percibir un complemento personal transitorio absorbible, por un importe equivalente a la diferencia entre las retribuciones del puesto de trabajo que ocupaba como personal laboral, excluidos los trienios, y las que le corresponden como consecuencia de la clasificación y valoración del puesto de trabajo reconvertido.
+6. En ningún caso la determinación de un puesto de trabajo como propio de la escala de apoyo del Cuerpo de Bomberos de la Generalitat comporta el cese del personal laboral que lo esté ocupando con carácter permanente, ni afecta a las expectativas de promoción profesional de este personal, que deben seguir rigiéndose por la normativa que le sea aplicable.
+7. La carencia de las titulaciones exigidas por el artículo 17.d no comporta variación alguna para el personal de la escala de apoyo contratado como laboral fijo antes de la entrada en vigor de este Decreto-ley, los cuales podrán participar durante un plazo de cinco años, a contar desde esta entrada en vigor, en los concursos-oposición de promoción interna con dispensa de un grado del requisito de titulación, siempre que tengan una antigüedad de diez años en el grupo D, o de cinco años y la superación de un curso específico de formación específica que a tal efecto imparta el Instituto de Seguridad Pública de Cataluña.
+Se añade por el art. 9 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Disposición transitoria decimocuarta
+
+Disposición transitoria decimocuarta. Régimen transitorio de la cobertura de accidentes personales.
+Hasta que no se modifiquen las coberturas de la póliza de seguros de accidentes personales de la Generalitat de acuerdo con lo que establece la disposición adicional undécima, el departamento competente en materia de prevención, extinción de incendios y salvamentos debe complementar las coberturas vigentes con la cuantía necesaria para garantizar a los titulares o beneficiarios respectivos el nivel de protección establecido con efectos de fecha 1 de junio de 2025.
+Se añade por el art. 10 del Decreto-ley 14/2025, de 15 de julio de 2025. Ref. BOE-A-2025-16907
+
+### Disposición derogatoria
+
+Disposición derogatoria.
+Se deroga el artículo 5 de la Ley 9/1986, de 10 de noviembre, de cuerpos de funcionarios de la Generalidad de Cataluña, y cuantas disposiciones legales o reglamentarias se opongan o contradigan a lo que se establece en la presente Ley.
+
+### Disposición final
+
+Disposición final.
+1. Se autoriza al Gobierno de la Generalidad y, si procede, a la persona titular del Departamento de Gobernación y, por lo que se refiere al título sexto, a la persona titular del Departamento de Economía y Finanzas a dictar las disposiciones necesarias para el desarrollo reglamentario de la presente Ley.
+2. La presente Ley entra en vigor al día siguiente de su publicación en el «Diario Oficial de la Generalidad de Cataluña», excepción hecha del título quinto, relativo a los bomberos de empresa, que lo hace un año después de dicha entrada en vigor.
+
+Por tanto, ordeno que todos los ciudadanos a los que sea de aplicación esta Ley cooperen en su cumplimiento y que los tribunales y autoridades a los que corresponda la hagan cumplir.
+Palacio de la Generalidad, 4 de mayo de 1994.
+M. EUGENIA CUENCA I VALERO,
+ JORDI PUJOL,

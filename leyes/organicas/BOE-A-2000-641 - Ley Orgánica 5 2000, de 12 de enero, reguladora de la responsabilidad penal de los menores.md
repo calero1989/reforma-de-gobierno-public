@@ -1,0 +1,868 @@
+# Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+
+- Identificador BOE: `BOE-A-2000-641`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2000-641
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+Téngase en cuenta que, las referencias realizadas en esta ley a los Juzgados de Primera Instancia e Instrucción, de Primera Instancia, de lo Mercantil, de Instrucción, de Violencia sobre la Mujer, de lo Penal, de Menores, de Vigilancia Penitenciaria, de lo Contencioso-Administrativo, de lo Social se entenderán referidas a las Secciones del orden jurisdiccional correspondiente de los Tribunales de Instancia; y la misma consideración tendrán las referencias a los Juzgados Centrales respecto de las correspondientes Secciones del Tribunal Central de Instancia, según establece la disposición adicional primera de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#da
+
+## Preámbulo
+
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
+EXPOSICIÓN DE MOTIVOS
+I
+1. La promulgación de la presente Ley Orgánica reguladora de la responsabilidad penal de los menores era una necesidad impuesta por lo establecido en la Ley Orgánica 4/1992, de 5 de junio, sobre reforma de la Ley reguladora de la competencia y el procedimiento de los Juzgados de Menores; en la moción aprobada por el Congreso de los Diputados el 10 de mayo de 1994, y en el artículo 19 de la vigente Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+2. La Ley Orgánica 4/1992, promulgada como consecuencia de la sentencia del Tribunal Constitucional 36/1991, de 14 de febrero, que declaró inconstitucional el artículo 15 de la Ley de Tribunales Tutelares de Menores, texto refundido de 11 de junio de 1948, establece un marco flexible para que los Juzgados de Menores puedan determinar las medidas aplicables a éstos en cuanto infractores penales, sobre la base de valorar especialmente el interés del menor, entendiendo por menores a tales efectos a las personas comprendidas entre los doce y los dieciséis años. Simultáneamente, encomienda al Ministerio Fiscal la iniciativa procesal, y le concede amplias facultades para acordar la terminación del proceso con la intención de evitar, dentro de lo posible, los efectos aflictivos que el mismo pudiera llegar a producir. Asimismo, configura al equipo técnico como instrumento imprescindible para alcanzar el objetivo que persiguen las medidas y termina estableciendo un procedimiento de naturaleza sancionadora-educativa, al que otorga todas las garantías derivadas de nuestro ordenamiento constitucional, en sintonía con lo establecido en la aludida sentencia del Tribunal Constitucional y lo dispuesto en el artículo 40 de la Convención de los Derechos del Niño de 20 de noviembre de 1989.
+Dado que la expresada Ley Orgánica se reconocía a sí misma expresamente "el carácter de una reforma urgente, que adelanta parte de una renovada legislación sobre reforma de menores, que será objeto de medidas legislativas posteriores", es evidente la oportunidad de la presente Ley Orgánica, que constituye esa necesaria reforma legislativa, partiendo de los principios básicos que ya guiaron la redacción de aquélla (especialmente, el principio del superior interés del menor), de las garantías de nuestro ordenamiento constitucional, y de las normas de Derecho internacional, con particular atención a la citada Convención de los Derechos del Niño de 20 de noviembre de 1989, y esperando responder de este modo a las expectativas creadas en la sociedad española, por razones en parte coyunturales y en parte permanentes, sobre este tema concreto.
+3. Los principios expuestos en la moción aprobada unánimemente por el Congreso de los Diputados el día 10 de mayo de 1994, sobre medidas para mejorar el marco jurídico vigente de protección del menor, se refieren esencialmente al establecimiento de la mayoría de edad penal en los dieciocho años y a la promulgación de "una ley penal del menor y juvenil que contemple la exigencia de responsabilidad para los jóvenes infractores que no hayan alcanzado la mayoría de edad penal, fundamentada en principios orientados hacia la reeducación de los menores de edad infractores, en base a las circunstancias personales, familiares y sociales, y que tenga especialmente en cuenta las competencias de las Comunidades Autónomas en esta materia...".
+4. El artículo 19 del vigente Código Penal, aprobado por la Ley Orgánica 10/1995, de 23 de noviembre, fija efectivamente la mayoría de edad penal en los dieciocho años y exige la regulación expresa de la responsabilidad penal de los menores de dicha edad en una Ley independiente. También para responder a esta exigencia se aprueba la presente Ley Orgánica, si bien lo dispuesto en este punto en el Código Penal debe ser complementado en un doble sentido. En primer lugar, asentando firmemente el principio de que la responsabilidad penal de los menores presenta frente a la de los adultos un carácter primordial de intervención educativa que trasciende a todos los aspectos de su regulación jurídica y que determina considerables diferencias entre el sentido y el procedimiento de las sanciones en uno y otro sector, sin perjuicio de las garantías comunes a todo justiciable. En segundo término, la edad límite de dieciocho años establecida por el Código Penal para referirse a la responsabilidad penal de los menores precisa de otro límite mínimo a partir del cual comience la posibilidad de exigir esa responsabilidad y que se ha concretado en los catorce años, con base en la convicción de que las infracciones cometidas por los niños menores de esta edad son en general irrelevantes y que, en los escasos supuestos en que aquéllas pueden producir alarma social, son suficientes para darles una respuesta igualmente adecuada los ámbitos familiar y asistencial civil, sin necesidad de la intervención del aparato judicial sancionador del Estado.
+5. Asimismo, han sido criterios orientadores de la redacción de la presente Ley Orgánica, como no podía ser de otra manera, los contenidos en la doctrina del Tribunal Constitucional, singularmente en los fundamen tos jurídicos de las sentencias 36/1991, de 14 de febrero, y 60/1995, de 17 de marzo, sobre las garantías y el respeto a los derechos fundamentales que necesariamente han de imperar en el procedimiento seguido ante los Juzgados de Menores, sin perjuicio de las modulaciones que, respecto del procedimiento ordinario, permiten tener en cuenta la naturaleza y finalidad de aquel tipo de proceso, encaminado a la adopción de unas medidas que, como ya se ha dicho, fundamentalmente no pueden ser represivas, sino preventivo-especiales, orientadas hacia la efectiva reinserción y el superior interés del menor, valorados con criterios que han de buscarse primordialmente en el ámbito de las ciencias no jurídicas.
+II
+6. Como consecuencia de los principios, criterios y orientaciones a que se acaba de hacer referencia, puede decirse que la redacción de la presente Ley Orgánica ha sido conscientemente guiada por los siguientes principios generales: naturaleza formalmente penal pero materialmente sancionadora-educativa del procedimiento y de las medidas aplicables a los infractores menores de edad, reconocimiento expreso de todas las garantías que se derivan del respeto de los derechos constitucionales y de las especiales exigencias del interés del menor, diferenciación de diversos tramos a efectos procesales y sancionadores en la categoría de infractores menores de edad, flexibilidad en la adopción y ejecución de las medidas aconsejadas por las circunstancias del caso concreto, competencia de las entidades autonómicas relacionadas con la reforma y protección de menores para la ejecución de las medidas impuestas en la sentencia y control judicial de esta ejecución.
+7. La presente Ley Orgánica tiene ciertamente la naturaleza de disposición sancionadora, pues desarrolla la exigencia de una verdadera responsabilidad jurídica a los menores infractores, aunque referida específicamente a la comisión de hechos tipificados como delitos o faltas por el Código Penal y las restantes leyes penales especiales. Al pretender ser la reacción jurídica dirigida al menor infractor una intervención de naturaleza educativa, aunque desde luego de especial intensidad, rechazando expresamente otras finalidades esenciales del Derecho penal de adultos, como la proporcionalidad entre el hecho y la sanción o la intimidación de los destinatarios de la norma, se pretende impedir todo aquello que pudiera tener un efecto contraproducente para el menor, como el ejercicio de la acción por la víctima o por otros particulares.
+Y es que en el Derecho penal de menores ha de primar, como elemento determinante del procedimiento y de las medidas que se adopten, el superior interés del menor. Interés que ha de ser valorado con criterios técnicos y no formalistas por equipos de profesionales especializados en el ámbito de las ciencias no jurídicas, sin perjuicio desde luego de adecuar la aplicación de las medidas a principios garantistas generales tan indiscutibles como el principio acusatorio, el principio de defensa o el principio de presunción de inocencia.
+8. Sin embargo, la Ley tampoco puede olvidar el interés propio del perjudicado o víctima del hecho cometido por el menor, estableciendo un procedimiento singular, rápido y poco formalista para el resarcimiento, en su caso, de daños y perjuicios, dotando de amplias facultades al Juez de Menores para la incorporación a los autos de documentos y testimonios relevantes de la causa principal. En este ámbito de atención a los intereses y necesidades de las víctimas, la Ley introduce el principio en cierto modo revolucionario de la responsabilidad solidaria con el menor responsable de los hechos de sus padres, tutores, acogedores o guardadores, si bien permitiendo la moderación judicial de la misma y recordando expresamente la aplicabilidad en su caso de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como de la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual.
+Asimismo la Ley regula, para procedimientos por delitos graves cometidos por mayores de dieciséis años, un régimen de intervención del perjudicado en orden a salvaguardar el interés de la víctima en el esclarecimiento de los hechos y su enjuiciamiento por el orden jurisdiccional competente, sin contaminar el procedimiento propiamente educativo y sancionador del menor.
+Esta Ley arbitra un amplio derecho de participación a las víctimas ofreciéndoles la oportunidad de intervenir en las actuaciones procesales proponiendo y practicando prueba, formulando conclusiones e interponiendo recursos. Sin embargo, esta participación se establece de un modo limitado ya que respecto de los menores no cabe reconocer a los particulares el derecho a constituirse propiamente en parte acusadora con plenitud de derechos y cargas procesales. No existe aquí ni la acción particular de los perjudicados por el hecho criminal, ni la acción popular de los ciudadanos, porque en estos casos el interés prioritario para la sociedad y para el Estado coincide con el interés del menor.
+9. Conforme a las orientaciones declaradas por el Tribunal Constitucional, anteriormente aludidas, se instaura un sistema de garantías adecuado a la pretensión procesal, asegurando que la imposición de la sanción se efectuará tras vencer la presunción de inocencia, pero sin obstaculizar los criterios educativos y de valoración del interés del menor que presiden este proceso, haciendo al mismo tiempo un uso flexible del principio de intervención mínima, en el sentido de dotar de relevancia a las posibilidades de no apertura del procedimiento o renuncia al mismo, al resarcimiento anticipado o conciliación entre el infractor y la víctima, y a los supuestos de suspensión condicional de la medida impuesta o de sustitución de la misma durante su ejecución.
+La competencia corresponde a un Juez ordinario, que, con categoría de Magistrado y preferentemente especialista, garantiza la tutela judicial efectiva de los derechos en conflicto. La posición del Ministerio Fiscal es relevante, en su doble condición de institución que constitucionalmente tiene encomendada la función de promover la acción de la Justicia y la defensa de la legalidad, así como de los derechos de los menores, velando por el interés de éstos. El letrado del menor tiene participación en todas y cada una de las fases del proceso, conociendo en todo momento el contenido del expediente, pudiendo proponer pruebas e interviniendo en todos los actos que se refieren a la valoración del interés del menor y a la ejecución de la medida, de la que puede solicitar la modificación.
+La adopción de medidas cautelares sigue el modelo de solicitud de parte, en audiencia contradictoria, en la que debe valorarse especialmente, una vez más, el superior interés del menor.
+En defensa de la unidad de doctrina, el sistema de recursos ordinario se confía a las Salas de Menores de los Tribunales Superiores de Justicia, que habrán de crearse, las cuales, con la inclusión de Magistrados especialistas, aseguran y refuerzan la efectividad de la tutela judicial en relación con las finalidades que se propone la Ley. En el mismo sentido, procede destacar la instauración del recurso de casación para unificación de doctrina, reservado a los casos de mayor gravedad, en paralelismo con el proceso penal de adultos, reforzando la garantía de la unidad de doctrina en el ámbito del derecho sancionador de menores a través de la jurisprudencia del Tribunal Supremo.
+10. Conforme a los principios señalados, se establece, inequívocamente, el límite de los catorce años de edad para exigir este tipo de responsabilidad sancionadora a los menores de edad penal y se diferencian, en el ámbito de aplicación de la Ley y de la graduación de las consecuencias por los hechos cometidos, dos tramos, de catorce a dieciséis y de diecisiete a dieciocho años, por presentar uno y otro grupo diferencias características que requieren, desde un punto de vista científico y jurídico, un tratamiento diferenciado, constituyendo una agravación específica en el tramo de los mayores de dieciséis años la comisión de delitos que se caracterizan por la violencia, intimidación o peligro para las personas.
+La aplicación de la presente Ley a los mayores de dieciocho años y menores de veintiuno, prevista en el artículo 69 del Código Penal vigente, podrá ser acordada por el Juez atendiendo a las circunstancias personales y al grado de madurez del autor, y a la naturaleza y gravedad de los hechos. Estas personas reciben, a los efectos de esta Ley, la denominación genérica de "jóvenes".
+Se regulan expresamente, como situaciones que requieren una respuesta específica, los supuestos en los que el menor presente síntomas de enajenación mental o la concurrencia de otras circunstancias modificativas de su responsabilidad, debiendo promover el Ministerio Fiscal, tanto la adopción de las medidas más adecuadas al interés del menor que se encuentre en tales situaciones, como la constitución de los organismos tutelares previstos por las leyes. También se establece que las acciones u omisiones imprudentes no puedan ser sancionadas con medidas de internamiento en régimen cerrado.
+11. Con arreglo a las orientaciones expuestas, la Ley establece un amplio catálogo de medidas aplicables, desde la referida perspectiva sancionadora-educativa, debiendo primar nuevamente el interés del menor en la flexible adopción judicial de la medida más idónea, dadas las características del caso concreto y de la evolución personal del sancionado durante la ejecución de la medida. La concreta finalidad que las ciencias de la conducta exigen que se persiga con cada una de las medidas relacionadas, se detalla con carácter orientador en el apartado III de esta exposición de motivos.
+12. La ejecución de las medidas judicialmente impuestas corresponde a las entidades públicas de protección y reforma de menores de las Comunidades Autónomas, bajo el inexcusable control del Juez de Menores.
+Se mantiene el criterio de que el interés del menor tiene que ser atendido por especialistas en las áreas de la educación y la formación, pertenecientes a esferas de mayor inmediación que el Estado. El Juez de Menores, a instancia de las partes y oídos los equipos técnicos del propio Juzgado y de la entidad pública de la correspondiente Comunidad Autónoma, dispone de amplias facultades para suspender o sustituir por otras las medidas impuestas, naturalmente sin mengua de las garantías procesales que constituyen otro de los objetivos primordiales de la nueva regulación, o permitir la participación de los padres del menor en la aplicación y consecuencias de aquéllas.
+13. Un interés particular revisten en el contexto de la Ley los temas de la reparación del daño causado y la conciliación del delincuente con la víctima como situaciones que, en aras del principio de intervención mínima, y con el concurso mediador del equipo técnico, pueden dar lugar a la no incoación o sobreseimiento del expediente, o a la finalización del cumplimiento de la medida impuesta, en un claro predominio, una vez más, de los criterios educativos y resocializadores sobre los de una defensa social esencialmente basada en la prevención general y que pudiera resultar contraproducente para el futuro.
+La reparación del daño causado y la conciliación con la víctima presentan el común denominador de que el ofensor y el perjudicado por la infracción llegan a un acuerdo, cuyo cumplimiento por parte del menor termina con el conflicto jurídico iniciado por su causa. La conciliación tiene por objeto que la víctima reciba una satisfacción psicológica a cargo del menor infractor, quien ha de arrepentirse del daño causado y estar dispuesto a disculparse. La medida se aplicará cuando el menor efectivamente se arrepienta y se disculpe, y la persona ofendida lo acepte y otorgue su perdón. En la reparación el acuerdo no se alcanza únicamente mediante la vía de la satisfacción psicológica, sino que requiere algo más: el menor ejecuta el compromiso contraído con la víctima o perjudicado de reparar el daño causado, bien mediante trabajos en beneficio de la comunidad, bien mediante acciones, adaptadas a las necesidades del sujeto, cuyo beneficiario sea la propia víctima o perjudicado.
+III
+14. En la medida de amonestación, el Juez, en un acto único que tiene lugar en la sede judicial, manifiesta al menor de modo concreto y claro las razones que hacen socialmente intolerables los hechos cometidos, le expone las consecuencias que para él y para la víctima han tenido o podían haber tenido tales hechos, y le formula recomendaciones para el futuro.
+15. La medida de prestaciones en beneficio de la comunidad, que, en consonancia con el artículo 25.2 de nuestra Constitución, no podrá imponerse sin consentimiento del menor, consiste en realizar una actividad, durante un número de sesiones previamente fijado, bien sea en beneficio de la colectividad en su conjunto, o de personas que se encuentren en una situación de precariedad por cualquier motivo. Preferentemente, se buscará relacionar la naturaleza de la actividad en que consista esta medida con la de los bienes jurídicos afectados por los hechos cometidos por el menor.
+Lo característico de esta medida es que el menor ha de comprender, durante su realización, que la colectividad o determinadas personas han sufrido de modo injustificado unas consecuencias negativas derivadas de su conducta. Se pretende que el sujeto comprenda que actuó de modo incorrecto, que merece el reproche formal de la sociedad, y que la prestación de los trabajos que se le exigen es un acto de reparación justo.
+16. Las medidas de internamiento responden a una mayor peligrosidad, manifestada en la naturaleza peculiarmente grave de los hechos cometidos, caracterizados en los casos más destacados por la violencia, la intimidación o el peligro para las personas. El objetivo prioritario de la medida es disponer de un ambiente que provea de las condiciones educativas adecuadas para que el menor pueda reorientar aquellas disposiciones o deficiencias que han caracterizado su comportamiento antisocial, cuando para ello sea necesario, al menos de manera temporal, asegurar la estancia del infractor en un régimen físicamente restrictivo de su libertad. La mayor o menor intensidad de tal restricción da lugar a los diversos tipos de internamiento, a los que se va a aludir a continuación. El internamiento, en todo caso, ha de proporcionar un clima de seguridad personal para todos los implicados, profesionales y menores infractores, lo que hace imprescindible que las condiciones de estancia sean las correctas para el normal desarrollo psicológico de los menores.
+El internamiento en régimen cerrado pretende la adquisición por parte del menor de los suficientes recur sos de competencia social para permitir un comportamiento responsable en la comunidad, mediante una gestión de control en un ambiente restrictivo y progresivamente autónomo.
+El internamiento en régimen semiabierto implica la existencia de un proyecto educativo en donde desde el principio los objetivos sustanciales se realizan en contacto con personas e instituciones de la comunidad, teniendo el menor su residencia en el centro, sujeto al programa y régimen interno del mismo.
+El internamiento en régimen abierto implica que el menor llevará a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual.
+El internamiento terapéutico se prevé para aquellos casos en los que los menores, bien por razón de su adicción al alcohol o a otras drogas, bien por disfunciones significativas en su psiquismo, precisan de un contexto estructurado en el que poder realizar una programación terapéutica, no dándose, ni, de una parte, las condiciones idóneas en el menor o en su entorno para el tratamiento ambulatorio, ni, de otra parte, las condiciones de riesgo que exigirían la aplicación a aquél de un internamiento en régimen cerrado.
+17. En la asistencia a un centro de día, el menor es derivado a un centro plenamente integrado en la comunidad, donde se realizan actividades educativas de apoyo a su competencia social. Esta medida sirve el propósito de proporcionar a un menor un ambiente estructurado durante buena parte del día, en el que se lleven a cabo actividades socio-educativas que puedan compensar las carencias del ambiente familiar de aquél. Lo característico del centro de día es que en ese lugar es donde toma cuerpo lo esencial del proyecto socio-educativo del menor, si bien éste puede asistir también a otros lugares para hacer uso de otros recursos de ocio o culturales. El sometido a esta medida puede, por lo tanto, continuar residiendo en su hogar, o en el de su familia, o en el establecimiento de acogida.
+18. En la medida de libertad vigilada, el menor infractor está sometido, durante el tiempo establecido en la sentencia, a una vigilancia y supervisión a cargo de personal especializado, con el fin de que adquiera las habilidades, capacidades y actitudes necesarias para un correcto desarrollo personal y social. Durante el tiempo que dure la libertad vigilada, el menor también deberá cumplir las obligaciones y prohibiciones que, de acuerdo con esta Ley, el Juez puede imponerle.
+19. La realización de tareas socio-educativas consiste en que el menor lleve a cabo actividades específicas de contenido educativo que faciliten su reinserción social. Puede ser una medida de carácter autónomo o formar parte de otra más compleja. Empleada de modo autónomo, pretende satisfacer necesidades concretas del menor percibidas como limitadoras de su desarrollo integral. Puede suponer la asistencia y participación del menor a un programa ya existente en la comunidad, o bien a uno creado "ad hoc" por los profesionales encargados de ejecutar la medida. Como ejemplos de tareas socio-educativas, se pueden mencionar las siguientes: asistir a un taller ocupacional, a un aula de educación compensatoria o a un curso de preparación para el empleo; participar en actividades estructuradas de animación sociocultural, asistir a talleres de aprendizaje para la competencia social, etc.
+20. El tratamiento ambulatorio es una medida destinada a los menores que disponen de las condiciones adecuadas en su vida para beneficiarse de un programa terapéutico que les ayude a superar procesos adictivos o disfunciones significativas de su psiquismo. Previsto para los menores que presenten una dependencia al alcohol o las drogas, y que en su mejor interés puedan ser tratados de la misma en la comunidad, en su realización pueden combinarse diferentes tipos de asistencia médica y psicológica. Resulta muy apropiado para casos de desequilibrio psicológico o perturbaciones del psiquismo que puedan ser atendidos sin necesidad de internamiento. La diferencia más clara con la tarea socio-educativa es que ésta pretende lograr una capacitación, un logro de aprendizaje, empleando una metodología, no tanto clínica, sino de orientación psicoeducativa. El tratamiento ambulatorio también puede entenderse como una tarea socio-educativa muy específica para un problema bien definido.
+21. La permanencia de fin de semana es la expresión que define la medida por la que un menor se ve obligado a permanecer en su hogar desde la tarde o noche del viernes hasta la noche del domingo, a excepción del tiempo en que realice las tareas socio-educativas asignadas por el Juez. En la práctica, combina elementos del arresto de fin de semana y de la medida de tareas socio-educativas o prestaciones en beneficio de la comunidad. Es adecuada para menores que cometen actos de vandalismo o agresiones leves en los fines de semana.
+22. La convivencia con una persona, familia o grupo educativo es una medida que intenta proporcionar al menor un ambiente de socialización positivo, mediante su convivencia, durante un período determinado por el Juez, con una persona, con una familia distinta a la suya o con un grupo educativo que se ofrezca a cumplir la función de la familia en lo que respecta al desarrollo de pautas socioafectivas prosociales en el menor.
+23. La privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de licencias administrativas para caza o para el uso de cualquier tipo de armas, es una medida accesoria que se podrá imponer en aquellos casos en los que el hecho cometido tenga relación con la actividad que realiza el menor y que ésta necesite autorización administrativa.
+24. Por último, procede poner de manifiesto que los principios científicos y los criterios educativos a que han de responder cada una de las medidas, aquí sucintamente expuestos, se habrán de regular más extensamente en el Reglamento que en su día se dicte en desarrollo de la presente Ley Orgánica.
+
+## TÍTULO PRELIMINAR
+
+### Artículo 1
+
+Artículo 1. Declaración general.
+1. Esta Ley se aplicará para exigir la responsabilidad de las personas mayores de catorce años y menores de dieciocho por la comisión de hechos tipificados como delitos o faltas en el Código Penal o las leyes penales especiales.
+2. Las personas a las que se aplique la presente Ley gozarán de todos los derechos reconocidos en la Constitución y en el ordenamiento jurídico, particularmente en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, así como en la Convención sobre los Derechos del Niño de 20 de noviembre de 1989 y en todas aquellas normas sobre protección de menores contenidas en los Tratados válidamente celebrados por España.
+Se suprime los apartados 2 y 4 y se renumera el 3 como 2 por el art. único.1 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO I
+
+Del ámbito de aplicación de la Ley
+
+### Artículo 2
+
+Artículo 2. Competencia de los Jueces de Menores.
+1. Los Jueces de Menores serán competentes para conocer de los hechos cometidos por las personas mencionadas en el artículo 1 de esta Ley, así como para hacer ejecutar las sentencias, sin perjuicio de las facultades atribuidas por esta Ley a las Comunidades Autónomas respecto a la protección y reforma de menores.
+2. Los Jueces de Menores serán asimismo competentes para resolver sobre las responsabilidades civiles derivadas de los hechos cometidos por las personas a las que resulta aplicable la presente Ley.
+3. La competencia corresponde al Juez de Menores del lugar donde se haya cometido el hecho delictivo, sin perjuicio de lo establecido en el artículo 20.3 de esta Ley.
+4. La competencia para conocer de los delitos previstos en los artículos 571 a 580 del Código Penal corresponderá al Juzgado Central de Menores de la Audiencia Nacional.
+Corresponderá igualmente al Juzgado Central de Menores de la Audiencia Nacional la competencia para conocer de los delitos cometidos por menores en el extranjero cuando conforme al artículo 23 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y a los Tratados Internacionales corresponda su conocimiento a la jurisdicción española.
+La referencia del último inciso del apartado 4 del artículo 17 y cuantas otras se contienen en la presente Ley al Juez de Menores se entenderán hechas al Juez Central de Menores en lo que afecta a los menores imputados por cualquiera de los delitos a que se refieren los dos párrafos anteriores.
+Se modifica el apartado 4 por la disposición adicional 2 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
+ Se modifica el apartado 1 y se añade el 4 por el art. único.2 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 3
+
+Artículo 3. Régimen de los menores de catorce años.
+Cuando el autor de los hechos mencionados en los artículos anteriores sea menor de catorce años, no se le exigirá responsabilidad con arreglo a la presente Ley, sino que se le aplicará lo dispuesto en las normas sobre protección de menores previstas en el Código Civil y demás disposiciones vigentes. El Ministerio Fiscal deberá remitir a la entidad pública de protección de menores testimonio de los particulares que considere precisos respecto al menor, a fin de valorar su situación, y dicha entidad habrá de promover las medidas de protección adecuadas a las circunstancias de aquél conforme a lo dispuesto en la Ley Orgánica 1/1996, de 15 de enero.
+
+### Artículo 4
+
+Artículo 4. Derechos de las víctimas y de las personas perjudicadas.
+El Ministerio Fiscal y el Juez de Menores velarán en todo momento por la protección de los derechos de las víctimas y de las personas perjudicadas por las infracciones cometidas por las personas menores de edad.
+De manera inmediata se les instruirá de las medidas de asistencia a las víctimas que prevé la legislación vigente, debiendo el Letrado de la Administración de Justicia derivar a la víctima de violencia a la Oficina de Atención a la Víctima competente.
+Las víctimas y las personas perjudicadas tendrán derecho a personarse y ser parte en el expediente que se incoe al efecto, para lo cual el Letrado de la Administración de Justicia les informará en los términos previstos en los artículos 109 y 110 de la Ley de Enjuiciamiento Criminal, instruyéndoles de su derecho a nombrar dirección letrada o instar su nombramiento de oficio en caso de ser titulares del derecho a la asistencia jurídica gratuita. Asimismo, les informará de que, de no personarse en el expediente y no hacer renuncia ni reserva de acciones civiles, el Ministerio Fiscal las ejercitará si correspondiere.
+Se garantizará especialmente que las declaraciones o interrogatorios de las partes acusadoras, testigos o peritos se realicen de forma telemática en los siguientes supuestos, salvo que el Juez, Tribunal o Ministerio Fiscal, mediante resolución motivada, en atención a las circunstancias del caso concreto, estime necesaria su presencia física:
+Cuando sean víctimas de violencia de género, de violencia sexual, de trata de seres humanos o cuando sean víctimas menores de edad o con discapacidad. Todas ellas podrán intervenir desde los lugares donde se encuentren recibiendo oficialmente asistencia, atención, asesoramiento o protección, o desde cualquier otro lugar, siempre que dispongan de medios suficientes para asegurar su identidad y las adecuadas condiciones de la intervención.
+Téngase en cuenta que este artículo, modificado por el art. 23.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#a2-5, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+ Redacción anterior:
+ "Artículo 4. Derechos de las víctimas y de las personas perjudicadas.
+ El Ministerio Fiscal y el Juez de Menores velarán en todo momento por la protección de los derechos de las víctimas y de las personas perjudicadas por las infracciones cometidas por las personas menores de edad.
+ De manera inmediata se les instruirá de las medidas de asistencia a las víctimas que prevé la legislación vigente, debiendo el Letrado de la Administración de Justicia derivar a la víctima de violencia a la Oficina de Atención a la Víctima competente.
+ Las víctimas y las personas perjudicadas tendrán derecho a personarse y ser parte en el expediente que se incoe al efecto, para lo cual el Letrado de la Administración de Justicia les informará en los términos previstos en los artículos 109 y 110 de la Ley de Enjuiciamiento Criminal, instruyéndoles de su derecho a nombrar dirección letrada o instar su nombramiento de oficio en caso de ser titulares del derecho a la asistencia jurídica gratuita. Asimismo, les informará de que, de no personarse en el expediente y no hacer renuncia ni reserva de acciones civiles, el Ministerio Fiscal las ejercitará si correspondiere.
+ Quienes se personaren podrán desde entonces tomar conocimiento de lo actuado e instar la práctica de diligencias y cuanto a su derecho convenga. Sin perjuicio de lo anterior, el Letrado de la Administración de Justicia deberá comunicar a las víctimas y a las personas perjudicadas, se hayan o no personado, todas aquellas resoluciones que se adopten tanto por el Ministerio Fiscal como por el Juez de Menores, que puedan afectar a sus intereses.
+ En especial, cuando el Ministerio Fiscal, en aplicación de lo dispuesto en el artículo 18 de esta Ley, desista de la incoación del expediente deberá inmediatamente ponerlo en conocimiento de las víctimas y las personas perjudicadas haciéndoles saber su derecho a ejercitar las acciones civiles que les asisten ante la jurisdicción civil.
+ Del mismo modo, el Letrado de la Administración de Justicia notificará por escrito la sentencia que se dicte a las víctimas y las personas perjudicadas por la infracción penal, aunque no se hayan mostrado parte en el expediente.
+ Cuando la víctima lo sea de un delito de violencia de género, tiene derecho a que le sean notificadas por escrito, mediante testimonio íntegro, las medidas cautelares de protección adoptadas. Asimismo, tales medidas cautelares serán comunicadas a las administraciones públicas competentes para la adopción de medidas de protección, sean estas de seguridad o de asistencia social, jurídica, sanitaria, psicológica o de cualquier otra índole.
+ La víctima de un delito violento tiene derecho a ser informada permanentemente de la situación procesal del presunto agresor. En particular, en el caso de una medida, cautelar o definitiva, de internamiento, la víctima será informada en todo momento de los permisos y salidas del centro del presunto agresor, salvo en aquellos casos en los que manifieste su deseo de no recibir notificaciones."
+Se modifica, con efectos desde el 3 de abril de 2025, por el art. 23.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-5
+ Se modifica por la disposición final 11.1 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-11
+ Se modifica por el art. único.3 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se suspende este art. y sus concordantes, hasta el el 1 de enero de 2007, por la disposición transitoria única de la Ley Orgánica 9/2002, de 10 de diciembre. Ref. BOE-A-2002-24044.
+ Se suspende este art. y sus concordantes, durante 2 años, por la disposición transitoria única de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661.
+
+### Artículo 5
+
+Artículo 5. Bases de la responsabilidad de los menores.
+1. Los menores serán responsables con arreglo a esta Ley cuando hayan cometido los hechos a los que se refiere el artículo 1 y no concurra en ellos ninguna de las causas de exención o extinción de la responsabilidad criminal previstas en el vigente Código Penal.
+2. No obstante lo anterior, a los menores en quienes concurran las circunstancias previstas en los números 1.º, 2.º y 3.º del artículo 20 del vigente Código Penal les serán aplicables, en caso necesario, las medidas terapéuticas a las que se refiere el artículo 7.1, letras d) y e), de la presente Ley.
+3. Las edades indicadas en el articulado de esta Ley se han de entender siempre referidas al momento de la comisión de los hechos, sin que el haberse rebasado las mismas antes del comienzo del procedimiento o durante la tramitación del mismo tenga incidencia alguna sobre la competencia atribuida por esta misma Ley a los Jueces y Fiscales de Menores.
+
+### Artículo 6
+
+Artículo 6. De la intervención del Ministerio Fiscal.
+Corresponde al Ministerio Fiscal la defensa de los derechos que a los menores reconocen las leyes, así como la vigilancia de las actuaciones que deban efectuarse en su interés y la observancia de las garantías del procedimiento, para lo cual dirigirá personalmente la investigación de los hechos y ordenará que la policía judicial practique las actuaciones necesarias para la comprobación de aquéllos y de la participación del menor en los mismos, impulsando el procedimiento.
+
+## TÍTULO II
+
+De las medidas
+
+### Artículo 7
+
+Artículo 7. Definición de las medidas susceptibles de ser impuestas a los menores y reglas generales de determinación de las mismas.
+1. Las medidas que pueden imponer los Jueces de Menores, ordenadas según la restricción de derechos que suponen, son las siguientes:
+a) Internamiento en régimen cerrado. Las personas sometidas a esta medida residirán en el centro y desarrollarán en el mismo las actividades formativas, educativas, laborales y de ocio.
+b) Internamiento en régimen semiabierto. Las personas sometidas a esta medida residirán en el centro, pero podrán realizar fuera del mismo alguna o algunas de las actividades formativas, educativas, laborales y de ocio establecidas en el programa individualizado de ejecución de la medida. La realización de actividades fuera del centro quedará condicionada a la evolución de la persona y al cumplimiento de los objetivos previstos en las mismas, pudiendo el Juez de Menores suspenderlas por tiempo determinado, acordando que todas las actividades se lleven a cabo dentro del centro.
+c) Internamiento en régimen abierto. Las personas sometidas a esta medida llevarán a cabo todas las actividades del proyecto educativo en los servicios normalizados del entorno, residiendo en el centro como domicilio habitual, con sujeción al programa y régimen interno del mismo.
+d) Internamiento terapéutico en régimen cerrado, semiabierto o abierto. En los centros de esta naturaleza se realizará una atención educativa especializada o tratamiento específico dirigido a personas que padezcan anomalías o alteraciones psíquicas, un estado de dependencia de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que determinen una alteración grave de la conciencia de la realidad. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias.
+e) Tratamiento ambulatorio. Las personas sometidas a esta medida habrán de asistir al centro designado con la periodicidad requerida por los facultativos que las atiendan y seguir las pautas fijadas para el adecuado tratamiento de la anomalía o alteración psíquica, adicción al consumo de bebidas alcohólicas, drogas tóxicas o sustancias psicotrópicas, o alteraciones en la percepción que padezcan. Esta medida podrá aplicarse sola o como complemento de otra medida prevista en este artículo. Cuando el interesado rechace un tratamiento de deshabituación, el Juez habrá de aplicarle otra medida adecuada a sus circunstancias.
+f) Asistencia a un centro de día. Las personas sometidas a esta medida residirán en su domicilio habitual y acudirán a un centro, plenamente integrado en la comunidad, a realizar actividades de apoyo, educativas, formativas, laborales o de ocio.
+g) Permanencia de fin de semana. Las personas sometidas a esta medida permanecerán en su domicilio o en un centro hasta un máximo de treinta y seis horas entre la tarde o noche del viernes y la noche del domingo, a excepción, en su caso, del tiempo que deban dedicar a las tareas socio-educativas asignadas por el Juez que deban llevarse a cabo fuera del lugar de permanencia.
+h) Libertad vigilada. En esta medida se ha de hacer un seguimiento de la actividad de la persona sometida a la misma y de su asistencia a la escuela, al centro de formación profesional o al lugar de trabajo, según los casos, procurando ayudar a aquélla a superar los factores que determinaron la infracción cometida. Asimismo, esta medida obliga, en su caso, a seguir las pautas socio-educativas que señale la entidad pública o el profesional encargado de su seguimiento, de acuerdo con el programa de intervención elaborado al efecto y aprobado por el Juez de Menores. La persona sometida a la medida también queda obligada a mantener con dicho profesional las entrevistas establecidas en el programa y a cumplir, en su caso, las reglas de conducta impuestas por el Juez, que podrán ser alguna o algunas de las siguientes:
+1.ª Obligación de asistir con regularidad al centro docente correspondiente, si el menor está en edad de escolarización obligatoria, y acreditar ante el Juez dicha asistencia regular o justificar en su caso las ausencias, cuantas veces fuere requerido para ello.
+2.ª Obligación de someterse a programas de tipo formativo, cultural, educativo, profesional, laboral, de educación sexual, de educación vial u otros similares.
+3.ª Prohibición de acudir a determinados lugares, establecimientos o espectáculos.
+4.ª Prohibición de ausentarse del lugar de residencia sin autorización judicial previa.
+5.ª Obligación de residir en un lugar determinado.
+6.ª Obligación de comparecer personalmente ante el Juzgado de Menores o profesional que se designe, para informar de las actividades realizadas y justificarlas.
+7.ª Cualesquiera otras obligaciones que el Juez, de oficio o a instancia del Ministerio Fiscal, estime convenientes para la reinserción social del sentenciado, siempre que no atenten contra su dignidad como persona. Si alguna de estas obligaciones implicase la imposibilidad del menor de continuar conviviendo con sus padres, tutores o guardadores, el Ministerio Fiscal deberá remitir testimonio de los particulares a la entidad pública de protección del menor, y dicha entidad deberá promover las medidas de protección adecuadas a las circunstancias de aquél, conforme a lo dispuesto en la Ley Orgánica 1/1996.
+i) La prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez. Esta medida impedirá al menor acercarse a ellos, en cualquier lugar donde se encuentren, así como a su domicilio, a su centro docente, a sus lugares de trabajo y a cualquier otro que sea frecuentado por ellos. La prohibición de comunicarse con la víctima, o con aquellos de sus familiares u otras personas que determine el Juez o Tribunal, impedirá al menor establecer con ellas, por cualquier medio de comunicación o medio informático o telemático, contacto escrito, verbal o visual. Si esta medida implicase la imposibilidad del menor de continuar viviendo con sus padres, tutores o guardadores, el Ministerio Fiscal deberá remitir testimonio de los particulares a la entidad pública de protección del menor, y dicha entidad deberá promover las medidas de protección adecuadas a las circunstancias de aquél, conforme a lo dispuesto en la Ley Orgánica 1/1996.
+j) Convivencia con otra persona, familia o grupo educativo. La persona sometida a esta medida debe convivir, durante el período de tiempo establecido por el Juez, con otra persona, con una familia distinta a la suya o con un grupo educativo, adecuadamente seleccionados para orientar a aquélla en su proceso de socialización.
+k) Prestaciones en beneficio de la comunidad. La persona sometida a esta medida, que no podrá imponerse sin su consentimiento, ha de realizar las actividades no retribuidas que se le indiquen, de interés social o en beneficio de personas en situación de precariedad.
+l) Realización de tareas socio-educativas. La persona sometida a esta medida ha de realizar, sin internamiento ni libertad vigilada, actividades específicas de contenido educativo encaminadas a facilitarle el desarrollo de su competencia social.
+m) Amonestación. Esta medida consiste en la reprensión de la persona llevada a cabo por el Juez de Menores y dirigida a hacerle comprender la gravedad de los hechos cometidos y las consecuencias que los mismos han tenido o podrían haber tenido, instándole a no volver a cometer tales hechos en el futuro.
+n) Privación del permiso de conducir ciclomotores y vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para uso de cualquier tipo de armas. Esta medida podrá imponerse como accesoria cuando el delito o falta se hubiere cometido utilizando un ciclomotor o un vehículo a motor, o un arma, respectivamente.
+ñ) Inhabilitación absoluta. La medida de inhabilitación absoluta produce la privación definitiva de todos los honores, empleos y cargos públicos sobre el que recayere, aunque sean electivos; así como la incapacidad para obtener los mismos o cualesquiera otros honores, cargos o empleos públicos, y la de ser elegido para cargo público, durante el tiempo de la medida.
+2. Las medidas de internamiento constarán de dos períodos: el primero se llevará a cabo en el centro correspondiente, conforme a la descripción efectuada en el apartado anterior de este artículo, el segundo se llevará a cabo en régimen de libertad vigilada, en la modalidad elegida por el Juez. La duración total no excederá del tiempo que se expresa en los artículos 9 y 10. El equipo técnico deberá informar respecto del contenido de ambos períodos, y el Juez expresará la duración de cada uno en la sentencia.
+3. Para la elección de la medida o medidas adecuadas se deberá atender de modo flexible, no sólo a la prueba y valoración jurídica de los hechos, sino especialmente a la edad, las circunstancias familiares y sociales, la personalidad y el interés del menor, puestos de manifiesto los dos últimos en los informes de los equipos técnicos y de las entidades públicas de protección y reforma de menores cuando éstas hubieran tenido conocimiento del menor por haber ejecutado una medida cautelar o definitiva con anterioridad, conforme a lo dispuesto en el artículo 27 de la presente Ley. El Juez deberá motivar en la sentencia las razones por las que aplica una determinada medida, así como el plazo de duración de la misma, a los efectos de la valoración del mencionado interés del menor.
+4. El Juez podrá imponer al menor una o varias medidas de las previstas en esta Ley con independencia de que se trate de uno o más hechos, sujetándose si procede a lo dispuesto en el artículo 11 para el enjuiciamiento conjunto de varias infracciones; pero, en ningún caso, se impondrá a un menor en una misma resolución más de una medida de la misma clase, entendiendo por tal cada una de las que se enumeran en el apartado 1 de este artículo.
+5. Cuando la medida impuesta lo sea por la comisión de un delito de los previstos en los Capítulos I y II del Título VIII del Código Penal, el Juez impondrá de forma accesoria, en todo caso, la obligación de someterse a programas formativos de educación sexual y de educación en igualdad.
+Se añade el apartado 5, con efectos desde el 7 de octubre de 2022, por la disposición final 7.1 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-7
+ Se modifica por el art. único.4 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se añade la letra n) al apartado 1 por el art. 2.1 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+### Artículo 8
+
+Artículo 8. Principio acusatorio.
+El Juez de Menores no podrá imponer una medida que suponga una mayor restricción de derechos ni por un tiempo superior a la medida solicitada por el Ministerio Fiscal o por el acusador particular.
+Tampoco podrá exceder la duración de las medidas privativas de libertad contempladas en el artículo 7.1.ª), b), c), d) y g), en ningún caso, del tiempo que hubiera durado la pena privativa de libertad que se le hubiere impuesto por el mismo hecho, si el sujeto, de haber sido mayor de edad, hubiera sido declarado responsable, de acuerdo con el Código Penal.
+Se modifica el párrafo 1 por la disposición final 2.1 de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
+
+### Artículo 9
+
+Artículo 9. Régimen general de aplicación y duración de las medidas.
+No obstante lo establecido en los apartados 3 y 4 del artículo 7, la aplicación de las medidas se atendrá a las siguientes reglas:
+1. Cuando los hechos cometidos sean calificados de falta, sólo se podrán imponer las medidas de libertad vigilada hasta un máximo de seis meses, amonestación, permanencia de fin de semana hasta un máximo de cuatro fines de semana, prestaciones en beneficio de la comunidad hasta cincuenta horas, privación del permiso de conducir o de otras licencias administrativas hasta un año, la prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez hasta seis meses, y la realización de tareas socio-educativas hasta seis meses.
+2. La medida de internamiento en régimen cerrado sólo podrá ser aplicable cuando:
+a) Los hechos estén tipificados como delito grave por el Código Penal o las leyes penales especiales.
+b) Tratándose de hechos tipificados como delito menos grave, en su ejecución se haya empleado violencia o intimidación en las personas o se haya generado grave riesgo para la vida o la integridad física de las mismas.
+c) Los hechos tipificados como delito se cometan en grupo o el menor perteneciere o actuare al servicio de una banda, organización o asociación, incluso de carácter transitorio, que se dedicare a la realización de tales actividades.
+3. La duración de las medidas no podrá exceder de dos años, computándose, en su caso, a estos efectos el tiempo ya cumplido por el menor en medida cautelar, conforme a lo dispuesto en el artículo 28.5 de la presente Ley. La medida de prestaciones en beneficio de la comunidad no podrá superar las cien horas. La medida de permanencia de fin de semana no podrá superar los ocho fines de semana.
+4. Las acciones u omisiones imprudentes no podrán ser sancionadas con medidas de internamiento en régimen cerrado.
+5. Cuando en la postulación del Ministerio Fiscal o en la resolución dictada en el procedimiento se aprecien algunas de las circunstancias a las que se refiere el artículo 5.2 de esta Ley, sólo podrán aplicarse las medidas terapéuticas descritas en el artículo 7.1, letras d) y e) de la misma.
+Se modifica por el art. único.5 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se modifica el primer y tercer párrafo de la regla 5ª por el art. 2.2 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+### Artículo 10
+
+Artículo 10. Reglas especiales de aplicación y duración de las medidas
+1. Cuando se trate de los hechos previstos en el apartado 2 del artículo anterior, el Juez, oído el Ministerio Fiscal, las partes personadas y el equipo técnico, actuará conforme a las reglas siguientes:
+a) si al tiempo de cometer los hechos el menor tuviere catorce o quince años de edad, la medida podrá alcanzar tres años de duración. Si se trata de prestaciones en beneficio de la comunidad, dicho máximo será de ciento cincuenta horas, y de doce fines de semana si la medida impuesta fuere la de permanencia de fin de semana.
+b) si al tiempo de cometer los hechos el menor tuviere dieciséis o diecisiete años de edad, la duración máxima de la medida será de seis años; o, en sus respectivos casos, de doscientas horas de prestaciones en beneficio de la comunidad o permanencia de dieciséis fines de semana. En este supuesto, cuando el hecho revista extrema gravedad, el Juez deberá imponer una medida de internamiento en régimen cerrado de uno a seis años, complementada sucesivamente con otra medida de libertad vigilada con asistencia educativa hasta un máximo de cinco años. Sólo podrá hacerse uso de lo dispuesto en los artículos 13 y 51.1 de esta Ley Orgánica una vez transcurrido el primer año de cumplimiento efectivo de la medida de internamiento. A los efectos previstos en el párrafo anterior, se entenderán siempre supuestos de extrema gravedad aquellos en los que se apreciara reincidencia.
+2. Cuando el hecho sea constitutivo de alguno de los delitos tipificados en los artículos 138, 139, 178, apartados 2 y 3, 179, 180, 181, apartados 2, 4, 5 y 6, y 571 a 580 del Código Penal, o de cualquier otro delito que tenga señalada en dicho Código o en las leyes penales especiales pena de prisión igual o superior a quince años, el Juez deberá imponer las medidas siguientes:
+a) Si al tiempo de cometer los hechos el menor tuviere catorce o quince años de edad, una medida de internamiento en régimen cerrado de uno a cinco años de duración, complementada en su caso por otra medida de libertad vigilada de hasta tres años.
+b) Si al tiempo de cometer los hechos el menor tuviere dieciséis o diecisiete años de edad, una medida de internamiento en régimen cerrado de uno a ocho años de duración, complementada en su caso por otra de libertad vigilada con asistencia educativa de hasta cinco años. En este supuesto solo podrá hacerse uso de las facultades de modificación, suspensión o sustitución de la medida impuesta a las que se refieren los artículos 13, 40 y 51.1 de esta ley orgánica, cuando haya trascurrido, al menos, la mitad de la duración de la medida de internamiento impuesta.
+3. En el caso de que el delito cometido sea alguno de los comprendidos en los artículos 571 a 580 del Código Penal, el Juez, sin perjuicio de las demás medidas que correspondan con arreglo a esta Ley, también impondrá al menor una medida de inhabilitación absoluta por un tiempo superior entre cuatro y quince años al de la duración de la medida de internamiento en régimen cerrado impuesta, atendiendo proporcionalmente a la gravedad del delito, el número de los cometidos y a las circunstancias que concurran en el menor.
+4. Las medidas de libertad vigilada previstas en este artículo deberán ser ratificadas mediante auto motivado, previa audiencia del Ministerio Fiscal, del letrado del menor y del representante de la entidad pública de protección o reforma de menores al finalizar el internamiento, y se llevará a cabo por las instituciones públicas encargadas del cumplimiento de las penas.
+Se modifica el apartado 2 por la disposición final 2 de la Ley Orgánica 4/2023, de 27 de abril. Ref. BOE-A-2023-10213#df-2
+ Se modifica el apartado 2, con efectos desde el 7 de octubre de 2022, por la disposición final 7.2 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-7
+ Se modifica por el art. único.6 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 11
+
+Artículo 11. Pluralidad de infracciones.
+1. Los límites máximos establecidos en el artículo 9 y en el apartado 1 del artículo 10 serán aplicables, con arreglo a los criterios establecidos en el artículo 7, apartados 3 y 4, aunque el menor fuere responsable de dos o más infracciones, en el caso de que éstas sean conexas o se trate de una infracción continuada, así como cuando un sólo hecho constituya dos o más infracciones. No obstante, en estos casos, el Juez, para determinar la medida o medidas a imponer, así como su duración, deberá tener en cuenta, además del interés del menor, la naturaleza y el número de las infracciones, tomando como referencia la más grave de todas ellas. Si pese a lo dispuesto en el artículo 20.1 de esta Ley dichas infracciones hubiesen sido objeto de diferentes procedimientos, el último Juez sentenciador señalará la medida o medidas que debe cumplir el menor por el conjunto de los hechos, dentro de los límites y con arreglo a los criterios expresados en el párrafo anterior.
+2. Cuando alguno o algunos de los hechos a los que se refiere el apartado anterior fueren de los mencionados en el artículo 10.2 de esta Ley, la medida de internamiento en régimen cerrado podrá alcanzar una duración máxima de diez años para los mayores de dieciséis años y de seis años para los menores de esa edad, sin perjuicio de la medida de libertad vigilada que, de forma complementaria, corresponda imponer con arreglo a dicho artículo.
+3. Cuando el menor hubiere cometido dos o más infracciones no comprendidas en el apartado 1 de este artículo será de aplicación lo dispuesto en el artículo 47 de la presente Ley.
+Se modifica por el art. único.7 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 12
+
+Artículo 12. Procedimiento de aplicación de medidas en supuestos de pluralidad de infracciones.
+1. A los fines previstos en el artículo anterior, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes en ejecución, pendientes de ejecución o suspendidas condicionalmente, impuestas al mismo menor por otros jueces de menores en anteriores sentencias, y una vez que la medida o medidas por él impuestas sean firmes, ordenará al secretario judicial que dé traslado del testimonio de su sentencia, por el medio más rápido posible, al Juez que haya dictado la primera sentencia firme, el cual será el competente para la ejecución de todas, asumiendo las funciones previstas en el apartado 2 de este artículo.
+2. El Juez competente para la ejecución procederá a la refundición y a ordenar la ejecución de todas las medidas impuestas conforme establece el artículo 47 de esta Ley. Desde ese momento, pasará a ser competente a todos los efectos con exclusión de los órganos judiciales que hubieran dictado las posteriores resoluciones.
+Se modifica por el art. único.8 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 13
+
+Artículo 13. Modificación de la medida impuesta.
+1. El Juez competente para la ejecución, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, previa audiencia de estos e informe del equipo técnico y, en su caso, de la entidad pública de protección o reforma de menores, podrá en cualquier momento dejar sin efecto la medida impuesta, reducir su duración o sustituirla por otra, siempre que la modificación redunde en el interés del menor y se exprese suficientemente a este el reproche merecido por su conducta. Cuando el delito cometido esté tipificado en los Capítulos I y II del Título VIII del Código Penal, sólo podrá dejarse sin efecto la medida si se acredita que la persona sometida a la misma ha cumplido la obligación prevista en el apartado 5 del artículo 7.
+2. En los casos anteriores, el Juez resolverá por auto motivado, contra el cual se podrán interponer los recursos previstos en la presente Ley.
+Se modifica el apartado 1, con efectos desde el 7 de octubre de 2022, por la disposición final 7.3 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-7
+ Se modifica por el art. único.9 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Su anterior numeración era el art. 14.
+
+### Artículo 14
+
+Artículo 14. Mayoría de edad del condenado.
+1. Cuando el menor a quien se le hubiere impuesto una medida de las establecidas en esta Ley alcanzase la mayoría de edad, continuará el cumplimiento de la medida hasta alcanzar los objetivos propuestos en la sentencia en que se le impuso conforme a los criterios expresados en los artículos anteriores.
+2. Cuando se trate de la medida de internamiento en régimen cerrado y el menor alcance la edad de dieciocho años sin haber finalizado su cumplimiento, el Juez de Menores, oído el Ministerio Fiscal, el letrado del menor, el equipo técnico y la entidad pública de protección o reforma de menores, podrá ordenar en auto motivado que su cumplimiento se lleve a cabo en un centro penitenciario conforme al régimen general previsto en la Ley Orgánica General Penitenciaria si la conducta de la persona internada no responde a los objetivos propuestos en la sentencia.
+3. No obstante lo señalado en los apartados anteriores, cuando las medidas de internamiento en régimen cerrado sean impuestas a quien haya cumplido veintiún años de edad o, habiendo sido impuestas con anterioridad, no hayan finalizado su cumplimiento al alcanzar la persona dicha edad, el Juez de Menores, oídos el Ministerio Fiscal, el letrado del menor, el equipo técnico y la entidad pública de protección o reforma de menores, ordenará su cumplimiento en centro penitenciario conforme al régimen general previsto en la Ley Orgánica General Penitenciaria, salvo que, excepcionalmente, entienda en consideración a las circunstancias concurrentes que procede la utilización de las medidas previstas en los artículos 13 y 51 de la presente Ley o su permanencia en el centro en cumplimiento de tal medida cuando el menor responda a los objetivos propuestos en la sentencia.
+4. Cuando el menor pase a cumplir la medida de internamiento en un centro penitenciario, quedarán sin efecto el resto de medidas impuestas por el Juez de Menores que estuvieren pendientes de cumplimiento sucesivo o que estuviera cumpliendo simultáneamente con la de internamiento, si éstas no fueren compatible con el régimen penitenciario, todo ello sin perjuicio de que excepcionalmente proceda la aplicación de los artículos 13 y 51 de esta Ley.
+5. La medida de internamiento en régimen cerrado que imponga el Juez de Menores con arreglo a la presente Ley se cumplirá en un centro penitenciario conforme al régimen general previsto en la Ley Orgánica General Penitenciaria siempre que, con anterioridad al inicio de la ejecución de dicha medida, el responsable hubiera cumplido ya, total o parcialmente, bien una pena de prisión impuesta con arreglo al Código Penal, o bien una medida de internamiento ejecutada en un centro penitenciario conforme a los apartados 2 y 3 de este artículo.
+Se modifica por el art. único.10 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 15
+
+Artículo 15. De la prescripción.
+1. Los hechos delictivos cometidos por los menores prescriben:
+1.º Con arreglo a las normas contenidas en el Código Penal, cuando se trate de los hechos delictivos tipificados en los artículos 138, 139, 179, 180 y 571 a 580 del Código Penal o cualquier otro sancionado en el Código Penal o en las leyes penales especiales con pena de prisión igual o superior a quince años.
+2.º A los cinco años, cuando se trate de un delito grave sancionado en el Código Penal con pena superior a diez años.
+3.º A los tres años, cuando se trate de cualquier otro delito grave.
+4.º Al año, cuando se trate de un delito menos grave. 5.º A los tres meses, cuando se trate de una falta.
+2. Las medidas que tengan una duración superior a los dos años prescribirán a los tres años. Las restantes medidas prescribirán a los dos años, excepto la amonestación, las prestaciones en beneficio de la comunidad y la permanencia de fin de semana, que prescribirán al año.
+Se modifica por el art. único.11 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO III
+
+De la instrucción del procedimiento
+
+## CAPÍTULO I
+
+Reglas generales
+
+### Artículo 16
+
+Artículo 16. Incoación del expediente.
+1. Corresponde al Ministerio Fiscal la instrucción de los procedimientos por los hechos a los que se refiere el artículo 1 de esta Ley.
+2. Quienes tuvieren noticia de algún hecho de los indicados en el apartado anterior, presuntamente cometido por un menor de dieciocho años, deberán ponerlo en conocimiento del Ministerio Fiscal, el cual admitirá o no a trámite la denuncia, según que los hechos sean o no indiciariamente constitutivos de delito; custodiará las piezas, documentos y efectos que le hayan sido remitidos, y practicará, en su caso, las diligencias que estime pertinentes para la comprobación del hecho y de la responsabilidad del menor en su comisión, pudiendo resolver el archivo de las actuaciones cuando los hechos no constituyan delito o no tengan autor conocido. La resolución recaída sobre la denuncia deberá notificarse a quienes hubieran formulado la misma.
+3. Una vez efectuadas las actuaciones indicadas en el apartado anterior, el Ministerio Fiscal dará cuenta de la incoación del expediente al Juez de Menores, quien iniciará las diligencias de trámite correspondientes.
+4. El Juez de Menores ordenará al propio tiempo la apertura de la pieza separada de responsabilidad civil, que se tramitará conforme a lo establecido en las reglas del artículo 64 de esta Ley.
+5. Cuando los hechos mencionados en el artículo 1 hubiesen sido cometidos conjuntamente por mayores de edad penal y por personas de las edades indicadas en el mismo artículo 1, el Juez de Instrucción competente para el conocimiento de la causa, tan pronto como compruebe la edad de los imputados, adoptará las medidas necesarias para asegurar el éxito de la actividad investigadora respecto de los mayores de edad y ordenará remitir testimonio de los particulares precisos al Ministerio Fiscal, a los efectos prevenidos en el apartado 2 de este artículo.
+Se modifica los apartados 4 y 5 por el art. único.12 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 17
+
+Artículo 17. Detención de los menores.
+1. Las autoridades y funcionarios que intervengan en la detención de un menor deberán practicarla en la forma que menos perjudique a éste y estarán obligados a informarle, en un lenguaje claro y comprensible y de forma inmediata, de los hechos que se le imputan, de las razones de su detención y de los derechos que le asisten, especialmente los reconocidos en el artículo 520 de la Ley de Enjuiciamiento Criminal, así como a garantizar el respeto de los mismos. También deberán notificar inmediatamente el hecho de la detención y el lugar de la custodia a los representantes legales del menor y al Ministerio Fiscal. Si el menor detenido fuera extranjero, el hecho de la detención se notificará a las correspondientes autoridades consulares cuando el menor tuviera su residencia habitual fuera de España o cuando así lo solicitaran el propio menor o sus representantes legales.
+2. Toda declaración del detenido, se llevará a cabo en presencia de su letrado y de aquéllos que ejerzan la patria potestad, tutela o guarda del menor -de hecho o de derecho-, salvo que, en este último caso, las circunstancias aconsejen lo contrario. En defecto de estos últimos la declaración se llevará a cabo en presencia del Ministerio Fiscal, representado por persona distinta del instructor del expediente.
+El menor detenido tendrá derecho a la entrevista reservada con su abogado con anterioridad y al término de la práctica de la diligencia de toma de declaración.
+3. Mientras dure la detención, los menores deberán hallarse custodiados en dependencias adecuadas y separadas de las que se utilicen para los mayores de edad, y recibirán los cuidados, protección y asistencia social, psicológica, médica y física que requieran, habida cuenta de su edad, sexo y características individuales.
+4. La detención de un menor por funcionarios de policía no podrá durar más tiempo del estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, dentro del plazo máximo de veinticuatro horas, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal. Se aplicará, en su caso, lo dispuesto en el artículo 520 bis de la Ley de Enjuiciamiento Criminal, atribuyendo la competencia para las resoluciones judiciales previstas en dicho precepto al Juez de Menores.
+5. Cuando el detenido sea puesto a disposición del Ministerio Fiscal, éste habrá de resolver, dentro de las cuarenta y ocho horas a partir de la detención, sobre la puesta en libertad del menor, sobre el desistimiento al que se refiere el artículo siguiente, o sobre la incoación del expediente, poniendo a aquél a disposición del Juez de Menores competente e instando del mismo las oportunas medidas cautelares, con arreglo a lo establecido en el artículo 28.
+6. El Juez competente para el procedimiento de hábeas corpus en relación a un menor será el Juez de Instrucción del lugar en el que se encuentre el menor privado de libertad; si no constare, el del lugar donde se produjo la detención, y, en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias sobre el paradero del menor detenido. Cuando el procedimiento de hábeas corpus sea instado por el propio menor, la fuerza pública responsable de la detención lo notificará inmediatamente al Ministerio Fiscal, además de dar curso al procedimiento conforme a la ley orgánica reguladora.
+Se añade el segundo párrafo al apartado 2 por el art. único.13 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 18
+
+Artículo 18. Desistimiento de la incoación del expediente por corrección en el ámbito educativo y familiar.
+El Ministerio Fiscal podrá desistir de la incoación del expediente cuando los hechos denunciados constituyan delitos menos graves sin violencia o intimidación en las personas o faltas, tipificados en el Código Penal o en las leyes penales especiales. En tal caso, el Ministerio Fiscal dará traslado de lo actuado a la entidad pública de protección de menores para la aplicación de lo establecido en el artículo 3 de la presente Ley. Asimismo, el Ministerio Fiscal comunicará a los ofendidos o perjudicados conocidos el desistimiento acordado.
+No obstante, cuando conste que el menor ha cometido con anterioridad otros hechos de la misma naturaleza, el Ministerio Fiscal deberá incoar el expediente y, en su caso, actuar conforme autoriza el artículo 27.4 de la presente Ley.
+Se modifica el párrafo 1 por el art. único.14 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 19
+
+Artículo 19. Sobreseimiento del expediente por conciliación o reparación entre el menor y la víctima.
+1. También podrá el Ministerio Fiscal desistir de la continuación del expediente, atendiendo a la gravedad y circunstancias de los hechos y del menor, de modo particular a la falta de violencia o intimidación graves en la comisión de los hechos, y a la circunstancia de que además el menor se haya conciliado con la víctima o haya asumido el compromiso de reparar el daño causado a la víctima o al perjudicado por el delito, o se haya comprometido a cumplir la actividad educativa propuesta por el equipo técnico en su informe.
+El desistimiento en la continuación del expediente sólo será posible cuando el hecho imputado al menor constituya delito menos grave o falta.
+2. A efectos de lo dispuesto en el apartado anterior, se entenderá producida la conciliación cuando el menor reconozca el daño causado y se disculpe ante la víctima, y ésta acepte sus disculpas, y se entenderá por reparación el compromiso asumido por el menor con la víctima o perjudicado de realizar determinadas acciones en beneficio de aquellos o de la comunidad, seguido de su realización efectiva. Todo ello sin perjuicio del acuerdo al que hayan llegado las partes en relación con la responsabilidad civil.
+Cuando la medida sea consecuencia de la comisión de alguno de los delitos tipificados en los Capítulos I y II del Título VIII del Código Penal, o estén relacionados con la violencia de género, no tendrá efecto de conciliación, a menos que la víctima lo solicite expresamente y que el menor, además, haya realizado la medida accesoria de educación sexual y de educación para la igualdad.
+3. El correspondiente equipo técnico realizará las funciones de mediación entre el menor y la víctima o perjudicado, a los efectos indicados en los apartados anteriores, e informará al Ministerio Fiscal de los compromisos adquiridos y de su grado de cumplimiento.
+4. Una vez producida la conciliación o cumplidos los compromisos de reparación asumidos con la víctima o perjudicado por el delito o falta cometido, o cuando una u otros no pudieran llevarse a efecto por causas ajenas a la voluntad del menor, el Ministerio Fiscal dará por concluida la instrucción y solicitará del Juez el sobreseimiento y archivo de las actuaciones, con remisión de lo actuado.
+5. En el caso de que el menor no cumpliera la reparación o la actividad educativa acordada, el Ministerio Fiscal continuará la tramitación del expediente.
+6. En los casos en los que la víctima del delito o falta fuere menor de edad o incapaz, el compromiso al que se refiere el presente artículo habrá de ser asumido por el representante legal de la misma, con la aprobación del Juez de Menores.
+Se modifica el apartado 2, con efectos desde el 7 de octubre de 2022, por la disposición final 7.4 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-7
+ Se modifica el apartado 2 por el art. único.15 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 20
+
+Artículo 20. Unidad de expediente.
+1. El Ministerio Fiscal incoará un procedimiento por cada hecho delictivo, salvo cuando se trate de hechos delictivos conexos.
+2. Todos los procedimientos tramitados a un mismo menor se archivarán en el expediente personal que del mismo se haya abierto en la Fiscalía. De igual modo se archivarán las diligencias en el Juzgado de Menores respectivo.
+3. En los casos en los que los delitos atribuidos al menor expedientado hubieran sido cometidos en diferentes territorios, la determinación del órgano judicial competente para el enjuiciamiento de todos ellos en unidad de expediente, así como de las entidades públicas competentes para la ejecución de las medidas que se apliquen, se hará teniendo en cuenta el lugar del domicilio del menor y, subsidiariamente, los criterios expresados en el artículo 18 de la Ley de Enjuiciamiento Criminal.
+4. Los procedimientos de la competencia de la Audiencia Nacional no podrán ser objeto de acumulación con otros procedimientos instruidos en el ámbito de la jurisdicción de menores, sean o no los mismos los sujetos imputados.
+Se modifica por el art. único.16 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 21
+
+Artículo 21. Remisión al órgano competente.
+Cuando el conocimiento de los hechos no corresponda a la competencia de los Juzgados de Menores, el Fiscal acordará la remisión de lo actuado al órgano legalmente competente.
+
+### Artículo 22
+
+Artículo 22. De la incoación del expediente.
+1. Desde el mismo momento de la incoación del expediente, el menor tendrá derecho a:
+a) Ser informado por el Juez, el Ministerio Fiscal, o agente de policía de los derechos que le asisten.
+b) Designar abogado que le defienda, o a que le sea designado de oficio y a entrevistarse reservadamente con él, incluso antes de prestar declaración.
+c) Intervenir en las diligencias que se practiquen durante la investigación preliminar y en el proceso judicial, y a proponer y solicitar, respectivamente, la práctica de diligencias.
+d) Ser oído por el Juez o Tribunal antes de adoptar cualquier resolución que le concierna personalmente.
+e) La asistencia afectiva y psicológica en cualquier estado y grado del procedimiento, con la presencia de los padres o de otra persona que indique el menor, si el Juez de Menores autoriza su presencia.
+f) La asistencia de los servicios del equipo técnico adscrito al Juzgado de Menores.
+2. El expediente será notificado al menor desde el momento mismo de su incoación, a salvo lo dispuesto en el artículo 24. A tal fin, el Fiscal requerirá al menor y a sus representantes legales para que designen letrado en el plazo de tres días, advirtiéndoles que, de no hacerlo, se le nombrará de oficio de entre los integrantes del turno de especialistas del correspondiente Colegio de Abogados. Una vez producida dicha designación, el Fiscal la comunicará al Juez de Menores.
+3. Igualmente, el Ministerio Fiscal notificará a quien aparezca como perjudicado, desde el momento en que así conste en la instrucción del expediente, la posibilidad de ejercer las acciones civiles que le puedan corresponder, personándose ante el Juez de Menores en la pieza de responsabilidad civil que se tramitará por el mismo.
+Se modifica el apartado 2 por el art. único.17 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 23
+
+Artículo 23. Actuación instructora del Ministerio Fiscal.
+1. La actuación instructora del Ministerio Fiscal tendrá como objeto, tanto valorar la participación del menor en los hechos para expresarle el reproche que merece su conducta, como proponer las concretas medidas de contenido educativo y sancionador adecuadas a las circunstancias del hecho y de su autor y, sobre todo, al interés del propio menor valorado en la causa.
+2. El Ministerio Fiscal deberá dar vista del expediente al letrado del menor y, en su caso, a quien haya ejercitado la acción penal, en un plazo no superior a veinticuatro horas, tantas veces como aquel lo solicite.
+3. El Ministerio Fiscal no podrá practicar por sí mismo diligencias restrictivas de derechos fundamentales, sino que habrá de solicitar del Juzgado la práctica de las que sean precisas para el buen fin de las investigaciones. El Juez de Menores resolverá sobre esta petición por auto motivado. La práctica de tales diligencias se documentará en pieza separada.
+4. El Ministerio Fiscal, de oficio o a petición de cualquiera de las partes personadas, instará al Juzgado de menores, la práctica de la declaración de la víctima o de un cualquier otro testigo, con las garantías de la prueba preconstituida, de conformidad con lo dispuesto en la Ley de Enjuiciamiento Criminal, asegurando en todo caso el principio de contradicción cuando concurran alguno de los supuestos siguientes:
+a) Cuando exista riesgo de imposibilidad de concurrir al juicio oral.
+b) Cuando se trate de una persona especialmente vulnerable. En todo caso, tendrá esa consideración toda persona menor de catorce años o persona con discapacidad necesitada de especial protección.
+Téngase en cuenta que este apartado 4, añadido por el art. 23.2 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#a2-5, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+Se añade el apartado 4, con efectos desde el 3 de abril de 2025, por el art. 23.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a2-5
+ Se modifica el apartado 2 por el art. único.18 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 24
+
+Artículo 24. Secreto del expediente.
+El Juez de Menores, a solicitud del Ministerio Fiscal, del menor o de su familia, o de quien ejercite la acción penal, podrá decretar mediante auto motivado el secreto del expediente, en su totalidad o parcialmente, durante toda la instrucción o durante un período limitado de ésta. No obstante, el letrado del menor y quien ejercite la acción penal deberán, en todo caso, conocer en su integridad el expediente al evacuar el trámite de alegaciones. Este incidente se tramitará por el Juzgado en pieza separada.
+Se modifica por el art. único.19 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 25
+
+Artículo 25. De la acusación particular.
+Podrán personarse en el procedimiento como acusadores particulares, a salvo de las acciones previstas por el artículo 61 de esta ley, las personas directamente ofendidas por el delito, sus padres, sus herederos o sus representantes legales si fueran menores de edad o incapaces, con las facultades y derechos que derivan de ser parte en el procedimiento, entre los que están, entre otros, los siguientes:
+a) Ejercitar la acusación particular durante el procedimiento.
+b) Instar la imposición de las medidas a las que se refiere esta ley.
+c) Tener vista de lo actuado, siendo notificado de las diligencias que se soliciten y acuerden.
+d) Proponer pruebas que versen sobre el hecho delictivo y las circunstancias de su comisión, salvo en lo referente a la situación psicológica, educativa, familiar y social del menor.
+e) Participar en la práctica de las pruebas, ya sea en fase de instrucción ya sea en fase de audiencia ; a estos efectos, el órgano actuante podrá denegar la práctica de la prueba de careo, si esta fuera solicitada, cuando no resulte fundamental para la averiguación de los hechos o la participación del menor en los mismos.
+f) Ser oído en todos los incidentes que se tramiten durante el procedimiento.
+g) Ser oído en caso de modificación o de sustitución de medidas impuestas al menor.
+h) Participar en las vistas o audiencias que se celebren.
+i) Formular los recursos procedentes de acuerdo con esta ley.
+Una vez admitida por el Juez de Menores la personación del acusador particular, se le dará traslado de todas las actuaciones sustanciadas de conformidad con esta ley y se le permitirá intervenir en todos los trámites en defensa de sus intereses.
+Se modifica por la disposición final 2.2 de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
+
+### Artículo 26
+
+Artículo 26. Diligencias propuestas por las partes.
+1. Las partes podrán solicitar del Ministerio Fiscal la práctica de cuantas diligencias consideren necesarias. El Ministerio Fiscal decidirá sobre su admisión, mediante resolución motivada que notificará al letrado del menor y a quien en su caso ejercite la acción penal y que pondrá en conocimiento del Juez de Menores. Las partes podrán, en cualquier momento, reproducir ante el Juzgado de Menores la petición de las diligencias no practicadas.
+2. No obstante lo dispuesto en el apartado anterior, cuando alguna de las partes proponga que se lleve a efecto la declaración del menor, el Ministerio Fiscal deberá recibirla en el expediente, salvo que ya hubiese concluido la instrucción y el expediente hubiese sido elevado al Juzgado de Menores.
+3. Si las diligencias propuestas por alguna de las partes afectaren a derechos fundamentales del menor o de otras personas, el Ministerio Fiscal, de estimar pertinente la solicitud, se dirigirá al Juez de Menores conforme a lo dispuesto en el artículo 23.3, sin perjuicio de la facultad de quien haya propuesto la diligencia de reproducir su solicitud ante el Juez de Menores conforme a lo dispuesto en el apartado 1 de este artículo.
+Se modifica por el art. único.20 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 27
+
+Artículo 27. Informe del equipo técnico.
+1. Durante la instrucción del expediente, el Ministerio Fiscal requerirá del equipo técnico, que a estos efectos dependerá funcionalmente de aquél sea cual fuere su dependencia orgánica, la elaboración de un informe o actualización de los anteriormente emitidos, que deberá serle entregado en el plazo máximo de diez días, prorrogable por un período no superior a un mes en casos de gran complejidad, sobre la situación psicológica, educativa y familiar del menor, así como sobre su entorno social, y en general sobre cualquier otra circunstancia relevante a los efectos de la adopción de alguna de las medidas previstas en la presente Ley.
+2. El equipo técnico podrá proponer, asimismo, una intervención socio-educativa sobre el menor, poniendo de manifiesto en tal caso aquellos aspectos del mismo que considere relevantes en orden a dicha intervención.
+3. De igual modo, el equipo técnico informará, si lo considera conveniente y en interés del menor, sobre la posibilidad de que éste efectúe una actividad reparadora o de conciliación con la víctima, de acuerdo con lo dispuesto en el artículo 19 de esta Ley, con indicación expresa del contenido y la finalidad de la mencionada actividad. En este caso, no será preciso elaborar un informe de las características y contenidos del apartado 1 de este artículo.
+4. Asimismo podrá el equipo técnico proponer en su informe la conveniencia de no continuar la tramitación del expediente en interés del menor, por haber sido expresado suficientemente el reproche al mismo a través de los trámites ya practicados, o por considerar inadecuada para el interés del menor cualquier intervención, dado el tiempo transcurrido desde la comisión de los hechos. En estos casos, si se reunieran los requisitos previstos en el artículo 19.1 de esta Ley, el Ministerio Fiscal podrá remitir el expediente al Juez con propuesta de sobreseimiento, remitiendo además, en su caso, testimonio de lo actuado a la entidad pública de protección de menores que corresponda, a los efectos de que actúe en protección del menor.
+5. En todo caso, una vez elaborado el informe del equipo técnico, el Ministerio Fiscal lo remitirá inmediatamente al Juez de Menores y dará copia del mismo al letrado del menor.
+6. El informe al que se refiere el presente artículo podrá ser elaborado o complementado por aquellas entidades públicas o privadas que trabajen en el ámbito de la educación de menores y conozcan la situación del menor expedientado.
+
+## CAPÍTULO II
+
+De las medidas cautelares
+
+### Artículo 28
+
+Artículo 28. Reglas generales.
+1. El Ministerio Fiscal, de oficio o a instancia de quien haya ejercitado la acción penal, cuando existan indicios racionales de la comisión de un delito y el riesgo de eludir u obstruir la acción de la justicia por parte del menor o de atentar contra los bienes jurídicos de la víctima, podrá solicitar del Juez de Menores, en cualquier momento, la adopción de medidas cautelares para la custodia y defensa del menor expedientado o para la debida protección de la víctima. Dichas medidas podrán consistir en internamiento en centro en el régimen adecuado, libertad vigilada, prohibición de aproximarse o comunicarse con la víctima o con aquellos de sus familiares u otras personas que determine el Juez, o convivencia con otra persona, familia o grupo educativo. El Juez, oído el letrado del menor, así como el equipo técnico y la representación de la entidad pública de protección o reforma de menores, que informarán especialmente sobre la naturaleza de la medida cautelar, resolverá sobre lo propuesto tomando en especial consideración el interés del menor. La medida cautelar adoptada podrá mantenerse hasta que recaiga sentencia firme.
+2. Para la adopción de la medida cautelar de internamiento se atenderá a la gravedad de los hechos, valorando también las circunstancias personales y sociales del menor, la existencia de un peligro cierto de fuga, y, especialmente, el que el menor hubiera cometido o no con anterioridad otros hechos graves de la misma naturaleza. El Juez de Menores resolverá, a instancia del Ministerio Fiscal o de la acusación particular, en una comparecencia a la que asistirán también el letrado del menor, las demás partes personadas, el representante del equipo técnico y el de la entidad pública de protección o reforma de menores, los cuales informarán al Juez sobre la conveniencia de la adopción de la medida solicitada en función de los criterios consignados en este artículo. En dicha comparecencia el Ministerio Fiscal y las partes personadas podrán proponer los medios de prueba que puedan practicarse en el acto o dentro de las veinticuatro horas siguientes.
+3. El tiempo máximo de la medida cautelar de internamiento será de seis meses, y podrá prorrogarse, a instancia del Ministerio Fiscal, previa audiencia del letrado del menor y mediante auto motivado, por otros tres meses como máximo.
+4. Las medidas cautelares se documentarán en el Juzgado de Menores en pieza separada del expediente.
+5. El tiempo de cumplimiento de las medidas cautelares se abonará en su integridad para el cumplimiento de las medidas que se puedan imponer en la misma causa o, en su defecto, en otras causas que hayan tenido por objeto hechos anteriores a la adopción de aquéllas. El Juez, a propuesta del Ministerio Fiscal y oídos el letrado del menor y el equipo técnico que informó la medida cautelar, ordenará que se tenga por ejecutada la medida impuesta en aquella parte que estime razonablemente compensada por la medida cautelar.
+Se modifica los apartados 1, 2 y 3 por el art. único.21 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 29
+
+Artículo 29. Medidas cautelares en los casos de exención de la responsabilidad.
+Si en el transcurso de la instrucción que realice el Ministerio Fiscal quedara suficientemente acreditado que el menor se encuentra en situación de enajenación mental o en cualquiera otra de las circunstancias previstas en los apartados 1.º, 2.º ó 3.º del artículo 20 del Código Penal vigente, se adoptarán las medidas cautelares precisas para la protección y custodia del menor conforme a los preceptos civiles aplicables, instando en su caso las actuaciones para la incapacitación del menor y la constitución de los organismos tutelares conforme a derecho, sin perjuicio todo ello de concluir la instrucción y de efectuar las alegaciones previstas en esta Ley conforme a lo que establecen sus artículos 5.2 y 9, y de solicitar, por los trámites de la misma, en su caso, alguna medida terapéutica adecuada al interés del menor de entre las previstas en esta Ley.
+
+## CAPÍTULO III
+
+De la conclusión de la instrucción
+
+### Artículo 30
+
+Artículo 30. Remisión del expediente al Juez de Menores.
+1. Acabada la instrucción, el Ministerio Fiscal resolverá la conclusión del expediente, notificándosela a las partes personadas, y remitirá al Juzgado de Menores el expediente, junto con las piezas de convicción y demás efectos que pudieran existir, con un escrito de alegaciones en el que constará la descripción de los hechos, la valoración jurídica de los mismos, el grado de participación del menor, una breve reseña de las circunstancias personales y sociales de éste, la proposición de alguna medida de las previstas en esta Ley con exposición razonada de los fundamentos jurídicos y educativos que la aconsejen, y, en su caso, la exigencia de responsabilidad civil.
+2. En el mismo acto propondrá el Ministerio Fiscal la prueba de que intente valerse para la defensa de su pretensión procesal.
+3. Asimismo, podrá proponer el Ministerio Fiscal la participación en el acto de la audiencia de aquellas personas o representantes de instituciones públicas y privadas que puedan aportar al proceso elementos valorativos del interés del menor y de la conveniencia o no de las medidas solicitadas. En todo caso serán llamadas al acto de audiencia las personas o instituciones perjudicadas civilmente por el delito, así como los responsables civiles.
+4. El Ministerio Fiscal podrá también solicitar del Juez de Menores el sobreseimiento de las actuaciones por alguno de los motivos previstos en la Ley de Enjuiciamiento Criminal, así como la remisión de los particulares necesarios a la entidad pública de protección de menores en su caso.
+Se modifica los apartados 1 y 3 por el art. único.22 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO IV
+
+De la fase de audiencia
+
+### Artículo 31
+
+Artículo 31. Apertura de la fase de audiencia.
+Recibido el escrito de alegaciones con el expediente, las piezas de convicción, los efectos y demás elementos relevantes para el proceso remitidos por el Ministerio Fiscal, el secretario del Juzgado de Menores los incorporará a las diligencias, y el Juez de Menores procederá a abrir el trámite de audiencia, para lo cual el secretario judicial dará traslado simultáneamente a quienes ejerciten la acción penal y la civil para que en un plazo común de cinco días hábiles formulen sus respectivos escritos de alegaciones y propongan las pruebas que consideren pertinentes. Evacuado este trámite, el secretario judicial dará traslado de todo lo actuado al letrado del menor y, en su caso, a los responsables civiles, para que en un plazo de cinco días hábiles formule a su vez escrito de alegaciones y proponga la prueba que considere pertinente.
+Se modifica por el art. único.23 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 32
+
+Artículo 32. Sentencia de conformidad.
+Si el escrito de alegaciones de la acusación solicitara la imposición de alguna o algunas de las medidas previstas en las letras e) a ñ) del apartado 1 del artículo 7, y hubiere conformidad del menor y de su letrado, así como de los responsables civiles, la cual se expresará en comparecencia ante el Juez de Menores en los términos del artículo 36, éste dictará sentencia sin más trámite.
+Cuando el menor y su letrado disintiesen únicamente respecto de la responsabilidad civil, se limitará la audiencia a la prueba y discusión de los puntos relativos a dicha responsabilidad.
+Cuando la persona o personas contra quienes se dirija la acción civil no estuvieren conformes con la responsabilidad civil solicitada, se sustanciará el trámite de la audiencia sólo en lo relativo a este último extremo, practicándose la prueba propuesta a fin de determinar el alcance de aquella.
+Se modifica por el art. único.24 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 33
+
+Artículo 33. Otras decisiones del Juez de Menores.
+En los casos no previstos en el artículo anterior, a la vista de la petición del Ministerio Fiscal y de los escritos de alegaciones de las partes, el Juez adoptará alguna de las siguientes decisiones:
+a) La celebración de la audiencia.
+b) El sobreseimiento, mediante auto motivado, de las actuaciones.
+c) El archivo por sobreseimiento de las actuaciones con remisión de particulares a la entidad pública de protección de menores correspondiente cuando así se haya solicitado por el Ministerio Fiscal.
+d) La remisión de las actuaciones al Juez competente, cuando el Juez de Menores considere que no le corresponde el conocimiento del asunto.
+e) Practicar por sí las pruebas propuestas por las partes y que hubieran sido denegadas por el Fiscal durante la instrucción, conforme a lo dispuesto en el artículo 26.1 de la presente Ley, y que no puedan celebrarse en el transcurso de la audiencia, siempre que considere que son relevantes a los efectos del proceso. Una vez practicadas, dará traslado de los resultados al Ministerio Fiscal y a las partes personadas, antes de iniciar las sesiones de la audiencia.
+Contra las precedentes resoluciones cabrán los recursos previstos en esta Ley.
+Se modifica por el art. único.25 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 34
+
+Artículo 34. Pertinencia de pruebas y señalamiento de la audiencia.
+El Juez de Menores, dentro del plazo de cinco días desde la presentación del escrito de alegaciones del letrado del menor y, en su caso, de los responsables civiles, o una vez transcurrido el plazo para la presentación sin que ésta se hubiere efectuado, acordará, en su caso, lo procedente sobre la pertinencia de las pruebas propuestas, mediante auto de apertura de la audiencia, y el secretario judicial señalará el día y hora en que deba comenzar ésta dentro de los diez días siguientes.
+Se modifica por el art. único.26 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 35
+
+Artículo 35. Asistentes y no publicidad de la audiencia.
+1. La audiencia se celebrará con asistencia del Ministerio Fiscal, de las partes personadas, del letrado del menor, de un representante del equipo técnico que haya evacuado el informe previsto en el artículo 27 de esta Ley, y del propio menor, el cual podrá estar acompañado de sus representantes legales, salvo que el Juez, oídos los citados Ministerio Fiscal, letrado del menor y representante del equipo técnico, acuerde lo contrario. También podrá asistir el representante de la entidad pública de protección o reforma de menores que haya intervenido en las actuaciones de la instrucción, cuando se hubiesen ejecutado medidas cautelares o definitivas impuestas al menor con anterioridad. Igualmente, deberán comparecer la persona o personas a quienes se exija responsabilidad civil; aunque su inasistencia injustificada no será por sí misma causa de suspensión de la audiencia.
+2. El Juez podrá acordar, en interés de la persona imputada o de la víctima, que las sesiones no sean públicas y en ningún caso se permitirá que los medios de comunicación social obtengan o difundan imágenes del menor ni datos que permitan su identificación.
+3. Quienes ejerciten la acción penal en el procedimiento regulado en la presente Ley, habrán de respetar rigurosamente el derecho del menor a la confidencialidad y a la no difusión de sus datos personales o de los datos que obren en el expediente instruido, en los términos que establezca el Juez de Menores. Quien infrinja esta regla será acreedor de las responsabilidades civiles y penales a que haya lugar.
+Se modifica el apartado 1 y se añade el 3 por el art. único.27 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 36
+
+Artículo 36. Conformidad del menor.
+1. El secretario judicial informará al menor expedientado, en un lenguaje comprensible y adaptado a su edad, de las medidas y responsabilidad civil solicitadas por el Ministerio Fiscal y, en su caso, la acusación particular y el actor civil, en sus escritos de alegaciones, así como de los hechos y de la causa en que se funden.
+2. El Juez seguidamente preguntará al menor si se declara autor de los hechos y si está de acuerdo con las medidas solicitadas y con la responsabilidad civil. Si mostrase su conformidad con dichos extremos, oídos el letrado del menor y la persona o personas contra quienes se dirija la acción civil, el Juez podrá dictar resolución de conformidad. Si el letrado no estuviese de acuerdo con la conformidad prestada por el propio menor, el Juez resolverá sobre la continuación o no de la audiencia, razonando esta decisión en la sentencia.
+3. Si el menor estuviere conforme con los hechos pero no con la medida solicitada, se sustanciará el trámite de la audiencia sólo en lo relativo a este último extremo, practicándose la prueba propuesta a fin de determinar la aplicación de dicha medida o su sustitución por otra más adecuada al interés del menor y que haya sido propuesta por alguna de las partes.
+4. Cuando el menor o la persona o personas contra quienes se dirija la acción civil no estuvieren conformes con la responsabilidad civil solicitada, se sustanciará el trámite de la audiencia sólo en lo relativo a este último extremo, practicándose la prueba propuesta a fin de determinar el alcance de aquélla.
+Se modifica por el art. único. 28 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 37
+
+Artículo 37. Celebración de la audiencia.
+1. Cuando proceda la celebración de la audiencia, el Juez invitará al Ministerio Fiscal, a quienes hayan ejercitado, en su caso, la acción penal, al letrado del menor, y eventualmente y respecto de las cuestiones que estrictamente tengan que ver con la responsabilidad civil al actor civil y terceros responsables civilmente, a que manifiesten lo que tengan por conveniente sobre la práctica de nuevas pruebas o sobre la vulneración de algún derecho fundamental en la tramitación del procedimiento, o, en su caso, les pondrá de manifiesto la posibilidad de aplicar una distinta calificación o una distinta medida de las que hubieran solicitado. Seguidamente, el Juez acordará la continuación de la audiencia o la subsanación del derecho vulnerado, si así procediere. Si acordara la continuación de la audiencia, el Juez resolverá en la sentencia sobre los extremos planteados.
+2. Seguidamente se iniciará la práctica de la prueba propuesta y admitida y la que, previa declaración de pertinencia, ofrezcan las partes para su práctica en el acto, oyéndose, asimismo, al equipo técnico sobre las circunstancias del menor. A continuación, el Juez oirá al Ministerio Fiscal, a quien haya ejercitado en su caso la acción penal, al letrado del menor y al actor civil y terceros responsables civilmente respecto de los derechos que le asisten, sobre la valoración de la prueba, su calificación jurídica y la procedencia de las medidas propuestas; sobre este último punto, se oirá también al equipo técnico y, en su caso, a la entidad pública de protección o reforma de menores. Por último, el Juez oirá al menor, dejando el expediente visto para sentencia.
+3. En su caso, en este procedimiento se aplicará lo dispuesto en la legislación relativa a la protección de testigos y peritos en causas penales.
+4. Si en el transcurso de la audiencia el Juez considerara, de oficio o a solicitud de las partes, que el interés del menor aconseja que éste abandone la sala, podrá acordarlo así motivadamente, ordenando que continúen las actuaciones hasta que el menor pueda retornar a aquélla.
+Se modifica los apartados 1 y 2 por el art. único.29 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO V
+
+De la sentencia
+
+### Artículo 38
+
+Artículo 38. Plazo para dictar sentencia.
+Finalizada la audiencia, el Juez de Menores dictará sentencia en un plazo máximo de cinco días.
+Se modifica por el art. único.30 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 39
+
+Artículo 39. Contenido y registro de la sentencia.
+1. La sentencia contendrá todos los requisitos previstos en la vigente Ley Orgánica del Poder Judicial y en ella, valorando las pruebas practicadas, las razones expuestas por el Ministerio Fiscal, por las partes personadas y por el letrado del menor, lo manifestado en su caso por éste, tomando en consideración las circunstancias y gravedad de los hechos, así como todos los datos debatidos sobre la personalidad, situación, necesidades y entorno familiar y social del menor, la edad de éste en el momento de dictar la sentencia, y la circunstancia de que el menor hubiera cometido o no con anterioridad otros hechos de la misma naturaleza, resolverá sobre la medida o medidas propuestas, con indicación expresa de su contenido, duración y objetivos a alcanzar con las mismas. La sentencia será motivada, consignando expresamente los hechos que se declaren probados y los medios probatorios de los que resulte la convicción judicial. En la misma sentencia se resolverá sobre la responsabilidad civil derivada del delito o falta, con el contenido indicado en el artículo 115 del Código Penal. También podrá ser anticipado oralmente el fallo al término de las sesiones de la audiencia, sin perjuicio de su documentación con arreglo al artículo 248.3 de la citada Ley Orgánica del Poder Judicial.
+2. El Juez, al redactar la sentencia, procurará expresar sus razonamientos en un lenguaje claro y comprensible para la edad del menor.
+3. Cada Juzgado de Menores llevará un registro de sentencias en el que se incluirán firmadas todas las definitivas. La llevanza y custodia de dicho registro es responsabilidad del secretario judicial.
+Se modifica los apartados 1 y 3 por el art. único.31 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 40
+
+Artículo 40. Suspensión de la ejecución del fallo.
+1. El Juez competente para la ejecución, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, y oídos en todo caso éstos, así como el representante del equipo técnico y de la entidad pública de protección o reforma de menores, podrá acordar motivadamente la suspensión de la ejecución del fallo contenido en la sentencia, cuando la medida impuesta no sea superior a dos años de duración, durante un tiempo determinado y hasta un máximo de dos años. Dicha suspensión se acordará en la propia sentencia o por auto motivado del Juez competente para la ejecución cuando aquélla sea firme, debiendo expresar, en todo caso, las condiciones de la misma. Se exceptúa de la suspensión el pronunciamiento sobre la responsabilidad civil derivada del delito o falta.
+2. Las condiciones a las que estará sometida la suspensión de la ejecución del fallo contenido en la sentencia dictada por el Juez de Menores serán las siguientes:
+a) No ser condenado en sentencia firme por delito cometido durante el tiempo que dure la suspensión, si ha alcanzado la mayoría de edad, o no serle aplicada medida en sentencia firme en procedimiento regulado por esta Ley durante el tiempo que dure la suspensión.
+b) Que el menor asuma el compromiso de mostrar una actitud y disposición de reintegrarse a la sociedad, no incurriendo en nuevas infracciones.
+c) Además, el Juez puede establecer la aplicación de un régimen de libertad vigilada durante el plazo de suspensión o la obligación de realizar una actividad socio-educativa, recomendada por el equipo técnico o la entidad pública de protección o reforma de menores en el precedente trámite de audiencia, incluso con compromiso de participación de los padres, tutores o guardadores del menor, expresando la naturaleza y el plazo en que aquella actividad deberá llevarse a cabo.
+3. Si las condiciones expresadas en el apartado anterior no se cumplieran, el Juez alzará la suspensión y se procederá a ejecutar la sentencia en todos sus extremos. Contra la resolución que así lo acuerde se podrán interponer los recursos previstos en esta Ley.
+Se modifica el apartado 1 por el art. único.32 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO VI
+
+Del régimen de recursos
+
+### Artículo 41
+
+Artículo 41. Recursos procedentes y tramitación.
+1. Contra la sentencia dictada por el Juez de Menores en el procedimiento regulado en esta Ley cabe recurso de apelación ante la correspondiente Audiencia Provincial, que se interpondrá ante el Juez que dictó aquélla en el plazo de cinco días a contar desde su notificación, y se resolverá previa celebración de vista pública, salvo que en interés de la persona imputada o de la víctima, el Juez acuerde que se celebre a puerta cerrada. A la vista deberán asistir las partes y, si el Tribunal lo considera oportuno, el representante del equipo técnico y el representante de la entidad pública de protección o reforma de menores que hayan intervenido en el caso concreto. El recurrente podrá solicitar del Tribunal la práctica de la prueba que, propuesta y admitida en la instancia, no se hubiera celebrado, conforme a las reglas de la Ley de Enjuiciamiento Criminal.
+2. Contra los autos y providencias de los Jueces de Menores cabe recurso de reforma ante el propio órgano, que se interpondrá en el plazo de tres días a partir de la notificación. El auto que resuelva la impugnación de la providencia será susceptible de recurso de apelación.
+3. Contra los autos que pongan fin al procedimiento o resuelvan el incidente de los artículos 13, 28, 29 y 40 de esta Ley, cabe recurso de apelación ante la Audiencia Provincial por los trámites que regula la Ley de Enjuiciamiento Criminal para el procedimiento abreviado.
+4. Contra los autos y sentencias dictados por el Juzgado Central de Menores de la Audiencia Nacional cabe recurso de apelación ante la Sala de lo Penal de la Audiencia Nacional.
+5. Contra las resoluciones dictadas por los secretarios judiciales caben los mismos recursos que los expresados en la Ley de Enjuiciamiento Criminal, que se sustanciarán en la forma que en ella se determina.
+Se modifica el apartado 3 y la rúbrica y se añade los apartados 4 y 5 por el art. único.33 y 34 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se modifica los apartados 1 y 3 por el art. 6 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661.
+
+### Artículo 42
+
+Artículo 42. Recurso de casación para unificación de doctrina.
+1. Son recurribles en casación, ante la Sala Segunda del Tribunal Supremo, las sentencias dictadas en apelación por la Audiencia Nacional y por las Audiencias Provinciales cuando se hubiere impuesto una de las medidas a las que se refiere el artículo 10.
+2. El recurso tendrá por objeto la unificación de doctrina con ocasión de sentencias dictadas en apelación que fueran contradictorias entre sí, o con sentencias del Tribunal Supremo, respecto de hechos y valoraciones de las circunstancias del menor que, siendo sustancialmente iguales, hayan dado lugar, sin embargo, a pronunciamientos distintos.
+3. El recurso podrá prepararlo el Ministerio Fiscal o cualquiera de las partes que pretenda la indicada unificación de doctrina dentro de los diez días siguientes a la notificación de la sentencia de la Audiencia Nacional o Provincial, en escrito dirigido a la misma. El escrito de preparación deberá contener una relación precisa y circunstanciada de la contradicción alegada, con designación de las sentencias aludidas y de los informes en que se funde el interés del menor valorado en sentencia.
+4. Si la Audiencia Nacional o Provincial ante quien se haya preparado el recurso estimara acreditados los requisitos a los que se refiere el apartado anterior, el secretario judicial requerirá testimonio de las sentencias citadas a los Tribunales que las dictaron, y en un plazo de diez días remitirá la documentación a la Sala Segunda del Tribunal Supremo, emplazando al recurrente y al Ministerio Fiscal, si no lo fuera, ante dicha Sala.
+5. El recurso de casación se interpondrá ante la Sala Segunda del Tribunal Supremo, siendo de aplicación en la interposición, sustanciación y resolución del recurso lo dispuesto en la Ley de Enjuiciamiento Criminal, en cuanto resulte aplicable.
+Se modifica por el art. único.35 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## TÍTULO VII
+
+De la ejecución de las medidas
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 43
+
+Artículo 43. Principio de legalidad.
+1. No podrá ejecutarse ninguna de las medidas establecidas en esta Ley sino en virtud de sentencia firme dictada de acuerdo con el procedimiento regulado en la misma.
+2. Tampoco podrán ejecutarse dichas medidas en otra forma que la prescrita en esta Ley y en los reglamentos que la desarrollen.
+
+### Artículo 44
+
+Artículo 44. Competencia judicial.
+1. La ejecución de las medidas previstas en esta Ley se realizará bajo el control del Juez de Menores que haya dictado la sentencia correspondiente, salvo cuando por aplicación de lo dispuesto en los artículos 12 y 47 de esta Ley sea competente otro, el cual resolverá por auto motivado, oídos el Ministerio Fiscal, el letrado del menor y la representación de la entidad pública que ejecute aquélla, sobre las incidencias que se puedan producir durante su transcurso.
+2. Para ejercer el control de la ejecución, corresponden especialmente al Juez de Menores, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, las funciones siguientes:
+a) Adoptar todas las decisiones que sean necesarias para proceder a la ejecución efectiva de las medidas impuestas.
+b) Resolver las propuestas de revisión de las medidas.
+c) Aprobar los programas de ejecución de las medidas.
+d) Conocer de la evolución de los menores durante el cumplimiento de las medidas a través de los informes de seguimiento de las mismas.
+e) Resolver los recursos que se interpongan contra las resoluciones dictadas para la ejecución de las medidas, conforme establece el artículo 52 de esta Ley.
+f) Acordar lo que proceda en relación a las peticiones o quejas que puedan plantear los menores sancionados sobre el régimen, el tratamiento o cualquier otra circunstancia que pueda afectar a sus derechos fundamentales.
+g) Realizar regularmente visitas a los centros y entrevistas con los menores.
+h) Formular a la entidad pública de protección o reforma de menores correspondiente las propuestas y recomendaciones que considere oportunas en relación con la organización y el régimen de ejecución de las medidas.
+i) Adoptar las resoluciones que, en relación con el régimen disciplinario, les atribuye el artículo 60 de esta Ley.
+3. Cuando, por aplicación de lo dispuesto en el artículo 14 de esta Ley, la medida de internamiento se cumpla en un establecimiento penitenciario, el Juez de Menores competente para la ejecución conservará la competencia para decidir sobre la pervivencia, modificación o sustitución de la medida en los términos previstos en esta Ley, asumiendo el Juez de Vigilancia Penitenciaria el control de las incidencias de la ejecución de la misma en todas las cuestiones y materias a que se refiere la legislación penitenciaria.
+Se modifica los apartados 1 y 2.b) y se añade el 3 por el art. único.36.1 a 3 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 45
+
+Artículo 45. Competencia administrativa.
+1. La ejecución de las medidas adoptadas por los Jueces de Menores en sus sentencias firmes es competencia de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla, con arreglo a la disposición final vigésima segunda de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor. Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas normas de organización, la creación, dirección, organización y gestión de los servicios, instituciones y programas adecuados para garantizar la correcta ejecución de las medidas previstas en esta Ley.
+2. La ejecución de las medidas corresponderá a las Comunidades Autónomas y Ciudades de Ceuta y Melilla, donde se ubique el Juzgado de Menores que haya dictado la sentencia, sin perjuicio de lo dispuesto en el apartado 3 del artículo siguiente.
+3. Las Comunidades Autónomas y las Ciudades de Ceuta y Melilla podrán establecer los convenios o acuerdos de colaboración necesarios con otras entidades, bien sean públicas, de la Administración del Estado, Local o de otras Comunidades Autónomas, o privadas sin ánimo de lucro, para la ejecución de las medidas de su competencia, bajo su directa supervisión, sin que ello suponga en ningún caso la cesión de la titularidad y responsabilidad derivada de dicha ejecución.
+
+## CAPÍTULO II
+
+Reglas para la ejecución de las medidas
+
+### Artículo 46
+
+Artículo 46. Liquidación de la medida y traslado del menor a un centro.
+1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el secretario del Juzgado de Menores competente para la ejecución de la medida practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.
+2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, el secretario judicial dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.
+3. Recibidos por la entidad pública el testimonio y la liquidación de la medida indicados en el apartado anterior, aquélla designará de forma inmediata un profesional que se responsabilizará de la ejecución de la medida impuesta, y, si ésta fuera de internamiento, designará el centro más adecuado para su ejecución de entre los más cercanos al domicilio del menor en los que existan plazas disponibles para la ejecución por la entidad pública competente en cada caso. El traslado a otro centro distinto de los anteriores sólo se podrá fundamentar en el interés del menor de ser alejado de su entorno familiar y social y requerirá en todo caso la aprobación del Juzgado de Menores competente para la ejecución de la medida. En todo caso los menores pertenecientes a una banda, organización o asociación no podrán cumplir la medida impuesta en el mismo centro, debiendo designárseles uno distinto aunque la elección del mismo suponga alejamiento del entorno familiar o social.
+Se modifica por el art. único.37 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 47
+
+Artículo 47. Refundición de medidas impuestas.
+1. Si se hubieran impuesto al menor varias medidas en la misma resolución judicial, y no fuere posible su cumplimiento simultáneo, el Juez competente para la ejecución ordenará su cumplimiento sucesivo conforme a las reglas establecidas en el apartado 5 de este artículo.
+La misma regla se aplicará a las medidas impuestas en distintas resoluciones judiciales, siempre y cuando dichas medidas sean de distinta naturaleza entre sí. En este caso será el Juez competente para la ejecución quien ordene el cumplimiento simultáneo o sucesivo con arreglo al apartado 5 de este artículo, según corresponda.
+2. Si se hubieren impuesto al menor en diferentes resoluciones judiciales dos o más medidas de la misma naturaleza, el Juez competente para la ejecución, previa audiencia del letrado del menor, refundirá dichas medidas en una sola, sumando la duración de las mismas, hasta el límite del doble de la más grave de las refundidas.
+El Juez, previa audiencia del letrado del menor, deberá proceder de este modo respecto de cada grupo de medidas de la misma naturaleza que hayan sido impuestas al menor, de modo que una vez practicada la refundición no quedará por ejecutar más de una medida de cada clase de las enumeradas en el artículo 7 de esta Ley.
+3. En caso de que, estando sujeto a la ejecución de una medida, el menor volviera a cometer un hecho delictivo, el Juez competente para la ejecución, previa audiencia del letrado del menor, dictará la resolución que proceda en relación a la nueva medida que, en su caso se haya impuesto, conforme a lo dispuesto en los dos apartados anteriores. En este caso podrá aplicar además las reglas establecidas en el artículo 50 para el supuesto de quebrantamiento de la ejecución.
+4. A los fines previstos en este artículo, en cuanto el Juez sentenciador tenga conocimiento de la existencia de otras medidas firmes de ejecución, pendientes de ejecución o suspendidas condicionalmente, y una vez que la medida o medidas por él impuestas sean firmes, procederá conforme a lo dispuesto en el artículo 12 de esta Ley.
+5. Cuando las medidas de distinta naturaleza, impuestas directamente o resultantes de la refundición prevista en los números anteriores, hubieren de ejecutarse de manera sucesiva, se atenderá a los siguientes criterios:
+a) La medida de internamiento terapéutico se ejecutará con preferencia a cualquier otra.
+b) La medida de internamiento en régimen cerrado se ejecutará con preferencia al resto de las medidas de internamiento.
+c) La medida de internamiento se cumplirá antes que las no privativas de libertad, y en su caso interrumpirá la ejecución de éstas.
+d) Las medidas de libertad vigilada contempladas en el artículo 10 se ejecutarán una vez finalizado el internamiento en régimen cerrado que se prevé en el mismo artículo.
+e) En atención al interés del menor, el Juez podrá, previo informe del Ministerio Fiscal, de las demás partes y de la entidad pública de reforma o protección de menores, acordar motivadamente la alteración en el orden de cumplimiento previsto en las reglas anteriores.
+6. Lo dispuesto en este artículo se entiende sin perjuicio de las previsiones del artículo 14 para el caso de que el menor pasare a cumplir una medida de internamiento en centro penitenciario al alcanzar la mayoría de edad.
+7. Cuando una persona que se encuentre cumpliendo una o varias medidas impuestas con arreglo a esta Ley sea condenada a una pena o medida de seguridad prevista en el Código Penal o en leyes penales especiales, se ejecutarán simultáneamente aquéllas y éstas si fuere materialmente posible, atendida la naturaleza de ambas, su forma de cumplimiento o la eventual suspensión de la pena impuesta, cuando proceda.
+No siendo posible la ejecución simultánea, se cumplirá la sanción penal, quedando sin efecto la medida o medidas impuestas en aplicación de la presente Ley, salvo que se trate de una medida de internamiento y la pena impuesta sea de prisión y deba efectivamente ejecutarse. En este último caso, a no ser que el Juez de Menores adopte alguna de las resoluciones previstas en el artículo 13 de esta Ley, la medida de internamiento terminará de cumplirse en el centro penitenciario en los términos previstos en el artículo 14, y una vez cumplida se ejecutará la pena.
+Se modifica por el art. único.38 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 48
+
+Artículo 48. Expediente personal de la persona sometida a la ejecución de una medida.
+1. La entidad pública abrirá un expediente personal único a cada menor respecto del cual tenga encomendada la ejecución de una medida, en el que se recogerán los informes relativos a aquél, las resoluciones judiciales que le afecten y el resto de la documentación generada durante la ejecución.
+2. Dicho expediente tendrá carácter reservado y solamente tendrán acceso al mismo el Defensor del Pueblo o institución análoga de la correspondiente Comunidad Autónoma, los Jueces de Menores competentes, el Ministerio Fiscal y las personas que intervengan en la ejecución y estén autorizadas por la entidad pública de acuerdo con sus normas de organización. El menor, su letrado y, en su caso, su representante legal, también tendrán acceso al expediente.
+3. La recogida, cesión y tratamiento automatizado de datos de carácter personal de las personas a las que se aplique la presente Ley, sólo podrá realizarse en ficheros informáticos de titularidad pública dependientes de las entidades públicas de protección de menores, Administraciones y Juzgados de Menores competentes o del Ministerio Fiscal, y se regirá por lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Cáracter Personal, y sus normas de desarrollo.
+
+### Artículo 49
+
+Artículo 49. Informes sobre la ejecución.
+1. La entidad pública remitirá al Juez de Menores y al Ministerio Fiscal, con la periodicidad que se establezca reglamentariamente en cada caso y siempre que fuese requerida para ello o la misma entidad lo considerase necesario, informes sobre la ejecución de la medida y sus incidencias, y sobre la evolución personal de los menores sometidos a las mismas. Dichos informes se remitirán también al letrado del menor si así lo solicitare a la entidad pública competente.
+2. En los indicados informes la entidad pública podrá solicitar del Ministerio Fiscal, cuando así lo estime procedente, la revisión judicial de las medidas en el sentido propugnado por el artículo 13.1 de la presente Ley.
+Se modifica el apartado 2 por el art. único.39 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 50
+
+Artículo 50. Quebrantamiento de la ejecución.
+1. Cuando el menor quebrantare una medida privativa de libertad, se procederá a su reingreso en el mismo centro del que se hubiera evadido o en otro adecuado a sus condiciones, o, en caso de permanencia de fin de semana, en su domicilio, a fin de cumplir de manera ininterrumpida el tiempo pendiente.
+2. Si la medida quebrantada no fuere privativa de libertad, el Ministerio Fiscal podrá instar del Juez de Menores la sustitución de aquélla por otra de la misma naturaleza. Excepcionalmente, y a propuesta del Ministerio Fiscal, oídos el letrado y el representante legal del menor, así como el equipo técnico, el Juez de Menores podrá sustituir la medida por otra de internamiento en centro semiabierto, por el tiempo que reste para su cumplimiento.
+3. Asimismo, el Juez de Menores acordará que el secretario judicial remita testimonio de los particulares relativos al quebrantamiento de la medida al Ministerio Fiscal, por si el hecho fuese constitutivo de alguna de las infracciones a que se refiere el artículo 1 de la presente Ley Orgánica y merecedora de reproche sancionador.
+Se modifica el apartado 3 por el art. único. 40 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 51
+
+Artículo 51. Sustitución de las medidas.
+1. Durante la ejecución de las medidas el Juez de Menores competente para la ejecución podrá, de oficio o a instancia del Ministerio Fiscal, del letrado del menor o de la Administración competente, y oídas las partes, así como el equipo técnico y la representación de la entidad pública de protección o reforma de menores, dejar sin efecto aquellas o sustituirlas por otras que se estimen más adecuadas de entre las previstas en esta Ley, por tiempo igual o inferior al que reste para su cumplimiento, siempre que la nueva medida pudiera haber sido impuesta inicialmente atendiendo a la infracción cometida. Todo ello sin perjuicio de lo dispuesto en el apartado 2 del artículo anterior y de acuerdo con el artículo 13 de la presente Ley
+2. Cuando el Juez de Menores haya sustituido la medida de internamiento en régimen cerrado por la de internamiento en régimen semiabierto o abierto, y el menor evolucione desfavorablemente, previa audiencia del letrado del menor, podrá dejar sin efecto la sustitución, volviéndose a aplicar la medida sustituida de internamiento en régimen cerrado. Igualmente, si la medida impuesta es la de internamiento en régimen semiabierto y el menor evoluciona desfavorablemente, el Juez de Menores podrá sustituirla por la de internamiento en régimen cerrado, cuando el hecho delictivo por la que se impuso sea alguno de los previstos en el artículo 9.2 de esta Ley.
+3. La conciliación del menor con la víctima, en cualquier momento en que se produzca el acuerdo entre ambos a que se refiere el artículo 19 de la presente Ley, podrá dejar sin efecto la medida impuesta cuando el Juez, a propuesta del Ministerio Fiscal o del letrado del menor y oídos el equipo técnico y la representación de la entidad pública de protección o reforma de menores, juzgue que dicho acto y el tiempo de duración de la medida ya cumplido expresan suficientemente el reproche que merecen los hechos cometidos por el menor.
+4. En todos los casos anteriores, el Juez resolverá por auto motivado, contra el cual se podrán interponer los recursos previstos en la presente Ley.
+Se modifica el apartado 1, se reenumera el 2 y 3, como 3 y 4, y se añade el 2 por el art. único. 41 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 52
+
+Artículo 52. Presentación de recursos.
+1. Cuando el menor pretenda interponer ante el Juez de Menores recurso contra cualquier resolución adoptada durante la ejecución de las medidas que le hayan sido impuestas, lo presentará de forma escrita ante el Juez o Director del centro de internamiento, quien lo pondrá en conocimiento de aquél dentro del siguiente día hábil.
+El menor también podrá presentar un recurso ante el Juez de forma verbal, o manifestar de forma verbal su intención de recurrir al Director del centro, quien dará traslado de esta manifestación al Juez de Menores en el plazo indicado. En este último caso, el Juez de Menores adoptará las medidas que resulten procedentes a fin de oír la alegación del menor.
+El letrado del menor también podrá interponer los recursos, en forma escrita, ante las autoridades indicadas en el párrafo primero.
+2. Si el Juez de Menores admitiese a trámite el recurso, el secretario judicial recabará informe del Ministerio Fiscal y, previa audiencia del letrado del menor, aquél resolverá el recurso en el plazo de dos días, mediante auto motivado. Contra este auto cabrá recurso de apelación ante la correspondiente Audiencia Provincial, conforme a lo dispuesto en el artículo 41 de la presente Ley.
+Se modifica el apartado 2 por el art. único.42 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236,
+
+### Artículo 53
+
+Artículo 53. Cumplimiento de la medida.
+1. Una vez cumplida la medida, la entidad pública remitirá a los destinatarios designados en el artículo 49.1 un informe final, y el Juez de Menores dictará auto acordando lo que proceda respecto al archivo de la causa. Dicho auto será notificado por el secretario judicial al Ministerio Fiscal, al letrado del menor, a la entidad pública y a la víctima.
+2. El Juez, de oficio o a instancia del Ministerio Fiscal o del letrado del menor, podrá instar de la correspondiente entidad pública de protección o reforma de menores, una vez cumplida la medida impuesta, que se arbitren los mecanismos de protección del menor conforme a las normas del Código Civil, cuando el interés de aquél así lo requiera.
+Se modifica el apartado 1 por el art. único.43 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+## CAPÍTULO III
+
+Reglas especiales para la ejecución de las medidas privativas de libertad
+
+### Artículo 54
+
+Artículo 54. Centros para la ejecución de las medidas privativas de libertad.
+1. Las medidas privativas de libertad, la detención y las medidas cautelares de internamiento que se impongan de conformidad con esta Ley se ejecutarán en centros específicos para menores infractores, diferentes de los previstos en la legislación penitenciaria para la ejecución de las condenas penales y medidas cautelares privativas de libertad impuestas a los mayores de edad penal.
+La ejecución de la detención preventiva, de las medidas cautelares de internamiento o de las medidas impuestas en la sentencia, acordadas por el Juez Central de Menores o por la Sala correspondiente de la Audiencia Nacional, se llevará a cabo en los establecimientos y con el control del personal especializado que el Gobierno ponga a disposición de la Audiencia Nacional, en su caso, mediante convenio con las Comunidades Autónomas.
+La ejecución de las medidas impuestas por el Juez Central de Menores o por la Sala correspondiente de la Audiencia Nacional será preferente sobre las impuestas, en su caso, por otros Jueces o Salas de Menores.
+2. No obstante lo dispuesto en el apartado anterior, las medidas de internamiento también podrán ejecutarse en centros socio-sanitarios cuando la medida impuesta así lo requiera. En todo caso se requerirá la previa autorización del Juez de Menores.
+3. Los centros estarán divididos en módulos adecuados a la edad, madurez, necesidades y habilidades sociales de los menores internados y se regirán por una normativa de funcionamiento interno cuyo cumplimiento tendrá como finalidad la consecución de una convivencia ordenada, que permita la ejecución de los diferentes programas de intervención educativa y las funciones de custodia de los menores internados.
+Se modifica el apartado 1 por el art. único.44 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Artículo 55
+
+Artículo 55. Principio de resocialización.
+1. Toda la actividad de los centros en los que se ejecuten medidas de internamiento estará inspirada por el principio de que el menor internado es sujeto de derecho y continúa formando parte de la sociedad.
+2. En consecuencia, la vida en el centro debe tomar como referencia la vida en libertad, reduciendo al máximo los efectos negativos que el internamiento pueda representar para el menor o para su familia, favoreciendo los vínculos sociales, el contacto con los familiares y allegados, y la colaboración y participación de las entidades públicas y privadas en el proceso de integración social, especialmente de las más próximas geográfica y culturalmente.
+3. A tal fin se fijarán reglamentariamente los permisos ordinarios y extraordinarios de los que podrá disfrutar el menor internado, a fin de mantener contactos positivos con el exterior y preparar su futura vida en libertad.
+
+### Artículo 56
+
+Artículo 56. Derechos de los menores internados.
+1. Todos los menores internados tienen derecho a que se respete su propia personalidad, su libertad ideológica y religiosa y los derechos e intereses legítimos no afectados por el contenido de la condena, especialmente los inherentes a la minoría de edad civil cuando sea el caso.
+2. En consecuencia, se reconocen a los menores internados los siguientes derechos:
+a) Derecho a que la entidad pública de la que depende el centro vele por su vida, su integridad física y su salud, sin que puedan, en ningún caso, ser sometidos a tratos degradantes o a malos tratos de palabra o de obra, ni ser objeto de un rigor arbitrario o innecesario en la aplicación de las normas.
+b) Derecho del menor de edad civil a recibir una educación y formación integral en todos los ámbitos y a la protección específica que por su condición le dispensan las leyes.
+c) Derecho a que se preserve su dignidad y su intimidad, a ser designados por su propio nombre y a que su condición de internados sea estrictamente reservada frente a terceros.
+d) Derecho al ejercicio de los derechos civiles, políticos, sociales, religiosos, económicos y culturales que les correspondan, salvo cuando sean incompatibles con el objeto de la detención o el cumplimiento de la condena.
+e) Derecho a estar en el centro más cercano a su domicilio, de acuerdo a su régimen de internamiento, y a no ser trasladados fuera de su Comunidad Autónoma excepto en los casos y con los requisitos previstos en esta Ley y sus normas de desarrollo.
+f) Derecho a la asistencia sanitaria gratuita, a recibir la enseñanza básica obligatoria que corresponda a su edad, cualquiera que sea su situación en el centro, y a recibir una formación educativa o profesional adecuada a sus circunstancias.
+g) Derecho de los sentenciados a un programa de tratamiento individualizado y de todos los internados a participar en las actividades del centro.
+h) Derecho a comunicarse libremente con sus padres, representantes legales, familiares u otras per sonas, y a disfrutar de salidas y permisos, con arreglo a lo dispuesto en esta Ley y sus normas de desarrollo.
+i) Derecho a comunicarse reservadamente con sus letrados, con el Juez de Menores competente, con el Ministerio Fiscal y con los servicios de Inspección de centros de internamiento.
+j) Derecho a una formación laboral adecuada, a un trabajo remunerado, dentro de las disponibilidades de la entidad pública, y a las prestaciones sociales que pudieran corresponderles, cuando alcancen la edad legalmente establecida.
+k) Derecho a formular peticiones y quejas a la Dirección del centro, a la entidad pública, a las autoridades judiciales, al Ministerio Fiscal, al Defensor del Pueblo o institución análoga de su Comunidad Autónoma y a presentar todos los recursos legales que prevé esta Ley ante el Juez de Menores competente, en defensa de sus derechos e intereses legítimos.
+l) Derecho a recibir información personal y actualizada de sus derechos y obligaciones, de su situación personal y judicial, de las normas de funcionamiento interno de los centros que los acojan, así como de los procedimientos concretos para hacer efectivos tales derechos, en especial para formular peticiones, quejas o recursos.
+m) Derecho a que sus representantes legales sean informados sobre su situación y evolución y sobre los derechos que a ellos les corresponden, con los únicos límites previstos en esta Ley.
+n) Derecho de las menores internadas a tener en su compañía a sus hijos menores de tres años, en las condiciones y con los requisitos que se establezcan reglamentariamente.
+
+### Artículo 57
+
+Artículo 57. Deberes de los menores internados.
+Los menores internados estarán obligados a:
+a) Permanecer en el centro a disposición de la autoridad judicial competente hasta el momento de su puesta en libertad, sin perjuicio de las salidas y actividades autorizadas que puedan realizar en el exterior.
+b) Recibir la enseñanza básica obligatoria que legalmente les corresponda.
+c) Respetar y cumplir las normas de funcionamiento interno del centro y las directrices o instrucciones que reciban del personal de aquél en el ejercicio legítimo de sus funciones.
+d) Colaborar en la consecución de una actividad ordenada en el interior del centro y mantener una actitud de respeto y consideración hacia todos, dentro y fuera del centro, en especial hacia las autoridades, los trabajadores del centro y los demás menores internados.
+e) Utilizar adecuadamente las instalaciones del centro y los medios materiales que se pongan a su disposición.
+f) Observar las normas higiénicas y sanitarias, y sobre vestuario y aseo personal establecidas en el centro.
+g) Realizar las prestaciones personales obligatorias previstas en las normas de funcionamiento interno del centro para mantener el buen orden y la limpieza del mismo.
+h) Participar en las actividades formativas, educativas y laborales establecidas en función de su situación personal a fin de preparar su vida en libertad.
+
+### Artículo 58
+
+Artículo 58. Información y reclamaciones.
+1. Los menores recibirán, a su ingreso en el centro, información escrita sobre sus derechos y obligaciones, el régimen de internamiento en el que se encuentran, las cuestiones de organización general, las normas de funcionamiento del centro, las normas disciplinarias y los medios para formular peticiones, quejas o recursos. La información se les facilitará en un idioma que entiendan. A los que tengan cualquier género de dificultad para comprender el contenido de esta información se les explicará por otro medio adecuado.
+2. Todos los internados podrán formular, verbalmente o por escrito, en sobre abierto o cerrado, peticiones y quejas a la entidad pública sobre cuestiones referentes a su situación de internamiento. Dichas peticiones o quejas también podrán ser presentadas al Director del centro, el cual las atenderá si son de su competencia o las pondrá en conocimiento de la entidad pública o autoridades competentes, en caso contrario.
+
+### Artículo 59
+
+Artículo 59. Medidas de vigilancia y seguridad.
+1. Las actuaciones de vigilancia y seguridad interior en los centros podrán suponer, en la forma y con la periodicidad que se establezca reglamentariamente, inspecciones de los locales y dependencias, así como registros de personas, ropas y enseres de los menores internados.
+2. Se podrán utilizar exclusivamente los medios de contención que se establezcan reglamentariamente para evitar actos de violencia o lesiones de las personas que cumplen las medidas previstas en esta ley, a sí mismos o a otras personas, para impedir actos de fuga y daños en las instalaciones del centro o ante la resistencia activa a las instrucciones del personal del mismo en el ejercicio legítimo de su cargo.
+Solo será admisible, con carácter excepcional, la sujeción de las muñecas de la persona que cumple medida de internamiento con equipos homologados, siempre y cuando se realice bajo un estricto protocolo y no sea posible aplicar medidas menos lesivas.
+3. Se prohíbe la contención mecánica consistente en la sujeción de una persona a una cama articulada o a un objeto fijo o anclado a las instalaciones o a objetos muebles.
+4. La aplicación de medidas de contención requerirá en todos los casos en que se hiciera uso de la fuerza, la exploración física del interno por facultativo médico en el plazo máximo de 48 horas, extendiéndose el correspondiente parte médico.
+5. Las medidas de contención aplicadas en los centros deberán ser comunicadas con carácter inmediato al Juzgado de Menores y al Ministerio Fiscal. Asimismo, se anotarán en el Libro Registro de Incidencias, que será supervisado por parte de la dirección del centro y en el expediente individualizado del menor, que debe mantenerse actualizado.
+Se modifica por la disposición final 11.2 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-11
+
+### Artículo 60
+
+Artículo 60. Régimen disciplinario.
+1. Los menores internados podrán ser corregidos disciplinariamente en los casos y de acuerdo con el procedimiento que se establezca reglamentariamente, de acuerdo con los principios de la Constitución, de esta Ley y del Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, respetando en todo momento la dignidad de aquéllos y sin que en ningún caso se les pueda privar de sus derechos de alimentación, enseñanza obligatoria y comunicaciones y visitas, previstos en esta Ley y disposiciones que la desarrollen.
+2. Las faltas disciplinarias se clasificarán en muy graves, graves y leves, atendiendo a la violencia desarrollada por el sujeto, su intencionalidad, la importancia del resultado y el número de personas ofendidas.
+3. Las únicas sanciones que se podrán imponer por la comisión de faltas muy graves serán las siguientes:
+a) La separación del grupo por un período de tres a siete días en casos de evidente agresividad, violencia y alteración grave de la convivencia.
+b) La separación del grupo durante tres a cinco fines de semana.
+c) La privación de salidas de fin de semana de quince días a un mes.
+d) La privación de salidas de carácter recreativo por un período de uno a dos meses.
+4. Las únicas sanciones que se podrán imponer por la comisión de faltas graves serán las siguientes:
+a) Las mismas que en los cuatro supuestos del apartado anterior, con la siguiente duración: dos días, uno o dos fines de semana, uno a quince días, y un mes respectivamente.
+b) La privación de participar en las actividades recreativas del centro durante un período de siete a quince días.
+5. Las únicas sanciones que se podrán imponer por la comisión de faltas leves serán las siguientes:
+a) La privación de participar en todas o algunas de las actividades recreativas del centro durante un período de uno a seis días.
+b) La amonestación.
+6. La sanción de separación supondrá que el menor permanecerá en su habitación o en otra de análogas características a la suya, durante el horario de actividades del centro, excepto para asistir, en su caso, a la enseñanza obligatoria, recibir visitas y disponer de dos horas de tiempo al día al aire libre.
+7. Las resoluciones sancionadoras podrán ser recurridas, antes del inicio de su cumplimiento, ante el Juez de Menores. A tal fin, el menor sancionado podrá presentar el recurso por escrito o verbalmente ante el Director del establecimiento, quien, en el plazo de veinticuatro horas, remitirá dicho escrito o testimonio de la queja verbal, con sus propias alegaciones, al Juez de Menores y éste, en el término de una audiencia y oído el Ministerio Fiscal, dictará auto, confirmando, modificando o anulando la sanción impuesta, sin que contra dicho auto quepa recurso alguno. El auto, una vez notificado al establecimiento, será de ejecución inmediata. En tanto se sustancia el recurso, en el plazo de dos días, la entidad pública ejecutora de la medida podrá adoptar las decisiones precisas para restablecer el orden alterado, aplicando al sancionado lo dispuesto en el apartado 6 de este artículo. El letrado del menor también podrá interponer los recursos a que se refiere el párrafo anterior.
+
+## TÍTULO VIII
+
+De la responsabilidad civil
+
+### Artículo 61
+
+Artículo 61. Reglas generales.
+1. La acción para exigir la responsabilidad civil en el procedimiento regulado en esta Ley se ejercitará por el Ministerio Fiscal, salvo que el perjudicado renuncie a ella, la ejercite por sí mismo en el plazo de un mes desde que se le notifique la apertura de la pieza separada de responsabilidad civil o se la reserve para ejercitarla ante el orden jurisdiccional civil conforme a los preceptos del Código Civil y de la Ley de Enjuiciamiento Civil.
+2. Se tramitará una pieza separada de responsabilidad civil por cada uno de los hechos imputados.
+3. Cuando el responsable de los hechos cometidos sea un menor de dieciocho años, responderán solidariamente con él de los daños y perjuicios causados sus padres, tutores, acogedores y guardadores legales o de hecho, por este orden. Cuando éstos no hubieren favorecido la conducta del menor con dolo o negligencia grave, su responsabilidad podrá ser moderada por el Juez según los casos.
+4. En su caso, se aplicará también lo dispuesto en el artículo 145 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Ley 35/1995, de 11 de diciembre, de ayudas y asistencia a las víctimas de delitos violentos y contra la libertad sexual, y sus disposiciones complementarias.
+
+### Artículo 62
+
+Artículo 62. Extensión de la responsabilidad civil.
+La responsabilidad civil a la que se refiere el artículo anterior se regulará, en cuanto a su extensión, por lo dispuesto en el capítulo I del Título V del Libro I del Código Penal vigente.
+
+### Artículo 63
+
+Artículo 63. Responsabilidad civil de los aseguradores.
+Los aseguradores que hubiesen asumido el riesgo de las responsabilidades pecuniarias derivadas de los actos de los menores a los que se refiere la presente Ley serán responsables civiles directos hasta el límite de la indemnización legalmente establecida o convencionalmente pactada, sin perjuicio de su derecho de repetición contra quien corresponda.
+
+### Artículo 64
+
+Artículo 64. Reglas de procedimiento.
+Los trámites para la exigencia de la responsabilidad civil aludida en los artículos anteriores se acomodarán a las siguientes reglas:
+1.ª Tan pronto como el Juez de Menores reciba el parte de la incoación del expediente por el Ministerio Fiscal, ordenará abrir de forma simultánea con el proceso principal una pieza separada de responsabilidad civil, notificando el secretario judicial a quienes aparezcan como perjudicados su derecho a ser parte en la misma, y estableciendo el plazo límite para el ejercicio de la acción.
+2.ª En la pieza de referencia, que se tramitará de forma simultánea con el proceso principal, podrán personarse los perjudicados que hayan recibido notificación al efecto del Juez de Menores o del Ministerio Fiscal, conforme establece el artículo 22 de la presente Ley, y también espontáneamente quienes se consideren como tales. Asimismo, podrán personarse las compañías aseguradoras que se tengan por partes interesadas, dentro del plazo para el ejercicio de la acción de responsabilidad civil. En el escrito de personación, indicarán las personas que consideren responsables de los hechos cometidos y contra las cuales pretendan reclamar, bastando con la indicación genérica de su identidad.
+3.ª El secretario judicial notificará al menor y a sus representantes legales, en su caso, su condición de posibles responsables civiles.
+4.ª Una vez personados los presuntos perjudicados y responsables civiles, el Juez de Menores resolverá sobre su condición de partes, continuándose el procedimiento por las reglas generales.
+5.ª La intervención en el proceso a los efectos de exigencia de responsabilidad civil se realizará en las condiciones que el Juez de Menores señale con el fin de preservar la intimidad del menor y que el conocimiento de los documentos obrantes en los autos se refiera exclusivamente a aquellos que tengan una conexión directa con la acción ejercitada por los mismos.
+Se modifica por el art. único.45 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Disposición adicional primera
+
+Disposición adicional primera. Aplicación en la Jurisdicción Militar.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Aplicación de medidas en casos de riesgo para la salud.
+Cuando los Jueces de Menores aplicaren alguna de las medidas terapéuticas a las que se refieren los artículos 5.2, 7.1 y 29 de esta Ley, en caso de enfermedades transmisibles u otros riesgos para la salud de los menores o de quienes con ellos convivan, podrán encomendar a las autoridades o Servicios de Salud correspondientes su control y seguimiento, de conformidad con lo dispuesto en la Ley Orgánica 3/1986, de 14 de abril, de medidas especiales en materia de salud pública.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Creación del Registro Central de Menores.
+En el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes se llevará un Registro Central de sentencias, medidas cautelares, requisitorias y rebeldías dictadas o acordadas en todos los procesos tramitados con arreglo a la presente ley orgánica. El acceso a los datos de este Registro se ajustará a lo establecido en la normativa que regule el Sistema de registros administrativos de apoyo a la Administración de Justicia y el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos, y en la legislación aplicable en materia de protección de datos personales.
+Téngase en cuenta que el Registro Central de Menores previsto en esta disposición, entrará en funcionamiento el 8 de noviembre de 2025, según establece la disposición transitoria única de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+Se modifica por la disposición final 1 de la Ley Orgánica 4/2024, de 18 de octubre. Ref. BOE-A-2024-21414
+ Téngase en cuenta que el Registro Central de Menores, entra en funcionamiento el 8 de noviembre de 2025, según establece la disposición transitoria única de la citada Ley Orgánica.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Aplicación a los delitos previstos en los artículos 138, 139, 179, 180, 571 a 580 y aquellos otros sancionados en el Código Penal con pena de prisión igual o superior a quince años.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se añade por el art. 2.3 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+### Disposición adicional quinta
+
+Disposición adicional quinta.
+El Gobierno dentro del plazo de cinco años desde la entrada en vigor de esta Ley Orgánica remitirá al Congreso de los Diputados un informe, en el que se analizarán y evaluarán los efectos y las consecuencias de la aplicación de la disposición adicional cuarta.
+Se añade por el art. 2.4 de la Ley Orgánica 7/2000, de 22 de diciembre. Ref. BOE-A-2000-23659.
+
+### Disposición adicional sexta
+
+Disposición adicional sexta.
+Evaluada la aplicación de esta ley orgánica, oídos el Consejo General del Poder Judicial, el Ministerio Fiscal, las comunidades autónomas y los grupos parlamentarios, el Gobierno procederá a impulsar las medidas orientadas a sancionar con más firmeza y eficacia los hechos delictivos cometidos por personas que, aun siendo menores, revistan especial gravedad, tales como los previstos en los artículos 138, 139, 179 y 180 del Código Penal.
+A tal fin, se establecerá la posibilidad de prolongar el tiempo de internamiento, su cumplimiento en centros en los que se refuercen las medidas de seguridad impuestas y la posibilidad de su cumplimiento a partir de la mayoría de edad en centros penitenciarios.
+Se añade por la disposición final 2.3 de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
+
+### Disposición transitoria única
+
+Disposición transitoria única. Régimen transitorio.
+1. A los hechos cometidos con anterioridad a la entrada en vigor de la presente Ley por los menores sujetos a la Ley Orgánica 4/1992, de 5 de junio, sobre Reforma de la Ley Reguladora de la Competencia y el Procedimiento de los Juzgados de Menores, que se deroga, les será de aplicación la legislación vigente en el momento de su comisión. Quienes estuvieren cumpliendo una medida de las previstas en la citada Ley Orgánica 4/1992 continuarán dicho cumplimiento hasta la extinción de la responsabilidad en las condiciones previstas en dicha Ley.
+2. A la entrada en vigor de la presente Ley, cesará inmediatamente el cumplimiento de todas las medidas previstas en la Ley Orgánica 4/1992 que estuvieren cumpliendo personas menores de catorce años, extinguiéndose las correspondientes responsabilidades.
+3. A los menores de dieciocho años, juzgados con arreglo a lo dispuesto en el Código Penal de 1973, en las leyes penales especiales derogadas o en la disposición derogatoria del Código Penal vigente, a quienes se hubiere impuesto una pena de dos años de prisión menor o una pena de prisión superior a dos años, que estuvieren pendientes de cumplimiento a la entrada en vigor de la presente Ley, dichas penas les serán sustituidas por alguna de las medidas previstas en esta Ley, a instancia del Ministerio Fiscal, previo informe del equipo técnico o de la correspondiente entidad pública de protección o reforma de menores. A tal efecto, se habrá de dar traslado al Ministerio Fiscal de la ejecutoria y de la liquidación provisional de las penas impuestas a los menores comprendidos en los supuestos previstos en este apartado.
+4. Si, en los supuestos a los que se refiere el apartado anterior, la pena impuesta o pendiente de cumplimiento fuera de prisión inferior a dos años o de cualquiera otra naturaleza, se podrá imponer al condenado una medida de libertad vigilada simple por el tiempo que restara de cumplimiento de la condena, si el Juez de Menores, a petición del Ministerio Fiscal y oídos el letrado del menor, su representante legal, la correspondiente entidad pública de protección o reforma de menores y el propio sentenciado, lo considerara acorde con la finalidad educativa que persigue la presente Ley. En otro caso, el Juez de Menores podrá tener por cumplida la pena y extinguida la responsabilidad del sentenciado.
+5. Las decisiones del Juez de Menores a que se refieren los apartados anteriores se adoptarán en auto recurrible directamente en apelación, en el plazo de cinco días hábiles, ante la Sala de Menores del correspondiente Tribunal Superior de Justicia.
+6. En los procedimientos penales en curso a la entrada en vigor de la presente Ley, en los que haya imputadas personas por la comisión de hechos delictivos cuando aún no hayan cumplido los dieciocho años, el Juez o Tribunal competente remitirá las actuaciones practicadas al Ministerio Fiscal para que instruya el procedimiento regulado en la misma. Si el imputado lo fuere por hechos cometidos cuando era mayor de dieciocho años y menor de veintiuno, el Juez instructor acordará lo que proceda, según lo dispuesto en el artículo 4 de esta Ley.
+
+### Disposición final primera
+
+Disposición final primera. Derecho supletorio.
+Tendrán el carácter de normas supletorias, para lo no previsto expresamente en esta Ley Orgánica, en el ámbito sustantivo, el Código Penal y las leyes penales especiales, y, en el ámbito del procedimiento, la Ley de Enjuiciamiento Criminal, en particular lo dispuesto para los trámites del procedimiento abreviado regulado en el Título III del Libro IV de la misma.
+
+### Disposición final segunda
+
+Disposición final segunda. Modificación de la Ley Orgánica del Poder Judicial y del Estatuto Orgánico del Ministerio Fiscal.
+1. El Gobierno, en el plazo de seis meses a partir de la publicación de la presente Ley en el "Boletín Oficial del Estado", elevará al Parlamento un proyecto de Ley Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, para la creación de las Salas de Menores de los Tribunales Superiores de Justicia y para la adecuación de la regulación y competencia de los Juzgados de Menores y de la composición de la Sala Segunda del Tribunal Supremo a lo establecido en la presente Ley.
+2. El Gobierno, en el plazo de seis meses a partir de la publicación de la presente Ley en el "Boletín Oficial del Estado", elevará al Parlamento un proyecto de Ley de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, a fin de adecuar la organización del Ministerio Fiscal a lo establecido en la presente Ley.
+
+### Disposición final tercera
+
+Disposición final tercera. Reformas en materia de personal.
+1. El Gobierno, a través del Ministerio de Justicia, oído el Consejo General del Poder Judicial, la Fiscalía General del Estado y las Comunidades Autónomas afectadas, en el plazo de seis meses desde la publicación de la presente Ley en el "Boletín Oficial del Estado" adoptará las disposiciones oportunas para adecuar la planta de los Juzgados de Menores y las plantillas de las Carreras Judicial y Fiscal a las necesidades orgánicas que resulten de la aplicación de lo dispuesto en la presente Ley.
+2. Las plazas de Jueces de Menores deberán ser servidas necesariamente por Magistrados pertenecientes a la Carrera Judicial. A la entrada en vigor de esta Ley los titulares de un Juzgado de Menores que ostenten la categoría de Juez deberán cesar en dicho cargo, quedando, en su caso, en la situación que prevé el artículo 118.2 y concordantes de la vigente Ley Orgánica del Poder Judicial, procediéndose a cubrir tales plazas por concurso ordinario entre Magistrados.
+3. El Gobierno, a través del Ministerio de Justicia, y las Comunidades Autónomas con competencia en la materia, a través de las correspondientes Consejerías, adecuarán las plantillas de funcionarios de la Administración de Justicia a las necesidades que presenten los Juzgados y las Fiscalías de Menores para la aplicación de la presente Ley. Asimismo, determinarán el número y plantilla de los Equipos Técnicos compuestos por personal funcionario o laboral al servicio de las Administraciones Públicas, que actuarán bajo los principios de independencia, imparcialidad y profesionalidad.
+4. Asimismo, el Gobierno, a través del Ministerio del Interior, y sin perjuicio de las competencias de las Comunidades Autónomas, adecuará las plantillas de los Grupos de Menores de las Brigadas de Policía Judicial, con objeto de establecer la adscripción a las Secciones de Menores de las Fiscalías de los funcionarios necesarios a los fines propuestos por esta Ley.
+Se modifica el apartado 3 por el art. único.46 de la Ley Orgánica 8/2006, de 4 de diciembre. Ref. BOE-A-2006-21236.
+ Se suprime el apartado 5 por la disposición adicional 4 de la Ley Orgánica 9/2000, de 22 de diciembre. Ref. BOE-A-2000-23661.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Especialización de Jueces, Fiscales y abogados.
+1. El Consejo General del Poder Judicial y el Ministerio de Justicia, en el ámbito de sus competencias respectivas, procederán a la formación de miembros de la Carrera Judicial y Fiscal especialistas en materia de Menores con arreglo a lo que se establezca reglamentariamente. Dichos especialistas tendrán preferencia para desempeñar los correspondientes cargos en las Salas de Menores de los Tribunales Superiores de Justicia y en los Juzgados y Fiscalías de Menores, conforme a lo que establezcan las leyes y reglamentos.
+2. En todas las Fiscalías existirá una Sección de Menores compuesta por miembros de la Carrera Fiscal, especialistas, con las dotaciones de funcionarios administrativos que sean necesarios, según se determine reglamentariamente.
+3. El Consejo General de la Abogacía deberá adoptar las disposiciones oportunas para que en los Colegios en los que resulte necesario se impartan cursos homologados para la formación de aquellos letrados que deseen adquirir la especialización en materia de menores a fin de intervenir ante los órganos de esta Jurisdicción.
+
+### Disposición final quinta
+
+Disposición final quinta. Cláusula derogatoria.
+1. Se derogan: la Ley Orgánica reguladora de la competencia y el procedimiento de los Juzgados de Menores, texto refundido aprobado por Decreto de 11 de junio de 1948, modificada por la Ley Orgánica 4/1992, de 5 de junio; los preceptos subsistentes del Reglamento para la ejecución de la Ley Orgánica reguladora de la competencia y el procedimiento de los Juzgados de Menores, aprobado por Decreto de 11 de junio de 1948; la disposición transitoria duodécima de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal; y los artículos 8.2, 9.3, la regla 1.ª del artículo 20, en lo que se refiere al número 2.º del artículo 8, el segundo párrafo del artículo 22 y el artículo 65 del texto refundido del Código Penal, publicado por el Decreto 3096/1973, de 14 de septiembre, conforme a la Ley 44/1971, de 15 de noviembre.
+2. Quedan asimismo derogadas cuantas otras normas, de igual o inferior rango, se opongan a lo establecido en la presente Ley.
+
+### Disposición final sexta
+
+Disposición final sexta. Naturaleza de la presente Ley.
+Los artículos 16, 20, 21, 23 a 27, 30 a 35, 37 a 39, 41, 42 y 61 a 64, la disposición adicional tercera y la disposición final tercera de la presente Ley Orgánica tienen naturaleza de Ley ordinaria.
+
+### Disposición final séptima
+
+Disposición final séptima. Entrada en vigor y desarrollo reglamentario.
+1. La presente Ley Orgánica entrará en vigor al año de su publicación en el "Boletín Oficial del Estado". En dicha fecha entrarán también en vigor los artículos 19 y 69 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+2. Durante el plazo mencionado en el apartado anterior, las Comunidades Autónomas con competencia respecto a la protección y reforma de menores adaptarán su normativa para la adecuada ejecución de las funciones que les otorga la presente Ley.
+
+Por tanto,
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 12 de enero de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ

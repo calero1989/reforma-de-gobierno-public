@@ -1,0 +1,799 @@
+# Ley 3/2002, de 9 de mayo, de Comercio, de la Comunidad Autónoma de Extremadura.
+
+- Identificador BOE: `BOE-A-2002-11417`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-11417
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+EL PRESIDENTE DE LA JUNTA DE EXTREMADURA
+Sea notorio a todos los ciudadanos que la Asamblea de Extremadura ha aprobado y yo, en nombre del Rey, de conformidad con lo establecido en el artículo 49.1 del Estatuto de Autonomía, vengo a promulgar la siguiente Ley.
+El comercio es una actividad que se manifiesta en, prácticamente, todas las facetas de la economía. Se trata de un área que trasciende a una simple clasificación y que si tiene una característica que la define es su omnipresencia en la vida diaria de los ciudadanos.
+La actividad comercial tiene un componente de horizontalidad que afecta al conjunto de la economía e influye de manera decisiva en la configuración del sector servicios, que es la partida que más aporta al Producto Interior Bruto de las economías modernas y desarrolladas. Además, el comercio es la fase final por la que pasan todos los productos y es el origen de la mayor parte del empleo que genera nuestra sociedad.
+La distribución comercial es uno de los sectores económicos que está registrando transformaciones más intensas y rápidas, tanto en el número y características de las empresas que intervienen, como de los establecimientos minoristas en general, de los productos y servicios comercializados y en la gestión global de la empresa y punto de venta. Los hábitos de compra y consumo de la población también están cambiando al mismo ritmo.
+El Estatuto de Autonomía de Extremadura, tras su reforma de 6 de mayo de 1999, concede en su artículo 7.1.33 competencia exclusiva a nuestra Comunidad Autónoma en materia de comercio interior; por lo que está legitimada para crear un marco jurídico propio contemplando toda la normativa que afecta al área comercial.
+La base del citado cuerpo legislativo es la presente Ley de Comercio de Extremadura, que constituye el instrumento que marcará a largo plazo las líneas directrices en materia de comercio interior de la Región extremeña.
+La Ley de Comercio de la Comunidad Autónoma de Extremadura se estructura en cinco títulos y reúne los aspectos más relevantes por los que se ha de regir en nuestra región el comercio mayorista y, especialmente, el minorista.
+El Título I se refiere a la Regulación de la Actividad Comercial, y en él se define el objeto de la Ley y sus exclusiones. Cabe destacar la inclusión de la actividad comercial mayorista en el ámbito de regulación.
+Por otra parte, el Título I regula distintas fórmulas y modalidades de comercio y de venta, como son: El comercio ambulante, la venta a distancia, la venta automática, la venta domiciliaria, las ventas promocionales y otras tan novedosas como el comercio electrónico, que por su pujanza y proyección de futuro ha merecido una mención específica en el texto.
+Un objetivo básico perseguido en el tratamiento de la diversidad que ofrece la actividad comercial ha sido el de disponer de la mejor y más exacta información cualitativa y cuantitativa de la realidad comercial extremeña en todas sus manifestaciones.
+Otro propósito esencial que se ha perseguido en todo momento es la conjunción de la defensa de los legítimos intereses de los empresarios del comercio y los derechos de los consumidores; a este respecto, la regulación que se acomete entronca sobre todo con el derecho de la competencia, en orden a situar a todos los operadores en similares condiciones de concurrencia y a exigirles las mismas garantías de respeto de las reglas de la oferta a los consumidores.
+El Título I finaliza con una materia de tanta trascendencia como es el establecimiento de un régimen de horarios comerciales para la Comunidad Autónoma de Extremadura. De este régimen debe subrayarse que la regla general es la no apertura de establecimientos en días festivos; pero, también, el propio sistema establece un amplio catálogo de excepciones dirigidas a determinados formatos, previendo la posibilidad de fijar –anualmente– la apertura en un número de domingos y festivos que reglamentariamente se establezca. Con esta regulación se garantiza la existencia de una oferta amplia y plural en estos días de ocio, huyendo de un modelo rígido que no pueda ser variado en función de circunstancias que así lo aconsejen.
+El sistema referido también establece un límite máximo de horas de apertura al público e introduce, como novedad, la prohibición de vender bebidas alcohólicas a todos los establecimientos comerciales en el horario nocturno.
+El Título II se refiere a la ordenación de las estructuras comerciales en el ámbito territorial y sectorial, definiendo como instrumento básico para lograr tal objetivo la licencia comercial específica y los Planes de Ordenación de Equipamientos Comerciales.
+La licencia comercial específica será exigible, entre otros supuestos, tanto para la implantación de grandes superficies comerciales como de equipamientos comerciales colectivos. En la definición de gran superficie comercial se ha hecho intervenir, además de la superficie de venta del establecimiento comercial, el factor población. De este modo se relaciona el comercio con el territorio y, consiguientemente, con la población como elemento de medida de un mercado relevante que puede delimitarse geográficamente en orden a su tamaño, o conceptualmente en función del grado de sustituibilidad de la demanda y de la oferta.
+Por otra parte, se crea la tasa por la tramitación de la licencia comercial específica.
+Los Planes de Ordenación constituyen las herramientas de las que dispondrán las Administraciones Públicas para programar los usos comerciales del suelo y para conformar los criterios básicos de ordenación espacial y actuaciones en materia de equipamientos comerciales.
+Tienen como finalidad favorecer la existencia de una distribución equilibrada y un equipamiento comercial adecuado en todo el territorio de la Comunidad Autónoma de Extremadura. Dichos planes podrán ser aprobados por la Junta de Extremadura de manera facultativa, condicionando y regulando las implantaciones de grandes establecimientos en Extremadura en función del balance entre la oferta y la demanda comercial que exista o se prevea en una zona determinada o en un sector específico.
+La concentración de la distribución, los nuevos hábitos y formas de consumo, la apertura de fronteras y otras numerosas razones y circunstancias, dificultan enormemente la subsistencia de muchos modelos tradicionales y obligan al empresario comercial a modernizarse, a transformarse y a asumir conceptos nuevos y estructuras más eficientes.
+Por ese motivo, el Título III establece una declaración de principios y objetivos de carácter general para el apoyo al pequeño comercio y que se recoge en las ayudas que, de forma estable, la Junta de Extremadura ofrece a este sector para que logre superar con éxito los retos que tiene planteados.
+Se pretende impulsar, a través del desarrollo de medidas apropiadas, aquellas iniciativas de integración de pequeñas y medianas empresas comerciales, de carácter territorial o sectorial, que conduzcan a mejorar la competitividad y la eficiencia en el sector de la distribución.
+La búsqueda de un equilibrio territorial en la distribución minorista requiere el establecimiento de ayudas específicas destinadas al pequeño y mediano comercio en áreas rurales y al comercio tradicional de los centros históricos.
+El fomento del comercio en zonas de afluencia turística y en zonas transfronterizas se contempla como una fórmula interesante para el aprovechamiento del potencial turístico-comercial.
+El Título IV crea el Consejo de Comercio, que es un órgano consultivo y de participación para la aplicación de muchos de los aspectos previstos en la presente Ley.
+En las decisiones que adopte el Consejo de Comercio, de carácter no vinculante, estarán presentes todos aquellos organismos, instituciones e interlocutores sociales implicados en las cuestiones a debatir.
+Finalmente, el Título V recoge el Régimen Sancionador preceptivo para la aplicación de las eventuales sanciones que se deriven del incumplimiento de las disposiciones que conforman la presente Ley.
+
+## TÍTULO I
+
+Regulación de la actividad comercial
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+## Sección I
+
+Sección I. Objeto y ámbito de aplicación
+
+### Artículo 1
+
+Artículo 1. Objeto.
+1. La presente Ley tiene por objeto la regulación administrativa de la actividad comercial en el ámbito de la Comunidad Autónoma de Extremadura, con el propósito de alcanzar un equilibrio entre las grandes, medianas y pequeñas empresas comerciales, mediante la ordenación y mejora de las estructuras comerciales y el diseño y aplicación de medidas de modernización, especialización y de incremento de la competencia del comercio minorista.
+2. Igualmente es objeto de la presente Ley la ordenación de las relaciones entre el comercio mayorista y el minorista, así como entre éste y los consumidores, acometiendo, a tales fines, la regulación de las distintas modalidades de venta, bajo el principio constitucional de protección y defensa de los consumidores.
+
+### Artículo 2
+
+Artículo 2. Ámbito de aplicación.
+1. La presente Ley será de aplicación a las actividades comerciales realizadas en el ámbito territorial de la Comunidad Autónoma de Extremadura por quienes las ejerzan, o quienes actúen por cuenta de ellos.
+2. Se excluyen del ámbito de esta Ley:
+a) El ejercicio de profesiones liberales.
+b) La prestación de servicios bancarios o cualquier otro tipo de intermediación financiera, así como las operaciones sobre valores mobiliarios, seguros o transportes, cualquiera que sea el medio utilizado.
+c) Los servicios de hostelería y restauración, espectáculos públicos y actividades recreativas, así como los establecimientos públicos relacionados con los mismos.
+d) Los servicios de reparación, mantenimiento y de asistencia técnica.
+e) Los suministros de agua, gas, electricidad y telecomunicaciones.
+f) La venta directa por agricultores y ganaderos de productos agropecuarios en estado natural y en su lugar de producción o en los centros cooperativos de recogida de producción.
+g) La venta realizada por artesanos de sus productos en sus propios talleres, ferias y mercados sectoriales.
+h) La venta o alquiler de bienes inmuebles, la constitución de derechos reales sobre los mismos o el aprovechamiento por turnos de bienes inmuebles de uso turístico.
+i) Las ventas celebradas en pública subasta, que se regularán por su legislación estatal específica.
+j) Los contratos a venta a plazo de bienes muebles, que se regirán por su legislación estatal específica.
+k) Sin perjuicio de lo establecido en esta Ley, cualquiera otra actividad comercial que se halle regulada por su normativa específica o esté sometida a control por parte de los poderes públicos.
+3. Esta Ley tiene carácter supletorio para aquellas actividades comerciales reguladas por una norma especial y sin perjuicio de la aplicación subsidiaria de la normativa estatal para casos de vacío legal.
+
+## Sección II
+
+Sección II. Actividad comercial
+
+### Artículo 3
+
+Artículo 3. Actividad comercial.
+1. A efectos de esta Ley, se entiende por actividad comercial la consistente en situar u ofrecer en el mercado, por parte de personas físicas o jurídicas que cumplan las condiciones establecidas en el artículo 6 de esta Ley, tanto por cuenta propia como ajena, productos naturales o elaborados, independientemente de la modalidad o soporte empleado para su realización, en régimen de comercio minorista o mayorista.
+2. La actividad comercial se ejerce bajo el principio de libertad de empresa en el marco de la economía de mercado y de acuerdo con lo dispuesto en el artículo 38 de la Constitución.
+
+### Artículo 4
+
+Artículo 4. Actividad comercial minorista.
+1. A los efectos de esta Ley, se entiende por actividad comercial de carácter minorista aquella que tiene como destinatarios a los consumidores finales.
+2. Los economatos y en general cualquier tipo de establecimiento que, de acuerdo con la legislación vigente, suministren bienes o productos exclusivamente a una colectividad de empleados, no podrán, en ningún caso, suministrarlos al público en general o, en su caso, deberán tener efectivamente diferenciadas las zonas en que se efectúe el comercio dirigido a unos y otros.
+3. Las ventas al público por las entidades cooperativas u otras formas jurídicas análogas, en los casos y con los límites que autoriza la legislación vigente en la materia, se realizarán de manera convenientemente diferenciada respecto de las operaciones efectuadas con los socios, atendiendo al lugar de distribución, la identificación de los productos y otras condiciones de la transacción, sin que pueda producirse simultáneamente la oferta discriminada a los socios cooperadores y al público en general de los productos obtenidos por la entidad y de los artículos adquiridos a terceros.
+
+### Artículo 5
+
+Artículo 5. Actividad comercial mayorista.
+1. A los efectos de esta Ley, se entiende por actividad comercial de carácter mayorista el ejercicio habitual de adquisición de mercancías y su venta al por mayor a otros comerciantes, empresas, entidades e instituciones o artesanos para su transformación o incorporación a sus respectivos procesos productivos, no siendo éstos consumidores finales.
+2. El ejercicio de la actividad comercial mayorista de manera simultánea al minorista, dentro de un mismo establecimiento comercial, estará sometido a los preceptos de aplicación previstos en esta Ley para el comercio minorista, salvo que se realicen ambas actividades comerciales de forma inequívocamente diferenciada.
+
+### Artículo 6
+
+Artículo 6. Ejercicio de la actividad comercial.
+Aquellas personas, físicas o jurídicas, que pretendan ejercer la actividad comercial definida en esta Ley deberán cumplir los siguientes requisitos:
+a) Gozar de capacidad jurídica para el ejercicio del comercio de acuerdo con la normativa civil y mercantil del Estado.
+b) Satisfacer los tributos que, para el ejercicio de la actividad comercial de que se trate, establezca cualquier Administración Pública.
+c) Estar dados de alta en el régimen de la Seguridad Social que les corresponda.
+d) Disponer de las autorizaciones municipales correspondientes, que han de estar expuestas en el lugar donde se lleve a cabo la actividad comercial, conforme disponga esta Ley.
+e) Cumplir los requisitos establecidos por las reglamentaciones específicas que sean de aplicación a los productos dispuestos a la venta.
+f) Comunicar el inicio de la actividad en aquellos casos que sean exigibles conforme a lo establecido en la legislación básica estatal y en la presente Ley.
+Se modifica por el art. 1.1 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## CAPÍTULO II
+
+Registros
+
+### Artículo 7
+
+Artículo 7. Creación de Registros.
+1. La Junta de Extremadura, a través de la Consejería competente en materia de comercio, llevará a cabo los estudios y trabajos de campo necesarios a fin de disponer los datos precisos para el conocimiento y valoración de las estructuras comerciales minoristas y mayoristas y de las actividades comerciales que se desarrollan en el ámbito de la Comunidad Autónoma de Extremadura.
+2. Con estos mismos fines, la Junta de Extremadura mantendrá los siguientes Registros:
+Registro de Franquiciadores.
+Registro de Venta a Distancia.
+Registro de Asociaciones de la Pequeña y Mediana Empresa Comercial.
+Se modifica el apartado 2 por el art. 1.2 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 8
+
+Artículo 8. Registro de Franquiciadores.
+1. Las personas físicas o jurídicas que, teniendo su domicilio social en Extremadura, ejerzan la actividad de cesión de franquicias tanto fuera como dentro de ésta, deberán comunicarlo, a efectos de su inscripción al Registro de Franquiciadores de la Comunidad Autónoma de Extremadura, en el plazo de tres meses desde la firma de su primer contrato de franquicia.
+2. Serán también inscribibles, aquellas personas físicas o jurídicas que desarrollen o pretendan desarrollar la actividad de cesión de franquicias a partir de establecimientos propios.
+3. El Registro de Franquiciadores de la Comunidad Autónoma de Extremadura tiene carácter público y naturaleza administrativa, y la inscripción en el mismo será obligatoria y gratuita.
+Se modifica por el art. 1.3 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 9
+
+Artículo 9. Registro de Venta a Distancia.
+1. Las personas físicas o jurídicas, que teniendo su domicilio social en Extremadura, ejerzan esta modalidad de venta tanto fuera como dentro de ésta, deberán comunicarlo, a efectos de su inscripción al Registro de Venta a Distancia de la Comunidad Autónoma de Extremadura, en el plazo de tres meses desde el inicio de su actividad.
+2. El Registro de Venta a Distancia de la Comunidad Autónoma de Extremadura tiene carácter público y naturaleza administrativa, y la inscripción en el mismo será obligatoria y gratuita.
+Se modifica por el art. 1.4 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 10
+
+Artículo 10. Registro de Comerciantes Ambulantes.
+(Suprimido)
+Se suprime el art. 1.5 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 11
+
+Artículo 11. Registro de Asociaciones de la Pequeña y Mediana Empresa Comercial.
+1. Se crea el Registro de Asociaciones de la Pequeña y Mediana Empresa Comercial de la Comunidad Autónoma de Extremadura.
+2. Podrán inscribirse en este Registro las asociaciones sin fines de lucro, legalmente constituidas, que agrupen un número mínimo de empresas de comercio minorista y desarrollen funciones de representación, defensa y promoción de la pequeña y mediana empresa comercial, y cuya actividad se desarrolle y su domicilio social se encuentre dentro del ámbito territorial de la Comunidad Autónoma de Extremadura.
+3. El Registro de Asociaciones de la Pequeña y Mediana Empresa Comercial de la Comunidad Autónoma de Extremadura tendrá carácter público y naturaleza administrativa y la inscripción en el mismo será voluntaria y gratuita.
+4. La inscripción será considerada condición imprescindible para que las asociaciones accedan a cualquier convocatoria de ayudas o programas específicos desarrollados por la Administración de la Comunidad Autónoma de Extremadura.
+5. Reglamentariamente se establecerán los requisitos para la solicitud y concesión de la inscripción y demás normas precisas para su implantación y desarrollo.
+
+## CAPÍTULO III
+
+Ventas especiales
+
+### Artículo 12
+
+Artículo 12. Ventas a distancia.
+1. Se consideran ventas a distancia las celebradas sin la presencia física simultánea del vendedor y del comprador, transmitiéndose la oferta del primero y la aceptación del segundo a través de cualquier medio de comunicación a distancia.
+2. En particular, estarán incluidas en este concepto las ventas por teléfono, por correspondencia, ya sean mediante envío postal, por catálogo, a través de impresos o por anuncios en prensa y las ventas ofertadas por televisión, así como las realizadas por medios electrónicos, conforme a lo señalado en el artículo siguiente.
+3. A los efectos de esta Ley no tendrán la consideración de venta a distancia:
+a) La venta automática.
+b) Los contratos celebrados con los operadores de comunicaciones que tengan por objeto la utilización de teléfonos públicos.
+c) Los contratos celebrados para la construcción y venta de bienes inmuebles y aquellos que se refieran a otros derechos relativos a bienes inmuebles.
+d) Los contratos celebrados en subastas.
+4. Todas las ofertas de venta a distancia incluirán:
+a) La identidad del vendedor, el domicilio del mismo, el número de inscripción en el Registro de Empresas de Venta a Distancia y cualquier dato que permita establecer con él una comunicación directa y efectiva.
+b) El producto que se ofrece, una descripción del mismo con todos los datos sobre su naturaleza, cantidad, calidad y posibilidades de consumo o de uso que facilite su identificación.
+c) El precio total a satisfacer, diferenciando el precio de venta de los impuestos aplicables, y, en su caso, los gastos de envío, así como el plazo de validez de la oferta y el sistema de reembolso o pago.
+d) El coste de la utilización del medio de comunicación a distancia cuando se calcule sobre una base distinta de la tarifa básica.
+e) El plazo máximo de recepción o puesta a disposición del consumidor del producto objeto de la transacción, desde el momento de la recepción del pedido.
+f) Las modalidades de aplicación del derecho de desistimiento con arreglo a las condiciones establecidas con carácter general.
+5. Antes de la ejecución del contrato de venta a distancia, el comprador deberá haber recibido información escrita de los datos referidos en el apartado anterior.
+6. Las ofertas realizadas en esta modalidad de venta vincularán al oferente durante el plazo establecido en la misma, perfeccionándose el contrato desde que el comprador conteste aceptando la oferta.
+7. Lo dispuesto en los apartados 4 y 5 de este artículo no será de aplicación a los contratos de suministro de productos alimenticios, de bebidas o de otros bienes del hogar de consumo corriente entregados en el domicilio del consumidor, en su residencia o en su lugar de trabajo.
+8. Para el ejercicio de la venta a distancia se requerirán, además de los requisitos generales para ejercer la actividad comercial, los siguientes:
+a) (Suprimido)
+b) Llevar y tener a disposición de las autoridades competentes una relación actualizada de los productos que se comercializan y de las ofertas, así como de los centros de distribución y de recepción de pedidos.
+c) Tener los almacenes donde se encuentren los productos en las debidas condiciones según lo establecido en la legislación vigente.
+Se suprime el apartado 8.a) por el art. 1.6 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 13
+
+Artículo 13. Comercio electrónico.
+1. Se considera comercio electrónico la modalidad de venta a distancia basada en la transmisión de datos por redes de telecomunicaciones.
+2. Las comunicaciones que, dentro del ámbito de aplicación de esta Ley, se realicen a través de un medio electrónico deberán identificarse claramente como comerciales.
+3. Las empresas que ejerzan la actividad de comercio electrónico:
+a) deberán disponer de los sistemas adecuados para que el comprador pueda almacenar y reproducir los datos relativos a las condiciones aplicables a la transacción comercial.
+b) deberán disponer los medios técnicos para identificar y corregir los errores de introducción de datos antes de efectuar el pedido, así como para comunicarle la aceptación de éste.
+c) deberán acreditar que disponen de sistemas apropiados para registrar a los titulares de cuentas de correo electrónico que no deseen recibir comunicaciones comerciales.
+4. Las ventas celebradas por vía electrónica tendrán plena validez y sus efectos serán los mismos que los previstos con carácter general para la modalidad de venta a distancia, sin perjuicio de lo establecido en la normativa estatal sobre contratación telefónica o electrónica con condiciones generales de contratación.
+Se modifica el apartado 3 por el art. 1.7 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 14
+
+Artículo 14. Venta no sedentaria o ambulante.
+(Suprimido).
+Se suprime por la disposición derogatoria única de la Ley 8/2018, de 23 de octubre. Ref. BOE-A-2018-16344#dd
+ Se modifica por el art. 1.8 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 15
+
+Artículo 15. Venta domiciliaria.
+1. Se considera venta domiciliaria la realizada con presencia física del comprador y del vendedor, o de los empleados o agentes de éste, en el domicilio del comprador, en su residencia, en lugares de ocio o reunión o en su lugar de trabajo.
+2. Tendrán igualmente la consideración de venta domiciliaria, las denominadas «ventas en reunión» de un grupo de personas convocadas por una de ellas o por el propio vendedor.
+3. No se considera venta a domicilio la entrega de productos o mercancías previamente adquiridos en establecimientos comerciales.
+4. El vendedor deberá mostrar al comprador la documentación que acredite su condición, identificando la empresa que representa y los productos que está autorizado a ofrecer.
+5. La publicidad de la oferta que deberá ser entregada al consumidor incluirá:
+a) La identificación y domicilio de la empresa.
+b) El producto que se ofrece, una descripción del mismo con todos los datos sobre su naturaleza, cantidad, calidad y posibilidades de consumo o de uso que facilite su identificación.
+c) El precio total a satisfacer, diferenciando el precio de venta de los impuestos aplicables, y, en su caso, los gastos de envío, así como el plazo de validez de la oferta y el sistema de reembolso o pago.
+6. Sin perjuicio de lo anterior, de acuerdo con lo establecido en la Ley 26/1991, de 21 de noviembre, sobre contratos celebrados fuera de establecimientos mercantiles, el contrato u oferta contractual deberá especificar en caracteres destacados e inmediatamente encima del lugar reservado para la firma del consumidor, una referencia clara y precisa al derecho de éste a revocar el consentimiento otorgado y a los requisitos y consecuencias de su ejercicio, en especial, que puede ejercitarse hasta pasados siete días desde la recepción, que no es necesario alegar causa alguna y que no está sujeta a forma alguna, incumbiendo la prueba de la existencia del contrato al consumidor.
+
+### Artículo 16
+
+Artículo 16. Venta automática.
+1. Es venta automática la forma de distribución detallista, en la cual se pone a disposición del consumidor el producto o servicio para que éste adquiera mediante el accionamiento de cualquier tipo de mecanismo y previo pago de su importe.
+2. Los distintos modelos de máquinas para la venta automática deberán ser objeto de previa homologación por la Consejería competente en razón de la materia.
+3. En todas las máquinas de venta deberá figurar con claridad cuál es el producto que expenden, su precio, tipo de monedas que admiten, instrucciones para la obtención del producto deseado, datos de homologación del aparato según modelo de la máquina, identidad del oferente y número de inscripción en el correspondiente Registro, así como una dirección y teléfono donde se atenderán las reclamaciones.
+Se modifica por el art. 1.9 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## CAPÍTULO IV
+
+Modalidades de ventas
+
+## Sección I
+
+Sección I. Ventas promocionales
+
+### Artículo 17
+
+Artículo 17. Concepto.
+1. Se considera como venta promocional la actividad comercial de oferta y realización de venta en condiciones más ventajosas para los compradores que las habituales.
+2. Tendrán la consideración de ventas promocionales, las ventas en rebajas, ventas en liquidación, ventas de saldos, ventas con obsequio, ventas a precio reducido y ventas con descuento preferencial.
+Se modifica por el art. 1.10 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 18
+
+Artículo 18. Requisitos generales.
+1. Los productos ofertados en cualquiera de las modalidades de venta en promoción deberán tener las mismas características, salvo lo que se establece en esta Ley en la modalidad de venta de saldo y someterse a las mismas condiciones contractuales, en especial, en lo referente a los medios de pago, que las existentes con anterioridad al período de vigencia de la actividad promocional. No obstante, de no admitirse algún medio de pago durante el período de promoción, deberá publicitarse expresamente esta circunstancia con idénticas dimensiones y en el mismo lugar en el que se anunciara la aceptación de los diversos medios de pago.
+2. Las ventas promocionales deberán ir precedidas o acompañadas de información al comprador que, como mínimo, contendrá el producto objeto de promoción, sus características, el precio y las fechas de inicio y término de la oferta.
+3. El comerciante deberá disponer de existencias suficientes de los productos ofertados para satisfacer la demanda previsible, salvo que se trate de una venta en liquidación, de saldos o de una promoción limitada en número.
+En las restantes modalidades de ventas en promoción, si las existencias de alguno de los productos ofertados llegaran a agotarse durante ésta, el comerciante, a demanda del comprador, deberá efectuar la reserva del producto seleccionado en las mismas condiciones imperantes en la oferta. Transcurridos dos meses desde la reserva, si el producto no estuviera aún disponible, deberá ser sustituido por otros de similares características.
+Sólo en el caso de venta en promoción limitada en número podrá restringirse el número de unidades del producto o productos promocionados que pueda adquirir cada comprador.
+4. Cuando la venta promocional no comprenda, al menos, la mitad de los productos puestos a la venta, la práctica de promoción de que se trate no se podrá anunciar como una medida general, sino referida exclusivamente a los artículos o sectores a los que realmente afecte.
+5. Siempre que exista coincidencia entre la puesta a disposición del comprador de productos en promoción y de productos fuera de ésta, deberán figurar perfectamente separados e identificados. Igualmente, si dentro de un mismo establecimiento, existen productos ofertados bajo las distintas modalidades de venta en promoción reguladas en la presente Ley, deberán diferenciarse claramente aquellos que se encuentran incluidos bajo una u otra modalidad.
+6. Los establecimientos comerciales ubicados en la Comunidad Autónoma de Extremadura, no podrán efectuar ventas promocionales, en la modalidad de precio reducido, incluidas las ventas con descuento preferencial, durante el mes inmediatamente anterior a los periodos de rebajas, cuando, atendiendo a la finalidad de la promoción, características y número de los productos que ofertan, puedan ser conceptuadas dentro de la definición de rebajas.
+Se modifica el apartado 6 por el art. 1.11 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 19
+
+Artículo 19. Información del precio de promoción.
+1. Siempre que se oferten artículos con reducción de precio, deberá figurar con claridad, en cada uno de ellos, el precio anterior junto con el precio reducido.
+2. Se considera precio anterior el precio mínimo, entendiendo como tal el menor de los precios con los que se haya ofertado el mismo artículo durante los treinta días anteriores al inicio del periodo promocional.
+3. En el caso de productos alimenticios perecederos, el precio anterior será el aplicado el día inmediatamente anterior al de inicio del período promocional.
+4. En el caso de que el producto en promoción sea puesto a la venta por primera vez, junto al precio de oferta figurará el precio futuro, entendiéndose por tal el precio existente el día inmediatamente posterior al de finalización de la promoción, siempre que el mismo se mantenga, al menos, durante los treinta días siguientes a esta fecha.
+5. Cuando se trate de una reducción porcentual de un conjunto homogéneo de artículos bastará con el anuncio genérico de éste, sin necesidad de que conste el precio reducido en cada artículo ofertado, siempre que queden manifiestamente claro los productos incluidos en la oferta.
+Se modifica el apartado 2 por el art. 1.12 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 20
+
+Artículo 20. Venta en rebajas.
+1. Se considera venta en rebajas aquella en la que los comerciantes ofrecen, en el mismo establecimiento en el que ejercen habitualmente su actividad comercial, una reducción de precios en sus productos, con una finalidad primordialmente extintiva de las existencias de campaña.
+2. Los productos o servicios ofrecidos en venta en rebajas deberán haber estado incluidos con anterioridad en la oferta habitual de ventas, no podrán estar deteriorados, ni haber sido adquiridos específicamente con objeto de ser vendidos a precio inferior al ordinario.
+3. Las ventas en rebajas sólo podrán realizarse en el territorio de la Comunidad Autónoma de Extremadura en dos temporadas anuales, una iniciada a principios de año y la otra coincidiendo con el período estival de vacaciones.
+4. Anualmente, la Consejería competente en materia de comercio, a propuesta el Consejo de Comercio previsto en la presente Ley, determinará los dos períodos concretos en que puedan realizarse las ventas en rebajas, sin que ninguno de ellos pueda exceder de dos meses. Dentro de éstos, cada comerciante, con una duración mínima no inferior a una semana, podrá fijar libremente la extensión de las mismas.
+5. Las rebajas podrán ser anunciadas con siete días de antelación como máximo. Las fechas de rebajas deberán exhibirse al público en los establecimientos comerciales en sitio visible, incluso cuando permanezcan cerrados.
+6. No podrán calificarse como rebajas las promociones que afecten a artículos que se hayan ofertado como saldos de forma ocasional o permanente.
+Se modifica por el art. 1.13 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 21
+
+Artículo 21. Venta de saldos.
+1. Se consideran ventas de saldos aquellas que tienen por objeto productos cuyo valor de mercado se encuentra manifiestamente disminuido como consecuencia de su deterioro, desperfecto, desuso, obsolescencia o pérdida de actualidad, no pudiendo consistir en la venta de productos que impliquen riesgo de cualquier naturaleza, fraude o engaño al comprador, ni la de aquellos que no se vendan realmente por precio inferior al habitual.
+Entra dentro de esta modalidad, con independencia de la denominación comercial del establecimiento donde se efectúe, la venta a precios reducidos de restos de fábrica.
+2. Los comerciantes podrán realizar esta actividad de forma permanente u ocasional. En este último supuesto los productos ofertados deberán haber formado parte de las existencias del vendedor.
+3. Únicamente los establecimientos dedicados de forma exclusiva a la venta de saldos podrán saldar artículos adquiridos específicamente con la finalidad de ser vendidos como tales.
+4. La publicidad de la venta de saldos deberá ir acompañada de información suficiente sobre las concretas circunstancias que la motivan y las ventajas de precio que suponen.
+Se modifica por el art. 1.14 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+ Se suprime el inciso destacado por la disposición adicional 14.1 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+### Artículo 22
+
+Artículo 22. Venta en liquidación.
+1. Se entiende por venta en liquidación aquella de carácter excepcional y finalidad extintiva realizada por el comerciante o por el adquirente por cualquier título del negocio de aquel, en la que concurra alguna de las siguientes circunstancias:
+a) El cese total o parcial de la actividad comercial, indicando en el segundo caso la clase de mercancías objeto de la liquidación.
+b) El cambio de la actividad, orientación o estructura del negocio.
+c) Cambio de local o reforma del mismo que conlleve cierre temporal o definitivo del establecimiento.
+d) En el supuesto de caso fortuito o fuerza mayor que impida el ejercicio normal de la actividad comercial.
+e) La ejecución de una resolución judicial, arbitral o administrativa de la que se derive cualquiera de las circunstancias anteriores.
+2. La venta en liquidación habrá de realizarse en el mismo establecimiento en que los productos hayan sido habitualmente objeto de venta, salvo en caso de fuerza mayor y de cierre inminente del local. En todo caso, esta modalidad de venta se deberá cesar cuando lo hagan las circunstancias que la justifican conforme al apartado 1 de este artículo.
+3. La duración máxima de la venta en liquidación será la establecida en la legislación estatal sobre ordenación del comercio minorista.
+4. La duración de la venta por liquidación en el supuesto previsto en el artículo 22.1.c) deberá estar debidamente justificada y ser proporcional y acorde con las circunstancias que la motivaron, sin que pueda superarse el plazo máximo general de tres meses.
+5. La venta en liquidación se limitará a los artículos que formen parte de las existencias del establecimiento, incluso los que estuviesen en su poder en estimación o pedidos anteriores que esté obligado a recibir. En todo caso, los productos en liquidación no podrán haber sido adquiridos por el comerciante con esa finalidad.
+6. La venta en liquidación deberá anunciarse con esa denominación indicando la causa de ésta.
+Se modifica por el art. 1.15 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 23
+
+Artículo 23. Ventas con promoción limitada en número.
+(Suprimido)
+Se suprime por el art. 1.16 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 24
+
+Artículo 24. Ventas con precio reducido.
+1. Se consideran ventas con precio reducido aquellas en las que los productos se ofrecen a un precio inferior al precio anterior exigido por el comerciante, ya sea a través de un determinado descuento porcentual o de una reducción directa sobre el mismo, con el fin de regularizar existencias, incrementar las ventas, promocionar sus productos o un determinado establecimiento.
+2. En el caso de que la promoción sea presentada mediante la entrega de dos o más unidades de producto por un precio global inferior al que correspondiera, antes de la reducción del precio, al número total de unidades incluidas en la oferta, el comerciante estará obligado a anunciar el precio anterior y el precio reducido por unidad de producto.
+3. Cuando se trate de una promoción limitada a un número de unidades de uno o varios artículos, el comerciante habrá de informar claramente sobre el número total de unidades objeto de la promoción en el establecimiento comercial y deberá tener en existencias la cantidad de artículos anunciada en la oferta. Asimismo deberá informar de manera expresa al comprador sobre la existencia de restricciones en el número de unidades promocionadas que pudiera adquirir.
+Se modifica el apartado 3 por el art. 1.17 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 25
+
+Artículo 25. Venta con obsequio.
+1. Se consideran ventas con obsequio aquellas en las que el comerciante utiliza concursos, sorteos, regalos, vales, premios o similares, vinculados a la oferta, promoción o venta de determinados productos.
+Cuando se trate de la celebración de un sorteo será de aplicación lo dispuesto en el artículo 15 de la Ley 6/1998, de 18 de junio, del Juego de Extremadura.
+2. Las bases por las que se regirán los concursos, sorteos o similares, serán de estricto cumplimiento por quien hace la venta y deberán constar en el envoltorio o envase de que se trate o, en su defecto, constar en acta notarial con anterioridad al inicio de la promoción, siendo obligatoria la publicación de los ganadores en un medio de difusión apropiado al ámbito de la promoción.
+Si el alcance de la promoción superase el ámbito local o el provincial, la relación de los ganadores deberá ser publicitada en un medio de comunicación provincial o regional, respectivamente. Estarán exoneradas de este deber aquellas promociones que superen el ámbito regional, que se regularán por la normativa estatal correspondiente.
+3. Cuando un comerciante comunique a un comprador que ha sido favorecido por sorteo con un premio, no podrá condicionar directa o indirectamente su entrega a la compra de otros productos. Además, dicho premio deberá entregarse al beneficiario en un plazo de tres meses, a contar desde que éste reúna los requisitos exigidos en las bases de la promoción.
+
+### Artículo 25 bis
+
+Artículo 25 bis. Venta con descuento preferencial.
+Se considera venta con descuento preferencial aquellas efectuadas a clientes por el uso de tarjetas u otros medios de fidelización, en forma de descuentos, premios u otro tipo de ventajas o incentivos a la compra.
+No será de aplicación la limitación prevista en el artículo 18.6 para aquellas reducciones de precios que sean consecuencia de la bonificación obtenida por compras efectuadas con anterioridad al inicio de la promoción.
+Se modifica por el art. 1.18 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## Sección II
+
+Sección II. Ventas prohibidas
+
+### Artículo 26
+
+Artículo 26. Venta con pérdida.
+1. Queda expresamente prohibida la oferta y realización de venta con pérdida en el ámbito de aplicación de esta Ley sin perjuicio de las excepciones que establece la normativa estatal sobre la materia.
+2. Existirá venta con pérdida cuando un producto es ofrecido a un precio inferior al de compra, o bien al de reposición si éste fuera más bajo que el primero.
+3. Se entiende por precio de compra o de reposición para el comerciante, el que resulta de deducir del precio unitario de factura los descuentos hechos por el proveedor y añadir los impuestos aplicables al producto objeto de venta, siempre que todas esas cantidades figuren en la factura.
+4. Si el que vende al consumidor es el mismo fabricante, o si se trata de evaluar la prestación de un servicio complementario de la venta, el precio equivalente al de compra será el coste de fabricación.
+5. Las reducciones del precio de adquisición o de reposición que no estén en la factura o que representen contraprestaciones por determinados servicios prestados por los detallistas no formarán parte del precio unitario de factura.
+6. Las facturas deberán estar en poder de los comerciantes antes de que se cumplan treinta días desde la fecha de entrega y recepción de la mercancía.
+7. No se tendrán en consideración las modificaciones de las condiciones de venta realizadas mediante facturas rectificadas.
+No obstante lo anterior, el comerciante podrá reparar la factura original en un plazo de tiempo no superior a veinticinco días desde su remisión. En tal caso, el emisor dispondrá de un plazo de diez días más para la subsanación y remisión de la factura rectificada.
+8. Lo previsto en el presente artículo no será de aplicación a las ventas de saldos y ventas en liquidación, así como a los productos perecederos próximos a su inutilización.
+
+### Artículo 27
+
+Artículo 27. Venta en pirámide.
+1. Queda expresamente prohibida la venta en pirámide.
+2. Se considera venta en pirámide cualquier tipo de venta en la que se ofrece a los compradores productos a precio reducido, o incluso gratuitos, a condición de que éstos consigan directa o indirectamente otros compradores o un determinado volumen de venta.
+
+## CAPÍTULO V
+
+Horarios comerciales
+
+## Sección I
+
+Sección I. Establecimientos con régimen general de horarios
+
+### Artículo 28
+
+Artículo 28. Horario en días laborables.
+1. El horario global dentro del cual los establecimientos comerciales minoristas establecidos en Extremadura podrán desarrollar su actividad, durante los días laborables de la semana, no podrá exceder de noventa horas.
+2. El horario de apertura y cierre será libremente acordado por cada comerciante respetando, en todo caso, los derechos reconocidos a los trabajadores en la normativa laboral.
+Se modifica por el art. 1 del Decreto-ley 3/2012, de 19 de octubre. Ref. BOE-A-2013-7870.
+ Se deroga el apartado 2 por la disposición adicional 14.7 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+### Artículo 29
+
+Artículo 29. Publicidad de horarios.
+En todos los establecimientos comerciales deberá figurar la información del calendario laboral y horario de apertura y cierre en sitio visible, tanto en el interior como en el exterior, incluso cuando estén cerrados.
+
+### Artículo 30
+
+Artículo 30. Actividad en domingos y festivos.
+1. Los domingos y festivos no serán hábiles para el ejercicio de la actividad comercial minorista, excepto para los establecimientos indicados en el artículo 31.
+2. No obstante lo anterior, la Consejería competente en materia de comercio, a propuesta del Consejo de Comercio previsto en la presente Ley, determinará, antes del 15 de noviembre de cada año, los domingos y festivos en los que, con un máximo de ocho días al año, los establecimientos comerciales minoristas podrán permanecer abiertos al público en el año siguiente.
+3. Para la determinación de los domingos y festivos de apertura, se deberá atender de forma prioritaria al atractivo comercial de los días para los consumidores, de acuerdo con los siguientes criterios:
+a) La apertura en al menos un día festivo cuando se produzca la coincidencia de dos o más días festivos continuados.
+b) La apertura en los domingos y festivos correspondientes a los períodos de rebajas.
+c) La apertura en los domingos y festivos de mayor afluencia turística en la Comunidad Autónoma.
+d) La apertura en los domingos o festivos de la campaña de Navidad.
+4. Además de los días que se determinen conforme al apartado 2, las Corporaciones Locales, por acuerdo del órgano correspondiente y previa notificación a la Consejería competente en materia de comercio antes del 15 de diciembre del año anterior, podrán determinar, a su criterio y conveniencia, dos domingos o festivos hábiles para la actividad comercial.
+A falta de notificación se entenderá como tales, para cada municipio, las dos fiestas locales determinadas anualmente por el Calendario Laboral Oficial de la Comunidad Autónoma de Extremadura.
+Se modifica por el art. 2 del Decreto-ley 3/2012, de 19 de octubre. Ref. BOE-A-2013-7870.
+ Se modifica por el art. 1.19 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+ Se modifica por la disposición adicional 14.2 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+## Sección II
+
+Sección II. Establecimientos exceptuados del régimen general de horarios
+
+### Artículo 31
+
+Artículo 31. Establecimientos con libertad horaria.
+1. Tendrán plena libertad para establecer los días y horas en que permanecerán abiertos al público, los establecimientos comerciales de la región extremeña dedicados a:
+a) La venta de pastelería, repostería, pan y platos preparados, prensa, combustibles y carburantes y floristería y plantas, así como los instalados en puestos fronterizos de la región, en las estaciones de transporte terrestre y en los aeropuertos.
+b) La venta exclusiva de productos culturales, entendiéndose como tales los libros en soporte escrito o informático, la música de cualquier formato, periódicos, revistas, instrumentos musicales, cintas de vídeo, sellos, monedas, medallas conmemorativas, billetes para coleccionistas, artículos de dibujo y bellas artes, obras de arte, antigüedades, recuerdos y de artesanía popular, así como todos aquellos cuya finalidad sea cultivar, desarrollar y formar los conocimientos humanos y el ejercicio de sus facultades intelectuales.
+2. También tendrán plena libertad horaria, las tiendas de conveniencia, entendiéndose como tales aquellas que, con una extensión útil no superior a 500 metros cuadrados, permanezcan abiertas al público al menos dieciocho horas al día y distribuyan su oferta, en forma similar, entre libros, periódicos y revistas, artículos de alimentación, discos y vídeos, juguetes, regalos y artículos varios.
+En todo caso, la oferta alimentaria no podrá representar más del 40 por 100 del surtido, medido en número de referencia, ni ocupar más del 35 por 100 de espacio de venta medido en metros lineales, debiendo limitar la venta de bebidas alcohólicas a lo dispuesto en el artículo 34.
+3. Tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público los establecimientos de venta de reducida dimensión distintos de los indicados en los apartados anteriores, que dispongan de una superficie útil para la exposición y venta al público inferior a 300 metros cuadrados.
+Se añade el apartado 3 por la disposición adicional 14.3 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+### Artículo 32
+
+Artículo 32. Zonas de afluencia turística.
+1. La Consejería competente en materia de comercio podrá declarar, a efectos de horarios comerciales, zonas de afluencia turística a los núcleos de población, independientemente de su adscripción municipal, en las que concurra alguna de las siguientes circunstancias:
+a) Existencia de una concentración suficiente, cuantitativa o cualitativamente, de plazas en alojamientos y establecimientos turísticos o bien en el número de segundas residencias respecto a las que constituyen residencia habitual.
+b) Que haya sido declarado Patrimonio de la Humanidad o en el que se localice un bien inmueble de interés cultural integrado en el patrimonio histórico artístico.
+c) Que limiten o constituyan áreas de influencia de zonas fronterizas.
+d) Celebración de grandes eventos deportivos o culturales de carácter nacional o internacional.
+e) Que constituyan áreas cuyo principal atractivo sea el turismo de compras.
+f) Cuando concurran circunstancias especiales que así lo justifiquen.
+2. En estas zonas, durante todo el año o para los periodos estacionales que se determinen, los establecimientos comerciales minoristas tendrán plena libertad para determinar los días y horas en que permanecerán abiertos al público.
+3. El procedimiento para la declaración de una zona de afluencia turística se podrá iniciar de oficio, por la Consejería competente en materia de comercio, o a solicitud de:
+a) El Ayuntamiento correspondiente, mediante acuerdo del órgano de gobierno municipal competente.
+b) Las asociaciones empresariales del sector comercial afectado y/o del ámbito territorial correspondiente.
+4. La resolución se adoptará oída la Dirección General competente en materia de turismo y el Consejo de Comercio de Extremadura y se publicará en el "Diario Oficial de Extremaduraˮ.
+5. Cuando se compruebe que las circunstancias que motivaron la declaración de la zona no se mantienen, la Consejería con competencia en materia de comercio iniciará de oficio el procedimiento de revocación de la declaración. Se dictará resolución, previo informe de la Dirección General competente en materia de turismo, oído el Consejo de Comercio de Extremadura y previa audiencia al Ayuntamiento interesado, y, en su caso, a las asociaciones empresariales que hubiesen instado su declaración, en el plazo máximo de dos meses a contar desde el acuerdo de inicio, dejando sin efecto la declaración de la zona de afluencia turística.
+Dicha resolución se notificará al Ayuntamiento y se publicará en el "Diario Oficial de Extremaduraˮ.
+Se modifica por el art. único de la Ley 1/2016, de 29 de febrero. Ref. BOE-A-2016-2830.
+ Se modifica por el art. 3 del Decreto-ley 3/2012, de 19 de octubre. Ref. BOE-A-2013-7870.
+ Se modifica el apartado 2 por la disposición adicional 14.4 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+### Artículo 33
+
+Artículo 33. Limitación de apertura a los grupos de distribución.
+1. El régimen de libertad horaria contemplado en el apartado 3 del artículo 31 no será de aplicación a los establecimientos comerciales pertenecientes a grupos de distribución.
+2. A efectos de esta Ley, se considera que pertenecen a un Grupo de distribución los establecimientos comerciales que se hallen en alguna de las siguientes circunstancias:
+a) Que sean propiedad de empresas que se encuentren respecto a otras en cualquiera de las situaciones de dominio o dependencia que enumeran el artículo 42 del Código de Comercio.
+b) Que sean propiedad de empresas que operen bajo una unidad de decisión y gestión y obliguen a desarrollar una estrategia normal conjunta bajo una enseña común.
+3. No obstante, los establecimientos comerciales pertenecientes a grupos de distribución se asimilarán a los que disfruten de plena libertad horaria cuando dichos grupos tengan la consideración de pequeña y mediana empresa comercial según la legislación vigente.
+Se modifica el apartado 2 por el art. 4 del Decreto-ley 3/2012, de 19 de octubre. Ref. BOE-A-2013-7870.
+ Se modifican los apartados 1 y 3 por la disposición adicional 14.5 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+## Sección III
+
+Sección III. Establecimientos con venta de bebidas alcohólicas
+
+### Artículo 34
+
+Artículo 34. Limitación de venta de bebidas alcohólicas.
+En lo referente a la limitación de venta de bebidas alcohólicas, se estará a lo dispuesto en la Ley 2/2003, de 13 de marzo, de la Convivencia y el Ocio de Extremadura.
+Se modifica por la disposición adicional 14.6 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+## TÍTULO II
+
+Los grandes equipamientos comerciales
+Se modifica la rúbrica por el art. 3.1 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## CAPÍTULO I
+
+Los equipamientos y establecimientos comerciales
+
+### Artículo 35
+
+Artículo 35. Definiciones.
+A los efectos previstos en la presente Ley se entenderá por:
+1. Equipamiento comercial: la dotación, considerada de manera individual o colectiva, integrada básicamente por establecimientos comerciales donde se realice una actividad comercial mayorista o minorista, incluyendo los mercados y mercadillos de titularidad pública o privada.
+2. Equipamiento comercial colectivo: el conjunto de establecimientos comerciales integrados en un edificio o complejo de edificios delimitados por un único recinto con áreas interiores y/o elementos urbanísticos comunes, en los que se ejercen actividades de forma empresarial independiente, compartiendo para ello una imagen, una gestión y/o unos servicios comunes.
+3. Establecimientos comerciales: los locales y las construcciones o instalaciones de carácter fijo y permanente, cubiertas o sin cubrir, y, en general, las instalaciones de cualquier clase que tengan el carácter de inmuebles de acuerdo con el artículo 334 del Código Civil, destinados al ejercicio regular de actividades comerciales, ya sea de forma continuada o en días o temporadas determinadas.
+4. Grandes superficies comerciales: los establecimientos donde se desarrollen actividades comerciales minoristas, polivalentes o especializados, que dispongan de una superficie de venta igual o superior a 2.500 m2.
+5. Superficie de venta: la superficie total de la áreas o locales donde se exponen los productos con carácter habitual y permanente, estén cubiertos o no, y a los que pueden acceder normalmente el público, incluyendo los escaparates y los espacios ocupados por expositores y mostradores, cajas, pasillos y accesos, excepto los aparcamientos.
+En el caso de los equipamientos comerciales, la superficie de venta computable será la superficie bruta alquilable.
+Se modifica por el art. 1.20 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 36
+
+Artículo 36. La implantación de equipamientos comerciales colectivos y grandes superficies comerciales.
+1. La implantación en el territorio de la Comunidad Autónoma de Extremadura de grandes superficies comerciales, así como de equipamientos comerciales colectivos, conforme a las definiciones establecidas en el artículo 35, con una superficie de venta igual o superior a 2.500 m2, requerirá de manera preceptiva un informe vinculante de la Consejería competente en materia de comercio, integrado dentro de un procedimiento único y simplificado seguido por los Ayuntamientos, en orden a su instalación y apertura.
+2. No será exigible el informe anterior a los mercados mayoristas y mercados y galerías municipales, así como las áreas comerciales, cubiertas o no, gestionados en común por comerciantes, con independencia de la forma jurídica que adopten, sin perjuicio de los establecimientos comerciales radicados en ellos que puedan alcanzar la calificación de gran superficie comercial.
+3. La emisión del informe será también preceptiva en el caso de ampliación del equipamiento comercial, siempre y cuando esta ampliación exija un procedimiento independiente iniciado por los Ayuntamientos para la instalación y apertura, en los siguientes supuestos:
+a) En el caso de establecimientos comerciales de menos de 2.500 m2, cuando tras la ampliación resulte una superficie de venta superior a este umbral.
+b) En el caso de equipamientos comerciales de mas de 2.500 m2, cuando la ampliación conlleve un incremento de más del 10% de la superficie de venta ya existente.
+4. El informe comercial se evacuará atendiendo a criterios basados en razones de interés general vinculados con la protección del medio ambiente, el urbanismo, la ordenación del territorio y la conservación del patrimonio histórico-artístico y alcanzará al espacio físico de implantación o ampliación, con independencia de las superficies comerciales en él contenidas.
+5. Con carácter general y en base a los principios de ordenación del territorio y del medioambiente, la implantación de grandes superficies comerciales y de equipamientos comerciales colectivos atenderá a criterios de cohesión territorial, entendiendo como tales el mantenimiento de la polaridad comercial de las cabeceras de áreas y subáreas comerciales, la preservación de la compacidad de las ciudades y la delimitación de sus perímetros, evitando la instalación de equipamientos aislados no articulados con las tramas urbanas consolidadas, así como los desplazamientos ineficientes y medioambientalmente no sostenibles.
+6. En particular, serán aspectos a tener en cuenta:
+La ubicación del establecimiento comercial en el entorno urbano, particularmente su imbricación en tramas urbanas consolidadas o en áreas limítrofes en desarrollo urbanístico.
+La movilidad, tanto de personas como de vehículos, y la incidencia de los flujos y afluencias en la red viaria y en las demás infraestructuras públicas.
+El impacto del proyecto en el medio ambiente teniendo en cuenta la gestión de los residuos, los sistemas de reciclaje, el uso de energías renovables, la gestión eficiente de la energía y del agua y la salvaguarda del paisaje, de manera que se minimice el impacto visual.
+La accesibilidad y la dotación de aparcamientos.
+7. En ningún caso en la aplicación de los anteriores criterios se atenderá a requisitos de naturaleza económica que supediten la emisión del informe a la prueba de la existencia de una necesidad económica o de una demanda de mercado, a que se evalúen los efectos económicos, posibles o reales, de la actividad o a que se haga una apreciación de si la actividad se ajusta a los objetivos de programación económica fijados por la autoridad competente, o a que se comercialicen productos o servicios de un tipo o procedencia determinada.
+Se modifica por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## CAPÍTULO II
+
+La licencia comercial específica
+
+### Artículo 37
+
+Artículo 37. Solicitud del informe comercial.
+1. Previo al inicio de las obras, la Administración local requerirá dicho informe a la Consejería competente en materia de comercio, adjuntando junto con la solicitud, todos los informes medioambientales y urbanísticos recabados para la apertura del establecimiento.
+2. Una vez valorada la solicitud, la Consejería competente en materia de comercio comunicará a la Administración Local en un plazo no superior a 10 días hábiles, desde la presentación de la solicitud y los documentos a que se refiere el apartado anterior, la decisión de emitir el informe. Transcurrido dicho plazo sin que se haya comunicado al Ayuntamiento la intención de pronunciarse sobre la solicitud, se entenderá que el informe es favorable.
+3. El plazo para evacuar el informe será de tres meses a contar desde la entrada en el registro de la Consejería competente en materia de comercio del expediente completo, trascurrido el cuál sin haberse evacuado de forma expresa deberá entenderse que es favorable.
+Se modifica por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 38
+
+Artículo 38. Obligación de suelo especifico comercial para la implantación de equipamientos comerciales colectivos y grandes superficies comerciales.
+1. Las implantaciones de grandes superficies comerciales y equipamientos comerciales colectivos solo podrán proyectarse en suelo calificado de uso pormenorizado comercial.
+2. Los instrumentos de planeamiento urbanístico deberán prever los usos específicos comerciales para la implantación de grandes superficies comerciales y equipamientos comerciales colectivos, así como sus compatibilidades, complementariedades y prohibiciones.
+3. En el caso de implantaciones comerciales que se proyecten sobre suelos que sean objeto de una modificación o revisión del planeamiento urbanístico para su calificación a un uso específico comercial, se valorará la inexistencia de suelo alternativo susceptible de uso comercial al de la implantación proyectada, particularmente en espacios vacíos intersticiales o áreas de reforma interior existentes en tramas urbanas consolidadas, así como la motivación de la modificación aprobada.
+Se modifica por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## CAPÍTULO III
+
+Planes de ordenación de equipamientos comerciales
+
+### Artículo 39
+
+Artículo 39. Objeto y ámbito.
+(Suprimido)
+Se suprime por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 40
+
+Artículo 40. Aprobación y vigencia.
+(Suprimido)
+Se suprime por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 41
+
+Artículo 41. Áreas de saturación comercial.
+(Suprimido)
+Se suprime por el art. 1.21 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+ Se levanta la suspensión de la vigencia y aplicación del apartado 3.b) por Auto del TC de 28 de enero de 2003. Ref. BOE-A-2003-2789.
+ Téngase en cuenta que se declara la extinción por desistimiento del recurrente por auto del TC de 25 de octubre de 2005.
+ Se suspende la vigencia y aplicación del apartado 3.b), desde el 5 de agosto de 2002 para las partes en el proceso y desde el 3 de octubre para los terceros, por providencia del TC de 17 de septiembre, que admite a trámite el Recurso de inconstitucionalidad nº 4842-2002. Ref. BOE-A-2002-19041.
+
+## TÍTULO III
+
+Fomento de la actividad comercial
+
+### Artículo 42
+
+Artículo 42. Principios y objetivos.
+1. La Junta de Extremadura velará por un desarrollo armónico del comercio en el conjunto del territorio de la Comunidad Autónoma de Extremadura, propiciando la existencia de una distribución minorista moderna al alcance de todos los ciudadanos.
+2. Para la consecución de un desarrollo equilibrado del comercio en su territorio, la Administración regional:
+a) Atenderá a la mejora del comercio de proximidad en el medio rural, especialmente en zonas de baja densidad de población, y fomentará la existencia de vínculos estables entre mayoristas y detallistas independientes de estas áreas.
+b) Favorecerá la recuperación de los centros históricos de las principales ciudades extremeñas a la funcionalidad comercial, así como la revitalización del comercio tradicional ligado a éstos.
+3. Con objeto de conseguir una distribución minorista moderna, la Junta de Extremadura:
+a) Apoyará el desarrollo, modernización y mejora del pequeño y mediano comercio, propiciando la cooperación entre ellos, la especialización, el incremento de su eficiencia, la implantación de sistemas de calidad y el fomento del asociacionismo.
+b) Promoverá su adaptación continuada a los cambios e innovaciones que se produzcan en el sector de la distribución.
+c) Impulsará las actividades de formación del personal al servicio de la actividad comercial.
+d) Fomentará la innovación comercial, especialmente en lo referente a las nuevas tecnologías de la sociedad de la información.
+4. La Junta de Extremadura establecerá instrumentos de apoyo para la incorporación de la pyme comercial mayorista a las tecnologías de la sociedad de la información.
+Se añade el apartado 4 por el art. 1.22 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## TÍTULO IV
+
+Consejo de Comercio de Extremadura
+
+### Artículo 43
+
+Artículo 43. Creación y funciones.
+1. Se crea el Consejo de Comercio como órgano consultivo, de participación y asesoramiento de la Consejería competente en materia de comercio para el desarrollo de esta Ley y, particularmente, para la aplicación de aquellos preceptos en los que su participación se halle expresamente prevista.
+2. También serán funciones del Consejo de Comercio la realización de propuestas tendentes al desarrollo de la actividad comercial en el territorio de la Comunidad Autónoma de Extremadura y la promoción de iniciativas comerciales, todo ello sin perjuicio de las competencias atribuidas por Ley a las Cámaras de Comercio e Industria de Extremadura.
+
+### Artículo 44
+
+Artículo 44. Composición.
+1. El Consejo de Comercio estará participado por los siguientes organismos, instituciones e interlocutores sociales:
+a) La Junta de Extremadura.
+b) La Administración Local, a través de la Federación de Municipios y Provincias de Extremadura.
+c) Las Cámaras de Comercio e Industria de Extremadura.
+d) Las asociaciones de comerciantes, a través de sus organizaciones más representativas.
+e) Las empresas comerciales, a través de sus organizaciones más representativas en la Comunidad Autónoma de Extremadura.
+f) Los empresarios y trabajadores autónomos, a través de sus organizaciones más representativas en la Comunidad Autónoma de Extremadura.
+g) Los trabajadores por cuenta ajena del sector del comercio, a través de los sindicatos más representativos en la Comunidad Autónoma de Extremadura.
+h) Los consumidores, a través de sus organizaciones más representativas en la Comunidad Autónoma de Extremadura.
+2. La representación de las organizaciones componentes del Consejo de Comercio responderá, en todo caso, a la pluralidad y diversidad existente en el sector de la distribución comercial en Extremadura.
+3. Este Consejo queda integrado en la Administración de la Comunidad Autónoma de Extremadura sin participar en su estructura jerárquica. Su régimen jurídico, composición, atribuciones y normas de funcionamiento se determinarán reglamentariamente, sin perjuicio de que el propio Consejo pueda establecer o completar sus normas de funcionamiento.
+4. En todo caso, el número de miembros del Consejo no será superior a 20, de los cuales, la Junta de Extremadura nombrará al 40% del total, siendo nombrado el 60% restante equitativamente por el resto de instituciones participantes.
+Se modifica por el art. 1.23 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+## TÍTULO V
+
+Régimen sancionador
+
+## CAPÍTULO I
+
+Infracciones
+
+### Artículo 45
+
+Artículo 45. Concepto y clasificación.
+1. Constituyen infracciones administrativas en materia de comercio interior, las acciones u omisiones tipificadas en la presente Ley.
+Dichas infracciones serán objeto de sanción administrativa previa instrucción del correspondiente expediente sancionador, por el órgano competente, sin perjuicio de las responsabilidades civiles y penales o de otro orden que pudieran derivarse.
+2. Las infracciones tipificadas en la presente Ley se clasifican en leves, graves y muy graves.
+
+### Artículo 46
+
+Artículo 46. Responsabilidad.
+La responsabilidad administrativa por la comisión de las infracciones tipificadas en la presente Ley corresponderá a las personas físicas o jurídicas titulares de la entidad que haya cometido la infracción administrativa, cualquiera que sea su domicilio o sede social.
+
+### Artículo 47
+
+Artículo 47. Infracciones leves.
+Se considerarán infracciones leves:
+a) No exhibir la necesaria homologación establecida en el artículo 16.2 de la presente Ley.
+b) El incumplimiento de la obligación de información al público sobre los días y horas de apertura y cierre de los establecimientos comerciales, o no hacerlo en lugar visible del mismo.
+c) La realización de actividades comerciales en horario mayor al autorizado.
+d) La venta de productos distintos, o en porcentajes superiores, a los permitidos en los establecimientos comerciales exceptuados del régimen general de horarios.
+e) La conducta obstruccionista a la práctica de comprobaciones e inspecciones de las autoridades o sus agentes y del personal al servicio de la Consejería con competencia en materia de comercio.
+f) El suministro de información inexacta o incompleta.
+g) El incumplimiento del régimen de desistimiento establecido en el artículo 15.6 de esta norma.
+h) No exhibir las fechas de las rebajas en los términos establecidos en el artículo 18.5 de la presente Ley.
+i) No realizar las comunicaciones o notificaciones a la administración competente en materia de comercio exigida por la normativa vigente.
+j) Cualquier otra acción u omisión que resulte contraria a la presente Ley siempre que no pueda ser calificada como grave o muy grave.
+Se modifica por el art. 1.22 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+ Se deroga el apartado e) por la disposición derogatoria única de la Ley 2/2003, de 13 de marzo. Ref. BOE-A-2003-7535.
+
+### Artículo 48
+
+Artículo 48. Infracciones graves.
+Se considerarán infracciones graves:
+a) La negativa o resistencia a suministrar datos o a facilitar la información requerida por las autoridades o sus agentes y por el personal al servicio de la Consejería con competencia en materia de comercio, en el ejercicio de sus funciones de comprobación, cuando sean reiteradas o se ejerzan mediante acciones o expresiones que lesionen la dignidad de las personas o con violencia física.
+b) El incumplimiento del requerimiento sobre cese de conductas o actividades infractoras.
+c) Exigir precios superiores a aquellos que hubiesen sido objeto de fijación administrativa.
+d) El incumplimiento de los plazos máximos de pago que contempla el apartado 3 del artículo 17 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, así como la falta de entrega por los comerciantes a sus proveedores de un documento que lleve aparejada ejecución cambiaria, o de un efecto endosable a la orden en los supuestos y plazos contemplados en el apartado 4 del artículo 17.
+e) No dejar constancia documental de la fecha de entrega de mercancías por los proveedores o falsear este dato.
+f) Las ofertas de ventas a distancia y a domicilio sin la inclusión o suministro de los datos legalmente exigibles.
+g) La realización de actividades o prácticas promocionales sin ajustarse a las prescripciones legales o calificándolas indebidamente.
+h) El falseamiento, en las ventas promocionales, de la publicidad de la oferta.
+i) Anunciar o realizar operaciones de venta en liquidación incumpliendo los requisitos establecidos al respecto.
+j) Elevar durante el período de duración de la venta en promoción el precio o reducir la calidad del producto ofertado.
+k) La oferta y realización de ventas con pérdida según lo previsto en esta Ley.
+l) La oferta y realización de operaciones comerciales en pirámide.
+m) La apertura de los establecimientos comerciales en domingo o día festivo no autorizado para la realización de actividades comerciales para aquellos no exceptuados del régimen general de horarios definido en esta Ley.
+n) El incumplimiento de la obligación de inscripción en los registros establecidos en la presente ley.
+ñ) Las infracciones leves, cuando causen perjuicio de carácter económico.
+o) La reincidencia en la comisión de infracciones leves.
+Se modifica por el art. 1.25 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 49
+
+Artículo 49. Infracciones muy graves.
+Se considerarán infracciones muy graves:
+a) Aquellas que, siendo calificadas como graves, hayan provocado un grave riesgo para la salud y seguridad de las personas, siempre que no constituyan delito, o hayan supuesto una facturación superior a 500.000 euros.
+b) La reincidencia en la comisión de infracciones graves.
+
+### Artículo 50
+
+Artículo 50. Reincidencia.
+Se entenderá que existe reincidencia por la comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+
+## CAPÍTULO II
+
+Sanciones
+
+### Artículo 51
+
+Artículo 51. Medidas cautelares.
+Se podrá acordar, como medida cautelar por el órgano competente para resolver el procedimiento sancionador, a propuesta del órgano que incoe el procedimiento, mediante acuerdo motivado, y a fin de asegurar la eficacia de la resolución final que pueda recaer, la intervención de las mercancías indebidamente comercializadas con arreglo a lo preceptuado en esta Ley, así como la suspensión de la actividad comercial de que se trate, hasta la total subsanación de los defectos o el cumplimiento de los requisitos exigidos.
+
+### Artículo 52
+
+Artículo 52. Sanciones.
+Las infracciones a lo dispuesto en esta Ley serán sancionadas con multa cuya cuantía se establecerá de acuerdo con la siguiente graduación:
+a) Las infracciones leves se sancionarán con multa de hasta 300 euros.
+b) Las infracciones graves, con multa desde 300,01 hasta 50.000 euros.
+c) Las infracciones muy graves, con multa desde 50.000,01 hasta 500.000 euros.
+Se modifica por el art. 1.26 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 53
+
+Artículo 53. Sanciones accesorias.
+La autoridad competente para resolver el procedimiento podrá acordar en la propia resolución, como sanción accesoria a las infracciones muy graves, el decomiso de las mercancías indebidamente comercializadas y el cierre del establecimiento comercial por un período máximo de tres años.
+
+### Artículo 54
+
+Artículo 54. Graduación de las sanciones.
+Las sanciones se graduarán especialmente en función del volumen de la facturación a la que afecte, cuantía del beneficio obtenido, grado de intencionalidad, plazo de tiempo durante el que se haya venido cometiendo la infracción, reincidencia y capacidad o solvencia económica de la empresa.
+Se modifica por el art. 1.27 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Artículo 55
+
+Artículo 55. Publicidad de las sanciones.
+La autoridad que adopte la resolución del procedimiento podrá acordar, siempre que se trate de infracciones que hayan supuesto un perjuicio muy grave en los intereses de los consumidores o hayan alterado significativamente las relaciones socioeconómicas, la publicidad de las sanciones impuestas, una vez que hayan adquirido firmeza, mediante su publicación en el «Diario Oficial de Extremadura».
+
+### Artículo 56
+
+Artículo 56. Prescripción de las infracciones y sanciones y caducidad de las diligencias previas.
+1. a) Las infracciones y sanciones reguladas en la presente Ley prescribirán a los tres años las calificadas de muy graves, a los dos años las calificadas de graves y a los seis meses las calificadas de leves.
+b) El plazo de prescripción de las infracciones comenzará a contarse a partir de la producción del hecho sancionable o de la terminación del periodo de comisión si se trata de infracciones continuadas.
+c) El plazo de prescripción de las sanciones se contará a partir del día siguiente a aquel en que adquiera firmeza la resolución sancionadora.
+2. Caducará la acción para perseguir las infracciones que no hayan prescrito, cuando, conocida por la Administración la existencia de una infracción y finalizadas las diligencias previas dirigidas al esclarecimiento de los hechos, hubiera transcurrido un año sin que la autoridad competente hubiera ordenado incoar el oportuno procedimiento.
+
+### Artículo 57
+
+Artículo 57. Órganos competentes.
+Los órganos competentes para resolver el procedimiento sancionador e imponer las sanciones son:
+a) El Jefe de Servicio con competencias en materia de comercio, para las infracciones leves.
+b) El Director general que tenga atribuidas las competencias en materia de comercio, para las graves cuya cuantía no supere los 25.000 euros.
+c) El titular de la Consejería competente en materia de comercio, para las infracciones graves superiores a la cantidad de 25.000 euros.
+d) El Consejo de Gobierno de la Junta de Extremadura para las infracciones muy graves y sus sanciones accesorias.
+
+### Artículo 58
+
+Artículo 58. Procedimiento sancionador.
+El procedimiento sancionador se sustanciará conforme a lo previsto en la normativa reguladora para el ejercicio de la potestad sancionadora por la Junta de Extremadura.
+
+## CAPÍTULO III
+
+Competencias inspectoras y procedimiento
+
+### Artículo 59
+
+Artículo 59. Personal de la Inspección de Comercio.
+1. El personal especializado adscrito a la Consejería competente en materia de comercio llevará a cabo la función inspectora. El personal inspector estará acreditado para ejercer esta función y tendrá la obligación de exhibir dicha acreditación en el curso de sus actuaciones.
+2. En el ejercicio de las funciones inspectoras, el personal inspector será considerado autoridad pública a todos los efectos, y podrá solicitar la cooperación de las Fuerzas y Cuerpos de Seguridad del Estado, así como de cualquier otra autoridad.
+3. La actuación inspectora tendrá, en todo caso, carácter confidencial, estando obligados los Inspectores, de forma estricta, a cumplir el deber de sigilo profesional.
+4. Cuando ejerza las funciones inspectoras, el personal inspector tendrá total independencia, sin perjuicio de la dependencia orgánica y funcional a la autoridad administrativa.
+5. El personal en funciones de inspección está facultado para tener acceso a los establecimientos y examinar las instalaciones, documentación, libros y registros preceptivos de la actividad comercial.
+
+### Artículo 60
+
+Artículo 60. Funciones inspectoras.
+1. La Inspección adscrita a la Consejería competente en materia de comercio realizará las siguientes funciones:
+a) Vigilancia y comprobación del cumplimiento de las disposiciones legales y reglamentarias en materia de comercio.
+b) Comprobación de los hechos objeto tanto de las reclamaciones y denuncias de cualquier persona física o jurídica, como de las comunicaciones de presuntas infracciones o irregularidades.
+c) Asesoramiento e informe sobre cualquier materia comercial, incluso el seguimiento de la ejecución de inversiones que hayan sido objeto de ayudas públicas.
+d) Cualquier otra función inspectora que legal o reglamentariamente se atribuya.
+2. Los municipios, a través de sus órganos competentes, ejercerán labores de inspección en los establecimientos comerciales que se encuentren dentro de su territorio, salvo las grandes superficies comerciales a las que hace referencia la presente Ley, y sin perjuicio de la facultad de los órganos competentes en materia de comercio en orden al desarrollo de la función inspectora para vigilar el cumplimiento de lo dispuesto en esta Ley.
+
+### Artículo 61
+
+Artículo 61. Actuaciones de los Inspectores.
+1. La Inspección de Comercio llevará a cabo su actuación mediante:
+a) Visitas a los establecimientos comerciales objeto de inspección.
+b) Solicitando de los responsables de las actividades comerciales que se personen en la Administración y aporten cuantos datos sean precisos para realizar la función inspectora, en los términos previstos en los artículos 39 y 40 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+c) Mediante los medios de investigación legales que considere oportunos.
+2. Del resultado de cada visita de inspección, el o los funcionarios actuantes levantarán acta sobre los resultados y hechos que correspondan.
+
+### Artículo 62
+
+Artículo 62. Contenido de las actas.
+1. Los Inspectores harán constar en las actas las circunstancias personales del inspeccionado, la identificación del Inspector actuante, la fecha y hora de visita, los datos relativos al establecimiento inspeccionado, los hechos que sirvan de base al correspondiente procedimiento sancionador, observaciones del inspeccionado, así como cualquier otra circunstancia que pudiera ser relevante. Además, se indicará que ello no supone un pronunciamiento definitivo de la Administración sobre los cargos imputados.
+2. Las actas ajustadas a Derecho darán fe y estarán dotadas de presunción de certeza, en vía administrativa, de hechos constatados, salvo prueba en contrario. El titular o el representante legal de la empresa que se encuentre al frente del establecimiento o, en su caso, cualquier empleado, podrá firmar las actas. La firma de cualquiera de las personas indicadas anteriormente supondrá la notificación del acta pero no implicará la aceptación del contenido. La negativa a firmar el acta no supondrá en primer momento la paralización del ejercicio de las posibles actuaciones administrativas motivadas por el contenido de la misma. En todo caso, el acta deberá estar firmada por el Inspector actuante.
+
+### Artículo 63
+
+Artículo 63. Obligaciones y derechos de los inspeccionados.
+1. Las personas físicas o jurídicas, o entidades sin personalidad jurídica, estarán obligadas, ya sea a través de los titulares de los establecimientos inspeccionados o, en su defecto, a través de sus empleados, a requerimiento de los órganos competentes en materia de comercio o de los Inspectores:
+a) A facilitar a los servicios de inspección de comercio, el acceso a las dependencias e instalaciones y al examen de los documentos, libros y registros directamente relacionados con la vigilancia y comprobación del cumplimiento de las obligaciones legales en materia comercial. En todo caso, lo examinado tendrá carácter confidencial.
+b) A suministrar toda clase de información sobre instalaciones, productos o servicios, permitiendo la directa comprobación de los Inspectores.
+c) A exhibir la documentación que sirva de justificación de las transacciones efectuadas, de los precios y márgenes aplicados y de los conceptos en que se descomponen los mismos.
+d) A facilitar que se obtenga copia o reproducción de la referida documentación.
+e) En general, a consentir la realización de visitas de inspección y a dar toda clase de facilidades para ello.
+2. Cuando a requerimiento de la Administración o espontáneamente se aporte cualquier declaración o documentación, deberá ir firmada por la persona con facultad bastante para representar a la empresa.
+La falsedad, así como la constancia en dichos documentos de datos inexactos o incompletos, se sancionará de conformidad con lo previsto en la presente Ley, sin perjuicio de que, si se observase posible existencia de delito o falta, se pase el tanto de culpa a los Tribunales de Justicia.
+3. Cuando del contenido de las actas levantadas por parte de la Inspección se aprecien indicios de infracción, todo lo actuado se elevará a la autoridad competente, que acordará la incoación del expediente sancionador, si lo estima precedente.
+4. El incumplimiento de lo establecido en este Capítulo será sancionado conforme a lo previsto en el presente Título y demás normas aplicables en la materia.
+
+### Disposición adicional primera
+
+Disposición adicional primera.
+(Derogada)
+Se deroga por el art. 2 de la Ley 7/2010, de 19 de julio. Ref. BOE-A-2010-12768.
+
+### Disposición adicional segunda
+
+Disposición adicional segunda.
+La cuantía de las sanciones establecidas en la presente Ley podrá ser actualizada periódicamente por el Consejo de Gobierno de la Junta de Extremadura, a propuesta de la Consejería competente en materia de comercio.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera.
+1. Se modifica el artículo 27.1 de la Ley 6/2001, de 24 de mayo, del Estatuto de los Consumidores de Extremadura, quedando redactado de la siguiente forma:
+«En el ámbito de la Administración Autonómica, corresponde a los responsables de las secciones de procedimiento sancionador de la Consejería de Sanidad y Consumo, la incoación de los expedientes sancionadores por infracciones previstas en esta Ley.»
+2. Se modifica el artículo 27.2.d) de la Ley 6/2001, de 24 de mayo, del Estatuto de los Consumidores de Extremadura, quedando redactado de la siguiente forma:
+«El Jefe de Servicio de Consumo para la imposición de multas por infracciones leves.»
+
+### Disposición transitoria única
+
+Disposición transitoria única.
+Las actividades que se hallen condicionadas a la inscripción previa en alguno de los registros previstos en el artículo 7 de esta Ley estarán eximidas de esta obligación hasta tanto no se hayan constituidos dichos registros.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única.
+Quedan derogadas cuantas normas de igual o inferior rango en lo que contradigan o se opongan a la presente Ley.
+
+### Disposición final primera
+
+Disposición final primera.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones necesarias para el desarrollo y aplicación de la presente Ley.
+
+### Disposición final segunda
+
+Disposición final segunda.
+La presente Ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Extremadura».
+Se deroga el párrafo segundo por la disposición adicional 14.7 de la Ley 9/2004, de 27 de diciembre. Ref. BOE-A-2005-1084.
+
+Por tanto, ordeno a todos los ciudadanos que sea de aplicación esta Ley, que cooperen a su cumplimiento y a los Tribunales y Autoridades que corresponda la hagan cumplir.
+Mérida, 9 de mayo de 2002.
+JUAN CARLOS RODRÍGUEZ IBARRA,
+Presidente

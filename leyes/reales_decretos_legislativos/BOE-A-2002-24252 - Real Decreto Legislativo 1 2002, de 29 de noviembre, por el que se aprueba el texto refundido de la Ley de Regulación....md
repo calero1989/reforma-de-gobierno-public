@@ -1,0 +1,2003 @@
+# Real Decreto Legislativo 1/2002, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones.
+
+- Identificador BOE: `BOE-A-2002-24252`
+- Texto consolidado (informativo, sin valor jurídico oficial): https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252
+- Descargado: 2026-08-18
+
+> Fuente: Agencia Estatal Boletín Oficial del Estado. La consolidación facilita la consulta del Derecho vigente, pero para efectos jurídicos hay que acudir a la publicación oficial.
+
+## Preámbulo
+
+La Ley 24/2001, de 27 de diciembre, de Medidas fiscales, administrativas y del orden social, en su artículo 32, apartado dieciocho, autoriza al Gobierno para que, en el plazo de doce meses a partir de la entrada en vigor de la misma, elabore y apruebe un texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, en el que se integren, debidamente regularizadas, aclaradas y sistematizadas la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, y otras disposiciones que señala relativas a planes y fondos de pensiones.
+La Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, en su disposición adicional undécima, introdujo modificaciones en diversos artículos de la Ley 8/1987, añadió un nuevo capítulo IX a la misma sobre medidas de intervención administrativa, y dio nueva redacción a sus disposiciones adicionales y finales.
+La pieza fundamental de la reforma operada en la Ley 8/1987 por la Ley 30/1995 es la incorporación a la disposición adicional primera de aquélla del régimen de protección de los compromisos por pensiones de las empresas con sus trabajadores, establecido en cumplimiento del artículo 8 de la Directiva 80/987/CEE, del Consejo, de 20 de octubre de 1980, sobre aproximación de las legislaciones de los Estados miembros relativas a la protección de los trabajadores asalariados ante la insolvencia del empresario.
+Dicha disposición adicional primera de la Ley 8/1987, modificada por el artículo 119.tres de la Ley 66/1997, de 30 de diciembre, y por la disposición adicional primera.2 de la Ley 50/1998, de 30 de diciembre, ambas Leyes de Medidas fiscales, administrativas y del orden social, se complementa con el régimen transitorio financiero y fiscal de adaptación de los compromisos por pensiones previsto en las disposiciones transitorias decimocuarta, decimoquinta y decimosexta de la Ley 30/1995.
+La Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, modificó la Ley 8/1987 en materia de requerimientos de recursos propios de las entidades gestoras de fondos de pensiones, y, recientemente, la propia Ley 24/2001 antes citada, que autoriza la refundición, en su artículo 32, ha introducido también una serie de modificaciones en la Ley 8/1987, de las que cabe destacar, especialmente, las que afectan a la regulación de los planes del sistema de empleo, facilitando la coordinación de su funcionamiento con los procesos de representación y negociación en el ámbito laboral, las referidas a los límites máximos anuales de aportación a los planes de pensiones, así como las que profundizan en la libertad de prestación de los servicios de gestión de inversiones de los fondos de pensiones en atención a las Directivas comunitarias, y en las obligaciones de información a los partícipes y beneficiarios de los planes de pensiones.
+La refundición debe incluir asimismo, según lo ordenado por el legislador, el régimen financiero aplicable a personas con minusvalía establecido por la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras normas tributarias, en su disposición adicional decimoséptima, debidamente actualizada, según la modificación introducida por el artículo 12 de la Ley 6/2000, de 13 diciembre, de Medidas fiscales urgentes de estímulo al ahorro familiar y a la pequeña y mediana empresa, y el artículo 1, once, de la Ley 24/2001, de 27 de diciembre.
+Por otra parte, con el fin de que los agentes sociales implicados en el proceso de exteriorización de los compromisos por pensiones puedan disponer de un texto normativo que integre la regulación de los planes de pensiones y los aspectos del proceso de adaptación, es conveniente que la refundición incorpore el contenido de las citadas disposiciones transitorias decimocuarta, decimoquinta y decimosexta de la Ley 30/1995, debidamente actualizado, teniendo en cuenta las modificaciones introducidas en ellas por la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social (artículos 31 y 120.uno y dos), así como por la Ley 40/1998, de 9 de diciembre, del Impuesto de la Renta de las Personas Físicas y otras normas tributarias (disposición adicional undécima, primera y segunda), y el plazo extendido hasta el 16 de noviembre de 2002 por la disposición adicional vigésima quinta de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social.
+El Reglamento de instrumentación de los compromisos por pensiones de las empresas con los trabajadores y beneficiarios, aprobado por Real Decreto 1588/1999, de 15 de octubre, desarrolla este régimen de exteriorización.
+Sin perjuicio de lo anterior, la refundición conserva la referencia a la disposición transitoria primera de la Ley 8/1987, que permitió en su día la transformación voluntaria de fondos internos y otros sistemas de previsión del personal de las empresas en planes de pensiones, ya que sus efectos todavía pueden afectar a procesos iniciados al amparo de la misma. Esta disposición se complementaba con la disposición adicional decimonovena de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.
+Por otra parte, a efectos de sistematizar, aclarar o respetar la congruencia de plazos y referencias normativas, en la refundición han de tenerse en cuenta ciertas disposiciones que afectan o se refieren a la regulación de los planes de pensiones, tales como las contenidas en las disposiciones finales de la Ley 30/1995, de 8 de noviembre, y en la disposición adicional octava de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras normas tributarias. Por último, aunque no se incluye en esta refundición por pertenecer al ámbito de las normas procesales, cabe recordar la referencia a esta materia que se contiene en el texto refundido de la Ley de Procedimiento Laboral, aprobado por Real Decreto legislativo 2/1995, de 7 de abril.
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de noviembre de 2002,
+D I S P O N G O :
+
+### Artículo único
+
+Artículo único. Aprobación del texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones.
+Se aprueba el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones que se inserta a continuación.
+
+### Disposición derogatoria única
+
+Disposición derogatoria única. Normas derogadas.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones que se aprueba.
+Se deroga la Ley 8/1987, de 8 de junio, de Regulación de Planes y Fondos de Pensiones, sin perjuicio de lo previsto en la disposición transitoria primera del texto refundido que se aprueba.
+Asimismo, quedan derogadas la disposición adicional undécima y disposiciones transitorias decimocuarta, decimoquinta y decimosexta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, cuyo contenido actualizado se incorpora al texto refundido que se aprueba.
+
+### Disposición final única
+
+Disposición final única. Entrada en vigor.
+El presente Real Decreto legislativo y el texto refundido que aprueba entrarán en vigor al día siguiente de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 29 de noviembre de 2002.
+JUAN CARLOS R.
+El Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía,
+RODRIGO DE RATO Y FIGAREDO
+
+## TEXTO
+
+TEXTO REFUNDIDO DE LA LEY DE REGULACIÓN DE LOS PLANES Y FONDOS DE PENSIONES
+
+## CAPÍTULO I
+
+Disposiciones generales
+
+### Artículo 1
+
+Artículo 1. Naturaleza de los planes de pensiones.
+1. Los planes de pensiones definen el derecho de las personas a cuyo favor se constituyen a percibir rentas o capitales por jubilación, supervivencia, viudedad, orfandad o invalidez, las obligaciones de contribución a los mismos y, en la medida permitida por la presente Ley, las reglas de constitución y funcionamiento del patrimonio que al cumplimiento de los derechos que reconoce ha de afectarse.
+2. Constituidos voluntariamente, sus prestaciones no serán, en ningún caso, sustitutivas de las preceptivas en el régimen correspondiente de la Seguridad Social, teniendo, en consecuencia, carácter privado y complementario o no de aquéllas.
+Queda reservada la denominación de ''plan de pensiones'', así como sus siglas, a los regulados en los Capítulos I a III de esta Ley, sin perjuicio de los previstos en la Sección segunda de su Capítulo X, sujetos a la legislación de otros Estados miembros.
+Se modifica el segundo párrafo del apartado 2 por el art. único.1 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 2
+
+Artículo 2. Naturaleza de los fondos de pensiones.
+Los fondos de pensiones son patrimonios creados al exclusivo objeto de dar cumplimiento a planes de pensiones, cuya gestión, custodia y control se realizarán de acuerdo con la presente Ley.
+También podrán crearse fondos de pensiones abiertos con el objeto de canalizar las inversiones de otros fondos de pensiones, según lo previsto en el artículo 11 ter.
+Téngase en cuenta que esta última actualización establecida por la disposición final 4.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción anterior:
+ "Los fondos de pensiones son patrimonios creados al exclusivo objeto de dar cumplimiento a planes de pensiones, cuya gestión, custodia y control se realizarán de acuerdo con la presente Ley."
+Se modifica por la disposición final 4.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+### Artículo 3
+
+Artículo 3. Entidades promotoras, partícipes y beneficiarios.
+1. Son sujetos constituyentes de los planes de pensiones:
+a) El promotor del plan: tienen tal consideración cualquier entidad, corporación, sociedad, empresa, asociación, sindicato o colectivo de cualquier clase que insten a su creación o participen en su desenvolvimiento.
+b) Los partícipes: tienen esta consideración las personas físicas en cuyo interés se crea el plan, con independencia de que realicen o no aportaciones.
+2. Son elementos personales de un plan de pensiones los sujetos constituyentes y los beneficiarios, entendiéndose por tales las personas físicas con derecho a la percepción de prestaciones, hayan sido o no partícipes.
+3. Son entidades promotoras de los fondos de pensiones las personas jurídicas que insten y, en su caso, participen en la constitución de los mismos en los términos previstos en esta Ley.
+
+### Artículo 4
+
+Artículo 4. Modalidades de planes de pensiones.
+1. En razón de los sujetos constituyentes, los planes de pensiones sujetos a esta Ley se encuadrarán necesariamente en una de las siguientes modalidades:
+a) Sistema de empleo: corresponde a los planes cuyo promotor sea cualquier entidad, corporación, sociedad o empresa y cuyos partícipes sean los empleados de los mismos.
+En los planes de este sistema el promotor sólo podrá serlo de uno, al que exclusivamente podrán adherirse como partícipes los empleados de la empresa promotora, incluido el personal con relación laboral de carácter especial independientemente del régimen de la Seguridad Social aplicable. La condición de partícipes también podrá extenderse a los socios trabajadores y de trabajo en los planes de empleo promovidos en el ámbito de las sociedades cooperativas y laborales, en los términos que reglamentariamente se prevean.
+Asimismo, el empresario individual que emplee trabajadores en virtud de relación laboral podrá promover un plan de pensiones del sistema de empleo en interés de éstos, en el que también podrá figurar como partícipe.
+Varias empresas o entidades podrán promover conjuntamente un plan de pensiones de empleo en el que podrán instrumentar los compromisos susceptibles de ser cubiertos por el mismo. Reglamentariamente se adaptará la normativa de los planes de pensiones a las características propias de estos planes promovidos de forma conjunta, respetando en todo caso los principios y características básicas establecidos en esta Ley.
+Reglamentariamente se podrán establecer condiciones específicas para estos planes de pensiones de promoción conjunta cuando se constituyan por empresas de un mismo grupo, por pequeñas y medianas empresas, así como por varias empresas que tengan asumidos compromisos por pensiones en virtud de un acuerdo de negociación colectiva de ámbito superior al de empresa.
+Dentro de un mismo plan de pensiones del sistema de empleo será admisible la existencia de subplanes, incluso si éstos son de diferentes modalidades o articulan en cada uno diferentes aportaciones y prestaciones. La integración del colectivo de trabajadores o empleados en cada subplan y la diversificación de las aportaciones del promotor se deberá realizar conforme a criterios establecidos mediante acuerdo colectivo o disposición equivalente o según lo previsto en las especificaciones del plan de pensiones.
+Sin perjuicio de lo establecido en el apartado 2 del artículo 1 de la presente ley, cuando en el acuerdo o convenio colectivo se haya establecido la incorporación de los trabajadores directamente al plan de pensiones, se entenderán adheridos al mismo; salvo que el acuerdo o convenio colectivo prevea que, en el plazo acordado a tal efecto, los trabajadores puedan declarar expresamente por escrito a la comisión promotora o de control del plan que desean no ser incorporados al mismo.
+Las empresas deberán negociar y, en su caso, acordar con los representantes legales de las personas trabajadoras sistemas de previsión social de empleo en la forma que se determine en la legislación laboral.
+b) Sistema asociado: corresponde a planes cuyo promotor o promotores sean cualesquiera asociaciones o sindicatos, siendo los partícipes sus asociados, miembros o afiliados.
+c) Sistema individual: corresponde a planes cuyo promotor son una o varias entidades de carácter financiero y cuyos partícipes son cualesquiera personas físicas.
+2. En razón de las obligaciones estipuladas, los planes de pensiones se ajustarán a las modalidades siguientes:
+a) Planes de prestación definida, en los que se define como objeto la cuantía de las prestaciones a percibir por los beneficiarios.
+b) Planes de aportación definida, en los que el objeto definido es la cuantía de las contribuciones de los promotores y, en su caso, de los partícipes al plan.
+c) Planes mixtos, cuyo objeto es, simultáneamente, la cuantía de la prestación y la cuantía de la contribución.
+3. Los planes de los sistemas de empleo y asociados podrán ser de cualquiera de las tres modalidades anteriores y los del sistema individual sólo de la modalidad de aportación definida.
+Reglamentariamente podrán determinarse condiciones específicas para la promoción de planes de pensiones de promoción conjunta de modalidades mixtas o de prestación definida.
+Se modifica el párrafo séptimo y se añade el octavo a la letra a) del apartado 1 por el art. único.3 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+## CAPÍTULO II
+
+Principios y regímenes de organización de los planes de pensiones
+
+### Artículo 5
+
+Artículo 5. Principios básicos de los planes de pensiones.
+1. Los planes de pensiones deberán cumplir cada uno de los siguientes principios básicos:
+a) No discriminación: debe garantizarse el acceso como partícipe de un plan a cualquier persona física que reúna las condiciones de vinculación o de capacidad de contratación con el promotor que caracterizan cada tipo de contrato.
+En particular:
+1.º Un plan del sistema de empleo no será discriminatorio cuando la totalidad del personal empleado por el promotor esté acogido o en condiciones de acogerse al citado plan, sin que pueda exigirse una antigüedad superior a un mes para acceder a aquel. Cualquier plan del sistema de empleo podrá prever el acceso con una antigüedad inferior a un mes o desde el ingreso en la plantilla del promotor.
+2.º La no discriminación en el acceso al plan del sistema de empleo será compatible con la diferenciación de aportaciones del promotor correspondientes a cada partícipe, conforme a criterios derivados de acuerdo colectivo o disposición equivalente o establecidos en las especificaciones del plan.
+En todo caso, debe garantizarse el desarrollo de medidas correctoras para evitar la brecha de género como, entre otras, el mantenimiento de las contribuciones en los supuestos de reducción de jornada y de suspensión de la relación laboral con reserva de puesto de trabajo recogidos en los artículos 37.6 y 48, apartados 4 a 8, del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.
+3.º Un plan del sistema asociado será no discriminatorio cuando todos los asociados de la entidad o entidades promotoras puedan acceder al plan en igualdad de condiciones y de derechos.
+4.º Un plan del sistema individual será no discriminatorio cuando cualquier persona que manifieste voluntad de adhesión y tenga capacidad de obligarse pueda hacerlo en los términos contractuales estipulados para cualquiera de los miembros adheridos.
+b) Capitalización: los planes de pensiones se instrumentarán mediante sistemas financieros y actuariales de capitalización. En consecuencia, las prestaciones se ajustarán estrictamente al cálculo derivado de tales sistemas. Reglamentariamente se definirá la tipología de los sistemas de capitalización y sus condiciones de aplicación, exigiéndose, salvo que medie aseguramiento, la constitución de reservas patrimoniales adicionales para garantizar la viabilidad del plan.
+c) Irrevocabilidad de aportaciones: las aportaciones del promotor de los planes de pensiones tendrán el carácter de irrevocables.
+d) Atribución de derechos: las aportaciones de los partícipes a los planes de pensiones determinan para los citados partícipes los derechos recogidos en el artículo 8 de la presente Ley.
+e) Integración obligatoria: integración obligatoria a un fondo de pensiones, en los términos fijados por esta Ley, de las contribuciones económicas a que los promotores y partícipes estuvieran obligados y cualesquiera otros bienes adscritos a un plan.
+2. Exclusivamente, los planes de pensiones que cumplan los requisitos contenidos en esta Ley podrán acceder a los regímenes financiero y fiscal previstos en ella.
+3. Las aportaciones anuales máximas a los planes de pensiones regulados en la presente Ley se adecuarán a lo siguiente:
+a) El total de las aportaciones y contribuciones empresariales anuales máximas a los planes de pensiones regulados en la presente ley no podrá exceder de 1.500 euros.
+Este límite se incrementará en los siguientes supuestos, en las cuantías que se indican:
+1.º En 8.500 euros anuales, siempre que tal incremento provenga de contribuciones empresariales, o de aportaciones del trabajador al mismo instrumento de previsión social por importe igual o inferior a las cantidades que resulten del siguiente cuadro en función del importe anual de la contribución empresarial:
+Importe anual de la contribución
+ Aportación máxima del trabajador
+ Igual o inferior a 500 euros.
+ El resultado de multiplicar la contribución empresarial por 2,5.
+ Entre 500,01 y 1.500 euros.
+ 1.250 euros, más el resultado de multiplicar por 0,25 la diferencia entre la contribución empresarial y 500 euros.
+ Más de 1.500 euros
+ El resultado de multiplicar la contribución empresarial por 1.
+No obstante, en todo caso se aplicará el multiplicador 1 cuando el trabajador obtenga en el ejercicio rendimientos íntegros del trabajo superiores a 60.000 euros procedentes de la empresa que realiza la contribución, a cuyo efecto la empresa deberá comunicar a la entidad gestora que no concurre esta circunstancia.
+A estos efectos, las cantidades aportadas por la empresa que deriven de una decisión del trabajador tendrán la consideración de aportaciones del trabajador.
+2.º En 4.250 euros anuales, siempre que tal incremento provenga de aportaciones a los planes de pensiones sectoriales previstos en el artículo 67.1 a) de esta ley, realizadas por trabajadores por cuenta propia o autónomos que se adhieran a dichos planes por razón de su actividad; aportaciones a los planes de pensiones de empleo simplificados de trabajadores por cuenta propia o autónomos previstos en el artículo 67.1.c) de esta ley; o de aportaciones propias que el empresario individual o el profesional realice a planes de pensiones de empleo de los que, a su vez, sea promotor y partícipe.
+En todo caso, la cuantía máxima de aportaciones y contribuciones empresariales por aplicación de los incrementos previstos en los números 1.º y 2.º anteriores será de 8.500 euros anuales.
+b) El límite establecido en el párrafo a) anterior se aplicará individualmente a cada partícipe integrado en la unidad familiar.
+c) Excepcionalmente, la empresa promotora podrá realizar aportaciones a un plan de pensiones de empleo del que sea promotor cuando sea preciso para garantizar las prestaciones en curso o los derechos de los partícipes de planes que incluyan regímenes de prestación definida para la jubilación y se haya puesto de manifiesto, a través de las revisiones actuariales, la existencia de un déficit en el plan de pensiones.
+4. Los planes de pensiones terminarán por las siguientes causas:
+a) Por dejar de cumplir los principios básicos establecidos en el apartado 1 de este artículo.
+b) Por la paralización de su comisión de control, de modo que resulte imposible su funcionamiento, en los términos que se fijen reglamentariamente.
+c) Cuando el plan de pensiones no haya podido cumplir en el plazo fijado las medidas previstas en un plan de saneamiento o de financiación exigidos al amparo del artículo 34 de esta Ley o, cuando habiendo sido requerido para elaborar dichos planes, no proceda a su formulación.
+d) Por imposibilidad manifiesta de llevar a cabo las variaciones necesarias derivadas de la revisión del plan a tenor del apartado 5 del artículo 9.
+e) Por ausencia de partícipes y beneficiarios en el plan de pensiones durante un plazo superior a un año.
+f) Por disolución del promotor del plan de pensiones.
+No obstante, salvo acuerdo en contrario, no será causa de terminación del plan de pensiones la disolución del promotor por fusión o cesión global del patrimonio, subrogándose la entidad resultante o cesionaria en la condición de promotor del plan de pensiones. En caso de disolución de la entidad promotora de un plan de pensiones del sistema individual, la comisión de control del fondo o, en su defecto, la entidad gestora podrá aceptar la sustitución de aquélla por otra entidad.
+Si a consecuencia de operaciones societarias una misma entidad resulta promotora de varios planes de pensiones del sistema de empleo, se procederá a integrar en un único plan de pensiones a todos los partícipes y sus derechos consolidados, y en su caso a los beneficiarios, en el plazo de doce meses desde la fecha de efecto de la operación societaria.
+g) Por cualquier otra causa establecida en las especificaciones del plan de pensiones.
+La liquidación de los planes de pensiones se ajustará a lo dispuesto en sus especificaciones que, en todo caso, deberán respetar la garantía individualizada de las prestaciones causadas y prever la integración de los derechos consolidados de los partícipes y, en su caso, de los derechos derivados de las prestaciones causadas que permanezcan en el plan, en otros planes de pensiones. En los planes del sistema de empleo la integración de derechos consolidados de los partícipes se hará, en su caso, necesariamente en el plan o planes del sistema de empleo en los que los partícipes puedan ostentar tal condición.
+Se modifica la letra a) del apartado 3 por la disposición final 11 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-11
+ Se modifican los apartados 1.a).1º y 2º y, con efectos de 1 de enero de 2023, el 3.a) por el art. único.4, 5 y 6 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+ Se modifica la letra a) del apartado 3 por la disposición final 9 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
+ Se modifica el apartado 3.a) por la disposición final 12 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-13
+ Se modifica el apartado 3.a) por la disposición final 1.1 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+ Se modifica el apartado 3 por la disposición final 5.1 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+ Se modifica el apartado 3 por el art. 87 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 6
+
+Artículo 6. Especificaciones de los planes de pensiones.
+1. Los planes de pensiones deberán precisar, necesariamente, los aspectos siguientes:
+a) Determinación del ámbito personal del plan, así como su modalidad, a tenor de lo estipulado en el artículo 4 de esta Ley.
+b) Normas para la constitución y funcionamiento de la comisión de control del plan en el caso de planes de pensiones de empleo y asociados.
+c) Sistema de financiación, de acuerdo con lo dispuesto por esta Ley.
+d) Adscripción a un fondo de pensiones, constituido o a constituir, según lo regulado en esta norma.
+e) Definición de las prestaciones y normas para determinar su cuantía, con indicación de si las prestaciones son o no revalorizables y, en su caso, la forma de revalorización. Asimismo, se precisará, en su caso, los criterios y regímenes de diferenciación de aportaciones y prestaciones.
+Los planes de pensiones que contemplen prestaciones definidas para todas o alguna de las contingencias o prestaciones causadas deberán incorporar, como anexo a las especificaciones, una base técnica elaborada por actuario con el contenido y requisitos que establezca el Ministerio de Economía.
+f) Derechos y obligaciones de los partícipes y beneficiarios, contingencias cubiertas, así como, en su caso, la edad y circunstancias que generan el derecho a las prestaciones, forma y condiciones de éstas.
+Las especificaciones deberán prever la documentación que debe recibir el partícipe en el momento de la adhesión al plan y la información periódica que recibirá conforme a lo previsto en esta Ley y sus normas de desarrollo.
+g) Causas y circunstancias que faculten a los partícipes a modificar o suspender sus aportaciones y sus derechos y obligaciones en cada caso.
+h) Normas relativas a las altas y bajas de los partícipes.
+i) Requisitos para la modificación del plan y procedimientos a seguir para la adopción de acuerdos al respecto.
+j) Causas de terminación del plan y normas para su liquidación.
+2. Asimismo, deberán prever el procedimiento de transferencia de los derechos consolidados correspondientes al partícipe que, por cambio de colectivo laboral o de otra índole, altere su adscripción a un plan de pensiones, de acuerdo con lo previsto en esta Ley.
+3. La modificación de las especificaciones de los planes de pensiones del sistema asociado y de empleo se podrá realizar mediante los procedimientos y acuerdos previstos en aquéllas. El acuerdo de modificación podrá ser adoptado por la comisión de control del plan con el régimen de mayorías establecido en las especificaciones.
+No obstante, en los planes de pensiones del sistema de empleo las especificaciones podrán prever que la modificación del régimen de prestaciones y aportaciones o cualesquiera otros extremos, y en su caso la consiguiente adaptación de la base técnica, pueda ser acordada, conforme a lo previsto en esta norma, mediante acuerdo colectivo entre la empresa y la representación de los trabajadores.
+Las especificaciones de los planes de pensiones del sistema individual podrán modificarse por acuerdo del promotor, previa comunicación por éste o por la entidad gestora o depositaria correspondiente, con al menos un mes de antelación a los partícipes y beneficiarios.
+
+### Artículo 7
+
+Artículo 7. La comisión de control del plan de pensiones y el defensor del partícipe.
+1. El funcionamiento y ejecución de cada plan de pensiones del sistema de empleo será supervisado por una comisión de control constituida al efecto. La comisión de control del plan tendrá las siguientes funciones:
+a) Supervisar el cumplimiento de las cláusulas del plan en todo lo que se refiere a los derechos de sus partícipes y beneficiarios.
+b) Seleccionar el actuario o actuarios que deban certificar la situación y dinámica del plan.
+c) Nombrar los representantes de la comisión de control del plan en la comisión de control del fondo de pensiones al que esté adscrito.
+d) Proponer y, en su caso, decidir en las demás cuestiones sobre las que la presente Ley le atribuye competencia.
+e) Representar judicial y extrajudicialmente los intereses de los partícipes y beneficiarios en relación con el plan de pensiones.
+2. La comisión de control del plan de pensiones de empleo estará formada por representantes del promotor o promotores y representantes de los partícipes y, en su caso, de los beneficiarios. Los representantes de los partícipes podrán ostentar, con carácter general, la representación de los beneficiarios del plan de pensiones.
+Los planes de pensiones del sistema de empleo podrán prever la representación específica en la comisión de control de los partícipes, y en su caso, de los beneficiarios de cada uno de los subplanes que se definan dentro del mismo plan.
+En los planes de pensiones de empleo de promoción conjunta podrán establecerse sistemas de representación conjunta o agregada en la comisión de control de los colectivos de promotores, partícipes, y en su caso, de beneficiarios, respectivamente.
+En los planes de pensiones del sistema de empleo las especificaciones podrán prever que la comisión negociadora o, en su defecto, la comisión paritaria de interpretación y aplicación del convenio colectivo estatutario u otros órganos de composición paritaria regulados en el mismo puedan designar a los miembros de la comisión de control o establecer procedimientos de designación directa de dichos miembros.
+Igualmente las especificaciones de los planes de pensiones del sistema de empleo podrán prever la designación directa de los representantes de los partícipes y, en su caso, de los partícipes que han cesado la relación laboral y de los beneficiarios, por acuerdo de la mayoría de los representantes de los trabajadores en la empresa.
+A falta de un sistema de designación directa, todos los representantes de los partícipes y beneficiarios serán nombrados mediante procedimiento electoral.
+En los sistemas de designación directa previstos en los párrafos anteriores, cuando la suma de partícipes que hayan cesado la relación laboral con el promotor y de beneficiarios supere el 20 por ciento del colectivo total del plan, deberá designarse al menos un miembro de la comisión de control que proceda de entre los mismos.
+Cuando el número de partícipes que hayan cesado la relación laboral con el promotor y de beneficiarios supere el 20 por ciento del colectivo total del plan, deberá efectuarse un proceso electoral si así lo solicitan al menos un tercio de los mismos. En este caso, las especificaciones del plan podrán optar por ordenar la celebración de un proceso electoral para la elección de todos los representantes de partícipes y beneficiarios en la comisión de control, sin que sea obligatoria la representación específica establecida en el párrafo anterior.
+Asimismo, en los planes de pensiones de empleo de promoción conjunta constituidos en virtud de acuerdos de negociación colectiva estatutaria de ámbito supraempresarial, se podrá utilizar cualquiera de los métodos de designación y/o elección descritos anteriormente.
+En los planes de pensiones de empleo, incluidos los de promoción conjunta, la designación de los representantes en la comisión de control podrá coincidir con todos o parte de los componentes de la comisión negociadora o representantes de las partes referidas.
+Las designaciones directas de los miembros de la comisión de control podrán ser revocadas en cualquier momento por las partes respectivas, que designarán sustitutos.
+Las especificaciones de los planes de pensiones establecerán el sistema de nombramiento, por designación y/o por elección, de los miembros de la comisión de control. En este último caso, las especificaciones regularán el procedimiento electoral.
+Las decisiones de la comisión de control del plan se adoptarán de acuerdo con las mayorías estipuladas en las especificaciones del plan, resultando admisible que dichas especificaciones prevean mayorías cualificadas.
+Reglamentariamente podrán regularse los sistemas para la designación y/o elección de los miembros de las comisiones de control de los planes de empleo, podrán establecerse las condiciones y porcentajes de representación y las condiciones de funcionamiento de las mismas en desarrollo de lo previsto en esta Ley.
+Cuando en el desarrollo de un plan éste quedara sin partícipes, la representación de los mismos corresponderá a los beneficiarios.
+3. En los planes de pensiones del sistema de empleo, la representación de los elementos personales en la comisión de control se ajustará a los siguientes criterios:
+a) Con carácter general, la representación de los promotores será paritaria (del 50 por ciento).
+b) Cuando el plan de pensiones sea de aportación definida para la contingencia de jubilación, las decisiones que afecten a la política de inversión del fondo de pensiones incluirán, al menos, el voto favorable de la mitad de los representantes de los partícipes en la comisión de control.
+c) En los planes de pensiones de la modalidad de prestación definida o mixtos, las decisiones que afecten al coste económico asumido por la empresa de las prestaciones definidas incluirán, al menos, el voto favorable de la mitad de los representantes del promotor o promotores.
+Reglamentariamente se podrá desarrollar el régimen y condiciones de representación.
+4. El funcionamiento y ejecución de cada plan de pensiones del sistema asociado será supervisado por una comisión de control que tendrá las funciones previstas en el apartado 1 anterior y estará formada por representantes del promotor o promotores y partícipes y, en su caso, de los beneficiarios del plan. Si el plan quedara sin partícipes, la representación atribuida a los mismos corresponderá a los beneficiarios.
+En la comisión de control de un plan asociado la mayoría de sus miembros, independientemente de la representación que ostenten, deberá estar compuesta por partícipes asociados o afiliados de la entidad promotora.
+Las especificaciones de un plan de pensiones asociado deberán prever el sistema de designación o elección de los miembros de la comisión de control, pudiéndose prever la designación por parte de los órganos de gobierno o asamblearios de la entidad promotora. La designación de los representantes en la comisión de control podrá recaer en miembros integrantes de estos órganos.
+Reglamentariamente podrán regularse los sistemas para la designación o elección de los miembros de las comisiones de control de los planes asociados, podrán establecerse las condiciones y porcentajes de representación y las condiciones de funcionamiento de las mismas en desarrollo de lo previsto en esta Ley.
+5. En los planes de pensiones del sistema individual no se constituirá comisión de control del plan, correspondiendo al promotor las funciones y responsabilidades que a dicha comisión se asignan en esta Ley.
+En los planes de pensiones de este sistema deberá designarse al defensor del partícipe, que también lo será de los beneficiarios.
+Las entidades promotoras de estos planes de pensiones, bien individualmente, bien agrupadas por pertenecer a un mismo grupo, ámbito territorial o cualquier otro criterio, deberán designar como defensor del partícipe a entidades o expertos independientes de reconocido prestigio, a cuya decisión se someterán las reclamaciones que formulen los partícipes y beneficiarios o sus derechohabientes contra las entidades gestoras o depositarias de los fondos de pensiones en que estén integrados los planes o contra las propias entidades promotoras de los planes individuales.
+La decisión del defensor del partícipe favorable a la reclamación vinculará a dichas entidades. Esta vinculación no será obstáculo a la plenitud de tutela judicial, al recurso a otros mecanismos de solución de conflictos o arbitraje, ni al ejercicio de las funciones de control y supervisión administrativa.
+El promotor del plan de pensiones individual, o la entidad gestora del fondo de pensiones en el que se integre, deberán comunicar a la Dirección General de Seguros y Fondos de Pensiones la designación del defensor del partícipe y su aceptación, así como las normas de procedimiento y plazo establecido para la resolución de las reclamaciones que, en ningún caso, podrá exceder de dos meses desde la presentación de aquellas.
+Los gastos de designación, funcionamiento y remuneración del defensor del partícipe en ningún caso serán asumidos por los reclamantes ni por los planes y fondos de pensiones correspondientes.
+Lo previsto en este apartado se entenderá sin perjuicio de la aplicación en su caso de lo establecido en la normativa específica sobre protección de clientes de servicios financieros.
+Se modifica el apartado 2 por la disposición final 3 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+ Se declara la inconstitucionalidad y nulidad de los incisos destacados del apartado 2 por Sentencia del TC 128/2010, de 29 de novimebre. Ref. BOE-A-2011-270.
+
+## CAPÍTULO III
+
+Régimen financiero de los planes de pensiones
+
+### Artículo 8
+
+Artículo 8. Aportaciones y prestaciones.
+1. Los planes de pensiones se instrumentarán mediante sistemas financieros y actuariales de capitalización que permitan establecer una equivalencia entre las aportaciones y las prestaciones futuras a los beneficiarios.
+Dichos sistemas financieros y actuariales deberán implicar la formación de fondos de capitalización, provisiones matemáticas y otras provisiones técnicas suficientes para el conjunto de compromisos del plan de pensiones.
+En todo caso deberá constituirse un margen de solvencia mediante las reservas patrimoniales necesarias para compensar las eventuales desviaciones que por cualquier causa pudieran presentarse.
+Las normas de constitución y cálculo de los fondos de capitalización, provisiones técnicas y del margen de solvencia se establecerán en el Reglamento de esta Ley.
+2. El plan podrá prever la contratación de seguros, avales y otras garantías con las correspondientes entidades financieras para la cobertura de riesgos determinados o el aseguramiento o garantía de las prestaciones.
+3. Las contribuciones o aportaciones se realizarán por el promotor o promotores y por los partícipes, respectivamente, en los casos y forma que, de conformidad con la presente Ley, establezca el respectivo plan de pensiones, determinándose y efectuándose las prestaciones según las normas que el mismo contenga.
+4. La titularidad de los recursos patrimoniales afectos a cada plan corresponderá a los partícipes y beneficiarios.
+5. Las fechas y modalidades de percepción de las prestaciones serán fijadas libremente por partícipe o por el beneficiario, en los términos que reglamentariamente se determinen, y con las limitaciones que, en su caso, se establezcan en las especificaciones de los planes.
+6. Las contingencias por las que se satisfarán las prestaciones anteriores podrán ser:
+a) Jubilación: para la determinación de esta contingencia se estará a lo previsto en el Régimen de Seguridad Social correspondiente.
+Cuando no sea posible el acceso de un partícipe a la jubilación, la contingencia se entenderá producida a partir de que cumpla los 65 años de edad, en el momento en que el partícipe no ejerza o haya cesado en la actividad laboral o profesional, y no se encuentre cotizando para la contingencia de jubilación para ningún Régimen de la Seguridad Social. No obstante, podrá anticiparse la percepción de la prestación correspondiente a partir de los sesenta años de edad, en los términos que se establezcan reglamentariamente.
+Los planes de pensiones podrán prever el pago de la prestación correspondiente a la jubilación en caso de que el partícipe, cualquiera que sea su edad, extinga su relación laboral y pase a situación legal de desempleo en los casos contemplados en los artículos 49.1.g), 51, 52 y 57.bis del Texto Refundido de la Ley del Estatuto de los Trabajadores. Reglamentariamente podrán establecerse condiciones para el mantenimiento o reanudación de las aportaciones a planes de pensiones en este supuesto.
+A partir del acceso a la jubilación, el partícipe podrá seguir realizando aportaciones al plan de pensiones. No obstante, una vez iniciado el cobro de la prestación de jubilación o el cobro anticipado de la prestación correspondiente a jubilación, las aportaciones sólo podrán destinarse a las contingencias de fallecimiento y dependencia. El mismo régimen se aplicará cuando no sea posible el acceso a la jubilación, a las aportaciones que se realicen a partir de que se cumplan los 65 años de edad. Reglamentariamente podrán establecerse las condiciones bajo las cuales podrán reanudarse las aportaciones para jubilación con motivo del alta posterior en un Régimen de Seguridad Social por ejercicio o reanudación de actividad.
+Lo dispuesto en la letra a) se entenderá sin perjuicio de las aportaciones a favor de beneficiarios que realicen los promotores de los planes de pensiones del sistema de empleo al amparo de lo previsto en el apartado 3 del artículo 5 de esta Ley.
+b) Incapacidad laboral total y permanente para la profesión habitual o absoluta y permanente para todo trabajo, y la gran invalidez, determinadas conforme al Régimen correspondiente de Seguridad Social.
+Reglamentariamente podrá regularse el destino de las aportaciones para contingencias susceptibles de acaecer en las personas incursas en dichas situaciones.
+c) Muerte del partícipe o beneficiario, que puede generar derecho a prestaciones de viudedad, orfandad o a favor de otros herederos o personas designadas.
+d) Dependencia severa o gran dependencia del partícipe regulada en la Ley de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+A efectos de lo previsto en la disposición adicional primera de esta Ley, las contingencias que deberán instrumentarse en las condiciones establecidas en la misma serán las de jubilación, incapacidad, fallecimiento y dependencia previstas respectivamente en las letras a), b), c) y d) anteriores.
+Los compromisos asumidos por las empresas con los trabajadores que extingan su relación laboral con aquéllas y pasen a situación legal de desempleo en los casos contemplados en el párrafo tercero de la letra a) anterior, que consistan en el pago de prestaciones con anterioridad a la jubilación, podrán ser objeto de instrumentación, con carácter voluntario, de acuerdo con el régimen previsto en la disposición adicional primera de esta Ley, en cuyo caso se someterán a la normativa financiera y fiscal derivada de ésta.
+7. Constituyen derechos consolidados por los partícipes de un plan de pensiones los siguientes:
+a) En los planes de pensiones de aportación definida, la cuota parte que corresponde al partícipe, determinada en función de las aportaciones, rendimientos y gastos.
+b) En los planes de prestación definida, la reserva que le corresponda de acuerdo con el sistema actuarial utilizado.
+8. Los partícipes sólo podrán hacer efectivos sus derechos consolidados en los supuestos de desempleo de larga duración o de enfermedad grave. Reglamentariamente se determinarán estas situaciones, así como las condiciones y términos en que podrán hacerse efectivos los derechos consolidados en tales supuestos.
+Asimismo, los partícipes de los planes de pensiones del sistema individual y asociado podrán disponer anticipadamente del importe de sus derechos consolidados correspondiente a aportaciones realizadas con al menos diez años de antigüedad. La percepción de los derechos consolidados en este supuesto será compatible con la realización de aportaciones a planes de pensiones para contingencias susceptibles de acaecer. Los partícipes de los planes de pensiones del sistema de empleo podrán disponer de los derechos consolidados correspondientes a las aportaciones y contribuciones empresariales realizadas con al menos diez años de antigüedad si así lo permite el compromiso y lo prevén las especificaciones del plan y con las condiciones o limitaciones que éstas establezcan en su caso. Reglamentariamente se establecerán las condiciones, términos y límites en que podrán hacerse efectivos los derechos consolidados en los supuestos previstos en este párrafo.
+En todo caso, las cantidades percibidas en los supuestos previstos en los párrafos anteriores se sujetarán al régimen fiscal establecido por la Ley para las prestaciones de los planes de pensiones.
+Los derechos consolidados en los planes de pensiones del sistema asociado e individual podrán movilizarse a otro plan o planes de pensiones, por decisión unilateral del partícipe o por pérdida de la condición de asociado del promotor en un plan de pensiones del sistema asociado o por terminación del plan.
+Los derechos económicos de los beneficiarios en los planes de pensiones del sistema individual y asociado también podrán movilizarse a otros planes de pensiones a petición del beneficiario, siempre y cuando las condiciones de garantía y aseguramiento de la prestación así lo permitan y en las condiciones previstas en las especificaciones de los planes de pensiones correspondientes.
+Los derechos consolidados de los partícipes en los planes de pensiones del sistema de empleo no podrán movilizarse a otros planes de pensiones, salvo en el supuesto de extinción de la relación laboral y en las condiciones que reglamentariamente se establezcan, y sólo si estuviese previsto en las especificaciones del plan, o por terminación del plan de pensiones. Los derechos económicos de los beneficiarios en los planes de empleo no podrán movilizarse, salvo por terminación del plan de pensiones.
+El partícipe o beneficiario de un plan de pensiones que decida movilizar sus derechos deberá dirigirse a la entidad gestora del fondo de destino, a la que ordenará por un medio fehaciente la realización de las gestiones necesarias. La entidad gestora de destino deberá comprobar el cumplimiento de los requisitos establecidos en esta Ley y en su normativa de desarrollo para la movilización de tales derechos, y solicitar a la gestora del fondo de origen el traspaso de los derechos indicándole, al menos, el plan y fondo de pensiones de destino, el depositario de éste y los datos de la cuenta del fondo de pensiones de destino a la que debe efectuarse el traspaso. La entidad gestora de origen, una vez realizadas las comprobaciones que estime necesarias, deberá ordenar la transferencia bancaria correspondiente y remitir a la gestora de destino toda la información financiera y fiscal necesaria para el traspaso. En los traspasos solicitados por partícipes, dicha información incluirá un detalle de la cuantía de cada una de las aportaciones realizadas de las que derivan los derechos consolidados objeto de traspaso y de las fechas en que se hicieron efectivas.
+La entidad gestora de destino conservará la documentación derivada de las movilizaciones entre planes de pensiones a disposición de la entidad gestora de origen, de las entidades depositarias de los fondos de origen y de destino, así como a disposición de las autoridades competentes.
+Reglamentariamente se podrán regular las condiciones del procedimiento y plazos para tramitar y hacer efectivas las movilizaciones de derechos de los partícipes y beneficiarios en los términos necesarios que garanticen la fiabilidad, transparencia y agilidad de las movilizaciones, así como autorizar sistemas estandarizados con las debidas garantías de seguridad para la transmisión de información entre las entidades intervinientes y para la transferencia de efectivo.
+Lo dispuesto en este apartado se entiende sin perjuicio de las movilizaciones de los derechos consolidados y económicos entre planes de pensiones, planes de previsión asegurados y planes de previsión social empresarial previstas en la disposición adicional sexta de esta Ley.
+Los derechos consolidados del partícipe en un plan de pensiones no podrán ser objeto de embargo, traba judicial o administrativa, hasta el momento en que se cause el derecho a la prestación o en que sean disponibles en los supuestos de enfermedad grave o desempleo de larga duración o por corresponder a aportaciones realizadas con al menos diez años de antigüedad.
+El concurso de acreedores no podrá dar lugar a la resolución judicial del plan de pensiones del concursado.
+9. A instancia de los partícipes deberán expedirse certificados de pertenencia a los planes de pensiones que, en ningún caso, serán transmisibles.
+10. Las prestaciones de los planes de pensiones deberán ser abonadas al beneficiario o beneficiarios previstos o designados, salvo que mediara embargo, traba judicial o administrativa, en cuyo caso se estará a lo que disponga el mandamiento correspondiente.
+Se añade un párrafo final al apartado 8 por la disposición final 6 de la Ley 16/2022, de 5 de septiembre. Ref. BOE-A-2022-14580#df-6
+ Se modifica el apartado 8 por la disposición final 1.2 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+ Se modifica el apartado 6 por la disposición final 9 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+ Se modifica el apartado 8 por la disposición final 13.1 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifican los apartados 5 y 6 por la disposición final 5.2 y 3 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### Artículo 9
+
+Artículo 9. Aprobación y revisión de los planes de pensiones.
+1. El promotor del plan de pensiones elaborará el proyecto inicial del plan, que incluirá las especificaciones contempladas en el artículo 6 de esta Ley.
+a) En el sistema de empleo, una vez elaborado el proyecto, se instará a la constitución de una comisión promotora con representación del promotor o promotores y de los trabajadores o potenciales partícipes.
+Esta comisión estará formada y operará de acuerdo a lo previsto en el artículo 7 para la comisión de control de un plan de pensiones, con las adaptaciones que se prevean reglamentariamente.
+Para los planes de pensiones del sistema de empleo podrán establecerse procedimientos de designación directa de los miembros de la comisión promotora por parte de la comisión negociadora del convenio, o designación de los representantes de empleados por acuerdo de la mayoría de los representantes de los trabajadores en la empresa.
+Mediante acuerdo colectivo de ámbito supraempresarial podrá establecerse el proyecto inicial de un plan de pensiones del sistema de empleo de promoción conjunta para las empresas incluidas en su ámbito, pudiendo ser designada la comisión promotora directamente por la comisión negociadora del convenio o, en su defecto, por la representación de las empresas y de los trabajadores en el referido ámbito supraempresarial.
+b) En el caso de los planes de pensiones del sistema individual y asociado, serán las entidades promotoras quienes adoptarán los acuerdos y ejercerán las funciones asignadas por esta normativa a la comisión promotora de los planes de pensiones del sistema de empleo.
+2. La comisión promotora podrá adoptar los acuerdos que estime oportunos para ultimar y ejecutar el contenido del proyecto y recabará, excepto en los planes de aportación definida que no prevean la posibilidad de otorgar garantía alguna a partícipes o beneficiarios, dictamen de un actuario sobre la suficiencia del sistema financiero y actuarial del proyecto definitivo de plan de pensiones resultante del proceso de negociación. El referido proyecto deberá ser adoptado por acuerdo de las partes presentes en la comisión promotora.
+Obtenido el dictamen favorable, la comisión promotora procederá a la presentación del referido proyecto ante el fondo de pensiones en que pretenda integrarse.
+3. A la vista del proyecto del plan de pensiones, el fondo de pensiones o, según corresponda, la entidad gestora de éste, adoptará en su caso el acuerdo de admisión del plan en el fondo por entender, bajo su responsabilidad, que se cumplen los requisitos establecidos en esta Ley, comunicándolo a la comisión promotora o, en su defecto, al promotor del plan.
+4. Efectuada la comunicación anterior, podrá hacerse efectiva la incorporación al plan de partícipes, debiendo la comisión promotora de un plan de empleo o el promotor de un plan asociado instar la constitución de la pertinente comisión de control del plan en los plazos y condiciones que reglamentariamente se establezcan.
+En tanto no se constituya la comisión de control, las funciones atribuidas a ésta por la presente Ley corresponderán a la comisión promotora o al promotor del plan asociado en su caso.
+En virtud de acuerdo adoptado por la empresa con los representantes de los trabajadores en la misma, la comisión promotora, una vez formalizado el plan de pensiones del sistema de empleo, podrá efectuar directamente la incorporación al mismo de los partícipes y, en su caso, de los beneficiarios, debiendo señalarse un plazo para que los que no deseen incorporarse al plan se lo comuniquen por escrito. También será admisible la suscripción de documentos individuales o colectivos de adhesión al plan del sistema de empleo en virtud de delegación expresa otorgada por los partícipes.
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de que, en su caso, el convenio colectivo o disposición equivalente que establezca los compromisos por pensiones condicione la obligación de la empresa a su instrumentación a través de un plan del sistema de empleo, o de las acciones y derechos que corresponda ejercitar en caso de discrepancia o información inadecuada sobre los procesos de incorporación al plan.
+Reglamentariamente podrán establecerse condiciones específicas relativas a la incorporación de elementos personales a los planes de pensiones y requisitos de los documentos de adhesión, así como normas especiales para los planes de pensiones de empleo de promoción conjunta.
+5. El sistema financiero y actuarial de los planes de empleo de cualquier modalidad y de los planes asociados de prestación definida y mixtos deberá ser revisado al menos cada tres años por actuario independiente designado por la comisión de control, con encomienda expresa y exclusiva de realizar la revisión actuarial. Si, como resultado de la revisión, se planteara la necesidad o conveniencia de introducir variaciones en las aportaciones y contribuciones, en las prestaciones previstas, o en otros aspectos con incidencia en el desenvolvimiento financiero-actuarial, se someterá a la comisión de control del plan para que proponga o acuerde lo que estime procedente, de conformidad con la letra i) del apartado 1 del artículo 6.
+La revisión financiero-actuarial podrá realizarse mediante una única revisión actuarial conjunta, agrupando todos los planes adscritos a un mismo fondo. En este caso, la designación de actuario revisor recaerá en la comisión de control del fondo de pensiones.
+Reglamentariamente se determinará el contenido y alcance de la referida revisión actuarial, así como las funciones del actuario al cual se encomiende la revisión y que necesariamente deberá ser persona distinta al actuario o actuarios que, en su caso, intervengan en el desenvolvimiento ordinario del plan de pensiones.
+6. La aprobación y revisión de los planes de pensiones del sistema de empleo promovidos por pequeñas y medianas empresas se regirán por normas específicas fijadas reglamentariamente, ajustándose a las siguientes bases:
+a) En la determinación del ámbito de aplicación deberá tenerse en cuenta la modalidad de estos planes, el número de trabajadores, la cifra anual de negocios y el total de las partidas de activo de las empresas afectadas.
+b) El procedimiento de inscripción en los Registros mercantiles, así como el dictamen y revisión actuariales, de estos planes de pensiones podrán adecuarse a las especiales características de éstos. El dictamen y revisión actuariales podrán no ser exigibles en determinados casos.
+c) Gozarán de una reducción del 30 por 100 los derechos que los Notarios y Registradores hayan de per cibir como consecuencia de la aplicación de sus respectivos aranceles por los negocios, actos y documentos necesarios para la tramitación de la inscripción, nombramiento y cese de los miembros de la comisión de control y movilización de estos planes de pensiones.
+Se modifica el apartado 5 por el art. único.7 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+ Se modifica el apartado 5 por la disposición final 13.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 10
+
+Artículo 10. Integración en el fondo de pensiones.
+1. Para la instrumentación de un plan de pensiones, las contribuciones económicas a que los promotores y los partícipes del plan estuvieran obligados se integrarán inmediata y necesariamente en una cuenta de posición del plan en el fondo de pensiones, con cargo a la cual se atenderá el cumplimiento de las prestaciones derivadas de la ejecución del plan. Dicha cuenta recogerá, asimismo, los rendimientos derivados de las inversiones del fondo de pensiones que, en los términos de esta Ley, se asignen al plan.
+2. Reglamentariamente se fijarán las condiciones a que se sujetarán las relaciones entre el plan y el fondo de pensiones, y en particular las referentes al traspaso de la cuenta de posición del plan desde un fondo de pensiones a otro, así como a la liquidación del plan. Reglamentariamente se podrán establecer las condiciones y requisitos en los que la comisión de control de un plan de pensiones adscrito a un fondo puede canalizar recursos de su cuenta de posición a otros fondos de pensiones o adscribirse a varios, gestionados, en su caso, por diferentes entidades gestoras.
+Téngase en cuenta que esta última actualización del apartado 2 establecida por la disposición final 4.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción anterior:
+ "2. Reglamentariamente se fijarán las condiciones a que se sujetarán las relaciones entre el plan y el fondo de pensiones, y en particular las referentes al traspaso de la cuenta de posición del plan desde un fondo de pensiones a otro, así como a la liquidación del plan.
+ Reglamentariamente se podrán establecer las condiciones y requisitos en los que la comisión de control de un plan de pensiones del sistema de empleo adscrito a un fondo puede canalizar recursos de su cuenta de posición a otros fondos de pensiones o adscribirse a varios, gestionados, en su caso, por diferentes entidades gestoras."
+3. La comisión de control del plan de pensiones supervisará la adecuación del saldo de la cuenta de posición del plan a los requerimientos del régimen financiero de éste.
+4. Los planes de pensiones del sistema de empleo se integrarán necesariamente en fondos de pensiones cuyo ámbito de actuación se limite al desarrollo de planes de pensiones de dicho sistema.
+Se modifica el apartado 2 por la disposición final 4.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+### Artículo 10 bis
+
+Artículo 10 bis. Información que debe facilitarse a los partícipes potenciales, a los partícipes y a los beneficiarios.
+1. Los partícipes potenciales, los partícipes y los beneficiarios de los planes de pensiones deberán disponer de información adecuada y transparente sobre los planes y fondos de pensiones que les permita fundamentar sus decisiones sobre su jubilación y conocer el contenido y evolución de sus derechos en el plan.
+2. La información que se ha de facilitar a partícipes potenciales, partícipes y beneficiarios, debe cumplir con los siguientes principios:
+a) Actualización periódica.
+b) Claridad en la redacción, utilizando un lenguaje sucinto y comprensible, evitando jergas y el uso de términos técnicos cuando puedan emplearse en su lugar palabras de uso cotidiano.
+c) No deberá ser engañosa y deberá garantizarse la coherencia en el vocabulario y contenido.
+d) Tendrá una presentación que permita su fácil lectura.
+e) Estará disponible, al menos, en castellano.
+f) Se facilitará de forma gratuita.
+3. Reglamentariamente se regularán los términos, el contenido y los medios de suministro de la información, tanto con ocasión de la incorporación al plan como con carácter periódico y en caso de movilización de derechos a otro plan y de movilización del plan a otro fondo de pensiones, así como el acceso a las especificaciones del plan, a las normas de funcionamiento, política de inversión y cuentas anuales del fondo de pensiones y cualquier información complementaria que deba facilitarse con carácter general o a solicitud del partícipe o beneficiario.
+En todo caso se proporcionará a los partícipes potenciales, a los partícipes y a los beneficiarios de los planes de pensiones la información relativa al tratamiento de sus datos prevista en la normativa sobre protección de datos personales.
+Se añade por el art. 212.1 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+## CAPÍTULO IV
+
+Constitución y régimen de organización de los fondos de pensiones
+
+### Artículo 11
+
+Artículo 11. Constitución de los fondos de pensiones.
+1. Los fondos de pensiones se constituirán, previa autorización administrativa del Ministerio de Economía y Hacienda, en escritura pública otorgada por las entidades promotora o promotoras, gestora, depositaria y se inscribirán en el Registro Mercantil y en el Registro especial administrativo establecido al efecto. Los fondos de pensiones carecerán de personalidad jurídica y serán administrados y representados conforme a lo dispuesto en esta Ley.
+2. La escritura de constitución del fondo de pensiones deberá contener necesariamente las siguientes menciones:
+a) La denominación o razón social y el domicilio de la entidad o entidades promotoras, de la gestora y depositaria, así como la identificación de las personas que actúan en su representación en el otorgamiento.
+b) La denominación del fondo, que deberá ser seguida, en todo caso, de la expresión “fondo de pensiones”.
+c) Las normas de funcionamiento del fondo, que especificarán, al menos:
+1.º El ámbito de actuación del fondo expresando su categoría como personal o de empleo conforme a lo previsto en el apartado 7 de este artículo.
+2.º El procedimiento para la elección y renovación y la duración del mandato de los miembros de la comisión de control del fondo, así como el funcionamiento de ésta.
+3.º La política de inversiones de los recursos aportados al fondo.
+4.º Los criterios de imputación de resultados, de conformidad con lo dispuesto en la presente ley y en su normativa de desarrollo.
+5.º Los sistemas actuariales que pueden utilizarse en la ejecución de los planes de pensiones.
+6.º La comisión máxima que haya de satisfacerse a la entidad gestora.
+7.º Las normas de distribución de los gastos de funcionamiento a que se refiere el apartado 6 del artículo 14 de esta Ley.
+8.º Los requisitos para la modificación de las normas de funcionamiento y para la sustitución de las entidades gestora y depositaria de conformidad con lo establecido en el artículo 23 de esta Ley.
+9.º Las normas que hayan de regir la disolución y liquidación del fondo.
+10.º Las condiciones de movilización de las cuentas de posición de los planes de pensiones y los criterios de cuantificación de éstas.
+11.º Cualesquiera otros contenidos mínimos que se establezcan reglamentariamente.
+3. Con carácter previo a la constitución del fondo el promotor o promotores deberán solicitar de la Dirección General de Seguros y Fondos de Pensiones la autorización administrativa del proyecto, a cuyos términos se acomodará, en su caso, la escritura de constitución. El otorgamiento de la autorización en ningún caso podrá ser título que cause la responsabilidad de la Administración del Estado.
+4. Dentro del plazo de tres meses contados desde la notificación de la autorización administrativa previa deberá formalizarse la escritura de constitución del fondo y solicitar su inscripción en el Registro Mercantil, de conformidad con lo dispuesto en el artículo 11 bis de esta Ley. En caso contrario, transcurrido dicho plazo, quedará sin efecto la autorización previa concedida, salvo causa debidamente justificada. Una vez inscrito el fondo en el Registro Mercantil, el registrador lo comunicará a la Dirección General de Seguros y Fondos de Pensiones para su inscripción en el Registro Administrativo Especial de Fondos de Pensiones conforme al procedimiento establecido en el artículo 11 bis.
+La inscripción en el Registro administrativo exige el previo cumplimiento de todos los requisitos de constitución exigidos por esta Ley y sus normas de desarrollo.
+La inscripción o denegación de la inscripción del fondo de pensiones en el Registro administrativo se realizará por resolución motivada de la Dirección General de Seguros y Fondos de Pensiones.
+Ningún fondo de pensiones podrá integrar planes de pensiones con anterioridad a su inscripción en el Registro administrativo.
+5. Se crearán en la Dirección General de Seguros y Fondos de Pensiones el Registro administrativo de fondos de pensiones y el de Entidades Gestoras de Fondos de Pensiones. Los fondos de pensiones se inscribirán necesariamente en el Registro administrativo, en el que se hará constar la escritura de constitución y las modificaciones posteriores. Además, se deberá hacer constar en el Registro administrativo el plan o planes de pensiones integrados en el fondo de pensiones, así como las sucesivas incidencias que les afecten.
+Las modificaciones posteriores de las normas de funcionamiento del fondo de pensiones no requerirán autorización administrativa previa, si bien, los acuerdos de modificación deberán comunicarse a la Dirección General de Seguros y Fondos de Pensiones acompañando certificación de los mismos, y, posteriormente, una vez otorgada la escritura pública correspondiente, deberá presentarse ésta para su inscripción en el Registro Mercantil y en el Registro administrativo de Fondos de Pensiones conforme a lo previsto en el artículo 11 bis.
+Lo establecido en el párrafo anterior será igualmente aplicable para el cambio de denominación del fondo de pensiones y para la sustitución o nueva designación de entidad gestora, depositaria o promotora del fondo.
+6. Queda reservada la denominación de “fondo de pensiones”, así como sus siglas, a los constituidos conforme a este artículo, sin perjuicio de los constituidos conforme a la legislación de otros Estados miembros previstos en la sección tercera del Capítulo X de esta Ley.
+7. Los fondos de pensiones se encuadrarán necesariamente en una de las dos categorías siguientes:
+a) Fondos de pensiones de empleo, cuyo ámbito de actuación se limitará al desarrollo de planes de pensiones del sistema de empleo exclusivamente.
+b) Fondos de pensiones personales, cuyo ámbito de actuación se limitará al desarrollo de planes de pensiones del sistema asociado o individual.
+8. Podrán constituirse fondos de pensiones que instrumenten un único plan de pensiones.
+9. En relación con los procesos de inversión desarrollados, los fondos de pensiones podrán encuadrarse dentro de dos tipos:
+a) Fondo cerrado, que instrumenta exclusivamente las inversiones del plan o planes de pensiones integrados en él.
+b) Fondo abierto, caracterizado por poder canalizar las inversiones de otros fondos de pensiones y de planes de pensiones adscritos a otros fondos de acuerdo con lo previsto en el artículo 11 ter.
+10. En los fondos de pensiones que integran planes de pensiones de prestación definida podrá requerirse la constitución de un patrimonio inicial mínimo, según niveles fijados reglamentariamente, en razón de las garantías exigidas para su correcto desenvolvimiento financiero.
+Téngase en cuenta que esta última actualización de los apartados 9 y 10 establecida por la disposición final 4.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción anterior:
+ "9. En relación con los procesos de inversión desarrollados, los fondos de pensiones podrán encuadrarse dentro de dos tipos:
+ a) Fondo abierto, caracterizado por poder canalizar las inversiones de otros fondos de pensiones.
+ b) Fondo cerrado, que instrumenta exclusivamente las inversiones del plan o planes de pensiones integrados en él.
+ 10. En los fondos de pensiones que integran planes de pensiones de prestación definida y en los fondos de pensiones abiertos podrá requerirse la constitución de un patrimonio inicial mínimo, según niveles fijados reglamentariamente, en razón de las garantías exigidas para su correcto desenvolvimiento financiero."
+Se modifican los apartado 9 y 10 por la disposición final 4.3 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se modifica por la disposición final 13.3 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 6 por el art. único.2 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 11 bis
+
+Artículo 11 bis. Inscripción de los fondos de pensiones en el Registro Mercantil y coordinación con el Registro Administrativo de Fondos de Pensiones.
+1. En el Registro Mercantil se abrirá a cada fondo de pensiones una hoja de inscripción en la que se inscribirá:
+a) La constitución del fondo de pensiones.
+b) Los acuerdos de delegación de facultades de representación del fondo.
+c) Los acuerdos de cambio de denominación del fondo y de modificación de sus normas de funcionamiento.
+d) El cese, renuncia y sustitución de las entidades promotora, gestora y depositaria del fondo.
+e) Los nombramientos y ceses de los miembros de la comisión de control del fondo.
+f) La disolución y liquidación del fondo de pensiones.
+g) Las medidas administrativas que afecten a la entidad gestora o a sus administradores, al fondo o a alguno de los planes integrados en el, o a las comisiones de control.
+h) En general, los actos y contratos que modifiquen el contenido de los asientos practicados o cuya inscripción esté prevista por disposiciones con rango de ley.
+Las normas de funcionamiento y las cuentas anuales del fondo de pensiones serán objeto de depósito en el Registro Mercantil. No se practicará asiento alguno posterior al de la letra a) salvo las previstas en la letra g) anterior, mientras no se extienda al margen del mismo nota acreditativa de la inscripción del fondo en el registro administrativo de fondos de pensiones. Dentro de los cuatro meses siguientes a la fecha del asiento de constitución del fondo en el Registro Mercantil, sin que conste su inscripción en el Registro Administrativo o, en su caso, sin que se haya interpuesto recurso contra la resolución denegatoria, expresa o por silencio, caducará aquél asiento y podrá ser cancelado de oficio por nota marginal.
+2. La constitución del fondo de pensiones, las modificaciones de las normas de funcionamiento, la sustitución de entidad promotora, gestora o depositaria, y la disolución y liquidación del fondo, se inscribirán en el Registro Mercantil en virtud de escritura pública.
+Para los demás actos bastarán certificaciones de los acuerdos correspondientes expedidas por el órgano de administración o apoderado de la entidad gestora.
+En el caso de escrituras públicas, el notario las remitirá de forma telemática al Registro Mercantil del domicilio social de la entidad gestora del fondo para su inscripción, salvo que alguna de las partes intervinientes en el otorgamiento no le autorice para ello. En este caso, el notario entregará una copia electrónica de la escritura pública a la entidad gestora, quien deberá remitirla por medios telemáticos con firma electrónica al Registro Mercantil para su inscripción.
+Cuando se trate de certificaciones de acuerdos, éstas serán remitidas al Registro Mercantil por la entidad gestora de forma telemática con firma electrónica.
+En las remisiones telemáticas de escrituras públicas y certificaciones a que se refiere este apartado se acompañará la documentación adicional que, en su caso, se establezca reglamentariamente, y se observarán los requisitos previstos en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+Para la inscripción de la constitución del fondo se incorporará copia electrónica de la escritura de constitución y los documentos de los que resulte la preceptiva autorización administrativa previa, la obtención del número de identificación fiscal, y la certificación negativa de denominación expedida por el Registro Mercantil Central.
+El notario autorizante de la escritura de constitución del fondo de pensiones solicitará telemáticamente a la Agencia Estatal de Administración Tributaria la asignación provisional de un Número de Identificación Fiscal.
+Una vez inscrito el fondo de pensiones en el Registro Mercantil, el encargado del mismo notificará telemáticamente a la Agencia Estatal de la Administración Tributaria la inscripción del fondo. La Agencia Estatal de la Administración Tributaria notificará telemáticamente al notario y al registrador mercantil el carácter definitivo del Número de Identificación Fiscal.
+Asimismo, el notario autorizante de la escritura de constitución o de cambio de denominación del fondo solicitará telemáticamente al Registro Mercantil Central el certificado negativo de denominación, salvo petición expresa en contrario de las partes intervinientes en cuyo caso será la entidad gestora quien lo solicite en modo telemático con firma electrónica. Recibida la solicitud, el Registro Mercantil Central expedirá también telemáticamente la certificación negativa o, en su caso, indicará la imposibilidad de su emisión.
+3. Una vez practicadas las correspondientes inscripciones, el Registrador Mercantil remitirá de oficio a la Dirección General de Seguros y Fondos de Pensiones por medio telemático una certificación autorizada con su firma electrónica, acreditativa de los asientos practicados, acompañada de la escritura pública, en su caso, y de la documentación que se establezca reglamentariamente.
+Cuando se trate de acuerdos sujetos a inscripción en el Registro Administrativo, la Dirección General de Seguros y Fondos de Pensiones, una vez recibida la certificación del Registrador Mercantil, procederá a su inscripción en aquél y lo notificará a la entidad gestora y al Registro Mercantil.
+Mediante resolución motivada la Dirección General de Seguros y Fondos de Pensiones podrá denegar la inscripción en el Registro Administrativo o requerir a las entidades la subsanación de la documentación y requisitos necesarios para la inscripción.
+4. El Colegio de Registradores habilitará modelos estandarizados de certificaciones, accesibles de forma gratuita por Internet u otros medios equivalentes de consulta telemática, que puedan ser utilizados para cumplimentar los trámites anteriormente indicados, aprobados por la Dirección General de los Registros y del Notariado previa consulta con la Dirección General de Seguros y Fondos de Pensiones.
+Se añade por la disposición final 13.4 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Téngase en cuenta la disposición transitoria 6.
+
+### Artículo 11 ter
+
+Artículo 11 ter. Fondos de pensiones abiertos.
+1. Podrán constituirse fondos de pensiones abiertos con el objeto de canalizar inversiones de otros fondos de pensiones y de planes de pensiones adscritos a otros fondos de pensiones de acuerdo con lo previsto en este artículo.
+Los fondos de pensiones abiertos se encuadrarán necesariamente en una de las categorías siguientes:
+a) Fondos de pensiones abiertos de empleo, destinados a canalizar inversiones de fondos de pensiones de empleo. En los términos que se establezcan reglamentariamente, los planes de pensiones del sistema de empleo también podrán canalizar recursos de su cuenta de posición a fondos de pensiones abiertos de empleo.
+b) Fondos de pensiones abiertos personales, destinados a canalizar inversiones de fondos de pensiones personales. En los términos que se establezcan reglamentariamente, los planes de pensiones del sistema individual y asociado también podrán canalizar recursos de su cuenta de posición a fondos de pensiones abiertos personales.
+Cada uno de los fondos de pensiones inversores y de los planes de pensiones inversores ostentará una cuenta de participación en el fondo abierto.
+La integración directa de planes de pensiones en fondos de pensiones abiertos será potestativa, debiendo ser en todo caso de la misma categoría de empleo o personal.
+2. En los fondos de pensiones abiertos de empleo se constituirá una Comisión de control del fondo formada por representantes de los fondos y planes de pensiones inversores, y en su caso, de los planes integrados directamente, que serán designados por las Comisiones de control de dichos fondos y planes entre sus miembros. En tanto exista un único fondo inversor o un único plan de pensiones inversor o integrado, la Comisión de control de éste ejercerá como Comisión de control del fondo de pensiones abierto.
+En los fondos de pensiones abiertos personales no será precisa la constitución de una Comisión de control del fondo abierto, correspondiendo, en su caso, a la entidad gestora las funciones que la normativa atribuye a aquella.
+La Comisión de control del fondo de pensiones abierto se regirá por lo dispuesto en el artículo 14 y las normas que lo desarrollen reglamentariamente, entendiendo, en su caso, realizadas a fondos de pensiones inversores o planes de pensiones inversores las referencias a planes de pensiones.
+Los gastos de funcionamiento de la Comisión de control del fondo de pensiones abierto se soportarán por el fondo, si bien, podrá acordarse su asunción total o parcial por las entidades gestoras o depositarias o promotoras de los planes de pensiones.
+3. Para la constitución de un fondo de pensiones abierto se precisará el acuerdo de las entidades gestora y depositaria.
+Los fondos de pensiones abiertos se constituirán, previa autorización administrativa, de acuerdo con el procedimiento regulado en los artículos 11 y 11 bis con las especificaciones que, en su caso, se establezcan reglamentariamente. Su denominación deberá ir seguida, en todo caso, de la expresión «fondo de pensiones abierto».
+La escritura pública de constitución del fondo de pensiones abierto deberá incluir sus normas de funcionamiento en las que se especificará su ámbito de actuación expresando su objeto como fondo abierto, su categoría de empleo o personal y los contenidos mínimos previstos en el artículo 11.2.c), en lo que sean de aplicación, entendiendo en su caso realizada a cuentas de participación la referencia a cuentas de posición.
+Un fondo de pensiones cerrado de empleo o personal podrá convertirse en fondo de pensiones abierto, en los términos establecidos reglamentariamente.
+4. Los fondos de pensiones abiertos se regirán por las disposiciones de esta Ley y sus normas de desarrollo relativas a fondos de pensiones que no sean específicas de los fondos de empleo o personales destinados exclusivamente a integrar planes de pensiones, entendiendo, en su caso, realizadas a fondos de pensiones inversores o planes de pensiones inversores las referencias a planes de pensiones.
+Reglamentariamente podrán regularse requisitos y condiciones específicos para la actividad y funcionamiento de los fondos de pensiones abiertos y, en particular, se podrá exigir un patrimonio mínimo.
+Serán aplicables a los fondos de pensiones abiertos las disposiciones del capítulo IX entendiendo realizadas, en su caso, a los fondos de pensiones inversores y planes de pensiones inversores las referencias a planes de pensiones.
+Téngase en cuenta que este artículo añadido por la disposición final 4.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se establece en su disposición final 21.1
+Se añade por la disposición final 4.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+### Artículo 12
+
+Artículo 12. Responsabilidad.
+1. Los acreedores de los fondos de pensiones no podrán hacer efectivos sus créditos sobre los patrimonios de los promotores de los planes y de los partícipes, cuya responsabilidad está limitada a sus respectivos compromisos de aportación a sus planes de pensiones adscritos.
+2. El patrimonio de los fondos no responderá por las deudas de las entidades promotora, gestora y depositaria.
+
+### Artículo 13
+
+Artículo 13. Administración de los fondos de pensiones.
+Los fondos de pensiones serán administrados con las limitaciones establecidas en el artículo 14, por una entidad gestora con el concurso de un depositario y bajo la supervisión de una comisión de control, en la forma que reglamentariamente se determine.
+
+### Artículo 14
+
+Artículo 14. Comisión de control del fondo de pensiones.
+1. En los fondos de pensiones se constituirá una comisión de control del fondo cuya composición se ajustará a las siguientes condiciones:
+a) En el caso de los fondos de pensiones que integren planes de pensiones del sistema de empleo sólo podrán integrar planes de esta modalidad.
+Si un mismo fondo instrumenta varios planes de pensiones de empleo, su comisión de control podrá formarse con representantes de cada uno de los planes o mediante una representación conjunta de los planes de pensiones integrados en el mismo.
+Si el fondo integra un único plan de pensiones de empleo, la comisión de control del plan ejercerá las funciones de la comisión de control del fondo.
+b) En los fondos de pensiones distintos de los contemplados en el párrafo a) anterior, la comisión de control se formará con representantes de cada uno de los planes adscritos al mismo.
+En el caso de planes de pensiones del sistema asociado dichos representantes serán designados por las respectivas comisiones de control de los planes. Si el fondo integra un único plan del sistema asociado, la comisión de control del plan ejercerá las funciones de comisión de control del fondo.
+En el caso de los planes del sistema individual dichos representantes serán designados por las respectivas entidades promotoras de los planes. A tal efecto, si entre los planes adscritos al fondo hubiese dos o más planes del sistema individual promovidos por la misma entidad promotora, ésta podrá designar una representación conjunta de dichos planes en la comisión de control del fondo.
+Si el fondo integra exclusivamente uno o varios planes del sistema individual promovidos por la misma entidad, no será precisa la constitución de una comisión de control del fondo, correspondiendo en tal caso al promotor del plan o planes las funciones y responsabilidades asignadas por esta normativa a dicha comisión.
+2. Las funciones de la comisión de control del fondo de pensiones son, entre otras:
+a) Supervisión del cumplimiento de los planes adscritos.
+b) Control de la observancia de las normas de funcionamiento, del propio fondo y de los planes.
+c) Nombramiento de los expertos cuya actuación esté exigida en la presente Ley, sin perjuicio de las facultades previstas dentro de cada plan de pensiones.
+d) Propuesta y, en su caso, decisión en las demás cuestiones sobre las que la presente Ley le atribuye competencia.
+Podrá recabar de las entidades gestora y depositaria la información que resulte pertinente para el ejercicio de sus funciones.
+e) Representación del fondo, pudiendo delegar en la entidad gestora para el ejercicio de sus funciones.
+f) Examen y aprobación de la actuación de la entidad gestora en cada ejercicio económico, exigiéndole, en su caso, la responsabilidad prevista en el artículo 22 de esta Ley.
+g) Sustitución de la entidad gestora o depositaria, en los términos previstos en el artículo 23.
+h) Suspensión de la ejecución de actos y acuerdos contrarios a los intereses del fondo.
+i) En su caso, aprobación de la integración en el fondo de nuevos planes de pensiones.
+j) Establecer su sistema de gobierno y el sistema de control interno, que faciliten la gestión de la actividad y, en especial, el cumplimiento de las obligaciones en materia de gestión de riesgos, auditoría interna y, en su caso, actuarial conforme al tamaño, la naturaleza, la escala y la complejidad de las actividades del fondo de pensiones.
+k) Ser oída, con carácter preceptivo, en los procesos de externalización de funciones o actividades por parte de la gestora recogidas en el artículo 30 sexies.
+3. Por razones de heterogeneidad en los tipos de planes de pensiones adscritos a un mismo fondo o de dimensión de éste, podrá arbitrarse la constitución, en el seno de la comisión de control, de subcomisiones que operarán según áreas homogéneas de planes o según modalidades de inversión.
+4. El cargo de vocal de una comisión será temporal y gratuito. En las normas de funcionamiento del fondo se consignará el procedimiento para la elección y renovación de sus miembros, la duración de su mandato, así como los casos y formas en que deba reunirse la mencionada comisión de control del fondo.
+5. Una vez elegidos los miembros de la comisión de control del fondo, designarán entre sí a quienes hayan de ejercer la presidencia y la secretaría. La Comisión quedará válidamente constituida cuando, debidamente convocados, concurra la mayoría de sus miembros, y adoptará sus acuerdos por mayoría, teniendo en cuenta lo previsto en el párrafo siguiente.
+En el caso de que el fondo integre varios planes de pensiones, se ponderará el voto de los representantes designados por cada plan en atención a su número y a la parte de interés económico que el plan tenga en el fondo o, en su caso, el interés económico del conjunto de planes del sistema individual del mismo promotor si éste hubiere designado una representación conjunta de sus planes.
+6. Se soportarán por el fondo los gastos de funcionamiento de la comisión de control, si bien podrá acordarse su asunción total o parcial por las entidades promotoras.
+No obstante lo anterior, si el fondo integra planes del sistema individual, tales gastos serán de cuenta de los promotores.
+Se suprime el apartado 7 y se añaden las letras j) y k) al apartado 2 por el art. 212.2 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade el apartado 7 por la disposición final 11 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+ Téngase en cuenta lo establecido por la disposición final 12.2.
+
+### Artículo 15
+
+Artículo 15. Disolución y liquidación de los fondos de pensiones.
+1. Procederá la disolución de los fondos de pensiones:
+a) Por revocación de la autorización administrativa al fondo de pensiones.
+b) Por la paralización de su comisión de control, de modo que resulte imposible su funcionamiento, en los términos que se fijen reglamentariamente.
+c) Por concurrir los supuestos previstos en el artículo 23 de esta Ley.
+d) Por decisión de la comisión de control del fondo, o si ésta no existiere, si así lo deciden de común acuerdo su promotor, entidad gestora y depositaria.
+e) Por cualquier otra causa establecida en sus normas de funcionamiento.
+2. Una vez disuelto el fondo de pensiones se abrirá el período de liquidación, añadiéndose a su denominación las palabras "en liquidación", y realizándose las correspondientes operaciones conjuntamente por la comisión de control del fondo y la entidad gestora en los términos que reglamentariamente se determinen.
+Será admisible que las normas del fondo de pensiones prevean que, en caso de liquidación del mismo, todos los planes deban integrarse en un único fondo de pensiones.
+En todo caso, serán requisitos previos a la extinción de los fondos de pensiones la garantía individualizada de las prestaciones causadas y la continuación de los planes de pensiones vigentes a través de otro u otros fondos de pensiones ya constituidos o a constituir.
+3. El acuerdo de disolución del fondo de pensiones se comunicará a la Dirección General de Seguros y Fondos de Pensiones y se inscribirá en el Registro Mercantil y en el Registro Administrativo conforme a lo establecido en el artículo 11.bis de esta Ley. El Registrador Mercantil remitirá de oficio, de forma telemática y sin coste adicional alguno, el acuerdo de disolución del fondo al Boletín Oficial del Registro Mercantil para su publicación. Además la entidad gestora deberá publicar el acuerdo en su página web o, en su defecto, en uno de los diarios de mayor circulación del lugar del domicilio social de dicha entidad.
+Ultimada la liquidación, tras haber dado cumplimiento a lo preceptuado en el párrafo tercero del apartado 2 precedente, los liquidadores deberán solicitar del Registrador Mercantil y de la Dirección General de Seguros y Fondos de Pensiones la cancelación respectiva de los asientos referentes al fondo de pensiones extinguido.
+Se modifica el apartado 3 por la disposición final 13.5 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+## CAPÍTULO V
+
+Régimen financiero de los fondos de pensiones
+
+### Artículo 16
+
+Artículo 16. Inversiones de los fondos de pensiones.
+1. El activo de los fondos de pensiones estará invertido de acuerdo con criterios de seguridad, rentabilidad, diversificación y de plazos adecuados a sus finalidades.
+Reglamentariamente se establecerá el límite mínimo, no inferior al 70 por ciento del activo del fondo, que se invertirá en activos financieros contratados en mercados regulados, en depósitos bancarios, en créditos con garantía hipotecaria y en inmuebles.
+2. Reglamentariamente podrán fijarse porcentajes mínimos o máximos de inversión en determinadas categorías generales de inversiones en que se materialice el activo de los fondos de pensiones, con el fin de asegurar su liquidez o solvencia y sin que, en ningún caso, puedan entrañar obligaciones de invertir en activos financieros específicos cuya rentabilidad no se adecue a las condiciones generales de los mercados financieros.
+3. La inversión en activos extranjeros se regulará por la legislación correspondiente, computándose en el porcentaje indicado a su naturaleza.
+Reglamentariamente podrán establecerse normas de congruencia monetaria entre las monedas de realización de las inversiones de los fondos de pensiones y las monedas en que han de satisfacerse sus compromisos.
+4. Reglamentariamente se establecerán porcentajes y criterios de diversificación de las inversiones en valores emitidos o avalados por una misma entidad o de entidades pertenecientes a un mismo grupo.
+Los porcentajes de diversificación se establecerán sobre el valor nominal de los títulos emitidos o avalados por las entidades de referencia, incluyéndose, en su caso, los créditos otorgados a ellas o avalados por las mismas.
+Reglamentariamente se podrán establecer porcentajes de diversificación sobre el activo del fondo de pensiones para determinados tipos de inversiones, en función de sus características, en instituciones de inversión colectiva, en inmuebles, en valores no cotizados en mercados organizados, especialmente de pequeñas y medianas empresas y en capital riesgo.
+Asimismo, reglamentariamente se podrán establecer limitaciones a las inversiones de los fondos de pensiones en activos financieros que figuren en el pasivo de entidades promotoras de los planes de pensiones adscritos al fondo, de las entidades gestoras y depositarias de los mismos o de entidades pertenecientes al mismo grupo de cualquiera de ellas o aquéllas.
+Los porcentajes de diversificación previstos en este apartado no serán de aplicación a los activos o títulos emitidos o avalados por el Estado o sus Organismos autónomos, por las Comunidades Autónomas, Corporaciones Locales o por Administraciones públicas equivalentes de Estados pertenecientes a la OCDE, o por las Instituciones u Organismos internacionales de los que España sea miembro y por aquellos otros que así resulte de compromisos internacionales que España pueda asumir.
+5. A los efectos de este artículo, se considerarán pertenecientes a un mismo grupo las sociedades que se encuentren en los supuestos contemplados en el artículo 4 de la Ley 24/1988, de 28 de junio, del Mercado de Valores.
+Cuando la pertenencia a un mismo grupo sea una circunstancia sobrevenida con posterioridad a la inversión, el fondo deberá regularizar la composición de su activo en un plazo de un año.
+En el caso de fondos de pensiones administrados por una misma entidad gestora o por distintas entidades gestoras pertenecientes al mismo grupo de sociedades, el Gobierno podrá disponer que las limitaciones establecidas en el apartado 4 anterior se calculen también con relación al balance consolidado de dichos fondos.
+6. Los tipos de interés de los depósitos de los fondos de pensiones serán libres.
+7. En todo caso, se evitará la dependencia exclusiva y automática de las calificaciones crediticias en las políticas de inversión de los fondos de pensiones gestionados.
+Reglamentariamente podrán establecerse las obligaciones de las entidades gestoras para la adecuada gestión del riesgo. En particular, las gestoras al evaluar la solvencia de los activos de los fondos de pensiones, no dependerán, de manera exclusiva y automática, de las calificaciones crediticias emitidas por las agencias de calificación crediticia definidas en el artículo 3.1.b), del Reglamento 1060/2009 del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009.
+8. La comisión de control del fondo de pensiones, con la participación de la entidad gestora, elaborará por escrito una declaración comprensiva de los principios de su política de inversión, que será revisada al menos cada tres años y en todo caso inmediatamente después de que se produzcan cambios significativos en la política de inversión. A dicha declaración se le dará suficiente publicidad.
+Esta declaración mencionará cuestiones como los métodos de medición del riesgo de inversión y los procesos de gestión del control de riesgos empleados, así como la asignación de activos con respecto a la naturaleza y duración de sus compromisos en concepto de pensiones.
+Asimismo, en el caso de los fondos de pensiones de empleo, se deberá indicar si se tienen en consideración, en las decisiones de inversión, los criterios de inversión socialmente responsable (éticos, sociales, medioambientales y de buen gobierno) que afectan a los diferentes activos que integran el fondo de pensiones.
+De la misma manera, la comisión de control del fondo de pensiones de empleo, o en su caso la entidad gestora, deberá dejar constancia en el informe de gestión anual del fondo de pensiones de empleo de la política ejercida en relación con los criterios de inversión socialmente responsable anteriormente señalados, así como del procedimiento seguido para su implantación, gestión y seguimiento.
+9. La comisión de control del fondo de pensiones, con la participación de la entidad gestora, elaborará por escrito una declaración de Estrategia de Inversión a largo plazo. A dicha declaración se le dará suficiente publicidad.
+El contenido mínimo se determinará reglamentariamente, e incluirá información relativa a cómo los elementos principales de su estrategia de inversión en sociedades cuyas acciones estén admitidas a negociación en un mercado regulado que esté situado u opere en un Estado miembro, son coherentes con el perfil y la duración de sus pasivos, en particular sus pasivos a largo plazo, y a la manera en que contribuyen al rendimiento a medio y largo plazo de sus activos.
+Se añaden los apartados 8 y 9 por el art. 212.3 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade el apartado 7 por la disposición final 2.1 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica el apartado 1 por el art. 87 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+### Artículo 17
+
+Artículo 17. Condiciones generales de las operaciones.
+1. Por los fondos de pensiones se realizarán las operaciones sobre activos financieros admitidos a cotización en Bolsa o en un mercado organizado de los citados en el apartado 1 del artículo 16, de forma que incidan de manera efectiva en los precios con la concurrencia de ofertas y demandas plurales, salvo que la operación pueda realizarse en condiciones más favorables para el fondo que de las resultantes del mercado.
+2. En general, los fondos de pensiones no podrán otorgar crédito a los partícipes de los planes de pensiones adscritos, salvo en los casos excepcionales que se señalen reglamentariamente.
+3. La adquisición y enajenación de bienes inmuebles deberán ir precedidas necesariamente de su tasación, realizada en la forma prevista en la Ley de Regulación del Mercado Hipotecario y su legislación complementaria.
+4. Las entidades gestora y depositaria de un fondo de pensiones, así como sus consejeros y administradores, y los miembros de la comisión de control, no podrán comprar ni vender para sí elementos de los activos del fondo ni directamente ni por persona o entidad interpuesta. Análoga restricción se aplicará a la contratación de créditos.
+5. Los bienes de los fondos de pensiones sólo podrán ser objeto de garantía para asegurar el cumplimiento de las obligaciones del fondo, en los términos que se establezcan reglamentariamente.
+
+### Artículo 18
+
+Artículo 18. Obligaciones frente a tercero.
+Las obligaciones frente a tercero no podrán exceder en ningún caso del 5 por ciento del activo del fondo.
+No se tendrán en cuenta a estos efectos los débitos contraídos en la adquisición de elementos patrimoniales en el período que transcurra hasta la liquidación total de la correspondiente operación, ni los existentes frente a los beneficiarios hasta el momento del pago de las correspondientes prestaciones.
+
+### Artículo 19
+
+Artículo 19. Cuentas anuales.
+1. Dentro del primer cuatrimestre de cada ejercicio económico las entidades gestoras de fondos de pensiones deberán:
+a) Formular y someter a aprobación de los órganos competentes las cuentas anuales de la entidad gestora, debidamente auditadas en los términos del apartado 4 siguiente, y presentar la documentación e información citada a la Dirección General de Seguros y Fondos de Pensiones y a las comisiones de control del fondo y de los planes de pensiones adscritos al fondo.
+b) Formular el balance, la cuenta de pérdidas y ganancias y la memoria explicativa del ejercicio anterior del fondo o fondos administrados, debidamente auditados con arreglo al párrafo a), someter dichos documentos a la aprobación de la comisión de control del fondo respectivo, quien podrá dar a la misma la difusión que estimen pertinente, y presentar la documentación e información de dicho fondo o fondos del mismo modo que regula el párrafo precedente.
+2. Dentro de primer semestre de cada ejercicio económico, las entidades gestoras deberán publicar, para su difusión general, los documentos mencionados en el apartado 1.
+3. Reglamentariamente se fijarán las normas de valoración de los activos de los fondos de pensiones, los criterios para la formación de su cuenta de resultados y el sistema de asignación de los mismos a los planes adscritos al fondo.
+4. Los documentos citados en el párrafo a) del apartado 1 deberán ser auditados por expertos o sociedades de expertos que cumplan los requisitos que se señalen reglamentariamente. Los informes de auditoría deberán abarcar los aspectos contables financieros y actuariales, incluyendo un pronunciamiento expreso en lo relativo al cumplimiento de lo previsto al respecto en esta Ley y en su desarrollo reglamentario.
+5. El Ministerio de Economía podrá exigir a las entidades gestoras de fondos de pensiones la realización de auditorías externas excepcionales, con el alcance que considere necesario.
+6. El Ministerio de Economía establecerá los modelos de balance, cuenta de resultados y demás estados contables de los fondos de pensiones y de sus entidades gestoras, así como los criterios de contabilización y valoración en cuanto no estén determinados por disposiciones del Gobierno.
+7. El Ministerio de Economía podrá recabar de las entidades gestoras y de las depositarias cuantos datos contables y estadísticos, públicos o reservados, referentes a las mismas y a los fondos de pensiones administrados por ellas, estén relacionados con sus funciones de inspección y tutela, y señalará la periodicidad con que dicha información deberá elaborarse y los plazos máximos para su entrega al Ministerio.
+8. El Ministerio de Economía dispondrá la publicidad que, en su caso, deba darse, con carácter agregado o individual, a los datos citados en el apartado 7, con el objeto de promover una información frecuente, rápida y suficiente en favor de los partícipes y beneficiarios o de las comisiones de control de los planes de pensiones de empleo.
+Las entidades gestoras deberán facilitar a los partícipes y beneficiarios de los planes de pensiones, al menos con carácter trimestral, información sobre la evolución y situación de sus derechos económicos en el plan, así como sobre otros extremos que pudieran afectarles, especialmente las modificaciones normativas, cambios de las especificaciones del plan, de las normas de funcionamiento del fondo o de su política de inversiones, y de las comisiones de gestión y depósito.
+En los planes de pensiones del sistema de empleo esta información se facilitará en los términos previstos en sus especificaciones o en las condiciones acordadas por la comisión de control del plan.
+El Ministerio de Economía podrá regular el contenido, requisitos y condiciones de la referida información en la medida que se estime necesario para garantizar una información adecuada a los intereses de los partícipes y beneficiarios.
+9. Las comisiones de control de los planes de pensiones podrán solicitar del Ministerio de Economía información sobre datos, referentes al fondo de pensiones al que estén adscritos o a su entidad gestora o depositaria, no previamente publicados y que estén en poder del Ministerio o que éste pueda recabar.
+10. Las entidades citadas en el apartado 2 de este artículo están sujetas al cumplimiento de las obligaciones de información previstas en el ordenamiento jurídico.
+
+## CAPÍTULO VI
+
+Entidades gestoras y depositarias de fondos de pensiones
+
+### Artículo 20
+
+Artículo 20. Entidades gestoras.
+1. Podrán ser entidades gestoras de fondos de pensiones las sociedades anónimas que, habiendo obtenido autorización administrativa previa, reúnan los siguientes requisitos:
+a) Tener un capital desembolsado mínimo de 600.000 euros.
+Adicionalmente, los recursos propios deberán incrementarse en los tantos por mil del activo total del fondo o fondos gestionados que se señalan a continuación:
+El 5 por mil del activo total cuando éste no exceda de 60 millones de euros.
+El 3 por mil de lo que exceda de 60 millones hasta 600 millones de euros
+El 2 por mil de lo que exceda de 600 millones hasta 3.000 millones de euros
+El 1 por mil de lo que exceda de 3.000 millones hasta 6.000 millones de euros
+El 0,5 por mil de lo que exceda de 6.000 millones de euros.
+A estos efectos, se computarán como recursos propios el capital social desembolsado y las reservas que se determinen reglamentariamente.
+En caso de que el fondo o los fondos de pensiones gestionados inviertan en fondos de pensiones abiertos, para calcular los recursos propios exigibles se deducirá del activo total de los fondos de pensiones inversores la parte correspondiente a las inversiones de éstos en fondos de pensiones abiertos que estén a su vez gestionados por la misma entidad gestora. Asimismo, se descontarán del activo total de los fondos gestionados las deudas de los promotores de los planes de pensiones de empleo adscritos.
+b) Sus acciones serán nominativas.
+c) Tener como objeto social y actividad exclusivos la administración de fondos de pensiones.
+d) No podrán emitir obligaciones ni acudir al crédito y tendrán materializado su patrimonio en los activos que reglamentariamente se determinen.
+e) Deberán estar domiciliadas en España.
+f) Deberán inscribirse en el Registro administrativo establecido en el apartado 5 del artículo 11 de esta Ley.
+g) A los socios les resultará de aplicación lo dispuesto en el artículo 36 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras. La idoneidad de quienes ostenten, directa o indirectamente, una participación significativa en la entidad gestora se evaluará en la forma que reglamentariamente se establezca. La persona titular del Ministerio de Asuntos Económicos y Transformación Digital podrá regular el contenido de la información y la documentación acreditativa que deberá remitirse a la Dirección General de Seguros y Fondos de Pensiones para la evaluación.
+2. También podrán ser entidades gestoras de fondos de pensiones las entidades aseguradoras autorizadas para operar en España en los seguros de vida, siempre que cumplan los requisitos previstos en los párrafos a), e) y f) del apartado anterior.
+El límite previsto en el párrafo a) del apartado anterior se entenderá aplicable, en su caso, al fondo mutual de las mutualidades de previsión social. El acceso de estas entidades a la gestión de fondos de pensiones se hará previa notificación al Ministerio de Economía.
+3. La denominación de entidad gestora de fondos de pensiones queda reservada exclusivamente a las entidades que cumplan los requisitos previstos en los apartados precedentes.
+4. Reglamentariamente se determinarán las condiciones en las que las entidades gestoras de fondos de pensiones podrán contratar la gestión de las inversiones de los fondos de pensiones que administran con terceras entidades autorizadas conforme a las siguientes Directivas:
+a) Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, por la que se coordinan las disposiciones legales, reglamentarias y administrativas sobre determinados organismos de inversión colectiva en valores mobiliarios.
+b) Directiva 2009/138/CE de 25 de noviembre de 2009, sobre el seguro de vida, el acceso a la actividad de seguro y de reaseguro y su ejercicio (Solvencia II).
+c) Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, relativa a los gestores de fondos de inversión alternativos y por la que se modifican las Directivas 2003/41/CE y 2009/65/CE y los Reglamentos (CE) n.º 1060/2009 y (UE) n.º 1095/2010.
+d) Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las Directivas 2006/48/CE y 2006/49/CE.
+e) Directiva 2014/65/UE de 15 de mayo de 2014 relativa a los mercados de instrumentos financieros y por la que se modifican la Directiva 2002/92/CE y la Directiva 2011/61/UE.
+Asimismo, podrá contratarse la gestión de las inversiones de los fondos de pensiones con otras entidades gestoras de fondos de pensiones autorizadas de acuerdo con esta Ley o con otras entidades gestoras de fondos de pensiones contempladas en el apartado 1 del artículo 2 de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, relativa a las actividades y supervisión de los fondos de pensiones de empleo.
+5. Las sociedades gestoras percibirán por su función una comisión de gestión dentro del límite fijado en las normas de funcionamiento del fondo y que no excederá del máximo que, como garantía de los intereses de los partícipes y beneficiarios de los planes de pensiones, pudiera establecer el Gobierno de la Nación.
+6. Será causa de disolución de las entidades gestoras de fondos de pensiones, además de las enumeradas en el artículo 363 del texto refundido de la Ley de Sociedades de Capital, aprobado por Real Decreto Legislativo 1/2010, de 2 de julio, la revocación de la autorización administrativa, salvo que la propia entidad renuncie a dicha autorización, viniendo tal renuncia únicamente motivada por la modificación de su objeto social para desarrollar una actividad distinta al objeto social exclusivo de administración de fondos de pensiones a que se refiere la letra c) del apartado 1 precedente.
+El acuerdo de disolución, además de la publicidad que previene el artículo 369 de la Ley de sociedades de capital, se inscribirá en el Registro Administrativo y se publicará en el "Boletín Oficial del Estado" y la entidad extinguida se cancelará en el Registro administrativo, además de dar cumplimiento a lo preceptuado en el artículo 396 de la Ley de Sociedades de Capital.
+No obstante lo anterior, la disolución, liquidación y extinción de las entidades aseguradoras autorizadas como gestoras de fondos de pensiones se regirá por la normativa específica de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+7. Los cambios de denominación, de domicilio y de los estatutos de las entidades gestoras no requerirán autorización administrativa previa, si bien, los acuerdos de modificación deberán comunicarse a la Dirección General de Seguros y Fondos de Pensiones acompañando certificación de los mismos, y, posteriormente, una vez otorgada e inscrita en el Registro Mercantil la escritura pública correspondiente, deberá presentarse ésta para su inscripción en el Registro administrativo.
+La fusión y escisión de entidades gestoras de fondos de pensiones requerirá autorización administrativa previa de la Dirección General de Seguros y Fondos de Pensiones en el ejercicio de sus funciones de supervisión sobre los requisitos y condiciones de actividad de las entidades gestoras de fondos de pensiones establecidos en esta Ley y en sus normas de desarrollo, debiendo cumplimentarse los requisitos y, en su caso, el procedimiento para la autorización e inscripción de la nueva o nuevas entidades gestoras resultantes.
+Lo anterior se entiende sin perjuicio de lo dispuesto en la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, en materia de notificaciones y procedimientos de autorización de concentraciones económicas y de las competencias atribuidas por dicha Ley a los órganos correspondientes de defensa de la competencia.
+Se modifica la letra g) del apartado 1 y el apartado 4 por el art. 212.4 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición transitoria 6 del citado Real Decreto-ley.
+ Se modifica la letra g) del apartado 1 y el apartado 6 por la disposición final 4.5 y 6 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se modifica el apartado 4 por la disposición final 2.2 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
+ Se modifica el apartado 1.a) y se añade el apartado 7 por la disposición final 13.6 y 7 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Téngase en cuenta la disposición transitoria 4.
+
+### Artículo 21
+
+Artículo 21. Entidades depositarias.
+1. La custodia o depósito de los valores mobiliarios y demás activos financieros integrados en los fondos de pensiones corresponderá a una entidad depositaria establecida en España. Podrán ser «entidades depositarias de fondos de pensiones» las entidades que reúnan los siguientes requisitos:
+a) Ser entidad de crédito conforme a la normativa vigente en materia de entidades de crédito.
+b) Tener en España su domicilio social o una sucursal.
+c) Tener como actividad autorizada la recepción de fondos del público en forma de depósito, cuentas corrientes u otras análogas que lleven aparejada la obligación de su restitución y, como depositarios de valores negociables y otros activos financieros, la custodia y administración por cuenta de sus titulares.
+d) Estar inscrita en el registro especial de «Entidades Depositarias de Fondos de Pensiones» del Ministerio de Economía y Hacienda.
+2. Cada fondo de pensiones tendrá una sola entidad depositaria, sin perjuicio de la posibilidad de que ésta pueda delegar sus funciones en otra entidad en los términos que reglamentariamente se determinen. En ningún caso la responsabilidad de la entidad depositaria se verá afectada en este supuesto.
+3. Las entidades depositarias ejercerán la función de custodia en los términos que reglamentariamente se determinen teniendo en cuenta la naturaleza de los activos del fondo. En especial, para aquellos activos que no sean susceptibles de ser depositados, la entidad depositaria mantendrá los certificados u otros documentos acreditativos, que justifiquen la posición declarada por la gestora.
+La responsabilidad por la función de custodia se extiende a la garantía de que la titularidad, pleno dominio y libre disposición de los valores mobiliarios y otros activos custodiados corresponde a los fondos de pensiones titulares de los mismos.
+4. Además de la función de custodia, ejercerán la vigilancia de la entidad gestora ante las entidades promotoras, partícipes y beneficiarios, debiendo verificar que las operaciones acordadas por las entidades gestoras se ajusten a las disposiciones legales y reglamentarias.
+En los términos que reglamentariamente se determine, las entidades depositarias podrán recabar de las entidades gestoras toda la información que precisen para el ejercicio de sus funciones, debiendo comunicar a la Dirección General de Seguros y Fondos de Pensiones aquellas anomalías de especial relevancia que pudieran ponerse de manifiesto a través de dicho control.
+5. Corresponde, en todo caso y de manera exclusiva a la entidad depositaria, la instrumentación de los cobros y pagos que pudieran derivarse por cualquier concepto del desarrollo de la actividad de planes y fondos de pensiones. A tal efecto, las entidades depositarias junto a las gestoras deberán establecer los mecanismos y procedimientos adecuados para garantizar que en ningún caso la realización de los cobros y pagos se hace sin su consentimiento.
+Además de su necesaria intervención en la liquidación de las operaciones sobre instrumentos financieros, la entidad depositaria podrá intervenir en la ejecución de las operaciones de compraventa cuando así lo haya acordado con la entidad gestora.
+6. En remuneración de sus servicios, los depositarios percibirán de los fondos las retribuciones que libremente pacten con las entidades gestoras, con la previa conformidad de la Comisión de Control del fondo, sin perjuicio de las limitaciones que puedan establecerse reglamentariamente.
+7. Nadie podrá ser al mismo tiempo gestor y depositario de un fondo de pensiones, salvo los supuestos que se prevean reglamentariamente en desarrollo del artículo 23 de esta Ley.
+Se modifica por la disposición final 13.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 22
+
+Artículo 22. Responsabilidad.
+Las entidades gestoras y las depositarias actuarán en interés de los fondos que administren o custodien, siendo responsables frente a las entidades promotoras, partícipes y beneficiarios de todos los perjuicios que se les causaren por el incumplimiento de sus respectivas obligaciones. Ambos están obligados a exigirse recíprocamente esta responsabilidad en interés de aquéllos.
+
+### Artículo 23
+
+Artículo 23. Sustitución de las entidades gestora o depositaria.
+1. La sustitución de las entidades gestora o depositaria procederá:
+a) A instancia de la propia entidad, previa presentación de la que haya de sustituirla. En tal caso será precisa la aprobación por la comisión de control del fondo y por la entidad gestora o depositaria que continúe en sus funciones del proyecto de sustitución que, cumpliendo los requisitos que se señalen en las normas de funcionamiento del fondo, se proponga a aquéllas en la forma y plazo que reglamentariamente se establezcan.
+Para proceder a la sustitución de la entidad gestora será requisito previo la realización y publicidad suficiente de la auditoría prevista en el artículo 19 de esta Ley y, en su caso, la constitución por la entidad cesante de las garantías necesarias para cubrir las responsabilidades de su gestión.
+b) Por decisión de la comisión de control del fondo de pensiones, que deberá designar simultáneamente una entidad dispuesta a hacerse cargo de la gestión o el depósito. En tanto no se produzca la correspondiente designación, la entidad afectada continuará en sus funciones.
+2. La renuncia unilateral a sus funciones por parte de las entidades gestoras o depositaria sólo surtirá efecto pasado un plazo de dos años contados desde su notificación fehaciente a la comisión de control del fondo de pensiones y previo cumplimiento de los requisitos de auditoría, publicidad y garantía a que se refiere el párrafo a) del apartado precedente. Si vencido el plazo no se designara una entidad sustitutiva, procederá la disolución del fondo de pensiones.
+3. La disolución, el procedimiento concursal de las entidades gestora o depositaria y su exclusión del Registro administrativo producirá el cese en la gestión o custodia del fondo de la entidad afectada. Si ésta fuese la entidad gestora, la gestión quedará provisionalmente encomendada a la entidad depositaria. Si la entidad que cesa en sus funciones fuese la depositaria, los activos financieros y efectivo del fondo serán depositados en el Banco de España. En ambos casos se producirá la disolución del fondo si en el plazo de un año no se designa nueva entidad gestora o depositaria.
+4. Los cambios que se produzcan en el control de las entidades gestoras y la sustitución de sus consejeros deberán ser puestos en conocimiento de las comisiones de control en la forma que reglamentariamente se establezca.
+
+## CAPÍTULO VII
+
+Ordenación y Supervisión
+Se modifica el título por el art. 212.5 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 24
+
+Artículo 24. Ordenación y supervisión administrativa.
+1. En los términos fijados en esta Ley y sus normas de desarrollo, corresponde a la persona titular del Ministerio de Asuntos Económicos y Transformación Digital y a la Dirección General de Seguros y Fondos de Pensiones el ejercicio de las competencias de ordenación y supervisión de la actividad de los planes y fondos de pensiones. En el ejercicio de sus competencias velarán por el correcto cumplimiento de las disposiciones legales y reglamentarias por parte de las entidades gestoras y depositarias de fondos de pensiones, las personas que ejerzan la dirección efectiva y las funciones claves previstas en esta ley, las entidades o personas en las que hayan delegado o externalizado funciones, los comercializadores de planes de pensiones individuales, los promotores de los planes de pensiones, las comisiones de control, los actuarios, los representantes de los fondos de pensiones autorizados o registrados en otros Estados miembros y cualesquiera personas o entidades para las que se establezca alguna función, prohibición o mandato en esta Ley y en sus normas de desarrollo y complementarias.
+La Dirección General de Seguros y Fondos de Pensiones formará parte, en su condición de autoridad supervisora española en materia de fondos de pensiones, de la Autoridad Europea de Seguros y Pensiones de Jubilación (AESPJ), conforme a lo dispuesto en el Reglamento n.º 1094/2010, de 24 de noviembre, del Parlamento Europeo y del Consejo, por el que se crea una Autoridad Europea de Supervisión.
+Será de aplicación en materia de planes y fondos de pensiones lo establecido en el artículo 17 de la Ley 20/2015, de 14 de julio.
+2. La Dirección General de Seguros y Fondos de Pensiones ejercerá sus funciones de supervisión sobre las entidades gestoras y los planes y fondos de pensiones, así como sobre el resto de entidades y sujetos contemplados en el primer párrafo del apartado 1.
+La supervisión consistirá en la verificación continua del correcto ejercicio de la actividad, de la situación financiera, de las conductas de mercado y del cumplimiento de la normativa de planes y fondos de pensiones.
+Los planes y fondos de pensiones y sus entidades gestoras están sujetos a supervisión prudencial que incluirá, cuando proceda, entre otros, los siguientes ámbitos:
+a) Las condiciones de funcionamiento.
+b) Las provisiones técnicas.
+c) La financiación de las provisiones técnicas.
+d) La exigencia de fondos propios.
+e) El margen de solvencia disponible.
+f) El margen de solvencia obligatorio.
+g) Las normas de inversión.
+h) La gestión de las inversiones.
+i) El sistema de gobierno, y
+j) La información que debe proporcionarse a los partícipes y beneficiarios.
+La supervisión prudencial se basará en un planteamiento prospectivo y orientado al riesgo.
+Las facultades de supervisión se ejercerán de manera oportuna y proporcionada teniendo en cuenta el tamaño, la naturaleza, la escala y la complejidad de las actividades de los fondos de pensiones y comprenderá una combinación adecuada de inspecciones in situ y actividades realizadas en otro lugar.
+En materia de supervisión en el ámbito de la actividad de las entidades gestoras, de los planes y fondos de pensiones y demás sujetos y entidades contemplados en el primer párrafo del apartado 1, será de aplicación lo dispuesto sobre la supervisión de las entidades aseguradoras en los capítulos I, II y III del título IV de la Ley 20/2015, de 14 de julio, con las particularidades previstas en esta Ley y su normativa de desarrollo.
+3. Será de aplicación a la inspección de entidades gestoras y de planes y fondos de pensiones lo dispuesto sobre la inspección de entidades aseguradoras en el capítulo IV del título IV de la Ley 20/2015, de 14 de julio.
+A falta de mención expresa en contrario en las especificaciones de los planes de pensiones o en las normas de funcionamiento de los fondos de pensiones, todas las actuaciones derivadas de la Inspección de los planes y fondos de pensiones, excepto las que se refieran a las personas físicas, se entenderán notificadas cuando la comunicación se efectúe ante la entidad gestora correspondiente.
+Asimismo, la Dirección General de Seguros y Fondos de Pensiones podrá ordenar la inspección de las entidades depositarias de fondos de pensiones para comprobar el correcto cumplimiento de la normativa relativa a los planes y fondos de pensiones. En este caso se informará de la orden de inspección al ente u órgano administrativo al que, en su caso, corresponda el control y supervisión de la entidad, pudiendo solicitar de aquel su actuación o asistencia en los supuestos que sea preciso, siendo aplicable igualmente lo dispuesto sobre la inspección de entidades aseguradoras en el citado capítulo IV del título IV de la Ley 20/2015, de 14 de julio.
+4. La Dirección General de Seguros y Fondos de Pensiones podrá ordenar la inspección de las funciones transferidas a un tercero, así como las de comercialización de planes de pensiones, para comprobar si se desarrollan de conformidad con la normativa de planes y fondos de pensiones. En este caso se informará de la orden de inspección al ente u órgano administrativo al que, en su caso, corresponda el control y supervisión del prestador del servicio, pudiendo solicitar de aquel su actuación o asistencia en los supuestos en que sea necesario, siendo aplicable lo dispuesto sobre la inspección de entidades aseguradoras en el citado capítulo IV del título IV de la Ley 20/2015, de 14 de julio.
+5. En caso de actividad transfronteriza de los fondos de pensiones de empleo se hará constar en el registro administrativo de fondos de pensiones los Estados miembros en que desarrollen dicha actividad y la Dirección General de Seguros y Fondos de Pensiones comunicará dicha información a la Autoridad Europea de Seguros y Pensiones de Jubilación.
+Asimismo, la Dirección General de Seguros y Fondos de Pensiones notificará a la Autoridad Europea de Seguros y Pensiones de Jubilación las decisiones de prohibir las actividades de fondos de pensiones de empleo adoptadas conforme a lo previsto en esta Ley y que en todo caso deberán motivarse de manera detallada y notificarse al fondo de que se trate. A tal efecto, notificará a dicha Autoridad la revocación de la autorización administrativa de los fondos de pensiones de empleo, salvo que sea motivada por las causas previstas en el artículo 31.2, párrafos a) y c). Igualmente notificará a dicha Autoridad los requerimientos de cese de actividad de fondos de pensiones de empleo no autorizados, así como las medidas administrativas de control especial consistentes en la prohibición de admitir nuevos planes en los fondos o nuevos participes o aportaciones, y en la prohibición de actividad transfronteriza.
+Se modifica por el art. 212.6 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifican los apartados 1, 2, 4 y 5 por la disposición final 4.7 y 8 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se añade el apartado 6 por el art. 6 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
+ Se modifican los apartados 1, 2 y 5 por la disposición final 13.9 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se añade un apartado 5 por el art. único.3 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 24 bis
+
+Artículo 24 bis. Transparencia de la actuación supervisora.
+1. De conformidad con lo establecido en el artículo 111 de la Ley 20/2015, de 14 de julio, la Dirección General de Seguros y Fondos de Pensiones ejercerá la supervisión de forma transparente, independiente y responsable, garantizando debidamente la protección de la información confidencial.
+2. La Dirección General de Seguros y Fondos de Pensiones con objeto de velar por la transparencia en la supervisión, divulgará la siguiente información:
+a) El texto de las disposiciones legales, reglamentarias y administrativas, y las orientaciones generales en el ámbito de los planes y fondos de pensiones.
+b) La decisión sobre el ejercicio de las opciones previstas en la normativa de la Unión Europea.
+c) Información sobre el proceso de revisión supervisora previsto en el artículo 24 ter.
+d) Los datos estadísticos agregados sobre los aspectos fundamentales de la aplicación de las normas prudenciales.
+e) Los objetivos de la supervisión y las principales funciones y actuaciones supervisoras.
+f) Las normas relativas a las sanciones administrativas y otras medidas aplicables a las infracciones.
+g) Las guías técnicas que elabore, dirigidas a las entidades sometidas a supervisión, de conformidad con lo previsto en el artículo 111. 2 de la Ley 20/2015, de 14 de julio.
+3. La Dirección General de Seguros y Fondos de Pensiones deberá comunicar a la Autoridad Europea de Seguros y Pensiones de Jubilación (AESPJ) las disposiciones de carácter prudencial que no estén contenidas en la legislación social y laboral aplicable a los planes de pensiones de empleo, a que se refiere el artículo 38.
+La Dirección General de Seguros y Fondos de Pensiones actualizará dicha información como mínimo cada dos años.
+Se añade por el art. 212.7 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 24 ter
+
+Artículo 24 ter. Facultades generales de supervisión.
+1. En el ejercicio de sus funciones de supervisión de planes y fondos de pensiones, así como respecto de las actividades externalizadas, en los términos establecidos en esta Ley y en las demás normas reguladoras de los planes y fondos de pensiones, la Dirección General de Seguros y Fondos de Pensiones tendrá las siguientes facultades:
+a) Revisar las estrategias, los procesos y los procedimientos de información establecidos por los fondos de pensiones a fin de cumplir las disposiciones legales, reglamentarias y administrativas. Dicha revisión tendrá en cuenta las circunstancias en que operen los fondos de pensiones, y en su caso, las partes que desempeñan las funciones clave o cualquier otra actividad externalizada. La revisión comprenderá los siguientes elementos:
+1.º Una evaluación de los requisitos cualitativos en relación con el sistema de gobierno.
+2.º Una evaluación de los riesgos que afronta el fondo de pensiones.
+3.º Una valoración de la capacidad del fondo de pensiones de evaluar y gestionar esos riesgos.
+b) Evaluar la adecuación de los métodos y prácticas de los fondos de pensiones, incluidas pruebas de resistencia, que le permita detectar el deterioro de las condiciones financieras de un fondo de pensiones y controlar la forma en que se corrige ese deterioro.
+c) Requerir toda la información que resulte necesaria a efectos de supervisión, estadísticos y contables.
+d) Acceder a cualquier documento y recibir una copia del mismo.
+e) Requerir toda la información que sea precisa para comprobar el correcto cumplimiento de las disposiciones legales y reglamentarias de las entidades gestoras y depositarias de fondos de pensiones, de las personas que ejerzan la dirección efectiva y las funciones claves previstas en esta ley, de las entidades o personas en las que hayan delegado o externalizado funciones, de los comercializadores de planes de pensiones individuales, de los promotores de los planes de pensiones, de las comisiones de control, de los actuarios, así como de los representantes de los fondos de pensiones autorizados o registrados en otros Estados miembros y de cualesquiera personas o entidades para las que se establezca alguna función, prohibición o mandato en esta Ley y en sus normas de desarrollo y complementarias.
+A tal efecto, la Dirección General de Seguros y Fondos de Pensiones podrá requerir la remisión de información en el plazo que razonablemente fije y, si es necesario, citar y tomar declaración a una persona para obtener información.
+Los requerimientos de información y citaciones habrán de estar motivados y ser proporcionados al fin perseguido. En ellos se expondrá de forma detallada y concreta el contenido de la información que se vaya a solicitar, especificando de manera justificada la función para cuyo desarrollo es precisa tal información y el uso que pretende hacerse de la misma.
+f) Realizar las inspecciones y comprobaciones necesarias.
+g) Requerir los registros telefónicos y de tráfico de datos de que dispongan las personas o entidades a que se refiere el párrafo e) anterior. Los requerimientos que se realicen a tal efecto se ajustarán a lo establecido en dicho párrafo e).
+h) Requerir toda la información que resulte necesaria a efectos de supervisión, estadísticos y contables.
+i) Exigir a las entidades gestoras la aportación de informes de expertos independientes, del responsable de la función de auditoría interna o de cualquier otro informe que, de acuerdo con esta Ley y su normativa de desarrollo, deba realizarse.
+j) Adoptar las medidas preventivas y correctoras que sean necesarias a fin de garantizar que las entidades gestoras de fondos de pensiones se atengan a las normas reguladoras de su actividad que deben cumplir.
+k) Cuantas otras funciones sean necesarias para el ejercicio de la supervisión prudencial en el ámbito de los planes y fondos de pensiones.
+2. La Dirección General de Seguros y Fondos de Pensiones podrá exigir la subsanación de las carencias o deficiencias detectadas en el desarrollo de la supervisión.
+3. Las actuaciones de supervisión se desarrollarán por los funcionarios pertenecientes al Cuerpo Superior de Inspectores de Seguros del Estado con la colaboración de funcionarios pertenecientes a los cuerpos técnicos de la Administración General del Estado, así como de funcionarios expertos informáticos.
+4. La Dirección General de Seguros y Fondos de Pensiones establecerá la frecuencia y el alcance mínimo de las revisiones previstas en el apartado 1.a) atendiendo al tamaño, la naturaleza, la escala y la complejidad de las actividades de los fondos de pensiones de que se trate.
+5. En defecto de normas especiales de procedimiento, será de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se añade por el art. 212.8 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 24 quater
+
+Artículo 24 quater. Secreto profesional e intercambio de información.
+1. Los datos, documentos e información que obren en poder del Ministerio de Asuntos Económicos y Transformación Digital en el ejercicio de sus funciones en materia de planes y fondos de pensiones, salvo los contenidos propios de los registros administrativos de carácter público, tendrán carácter reservado.
+La información confidencial recibida a la que se refiere el párrafo anterior, solo podrá ser utilizada en el ejercicio de las funciones de ordenación, supervisión e intervención establecidas en esta ley, así como para publicar indicadores clave de rendimiento y comisiones de gestión y depósito para cada uno de los planes de pensiones que puedan ayudar a los partícipes y beneficiarios a la hora de adoptar decisiones financieras en relación con su pensión.
+2. Todas las personas que ejerzan o hayan ejercido una actividad de ordenación y supervisión o intervención en materia de planes y fondos de pensiones, así como aquellas a quienes el Ministerio de Asuntos Económicos y Transformación Digital les haya encomendado funciones respecto de planes y fondos de pensiones o entidades y personas a las que se refiere el artículo 24.1, están sometidas al deber de secreto profesional en los mismos términos y con las mismas responsabilidades y excepciones establecidas en el capítulo V del título IV de la Ley 20/2015, de 14 de julio.
+3. No obstante lo dispuesto en los apartados anteriores, las informaciones confidenciales podrán ser suministradas de conformidad con lo establecido en el artículo 128 de la Ley 20/2015, de 14 de julio, así como a las autoridades e instituciones siguientes, para el desempeño de sus funciones respectivas:
+a) Bancos centrales y otros organismos con una función similar, en tanto que autoridades monetarias.
+b) Otras autoridades públicas encargadas de la supervisión de los sistemas de pago, cuando proceda.
+c) La Junta Europea de Riesgo Sistémico, la Autoridad Europea de Seguros y Pensiones de Jubilación (AESPJ), la Autoridad Bancaria Europea y la Autoridad Europea de Mercados y Valores.
+Esta información estará sujeta al deber de secreto profesional previsto en el apartado 2.
+4. Las informaciones confidenciales relativas a la supervisión prudencial de los fondos de pensiones podrán suministrarse a comisiones parlamentarias de investigación o a cualquier otro organismo o institución pública que su Ley reguladora le permita recabar información y otros organismos encargados de realizar investigaciones, siempre que concurran todas las condiciones siguientes:
+a) Que dichos organismos tengan competencia, en virtud de la legislación nacional, para investigar o analizar las acciones de las autoridades responsables de la supervisión de los fondos de pensiones de empleo o de la legislación en materia de supervisión.
+b) Que la información sea estrictamente necesaria para el ejercicio de la competencia mencionada en la letra a).
+c) Que las personas que tengan acceso a la información estén sujetas a requisitos de secreto profesional equivalentes como mínimo a los establecidos en el apartado 2.
+d) Que si la información tiene su origen en otro Estado miembro, esa información no sea revelada sin el consentimiento expreso de las autoridades competentes del país de origen y únicamente con la finalidad que dichas autoridades hayan autorizado.
+5. Asimismo, con el fin de reforzar la estabilidad e integridad del sistema financiero, podrá intercambiarse información con las autoridades o los órganos encargados de detectar las infracciones del derecho de sociedades aplicable a las empresas promotoras y de investigar dichas infracciones, incluyendo el caso en que se recurra, por su competencia específica, a personas designadas a tal fin y que no pertenezcan a la función pública.
+En los intercambios de información recogidos en el párrafo anterior, deben concurrir las siguientes condiciones:
+a) Que la información se destine a la detección, investigación y análisis de las acciones de las autoridades responsables de la supervisión de los fondos de pensiones o de la legislación en materia de supervisión.
+b) Que la información recibida esté sujeta a la obligación de secreto profesional establecida en el apartado 1.
+c) Que si la información tiene su origen en otro Estado miembro, esa información no sea revelada sin el consentimiento expreso de la autoridad competente de la que proceda y, en su caso, exclusivamente con la finalidad que esta autoridad haya autorizado.
+6. El deber de secreto profesional a que se refieren los apartados 2 y 5 se entiende sin perjuicio del impuesto por la normativa vigente en materia de protección de datos de carácter personal.
+Se añade por el art. 212.9 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 25
+
+Artículo 25. Contabilidad de los fondos de pensiones y de las entidades gestoras.
+1. La contabilidad de los fondos y planes de pensiones y de sus entidades gestoras se regirá por sus normas específicas y, en su defecto, por las establecidas en el Código de Comercio, en el Plan General de Contabilidad y demás disposiciones de la legislación mercantil en materia contable.
+2. En el Reglamento de desarrollo de esta Ley, se recogerán las normas específicas de contabilidad a que se refiere el apartado anterior, estableciendo las obligaciones contables, los principios contables de aplicación obligatoria, las normas sobre formulación de las cuentas anuales, los criterios de valoración de los elementos integrantes de aquéllas, así como el régimen de aprobación, verificación, depósito y publicidad de las cuentas, aplicables a los fondos de pensiones y a sus entidades gestoras.
+Tal potestad administrativa se ejercerá a propuesta del Ministerio de Economía y previo informe del Instituto de Contabilidad y Auditoría de Cuentas y de la Junta Consultiva de Seguros.
+3. Se faculta al Ministerio de Economía, previos idénticos informes, a desarrollar dichas normas específicas de contabilidad, particularmente estableciendo el Plan de Contabilidad de los fondos y planes de pensiones y el Plan Contable de las entidades gestoras.
+
+### Artículo 26
+
+Artículo 26. Normas de publicidad y contratación.
+1. La publicidad relativa a los planes y fondos de pensiones y a sus entidades gestoras se ajustará a lo dispuesto en la Ley 34/1988, de 11 de noviembre, General de Publicidad, y disposiciones de desarrollo, así como a las normas precisas para su adaptación a los planes y fondos de pensiones y a las entidades gestoras, recogidas en el Reglamento de la presente Ley.
+2. Reglamentariamente se determinará la forma y el alcance con que el Ministerio de Economía puede hacer públicos los datos declarados por los fondos de pensiones y sus entidades gestoras y también se establecerá la información que las entidades gestoras y las comisiones de control han de proporcionar a los partícipes y beneficiarios de los planes de pensiones.
+3. En la medida que la estructura y organización del mercado de los planes de pensiones lo permita, la contratación de planes de pensiones podrá realizarse por vía electrónica.
+Se habilita al Ministro de Economía para que pueda establecer especialidades y limitaciones con respecto a las normas que, con carácter general, regulan la contratación por vía electrónica, atendiendo a las particularidades que pudieren resultar de la contratación de los planes de pensiones y de sus partícipes.
+
+### Artículo 26 bis
+
+Artículo 26 bis. Actividad de comercialización de planes de pensiones individuales.
+1. La actividad de comercialización de los planes de pensiones del sistema individual podrá ser realizada por las siguientes entidades y personas autorizadas para operar en España:
+a) Entidades de crédito que tengan como actividad típica y habitual recibir fondos del público en forma de depósito, préstamo, cesión temporal de activos financieros u otras análogas que lleven aparejada la obligación de su restitución, aplicándolos por cuenta propia a la concesión de créditos u operaciones de análoga naturaleza.
+b) Entidades aseguradoras.
+c) Empresas de servicios de inversión.
+d) Sociedades gestoras de instituciones de inversión colectiva.
+e) Entidades gestoras de fondos de pensiones.
+f) Agentes de seguros vinculados.
+g) Operadores de banca-seguros vinculados.
+h) Corredores de seguros.
+La entidad o persona física comercializadora de planes de pensiones individuales deberá disponer de una estructura y medios humanos y materiales adecuados a la actividad, garantizar la capacidad y formación de las personas que realicen la comercialización por cuenta del comercializador, contar con un reglamento de conducta o documento análogo sobre política de comercialización, que asegure un servicio e información en interés de los partícipes y beneficiarios, así como acreditar un sistema de control del ejercicio de la actividad.
+El acuerdo de comercialización, suscrito por el comercializador con la entidad gestora, deberá delimitar las competencias y obligaciones del comercializador, incluidas, en su caso, las relativas a la realización de acciones publicitarias, los medios y redes de distribución, y las personas o entidades que van a efectuar la actividad por cuenta del comercializador.
+Las entidades gestoras de fondos de pensiones deberán comunicar a la Dirección General de Seguros y Fondos de Pensiones la celebración de los acuerdos de comercialización de planes individuales.
+2. El comercializador deberá suministrar información sobre los planes de pensiones y sobre la adecuación de los mismos a las características y necesidades de los partícipes, en los términos que se establezcan reglamentariamente.
+El comercializador deberá tramitar las solicitudes de aportaciones, de movilización de derechos consolidados, de cobro de prestaciones y reembolso de derechos consolidados en los supuestos excepcionales de liquidez que se produzcan con posterioridad a la contratación en la que intervenga.
+Toda entrega o recepción de fondos por aportaciones, prestaciones o supuestos excepcionales de liquidez deberá realizarse directamente entre el partícipe o beneficiario y el fondo de pensiones, mediante, en su caso, efectos nominativos, ingreso en cuenta u órdenes de transferencia a favor del fondo de pensiones o del partícipe o beneficiario según corresponda. La comercialización no implicará en ningún caso la instrumentación de cobros y pagos, los cuales deberán realizarse a través de la entidad depositaria del fondo de pensiones.
+Los gastos inherentes a la comercialización del plan y las remuneraciones o comisiones establecidas por los servicios de comercialización en ningún caso serán a cargo del partícipe o beneficiario ni del plan o fondo de pensiones correspondiente.
+3. Tanto en el momento de formalización del acuerdo de comercialización, como durante toda la vigencia del mismo, la entidad gestora del fondo de pensiones velará para que las actuaciones de las personas o entidades comercializadoras se ajusten a lo establecido en dicho acuerdo y en la legislación vigente. A tal efecto, los acuerdos de comercialización deberán prever procedimientos que permitan comprobar el cumplimiento por el comercializador de las obligaciones derivadas del acuerdo y de las establecidas en esta Ley y en sus normas de desarrollo. Reglamentariamente podrán establecerse condiciones específicas a las que hayan de ajustarse los citados procedimientos.
+Las personas o entidades comercializadoras serán responsables ante los partícipes y beneficiarios de todos los perjuicios que les causaren por incumplimiento de sus obligaciones.
+No obstante, en relación con los plazos que reglamentariamente se establezcan para la movilización de derechos consolidados, abono de prestaciones y reembolso de derechos consolidados en los supuestos excepcionales de liquidez, las entidades gestoras serán responsables de los retrasos que se produzcan en exceso de los plazos previstos para tramitar y hacer efectivas las solicitudes de los partícipes y beneficiarios, sin perjuicio de la posibilidad de la entidad gestora de repetir contra quien hubiera causado el retraso. A estos efectos, la presentación de las citadas solicitudes en cualquier establecimiento del comercializador o de su red comercial, se entenderá realizada en la entidad gestora.
+Las reclamaciones que formulen los partícipes y beneficiarios o sus derechohabientes contra comercializadores de planes de pensiones individuales se someterán al Defensor del partícipe conforme a lo previsto en el apartado 5 del artículo 7 de esta Ley, entendiéndose realizadas al comercializador las referencias a las entidades gestoras y depositarias o promotores de los planes.
+4. Lo previsto en los anteriores apartados en relación con la práctica de la actividad de comercialización de planes de pensiones será también de aplicación a la entidad gestora cuando realice directamente tal actividad.
+Reglamentariamente podrán desarrollarse los requisitos previstos en este artículo para el ejercicio de la actividad de comercialización de planes de pensiones y el contenido de los acuerdos correspondientes.
+Se añade por la disposición final 13.10 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Téngase en cuenta la disposición transitoria 3.
+
+## CAPÍTULO VIII
+
+Sistema de gobierno
+Se modifica el título por el art. 212.10 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición adicional 15 del citado Real Decreto-ley.
+
+### Artículo 27
+
+Artículo 27. Requisitos generales.
+1. Las entidades gestoras de fondos de pensiones y, en su caso, las comisiones de control, deberán disponer de un sistema eficaz de gobierno que garantice una gestión adecuada y prudente de las actividades de la entidad y de los fondos gestionados.
+El citado sistema comprenderá políticas escritas de gobierno corporativo que incluirán, entre otras, una estructura organizativa apropiada y transparente, con una clara distribución y una adecuada separación de funciones, y un sistema eficaz para garantizar la transmisión de la información, así como políticas y prácticas de remuneración adecuadas a las características de las entidades y estará sujeto a una revisión periódica.
+El sistema de gobierno incluirá la consideración de los factores ambientales, sociales y de gobierno en las decisiones de inversión de los fondos de pensiones, de acuerdo con lo previsto en la declaración de los principios de la política de inversión.
+2. El sistema de gobierno guardará proporción con el tamaño, la naturaleza, la escala y la complejidad de las actividades de la entidad y de los fondos de pensiones gestionados.
+3. Con carácter general, las entidades gestoras de fondos de pensiones deberán establecer y aplicar políticas escritas en relación con la gestión de riesgos y la auditoría interna y, en su caso, con las actividades actuariales que realice la entidad y las actividades externalizadas. Dichas políticas escritas estarán sujetas a la aprobación previa del órgano de administración, se revisarán al menos cada tres años y se adaptarán en función de cualquier modificación significativa del sistema o ámbito correspondiente.
+4. Las entidades gestoras de fondos de pensiones deberán establecer y documentar un sistema eficaz de control interno. Dicho sistema constará de procedimientos administrativos y contables, de un marco de control interno, y de mecanismos adecuados de información a todos los niveles de la entidad y de los fondos de pensiones gestionados, e incluirá una verificación del cumplimiento.
+La verificación del cumplimiento comprenderá el asesoramiento al órgano de administración acerca del cumplimiento de las disposiciones legales, reglamentarias y administrativas que afecten a la entidad y a los fondos de pensiones gestionados, así como acerca del cumplimiento de su normativa interna. Comportará asimismo la evaluación del impacto de cualquier modificación del entorno legal en las operaciones de la entidad y de los fondos de pensiones gestionados y la determinación y evaluación del riesgo de cumplimiento.
+5. Las entidades gestoras de fondos de pensiones deberán adoptar medidas razonables para garantizar la continuidad y la regularidad en la ejecución de sus actividades, incluida la elaboración de planes de emergencia. A tal fin, emplearán sistemas, recursos y procedimientos adecuados y proporcionados.
+6. Las entidades gestoras de fondos de pensiones y, en su caso, las comisiones de control, deberán contar al menos con tres personas que las dirijan de manera efectiva. Las entidades deberán contar con un consejo de administración, formado por no menos de tres miembros, que será responsable último del sistema de gobierno.
+Se modifica por el art. 212.11 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición adicional 15.1 del citado Real Decreto-ley.
+
+### Artículo 28
+
+Artículo 28. Aptitud y honorabilidad.
+1. Las personas que dirijan de manera efectiva las entidades gestoras de los fondos de pensiones, aquellas que desempeñen funciones clave previstas en esta Ley y, en su caso, las personas o entidades a quienes se haya externalizado alguna de las funciones clave, deberán cumplir los siguientes requisitos en el desempeño de su cometido:
+a) Requisito de aptitud:
+1.º En el caso de las personas que dirijan de manera efectiva la entidad, sus cualificaciones, sus competencias y su experiencia serán idóneas colectivamente para poder garantizar una gestión adecuada y prudente de los fondos de pensiones.
+2.º En el caso de las personas que realicen funciones clave, sus cualificaciones profesionales, sus conocimientos y su experiencia serán idóneas para desempeñar correctamente sus funciones clave.
+b) Requisito de honorabilidad: deberán ser personas íntegras y de buena reputación.
+2. A los efectos de lo establecido en esta Ley y en sus disposiciones de desarrollo, se entenderá que ejercen la dirección efectiva de una entidad gestora de fondos de pensiones quienes ostenten cargos de administración o dirección, considerándose como tales:
+a) Los miembros de los órganos colegiados de administración. Podrán desempeñar cargos de administración las personas jurídicas, si bien, en este caso, deberán designar en su representación a una persona física que reúna igualmente los requisitos anteriormente citados.
+b) Los directores generales y asimilados, entendiendo por tales todas aquellas personas que ejerzan en la entidad la alta dirección bajo la dependencia directa de su órgano de administración, de comisiones ejecutivas o de consejeros delegados de aquel.
+3. Las entidades gestoras de fondos de pensiones comunicarán a la Dirección General de Seguros y Fondos de Pensiones el nombramiento, cese y sustitución de las personas que ejerzan la dirección efectiva de la entidad, bajo cualquier título, y quienes dentro de la entidad gestora desempeñen las funciones clave, junto con toda la información necesaria para evaluar si las personas que, en su caso, se hayan nombrado, cumplen las exigencias de aptitud y honorabilidad. No obstante, la comunicación del titular de la función actuarial deberá efectuarla la comisión de control.
+Si durante el ejercicio de su actividad concurriese en alguna de las personas a que se refiere este artículo circunstancias que supongan incumplimiento de los requisitos de aptitud y honorabilidad, deberá procederse a su sustitución y comunicar esta a la Dirección General de Seguros y Fondos de Pensiones indicando el motivo.
+Las comunicaciones previstas en este apartado se realizarán en un plazo máximo de quince días hábiles a contar desde el momento del nombramiento, cese o sustitución.
+4. Reglamentariamente se determinarán los supuestos en los que se entiende que se cumplen los requisitos de aptitud y honorabilidad de quienes ostentan la dirección efectiva o desempeñan funciones clave, así como los requisitos de la información que deberá ser remitida a la Dirección General de Seguros y Fondos de Pensiones a efectos de evaluar su cumplimiento. La persona titular del Ministerio de Asuntos Económicos y Transformación Digital podrá regular el contenido de la información y la documentación acreditativa que deberá remitirse para la evaluación.
+La información a remitir a la Dirección General de Seguros y Fondos de Pensiones incluirá un certificado de antecedentes penales expedido por la autoridad competente con una antelación no superior a tres meses. Si se trata de personas no residentes en España, en caso de que en el país respectivo no exista un documento equivalente, deberá incluir una declaración responsable hecha ante una autoridad judicial o administrativa competente o ante notario público en la que afirmen no haber sido condenados en el extranjero por delitos de falsedad, violación de secretos, por blanqueo de capitales, financiación del terrorismo, contra el orden socioeconómico, contra la Hacienda Púbica, contra la Seguridad Social, por malversación de caudales públicos y cualesquiera delitos contra el patrimonio.
+5. En el caso de entidades aseguradoras que actúen como gestoras de fondos de pensiones, le será de aplicación lo dispuesto en el artículo 38 de la Ley 20/2015, de 14 de julio.
+Se modifica por el art. 212.12 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición transitoria 6 del citado Real Decreto-ley.
+ Se modifica el apartado 5 por la disposición final 1.3 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+
+### Artículo 29
+
+Artículo 29. Política de remuneración.
+1. Las entidades gestoras de fondos de pensiones deberán establecer y aplicar una política de remuneración adecuada respecto de todas las personas que las dirijan de manera efectiva, de aquellas que desempeñen funciones clave dentro de la entidad gestora y de otras categorías de personal cuyas actividades profesionales incidan de forma significativa en el perfil de riesgo de los planes y fondos de pensiones gestionados. La citada política de remuneración deberá ser acorde con su organización interna y el tamaño, la naturaleza, la escala y la complejidad de sus actividades.
+2. Salvo que las disposiciones previstas en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, dispongan otra cosa, las entidades gestoras de fondos de pensiones harán pública regularmente información pertinente relativa a la política de remuneración.
+3. Al establecer y aplicar las políticas de remuneración a que se refiere el apartado 1, se respetarán los principios siguientes:
+a) La política de remuneración se establecerá, aplicará y mantendrá en consonancia con las actividades, el perfil de riesgo, los objetivos y los intereses, la estabilidad financiera y el rendimiento a largo plazo de los planes y fondos de pensiones gestionados en su conjunto, y apoyará una gestión sólida, prudente y efectiva de los mismos.
+b) La política de remuneración estará en consonancia con los intereses a largo plazo de los partícipes y beneficiarios de los planes de pensiones gestionados.
+c) La política de remuneración incluirá medidas destinadas a evitar conflictos de interés.
+d) La política de remuneración será acorde con una gestión adecuada y eficaz de los riesgos y no alentará una asunción de riesgos que no esté en consonancia con los perfiles de riesgo y la normativa de los planes y fondos de pensiones.
+e) La política de remuneración se aplicará a la entidad gestora y a los prestadores de servicios externalizados, salvo que estos últimos estén cubiertos por las Directivas 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE y 2014/65/UE.
+f) La entidad gestora determinará los principios generales de la política de remuneración, que se revisará y actualizará, como mínimo, cada tres años, y será responsable de su aplicación.
+g) El gobierno en materia de remuneración y su supervisión deberá realizarse de manera clara, transparente y eficaz.
+4. Las comisiones de control de planes de pensiones de empleo deberán establecer y aplicar una política de remuneración adecuada respecto de quienes presten los servicios actuariales y, en su caso, la función clave actuarial, y de otros proveedores de servicios externos cuyas actividades puedan incidir de forma significativa en el perfil de riesgo de los planes y fondos de pensiones.
+Se modifica por el art. 212.13 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición adicional 15.2 del citado Real Decreto-ley.
+
+### Artículo 30
+
+Artículo 30. Funciones clave.
+1. Las entidades gestoras de fondos de pensiones y, en su caso, las comisiones de control, deberán disponer de las siguientes funciones clave: una función de gestión de riesgos y una función de auditoría interna y, en su caso, una función actuarial, en este último caso cuando la entidad gestora preste servicios actuariales respecto de los planes de pensiones. Dichas entidades deberán permitir que los titulares de funciones clave desempeñen eficazmente su cometido de manera objetiva, justa e independiente. Las comisiones de control podrán delegar expresamente en las entidades gestoras las funciones que decidan.
+2. Una sola persona o unidad organizativa podrá desempeñar varias funciones clave en la entidad gestora, a excepción de la función de auditoría interna, que será independiente de otras funciones clave.
+3. La persona o unidad organizativa única que desempeñe una función clave que afecte a un plan de pensiones del sistema de empleo podrá ser la misma que desempeñe una función clave similar en la empresa o empresas promotoras. En tal caso, la comisión de control del plan deberá adoptar las medidas oportunas para evitar o gestionar posibles conflictos de interés entre el promotor y los partícipes y beneficiarios que pudieran derivarse del ejercicio de dicha función.
+4. Los titulares de una función clave informarán de cualquier conclusión o recomendación importante en el ámbito de su responsabilidad al órgano de administración o de dirección de la entidad gestora y, en su caso, a las comisiones de control de los planes y fondos de pensiones, que determinarán las medidas que deberán tomarse.
+5. Los titulares de una función clave informarán a la Dirección General de Seguros y Fondos de Pensiones si la dirección efectiva o las comisiones de control de los planes y fondos de pensiones no toman medidas correctoras adecuadas y oportunas en los siguientes casos:
+a) Cuando la persona o unidad organizativa que desempeñe la función clave haya detectado un riesgo sustancial de que la entidad gestora o los planes o los fondos de pensiones no cumplan un requisito legal que pueda tener importantes repercusiones en los intereses de los partícipes y beneficiarios, y haya informado de ello a la dirección efectiva o a las comisiones de control, o
+b) cuando la persona o unidad organizativa que desempeñe la función clave haya observado un incumplimiento grave de las disposiciones legales, reglamentarias o administrativas aplicables a la entidad gestora o a los planes y fondos de pensiones y sus actividades en el contexto de su función clave y haya informado de ello a la dirección efectiva o a la comisión de control correspondiente.
+Se modifica por el art. 212.14 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición adicional 15.2 del citado Real Decreto-ley.
+
+### Artículo 30 bis
+
+Artículo 30 bis. Función de gestión de riesgos.
+1. Las entidades gestoras de fondos de pensiones, de una forma proporcionada con su tamaño y su organización interna y con el tamaño, la naturaleza, la escala y la complejidad de sus actividades y de los fondos de pensiones gestionados, deberán disponer de una función eficaz de gestión de riesgos. Dicha función se estructurará de tal manera que facilite el funcionamiento de un sistema de gestión de riesgos, para lo que la entidad adoptará las estrategias, los procesos y los procedimientos de información necesarios para detectar, medir, vigilar, gestionar y notificar regularmente al órgano de administración y a las comisiones de control los riesgos a los que, a nivel individual y agregado, estén o puedan estar expuestos los planes y fondos de pensiones gestionados, así como sus interdependencias.
+Ese sistema de gestión de riesgos será eficaz y estará debidamente integrado en la estructura organizativa y en el proceso de toma de decisiones.
+2. El sistema de gestión de riesgos cubrirá, de forma proporcionada con el tamaño y organización interna de la entidad y con el tamaño, la naturaleza, escala y complejidad de sus actividades, los riesgos que puedan surgir en los planes y fondos de pensiones o en las empresas a las que se hayan externalizado las tareas o actividades de la entidad al menos en los ámbitos siguientes, cuando proceda:
+a) La suscripción y la constitución de reservas.
+b) La gestión de activos y pasivos.
+c) La inversión, en particular, en instrumentos derivados, titulizaciones y compromisos similares.
+d) La gestión del riesgo de liquidez y de concentración.
+e) La gestión del riesgo operacional.
+f) El seguro y otras técnicas de reducción del riesgo.
+g) Los riesgos ambientales, sociales y de gobierno relacionados con la cartera de inversiones y su gestión, en los términos establecidos en su declaración de los principios de la política de inversión.
+3. Cuando, de conformidad con las condiciones del plan de pensiones, los partícipes y beneficiarios asuman riesgos, el sistema de gestión de riesgos también tendrá en cuenta esos riesgos desde la perspectiva de los partícipes y beneficiarios.
+4. En el caso de que la función actuarial no haya sido encomendada a la entidad gestora, el responsable de dicha función deberá proporcionar a la citada entidad toda aquella información actuarial necesaria para la eficaz aplicación del sistema de gestión de riesgo de los fondos de pensiones de empleo gestionados.
+Se añade por el art. 212.15 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 30 ter
+
+Artículo 30 ter. Función de auditoría interna.
+1. Las entidades gestoras de fondos de pensiones, y, en su caso, las comisiones de control, de una forma proporcionada con su tamaño y su organización interna y con el tamaño, la naturaleza, la escala y la complejidad de sus actividades, deberán disponer de una función eficaz de auditoría interna. La función de auditoría interna deberá disponer de una evaluación de la adecuación y eficacia del sistema de control interno y de otros elementos del sistema de gobierno, incluidas, cuando proceda, las actividades externalizadas.
+2. La función de auditoría interna deberá ser objetiva e independiente de las funciones operativas y de otras funciones clave y se desarrollará de acuerdo con lo establecido en la normativa de planes y fondos de pensiones.
+3. Las conclusiones y recomendaciones derivadas de la auditoría interna se notificarán al órgano de administración, el cual determinará qué acciones habrán de adoptarse con respecto de cada una de ellas y garantizará que dichas acciones se lleven a cabo.
+4. Anualmente la entidad gestora elaborará un informe sobre la efectividad de sus procedimientos de control interno, incidiendo en las deficiencias significativas detectadas, sus implicaciones y proponiendo, en su caso, las medidas que se consideren adecuadas para su subsanación. El referido informe será aprobado por el consejo de administración de la entidad gestora y remitido a la Dirección General de Seguros y Fondos de Pensiones junto con las cuentas anuales en el plazo establecido en el artículo 19.1.
+Tanto las conclusiones y recomendaciones de la auditoría interna como el informe sobre la efectividad de los procedimientos de control interno deberán remitirse también a las comisiones de control de los fondos de pensiones gestionados.
+Se añade por el art. 212.16 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 30 quater
+
+Artículo 30 quater. Función actuarial relativa a los planes de pensiones de empleo y servicios actuariales.
+1. Cuando un plan de pensiones de empleo de prestación definida o mixto cubra los riesgos biométricos o garantice, ya sea el resultado de la inversión ya sea un nivel determinado de las prestaciones, y no esté totalmente asegurado por terceros, deberá establecerse una función actuarial eficaz, a fin de:
+a) En su caso, coordinar y supervisar el cálculo de las provisiones técnicas.
+b) Evaluar la idoneidad de los métodos y modelos subyacentes utilizados para calcular las provisiones técnicas y las hipótesis empleadas al efecto.
+c) Evaluar la suficiencia y la calidad de los datos utilizados en el cálculo de las provisiones técnicas.
+d) Cotejar las hipótesis en que se basa el cálculo de las provisiones técnicas con la experiencia.
+e) Informar a la comisión de control del plan y, en su caso, al órgano de administración o de dirección de la entidad gestora sobre la fiabilidad y la adecuación del cálculo de las provisiones técnicas.
+f) Pronunciarse sobre la política general de suscripción en caso de que el plan de pensiones cuente con una política de este tipo.
+g) Pronunciarse sobre la idoneidad de la cobertura del seguro en caso de que el plan de pensiones cuente con un régimen de este tipo, y
+h) Contribuir a la aplicación efectiva del sistema de gestión de riesgos.
+Se entiende por riesgos biométricos los riesgos que recaen sobre las personas relacionados con el fallecimiento, la invalidez y la supervivencia.
+2. Los servicios actuariales correspondientes a planes de pensiones deberán realizarse por personas que tengan conocimientos suficientes de matemática actuarial y financiera, acordes con la naturaleza, el volumen y complejidad de los riesgos inherentes al desarrollo del plan de pensiones y que puedan acreditar la oportuna experiencia en relación con las normas profesionales y de otra índole, aplicables. La prestación de tales servicios podrán realizarla en nombre propio o por cuenta de una entidad proveedora de tales servicios en la que desarrollen su actividad en virtud de relación laboral o mercantil.
+Los actuarios de seguros podrán desempeñar, en todo caso, los servicios actuariales correspondientes a planes de pensiones.
+3. Las comisiones de control de los planes elegirán a los prestadores de servicios actuariales para el desenvolvimiento ordinario del plan de pensiones, que incluirá, en su caso, la función actuarial prevista en el apartado 1.
+A efectos de lo previsto en el párrafo anterior la comisión de control del plan podrá designar a personas que actúen en nombre propio o que desarrollen su actividad en una entidad proveedora de servicios actuariales. La entidad gestora o la depositaria o promotora del fondo o la promotora o aseguradora del plan o alguna entidad del grupo de cualquiera de ellas podrán ser proveedoras de los servicios actuariales del plan, así como personas que, teniendo relación laboral o mercantil con dichas entidades, actúen para el plan en nombre propio. En su caso, la comisión de control arbitrará las medidas oportunas para evitar o gestionar conflictos de interés entre el promotor y los partícipes y beneficiarios.
+Lo dispuesto en este apartado será aplicable sin perjuicio de lo previsto en el artículo 9.5.
+Se añade por el art. 212.17 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 30 quinquies
+
+Artículo 30 quinquies. Evaluación interna de riesgos en los fondos de pensiones de empleo.
+1. Las entidades gestoras de fondos de pensiones de empleo y, en su caso, las comisiones de control, deberán llevar a cabo y documentar, de forma proporcionada con la organización interna, así como con el tamaño, la naturaleza, la escala y complejidad de las actividades del fondo o fondos de empleo administrados una evaluación interna de riesgo de cada fondo de pensiones de empleo.
+Dicha evaluación interna de los riesgos se efectuará de manera regular al menos cada tres años, y en todo caso inmediatamente después de que se produzcan cambios significativos del perfil de riesgo del fondo o de los planes de pensiones integrados en el fondo de pensiones. Cuando se produzca un cambio significativo en el perfil de riesgo de un plan de pensiones específico, la evaluación de los riesgos podrá limitarse a ese plan de pensiones.
+2. Reglamentariamente se determinará el contenido que la evaluación interna de riesgos ha de incluir.
+3. Las entidades gestoras dispondrán de métodos para detectar y evaluar los riesgos a los que estén o puedan estar expuestos a corto y a largo plazo los fondos de pensiones que gestionan y que pudieran influir en la capacidad del fondo para cumplir sus obligaciones. Esos métodos deberán ser proporcionados al tamaño, la naturaleza, la escala y la complejidad de los riesgos inherentes a sus actividades. Los métodos deberán describirse en la propia evaluación de los riesgos.
+4. La evaluación interna de los riesgos se tendrá en cuenta en las decisiones estratégicas del fondo de pensiones de empleo.
+5. Las entidades gestoras comunicarán los resultados de cada evaluación interna a la Dirección General de Seguros y Fondos de Pensiones y a las comisiones de control correspondientes en un plazo de quince días hábiles desde su aprobación por el órgano de administración.
+Se añade por el art. 212.18 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Téngase en cuenta la disposición adicional 15.3 del citado Real Decreto-ley.
+
+### Artículo 30 sexies
+
+Artículo 30 sexies. Externalización.
+1. Las entidades gestoras de fondos de pensiones y las comisiones de control podrán encomendar cualesquiera actividades, incluidas funciones clave, en su totalidad o en parte, a prestadores de servicios que actúen en nombre de la entidad con las excepciones y condiciones que se establezcan reglamentariamente.
+2. La entidad gestora y la comisión de control seguirán respondiendo plenamente del cumplimiento de las obligaciones que para ella se deriven de esta Ley y sus normas de desarrollo cuando externalicen funciones clave o cualquier otra actividad.
+3. La externalización de funciones clave o de cualquier otra actividad no podrá realizarse de tal forma que pueda:
+a) Perjudicar la calidad del sistema de gobierno.
+b) Aumentar indebidamente el riesgo operacional.
+c) Menoscabar la capacidad de las autoridades competentes para comprobar que se cumplen las obligaciones derivadas de la normativa.
+d) Socavar el servicio continuo y satisfactorio a los partícipes y beneficiarios.
+4. La entidad gestora deberá garantizar el correcto funcionamiento de las actividades externalizadas a través del proceso de selección de un prestador de servicios y el seguimiento permanente de las actividades de dicho prestador de servicios. Para ello deberá designar dentro de la entidad a una persona responsable de la función o actividad externalizada, que cuente con la experiencia y conocimientos suficientes para comprobar la actuación de los proveedores de servicios.
+5. Para la externalización de actividades, incluidas las funciones clave, la entidad gestora deberá suscribir un acuerdo escrito con el prestador de los servicios. Dicho acuerdo tendrá eficacia jurídica y definirá con claridad los derechos y obligaciones de la entidad gestora y del prestador de servicios, incluyendo la adopción de las medidas necesarias desde el punto de vista de la normativa de protección de datos personales.
+En el caso de que el prestador del servicio vaya a ser encargado del tratamiento de datos personales, la gestora elegirá un prestador que ofrezca garantías suficientes para aplicar medidas técnicas y organizativas apropiadas a tal efecto. El acuerdo previsto en el párrafo anterior incluirá el contenido del artículo 28.3 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos por el que se deroga la Directiva 95/46/CE.
+6. Las entidades gestoras de fondos de pensiones deberán comunicar a la Dirección General de Seguros y Fondos de Pensiones y a las comisiones de control correspondientes la externalización de sus actividades.
+Cuando la externalización se refiera a las funciones clave, la citada comunicación se realizará antes de la formalización del acuerdo de externalización correspondiente. En el plazo de un mes desde la recepción de la citada comunicación previa la Dirección General de Seguros y Fondos de Pensiones podrá oponerse a la externalización mediante resolución motivada cuando se de alguno de los supuestos establecidos en el apartado 3. Dicha resolución será susceptible de recurso de alzada y contencioso administrativo.
+Asimismo, deberá notificarse a la Dirección General de Seguros y Fondos de Pensiones y a la comisión de control correspondiente cualquier cambio ulterior importante en relación con las actividades que hayan podido externalizarse.
+Reglamentariamente podrán establecerse los términos y condiciones de las comunicaciones previstas en este apartado, así como el plazo o frecuencia de la comunicación a la Dirección General de Seguros y Fondos de Pensiones de las actividades externalizadas que no constituyan funciones clave.
+7. La Dirección General de Seguros y Fondos de Pensiones podrá solicitar a la entidad gestora y a los prestadores de servicios y, en su caso, a las comisiones de control en cualquier momento información sobre las funciones clave y cualquier otra actividad que externalicen.
+Se añade por el art. 212.19 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+## CAPÍTULO IX
+
+Medidas de intervención administrativa
+
+## SECCIÓN 1
+
+Sección 1.ª Revocación de la autorización administrativa
+
+### Artículo 31
+
+Artículo 31. Causas de la revocación y sus efectos.
+1. El Ministerio de Economía revocará la autorización administrativa concedida a las entidades gestoras de fondos de pensiones en los siguientes casos:
+a) Si la entidad gestora renuncia a ella expresamente.
+b) Cuando la entidad gestora no haya iniciado su actividad en el plazo de un año desde la inscripción en el Registro administrativo o cese de ejercerla durante igual período de tiempo o cuando se aprecie la falta efectiva de actividad en los términos que reglamentariamente se determinen.
+c) Cuando la entidad gestora deje de cumplir alguno de los requisitos establecidos por esta Ley para el otorgamiento de la autorización administrativa o incurra en causa de disolución.
+d) Cuando no haya podido cumplir, en el plazo fijado, las medidas previstas en un plan de saneamiento o de financiación exigidos a la misma al amparo del artículo 34.
+e) Cuando se haya impuesto a la entidad gestora la sanción administrativa de revocación de la autorización.
+2. El Ministerio de Economía revocará la autorización administrativa concedida a los fondos de pensiones en los siguientes casos:
+a) Si la comisión de control del fondo renuncia a ella expresamente o, si no existiese dicha comisión, cuando así se solicite por la entidad promotora de dicho fondo.
+b) Cuando concurran en el fondo de pensiones las circunstancias previstas para las entidades gestoras en los párrafos c) a e) del apartado 1 precedente.
+c) Cuando transcurra un año sin integrar ningún plan de pensiones o cuando se aprecie la falta efectiva de actividad en los términos que reglamentariamente se determinen.
+d) Cuando transcurra un año sin que el fondo de pensiones abierto canalice ninguna inversión de otros fondos de pensiones ni de planes de pensiones ni integre ningún plan de pensiones, o cuando se aprecie la falta efectiva de actividad en los términos que reglamentariamente se determinen.
+Téngase en cuenta que la letra d) del apartado 2 añadida por la disposición final 4.9 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+3. Cuando concurra alguna de las causas de revocación previstas en los párrafos b), c) o d) del apartado 1 precedente, el Ministerio de Economía, antes de acordar la revocación de la autorización administrativa, estará facultado para conceder un plazo, que no excederá de seis meses, para que la entidad gestora o el fondo de pensiones que lo hayan solicitado procedan a subsanarla.
+4. La revocación de la autorización administrativa determinará, en todos los casos, la prohibición inmediata de la realización de la actividad propia de las entidades gestoras y de los fondos de pensiones, así como la disolución y liquidación de la entidad gestora y del fondo de pensiones, salvo en el supuesto de cambio de objeto social de la entidad gestora conforme a lo establecido en el apartado 6 del artículo 20 de esta Ley.
+Se añade la letra d) al apartado 2 por la disposición final 4.9 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+## SECCIÓN 2
+
+Sección 2.ª Disolución administrativa e intervención en la liquidación
+
+### Artículo 32
+
+Artículo 32. Disolución y terminación administrativas.
+1. La disolución de las entidades gestoras y de los fondos de pensiones o la terminación de los planes de pensiones requerirá acuerdo de la Junta General y de las comisiones de control, respectivamente. A estos efectos, estos órganos deberán celebrar la correspondiente reunión en el plazo de dos meses desde la concurrencia de la causa de disolución o terminación, pudiendo cualquier socio en el caso de las entidades gestoras, o partícipe en el caso del fondo o del plan de pensiones, solicitar la citada reunión si a su juicio existe causa legítima para ello.
+En el caso de que, existiendo causa legal de disolución de la entidad gestora o del fondo de pensiones o de terminación del plan de pensiones, no se adoptase el acuerdo o fuera contrario a la disolución, los administradores de la entidad gestora y las comisiones de control del fondo o del plan de pensiones estarán obligados a solicitar la disolución administrativa en el plazo de diez días naturales a contar desde la fecha en que debiera haberse convocado el órgano competente para adoptar el acuerdo, o desde la fecha prevista para su reunión, o finalmente desde el día de la celebración de la misma, cuando el acuerdo de disolución no pudiese lograrse o se adoptase acuerdo en contrario.
+2. Conocida por el Ministerio de Economía la concurrencia de una causa de disolución de una entidad gestora o de un fondo de pensiones o una causa de terminación de un plan de pensiones así como el incumplimiento por los órganos correspondientes de lo dispuesto en el número precedente, procederá a la disolución administrativa de la entidad gestora o del fondo de pensiones o a la terminación administrativa del plan de pensiones.
+3. El procedimiento administrativo de disolución o terminación se iniciará de oficio o a solicitud de los administradores o de la comisión de control y, tras las alegaciones de la entidad gestora o de la comisión de control, el Ministerio de Economía procederá a la disolución o terminación administrativas. El acuerdo de disolución o terminación administrativa contendrá la revocación de la autorización administrativa de la entidad gestora o del fondo de pensiones afectado.
+
+### Artículo 33
+
+Artículo 33. Intervención en la liquidación.
+En la liquidación, y hasta la cancelación de la inscripción en el Registro administrativo, el Ministerio de Economía conservará todas sus competencias de ordenación y supervisión sobre la entidad gestora, fondo de pensiones y plan de pensiones y, además, podrá adoptar las siguientes medidas:
+1. Acordar la intervención de la liquidación para salvaguardar los intereses de los partícipes, beneficiarios o de terceros. Decidida la intervención, estarán sujetas al control de la Intervención del Estado las actuaciones de los liquidadores en los términos definidos en el artículo 34.
+2. Designar liquidadores, acordando en su caso el cese de los designados, en los siguiente supuestos:
+a) Cuando no se hubiese procedido a nombramiento de liquidadores en el plazo de los quince días siguientes a la disolución, o cuando el nombramiento dentro de ese plazo lo fuese sin cumplir los requisitos legales y estatutarios.
+b) Cuando los liquidadores incumplan las normas que para la protección de los partícipes y beneficiarios se establecen en esta Ley, las que rigen la liquidación, dificulten la misma, o ésta se retrase.
+
+## SECCIÓN 3
+
+Sección 3.ª Medidas de control especial
+
+### Artículo 34
+
+Artículo 34. Medidas de control especial.
+1. La Dirección General de Seguros y Fondos de Pensiones podrá adoptar las medidas de control especial contenidas en el presente artículo cuando las entidades gestoras o los planes o fondos de pensiones se hallen en alguna de las siguientes situaciones:
+1.º Respecto de las entidades gestoras cuando concurran:
+a) Pérdidas acumuladas en cuantía superior al 25 por 100 de su capital social.
+b) Dificultades de liquidez que hayan determinado demora o incumplimiento en sus pagos.
+c) Situaciones de hecho, deducidas de comprobaciones efectuadas por la Administración, que pongan en peligro su solvencia, los intereses de las entidades promotoras, partícipes o beneficiarios o el cumplimiento de las obligaciones contraídas, así como la falta de adecuación de su contabilidad al plan de contabilidad que les sea exigible o irregularidad de la contabilidad o administración en términos tales que impidan o dificulten notablemente conocer la verdadera situación patrimonial de la entidad gestora.
+d) Deficiencias relevantes en el sistema de gobierno o en el sistema de control interno, que impidan la gestión de la actividad y, en especial, el cumplimiento de las obligaciones en materia de gestión de riesgos, auditoría interna y en su caso, actuarial, o en la externalización de funciones o actividades.
+2.º Respecto de los planes y fondos de pensiones cuando concurran:
+a) Déficit superior al 5 por 100 en el cálculo de las provisiones matemáticas o fondos de capitalización de los planes, que asuman la cobertura de un riesgo, integrados en el fondo de pensiones ; o al 20 por 100 en el cálculo de otras provisiones técnicas.
+b) Déficit superior al 10 por 100 en la cobertura de provisiones técnicas de los planes integrados en el fondo.
+c) Insuficiencia del margen de solvencia de los planes de pensiones.
+d) Dificultades de liquidez que hayan determinado demora o incumplimiento en sus pagos.
+e) Situaciones de hecho, deducidas de comprobaciones efectuadas por la Administración, que pongan en peligro su solvencia, los intereses de las entidades promotoras, partícipes o beneficiarios de los planes de pensiones o el cumplimiento de las obligaciones contraídas, así como la falta de adecuación de su contabilidad al plan de contabilidad que les sea exigibles o irregularidad de la contabilidad o administración en términos tales que impidan o dificulten notablemente conocer su verdadera situación patrimonial.
+f) Insuficiencia de los activos mínimos exigidos a los fondos de pensiones abiertos para poder operar como tales.
+g) Incumplimiento de un plan de reequilibrio actuarial o financiero aprobado por la Dirección General de Seguros y Fondos de Pensiones o presentado ante la misma, al amparo de los regímenes transitorios aplicables en cada momento.
+h) Deficiencias relevantes en el sistema de gobierno o en el sistema de control interno, que impidan la gestión de la actividad y, en especial, el cumplimiento de las obligaciones en materia de gestión de riesgos, auditoría interna y en su caso actuarial, o en la externalización de funciones o actividades.
+2. Con independencia de la sanción administrativa que en su caso proceda imponer, las medidas de control especial, de acuerdo con las características de la situación, podrán consistir en:
+1.º Respecto de las entidades gestoras podrán adoptarse cualquiera de las medidas que para las entidades aseguradoras se regulan en los artículos 160 y 161 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, en la medida que les sean aplicables, con la peculiaridad de que la referencia que en dichos preceptos se hace a la suspensión de la contratación de nuevos seguros por la entidad aseguradora o la aceptación de reaseguro y la prohibición de prórroga de los contratos de seguro ya celebrados debe entenderse como la suspensión de la gestión y administración de nuevos fondos de pensiones por la entidad gestora.
+Además, podrá adoptarse la medida de suspender a la entidad gestora en sus funciones de administración del fondo o fondos de pensiones, en cuyo caso la comisión de control del fondo deberá designar una entidad que sustituya a la anterior, previa autorización de la Dirección General de Seguros y Fondos de Pensiones, quien podrá proceder a su designación si aquélla no lo hiciera.
+2.º Respecto de los planes y fondos de pensiones podrán adoptarse asimismo las medidas reguladas en los artículos 160 y 161 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, en la medida que les sean aplicables, con las siguientes peculiaridades: que el plan de financiación o de recuperación deben ser aprobados por la comisión de control del plan de pensiones o fondo de pensiones, que la suspensión de la contratación de nuevos seguros o de aceptación de reaseguro y la prohibición de prórroga de los contratos de seguro ya celebrados queda sustituida por la medida de suspensión de la integración de nuevos planes de pensiones o de nuevos partícipes en los planes de pensiones, y que las referencias que en dichos preceptos se hacen a la entidad aseguradora o a sus órganos de administración deben entenderse hechas, respectivamente, al plan o fondo de pensiones o, según los casos, a las entidades gestoras o depositarias o a las comisiones de control del fondo o de los planes de pensiones.
+3.º Asimismo, como medida de control especial complementaria de las contempladas en los números anteriores, la Dirección General de Seguros y Fondos de Pensiones podrá acordar la intervención de la entidad gestora y del fondo o fondos de pensiones para garantizar su correcto cumplimiento de conformidad con lo establecido en el artículo 163 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+3. En todo lo demás, será de aplicación en materia de medidas de control especial a adoptar sobre entidades gestoras y planes y fondos de pensiones lo dispuesto en los artículos 164 y 165 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras sobre procedimiento administrativo de adopción de medidas de control especial y sustitución provisional de los órganos de administración, pero entendiéndose hechas a la comisión de control o, en su caso, a la entidad gestora las referencias a los órganos de administración de la entidad aseguradora, cuando las medidas a adoptar lo sean sobre planes y fondos de pensiones.
+El juez que declare en concurso a una entidad gestora o depositaria de fondos de pensiones procederá de inmediato a la notificación de la resolución a la Dirección General de Seguros y Fondos de Pensiones. Esta última podrá solicitar a los jueces de los concursos información acerca del estado y evolución de los procedimientos concursales que afecten a entidades gestoras y depositarias de fondos de pensiones.
+Se añade la letra d) al número 1º y la letra h) al número 2º del apartado 1 por el art. 212.20 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifican los apartado 2 y 3 por la disposición final 4.10 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+## SECCIÓN 4
+
+Sección 4.ª Régimen de infracciones y sanciones
+
+### Artículo 35
+
+Artículo 35. Infracciones administrativas.
+1. Las entidades gestoras y depositarias, los promotores de planes de pensiones, las personas o entidades a las que se hayan transferido funciones, los comercializadores de planes de pensiones, los actuarios y las entidades en las que estos desarrollen su actividad, los liquidadores, así como quienes desempeñen cargos de administración o dirección en las entidades citadas, las personas que ejerzan las funciones claves previstas en esta ley, los miembros de la comisión promotora, los miembros de las comisiones y subcomisiones de control de los planes y fondos de pensiones y los miembros de la Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos, que infrinjan normas de ordenación y supervisión de planes y fondos de pensiones, incurrirán en responsabilidad administrativa sancionable con arreglo a lo dispuesto en el artículo siguiente.
+Se considerarán:
+a) Cargos de administración los administradores o miembros de los órganos colegiados de administración, de las comisiones y subcomisiones de control y de las comisiones promotoras, y cargos de dirección, sus directores generales o asimilados, entendiéndose por tales aquellas personas que desarrollen en la entidad funciones de alta dirección bajo la dependencia directa de su órgano de administración o de comisiones ejecutivas o consejeros delegados del mismo.
+b) Normas de ordenación y supervisión de los planes y fondos de pensiones, las comprendidas en la presente Ley y en sus disposiciones reglamentarias de desarrollo y, en general, las que figuren en leyes de carácter general que contengan preceptos específicamente referidos a los planes y fondos de pensiones o a otras entidades y personas contempladas en la presente Ley.
+2. Las infracciones de normas de ordenación y supervisión de los planes y fondos de pensiones se clasifican en muy graves, graves y leves.
+3. Tendrán la consideración de infracciones muy graves:
+a) El ejercicio por las entidades gestoras de actividades ajenas a su objeto exclusivo legalmente determinado, salvo que tenga un carácter meramente ocasional o aislado, así como la aceptación de los servicios de comercialización de planes de pensiones de entidades o personas distintas de las enumeradas en el apartado 1 del artículo 26 bis de esta Ley, o la aceptación de tales servicios sin el preceptivo acuerdo de comercialización.
+b) La sustitución de las entidades gestoras o depositarias sin ajustarse a lo dispuesto en el artículo 23 o sin dar cumplimiento a lo preceptuado en el apartado 5 del artículo 11 de esta Ley.
+c) El defecto en el margen de solvencia en cuantía superior al 5 por ciento del importe necesario para garantizar el cumplimiento de las obligaciones potenciales.
+En los casos en que la situación descrita en esta letra se derive de una revisión actuarial, sólo se considerará como infracción el incumplimiento del plan de financiación que se establezca, o la falta de formulación del mismo en el plazo que se establezca.
+d) El defecto en el cálculo o la insuficiencia de las inversiones para la cobertura de los fondos de capitalización, provisiones matemáticas y otras provisiones técnicas exigibles con arreglo al párrafo segundo del apartado 1 del artículo 8 en cuantía superior al 10 por ciento.
+En los casos en que la insuficiencia de las inversiones se derive de una pérdida imprevisible de aptitud de las inversiones sobrevenida después de su realización o bien se derive de una revisión actuarial, sólo se entenderá como infracción el incumplimiento del plan de financiación o saneamiento que se establezca o la falta de formulación de éste en el plazo que se establezca.
+e) El carecer de la contabilidad exigida legalmente o llevarla con anomalías sustanciales que impidan o dificulten notablemente conocer la situación económica, patrimonial y financiera de la entidad gestora o del fondo de pensiones, así como el incumplimiento de la obligación de someter sus cuentas anuales a auditoría de cuentas conforme a la legislación vigente.
+f) El carecer de las bases técnicas exigidas por el sistema financiero y actuarial de los planes de pensiones, así como la falta de la revisión de dicho sistema financiero y actuarial que exige el apartado 5 del artículo 9.
+g) La inversión en bienes distintos a los autorizados cuando exceda del 3 por ciento del activo del fondo, o la inversión en bienes autorizados en proporción superior a la establecida en el artículo 16 o en disposiciones reglamentarias cuando el exceso supere el 50 por ciento de los límites legales o reglamentarios y no tenga carácter transitorio, así como la realización de operaciones con incumplimiento de las condiciones generales impuestas en el artículo 17.
+h) Confiar la custodia o el depósito de los valores mobiliarios y demás activos financieros a entidades distintas de las previstas en el artículo 21.
+i) El incumplimiento de las especificaciones y bases técnicas de los planes de pensiones o de las normas de funcionamiento de los fondos de pensiones, salvo que tengan un carácter meramente ocasional o aislado, así como la realización de prácticas abusivas que perjudiquen el derecho de los promotores, partícipes o beneficiarios.
+j) El incumplimiento de las medidas de control especial adoptadas por la Dirección General de Seguros y Fondos de Pensiones conforme al artículo 34 de esta Ley.
+k) El reiterado incumplimiento de los acuerdos o resoluciones emanados de la Dirección General de Seguros y Fondos de Pensiones.
+l) La falta de remisión a la Dirección General de Seguros y Fondos de Pensiones de cuantos datos o documentos deban suministrarle la entidad gestora, la comisión de control de los planes o fondos de pensiones, la entidad depositaria o los actuarios, ya mediante su presentación periódica, ya mediante la atención de requerimientos individualizados que les dirija la citada Dirección General en el ejercicio de sus funciones, o la falta de veracidad en los mismos, cuando con ello se dificulte la apreciación de su solvencia. A los efectos de este párrafo se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por la Dirección General de Seguros y Fondos de Pensiones al recordar por escrito la obligación de presentación periódica o reiterar el requerimiento individualizado.
+m) La excusa, negativa o resistencia a la actuación inspectora, siempre que medie requerimiento expreso y por escrito al respecto.
+n) La aceptación de aportaciones a un plan de pensiones, a nombre de un mismo partícipe, por encima del límite financiero previsto en el apartado 3 del artículo 5, salvo que dichas aportaciones correspondan a la transferencia de los derechos consolidados por alteración de la adscripción a un plan de pensiones o a las previsiones de un plan de reequilibrio formulado conforme al régimen transitorio aplicable en cada momento.
+ñ) El incumplimiento del deber de información o suministrar información insuficiente, inexacta o inadecuada a las comisiones de control, partícipes, beneficiarios y al público en general, siempre que, por el número de afectados o por la importancia de la información, tal incumplimiento pueda estimarse como especialmente relevante.
+o) La falsedad en los dictámenes y documentos contables, de auditoría, actuariales o de información previstos en esta Ley.
+p) El incumplimiento por los actuarios o las entidades en las que desarrollen su actividad de la obligación de realizar la revisión actuarial de un plan de pensiones o los cálculos o informes actuariales, contratados en firme, así como la elaboración de bases técnicas o la realización de cálculos e informes incumpliendo las normas actuariales aplicables a los planes de pensiones, cuando de estas conductas se derive un perjuicio importante en el desarrollo o viabilidad del plan o para los intereses de los promotores, partícipes o beneficiarios.
+q) La prestación de servicios de comercialización de planes de pensiones por personas o entidades distintas de las enumeradas en el apartado 1 del artículo 26 bis de esta Ley, o la prestación de tales servicios sin el preceptivo acuerdo de comercialización.
+r) La realización de actos y operaciones prohibidos por normas de ordenación y supervisión de los planes y fondos de pensiones establecidas en disposiciones con rango de Ley, o con incumplimiento de los requisitos establecidos en las mismas, salvo que tales conductas tengan carácter ocasional o aislado.
+s) Presentar deficiencias en el sistema de gobierno, especialmente en lo relativo a las funciones de gestión de riesgos, función de auditoría interna y, en su caso, función actuarial, así como en la externalización de funciones o actividades, cuando tales deficiencias disminuyan la solvencia o pongan en peligro la viabilidad de la entidad gestora o los planes y fondos de pensiones.
+t) La falta de sustitución, conforme a lo previsto en el artículo 28, de aquellos en quienes concurran circunstancias que supongan incumplimiento de los requisitos de aptitud y honorabilidad, así como la falta de remisión a la Dirección General de Seguros y Fondos de Pensiones de la información necesaria para la evaluación de las exigencias de honorabilidad y aptitud, y su remisión incompleta o la falta de veracidad en la información remitida.
+4. Tendrán la consideración de infracciones graves:
+a) El ejercicio meramente ocasional o aislado por las entidades gestoras de actividades ajenas a su objeto exclusivo legalmente determinado.
+b) La ausencia de comunicación, cuando ésta sea preceptiva, de la formalización, modificación y traslado a otro fondo de pensiones de los planes de pensiones, de la composición y cambios en los órganos de administración de las entidades gestoras y en las comisiones de control y de la designación de actuarios para la revisión de las bases y cálculos actuariales.
+c) El defecto en el margen de solvencia en cuantía inferior al 5 por ciento del importe exigible con arreglo al párrafo tercero del apartado 1 del artículo 8.
+En los casos en que la situación descrita en este párrafo se derive de una revisión actuarial, sólo se considerará como infracción el incumplimiento del plan de financiación que se establezca, o la falta de formulación del mismo en el plazo que se establezca.
+d) El defecto en el cálculo o la insuficiencia de las inversiones para la cobertura de los fondos de capitalización, provisiones matemáticas y otras provisiones técnicas exigibles con arreglo al párrafo segundo del apartado 1 del artículo 8 en cuantía superior al 5 por ciento, pero inferior al 10 por ciento.
+En los casos en que la insuficiencia de las inversiones se derive de una pérdida imprevisible de aptitud de las inversiones sobrevenida después de su realización o bien se derive de una revisión actuarial, sólo se entenderá como infracción el incumplimiento del plan de financiación o saneamiento que se establezca, o la falta de formulación de éste en el plazo que se establezca.
+e) El incumplimiento de las normas vigentes sobre contabilización de operaciones, formulación de balances y cuenta de pérdidas y ganancias, siempre que no constituya infracción muy grave con arreglo al párrafo e) del apartado 3 precedente, así como las relativas a la elaboración de los estados financieros de obligada comunicación a la Dirección General de Seguros y Fondos de Pensiones.
+f) La materialización en títulos valores de las participaciones en el fondo de pensiones, contraviniendo la prohibición establecida en el artículo 10.
+g) La inversión en bienes no autorizados cuando no exceda del 3 por ciento del activo del fondo, o la inversión en bienes autorizados en proporción superior a la establecida en el artículo 16 o en disposiciones reglamentarias siempre que el exceso supere el 20 por ciento pero no rebase el 50 por ciento de los límites legales o reglamentarios y no tenga carácter transitorio.
+h) La contratación de la administración de activos contraviniendo las normas que se dicten conforme al apartado 4 del artículo 20.
+i) El incumplimiento meramente ocasional o aislado de las especificaciones y bases técnicas de los planes de pensiones o de las normas de funcionamiento de los fondos de pensiones, así como la aplicación incorrecta de las especificaciones y bases técnicas de los planes de pensiones en perjuicio de los partícipes o beneficiarios.
+j) La emisión de obligaciones o el recurso al crédito por las entidades gestoras.
+k) El incumplimiento meramente ocasional o aislado de los acuerdos o resoluciones emanados de la Dirección General de Seguros y Fondos de Pensiones.
+l) La falta de remisión a la Dirección General de Seguros y Fondos de Pensiones de cuantos datos o documentos deban serle suministrados ya mediante su presentación periódica, ya mediante la atención de requerimientos individualizados que les dirija la citada Dirección General en el ejercicio de sus funciones, así como la falta de veracidad en los mismos, salvo que ello suponga la comisión de una infracción muy grave.
+A los efectos de este párrafo se entenderá que hay falta de remisión cuando ésta no se produzca dentro del plazo fijado en las normas reguladoras de la presentación periódica o del plazo concedido al efecto al formular el requerimiento individualizado.
+m) La excusa, negativa o resistencia a la actuación inspectora cuando no constituya infracción muy grave.
+n) La aplicación de comisiones de gestión o de depósito en cuantía superior a la acordada o a los límites fijados reglamentariamente o en las normas de funcionamiento del fondo de pensiones.
+ñ) El incumplimiento del deber de información o suministrar información insuficiente, inexacta o inadecuada a los partícipes, beneficiarios o al público en general, cuando no concurran las circunstancias a que se refiere el párrafo ñ) del apartado 3 del presente artículo, así como la realización de cualesquiera actos u operaciones con incumplimiento de las normas reguladoras de la publicidad y deber de información de los planes y fondos de pensiones.
+o) El incumplimiento por las entidades depositarias de las obligaciones establecidas en el artículo 21.
+p) La realización de actos u operaciones con incumplimiento de las normas que se dicten sobre la forma y condiciones de la contratación de planes de pensiones con los partícipes, salvo que tenga carácter meramente ocasional o aislado.
+q) El incumplimiento por los actuarios o las entidades en las que desarrollen su actividad de la obligación de realizar la revisión actuarial de un plan de pensiones o los cálculos o informes actuariales, contratados en firme, así como la elaboración de bases técnicas o la realización de cálculos e informes incumpliendo las normas actuariales aplicables a los planes de pensiones o los requisitos establecidos en el apartado 5 del artículo 9 de esta Ley, cuando no deban calificarse como infracciones muy graves.
+r) El incumplimiento reiterado de los plazos y condiciones previstos en la normativa relativos a las formas de cobro y reconocimiento del derecho a las prestaciones, a la movilización de derechos consolidados o al reembolso de éstos en los supuestos excepcionales de liquidez.
+s) Las infracciones leves, cuando durante los dos años anteriores a su comisión hubieran sido impuestas sanciones firmes por infracciones leves reiteradas.
+t) Incumplimiento por parte de la entidad gestora de la obligación establecida en el apartado 3 del artículo 26 bis de velar para que las actuaciones de las personas o entidades comercializadoras se ajusten a lo establecido en el acuerdo de comercialización y en la legislación vigente, salvo que tenga carácter meramente ocasional o aislado.
+u) La realización de actos y operaciones prohibidos por normas de ordenación y supervisión de los planes y fondos de pensiones establecidas en disposiciones reglamentarias, o con incumplimiento de los requisitos establecidos en las mismas, salvo que tales conductas tengan carácter ocasional o aislado.
+v) Presentar deficiencias en el sistema de gobierno, especialmente en lo relativo a las funciones de gestión de riesgos, función de auditoría interna, y en su caso, función actuarial, así como en la externalización de funciones o actividades y siempre que ello no constituya infracción muy grave.
+5. Tendrán la consideración de infracciones leves:
+a) El defecto en el cálculo o la insuficiencia de inversiones para la cobertura de los fondos de capitalización, provisiones matemáticas y otras provisiones técnicas exigibles con arreglo al párrafo segundo del apartado 1 del artículo 8 en cuantía inferior al 5 por ciento.
+En los casos en que la insuficiencia de las inversiones se derive de una pérdida imprevisible de aptitud de las inversiones sobrevenida después de su realización o bien se derive de una revisión actuarial, sólo se entenderá como infracción el incumplimiento del plan de financiación o saneamiento que se establezca, o la falta de formulación de éste en el plazo que se establezca.
+b) El exceso de inversión sobre los coeficientes establecidos en el artículo 16 o en disposiciones reglamentarias cuando tenga carácter transitorio, o cuando no teniendo tal carácter no exceda del 20 por ciento de los límites legales o reglamentarios.
+c) En general, el incumplimiento de preceptos de obligada observancia comprendidos en las normas de ordenación y supervisión de los planes y fondos de pensiones que no constituyan infracción grave o muy grave conforme a lo dispuesto en los dos apartados anteriores.
+d) El incumplimiento meramente ocasional o aislado de los plazos y condiciones previstos en la normativa relativos a las formas de cobro y reconocimiento del derecho a las prestaciones, a la movilización de derechos consolidados o al reembolso de éstos en los supuestos excepcionales de liquidez.
+Se modifica el primer párrafo del apartado 1 por el art. único.8 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+ Se modifica el primer párrafo del apartado 1, se añaden las letras s) y t) al apartado 3 y la letra v) al apartado 4 por el art. 212.21 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifica por la disposición final 13.11 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Artículo 36
+
+Artículo 36. Sanciones administrativas.
+1. A las entidades y personas referidas en el apartado 1 del artículo 35 de esta Ley, salvo las mencionadas en los apartados 2, 3 y 4 siguientes, les serán aplicables las sanciones administrativas previstas en los artículos 198, 199 y 200 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, si bien, las de suspensión de la autorización administrativa efectiva se referirá al ejercicio de actividad como gestora o depositaria de cualquier fondo de pensiones o a la habilitación para ser promotor de planes de pensiones del sistema individual. En la multa por infracción muy grave prevista en la letra c) del artículo 198 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, se entenderá por volumen de negocio las aportaciones a planes de pensiones del último ejercicio cerrado con anterioridad a la comisión de la infracción. A estos efectos, se computarán las siguientes aportaciones: en caso de las entidades gestoras y depositarias, la totalidad de aportaciones a los planes de pensiones bajo su gestión y custodia, respectivamente; en caso de promotores de planes distintos de las entidades gestoras y depositarias, la totalidad de las aportaciones a los planes de pensiones de los que son promotores; en caso de personas o entidades en las que se hayan delegado funciones, la totalidad de las aportaciones a los planes de pensiones adscritos a los fondos de pensiones a los que afecte esa delegación; y en caso de liquidadores distintos de entidades gestoras o depositarias, la totalidad de las aportaciones a planes de pensiones adscritos a los fondos de pensiones a los que afecte la liquidación.
+2. Los expertos actuarios y las entidades en las que desarrollen su actividad, por sus actuaciones en relación con los planes y fondos de pensiones, serán sancionados por la comisión de infracciones muy graves con una de las siguientes sanciones: prohibición de emitir sus dictámenes en la materia por un período no superior a diez años ni inferior a cinco o multa por importe desde 150.253,02 euros hasta 300.506,05 euros. Por la comisión de infracciones graves se impondrá a los actuarios una de las siguientes sanciones: prohibición de emitir dictámenes en la materia en un período de hasta cinco años o multa por importe desde 30.050,61 euros hasta 150.253,02 euros. Por la comisión de infracciones leves se impondrá al actuario la sanción de multa, que podrá alcanzar hasta el importe de 30.050,61 euros. Si el actuario actúa en nombre de una sociedad, las mismas sanciones serán aplicables, además, a dicha sociedad.
+3. Será de aplicación a los cargos de administración y dirección de las entidades referidas en el apartado 1 del artículo 35 de esta Ley, excepto a los que desarrollen su actividad en entidades comercializadoras, el régimen de responsabilidad que para los cargos de administración o de dirección de entidades aseguradoras regulan los artículos 191, 202, 203 y 204 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, si bien la inhabilitación para ejercer cargos de administración o dirección a que se refiere la letra a) del artículo 202 lo será, según los casos, en cualquier entidad gestora o depositaria, en cualquier entidad en la que los actuarios desarrollen su actividad, o, finalmente, en cualquier comisión o subcomisión de control de los planes y de los fondos de pensiones.
+Igualmente será de aplicación el régimen de los artículos 191, 202, 203 y 204 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras a los cargos de administración y dirección de las entidades promotoras de planes de pensiones, y a los de entidades en las que se hayan delegado funciones de la gestora o depositaria.
+En estos supuestos la inhabilitación vendrá referida, según los casos, a ejercer cargos de administración y dirección en las citadas entidades para el ejercicio de funciones y facultades relativas a los planes y fondos de pensiones.
+4. Serán de aplicación las sanciones administrativas previstas en los artículos 56.1, letras b), c) y d); 56.2 y 56.3 de la Ley 26/2006, de mediación de seguros y reaseguros privados, a las personas o entidades comercializadoras, si bien la suspensión temporal se entenderá referida al ejercicio de la actividad de comercialización de planes de pensiones.
+Asimismo, serán de aplicación las sanciones administrativas previstas en los artículos 57.3, letras b) y c), y 57.4 de la Ley 26/2006, de mediación de seguros y reaseguros privados, a los cargos de administración y dirección de las entidades comercializadoras. En estos supuestos, la suspensión temporal vendrá referida, según los casos, a ejercer cargos de administración y dirección en las citadas entidades para el ejercicio de funciones y facultades relativas a los planes y fondos de pensiones.
+Las sanciones a que se refieren los párrafos anteriores se impondrán en los términos señalados en los citados artículos 56 y 57.
+5. La inobservancia por el partícipe del límite de aportación previsto en el apartado 3 del artículo 5, salvo que el exceso de tal límite sea retirado antes del día 30 de junio del año siguiente, será sancionada con una multa equivalente al 50 por ciento de dicho exceso, sin perjuicio de la inmediata retirada del citado exceso del plan o planes de pensiones correspondientes. Dicha sanción será impuesta, en todo caso, a quien realice la aportación, sea o no partícipe, si bien el partícipe quedará exonerado cuando se hubiera realizado sin su conocimiento.
+6. A efectos del ejercicio de la potestad sancionadora a que se refieren este artículo y el anterior, serán de aplicación las normas contenidas en los artículos 197, 201 y 205 a 213, ambos inclusive, de la Ley 20/2015, de 14 de julio.
+A efectos de lo previsto en el artículo 206 de la citada ley, se publicarán las sanciones una vez que sean ejecutivas, indicando el tipo y clase de la infracción y la identidad del infractor. No obstante, la Dirección General de Seguros y Fondos de Pensiones podrá acordar diferir la publicación de las sanciones, no realizar la publicación o publicarlas de manera anónima, si considera que la publicación de la identidad de personas jurídicas o la identidad o los datos personales de personas físicas resulta desproporcionada, tras una evaluación en cada caso de la proporcionalidad de la publicación de tales datos, o si esta última pone en peligro la estabilidad de los mercados financieros o una investigación en curso.
+Cuando el infractor sea entidad de crédito o entidad o persona a la que se hayan transferido funciones o que ejerza como comercializador de planes de pensiones, o cargos de administración y dirección de las anteriores, para la imposición de la sanción será preceptivo el informe del ente u órgano administrativo al que, en su caso, corresponda el control y supervisión de dichas entidades o personas.
+7. Las personas o entidades, así como quienes de hecho o de derecho ejerzan cargos de administración o dirección en ellas, que desarrollen la actividad propia de los fondos de pensiones o de las entidades gestoras de fondos de pensiones sin contar con la preceptiva autorización administrativa o que utilicen las denominaciones «plan de pensiones», «fondo de pensiones», «entidad gestora de fondos de pensiones» o «entidad depositaria de fondos de pensiones», sin serlo, serán sancionadas con arreglo a lo dispuesto en el artículo 208 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+Se modifica el apartado 6 por el art. 212.22 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifica por la disposición final 4.11 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se modifica por la disposición final 13.12 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+ Se modifica el apartado 4 por la disposición final 5.4 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### CAPITULO X
+
+CAPÍTULO X
+Actividad transfronteriza de los fondos de pensiones de empleo
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### SECCIÓN 1
+
+Sección 1ª. Disposiciones generales sobre actividad transfronteriza de los fondos de pensiones de empleo
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 37
+
+Artículo 37. Definiciones.
+A los efectos de lo previsto en este Capítulo, se entenderá por:
+a) Fondo de pensiones de empleo: toda institución autorizada o registrada como tal por una autoridad competente de un Estado miembro al amparo de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, relativa a las actividades y supervisión de los fondos de pensiones de empleo. En el caso de España, fondos de pensiones de empleo serán los regulados en el capítulo IV de esta Ley destinados al desarrollo de planes de pensiones de empleo.
+b) Plan de pensiones: a los efectos de lo dispuesto en este Capítulo, se entenderá por plan de pensiones todo acuerdo que revista la forma de contrato, acto constitutivo o normativa que defina o prevea prestaciones de jubilación y, en su caso, prestaciones complementarias, así como las condiciones para su obtención. Para la instrumentación de compromisos por pensiones sujetos a la legislación social y laboral española, planes de pensiones serán los planes de pensiones del sistema de empleo regulados en los Capítulos I a III de esta Ley.
+c) Empresa promotora: toda empresa o entidad, persona física o jurídica que actúe en calidad de empleador o de trabajador por cuenta propia o en combinación de ambos y que ofrezca un plan de pensiones o realice contribuciones a un fondo de pensiones de empleo.
+d) Autoridades competentes: las autoridades nacionales designadas para desempeñar las funciones previstas en este Capítulo.
+e) Estado miembro de origen: el Estado miembro donde el fondo de pensiones de empleo tenga su domicilio social que coincidirá con su administración principal, o bien, si no tiene domicilio social, donde tenga su administración principal, y que esté autorizado o registrado por la autoridad nacional de dicho Estado miembro.
+f) Estado miembro de acogida: el Estado miembro cuya legislación social y laboral en el ámbito de los planes de pensiones de empleo sea aplicable a la relación entre la empresa promotora y los partícipes o beneficiarios.
+g) Actividad transfronteriza: la gestión de un plan de pensiones cuando la relación entre la empresa promotora y los partícipes y beneficiarios afectados se rija por la legislación social y laboral pertinente en el ámbito de los planes de pensiones de empleo de un Estado miembro distinto del Estado miembro de origen.
+Se modifican las letras a), c) y f) y se añade la g) por el art. 212.23 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 38
+
+Artículo 38. Aspectos generales de la actividad transfronteriza de los fondos de pensiones de empleo de los Estados miembros.
+1. Al amparo de lo previsto en la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, y de acuerdo con lo dispuesto en este capítulo, los fondos de pensiones de empleo autorizados y registrados en España podrán integrar planes de pensiones de empleo sujetos a la legislación social y laboral de otros Estados miembros.
+Asimismo, al amparo de la citada directiva y de acuerdo con lo dispuesto en este capítulo, los fondos de pensiones de empleo autorizados o registrados en otros Estados miembros podrán integrar planes de pensiones de empleo sujetos a la legislación social y laboral española.
+2. La realización de la actividad transfronteriza requerirá que el fondo de pensiones esté autorizado por la autoridad competente del Estado miembro del fondo de pensiones.
+La integración de cada plan en el fondo de pensiones de empleo correspondiente requerirá, con carácter previo, cumplimentar los procedimientos de comunicaciones entre el fondo de pensiones y las autoridades de supervisión de los Estados miembros de origen y de acogida a que se hace referencia en los artículos 40 y 44.
+3. La actividad transfronteriza de los fondos de pensiones de empleo se llevará a cabo respetando la legislación social y laboral de cada Estado miembro de acogida relativa a la organización de los sistemas de pensiones, inclusive en materia de afiliación obligatoria, y las disposiciones resultantes de la negociación colectiva, bajo las cuales deba desarrollarse el plan de pensiones.
+4. Serán aplicables las normas sobre inversiones de los fondos de pensiones establecidas en la legislación del Estado miembro de origen del fondo de pensiones.
+5. Los fondos de pensiones de empleo que realicen actividades transfronterizas, respecto de los partícipes y beneficiarios estarán sujetos a las obligaciones en materia de información impuestas por las autoridades y la legislación de los Estados miembros de acogida a los fondos de pensiones autorizados en su territorio dictadas como transposición a su normativa interna de lo previsto en la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016.
+6. El Ministro de Economía y Hacienda podrá dictar, previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, normas más detalladas para la aplicación de lo establecido en los apartados 4 y 5 de este artículo, en desarrollo de estos.
+Se modifican los apartados 1, 4 y 5 por el art. 212.24 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### SECCIÓN 2
+
+Sección 2ª. Actividad de los fondos de pensiones de empleo españoles en otros Estados miembros
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 39
+
+Artículo 39. Ámbito y autorización para la actividad transfronteriza de los fondos de pensiones de empleo domiciliados en España.
+1. El ámbito de actuación de un fondo de pensiones de empleo domiciliado en España podrá incluir la actividad transfronteriza si lo prevén expresamente sus normas de funcionamiento y estas están debidamente autorizadas por la Dirección General de Seguros y Fondos de Pensiones del Ministerio Economía y Hacienda e inscritas en el Registro Mercantil y en el Registro especial administrativo de fondos de pensiones conforme al procedimiento previsto en el artículo 11.
+2. La actividad transfronteriza de los fondos de pensiones de empleo domiciliados en España tendrá por objeto el desarrollo de planes de pensiones promovidos por empresas establecidas en el territorio de otros Estados miembros, cuya legislación social y laboral sea aplicable a la relación entre la empresa y los trabajadores, excluyendo:
+a) Los sistemas de pensiones obligatorios de la Seguridad Social según los Reglamentos (CE) n.º 883/2004 y (CE) n.º 987/2009 del Parlamento Europeo y del Consejo, así como los regímenes sustitutorios de los sistemas de Seguridad Social.
+b) Los sistemas de reparto, así como aquellos en los que los empleados no tienen derechos legales a prestaciones y en los que las empresas tienen derecho a rescatar en cualquier momento los activos y no deben necesariamente cumplir sus obligaciones de pago de las prestaciones de jubilación.
+c) Las operaciones de gestión de fondos internos de las empresas.
+d) Los sistemas de pensiones aplicables a trabajadores por cuenta propia. No obstante, los fondos de pensiones de empleo españoles podrán acoger planes de pensiones promovidos por empresarios individuales para sus trabajadores establecidos en otros Estados miembros, en los que el empresario también realice contribuciones propias, y por sociedades cooperativas y laborales o empresas similares de otros Estados miembros en interés de sus socios trabajadores o de trabajo, en analogía con lo dispuesto en el artículo 4.1.a).
+e) Prestaciones que no tengan carácter dinerario.
+Se modifica la letra a) del apartado 2 por el art. 212.25 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 40
+
+Artículo 40. Integración en un fondo de pensiones de empleo autorizado y registrado en España de planes de pensiones de empleo sujetos a la legislación social y laboral de otros Estados miembros.
+1. La integración en un fondo de pensiones autorizado y registrado en España de un plan de pensiones de empleo promovido por una o varias empresas sujeto a la legislación social y laboral de otro Estado miembro, requerirá las siguientes comunicaciones previas:
+a) La entidad gestora del fondo deberá comunicar a la Dirección General de Seguros y Fondos de Pensiones la pretensión de integrar el plan de pensiones. Dicha comunicación deberá incluir, al menos, información en la que se identifique el Estado miembro de acogida, denominación de la empresa o empresas promotoras y el domicilio de su administración principal, así como las principales características del plan de pensiones.
+b) En un plazo máximo de tres meses desde la recepción de la información señalada en la letra a), la Dirección General de Seguros y Fondos de Pensiones la comunicará a la autoridad competente del Estado miembro de acogida e informará de dicha comunicación a la gestora del fondo de pensiones.
+La Dirección General de Seguros y Fondos de Pensiones podrá acordar no practicar la referida comunicación a la autoridad del Estado miembro de acogida, mediante resolución motivada que determine que la estructura administrativa, la situación financiera del fondo o la reputación o cualificación profesional o experiencia de las personas que dirigen la entidad gestora, no son compatibles con la actividad transfronteriza propuesta o que ponga de manifiesto alguna de las circunstancias previstas en esta Ley como causas de revocación de las autorizaciones administrativas, de disolución o de adopción de medidas de control especial. Dicha resolución motivada deberá emitirse y ser notificada a la entidad gestora del fondo de pensiones dentro del indicado plazo de tres meses. Esta resolución, que no agota la vía administrativa, será susceptible de recurso de alzada y contencioso-administrativo.
+c) El Estado miembro de acogida, durante el plazo de seis semanas desde la recepción de la comunicación prevista en la letra b), informará a la Dirección General de Seguros y Fondos de Pensiones acerca de:
+1.º Las disposiciones de su legislación social y laboral con arreglo a las cuales deba gestionarse el plan de pensiones.
+2.º Las obligaciones en materia de información a los partícipes y beneficiarios exigibles a los fondos de pensiones autorizados en el Estado miembro de acogida, de conformidad con lo previsto en el artículo 38.5.
+La Dirección General de Seguros y Fondos de Pensiones trasladará dicha información a la entidad gestora del fondo de pensiones.
+2. A partir de que la entidad gestora reciba la información señalada en el apartado 1.c), o bien, una vez transcurrido el plazo de seis semanas previsto en dicha letra c) sin haber recibido comunicación alguna de la Dirección General de Seguros y Fondos de Pensiones, podrá efectuarse la integración del plan de pensiones en el fondo mediante acuerdo expreso de admisión adoptado por la comisión de control del fondo o, en defecto de esta, por la entidad gestora.
+3. Efectuada la integración del plan de pensiones en el fondo, la gestora deberá comunicarla a la Dirección General de Seguros y Fondos de Pensiones dentro del plazo de 10 días hábiles desde la adopción del acuerdo de admisión, y acompañará al menos:
+a) Una certificación del acuerdo de admisión.
+b) La denominación y domicilio de la empresa o empresas promotoras.
+c) Las condiciones generales y, en su caso, la base técnica del plan, redactadas o traducidas al castellano.
+En el registro administrativo de fondos de pensiones se tomará constancia de los planes de pensiones de empleo sujetos a la legislación social y laboral de otros Estados miembros y adscritos a los fondos de pensiones inscritos.
+4. Cuando las relaciones laborales de una empresa promotora o conjunto de empresas promotoras se sujeten a distintas legislaciones nacionales en la medida que cuenten con trabajadores en distintos Estados miembros susceptibles de incorporarse al fondo de pensiones, a los efectos previstos en este artículo se identificarán tantos planes de pensiones como Estados miembros de acogida. No obstante, podrá considerarse un único plan comprensivo de distintos subplanes, correspondientes a los distintos Estados miembros de acogida, si las autoridades competentes de estos no formularen objeción al respecto.
+No obstante lo anterior, podrán identificarse distintos planes de pensiones para colectivos de trabajadores de una empresa, sujetos a la legislación social y laboral de un mismo Estado miembro, adscritos a un fondo de pensiones o a distintos fondos de pensiones.
+En todo caso, los trabajadores cuyas relaciones laborales se sujeten a la legislación española deberán figurar incorporados a un plan de pensiones de empleo de los regulados en los capítulos I a III.
+5. La persona titular del Ministerio de Asuntos Económicos y Transformación Digital, previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, podrá dictar normas más detalladas relativas a los procedimientos registrales y de comunicaciones regulados en este artículo.
+Se modifica por el art. 212.26 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 41
+
+Artículo 41. Desarrollo de planes de pensiones de empleo sujetos a la legislación social y laboral de otros Estados miembros adscritos a fondos de pensiones autorizados y registrados en España.
+1. El régimen de aportaciones, contingencias, prestaciones, movilidad y liquidez de los derechos consolidados y económicos de los planes de pensiones sujetos a la legislación de otros Estados miembros será el establecido en sus especificaciones de acuerdo con lo previsto en su legislación nacional y en los acuerdos entre empresas y trabajadores.
+A las aportaciones no les serán aplicables los límites del apartado 3 del artículo 5 establecidos para los planes de pensiones sujetos a la legislación española, sin perjuicio de los límites sobre aportaciones, prestaciones o derechos devengados que, en su caso, establezca la legislación nacional aplicable al plan.
+2. El plan de pensiones deberá ajustarse a sistemas financieros y actuariales de capitalización individual y, en la medida que asuma riesgos biométricos y/o se garantice el resultado de la inversión o un nivel determinado de prestaciones, deberá adecuarse su funcionamiento a unas bases técnicas y constituirse provisiones técnicas suficientes.
+Las bases técnicas y los cálculos actuariales y, en especial, el cálculo de provisiones técnicas deberán realizarse por actuario.
+En todo caso, los métodos actuariales, los tipos de interés, tablas demográficas y otras hipótesis utilizados deberán ser adecuados a los criterios establecidos en la materia por la normativa española sobre planes y fondos de pensiones contenidas en las normas de desarrollo de esta Ley. El uso de las tablas biométricas se hará tomando en consideración las características del grupo de partícipes y del plan de pensiones y los cambios que puedan producirse en los riesgos pertinentes.
+Asimismo, serán aplicables las disposiciones de la normativa española sobre margen de solvencia de los planes de pensiones contenidas en las normas de desarrollo de esta Ley. Las exigencias de margen de solvencia serán aplicables a cada plan de pensiones adscrito al fondo. Cada plan deberá mantener los recursos propios adicionales a las provisiones técnicas, que integran el margen de solvencia, imputables exclusivamente a su cuenta de posición y a sus partícipes y beneficiarios.
+El sistema financiero y actuarial de cada plan de pensiones deberá ser revisado en los términos establecidos en el apartado 5 del artículo 9 de esta Ley y en las normas que la desarrollen.
+3. Los planes de pensiones de empleo sujetos a la legislación social y laboral de otros Estados miembros adscritos a fondos españoles no precisarán constituir la comisión de control del plan regulada en el artículo 7, sin perjuicio, en su caso, de los órganos o instancias de representación o participación de empresas y trabajadores, establecidos en virtud de pacto o conforme a los usos o la legislación del Estado miembro de acogida, para la supervisión del funcionamiento del plan y las relaciones con la entidad gestora y, a través de esta, con la autoridad competente española.
+4. Las obligaciones de la entidad gestora en materia de información a los partícipes y beneficiarios de los planes de pensiones a que se refiere esta sección serán las impuestas por las autoridades y la legislación del Estado miembro de acogida a los fondos de pensiones de empleo autorizados en su territorio, dictadas como transposición a su normativa interna de lo previsto en el Título IV de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016.
+La información referida deberá estar disponible en una lengua oficial del Estado miembro de acogida.
+5. El plan de pensiones mantendrá una cuenta de posición en el fondo de pensiones de empleo.
+Serán de aplicación las normas y límites sobre inversiones y comisiones de gestión y depósito contenidas en esta Ley y en sus normas de desarrollo aplicables a los fondos de pensiones autorizados y registrados en España.
+Los activos del fondo de pensiones no responderán de las deudas de los promotores de los planes.
+6. La cuenta de posición del plan de pensiones podrá movilizarse a otro fondo de pensiones de empleo autorizado en cualquier Estado miembro, a cuyo efecto será aplicable el procedimiento de transferencias transfronterizas regulado en el artículo 50.
+7. La entidad gestora del fondo de pensiones deberá comunicar a la Dirección General de Seguros y Fondos de Pensiones la terminación de los planes de pensiones a que se refiere este artículo, informará sobre el proceso de liquidación y transferencia de activos y pasivos del plan a otra institución financiera o similar de acuerdo a lo establecido en la legislación del Estado de acogida y deberá facilitar a los partícipes y beneficiarios, o a sus representantes, una descripción general del procedimiento.
+A los planes de pensiones a que se refiere este artículo les serán de aplicación las causas de terminación previstas en el artículo 5.4.c) y d), sin perjuicio de otras causas de terminación establecidas en sus especificaciones o en la legislación nacional aplicable al plan.
+En la liquidación del plan, el destino de los derechos consolidados de los partícipes y económicos de los beneficiarios se ajustará a lo previsto en los acuerdos correspondientes, en las especificaciones del plan o en la legislación nacional aplicable al plan.
+La ausencia de actividad, de partícipes, beneficiarios y recursos en un plan de pensiones sujeto a la legislación de otro Estado miembro, durante un plazo superior a un año, será causa de baja del plan en el Registro administrativo de fondos de pensiones.
+Se modifica el título y los apartados 3, 4, 5 y 6 por el art. 212.27 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 42
+
+Artículo 42. Control y supervisión administrativa de los planes de pensiones de empresas de otros Estados miembros adscritos a fondos de pensiones domiciliados en España.
+1. Corresponde al Ministerio de Economía y Hacienda, a través de la Dirección General de Seguros y Fondos de Pensiones y sus Servicios de Inspección, el control y supervisión del desarrollo de los planes de pensiones de empresas sujetos a la legislación social y laboral de otros Estados miembros, adscritos a fondos de pensiones domiciliados en España.
+Las disposiciones del Capítulo IX de esta Ley serán igualmente aplicables en el caso de que los fondos de pensiones sujetos a la competencia de la autoridad española integren planes de pensiones promovidos por empresas de otros Estados miembros; en tal caso, se entenderán hechas a dichos planes las realizadas al plan o planes de pensiones.
+2. La revocación de la autorización administrativa de un fondo de pensiones en los términos del artículo 31 conlleva la revocación de la autorización para la actividad transfronteriza.
+3. Cuando concurra alguna de las circunstancias previstas en el artículo 34 para la adopción de medidas de control especial, la Dirección General de Seguros y Fondos de Pensiones podrá prohibir o restringir la actividad transfronteriza de un fondo de pensiones, así como exigir la separación estricta de activos y pasivos.
+4. La autoridad del Estado miembro de acogida conservará la facultad de supervisión del cumplimiento de la legislación social y laboral aplicable al plan de pensiones y de las obligaciones de información a que se refiere el apartado 4 del artículo 41.
+La Dirección General de Seguros y Fondos de Pensiones colaborará con la autoridad del Estado miembro de acogida para la adopción de las medidas que sean precisas para poner fin a las irregularidades que se pongan de manifiesto en los referidos aspectos.
+Los incumplimientos de la legislación social y laboral y de las obligaciones de información, de los que sean responsables las personas y entidades a que se refieren el apartado 1 del artículo 35 y el apartado 5 del artículo 24, constituirán infracción de las normas de ordenación y supervisión de planes y fondos de pensiones, sancionable conforme a lo previsto en la Sección 4.ª del Capítulo IX, y podrán dar lugar a la adopción de medidas de control especial previstas en el artículo 34, así como a la prohibición o restricción de la actividad transfronteriza del fondo de pensiones.
+Si, a pesar de las medidas adoptadas, persistieran dichas irregularidades, las autoridades del Estado miembro de acogida, tras informar a la Dirección General de Seguros y Fondos de Pensiones, podrán adoptar las que estimen apropiadas para impedir o penalizar futuras irregularidades, incluida la posibilidad de que el fondo de pensiones integre y desarrolle el plan de la empresa promotora.
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### SECCIÓN 3
+
+Sección 3ª. Actividad en España de los fondos de pensiones de empleo domiciliados en otros Estados miembros
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 43
+
+Artículo 43. Instrumentación de los compromisos por pensiones sujetos a la legislación española a través de fondos de pensiones de empleo autorizados en otros Estados miembros.
+1. En orden al cumplimiento de lo previsto en la disposición adicional primera de esta ley, los compromisos por pensiones asumidos por las empresas con su personal sujetos a dicha disposición podrán instrumentarse a través de planes de pensiones del sistema de empleo de los regulados en los capítulos I a III, adscritos a fondos de pensiones de empleo domiciliados en España o a fondos de pensiones de empleo domiciliados en otros Estados miembros autorizados para la actividad transfronteriza conforme a la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016 y de conformidad con lo previsto en esta sección.
+Para la instrumentación de compromisos por pensiones derivados de relación laboral sujeta a la legislación española, la adscripción a fondos de pensiones de empleo autorizados en otros Estados miembros requerirá la promoción y formalización de un plan de pensiones de empleo de los regulados en los capítulos I a III, teniendo en cuenta lo previsto en esta sección.
+2. El desarrollo de planes de pensiones de empleo sujetos a la legislación española, a través de fondos de pensiones domiciliados en otros Estados miembros, se llevará a cabo respetando las disposiciones de la legislación social y laboral española y, en su caso, las disposiciones resultantes de la negociación colectiva aplicables al plan de pensiones. A tal efecto, se considerarán disposiciones de la legislación social y laboral española las siguientes contenidas en esta Ley:
+1.ª La disposición adicional primera sobre protección de los compromisos por pensiones con los trabajadores.
+2.ª El artículo 4.2 sobre modalidades de los planes de pensiones.
+3.ª El artículo 5.1 sobre principios básicos de los planes de pensiones: no discriminación, capitalización individual, irrevocabilidad de las aportaciones del promotor, atribución de derechos consolidados a los partícipes y derechos económicos a los beneficiarios e integración obligatoria en un fondo de pensiones de las contribuciones a los planes integrados, considerando, en este caso, un fondo de pensiones de empleo autorizado en otro Estado miembro autorizado para operar en España conforme a la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016 y lo previsto en esta sección.
+4.ª El artículo 5.3 sobre limitación de la cuantía de las aportaciones a planes de pensiones.
+5.ª El artículo 5.4 sobre causas de terminación de los planes de pensiones y liquidación de los planes de pensiones.
+6.ª El artículo 6 sobre el contenido de las especificaciones, que incluirán como anexo la base técnica, en su caso.
+7.ª Los artículos 9 y 7 en lo relativo a la comisión promotora y la comisión de control del plan para la promoción y el control y supervisión del funcionamiento del plan.
+8.ª El artículo 8 sobre contingencias susceptibles de cobertura y forma de las prestaciones; cuantificación, movilidad y supuestos excepcionales de liquidez y disposición anticipada de los derechos consolidados, así como las disposiciones adicionales cuarta, sexta y séptima, y el apartado 1 de la disposición transitoria séptima.
+Asimismo, se tendrán en cuenta en el desarrollo del plan de pensiones las disposiciones reglamentarias que desarrollan las citadas disposiciones.
+Se modifica el título y los apartados 1 y 2.3ª y 8ª por el art. 212.28 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 44
+
+Artículo 44. Integración de los planes de pensiones de empleo sujetos a la legislación social y laboral española en fondos de pensiones de empleo autorizados en otros Estados miembros.
+1. La empresa o empresas promotoras del plan de pensiones de empleo, susceptible de integrarse en un fondo de pensiones domiciliado en otro Estado miembro, instarán la constitución de la comisión promotora del plan regulada en esta Ley.
+La comisión promotora aprobará el proyecto de plan de pensiones de conformidad con lo previsto en el artículo 9 y solicitará la integración del plan en el fondo de pensiones.
+2. Con carácter previo a la integración del plan de pensiones en el fondo de pensiones autorizado en otro Estado miembro, deberá cumplimentarse el procedimiento de comunicaciones previsto en este apartado entre el fondo de pensiones y las autoridades del Estado miembro de origen del fondo y de España como Estado de acogida.
+En orden a iniciar el procedimiento, el fondo de pensiones deberá notificar a su autoridad nacional competente la pretensión de integrar el plan. Dicha notificación comprenderá información en la que, como mínimo, se identifique a España como Estado miembro de acogida, a la empresa o empresas promotoras y el domicilio de la administración principal de estas y las principales características del plan. La información también deberá incluir la identificación del representante del fondo de pensiones en territorio español al que se refiere el artículo 46.
+Una vez que la autoridad competente del Estado miembro de origen del fondo traslade la información referida en el párrafo anterior a la Dirección General de Seguros y Fondos de Pensiones de conformidad con lo dispuesto en el artículo 11.3 de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, dicha Dirección General de Seguros y Fondos de Pensiones, en el plazo de seis semanas desde la recepción de la información, informará a la autoridad competente del fondo de pensiones acerca de:
+a) Las disposiciones de la legislación social y laboral española con arreglo a las cuales deba desarrollarse el plan de pensiones, a las que se refiere el artículo 43.2.
+b) Las normas en materia de información a los partícipes y beneficiarios de los planes de pensiones de empleo exigibles a los fondos de pensiones autorizados y registrados en España por esta Ley y sus normas de desarrollo, de conformidad con lo previsto en el artículo 38.5.
+El plan de pensiones se podrá integrar en el fondo de pensiones una vez que la autoridad competente del Estado de origen del fondo de pensiones traslade a este la anterior información emitida por la Dirección General de Seguros y Fondos de Pensiones, o bien transcurrido el plazo antes citado de seis semanas sin que el fondo de pensiones haya recibido comunicación alguna.
+3. Dentro del plazo de un mes desde que sea efectiva la integración del plan de pensiones en el fondo de pensiones, la comisión promotora del plan deberá comunicar la integración a la Dirección General de Seguros y Fondos de Pensiones, a la que acompañará una acreditación de aquella y un ejemplar de las especificaciones y de la base técnica, en su caso.
+Efectuada la integración, deberá constituirse la comisión de control del plan en el plazo señalado reglamentariamente para los planes de pensiones adscritos a fondos de pensiones domiciliados en España.
+4. En el caso de que, conforme a lo previsto en el artículo 10.2 de esta Ley y en su desarrollo reglamentario, un mismo plan de pensiones se pretenda adscribir a varios fondos de pensiones de distintos Estados miembros, la integración en los distintos fondos se podrá realizar una vez que hayan finalizado todos los procedimientos de comunicaciones previstas en el apartado 2 anterior entre los fondos de pensiones y las autoridades competentes de los distintos Estados miembros de origen y las autoridades españolas.
+5. Un plan de pensiones de empleo sujeto a la legislación española, adscrito a un fondo de pensiones autorizado en España, podrá movilizarse a un fondo de pensiones de empleo autorizado en otro Estado miembro traspasando a este su cuenta de posición, a cuyo efecto será aplicable el procedimiento de transferencias transfronterizas regulado en el artículo 50.
+6. El Ministro de Economía y Hacienda, previa audiencia de la Junta Consultiva de Seguros y Fondos de Pensiones, podrá dictar normas más detalladas relativas a los procedimientos de comunicaciones regulados en este artículo, así como a las inscripciones en el Registro previsto en el artículo siguiente.
+Se modifica el título y los apartados 2 y 5 por el art. 212.29 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 45
+
+Artículo 45. Desarrollo de los planes de pensiones de empleo sujetos a la legislación social y laboral española adscritos a fondos de pensiones de empleo autorizados en otros Estados miembros.
+1. El funcionamiento y ejecución del plan de pensiones adscrito a un fondo de pensiones domiciliado en otro Estado miembro será supervisado por la comisión de control del plan, cuya composición y funcionamiento se ajustará a lo previsto en el artículo 7 de esta Ley y en su normativa de desarrollo.
+La comisión de control del plan velará por la adecuación de las especificaciones y del desarrollo del plan a las disposiciones de la legislación social y laboral española.
+2. El régimen de aportaciones, contingencias, prestaciones, movilidad y liquidez de los derechos consolidados y económicos de los planes de pensiones de empleo sujetos a la legislación española, adscritos a fondos de pensiones domiciliados en otros Estados miembros, será el previsto en las especificaciones del plan de conformidad con las disposiciones en la materia contenidas en esta Ley y en su normativa de desarrollo aplicables a los planes de pensiones de empleo, incluidas las normas sobre límites de aportación establecidas en el artículo 5.3.
+3. Las bases técnicas y los cálculos actuariales correspondientes al plan de pensiones y, en especial, el cálculo de provisiones técnicas deberán realizarse por actuario o, si lo permite la legislación del Estado del fondo de pensiones, por otro profesional experto en la materia, como un auditor, habilitado conforme a la normativa de dicho Estado.
+Los métodos actuariales, los tipos de interés, tablas demográficas y otras hipótesis utilizadas deberán ser adecuados a los criterios establecidos en la materia por la normativa del Estado miembro del fondo de pensiones. En todo caso, deberán utilizarse métodos financieros y actuariales de capitalización individual.
+Las exigencias y disposiciones relativas al margen de solvencia serán las establecidas en la legislación del Estado miembro del fondo de pensiones.
+La revisión del sistema financiero y actuarial se realizará, en su caso, de acuerdo con lo previsto en la normativa del Estado del fondo de pensiones.
+4. Serán aplicables las normas sobre inversiones de los fondos de pensiones establecidas en la legislación del Estado miembro de origen del fondo de pensiones.
+5. En materia de derechos y obligaciones de información a los partícipes y beneficiarios de los planes de pensiones sujetos a la legislación española, adscritos a fondos de pensiones autorizados en otros Estados miembros, será de aplicación el régimen establecido en esta Ley y en su desarrollo reglamentario sobre derechos y obligaciones de información en los planes de pensiones de empleo.
+Dicha información deberá estar disponible, al menos, en castellano.
+La comisión de control del plan velará porque los administradores o gestores del fondo de pensiones cumplan adecuadamente el régimen de información.
+6. Un plan de pensiones de empleo sujeto a la legislación española, adscrito a un fondo de pensiones de empleo autorizado en otro Estado miembro, podrá movilizarse a otro fondo de pensiones de empleo autorizado en cualquier Estado miembro a cuyo efecto será aplicable el procedimiento de transferencias transfronterizas regulado en el artículo 12 de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, y sección 4.ª de este capítulo.
+7. La terminación y liquidación del plan de pensiones deberá comunicarse por la comisión de control a la Dirección General de Seguros y Fondos de Pensiones.
+Lo dispuesto en el artículo 5.4 se aplicará a la terminación y liquidación de los planes de pensiones sujetos a la legislación española adscritos a fondos de pensiones de otros Estados miembros.
+Los derechos consolidados de los partícipes y, en su caso, los derechos económicos derivados de las prestaciones causadas se integrarán en otros planes de pensiones sujetos a la legislación española. La integración de los derechos en planes promovidos por empresas para los trabajadores, sujetos a la legislación de otros Estados miembros, será admisible en la medida que lo prevea expresamente la normativa comunitaria o los tratados bilaterales o multilaterales.
+8. En la Dirección General de Seguros y Fondos de Pensiones se llevará un Registro de fondos de pensiones de otros Estados miembros que actúen en España, en el que figurarán los representantes a que se refiere el artículo 46 y los planes de pensiones de empleo sometidos a la normativa española adscritos a dichos fondos.
+La comisión de control del plan deberá comunicar a la Dirección General de Seguros y Fondos de Pensiones las modificaciones de las especificaciones del plan y los cambios que se produzcan en la composición de dicha comisión.
+Se modifica el título y los apartados 4, 5 y 6 por el art. 212.30 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 46
+
+Artículo 46. Representantes en España de los fondos de pensiones de empleo de otros Estados miembros.
+Los fondos de pensiones domiciliados en otros Estados miembros que pretendan desarrollar en España planes de pensiones de empleo sujetos a la legislación española vendrán obligados a designar un representante, persona física con residencia habitual en España o persona jurídica en ella establecida, con las siguientes facultades:
+a) Atender las reclamaciones que presenten las comisiones de control, partícipes y beneficiarios de los planes sujetos a la legislación española adscritos al fondo. A tal efecto, deberá tener poderes suficientes para representar al fondo de pensiones, incluso para ordenar el abono de prestaciones.
+b) Representar al fondo de pensiones ante las autoridades judiciales y administrativas españolas en todo lo concerniente al desarrollo de los planes y a las actividades del fondo en España.
+El Ministro de Economía y Competitividad podrá dictar normas detalladas relativas al contenido, forma y plazos de las obligaciones previstas en este artículo.
+Téngase en cuenta que esta última actualización establecida por la disposición final 4.12 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción anterior:
+ "Los fondos de pensiones domiciliados en otros Estados miembros que pretendan desarrollar en España planes de pensiones de empleo sujetos a la legislación española vendrán obligados a designar un representante, persona física con residencia habitual en España o persona jurídica en ella establecida, con las siguientes facultades:
+ a) Atender las reclamaciones que presenten las comisiones de control, partícipes y beneficiarios de los planes sujetos a la legislación española adscritos al fondo. A tal efecto, deberá tener poderes suficientes para representar al fondo de pensiones, incluso para ordenar el abono de prestaciones.
+ b) Representar al fondo de pensiones ante las autoridades judiciales y administrativas españolas en todo lo concerniente al desarrollo de los planes y a las actividades del fondo en España.
+ c) Representar al fondo de pensiones a los efectos de las obligaciones tributarias que aquel deba cumplir por las actividades que realicen en territorio español. El representante deberá cumplir las obligaciones de practicar retención o ingreso a cuenta e ingresar el importe en el Tesoro en relación con los planes sujetos a la legislación española, en los términos previstos en la normativa del Impuesto sobre la Renta de las Personas Físicas, así como cumplimentar las obligaciones de información a la Administración tributaria establecidas por la normativa española para las entidades gestoras de fondos de pensiones.
+ El Ministro de Economía y Hacienda podrá dictar normas detalladas relativas al contenido, forma y plazos de las obligaciones previstas en este artículo."
+Se modifica por la disposición final 4.12 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 47
+
+Artículo 47. Supervisión del cumplimiento de la legislación social y laboral española en materia de planes de pensiones de empleo adscritos a fondos de pensiones autorizados en otros Estados miembros.
+1. Corresponde al Ministerio de Economía y Hacienda, a través de la Dirección General de Seguros y Fondos de Pensiones, como autoridad del Estado miembro de acogida, la supervisión del cumplimiento de la legislación social y laboral española aplicable al plan de pensiones y del cumplimiento de las obligaciones de información a partícipes y beneficiarios a que se refiere el artículo 45.5.
+En el ejercicio de la función de supervisión, dicha Dirección General podrá requerir información individualizada a las comisiones de control, y el Ministro de Economía y Hacienda podrá establecer sistemas de información periódica de carácter estadístico y financiero, de obligada presentación ante la Dirección General de Seguros y Fondos de Pensiones por parte de los fondos de pensiones de otros Estados miembros que actúen en España, para el adecuado control de sus actividades.
+2. El Ministerio de Asuntos Económicos y Transformación Digital, informará a las autoridades de los Estados miembros de origen acerca de cualquier cambio significativo en las disposiciones de la legislación social y laboral española pertinentes a los planes de pensiones, en la medida que afecte a la gestión de planes de pensiones adscritos a fondos de pensiones autorizados en otros Estados miembros, así como de los cambios en las normas en materia de obligaciones de información a partícipes y beneficiarios.
+3. En el caso de que la supervisión pusiera de manifiesto irregularidades, el Ministerio de Economía y Hacienda informará a las autoridades del Estado miembro de origen, para coordinar actuaciones a fin de que dichas autoridades adopten las medidas necesarias para subsanar las irregularidades.
+Si a pesar de las medidas adoptadas por las autoridades del Estado del fondo de pensiones, o debido a la ausencia en este de medidas adecuadas, persiste el incumplimiento de la legislación social y laboral española, el Ministerio de Economía y Hacienda podrá adoptar medidas para impedir o penalizar tales irregularidades, incluida la de impedir al fondo de pensiones que integre y desarrolle el plan de pensiones de la empresa promotora.
+4. La Dirección General de Seguros y Fondos de Pensiones podrá requerir a la comisión de control del plan o al promotor la adecuación del plan de pensiones a las disposiciones consideradas legislación social y laboral aplicables. El incumplimiento de este requerimiento constituirá infracción administrativa de las normas de ordenación y supervisión de los planes de pensiones sancionable conforme a lo previsto en la Sección 4.ª del Capítulo IX.
+El incumplimiento por las comisiones de control de las obligaciones de comunicación a la Dirección General de Seguros y Fondos de Pensiones previstas en esta Sección constituirá infracción administrativa de las normas de ordenación y supervisión de los planes y fondos de pensiones, sancionable conforme a lo previsto en la Sección 4.ª del Capitulo IX.
+La inobservancia de los límites de aportación a planes de pensiones establecidos en esta Ley será sancionable conforme a lo previsto en el artículo 36.4.
+5. Las comisiones de control y los partícipes y beneficiarios podrán formular sus reclamaciones relativas al funcionamiento de los planes o los fondos de pensiones ante la Dirección General de Seguros y Fondos de Pensiones o ante las autoridades del Estado miembro de origen, sin perjuicio de la colaboración entre ambas autoridades en orden a adoptar medidas tendentes a corregir las irregularidades que se pongan de manifiesto.
+Se modifica el título y el apartado 2 por el art. 212.31 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Artículo 48
+
+Artículo 48. Colaboración entre autoridades en la traba de activos de los fondos de pensiones domiciliados en otros Estados miembros.
+A petición de la autoridad de supervisión de un fondo de pensiones domiciliado en otro Estado miembro, el Banco de España o la Comisión Nacional del Mercado de Valores requerirán a los depositarios establecidos en España la traba de activos que tuvieran bajo su custodia, registro o depósito, pertenecientes al fondo de pensiones.
+Se añade por el art. único.4 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+## SECCIÓN 4
+
+Sección 4.ª Transferencias transfronterizas
+Se añade por el art. 212.32 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 49
+
+Artículo 49. Aspectos generales de las transferencias transfronterizas de planes de pensiones de empleo entre fondos de pensiones de empleo de los Estados miembros.
+1. Un fondo de pensiones de empleo autorizado o registrado en un Estado miembro podrá transferir la totalidad o una parte de las obligaciones, provisiones técnicas y otras obligaciones y derechos de un plan de pensiones de empleo adscrito al mismo, así como los activos que le correspondan o su equivalente en efectivo, a un fondo de pensiones de empleo receptor autorizado o registrado en otro Estado miembro.
+La transferencia transfronteriza parcial de un plan de pensiones de empleo sujeto a la legislación social y laboral española podrá realizarse en aplicación de los criterios establecidos reglamentariamente para la adscripción de un plan de pensiones de empleo a varios fondos de pensiones, en los planes de promoción conjunta con ocasión de la separación de entidades promotoras o cuando se produzca una escisión del plan en dos o más planes a consecuencia de operaciones societarias.
+2. Los costes de la transferencia no correrán a cargo del resto de los partícipes y beneficiarios del fondo de pensiones de empleo transferente ni de los partícipes y beneficiarios titulares del fondo de pensiones de empleo receptor.
+3. La transferencia estará sujeta a la aprobación previa de una mayoría de los partícipes y una mayoría de los beneficiarios afectados, o, si procede, de una mayoría de sus representantes y, además, cuando proceda, requerirá la aprobación de la empresa promotora, de conformidad con lo previsto en la legislación nacional aplicable.
+El fondo de pensiones de empleo transferente pondrá la información sobre las condiciones de la transferencia a disposición de los partícipes y beneficiarios interesados y, si procede, de sus representantes, con tiempo suficiente antes de que se presente la solicitud de autorización de la transferencia por la autoridad competente del Estado miembro de origen del fondo receptor prevista en los artículos 50 y 51. Dicha información incluirá la relativa a la cesión de datos personales de los partícipes y beneficiarios afectados y al nuevo responsable de su tratamiento.
+4. Cuando se trate de un plan de pensiones de empleo sujeto a la legislación social y laboral española la aprobación previa referida deberá otorgarse mediante el acuerdo de la comisión de control del plan de pensiones con la mayoría estipulada en las especificaciones del mismo para los cambios de gestora o depositaria y de movilización del plan a otro fondo, debiendo incluir, al menos, el voto favorable de la mitad de los representantes de los partícipes. A tal efecto, los miembros de la comisión de control del plan de pensiones que representen conjuntamente a partícipes y beneficiarios se computarán como representantes de partícipes.
+5. En caso de desacuerdo sobre el procedimiento o contenido de una acción o inacción de la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo transferente o receptor, incluida la decisión de autorizar o denegar una transferencia transfronteriza, la Autoridad Europea de Seguros y Pensiones de Jubilación (AESPJ) podrá emprender una mediación no vinculante de conformidad con el artículo 31, segundo párrafo, letra c), del Reglamento (UE) n.o 1094/2010, a solicitud de una de las autoridades competentes o por propia iniciativa.
+Se añade por el art. 212.33 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 50
+
+Artículo 50. Transferencia transfronteriza desde un fondo de pensiones de empleo autorizado y registrado en España a otro fondo de pensiones de empleo autorizado o registrado en otro Estado miembro.
+1. La transferencia transfronteriza de un plan de pensiones de empleo desde un fondo de pensiones de empleo transferente autorizado y registrado en España deberá ser autorizada previamente por la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo receptor, tras haberse obtenido antes la autorización de la Dirección General de Seguros y Fondos de Pensiones. La solicitud de autorización de transferencia deberá presentarla el fondo de pensiones receptor ante la autoridad competente de su Estado miembro de origen.
+2. La solicitud de autorización de la transferencia a que se refiere el apartado 1 deberá contener la siguiente información:
+a) El acuerdo escrito entre los fondos de pensiones de empleo transferente y receptor exponiendo las condiciones de la transferencia, el cual requerirá la aprobación previa de la comisión de control del fondo de pensiones transferente y será suscrito en nombre de este por las entidades gestora y depositaria del mismo.
+b) Una descripción de las principales características del plan de pensiones afectado.
+c) Una descripción de las obligaciones o provisiones técnicas que se vayan a transferir, y otras obligaciones y derechos, así como los activos correspondientes o su equivalente en efectivo.
+d) Identificación de los fondos de pensiones transferente y receptor, indicando su denominación y el domicilio de sus administraciones principales y, en su caso, de las entidades que ejerzan su administración, así como el nombre del Estado miembro en el que cada fondo de pensiones de empleo esté registrado o autorizado.
+e) Identificación de la entidad promotora del plan, indicando su denominación y el domicilio de su administración principal.
+f) Acreditación de la aprobación previa a que se refiere el artículo 49.3.
+g) Cuando proceda, el nombre del Estado miembro cuya legislación social y laboral sea aplicable al plan de pensiones en cuestión.
+3. La Dirección General de Seguros y Fondos de Pensiones examinará únicamente si:
+a) En caso de transferencia parcial de las obligaciones del plan de pensiones, provisiones técnicas, y otras obligaciones y derechos, así como los activos correspondientes o su equivalente en efectivo, los intereses a largo plazo de los partícipes y beneficiarios de la parte restante del plan están protegidos adecuadamente.
+b) Los derechos individuales de los partícipes y beneficiarios son al menos los mismos tras la transferencia.
+c) Los activos correspondientes al plan de pensiones que se van a transferir son suficientes y adecuados para cubrir las obligaciones, provisiones técnicas, y otras obligaciones y derechos que se vayan a transferir, de conformidad con la normativa aplicable en España.
+4. La Dirección General de Seguros y Fondos de Pensiones en el plazo de ocho semanas a partir de la fecha en la que reciba la solicitud transmitida por la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo receptor, comunicará a esta autoridad los resultados de la evaluación mencionada en el apartado 3 y el consecuente otorgamiento o denegación de su autorización a la transferencia solicitada.
+5. Cuando la transferencia dé lugar a una actividad transfronteriza, la Dirección General de Seguros y Fondos de Pensiones también informará a la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo receptor acerca de las disposiciones de la legislación social y laboral pertinente en el ámbito de los planes de pensiones de empleo con arreglo a las cuales deberá gestionarse el plan de pensiones y acerca de los requisitos de información o en su caso del Estado miembro de acogida que se aplicarán a la actividad transfronteriza. Esta información se comunicará en un nuevo plazo de cuatro semanas.
+6. Una vez efectuada la transferencia, la entidad gestora del fondo de pensiones transferente deberá notificarlo a la Dirección General de Seguros y Fondos de Pensiones dentro del plazo de un mes desde que se haga efectiva.
+7. Cuando se trate de la transferencia de un plan de pensiones sujeto a la legislación social y laboral española entre fondos de pensiones de empleo autorizados o registrados en otro u otros Estados miembros, una vez efectuada la transferencia, la comisión de control del plan de pensiones y el representante en España del fondo de pensiones de empleo receptor deberán notificarlo a la Dirección General de Seguros y Fondos de Pensiones en el plazo de un mes desde que se haga efectiva.
+Se añade por el art. 212.34 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Artículo 51
+
+Artículo 51. Transferencia transfronteriza desde un fondo de pensiones de empleo autorizado o registrado en otro Estado miembro a otro fondo de pensiones de empleo autorizado y registrado en España.
+1. La transferencia transfronteriza de un plan de pensiones de empleo desde un fondo de pensiones de empleo transferente autorizado o registrado en otro Estado miembro a otro fondo de pensiones de empleo receptor autorizado y registrado en España deberá ser autorizada previamente por la Dirección General de Seguros y Fondo de Pensiones, tras haberse obtenido antes la autorización de la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo transferente.
+A dichos efectos, la solicitud de autorización de transferencia deberá presentarla el fondo de pensiones de empleo receptor ante la Dirección General de Seguros y Fondos de Pensiones, la cual concederá o denegará la autorización y comunicará su decisión al fondo de pensiones de empleo receptor en un plazo de tres meses a partir de la recepción de la solicitud.
+2. La solicitud de autorización de la transferencia a que se refiere el apartado 1 deberá contener la siguiente información:
+a) El acuerdo escrito entre los fondos de pensiones de empleo transferente y receptor exponiendo las condiciones de la transferencia, el cual requerirá la aprobación previa de la comisión de control del fondo de pensiones receptor y será suscrito en nombre de este por las entidades gestora y depositaria del mismo.
+b) Una descripción de las principales características del plan de pensiones afectado.
+c) Una descripción de las obligaciones o provisiones técnicas que se vayan a transferir, y otras obligaciones y derechos, así como los activos correspondientes o su equivalente en efectivo.
+d) Identificación de los fondos de pensiones transferente y receptor, indicando su denominación y el domicilio de sus administraciones principales y, en su caso, de las entidades que ejerzan su administración, así como el nombre del Estado miembro en el que cada fondo de pensiones de empleo está registrado o autorizado.
+e) Identificación de la entidad promotora del plan, indicando su denominación y el domicilio de su administración principal.
+f) Acreditación de la aprobación previa a que se refiere el artículo 49.3.
+g) Cuando proceda, el nombre del Estado miembro cuya legislación social y laboral sea aplicable al plan de pensiones en cuestión.
+3. La Dirección General de Seguros y Fondos de Pensiones transmitirá la solicitud contemplada en el apartado 1 y 2 a la autoridad competente del Estado miembro del fondo de pensiones de empleo transferente sin demora a partir de la fecha de su recepción.
+4. La Dirección General de Seguros y Fondos de pensiones examinará únicamente que:
+a) El fondo de pensiones de empleo receptor ha facilitado toda la información contemplada en el apartado 2.
+b) La estructura administrativa, la situación financiera del fondo de pensiones de empleo receptor y la honorabilidad o la experiencia o las cualificaciones profesionales de las personas que gestionan el fondo de pensiones de empleo receptor son compatibles con la transferencia propuesta.
+c) Los intereses a largo plazo de los partícipes y beneficiarios del fondo de pensiones de empleo receptor y la parte del plan transferida están protegidos adecuadamente durante y después de la transferencia.
+d) Las provisiones técnicas del fondo de pensiones de empleo receptor se han financiado en su totalidad en el momento de la transferencia, cuando la transferencia dé lugar a una actividad transfronteriza.
+e) Los activos que se vayan a transferir son suficientes y adecuados para cubrir las obligaciones, las provisiones técnicas, y otras obligaciones y derechos que se vayan a transferir, de conformidad con la normativa aplicable en España.
+5. Una vez recibida por la Dirección General de Seguros y Fondos de Pensiones la comunicación de la autoridad del Estado miembro de origen del fondo de pensiones transferente a la que se refiere el artículo 12.9 de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, dicha Dirección General resolverá sobre la solicitud de autorización de la transferencia y notificará su decisión al fondo receptor en el plazo de tres meses indicado en el apartado 1.
+6. En caso de que se deniegue la autorización, la Dirección General de Seguros y Fondos de Pensiones motivará dicha denegación en el plazo de tres meses mencionado en el apartado 1. La resolución denegatoria de la Dirección General de Seguros y Fondos de Pensiones, que no agota la vía administrativa, será susceptible de recurso de alzada y contencioso administrativo.
+7. La Dirección General de Seguros y Fondos de Pensiones, en el plazo de dos semanas desde la fecha de la resolución adoptada, informará acerca de esta a la autoridad competente del Estado miembro de origen del fondo de pensiones de empleo transferente.
+8. Cuando la transferencia dé lugar a una actividad transfronteriza y la autoridad competente del Estado miembro de origen del fondo transferente haya informado a la Dirección General de Seguros y Fondos de Pensiones, según lo dispuesto en el artículo 12.11 de la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, acerca de las disposiciones de la legislación social y laboral pertinente en el ámbito de los planes de pensiones de empleo y acerca de los requisitos de información del Estado miembro de acogida que se aplicarán a la actividad transfronteriza, la Dirección General de Seguros y Fondos de Pensiones comunicará al fondo de pensiones de empleo receptor dicha información en el plazo de una semana a partir de la fecha de su recepción.
+9. A partir del momento en que se reciba la decisión de conceder la autorización a que se refiere el apartado 1, o bien, si no se ha recibido información sobre la decisión de la Dirección General de Seguros y Fondos de Pensiones, en la fecha de vencimiento del plazo a que se refiere el apartado 8, el fondo de pensiones de empleo receptor podrá empezar a gestionar el plan de pensiones.
+Una vez efectuada la transferencia, la entidad gestora del fondo de pensiones receptor deberá notificarlo a la Dirección General de Seguros y Fondos de Pensiones dentro del plazo de un mes desde que se haga efectiva.
+Se añade por el art. 212.35 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+## CAPÍTULO XI
+
+Fondos de pensiones de empleo de promoción pública abiertos
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+## SECCIÓN 1
+
+Sección 1.ª Características de los fondos de pensiones de empleo de promoción pública abiertos
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 52
+
+Artículo 52. Aspectos generales.
+1. Tendrán la consideración de fondos de pensiones de empleo de promoción pública abiertos aquellos fondos de pensiones promovidos por el Ministerio de Inclusión, Seguridad Social y Migraciones a través de la Comisión Promotora y de Seguimiento creada a tal efecto. Se encuadrarán necesariamente dentro de la categoría de fondos de pensiones de empleo, limitando su ámbito de actuación al desarrollo de planes de pensiones del sistema de empleo exclusivamente.
+2. La promoción de los fondos de pensiones de empleo por parte del Ministerio de Inclusión, Seguridad Social y Migraciones no supondrá en ningún caso garantía de la preservación del valor de las aportaciones o contribuciones efectuadas al plan de pensiones ni de la rentabilidad asignada a dichas aportaciones y contribuciones.
+Los derechos consolidados y económicos correspondientes a las personas partícipes y beneficiarias se determinarán en función de lo establecido en el artículo 8 de esta ley y en su desarrollo reglamentario.
+3. En los aspectos no específicamente regulados en este capítulo y sus normas de desarrollo los fondos de pensiones de empleo de promoción pública abiertos se regirán por la normativa establecida para los fondos de pensiones de empleo con carácter general en esta ley.
+4. Sin perjuicio de las competencias de seguimiento atribuidas al Ministerio de Inclusión, Seguridad Social y Migraciones, la Dirección General de Seguros y Fondos de Pensiones ejercerá sus funciones de ordenación y supervisión sobre los fondos de pensiones, incluidos los de promoción pública abiertos en los términos establecidos en el capítulo VII de esta ley, así como sobre el resto de entidades y sujetos regulados en este capítulo.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 53
+
+Artículo 53. Planes de pensiones susceptibles de integración en los fondos de pensiones de empleo de promoción pública abiertos.
+Podrán integrarse en los fondos de pensiones de empleo de promoción pública abiertos los planes de pensiones de empleo de las siguientes modalidades:
+a) Los planes de pensiones de empleo simplificados desarrollados en el capítulo XII.
+b) Los planes de pensiones de empleo de aportación definida para la contingencia de jubilación, sin perjuicio de que puedan ofrecer prestaciones definidas para el resto de las contingencias siempre y cuando las mismas se encuentren totalmente aseguradas. Se incluyen los planes de pensiones de empleo de estas modalidades sujetos a la legislación social y laboral de otros Estados miembros al amparo de lo establecido en la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, relativa a las actividades y la supervisión de los fondos de pensiones de empleo.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 54
+
+Artículo 54. Constitución de los fondos de pensiones de empleo de promoción pública abiertos.
+1. La constitución de los fondos de pensiones de empleo de promoción pública abiertos se regirá por lo dispuesto en el artículo 11 ter de esta ley y en su desarrollo reglamentario, con las particularidades previstas en este artículo.
+2. Actuará como entidad promotora pública de esta modalidad de fondos la Comisión Promotora y de Seguimiento de los fondos de pensiones de promoción pública abiertos.
+3. La denominación del fondo vendrá seguida de la expresión «fondo de pensiones de empleo de promoción pública abierto».
+Queda reservada la denominación de «fondo de pensiones de empleo de promoción pública abierto», así como sus siglas, FPEPP, a los constituidos conforme a este artículo
+4. El plazo para la formalización de la escritura de constitución del fondo y para la solicitud de inscripción en el Registro Mercantil será de un mes contado desde la notificación de la autorización administrativa previa. En caso contrario, transcurrido dicho plazo, quedará sin efecto la autorización previa concedida, salvo causa debidamente justificada. Una vez inscrito el fondo en el Registro Mercantil, el registrador lo comunicará a la Dirección General de Seguros y Fondos de Pensiones para que se proceda a su inscripción en el Registro Administrativo Especial de Fondos de Pensiones conforme al procedimiento establecido en el artículo 11 bis.
+5. Las modificaciones posteriores de las normas de funcionamiento de este tipo de fondo de pensiones deberán ser ratificadas por la Comisión Promotora y de Seguimiento de los fondos de pensiones de empleo de promoción pública abiertos.
+Lo establecido en el párrafo anterior será igualmente aplicable para el cambio de denominación del fondo de pensiones y para la sustitución o nueva designación de entidad gestora o depositaria, todo ello con sujeción a los límites y requisitos que establece la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 55
+
+Artículo 55. Comisión Promotora y de Seguimiento de los fondos de pensiones de empleo de promoción pública abiertos.
+1. Se crea la Comisión Promotora y de Seguimiento de los fondos de pensiones de empleo de promoción pública abiertos como órgano adscrito al Ministerio de Inclusión, Seguridad Social y Migraciones encargado de instar y participar en la constitución de esta modalidad de fondos. La Comisión Promotora y de Seguimiento promoverá la constitución inicial de los fondos de pensiones y velará por la idoneidad de su desarrollo.
+2. La Comisión Promotora y de Seguimiento estará integrada por nueve miembros, funcionarios de carrera con nivel, al menos, de Subdirector General y asimilado: cinco de ellos designados por el Ministerio de Inclusión, Seguridad Social y Migraciones, uno designado por el Ministerio de Asuntos Económicos y Transformación Digital, uno designado por el Ministerio de Trabajo y Economía Social, uno designado por el Ministerio para la Transición Ecológica y el Reto Demográfico y uno designado por el Ministerio de Hacienda y Función Pública, nombrados por el Secretario de Estado correspondiente en cada Ministerio. El desempeño del cargo no será remunerado.
+3. La Comisión tendrá atribuidas las siguientes funciones:
+a) Actuar como representante de la Administración General del Estado a efectos de la constitución de los fondos de pensiones de empleo de promoción pública abiertos y adoptar los actos jurídicos necesarios para su puesta en marcha.
+b) Seleccionar a las entidades gestoras y depositarias conforme a los artículos 63 y 65 de esta ley y establecer los requisitos y condiciones de adjudicación.
+c) Establecer y aprobar un marco común de estrategia de inversión que tendrá un carácter estable y a largo plazo, que deberá revisar al menos cada cinco años.
+d) La representación del fondo de pensiones de empleo de promoción pública hasta la constitución de la Comisión de Control Especial del fondo.
+e) La adopción de la decisión de disolución del fondo de pensiones de empleo de promoción pública abierto.
+f) Ser informada expresamente acerca de las decisiones de externalización de actividades por parte de la entidad gestora que le serán comunicadas por la Comisión de Control Especial conforme a la normativa vigente en cada momento y a la Ley 9/2017, de 8 de noviembre.
+g) Velar por el adecuado funcionamiento y el buen gobierno de los fondos de pensiones de empleo de promoción pública abiertos, y en particular por su política de inversiones.
+h) Nombrar los miembros de la Comisión de Control Especial conforme al apartado 1 del artículo 58 de esta ley.
+4. La Comisión Promotora y de Seguimiento contará con una Secretaría, que dependerá de la Secretaría de Estado de Seguridad Social y Pensiones del Ministerio de Inclusión, Seguridad Social y Migraciones. La Secretaría es el órgano técnico de asistencia, preparación y seguimiento continuo de la actividad de la Comisión Promotora y de Seguimiento y tendrá las siguientes funciones:
+a) Asistir a las reuniones con voz pero sin voto.
+b) La preparación de la documentación y propuesta de resolución de los asuntos que se eleven a la Comisión Promotora y de Seguimiento.
+c) La comunicación de la convocatoria por orden de la Presidencia; la preparación del despacho de los asuntos y la redacción de las actas de las reuniones de la Comisión Promotora y de Seguimiento; el seguimiento de los acuerdos que, en su caso, se adopten y la asistencia a sus miembros.
+d) Cualesquiera otras funciones que se establezcan reglamentariamente.
+5. Reglamentariamente se regulará el régimen de funcionamiento de la Comisión Promotora y de Seguimiento de acuerdo con lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, como órgano administrativo colegiado.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 56
+
+Artículo 56. Inscripción de los fondos de pensiones de empleo de promoción pública abiertos en el Registro Mercantil.
+Junto a los aspectos enumerados en el apartado 1 del artículo 11 bis de esta ley, la hoja de inscripción en el Registro Mercantil abierta a cada fondo de pensiones de empleo de promoción pública abierto incluirá las medidas administrativas que afecten a la Comisión de Control Especial del fondo de pensiones de promoción pública abiertos.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 57
+
+Artículo 57. Administración de los fondos de pensiones de empleo de promoción pública abiertos.
+1. Los fondos de pensiones de promoción pública abiertos serán administrados por una entidad gestora con el concurso de una entidad depositaria y bajo la supervisión de una única Comisión de Control Especial para todos los fondos de pensiones de promoción pública abiertos.
+2. Para garantizar la interoperabilidad entre entidades gestoras y depositarias, la normalización y calidad de procesos, la agilidad de las operaciones, la monitorización y supervisión y los procesos de información de los fondos de pensiones de empleo de promoción pública abiertos se utilizará una plataforma digital común para todas las entidades gestoras y depositarias. La plataforma dará servicio a promotores de planes de pensiones de empleo, partícipes y beneficiarios en sus operaciones básicas. Asimismo dará acceso a la Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos, a la Comisión Promotora y de Seguimiento, así como a las comisiones de control de los planes de pensiones de empleo y al resto de partes interesadas. Reglamentariamente se determinarán las características y funcionalidades de la plataforma digital común, que en todo caso observarán las recomendaciones que les sean de aplicación del Esquema nacional de seguridad y el Esquema nacional de interoperabilidad.
+La plataforma digital común permitirá la trazabilidad del histórico de movimientos económicos de las personas partícipes y de los promotores independientemente de los traslados de plan que se hayan registrado y cumplirá con la normativa vigente en materia de protección de datos.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 58
+
+Artículo 58. Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos.
+1. Para todos los fondos de pensiones de empleo de promoción pública abiertos se constituirá una única Comisión de Control Especial cuya composición y condiciones de funcionamiento se ajustará a las siguientes previsiones:
+a) Estará compuesta por trece miembros nombrados por la Comisión Promotora y de Seguimiento. De ellos, cuatro serán propuestos por las organizaciones sindicales más representativas, cuatro por las organizaciones empresariales más representativas y cinco por el Ministerio de Inclusión, Seguridad Social y Migraciones.
+b) La duración del mandato será, como máximo, de seis años, si bien podrán ser sustituidos en cualquier momento, durante el mismo, a petición tanto del propio titular como de la organización designante. La renovación de sus miembros se efectuará en los términos que se establezcan reglamentariamente.
+c) Los miembros de la Comisión deben poseer al menos cinco años de experiencia profesional en la gestión de fondos o planes de pensiones o en otras actividades relacionadas que garanticen el suficiente conocimiento, capacidad de supervisión y gestión, además de no incurrir en incompatibilidades ni en situaciones de conflictos de interés. En el desempeño de su función actuarán con plena independencia, en defensa de los intereses de las personas partícipes y beneficiarias. Reglamentariamente se fijará el régimen de incompatibilidades aplicable a los miembros de la Comisión y su régimen interno de funcionamiento.
+d) Se observará el principio de representación equilibrada, teniendo una representación mínima del 40 % cualquiera de los géneros. Para ello cada organización proponente deberá atender a este principio en sus designaciones.
+e) Una vez nombrados los miembros de la Comisión de Control Especial, estos elegirán entre sí a quienes hayan de ejercer la presidencia, la vicepresidencia y la secretaría. Al menos la mitad de estos cargos deben estar ocupados por mujeres.
+De no existir acuerdo en el seno de la Comisión de Control Especial por mayoría de dos tercios, la presidencia recaerá en uno de los miembros propuestos por los sindicatos, la vicepresidencia corresponderá a uno de los propuestos por los empresarios y la secretaría será ejercida por uno de los propuestos por el Ministerio de Inclusión, Seguridad Social y Migraciones.
+f) La Comisión quedará válidamente constituida cuando, habiendo sido debidamente convocados todos sus miembros, concurra la mayoría de estos, y adoptará sus acuerdos por mayoría simple en los términos establecidos reglamentariamente. Sin perjuicio de ello, los acuerdos relativos a las sustituciones de entidad gestora y depositaria requerirán mayoría cualificada de tres cuartas partes de los miembros presentes o representados. Los acuerdos relativos a cambios en la política de inversiones sobre el ejercicio del derecho de impugnación de acuerdos sociales y de la acción social de responsabilidad requerirán la aprobación de la mayoría de los miembros propuestos por el Ministerio de Inclusión, Seguridad Social y Migraciones. La decisión del ejercicio de estas acciones jurídicas societarias habrá de ser motivada y justificada en la protección del interés público.
+g) La Comisión se reunirá:
+1.º Mensualmente, para evaluar los balances y las cuentas de resultados de los fondos de pensiones de empleo de promoción pública abiertos, las nuevas adscripciones de planes y las incidencias y análisis de carteras con su composición, adecuación, rentabilidad y riesgo que incluirá un análisis de sostenibilidad.
+2.º Trimestralmente, para evaluar la política de implicación y voto en juntas generales y la política de inversión sostenible.
+3.º Anualmente, para la aprobación, en su caso, de las cuentas anuales de los fondos de pensiones de empleo de promoción pública abiertos del ejercicio anterior, así como la publicación de información sobre política de sostenibilidad, implicación y del ejercicio de derechos políticos en la forma que reglamentariamente se determine.
+4.º Siempre que así lo disponga el presidente, por iniciativa propia o a propuesta de al menos cuatro de sus miembros.
+2. Las funciones de la Comisión de Control Especial son las recogidas en el artículo 14 de esta ley con las singularidades contempladas en este artículo respecto de los fondos de pensiones de empleo de promoción pública abiertos y de los planes a ellos adscritos, siempre que resulten compatibles con la Ley 9/2017, de 8 de noviembre. Corresponderá a la Comisión de Control Especial el nombramiento de los expertos encargados de la realización del informe de auditoría de las cuentas anuales de los fondos de pensiones de promoción pública abiertos.
+3. Los gastos derivados del ejercicio de las funciones de la Comisión de Control Especial se repercutirán a los fondos de pensiones de empleo de promoción pública abiertos en la forma en que reglamentariamente se determine.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 59
+
+Artículo 59. Disolución y liquidación de los fondos de pensiones de empleo de promoción pública abiertos.
+Junto a las causas enumeradas en el apartado 1 del artículo 15 de esta ley, procederá la disolución de los fondos de pensiones de empleo de promoción pública abiertos por decisión de la Comisión Promotora y de Seguimiento de los fondos de pensiones de empleo de promoción pública abiertos cuando se compruebe la existencia de algún incumplimiento de las condiciones de licitación reguladas en la Ley 9/2017, de 8 de noviembre, previo informe de la Comisión de Control Especial.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+## SECCIÓN 2
+
+Sección 2.ª Régimen financiero de los fondos de pensiones de promoción pública abiertos
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 60
+
+Artículo 60. Régimen de inversiones de los fondos de pensiones de empleo de promoción pública abiertos.
+1. Las inversiones de los fondos de pensiones de empleo de promoción pública abiertos se regirán por lo dispuesto en el artículo 16 de esta ley y en su desarrollo reglamentario, con las particularidades previstas en este artículo.
+2. La declaración comprensiva de los principios de la política de inversión, a la que se refiere el apartado 8 del artículo 16 de esta ley, será elaborada por la Comisión de Control Especial con la participación de las entidades gestoras.
+3. Los activos de los fondos de pensiones serán invertidos exclusivamente en interés de las personas partícipes y beneficiarias tomando en consideración la rentabilidad, el riesgo y el impacto social y medioambiental de las inversiones. Estos fondos no podrán ser invertidos en empresas o negocios que cuenten con alguna sede en paraísos fiscales, considerando como tales los recogidos en la lista adoptada por el Consejo Europeo el 24 de febrero de 2022, así como la relación de países y territorios calificados como paraísos fiscales en el Real Decreto 1080/1991, de 5 de julio y sus sucesivas actualizaciones. También quedarán excluidas de la inversión las empresas que hayan cometido delitos medioambientales o laborales en los 10 años anteriores a la inversión. Periódicamente se evaluarán los aspectos de carácter medioambiental, social y de buen gobierno corporativo derivados del proceso inversor y específicamente de la eficacia de las inversiones en proyectos de impacto social y medioambiental.
+La estrategia de inversión de todos los fondos de pensiones de promoción pública abiertos será común en sus aspectos fundamentales y establecerá, dentro de los límites fijados en esta ley, las directrices relativas a:
+a) Los límites y la finalidad de las operaciones con instrumentos derivados.
+b) Los criterios específicos de seguridad, rentabilidad, diversificación, dispersión y congruencia de inversiones, que se ajustarán a los límites señalados por la normativa vigente.
+c) El proceso de inversión, caracterizado por ser socialmente responsable, tendrá criterios comunes que valorarán los riesgos extrafinancieros y los criterios medioambientales, sociales y de buen gobierno corporativo alineados con los principios para la inversión responsable en los términos que se desarrollen reglamentariamente. Especialmente se tendrán en cuenta el cumplimiento de los Objetivos de Desarrollo Sostenible y la taxonomía medioambiental y social contenida en Reglamento (UE) 2020/852 del Parlamento Europeo y del Consejo, de 18 de junio de 2020, relativo al establecimiento de un marco para facilitar las inversiones sostenibles.
+La estrategia de compromiso de inversión a largo plazo de los accionistas y de los socios y socias trabajadoras o de trabajo contendrá los criterios de participación y voto en las juntas generales de accionistas o en los órganos sociales o de gobierno de las sociedades cooperativas y laborales. Dicha estrategia debe estar en consonancia con la transición justa hacia una economía verde y digital propiciada por la Unión Europea en el Pacto Verde Europeo COM/2019/640 final de 11 de diciembre de 2019.
+d) La gestión de los riesgos financieros, que tendrá en cuenta una adecuada ponderación de la rentabilidad y el riesgo incurrido.
+e) La relación, en su caso, entre niveles de riesgo asumidos por el fondo de pensiones y las edades alcanzadas por las personas partícipes de los planes integrados en el fondo.
+4. Los fondos de pensiones de empleo de promoción pública abiertos serán clasificados como de renta fija, renta fija mixta o renta variable conforme al criterio establecido en el artículo 84 del Reglamento de Planes y Fondos de Pensiones.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 61
+
+Artículo 61. Cuentas anuales.
+1. La regulación de las cuentas anuales se regirá por lo dispuesto en el artículo 19 de esta ley y en su desarrollo reglamentario, con las particularidades previstas en este artículo.
+2. Dentro del primer cuatrimestre de cada ejercicio económico, las entidades gestoras deberán formular las cuentas anuales del ejercicio anterior del fondo o fondos de pensiones de empleo de promoción pública abiertos administrados que, debidamente auditadas, serán sometidas a la aprobación de la Comisión de Control Especial. Dichas cuentas deberán dar a conocer con detalle en qué sectores se han invertido los fondos, desglosando sectores y empresas para poder realizar un efectivo control de la responsabilidad fiscal, social y medioambiental del fondo.
+3. Dentro del primer semestre de cada ejercicio económico, las entidades gestoras deberán publicar, para su difusión general, los documentos mencionados en el apartado 1 del artículo 19 de esta ley. Asimismo, la Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos difundirá la información básica agregada con carácter general en su sitio web, pudiendo dar la difusión que estime pertinente de las cuentas anuales aprobadas y la información relativa a la política de implicación y el ejercicio de los derechos políticos.
+Las entidades gestoras deberán facilitar a las personas partícipes y beneficiarias de los planes de pensiones, mediante el uso de medios telemáticos, la información legalmente establecida sobre la evolución y situación de sus derechos económicos en el plan, así como sobre otros extremos que pudieran afectarles, especialmente las modificaciones normativas, cambios de las especificaciones del plan, de las normas de funcionamiento del fondo o de su política de inversiones, y de las comisiones de gestión y depósito. Excepcionalmente, podrá remitirse dicha documentación en papel.
+En los planes de pensiones del sistema de empleo esta información se facilitará en los términos previstos en sus especificaciones o en las condiciones acordadas por la Comisión de Control Especial del fondo de pensiones de empleo de promoción pública abiertos, respetando los mínimos establecidos por la normativa vigente y usando medios telemáticos de forma preferente.
+4. Las entidades gestoras y depositarias están sujetas al cumplimiento de las obligaciones de información previstas en el ordenamiento jurídico y deberán adicionalmente comunicar sus cuentas anuales aprobadas a la Comisión Promotora y de Seguimiento de los fondos de pensiones de promoción pública abiertos.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+## SECCIÓN 3
+
+Sección 3.ª Entidades gestoras y depositarias de fondos de pensiones de promoción pública abiertos
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 62
+
+Artículo 62. Entidades gestoras.
+1. Podrán ser entidades gestoras de fondos de pensiones de empleo de promoción pública abiertos las entidades que reúnan los requisitos establecidos en el artículo 20 de esta ley.
+2. Las entidades gestoras utilizarán la plataforma digital común regulada en el apartado 2 del artículo 57 de esta ley.
+3. Las entidades gestoras se obligan a alcanzar un patrimonio mínimo gestionado por el fondo de pensiones de empleo de promoción pública en los términos que se establezcan en el proceso de selección. En caso de no ser alcanzado dicho patrimonio mínimo, las Comisiones de Control de los planes adscritos deberán movilizarlo a otro fondo de pensiones de su elección. La Comisión de Control Especial determinará los plazos de ejecución y, en su caso, el fondo de pensiones de destino en ausencia de decisión por parte de la Comisión de Control del Plan.
+4. Las entidades gestoras percibirán como retribución total por el desarrollo de sus funciones una comisión de gestión dentro del límite fijado en las normas de funcionamiento del fondo de pensiones y que no excederá del máximo que se fije reglamentariamente.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 63
+
+Artículo 63. Proceso de selección de las entidades gestoras.
+1. El proceso de selección de las entidades gestoras de los fondos de pensiones de promoción pública abiertos se realizará con sujeción a la Ley 9/2017, de 8 de noviembre, a través de un procedimiento abierto, respetando los principios de igualdad, transparencia y libre competencia.
+Los contratos a que se refiere el párrafo anterior merecerán la consideración de contratos privados de acuerdo con lo previsto en el artículo 25.1.a).1.º de la Ley 9/2017, de 8 de noviembre, por lo que su régimen jurídico a todos los efectos será el resultante de la aplicación del artículo 26.2 de la misma ley.
+2. Con una periodicidad máxima de tres años, el Ministerio de Inclusión, Seguridad Social y Migraciones, a través de su Subsecretaría, convocará previo informe de la Comisión Promotora y de Seguimiento un procedimiento abierto para seleccionar a las entidades gestoras de fondos de pensiones para la constitución y gestión de nuevos fondos de pensiones de empleo de promoción pública abiertos.
+El Ministerio de Inclusión, Seguridad Social y Migraciones fijará en dicho procedimiento los criterios de determinación del perfil y número de fondos de pensiones de promoción pública abiertos en función de las previsiones futuras de desarrollo, de la dimensión media mínima adecuada para obtener economías de escala y optimizando el número de fondos existentes.
+3. El acceso al procedimiento abierto exige a la entidad gestora el cumplimiento de los siguientes requisitos:
+a) Estar autorizada como entidad gestora de fondos de pensiones y no hallarse incursa en causa de exclusión del registro especial o estar sometidas a medidas de control especial por la Dirección General de Seguros y Fondos de Pensiones.
+b) Detallar una propuesta de política de inversión para cada tipo de fondo que se proponga gestionar en un horizonte de largo, medio y corto plazo mediante la inversión socialmente responsable. Dicho plan deberá ofrecer las necesarias garantías de que se excluye de la inversión a las empresas que operan o tienen alguna sede en paraísos fiscales, considerando como tales los recogidos en la lista adoptada por el Consejo Europeo el 24 de febrero de 2022, así como la relación de países y territorios calificados como paraísos fiscales en el Real Decreto 1080/1991, de 5 de julio y sus sucesivas actualizaciones. Tampoco podrán ser invertidos los fondos en empresas que hayan cometido delitos medioambientales o laborales en los 10 años anteriores a la propuesta.
+c) Cualesquiera otros que establezca motivadamente la Comisión Promotora y de Seguimiento de conformidad con las exigencias de publicidad y transparencia y con sujeción a la Ley 9/2017, de 8 de noviembre.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 64
+
+Artículo 64. Entidades depositarias.
+1. Podrán ser entidades depositarias de fondos de pensiones de empleo de promoción pública abiertos las entidades que reúnan los requisitos establecidos en el artículo 21 de esta ley.
+2. Las entidades depositarias percibirán como retribución total por el desarrollo de sus funciones una comisión de depósito dentro del límite fijado en las normas de funcionamiento del fondo de pensiones, y que no excederá del máximo que se fije reglamentariamente.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 65
+
+Artículo 65. Proceso de selección de las entidades depositarias.
+1. El proceso de selección de las entidades depositarias de los fondos de pensiones de promoción pública abiertos se realizará con sujeción a la Ley 9/2017, de 8 de noviembre, a través de un procedimiento abierto, respetando los principios de igualdad, transparencia y libre competencia.
+Los contratos a que se refiere el párrafo anterior merecerán la consideración de contratos privados de acuerdo con lo previsto en el artículo 25.1.a).1.º de la Ley 9/2017, de 8 de noviembre, por lo que su régimen jurídico a todos los efectos será el resultante de la aplicación del artículo 26.2 de la misma ley.
+2. El acceso al procedimiento abierto exige a la entidad depositaria el cumplimiento de los siguientes requisitos:
+a) Estar inscrita como entidad depositaria de fondos de pensiones y no hallarse incursa en causa de exclusión del registro especial.
+b) Asumir un compromiso explícito de uso de la plataforma operativa digital común.
+c) Cualesquiera otros que decida la Comisión Promotora y de Seguimiento para el adecuado desempeño de las funciones de depositaría, de conformidad con las exigencias de publicidad y transparencia y con sujeción a la Ley 9/2017, de 8 de noviembre.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 66
+
+Artículo 66. Sustitución de las entidades gestora o depositaria.
+La sustitución de las entidades gestora o depositaria será posible sin resolución del contrato en los supuestos enumerados en el artículo 214.1 de la Ley 9/2017, de 8 de noviembre.
+En los demás supuestos de sustitución de la entidad gestora o depositaria deberá procederse a la resolución del contrato, resultando en todo caso de aplicación lo establecido en la Ley 9/2017, de 8 de noviembre, respecto de la aplicación y efectos de las causas de resolución. Será causa de denuncia y resolución del contrato el incumplimiento de la entidad en lo relativo a las exigencias respecto a los paraísos fiscales, considerando como tales los recogidos en la lista adoptada por el Consejo Europeo el 24 de febrero de 2022, así como la relación de países y territorios calificados como paraísos fiscales en el Real Decreto 1080/1991, de 5 de julio y sus sucesivas actualizaciones o en caso de sentencia por delito medioambiental o laboral.
+La resolución del contrato como entidad gestora o depositaria será comunicada por la Comisión Promotora y de Seguimiento a la Comisión del Control Especial en el plazo de quince días.
+En el caso de sustitución por cesión de la entidad gestora o depositaria, se aplicará lo dispuesto en el artículo 23.1.a) de esta ley y en su desarrollo reglamentario en todo aquello que resulte compatible con la Ley 9/2017, de 8 de noviembre, y sin perjuicio de las competencias reservadas a la Comisión Promotora y de Seguimiento en el artículo 55.3.e) de esta ley.
+Se añade por el art. único.1 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+## CAPÍTULO XII
+
+Planes de pensiones de empleo simplificados
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 67
+
+Artículo 67. Tipos de planes de pensiones de empleo simplificados y ámbito personal.
+1. Tendrán la consideración de planes de pensiones de empleo simplificados las siguientes modalidades de planes de pensiones que se constituyan siguiendo lo establecido en el presente capítulo:
+a) Planes de pensiones de empleo promovidos por las empresas incluidas en los acuerdos colectivos de carácter sectorial que instrumenten compromisos por pensiones en favor de sus personas trabajadoras, con especial atención a promover su implantación en las pequeñas y medianas empresas.
+b) Planes de pensiones de empleo del sector público promovidos por las Administraciones públicas, incluidas las Corporaciones Locales, las entidades y organismos de ellas dependientes, que instrumenten compromisos por pensiones en favor del personal a su servicio.
+Las sociedades mercantiles con participación mayoritaria de las Administraciones y de entidades públicas podrán integrarse en los planes de pensiones de los apartados a) o b) en función de los correspondientes acuerdos de negociación colectiva.
+c) Planes de pensiones de trabajadores por cuenta propia o autónomos, promovidos por las asociaciones, federaciones, confederaciones o uniones de asociaciones de trabajadores por cuenta propia o autónomos, por sindicatos, por colegios profesionales o por mutualidades de previsión social, en los que sus personas partícipes exclusivamente sean personas trabajadoras por cuenta propia o autónomos. No se requerirá la condición previa de asociado al partícipe que desee adscribirse a un plan promovido por una asociación de trabajadores por cuenta propia o autónomos.
+d) Planes de pensiones de socios y socias trabajadoras y de socios de trabajo de sociedades cooperativas y laborales, promovidos por sociedades cooperativas y laborales y las organizaciones representativas de las mismas.
+2. En los aspectos no específicamente regulados en este capítulo y sus normas de desarrollo los planes de pensiones de empleo simplificados se regirán por la normativa establecida para los planes de promoción conjunta en esta ley.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 68
+
+Artículo 68. Delimitación específica de los planes de naturaleza sectorial.
+1. Las empresas incluidas en un convenio colectivo estatutario de carácter sectorial en el que se prevea la instrumentación de compromisos por pensiones con sus personas trabajadoras a través de un plan de pensiones de empleo sectorial simplificado deberán adherirse al mismo si así lo establece el citado convenio. En todo caso, la empresa podrá mejorar el importe correspondiente a las contribuciones empresariales acordadas en el mismo.
+Sin perjuicio de lo anterior, el convenio colectivo de carácter sectorial podrá prever la posibilidad de que las empresas del sector puedan no adherirse al plan sectorial simplificado solo en el caso de acordar la promoción de su propio plan de pensiones de empleo que en ningún caso podrá ser de inferiores condiciones al plan sectorial.
+2. Las personas trabajadoras autónomas podrán adherirse al plan de carácter sectorial que les corresponda por razón de su actividad, mediante el procedimiento que se establezca en las especificaciones del plan de pensiones de empleo simplificado sectorial.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 69
+
+Artículo 69. Promoción y formalización de un plan de pensiones de empleo simplificado.
+1. La promoción y formalización de los planes de pensiones de empleo simplificados se regirá por lo dispuesto en el artículo 9 de esta ley y en su desarrollo reglamentario, con las siguientes particularidades:
+a) El proyecto inicial de un plan de pensiones simplificado sectorial deberá establecerse mediante acuerdo colectivo de ámbito supraempresarial para las empresas incluidas en su campo de aplicación. La comisión promotora del plan de pensiones deberá ser designada directamente por la comisión negociadora del convenio o, en su defecto, por la comisión paritaria para la interpretación y aplicación del convenio u otros órganos paritarios regulados en el mismo. La designación podrá recaer en los miembros de las citadas comisiones u órganos paritarios.
+b) La promoción de planes de pensiones de empleo simplificados del sector público requerirá el acuerdo de la mesa de negociación de la Administración pública correspondiente, en los términos previstos en los artículos 36, 37 y 38 del texto refundido de la Ley del Estatuto Básico del Empleado Público.
+El proyecto inicial del plan se establecerá por la mesa de negociación que dará a conocer el proyecto a los representantes de los trabajadores y, en su caso, a las potenciales personas partícipes e instarán la constitución de la comisión promotora.
+c) En el caso de planes de pensiones de trabajadores por cuenta propia o autónomos promovidos por las asociaciones de trabajadores por cuenta propia o autónomos, por los sindicatos, por colegios profesionales o por mutualidades de previsión social, que tengan la consideración de simplificados, así como en el caso de los planes de pensiones de socios y socias trabajadoras y de socios de trabajo de sociedades cooperativas y laborales, promovidos por sociedades cooperativas y laborales y las organizaciones representativas de las mismas, la entidad promotora establecerá el proyecto inicial del plan de pensiones y designará de forma directa a los miembros de su comisión promotora.
+2. El proyecto incluirá, al menos, las especificaciones con las condiciones generales comunes a todas las empresas, entidades y trabajadores por cuenta propia o autónomos que se adhieran al plan de pensiones de empleo simplificado y, en su caso, la base técnica de dicho plan.
+La comisión promotora aprobará el texto definitivo que, en el caso de los planes de pensiones simplificados de los apartados a) y b), requerirá el voto favorable de la mayoría de los representantes de cada una de las partes del acuerdo colectivo.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 70
+
+Artículo 70. Integración de los planes de pensiones simplificados en fondos de pensiones de empleo de promoción pública abiertos.
+1. Los planes de pensiones simplificados pueden integrarse en un fondo de pensiones de empleo de promoción pública abierto o en un fondo de pensiones de empleo de promoción privada de su elección.
+2. Para los planes de pensiones de empleo simplificados que se integren en los fondos de pensiones de empleo de promoción pública abiertos, una vez acordado el texto definitivo del proyecto, la comisión promotora del plan de pensiones simplificado procederá a la presentación del referido proyecto ante la Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos, determinando el fondo o fondos de pensiones de empleo de promoción pública abierto en que pretenda integrarse. Dicha presentación se realizará mediante medios telemáticos de la forma que reglamentariamente se determine.
+3. A la vista del proyecto del plan de pensiones de empleo simplificado, la Comisión de Control Especial de los fondos de pensiones de empleo de promoción pública abiertos adoptará, en su caso, el acuerdo de admisión del plan simplificado en el fondo cuando considere, bajo su responsabilidad, que se cumplen los requisitos establecidos en esta normativa, comunicándolo a la comisión promotora del plan de empleo simplificado.
+4. El plan de pensiones simplificado se entenderá formalizado mediante su admisión en el fondo o fondos de pensiones de promoción pública abiertos determinados a la fecha del acuerdo de admisión, sin perjuicio de la posterior adhesión de las empresas, entidades y de trabajadores por cuenta propia o autónomos mediante la suscripción de los correspondientes anexos.
+5. Si en el plazo de tres meses desde la adopción del texto definitivo del proyecto la comisión promotora del plan de pensiones simplificado no hubiera solicitado su integración en un fondo de pensiones de promoción pública, la Comisión de Control Especial de los fondos de pensiones de promoción pública determinará motivadamente el fondo de pensiones en el que deberá integrarse por defecto.
+6. La incorporación de nuevas empresas, entidades o de trabajadores por cuenta propia o autónomos requerirá la aprobación de la comisión promotora o de control del plan cuando esté constituida, pudiendo delegar en la entidad gestora esta función.
+7. Reglamentariamente se podrán establecer las condiciones y requisitos específicos en los que un plan de pensiones simplificado pueda adscribirse a varios fondos de pensiones de promoción pública abiertos.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 71
+
+Artículo 71. Obligaciones estipuladas en los planes de pensiones de empleo simplificados.
+1. Los planes de pensiones de empleo simplificados deberán ser de la modalidad de aportación definida para la contingencia de jubilación, sin perjuicio de lo dispuesto en el párrafo siguiente.
+Las prestaciones definidas que se prevean, en su caso, para las contingencias de fallecimiento, incapacidad permanente y dependencia del partícipe, así como las garantizadas a los beneficiarios una vez acaecida cualquier contingencia y sus reversiones, deberán articularse en su totalidad mediante los correspondientes contratos de seguro previstos por el plan, el cual en ningún caso asumirá los riesgos inherentes a dichas prestaciones. Los contratos de seguro previstos para la cobertura de fallecimiento, invalidez y dependencia del partícipe deberán ser de duración no superior a un año, y podrán ser renovables.
+2. Cada empresa o entidad será responsable del cumplimiento de las obligaciones de contribución previstas en las especificaciones o anexo correspondiente respecto de sus personas trabajadoras. En el caso de los planes promovidos por las asociaciones de trabajadores por cuenta propia o autónomos, por sindicatos, por colegios profesionales o por mutualidades de previsión social dicha obligación corresponderá al trabajador por cuenta propia o autónomo, sin que la mera mediación de un tercero en el pago pueda alterar la naturaleza de las aportaciones.
+3. La revisión financiero actuarial podrá realizarse mediante una única revisión actuarial conjunta, agrupando todos los planes adscritos a un mismo fondo. En este caso, la designación de actuario revisor recaerá en la Comisión de Control Especial.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 72
+
+Artículo 72. Especificaciones de los planes de pensiones de empleo simplificados.
+1. Las especificaciones del plan de pensiones de empleo simplificado serán comunes para todas las empresas o entidades integradas en el mismo. Además, deberán incorporar un anexo normalizado por cada empresa o entidad integrada en el plan que contendrá las condiciones particulares relativas a las aportaciones y contribuciones, sin que los anexos puedan contener cláusulas que dejen sin efecto o modifiquen alguna de las condiciones generales contenidas en las especificaciones del plan.
+2. En su caso, la base técnica del plan de pensiones incorporará igualmente anexos correspondientes a cada empresa o entidad, relativos a su régimen de aportaciones, contribuciones y prestaciones, y aseguramiento de estas.
+3. En los planes que estipulen obligaciones de prestación definida, conforme a lo establecido en el artículo 71, las especificaciones y la base técnica del plan deberán precisar los mecanismos necesarios para establecer la total delimitación de riesgos correspondientes a cada empresa o entidad, siendo cada una de estas la única responsable de las obligaciones asumidas frente a sus personas partícipes y frente a los beneficiarios.
+4. Las especificaciones de los planes contemplarán la opción de reducir automática y periódicamente el nivel de riesgo conforme la persona partícipe avanza en edad.
+5. El Ministerio de Inclusión, Seguridad Social y Migraciones establecerá las bases de las especificaciones normalizadas de los planes de pensiones simplificados, previa consulta a las organizaciones sindicales y empresariales más representativas. La Dirección General de Seguros y Fondos de Pensiones, mediante circular, podrá establecer el contenido y formato de las especificaciones de los planes de pensiones simplificados, así como los modelos normalizados de referencia.
+6. Los derechos consolidados de los partícipes de planes de pensiones de empleo simplificados solo podrán ser movilizados a otros planes de pensiones de empleo, en los términos y con las excepciones que se determinen reglamentariamente.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 73
+
+Artículo 73. Comisión de control de los planes de pensiones simplificados.
+1. La comisión de control del plan de pensiones de empleo simplificado ejercerá las funciones previstas en esta ley y en su desarrollo reglamentario para la comisión de control de un plan de pensiones de empleo, con las particularidades de este artículo.
+2. La constitución de la comisión de control del plan se realizará mediante los procesos de designación directa establecidos en el artículo 69 para la comisión promotora de planes de pensiones de empleo simplificados.
+3. La designación de los representantes en la comisión de control podrá coincidir con todos o parte de los componentes de la comisión negociadora u órgano paritario del convenio o representantes de empresas y personas trabajadoras, aun cuando no fueran personas partícipes o beneficiarios del plan de pensiones.
+4. Los miembros de la comisión de control serán nombrados por un periodo máximo de cuatro años, pudiendo ser elegidos y renovados, en los términos establecidos reglamentariamente.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Artículo 74
+
+Artículo 74. Modificación de las especificaciones y de la base técnica de los planes de pensiones de empleo simplificados.
+1. La modificación del régimen de prestaciones y aportaciones o cualesquiera otros extremos, y, en su caso, la consiguiente adaptación de la base técnica de los planes simplificados se acordará, en función del tipo de plan al que se refiere el artículo 67, párrafos a), b) y c), mediante acuerdo colectivo entre la representación de las empresas y de las personas trabajadoras en el ámbito supraempresarial, acuerdo en el seno de la mesa de negociación de la administración pública correspondiente, y decisión de la asociación de autónomos, colegio profesional o mutualidad de previsión social y sociedades cooperativas y laborales u organizaciones representativas de las mismas que lo promuevan, respectivamente.
+2. No obstante, para la modificación de condiciones particulares contenidas en los anexos de cada empresa o entidad, se estará al procedimiento previsto en ellas, sin que los correspondientes acuerdos puedan modificar o dejar sin efecto las condiciones generales de las especificaciones del plan.
+Se añade por el art. único.2 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición adicional primera
+
+Disposición adicional primera. Protección de los compromisos por pensiones con los trabajadores.
+1. Los compromisos por pensiones asumidos por las empresas, incluyendo las prestaciones causadas, deberán instrumentarse, desde el momento en que se inicie el devengo de su coste, mediante contratos de seguros, incluidos los planes de previsión social empresariales y los seguros colectivos de dependencia, a través de la formalización de un plan de pensiones o varios de estos instrumentos. Una vez instrumentados, la obligación y responsabilidad de las empresas por los referidos compromisos por pensiones se circunscribirán exclusivamente a las asumidas en dichos contratos de seguros y planes de pensiones.
+A estos efectos, se entenderán por compromisos por pensiones los derivados de obligaciones legales o contractuales del empresario con el personal de la empresa y vinculados a las contingencias establecidas en el artículo 8.6. Tales pensiones podrán revestir las formas establecidas en el artículo 8.5 y comprenderán toda prestación que se destine a la cobertura de tales compromisos, cualquiera que sea su denominación.
+Tienen la consideración de empresas no sólo las personas físicas y jurídicas sino también las comunidades de bienes y demás entidades que, aun carentes de personalidad jurídica, sean susceptibles de asumir con sus trabajadores los compromisos descritos.
+2. Para que los contratos de seguro puedan servir a la finalidad referida en el apartado anterior habrán de satisfacer los siguientes requisitos:
+a) Revestir la forma de seguro colectivo sobre la vida, plan de previsión social empresarial o seguro colectivo de dependencia, en los que la condición de asegurado corresponderá al trabajador y la de beneficiario a las personas en cuyo favor se generen las pensiones según los compromisos asumidos.
+b) En dichos contratos no será de aplicación lo dispuesto en los artículos 97 y 99 de la Ley 50/1980, de 8 de octubre, de Contrato de Seguro.
+c) Los derechos de rescate y reducción sólo podrán ejercerse al objeto de mantener en la póliza la adecuada cobertura de sus compromisos por pensiones vigentes en cada momento o a los exclusivos efectos de la integración de los compromisos cubiertos en la póliza en otro contrato de seguro, en un plan de previsión social empresarial o en un plan de pensiones. En este último caso, la nueva aseguradora o el plan de pensiones asumirá la cobertura total de los referidos compromisos por pensiones.
+d) Deberán individualizarse las inversiones correspondientes a cada póliza en los términos que se establezcan reglamentariamente.
+e) La cuantía del derecho de rescate no podrá ser inferior al valor de realización de los activos que representen la inversión de las provisiones técnicas correspondientes. Si existiese déficit en la cobertura de dichas provisiones, tal déficit no será repercutible en el derecho de rescate, salvo en los casos que reglamentariamente se determinen. El importe del rescate deberá ser abonado directamente a la nueva aseguradora o al fondo de pensiones en el que se integre el nuevo plan de pensiones.
+Será admisible que el pago del valor del rescate se realice mediante el traspaso de los activos, neto de los gastos precisos para efectuar los correspondientes cambios de titularidad.
+3. En los contratos de seguro cuyas primas hayan sido imputadas a los sujetos a los que se vinculen los compromisos por pensiones deberán preverse, de acuerdo con las condiciones pactadas en el compromiso, los derechos económicos de los sujetos en los casos en que se produzca la cesación de la relación laboral previa al acaecimiento de las contingencias previstas en esta normativa o se modifique el compromiso por pensiones vinculado a dichos sujetos.
+4. En los compromisos por pensiones asegurados referidos a la jubilación sin imputación fiscal al trabajador de las primas abonadas por la empresa, cuando el compromiso o la póliza prevean la adquisición de derechos económicos por el trabajador antes de la jubilación, correspondientes a la cobertura de esta contingencia, en caso de cese de la relación laboral del trabajador asegurado serán de aplicación las condiciones de adquisición de derechos estipuladas, las cuales deberán ajustarse a los siguientes requisitos:
+a) En caso de que se estipule un período mínimo de espera para la incorporación al contrato de seguro o un período mínimo para la adquisición de derechos en el mismo, o ambos, el período total combinado no podrá superar los tres años.
+Cuando se fije una edad mínima para la adquisición y consolidación de derechos de pensión, dicha edad no excederá de 21 años.
+Lo dispuesto en los párrafos anteriores se entenderá sin perjuicio de la exigencia de otras condiciones para la adquisición de derechos estipuladas en los convenios colectivos u otros acuerdos de naturaleza colectiva que establezcan compromisos por pensiones.
+b) En caso de cese de la relación laboral por causa distinta de la jubilación habiendo adquirido derechos, éstos no podrán ser inferiores al valor de los derechos de rescate o reducción derivados de las primas para la contingencia de jubilación abonadas por la empresa y de las primas abonadas por el propio trabajador.
+No obstante, de acuerdo a lo previsto en el compromiso y en la póliza, para el supuesto de incapacidad o fallecimiento del trabajador podrá estipularse la sustitución de los citados derechos por las prestaciones aseguradas por dichas contingencias.
+c) Los trabajadores que cesen en la relación laboral sin reunir los requisitos previstos en la letra a) de este apartado y sin haber adquirido derechos derivados de primas abonadas por la empresa, podrán solicitar el reembolso de las primas abonadas para la jubilación por el propio trabajador o el valor de realización de los activos de la póliza correspondientes a dichas primas.
+5. En caso de cese de la relación laboral de los trabajadores asegurados, los derechos económicos adquiridos se podrán mantener en el contrato de seguro o, en su caso, movilizarse a otro contrato de seguro o plan de pensiones, en los términos que se establezcan reglamentariamente.
+El contrato de seguro deberá especificar el criterio de valoración de los derechos económicos adquiridos al tiempo del cese y durante su mantenimiento en el seguro tras el cese. De acuerdo con lo establecido en el compromiso por pensiones o en la póliza, el tratamiento de los derechos económicos adquiridos que se mantengan en el seguro podrá ser, entre otros, conforme a los derechos de los asegurados activos, o ajustándose con un tipo de interés establecido en el régimen complementario de pensiones o por el rendimiento de las inversiones correspondientes a dicho régimen, de conformidad con el sistema financiero y actuarial utilizado.
+En los seguros que prevean la atribución de derechos económicos a los trabajadores en caso de cese de la relación laboral antes de la jubilación, una vez producido el cese, se calculará el valor de los derechos adquiridos en el momento del cese de la relación laboral y el trabajador deberá recibir información relativa a sus derechos económicos adquiridos y el tratamiento que se les dará en el futuro, o en su caso, se le informará sobre la posibilidad de reembolso de las primas abonadas para la jubilación por el propio trabajador de acuerdo con lo establecido en la letra c) del apartado 4.
+Las especificaciones de los planes de pensiones del sistema de empleo y en su caso, la base técnica, deberán determinar el tratamiento de los derechos consolidados con posterioridad al cese de la relación laboral durante su mantenimiento en el plan de pensiones, atendiendo al sistema financiero y actuarial utilizado en el plan de pensiones.
+6. En los contratos de seguro que instrumentan compromisos por pensiones de jubilación, distintos de los planes de previsión social empresarial, el trabajador asegurado podrá solicitar información relativa a su situación individualizada respecto de los siguientes elementos:
+a) Pago de primas y su importe, y los rescates y reducciones efectuadas que le afecten.
+b) Condiciones de adquisición de los derechos y las consecuencias de la aplicación de dichas condiciones al cesar la relación laboral.
+c) Valor de sus derechos económicos adquiridos o una estimación de los mismos efectuada como máximo doce meses antes de la fecha de la solicitud.
+d) Condiciones que rigen el futuro trato que se dará a los derechos en caso de cese de la relación laboral.
+Los asegurados que hayan cesado la relación laboral y mantengan derechos económicos también podrán solicitar la información prevista en las letras c) y d).
+La información individualizada a que se refieren los párrafos anteriores deberá ser suministrada por la entidad aseguradora por escrito, de forma clara, en un plazo máximo de diez días desde la presentación de la solicitud.
+En los planes de pensiones de empleo y en los planes de previsión social empresarial, con periodicidad al menos anual, se suministrará información a los partícipes o asegurados sobre el valor de sus derechos consolidados o económicos y las condiciones que rigen el tratamiento de tales derechos que se mantengan en el plan después del cese de la relación laboral y las posibilidades de movilización.
+Lo dispuesto en este apartado se entiende sin perjuicio de otras obligaciones de información que se establezcan reglamentariamente.
+7. Reglamentariamente se fijarán las condiciones que han de cumplir los contratos de seguro a los que se refiere esta disposición, incluidos los instrumentados entre las mutualidades de previsión social y sus mutualistas en su condición de tomadores del seguro o asegurados. En todo caso, las condiciones que se establezcan reglamentariamente, deberán ser homogéneas, actuarial y financieramente con las normas aplicables a los compromisos por pensiones formalizados mediante planes de pensiones.
+8. La efectividad de los compromisos por pensiones y del cobro de las prestaciones causadas quedarán condicionados a su formalización en los instrumentos referidos en el apartado primero. En todo caso, el incumplimiento por la empresa de la obligación de instrumentar los compromisos por pensiones asumidos constituirá infracción en materia laboral de carácter muy grave, en los términos previstos en el Texto Refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+En ningún caso resultará admisible la cobertura de tales compromisos mediante la dotación por el empresario de fondos internos, o instrumentos similares, que supongan el mantenimiento por parte de éste de la titularidad de los recursos constituidos.
+Se modifica por el art. 1.1 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#ap
+ Se modifica por la disposición final 4 de la Ley 24/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+ Téngase en cuenta lo establecido por la disposición final 12.2.
+ Se modifica por la disposición final 5.5 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### Disposición adicional segunda
+
+Disposición adicional segunda. Plazo de resolución de las solicitudes de autorización administrativa e inscripción.
+Las solicitudes de autorizaciones administrativas y de inscripción reguladas en esta ley, salvo disposición especifica al respecto, deberán ser resueltas dentro del plazo de tres meses desde la fecha de presentación de la solicitud, transcurrido el cual sin haberse notificado la resolución, los interesados podrán entender estimada la solicitud.
+Se modifica por el art. 212.36 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifica por la disposición final 4.13 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se modifica por la disposición final 13.13 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
+
+### Disposición adicional tercera
+
+Disposición adicional tercera. Responsabilidad civil y obligaciones de los actuarios.
+1. Los actuarios que emitan informes o dictámenes sobre cualquiera de los instrumentos que formalicen compromisos por pensiones, responderán, directa, ilimitada y, caso de ser varios, solidariamente, frente al promotor, comisión, entidad gestora, plan y fondo de pensiones, partícipes y beneficiarios, por todos los perjuicios que les causaren por el incumplimiento o cumplimiento defectuoso de sus obligaciones.
+Cuando el dictamen actuarial se emita por un actuario de una sociedad de actuarios, la responsabilidad directa, ilimitada y solidaria comprenderá también a la sociedad, salvo que el actuario firmante del dictamen hubiese hecho constar expresamente en el mismo que actuó en su propio nombre y bajo su exclusiva responsabilidad.
+La responsabilidad de los socios actuarios no firmantes del dictamen actuarial será subsidiaria respecto de la anterior, pero solidaria entre sí.
+2. Los actuarios y las sociedades de éstos conservarán y custodiarán la documentación referente a cada dictamen o revisión actuarial por ellos realizados, incluidos los papeles de trabajo que constituyan las pruebas y el fundamento de las conclusiones que consten en el informe, debidamente ordenados, durante cinco años a partir de la fecha de emisión del dictamen actuarial, salvo que tengan conocimiento de la existencia de litigio en el que dicha documentación pueda constituir elemento de prueba, en cuyo caso el plazo se extenderá hasta que se dicte sentencia firme o de otro modo termine el proceso.
+La pérdida o deterioro de la documentación a que se refiere el párrafo precedente deberá ser comunicada por el actuario a la comisión de control del plan de pensiones correspondiente en un plazo de quince días naturales desde que tuvo conocimiento de la misma.
+
+### Disposición adicional cuarta
+
+Disposición adicional cuarta. Planes de pensiones y mutualidades de previsión social constituidos a favor de personas con discapacidad.
+Podrán realizarse aportaciones a planes de pensiones a favor de personas con un grado de minusvalía física o sensorial igual o superior al 65 por 100, psíquica igual o superior al 33 por 100, así como de personas con discapacidad que tengan una incapacidad declarada judicialmente con independencia de su grado. A los mismos les resultará aplicable el régimen financiero de los planes de pensiones con las siguientes especialidades:
+1. Podrán efectuar aportaciones al plan de pensiones tanto la propia persona con discapacidad partícipe como las personas que tengan con el mismo una relación de parentesco en línea directa o colateral hasta el tercer grado inclusive, así como el cónyuge o aquellos que les tuviesen a su cargo en régimen de tutela o acogimiento. En estos últimos supuestos, las personas con discapacidad habrán de ser designadas beneficiarias de manera única e irrevocable para cualquier contingencia. No obstante, la contingencia de muerte de la persona con discapacidad podrá generar derecho a prestaciones de viudedad, orfandad o a favor de quienes hayan realizado aportaciones al plan de pensiones de la persona con discapacidad en proporción a la aportación de éstos.
+2. Como límite máximo de las aportaciones, a efectos de lo previsto en el apartado 3 del artículo 5 de la presente Ley, se aplicarán las siguientes cuantías:
+a) Las aportaciones anuales máximas realizadas por las personas con discapacidad partícipes, no podrán rebasar la cantidad de 24.250 euros.
+b) Las aportaciones anuales máximas realizadas por cada partícipe a favor de personas con discapacidad ligadas por relación de parentesco no podrán rebasar la cantidad de 10.000 euros.
+c) Las aportaciones anuales máximas a planes de pensiones realizadas a favor de una persona con discapacidad, incluyendo sus propias aportaciones, no podrán rebasar la cantidad de 24.250 euros.
+La inobservancia de estos límites de aportación será objeto de la sanción prevista en el apartado 4 del artículo 36 de la presente Ley. A estos efectos, cuando concurran varias aportaciones a favor de la persona con discapacidad, se entenderá que el límite de 24.250 euros se cubre, primero, con las aportaciones de la propia persona con discapacidad, y cuando éstas no superen dicho límite, con las restantes aportaciones, en proporción a su cuantía.
+La aceptación de aportaciones a un plan de pensiones a nombre de un mismo beneficiario con discapacidad, por encima del límite de 24.250 euros anuales, tendrá la consideración de infracción muy grave, en los términos previstos en el párrafo n) del apartado 3 del artículo 35 de esta Ley.
+3. Las prestaciones del plan de pensiones deberán ser en forma de renta, salvo que, por circunstancias excepcionales, y en los términos y condiciones que reglamentariamente se establezcan, puedan percibirse en forma de capital.
+4. Reglamentariamente podrán establecerse especificaciones en relación con las contingencias por las que pueden satisfacerse las prestaciones, a las que se refiere el apartado 6 del artículo 8 de esta Ley.
+5. Reglamentariamente se determinarán los supuestos en los que podrán hacerse efectivos los derechos consolidados en el plan de pensiones por parte de las personas con discapacidad, de acuerdo con lo previsto en el apartado 8 del artículo 8 de la presente Ley.
+6. El régimen regulado en esta disposición adicional será de aplicación a las aportaciones y prestaciones realizadas o percibidas de mutualidades de previsión social, de planes de previsión social, de planes de previsión asegurados, planes de previsión social empresarial y seguros que cubran exclusivamente el riesgo de gran dependencia conforme a lo dispuesto en la Ley de promoción de la autonomía personal y atención a las personas en situación de dependencia a favor de personas con discapacidad que cumplan los requisitos previstos en los anteriores apartados y los que se establezcan reglamentariamente. Los límites establecidos serán conjuntos para todos los sistemas de previsión social en esta disposición de las mismas a favor de personas con discapacidad que cumplan los requisitos previstos en los anteriores apartados.
+Se modifica por la disposición final 5.6 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### Disposición adicional quinta
+
+Disposición adicional quinta. Referencias orgánicas.
+Las referencias de este Texto Refundido realizadas al Ministerio o al Ministro de Economía se entienden realizadas al Ministerio o Ministro de Economía y Hacienda, respectivamente.
+Se añade por el art. único.6 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+
+### Disposición adicional sexta
+
+Disposición adicional sexta. Movilizaciones entre planes de pensiones, planes de previsión asegurados y planes de previsión social empresarial contemplados en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos de Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+1. Los derechos consolidados en los planes de pensiones del sistema individual y asociado podrán movilizarse a uno o varios planes de previsión asegurados o a un plan de previsión social empresarial, por decisión unilateral del partícipe, o por terminación del plan. La movilización por decisión unilateral podrá ser total o parcial.
+Los derechos económicos de los beneficiarios en los planes de pensiones del sistema individual y asociado podrán movilizarse a planes de previsión asegurados a petición del beneficiario, siempre y cuando las condiciones de garantía y aseguramiento de la prestación así lo permitan y en las condiciones previstas en las especificaciones de los planes de pensiones correspondientes. Esta movilización podrá ser total o parcial.
+Los derechos consolidados de los partícipes en los planes de pensiones del sistema de empleo no podrán movilizarse a planes de previsión asegurados o a planes de previsión social empresarial, salvo en el supuesto de extinción de la relación laboral y sólo si estuviese previsto en las especificaciones del plan, o por terminación del plan de pensiones.
+Los derechos económicos de los beneficiarios en los planes de empleo no podrán movilizarse salvo por terminación del plan de pensiones.
+2. El tomador de un plan de previsión asegurado podrá movilizar la totalidad o parte de su provisión matemática a otro u otros planes de previsión asegurados de los que sea tomador, o a uno o varios planes de pensiones de los que sea partícipe, o a un plan de previsión social empresarial en el que tenga la condición de asegurado, con los requisitos y condiciones que reglamentariamente se establezcan. Una vez producida la contingencia la movilización será posible siempre y cuando las condiciones de garantía y aseguramiento de la prestación así lo permitan y en las condiciones que se establezcan en el plan de previsión asegurado.
+3. Los asegurados de los planes de previsión social empresarial podrán movilizar sus derechos económicos a otros planes de previsión social empresarial, a planes de previsión asegurados o a planes de pensiones en el supuesto de cese de la relación laboral y sólo si estuviere previsto en las condiciones generales, especiales o particulares de la póliza.
+4. El procedimiento para las movilizaciones previsto en el artículo 8.8 de esta Ley será de aplicación a las movilizaciones a que se refieren los apartados anteriores, entendiéndose realizadas, según los casos, a la entidad aseguradora de origen o de destino, o al plan de previsión asegurado o plan de previsión social empresarial de origen o de destino, las referencias de dicho artículo a la entidad gestora de origen o de destino o al plan o fondo de pensiones de origen o de destino, con las adecuadas adaptaciones reglamentarias.
+Se añade por la disposición final 13.14 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117
+
+### Disposición adicional séptima
+
+Disposición adicional séptima. Disponibilidad de los planes de pensiones en caso de procedimiento de ejecución sobre la vivienda habitual.
+Durante el plazo de cuatro años desde la entrada en vigor de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, excepcionalmente, los partícipes de los planes de pensiones podrán hacer efectivos sus derechos consolidados en el supuesto de procedimiento de ejecución sobre la vivienda habitual del partícipe. Reglamentariamente podrán regularse las condiciones y términos en que podrán hacerse efectivos los derechos consolidados en dicho supuesto, debiendo concurrir al menos los siguientes requisitos:
+a) Que el partícipe se halle incurso en un procedimiento de ejecución forzosa judicial, administrativa o venta extrajudicial para el cumplimiento de obligaciones, en el que se haya acordado proceder a la enajenación de su vivienda habitual.
+b) Que el partícipe no disponga de otros bienes, derechos o rentas en cuantía suficiente para satisfacer la totalidad de la deuda objeto de la ejecución y evitar la enajenación de la vivienda.
+c) Que el importe neto de sus derechos consolidados en el plan o planes de pensiones sea suficiente para evitar la enajenación de la vivienda.
+El reembolso de derechos consolidados se hará efectivo a solicitud del partícipe, en un pago único en la cuantía necesaria para evitar la enajenación de la vivienda, sujetándose al régimen fiscal establecido para las prestaciones de los planes de pensiones. El reembolso deberá efectuarse dentro del plazo máximo de siete días hábiles desde que el partícipe presente la documentación acreditativa correspondiente.
+El Gobierno, a propuesta del Ministro de Economía y Competitividad, podrá ampliar el plazo previsto en esta disposición para solicitar el cobro de los planes de pensiones en caso de procedimiento de ejecución sobre la vivienda habitual o establecer nuevos periodos a tal efecto, teniendo en cuenta las necesidades de renta disponible ante la situación de endeudamiento derivada de las circunstancias de la economía.
+Lo dispuesto en esta disposición será igualmente aplicable a los asegurados de los planes de previsión asegurados, planes de previsión social empresarial y mutualidades de previsión social a que se refiere el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, y en general a los seguros colectivos que instrumentan compromisos por pensiones en los que se haya transmitido a los asegurados la titularidad de los derechos derivados de las primas pagadas por la empresa así como respecto a los derechos correspondientes a primas pagadas por aquellos.
+Se modifica por la disposición final 1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfprimera.
+ Se añade por la disposición final 1 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
+
+### Disposición adicional octava
+
+Disposición adicional octava. Disposición anticipada de los derechos económicos en los sistemas de previsión social complementaria análogos a los planes de pensiones.
+Los derechos económicos de los asegurados o mutualistas derivados de primas, aportaciones y contribuciones abonadas a planes de previsión asegurados, planes de previsión social empresarial y contratos de seguro concertados con mutualidades de previsión social contemplados en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no residentes y sobre el Patrimonio, podrán hacerse efectivos anticipadamente en los supuestos excepcionales de liquidez y de disposición anticipada previstos para los planes de pensiones en el apartado 8 del artículo 8 de esta Ley, en los términos y condiciones establecidos en dicho precepto y en las normas que lo desarrollan reglamentariamente.
+En el caso de los planes de previsión social empresarial y los concertados con mutualidades de previsión social para los trabajadores de las empresas, la disposición anticipada de derechos derivados de primas, aportaciones o contribuciones realizadas con al menos diez años de antigüedad será posible si así lo permite el compromiso y se prevé en la correspondiente póliza de seguro o reglamento de prestaciones. En el caso de que la entidad aseguradora cuente con inversiones afectas el derecho de disposición anticipada se valorará por el valor de mercado de los activos asignados.
+En las Mutualidades de Previsión Social que, en virtud de lo establecido en la disposición adicional decimoquinta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, actúen como sistema alternativo al alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, no se podrán hacer efectivos los derechos económicos de los productos o seguros utilizados para cumplir con dicha función alternativa en los supuestos de liquidez previstos en los párrafos primero y segundo del apartado 8 del artículo 8 de esta Ley.
+Téngase en cuenta que esta última actualización establecida por la disposición final 4.14 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+ Redacción anterior:
+ "Los derechos económicos de los asegurados o mutualistas derivados de primas, aportaciones y contribuciones abonadas a planes de previsión asegurados, planes de previsión social empresarial y contratos de seguro concertados con mutualidades de previsión social contemplados en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no residentes y sobre el Patrimonio, podrán hacerse efectivos anticipadamente en los supuestos excepcionales de liquidez y de disposición anticipada previstos para los planes de pensiones en el apartado 8 del artículo 8 de esta Ley, en los términos y condiciones establecidos en dicho precepto y en las normas que lo desarrollan reglamentariamente.
+ En el caso de los planes de previsión social empresarial y los concertados con mutualidades de previsión social para los trabajadores de las empresas, la disposición anticipada de derechos derivados de primas, aportaciones o contribuciones realizadas con al menos diez años de antigüedad será posible si así lo permite el compromiso y se prevé en la correspondiente póliza de seguro o reglamento de prestaciones. En el caso de que la entidad aseguradora cuente con inversiones afectas el derecho de disposición anticipada se valorará por el valor de mercado de los activos asignados."
+Se modifica por la disposición final 4.14 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+ Se añade por la disposición final 1.4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+
+### Disposición adicional novena
+
+Disposición adicional novena. Tratamiento de datos de carácter personal.
+Los tratamientos de datos de carácter personal de las personas físicas se realizarán con estricta sujeción a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos y en el resto de la normativa sobre protección de datos personales.
+Se añade por el art. 212.37 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+
+### Disposición adicional décima
+
+Disposición adicional décima. Adaptación de los planes de pensiones de empleo u otros instrumentos de previsión social empresarial preexistentes.
+1. Los planes de pensiones de empleo u otros instrumentos de previsión social empresarial con el mismo régimen fiscal aplicable en el Impuesto sobre la Renta de las Personas Físicas que el aplicable respecto de los planes de pensiones de empleo existentes a la entrada en vigor de esta ley podrán adaptar sus especificaciones, pólizas o reglamentos de prestaciones, para integrarse en la categoría de planes de pensiones de empleo simplificados regulados en el artículo 67 en los términos que se establezcan reglamentariamente.
+2. Aquellas empresas que tuvieran constituido un plan de pensiones de empleo en los términos establecidos en el texto refundido de la Ley de Planes y Fondos de Pensiones u otros instrumentos de previsión social empresarial y se vean afectadas con posterioridad por un acuerdo colectivo de carácter sectorial en el que se prevea la instrumentación de compromisos por pensiones con sus personas trabajadoras a través de un plan de pensiones de empleo sectorial simplificado, podrán mantener los compromisos por pensiones en los instrumentos de previsión social de empleo preexistentes.
+3. La trasformación se acordará por decisión voluntaria de la comisión de control del plan u órgano competente en virtud de la modalidad de instrumento de previsión social empresarial, debiendo adaptar sus elementos institucionales en un plazo de doce meses desde la adopción de dicha decisión.
+4. En aquellas Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social, las empresas que tuvieran constituido un instrumento propio de previsión social de empleo y se vean afectadas con posterioridad por un acuerdo colectivo de carácter sectorial en el que se prevea la instrumentación de compromisos por pensiones con sus personas trabajadoras a través de un plan de pensiones de empleo sectorial simplificado, podrán mantener los compromisos por pensiones en el instrumento propio de previsión social preexistente.
+Se añade por el art. único.9 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición adicional undécima
+
+Disposición adicional undécima. Planes de pensiones en el ámbito de las Administraciones públicas.
+Los planes de pensiones en el ámbito de las Administraciones públicas serán objeto de negociación, dentro de las mesas generales de negociación según lo establecido en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, incluida en su caso la integración de dichos planes dentro de los Fondos de Pensiones de Empleo de promoción Pública regulados en esta ley.
+En aquellas Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social y que cuenten con instrumentos propios de previsión social, en las Administraciones Públicas de ámbito territorial igual o inferior al de la propia Comunidad Autónoma serán objeto de negociación los instrumentos propios de previsión social, dentro de las mesas generales de negociación según lo establecido en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+Se añade por el art. único.10 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición adicional duodécima
+
+Disposición adicional duodécima. Aplicación en las Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social.
+1. A los efectos de lo dispuesto en el Capítulo XII de esta ley y en sus disposiciones de desarrollo, en aquellas Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social se podrán instrumentar a través de sus instrumentos propios de previsión social:
+a) Los compromisos por pensiones que sean objeto de los acuerdos colectivos de carácter sectorial o de ámbito supraempresarial.
+b) Los compromisos por pensiones de las Administraciones públicas, incluidas las Corporaciones Locales, las entidades y organismos de ellas dependientes, en favor del personal a su servicio.
+c) Los acuerdos que adopten las asociaciones de personas trabajadoras por cuenta propia o autónomas para sus asociados, los sindicatos y los colegios profesionales o las mutualidades de previsión social en los que sus personas partícipes exclusivamente sean personas trabajadoras por cuenta propia o autónomos.
+d) Los acuerdos que adopten las sociedades cooperativas y laborales y las organizaciones representativas de las mismas para sus personas socias trabajadoras y de trabajo.
+2. Asimismo, cuando por un acuerdo colectivo de carácter sectorial o de ámbito supraempresarial se establezca la instrumentación de compromisos por pensiones con sus trabajadores a través de un plan de pensiones de empleo sectorial simplificado regulado en esta ley, en aquellas Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social y que cuenten con instrumentos propios de previsión social los convenios colectivos de ámbito inferior, o en ausencia de estos las empresas, podrán optar por la adhesión al plan de pensiones de empleo sectorial simplificado o a los instrumentos propios de previsión social de la Comunidad Autónoma.
+Si el acuerdo colectivo de carácter sectorial prevé la posibilidad de que las empresas del sector puedan no adherirse al plan sectorial simplificado y acordar la promoción de su propio plan de pensiones de empleo, dicha posibilidad será extensible a los instrumentos propios de previsión social de la Comunidad Autónoma.
+Las personas trabajadoras autónomas podrán adherirse al instrumento propio de previsión social de la Comunidad Autónoma que les corresponda por razón de su actividad.
+Se añade por el art. único.11 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición adicional decimotercera
+
+Disposición adicional decimotercera. Evaluación de incentivos por la Autoridad Independiente de Responsabilidad Fiscal.
+La eficacia de los incentivos establecidos en esta ley para los trabajadores asalariados, los trabajadores autónomos y las empresas será evaluada por la Autoridad Independiente de Responsabilidad Fiscal una vez transcurridos tres años de la entrada en vigor de dichos incentivos.
+Se añade por el art. único.12 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición transitoria primera
+
+Disposición transitoria primera. Régimen transitorio de integración voluntaria en planes de pensiones de instituciones de previsión existentes a la entrada en vigor de la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones.
+El régimen de integración voluntaria en planes de pensiones de fondos e instituciones de previsión, contenido en la disposición transitoria primera de la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, y en las normas de desarrollo y complementarias de la misma, mantendrá su vigencia respecto de las empresas, trabajadores y beneficiarios, y planes de reequilibrio, que se acogieron a dicha disposición para la integración de los derechos reconocidos en planes de pensiones al amparo de la misma.
+
+### Disposición transitoria segunda
+
+Disposición transitoria segunda. Adaptación de los planes y fondos de pensiones preexistentes a las modificaciones introducidas en la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, por el artículo 32 de la Ley 24/2001, de 27 de diciembre, de Medidas fiscales, administrativas y del orden social.
+Los planes y fondos de pensiones existentes a 1 de enero de 2002 deberán adaptarse a las modificaciones introducidas en la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, en virtud del artículo 32 de la Ley 24/2001, de 27 de diciembre, de Medidas fiscales, administrativas y del orden social, e incorporadas a la presente Ley. Dicha adaptación se ajustará a lo previsto en los párrafos siguientes.
+La designación de defensor del partícipe de los planes de pensiones del sistema individual a que se refiere el apartado 5 del artículo 7 de esta Ley, deberá efectuarse y comunicarse a la Dirección General de Seguros y Fondos de Pensiones en el plazo de doce meses contados desde el día 1 de enero de 2002. La comisión de control del plan individual se entenderá disuelta una vez se haya comunicado dicha designación y notificado la misma por el promotor a la comisión de control correspondiente.
+La información trimestral a los partícipes y beneficiarios de los planes de pensiones a que se refiere el apartado 8 del artículo 19 de esta Ley, será obligatoria a partir de 1 de enero del ejercicio 2003 respecto del último trimestre anterior.
+Sin perjuicio de lo anterior y de la aplicación efectiva, desde 1 de enero de 2002, de las demás disposiciones establecidas en el artículo 32 de la Ley 24/2001, de 27 de diciembre, de Medidas fiscales, administrativas y del orden social, e incorporadas a la presente Ley, se concede un plazo de doce meses desde el día 1 de enero de 2002 para la adaptación formal de las especificaciones de los planes de pensiones y normas de funcionamiento de los fondos de pensiones a lo previsto en las referidas disposiciones.
+Los planes de pensiones de empleo existentes a 31 de diciembre de 2001 mantendrán la distribución de representantes en la comisión de control del plan prevista en sus especificaciones a dicha fecha, o la establecida en modificaciones posteriores de las especificaciones por acuerdo de negociación colectiva. En todo caso, en los planes de pensiones que no hayan adaptado sus especificaciones a lo establecido en los párrafos b) y c) del artículo 7.3 de esta Ley antes de 1 de enero de 2006, dichos preceptos se aplicarán directamente.
+Los fondos de pensiones que el 1 de enero de 2002 integren simultáneamente planes de pensiones de empleo y planes del sistema asociado o individual podrán mantener tal situación, si bien en este caso no podrán integrar nuevos planes de pensiones individuales o asociados. La comisión de control de estos fondos se formará exclusivamente con representación de los planes de empleo, y se deberá proceder a las adaptaciones necesarias en un plazo de 12 meses desde el 1 de enero de 2002. No obstante, el acceso de los referidos fondos de pensiones a la actividad transfronteriza, regulada en la Sección 2.ª del Capítulo X, requerirá la movilización previa a otros fondos de pensiones de los planes de pensiones adscritos que no correspondan al sistema de empleo, y limitará su actividad a los planes del sistema de empleo.
+Los partícipes de planes de pensiones que, a 1 de enero de 2002, cuenten con una edad superior a los sesenta y cinco años no ejerzan o hubieran cesado en la relación laboral o profesional y no se encuentren cotizando para la contingencia de jubilación en ningún Régimen de Seguridad Social deberán, en el plazo de seis meses contados desde 1 de enero de 2002, comunicar la forma de cobro de la prestación correspondiente de acuerdo con la normativa vigente. Este régimen no será de aplicación a los partícipes que hubiesen realizado aportaciones exclusivamente para fallecimiento.
+Se modifica el penúltimo párrafo por el art. único.5 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
+ Se modifica el antepenúltimo párrafo por el art. 1 del Real Decreto-Ley 16/2005, de 30 de diciembre. Ref. BOE-A-2005-21600
+ Se amplía hasta el 31 de diciembre de 2005 el plazo establecido en el antepenúltimo párrafo por el art. único del Real Decreto-Ley 10/2004, de 23 de diciembre. Ref. 2004/21689
+
+### Disposición transitoria tercera
+
+Disposición transitoria tercera. Aplicación del régimen sancionador.
+El régimen sancionador en materia de ordenación y supervisión de los planes y fondos de pensiones regulado en la presente Ley será de aplicación a las infracciones tipificadas en la misma cometidas a partir de 10 de noviembre de 1995.
+Se modifica por la disposición final 5.7 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### Disposición transitoria cuarta
+
+Disposición transitoria cuarta. Régimen de los compromisos por pensiones ya asumidos.
+1. Los empresarios que en el momento de la entrada en vigor de las disposiciones transitorias decimocuarta, decimoquinta y decimosexta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, mantengan compromisos por pensiones con sus trabajadores o empleados cuya materialización no se ajuste a la disposición adicional primera de la presente Ley, deberán adaptar dicha materialización a la citada disposición adicional. A tal efecto, se concede un plazo hasta el 16 de noviembre de 2002 para proceder a dicha adaptación.
+Hasta que tenga lugar el cumplimiento de la obligación que impone el párrafo anterior se mantendrá la efectividad de los compromisos por pensiones y el cobro de las prestaciones causadas en los términos estipulados entre el empresario y los trabajadores.
+2. Excepcionalmente, podrán mantenerse los compromisos por pensiones asumidos mediante fondos internos por las entidades de crédito, las entidades aseguradoras y las sociedades y agencias de valores. Para que dichos fondos internos puedan servir a tal finalidad deberán estar dotados con criterios, al menos, tan rigurosos como los aplicables a los asumidos mediante planes de pensiones y habrán de ser autorizados por el Ministerio de Economía, previo informe del órgano o ente a quien corresponda el control de los recursos afectos, el cual supervisará el funcionamiento de los fondos internos y podrá proponer al Ministerio de Economía la adopción, en su caso, de las medidas correctoras pertinentes, e incluso la revocación de la autorización administrativa concedida, todo ello en los términos que reglamentariamente se establezcan.
+
+### Disposición transitoria quinta
+
+Disposición transitoria quinta. Régimen transitorio de acomodación de los compromisos por pensiones mediante planes de pensiones.
+1. Los fondos incluidos en la disposición transitoria cuarta anterior a los que se exige una transformación obligatoria, podrán ser integrados en un plan de pensiones, con las condiciones y beneficios previstos en los apartados siguientes.
+Asimismo, cualquier otra institución de previsión del personal podrá transformarse, disolverse o liquidarse y dar lugar a la integración en un plan de pensiones de personas y recursos inicialmente vinculados a dicha institución.
+La formalización de los referidos planes de pensiones deberá efectuarse dentro del plazo que finaliza el día 16 de noviembre de 2002.
+2. En los casos no amparados en el apartado precedente, los nuevos compromisos asumidos por las empresas a partir de la entrada en vigor de las disposiciones transitorias decimocuarta, decimoquinta y decimosexta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados que se instrumenten mediante la formalización de un plan de pensiones dentro del plazo que finaliza el 16 de noviembre de 2002, permitirán a promotor y partícipes acceder a los beneficios previstos en los apartados siguientes, con las condiciones específicas que se establecen.
+3. Reglamentariamente se determinarán las condiciones que han de cumplir los planes de pensiones resultantes de las transformaciones amparadas en el presente régimen transitorio para adaptarse a la presente Ley, así como los términos, límites y procedimientos que deben respetar los planes de reequilibrio en el caso de asunción de compromisos por pensiones mediante planes de pensiones, y los planes de financiación en el caso de asunción de compromisos por pensiones mediante contratos de seguros, que incluirán en su caso el compromiso explícito de la transferencia de los elementos patrimoniales.
+Para la ejecución y cumplimiento de los planes de reequilibrio y de los planes de financiación no será precisa la aprobación administrativa, si bien deberán presentarse ante la Dirección General de Seguros y Fondos de Pensiones en la forma y plazos que se establezcan reglamentariamente.
+No obstante, el Ministro de Economía podrá, en los casos y condiciones que estime necesario, establecer el requisito de la aprobación administrativa de dichos planes de reequilibrio y de financiación.
+4. Dentro del presente régimen transitorio y para el personal activo a la fecha de formalización del plan de pensiones, podrá reconocerse derechos por servicios pasados derivados de compromisos anteriores recogidos expresamente en convenio colectivo o disposición equivalente, o correspondientes a servicios previos a la formalización del plan de pensiones.
+Este régimen transitorio será de aplicación también a los planes de pensiones existentes que se modifiquen para incorporar derechos por servicios pasados y prestaciones causadas derivados de compromisos no integrados con anterioridad en el plan, entendiéndose hechas las referencias a la formalización del plan a la modificación, en su caso, de éste.
+La cuantía reconocida en concepto de derechos por servicios pasados que se corresponda con fondos constituidos se imputará a cada partícipe. En su caso, la diferencia positiva entre los derechos reconocidos por servicios pasados y los fondos constituidos correspondientes configurará un déficit, el cual se calculará individualmente para cada partícipe. Este déficit global podrá ser amortizado, previa su adecuada actualización, y según las condiciones que se pacten, mediante dotaciones anuales no inferiores al 5 por 100 de la cuantía total, a lo largo de un plazo no superior a quince años contados desde la formalización del plan de pensiones, siempre que al cumplirse la mitad del período definitivamente establecido en el plan de reequilibrio se haya amortizado la mitad del déficit global. El déficit individualizado de cada partícipe tendrá que encontrarse amortizado en el momento del acaecimiento de cualquiera de las contingencias cubiertas por el plan de pensiones.
+En razón de las especiales circunstancias que puedan concurrir en sectores de actividad concretos sujetos a una regulación específica, reglamentariamente podrán autorizarse plazos de amortización del déficit global superiores en concordancia con otras disposiciones vigentes.
+La imputación de las aportaciones correspondientes a derechos reconocidos por servicios pasados se entiende sin perjuicio del régimen fiscal transitorio recogido en la disposición transitoria sexta de esta Ley.
+La cuantía máxima de los servicios pasados reconocidos correspondientes a los ejercicios anuales iniciados a 1 de enero de 1988 hasta el de formalización del plan de pensiones no podrá rebasar, para cada uno de estos años, el importe del límite financiero anual vigente en cada uno de tales ejercicios. No obstante, los servicios pasados se integrarán en su totalidad cuando los compromisos por pensiones asumidos por las empresas con sus empleados o trabajadores deriven de convenio colectivo. A tales efectos se modificarán, cuando proceda, los correspondientes planes de reequilibrio para su aprobación o verificación por la Dirección General de Seguros y Fondos de Pensiones.
+Sin perjuicio de lo dispuesto en el párrafo anterior, las aportaciones precisas para la cobertura de los mencionados servicios pasados estarán exceptuadas del límite máximo de aportación individual recogido en el apartado 3 del artículo 5 de la presente Ley.
+5. Los empresarios o las instituciones amparadas en este régimen transitorio, que hayan instrumentado los compromisos por pensiones con sus trabajadores e integrado sus recursos en un plan de pensiones, instrumentarán las obligaciones contraídas respecto a los jubilados o beneficiarios con anterioridad a la formalización del referido plan, bien a través del mismo o bien a través de un seguro colectivo.
+En el supuesto de integrar a dichos beneficiarios en el plan de pensiones, serán admisibles aportaciones posteriores, para la adecuada cobertura de las prestaciones causadas, siempre que se incorporen en el correspondiente plan de reequilibrio y éste se ajuste a la legislación que le sea aplicable.
+Las contribuciones y las primas de contrato de seguro satisfechas para hacer frente a estas prestaciones causadas no precisarán de la imputación fiscal a los referidos beneficiarios, siendo objeto de deducción en el impuesto personal del promotor en los términos establecidos en el apartado 1 de la disposición transitoria sexta de esta Ley.
+El régimen fiscal previsto en este apartado será, asimismo, de aplicación a las primas de contratos de seguro satisfechas para la cobertura de prestaciones causadas respecto a los jubilados o beneficiarios amparadas en este régimen transitorio, aunque los empresarios o las instituciones no hayan instrumentado los compromisos por pensiones con sus trabajadores en activo a través de un plan de pensiones, salvo que las empresas o entidades se acojan a la excepción prevista en el apartado 2 de la disposición transitoria cuarta 6. El desarrollo reglamentario del presente régimen transitorio regulará, en particular, las normas actuariales para la cuantificación de los servicios pasados con especial referencia a los nuevos compromisos de pensiones a los que se refiere el apartado 2 de esta disposición transitoria ; el proceso de transferencia de los elementos patrimoniales correspondiente a un plan de pensiones, a integrar en su fondo de pensiones, su tipo de remuneración, así como su plazo temporal que con carácter general no deberá rebasar los diez años, salvo condiciones específicas establecidas por norma expresa que justifiquen una ampliación adicional ; el proceso de amortización del déficit individual y global que afecte a cada plan de pensiones, así como su posible actualización y demás cuestiones que por la normativa vigente requieran desarrollo reglamentario.
+7. Quedarán exentos de tributación los incrementos o disminuciones patrimoniales que se pongan de manifiesto como consecuencia de la integración o aportación a un plan de pensiones de los elementos patrimoniales afectos a compromisos de previsión del personal.
+Igualmente estarán exentos los incrementos o disminuciones patrimoniales que se pongan de manifiesto como consecuencia de la enajenación de los elementos patrimoniales afectos a compromisos de previsión del personal cuando el importe de la venta se aporte en planes de pensiones ; si sólo se aportara parcialmente, la exención se aplicará a la parte proporcional del incremento que haya sido aportado.
+8. Para acceder a este tratamiento fiscal será condición indispensable que los elementos patrimoniales afectos a los compromisos de previsión del personal se encuentren en tal situación a 3 de marzo de 1995.
+
+### Disposición transitoria sexta
+
+Disposición transitoria sexta. Régimen fiscal transitorio de acomodación de los compromisos por pensiones.
+1. Las contribuciones correspondientes a servicios pasados, realizadas por promotores de planes de pensiones para dar cumplimiento a lo establecido en las disposiciones transitorias cuarta y quinta de la presente Ley, podrán ser objeto de deducción en el impuesto personal del promotor de acuerdo con los siguientes criterios:
+a) Las cantidades deducidas en cada ejercicio no podrán superar el 10 por 100 del total de las contribuciones a planes de pensiones necesarias para dar cumplimiento a lo establecido en las disposiciones transitorias cuarta y quinta de esta Ley.
+b) En ningún caso podrán ser objeto de deducción importes que no hayan sido traspasados con anterioridad, efectivamente, a un plan de pensiones.
+c) No podrán ser objeto de deducción las contribuciones a planes de pensiones realizadas con cargo a fondos internos por compromisos de pensiones cuya dotación hubiera resultado, en su momento, fiscalmente deducible.
+Si el fondo interno por compromisos de pensiones hubiera sido dotado con carácter parcialmente deducible en el impuesto personal del empresario, la deducción fiscal de las contribuciones a planes de pensiones, realizadas al amparo del presente régimen transitorio, será proporcional a las dotaciones no deducibles.
+Las contribuciones a planes de pensiones a que se refieren los párrafos anteriores no se integrarán en la base imponible del Impuesto sobre la Renta de las Personas Físicas correspondiente a los partícipes, sin perjuicio de la tributación futura de las prestaciones de los planes de pensiones en los términos previstos por la normativa vigente.
+El régimen fiscal previsto en el presente apartado resultará aplicable en relación con las contribuciones efectuadas por las empresas a mutualidades de previsión social formalizadas a través de contratos de seguro o reglamentos de prestaciones de las mutualidades que reúnan los requisitos previstos en el artículo 46 de la Ley 40/1998, del Impuesto sobre la Renta de las Personas Físicas y otras normas tributarias, realizadas para dar cumplimiento a lo establecido en las disposiciones transitorias cuarta y quinta de la presente Ley, siempre que dichas contribuciones se correspondan a derechos por servicios pasados reconocidos con arreglo a los límites establecidos para los planes de pensiones en el apartado 4 de la disposición transitoria quinta y en su desarrollo reglamentario.
+2. Las primas de contratos de seguro sobre la vida satisfechas por empresarios para dar cumplimiento a lo dispuesto en la disposición transitoria cuarta de la presente Ley, serán deducibles en el impuesto personal del empresario en el ejercicio económico en que se haga efectivo su pago, siempre y cuando se cumplan los requisitos recogidos en el artículo 71 del Reglamento de Planes y Fondos de Pensiones, aprobado por Real Decreto 1307/1988, de 30 de septiembre. Quedan exceptuadas de tal deducción las primas de contratos de seguro sobre la vida satisfechas con cargo a fondos internos por compromisos de pensiones cuya dotación hubiera resultado, en su momento, fiscalmente deducible.
+Si el fondo interno por compromisos de pensiones hubiera sido dotado con carácter parcialmente deducible en el impuesto personal del empresario, la deducción fiscal de las primas de contratos de seguro sobre la vida satisfechas al amparo del presente régimen transitorio será proporcional a las dotaciones no deducibles.
+A efectos de lo dispuesto en los párrafos anteriores, la imputación fiscal de las primas a los sujetos a quienes se vinculen éstas deberá efectuarse por las cuantías que hayan sido deducidas y en el mismo período impositivo.
+Las prestaciones derivadas de los contratos de seguro sobre la vida a que se refiere el presente régimen transitorio tributarán por el Impuesto sobre la Renta de las Personas Físicas o, en su caso, por el Impuesto sobre Sucesiones y Donaciones, de acuerdo con lo dispuesto en la normativa vigente.
+
+### Disposición transitoria séptima
+
+Disposición transitoria séptima. Disposición anticipada y movilizaciones de derechos consolidados correspondientes a aportaciones realizadas a planes de pensiones y sistemas de previsión social complementarios análogos con anterioridad a 1 de enero de 2016.
+1. A efectos de lo previsto en el apartado 8 del artículo 8 de esta Ley sobre disposición anticipada de derechos consolidados correspondientes a aportaciones a planes de pensiones realizadas con al menos diez años de antigüedad, los derechos derivados de aportaciones efectuadas hasta el 31 de diciembre de 2015, con los rendimientos correspondientes a las mismas, serán disponibles a partir del 1 de enero de 2025.
+Reglamentariamente se establecerán las condiciones, términos y límites en que podrán hacerse efectivos los derechos consolidados en los supuestos previstos en esta disposición.
+Lo establecido en esta disposición transitoria será aplicable igualmente a los derechos económicos de los asegurados o mutualistas derivados de las primas, aportaciones y contribuciones abonadas con anterioridad a 1 de enero de 2016 a planes de previsión asegurados, planes de previsión social empresarial y contratos de seguro concertados con mutualidades de previsión social previstos en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no residentes y sobre el Patrimonio. A partir del 1 de enero de 2025 se podrán hacer efectivos los derechos económicos de los asegurados o mutualistas existentes a 31 de diciembre de 2015 con los rendimientos correspondientes o el valor de realización de los activos asignados.
+2. Las entidades dispondrán de un plazo hasta el 31 de diciembre de 2015 para adaptar sus procedimientos de movilización de derechos consolidados o económicos a efectos de la inclusión de la información prevista en el apartado 8 del artículo 8 de esta Ley relativa a la cuantía de las aportaciones de las que derivan los derechos objeto de traspaso y de las fechas en que se hicieron efectivas. En relación con aportaciones anteriores a 1 de enero de 2016 será suficiente informar de la cuantía de los derechos consolidados o económicos objeto de traspaso correspondientes a las mismas.
+Téngase en cuenta que esta disposición añadida por la disposición final 1.5 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327. entra en vigor el 1 de enero de 2015.
+Se añade por la disposición final 1.5 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
+ Se deroga por la disposición derogatoria única.g) del Real Decreto Legislativo 3/2004, de 5 de marzo. Ref. BOE-A-2004-4347
+
+### Disposición transitoria octava
+
+Disposición transitoria octava. Fondos de pensiones abiertos existentes con anterioridad a 1 de enero de 2016.
+Los fondos de pensiones de empleo o personales inscritos en el Registro Administrativo de Fondos de Pensiones que, a 31 de diciembre de 2015, vinieran operando como fondos de pensiones abiertos podrán continuar dicha actividad, así como seguir aplicando su régimen anterior de composición de la comisión de control del fondo en tanto mantengan planes de pensiones directamente integrados.
+Téngase en cuenta que esta disposición añadida por la disposición final 4.15 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+Se añade por la disposición final 4.15 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
+
+### Disposición transitoria novena
+
+Disposición transitoria novena. Normas transitorias como consecuencia de la entrada en vigor del Real Decreto-ley 11/2018, de 31 de agosto.
+1. Lo dispuesto en el apartado 4.b) de la disposición adicional primera de esta ley, en la redacción dada por el artículo primero del Real Decreto-ley 11/2018, de 31 de agosto, será aplicable a las primas abonadas por la empresa desde el 21 de mayo de 2018 que correspondan a periodos de servicios prestados desde dicha fecha.
+2. En el caso de compromisos por pensiones que a 20 de mayo de 2014 hubiesen dejado de incluir nuevos trabajadores y permanezcan cerrados a nuevos trabajadores será aplicable el régimen de adquisición de derechos estipulado en el compromiso o en la póliza.
+3. Las pólizas de seguro, las especificaciones y las bases técnicas de los planes de pensiones deberán adaptarse a lo previsto en la disposición adicional primera de esta ley, en la redacción dada por el mencionado Real Decreto-ley antes del 1 de julio de 2019, sin perjuicio de la aplicación efectiva de los derechos derivados de la misma.
+4. Las entidades aseguradoras y entidades gestoras de fondos de pensiones adaptarán sus procedimientos para cumplir las nuevas obligaciones de información a los asegurados y partícipes establecidas en la disposición adicional primera de esta ley, en la redacción dada por el referido Real Decreto-ley antes del 1 de julio de 2019.
+No obstante lo anterior, a partir de la entrada en vigor del Real Decreto-ley 11/2018, de 31 de agosto, los trabajadores asegurados que cesen su relación laboral deberán recibir información relativa a sus derechos económicos adquiridos y las condiciones que rigen su tratamiento futuro.
+Se añade por el art. 1.2 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#ap
+
+### Disposición transitoria décima
+
+Disposición transitoria décima. Mantenimiento de condiciones más favorables.
+La aplicación de lo dispuesto en la disposición adicional primera y disposición transitoria novena de esta ley, en la redacción dada por el artículo primero del Real Decreto-ley 11/2018, de 31 de agosto, no podrá suponer reducción de derechos adquiridos con anterioridad, ni menoscabo del derecho a la información, ni el establecimiento de condiciones de adquisición menos favorables que las estipuladas antes de su entrada en vigor.
+Se añade por el art. 1.3 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#ap
+
+### Disposición transitoria undécima
+
+Disposición transitoria undécima. Adaptación de los planes de pensiones asociados.
+1. Los planes de pensiones del sistema asociado de trabajadores por cuenta propia o autónomos, promovidos por las asociaciones de trabajadores por cuenta propia o autónomos para sus asociados o por colegios profesionales, existentes a la entrada en vigor de esta ley, dispondrán de un periodo máximo de cinco años para transformarse en planes de pensiones de empleo simplificados regulados en el artículo 67.1.c) de esta ley.
+2. El resto de planes de pensiones del sistema asociado preexistentes dispondrán igualmente de un plazo de cinco años para transformarse en un plan de pensiones individual.
+Cuando un plan de pensiones asociado cuente simultáneamente con personas partícipes que sean trabajadores por cuenta propia o autónomos y trabajadores por cuenta ajena, podrá acordarse la incorporación de los primeros a un plan de pensiones simplificado en los términos que se fijen reglamentariamente.
+3. La trasformación se acordará por decisión voluntaria de la comisión de control del plan, debiendo adaptar sus elementos institucionales en un plazo de doce meses desde la adopción de dicha decisión, a partir de la cual se atendrán a los preceptos que les sea de aplicación según la modalidad a la que pertenezcan.
+4. A partir de la entrada en vigor de esta disposición, no se podrán promover nuevos planes de pensiones del sistema asociado y los planes asociados existentes, que no se hayan transformado transcurrido el plazo máximo de cinco años de conformidad con lo establecido en los apartados anteriores, se mantendrán en dicha condición como planes asociados regidos por la normativa vigente hasta su terminación.
+Se añade por el art. único.13 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición transitoria duodécima
+
+Disposición transitoria duodécima. Movilización de derechos consolidados de los planes asociados.
+Durante el período máximo establecido en la disposición transitoria undécima, los derechos consolidados de las personas partícipes de los planes de pensiones asociados existentes se podrán movilizar a los planes de pensiones del sistema de empleo en los que las personas partícipes del plan asociado de origen puedan ostentar la condición de personas partícipes del plan de empleo de destino.
+Se añade por el art. único.14 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición transitoria decimotercera
+
+Disposición transitoria decimotercera. Limitación temporal en la movilización de la cuenta de posición de los planes de pensiones de empleo simplificados.
+No se permitirá la movilización de la cuenta de posición de los planes de pensiones de empleo simplificados a otros fondos de pensiones hasta la finalización del año natural siguiente al de la entrada en vigor de la Ley 12/2022, de 30 de junio, de regulación para el impulso de los planes de pensiones de empleo, por la que se modifica el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre.
+Se añade por el art. único.15 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au
+
+### Disposición final primera
+
+Disposición final primera. Actualización del límite fiscal de reducción de la base imponible del Impuesto sobre la Renta de las Personas Físicas.
+El límite fiscal de reducción de la base imponible del Impuesto sobre la Renta de las Personas Físicas previsto en la Ley reguladora de dicho Impuesto podrá ser actualizado por las Leyes de Presupuestos Generales del Estado.
+
+### Disposición final segunda
+
+Disposición final segunda. Previsión social complementaria del personal al servicio de las administraciones, entidades y empresas públicas.
+Las Administraciones públicas, incluidas las Corporaciones Locales, las entidades, organismos de ellas dependientes y empresas participadas por las mismas podrán promover planes de pensiones de empleo y realizar aportaciones a los mismos, así como a contratos de seguro colectivos, incluidos los formalizados por mutualidades de previsión social empresarial, al amparo de la disposición adicional primera de esta Ley, con el fin de instrumentar los compromisos u obligaciones por pensiones vinculados a las contingencias del artículo 8.6 de esta Ley referidos a su personal funcionario o laboral o en relación de servicios regulada por normas administrativas estatutarias.
+Lo anterior se entenderá sin perjuicio de la correspondiente habilitación presupuestaria de que disponga cada entidad o empresa, así como de las posibles autorizaciones previas a las que pudiesen estar sometidas tales aportaciones tanto de carácter normativo como administrativo, para, en su caso, destinar recursos a la financiación e instrumentación de la previsión social complementaria del personal.
+Las prestaciones abonadas a través de planes de pensiones o contratos de seguros colectivos, incluidos los formalizados por mutualidades de previsión social empresarial, conforme a la disposición adicional primera de esta Ley, no tendrán la consideración de pensiones públicas ni se computarán a efectos de limitación del señalamiento inicial o fijación de la cuantía máxima de las pensiones públicas.
+Las Cortes Generales y las Asambleas Legislativas de las Comunidades Autónomas podrán promover y realizar aportaciones a planes de pensiones del sistema de empleo, así como a contratos de seguro colectivo de los regulados en la disposición adicional primera de esta Ley, en los que podrán incorporarse como partícipes y asegurados los miembros de las respectivas Cámaras. A estos efectos, la promoción de un plan de pensiones de empleo para dichos miembros, podrá realizarse, en su caso, como excepción a lo establecido en el artículo 4.1.a) de esta Ley sobre promoción de un único plan de empleo por cada promotor.
+Se añade un nuevo párrafo por la disposición final 5.8 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764
+
+### Disposición final tercera
+
+Disposición final tercera. Potestad reglamentaria.
+Corresponde al Gobierno, a propuesta del Ministro de Economía, y previa audiencia de la Junta Consultiva de Seguros, desarrollar la presente Ley en las materias que se atribuyen expresamente a la potestad reglamentaria así como, en general, en todas aquellas susceptibles de desarrollo reglamentario en que sea preciso para su correcta ejecución y, en especial, la aprobación o modificación, en su caso, del Reglamento o Reglamentos específicos.
+Corresponde al Ministro de Economía, previa audiencia de la Junta Consultiva de Seguros, desarrollar la presente Ley en las materias que específicamente atribuye a la potestad reglamentaria de dicho Ministro y, asimismo, desarrollar las disposiciones reglamentarias aprobadas por el Gobierno en cuanto sea necesario para su ejecución y así se prevea en ellas.
+
+### Disposición final cuarta
+
+Disposición final cuarta. Títulos competenciales.
+Las disposiciones contenidas en esta Ley tienen la consideración de ordenación básica de la banca y los seguros y de bases de la planificación general de la actividad económica, con arreglo al artículo 149.1.11.ª y 13.ª de la Constitución, salvo las materias que se enumeran a continuación:
+a) Son competencia exclusiva del Estado con arreglo al artículo 149.1.6.ª de la Constitución, por constituir legislación mercantil, las materias reguladas en:
+1.º Los Capítulos I y II, salvo el artículo 7.
+2.º Los apartados 3 a 10 del artículo 8, salvo el párrafo tercero del apartado 8.
+3.º El artículo 43.
+4.º Los apartados 2 y 7 del artículo 45.
+5.º La disposición adicional primera, salvo el apartado 6, y las disposiciones adicionales tercera, cuarta, sexta, séptima y octava.
+6.º Las disposiciones transitorias primera y cuarta, así como la disposición transitoria quinta, salvo los párrafos tercero y cuarto del apartado 5 y los apartados 7 y 8;
+7.º El apartado 1 de la disposición transitoria séptima, la disposición transitoria novena, salvo el apartado 4, y la disposición transitoria décima.
+b) Son competencia exclusiva del Estado con arreglo al artículo 149.1.14.ª de la Constitución, ya que constituyen legislación de la Hacienda general, las materias reguladas en:
+1.º El párrafo tercero del apartado 8 del artículo 8.
+2.º Los párrafos tercero y cuarto del apartado 5, y los apartados 7 y 8 de la disposición transitoria quinta.
+3.º La disposición transitoria sexta
+4.º Las disposiciones finales primera y segunda.
+Se modifica por el art. 212.38 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-24
+ Se modifica por el art. único.7 de la Ley 11/2006, de 16 de mayo. Ref. BOE-A-2006-8636
